@@ -1,12 +1,12 @@
 {
   "description": "A palavra do Senhor pra voc\u00ea dan\u00e7ar.",
-  "num_followers": 120669,
+  "num_followers": 120689,
   "original_name": "Balada Gospel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5MTc3MDg4ODU5M2UyNzQ5ODQ4YjU4YzlmZTI0NGYxNmI3NTc2NGE2",
+  "snapshot_id": "MCwzN2IxOGQ3OTc3MWNkMjUyMzAyN2FmOWViOTFhOGYwYTQ2YzdhZjQy",
   "tracks": [
     {
       "added_at": "2024-01-05 13:32:37",
@@ -99,26 +99,6 @@
     {
       "added_at": "2024-01-05 13:32:37",
       "album": {
-        "name": "\u00c9 Tudo Sobre Voc\u00ea (M\u00cbDNA Remix)",
-        "url": "https://open.spotify.com/album/7GFrYcpAuj4fCgu5C7fg6e"
-      },
-      "artists": [
-        {
-          "name": "MORADA",
-          "url": "https://open.spotify.com/artist/2tswayWsUGjUwpvN8KRwuN"
-        },
-        {
-          "name": "M\u00cbDNA",
-          "url": "https://open.spotify.com/artist/4hcSDzKhjTPU244SMBRPzd"
-        }
-      ],
-      "duration_ms": 233906,
-      "name": "\u00c9 Tudo Sobre Voc\u00ea - M\u00cbDNA Remix",
-      "url": "https://open.spotify.com/track/38MdsTHfF7KvE48N0T3mjL"
-    },
-    {
-      "added_at": "2024-01-05 13:32:37",
-      "album": {
         "name": "Algo Novo (Kennto Remix) (feat. Lukas Agustinho)",
         "url": "https://open.spotify.com/album/60MRcOTfoSmqLMqnvTAdUw"
       },
@@ -139,6 +119,26 @@
       "duration_ms": 188040,
       "name": "Algo Novo (Kennto Remix) (feat. Lukas Agustinho)",
       "url": "https://open.spotify.com/track/7x4uXkwjA86WgaQXPxRObd"
+    },
+    {
+      "added_at": "2024-01-05 13:32:37",
+      "album": {
+        "name": "\u00c9 Tudo Sobre Voc\u00ea (M\u00cbDNA Remix)",
+        "url": "https://open.spotify.com/album/7GFrYcpAuj4fCgu5C7fg6e"
+      },
+      "artists": [
+        {
+          "name": "MORADA",
+          "url": "https://open.spotify.com/artist/2tswayWsUGjUwpvN8KRwuN"
+        },
+        {
+          "name": "M\u00cbDNA",
+          "url": "https://open.spotify.com/artist/4hcSDzKhjTPU244SMBRPzd"
+        }
+      ],
+      "duration_ms": 233906,
+      "name": "\u00c9 Tudo Sobre Voc\u00ea - M\u00cbDNA Remix",
+      "url": "https://open.spotify.com/track/38MdsTHfF7KvE48N0T3mjL"
     },
     {
       "added_at": "2024-01-05 13:32:37",
@@ -483,26 +483,6 @@
     {
       "added_at": "2024-01-05 13:32:37",
       "album": {
-        "name": "Joquebede (Remix)",
-        "url": "https://open.spotify.com/album/0I5KP5Tn7qAiXyZ5bnPwga"
-      },
-      "artists": [
-        {
-          "name": "Dj Yuuki",
-          "url": "https://open.spotify.com/artist/1NzRv31U5R4nhzNFipOhUb"
-        },
-        {
-          "name": "Israel Santos",
-          "url": "https://open.spotify.com/artist/4YI34fXVNnt3gsRhXjRcSu"
-        }
-      ],
-      "duration_ms": 142285,
-      "name": "Joquebede - Remix",
-      "url": "https://open.spotify.com/track/3qsLU0X41Wv9UODSn5ZmbZ"
-    },
-    {
-      "added_at": "2024-01-05 13:32:37",
-      "album": {
         "name": "Deus \u00c9 Bom o Tempo Todo",
         "url": "https://open.spotify.com/album/5oRhfc3iIUtusvE6Ky3gXs"
       },
@@ -523,6 +503,26 @@
       "duration_ms": 160846,
       "name": "Deus \u00c9 Bom o Tempo Todo",
       "url": "https://open.spotify.com/track/05ytvNmyU6F4aujecROxWg"
+    },
+    {
+      "added_at": "2024-01-05 13:32:37",
+      "album": {
+        "name": "Joquebede (Remix)",
+        "url": "https://open.spotify.com/album/0I5KP5Tn7qAiXyZ5bnPwga"
+      },
+      "artists": [
+        {
+          "name": "Dj Yuuki",
+          "url": "https://open.spotify.com/artist/1NzRv31U5R4nhzNFipOhUb"
+        },
+        {
+          "name": "Israel Santos",
+          "url": "https://open.spotify.com/artist/4YI34fXVNnt3gsRhXjRcSu"
+        }
+      ],
+      "duration_ms": 142285,
+      "name": "Joquebede - Remix",
+      "url": "https://open.spotify.com/track/3qsLU0X41Wv9UODSn5ZmbZ"
     },
     {
       "added_at": "2024-01-05 13:32:37",
@@ -591,26 +591,6 @@
     {
       "added_at": "2024-01-05 13:32:37",
       "album": {
-        "name": "Viagem",
-        "url": "https://open.spotify.com/album/0dDGfAgcwH8Qiii7Hhro4L"
-      },
-      "artists": [
-        {
-          "name": "Dj Del Mag",
-          "url": "https://open.spotify.com/artist/2xUpGkJ8TAdUcbULBEP2S4"
-        },
-        {
-          "name": "L\u00e9o Batista",
-          "url": "https://open.spotify.com/artist/3r8TROv0FXpp9ei6vepm1m"
-        }
-      ],
-      "duration_ms": 189268,
-      "name": "Viagem",
-      "url": "https://open.spotify.com/track/4mGBoJ2tqbOcSF3XzDw0lr"
-    },
-    {
-      "added_at": "2024-01-05 13:32:37",
-      "album": {
         "name": "Uma Vida \u00c9 Pouco pra Te Amar (Remix)",
         "url": "https://open.spotify.com/album/25tMLrsvNjbljb3BwGShD0"
       },
@@ -631,6 +611,26 @@
       "duration_ms": 161169,
       "name": "Uma Vida \u00c9 Pouco pra Te Amar - Remix",
       "url": "https://open.spotify.com/track/0QkcBA3DzmzsHAspxqcvZ2"
+    },
+    {
+      "added_at": "2024-01-05 13:32:37",
+      "album": {
+        "name": "Viagem",
+        "url": "https://open.spotify.com/album/0dDGfAgcwH8Qiii7Hhro4L"
+      },
+      "artists": [
+        {
+          "name": "Dj Del Mag",
+          "url": "https://open.spotify.com/artist/2xUpGkJ8TAdUcbULBEP2S4"
+        },
+        {
+          "name": "L\u00e9o Batista",
+          "url": "https://open.spotify.com/artist/3r8TROv0FXpp9ei6vepm1m"
+        }
+      ],
+      "duration_ms": 189268,
+      "name": "Viagem",
+      "url": "https://open.spotify.com/track/4mGBoJ2tqbOcSF3XzDw0lr"
     },
     {
       "added_at": "2024-01-05 13:32:37",
@@ -783,22 +783,6 @@
     {
       "added_at": "2024-01-05 13:32:37",
       "album": {
-        "name": "Tomado",
-        "url": "https://open.spotify.com/album/6El5tIeqH2hPoD0TZSos0j"
-      },
-      "artists": [
-        {
-          "name": "Duo Franco",
-          "url": "https://open.spotify.com/artist/0rnMMhoMmFkyFZe4dNY29b"
-        }
-      ],
-      "duration_ms": 236792,
-      "name": "Tomado",
-      "url": "https://open.spotify.com/track/7p5T7ZyVmvgBvRXFI1KzMS"
-    },
-    {
-      "added_at": "2024-01-05 13:32:37",
-      "album": {
         "name": "Encontrei o Meu Lugar (Remix)",
         "url": "https://open.spotify.com/album/4hgCaDOMhntpliryE9N84R"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 165967,
       "name": "Encontrei o Meu Lugar - Remix",
       "url": "https://open.spotify.com/track/3G9aCmxxZcbvLQL6G3cOko"
+    },
+    {
+      "added_at": "2024-01-05 13:32:37",
+      "album": {
+        "name": "Tomado",
+        "url": "https://open.spotify.com/album/6El5tIeqH2hPoD0TZSos0j"
+      },
+      "artists": [
+        {
+          "name": "Duo Franco",
+          "url": "https://open.spotify.com/artist/0rnMMhoMmFkyFZe4dNY29b"
+        }
+      ],
+      "duration_ms": 236792,
+      "name": "Tomado",
+      "url": "https://open.spotify.com/track/7p5T7ZyVmvgBvRXFI1KzMS"
     },
     {
       "added_at": "2024-01-05 13:32:37",

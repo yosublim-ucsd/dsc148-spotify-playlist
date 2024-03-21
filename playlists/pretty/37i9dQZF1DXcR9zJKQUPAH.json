@@ -1,12 +1,12 @@
 {
   "description": "2017 highlights from the home of indie music.",
-  "num_followers": 147515,
+  "num_followers": 147555,
   "original_name": "Best of Indie 2017",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5MWM0ZDk1ZjEzNzhkZTI1ODEyYWZlYTYxNTIxZTRjZjJjYWVjOTMx",
+  "snapshot_id": "MCwwNmQ2ZDIwOGVhOGEyZGNjZDU3NmFiNTA0NDgzYWZiYmNiNTNmN2Y0",
   "tracks": [
     {
       "added_at": "2024-03-18 13:08:31",
@@ -811,6 +811,22 @@
     {
       "added_at": "2024-03-18 13:08:31",
       "album": {
+        "name": "Mystery of Love (From the Original Motion Picture \u201cCall Me by Your Name\u201d)",
+        "url": "https://open.spotify.com/album/2uMaCzN7a35J3I3qceso0c"
+      },
+      "artists": [
+        {
+          "name": "Sufjan Stevens",
+          "url": "https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c"
+        }
+      ],
+      "duration_ms": 248964,
+      "name": "Mystery of Love (From the Original Motion Picture \u201cCall Me by Your Name\u201d)",
+      "url": "https://open.spotify.com/track/0oTtnnedK0C4unALxVTPhz"
+    },
+    {
+      "added_at": "2024-03-18 13:08:31",
+      "album": {
         "name": "Humanz (Deluxe)",
         "url": "https://open.spotify.com/album/0NvirtaDCaZU5PAW1O5FDE"
       },
@@ -827,22 +843,6 @@
       "duration_ms": 197546,
       "name": "Andromeda (feat. DRAM)",
       "url": "https://open.spotify.com/track/2C0KFbb4v9CNWR5c9jWcKC"
-    },
-    {
-      "added_at": "2024-03-18 13:08:31",
-      "album": {
-        "name": "Mystery of Love (From the Original Motion Picture \u201cCall Me by Your Name\u201d)",
-        "url": "https://open.spotify.com/album/2uMaCzN7a35J3I3qceso0c"
-      },
-      "artists": [
-        {
-          "name": "Sufjan Stevens",
-          "url": "https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c"
-        }
-      ],
-      "duration_ms": 248964,
-      "name": "Mystery of Love (From the Original Motion Picture \u201cCall Me by Your Name\u201d)",
-      "url": "https://open.spotify.com/track/0oTtnnedK0C4unALxVTPhz"
     },
     {
       "added_at": "2024-03-18 13:08:31",
@@ -931,6 +931,22 @@
     {
       "added_at": "2024-03-18 13:08:31",
       "album": {
+        "name": "The Nashville Sound",
+        "url": "https://open.spotify.com/album/0gYLr4tpPpRrPg2WIS64jw"
+      },
+      "artists": [
+        {
+          "name": "Jason Isbell and the 400 Unit",
+          "url": "https://open.spotify.com/artist/3Lg3FGwBxOGuefqekQzRUf"
+        }
+      ],
+      "duration_ms": 215563,
+      "name": "If We Were Vampires",
+      "url": "https://open.spotify.com/track/250RLekaiL1q9qZer975Eg"
+    },
+    {
+      "added_at": "2024-03-18 13:08:31",
+      "album": {
         "name": "Humanz (Deluxe)",
         "url": "https://open.spotify.com/album/0NvirtaDCaZU5PAW1O5FDE"
       },
@@ -947,22 +963,6 @@
       "duration_ms": 181906,
       "name": "Saturnz Barz (feat. Popcaan)",
       "url": "https://open.spotify.com/track/7l9CE3wmEGOUYw1j4ETjnL"
-    },
-    {
-      "added_at": "2024-03-18 13:08:31",
-      "album": {
-        "name": "The Nashville Sound",
-        "url": "https://open.spotify.com/album/0gYLr4tpPpRrPg2WIS64jw"
-      },
-      "artists": [
-        {
-          "name": "Jason Isbell and the 400 Unit",
-          "url": "https://open.spotify.com/artist/3Lg3FGwBxOGuefqekQzRUf"
-        }
-      ],
-      "duration_ms": 215563,
-      "name": "If We Were Vampires",
-      "url": "https://open.spotify.com/track/250RLekaiL1q9qZer975Eg"
     },
     {
       "added_at": "2024-03-18 13:08:31",
@@ -1127,18 +1127,18 @@
     {
       "added_at": "2024-03-18 13:08:31",
       "album": {
-        "name": "Blood Type",
-        "url": "https://open.spotify.com/album/1xpNb3oOnWsZJYQyomLe4Z"
+        "name": "Saw You In A Dream",
+        "url": "https://open.spotify.com/album/1x8SKoPwUTpOfc0w5gBPsk"
       },
       "artists": [
         {
-          "name": "Cautious Clay",
-          "url": "https://open.spotify.com/artist/6iWuBN32BqCJAeXW6o3nil"
+          "name": "The Japanese House",
+          "url": "https://open.spotify.com/artist/3IunaFjvNKj98JW89JYv9u"
         }
       ],
-      "duration_ms": 202597,
-      "name": "Cold War",
-      "url": "https://open.spotify.com/track/6DwiGVCgXGREeCyJZtX7S1"
+      "duration_ms": 208280,
+      "name": "Saw You In A Dream",
+      "url": "https://open.spotify.com/track/0U3u0HdRQjD8mAMYBak4Ok"
     },
     {
       "added_at": "2024-03-18 13:08:31",
@@ -1159,18 +1159,18 @@
     {
       "added_at": "2024-03-18 13:08:31",
       "album": {
-        "name": "Saw You In A Dream",
-        "url": "https://open.spotify.com/album/1x8SKoPwUTpOfc0w5gBPsk"
+        "name": "Blood Type",
+        "url": "https://open.spotify.com/album/1xpNb3oOnWsZJYQyomLe4Z"
       },
       "artists": [
         {
-          "name": "The Japanese House",
-          "url": "https://open.spotify.com/artist/3IunaFjvNKj98JW89JYv9u"
+          "name": "Cautious Clay",
+          "url": "https://open.spotify.com/artist/6iWuBN32BqCJAeXW6o3nil"
         }
       ],
-      "duration_ms": 208280,
-      "name": "Saw You In A Dream",
-      "url": "https://open.spotify.com/track/0U3u0HdRQjD8mAMYBak4Ok"
+      "duration_ms": 202597,
+      "name": "Cold War",
+      "url": "https://open.spotify.com/track/6DwiGVCgXGREeCyJZtX7S1"
     },
     {
       "added_at": "2024-03-18 13:08:31",
@@ -1191,22 +1191,6 @@
     {
       "added_at": "2024-03-18 13:08:31",
       "album": {
-        "name": "Superorganism",
-        "url": "https://open.spotify.com/album/15TFB6uLZlb3gnCysRrLix"
-      },
-      "artists": [
-        {
-          "name": "Superorganism",
-          "url": "https://open.spotify.com/artist/0Wkm45quqfx3NepJpXDvwE"
-        }
-      ],
-      "duration_ms": 165391,
-      "name": "Something For Your M.I.N.D.",
-      "url": "https://open.spotify.com/track/4rCKRVJZKVysScn2piDuOT"
-    },
-    {
-      "added_at": "2024-03-18 13:08:31",
-      "album": {
         "name": "Crack-Up",
         "url": "https://open.spotify.com/album/0xtTojp4zfartyGtbFKN3v"
       },
@@ -1219,6 +1203,22 @@
       "duration_ms": 210506,
       "name": "If You Need To, Keep Time on Me",
       "url": "https://open.spotify.com/track/7d0XkI4iJ32nxeFAHFXbLQ"
+    },
+    {
+      "added_at": "2024-03-18 13:08:31",
+      "album": {
+        "name": "Superorganism",
+        "url": "https://open.spotify.com/album/15TFB6uLZlb3gnCysRrLix"
+      },
+      "artists": [
+        {
+          "name": "Superorganism",
+          "url": "https://open.spotify.com/artist/0Wkm45quqfx3NepJpXDvwE"
+        }
+      ],
+      "duration_ms": 165391,
+      "name": "Something For Your M.I.N.D.",
+      "url": "https://open.spotify.com/track/4rCKRVJZKVysScn2piDuOT"
     },
     {
       "added_at": "2024-03-18 13:08:31",

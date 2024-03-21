@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4g1k3dwPPvk.md) - [plain]
 
 > The Latin soundtrack of the 90s! Cover: Selena
 
-[Spotify](https://open.spotify.com/user/spotify) - 274,916 likes - 100 songs - 7 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 274,937 likes - 100 songs - 7 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -87,8 +87,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4g1k3dwPPvk.md) - [plain]
 | 77 | [La Copa de la Vida \(La Cancion Oficial de la Copa Mundial, Francia '98\) \- Spanglish Radio Edit](https://open.spotify.com/track/0KnZ3Fgnqjmz4Sl2OA5zwa) | [Ricky Martin](https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ) | [Ricky Martin](https://open.spotify.com/album/1k1Cr3nlJDa8pvwZUJ5xfj) | 4:37 |
 | 78 | [Vida](https://open.spotify.com/track/6i8KuACD15eZ84THZaG19i) | [La Mafia](https://open.spotify.com/artist/3rhO3rDk432VyAwyZnkECs) | [20th Anniversary Series](https://open.spotify.com/album/61V77t4VuVQcJvUvevRIlX) | 3:26 |
 | 79 | [La Raza](https://open.spotify.com/track/3zCg6CUmhxHukbUs0nd7ar) | [Kid Frost](https://open.spotify.com/artist/6OxjXk1y4QXXRUJyldFIIG) | [Hispanic Causing Panic](https://open.spotify.com/album/54du51RSgc4enNk2K2E2JX) | 3:29 |
-| 80 | [Sólo Se Vive una Vez](https://open.spotify.com/track/5dg7OfEwTVvUZfqt24ObwI) | [Azucar Moreno](https://open.spotify.com/artist/2WrKqjMRKr5MitNYaNgvl3) | [Mucho Azucar \(Grandes Exitos\)](https://open.spotify.com/album/7xcIu7L8tCgaKYWndaS0uV) | 3:30 |
-| 81 | [El Matador](https://open.spotify.com/track/7N2qyJrAp16ghZFBloT8Ye) | [Los Fabulosos Cadillacs](https://open.spotify.com/artist/2FS22haX3FYbyOsUAkuYqZ) | [Lo Esencial](https://open.spotify.com/album/2P9cy8tTevB3UBgAD3MQio) | 4:34 |
+| 80 | [El Matador](https://open.spotify.com/track/7N2qyJrAp16ghZFBloT8Ye) | [Los Fabulosos Cadillacs](https://open.spotify.com/artist/2FS22haX3FYbyOsUAkuYqZ) | [Lo Esencial](https://open.spotify.com/album/2P9cy8tTevB3UBgAD3MQio) | 4:34 |
+| 81 | [Sólo Se Vive una Vez](https://open.spotify.com/track/5dg7OfEwTVvUZfqt24ObwI) | [Azucar Moreno](https://open.spotify.com/artist/2WrKqjMRKr5MitNYaNgvl3) | [Mucho Azucar \(Grandes Exitos\)](https://open.spotify.com/album/7xcIu7L8tCgaKYWndaS0uV) | 3:30 |
 | 82 | [El Circo](https://open.spotify.com/track/0b4NG6vOqNdqzuJauiQkwE) | [Los Tigres Del Norte](https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy) | [Unidos Para Siempre](https://open.spotify.com/album/1ijDZGR3S97X5vFpQce9iy) | 2:47 |
 | 83 | [Ya Me Voy para Siempre \- En Vivo](https://open.spotify.com/track/4316Ntihofu3zTa7b5OeGT) | [Los Temerarios](https://open.spotify.com/artist/3YbOSxo85kla7RID8ugnW3) | [En Concierto, Vol\. 2](https://open.spotify.com/album/3LPGevFYVZeBWHbcik2qgu) | 4:13 |
 | 84 | [I Need to Know](https://open.spotify.com/track/7ffwRz8lZyDOE4Vj58Lo72) | [Marc Anthony](https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6) | [Marc Anthony](https://open.spotify.com/album/2zG5uEJ1zY00uN6qXjPu5d) | 3:47 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4g1k3dwPPvk.md) - [plain]
 | 99 | [Maria La Del Barrio](https://open.spotify.com/track/2Faj2un6rwrQYYKP5kK7ee) | [Thalia](https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb) | [En Extasis](https://open.spotify.com/album/48Squ1oYsMrjEGUKnmEHyp) | 3:55 |
 | 100 | [Rico Suave](https://open.spotify.com/track/6FfdQJ9HJcJAvsPVIyoGZ5) | [Gerardo](https://open.spotify.com/artist/1dqCEoBppk9X0WmOTJe993) | [Mo' Ritmo](https://open.spotify.com/album/1XtHtO1xVuCH53X1Vp3Fgc) | 4:51 |
 
-Snapshot ID: `MCw5OWNjNGI0ZjBhNGY0MWUwZGFjYTdmNjhjNWEzMGZkOGVmMDQ2OTFi`
+Snapshot ID: `MCw1OGNkMjkxOThmODg5ZGU0MzVjMTI2NzAyYjE1MzMzODI5MTY5NGZi`

@@ -4,7 +4,7 @@
 
 > This is TOKiMONSTA\. The essential tracks, all in one playlist.
 
-114 songs - 6 hr 28 min
+115 songs - 6 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -117,7 +117,8 @@
 | [The Beginning](https://open.spotify.com/track/0eVOAnzGXpbboig0AtjvrA) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI) | [Desiderium](https://open.spotify.com/album/2mhTitMTzAO14t7oxcXvaC) | 1:41 | 2023-05-02 | 2024-02-12 |
 | [The Beginning](https://open.spotify.com/track/5XRYpfQZnOPUx4fNhmEzMm) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI) | [Desiderium](https://open.spotify.com/album/5F5I5bpS03YzEwBRH3vrGh) | 1:41 | 2024-02-11 |  |
 | [The Ghost Burns \(TOKiMONSTA Remix\)](https://open.spotify.com/track/1heTHqqur0LBIZuQzuUTSV) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI) | [The Ghost Burns \(TOKiMONSTA Remix\)](https://open.spotify.com/album/6mHwNoULGKR4jaxRWUcUfB) | 3:59 | 2024-03-15 |  |
-| [Time To](https://open.spotify.com/track/1uJZNnSaILpgIWks1zYFKW) | [Analogue Monsta](https://open.spotify.com/artist/6QGjDTH5REc5e9irNSQ5K2), [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI), [Suzi Analogue](https://open.spotify.com/artist/0hNK7ZdOjiUJd2C17JAjK8) | [Time To / Conversion Theory](https://open.spotify.com/album/0dXSyC5EkDgf2QKICe0etz) | 3:02 | 2023-12-13 |  |
+| [Time To](https://open.spotify.com/track/1uJZNnSaILpgIWks1zYFKW) | [Analogue Monsta](https://open.spotify.com/artist/6QGjDTH5REc5e9irNSQ5K2), [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI), [Suzi Analogue](https://open.spotify.com/artist/0hNK7ZdOjiUJd2C17JAjK8) | [Time To / Conversion Theory](https://open.spotify.com/album/0dXSyC5EkDgf2QKICe0etz) | 3:02 | 2023-12-13 | 2024-03-21 |
+| [Time To](https://open.spotify.com/track/2mW3CIZa1khCJehpWhp79C) | [Analogue Monsta](https://open.spotify.com/artist/6QGjDTH5REc5e9irNSQ5K2), [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI), [Suzi Analogue](https://open.spotify.com/artist/0hNK7ZdOjiUJd2C17JAjK8) | [Boom](https://open.spotify.com/album/4hxs85emYrIVnF1xBy7rCO) | 3:02 | 2024-03-20 |  |
 | [Up and Out](https://open.spotify.com/track/2URXBdx9353u9BxBHQoD7K) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI) | [Oasis Nocturno](https://open.spotify.com/album/50vgSpF6a7VAOUj9XRR2H1) | 4:40 | 2023-05-02 | 2024-02-06 |
 | [Up and Out](https://open.spotify.com/track/5GNucBLhzuqYB53KXz7HpI) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI) | [Oasis Nocturno](https://open.spotify.com/album/5ZfWYaLvWVVJqua0Qzku0T) | 4:40 | 2024-02-05 |  |
 | [We Love \(Felix Cartal Remix\)](https://open.spotify.com/track/4sq6ztw5bT9pibLbt8xxD3) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI), [MNDR](https://open.spotify.com/artist/7gQNLR8mykA1KjGClbPYHe), [Felix Cartal](https://open.spotify.com/artist/6roDXEmZ6AARdOUv6x5U2v) | [Lune Rouge \(Remixed\)](https://open.spotify.com/album/7uKVs92IVcvcoMzhPbi8V5) | 3:10 | 2023-05-02 | 2024-02-07 |

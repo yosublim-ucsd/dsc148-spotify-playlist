@@ -1,12 +1,12 @@
 {
   "description": "A mix of electric roots rock and folk-infused alternative. Cover: Nathaniel Rateliff & the Night Sweats",
-  "num_followers": 490910,
+  "num_followers": 490924,
   "original_name": "Folk Rock Favorites",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhNGQ1ODkxODVlMTc5ZDU5MzdjZjgxMzc2ZTI2N2VmYzhhOTBmNTFk",
+  "snapshot_id": "MCw2MTc1YzUyMDRhNjc5MGI5OGM4ZmExZWZiZGJmMzk0Nzg0NWYxMTAw",
   "tracks": [
     {
       "added_at": "2023-10-20 04:00:00",
@@ -661,6 +661,22 @@
       "url": "https://open.spotify.com/track/0AXHqychsqAuL0ZNXI3kWq"
     },
     {
+      "added_at": "2023-10-20 04:00:00",
+      "album": {
+        "name": "Fits Of Laughter",
+        "url": "https://open.spotify.com/album/1SuYWmzfeZOnStKfSfnJ0D"
+      },
+      "artists": [
+        {
+          "name": "Bendigo Fletcher",
+          "url": "https://open.spotify.com/artist/6O8lpJl2nITlA3dJfT95pM"
+        }
+      ],
+      "duration_ms": 251746,
+      "name": "Sugar in the Creek",
+      "url": "https://open.spotify.com/track/0Ppp8AhUasTiQxp4RHwyj5"
+    },
+    {
       "added_at": "2024-02-09 05:00:00",
       "album": {
         "name": "Burial Ground",
@@ -679,22 +695,6 @@
       "duration_ms": 244773,
       "name": "Burial Ground",
       "url": "https://open.spotify.com/track/1Xzyo31tkXB53PaRnPziLR"
-    },
-    {
-      "added_at": "2023-10-20 04:00:00",
-      "album": {
-        "name": "Fits Of Laughter",
-        "url": "https://open.spotify.com/album/1SuYWmzfeZOnStKfSfnJ0D"
-      },
-      "artists": [
-        {
-          "name": "Bendigo Fletcher",
-          "url": "https://open.spotify.com/artist/6O8lpJl2nITlA3dJfT95pM"
-        }
-      ],
-      "duration_ms": 251746,
-      "name": "Sugar in the Creek",
-      "url": "https://open.spotify.com/track/0Ppp8AhUasTiQxp4RHwyj5"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -857,22 +857,6 @@
       "url": "https://open.spotify.com/track/6JBePQo5cw6z7PvCbkQ09t"
     },
     {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
-        "name": "It's Been a While",
-        "url": "https://open.spotify.com/album/2hXnzYHalL5s1lcRvIicCf"
-      },
-      "artists": [
-        {
-          "name": "Shane Smith & the Saints",
-          "url": "https://open.spotify.com/artist/4pLxUMyDrijXynrUP59whJ"
-        }
-      ],
-      "duration_ms": 246840,
-      "name": "It's Been a While",
-      "url": "https://open.spotify.com/track/72tyEYz2P2KJgA7DYAMj1t"
-    },
-    {
       "added_at": "2023-10-20 04:00:00",
       "album": {
         "name": "All Your Favorite Bands",
@@ -887,6 +871,22 @@
       "duration_ms": 243319,
       "name": "Things Happen",
       "url": "https://open.spotify.com/track/2SYvX2G6D5SD6BpijIOBpG"
+    },
+    {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
+        "name": "It's Been a While",
+        "url": "https://open.spotify.com/album/2hXnzYHalL5s1lcRvIicCf"
+      },
+      "artists": [
+        {
+          "name": "Shane Smith & the Saints",
+          "url": "https://open.spotify.com/artist/4pLxUMyDrijXynrUP59whJ"
+        }
+      ],
+      "duration_ms": 246840,
+      "name": "It's Been a While",
+      "url": "https://open.spotify.com/track/72tyEYz2P2KJgA7DYAMj1t"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -1035,22 +1035,6 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
-        "name": "Weathervanes",
-        "url": "https://open.spotify.com/album/2gL0IM5SYhCxJebPaKdDkx"
-      },
-      "artists": [
-        {
-          "name": "Jason Isbell and the 400 Unit",
-          "url": "https://open.spotify.com/artist/3Lg3FGwBxOGuefqekQzRUf"
-        }
-      ],
-      "duration_ms": 374834,
-      "name": "This Ain't It",
-      "url": "https://open.spotify.com/track/6B14xfqJG4JCzf0gaFkQ21"
-    },
-    {
-      "added_at": "2023-10-20 04:00:00",
-      "album": {
         "name": "Happy Birthday, Ratboy",
         "url": "https://open.spotify.com/album/2MJKg2QIVQtkOSUAme4hjO"
       },
@@ -1063,6 +1047,22 @@
       "duration_ms": 169066,
       "name": "Go Outside",
       "url": "https://open.spotify.com/track/2OnKQdktx8Ri0Fhto8lYTk"
+    },
+    {
+      "added_at": "2023-10-20 04:00:00",
+      "album": {
+        "name": "Weathervanes",
+        "url": "https://open.spotify.com/album/2gL0IM5SYhCxJebPaKdDkx"
+      },
+      "artists": [
+        {
+          "name": "Jason Isbell and the 400 Unit",
+          "url": "https://open.spotify.com/artist/3Lg3FGwBxOGuefqekQzRUf"
+        }
+      ],
+      "duration_ms": 374834,
+      "name": "This Ain't It",
+      "url": "https://open.spotify.com/track/6B14xfqJG4JCzf0gaFkQ21"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -1083,22 +1083,6 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
-        "name": "Good Woman",
-        "url": "https://open.spotify.com/album/66A7X1EqFQEEvuE5Nezqrl"
-      },
-      "artists": [
-        {
-          "name": "The Staves",
-          "url": "https://open.spotify.com/artist/5G49Sq5mMzAkGL4ZP6eVPY"
-        }
-      ],
-      "duration_ms": 197640,
-      "name": "Good Woman",
-      "url": "https://open.spotify.com/track/1jQoqq9UMkt4IASvOYe6TU"
-    },
-    {
-      "added_at": "2023-10-20 04:00:00",
-      "album": {
         "name": "Into The Mystery",
         "url": "https://open.spotify.com/album/3VJ6mi9zBjEeDOTW167lMF"
       },
@@ -1111,6 +1095,22 @@
       "duration_ms": 234677,
       "name": "Into The Mystery",
       "url": "https://open.spotify.com/track/7zUgIo1qgHuJ3LmeFxmqiN"
+    },
+    {
+      "added_at": "2023-10-20 04:00:00",
+      "album": {
+        "name": "Good Woman",
+        "url": "https://open.spotify.com/album/66A7X1EqFQEEvuE5Nezqrl"
+      },
+      "artists": [
+        {
+          "name": "The Staves",
+          "url": "https://open.spotify.com/artist/5G49Sq5mMzAkGL4ZP6eVPY"
+        }
+      ],
+      "duration_ms": 197640,
+      "name": "Good Woman",
+      "url": "https://open.spotify.com/track/1jQoqq9UMkt4IASvOYe6TU"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -1359,22 +1359,6 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
-        "name": "The Waves, The Wake",
-        "url": "https://open.spotify.com/album/4Bj3F7hjjfJm5XW2LY1wXi"
-      },
-      "artists": [
-        {
-          "name": "Great Lake Swimmers",
-          "url": "https://open.spotify.com/artist/2HcZuUtnktqMHm4H1R9gAR"
-        }
-      ],
-      "duration_ms": 197787,
-      "name": "Alone but Not Alone",
-      "url": "https://open.spotify.com/track/3A19z3kNfPtKvXU5NuAs2J"
-    },
-    {
-      "added_at": "2023-10-20 04:00:00",
-      "album": {
         "name": "Get Down",
         "url": "https://open.spotify.com/album/4li8nEW2egUoMBzWkKbHHQ"
       },
@@ -1387,6 +1371,22 @@
       "duration_ms": 151515,
       "name": "Get Down",
       "url": "https://open.spotify.com/track/5NFHQLN5tdjkTdUBkNGDEo"
+    },
+    {
+      "added_at": "2023-10-20 04:00:00",
+      "album": {
+        "name": "The Waves, The Wake",
+        "url": "https://open.spotify.com/album/4Bj3F7hjjfJm5XW2LY1wXi"
+      },
+      "artists": [
+        {
+          "name": "Great Lake Swimmers",
+          "url": "https://open.spotify.com/artist/2HcZuUtnktqMHm4H1R9gAR"
+        }
+      ],
+      "duration_ms": 197787,
+      "name": "Alone but Not Alone",
+      "url": "https://open.spotify.com/track/3A19z3kNfPtKvXU5NuAs2J"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -1407,18 +1407,18 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
-        "name": "Rudolph",
-        "url": "https://open.spotify.com/album/0R2NgA8mg7wRzqpO0dLia1"
+        "name": "Grizfolk",
+        "url": "https://open.spotify.com/album/0AfobQJbuAN9JgfcTvF20R"
       },
       "artists": [
         {
-          "name": "MJ Lenderman",
-          "url": "https://open.spotify.com/artist/4tK6Z8fK7Sc9133byjPGIT"
+          "name": "Grizfolk",
+          "url": "https://open.spotify.com/artist/6Xa4nbrSTfbioA4lLShbjh"
         }
       ],
-      "duration_ms": 211348,
-      "name": "Rudolph",
-      "url": "https://open.spotify.com/track/7kTUoMrKA0duKYHWliWW7k"
+      "duration_ms": 204441,
+      "name": "The Ripple",
+      "url": "https://open.spotify.com/track/6EfxByCmL6EYCtnLIKCOy6"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -1439,22 +1439,6 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
-        "name": "Grizfolk",
-        "url": "https://open.spotify.com/album/0AfobQJbuAN9JgfcTvF20R"
-      },
-      "artists": [
-        {
-          "name": "Grizfolk",
-          "url": "https://open.spotify.com/artist/6Xa4nbrSTfbioA4lLShbjh"
-        }
-      ],
-      "duration_ms": 204441,
-      "name": "The Ripple",
-      "url": "https://open.spotify.com/track/6EfxByCmL6EYCtnLIKCOy6"
-    },
-    {
-      "added_at": "2023-10-20 04:00:00",
-      "album": {
         "name": "Different Kinds of Light",
         "url": "https://open.spotify.com/album/1f1u0MpV823YGBjQBb8JJ9"
       },
@@ -1467,6 +1451,22 @@
       "duration_ms": 215493,
       "name": "Now is the Time",
       "url": "https://open.spotify.com/track/5PiY6q31Ps3st88R3wNLhE"
+    },
+    {
+      "added_at": "2023-10-20 04:00:00",
+      "album": {
+        "name": "Rudolph",
+        "url": "https://open.spotify.com/album/0R2NgA8mg7wRzqpO0dLia1"
+      },
+      "artists": [
+        {
+          "name": "MJ Lenderman",
+          "url": "https://open.spotify.com/artist/4tK6Z8fK7Sc9133byjPGIT"
+        }
+      ],
+      "duration_ms": 211348,
+      "name": "Rudolph",
+      "url": "https://open.spotify.com/track/7kTUoMrKA0duKYHWliWW7k"
     },
     {
       "added_at": "2023-10-20 04:00:00",

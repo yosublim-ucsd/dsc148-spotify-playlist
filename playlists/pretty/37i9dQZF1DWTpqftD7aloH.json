@@ -1,12 +1,12 @@
 {
   "description": "No caminho para igreja, trabalho ou voltando para casa, louve ao Senhor em todo o tempo. ",
-  "num_followers": 342720,
+  "num_followers": 342878,
   "original_name": "Louvando no Tr\u00e2nsito",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmZDM2MjRkMDY5ZWQ3NDI3YzFiMjk4YWIyZmNlOTljZjRlNzE5NDA4",
+  "snapshot_id": "MCw0ZDZiOWU0OGY1N2RmMzUwYzQ2ZDlhY2Q2MzRlMzMxYmMyM2M2YjQ0",
   "tracks": [
     {
       "added_at": "2024-01-05 13:21:41",
@@ -851,6 +851,22 @@
     {
       "added_at": "2024-01-05 13:21:41",
       "album": {
+        "name": "Casa De Deus",
+        "url": "https://open.spotify.com/album/2ZYiW69PA1iRSCPGNcoLPm"
+      },
+      "artists": [
+        {
+          "name": "Eli Soares",
+          "url": "https://open.spotify.com/artist/5zblJYkCzvB51Jh29FB07V"
+        }
+      ],
+      "duration_ms": 216320,
+      "name": "Me Ajude A Melhorar",
+      "url": "https://open.spotify.com/track/63ZKT26bj7ni15pl3MGMpU"
+    },
+    {
+      "added_at": "2024-01-05 13:21:41",
+      "album": {
         "name": "Port\u00f5es Celestiais (Ao Vivo)",
         "url": "https://open.spotify.com/album/574eXP5AevEROvGHuUdGSv"
       },
@@ -867,22 +883,6 @@
       "duration_ms": 350226,
       "name": "Port\u00f5es Celestiais - Ao Vivo",
       "url": "https://open.spotify.com/track/5b3OazQ41nLo3CNeuLyMPA"
-    },
-    {
-      "added_at": "2024-01-05 13:21:41",
-      "album": {
-        "name": "Casa De Deus",
-        "url": "https://open.spotify.com/album/2ZYiW69PA1iRSCPGNcoLPm"
-      },
-      "artists": [
-        {
-          "name": "Eli Soares",
-          "url": "https://open.spotify.com/artist/5zblJYkCzvB51Jh29FB07V"
-        }
-      ],
-      "duration_ms": 216320,
-      "name": "Me Ajude A Melhorar",
-      "url": "https://open.spotify.com/track/63ZKT26bj7ni15pl3MGMpU"
     },
     {
       "added_at": "2024-01-05 13:21:41",
@@ -963,22 +963,6 @@
     {
       "added_at": "2024-01-05 13:21:41",
       "album": {
-        "name": "A Ele a Gl\u00f3ria (Ao Vivo)",
-        "url": "https://open.spotify.com/album/72mzPRnaOjSY2uWdMqChwY"
-      },
-      "artists": [
-        {
-          "name": "Gabriela Rocha",
-          "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
-        }
-      ],
-      "duration_ms": 437928,
-      "name": "A Ele a Gl\u00f3ria - Ao Vivo",
-      "url": "https://open.spotify.com/track/5aH9yQIcGLtxjDBUhMRkSi"
-    },
-    {
-      "added_at": "2024-01-05 13:21:41",
-      "album": {
         "name": "Pra que outros possam viver",
         "url": "https://open.spotify.com/album/0hPCxbrJbUeArwhQpBbq2h"
       },
@@ -991,6 +975,22 @@
       "duration_ms": 386560,
       "name": "Vai Valer a Pena",
       "url": "https://open.spotify.com/track/7fzImqefMkagp3jEeKtdVy"
+    },
+    {
+      "added_at": "2024-01-05 13:21:41",
+      "album": {
+        "name": "A Ele a Gl\u00f3ria (Ao Vivo)",
+        "url": "https://open.spotify.com/album/72mzPRnaOjSY2uWdMqChwY"
+      },
+      "artists": [
+        {
+          "name": "Gabriela Rocha",
+          "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
+        }
+      ],
+      "duration_ms": 437928,
+      "name": "A Ele a Gl\u00f3ria - Ao Vivo",
+      "url": "https://open.spotify.com/track/5aH9yQIcGLtxjDBUhMRkSi"
     },
     {
       "added_at": "2024-01-05 13:21:41",
@@ -1327,8 +1327,8 @@
     {
       "added_at": "2024-01-05 13:21:41",
       "album": {
-        "name": "Agrade\u00e7o (Ao Vivo)",
-        "url": "https://open.spotify.com/album/7q8tdlooUHOuHtvfm6M1LA"
+        "name": "Clamo Jesus",
+        "url": "https://open.spotify.com/album/4Wjcs71kOvbTCLYuqZqXjC"
       },
       "artists": [
         {
@@ -1336,17 +1336,17 @@
           "url": "https://open.spotify.com/artist/0GQKmEguhkY8DCzH4NdJvD"
         },
         {
-          "name": "Leandro Rodrigues",
-          "url": "https://open.spotify.com/artist/3sPrLEud945nswy3EMr7YK"
+          "name": "Marsena",
+          "url": "https://open.spotify.com/artist/3MVA7SeqC0Qh8NsGoYXwd7"
         },
         {
-          "name": "Preto no Branco",
-          "url": "https://open.spotify.com/artist/0JC6R3kbXUHe5QrxqzFwom"
+          "name": "O Canto das Igrejas",
+          "url": "https://open.spotify.com/artist/0wtv2hFP28opRib0L3wQjB"
         }
       ],
-      "duration_ms": 281840,
-      "name": "Agrade\u00e7o - Ao Vivo",
-      "url": "https://open.spotify.com/track/6TUq8ptWBQd1RcXQCBb7eu"
+      "duration_ms": 437426,
+      "name": "Clamo Jesus",
+      "url": "https://open.spotify.com/track/3Ns4xzoj5d1r0K5pc9uq64"
     },
     {
       "added_at": "2024-01-05 13:21:41",
@@ -1423,8 +1423,8 @@
     {
       "added_at": "2024-01-05 13:21:41",
       "album": {
-        "name": "Clamo Jesus",
-        "url": "https://open.spotify.com/album/4Wjcs71kOvbTCLYuqZqXjC"
+        "name": "Agrade\u00e7o (Ao Vivo)",
+        "url": "https://open.spotify.com/album/7q8tdlooUHOuHtvfm6M1LA"
       },
       "artists": [
         {
@@ -1432,33 +1432,17 @@
           "url": "https://open.spotify.com/artist/0GQKmEguhkY8DCzH4NdJvD"
         },
         {
-          "name": "Marsena",
-          "url": "https://open.spotify.com/artist/3MVA7SeqC0Qh8NsGoYXwd7"
+          "name": "Leandro Rodrigues",
+          "url": "https://open.spotify.com/artist/3sPrLEud945nswy3EMr7YK"
         },
         {
-          "name": "O Canto das Igrejas",
-          "url": "https://open.spotify.com/artist/0wtv2hFP28opRib0L3wQjB"
+          "name": "Preto no Branco",
+          "url": "https://open.spotify.com/artist/0JC6R3kbXUHe5QrxqzFwom"
         }
       ],
-      "duration_ms": 437426,
-      "name": "Clamo Jesus",
-      "url": "https://open.spotify.com/track/3Ns4xzoj5d1r0K5pc9uq64"
-    },
-    {
-      "added_at": "2024-01-05 13:21:41",
-      "album": {
-        "name": "Grande \u00c9 O Meu Deus",
-        "url": "https://open.spotify.com/album/2ysGfbNjEcDLoCqP1u20cq"
-      },
-      "artists": [
-        {
-          "name": "Soraya Moraes",
-          "url": "https://open.spotify.com/artist/0IPQAIkLxcVSsxlTPPn3Bp"
-        }
-      ],
-      "duration_ms": 325533,
-      "name": "Qu\u00e3o Grande \u00e9 o Meu Deus",
-      "url": "https://open.spotify.com/track/7DhiPsmpu4kzIQyCtvWqzd"
+      "duration_ms": 281840,
+      "name": "Agrade\u00e7o - Ao Vivo",
+      "url": "https://open.spotify.com/track/6TUq8ptWBQd1RcXQCBb7eu"
     },
     {
       "added_at": "2024-01-05 13:21:41",
@@ -1475,6 +1459,22 @@
       "duration_ms": 291317,
       "name": "Pintor do Mundo",
       "url": "https://open.spotify.com/track/3Xu39iqbrhEkzGwMNeGKRL"
+    },
+    {
+      "added_at": "2024-01-05 13:21:41",
+      "album": {
+        "name": "Grande \u00c9 O Meu Deus",
+        "url": "https://open.spotify.com/album/2ysGfbNjEcDLoCqP1u20cq"
+      },
+      "artists": [
+        {
+          "name": "Soraya Moraes",
+          "url": "https://open.spotify.com/artist/0IPQAIkLxcVSsxlTPPn3Bp"
+        }
+      ],
+      "duration_ms": 325533,
+      "name": "Qu\u00e3o Grande \u00e9 o Meu Deus",
+      "url": "https://open.spotify.com/track/7DhiPsmpu4kzIQyCtvWqzd"
     },
     {
       "added_at": "2024-01-05 13:21:41",
@@ -1535,22 +1535,6 @@
     {
       "added_at": "2024-01-05 13:21:41",
       "album": {
-        "name": "Todavia Me Alegrarei (Ao Vivo)",
-        "url": "https://open.spotify.com/album/6grrI3Rm6L9SqRbGDqJ7xP"
-      },
-      "artists": [
-        {
-          "name": "Sarah Beatriz",
-          "url": "https://open.spotify.com/artist/5eo3eRvCHJhgMDL6K1cbMT"
-        }
-      ],
-      "duration_ms": 291386,
-      "name": "Todavia Me Alegrarei - Ao Vivo",
-      "url": "https://open.spotify.com/track/0BUKz3V1yW6HPVzYuXlUIU"
-    },
-    {
-      "added_at": "2024-01-05 13:21:41",
-      "album": {
         "name": "Al\u00e9m do Rio Azul (Ao Vivo)",
         "url": "https://open.spotify.com/album/5jYmlFT4rPKgl3LJ9BJkVp"
       },
@@ -1567,6 +1551,22 @@
       "duration_ms": 306560,
       "name": "Al\u00e9m do Rio Azul - Ao Vivo",
       "url": "https://open.spotify.com/track/7vnA8F8Eu1Wcye76U7CKkh"
+    },
+    {
+      "added_at": "2024-01-05 13:21:41",
+      "album": {
+        "name": "Todavia Me Alegrarei (Ao Vivo)",
+        "url": "https://open.spotify.com/album/6grrI3Rm6L9SqRbGDqJ7xP"
+      },
+      "artists": [
+        {
+          "name": "Sarah Beatriz",
+          "url": "https://open.spotify.com/artist/5eo3eRvCHJhgMDL6K1cbMT"
+        }
+      ],
+      "duration_ms": 291386,
+      "name": "Todavia Me Alegrarei - Ao Vivo",
+      "url": "https://open.spotify.com/track/0BUKz3V1yW6HPVzYuXlUIU"
     },
     {
       "added_at": "2024-01-05 13:21:41",
@@ -1979,6 +1979,22 @@
     {
       "added_at": "2024-01-05 13:21:41",
       "album": {
+        "name": "Santidade (Ao Vivo Na Su\u00ed\u00e7a)",
+        "url": "https://open.spotify.com/album/0XnWhNtjH4e496qm9Ucbwo"
+      },
+      "artists": [
+        {
+          "name": "Aline Barros",
+          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
+        }
+      ],
+      "duration_ms": 258146,
+      "name": "Santidade (Ao Vivo Na Su\u00ed\u00e7a)",
+      "url": "https://open.spotify.com/track/1xHIGCspHfgpK36phGDXku"
+    },
+    {
+      "added_at": "2024-01-05 13:21:41",
+      "album": {
         "name": "Pra Sempre YHWH",
         "url": "https://open.spotify.com/album/7FrnuDNVM4ME4NzotXKxlO"
       },
@@ -1995,22 +2011,6 @@
       "duration_ms": 453667,
       "name": "Pra Sempre YHWH",
       "url": "https://open.spotify.com/track/3WT5NnA09K10tgY7O17RF4"
-    },
-    {
-      "added_at": "2024-01-05 13:21:41",
-      "album": {
-        "name": "Santidade (Ao Vivo Na Su\u00ed\u00e7a)",
-        "url": "https://open.spotify.com/album/0XnWhNtjH4e496qm9Ucbwo"
-      },
-      "artists": [
-        {
-          "name": "Aline Barros",
-          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
-        }
-      ],
-      "duration_ms": 258146,
-      "name": "Santidade (Ao Vivo Na Su\u00ed\u00e7a)",
-      "url": "https://open.spotify.com/track/1xHIGCspHfgpK36phGDXku"
     },
     {
       "added_at": "2024-01-05 13:21:41",
@@ -2087,6 +2087,22 @@
     {
       "added_at": "2024-01-05 13:21:41",
       "album": {
+        "name": "Seja Forte",
+        "url": "https://open.spotify.com/album/3gaCeWpexrCoT31O4IijbD"
+      },
+      "artists": [
+        {
+          "name": "Isadora Pompeo",
+          "url": "https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB"
+        }
+      ],
+      "duration_ms": 253866,
+      "name": "Seja Forte",
+      "url": "https://open.spotify.com/track/6ULtPMzIdsayMraZMs2KBV"
+    },
+    {
+      "added_at": "2024-01-05 13:21:41",
+      "album": {
         "name": "Te Esperamos (Ao Vivo)",
         "url": "https://open.spotify.com/album/6NmhKn0mgP7UGM64S3LcsU"
       },
@@ -2107,38 +2123,6 @@
     {
       "added_at": "2024-01-05 13:21:41",
       "album": {
-        "name": "Seja Forte",
-        "url": "https://open.spotify.com/album/3gaCeWpexrCoT31O4IijbD"
-      },
-      "artists": [
-        {
-          "name": "Isadora Pompeo",
-          "url": "https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB"
-        }
-      ],
-      "duration_ms": 253866,
-      "name": "Seja Forte",
-      "url": "https://open.spotify.com/track/6ULtPMzIdsayMraZMs2KBV"
-    },
-    {
-      "added_at": "2024-01-05 13:21:41",
-      "album": {
-        "name": "30 Anos Na Casa (Ao Vivo)",
-        "url": "https://open.spotify.com/album/0XKNwaH8mUPY21ix3xgGxb"
-      },
-      "artists": [
-        {
-          "name": "Aline Barros",
-          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
-        }
-      ],
-      "duration_ms": 367349,
-      "name": "Sonda-me Usa-me - Ao Vivo",
-      "url": "https://open.spotify.com/track/3VkEFu6oeMNza4yxh2XVj8"
-    },
-    {
-      "added_at": "2024-01-05 13:21:41",
-      "album": {
         "name": "Todo Poderoso (Ao Vivo)",
         "url": "https://open.spotify.com/album/6sjQlKkjVXB4sYYs9Z4gdn"
       },
@@ -2155,6 +2139,22 @@
       "duration_ms": 314297,
       "name": "Todo Poderoso - Ao Vivo",
       "url": "https://open.spotify.com/track/7Ko5h3XvOo2u9qr0XkgHdH"
+    },
+    {
+      "added_at": "2024-01-05 13:21:41",
+      "album": {
+        "name": "30 Anos Na Casa (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0XKNwaH8mUPY21ix3xgGxb"
+      },
+      "artists": [
+        {
+          "name": "Aline Barros",
+          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
+        }
+      ],
+      "duration_ms": 367349,
+      "name": "Sonda-me Usa-me - Ao Vivo",
+      "url": "https://open.spotify.com/track/3VkEFu6oeMNza4yxh2XVj8"
     }
   ],
   "unique_name": "Louvando no Tr\u00e2nsito",

@@ -2,9 +2,9 @@
 
 ### [Latin House](https://open.spotify.com/playlist/37i9dQZF1DXcAPgsGLgd43)
 
-> The pulse of Latin House
+> The pulse of Latin House 💃🏽💃🏽
 
-202 songs - 11 hr 11 min
+203 songs - 11 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -80,7 +80,7 @@
 | [El Hoyo](https://open.spotify.com/track/4efCIxfbgtf27uvOD0c3cB) | [Francis Davila](https://open.spotify.com/artist/4JT4DG5QVDffNJBv3UuaE6) | [El Hoyo](https://open.spotify.com/album/7bB62uup0K7tg2yzsppwlr) | 3:35 | 2023-12-01 | 2023-12-21 |
 | [El Nacimiento](https://open.spotify.com/track/0tEmmDt0jqU28IIpgWGvSb) | [Dmitri Saidi](https://open.spotify.com/artist/5rATH049aVcH3W1RIoiU1g), [Sinner & James](https://open.spotify.com/artist/6qUhtt7sgKShRCw2FiTrX2) | [El Nacimiento](https://open.spotify.com/album/7AvAEDeUXJjKYJZOrCMhM1) | 3:23 | 2024-02-02 | 2024-02-05 |
 | [Envolvidão](https://open.spotify.com/track/4WbKy1tTl4rrca2EA67VlK) | [BeMore](https://open.spotify.com/artist/6UWQUGtl6mwyjJeLnhYXBY) | [Drive](https://open.spotify.com/album/4euOmLn31XGYQq3v6KyVZj) | 3:41 | 2023-12-01 | 2024-02-18 |
-| [Esta Pegao](https://open.spotify.com/track/4Lwjq2BbsaSGguUmljBxGK) | [Carloh](https://open.spotify.com/artist/3cPsVugsjXZ03yXIblunwd) | [Esta Pegao](https://open.spotify.com/album/07BUUQ2N6sDXNeMRAHrGth) | 2:40 | 2023-12-01 |  |
+| [Esta Pegao](https://open.spotify.com/track/4Lwjq2BbsaSGguUmljBxGK) | [Carloh](https://open.spotify.com/artist/3cPsVugsjXZ03yXIblunwd) | [Esta Pegao](https://open.spotify.com/album/07BUUQ2N6sDXNeMRAHrGth) | 2:40 | 2023-12-01 | 2024-03-21 |
 | [Esta Vaina](https://open.spotify.com/track/63CgLY7pJtFU1Oic20tL07) | [Truth x Lies](https://open.spotify.com/artist/3bh4M54m4LRs41WQs07Jy0) | [Esta Vaina](https://open.spotify.com/album/3QgF3YoBLnrEKOT2IWOiuq) | 3:35 | 2023-11-10 |  |
 | [Everybody Salsa \- Andruss Remix](https://open.spotify.com/track/4zKDPxEDLiZENHqUzkelJm) | [Dj Drew](https://open.spotify.com/artist/0UGUHlwgexlzolMHhj9PhD), [Andruss](https://open.spotify.com/artist/6HZwb7Zbnvfo8u1sst4QrI) | [Everybody Salsa \(Andruss Remix\)](https://open.spotify.com/album/3rB2Q1jUcu5wgnwbjXxemw) | 2:46 | 2023-12-15 |  |
 | [Famax \- Edit](https://open.spotify.com/track/1P9ZF3ZxRWNTDgJkZOgkI9) | [RAFFA GUIDO](https://open.spotify.com/artist/5zvKbKHQcyZFvTYADnEkTQ) | [Famax](https://open.spotify.com/album/0rVRPH9VaGAMVDVK3cLwkQ) | 3:33 | 2024-02-23 |  |
@@ -131,6 +131,7 @@
 | [Maracuya](https://open.spotify.com/track/3SIGASmke2qRU6oJV3y1iR) | [Westend](https://open.spotify.com/artist/4epc3Bd0DOBA0kDywkRAsu) | [Maracuya](https://open.spotify.com/album/1WdOhzT6Wc46jKegklKBgp) | 2:50 | 2023-11-10 |  |
 | [Marianela \(Que Pasa\)](https://open.spotify.com/track/5bZjb7xKqLqa58QiUBcVvl) | [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By), [Merk & Kremont](https://open.spotify.com/artist/5rRcnWrevHgbuWjl7Lhft7), [Lirico En La Casa](https://open.spotify.com/artist/1Vr7DTbtTpOp4tn4hAGOYo) | [Marianela \(Que Pasa\)](https://open.spotify.com/album/5As1VmPUMn4HIgYSbFD6l0) | 2:25 | 2023-11-10 |  |
 | [Me Duele el Alma](https://open.spotify.com/track/3bfX8IHLcbE10AYhTMnMNi) | [Jesse Garcia](https://open.spotify.com/artist/6dTCOIQmUy1FlxNhITQhLn) | [Me Duele el Alma](https://open.spotify.com/album/7wvDYeqSsbcGI0mjE63Udy) | 5:03 | 2021-10-08 | 2023-11-11 |
+| [Me Gusta](https://open.spotify.com/track/1HU2VVHRKbcvHvqUMY5BqN) | [Dmitri Saidi](https://open.spotify.com/artist/5rATH049aVcH3W1RIoiU1g), [Chicks Luv Us](https://open.spotify.com/artist/6tb3j9CDb60zsHm1lN8K02), [BMW KENNY](https://open.spotify.com/artist/3n6wgt7LmxAnT0XOHleQcP), [Vikina](https://open.spotify.com/artist/0acSKGMIRsorWH3cQd5JrE) | [Me Gusta](https://open.spotify.com/album/2CaLuhIpgR5omJCyx2rnm4) | 2:44 | 2024-03-20 |  |
 | [Mi Amor](https://open.spotify.com/track/2Suk7DzVMim77YswOSMvJL) | [Cloonee](https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR), [Wade](https://open.spotify.com/artist/09iEIVQVBtTVjiuEdqqkIR) | [Mi Amor](https://open.spotify.com/album/320kp38VL1lsenxJD9nGBc) | 3:15 | 2021-10-08 |  |
 | [Mi Amor](https://open.spotify.com/track/6U7DCvIA93YYzyFYwmiIIe) | [Cloonee](https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR), [Wade](https://open.spotify.com/artist/09iEIVQVBtTVjiuEdqqkIR) | [Mi Amor](https://open.spotify.com/album/0V6keHGPNpTYW9OEcL7PBu) | 3:15 | 2021-10-08 | 2023-09-01 |
 | [Mi Casa](https://open.spotify.com/track/1TVeCLmOhfvBm68Okc6xmo) | [2fox](https://open.spotify.com/artist/4E9diB5Z272adMK6Hnn5c0), [Nandi](https://open.spotify.com/artist/2gGDpCPFlzPUCUyrF8jXMH) | [Mi Casa](https://open.spotify.com/album/1CLz2LKEShUpzhylJcaEHt) | 2:47 | 2021-10-08 |  |

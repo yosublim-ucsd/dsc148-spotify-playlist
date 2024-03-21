@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbT5gAyEVKuo.md) - [plain]
 
 > The power of praise lives on LIVE! Get up on your feet and let the spirit move in your heart to these amazing performances.
 
-[Spotify](https://open.spotify.com/user/spotify) - 80,313 likes - 49 songs - 5 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 80,351 likes - 49 songs - 5 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbT5gAyEVKuo.md) - [plain]
 | 35 | [God Is My Refuge \(Live\)](https://open.spotify.com/track/39T5NZkYTomQw86dT9x0K1) | [Fred Hammond](https://open.spotify.com/artist/2ndyVAdV9UqF1XjyTJt484) | [Worship Journal \(Live\)](https://open.spotify.com/album/2lC14ntR7i7DrUWKVcJd8I) | 9:45 |
 | 36 | [I Don't Wanna Leave \- Live From Chattanooga, TN](https://open.spotify.com/track/66aefvqRy1HqtzxKXMFGtC) | [William McDowell](https://open.spotify.com/artist/6PTGRlwNbg36Mu4boWlixN) | [Nothing Like Your Presence](https://open.spotify.com/album/7rAZtjifsgEThw7tX7R14b) | 4:06 |
 | 37 | [I Will Bless the Lord \- Live](https://open.spotify.com/track/2wRfftZSv3H1s1qE6o4l9Y) | [Byron Cage](https://open.spotify.com/artist/1bxsoj9E6Z2GoHVIswbRez) | [Playlist: The Very Best Of Byron Cage](https://open.spotify.com/album/4XwIxTUXc3fY5XcOVTPrwa) | 5:17 |
-| 38 | [Open My Heart \- Live](https://open.spotify.com/track/2oujPaH4PjjRFSFUpnjg90) | [Yolanda Adams](https://open.spotify.com/artist/47opbYEKDjXnRk9uLscp11) | [The Experience](https://open.spotify.com/album/2rJx0qDPmdODn2YJvGZgSz) | 7:45 |
-| 39 | [Never Seen The Righteous \- Live](https://open.spotify.com/track/6COOpzPlhL3nk6Go0PVo3U) | [Donald Lawrence & The Tri\-City Singers](https://open.spotify.com/artist/57d6a3ex4tB3hO0WE1hC1V) | [Gospel's Best Live](https://open.spotify.com/album/5NvLAYXvwMmEfYC5K2CsUd) | 4:41 |
+| 38 | [Never Seen The Righteous \- Live](https://open.spotify.com/track/6COOpzPlhL3nk6Go0PVo3U) | [Donald Lawrence & The Tri\-City Singers](https://open.spotify.com/artist/57d6a3ex4tB3hO0WE1hC1V) | [Gospel's Best Live](https://open.spotify.com/album/5NvLAYXvwMmEfYC5K2CsUd) | 4:41 |
+| 39 | [Open My Heart \- Live](https://open.spotify.com/track/2oujPaH4PjjRFSFUpnjg90) | [Yolanda Adams](https://open.spotify.com/artist/47opbYEKDjXnRk9uLscp11) | [The Experience](https://open.spotify.com/album/2rJx0qDPmdODn2YJvGZgSz) | 7:45 |
 | 40 | [Maintain \(feat\. Chantae Cann\) \(Live\)](https://open.spotify.com/track/4w2Tb5sSoWow02O8Y0Rmrp) | [Jonathan McReynolds](https://open.spotify.com/artist/5ItTHwcEtFh6DEOBheMub9), [Chantae Cann](https://open.spotify.com/artist/1cPLFQV7MAWQiaDW5SlUMR) | [Sessions \- EP](https://open.spotify.com/album/1oZT3QZW02UfhhgmWp8Kfl) | 4:09 |
 | 41 | [Celebrate \- Live](https://open.spotify.com/track/1VB3lMBTurh6z4DcKvINYL) | [Smokie Norful](https://open.spotify.com/artist/0sD8Amms4kSxs5tBV4CUmR) | [Gospel's Best Live](https://open.spotify.com/album/5NvLAYXvwMmEfYC5K2CsUd) | 4:03 |
 | 42 | [Your Great Name \(Live\)](https://open.spotify.com/track/4pTI61NxIuonwEsovOsDoc) | [Todd Dulaney](https://open.spotify.com/artist/41OAtBkqAXVdMlteKlhrZz) | [Your Great Name \(Live\) \- Single](https://open.spotify.com/album/1AehkTC1OOiwGkbO4ANakm) | 4:25 |
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbT5gAyEVKuo.md) - [plain]
 | 48 | [He'll Take The Pain Away \- Live](https://open.spotify.com/track/5pAx3uIKg4Mf6KUEOevB45) | [Gods Property](https://open.spotify.com/artist/3xtft29VZ2knyu7dEC9N7X) | [Kirk Franklin Presents Songs For The Storm, Volume 1](https://open.spotify.com/album/4HyeSvKpXXTgQjXa1RVIIz) | 8:38 |
 | 49 | [It's Not Over](https://open.spotify.com/track/4HY5Tyq3E7c7LlfSPUItRf) | [Karen Clark Sheard](https://open.spotify.com/artist/76dDIM8amCY58U3uvr1Rw1) | [The Best Of Gospel Superfest \(Live\)](https://open.spotify.com/album/7zXF8rjj6tDybn7aavDm6N) | 6:19 |
 
-Snapshot ID: `MCw1M2FiMjM5M2Y4M2Q1MmY5MWMxMGVlYmYwOWFmNTc4MjRlMzk4Mjhm`
+Snapshot ID: `MCwxZDJhYWYzM2M4YTQ2NTFhZGE2YmRiYmUxZDYzMTI5YzUxOWIwNzZm`

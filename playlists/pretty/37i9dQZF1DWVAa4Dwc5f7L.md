@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVAa4Dwc5f7L.md) - [plain]
 
 > ¡Hasta las 15! Monster merengue hits! Cover: Olga Tañón
 
-[Spotify](https://open.spotify.com/user/spotify) - 383,469 likes - 100 songs - 6 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 383,505 likes - 100 songs - 6 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,10 +30,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVAa4Dwc5f7L.md) - [plain]
 | 20 | [Cachamba](https://open.spotify.com/track/2HFfwhwTbpGq8Ebi3Nkdwv) | [Kinito Mendez](https://open.spotify.com/artist/1dlQ9EIUyQvXZ3l05YMQdT) | [El Hombre Merengue](https://open.spotify.com/album/2pQywjfiQQQQnjRGrxjHwd) | 4:43 |
 | 21 | [La Morena](https://open.spotify.com/track/3sVfjl9XFBk8gjGrph7EWo) | [Ilegales](https://open.spotify.com/artist/1hMa6SwU2t8eUEETAAbk9z) | [Ilegales](https://open.spotify.com/album/3zYFvSvwwb52XuXf25rtCg) | 4:24 |
 | 22 | [Otra Noche \(Another Night\)](https://open.spotify.com/track/2lROtguCNiJcyZxol9aTKi) | [Proyecto Uno](https://open.spotify.com/artist/6w1XCiB8efbfnusJ2jzmvu) | [In Da House](https://open.spotify.com/album/6AbWKVD3idhjdTxk7BQtKe) | 5:30 |
-| 23 | [El Doctorado](https://open.spotify.com/track/1GLyxov9LCuqj9jWFXI3cy) | [Tony Dize](https://open.spotify.com/artist/3LKXWvXFWrkwUzJWxzwVpW) | [La Melodia de la Calle "Updated"](https://open.spotify.com/album/6RDOn06oitF2wzme2uWDX8) | 4:24 |
+| 23 | [Bendecido](https://open.spotify.com/track/0ZKCQENt4shhG0rLwot8xB) | [Dale Pututi](https://open.spotify.com/artist/0qgEwzU6TJsJF0L7iyYY8z), [Randy Malcom](https://open.spotify.com/artist/3yjUmIEZOYU9i9cU9uJGIZ) | [Bendecido](https://open.spotify.com/album/3Cuf5Q9DOcTGPUBIl53w00) | 3:23 |
 | 24 | [Nuestra Cancion](https://open.spotify.com/track/2yB721Szta49XabGt5FQ0u) | [Elvis Crespo](https://open.spotify.com/artist/1c22GXH30ijlOfXhfLz9Df) | [Suavemente](https://open.spotify.com/album/378XG6oO0TWcsGuxeQy2Os) | 3:28 |
 | 25 | [Vale la Pena](https://open.spotify.com/track/7uC9TpGGHrAssX8NUKBqed) | [Juan Luis Guerra 4.40](https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559) | [Ni Es Lo Mismo Ni Es Igual](https://open.spotify.com/album/0RWsJiIvRxAbmzfSTJsabn) | 3:27 |
-| 26 | [Bendecido](https://open.spotify.com/track/0ZKCQENt4shhG0rLwot8xB) | [Dale Pututi](https://open.spotify.com/artist/0qgEwzU6TJsJF0L7iyYY8z), [Randy Malcom](https://open.spotify.com/artist/3yjUmIEZOYU9i9cU9uJGIZ) | [Bendecido](https://open.spotify.com/album/3Cuf5Q9DOcTGPUBIl53w00) | 3:23 |
+| 26 | [El Doctorado](https://open.spotify.com/track/1GLyxov9LCuqj9jWFXI3cy) | [Tony Dize](https://open.spotify.com/artist/3LKXWvXFWrkwUzJWxzwVpW) | [La Melodia de la Calle "Updated"](https://open.spotify.com/album/6RDOn06oitF2wzme2uWDX8) | 4:24 |
 | 27 | [Merengue Electronico \(Rompe Consola\)](https://open.spotify.com/track/1Q2WPcHRVK16zh9TR6isEq) | [Omega](https://open.spotify.com/artist/1UjxAZqzphB1tsMb1aWBj0) | [El Dueño Del Flow \(Bonus Track Version\)](https://open.spotify.com/album/3eQlstvvO9KwC44StPIJep) | 3:51 |
 | 28 | [Muchacho malo](https://open.spotify.com/track/58MAh1fboa0lvwaX2JS0B1) | [Olga Tañón](https://open.spotify.com/artist/4pv1Jo4PbYI8LMADJoTWjE) | [Mujer De Fuego](https://open.spotify.com/album/4VV3JWcUvnRNE0OhuRkugJ) | 4:27 |
 | 29 | [Bailando por el Mundo \(feat\. Pitbull & El Cata\)](https://open.spotify.com/track/3FeMpPPhGRKieT8zmlJDQz) | [Juan Magán](https://open.spotify.com/artist/1ackd5XprZEkH3McKbQD51), [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg), [El Cata](https://open.spotify.com/artist/52aHqEQZ802daFzuMHfcES) | [Bailando por el Mundo \(feat\. Pitbull & El Cata\)](https://open.spotify.com/album/5nRiEq87f96f29KYC09oZU) | 3:15 |
@@ -57,8 +57,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVAa4Dwc5f7L.md) - [plain]
 | 47 | [Cuarto de Hotel](https://open.spotify.com/track/14O3hLuJMDRC8800QjuILq) | [Bonny Cepeda](https://open.spotify.com/artist/1dI3emu3Tf6ZydmpCEZmqx) | [12 Golden Hits](https://open.spotify.com/album/04irf8DoODG5y4esqlnLEI) | 4:58 |
 | 48 | [Kiliki Taka Ti](https://open.spotify.com/track/7zSuMBPE82UBr6eNpJEzSd) | [Toño Rosario](https://open.spotify.com/artist/4DjY0CaKAejJgghVHTaOUy) | [Lo Mejor De...Toño Rosario](https://open.spotify.com/album/475agtJk3uN4dSg38QKx5t) | 6:40 |
 | 49 | [El Venao](https://open.spotify.com/track/12Jg89d9Cz2qwTnxIbX03g) | [Los Cantantes](https://open.spotify.com/artist/1OK49IC8PfUPbAtQRv2ryh) | [El Virao](https://open.spotify.com/album/5Le90IA8Ywp9Td8Ad2sw9P) | 4:52 |
-| 50 | [Patacón Pisao](https://open.spotify.com/track/7J3rDUSA4vDHaqHPblboTU) | [Johnny Ventura](https://open.spotify.com/artist/7fvEDuYk5vkKKZGpv6Knus) | [10 De Colección](https://open.spotify.com/album/4se9bp1pffpDBHyzFWD4YV) | 4:35 |
-| 51 | [Pegame Tu Vicio](https://open.spotify.com/track/25ILWrCvXPpkUFU0R7znEv) | [Eddy Herrera](https://open.spotify.com/artist/4yNdrUaF54csrLixVTnqzC) | [Me Enamore](https://open.spotify.com/album/5yhEOwF6bRo08QhTGU9FQC) | 5:00 |
+| 50 | [Pegame Tu Vicio](https://open.spotify.com/track/25ILWrCvXPpkUFU0R7znEv) | [Eddy Herrera](https://open.spotify.com/artist/4yNdrUaF54csrLixVTnqzC) | [Me Enamore](https://open.spotify.com/album/5yhEOwF6bRo08QhTGU9FQC) | 5:00 |
+| 51 | [Patacón Pisao](https://open.spotify.com/track/7J3rDUSA4vDHaqHPblboTU) | [Johnny Ventura](https://open.spotify.com/artist/7fvEDuYk5vkKKZGpv6Knus) | [10 De Colección](https://open.spotify.com/album/4se9bp1pffpDBHyzFWD4YV) | 4:35 |
 | 52 | [Ay!](https://open.spotify.com/track/6vU2DPeCqKSvXUCgTaD5cS) | [Rikarena](https://open.spotify.com/artist/2Z0C8UvMoiixS0cRV8Urtr) | [Sacúdelo Que Tiene Arena](https://open.spotify.com/album/0n5HXhJ7ouB3y1a9JbLgQg) | 3:51 |
 | 53 | [Traigo Fuego](https://open.spotify.com/track/5aaM6KRamITPsyLlsMb80v) | [La Banda Gorda](https://open.spotify.com/artist/6biY6yyLVZzisjmFLx0AP1) | [Puro Mambo](https://open.spotify.com/album/1kAS1xnRmN4uDN8Cp1TPcS) | 4:21 |
 | 54 | [No Es Normal](https://open.spotify.com/track/2Z4X8Y8Iedaf14Cgs0Dnri) | [Venesti](https://open.spotify.com/artist/50oHbeWPotfWlzdi4bojSU), [Nacho](https://open.spotify.com/artist/2ayNSoKPCRAfjp6hQ76hRu), [Maffio](https://open.spotify.com/artist/5RzT7CM6Ot0sh0EHefMicV) | [No Es Normal](https://open.spotify.com/album/3fW9ft7QAV7Wc8uofcU163) | 3:01 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVAa4Dwc5f7L.md) - [plain]
 | 99 | [Parece Una Nena](https://open.spotify.com/track/5WBOFWb8gpwzuSXiSqSVYL) | [Zona Roja](https://open.spotify.com/artist/2zXofGxFg93OZHBFAiweAI) | [15 Exitos De Pura Candela](https://open.spotify.com/album/34s5SEeyOMXc9MAy3jLGo6) | 4:34 |
 | 100 | [Sandunga](https://open.spotify.com/track/3bTFEwpUW0KrFFWxzdy9CC) | [Grupo Mania](https://open.spotify.com/artist/2RqhDUsFkCJbhHntsnCVqp) | [La Hora De La Verdad](https://open.spotify.com/album/2SaHN3k5arjkBxbT7KbGnB) | 3:54 |
 
-Snapshot ID: `MCxjODM4NTg4MDgxMGUxM2YwNmE5YTc2ZGQ4MzkzYTlkODFiYjMyYWZj`
+Snapshot ID: `MCw2ZmM3ZGRiNzcwNzhlMTllNmZlMmM3ZTUxMzQzNjRhMWU2MTI1YTY4`

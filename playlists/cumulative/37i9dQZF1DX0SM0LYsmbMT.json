@@ -69824,7 +69824,7 @@
       ],
       "date_added": "2024-02-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-21",
       "duration_ms": 114000,
       "name": "taipei nights",
       "url": "https://open.spotify.com/track/5MRY8rDh81NsZ37NraIRn0"
@@ -70302,6 +70302,24 @@
       "duration_ms": 149610,
       "name": "Taribo",
       "url": "https://open.spotify.com/track/0h55WRT1meR6qBHYgNGoH8"
+    },
+    {
+      "album": {
+        "name": "tartufo",
+        "url": "https://open.spotify.com/album/7oRwqoNx3GpQWYjNN8dA5o"
+      },
+      "artists": [
+        {
+          "name": "flamingo zamperoni",
+          "url": "https://open.spotify.com/artist/3ru7BkhVCEo3lsGNLHzhtz"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129500,
+      "name": "tartufo",
+      "url": "https://open.spotify.com/track/0m1g8ik4XhMxtZCfWgNLTy"
     },
     {
       "album": {

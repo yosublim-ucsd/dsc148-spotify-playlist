@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUmr8GM6X0hs.md) - [plain]
 
 > El inolvidable sonido del amor nunca había estado tan cerca de ti.
 
-[Spotify](https://open.spotify.com/user/spotify) - 80,241 likes - 60 songs - 3 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 80,282 likes - 60 songs - 3 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUmr8GM6X0hs.md) - [plain]
 | 59 | [Diablo](https://open.spotify.com/track/02srYuHG7Wwiok9BDWQjQd) | [Tito Cortes](https://open.spotify.com/artist/1RcFtMUS8nKo22k9o5juJa) | [Romántica](https://open.spotify.com/album/4BEpMDJEtdYszrAtlgCOnp) | 2:48 |
 | 60 | [Acepto Mi Destino](https://open.spotify.com/track/7GbcDRHXyRn1ZEzZWopF0h) | [Gaby Zevallos](https://open.spotify.com/artist/5VYKwJPKsTeY3mcJk7NlTo) | [La Dama del Bolero](https://open.spotify.com/album/0bCz2IkWynHJzOFb6vkYoF) | 3:24 |
 
-Snapshot ID: `MCxhYjEwZTkyOWRmMDVjNTZjNDg1MGQ2N2NhZGRhNGFiMjZjOTI0OWU4`
+Snapshot ID: `MCw5ZGJlZjllMzc5NjkyYTM3YjVkZmU0YzNmYjliYmFiOGIzNGU3MTQ2`

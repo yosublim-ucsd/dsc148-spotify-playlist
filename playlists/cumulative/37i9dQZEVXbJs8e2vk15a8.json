@@ -18978,6 +18978,28 @@
     {
       "album": {
         "name": "Maquillaje",
+        "url": "https://open.spotify.com/album/0CLVKodSfi7SSMDFQutIhy"
+      },
+      "artists": [
+        {
+          "name": "Renn",
+          "url": "https://open.spotify.com/artist/25HXdVQcRMRgDKWbk5cn0G"
+        },
+        {
+          "name": "Yexel",
+          "url": "https://open.spotify.com/artist/1PeS3QND0gDk8tLtyQg4NL"
+        }
+      ],
+      "date_added": "2024-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211969,
+      "name": "Maquillaje",
+      "url": "https://open.spotify.com/track/16flcJEZHzqoSRv7Ku5gjJ"
+    },
+    {
+      "album": {
+        "name": "Maquillaje",
         "url": "https://open.spotify.com/album/0L16XNlcuTsjZutD11ixsz"
       },
       "artists": [
@@ -18992,7 +19014,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-21",
       "duration_ms": 211969,
       "name": "Maquillaje",
       "url": "https://open.spotify.com/track/4eMgCEivrlABjwo0ZiY95d"
@@ -22958,7 +22980,7 @@
       ],
       "date_added": "2024-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-21",
       "duration_ms": 236013,
       "name": "Nobody",
       "url": "https://open.spotify.com/track/581mukhDjta60CCwpvnjL9"
@@ -24286,7 +24308,7 @@
       ],
       "date_added": "2024-02-27",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-20",
+      "date_removed": null,
       "duration_ms": 106762,
       "name": "Oye mujer giuliano yankees ia",
       "url": "https://open.spotify.com/track/1LpDtRiOOnq9AbpRHyCDxw"
@@ -25042,7 +25064,7 @@
       ],
       "date_added": "2024-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-21",
       "duration_ms": 215977,
       "name": "PARQUE ARAUCO",
       "url": "https://open.spotify.com/track/02ARVBRHlZDbGY2AzX6lXq"
@@ -32128,6 +32150,24 @@
       "duration_ms": 139218,
       "name": "Tengamos Algo Serio Mamita",
       "url": "https://open.spotify.com/track/4NTUG1JFRfqell90OP3rTQ"
+    },
+    {
+      "album": {
+        "name": "Tengo Un Plan",
+        "url": "https://open.spotify.com/album/3Y4j8ji75Vbudf59grMDr6"
+      },
+      "artists": [
+        {
+          "name": "Key-Key",
+          "url": "https://open.spotify.com/artist/6GKbEjuVNKuuAKetDXA2Mi"
+        }
+      ],
+      "date_added": "2024-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189282,
+      "name": "Tengo Un Plan",
+      "url": "https://open.spotify.com/track/3r9OpHiEaeMaBOa7kVtWtC"
     },
     {
       "album": {

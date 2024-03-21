@@ -4,7 +4,7 @@
 
 > The hottest alternative music from Nairobi to Dar!
 
-192 songs - 10 hr 4 min
+193 songs - 10 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -131,7 +131,8 @@
 | [Omu](https://open.spotify.com/track/4zP3adRK1v4LD0BZ9nLyVd) | [Joshua Baraka](https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW), [A Pass](https://open.spotify.com/artist/70FdrG5oIuFyE1eA8HC8XX), [Axon](https://open.spotify.com/artist/3g95XKMEfhHYudfTK9m6Ol) | [Omu](https://open.spotify.com/album/6i4sCnOmNSCkWyrFmPWGv1) | 2:54 | 2022-05-19 | 2024-01-27 |
 | [Only Human](https://open.spotify.com/track/42H2uitTxFmfaKvbNYDI9t) | [Ukweli](https://open.spotify.com/artist/5I48tG854vS1rY1isuMOgQ), [IkeN](https://open.spotify.com/artist/7CaVQkC4udPIDQmSUrr4t0) | [Only Human](https://open.spotify.com/album/5ILxoO9aB3fRcWPr2IpUIS) | 4:49 | 2021-10-15 | 2022-05-20 |
 | [Panda Shuka](https://open.spotify.com/track/1Kbw16cy2N3q78nDePIcWl) | [Wendy Kay](https://open.spotify.com/artist/4xRJ8mtHNzJYvlJbspGFO6) | [Panda Shuka](https://open.spotify.com/album/6UWeD6VEZ58wm6Q0Y4LXPo) | 2:48 | 2021-10-15 | 2022-03-26 |
-| [Part2 \(Dinner in Maui\)](https://open.spotify.com/track/6DuJn4hkMAzb4Iiamim1Te) | [Hermez](https://open.spotify.com/artist/168iTeZjIZlN7Sc8ieZJl6), [MAUIMØON](https://open.spotify.com/artist/6YrLXeCHt4gjrGx6cLCd4b) | [Part2 \(Dinner in Maui\)](https://open.spotify.com/album/2RjYPIml5GBer8oZvUV1OO) | 3:13 | 2022-09-22 |  |
+| [Part 2 \(Dinner in Maui\)](https://open.spotify.com/track/1K1749ogaQ2xe1ZYofp00R) | [Hermez](https://open.spotify.com/artist/168iTeZjIZlN7Sc8ieZJl6), [MAUIMØON](https://open.spotify.com/artist/6YrLXeCHt4gjrGx6cLCd4b) | [Oasis](https://open.spotify.com/album/58VyMsjI4nogdj6iYxp81l) | 3:13 | 2024-02-02 |  |
+| [Part2 \(Dinner in Maui\)](https://open.spotify.com/track/6DuJn4hkMAzb4Iiamim1Te) | [Hermez](https://open.spotify.com/artist/168iTeZjIZlN7Sc8ieZJl6), [MAUIMØON](https://open.spotify.com/artist/6YrLXeCHt4gjrGx6cLCd4b) | [Part2 \(Dinner in Maui\)](https://open.spotify.com/album/2RjYPIml5GBer8oZvUV1OO) | 3:13 | 2022-09-22 | 2024-03-21 |
 | [Party](https://open.spotify.com/track/5tOjlYLXI4AE864bDVUSPr) | [Xprso.](https://open.spotify.com/artist/1I03YcaWBX2r9nElPWcoH7), [Mars Maasai](https://open.spotify.com/artist/0OiRYxTqTytbs8aZT4I4zY), [Chevy Kev](https://open.spotify.com/artist/7b3Cm19fyzxElci72YY4xQ), [MR\. LU\*](https://open.spotify.com/artist/05KD4zm2D3CbvjIgylLTTF) | [Nairobass](https://open.spotify.com/album/5KMoui4VUMYmpAT10xLjWU) | 3:34 | 2021-10-15 | 2023-10-21 |
 | [Passenger 555](https://open.spotify.com/track/1uzIRwVybr2mBvJSnQItnQ) | [Jinku](https://open.spotify.com/artist/3gkk18CqFxsmkZkGyYZKqo), [Karun](https://open.spotify.com/artist/50bljU0VZtp2E7nAFRy5pC) | [Passenger 555](https://open.spotify.com/album/5kvhkBw0dqS3hAcpTblmKS) | 3:15 | 2022-05-19 |  |
 | [Passion](https://open.spotify.com/track/6ZJqCviTotiIujl1rfcL53) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [Passion](https://open.spotify.com/album/6Y4jnyOjMD3iGs0aIvlvE0) | 2:18 | 2021-10-15 | 2022-03-18 |

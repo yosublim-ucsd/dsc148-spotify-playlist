@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1IWzyjIhM7M.md) - [plain]
 
 > Our editors' picks of best tracks of 2023 by independent, developing artists from around the world\. Cover: Searows
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,683 likes - 100 songs - 5 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,711 likes - 100 songs - 5 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,12 +48,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1IWzyjIhM7M.md) - [plain]
 | 38 | [Wana](https://open.spotify.com/track/6ygaR0OCPjB2YdBbbNKvss) | [nour](https://open.spotify.com/artist/3uHrAjYOHTFWu04dl0aYdo) | [Wana](https://open.spotify.com/album/4Z7upV3DSB9yslpIYDRNdm) | 3:39 |
 | 39 | [falco](https://open.spotify.com/track/1x6TYpJ3IfpEnfWOIuznkV) | [Pink Pablo](https://open.spotify.com/artist/6grKEGFYz5bqq0IQraQhsQ) | [road 2 neverland](https://open.spotify.com/album/1c6VYaOgWJtYX7emSWJNp8) | 3:29 |
 | 40 | [multiverse](https://open.spotify.com/track/5SNrF8sTUjkyliM7ZLhUtN) | [Maya Manuela](https://open.spotify.com/artist/12bvlSCl69py9uRW9vMJyw), [PEMBROKE](https://open.spotify.com/artist/1WSqNCME0xEyefXll8SWkE) | [multiverse](https://open.spotify.com/album/4P9CkSDRbEULCwwFNnneBC) | 2:59 |
-| 41 | [My Mistake](https://open.spotify.com/track/141LKU6Shr5ogV6hDYQeuf) | [BKAYE](https://open.spotify.com/artist/1GrQQZ7U31WfQPQbd3MHx9) | [My Mistake](https://open.spotify.com/album/2qq3PW9es1FCLr2CFKgqJN) | 3:15 |
-| 42 | [Stay](https://open.spotify.com/track/2raaAIwNBB924qU7Cp3NLx) | [Galdive](https://open.spotify.com/artist/0aMrhUHnOzfiPcMc2PGiaT) | [Stay](https://open.spotify.com/album/2pjKfsWv052j1F5qQ1BJvq) | 3:38 |
+| 41 | [Stay](https://open.spotify.com/track/2raaAIwNBB924qU7Cp3NLx) | [Galdive](https://open.spotify.com/artist/0aMrhUHnOzfiPcMc2PGiaT) | [Stay](https://open.spotify.com/album/2pjKfsWv052j1F5qQ1BJvq) | 3:38 |
+| 42 | [My Mistake](https://open.spotify.com/track/141LKU6Shr5ogV6hDYQeuf) | [BKAYE](https://open.spotify.com/artist/1GrQQZ7U31WfQPQbd3MHx9) | [My Mistake](https://open.spotify.com/album/2qq3PW9es1FCLr2CFKgqJN) | 3:15 |
 | 43 | [Weird](https://open.spotify.com/track/6fDLQn0vtJR94V55oBANZC) | [Hana Eid](https://open.spotify.com/artist/4F6hNOg84kZIkE5LvLYOsr) | [Weird](https://open.spotify.com/album/7n95zSWEhljBwhZnbteffk) | 3:36 |
 | 44 | [Salt](https://open.spotify.com/track/2kLb29wxlXPLYFVSfcg69D) | [Teen Jesus and the Jean Teasers](https://open.spotify.com/artist/3KrgUUwoRQ6OQp4IOmqnSF), [The Grogans](https://open.spotify.com/artist/3LiQA7CeDBEpoWI0TNBJgv) | [I Love You](https://open.spotify.com/album/4psyGw8pJ4Y4VQOQ8EN3qA) | 3:07 |
-| 45 | [HAMMS IN A GLASS](https://open.spotify.com/track/3249EJWdvR7xuLbXoxvLcJ) | [Winona Fighter](https://open.spotify.com/artist/1u5SWpU4mZSziEz2hdPSWQ) | [HAMMS IN A GLASS](https://open.spotify.com/album/2vaTsjE2QylWhDHZs6nTuM) | 2:24 |
-| 46 | [Fever](https://open.spotify.com/track/4O3KRX2Ba4wmt6W7ijs4FA) | [Sherwyn](https://open.spotify.com/artist/4cxJUMXdHetYoijH951DRV), [Sariah Mae](https://open.spotify.com/artist/16XmFAOjlZoorF7bbIa1Th) | [Fever](https://open.spotify.com/album/0vj8a0hKlqZ0zEq3K688Sf) | 2:58 |
+| 45 | [Fever](https://open.spotify.com/track/4O3KRX2Ba4wmt6W7ijs4FA) | [Sherwyn](https://open.spotify.com/artist/4cxJUMXdHetYoijH951DRV), [Sariah Mae](https://open.spotify.com/artist/16XmFAOjlZoorF7bbIa1Th) | [Fever](https://open.spotify.com/album/0vj8a0hKlqZ0zEq3K688Sf) | 2:58 |
+| 46 | [HAMMS IN A GLASS](https://open.spotify.com/track/3249EJWdvR7xuLbXoxvLcJ) | [Winona Fighter](https://open.spotify.com/artist/1u5SWpU4mZSziEz2hdPSWQ) | [HAMMS IN A GLASS](https://open.spotify.com/album/2vaTsjE2QylWhDHZs6nTuM) | 2:24 |
 | 47 | [Springtime Red Tulips](https://open.spotify.com/track/7jrwX0azm3t7IHqR3B0jNe) | [Bo Staloch](https://open.spotify.com/artist/2EtiCherSxAKu7mnbU8Poh) | [Springtime Red Tulips](https://open.spotify.com/album/42pl1MIpxGddTozmgG0or1) | 4:34 |
 | 48 | [Since September](https://open.spotify.com/track/5SjNIwfjW1Yw0dURGbnrRL) | [Walter The Producer](https://open.spotify.com/artist/59QOcYlBSqJMi5rTHcwplJ) | [No Substance Mixtape](https://open.spotify.com/album/0kpW838mH6r1S09dKgNH72) | 3:02 |
 | 49 | [Cheapshot](https://open.spotify.com/track/4DWvLw48z22rqMEPrja8oU) | [Seago](https://open.spotify.com/artist/0bDqmuVnpecyZQuXZ7i85s) | [Cheapshot](https://open.spotify.com/album/6hlsYGVG7023cYQrKottTH) | 1:40 |
@@ -65,8 +65,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1IWzyjIhM7M.md) - [plain]
 | 55 | [Tinka](https://open.spotify.com/track/3qaRvg6ycuTAQKgTnlhpjn) | [Aditya Rikhari](https://open.spotify.com/artist/3ozYqVCLohfpXIhalkhM8D) | [Tinka](https://open.spotify.com/album/6nklrGCdQRC5NUuYoM9DMP) | 3:19 |
 | 56 | [Times It By Two](https://open.spotify.com/track/2PG64K0mmStEaVEARRurQm) | [Annie Tracy](https://open.spotify.com/artist/6tNKVWwIt2i6K7GoWIsycF) | [Times It By Two](https://open.spotify.com/album/296rlA2qhO9UrAxy7u9MNk) | 3:25 |
 | 57 | [Spiral City](https://open.spotify.com/track/6LjmIxsNRNrAb8uvJktOeL) | [CARR](https://open.spotify.com/artist/7ufjo5jO7vQfG6Zg0QzWEJ) | [The CARR Show](https://open.spotify.com/album/1RyR1qhsIs8iMoHf61nAWZ) | 2:29 |
-| 58 | [Flow State](https://open.spotify.com/track/4Xoiihr9prpVellzwZ9I7P) | [Casper Sage](https://open.spotify.com/artist/1a1XGqoicVjPifnA1fBtLE) | [Flow State](https://open.spotify.com/album/3RsIqH2zBlSWAnehnZ8KwP) | 4:02 |
-| 59 | [Stone Killer](https://open.spotify.com/track/0HTdp0zc8NELjhPTbEp7PR) | [26fix](https://open.spotify.com/artist/1HvnaxYOnYcLVvnOn2eb5e) | [Stone Killer](https://open.spotify.com/album/5g8JB0xHVPlp25BmuIci5L) | 3:28 |
+| 58 | [Stone Killer](https://open.spotify.com/track/0HTdp0zc8NELjhPTbEp7PR) | [26fix](https://open.spotify.com/artist/1HvnaxYOnYcLVvnOn2eb5e) | [Stone Killer](https://open.spotify.com/album/5g8JB0xHVPlp25BmuIci5L) | 3:28 |
+| 59 | [Flow State](https://open.spotify.com/track/4Xoiihr9prpVellzwZ9I7P) | [Casper Sage](https://open.spotify.com/artist/1a1XGqoicVjPifnA1fBtLE) | [Flow State](https://open.spotify.com/album/3RsIqH2zBlSWAnehnZ8KwP) | 4:02 |
 | 60 | [Anyway](https://open.spotify.com/track/6CkE4wWUVQ5Hdnbfm2pOmF) | [Kingfishr](https://open.spotify.com/artist/6c2qQFq3xfxFJndX6wSe4f) | [Anyway](https://open.spotify.com/album/5BDJXhWGt1RwSY7MOEAshC) | 3:43 |
 | 61 | [Have I Ever Been](https://open.spotify.com/track/2myy3lzRU87HPV9Gxs9ddQ) | [Jasmine Jethwa](https://open.spotify.com/artist/6FLqwgd1Ks0JvEmqpewIpv) | [Same Streets But I Don't See You Around](https://open.spotify.com/album/5ZjT9pDdMBwGByS0DBRPZg) | 2:53 |
 | 62 | [As Days Go By](https://open.spotify.com/track/2RBt0qVLDmXc5kpDluo3Ge) | [Paulade](https://open.spotify.com/artist/47FIkKjgZpNkMg1XcEqVdK) | [As Days Go By](https://open.spotify.com/album/0Gt4hzHCAFrLtZX1s9KoXx) | 3:42 |
@@ -77,16 +77,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1IWzyjIhM7M.md) - [plain]
 | 67 | [Advantage](https://open.spotify.com/track/4vxPfYUYtMNn3pCIjsIMG0) | [MiLES.](https://open.spotify.com/artist/4Mt0UzpAedYJYAvDMNjx2I) | [Advantage](https://open.spotify.com/album/7A7pDwj28Ak57XiZeaUzPb) | 3:25 |
 | 68 | [Daddy](https://open.spotify.com/track/3jKlmTVS7ym2axSs9OEcrT) | [Nourished by Time](https://open.spotify.com/artist/7zNkqI6qRr0OJ4XO1Pw29g) | [Erotic Probiotic 2](https://open.spotify.com/album/6HPNCXxhRfj8tus7gw0dDI) | 4:06 |
 | 69 | [Blue Voyage](https://open.spotify.com/track/2R2hUKAdr1ubbKlXsTDkZl) | [SERAPHINE NOIR](https://open.spotify.com/artist/2KD9QZ3u2oLgdRKsKVSW4I), [REIA](https://open.spotify.com/artist/5usIAzHxodIcGgsgnYT4E6) | [Blue Voyage](https://open.spotify.com/album/4eZiuAVaQeHXTDAAfgASAw) | 4:14 |
-| 70 | [Penthouse in The Sky](https://open.spotify.com/track/5UC5kPr4qlY0PDrGwE31zA) | [Goldie Boutilier](https://open.spotify.com/artist/392WuM1Yb4QRI0GG4epyn5) | [Emerald Year](https://open.spotify.com/album/7kCRt2MTG9a9qPwm05orZR) | 4:35 |
-| 71 | [from here on out](https://open.spotify.com/track/01wyoN3xlUf3k3jWSewMoB) | [lighthearted](https://open.spotify.com/artist/6bIM8yCfbkBSVS40TP5gCf) | [from here on out](https://open.spotify.com/album/0fC2Pfh9vQetDVO7phh1jM) | 4:31 |
+| 70 | [from here on out](https://open.spotify.com/track/01wyoN3xlUf3k3jWSewMoB) | [lighthearted](https://open.spotify.com/artist/6bIM8yCfbkBSVS40TP5gCf) | [from here on out](https://open.spotify.com/album/0fC2Pfh9vQetDVO7phh1jM) | 4:31 |
+| 71 | [Penthouse in The Sky](https://open.spotify.com/track/5UC5kPr4qlY0PDrGwE31zA) | [Goldie Boutilier](https://open.spotify.com/artist/392WuM1Yb4QRI0GG4epyn5) | [Emerald Year](https://open.spotify.com/album/7kCRt2MTG9a9qPwm05orZR) | 4:35 |
 | 72 | [Glowin 4 Me](https://open.spotify.com/track/5jI8xKMCIEToPXuXdFCoFJ) | [Eric IV](https://open.spotify.com/artist/56r1mYQ64egjnM0klZb2Cc) | [Glowin 4 Me](https://open.spotify.com/album/6aziyhUkY3zHrW8ZVL9uds) | 2:25 |
 | 73 | [FROM YOUR EYES](https://open.spotify.com/track/4oLTnJoOgNRDHDhqDQVSC9) | [F3miii](https://open.spotify.com/artist/0gmx7cndNJbFM0DAO7fT0s) | [FROM YOUR EYES](https://open.spotify.com/album/2kYaOfiAbeYfYUBEaEBJXX) | 2:30 |
 | 74 | [Sophie](https://open.spotify.com/track/4ySch7clKEIT3h3GXDNBWR) | [UCHE YARA](https://open.spotify.com/artist/2yOJnAGg41NV4aech301xj) | [Sophie](https://open.spotify.com/album/47cphz8bSNm8xnXlgWrT7I) | 3:14 |
 | 75 | [Westside](https://open.spotify.com/track/1PVHaSqI9vECfbd5ac6xAS) | [Nevi](https://open.spotify.com/artist/3KYwV2yzftyYsJCKocAhbM) | [Westside](https://open.spotify.com/album/3QJg2RbY18wsOOvOVG0GPo) | 2:35 |
-| 76 | [Dream Song](https://open.spotify.com/track/6ojor4w0aY3Nl101vyidbH) | [Shallow Alcove](https://open.spotify.com/artist/2hEZUJYO26jhMzfw0ZzrCj) | [Dream Song](https://open.spotify.com/album/6NlSEYD0tosjRfVAUqBSLb) | 2:43 |
-| 77 | [Bad B\*tch](https://open.spotify.com/track/515DlGs3ur3soKeIomMFbL) | [Swank Mami](https://open.spotify.com/artist/70k5dAiZtWY7JVknCMSaqr) | [Eurostar](https://open.spotify.com/album/5WWpnaOe9Jq6EV8wHNHD3m) | 1:31 |
-| 78 | [Blak Britney](https://open.spotify.com/track/2rg7VE22RwEfvFkLYJwfeY) | [Miss Kaninna](https://open.spotify.com/artist/1ODboExevbfXfgKz7NPKxz) | [Blak Britney](https://open.spotify.com/album/53qFc9lbBsEXdSdMbcxQsc) | 2:33 |
-| 79 | [Better Than Him](https://open.spotify.com/track/6vucaejrSd21jHkXo3tHUu) | [Dende](https://open.spotify.com/artist/0xq4TZno4XwBzkbLnBAhlF) | [Before We Crash](https://open.spotify.com/album/2c8uHecoqDsOG1Exs7W9TC) | 3:49 |
+| 76 | [Bad B\*tch](https://open.spotify.com/track/515DlGs3ur3soKeIomMFbL) | [Swank Mami](https://open.spotify.com/artist/70k5dAiZtWY7JVknCMSaqr) | [Eurostar](https://open.spotify.com/album/5WWpnaOe9Jq6EV8wHNHD3m) | 1:31 |
+| 77 | [Dream Song](https://open.spotify.com/track/6ojor4w0aY3Nl101vyidbH) | [Shallow Alcove](https://open.spotify.com/artist/2hEZUJYO26jhMzfw0ZzrCj) | [Dream Song](https://open.spotify.com/album/6NlSEYD0tosjRfVAUqBSLb) | 2:43 |
+| 78 | [Better Than Him](https://open.spotify.com/track/6vucaejrSd21jHkXo3tHUu) | [Dende](https://open.spotify.com/artist/0xq4TZno4XwBzkbLnBAhlF) | [Before We Crash](https://open.spotify.com/album/2c8uHecoqDsOG1Exs7W9TC) | 3:49 |
+| 79 | [Blak Britney](https://open.spotify.com/track/2rg7VE22RwEfvFkLYJwfeY) | [Miss Kaninna](https://open.spotify.com/artist/1ODboExevbfXfgKz7NPKxz) | [Blak Britney](https://open.spotify.com/album/53qFc9lbBsEXdSdMbcxQsc) | 2:33 |
 | 80 | [Talk to Me](https://open.spotify.com/track/1x5vRfDFUZX8DV8OxV8GHb) | [PHIA](https://open.spotify.com/artist/6O6aPDrL58wZRzQ6Rqq9or) | [Talk to Me](https://open.spotify.com/album/05wLs4epCt9e5RKsmDJ8Zo) | 2:53 |
 | 81 | [let me go\*](https://open.spotify.com/track/6YuYrLiDFsUxyxZONZMVn0) | [jigitz](https://open.spotify.com/artist/7sfn5Z6ItzDkOF9cYzxWPZ) | [let me go\*](https://open.spotify.com/album/1G2wWDw7j1NQHDScKlvkAK) | 2:19 |
 | 82 | [dickhead blues](https://open.spotify.com/track/0MjjrdCKDu19Z1obkdkULO) | [Kara Jackson](https://open.spotify.com/artist/2lciIw4vq0jQqevXA2TEUl) | [Why Does the Earth Give Us People to Love?](https://open.spotify.com/album/2itoipNg0XOD1uwThhkVtO) | 5:25 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1IWzyjIhM7M.md) - [plain]
 | 99 | [Love the game](https://open.spotify.com/track/71xizzTz1gW1vyvAaFuSqm) | [LEILA](https://open.spotify.com/artist/4Ug2xY5mJFUqx4UkrggYLg) | [Burnout](https://open.spotify.com/album/1wv9wqL30lctVOaZq3pKEb) | 2:41 |
 | 100 | [Lose You \- A COLORS SHOW](https://open.spotify.com/track/3QfI3tTncp1CjYLMypO2vA) | [UNA MIA](https://open.spotify.com/artist/0wWj7u5D7ksVZp8qVuCuz0) | [Lose You \- A COLORS SHOW](https://open.spotify.com/album/3MmtbPCisizJovsDUBQ1md) | 3:19 |
 
-Snapshot ID: `MCwzNzI1YTJlNTA1MTdlOTNkOWVjZTIyZjI1ZTMzODQyOTRhZjNmYzEy`
+Snapshot ID: `MCwwNWMzNTQ2ZWRiNjM0MzE2NThmNjJlMTg5MTc5ZjUyNWRmMmEwYjY2`

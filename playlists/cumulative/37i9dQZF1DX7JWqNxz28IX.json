@@ -1,7 +1,7 @@
 {
   "date_first_scraped": "2022-05-09",
-  "description": "canzoni tristi per chi ha un cuore cos\u00ec \ud83d\udc94  (in cover, nashley)",
-  "name": "ragazzo triste",
+  "description": "rap tristi per chi ha un cuore cos\u00ec \ud83d\udc94 (in cover, chiello)",
+  "name": "rap triste",
   "tracks": [
     {
       "album": {
@@ -338,7 +338,7 @@
       ],
       "date_added": "2022-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-21",
       "duration_ms": 145750,
       "name": "Attacco di Panico",
       "url": "https://open.spotify.com/track/16w3jEiUvbHNYtEajmzh86"
@@ -3990,6 +3990,28 @@
       "duration_ms": 101818,
       "name": "Scusa ma",
       "url": "https://open.spotify.com/track/3L5SVDUdpBW9eqRAOxvISm"
+    },
+    {
+      "album": {
+        "name": "HABITAT",
+        "url": "https://open.spotify.com/album/5S2RzVtE5dwhqZHK9UH767"
+      },
+      "artists": [
+        {
+          "name": "Nayt",
+          "url": "https://open.spotify.com/artist/7tmTvmqgTBcX88ZrSHByrD"
+        },
+        {
+          "name": "3D",
+          "url": "https://open.spotify.com/artist/5K92J8NwWAlu6fRN2uoHVN"
+        }
+      ],
+      "date_added": "2024-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163416,
+      "name": "se ne va",
+      "url": "https://open.spotify.com/track/3zWXAQuZ2cgRb2p0xqAORS"
     },
     {
       "album": {

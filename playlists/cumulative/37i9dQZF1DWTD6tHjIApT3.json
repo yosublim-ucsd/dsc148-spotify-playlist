@@ -10380,7 +10380,7 @@
     {
       "album": {
         "name": "Inner Voice",
-        "url": "https://open.spotify.com/album/1CBzcLkVMXyisWfRDVUc2e"
+        "url": "https://open.spotify.com/album/6awfKOxXzL2jFJoYOmGHHd"
       },
       "artists": [
         {
@@ -10391,6 +10391,24 @@
       "date_added": "2024-03-19",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 213061,
+      "name": "Inner Voice",
+      "url": "https://open.spotify.com/track/17DKGZrorsU5DVhj82TlWJ"
+    },
+    {
+      "album": {
+        "name": "Inner Voice",
+        "url": "https://open.spotify.com/album/1CBzcLkVMXyisWfRDVUc2e"
+      },
+      "artists": [
+        {
+          "name": "S.O.H.B",
+          "url": "https://open.spotify.com/artist/5NS5sPLW7SVGYC9IU7QAMe"
+        }
+      ],
+      "date_added": "2024-03-19",
+      "date_added_asterisk": false,
+      "date_removed": "2024-03-21",
       "duration_ms": 213061,
       "name": "Inner Voice",
       "url": "https://open.spotify.com/track/3I79tvxIA7ujjHPWTSJChO"
@@ -25691,6 +25709,24 @@
     },
     {
       "album": {
+        "name": "Rikka",
+        "url": "https://open.spotify.com/album/5Z6IpQ3YYZLEGGhuveWqh2"
+      },
+      "artists": [
+        {
+          "name": "Kayoko Yoshizawa",
+          "url": "https://open.spotify.com/artist/7tBabqiwVyDG4VNrijrhE0"
+        }
+      ],
+      "date_added": "2024-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 300880,
+      "name": "Yutori",
+      "url": "https://open.spotify.com/track/1ND2hHk3Bj9p2lor1XFbfi"
+    },
+    {
+      "album": {
         "name": "Y\u263au & I",
         "url": "https://open.spotify.com/album/6rTLAKWlNYHIDTdJW7lgdO"
       },
@@ -28672,7 +28708,7 @@
       ],
       "date_added": "2024-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-21",
       "duration_ms": 300880,
       "name": "\u3086\u3068\u308a",
       "url": "https://open.spotify.com/track/5CtJTb1bCPosQ71tHumoWt"

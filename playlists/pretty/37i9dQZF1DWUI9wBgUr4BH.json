@@ -1,12 +1,12 @@
 {
   "description": "Les hits de demain sont d\u00e9j\u00e0 ici. Photo : Aya Nakamura x Ayra Starr",
-  "num_followers": 290789,
+  "num_followers": 290837,
   "original_name": "Futurs Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyMDBlZjVjNWNiYThjNjI0NmNlZDBlMTBjZTMxOGM0NmZmMDBmYzNm",
+  "snapshot_id": "MCxmMmM4ZTc3OWE1MDljZThiNDNhMTczYWFmZjVjYjU5MjVmNWQyZGRh",
   "tracks": [
     {
       "added_at": "2024-03-14 23:00:00",
@@ -88,12 +88,16 @@
       },
       "artists": [
         {
+          "name": "Helena",
+          "url": "https://open.spotify.com/artist/6M0dlWzmJ9Z81JM2WpHbsC"
+        },
+        {
           "name": "Star Academy",
           "url": "https://open.spotify.com/artist/0SkR0pnP9oQ3ghG9juH9hy"
         }
       ],
       "duration_ms": 188960,
-      "name": "Aim\u00e9e pour de vrai (H\u00e9l\u00e9na)",
+      "name": "Aim\u00e9e pour de vrai",
       "url": "https://open.spotify.com/track/5peFNKKLZUaOYE0c3qZNE1"
     },
     {

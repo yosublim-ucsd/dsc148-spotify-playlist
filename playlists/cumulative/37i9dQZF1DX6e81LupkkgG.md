@@ -4,7 +4,7 @@
 
 > Músicas aconchegantes para aquecer a alma nos dias frios.
 
-278 songs - 15 hr 57 min
+279 songs - 16 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,7 +57,8 @@
 | [Crying Over You](https://open.spotify.com/track/53bCcVMGv0S2aIYvfju2Tt) | [The Band CAMINO](https://open.spotify.com/artist/6d4jrmreCmsenscuieJERc), [Chelsea Cutler](https://open.spotify.com/artist/5JMLG56F1X5mFmWNmS0iAp) | [Crying Over You](https://open.spotify.com/album/53KjVSjTOJXAyJ7Fdjjhwr) | 2:58 | 2022-02-18 | 2023-11-13 |
 | [Daddy's Eyes](https://open.spotify.com/track/726mGvnRdaFnW6dmlOqTBu) | [Zoe Wees](https://open.spotify.com/artist/03d2mJXSMtuPI0nIvLnhoS) | [Daddy’s Eyes](https://open.spotify.com/album/1b2RyLbUMkbXb62sVIguvY) | 3:02 | 2022-10-28 | 2023-12-02 |
 | [Daylight](https://open.spotify.com/track/1odExI7RdWc4BT515LTAwj) | [David Kushner](https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY) | [Daylight](https://open.spotify.com/album/6NcI39WPu4kY6Tul11nhSv) | 3:32 | 2023-04-17 |  |
-| [Deeper Well](https://open.spotify.com/track/2lJn77IeZAP9cmv6DPXOrL) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Deeper Well](https://open.spotify.com/album/2NXiMKrwmPrqU8epp20pW8) | 3:52 | 2024-02-22 |  |
+| [Deeper Well](https://open.spotify.com/track/2lJn77IeZAP9cmv6DPXOrL) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Deeper Well](https://open.spotify.com/album/2NXiMKrwmPrqU8epp20pW8) | 3:52 | 2024-02-22 | 2024-03-21 |
+| [Deeper Well](https://open.spotify.com/track/333XFHKsHU0pOocFzBgrJi) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Deeper Well](https://open.spotify.com/album/5SxZmGwc4eJuPp6PcO4JgJ) | 3:52 | 2024-03-08 |  |
 | [DEPOIS DO UNIVERSO](https://open.spotify.com/track/6T5TyMUmqcg8ZIvTDYaJ1o) | [GIULIA BE](https://open.spotify.com/artist/0kjGPGtoyKwKVOZAKmv5K6) | [DEPOIS DO UNIVERSO](https://open.spotify.com/album/4jsJ7WsXvoyiwYFx16MlqG) | 3:04 | 2022-10-28 |  |
 | [Devil On My Shoulder](https://open.spotify.com/track/1jLUaPGjk5zwV9kXUt4Jt1) | [Chelsea Cutler](https://open.spotify.com/artist/5JMLG56F1X5mFmWNmS0iAp) | [Devil On My Shoulder](https://open.spotify.com/album/1ZSDwevftMUQ8SqGx6clvZ) | 3:32 | 2022-02-18 | 2023-02-02 |
 | [Dinner Table](https://open.spotify.com/track/1tB3qub1zWVNQHNBibsEhK) | [Nina Nesbitt](https://open.spotify.com/artist/7AzjETXRUKNRSJHMW9GIqd) | [Dinner Table](https://open.spotify.com/album/3vchonSakoZOHdblX8GZoj) | 3:29 | 2022-04-29 | 2022-11-27 |

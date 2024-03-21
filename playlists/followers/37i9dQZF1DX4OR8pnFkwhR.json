@@ -1,7 +1,7 @@
 {
-  "2024-03-20": 68045,
+  "2024-03-21": 68054,
   "date_first_scraped": "2022-02-21",
-  "description": "Spotify\u304c\u6ce8\u76ee\u3059\u308b\u30cb\u30e5\u30fc\u30ab\u30de\u30fc\u30fb\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u3002Cover: Leina",
+  "description": "Spotify\u304c\u6ce8\u76ee\u3059\u308b\u30cb\u30e5\u30fc\u30ab\u30de\u30fc\u30fb\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u3002Cover: First Love is Never Returned",
   "name": "RADAR: Early Noise ",
   "tracks": [
     {
@@ -467,7 +467,7 @@
       ],
       "date_added": "2024-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-20",
       "duration_ms": 246666,
       "name": "50%",
       "url": "https://open.spotify.com/track/5RtvjcgyI2NfATzDmExssD"
@@ -1783,7 +1783,7 @@
       ],
       "date_added": "2024-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-20",
       "duration_ms": 238860,
       "name": "Bouquet",
       "url": "https://open.spotify.com/track/2nmKXcHdicY328zAPkcSJB"
@@ -2739,7 +2739,7 @@
       ],
       "date_added": "2023-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-20",
       "duration_ms": 152360,
       "name": "Comb Song",
       "url": "https://open.spotify.com/track/6F1OdnUbFzDBFXRWkZzFQt"
@@ -10901,7 +10901,7 @@
       ],
       "date_added": "2023-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-20",
       "duration_ms": 222058,
       "name": "Promenade",
       "url": "https://open.spotify.com/track/2TRdlT1pZaARZBh6rBOVuC"
@@ -16316,6 +16316,24 @@
     },
     {
       "album": {
+        "name": "\u66f8\u3092\u6368\u3066\u3001\u6b4c\u3092\u7de8\u3080",
+        "url": "https://open.spotify.com/album/3frsajCJRl4XNSXmheDH9W"
+      },
+      "artists": [
+        {
+          "name": "35.7",
+          "url": "https://open.spotify.com/artist/0r2fuN8lNQF4p6KRgxCVnP"
+        }
+      ],
+      "date_added": "2024-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179919,
+      "name": "\u3042\u3057\u305f\u5929\u6c17\u306b\u306a\u3042\u308c",
+      "url": "https://open.spotify.com/track/3d3ZMeF3gMgBNA9Wy16MEu"
+    },
+    {
+      "album": {
         "name": "\u3042\u305f\u3057\u306e\u5168\u90e8\u3092\u611b\u305b\u306a\u3044",
         "url": "https://open.spotify.com/album/0OunnU4xFgcVZBbFZ61kHQ"
       },
@@ -17709,6 +17727,24 @@
       "duration_ms": 299625,
       "name": "\u307e\u305f\u4f1a\u3044\u307e\u3057\u3087\u3046",
       "url": "https://open.spotify.com/track/5jyW5o0BprwhBDhQoiuIQK"
+    },
+    {
+      "album": {
+        "name": "\u96e2\u5a5a\u4f1d\u8aac",
+        "url": "https://open.spotify.com/album/6EUUyYF65ypQvxmhjk17zb"
+      },
+      "artists": [
+        {
+          "name": "\u96e2\u5a5a\u4f1d\u8aac",
+          "url": "https://open.spotify.com/artist/0fLlzy1mzxu6XItsSY5KN2"
+        }
+      ],
+      "date_added": "2024-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162960,
+      "name": "\u307e\u305f\u65c5\u306b\u8a98\u308f\u308c\u3066",
+      "url": "https://open.spotify.com/track/5l0SzsTg6IBI3LwfLvq4f2"
     },
     {
       "album": {
@@ -19455,7 +19491,7 @@
       ],
       "date_added": "2024-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-20",
       "duration_ms": 198252,
       "name": "\u30c8\u30ed\u30a4\u30e1\u30e9\u30a4",
       "url": "https://open.spotify.com/track/1rRxrmH2wtziYvJXDJMoi1"
@@ -20086,6 +20122,24 @@
     },
     {
       "album": {
+        "name": "\u30d5\u30a1\u30f3\u30c7\u30fc\u30b7\u30e7\u30f3\u306e\u524d\u306b",
+        "url": "https://open.spotify.com/album/0vfStzXN4XJeTmvnITS5wS"
+      },
+      "artists": [
+        {
+          "name": "First Love is Never Returned",
+          "url": "https://open.spotify.com/artist/5TSbFJ8iUw0NTXGU9cmasG"
+        }
+      ],
+      "date_added": "2024-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169295,
+      "name": "\u30d5\u30a1\u30f3\u30c7\u30fc\u30b7\u30e7\u30f3\u306e\u524d\u306b",
+      "url": "https://open.spotify.com/track/490KCtGnjNDhOJw3Tmn8Sy"
+    },
+    {
+      "album": {
         "name": "\u30d5\u30a3\u30ca\u30fc\u30ec",
         "url": "https://open.spotify.com/album/59JFCRRQCXAU3pb0AbzvD0"
       },
@@ -20249,6 +20303,24 @@
       "duration_ms": 238860,
       "name": "\u30d6\u30fc\u30b1",
       "url": "https://open.spotify.com/track/7H2QpQ7AWXuFT8cHv4u0ap"
+    },
+    {
+      "album": {
+        "name": "bouquet",
+        "url": "https://open.spotify.com/album/5orOfKlTjdQExk741M0MKb"
+      },
+      "artists": [
+        {
+          "name": "TRACK15",
+          "url": "https://open.spotify.com/artist/2yBeBpGsS9sgRa4rlJldIT"
+        }
+      ],
+      "date_added": "2024-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235885,
+      "name": "\u30d7\u30e9\u30cd\u30bf\u30ea\u30a6\u30e0",
+      "url": "https://open.spotify.com/track/115wUJPzuzOPybG6iMYxJZ"
     },
     {
       "album": {
@@ -21233,6 +21305,24 @@
       "duration_ms": 212608,
       "name": "\u4e03\u7b49\u661f",
       "url": "https://open.spotify.com/track/6Hhm0xkX1GWjKOzsLoPoso"
+    },
+    {
+      "album": {
+        "name": "\u4e0d\u5b8c\u30ed\u30de\u30f3\u30b9",
+        "url": "https://open.spotify.com/album/3cDwYqsC8SXdDQ6zeFvAd0"
+      },
+      "artists": [
+        {
+          "name": "bokula.",
+          "url": "https://open.spotify.com/artist/03d8apfHOy2uV3oLL9lsFG"
+        }
+      ],
+      "date_added": "2024-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210602,
+      "name": "\u4e0d\u5b8c\u30ed\u30de\u30f3\u30b9",
+      "url": "https://open.spotify.com/track/6GeiPhDFSxzta6J1YCjaIB"
     },
     {
       "album": {

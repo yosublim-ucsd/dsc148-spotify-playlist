@@ -4,7 +4,7 @@
 
 > put a little yee haw in your laid back
 
-146 songs - 8 hr 55 min
+147 songs - 8 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,7 +28,8 @@
 | [cowboy in LA](https://open.spotify.com/track/3WZKQtvz5nUiOBBYcQzftX) | [LANY](https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF) | [mama's boy \(deluxe\)](https://open.spotify.com/album/6ZsCg58PZj6jFALfiB5ZtX) | 3:33 | 2023-07-21 |  |
 | [cowboy like me](https://open.spotify.com/track/1XjHRolIXL2M1EEOUsGGR4) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [evermore](https://open.spotify.com/album/2Xoteh7uEpea4TohMxjtaq) | 4:35 | 2023-04-03 |  |
 | [Dawns \(feat\. Maggie Rogers\)](https://open.spotify.com/track/42TtHTxWk782ZBiqyOi2d1) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2), [Maggie Rogers](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe) | [Dawns \(feat\. Maggie Rogers\)](https://open.spotify.com/album/2Wpz5Xzsbr7hJg5Wb13p4m) | 4:50 | 2023-04-03 |  |
-| [Deeper Well](https://open.spotify.com/track/2lJn77IeZAP9cmv6DPXOrL) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Deeper Well](https://open.spotify.com/album/2NXiMKrwmPrqU8epp20pW8) | 3:52 | 2024-02-26 |  |
+| [Deeper Well](https://open.spotify.com/track/2lJn77IeZAP9cmv6DPXOrL) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Deeper Well](https://open.spotify.com/album/2NXiMKrwmPrqU8epp20pW8) | 3:52 | 2024-02-26 | 2024-03-21 |
+| [Deeper Well](https://open.spotify.com/track/333XFHKsHU0pOocFzBgrJi) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Deeper Well](https://open.spotify.com/album/5SxZmGwc4eJuPp6PcO4JgJ) | 3:52 | 2024-02-26 |  |
 | [Dial Drunk \(with Post Malone\)](https://open.spotify.com/track/22VHOlVYBqytsrAqV8yXBK) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B), [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [Dial Drunk \(with Post Malone\)](https://open.spotify.com/album/4XahqkOmEsKLKEhBpX8DAe) | 3:33 | 2023-10-06 |  |
 | [Dive \- Recorded At Sound Stage Nashville](https://open.spotify.com/track/2VWBdFsDJVGlRTdz4PvYwy) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [Spotify Singles](https://open.spotify.com/album/2H18xXYbVopKYddC2VqoPJ) | 4:20 | 2023-04-03 |  |
 | [Doin' Time](https://open.spotify.com/track/0Oqc0kKFsQ6MhFOLBNZIGX) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Norman Fucking Rockwell!](https://open.spotify.com/album/5XpEKORZ4y6OrCZSKsi46A) | 3:22 | 2023-04-03 |  |
@@ -109,7 +110,7 @@
 | [Slow Burn](https://open.spotify.com/track/6ET9kf9riLETWs9lePUEAI) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Golden Hour](https://open.spotify.com/album/7f6xPqyaolTiziKf5R5Z0c) | 4:06 | 2023-04-03 |  |
 | [Slow Dancing](https://open.spotify.com/track/6EXCQbPhpBf5RTQZ4F1raZ) | [Aly & AJ](https://open.spotify.com/artist/5wugb0kaq0J6nyQ5Xgd17i) | [a touch of the beat gets you up on your feet gets you out and then into the sun](https://open.spotify.com/album/00NPJAyth7IDd3jgZDCMdT) | 4:27 | 2023-04-03 |  |
 | [Smoke Too Soon](https://open.spotify.com/track/4tQHDufeDzPqW5yHUhyzzs) | [Carter Faith](https://open.spotify.com/artist/4X5CTYQmx1NNyz9S1IpNko) | [Smoke Too Soon](https://open.spotify.com/album/0YtZMA98LI67X1e7ynJvVn) | 3:17 | 2023-07-21 | 2023-08-31 |
-| [Soak Up The Sun](https://open.spotify.com/track/215JYyyUnrJ98NK3KEwu6d) | [Sheryl Crow](https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD) | [C'Mon C'Mon](https://open.spotify.com/album/5NYcTXrRZHxNyRKVOd0vs1) | 4:52 | 2023-04-03 |  |
+| [Soak Up The Sun](https://open.spotify.com/track/215JYyyUnrJ98NK3KEwu6d) | [Sheryl Crow](https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD) | [C'Mon, C'Mon](https://open.spotify.com/album/5NYcTXrRZHxNyRKVOd0vs1) | 4:52 | 2023-04-03 |  |
 | [Solar Power](https://open.spotify.com/track/7s2kWabRM60W9I61HpKg8C) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Solar Power](https://open.spotify.com/album/4SBl4zvNIL4H137YRf2P0J) | 3:12 | 2023-04-03 |  |
 | [Somethin' Stupid](https://open.spotify.com/track/4feXcsElKIVsGwkbnTHAfV) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0), [Nancy Sinatra](https://open.spotify.com/artist/3IZrrNonYELubLPJmqOci2) | [The World We Knew](https://open.spotify.com/album/67Evm6gPc9wFSUf1aXOrKO) | 2:42 | 2023-04-28 | 2023-05-09 |
 | [Something Pretty](https://open.spotify.com/track/0HDGWtJHUopYxQMMeDDb2X) | [Patrick Park](https://open.spotify.com/artist/4I1ZPDoEcZOul26MTXDhNO) | [Loneliness Knows My Name](https://open.spotify.com/album/6helOjO9QZux0UT4u7sYYp) | 3:14 | 2023-04-03 |  |

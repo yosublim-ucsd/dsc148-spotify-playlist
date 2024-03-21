@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Ib6QBg3iKI.md) - [plain]
 
 > Get cozy and relax to these laid\-back festive sounds.
 
-[Spotify](https://open.spotify.com/user/spotify) - 131,816 likes - 80 songs - 4 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 131,811 likes - 80 songs - 4 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,15 +41,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Ib6QBg3iKI.md) - [plain]
 | 31 | [Mistletoe and Wine](https://open.spotify.com/track/3AgiRs3oxc2dFh0CPUHXJs) | [Cliff Richard](https://open.spotify.com/artist/2nvKpWcP8etYTq4JrRiUiy) | [Together With Cliff Richard](https://open.spotify.com/album/5yaUrYOylXyPC7jEV0o2YZ) | 4:05 |
 | 32 | [The Christmas Song \(Chestnuts Roasting On An Open Fire\)](https://open.spotify.com/track/3eYnKe0LhQA1B5HEkQaRTP) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [USHER](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj) | [Under The Mistletoe \(Deluxe Edition\)](https://open.spotify.com/album/63MKT9hwmiMFFdFp5SdB1p) | 3:35 |
 | 33 | [Sleigh Ride](https://open.spotify.com/track/07RmHXaYqBdUyfAESPZkRO) | [Carpenters](https://open.spotify.com/artist/1eEfMU2AhEo7XnKgL7c304) | [Christmas Portrait \(Special Edition/Reissue\)](https://open.spotify.com/album/5GMAtv4CU6GYQMo36Uuiqc) | 2:39 |
-| 34 | [White Christmas \(with Shania Twain\)](https://open.spotify.com/track/114461rbzcgTriw8n4FOPW) | [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3), [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Christmas \(Deluxe Special Edition\)](https://open.spotify.com/album/53fJVD9LpBKEMqdAF7PW5K) | 3:38 |
-| 35 | [The Christmas Waltz](https://open.spotify.com/track/0WkcF1A4aQIrGQiodrVYEL) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [A Very Laufey Holiday](https://open.spotify.com/album/0PLkDF4iqGRf2zBYMiLPk3) | 2:47 |
+| 34 | [The Christmas Waltz](https://open.spotify.com/track/0WkcF1A4aQIrGQiodrVYEL) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [A Very Laufey Holiday](https://open.spotify.com/album/0PLkDF4iqGRf2zBYMiLPk3) | 2:47 |
+| 35 | [White Christmas \(with Shania Twain\)](https://open.spotify.com/track/114461rbzcgTriw8n4FOPW) | [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3), [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Christmas \(Deluxe Special Edition\)](https://open.spotify.com/album/53fJVD9LpBKEMqdAF7PW5K) | 3:38 |
 | 36 | [One I've Been Missing](https://open.spotify.com/track/632gXr9GJAsy7UBd7Dg7G4) | [Little Mix](https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp) | [Confetti \(Expanded Edition\)](https://open.spotify.com/album/0KDISpxSUWynoaqwEaEeX8) | 3:12 |
 | 37 | [Here Comes Santa Claus \(Right Down Santa Claus Lane\)](https://open.spotify.com/track/0oxUZhytpftSGgBGDVlCMb) | [Bing Crosby](https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S), [The Andrews Sisters](https://open.spotify.com/artist/2NCGI6dLTxLdI9XHdv7QfM) | [Christmas Greetings](https://open.spotify.com/album/5nul8LIKI5rjKuW7FAkoKb) | 3:03 |
 | 38 | [I Need You Christmas](https://open.spotify.com/track/0viGbbEJ9xV6qNJsTaXruz) | [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [I Need You Christmas](https://open.spotify.com/album/6ag1TA7jYSh8NjFtBL9bFR) | 3:26 |
 | 39 | [The Christmas Song \(Shawn Mendes & Camila Cabello\)](https://open.spotify.com/track/0fwxmtpxpMmEMphmJbCAEx) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr), [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF) | [Wonder \(Deluxe\)](https://open.spotify.com/album/2sDPTkswUWDLtZYiOzubTe) | 3:16 |
 | 40 | [All You're Dreaming Of](https://open.spotify.com/track/17Xof0GRZZfS7ZgjUJ27pH) | [Liam Gallagher](https://open.spotify.com/artist/6sN51vEARnAAdBw1IKZ8Q9) | [All You're Dreaming Of](https://open.spotify.com/album/7J50mCUWpCQdoMQ6RAUKaG) | 4:01 |
-| 41 | [This Christmas](https://open.spotify.com/track/3W6PmtGTyLwWBWUYplSWHT) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [This Christmas \- Songs From The Motion Picture](https://open.spotify.com/album/75p6D49hWX6bmG8PJFb02h) | 3:17 |
-| 42 | [Love Is A Compass \- Disney supporting Make\-A\-Wish](https://open.spotify.com/track/6lx41mPrde3vkcb8qUQOOi) | [Griff](https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff) | [Love Is A Compass \(Disney supporting Make\-A\-Wish\)](https://open.spotify.com/album/24JJvusSGIAOn9GiHLvWz9) | 3:01 |
+| 41 | [Love Is A Compass \- Disney supporting Make\-A\-Wish](https://open.spotify.com/track/6lx41mPrde3vkcb8qUQOOi) | [Griff](https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff) | [Love Is A Compass \(Disney supporting Make\-A\-Wish\)](https://open.spotify.com/album/24JJvusSGIAOn9GiHLvWz9) | 3:01 |
+| 42 | [This Christmas](https://open.spotify.com/track/3W6PmtGTyLwWBWUYplSWHT) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [This Christmas \- Songs From The Motion Picture](https://open.spotify.com/album/75p6D49hWX6bmG8PJFb02h) | 3:17 |
 | 43 | [The Lighthouse Keeper](https://open.spotify.com/track/2WUVQQAsWvScEdBVilRYaR) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [The Lighthouse Keeper](https://open.spotify.com/album/30Nf68hbXjDvoacY0K5fFB) | 4:07 |
 | 44 | [All I Want for Christmas Is You](https://open.spotify.com/track/1FRqLI971CD1QedTiJeL3c) | [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) | [Christmas \(Deluxe Special Edition\)](https://open.spotify.com/album/7uVimUILdzSZG4KKKWToq0) | 2:51 |
 | 45 | [All I Want \(For Christmas\)](https://open.spotify.com/track/7lbto9KYTHq5V1PetjIMOF) | [Liam Payne](https://open.spotify.com/artist/5pUo3fmmHT8bhCyHE52hA6) | [All I Want \(For Christmas\)](https://open.spotify.com/album/6hM2ulYVBbQiYDlEgliSaM) | 3:01 |
@@ -87,6 +87,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Ib6QBg3iKI.md) - [plain]
 | 77 | [2000 Miles](https://open.spotify.com/track/2wFwLE6yefjVZzUQSGGKM1) | [GRACEY](https://open.spotify.com/artist/7xBGi7Eign0fX7jGQj5KlJ) | [2000 Miles](https://open.spotify.com/album/1jSTa8MOmxE82tnRgyptV4) | 2:46 |
 | 78 | [Little Saint Nick](https://open.spotify.com/track/6rhWx7Vatwp2dmL7KxzmbJ) | [She & Him](https://open.spotify.com/artist/3CIRif6ZAedT7kZSPvj2A4) | [A Very She & Him Christmas](https://open.spotify.com/album/3YrU19ATrTJinGwckoI5Dw) | 2:09 |
 | 79 | [The Magic Of Christmas](https://open.spotify.com/track/0J60y4thRnADY1AtEtxhCr) | [LYRA](https://open.spotify.com/artist/0yZG22ntdDqVCFIulOTc8x) | [The Magic Of Christmas](https://open.spotify.com/album/6mSquMNOjmr49rmLMW0p08) | 3:27 |
-| 80 | [What I Want For Xmas](https://open.spotify.com/track/1uT3zADrkjeCfe41WN0yO4) | [Orba Squara](https://open.spotify.com/artist/4SzP9GTvwqU4FzL68ZJdMX) | [What I Want For Xmas](https://open.spotify.com/album/0lHiFF9V2Ey1AI13x5Sh3w) | 2:54 |
+| 80 | [This Christmas Day](https://open.spotify.com/track/4MVu2AqiA4eiZGoLZLwF8t) | [Jessie J](https://open.spotify.com/artist/2gsggkzM5R49q6jpPvazou) | [This Christmas Day](https://open.spotify.com/album/5FVQjSLBVMdWaZYD4vf3gS) | 3:45 |
 
-Snapshot ID: `MCxiZDQ4MjNlNWFmNjc0YzIxMzdhM2Y0NWExZTI2MzA3YWU0NmJmOGQ1`
+Snapshot ID: `MCwzNGNmODcyZmNjYWI0YmM1Y2NiZTBjMTQwNmNhMjMwMmUzYTU4ZTAz`

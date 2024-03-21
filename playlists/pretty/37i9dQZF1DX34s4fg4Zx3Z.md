@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34s4fg4Zx3Z.md) - [plain]
 
 > Như thanh long trong mì tôm, đây là những 🎶 có thể lần đầu nghe đến\. Ảnh bìa: KIMLONG
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,116 likes - 100 songs - 6 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,131 likes - 100 songs - 6 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34s4fg4Zx3Z.md) - [plain]
 | 99 | [Biết Đâu Sẽ Mất](https://open.spotify.com/track/4tiTkoIBdra4zCsqr58od9) | [Kejo](https://open.spotify.com/artist/0Qbywcgl7wfMVk6WmW2LUh) | [Biết Đâu Sẽ Mất](https://open.spotify.com/album/7v69iNsJLWZ35qxsMH8bJe) | 3:04 |
 | 100 | [có thể không](https://open.spotify.com/track/2u3OhkXik6ttV4wQoNWjup) | [Duniverse](https://open.spotify.com/artist/3h1HA6owjEkAHnIkMzYXoZ) | [có thể không](https://open.spotify.com/album/2F4FZU5TxUThjV1mmdM76e) | 3:20 |
 
-Snapshot ID: `MCwxZDU1OTQ1YWYzNDE5ZTQ0ODZkYjZiNzE0NDYwOGI0MWZmNDAwNjQ1`
+Snapshot ID: `MCxhOWI0NTNiNjRlMWY5ZTNjOWEwMzg0NTYwNjQ1NjI3YjhmZDQzMjk4`

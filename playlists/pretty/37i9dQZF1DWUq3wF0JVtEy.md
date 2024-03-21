@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUq3wF0JVtEy.md) - [plain]
 
 > <a href="spotify:genre:edm\_dance">Shuffle</a> your heart out.
 
-[Spotify](https://open.spotify.com/user/spotify) - 936,501 likes - 100 songs - 4 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 936,605 likes - 100 songs - 4 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,8 +94,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUq3wF0JVtEy.md) - [plain]
 | 84 | [Vibe](https://open.spotify.com/track/097XuYiqI3sS1SlTlncfmU) | [Dirty Palm](https://open.spotify.com/artist/4cZvsAtZm91PBC0tXlDrP0), [KDH](https://open.spotify.com/artist/7n5vSYBZcqMfr8zHl6rdcx) | [Vibe](https://open.spotify.com/album/7zjQAeiHLJJ8OB7MftaFjz) | 2:42 |
 | 85 | [Quick Highs](https://open.spotify.com/track/46Gsf4884pmAWdul0n5Px0) | [Curbi](https://open.spotify.com/artist/2XiiUuK68XNdHaHOAF5hnT), [Helen](https://open.spotify.com/artist/2z2l9z2yioLWSoCECNIyEl) | [Quick Highs](https://open.spotify.com/album/7JyrchSeYCqkjbzrajEXOf) | 3:14 |
 | 86 | [TikTak](https://open.spotify.com/track/1aWMQBfDA9AYHrysNuMJIc) | [Laidback Luke](https://open.spotify.com/artist/53cQZtWDwDJwVCNZlfJ6Qk), [Öwnboss](https://open.spotify.com/artist/37czgDRfGMvgRiUKHvnnhj), [Kapuzen](https://open.spotify.com/artist/33t6iueXWtstQC1Q0RdojN) | [TikTak](https://open.spotify.com/album/3HteKaFElXCIRl6UG21C9u) | 2:17 |
-| 87 | [Welcome To The Future](https://open.spotify.com/track/6rwKmp46Ssl0D9VDVaGKVo) | [KVSH](https://open.spotify.com/artist/2uGKgNuq7MnKksXiSO6HjB), [Carola](https://open.spotify.com/artist/1ms2l3rB6iHHxtPvR9kxgW) | [Welcome To The Future](https://open.spotify.com/album/5Ynhd8mwNNB1ULBRMYRpKb) | 2:52 |
-| 88 | [For The People](https://open.spotify.com/track/4MvA2osUdPQpDKNwuDjlM8) | [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg), [Third Party](https://open.spotify.com/artist/2J80qXI4NHKpq5RT3xUF7V) | [For The People](https://open.spotify.com/album/5QcP3EZoMWUi0ETWkh0NAj) | 3:39 |
+| 87 | [For The People](https://open.spotify.com/track/4MvA2osUdPQpDKNwuDjlM8) | [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg), [Third Party](https://open.spotify.com/artist/2J80qXI4NHKpq5RT3xUF7V) | [For The People](https://open.spotify.com/album/5QcP3EZoMWUi0ETWkh0NAj) | 3:39 |
+| 88 | [Welcome To The Future](https://open.spotify.com/track/6rwKmp46Ssl0D9VDVaGKVo) | [KVSH](https://open.spotify.com/artist/2uGKgNuq7MnKksXiSO6HjB), [Carola](https://open.spotify.com/artist/1ms2l3rB6iHHxtPvR9kxgW) | [Welcome To The Future](https://open.spotify.com/album/5Ynhd8mwNNB1ULBRMYRpKb) | 2:52 |
 | 89 | [What You Got](https://open.spotify.com/track/1IrTzpX4khWqGPdAyFBOqv) | [NITTI](https://open.spotify.com/artist/21AUdblPrTRzkvJn8FGrlk), [Valentino Khan](https://open.spotify.com/artist/0deIjoDjl9g9Zpw0sCIOHh) | [What You Got](https://open.spotify.com/album/7cSGgAYjT88n0xDh9n4Jsh) | 2:40 |
 | 90 | [Chain Gang](https://open.spotify.com/track/27gCmJDwzTxTx9e90NWDTb) | [AFROJACK](https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz) | [Chain Gang](https://open.spotify.com/album/0tS6kuEWcyV4jEty6H4Rz0) | 1:47 |
 | 91 | [Fool Me](https://open.spotify.com/track/6fviOwXHvwwN7GdAuVaH5v) | [CHYL](https://open.spotify.com/artist/15HOfHbNWedCAcJ3Cm1mbc) | [Fool Me](https://open.spotify.com/album/3MKJoSKe2eNN8o7bepluyh) | 2:13 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUq3wF0JVtEy.md) - [plain]
 | 99 | [No More](https://open.spotify.com/track/6KYAjSvbUR9ODsnNJH3O6P) | [Vluarr](https://open.spotify.com/artist/0ClkclGbzsEY0aBtqq8MrB), [GRX](https://open.spotify.com/artist/2xgAJkalFHfceCNGETOkyM), [Thomas Nan](https://open.spotify.com/artist/0hxxNMb3Egp5oWzR0vcX8v), [ZANA](https://open.spotify.com/artist/34lIancN28qj7jD4JxYOdE) | [No More](https://open.spotify.com/album/1HSw1aVWGMkh1vi7fBG6bo) | 2:43 |
 | 100 | [my luv \- bonus track](https://open.spotify.com/track/6PFbJ9LyhPo5gbTpc08XGP) | [Knock2](https://open.spotify.com/artist/6mmSS7itNWKbapgG2eZbIg) | [2HEARTs dlux](https://open.spotify.com/album/0jl5eSEDiAIQBY3eeXnDIQ) | 3:59 |
 
-Snapshot ID: `MCwwYjNmYTQ2YTM3MjQ5YjI0MmE1MDA1YzRkMTYyOTYwZGM4YzljYzc0`
+Snapshot ID: `MCxlNGJhNTNiYWI3NjAwYzdjOTQ1MzI1MDdhMGE1MTNlNmRhNGRjYmUy`

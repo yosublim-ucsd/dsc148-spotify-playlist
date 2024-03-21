@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9LbdoYID5v7.md) - [plain]
 
 > Music that created modern indie as we know it\. Cover: Yeah Yeah Yeahs
 
-[Spotify](https://open.spotify.com/user/spotify) - 469,553 likes - 75 songs - 4 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 469,748 likes - 75 songs - 4 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,8 +17,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9LbdoYID5v7.md) - [plain]
 | 7 | [Electric Feel](https://open.spotify.com/track/3FtYbEfBqAlGO46NUDQSAt) | [MGMT](https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE) | [Oracular Spectacular](https://open.spotify.com/album/6mm1Skz3JE6AXneya9Nyiv) | 3:49 |
 | 8 | [Walking On A Dream](https://open.spotify.com/track/5r5cp9IpziiIsR6b93vcnQ) | [Empire Of The Sun](https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c) | [Walking On A Dream \(10th Anniversary Edition\)](https://open.spotify.com/album/5B6XfyHHYawyLkEvNvhSPh) | 3:18 |
 | 9 | [Suddenly I See](https://open.spotify.com/track/5p9XWUdvbUzmPCukOmwoU3) | [KT Tunstall](https://open.spotify.com/artist/5zzrJD2jXrE9dZ1AklRFcL) | [Eye To The Telescope](https://open.spotify.com/album/3j70PDKieTWQAwas3bPHRZ) | 3:21 |
-| 10 | [Paper Planes](https://open.spotify.com/track/1ixbwbeBi5ufN4noUKmW5a) | [M.I.A.](https://open.spotify.com/artist/0QJIPDAEDILuo8AIq3pMuU) | [Kala](https://open.spotify.com/album/2xoj2gYed3IYmGWn3owSfu) | 3:25 |
-| 11 | [Somewhere Only We Know](https://open.spotify.com/track/0ll8uFnc0nANY35E0Lfxvg) | [Keane](https://open.spotify.com/artist/53A0W3U0s8diEn9RhXQhVz) | [Hopes And Fears](https://open.spotify.com/album/0qsT8HLvlWaSWIq8Rc95BI) | 3:56 |
+| 10 | [Somewhere Only We Know](https://open.spotify.com/track/0ll8uFnc0nANY35E0Lfxvg) | [Keane](https://open.spotify.com/artist/53A0W3U0s8diEn9RhXQhVz) | [Hopes And Fears](https://open.spotify.com/album/0qsT8HLvlWaSWIq8Rc95BI) | 3:56 |
+| 11 | [Paper Planes](https://open.spotify.com/track/1ixbwbeBi5ufN4noUKmW5a) | [M.I.A.](https://open.spotify.com/artist/0QJIPDAEDILuo8AIq3pMuU) | [Kala](https://open.spotify.com/album/2xoj2gYed3IYmGWn3owSfu) | 3:25 |
 | 12 | [Jigsaw Falling Into Place](https://open.spotify.com/track/0YJ9FWWHn9EfnN0lHwbzvV) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [In Rainbows](https://open.spotify.com/album/5vkqYmiPBYLaalcmjujWxK) | 4:08 |
 | 13 | [What You Know](https://open.spotify.com/track/3GBApU0NuzH4hKZq4NOSdA) | [Two Door Cinema Club](https://open.spotify.com/artist/536BYVgOnRky0xjsPT96zl) | [Tourist History](https://open.spotify.com/album/0wNjC8d3ve2L2yaomEWUsa) | 3:11 |
 | 14 | [New Slang \- 2021 Remaster](https://open.spotify.com/track/0NslHuacjxQYfUTOW3HCIV) | [The Shins](https://open.spotify.com/artist/4LG4Bs1Gadht7TCrMytQUO) | [Oh, Inverted World \(20th Anniversary Remaster\)](https://open.spotify.com/album/5XmhHMj5LZLWo32aA6ntKE) | 3:50 |
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9LbdoYID5v7.md) - [plain]
 | 28 | [I Will Wait](https://open.spotify.com/track/1fXiYSWmkKJfRKMegCkI11) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [Babel \(Deluxe Version\)](https://open.spotify.com/album/3FfuUD3Je9t9tQq80Zq41y) | 4:36 |
 | 29 | [Smile Like You Mean It](https://open.spotify.com/track/3KANrKOFYyAxfjQJHkgBdb) | [The Killers](https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu) | [Hot Fuss](https://open.spotify.com/album/4piJq7R3gjUOxnYs6lDCTg) | 3:54 |
 | 30 | [First Day of My Life](https://open.spotify.com/track/0eBryM7ePQH3Klt3jz8xZd) | [Bright Eyes](https://open.spotify.com/artist/5o206eFLx38glA2bb4zqIU) | [I'm Wide Awake, It's Morning](https://open.spotify.com/album/6MwSuZphL6GmuSVIYUGUF7) | 3:08 |
-| 31 | [Hang Me Up To Dry](https://open.spotify.com/track/3IXRdLsQib8m0hBbQpe7T8) | [Cold War Kids](https://open.spotify.com/artist/6VDdCwrBM4qQaGxoAyxyJC) | [Robbers & Cowards](https://open.spotify.com/album/1LTbo93CjLo48yNP8Ysaz5) | 3:38 |
-| 32 | [Last Nite](https://open.spotify.com/track/3SUusuA9jH1v6PVwtYMbdv) | [The Strokes](https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V) | [Is This It](https://open.spotify.com/album/2k8KgmDp9oHrmu0MIj4XDE) | 3:13 |
+| 31 | [Last Nite](https://open.spotify.com/track/3SUusuA9jH1v6PVwtYMbdv) | [The Strokes](https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V) | [Is This It](https://open.spotify.com/album/2k8KgmDp9oHrmu0MIj4XDE) | 3:13 |
+| 32 | [Hang Me Up To Dry](https://open.spotify.com/track/3IXRdLsQib8m0hBbQpe7T8) | [Cold War Kids](https://open.spotify.com/artist/6VDdCwrBM4qQaGxoAyxyJC) | [Robbers & Cowards](https://open.spotify.com/album/1LTbo93CjLo48yNP8Ysaz5) | 3:38 |
 | 33 | [Crimewave](https://open.spotify.com/track/1xzsEmaU4IXjvxxwQlA8Lz) | [Crystal Castles](https://open.spotify.com/artist/7K3zpFXBvPcvzhj7zlGJdO) | [Crystal Castles](https://open.spotify.com/album/6rTfUUv8Kefr6Uo3AaecXi) | 4:18 |
 | 34 | [Little Bit](https://open.spotify.com/track/0Ps4Eh6SQjeLnubbCsQTDD) | [Lykke Li](https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in) | [Youth Novels](https://open.spotify.com/album/65ain97ltDAxldCiOcBtHo) | 4:33 |
 | 35 | [The Cave](https://open.spotify.com/track/3vUn7FE3ZaQgJmkhIrIirF) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [Sigh No More](https://open.spotify.com/album/4828DYqqXoOl1bMPyh5c3S) | 3:37 |
@@ -65,8 +65,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9LbdoYID5v7.md) - [plain]
 | 55 | [Chicago](https://open.spotify.com/track/1yupbrI7ROhigIHpQBevPh) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Illinois](https://open.spotify.com/album/1pOl0KEC1iQnA6F0XxV4To) | 6:04 |
 | 56 | [Dashboard](https://open.spotify.com/track/0Fe3WxeO6lZZxj7ytvbDUh) | [Modest Mouse](https://open.spotify.com/artist/1yAwtBaoHLEDWAnWR87hBT) | [We Were Dead Before The Ship Even Sank](https://open.spotify.com/album/2lXBCL76UL5PCPbfAqKBkz) | 4:06 |
 | 57 | [In The Waiting Line](https://open.spotify.com/track/5ARrtxJLVCeTv5TWo1oKgC) | [Zero 7](https://open.spotify.com/artist/14H7ag1wpQOsPPQJOD6Dqr), [Sophie Barker](https://open.spotify.com/artist/5338nAeek8WVCOPNnT7Qv2) | [Simple Things](https://open.spotify.com/album/1VRBB9iu84o3g16CczH9iH) | 4:31 |
-| 58 | [Heads Will Roll](https://open.spotify.com/track/4WiIscpBgQFm5qIyjoH7M4) | [Yeah Yeah Yeahs](https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2) | [It's Blitz!](https://open.spotify.com/album/4dBMwYZJ84lj8HRTdL8Toj) | 3:41 |
-| 59 | [Always Like This](https://open.spotify.com/track/73M2Vb5MfZh8iGKudkMtlw) | [Bombay Bicycle Club](https://open.spotify.com/artist/3pTE9iaJTkWns3mxpNQlJV) | [I Had The Blues But I Shook Them Loose](https://open.spotify.com/album/4X0bhkSBOfcnOPyfG5Ef6a) | 4:05 |
+| 58 | [Always Like This](https://open.spotify.com/track/73M2Vb5MfZh8iGKudkMtlw) | [Bombay Bicycle Club](https://open.spotify.com/artist/3pTE9iaJTkWns3mxpNQlJV) | [I Had The Blues But I Shook Them Loose](https://open.spotify.com/album/4X0bhkSBOfcnOPyfG5Ef6a) | 4:05 |
+| 59 | [Heads Will Roll](https://open.spotify.com/track/4WiIscpBgQFm5qIyjoH7M4) | [Yeah Yeah Yeahs](https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2) | [It's Blitz!](https://open.spotify.com/album/4dBMwYZJ84lj8HRTdL8Toj) | 3:41 |
 | 60 | [Soul Meets Body](https://open.spotify.com/track/5yc59J3MR3tVDPTOgwgRI5) | [Death Cab for Cutie](https://open.spotify.com/artist/0YrtvWJMgSdVrk3SfNjTbx) | [Plans](https://open.spotify.com/album/1NFGnxmeIEBakre4DvLaJq) | 3:49 |
 | 61 | [Lasso](https://open.spotify.com/track/29ceu4GvNpnHSfLeBL4O7W) | [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU) | [Wolfgang Amadeus Phoenix](https://open.spotify.com/album/0xG5b9nkWxKc5VTpo6Fq5I) | 2:47 |
 | 62 | [Across the Universe](https://open.spotify.com/track/6ZQgooEk8PvsLxedYaT6Oa) | [Fiona Apple](https://open.spotify.com/artist/3g2kUQ6tHLLbmkV7T4GPtL) | [Pleasantville \-Music From The Motion Picture](https://open.spotify.com/album/3QofKE2yZcsjKOUw6fyyn3) | 5:07 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9LbdoYID5v7.md) - [plain]
 | 74 | [L.E.S\. Artistes](https://open.spotify.com/track/4dmCLAZbWYT0qtcG7GVMdb) | [Santigold](https://open.spotify.com/artist/6Jrxnp0JgqmeUX1veU591p) | [Santigold](https://open.spotify.com/album/4yATru0hY3VgRHSreswbGj) | 3:24 |
 | 75 | [White Flag](https://open.spotify.com/track/4kbz7rHVbyjKasuuqelccQ) | [Dido](https://open.spotify.com/artist/2mpeljBig2IXLXRAFO9AAs) | [Life For Rent](https://open.spotify.com/album/0X9QCwbxIRm4MWKWnIHNaA) | 4:00 |
 
-Snapshot ID: `MCxmN2QxYzdlNGI1ODk3YTdlMmM3MTM0ZDU4Y2U1Y2JhMDZkNTA5OGQ4`
+Snapshot ID: `MCw5ODI2YzFjZGYzMTljZWQxY2NlZTVlNzFmZDY4YTUzYWNiMDFmMDBl`

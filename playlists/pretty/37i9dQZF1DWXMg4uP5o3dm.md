@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXMg4uP5o3dm.md) - [plain]
 
 > alternative meets electronic Cover: ZHU & UPSAHL
 
-[Spotify](https://open.spotify.com/user/spotify) - 477,011 likes - 100 songs - 5 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 477,045 likes - 100 songs - 5 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,8 +61,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXMg4uP5o3dm.md) - [plain]
 | 51 | [Dead To Me](https://open.spotify.com/track/6tPLIurCFf9MAGYvba94ub) | [Chloe Adams](https://open.spotify.com/artist/4B1bjBU8CLkIBTYTRklo2u) | [Dead To Me](https://open.spotify.com/album/0GgNNJPbQUpny8XErV9Vhw) | 2:33 |
 | 52 | [Idolize](https://open.spotify.com/track/2MQ5VghlFqzGh5YsXBzVWZ) | [Dorian Electra](https://open.spotify.com/artist/202HZzqKvPsMHcbwnDZx7u) | [Fanfare](https://open.spotify.com/album/6HjuqzWf3UlJoaU7iqDRIv) | 2:25 |
 | 53 | [Distorted Light Beam](https://open.spotify.com/track/7bREivF1RTm0vOYB2wi7nE) | [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [Distorted Light Beam](https://open.spotify.com/album/5FnEu6Hpo6dZ8qIp3BX5Bz) | 2:57 |
-| 54 | [Armatron](https://open.spotify.com/track/05x6pBQelgwQJs3ZeVfdEC) | [STRFKR](https://open.spotify.com/artist/2Tz1DTzVJ5Gyh8ZwVr6ekU) | [Armatron](https://open.spotify.com/album/7pYfAkU5CwZFOgIzQncD3r) | 4:12 |
-| 55 | [Flatline](https://open.spotify.com/track/4r05ev9hIFnjWUkzJGMu46) | [Two Feet](https://open.spotify.com/artist/5sWHDYs0csV6RS48xBl0tH) | [Max Maco Is Dead Right?](https://open.spotify.com/album/6wPnQigsvCXa5LrMfEuU6K) | 2:54 |
+| 54 | [Flatline](https://open.spotify.com/track/4r05ev9hIFnjWUkzJGMu46) | [Two Feet](https://open.spotify.com/artist/5sWHDYs0csV6RS48xBl0tH) | [Max Maco Is Dead Right?](https://open.spotify.com/album/6wPnQigsvCXa5LrMfEuU6K) | 2:54 |
+| 55 | [Armatron](https://open.spotify.com/track/05x6pBQelgwQJs3ZeVfdEC) | [STRFKR](https://open.spotify.com/artist/2Tz1DTzVJ5Gyh8ZwVr6ekU) | [Armatron](https://open.spotify.com/album/7pYfAkU5CwZFOgIzQncD3r) | 4:12 |
 | 56 | [One Night](https://open.spotify.com/track/1XvUJqINdj0IiYyvodOBsR) | [Jeris Johnson](https://open.spotify.com/artist/2hmePXeTr2b7cdRAtRjvPq) | [One Night](https://open.spotify.com/album/4HtlSIrrw2tvdaBEjYwLFt) | 2:43 |
 | 57 | [WICKED](https://open.spotify.com/track/5b7gKOgD33l2iGFgoiVF1I) | [MILKBLOOD](https://open.spotify.com/artist/7sLejq7H0gfGlhiLUTs4ME), [PVRIS](https://open.spotify.com/artist/6oFs3qk4VepIVFdoD4jmsy) | [WICKED](https://open.spotify.com/album/3F6tIMetVWEymoC9GskqmA) | 3:30 |
 | 58 | [Your Touch](https://open.spotify.com/track/5dS9u36myZ35YBrhgqAIle) | [Foreign Air](https://open.spotify.com/artist/5ApQnMT6oR8eLguf24xb9S) | [Hello Sunshine](https://open.spotify.com/album/5R3R5lGNcVmNXdDFljZzud) | 3:45 |
@@ -80,9 +80,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXMg4uP5o3dm.md) - [plain]
 | 70 | [Our House \(The Mess We Made\)](https://open.spotify.com/track/5kqRMynqZR8JbJH4JodkFs) | [You Me At Six](https://open.spotify.com/artist/1kNQXvepPjaPgUfeDAF2h6) | [Our House \(The Mess We Made\)](https://open.spotify.com/album/5bAxHo5hTWfRyOWMz0MKxM) | 3:40 |
 | 71 | [Nightmare](https://open.spotify.com/track/64A7qQZGMqYBOVKloPox8i) | [BAYBE](https://open.spotify.com/artist/22pi3Gv6sRxirhwCARETnS) | [Nightmare](https://open.spotify.com/album/0JnLJpn7HyNTPMAbQDAB3E) | 2:26 |
 | 72 | [Drinking with Cupid](https://open.spotify.com/track/7dooLmazlQIYM9Wo7FRQR7) | [VOILÀ](https://open.spotify.com/artist/6NnBBumbcMYsaPTHFhPtXD) | [Drinking with Cupid](https://open.spotify.com/album/7nOgBpquyvxeBgbgowVUJD) | 2:52 |
-| 73 | [THERAPY!](https://open.spotify.com/track/1Mm3g0AaApb6QMMphK8n9V) | [Lauren Sanderson](https://open.spotify.com/artist/06vRrrjT3DBRkhBlXoBdYj) | [Death Of A Fantasy](https://open.spotify.com/album/52hdobxNdIURg1z3iP1tic) | 2:13 |
+| 73 | [IDFLU](https://open.spotify.com/track/4btPFFVz1aZ7RtrIIwe23t) | [Silent Child](https://open.spotify.com/artist/59XQUEHhy5830QsAsmhe2M), [DREAMERS](https://open.spotify.com/artist/1FgsVeOhRYuSw2ghkIXV0A) | [IDFLU](https://open.spotify.com/album/139FdSB8EJfPzBhZiU6QSf) | 2:52 |
 | 74 | [Sing To Me](https://open.spotify.com/track/17KGTOb8fkxlyTnB5eFnsh) | [MISSIO](https://open.spotify.com/artist/2HOMW1liAxI3URnEq95SMS), [Death Stranding: Timefall](https://open.spotify.com/artist/4rojTfP5nRkmYpdSbWQgV4) | [DEATH STRANDING: Timefall \(Original Music from the World of Death Stranding\)](https://open.spotify.com/album/67hVRXYD2WmD4fgPOWNex3) | 3:09 |
-| 75 | [IDFLU](https://open.spotify.com/track/4btPFFVz1aZ7RtrIIwe23t) | [Silent Child](https://open.spotify.com/artist/59XQUEHhy5830QsAsmhe2M), [DREAMERS](https://open.spotify.com/artist/1FgsVeOhRYuSw2ghkIXV0A) | [IDFLU](https://open.spotify.com/album/139FdSB8EJfPzBhZiU6QSf) | 2:52 |
+| 75 | [THERAPY!](https://open.spotify.com/track/1Mm3g0AaApb6QMMphK8n9V) | [Lauren Sanderson](https://open.spotify.com/artist/06vRrrjT3DBRkhBlXoBdYj) | [Death Of A Fantasy](https://open.spotify.com/album/52hdobxNdIURg1z3iP1tic) | 2:13 |
 | 76 | [LOST IT](https://open.spotify.com/track/0BpRdpbGMQ18OLpU0r0kPb) | [Layto](https://open.spotify.com/artist/0MqXw0plXKIaJtM342hIag), [P!X!E](https://open.spotify.com/artist/4tThMJlJVcKRl4cJoB4aLq) | [LOST IT](https://open.spotify.com/album/0kHS4bvtYbAaBREla4DtLt) | 2:46 |
 | 77 | [BELIEVE](https://open.spotify.com/track/2VpyqzXj9ZGTSy2JVkVD2z) | [NEFFEX](https://open.spotify.com/artist/3z97WMRi731dCvKklIf2X6) | [BELIEVE](https://open.spotify.com/album/0BvaFK2hTZ13TeTFkPEdHK) | 2:36 |
 | 78 | [Palm Reader](https://open.spotify.com/track/729lI4P82NDXNQljBDmkmU) | [DREAMERS](https://open.spotify.com/artist/1FgsVeOhRYuSw2ghkIXV0A), [Big Boi](https://open.spotify.com/artist/2ht3wxeT69CzyKFChNnNAB), [UPSAHL](https://open.spotify.com/artist/1294QqYm1VuxxjRiL9M0h9) | [Palm Reader](https://open.spotify.com/album/1QQRNBDVBOA4uomdDG2MxZ) | 3:00 |
@@ -103,10 +103,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXMg4uP5o3dm.md) - [plain]
 | 93 | [Die For A Night](https://open.spotify.com/track/45FbHGdx0Xxmp1zMFvzF01) | [A R I Z O N A](https://open.spotify.com/artist/7hOGhpa8RMSuDOWntGIAJt) | [A R I Z O N A](https://open.spotify.com/album/0aDCNIuXvrllaGsSddeXED) | 3:15 |
 | 94 | [Bones](https://open.spotify.com/track/0DqJsme3z2r2kPGTti68gf) | [MOD SUN](https://open.spotify.com/artist/3u2R8st1bb6zfBqNWceRXG) | [Bones](https://open.spotify.com/album/67WHRHvdMPplrsSc4KtMfB) | 2:49 |
 | 95 | [Feel It](https://open.spotify.com/track/1ARuHk4XNA0FJXuCOIassd) | [Crooked Colours](https://open.spotify.com/artist/0aA1GTrIMutjIh4GlPPUVN) | [Tomorrows](https://open.spotify.com/album/6DiDjfJEnfAjEZAhbSiQSV) | 3:51 |
-| 96 | [Miracle, Baby](https://open.spotify.com/track/3Iu1P9opSIz1wmm98SG2qb) | [Nothing But Thieves](https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp) | [Miracle, Baby](https://open.spotify.com/album/4OEXo5dPHC8m3h3um07mL0) | 3:40 |
-| 97 | [peachy](https://open.spotify.com/track/3sAqyVG6b5dyqIYujvUsxS) | [Saint Slumber](https://open.spotify.com/artist/35rPDAvcHOnhrMVmqhQ6BM) | [peachy](https://open.spotify.com/album/1X19TViAdx7ohbra4fNlXT) | 3:23 |
-| 98 | [flowers](https://open.spotify.com/track/4SBECfkTJOnZFj9A8gzUQy) | [phem](https://open.spotify.com/artist/0MGJHTThvyAyqKuEAgPqDr) | [flowers](https://open.spotify.com/album/10dsPoEePt3UB4WWR2N2Oz) | 2:41 |
+| 96 | [flowers](https://open.spotify.com/track/4SBECfkTJOnZFj9A8gzUQy) | [phem](https://open.spotify.com/artist/0MGJHTThvyAyqKuEAgPqDr) | [flowers](https://open.spotify.com/album/10dsPoEePt3UB4WWR2N2Oz) | 2:41 |
+| 97 | [Miracle, Baby](https://open.spotify.com/track/3Iu1P9opSIz1wmm98SG2qb) | [Nothing But Thieves](https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp) | [Miracle, Baby](https://open.spotify.com/album/4OEXo5dPHC8m3h3um07mL0) | 3:40 |
+| 98 | [peachy](https://open.spotify.com/track/3sAqyVG6b5dyqIYujvUsxS) | [Saint Slumber](https://open.spotify.com/artist/35rPDAvcHOnhrMVmqhQ6BM) | [peachy](https://open.spotify.com/album/1X19TViAdx7ohbra4fNlXT) | 3:23 |
 | 99 | [New Friends](https://open.spotify.com/track/6bHFFcOvpc1pKrT4YL1K83) | [ENVYYOU](https://open.spotify.com/artist/3V8sGWr3KUanz1VJyaCngm) | [New Friends](https://open.spotify.com/album/3CqLMnA4ivtuBuGPV4h4Ky) | 2:56 |
 | 100 | [Superhuman \(with K.Flay\)](https://open.spotify.com/track/64moA9zwEfhBADmxLZvVhH) | [Party Favor](https://open.spotify.com/artist/7yPPzu5UdAK7yagQqjEZQm), [K.Flay](https://open.spotify.com/artist/0pCNk4D3E2xtszsm6hMsWr) | [RESET](https://open.spotify.com/album/4rpqjEDrwQlWPrzkW47bJK) | 4:00 |
 
-Snapshot ID: `MCxlOTYwNGExMWQ0ZWFhMDUzNjBlZjg3MTYxOWRjNzJmOGNiNmY0MTkw`
+Snapshot ID: `MCwzMjNjYzU3NDI5OTEyN2U2MGZjNDc4ODkwNGNiYThmYjlkYTY4M2Nl`

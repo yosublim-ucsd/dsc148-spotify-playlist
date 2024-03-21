@@ -2,7 +2,7 @@
 
 ### [Hallyu Boy Bands](https://open.spotify.com/playlist/37i9dQZF1DX1gjl24GAQC0)
 
-> Is it your favorite oppa or dongsaeng? \(Cover: HIGHLIGHT\) \[당신의 최애 아이돌 보이 그룹은 어떤 그룹인가요?\]
+> Is it your favorite oppa or dongsaeng? \(Cover: xikers\(싸이커스\)\) \[당신의 최애 아이돌 보이 그룹은 어떤 그룹인가요?\]
 
 544 songs - 1 day 6 hr 21 min
 

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9WvJEsJpG9m.md) - [plain]
 
 > Rock from the aughts to fuel your ride\. Cover: The White Stripes
 
-[Spotify](https://open.spotify.com/user/spotify) - 93,646 likes - 50 songs - 2 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 93,688 likes - 50 songs - 2 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9WvJEsJpG9m.md) - [plain]
 | 49 | [Death](https://open.spotify.com/track/3MSuo4vHv2zMTPomERER6w) | [White Lies](https://open.spotify.com/artist/6ssXMmc5EOUrauZxirM910) | [To Lose My Life..\. \(Bonus remix version\)](https://open.spotify.com/album/4A8HMvPUKHOxvTlsrPeNKh) | 5:01 |
 | 50 | [Bandages](https://open.spotify.com/track/75pMEcHJjLRv0O8MHxQvdg) | [Hot Hot Heat](https://open.spotify.com/artist/5UVftEhSsIg0kkXlmfhB6M) | [Make Up The Breakdown](https://open.spotify.com/album/02KvZdz1ZwyGTok0Sl5g3a) | 3:32 |
 
-Snapshot ID: `MCxlYjA2M2UyYjhkNmEyNDQ5ZGM3MjBjYWExNjk2OTlhNmRjNzUwNzZh`
+Snapshot ID: `MCwxMzFlMzdkZjEyNWVjZTNkMzY1ZGRkYzY3NTBiMjViZDZkMGExOGJh`

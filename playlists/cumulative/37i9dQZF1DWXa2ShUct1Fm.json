@@ -2237,6 +2237,24 @@
     },
     {
       "album": {
+        "name": "Lonely Stars",
+        "url": "https://open.spotify.com/album/01Jmjq2ScXdj8hufqKXrlP"
+      },
+      "artists": [
+        {
+          "name": "SEUNGKWAN",
+          "url": "https://open.spotify.com/artist/0Vb2DjojEYsasFpc3aTZb6"
+        }
+      ],
+      "date_added": "2024-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246120,
+      "name": "Lonely Stars (Korean Ver.)",
+      "url": "https://open.spotify.com/track/5EIMmyT519rdZzdeSGEj0m"
+    },
+    {
+      "album": {
         "name": "Live on Ice",
         "url": "https://open.spotify.com/album/6K7SjlIebufubxXGf4uA7a"
       },

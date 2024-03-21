@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Cortes modernos pa' los compas con estilo!",
-  "num_followers": 97892,
+  "num_followers": 97959,
   "original_name": "Barber\u00eda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4OTNmZGQzNzRmZWExN2Q0NjhhMjA4NWNkNTcwOTMyMTllODkwOTBi",
+  "snapshot_id": "MCxmMGVhOWFhY2M1MTk3ZDU5NDhjNzAyNTg1MWQ4OWRiNGU1NDEwMmE0",
   "tracks": [
     {
       "added_at": "2024-03-05 17:33:05",
@@ -1039,26 +1039,6 @@
     {
       "added_at": "2024-03-05 17:33:05",
       "album": {
-        "name": "Ahog\u00e1ndome en Alcohol",
-        "url": "https://open.spotify.com/album/2mzpFXzP8MMSCOp0YjpshS"
-      },
-      "artists": [
-        {
-          "name": "Lefty Sm",
-          "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
-        },
-        {
-          "name": "Luis R Conriquez",
-          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
-        }
-      ],
-      "duration_ms": 257846,
-      "name": "Ahog\u00e1ndome en Alcohol",
-      "url": "https://open.spotify.com/track/0T2SVUCPRmf2gUbGmgJXCT"
-    },
-    {
-      "added_at": "2024-03-05 17:33:05",
-      "album": {
         "name": "ENOC",
         "url": "https://open.spotify.com/album/69iuPQsXel3luOSDNF0q2Q"
       },
@@ -1083,6 +1063,26 @@
     {
       "added_at": "2024-03-05 17:33:05",
       "album": {
+        "name": "Ahog\u00e1ndome en Alcohol",
+        "url": "https://open.spotify.com/album/2mzpFXzP8MMSCOp0YjpshS"
+      },
+      "artists": [
+        {
+          "name": "Lefty Sm",
+          "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
+        },
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        }
+      ],
+      "duration_ms": 257846,
+      "name": "Ahog\u00e1ndome en Alcohol",
+      "url": "https://open.spotify.com/track/0T2SVUCPRmf2gUbGmgJXCT"
+    },
+    {
+      "added_at": "2024-03-05 17:33:05",
+      "album": {
         "name": "A Mis 20",
         "url": "https://open.spotify.com/album/4TATXEH2tnZVTqlyURoWUR"
       },
@@ -1099,26 +1099,6 @@
       "duration_ms": 213943,
       "name": "Porte Exuberante",
       "url": "https://open.spotify.com/track/4DdnffqoFr9wDRlCACNmGf"
-    },
-    {
-      "added_at": "2024-03-05 17:33:05",
-      "album": {
-        "name": "Te Ire A Buscar",
-        "url": "https://open.spotify.com/album/48nhACiR3pxi57lxXIxx1P"
-      },
-      "artists": [
-        {
-          "name": "Santa Fe Klan",
-          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
-        },
-        {
-          "name": "Nanpa B\u00e1sico",
-          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
-        }
-      ],
-      "duration_ms": 218045,
-      "name": "Te Ire A Buscar",
-      "url": "https://open.spotify.com/track/3elpkpwYlmUbuvmVps08lJ"
     },
     {
       "added_at": "2024-03-05 17:33:05",
@@ -1167,18 +1147,22 @@
     {
       "added_at": "2024-03-05 17:33:05",
       "album": {
-        "name": "Golpe Avisa",
-        "url": "https://open.spotify.com/album/2EexU9SdoDbgCGazUepCyL"
+        "name": "Te Ire A Buscar",
+        "url": "https://open.spotify.com/album/48nhACiR3pxi57lxXIxx1P"
       },
       "artists": [
         {
-          "name": "Cartel De Santa",
-          "url": "https://open.spotify.com/artist/07PdYoE4jVRF6Ut40GgVSP"
+          "name": "Santa Fe Klan",
+          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
+        },
+        {
+          "name": "Nanpa B\u00e1sico",
+          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
         }
       ],
-      "duration_ms": 219573,
-      "name": "Si Te Vienen a Contar",
-      "url": "https://open.spotify.com/track/1qNUhmx3rGjiMRThz7Eruv"
+      "duration_ms": 218045,
+      "name": "Te Ire A Buscar",
+      "url": "https://open.spotify.com/track/3elpkpwYlmUbuvmVps08lJ"
     },
     {
       "added_at": "2024-03-05 17:33:05",
@@ -1199,6 +1183,22 @@
       "duration_ms": 224996,
       "name": "Desesperados",
       "url": "https://open.spotify.com/track/6ZOcbKub95XSDESsKKuH41"
+    },
+    {
+      "added_at": "2024-03-05 17:33:05",
+      "album": {
+        "name": "Golpe Avisa",
+        "url": "https://open.spotify.com/album/2EexU9SdoDbgCGazUepCyL"
+      },
+      "artists": [
+        {
+          "name": "Cartel De Santa",
+          "url": "https://open.spotify.com/artist/07PdYoE4jVRF6Ut40GgVSP"
+        }
+      ],
+      "duration_ms": 219573,
+      "name": "Si Te Vienen a Contar",
+      "url": "https://open.spotify.com/track/1qNUhmx3rGjiMRThz7Eruv"
     },
     {
       "added_at": "2024-03-05 17:33:05",
@@ -1259,22 +1259,6 @@
     {
       "added_at": "2024-03-05 17:33:05",
       "album": {
-        "name": "Happy Birthday Flakko",
-        "url": "https://open.spotify.com/album/5aQdVDQFVq43QFPPdSmUO4"
-      },
-      "artists": [
-        {
-          "name": "Rels B",
-          "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "SIN MIRAR LAS SE\u00d1ALES",
-      "url": "https://open.spotify.com/track/7fM24rKaYCTGf85Lj8U2pk"
-    },
-    {
-      "added_at": "2024-03-05 17:33:05",
-      "album": {
         "name": "Si Fuera F\u00e1cil",
         "url": "https://open.spotify.com/album/3CUu8nxAMyjCiTeGyiBOKE"
       },
@@ -1287,6 +1271,22 @@
       "duration_ms": 170496,
       "name": "Si Fuera F\u00e1cil",
       "url": "https://open.spotify.com/track/7Jph6HJbfURt4Fea19IED3"
+    },
+    {
+      "added_at": "2024-03-05 17:33:05",
+      "album": {
+        "name": "Happy Birthday Flakko",
+        "url": "https://open.spotify.com/album/5aQdVDQFVq43QFPPdSmUO4"
+      },
+      "artists": [
+        {
+          "name": "Rels B",
+          "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "SIN MIRAR LAS SE\u00d1ALES",
+      "url": "https://open.spotify.com/track/7fM24rKaYCTGf85Lj8U2pk"
     },
     {
       "added_at": "2024-03-05 17:33:05",
@@ -2015,22 +2015,6 @@
     {
       "added_at": "2024-03-05 17:33:05",
       "album": {
-        "name": "Pa' las Vibras 2",
-        "url": "https://open.spotify.com/album/6WTGGJdnAShmVQLDH1EcKE"
-      },
-      "artists": [
-        {
-          "name": "Herencia de Patrones",
-          "url": "https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6"
-        }
-      ],
-      "duration_ms": 207898,
-      "name": "Con la Bola",
-      "url": "https://open.spotify.com/track/2sRRhpr13wR4SrxAtlVjdh"
-    },
-    {
-      "added_at": "2024-03-05 17:33:05",
-      "album": {
         "name": "Cuatro 44",
         "url": "https://open.spotify.com/album/39CQpGgsU5LTagewDPB1lN"
       },
@@ -2047,6 +2031,22 @@
       "duration_ms": 157000,
       "name": "Cuatro 44",
       "url": "https://open.spotify.com/track/5PcxOKZC1CjKX9WLLLXjT7"
+    },
+    {
+      "added_at": "2024-03-05 17:33:05",
+      "album": {
+        "name": "Pa' las Vibras 2",
+        "url": "https://open.spotify.com/album/6WTGGJdnAShmVQLDH1EcKE"
+      },
+      "artists": [
+        {
+          "name": "Herencia de Patrones",
+          "url": "https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6"
+        }
+      ],
+      "duration_ms": 207898,
+      "name": "Con la Bola",
+      "url": "https://open.spotify.com/track/2sRRhpr13wR4SrxAtlVjdh"
     },
     {
       "added_at": "2024-03-05 17:33:05",

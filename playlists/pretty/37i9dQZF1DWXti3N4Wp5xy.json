@@ -1,12 +1,12 @@
 {
   "description": "A perfect little pop party. ",
-  "num_followers": 521148,
+  "num_followers": 521353,
   "original_name": "Pop Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1Zjk1ZTFiMWQ3YTRkNjY4ZWUwMTBlMWZiOTBlYmZiNDk1MjNjYTRi",
+  "snapshot_id": "MCw5NmJmMGYxMzg2MTlmMzhiODlhYzVlMjRmNmYxYzI3Y2E2OTZmNTI0",
   "tracks": [
     {
       "added_at": "2024-03-15 18:20:45",
@@ -411,26 +411,6 @@
     {
       "added_at": "2024-03-15 18:20:45",
       "album": {
-        "name": "Gangsta's Paradise",
-        "url": "https://open.spotify.com/album/0BJYNipGyMrw4ngKDJXzXZ"
-      },
-      "artists": [
-        {
-          "name": "Coolio",
-          "url": "https://open.spotify.com/artist/3y24n3XhZ96wgwRXjvS17T"
-        },
-        {
-          "name": "L.V.",
-          "url": "https://open.spotify.com/artist/2LhsePRtgCo4THVKULQBL7"
-        }
-      ],
-      "duration_ms": 240693,
-      "name": "Gangsta's Paradise",
-      "url": "https://open.spotify.com/track/1DIXPcTDzTj8ZMHt3PDt8p"
-    },
-    {
-      "added_at": "2024-03-15 18:20:45",
-      "album": {
         "name": "This Is What You Came For",
         "url": "https://open.spotify.com/album/3pEgGUv379EDinvg1TN7Kt"
       },
@@ -447,6 +427,26 @@
       "duration_ms": 222160,
       "name": "This Is What You Came For",
       "url": "https://open.spotify.com/track/0azC730Exh71aQlOt9Zj3y"
+    },
+    {
+      "added_at": "2024-03-15 18:20:45",
+      "album": {
+        "name": "Gangsta's Paradise",
+        "url": "https://open.spotify.com/album/0BJYNipGyMrw4ngKDJXzXZ"
+      },
+      "artists": [
+        {
+          "name": "Coolio",
+          "url": "https://open.spotify.com/artist/3y24n3XhZ96wgwRXjvS17T"
+        },
+        {
+          "name": "L.V.",
+          "url": "https://open.spotify.com/artist/2LhsePRtgCo4THVKULQBL7"
+        }
+      ],
+      "duration_ms": 240693,
+      "name": "Gangsta's Paradise",
+      "url": "https://open.spotify.com/track/1DIXPcTDzTj8ZMHt3PDt8p"
     },
     {
       "added_at": "2024-03-15 18:20:45",
@@ -555,6 +555,26 @@
     {
       "added_at": "2024-03-15 18:20:45",
       "album": {
+        "name": "One Kiss (with Dua Lipa)",
+        "url": "https://open.spotify.com/album/7GEzhoTiqcPYkOprWQu581"
+      },
+      "artists": [
+        {
+          "name": "Calvin Harris",
+          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
+        },
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        }
+      ],
+      "duration_ms": 214846,
+      "name": "One Kiss (with Dua Lipa)",
+      "url": "https://open.spotify.com/track/7ef4DlsgrMEH11cDZd32M6"
+    },
+    {
+      "added_at": "2024-03-15 18:20:45",
+      "album": {
         "name": "Planet Her",
         "url": "https://open.spotify.com/album/1nAQbHeOWTfQzbOoFrvndW"
       },
@@ -603,26 +623,6 @@
       "duration_ms": 269666,
       "name": "Uptown Funk (feat. Bruno Mars)",
       "url": "https://open.spotify.com/track/32OlwWuMpZ6b0aN2RZOeMS"
-    },
-    {
-      "added_at": "2024-03-15 18:20:45",
-      "album": {
-        "name": "One Kiss (with Dua Lipa)",
-        "url": "https://open.spotify.com/album/7GEzhoTiqcPYkOprWQu581"
-      },
-      "artists": [
-        {
-          "name": "Calvin Harris",
-          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
-        },
-        {
-          "name": "Dua Lipa",
-          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
-        }
-      ],
-      "duration_ms": 214846,
-      "name": "One Kiss (with Dua Lipa)",
-      "url": "https://open.spotify.com/track/7ef4DlsgrMEH11cDZd32M6"
     },
     {
       "added_at": "2024-03-15 18:20:45",
@@ -763,6 +763,22 @@
     {
       "added_at": "2024-03-15 18:20:45",
       "album": {
+        "name": "Pray for the Wicked",
+        "url": "https://open.spotify.com/album/6ApYSpXF8GxZAgBTHDzYge"
+      },
+      "artists": [
+        {
+          "name": "Panic! At The Disco",
+          "url": "https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK"
+        }
+      ],
+      "duration_ms": 190946,
+      "name": "High Hopes",
+      "url": "https://open.spotify.com/track/1rqqCSm0Qe4I9rUvWncaom"
+    },
+    {
+      "added_at": "2024-03-15 18:20:45",
+      "album": {
         "name": "DNCE",
         "url": "https://open.spotify.com/album/3Wv4X8OA65pGpFzBkuUgAh"
       },
@@ -779,18 +795,18 @@
     {
       "added_at": "2024-03-15 18:20:45",
       "album": {
-        "name": "Pray for the Wicked",
-        "url": "https://open.spotify.com/album/6ApYSpXF8GxZAgBTHDzYge"
+        "name": "MKTO",
+        "url": "https://open.spotify.com/album/5IenxFp0vpnXBUxPcwJtbE"
       },
       "artists": [
         {
-          "name": "Panic! At The Disco",
-          "url": "https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK"
+          "name": "MKTO",
+          "url": "https://open.spotify.com/artist/2l35CQqtYRh3d8ZIiBep4v"
         }
       ],
-      "duration_ms": 190946,
-      "name": "High Hopes",
-      "url": "https://open.spotify.com/track/1rqqCSm0Qe4I9rUvWncaom"
+      "duration_ms": 175426,
+      "name": "Classic",
+      "url": "https://open.spotify.com/track/6FE2iI43OZnszFLuLtvvmg"
     },
     {
       "added_at": "2024-03-15 18:20:45",
@@ -811,22 +827,6 @@
       "duration_ms": 154983,
       "name": "Leave Before You Love Me (with Jonas Brothers)",
       "url": "https://open.spotify.com/track/4qu63nuBpdn0qHUHuObEj1"
-    },
-    {
-      "added_at": "2024-03-15 18:20:45",
-      "album": {
-        "name": "MKTO",
-        "url": "https://open.spotify.com/album/5IenxFp0vpnXBUxPcwJtbE"
-      },
-      "artists": [
-        {
-          "name": "MKTO",
-          "url": "https://open.spotify.com/artist/2l35CQqtYRh3d8ZIiBep4v"
-        }
-      ],
-      "duration_ms": 175426,
-      "name": "Classic",
-      "url": "https://open.spotify.com/track/6FE2iI43OZnszFLuLtvvmg"
     },
     {
       "added_at": "2024-03-15 18:20:45",
@@ -963,26 +963,6 @@
     {
       "added_at": "2024-03-15 18:20:45",
       "album": {
-        "name": "Unholy (feat. Kim Petras)",
-        "url": "https://open.spotify.com/album/0gX9tkL5njRax8ymWcXARi"
-      },
-      "artists": [
-        {
-          "name": "Sam Smith",
-          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
-        },
-        {
-          "name": "Kim Petras",
-          "url": "https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J"
-        }
-      ],
-      "duration_ms": 156943,
-      "name": "Unholy (feat. Kim Petras)",
-      "url": "https://open.spotify.com/track/3nqQXoyQOWXiESFLlDF1hG"
-    },
-    {
-      "added_at": "2024-03-15 18:20:45",
-      "album": {
         "name": "Meet The Orphans",
         "url": "https://open.spotify.com/album/6mGDfbDErYIJsmSewvccWm"
       },
@@ -999,6 +979,26 @@
       "duration_ms": 198773,
       "name": "Danza Kuduro",
       "url": "https://open.spotify.com/track/2a1o6ZejUi8U3wzzOtCOYw"
+    },
+    {
+      "added_at": "2024-03-15 18:20:45",
+      "album": {
+        "name": "Unholy (feat. Kim Petras)",
+        "url": "https://open.spotify.com/album/0gX9tkL5njRax8ymWcXARi"
+      },
+      "artists": [
+        {
+          "name": "Sam Smith",
+          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
+        },
+        {
+          "name": "Kim Petras",
+          "url": "https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J"
+        }
+      ],
+      "duration_ms": 156943,
+      "name": "Unholy (feat. Kim Petras)",
+      "url": "https://open.spotify.com/track/3nqQXoyQOWXiESFLlDF1hG"
     },
     {
       "added_at": "2024-03-15 18:20:45",
@@ -1067,22 +1067,6 @@
     {
       "added_at": "2024-03-15 18:20:45",
       "album": {
-        "name": "BE",
-        "url": "https://open.spotify.com/album/6nYfHQnvkvOTNHnOhDT3sr"
-      },
-      "artists": [
-        {
-          "name": "BTS",
-          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
-        }
-      ],
-      "duration_ms": 199053,
-      "name": "Dynamite",
-      "url": "https://open.spotify.com/track/5QDLhrAOJJdNAmCTJ8xMyW"
-    },
-    {
-      "added_at": "2024-03-15 18:20:45",
-      "album": {
         "name": "Camila",
         "url": "https://open.spotify.com/album/2vD3zSQr8hNlg0obNel4TE"
       },
@@ -1099,6 +1083,22 @@
       "duration_ms": 217306,
       "name": "Havana (feat. Young Thug)",
       "url": "https://open.spotify.com/track/1rfofaqEpACxVEHIZBJe6W"
+    },
+    {
+      "added_at": "2024-03-15 18:20:45",
+      "album": {
+        "name": "BE",
+        "url": "https://open.spotify.com/album/6nYfHQnvkvOTNHnOhDT3sr"
+      },
+      "artists": [
+        {
+          "name": "BTS",
+          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+        }
+      ],
+      "duration_ms": 199053,
+      "name": "Dynamite",
+      "url": "https://open.spotify.com/track/5QDLhrAOJJdNAmCTJ8xMyW"
     },
     {
       "added_at": "2024-03-15 18:20:45",
@@ -1283,22 +1283,6 @@
     {
       "added_at": "2024-03-15 18:20:45",
       "album": {
-        "name": "Heaven & Hell",
-        "url": "https://open.spotify.com/album/26c7MmQ4w8EAvVLb4jilaM"
-      },
-      "artists": [
-        {
-          "name": "Ava Max",
-          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
-        }
-      ],
-      "duration_ms": 162398,
-      "name": "Kings & Queens",
-      "url": "https://open.spotify.com/track/7a53HqqArd4b9NF4XAmlbI"
-    },
-    {
-      "added_at": "2024-03-15 18:20:45",
-      "album": {
         "name": "Music Of The Sun",
         "url": "https://open.spotify.com/album/4FyGpObwABjn0o8Tdp7AZz"
       },
@@ -1311,6 +1295,22 @@
       "duration_ms": 246960,
       "name": "Pon de Replay",
       "url": "https://open.spotify.com/track/4TsmezEQVSZNNPv5RJ65Ov"
+    },
+    {
+      "added_at": "2024-03-15 18:20:45",
+      "album": {
+        "name": "Heaven & Hell",
+        "url": "https://open.spotify.com/album/26c7MmQ4w8EAvVLb4jilaM"
+      },
+      "artists": [
+        {
+          "name": "Ava Max",
+          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
+        }
+      ],
+      "duration_ms": 162398,
+      "name": "Kings & Queens",
+      "url": "https://open.spotify.com/track/7a53HqqArd4b9NF4XAmlbI"
     },
     {
       "added_at": "2024-03-15 18:20:45",
@@ -1799,6 +1799,22 @@
     {
       "added_at": "2024-03-15 18:20:45",
       "album": {
+        "name": "Vegas (From the Original Motion Picture Soundtrack ELVIS)",
+        "url": "https://open.spotify.com/album/2Q5DPv9uliinOBSdNooIe3"
+      },
+      "artists": [
+        {
+          "name": "Doja Cat",
+          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
+        }
+      ],
+      "duration_ms": 182906,
+      "name": "Vegas (From the Original Motion Picture Soundtrack ELVIS)",
+      "url": "https://open.spotify.com/track/0hquQWY3xvYqN4qtiquniF"
+    },
+    {
+      "added_at": "2024-03-15 18:20:45",
+      "album": {
         "name": "Aquarium (Special Edition)",
         "url": "https://open.spotify.com/album/3hHmYc6mrl6NkmRW1ZwYvm"
       },
@@ -1827,22 +1843,6 @@
       "duration_ms": 168601,
       "name": "abcdefu",
       "url": "https://open.spotify.com/track/4fouWK6XVHhzl78KzQ1UjL"
-    },
-    {
-      "added_at": "2024-03-15 18:20:45",
-      "album": {
-        "name": "Vegas (From the Original Motion Picture Soundtrack ELVIS)",
-        "url": "https://open.spotify.com/album/2Q5DPv9uliinOBSdNooIe3"
-      },
-      "artists": [
-        {
-          "name": "Doja Cat",
-          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
-        }
-      ],
-      "duration_ms": 182906,
-      "name": "Vegas (From the Original Motion Picture Soundtrack ELVIS)",
-      "url": "https://open.spotify.com/track/0hquQWY3xvYqN4qtiquniF"
     },
     {
       "added_at": "2024-03-15 18:20:45",
@@ -1879,22 +1879,6 @@
     {
       "added_at": "2024-03-15 18:20:45",
       "album": {
-        "name": "Return of the Mack",
-        "url": "https://open.spotify.com/album/6plavTFCGXv5vpy0jZVtOV"
-      },
-      "artists": [
-        {
-          "name": "Mark Morrison",
-          "url": "https://open.spotify.com/artist/6V3F8MZrOKdT9fU686ybE9"
-        }
-      ],
-      "duration_ms": 213093,
-      "name": "Return of the Mack",
-      "url": "https://open.spotify.com/track/3jDdpx9PMlfMBS5tOBHFm9"
-    },
-    {
-      "added_at": "2024-03-15 18:20:45",
-      "album": {
         "name": "What Is Love? (Deluxe Edition)",
         "url": "https://open.spotify.com/album/1MvF4ulZKH7SaDQs9rE5nc"
       },
@@ -1919,18 +1903,18 @@
     {
       "added_at": "2024-03-15 18:20:45",
       "album": {
-        "name": "THE E.N.D. (THE ENERGY NEVER DIES)",
-        "url": "https://open.spotify.com/album/3lng6RAtdksQ2q02Fk5jaB"
+        "name": "Return of the Mack",
+        "url": "https://open.spotify.com/album/6plavTFCGXv5vpy0jZVtOV"
       },
       "artists": [
         {
-          "name": "Black Eyed Peas",
-          "url": "https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS"
+          "name": "Mark Morrison",
+          "url": "https://open.spotify.com/artist/6V3F8MZrOKdT9fU686ybE9"
         }
       ],
-      "duration_ms": 289133,
-      "name": "I Gotta Feeling",
-      "url": "https://open.spotify.com/track/2H1047e0oMSj10dgp7p2VG"
+      "duration_ms": 213093,
+      "name": "Return of the Mack",
+      "url": "https://open.spotify.com/track/3jDdpx9PMlfMBS5tOBHFm9"
     },
     {
       "added_at": "2024-03-15 18:20:45",
@@ -1947,6 +1931,22 @@
       "duration_ms": 209160,
       "name": "Habits (Stay High)",
       "url": "https://open.spotify.com/track/14OxJlLdcHNpgsm4DRwDOB"
+    },
+    {
+      "added_at": "2024-03-15 18:20:45",
+      "album": {
+        "name": "THE E.N.D. (THE ENERGY NEVER DIES)",
+        "url": "https://open.spotify.com/album/3lng6RAtdksQ2q02Fk5jaB"
+      },
+      "artists": [
+        {
+          "name": "Black Eyed Peas",
+          "url": "https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS"
+        }
+      ],
+      "duration_ms": 289133,
+      "name": "I Gotta Feeling",
+      "url": "https://open.spotify.com/track/2H1047e0oMSj10dgp7p2VG"
     },
     {
       "added_at": "2024-03-15 18:20:45",
@@ -2023,22 +2023,6 @@
     {
       "added_at": "2024-03-15 18:20:45",
       "album": {
-        "name": "Dance Monkey (Stripped Back) / Dance Monkey",
-        "url": "https://open.spotify.com/album/0UywfDKYlyiu1b38DRrzYD"
-      },
-      "artists": [
-        {
-          "name": "Tones And I",
-          "url": "https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY"
-        }
-      ],
-      "duration_ms": 209438,
-      "name": "Dance Monkey",
-      "url": "https://open.spotify.com/track/2XU0oxnq2qxCpomAAuJY8K"
-    },
-    {
-      "added_at": "2024-03-15 18:20:45",
-      "album": {
         "name": "Ricky Martin",
         "url": "https://open.spotify.com/album/1k1Cr3nlJDa8pvwZUJ5xfj"
       },
@@ -2051,6 +2035,22 @@
       "duration_ms": 243160,
       "name": "Livin' la Vida Loca",
       "url": "https://open.spotify.com/track/0Ph6L4l8dYUuXFmb71Ajnd"
+    },
+    {
+      "added_at": "2024-03-15 18:20:45",
+      "album": {
+        "name": "Dance Monkey (Stripped Back) / Dance Monkey",
+        "url": "https://open.spotify.com/album/0UywfDKYlyiu1b38DRrzYD"
+      },
+      "artists": [
+        {
+          "name": "Tones And I",
+          "url": "https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY"
+        }
+      ],
+      "duration_ms": 209438,
+      "name": "Dance Monkey",
+      "url": "https://open.spotify.com/track/2XU0oxnq2qxCpomAAuJY8K"
     },
     {
       "added_at": "2024-03-15 18:20:45",
@@ -2539,22 +2539,6 @@
     {
       "added_at": "2024-03-15 18:20:45",
       "album": {
-        "name": "Touch",
-        "url": "https://open.spotify.com/album/2PFK4dMZkqUQfxfSrK8WMf"
-      },
-      "artists": [
-        {
-          "name": "Amerie",
-          "url": "https://open.spotify.com/artist/08rMCq2ek1YjdDBsCPVH2s"
-        }
-      ],
-      "duration_ms": 238760,
-      "name": "1 Thing",
-      "url": "https://open.spotify.com/track/1mnqraQ8oV8MX92rdOFLWW"
-    },
-    {
-      "added_at": "2024-03-15 18:20:45",
-      "album": {
         "name": "VIDA",
         "url": "https://open.spotify.com/album/5C0YLr4OoRGFDaqdMQmkeH"
       },
@@ -2575,6 +2559,22 @@
       "duration_ms": 230413,
       "name": "Despacito - Remix",
       "url": "https://open.spotify.com/track/1vnnXMrBeEWiRg3YCMCjQq"
+    },
+    {
+      "added_at": "2024-03-15 18:20:45",
+      "album": {
+        "name": "Touch",
+        "url": "https://open.spotify.com/album/2PFK4dMZkqUQfxfSrK8WMf"
+      },
+      "artists": [
+        {
+          "name": "Amerie",
+          "url": "https://open.spotify.com/artist/08rMCq2ek1YjdDBsCPVH2s"
+        }
+      ],
+      "duration_ms": 238760,
+      "name": "1 Thing",
+      "url": "https://open.spotify.com/track/1mnqraQ8oV8MX92rdOFLWW"
     },
     {
       "added_at": "2024-03-15 18:20:45",

@@ -1,12 +1,12 @@
 {
   "description": "Cumbia Norte\u00f1a y Norte\u00f1o Sax para las vibras de verano.",
-  "num_followers": 18821,
+  "num_followers": 18869,
   "original_name": "Norte\u00f1o Pa' La Fiesta",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwZGY2ZDkyYzBmMjQ5YTk2NTRmZTZhMDg2MjgxZTNlNzI1M2Q1OGMw",
+  "snapshot_id": "MCwxYzk2Zjk2ZjdmM2IwMDFhOTE1MmIzMjUzMDk3NmEyMmI2YTEyNmVm",
   "tracks": [
     {
       "added_at": "2023-12-07 01:18:03",
@@ -543,22 +543,6 @@
     {
       "added_at": "2023-12-07 01:18:03",
       "album": {
-        "name": "Chiquita Bonita",
-        "url": "https://open.spotify.com/album/3Opmczjz0JKKUrX9LFJ0FB"
-      },
-      "artists": [
-        {
-          "name": "La Fiera de Ojinaga",
-          "url": "https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2"
-        }
-      ],
-      "duration_ms": 156757,
-      "name": "Chiquita Bonita",
-      "url": "https://open.spotify.com/track/2OE3DPyc9S0IBLhy9S3vcn"
-    },
-    {
-      "added_at": "2023-12-07 01:18:03",
-      "album": {
         "name": "Cumbias Sin Control",
         "url": "https://open.spotify.com/album/4WA8OOdFDDoYUoCDnde5UX"
       },
@@ -571,6 +555,22 @@
       "duration_ms": 172706,
       "name": "Tao, Tao",
       "url": "https://open.spotify.com/track/71J3ktUHU5n0EWAfD7VVFX"
+    },
+    {
+      "added_at": "2023-12-07 01:18:03",
+      "album": {
+        "name": "Chiquita Bonita",
+        "url": "https://open.spotify.com/album/3Opmczjz0JKKUrX9LFJ0FB"
+      },
+      "artists": [
+        {
+          "name": "La Fiera de Ojinaga",
+          "url": "https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2"
+        }
+      ],
+      "duration_ms": 156757,
+      "name": "Chiquita Bonita",
+      "url": "https://open.spotify.com/track/2OE3DPyc9S0IBLhy9S3vcn"
     },
     {
       "added_at": "2023-12-07 01:18:03",
@@ -639,18 +639,18 @@
     {
       "added_at": "2023-12-07 01:18:03",
       "album": {
-        "name": "Vive",
-        "url": "https://open.spotify.com/album/4v2fdmkaVrrT0eYhy2ix3a"
+        "name": "No Paras de Hacerme Feliz",
+        "url": "https://open.spotify.com/album/4GnznPcGs85z1yeeWA5Gyi"
       },
       "artists": [
         {
-          "name": "Bobby Pulido",
-          "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
+          "name": "La Fiera de Ojinaga",
+          "url": "https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2"
         }
       ],
-      "duration_ms": 180560,
-      "name": "Ojal\u00e1 Te Animes",
-      "url": "https://open.spotify.com/track/1tg7ZzCAkjDNENdWL7WuIr"
+      "duration_ms": 185296,
+      "name": "No Paras de Hacerme Feliz",
+      "url": "https://open.spotify.com/track/5bP1RCdGcUxkwASwKAbPHa"
     },
     {
       "added_at": "2023-12-07 01:18:03",
@@ -671,18 +671,18 @@
     {
       "added_at": "2023-12-07 01:18:03",
       "album": {
-        "name": "No Paras de Hacerme Feliz",
-        "url": "https://open.spotify.com/album/4GnznPcGs85z1yeeWA5Gyi"
+        "name": "Vive",
+        "url": "https://open.spotify.com/album/4v2fdmkaVrrT0eYhy2ix3a"
       },
       "artists": [
         {
-          "name": "La Fiera de Ojinaga",
-          "url": "https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2"
+          "name": "Bobby Pulido",
+          "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
         }
       ],
-      "duration_ms": 185296,
-      "name": "No Paras de Hacerme Feliz",
-      "url": "https://open.spotify.com/track/5bP1RCdGcUxkwASwKAbPHa"
+      "duration_ms": 180560,
+      "name": "Ojal\u00e1 Te Animes",
+      "url": "https://open.spotify.com/track/1tg7ZzCAkjDNENdWL7WuIr"
     },
     {
       "added_at": "2023-12-07 01:18:03",
@@ -751,22 +751,6 @@
     {
       "added_at": "2023-12-07 01:18:03",
       "album": {
-        "name": "De Coraz\u00f3n Norte\u00f1o",
-        "url": "https://open.spotify.com/album/2LrllvMkfrhnWqJHXrPsOb"
-      },
-      "artists": [
-        {
-          "name": "Los Rieleros Del Norte",
-          "url": "https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv"
-        }
-      ],
-      "duration_ms": 203853,
-      "name": "Te Quiero Mucho",
-      "url": "https://open.spotify.com/track/5G5TAfojJWd6sMmHchXdQu"
-    },
-    {
-      "added_at": "2023-12-07 01:18:03",
-      "album": {
         "name": "La Boca Les Callamos",
         "url": "https://open.spotify.com/album/2kVbNXRSfZPLgyH4lhrhp9"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 164650,
       "name": "La Boca Les Callamos",
       "url": "https://open.spotify.com/track/6bXfM7zpnRP5qkyYWzHjWO"
+    },
+    {
+      "added_at": "2023-12-07 01:18:03",
+      "album": {
+        "name": "De Coraz\u00f3n Norte\u00f1o",
+        "url": "https://open.spotify.com/album/2LrllvMkfrhnWqJHXrPsOb"
+      },
+      "artists": [
+        {
+          "name": "Los Rieleros Del Norte",
+          "url": "https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv"
+        }
+      ],
+      "duration_ms": 203853,
+      "name": "Te Quiero Mucho",
+      "url": "https://open.spotify.com/track/5G5TAfojJWd6sMmHchXdQu"
     },
     {
       "added_at": "2023-12-07 01:18:03",
@@ -871,6 +871,22 @@
     {
       "added_at": "2023-12-07 01:18:03",
       "album": {
+        "name": "La Boca Les Callamos, Vol. 2",
+        "url": "https://open.spotify.com/album/7EesU3azH6jPG5osiPex59"
+      },
+      "artists": [
+        {
+          "name": "La Fiera de Ojinaga",
+          "url": "https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2"
+        }
+      ],
+      "duration_ms": 204805,
+      "name": "Te Vas a Acordar de Mi",
+      "url": "https://open.spotify.com/track/5pdfnefsLnfBFo7gxHvqBK"
+    },
+    {
+      "added_at": "2023-12-07 01:18:03",
+      "album": {
         "name": "Jugo A La Vida",
         "url": "https://open.spotify.com/album/5lgrTxeADbH5owlSV1tagK"
       },
@@ -899,22 +915,6 @@
       "duration_ms": 169041,
       "name": "Y Me Da Verg\u00fcenza",
       "url": "https://open.spotify.com/track/6n7MYzA52JLIgkgx5RgN7b"
-    },
-    {
-      "added_at": "2023-12-07 01:18:03",
-      "album": {
-        "name": "La Boca Les Callamos, Vol. 2",
-        "url": "https://open.spotify.com/album/7EesU3azH6jPG5osiPex59"
-      },
-      "artists": [
-        {
-          "name": "La Fiera de Ojinaga",
-          "url": "https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2"
-        }
-      ],
-      "duration_ms": 204805,
-      "name": "Te Vas a Acordar de Mi",
-      "url": "https://open.spotify.com/track/5pdfnefsLnfBFo7gxHvqBK"
     },
     {
       "added_at": "2023-12-07 01:18:03",
@@ -1303,22 +1303,6 @@
     {
       "added_at": "2023-12-07 01:18:03",
       "album": {
-        "name": "Voy a Conquistarte",
-        "url": "https://open.spotify.com/album/5tb09wCXY5tZr1Xz6Obul4"
-      },
-      "artists": [
-        {
-          "name": "Los Pescadores Del Rio Conchos",
-          "url": "https://open.spotify.com/artist/3h88VTqRj3GbUd2W41ZY5U"
-        }
-      ],
-      "duration_ms": 198520,
-      "name": "Voy a Conquistarte",
-      "url": "https://open.spotify.com/track/4wR1PmSCcxNMjP9koGWWd8"
-    },
-    {
-      "added_at": "2023-12-07 01:18:03",
-      "album": {
         "name": "Lo Dice El Coraz\u00f3n",
         "url": "https://open.spotify.com/album/0tELO6VB2M4J9Egbk3ENZl"
       },
@@ -1335,6 +1319,22 @@
       "duration_ms": 170600,
       "name": "Lo Dice El Coraz\u00f3n",
       "url": "https://open.spotify.com/track/45WKHzA7KeJtQFLkDHxcCS"
+    },
+    {
+      "added_at": "2023-12-07 01:18:03",
+      "album": {
+        "name": "Voy a Conquistarte",
+        "url": "https://open.spotify.com/album/5tb09wCXY5tZr1Xz6Obul4"
+      },
+      "artists": [
+        {
+          "name": "Los Pescadores Del Rio Conchos",
+          "url": "https://open.spotify.com/artist/3h88VTqRj3GbUd2W41ZY5U"
+        }
+      ],
+      "duration_ms": 198520,
+      "name": "Voy a Conquistarte",
+      "url": "https://open.spotify.com/track/4wR1PmSCcxNMjP9koGWWd8"
     },
     {
       "added_at": "2023-12-07 01:18:03",
@@ -1387,22 +1387,6 @@
     {
       "added_at": "2023-12-07 01:18:03",
       "album": {
-        "name": "Olv\u00eddala",
-        "url": "https://open.spotify.com/album/6055KSpuhGP02JmbUIYRsh"
-      },
-      "artists": [
-        {
-          "name": "Conjunto Nube",
-          "url": "https://open.spotify.com/artist/08Iky6YUq0V8qKzBiNdVS4"
-        }
-      ],
-      "duration_ms": 236382,
-      "name": "Y Lo Busqu\u00e9",
-      "url": "https://open.spotify.com/track/2tUS7pJAfKcOS84ncN5D3o"
-    },
-    {
-      "added_at": "2023-12-07 01:18:03",
-      "album": {
         "name": "Que Se Arme la Fiesta",
         "url": "https://open.spotify.com/album/4AKnoboSYY1A9EotKTRjyO"
       },
@@ -1415,6 +1399,22 @@
       "duration_ms": 240000,
       "name": "Molinos de Viento",
       "url": "https://open.spotify.com/track/3xCyBGCKtkyzD44L1pQJr3"
+    },
+    {
+      "added_at": "2023-12-07 01:18:03",
+      "album": {
+        "name": "Olv\u00eddala",
+        "url": "https://open.spotify.com/album/6055KSpuhGP02JmbUIYRsh"
+      },
+      "artists": [
+        {
+          "name": "Conjunto Nube",
+          "url": "https://open.spotify.com/artist/08Iky6YUq0V8qKzBiNdVS4"
+        }
+      ],
+      "duration_ms": 236382,
+      "name": "Y Lo Busqu\u00e9",
+      "url": "https://open.spotify.com/track/2tUS7pJAfKcOS84ncN5D3o"
     },
     {
       "added_at": "2023-12-07 01:18:03",
@@ -1467,6 +1467,22 @@
     {
       "added_at": "2023-12-07 01:18:03",
       "album": {
+        "name": "A Bailar Huapangos",
+        "url": "https://open.spotify.com/album/4rAl5BSej3ygV2BWk8yQbg"
+      },
+      "artists": [
+        {
+          "name": "Los Igualados",
+          "url": "https://open.spotify.com/artist/6H9GCi2trd6KkKlGrGuDfj"
+        }
+      ],
+      "duration_ms": 252055,
+      "name": "El P\u00e1vido N\u00e1vido",
+      "url": "https://open.spotify.com/track/2uLCHFZczr8mQpdGbk30DT"
+    },
+    {
+      "added_at": "2023-12-07 01:18:03",
+      "album": {
         "name": "Se Abre el Tel\u00f3n",
         "url": "https://open.spotify.com/album/7gDU8W7H50vfNL4Dlw9MRt"
       },
@@ -1499,22 +1515,6 @@
       "duration_ms": 190682,
       "name": "Ando Bien Agusto",
       "url": "https://open.spotify.com/track/5heouRKOr5RdKXWd4tdZZw"
-    },
-    {
-      "added_at": "2023-12-07 01:18:03",
-      "album": {
-        "name": "A Bailar Huapangos",
-        "url": "https://open.spotify.com/album/4rAl5BSej3ygV2BWk8yQbg"
-      },
-      "artists": [
-        {
-          "name": "Los Igualados",
-          "url": "https://open.spotify.com/artist/6H9GCi2trd6KkKlGrGuDfj"
-        }
-      ],
-      "duration_ms": 252055,
-      "name": "El P\u00e1vido N\u00e1vido",
-      "url": "https://open.spotify.com/track/2uLCHFZczr8mQpdGbk30DT"
     },
     {
       "added_at": "2023-12-07 01:18:03",

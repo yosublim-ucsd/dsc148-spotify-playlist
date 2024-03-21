@@ -4,7 +4,7 @@
 
 > make the whole place shimmer ✨
 
-161 songs - 9 hr 14 min
+162 songs - 9 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,7 +16,8 @@
 | [All I Wanna Do](https://open.spotify.com/track/3ZpQiJ78LKINrW9SQTgbXd) | [Sheryl Crow](https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD) | [Tuesday Night Music Club](https://open.spotify.com/album/7dC6axVAeBDpRMmNtRbpwU) | 4:32 | 2022-03-22 |  |
 | [All The Cool Girls](https://open.spotify.com/track/70pZ1pcIlgbjME5Hkjz977) | [Hailey Whitters](https://open.spotify.com/artist/4e9TBaTlI3LVQz3tkTYC0I) | [The Dream: Living The Dream \(Deluxe\)](https://open.spotify.com/album/0r6KIOwZvmsEd457nUJWbt) | 3:37 | 2022-02-11 | 2022-07-29 |
 | [Any Man Of Mine](https://open.spotify.com/track/0pdfN7nOHMYmKykzu1cyfm) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [The Woman In Me](https://open.spotify.com/album/3wDeIA9tJU0uNlsroUdcYK) | 4:06 | 2022-02-11 |  |
-| [Austin](https://open.spotify.com/track/4NJqhmkGN042BrvHoMKUrJ) | [Dasha](https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I) | [Austin](https://open.spotify.com/album/4JtlZzYJEa7bejLF0ASnk0) | 2:51 | 2024-03-01 |  |
+| [Austin](https://open.spotify.com/track/4NJqhmkGN042BrvHoMKUrJ) | [Dasha](https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I) | [Austin](https://open.spotify.com/album/4JtlZzYJEa7bejLF0ASnk0) | 2:51 | 2024-03-01 | 2024-03-21 |
+| [Austin](https://open.spotify.com/track/6b81dy3WjbozXK6b7C1gu5) | [Dasha](https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I) | [What Happens Now?](https://open.spotify.com/album/0rQRrrZPPv6XXsxilJ1wFz) | 2:51 | 2024-03-01 |  |
 | [Bartender](https://open.spotify.com/track/6olKv2HP3XgBpvVxAswowe) | [Lady A](https://open.spotify.com/artist/32WkQRZEVKSzVAAYqukAEA) | [747](https://open.spotify.com/album/1JHNRou038CfCC0RZztDz8) | 3:18 | 2022-02-11 |  |
 | [Barton Hollow](https://open.spotify.com/track/6ZOBY9RG2tcxXX0ohKtfRc) | [The Civil Wars](https://open.spotify.com/artist/6J7rw7NELJUCThPbAfyLIE) | [Barton Hollow](https://open.spotify.com/album/4uWgDFxGAp7XlVSHuVBv4E) | 3:25 | 2022-09-23 | 2022-12-08 |
 | [Before He Cheats](https://open.spotify.com/track/0ZUo4YjG4saFnEJhdWp9Bt) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Some Hearts](https://open.spotify.com/album/0kys2jaKAiDPfNBd4z7LAg) | 3:19 | 2022-02-11 |  |

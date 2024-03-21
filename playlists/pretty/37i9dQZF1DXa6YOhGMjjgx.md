@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa6YOhGMjjgx.md) - [plain]
 
 > The very best of the alternative rock scene\. New and recent favorites\. Cover: The Mysterines
 
-[Spotify](https://open.spotify.com/user/spotify) - 472,001 likes - 100 songs - 5 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 472,019 likes - 100 songs - 5 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,14 +53,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa6YOhGMjjgx.md) - [plain]
 | 43 | [Absolute Bloom](https://open.spotify.com/track/2J2NIgMvtnIStg1ZfCiEjm) | [Higher Power](https://open.spotify.com/artist/6yv0Vd63iiAaW4665Cs9vT) | [Absolute Bloom](https://open.spotify.com/album/5b6msyAHAio8tzWXOaYQsW) | 3:25 |
 | 44 | [Joiner](https://open.spotify.com/track/27q2n59NonHyzNMKXzmaFX) | [Blondshell](https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij) | [Blondshell](https://open.spotify.com/album/7rG4h8pLLcr6kW30cbSWD8) | 3:59 |
 | 45 | [This Won't Go Over Well](https://open.spotify.com/track/4WNJmm4Xv8d0ELJgowypjT) | [The Haunt](https://open.spotify.com/artist/45d8YG3R2DApOMnIZuyK8p) | [This Won't Go Over Well](https://open.spotify.com/album/4Nxlb1mo54gPu2bXibj259) | 3:24 |
-| 46 | [Centipede](https://open.spotify.com/track/49xISBZpODXRwd7vVxGL93) | [FIDLAR](https://open.spotify.com/artist/3P6duIn7oHeiBACZfYeNud) | [Centipede](https://open.spotify.com/album/5JeWduRYfv1Sj4Y2Vf9hQj) | 2:37 |
-| 47 | [Lose You \(feat\. Soccer Mommy\)](https://open.spotify.com/track/0KmC4jFH8axcJqKvOTBXeX) | [Bully](https://open.spotify.com/artist/34LdbFt5sVXKTJOzf1iExQ), [Soccer Mommy](https://open.spotify.com/artist/4wXchxfTTggLtzkoUhO86Q) | [Lose You \(feat\. Soccer Mommy\)](https://open.spotify.com/album/5Ctzgdf3fjqxUV8PvrDPHf) | 2:55 |
-| 48 | [Preacher](https://open.spotify.com/track/7E4WyTUxVkEnaBwtD3CSK4) | [Roe Kapara](https://open.spotify.com/artist/2he5ORo9A5pwwRKEa1u0jw) | [Preacher](https://open.spotify.com/album/2meQ9Z51tvss87oWAbj5h3) | 1:45 |
-| 49 | [Lead Pipe](https://open.spotify.com/track/3tKtvdq8ljuxOsXvlhL0sc) | [Movements](https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac) | [Killing Time / Lead Pipe](https://open.spotify.com/album/2Kf6AR80jAmKRoaoTYVbV8) | 2:59 |
-| 50 | [Girl God Gun](https://open.spotify.com/track/2gGwnLDwSxsi0zbkwEKSI6) | [Gen and the Degenerates](https://open.spotify.com/artist/7oEVPoHXaj73ddUCTNlO9E) | [Girl God Gun](https://open.spotify.com/album/2S0R1ILxzniCXfykA0A9BL) | 3:25 |
-| 51 | [Rockstar](https://open.spotify.com/track/0nh29E71VEHJD8HxMyckVf) | [Momma](https://open.spotify.com/artist/5Wj0an60VgRckYV9zlDe1e) | [Household Name](https://open.spotify.com/album/1jjI2c9jxiKdIV46hCH5h2) | 3:09 |
-| 52 | [Don't Hate Me](https://open.spotify.com/track/4ysafP9rgpNQXYddVsepKW) | [Badflower](https://open.spotify.com/artist/3T55D3LMiygE9eSKFpiAye) | [Don't Hate Me](https://open.spotify.com/album/0JzhunpTxPRMXvmQW5ujm4) | 4:11 |
-| 53 | [Real Love](https://open.spotify.com/track/0Xc8rirjqbXSumFOEYesOD) | [Mirrortalk](https://open.spotify.com/artist/3giejwZFf64HWlCCk8jH9D) | [Real Love](https://open.spotify.com/album/7gml6XKp1LJl5slOJKCSFJ) | 3:07 |
+| 46 | [Real Love](https://open.spotify.com/track/0Xc8rirjqbXSumFOEYesOD) | [Mirrortalk](https://open.spotify.com/artist/3giejwZFf64HWlCCk8jH9D) | [Real Love](https://open.spotify.com/album/7gml6XKp1LJl5slOJKCSFJ) | 3:07 |
+| 47 | [Centipede](https://open.spotify.com/track/49xISBZpODXRwd7vVxGL93) | [FIDLAR](https://open.spotify.com/artist/3P6duIn7oHeiBACZfYeNud) | [Centipede](https://open.spotify.com/album/5JeWduRYfv1Sj4Y2Vf9hQj) | 2:37 |
+| 48 | [Lose You \(feat\. Soccer Mommy\)](https://open.spotify.com/track/0KmC4jFH8axcJqKvOTBXeX) | [Bully](https://open.spotify.com/artist/34LdbFt5sVXKTJOzf1iExQ), [Soccer Mommy](https://open.spotify.com/artist/4wXchxfTTggLtzkoUhO86Q) | [Lose You \(feat\. Soccer Mommy\)](https://open.spotify.com/album/5Ctzgdf3fjqxUV8PvrDPHf) | 2:55 |
+| 49 | [Girl God Gun](https://open.spotify.com/track/2gGwnLDwSxsi0zbkwEKSI6) | [Gen and the Degenerates](https://open.spotify.com/artist/7oEVPoHXaj73ddUCTNlO9E) | [Girl God Gun](https://open.spotify.com/album/2S0R1ILxzniCXfykA0A9BL) | 3:25 |
+| 50 | [Preacher](https://open.spotify.com/track/7E4WyTUxVkEnaBwtD3CSK4) | [Roe Kapara](https://open.spotify.com/artist/2he5ORo9A5pwwRKEa1u0jw) | [Preacher](https://open.spotify.com/album/2meQ9Z51tvss87oWAbj5h3) | 1:45 |
+| 51 | [Lead Pipe](https://open.spotify.com/track/3tKtvdq8ljuxOsXvlhL0sc) | [Movements](https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac) | [Killing Time / Lead Pipe](https://open.spotify.com/album/2Kf6AR80jAmKRoaoTYVbV8) | 2:59 |
+| 52 | [Rockstar](https://open.spotify.com/track/0nh29E71VEHJD8HxMyckVf) | [Momma](https://open.spotify.com/artist/5Wj0an60VgRckYV9zlDe1e) | [Household Name](https://open.spotify.com/album/1jjI2c9jxiKdIV46hCH5h2) | 3:09 |
+| 53 | [Don't Hate Me](https://open.spotify.com/track/4ysafP9rgpNQXYddVsepKW) | [Badflower](https://open.spotify.com/artist/3T55D3LMiygE9eSKFpiAye) | [Don't Hate Me](https://open.spotify.com/album/0JzhunpTxPRMXvmQW5ujm4) | 4:11 |
 | 54 | [Fortress](https://open.spotify.com/track/2yQiSbPAwHXCFOoSGkLCzA) | [Modern Color](https://open.spotify.com/artist/6bayHl2VHbIseMg1jby37l) | [Fortress](https://open.spotify.com/album/0qnxV6pF12u35kEVqlujBH) | 3:01 |
 | 55 | [Better Off This Way](https://open.spotify.com/track/4J0J5yU0fmbsOwF1Rophkp) | [Spiritual Cramp](https://open.spotify.com/artist/6cpzd2aRLmkE06P4lFFMlj) | [Spiritual Cramp](https://open.spotify.com/album/3IkNZiLRC15x84CCPL4pIN) | 2:11 |
 | 56 | [delirious](https://open.spotify.com/track/2i6H4Pv8FAGamAIdftleDu) | [swim school](https://open.spotify.com/artist/7hC74DRW4q3obXLB5lTq4F) | [delirious](https://open.spotify.com/album/4L9LiVVUoPfPnrkve1SR3C) | 2:51 |
@@ -69,8 +69,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa6YOhGMjjgx.md) - [plain]
 | 59 | [Sunday](https://open.spotify.com/track/3Xf7P2K1gXivN5KzULbNdU) | [Narrow Head](https://open.spotify.com/artist/4g6ODwOQYRZLsP89kEoBIu) | [Moments of Clarity](https://open.spotify.com/album/2tT3FSTvD9zx1c6QyZcYis) | 3:18 |
 | 60 | [Too Many Things](https://open.spotify.com/track/2SU3rA2M4wgHMzHSHNiXkx) | [The Linda Lindas](https://open.spotify.com/artist/13dTrWNNrnZ3AkgNyQNKP5) | [Too Many Things](https://open.spotify.com/album/1WJrfUrpJYdN009MkXgTWx) | 2:35 |
 | 61 | [Seven White Horses](https://open.spotify.com/track/43yCaDI4VvDPY85pdjInSv) | [Starbenders](https://open.spotify.com/artist/61jrgPBUklDAQV9DptCc8u) | [Take Back The Night](https://open.spotify.com/album/0KO8BT7pSqGZugqBiKwieo) | 3:40 |
-| 62 | [STATUES \(v2\)](https://open.spotify.com/track/1BVW94mJBunuCOgqqmKDqk) | [George Barnett](https://open.spotify.com/artist/40OV4nFVZqdXDjPumwcywN) | [STATUES \(v2\)](https://open.spotify.com/album/2PFd9ISLL104rl7oFJtCsH) | 4:53 |
-| 63 | [Play My Favourite Song](https://open.spotify.com/track/4uBs8miGwBykRYjrbAO5kV) | [Tigercub](https://open.spotify.com/artist/6ekYAO2D1JkI58CF4uRRqw) | [Play My Favourite Song](https://open.spotify.com/album/48kUWLzmZrvwHqYrpOkBat) | 2:35 |
+| 62 | [Play My Favourite Song](https://open.spotify.com/track/4uBs8miGwBykRYjrbAO5kV) | [Tigercub](https://open.spotify.com/artist/6ekYAO2D1JkI58CF4uRRqw) | [Play My Favourite Song](https://open.spotify.com/album/48kUWLzmZrvwHqYrpOkBat) | 2:35 |
+| 63 | [STATUES \(v2\)](https://open.spotify.com/track/1BVW94mJBunuCOgqqmKDqk) | [George Barnett](https://open.spotify.com/artist/40OV4nFVZqdXDjPumwcywN) | [STATUES \(v2\)](https://open.spotify.com/album/2PFd9ISLL104rl7oFJtCsH) | 4:53 |
 | 64 | [What's The Point In Life](https://open.spotify.com/track/0OdMPeOlUMgtCSc5mrqn9T) | [Coach Party](https://open.spotify.com/artist/4trP4C2bZ0TqMUxw0tLRAZ) | [KILLJOY](https://open.spotify.com/album/5Zdlzx59oEEXQk8Kyh6lmN) | 2:18 |
 | 65 | [More Than This](https://open.spotify.com/track/5IvLbjMiltRtWsjgteVyRW) | [The Luka State](https://open.spotify.com/artist/6DaXEbr3LdLNcui8pZf6AF) | [More Than This](https://open.spotify.com/album/0FbO9feyM3p7fIj0sBfZxm) | 3:02 |
 | 66 | [These Days](https://open.spotify.com/track/5klhOR0OgxOLXlwP3JY7xi) | [Mouth Culture](https://open.spotify.com/artist/4Fc4GqcYwYnTePiW3nggrd) | [These Days](https://open.spotify.com/album/65ykYwxWolf3lI0Gua8VRD) | 3:17 |
@@ -102,11 +102,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa6YOhGMjjgx.md) - [plain]
 | 92 | [The Next Curse](https://open.spotify.com/track/2aksJcRQTO5VKqQh1tr3fO) | [Slothrust](https://open.spotify.com/artist/6Nwhmo3adbTqPMCsgBgkf4), [Lzzy Hale](https://open.spotify.com/artist/3Nbau9SoiH72jmJdUTqjOY) | [The Next Curse](https://open.spotify.com/album/3Kv5A9uzCg99sqxtZjwce1) | 4:01 |
 | 93 | [I WANNA DIE BUT I CAN’T \(CUZ I GOTTA KEEP LIVING\)](https://open.spotify.com/track/0OnbiHsuKbbczmvr6p9dHv) | [PRONOUN](https://open.spotify.com/artist/08q2kFjr9p4cJqTGU9xJgg) | [OMG I MADE IT](https://open.spotify.com/album/64gy701OWZ7JiZiuzDVvmp) | 2:50 |
 | 94 | [Pay the Price](https://open.spotify.com/track/2nHMLYKRSpRlVPR75PNZUc) | [Glowing](https://open.spotify.com/artist/0bqQxnj2ZL4M2dZahKDZFm) | [Pay the Price](https://open.spotify.com/album/3Fm8Xv3BLPJ9OgCTwX3kT4) | 3:36 |
-| 95 | [Heroes](https://open.spotify.com/track/1VDCjvlEZMFL45Et4KJrEK) | [Dead Sara](https://open.spotify.com/artist/589tFv4Vf1K27wpf0uWz2j) | [Heroes](https://open.spotify.com/album/2IJKpiAkXohfg7O9RQf1qp) | 3:16 |
-| 96 | [Apologies](https://open.spotify.com/track/5IYHlgFTDYMiXzvYtUxUAK) | [The Hunna](https://open.spotify.com/artist/7jZycSvTyx0W9poD4PjEIG) | [Apologies](https://open.spotify.com/album/1nATWShLPekWv0pH4yKrL6) | 2:53 |
+| 95 | [Apologies](https://open.spotify.com/track/5IYHlgFTDYMiXzvYtUxUAK) | [The Hunna](https://open.spotify.com/artist/7jZycSvTyx0W9poD4PjEIG) | [Apologies](https://open.spotify.com/album/1nATWShLPekWv0pH4yKrL6) | 2:53 |
+| 96 | [Heroes](https://open.spotify.com/track/1VDCjvlEZMFL45Et4KJrEK) | [Dead Sara](https://open.spotify.com/artist/589tFv4Vf1K27wpf0uWz2j) | [Heroes](https://open.spotify.com/album/2IJKpiAkXohfg7O9RQf1qp) | 3:16 |
 | 97 | [Common Chaos](https://open.spotify.com/track/231wGywsY9is10w83qwrwC) | [IRONTOM](https://open.spotify.com/artist/4KY9rCrokaoFzvMfX98u1q) | [Common Chaos](https://open.spotify.com/album/7pzoanQ2Iwvk9FbJcqtKwo) | 2:51 |
 | 98 | [Save Me](https://open.spotify.com/track/0yVDMgFk4GzxDW7d1kuQBm) | [Eliza & The Delusionals](https://open.spotify.com/artist/5XOV5b7cxUgB9PcoLBn69l) | [Now and Then](https://open.spotify.com/album/3CEFLFiJou19gt6VY6o56I) | 3:23 |
 | 99 | [Burning Down a Denny's](https://open.spotify.com/track/6ekiSQMJqi8bEyZmMvpC2R) | [Suntitle](https://open.spotify.com/artist/7zx6ErpT1biAkFwPqGJJXS) | [In A Dream](https://open.spotify.com/album/2GiheTjdh8zSxAWkt28qcT) | 2:58 |
 | 100 | [Eye For An Eye](https://open.spotify.com/track/7HWbp4lGZ3vsG4n0BRWiUt) | [Loose Lips](https://open.spotify.com/artist/0n5RkUf3LWm4kBn5i1OeND) | [Eye For An Eye](https://open.spotify.com/album/3REjMVpoGBmy5bh0cs8bKY) | 3:04 |
 
-Snapshot ID: `MCwyNTc4M2M1NzYwM2FjNTQ2YzE4YjE5ZWRkZDFhODg0OWY3NzQxZWZl`
+Snapshot ID: `MCwwM2Q3OWRmMzFiMjU0NmJhMmJlY2RjOTIyOTE2ZWU1N2I4OGU4NTE5`

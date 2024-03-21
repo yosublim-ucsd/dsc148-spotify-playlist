@@ -1,5 +1,5 @@
 {
-  "2024-03-20": 696566,
+  "2024-03-21": 696567,
   "date_first_scraped": "2022-01-02",
   "description": "welcome to our \ud835\udd9a\ud835\udd93\ud835\udd8e\ud835\udd9b\ud835\udd8a\ud835\udd97\ud835\udd98\ud835\udd8a ft. Banshee",
   "name": "misfits 2.0",
@@ -2365,6 +2365,24 @@
       "duration_ms": 183750,
       "name": "City",
       "url": "https://open.spotify.com/track/4lUWT0HdlZAOmy5fOJoIyO"
+    },
+    {
+      "album": {
+        "name": "City of Angels",
+        "url": "https://open.spotify.com/album/1gkhkwllwZOHYtGKj9T0af"
+      },
+      "artists": [
+        {
+          "name": "DeathbyRomy",
+          "url": "https://open.spotify.com/artist/7aWpPjjgItUnXljFxYYKZI"
+        }
+      ],
+      "date_added": "2024-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132053,
+      "name": "City of Angels",
+      "url": "https://open.spotify.com/track/6FvI7R1y1OX5xjfDc2ed5n"
     },
     {
       "album": {
@@ -8835,7 +8853,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-20",
       "duration_ms": 120000,
       "name": "MILF",
       "url": "https://open.spotify.com/track/4KrukUctcQveDcPFxXvI0M"

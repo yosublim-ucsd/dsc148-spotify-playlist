@@ -4,7 +4,7 @@
 
 > Pass the sticks & press play.
 
-936 songs - 1 day 20 hr 51 min
+937 songs - 1 day 20 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -196,7 +196,7 @@
 | [Crazy](https://open.spotify.com/track/2b1MCbfwRZ1teOX1vSm4Xt) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Crazy](https://open.spotify.com/album/2a8cs4ziDk29KUAdUhHwQB) | 2:14 | 2022-04-08 | 2022-04-16 |
 | [CRAZY GIRL P2 \(feat\. YoungBoy Never Broke Again\)](https://open.spotify.com/track/1MoxBQxwPAiQKlRQ4BV9MB) | [Bktherula](https://open.spotify.com/artist/6OjtkJDlAZzlzAydEn78cK), [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [CRAZY GIRL P2 \(feat\. YoungBoy Never Broke Again\)](https://open.spotify.com/album/0i6aioaKcPI1Nw9Jm3p8Yz) | 3:02 | 2023-08-25 | 2023-09-02 |
 | [Creepers](https://open.spotify.com/track/4bw3e2IYWIoyEvQo7G8DOC) | [SleazyWorld Go](https://open.spotify.com/artist/7FOQfJbC3e4GNoheojERnF) | [Creepers](https://open.spotify.com/album/1MkTOfJ6KeXotp6u2QRqzt) | 1:51 | 2022-10-14 | 2022-12-04 |
-| [CRUEL WORLD](https://open.spotify.com/track/4j5vI66Qz7HU9jumYqggzX) | [$NOT](https://open.spotify.com/artist/5IbEL2xjRtKsunfmsahLuO) | [CRUEL WORLD](https://open.spotify.com/album/3WKwtwwX4Vxd5bh4TjLFeC) | 2:27 | 2023-09-15 |  |
+| [CRUEL WORLD](https://open.spotify.com/track/4j5vI66Qz7HU9jumYqggzX) | [$NOT](https://open.spotify.com/artist/5IbEL2xjRtKsunfmsahLuO) | [CRUEL WORLD](https://open.spotify.com/album/3WKwtwwX4Vxd5bh4TjLFeC) | 2:27 | 2023-09-15 | 2024-03-21 |
 | [CULT](https://open.spotify.com/track/1P5pnfWEcH0qUICxrCF4Kl) | [Van Buren Records](https://open.spotify.com/artist/2T6EOVQ5lAQc64poyLnXmj), [AzizTheShake](https://open.spotify.com/artist/7wSfJLfPWSahg3J5SeVr4z), [Jazz Cartier](https://open.spotify.com/artist/0sc5zYshOdiFD4ayqMrJbJ), [SAINT LYOR](https://open.spotify.com/artist/0pltaFx5l05YFrswlNEafU), [Luke Bar$](https://open.spotify.com/artist/6CGyB4PAg5rEyzeGumZrjr), [Invada](https://open.spotify.com/artist/3FBvF7C8P5IztMR7Mbxc3X), [FELIX!](https://open.spotify.com/artist/1DN9Pgv4fiAaRSSgiisj5G) | [BLACK WALL STREET](https://open.spotify.com/album/0hNK1V7xzigl41liZTk4XU) | 4:40 | 2021-09-03 | 2022-07-29 |
 | [Cupid's Guidance](https://open.spotify.com/track/48k4TP7v4OtZRnblRrIEQT) | [Sleepy Hallow](https://open.spotify.com/artist/6EPlBSH2RSiettczlz7ihV) | [Cupid's Guidance](https://open.spotify.com/album/6HoW3xE09yZYMAt4v9UJD5) | 2:37 | 2024-02-16 |  |
 | [CUT EM IN \(feat\. Rick Ross\)](https://open.spotify.com/track/68wXv4DokvcOVNvuJ7FbWp) | [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [Rick Ross](https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a) | [CUT EM IN \(feat\. Rick Ross\)](https://open.spotify.com/album/6YBA1t4Nsfc0dO2SJBtDtA) | 2:57 | 2022-03-25 | 2022-04-16 |
@@ -664,6 +664,7 @@
 | [Prom Night](https://open.spotify.com/track/7KhJdiu4zbPlhlImRLIyDl) | [Riovaz](https://open.spotify.com/artist/1bhZt10yZVCJfp3HaNxJv8) | [Prom Night](https://open.spotify.com/album/3ft78ZmPZcpVxpgzHTqcNZ) | 2:25 | 2021-09-03 | 2022-03-17 |
 | [Proud Of Me Now](https://open.spotify.com/track/0DNOrkMQjmB0W99PU2LlDe) | [Sheff G](https://open.spotify.com/artist/1tG7s7S4sq2eFFW0QZyLbm) | [Proud Of Me Now](https://open.spotify.com/album/48xbdZgpEOSbBVJRoM1GBG) | 2:03 | 2021-09-03 | 2022-04-18 |
 | [PSYCHO \- from the Crimson Soundtrack](https://open.spotify.com/track/3ab4ZdIP9iklHVvzhxdwcD) | [BEAM](https://open.spotify.com/artist/46MWeeHNVMYRIIofQBEX98) | [PSYCHO \(from the Crimson Soundtrack\)](https://open.spotify.com/album/6cwbmLPyt61PLw5dz8SacS) | 2:27 | 2021-09-03 | 2022-04-17 |
+| [PULL UP GHOST\-CLAN \(feat\. 2 Chainz\)](https://open.spotify.com/track/4iIP8R7F5UUthE6M0JnHFx) | [Chief Keef](https://open.spotify.com/artist/15iVAtD3s3FsQR4w1v6M0P), [Mike WiLL Made\-It](https://open.spotify.com/artist/0NWbwDZY1VkRqFafuQm6wk), [2 Chainz](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp) | [DIRTY NACHOS](https://open.spotify.com/album/6BpbaxnD9tN5sZTmEkmLh3) | 3:03 | 2024-03-15 |  |
 | [Pump Up The Jam](https://open.spotify.com/track/2aUQpQBZF5KjfGHffx2oFo) | [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [Space Jam: A New Legacy \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6OzNQxGDo0AGzQqumG1QXP) | 2:15 | 2021-09-03 | 2022-01-04 |
 | [Punch Bowl \(with Clipse & Nigo\)](https://open.spotify.com/track/1NxZp8uYShqpkxcyaaLUKs) | [Pusha T](https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy), [Clipse](https://open.spotify.com/artist/2J257euzcjnDLipsyJH3F2), [Nigo](https://open.spotify.com/artist/2rAnv6brcXaglLZBB4XXEn) | [I Know NIGO!](https://open.spotify.com/album/75T8WnF5n7fgKJ0EC7WRPS) | 3:01 | 2022-03-25 | 2022-04-21 |
 | [Pup \(feat\. Luh Tyler\)](https://open.spotify.com/track/3vKr18DG46xtZ5FM8R52et) | [DD Osama](https://open.spotify.com/artist/4JpFNbLvh0BGXAubKIthEM), [Luh Tyler](https://open.spotify.com/artist/1K15GRZZATsCJyGJ4bYiEz) | [Pup \(feat\. Luh Tyler\)](https://open.spotify.com/album/2f3LlIcQZR3oXSifiomh3l) | 3:11 | 2023-08-18 | 2023-09-09 |

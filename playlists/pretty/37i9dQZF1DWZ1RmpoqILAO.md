@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ1RmpoqILAO.md) - [plain]
 
 > indie tunes with country experimentation featuring music from Faye Webster 🌟🌟🌟
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,163 likes - 140 songs - 9 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 50,260 likes - 140 songs - 9 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ1RmpoqILAO.md) - [plain]
 | 14 | [Stay](https://open.spotify.com/track/5wTnei9CxGTNVn8vgH1Yhj) | [Sam Evian](https://open.spotify.com/artist/5MXsi1oKkm8LuStuKkMdzu) | [Stay](https://open.spotify.com/album/2cC5M33uZRseQLHhEUK3lW) | 3:17 |
 | 15 | [Time Shrinks](https://open.spotify.com/track/5SDIFVKRHCDEuJGD3TSRwV) | [Arcy Drive](https://open.spotify.com/artist/7o1TBmx7Ube5h2Czlam84O) | [Time Shrinks](https://open.spotify.com/album/70DhLvAJHcpWMoZVWTH1v0) | 3:36 |
 | 16 | [June 9th Nighttime](https://open.spotify.com/track/0NvYcEGXXoLabFZARKmb0U) | [Florist](https://open.spotify.com/artist/0VIiIxTNLeJOPoMLabwNtr) | [Florist](https://open.spotify.com/album/5VAH7pRonDHlMiLLfCGpaK) | 2:54 |
-| 17 | [\(dream\)](https://open.spotify.com/track/39iczvfNkZstM8KY8dNDFC) | [salvia palth](https://open.spotify.com/artist/0pg0Zm8FsGAYy5kdHuBnSo) | [melanchole](https://open.spotify.com/album/23KJrzHF1IBfjzpRgTtaJx) | 1:24 |
+| 17 | [\(dream\)](https://open.spotify.com/track/17YNmMy03QLPirmBzWxFa6) | [salvia palth](https://open.spotify.com/artist/0pg0Zm8FsGAYy5kdHuBnSo) | [melanchole](https://open.spotify.com/album/10WzRaNWnFUQNrW2FpqQSQ) | 1:24 |
 | 18 | [New Song](https://open.spotify.com/track/3PUMPtOSeXSJsBvK43K96b) | [Maggie Rogers](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe), [Del Water Gap](https://open.spotify.com/artist/0xPoVNPnxIIUS1vrxAYV00) | [Notes from the Archive: Recordings 2011\-2016](https://open.spotify.com/album/2li1FMT6riytgLdq4Eu4rb) | 6:22 |
 | 19 | [Pressure To Party](https://open.spotify.com/track/480rD34KfGbMaT0L6zjeIu) | [Julia Jacklin](https://open.spotify.com/artist/12fRkVfO2fUsz1QHgDAG3g) | [Crushing](https://open.spotify.com/album/50G6NiGQgtYNiwNK018q8v) | 3:02 |
 | 20 | [Time Bomb](https://open.spotify.com/track/0OdzC5KFzqugM9XjQF599R) | [Jacklen Ro](https://open.spotify.com/artist/02V9xHLkyNSvfSbJka7HhX) | [Sunshine, I'm Counting on You!](https://open.spotify.com/album/0Flk6B4XLCxviaNVfsTZwO) | 4:15 |
@@ -149,4 +149,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ1RmpoqILAO.md) - [plain]
 | 139 | [Bury The Hatchet \- Radio Edit](https://open.spotify.com/track/731pNkRH6bnlhDGZQLRWJs) | [Mol Sullivan](https://open.spotify.com/artist/3oYFKaeq39nYQsW6z6LX3T) | [Bury The Hatchet \(Radio Edit\)](https://open.spotify.com/album/6nWAsgxghVFT7xXP0EY4aF) | 3:38 |
 | 140 | [Voicemail](https://open.spotify.com/track/1BhIBuQqcc797NM9gwJWwE) | [Bloomsday](https://open.spotify.com/artist/6DhYH5Yx7mZG0qkBmioMbI) | [Place to Land](https://open.spotify.com/album/55pfu2IeDDtlhtKuFl1krR) | 3:11 |
 
-Snapshot ID: `MCxmYzBkNGZkOTljZmI4MjlkMTRkNDUyODEyNzFiZDY3ZDVjNTZmMWQ2`
+Snapshot ID: `MCw3ZWIyOGExN2Y1NDg2YjVhN2ZhMzg0ZThmYzIxZWE0NWI1MmI4NGQw`

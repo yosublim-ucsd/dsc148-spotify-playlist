@@ -4,7 +4,7 @@
 
 > '80s New Wave, New Romantic and Post\-punk.
 
-442 songs - 1 day 7 hr 13 min
+443 songs - 1 day 7 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,7 +54,7 @@
 | [Birthday](https://open.spotify.com/track/5zpRUKG7MSRZvNjr25vJsl) | [The Sugarcubes](https://open.spotify.com/artist/1G0Xwj8mza6b03iYkVdzDP) | [Life's Too Good](https://open.spotify.com/album/1at2GIPfbUeGwewAUQr4lw) | 3:58 | 2018-12-12 | 2022-07-29 |
 | [Birthday](https://open.spotify.com/track/55MEbqyxZphjB0beZ7YT0f) | [The Sugarcubes](https://open.spotify.com/artist/1G0Xwj8mza6b03iYkVdzDP) | [Life's Too Good](https://open.spotify.com/album/0UQGKhImc5hgh2SxYAA3Jp) | 3:59 | 2018-12-12 |  |
 | [Blasphemous Rumours](https://open.spotify.com/track/7oQX82XgUBDhSbpMSksG12) | [Depeche Mode](https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX) | [Some Great Reward \(Deluxe\)](https://open.spotify.com/album/5wfikaEZXnQTXWBZ5osw9A) | 6:21 | 2022-05-27 | 2022-07-29 |
-| [Blasphemous Rumours \- 2006 Remaster](https://open.spotify.com/track/5KjueTOwREhwpEcYrzD0Fz) | [Depeche Mode](https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX) | [Some Great Reward \(2006 Remaster\)](https://open.spotify.com/album/7DbpWj9i5uZ1UggeGRo1LZ) | 6:21 | 2022-05-27 |  |
+| [Blasphemous Rumours \- 2006 Remaster](https://open.spotify.com/track/5KjueTOwREhwpEcYrzD0Fz) | [Depeche Mode](https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX) | [Some Great Reward \(2006 Remaster\)](https://open.spotify.com/album/7DbpWj9i5uZ1UggeGRo1LZ) | 6:21 | 2022-05-27 | 2024-03-21 |
 | [Blister In The Sun](https://open.spotify.com/track/4PXH3g9qGgMqDlC52dJw07) | [Violent Femmes](https://open.spotify.com/artist/0rpMdBzQXf7aYRnu5fDBJy) | [Violent Femmes: Deluxe Edition](https://open.spotify.com/album/645pkwf8FAE9eYY2vx7TiO) | 2:24 | 2018-12-12 | 2022-07-29 |
 | [Blister In The Sun](https://open.spotify.com/track/7jIAttgQTpLDoNtykIQXjH) | [Violent Femmes](https://open.spotify.com/artist/0rpMdBzQXf7aYRnu5fDBJy) | [Violent Femmes](https://open.spotify.com/album/0Ojio25IPzIrw1rUmgrhrG) | 2:25 | 2018-12-12 |  |
 | [Blue Monday '88](https://open.spotify.com/track/31MOjWj3CT3dCQsMV2b8Wu) | [New Order](https://open.spotify.com/artist/0yNLKJebCb8Aueb54LYya3) | [The Best of New Order](https://open.spotify.com/album/6cjugjFHB3T1alJxAffyxQ) | 4:04 | 2018-12-12 | 2022-07-29 |
@@ -167,6 +167,7 @@
 | [I Can't Help Myself](https://open.spotify.com/track/0srHCCkdnVKZARmtmjFHee) | [Orange Juice](https://open.spotify.com/artist/2u7xZP39dtED9EuRX9MUwu) | [Rip It Up](https://open.spotify.com/album/28PDWQ5RXFcoDU5YVr1bzI) | 5:07 | 2018-12-12 | 2022-04-20 |
 | [I Can't Stand Up For Falling Down](https://open.spotify.com/track/2Hd2wSNaIujq6CYVp2wLl6) | [Elvis Costello & The Attractions](https://open.spotify.com/artist/4qmHkMxr6pTWh5Zo74odpH) | [Get Happy](https://open.spotify.com/album/38sLlYZ4sdfm5SvjmshqcY) | 2:06 | 2018-12-12 | 2023-01-22 |
 | [I Can't Stand Up For Falling Down](https://open.spotify.com/track/5h0CMhpV8wmPfcmL3xXRkz) | [Elvis Costello & The Attractions](https://open.spotify.com/artist/4qmHkMxr6pTWh5Zo74odpH) | [Get Happy](https://open.spotify.com/album/3kvYeP5e5CQCHq1oCsQhrY) | 2:06 | 2018-12-12 | 2022-07-28 |
+| [I Melt With You \- Rerecorded](https://open.spotify.com/track/2JkJydLG7jkVnQHkusnoYV) | [Modern English](https://open.spotify.com/artist/0fYPQBOx0vsRMmjUba9HgF) | [Pillow Lips](https://open.spotify.com/album/42RB64zuH7lk1Jivd8MbhL) | 3:55 | 2023-05-03 |  |
 | [I Melt With You \- Rerecorded](https://open.spotify.com/track/78ocJAEFOYKVjYgXZ8fggD) | [Modern English](https://open.spotify.com/artist/0fYPQBOx0vsRMmjUba9HgF) | [Pillow Lips](https://open.spotify.com/album/6u6RKwjKjNbfSBMDgg83sv) | 3:55 | 2018-12-12 | 2024-03-07 |
 | [I Scare Myself](https://open.spotify.com/track/6XhpH1fs9BLFk0IxEGyecw) | [Thomas Dolby](https://open.spotify.com/artist/2Uz58cSxlJgefDaSikxYQ7) | [The Flat Earth](https://open.spotify.com/album/0H5Yo2A9J1cWggemke95Kp) | 5:36 | 2018-12-12 | 2022-11-13 |
 | [I Still Believe \(Great Design\)](https://open.spotify.com/track/6XpG30QPzV1wkuUhUMw64l) | [The Call](https://open.spotify.com/artist/2bSugToVO8DavocRulW3Yj) | [Reconciled](https://open.spotify.com/album/5iyT8seMOtMKkjSRiBa0GJ) | 5:31 | 2018-12-12 | 2022-07-24 |

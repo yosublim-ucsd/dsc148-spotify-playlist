@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXLSRKeL7KwM.md) - [plain]
 
 > Need to get your energy level up? This will help!
 
-[Spotify](https://open.spotify.com/user/spotify) - 396,437 likes - 150 songs - 8 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 396,612 likes - 150 songs - 8 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,9 +25,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXLSRKeL7KwM.md) - [plain]
 | 15 | [Woman You Got](https://open.spotify.com/track/2NNioXX1t4whQsBF8FfExl) | [Maddie & Tae](https://open.spotify.com/artist/34bhyY8jfKez7uKakMfy4y) | [Woman You Got](https://open.spotify.com/album/19GuJrC5nV45shkMHbBEXm) | 2:57 |
 | 16 | [Life is a Highway](https://open.spotify.com/track/2Fs18NaCDuluPG1DHGw1XG) | [Rascal Flatts](https://open.spotify.com/artist/0a1gHP0HAqALbEyxaD5Ngn) | [Me And My Gang](https://open.spotify.com/album/5XPdkIryKSpTKW21HUtvV0) | 4:36 |
 | 17 | [Thinking 'Bout You \(feat\. MacKenzie Porter\)](https://open.spotify.com/track/5eUpUFdFaAeovPau6lQkqK) | [Dustin Lynch](https://open.spotify.com/artist/1dID9zgn0OV0Y8ud7Mh2tS), [MacKenzie Porter](https://open.spotify.com/artist/6nXco5Q3cJJ0ZutnBOsSpq) | [Blue In The Sky](https://open.spotify.com/album/2u0DD4sNHOcgbuJrJyMUu3) | 2:51 |
-| 18 | [Drink In My Hand](https://open.spotify.com/track/1cktZnxiONH0hR6Q3DKy8h) | [Eric Church](https://open.spotify.com/artist/2IvkS5MXK0vPGnwyJsrEyV) | [Chief](https://open.spotify.com/album/5dtw6CoMhbrSj01YUvdQOF) | 3:11 |
+| 18 | [Fancy Like](https://open.spotify.com/track/58UKC45GPNTflCN6nwCUeF) | [Walker Hayes](https://open.spotify.com/artist/7sKxqpSqbIzphAKAhrqvlf) | [Country Stuff The Album](https://open.spotify.com/album/4sShdTo9jO2RGLgDkZBgN8) | 2:41 |
 | 19 | [That's My Kind Of Night](https://open.spotify.com/track/5HGibWoxnkYSkl6mHmAlOE) | [Luke Bryan](https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I) | [Crash My Party](https://open.spotify.com/album/5M8gr5RV2eR6UkztC69ogB) | 3:10 |
-| 20 | [Fancy Like](https://open.spotify.com/track/58UKC45GPNTflCN6nwCUeF) | [Walker Hayes](https://open.spotify.com/artist/7sKxqpSqbIzphAKAhrqvlf) | [Country Stuff The Album](https://open.spotify.com/album/4sShdTo9jO2RGLgDkZBgN8) | 2:41 |
+| 20 | [Drink In My Hand](https://open.spotify.com/track/1cktZnxiONH0hR6Q3DKy8h) | [Eric Church](https://open.spotify.com/artist/2IvkS5MXK0vPGnwyJsrEyV) | [Chief](https://open.spotify.com/album/5dtw6CoMhbrSj01YUvdQOF) | 3:11 |
 | 21 | [Something Like That](https://open.spotify.com/track/6leiB1fEsTnVCuPiielde5) | [Tim McGraw](https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd) | [A Place In The Sun](https://open.spotify.com/album/2EkJjknrgd5DeIH2x9HLjD) | 3:03 |
 | 22 | [Barefoot Blue Jean Night](https://open.spotify.com/track/3ts6xK5GzfMAAriT9AIBmP) | [Jake Owen](https://open.spotify.com/artist/1n2pb9Tsfe4SwAjmUac6YT) | [Barefoot Blue Jean Night](https://open.spotify.com/album/4GeJssW5iLOSLOIXhLfOUJ) | 2:47 |
 | 23 | [It's A Great Day To Be Alive](https://open.spotify.com/track/3oW6SWwGqiZSPTiAp7ZQoH) | [Travis Tritt](https://open.spotify.com/artist/2M4Yt7oKGoYd0wqU44k4i2) | [Down The Road I Go](https://open.spotify.com/album/2ewYJg5AuA9bXWrvOs1mtB) | 4:01 |
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXLSRKeL7KwM.md) - [plain]
 | 35 | [This Is How We Roll](https://open.spotify.com/track/2TR7A4ulH9R1PNwMyd8o8U) | [Florida Georgia Line](https://open.spotify.com/artist/3b8QkneNDz4JHKKKlLgYZg), [Luke Bryan](https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I) | [Here's To The Good Times...This Is How We Roll](https://open.spotify.com/album/0uqAyKT7oMZDFMyteJOJWI) | 3:40 |
 | 36 | [Drunk On A Plane](https://open.spotify.com/track/1soxUgYIZb1qx1c7o1Lc7z) | [Dierks Bentley](https://open.spotify.com/artist/7x8nK0m0cP2ksQf0mjWdPS) | [RISER](https://open.spotify.com/album/5FoxaIGIRuXsbhZhwdfknU) | 4:14 |
 | 37 | [Somebody Like You](https://open.spotify.com/track/0b9djfiuDIMw1zKH6gV74g) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [Golden Road](https://open.spotify.com/album/1O87Gkgvc6QR1JRpMkgnE7) | 5:23 |
-| 38 | [How Country Feels](https://open.spotify.com/track/26t3KexbqzF3sRWgczYyja) | [Randy Houser](https://open.spotify.com/artist/56x8mYvS3cyDGAi8N2FxbB) | [How Country Feels](https://open.spotify.com/album/6p9LqWLWDOuW2WiUt9YKUZ) | 3:05 |
-| 39 | [Take It From Me](https://open.spotify.com/track/3dCZm5HrG0jIXAHfNkg2H0) | [Jordan Davis](https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI) | [Home State](https://open.spotify.com/album/3CXa4AY5Rt4kymz1vW90WR) | 2:54 |
+| 38 | [Take It From Me](https://open.spotify.com/track/3dCZm5HrG0jIXAHfNkg2H0) | [Jordan Davis](https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI) | [Home State](https://open.spotify.com/album/3CXa4AY5Rt4kymz1vW90WR) | 2:54 |
+| 39 | [How Country Feels](https://open.spotify.com/track/26t3KexbqzF3sRWgczYyja) | [Randy Houser](https://open.spotify.com/artist/56x8mYvS3cyDGAi8N2FxbB) | [How Country Feels](https://open.spotify.com/album/6p9LqWLWDOuW2WiUt9YKUZ) | 3:05 |
 | 40 | [Mama's Broken Heart](https://open.spotify.com/track/2mXsZsJBThTaJXbNcg5QD4) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [Four The Record](https://open.spotify.com/album/1Pv6Znx8kGygusP4fqBD7m) | 2:57 |
 | 41 | [May We All](https://open.spotify.com/track/498ZVInMGDkmmNVpSWqHiZ) | [Florida Georgia Line](https://open.spotify.com/artist/3b8QkneNDz4JHKKKlLgYZg), [Tim McGraw](https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd) | [Dig Your Roots](https://open.spotify.com/album/09KOjaflTBRE28GVvXqkYC) | 3:46 |
 | 42 | [My Maria](https://open.spotify.com/track/09qzRI951OVkXGCc33gzcT) | [Brooks & Dunn](https://open.spotify.com/artist/0XKOBt59crntr7HQXXO8Yz) | [\#1s ..\. and then some](https://open.spotify.com/album/1ZXM9jY3Bsg12KXgwftBrO) | 3:28 |
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXLSRKeL7KwM.md) - [plain]
 | 149 | [Good Life](https://open.spotify.com/track/2jxr70XvPQvuEwVkbbZ0Vw) | [Kip Moore](https://open.spotify.com/artist/2hJPr4lk7Q8SSvCVBl9fWM) | [Good Life](https://open.spotify.com/album/1QqvFO7qZxgBnEYoc8r0tN) | 3:11 |
 | 150 | [Home Sweet \(feat\. Lady A\)](https://open.spotify.com/track/68GQ3ZhlzqDNvzq20bdg1o) | [Russell Dickerson](https://open.spotify.com/artist/1E2AEtxaFaJtH0lO7kgNKw), [Lady A](https://open.spotify.com/artist/32WkQRZEVKSzVAAYqukAEA) | [Home Sweet \(feat\. Lady A\)](https://open.spotify.com/album/30ULuUPigC0c89kztNco5s) | 3:25 |
 
-Snapshot ID: `MCwwYmQ2YjYyYjliYjkwZmRhNDdkOGU4ZWU0NzViZTYzYzMxNDJhOWVj`
+Snapshot ID: `MCw4ODg0Zjc1ZjBmNTM5ZDM3ZmIwN2ViZDllM2JhMGNjNDM4NTg4YWJk`

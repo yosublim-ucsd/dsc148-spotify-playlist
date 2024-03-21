@@ -1,12 +1,12 @@
 {
   "description": "De mooiste muziek: Americana | Country",
-  "num_followers": 7018,
+  "num_followers": 7028,
   "original_name": "Route Americana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiMTljYjM4ZTdjZWY2OTI1MzEwOTcxNjc1NGJkMDQ2ZTk1NDQ3MGVk",
+  "snapshot_id": "MCxhNzA0MDZmY2JkZDlhNWNhODNmODQzNTQzMmY1MzA0MzQyOWJjYTVh",
   "tracks": [
     {
       "added_at": "2024-03-07 23:00:00",
@@ -495,6 +495,22 @@
     {
       "added_at": "2024-03-07 23:00:00",
       "album": {
+        "name": "A Beautiful Time",
+        "url": "https://open.spotify.com/album/7oPKRoThZFX1xQ7X05cfFG"
+      },
+      "artists": [
+        {
+          "name": "Willie Nelson",
+          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
+        }
+      ],
+      "duration_ms": 299306,
+      "name": "Tower Of Song",
+      "url": "https://open.spotify.com/track/2HHXqnrD7PaUIUSj9lz3xK"
+    },
+    {
+      "added_at": "2024-03-07 23:00:00",
+      "album": {
         "name": "Gold Dust Woman",
         "url": "https://open.spotify.com/album/1jvxRIDR1nCdEw13R9Pv0S"
       },
@@ -515,22 +531,6 @@
       "duration_ms": 180466,
       "name": "Gold Dust Woman",
       "url": "https://open.spotify.com/track/1FH9iCgUtZXnwodYzahivh"
-    },
-    {
-      "added_at": "2024-03-07 23:00:00",
-      "album": {
-        "name": "A Beautiful Time",
-        "url": "https://open.spotify.com/album/7oPKRoThZFX1xQ7X05cfFG"
-      },
-      "artists": [
-        {
-          "name": "Willie Nelson",
-          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
-        }
-      ],
-      "duration_ms": 299306,
-      "name": "Tower Of Song",
-      "url": "https://open.spotify.com/track/2HHXqnrD7PaUIUSj9lz3xK"
     },
     {
       "added_at": "2024-03-07 23:00:00",

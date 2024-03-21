@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7aUUBCKwo4Y.md) - [plain]
 
 > Country music's 50 most played songs in the world\. Updated weekly\. Cover: Morgan Wallen
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,264,704 likes - 50 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,266,410 likes - 50 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7aUUBCKwo4Y.md) - [plain]
 | 36 | [Wagon Wheel](https://open.spotify.com/track/3xdjjKMcMOFgo1eQrfbogM) | [Darius Rucker](https://open.spotify.com/artist/7FY5V3XMwlNBPitEjXowHQ) | [True Believers](https://open.spotify.com/album/6cowf7fdb5dgKoglTekOK8) | 4:58 |
 | 37 | [Night Shift](https://open.spotify.com/track/0bPnT6i9H1p8Vd85GS6Z7I) | [Jon Pardi](https://open.spotify.com/artist/4MoAOfV4ROWofLG3a3hhBN) | [California Sunrise](https://open.spotify.com/album/1DTBcVfk3zXPHRmgpY6rFZ) | 2:52 |
 | 38 | [23](https://open.spotify.com/track/1ZpPaBDswjV3VSUKqLDXPE) | [Chayce Beckham](https://open.spotify.com/artist/5ujvZU2thXjZgFKPUt1rDt) | [23](https://open.spotify.com/album/2LTt0pFwjPS5Zdc7tlmwyl) | 3:48 |
-| 39 | [Deeper Well](https://open.spotify.com/track/2lJn77IeZAP9cmv6DPXOrL) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Deeper Well](https://open.spotify.com/album/2NXiMKrwmPrqU8epp20pW8) | 3:52 |
+| 39 | [Deeper Well](https://open.spotify.com/track/333XFHKsHU0pOocFzBgrJi) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Deeper Well](https://open.spotify.com/album/5SxZmGwc4eJuPp6PcO4JgJ) | 3:52 |
 | 40 | [All Your'n](https://open.spotify.com/track/0fCwTrRNfoNk962ati8n2K) | [Tyler Childers](https://open.spotify.com/artist/13ZEDW6vyBF12HYcZRr4EV) | [Country Squire](https://open.spotify.com/album/2T9P5dSm786uuxA5tkI1Xb) | 3:38 |
 | 41 | [This Town's Been Too Good To Us](https://open.spotify.com/track/6vsa5VDsIaWC8oJnowU65l) | [Dylan Scott](https://open.spotify.com/artist/78YqeIji3mgAS2K1Maca6x) | [This Town's Been Too Good To Us](https://open.spotify.com/album/1QVjRGmRPZIbdlL22aUmol) | 3:11 |
 | 42 | [Straight and Narrow](https://open.spotify.com/track/3fonAuTvuI5KMcmnueLAPq) | [Sam Barber](https://open.spotify.com/artist/08GfvCW09pv2QP4y9sle2a) | [Million Eyes](https://open.spotify.com/album/5jrPhnzA00KBWc3bJJUqTY) | 3:19 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7aUUBCKwo4Y.md) - [plain]
 | 49 | [Save Me \(with Lainey Wilson\)](https://open.spotify.com/track/30LZU3ReFIndjHLfaahreM) | [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Whitsitt Chapel](https://open.spotify.com/album/2v1Lb9hidHkvvlIXYzSmeZ) | 3:57 |
 | 50 | [No Caller ID](https://open.spotify.com/track/2uHgCkaiHwZKl7tDBTVsyW) | [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0) | [No Caller ID](https://open.spotify.com/album/5plO8l5Kz0QC3fOGdHDzrW) | 3:28 |
 
-Snapshot ID: `MCw1ODA4ZTdjM2YyYTQwNDg2OTI0NDBhZjBmNjg0ZTRhMzQ3NGZiNzk5`
+Snapshot ID: `MCw3M2QwODU3YjBkNTc2OGExOWFkY2E0NmY4MGQwM2VmNDExOWUzYWYw`

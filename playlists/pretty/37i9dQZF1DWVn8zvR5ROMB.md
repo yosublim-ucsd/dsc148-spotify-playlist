@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 
 > All of the newest country music releases in one playlist! Featuring ERNEST and Jelly Roll, Kacey Musgraves, Kenny Chesney and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 252,739 likes - 76 songs - 4 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 252,951 likes - 76 songs - 4 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 | 3 | [Wherever You Are Tonight](https://open.spotify.com/track/70juclk41FqNPr4kjgeNLL) | [Kenny Chesney](https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O) | [Wherever You Are Tonight](https://open.spotify.com/album/6sBYNzq6n2dA5SKkgm0yA2) | 4:09 |
 | 4 | [Vegas](https://open.spotify.com/track/393ebh7Tq3q45yH68lxuyH) | [Tyler Hubbard](https://open.spotify.com/artist/3BEV5FcxOtkQJ7lLRKMh3V) | [Vegas](https://open.spotify.com/album/4AVMZ91ayoRmwH9NcJEFkh) | 3:02 |
 | 5 | [Way Out Here](https://open.spotify.com/track/08MvBKdeKFvWwiE5fTagkU) | [Riley Green](https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb) | [Way Out Here](https://open.spotify.com/album/31sj5KDqCjfBymlJxgtbDO) | 3:41 |
-| 6 | [Keepin' the Lights On](https://open.spotify.com/track/7oVfdrMlhiTtWPmXoZggVw) | [Kameron Marlowe](https://open.spotify.com/artist/31n3CN1jSC5ALUJ9dwT8UI) | [Keepin' the Lights On](https://open.spotify.com/album/2zW8PyKdw9S5yWVPRYsClk) | 3:55 |
+| 6 | [Keepin' The Lights On](https://open.spotify.com/track/7oVfdrMlhiTtWPmXoZggVw) | [Kameron Marlowe](https://open.spotify.com/artist/31n3CN1jSC5ALUJ9dwT8UI) | [Keepin' The Lights On](https://open.spotify.com/album/2zW8PyKdw9S5yWVPRYsClk) | 3:55 |
 | 7 | [Bat Outta Hell \- With a Boat on the Back](https://open.spotify.com/track/1lAMQ8VFcCUhnd8VtL2G9p) | [Dylan Marlowe](https://open.spotify.com/artist/0ZZLr8EH3aNFzYpXtaTIax) | [Bat Outta Hell \(With a Boat on the Back\)](https://open.spotify.com/album/6cQR5LHCrdFmjkxuUkrtQT) | 3:37 |
 | 8 | [Thing That Brought Me Here \- Truck Song](https://open.spotify.com/track/1F07B71VUvC24wssm7fD7K) | [Tenille Townes](https://open.spotify.com/artist/3TyeX0lk4B7k56ukfzEE0z) | [Thing That Brought Me Here \(Truck Song\)](https://open.spotify.com/album/4UXNmBNlfYeG1ZtByhi4Em) | 3:49 |
 | 9 | [Wilted Rose \(feat\. Lainey Wilson\)](https://open.spotify.com/track/0JedqBjEii51nak0kCLiVo) | [The Black Crowes](https://open.spotify.com/artist/5krkohEVJYw0qoB5VWwxaC), [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Happiness Bastards](https://open.spotify.com/album/2P9mQHy3lFG8OhPKqg3XeX) | 5:06 |
@@ -85,4 +85,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 | 75 | [By Heart](https://open.spotify.com/track/1fgZpbJqckVxYDGEYfhLlj) | [Jordan James](https://open.spotify.com/artist/0qyWIv7Hdewfhqc1ozedrh) | [By Heart](https://open.spotify.com/album/4pAZIfz8RX07s3qLEj3ckr) | 2:30 |
 | 76 | [Back When](https://open.spotify.com/track/7kkpeq1dLp13HE7tcurmK0) | [Adam Warner](https://open.spotify.com/artist/7GeWZ4fFWxsApoLFcFC5zK) | [Back When](https://open.spotify.com/album/41sEUM9EfzxhiCNLDiCGNz) | 2:43 |
 
-Snapshot ID: `MCxjMzk2NzQwODQ5MDllOTUzMWFjYzAwZmU5YzZlNjYyNTI5Zjg1ZjUx`
+Snapshot ID: `MCxkMGUzMTdjMDQ2ZThmYzlhOGVjNmQ4MzIxZWE4OWJiMTAzOTVhZjcy`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSgTTUXeVFiG.md) - [plain]
 
 > Los éxitos de siempre en concierto\. Foto: Celia Cruz
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,351 likes - 50 songs - 5 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,408 likes - 50 songs - 5 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSgTTUXeVFiG.md) - [plain]
 | 34 | [Señora Ley \(En Vivo\)](https://open.spotify.com/track/0vB3uI6JFXYT6Vq2HRZ4b4) | [Conjunto Clásico](https://open.spotify.com/artist/2T1yhT2K3iSI8vwAdOS9O0) | [Ray Castro Presenta...20 Super Exitos Del Conjunto Clasico Con Tito Nieves](https://open.spotify.com/album/77g1XIygGh7vez8lkOKaLL) | 5:12 |
 | 35 | [Descarga Fania \- Live](https://open.spotify.com/track/1WeyEbCQgbh2YZkDKx6Uud) | [Fania All Stars](https://open.spotify.com/artist/1OdyhpUABf8avaZ9r8nI1u), [Adalberto Santiago](https://open.spotify.com/artist/6tZxUxheS7w3953cQFOXkd) | [Live At The Cheetah, Vol\. 1](https://open.spotify.com/album/1XfrZU7zjQT9obvRbk1x0e) | 9:17 |
 | 36 | [No Podrás Escapar de Mí \- En Vivo](https://open.spotify.com/track/7HJL1P3DPHYYtR0wI7X2BK) | [Willie Gonzalez](https://open.spotify.com/artist/2EIZodXJHserIu4pGNfD3Z) | [Lo Nuevo Y Lo Mejor \(En Vivo\)](https://open.spotify.com/album/7iHGyYhoSAKDQG9UA2HsHy) | 6:04 |
-| 37 | [Probablemente \- Live](https://open.spotify.com/track/3uaiF0P7A9yo7aMsrE7Xlw) | [Daniela Darcourt](https://open.spotify.com/artist/4exGY59juoSimpcH1NiuaR) | [El Reencuentro \(Live In Lima\) \- Vol\. 2](https://open.spotify.com/album/5mGJ0vT7EfK2MXLkuLSQP6) | 5:24 |
-| 38 | [Tengo Ganas \- Live Carnegie Version](https://open.spotify.com/track/0dfKQSS9o3pfSducqHXaCy) | [Víctor Manuelle](https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2) | [Victor Manuelle Desde El Carnegie Hall](https://open.spotify.com/album/4Cod19wOYqojpBfb6G8pdE) | 6:46 |
+| 37 | [Tengo Ganas \- Live Carnegie Version](https://open.spotify.com/track/0dfKQSS9o3pfSducqHXaCy) | [Víctor Manuelle](https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2) | [Victor Manuelle Desde El Carnegie Hall](https://open.spotify.com/album/4Cod19wOYqojpBfb6G8pdE) | 6:46 |
+| 38 | [Probablemente \- Live](https://open.spotify.com/track/3uaiF0P7A9yo7aMsrE7Xlw) | [Daniela Darcourt](https://open.spotify.com/artist/4exGY59juoSimpcH1NiuaR) | [El Reencuentro \(Live In Lima\) \- Vol\. 2](https://open.spotify.com/album/5mGJ0vT7EfK2MXLkuLSQP6) | 5:24 |
 | 39 | [Periódico De Ayer \- Live](https://open.spotify.com/track/7BkcskeOLGTge1UAVLV5Ni) | [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP) | [Live](https://open.spotify.com/album/2kIKvvOkkLqfGUyAaiU3rQ) | 8:03 |
 | 40 | [Sobredosis](https://open.spotify.com/track/6QXwI145iRvgoG5u5zCAYR) | [Alberto Barros Y Los Titanez De La Salsa](https://open.spotify.com/artist/0ui6KKqjRG1xXFmthT7Jjx) | [En Vivo](https://open.spotify.com/album/3HfRIah0RtbfEDaj0BM819) | 4:40 |
 | 41 | [Viajera](https://open.spotify.com/track/5sGcHVN7zuehqXAcNHe4Ek) | [Tommy Olivencia](https://open.spotify.com/artist/38fLjRT1W1x3RR6SWWxL0x) | [Va por Ti, Frankie \(Concierto Homenaje a Frankie Ruiz\)](https://open.spotify.com/album/3NpPEaMbkXan11KO2FB43Q) | 5:11 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSgTTUXeVFiG.md) - [plain]
 | 49 | [El Cantante \- Live](https://open.spotify.com/track/1xKIjS9jwPmMBCa40RvoS1) | [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP) | [Live](https://open.spotify.com/album/2kIKvvOkkLqfGUyAaiU3rQ) | 2:57 |
 | 50 | [Nuestro Sueño \- En Vivo](https://open.spotify.com/track/0nrOLAiz0CCyqr3PZaT0Zw) | [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8) | [Grupo Niche \(En Vivo\)](https://open.spotify.com/album/4lrQEwqs459PbxfQGp11H3) | 5:35 |
 
-Snapshot ID: `MCw1NGQ5MjIzZTgzNmM1YWFmMmFkZmU1ZTEzZjA4MzkzMjQyNmVlYWY1`
+Snapshot ID: `MCw1YjkzZDc0ZDkxZmY1NTA0NzRlYjM0NThiZDk5ZTA0YTEyOGJjYWVi`

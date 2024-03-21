@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUPRADzDnbMq.md) - [plain]
 
 > Chill, beachy tunes to soundtrack your summer.
 
-[Spotify](https://open.spotify.com/user/spotify) - 91,767 likes - 90 songs - 5 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 91,841 likes - 90 songs - 5 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUPRADzDnbMq.md) - [plain]
 | 33 | [Where the Wild Things Are](https://open.spotify.com/track/0eBFgRxyVSeuT4iyrbukdn) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [Gettin' Old](https://open.spotify.com/album/5Uly85dJHHDfHQCsyUQ8gw) | 3:59 |
 | 34 | [Coconut Tree \(with Willie Nelson\)](https://open.spotify.com/track/3UJZ4VcHfSWyrMky8vobzv) | [Kenny Chesney](https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O), [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [Life on a Rock](https://open.spotify.com/album/52WqC6vXDQ9anMNugsUCeO) | 3:24 |
 | 35 | [Tequila Does](https://open.spotify.com/track/2fmHMSaIadDzLPT4Im3Mze) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [Wildcard](https://open.spotify.com/album/5Or2XM0Gjy6Y8qlaERqsSn) | 4:01 |
-| 36 | [Deeper Well](https://open.spotify.com/track/2lJn77IeZAP9cmv6DPXOrL) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Deeper Well](https://open.spotify.com/album/2NXiMKrwmPrqU8epp20pW8) | 3:52 |
+| 36 | [Deeper Well](https://open.spotify.com/track/333XFHKsHU0pOocFzBgrJi) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Deeper Well](https://open.spotify.com/album/5SxZmGwc4eJuPp6PcO4JgJ) | 3:52 |
 | 37 | [Wagon Wheel](https://open.spotify.com/track/2XgGdD5d2MW4RNx8KnIjVh) | [Old Crow Medicine Show](https://open.spotify.com/artist/4DBi4EYXgiqbkxvWUXUzMi) | [O.C.M.S.](https://open.spotify.com/album/71oM4BPgOOgdwTYJeUPush) | 3:52 |
 | 38 | [Mimosas](https://open.spotify.com/track/4qK2dwwOMhM5glUsgk9BwJ) | [Parmalee](https://open.spotify.com/artist/4TshyQDihSYXSWqvclXl3I) | [27861](https://open.spotify.com/album/6v0nKIJz5dP5iZWGClu2JH) | 3:03 |
 | 39 | [See You Next Summer](https://open.spotify.com/track/7Ez0QMtgIQ60BOHGHh3yPc) | [Brian Kelley](https://open.spotify.com/artist/46c50yWMo9wiTgVe1VxBbQ) | [See You Next Summer](https://open.spotify.com/album/5HiDygOM1Jx8Crkko9AV1y) | 2:37 |
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUPRADzDnbMq.md) - [plain]
 | 89 | [Waves](https://open.spotify.com/track/1q3bxSdQF660hnNnNVtYwP) | [Phil Vassar](https://open.spotify.com/artist/1XhhO2dTs2fKyhILj0aam6) | [American Soul Summer \(Deluxe Edition\)](https://open.spotify.com/album/06PwRq6kGK8gE8mbu7yb6O) | 3:26 |
 | 90 | [Gettin' Down in a Pirate Town](https://open.spotify.com/track/0HbInFeaBStCiH4BJc6o1q) | [Jesse Rice](https://open.spotify.com/artist/053e8lWzA8BFhruid11TKQ) | [The Pirate Sessions](https://open.spotify.com/album/3AD64aLvBqR67GUefFM9Wj) | 4:16 |
 
-Snapshot ID: `MCw4NGNiNDc2NWNmMTU1MTk1ZTI5NWNkNGUzMTZlM2VmNzI2NDhkNWJj`
+Snapshot ID: `MCwwOWVjODUyOTNiYjUzMThiZGRlNDU2MWVjYzQ0NTk4YTQ0MzhhY2Nl`

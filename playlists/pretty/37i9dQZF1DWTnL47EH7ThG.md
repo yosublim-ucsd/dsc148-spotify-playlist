@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTnL47EH7ThG.md) - [plain]
 
 > <a href="spotify:artist:6kf69CwzgodrETRgzcjX95">BAMBII</a>'s favorite tracks\. Updated regularly\. Curated by BAMBII\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,366 likes - 148 songs - 7 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,394 likes - 148 songs - 7 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -157,4 +157,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTnL47EH7ThG.md) - [plain]
 | 147 | [Play 2](https://open.spotify.com/track/4hjub46q0t82qgGUfLORcv) | [Rasharn Powell](https://open.spotify.com/artist/0nfrbmmHxz4F91hpj1zUDw), [Ojerime](https://open.spotify.com/artist/2kVmW0EZG23dqsqeRZ4Jg0) | [Play 2](https://open.spotify.com/album/3R3kYSDDjnCsgrMUEdQ3nE) | 3:12 |
 | 148 | [Grimey](https://open.spotify.com/track/4IxNLYzo3NmUA8icBU7XVW) | [Skillibeng](https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst) | [Grimey](https://open.spotify.com/album/6DpgnIgmldVhAWSD7IGQWR) | 2:46 |
 
-Snapshot ID: `MCxkZGMwZjViYmFhMjllZWQ5ZWQ0ZTAzYjY4NTA1MGM4YWFkYmQxZTgy`
+Snapshot ID: `MCw2YTg2NGMzN2IzNTE5MDA1NTRkMWZjOWQ5N2ViNGFiNGJlNTAwODFk`

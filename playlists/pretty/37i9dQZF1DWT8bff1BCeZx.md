@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8bff1BCeZx.md) - [plain]
 
 > African Praise music taking you all the way up!
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,055 likes - 50 songs - 3 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,091 likes - 50 songs - 3 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,9 +35,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8bff1BCeZx.md) - [plain]
 | 25 | [Bigger Everyday](https://open.spotify.com/track/4VGnb9i2pDrPhppHLmfVHb) | [Moses Bliss](https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM), [Festizie](https://open.spotify.com/artist/2uimm8D8LQw4mlFRGWPLQu), [The membrane](https://open.spotify.com/artist/0XaFHkogeaW0EN4jeO0qI5), [Uwa](https://open.spotify.com/artist/3PhBxIUdrJCXeEprUL5pkV), [Chris Heaven](https://open.spotify.com/artist/0wWIHR4oX0miVq88XpVoYZ), [Temple](https://open.spotify.com/artist/6qicD8blmXzFzYEgGYfYfa) | [Too Faithful](https://open.spotify.com/album/1ELb6tHupgVxBvvSURINnN) | 6:12 |
 | 26 | [Over](https://open.spotify.com/track/5w53DU4ZVdIn5J7iHP18gT) | [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT), [Elle Limebear](https://open.spotify.com/artist/7MCV4p3QmcYDMTfiE0ZWMD) | [Over](https://open.spotify.com/album/3pea7BAnzcaMlscFEhMfRD) | 2:48 |
 | 27 | [Kaabo](https://open.spotify.com/track/5RrEkgXlClry1Wln0LTpIa) | [Dunsin Oyekan](https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM) | [The Glory Experience \(Songs of Zion\)](https://open.spotify.com/album/5CekMpHMo17ilQctFxI6TT) | 9:37 |
-| 28 | [Altar \(Hosanna\)](https://open.spotify.com/track/3q3ItcIZzhzCSmKIvWhfWU) | [Oba Reengy](https://open.spotify.com/artist/2p8Rrwmp4CLigLFsClVDVC), [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT), [Gaise Baba](https://open.spotify.com/artist/5pFY8yo0PDefGs7laYnNwo) | [Altar \(Hosanna\)](https://open.spotify.com/album/1sJoz2kILCHl7n6wn351ko) | 2:52 |
-| 29 | [Blast \- tongues](https://open.spotify.com/track/1ePjErlDfOTAvsfdOCzsHa) | [Prinx Emmanuel](https://open.spotify.com/artist/4HzpHfHz3EznjI4icnTvRz) | [Blast \(tongues\)](https://open.spotify.com/album/1V35wxdkxrywDkMf8wMEp8) | 3:24 |
-| 30 | [Greatest](https://open.spotify.com/track/4RGma6BvBMPUlES6oAVubZ) | [CalledOut Music](https://open.spotify.com/artist/3VY7IlU2547DIC1ca88lRH) | [RADICAL](https://open.spotify.com/album/1Wo57u7paNfHF6mFD0W2wE) | 3:08 |
+| 28 | [Greatest](https://open.spotify.com/track/4RGma6BvBMPUlES6oAVubZ) | [CalledOut Music](https://open.spotify.com/artist/3VY7IlU2547DIC1ca88lRH) | [RADICAL](https://open.spotify.com/album/1Wo57u7paNfHF6mFD0W2wE) | 3:08 |
+| 29 | [Altar \(Hosanna\)](https://open.spotify.com/track/3q3ItcIZzhzCSmKIvWhfWU) | [Oba Reengy](https://open.spotify.com/artist/2p8Rrwmp4CLigLFsClVDVC), [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT), [Gaise Baba](https://open.spotify.com/artist/5pFY8yo0PDefGs7laYnNwo) | [Altar \(Hosanna\)](https://open.spotify.com/album/1sJoz2kILCHl7n6wn351ko) | 2:52 |
+| 30 | [Blast \- tongues](https://open.spotify.com/track/1ePjErlDfOTAvsfdOCzsHa) | [Prinx Emmanuel](https://open.spotify.com/artist/4HzpHfHz3EznjI4icnTvRz) | [Blast \(tongues\)](https://open.spotify.com/album/1V35wxdkxrywDkMf8wMEp8) | 3:24 |
 | 31 | [Na You Dey Reign](https://open.spotify.com/track/66KhGOqJXHLZQCmfWKMdqC) | [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [SATISFIED](https://open.spotify.com/album/3CZq06hpGQ6cIUIUnPHhaU) | 4:27 |
 | 32 | [My Matter](https://open.spotify.com/track/14yL1XMDM7d7VTsIqB0TFf) | [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT), [Victor Thompson](https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas), [Becca Folkes](https://open.spotify.com/artist/6gNm3KPTOr2uiejwae6rHb) | [My Matter](https://open.spotify.com/album/3yADLSdEDyjsn8ncyIJnaF) | 2:53 |
 | 33 | [Daddy Wey Dey Pamper \- Gbedu Version](https://open.spotify.com/track/1TL5gkcrDrX5sOdNOzmCQ6) | [Moses Bliss](https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM), [Prinx Emmanuel](https://open.spotify.com/artist/4HzpHfHz3EznjI4icnTvRz), [Greatman Takit](https://open.spotify.com/artist/47oK1JYR8A9TABs010suzH) | [Daddy Wey Dey Pamper \(Gbedu Version\)](https://open.spotify.com/album/2vFfnAxG1DEPzxRxakdE5r) | 3:28 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8bff1BCeZx.md) - [plain]
 | 49 | [Yeshua \(Extended\)](https://open.spotify.com/track/67LzBqIKu1rHsT98euxpa7) | [Holy drill](https://open.spotify.com/artist/3SN6XTw03dI5Cn49oeqz6j), [Nikki Laoye](https://open.spotify.com/artist/7lVBawhz0dr9UnFokEvtrP), [Sonny Green](https://open.spotify.com/artist/0JyaUTiOWDW0vjHUXfgrDx) | [Yeshua \(Extended\)](https://open.spotify.com/album/4FxYm4ZXW4qxhiDmADoU8H) | 2:36 |
 | 50 | [Hosanna](https://open.spotify.com/track/0H1Jd2NNq80u7xF7FzyJtn) | [KODA](https://open.spotify.com/artist/5nCnnoitr6BO4g5sEIEDkB) | [Hosanna](https://open.spotify.com/album/64p2ahUYDuum6CrFPSlmnV) | 5:21 |
 
-Snapshot ID: `MCw1M2RiYzdjNDljN2QzNTk3M2YwNDRkZDgxZDc3Y2VlOTZiZmQ0M2Q3`
+Snapshot ID: `MCw1MjRiMzkzMGJmODVmYzRmZjQ4NTk1MGYzNjhlNGUyY2YwMGVlYjJj`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0pBYcA3qddJ.md) - [plain]
 
 > 夜になる一歩手前の時刻に一瞬でもリラックスできるような、音響系オルタナティブとクラシックミュージックを。
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,707 likes - 100 songs - 6 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,730 likes - 100 songs - 6 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,8 +61,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0pBYcA3qddJ.md) - [plain]
 | 51 | [Memory Sketches](https://open.spotify.com/track/5JQMan7GM7qVZDlIqsVcgc) | [yanaco](https://open.spotify.com/artist/2uRX0L8p4Mdh293wJ7U8dq) | [Memory Sketches](https://open.spotify.com/album/5la7iDphAuUuUjv8TSeKd3) | 3:58 |
 | 52 | [A Love International](https://open.spotify.com/track/6Am9eCuCQELrIqImfCLhgM) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk) | [A Love International](https://open.spotify.com/album/3PKIvfo8AFCJr9dhUiKQf9) | 4:15 |
 | 53 | [where everything flows](https://open.spotify.com/track/538R9PAQnL8X0HYXI5qkwL) | [soma](https://open.spotify.com/artist/6dNAZOcDVPSzljRFMIwwE0) | [where everything flows](https://open.spotify.com/album/5yRbFKcUudsp4arLIbwlfP) | 2:48 |
-| 54 | [Out Loud](https://open.spotify.com/track/6Yx5Cw2mVmx6LiVP2VXWEO) | [Cage The Elephant](https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3) | [Out Loud](https://open.spotify.com/album/2Yoh27G61AmIKH2ubk2RSb) | 3:20 |
-| 55 | [Star](https://open.spotify.com/track/5ijSUALHfNot7KSafyLI4E) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [The Land Is Inhospitable and So Are We](https://open.spotify.com/album/2Cn1d2KgbkAqbZCJ1RzdkA) | 2:59 |
+| 54 | [Star](https://open.spotify.com/track/5ijSUALHfNot7KSafyLI4E) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [The Land Is Inhospitable and So Are We](https://open.spotify.com/album/2Cn1d2KgbkAqbZCJ1RzdkA) | 2:59 |
+| 55 | [Out Loud](https://open.spotify.com/track/6Yx5Cw2mVmx6LiVP2VXWEO) | [Cage The Elephant](https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3) | [Out Loud](https://open.spotify.com/album/2Yoh27G61AmIKH2ubk2RSb) | 3:20 |
 | 56 | [Once More](https://open.spotify.com/track/1exDZN0zsfDpsIKamOqmSz) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [The Lost Petals](https://open.spotify.com/album/4YbgMvlvGC8FjzkSOLGgWC) | 2:01 |
 | 57 | [雪解けの朝](https://open.spotify.com/track/4V9PhPpzQ00RJjJaqRkgpq) | [荒井桃子](https://open.spotify.com/artist/6ZLhlVDG7KglxlYkMuLwvr) | [雪解けの朝](https://open.spotify.com/album/0gvr1J3aClpX0holnRIFbp) | 3:42 |
 | 58 | [Fallen Flowers](https://open.spotify.com/track/7AZCidWfobiJzWoxPB67gr) | [Akira Kosemura](https://open.spotify.com/artist/4n1lW38WKgyPEIZowQ3AND) | [Fallen Flowers](https://open.spotify.com/album/4fJ7JtAbNfZikkfaU749h7) | 3:09 |
@@ -70,8 +70,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0pBYcA3qddJ.md) - [plain]
 | 60 | [Chocolate Hills](https://open.spotify.com/track/1EUOby36hEzSkTVVKRAWQP) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk), [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Texas Moon](https://open.spotify.com/album/2Xs9xSBhvyo8F6daRc1npu) | 3:10 |
 | 61 | [It's Impressive](https://open.spotify.com/track/7lQnGrQI7m1qzS9Z89GtTi) | [Ber](https://open.spotify.com/artist/3yojdgzMmWK3m7QABkOr7x) | [It's Impressive](https://open.spotify.com/album/74vSgLGwSVRkDJQHGN4qLp) | 2:05 |
 | 62 | [Loud Bark](https://open.spotify.com/track/4iaSz388a4iRMNRJZSClVG) | [Mannequin Pussy](https://open.spotify.com/artist/33yje3hgpNfdXpqdJQcrt9) | [I Got Heaven](https://open.spotify.com/album/5ROzqM7rbMYoKbQIw4i7fp) | 3:03 |
-| 63 | [Koto \- piano room](https://open.spotify.com/track/48Jivh6jAj87eK6lj3FtUo) | [Hideyuki Hashimoto](https://open.spotify.com/artist/3NMfMCA11Xo7RUc91o64Og) | [piano room](https://open.spotify.com/album/065gbiFR9Km7J1hQATfXtG) | 2:30 |
-| 64 | [Satellite](https://open.spotify.com/track/1ImhD5W20BYmmA9GYlBvOk) | [HYBS](https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI) | [WELL DONE](https://open.spotify.com/album/3ZYrXylEYlFvr3HDv1wJqJ) | 3:30 |
+| 63 | [Satellite](https://open.spotify.com/track/1ImhD5W20BYmmA9GYlBvOk) | [HYBS](https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI) | [WELL DONE](https://open.spotify.com/album/3ZYrXylEYlFvr3HDv1wJqJ) | 3:30 |
+| 64 | [Koto \- piano room](https://open.spotify.com/track/48Jivh6jAj87eK6lj3FtUo) | [Hideyuki Hashimoto](https://open.spotify.com/artist/3NMfMCA11Xo7RUc91o64Og) | [piano room](https://open.spotify.com/album/065gbiFR9Km7J1hQATfXtG) | 2:30 |
 | 65 | [Tejano Blue](https://open.spotify.com/track/6sQ833YbGp8SbtGcLCBwHw) | [Cigarettes After Sex](https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj) | [Tejano Blue](https://open.spotify.com/album/5sZaDwkcg7KFjCEHlvvKt8) | 3:54 |
 | 66 | [Now Is The Hour \(The New Look: Season 1 \(Apple TV+ Original Series Soundtrack\)\)](https://open.spotify.com/track/2Xm5Iz7jDPK0mqxbHHp5Mr) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [Now Is The Hour \(The New Look: Season 1 \(Apple TV+ Original Series Soundtrack\)\)](https://open.spotify.com/album/4GJeD72vDjBoOjNYmBF7Vo) | 2:32 |
 | 67 | [Chillin' In The Dark](https://open.spotify.com/track/3D7W9qlaXDoC6PWVxnUB9k) | [Everyday is Sunday](https://open.spotify.com/artist/4ucm9OKtO5fac0lLRsngDW) | [Chillin' In The Dark](https://open.spotify.com/album/4JdMw6PQjcsIl3AjYxhhCo) | 2:42 |
@@ -104,9 +104,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0pBYcA3qddJ.md) - [plain]
 | 94 | [Piano Sonata No\. 14 in C\-Sharp Minor, Op\. 27 No\. 2 "Moonlight": I\. Adagio sostenuto](https://open.spotify.com/track/1I0lEXj5H3siZaa9300aqz) | [Ludwig van Beethoven](https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS), [Alice Sara Ott](https://open.spotify.com/artist/0d6alfZHUx3xoRnPjkTL7Q) | [Beethoven: Piano Sonata No\. 14 in C\-Sharp Minor, Op\. 27 No\. 2 "Moonlight": I\. Adagio sostenuto](https://open.spotify.com/album/5oFks9ZFUYBv8Ia3pkmtuX) | 5:23 |
 | 95 | [Solaris](https://open.spotify.com/track/3mw4OxKGvEG542yNl5Ypi3) | [yanaco](https://open.spotify.com/artist/2uRX0L8p4Mdh293wJ7U8dq) | [Solaris](https://open.spotify.com/album/6cBibsodTbuM4xuFfUNcjK) | 3:41 |
 | 96 | [Empty Lake \(feat\. Clara Mann\)](https://open.spotify.com/track/7xmsz7uSxf88gQ1aLtsmqi) | [Akira Kosemura](https://open.spotify.com/artist/4n1lW38WKgyPEIZowQ3AND), [Clara Mann](https://open.spotify.com/artist/0BcrhuzQqziiZJXLSdiJu0) | [Empty Lake \(feat\. Clara Mann\)](https://open.spotify.com/album/7mSgfi9tU0a61heEkhyRJi) | 3:16 |
-| 97 | [Cairngorms](https://open.spotify.com/track/2d5gLLZEhhkwKpFR5akW0F) | [Sarah Julia](https://open.spotify.com/artist/2qVi7G7OjgVXyl9zxabzTQ) | [Cairngorms](https://open.spotify.com/album/5L2BHB36P5IQYu1QCw80K3) | 4:12 |
-| 98 | [Blue Stone of Atlas \- Piano Solo Version](https://open.spotify.com/track/7N05mAG1X23Sd2PNOyoJSF) | [Hikaru Shirosu](https://open.spotify.com/artist/3WJfB0QSAWAO283H19gL5a) | [Blue Stone of Atlas \(Piano Solo Version\)](https://open.spotify.com/album/0mLW4L7tLug2LUVvVfoOE3) | 2:38 |
+| 97 | [Blue Stone of Atlas \- Piano Solo Version](https://open.spotify.com/track/7N05mAG1X23Sd2PNOyoJSF) | [Hikaru Shirosu](https://open.spotify.com/artist/3WJfB0QSAWAO283H19gL5a) | [Blue Stone of Atlas \(Piano Solo Version\)](https://open.spotify.com/album/0mLW4L7tLug2LUVvVfoOE3) | 2:38 |
+| 98 | [Cairngorms](https://open.spotify.com/track/2d5gLLZEhhkwKpFR5akW0F) | [Sarah Julia](https://open.spotify.com/artist/2qVi7G7OjgVXyl9zxabzTQ) | [Cairngorms](https://open.spotify.com/album/5L2BHB36P5IQYu1QCw80K3) | 4:12 |
 | 99 | [drip&trip](https://open.spotify.com/track/4OfEynGcmC1MPHT7XRMfS3) | [アツムワンダフル](https://open.spotify.com/artist/5bSP4BWuxMm8IaUdgLg1qW), [一服track](https://open.spotify.com/artist/0C2tFTcfwbzUujsItAj7Ed) | [drip&trip](https://open.spotify.com/album/3ucbmnrGL2KCldRy3LZaVB) | 2:45 |
 | 100 | [Laudate Dominum \(from Vespers, K\. 339\) \(Arr\. Víkingur Ólafsson\) \- Upright Piano](https://open.spotify.com/track/2EJXYTlMDXkCcGEVRwdFAG) | [Wolfgang Amadeus Mozart](https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS), [Víkingur Ólafsson](https://open.spotify.com/artist/0iqgjl0OG3z53PZVIB7ZyD) | [From Afar](https://open.spotify.com/album/0WBYzTL6L84FgYGfc3W2Ll) | 4:57 |
 
-Snapshot ID: `MCw5NTUwYzQ2OWNjYTBlMDE2YWQ5ZGExYmNkMTJiNTQwMjI5MmVjZDM3`
+Snapshot ID: `MCwyZTgzOGY4NGQyN2UyNThlNGQxZjE1NzhjOTJiOWFlMWVmMjE5OTY2`

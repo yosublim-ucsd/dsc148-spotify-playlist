@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSP55jZj2ES3.md) - [plain]
 
 > Indie jams that sound like lounging under the sun with friends.
 
-[Spotify](https://open.spotify.com/user/spotify) - 530,597 likes - 100 songs - 5 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 530,654 likes - 100 songs - 5 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -88,18 +88,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSP55jZj2ES3.md) - [plain]
 | 78 | [Prism](https://open.spotify.com/track/0tpaVCA6VnQOUAI0EpFZpk) | [Say She She](https://open.spotify.com/artist/1WGb8nCPGJA0RyriSDIQfC) | [Prism](https://open.spotify.com/album/7FYVjCHeJAhgDi2zFmDV3n) | 3:52 |
 | 79 | [Shadow Man](https://open.spotify.com/track/0EN4QjJqiAufEh6g4xPNvC) | [Noname](https://open.spotify.com/artist/1EpyA68dKpjf7jXmQL88Hy), [Smino](https://open.spotify.com/artist/1ybINI1qPiFbwDXamRtwxD), [Phoelix](https://open.spotify.com/artist/2TKC2gVUNBUAlFqfLUoaj0), [Saba](https://open.spotify.com/artist/7Hjbimq43OgxaBRpFXic4x) | [Telefone](https://open.spotify.com/album/5kjqLxeQxdW3CcUdOXuO2c) | 5:11 |
 | 80 | [I Know There's Gonna Be \(Good Times\)](https://open.spotify.com/track/06UOL50QYtDR5l06ohu88m) | [Jamie xx](https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn), [Popcaan](https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR) | [In Colour](https://open.spotify.com/album/04Duapg2mNlVykd895xcfZ) | 3:33 |
-| 81 | [peppermint](https://open.spotify.com/track/7EBungIZdfO2SgFxqFtGfE) | [lavender](https://open.spotify.com/artist/6FfKXg3QdDbbwRs9JzffpY) | [peppermint](https://open.spotify.com/album/00xJmSdJgpfCZ3MFz4sZQQ) | 2:12 |
-| 82 | [My Body ft Your Lips](https://open.spotify.com/track/4xkxhTvP9tmCKfAIO8GFJR) | [The Beaches](https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy), [Beach Weather](https://open.spotify.com/artist/7I3bkknknQkIiatWiupQgD) | [Blame My Ex](https://open.spotify.com/album/1a5idDFSq90ej8CzQC7YDc) | 2:53 |
+| 81 | [My Body ft Your Lips](https://open.spotify.com/track/4xkxhTvP9tmCKfAIO8GFJR) | [The Beaches](https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy), [Beach Weather](https://open.spotify.com/artist/7I3bkknknQkIiatWiupQgD) | [Blame My Ex](https://open.spotify.com/album/1a5idDFSq90ej8CzQC7YDc) | 2:53 |
+| 82 | [peppermint](https://open.spotify.com/track/7EBungIZdfO2SgFxqFtGfE) | [lavender](https://open.spotify.com/artist/6FfKXg3QdDbbwRs9JzffpY) | [peppermint](https://open.spotify.com/album/00xJmSdJgpfCZ3MFz4sZQQ) | 2:12 |
 | 83 | [Trouble On Central](https://open.spotify.com/track/3tsFWhe45D6CGFSMA77T3B) | [Buddy](https://open.spotify.com/artist/6PDLwWvgYNMfBRLqC1h5cJ) | [Harlan & Alondra](https://open.spotify.com/album/5djciKtjqkY9ZQ1OhKICXN) | 3:07 |
 | 84 | [Gold](https://open.spotify.com/track/5Dz6wdHlI45KAOBAfMSJRS) | [Austin Millz](https://open.spotify.com/artist/43UmVQp9qZILibJ5vHq21k), [Aluna](https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE) | [Gold](https://open.spotify.com/album/7jlUFBjbua4L7eZXpncXIG) | 2:55 |
 | 85 | [Something For Your M.I.N.D.](https://open.spotify.com/track/47wq2z7KMHDRnoSMdZODUA) | [Superorganism](https://open.spotify.com/artist/0Wkm45quqfx3NepJpXDvwE) | [Something For Your M.I.N.D.](https://open.spotify.com/album/2FlD0ta44kkFbIvwa4uDeP) | 2:45 |
 | 86 | [I'm Just Snacking](https://open.spotify.com/track/12jmugLskEWmYRLKYfMNSk) | [Gus Dapperton](https://open.spotify.com/artist/6sHCvZe1PHrOAuYlwTLNH4) | [I'm Just Snacking](https://open.spotify.com/album/1OxhOd3oy8xQJ818M3mQS2) | 3:18 |
-| 87 | [Fkn Around \(feat\. Megan Thee Stallion\)](https://open.spotify.com/track/1RRlUJMxjp2FmkTExBT2T7) | [Phony Ppl](https://open.spotify.com/artist/0oBsnAC3fzYkTHF3bkfNx6), [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Fkn Around \(feat\. Megan Thee Stallion\)](https://open.spotify.com/album/6bA7nkjTgFlVk25zvD8oep) | 4:04 |
-| 88 | [Stay](https://open.spotify.com/track/2raaAIwNBB924qU7Cp3NLx) | [Galdive](https://open.spotify.com/artist/0aMrhUHnOzfiPcMc2PGiaT) | [Stay](https://open.spotify.com/album/2pjKfsWv052j1F5qQ1BJvq) | 3:38 |
+| 87 | [Stay](https://open.spotify.com/track/2raaAIwNBB924qU7Cp3NLx) | [Galdive](https://open.spotify.com/artist/0aMrhUHnOzfiPcMc2PGiaT) | [Stay](https://open.spotify.com/album/2pjKfsWv052j1F5qQ1BJvq) | 3:38 |
+| 88 | [Fkn Around \(feat\. Megan Thee Stallion\)](https://open.spotify.com/track/1RRlUJMxjp2FmkTExBT2T7) | [Phony Ppl](https://open.spotify.com/artist/0oBsnAC3fzYkTHF3bkfNx6), [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Fkn Around \(feat\. Megan Thee Stallion\)](https://open.spotify.com/album/6bA7nkjTgFlVk25zvD8oep) | 4:04 |
 | 89 | [Cleaner Air](https://open.spotify.com/track/3Sgn4aKqN08OvNlE421SqP) | [Yeek](https://open.spotify.com/artist/5BhFZpE8kUGZJiKOsYjLQM) | [Cleaner Air](https://open.spotify.com/album/2JAbq9m4RsGqPFRIB7s7q5) | 2:08 |
-| 90 | [Stay High](https://open.spotify.com/track/25Olcsu6q4zxwASmTuUA8R) | [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL), [Brittany Howard](https://open.spotify.com/artist/4XquDVA8pkg5Lx91No1JxB) | [Jaime \(Reimagined\)](https://open.spotify.com/album/4WF6ivKo1khvBsGHJODucP) | 3:38 |
-| 91 | [Only Child](https://open.spotify.com/track/4zMmqb0pYwX6b0qc0slCoT) | [Tierra Whack](https://open.spotify.com/artist/4lPl9gqgox3JDiaJ1yklKh) | [Only Child](https://open.spotify.com/album/0vioXPjQ9v9dSkzw5xHrTQ) | 3:59 |
-| 92 | [Ferris Wheel](https://open.spotify.com/track/0yiJNNm39cp1T7RnXOMVLX) | [Sylvan Esso](https://open.spotify.com/artist/39vA9YljbnOApXKniLWBZv) | [Free Love](https://open.spotify.com/album/2KAPJ40On8JY1Yt64JJgTk) | 2:57 |
+| 90 | [Only Child](https://open.spotify.com/track/4zMmqb0pYwX6b0qc0slCoT) | [Tierra Whack](https://open.spotify.com/artist/4lPl9gqgox3JDiaJ1yklKh) | [Only Child](https://open.spotify.com/album/0vioXPjQ9v9dSkzw5xHrTQ) | 3:59 |
+| 91 | [Ferris Wheel](https://open.spotify.com/track/0yiJNNm39cp1T7RnXOMVLX) | [Sylvan Esso](https://open.spotify.com/artist/39vA9YljbnOApXKniLWBZv) | [Free Love](https://open.spotify.com/album/2KAPJ40On8JY1Yt64JJgTk) | 2:57 |
+| 92 | [Stay High](https://open.spotify.com/track/25Olcsu6q4zxwASmTuUA8R) | [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL), [Brittany Howard](https://open.spotify.com/artist/4XquDVA8pkg5Lx91No1JxB) | [Jaime \(Reimagined\)](https://open.spotify.com/album/4WF6ivKo1khvBsGHJODucP) | 3:38 |
 | 93 | [Napkins](https://open.spotify.com/track/0YvzawIC5nFFYj5YAvv5HP) | [RIZ LA VIE](https://open.spotify.com/artist/0QkgnHpxSCOYdTnhUR9S5k) | [Napkins](https://open.spotify.com/album/1JyG3QDEsxszuDQYsqrivA) | 3:35 |
 | 94 | [Wait \- Chromeo Remix](https://open.spotify.com/track/0eayB5jay6m21D816D7jF4) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP), [Chromeo](https://open.spotify.com/artist/2mV8aJphiSHYJf43DxL7Gt) | [Wait \(Chromeo Remix\)](https://open.spotify.com/album/5OI8zfqy2WwWN4OnfPVXak) | 4:19 |
 | 95 | [Movie Screen](https://open.spotify.com/track/1OEEIcF2Q2aK0zZNnFmc05) | [Tommy Newport](https://open.spotify.com/artist/7FvQR6QFfXmW18dyMqnHvv) | [Tommy Gun](https://open.spotify.com/album/62A2Ye3DprnbewfUJyPHuh) | 3:03 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSP55jZj2ES3.md) - [plain]
 | 99 | [Who Am I But Someone](https://open.spotify.com/track/2aIMQ8exqALB45htgOenLF) | [Kate Bollinger](https://open.spotify.com/artist/4eArh1v6UwBbKkjdgHCned) | [Look at it in the Light](https://open.spotify.com/album/3MKaD7aYasZcnBvv8g2XKO) | 2:42 |
 | 100 | [Luvaroq](https://open.spotify.com/track/5mlirWXPq6KoroAUgy6Wdq) | [Elujay](https://open.spotify.com/artist/1CgbNAF3Stnz1Tpipu3xdO), [serpentwithfeet](https://open.spotify.com/artist/1O9iHQjrVuiAYOJFCBeFSl) | [Circmvnt](https://open.spotify.com/album/2eR6L5nfTqjp97Kty4fCgs) | 3:40 |
 
-Snapshot ID: `MCxiOTlhYmI3YjhmMzEwNDljMWFjYTUyODNhYzY0YmUwZDhhNTFkNWEw`
+Snapshot ID: `MCxiMDE3OTM3M2RhMThjYTljNjE5OTEwNzJkNWY1M2QwODVmMTFlZTg2`

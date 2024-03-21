@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaR2304fzenh.md) - [plain]
 
 > El título says it all, a whole mood!
 
-[Spotify](https://open.spotify.com/user/spotify) - 67,964 likes - 86 songs - 4 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 68,090 likes - 86 songs - 4 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,9 +21,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaR2304fzenh.md) - [plain]
 | 11 | [Poco A Poco](https://open.spotify.com/track/4loIMejzvt11s97SGVEat8) | [Xavi](https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1), [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0) | [Poco A Poco](https://open.spotify.com/album/0Xc7skil4XnM9I2bzAtqgl) | 2:36 |
 | 12 | [El Precio De La Soledad](https://open.spotify.com/track/179TZwPk0txEvjkraVTVKo) | [Alfredo Olivas](https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8) | [Así Es Esto](https://open.spotify.com/album/5t3QwyKSV5oww8T0eB26mB) | 3:06 |
 | 13 | [Igualito a Mi Apá](https://open.spotify.com/track/17js0w8GTkTUFGFM6PYvBd) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [Pa Que Hablen](https://open.spotify.com/album/7idxAlo8GuUKWV7RhOlptp) | 2:46 |
-| 14 | [De Fresa y Coco](https://open.spotify.com/track/46XNO42jaQNr5DdEWINdpL) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv), [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0) | [De Fresa y Coco](https://open.spotify.com/album/4uKPvJXY4U6xN5uDy4dtxM) | 2:45 |
+| 14 | [El Hijo Mayor](https://open.spotify.com/track/1RGlfmdvcfatN0ZLOmzanS) | [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [El Hijo Mayor](https://open.spotify.com/album/5uNnU1f0N66Xkll4wRnjXL) | 3:16 |
 | 15 | [Dijeron Que No La Iba Lograr](https://open.spotify.com/track/7dR09k1an5JEq7ch0Y5hvV) | [Chino Pacas](https://open.spotify.com/artist/2rmkQLzj0k4nZdQehOUByO), [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [Dijeron Que No La Iba Lograr](https://open.spotify.com/album/3pyALc28lhIbH4gPXVNb9g) | 1:53 |
-| 16 | [El Hijo Mayor](https://open.spotify.com/track/1RGlfmdvcfatN0ZLOmzanS) | [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [El Hijo Mayor](https://open.spotify.com/album/5uNnU1f0N66Xkll4wRnjXL) | 3:16 |
+| 16 | [De Fresa y Coco](https://open.spotify.com/track/46XNO42jaQNr5DdEWINdpL) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv), [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0) | [De Fresa y Coco](https://open.spotify.com/album/4uKPvJXY4U6xN5uDy4dtxM) | 2:45 |
 | 17 | [Qué Onda Perdida](https://open.spotify.com/track/3upTB6o5YgeALHgDp3mzte) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [Gerardo Coronel](https://open.spotify.com/artist/6JoYL9QYbdgPb6EuE5J2pC) | [Qué Onda Perdida](https://open.spotify.com/album/6kbhZqFlf80O9LW2EAWz15) | 3:59 |
 | 18 | [AMG](https://open.spotify.com/track/1lRtH4FszTrwwlK5gTSbXO) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf) | [AMG](https://open.spotify.com/album/0s2sLResjP92wRavoj9k0O) | 2:54 |
 | 19 | [GAVILÁN II](https://open.spotify.com/track/775hCSePn3GW4h9nZ636kq) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [Tito Double P](https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG) | [GÉNESIS](https://open.spotify.com/album/4jox3ip1I39DFC2B7R5qLH) | 3:45 |
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaR2304fzenh.md) - [plain]
 | 26 | [PRC](https://open.spotify.com/track/2mpoNBkngUEwnaKoBhZ0vl) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P) | [PRC](https://open.spotify.com/album/2OXBosbXT7Qs3J6vBd6IkI) | 3:04 |
 | 27 | [El Tóxico](https://open.spotify.com/track/7E9GeFGfjXw9LAI4ay6rsw) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [El Tóxico](https://open.spotify.com/album/0FbcuKOFPTtZgqAucm31iG) | 2:59 |
 | 28 | [Billete Grande \(En Vivo\)](https://open.spotify.com/track/3XfUFGzbr0LmwFVoLXd9cO) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [Billete Grande \(En Vivo\)](https://open.spotify.com/album/3qYGLHQB2krhFp27Hm62Ip) | 2:43 |
-| 29 | [Sin Tanto Royo](https://open.spotify.com/track/4AtRBtemYPsLbwdJRMj5rw) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Tito Double P](https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG) | [Sin Tanto Royo](https://open.spotify.com/album/0IrdgtJfP85uNxe8Ks3vcc) | 2:28 |
-| 30 | [Mi Último Deseo](https://open.spotify.com/track/01ksPzu3Bw8Lsf9o6xIk8C) | [Banda Los Recoditos](https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak) | [El Free](https://open.spotify.com/album/6BmzjJPjWBVfTwbKMFdTUs) | 2:43 |
+| 29 | [Mi Último Deseo](https://open.spotify.com/track/01ksPzu3Bw8Lsf9o6xIk8C) | [Banda Los Recoditos](https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak) | [El Free](https://open.spotify.com/album/6BmzjJPjWBVfTwbKMFdTUs) | 2:43 |
+| 30 | [Sin Tanto Royo](https://open.spotify.com/track/4AtRBtemYPsLbwdJRMj5rw) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Tito Double P](https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG) | [Sin Tanto Royo](https://open.spotify.com/album/0IrdgtJfP85uNxe8Ks3vcc) | 2:28 |
 | 31 | [Porte de Scarface](https://open.spotify.com/track/5KX5GVCWkqAhGOaPGaLIBK) | [Chuy Montana](https://open.spotify.com/artist/12KipYva9312KrSBekytFE) | [Porte de Scarface](https://open.spotify.com/album/5bircs6AOMJQprSwCyAhnp) | 2:52 |
 | 32 | [La Buena y la Mala](https://open.spotify.com/track/4y0n8xKuEKE0J2sThzswhg) | [Banda Tierra Sagrada](https://open.spotify.com/artist/0v7JYEoQOQbzNNESKwxmzT) | [De Lo Bueno, Lo Mejor](https://open.spotify.com/album/6fg7ANywTbldJWzw8y1p4F) | 3:24 |
 | 33 | [Fuga Pa Cali 2](https://open.spotify.com/track/5IdyvWCaUa7AgTxMsFj0wB) | [Grupo Los de la O](https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz) | [La Clase](https://open.spotify.com/album/2diC6yg6Uf2W5eodLX8sMY) | 3:16 |
@@ -95,4 +95,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaR2304fzenh.md) - [plain]
 | 85 | [Vete Ya](https://open.spotify.com/track/0UkIrDmZ19PFFi6SXx9RBd) | [Valentín Elizalde](https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA) | [Lo Mejor De Homenaje A Una Vida](https://open.spotify.com/album/4IMIycfVRmQVdtKYeoWqqr) | 2:35 |
 | 86 | [Se Va Muriendo Mi Alma](https://open.spotify.com/track/089JwgBFzPhW92N7RmUdNq) | [La Septima Banda](https://open.spotify.com/artist/610tJqABwgZWaRvtJoJQF0) | [Tirando Party](https://open.spotify.com/album/4Abo4Oityt7ycbQwoRmXvC) | 3:56 |
 
-Snapshot ID: `MCw1ZWNmNzFhMGQ0MTZjYzdjZTg0YzdiMGJjNDM5YzM3OTkzNzJmNGU5`
+Snapshot ID: `MCwwZTAzMzQ2Mzc3NTc1N2VmODI4ZTkxOWM3OGU1MWE1ZGFkMmM1YmRm`

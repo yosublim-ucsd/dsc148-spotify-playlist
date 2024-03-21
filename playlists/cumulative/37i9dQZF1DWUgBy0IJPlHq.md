@@ -4,7 +4,7 @@
 
 > A new shade of Country\. Cover: Big Thief
 
-544 songs - 1 day 9 hr 25 min
+545 songs - 1 day 9 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -132,7 +132,8 @@
 | [Dead Horses](https://open.spotify.com/track/2Q7I80HWsO2ErmkDQmHXjO) | [The Local Honeys](https://open.spotify.com/artist/3KXxNSegk9keTDArt5YQMm) | [Dead Horses](https://open.spotify.com/album/0XTIUwu8bX77kLDQEp8ZIc) | 4:01 | 2022-05-13 | 2022-08-06 |
 | [Dear Miss Loretta](https://open.spotify.com/track/1JwJuAwd0Tb0NlBgfDueXu) | [Carly Pearce](https://open.spotify.com/artist/4sIl4BTo9l9KqEi0Y3RE72), [Patty Loveless](https://open.spotify.com/artist/6SFUC6ORDCIBqPssCBpeHT) | [Dear Miss Loretta](https://open.spotify.com/album/6MDr4dODoUNDZMaqIBk4mn) | 3:40 | 2021-12-17 | 2022-03-05 |
 | [Death Wish](https://open.spotify.com/track/7u16KXOttsLNh7U8FQx2G1) | [Jason Isbell and the 400 Unit](https://open.spotify.com/artist/3Lg3FGwBxOGuefqekQzRUf) | [Death Wish](https://open.spotify.com/album/3N4m9O8Zsof2RX84aHWyy7) | 4:30 | 2023-02-24 | 2023-12-16 |
-| [Deeper Well](https://open.spotify.com/track/2lJn77IeZAP9cmv6DPXOrL) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Deeper Well](https://open.spotify.com/album/2NXiMKrwmPrqU8epp20pW8) | 3:52 | 2024-02-09 |  |
+| [Deeper Well](https://open.spotify.com/track/2lJn77IeZAP9cmv6DPXOrL) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Deeper Well](https://open.spotify.com/album/2NXiMKrwmPrqU8epp20pW8) | 3:52 | 2024-02-09 | 2024-03-21 |
+| [Deeper Well](https://open.spotify.com/track/333XFHKsHU0pOocFzBgrJi) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Deeper Well](https://open.spotify.com/album/5SxZmGwc4eJuPp6PcO4JgJ) | 3:52 | 2024-03-15 |  |
 | [Demons](https://open.spotify.com/track/42qQfL7lQefUOXvqtSyrWM) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU), [Ben Haggard](https://open.spotify.com/artist/2RtEucMpDtN3H68hDwFdnc) | [Run, Rose, Run](https://open.spotify.com/album/50A9Yv2SPJByoZIDO5WVzG) | 3:24 | 2022-03-04 | 2022-04-09 |
 | [Denim & Diamonds](https://open.spotify.com/track/7jAw05wdvqQhKDtKnFOH93) | [Nikki Lane](https://open.spotify.com/artist/2kWeFaiHBskk8oqky3KHcR) | [Denim & Diamonds](https://open.spotify.com/album/1AEHp7Ufjc2GEZGUlfFsML) | 3:12 | 2022-09-23 | 2024-02-24 |
 | [Desperate Man](https://open.spotify.com/track/7aGILHwGlI1uZ1VTxAWPPf) | [Ray Wylie Hubbard](https://open.spotify.com/artist/4gQ8biCMcMrOuBdJx639Q0), [The Band Of Heathens](https://open.spotify.com/artist/5K4gVy6DhNd39mSjuK95Y7) | [Co\-Starring Too](https://open.spotify.com/album/2qdRjOgx6MnLayfn9QZiJE) | 4:53 | 2022-03-18 | 2022-07-16 |

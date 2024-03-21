@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4yeSNLFx6qI.md) - [plain]
 
 > Se acabó el amor\. La música continúa.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,701,354 likes - 100 songs - 6 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,701,476 likes - 100 songs - 6 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,8 +51,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4yeSNLFx6qI.md) - [plain]
 | 41 | [Muero](https://open.spotify.com/track/3duR10TJy7FDaAr65xe4v2) | [Kany García](https://open.spotify.com/artist/69UypehHabb68utzfjAVlV), [Alejandro Sanz](https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF) | [Muero](https://open.spotify.com/album/4qsSC79CFtpK133Ecl1cVz) | 3:37 |
 | 42 | [Gracias por Nada](https://open.spotify.com/track/1cNKHvYhFbaRfvcRuKLTeI) | [Reik](https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2) | [Gracias por Nada](https://open.spotify.com/album/7GceIonKv0MVw9HUcHw6ra) | 2:03 |
 | 43 | [Recuérdame](https://open.spotify.com/track/5UEtsmhfAtUb1KmPGougtO) | [Pablo Alborán](https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50) | [Terral](https://open.spotify.com/album/1cWvezm4YsxlvvOSRUXLmS) | 4:47 |
-| 44 | [Amor Ordinario](https://open.spotify.com/track/4WbKmrxCQ8gp8qEjyRpXtb) | [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [K.O.](https://open.spotify.com/album/5y5Qud31YIPnxbVjzojvmK) | 3:10 |
-| 45 | [Y Tú Te Vas](https://open.spotify.com/track/7zuwr7YqqpveNtxlKe1vn6) | [Chayanne](https://open.spotify.com/artist/1JbemQ1fPt2YmSLjAFhPBv) | [Grandes Exitos](https://open.spotify.com/album/1HR0VmKYncW4JyMwRCSi9N) | 4:43 |
+| 44 | [Y Tú Te Vas](https://open.spotify.com/track/7zuwr7YqqpveNtxlKe1vn6) | [Chayanne](https://open.spotify.com/artist/1JbemQ1fPt2YmSLjAFhPBv) | [Grandes Exitos](https://open.spotify.com/album/1HR0VmKYncW4JyMwRCSi9N) | 4:43 |
+| 45 | [Amor Ordinario](https://open.spotify.com/track/4WbKmrxCQ8gp8qEjyRpXtb) | [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [K.O.](https://open.spotify.com/album/5y5Qud31YIPnxbVjzojvmK) | 3:10 |
 | 46 | [Por si quieres volver](https://open.spotify.com/track/0Y66CEujNdMDXKPAxuHK0s) | [Marina Reche](https://open.spotify.com/artist/2fUMrRPj5xcEYXG5FoCTfw) | [claridad](https://open.spotify.com/album/3WfOIUEYZSSBlJVzF9UCt0) | 2:46 |
 | 47 | [Dices Que Te Vas](https://open.spotify.com/track/0QHOIQxRlIPYPJ1HLgIN8S) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) | [OCEAN](https://open.spotify.com/album/4i5b4YWuMtneUSvQPONwzK) | 3:22 |
 | 48 | [Cobarde](https://open.spotify.com/track/4rbFRFbocQDMubY2l2qM1K) | [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [¿Dónde Bailarán Las Niñas?](https://open.spotify.com/album/6BvR8xqcnvm7Gpmmnr7JKa) | 3:34 |
@@ -63,8 +63,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4yeSNLFx6qI.md) - [plain]
 | 53 | [Falta Amor](https://open.spotify.com/track/2ukaTb7sSeWHdr22n1xTBs) | [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW), [Ricky Martin](https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ) | [Falta Amor](https://open.spotify.com/album/3gkp7anxdJUMULQZaIND1m) | 3:23 |
 | 54 | [Vidas Pasadas](https://open.spotify.com/track/2G6cOHhIjJGd7fhBKXBjLr) | [3AM](https://open.spotify.com/artist/1LU7BxbUvvuA4eNDdEO22D) | [Vidas Pasadas](https://open.spotify.com/album/6xUsWpvDVdDD8qDbQOsOL6) | 2:18 |
 | 55 | [Inalcanzable](https://open.spotify.com/track/3VlS9yWZ9WkzaePi8oobTj) | [RBD](https://open.spotify.com/artist/7cjh6y0V9SsyCrWSXTzwOs), [Anahí](https://open.spotify.com/artist/0TeVa4xdLB8vdzjsvKH6Ri), [Dulce María](https://open.spotify.com/artist/6kaefrHSdAvxhhCVDFTCEL), [Maite Perroni](https://open.spotify.com/artist/6ModsWtBph2rE6zCTVxvZt), [Christian Chávez](https://open.spotify.com/artist/0aMqt2uGLuHj4eI8oXgVzN), [Christopher von Uckermann](https://open.spotify.com/artist/5O8cudluftNZ6PCwRzvYxo), [Alfonso Herrera](https://open.spotify.com/artist/0veZkZPeWoJQ9gt6VAXlkN) | [Empezar Desde Cero](https://open.spotify.com/album/3dFYNMT0LYCPhpw8Q010pJ) | 4:14 |
-| 56 | [amantes y amigos](https://open.spotify.com/track/2Ye3wsl794JOx6Miklej48) | [Elsa y Elmar](https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy) | [ya no somos los mismos](https://open.spotify.com/album/7MaRtS1x0WlCKm3j8PJ0jH) | 3:51 |
-| 57 | [No Querías Lastimarme](https://open.spotify.com/track/3Mebiofe2IvOakAD792K3j) | [Gloria Trevi](https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ) | [De Película](https://open.spotify.com/album/1m9gX7fweiWCg91tQ9tCz9) | 3:44 |
+| 56 | [No Querías Lastimarme](https://open.spotify.com/track/3Mebiofe2IvOakAD792K3j) | [Gloria Trevi](https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ) | [De Película](https://open.spotify.com/album/1m9gX7fweiWCg91tQ9tCz9) | 3:44 |
+| 57 | [amantes y amigos](https://open.spotify.com/track/2Ye3wsl794JOx6Miklej48) | [Elsa y Elmar](https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy) | [ya no somos los mismos](https://open.spotify.com/album/7MaRtS1x0WlCKm3j8PJ0jH) | 3:51 |
 | 58 | [No Le Llames Amor](https://open.spotify.com/track/5czRuLp5tTxJJOUOUNLGej) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2) | [No Le Llames Amor](https://open.spotify.com/album/2D6IxtHM8myA2hrIopVR9l) | 3:23 |
 | 59 | [Cristina](https://open.spotify.com/track/1Kjer1JoWuJGNwGV6Pbgv1) | [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW) | [Cristina](https://open.spotify.com/album/5lhQfarxkGkFATjitVSHC6) | 3:22 |
 | 60 | [+](https://open.spotify.com/track/5Cbo7oz78gqkzV3EAM63VA) | [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25), [Cali Y El Dandee](https://open.spotify.com/artist/5DUlefCLzVRzNWaNURTFpK) | [+](https://open.spotify.com/album/6zardvJflEyoRedCUCBUw9) | 3:39 |
@@ -74,8 +74,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4yeSNLFx6qI.md) - [plain]
 | 64 | [Déjame Ir](https://open.spotify.com/track/3nymR2pRbiDq89qS2osIVX) | [Andrés Cepeda](https://open.spotify.com/artist/49Z1AvGeUaBSanPaOmplK6), [Morat](https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD) | [Déjame Ir](https://open.spotify.com/album/5MAHn88iqWSOsfXQ1GBLby) | 3:52 |
 | 65 | [Recuerdos de Amor \(Lembranças de Amor\) \- Si Fuera Mía](https://open.spotify.com/track/3rmG6egiqYCmA1v2sEQUpT) | [Carlos Rivera](https://open.spotify.com/artist/39yVoqm6sYFvvqF1RciUVf) | [Si Fuera Mía \- EP](https://open.spotify.com/album/0Blo1xKwN9GKOUgCBBWvmx) | 3:47 |
 | 66 | [El Que Olvida](https://open.spotify.com/track/69dW5grE2KVwjl0ACruk0k) | [Ricardo Arjona](https://open.spotify.com/artist/0h1zs4CTlU9D2QtgPxptUD) | [Circo Soledad](https://open.spotify.com/album/3MYtBNFvuGUSEIi2Sfwl2w) | 3:51 |
-| 67 | [cómo acaba](https://open.spotify.com/track/4PbKNrqL6I3jzUrwWgzinP) | [Elsa y Elmar](https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy) | [ya no somos los mismos](https://open.spotify.com/album/7MaRtS1x0WlCKm3j8PJ0jH) | 3:44 |
-| 68 | [Si tú no vuelves](https://open.spotify.com/track/7C5l5hLxS4uZX1VJR13ZBT) | [Miguel Bosé](https://open.spotify.com/artist/7mWCSSOYqm4E9mB7V4ot6S) | [Colección Definitiva](https://open.spotify.com/album/0nEL8RK9TM7RD6oTzv27Zf) | 4:38 |
+| 67 | [Si tú no vuelves](https://open.spotify.com/track/7C5l5hLxS4uZX1VJR13ZBT) | [Miguel Bosé](https://open.spotify.com/artist/7mWCSSOYqm4E9mB7V4ot6S) | [Colección Definitiva](https://open.spotify.com/album/0nEL8RK9TM7RD6oTzv27Zf) | 4:38 |
+| 68 | [cómo acaba](https://open.spotify.com/track/4PbKNrqL6I3jzUrwWgzinP) | [Elsa y Elmar](https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy) | [ya no somos los mismos](https://open.spotify.com/album/7MaRtS1x0WlCKm3j8PJ0jH) | 3:44 |
 | 69 | [Te Olvidaré](https://open.spotify.com/track/3mCsFR4vkkg6az76rXMZu6) | [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp) | [TINI TINI TINI](https://open.spotify.com/album/7LP6bUlMdnuqeP2etuw7wI) | 3:14 |
 | 70 | [Saturno](https://open.spotify.com/track/2oKjjRzItVu8JZScrpzFTx) | [Pablo Alborán](https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50) | [Saturno](https://open.spotify.com/album/5pkBUqB9eV83AF7BmNGAs6) | 4:13 |
 | 71 | [Corazón Sin Vida](https://open.spotify.com/track/3OL6rKs4tpYCdPZ9SEx50p) | [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25), [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW) | [Corazón Sin Vida](https://open.spotify.com/album/65jAsD6n85tGFFeuPhokaO) | 3:01 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4yeSNLFx6qI.md) - [plain]
 | 99 | [Por Tu Bien](https://open.spotify.com/track/5znXf6RfeOEQhD5qkupv8C) | [Matisse](https://open.spotify.com/artist/77aLk6J8ofnVxa1eXK9jiU) | [Por Tu Bien](https://open.spotify.com/album/1C4uTws6xznbtPOlkl1uBr) | 3:53 |
 | 100 | [Noviembre Sin Ti](https://open.spotify.com/track/63EzbC00mdZurdZzRcO4w3) | [Reik](https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2) | [Reik](https://open.spotify.com/album/16QRglfvF1gpz6GLsBC1gU) | 3:23 |
 
-Snapshot ID: `MCxmMzRhYjBjZGMwNTgyNWQ2NjQxNjk3YjA5Y2Q4MmNlYmFkM2VmZmQ1`
+Snapshot ID: `MCw5NTFjYzE5Yzk4MGMyY2NjMzllZmZmM2UxN2FiOTM2NTE4NzljMjFh`

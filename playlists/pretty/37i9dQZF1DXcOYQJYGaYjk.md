@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcOYQJYGaYjk.md) - [plain]
 
 > For those that like it hard and heavy\. Cover: Motionless In White
 
-[Spotify](https://open.spotify.com/user/spotify) - 221,733 likes - 70 songs - 4 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 221,719 likes - 70 songs - 4 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,8 +59,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcOYQJYGaYjk.md) - [plain]
 | 49 | [Vice Grip](https://open.spotify.com/track/0AHHDAHFRaT82UVw5fMr1R) | [Parkway Drive](https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo) | [Ire](https://open.spotify.com/album/7712cWOELt2oQyxrlFWY8D) | 4:23 |
 | 50 | [Save Me](https://open.spotify.com/track/4REoG68IFlZyqVAaUwmUl0) | [Skillet](https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8) | [Victorious](https://open.spotify.com/album/6uBm8oGd1fJNWpCsaURaPZ) | 3:43 |
 | 51 | [Hardwired](https://open.spotify.com/track/7myke8Id4WyKFlWcRBJdIF) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Hardwired…To Self\-Destruct](https://open.spotify.com/album/4kizef5du9TgAGfNhWbKmt) | 3:11 |
-| 52 | [Sham Pain](https://open.spotify.com/track/3MnYJuv8ogYrBkBb3XWdTQ) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [And Justice for None \(Deluxe\)](https://open.spotify.com/album/7BXbyT2VJgiD6eYLPJrsJp) | 3:29 |
-| 53 | [Bones Exposed](https://open.spotify.com/track/61kzGC0EuJAmxSeZYI8ayR) | [Of Mice & Men](https://open.spotify.com/artist/4tususHNaR68xdgLstlGBA) | [Restoring Force](https://open.spotify.com/album/0YRIP2ccK2v8kWW7SdDA7R) | 4:15 |
+| 52 | [Bones Exposed](https://open.spotify.com/track/61kzGC0EuJAmxSeZYI8ayR) | [Of Mice & Men](https://open.spotify.com/artist/4tususHNaR68xdgLstlGBA) | [Restoring Force](https://open.spotify.com/album/0YRIP2ccK2v8kWW7SdDA7R) | 4:15 |
+| 53 | [Sham Pain](https://open.spotify.com/track/3MnYJuv8ogYrBkBb3XWdTQ) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [And Justice for None \(Deluxe\)](https://open.spotify.com/album/7BXbyT2VJgiD6eYLPJrsJp) | 3:29 |
 | 54 | [Reinventing Your Exit](https://open.spotify.com/track/591vJuuep0gfPhx9p8WPD5) | [Underoath](https://open.spotify.com/artist/3GzWhE2xadJiW8MqRKIVSK) | [They're Only Chasing Safety](https://open.spotify.com/album/5GeXnKDk6sD6RnkPVwFi19) | 4:22 |
 | 55 | [Lost In The Static](https://open.spotify.com/track/7zKoAeplPMS3bcqIZ4crp4) | [After The Burial](https://open.spotify.com/artist/0uNj4RxFjG0iVPlZS753en) | [Dig Deep](https://open.spotify.com/album/5Y34qlvVSVLWVNr5cyLB4K) | 4:33 |
 | 56 | [The Black](https://open.spotify.com/track/6GoHTm0vZGTcs7I87HUIdX) | [Asking Alexandria](https://open.spotify.com/artist/1caBfBEapzw8z2Qz9q0OaQ) | [The Black](https://open.spotify.com/album/0IH8nMaCZC4A7DcGR7fW0V) | 4:41 |
@@ -71,12 +71,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcOYQJYGaYjk.md) - [plain]
 | 61 | [Cross Off](https://open.spotify.com/track/3EAeH1G0BoxQIX8SmgjqAy) | [Mark Morton](https://open.spotify.com/artist/5w09r1HW3Dc8BMYIvqbnnF), [Chester Bennington](https://open.spotify.com/artist/4P0eS4QK9qeUhqrapGsJKS) | [Anesthetic](https://open.spotify.com/album/6L6uIRjZySB3J96kZ974NR) | 4:13 |
 | 62 | [Warrior](https://open.spotify.com/track/33WOlsgWGEQgEratiULuYp) | [Atreyu](https://open.spotify.com/artist/3LkSiHbjqOHCKCqBfEZOTv), [Travis Barker](https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX) | [Baptize](https://open.spotify.com/album/0onI0aisDxDHLmhgjD5tYF) | 2:45 |
 | 63 | [Death](https://open.spotify.com/track/2e9HC16cEYxDnj4QAmsYi4) | [LANDMVRKS](https://open.spotify.com/artist/6G43CiunIxMwb2tQ12vNP6), [DR€W ¥ORK](https://open.spotify.com/artist/4E7k7fQ89SmXCLHHvpMNHu) | [Lost in the Waves \(The Complete Edition\)](https://open.spotify.com/album/6N1zjfchsRYKmiqyQZSudl) | 3:43 |
-| 64 | [Shivering](https://open.spotify.com/track/10Q3ASy9okYt85040yV46c) | [ILLENIUM](https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg), [Spiritbox](https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW) | [Shivering](https://open.spotify.com/album/2dRmLEMsxRhidLzay43XP5) | 5:00 |
-| 65 | [You'll Never Find Me](https://open.spotify.com/track/0xcF2mC6MktbXOT7kRiXoF) | [Korn](https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD) | [The Nothing](https://open.spotify.com/album/6mWsWVsfWpoZ2d6uxm1ND1) | 3:40 |
+| 64 | [You'll Never Find Me](https://open.spotify.com/track/0xcF2mC6MktbXOT7kRiXoF) | [Korn](https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD) | [The Nothing](https://open.spotify.com/album/6mWsWVsfWpoZ2d6uxm1ND1) | 3:40 |
+| 65 | [Shivering](https://open.spotify.com/track/10Q3ASy9okYt85040yV46c) | [ILLENIUM](https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg), [Spiritbox](https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW) | [Shivering](https://open.spotify.com/album/2dRmLEMsxRhidLzay43XP5) | 5:00 |
 | 66 | [Raise Your Horns](https://open.spotify.com/track/6ypKaenmVXMCXvlkfYOpjf) | [Amon Amarth](https://open.spotify.com/artist/3pulcT2wt7FEG10lQlqDJL) | [Jomsviking](https://open.spotify.com/album/5LlHYLimFw8u8SPzbNAUhG) | 4:23 |
 | 67 | [The Past Is Dead](https://open.spotify.com/track/7M7AFtWYg73Kvj5cTZUjiZ) | [Beartooth](https://open.spotify.com/artist/6vwjIs0tbIiseJMR3pqwiL) | [Below](https://open.spotify.com/album/5AQKqldLehNX6p4rxFFwAz) | 3:35 |
 | 68 | [The Sinner](https://open.spotify.com/track/6tw3xex5JwBWxEQOn1bxRk) | [Memphis May Fire](https://open.spotify.com/artist/7cNNNhdJDrt3vgQjwSavNf) | [The Hollow](https://open.spotify.com/album/1iB7GXI9gk88JZBmwvOgo2) | 4:02 |
 | 69 | [Aftermath](https://open.spotify.com/track/6kjEZNcvRZZW1h4E6x8HJD) | [The Ghost Inside](https://open.spotify.com/artist/6kQB2RN7WwryMdJ1MoQh1E) | [The Ghost Inside](https://open.spotify.com/album/6bPHoxDscsiPULJBJE0b4Z) | 4:58 |
 | 70 | [Dirty Rotten Bizkit](https://open.spotify.com/track/0S6rmCEGfJhAf2vL6FE5pD) | [Limp Bizkit](https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb) | [STILL SUCKS](https://open.spotify.com/album/2lZ9RqGnGXH8gtH3DK02tJ) | 3:01 |
 
-Snapshot ID: `MCw4ZTBhZGIzOWI3NTkwNzJjNzUzNTMwZTc1NjZiMTM3YzI0NWE0MGI2`
+Snapshot ID: `MCw1NGJjYmRmZDQ0Y2VjMTk2ODI1YjMzNmUxMTA5NzQzYWE2NjNhNmE3`

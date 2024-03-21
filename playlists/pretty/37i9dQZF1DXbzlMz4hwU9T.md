@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbzlMz4hwU9T.md) - [plain]
 
 > Seré la gata bajo la lluvia..\. 😿
 
-[Spotify](https://open.spotify.com/user/spotify) - 83,418 likes - 100 songs - 6 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 83,493 likes - 100 songs - 6 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,8 +61,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbzlMz4hwU9T.md) - [plain]
 | 51 | [Vivo](https://open.spotify.com/track/5IfhLKhOBkHazqaoqFzH8G) | [Fobia](https://open.spotify.com/artist/3SqzxvGCKGJ9PYKXXPwjQS) | [Amor Chiquito](https://open.spotify.com/album/1oNccmu6KxWyQnGi9P7g5u) | 4:43 |
 | 52 | [Brass in Pocket \- 2006 Remaster](https://open.spotify.com/track/1QaJWSCk3UMKLotnPCIHh1) | [Pretenders](https://open.spotify.com/artist/0GByy3DcfbQwDvXGCWmzv9) | [Pretenders](https://open.spotify.com/album/6AFFu3ilmlEDz1I9ZaNOZw) | 3:05 |
 | 53 | [Desaparecido](https://open.spotify.com/track/5Hc7O2dX51NI4YcHPuoOpw) | [Manu Chao](https://open.spotify.com/artist/6wH6iStAh4KIaWfuhf0NYM) | [Clandestino](https://open.spotify.com/album/3xoAUqjKs7Ps7wR26VAMbq) | 3:47 |
-| 54 | [Dueles Tan Bien](https://open.spotify.com/track/75ncCwXqalTnnl6t1ruQRq) | [Bruses](https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y) | [Dueles Tan Bien](https://open.spotify.com/album/4EFml19fOt7aLf4EMhg8jq) | 2:54 |
-| 55 | [Pervert Pop Song \(Castigame\)](https://open.spotify.com/track/1ZzXHQ5ZAq46qZl5ifvMnn) | [Plastilina Mosh](https://open.spotify.com/artist/4PtVXWSOmF4Tox1jj6ctSq) | [All U Need Is Mosh](https://open.spotify.com/album/4rVRjklAbBsRF2rOJEL8nA) | 4:04 |
+| 54 | [Pervert Pop Song \(Castigame\)](https://open.spotify.com/track/1ZzXHQ5ZAq46qZl5ifvMnn) | [Plastilina Mosh](https://open.spotify.com/artist/4PtVXWSOmF4Tox1jj6ctSq) | [All U Need Is Mosh](https://open.spotify.com/album/4rVRjklAbBsRF2rOJEL8nA) | 4:04 |
+| 55 | [Dueles Tan Bien](https://open.spotify.com/track/75ncCwXqalTnnl6t1ruQRq) | [Bruses](https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y) | [Dueles Tan Bien](https://open.spotify.com/album/4EFml19fOt7aLf4EMhg8jq) | 2:54 |
 | 56 | [Lost in the Supermarket \- Remastered](https://open.spotify.com/track/72boGlgSwUK01n44O2tOCv) | [The Clash](https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS) | [London Calling \(Remastered\)](https://open.spotify.com/album/6FCzvataOZh68j8OKzOt9a) | 3:46 |
 | 57 | [Quiéreme Así](https://open.spotify.com/track/2bOw3b1eAOtYXzyaB63KXK) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [Quiéreme Así](https://open.spotify.com/album/5ugHOB3qvt50RpLkuoIYYN) | 3:08 |
 | 58 | [19 \(feat\. Gustavo Cerati\)](https://open.spotify.com/track/0mRmRzqq9vahlZoODOdLNQ) | [Emmanuel Horvilleur](https://open.spotify.com/artist/3Pc0Gebx1aAAJlZh3zysmI), [Gustavo Cerati](https://open.spotify.com/artist/1QOmebWGB6FdFtW7Bo3F0W) | [Mordisco](https://open.spotify.com/album/5rFPwHadhlLDXzNaPcOaYD) | 3:17 |
@@ -77,10 +77,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbzlMz4hwU9T.md) - [plain]
 | 67 | [Por Tu Olor](https://open.spotify.com/track/69gBnFLDtc2lub6xL0sfi9) | [El Kanka](https://open.spotify.com/artist/4Byu6VBhuMYzcoIUrIyLuL), [Jorge Drexler](https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt) | [El Arte de Saltar](https://open.spotify.com/album/6ZCnNpmcsTnDbQ8FcXqVGj) | 3:41 |
 | 68 | [Kilómetros](https://open.spotify.com/track/1AfAFpHJ7s4unBIhe3NM5j) | [Sin Bandera](https://open.spotify.com/artist/7xeM7V59cA1X8GKyKKQV87) | [Sin Bandera](https://open.spotify.com/album/01vioqAF5o29uDHYhXs6Vo) | 3:41 |
 | 69 | [No Choice](https://open.spotify.com/track/3kI3vRDwTbYs9O8svalUWu) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [The Slow Rush B\-Sides & Remixes](https://open.spotify.com/album/0PUdc9WBtlyjG9Ba9DPmKa) | 3:41 |
-| 70 | [Espiral](https://open.spotify.com/track/3LLMudAmQlHRqmD5BG3CQS) | [Porter](https://open.spotify.com/artist/7eBQrhxTHcor6gcbcLhqE5) | [Donde los Ponys Pastan](https://open.spotify.com/album/0trdxYmH6A4QEtdlbYWjtx) | 5:22 |
-| 71 | [Cerrar y abrir](https://open.spotify.com/track/6xr0Ba6BGFXegVtKi5LWPO) | [Los Tres](https://open.spotify.com/artist/4qXIYIWo6wRsN0lZxvgH6S) | [Hagalo usted mismo](https://open.spotify.com/album/7g7GPNhJJwqzVZ8tLWBUiU) | 4:14 |
-| 72 | [Heavy Wave](https://open.spotify.com/track/6nk1JuxsAZzxuQdqvyBkZI) | [Motorama](https://open.spotify.com/artist/3j0kMFxXTTYsuw1twLClw3) | [Poverty](https://open.spotify.com/album/18y3DE8cX1ptDjRVwgnmfb) | 3:29 |
-| 73 | [No Es Que No Te Quiera](https://open.spotify.com/track/2MZ8QFHGiHa5oQcF6nX8fX) | [Hello Seahorse!](https://open.spotify.com/artist/3vKxuOGRkXJWpCZPf01Nj8) | [Arunima](https://open.spotify.com/album/5niZ3fPZnNq0HELNUqmvqT) | 3:48 |
+| 70 | [Cerrar y abrir](https://open.spotify.com/track/6xr0Ba6BGFXegVtKi5LWPO) | [Los Tres](https://open.spotify.com/artist/4qXIYIWo6wRsN0lZxvgH6S) | [Hagalo usted mismo](https://open.spotify.com/album/7g7GPNhJJwqzVZ8tLWBUiU) | 4:14 |
+| 71 | [Espiral](https://open.spotify.com/track/3LLMudAmQlHRqmD5BG3CQS) | [Porter](https://open.spotify.com/artist/7eBQrhxTHcor6gcbcLhqE5) | [Donde los Ponys Pastan](https://open.spotify.com/album/0trdxYmH6A4QEtdlbYWjtx) | 5:22 |
+| 72 | [No Es Que No Te Quiera](https://open.spotify.com/track/2MZ8QFHGiHa5oQcF6nX8fX) | [Hello Seahorse!](https://open.spotify.com/artist/3vKxuOGRkXJWpCZPf01Nj8) | [Arunima](https://open.spotify.com/album/5niZ3fPZnNq0HELNUqmvqT) | 3:48 |
+| 73 | [Heavy Wave](https://open.spotify.com/track/6nk1JuxsAZzxuQdqvyBkZI) | [Motorama](https://open.spotify.com/artist/3j0kMFxXTTYsuw1twLClw3) | [Poverty](https://open.spotify.com/album/18y3DE8cX1ptDjRVwgnmfb) | 3:29 |
 | 74 | [Batismo](https://open.spotify.com/track/6UDWsYMH2MwgOxOS9sbnwC) | [Populous](https://open.spotify.com/artist/5Uy8Skuxzxf38jMDTndKIU), [RIVA](https://open.spotify.com/artist/2XDxxRIdkv0BotNB3Pd9uS) | [Azulejos](https://open.spotify.com/album/1hpTHSEosXRl8z47mcRL2J) | 3:11 |
 | 75 | [Mushaboom](https://open.spotify.com/track/66olzBxCgKlpFRB1LKH5pO) | [Feist](https://open.spotify.com/artist/6CWTBjOJK75cTE8Xv8u1kj) | [Let It Die](https://open.spotify.com/album/1dukVxiix2ckr6CMs1T1zI) | 3:44 |
 | 76 | [Double Cheese & Bacon \(feat\. Willie DeVille & Veztalone\)](https://open.spotify.com/track/6t6VYuRaisYZLynvLhizsF) | [Rawayana](https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2), [Jambene](https://open.spotify.com/artist/4u1dsEB1FKbGcdG0EAvxP8), [Irepelusa](https://open.spotify.com/artist/3KaNWDYObY73SDpcZBRzuw), [Veztalone](https://open.spotify.com/artist/5KhJh3jJOH5EkZiplQLw5h), [Willie DeVille](https://open.spotify.com/artist/18vnqu7XJRHPmua3tsejG5) | [Double Cheese & Bacon \(feat\. Willie DeVille & Veztalone\)](https://open.spotify.com/album/1zZxxzuPxKHMiQypEx54yx) | 4:13 |
@@ -105,8 +105,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbzlMz4hwU9T.md) - [plain]
 | 95 | [Lágrimas y Lluvia](https://open.spotify.com/track/1C0Na3mjjb5gX3VRjXDgHf) | [Daniel, Me Estás Matando](https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE), [Ramona](https://open.spotify.com/artist/3K8X4ZoPqijzc6QSP4eAQF) | [Lágrimas y Lluvia](https://open.spotify.com/album/6g3KpaqhOLhPQ1jWvjm7zc) | 3:36 |
 | 96 | [Si No Vas a Ser Tú](https://open.spotify.com/track/2vLFK4t0KQwNVQvnjGuMb8) | [Young Tender](https://open.spotify.com/artist/19g2jApswUTCNqXFxx2lAx) | [Si No Vas a Ser Tú](https://open.spotify.com/album/4gaVr59Phf6qtOHIGe12Bk) | 3:49 |
 | 97 | [Se Me Pasó](https://open.spotify.com/track/7q6uwjL8IQ4cTJplzwdqu6) | [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL), [BCN](https://open.spotify.com/artist/1M3oDOCXXZVkIlXPp5gAKd), [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4) | [Se Me Pasó](https://open.spotify.com/album/3JrWWDWTNdrsHX9QZf2ya3) | 3:59 |
-| 98 | [Dividido](https://open.spotify.com/track/6EF2wGmHfnKSVjR3t6Ufwd) | [Alex Cuba](https://open.spotify.com/artist/7gZRUp2WL6r11PXTv309P1), [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Dividido](https://open.spotify.com/album/2OygT6vALfqvnQD1heNxZC) | 3:34 |
-| 99 | [Malas Amistades](https://open.spotify.com/track/1fVVT89PhHDh9COdU5DB9B) | [Vanessa Zamora](https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC) | [Tornaluna](https://open.spotify.com/album/0PY6ZHeBBwSkJxt85dzyz8) | 4:10 |
-| 100 | [Norte \- Bonus](https://open.spotify.com/track/0q78AOChXaZc2esoLmhSiW) | [Little Jesus](https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit) | [Norte \(Japanese Version\)](https://open.spotify.com/album/7I2F6vmsx0y0tevvFi6Luo) | 5:03 |
+| 98 | [Malas Amistades](https://open.spotify.com/track/1fVVT89PhHDh9COdU5DB9B) | [Vanessa Zamora](https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC) | [Tornaluna](https://open.spotify.com/album/0PY6ZHeBBwSkJxt85dzyz8) | 4:10 |
+| 99 | [Dividido](https://open.spotify.com/track/6EF2wGmHfnKSVjR3t6Ufwd) | [Alex Cuba](https://open.spotify.com/artist/7gZRUp2WL6r11PXTv309P1), [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Dividido](https://open.spotify.com/album/2OygT6vALfqvnQD1heNxZC) | 3:34 |
+| 100 | [Past Lives](https://open.spotify.com/track/3niAKlruycaPFNVSSBwCdT) | [DIIV](https://open.spotify.com/artist/4OrizGCKhOrW6iDDJHN9xd) | [Oshin](https://open.spotify.com/album/1OgEi1Ss26Aq9S5sK848fh) | 2:21 |
 
-Snapshot ID: `MCw5NTI3ZjA5NzdkZTQ0OWM2YTc2ODgxZGU3NWRiMzY2MjMwNDBmNzE1`
+Snapshot ID: `MCw2Y2M0MzA2MWE4ZmI3NTEwNmIxMWQ3YzE3NThlYzU3YzBhMWRjMzQ5`

@@ -4,7 +4,7 @@
 
 > Emo feels for the misunderstood\. Cover: iann dior
 
-940 songs - 1 day 18 hr 37 min
+941 songs - 1 day 18 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -397,7 +397,8 @@
 | [i remember how your lips still taste](https://open.spotify.com/track/2hqQJzu0QzkFfkqXJgDqoq) | [sadeyes](https://open.spotify.com/artist/5fj4oi7qHDoklvnnYmSBl0) | [i remember how your lips still taste](https://open.spotify.com/album/7Mucc93sEq1ZytQqNZcGxP) | 2:24 | 2024-02-23 |  |
 | [I Think You Should Go](https://open.spotify.com/track/7cRfC6VZyy8r985B31baJA) | [iann dior](https://open.spotify.com/artist/6ASri4ePR7RlsvIQgWPJpS) | [BLIND](https://open.spotify.com/album/3KwHPX5p6O8VgJVoL5YgWj) | 2:23 | 2024-03-01 |  |
 | [i think you're really cool](https://open.spotify.com/track/78cIbVjU1xn7mbQ9i35avl) | [guardin](https://open.spotify.com/artist/6zqcGQ6MH6yetBUoquMnL7) | [i think you're really cool](https://open.spotify.com/album/5MwIUCqx7rO5LQpS3KOzW6) | 2:40 | 2022-07-22 | 2022-09-24 |
-| [i walk this earth all by myself](https://open.spotify.com/track/5a8QUc4ubHJqQm7vzs2YhA) | [EKKSTACY](https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH) | [i walk this earth all by myself](https://open.spotify.com/album/6tdl27ojBwZ5ZexzZOP4mG) | 2:25 | 2021-03-31 |  |
+| [i walk this earth all by myself](https://open.spotify.com/track/5a8QUc4ubHJqQm7vzs2YhA) | [EKKSTACY](https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH) | [i walk this earth all by myself](https://open.spotify.com/album/6tdl27ojBwZ5ZexzZOP4mG) | 2:25 | 2021-03-31 | 2024-03-21 |
+| [i walk this earth all by myself](https://open.spotify.com/track/6oofvZ4K8vBHnCT1oKERcd) | [EKKSTACY](https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH) | [NEGATIVE](https://open.spotify.com/album/2momrvUqAMigmBoOOKuavE) | 2:25 | 2024-02-02 |  |
 | [I Was Wrong](https://open.spotify.com/track/4ukPrlH60dvXKoBzXexjib) | [Kill Red](https://open.spotify.com/artist/23DVe5LDb89r0z5wmSjNSc), [Suckerpunk](https://open.spotify.com/artist/2L8M2YfSc8u0pqdWmWwjhe) | [I Was Wrong](https://open.spotify.com/album/3c18vCCkfHwQrprrWjbgpa) | 2:39 | 2020-12-13\* | 2021-01-15 |
 | [i will wait](https://open.spotify.com/track/1YXVMeN337f44L0fQIAqpL) | [Prentiss](https://open.spotify.com/artist/0uzKt8lgkTlxm4OUWiCX3H) | [i will wait](https://open.spotify.com/album/5DTaoaiBbc6L1OPyA5aSiA) | 2:07 | 2021-10-29 | 2022-04-11 |
 | [I Won't Beg for You](https://open.spotify.com/track/6krUUNp4e2mIOzNzRIexdY) | [Chri$tian Gate$](https://open.spotify.com/artist/0OEYE03fBF2VoTBxGuaUxL) | [I Won't Beg for You](https://open.spotify.com/album/5OyOJw6cJrHZkBp6Qns0Wz) | 2:03 | 2023-05-23 | 2023-09-02 |
@@ -917,9 +918,9 @@
 | [WORLD](https://open.spotify.com/track/6M3ptLy6a66pKAsqrsRIac) | [Lonr.](https://open.spotify.com/artist/2FIGTfXnX4gR3ypjQVPVlJ) | [WORLD](https://open.spotify.com/album/0a1p0zXfILuWg3sNZ7FnSW) | 3:20 | 2020-12-18 | 2021-01-05 |
 | [World a Fuck](https://open.spotify.com/track/2dXB7f4cfJNvDZUQg7uS6S) | [sweetiele](https://open.spotify.com/artist/7HW7euBVtNogyNZMxGXFmU) | [World a Fuck](https://open.spotify.com/album/0F0cImXPor0LIeUOPHP66t) | 3:00 | 2024-02-02 | 2024-03-17 |
 | [World's a Fuck](https://open.spotify.com/track/204e7FPwiedVDmjKIgnnkP) | [Sematarik](https://open.spotify.com/artist/31o8VFTitHtHTqY7a64iSG) | [Laughing Through the Pain](https://open.spotify.com/album/5sbyv8AtRLssEzg5M6J80f) | 2:58 | 2023-10-11 | 2024-01-18 |
-| [Worlds A Fuck](https://open.spotify.com/track/4IuwtuAQlQxnDn7V967QDd) | [Natalie Sobotková](https://open.spotify.com/artist/2Po0Ovgds5ItFpXDiDFX5r), [stack$](https://open.spotify.com/artist/5L8sOhELDubWJgQubXCPcK) | [Emperor Road](https://open.spotify.com/album/5nlZtZWiMDwhyajIWDLmLZ) | 3:00 | 2024-02-02 |  |
+| [Worlds A Fuck](https://open.spotify.com/track/4IuwtuAQlQxnDn7V967QDd) | [Natalie Sobotková](https://open.spotify.com/artist/2Po0Ovgds5ItFpXDiDFX5r), [stack$](https://open.spotify.com/artist/5L8sOhELDubWJgQubXCPcK) | [Emperor Road](https://open.spotify.com/album/5nlZtZWiMDwhyajIWDLmLZ) | 3:00 | 2024-02-02 | 2024-03-21 |
 | [Worlds a Fuck](https://open.spotify.com/track/1bie3CEnQNnp0Qa5pph1py) | [stack$](https://open.spotify.com/artist/3LbI3jgW1i4L37xd9Sm0rJ) | [Worlds a Fuck](https://open.spotify.com/album/1bwCPNJJwOvUxIL6C0etEm) | 3:00 | 2023-10-11 | 2023-11-12 |
-| [Worlds a Fuck](https://open.spotify.com/track/0cZrfkTmWH9jCR8CRYl4LV) | [stack$](https://open.spotify.com/artist/5L8sOhELDubWJgQubXCPcK) | [Emperor Road](https://open.spotify.com/album/6Gu2V3lKh7njXbN5JvYJJI) | 3:00 | 2023-10-11 | 2024-03-19 |
+| [Worlds a Fuck](https://open.spotify.com/track/0cZrfkTmWH9jCR8CRYl4LV) | [stack$](https://open.spotify.com/artist/5L8sOhELDubWJgQubXCPcK) | [Emperor Road](https://open.spotify.com/album/6Gu2V3lKh7njXbN5JvYJJI) | 3:00 | 2023-10-11 |  |
 | [Worlds A Fuck](https://open.spotify.com/track/6KOgmHp7R9ZXIemshIs1J5) | [stack$](https://open.spotify.com/artist/5L8sOhELDubWJgQubXCPcK), [dyingoutlay](https://open.spotify.com/artist/6vFGEdlUL64DHxlLPbhCAa) | [Emperor Road](https://open.spotify.com/album/4bg5HL2itZt0U9wb2oXPj5) | 3:00 | 2023-10-11 | 2023-11-05 |
 | [Worlds a Fuck](https://open.spotify.com/track/1103A9Sw6iNIP0lEmJTPaf) | [VampLeaks](https://open.spotify.com/artist/5AmviRRg2anzRgjnztq4sX) | [Worlds a Fuck](https://open.spotify.com/album/3X8e4A4EVZj9yQmomczHT0) | 2:58 | 2023-10-11 | 2023-11-11 |
 | [Would Look Perfect](https://open.spotify.com/track/2L2mNkEWo818IE4fKbnP0O) | [Powfu](https://open.spotify.com/artist/6bmlMHgSheBauioMgKv2tn), [Rxseboy](https://open.spotify.com/artist/1ScHz7wPPxVTEKsc9g3Z0c) | [Letter's You Never Received](https://open.spotify.com/album/6Kw08aAjdRBrDbDXYiZk4P) | 2:29 | 2021-02-23 | 2021-03-14 |

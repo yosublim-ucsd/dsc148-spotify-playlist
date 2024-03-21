@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4DJLSJvJ3bH.md) - [plain]
 
 > All your favourite holiday jazz classics for your christmas dinner party.
 
-[Spotify](https://open.spotify.com/user/spotify) - 119,073 likes - 125 songs - 6 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 119,058 likes - 125 songs - 6 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,9 +32,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4DJLSJvJ3bH.md) - [plain]
 | 22 | [All I Want For Christmas \(Is My Two Front Teeth\)](https://open.spotify.com/track/4xXMJbzVQSCyprr4PG5sBj) | [Nat King Cole Trio](https://open.spotify.com/artist/3OpnoUqoRIHWbsFs4Nw0NQ) | [Christmas Classics](https://open.spotify.com/album/3f22Ap0VSZYWsqrGcphUnY) | 2:31 |
 | 23 | [It's Not Christmas 'Til You Come Home \- Recorded At Spotify Studios NYC](https://open.spotify.com/track/5DoGwwQAlYumpSSlDNMOwY) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N) | [Spotify Singles \- Holiday](https://open.spotify.com/album/1knkuS0R3qoY1pmwYrMQ4N) | 3:12 |
 | 24 | [The Chipmunk Song](https://open.spotify.com/track/0fQOIeqzT092q2p8wDDBYl) | [Sonny Magic Trio](https://open.spotify.com/artist/5UBpgvMO0TGIUiuD69RAP3) | [Have Yourself a Merry Little Christmas](https://open.spotify.com/album/3owNP9iL5Db7iKu7JEyWEg) | 2:43 |
-| 25 | [Greensleeves](https://open.spotify.com/track/2H9zsdAjaue3tkg4d27jRm) | [Vince Guaraldi Trio](https://open.spotify.com/artist/4ytkhMSAnrDP8XzRNlw9FS) | [A Charlie Brown Christmas \[2012 Remastered & Expanded Edition\]](https://open.spotify.com/album/2XnNY3GEkbWHor5kyvXLu4) | 5:29 |
-| 26 | [Happy Holiday](https://open.spotify.com/track/2Zmibx9TsizyFYCJFWnJXc) | [Zander Jazz Trio](https://open.spotify.com/artist/5QBHt7kiJsvbsdJx30kMhl) | [A Jazzy Christmas](https://open.spotify.com/album/5Ov8mmEM065VnF8glNLZUH) | 5:07 |
-| 27 | [Feliz navidad](https://open.spotify.com/track/465nAxOI5pErqke80RoQTF) | [Norberg](https://open.spotify.com/artist/4clALHmaxBpsJ0aWHb3Rdy) | [Feliz navidad](https://open.spotify.com/album/3gmuUZ1smESdC9G30KXUBU) | 2:03 |
+| 25 | [Feliz navidad](https://open.spotify.com/track/465nAxOI5pErqke80RoQTF) | [Norberg](https://open.spotify.com/artist/4clALHmaxBpsJ0aWHb3Rdy) | [Feliz navidad](https://open.spotify.com/album/3gmuUZ1smESdC9G30KXUBU) | 2:03 |
+| 26 | [Greensleeves](https://open.spotify.com/track/2H9zsdAjaue3tkg4d27jRm) | [Vince Guaraldi Trio](https://open.spotify.com/artist/4ytkhMSAnrDP8XzRNlw9FS) | [A Charlie Brown Christmas \[2012 Remastered & Expanded Edition\]](https://open.spotify.com/album/2XnNY3GEkbWHor5kyvXLu4) | 5:29 |
+| 27 | [Happy Holiday](https://open.spotify.com/track/2Zmibx9TsizyFYCJFWnJXc) | [Zander Jazz Trio](https://open.spotify.com/artist/5QBHt7kiJsvbsdJx30kMhl) | [A Jazzy Christmas](https://open.spotify.com/album/5Ov8mmEM065VnF8glNLZUH) | 5:07 |
 | 28 | [Once in Royal David's City](https://open.spotify.com/track/68ugUmH1wjIN0vCR98sC7G) | [Red Brick Lane](https://open.spotify.com/artist/2zw8MpGMCASv0YfeAuUUzJ) | [Once in Royal David's City](https://open.spotify.com/album/5dDT9Nh3MCITsacmvIv6lp) | 2:45 |
 | 29 | [Tis the season](https://open.spotify.com/track/7lA5vslbewlQUi7gRiAbOJ) | [Wonder Eve](https://open.spotify.com/artist/2UWIuNSfLubqitB2Kf0rAa) | [Tis the season](https://open.spotify.com/album/02lApfaX6ADtpenYYHS3nC) | 3:34 |
 | 30 | [In the Bleak Midwinter](https://open.spotify.com/track/5QCub19WJvIa3TDtJaHl8I) | [Charlie James\-Walker](https://open.spotify.com/artist/7apm9TJQ66v5ykLahf9B3U) | [I Saw Three Ships](https://open.spotify.com/album/72Eg5ywjro4gFFqgG8ewqS) | 2:27 |
@@ -127,11 +127,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4DJLSJvJ3bH.md) - [plain]
 | 117 | [You Don't Have To Be A Santa Claus \(When Christmas Comes Around\)](https://open.spotify.com/track/4lsCXRfZRJYuD9zCHZhFav) | [The Mills Brothers](https://open.spotify.com/artist/5v8bwWRbu7AI3YFhzoM6Ha) | [Merry Christmas](https://open.spotify.com/album/4v2byuh7XMZGBrYjH3XnBx) | 2:46 |
 | 118 | [Last Christmas](https://open.spotify.com/track/2E55IaqlqMsF0NxU7oIIpC) | [Armel Dupas Trio](https://open.spotify.com/artist/6Bnvdx2Rqxe2ewzFxObRdU) | [Jingle Bells](https://open.spotify.com/album/4MC3Lul2Dm1ooAtGVARP0a) | 3:45 |
 | 119 | [Christmas Bells](https://open.spotify.com/track/1es9yJEFoaY0ndi3AaesDx) | [Perry Como](https://open.spotify.com/artist/5v8jlSmAQfrkTjAlpUfWtu) | [Greatest Christmas Songs](https://open.spotify.com/album/4lculT3R9mxFqdmXOCLuY7) | 2:43 |
-| 120 | [Happy Xmas](https://open.spotify.com/track/4Be9ytN4YwdiRwZMldKqzo) | [Tannenbaum Trio](https://open.spotify.com/artist/5o0nK5sGCqA1E4MTOCgpSn) | [Happy Xmas](https://open.spotify.com/album/79KEShiLANv3mCRiMRFQ9Y) | 2:32 |
-| 121 | [The Time of the Year](https://open.spotify.com/track/5QgDnPnQrHvM9x9p67XAYg) | [Niklas Gabrielsson with Martin Landström & His Orchestra](https://open.spotify.com/artist/6tXmWC5IoHPCCyKzg9Pgjm) | [The Time of the Year](https://open.spotify.com/album/3uhQZntd41T2H4mL5eO6w8) | 3:28 |
+| 120 | [The Time of the Year](https://open.spotify.com/track/5QgDnPnQrHvM9x9p67XAYg) | [Niklas Gabrielsson with Martin Landström & His Orchestra](https://open.spotify.com/artist/6tXmWC5IoHPCCyKzg9Pgjm) | [The Time of the Year](https://open.spotify.com/album/3uhQZntd41T2H4mL5eO6w8) | 3:28 |
+| 121 | [Happy Xmas](https://open.spotify.com/track/4Be9ytN4YwdiRwZMldKqzo) | [Tannenbaum Trio](https://open.spotify.com/artist/5o0nK5sGCqA1E4MTOCgpSn) | [Happy Xmas](https://open.spotify.com/album/79KEShiLANv3mCRiMRFQ9Y) | 2:32 |
 | 122 | [Santa Claus Blues \- Remastered 2004](https://open.spotify.com/track/2Hm0sak8kDUjhGTQfHzPjq) | [Bob Brookmeyer](https://open.spotify.com/artist/3aM9H4QBnPUo6mnNVufAtN) | [The Capitol Vaults Jazz Series](https://open.spotify.com/album/4S6Mb14EIOM4aIrBf3i9x3) | 5:46 |
 | 123 | [We Wish You A Merry Christmas](https://open.spotify.com/track/7sqKpLs0CUelnUekGEhHwW) | [Rasmus H Thomsen Trio](https://open.spotify.com/artist/5Ep05EOVNYVc5b5trOuDI1), [Krydda Sundström](https://open.spotify.com/artist/6dI8O0N6q3qFU8OgvgpEIm), [Oskar Cederblad](https://open.spotify.com/artist/2FglkJbc16UM02HY1VovVM) | [We Wish You A Merry Christmas](https://open.spotify.com/album/506rp9HRzW8Eu1Cmnlo0rg) | 2:41 |
 | 124 | [Toyland](https://open.spotify.com/track/4rOpf9iZxgQLSALGHsYvk4) | [Stephen Stevens Quartet](https://open.spotify.com/artist/0sHjwkrwfeNPET9gG2nNfQ) | [Santa Claus Is Coming To Town](https://open.spotify.com/album/29NEpWZtAc1pKuVl6LvEvm) | 2:54 |
 | 125 | [Christmas Rainbows](https://open.spotify.com/track/3YriJtNU0FTmdTE8vZUaxd) | [Joe Williams](https://open.spotify.com/artist/7FMGtucexJvUxVz7scydEL) | [That Holiday Feelin'](https://open.spotify.com/album/73x03sZD5Xkb6cOqbJ5R1j) | 5:13 |
 
-Snapshot ID: `MCwxMjEwOTY4NjM3YjJmNjY3ODFjMTExZjNlM2U3M2RkM2Y2Yjc4Njdk`
+Snapshot ID: `MCxmMzMxYjk4YWExYmE2M2Y5ZDY0YTQ0ZDg2OGFhNmE0MTk3YjZiYjcw`

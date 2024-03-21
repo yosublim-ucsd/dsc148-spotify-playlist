@@ -1,5 +1,5 @@
 {
-  "2024-03-20": 1208799,
+  "2024-03-21": 1209352,
   "date_first_scraped": "2022-05-30",
   "description": "Ultimate 101 Punjabi Hits with AP Dhillon & Shinda Kahlon",
   "name": "Punjabi 101",
@@ -2130,6 +2130,32 @@
     },
     {
       "album": {
+        "name": "Ek Tha Raja",
+        "url": "https://open.spotify.com/album/0LcyzKKw3RjFKL6ygISTeU"
+      },
+      "artists": [
+        {
+          "name": "Badshah",
+          "url": "https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1"
+        },
+        {
+          "name": "Karan Aujla",
+          "url": "https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ"
+        },
+        {
+          "name": "Hiten",
+          "url": "https://open.spotify.com/artist/597A6e3D22Vq4gxyh4mUjh"
+        }
+      ],
+      "date_added": "2024-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167234,
+      "name": "God Damn",
+      "url": "https://open.spotify.com/track/209QxKVJzh2FLUmZHpYs4m"
+    },
+    {
+      "album": {
         "name": "GODSPEED",
         "url": "https://open.spotify.com/album/7JCjmMD0sZ2kk1oXdh83z0"
       },
@@ -3595,7 +3621,7 @@
       ],
       "date_added": "2023-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-20",
       "duration_ms": 156426,
       "name": "Mexico",
       "url": "https://open.spotify.com/track/0mNxYkKtXVY9HcFTuTmSPP"

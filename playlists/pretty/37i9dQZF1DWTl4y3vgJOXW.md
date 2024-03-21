@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTl4y3vgJOXW.md) - [plain]
 
 ### [Locked In](https://open.spotify.com/playlist/37i9dQZF1DWTl4y3vgJOXW)
 
-> Fourth quarter, two minutes left .\. get locked in\. Cover: Donovan Clingan and Tristen Newton
+> Fourth quarter, two minutes left .\. get locked in\. Cover: Jamal Shead and L.J\. Cryer
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,198,656 likes - 77 songs - 3 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,201,355 likes - 77 songs - 3 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -86,4 +86,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTl4y3vgJOXW.md) - [plain]
 | 76 | [Turks \(feat\. Travis Scott\)](https://open.spotify.com/track/0lSZh5W0wDeurkGzLYY6hf) | [NAV](https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [Turks](https://open.spotify.com/album/2nfOFXxNyf61geA17cW6e6) | 2:41 |
 | 77 | [Never Sleep \(with Lil Baby feat\. Travis Scott\)](https://open.spotify.com/track/3GdWfmQBiiJrDUvSZS1bGv) | [NAV](https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [Never Sleep](https://open.spotify.com/album/4DTaEd8bTR412zUcBqv2VN) | 3:05 |
 
-Snapshot ID: `MCwzNzE5NmMwNWE2M2FmOGQ1N2I4ZTkyZmJmZDgxZjUwMTZkYjRhZTEz`
+Snapshot ID: `MCw4ODZlMmYzZWRlMDBhN2U1NWFjOWQwNjllNDJmZGM5Mzg3NmU0YTI4`

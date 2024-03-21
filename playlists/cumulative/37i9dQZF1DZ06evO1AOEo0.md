@@ -4,7 +4,7 @@
 
 > This is Shane & Shane\. The essential tracks, all in one playlist.
 
-65 songs - 5 hr 20 min
+66 songs - 5 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,6 +24,7 @@
 | [Come Thou Fount \(Above All Else\)](https://open.spotify.com/track/5yZcK6LIBxD6Ia5vYuEr6v) | [Shane & Shane](https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied) | [Hymns, Vol\. 1](https://open.spotify.com/album/2LE9j1hE1bGMiRK4KUdiEF) | 5:51 | 2023-03-17 |  |
 | [Draw Me Close](https://open.spotify.com/track/4cXn1bMqeZjyE65Ajl3Au8) | [Shane & Shane](https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied) | [Vintage](https://open.spotify.com/album/4qbhfbCJvCjkFlXfFJ8fxu) | 5:54 | 2023-03-17 |  |
 | [Give Me Jesus](https://open.spotify.com/track/0RsaQMxAuonHIVM7pjQm6S) | [Shane & Shane](https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied) | [Hymns, Vol\. 1](https://open.spotify.com/album/2LE9j1hE1bGMiRK4KUdiEF) | 4:42 | 2023-03-17 |  |
+| [Goodness of God](https://open.spotify.com/track/55TW6H9X6pMfiOhmPk4luE) | [The Worship Initiative](https://open.spotify.com/artist/1bMkQIx4MpNHLxoylvipdQ), [Shane & Shane](https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied), [Bethany Barnard](https://open.spotify.com/artist/7Gv0LZfeF8TMugerDVAMDk) | [The Worship Initiative, Vol\. 17](https://open.spotify.com/album/0cxR2OoCW1u1F2wAWciDjZ) | 5:04 | 2024-03-20 |  |
 | [Great I Am](https://open.spotify.com/track/21ttJ3sHDRuWEQqOCzbKLv) | [The Worship Initiative](https://open.spotify.com/artist/1bMkQIx4MpNHLxoylvipdQ), [Shane & Shane](https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied) | [The Worship Initiative, Vol\. 12](https://open.spotify.com/album/2vjhzwPDUzGP8Rp2iddddV) | 4:21 | 2023-03-17 | 2024-01-29 |
 | [Great Is Thy Faithfulness](https://open.spotify.com/track/73ZGW3v5caUFBsHSkQQfpX) | [The Worship Initiative](https://open.spotify.com/artist/1bMkQIx4MpNHLxoylvipdQ), [Shane & Shane](https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied) | [The Worship Initiative, Vol\. 6](https://open.spotify.com/album/5EXvIcWFtIjQOIe4aWd6Vw) | 4:31 | 2023-03-17 |  |
 | [Great Things](https://open.spotify.com/track/5BsG3NwkHDcCHtvvBnUmVb) | [The Worship Initiative](https://open.spotify.com/artist/1bMkQIx4MpNHLxoylvipdQ), [Shane & Shane](https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied) | [The Worship Initiative, Vol\. 18](https://open.spotify.com/album/1cNnDUzgbdJG0i4GVrb609) | 4:49 | 2023-03-17 | 2023-09-10 |
@@ -47,7 +48,7 @@
 | [O for a Thousand Tongues to Sing](https://open.spotify.com/track/1QVSsndsS0mi29RrT33f88) | [The Worship Initiative](https://open.spotify.com/artist/1bMkQIx4MpNHLxoylvipdQ), [Shane & Shane](https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied) | [O for a Thousand Tongues to Sing](https://open.spotify.com/album/0pulAd7U6v0q0uUsXjcqYx) | 4:08 | 2024-01-11 | 2024-03-16 |
 | [O Praise the Name \(Live\)](https://open.spotify.com/track/06JooBbucchucT6w3HaMlR) | [Shane & Shane](https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied) | [Psalms Live](https://open.spotify.com/album/3UzKQzSKz9lo1rGBDm7iFv) | 4:52 | 2023-03-17 |  |
 | [Our God Is Greater](https://open.spotify.com/track/61jQN64QwaHBfXidHeBU0H) | [Shane & Shane](https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied) | [Dare 2 Share \- Unending Worship](https://open.spotify.com/album/7ijXWwAzI9UQwbUrFv7Dvd) | 4:42 | 2023-03-17 |  |
-| [Power of the Cross](https://open.spotify.com/track/3HWxZ9nQ7h30D8DupavEGv) | [Shane & Shane](https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied) | [Hymns, Vol\. 2](https://open.spotify.com/album/7lNYY32MRpKbPtzOpRpBC4) | 6:03 | 2024-03-15 |  |
+| [Power of the Cross](https://open.spotify.com/track/3HWxZ9nQ7h30D8DupavEGv) | [Shane & Shane](https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied) | [Hymns, Vol\. 2](https://open.spotify.com/album/7lNYY32MRpKbPtzOpRpBC4) | 6:03 | 2024-03-15 | 2024-03-21 |
 | [Promises](https://open.spotify.com/track/4lCpzh6KbskACgEx1OAPHu) | [The Worship Initiative](https://open.spotify.com/artist/1bMkQIx4MpNHLxoylvipdQ), [Shane & Shane](https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied), [Trenton Bell](https://open.spotify.com/artist/5erQxNPoPplRxZ7eS4c37M), [Davy Flowers](https://open.spotify.com/artist/36Jk5sBdoGWR9iP4GX49EU) | [The Worship Initiative, Vol\. 22](https://open.spotify.com/album/0CmnHXF54fEkpmW2qNwwSp) | 5:01 | 2023-03-17 |  |
 | [Psalm 139 \(Far Too Wonderful\)](https://open.spotify.com/track/3MS8o3UWQkGdFmhQ8vrFDP) | [Shane & Shane](https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied) | [Psalms, Vol\. 2](https://open.spotify.com/album/6pwAGIb6tyzhbsxmEeoTYu) | 5:12 | 2023-03-17 |  |
 | [Psalm 23 \(Surely Goodness, Surely Mercy\)](https://open.spotify.com/track/2Zxili8AmCuqiomg9HzTgH) | [Shane & Shane](https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied) | [Psalms, Vol\. 2](https://open.spotify.com/album/6pwAGIb6tyzhbsxmEeoTYu) | 4:47 | 2023-03-17 |  |

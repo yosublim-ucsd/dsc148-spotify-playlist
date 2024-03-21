@@ -1,12 +1,12 @@
 {
   "description": "remember when we were dark and brooding. Cover: CHVRCHES\n",
-  "num_followers": 29878,
+  "num_followers": 29908,
   "original_name": "bitter/sweet",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzYTAwNzEwOWRmMWY0ZWJlOWE5YzIyMjM2NjNiNjYxYzk4NDg2NWFk",
+  "snapshot_id": "MCxiMzg3NzkxOWU5MjMwZTUxM2FiMGQ2ZGU2MjI5NDc5NWQxMTE0NTJl",
   "tracks": [
     {
       "added_at": "2024-03-04 16:08:51",
@@ -387,22 +387,6 @@
     {
       "added_at": "2024-03-04 16:08:51",
       "album": {
-        "name": "Heartthrob",
-        "url": "https://open.spotify.com/album/5IUJ6v408Z7pECC3BXUJxX"
-      },
-      "artists": [
-        {
-          "name": "Tegan and Sara",
-          "url": "https://open.spotify.com/artist/5e1BZulIiYWPRm8yogwUYH"
-        }
-      ],
-      "duration_ms": 209280,
-      "name": "Closer",
-      "url": "https://open.spotify.com/track/4dTVgHZFPlaq9nPbLVVLSG"
-    },
-    {
-      "added_at": "2024-03-04 16:08:51",
-      "album": {
         "name": "Bop City",
         "url": "https://open.spotify.com/album/5hejwRvyklqZbpNfkAMjff"
       },
@@ -415,6 +399,22 @@
       "duration_ms": 175776,
       "name": "3 Strikes",
       "url": "https://open.spotify.com/track/1mZF9TEc7gpw7by7NCZSKr"
+    },
+    {
+      "added_at": "2024-03-04 16:08:51",
+      "album": {
+        "name": "Heartthrob",
+        "url": "https://open.spotify.com/album/5IUJ6v408Z7pECC3BXUJxX"
+      },
+      "artists": [
+        {
+          "name": "Tegan and Sara",
+          "url": "https://open.spotify.com/artist/5e1BZulIiYWPRm8yogwUYH"
+        }
+      ],
+      "duration_ms": 209280,
+      "name": "Closer",
+      "url": "https://open.spotify.com/track/4dTVgHZFPlaq9nPbLVVLSG"
     },
     {
       "added_at": "2024-03-04 16:08:51",
@@ -535,6 +535,26 @@
     {
       "added_at": "2024-03-04 16:08:51",
       "album": {
+        "name": "A Real Hero",
+        "url": "https://open.spotify.com/album/73c34KIp08yd4Jp0mkufmV"
+      },
+      "artists": [
+        {
+          "name": "College",
+          "url": "https://open.spotify.com/artist/11TlWPqyDFLHGccTFQhcc6"
+        },
+        {
+          "name": "Electric Youth",
+          "url": "https://open.spotify.com/artist/45YbCFM0an4hsEXMdQ4k3b"
+        }
+      ],
+      "duration_ms": 267847,
+      "name": "A Real Hero",
+      "url": "https://open.spotify.com/track/53b1icRPhYU9dvy8p1qZkS"
+    },
+    {
+      "added_at": "2024-03-04 16:08:51",
+      "album": {
         "name": "Scream Drive Faster",
         "url": "https://open.spotify.com/album/2Sr4PjxeH0SrquSDMPZF7m"
       },
@@ -563,26 +583,6 @@
       "duration_ms": 214555,
       "name": "Touch",
       "url": "https://open.spotify.com/track/2ylVfK4pVfeSV4zxieyT2B"
-    },
-    {
-      "added_at": "2024-03-04 16:08:51",
-      "album": {
-        "name": "A Real Hero",
-        "url": "https://open.spotify.com/album/73c34KIp08yd4Jp0mkufmV"
-      },
-      "artists": [
-        {
-          "name": "College",
-          "url": "https://open.spotify.com/artist/11TlWPqyDFLHGccTFQhcc6"
-        },
-        {
-          "name": "Electric Youth",
-          "url": "https://open.spotify.com/artist/45YbCFM0an4hsEXMdQ4k3b"
-        }
-      ],
-      "duration_ms": 267847,
-      "name": "A Real Hero",
-      "url": "https://open.spotify.com/track/53b1icRPhYU9dvy8p1qZkS"
     },
     {
       "added_at": "2024-03-04 16:08:51",
@@ -619,6 +619,22 @@
     {
       "added_at": "2024-03-04 16:08:51",
       "album": {
+        "name": "LP1",
+        "url": "https://open.spotify.com/album/070rEVRV6FWywkncMWLhs6"
+      },
+      "artists": [
+        {
+          "name": "FKA twigs",
+          "url": "https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH"
+        }
+      ],
+      "duration_ms": 247547,
+      "name": "Two Weeks",
+      "url": "https://open.spotify.com/track/7E66uxFz2NtHWAyiGXotha"
+    },
+    {
+      "added_at": "2024-03-04 16:08:51",
+      "album": {
         "name": "Can't Help But Think About You",
         "url": "https://open.spotify.com/album/4n8C4vGUmvNgpy4DO34Www"
       },
@@ -635,22 +651,6 @@
       "duration_ms": 208185,
       "name": "Can't Help But Think About You",
       "url": "https://open.spotify.com/track/43noj7erQp0en3LWB5pBF4"
-    },
-    {
-      "added_at": "2024-03-04 16:08:51",
-      "album": {
-        "name": "LP1",
-        "url": "https://open.spotify.com/album/070rEVRV6FWywkncMWLhs6"
-      },
-      "artists": [
-        {
-          "name": "FKA twigs",
-          "url": "https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH"
-        }
-      ],
-      "duration_ms": 247547,
-      "name": "Two Weeks",
-      "url": "https://open.spotify.com/track/7E66uxFz2NtHWAyiGXotha"
     },
     {
       "added_at": "2024-03-04 16:08:51",

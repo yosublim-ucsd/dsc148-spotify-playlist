@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZnA0FshBt4S.md) - [plain]
 
 > The very best songs that soundtracked Youth Groups of the 90s & early 00s! Cover: DC Talk
 
-[Spotify](https://open.spotify.com/user/spotify) - 105,237 likes - 75 songs - 5 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 105,267 likes - 75 songs - 5 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,8 +58,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZnA0FshBt4S.md) - [plain]
 | 48 | [Get Down](https://open.spotify.com/track/3PTHCjyRYLVMVxeUX59joC) | [Audio Adrenaline](https://open.spotify.com/artist/01PBXLThJADrhufsPS5tER) | [The Ultimate Collection](https://open.spotify.com/album/47NIFvfpDVQbVaoDcfwKqy) | 3:14 |
 | 49 | [Welcome Home](https://open.spotify.com/track/3KzE6f3h07i1AiepzjfGHD) | [The O.C\. Supertones](https://open.spotify.com/artist/61uwXZTKqYAAoXz8XvUUbE) | [Hi Fi Revival](https://open.spotify.com/album/3h8idOY5EBpE4bN4idaGJR) | 2:43 |
 | 50 | [Gasoline](https://open.spotify.com/track/050IFBYeEqDS4FavXJifoe) | [Skillet](https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8) | [Skillet](https://open.spotify.com/album/5PUVPlbwm347Jt0Vdcw3s5) | 4:02 |
-| 51 | [All Over Me](https://open.spotify.com/track/48UADGUoDwrBOkTVxWjzaP) | [The Benjamin Gate](https://open.spotify.com/artist/5xNrsi292mrWxvM4g5bqOG) | [Untitled](https://open.spotify.com/album/1fPm3avdEiN8fm9V3N1iGk) | 4:10 |
-| 52 | [Entertaining Angels](https://open.spotify.com/track/5lJEym4sjfKZJ20AAjpe1k) | [Newsboys](https://open.spotify.com/artist/1SZMaiNHfdUuU0qZKZ6y62) | [The Ultimate Collection](https://open.spotify.com/album/4tab0wm9wlaNYGEKAoRzFd) | 4:17 |
+| 51 | [Entertaining Angels](https://open.spotify.com/track/5lJEym4sjfKZJ20AAjpe1k) | [Newsboys](https://open.spotify.com/artist/1SZMaiNHfdUuU0qZKZ6y62) | [The Ultimate Collection](https://open.spotify.com/album/4tab0wm9wlaNYGEKAoRzFd) | 4:17 |
+| 52 | [All Over Me](https://open.spotify.com/track/48UADGUoDwrBOkTVxWjzaP) | [The Benjamin Gate](https://open.spotify.com/artist/5xNrsi292mrWxvM4g5bqOG) | [Untitled](https://open.spotify.com/album/1fPm3avdEiN8fm9V3N1iGk) | 4:10 |
 | 53 | [Phenomenon](https://open.spotify.com/track/6qua1VkixdXsqWfxGBNf8d) | [TobyMac](https://open.spotify.com/artist/5VX8hxrcfJWwaTLiqGUHG3) | [Welcome To Diverse City](https://open.spotify.com/album/08J3ZjZXN1J5qNbla71PYI) | 5:19 |
 | 54 | [Breathe](https://open.spotify.com/track/7Gv5J3aHzvZ7ODLGUdfl6C) | [Sixpence None The Richer](https://open.spotify.com/artist/0lJlKQvuM2Sd9DPPyUXcHg) | [Sixpence None the Richer: Greatest Hits](https://open.spotify.com/album/21KNgondk578mn6CS8AAKu) | 4:06 |
 | 55 | [Love Me Good](https://open.spotify.com/track/4ynh61vZS9j5L6xC63U11q) | [Michael W\. Smith](https://open.spotify.com/artist/5aBxFPaaGk9204ssHUvXWN) | [Live The Life](https://open.spotify.com/album/1VKNgXQZcAcaYRr6qUMTwM) | 4:41 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZnA0FshBt4S.md) - [plain]
 | 74 | [Why Do I Do](https://open.spotify.com/track/37KnIgKETYyOOXe56FLquT) | [Jump5](https://open.spotify.com/artist/0qa4GMXrmylKemymbElIwq) | [The Ultimate Collection](https://open.spotify.com/album/1DPCpHWC875p3L4xAVSIoX) | 3:22 |
 | 75 | [The Devil Is Bad](https://open.spotify.com/track/7HU4ubA9Ml4ztErtnHdOMW) | [The W's](https://open.spotify.com/artist/6hbwBTYR4mLag3kkI6wXSV) | [Fourth From The Last](https://open.spotify.com/album/5ZyJ4WdmnQEGI6vWOKs7Ab) | 3:33 |
 
-Snapshot ID: `MCxiNzk4NGU2NDhmMGRkNTZiNDhhZGZhYjc2Y2EwNzIwNjg0YjI2NDkz`
+Snapshot ID: `MCwwMmQ3NjU4OTRmN2QzMWE1OTNjZTE2MDBhNWE5NDc3ZmU1OTIwNTFi`

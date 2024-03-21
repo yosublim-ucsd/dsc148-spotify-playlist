@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4szXk9xARLm.md) - [plain]
 
 > Your essential Ramadan Series songs! Cover: Elissa
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,793 likes - 50 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,834 likes - 50 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4szXk9xARLm.md) - [plain]
 | 25 | [Moujat El Babour](https://open.spotify.com/track/5bFAK2BB8tKl9GDtA74AJy) | [Didine Canon 16](https://open.spotify.com/artist/2aVPTWc4WYc7b384eatevF), [Chemsou Freeklane](https://open.spotify.com/artist/3wggOQ992VWtMCrs7ro14h) | [Moujat El Babour](https://open.spotify.com/album/4EWXSX7uIJtZfOkEXeiPvi) | 3:30 |
 | 26 | [Serrek](https://open.spotify.com/track/2P6663NWulwljND7qHu910) | [Muslim](https://open.spotify.com/artist/6eQdvOOIyiwu6kfzdbUnxU) | [Serrek](https://open.spotify.com/album/1CCZubOoiB5X0xdJCVvnOU) | 3:51 |
 | 27 | [B3edt](https://open.spotify.com/track/0eMjsK29gmH9QwuPXoVQtG) | [Ahmed Saad](https://open.spotify.com/artist/5D2ui1KD49TfyCDb35zf5V) | [B3edt](https://open.spotify.com/album/4HATYluFrW4xQFt6pLMlbR) | 2:04 |
-| 28 | [HARAZEEK](https://open.spotify.com/track/4KkZaDtLIuCiCUH6Zwy0rx) | [Afroto](https://open.spotify.com/artist/7yBuSjd5Z3w7acodk51evR), [Amr Saad](https://open.spotify.com/artist/1hrucExvTdqEfvm2NSjMzv) | [HARAZEEK](https://open.spotify.com/album/0CGER7nFUzj3GFGKK3UJD0) | 2:38 |
-| 29 | [Haseb Ya Tayeb \- Music from Khyanet Ahd TV Series](https://open.spotify.com/track/6a4fiwOKwLgTeZQX25P0vU) | [Moustafa Hagag](https://open.spotify.com/artist/5jii08sWD8V92EdOofQo52) | [Haseb Ya Tayeb \(Music from Khyanet Ahd TV Series\)](https://open.spotify.com/album/5UKvTirwj6tAdCYWfvOyvo) | 3:57 |
+| 28 | [Haseb Ya Tayeb \- Music from Khyanet Ahd TV Series](https://open.spotify.com/track/6a4fiwOKwLgTeZQX25P0vU) | [Moustafa Hagag](https://open.spotify.com/artist/5jii08sWD8V92EdOofQo52) | [Haseb Ya Tayeb \(Music from Khyanet Ahd TV Series\)](https://open.spotify.com/album/5UKvTirwj6tAdCYWfvOyvo) | 3:57 |
+| 29 | [HARAZEEK](https://open.spotify.com/track/4KkZaDtLIuCiCUH6Zwy0rx) | [Afroto](https://open.spotify.com/artist/7yBuSjd5Z3w7acodk51evR), [Amr Saad](https://open.spotify.com/artist/1hrucExvTdqEfvm2NSjMzv) | [HARAZEEK](https://open.spotify.com/album/0CGER7nFUzj3GFGKK3UJD0) | 2:38 |
 | 30 | [بابا المجال](https://open.spotify.com/track/4PWyDZSIrKxRQV0ioxjrXf) | [Hoda Bondok](https://open.spotify.com/artist/3fyqTnSY7KwpOnO6zdHPVH), [Mohamed Shaheen](https://open.spotify.com/artist/6DcpnGFm5ORC758EKTT5B0) | [بابا المجال](https://open.spotify.com/album/219E4D2CXK3NYwmJ5mI8dw) | 3:30 |
 | 31 | [El Foundou](https://open.spotify.com/track/7aSuIwrwORkhgnASF69Uri) | [Mehdi Mouelhi](https://open.spotify.com/artist/5ElZnSkmzaDnZykhi1wjj5), [JenJoon](https://open.spotify.com/artist/5EueujjeEpYjmaQbAuaetK) | [El Foundou](https://open.spotify.com/album/0HE2ooOyrWy46UafbdNXXw) | 3:08 |
 | 32 | [أنا العريس \- من مسلسل مكتوب عليا](https://open.spotify.com/track/5AbkuGohM4IBEaykJI7gjn) | [Akram Hosny](https://open.spotify.com/artist/0uFv3QyIZZuL1ZzT9J19Fi) | [أنا العريس \(من مسلسل مكتوب عليا\)](https://open.spotify.com/album/6FcUdEkyqWuvrf2iWoOBYm) | 2:23 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4szXk9xARLm.md) - [plain]
 | 49 | [Baladna](https://open.spotify.com/track/5il1M2JH5NJ0UouRxilHaB) | [Loai](https://open.spotify.com/artist/5OcZpV21cb8KFH7iTEnNwe) | [Alabt El Donia](https://open.spotify.com/album/7GgQQP8K6FLAjGjy13SR53) | 3:09 |
 | 50 | [أنا رجعت](https://open.spotify.com/track/3QncHZbe3Y03DOb30PJMtt) | [Cyrine Abdel Nour](https://open.spotify.com/artist/5cmJD8Jj6XTpaEpcJAXDXj) | [أنا رجعت](https://open.spotify.com/album/77DthSlxlSkUXVxnvFBcLv) | 3:02 |
 
-Snapshot ID: `MCwzZjg0OTM1NWIyNjc0ZjFhNDllYWJkZmQwM2Q3ZWQzOTA1YWZmNjFm`
+Snapshot ID: `MCwyNWI0N2I0YWExMjdlYzY5ZDE1ODU4MmZlMjBkY2UzM2IxMGNlY2Ew`

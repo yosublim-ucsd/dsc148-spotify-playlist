@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUoGbRYcteyC.md) - [plain]
 
 > Qué bonito se siente el amor\. 💘
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,953,386 likes - 65 songs - 3 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,953,431 likes - 65 songs - 3 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUoGbRYcteyC.md) - [plain]
 | 64 | [Carta de Amor](https://open.spotify.com/track/6Mn0TEs0e0EVOD6tzwlada) | [Silvestre y La Naranja](https://open.spotify.com/artist/1hE5imhaIrCEKoHLHW9aCO) | [Carta de Amor](https://open.spotify.com/album/3vvkKLrUnow3o3O3VbRiUF) | 2:56 |
 | 65 | [Diferente](https://open.spotify.com/track/3XV1E6VMiiUoRByV7nXVEA) | [Paula Cendejas](https://open.spotify.com/artist/4EiI7Vls0NB16jLuexzCHC), [Piso 21](https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd) | [Diferente](https://open.spotify.com/album/5t1yTrOm3fbJQltjom2uya) | 3:40 |
 
-Snapshot ID: `MCwzNjU5NGI3OGQ5ZDk4ZjUyZTc5ZmM1MTI0NjczMjM0ODllY2M5YmJk`
+Snapshot ID: `MCw3ODRkZjg1M2ZhYjc2NjJlODYxY2YzNzk5NWIyNjdjMDYyYThiMTJk`

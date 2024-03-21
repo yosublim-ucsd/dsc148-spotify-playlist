@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5mB2C8gBeUM.md) - [plain]
 
 > Country gone wild! You never know what you're gonna get\. Cover: Chase Matthew
 
-[Spotify](https://open.spotify.com/user/spotify) - 931,170 likes - 156 songs - 7 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 931,179 likes - 156 songs - 7 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Darlin'](https://open.spotify.com/track/727x6SZXGF0LfU2vi3rjaH) | [Chase Matthew](https://open.spotify.com/artist/7HTLVyjNf0VRxfIgNcfRRH) | [We All Grow Up](https://open.spotify.com/album/1XXkk3jAPfmW5jyRbRON7x) | 2:45 |
-| 2 | [Austin](https://open.spotify.com/track/4NJqhmkGN042BrvHoMKUrJ) | [Dasha](https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I) | [Austin](https://open.spotify.com/album/4JtlZzYJEa7bejLF0ASnk0) | 2:51 |
+| 2 | [Austin](https://open.spotify.com/track/6b81dy3WjbozXK6b7C1gu5) | [Dasha](https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I) | [What Happens Now?](https://open.spotify.com/album/0rQRrrZPPv6XXsxilJ1wFz) | 2:51 |
 | 3 | [Lock N Key](https://open.spotify.com/track/6EMXQhhesKZHcR044i5sD2) | [Anella Herim](https://open.spotify.com/artist/0aRXmCsqGxwpaBqY7WQOsN) | [Season 1: I Love You](https://open.spotify.com/album/6CNLb0lw0fxb8sOw8a7LXt) | 2:09 |
 | 4 | [Down Here](https://open.spotify.com/track/1rit7R4jihrRlOBsXnSTri) | [Jay Webb](https://open.spotify.com/artist/74a1KhMBkw4iweAtpbjuHk) | [Down Here](https://open.spotify.com/album/7nlknl85Ot1h5XVCYzoDfI) | 2:04 |
 | 5 | [Living Fast](https://open.spotify.com/track/7fuO3mniCpm9g3LjOxjuRn) | [Hueston](https://open.spotify.com/artist/5ak6WzG7TJnqL6x6CRYoxP) | [Living Fast](https://open.spotify.com/album/3bokND5ICwjoHUtsonPu4v) | 3:04 |
@@ -165,4 +165,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5mB2C8gBeUM.md) - [plain]
 | 155 | [Missing Nothing](https://open.spotify.com/track/3ARM0QYcfyLZuci5WuTynO) | [Norman North](https://open.spotify.com/artist/3qKHegS8r4Q08xagEIJwez) | [Missing Nothing](https://open.spotify.com/album/2E1kBO77PoakfIp5yUIFpx) | 2:36 |
 | 156 | [A Sinner and A Saint](https://open.spotify.com/track/5uxc8WInrKasHQAZCZwTjG) | [Sean Stemaly](https://open.spotify.com/artist/2dZ1l4hWgtbMS0N5T9Oalb) | [A Sinner and A Saint](https://open.spotify.com/album/6kIKa6DGOj391Vj6KCD156) | 2:39 |
 
-Snapshot ID: `MCwzYzVkOTdkOTdkYWYyY2RjYmNkNjE4ZDEwOTRjOWM1YmI2ODY4YTk4`
+Snapshot ID: `MCwyYWY3YmQ0YmU3NDkxNjkwODEzMTFhZjdkY2MyMGM4YTM5Yjk4ZmNi`

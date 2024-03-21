@@ -4,7 +4,7 @@
 
 > Ouça grandes MCs do hip hop nacional\. Foto: Racionais MC's
 
-117 songs - 9 hr 2 min
+118 songs - 9 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,7 +53,8 @@
 | [Homem Sem Face](https://open.spotify.com/track/69B8oPbHQ0ivRKzUktV3MH) | [Sombra](https://open.spotify.com/artist/54cBoDN5Z8F9chRzmQz7V3) | [Fantástico Mundo Popular](https://open.spotify.com/album/37i4UwzDnVpEJQZT4URjZg) | 4:10 | 2022-03-11 |  |
 | [Inté Sermos 1 \- Tudo Que Queria](https://open.spotify.com/track/6S2LWMJDF3YaWgsFS2m2h4) | [Trilha Sonora do Gueto](https://open.spotify.com/artist/5gOXpF0vOYUvYwBCd80hQv), [Ester Mello](https://open.spotify.com/artist/30DjiOaSbDvlqJQGkJAQZo), [jonatas nascimento](https://open.spotify.com/artist/7GrNVXnQ800k7EqwBIEPoI), [MC Ryan SP](https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY) | [Inté Sermos 1 \- Tudo Que Queria](https://open.spotify.com/album/5KNYe1St9t07vUwpkktQn5) | 9:54 | 2023-01-27 |  |
 | [Invicto](https://open.spotify.com/track/4LMEQblquC72wJXvuQsX9F) | [Filipe Ret](https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54) | [Revel](https://open.spotify.com/album/5hFdInpTsPMTbRwxXuB2j8) | 4:16 | 2022-03-11 | 2022-07-29 |
-| [Invicto](https://open.spotify.com/track/3ecQ7EFhQCJbPfM8fQ5JaD) | [Filipe Ret](https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54), [Mãolee](https://open.spotify.com/artist/72aE07MxpePfCELo4vGZcK) | [Revel](https://open.spotify.com/album/422XU7tl8bg3VIklzD1VGf) | 4:16 | 2022-04-22 |  |
+| [Invicto](https://open.spotify.com/track/26iIVLdPn5nhmMwiuGKK3F) | [Filipe Ret](https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54), [Mãolee](https://open.spotify.com/artist/72aE07MxpePfCELo4vGZcK) | [Revel](https://open.spotify.com/album/5XemDAjsXAgz0abzf5Adwq) | 4:16 | 2023-12-22 |  |
+| [Invicto](https://open.spotify.com/track/3ecQ7EFhQCJbPfM8fQ5JaD) | [Filipe Ret](https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54), [Mãolee](https://open.spotify.com/artist/72aE07MxpePfCELo4vGZcK) | [Revel](https://open.spotify.com/album/422XU7tl8bg3VIklzD1VGf) | 4:16 | 2022-04-22 | 2024-03-21 |
 | [Jovens Soldados](https://open.spotify.com/track/18e5o5nAbRrIhy5dHcRUtM) | [Trilha Sonora do Gueto](https://open.spotify.com/artist/5gOXpF0vOYUvYwBCd80hQv) | [Jovens Soldados](https://open.spotify.com/album/3YD8VRaMjyxETnJ0ekHmVs) | 5:06 | 2022-03-11 |  |
 | [JUNHO DE 94](https://open.spotify.com/track/0kTzuVnjYBag7rcK3s8tEm) | [Djonga](https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY) | [O MENINO QUE QUERIA SER DEUS](https://open.spotify.com/album/4mgTW0NU3fjNBxHdKOJoRr) | 5:29 | 2022-03-11 | 2022-07-29 |
 | [JUNHO DE 94](https://open.spotify.com/track/2JLlkW8sNBoEpSCHJODPDH) | [Djonga](https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY), [Coyote Beatz](https://open.spotify.com/artist/2PhFsxtwCQLS3e9SJwDN3j) | [O MENINO QUE QUERIA SER DEUS](https://open.spotify.com/album/04iHzaSGrOo5MgBY7R2PbX) | 5:29 | 2022-04-22 |  |

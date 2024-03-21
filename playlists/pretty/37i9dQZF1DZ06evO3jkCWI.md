@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3jkCWI.md) - [plain]
 
 > This is Los Invasores De Nuevo León\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 156,946 likes - 50 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 157,002 likes - 50 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,9 +40,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3jkCWI.md) - [plain]
 | 30 | [El Subteniente Linares](https://open.spotify.com/track/2BYl5gcl27mUpslIRy8MUX) | [Los Invasores De Nuevo León](https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv) | [Corridos De Pegue](https://open.spotify.com/album/2iStr0qc3jeFmGeud0h29Q) | 3:31 |
 | 31 | [Rosalinda](https://open.spotify.com/track/76JjJHMjVRSpI86NOzbWeZ) | [Los Invasores De Nuevo León](https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv) | [Laurita Garza](https://open.spotify.com/album/6CVR7Bsz5h7IkzyNAqpLsg) | 3:08 |
 | 32 | [A Ver Si Capea](https://open.spotify.com/track/1seRvngYgRfDeCbIkJOMQK) | [Los Invasores De Nuevo León](https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv) | [21 Black Jack](https://open.spotify.com/album/5ZyR9EAtVpj70b11dZYmNC) | 3:11 |
-| 33 | [La Vieja Banca](https://open.spotify.com/track/48sgC9LwPwCUBR4MpuVW0R) | [Los Invasores De Nuevo León](https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv) | [15 Boleros De Oro](https://open.spotify.com/album/3tTkjFxSMIyKTi3KgnqgpT) | 2:38 |
+| 33 | [Para Ti Mi Amor](https://open.spotify.com/track/79KkCXH9weKlaTsur7y8tk) | [Los Invasores De Nuevo León](https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv) | [Boleros Volumen 2](https://open.spotify.com/album/7JL6rJigUVM0qfWOFnbx2k) | 3:04 |
 | 34 | [Distancia Maldita](https://open.spotify.com/track/3RhNtiTs0FwK9RpZpP7Xf8) | [Los Invasores De Nuevo León](https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv) | [Es Demasiado Tarde](https://open.spotify.com/album/3RhITFDOGFitmcOtfUE2Kx) | 3:06 |
-| 35 | [Para Ti Mi Amor](https://open.spotify.com/track/79KkCXH9weKlaTsur7y8tk) | [Los Invasores De Nuevo León](https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv) | [Boleros Volumen 2](https://open.spotify.com/album/7JL6rJigUVM0qfWOFnbx2k) | 3:04 |
+| 35 | [La Vieja Banca](https://open.spotify.com/track/48sgC9LwPwCUBR4MpuVW0R) | [Los Invasores De Nuevo León](https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv) | [15 Boleros De Oro](https://open.spotify.com/album/3tTkjFxSMIyKTi3KgnqgpT) | 2:38 |
 | 36 | [Alfredo Galeana](https://open.spotify.com/track/2NG18tx27J4dBTszPLJluP) | [Los Invasores De Nuevo León](https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv) | [Corridos De Pegue](https://open.spotify.com/album/2iStr0qc3jeFmGeud0h29Q) | 3:17 |
 | 37 | [No Lloraré](https://open.spotify.com/track/6OYSCpemGHXqiip743GGAr) | [Los Invasores De Nuevo León](https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv) | [Tiempo Al Tiempo](https://open.spotify.com/album/1LVdQN6LXJlhIxl2IeEcne) | 2:54 |
 | 38 | [Gracias Porque Volviste](https://open.spotify.com/track/37nblWr0bJ6aIO548pKHqg) | [Los Invasores De Nuevo León](https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv) | [Es Demasiado Tarde](https://open.spotify.com/album/3RhITFDOGFitmcOtfUE2Kx) | 3:09 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3jkCWI.md) - [plain]
 | 49 | [Amor A La Ligera](https://open.spotify.com/track/4jjLfOGnXPza7iXX8TebTn) | [Los Invasores De Nuevo León](https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv) | [Amor A La Ligera](https://open.spotify.com/album/5jaSL4vBSHGuQrIRFWQSwm) | 2:24 |
 | 50 | [El Hijo Del Campo](https://open.spotify.com/track/0DLX5l27nAvkwGRaojT1tp) | [Los Invasores De Nuevo León](https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv) | [Corridos De Pegue](https://open.spotify.com/album/2iStr0qc3jeFmGeud0h29Q) | 2:31 |
 
-Snapshot ID: `Mjg1MTQxOTUsMDAwMDAwMDAxYzM5YmZjNWI2YTU1ZDYxZTc2N2RjOWMxZGVmODllZQ==`
+Snapshot ID: `Mjg1MTU2NjEsMDAwMDAwMDBkNTUzOGQ1NDA4ZjhhODQ2NzMzYmFiYjNiZDRmZjYyMA==`

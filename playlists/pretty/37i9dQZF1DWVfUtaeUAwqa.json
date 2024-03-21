@@ -1,12 +1,12 @@
 {
   "description": "Dixieland, Chicago Style and upbeat traditional jazz.",
-  "num_followers": 7780,
+  "num_followers": 7783,
   "original_name": "Hot-Jazz Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4NDhjMTNjYzE0YTQzYmU1NjdkMjVkNTdiMzI5YTk1NTExZDI2MTg2",
+  "snapshot_id": "MCxjYjA4MWQ4ZjE5MjNiNTM0ODg5NTI5M2IwZDY0ZDkwMGU4NTVjZjY0",
   "tracks": [
     {
       "added_at": "2020-08-19 17:19:14",
@@ -271,22 +271,18 @@
     {
       "added_at": "2020-08-19 17:19:14",
       "album": {
-        "name": "Sounds Of New Orleans",
-        "url": "https://open.spotify.com/album/4NdsoKTZ03ZcbyIPH3RZTJ"
+        "name": "The Complete Hot Five And Hot Seven Recordings Volume 2",
+        "url": "https://open.spotify.com/album/4Z1EQzuuYPnPR9yWjKA13v"
       },
       "artists": [
         {
-          "name": "Albert Burbank",
-          "url": "https://open.spotify.com/artist/1H5jbTPAiHEJv3tWdLlXLk"
-        },
-        {
-          "name": "Kid Ory",
-          "url": "https://open.spotify.com/artist/7fvNIXXszS6FTHROnZVsK4"
+          "name": "Louis Armstrong & His Hot Five",
+          "url": "https://open.spotify.com/artist/0t4VVR2T9Sb0z3NdDdEU6S"
         }
       ],
-      "duration_ms": 151453,
-      "name": "Bill Bailey",
-      "url": "https://open.spotify.com/track/6rt4DeIXU3bgJVYknEpZZa"
+      "duration_ms": 183960,
+      "name": "Struttin' with Some Barbecue - 78 rpm Version",
+      "url": "https://open.spotify.com/track/43QRJNdGe4GaO0ucHHQnmS"
     },
     {
       "added_at": "2020-08-19 17:19:14",
@@ -307,18 +303,22 @@
     {
       "added_at": "2020-08-19 17:19:14",
       "album": {
-        "name": "The Complete Hot Five And Hot Seven Recordings Volume 2",
-        "url": "https://open.spotify.com/album/4Z1EQzuuYPnPR9yWjKA13v"
+        "name": "Sounds Of New Orleans",
+        "url": "https://open.spotify.com/album/4NdsoKTZ03ZcbyIPH3RZTJ"
       },
       "artists": [
         {
-          "name": "Louis Armstrong & His Hot Five",
-          "url": "https://open.spotify.com/artist/0t4VVR2T9Sb0z3NdDdEU6S"
+          "name": "Albert Burbank",
+          "url": "https://open.spotify.com/artist/1H5jbTPAiHEJv3tWdLlXLk"
+        },
+        {
+          "name": "Kid Ory",
+          "url": "https://open.spotify.com/artist/7fvNIXXszS6FTHROnZVsK4"
         }
       ],
-      "duration_ms": 183960,
-      "name": "Struttin' with Some Barbecue - 78 rpm Version",
-      "url": "https://open.spotify.com/track/43QRJNdGe4GaO0ucHHQnmS"
+      "duration_ms": 151453,
+      "name": "Bill Bailey",
+      "url": "https://open.spotify.com/track/6rt4DeIXU3bgJVYknEpZZa"
     },
     {
       "added_at": "2020-08-19 17:19:14",
@@ -403,6 +403,22 @@
     {
       "added_at": "2020-08-19 17:19:14",
       "album": {
+        "name": "The Best Of The Dukes Of Dixieland (Formerly Titled : The Dukes Of Disneyland)",
+        "url": "https://open.spotify.com/album/22YuEc5U4KScFU7RiXDuCg"
+      },
+      "artists": [
+        {
+          "name": "The Dukes Of Dixieland",
+          "url": "https://open.spotify.com/artist/0GLjY74A6lDzGCGg2J73aq"
+        }
+      ],
+      "duration_ms": 389960,
+      "name": "Wolverine Blues",
+      "url": "https://open.spotify.com/track/37VAo2JMwa5ZC1S8ePWt76"
+    },
+    {
+      "added_at": "2020-08-19 17:19:14",
+      "album": {
         "name": "The Essential Sidney Bechet",
         "url": "https://open.spotify.com/album/7mmPRVlBSFQDyNVQ5B5ZZA"
       },
@@ -419,18 +435,34 @@
     {
       "added_at": "2020-08-19 17:19:14",
       "album": {
-        "name": "The Best Of The Dukes Of Dixieland (Formerly Titled : The Dukes Of Disneyland)",
-        "url": "https://open.spotify.com/album/22YuEc5U4KScFU7RiXDuCg"
+        "name": "The Complete Set - 1923-1926",
+        "url": "https://open.spotify.com/album/2zkPkIqQvN9Br6jHpemVGR"
       },
       "artists": [
         {
-          "name": "The Dukes Of Dixieland",
-          "url": "https://open.spotify.com/artist/0GLjY74A6lDzGCGg2J73aq"
+          "name": "Freddie Keppard",
+          "url": "https://open.spotify.com/artist/0y247K7t0JULOQuGx17ZFJ"
         }
       ],
-      "duration_ms": 389960,
-      "name": "Wolverine Blues",
-      "url": "https://open.spotify.com/track/37VAo2JMwa5ZC1S8ePWt76"
+      "duration_ms": 153506,
+      "name": "Stock Yards Strut",
+      "url": "https://open.spotify.com/track/5O7xHPPhdMtwEsOpn1cvu7"
+    },
+    {
+      "added_at": "2020-08-19 17:19:14",
+      "album": {
+        "name": "The Fabulous Sidney Bechet",
+        "url": "https://open.spotify.com/album/3vfghXH6XIugrTCCNQfQTS"
+      },
+      "artists": [
+        {
+          "name": "Sidney Bechet",
+          "url": "https://open.spotify.com/artist/1RsmXc1ZqW3WBs9iwxiSwk"
+        }
+      ],
+      "duration_ms": 232306,
+      "name": "Ballin' The Jack",
+      "url": "https://open.spotify.com/track/0OIXJIZoivHSpq4jx3tnyc"
     },
     {
       "added_at": "2020-08-19 17:19:14",
@@ -455,34 +487,18 @@
     {
       "added_at": "2020-08-19 17:19:14",
       "album": {
-        "name": "The Fabulous Sidney Bechet",
-        "url": "https://open.spotify.com/album/3vfghXH6XIugrTCCNQfQTS"
+        "name": "Sounds Of New Orleans Vol. 9",
+        "url": "https://open.spotify.com/album/7gXajj8o47ghF8VktDLN1T"
       },
       "artists": [
         {
-          "name": "Sidney Bechet",
-          "url": "https://open.spotify.com/artist/1RsmXc1ZqW3WBs9iwxiSwk"
+          "name": "Kid Ory",
+          "url": "https://open.spotify.com/artist/7fvNIXXszS6FTHROnZVsK4"
         }
       ],
-      "duration_ms": 232306,
-      "name": "Ballin' The Jack",
-      "url": "https://open.spotify.com/track/0OIXJIZoivHSpq4jx3tnyc"
-    },
-    {
-      "added_at": "2020-08-19 17:19:14",
-      "album": {
-        "name": "The Complete Set - 1923-1926",
-        "url": "https://open.spotify.com/album/2zkPkIqQvN9Br6jHpemVGR"
-      },
-      "artists": [
-        {
-          "name": "Freddie Keppard",
-          "url": "https://open.spotify.com/artist/0y247K7t0JULOQuGx17ZFJ"
-        }
-      ],
-      "duration_ms": 153506,
-      "name": "Stock Yards Strut",
-      "url": "https://open.spotify.com/track/5O7xHPPhdMtwEsOpn1cvu7"
+      "duration_ms": 335280,
+      "name": "Original Dixieland One Step",
+      "url": "https://open.spotify.com/track/3XznXMnnySIGCKSs6wktIA"
     },
     {
       "added_at": "2020-08-19 17:19:14",
@@ -499,22 +515,6 @@
       "duration_ms": 362266,
       "name": "Second Line",
       "url": "https://open.spotify.com/track/63JfF4YrOCAcIeDTLa1TTa"
-    },
-    {
-      "added_at": "2020-08-19 17:19:14",
-      "album": {
-        "name": "Sounds Of New Orleans Vol. 9",
-        "url": "https://open.spotify.com/album/7gXajj8o47ghF8VktDLN1T"
-      },
-      "artists": [
-        {
-          "name": "Kid Ory",
-          "url": "https://open.spotify.com/artist/7fvNIXXszS6FTHROnZVsK4"
-        }
-      ],
-      "duration_ms": 335280,
-      "name": "Original Dixieland One Step",
-      "url": "https://open.spotify.com/track/3XznXMnnySIGCKSs6wktIA"
     },
     {
       "added_at": "2020-08-19 17:19:14",
@@ -599,22 +599,6 @@
     {
       "added_at": "2020-08-19 17:19:14",
       "album": {
-        "name": "Kings Of Dixieland",
-        "url": "https://open.spotify.com/album/6kvwhPapltlF6gvuIgdz71"
-      },
-      "artists": [
-        {
-          "name": "Dixieland Band",
-          "url": "https://open.spotify.com/artist/71UbbCG8OqxYBuXcMhQA5E"
-        }
-      ],
-      "duration_ms": 139558,
-      "name": "Ring On Her Fingers",
-      "url": "https://open.spotify.com/track/0bLM6cdigteELpTKlD2rqI"
-    },
-    {
-      "added_at": "2020-08-19 17:19:14",
-      "album": {
         "name": "On Parade",
         "url": "https://open.spotify.com/album/3cszsvpoZit9PVRyLFFIFJ"
       },
@@ -631,18 +615,18 @@
     {
       "added_at": "2020-08-19 17:19:14",
       "album": {
-        "name": "Paul Barbarin & His New Orleans Jazz Band",
-        "url": "https://open.spotify.com/album/3zRlKQfk8NNRwWumbt6FMx"
+        "name": "Kings Of Dixieland",
+        "url": "https://open.spotify.com/album/6kvwhPapltlF6gvuIgdz71"
       },
       "artists": [
         {
-          "name": "Paul Barbarin & His New Orleans Jazz Band",
-          "url": "https://open.spotify.com/artist/3FE6ZZKTPt5j31R5uPkTYS"
+          "name": "Dixieland Band",
+          "url": "https://open.spotify.com/artist/71UbbCG8OqxYBuXcMhQA5E"
         }
       ],
-      "duration_ms": 315600,
-      "name": "Bugle Boy March",
-      "url": "https://open.spotify.com/track/3fbvU3HoMviq8NaxeL6lA2"
+      "duration_ms": 139558,
+      "name": "Ring On Her Fingers",
+      "url": "https://open.spotify.com/track/0bLM6cdigteELpTKlD2rqI"
     },
     {
       "added_at": "2020-08-19 17:19:14",
@@ -659,6 +643,22 @@
       "duration_ms": 181133,
       "name": "Livery Stable Blues (Barnyard Blues)",
       "url": "https://open.spotify.com/track/6xoBzYhLzG3yBgDbmD0rwn"
+    },
+    {
+      "added_at": "2020-08-19 17:19:14",
+      "album": {
+        "name": "Paul Barbarin & His New Orleans Jazz Band",
+        "url": "https://open.spotify.com/album/3zRlKQfk8NNRwWumbt6FMx"
+      },
+      "artists": [
+        {
+          "name": "Paul Barbarin & His New Orleans Jazz Band",
+          "url": "https://open.spotify.com/artist/3FE6ZZKTPt5j31R5uPkTYS"
+        }
+      ],
+      "duration_ms": 315600,
+      "name": "Bugle Boy March",
+      "url": "https://open.spotify.com/track/3fbvU3HoMviq8NaxeL6lA2"
     },
     {
       "added_at": "2020-08-19 17:19:14",
@@ -747,6 +747,22 @@
     {
       "added_at": "2020-08-19 17:19:14",
       "album": {
+        "name": "The Dukes At Disneyland",
+        "url": "https://open.spotify.com/album/7uIuREmiKkyosSchLSWEVB"
+      },
+      "artists": [
+        {
+          "name": "The Dukes Of Dixieland",
+          "url": "https://open.spotify.com/artist/0GLjY74A6lDzGCGg2J73aq"
+        }
+      ],
+      "duration_ms": 362973,
+      "name": "Royal Garden Blues",
+      "url": "https://open.spotify.com/track/3T5CDmw4zbEgt6hEzRqpxR"
+    },
+    {
+      "added_at": "2020-08-19 17:19:14",
+      "album": {
         "name": "New Orleans to Lyon, Vol. 1",
         "url": "https://open.spotify.com/album/1aeqEOzWMKydJN0X6W1VmB"
       },
@@ -811,22 +827,6 @@
     {
       "added_at": "2020-08-19 17:19:14",
       "album": {
-        "name": "The Dukes At Disneyland",
-        "url": "https://open.spotify.com/album/7uIuREmiKkyosSchLSWEVB"
-      },
-      "artists": [
-        {
-          "name": "The Dukes Of Dixieland",
-          "url": "https://open.spotify.com/artist/0GLjY74A6lDzGCGg2J73aq"
-        }
-      ],
-      "duration_ms": 362973,
-      "name": "Royal Garden Blues",
-      "url": "https://open.spotify.com/track/3T5CDmw4zbEgt6hEzRqpxR"
-    },
-    {
-      "added_at": "2020-08-19 17:19:14",
-      "album": {
         "name": "Sounds Of New Orleans, Vol. 2",
         "url": "https://open.spotify.com/album/2Lmk08Fk72AOjC6scXoIcm"
       },
@@ -855,6 +855,22 @@
       "duration_ms": 188160,
       "name": "In The Good Old Summertime",
       "url": "https://open.spotify.com/track/7eb2OuqP9Ejwbqmv4m6HEz"
+    },
+    {
+      "added_at": "2020-08-19 17:19:14",
+      "album": {
+        "name": "More Best of the Dukes of Dixieland, Vol. 2",
+        "url": "https://open.spotify.com/album/1rRfpt3yGLxAIjZFDEXOaI"
+      },
+      "artists": [
+        {
+          "name": "The Dukes Of Dixieland",
+          "url": "https://open.spotify.com/artist/0GLjY74A6lDzGCGg2J73aq"
+        }
+      ],
+      "duration_ms": 135274,
+      "name": "Thunder & Blazes",
+      "url": "https://open.spotify.com/track/79vlFseFpY0B9LALIfv9Nr"
     },
     {
       "added_at": "2020-08-19 17:19:14",
@@ -903,6 +919,22 @@
     {
       "added_at": "2020-08-19 17:19:14",
       "album": {
+        "name": "4th of July Parade: 30 Patriotic Marches for Independence Day",
+        "url": "https://open.spotify.com/album/432LmWXgVvgFmHJRc1WQIj"
+      },
+      "artists": [
+        {
+          "name": "The Kings Of Dixieland",
+          "url": "https://open.spotify.com/artist/0c2LcuGtYHJWSMtAZrx1Bg"
+        }
+      ],
+      "duration_ms": 189074,
+      "name": "Semper Fidelis",
+      "url": "https://open.spotify.com/track/2xWLN4RW1XR7nYXZLBaRzG"
+    },
+    {
+      "added_at": "2020-08-19 17:19:14",
+      "album": {
         "name": "All Time Jazz: New Orleans Rhythm Kings",
         "url": "https://open.spotify.com/album/7zziHCNmc6sNQ929l5Itvl"
       },
@@ -919,18 +951,18 @@
     {
       "added_at": "2020-08-19 17:19:14",
       "album": {
-        "name": "4th of July Parade: 30 Patriotic Marches for Independence Day",
-        "url": "https://open.spotify.com/album/432LmWXgVvgFmHJRc1WQIj"
+        "name": "30 Classics: Dixieland Jazz for Mardi Gras",
+        "url": "https://open.spotify.com/album/5heFsiR3EFo5kISFtOCFvE"
       },
       "artists": [
         {
-          "name": "The Kings Of Dixieland",
-          "url": "https://open.spotify.com/artist/0c2LcuGtYHJWSMtAZrx1Bg"
+          "name": "Al Hirt",
+          "url": "https://open.spotify.com/artist/0TGsWvnbtExsbGUSWtXENE"
         }
       ],
-      "duration_ms": 189074,
-      "name": "Semper Fidelis",
-      "url": "https://open.spotify.com/track/2xWLN4RW1XR7nYXZLBaRzG"
+      "duration_ms": 232489,
+      "name": "Carry Me Back to Old Virginia",
+      "url": "https://open.spotify.com/track/2BrcPZPjjLBS9y04floMD5"
     },
     {
       "added_at": "2020-08-19 17:19:14",
@@ -971,38 +1003,6 @@
       "duration_ms": 316186,
       "name": "Oh Dem Golden Slippers",
       "url": "https://open.spotify.com/track/0vnAC7cwUAHOc1a0ePHku2"
-    },
-    {
-      "added_at": "2020-08-19 17:19:14",
-      "album": {
-        "name": "More Best of the Dukes of Dixieland, Vol. 2",
-        "url": "https://open.spotify.com/album/1rRfpt3yGLxAIjZFDEXOaI"
-      },
-      "artists": [
-        {
-          "name": "The Dukes Of Dixieland",
-          "url": "https://open.spotify.com/artist/0GLjY74A6lDzGCGg2J73aq"
-        }
-      ],
-      "duration_ms": 135274,
-      "name": "Thunder & Blazes",
-      "url": "https://open.spotify.com/track/79vlFseFpY0B9LALIfv9Nr"
-    },
-    {
-      "added_at": "2020-08-19 17:19:14",
-      "album": {
-        "name": "30 Classics: Dixieland Jazz for Mardi Gras",
-        "url": "https://open.spotify.com/album/5heFsiR3EFo5kISFtOCFvE"
-      },
-      "artists": [
-        {
-          "name": "Al Hirt",
-          "url": "https://open.spotify.com/artist/0TGsWvnbtExsbGUSWtXENE"
-        }
-      ],
-      "duration_ms": 232489,
-      "name": "Carry Me Back to Old Virginia",
-      "url": "https://open.spotify.com/track/2BrcPZPjjLBS9y04floMD5"
     },
     {
       "added_at": "2020-08-19 17:19:14",

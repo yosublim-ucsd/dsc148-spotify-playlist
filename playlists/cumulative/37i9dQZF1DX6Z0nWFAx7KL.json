@@ -196,7 +196,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-21",
       "duration_ms": 171904,
       "name": "Alone",
       "url": "https://open.spotify.com/track/67BdlNZItL3SYjn0prj2Co"
@@ -214,7 +214,7 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-01",
+      "date_removed": null,
       "duration_ms": 143606,
       "name": "Anything",
       "url": "https://open.spotify.com/track/74bv7UX4lmiu5ukPgHOUcY"
@@ -476,7 +476,7 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-21",
       "duration_ms": 159180,
       "name": "Body on Fire",
       "url": "https://open.spotify.com/track/5Bl32FoKm0kTiMe6hcRNkV"
@@ -662,7 +662,7 @@
       ],
       "date_added": "2023-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-21",
       "duration_ms": 172800,
       "name": "Careless Whisper",
       "url": "https://open.spotify.com/track/4wyIAKiAc8Twh1jgzylZWo"
@@ -684,7 +684,7 @@
       ],
       "date_added": "2022-10-13",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-02",
+      "date_removed": null,
       "duration_ms": 165000,
       "name": "Chasing Daydreams",
       "url": "https://open.spotify.com/track/45VICFveHN4B9Rigyh9WA1"
@@ -750,6 +750,32 @@
       "duration_ms": 164304,
       "name": "Come Along",
       "url": "https://open.spotify.com/track/43LMm7SOJvocWxLGC4o7vY"
+    },
+    {
+      "album": {
+        "name": "Crazy",
+        "url": "https://open.spotify.com/album/76S7Gh6IMrRFixOxT8mAqC"
+      },
+      "artists": [
+        {
+          "name": "Campsite Dream",
+          "url": "https://open.spotify.com/artist/69VkQLf4DH7GJ68BCDOPKL"
+        },
+        {
+          "name": "Matt Wolff",
+          "url": "https://open.spotify.com/artist/4EpbgBcPraTPaE3obtbvKA"
+        },
+        {
+          "name": "Sirona",
+          "url": "https://open.spotify.com/artist/2ujhjcnmXKAC4IsW9fFw6G"
+        }
+      ],
+      "date_added": "2024-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146500,
+      "name": "Crazy",
+      "url": "https://open.spotify.com/track/1WDp9O9RvmxMmJe3hXWK2g"
     },
     {
       "album": {
@@ -998,7 +1024,7 @@
       ],
       "date_added": "2024-02-07",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-11",
+      "date_removed": null,
       "duration_ms": 184994,
       "name": "Eagle",
       "url": "https://open.spotify.com/track/5Hvj61IXD0Y4MBGossQ2Zk"
@@ -1127,6 +1153,24 @@
     },
     {
       "album": {
+        "name": "Reconnect",
+        "url": "https://open.spotify.com/album/4WDjEs3iuJ579yROdFXqpG"
+      },
+      "artists": [
+        {
+          "name": "Sebastian Davidson",
+          "url": "https://open.spotify.com/artist/1uO4ut3M0hYeCfEEUdFnEp"
+        }
+      ],
+      "date_added": "2024-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193377,
+      "name": "Elsewhere",
+      "url": "https://open.spotify.com/track/1ERIJRdzYgFSkdUvCiVu75"
+    },
+    {
+      "album": {
         "name": "Escaping",
         "url": "https://open.spotify.com/album/5slrIsKwwsPYUheEWRKQMn"
       },
@@ -1204,7 +1248,7 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-21",
       "duration_ms": 167380,
       "name": "Eyes",
       "url": "https://open.spotify.com/track/2cVQVhgyRPzJusXAuklkWF"
@@ -1222,7 +1266,7 @@
       ],
       "date_added": "2023-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-21",
       "duration_ms": 257500,
       "name": "Eyes",
       "url": "https://open.spotify.com/track/5TL0AtDGqqAN5djwMTm7RV"
@@ -1438,7 +1482,7 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-20",
+      "date_removed": null,
       "duration_ms": 184000,
       "name": "Floating",
       "url": "https://open.spotify.com/track/6sgmuupyveCXY52NjOYusN"
@@ -1618,7 +1662,7 @@
       ],
       "date_added": "2023-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-21",
       "duration_ms": 144375,
       "name": "Gravity",
       "url": "https://open.spotify.com/track/7qhPd5HqLrCVpCWvpy8Hrh"
@@ -1824,7 +1868,7 @@
       ],
       "date_added": "2022-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-21",
       "duration_ms": 160071,
       "name": "Hold This Memory",
       "url": "https://open.spotify.com/track/21VnSlwtvNKUFFHHKqt7fI"
@@ -1923,6 +1967,28 @@
     },
     {
       "album": {
+        "name": "Endless, Dawn",
+        "url": "https://open.spotify.com/album/6MKZdIsK146WQexodIPOvs"
+      },
+      "artists": [
+        {
+          "name": "Sultan + Shepard",
+          "url": "https://open.spotify.com/artist/14Tg9FvbNismPR1PJHxRau"
+        },
+        {
+          "name": "Elderbrook",
+          "url": "https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64"
+        }
+      ],
+      "date_added": "2024-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292254,
+      "name": "I'll Be Here",
+      "url": "https://open.spotify.com/track/5UTjWT7qr0ltzTTzifQETi"
+    },
+    {
+      "album": {
         "name": "ilomilo",
         "url": "https://open.spotify.com/album/2OcIdyZT6qespG0S1MuxYY"
       },
@@ -1956,7 +2022,7 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-21",
       "duration_ms": 152000,
       "name": "In The Sun",
       "url": "https://open.spotify.com/track/2oOsMm1b1DchtPDNEjLBcm"
@@ -1978,7 +2044,7 @@
       ],
       "date_added": "2022-10-21",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-29",
+      "date_removed": null,
       "duration_ms": 208995,
       "name": "Inner Light",
       "url": "https://open.spotify.com/track/1FXlxs2DGHGlDx5ggf00hn"
@@ -2116,7 +2182,7 @@
       ],
       "date_added": "2023-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-21",
       "duration_ms": 210000,
       "name": "King",
       "url": "https://open.spotify.com/track/7yH9SbrDQfNIh89ACCR7Ib"
@@ -2174,7 +2240,7 @@
       ],
       "date_added": "2023-09-07",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-16",
+      "date_removed": null,
       "duration_ms": 154137,
       "name": "Lifetime",
       "url": "https://open.spotify.com/track/69R5HIAVF8zNVh4hVBafuO"
@@ -2214,7 +2280,7 @@
       ],
       "date_added": "2023-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-21",
       "duration_ms": 178721,
       "name": "Lightning To Strike",
       "url": "https://open.spotify.com/track/2MAjcMaiYJdwFT3oAYLo03"
@@ -2258,7 +2324,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-21",
       "duration_ms": 183460,
       "name": "Lights Go Down",
       "url": "https://open.spotify.com/track/6Q7fxyIXgrbk1bIySqbaij"
@@ -2378,7 +2444,7 @@
       ],
       "date_added": "2023-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-21",
       "duration_ms": 239021,
       "name": "Lost & Found",
       "url": "https://open.spotify.com/track/4e5WwKKeIjWiwYEd39exKW"
@@ -2576,7 +2642,7 @@
       ],
       "date_added": "2023-09-07",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-08",
+      "date_removed": null,
       "duration_ms": 269679,
       "name": "Morning Glory",
       "url": "https://open.spotify.com/track/2sqbxX6StkXMdSolVicfgV"
@@ -2674,7 +2740,7 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-21",
       "duration_ms": 216538,
       "name": "Never Give Up On You",
       "url": "https://open.spotify.com/track/2gsB29hjEctVqLCtg7HsQS"
@@ -2707,6 +2773,32 @@
     },
     {
       "album": {
+        "name": "Never Let You Go",
+        "url": "https://open.spotify.com/album/2WFPwXK9f3JKD2BMoM3CKY"
+      },
+      "artists": [
+        {
+          "name": "Da\u00eftshi",
+          "url": "https://open.spotify.com/artist/6dYujIzzHgSWODbmPYoJVC"
+        },
+        {
+          "name": "Teva",
+          "url": "https://open.spotify.com/artist/5WTpFFRY0beVL2B70gAzYS"
+        },
+        {
+          "name": "Tim d'Aboville",
+          "url": "https://open.spotify.com/artist/0zuBsRJaNfrNuUuF6oSdXn"
+        }
+      ],
+      "date_added": "2024-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170086,
+      "name": "Never Let You Go",
+      "url": "https://open.spotify.com/track/1Pd5wADGQFTDKZsSpuMlVS"
+    },
+    {
+      "album": {
         "name": "Nightcall",
         "url": "https://open.spotify.com/album/7LlRiB82ntL7v6JU4zqfd2"
       },
@@ -2722,7 +2814,7 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-20",
+      "date_removed": null,
       "duration_ms": 126147,
       "name": "Nightcall",
       "url": "https://open.spotify.com/track/5UVnC9VooGhAOn4zGNi8Uy"
@@ -2748,6 +2840,24 @@
       "duration_ms": 156610,
       "name": "No One Hurries Time",
       "url": "https://open.spotify.com/track/46njaMNjHhIipCp5O2OJop"
+    },
+    {
+      "album": {
+        "name": "Nomads",
+        "url": "https://open.spotify.com/album/3NqtjFIb6RXo6n2PpenZzI"
+      },
+      "artists": [
+        {
+          "name": "Sebastian Davidson",
+          "url": "https://open.spotify.com/artist/1uO4ut3M0hYeCfEEUdFnEp"
+        }
+      ],
+      "date_added": "2024-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229687,
+      "name": "Nomads",
+      "url": "https://open.spotify.com/track/6c9TNuh4t6NdtaG4tDV3RI"
     },
     {
       "album": {
@@ -2868,7 +2978,7 @@
       ],
       "date_added": "2024-02-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-19",
+      "date_removed": null,
       "duration_ms": 255483,
       "name": "One Step",
       "url": "https://open.spotify.com/track/7LwW3ZHlFv7UPjlZ242qsq"
@@ -3066,7 +3176,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-28",
+      "date_removed": null,
       "duration_ms": 199440,
       "name": "Rooftop",
       "url": "https://open.spotify.com/track/1eMWdrMNzPuGOwsAeKlXBW"
@@ -3206,6 +3316,28 @@
       "duration_ms": 241061,
       "name": "See You On The Other Side",
       "url": "https://open.spotify.com/track/1G4bK9Z8JtkXah973WlAGS"
+    },
+    {
+      "album": {
+        "name": "Sensing You",
+        "url": "https://open.spotify.com/album/520oC74vS6oyPN6NclXKO1"
+      },
+      "artists": [
+        {
+          "name": "AVIRA",
+          "url": "https://open.spotify.com/artist/7rznn3BVOuA5jyPB275jmS"
+        },
+        {
+          "name": "Nicholas Gunn",
+          "url": "https://open.spotify.com/artist/54EYfCxN1dGJKec029vO7S"
+        }
+      ],
+      "date_added": "2024-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177000,
+      "name": "Sensing You",
+      "url": "https://open.spotify.com/track/0B3DmjQeC1JNkZDNqawmsD"
     },
     {
       "album": {
@@ -3352,7 +3484,7 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-28",
+      "date_removed": null,
       "duration_ms": 162782,
       "name": "Sorry",
       "url": "https://open.spotify.com/track/2MYIfxhvYk7VaEJ0cWiRmK"
@@ -3436,7 +3568,7 @@
       ],
       "date_added": "2022-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-21",
       "duration_ms": 137149,
       "name": "Summer Jams",
       "url": "https://open.spotify.com/track/3W3v72EKmAfAiuJm9BDi9b"
@@ -3472,7 +3604,7 @@
       ],
       "date_added": "2022-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-21",
       "duration_ms": 147096,
       "name": "Sunday Monday",
       "url": "https://open.spotify.com/track/08D2l1z7iGDMbHbb227ydx"
@@ -3656,7 +3788,7 @@
       ],
       "date_added": "2022-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-21",
       "duration_ms": 132742,
       "name": "Tell Me How",
       "url": "https://open.spotify.com/track/0d2yUkzvqA85zHqiKA9IuE"
@@ -3722,7 +3854,7 @@
       ],
       "date_added": "2023-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-21",
       "duration_ms": 137142,
       "name": "The Boys Of Summer",
       "url": "https://open.spotify.com/track/5oeG2dP6Qda3ueQEllB7pW"

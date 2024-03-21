@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX62XscWX9t6h.md) - [plain]
 
 > 21st Century nomadic expressions interwoven into a very unexpected patchwork.
 
-[Spotify](https://open.spotify.com/user/spotify) - 175,443 likes - 100 songs - 7 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 175,525 likes - 100 songs - 7 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX62XscWX9t6h.md) - [plain]
 | 38 | [Run To Your Mama](https://open.spotify.com/track/6iKRB4SGZp57HsrMLVovL8) | [Goat](https://open.spotify.com/artist/6jP9Z7o6WlbYvKUOeO5SbP) | [World Music](https://open.spotify.com/album/6E80uDKNQDGjggp5isU2Mb) | 2:22 |
 | 39 | [Gone Away Again](https://open.spotify.com/track/2LHfvXx92f9HAYV146h6TE) | [Rogér Fakhr](https://open.spotify.com/artist/6UFqtFCNxhYqsQ1QRF6HRd) | [Fine Anyway \(Habibi Funk 016\)](https://open.spotify.com/album/2SUgDf5a0P3u98kdkEBF3R) | 2:45 |
 | 40 | [Sacatela](https://open.spotify.com/track/7AQSnI0NylqRyXJTvN1Aku) | [La Femme](https://open.spotify.com/artist/5VTWoYYizcOY3uIKnxeCGI) | [Sacatela](https://open.spotify.com/album/06nue4Ry0BmfBW1aX3RWNe) | 2:52 |
-| 41 | [Dos Uvas](https://open.spotify.com/track/5ZVhOPIz5xEb52pRnZBitG) | [Pale Jay](https://open.spotify.com/artist/7H3z77VbkJcCcFilmKqKNM) | [Dos Uvas](https://open.spotify.com/album/2MvZ4FTsUUSAv7VhtXwFRf) | 3:29 |
-| 42 | [Rio Grande](https://open.spotify.com/track/174aZteQew30wcq8sPzlW6) | [Ikebe Shakedown](https://open.spotify.com/artist/5ABBZoXY5r0UL1txACjinb) | [Stone by Stone](https://open.spotify.com/album/6eKOlWJno03vPizhhyY1VO) | 3:50 |
+| 41 | [Rio Grande](https://open.spotify.com/track/174aZteQew30wcq8sPzlW6) | [Ikebe Shakedown](https://open.spotify.com/artist/5ABBZoXY5r0UL1txACjinb) | [Stone by Stone](https://open.spotify.com/album/6eKOlWJno03vPizhhyY1VO) | 3:50 |
+| 42 | [Dos Uvas](https://open.spotify.com/track/5ZVhOPIz5xEb52pRnZBitG) | [Pale Jay](https://open.spotify.com/artist/7H3z77VbkJcCcFilmKqKNM) | [Dos Uvas](https://open.spotify.com/album/2MvZ4FTsUUSAv7VhtXwFRf) | 3:29 |
 | 43 | [Carry Me Home](https://open.spotify.com/track/2mgIoFgItGxpYAQw5j1ShQ) | [Kokoroko](https://open.spotify.com/artist/3u9rbdcmA6CxjxOAkjaeFr) | [Carry Me Home](https://open.spotify.com/album/18xdK3SoHfN0nHVAQfKvnQ) | 5:27 |
 | 44 | [Break Away](https://open.spotify.com/track/38qUvMP0z6Xn7aPrvpurit) | [Thornato](https://open.spotify.com/artist/6ghG9s4GfKVwxKtSdCtgwP) | [Escape Plan](https://open.spotify.com/album/1rbwWcHllLmjWUjODSKV4Y) | 3:06 |
 | 45 | [Up and Away](https://open.spotify.com/track/6r7fP6eQHull2Y8GECHYfI) | [Σtella](https://open.spotify.com/artist/2tBWWgGv7H5ymPtJrT1rNu), [Redinho](https://open.spotify.com/artist/72WcKL1SYgNzcNojYLFQsB) | [Up and Away](https://open.spotify.com/album/4i2Cb9v7g9ieShCgf1gakk) | 3:11 |
@@ -57,8 +57,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX62XscWX9t6h.md) - [plain]
 | 47 | [Dance of Maria](https://open.spotify.com/track/0f7iz1qAWSz61BdHTXbzvC) | [Elias Rahbani](https://open.spotify.com/artist/2DDCp0fnUwgy0cYI99GEyS) | [Mosaic of the Orient](https://open.spotify.com/album/35V308120K0txY7JUMoN6M) | 2:47 |
 | 48 | [The Link Is About to Die](https://open.spotify.com/track/4IZYR8grCH5snauh6rQFbV) | [Los Bitchos](https://open.spotify.com/artist/07b9qW7pabKGO29JPWXn9m) | [Let the Festivities Begin!](https://open.spotify.com/album/4R3BesBG4MgLth7TwqzHmO) | 3:48 |
 | 49 | [Fire By The River](https://open.spotify.com/track/6Nnq45sf7tv9Xjlbga83Lj) | [Harumi](https://open.spotify.com/artist/4ultVGMWqvHvwRHnogpymO) | [Harumi](https://open.spotify.com/album/6OTWrVumdh9JL7ReKtlPMi) | 3:34 |
-| 50 | [Cha Cha](https://open.spotify.com/track/6T18Yu2xPqy6NAhylfjQYO) | [Mulatu Astatke](https://open.spotify.com/artist/7HGFXtBhRq3g1Ma3nH4Rgv), [The Heliocentrics](https://open.spotify.com/artist/6Gujb3D3UJuIBtTCCK2Hnv) | [Inspiration Information 3](https://open.spotify.com/album/2hb6aPSmJLdS99oFOp34EP) | 4:35 |
-| 51 | [Automation](https://open.spotify.com/track/03CS8ifzdYuzNCyzshYl7Z) | [King Gizzard & The Lizard Wizard](https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn) | [K.G.](https://open.spotify.com/album/6uuQKwM3fRETiscHqlnxuo) | 3:29 |
+| 50 | [Automation](https://open.spotify.com/track/03CS8ifzdYuzNCyzshYl7Z) | [King Gizzard & The Lizard Wizard](https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn) | [K.G.](https://open.spotify.com/album/6uuQKwM3fRETiscHqlnxuo) | 3:29 |
+| 51 | [Cha Cha](https://open.spotify.com/track/6T18Yu2xPqy6NAhylfjQYO) | [Mulatu Astatke](https://open.spotify.com/artist/7HGFXtBhRq3g1Ma3nH4Rgv), [The Heliocentrics](https://open.spotify.com/artist/6Gujb3D3UJuIBtTCCK2Hnv) | [Inspiration Information 3](https://open.spotify.com/album/2hb6aPSmJLdS99oFOp34EP) | 4:35 |
 | 52 | [Unathi](https://open.spotify.com/track/1dxYM3qSzXe2O2RJ3rK3KI) | [El Michels Affair](https://open.spotify.com/artist/0cLrgpG3pW4MX4nD8h6qCc), [Piya Malik](https://open.spotify.com/artist/3WjeCzWHSOzMZI2vWXgFZU) | [Yeti Season \(Deluxe Version\)](https://open.spotify.com/album/4QnaG6xFICrieldsUBCuNK) | 3:33 |
 | 53 | [The Wild Rover](https://open.spotify.com/track/0hJuFoWIujL61y6bFwUpsL) | [Lankum](https://open.spotify.com/artist/2zPm4XzwKuPidtfKh92H2Z) | [The Livelong Day](https://open.spotify.com/album/4h6xvRg0yciHX5BidpT1yC) | 10:14 |
 | 54 | [Chismiten](https://open.spotify.com/track/5RHN9R3BqScU4Jzu84U7pZ) | [Mdou Moctar](https://open.spotify.com/artist/48dgx7iGqLQ3E5KO3pzd94) | [Afrique Victime](https://open.spotify.com/album/3ZZMK1Hd8E9Uzj1Tycdlf2) | 4:58 |
@@ -92,16 +92,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX62XscWX9t6h.md) - [plain]
 | 82 | [Descending To Nowhere](https://open.spotify.com/track/6NtkWVLdArIlZAwxpWH2tF) | [Rodrigo y Gabriela](https://open.spotify.com/artist/7vX3cMVyW8gtDA4y855ynF) | [In Between Thoughts...A New World](https://open.spotify.com/album/1el8dp6jP1HbmqRDBVMmj3) | 3:29 |
 | 83 | [Tittle Tattle](https://open.spotify.com/track/250EZZGyjYplBum6Simk1B) | [Nubiyan Twist](https://open.spotify.com/artist/5HNkGissAKlCv88sus7rVO), [CHERISE](https://open.spotify.com/artist/36J979CZNAI4GsrElYFUOC) | [Freedom Fables](https://open.spotify.com/album/3HDaoy8TYaaLfKPKSVcsOq) | 5:19 |
 | 84 | [Kolyskova](https://open.spotify.com/track/02aLw97KKhqN6iMqjJntf3) | [DakhaBrakha](https://open.spotify.com/artist/5hQYZqZaPcRceL82mFZTO5) | [Light](https://open.spotify.com/album/3ZtpOPSQuN6hOtAlyBJqFT) | 5:46 |
-| 85 | [Şinanay](https://open.spotify.com/track/2fXrL66WMT93qlrqreWXqa) | [Kit Sebastian](https://open.spotify.com/artist/5GSILaXo4yN4umwJK8eBBY) | [Şinanay / French Disko \(Lagniappe Session\)](https://open.spotify.com/album/3SVe0JgNmBLHgyFLhKOwoH) | 3:56 |
-| 86 | [Serpentines \(to Nikšić\)](https://open.spotify.com/track/3qOF9KosQNYRlyoWQF5eAY) | [Takeshi's Cashew](https://open.spotify.com/artist/6Fz85Ih5XufwQ1TH4s0pHA) | [Enter J's Chamber](https://open.spotify.com/album/0SYCOHLxNJksWTbAtP9PYo) | 4:47 |
-| 87 | [Nautilus](https://open.spotify.com/track/0IVZO1pU0ddXEh0qtN3jMA) | [Yin Yin](https://open.spotify.com/artist/2sLMYvxNmHIYNx6re1WUM2) | [The Age of Aquarius](https://open.spotify.com/album/4hocimNA2HqHGJENlvTvws) | 4:01 |
+| 85 | [Serpentines \(to Nikšić\)](https://open.spotify.com/track/3qOF9KosQNYRlyoWQF5eAY) | [Takeshi's Cashew](https://open.spotify.com/artist/6Fz85Ih5XufwQ1TH4s0pHA) | [Enter J's Chamber](https://open.spotify.com/album/0SYCOHLxNJksWTbAtP9PYo) | 4:47 |
+| 86 | [Şinanay](https://open.spotify.com/track/2fXrL66WMT93qlrqreWXqa) | [Kit Sebastian](https://open.spotify.com/artist/5GSILaXo4yN4umwJK8eBBY) | [Şinanay / French Disko \(Lagniappe Session\)](https://open.spotify.com/album/3SVe0JgNmBLHgyFLhKOwoH) | 3:56 |
+| 87 | [двa TWO](https://open.spotify.com/track/0ycbHO4SfIOGKkviEO1GK1) | [Kate NV](https://open.spotify.com/artist/1OkYyMwTFtCIl6Jn664Xtx) | [для FOR](https://open.spotify.com/album/0FvvY5F27MaKdwvTx1EybZ) | 1:36 |
 | 88 | [Buleríâ del aire acondiçionao \(feat\. Miguelito García\) \- Versión Maxi](https://open.spotify.com/track/0yV9em29PuD1roFpthc0aQ) | [Califato ¾](https://open.spotify.com/artist/6APnwoSgygJU8HR7EHVSyK), [Miguelito García](https://open.spotify.com/artist/0hGbfFHeG8GY5idG4PO31p) | [Puerta de la Cânne](https://open.spotify.com/album/175V3sGHAJLIB0sDXAQK6C) | 4:40 |
-| 89 | [двa TWO](https://open.spotify.com/track/0ycbHO4SfIOGKkviEO1GK1) | [Kate NV](https://open.spotify.com/artist/1OkYyMwTFtCIl6Jn664Xtx) | [для FOR](https://open.spotify.com/album/0FvvY5F27MaKdwvTx1EybZ) | 1:36 |
+| 89 | [Nautilus](https://open.spotify.com/track/0IVZO1pU0ddXEh0qtN3jMA) | [Yin Yin](https://open.spotify.com/artist/2sLMYvxNmHIYNx6re1WUM2) | [The Age of Aquarius](https://open.spotify.com/album/4hocimNA2HqHGJENlvTvws) | 4:01 |
 | 90 | [Agrim Agadez](https://open.spotify.com/track/784k9MLp8Sce2hcItg5eaL) | [Etran de L'AÏr](https://open.spotify.com/artist/1Tj92mXFtSUJPPnT5fG4Gg) | [No\. 1](https://open.spotify.com/album/4wpPZZoZk7tIm2pdiKEEWC) | 5:51 |
 | 91 | [The Trip](https://open.spotify.com/track/1AbHOoO3s1pS5LMSv5sZM7) | [Derya Yıldırım & Grup Şimşek](https://open.spotify.com/artist/2Y0SH69uxHrHrjiZCuTSaT) | [The Trip](https://open.spotify.com/album/69NCm5Vh06v4Lh8tbTpmnJ) | 4:17 |
 | 92 | [Afrique Victime](https://open.spotify.com/track/1RhL5PGWaiYXwVmqOpj0Nm) | [Mdou Moctar](https://open.spotify.com/artist/48dgx7iGqLQ3E5KO3pzd94) | [Afrique Victime](https://open.spotify.com/album/3ZZMK1Hd8E9Uzj1Tycdlf2) | 7:25 |
-| 93 | [Yüce Dag Basinda](https://open.spotify.com/track/6uO8my6yaAbNVXxJNQ48rH) | [Altin Gün](https://open.spotify.com/artist/37PL04N8kBWWW69jdrMMWT) | [Yol](https://open.spotify.com/album/6IjH8qpZNlh4L5yJ2vzS6k) | 4:18 |
-| 94 | [Silky](https://open.spotify.com/track/7oelcLcMEvuvcr8AOqNFdm) | [Alex Figueira](https://open.spotify.com/artist/1KKpoCjkEc0b0vAuiMe2uT) | [Mentallogenic](https://open.spotify.com/album/6yIJxxHYflUXbspDdrrJym) | 4:19 |
+| 93 | [Silky](https://open.spotify.com/track/7oelcLcMEvuvcr8AOqNFdm) | [Alex Figueira](https://open.spotify.com/artist/1KKpoCjkEc0b0vAuiMe2uT) | [Mentallogenic](https://open.spotify.com/album/6yIJxxHYflUXbspDdrrJym) | 4:19 |
+| 94 | [Yüce Dag Basinda](https://open.spotify.com/track/6uO8my6yaAbNVXxJNQ48rH) | [Altin Gün](https://open.spotify.com/artist/37PL04N8kBWWW69jdrMMWT) | [Yol](https://open.spotify.com/album/6IjH8qpZNlh4L5yJ2vzS6k) | 4:18 |
 | 95 | [Hustle](https://open.spotify.com/track/2pKdE8YhzKRshWuQkolWlV) | [Sons Of Kemet](https://open.spotify.com/artist/3pvRbmrqOyFxB2Eext4Dki), [Kojey Radical](https://open.spotify.com/artist/1HMhQzj2QXxR40zGDdaK6y) | [Black To The Future](https://open.spotify.com/album/6AfA0FZhzRTpjDDYHkCd5B) | 5:18 |
 | 96 | [Solstício](https://open.spotify.com/track/1OvgFEAdvQp7va0C68UaiW) | [Baiuca](https://open.spotify.com/artist/2GSXsSy3YzWsp4BXfSGucS), [Carlos Núñez](https://open.spotify.com/artist/3e09WanUMwtc9XfZRLvZ30) | [Solstício](https://open.spotify.com/album/7I3I6jxYh64keGLmZFGP4R) | 4:25 |
 | 97 | [L'homme félin](https://open.spotify.com/track/1p8nQ36Vd8akX6JaJJ9UAY) | [Labelle](https://open.spotify.com/artist/7wF9y3gjWdR3DOtFG5PVFS) | [NOIR ANIMA](https://open.spotify.com/album/2KY2Lb0t4KYC11YDvYeJna) | 4:36 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX62XscWX9t6h.md) - [plain]
 | 99 | [Worry](https://open.spotify.com/track/2JPY1tESSn8hhwlMdMrRzo) | [Songhoy Blues](https://open.spotify.com/artist/5fpQ5Qt2BKgoVBSMw4Z17Z) | [Optimisme](https://open.spotify.com/album/6uK3gAaZuQEh5cpB33B5GF) | 3:05 |
 | 100 | [Deli Deli](https://open.spotify.com/track/2cghTeF3VBx6aDDrFZO3si) | [Şatellites](https://open.spotify.com/artist/5i2aeGMxTOr8ox7IIqJoxi) | [Big Baglama](https://open.spotify.com/album/0VOhk1oTgTNnmHkjPFq1uL) | 3:03 |
 
-Snapshot ID: `MCwyZDViOGYyYWRjMmI0YjQyNzI4MTk1NTRmN2NkMzlhYWIxMTEwOWY4`
+Snapshot ID: `MCxhYjMxZWY2MDUyZmE1YWYxYTZlMDliYmZjYTI0NzQwZWJmODU3ZmYz`

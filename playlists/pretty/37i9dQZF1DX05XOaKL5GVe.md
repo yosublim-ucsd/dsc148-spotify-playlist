@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX05XOaKL5GVe.md) - [plain]
 
 > Tesoros musicales del ayer.
 
-[Spotify](https://open.spotify.com/user/spotify) - 798,107 likes - 100 songs - 5 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 798,646 likes - 100 songs - 5 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,8 +67,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX05XOaKL5GVe.md) - [plain]
 | 57 | [Mudanzas](https://open.spotify.com/track/1UPPpJhqQW34QGEjRx32jF) | [Lupita D'Alessio](https://open.spotify.com/artist/3mGyF5kXDjEkLlFypJ93en) | [Mudanzas](https://open.spotify.com/album/3iQaYoL4kryRUEHChDAm54) | 3:51 |
 | 58 | [No Hace Falta](https://open.spotify.com/track/5DiHLU0npIbhSTZm8EGeuT) | [Mijares](https://open.spotify.com/artist/3zhijRRIZX2B6G2T7vJl9p) | [Que Nada Nos Separe](https://open.spotify.com/album/0tv0ugArh5TtRPMORE70RY) | 4:27 |
 | 59 | [Yo No Nací para Amar](https://open.spotify.com/track/5x45XdMQ6rgqIUVadroUvS) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [Recuerdos](https://open.spotify.com/album/1m9I3KWRnaqOTGqptc1gT2) | 4:26 |
-| 60 | [Como sufro](https://open.spotify.com/track/6ZSHgXodh3huSt8f78zg1K) | [Los Baby's](https://open.spotify.com/artist/5CChYiuVrfAXbhcGtgDjU9) | [Antología...Los Baby's](https://open.spotify.com/album/6Ovwa9a0WJOU3HZESWDfFV) | 2:58 |
-| 61 | [Nada de tu amor](https://open.spotify.com/track/3N7oZZG0sPkdBITPI7LwYf) | [Los Solitarios](https://open.spotify.com/artist/5oXtNxxScsHb1cRjqqfcMj) | [Antología\. \. \. Los Solitarios](https://open.spotify.com/album/0yui0kzwnX3DgfpKKYIlrg) | 2:53 |
+| 60 | [Nada de tu amor](https://open.spotify.com/track/3N7oZZG0sPkdBITPI7LwYf) | [Los Solitarios](https://open.spotify.com/artist/5oXtNxxScsHb1cRjqqfcMj) | [Antología\. \. \. Los Solitarios](https://open.spotify.com/album/0yui0kzwnX3DgfpKKYIlrg) | 2:53 |
+| 61 | [Como sufro](https://open.spotify.com/track/6ZSHgXodh3huSt8f78zg1K) | [Los Baby's](https://open.spotify.com/artist/5CChYiuVrfAXbhcGtgDjU9) | [Antología...Los Baby's](https://open.spotify.com/album/6Ovwa9a0WJOU3HZESWDfFV) | 2:58 |
 | 62 | [Amada Amante](https://open.spotify.com/track/1EjTQ72d5YuDI3yD3n5e4a) | [Roberto Carlos](https://open.spotify.com/artist/7fAKtXSdNInWAIf0jVUz65) | [Un Gato En La Oscuridad](https://open.spotify.com/album/6QehPjFB3Q8uH2btA35cQm) | 4:20 |
 | 63 | [Amor, Amor](https://open.spotify.com/track/3mPsvF84MBbrwj0YEhODQq) | [José José](https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV) | [Amor Amor](https://open.spotify.com/album/6ULY5Bnnyu0VbMZY1i6TyJ) | 4:29 |
 | 64 | [Quédate Conmigo Esta Noche](https://open.spotify.com/track/0QTJFY7wrFxL9JlJfQvJzv) | [Rocío Dúrcal](https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB) | [Siempre](https://open.spotify.com/album/1hvkChT8svwpuA5b5v8Ksr) | 3:51 |
@@ -76,14 +76,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX05XOaKL5GVe.md) - [plain]
 | 66 | [Cómo Quisiera Decirte](https://open.spotify.com/track/7lmK8HJzXjD7JW88tQGVUT) | [Los Angeles Negros](https://open.spotify.com/artist/1NiC1V6xc8OR1ERiIoCvtx) | [Clásicos Latinos](https://open.spotify.com/album/427RaNcXhoy1CpNySfJ4cd) | 2:49 |
 | 67 | [Corazón mágico](https://open.spotify.com/track/1bpOD9jv1ge8RiyKccjLHW) | [Dyango](https://open.spotify.com/artist/0PbO1lSBsJPgyqdEypJJVb) | [Grandes Éxitos](https://open.spotify.com/album/4wqRBtvdUx8rWZebL0982U) | 3:18 |
 | 68 | [Despues De Tanto](https://open.spotify.com/track/3nWYPT891FrWJTpdxLG4Xj) | [José Maria Napoleón](https://open.spotify.com/artist/72v53CufRiSyqcQ78KUQ5p) | [Vive](https://open.spotify.com/album/5bGjmZEW8yxGggKMDulFPN) | 3:25 |
-| 69 | [Quererte a Ti](https://open.spotify.com/track/4dRr0TfZQmZF2waLzRzoQo) | [Angela Carrasco](https://open.spotify.com/artist/1MtgoOhWrRaiNm4d3y3W3W) | [Sus Mas Grandes Exit](https://open.spotify.com/album/4rfDjjDvuUriv6MxLbSQX8) | 4:35 |
+| 69 | [Tu Cabeza en Mi Hombro](https://open.spotify.com/track/2AtlLNH6BCDhA5DX8FSpVL) | [Enrique Guzman](https://open.spotify.com/artist/4FeDV8T2wgjzYKBamSp7MG) | [Serie De Coleccion 15 Autenticos Exitos \- Enrique Guzman](https://open.spotify.com/album/6Jf07sJkEkGp8f4kFRESFT) | 2:31 |
 | 70 | [El Triste](https://open.spotify.com/track/6HgUhIiqCepGzgb4nuses6) | [José José](https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV) | [15 Exitos De Oro](https://open.spotify.com/album/4OP48ZU8qUYanvwyTLAvrt) | 4:16 |
-| 71 | [Tu Cabeza en Mi Hombro](https://open.spotify.com/track/2AtlLNH6BCDhA5DX8FSpVL) | [Enrique Guzman](https://open.spotify.com/artist/4FeDV8T2wgjzYKBamSp7MG) | [Serie De Coleccion 15 Autenticos Exitos \- Enrique Guzman](https://open.spotify.com/album/6Jf07sJkEkGp8f4kFRESFT) | 2:31 |
+| 71 | [Quererte a Ti](https://open.spotify.com/track/4dRr0TfZQmZF2waLzRzoQo) | [Angela Carrasco](https://open.spotify.com/artist/1MtgoOhWrRaiNm4d3y3W3W) | [Sus Mas Grandes Exit](https://open.spotify.com/album/4rfDjjDvuUriv6MxLbSQX8) | 4:35 |
 | 72 | [El Pecador](https://open.spotify.com/track/1lDx45n8dnAU1v9yct5bxU) | [Alberto Vazquez](https://open.spotify.com/artist/3vYC7LFneIpmJRSgrYy6dc) | [16 Éxitos: Baladas](https://open.spotify.com/album/16koZGZZYztvCEShPLndCv) | 3:20 |
 | 73 | [Espejismo](https://open.spotify.com/track/0VmvHXrh43fkRYszGYYRck) | [Juanello](https://open.spotify.com/artist/5cNtT3ILdrynZyfVPk4XX6) | [Juanello](https://open.spotify.com/album/5we1e4gjzNfjhEI6eRZknj) | 3:06 |
 | 74 | [Barco a Venus](https://open.spotify.com/track/11glwadtd8zwDamSDOX5cJ) | [Mecano](https://open.spotify.com/artist/5BMgsAFg8rZQc3tqs5BB8G) | [¿Dónde Está el Pais de las Hadas? \(Bonus Tracks Edition\)](https://open.spotify.com/album/395Ts8cMrWtmDHxrlYcTxz) | 3:21 |
-| 75 | [Nada Personal](https://open.spotify.com/track/3XtPN9Var7rerjAzLsCAHt) | [Armando Manzanero](https://open.spotify.com/artist/5lODCkFdEtpPn3YxfmyLfT), [Lisset](https://open.spotify.com/artist/3Nhah9QnvO4zqIsuQ1H6aW) | [Te Amo Tv \- Exitos Originales de las Telenovelas](https://open.spotify.com/album/2RagZoyWYlwFcLJSp4VPFG) | 3:11 |
-| 76 | [El Hombre Que Yo Amo](https://open.spotify.com/track/5OtonpNWhoAw9z3wRwM2TC) | [Myriam Hernandez](https://open.spotify.com/artist/6NHTDaYSUeMaroI5U0jytT) | [Todo Lo Mio](https://open.spotify.com/album/1mNEGTs66AF3EPnXcFTOzb) | 3:33 |
+| 75 | [El Hombre Que Yo Amo](https://open.spotify.com/track/5OtonpNWhoAw9z3wRwM2TC) | [Myriam Hernandez](https://open.spotify.com/artist/6NHTDaYSUeMaroI5U0jytT) | [Todo Lo Mio](https://open.spotify.com/album/1mNEGTs66AF3EPnXcFTOzb) | 3:33 |
+| 76 | [Nada Personal](https://open.spotify.com/track/3XtPN9Var7rerjAzLsCAHt) | [Armando Manzanero](https://open.spotify.com/artist/5lODCkFdEtpPn3YxfmyLfT), [Lisset](https://open.spotify.com/artist/3Nhah9QnvO4zqIsuQ1H6aW) | [Te Amo Tv \- Exitos Originales de las Telenovelas](https://open.spotify.com/album/2RagZoyWYlwFcLJSp4VPFG) | 3:11 |
 | 77 | [Al Final](https://open.spotify.com/track/3yeT1oIBRGuEhOb3OCvL2z) | [Emmanuel](https://open.spotify.com/artist/2DmYtFBKcxb3ajwWWgA576) | [Solo Exitos](https://open.spotify.com/album/5b01rzpRKnF0NZXgdcgcA1) | 3:40 |
 | 78 | [Quien](https://open.spotify.com/track/3gcDZpRcPnRgmP3EguPv6K) | [Los Strwck](https://open.spotify.com/artist/6ZzvGogdwGvqkTeDX1RDKL) | [Solo Para Ti](https://open.spotify.com/album/3LRXbYxa6LgY8W7jUHYNnk) | 3:01 |
 | 79 | [Cómo Te Extraño Mi Amor](https://open.spotify.com/track/5cNpLKPU2QX8uV33E1NUVr) | [Leo Dan](https://open.spotify.com/artist/6qhOH2mrlqUDod9sWA5kR2) | [Mis Favoritas](https://open.spotify.com/album/4Zu8MMEmfN8UKLj2NwSHNj) | 2:55 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX05XOaKL5GVe.md) - [plain]
 | 99 | [Triángulo](https://open.spotify.com/track/24VnFu3wCGaUYsR8LyBgIi) | [Los Baby's](https://open.spotify.com/artist/5CChYiuVrfAXbhcGtgDjU9) | [Sólo para enamorados](https://open.spotify.com/album/0aKX7SIu3MGX01ST8NANy8) | 3:10 |
 | 100 | [Penas](https://open.spotify.com/track/3xef9cUovCAdblrNkP1CRF) | [Sandro](https://open.spotify.com/artist/5srsgtoePlsp0eQIXmta1O) | [La Magia de Sandro](https://open.spotify.com/album/5AoO2XU5pild42akpbfv9s) | 3:16 |
 
-Snapshot ID: `MCwyODRlZmNhYWUzYjdhMmRjMjI3NDNhMmE2YjY4M2YzMTA0MjE4MTY1`
+Snapshot ID: `MCwzODQ1MmY3M2UwYmEyNGE3OGY0YzRkOWQ3MTUxMGI5NDRjYmViYWY2`

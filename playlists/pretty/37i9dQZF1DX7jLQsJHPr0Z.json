@@ -1,12 +1,12 @@
 {
   "description": "The aux for every college party.",
-  "num_followers": 84585,
+  "num_followers": 84978,
   "original_name": "Frat Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlYmY4N2NjZjk4ODllMTBkNWI3Y2E3ZjIzMGVhZjEwYmE4YjRjZGI0",
+  "snapshot_id": "MCxhYWE5NWQ2NmQzNDZmODMwZjFlYzBjYTRhNjJhM2E1MTQ1NTQ0NTBh",
   "tracks": [
     {
       "added_at": "2024-02-20 18:56:56",
@@ -303,22 +303,6 @@
     {
       "added_at": "2024-02-20 18:56:56",
       "album": {
-        "name": "ASTROWORLD",
-        "url": "https://open.spotify.com/album/41GuZcammIkupMPKH2OJ6I"
-      },
-      "artists": [
-        {
-          "name": "Travis Scott",
-          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
-        }
-      ],
-      "duration_ms": 312820,
-      "name": "SICKO MODE",
-      "url": "https://open.spotify.com/track/2xLMifQCjDGFmkHkpNLD9h"
-    },
-    {
-      "added_at": "2024-02-20 18:56:56",
-      "album": {
         "name": "In The Zone",
         "url": "https://open.spotify.com/album/0z7pVBGOD7HCIB7S8eLkLI"
       },
@@ -331,6 +315,22 @@
       "duration_ms": 198800,
       "name": "Toxic",
       "url": "https://open.spotify.com/track/6I9VzXrHxO9rA9A5euc8Ak"
+    },
+    {
+      "added_at": "2024-02-20 18:56:56",
+      "album": {
+        "name": "ASTROWORLD",
+        "url": "https://open.spotify.com/album/41GuZcammIkupMPKH2OJ6I"
+      },
+      "artists": [
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        }
+      ],
+      "duration_ms": 312820,
+      "name": "SICKO MODE",
+      "url": "https://open.spotify.com/track/2xLMifQCjDGFmkHkpNLD9h"
     },
     {
       "added_at": "2024-02-20 18:56:56",
@@ -389,22 +389,6 @@
       "url": "https://open.spotify.com/track/1auxYwYrFRqZP7t3s7w4um"
     },
     {
-      "added_at": "2024-02-27 14:00:34",
-      "album": {
-        "name": "Pink Friday 2",
-        "url": "https://open.spotify.com/album/2bYCNZfxZrTUv1CHXkz2d2"
-      },
-      "artists": [
-        {
-          "name": "Nicki Minaj",
-          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
-        }
-      ],
-      "duration_ms": 172137,
-      "name": "FTCU",
-      "url": "https://open.spotify.com/track/1a73gcEg6h6Re6hHXoVltJ"
-    },
-    {
       "added_at": "2024-02-20 18:56:56",
       "album": {
         "name": "Raymond v Raymond (Expanded Edition)",
@@ -423,6 +407,22 @@
       "duration_ms": 220800,
       "name": "DJ Got Us Fallin' In Love (feat. Pitbull)",
       "url": "https://open.spotify.com/track/4356Typ82hUiFAynbLYbPn"
+    },
+    {
+      "added_at": "2024-02-27 14:00:34",
+      "album": {
+        "name": "Pink Friday 2",
+        "url": "https://open.spotify.com/album/2bYCNZfxZrTUv1CHXkz2d2"
+      },
+      "artists": [
+        {
+          "name": "Nicki Minaj",
+          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+        }
+      ],
+      "duration_ms": 172137,
+      "name": "FTCU",
+      "url": "https://open.spotify.com/track/1a73gcEg6h6Re6hHXoVltJ"
     },
     {
       "added_at": "2024-02-20 18:56:56",
@@ -587,6 +587,26 @@
     {
       "added_at": "2024-02-20 18:56:56",
       "album": {
+        "name": "K.I.D.S. (Deluxe)",
+        "url": "https://open.spotify.com/album/6TFm9KGW7Lbxrl2Zsg4X9R"
+      },
+      "artists": [
+        {
+          "name": "Mac Miller",
+          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
+        },
+        {
+          "name": "Empire Of The Sun",
+          "url": "https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c"
+        }
+      ],
+      "duration_ms": 195873,
+      "name": "The Spins",
+      "url": "https://open.spotify.com/track/7FAFkQQZFeNwOFzTrSDFIh"
+    },
+    {
+      "added_at": "2024-02-20 18:56:56",
+      "album": {
         "name": "Barrio Fino (Bonus Track Version)",
         "url": "https://open.spotify.com/album/4pLuE50wL9T26lSv42X0J2"
       },
@@ -615,26 +635,6 @@
       "duration_ms": 235320,
       "name": "Work Out",
       "url": "https://open.spotify.com/track/2wAJTrFhCnQyNSD3oUgTZO"
-    },
-    {
-      "added_at": "2024-02-20 18:56:56",
-      "album": {
-        "name": "K.I.D.S. (Deluxe)",
-        "url": "https://open.spotify.com/album/6TFm9KGW7Lbxrl2Zsg4X9R"
-      },
-      "artists": [
-        {
-          "name": "Mac Miller",
-          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
-        },
-        {
-          "name": "Empire Of The Sun",
-          "url": "https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c"
-        }
-      ],
-      "duration_ms": 195873,
-      "name": "The Spins",
-      "url": "https://open.spotify.com/track/7FAFkQQZFeNwOFzTrSDFIh"
     },
     {
       "added_at": "2024-02-20 18:56:56",
@@ -931,26 +931,6 @@
     {
       "added_at": "2024-02-20 18:56:56",
       "album": {
-        "name": "Do It To It",
-        "url": "https://open.spotify.com/album/58cd90Jkrovggh556JPN9L"
-      },
-      "artists": [
-        {
-          "name": "ACRAZE",
-          "url": "https://open.spotify.com/artist/4pnp4w9g30yLfVIAFnZMRd"
-        },
-        {
-          "name": "Cherish",
-          "url": "https://open.spotify.com/artist/1c70yCa8sRgIiQxl3HOEFo"
-        }
-      ],
-      "duration_ms": 157890,
-      "name": "Do It To It",
-      "url": "https://open.spotify.com/track/20on25jryn53hWghthWWW3"
-    },
-    {
-      "added_at": "2024-02-20 18:56:56",
-      "album": {
         "name": "All Or Nothing",
         "url": "https://open.spotify.com/album/2H66HrVR1UeMlAoSXpxUnk"
       },
@@ -967,6 +947,26 @@
       "duration_ms": 212506,
       "name": "Down",
       "url": "https://open.spotify.com/track/6cmm1LMvZdB5zsCwX5BjqE"
+    },
+    {
+      "added_at": "2024-02-20 18:56:56",
+      "album": {
+        "name": "Do It To It",
+        "url": "https://open.spotify.com/album/58cd90Jkrovggh556JPN9L"
+      },
+      "artists": [
+        {
+          "name": "ACRAZE",
+          "url": "https://open.spotify.com/artist/4pnp4w9g30yLfVIAFnZMRd"
+        },
+        {
+          "name": "Cherish",
+          "url": "https://open.spotify.com/artist/1c70yCa8sRgIiQxl3HOEFo"
+        }
+      ],
+      "duration_ms": 157890,
+      "name": "Do It To It",
+      "url": "https://open.spotify.com/track/20on25jryn53hWghthWWW3"
     },
     {
       "added_at": "2024-02-20 18:56:56",
@@ -1031,26 +1031,6 @@
     {
       "added_at": "2024-02-20 18:56:56",
       "album": {
-        "name": "Boy's a liar Pt. 2",
-        "url": "https://open.spotify.com/album/6cVfHBcp3AdpYY0bBglkLN"
-      },
-      "artists": [
-        {
-          "name": "PinkPantheress",
-          "url": "https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t"
-        },
-        {
-          "name": "Ice Spice",
-          "url": "https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf"
-        }
-      ],
-      "duration_ms": 131013,
-      "name": "Boy's a liar Pt. 2",
-      "url": "https://open.spotify.com/track/6AQbmUe0Qwf5PZnt4HmTXv"
-    },
-    {
-      "added_at": "2024-02-20 18:56:56",
-      "album": {
         "name": "Shine",
         "url": "https://open.spotify.com/album/1fpyVGMhF1vdl4XTFo1IH0"
       },
@@ -1067,6 +1047,26 @@
       "duration_ms": 284733,
       "name": "American Boy",
       "url": "https://open.spotify.com/track/6etwirSInfuJrSOlogS6Sh"
+    },
+    {
+      "added_at": "2024-02-20 18:56:56",
+      "album": {
+        "name": "Boy's a liar Pt. 2",
+        "url": "https://open.spotify.com/album/6cVfHBcp3AdpYY0bBglkLN"
+      },
+      "artists": [
+        {
+          "name": "PinkPantheress",
+          "url": "https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t"
+        },
+        {
+          "name": "Ice Spice",
+          "url": "https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf"
+        }
+      ],
+      "duration_ms": 131013,
+      "name": "Boy's a liar Pt. 2",
+      "url": "https://open.spotify.com/track/6AQbmUe0Qwf5PZnt4HmTXv"
     },
     {
       "added_at": "2024-02-20 18:56:56",
@@ -1529,22 +1529,6 @@
       "url": "https://open.spotify.com/track/2d8JP84HNLKhmd6IYOoupQ"
     },
     {
-      "added_at": "2024-02-20 18:56:56",
-      "album": {
-        "name": "Culture II",
-        "url": "https://open.spotify.com/album/7fd7SEK25VS3gJAUgSwL6y"
-      },
-      "artists": [
-        {
-          "name": "Migos",
-          "url": "https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG"
-        }
-      ],
-      "duration_ms": 190288,
-      "name": "Stir Fry",
-      "url": "https://open.spotify.com/track/2UVbBKQOdFAekPTRsnkzcf"
-    },
-    {
       "added_at": "2024-02-27 14:00:34",
       "album": {
         "name": "Shiver",
@@ -1579,6 +1563,22 @@
       "duration_ms": 188960,
       "name": "Since U Been Gone",
       "url": "https://open.spotify.com/track/3xrn9i8zhNZsTtcoWgQEAd"
+    },
+    {
+      "added_at": "2024-02-20 18:56:56",
+      "album": {
+        "name": "Culture II",
+        "url": "https://open.spotify.com/album/7fd7SEK25VS3gJAUgSwL6y"
+      },
+      "artists": [
+        {
+          "name": "Migos",
+          "url": "https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG"
+        }
+      ],
+      "duration_ms": 190288,
+      "name": "Stir Fry",
+      "url": "https://open.spotify.com/track/2UVbBKQOdFAekPTRsnkzcf"
     },
     {
       "added_at": "2024-02-20 18:56:56",

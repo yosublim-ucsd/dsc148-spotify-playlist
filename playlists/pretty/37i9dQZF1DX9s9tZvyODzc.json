@@ -1,12 +1,12 @@
 {
   "description": "Dale play y dej\u00e1 que la m\u00fasica te lleve.",
-  "num_followers": 132384,
+  "num_followers": 132441,
   "original_name": "Ruta 2",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxNjQ4ZDlhNzUwYTZlODhjNGU4NjJiMzNiYzdlNWY0ODZkNmFlNjc1",
+  "snapshot_id": "MCw2NTRlMzYyYzY2MmY5MDNjNWNkNzFjOWE2M2JmOWJiZDQ0N2MxZmRi",
   "tracks": [
     {
       "added_at": "2024-03-14 22:26:17",
@@ -615,22 +615,6 @@
     {
       "added_at": "2024-03-14 22:26:17",
       "album": {
-        "name": "PAPI JUANCHO",
-        "url": "https://open.spotify.com/album/0p2yf6DucEgvj8Uk8KXJJv"
-      },
-      "artists": [
-        {
-          "name": "Maluma",
-          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
-        }
-      ],
-      "duration_ms": 199112,
-      "name": "Haw\u00e1i",
-      "url": "https://open.spotify.com/track/1yoMvmasuxZfqHEipJhRbp"
-    },
-    {
-      "added_at": "2024-03-14 22:26:17",
-      "album": {
         "name": "If the World Was Ending (feat. Julia Michaels)",
         "url": "https://open.spotify.com/album/7BrlhEO8dHiNmU8A1Ep9RZ"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 208687,
       "name": "If the World Was Ending (feat. Julia Michaels)",
       "url": "https://open.spotify.com/track/2kJwzbxV2ppxnQoYw4GLBZ"
+    },
+    {
+      "added_at": "2024-03-14 22:26:17",
+      "album": {
+        "name": "PAPI JUANCHO",
+        "url": "https://open.spotify.com/album/0p2yf6DucEgvj8Uk8KXJJv"
+      },
+      "artists": [
+        {
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+        }
+      ],
+      "duration_ms": 199112,
+      "name": "Haw\u00e1i",
+      "url": "https://open.spotify.com/track/1yoMvmasuxZfqHEipJhRbp"
     },
     {
       "added_at": "2024-03-14 22:26:17",
@@ -807,22 +807,6 @@
     {
       "added_at": "2024-03-14 22:26:17",
       "album": {
-        "name": "Look Sharp! (Extended Version)",
-        "url": "https://open.spotify.com/album/4rQV5S9FhajZdyzFfcyYw9"
-      },
-      "artists": [
-        {
-          "name": "Roxette",
-          "url": "https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY"
-        }
-      ],
-      "duration_ms": 328093,
-      "name": "Listen To Your Heart",
-      "url": "https://open.spotify.com/track/5JvsxPAHsGxwNq4xto2HtM"
-    },
-    {
-      "added_at": "2024-03-14 22:26:17",
-      "album": {
         "name": "Control",
         "url": "https://open.spotify.com/album/4w177LbRYa3z07NifGptFp"
       },
@@ -839,18 +823,18 @@
     {
       "added_at": "2024-03-14 22:26:17",
       "album": {
-        "name": "Ah\u00ed Vamos",
-        "url": "https://open.spotify.com/album/7KHNK7l8peO0t95I1v7BmP"
+        "name": "Look Sharp! (Extended Version)",
+        "url": "https://open.spotify.com/album/4rQV5S9FhajZdyzFfcyYw9"
       },
       "artists": [
         {
-          "name": "Gustavo Cerati",
-          "url": "https://open.spotify.com/artist/1QOmebWGB6FdFtW7Bo3F0W"
+          "name": "Roxette",
+          "url": "https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY"
         }
       ],
-      "duration_ms": 232026,
-      "name": "Crimen",
-      "url": "https://open.spotify.com/track/3oqWr0jDWNXxWufNogGREp"
+      "duration_ms": 328093,
+      "name": "Listen To Your Heart",
+      "url": "https://open.spotify.com/track/5JvsxPAHsGxwNq4xto2HtM"
     },
     {
       "added_at": "2024-03-14 22:26:17",
@@ -867,6 +851,22 @@
       "duration_ms": 329800,
       "name": "The Best",
       "url": "https://open.spotify.com/track/6pPWRBubXOBAHnjl5ZIujB"
+    },
+    {
+      "added_at": "2024-03-14 22:26:17",
+      "album": {
+        "name": "Ah\u00ed Vamos",
+        "url": "https://open.spotify.com/album/7KHNK7l8peO0t95I1v7BmP"
+      },
+      "artists": [
+        {
+          "name": "Gustavo Cerati",
+          "url": "https://open.spotify.com/artist/1QOmebWGB6FdFtW7Bo3F0W"
+        }
+      ],
+      "duration_ms": 232026,
+      "name": "Crimen",
+      "url": "https://open.spotify.com/track/3oqWr0jDWNXxWufNogGREp"
     },
     {
       "added_at": "2024-03-14 22:26:17",
@@ -903,18 +903,18 @@
     {
       "added_at": "2024-03-14 22:26:17",
       "album": {
-        "name": "Too Low For Zero",
-        "url": "https://open.spotify.com/album/0OmYuz9hwn1XoqmDaU0yJ7"
+        "name": "Signos (Remastered)",
+        "url": "https://open.spotify.com/album/7s2lDvm4FwnWE5RXEoY8Gi"
       },
       "artists": [
         {
-          "name": "Elton John",
-          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+          "name": "Soda Stereo",
+          "url": "https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp"
         }
       ],
-      "duration_ms": 285333,
-      "name": "I Guess That's Why They Call It The Blues",
-      "url": "https://open.spotify.com/track/23l1kVpqMVREiwU1YAlcr4"
+      "duration_ms": 292266,
+      "name": "Persiana Americana - Remasterizado 2007",
+      "url": "https://open.spotify.com/track/71awpJoi5bqGMBrTkHDDoL"
     },
     {
       "added_at": "2024-03-14 22:26:17",
@@ -935,18 +935,18 @@
     {
       "added_at": "2024-03-14 22:26:17",
       "album": {
-        "name": "Signos (Remastered)",
-        "url": "https://open.spotify.com/album/7s2lDvm4FwnWE5RXEoY8Gi"
+        "name": "Too Low For Zero",
+        "url": "https://open.spotify.com/album/0OmYuz9hwn1XoqmDaU0yJ7"
       },
       "artists": [
         {
-          "name": "Soda Stereo",
-          "url": "https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp"
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
         }
       ],
-      "duration_ms": 292266,
-      "name": "Persiana Americana - Remasterizado 2007",
-      "url": "https://open.spotify.com/track/71awpJoi5bqGMBrTkHDDoL"
+      "duration_ms": 285333,
+      "name": "I Guess That's Why They Call It The Blues",
+      "url": "https://open.spotify.com/track/23l1kVpqMVREiwU1YAlcr4"
     },
     {
       "added_at": "2024-03-14 22:26:17",
@@ -1343,22 +1343,6 @@
     {
       "added_at": "2024-03-14 22:26:17",
       "album": {
-        "name": "Dancing On The Ceiling (Expanded Edition)",
-        "url": "https://open.spotify.com/album/5IvqScO5vIXQ2zrxtpCVHf"
-      },
-      "artists": [
-        {
-          "name": "Lionel Richie",
-          "url": "https://open.spotify.com/artist/3gMaNLQm7D9MornNILzdSl"
-        }
-      ],
-      "duration_ms": 270720,
-      "name": "Dancing On The Ceiling",
-      "url": "https://open.spotify.com/track/0snPJPxkk0MbTc0xeUvAPt"
-    },
-    {
-      "added_at": "2024-03-14 22:26:17",
-      "album": {
         "name": "El Trabajo Es La Suerte",
         "url": "https://open.spotify.com/album/4j7afzzctfV0UPUrJKWCQk"
       },
@@ -1371,6 +1355,22 @@
       "duration_ms": 195453,
       "name": "Cerrando Ciclos",
       "url": "https://open.spotify.com/track/3fBJNawfhtgCmo58trRK2z"
+    },
+    {
+      "added_at": "2024-03-14 22:26:17",
+      "album": {
+        "name": "Dancing On The Ceiling (Expanded Edition)",
+        "url": "https://open.spotify.com/album/5IvqScO5vIXQ2zrxtpCVHf"
+      },
+      "artists": [
+        {
+          "name": "Lionel Richie",
+          "url": "https://open.spotify.com/artist/3gMaNLQm7D9MornNILzdSl"
+        }
+      ],
+      "duration_ms": 270720,
+      "name": "Dancing On The Ceiling",
+      "url": "https://open.spotify.com/track/0snPJPxkk0MbTc0xeUvAPt"
     },
     {
       "added_at": "2024-03-14 22:26:17",
@@ -1463,6 +1463,22 @@
     {
       "added_at": "2024-03-14 22:26:17",
       "album": {
+        "name": "El Amor Despu\u00e9s del Amor",
+        "url": "https://open.spotify.com/album/1nDTw13U4zW8YuelhilKW5"
+      },
+      "artists": [
+        {
+          "name": "Fito Paez",
+          "url": "https://open.spotify.com/artist/1bZNv4q3OxYq7mmnLha7Tu"
+        }
+      ],
+      "duration_ms": 311893,
+      "name": "El amor despu\u00e9s del amor",
+      "url": "https://open.spotify.com/track/1PQzZbitOJ6XPFg7FFzsKQ"
+    },
+    {
+      "added_at": "2024-03-14 22:26:17",
+      "album": {
         "name": "Communards",
         "url": "https://open.spotify.com/album/0qqP0gMVjjSEj8odGxMbf3"
       },
@@ -1479,22 +1495,6 @@
       "duration_ms": 271066,
       "name": "Don't Leave Me This Way (with Sarah Jane Morris)",
       "url": "https://open.spotify.com/track/0ire4j2mcGovF5JA1D2cTp"
-    },
-    {
-      "added_at": "2024-03-14 22:26:17",
-      "album": {
-        "name": "El Amor Despu\u00e9s del Amor",
-        "url": "https://open.spotify.com/album/1nDTw13U4zW8YuelhilKW5"
-      },
-      "artists": [
-        {
-          "name": "Fito Paez",
-          "url": "https://open.spotify.com/artist/1bZNv4q3OxYq7mmnLha7Tu"
-        }
-      ],
-      "duration_ms": 311893,
-      "name": "El amor despu\u00e9s del amor",
-      "url": "https://open.spotify.com/track/1PQzZbitOJ6XPFg7FFzsKQ"
     },
     {
       "added_at": "2024-03-14 22:26:17",

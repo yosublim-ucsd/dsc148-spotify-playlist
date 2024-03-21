@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2bIhTmfM3ln.md) - [plain]
 
 > Afrobeats love stories have the best beginnings
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,906 likes - 80 songs - 3 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,974 likes - 80 songs - 3 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2bIhTmfM3ln.md) - [plain]
 | 14 | [high and sober \(go on soun\)](https://open.spotify.com/track/2NndR3RtJRruBdk57CPHfp) | [YKB](https://open.spotify.com/artist/2f8rjDwhSy9IDL6sB6BEEE) | [YUSFUL MUSIC \(RELOADED\)](https://open.spotify.com/album/1zT2lqBx5HcemL9x2M2uwJ) | 2:21 |
 | 15 | [Suleja \(Remix\)](https://open.spotify.com/track/74dRyGZI4LRrfunus25OJ3) | [Tiimie](https://open.spotify.com/artist/0qrPa7IFsPw9t3sLLfotz9), [YKB](https://open.spotify.com/artist/2f8rjDwhSy9IDL6sB6BEEE) | [Suleja \(Remix\)](https://open.spotify.com/album/5i4vHD1u0bPDLQ7bhryOxh) | 2:32 |
 | 16 | [Everything](https://open.spotify.com/track/4zqRu31aWCiHeYMw9GptOO) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [Everything](https://open.spotify.com/album/1WxjIKagr1Vgwk6XTxYh7X) | 2:46 |
-| 17 | [People Pleaser](https://open.spotify.com/track/4sS3l0GDiJ3ZwLIIiuWMFi) | [G\-West](https://open.spotify.com/artist/39utnMndFEvTgT6ldinEaJ) | [People Pleaser](https://open.spotify.com/album/1WhgmvuCmr1J2o8zPqNFGt) | 3:17 |
+| 17 | [People Pleaser](https://open.spotify.com/track/4sS3l0GDiJ3ZwLIIiuWMFi) | [G\-West](https://open.spotify.com/artist/39utnMndFEvTgT6ldinEaJ), [Ghanaian Stallion](https://open.spotify.com/artist/1rrYX4LEdujuVhl43MTpZF) | [People Pleaser](https://open.spotify.com/album/1WhgmvuCmr1J2o8zPqNFGt) | 3:17 |
 | 18 | [POLO](https://open.spotify.com/track/3hO7VuXuBbDHOTFTY5g6L5) | [Kemuel](https://open.spotify.com/artist/0ixmjHuzMTxPyps7w28tnH) | [POLO](https://open.spotify.com/album/4P1mq78i4HKC7ytF3dIl2B) | 2:26 |
 | 19 | [Go Low](https://open.spotify.com/track/4XOdCFCCortagag6YCi7Qu) | [Pheelz](https://open.spotify.com/artist/5Jv1MsZBh0sqokFq7pU8Xg) | [Go Low](https://open.spotify.com/album/46qAo4a7iWazSa0jzHNa73) | 2:04 |
 | 20 | [Guy Like Me](https://open.spotify.com/track/1lxVtfGPUZlgInYySB1GcS) | [Yugoszn](https://open.spotify.com/artist/7yWR3RApVuDFsZ6MqOHyFn) | [Yugoszn](https://open.spotify.com/album/5A6wiJErITKfHgQB5rR7ll) | 2:49 |
@@ -67,14 +67,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2bIhTmfM3ln.md) - [plain]
 | 57 | [Vision](https://open.spotify.com/track/5jLBhr4USswMtmsItEAFqf) | [Qing Madi](https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh) | [Qing Madi](https://open.spotify.com/album/03pDzWfMzVVQL3BRVIutJn) | 2:26 |
 | 58 | [Anabella](https://open.spotify.com/track/1U1RKt97fE9kZvPCrRedm4) | [Khaid](https://open.spotify.com/artist/2mM6BxFQCd6BHzW4W7VhQP) | [Anabella](https://open.spotify.com/album/3JDhPfsTuNRI2rbsKFKizV) | 2:04 |
 | 59 | [reason](https://open.spotify.com/track/2D0HvqDFPK7YmT7kbrzZch) | [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [Boy Alone \(Deluxe\)](https://open.spotify.com/album/5NI7LqHIf9hDtH640m7VI6) | 2:27 |
-| 60 | [Pepe](https://open.spotify.com/track/1F6j0Av7r5UfFNJlSt5hAk) | [Boy Spyce](https://open.spotify.com/artist/6DUbLg2GQ7Dd7G9v6uwoPT) | [Pepe](https://open.spotify.com/album/5hISwgH8KuEFbQ9k89f67x) | 2:13 |
-| 61 | [Perfume](https://open.spotify.com/track/2o7yOQTog50uh8TI0b34fz) | [Calema](https://open.spotify.com/artist/6PIIKavZx20FlVKyIvb4Um) | [Perfume](https://open.spotify.com/album/5zJ1AeTR9z6a7XuEaHxuRF) | 3:40 |
+| 60 | [Perfume](https://open.spotify.com/track/2o7yOQTog50uh8TI0b34fz) | [Calema](https://open.spotify.com/artist/6PIIKavZx20FlVKyIvb4Um) | [Perfume](https://open.spotify.com/album/5zJ1AeTR9z6a7XuEaHxuRF) | 3:40 |
+| 61 | [Pepe](https://open.spotify.com/track/1F6j0Av7r5UfFNJlSt5hAk) | [Boy Spyce](https://open.spotify.com/artist/6DUbLg2GQ7Dd7G9v6uwoPT) | [Pepe](https://open.spotify.com/album/5hISwgH8KuEFbQ9k89f67x) | 2:13 |
 | 62 | [Soweto \(with Omah Lay & Tempoe\)](https://open.spotify.com/track/5bKxwhNieD3qoGmwkoM4Vk) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG), [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO), [Tempoe](https://open.spotify.com/artist/1X7glgDhqNq1qn0Qv9g3K4) | [Soweto \(with Omah Lay & Tempoe\)](https://open.spotify.com/album/7Dw31c2yokW19SZNFtby5X) | 3:02 |
 | 63 | [What's Poppin](https://open.spotify.com/track/38BBkkW2v88ozDGf2FySNj) | [Stefflon Don](https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD), [Bnxn](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [What's Poppin](https://open.spotify.com/album/33FTfk4rgSjlYSeIQozbtw) | 3:15 |
 | 64 | [Believe Me](https://open.spotify.com/track/5wgbfoSDM7EuYVvbd3QWlG) | [Johnny Drille](https://open.spotify.com/artist/4f8vvLN5Rt3WszqOqVR9e9) | [Believe Me](https://open.spotify.com/album/4zG1SZyuLAzxwinmg9Z22F) | 3:31 |
 | 65 | [Body & Soul](https://open.spotify.com/track/1lrHmP6m1Qcmhwlg2yrjdU) | [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF) | [Body & Soul](https://open.spotify.com/album/4CwzVkma2EkIpKwXpHHUdQ) | 2:34 |
-| 66 | [Mumu](https://open.spotify.com/track/05bS6TTT5lXiDfOS4dcAc4) | [DJ Neptune](https://open.spotify.com/artist/3L4ZO0ZaSe1qeucpQK8tBR), [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF) | [Mumu](https://open.spotify.com/album/4veZM4ncERJNqsXZ6ASWeU) | 2:53 |
-| 67 | [Piano](https://open.spotify.com/track/2R6eV26pSgLz2yV5dfgzLL) | [Gabzy](https://open.spotify.com/artist/2sEUjEtnqBphiYquoNfV62), [Lekaa Beats](https://open.spotify.com/artist/3HzmmNkD0FRr2pBSwyUBBY) | [Piano](https://open.spotify.com/album/6hM1d9cytmykFu0qpQ7JpV) | 2:36 |
+| 66 | [Piano](https://open.spotify.com/track/2R6eV26pSgLz2yV5dfgzLL) | [Gabzy](https://open.spotify.com/artist/2sEUjEtnqBphiYquoNfV62), [Lekaa Beats](https://open.spotify.com/artist/3HzmmNkD0FRr2pBSwyUBBY) | [Piano](https://open.spotify.com/album/6hM1d9cytmykFu0qpQ7JpV) | 2:36 |
+| 67 | [Mumu](https://open.spotify.com/track/05bS6TTT5lXiDfOS4dcAc4) | [DJ Neptune](https://open.spotify.com/artist/3L4ZO0ZaSe1qeucpQK8tBR), [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF) | [Mumu](https://open.spotify.com/album/4veZM4ncERJNqsXZ6ASWeU) | 2:53 |
 | 68 | [MYSTERIOUS LOVE](https://open.spotify.com/track/6E60TB6THcK8aglk78MHbS) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [IS IT YOU? / MYSTERIOUS LOVE](https://open.spotify.com/album/3nYZCI9RDtpcy5TtMKjwyS) | 2:32 |
 | 69 | [Cry \(shayo\) \(feat\. Lojay\)](https://open.spotify.com/track/7IK3W4llnnZsSxA9Dm8uhr) | [Majeeed](https://open.spotify.com/artist/3xBgAZIqiYzRh0Du0uXFAk), [Lojay](https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL) | [Cheers To Life.](https://open.spotify.com/album/2fZCPTAas21v7AF9pVytgj) | 2:48 |
 | 70 | [Dalilah](https://open.spotify.com/track/22xDZE9YEZ2W0f19rVb5Gy) | [Joshua Baraka](https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW), [Axon](https://open.spotify.com/artist/3g95XKMEfhHYudfTK9m6Ol) | [Growing Pains](https://open.spotify.com/album/5xLpYZ6JUKj4bqo5Bc2hLx) | 2:47 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2bIhTmfM3ln.md) - [plain]
 | 79 | [Look What You Made Me Do \(with Simi\)](https://open.spotify.com/track/5a314dyLzz8YyFTFjd8X6w) | [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s), [Simi](https://open.spotify.com/artist/4Ns55iOSe1Im2WU2e1Eym0) | [Tequila Ever After](https://open.spotify.com/album/2ZWPLY75DaydQvoeVMHfh3) | 2:54 |
 | 80 | [How Many Times](https://open.spotify.com/track/45Vvoe20MW6GD7FwoacZc8) | [DJ Big N](https://open.spotify.com/artist/2mGQZqxcJJOHMYhU8c7l4B), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq), [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT) | [How Many Times](https://open.spotify.com/album/32pRltYP2ioIOuycPQFpXm) | 3:12 |
 
-Snapshot ID: `MCxiNjJiNGE4NGNhNmRlZDEyNDE3YzBhYTIyNGNkYjU4MzI0YzFkMDYx`
+Snapshot ID: `MCxiOWUzNjdlOGQwOWIwMGU5ZWVhYmEwZWMzM2YwZjczNTQwZmI3Njk3`

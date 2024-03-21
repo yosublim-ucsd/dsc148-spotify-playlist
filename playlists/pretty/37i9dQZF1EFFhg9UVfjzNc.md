@@ -76,4 +76,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFFhg9UVfjzNc.md) - [plain]
 | 66 | [Anseio por Ti](https://open.spotify.com/track/2W12vYVznKRTuW34TM2j0V) | [Simone Medeiros](https://open.spotify.com/artist/07Ax7WxyKbSR0aIFGzalA5) | [Deixa\-Te Modelar](https://open.spotify.com/album/06sZ6iCaL7EV1HOy8bFGhq) | 7:17 |
 | 67 | [Esperança \(feat\. Davidson Silva\)](https://open.spotify.com/track/1CiCxfOQ10xtiQIaTBDCeQ) | [Simone Medeiros](https://open.spotify.com/artist/07Ax7WxyKbSR0aIFGzalA5), [Davidson Silva](https://open.spotify.com/artist/0OdUgZgZEJmXDCkHYqh05z) | [Deixa\-Te Modelar](https://open.spotify.com/album/06sZ6iCaL7EV1HOy8bFGhq) | 6:29 |
 
-Snapshot ID: `Mjg1MTUwMjAsMDAwMDAwMDAxMWQwYWM3MTdmYzViOTczZDRiM2JjZmFhNjRhODJlOQ==`
+Snapshot ID: `Mjg1MTY0NjAsMDAwMDAwMDA0YzhlMzFiYWMxN2FjNDlhZDkzZWM1NzVmYmI3MWYxNQ==`

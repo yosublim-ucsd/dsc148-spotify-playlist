@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JAvHpjipBk.md) - [plain]
 
 > New music from Kacey Musgraves, Cardi B, Justin Timberlake, Gunna, and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,169,398 likes - 100 songs - 5 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,169,607 likes - 100 songs - 5 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -82,7 +82,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JAvHpjipBk.md) - [plain]
 | 72 | [Worst Case Scenario](https://open.spotify.com/track/6FYzRAZxBYuKTGWMmLVi6I) | [Katie Pruitt](https://open.spotify.com/artist/1c5w8KrxGwq44fxM5lGB4s) | [Worst Case Scenario](https://open.spotify.com/album/5IDMf5wH24WxyNRZmGL02o) | 3:26 |
 | 73 | [Troubled Ones](https://open.spotify.com/track/2TeLNVFuTEgy1BuIH7wuOS) | [Samm Henshaw](https://open.spotify.com/artist/1Q2mS59tFYLm2KGFoCgWN4) | [Troubled Ones](https://open.spotify.com/album/6ZRaiZ2f46f8THWzFr4eFn) | 2:40 |
 | 74 | [Come Jesus Come](https://open.spotify.com/track/6WHe4Ilqwx9H5cY8V9glhr) | [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [Come Jesus Come](https://open.spotify.com/album/0aYbAtML1iNwTXvkMdwirB) | 4:58 |
-| 75 | [Keepin' the Lights On](https://open.spotify.com/track/7oVfdrMlhiTtWPmXoZggVw) | [Kameron Marlowe](https://open.spotify.com/artist/31n3CN1jSC5ALUJ9dwT8UI) | [Keepin' the Lights On](https://open.spotify.com/album/2zW8PyKdw9S5yWVPRYsClk) | 3:55 |
+| 75 | [Keepin' The Lights On](https://open.spotify.com/track/7oVfdrMlhiTtWPmXoZggVw) | [Kameron Marlowe](https://open.spotify.com/artist/31n3CN1jSC5ALUJ9dwT8UI) | [Keepin' The Lights On](https://open.spotify.com/album/2zW8PyKdw9S5yWVPRYsClk) | 3:55 |
 | 76 | [Existo](https://open.spotify.com/track/7ITHQze4eUbzMRJyi40dLN) | [Pedro Capó](https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy), [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Existo](https://open.spotify.com/album/0aBkLzScGffWKy1Gz0qHwJ) | 2:55 |
 | 77 | [Spinn On You](https://open.spotify.com/track/2sJFKoTuGxIbz8b1ytHMZM) | [Vedo](https://open.spotify.com/artist/3wVXTWabe3viT0jF7DfjOL) | [Spinn On You](https://open.spotify.com/album/1LgjqLgqPlWVnkBSV43m3w) | 2:20 |
 | 78 | [No Then You A Hoe](https://open.spotify.com/track/203MOiN0JNvWY3JK2zXn17) | [Maxo Kream](https://open.spotify.com/artist/6xS5PpBWaVYraexEkEjjXv) | [No Then You A Hoe](https://open.spotify.com/album/1HAfaURcQ4dp0d0T0nrRAY) | 2:24 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JAvHpjipBk.md) - [plain]
 | 99 | [Waylon In '75](https://open.spotify.com/track/2D2HjhdgjfaMSFLB0scM9L) | [Chayce Beckham](https://open.spotify.com/artist/5ujvZU2thXjZgFKPUt1rDt) | [Songs From Bad For Me](https://open.spotify.com/album/0tT7h6ro2DYhKRa569BjY1) | 3:20 |
 | 100 | [closer \(feat\. salem ilese\)](https://open.spotify.com/track/0woZCazDDjtcbfbb1ouPnM) | [vaultboy](https://open.spotify.com/artist/0K87f3owemzI8NUCoEIXOB), [salem ilese](https://open.spotify.com/artist/3QJUFtGBGL05vo0kCJZsmT) | [closer \(feat\. salem ilese\)](https://open.spotify.com/album/0uw76tQa9eYOLkJhtqYcwD) | 2:54 |
 
-Snapshot ID: `MCwwNDE1MjYwYjgxMWI5NWI5MmMxN2M0OGM4ZWEzNDJkYTRhOWNjODli`
+Snapshot ID: `MCw3ZDQzMTk1ZmVmZjkyOWJkNTUyMmY2YmFkNjI3ZmQ2NmY3ZmE0Nzkz`

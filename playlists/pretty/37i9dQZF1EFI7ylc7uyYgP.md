@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFI7ylc7uyYgP.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2LTWvs1eqq4r0Qln13AssN">Phil Bentley</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 20 likes - 132 songs - 6 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 21 likes - 132 songs - 6 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,8 +59,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFI7ylc7uyYgP.md) - [plain]
 | 49 | [What Do You Know?](https://open.spotify.com/track/45SojDyLOgGJZlp8yv5Ifw) | [Neptunica](https://open.spotify.com/artist/5dGsIOepO9ufQlXjW8KrPL), [Felix Schorn](https://open.spotify.com/artist/5Y3LAQBJps65m6FDjYimC4), [MEELA](https://open.spotify.com/artist/23mSn69IMflxLp3HPf7goI) | [What Do You Know?](https://open.spotify.com/album/22mb3jBg2dVyW5VT6RgRZS) | 2:08 |
 | 50 | [Ice Skater Extraordinaire](https://open.spotify.com/track/4jrKOrMSQvpiyvDepGZQq8) | [Fancy Nancy \- Cast](https://open.spotify.com/artist/4l4bo3QrT0fqA2brroiv34) | [Disney Junior Music: Fancy Nancy](https://open.spotify.com/album/1mMKPPInoqT49MtSQYZK5N) | 0:57 |
 | 51 | [Friendship Pas de Deux](https://open.spotify.com/track/7oywPQ3gVWcBoUBAoLeY5P) | [Fancy Nancy \- Cast](https://open.spotify.com/artist/4l4bo3QrT0fqA2brroiv34) | [Disney Junior Music: Fancy Nancy](https://open.spotify.com/album/1mMKPPInoqT49MtSQYZK5N) | 0:52 |
-| 52 | [Complain \- COFRESI Remix](https://open.spotify.com/track/57efnVNmEV540jiXVyBZQB) | [Too Close To Touch](https://open.spotify.com/artist/2XziUthG3Ug3eiWuE5KRsp), [COFRESI](https://open.spotify.com/artist/5qqc3uTsdX82MR0IpU5jsY) | [Complain \(COFRESI Remix\)](https://open.spotify.com/album/4WZEd6gUNQUZRdg6TOBXqF) | 4:53 |
-| 53 | [Trust in Me](https://open.spotify.com/track/38wNMduPdinI2fjg7Y729M) | [Fancy Nancy \- Cast](https://open.spotify.com/artist/4l4bo3QrT0fqA2brroiv34) | [Disney Junior Music: Fancy Nancy](https://open.spotify.com/album/1mMKPPInoqT49MtSQYZK5N) | 1:01 |
+| 52 | [Trust in Me](https://open.spotify.com/track/38wNMduPdinI2fjg7Y729M) | [Fancy Nancy \- Cast](https://open.spotify.com/artist/4l4bo3QrT0fqA2brroiv34) | [Disney Junior Music: Fancy Nancy](https://open.spotify.com/album/1mMKPPInoqT49MtSQYZK5N) | 1:01 |
+| 53 | [Complain \- COFRESI Remix](https://open.spotify.com/track/57efnVNmEV540jiXVyBZQB) | [Too Close To Touch](https://open.spotify.com/artist/2XziUthG3Ug3eiWuE5KRsp), [COFRESI](https://open.spotify.com/artist/5qqc3uTsdX82MR0IpU5jsY) | [Complain \(COFRESI Remix\)](https://open.spotify.com/album/4WZEd6gUNQUZRdg6TOBXqF) | 4:53 |
 | 54 | [Café Parfait](https://open.spotify.com/track/0dknia0OG7BKLpbAWfwTZX) | [Fancy Nancy \- Cast](https://open.spotify.com/artist/4l4bo3QrT0fqA2brroiv34) | [Disney Junior Music: Fancy Nancy](https://open.spotify.com/album/1mMKPPInoqT49MtSQYZK5N) | 1:19 |
 | 55 | [All You Good Friends](https://open.spotify.com/track/5mziNXamtkgdvcmKt7198d) | [Kevin Simm](https://open.spotify.com/artist/1CuoMwkIXKILoyW9dIXziU) | [All You Good Friends](https://open.spotify.com/album/7uRg23QH5OnhG2a7hFMk3d) | 3:07 |
 | 56 | [Chase](https://open.spotify.com/track/4XMOKjC9hl7edd6K7Xme6p) | [VASSY](https://open.spotify.com/artist/7HqEmV7FeCi16bQyHMpIrF), [Bonka](https://open.spotify.com/artist/3HIgSx8t7957kFVbwGrSRF) | [Chase](https://open.spotify.com/album/0nIBjU1a0ilvEj8jCTKEtM) | 2:45 |
@@ -107,8 +107,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFI7ylc7uyYgP.md) - [plain]
 | 97 | [Steal The Show \- Radio Mix](https://open.spotify.com/track/0ZMgOwYmaG9Ph9JhVbcTwv) | [David Campoy](https://open.spotify.com/artist/7zQSea9t3QVdiYuNaICvde), [VASSY](https://open.spotify.com/artist/7HqEmV7FeCi16bQyHMpIrF) | [Steal The Show](https://open.spotify.com/album/0hflsCci66hpJf8TUCpIcE) | 3:45 |
 | 98 | [The Love You Left Behind](https://open.spotify.com/track/3wK48lSPDdMLTlEFiwHQET) | [Fancy Nancy \- Cast](https://open.spotify.com/artist/4l4bo3QrT0fqA2brroiv34) | [Disney Junior Music: Fancy Nancy Vol\. 2](https://open.spotify.com/album/4NENHWZC5qqmEDerzPF0pW) | 2:05 |
 | 99 | [NEVER ENOUGH](https://open.spotify.com/track/2AKZFDTtpPmER9xjWmHUky) | [Kumi Koda](https://open.spotify.com/artist/2mGYHril2LuZodRtTX06BC) | [AND](https://open.spotify.com/album/3yupMUt216GtqDC7RNXnrw) | 3:17 |
-| 100 | [Wasted \- Dave Aude Remix](https://open.spotify.com/track/1t1GMA0f3iiwo48NjXR4au) | [Majesty](https://open.spotify.com/artist/7wFryXeiMbqt0vDuoUwetX), [Dave Audé](https://open.spotify.com/artist/1vWImodgVqIgTUkekGEfR9) | [Wasted \(Dave Aude Remix\)](https://open.spotify.com/album/031JgbACqqEFo9St66G7Zf) | 4:05 |
-| 101 | [Somebody To You](https://open.spotify.com/track/1V1yRZA4w6D366wFXypWMb) | [CVBZ](https://open.spotify.com/artist/0pt7PX4Hftlg8mV1ySU84Q), [Anna Clendening](https://open.spotify.com/artist/2y9j8qUwBMGPYPQJJxmYzD), [teamwork.](https://open.spotify.com/artist/6YbvyuBTs8JbVj7iyurrJe) | [Somebody To You](https://open.spotify.com/album/6TNHvHOMtvDrV03jzvWSS4) | 3:02 |
+| 100 | [Somebody To You](https://open.spotify.com/track/1V1yRZA4w6D366wFXypWMb) | [CVBZ](https://open.spotify.com/artist/0pt7PX4Hftlg8mV1ySU84Q), [Anna Clendening](https://open.spotify.com/artist/2y9j8qUwBMGPYPQJJxmYzD), [teamwork.](https://open.spotify.com/artist/6YbvyuBTs8JbVj7iyurrJe) | [Somebody To You](https://open.spotify.com/album/6TNHvHOMtvDrV03jzvWSS4) | 3:02 |
+| 101 | [Wasted \- Dave Aude Remix](https://open.spotify.com/track/1t1GMA0f3iiwo48NjXR4au) | [Majesty](https://open.spotify.com/artist/7wFryXeiMbqt0vDuoUwetX), [Dave Audé](https://open.spotify.com/artist/1vWImodgVqIgTUkekGEfR9) | [Wasted \(Dave Aude Remix\)](https://open.spotify.com/album/031JgbACqqEFo9St66G7Zf) | 4:05 |
 | 102 | [What Makes Christmas Fancy \- From "Fancy Nancy"](https://open.spotify.com/track/5MB3BzUrSZ8kw1loRI4Apr) | [Fancy Nancy \- Cast](https://open.spotify.com/artist/4l4bo3QrT0fqA2brroiv34) | [Disney Junior Music: Holiday Hits Vol\. 2](https://open.spotify.com/album/21QNtwPTVHnOEtZrHLbmBc) | 1:34 |
 | 103 | [Demonstrate \- Remix](https://open.spotify.com/track/472zkfB9jGucvEgJZddxYp) | [BLACKSWAN](https://open.spotify.com/artist/2ujaWf015QoP7x1u20Yq5G) | [Goodbye RANIA](https://open.spotify.com/album/1rIaUbLyxidH8GskXTOYsV) | 3:03 |
 | 104 | [Gimme U](https://open.spotify.com/track/0tEGWL35SBT4VkEp9RSqqu) | [Kumi Koda](https://open.spotify.com/artist/2mGYHril2LuZodRtTX06BC) | [WALK OF MY LIFE](https://open.spotify.com/album/74m4nnIEJqwiBD3Lv6f4Xt) | 3:17 |
@@ -141,4 +141,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFI7ylc7uyYgP.md) - [plain]
 | 131 | [Lion's Den](https://open.spotify.com/track/1E94YM2HPqbRdVP8gW7s42) | [Punch !nc](https://open.spotify.com/artist/0iRdgcSMVRBHPqEXWdqMkl) | [The High L!fe](https://open.spotify.com/album/6AkxONHcB8l41HvWInyF7q) | 3:52 |
 | 132 | [Earthquake](https://open.spotify.com/track/19h8d5HremCgEauVczVnRk) | [Tisno van Diemen](https://open.spotify.com/artist/10Uzu9lJidelQ1duiV8kvb) | [Dance Bangerz, Vol\. 4](https://open.spotify.com/album/50LlNy1XkPd4cymjIcuKH2) | 3:09 |
 
-Snapshot ID: `Mjg1MTUwMTAsMDAwMDAwMDA5MzQzMjU4NDE5ZThiYWUwYTc1NDFkMWE4NTdhNjVjZA==`
+Snapshot ID: `Mjg1MTY0MzAsMDAwMDAwMDBjYTBiZjk2NjAxZjJiN2NjYzgwNzgxZWNiYTE0MmE3Yw==`

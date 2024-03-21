@@ -4,7 +4,7 @@
 
 > next gen pop Cover: Madison Beer
 
-1,883 songs - 3 day 19 hr 38 min
+1,884 songs - 3 day 19 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -139,7 +139,8 @@
 | [AT LEAST I'M GOOD AT IT](https://open.spotify.com/track/1KrLtIuOgZ1QiIxBqGb4NF) | [NERIAH](https://open.spotify.com/artist/1dUrqVHcv2FCXxlIqzIbiG) | [AT LEAST I'M GOOD AT IT](https://open.spotify.com/album/3ALTi5aB725LhPjGikjG4Z) | 2:28 | 2022-04-22 | 2022-07-23 |
 | [Attention](https://open.spotify.com/track/11xC6P3iKYpFThT6Ce1KdG) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Attention](https://open.spotify.com/album/38xgBOLAcKoYWMSXWUDH1E) | 4:37 | 2023-06-16 | 2023-08-05 |
 | [Attention](https://open.spotify.com/track/2pIUpMhHL6L9Z5lnKxJJr9) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [NewJeans 1st EP 'New Jeans'](https://open.spotify.com/album/1HMLpmZAnNyl9pxvOnTovV) | 3:00 | 2022-08-24 | 2022-09-24 |
-| [Austin](https://open.spotify.com/track/4NJqhmkGN042BrvHoMKUrJ) | [Dasha](https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I) | [Austin](https://open.spotify.com/album/4JtlZzYJEa7bejLF0ASnk0) | 2:51 | 2024-02-16 |  |
+| [Austin](https://open.spotify.com/track/4NJqhmkGN042BrvHoMKUrJ) | [Dasha](https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I) | [Austin](https://open.spotify.com/album/4JtlZzYJEa7bejLF0ASnk0) | 2:51 | 2024-02-16 | 2024-03-21 |
+| [Austin](https://open.spotify.com/track/6b81dy3WjbozXK6b7C1gu5) | [Dasha](https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I) | [What Happens Now?](https://open.spotify.com/album/0rQRrrZPPv6XXsxilJ1wFz) | 2:51 | 2024-02-16 |  |
 | [AVA](https://open.spotify.com/track/7bdpStmJdlw9GKBPTOkDwT) | [Natalie Jane](https://open.spotify.com/artist/5bfglVyGJppmmNoC2rhBUG) | [AVA](https://open.spotify.com/album/63WPi0R6qTveHv31Djy7D1) | 2:39 | 2022-11-18 | 2023-02-18 |
 | [Baby Blue](https://open.spotify.com/track/4FSIfpGQEdJsLXIbufqvOo) | [Luke Hemmings](https://open.spotify.com/artist/4UFShyUQuA8dguoZrqX0jQ) | [When Facing the Things We Turn Away From](https://open.spotify.com/album/5T1HI88OceUlUExSsAM3GQ) | 3:43 | 2021-08-14 | 2021-10-09 |
 | [Baby Why](https://open.spotify.com/track/7qLUUHpvOezSnNERh4IRPx) | [Sarah Cothran](https://open.spotify.com/artist/3kft86DbqCNr7rjq3pEj0G) | [Baby Why](https://open.spotify.com/album/0zOk2HI3PFMENdCrYXc3gu) | 2:44 | 2022-07-29 | 2022-08-13 |

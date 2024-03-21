@@ -4,7 +4,7 @@
 
 > Mzansi's musical wealth and heritage in one playlist.
 
-173 songs - 14 hr 48 min
+174 songs - 14 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,7 +29,8 @@
 | [Burn Out](https://open.spotify.com/track/1wzXBdFFWIOEKzVG9JmbEm) | [Sipho 'Hotstix' Mabuse](https://open.spotify.com/artist/7MUhpMHsLOpEj7figPjCBx) | [The Ultimate 'Hotstix'](https://open.spotify.com/album/19uCaDMs2fpsvwG5eMqaFG) | 4:54 | 2018-09-23 | 2022-09-25 |
 | [Burn Out](https://open.spotify.com/track/38AtqB4TsqKPnE8yl9xnVh) | [Sipho 'Hotstix' Mabuse](https://open.spotify.com/artist/7MUhpMHsLOpEj7figPjCBx) | [The Best Of](https://open.spotify.com/album/5I0B6IcTYae0LW5gkLW1Ko) | 4:54 | 2018-09-23 | 2022-07-29 |
 | [Burn Out](https://open.spotify.com/track/42pZrEQeTK8wFryruynyhP) | [Sipho 'Hotstix' Mabuse](https://open.spotify.com/artist/7MUhpMHsLOpEj7figPjCBx) | [The Ultimate 'Hotstix'](https://open.spotify.com/album/2ugAbmeyoFb9qTNQRwcOSe) | 4:54 | 2021-06-27 | 2022-10-14 |
-| [Caracara](https://open.spotify.com/track/4A9say7qoHC3LJTFtK77CY) | [K.O](https://open.spotify.com/artist/3ilw3NJXRWd153LIBsme1z), [Kid X](https://open.spotify.com/artist/7bbG2jEwQ56ay7Ve4QW3Bf) | [Skhanda Republic](https://open.spotify.com/album/0i15VXopYrR8o0iHP5VCcf) | 3:46 | 2019-07-12 |  |
+| [Caracara](https://open.spotify.com/track/4A9say7qoHC3LJTFtK77CY) | [K.O](https://open.spotify.com/artist/3ilw3NJXRWd153LIBsme1z), [Kid X](https://open.spotify.com/artist/7bbG2jEwQ56ay7Ve4QW3Bf) | [Skhanda Republic](https://open.spotify.com/album/0i15VXopYrR8o0iHP5VCcf) | 3:46 | 2019-07-12 | 2024-03-21 |
+| [Caracara \(feat\. Kid X\)](https://open.spotify.com/track/5DkpLaa51TUtXEEkmzG6Lj) | [K.O](https://open.spotify.com/artist/3ilw3NJXRWd153LIBsme1z), [Kid X](https://open.spotify.com/artist/7bbG2jEwQ56ay7Ve4QW3Bf) | [Skhanda Republic](https://open.spotify.com/album/5W47Ej2vjcxQuPNFzIRmmT) | 3:46 | 2023-01-23 |  |
 | [Congratulate](https://open.spotify.com/track/2LgLbExDtMKJhEf4nWqCYS) | [AKA](https://open.spotify.com/artist/1QIghPIrXQQ22G1yNtAKFX) | [Congratulate](https://open.spotify.com/album/0WajbtAUUOxGMVSC8SSEoq) | 3:48 | 2019-02-03 | 2022-12-24 |
 | [Cooler as Ekke](https://open.spotify.com/track/4fBxUtH4erpLDc2BEvUkgf) | [Jack Parow](https://open.spotify.com/artist/2zzOTg1SHx5vuqgcexJRxA) | [Jack Parow](https://open.spotify.com/album/4NOqbyrs8P30p5fXgcCqX4) | 4:08 | 2019-02-03 |  |
 | [Destiny](https://open.spotify.com/track/5mLqm5pmZozHmJltZrlUVT) | [Malaika](https://open.spotify.com/artist/1CfUYtjNZALWpmoPCiL1aM) | [Malaika](https://open.spotify.com/album/1BNliBcI4tJ0g8t81w8n7z) | 7:22 | 2019-02-03 |  |

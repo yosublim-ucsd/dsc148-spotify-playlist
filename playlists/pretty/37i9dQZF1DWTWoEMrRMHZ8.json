@@ -1,12 +1,12 @@
 {
   "description": "As belas novidades da MPB. Foto: Castello Branco",
-  "num_followers": 346532,
+  "num_followers": 346566,
   "original_name": "Divina MPB",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5OWMwZDRiNjE3YzY4ZjZiZmZkMjMxZDkwMjViMjZlYjZmYmU2ZTRj",
+  "snapshot_id": "MCw4NDljNWFiNjUyOWEzNTc1MmVjNjIwZmE4NDQyM2UzYzZmNDk0MDQ3",
   "tracks": [
     {
       "added_at": "2024-03-18 14:00:19",
@@ -359,26 +359,6 @@
     {
       "added_at": "2024-03-18 14:00:19",
       "album": {
-        "name": "Jardins Da Babil\u00f4nia",
-        "url": "https://open.spotify.com/album/17eUYWC6XmUTbYFQ94wP0e"
-      },
-      "artists": [
-        {
-          "name": "J\u00e3o",
-          "url": "https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2"
-        },
-        {
-          "name": "Julia Mestre",
-          "url": "https://open.spotify.com/artist/1FnGKreDca8xq3juSi5hAE"
-        }
-      ],
-      "duration_ms": 177546,
-      "name": "Jardins Da Babil\u00f4nia",
-      "url": "https://open.spotify.com/track/6hiez1vBKYqDdPKCQOIEg0"
-    },
-    {
-      "added_at": "2024-03-18 14:00:19",
-      "album": {
         "name": "N\u00e3o Te Largo, N\u00e3o Te Troco (Ac\u00fastico)",
         "url": "https://open.spotify.com/album/26z3fDJcPN0KaxrdFxC8yX"
       },
@@ -395,6 +375,26 @@
       "duration_ms": 230772,
       "name": "N\u00e3o Te Largo, N\u00e3o Te Troco - Ac\u00fastico",
       "url": "https://open.spotify.com/track/20oATguIKxxfwp1h9MlNGZ"
+    },
+    {
+      "added_at": "2024-03-18 14:00:19",
+      "album": {
+        "name": "Jardins Da Babil\u00f4nia",
+        "url": "https://open.spotify.com/album/17eUYWC6XmUTbYFQ94wP0e"
+      },
+      "artists": [
+        {
+          "name": "J\u00e3o",
+          "url": "https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2"
+        },
+        {
+          "name": "Julia Mestre",
+          "url": "https://open.spotify.com/artist/1FnGKreDca8xq3juSi5hAE"
+        }
+      ],
+      "duration_ms": 177546,
+      "name": "Jardins Da Babil\u00f4nia",
+      "url": "https://open.spotify.com/track/6hiez1vBKYqDdPKCQOIEg0"
     },
     {
       "added_at": "2024-03-18 14:00:19",
@@ -851,6 +851,22 @@
     {
       "added_at": "2024-03-18 14:00:19",
       "album": {
+        "name": "Ser\u00e1 que eu t\u00f4 gostando dela? (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/6uDkd4k8tUXoXNGkuw2C7T"
+      },
+      "artists": [
+        {
+          "name": "Tuca Oliveira",
+          "url": "https://open.spotify.com/artist/2VvZoYg1jc8rfndlvnn43k"
+        }
+      ],
+      "duration_ms": 196319,
+      "name": "Ser\u00e1 que eu t\u00f4 gostando dela? (Ac\u00fastico)",
+      "url": "https://open.spotify.com/track/2NKaOIKEoRdCitUlZXLRLA"
+    },
+    {
+      "added_at": "2024-03-18 14:00:19",
+      "album": {
         "name": "Dan\u00e7a",
         "url": "https://open.spotify.com/album/4KvxHv4e93jbIEUrjWzrh0"
       },
@@ -871,22 +887,6 @@
       "duration_ms": 182780,
       "name": "Dan\u00e7a",
       "url": "https://open.spotify.com/track/4zOwbaaLKlivAFL8ueaLTo"
-    },
-    {
-      "added_at": "2024-03-18 14:00:19",
-      "album": {
-        "name": "Ser\u00e1 que eu t\u00f4 gostando dela? (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/6uDkd4k8tUXoXNGkuw2C7T"
-      },
-      "artists": [
-        {
-          "name": "Tuca Oliveira",
-          "url": "https://open.spotify.com/artist/2VvZoYg1jc8rfndlvnn43k"
-        }
-      ],
-      "duration_ms": 196319,
-      "name": "Ser\u00e1 que eu t\u00f4 gostando dela? (Ac\u00fastico)",
-      "url": "https://open.spotify.com/track/2NKaOIKEoRdCitUlZXLRLA"
     },
     {
       "added_at": "2024-03-18 14:00:19",
@@ -1119,6 +1119,22 @@
     {
       "added_at": "2024-03-18 14:00:19",
       "album": {
+        "name": "Sonho de Rainha Rei",
+        "url": "https://open.spotify.com/album/3snZBvOcbyhRfwOzbVxjmQ"
+      },
+      "artists": [
+        {
+          "name": "Jair Oliveira",
+          "url": "https://open.spotify.com/artist/1kuKDHZD1oPXwVZviVgRbV"
+        }
+      ],
+      "duration_ms": 251686,
+      "name": "Sonho de Rainha Rei",
+      "url": "https://open.spotify.com/track/0kOtSOUyumKGiN21NTF30l"
+    },
+    {
+      "added_at": "2024-03-18 14:00:19",
+      "album": {
         "name": "Prosa e Papo",
         "url": "https://open.spotify.com/album/1k4sGM3BS8H0DZgkiPIEP5"
       },
@@ -1135,22 +1151,6 @@
       "duration_ms": 165451,
       "name": "Prosa e Papo",
       "url": "https://open.spotify.com/track/2eIdyP8gTMCLzURZpPS90W"
-    },
-    {
-      "added_at": "2024-03-18 14:00:19",
-      "album": {
-        "name": "Sonho de Rainha Rei",
-        "url": "https://open.spotify.com/album/3snZBvOcbyhRfwOzbVxjmQ"
-      },
-      "artists": [
-        {
-          "name": "Jair Oliveira",
-          "url": "https://open.spotify.com/artist/1kuKDHZD1oPXwVZviVgRbV"
-        }
-      ],
-      "duration_ms": 251686,
-      "name": "Sonho de Rainha Rei",
-      "url": "https://open.spotify.com/track/0kOtSOUyumKGiN21NTF30l"
     },
     {
       "added_at": "2024-03-18 14:00:19",
@@ -1175,6 +1175,22 @@
     {
       "added_at": "2024-03-18 14:00:19",
       "album": {
+        "name": "Caixas",
+        "url": "https://open.spotify.com/album/0lasXYU6iEWxpf8OZTCgXe"
+      },
+      "artists": [
+        {
+          "name": "Rebeca",
+          "url": "https://open.spotify.com/artist/1n50LGC4ZlJrgHFjsurNWN"
+        }
+      ],
+      "duration_ms": 173168,
+      "name": "Caixas",
+      "url": "https://open.spotify.com/track/0yJpjl50dWrBXFAM5PkHqZ"
+    },
+    {
+      "added_at": "2024-03-18 14:00:19",
+      "album": {
         "name": "Aguidavi do J\u00eaje",
         "url": "https://open.spotify.com/album/7K6kcsFW1DoxOSRTfUdCF8"
       },
@@ -1195,22 +1211,6 @@
       "duration_ms": 480156,
       "name": "Viol\u00e3o de caba\u00e7a",
       "url": "https://open.spotify.com/track/62dWpYZtK9ymH3IxxhZYZW"
-    },
-    {
-      "added_at": "2024-03-18 14:00:19",
-      "album": {
-        "name": "Caixas",
-        "url": "https://open.spotify.com/album/0lasXYU6iEWxpf8OZTCgXe"
-      },
-      "artists": [
-        {
-          "name": "Rebeca",
-          "url": "https://open.spotify.com/artist/1n50LGC4ZlJrgHFjsurNWN"
-        }
-      ],
-      "duration_ms": 173168,
-      "name": "Caixas",
-      "url": "https://open.spotify.com/track/0yJpjl50dWrBXFAM5PkHqZ"
     },
     {
       "added_at": "2024-03-18 14:00:19",
@@ -1327,6 +1327,22 @@
     {
       "added_at": "2024-03-18 14:00:19",
       "album": {
+        "name": "V\u00e1 Com Deus",
+        "url": "https://open.spotify.com/album/3bJQlPAJkRqwdGAelkccNh"
+      },
+      "artists": [
+        {
+          "name": "Doral",
+          "url": "https://open.spotify.com/artist/3yMvydJf1VUFfuFjdYK3Hp"
+        }
+      ],
+      "duration_ms": 172268,
+      "name": "V\u00e1 Com Deus",
+      "url": "https://open.spotify.com/track/7HzpaONbbliAzPvtnh96UC"
+    },
+    {
+      "added_at": "2024-03-18 14:00:19",
+      "album": {
         "name": "O Amor Mata Sim",
         "url": "https://open.spotify.com/album/1xbBPaoeswYFhlas5WJxih"
       },
@@ -1359,22 +1375,6 @@
       "duration_ms": 289000,
       "name": "A Lenda do Abaet\u00e9",
       "url": "https://open.spotify.com/track/3xGv2WGYRCpHPVj7aEUSXY"
-    },
-    {
-      "added_at": "2024-03-18 14:00:19",
-      "album": {
-        "name": "V\u00e1 Com Deus",
-        "url": "https://open.spotify.com/album/3bJQlPAJkRqwdGAelkccNh"
-      },
-      "artists": [
-        {
-          "name": "Doral",
-          "url": "https://open.spotify.com/artist/3yMvydJf1VUFfuFjdYK3Hp"
-        }
-      ],
-      "duration_ms": 172268,
-      "name": "V\u00e1 Com Deus",
-      "url": "https://open.spotify.com/track/7HzpaONbbliAzPvtnh96UC"
     },
     {
       "added_at": "2024-03-18 14:00:19",

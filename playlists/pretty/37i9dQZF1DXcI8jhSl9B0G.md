@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcI8jhSl9B0G.md) - [plain]
 
 > Tunes for sun drenched days and balmy nights.
 
-[Spotify](https://open.spotify.com/user/spotify) - 75,350 likes - 60 songs - 3 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 75,353 likes - 60 songs - 3 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcI8jhSl9B0G.md) - [plain]
 | 22 | [Stoney Creek](https://open.spotify.com/track/0ik7YpGVcjTkXBrUv4SaqR) | [Xavier Rudd](https://open.spotify.com/artist/5lbM4g6bhxjNX7R5QHP2nD) | [Jan Juc Moon](https://open.spotify.com/album/0zXonPXtpDEb32sy6PkTsw) | 4:37 |
 | 23 | [Wolves](https://open.spotify.com/track/59hfgU3tsQ0zKpSX7toiwn) | [Azure Ryder](https://open.spotify.com/artist/5RTpt7F1M8N8w1JlnDBeH8) | [Running With The Wolves](https://open.spotify.com/album/1bIiBK6CIaCkkzNREai3je) | 2:43 |
 | 24 | [Ordinary People](https://open.spotify.com/track/3y8PDnOgyPXasEnEoYKXwb) | [Blake Rose](https://open.spotify.com/artist/7wLyGTO9vUS7ndlq4BvBGe) | [A World Gone By](https://open.spotify.com/album/1v6uXxqTdAlPttUpBFesB8) | 4:13 |
-| 25 | [Quiet Moon, Wild Sea](https://open.spotify.com/track/4fOMpHPfJB3v65iVNSBkxy) | [Dustin Tebbutt](https://open.spotify.com/artist/0z9hynUsIjf0ddI4uHqPWX) | [Quiet Moon, Wild Sea](https://open.spotify.com/album/0TRwHdBtNJyI7d2Pfboc2b) | 4:08 |
-| 26 | [Lonely Nights](https://open.spotify.com/track/1NDRPRFMVnmjqfyfokw2Kq) | [Hollow Coves](https://open.spotify.com/artist/7IAFAOtc9kTYNTizhLSWM6), [Priscilla Ahn](https://open.spotify.com/artist/5oU0tZlItLctcLOQPS3mCy) | [Lonely Nights](https://open.spotify.com/album/0vJAXq86NlUT3gAKfuohvm) | 3:39 |
+| 25 | [Lonely Nights](https://open.spotify.com/track/1NDRPRFMVnmjqfyfokw2Kq) | [Hollow Coves](https://open.spotify.com/artist/7IAFAOtc9kTYNTizhLSWM6), [Priscilla Ahn](https://open.spotify.com/artist/5oU0tZlItLctcLOQPS3mCy) | [Lonely Nights](https://open.spotify.com/album/0vJAXq86NlUT3gAKfuohvm) | 3:39 |
+| 26 | [Quiet Moon, Wild Sea](https://open.spotify.com/track/4fOMpHPfJB3v65iVNSBkxy) | [Dustin Tebbutt](https://open.spotify.com/artist/0z9hynUsIjf0ddI4uHqPWX) | [Quiet Moon, Wild Sea](https://open.spotify.com/album/0TRwHdBtNJyI7d2Pfboc2b) | 4:08 |
 | 27 | [Pretty Lady](https://open.spotify.com/track/31ys9ZVrUE0HyS2C6ePzpn) | [Tash Sultana](https://open.spotify.com/artist/6zVFRTB0Y1whWyH7ZNmywf) | [Terra Firma](https://open.spotify.com/album/7o1gl7In7Onhi6KpQwUDWy) | 4:39 |
 | 28 | [heartbeat](https://open.spotify.com/track/7vAG5pwx3isF20fa3uuDXC) | [Ziggy Alberts](https://open.spotify.com/artist/6tuPdaFPIytg3l2f51L7Hw) | [searching for freedom](https://open.spotify.com/album/3X06VUjGsF0QAOPXercS7L) | 4:31 |
 | 29 | [Inappropriate Behaviour](https://open.spotify.com/track/1dvthmMza4Qi6F4pQQBqbS) | [Sons Of The East](https://open.spotify.com/artist/6cSxzHrQgGc4I4Ck5Gewej) | [Inappropriate Behaviour](https://open.spotify.com/album/7BQwIrJWEtIkiYPEGV1XQY) | 3:16 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcI8jhSl9B0G.md) - [plain]
 | 59 | [Liquid Love](https://open.spotify.com/track/20f37PJbRwppnrX861JwDF) | [Jack Botts](https://open.spotify.com/artist/4VeyhwBUfsaWMkQ2Ld8QNl) | [Hold You Tapes](https://open.spotify.com/album/2l2ksIRybv0BveIAdmFaJQ) | 3:11 |
 | 60 | [Tears Don’t Fall](https://open.spotify.com/track/2T3whAdkzXCT58yFXsZgjm) | [Terrible Sons](https://open.spotify.com/artist/3eaJ1prUilN6z7yoFx9u2g) | [Half Awake, Half Asleep](https://open.spotify.com/album/7cHSI1g84HZbJ2GwauTahA) | 3:10 |
 
-Snapshot ID: `MCxjNWVjOGJkZTgwYTlkNjQzOGZhNzdjMjBiMzQwOTQ1YmQzYzA1NzQ1`
+Snapshot ID: `MCw2YmQzNTIwNzNlODExMzBjZTc2NjhlNmM0NDg3YTgwNjhmNDNlOGNk`

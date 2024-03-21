@@ -1,12 +1,12 @@
 {
   "description": "Go hard or go home. Cover: K Motionz",
-  "num_followers": 57313,
+  "num_followers": 57374,
   "original_name": "Jump Up!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhOTMzMDMwMjdjNWE4Yjg5NWM3MjEzMGVmZjIyNmIyNzk2MDU5Zjdl",
+  "snapshot_id": "MCw5Y2JhM2Q3MDFjZTc3NTdjZWExYjM2OWFhNTNmMGQ2NjE3YWQ0OWJl",
   "tracks": [
     {
       "added_at": "2024-03-01 11:56:20",
@@ -55,7 +55,7 @@
     {
       "added_at": "2024-03-01 11:56:20",
       "album": {
-        "name": "Run (Part 1)",
+        "name": "Run, Pt. 1",
         "url": "https://open.spotify.com/album/1NqOxMj2QqMhgne014NwQs"
       },
       "artists": [
@@ -69,7 +69,7 @@
         }
       ],
       "duration_ms": 135085,
-      "name": "Run (Part 1)",
+      "name": "Run, Pt. 1",
       "url": "https://open.spotify.com/track/4YWZse32ILPANRnB9EVyIm"
     },
     {
@@ -551,22 +551,6 @@
     {
       "added_at": "2024-03-01 11:56:20",
       "album": {
-        "name": "Bass",
-        "url": "https://open.spotify.com/album/3hVol43tkxVVOUc2yafClu"
-      },
-      "artists": [
-        {
-          "name": "CJDJ",
-          "url": "https://open.spotify.com/artist/3yxPOdZ3ybZQETzvr7AcXS"
-        }
-      ],
-      "duration_ms": 125567,
-      "name": "Bass",
-      "url": "https://open.spotify.com/track/2UUqOLcktNsBYCwwgo47K5"
-    },
-    {
-      "added_at": "2024-03-01 11:56:20",
-      "album": {
         "name": "Sundown",
         "url": "https://open.spotify.com/album/1XevLzt5Tds3Cjbuz1oz0g"
       },
@@ -579,6 +563,22 @@
       "duration_ms": 268800,
       "name": "Sundown",
       "url": "https://open.spotify.com/track/5IiAyeg16Rk5holAyjwpLO"
+    },
+    {
+      "added_at": "2024-03-01 11:56:20",
+      "album": {
+        "name": "Bass",
+        "url": "https://open.spotify.com/album/3hVol43tkxVVOUc2yafClu"
+      },
+      "artists": [
+        {
+          "name": "CJDJ",
+          "url": "https://open.spotify.com/artist/3yxPOdZ3ybZQETzvr7AcXS"
+        }
+      ],
+      "duration_ms": 125567,
+      "name": "Bass",
+      "url": "https://open.spotify.com/track/2UUqOLcktNsBYCwwgo47K5"
     },
     {
       "added_at": "2024-03-01 11:56:20",
@@ -707,6 +707,22 @@
     {
       "added_at": "2024-03-01 11:56:20",
       "album": {
+        "name": "Take Me Up",
+        "url": "https://open.spotify.com/album/3cF3ImX7T7nNT84XD2QJjt"
+      },
+      "artists": [
+        {
+          "name": "Kanine",
+          "url": "https://open.spotify.com/artist/1KiNUGL3r0GgyLwqYCY1yV"
+        }
+      ],
+      "duration_ms": 215327,
+      "name": "Take Me Up",
+      "url": "https://open.spotify.com/track/0nkATAigYa0AvFFihj6cb1"
+    },
+    {
+      "added_at": "2024-03-01 11:56:20",
+      "album": {
         "name": "Tekkers Riddim",
         "url": "https://open.spotify.com/album/3BtA05Srx1Fz46MVvcHI1X"
       },
@@ -767,22 +783,6 @@
       "duration_ms": 203164,
       "name": "Break It Down",
       "url": "https://open.spotify.com/track/5pg0g6o6ePcRHiQOxgzDMd"
-    },
-    {
-      "added_at": "2024-03-01 11:56:20",
-      "album": {
-        "name": "Take Me Up",
-        "url": "https://open.spotify.com/album/3cF3ImX7T7nNT84XD2QJjt"
-      },
-      "artists": [
-        {
-          "name": "Kanine",
-          "url": "https://open.spotify.com/artist/1KiNUGL3r0GgyLwqYCY1yV"
-        }
-      ],
-      "duration_ms": 215327,
-      "name": "Take Me Up",
-      "url": "https://open.spotify.com/track/0nkATAigYa0AvFFihj6cb1"
     },
     {
       "added_at": "2024-03-01 11:56:20",
@@ -967,22 +967,6 @@
     {
       "added_at": "2024-03-01 11:56:20",
       "album": {
-        "name": "For Old Times Sake EP",
-        "url": "https://open.spotify.com/album/4yccPbKmWJOLWNIbu9qX6i"
-      },
-      "artists": [
-        {
-          "name": "K Motionz",
-          "url": "https://open.spotify.com/artist/6QYdXToMo4XHnG1AnEVZYJ"
-        }
-      ],
-      "duration_ms": 268965,
-      "name": "Cypher",
-      "url": "https://open.spotify.com/track/0E9BVdWg0BX23ArUlZ8eoX"
-    },
-    {
-      "added_at": "2024-03-01 11:56:20",
-      "album": {
         "name": "Confliction",
         "url": "https://open.spotify.com/album/1WS53YDSSfOFyJPUQ1SR1E"
       },
@@ -1007,6 +991,22 @@
     {
       "added_at": "2024-03-01 11:56:20",
       "album": {
+        "name": "For Old Times Sake EP",
+        "url": "https://open.spotify.com/album/4yccPbKmWJOLWNIbu9qX6i"
+      },
+      "artists": [
+        {
+          "name": "K Motionz",
+          "url": "https://open.spotify.com/artist/6QYdXToMo4XHnG1AnEVZYJ"
+        }
+      ],
+      "duration_ms": 268965,
+      "name": "Cypher",
+      "url": "https://open.spotify.com/track/0E9BVdWg0BX23ArUlZ8eoX"
+    },
+    {
+      "added_at": "2024-03-01 11:56:20",
+      "album": {
         "name": "Lady Petrol",
         "url": "https://open.spotify.com/album/24e3IAndixmqYlExyKTldi"
       },
@@ -1019,6 +1019,22 @@
       "duration_ms": 309986,
       "name": "Lady Petrol",
       "url": "https://open.spotify.com/track/0tpOXOSVJZl20YgoS5DOYa"
+    },
+    {
+      "added_at": "2024-03-01 11:56:20",
+      "album": {
+        "name": "Back To Normal",
+        "url": "https://open.spotify.com/album/0yfDa2WdnPtxcckL5IQIe9"
+      },
+      "artists": [
+        {
+          "name": "Basstripper",
+          "url": "https://open.spotify.com/artist/1tSiIyp5dxfbEaS0nZGMEl"
+        }
+      ],
+      "duration_ms": 268939,
+      "name": "Lightspeed",
+      "url": "https://open.spotify.com/track/6uSlV69MsqwwLKcXy8GaXl"
     },
     {
       "added_at": "2024-03-01 11:56:20",
@@ -1039,22 +1055,6 @@
       "duration_ms": 117530,
       "name": "Firebreak - 1991 Remix",
       "url": "https://open.spotify.com/track/5WYJ3VWw7BewsMvG92M7gQ"
-    },
-    {
-      "added_at": "2024-03-01 11:56:20",
-      "album": {
-        "name": "Back To Normal",
-        "url": "https://open.spotify.com/album/0yfDa2WdnPtxcckL5IQIe9"
-      },
-      "artists": [
-        {
-          "name": "Basstripper",
-          "url": "https://open.spotify.com/artist/1tSiIyp5dxfbEaS0nZGMEl"
-        }
-      ],
-      "duration_ms": 268939,
-      "name": "Lightspeed",
-      "url": "https://open.spotify.com/track/6uSlV69MsqwwLKcXy8GaXl"
     },
     {
       "added_at": "2024-03-01 11:56:20",
@@ -1083,22 +1083,18 @@
     {
       "added_at": "2024-03-01 11:56:20",
       "album": {
-        "name": "Morals",
-        "url": "https://open.spotify.com/album/2zXhiQTvhYyiyzQNJarWfR"
+        "name": "Ultralight",
+        "url": "https://open.spotify.com/album/4Trb8G5jJdMYJurZrsORHI"
       },
       "artists": [
         {
-          "name": "Mr Traumatik",
-          "url": "https://open.spotify.com/artist/2ZKsAq380W6XWsyWyuKv3Z"
-        },
-        {
-          "name": "Temple",
-          "url": "https://open.spotify.com/artist/7lnnNugthRP3ItkeINs6DH"
+          "name": "Kanine",
+          "url": "https://open.spotify.com/artist/1KiNUGL3r0GgyLwqYCY1yV"
         }
       ],
-      "duration_ms": 204171,
-      "name": "Morals",
-      "url": "https://open.spotify.com/track/3CsJ8e4GrSVIEP0iRbg1CI"
+      "duration_ms": 223448,
+      "name": "Ultralight",
+      "url": "https://open.spotify.com/track/70E2owQEeqORuzov0L3t6y"
     }
   ],
   "unique_name": "Jump Up!",

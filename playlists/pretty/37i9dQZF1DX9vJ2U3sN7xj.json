@@ -1,12 +1,12 @@
 {
   "description": "nos fuimos de fiesta con Daddy Yankee. \ud83c\udf89",
-  "num_followers": 918635,
+  "num_followers": 918665,
   "original_name": "Fiesta",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5NTM5ZWZhNTI3MTc3ZDFkYzRiOWIzMDkyMWZhNDNiNGFkMGQ4NTU0",
+  "snapshot_id": "MCxkZjIyZjFmNDE3ZjdkYzUwZWI1OWNiNmQ0YzlkMjA4YTkwODYzMTA3",
   "tracks": [
     {
       "added_at": "2024-02-16 16:47:26",
@@ -791,6 +791,26 @@
     {
       "added_at": "2024-02-16 16:47:26",
       "album": {
+        "name": "D\u00c1KITI",
+        "url": "https://open.spotify.com/album/43dl8hP5uNN9s6YeeJA5fv"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        },
+        {
+          "name": "Jhayco",
+          "url": "https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1"
+        }
+      ],
+      "duration_ms": 205090,
+      "name": "D\u00c1KITI",
+      "url": "https://open.spotify.com/track/47EiUVwUp4C9fGccaPuUCS"
+    },
+    {
+      "added_at": "2024-02-16 16:47:26",
+      "album": {
         "name": "Piscina",
         "url": "https://open.spotify.com/album/2dgGJoPFotq4qDUbzAKVU0"
       },
@@ -811,26 +831,6 @@
       "duration_ms": 225661,
       "name": "Piscina",
       "url": "https://open.spotify.com/track/6q6aChVJ5LLXFUSfakwpxW"
-    },
-    {
-      "added_at": "2024-02-16 16:47:26",
-      "album": {
-        "name": "D\u00c1KITI",
-        "url": "https://open.spotify.com/album/43dl8hP5uNN9s6YeeJA5fv"
-      },
-      "artists": [
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        },
-        {
-          "name": "Jhayco",
-          "url": "https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1"
-        }
-      ],
-      "duration_ms": 205090,
-      "name": "D\u00c1KITI",
-      "url": "https://open.spotify.com/track/47EiUVwUp4C9fGccaPuUCS"
     },
     {
       "added_at": "2024-02-16 16:47:26",
@@ -1015,26 +1015,6 @@
     {
       "added_at": "2024-02-16 16:47:26",
       "album": {
-        "name": "Don't Be Shy",
-        "url": "https://open.spotify.com/album/2TvfE8CY37OQIPVGcWYpEA"
-      },
-      "artists": [
-        {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
-        },
-        {
-          "name": "KAROL G",
-          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
-        }
-      ],
-      "duration_ms": 140500,
-      "name": "Don't Be Shy",
-      "url": "https://open.spotify.com/track/0bI7K9Becu2dtXK1Q3cZNB"
-    },
-    {
-      "added_at": "2024-02-16 16:47:26",
-      "album": {
         "name": "Te Vi",
         "url": "https://open.spotify.com/album/02XOoh8XrlCc466QkkjGk5"
       },
@@ -1051,6 +1031,26 @@
       "duration_ms": 231848,
       "name": "Te Vi",
       "url": "https://open.spotify.com/track/059bcIhyc2SBwm6sw2AZzd"
+    },
+    {
+      "added_at": "2024-02-16 16:47:26",
+      "album": {
+        "name": "Don't Be Shy",
+        "url": "https://open.spotify.com/album/2TvfE8CY37OQIPVGcWYpEA"
+      },
+      "artists": [
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        },
+        {
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        }
+      ],
+      "duration_ms": 140500,
+      "name": "Don't Be Shy",
+      "url": "https://open.spotify.com/track/0bI7K9Becu2dtXK1Q3cZNB"
     },
     {
       "added_at": "2024-02-16 16:47:26",
@@ -1531,6 +1531,26 @@
     {
       "added_at": "2024-02-16 16:47:26",
       "album": {
+        "name": "JOSE",
+        "url": "https://open.spotify.com/album/11GmvpYnbgK0rSryPaV5BP"
+      },
+      "artists": [
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        },
+        {
+          "name": "Maria Becerra",
+          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
+        }
+      ],
+      "duration_ms": 217360,
+      "name": "Qu\u00e9 M\u00e1s Pues?",
+      "url": "https://open.spotify.com/track/6D2TCm4nf5nxAcdGJ7w3QP"
+    },
+    {
+      "added_at": "2024-02-16 16:47:26",
+      "album": {
         "name": "Nost\u00e1lgico",
         "url": "https://open.spotify.com/album/3752EkZZ1wjEzZ1MRd9rsV"
       },
@@ -1551,26 +1571,6 @@
       "duration_ms": 209883,
       "name": "Nost\u00e1lgico",
       "url": "https://open.spotify.com/track/2BEcap3xJtmiPaHKyfQi4e"
-    },
-    {
-      "added_at": "2024-02-16 16:47:26",
-      "album": {
-        "name": "JOSE",
-        "url": "https://open.spotify.com/album/11GmvpYnbgK0rSryPaV5BP"
-      },
-      "artists": [
-        {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
-        },
-        {
-          "name": "Maria Becerra",
-          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
-        }
-      ],
-      "duration_ms": 217360,
-      "name": "Qu\u00e9 M\u00e1s Pues?",
-      "url": "https://open.spotify.com/track/6D2TCm4nf5nxAcdGJ7w3QP"
     },
     {
       "added_at": "2024-02-16 16:47:26",
@@ -1607,42 +1607,6 @@
     {
       "added_at": "2024-02-16 16:47:26",
       "album": {
-        "name": "R\u00c1PIDO",
-        "url": "https://open.spotify.com/album/2D5urBuawvNIrKdxO0X1pe"
-      },
-      "artists": [
-        {
-          "name": "Mora",
-          "url": "https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S"
-        }
-      ],
-      "duration_ms": 182857,
-      "name": "R\u00c1PIDO",
-      "url": "https://open.spotify.com/track/6peVAUzSxDlTigQw5T99O5"
-    },
-    {
-      "added_at": "2024-02-16 16:47:26",
-      "album": {
-        "name": "MAMIII",
-        "url": "https://open.spotify.com/album/6GHUywBU0u92lg0Dhrt40R"
-      },
-      "artists": [
-        {
-          "name": "Becky G",
-          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
-        },
-        {
-          "name": "KAROL G",
-          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
-        }
-      ],
-      "duration_ms": 226088,
-      "name": "MAMIII",
-      "url": "https://open.spotify.com/track/1ri9ZUkBJVFUdgwzCnfcYs"
-    },
-    {
-      "added_at": "2024-02-16 16:47:26",
-      "album": {
         "name": "ULTRA SOLO REMIX",
         "url": "https://open.spotify.com/album/7JsxzI8o2TI71jHBOIsgqm"
       },
@@ -1675,6 +1639,26 @@
     {
       "added_at": "2024-02-16 16:47:26",
       "album": {
+        "name": "MAMIII",
+        "url": "https://open.spotify.com/album/6GHUywBU0u92lg0Dhrt40R"
+      },
+      "artists": [
+        {
+          "name": "Becky G",
+          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
+        },
+        {
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        }
+      ],
+      "duration_ms": 226088,
+      "name": "MAMIII",
+      "url": "https://open.spotify.com/track/1ri9ZUkBJVFUdgwzCnfcYs"
+    },
+    {
+      "added_at": "2024-02-16 16:47:26",
+      "album": {
         "name": "REMIX EXCLUSIVO",
         "url": "https://open.spotify.com/album/0K9klyLQafG164T9f7NKkS"
       },
@@ -1687,6 +1671,22 @@
       "duration_ms": 206946,
       "name": "REMIX EXCLUSIVO",
       "url": "https://open.spotify.com/track/3eqCJfgJJs8iKx49KO12s3"
+    },
+    {
+      "added_at": "2024-02-16 16:47:26",
+      "album": {
+        "name": "R\u00c1PIDO",
+        "url": "https://open.spotify.com/album/2D5urBuawvNIrKdxO0X1pe"
+      },
+      "artists": [
+        {
+          "name": "Mora",
+          "url": "https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S"
+        }
+      ],
+      "duration_ms": 182857,
+      "name": "R\u00c1PIDO",
+      "url": "https://open.spotify.com/track/6peVAUzSxDlTigQw5T99O5"
     },
     {
       "added_at": "2024-02-16 16:47:26",
@@ -1727,18 +1727,22 @@
     {
       "added_at": "2024-02-16 16:47:26",
       "album": {
-        "name": "Envolver",
-        "url": "https://open.spotify.com/album/6UsualeqgzPnb8cfaQ5nL7"
+        "name": "Desesperados",
+        "url": "https://open.spotify.com/album/3w1Tr9F91XMcsmBJQ8hS7H"
       },
       "artists": [
         {
-          "name": "Anitta",
-          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        },
+        {
+          "name": "Chencho Corleone",
+          "url": "https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU"
         }
       ],
-      "duration_ms": 193805,
-      "name": "Envolver",
-      "url": "https://open.spotify.com/track/3IAfUEeaXRX9s9UdKOJrFI"
+      "duration_ms": 224996,
+      "name": "Desesperados",
+      "url": "https://open.spotify.com/track/6ZOcbKub95XSDESsKKuH41"
     },
     {
       "added_at": "2024-02-16 16:47:26",
@@ -1763,22 +1767,18 @@
     {
       "added_at": "2024-02-16 16:47:26",
       "album": {
-        "name": "Desesperados",
-        "url": "https://open.spotify.com/album/3w1Tr9F91XMcsmBJQ8hS7H"
+        "name": "Envolver",
+        "url": "https://open.spotify.com/album/6UsualeqgzPnb8cfaQ5nL7"
       },
       "artists": [
         {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
-        },
-        {
-          "name": "Chencho Corleone",
-          "url": "https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU"
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
         }
       ],
-      "duration_ms": 224996,
-      "name": "Desesperados",
-      "url": "https://open.spotify.com/track/6ZOcbKub95XSDESsKKuH41"
+      "duration_ms": 193805,
+      "name": "Envolver",
+      "url": "https://open.spotify.com/track/3IAfUEeaXRX9s9UdKOJrFI"
     },
     {
       "added_at": "2024-02-16 16:47:26",
@@ -1911,26 +1911,6 @@
     {
       "added_at": "2024-02-16 16:47:26",
       "album": {
-        "name": "Pareja Del A\u00f1o",
-        "url": "https://open.spotify.com/album/202FLmfHxcvLHPiqmAjWyJ"
-      },
-      "artists": [
-        {
-          "name": "Sebastian Yatra",
-          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
-        },
-        {
-          "name": "Myke Towers",
-          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
-        }
-      ],
-      "duration_ms": 195053,
-      "name": "Pareja Del A\u00f1o",
-      "url": "https://open.spotify.com/track/2rCbl9naJYhaxjLsfx88uM"
-    },
-    {
-      "added_at": "2024-02-16 16:47:26",
-      "album": {
         "name": "LOKERA",
         "url": "https://open.spotify.com/album/4vJcqwIGUuk5TeP29OPovU"
       },
@@ -1951,6 +1931,26 @@
       "duration_ms": 197101,
       "name": "LOKERA",
       "url": "https://open.spotify.com/track/79HZAZNnOE97rb2hnI0XQr"
+    },
+    {
+      "added_at": "2024-02-16 16:47:26",
+      "album": {
+        "name": "Pareja Del A\u00f1o",
+        "url": "https://open.spotify.com/album/202FLmfHxcvLHPiqmAjWyJ"
+      },
+      "artists": [
+        {
+          "name": "Sebastian Yatra",
+          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
+        },
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        }
+      ],
+      "duration_ms": 195053,
+      "name": "Pareja Del A\u00f1o",
+      "url": "https://open.spotify.com/track/2rCbl9naJYhaxjLsfx88uM"
     },
     {
       "added_at": "2024-02-16 16:47:26",
@@ -2075,22 +2075,34 @@
     {
       "added_at": "2024-02-16 16:47:26",
       "album": {
-        "name": "Afrodis\u00edaco",
-        "url": "https://open.spotify.com/album/3fq06DDIkadDRB9RuBb22v"
+        "name": "Relaci\u00f3n (Remix)",
+        "url": "https://open.spotify.com/album/2O985DZAb4i6M6iu4HWqSX"
       },
       "artists": [
         {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+          "name": "Sech",
+          "url": "https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht"
         },
         {
-          "name": "Anuel AA",
-          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+          "name": "Daddy Yankee",
+          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
+        },
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        },
+        {
+          "name": "ROSAL\u00cdA",
+          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
+        },
+        {
+          "name": "Farruko",
+          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
         }
       ],
-      "duration_ms": 231594,
-      "name": "Reloj",
-      "url": "https://open.spotify.com/track/4loQgPwJHocL3dFwLfjb1J"
+      "duration_ms": 247308,
+      "name": "Relaci\u00f3n - Remix",
+      "url": "https://open.spotify.com/track/35UUpTmrcFXNIVIN26ujXl"
     }
   ],
   "unique_name": "Fiesta",

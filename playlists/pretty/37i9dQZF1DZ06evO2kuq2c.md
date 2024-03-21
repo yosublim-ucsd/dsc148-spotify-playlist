@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2kuq2c.md) - [plain]
 
 > This is Architects\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 68,288 likes - 39 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 68,315 likes - 39 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,4 +48,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2kuq2c.md) - [plain]
 | 38 | [Castles In The Air](https://open.spotify.com/track/1UNG4xf1SxhDE62c8vPCwR) | [Architects](https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv) | [Lost Forever // Lost Together](https://open.spotify.com/album/1j8JsxOsu9e0ChyFO5KOpc) | 3:42 |
 | 39 | [Colony Collapse](https://open.spotify.com/track/3nRmk2LJq3bTacynhGmAUW) | [Architects](https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv) | [Lost Forever // Lost Together](https://open.spotify.com/album/1j8JsxOsu9e0ChyFO5KOpc) | 4:31 |
 
-Snapshot ID: `Mjg1MTQxOTUsMDAwMDAwMDA2NjE1NzAyOGMzN2Q4YmU4OGJkMWE0OWM4NjVhNDVlOA==`
+Snapshot ID: `Mjg1MTU2NjEsMDAwMDAwMDBkYWYyNTA2NDNmNDM0MzE3ZDUwOWQ5MzIwYWQ4ZmRjYw==`

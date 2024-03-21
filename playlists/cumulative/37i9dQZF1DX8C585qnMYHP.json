@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2020-10-30",
-  "description": "The best new music by Experimental independent artists and labels. Amina Cyu on cover. Artwork by Thami Nabil",
+  "description": "The best new music by Experimental independent artists and labels. STEMLINES on cover. Artwork by Thami Nabil",
   "name": "Fresh Finds Experimental",
   "tracks": [
     {
@@ -1748,6 +1748,24 @@
       "duration_ms": 154371,
       "name": "Anaesthesia",
       "url": "https://open.spotify.com/track/6ml8BMLfEJjR6gQyAtiGQZ"
+    },
+    {
+      "album": {
+        "name": "Vou Ficar Neste Quadrado",
+        "url": "https://open.spotify.com/album/2PhGH5fdz5o8r0eyhVr9KT"
+      },
+      "artists": [
+        {
+          "name": "Ana Lua Caiano",
+          "url": "https://open.spotify.com/artist/6TeD6DGSCfviinhl40SvYF"
+        }
+      ],
+      "date_added": "2024-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166488,
+      "name": "Ando Em C\u00edrculos",
+      "url": "https://open.spotify.com/track/0UCAZcLhQS9MuzbzGCbTnG"
     },
     {
       "album": {
@@ -6916,7 +6934,7 @@
       ],
       "date_added": "2023-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-21",
       "duration_ms": 300866,
       "name": "Dividual Individual",
       "url": "https://open.spotify.com/track/3Q74p61vgqdsCBFQlOP1kQ"
@@ -15497,6 +15515,24 @@
     },
     {
       "album": {
+        "name": "Boeckner!",
+        "url": "https://open.spotify.com/album/1we8POeAomGmp8hTzGFdaW"
+      },
+      "artists": [
+        {
+          "name": "Boeckner",
+          "url": "https://open.spotify.com/artist/1SdWYxZBt4RjvyXcMbtxyE"
+        }
+      ],
+      "date_added": "2024-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291037,
+      "name": "Lose",
+      "url": "https://open.spotify.com/track/5fSUc2h13lsyCcGLhzfTED"
+    },
+    {
+      "album": {
         "name": "Lose",
         "url": "https://open.spotify.com/album/4ddL8UW6YILIWxd0g185KP"
       },
@@ -15508,7 +15544,7 @@
       ],
       "date_added": "2024-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-21",
       "duration_ms": 291037,
       "name": "Lose",
       "url": "https://open.spotify.com/track/729EJVbWkITU4vAc690cFE"
@@ -16934,6 +16970,24 @@
       "duration_ms": 192660,
       "name": "Missing Men",
       "url": "https://open.spotify.com/track/6oDJzR2ccgDdFzSfXojGvU"
+    },
+    {
+      "album": {
+        "name": "L4TA",
+        "url": "https://open.spotify.com/album/2YdqLlOOTpvfEG9zkfNZJc"
+      },
+      "artists": [
+        {
+          "name": "Stemlines",
+          "url": "https://open.spotify.com/artist/2o0jf68Qiap2A3RIhvTcCX"
+        }
+      ],
+      "date_added": "2024-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270557,
+      "name": "MissU",
+      "url": "https://open.spotify.com/track/4mknLyEc2cUmxYTQbpwlYl"
     },
     {
       "album": {
@@ -18418,7 +18472,7 @@
       ],
       "date_added": "2023-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-21",
       "duration_ms": 246125,
       "name": "No Way In",
       "url": "https://open.spotify.com/track/1OWabcOniKhLI5TATHvZgL"
@@ -29850,6 +29904,24 @@
       "duration_ms": 202510,
       "name": "We Took Short Journeys",
       "url": "https://open.spotify.com/track/75EFPyBUQmkgaYbFKEdZFJ"
+    },
+    {
+      "album": {
+        "name": "L4TA",
+        "url": "https://open.spotify.com/album/2YdqLlOOTpvfEG9zkfNZJc"
+      },
+      "artists": [
+        {
+          "name": "Stemlines",
+          "url": "https://open.spotify.com/artist/2o0jf68Qiap2A3RIhvTcCX"
+        }
+      ],
+      "date_added": "2024-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 68110,
+      "name": "wearywatergod",
+      "url": "https://open.spotify.com/track/1iUlbWjRySPrE7OE8bqiFx"
     },
     {
       "album": {

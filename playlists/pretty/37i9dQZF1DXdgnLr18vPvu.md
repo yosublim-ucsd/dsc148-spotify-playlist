@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdgnLr18vPvu.md) - [plain]
 
 > Game day is our favorite day of the week.
 
-[Spotify](https://open.spotify.com/user/spotify) - 901,759 likes - 100 songs - 6 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 901,695 likes - 100 songs - 6 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,8 +70,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdgnLr18vPvu.md) - [plain]
 | 60 | [September](https://open.spotify.com/track/3kXoKlD84c6OmIcOLfrfEs) | [Earth, Wind & Fire](https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg) | [September \(sped up + slowed\)](https://open.spotify.com/album/3p90GIjEg4gXpnLmwGGvzI) | 3:36 |
 | 61 | [Levels \- Radio Edit](https://open.spotify.com/track/5UqCQaDshqbIk3pkhy4Pjg) | [Avicii](https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6) | [Levels](https://open.spotify.com/album/1OEGfToF7QbjUgyxMAnGXg) | 3:19 |
 | 62 | [Super Bass](https://open.spotify.com/track/3hlksXnvbKogFdPbpO9vel) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Pink Friday \(Complete Edition\)](https://open.spotify.com/album/7aADdYLiK1z7GlMFr0UIZw) | 3:20 |
-| 63 | [We Ride](https://open.spotify.com/track/72kGuWpRiuA149Bn5lDkIO) | [Bryan Martin](https://open.spotify.com/artist/0ChjBYedhZTQnWZWQYg15U) | [Poets & Old Souls](https://open.spotify.com/album/19X9Ts9AYIRrqthSTf3qss) | 3:08 |
-| 64 | [More Than a Feeling](https://open.spotify.com/track/1QEEqeFIZktqIpPI4jSVSF) | [Boston](https://open.spotify.com/artist/29kkCKKGXheHuoO829FxWK) | [Boston](https://open.spotify.com/album/2QLp07RO6anZHmtcKTEvSC) | 4:45 |
+| 63 | [More Than a Feeling](https://open.spotify.com/track/1QEEqeFIZktqIpPI4jSVSF) | [Boston](https://open.spotify.com/artist/29kkCKKGXheHuoO829FxWK) | [Boston](https://open.spotify.com/album/2QLp07RO6anZHmtcKTEvSC) | 4:45 |
+| 64 | [We Ride](https://open.spotify.com/track/72kGuWpRiuA149Bn5lDkIO) | [Bryan Martin](https://open.spotify.com/artist/0ChjBYedhZTQnWZWQYg15U) | [Poets & Old Souls](https://open.spotify.com/album/19X9Ts9AYIRrqthSTf3qss) | 3:08 |
 | 65 | [All Star](https://open.spotify.com/track/3cfOd4CMv2snFaKAnMdnvK) | [Smash Mouth](https://open.spotify.com/artist/2iEvnFsWxR0Syqu2JNopAd) | [Astro Lounge](https://open.spotify.com/album/2kyTLcEZe6nc1s6ve0zW9P) | 3:20 |
 | 66 | [Whiskey Glasses](https://open.spotify.com/track/6foY66mWZN0pSRjZ408c00) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [If I Know Me](https://open.spotify.com/album/1IR2nlwX6YVTXXeu2qzoWO) | 3:54 |
 | 67 | [Roar](https://open.spotify.com/track/3sAIY2jtHpUHKfwDSSVgMM) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Roar](https://open.spotify.com/album/7tl8VkZBE0bSMaMcqscnCk) | 3:42 |
@@ -95,9 +95,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdgnLr18vPvu.md) - [plain]
 | 85 | [Sweet Caroline](https://open.spotify.com/track/62AuGbAkt8Ox2IrFFb8GKV) | [Neil Diamond](https://open.spotify.com/artist/7mEIug7XUlQHikrFxjTWes) | [Sweet Caroline](https://open.spotify.com/album/6RfgcwsOUlWkGNAd6zjjYd) | 3:23 |
 | 86 | [The Final Countdown](https://open.spotify.com/track/3MrRksHupTVEQ7YbA0FsZK) | [Europe](https://open.spotify.com/artist/7Js6Lde8thlIHXggv2SCBz) | [The Final Countdown \(Expanded Edition\)](https://open.spotify.com/album/5Jkd47JEaCU1g4DcGBnHm3) | 5:10 |
 | 87 | [Carry on Wayward Son](https://open.spotify.com/track/4DMKwE2E2iYDKY01C335Uw) | [Kansas](https://open.spotify.com/artist/2hl0xAkS2AIRAu23TVMBG1) | [Leftoverture \(Expanded Edition\)](https://open.spotify.com/album/7MejfRSNnrpcLZIxkeZDqR) | 5:23 |
-| 88 | [Hot In Herre](https://open.spotify.com/track/04KTF78FFg8sOHC1BADqbY) | [Nelly](https://open.spotify.com/artist/2gBjLmx6zQnFGQJCAQpRgw) | [Nellyville](https://open.spotify.com/album/4HUUHHXBXImwksfbSPqE7q) | 3:48 |
+| 88 | [Beast Of Burden \- Remastered 1994](https://open.spotify.com/track/77oU2rjC5XbjQfNe3bD6so) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Some Girls](https://open.spotify.com/album/1Jv2AqzhgsduUik2p4k3cS) | 4:25 |
 | 89 | [The Thrill](https://open.spotify.com/track/56oGoEjA9eTZYgsttEFKY3) | [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop), [Empire Of The Sun](https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c) | [The Thrill](https://open.spotify.com/album/4NtEHyzC02jvTLMERHn6Rw) | 3:54 |
-| 90 | [Beast Of Burden \- Remastered 1994](https://open.spotify.com/track/77oU2rjC5XbjQfNe3bD6so) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Some Girls](https://open.spotify.com/album/1Jv2AqzhgsduUik2p4k3cS) | 4:25 |
+| 90 | [Hot In Herre](https://open.spotify.com/track/04KTF78FFg8sOHC1BADqbY) | [Nelly](https://open.spotify.com/artist/2gBjLmx6zQnFGQJCAQpRgw) | [Nellyville](https://open.spotify.com/album/4HUUHHXBXImwksfbSPqE7q) | 3:48 |
 | 91 | [Last Friday Night \(T.G.I.F.\)](https://open.spotify.com/track/3avYqdwHKEq8beXbeWCKqJ) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Teenage Dream](https://open.spotify.com/album/2eQMC9nJE3f3hCNKlYYHL1) | 3:50 |
 | 92 | [No Hands \(feat\. Roscoe Dash & Wale\)](https://open.spotify.com/track/03tqyYWC9Um2ZqU0ZN849H) | [Waka Flocka Flame](https://open.spotify.com/artist/6f4XkbvYlXMH0QgVRzW0sM), [Roscoe Dash](https://open.spotify.com/artist/0bfX8pF8kuHNCs57Ms4jZb), [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE) | [Flockaveli](https://open.spotify.com/album/6MQtWELG7aRX7CkAzQ6nLM) | 4:23 |
 | 93 | [Baba O'Riley](https://open.spotify.com/track/3qiyyUfYe7CRYLucrPmulD) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [Who's Next \(Deluxe Edition\)](https://open.spotify.com/album/5MqyhhHbT13zsloD3uHhlQ) | 5:00 |
@@ -105,8 +105,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdgnLr18vPvu.md) - [plain]
 | 95 | [Springsteen](https://open.spotify.com/track/05ZACkzW8YbRq3eFgIfSNB) | [Eric Church](https://open.spotify.com/artist/2IvkS5MXK0vPGnwyJsrEyV) | [Chief](https://open.spotify.com/album/5dtw6CoMhbrSj01YUvdQOF) | 4:23 |
 | 96 | [For Once In My Life](https://open.spotify.com/track/4kP69y3GKHi9tXckfgp4bK) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [For Once In My Life](https://open.spotify.com/album/3pPBbp1Nl9n1AM9xFpdKtZ) | 2:49 |
 | 97 | [Dynamite](https://open.spotify.com/track/2CEgGE6aESpnmtfiZwYlbV) | [Taio Cruz](https://open.spotify.com/artist/6MF9fzBmfXghAz953czmBC) | [The Rokstarr Hits Collection](https://open.spotify.com/album/0eGvq1J5Ke7VlLLOYIlY4k) | 3:22 |
-| 98 | [The Business](https://open.spotify.com/track/6f3Slt0GbA2bPZlz0aIFXN) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [The Business](https://open.spotify.com/album/2adSO4KU3FDjeM1PXCRDZm) | 2:44 |
-| 99 | [Rock And Roll All Nite](https://open.spotify.com/track/6KTv0Z8BmVqM7DPxbGzpVC) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [Dressed To Kill](https://open.spotify.com/album/1YCC4oZXg2zGn7pVSKVlGF) | 2:48 |
+| 98 | [Rock And Roll All Nite](https://open.spotify.com/track/6KTv0Z8BmVqM7DPxbGzpVC) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [Dressed To Kill](https://open.spotify.com/album/1YCC4oZXg2zGn7pVSKVlGF) | 2:48 |
+| 99 | [The Business](https://open.spotify.com/track/6f3Slt0GbA2bPZlz0aIFXN) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [The Business](https://open.spotify.com/album/2adSO4KU3FDjeM1PXCRDZm) | 2:44 |
 | 100 | [Up Around The Bend](https://open.spotify.com/track/56dtB7EzO7EneUgYwX8krC) | [Creedence Clearwater Revival](https://open.spotify.com/artist/3IYUhFvPQItj6xySrBmZkd) | [Cosmo's Factory](https://open.spotify.com/album/5w2X5ZmdE4u0XGkOU7BiLG) | 2:39 |
 
-Snapshot ID: `MCw1ZDJmYTE0M2Y1MzRiZGVlOTczMzZhMzNkMDU4MzhmMDc2ZmY4NTAw`
+Snapshot ID: `MCwyNDAxYWM0ZTA2NjczMDA1YjNhYTIwMmQ3MGNmYzY2NzE4MmQxYTAx`

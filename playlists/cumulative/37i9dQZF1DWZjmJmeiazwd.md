@@ -4,7 +4,7 @@
 
 > Rock out while you game.
 
-496 songs - 1 day 5 hr 41 min
+498 songs - 1 day 5 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -90,6 +90,7 @@
 | [Circles](https://open.spotify.com/track/4SuCTy2La3F6oKCAR2lL9P) | [Pierce The Veil](https://open.spotify.com/artist/4iJLPqClelZOBCBifm8Fzv) | [Circles](https://open.spotify.com/album/5UIWP2W3yCunjw9g5ocW33) | 3:44 | 2020-06-29 | 2022-02-26 |
 | [Clique](https://open.spotify.com/track/6CVfZfkdd4Jdvg8JnBL6Oy) | [YONAKA](https://open.spotify.com/artist/3Wcyta3gkOdQ4TfY0WyZpu), [FEVER 333](https://open.spotify.com/artist/1B0155rdv175D1tQ8VH7Oy) | [Seize the Power](https://open.spotify.com/album/2QgPGKzoN51qcEzGlHYk7j) | 2:19 | 2022-04-22 | 2022-05-21 |
 | [Closer To The Sky](https://open.spotify.com/track/1pf8bjnKw5SgtfSvINI0Kt) | [The Glorious Sons](https://open.spotify.com/artist/5CPxrqCStgt6AfI4fLiedH) | [A War On Everything](https://open.spotify.com/album/3XI6zViavQ6b7uTwdKGeWc) | 3:26 | 2022-04-22 | 2022-05-03 |
+| [Closure](https://open.spotify.com/track/1JkRR2HcXnUBCkVa8tFoAl) | [The Plot In You](https://open.spotify.com/artist/1cJ5tVoeAEFcZBAwSZ0CtF) | [Closure](https://open.spotify.com/album/7JOgNoDkTHpEaASuOHwLSK) | 3:13 | 2024-03-20 |  |
 | [Cobra \(Rock Remix\) \[feat\. Spiritbox\]](https://open.spotify.com/track/6HNWDjbome8TQp0rYRZTQS) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK), [Spiritbox](https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW) | [Cobra \(Rock Remix\) \[feat\. Spiritbox\]](https://open.spotify.com/album/30DntygbtMJmhmSFr8ZY5Y) | 3:06 | 2023-11-17 |  |
 | [Color \- Remastered](https://open.spotify.com/track/2HNnYRJIlsM1JHn1Nq8qU7) | [Finish Ticket](https://open.spotify.com/artist/3RthMq3xfDQZl80cMEg1JQ) | [When Night Becomes Day](https://open.spotify.com/album/1yz3tI7TG1fpTIzBzW1mud) | 4:10 | 2020-06-29 | 2022-06-12 |
 | [Colourblind](https://open.spotify.com/track/52oNoF4urZYTJFbmbZ6JI6) | [Hands Like Houses](https://open.spotify.com/artist/0u3d5PM2FuEuG5QuUdt8mT) | [Dissonants](https://open.spotify.com/album/2rwZyMtlv2x2o8vv1nQSia) | 3:42 | 2020-06-29 | 2022-02-26 |
@@ -102,6 +103,7 @@
 | [Dad Vibes](https://open.spotify.com/track/2ppAkaBj4vaL0qsFm1TOKI) | [Limp Bizkit](https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb) | [STILL SUCKS](https://open.spotify.com/album/2lZ9RqGnGXH8gtH3DK02tJ) | 2:12 | 2022-04-22 | 2022-05-21 |
 | [DANCE WITH ME](https://open.spotify.com/track/5k2KDcpVLgyy0dr7uzdJit) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [ONE MORE TIME...](https://open.spotify.com/album/1OteY9OFTmoZ0vmZT89wPd) | 3:08 | 2023-11-17 |  |
 | [Dangerous](https://open.spotify.com/track/0y1t3QzZAjfFd5IxQZCS1V) | [Seether](https://open.spotify.com/artist/6B5c4sch27tWHAGdarpPaW) | [Si Vis Pacem, Para Bellum](https://open.spotify.com/album/13lnqlgmaRHQF54C9iiOWO) | 3:49 | 2022-04-22 | 2022-05-21 |
+| [Dark Matter](https://open.spotify.com/track/0HLRccMV34ON7T0hH1qEVn) | [Pearl Jam](https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56) | [Dark Matter](https://open.spotify.com/album/23OiEvMGO1kNntkCon2ODF) | 3:31 | 2024-03-20 |  |
 | [Dark Necessities](https://open.spotify.com/track/1cjiLJacTKtJbdCtMk1XeV) | [Red Hot Chili Peppers](https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5) | [Dark Necessities](https://open.spotify.com/album/37eXSZNVEY3XthbJzTGIIo) | 5:02 | 2020-06-29 | 2022-07-15 |
 | [Dark Necessities](https://open.spotify.com/track/2oaK4JLVnmRGIO9ytBE1bt) | [Red Hot Chili Peppers](https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5) | [The Getaway](https://open.spotify.com/album/43otFXrY0bgaq5fB3GrZj6) | 5:02 | 2022-07-28 |  |
 | [Dark Void](https://open.spotify.com/track/5qI0O2liRuEC6Mnv8BKl0S) | [Asking Alexandria](https://open.spotify.com/artist/1caBfBEapzw8z2Qz9q0OaQ) | [Dark Void](https://open.spotify.com/album/78j5yRbo6TI6xpPJoRjSWH) | 3:52 | 2023-06-23 | 2023-11-13 |
@@ -111,7 +113,7 @@
 | [Death By Rock And Roll](https://open.spotify.com/track/6ISZ6sKcNBdYJS7XYHm5cV) | [The Pretty Reckless](https://open.spotify.com/artist/2R57sY41L9XvGPiIgHOaYq) | [Death By Rock And Roll](https://open.spotify.com/album/2ysgEIHY4aOMMbbu0uV6ey) | 3:54 | 2022-09-03 | 2022-11-12 |
 | [Death By Rock And Roll](https://open.spotify.com/track/0ThYrwnekhJLSJBiGPD1L7) | [The Pretty Reckless](https://open.spotify.com/artist/2R57sY41L9XvGPiIgHOaYq) | [Death By Rock And Roll](https://open.spotify.com/album/05u2apyKRsHbqRfT3c81o8) | 3:54 | 2020-06-29 | 2022-07-29 |
 | [Deleter](https://open.spotify.com/track/2yH16s2lLbYtLziVwqw7Pf) | [Grouplove](https://open.spotify.com/artist/3kVUvbeRdcrqQ3oHk5hPdx) | [Healer](https://open.spotify.com/album/1FsCJHnJORi2z5ibQs9aQI) | 3:54 | 2020-06-29 | 2022-11-13 |
-| [Dial Tone](https://open.spotify.com/track/0kDHRQ7rvuzWN11nB9Qx1Y) | [Catch Your Breath](https://open.spotify.com/artist/2fqPOGxG12nEERj8YG7p22) | [Shame On Me](https://open.spotify.com/album/4EcSKM9PjQiXywZ3ItofZG) | 3:20 | 2024-02-16 |  |
+| [Dial Tone](https://open.spotify.com/track/0kDHRQ7rvuzWN11nB9Qx1Y) | [Catch Your Breath](https://open.spotify.com/artist/2fqPOGxG12nEERj8YG7p22) | [Shame On Me](https://open.spotify.com/album/4EcSKM9PjQiXywZ3ItofZG) | 3:20 | 2024-02-16 | 2024-03-21 |
 | [Dial Tone](https://open.spotify.com/track/5tX5qGeEImk2CZYyGHrq9I) | [Catch Your Breath](https://open.spotify.com/artist/2fqPOGxG12nEERj8YG7p22) | [Dial Tone](https://open.spotify.com/album/3TshwnXhNfppmFUrlP4BZV) | 3:20 | 2023-06-23 | 2024-03-06 |
 | [Dilemma](https://open.spotify.com/track/4NrGMEm5SvvpJ9Tk1Rq3cP) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Saviors](https://open.spotify.com/album/4AIeqAMDyIT884A9uA2A0i) | 3:18 | 2024-01-19 |  |
 | [Dirty](https://open.spotify.com/track/3MTfE3Mo3lfwAymYLU2luX) | [grandson](https://open.spotify.com/artist/4ZgQDCtRqZlhLswVS6MHN4) | [Dirty](https://open.spotify.com/album/2O6i9surGnW91oOcoucyNI) | 3:28 | 2021-02-10 | 2022-11-13 |
@@ -195,7 +197,7 @@
 | [Hills Have Eyes](https://open.spotify.com/track/4XfHXJwsa5SS8vs33Bs3x7) | [POORSTACY](https://open.spotify.com/artist/7vSY9HEreOqb1Llar3UC38) | [Hills Have Eyes](https://open.spotify.com/album/5Yxm8C04wvz0idav8AelmU) | 2:10 | 2023-11-17 |  |
 | [Hollow Life](https://open.spotify.com/track/6Uaz0UV4y7EPdviYUDWwlu) | [Coast Modern](https://open.spotify.com/artist/4wYk01oPJNfaEssVFL46oQ) | [Hollow Life](https://open.spotify.com/album/01OIyyATPrl5QWeSNErI4l) | 3:57 | 2020-06-29 | 2022-04-21 |
 | [Hollow Life](https://open.spotify.com/track/2dq863fgcwToMdBxaPlyyT) | [Coast Modern](https://open.spotify.com/artist/4wYk01oPJNfaEssVFL46oQ) | [Coast Modern](https://open.spotify.com/album/4jdtl0zpleiD135aYrg9D2) | 3:57 | 2022-07-28 | 2022-08-24 |
-| [Hollywood Baby](https://open.spotify.com/track/0oigSejhoNen2EdNAIFcm5) | [100 gecs](https://open.spotify.com/artist/6PfSUFtkMVoDkx4MQkzOi3) | [10,000 gecs](https://open.spotify.com/album/2XS5McKf3zdJWpcZ4OkZPZ) | 3:07 | 2023-11-17 |  |
+| [Hollywood Baby](https://open.spotify.com/track/0oigSejhoNen2EdNAIFcm5) | [100 gecs](https://open.spotify.com/artist/6PfSUFtkMVoDkx4MQkzOi3) | [10,000 gecs](https://open.spotify.com/album/2XS5McKf3zdJWpcZ4OkZPZ) | 3:07 | 2023-11-17 | 2024-03-21 |
 | [hollywood sucks//](https://open.spotify.com/track/4jYd4edE6RjDUm27rHFERQ) | [KennyHoopla](https://open.spotify.com/artist/5ObBtv5VunwwhQaXXnUrsM), [Travis Barker](https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX) | [SURVIVORS GUILT: THE MIXTAPE//](https://open.spotify.com/album/2NHwRObEyab5p4DA6tScNY) | 2:33 | 2022-04-22 | 2022-05-21 |
 | [hometown](https://open.spotify.com/track/2kFKIFc5RSTlhuGed6ZNZ7) | [cleopatrick](https://open.spotify.com/artist/6VTvaLJ9arNmKi8e1ekOwW) | [hometown](https://open.spotify.com/album/7yjLHSrliMRNIEeh9d02Kg) | 4:16 | 2020-06-29 | 2022-02-26 |
 | [HONEY \(ARE U COMING?\)](https://open.spotify.com/track/3tNMdL4qjzNHfo7rlVMESK) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [HONEY \(ARE U COMING?\)](https://open.spotify.com/album/48hTnkFG81hz49oW8KjUa9) | 2:47 | 2024-01-12 |  |

@@ -4,7 +4,7 @@
 
 > Country music's 50 most played songs in the world\. Updated weekly\. Cover: Morgan Wallen
 
-239 songs - 13 hr 23 min
+240 songs - 13 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,7 +58,8 @@
 | [Dark Night \- 717 Tapes](https://open.spotify.com/track/4Y7ze5PDaQSSkvCX3pd5CO) | [Warren Zeiders](https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi) | [Dark Night \(717 Tapes\)](https://open.spotify.com/album/5KXNYhBpsj5wAHUpdaaKqE) | 2:37 | 2022-03-16 | 2022-03-24 |
 | [Days That End In Why](https://open.spotify.com/track/4tn5fOYDtxFldIMVOVcKkc) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [One Thing At A Time \(Sampler\)](https://open.spotify.com/album/04VpyPCr9PQRWRRp1ecOs1) | 2:42 | 2022-12-14 | 2023-01-12 |
 | [Dead of Night](https://open.spotify.com/track/08unC8N1V1dEcqiyi06g6W) | [Orville Peck](https://open.spotify.com/artist/46auOkH1pk28rWrSoUNhLo) | [Pony](https://open.spotify.com/album/3950FHVErcINW3tjRgjebQ) | 3:59 | 2022-01-26 | 2022-03-03 |
-| [Deeper Well](https://open.spotify.com/track/2lJn77IeZAP9cmv6DPXOrL) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Deeper Well](https://open.spotify.com/album/2NXiMKrwmPrqU8epp20pW8) | 3:52 | 2024-02-20 |  |
+| [Deeper Well](https://open.spotify.com/track/2lJn77IeZAP9cmv6DPXOrL) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Deeper Well](https://open.spotify.com/album/2NXiMKrwmPrqU8epp20pW8) | 3:52 | 2024-02-20 | 2024-03-21 |
+| [Deeper Well](https://open.spotify.com/track/333XFHKsHU0pOocFzBgrJi) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Deeper Well](https://open.spotify.com/album/5SxZmGwc4eJuPp6PcO4JgJ) | 3:52 | 2024-03-13 |  |
 | [Die A Happy Man](https://open.spotify.com/track/5kNe7PE09d6Kvw5pAsx23n) | [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8) | [Tangled Up](https://open.spotify.com/album/4ykbJPI8MPscFzROE8dqLy) | 3:47 | 2021-12-29 | 2023-05-11 |
 | [Doin' This](https://open.spotify.com/track/4GyD3o5hWoyCuYpdlzZlRL) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [Doin' This](https://open.spotify.com/album/6bpCbQ5GTNZ9IE1nvJ0zQA) | 4:14 | 2021-12-29 | 2022-08-19 |
 | [Don't Think Jesus](https://open.spotify.com/track/1TUuhV75FeOF6UObRsABo2) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [Don't Think Jesus](https://open.spotify.com/album/6Lh4g6sKzuiuBCzEXgwCuz) | 3:46 | 2022-04-27 | 2022-09-09 |

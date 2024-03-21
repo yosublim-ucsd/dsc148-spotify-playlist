@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Cur4onypGm.md) - [plain]
 
 > Music from "Yuki Yuna is a Hero"/アニメ「結城友奈は勇者である」シリーズの音楽をプレイリストで！©️2021 Project 2H
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,033 likes - 57 songs - 3 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,049 likes - 57 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Ashitanohanatachi](https://open.spotify.com/track/31Ml9VXIdDQ5VpWNzJXyDK) | [讃州中学勇者部](https://open.spotify.com/artist/7l1o6RWfdrngF6gojVe8rS) | [Ashitanohanatachi](https://open.spotify.com/album/17EAgPUdaFCj91cWrmF5TL) | 4:16 |
 | 2 | [Chiheisennomukouhe](https://open.spotify.com/track/5EdJQ3QYc1JRdCg6OzxeAo) | [讃州中学勇者部](https://open.spotify.com/artist/7l1o6RWfdrngF6gojVe8rS) | [Chiheisennomukouhe](https://open.spotify.com/album/6uRKqJhjUucolrP2fBFF6m) | 4:40 |
-| 3 | [ハナユイ](https://open.spotify.com/track/7EalhRuUJcBz99HgvQfZpf) | [結城友奈\(CV:照井春佳\)](https://open.spotify.com/artist/17lv9DCTPPeCRy9Zt9SL5H), [鷲尾須美\(CV:三森すずこ\)](https://open.spotify.com/artist/1Aj8kX0qq9ztlgRb9RRX8x), [乃木若葉\(CV:大橋彩香\)](https://open.spotify.com/artist/2adOXHZdBXxkCFery6LeJg), [楠 芽吹\(CV:田中美海\)](https://open.spotify.com/artist/0r5wBqMbAvmSNizrTfTNnc), [秋原雪花\(CV:千本木彩花\)](https://open.spotify.com/artist/4rZK0AvZR2mOulIg1ASPZJ), [古波蔵 棗\(CV:山本希望\)](https://open.spotify.com/artist/27AhWPVrwLPqYszNrhWGuJ) | [ハナユイ](https://open.spotify.com/album/7wYvVjQg4gpjocLsgyX2qe) | 4:33 |
+| 3 | [Hanayui](https://open.spotify.com/track/4DTOOX1LihdSqAL6YnlkPv) | [Yuki Yuna\(CV:Terui Haruka\)](https://open.spotify.com/artist/4dCboxN2CkJXOTuAraerL8), [Washio Sumi\(CV:Mimori Suzuko\)](https://open.spotify.com/artist/2qlrbe6HdKT0UfEaJu6rP4), [Nogi Wakaba\(CV:Ohashi Ayaka\)](https://open.spotify.com/artist/1i0Vvrchx7IItcAVD62Kzv), [Kusunoki Mebuki\(CV:Tanaka Minami\)](https://open.spotify.com/artist/1qVfVQHF74rFLaFLeYHZ8R), [Akihara Sekka\(CV:Sembongi Sayaka\)](https://open.spotify.com/artist/7cocVX6FveRb9hU0zvfzPQ), [Kohagura Natsume\(CV:Yamamoto Nozomi\)](https://open.spotify.com/artist/3FO3Lu0IDdbPNMsiwqwBSg) | [Hanayui](https://open.spotify.com/album/4oipSdnjjBjwrRUYaWGeyY) | 4:33 |
 | 4 | [UDN](https://open.spotify.com/track/6xeVsGMHaMu4nNuKuyvq85) | [YUSYABU BAND](https://open.spotify.com/artist/5bhehWkEFqYISmNIx2mX4B) | [UDN](https://open.spotify.com/album/1yvbhilYZAQ0JXNegxAahr) | 3:12 |
 | 5 | [Hoshi to Hana](https://open.spotify.com/track/0m396KRSU2ADL3q2zVwUM1) | [讃州中学勇者部](https://open.spotify.com/artist/7l1o6RWfdrngF6gojVe8rS) | [Yukiyuna ha Yusha de Aru Best Album "Yuuki no Uta"](https://open.spotify.com/album/3ZmqrrCL138obWhCKK4lUK) | 4:22 |
 | 6 | [Yuki no Baton \- Yuyuyui Ver.](https://open.spotify.com/track/0qm55hegvORqsnMMW0ctBm) | [Yuki Yuna\(CV:Terui Haruka\)](https://open.spotify.com/artist/4dCboxN2CkJXOTuAraerL8), [Washio Sumi\(CV:Mimori Suzuko\)](https://open.spotify.com/artist/2qlrbe6HdKT0UfEaJu6rP4), [Nogi Wakaba\(CV:Ohashi Ayaka\)](https://open.spotify.com/artist/1i0Vvrchx7IItcAVD62Kzv), [Kusunoki Mebuki\(CV:Tanaka Minami\)](https://open.spotify.com/artist/1qVfVQHF74rFLaFLeYHZ8R), [Akihara Sekka\(CV:Sembongi Sayaka\)](https://open.spotify.com/artist/7cocVX6FveRb9hU0zvfzPQ), [Kohagura Natsume\(CV:Yamamoto Nozomi\)](https://open.spotify.com/artist/3FO3Lu0IDdbPNMsiwqwBSg) | [Yuki no Baton \(Yuyuyui Ver.\)](https://open.spotify.com/album/10i091x0nXIQ8tAPkVGodV) | 4:23 |
@@ -66,4 +66,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Cur4onypGm.md) - [plain]
 | 56 | [ツチトハナ](https://open.spotify.com/track/03rTGgh1Uhq9mbj4S0IQ1S) | [Keiichi Okabe](https://open.spotify.com/artist/0fj8MsM0gSugGUVd9RGV06), [Monaca](https://open.spotify.com/artist/3n31SpYQXw18tVaSaPiK9J) | [「結城友奈は勇者である\-勇者の章\-」オリジナルサウンドトラック](https://open.spotify.com/album/2HN2N6sHql0hE3Q5h33mMa) | 0:16 |
 | 57 | [Hoshi to Hana \- Piano ver.](https://open.spotify.com/track/4h0yKJUqQCeebYhC2kYBfb) | [Keiichi Okabe](https://open.spotify.com/artist/0fj8MsM0gSugGUVd9RGV06), [Monaca](https://open.spotify.com/artist/3n31SpYQXw18tVaSaPiK9J) | ["Yuki Yuna is a Hero" Arrange Tracks](https://open.spotify.com/album/4wrgfE1rLpSwGrndziy2oF) | 3:22 |
 
-Snapshot ID: `MCw1OGRjNjcxYTE3NjFlMjMzMzFmZTM3MmY5MzFhMzVjNGIxNGUzYzBj`
+Snapshot ID: `MCxhMzAzYmE3MjlkYTk0NWM2MTNiMTA2NWZkYzEzMDk3MmRmNTlhNjc4`

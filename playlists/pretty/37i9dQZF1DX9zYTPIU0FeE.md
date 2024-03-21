@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9zYTPIU0FeE.md) - [plain]
 
 > Journey through the exciting and innovative sounds of South African Jazz\. Cover: <a href="https://open.spotify.com/artist/3I5CBcpfValsWh6o5ciuWH?si=Z52XHplwRquA59MW7gc2dA">Tutu Puoane</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,510 likes - 57 songs - 5 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,518 likes - 57 songs - 5 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,7 +52,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9zYTPIU0FeE.md) - [plain]
 | 42 | [Wadada](https://open.spotify.com/track/5GvAP2rW6vPSqAdNsUI4Oq) | [Tumi Mogorosi](https://open.spotify.com/artist/4GOLjcxxywS6GSCI24fsf6) | [Group Theory: Black Music](https://open.spotify.com/album/27dEFff0ZxZ4EI6Fatqap1) | 4:45 |
 | 43 | [Umbhedesho](https://open.spotify.com/track/1Wd1DmQuO4qWDrPs04mEZJ) | [Linda Sikhakhane](https://open.spotify.com/artist/21Vw6haIClrf19wKkA68on) | [Isambulo](https://open.spotify.com/album/0SPsHKZyf7VGSjeyquxccs) | 1:43 |
 | 44 | [Wynter Time](https://open.spotify.com/track/2SkeHeWnmngeVuukJc4QVl) | [Asher Gamedze](https://open.spotify.com/artist/0seHw20kF6a8af3qsufKyQ) | [Turbulence and Pulse](https://open.spotify.com/album/09P4xEQuIgveCiY4vGQHrZ) | 9:27 |
-| 45 | [Kwetu](https://open.spotify.com/track/6Veo9O8iD7ewhA5ZzB3fRh) | [Aaron Rimbui \| Ayanda Sikade \| Herbie Tsoaeli](https://open.spotify.com/artist/1MyMTjHltmrJ1A4Z79vpSo) | [Kwetu](https://open.spotify.com/album/2hNj1dmL0kfOlMUtOpcFcJ) | 5:26 |
+| 45 | [Kwetu](https://open.spotify.com/track/6ydtxqMaxXbLlBUVvlDuRU) | [Aaron Rimbui \| Ayanda Sikade \| Herbie Tsoaeli](https://open.spotify.com/artist/1MyMTjHltmrJ1A4Z79vpSo) | [Kwetu](https://open.spotify.com/album/1cfKpuS4Nb9aGIa99MxRf0) | 5:26 |
 | 46 | [Forgive Yourself](https://open.spotify.com/track/4THmWISkZ1GAnAtLLEiT82) | [Tshepo Tsotetsi](https://open.spotify.com/artist/1CERwRqTtuEZqsny9CRF17) | [Forgive Yourself](https://open.spotify.com/album/1HLawlrJ29oemT4Bl8QE4U) | 2:26 |
 | 47 | [Free](https://open.spotify.com/track/2edZuzKyK5d0o9YLH9JfRn) | [DJ Kenzhero & Tha\_Muzik](https://open.spotify.com/artist/0hHcjndk8IV2oO2wvBA1uh), [Zarcia](https://open.spotify.com/artist/3zXWyPAkoMFgr92LxUzPvR) | [Free](https://open.spotify.com/album/0YkhA4yxHShTCkmvVOAuWI) | 5:46 |
 | 48 | [Rites](https://open.spotify.com/track/5XhsgJqFcTac7rNqz0fbx1) | [Vuma Levin](https://open.spotify.com/artist/5nJiuTEfd55CApEZiZUtlX) | [Rites](https://open.spotify.com/album/4b3P5JVBTRdvkLAk8voX40) | 6:34 |
@@ -66,4 +66,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9zYTPIU0FeE.md) - [plain]
 | 56 | [Wozani Nonke Sizothandaza](https://open.spotify.com/track/5JlzEk3QTex3bOELO59xi1) | [Herbie Tsoaeli](https://open.spotify.com/artist/6W8K5VbMD7qZq60OeFgcFn) | [At This Point in Time: Voices in Volumes](https://open.spotify.com/album/0Nm6Bc09bsazARFqzfemzr) | 8:04 |
 | 57 | [Rah \(feat\. Zoë Modiga\)](https://open.spotify.com/track/3CPcUIvlezozJDzmolebuT) | [Desire Marea](https://open.spotify.com/artist/7xfBWpNiwO2yteiY68OB6C), [Zoë Modiga](https://open.spotify.com/artist/6vfxDPW9Lc9tAMVy0oeqiB) | [Rah](https://open.spotify.com/album/4mycV2gcEOnp7q3LWYTMrw) | 8:55 |
 
-Snapshot ID: `MCxiZTJlODdmYjc5MzNhZGNlMzJlZTU1MGYyNWZhNDMyZWVlNzZiMzI5`
+Snapshot ID: `MCxmMzBkNDAzYWQ5NDI1NTU2NTQwYzNmZjgxODExMjNlYWRmMWMyNGVk`

@@ -4,7 +4,7 @@
 
 > The indie viral hits you can't escape\. Cover: Djo
 
-73 songs - 4 hr 3 min
+74 songs - 4 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,12 +21,13 @@
 | [Blue Hair](https://open.spotify.com/track/39sDitIeCMrVX2QyXHY46t) | [TV Girl](https://open.spotify.com/artist/0Y6dVaC9DZtPNH4591M42W) | [Death of a Party Girl](https://open.spotify.com/album/5kFjYk3umY8Pu1lymIJLVy) | 3:37 | 2023-11-29 |  |
 | [Can I Call You Rose?](https://open.spotify.com/track/6IAuH3hgTRpUUdmOGubXGS) | [Thee Sacred Souls](https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU) | [Thee Sacred Souls](https://open.spotify.com/album/6ofJrAZaaX0iWTXYXObUxE) | 3:10 | 2024-01-08 |  |
 | [ceilings](https://open.spotify.com/track/2L9N0zZnd37dwF0clgxMGI) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [five seconds flat](https://open.spotify.com/album/68L5xVV9wydotfDXEik7eD) | 3:02 | 2023-11-29 |  |
-| [Christmas Kids](https://open.spotify.com/track/40gk32E7YaTFoQwDIWv2SY) | [Roar](https://open.spotify.com/artist/7dIpKWlEeAljA20vFJ82RD) | [I Can't Handle Change](https://open.spotify.com/album/42vd9Cgr89pjb0Jipvaj5d) | 2:15 | 2023-11-29 |  |
+| [Champagne Coast](https://open.spotify.com/track/2KufM8PiQY4i52XhRL96Fd) | [Blood Orange](https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR) | [Coastal Grooves](https://open.spotify.com/album/5U2cyX2FRa8CjzdMpqZNJl) | 4:52 | 2024-03-20 |  |
+| [Christmas Kids](https://open.spotify.com/track/40gk32E7YaTFoQwDIWv2SY) | [Roar](https://open.spotify.com/artist/7dIpKWlEeAljA20vFJ82RD) | [I Can't Handle Change](https://open.spotify.com/album/42vd9Cgr89pjb0Jipvaj5d) | 2:15 | 2023-11-29 | 2024-03-21 |
 | [Clay Pigeons](https://open.spotify.com/track/0XgRWgcs0Pcr9PSIdFWD4N) | [Michael Cera](https://open.spotify.com/artist/4xXQxNcBCtsaz6Gw1IblE3) | [True That](https://open.spotify.com/album/1uxnZdfM0xoRUhaXy2Iez5) | 3:06 | 2023-12-01 | 2024-01-09 |
 | [Co2](https://open.spotify.com/track/3hB9lDLyAClYVZivMMl20N) | [Prateek Kuhad](https://open.spotify.com/artist/0tC995Rfn9k2l7nqgCZsV7) | [The Way That Lovers Do](https://open.spotify.com/album/4WLh56ZjwINYBNhaxLvEhA) | 2:43 | 2023-11-29 | 2023-12-02 |
 | [Confidence](https://open.spotify.com/track/7to68V64Cu6zk0UDo5tyw3) | [Ocean Alley](https://open.spotify.com/artist/18lpwfiys4GtdHWNUu9qQr) | [Chiaroscuro](https://open.spotify.com/album/0MVMsDS0kofp6A8cbJ5kSH) | 4:13 | 2023-11-29 |  |
 | [Cry](https://open.spotify.com/track/3p4hRhMcb6ch8OLtATMaLw) | [Cigarettes After Sex](https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj) | [Cry](https://open.spotify.com/album/4uQ5kFmXQdCxz3WvM4UUzy) | 4:16 | 2023-11-29 |  |
-| [Deeper Well](https://open.spotify.com/track/2lJn77IeZAP9cmv6DPXOrL) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Deeper Well](https://open.spotify.com/album/2NXiMKrwmPrqU8epp20pW8) | 3:52 | 2024-03-04 |  |
+| [Deeper Well](https://open.spotify.com/track/2lJn77IeZAP9cmv6DPXOrL) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Deeper Well](https://open.spotify.com/album/2NXiMKrwmPrqU8epp20pW8) | 3:52 | 2024-03-04 | 2024-03-21 |
 | [Duvet](https://open.spotify.com/track/42qNWdLKCI41S4uzfamhFM) | [bôa](https://open.spotify.com/artist/5jTtGLk1mGFMY5lQOvJYUj) | [Twilight](https://open.spotify.com/album/7sGYAV0xv7ZfAMzIpMl8m1) | 3:23 | 2024-01-09 |  |
 | [End of Beginning](https://open.spotify.com/track/3qhlB30KknSejmIvZZLjOD) | [Djo](https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm) | [DECIDE](https://open.spotify.com/album/4JDXBZdRPId4devseaAOKH) | 2:39 | 2024-02-19 |  |
 | [Everything In Its Right Place](https://open.spotify.com/track/2kRFrWaLWiKq48YYVdGcm8) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [Kid A](https://open.spotify.com/album/6GjwtEZcfenmOf6l18N7T7) | 4:11 | 2023-11-29 | 2024-01-10 |
@@ -46,7 +47,7 @@
 | [Linger](https://open.spotify.com/track/0gEyKnHvgkrkBM6fbeHdwK) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [Everybody Else Is Doing It, So Why Can't We?](https://open.spotify.com/album/0AP5O47kJWlaKVnnybKvQI) | 4:34 | 2023-11-29 |  |
 | [Looking Out for You](https://open.spotify.com/track/3jfZ9M23l0L7RxzYMTgBTv) | [Joy Again](https://open.spotify.com/artist/4jCIAMb0zEArF3GYEYzoDk) | [Looking Out for You](https://open.spotify.com/album/7slouenWhZDdDZibkS4nR3) | 2:59 | 2024-01-09 |  |
 | [Lovers Rock](https://open.spotify.com/track/6dBUzqjtbnIa1TwYbyw5CM) | [TV Girl](https://open.spotify.com/artist/0Y6dVaC9DZtPNH4591M42W) | [French Exit](https://open.spotify.com/album/4Hai0uVzRbyTSaTPzxTY4e) | 3:33 | 2023-11-29 |  |
-| [Mama's Boy](https://open.spotify.com/track/0b6xZk9f96N77BfmYWnQNC) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Sunburn](https://open.spotify.com/album/2T7LuxZRr6SQMgABLtoYTH) | 2:35 | 2023-11-29 | 2024-03-13 |
+| [Mama's Boy](https://open.spotify.com/track/0b6xZk9f96N77BfmYWnQNC) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Sunburn](https://open.spotify.com/album/2T7LuxZRr6SQMgABLtoYTH) | 2:35 | 2023-11-29 |  |
 | [Margaret \(feat\. Bleachers\)](https://open.spotify.com/track/1o82DwNisONAd2mu1RcGE6) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa), [Bleachers](https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI) | [Did you know that there's a tunnel under Ocean Blvd](https://open.spotify.com/album/5HOHne1wzItQlIYmLXLYfZ) | 5:39 | 2023-11-29 |  |
 | [Me and the Devil](https://open.spotify.com/track/0wrWxW18WK2MkrfDpRHkyh) | [Soap&Skin](https://open.spotify.com/artist/2mAYpnSe3g2Y22JcZ2ddku) | [Sugarbread](https://open.spotify.com/album/5yuGLsbL0XTjON5tewyApa) | 3:05 | 2023-11-29 | 2024-02-22 |
 | [Meet you at the Graveyard](https://open.spotify.com/track/5wQyLDy36ihxX69E7JBi4L) | [Cleffy](https://open.spotify.com/artist/0Dd84sfPxs6Aj0PjlCM1P7) | [Clean Sheets, Dirty Walls](https://open.spotify.com/album/1XBXF77YB5WTnLAkfFMwkM) | 2:52 | 2023-11-29 | 2024-01-04 |

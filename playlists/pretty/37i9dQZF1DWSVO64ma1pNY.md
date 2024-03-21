@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSVO64ma1pNY.md) - [plain]
 
 > Life sucks...i need some rock!
 
-[Spotify](https://open.spotify.com/user/spotify) - 296,552 likes - 100 songs - 5 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 296,561 likes - 100 songs - 5 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,9 +19,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSVO64ma1pNY.md) - [plain]
 | 9 | [Wild Child](https://open.spotify.com/track/02bJ6uGeHKfNOhIc9qyA8e) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Dropout Boogie](https://open.spotify.com/album/7LLyQJzyD56Avzk3uFzKUk) | 2:44 |
 | 10 | [Cut the Cord](https://open.spotify.com/track/4LFBVDJV0xpayUvquQVzhS) | [Shinedown](https://open.spotify.com/artist/70BYFdaZbEKbeauJ670ysI) | [Threat to Survival](https://open.spotify.com/album/7969zwJB8p021EBcCUjsv9) | 3:44 |
 | 11 | [All I Want](https://open.spotify.com/track/4JsDHMv5PVO8N07DbDq33r) | [A Day To Remember](https://open.spotify.com/artist/4NiJW4q9ichVqL1aUsgGAN) | [What Separates Me From You](https://open.spotify.com/album/6I2SUr0MolRUiDEcZAbSWm) | 3:22 |
-| 12 | [Absolute Zero](https://open.spotify.com/track/14EORgkbXqIx5K4Haucmnb) | [Stone Sour](https://open.spotify.com/artist/49qiE8dj4JuNdpYGRPdKbF) | [House of Gold & Bones, Part 1](https://open.spotify.com/album/2nCHgPLLyIgxFKUBYuMKPn) | 3:49 |
-| 13 | [Judith](https://open.spotify.com/track/5KDNFlHAdDJ84fhK27c35X) | [A Perfect Circle](https://open.spotify.com/artist/4DFhHyjvGYa9wxdHUjtDkc) | [Mer De Noms](https://open.spotify.com/album/0GeWd0yUKXHbCXVag1mJvO) | 4:07 |
-| 14 | [Anthem Part Two](https://open.spotify.com/track/24CRDgNOgA72JLL7PHFjgB) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [Take Off Your Pants And Jacket](https://open.spotify.com/album/3nHpBmW5wJXGeC3ojBkpey) | 3:47 |
+| 12 | [Anthem Part Two](https://open.spotify.com/track/24CRDgNOgA72JLL7PHFjgB) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [Take Off Your Pants And Jacket](https://open.spotify.com/album/3nHpBmW5wJXGeC3ojBkpey) | 3:47 |
+| 13 | [Absolute Zero](https://open.spotify.com/track/14EORgkbXqIx5K4Haucmnb) | [Stone Sour](https://open.spotify.com/artist/49qiE8dj4JuNdpYGRPdKbF) | [House of Gold & Bones, Part 1](https://open.spotify.com/album/2nCHgPLLyIgxFKUBYuMKPn) | 3:49 |
+| 14 | [Judith](https://open.spotify.com/track/5KDNFlHAdDJ84fhK27c35X) | [A Perfect Circle](https://open.spotify.com/artist/4DFhHyjvGYa9wxdHUjtDkc) | [Mer De Noms](https://open.spotify.com/album/0GeWd0yUKXHbCXVag1mJvO) | 4:07 |
 | 15 | [Jamie All Over](https://open.spotify.com/track/05qCCJQJiOwvPQBb7akf1R) | [Mayday Parade](https://open.spotify.com/artist/3WfJ1OtrWI7RViX9DMyEGy) | [A Lesson In Romantics](https://open.spotify.com/album/0UtenXp3qVbWedKEaNRAp9) | 3:36 |
 | 16 | [Re\-Education \(Through Labor\)](https://open.spotify.com/track/6c1Bdvp208X0jbLmFnWbkC) | [Rise Against](https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O) | [Appeal To Reason](https://open.spotify.com/album/4ebodSLpRqbuQjpGlDZglH) | 3:42 |
 | 17 | [So Called Life](https://open.spotify.com/track/1QTQ3VNzabl4yF5GJE6hhK) | [Three Days Grace](https://open.spotify.com/artist/2xiIXseIJcq3nG7C8fHeBj) | [EXPLOSIONS](https://open.spotify.com/album/4drZZN0HTkJzcdlPmmQyqG) | 3:26 |
@@ -55,14 +55,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSVO64ma1pNY.md) - [plain]
 | 45 | [Love Bites \(So Do I\)](https://open.spotify.com/track/5l3gAGbkXFfPWxh4a3J8mp) | [Halestorm](https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech) | [The Strange Case of..\. \(Deluxe\)](https://open.spotify.com/album/4TyrGrbnsOVKOXVut2huz2) | 3:11 |
 | 46 | [hot girl bummer](https://open.spotify.com/track/1GIofMbTz83fXqNrEuf4bA) | [Our Last Night](https://open.spotify.com/artist/00YTqRClk82aMchQQpYMd5) | [hot girl bummer](https://open.spotify.com/album/1ZxDNQug6sZYBfZa8FckkT) | 3:05 |
 | 47 | [Everything I Do Is For You](https://open.spotify.com/track/1BO9znQb8BbJ5W8KPAqgWE) | [Amira Elfeky](https://open.spotify.com/artist/6Z4kwq0LOaYQW2CqudoOIk) | [Everything I Do Is For You](https://open.spotify.com/album/1isIpqlAXx9y1Q5JVTGiVC) | 2:36 |
-| 48 | [High Time](https://open.spotify.com/track/2A5Xy5HWeRWvWjvv7ObIFZ) | [Nickelback](https://open.spotify.com/artist/6deZN1bslXzeGvOLaLMOIF) | [Get Rollin'](https://open.spotify.com/album/5uLm9XqpibzmIaFUz80jLb) | 3:54 |
-| 49 | [.intoodeep.](https://open.spotify.com/track/54jvLVojOWiQRubRfKmZ2k) | [Dead Poet Society](https://open.spotify.com/artist/31M8EXHYtEqOqVb1X7JRVe) | [\-!\- \(Deluxe\)](https://open.spotify.com/album/6tdWQvZKSlDcvEVO7Wtrek) | 3:39 |
+| 48 | [.intoodeep.](https://open.spotify.com/track/54jvLVojOWiQRubRfKmZ2k) | [Dead Poet Society](https://open.spotify.com/artist/31M8EXHYtEqOqVb1X7JRVe) | [\-!\- \(Deluxe\)](https://open.spotify.com/album/6tdWQvZKSlDcvEVO7Wtrek) | 3:39 |
+| 49 | [High Time](https://open.spotify.com/track/2A5Xy5HWeRWvWjvv7ObIFZ) | [Nickelback](https://open.spotify.com/artist/6deZN1bslXzeGvOLaLMOIF) | [Get Rollin'](https://open.spotify.com/album/5uLm9XqpibzmIaFUz80jLb) | 3:54 |
 | 50 | [Beat It](https://open.spotify.com/track/4OMsAnt8JSBctSJQIMNAy1) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX), [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Believers Never Die \- Greatest Hits](https://open.spotify.com/album/2FkdqW19xrKlDfeZjWf4Gt) | 3:49 |
 | 51 | [Bubbles](https://open.spotify.com/track/05lBXOMA1uHpVPEQZyjoh3) | [Biffy Clyro](https://open.spotify.com/artist/1km0R7wy712AzLkA1WjKET) | [Only Revolutions](https://open.spotify.com/album/6UuQatBlB5QYszvOsBawSD) | 5:01 |
 | 52 | [Something from Nothing](https://open.spotify.com/track/6REiraH7Pe3akd0mkFA4l9) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [Sonic Highways](https://open.spotify.com/album/2qwN15acAl3sm3Idce5vK9) | 4:48 |
 | 53 | [Do Your Worst](https://open.spotify.com/track/1ZDq0oRT40CkuADdE4Jvrq) | [Rival Sons](https://open.spotify.com/artist/356c8AN5YWKvz86B4Sb1yf) | [Feral Roots](https://open.spotify.com/album/2OsED4DmBABqdP9NwGUpAu) | 3:30 |
-| 54 | [The Champion](https://open.spotify.com/track/5AU57UY8wDFicbZw8E6mw2) | [The Score](https://open.spotify.com/artist/2q3GG88dVwuQPF4FmySr9I) | [Carry On](https://open.spotify.com/album/4JnL4N9xWOWrQIF7rCdEXH) | 2:39 |
-| 55 | [Leader of the Pack](https://open.spotify.com/track/1YYK8zYkBKxVaANQ7CkgYu) | [Wunderhorse](https://open.spotify.com/artist/41pd7r1XBRsvdxY3vHEgib) | [Cub](https://open.spotify.com/album/1QNeya5YNW3oiuUi7B54y7) | 3:03 |
+| 54 | [Leader of the Pack](https://open.spotify.com/track/1YYK8zYkBKxVaANQ7CkgYu) | [Wunderhorse](https://open.spotify.com/artist/41pd7r1XBRsvdxY3vHEgib) | [Cub](https://open.spotify.com/album/1QNeya5YNW3oiuUi7B54y7) | 3:03 |
+| 55 | [The Champion](https://open.spotify.com/track/5AU57UY8wDFicbZw8E6mw2) | [The Score](https://open.spotify.com/artist/2q3GG88dVwuQPF4FmySr9I) | [Carry On](https://open.spotify.com/album/4JnL4N9xWOWrQIF7rCdEXH) | 2:39 |
 | 56 | [Life Support](https://open.spotify.com/track/3lZPoo1ZChb1CtEPtWQlhQ) | [Friday Pilots Club](https://open.spotify.com/artist/3PgEvPJKRuil74QPX8wtXY) | [Life Support / Ms\. Supernova](https://open.spotify.com/album/7F8VcXy0BU3Q02MEQjE5jy) | 3:11 |
 | 57 | [Bloodfeather](https://open.spotify.com/track/66Avcq6c51vcMGXLzHH5d7) | [Highly Suspect](https://open.spotify.com/artist/2pqd3HsfsvcBGtHvPOg6eg) | [Mister Asylum](https://open.spotify.com/album/7wGLeeJt18EBjc181FP2cM) | 3:54 |
 | 58 | [Skeletons](https://open.spotify.com/track/3xxM2OEHAAYnpr2KiPdW4B) | [Pop Evil](https://open.spotify.com/artist/1pRaG81GsVtaTBuVSpldt2) | [Skeletons](https://open.spotify.com/album/53Qn747V1G16yJvN363RZA) | 3:29 |
@@ -74,8 +74,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSVO64ma1pNY.md) - [plain]
 | 64 | [Oh No!!!](https://open.spotify.com/track/1hHn2SG7j8Ux61wWiUcXPq) | [grandson](https://open.spotify.com/artist/4ZgQDCtRqZlhLswVS6MHN4) | [Oh No!!!](https://open.spotify.com/album/4tZXu9mrH5lukHf9ujbSUp) | 3:35 |
 | 65 | [I Ran \(So Far Away\)](https://open.spotify.com/track/3ey4YvqYyU7a44LCPUgLzx) | [Bowling For Soup](https://open.spotify.com/artist/5ND0mGcL9SKSjWIjPd0xIb) | [Drunk Enough To Dance](https://open.spotify.com/album/2safYwJ4j0WKLcQUwEBQEi) | 2:34 |
 | 66 | [Room to Breathe](https://open.spotify.com/track/0wsxTNqJPuw4DaR9vLKif1) | [You Me At Six](https://open.spotify.com/artist/1kNQXvepPjaPgUfeDAF2h6) | [Cavalier Youth \(Bonus Track Version\)](https://open.spotify.com/album/0Jc8iit7R0U4lHflud7pdA) | 3:59 |
-| 67 | [Love Abuser \(Save Me\)](https://open.spotify.com/track/6dS27nDWBxG9CHagUyq5j0) | [Royal & the Serpent](https://open.spotify.com/artist/64EHXDoln95lnccszdPum0) | [Happiness is an Inside Job](https://open.spotify.com/album/6CudJTOUVmOvVDR2c3xIky) | 3:07 |
-| 68 | ["45"](https://open.spotify.com/track/25Sd73fleKUVPNqITPZkn1) | [The Gaslight Anthem](https://open.spotify.com/artist/7If8DXZN7mlGdQkLE2FaMo) | [Handwritten](https://open.spotify.com/album/1gsyJWUvwjnsNgYUxpOfLR) | 3:22 |
+| 67 | ["45"](https://open.spotify.com/track/25Sd73fleKUVPNqITPZkn1) | [The Gaslight Anthem](https://open.spotify.com/artist/7If8DXZN7mlGdQkLE2FaMo) | [Handwritten](https://open.spotify.com/album/1gsyJWUvwjnsNgYUxpOfLR) | 3:22 |
+| 68 | [Love Abuser \(Save Me\)](https://open.spotify.com/track/6dS27nDWBxG9CHagUyq5j0) | [Royal & the Serpent](https://open.spotify.com/artist/64EHXDoln95lnccszdPum0) | [Happiness is an Inside Job](https://open.spotify.com/album/6CudJTOUVmOvVDR2c3xIky) | 3:07 |
 | 69 | [Head Up](https://open.spotify.com/track/0Di4xlEas5KZ4pF52Vb2tG) | [The Score](https://open.spotify.com/artist/2q3GG88dVwuQPF4FmySr9I) | [Head Up](https://open.spotify.com/album/6NaV5Skx0kHFSzUSmFsDtc) | 2:49 |
 | 70 | [But Here We Are](https://open.spotify.com/track/5s18NymFEHOtiUMfVr6E3H) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [But Here We Are](https://open.spotify.com/album/4wp4aWWpoYfNcspimVAnel) | 4:43 |
 | 71 | [Avon](https://open.spotify.com/track/5xWSuhvOJUaO3zrXYxsSAS) | [Queens of the Stone Age](https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn) | [Queens of the Stone Age](https://open.spotify.com/album/0PSTqZ8cInMb1Wr68Uqdwp) | 3:25 |
@@ -93,8 +93,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSVO64ma1pNY.md) - [plain]
 | 83 | [Love Dies Young](https://open.spotify.com/track/5suO1J3cXSVWJ7ED3kasKQ) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [Medicine At Midnight](https://open.spotify.com/album/1FyNZvJ6MHO01kl3ySMPdc) | 4:21 |
 | 84 | [curious/furious](https://open.spotify.com/track/27dTFzAAiUrJ2C2hxRcCd5) | [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF) | [curious/furious](https://open.spotify.com/album/5hlxPdHRPznZIxBna01A9Z) | 3:04 |
 | 85 | [Sick Ride](https://open.spotify.com/track/1nfkZ7p5iG7WsGD3ZWnKny) | [Karen Dió](https://open.spotify.com/artist/5VVMZArxuM1mO8Qny95inw) | [Sick Ride](https://open.spotify.com/album/5BypS8hiBqXS9pPmzu7LVx) | 1:37 |
-| 86 | [Savior Mode](https://open.spotify.com/track/0G6fFMKdbf7fI3S1gLHSRK) | [Balance And Composure](https://open.spotify.com/artist/2fgl3me4n9diODTrVfruF3) | [Too Quick to Forgive](https://open.spotify.com/album/7ECEe6gQMlJNjykkX7F7RY) | 4:21 |
-| 87 | [New England](https://open.spotify.com/track/1iLNCbSVrxxv117VvIsVJ1) | [Kid Kapichi](https://open.spotify.com/artist/2iwVdN0Geaw5Sn2Abeh9fB), [Bob Vylan](https://open.spotify.com/artist/6XgIk9Y6qy6JCMZVime6DQ) | [Here's What You Could Have Won](https://open.spotify.com/album/6rLQeykzlWGHn9SkQr85dN) | 3:38 |
+| 86 | [New England](https://open.spotify.com/track/1iLNCbSVrxxv117VvIsVJ1) | [Kid Kapichi](https://open.spotify.com/artist/2iwVdN0Geaw5Sn2Abeh9fB), [Bob Vylan](https://open.spotify.com/artist/6XgIk9Y6qy6JCMZVime6DQ) | [Here's What You Could Have Won](https://open.spotify.com/album/6rLQeykzlWGHn9SkQr85dN) | 3:38 |
+| 87 | [Savior Mode](https://open.spotify.com/track/0G6fFMKdbf7fI3S1gLHSRK) | [Balance And Composure](https://open.spotify.com/artist/2fgl3me4n9diODTrVfruF3) | [Too Quick to Forgive](https://open.spotify.com/album/7ECEe6gQMlJNjykkX7F7RY) | 4:21 |
 | 88 | [You Can Count On Me](https://open.spotify.com/track/6AO1BottKVTrfm0SDRvwsY) | [Trophy Eyes](https://open.spotify.com/artist/6KPdmtIl0LA5mRFSqseWhI) | [The American Dream](https://open.spotify.com/album/3tAukYNlSSBALc9RiMCwmI) | 3:11 |
 | 89 | [Future Proof](https://open.spotify.com/track/7bnnhcgeyJwU5zwhwo02s3) | [Many Eyes](https://open.spotify.com/artist/001Hfjmktqije9a7IvGuFb) | [Future Proof](https://open.spotify.com/album/2HOmKYLYnlz7SYVGDe8EUd) | 3:30 |
 | 90 | [Seventeen](https://open.spotify.com/track/66nHiuTgSTKCwNxWSwYNLG) | [Ally Nicholas](https://open.spotify.com/artist/3F2at4eIx4GXByVo0hGJaX) | [Seventeen](https://open.spotify.com/album/48xEEpRoIOOex883iHkGhT) | 2:30 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSVO64ma1pNY.md) - [plain]
 | 99 | [What’s It Take To Be Happy?](https://open.spotify.com/track/0wFr2Uk87dQY3AYKfGPZqg) | [The Blue Stones](https://open.spotify.com/artist/5VPCIIfZPK8KPsgz4jmOEC) | [Pretty Monster](https://open.spotify.com/album/1ZSM06t6wMNeIaNMXxCuL6) | 3:20 |
 | 100 | [Still Love](https://open.spotify.com/track/5bUNcdF18WBwCdkRNO4y5C) | [Teenage Wrist](https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx), [Softcult](https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0) | [Still Love](https://open.spotify.com/album/2Cpp5NKmwqriSjzgOuk16d) | 3:44 |
 
-Snapshot ID: `MCxjYjU3ZjFkNDFkYjcxMmY5ZmE4Y2NkZjg0OWI3NzVhNTMzOTUwMjM2`
+Snapshot ID: `MCw1NGFlMDY4NTc4ZmM1MDFiMWExYmY0YzgxNGY4MThhYTNlMTVlYzI2`

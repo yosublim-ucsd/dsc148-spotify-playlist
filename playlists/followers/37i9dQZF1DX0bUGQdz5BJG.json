@@ -1,5 +1,5 @@
 {
-  "2024-03-20": 175271,
+  "2024-03-21": 175327,
   "date_first_scraped": "2022-01-02",
   "description": "Music City must-hears. Cover: George Birge",
   "name": "Next From Nashville",
@@ -35009,6 +35009,24 @@
       "duration_ms": 123400,
       "name": "Wildflower",
       "url": "https://open.spotify.com/track/7BceQPvndmrRIfmQp4WOai"
+    },
+    {
+      "album": {
+        "name": "Wildflowers & Tears",
+        "url": "https://open.spotify.com/album/4SJbkkKV2ddK1aOAFuMd5K"
+      },
+      "artists": [
+        {
+          "name": "Coleman Jennings",
+          "url": "https://open.spotify.com/artist/3hxrh6IPuATmIiJuGNSdpp"
+        }
+      ],
+      "date_added": "2024-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252936,
+      "name": "Wildflowers & Tears",
+      "url": "https://open.spotify.com/track/6Mlswl90srkx0pCGuM489b"
     },
     {
       "album": {

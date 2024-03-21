@@ -4,7 +4,7 @@
 
 > Your daily update of the most viral tracks right now \- USA.
 
-2,516 songs - 5 day 14 hr 27 min
+2,518 songs - 5 day 14 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -906,10 +906,12 @@
 | [He's Mine](https://open.spotify.com/track/20VRVHMwAspwLA207PdKOn) | [MoKenStef](https://open.spotify.com/artist/3uklrkyCGBBg5PoFTbEoim) | [Love Soul](https://open.spotify.com/album/3czBW4vnFXUkXs2wGLp02m) | 4:13 | 2022-06-21 | 2022-07-20 |
 | [Hear Me Clearly \(feat\. Nigo\)](https://open.spotify.com/track/0fOpKW6soqAbK8lvRXjhPg) | [Pusha T](https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy), [Nigo](https://open.spotify.com/artist/2rAnv6brcXaglLZBB4XXEn) | [It's Almost Dry](https://open.spotify.com/album/6o38CdD7CUlZDCFhjZYLDH) | 2:21 | 2022-04-29 | 2022-04-30 |
 | [Hear Me Clearly \(with Nigo\)](https://open.spotify.com/track/0WxzTL8Ptu103bVeYcBzoS) | [Pusha T](https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy), [Nigo](https://open.spotify.com/artist/2rAnv6brcXaglLZBB4XXEn) | [Hear Me Clearly](https://open.spotify.com/album/2pb2WYmkUE3NCYZp6TYCZi) | 2:21 | 2022-03-29 | 2022-04-03 |
+| [Heart of Gold](https://open.spotify.com/track/26QKxvjlCo2fSd3T4c8Zpb) | [Neil Young](https://open.spotify.com/artist/6v8FB84lnmJs434UJf2Mrm) | [Harvest \(50th Anniversary Edition\)](https://open.spotify.com/album/2LOpi63tYGh0Suy8eLJDVQ) | 3:07 | 2024-03-20 |  |
 | [Heart Racing](https://open.spotify.com/track/2xkCK64mVslpApVL7i6Mxj) | [Kanii](https://open.spotify.com/artist/1S82w4yw9TYIHZ889mPPaW), [Riovaz](https://open.spotify.com/artist/1bhZt10yZVCJfp3HaNxJv8), [Nimstarr](https://open.spotify.com/artist/25hjCXq9ACmSkWbnvKMThf) | [Heart Racing](https://open.spotify.com/album/11RjYIgoAoNjAYnCkLYidJ) | 2:36 | 2023-06-13 | 2023-06-27 |
 | [Heart To Heart](https://open.spotify.com/track/7EAMXbLcL0qXmciM5SwMh2) | [Mac DeMarco](https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM) | [Here Comes The Cowboy](https://open.spotify.com/album/67PsnkYVPNpEsZffyTWGgW) | 3:31 | 2022-12-13 | 2023-02-12 |
 | [Heartbroken \(feat\. Jessie Murph & Polo G\)](https://open.spotify.com/track/60eA3QITW5G2D7Woc11uKc) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Jessie Murph](https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7), [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49) | [Diplo Presents Thomas Wesley: Chapter 2 \- Swamp Savant](https://open.spotify.com/album/4T2TQZ3hlWAsCe9PXK3uM9) | 3:24 | 2023-08-15 | 2023-08-23 |
 | [Heather](https://open.spotify.com/track/4xqrdfXkTW4T0RauPLv3WA) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Kid Krow](https://open.spotify.com/album/2CMlkzFI2oDAy5MbyV7OV5) | 3:18 | 2022-12-04 | 2023-12-12 |
+| [Heather](https://open.spotify.com/track/0N0FqyIrtJZx1vuPOzC0eN) | [overthxnk](https://open.spotify.com/artist/2wMrMnimoHzZoZ5e0BCrZ3), [gr\_phs](https://open.spotify.com/artist/4gaFoA5CXTr18ozwKfopSk) | [Heather](https://open.spotify.com/album/28A7mqiiqOAgda8oy5rJxN) | 1:55 | 2024-03-20 |  |
 | [Heather On The Hill](https://open.spotify.com/track/7N3emAP0mWt2OYqxs0XYpc) | [Nathan Evans](https://open.spotify.com/artist/1PKErrAhYFdfrDymGHRQRo) | [Heather On The Hill](https://open.spotify.com/album/2beYnTms954gTl7cYEupjN) | 2:19 | 2024-01-23 | 2024-02-09 |
 | [Heaven](https://open.spotify.com/track/5T00EN4oZmDQx3hqVAC4Fx) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [The Land Is Inhospitable and So Are We](https://open.spotify.com/album/2Cn1d2KgbkAqbZCJ1RzdkA) | 3:44 | 2023-09-16 | 2023-09-27 |
 | [Heaven](https://open.spotify.com/track/1yHVHoz6Ny29gbbWJYVnFt) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [Heaven](https://open.spotify.com/album/6IbldUF7xzRJuUDEApUCS3) | 3:06 | 2023-03-14 | 2023-03-22 |
@@ -1832,7 +1834,7 @@
 | [SAOKO](https://open.spotify.com/track/2FYGZDfsAnNsrm1gVbyKnG) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [MOTOMAMI](https://open.spotify.com/album/6jbtHi5R0jMXoliU2OS0lo) | 2:17 | 2022-03-24 | 2022-03-28 |
 | [Sara](https://open.spotify.com/track/0zSemnpoUFdtesuHTZ3ifv) | [We Three](https://open.spotify.com/artist/5oYuKMBiaAc0W8Gt7FVIjb) | [We're All Messed up \- but It's Ok](https://open.spotify.com/album/19alMxDC8EKcZjwCVVBqmD) | 3:31 | 2022-03-05 | 2022-03-11 |
 | [Sarah's Place \(feat\. Noah Kahan\)](https://open.spotify.com/track/1fvC3CmNAbsx0V9ULMU8NB) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2), [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Sarah's Place \(feat\. Noah Kahan\)](https://open.spotify.com/album/4nCpzKTB9VoZF1hsogANQi) | 3:34 | 2023-10-10 | 2023-10-18 |
-| [Saturn](https://open.spotify.com/track/1bjeWoagtHmUKputLVyDxQ) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Saturn](https://open.spotify.com/album/1fmBMCSSkSlvxyoy1vut2k) | 3:06 | 2024-03-12 |  |
+| [Saturn](https://open.spotify.com/track/1bjeWoagtHmUKputLVyDxQ) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Saturn](https://open.spotify.com/album/1fmBMCSSkSlvxyoy1vut2k) | 3:06 | 2024-03-12 | 2024-03-21 |
 | [Save Me \(with Lainey Wilson\)](https://open.spotify.com/track/4Bee3PcNdfeqO1B80dDgFn) | [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs), [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Whitsitt Chapel](https://open.spotify.com/album/2sy1vyUt1ZNGagYdJFOMhu) | 3:57 | 2023-06-06 | 2023-06-21 |
 | [Saving Up](https://open.spotify.com/track/787Y2idwCU2Rk60Prv4wpr) | [Dom Dolla](https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m) | [Saving Up](https://open.spotify.com/album/3XTTqxcEOZgaTobJlRefvF) | 3:27 | 2023-10-24 | 2023-11-02 |
 | [Say It Ain't So \- Recorded At Spotify Studios NYC](https://open.spotify.com/track/4NBSkqCopxDtoMNABwtsce) | [Calpurnia](https://open.spotify.com/artist/5A2yiLLhc0NJaG8rn4mYp5) | [Spotify Singles](https://open.spotify.com/album/520akeRTx4b3o0RQZT23Zo) | 4:03 | 2022-07-11 | 2022-08-10 |

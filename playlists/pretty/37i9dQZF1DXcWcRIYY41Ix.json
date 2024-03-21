@@ -1,12 +1,12 @@
 {
   "description": "La nueva ola de trovadores del Siglo XXI. En portada: Elsa y Elmar.",
-  "num_followers": 122269,
+  "num_followers": 122321,
   "original_name": "Cancionistas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlODk0ZDYyZTkyMmVhYzRiMTVmMzAxYmExODQ0MzRkZjI1MmJkYzMx",
+  "snapshot_id": "MCwxMDg5MWZmZmRiNjcyOTE1NDkyZjJhYTVkMGRkZmM4ODI5NGVlNjk2",
   "tracks": [
     {
       "added_at": "2024-03-15 10:20:46",
@@ -1007,22 +1007,6 @@
     {
       "added_at": "2024-03-15 10:20:46",
       "album": {
-        "name": "es combate?",
-        "url": "https://open.spotify.com/album/4FeZdlK9iTFZXYzOTRwsCT"
-      },
-      "artists": [
-        {
-          "name": "Candela G\u00f3mez",
-          "url": "https://open.spotify.com/artist/0jIhz2FFQmwcjj63SJh63h"
-        }
-      ],
-      "duration_ms": 241058,
-      "name": "es combate?",
-      "url": "https://open.spotify.com/track/6DgvIzxw3uOV07RMpTPS1w"
-    },
-    {
-      "added_at": "2024-03-15 10:20:46",
-      "album": {
         "name": "Al o\u00edrla cantar",
         "url": "https://open.spotify.com/album/5fk1Gz6X5cPaFm9Yipm75h"
       },
@@ -1039,6 +1023,22 @@
       "duration_ms": 336330,
       "name": "Al o\u00edrla cantar",
       "url": "https://open.spotify.com/track/1GmzUjLKmccC28IAMFhW1t"
+    },
+    {
+      "added_at": "2024-03-15 10:20:46",
+      "album": {
+        "name": "es combate?",
+        "url": "https://open.spotify.com/album/4FeZdlK9iTFZXYzOTRwsCT"
+      },
+      "artists": [
+        {
+          "name": "Candela G\u00f3mez",
+          "url": "https://open.spotify.com/artist/0jIhz2FFQmwcjj63SJh63h"
+        }
+      ],
+      "duration_ms": 241058,
+      "name": "es combate?",
+      "url": "https://open.spotify.com/track/6DgvIzxw3uOV07RMpTPS1w"
     },
     {
       "added_at": "2024-03-15 10:20:46",
@@ -1643,22 +1643,6 @@
     {
       "added_at": "2024-03-15 10:20:46",
       "album": {
-        "name": "Mi M\u00fasica Es Muy Triste",
-        "url": "https://open.spotify.com/album/7s3WWffDU7KPxRyfpxZ7Fk"
-      },
-      "artists": [
-        {
-          "name": "La Helen",
-          "url": "https://open.spotify.com/artist/0i32iL4Kb92Zp16W8322t7"
-        }
-      ],
-      "duration_ms": 213943,
-      "name": "Mi M\u00fasica Es Muy Triste",
-      "url": "https://open.spotify.com/track/5dDM1BnFWoPv1PEbsUDzyc"
-    },
-    {
-      "added_at": "2024-03-15 10:20:46",
-      "album": {
         "name": "Fins a maig no revisc",
         "url": "https://open.spotify.com/album/0nfAMwME4AZNOSaYuBVdWu"
       },
@@ -1671,6 +1655,22 @@
       "duration_ms": 167513,
       "name": "Terra banyada",
       "url": "https://open.spotify.com/track/5z1r7JONnKjiZiJEHpaRVg"
+    },
+    {
+      "added_at": "2024-03-15 10:20:46",
+      "album": {
+        "name": "Mi M\u00fasica Es Muy Triste",
+        "url": "https://open.spotify.com/album/7s3WWffDU7KPxRyfpxZ7Fk"
+      },
+      "artists": [
+        {
+          "name": "La Helen",
+          "url": "https://open.spotify.com/artist/0i32iL4Kb92Zp16W8322t7"
+        }
+      ],
+      "duration_ms": 213943,
+      "name": "Mi M\u00fasica Es Muy Triste",
+      "url": "https://open.spotify.com/track/5dDM1BnFWoPv1PEbsUDzyc"
     },
     {
       "added_at": "2024-03-15 10:20:46",
@@ -1775,6 +1775,26 @@
     {
       "added_at": "2024-03-15 10:20:46",
       "album": {
+        "name": "El siglo del loro",
+        "url": "https://open.spotify.com/album/1p9J4Gk71sOHPFeEmJYVvP"
+      },
+      "artists": [
+        {
+          "name": "Pala",
+          "url": "https://open.spotify.com/artist/48NwWz7YpfhM5w6Zx5dz0j"
+        },
+        {
+          "name": "Jorge Drexler",
+          "url": "https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt"
+        }
+      ],
+      "duration_ms": 100253,
+      "name": "Ponme",
+      "url": "https://open.spotify.com/track/7oGwZ9K8PbWEMCEmJS2esu"
+    },
+    {
+      "added_at": "2024-03-15 10:20:46",
+      "album": {
         "name": "M\u00edrame",
         "url": "https://open.spotify.com/album/2BrwzeYkAzmI4RnzLCgbv8"
       },
@@ -1823,26 +1843,6 @@
       "duration_ms": 333409,
       "name": "Migas",
       "url": "https://open.spotify.com/track/3LzLD8MNdZ2IpLO2aKiQj6"
-    },
-    {
-      "added_at": "2024-03-15 10:20:46",
-      "album": {
-        "name": "Deshielo",
-        "url": "https://open.spotify.com/album/3xIhTaVpGZhjlo7SGeTeyJ"
-      },
-      "artists": [
-        {
-          "name": "Mar\u00eda Ruiz",
-          "url": "https://open.spotify.com/artist/0AFj9y8WKAlLA0s0om6NaI"
-        },
-        {
-          "name": "Chambao",
-          "url": "https://open.spotify.com/artist/2qhLqZ1pkiUl5HNrU2Nz0R"
-        }
-      ],
-      "duration_ms": 221712,
-      "name": "Oye mi Voz",
-      "url": "https://open.spotify.com/track/5EALaMd6QUNhtRJINXrlqM"
     }
   ],
   "unique_name": "Cancionistas",

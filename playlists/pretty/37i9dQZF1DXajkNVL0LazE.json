@@ -1,12 +1,12 @@
 {
   "description": "Indie folk that defined the 2000s.",
-  "num_followers": 92793,
+  "num_followers": 92865,
   "original_name": "00s Indie Folk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxM2Q1NTNiYjUyYzk1NmYzMDUyNjJmY2M0MmE3NThiYjhkMjM0OGQ5",
+  "snapshot_id": "MCw0MDIzOWYwMmY2YThmOTM3ZjJiZDgyNDU3NGQ0ZjQ5ZTU1NmI0N2Ri",
   "tracks": [
     {
       "added_at": "2022-02-04 22:01:34",
@@ -1279,22 +1279,6 @@
     {
       "added_at": "2022-02-04 22:01:34",
       "album": {
-        "name": "Wilco (The Album)",
-        "url": "https://open.spotify.com/album/1cezxBJdWm1Xod9ZiGy4YE"
-      },
-      "artists": [
-        {
-          "name": "Wilco",
-          "url": "https://open.spotify.com/artist/2QoU3awHVdcHS8LrZEKvSM"
-        }
-      ],
-      "duration_ms": 205240,
-      "name": "You and I",
-      "url": "https://open.spotify.com/track/2fdMAIsNH4wY7RRda8aCfL"
-    },
-    {
-      "added_at": "2022-02-04 22:01:34",
-      "album": {
         "name": "Emotionalism (Bonus Track Version)",
         "url": "https://open.spotify.com/album/4pb5b6XKuzzh5CqPFOzptQ"
       },
@@ -1307,6 +1291,22 @@
       "duration_ms": 320520,
       "name": "The Ballad of Love and Hate",
       "url": "https://open.spotify.com/track/49YQ9Mq8CKelQsmjdNiICu"
+    },
+    {
+      "added_at": "2022-02-04 22:01:34",
+      "album": {
+        "name": "Wilco (The Album)",
+        "url": "https://open.spotify.com/album/1cezxBJdWm1Xod9ZiGy4YE"
+      },
+      "artists": [
+        {
+          "name": "Wilco",
+          "url": "https://open.spotify.com/artist/2QoU3awHVdcHS8LrZEKvSM"
+        }
+      ],
+      "duration_ms": 205240,
+      "name": "You and I",
+      "url": "https://open.spotify.com/track/2fdMAIsNH4wY7RRda8aCfL"
     },
     {
       "added_at": "2022-02-04 22:01:34",

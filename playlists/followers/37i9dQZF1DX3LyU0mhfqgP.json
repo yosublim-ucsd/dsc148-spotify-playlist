@@ -1,7 +1,7 @@
 {
-  "2024-03-20": 1086405,
+  "2024-03-21": 1086329,
   "date_first_scraped": "2021-12-21",
-  "description": "Listen to the hottest songs from LGBTQIA+ artists. Cover: Metteson",
+  "description": "Listen to the hottest songs from LGBTQIA+ artists. Cover: Ana Macho",
   "name": "GLOW",
   "tracks": [
     {
@@ -2151,7 +2151,7 @@
       ],
       "date_added": "2024-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-20",
       "duration_ms": 160693,
       "name": "Bible Belt",
       "url": "https://open.spotify.com/track/5AON00DcAqzMBIxGl0IHm3"
@@ -4172,6 +4172,24 @@
     },
     {
       "album": {
+        "name": "Couples Therapy",
+        "url": "https://open.spotify.com/album/5HyLyqrPbhaRkckVuwllsE"
+      },
+      "artists": [
+        {
+          "name": "LuxJury",
+          "url": "https://open.spotify.com/artist/2zLTVYCCfZSL5zLfKNTNKw"
+        }
+      ],
+      "date_added": "2024-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 315453,
+      "name": "Couples Therapy",
+      "url": "https://open.spotify.com/track/3RVzXiXKzu2AkCUnATH5ZQ"
+    },
+    {
+      "album": {
         "name": "Nonante-Cinq",
         "url": "https://open.spotify.com/album/0pcRdTAIkItbFdyRA4CVZM"
       },
@@ -4313,7 +4331,7 @@
       ],
       "date_added": "2024-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-20",
       "duration_ms": 186352,
       "name": "C\u00f3mo llegar a fin de mes",
       "url": "https://open.spotify.com/track/5XA8DviTXT1RpLBonJu3mb"
@@ -5317,6 +5335,28 @@
       "duration_ms": 123268,
       "name": "Elevator",
       "url": "https://open.spotify.com/track/6fDRfO9Llh64gJSPDgiig0"
+    },
+    {
+      "album": {
+        "name": "GRIP",
+        "url": "https://open.spotify.com/album/6yQiAySk0ELR4cjDCgSqtY"
+      },
+      "artists": [
+        {
+          "name": "serpentwithfeet",
+          "url": "https://open.spotify.com/artist/1O9iHQjrVuiAYOJFCBeFSl"
+        },
+        {
+          "name": "Orion Sun",
+          "url": "https://open.spotify.com/artist/2efrqekWSHlvhATD50AG3m"
+        }
+      ],
+      "date_added": "2024-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201218,
+      "name": "Ellipsis",
+      "url": "https://open.spotify.com/track/3MaBdTM6hLwb4n280HJaia"
     },
     {
       "album": {
@@ -13825,7 +13865,7 @@
       ],
       "date_added": "2024-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-20",
       "duration_ms": 207950,
       "name": "Order Of Change",
       "url": "https://open.spotify.com/track/1F9WS8ZpMXEsRyyMVaTm24"
@@ -15863,7 +15903,7 @@
       ],
       "date_added": "2024-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-20",
       "duration_ms": 259015,
       "name": "Sadness As A Gift",
       "url": "https://open.spotify.com/track/6oBIzNjrQ7ibErxk1ZbdfA"
@@ -17598,6 +17638,24 @@
     },
     {
       "album": {
+        "name": "Sunburn",
+        "url": "https://open.spotify.com/album/4FiXAKgcfMhWbqZRGIJane"
+      },
+      "artists": [
+        {
+          "name": "Harrison McClary",
+          "url": "https://open.spotify.com/artist/2l8YMGXFLdgBJzXivf4xkT"
+        }
+      ],
+      "date_added": "2024-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205212,
+      "name": "Sunburn",
+      "url": "https://open.spotify.com/track/0ALiooMG99wGkBEVdQWOMQ"
+    },
+    {
+      "album": {
         "name": "Banish The Banshee",
         "url": "https://open.spotify.com/album/5G55JBphRFFY6DaYELM6Gk"
       },
@@ -18091,6 +18149,24 @@
       "duration_ms": 186640,
       "name": "The Caring",
       "url": "https://open.spotify.com/track/2L8AxY1xtptdIkjbjaxHtH"
+    },
+    {
+      "album": {
+        "name": "The Code",
+        "url": "https://open.spotify.com/album/30euLVaktPWmngBsGDUYdA"
+      },
+      "artists": [
+        {
+          "name": "Nemo",
+          "url": "https://open.spotify.com/artist/5Wg72TowYBWIcSo3K2r84N"
+        }
+      ],
+      "date_added": "2024-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180141,
+      "name": "The Code",
+      "url": "https://open.spotify.com/track/1EjIXKhNHI00ZLMRpS8iz8"
     },
     {
       "album": {

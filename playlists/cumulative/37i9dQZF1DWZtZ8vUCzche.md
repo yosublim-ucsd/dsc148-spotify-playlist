@@ -4,7 +4,7 @@
 
 > Enjoy your perfect headphones jam with this eclectic collection of brilliantly produced and recorded tracks\. These can serve as audiophile reference tracks, but they are great music that can be enjoyed on any headphones or stereo as well!  <a href="spotify:user:spotify:playlist:37i9dQZF1DWWISLnAIWyCZ">Classical version here</a>.
 
-352 songs - 1 day 4 hr 59 min
+353 songs - 1 day 5 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -102,7 +102,8 @@
 | [Gosh](https://open.spotify.com/track/4mlZurguzNJior9siewA8C) | [Jamie xx](https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ), [MC Moose](https://open.spotify.com/artist/0xKEnflICsX9GtyjQdkv1O) | [In Colour](https://open.spotify.com/album/04Duapg2mNlVykd895xcfZ) | 4:51 | 2022-07-20 |  |
 | [Happiness Is Easy \- 1997 Remaster](https://open.spotify.com/track/3wowK80ug94yqlI86A9Ej9) | [Talk Talk](https://open.spotify.com/artist/7Fo8TAyGJr4VmhE68QamMf) | [The Colour of Spring](https://open.spotify.com/album/70V1kL7w7Q9pDU4I6zDjYE) | 6:30 | 2021-10-15 |  |
 | [Harvest Moon](https://open.spotify.com/track/2nekCvC9XRXQckWNnkIp2l) | [Neil Young](https://open.spotify.com/artist/6v8FB84lnmJs434UJf2Mrm) | [Eat, Pray, Love](https://open.spotify.com/album/6AnpM7DFltgJLIjlToxYJ1) | 4:59 | 2022-07-20 | 2024-03-18 |
-| [Harvest Moon](https://open.spotify.com/track/7sCHy8QQUz3CRvUMp53Cbm) | [Neil Young](https://open.spotify.com/artist/6v8FB84lnmJs434UJf2Mrm) | [Greatest Hits](https://open.spotify.com/album/2hNa7oWGatOqnKw9cmS4ao) | 5:03 | 2023-07-13 |  |
+| [Harvest Moon](https://open.spotify.com/track/5l9c6bJmzvftumhz4TMPgk) | [Neil Young](https://open.spotify.com/artist/6v8FB84lnmJs434UJf2Mrm) | [Harvest Moon](https://open.spotify.com/album/0tdm853TNWjVVChbJRbu3Q) | 5:03 | 2023-07-13 |  |
+| [Harvest Moon](https://open.spotify.com/track/7sCHy8QQUz3CRvUMp53Cbm) | [Neil Young](https://open.spotify.com/artist/6v8FB84lnmJs434UJf2Mrm) | [Greatest Hits](https://open.spotify.com/album/2hNa7oWGatOqnKw9cmS4ao) | 5:03 | 2023-07-13 | 2024-03-21 |
 | [Headshots](https://open.spotify.com/track/3wScjEbCUk4hFUA18ky4Wm) | [Suzanne Vega](https://open.spotify.com/artist/3X0tJzVYoWlfjLYI0Ridsw) | [Nine Objects Of Desire](https://open.spotify.com/album/6yH1CnRs34R23OjFOdPlCI) | 3:07 | 2022-07-20 |  |
 | [Headshots](https://open.spotify.com/track/6AUXOp3K1CSLI21eFVrMTR) | [Suzanne Vega](https://open.spotify.com/artist/3X0tJzVYoWlfjLYI0Ridsw) | [Nine Objects Of Desire](https://open.spotify.com/album/7m0tB21jVd4x73Yofa6ajO) | 3:08 | 2021-10-15 | 2022-07-29 |
 | [Heaven or Las Vegas](https://open.spotify.com/track/0AxZUYeQ9bZwSdt1LmZuok) | [Cocteau Twins](https://open.spotify.com/artist/5Wabl1lPdNOeIn0SQ5A1mp) | [Heaven or Las Vegas](https://open.spotify.com/album/5lEphbceIgaK1XxWeSrC9E) | 4:58 | 2022-07-20 |  |

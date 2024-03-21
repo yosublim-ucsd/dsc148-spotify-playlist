@@ -4,7 +4,7 @@
 
 > A llorar a la llorería.
 
-269 songs - 15 hr 22 min
+269 songs - 15 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -94,7 +94,7 @@
 | [glass half empty](https://open.spotify.com/track/1t2n68SZzCnuQ6tITQxTPS) | [dempsey hope](https://open.spotify.com/artist/6ZzYOQMKYTj2lJeAitjSl7) | [glass half empty](https://open.spotify.com/album/4SrMXFyiS31vaK5SWYBpru) | 2:16 | 2022-08-12 | 2022-08-27 |
 | [Gracias A Ti](https://open.spotify.com/track/41k2uNbjNzjUTmwvpw1kK8) | [Pitizion](https://open.spotify.com/artist/0GWdY55YF6xzN5L1A0X8nq) | [Gracias A Ti](https://open.spotify.com/album/5SqgyIuq6nnGDn2QYAu8I8) | 2:15 | 2022-01-26 | 2022-04-17 |
 | [Grey Lines](https://open.spotify.com/track/1cyGXol3yjiLI6UXpkI1xk) | [Austin George](https://open.spotify.com/artist/5SVHLhz1Vv5m4xmkT4Pk6D) | [Grey Lines](https://open.spotify.com/album/60UeVI6qh6PRnTYf4uqtzj) | 2:48 | 2023-08-01 | 2023-08-11 |
-| [Hace Una Hora \- Sesión en Vivo](https://open.spotify.com/track/1g5zBPGIwyHIf0VogScbYA) | [Juan Pablo Vega](https://open.spotify.com/artist/2PfyKA4qhjkxUVkerTCxz0), [Santiago Cruz](https://open.spotify.com/artist/5ClJtuiNlr83ua45Dvpcf7) | [Hace Una Hora \(Sesión en Vivo\)](https://open.spotify.com/album/1BKtdyp4mGYFvLqdeObpad) | 5:07 | 2024-03-08 |  |
+| [Hace Una Hora \- Sesión en Vivo](https://open.spotify.com/track/1g5zBPGIwyHIf0VogScbYA) | [Juan Pablo Vega](https://open.spotify.com/artist/2PfyKA4qhjkxUVkerTCxz0), [Santiago Cruz](https://open.spotify.com/artist/5ClJtuiNlr83ua45Dvpcf7) | [Hace Una Hora \(Sesión en Vivo\)](https://open.spotify.com/album/1BKtdyp4mGYFvLqdeObpad) | 4:50 | 2024-03-08 |  |
 | [Hard Times](https://open.spotify.com/track/5Aq4CusaoqGNQlvNUUnA7t) | [Ethel Cain](https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2) | [Preacher’s Daughter](https://open.spotify.com/album/40pYNrOZaH6Ozmex2nLniD) | 5:03 | 2022-08-12 | 2022-08-27 |
 | [Heather](https://open.spotify.com/track/4xqrdfXkTW4T0RauPLv3WA) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Kid Krow](https://open.spotify.com/album/2CMlkzFI2oDAy5MbyV7OV5) | 3:18 | 2022-01-07 | 2024-03-02 |
 | [Himno De La Depresión](https://open.spotify.com/track/2xrYbLEt7afkElgIBXmYUU) | [Moncho Berry](https://open.spotify.com/artist/7r3ulcCderiJsAhR2ljXpC) | [Himno De La Depresión](https://open.spotify.com/album/3FvZZfCYtfb8TBQAtkHlrH) | 4:00 | 2022-01-07 | 2022-08-06 |

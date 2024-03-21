@@ -1,12 +1,12 @@
 {
   "description": "Because once you were a hipster, and now you are an indie parent.",
-  "num_followers": 63244,
+  "num_followers": 63277,
   "original_name": "Raised on Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3MmNjZjJhMDRjMTgzNWNmMDUwMTlhNzBhNTA5YzQxNTIyNGM0NDFm",
+  "snapshot_id": "MCw3MzgwYmUyYmFmMzA0Mzk1YjhjY2U1N2IzN2MwOWJmMDZjOGFhZWFj",
   "tracks": [
     {
       "added_at": "2022-01-10 20:54:40",
@@ -283,22 +283,6 @@
     {
       "added_at": "2022-01-10 20:54:40",
       "album": {
-        "name": "Oracular Spectacular",
-        "url": "https://open.spotify.com/album/6mm1Skz3JE6AXneya9Nyiv"
-      },
-      "artists": [
-        {
-          "name": "MGMT",
-          "url": "https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE"
-        }
-      ],
-      "duration_ms": 302840,
-      "name": "Kids",
-      "url": "https://open.spotify.com/track/1jJci4qxiYcOHhQR247rEU"
-    },
-    {
-      "added_at": "2022-01-10 20:54:40",
-      "album": {
         "name": "Real Love Baby",
         "url": "https://open.spotify.com/album/75614DWrksimeV4oXUhaYP"
       },
@@ -311,6 +295,22 @@
       "duration_ms": 189293,
       "name": "Real Love Baby",
       "url": "https://open.spotify.com/track/0Z57YWES04xGh3AImDz6Qr"
+    },
+    {
+      "added_at": "2022-01-10 20:54:40",
+      "album": {
+        "name": "Oracular Spectacular",
+        "url": "https://open.spotify.com/album/6mm1Skz3JE6AXneya9Nyiv"
+      },
+      "artists": [
+        {
+          "name": "MGMT",
+          "url": "https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE"
+        }
+      ],
+      "duration_ms": 302840,
+      "name": "Kids",
+      "url": "https://open.spotify.com/track/1jJci4qxiYcOHhQR247rEU"
     },
     {
       "added_at": "2022-01-10 20:54:40",
@@ -1019,22 +1019,6 @@
     {
       "added_at": "2022-01-10 20:54:40",
       "album": {
-        "name": "Gossip In The Grain",
-        "url": "https://open.spotify.com/album/2CbLBSlkvh2vR4JRLDRQso"
-      },
-      "artists": [
-        {
-          "name": "Ray LaMontagne",
-          "url": "https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj"
-        }
-      ],
-      "duration_ms": 231840,
-      "name": "You Are the Best Thing",
-      "url": "https://open.spotify.com/track/1jyddn36UN4tVsJGtaJfem"
-    },
-    {
-      "added_at": "2022-01-10 20:54:40",
-      "album": {
         "name": "Robbers & Cowards",
         "url": "https://open.spotify.com/album/1LTbo93CjLo48yNP8Ysaz5"
       },
@@ -1047,6 +1031,22 @@
       "duration_ms": 218786,
       "name": "Hang Me Up To Dry",
       "url": "https://open.spotify.com/track/3IXRdLsQib8m0hBbQpe7T8"
+    },
+    {
+      "added_at": "2022-01-10 20:54:40",
+      "album": {
+        "name": "Gossip In The Grain",
+        "url": "https://open.spotify.com/album/2CbLBSlkvh2vR4JRLDRQso"
+      },
+      "artists": [
+        {
+          "name": "Ray LaMontagne",
+          "url": "https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj"
+        }
+      ],
+      "duration_ms": 231840,
+      "name": "You Are the Best Thing",
+      "url": "https://open.spotify.com/track/1jyddn36UN4tVsJGtaJfem"
     },
     {
       "added_at": "2022-01-10 20:54:40",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2LJXoyg2yd7.md) - [plain]
 
 > The sweet sounds of Yemen.
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,239 likes - 40 songs - 3 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,274 likes - 40 songs - 3 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,8 +21,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2LJXoyg2yd7.md) - [plain]
 | 11 | [حبيبي ظلمني](https://open.spotify.com/track/2z9zAeVlLl81e9pkRC0lkN) | [Yahya Rassam](https://open.spotify.com/artist/5i5MhtJPyyrHIAqT97DTPd) | [ليالي الانس, Vol\. 2](https://open.spotify.com/album/0FxgMbi7dnrzIsZtdu2Yzq) | 6:01 |
 | 12 | [يا بنات اليمن](https://open.spotify.com/track/0RGaeMrWP2ounpiQwEMXdf) | [Khaled Al Dhabry](https://open.spotify.com/artist/3KuRxM5CLQd8eX6YAJhSwM) | [زفة 2002](https://open.spotify.com/album/3l80ii05quIHR1eINTKMZu) | 4:05 |
 | 13 | [Galow Ashyaa](https://open.spotify.com/track/65ZfHeY07AKmkSN1KzRZEW) | [Balqees](https://open.spotify.com/artist/6arfS6PinvWKGyMd1AqgFI) | [Galow Ashyaa](https://open.spotify.com/album/7Ca717RPn43npVbckSmQ4e) | 3:00 |
-| 14 | [عاده صغير](https://open.spotify.com/track/6QJLJ7LhunlxbwkobbjJBx) | [Faysal Alawi](https://open.spotify.com/artist/4PRa5qwOK0FRxd0JnutD8x) | [يا بدر يا غصن](https://open.spotify.com/album/63qgOooIYqQ8bLuK4Xw4td) | 9:00 |
-| 15 | [توصل بالسلامة](https://open.spotify.com/track/05YEZjLYLzPCloIrcljfzy) | [Mohamed Moshajeal](https://open.spotify.com/artist/5SgPuHDX7bw9Ffdqqz2Wvd) | [عاشق القسوة](https://open.spotify.com/album/0rPa8e8OMdEzSYy33TRgGD) | 5:42 |
+| 14 | [توصل بالسلامة](https://open.spotify.com/track/05YEZjLYLzPCloIrcljfzy) | [Mohamed Moshajeal](https://open.spotify.com/artist/5SgPuHDX7bw9Ffdqqz2Wvd) | [عاشق القسوة](https://open.spotify.com/album/0rPa8e8OMdEzSYy33TRgGD) | 5:42 |
+| 15 | [عاده صغير](https://open.spotify.com/track/6QJLJ7LhunlxbwkobbjJBx) | [Faysal Alawi](https://open.spotify.com/artist/4PRa5qwOK0FRxd0JnutD8x) | [يا بدر يا غصن](https://open.spotify.com/album/63qgOooIYqQ8bLuK4Xw4td) | 9:00 |
 | 16 | [ياورد ياكاذي](https://open.spotify.com/track/2Q7LfXzspve6Iza70Itbak) | [Fouad Al Kabsy](https://open.spotify.com/artist/6FSA4cbJcVlF2rDwEdNmYJ) | [حفلة نجران](https://open.spotify.com/album/0Q6xLBvxom21S1iQ44yWD7) | 9:42 |
 | 17 | [Sirr Hobbi](https://open.spotify.com/track/1wwznXiE8586TWHuSFk3GO) | [Abu Baker Salim](https://open.spotify.com/artist/4vbzGXyNwi5mMWvPqHDHib) | [Sirr Hobbi](https://open.spotify.com/album/3VntSLELrNgNlPiJbTnB0W) | 13:54 |
 | 18 | [Habibti](https://open.spotify.com/track/3ZK3sfXR0qal1vdu30AMcw) | [Fouad Abdulwahed](https://open.spotify.com/artist/22xlzInkcr2Suc3hx7YSyg) | [Habibti](https://open.spotify.com/album/6rWsWm2XEgvvZens32Bl2C) | 4:44 |
@@ -47,6 +47,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2LJXoyg2yd7.md) - [plain]
 | 37 | [يا جانيات العناقيد](https://open.spotify.com/track/3HIM2MSek0HBoMJU2HOnNQ) | [Yahya Rassam](https://open.spotify.com/artist/5i5MhtJPyyrHIAqT97DTPd) | [ليالي الانس, Vol\. 2](https://open.spotify.com/album/0FxgMbi7dnrzIsZtdu2Yzq) | 5:36 |
 | 38 | [احبة ربى صنعاء](https://open.spotify.com/track/4hdY4pbFcEMFA0mafgakFW) | [Fouad Al Kabsy](https://open.spotify.com/artist/6FSA4cbJcVlF2rDwEdNmYJ) | [احبة ربى صنعاء](https://open.spotify.com/album/5nuV7bTYDBlgTukJg2aVqf) | 12:15 |
 | 39 | [ياطير في عالي الغصون](https://open.spotify.com/track/7lft2qvHsmL1P06YcFLN7C) | [Sharaf Al Qaady](https://open.spotify.com/artist/1IdxbAEwj8rBjjtfxWUKLx) | [ليالي الانس, Vol\. 2](https://open.spotify.com/album/0FxgMbi7dnrzIsZtdu2Yzq) | 5:40 |
-| 40 | [Leman Ashkeeh](https://open.spotify.com/track/2PuOShmbN0ZeagodIh5fSf) | [Faisal Abdulkareem](https://open.spotify.com/artist/5jFvzkcrrV8TqpRo2sMRuK) | [Faisal Abdulkarim 2021](https://open.spotify.com/album/3UAlvuKYQZY7isdpIlh7iZ) | 4:50 |
+| 40 | [افا عليك](https://open.spotify.com/track/5BSLLQTgC8ZWPNNtQ38iK3) | [Ahmed Alwi](https://open.spotify.com/artist/4lvCiUpjys3gvBk1qpK6Z0) | [افا عليك](https://open.spotify.com/album/3OK7HxtdSD9GTB7e85I5bY) | 4:33 |
 
-Snapshot ID: `MCw1MTU1NDJkYzhlZWU5OWFiYjQ4ZGEwZjZkMzU0NTAxOWVkODQ0MWQ0`
+Snapshot ID: `MCxjM2UwYTIwNDZlZjBlMzZkNjc1MTIwY2QzMWFlNWE4YzE4MDk5NmNk`

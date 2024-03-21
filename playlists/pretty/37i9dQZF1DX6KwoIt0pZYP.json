@@ -1,12 +1,12 @@
 {
   "description": "soft, chewy & good for the soul. uwu",
-  "num_followers": 224630,
+  "num_followers": 224742,
   "original_name": "tapioca",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjNWFiOGYwMjAwYzNmMjFjYWM1MGFiY2FlMjk4N2Q4NWE2MTY3YmU3",
+  "snapshot_id": "MCw4NzlhNzliYzAzNmI4ZjFiNmE0YzI1ZjhiYTZiZjU3N2E4N2FlNGJk",
   "tracks": [
     {
       "added_at": "2024-03-08 05:01:00",
@@ -803,22 +803,6 @@
     {
       "added_at": "2024-03-08 05:01:00",
       "album": {
-        "name": "I DO",
-        "url": "https://open.spotify.com/album/62lN1efwf3MajWlzsSlYFN"
-      },
-      "artists": [
-        {
-          "name": "(G)I-DLE",
-          "url": "https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx"
-        }
-      ],
-      "duration_ms": 190113,
-      "name": "I DO",
-      "url": "https://open.spotify.com/track/6SePnvTZkIXZznc8Ftc6vM"
-    },
-    {
-      "added_at": "2024-03-08 05:01:00",
-      "album": {
         "name": "Oceans & Engines",
         "url": "https://open.spotify.com/album/2va673nk2JXgCxJeTiZdM9"
       },
@@ -831,6 +815,22 @@
       "duration_ms": 336000,
       "name": "Oceans & Engines",
       "url": "https://open.spotify.com/track/3vZk7OAUjMtVDNC852aNqi"
+    },
+    {
+      "added_at": "2024-03-08 05:01:00",
+      "album": {
+        "name": "I DO",
+        "url": "https://open.spotify.com/album/62lN1efwf3MajWlzsSlYFN"
+      },
+      "artists": [
+        {
+          "name": "(G)I-DLE",
+          "url": "https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx"
+        }
+      ],
+      "duration_ms": 190113,
+      "name": "I DO",
+      "url": "https://open.spotify.com/track/6SePnvTZkIXZznc8Ftc6vM"
     },
     {
       "added_at": "2024-03-08 05:01:00",
@@ -1051,22 +1051,6 @@
     {
       "added_at": "2024-03-08 05:01:00",
       "album": {
-        "name": "\u5341\u5149\u5e74\u7cbe\u9078\u8f2f",
-        "url": "https://open.spotify.com/album/36Z2YriYoWjRLZOiklzgSm"
-      },
-      "artists": [
-        {
-          "name": "Michael Wong",
-          "url": "https://open.spotify.com/artist/26SQFo2qNNGOxh2PUAsTeO"
-        }
-      ],
-      "duration_ms": 246000,
-      "name": "\u7ae5\u8a71",
-      "url": "https://open.spotify.com/track/6NCylXeJcHOI908PjZDFcg"
-    },
-    {
-      "added_at": "2024-03-08 05:01:00",
-      "album": {
         "name": "East Daygo Popstar",
         "url": "https://open.spotify.com/album/6rDWteiCSfMDHms9Rbx0Wi"
       },
@@ -1083,6 +1067,22 @@
       "duration_ms": 222315,
       "name": "Green Tea & Honey",
       "url": "https://open.spotify.com/track/25kxJg4ykcvM1wphY0yIwt"
+    },
+    {
+      "added_at": "2024-03-08 05:01:00",
+      "album": {
+        "name": "\u5341\u5149\u5e74\u7cbe\u9078\u8f2f",
+        "url": "https://open.spotify.com/album/36Z2YriYoWjRLZOiklzgSm"
+      },
+      "artists": [
+        {
+          "name": "Michael Wong",
+          "url": "https://open.spotify.com/artist/26SQFo2qNNGOxh2PUAsTeO"
+        }
+      ],
+      "duration_ms": 246000,
+      "name": "\u7ae5\u8a71",
+      "url": "https://open.spotify.com/track/6NCylXeJcHOI908PjZDFcg"
     },
     {
       "added_at": "2024-03-08 05:01:00",
@@ -1295,18 +1295,18 @@
     {
       "added_at": "2024-03-08 05:01:00",
       "album": {
-        "name": "Tragedy",
-        "url": "https://open.spotify.com/album/1M9ewERGU0rDrYdS1yz4RF"
+        "name": "Her Favorite Flowers",
+        "url": "https://open.spotify.com/album/3ZtwVDikRanGqN17IGpWgh"
       },
       "artists": [
         {
-          "name": "Dhruv",
-          "url": "https://open.spotify.com/artist/70NcAr4ZtA3FAqU16iQZSb"
+          "name": "Rocco",
+          "url": "https://open.spotify.com/artist/30gZlVVUt3gwNXlLorZjuq"
         }
       ],
-      "duration_ms": 229133,
-      "name": "Tragedy",
-      "url": "https://open.spotify.com/track/22RbBpcpvW5sZwnSyXesUh"
+      "duration_ms": 193242,
+      "name": "hold me, never let go",
+      "url": "https://open.spotify.com/track/6JfcUgZqHbb20KTfHayS9j"
     },
     {
       "added_at": "2024-03-08 05:01:00",
@@ -1331,18 +1331,18 @@
     {
       "added_at": "2024-03-08 05:01:00",
       "album": {
-        "name": "Her Favorite Flowers",
-        "url": "https://open.spotify.com/album/3ZtwVDikRanGqN17IGpWgh"
+        "name": "Tragedy",
+        "url": "https://open.spotify.com/album/1M9ewERGU0rDrYdS1yz4RF"
       },
       "artists": [
         {
-          "name": "Rocco",
-          "url": "https://open.spotify.com/artist/30gZlVVUt3gwNXlLorZjuq"
+          "name": "Dhruv",
+          "url": "https://open.spotify.com/artist/70NcAr4ZtA3FAqU16iQZSb"
         }
       ],
-      "duration_ms": 193242,
-      "name": "hold me, never let go",
-      "url": "https://open.spotify.com/track/6JfcUgZqHbb20KTfHayS9j"
+      "duration_ms": 229133,
+      "name": "Tragedy",
+      "url": "https://open.spotify.com/track/22RbBpcpvW5sZwnSyXesUh"
     },
     {
       "added_at": "2024-03-08 05:01:00",
@@ -1363,6 +1363,26 @@
       "duration_ms": 207013,
       "name": "Split",
       "url": "https://open.spotify.com/track/7AE1oyRpPGoSwDs8b9XBO0"
+    },
+    {
+      "added_at": "2024-03-08 05:01:00",
+      "album": {
+        "name": "your love",
+        "url": "https://open.spotify.com/album/0TX38oFZa6CT7XjyW9Jgqk"
+      },
+      "artists": [
+        {
+          "name": "brb.",
+          "url": "https://open.spotify.com/artist/2XBiI8PjCnjJ3XKWtiKcvc"
+        },
+        {
+          "name": "Jimmy Brown",
+          "url": "https://open.spotify.com/artist/5YPCpDIPOY4WqY9Bqdw4Uc"
+        }
+      ],
+      "duration_ms": 155923,
+      "name": "your love",
+      "url": "https://open.spotify.com/track/1BrB7PB1sOwaVZsrLaWInN"
     },
     {
       "added_at": "2024-03-08 05:01:00",
@@ -1391,22 +1411,18 @@
     {
       "added_at": "2024-03-08 05:01:00",
       "album": {
-        "name": "your love",
-        "url": "https://open.spotify.com/album/0TX38oFZa6CT7XjyW9Jgqk"
+        "name": "plum blossom",
+        "url": "https://open.spotify.com/album/1arxeGx8v0sv8wlwDeTMVe"
       },
       "artists": [
         {
-          "name": "brb.",
-          "url": "https://open.spotify.com/artist/2XBiI8PjCnjJ3XKWtiKcvc"
-        },
-        {
-          "name": "Jimmy Brown",
-          "url": "https://open.spotify.com/artist/5YPCpDIPOY4WqY9Bqdw4Uc"
+          "name": "mxmtoon",
+          "url": "https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1"
         }
       ],
-      "duration_ms": 155923,
-      "name": "your love",
-      "url": "https://open.spotify.com/track/1BrB7PB1sOwaVZsrLaWInN"
+      "duration_ms": 124853,
+      "name": "feelings are fatal",
+      "url": "https://open.spotify.com/track/09NibQcboHT4aqZbkvRa2w"
     },
     {
       "added_at": "2024-03-08 05:01:00",
@@ -1423,22 +1439,6 @@
       "duration_ms": 175674,
       "name": "superficial energy",
       "url": "https://open.spotify.com/track/2wmbk7U26XVNsS89UUffe5"
-    },
-    {
-      "added_at": "2024-03-08 05:01:00",
-      "album": {
-        "name": "plum blossom",
-        "url": "https://open.spotify.com/album/1arxeGx8v0sv8wlwDeTMVe"
-      },
-      "artists": [
-        {
-          "name": "mxmtoon",
-          "url": "https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1"
-        }
-      ],
-      "duration_ms": 124853,
-      "name": "feelings are fatal",
-      "url": "https://open.spotify.com/track/09NibQcboHT4aqZbkvRa2w"
     },
     {
       "added_at": "2024-03-08 05:01:00",
@@ -1683,22 +1683,22 @@
     {
       "added_at": "2024-03-08 05:01:00",
       "album": {
-        "name": "Turn Back Time",
-        "url": "https://open.spotify.com/album/7DPwQrbr0nxNZEzdJbXouI"
+        "name": "No One",
+        "url": "https://open.spotify.com/album/2h2DQrNPw1aDsuy8xO1GZY"
       },
       "artists": [
         {
-          "name": "Zack Tabudlo",
-          "url": "https://open.spotify.com/artist/67IN4cLJ7798gUapyZlmac"
+          "name": "brb.",
+          "url": "https://open.spotify.com/artist/2XBiI8PjCnjJ3XKWtiKcvc"
         },
         {
-          "name": "Violette Wautier",
-          "url": "https://open.spotify.com/artist/0XkEUMM4lJHAzfTK9vR0cu"
+          "name": "HYBS",
+          "url": "https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI"
         }
       ],
-      "duration_ms": 220781,
-      "name": "Turn Back Time",
-      "url": "https://open.spotify.com/track/48k3HCHPnUuKLok43GUC41"
+      "duration_ms": 157333,
+      "name": "No One",
+      "url": "https://open.spotify.com/track/0qbZA3IPjeb8lBZ4SZtEHd"
     }
   ],
   "unique_name": "tapioca",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXafoakAmk88b.md) - [plain]
 
 > New indie driving the current\. Cover: hemlocke springs
 
-[Spotify](https://open.spotify.com/user/spotify) - 44,155 likes - 50 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 44,174 likes - 50 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,19 +31,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXafoakAmk88b.md) - [plain]
 | 21 | [No More Lies](https://open.spotify.com/track/62tGzw9OJOwDcjPBnMPCuj) | [Thundercat](https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw), [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [No More Lies](https://open.spotify.com/album/2M0NVS1dhyis57BJp7REZt) | 5:27 |
 | 22 | [girlfriend](https://open.spotify.com/track/7qkNf6D661jZI9yNqw27LA) | [hemlocke springs](https://open.spotify.com/artist/52PdgUJOjvS6Mpmjy1SAlx) | [going...going...GONE!](https://open.spotify.com/album/6hnlO74dZkXLCk8dQNjLjf) | 2:13 |
 | 23 | [HEAVEN TO ME](https://open.spotify.com/track/4Z1ZlABSKDlVByJL3y5OVs) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [CALL ME IF YOU GET LOST: The Estate Sale](https://open.spotify.com/album/1GG6U2SSJPHO6XsFiBzxYv) | 3:50 |
-| 24 | [Capable of love](https://open.spotify.com/track/52qxHBgcQGVV2JrMwPhYJl) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [Heaven knows](https://open.spotify.com/album/2pOEFqvfxp5uUQ8vQEmVA0) | 3:43 |
+| 24 | [Dive](https://open.spotify.com/track/39X2xdmnX3UAWNmyhKdVtc) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [Dive](https://open.spotify.com/album/3R7QQAIWQNYV5I2GViJqee) | 3:20 |
 | 25 | [Obsessed With Your Mind](https://open.spotify.com/track/6jZHeTl4JfyOaJZtc8i37k) | [Love Spells](https://open.spotify.com/artist/5iiqhuffUTPEOjAUDj19IW) | [Obsessed With Your Mind](https://open.spotify.com/album/2SKWZrwD8DeJHpU4kpFC3U) | 3:08 |
 | 26 | [Don't Forget About Me](https://open.spotify.com/track/05vvPTidbjvDySLc9o65YS) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Petals to Thorns](https://open.spotify.com/album/3rrrTOHiXGzuW4FP7t0O1A) | 2:29 |
-| 27 | [Dive](https://open.spotify.com/track/39X2xdmnX3UAWNmyhKdVtc) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [Dive](https://open.spotify.com/album/3R7QQAIWQNYV5I2GViJqee) | 3:20 |
+| 27 | [Capable of love](https://open.spotify.com/track/52qxHBgcQGVV2JrMwPhYJl) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [Heaven knows](https://open.spotify.com/album/2pOEFqvfxp5uUQ8vQEmVA0) | 3:43 |
 | 28 | [the ride\-](https://open.spotify.com/track/04HeNxRRVjcwctfp2K2kMu) | [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [Let’s Start Here.](https://open.spotify.com/album/6Per97deaWqrJlKQNX8RGK) | 3:10 |
 | 29 | [Future Lover](https://open.spotify.com/track/3kedYiw0PflZpyQcDzBLKK) | [Thee Sacred Souls](https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU) | [Thee Sacred Souls](https://open.spotify.com/album/6ofJrAZaaX0iWTXYXObUxE) | 3:31 |
 | 30 | [Mind & Body](https://open.spotify.com/track/3yyFIipRUtykOqYDMquF2p) | [Tolü Makay](https://open.spotify.com/artist/337qYJNRgFq2iddKtqiHDG) | [Mind & Body](https://open.spotify.com/album/2KnyrLukBJW5j3O1fuPrTY) | 2:56 |
 | 31 | [Jodie](https://open.spotify.com/track/1w52s8ZgbSHjwjoZ1zQMET) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Ctrl \(Deluxe\)](https://open.spotify.com/album/6FKP2O0oOvZlDkF0gyTjiJ) | 2:45 |
-| 32 | [Mosquito](https://open.spotify.com/track/0LzidBf7cUsnZnG34OUPSF) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [Mosquito](https://open.spotify.com/album/4D4XpwlWhUNp8dOdYmuNIB) | 2:26 |
-| 33 | [Come Over And Love Me](https://open.spotify.com/track/6MvuLjhCLJYqeV2pgZb5Mo) | [Love Spells](https://open.spotify.com/artist/5iiqhuffUTPEOjAUDj19IW) | [Come Over And Love Me](https://open.spotify.com/album/7ippU8a375W82GKPSTk0nM) | 2:41 |
-| 34 | [Desire](https://open.spotify.com/track/3ocGQh1erdD9zAfijHMQZu) | [Cleo Sol](https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq) | [Gold](https://open.spotify.com/album/67DWn1tZ245gendegv7Ioz) | 4:53 |
+| 32 | [Come Over And Love Me](https://open.spotify.com/track/6MvuLjhCLJYqeV2pgZb5Mo) | [Love Spells](https://open.spotify.com/artist/5iiqhuffUTPEOjAUDj19IW) | [Come Over And Love Me](https://open.spotify.com/album/7ippU8a375W82GKPSTk0nM) | 2:41 |
+| 33 | [Desire](https://open.spotify.com/track/3ocGQh1erdD9zAfijHMQZu) | [Cleo Sol](https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq) | [Gold](https://open.spotify.com/album/67DWn1tZ245gendegv7Ioz) | 4:53 |
+| 34 | [i just want to hide my face](https://open.spotify.com/track/6QCuFjMavSAlJBsmxMuHzs) | [EKKSTACY](https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH) | [misery](https://open.spotify.com/album/6yV72GH0QevmcUDNrRmaNd) | 2:12 |
 | 35 | [backseat](https://open.spotify.com/track/68CijBYyD89CISS4vDLAaq) | [WESLEE](https://open.spotify.com/artist/2sfC2KuIzmNQEtVordUuqq) | [backseat](https://open.spotify.com/album/3IOA0OXQ2kkFWT3HKF016w) | 2:54 |
-| 36 | [i just want to hide my face](https://open.spotify.com/track/6QCuFjMavSAlJBsmxMuHzs) | [EKKSTACY](https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH) | [misery](https://open.spotify.com/album/6yV72GH0QevmcUDNrRmaNd) | 2:12 |
+| 36 | [Mosquito](https://open.spotify.com/track/0LzidBf7cUsnZnG34OUPSF) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [Mosquito](https://open.spotify.com/album/4D4XpwlWhUNp8dOdYmuNIB) | 2:26 |
 | 37 | [A Little Love](https://open.spotify.com/track/5k6L1lOs0AANCee7nYW2au) | [Julia Pratt](https://open.spotify.com/artist/0F9yMp30FUREoa635VLsY8), [Mt\. Joy](https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI) | [A Little Love](https://open.spotify.com/album/6E1vE4WcIXDDNOPW4jPYff) | 3:21 |
 | 38 | [Is It Magic?](https://open.spotify.com/track/4mRX0FjuzicwZWbkRAE0Ht) | [PawPaw Rod](https://open.spotify.com/artist/23KIrX6iPiVOkx60F4bjNq) | [Is It Magic?](https://open.spotify.com/album/52tH77HLGn8Dq3zjXQn20e) | 3:08 |
 | 39 | [Angel](https://open.spotify.com/track/4pGxnHLyli1TLkRFHyBxo0) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI) | [NO THANK YOU](https://open.spotify.com/album/57263zG8Md6XZ9lBUPPYCm) | 5:52 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXafoakAmk88b.md) - [plain]
 | 49 | [Basquiat](https://open.spotify.com/track/1KeXz6D76LhEaBhYR9n5vI) | [Black Hibiscus](https://open.spotify.com/artist/6LPW0r5I57Z5itdpQJbHgN) | [The End of the World](https://open.spotify.com/album/1IhJclrz77F5stIY0oMh7i) | 3:55 |
 | 50 | [no way out](https://open.spotify.com/track/2jPbjvYVWWzQNkMLKP30nX) | [ivri](https://open.spotify.com/artist/5EjK7aUvQ9LMNqc2zXiWLS) | [no way out](https://open.spotify.com/album/6jSwImVIktHykGxGWURFWP) | 1:53 |
 
-Snapshot ID: `MCw4NGNiZDhmYzlhZThlZjM1ZjlkOWEzNjUyM2RmYjMwMzBiY2Q2MWM3`
+Snapshot ID: `MCxmOGE4NzEzYTUwN2QyY2I4YWQyMzIwY2RkNzY2MWE0YWY4MzQwMGJl`

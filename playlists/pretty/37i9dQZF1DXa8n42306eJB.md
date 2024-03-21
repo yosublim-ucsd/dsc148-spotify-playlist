@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa8n42306eJB.md) - [plain]
 
 > Good vibes for good times!
 
-[Spotify](https://open.spotify.com/user/spotify) - 291,106 likes - 81 songs - 4 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 291,177 likes - 81 songs - 4 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa8n42306eJB.md) - [plain]
 | 17 | [Killing It Off](https://open.spotify.com/track/3y00AWgTQV4VOR130fHnpi) | [COTERIE](https://open.spotify.com/artist/0152lAerTxFtfqXBnJi8TY) | [Killing It Off](https://open.spotify.com/album/1ctFVQRVfSdmXqni7wGgzr) | 2:49 |
 | 18 | [Casanova](https://open.spotify.com/track/4lJLnVBDuYMj6Knll4Wcnc) | [L.A.B.](https://open.spotify.com/artist/3eAOH2az3fQIfX2UAw0FfC) | [Casanova](https://open.spotify.com/album/0XFw2p6US2uootA3nofB65) | 3:38 |
 | 19 | [We Smoke](https://open.spotify.com/track/7ypcbwvatoanQoXHLWXmaZ) | [Bodega Collective](https://open.spotify.com/artist/1kgMO1lOMZtHhRd7oOdHAW), [Big Skeez](https://open.spotify.com/artist/0N4XZEiYb7RIeIN0lsmVMu), [Elijah Yo](https://open.spotify.com/artist/4QdSwI8nLBjrN7344lBCbL), [RenzoMck.](https://open.spotify.com/artist/7h6GkKpa1H12PiOQ6RiRh4), [Gold Fang](https://open.spotify.com/artist/1e8lOc1h26CVBSGh3iiW7M) | [We Smoke](https://open.spotify.com/album/2Za3qO1esJmOgd77kqakkz) | 3:01 |
-| 20 | [Soldiers of Fire](https://open.spotify.com/track/5nF92ePaTss9lGEzZhhiYb) | [Tiki Taane](https://open.spotify.com/artist/31ACkQCBFwLQGxN8MwfSrO), [Tali](https://open.spotify.com/artist/2IzewUY71zuiCmfPZWahxv), [Pdigsss](https://open.spotify.com/artist/596zbRjlzKiJ71goKlAJ01), [Dub FX](https://open.spotify.com/artist/4ucW1LE5T7y7X4jlaKCeVo) | [Soldiers of Fire](https://open.spotify.com/album/2XoWy9j7qBcw9SwLDsHAEd) | 4:45 |
+| 20 | [Soldiers of Fire](https://open.spotify.com/track/7lkmiT9V30w6O5AjrmqyFA) | [Tiki Taane](https://open.spotify.com/artist/31ACkQCBFwLQGxN8MwfSrO), [Tali](https://open.spotify.com/artist/2IzewUY71zuiCmfPZWahxv), [Pdigsss](https://open.spotify.com/artist/596zbRjlzKiJ71goKlAJ01), [Dub FX](https://open.spotify.com/artist/4ucW1LE5T7y7X4jlaKCeVo) | [Soldiers of Fire](https://open.spotify.com/album/2RQkTKEuDT0IAAr7QIXtf3) | 4:45 |
 | 21 | [Hello](https://open.spotify.com/track/3cmdQZ2yzUjtKTedabLjqu) | [Kes](https://open.spotify.com/artist/7E6r9S8qCRfZVCjF1A8do6) | [Folklore Riddim](https://open.spotify.com/album/48nubh7FCkPvIG8DqHdLbm) | 3:18 |
 | 22 | [Dance My Stress Away \(with Stephen Marley\)](https://open.spotify.com/track/4YzBQfeZtXKEQABl61rT6f) | [Demarco](https://open.spotify.com/artist/0af5VM6xubf8EXKvoG35x6), [Stephen Marley](https://open.spotify.com/artist/0CIwCGmQMqHqiblnZlFia1) | [Dance My Stress Away \(with Stephen Marley\)](https://open.spotify.com/album/4qAB2fZm1df7LhxPIiXAmW) | 3:34 |
 | 23 | [Circus Slave](https://open.spotify.com/track/3nGPtleu2jIeCG0mxv2pRT) | [Kolohe Kai](https://open.spotify.com/artist/3Je8tRazTtqZxGkbeJDGL8) | [Hazel Eyes](https://open.spotify.com/album/5UW0VIeQ1cgfXJxGqddBm1) | 3:24 |
@@ -90,4 +90,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa8n42306eJB.md) - [plain]
 | 80 | [If I Ever \(feat\. J Boog\)](https://open.spotify.com/track/24QYLOpc7vYphfSk89ZEeg) | [Jah Maoli](https://open.spotify.com/artist/1xr92u8uPinpRXsjZbgGKw) | [If I Ever \(feat\. J Boog\) \- Single](https://open.spotify.com/album/5i8MnTWpHcGZdO6F775dWE) | 4:42 |
 | 81 | [Rhythm in My Soul](https://open.spotify.com/track/3SUJqKZHP8ftlPoJ7CGgB9) | [Unity Pacific](https://open.spotify.com/artist/0e0rH9Exdpkq3d7ZSi9VN5) | [Into the Dread](https://open.spotify.com/album/7IycDxmkUxSa56lV6Czm9n) | 6:16 |
 
-Snapshot ID: `MCwyNTA5YjQwYzk1MDU2M2JiYmY5YjA0YmU2ZmJiNjQ5MGZhOTA0MGNk`
+Snapshot ID: `MCxlZDUxYWQzMDgzNzcwZDQwMWQ2OThlNjc5OTAzZmY1ZTg4NTZhZmM1`

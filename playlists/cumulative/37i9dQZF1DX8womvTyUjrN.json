@@ -146,7 +146,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-21",
       "duration_ms": 203149,
       "name": "26 - ni tarde ni temprano",
       "url": "https://open.spotify.com/track/6ClF0j9hpvx0PcNBbiUZT9"
@@ -400,6 +400,24 @@
       "duration_ms": 213434,
       "name": "Agua Salada",
       "url": "https://open.spotify.com/track/22QO6gby3fhNRkNVAFxp5v"
+    },
+    {
+      "album": {
+        "name": "aguardiente",
+        "url": "https://open.spotify.com/album/3TIihrZYBfGRrfsEcGz6Ch"
+      },
+      "artists": [
+        {
+          "name": "Miranda del Sol",
+          "url": "https://open.spotify.com/artist/45PFKsor6a9cExACotnBs7"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171279,
+      "name": "aguardiente",
+      "url": "https://open.spotify.com/track/45Es57L177QwhVZ06hwvCd"
     },
     {
       "album": {
@@ -954,7 +972,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-21",
       "duration_ms": 211844,
       "name": "Argumentos",
       "url": "https://open.spotify.com/track/3oyze75R0o1QvMJMdVK2K9"
@@ -9876,6 +9894,24 @@
       "duration_ms": 189600,
       "name": "Sobrenatural",
       "url": "https://open.spotify.com/track/3Y1qpzuVijchoFsnsoXEah"
+    },
+    {
+      "album": {
+        "name": "SOLA",
+        "url": "https://open.spotify.com/album/4jM7PAcZUqdVhRoke8bF1N"
+      },
+      "artists": [
+        {
+          "name": "Chita",
+          "url": "https://open.spotify.com/artist/7ejyCwT1b7MIwHVCVO8HjX"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191818,
+      "name": "Sola",
+      "url": "https://open.spotify.com/track/7y5ZyLfcBa5oYhP8jZwUcz"
     },
     {
       "album": {

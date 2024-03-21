@@ -1856,10 +1856,28 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-21",
       "duration_ms": 326229,
       "name": "Kwetu",
       "url": "https://open.spotify.com/track/6Veo9O8iD7ewhA5ZzB3fRh"
+    },
+    {
+      "album": {
+        "name": "Kwetu",
+        "url": "https://open.spotify.com/album/1cfKpuS4Nb9aGIa99MxRf0"
+      },
+      "artists": [
+        {
+          "name": "Aaron Rimbui | Ayanda Sikade | Herbie Tsoaeli",
+          "url": "https://open.spotify.com/artist/1MyMTjHltmrJ1A4Z79vpSo"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 326229,
+      "name": "Kwetu",
+      "url": "https://open.spotify.com/track/6ydtxqMaxXbLlBUVvlDuRU"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe4qmDjDW0Ug.md) - [plain]
 
 > 국내를 강타 했던 R&B곡들을 만나보세요.
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,474 likes - 50 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,477 likes - 50 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,16 +22,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe4qmDjDW0Ug.md) - [plain]
 | 12 | [NO ONE](https://open.spotify.com/track/0iQ7Nc2YhlyGHeUi4R8Gl6) | [LeeHi](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu), [B.I](https://open.spotify.com/artist/0UntV1Bw2hk3fbRrm9eMP6) | [24℃](https://open.spotify.com/album/5u9CP1NknadV33hZepVEy5) | 3:14 |
 | 13 | [Eat](https://open.spotify.com/track/09Nhl3YQnChjlq8WmJz7FS) | [Zion.T](https://open.spotify.com/artist/5HenzRvMtSrgtvU16XAoby) | [Eat](https://open.spotify.com/album/4xI4eqUbq72Dk1slHQePQW) | 2:41 |
 | 14 | [Across the universe](https://open.spotify.com/track/1GKBErugdKLIwdqgNj9Kqt) | [Yerin Baek](https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK) | [FRANK](https://open.spotify.com/album/4WJWO1utzgRjxEveXGIVXN) | 4:07 |
-| 15 | [Oasis](https://open.spotify.com/track/0L26wNt3MUtn7BrTaHGtjj) | [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g), [ZICO](https://open.spotify.com/artist/4XpUIb8uuNlIWVKmgKZXC0) | [Oasis](https://open.spotify.com/album/70lpefg9cR9CQjbFfzNx8g) | 3:11 |
+| 15 | [I Want To Fall In Love](https://open.spotify.com/track/4IJC6m6PvRZeNoQG50rV1G) | [Johan Kim](https://open.spotify.com/artist/7kqUt0kZIfski1GVmbwjG3) | [I Want To Fall In Love](https://open.spotify.com/album/0bfMhqJWUeRJ0FJeQL78AV) | 3:52 |
 | 16 | [링가링가 \(RINGA LINGA\)](https://open.spotify.com/track/7fLijBP4BGujlmHRP3aX32) | [TAEYANG](https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV) | [RISE](https://open.spotify.com/album/1Y9so4jq4t4taAHu0VdKX3) | 3:47 |
-| 17 | [I Want To Fall In Love](https://open.spotify.com/track/4IJC6m6PvRZeNoQG50rV1G) | [Johan Kim](https://open.spotify.com/artist/7kqUt0kZIfski1GVmbwjG3) | [I Want To Fall In Love](https://open.spotify.com/album/0bfMhqJWUeRJ0FJeQL78AV) | 3:52 |
+| 17 | [SOFA](https://open.spotify.com/track/3dbyyPqdnNZkvPr7PptIRJ) | [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g) | [SOFA](https://open.spotify.com/album/7krvtQD2rv7PGdRaLLPW3P) | 3:49 |
 | 18 | [JOAH \- Re\-Mastered](https://open.spotify.com/track/32f0F3bMCTsUnorBsr9Jj8) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [EVOLUTION](https://open.spotify.com/album/5ikIgNGFVc8nwQ8Xzsg1p4) | 3:50 |
 | 19 | [Yanghwa BRDG](https://open.spotify.com/track/7saJl9V0kRYGWuyeURHYNU) | [Zion.T](https://open.spotify.com/artist/5HenzRvMtSrgtvU16XAoby) | [Yanghwa BRDG](https://open.spotify.com/album/3g3lXFXBEo6u3xbfzYNcd4) | 3:49 |
 | 20 | [Living in the same time](https://open.spotify.com/track/1IUqkIRRxO0CQSoEr6CLW2) | [Naul](https://open.spotify.com/artist/22oiFjlZPKJ1XphV2et1u1) | [BROWN EYED SOUL Single Project 1st\. Living in the same time by Naul](https://open.spotify.com/album/7cFmhAzCqsNyfsuS4B2TlC) | 4:10 |
 | 21 | [Maybe It’s Not Our Fault](https://open.spotify.com/track/5fuOfU241WSA328TgwsFgj) | [Yerin Baek](https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK) | [Our Love is Great](https://open.spotify.com/album/5pkSoMZZUsVf0R8Rh68xy3) | 3:53 |
 | 22 | [1, 2, 3, 4](https://open.spotify.com/track/1MMuD3VaVq7qqfvRgSrbRs) | [LeeHi](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu) | [1,2,3,4](https://open.spotify.com/album/6yYc7Ag6nVB3HVXzLjF9uz) | 3:34 |
 | 23 | [점점](https://open.spotify.com/track/0IwDO38DaBE7cMl4aLgybU) | [Brown Eyes](https://open.spotify.com/artist/6O7LgtO6NKOOOudzRayUfJ) | [Reason 4 breathing?](https://open.spotify.com/album/7yl1TSdq0B20VPe75Y8XAa) | 3:31 |
-| 24 | [SOFA](https://open.spotify.com/track/3dbyyPqdnNZkvPr7PptIRJ) | [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g) | [SOFA](https://open.spotify.com/album/7krvtQD2rv7PGdRaLLPW3P) | 3:49 |
+| 24 | [Oasis](https://open.spotify.com/track/0L26wNt3MUtn7BrTaHGtjj) | [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g), [ZICO](https://open.spotify.com/artist/4XpUIb8uuNlIWVKmgKZXC0) | [Oasis](https://open.spotify.com/album/70lpefg9cR9CQjbFfzNx8g) | 3:11 |
 | 25 | [Only Look At Me \(나만 바라봐\)](https://open.spotify.com/track/1xaLJbuJr6efSW8MFA7vTu) | [TAEYANG](https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV) | [Solar International](https://open.spotify.com/album/42BVvYE1FLO8mQH0ZJn4de) | 4:00 |
 | 26 | [귀로](https://open.spotify.com/track/5B6ewNeXBcIDHqzsgAn6Dk) | [Naul](https://open.spotify.com/artist/22oiFjlZPKJ1XphV2et1u1) | [Back To The Soul Flight](https://open.spotify.com/album/26nzz1WN0qn4C3B6zcm93u) | 4:26 |
 | 27 | [그런일은](https://open.spotify.com/track/4VH257CEikqfvmN6TbBFYZ) | [Park Hwayobi](https://open.spotify.com/artist/5oihNt5Zntgh1XIsDqOGq5) | [Across The Romantic Bridge](https://open.spotify.com/album/7MWteKJKnqnYyht3hRa267) | 4:24 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe4qmDjDW0Ug.md) - [plain]
 | 49 | [Sorry](https://open.spotify.com/track/1JMByXHGoGaBVSaMGyNN9w) | [Lena Park](https://open.spotify.com/artist/7MNyflLAWpaH0EPw1fdORD) | [Parallax](https://open.spotify.com/album/3SkW52Wt3omQQexWElTNeR) | 3:41 |
 | 50 | [당신과의 키스를 세어보아요](https://open.spotify.com/track/0viqY0AIdDs4N8KxU4wDs2) | [Park Hwayobi](https://open.spotify.com/artist/5oihNt5Zntgh1XIsDqOGq5) | [Soul Saver](https://open.spotify.com/album/6V7Zn81u8khI9AuIOPl6Ea) | 4:51 |
 
-Snapshot ID: `MCw4NWJiZGJmNGQ0NTA5OTg5ZWJkZmViYjVmNzQ3OTdkNmI1ZDg1MjMy`
+Snapshot ID: `MCw5M2RkODJlMmNjYTQ5YTNjMDI2ZTg2NDExN2FkZmFiNzQ5MDc1MWZi`

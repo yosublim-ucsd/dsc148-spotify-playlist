@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4w7ghxoWOTa.md) - [plain]
 
 > アニソン界を代表する作詞家として、様々な作品のファンを魅了してきた畑 亜貴。多彩な作風でシンガーソングライター、作曲家、プロデュースチーム「Q\-MHz」メンバーとしても活躍中。
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,625 likes - 51 songs - 3 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,630 likes - 51 songs - 3 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4w7ghxoWOTa.md) - [plain]
 | 10 | [冒険でしょでしょ?](https://open.spotify.com/track/5yolws5GuK8GemMTTeSsxh) | [Aya Hirano](https://open.spotify.com/artist/3i2cfgYBlN8krGOtCqEYHj) | [冒険でしょでしょ?](https://open.spotify.com/album/1VX60De1ZNF0osyP5FpeXU) | 4:18 |
 | 11 | [God knows...](https://open.spotify.com/track/71ccYxWvQJ66ebPUZScJzn) | [涼宮ハルヒ \(CV.平野 綾\)](https://open.spotify.com/artist/4eWMhmDkvSkgeHo0D2RT31) | [涼宮ハルヒの完奏〜コンプリートサウンドトラック〜](https://open.spotify.com/album/5Th1Ca5zP4rocYmRCY59NI) | 4:38 |
 | 12 | [正解はひとつ!じゃない!!](https://open.spotify.com/track/3slLs4vWwt1aWW8PkFdSmO) | [ミルキィホームズ](https://open.spotify.com/artist/4XgSkyo3tmEoKYYBzFhyQu) | [正解はひとつ!じゃない!!](https://open.spotify.com/album/76bsRzjKBt66xEgseoXb64) | 4:02 |
-| 13 | [花ハ踊レヤいろはにほ](https://open.spotify.com/track/7DGlPJwVQY3INApfDS0l8P) | [チーム“ハナヤマタ”](https://open.spotify.com/artist/099PpAOXjE1xbE6gN7214P) | [花ハ踊レヤいろはにほ](https://open.spotify.com/album/6KqK4ORYe2KvTXbIoTlvoj) | 4:10 |
+| 13 | [花ハ踊レヤいろはにほ](https://open.spotify.com/track/7lomNHXn5m9Itev2GfXSxH) | [チーム“ハナヤマタ”](https://open.spotify.com/artist/099PpAOXjE1xbE6gN7214P) | [ハナヤマタ音楽集『華鳴音女』](https://open.spotify.com/album/4VF09Omqjlm4PNE1oPDcAH) | 4:08 |
 | 14 | [僕たちはひとつの光](https://open.spotify.com/track/005NUwN5Mnre7uZ0KkQCaG) | [μ's](https://open.spotify.com/artist/2hYjPkmTry3LYVVSymws5i) | [僕たちはひとつの光/Future style](https://open.spotify.com/album/1MYEucgIhngkOi11Mj6yV1) | 4:55 |
 | 15 | [僕らのLIVE 君とのLIFE](https://open.spotify.com/track/3N3jaGb18pYfFzpe1GZgfI) | [μ's](https://open.spotify.com/artist/2hYjPkmTry3LYVVSymws5i) | [僕らのLIVE 君とのLIFE](https://open.spotify.com/album/5Jm69hA6DIRSxKeBKUxPeH) | 5:23 |
 | 16 | [勇気はどこに?君の胸に!](https://open.spotify.com/track/2w5T8mOOsekn2uFtsHuK89) | [Aqours](https://open.spotify.com/artist/6zxQda06WxXX8GmCeYstwV) | [勇気はどこに?君の胸に!](https://open.spotify.com/album/0hN7zdvqkfWdnz0hPcOj9T) | 4:44 |
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4w7ghxoWOTa.md) - [plain]
 | 50 | [秘密の扉から会いにきて](https://open.spotify.com/track/6MDuCmSdP00j47oEavVBwR) | [Yukari Tamura](https://open.spotify.com/artist/7hb4cZrq9Myg7VEqI2z0hJ) | [秘密の扉から会いにきて](https://open.spotify.com/album/2NfnOSntG6tB7nuFbfDksB) | 3:36 |
 | 51 | [Eternal Tragedy](https://open.spotify.com/track/3pDJKWyX0dCRnbv1wktSqu) | [Aki Hata](https://open.spotify.com/artist/4OeurE1dYEfIjd2STbvMoC), [SHIROU\-TSUKIHIKO](https://open.spotify.com/artist/4n1KlS8mTIqsBCFImc5fvb) | [Eternal Tragedy](https://open.spotify.com/album/19OBmkcKc23HOAsFlFEXfP) | 5:33 |
 
-Snapshot ID: `MCxjN2U3ODRjYzYwYzFiYTFkZWJhYzJjMjRlMDJiZjgyMGIyNTk3Mzc2`
+Snapshot ID: `MCxlZGIxOTM1ZDVmODhjMzc3NWM0NDI2Mjk0NTEzYzcxYTA0ZmJjNjc4`

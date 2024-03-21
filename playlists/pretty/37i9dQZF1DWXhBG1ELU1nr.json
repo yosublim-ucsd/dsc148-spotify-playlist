@@ -1,12 +1,12 @@
 {
   "description": "Uma sele\u00e7\u00e3o de hits pra te acompanhar no home office.",
-  "num_followers": 232171,
+  "num_followers": 232197,
   "original_name": "Trabalhando de Casa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0YWUxNDE4YTlhZTgyNjUxMmE3ZDliZjY3N2RlNjllN2Q3NDA2ZWJj",
+  "snapshot_id": "MCxiMjZiNjkwN2ViY2YxMDY0YTU0ZWRjZDliMTJkYmQyNmUyNzA2NWE4",
   "tracks": [
     {
       "added_at": "2024-02-27 20:15:05",
@@ -315,18 +315,18 @@
     {
       "added_at": "2024-02-27 20:15:05",
       "album": {
-        "name": "The Rise and Fall of Ziggy Stardust and the Spiders from Mars (2012 Remaster)",
-        "url": "https://open.spotify.com/album/48D1hRORqJq52qsnUYZX56"
+        "name": "Audioslave",
+        "url": "https://open.spotify.com/album/78guAsers0klWl6RwzgDLd"
       },
       "artists": [
         {
-          "name": "David Bowie",
-          "url": "https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy"
+          "name": "Audioslave",
+          "url": "https://open.spotify.com/artist/2ziB7fzrXBoh1HUPS6sVFn"
         }
       ],
-      "duration_ms": 254293,
-      "name": "Starman - 2012 Remaster",
-      "url": "https://open.spotify.com/track/0pQskrTITgmCMyr85tb9qq"
+      "duration_ms": 293960,
+      "name": "Like a Stone",
+      "url": "https://open.spotify.com/track/3YuaBvuZqcwN3CEAyyoaei"
     },
     {
       "added_at": "2024-02-27 20:15:05",
@@ -347,18 +347,18 @@
     {
       "added_at": "2024-02-27 20:15:05",
       "album": {
-        "name": "Audioslave",
-        "url": "https://open.spotify.com/album/78guAsers0klWl6RwzgDLd"
+        "name": "The Rise and Fall of Ziggy Stardust and the Spiders from Mars (2012 Remaster)",
+        "url": "https://open.spotify.com/album/48D1hRORqJq52qsnUYZX56"
       },
       "artists": [
         {
-          "name": "Audioslave",
-          "url": "https://open.spotify.com/artist/2ziB7fzrXBoh1HUPS6sVFn"
+          "name": "David Bowie",
+          "url": "https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy"
         }
       ],
-      "duration_ms": 293960,
-      "name": "Like a Stone",
-      "url": "https://open.spotify.com/track/3YuaBvuZqcwN3CEAyyoaei"
+      "duration_ms": 254293,
+      "name": "Starman - 2012 Remaster",
+      "url": "https://open.spotify.com/track/0pQskrTITgmCMyr85tb9qq"
     },
     {
       "added_at": "2024-02-27 20:15:05",
@@ -1071,22 +1071,6 @@
     {
       "added_at": "2024-02-27 20:15:05",
       "album": {
-        "name": "Sheryl Crow",
-        "url": "https://open.spotify.com/album/3w7TTi80vZApF0rQE5DMYb"
-      },
-      "artists": [
-        {
-          "name": "Sheryl Crow",
-          "url": "https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD"
-        }
-      ],
-      "duration_ms": 323400,
-      "name": "If It Makes You Happy",
-      "url": "https://open.spotify.com/track/5XrfFo0JFOnWD9ZMNXGkQh"
-    },
-    {
-      "added_at": "2024-02-27 20:15:05",
-      "album": {
         "name": "Exagerado",
         "url": "https://open.spotify.com/album/6WvN5lJoLYNXc8HYLuxjeX"
       },
@@ -1099,6 +1083,22 @@
       "duration_ms": 151306,
       "name": "Codinome Beija-Flor",
       "url": "https://open.spotify.com/track/5yFI0Vs3x4EbeIDerT0ck1"
+    },
+    {
+      "added_at": "2024-02-27 20:15:05",
+      "album": {
+        "name": "Sheryl Crow",
+        "url": "https://open.spotify.com/album/3w7TTi80vZApF0rQE5DMYb"
+      },
+      "artists": [
+        {
+          "name": "Sheryl Crow",
+          "url": "https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD"
+        }
+      ],
+      "duration_ms": 323400,
+      "name": "If It Makes You Happy",
+      "url": "https://open.spotify.com/track/5XrfFo0JFOnWD9ZMNXGkQh"
     },
     {
       "added_at": "2024-02-27 20:15:05",
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2024-02-27 20:15:05",
       "album": {
-        "name": "Ray of Light",
-        "url": "https://open.spotify.com/album/6cuNyrSmRjBeekioLdLkvI"
-      },
-      "artists": [
-        {
-          "name": "Madonna",
-          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
-        }
-      ],
-      "duration_ms": 367333,
-      "name": "Frozen",
-      "url": "https://open.spotify.com/track/2II03llydk4YnkBBvoYB3B"
-    },
-    {
-      "added_at": "2024-02-27 20:15:05",
-      "album": {
         "name": "Rappa-Mundi",
         "url": "https://open.spotify.com/album/49Wb8WyRUtoyKKO01HkRzI"
       },
@@ -1147,6 +1131,22 @@
       "duration_ms": 263173,
       "name": "Vapor barato",
       "url": "https://open.spotify.com/track/2FHHmwpksVebKcquX3QMdF"
+    },
+    {
+      "added_at": "2024-02-27 20:15:05",
+      "album": {
+        "name": "Ray of Light",
+        "url": "https://open.spotify.com/album/6cuNyrSmRjBeekioLdLkvI"
+      },
+      "artists": [
+        {
+          "name": "Madonna",
+          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
+        }
+      ],
+      "duration_ms": 367333,
+      "name": "Frozen",
+      "url": "https://open.spotify.com/track/2II03llydk4YnkBBvoYB3B"
     },
     {
       "added_at": "2024-02-27 20:15:05",

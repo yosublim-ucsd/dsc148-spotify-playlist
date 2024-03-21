@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Ew6u9sRtTY.md) - [plain]
 
 > Remember these?
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,247,676 likes - 50 songs - 3 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,247,916 likes - 50 songs - 3 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,14 +16,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Ew6u9sRtTY.md) - [plain]
 | 6 | [What Is Love \- 7" Mix](https://open.spotify.com/track/2bNFbu5KHnK1qCl0iNQMfP) | [Haddaway](https://open.spotify.com/artist/0Suv0tRrNrUlRzAy8aXjma) | [The Album](https://open.spotify.com/album/36TbZt4tWOO8eSNcefOXp6) | 4:30 |
 | 7 | [Teenage Dirtbag](https://open.spotify.com/track/25FTMokYEbEWHEdss5JLZS) | [Wheatus](https://open.spotify.com/artist/4mYFgEjpQT4IKOrjOUKyXu) | [Wheatus](https://open.spotify.com/album/3xmKWmqJFoXS22tePO3mgd) | 4:01 |
 | 8 | [Young Folks](https://open.spotify.com/track/4dyx5SzxPPaD8xQIid5Wjj) | [Peter Bjorn and John](https://open.spotify.com/artist/6u11Qbko2N2hP4lTBYjX86) | [Writer's Block](https://open.spotify.com/album/5g4E06cxsFEMFE9hSekAt2) | 4:36 |
-| 9 | [Mambo No\. 5 \(a Little Bit of...\)](https://open.spotify.com/track/6x4tKaOzfNJpEJHySoiJcs) | [Lou Bega](https://open.spotify.com/artist/46lnlnlU0dXTDpoAUmH6Qx) | [A Little Bit of Mambo](https://open.spotify.com/album/13BmLGhVCLBn3XzKB8HIai) | 3:40 |
-| 10 | [Fight Song](https://open.spotify.com/track/37f4ITSlgPX81ad2EvmVQr) | [Rachel Platten](https://open.spotify.com/artist/3QLIkT4rD2FMusaqmkepbq) | [Wildfire](https://open.spotify.com/album/0mFDIOqypzHp6Xd0el1hoT) | 3:24 |
+| 9 | [Fight Song](https://open.spotify.com/track/37f4ITSlgPX81ad2EvmVQr) | [Rachel Platten](https://open.spotify.com/artist/3QLIkT4rD2FMusaqmkepbq) | [Wildfire](https://open.spotify.com/album/0mFDIOqypzHp6Xd0el1hoT) | 3:24 |
+| 10 | [Mambo No\. 5 \(a Little Bit of...\)](https://open.spotify.com/track/6x4tKaOzfNJpEJHySoiJcs) | [Lou Bega](https://open.spotify.com/artist/46lnlnlU0dXTDpoAUmH6Qx) | [A Little Bit of Mambo](https://open.spotify.com/album/13BmLGhVCLBn3XzKB8HIai) | 3:40 |
 | 11 | [Are You Gonna Be My Girl](https://open.spotify.com/track/305WCRhhS10XUcH6AEwZk6) | [Jet](https://open.spotify.com/artist/5ypxebeHEIXjMtJb17uJlI) | [Get Born](https://open.spotify.com/album/6NrLpQCPYrNS3kVWxDgIlg) | 3:33 |
 | 12 | [Somebody That I Used To Know](https://open.spotify.com/track/4wCmqSrbyCgxEXROQE6vtV) | [Gotye](https://open.spotify.com/artist/2AsusXITU8P25dlRNhcAbG), [Kimbra](https://open.spotify.com/artist/6hk7Yq1DU9QcCCrz9uc0Ti) | [Making Mirrors](https://open.spotify.com/album/1HjSyGjmLNjRAKgT9t1cna) | 4:04 |
 | 13 | [You Get What You Give](https://open.spotify.com/track/1Cwsd5xI8CajJz795oy4XF) | [New Radicals](https://open.spotify.com/artist/0Grjlu7ncIuCaSYvCs9fcd) | [Maybe You've Been Brainwashed Too](https://open.spotify.com/album/13btXEnBerpA1UjIVtsMAR) | 5:00 |
 | 14 | [Return of the Mack](https://open.spotify.com/track/3jDdpx9PMlfMBS5tOBHFm9) | [Mark Morrison](https://open.spotify.com/artist/6V3F8MZrOKdT9fU686ybE9) | [Return of the Mack](https://open.spotify.com/album/6plavTFCGXv5vpy0jZVtOV) | 3:33 |
-| 15 | [Perfect \(Exceeder\)](https://open.spotify.com/track/0whmIaItqkT8e5PVuPyhvT) | [Mason](https://open.spotify.com/artist/307erl4VjT1dZDMYpneZqd), [Princess Superstar](https://open.spotify.com/artist/7JQn9DfFTtsFTg2dFc75jM) | [Perfect \(Exceeder\)](https://open.spotify.com/album/2KvtNjXWp2eq4oSUvf882U) | 2:41 |
-| 16 | [Bad Day](https://open.spotify.com/track/0mUyMawtxj1CJ76kn9gIZK) | [Daniel Powter](https://open.spotify.com/artist/7xTcuBOIAAIGDOSvwYFPzk) | [Daniel Powter](https://open.spotify.com/album/4zhigAhPwqp43XVHBiVeQI) | 3:53 |
+| 15 | [Bad Day](https://open.spotify.com/track/0mUyMawtxj1CJ76kn9gIZK) | [Daniel Powter](https://open.spotify.com/artist/7xTcuBOIAAIGDOSvwYFPzk) | [Daniel Powter](https://open.spotify.com/album/4zhigAhPwqp43XVHBiVeQI) | 3:53 |
+| 16 | [Perfect \(Exceeder\)](https://open.spotify.com/track/0whmIaItqkT8e5PVuPyhvT) | [Mason](https://open.spotify.com/artist/307erl4VjT1dZDMYpneZqd), [Princess Superstar](https://open.spotify.com/artist/7JQn9DfFTtsFTg2dFc75jM) | [Perfect \(Exceeder\)](https://open.spotify.com/album/2KvtNjXWp2eq4oSUvf882U) | 2:41 |
 | 17 | [99 Luftballons](https://open.spotify.com/track/2IJftBfq7pJ43tfnOR0RB3) | [Nena](https://open.spotify.com/artist/6Tz0QRoe083BcOo2YbG9lV) | [Nena](https://open.spotify.com/album/4uHwcjASOWAKw4P4wveKRb) | 3:51 |
 | 18 | [Let Her Go](https://open.spotify.com/track/1KxwZYyzWNyZSRyErj2ojT) | [Passenger](https://open.spotify.com/artist/0gadJ2b9A4SKsB1RFkBb66) | [All The Little Lights](https://open.spotify.com/album/52ukyDfkPmF4X6EcSYVfVJ) | 4:12 |
 | 19 | [Jump Around \- 30 Years Remaster](https://open.spotify.com/track/7L93GESzq43UkKUt5FsOCq) | [House Of Pain](https://open.spotify.com/artist/0AuW7OCyKfFrsMbtHrYgIV) | [House of Pain \(Fine Malt Lyrics\) \[30 Years\] \[Deluxe Edition\]](https://open.spotify.com/album/1GYvmeraQXDxxSC9T3RDvM) | 3:38 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Ew6u9sRtTY.md) - [plain]
 | 49 | [Heartbeats](https://open.spotify.com/track/5YqpHuXpFjDVZ7tY1ClFll) | [José González](https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI) | [Veneer](https://open.spotify.com/album/2e0BYdQ7VJlzSNHafdmfrl) | 2:41 |
 | 50 | [Video Killed The Radio Star](https://open.spotify.com/track/6t1FIJlZWTQfIZhsGjaulM) | [The Buggles](https://open.spotify.com/artist/057gc1fxmJ2vkctjQJ7Tal) | [The Age Of Plastic](https://open.spotify.com/album/5KKpKvLOS4tCV7cSOwIOWF) | 4:13 |
 
-Snapshot ID: `MCxkMTlkYWQ0OWViNTQ3NTVjZDQ3ZWJlNjNjODEwZTBjNTRkYjdlODM5`
+Snapshot ID: `MCwyZTZlMzcwODMzNjBkMjdhZDcwMTRkZTg4OTkwZmE0YWVmNzdiMzc3`

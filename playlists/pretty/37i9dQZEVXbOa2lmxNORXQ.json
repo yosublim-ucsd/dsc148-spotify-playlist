@@ -1,15 +1,15 @@
 {
   "description": "Your daily update of the most played tracks right now - Colombia.",
-  "num_followers": 826819,
+  "num_followers": 826875,
   "original_name": "Top 50 - Colombia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "NzY0MjEyODAwLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
+  "snapshot_id": "NzY0Mjk5MjAwLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
   "tracks": [
     {
-      "added_at": "2024-03-19 16:34:20",
+      "added_at": "2024-03-20 10:03:42",
       "album": {
         "name": "FERXXOCALIPSIS",
         "url": "https://open.spotify.com/album/0lgs2Sa82lyX89nBUWyUy6"
@@ -29,27 +29,7 @@
       "url": "https://open.spotify.com/track/7bywjHOc0wSjGGbj04XbVi"
     },
     {
-      "added_at": "2024-03-19 16:34:20",
-      "album": {
-        "name": "SI SABE",
-        "url": "https://open.spotify.com/album/7ot6ebVthlYG3wXzLaZ5NF"
-      },
-      "artists": [
-        {
-          "name": "Blessd",
-          "url": "https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX"
-        },
-        {
-          "name": "Feid",
-          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
-        }
-      ],
-      "duration_ms": 152500,
-      "name": "SI SABE FERXXO",
-      "url": "https://open.spotify.com/track/7chTH3GBjjAyagf0SPCZDL"
-    },
-    {
-      "added_at": "2024-03-19 16:34:20",
+      "added_at": "2024-03-20 10:03:42",
       "album": {
         "name": "nadie sabe lo que va a pasar ma\u00f1ana",
         "url": "https://open.spotify.com/album/4FftCsAcXXD1nFO9RFUNFO"
@@ -69,7 +49,27 @@
       "url": "https://open.spotify.com/track/7iQXYTyuG13aoeHxGG28Nh"
     },
     {
-      "added_at": "2024-03-19 16:34:20",
+      "added_at": "2024-03-20 10:03:42",
+      "album": {
+        "name": "SI SABE",
+        "url": "https://open.spotify.com/album/7ot6ebVthlYG3wXzLaZ5NF"
+      },
+      "artists": [
+        {
+          "name": "Blessd",
+          "url": "https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX"
+        },
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        }
+      ],
+      "duration_ms": 152500,
+      "name": "SI SABE FERXXO",
+      "url": "https://open.spotify.com/track/7chTH3GBjjAyagf0SPCZDL"
+    },
+    {
+      "added_at": "2024-03-20 10:03:42",
       "album": {
         "name": "La Diabla",
         "url": "https://open.spotify.com/album/2IoSjweCu07y9mv5H1Cj3v"
@@ -85,27 +85,7 @@
       "url": "https://open.spotify.com/track/0R6NfOiLzLj4O5VbYSJAjf"
     },
     {
-      "added_at": "2024-03-19 16:34:20",
-      "album": {
-        "name": "FERXXOCALIPSIS",
-        "url": "https://open.spotify.com/album/0lgs2Sa82lyX89nBUWyUy6"
-      },
-      "artists": [
-        {
-          "name": "Feid",
-          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
-        },
-        {
-          "name": "Pirlo",
-          "url": "https://open.spotify.com/artist/7GQDI5Vmxs92RsIRZzYT11"
-        }
-      ],
-      "duration_ms": 172506,
-      "name": "CUAL ES ESA",
-      "url": "https://open.spotify.com/track/05sO6FK8E9l2cfwnEUTjHq"
-    },
-    {
-      "added_at": "2024-03-19 16:34:20",
+      "added_at": "2024-03-20 10:03:42",
       "album": {
         "name": "Don Juan",
         "url": "https://open.spotify.com/album/3Fk8yQvPlCHgwR2pNhEIRA"
@@ -125,7 +105,27 @@
       "url": "https://open.spotify.com/track/4bw8mcDUSRWfQo63ZTYRnU"
     },
     {
-      "added_at": "2024-03-19 16:34:20",
+      "added_at": "2024-03-20 10:03:42",
+      "album": {
+        "name": "FERXXOCALIPSIS",
+        "url": "https://open.spotify.com/album/0lgs2Sa82lyX89nBUWyUy6"
+      },
+      "artists": [
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        },
+        {
+          "name": "Pirlo",
+          "url": "https://open.spotify.com/artist/7GQDI5Vmxs92RsIRZzYT11"
+        }
+      ],
+      "duration_ms": 172506,
+      "name": "CUAL ES ESA",
+      "url": "https://open.spotify.com/track/05sO6FK8E9l2cfwnEUTjHq"
+    },
+    {
+      "added_at": "2024-03-20 10:03:42",
       "album": {
         "name": "MA\u00d1ANA SER\u00c1 BONITO (BICHOTA SEASON)",
         "url": "https://open.spotify.com/album/0FqAaUEyKCyUNFE1uQPZ7i"
@@ -145,23 +145,7 @@
       "url": "https://open.spotify.com/track/5RqSsdzTNPX1uzkmlHCFvK"
     },
     {
-      "added_at": "2024-03-19 16:34:20",
-      "album": {
-        "name": "LVEU: VIVE LA TUYA...NO LA MIA",
-        "url": "https://open.spotify.com/album/1ZVJTCW5rxpHKNgsNL91J2"
-      },
-      "artists": [
-        {
-          "name": "Myke Towers",
-          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
-        }
-      ],
-      "duration_ms": 174229,
-      "name": "LA FALDA",
-      "url": "https://open.spotify.com/track/7iUtQNMRB8ZkKC4AmEuCJC"
-    },
-    {
-      "added_at": "2024-03-19 16:34:20",
+      "added_at": "2024-03-20 10:03:42",
       "album": {
         "name": "MA\u00d1ANA SER\u00c1 BONITO",
         "url": "https://open.spotify.com/album/4kS7bSuU0Jm9LYMosFU2x5"
@@ -177,7 +161,79 @@
       "url": "https://open.spotify.com/track/505v13epFXodT9fVAJ6h8k"
     },
     {
-      "added_at": "2024-03-19 16:34:20",
+      "added_at": "2024-03-20 10:03:42",
+      "album": {
+        "name": "LVEU: VIVE LA TUYA...NO LA MIA",
+        "url": "https://open.spotify.com/album/1ZVJTCW5rxpHKNgsNL91J2"
+      },
+      "artists": [
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        }
+      ],
+      "duration_ms": 174229,
+      "name": "LA FALDA",
+      "url": "https://open.spotify.com/track/7iUtQNMRB8ZkKC4AmEuCJC"
+    },
+    {
+      "added_at": "2024-03-20 10:03:42",
+      "album": {
+        "name": "EMPELOTICA",
+        "url": "https://open.spotify.com/album/1Cf5ZIMxdIYC60Cz7Q4GZg"
+      },
+      "artists": [
+        {
+          "name": "Lenny Tav\u00e1rez",
+          "url": "https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd"
+        },
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        }
+      ],
+      "duration_ms": 190322,
+      "name": "EMPELOTICA",
+      "url": "https://open.spotify.com/track/0dKsNKiWmqkoz8YAUzfigC"
+    },
+    {
+      "added_at": "2024-03-20 10:03:42",
+      "album": {
+        "name": "FERXXOCALIPSIS",
+        "url": "https://open.spotify.com/album/0lgs2Sa82lyX89nBUWyUy6"
+      },
+      "artists": [
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        },
+        {
+          "name": "Young Miko",
+          "url": "https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB"
+        }
+      ],
+      "duration_ms": 195586,
+      "name": "CLASSY 101",
+      "url": "https://open.spotify.com/track/1hZsWUnLbqRw09jLAMQSsb"
+    },
+    {
+      "added_at": "2024-03-20 10:03:42",
+      "album": {
+        "name": "FELIZ CUMPLEA\u00d1OS FERXXO TE PIRATEAMOS EL \u00c1LBUM",
+        "url": "https://open.spotify.com/album/7pijRxgRaBirPz6wDaJIp9"
+      },
+      "artists": [
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        }
+      ],
+      "duration_ms": 155960,
+      "name": "Feliz Cumplea\u00f1os Ferxxo",
+      "url": "https://open.spotify.com/track/2CeKVsFFXG4QzA415QygGb"
+    },
+    {
+      "added_at": "2024-03-20 10:03:42",
       "album": {
         "name": "GODIVA",
         "url": "https://open.spotify.com/album/7vc6473A7yNq5PtNh6Zor9"
@@ -205,95 +261,7 @@
       "url": "https://open.spotify.com/track/3DY25d8SrkLEI6Xugzf6tT"
     },
     {
-      "added_at": "2024-03-19 16:34:20",
-      "album": {
-        "name": "EMPELOTICA",
-        "url": "https://open.spotify.com/album/1Cf5ZIMxdIYC60Cz7Q4GZg"
-      },
-      "artists": [
-        {
-          "name": "Lenny Tav\u00e1rez",
-          "url": "https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd"
-        },
-        {
-          "name": "Feid",
-          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
-        }
-      ],
-      "duration_ms": 190322,
-      "name": "EMPELOTICA",
-      "url": "https://open.spotify.com/track/0dKsNKiWmqkoz8YAUzfigC"
-    },
-    {
-      "added_at": "2024-03-19 16:34:20",
-      "album": {
-        "name": "FERXXOCALIPSIS",
-        "url": "https://open.spotify.com/album/0lgs2Sa82lyX89nBUWyUy6"
-      },
-      "artists": [
-        {
-          "name": "Feid",
-          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
-        },
-        {
-          "name": "Young Miko",
-          "url": "https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB"
-        }
-      ],
-      "duration_ms": 195586,
-      "name": "CLASSY 101",
-      "url": "https://open.spotify.com/track/1hZsWUnLbqRw09jLAMQSsb"
-    },
-    {
-      "added_at": "2024-03-19 16:34:20",
-      "album": {
-        "name": "FELIZ CUMPLEA\u00d1OS FERXXO TE PIRATEAMOS EL \u00c1LBUM",
-        "url": "https://open.spotify.com/album/7pijRxgRaBirPz6wDaJIp9"
-      },
-      "artists": [
-        {
-          "name": "Feid",
-          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
-        }
-      ],
-      "duration_ms": 155960,
-      "name": "Feliz Cumplea\u00f1os Ferxxo",
-      "url": "https://open.spotify.com/track/2CeKVsFFXG4QzA415QygGb"
-    },
-    {
-      "added_at": "2024-03-19 16:34:20",
-      "album": {
-        "name": "La V\u00edctima",
-        "url": "https://open.spotify.com/album/30KJEN3ICjhYsZ1NgunRCr"
-      },
-      "artists": [
-        {
-          "name": "Xavi",
-          "url": "https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1"
-        }
-      ],
-      "duration_ms": 156345,
-      "name": "La V\u00edctima",
-      "url": "https://open.spotify.com/track/5XVdHRf4CAJ2Jm0uMIy5qY"
-    },
-    {
-      "added_at": "2024-03-19 16:34:20",
-      "album": {
-        "name": "FELIZ CUMPLEA\u00d1OS FERXXO TE PIRATEAMOS EL \u00c1LBUM",
-        "url": "https://open.spotify.com/album/7pijRxgRaBirPz6wDaJIp9"
-      },
-      "artists": [
-        {
-          "name": "Feid",
-          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
-        }
-      ],
-      "duration_ms": 171880,
-      "name": "Normal",
-      "url": "https://open.spotify.com/track/0T2pB7P1VdXPhLdQZ488uH"
-    },
-    {
-      "added_at": "2024-03-19 16:34:20",
+      "added_at": "2024-03-20 10:03:42",
       "album": {
         "name": "FERXXOCALIPSIS",
         "url": "https://open.spotify.com/album/0lgs2Sa82lyX89nBUWyUy6"
@@ -309,7 +277,55 @@
       "url": "https://open.spotify.com/track/2Yc3MHpZ9R5UCIz78E20AQ"
     },
     {
-      "added_at": "2024-03-19 16:34:20",
+      "added_at": "2024-03-20 10:03:42",
+      "album": {
+        "name": "La V\u00edctima",
+        "url": "https://open.spotify.com/album/30KJEN3ICjhYsZ1NgunRCr"
+      },
+      "artists": [
+        {
+          "name": "Xavi",
+          "url": "https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1"
+        }
+      ],
+      "duration_ms": 156345,
+      "name": "La V\u00edctima",
+      "url": "https://open.spotify.com/track/5XVdHRf4CAJ2Jm0uMIy5qY"
+    },
+    {
+      "added_at": "2024-03-20 10:03:42",
+      "album": {
+        "name": "FELIZ CUMPLEA\u00d1OS FERXXO TE PIRATEAMOS EL \u00c1LBUM",
+        "url": "https://open.spotify.com/album/7pijRxgRaBirPz6wDaJIp9"
+      },
+      "artists": [
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        }
+      ],
+      "duration_ms": 171880,
+      "name": "Normal",
+      "url": "https://open.spotify.com/track/0T2pB7P1VdXPhLdQZ488uH"
+    },
+    {
+      "added_at": "2024-03-20 10:03:42",
+      "album": {
+        "name": "2000",
+        "url": "https://open.spotify.com/album/7ubO2LZJZFpyhiWMZkRwcH"
+      },
+      "artists": [
+        {
+          "name": "Manuel Turizo",
+          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
+        }
+      ],
+      "duration_ms": 162637,
+      "name": "La Bachata",
+      "url": "https://open.spotify.com/track/3tt9i3Hhzq84dPS8H7iSiJ"
+    },
+    {
+      "added_at": "2024-03-20 10:03:42",
       "album": {
         "name": "VVS Switch (feat. Hades66, Luar La L & CDobleta) [Remix]",
         "url": "https://open.spotify.com/album/3g16kvv1kgZIfqvo6u4Evb"
@@ -345,47 +361,55 @@
       "url": "https://open.spotify.com/track/7kSL8RqBe9ySL8tjvSoII0"
     },
     {
-      "added_at": "2024-03-19 16:34:20",
+      "added_at": "2024-03-20 10:03:42",
       "album": {
-        "name": "2000",
-        "url": "https://open.spotify.com/album/7ubO2LZJZFpyhiWMZkRwcH"
+        "name": "Colmillo De Leche",
+        "url": "https://open.spotify.com/album/52PtAAvfi8ZGTRK5c700y4"
       },
       "artists": [
         {
-          "name": "Manuel Turizo",
-          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
+          "name": "Carin Leon",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
         }
       ],
-      "duration_ms": 162637,
-      "name": "La Bachata",
-      "url": "https://open.spotify.com/track/3tt9i3Hhzq84dPS8H7iSiJ"
+      "duration_ms": 186455,
+      "name": "Primera Cita",
+      "url": "https://open.spotify.com/track/25OeKzcqakFPaJlXHPE5lm"
     },
     {
-      "added_at": "2024-03-19 16:34:20",
+      "added_at": "2024-03-20 10:03:42",
       "album": {
-        "name": "Descodificame",
-        "url": "https://open.spotify.com/album/5VYceucz4N3fxr0M7at5mM"
+        "name": "FELIZ CUMPLEA\u00d1OS FERXXO TE PIRATEAMOS EL \u00c1LBUM",
+        "url": "https://open.spotify.com/album/7pijRxgRaBirPz6wDaJIp9"
       },
       "artists": [
         {
-          "name": "MEL GRANDA",
-          "url": "https://open.spotify.com/artist/6h9lS66Ib3dOiz3Gg6PpI1"
-        },
-        {
-          "name": "KEVIN ROLDAN",
-          "url": "https://open.spotify.com/artist/1RBzGO6Nm3uyhUSxP7EDWO"
-        },
-        {
-          "name": "Poo Bear",
-          "url": "https://open.spotify.com/artist/3JXpwnHbLvXxY99EuXqFPX"
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
         }
       ],
-      "duration_ms": 187294,
-      "name": "Descodificame",
-      "url": "https://open.spotify.com/track/31AdzAj2D6dvcwFHwfpvGP"
+      "duration_ms": 167760,
+      "name": "Ferxxo 100",
+      "url": "https://open.spotify.com/track/1sbNEFiURUYfy024cJX8JG"
     },
     {
-      "added_at": "2024-03-19 16:34:20",
+      "added_at": "2024-03-20 10:03:42",
+      "album": {
+        "name": "MA\u00d1ANA SER\u00c1 BONITO (BICHOTA SEASON)",
+        "url": "https://open.spotify.com/album/0FqAaUEyKCyUNFE1uQPZ7i"
+      },
+      "artists": [
+        {
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        }
+      ],
+      "duration_ms": 154374,
+      "name": "MI EX TEN\u00cdA RAZ\u00d3N",
+      "url": "https://open.spotify.com/track/54zcJnb3tp9c5OVKREZ1Is"
+    },
+    {
+      "added_at": "2024-03-20 10:03:42",
       "album": {
         "name": "Gata Only",
         "url": "https://open.spotify.com/album/5tSQtQGkrCJx3hoQxmLgfM"
@@ -405,71 +429,7 @@
       "url": "https://open.spotify.com/track/6XjDF6nds4DE2BBbagZol6"
     },
     {
-      "added_at": "2024-03-19 16:34:20",
-      "album": {
-        "name": "Mi Versi\u00f3n",
-        "url": "https://open.spotify.com/album/3iile2EGSgnKX5sWiMKRUj"
-      },
-      "artists": [
-        {
-          "name": "Joaquin Guiller",
-          "url": "https://open.spotify.com/artist/2AHbxv3jnfIDz6BmPn979c"
-        }
-      ],
-      "duration_ms": 188600,
-      "name": "Mi Versi\u00f3n",
-      "url": "https://open.spotify.com/track/7BkUWGC6AACZxHzTul75SH"
-    },
-    {
-      "added_at": "2024-03-19 16:34:20",
-      "album": {
-        "name": "MA\u00d1ANA SER\u00c1 BONITO (BICHOTA SEASON)",
-        "url": "https://open.spotify.com/album/0FqAaUEyKCyUNFE1uQPZ7i"
-      },
-      "artists": [
-        {
-          "name": "KAROL G",
-          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
-        }
-      ],
-      "duration_ms": 154374,
-      "name": "MI EX TEN\u00cdA RAZ\u00d3N",
-      "url": "https://open.spotify.com/track/54zcJnb3tp9c5OVKREZ1Is"
-    },
-    {
-      "added_at": "2024-03-19 16:34:20",
-      "album": {
-        "name": "Colmillo De Leche",
-        "url": "https://open.spotify.com/album/52PtAAvfi8ZGTRK5c700y4"
-      },
-      "artists": [
-        {
-          "name": "Carin Leon",
-          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
-        }
-      ],
-      "duration_ms": 186455,
-      "name": "Primera Cita",
-      "url": "https://open.spotify.com/track/25OeKzcqakFPaJlXHPE5lm"
-    },
-    {
-      "added_at": "2024-03-19 16:34:20",
-      "album": {
-        "name": "FELIZ CUMPLEA\u00d1OS FERXXO TE PIRATEAMOS EL \u00c1LBUM",
-        "url": "https://open.spotify.com/album/7pijRxgRaBirPz6wDaJIp9"
-      },
-      "artists": [
-        {
-          "name": "Feid",
-          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
-        }
-      ],
-      "duration_ms": 167760,
-      "name": "Ferxxo 100",
-      "url": "https://open.spotify.com/track/1sbNEFiURUYfy024cJX8JG"
-    },
-    {
-      "added_at": "2024-03-19 16:34:20",
+      "added_at": "2024-03-20 10:03:42",
       "album": {
         "name": "OzuTochi",
         "url": "https://open.spotify.com/album/1kjfMVBNhsDeRyAu9zbLfF"
@@ -489,7 +449,7 @@
       "url": "https://open.spotify.com/track/1zsPaEkglFvxjAhrM8yhpr"
     },
     {
-      "added_at": "2024-03-19 16:34:20",
+      "added_at": "2024-03-20 10:03:42",
       "album": {
         "name": "WLGS",
         "url": "https://open.spotify.com/album/5JWyYQTyvhEeUj0xvHrPxh"
@@ -509,23 +469,7 @@
       "url": "https://open.spotify.com/track/1txhQHV26PyOJJarkYtkOn"
     },
     {
-      "added_at": "2024-03-19 16:34:20",
-      "album": {
-        "name": "Beautiful Things",
-        "url": "https://open.spotify.com/album/29aSKB1qPEbN0Qf9OPSQpw"
-      },
-      "artists": [
-        {
-          "name": "Benson Boone",
-          "url": "https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET"
-        }
-      ],
-      "duration_ms": 180304,
-      "name": "Beautiful Things",
-      "url": "https://open.spotify.com/track/6tNQ70jh4OwmPGpYy6R2o9"
-    },
-    {
-      "added_at": "2024-03-19 16:34:20",
+      "added_at": "2024-03-20 10:03:42",
       "album": {
         "name": "House Of Pleasure",
         "url": "https://open.spotify.com/album/0qmyud8qe8LqaVQ1YQ7S5G"
@@ -541,7 +485,7 @@
       "url": "https://open.spotify.com/track/7JwdbqIpiuWvGbRryKSuBz"
     },
     {
-      "added_at": "2024-03-19 16:34:20",
+      "added_at": "2024-03-20 10:03:42",
       "album": {
         "name": "El Abayarde",
         "url": "https://open.spotify.com/album/6Q1kiSijkaHwoCwZUHW6IY"
@@ -557,7 +501,27 @@
       "url": "https://open.spotify.com/track/5YJ4BVvTFmVCxUyhKejHfR"
     },
     {
-      "added_at": "2024-03-19 16:34:20",
+      "added_at": "2024-03-20 10:03:42",
+      "album": {
+        "name": "Monastery",
+        "url": "https://open.spotify.com/album/3upu3TUmDtq90LfWIxlQCC"
+      },
+      "artists": [
+        {
+          "name": "Ryan Castro",
+          "url": "https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz"
+        },
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        }
+      ],
+      "duration_ms": 189333,
+      "name": "Monastery",
+      "url": "https://open.spotify.com/track/1JpzJfxjHGFUyTHXLZidok"
+    },
+    {
+      "added_at": "2024-03-20 10:03:42",
       "album": {
         "name": "Que Onda",
         "url": "https://open.spotify.com/album/4x6cjOcVz44aiLSOHCLKPd"
@@ -581,47 +545,23 @@
       "url": "https://open.spotify.com/track/6uIIdjYTxxpWOyWuVXrKQO"
     },
     {
-      "added_at": "2024-03-19 16:34:20",
+      "added_at": "2024-03-20 10:03:42",
       "album": {
-        "name": "Monastery",
-        "url": "https://open.spotify.com/album/3upu3TUmDtq90LfWIxlQCC"
+        "name": "Beautiful Things",
+        "url": "https://open.spotify.com/album/29aSKB1qPEbN0Qf9OPSQpw"
       },
       "artists": [
         {
-          "name": "Ryan Castro",
-          "url": "https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz"
-        },
-        {
-          "name": "Feid",
-          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+          "name": "Benson Boone",
+          "url": "https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET"
         }
       ],
-      "duration_ms": 189333,
-      "name": "Monastery",
-      "url": "https://open.spotify.com/track/1JpzJfxjHGFUyTHXLZidok"
+      "duration_ms": 180304,
+      "name": "Beautiful Things",
+      "url": "https://open.spotify.com/track/6tNQ70jh4OwmPGpYy6R2o9"
     },
     {
-      "added_at": "2024-03-19 16:34:20",
-      "album": {
-        "name": "Narcotics (with Bryant Myers)",
-        "url": "https://open.spotify.com/album/1SpjWWwAvgm4LLMFtqOwUc"
-      },
-      "artists": [
-        {
-          "name": "Dei V",
-          "url": "https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP"
-        },
-        {
-          "name": "Bryant Myers",
-          "url": "https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c"
-        }
-      ],
-      "duration_ms": 173991,
-      "name": "Narcotics (with Bryant Myers)",
-      "url": "https://open.spotify.com/track/0p0cOpBujR114Wirv5AM7W"
-    },
-    {
-      "added_at": "2024-03-19 16:34:20",
+      "added_at": "2024-03-20 10:03:42",
       "album": {
         "name": "SIXDO",
         "url": "https://open.spotify.com/album/31L7J7AO993tSBxAunoeoa"
@@ -637,7 +577,7 @@
       "url": "https://open.spotify.com/track/0CYTGMBYkwUxrj1MWDLrC5"
     },
     {
-      "added_at": "2024-03-19 16:34:20",
+      "added_at": "2024-03-20 10:03:42",
       "album": {
         "name": "MICRODOSIS",
         "url": "https://open.spotify.com/album/0QLDQG7Jx78rEUDW03IhHC"
@@ -657,7 +597,59 @@
       "url": "https://open.spotify.com/track/5jt25aFjW2kNoBqaEVaz5W"
     },
     {
-      "added_at": "2024-03-19 16:34:20",
+      "added_at": "2024-03-20 10:03:42",
+      "album": {
+        "name": "Narcotics (with Bryant Myers)",
+        "url": "https://open.spotify.com/album/1SpjWWwAvgm4LLMFtqOwUc"
+      },
+      "artists": [
+        {
+          "name": "Dei V",
+          "url": "https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP"
+        },
+        {
+          "name": "Bryant Myers",
+          "url": "https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c"
+        }
+      ],
+      "duration_ms": 173991,
+      "name": "Narcotics (with Bryant Myers)",
+      "url": "https://open.spotify.com/track/0p0cOpBujR114Wirv5AM7W"
+    },
+    {
+      "added_at": "2024-03-20 10:03:42",
+      "album": {
+        "name": "Jordan",
+        "url": "https://open.spotify.com/album/5NXNrP5J2LhfkbI9ZfcNXI"
+      },
+      "artists": [
+        {
+          "name": "Ryan Castro",
+          "url": "https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz"
+        }
+      ],
+      "duration_ms": 176142,
+      "name": "Jordan",
+      "url": "https://open.spotify.com/track/6y8z28epOv5FlaxDv1Lo5B"
+    },
+    {
+      "added_at": "2024-03-20 10:03:42",
+      "album": {
+        "name": "The Last Don",
+        "url": "https://open.spotify.com/album/4vOvr0tdZWoIGjnHe9jLqz"
+      },
+      "artists": [
+        {
+          "name": "Don Omar",
+          "url": "https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z"
+        }
+      ],
+      "duration_ms": 204600,
+      "name": "Dile",
+      "url": "https://open.spotify.com/track/69Ej1xrGjOcHvIMtMKxK0G"
+    },
+    {
+      "added_at": "2024-03-20 10:03:42",
       "album": {
         "name": "CONTIGO (with Ti\u00ebsto)",
         "url": "https://open.spotify.com/album/2mKcYIgv7ItYDQXke3uprl"
@@ -677,91 +669,7 @@
       "url": "https://open.spotify.com/track/4UkUxO2WlKLc0Q1iEutGGh"
     },
     {
-      "added_at": "2024-03-19 16:34:20",
-      "album": {
-        "name": "Jordan",
-        "url": "https://open.spotify.com/album/5NXNrP5J2LhfkbI9ZfcNXI"
-      },
-      "artists": [
-        {
-          "name": "Ryan Castro",
-          "url": "https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz"
-        }
-      ],
-      "duration_ms": 176142,
-      "name": "Jordan",
-      "url": "https://open.spotify.com/track/6y8z28epOv5FlaxDv1Lo5B"
-    },
-    {
-      "added_at": "2024-03-19 16:34:20",
-      "album": {
-        "name": "No Quiero Na",
-        "url": "https://open.spotify.com/album/01vsjtw0wjavq1dO8RFDBT"
-      },
-      "artists": [
-        {
-          "name": "Jasmine Ortiz",
-          "url": "https://open.spotify.com/artist/1HVHDrvyQsvIGo8C3xrGb9"
-        }
-      ],
-      "duration_ms": 184056,
-      "name": "No Quiero Na",
-      "url": "https://open.spotify.com/track/1CrX2lk2qgAwz2OwzmqRvy"
-    },
-    {
-      "added_at": "2024-03-19 16:34:20",
-      "album": {
-        "name": "The Last Don",
-        "url": "https://open.spotify.com/album/4vOvr0tdZWoIGjnHe9jLqz"
-      },
-      "artists": [
-        {
-          "name": "Don Omar",
-          "url": "https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z"
-        }
-      ],
-      "duration_ms": 204600,
-      "name": "Dile",
-      "url": "https://open.spotify.com/track/69Ej1xrGjOcHvIMtMKxK0G"
-    },
-    {
-      "added_at": "2024-03-19 16:34:20",
-      "album": {
-        "name": "FERXXOCALIPSIS",
-        "url": "https://open.spotify.com/album/0lgs2Sa82lyX89nBUWyUy6"
-      },
-      "artists": [
-        {
-          "name": "Feid",
-          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
-        },
-        {
-          "name": "Ma\u00f1as Ru-Fino",
-          "url": "https://open.spotify.com/artist/78rkeQAvjl85yNyLAqEMVe"
-        }
-      ],
-      "duration_ms": 121920,
-      "name": "LA VUELTA",
-      "url": "https://open.spotify.com/track/01W6syCgxisKd0gDqFRdEG"
-    },
-    {
-      "added_at": "2024-03-19 16:34:20",
-      "album": {
-        "name": "LA VIDA ES UNA",
-        "url": "https://open.spotify.com/album/3puAvurwvtvi1rodndIPW8"
-      },
-      "artists": [
-        {
-          "name": "Myke Towers",
-          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
-        }
-      ],
-      "duration_ms": 197920,
-      "name": "LALA",
-      "url": "https://open.spotify.com/track/7ABLbnD53cQK00mhcaOUVG"
-    },
-    {
-      "added_at": "2024-03-19 16:34:20",
+      "added_at": "2024-03-20 10:03:42",
       "album": {
         "name": "SI SABE",
         "url": "https://open.spotify.com/album/7ot6ebVthlYG3wXzLaZ5NF"
@@ -789,7 +697,107 @@
       "url": "https://open.spotify.com/track/4u8fUK0wSDHvVQ24SUMqZq"
     },
     {
-      "added_at": "2024-03-19 16:34:20",
+      "added_at": "2024-03-20 10:03:42",
+      "album": {
+        "name": "LA VIDA ES UNA",
+        "url": "https://open.spotify.com/album/3puAvurwvtvi1rodndIPW8"
+      },
+      "artists": [
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        }
+      ],
+      "duration_ms": 197920,
+      "name": "LALA",
+      "url": "https://open.spotify.com/track/7ABLbnD53cQK00mhcaOUVG"
+    },
+    {
+      "added_at": "2024-03-20 10:03:42",
+      "album": {
+        "name": "FERXXOCALIPSIS",
+        "url": "https://open.spotify.com/album/0lgs2Sa82lyX89nBUWyUy6"
+      },
+      "artists": [
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        },
+        {
+          "name": "Ma\u00f1as Ru-Fino",
+          "url": "https://open.spotify.com/artist/78rkeQAvjl85yNyLAqEMVe"
+        }
+      ],
+      "duration_ms": 121920,
+      "name": "LA VUELTA",
+      "url": "https://open.spotify.com/track/01W6syCgxisKd0gDqFRdEG"
+    },
+    {
+      "added_at": "2024-03-20 10:03:42",
+      "album": {
+        "name": "Mi Versi\u00f3n",
+        "url": "https://open.spotify.com/album/3iile2EGSgnKX5sWiMKRUj"
+      },
+      "artists": [
+        {
+          "name": "Joaquin Guiller",
+          "url": "https://open.spotify.com/artist/2AHbxv3jnfIDz6BmPn979c"
+        }
+      ],
+      "duration_ms": 188600,
+      "name": "Mi Versi\u00f3n",
+      "url": "https://open.spotify.com/track/7BkUWGC6AACZxHzTul75SH"
+    },
+    {
+      "added_at": "2024-03-20 10:03:42",
+      "album": {
+        "name": "Columbia",
+        "url": "https://open.spotify.com/album/07kam1Dks7GIucbSelfvyX"
+      },
+      "artists": [
+        {
+          "name": "Quevedo",
+          "url": "https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K"
+        }
+      ],
+      "duration_ms": 186000,
+      "name": "Columbia",
+      "url": "https://open.spotify.com/track/6XbtvPmIpyCbjuT0e8cQtp"
+    },
+    {
+      "added_at": "2024-03-20 10:03:42",
+      "album": {
+        "name": "El Se\u00f1orazo (En Vivo)",
+        "url": "https://open.spotify.com/album/01eo94qU3vhVzEsgAjMLz2"
+      },
+      "artists": [
+        {
+          "name": "Luis Alfonso",
+          "url": "https://open.spotify.com/artist/0GchaVw5KfSVEm0xl0OXEe"
+        }
+      ],
+      "duration_ms": 181685,
+      "name": "Mi Palabra Contra la de Ellos - En Vivo",
+      "url": "https://open.spotify.com/track/0sBVn4NN8VlR9WMmyZ1Cek"
+    },
+    {
+      "added_at": "2024-03-20 10:03:42",
+      "album": {
+        "name": "111",
+        "url": "https://open.spotify.com/album/338cbfABt3duRORfvNeqLT"
+      },
+      "artists": [
+        {
+          "name": "Milo j",
+          "url": "https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3"
+        }
+      ],
+      "duration_ms": 184027,
+      "name": "M.A.I",
+      "url": "https://open.spotify.com/track/35ttE4t8lQZA2vuCYDg4G7"
+    },
+    {
+      "added_at": "2024-03-20 10:03:42",
       "album": {
         "name": "VVS Switch",
         "url": "https://open.spotify.com/album/7EEtDPmhHgyY5aNq62IaGg"
@@ -805,7 +813,7 @@
       "url": "https://open.spotify.com/track/3pEP9sPglz2hVxA8BUsB7S"
     },
     {
-      "added_at": "2024-03-19 16:34:20",
+      "added_at": "2024-03-20 10:03:42",
       "album": {
         "name": "La Melodia de la Calle \"Updated\"",
         "url": "https://open.spotify.com/album/6RDOn06oitF2wzme2uWDX8"
@@ -825,7 +833,23 @@
       "url": "https://open.spotify.com/track/0WKd91LoIHCFIhDmgewjhy"
     },
     {
-      "added_at": "2024-03-19 16:34:20",
+      "added_at": "2024-03-20 10:03:42",
+      "album": {
+        "name": "FELIZ CUMPLEA\u00d1OS FERXXO TE PIRATEAMOS EL \u00c1LBUM",
+        "url": "https://open.spotify.com/album/7pijRxgRaBirPz6wDaJIp9"
+      },
+      "artists": [
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        }
+      ],
+      "duration_ms": 166253,
+      "name": "Prohibidox",
+      "url": "https://open.spotify.com/track/3PpWCS95gDUDRPko3u1MZ9"
+    },
+    {
+      "added_at": "2024-03-20 10:03:42",
       "album": {
         "name": "EN BAJITA / SWAGGY",
         "url": "https://open.spotify.com/album/0MSgzttPRl9UtjVs8Tcvf0"
@@ -849,71 +873,39 @@
       "url": "https://open.spotify.com/track/1FjTb3UQkKkXYahI27MxqJ"
     },
     {
-      "added_at": "2024-03-19 16:34:20",
+      "added_at": "2024-03-20 10:03:42",
       "album": {
-        "name": "eternal sunshine",
-        "url": "https://open.spotify.com/album/5EYKrEDnKhhcNxGedaRQeK"
+        "name": "King Of Kings",
+        "url": "https://open.spotify.com/album/5LbfmeWh5cvLpR1Nfvdch5"
       },
       "artists": [
         {
-          "name": "Ariana Grande",
-          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+          "name": "Don Omar",
+          "url": "https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z"
         }
       ],
-      "duration_ms": 228639,
-      "name": "we can't be friends (wait for your love)",
-      "url": "https://open.spotify.com/track/51ZQ1vr10ffzbwIjDCwqm4"
+      "duration_ms": 229026,
+      "name": "Ojitos Chiquitos",
+      "url": "https://open.spotify.com/track/4f49sFQko7jHLEFd3tCf5p"
     },
     {
-      "added_at": "2024-03-19 16:34:20",
+      "added_at": "2024-03-20 10:03:42",
       "album": {
-        "name": "Columbia",
-        "url": "https://open.spotify.com/album/07kam1Dks7GIucbSelfvyX"
+        "name": "No Quiero Na",
+        "url": "https://open.spotify.com/album/01vsjtw0wjavq1dO8RFDBT"
       },
       "artists": [
         {
-          "name": "Quevedo",
-          "url": "https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K"
+          "name": "Jasmine Ortiz",
+          "url": "https://open.spotify.com/artist/1HVHDrvyQsvIGo8C3xrGb9"
         }
       ],
-      "duration_ms": 186000,
-      "name": "Columbia",
-      "url": "https://open.spotify.com/track/6XbtvPmIpyCbjuT0e8cQtp"
+      "duration_ms": 184056,
+      "name": "No Quiero Na",
+      "url": "https://open.spotify.com/track/1CrX2lk2qgAwz2OwzmqRvy"
     },
     {
-      "added_at": "2024-03-19 16:34:20",
-      "album": {
-        "name": "El Se\u00f1orazo (En Vivo)",
-        "url": "https://open.spotify.com/album/01eo94qU3vhVzEsgAjMLz2"
-      },
-      "artists": [
-        {
-          "name": "Luis Alfonso",
-          "url": "https://open.spotify.com/artist/0GchaVw5KfSVEm0xl0OXEe"
-        }
-      ],
-      "duration_ms": 181685,
-      "name": "Mi Palabra Contra la de Ellos - En Vivo",
-      "url": "https://open.spotify.com/track/0sBVn4NN8VlR9WMmyZ1Cek"
-    },
-    {
-      "added_at": "2024-03-19 16:34:20",
-      "album": {
-        "name": "111",
-        "url": "https://open.spotify.com/album/338cbfABt3duRORfvNeqLT"
-      },
-      "artists": [
-        {
-          "name": "Milo j",
-          "url": "https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3"
-        }
-      ],
-      "duration_ms": 184027,
-      "name": "M.A.I",
-      "url": "https://open.spotify.com/track/35ttE4t8lQZA2vuCYDg4G7"
-    },
-    {
-      "added_at": "2024-03-19 16:34:20",
+      "added_at": "2024-03-20 10:03:42",
       "album": {
         "name": "QUEMA",
         "url": "https://open.spotify.com/album/0RdSengz6ayOfcVwH3HBry"
@@ -937,20 +929,20 @@
       "url": "https://open.spotify.com/track/2hn2zOA2XFlv6DSmesylrL"
     },
     {
-      "added_at": "2024-03-19 16:34:20",
+      "added_at": "2024-03-20 10:03:42",
       "album": {
-        "name": "King Of Kings",
-        "url": "https://open.spotify.com/album/5LbfmeWh5cvLpR1Nfvdch5"
+        "name": "eternal sunshine",
+        "url": "https://open.spotify.com/album/5EYKrEDnKhhcNxGedaRQeK"
       },
       "artists": [
         {
-          "name": "Don Omar",
-          "url": "https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z"
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
         }
       ],
-      "duration_ms": 229026,
-      "name": "Ojitos Chiquitos",
-      "url": "https://open.spotify.com/track/4f49sFQko7jHLEFd3tCf5p"
+      "duration_ms": 228639,
+      "name": "we can't be friends (wait for your love)",
+      "url": "https://open.spotify.com/track/51ZQ1vr10ffzbwIjDCwqm4"
     }
   ],
   "unique_name": "Top 50 - Colombia",

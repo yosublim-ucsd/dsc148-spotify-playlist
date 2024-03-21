@@ -4,7 +4,7 @@
 
 > Ultimate 101 Punjabi Hits with AP Dhillon & Shinda Kahlon
 
-316 songs - 16 hr 22 min
+317 songs - 16 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -93,6 +93,7 @@
 | [Excuses](https://open.spotify.com/track/29m79w9xPMH4YCD6r8JSmV) | [AP Dhillon](https://open.spotify.com/artist/6LEG9Ld1aLImEFEVHdWNSB), [Gurinder Gill](https://open.spotify.com/artist/5DHi2MeoRgAwPE0A0qwRMl), [Intense](https://open.spotify.com/artist/0OS0NZnK7TGIAWx8MkWNFN) | [Excuses](https://open.spotify.com/album/3GkXRRRkV3rfgwG1wJset9) | 2:56 | 2022-05-29 |  |
 | [Fallin Star](https://open.spotify.com/track/45w4U2lr3UCEShY27BV8VO) | [Harnoor](https://open.spotify.com/artist/4eB5clMaoi0cCRnCwLkkiS), [Ilam](https://open.spotify.com/artist/3BmI2nuXJ2sCiVa3miR7PT) | [Fallin Star](https://open.spotify.com/album/6b4VNmMlPoEJKyxkokPVvI) | 2:45 | 2022-06-28 | 2022-08-06 |
 | [Famous](https://open.spotify.com/track/5CAJV45ARpLxvDlCe2thta) | [Dilpreet Dhillon](https://open.spotify.com/artist/5CGQa62CAweD76eHlDmp1m) | [Let's Go](https://open.spotify.com/album/53ljSpMqlS6b8p5dZfL9Pf) | 2:35 | 2023-12-21 | 2024-01-16 |
+| [Famous Enough](https://open.spotify.com/track/4M0BS6RsQRg6wqdd30Xxd0) | [Navaan Sandhu](https://open.spotify.com/artist/6PdJJhJWHFRtoERTQ8JGq1), [Gurlez Akhtar](https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ), [RXTRO](https://open.spotify.com/artist/7lGDbXQAFrqSli1Xg28orT) | [Paper Before Money](https://open.spotify.com/album/3UvC8wrNS4JBnkipEal7vO) | 4:00 | 2024-03-20 |  |
 | [Fate](https://open.spotify.com/track/52XpQt2fDLozI4qlhYvWl0) | [AP Dhillon](https://open.spotify.com/artist/6LEG9Ld1aLImEFEVHdWNSB), [Gurinder Gill](https://open.spotify.com/artist/5DHi2MeoRgAwPE0A0qwRMl), [Money Musik](https://open.spotify.com/artist/0Y5Wgx4aNU8Jm4T9OxI22o), [Shinda Kahlon](https://open.spotify.com/artist/6aQfrWHwAcuY8IYItbChZh) | [Not by Chance](https://open.spotify.com/album/3Msv5MSxcayA4sbQpQhXzu) | 2:50 | 2022-05-29 | 2023-04-14 |
 | [Fayaah Fayaah](https://open.spotify.com/track/45VoxYJ8AUkOpvL4q2wBf6) | [Guru Randhawa](https://open.spotify.com/artist/5rQoBDKFnd1n6BkdbgVaRL), [Vee](https://open.spotify.com/artist/5aLCSARkIADqbSrMOrunOH) | [Man Of The Moon](https://open.spotify.com/album/0jasm0jnhQ6Y6OUYTI1NL6) | 2:37 | 2022-08-22 | 2022-09-07 |
 | [Feelinga](https://open.spotify.com/track/2DzEnsDbTLHwPuIMAB2z0P) | [Garry Sandhu](https://open.spotify.com/artist/7M3xY5iHSzEtoL3FpqOD75) | [Adhi Tape](https://open.spotify.com/album/5oQenRXHToaoAFJnIbOV5Y) | 3:08 | 2022-05-29 | 2022-10-26 |
@@ -211,7 +212,7 @@
 | [On Top](https://open.spotify.com/track/1RT06dWvxSC13JY6WnQmb5) | [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ) | [On Top](https://open.spotify.com/album/3F9ZTXMumebU1qkltpEqg1) | 3:03 | 2022-11-25 | 2022-12-16 |
 | [On Top](https://open.spotify.com/track/4SJMuaIYcBS8ke96lDYOsw) | [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ) | [On Top](https://open.spotify.com/album/6ephunHyThVj3tQkGgZKpJ) | 3:03 | 2022-12-15 |  |
 | [One Love](https://open.spotify.com/track/5ZLkihi6DVsHwDL3B8ym1t) | [Shubh](https://open.spotify.com/artist/5r3wPya2PpeTTsXsGhQU8O) | [One Love](https://open.spotify.com/album/3tNH9Fp4dm3qa3Kr4cv5uJ) | 2:39 | 2023-08-17 |  |
-| [One Question](https://open.spotify.com/track/7FzOhj7WiLKN9UejUNILOW) | [Tegi Pannu](https://open.spotify.com/artist/78sIlhMniFgXlOrNWnPtIl), [Manni Sandhu](https://open.spotify.com/artist/3IzepIGEFUSFFnuIVGwZDS) | [Disturbing the Peace](https://open.spotify.com/album/2G8KnZQKOEaxVhK9GQsOmN) | 2:49 | 2022-11-18 |  |
+| [One Question](https://open.spotify.com/track/7FzOhj7WiLKN9UejUNILOW) | [Tegi Pannu](https://open.spotify.com/artist/78sIlhMniFgXlOrNWnPtIl), [Manni Sandhu](https://open.spotify.com/artist/3IzepIGEFUSFFnuIVGwZDS) | [Disturbing the Peace](https://open.spotify.com/album/2G8KnZQKOEaxVhK9GQsOmN) | 2:49 | 2022-11-18 | 2024-03-21 |
 | [Oouuu](https://open.spotify.com/track/4hAmLeBT1Ryk2oxSMMiJ7z) | [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ) | [Way Ahead](https://open.spotify.com/album/0hyDY9e60a2LNEasyI52KF) | 2:27 | 2022-05-29 | 2023-09-21 |
 | [P.O.V \(Point of View\)](https://open.spotify.com/track/6h5cT4n75VWK95VDW07EFw) | [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ), [Yeah Proof](https://open.spotify.com/artist/3GOxylxqB046EtIQynePq2) | [P.O.V \(Point of View\)](https://open.spotify.com/album/65vqiJwNrkv0it9fclatIK) | 3:05 | 2023-04-24 |  |
 | [Pagol](https://open.spotify.com/track/7MpfARGQRFqZxHEWLBjDkx) | [Deep Jandu](https://open.spotify.com/artist/2RJawMqX9ESxws2KMtHyP3), [Bohemia](https://open.spotify.com/artist/0SWOtgI95g7oVrP9halrmP) | [Pagol](https://open.spotify.com/album/3P5a2FJ0k7RWBlWKWSl5T7) | 3:39 | 2023-05-10 |  |

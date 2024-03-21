@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6AozTSWwAdQ.md) - [plain]
 
 > 沒有什麼比感覺好更重要了！這裡的歌曲能大大振奮心情、令你元氣十足！
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,553 likes - 50 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 60,564 likes - 50 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,8 +13,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6AozTSWwAdQ.md) - [plain]
 | 3 | [Time :: Fate :: Karma :: God](https://open.spotify.com/track/11QL0ypp9YLOvTvArX76tt) | [Nothing But Thieves](https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp) | [Dead Club City \(Deluxe\)](https://open.spotify.com/album/2RAkwilnza3i5WYKNhGqWS) | 3:03 |
 | 4 | [House of Memories](https://open.spotify.com/track/2DgdHcjWmO3qd50RzuBLgZ) | [Panic! At The Disco](https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK) | [Death of a Bachelor](https://open.spotify.com/album/6twKQ0EsUJHVlAr6XBylrj) | 3:28 |
 | 5 | [LosE tO yOu](https://open.spotify.com/track/6lTJOAfoSWVgRpCPiztujD) | [Tyson Yoshi](https://open.spotify.com/artist/3dayhmhJfL4I8w1PuL9MqQ) | [LosE tO yOu](https://open.spotify.com/album/2MooXNaTRtM9XNfajmvdcs) | 3:21 |
-| 6 | [Electric Love](https://open.spotify.com/track/2GiJYvgVaD2HtM8GqD9EgQ) | [BØRNS](https://open.spotify.com/artist/1KP6TWI40m7p3QBTU6u2xo) | [Dopamine](https://open.spotify.com/album/17l7MIu0Jh0tdgK7or9ovw) | 3:38 |
-| 7 | [Falling Down \- Bonus Track](https://open.spotify.com/track/4jvjzW7Hm0yK4LvvE0Paz9) | [Lil Peep](https://open.spotify.com/artist/2kCcBybjl3SAtIcwdWpUe3), [XXXTENTACION](https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4) | [Come Over When You're Sober, Pt\. 2](https://open.spotify.com/album/52JymrguPgkmmwLaWIusst) | 3:16 |
+| 6 | [Falling Down \- Bonus Track](https://open.spotify.com/track/4jvjzW7Hm0yK4LvvE0Paz9) | [Lil Peep](https://open.spotify.com/artist/2kCcBybjl3SAtIcwdWpUe3), [XXXTENTACION](https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4) | [Come Over When You're Sober, Pt\. 2](https://open.spotify.com/album/52JymrguPgkmmwLaWIusst) | 3:16 |
+| 7 | [Electric Love](https://open.spotify.com/track/2GiJYvgVaD2HtM8GqD9EgQ) | [BØRNS](https://open.spotify.com/artist/1KP6TWI40m7p3QBTU6u2xo) | [Dopamine](https://open.spotify.com/album/17l7MIu0Jh0tdgK7or9ovw) | 3:38 |
 | 8 | [Sucker](https://open.spotify.com/track/22vgEDb5hykfaTwLuskFGD) | [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [Happiness Begins](https://open.spotify.com/album/1Uf67JAtkVWfdydzFFqNF2) | 3:01 |
 | 9 | [good 4 u](https://open.spotify.com/track/4ZtFanR9U6ndgddUvNcjcG) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [SOUR](https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j) | 2:58 |
 | 10 | [Kings & Queens](https://open.spotify.com/track/7a53HqqArd4b9NF4XAmlbI) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Heaven & Hell](https://open.spotify.com/album/26c7MmQ4w8EAvVLb4jilaM) | 2:42 |
@@ -43,12 +43,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6AozTSWwAdQ.md) - [plain]
 | 33 | [So Am I](https://open.spotify.com/track/2Xnv3GntqbBH1juvUYSpHG) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Heaven & Hell](https://open.spotify.com/album/26c7MmQ4w8EAvVLb4jilaM) | 3:03 |
 | 34 | [forget me too \(feat\. Halsey\)](https://open.spotify.com/track/1VSuFS7PahCN3SWbOcQ98m) | [mgk](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX), [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [Tickets To My Downfall](https://open.spotify.com/album/57lgFncHBYu5E3igZnuCJK) | 2:51 |
 | 35 | [Give Me a Kiss](https://open.spotify.com/track/0OXdfW3Q6VJGpg1k5Ik1SW) | [Crash Adams](https://open.spotify.com/artist/6d8NscVVbeMVINZwJDOoN5) | [Give Me a Kiss](https://open.spotify.com/album/0CafPkGhvLKbSwto8FQJq1) | 2:49 |
-| 36 | [Phoenix](https://open.spotify.com/track/6zAiRKvAMlXHxEtyO4yxIO) | [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD), [Cailin Russo](https://open.spotify.com/artist/2org0PubBAxTvjVvLo9PJ0), [Chrissy Costanza](https://open.spotify.com/artist/2zmjYl582zO64LcLQtOEuv) | [Phoenix](https://open.spotify.com/album/6IatiP8DCUD2ps9KvocWgA) | 3:17 |
-| 37 | [American Teenager](https://open.spotify.com/track/4ltqfN12ohaVZdM6C45gMg) | [Ethel Cain](https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2) | [Preacher’s Daughter](https://open.spotify.com/album/3WmujGwOS0ANHkJRnMH6n8) | 4:18 |
+| 36 | [American Teenager](https://open.spotify.com/track/4ltqfN12ohaVZdM6C45gMg) | [Ethel Cain](https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2) | [Preacher’s Daughter](https://open.spotify.com/album/3WmujGwOS0ANHkJRnMH6n8) | 4:18 |
+| 37 | [Phoenix](https://open.spotify.com/track/6zAiRKvAMlXHxEtyO4yxIO) | [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD), [Cailin Russo](https://open.spotify.com/artist/2org0PubBAxTvjVvLo9PJ0), [Chrissy Costanza](https://open.spotify.com/artist/2zmjYl582zO64LcLQtOEuv) | [Phoenix](https://open.spotify.com/album/6IatiP8DCUD2ps9KvocWgA) | 3:17 |
 | 38 | [Black And White](https://open.spotify.com/track/7rpNuuoMbid56XkDsx2FjE) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [Heartbreak Weather](https://open.spotify.com/album/5gdoRB1AUsGnScCuZ8gmPp) | 3:13 |
 | 39 | [HONEY \(ARE U COMING?\)](https://open.spotify.com/track/3tNMdL4qjzNHfo7rlVMESK) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [HONEY \(ARE U COMING?\)](https://open.spotify.com/album/48hTnkFG81hz49oW8KjUa9) | 2:47 |
-| 40 | [broken](https://open.spotify.com/track/6XcfKZvJio9Z0fQy11GnNX) | [lovelytheband](https://open.spotify.com/artist/4KJ6jujcNPzOyhdNoiNftp) | [finding it hard to smile](https://open.spotify.com/album/2AbPwLvpR0FwpqGt4ZY1q4) | 3:24 |
-| 41 | [It Is What It Is](https://open.spotify.com/track/2kHcMUgIqU3t87wjoGhrd6) | [Jamie Miller](https://open.spotify.com/artist/2LkkwxA19J8C52wPQl5bG6) | [Broken Memories](https://open.spotify.com/album/7Exl3hREAY4tg3m06nkbys) | 2:05 |
+| 40 | [It Is What It Is](https://open.spotify.com/track/2kHcMUgIqU3t87wjoGhrd6) | [Jamie Miller](https://open.spotify.com/artist/2LkkwxA19J8C52wPQl5bG6) | [Broken Memories](https://open.spotify.com/album/7Exl3hREAY4tg3m06nkbys) | 2:05 |
+| 41 | [broken](https://open.spotify.com/track/6XcfKZvJio9Z0fQy11GnNX) | [lovelytheband](https://open.spotify.com/artist/4KJ6jujcNPzOyhdNoiNftp) | [finding it hard to smile](https://open.spotify.com/album/2AbPwLvpR0FwpqGt4ZY1q4) | 3:24 |
 | 42 | [Hypersonic Missiles](https://open.spotify.com/track/6CltzquypraYIlWFp48m1O) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc) | [Hypersonic Missiles](https://open.spotify.com/album/7FWCgfnTgupXdyBy51ME9m) | 3:57 |
 | 43 | [Already Over](https://open.spotify.com/track/4Akq61SpQYUE8IuE7hHNH8) | [Mike Shinoda](https://open.spotify.com/artist/6xBZgSMsnKVmaAxzWEwMSD) | [Already Over](https://open.spotify.com/album/3c2fbU1EH35iSMWlTRqLih) | 2:40 |
 | 44 | [bloody valentine](https://open.spotify.com/track/6mADjHs6FXdroPzEGW6KVJ) | [mgk](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX) | [Tickets To My Downfall](https://open.spotify.com/album/57lgFncHBYu5E3igZnuCJK) | 3:25 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6AozTSWwAdQ.md) - [plain]
 | 49 | [Landmines](https://open.spotify.com/track/1O7hVfI7ETQvQmPC0EqfY7) | [Sum 41](https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT) | [Landmines](https://open.spotify.com/album/6GcuTn1GfyA7uwTTJj3XgV) | 2:55 |
 | 50 | [emo girl \(feat\. WILLOW\)](https://open.spotify.com/track/3tBZ60j1jQ7NJm8IjelyQe) | [mgk](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX), [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF) | [mainstream sellout](https://open.spotify.com/album/3sKZHtQoq3tPtkXbT8PJAc) | 2:39 |
 
-Snapshot ID: `MCxiN2Y5NzNlNDA1MWY5MmVlOTM1NDE4NGU4MzI2ZmQ3ZmZkNzQ3ZWE4`
+Snapshot ID: `MCwxZGZiYTVlODI0YmJkNDVhOTJkMjIyOGFmNzU1Yjc1M2NlZjBmODhh`

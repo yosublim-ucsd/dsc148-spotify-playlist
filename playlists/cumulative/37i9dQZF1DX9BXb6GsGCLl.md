@@ -4,7 +4,7 @@
 
 > Fuel your powerwalk with these upbeat and uplifting tracks.
 
-210 songs - 10 hr 45 min
+211 songs - 10 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,7 +15,8 @@
 | [All the Time](https://open.spotify.com/track/3OTSBoYKO7HzGVj8Bu2OH9) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [All the Time](https://open.spotify.com/album/4x79GTZCS7XsmxK9qxxMmV) | 3:48 | 2021-08-20 | 2022-07-29 |
 | [Alone, Pt\. II](https://open.spotify.com/track/0bMbDctzMmTyK2j74j3nF3) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Alone, Pt\. II](https://open.spotify.com/album/700MviIgFKNTldTXmOAFOr) | 2:59 | 2021-08-20 |  |
 | [Ammunition](https://open.spotify.com/track/16gu3zjAEer6t6c8qxaltf) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [VENUS](https://open.spotify.com/album/0qqZ6HD72So93exL9rH7zi) | 3:42 | 2024-03-18 |  |
-| [Austin](https://open.spotify.com/track/4NJqhmkGN042BrvHoMKUrJ) | [Dasha](https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I) | [Austin](https://open.spotify.com/album/4JtlZzYJEa7bejLF0ASnk0) | 2:51 | 2024-03-18 |  |
+| [Austin](https://open.spotify.com/track/4NJqhmkGN042BrvHoMKUrJ) | [Dasha](https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I) | [Austin](https://open.spotify.com/album/4JtlZzYJEa7bejLF0ASnk0) | 2:51 | 2024-03-18 | 2024-03-21 |
+| [Austin](https://open.spotify.com/track/6b81dy3WjbozXK6b7C1gu5) | [Dasha](https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I) | [What Happens Now?](https://open.spotify.com/album/0rQRrrZPPv6XXsxilJ1wFz) | 2:51 | 2024-03-18 |  |
 | [Back & Forth](https://open.spotify.com/track/4M8x1TR36VMQMFMbGCdoyA) | [MK](https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9), [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf), [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK) | [Back & Forth](https://open.spotify.com/album/2WqGsuxmIREkcArxbp5IK0) | 3:16 | 2021-08-20 | 2024-03-19 |
 | [Back of Your Head](https://open.spotify.com/track/4Nxo4PVVFePtkEG3G0LuD9) | [Ea Kaya](https://open.spotify.com/artist/2cMDCP6zOLaPPbOXMD4193) | [Back of Your Head](https://open.spotify.com/album/16kpdNRYt5KexZJLBXUOog) | 3:54 | 2021-08-20 | 2022-07-25 |
 | [Be Kind](https://open.spotify.com/track/5pE4OLVJh5rjaLERbUgBB2) | [Zak Abel](https://open.spotify.com/artist/6Gk5hoM7eW8NSCYhICMDHw) | [Be Kind](https://open.spotify.com/album/1mWXLzWQS9hleyqLwPGu8r) | 3:01 | 2021-08-20 | 2023-04-12 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2aneNMeYHQ8.md) - [plain]
 
 > A little alt, folk, and indie rock sprinkled into this delicious melting pot\. Cover: Hozier
 
-[Spotify](https://open.spotify.com/user/spotify) - 468,179 likes - 100 songs - 6 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 468,194 likes - 100 songs - 6 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,8 +24,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2aneNMeYHQ8.md) - [plain]
 | 14 | [Ode to a Conversation Stuck in Your Throat](https://open.spotify.com/track/51Lf3l6wx008NdBxCQnD6B) | [Del Water Gap](https://open.spotify.com/artist/0xPoVNPnxIIUS1vrxAYV00) | [Del Water Gap](https://open.spotify.com/album/22ljnmjYzy4TS5tCtaRIUE) | 3:19 |
 | 15 | [Little Lion Man](https://open.spotify.com/track/4B4vB3oB8csotplfoQcAd6) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [Sigh No More](https://open.spotify.com/album/4828DYqqXoOl1bMPyh5c3S) | 4:07 |
 | 16 | [Seventeen Going Under](https://open.spotify.com/track/5rF6YUIlgiat22OT1lWspJ) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc) | [Seventeen Going Under \(Deluxe\)](https://open.spotify.com/album/4FKOLaEGqA7ZFYYW5r4X9z) | 4:57 |
-| 17 | [Kathleen](https://open.spotify.com/track/1MHYAqWWdDRePmnqORynrq) | [Catfish and the Bottlemen](https://open.spotify.com/artist/2xaAOVImG2O6lURwqperlD) | [The Balcony](https://open.spotify.com/album/0C0OFASoQC57yC12vQhCwN) | 2:40 |
-| 18 | [Babylon](https://open.spotify.com/track/1sEDn0QkcjWGVoti0Da4kA) | [David Gray](https://open.spotify.com/artist/7J2lZBANizgPNfUzux31PV) | [White Ladder](https://open.spotify.com/album/27h98zEMf4R8Q25uOkumGe) | 4:25 |
+| 17 | [Babylon](https://open.spotify.com/track/1sEDn0QkcjWGVoti0Da4kA) | [David Gray](https://open.spotify.com/artist/7J2lZBANizgPNfUzux31PV) | [White Ladder](https://open.spotify.com/album/27h98zEMf4R8Q25uOkumGe) | 4:25 |
+| 18 | [Kathleen](https://open.spotify.com/track/1MHYAqWWdDRePmnqORynrq) | [Catfish and the Bottlemen](https://open.spotify.com/artist/2xaAOVImG2O6lURwqperlD) | [The Balcony](https://open.spotify.com/album/0C0OFASoQC57yC12vQhCwN) | 2:40 |
 | 19 | [Miles And Miles \- Single Version](https://open.spotify.com/track/6xG16hC00oaRLRIY28PnGr) | [The Heavy Heavy](https://open.spotify.com/artist/5WSRRbhBJlhqvzgbOm3U2Q) | [Life and Life Only](https://open.spotify.com/album/6DeM7Vy5gmjq9FbLUcZFMr) | 3:40 |
 | 20 | [Run Away to Mars](https://open.spotify.com/track/5ssnt7GzfLILpZkNQ0oU3U) | [TALK](https://open.spotify.com/artist/6mx5dgNlLjrDDMyFsgrW87) | [Lord of the Flies & Birds & Bees](https://open.spotify.com/album/5TzqZ5xIvHdUWrcp8xIYtj) | 3:33 |
 | 21 | [Wondering Why](https://open.spotify.com/track/1HbzxLqpNVPdiBXvpC7Ovb) | [The Red Clay Strays](https://open.spotify.com/artist/6IKlXZEFOvk9itrP1s0knJ) | [Moment of Truth](https://open.spotify.com/album/1TGX3TzhBOkAOWyoS3TWVF) | 3:52 |
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2aneNMeYHQ8.md) - [plain]
 | 26 | [WHERE WE ARE](https://open.spotify.com/track/7l987hjMH9FBNXBE93Hrs7) | [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg) | [BRIGHTSIDE](https://open.spotify.com/album/3K8XmeN3jQvl6reRJcfakL) | 2:52 |
 | 27 | [Good](https://open.spotify.com/track/0ttHpMs250dpFkCYAnuhnE) | [Better Than Ezra](https://open.spotify.com/artist/4UuoJfJ9UybJft7a8E6UHX) | [Deluxe](https://open.spotify.com/album/0c8yj78CBgDsEvq9pzudIS) | 3:05 |
 | 28 | [Pretty Pimpin](https://open.spotify.com/track/47cNDW1xyM03mT2kseO41a) | [Kurt Vile](https://open.spotify.com/artist/5gspAQIAH8nJUrMYgXjCJ2) | [b'lieve i'm goin down...](https://open.spotify.com/album/07W2z9W0uWJPdG8Po0MDiR) | 4:58 |
-| 29 | [Not Dead Yet](https://open.spotify.com/track/6xVd8klTvL6ZRovgIhIs98) | [Lord Huron](https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25) | [Long Lost](https://open.spotify.com/album/5xiePX6kXj5ZsmUsqIqzeD) | 2:57 |
-| 30 | [McKenzie](https://open.spotify.com/track/6FLkXWDTvUc36qYYRhm4jg) | [Houndmouth](https://open.spotify.com/artist/7EGwUS3c5dXduO4sMyLWC5) | [Good For You](https://open.spotify.com/album/7pDkPWgwrc2weqXdL0ID6m) | 3:14 |
+| 29 | [McKenzie](https://open.spotify.com/track/6FLkXWDTvUc36qYYRhm4jg) | [Houndmouth](https://open.spotify.com/artist/7EGwUS3c5dXduO4sMyLWC5) | [Good For You](https://open.spotify.com/album/7pDkPWgwrc2weqXdL0ID6m) | 3:14 |
+| 30 | [Not Dead Yet](https://open.spotify.com/track/6xVd8klTvL6ZRovgIhIs98) | [Lord Huron](https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25) | [Long Lost](https://open.spotify.com/album/5xiePX6kXj5ZsmUsqIqzeD) | 2:57 |
 | 31 | [Supernatural](https://open.spotify.com/track/3HFvMIvCBNGkypFCQUHjyV) | [Barns Courtney](https://open.spotify.com/artist/5tFRohaO5yEsuJxmMnlCO9) | [Supernatural](https://open.spotify.com/album/5T0qNPygFFXWjhnzSzlTWD) | 2:47 |
 | 32 | [My Honest Face](https://open.spotify.com/track/3xKsGYkJKy0bbQuUHRYrei) | [Inhaler](https://open.spotify.com/artist/6lyMYewq2SuTFIXgiv7OxH) | [It Won't Always Be Like This](https://open.spotify.com/album/54NhZZmsHYbKtTjarvGPwu) | 4:32 |
 | 33 | [I Don't Live Here Anymore \(feat\. Lucius\)](https://open.spotify.com/track/5Uou8idst1XJc0F6MRAk5S) | [The War On Drugs](https://open.spotify.com/artist/6g0mn3tzAds6aVeUYRsryU), [Lucius](https://open.spotify.com/artist/1WrqUPWlHN5FXCRcQgrkas) | [I Don’t Live Here Anymore](https://open.spotify.com/album/69jQsPvJzMvcb2fGqI2qaB) | 5:27 |
@@ -49,16 +49,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2aneNMeYHQ8.md) - [plain]
 | 39 | [King](https://open.spotify.com/track/1VSngtLdJhrlfHkLxTyOXK) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [King](https://open.spotify.com/album/1kGXtKuYw5WuWUsMKKsTOE) | 4:40 |
 | 40 | [Golden](https://open.spotify.com/track/5149LIHpBivPrcQsX5HZO6) | [LP](https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A) | [Love Lines](https://open.spotify.com/album/6E7FmOKkt2McJF0I411HzL) | 3:27 |
 | 41 | [Weird Goodbyes \(feat\. Bon Iver\)](https://open.spotify.com/track/2NbS9E0ZZKAMJAppj8P53N) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB), [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [Weird Goodbyes \(feat\. Bon Iver\)](https://open.spotify.com/album/2HQGXK9797uB6Ir8yd7Das) | 5:03 |
-| 42 | [Out of My Head](https://open.spotify.com/track/5LgguaX9k42ruNIHNZA6Re) | [First Aid Kit](https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1) | [Palomino](https://open.spotify.com/album/7oiUfuyk01h71NTmBUSk6D) | 3:33 |
-| 43 | [Leader of the Pack](https://open.spotify.com/track/1YYK8zYkBKxVaANQ7CkgYu) | [Wunderhorse](https://open.spotify.com/artist/41pd7r1XBRsvdxY3vHEgib) | [Cub](https://open.spotify.com/album/1QNeya5YNW3oiuUi7B54y7) | 3:03 |
+| 42 | [Leader of the Pack](https://open.spotify.com/track/1YYK8zYkBKxVaANQ7CkgYu) | [Wunderhorse](https://open.spotify.com/artist/41pd7r1XBRsvdxY3vHEgib) | [Cub](https://open.spotify.com/album/1QNeya5YNW3oiuUi7B54y7) | 3:03 |
+| 43 | [Out of My Head](https://open.spotify.com/track/5LgguaX9k42ruNIHNZA6Re) | [First Aid Kit](https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1) | [Palomino](https://open.spotify.com/album/7oiUfuyk01h71NTmBUSk6D) | 3:33 |
 | 44 | [We're All Gonna Die \(with Noah Kahan\)](https://open.spotify.com/track/5hqTZiZ6Kj3QOvhhr27W3L) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9), [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Proof Of Life](https://open.spotify.com/album/75o3sk5btG5NX8JaPw190o) | 2:59 |
 | 45 | [These Are The Days](https://open.spotify.com/track/7iqQK2bzlcVePuTbfw7zEd) | [Inhaler](https://open.spotify.com/artist/6lyMYewq2SuTFIXgiv7OxH) | [Cuts & Bruises](https://open.spotify.com/album/2qZd7lp0lLRjeFe0O9Ou6S) | 3:45 |
 | 46 | [Magenta Mountain](https://open.spotify.com/track/23azGRczkSa6JF9JKKiBh2) | [King Gizzard & The Lizard Wizard](https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn) | [Omnium Gatherum](https://open.spotify.com/album/4tuqA7qbVsPukqsYPPrcF7) | 6:04 |
 | 47 | [The Way](https://open.spotify.com/track/2wlZIwHXloe802coeEhJ3T) | [Manchester Orchestra](https://open.spotify.com/artist/5wFXmYsg3KFJ8BDsQudJ4f) | [The Way](https://open.spotify.com/album/3js2aCcAc96FwVGfTLoL8i) | 3:54 |
 | 48 | [Believe](https://open.spotify.com/track/0QFGZqqB1KDpOtyL3vXMXo) | [Caamp](https://open.spotify.com/artist/0wyMPXGfOuQzNR54ujR9Ix) | [Believe](https://open.spotify.com/album/0WOkJaVLYAGfbuBvcKCTCo) | 3:15 |
 | 49 | [Everything's Electric](https://open.spotify.com/track/63JU4kHsgytIKkSM4tedme) | [Liam Gallagher](https://open.spotify.com/artist/6sN51vEARnAAdBw1IKZ8Q9) | [Everything's Electric](https://open.spotify.com/album/2Dqayfhl6Eow6nsHBXTXM3) | 3:36 |
-| 50 | [Nightshift](https://open.spotify.com/track/19nEbLE6eLXatpuMw3rdtM) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Only the Strong Survive](https://open.spotify.com/album/4XJaXh57G3rZtAzqeVZSfn) | 4:56 |
-| 51 | [Step Aside](https://open.spotify.com/track/5hmAx18RDdlqvN1ikcPCC1) | [Goodbye June](https://open.spotify.com/artist/1l9I7G8J8AnMScWQwlNJ4M) | [See Where The Night Goes](https://open.spotify.com/album/7IAxaSFD3QeVzcaVisXzwg) | 4:07 |
+| 50 | [Step Aside](https://open.spotify.com/track/5hmAx18RDdlqvN1ikcPCC1) | [Goodbye June](https://open.spotify.com/artist/1l9I7G8J8AnMScWQwlNJ4M) | [See Where The Night Goes](https://open.spotify.com/album/7IAxaSFD3QeVzcaVisXzwg) | 4:07 |
+| 51 | [Nightshift](https://open.spotify.com/track/19nEbLE6eLXatpuMw3rdtM) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Only the Strong Survive](https://open.spotify.com/album/4XJaXh57G3rZtAzqeVZSfn) | 4:56 |
 | 52 | [Wild](https://open.spotify.com/track/05uhED0miR9OJYPalPi7tx) | [Spoon](https://open.spotify.com/artist/0K1q0nXQ8is36PzOKAMbNe) | [Lucifer On The Sofa](https://open.spotify.com/album/1szMY4QqnQZgNuyLBC4jUQ) | 3:13 |
 | 53 | [PIRATE RADIO\*](https://open.spotify.com/track/5ShMDjPL7vYhhdyGGppXm9) | [Jean Dawson](https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP) | [CHAOS NOW\*](https://open.spotify.com/album/1h6QGKzD4kzEZDzojyXeoM) | 3:09 |
 | 54 | [Meant to Be](https://open.spotify.com/track/29BYcl5IptV6B5jfJRNq4o) | [City and Colour](https://open.spotify.com/artist/74gcBzlQza1bSfob90yRhR) | [The Love Still Held Me Near](https://open.spotify.com/album/57arSTDRPVYZRm6uIuR1ym) | 4:17 |
@@ -68,8 +68,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2aneNMeYHQ8.md) - [plain]
 | 58 | [Survivor](https://open.spotify.com/track/2565zrwkcli0D88IVw2rCg) | [Nathaniel Rateliff & The Night Sweats](https://open.spotify.com/artist/02seUFsFQP7TH4hLrTj77o) | [The Future](https://open.spotify.com/album/48KAdMIRvmqIq7py0qw3rh) | 4:01 |
 | 59 | [Body](https://open.spotify.com/track/0ULXAD5RFh0ac0rrIRutLD) | [Briston Maroney](https://open.spotify.com/artist/7vtSUU3zpHeYJfX6BPNrJd) | [Body](https://open.spotify.com/album/3swueKx3F4dUACphPJOBy3) | 3:20 |
 | 60 | [Spit Of You](https://open.spotify.com/track/2SGkIE5YRgm8znklaCArE4) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc) | [Spit Of You](https://open.spotify.com/album/75FuYiKpmPLtgruoGpEQWZ) | 4:33 |
-| 61 | [Broken Horses](https://open.spotify.com/track/0vAGNjNpJhjZTxvtcGeAib) | [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [In These Silent Days](https://open.spotify.com/album/5mIT7iw9w64DMP2vxP9L1f) | 5:03 |
-| 62 | [The Bandit](https://open.spotify.com/track/55meRTYBw8S5q7KF3DkjL7) | [Kings of Leon](https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx) | [The Bandit / 100,000 People](https://open.spotify.com/album/37jVrA1CD7d55Ft12iASUr) | 4:10 |
+| 61 | [The Bandit](https://open.spotify.com/track/55meRTYBw8S5q7KF3DkjL7) | [Kings of Leon](https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx) | [The Bandit / 100,000 People](https://open.spotify.com/album/37jVrA1CD7d55Ft12iASUr) | 4:10 |
+| 62 | [Broken Horses](https://open.spotify.com/track/0vAGNjNpJhjZTxvtcGeAib) | [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [In These Silent Days](https://open.spotify.com/album/5mIT7iw9w64DMP2vxP9L1f) | 5:03 |
 | 63 | [Kid](https://open.spotify.com/track/24TzmWrz2HHWV3UO5PlvNb) | [The Revivalists](https://open.spotify.com/artist/5kuJibJcwOC53s3OkoGMRA) | [Kid](https://open.spotify.com/album/5LqoF8G9MsNme4b8DpBExe) | 3:28 |
 | 64 | [Day by Day](https://open.spotify.com/track/1bDS3ktQSucD150gp86iFU) | [Old Sea Brigade](https://open.spotify.com/artist/6vUNwmljZAcn7tNtUoxG45) | [Motivational Speaking](https://open.spotify.com/album/0XMWbprQxPKfQKU3i8AyAl) | 3:12 |
 | 65 | [Easy Now](https://open.spotify.com/track/3i3LMvWC04mFEdiFJfqPfH) | [Noel Gallagher's High Flying Birds](https://open.spotify.com/artist/7sjttK1WcZeyLPn3IsQ62L) | [Council Skies](https://open.spotify.com/album/3chNtIzZ4hmmMVeq723m3f) | 3:53 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2aneNMeYHQ8.md) - [plain]
 | 99 | [Hollow](https://open.spotify.com/track/38D7NvjAcztFI1FKetw08V) | [Belle Mt.](https://open.spotify.com/artist/6DewGkgNz0j4pO3T2ZMUHS) | [Hollow](https://open.spotify.com/album/5xR0eMPlArJWzoLcJzpTf7) | 3:38 |
 | 100 | [Faithless](https://open.spotify.com/track/6Ehy2SxoGNmLoJQxGUr9fq) | [The Airborne Toxic Event](https://open.spotify.com/artist/7xovAENFxmyEWhzbnHsB3Z) | [Faithless](https://open.spotify.com/album/02jRAhRPMCdjOGnp7vxFfh) | 4:10 |
 
-Snapshot ID: `MCxjOTlmNGYzOTc5ZjNiNWQxNWM3MmIzZWRhOGRmYjlmYWZmOTc2NjUz`
+Snapshot ID: `MCxhYWNkMTU5OGE0OGFlNjNlNWMzMDcwY2VhZWViYzQyY2QxMjVlOGZm`

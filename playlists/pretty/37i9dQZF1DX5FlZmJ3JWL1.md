@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5FlZmJ3JWL1.md) - [plain]
 
 > Let's go! 💪
 
-[Spotify](https://open.spotify.com/user/spotify) - 752,479 likes - 50 songs - 2 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 753,373 likes - 50 songs - 2 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,8 +23,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5FlZmJ3JWL1.md) - [plain]
 | 13 | [Sweat](https://open.spotify.com/track/2uoaR6QNRYMB0zu0cUcM65) | [DJSM](https://open.spotify.com/artist/13qjHQyFpjR48hBIbPrwMx) | [Sweat](https://open.spotify.com/album/0s6xr1TAPOzNXYNEmlHksU) | 2:12 |
 | 14 | [Mask Off](https://open.spotify.com/track/7AFAB7RL8PXHrSf4uY10Z6) | [Nicolas Julian](https://open.spotify.com/artist/5Y1nFir8L9kJP7n1yZSeYb) | [Mask Off](https://open.spotify.com/album/6GXGKsaFs8Hnr8X6viTIEa) | 2:35 |
 | 15 | [I Can Feel](https://open.spotify.com/track/2siKpBqjCCIsOFf5L4AqoR) | [Leony](https://open.spotify.com/artist/2NpPlwwDVYR5dIj0F31EcC), [Niklas Dee](https://open.spotify.com/artist/1ZPGzmbFTn8GRjqTqnLiFE), [VIZE](https://open.spotify.com/artist/09agIJMxCD2k87ys9Al0f0) | [I Can Feel](https://open.spotify.com/album/1dGXSpvShR62ZdS9k4qjy7) | 2:53 |
-| 16 | [Lay All Your Love On Me](https://open.spotify.com/track/6d4o00VKYnYb1DgvZr2xuV) | [Lietru](https://open.spotify.com/artist/42FPpLXLAA9C9H5FXp6RbJ), [YAMAS](https://open.spotify.com/artist/78oWym4ACzyf81OAeS0dHY), [Lavinia Hope](https://open.spotify.com/artist/3VASiWHuSkZzujob6UXob6) | [Lay All Your Love On Me](https://open.spotify.com/album/3SFS3ynjYYTH9w7Fv4oUfz) | 2:29 |
-| 17 | [Crusade \- Club Edit](https://open.spotify.com/track/0jPHJDzPCT5tGkqnb0aeDo) | [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D) | [Crusade](https://open.spotify.com/album/0m0Gyk4zUNfLc5kfZKomPQ) | 2:59 |
+| 16 | [Crusade \- Club Edit](https://open.spotify.com/track/0jPHJDzPCT5tGkqnb0aeDo) | [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D) | [Crusade](https://open.spotify.com/album/0m0Gyk4zUNfLc5kfZKomPQ) | 2:59 |
+| 17 | [Lay All Your Love On Me](https://open.spotify.com/track/6d4o00VKYnYb1DgvZr2xuV) | [Lietru](https://open.spotify.com/artist/42FPpLXLAA9C9H5FXp6RbJ), [YAMAS](https://open.spotify.com/artist/78oWym4ACzyf81OAeS0dHY), [Lavinia Hope](https://open.spotify.com/artist/3VASiWHuSkZzujob6UXob6) | [Lay All Your Love On Me](https://open.spotify.com/album/3SFS3ynjYYTH9w7Fv4oUfz) | 2:29 |
 | 18 | [Tattoo \- Topic Remix](https://open.spotify.com/track/2HJBsWX5LQK8Y95JzPJ4zp) | [Loreen](https://open.spotify.com/artist/49aaHxvAJ0tCh0F15OnwIl), [Topic](https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ) | [Tattoo \(Topic Remix\)](https://open.spotify.com/album/1nAJInWgfbBTHuK4osAGM9) | 3:31 |
 | 19 | [Lollipop](https://open.spotify.com/track/0iG3esqSDh6QJdN1zrAgyo) | [FOVOS](https://open.spotify.com/artist/1ccmwHm4DPRPR12TZVWdu8) | [Lollipop](https://open.spotify.com/album/482d91SbKIqijUyqTGQYZl) | 2:24 |
 | 20 | [Kids](https://open.spotify.com/track/1wsr7jSHPn3ozDWJUG4UXG) | [Old Jim](https://open.spotify.com/artist/6v2YWK8EvCyut0QtBcAypu), [Zombic](https://open.spotify.com/artist/6t0ofV5WMAz84Iqu0YkmTV) | [Kids](https://open.spotify.com/album/4QHIneMHTfRSGjk6YZc6kv) | 2:09 |
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5FlZmJ3JWL1.md) - [plain]
 | 36 | [Do It To It \- Tiësto Remix](https://open.spotify.com/track/2XKsHHNCtKqk9cF35TRFyC) | [ACRAZE](https://open.spotify.com/artist/4pnp4w9g30yLfVIAFnZMRd), [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Cherish](https://open.spotify.com/artist/1c70yCa8sRgIiQxl3HOEFo) | [Do It To It \(Tiësto Remix\)](https://open.spotify.com/album/19WRWWmZJvhypam9o6heVJ) | 2:05 |
 | 37 | [Poker Face](https://open.spotify.com/track/6aFUMn7oUmcHKFnx1WPcJt) | [Lupage](https://open.spotify.com/artist/5MazkeVWAqayflCjldHhs3), [Joe Kox](https://open.spotify.com/artist/0aN6ilg8tbD71OTn12qx1G) | [Poker Face](https://open.spotify.com/album/6J3PjOxzJIi3swdqbXklDA) | 2:37 |
 | 38 | [Sunglasses At Night](https://open.spotify.com/track/6eoY6XnhGFr3HInyECJdbx) | [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D), [Don Diablo](https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1) | [Sunglasses At Night](https://open.spotify.com/album/4hLi7mKyVQ3tL20otPQpk1) | 2:50 |
-| 39 | [ABC](https://open.spotify.com/track/1no0HVphfnHBjYNfhH3m1k) | [LUNAX](https://open.spotify.com/artist/7CLsFRcEkn0Amc9VlVOFwR) | [ABC](https://open.spotify.com/album/1eCJRp3bemhLyeuD3hSCqK) | 2:39 |
-| 40 | [Love Vibration](https://open.spotify.com/track/5B2Fil0dJNfob1W8gpL5E4) | [ESSEL](https://open.spotify.com/artist/2ucdZN7GyBGxIKHIzksnXc) | [Love Vibration](https://open.spotify.com/album/5xsbnw9g4cmcfKOe2UuJdL) | 3:00 |
+| 39 | [Love Vibration](https://open.spotify.com/track/5B2Fil0dJNfob1W8gpL5E4) | [ESSEL](https://open.spotify.com/artist/2ucdZN7GyBGxIKHIzksnXc) | [Love Vibration](https://open.spotify.com/album/5xsbnw9g4cmcfKOe2UuJdL) | 3:00 |
+| 40 | [ABC](https://open.spotify.com/track/1no0HVphfnHBjYNfhH3m1k) | [LUNAX](https://open.spotify.com/artist/7CLsFRcEkn0Amc9VlVOFwR) | [ABC](https://open.spotify.com/album/1eCJRp3bemhLyeuD3hSCqK) | 2:39 |
 | 41 | [The Way I Like It](https://open.spotify.com/track/5ybpVGn3epiwjD9CdaJyqm) | [dj tani](https://open.spotify.com/artist/4c59nmQyhUfXe5RkS0bjNA), [Crystal Rock](https://open.spotify.com/artist/7eehGkMnqCS6Hp7HJIXH9e), [Lawstylez](https://open.spotify.com/artist/6VBSwCRUCT6b3igxW6VfJZ) | [The Way I Like It](https://open.spotify.com/album/1NVxMrGf1whPetnRrQXI5u) | 2:37 |
 | 42 | [Eternity](https://open.spotify.com/track/3aNxfCcd9EohIxKmcQv1zn) | [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ), [KSHMR](https://open.spotify.com/artist/2wX6xSig4Rig5kZU6ePlWe), [Bassjackers](https://open.spotify.com/artist/6xQvQwZQQuq9R3TdPNbcR8) | [Eternity](https://open.spotify.com/album/1JjGogI2XIeKZK0UOSJQaY) | 2:15 |
 | 43 | [Fireflies](https://open.spotify.com/track/2XJSKm7Ie15xQnoP1bY0Fp) | [LUM!X](https://open.spotify.com/artist/0TKFPt9w0AAEnhB9bd0pLy), [Jordan Rys](https://open.spotify.com/artist/7voVuewp9js4Ru1FQCw2RI) | [Fireflies](https://open.spotify.com/album/3yOBi1aoViuYXqZmiEqqSM) | 2:23 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5FlZmJ3JWL1.md) - [plain]
 | 49 | [Wrong or Right \(The Riddle\)](https://open.spotify.com/track/78VSoe3vn4gR4pYSTBiAXA) | [Bassjackers](https://open.spotify.com/artist/6xQvQwZQQuq9R3TdPNbcR8) | [Wrong or Right \(The Riddle\)](https://open.spotify.com/album/7f9y6wyXMLW9NfHHkMtccm) | 2:34 |
 | 50 | [Out Of My Head](https://open.spotify.com/track/3B2SIeekeNUDeszphD3deS) | [HUTS](https://open.spotify.com/artist/6d4AePmkVnbu2qIbT6vsem), [y\_x](https://open.spotify.com/artist/1mntvQYpOHDTcAlSG8bmqM) | [Out Of My Head](https://open.spotify.com/album/35SgzMPyciNuNT0oK6NtdB) | 2:52 |
 
-Snapshot ID: `MCxkMzQwZDdjZmQzNmNiNmZjZTUwYjllYzI3NzNiYWMxZTNkMDI2NmQ4`
+Snapshot ID: `MCxlMDdiNGU4NzllOTliN2QyNjVhODg2Mjk3NWMzNjliZjAxNjgxODlj`

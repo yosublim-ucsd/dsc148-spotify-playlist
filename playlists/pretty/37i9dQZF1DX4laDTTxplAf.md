@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4laDTTxplAf.md) - [plain]
 
 > All 00s, all ballads\. Cover: Norah Jones
 
-[Spotify](https://open.spotify.com/user/spotify) - 268,789 likes - 70 songs - 4 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 268,851 likes - 70 songs - 4 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,8 +16,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4laDTTxplAf.md) - [plain]
 | 6 | [My Boo](https://open.spotify.com/track/68vgtRHr7iZHpzGpon6Jlo) | [USHER](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj), [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [Confessions \(Expanded Edition\)](https://open.spotify.com/album/1RM6MGv6bcl6NrAG8PGoZk) | 3:43 |
 | 7 | [I Want It That Way](https://open.spotify.com/track/47BBI51FKFwOMlIiX6m8ya) | [Backstreet Boys](https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7) | [Millennium](https://open.spotify.com/album/5ySxm9hxBNss01WCL7GLyQ) | 3:33 |
 | 8 | [She Will Be Loved \- Radio Mix](https://open.spotify.com/track/4llK75pXNWZz6KAho2Gp16) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP) | [Songs About Jane: 10th Anniversary Edition](https://open.spotify.com/album/5zClcGCSWj926AMjvBNSLc) | 4:19 |
-| 9 | [How to Save a Life](https://open.spotify.com/track/5fVZC9GiM4e8vu99W0Xf6J) | [The Fray](https://open.spotify.com/artist/0zOcE3mg9nS6l3yxt1Y0bK) | [How To Save A Life](https://open.spotify.com/album/1IM3GwptCGYjRkzCBolyFK) | 4:22 |
-| 10 | [Drops of Jupiter \(Tell Me\)](https://open.spotify.com/track/2hKdd3qO7cWr2Jo0Bcs0MA) | [Train](https://open.spotify.com/artist/3FUY2gzHeIiaesXtOAdB7A) | [Drops Of Jupiter](https://open.spotify.com/album/6j6Zgm7vzAZegr48UppFVT) | 4:19 |
+| 9 | [Drops of Jupiter \(Tell Me\)](https://open.spotify.com/track/2hKdd3qO7cWr2Jo0Bcs0MA) | [Train](https://open.spotify.com/artist/3FUY2gzHeIiaesXtOAdB7A) | [Drops Of Jupiter](https://open.spotify.com/album/6j6Zgm7vzAZegr48UppFVT) | 4:19 |
+| 10 | [How to Save a Life](https://open.spotify.com/track/5fVZC9GiM4e8vu99W0Xf6J) | [The Fray](https://open.spotify.com/artist/0zOcE3mg9nS6l3yxt1Y0bK) | [How To Save A Life](https://open.spotify.com/album/1IM3GwptCGYjRkzCBolyFK) | 4:22 |
 | 11 | [So Sick](https://open.spotify.com/track/6brl7bwOHmGFkNw3MBqssT) | [Ne\-Yo](https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj) | [In My Own Words](https://open.spotify.com/album/6gkwOLmk0ALMOjWs5WhAEr) | 3:27 |
 | 12 | [Dilemma](https://open.spotify.com/track/0ARK753YaiJbpLUk7z5yIM) | [Nelly](https://open.spotify.com/artist/2gBjLmx6zQnFGQJCAQpRgw), [Kelly Rowland](https://open.spotify.com/artist/3AuMNF8rQAKOzjYppFNAoB) | [Nellyville](https://open.spotify.com/album/4HUUHHXBXImwksfbSPqE7q) | 4:49 |
 | 13 | [Wake Me up When September Ends](https://open.spotify.com/track/3ZffCQKLFLUvYM59XKLbVm) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [American Idiot](https://open.spotify.com/album/5dN7F9DV0Qg1XRdIgW8rke) | 4:45 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4laDTTxplAf.md) - [plain]
 | 69 | [Gone](https://open.spotify.com/track/4CCUjYJPbSXLL23BFeBVbI) | [\*NSYNC](https://open.spotify.com/artist/6Ff53KvcvAj5U7Z1vojB5o) | [Celebrity](https://open.spotify.com/album/7zBue2Vuzg4Z3ncRXaIkJg) | 4:52 |
 | 70 | [Goodbye to You](https://open.spotify.com/track/6NSJOIyKYcRZh28Kf0URTw) | [Michelle Branch](https://open.spotify.com/artist/5rScKX1Sh1U67meeUyTGwk) | [The Spirit Room](https://open.spotify.com/album/1agL7TUoZXr0Xd4Irievqi) | 4:11 |
 
-Snapshot ID: `MCxjNzc1NzAyZDAzYmEyY2IwNjUwNmM3MzYwYzU3ZTkzM2E2MTM3Mzdi`
+Snapshot ID: `MCxmNDY3MTNhYmY1NzczODEwOGJiY2E4YjYxN2YxZjM0YjI5OGUzZDE4`

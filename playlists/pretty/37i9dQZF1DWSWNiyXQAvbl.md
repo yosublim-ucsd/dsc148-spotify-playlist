@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSWNiyXQAvbl.md) - [plain]
 
 > Ease back in time with the help of these seventies classics...
 
-[Spotify](https://open.spotify.com/user/spotify) - 483,874 likes - 80 songs - 4 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 483,951 likes - 80 songs - 4 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,12 +22,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSWNiyXQAvbl.md) - [plain]
 | 12 | [You're So Vain](https://open.spotify.com/track/2DnJjbjNTV9Nd5NOa1KGba) | [Carly Simon](https://open.spotify.com/artist/4FtSnMlCVxCswABUmdhwpm) | [No Secrets](https://open.spotify.com/album/79x0PRGIZv33znrCkPkCZ5) | 4:18 |
 | 13 | [Take A Chance On Me](https://open.spotify.com/track/5BckPAYcKEJuYs1eV1BHHe) | [ABBA](https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV) | [The Album](https://open.spotify.com/album/5fLOHW1UXr1cJrnXiU3FBt) | 4:03 |
 | 14 | [American Pie](https://open.spotify.com/track/1fDsrQ23eTAVFElUMaf38X) | [Don McLean](https://open.spotify.com/artist/1gRNBaI4yn6wCCTvRhGWh8) | [American Pie](https://open.spotify.com/album/10jsW2NYd9blCrDITMh2zS) | 8:36 |
-| 15 | [Father And Son](https://open.spotify.com/track/476V2d6iA2tWXgQboKmTtA) | [Yusuf / Cat Stevens](https://open.spotify.com/artist/08F3Y3SctIlsOEmKd6dnH8) | [Tea For The Tillerman \(Remastered 2020\)](https://open.spotify.com/album/44VxbAytHpVi3Rq8hRhild) | 3:41 |
-| 16 | [Brandy \(You're a Fine Girl\)](https://open.spotify.com/track/2BY7ALEWdloFHgQZG6VMLA) | [Looking Glass](https://open.spotify.com/artist/5jJN1nmKXzRjodMl1THQeI) | [Looking Glass](https://open.spotify.com/album/5ThwnbpYrk9R1xXkAGCLIs) | 3:06 |
+| 15 | [Brandy \(You're a Fine Girl\)](https://open.spotify.com/track/2BY7ALEWdloFHgQZG6VMLA) | [Looking Glass](https://open.spotify.com/artist/5jJN1nmKXzRjodMl1THQeI) | [Looking Glass](https://open.spotify.com/album/5ThwnbpYrk9R1xXkAGCLIs) | 3:06 |
+| 16 | [Father And Son](https://open.spotify.com/track/476V2d6iA2tWXgQboKmTtA) | [Yusuf / Cat Stevens](https://open.spotify.com/artist/08F3Y3SctIlsOEmKd6dnH8) | [Tea For The Tillerman \(Remastered 2020\)](https://open.spotify.com/album/44VxbAytHpVi3Rq8hRhild) | 3:41 |
 | 17 | [Escape \(The Pina Colada Song\)](https://open.spotify.com/track/5IMtdHjJ1OtkxbGe4zfUxQ) | [Rupert Holmes](https://open.spotify.com/artist/0TqIPD4IS1w4e30R38B3vj) | [Partners In Crime](https://open.spotify.com/album/163iYwl7Kdm9ayTnD4VyfN) | 4:36 |
 | 18 | [Give A Little Bit](https://open.spotify.com/track/6XUHsYE38CEbYunT983O9G) | [Supertramp](https://open.spotify.com/artist/3JsMj0DEzyWc0VDlHuy9Bx) | [Even In The Quietest Moments](https://open.spotify.com/album/4X87hQ57jTYQTcYTaJWK5w) | 4:08 |
-| 19 | [My Sweet Lord \(2014 Remaster\)](https://open.spotify.com/track/0KZodeWxqxd88F9wY1cqgs) | [George Harrison](https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS) | [All Things Must Pass \(2014 Remaster\)](https://open.spotify.com/album/7j7lsExGJtBHLgDYzjclwk) | 4:41 |
-| 20 | [Wonderful Tonight](https://open.spotify.com/track/6zC0mpGYwbNTpk9SKwh08f) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [Slowhand 35th Anniversary \(Super Deluxe\)](https://open.spotify.com/album/5MAL7e4EnKXW1hFg6NbFqP) | 3:45 |
+| 19 | [Wonderful Tonight](https://open.spotify.com/track/6zC0mpGYwbNTpk9SKwh08f) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [Slowhand 35th Anniversary \(Super Deluxe\)](https://open.spotify.com/album/5MAL7e4EnKXW1hFg6NbFqP) | 3:45 |
+| 20 | [My Sweet Lord \(2014 Remaster\)](https://open.spotify.com/track/0KZodeWxqxd88F9wY1cqgs) | [George Harrison](https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS) | [All Things Must Pass \(2014 Remaster\)](https://open.spotify.com/album/7j7lsExGJtBHLgDYzjclwk) | 4:41 |
 | 21 | [Take Me Home, Country Roads \- Original Version](https://open.spotify.com/track/1YYhDizHx7PnDhAhko6cDS) | [John Denver](https://open.spotify.com/artist/7EK1bQADBoqbYXnT4Cqv9w) | [Poems, Prayers and Promises](https://open.spotify.com/album/78FZXQkBGm2IOPrE9f64sU) | 3:10 |
 | 22 | [The Gambler](https://open.spotify.com/track/5KqldkCunQ2rWxruMEtGh0) | [Kenny Rogers](https://open.spotify.com/artist/4tw2Lmn9tTPUv7Gy7mVPI4) | [The Gambler](https://open.spotify.com/album/3XdvQjIMjdwxRivZrg1ziJ) | 3:34 |
 | 23 | [Into the Mystic \- 2013 Remaster](https://open.spotify.com/track/3lh3iiiJeiBXHSZw6u0kh6) | [Van Morrison](https://open.spotify.com/artist/44NX2ffIYHr6D4n7RaZF7A) | [Moondance](https://open.spotify.com/album/5PfnCqRbdfIDMb1x3MPQam) | 3:25 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSWNiyXQAvbl.md) - [plain]
 | 79 | [Big Yellow Taxi](https://open.spotify.com/track/6UkMcAA19lTdjs22jtB7o2) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Ladies of the Canyon](https://open.spotify.com/album/7JOdtLDLyXJIppDRB7kxr9) | 2:14 |
 | 80 | [Love Grows \(Where My Rosemary Goes\)](https://open.spotify.com/track/6hFAaTvtzYDkng1T5K4XLB) | [Edison Lighthouse](https://open.spotify.com/artist/1NRzxuPpdGushT8YmF5NAa) | [On the Rocks](https://open.spotify.com/album/2AFiOvkMzT32Q0wL0UZW8i) | 2:47 |
 
-Snapshot ID: `MCwwMGRmNjM0NDdmMjdiNGVlNzQ0MTVmNzQ1YWFjMDU4ZTdkYzE4OTkw`
+Snapshot ID: `MCw0MTgwY2JiZDA1M2U5OTNhMDExZGRhNDEzYzFjZDMyNTVkMGVmYjc3`

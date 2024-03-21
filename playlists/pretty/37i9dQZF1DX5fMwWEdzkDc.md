@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5fMwWEdzkDc.md) - [plain]
 
 > 2000년대를 수 놓았던 명곡들을 즐겨보세요.
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,369 likes - 100 songs - 6 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,371 likes - 100 songs - 6 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,20 +83,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5fMwWEdzkDc.md) - [plain]
 | 73 | [A Letter to you Part.2](https://open.spotify.com/track/7fRegG6DYNpGClPDCp851s) | [MC MONG](https://open.spotify.com/artist/6gEWl778wJTkq4Uk5eBvgD) | [The Way I Am](https://open.spotify.com/album/2Mh0JWqsD08Wox0fwXaVsk) | 4:07 |
 | 74 | [대화가 필요해](https://open.spotify.com/track/7uiRy0wTGtP1XC536Ot7V0) | [The Jadu](https://open.spotify.com/artist/6JVKVXmG208oS6QxiidDAU) | [Change Yourself](https://open.spotify.com/album/3lNo7TgizMXNYTve1wIYJj) | 4:00 |
 | 75 | [Two Of Us](https://open.spotify.com/track/3Kb2FrKuXnwUJkjKGcY1kK) | [채연](https://open.spotify.com/artist/5YdRA9BjzC3Xd36SBsK06D) | [Virginalness Bloom](https://open.spotify.com/album/2ir57bADoholy7t2fvKCmY) | 3:03 |
-| 76 | [T.O.P\. \(Twinkling Of Paradise\)](https://open.spotify.com/track/3b0Bt0CBAEesLLO0CifT5r) | [SHINHWA](https://open.spotify.com/artist/0jVvkFPa6YbFXQ3Qmhita0) | [T.O.P \- The 2nd Album](https://open.spotify.com/album/6pu3g3bwekMRa0QWQ7XGyG) | 4:41 |
-| 77 | [추억은 사랑을 닮아](https://open.spotify.com/track/0MjRPE2eH1ZQm9DC3BtZyq) | [Park Hyo Shin](https://open.spotify.com/artist/57htMBtzpppc1yoXgjbslj) | [The Breeze Of Sea](https://open.spotify.com/album/0bWcrwRhhxMaweFaBA8G1S) | 5:29 |
+| 76 | [추억은 사랑을 닮아](https://open.spotify.com/track/0MjRPE2eH1ZQm9DC3BtZyq) | [Park Hyo Shin](https://open.spotify.com/artist/57htMBtzpppc1yoXgjbslj) | [The Breeze Of Sea](https://open.spotify.com/album/0bWcrwRhhxMaweFaBA8G1S) | 5:29 |
+| 77 | [T.O.P\. \(Twinkling Of Paradise\)](https://open.spotify.com/track/3b0Bt0CBAEesLLO0CifT5r) | [SHINHWA](https://open.spotify.com/artist/0jVvkFPa6YbFXQ3Qmhita0) | [T.O.P \- The 2nd Album](https://open.spotify.com/album/6pu3g3bwekMRa0QWQ7XGyG) | 4:41 |
 | 78 | [How to Run From the Sun \(Gtr.Remix\)](https://open.spotify.com/track/67A5HpruURs2HzdC9wAN7F) | [Rain](https://open.spotify.com/artist/5L4EafeXwZ0stGuPtGr5Tz) | [RAIN 2](https://open.spotify.com/album/0COc1yDwr8FL4dCcUQ6DWk) | 3:51 |
 | 79 | [Better Together](https://open.spotify.com/track/07BrAHEuDfgZ3mtHZyCa6u) | [SE7EN](https://open.spotify.com/artist/14yLuCwlBqteUdBqx9soJV) | [Digital Bounce](https://open.spotify.com/album/3o9MuNv5noRVl9IJL01BK6) | 3:38 |
 | 80 | [1Tym](https://open.spotify.com/track/3LjJ0Hjqot5HDeL172lAcw) | [1TYM](https://open.spotify.com/artist/0P8IEJrM7oUTK4WwdMKsvS) | [One Time For Your Mind](https://open.spotify.com/album/2SVamLzGfpr4QCyCWjmXjT) | 3:30 |
 | 81 | [Ice Cream](https://open.spotify.com/track/2KlzrWVFpUIyI2goyvInX4) | [MC MONG](https://open.spotify.com/artist/6gEWl778wJTkq4Uk5eBvgD) | [The Way I Am](https://open.spotify.com/album/2Mh0JWqsD08Wox0fwXaVsk) | 3:36 |
 | 82 | [거짓말 Pt\. 1](https://open.spotify.com/track/0jH5fSIHvf8bG0QbVZ4NlM) | [T\-ARA](https://open.spotify.com/artist/1R52cwGf75yTf7I3Q0Irf8) | [거짓말](https://open.spotify.com/album/4oMBjLj06m5BzRVd5PB3b5) | 3:46 |
-| 83 | [Break Away](https://open.spotify.com/track/3xN3UkMQPosLdU6nldyxjl) | [BIG MAMA](https://open.spotify.com/artist/34SKCchNLFzBWclGa6l6tQ) | [Like The Bible](https://open.spotify.com/album/4eBXK4EXrxjzSaAonbyRSe) | 4:19 |
-| 84 | [안부](https://open.spotify.com/track/7J630PtbTxF2cg0WQ0BhZF) | [BYUL](https://open.spotify.com/artist/2uoSZGvqrwdjVgn9fOUjQp), [Na Yoon Kwon](https://open.spotify.com/artist/49fyJl5wIzI5GtRuCKxKRw) | [Star](https://open.spotify.com/album/4mVaOQu6qOjGpSlNjwf0n4) | 3:59 |
+| 83 | [안부](https://open.spotify.com/track/7J630PtbTxF2cg0WQ0BhZF) | [BYUL](https://open.spotify.com/artist/2uoSZGvqrwdjVgn9fOUjQp), [Na Yoon Kwon](https://open.spotify.com/artist/49fyJl5wIzI5GtRuCKxKRw) | [Star](https://open.spotify.com/album/4mVaOQu6qOjGpSlNjwf0n4) | 3:59 |
+| 84 | [Break Away](https://open.spotify.com/track/3xN3UkMQPosLdU6nldyxjl) | [BIG MAMA](https://open.spotify.com/artist/34SKCchNLFzBWclGa6l6tQ) | [Like The Bible](https://open.spotify.com/album/4eBXK4EXrxjzSaAonbyRSe) | 4:19 |
 | 85 | [애송이의 사랑](https://open.spotify.com/track/5mCY172DdlbnXfXWoLINmF) | [Yangpa](https://open.spotify.com/artist/05Tt2bRgkP3yY2TnpRMvpS) | [애송이의 사랑](https://open.spotify.com/album/2vCLAlhvbVkIgxOX3YFi3b) | 3:40 |
-| 86 | [Seulpun honjatmal](https://open.spotify.com/track/0JRVGUATX7IKaKVwsgExmj) | [Lim Changjung](https://open.spotify.com/artist/4dB2XmMpzPxsMRnt62TbF5) | [Gugip: C.J.2002](https://open.spotify.com/album/706OvChSHJpCoIeyfpZQEs) | 4:20 |
+| 86 | [Crazy \(feat.Eric\)](https://open.spotify.com/track/2k89RdgmjsrEaZcMbQsLyn) | [Son Dam Bi](https://open.spotify.com/artist/3cCbcs6r1Lma7MfEjyfCGU), [Eric](https://open.spotify.com/artist/3q3HSjyRiHQ0AC5HSrmO4m) | [Son Dam Bi Mini Album vol\. 2](https://open.spotify.com/album/03g00ngaa5I53sAoQiLrQL) | 4:01 |
 | 87 | [When I Can't Sing \(내가 노래를 못해도\)](https://open.spotify.com/track/04DzNacNQnSlCqs9bJX4Eg) | [SE7EN](https://open.spotify.com/artist/14yLuCwlBqteUdBqx9soJV) | [SE7EN New Mini Album](https://open.spotify.com/album/769iSuDv4ZwnUZajcITZPI) | 3:55 |
 | 88 | [I Do](https://open.spotify.com/track/42dgKh54xg8W39NDDIrmCz) | [Rain](https://open.spotify.com/artist/5L4EafeXwZ0stGuPtGr5Tz) | [It's Raining](https://open.spotify.com/album/45ngiRidCweoSOwjcSsj0A) | 3:45 |
-| 89 | [Crazy \(feat.Eric\)](https://open.spotify.com/track/2k89RdgmjsrEaZcMbQsLyn) | [Son Dam Bi](https://open.spotify.com/artist/3cCbcs6r1Lma7MfEjyfCGU), [Eric](https://open.spotify.com/artist/3q3HSjyRiHQ0AC5HSrmO4m) | [Son Dam Bi Mini Album vol\. 2](https://open.spotify.com/album/03g00ngaa5I53sAoQiLrQL) | 4:01 |
+| 89 | [Seulpun honjatmal](https://open.spotify.com/track/0JRVGUATX7IKaKVwsgExmj) | [Lim Changjung](https://open.spotify.com/artist/4dB2XmMpzPxsMRnt62TbF5) | [Gugip: C.J.2002](https://open.spotify.com/album/706OvChSHJpCoIeyfpZQEs) | 4:20 |
 | 90 | [Yummy Yummy \(feat\. Chancellor\)](https://open.spotify.com/track/7JIPEpfmQOwFr9f1aC6lHL) | [MC MONG](https://open.spotify.com/artist/6gEWl778wJTkq4Uk5eBvgD), [Chancellor](https://open.spotify.com/artist/0u06YeydlBk3awnk5KgdBx) | [DINNER MATE \(Original Television Soundtrack\) Pt.2](https://open.spotify.com/album/5Tcr7AHV7Y3iLD2pnhhGh0) | 3:32 |
 | 91 | [An old love story](https://open.spotify.com/track/4jknyio1tolPfGu539fE87) | [KCM](https://open.spotify.com/artist/2cijK40RWU3ouFUnwW8v3K) | [Beautiful Mind](https://open.spotify.com/album/5uPLGc3hT67DBjd7eNFd1L) | 3:54 |
 | 92 | [An Ordinary](https://open.spotify.com/track/2phRcDceIli8JDmUZXh2SF) | [god](https://open.spotify.com/artist/1nTCpd63NkuGGpCIbo4Ywl) | [An Ordinary Day](https://open.spotify.com/album/14OsUvgjRtVL8oGOjwvxgM) | 3:32 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5fMwWEdzkDc.md) - [plain]
 | 99 | [We Should've Been Friends](https://open.spotify.com/track/4nLwtNzEa1I1tvqC89xo1L) | [Gummy](https://open.spotify.com/artist/0hRHbwZ0xSwfVHl4FTv7jq) | [Like Them](https://open.spotify.com/album/374rk50TgKbQSbeBaLFjek) | 4:41 |
 | 100 | [Hey Girl](https://open.spotify.com/track/6zWL2EkbtZMcE0XcKMUxDJ) | [Lee Hyori](https://open.spotify.com/artist/4FjoOJAndC0s9ZJUo6VGc5) | [Stylish…](https://open.spotify.com/album/2uTwUONoLUhlpM6r324B2b) | 4:00 |
 
-Snapshot ID: `MCxjYjYwMTBmODZmMGVlNmI5ZTllNjEzNTg4NTIzNDkwMDVkZjczODUw`
+Snapshot ID: `MCxkZjVhYWQ0ZDNlY2RhNmJiODBiZjU1NWQ4NmM4Y2UyMGJkNWU2YzJl`

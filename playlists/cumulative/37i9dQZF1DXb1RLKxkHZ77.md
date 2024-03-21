@@ -4,7 +4,7 @@
 
 > Lagu\-lagu yang terbaik di Malaysia\. Cover: Sarah Suhairi, Alfie Zumi
 
-403 songs - 1 day 1 hr 30 min
+405 songs - 1 day 1 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -106,7 +106,7 @@
 | [Dilamun](https://open.spotify.com/track/7AB7DpmOpwIWaLAxCMxmY1) | [Yonnyboii](https://open.spotify.com/artist/13rJ1RvOkiAEQnvbt9SlXR) | [Persona](https://open.spotify.com/album/3eUsPahj6UMdIBreWMxUMO) | 3:29 | 2023-09-27 | 2023-11-02 |
 | [Dinda](https://open.spotify.com/track/49aLn6dhgqf1XOjxQGG15w) | [Masdo](https://open.spotify.com/artist/2r1WoyhX1FSc7AmcF8rkoO) | [Dinda](https://open.spotify.com/album/5uAiw6BRqGyyJ3jFsrvRY0) | 3:31 | 2022-05-25 | 2023-06-08 |
 | [DU](https://open.spotify.com/track/0F390DrzwfhUrR3QqXgZKZ) | [Andi Bernadee](https://open.spotify.com/artist/3NNC2X9tLFyL0nHfJuWKJ9) | [DU](https://open.spotify.com/album/0yYX0uMUbpKeDmzfV4zbw8) | 3:49 | 2022-05-25 | 2022-08-11 |
-| [Dursila \- From "Malang Si Puteri"](https://open.spotify.com/track/1zv2N0vnJF37CJZ27MA1cH) | [Meiska](https://open.spotify.com/artist/1ZT1OfVAO3kpOEHVejBxV8) | [Dursila \(From "Malang Si Puteri"\)](https://open.spotify.com/album/3Epscc9nKLxHYfzZnXnSL3) | 4:06 | 2024-02-28 |  |
+| [Dursila \- From "Malang Si Puteri"](https://open.spotify.com/track/1zv2N0vnJF37CJZ27MA1cH) | [Meiska](https://open.spotify.com/artist/1ZT1OfVAO3kpOEHVejBxV8) | [Dursila \(From "Malang Si Puteri"\)](https://open.spotify.com/album/3Epscc9nKLxHYfzZnXnSL3) | 4:06 | 2024-02-28 | 2024-03-21 |
 | [Eh Mari, Tengok Tu](https://open.spotify.com/track/4TwXRnvGozvjH1ZbyST5Vl) | [Andi Bernadee](https://open.spotify.com/artist/3NNC2X9tLFyL0nHfJuWKJ9) | [Eh Mari, Tengok Tu](https://open.spotify.com/album/20lB1donlSTdqQY7FDAwCM) | 3:31 | 2024-01-31 | 2024-03-07 |
 | [Erti Sempurna](https://open.spotify.com/track/1CSt6QD08myLv2ZyUxA9z2) | [Danial Chuer](https://open.spotify.com/artist/7dVjhSfbTnpZQ373dl9G50), [Fieya Julia](https://open.spotify.com/artist/568FFnkRaJ2ZotzzrffSyW) | [Erti Sempurna](https://open.spotify.com/album/0k27fXtvb8ifEggY4eL2Wg) | 4:09 | 2022-10-27 | 2023-01-10 |
 | [Flash & Dash](https://open.spotify.com/track/5rQTRNaJOiSqGfhYrf4Tc2) | [Yonnyboii](https://open.spotify.com/artist/13rJ1RvOkiAEQnvbt9SlXR), [Guccimith](https://open.spotify.com/artist/7HD9LqZEcayqh3S6F9F3uy) | [Flash & Dash](https://open.spotify.com/album/3wXeex4NWwvQrQZI3AJOwZ) | 2:27 | 2023-05-31 | 2023-06-22 |
@@ -116,6 +116,7 @@
 | [Gelora](https://open.spotify.com/track/1LSDf9UugcT7zX9FlCQRvL) | [Usop](https://open.spotify.com/artist/4Gva5ICIXF9VvD8AEIyOSX) | [Gelora](https://open.spotify.com/album/1ZO8DsyDKeG3SPU5Uoggjc) | 3:48 | 2023-10-04 |  |
 | [Genggam](https://open.spotify.com/track/4ymk5xUFpoevOYcE8gvw8v) | [Aliff Aziz](https://open.spotify.com/artist/5lsnCehMgZLY9UfQa7STMy) | [Genggam](https://open.spotify.com/album/5Z0eni7PYZo7u7UL1vd6te) | 4:22 | 2023-02-22 | 2023-04-06 |
 | [Gerimis Mengundang](https://open.spotify.com/track/3D9N3k4civFOuEsXXoUlq6) | [Jaclyn Victor](https://open.spotify.com/artist/40ODyztPrDuIBY9ocqhwgB) | [Gerimis Mengundang](https://open.spotify.com/album/6daxVY9Z9PULei728X9xVG) | 3:57 | 2023-09-06 | 2023-09-28 |
+| [Ghaibmu II](https://open.spotify.com/track/11W5sINlIku4WCBgnEgl3X) | [Imran Ajmain](https://open.spotify.com/artist/6RwVCUG6anzF4HiiIKMFWV), [ITSDATBOYINBLVCK](https://open.spotify.com/artist/3Wiuqy7xJpr0L7eL8HjcdY) | [Ghaibmu II](https://open.spotify.com/album/017y4K1MSpSseb4vWRq6GY) | 3:05 | 2024-03-20 |  |
 | [Gimme That Crown](https://open.spotify.com/track/3p3RPVrPSUyrtLk6VWiuCO) | [COËX](https://open.spotify.com/artist/5Ia90P1tKtsgewYwo24Jxr) | [Gimme That Crown](https://open.spotify.com/album/49CfrRaf35iX4IRKMppz5w) | 3:09 | 2023-07-26 | 2023-08-31 |
 | [Goodbye, Hello](https://open.spotify.com/track/2cdn0cLqoKJy77Ly8UAf0E) | [Syamel](https://open.spotify.com/artist/5K7M6xiKbPlcekc5fjqbgx), [Ernie Zakri](https://open.spotify.com/artist/5Plk4JdCzMxhAHSRTEsxJp) | [Goodbye, Hello](https://open.spotify.com/album/3vbivP9we0IXeOC2aLBJt8) | 3:01 | 2022-09-15 | 2022-11-10 |
 | [Gurauan Berkasih](https://open.spotify.com/track/0JUinU1l9QXI3seXiVr1A6) | [Tajul](https://open.spotify.com/artist/5R3bXZA74wEH9GGKWBHd0v), [Wany Hasrita](https://open.spotify.com/artist/0PBXOGA0xgHq709dXGvbP1) | [Gurauan Berkasih](https://open.spotify.com/album/1cTHOYKnVcZTBbDun5eKbR) | 4:05 | 2022-05-25 | 2022-10-06 |
@@ -297,6 +298,7 @@
 | [Rindu](https://open.spotify.com/track/17pSQmiUD9z5JvU6hDa5QQ) | [Tya Edros](https://open.spotify.com/artist/1YK8lltqE3LL9bjSMjOoMa) | [Rindu](https://open.spotify.com/album/03knQq0JFVMOAnAL4xr4nN) | 3:53 | 2023-11-22 | 2024-02-08 |
 | [Rindu Setengah Mati](https://open.spotify.com/track/4NRbwtbSE7xikojPuG9HjK) | [Nidza Afham](https://open.spotify.com/artist/0zceqpBQTndQrTQiTnxZB9) | [Rindu Setengah Mati](https://open.spotify.com/album/5kdSL9VcYtWEIEP5VLXVmj) | 4:04 | 2022-05-25 | 2022-09-16 |
 | [Rindunya Rindu](https://open.spotify.com/track/3nfrPh4JIl4l4JmIkf07gl) | [Afieq Shazwan](https://open.spotify.com/artist/29LWzRDuZ4ABF8fA3flIz8) | [Rindunya Rindu](https://open.spotify.com/album/0FVUWzwJOrbZtX5cZgId6b) | 4:19 | 2023-05-17 | 2023-06-08 |
+| [RISIKO \(feat\. MK K\-Clique, Ghidd, MeerFly, Tuju, Benzooloo\)](https://open.spotify.com/track/7sjuNsBeiizGSKPTQv4Sc5) | [Twntytwodegree](https://open.spotify.com/artist/5FUjZ0QR0zLoEov5g5uzsk) | [RISIKO \(feat\. MK K\-Clique, Ghidd, MeerFly, Tuju, Benzooloo\)](https://open.spotify.com/album/2vLmZYqv1G1t2b9M29jYFM) | 3:38 | 2024-03-20 |  |
 | [Roman Picisan](https://open.spotify.com/track/4d3Oc82rj1hVPlNZvcZ3KB) | [Hanin Dhiya](https://open.spotify.com/artist/3Fw8q9sZ1t7diLxoQFS8hW), [Ahmad Dhani](https://open.spotify.com/artist/2TSeIynP2u22bqZOgKkbZm) | [Kangen](https://open.spotify.com/album/1Nu57IYMONBk10GTTaVkt7) | 5:01 | 2022-05-25 | 2022-09-01 |
 | [Romansa Kita](https://open.spotify.com/track/6FS84HTUkgEgkQ37bBHlwc) | [Dato' Sri Siti Nurhaliza](https://open.spotify.com/artist/5d0bxRte3J74ZXyEGRL8uU) | [SITISM](https://open.spotify.com/album/02Wu2mZtM5kDXtboVtgw6Y) | 3:35 | 2023-07-05 | 2023-08-31 |
 | [Rumah](https://open.spotify.com/track/1PydWeR9bgx8cgoGLoXLVx) | [Dalia Farhana](https://open.spotify.com/artist/5yfr8xJi6ZAFs50aNSddtg) | [Rumah](https://open.spotify.com/album/632wN8YxY2h4IazaMubRhl) | 4:13 | 2023-08-16 | 2023-09-28 |
@@ -345,7 +347,7 @@
 | [Sesaat Kau Hadir](https://open.spotify.com/track/72MEldEAmz3WMJ2MkII3kP) | [Gery Gany](https://open.spotify.com/artist/4zw9fpiPphR8PBEiMLVT2e) | [Sesaat Kau Hadir](https://open.spotify.com/album/1VTso84D0KtvRuzyNoO57g) | 3:19 | 2023-02-01 |  |
 | [Sial](https://open.spotify.com/track/6O0WEM0QNEhqpU50BKui7o) | [Mahalini](https://open.spotify.com/artist/3wOsYKZM0zcKNasi3I7fP4) | [fábula](https://open.spotify.com/album/1vva4fJyjXaJ2RDsGmIbCv) | 4:03 | 2023-09-27 | 2024-02-15 |
 | [Sial](https://open.spotify.com/track/6dXiWwFrcGieqnoLYzPNp5) | [Mahalini](https://open.spotify.com/artist/3wOsYKZM0zcKNasi3I7fP4) | [fábula](https://open.spotify.com/album/6iBh7T1cUR8MPrtly5xugU) | 4:03 | 2023-02-08 | 2023-10-01 |
-| [Simfoni Hati Beradu](https://open.spotify.com/track/6uZTWJzR6bj5b3jnHGVhyq) | [Aizat Amdan](https://open.spotify.com/artist/2sS4H2xFvWaxaixeVZC4Vu) | [Simfoni Hati Beradu](https://open.spotify.com/album/72Z5UJlDTXHgYwUuGy3jvE) | 3:39 | 2024-02-28 |  |
+| [Simfoni Hati Beradu](https://open.spotify.com/track/6uZTWJzR6bj5b3jnHGVhyq) | [Aizat Amdan](https://open.spotify.com/artist/2sS4H2xFvWaxaixeVZC4Vu) | [Simfoni Hati Beradu](https://open.spotify.com/album/72Z5UJlDTXHgYwUuGy3jvE) | 3:39 | 2024-02-28 | 2024-03-21 |
 | [Sinar Pelangi](https://open.spotify.com/track/6UMKWjSsXb7GiUyxWKAiKp) | [Projector Band](https://open.spotify.com/artist/7iMjAugk2BtmWvhG5cI40L) | [Sinar Pelangi](https://open.spotify.com/album/5vYx34KJAnkiWJKO78NOzb) | 3:51 | 2023-11-15 |  |
 | [SIRNA](https://open.spotify.com/track/5LrxgVd7jazUQd4lb4vRJw) | [Ernie Zakri](https://open.spotify.com/artist/5Plk4JdCzMxhAHSRTEsxJp) | [SIRNA](https://open.spotify.com/album/7doiwp97qBFd9fN4TJNRor) | 3:56 | 2023-07-05 | 2023-08-03 |
 | [Sisa Rasa](https://open.spotify.com/track/6pmo9ha8iOPZc5lxPU9o8w) | [Mahalini](https://open.spotify.com/artist/3wOsYKZM0zcKNasi3I7fP4) | [Sisa Rasa](https://open.spotify.com/album/1HWELX1pBJxEArEKKoepuJ) | 4:14 | 2022-05-25 | 2023-09-07 |

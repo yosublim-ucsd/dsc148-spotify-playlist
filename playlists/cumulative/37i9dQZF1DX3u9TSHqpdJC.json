@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2020-10-13",
-  "description": "The best new pop music by independent artists and labels. Cover: Emerson Azarian. Artwork by Paola Saliby",
+  "description": "The best new pop music by independent artists and labels. Cover: Temm. Artwork by Paola Saliby",
   "name": "Fresh Finds Pop",
   "tracks": [
     {
@@ -604,7 +604,7 @@
       ],
       "date_added": "2024-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-21",
       "duration_ms": 164693,
       "name": "28th of Never",
       "url": "https://open.spotify.com/track/1P6LlkBx9B5ArbsQvr0855"
@@ -3724,7 +3724,7 @@
       ],
       "date_added": "2024-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-21",
       "duration_ms": 201141,
       "name": "Automatic",
       "url": "https://open.spotify.com/track/7DKhGCTA1lGdZCLrsnJVr9"
@@ -4502,6 +4502,24 @@
       "duration_ms": 141030,
       "name": "bad timing",
       "url": "https://open.spotify.com/track/7fsaTxX5eNvJuMDUMZdDfj"
+    },
+    {
+      "album": {
+        "name": "Bad Timing",
+        "url": "https://open.spotify.com/album/10u7XxgMwxIFnmg6qyfgbo"
+      },
+      "artists": [
+        {
+          "name": "Mercer Henderson",
+          "url": "https://open.spotify.com/artist/1CaCR4aY8KkwBTIVgAsl2L"
+        }
+      ],
+      "date_added": "2024-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208978,
+      "name": "Bad Timing",
+      "url": "https://open.spotify.com/track/2lZm0uLCYliR9mS9fELd26"
     },
     {
       "album": {
@@ -8853,6 +8871,24 @@
     },
     {
       "album": {
+        "name": "Calling It Love",
+        "url": "https://open.spotify.com/album/3T7G34XE5ZLgiVrvDyEHV8"
+      },
+      "artists": [
+        {
+          "name": "Swayday",
+          "url": "https://open.spotify.com/artist/3502ybt7cR26pkFgAmWbXU"
+        }
+      ],
+      "date_added": "2024-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190653,
+      "name": "Calling It Love",
+      "url": "https://open.spotify.com/track/5NMM8ktt0UHz3dvWYnlO7R"
+    },
+    {
+      "album": {
         "name": "Camden",
         "url": "https://open.spotify.com/album/1pXZRsCDKgKDlhwS2vQzA6"
       },
@@ -11689,6 +11725,24 @@
     },
     {
       "album": {
+        "name": "cross my heart (hope to die)",
+        "url": "https://open.spotify.com/album/2OPo2MAbCCUWp3TS4N7nld"
+      },
+      "artists": [
+        {
+          "name": "Mackenzie Arromba",
+          "url": "https://open.spotify.com/artist/1BdbPr0jIW0h7HurLRlekq"
+        }
+      ],
+      "date_added": "2024-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160622,
+      "name": "cross my heart (hope to die)",
+      "url": "https://open.spotify.com/track/7qt0s5OswWIDJBlLHmiKNi"
+    },
+    {
+      "album": {
         "name": "Cross My Heart I Hope U Die",
         "url": "https://open.spotify.com/album/5Jrt9LhQqar39j3C0ORmSA"
       },
@@ -12677,6 +12731,24 @@
     },
     {
       "album": {
+        "name": "Dawn",
+        "url": "https://open.spotify.com/album/74aipGQuzmhuy3hRFYvmOJ"
+      },
+      "artists": [
+        {
+          "name": "Bagetti",
+          "url": "https://open.spotify.com/artist/2z6qcjNpGfdX3wWPgZc7M1"
+        }
+      ],
+      "date_added": "2024-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155744,
+      "name": "Dawn",
+      "url": "https://open.spotify.com/track/3WXWwVIU7e9MElcPwVdPgE"
+    },
+    {
+      "album": {
         "name": "day off",
         "url": "https://open.spotify.com/album/6bXQ7d0hchsEjpNAtRh2GF"
       },
@@ -12807,6 +12879,24 @@
     },
     {
       "album": {
+        "name": "Days of Girlhood",
+        "url": "https://open.spotify.com/album/24FScV3CEmE9ERsgAp0EnV"
+      },
+      "artists": [
+        {
+          "name": "Dylan Mulvaney",
+          "url": "https://open.spotify.com/artist/35BvsAD68jFbdwi9OdBcIB"
+        }
+      ],
+      "date_added": "2024-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178541,
+      "name": "Days of Girlhood",
+      "url": "https://open.spotify.com/track/4DfHQvIAZmSmqcZbuO80sZ"
+    },
+    {
+      "album": {
         "name": "Dead",
         "url": "https://open.spotify.com/album/4c2aw2xQDzSHqesCIfeCMm"
       },
@@ -12876,6 +12966,24 @@
       "duration_ms": 198533,
       "name": "Dead Flowers",
       "url": "https://open.spotify.com/track/7LHEH4aMx8TOM1pCQhCoCf"
+    },
+    {
+      "album": {
+        "name": "Dead Inside",
+        "url": "https://open.spotify.com/album/6KgSvhhfjP2lViOfbYIkcB"
+      },
+      "artists": [
+        {
+          "name": "Sadie Fine",
+          "url": "https://open.spotify.com/artist/2DZXPZaYfPQy9ojosxzJCc"
+        }
+      ],
+      "date_added": "2024-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224503,
+      "name": "Dead Inside",
+      "url": "https://open.spotify.com/track/06jCPWlKJ0q8geGRTpud87"
     },
     {
       "album": {
@@ -13168,6 +13276,24 @@
       "duration_ms": 152520,
       "name": "Delilah",
       "url": "https://open.spotify.com/track/2pqZrVeXTBgxky4wDxiUIy"
+    },
+    {
+      "album": {
+        "name": "Delusional",
+        "url": "https://open.spotify.com/album/4cq0eZqoh82zqqi7fBsvSa"
+      },
+      "artists": [
+        {
+          "name": "Alexa.",
+          "url": "https://open.spotify.com/artist/7H7w90AT2Ve8xdEDlgrphm"
+        }
+      ],
+      "date_added": "2024-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202486,
+      "name": "Delusional",
+      "url": "https://open.spotify.com/track/5DhRuLgpHKgLmTwgAFKoix"
     },
     {
       "album": {
@@ -14038,7 +14164,7 @@
       ],
       "date_added": "2024-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-21",
       "duration_ms": 184220,
       "name": "Doing Well",
       "url": "https://open.spotify.com/track/1zxIL4vzGNKJWwQLgdfWGN"
@@ -14500,6 +14626,24 @@
       "duration_ms": 191237,
       "name": "Donnie Darko",
       "url": "https://open.spotify.com/track/5SrXBODtYCopT8PJfreyFX"
+    },
+    {
+      "album": {
+        "name": "Selfishly Inclined",
+        "url": "https://open.spotify.com/album/4HHcKYbeDmOFaY0R0xHJge"
+      },
+      "artists": [
+        {
+          "name": "Elle Coves",
+          "url": "https://open.spotify.com/artist/3Hey7RF0bxnjPP8IEXmPRa"
+        }
+      ],
+      "date_added": "2024-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184235,
+      "name": "Don\u2019t",
+      "url": "https://open.spotify.com/track/2nc4Ri2CDDc4I4ED7QaJMw"
     },
     {
       "album": {
@@ -23249,6 +23393,24 @@
     },
     {
       "album": {
+        "name": "Her",
+        "url": "https://open.spotify.com/album/3ykOYa5YfXrxNdVlGEDtFH"
+      },
+      "artists": [
+        {
+          "name": "Beth Morgan",
+          "url": "https://open.spotify.com/artist/1FPA22EYZGIQX8WgAz9NwD"
+        }
+      ],
+      "date_added": "2024-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162592,
+      "name": "Her",
+      "url": "https://open.spotify.com/track/7uH3FzjmXWKAXtl7oKPTHg"
+    },
+    {
+      "album": {
         "name": "Sad Bird",
         "url": "https://open.spotify.com/album/38YnlQciGtGudiPFp3GCDT"
       },
@@ -23386,7 +23548,7 @@
       ],
       "date_added": "2024-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-21",
       "duration_ms": 221298,
       "name": "here lies what could've been",
       "url": "https://open.spotify.com/track/1PI3oda9wcNZOEYokQxhds"
@@ -25344,6 +25506,24 @@
       "duration_ms": 176750,
       "name": "Hurt Now Help Later",
       "url": "https://open.spotify.com/track/4oohEWZOdYKRy5XhPXDUVe"
+    },
+    {
+      "album": {
+        "name": "Headed North",
+        "url": "https://open.spotify.com/album/2kT2utESRVu0otqiiDOGyf"
+      },
+      "artists": [
+        {
+          "name": "NOEL",
+          "url": "https://open.spotify.com/artist/15JdzpiJMd44n9p7TbFI9p"
+        }
+      ],
+      "date_added": "2024-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210500,
+      "name": "Hurt Somebody",
+      "url": "https://open.spotify.com/track/4c3O9CbWKhXM1UMCNRvEA5"
     },
     {
       "album": {
@@ -27366,7 +27546,7 @@
       ],
       "date_added": "2024-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-21",
       "duration_ms": 282661,
       "name": "I'm Trying",
       "url": "https://open.spotify.com/track/2oAEkesjJB7QtX9GjdmEil"
@@ -29040,7 +29220,7 @@
       ],
       "date_added": "2024-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-21",
       "duration_ms": 185110,
       "name": "January",
       "url": "https://open.spotify.com/track/2HIck8Nnc4SONgz5vb0tge"
@@ -32150,7 +32330,7 @@
       ],
       "date_added": "2024-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-21",
       "duration_ms": 324447,
       "name": "Locked Up Never Fade",
       "url": "https://open.spotify.com/track/30DYH6JwOhWdGwrQfU2U55"
@@ -32602,7 +32782,7 @@
       ],
       "date_added": "2024-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-21",
       "duration_ms": 170515,
       "name": "Lose Her",
       "url": "https://open.spotify.com/track/3I4QH84TrFPE7Z53He9rg0"
@@ -32836,7 +33016,7 @@
       ],
       "date_added": "2023-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-21",
       "duration_ms": 156090,
       "name": "Lost Cowboy",
       "url": "https://open.spotify.com/track/3tY2XzxCwgL1hBVuqlvGSw"
@@ -33092,7 +33272,7 @@
       ],
       "date_added": "2024-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-21",
       "duration_ms": 192800,
       "name": "Love Is BS",
       "url": "https://open.spotify.com/track/3zKKxP2qqSJ5ynJS5oaJeZ"
@@ -36587,6 +36767,24 @@
     },
     {
       "album": {
+        "name": "Move On",
+        "url": "https://open.spotify.com/album/3OA28iQCKxCSiuIkWaykhZ"
+      },
+      "artists": [
+        {
+          "name": "Temm",
+          "url": "https://open.spotify.com/artist/1TCG4phIm3YNXPLzKhHPoD"
+        }
+      ],
+      "date_added": "2024-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222270,
+      "name": "Move On",
+      "url": "https://open.spotify.com/track/6vTzONIAVZMzG9UGAtv7Xv"
+    },
+    {
+      "album": {
         "name": "Movie (feat. GABE ISAAC)",
         "url": "https://open.spotify.com/album/5zYGDLgR6SGDWefHxD2866"
       },
@@ -37150,6 +37348,24 @@
       "duration_ms": 146155,
       "name": "NANA",
       "url": "https://open.spotify.com/track/3x14QjUcvBTxIYjMD9RzVO"
+    },
+    {
+      "album": {
+        "name": "Nando",
+        "url": "https://open.spotify.com/album/3NUDd69MRpROm1E8WSmGGx"
+      },
+      "artists": [
+        {
+          "name": "Dressed Like Boys",
+          "url": "https://open.spotify.com/artist/5qQLp6Xal6S6KXEHgvxmvp"
+        }
+      ],
+      "date_added": "2024-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180704,
+      "name": "Nando",
+      "url": "https://open.spotify.com/track/5ttaU57G1egcSRql7Cgnef"
     },
     {
       "album": {
@@ -41016,6 +41232,24 @@
       "duration_ms": 155343,
       "name": "Paralyzed",
       "url": "https://open.spotify.com/track/0W9m89cGZJs94b40aucJ2k"
+    },
+    {
+      "album": {
+        "name": "Paralyzing",
+        "url": "https://open.spotify.com/album/087YmoDDJelMsC8VuuNrI2"
+      },
+      "artists": [
+        {
+          "name": "Scar",
+          "url": "https://open.spotify.com/artist/3DyUi3wp8COAWvHHd1Qq7H"
+        }
+      ],
+      "date_added": "2024-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196036,
+      "name": "Paralyzing",
+      "url": "https://open.spotify.com/track/6kryJEIoIaogn0HUUWDbTE"
     },
     {
       "album": {
@@ -49323,6 +49557,24 @@
     },
     {
       "album": {
+        "name": "Sorry to Little Me",
+        "url": "https://open.spotify.com/album/410zNtUSsN2GyBB8ev9bFD"
+      },
+      "artists": [
+        {
+          "name": "Carolina Rial",
+          "url": "https://open.spotify.com/artist/0GFfgaBOUjkJDV62cUs7Lj"
+        }
+      ],
+      "date_added": "2024-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160487,
+      "name": "Sorry to Little Me",
+      "url": "https://open.spotify.com/track/19NJ2T6wxC1QYzil3NEPeo"
+    },
+    {
+      "album": {
         "name": "Sorry?",
         "url": "https://open.spotify.com/album/1Nxkgmf6OJimRlpeVdMz03"
       },
@@ -53246,7 +53498,7 @@
       ],
       "date_added": "2024-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-21",
       "duration_ms": 189248,
       "name": "THAT SPECIAL",
       "url": "https://open.spotify.com/track/4TXwvLk1pBzh5yPeeGprvX"
@@ -57380,7 +57632,7 @@
       ],
       "date_added": "2024-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-21",
       "duration_ms": 147387,
       "name": "Venom",
       "url": "https://open.spotify.com/track/2pJBg4Qxgj7Rl7y4HPGTUw"
@@ -59392,7 +59644,7 @@
       ],
       "date_added": "2024-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-21",
       "duration_ms": 216766,
       "name": "When Does a Rumor Become Gospel",
       "url": "https://open.spotify.com/track/6NkX6zw5a7Mu0hcd35IUzF"
@@ -59926,7 +60178,7 @@
       ],
       "date_added": "2024-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-21",
       "duration_ms": 166012,
       "name": "White Noise",
       "url": "https://open.spotify.com/track/7xfqWNMdzDdllLB0rkjIY3"

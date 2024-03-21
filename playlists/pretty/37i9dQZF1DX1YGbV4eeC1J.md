@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1YGbV4eeC1J.md) - [plain]
 
 > Zuchu takes over Swahili Love as we celebrate International Women's month\.  Cover: Zuchu
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,150 likes - 40 songs - 2 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,178 likes - 40 songs - 2 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1YGbV4eeC1J.md) - [plain]
 | 14 | [Mtamu](https://open.spotify.com/track/39zxgTFeHYMp7Ajx92amxm) | [D Voice](https://open.spotify.com/artist/1IHsv9k444AnzTuju82Asm) | [Swahili Kid](https://open.spotify.com/album/5GnGRXPzXC6DuzDuUzKtxr) | 3:08 |
 | 15 | [Hello](https://open.spotify.com/track/7umhIhajaZPJumJCR6u5Nt) | [Mocco Genius](https://open.spotify.com/artist/0qR7Js4rYymyutq0Sh8Fz9) | [Hello](https://open.spotify.com/album/6gOMG3WCRF3mZIum5TwMft) | 3:21 |
 | 16 | [Buruda](https://open.spotify.com/track/2iGBUGhHFUsEQHdxnH7tTd) | [Jaivah](https://open.spotify.com/artist/6MKLtjYnjCD7u87mPsvJo3), [Marioo](https://open.spotify.com/artist/4ZTqTkO2kj1doQrbqQ5KEe) | [Buruda](https://open.spotify.com/album/0eLIVpi2YJkWmABLUrxbt3) | 3:44 |
-| 17 | [Ananipenda](https://open.spotify.com/track/4R6vTxggpyMGuSjfwOkPEB) | [Platform](https://open.spotify.com/artist/6b4FmhYEMo14E648KMF8Md), [Marioo](https://open.spotify.com/artist/4ZTqTkO2kj1doQrbqQ5KEe) | [Ananipenda](https://open.spotify.com/album/4ubtaCtnqlodlNKIXhjijl) | 3:35 |
+| 17 | [Ananipenda](https://open.spotify.com/track/3iHEGOxlt1QlkobUQXtAqk) | [Platform](https://open.spotify.com/artist/6b4FmhYEMo14E648KMF8Md), [Marioo](https://open.spotify.com/artist/4ZTqTkO2kj1doQrbqQ5KEe) | [Ananipenda](https://open.spotify.com/album/423Wp7YqGn32sGjcZnkGY0) | 3:35 |
 | 18 | [Nakupenda](https://open.spotify.com/track/3TlutO6C5h7LgLcH0X8GMc) | [Jay Melody](https://open.spotify.com/artist/58JfjeSwt2vRDspRRp1b70) | [Nakupenda](https://open.spotify.com/album/0rupjiEp0TDMmvIx5nmTzN) | 3:14 |
 | 19 | [Umenifunza](https://open.spotify.com/track/5UHSY2tBysMxVnNHT2X4FL) | [DVoice](https://open.spotify.com/artist/7EHcencvvb9Vx84WqlglZS) | [Swahili Kid](https://open.spotify.com/album/28c8WkCI0O9D6CKbN5oH0t) | 3:31 |
 | 20 | [Huyu Hapa](https://open.spotify.com/track/20eKkFZ3C7N7saVxn7BfDR) | [Mbosso](https://open.spotify.com/artist/2aD5NzVGvpZmoMKu07M6Sa) | [Khan](https://open.spotify.com/album/3U9b6VslZuWzVmpxMLcPYO) | 2:57 |
@@ -42,11 +42,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1YGbV4eeC1J.md) - [plain]
 | 32 | [Wewe hapoo](https://open.spotify.com/track/0w5jaSkHZgBkYfK9A1f46k) | [Lony Bway](https://open.spotify.com/artist/2lCSNBa7XKaxqgIlAhGXFJ), [Marioo](https://open.spotify.com/artist/4ZTqTkO2kj1doQrbqQ5KEe) | [Wewe hapoo](https://open.spotify.com/album/395r1bIIUEd20cxJgQ6bp5) | 3:56 |
 | 33 | [Chapati](https://open.spotify.com/track/1HILIVRnXkORHqLYzRbRaG) | [Zuchu](https://open.spotify.com/artist/6LzSS8yBk2YQpAvQxzOu0M) | [Chapati](https://open.spotify.com/album/4pcHseb6o0Gv6ZUVmGW33d) | 3:20 |
 | 34 | [Shika](https://open.spotify.com/track/6XxqdIiwZNUwJkXZVEmXJD) | [Zuchu](https://open.spotify.com/artist/6LzSS8yBk2YQpAvQxzOu0M) | [Shika](https://open.spotify.com/album/0Z1NRlQAq2ZJKYpqibIBMB) | 3:11 |
-| 35 | [Shugga Daddy](https://open.spotify.com/track/7v2WiLVup37NCjBg3chiw1) | [Jux](https://open.spotify.com/artist/2ZLAPSgdMTOcovno5mGBZW), [DJ Tarico](https://open.spotify.com/artist/33CYyUywVRqTra6IdaQ35H), [G Nako](https://open.spotify.com/artist/0ywwwX8jcXj6HW4l0xOzMC) | [Shugga Daddy](https://open.spotify.com/album/5foA3Ow8x9xHM90eZx3QcC) | 4:36 |
+| 35 | [Shugga Daddy](https://open.spotify.com/track/7nWOBXiPlxNrFewUNtkU3d) | [Jux](https://open.spotify.com/artist/2ZLAPSgdMTOcovno5mGBZW), [DJ Tarico](https://open.spotify.com/artist/33CYyUywVRqTra6IdaQ35H), [G Nako](https://open.spotify.com/artist/0ywwwX8jcXj6HW4l0xOzMC) | [Shugga Daddy](https://open.spotify.com/album/097gz3apAOCQwp1wwrzGp1) | 4:36 |
 | 36 | [Love \(feat\. Adekunle Gold\)](https://open.spotify.com/track/6bNPaXLR7BRZbg28hNgiBi) | [Zuchu](https://open.spotify.com/artist/6LzSS8yBk2YQpAvQxzOu0M), [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s) | [Love \(feat\. Adekunle Gold\)](https://open.spotify.com/album/44zzNErcfsYL8RYQaQ8uEw) | 3:08 |
-| 37 | [Enjoy](https://open.spotify.com/track/3osydJRsRqgVFKYTC04QfT) | [Jux](https://open.spotify.com/artist/2ZLAPSgdMTOcovno5mGBZW), [Diamond Platnumz](https://open.spotify.com/artist/3cAisWS37sGCCtRgWfvrod) | [Enjoy](https://open.spotify.com/album/3uY2fylWZaffBO94cxXQ15) | 3:36 |
+| 37 | [Enjoy](https://open.spotify.com/track/1qiHxdihSes6DA9hkAKFyg) | [Jux](https://open.spotify.com/artist/2ZLAPSgdMTOcovno5mGBZW), [Diamond Platnumz](https://open.spotify.com/artist/3cAisWS37sGCCtRgWfvrod) | [Enjoy](https://open.spotify.com/album/2r2GgPbTjjPB8OclFfiFGY) | 3:36 |
 | 38 | [Komando](https://open.spotify.com/track/4H8j1OrVUVGk9b7lkyfJHf) | [G Nako](https://open.spotify.com/artist/0ywwwX8jcXj6HW4l0xOzMC), [Diamond Platnumz](https://open.spotify.com/artist/3cAisWS37sGCCtRgWfvrod) | [Komando](https://open.spotify.com/album/57ejAmwWLxZD6qviYZ9etd) | 3:08 |
 | 39 | [Mtasubiri \(feat\. Zuchu\)](https://open.spotify.com/track/3qaaPsFYzSb7OGUeXClpND) | [Diamond Platnumz](https://open.spotify.com/artist/3cAisWS37sGCCtRgWfvrod), [Zuchu](https://open.spotify.com/artist/6LzSS8yBk2YQpAvQxzOu0M) | [First Of All](https://open.spotify.com/album/6v6K6mV2H1PcOTs0KfJkBx) | 3:26 |
 | 40 | [Shu! \(feat\. Chley\)](https://open.spotify.com/track/442DDArcRLNRxEeF75jRVk) | [Diamond Platnumz](https://open.spotify.com/artist/3cAisWS37sGCCtRgWfvrod), [Chley](https://open.spotify.com/artist/7HpriU9gAJThxAfPfXpZ6N) | [Shu! \(feat\. Chley\)](https://open.spotify.com/album/7sjv3DhaAGAO0Iu9cDgRSn) | 4:23 |
 
-Snapshot ID: `MCxjZjJhOTAwZmU0MGVhYjBlMGM4MTBhNmMwZDJhNWU5ZmU5OWJkMjJh`
+Snapshot ID: `MCw5YWIyNzM3M2VjOGQ0MTcyNWZkOWRlMGQ4OTE0Y2Y3Njg0OWZhYTAy`

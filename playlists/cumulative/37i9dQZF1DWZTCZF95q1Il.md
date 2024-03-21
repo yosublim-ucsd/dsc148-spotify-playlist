@@ -4,7 +4,7 @@
 
 > Gospel songs you grew up listening to
 
-61 songs - 5 hr 10 min
+62 songs - 5 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,7 +29,8 @@
 | [Kuna Dawa](https://open.spotify.com/track/2yaogcyP25n6DStZK6VogL) | [Ester Wahome](https://open.spotify.com/artist/3sYFf43k16ui3hjn17Vsnc) | [Kuna Dawa](https://open.spotify.com/album/4tcCFcltQo4CGaplvkz6i0) | 4:32 | 2023-03-31 |  |
 | [Live for You](https://open.spotify.com/track/3eZSGkwdp9WYBONEGLJ6D6) | [Be My Faithful](https://open.spotify.com/artist/21AUrzmdN94o9uqCwtJwPM) | [Rise Up](https://open.spotify.com/album/5jHqqlUnn3ICK2PwLSpK9m) | 4:40 | 2023-03-31 |  |
 | [Malebo](https://open.spotify.com/track/3ckHAuda9YAL0AthcSc29r) | [Pst\. Faustin S\. Munishi](https://open.spotify.com/artist/2pgd8AuBUu2RUVqsNvupPz) | [Namlilia Malebo, Vol\. 6](https://open.spotify.com/album/35Cx5vdLH64zK1WZnGqoqa) | 6:13 | 2023-03-31 |  |
-| [Milele](https://open.spotify.com/track/4Zt7e0XX2UM7GfOVK95m56) | [Mercy Masika](https://open.spotify.com/artist/768ba0tQi1ULwowdydY05T) | [Milele](https://open.spotify.com/album/5fmpQXoRQ3OHUT77xItVH6) | 4:14 | 2023-03-31 |  |
+| [Milele](https://open.spotify.com/track/0izibEkKOx2qNGDG7lgnqL) | [Mercy Masika](https://open.spotify.com/artist/768ba0tQi1ULwowdydY05T) | [Milele](https://open.spotify.com/album/5k9fzwZwsO1ktiflkMQoDX) | 4:14 | 2024-03-08 |  |
+| [Milele](https://open.spotify.com/track/4Zt7e0XX2UM7GfOVK95m56) | [Mercy Masika](https://open.spotify.com/artist/768ba0tQi1ULwowdydY05T) | [Milele](https://open.spotify.com/album/5fmpQXoRQ3OHUT77xItVH6) | 4:14 | 2023-03-31 | 2024-03-21 |
 | [Mkono Wa Bwana](https://open.spotify.com/track/0I5hC840hWZCo3nGTptRm5) | [Zabron Singers](https://open.spotify.com/artist/6G8DN0hxjRUmIfOh6GHhpP) | [Mkono Wa Bwana](https://open.spotify.com/album/5oXO7E3vFCkWTfdwkZDckF) | 5:49 | 2023-03-31 |  |
 | [Muujiza](https://open.spotify.com/track/6fIXMoPmn86NYaBcpHp5GM) | [Christina Shusho](https://open.spotify.com/artist/0yOSvlhtID1BtqO5UUv5SL) | [Relax](https://open.spotify.com/album/65LvwDgc92DvkD7GdhPl7R) | 3:45 | 2023-03-31 |  |
 | [Mwanake \(feat\. Kaberere\)](https://open.spotify.com/track/1nO0fZt8fzqEcwl7GTIFp2) | [Benachi](https://open.spotify.com/artist/5EQ2AIGwonSlijrgX1L5fD), [kaberere](https://open.spotify.com/artist/6OpSgB1IGIOMtpkHJEOnF7) | [Tulia](https://open.spotify.com/album/0EOHUyjyF25kXcMo0CxcmE) | 3:36 | 2023-03-31 |  |

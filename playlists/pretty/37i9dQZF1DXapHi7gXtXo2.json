@@ -1,12 +1,12 @@
 {
   "description": "Dale play y d\u00e9jate llevar por estas finas melod\u00edas Indie.",
-  "num_followers": 84573,
+  "num_followers": 84588,
   "original_name": "Radio Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzYjRmZWE3YmNkOTc3ZmFlOGYyZWZhN2Y1OGE5YTVmNTk0MjZiNTFl",
+  "snapshot_id": "MCw5NThmMmIzYWU5ZmM4NTE0ZWY4N2Q5NzgzOTFhN2Q0OWU3NjUwMTI5",
   "tracks": [
     {
       "added_at": "2024-02-29 22:13:03",
@@ -239,22 +239,6 @@
     {
       "added_at": "2024-02-29 22:13:03",
       "album": {
-        "name": "Si Quieres",
-        "url": "https://open.spotify.com/album/4elppYh2Ev29JTfiTa4NEl"
-      },
-      "artists": [
-        {
-          "name": "Cari\u00f1o",
-          "url": "https://open.spotify.com/artist/7fWD0BSDlixbj6YNQyHTLh"
-        }
-      ],
-      "duration_ms": 167044,
-      "name": "Si Quieres",
-      "url": "https://open.spotify.com/track/4eus2M68qtL8u8MWHHaxGG"
-    },
-    {
-      "added_at": "2024-02-29 22:13:03",
-      "album": {
         "name": "Sonidos De Karm\u00e1tica Resonancia",
         "url": "https://open.spotify.com/album/4a9Zz5WbFy2guHD98gHEyO"
       },
@@ -267,6 +251,22 @@
       "duration_ms": 270906,
       "name": "Popular",
       "url": "https://open.spotify.com/track/3uEx77R6b16SAltboKfQjh"
+    },
+    {
+      "added_at": "2024-02-29 22:13:03",
+      "album": {
+        "name": "Si Quieres",
+        "url": "https://open.spotify.com/album/4elppYh2Ev29JTfiTa4NEl"
+      },
+      "artists": [
+        {
+          "name": "Cari\u00f1o",
+          "url": "https://open.spotify.com/artist/7fWD0BSDlixbj6YNQyHTLh"
+        }
+      ],
+      "duration_ms": 167044,
+      "name": "Si Quieres",
+      "url": "https://open.spotify.com/track/4eus2M68qtL8u8MWHHaxGG"
     },
     {
       "added_at": "2024-02-29 22:13:03",
@@ -527,6 +527,22 @@
     {
       "added_at": "2024-02-29 22:13:03",
       "album": {
+        "name": "Mira Lo Que Me Hiciste Hacer",
+        "url": "https://open.spotify.com/album/56iVzGyiTDQU2wenZeIhXI"
+      },
+      "artists": [
+        {
+          "name": "Diamante El\u00e9ctrico",
+          "url": "https://open.spotify.com/artist/4VAZ6unMJx5upeWn0aFYuo"
+        }
+      ],
+      "duration_ms": 208430,
+      "name": "Cuando Quieras Llegar",
+      "url": "https://open.spotify.com/track/0VzlIcd7HVC1VDqwx4Ry9y"
+    },
+    {
+      "added_at": "2024-02-29 22:13:03",
+      "album": {
         "name": "Si T\u00fa Me Quisieras",
         "url": "https://open.spotify.com/album/5jS82FjoNBNMEmcoILh0uE"
       },
@@ -543,22 +559,6 @@
       "duration_ms": 261958,
       "name": "Si T\u00fa Me Quisieras",
       "url": "https://open.spotify.com/track/3XWCZdvN55Rjly1sSxrXqh"
-    },
-    {
-      "added_at": "2024-02-29 22:13:03",
-      "album": {
-        "name": "Mira Lo Que Me Hiciste Hacer",
-        "url": "https://open.spotify.com/album/56iVzGyiTDQU2wenZeIhXI"
-      },
-      "artists": [
-        {
-          "name": "Diamante El\u00e9ctrico",
-          "url": "https://open.spotify.com/artist/4VAZ6unMJx5upeWn0aFYuo"
-        }
-      ],
-      "duration_ms": 208430,
-      "name": "Cuando Quieras Llegar",
-      "url": "https://open.spotify.com/track/0VzlIcd7HVC1VDqwx4Ry9y"
     },
     {
       "added_at": "2024-02-29 22:13:03",
@@ -623,6 +623,22 @@
     {
       "added_at": "2024-02-29 22:13:03",
       "album": {
+        "name": "Mira Lo Que Me Hiciste Hacer",
+        "url": "https://open.spotify.com/album/56iVzGyiTDQU2wenZeIhXI"
+      },
+      "artists": [
+        {
+          "name": "Diamante El\u00e9ctrico",
+          "url": "https://open.spotify.com/artist/4VAZ6unMJx5upeWn0aFYuo"
+        }
+      ],
+      "duration_ms": 165675,
+      "name": "A Veces",
+      "url": "https://open.spotify.com/track/7KKd6mLczxaz1Jjnu6ZLBh"
+    },
+    {
+      "added_at": "2024-02-29 22:13:03",
+      "album": {
         "name": "Musikita del Cielo",
         "url": "https://open.spotify.com/album/29ZPGvp5WB9BGPA2jleMoz"
       },
@@ -639,6 +655,38 @@
       "duration_ms": 180500,
       "name": "Musikita del Cielo",
       "url": "https://open.spotify.com/track/1MXRVVSP19x3zTkqmD2MzF"
+    },
+    {
+      "added_at": "2024-02-29 22:13:03",
+      "album": {
+        "name": "SAETA",
+        "url": "https://open.spotify.com/album/2xqdV2npgZXiowXCAYwd2Y"
+      },
+      "artists": [
+        {
+          "name": "Paco Amoroso",
+          "url": "https://open.spotify.com/artist/3E7NGbzUGlOjgYY8nvtijR"
+        }
+      ],
+      "duration_ms": 198085,
+      "name": "Viuda Negra",
+      "url": "https://open.spotify.com/track/1iT5jMsGoXWKm1CNwna2kf"
+    },
+    {
+      "added_at": "2024-02-29 22:13:03",
+      "album": {
+        "name": "PEL\u00cdCULA",
+        "url": "https://open.spotify.com/album/0F5ZesfEwl0qPpjnaEzG1L"
+      },
+      "artists": [
+        {
+          "name": "El Zar",
+          "url": "https://open.spotify.com/artist/1cj1ov4uZ0Htsx9PWDpNvi"
+        }
+      ],
+      "duration_ms": 193206,
+      "name": "PEL\u00cdCULA",
+      "url": "https://open.spotify.com/track/0YkFznftrXHZnJIde7T5v2"
     },
     {
       "added_at": "2024-02-29 22:13:03",
@@ -683,38 +731,6 @@
     {
       "added_at": "2024-02-29 22:13:03",
       "album": {
-        "name": "PEL\u00cdCULA",
-        "url": "https://open.spotify.com/album/0F5ZesfEwl0qPpjnaEzG1L"
-      },
-      "artists": [
-        {
-          "name": "El Zar",
-          "url": "https://open.spotify.com/artist/1cj1ov4uZ0Htsx9PWDpNvi"
-        }
-      ],
-      "duration_ms": 193206,
-      "name": "PEL\u00cdCULA",
-      "url": "https://open.spotify.com/track/0YkFznftrXHZnJIde7T5v2"
-    },
-    {
-      "added_at": "2024-02-29 22:13:03",
-      "album": {
-        "name": "Mira Lo Que Me Hiciste Hacer",
-        "url": "https://open.spotify.com/album/56iVzGyiTDQU2wenZeIhXI"
-      },
-      "artists": [
-        {
-          "name": "Diamante El\u00e9ctrico",
-          "url": "https://open.spotify.com/artist/4VAZ6unMJx5upeWn0aFYuo"
-        }
-      ],
-      "duration_ms": 165675,
-      "name": "A Veces",
-      "url": "https://open.spotify.com/track/7KKd6mLczxaz1Jjnu6ZLBh"
-    },
-    {
-      "added_at": "2024-02-29 22:13:03",
-      "album": {
         "name": "Algo Tiene Que Cambiar",
         "url": "https://open.spotify.com/album/2iKR4ZBb3NLJM0Zg8yhQvi"
       },
@@ -727,22 +743,6 @@
       "duration_ms": 265473,
       "name": "M\u00e1s Sencillo",
       "url": "https://open.spotify.com/track/7K5x3ONjTT1uJCR431ElKF"
-    },
-    {
-      "added_at": "2024-02-29 22:13:03",
-      "album": {
-        "name": "La isla del sol",
-        "url": "https://open.spotify.com/album/4uYpWUBe8DcmOsDhdwPIfr"
-      },
-      "artists": [
-        {
-          "name": "un muerto mas",
-          "url": "https://open.spotify.com/artist/31BzLsWVOEfGQTDIe6atC0"
-        }
-      ],
-      "duration_ms": 131333,
-      "name": "La isla del sol",
-      "url": "https://open.spotify.com/track/0HBn23L8dzvkSnyeLhlsCD"
     },
     {
       "added_at": "2024-02-29 22:13:03",
@@ -783,18 +783,18 @@
     {
       "added_at": "2024-02-29 22:13:03",
       "album": {
-        "name": "La Mexicana - Single",
-        "url": "https://open.spotify.com/album/4uJT1I6IOjTQoXRgvK5OQy"
+        "name": "La isla del sol",
+        "url": "https://open.spotify.com/album/4uYpWUBe8DcmOsDhdwPIfr"
       },
       "artists": [
         {
-          "name": "Conociendo Rusia",
-          "url": "https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2"
+          "name": "un muerto mas",
+          "url": "https://open.spotify.com/artist/31BzLsWVOEfGQTDIe6atC0"
         }
       ],
-      "duration_ms": 206738,
-      "name": "La Mexicana",
-      "url": "https://open.spotify.com/track/6a0pgQDztJ44FdNY9h0GfY"
+      "duration_ms": 131333,
+      "name": "La isla del sol",
+      "url": "https://open.spotify.com/track/0HBn23L8dzvkSnyeLhlsCD"
     },
     {
       "added_at": "2024-02-29 22:13:03",
@@ -819,6 +819,22 @@
     {
       "added_at": "2024-02-29 22:13:03",
       "album": {
+        "name": "La Mexicana - Single",
+        "url": "https://open.spotify.com/album/4uJT1I6IOjTQoXRgvK5OQy"
+      },
+      "artists": [
+        {
+          "name": "Conociendo Rusia",
+          "url": "https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2"
+        }
+      ],
+      "duration_ms": 206738,
+      "name": "La Mexicana",
+      "url": "https://open.spotify.com/track/6a0pgQDztJ44FdNY9h0GfY"
+    },
+    {
+      "added_at": "2024-02-29 22:13:03",
+      "album": {
         "name": "Feroza",
         "url": "https://open.spotify.com/album/3Ear2Vze1ZV4JDk4ZfWp2A"
       },
@@ -831,22 +847,6 @@
       "duration_ms": 178756,
       "name": "Susurrito",
       "url": "https://open.spotify.com/track/7btTCfo8fyFOhqFXFdMi7b"
-    },
-    {
-      "added_at": "2024-02-29 22:13:03",
-      "album": {
-        "name": "La Danza del Espacio Tiempo",
-        "url": "https://open.spotify.com/album/6tSTVRRPOPq1TXqB8Wea0b"
-      },
-      "artists": [
-        {
-          "name": "Koino Yokan",
-          "url": "https://open.spotify.com/artist/31kgZWvoPhxDcTKgVbgi3J"
-        }
-      ],
-      "duration_ms": 128981,
-      "name": "La Danza del Espacio Tiempo",
-      "url": "https://open.spotify.com/track/5YFqhC4xMQWSbdiGPUynXP"
     },
     {
       "added_at": "2024-02-29 22:13:03",
@@ -867,6 +867,22 @@
       "duration_ms": 202538,
       "name": "Vencimiento",
       "url": "https://open.spotify.com/track/1zFeJhyNJOnzm0nS20t3HX"
+    },
+    {
+      "added_at": "2024-02-29 22:13:03",
+      "album": {
+        "name": "La Danza del Espacio Tiempo",
+        "url": "https://open.spotify.com/album/6tSTVRRPOPq1TXqB8Wea0b"
+      },
+      "artists": [
+        {
+          "name": "Koino Yokan",
+          "url": "https://open.spotify.com/artist/31kgZWvoPhxDcTKgVbgi3J"
+        }
+      ],
+      "duration_ms": 128981,
+      "name": "La Danza del Espacio Tiempo",
+      "url": "https://open.spotify.com/track/5YFqhC4xMQWSbdiGPUynXP"
     },
     {
       "added_at": "2024-02-29 22:13:03",
@@ -1103,22 +1119,6 @@
     {
       "added_at": "2024-02-29 22:13:03",
       "album": {
-        "name": "Verano en Invierno",
-        "url": "https://open.spotify.com/album/54NK5gk2Gx0fkycE2hUiM5"
-      },
-      "artists": [
-        {
-          "name": "un muerto mas",
-          "url": "https://open.spotify.com/artist/31BzLsWVOEfGQTDIe6atC0"
-        }
-      ],
-      "duration_ms": 228437,
-      "name": "Amor de Verano",
-      "url": "https://open.spotify.com/track/2XvJurdJip7XdjW1j1EfS8"
-    },
-    {
-      "added_at": "2024-02-29 22:13:03",
-      "album": {
         "name": "EME",
         "url": "https://open.spotify.com/album/2iLF9iKotpW9QVlX2hJo2T"
       },
@@ -1155,6 +1155,22 @@
     {
       "added_at": "2024-02-29 22:13:03",
       "album": {
+        "name": "Verano en Invierno",
+        "url": "https://open.spotify.com/album/54NK5gk2Gx0fkycE2hUiM5"
+      },
+      "artists": [
+        {
+          "name": "un muerto mas",
+          "url": "https://open.spotify.com/artist/31BzLsWVOEfGQTDIe6atC0"
+        }
+      ],
+      "duration_ms": 228437,
+      "name": "Amor de Verano",
+      "url": "https://open.spotify.com/track/2XvJurdJip7XdjW1j1EfS8"
+    },
+    {
+      "added_at": "2024-02-29 22:13:03",
+      "album": {
         "name": "Ojitos de Md (Remix)",
         "url": "https://open.spotify.com/album/3gYti5PmUFrV9NnJim60Ik"
       },
@@ -1187,6 +1203,22 @@
       "duration_ms": 233042,
       "name": "Paradisco",
       "url": "https://open.spotify.com/track/5I1D6tt50g9X57gpaKt8sH"
+    },
+    {
+      "added_at": "2024-02-29 22:13:03",
+      "album": {
+        "name": "Silvia",
+        "url": "https://open.spotify.com/album/1wI1VI8bdgUsK7HhQO0s3l"
+      },
+      "artists": [
+        {
+          "name": "Sof\u00eda Vald\u00e9s",
+          "url": "https://open.spotify.com/artist/0caswMNVJ7vPNC1Z7NOeCT"
+        }
+      ],
+      "duration_ms": 153139,
+      "name": "Silvia",
+      "url": "https://open.spotify.com/track/2DpArGENg7A5LnuwkEfyeR"
     },
     {
       "added_at": "2024-02-29 22:13:03",
@@ -1259,38 +1291,6 @@
     {
       "added_at": "2024-02-29 22:13:03",
       "album": {
-        "name": "Silvia",
-        "url": "https://open.spotify.com/album/1wI1VI8bdgUsK7HhQO0s3l"
-      },
-      "artists": [
-        {
-          "name": "Sof\u00eda Vald\u00e9s",
-          "url": "https://open.spotify.com/artist/0caswMNVJ7vPNC1Z7NOeCT"
-        }
-      ],
-      "duration_ms": 153139,
-      "name": "Silvia",
-      "url": "https://open.spotify.com/track/2DpArGENg7A5LnuwkEfyeR"
-    },
-    {
-      "added_at": "2024-02-29 22:13:03",
-      "album": {
-        "name": "La Negaci\u00f3n",
-        "url": "https://open.spotify.com/album/6HVV8a7LZBFRoSdlMZjIu2"
-      },
-      "artists": [
-        {
-          "name": "Malena Villa",
-          "url": "https://open.spotify.com/artist/0RlibgJa8rtPvVn415J6WN"
-        }
-      ],
-      "duration_ms": 177818,
-      "name": "Lindos Problemas",
-      "url": "https://open.spotify.com/track/414ts7HIQUC1e8cQ4OwiCJ"
-    },
-    {
-      "added_at": "2024-02-29 22:13:03",
-      "album": {
         "name": "El Tesoro - Picnic En el Piso Doce",
         "url": "https://open.spotify.com/album/5ChGm7ffNc5DUPp9qjLhDj"
       },
@@ -1311,6 +1311,22 @@
       "duration_ms": 242911,
       "name": "El Tesoro - Picnic En el Piso Doce",
       "url": "https://open.spotify.com/track/32MBMGvoLp04yGrHnkNEh4"
+    },
+    {
+      "added_at": "2024-02-29 22:13:03",
+      "album": {
+        "name": "La Negaci\u00f3n",
+        "url": "https://open.spotify.com/album/6HVV8a7LZBFRoSdlMZjIu2"
+      },
+      "artists": [
+        {
+          "name": "Malena Villa",
+          "url": "https://open.spotify.com/artist/0RlibgJa8rtPvVn415J6WN"
+        }
+      ],
+      "duration_ms": 177818,
+      "name": "Lindos Problemas",
+      "url": "https://open.spotify.com/track/414ts7HIQUC1e8cQ4OwiCJ"
     },
     {
       "added_at": "2024-02-29 22:13:03",
@@ -1347,6 +1363,26 @@
     {
       "added_at": "2024-02-29 22:13:03",
       "album": {
+        "name": "Estamos Bajo el Agua",
+        "url": "https://open.spotify.com/album/36rh05hGcnspz2thYgqVEv"
+      },
+      "artists": [
+        {
+          "name": "Agus Vivo",
+          "url": "https://open.spotify.com/artist/6aULl90kAb6JwNUYjIgUdW"
+        },
+        {
+          "name": "Ine Maguire",
+          "url": "https://open.spotify.com/artist/4qAPGbDVkkSdOGo2OEKFqz"
+        }
+      ],
+      "duration_ms": 151619,
+      "name": "Estamos Bajo el Agua",
+      "url": "https://open.spotify.com/track/2qFVAC8H6C3MsbkvIB2v4V"
+    },
+    {
+      "added_at": "2024-02-29 22:13:03",
+      "album": {
         "name": "La Gata Bajo la Lluvia",
         "url": "https://open.spotify.com/album/6u6M74UiYA4AFgy9tlhkEw"
       },
@@ -1375,26 +1411,6 @@
       "duration_ms": 169604,
       "name": "Acto de Fe",
       "url": "https://open.spotify.com/track/6aV7Ohi6SKDBlTuFIwycBM"
-    },
-    {
-      "added_at": "2024-02-29 22:13:03",
-      "album": {
-        "name": "Estamos Bajo el Agua",
-        "url": "https://open.spotify.com/album/36rh05hGcnspz2thYgqVEv"
-      },
-      "artists": [
-        {
-          "name": "Agus Vivo",
-          "url": "https://open.spotify.com/artist/6aULl90kAb6JwNUYjIgUdW"
-        },
-        {
-          "name": "Ine Maguire",
-          "url": "https://open.spotify.com/artist/4qAPGbDVkkSdOGo2OEKFqz"
-        }
-      ],
-      "duration_ms": 151619,
-      "name": "Estamos Bajo el Agua",
-      "url": "https://open.spotify.com/track/2qFVAC8H6C3MsbkvIB2v4V"
     },
     {
       "added_at": "2024-02-29 22:13:03",
@@ -1475,6 +1491,22 @@
     {
       "added_at": "2024-02-29 22:13:03",
       "album": {
+        "name": "Ni\u00f1o Eterno",
+        "url": "https://open.spotify.com/album/5DmMhffyPry4XTTZ8pqLLU"
+      },
+      "artists": [
+        {
+          "name": "Cardellino",
+          "url": "https://open.spotify.com/artist/7HFja6X48hWE58m3pQnGV0"
+        }
+      ],
+      "duration_ms": 161617,
+      "name": "Nin\u0303o Eterno",
+      "url": "https://open.spotify.com/track/5k9BQy4WkF51faNL3UD71I"
+    },
+    {
+      "added_at": "2024-02-29 22:13:03",
+      "album": {
         "name": "Historia de un Amor",
         "url": "https://open.spotify.com/album/7GNyEER5rbwEVpAWeep70c"
       },
@@ -1491,22 +1523,6 @@
       "duration_ms": 165000,
       "name": "Historia de un Amor",
       "url": "https://open.spotify.com/track/1ummXcPcrn21a5OFOjHlpT"
-    },
-    {
-      "added_at": "2024-02-29 22:13:03",
-      "album": {
-        "name": "Ni\u00f1o Eterno",
-        "url": "https://open.spotify.com/album/5DmMhffyPry4XTTZ8pqLLU"
-      },
-      "artists": [
-        {
-          "name": "Cardellino",
-          "url": "https://open.spotify.com/artist/7HFja6X48hWE58m3pQnGV0"
-        }
-      ],
-      "duration_ms": 161617,
-      "name": "Nin\u0303o Eterno",
-      "url": "https://open.spotify.com/track/5k9BQy4WkF51faNL3UD71I"
     },
     {
       "added_at": "2024-02-29 22:13:03",
@@ -1551,22 +1567,6 @@
     {
       "added_at": "2024-02-29 22:13:03",
       "album": {
-        "name": "El Momento Perfecto",
-        "url": "https://open.spotify.com/album/5tHjR6ANArX00z5PzAhOvS"
-      },
-      "artists": [
-        {
-          "name": "El Zar",
-          "url": "https://open.spotify.com/artist/1cj1ov4uZ0Htsx9PWDpNvi"
-        }
-      ],
-      "duration_ms": 201661,
-      "name": "El Momento Perfecto",
-      "url": "https://open.spotify.com/track/4OGw9dLKXsntDtdG1GLORh"
-    },
-    {
-      "added_at": "2024-02-29 22:13:03",
-      "album": {
         "name": "Tripolar",
         "url": "https://open.spotify.com/album/6ud8dLSruWnM0i6qdIBHjS"
       },
@@ -1603,6 +1603,22 @@
     {
       "added_at": "2024-02-29 22:13:03",
       "album": {
+        "name": "El Momento Perfecto",
+        "url": "https://open.spotify.com/album/5tHjR6ANArX00z5PzAhOvS"
+      },
+      "artists": [
+        {
+          "name": "El Zar",
+          "url": "https://open.spotify.com/artist/1cj1ov4uZ0Htsx9PWDpNvi"
+        }
+      ],
+      "duration_ms": 201661,
+      "name": "El Momento Perfecto",
+      "url": "https://open.spotify.com/track/4OGw9dLKXsntDtdG1GLORh"
+    },
+    {
+      "added_at": "2024-02-29 22:13:03",
+      "album": {
         "name": "MILLONES",
         "url": "https://open.spotify.com/album/0LuHp5vuF8zABveZHjoGgH"
       },
@@ -1635,22 +1651,6 @@
     {
       "added_at": "2024-02-29 22:13:03",
       "album": {
-        "name": "Helado de Mango",
-        "url": "https://open.spotify.com/album/0aWD6AMbVemB4o2jJhiBub"
-      },
-      "artists": [
-        {
-          "name": "Na\u00efa Valdez",
-          "url": "https://open.spotify.com/artist/1WE5kYBn5jgJyzXroKVktA"
-        }
-      ],
-      "duration_ms": 208434,
-      "name": "Helado de Mango",
-      "url": "https://open.spotify.com/track/6Ic36Kj94nFDc2NHsqvo59"
-    },
-    {
-      "added_at": "2024-02-29 22:13:03",
-      "album": {
         "name": "GUARACHA",
         "url": "https://open.spotify.com/album/2tpbzolBdNXm5WVM1RQRxy"
       },
@@ -1663,6 +1663,22 @@
       "duration_ms": 157688,
       "name": "GUARACHA",
       "url": "https://open.spotify.com/track/4tuROO3SXDAlA7bbKXB0Vm"
+    },
+    {
+      "added_at": "2024-02-29 22:13:03",
+      "album": {
+        "name": "Helado de Mango",
+        "url": "https://open.spotify.com/album/0aWD6AMbVemB4o2jJhiBub"
+      },
+      "artists": [
+        {
+          "name": "Na\u00efa Valdez",
+          "url": "https://open.spotify.com/artist/1WE5kYBn5jgJyzXroKVktA"
+        }
+      ],
+      "duration_ms": 208434,
+      "name": "Helado de Mango",
+      "url": "https://open.spotify.com/track/6Ic36Kj94nFDc2NHsqvo59"
     },
     {
       "added_at": "2024-02-29 22:13:03",
@@ -1747,22 +1763,6 @@
       "duration_ms": 196034,
       "name": "Hace rato",
       "url": "https://open.spotify.com/track/0QoKaa9fZSFmz9R61OVkTR"
-    },
-    {
-      "added_at": "2024-02-29 22:13:03",
-      "album": {
-        "name": "Ay, Amor",
-        "url": "https://open.spotify.com/album/5XjIM5OdxYD9EfxxfGRvvk"
-      },
-      "artists": [
-        {
-          "name": "Dulce y Agraz",
-          "url": "https://open.spotify.com/artist/5cD6bctPV8wtKpO4o8ZtTQ"
-        }
-      ],
-      "duration_ms": 213041,
-      "name": "Ay, Amor \u2665\ufe0e",
-      "url": "https://open.spotify.com/track/1ZgKtZeMCBkT8inB4HKAtS"
     }
   ],
   "unique_name": "Radio Indie",

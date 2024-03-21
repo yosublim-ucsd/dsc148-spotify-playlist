@@ -1,12 +1,12 @@
 {
   "description": "Hits e cl\u00e1ssicos para jogar sua energia l\u00e1 em cima! ",
-  "num_followers": 739882,
+  "num_followers": 740016,
   "original_name": "ALTO ASTRAL",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4YjdlY2E5OGYzMjlhMjNhYzQyODk5ZTFkNWNjN2YyYjYxODAzYTkw",
+  "snapshot_id": "MCxiODljZGZiZGExZjVkOThjMTYzMTFlMGVkNGIwYzRhNjJjY2RiNGQz",
   "tracks": [
     {
       "added_at": "2024-01-12 00:27:59",
@@ -907,22 +907,6 @@
     {
       "added_at": "2024-01-12 00:27:59",
       "album": {
-        "name": "Laundry Service",
-        "url": "https://open.spotify.com/album/4DyMK9x2gnmRkRa16zHaEV"
-      },
-      "artists": [
-        {
-          "name": "Shakira",
-          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
-        }
-      ],
-      "duration_ms": 196160,
-      "name": "Whenever, Wherever",
-      "url": "https://open.spotify.com/track/2lnzGkdtDj5mtlcOW2yRtG"
-    },
-    {
-      "added_at": "2024-01-12 00:27:59",
-      "album": {
         "name": "Shower",
         "url": "https://open.spotify.com/album/4JlzEvVJqpb62Xwc0EmOHr"
       },
@@ -935,6 +919,22 @@
       "duration_ms": 206166,
       "name": "Shower",
       "url": "https://open.spotify.com/track/3DmW6y7wTEYHJZlLo1r6XJ"
+    },
+    {
+      "added_at": "2024-01-12 00:27:59",
+      "album": {
+        "name": "Laundry Service",
+        "url": "https://open.spotify.com/album/4DyMK9x2gnmRkRa16zHaEV"
+      },
+      "artists": [
+        {
+          "name": "Shakira",
+          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+        }
+      ],
+      "duration_ms": 196160,
+      "name": "Whenever, Wherever",
+      "url": "https://open.spotify.com/track/2lnzGkdtDj5mtlcOW2yRtG"
     },
     {
       "added_at": "2024-01-12 00:27:59",

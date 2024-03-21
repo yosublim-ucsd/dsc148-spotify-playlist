@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXG4Kg5rawni.md) - [plain]
 
 > Amor abençoado por Deus.
 
-[Spotify](https://open.spotify.com/user/spotify) - 99,350 likes - 65 songs - 4 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 99,404 likes - 65 songs - 4 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,23 +27,23 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXG4Kg5rawni.md) - [plain]
 | 17 | [Deus Me Deu Você](https://open.spotify.com/track/2UfgNRxseC9S9Hmf8sW7tm) | [Thiago e Jéssica](https://open.spotify.com/artist/47Avc96OLqdMeyZldOlIhF) | [Deus Me Deu Você](https://open.spotify.com/album/27QzsDGSDFsnEQMqf6CyOl) | 4:23 |
 | 18 | [Era Você](https://open.spotify.com/track/2pBNf05NfW1nrQqblf8VO0) | [Wilian Nascimento](https://open.spotify.com/artist/4PjjeofQKolTepWdilslSR) | [Lugar Mais Alto](https://open.spotify.com/album/4MwD9JVQ5rjY79jrO2ak9G) | 4:36 |
 | 19 | [Deus, Você e Eu](https://open.spotify.com/track/0WD0mcZTnBLhdHAvpSNy51) | [Saulo Vianna](https://open.spotify.com/artist/758WjLdtMlNGzWtoUaJCHe) | [Aperfeiçoou](https://open.spotify.com/album/3G5Gf6znSZ9gdIJBBc2tqD) | 3:59 |
-| 20 | [Meu Bem](https://open.spotify.com/track/10xATNb0pIGuxHD31B6EFb) | [Marcela Tais](https://open.spotify.com/artist/5gkNoT08CuWtH3NOwrdvrt) | [Meu Bem](https://open.spotify.com/album/5EXAIjwCYVpVZ5xEgWF4Dd) | 3:50 |
+| 20 | [Disse Sim](https://open.spotify.com/track/3nzRymxESTUVKiIJ2Hr7jy) | [Mariana Aguiar](https://open.spotify.com/artist/5htTpNujBXYl3Dtsdw3fOw) | [Disse Sim](https://open.spotify.com/album/05znoZeEDSkuU66gVAEi9Y) | 3:21 |
 | 21 | [Um Verso de Amor](https://open.spotify.com/track/5P8LnyPsmeNztjsir8e5ke) | [Pamela](https://open.spotify.com/artist/2utzgF5vzJfGqZPHBGFtrG), [Alex Gonzaga](https://open.spotify.com/artist/7uGIP1PFDEHgHsmO2kWJEd) | [Pamela Falando de Amor](https://open.spotify.com/album/1GGLOuf5RpSgokroQqOFHU) | 4:44 |
-| 22 | [Disse Sim](https://open.spotify.com/track/3nzRymxESTUVKiIJ2Hr7jy) | [Mariana Aguiar](https://open.spotify.com/artist/5htTpNujBXYl3Dtsdw3fOw) | [Disse Sim](https://open.spotify.com/album/05znoZeEDSkuU66gVAEi9Y) | 3:21 |
+| 22 | [Meu Bem](https://open.spotify.com/track/10xATNb0pIGuxHD31B6EFb) | [Marcela Tais](https://open.spotify.com/artist/5gkNoT08CuWtH3NOwrdvrt) | [Meu Bem](https://open.spotify.com/album/5EXAIjwCYVpVZ5xEgWF4Dd) | 3:50 |
 | 23 | [A Perfeição de Deus](https://open.spotify.com/track/4Y2OYqXrNvozhJn8QY7UAO) | [Ton Carfi](https://open.spotify.com/artist/4IefiwlkKHUFoRdBsGj756) | [Cantando o Amor Vol\. 2](https://open.spotify.com/album/2T1fi32Ku2MXPzS0NQlCOU) | 5:03 |
 | 24 | [Como Eu Não Poderia Amar Você](https://open.spotify.com/track/4iN9STysQ3gjrpsKkv8EoW) | [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR) | [Como Eu Não Poderia Amar Você](https://open.spotify.com/album/7rFskntBzgFrrDxG76VHCT) | 4:27 |
 | 25 | [Don Juan](https://open.spotify.com/track/1y3SxHr9aDEcy69mabuDBE) | [Wilian Nascimento](https://open.spotify.com/artist/4PjjeofQKolTepWdilslSR) | [Wilian Nascimento Falando de Amor](https://open.spotify.com/album/66cFFmk9f3pqGsvVVYaDXj) | 3:27 |
 | 26 | [Meu Eterno Namorado](https://open.spotify.com/track/6fCkIEUDpl8mBQKkQe5h9O) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [Aline Barros \- Som Gospel](https://open.spotify.com/album/3IJpPRPjIDDkNVgdrwvuoe) | 4:42 |
 | 27 | [Te Amo](https://open.spotify.com/track/4ri0UC7hws6BdVYyrKMSCg) | [Bruna Karla e Anderson Freire](https://open.spotify.com/artist/6atbugoUErn0KuLPnAvvi0) | [Amo Você Vol\. 17](https://open.spotify.com/album/1TrtJ1uPEolNGRW4tC2QzM) | 3:40 |
-| 28 | [Escolhi Te Esperar](https://open.spotify.com/track/0Ifj8NQ3Xl2Ia9s6XCphrz) | [Marcela Tais](https://open.spotify.com/artist/5gkNoT08CuWtH3NOwrdvrt) | [Cabelo solto \- Playback](https://open.spotify.com/album/2FoLg1Bm7PED4YTIayK0Cg) | 3:56 |
-| 29 | [Com Você](https://open.spotify.com/track/7dsOIrjQZbRgNg6KNWPYYJ) | [Cassiane e Jairinho](https://open.spotify.com/artist/754GsjALc0WkYIDzrf6e7H), [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3) | [Com Você](https://open.spotify.com/album/54ci89R6xdQfxdsQLgH1no) | 3:43 |
+| 28 | [Com Você](https://open.spotify.com/track/7dsOIrjQZbRgNg6KNWPYYJ) | [Cassiane e Jairinho](https://open.spotify.com/artist/754GsjALc0WkYIDzrf6e7H), [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3) | [Com Você](https://open.spotify.com/album/54ci89R6xdQfxdsQLgH1no) | 3:43 |
+| 29 | [Escolhi Te Esperar](https://open.spotify.com/track/0Ifj8NQ3Xl2Ia9s6XCphrz) | [Marcela Tais](https://open.spotify.com/artist/5gkNoT08CuWtH3NOwrdvrt) | [Cabelo solto \- Playback](https://open.spotify.com/album/2FoLg1Bm7PED4YTIayK0Cg) | 3:56 |
 | 30 | [Eu te Amo](https://open.spotify.com/track/3r9MGWtEhYs21v7HGpDa2X) | [Paloma Possi](https://open.spotify.com/artist/322iN0WHlqAkxvgRrYpikS), [Melk Vilar](https://open.spotify.com/artist/6jNeGEo4cKvVRmsKwwJyvN) | [Cantando o Amor Vol\. 2](https://open.spotify.com/album/2T1fi32Ku2MXPzS0NQlCOU) | 4:17 |
 | 31 | [Meu Sonho](https://open.spotify.com/track/3gpr0jaK2CXuv2EZKAHHGd) | [Eyshila](https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW) | [Eyshila Falando de Amor](https://open.spotify.com/album/34ioOgwliXxkWJ6aJOn96Y) | 4:18 |
 | 32 | [Pra Sempre](https://open.spotify.com/track/7iKNtzU0VMgqzJRX742e0j) | [Thiago Grulha](https://open.spotify.com/artist/41gACtL0EdNfVnvT71cLRu) | [Somos Iguais \(Ao Vivo\)](https://open.spotify.com/album/671MLGdr5GnsPqhA8ffxER) | 2:35 |
 | 33 | [Isso é Amor](https://open.spotify.com/track/4zmStTJkuik7l8IJA0BeaM) | [Paulo Cesar Baruk](https://open.spotify.com/artist/0GQKmEguhkY8DCzH4NdJvD), [Rebeca Nemer](https://open.spotify.com/artist/1mQU9ZMrrU8FcbjfePJBsk) | [Cantando o Amor Vol\. 2](https://open.spotify.com/album/2T1fi32Ku2MXPzS0NQlCOU) | 3:52 |
 | 34 | [Mulher Realizada](https://open.spotify.com/track/07sWgafvUjgP9mKL9vSNlr) | [Elaine Martins](https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8) | [Mulher Realizada](https://open.spotify.com/album/18bVJJdeAVcHazavEgaX74) | 4:17 |
-| 35 | [Presente de Deus](https://open.spotify.com/track/4KbeQFTT9sAdu95SOsdvzS) | [Oficina do Som](https://open.spotify.com/artist/27ETia5GYLx019IIaPt5Ha), [Renato Vianna](https://open.spotify.com/artist/0rbot8VBGRQ5ac2OQDvqd7) | [Presente de Deus](https://open.spotify.com/album/4LwrqbJBtTPzv1b4t8Rq6W) | 3:29 |
-| 36 | [Só Você](https://open.spotify.com/track/2feCY4xsBplBAsiTmqVt4o) | [Mariana Aguiar](https://open.spotify.com/artist/5htTpNujBXYl3Dtsdw3fOw) | [Só Você](https://open.spotify.com/album/1DidIBN9aVQUIU46UqxohJ) | 3:45 |
+| 35 | [Só Você](https://open.spotify.com/track/2feCY4xsBplBAsiTmqVt4o) | [Mariana Aguiar](https://open.spotify.com/artist/5htTpNujBXYl3Dtsdw3fOw) | [Só Você](https://open.spotify.com/album/1DidIBN9aVQUIU46UqxohJ) | 3:45 |
+| 36 | [Presente de Deus](https://open.spotify.com/track/4KbeQFTT9sAdu95SOsdvzS) | [Oficina do Som](https://open.spotify.com/artist/27ETia5GYLx019IIaPt5Ha), [Renato Vianna](https://open.spotify.com/artist/0rbot8VBGRQ5ac2OQDvqd7) | [Presente de Deus](https://open.spotify.com/album/4LwrqbJBtTPzv1b4t8Rq6W) | 3:29 |
 | 37 | [Música Favorita ♾](https://open.spotify.com/track/6BhiOuSlMS1LtazjK2XfDQ) | [Daniela Araújo](https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC), [André Nine](https://open.spotify.com/artist/5cc7XCY3YdVmFDYw9LklMq), [Jorginho Araújo](https://open.spotify.com/artist/4r2RITYiPz9BqPPNGNHJIs) | [Música Favorita \(Água\)](https://open.spotify.com/album/0eyz2DKPN8JHZ96BkXom3l) | 4:13 |
 | 38 | [O Jeito Que Você Me Olha](https://open.spotify.com/track/4XmKI6f9r1sZT1jYegZnoj) | [Daniel Lüdtke](https://open.spotify.com/artist/3f0bV2cF70GNSrGlv7i2Wa), [Marla Lüdtke](https://open.spotify.com/artist/5zbO4gq0wZSAWW6LvawKDd) | [O Jeito Que Você Me Olha](https://open.spotify.com/album/3c26dSii5qXsMvfWOMlWRF) | 3:18 |
 | 39 | [Meu Bem](https://open.spotify.com/track/5EmqOgQm6OD97oxkUGJOsA) | [Vanderson Santos](https://open.spotify.com/artist/0qmGMjtYTEdwGXCiMO9uXM) | [Meu Bem](https://open.spotify.com/album/7tAd298Bqlq5r9WQ6tq8F2) | 2:07 |
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXG4Kg5rawni.md) - [plain]
 | 64 | [Minha Jóia Rara](https://open.spotify.com/track/1PbHuaCO9IrBt51mwcV93I) | [Michelle Nascimento](https://open.spotify.com/artist/2UBlQ9pjsNtW0uSCWkKmHq) | [Amo Você Vol\. 18](https://open.spotify.com/album/6ZtjVbQ1Fo4d5xn47KfF11) | 3:58 |
 | 65 | [Nós](https://open.spotify.com/track/1qtrPeMQzHn3XZiCEQBYTC) | [Gabriel Bulian](https://open.spotify.com/artist/5eihOAXqmEGCMspHHPSIa0) | [Nós](https://open.spotify.com/album/2YzYffMkuUaJfpcV0MrAu7) | 2:54 |
 
-Snapshot ID: `MCw5M2M5ZjI1NzNlMWIyYTg5ODMwYjdmY2UyYzY2ZWI0YjMxMzc1NmE3`
+Snapshot ID: `MCw4ZjkyYzZhNzg0MGM3ODBlZmQ1Y2Q1ODQ1MjU3MTllYWU1YTRjMzMw`

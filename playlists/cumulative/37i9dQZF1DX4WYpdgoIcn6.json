@@ -3696,10 +3696,28 @@
       ],
       "date_added": "2024-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-21",
       "duration_ms": 232133,
       "name": "Deeper Well",
       "url": "https://open.spotify.com/track/2lJn77IeZAP9cmv6DPXOrL"
+    },
+    {
+      "album": {
+        "name": "Deeper Well",
+        "url": "https://open.spotify.com/album/5SxZmGwc4eJuPp6PcO4JgJ"
+      },
+      "artists": [
+        {
+          "name": "Kacey Musgraves",
+          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
+        }
+      ],
+      "date_added": "2024-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232133,
+      "name": "Deeper Well",
+      "url": "https://open.spotify.com/track/333XFHKsHU0pOocFzBgrJi"
     },
     {
       "album": {
@@ -4168,7 +4186,7 @@
       ],
       "date_added": "2022-07-07",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-16",
+      "date_removed": null,
       "duration_ms": 213133,
       "name": "drunk text me",
       "url": "https://open.spotify.com/track/5gukv8x9eP58gFy2OcZEBQ"
@@ -5967,7 +5985,7 @@
     },
     {
       "album": {
-        "name": "GHOST TOWN",
+        "name": "Ghost Town",
         "url": "https://open.spotify.com/album/4NTDxbwbo2rMGMm6U9UAEP"
       },
       "artists": [
@@ -5980,7 +5998,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 193733,
-      "name": "GHOST TOWN",
+      "name": "Ghost Town",
       "url": "https://open.spotify.com/track/135Lf4Q0CzlMNfOxbEUsLH"
     },
     {
@@ -15234,7 +15252,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-21",
       "duration_ms": 185422,
       "name": "The Joker And The Queen (feat. Taylor Swift)",
       "url": "https://open.spotify.com/track/6N1K5OVVCopBjGViHs2IvP"

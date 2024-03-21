@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/13ysCUxRu2H1rcftAcPUSm">ELENA ROSE</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-159 songs - 8 hr 10 min
+160 songs - 8 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,6 +30,7 @@
 | [Brindo](https://open.spotify.com/track/1RbwjbhpV4YA49mBCOJ8cR) | [Rawayana](https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2) | [¿Quién trae las cornetas?](https://open.spotify.com/album/3UedVnaIbI3SRuMLClWiJ3) | 4:44 | 2024-01-29 |  |
 | [Buscando Amor](https://open.spotify.com/track/5plZgpPu4LQpfj206Z5Uuy) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [Revelación \- EP](https://open.spotify.com/album/2jGa3OwXatFYQAIS7OV7k9) | 3:08 | 2024-01-29 |  |
 | [Cabarete](https://open.spotify.com/track/3rWwKIu80IiLkGBRuPxA4y) | [Rawayana](https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2), [Xhess](https://open.spotify.com/artist/00LN1aK0qaChfg0aze4RK4) | [¿Quién trae las cornetas?](https://open.spotify.com/album/3UedVnaIbI3SRuMLClWiJ3) | 3:33 | 2024-01-29 |  |
+| [CARACAS EN EL 2000](https://open.spotify.com/track/4CUWxHauVJriW776t5lyCJ) | [ELENA ROSE](https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY), [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj), [Jerry Di](https://open.spotify.com/artist/7f02bxFbZIOVdSbYRNYvLT) | [CARACAS EN EL 2000](https://open.spotify.com/album/3Sn2sIMx8CvcWSoDPvt0IV) | 3:47 | 2024-03-20 |  |
 | [Carne y Hueso](https://open.spotify.com/track/21dCU6wWhGDjrrvgg7g4NM) | [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp) | [Cupido](https://open.spotify.com/album/3HWlgRjxW0H7fWm1n2LBbE) | 2:58 | 2024-02-01 |  |
 | [Carne y Hueso](https://open.spotify.com/track/0a80IRu0hisxuELg8YKcsT) | [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp) | [Carne y Hueso \(Video Oficial\)](https://open.spotify.com/album/7ECvxMNyVJI15lB3N8dwLb) | 3:07 | 2024-01-29 | 2024-02-02 |
 | [Celosa](https://open.spotify.com/track/7jD6f0JGn3S4wwQlx9P5g3) | [ANGEL22](https://open.spotify.com/artist/77dCZ05TEfVFypRDzM1R44) | [ANGEL22](https://open.spotify.com/album/5uXD1YCyJ5Cwh7O0JHWnVL) | 2:30 | 2024-01-29 |  |

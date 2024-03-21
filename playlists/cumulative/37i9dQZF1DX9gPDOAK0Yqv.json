@@ -3920,8 +3920,8 @@
           "url": "https://open.spotify.com/artist/7fMAxXqd5hhcwbC1d0VkLQ"
         },
         {
-          "name": "CAY",
-          "url": "https://open.spotify.com/artist/6b4QyOnN3PNRtu3MioP5Gj"
+          "name": "CAY (DE)",
+          "url": "https://open.spotify.com/artist/2ug2jpxDeOgYfYleeYzg2K"
         }
       ],
       "date_added": "2024-01-26",
@@ -5963,6 +5963,28 @@
     },
     {
       "album": {
+        "name": "New World",
+        "url": "https://open.spotify.com/album/34eqkiNdakhMaOmklFTpOv"
+      },
+      "artists": [
+        {
+          "name": "Argy",
+          "url": "https://open.spotify.com/artist/1NaQOKgddaJipUtmptb7GI"
+        },
+        {
+          "name": "Goom Gum",
+          "url": "https://open.spotify.com/artist/6D36JCiONtO40ykvT5RBec"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272255,
+      "name": "Pantheon",
+      "url": "https://open.spotify.com/track/2JoOFFQnOG8LH01koNUE0w"
+    },
+    {
+      "album": {
         "name": "Pantheon",
         "url": "https://open.spotify.com/album/6CCx2uI8l08YutD22C7BvT"
       },
@@ -6290,7 +6312,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-21",
       "duration_ms": 212119,
       "name": "Pressure",
       "url": "https://open.spotify.com/track/6NXhcyMDzhtAVHTmkGGBPo"

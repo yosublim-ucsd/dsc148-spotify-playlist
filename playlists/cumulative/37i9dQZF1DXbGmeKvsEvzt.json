@@ -914,7 +914,7 @@
     {
       "album": {
         "name": "Tempted",
-        "url": "https://open.spotify.com/album/5KefTVJlpmOtVTp9xnp1Yi"
+        "url": "https://open.spotify.com/album/6kxcdsI6oyAMy33mrDtpYr"
       },
       "artists": [
         {
@@ -937,6 +937,36 @@
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 163422,
+      "name": "Tempted",
+      "url": "https://open.spotify.com/track/48wm8IuVNplvwACI68UYK5"
+    },
+    {
+      "album": {
+        "name": "Tempted",
+        "url": "https://open.spotify.com/album/5KefTVJlpmOtVTp9xnp1Yi"
+      },
+      "artists": [
+        {
+          "name": "Rhedi",
+          "url": "https://open.spotify.com/artist/6i90MGejsqG2b8XgqDlTUI"
+        },
+        {
+          "name": "Balloranking",
+          "url": "https://open.spotify.com/artist/0GCgnG9YEbz5i9ASbvZNTP"
+        },
+        {
+          "name": "Kashcoming",
+          "url": "https://open.spotify.com/artist/5yJLqKU6LRfzliSQIVnJMI"
+        },
+        {
+          "name": "Lyta",
+          "url": "https://open.spotify.com/artist/5Vok15YfAjyyCbUg5YBRGE"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": "2024-03-21",
       "duration_ms": 163422,
       "name": "Tempted",
       "url": "https://open.spotify.com/track/4V9v5ehAQpFyZ3GQQhCGT7"

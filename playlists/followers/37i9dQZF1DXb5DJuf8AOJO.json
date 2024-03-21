@@ -1,5 +1,5 @@
 {
-  "2024-03-20": 148204,
+  "2024-03-21": 148219,
   "date_first_scraped": "2024-01-07",
   "description": "Lift our voices to Him.",
   "name": "Papuri",
@@ -448,6 +448,24 @@
     },
     {
       "album": {
+        "name": "Anymore",
+        "url": "https://open.spotify.com/album/2HvfpZ2fuWSYVEdWFcEXuV"
+      },
+      "artists": [
+        {
+          "name": "Ateneo Chamber Singers",
+          "url": "https://open.spotify.com/artist/6BhC65tVU4pWgyZMs5fv3U"
+        }
+      ],
+      "date_added": "2024-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288026,
+      "name": "Anymore",
+      "url": "https://open.spotify.com/track/0BOedVTS0E2O9wSMGO2q1u"
+    },
+    {
+      "album": {
         "name": "The Best of Himig Heswita",
         "url": "https://open.spotify.com/album/1UisCmHotQMsETnew729pL"
       },
@@ -752,6 +770,24 @@
     },
     {
       "album": {
+        "name": "The Best of Himig Heswita",
+        "url": "https://open.spotify.com/album/4GWdOVJz8t8QsXNqGDY2uj"
+      },
+      "artists": [
+        {
+          "name": "Himig Heswita",
+          "url": "https://open.spotify.com/artist/5vbrczoZLVdjnPuXS7pIt2"
+        }
+      ],
+      "date_added": "2024-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165106,
+      "name": "Bayan Umawit",
+      "url": "https://open.spotify.com/track/6yVcENxnUTDK6JC5eG0s0A"
+    },
+    {
+      "album": {
         "name": "Angelus",
         "url": "https://open.spotify.com/album/4MfBAxD5SYCgs1PpNVZOTh"
       },
@@ -945,6 +981,24 @@
       "duration_ms": 235586,
       "name": "Give Thanks",
       "url": "https://open.spotify.com/track/5lvYFJ8QPBBHV2YM1gp5tG"
+    },
+    {
+      "album": {
+        "name": "Take Part: Songs for Holy Mass",
+        "url": "https://open.spotify.com/album/4gPHjP1JlTZdPSGyERjqpG"
+      },
+      "artists": [
+        {
+          "name": "Feast Worship",
+          "url": "https://open.spotify.com/artist/36ODlPmkJ7PQJqhKC7ICIF"
+        }
+      ],
+      "date_added": "2024-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163461,
+      "name": "Glory to God",
+      "url": "https://open.spotify.com/track/4SAxylhotX2RvrCD43DAjs"
     },
     {
       "album": {
@@ -1615,6 +1669,24 @@
       "duration_ms": 251356,
       "name": "Lead Me Lord",
       "url": "https://open.spotify.com/track/31Z8a8TVSOK5qMtkCfp05m"
+    },
+    {
+      "album": {
+        "name": "Lead Me Lord",
+        "url": "https://open.spotify.com/album/2i9U09DwsC70jXSznN3dEj"
+      },
+      "artists": [
+        {
+          "name": "The Company",
+          "url": "https://open.spotify.com/artist/719ZCUqy59oGckcB1MzVTx"
+        }
+      ],
+      "date_added": "2024-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236904,
+      "name": "Lead Me Lord",
+      "url": "https://open.spotify.com/track/4dgbVC6F4toQWbqtxGUxY2"
     },
     {
       "album": {

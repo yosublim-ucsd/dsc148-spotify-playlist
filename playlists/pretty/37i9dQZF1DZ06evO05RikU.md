@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO05RikU.md) - [plain]
 
 > This is Sofía Reyes\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,290 likes - 51 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,300 likes - 51 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO05RikU.md) - [plain]
 | 28 | [El Tejano](https://open.spotify.com/track/3Wd8txJHeEkEsHvS0jIywR) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv), [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2) | [\~how i'm feeling\~](https://open.spotify.com/album/3ZuE680xhR1A4bCFGvL8mi) | 3:11 |
 | 29 | [1+1 \(feat\. Yandel & Sofía Reyes\) \- Banx & Ranx Remix](https://open.spotify.com/track/2en8KkmwWVRnAFlUueeDs0) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN), [Banx & Ranx](https://open.spotify.com/artist/2uFC1dAj5b0YU7vulKNZ0p), [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD), [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2) | [1+1 \(feat\. Yandel & Sofía Reyes\) \[Banx & Ranx Remix\]](https://open.spotify.com/album/2ds7l2UKWHAj3nKX2Pfmdz) | 3:24 |
 | 30 | [Whoppa \(feat\. Sofia Reyes and Farina\)](https://open.spotify.com/track/55BKv7jjl2JKL85vbBRnIS) | [Tinie Tempah](https://open.spotify.com/artist/0Tob4H0FLtEONHU1MjpUEp), [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2), [Farina](https://open.spotify.com/artist/7cYik4OyfBXYV5Z2TI7p90) | [Whoppa \(feat\. Sofia Reyes and Farina\)](https://open.spotify.com/album/4mpHXNkpedPXUkpBgFzZOp) | 3:37 |
-| 31 | [IDIOTA](https://open.spotify.com/track/0Wk3MRrKRn6EPG7B83nKSJ) | [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2) | [IDIOTA](https://open.spotify.com/album/5HLaq4AONQkCMvFVHswg85) | 3:25 |
-| 32 | [Duele Tanto](https://open.spotify.com/track/16lIZn8RqeQkM1NgICfq3p) | [Carlos Zaur](https://open.spotify.com/artist/6BWQiJpeXCHep8xW0vAIOk), [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2) | [Nuevos Clásicos](https://open.spotify.com/album/2NS3D1YnaTEXWc9I5SnbSe) | 3:14 |
+| 31 | [Duele Tanto](https://open.spotify.com/track/16lIZn8RqeQkM1NgICfq3p) | [Carlos Zaur](https://open.spotify.com/artist/6BWQiJpeXCHep8xW0vAIOk), [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2) | [Nuevos Clásicos](https://open.spotify.com/album/2NS3D1YnaTEXWc9I5SnbSe) | 3:14 |
+| 32 | [IDIOTA](https://open.spotify.com/track/0Wk3MRrKRn6EPG7B83nKSJ) | [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2) | [IDIOTA](https://open.spotify.com/album/5HLaq4AONQkCMvFVHswg85) | 3:25 |
 | 33 | [Palo Santo](https://open.spotify.com/track/4IXRQXyRATa71cMCL8aPqu) | [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2) | [Mal De Amores](https://open.spotify.com/album/3F5VmDv3oeerueNteT7JFc) | 3:39 |
 | 34 | [coRaZÓn fRíO](https://open.spotify.com/track/63cNIqiYClDvGsvyxaAfA3) | [Nicole Zignago](https://open.spotify.com/artist/1SflmlTg1rQ6pTBQ1CbWEP), [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2) | [coRaZÓn fRíO](https://open.spotify.com/album/1BOeRBIyle4Z12OTGe6zHn) | 3:24 |
 | 35 | [Pa' La Cultura](https://open.spotify.com/track/3MR5Lnhd6uCIgLXSK7nmyX) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [HUMAN\(X\)](https://open.spotify.com/artist/365Q4cNnnlsQErzPsUzyXY), [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2), [Abraham Mateo](https://open.spotify.com/artist/2bxxlINUlcMQQb39K7IopR), [De La Ghetto](https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb), [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B), [Zion & Lennox](https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1), [Lalo Ebratt](https://open.spotify.com/artist/1GAymyGBvB4gQy5Z5LZ1Wj), [Thalia](https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb), [Maejor](https://open.spotify.com/artist/3XcCT5MPlQPWFTJyzXbfuX) | [Pa' La Cultura](https://open.spotify.com/album/3lafienEVOSKlWKwZY1vwu) | 3:55 |
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO05RikU.md) - [plain]
 | 50 | [Cuando Estás Tú](https://open.spotify.com/track/1qZK2nOljXMWpIdOXmandN) | [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2), [Piso 21](https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd) | [Cuando Estás Tú](https://open.spotify.com/album/3af2qc7bfSXU08ecwxQAFC) | 2:57 |
 | 51 | [Treehouse](https://open.spotify.com/track/0Zrxq7AxjJQrVg013MYgU2) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM), [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2) | [Treehouse](https://open.spotify.com/album/0xDUWlPe0z4xOiBi41dmb9) | 3:09 |
 
-Snapshot ID: `Mjg1MTQxOTUsMDAwMDAwMDAwMTNlOTQxYTYzNjIyNmMzMWUxODFlZmJkYjI3NTNkNw==`
+Snapshot ID: `Mjg1MTU2NjEsMDAwMDAwMDBiOTExNWI2YjEzNGQxOTc5OGRhMjRlMTVlOGJhMTRmYg==`

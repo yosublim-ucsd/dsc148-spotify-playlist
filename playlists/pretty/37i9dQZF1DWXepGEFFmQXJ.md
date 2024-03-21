@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXepGEFFmQXJ.md) - [plain]
 
 > The cream of today's Country crop\. Cover: Lainey Wilson
 
-[Spotify](https://open.spotify.com/user/spotify) - 381,528 likes - 85 songs - 4 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 381,646 likes - 85 songs - 4 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXepGEFFmQXJ.md) - [plain]
 | 28 | [Leather](https://open.spotify.com/track/5Z4RdNOVrxle5k7rHeaROb) | [Cody Johnson](https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I) | [Leather](https://open.spotify.com/album/5CLwcVp4tfZqwxHLr77dnY) | 3:13 |
 | 29 | [Purple Irises](https://open.spotify.com/track/2IaXPHkRHIwFU3VdWT8Y8Y) | [Gwen Stefani](https://open.spotify.com/artist/4yiQZ8tQPux8cPriYMWUFP), [Blake Shelton](https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw) | [Purple Irises](https://open.spotify.com/album/1PsZW1S9Qr6uZfLSgzfjea) | 3:41 |
 | 30 | [Matching Tattoos](https://open.spotify.com/track/6Q0oVfhe6qYiwv6VNHhEAd) | [Josh Ross](https://open.spotify.com/artist/1ZGTSMjK1D2HrpPTOh916U) | [Matching Tattoos](https://open.spotify.com/album/1mlkMoZYsAX8tvNnodHDFC) | 3:00 |
-| 31 | [Too Good to be True](https://open.spotify.com/track/4vIiVs5JoNfqqRi5o7jAIb) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Too Good to be True](https://open.spotify.com/album/57y7NpfTINlnrNitu8vwft) | 2:40 |
+| 31 | [Too Good to be True](https://open.spotify.com/track/27RDQ0TfxzWMlQFuKrPT11) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Deeper Well](https://open.spotify.com/album/5SxZmGwc4eJuPp6PcO4JgJ) | 2:40 |
 | 32 | [Somewhere Between](https://open.spotify.com/track/11N3xwyjdDK8WAWnkvYZO2) | [Dylan Gossett](https://open.spotify.com/artist/4H4M0Y4cN39zIVDHvdW53x) | [Somewhere Between](https://open.spotify.com/album/4qXo28L1OSKzJIckZk1oej) | 3:40 |
 | 33 | [I Remember Everything \(feat\. Kacey Musgraves\)](https://open.spotify.com/track/4KULAymBBJcPRpk1yO4dOG) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2), [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Zach Bryan](https://open.spotify.com/album/6PbnGueEO6LGodPfvNldYf) | 3:47 |
 | 34 | [Hard Luck & Circumstances](https://open.spotify.com/track/28ejnV7iWD3bIgBXwcTy5k) | [Charley Crockett](https://open.spotify.com/artist/3BJX1nYizKvWpZTY5HOAr4) | [Hard Luck & Circumstances](https://open.spotify.com/album/2feHLj9w7BcThwGsmBFO1E) | 3:04 |
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXepGEFFmQXJ.md) - [plain]
 | 84 | [Date Night \(feat\. Morgan Evans\)](https://open.spotify.com/track/4rainsOvZId6i9i9Ssl6Hb) | [Kita Alexander](https://open.spotify.com/artist/3CGuwWgoCYSO5Z72H5G2Ec), [Morgan Evans](https://open.spotify.com/artist/6fzQ81ouajOEFqCIB9VwrS) | [Date Night \(feat\. Morgan Evans\)](https://open.spotify.com/album/3bAFWQJ9npu4hqjxkpDRYN) | 2:51 |
 | 85 | [A Lot With A Little](https://open.spotify.com/track/18pEQZgG2PMmUre3C2Tq74) | [Tyler Hubbard](https://open.spotify.com/artist/3BEV5FcxOtkQJ7lLRKMh3V) | [A Lot With A Little](https://open.spotify.com/album/7kvd9kffW9lfOCpq0uUyqB) | 3:03 |
 
-Snapshot ID: `MCw3MTU1NTcyYzFiYjMzNTI3NDhmNGY4ZWI3MDljMjg0MDQ4YjU3MDE1`
+Snapshot ID: `MCw1YjdjNzczOGFmODljZTMyYzIwMGY0MGY4ZmFlZTg1MWM0OTE2ZmI4`

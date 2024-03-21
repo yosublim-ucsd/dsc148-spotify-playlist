@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSAJ2OGLglOP.md) - [plain]
 
 > ドライブ用プレイリスト！渋滞も気にせず、ドライブが楽しくなる楽曲を毎週セレクト！
 
-[Spotify](https://open.spotify.com/user/spotify) - 99,382 likes - 50 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 99,411 likes - 50 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSAJ2OGLglOP.md) - [plain]
 | 40 | [Sesame](https://open.spotify.com/track/1DuTUxS7cBQf2ypQipYhfM) | [Kroi](https://open.spotify.com/artist/4S8J8Nct8lHsbzAeNJXcJa) | [Sesame](https://open.spotify.com/album/0N9P2qMUSX7GxdNiPkIehH) | 3:32 |
 | 41 | [青のすみか](https://open.spotify.com/track/12usPU2WnqgCHAW1EK2dfd) | [Tatsuya Kitani](https://open.spotify.com/artist/7mvhRvEAHiCTQHUnH7fgnv) | [青のすみか](https://open.spotify.com/album/4QjNVlIw8Rx6jItSZtn2VS) | 3:16 |
 | 42 | [Just Like Dat feat\. JP THE WAVY](https://open.spotify.com/track/44jt5m1pRE0rI4VixZbWF6) | [PSYCHIC FEVER from EXILE TRIBE](https://open.spotify.com/artist/0PgE39BqM3dTVk5lyttaBb), [JP THE WAVY](https://open.spotify.com/artist/0hBYSjDjcAaAuSZcpN8jk9) | [99.9 Psychic Radio](https://open.spotify.com/album/0am7ZAy4aq4sAS4ThW4ZhB) | 3:11 |
-| 43 | [Friendly Fire](https://open.spotify.com/track/1rAzOr3zpUDRtN2zsqGHiG) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Friendly Fire](https://open.spotify.com/album/601IEigQO3enlyrbn4SpNM) | 2:56 |
-| 44 | [Tek It](https://open.spotify.com/track/751srcHf5tUqcEa9pRCQwP) | [Cafuné](https://open.spotify.com/artist/581C5Qwl87TskfBEzuoisu) | [Running](https://open.spotify.com/album/2dEf6lN5qYFQQy3Jd3ScHG) | 3:11 |
+| 43 | [Tek It](https://open.spotify.com/track/751srcHf5tUqcEa9pRCQwP) | [Cafuné](https://open.spotify.com/artist/581C5Qwl87TskfBEzuoisu) | [Running](https://open.spotify.com/album/2dEf6lN5qYFQQy3Jd3ScHG) | 3:11 |
+| 44 | [Friendly Fire](https://open.spotify.com/track/1rAzOr3zpUDRtN2zsqGHiG) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Friendly Fire](https://open.spotify.com/album/601IEigQO3enlyrbn4SpNM) | 2:56 |
 | 45 | [Prisoner \(feat\. Dua Lipa\)](https://open.spotify.com/track/2Oycxb8QbPkpHTo8ZrmG0B) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6), [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Plastic Hearts](https://open.spotify.com/album/5BRhg6NSEZOj0BR6Iz56fR) | 2:49 |
 | 46 | [Car Keys \(Ayla\)](https://open.spotify.com/track/00E0Z2jrF7reoHps4zcbWQ) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Car Keys \(Ayla\)](https://open.spotify.com/album/1yUD0trOHc8dudwm9VAiHs) | 2:27 |
 | 47 | [RUNAWAY](https://open.spotify.com/track/07fbDnkKdZGk1gLvknxrns) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [RUNAWAY](https://open.spotify.com/album/1ZltEbn50sQMxoD5TvbNXe) | 2:23 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSAJ2OGLglOP.md) - [plain]
 | 49 | [Hold Me Closer](https://open.spotify.com/track/72yP0DUlWPyH8P7IoxskwN) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b), [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [Hold Me Closer](https://open.spotify.com/album/4QQWpCEX4BxMXwRQmtkKY6) | 3:22 |
 | 50 | [Slow Motion](https://open.spotify.com/track/5Y1JLn2xFudNJolHkvoTXk) | [Matt Champion](https://open.spotify.com/artist/29Oq9Nv8zLgu3IvX1tIpbm), [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M) | [Slow Motion](https://open.spotify.com/album/4OZBMZ4hR5fLjRWpj3bTAT) | 2:45 |
 
-Snapshot ID: `MCxkY2RiM2Q3NjMzYmVjZTAzMmEwMTM3MGViODgzZThiMDU5ZGE1N2Q2`
+Snapshot ID: `MCw3OTlkZGU4YTJmZGIyZDE2NDU5ZmM1NzBkOGQ5MzJhM2ZjMjkwYWEy`

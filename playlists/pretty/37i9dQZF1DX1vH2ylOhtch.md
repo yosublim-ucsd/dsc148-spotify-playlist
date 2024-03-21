@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1vH2ylOhtch.md) - [plain]
 
 > uh\-oh?
 
-[Spotify](https://open.spotify.com/user/spotify) - 86,102 likes - 60 songs - 3 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 86,136 likes - 60 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1vH2ylOhtch.md) - [plain]
 | 40 | [Feelings](https://open.spotify.com/track/6r3duEAfFTH83DuoywkG20) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [\~how i'm feeling\~](https://open.spotify.com/album/3ZuE680xhR1A4bCFGvL8mi) | 3:09 |
 | 41 | [EL POETA](https://open.spotify.com/track/2fIPEgY8CJ4hh5UDZa2lB9) | [Humbe](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [ENTROPÍA](https://open.spotify.com/album/34ra2lYORSjzzupmCDKz46) | 3:19 |
 | 42 | [Rose Colored Lenses](https://open.spotify.com/track/1nSfvLVhsozMHS7rCF1BTi) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Endless Summer Vacation](https://open.spotify.com/album/5DvJgsMLbaR1HmAI6VhfcQ) | 3:43 |
-| 43 | [Amigos \(con Maria Becerra\)](https://open.spotify.com/track/34tHZJLk0adg5tW49iybbE) | [Pablo Alborán](https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50), [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [Amigos \(con Maria Becerra\)](https://open.spotify.com/album/3znR1F0VbgfKsDyTeC0Nt8) | 3:53 |
-| 44 | [never knew a heart could break itself](https://open.spotify.com/track/4d2ZJ9W7dkQuITwUCTuD5n) | [Zach Hood](https://open.spotify.com/artist/5aHlyw2WWqZW0HLICBuv7U) | [never knew a heart could break itself](https://open.spotify.com/album/7nRAoFQVg6Sv2Qm31Vgup6) | 2:35 |
+| 43 | [never knew a heart could break itself](https://open.spotify.com/track/4d2ZJ9W7dkQuITwUCTuD5n) | [Zach Hood](https://open.spotify.com/artist/5aHlyw2WWqZW0HLICBuv7U) | [never knew a heart could break itself](https://open.spotify.com/album/7nRAoFQVg6Sv2Qm31Vgup6) | 2:35 |
+| 44 | [Amigos \(con Maria Becerra\)](https://open.spotify.com/track/34tHZJLk0adg5tW49iybbE) | [Pablo Alborán](https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50), [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [Amigos \(con Maria Becerra\)](https://open.spotify.com/album/3znR1F0VbgfKsDyTeC0Nt8) | 3:53 |
 | 45 | [Cuando Me Acerco A Ti](https://open.spotify.com/track/1Q4DK5GLldkubj5GtCzbs7) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [54+1](https://open.spotify.com/album/3pHFjWCK7d5YLtEuFwfR5N) | 3:13 |
 | 46 | [Demasiado Loco](https://open.spotify.com/track/1algWk375QvT1XNJJbRsGM) | [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z) | [Homerun](https://open.spotify.com/album/0qJkFmVwwNXP6fvSemDZqn) | 2:46 |
 | 47 | [Waves](https://open.spotify.com/track/4If7JKEkzeY0WusIrOdQlC) | [Fiji Blue](https://open.spotify.com/artist/1e7K8jD3wRuQfnwDAOeGqe) | [Waves](https://open.spotify.com/album/4hlLOR9Zd7pmBg2Qb4Dlss) | 2:13 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1vH2ylOhtch.md) - [plain]
 | 59 | [Hasta Ese Día](https://open.spotify.com/track/6WBkUQoNie4RIY1cFaqUnP) | [Lasso](https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd) | [Hasta Ese Día](https://open.spotify.com/album/6cO7pYatv2CewTgj1ejYPw) | 3:23 |
 | 60 | [A Veces](https://open.spotify.com/track/2SGqPctdqs0xkFexK0cAOC) | [TIMØ](https://open.spotify.com/artist/1KfRf4VkEYpL2G0FTWb7JX) | [Estemos Donde Estemos](https://open.spotify.com/album/4OwqjmfmyHgkGXFY88ef9C) | 3:33 |
 
-Snapshot ID: `MCwxZWJmMmZhMmE2YzFlOGVhZThhNjM0ZjdjNmIyMzljZTFlYzhlMjkw`
+Snapshot ID: `MCw4Mzk0MGNiMWVjYTM1YzIzMWIyMjQyN2E0N2YwMDllOWMxY2JlOGQ2`

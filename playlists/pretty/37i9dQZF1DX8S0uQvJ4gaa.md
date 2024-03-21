@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8S0uQvJ4gaa.md) - [plain]
 
 > New music discovery is what we're about\. Try it on for size\. Cover: Kassi Ashton
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,224,852 likes - 100 songs - 5 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,225,070 likes - 100 songs - 5 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -95,7 +95,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8S0uQvJ4gaa.md) - [plain]
 | 85 | [Hell is a Dance Floor](https://open.spotify.com/track/5ULNiLtUzRZIpbdHz47DkL) | [Vincent Mason](https://open.spotify.com/artist/6QJ5CE7ujPr7oZCURhFZVS) | [Hell is a Dance Floor](https://open.spotify.com/album/0HNfc7NP8LOZ5dfnyesMoY) | 3:29 |
 | 86 | [A Cigarette](https://open.spotify.com/track/7kpCMD8iv4RC971CJRPZ3U) | [Gavin Adcock](https://open.spotify.com/artist/5jG6uRqinuI83luutMpW6y) | [A Cigarette](https://open.spotify.com/album/6e4TRkJXdQCdj8x5Oj0v9u) | 2:59 |
 | 87 | [Heartbreaker](https://open.spotify.com/track/4k0pqjIpfO7WV3eFUTgL9m) | [Warren Zeiders](https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi) | [Heartbreaker](https://open.spotify.com/album/3aDLPo5dzrgHUYJlmp2YBM) | 3:42 |
-| 88 | [Too Good to be True](https://open.spotify.com/track/4vIiVs5JoNfqqRi5o7jAIb) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Too Good to be True](https://open.spotify.com/album/57y7NpfTINlnrNitu8vwft) | 2:40 |
+| 88 | [Too Good to be True](https://open.spotify.com/track/27RDQ0TfxzWMlQFuKrPT11) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Deeper Well](https://open.spotify.com/album/5SxZmGwc4eJuPp6PcO4JgJ) | 2:40 |
 | 89 | [One Bad Habit](https://open.spotify.com/track/4N0yUfSgo2lnpJzufrqAoY) | [Tim McGraw](https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd) | [Poet’s Resumé](https://open.spotify.com/album/575dPLrl892d2TGGeZHDj8) | 3:08 |
 | 90 | [Telluride](https://open.spotify.com/track/5ADo2azXSsHQu0mC2RxgXq) | [Jade Eagleson](https://open.spotify.com/artist/2nTzAHwCk0swkDdIPj2FIP) | [Do It Anyway](https://open.spotify.com/album/4TTTx17C8jwiQqxDbrxW8Y) | 3:04 |
 | 91 | [Gonna Love You](https://open.spotify.com/track/4k8ozY5BjfGGvICHka5DfI) | [Parmalee](https://open.spotify.com/artist/4TshyQDihSYXSWqvclXl3I) | [For You 2](https://open.spotify.com/album/2A35FaFPGRANYw0vh0ctRk) | 2:58 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8S0uQvJ4gaa.md) - [plain]
 | 99 | [Outlaws and Mustangs](https://open.spotify.com/track/3NfiPeYsjdrsyO4kVIEdtr) | [Cody Jinks](https://open.spotify.com/artist/2v7wIbCkIzxOfT3GnqCexD) | [Outlaws and Mustangs](https://open.spotify.com/album/0Arug5WNIfQYYlkrN2q6Rs) | 4:00 |
 | 100 | [This Ring](https://open.spotify.com/track/4TWxiqwnkANB6Svp5rsoS3) | [Julia Cole](https://open.spotify.com/artist/48rpE75ZIsnfNFyojfYene) | [This Ring](https://open.spotify.com/album/6gEbOIi33q4I5fxviqQb6N) | 3:55 |
 
-Snapshot ID: `MCw3YmE5OGU1OGQ2MDA0ZDMwMGU2NDdiYWIwZDYxYjkyZGU1OTYyZThh`
+Snapshot ID: `MCxhNjJiY2E4NDU1NjQ4NzkwNTIzMzQ1YzYwYjc1ZDI2MTVjM2FkYjhm`

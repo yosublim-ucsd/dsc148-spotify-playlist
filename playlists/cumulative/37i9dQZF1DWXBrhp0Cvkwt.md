@@ -4,7 +4,7 @@
 
 > soundtracking your ex calling/nothing's working/existential crisis
 
-210 songs - 12 hr 1 min
+211 songs - 12 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,7 +24,7 @@
 | [Always Been You](https://open.spotify.com/track/53UMRr4KOgZP5Ins0aGlhs) | [Jessie Murph](https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7) | [drowning](https://open.spotify.com/album/4MG8Z8BcUsNQFgJjMxzTWN) | 2:11 | 2022-09-22 |  |
 | [Andromeda](https://open.spotify.com/track/51EMSRpNm9Rg5rGViVCczv) | [Weyes Blood](https://open.spotify.com/artist/3Uqu1mEdkUJxPe7s31n1M9) | [Titanic Rising](https://open.spotify.com/album/0Cuqhgy8vm96JEkBY3polk) | 4:40 | 2022-05-31 |  |
 | [ARE WE STILL FRIENDS?](https://open.spotify.com/track/5TxRUOsGeWeRl3xOML59Ai) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [IGOR](https://open.spotify.com/album/5zi7WsKlIiUXv09tbGLKsE) | 4:25 | 2022-05-25 |  |
-| [Astronomy](https://open.spotify.com/track/0KmgJyW4GDgonqsoyx0CZ3) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Astronomy](https://open.spotify.com/album/4vs2JiaS6RjyxMcl0MvxLk) | 4:03 | 2022-05-25 | 2024-02-06 |
+| [Astronomy](https://open.spotify.com/track/0KmgJyW4GDgonqsoyx0CZ3) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Astronomy](https://open.spotify.com/album/4vs2JiaS6RjyxMcl0MvxLk) | 4:03 | 2022-05-25 |  |
 | [at least i'm pretty](https://open.spotify.com/track/5o9iQVktO08gIlRAHqqxtj) | [Harriette](https://open.spotify.com/artist/4pvvhffb5CTrWsrTCf3tMa) | [at least i'm pretty](https://open.spotify.com/album/2OAHHz54HY0g1vLBr23Gmg) | 1:46 | 2022-05-27 | 2022-11-13 |
 | [august](https://open.spotify.com/track/3hUxzQpSfdDqwM3ZTFQY0K) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [folklore](https://open.spotify.com/album/2fenSS68JI1h4Fo296JfGr) | 4:21 | 2022-09-09 |  |
 | [Backseat \(feat\. Carly Rae Jepsen\)](https://open.spotify.com/track/4HjtHraeKy5wA4DA9o92HZ) | [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Carly Rae Jepsen](https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju) | [Pop 2](https://open.spotify.com/album/2HIwUmdxEl7SeWa1ndH5wC) | 3:58 | 2022-05-25 | 2022-05-27 |
@@ -102,7 +102,7 @@
 | [Heaven Knows I'm Miserable Now \- 2011 Remaster](https://open.spotify.com/track/1xaTREM89RbIxkcjlpf4Uw) | [The Smiths](https://open.spotify.com/artist/3yY2gUcIsjMr8hjo51PoJ8) | [Hatful of Hollow](https://open.spotify.com/album/1j57Q5ntVi7crpibb0h4sv) | 3:35 | 2022-05-25 |  |
 | [Here With Me](https://open.spotify.com/track/78Sw5GDo6AlGwTwanjXbGh) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Here With Me](https://open.spotify.com/album/0OuoHWf8yB0TPzoBWw1R1S) | 4:02 | 2022-09-22 | 2023-04-24 |
 | [Hit Me Where It Hurts](https://open.spotify.com/track/2wcrQZ7ZJolYEfIaPP9yL4) | [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a) | [Pang](https://open.spotify.com/album/4ClyeVlAKJJViIyfVW0yQD) | 3:04 | 2022-05-31 | 2022-07-23 |
-| [I Can't Handle Change](https://open.spotify.com/track/0I1eFRytp4XRhLCjT6tZm7) | [Roar](https://open.spotify.com/artist/7dIpKWlEeAljA20vFJ82RD) | [I Can't Handle Change](https://open.spotify.com/album/42vd9Cgr89pjb0Jipvaj5d) | 3:18 | 2022-05-25 |  |
+| [I Can't Handle Change](https://open.spotify.com/track/0I1eFRytp4XRhLCjT6tZm7) | [Roar](https://open.spotify.com/artist/7dIpKWlEeAljA20vFJ82RD) | [I Can't Handle Change](https://open.spotify.com/album/42vd9Cgr89pjb0Jipvaj5d) | 3:18 | 2022-05-25 | 2024-03-21 |
 | [I Don't Love You Anymore](https://open.spotify.com/track/2029ByPmrVQrMjVsIcy5fz) | [The Honeysticks](https://open.spotify.com/artist/2BL3PP6aTKJ1jqbRgfQa71), [Ricky Montgomery](https://open.spotify.com/artist/0ZUvK7zGdXLd78mQr3t1Tw) | [I Don't Love You Anymore](https://open.spotify.com/album/62k92kGO3npVzJ7g3FC1WY) | 3:45 | 2022-05-25 | 2022-07-27 |
 | [I Fall Apart](https://open.spotify.com/track/75ZvA4QfFiZvzhj2xkaWAh) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [Stoney \(Deluxe\)](https://open.spotify.com/album/5s0rmjP8XOPhP6HhqOhuyC) | 3:43 | 2022-05-31 |  |
 | [I Found](https://open.spotify.com/track/5zT5cMnMKoyruPj13TQXGx) | [Amber Run](https://open.spotify.com/artist/0MmnmsAuQKRFpo6vJElcaU) | [5AM \(Expanded Edition\)](https://open.spotify.com/album/05WTBdwkHAqk5Mg68ugD7L) | 4:33 | 2022-05-25 |  |
@@ -116,7 +116,8 @@
 | [I Think I Like When It Rains](https://open.spotify.com/track/1A3tuE6ti9qoZDwB3LB0t2) | [WILLIS](https://open.spotify.com/artist/3OykSjAE6F2Mb51WplFoRk) | [Locals 2](https://open.spotify.com/album/3DRdTebuRYHafp1XJKJ0g2) | 4:38 | 2022-09-22 |  |
 | [I Think I Like When It Rains](https://open.spotify.com/track/5S5u0EWtlblH00iTNExZ6X) | [WILLIS](https://open.spotify.com/artist/3OykSjAE6F2Mb51WplFoRk) | [Locals 2](https://open.spotify.com/album/3kWPtRY5FCFhjDFTMNdvP3) | 4:38 | 2022-05-27 | 2023-03-02 |
 | [I Think I Like When It Rains \(Tik Tok Edit\) \- Remix](https://open.spotify.com/track/0eng9xR6sdmwYLkkEjsjFq) | [Green Neon DJ](https://open.spotify.com/artist/6CnsxWcIeS3Q3MNQSJ59M4) | [I Think I Like When It Rains \(Tik Tok Edit\) \[Remix\]](https://open.spotify.com/album/0123CbCiDs2kirZxMHr63u) | 4:41 | 2022-09-22 | 2023-03-18 |
-| [i walk this earth all by myself](https://open.spotify.com/track/5a8QUc4ubHJqQm7vzs2YhA) | [EKKSTACY](https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH) | [i walk this earth all by myself](https://open.spotify.com/album/6tdl27ojBwZ5ZexzZOP4mG) | 2:25 | 2022-05-31 |  |
+| [i walk this earth all by myself](https://open.spotify.com/track/5a8QUc4ubHJqQm7vzs2YhA) | [EKKSTACY](https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH) | [i walk this earth all by myself](https://open.spotify.com/album/6tdl27ojBwZ5ZexzZOP4mG) | 2:25 | 2022-05-31 | 2024-03-21 |
+| [i walk this earth all by myself](https://open.spotify.com/track/6oofvZ4K8vBHnCT1oKERcd) | [EKKSTACY](https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH) | [NEGATIVE](https://open.spotify.com/album/2momrvUqAMigmBoOOKuavE) | 2:25 | 2023-12-26 |  |
 | [idfc](https://open.spotify.com/track/3SErMoIKdRELto2OspGs5L) | [blackbear](https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM) | [dead](https://open.spotify.com/album/5cEJ9XTxsUKterwl1nAm2I) | 3:27 | 2022-05-27 | 2022-09-10 |
 | [If We Make It Through December](https://open.spotify.com/track/3a3q9YsTkgrG7dBF2ZdZfn) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [If We Make It Through December](https://open.spotify.com/album/7xoBevaHIAcXvYiLdqhQMC) | 2:59 | 2022-05-25 | 2022-07-19 |
 | [In My Mind](https://open.spotify.com/track/2W779g2UrRZtVdf3FcEOO1) | [Lyn Lapid](https://open.spotify.com/artist/4pfy05cNNTacuOQ6SiSu4v) | [In My Mind](https://open.spotify.com/album/4uLn2Ci7bNaHSZ0tBHYlxt) | 2:42 | 2022-05-25 | 2022-09-10 |

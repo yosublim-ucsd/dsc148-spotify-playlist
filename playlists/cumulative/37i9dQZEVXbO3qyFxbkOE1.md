@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Mexico.
 
-838 songs - 1 day 22 hr 11 min
+839 songs - 1 day 22 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -202,6 +202,7 @@
 | [Diran De Mi](https://open.spotify.com/track/6ASn03faRVXbbrEcN3KHdN) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P), [Tito Torbellino Jr](https://open.spotify.com/artist/0dXXFVCw0LKzmHFrTLUaQJ) | [Nata Montana](https://open.spotify.com/album/1YzV3eSAyofYe6QqIaZrj7) | 2:41 | 2023-07-01 | 2023-07-04 |
 | [Doble Vaso](https://open.spotify.com/track/6DlxxuLfJLZlynCWolPcGB) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P) | [VGLY \(Original Soundtrack\)](https://open.spotify.com/album/6L6OHxh6qNtqkRmxNEVHvf) | 2:41 | 2023-06-03 | 2023-06-20 |
 | [DOMINGO DE BOTE](https://open.spotify.com/track/0rvbMTIWwMZaMC9UnubDPb) | [Mora](https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S) | [PARAÍSO](https://open.spotify.com/album/7b3PrkHcWx17AQwlI2M1Uc) | 3:10 | 2022-11-05 | 2022-11-07 |
+| [Don Dimadon](https://open.spotify.com/track/1LfsvLFQprosUmrEtGPHAe) | [Remp](https://open.spotify.com/artist/1xOk6ncnlNdMeSnLLLoMSa), [Oscar Maydon](https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5), [Victor Mendivil](https://open.spotify.com/artist/5YqI7p8zYsOpKJtjxYdOce) | [Don Dimadon](https://open.spotify.com/album/3AL6ynr4iZhCbOHO3XzLtA) | 3:04 | 2024-03-20 |  |
 | [Don't Be Shy](https://open.spotify.com/track/0bI7K9Becu2dtXK1Q3cZNB) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [Don't Be Shy](https://open.spotify.com/album/2TvfE8CY37OQIPVGcWYpEA) | 2:20 | 2021-08-19 | 2022-01-25 |
 | [Don't Start Now](https://open.spotify.com/track/3PfIrDoz19wz7qK7tYeu62) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Future Nostalgia](https://open.spotify.com/album/7fJJK56U9fHixgO0HQkhtI) | 3:03 | 2021-03-27\* | 2021-05-17 |
 | [DONDE SE APRENDE A QUERER?](https://open.spotify.com/track/0sfk352FO8bJUjWjIsyzSR) | [Mora](https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S) | [ESTRELLA](https://open.spotify.com/album/0SoJvPHbKVhvmVJOp3kzp3) | 2:24 | 2023-08-30 | 2023-09-02 |
@@ -359,7 +360,7 @@
 | [Julietota](https://open.spotify.com/track/1AZbs0L3SkXe625DKp37KQ) | [LATIN MAFIA](https://open.spotify.com/artist/6XTGKOV9jceQ6f67lnhpbF) | [Julietota](https://open.spotify.com/album/70M8jSJsOoV9GsE9ALzxj7) | 3:32 | 2023-08-26 | 2023-10-29 |
 | [K\-POP](https://open.spotify.com/track/1RlcvK95g0XfRpDvFbGLUO) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [K\-POP \(Chopped & Screwed\)](https://open.spotify.com/album/0jiAYLsE1PumLJncO7vUIl) | 3:05 | 2023-07-25 | 2023-07-28 |
 | [K\-POP](https://open.spotify.com/track/5L3ecxQnQ9qTBmnLQiwf0C) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [K\-POP](https://open.spotify.com/album/10eNMeTimUzAKLhCOpIUlb) | 3:05 | 2023-07-22 | 2023-08-06 |
-| [Kalashnikov](https://open.spotify.com/track/3zFLlF1SvWCt9oZUVPZehW) | [Clave Especial](https://open.spotify.com/artist/0NlNru2YcUz6RbnpYGQz26) | [Kalashnikov](https://open.spotify.com/album/1tK3FjbSU0jEurD4lcWLPY) | 2:09 | 2024-03-04 |  |
+| [Kalashnikov](https://open.spotify.com/track/3zFLlF1SvWCt9oZUVPZehW) | [Clave Especial](https://open.spotify.com/artist/0NlNru2YcUz6RbnpYGQz26) | [Kalashnikov](https://open.spotify.com/album/1tK3FjbSU0jEurD4lcWLPY) | 2:09 | 2024-03-04 | 2024-03-21 |
 | [Karma](https://open.spotify.com/track/7KokYm8cMIXCsGVmUvKtqf) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Midnights](https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3) | 3:24 | 2022-10-22 | 2022-10-24 |
 | [Kimby](https://open.spotify.com/track/77JWlVYa9aoBa6NRnzuT3T) | [Kim Loaiza](https://open.spotify.com/artist/1QivQCLVipV61DiQiyV14A) | [X Amor](https://open.spotify.com/album/4kMszDo7JTs0FXtEofGelv) | 2:28 | 2023-12-16 | 2023-12-18 |
 | [Kiss Me More \(feat\. SZA\)](https://open.spotify.com/track/3DarAbFujv6eYNliUTyqtz) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Planet Her](https://open.spotify.com/album/1nAQbHeOWTfQzbOoFrvndW) | 3:28 | 2021-06-27 | 2021-09-03 |

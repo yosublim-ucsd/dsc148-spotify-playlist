@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcR9zJKQUPAH.md) - [plain]
 
 > 2017 highlights from the home of indie music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 147,515 likes - 100 songs - 6 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 147,555 likes - 100 songs - 6 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,15 +57,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcR9zJKQUPAH.md) - [plain]
 | 47 | [Untitled](https://open.spotify.com/track/40GRJBeHKroMtWwGX9EFyQ) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [Apricot Princess](https://open.spotify.com/album/4DxNdQzm6cBYuSn4dCimmT) | 2:15 |
 | 48 | [Cooks](https://open.spotify.com/track/75TDPu9k7Yv3IovdYaNCwk) | [Still Woozy](https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y) | [Cooks](https://open.spotify.com/album/6P5uQurlsYMrmOgGRd3xpz) | 2:54 |
 | 49 | [Airplane Mode](https://open.spotify.com/track/7c0ss9FGSyXGNczL4gV75a) | [Limbo](https://open.spotify.com/artist/13VunSzrVSmJBpUWxUajJF) | [Holo](https://open.spotify.com/album/03XvFQHMPkAUrcbnvpaYwC) | 2:44 |
-| 50 | [Andromeda \(feat\. DRAM\)](https://open.spotify.com/track/2C0KFbb4v9CNWR5c9jWcKC) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ), [DRAM](https://open.spotify.com/artist/5M0lbkGluOPXLeFjApw8r8) | [Humanz \(Deluxe\)](https://open.spotify.com/album/0NvirtaDCaZU5PAW1O5FDE) | 3:17 |
-| 51 | [Mystery of Love \(From the Original Motion Picture “Call Me by Your Name”\)](https://open.spotify.com/track/0oTtnnedK0C4unALxVTPhz) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Mystery of Love \(From the Original Motion Picture “Call Me by Your Name”\)](https://open.spotify.com/album/2uMaCzN7a35J3I3qceso0c) | 4:08 |
+| 50 | [Mystery of Love \(From the Original Motion Picture “Call Me by Your Name”\)](https://open.spotify.com/track/0oTtnnedK0C4unALxVTPhz) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Mystery of Love \(From the Original Motion Picture “Call Me by Your Name”\)](https://open.spotify.com/album/2uMaCzN7a35J3I3qceso0c) | 4:08 |
+| 51 | [Andromeda \(feat\. DRAM\)](https://open.spotify.com/track/2C0KFbb4v9CNWR5c9jWcKC) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ), [DRAM](https://open.spotify.com/artist/5M0lbkGluOPXLeFjApw8r8) | [Humanz \(Deluxe\)](https://open.spotify.com/album/0NvirtaDCaZU5PAW1O5FDE) | 3:17 |
 | 52 | [Dreams Tonite](https://open.spotify.com/track/6TcxxINfeaBEQ35sHMldTD) | [Alvvays](https://open.spotify.com/artist/3kzwYV3OCB010YfXMF0Avt) | [Antisocialites](https://open.spotify.com/album/2Yy84EeclNVwFDem6yIB2s) | 3:16 |
 | 53 | [So Young](https://open.spotify.com/track/4SNtyKNyYJ8ERT7YLlnFBr) | [Portugal\. The Man](https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T) | [Woodstock](https://open.spotify.com/album/4VzzEviJGYUtAeSsJlI9QB) | 4:06 |
 | 54 | [Raingurl](https://open.spotify.com/track/4XXfQ8fBHMIgcygY4hV6RC) | [Yaeji](https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt) | [EP2](https://open.spotify.com/album/6zB32HTy4cewV8V7TuHzKJ) | 3:57 |
 | 55 | [Dissolve](https://open.spotify.com/track/7pBrj5rt4SSxXwFKOyZfHR) | [Absofacto](https://open.spotify.com/artist/7gAYvcQFmAruyvwGjxrSUr), [NITESHIFT](https://open.spotify.com/artist/31aY8MVhn7ZKrobYTLssax) | [Thousand Peaces](https://open.spotify.com/album/79mdn7airf7jJw1dhV1PCI) | 3:44 |
 | 56 | [Movie](https://open.spotify.com/track/0kKrJbP4oATz98qQp2iXeC) | [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye) | [Geography](https://open.spotify.com/album/0hDnsNkxpMDZrpBlGjldtW) | 5:57 |
-| 57 | [Saturnz Barz \(feat\. Popcaan\)](https://open.spotify.com/track/7l9CE3wmEGOUYw1j4ETjnL) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ), [Popcaan](https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR) | [Humanz \(Deluxe\)](https://open.spotify.com/album/0NvirtaDCaZU5PAW1O5FDE) | 3:01 |
-| 58 | [If We Were Vampires](https://open.spotify.com/track/250RLekaiL1q9qZer975Eg) | [Jason Isbell and the 400 Unit](https://open.spotify.com/artist/3Lg3FGwBxOGuefqekQzRUf) | [The Nashville Sound](https://open.spotify.com/album/0gYLr4tpPpRrPg2WIS64jw) | 3:35 |
+| 57 | [If We Were Vampires](https://open.spotify.com/track/250RLekaiL1q9qZer975Eg) | [Jason Isbell and the 400 Unit](https://open.spotify.com/artist/3Lg3FGwBxOGuefqekQzRUf) | [The Nashville Sound](https://open.spotify.com/album/0gYLr4tpPpRrPg2WIS64jw) | 3:35 |
+| 58 | [Saturnz Barz \(feat\. Popcaan\)](https://open.spotify.com/track/7l9CE3wmEGOUYw1j4ETjnL) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ), [Popcaan](https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR) | [Humanz \(Deluxe\)](https://open.spotify.com/album/0NvirtaDCaZU5PAW1O5FDE) | 3:01 |
 | 59 | [Smoke Signals](https://open.spotify.com/track/5w52BJAqGkV1ewaCVLmjhi) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Stranger in the Alps](https://open.spotify.com/album/0qWcLfCZ8wtcoOdX14oGNI) | 5:24 |
 | 60 | [Everything Now](https://open.spotify.com/track/7KsZHCfOitA5V9oQYVdltG) | [Arcade Fire](https://open.spotify.com/artist/3kjuyTCjPG1WMFCiyc5IuB) | [Everything Now](https://open.spotify.com/album/1DNojVW079FU9YnAMk3Cgr) | 5:03 |
 | 61 | [Minimum](https://open.spotify.com/track/4n5DRMfFBNJNec1JApfILt) | [Charlie Cunningham](https://open.spotify.com/artist/78CiW0UJbHspFaVuVexOK6) | [Lines](https://open.spotify.com/album/183PxCMvOPAdItWDCi1UJJ) | 3:14 |
@@ -76,12 +76,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcR9zJKQUPAH.md) - [plain]
 | 66 | [Lay It on Me](https://open.spotify.com/track/7oekneJCJO74ycdLzdk16v) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [Nation of Two](https://open.spotify.com/album/5f6Eu9QtujgGggq5qbbycV) | 3:35 |
 | 67 | [Love Is Mystical](https://open.spotify.com/track/12pdXFcruNcPUbZypKUDgz) | [Cold War Kids](https://open.spotify.com/artist/6VDdCwrBM4qQaGxoAyxyJC) | [LA DIVINE](https://open.spotify.com/album/7ivgZAxvcUXk33Jk4Hi7On) | 3:34 |
 | 68 | [Chateau](https://open.spotify.com/track/48mqfE8RHAaxVWSr3aSOjD) | [Angus & Julia Stone](https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr) | [Snow](https://open.spotify.com/album/4egQIHw55CVeZ9BlS3fEoL) | 4:33 |
-| 69 | [Cold War](https://open.spotify.com/track/6DwiGVCgXGREeCyJZtX7S1) | [Cautious Clay](https://open.spotify.com/artist/6iWuBN32BqCJAeXW6o3nil) | [Blood Type](https://open.spotify.com/album/1xpNb3oOnWsZJYQyomLe4Z) | 3:22 |
+| 69 | [Saw You In A Dream](https://open.spotify.com/track/0U3u0HdRQjD8mAMYBak4Ok) | [The Japanese House](https://open.spotify.com/artist/3IunaFjvNKj98JW89JYv9u) | [Saw You In A Dream](https://open.spotify.com/album/1x8SKoPwUTpOfc0w5gBPsk) | 3:28 |
 | 70 | [Way It Goes](https://open.spotify.com/track/6CES1554HcWMIVroJfmmBm) | [Hippo Campus](https://open.spotify.com/artist/1btWGBz4Uu1HozTwb2Lm8A) | [Landmark](https://open.spotify.com/album/0vb1g018puu47StlIi9wxC) | 4:05 |
-| 71 | [Saw You In A Dream](https://open.spotify.com/track/0U3u0HdRQjD8mAMYBak4Ok) | [The Japanese House](https://open.spotify.com/artist/3IunaFjvNKj98JW89JYv9u) | [Saw You In A Dream](https://open.spotify.com/album/1x8SKoPwUTpOfc0w5gBPsk) | 3:28 |
+| 71 | [Cold War](https://open.spotify.com/track/6DwiGVCgXGREeCyJZtX7S1) | [Cautious Clay](https://open.spotify.com/artist/6iWuBN32BqCJAeXW6o3nil) | [Blood Type](https://open.spotify.com/album/1xpNb3oOnWsZJYQyomLe4Z) | 3:22 |
 | 72 | [You're in Love with a Psycho](https://open.spotify.com/track/0AJhcuRl3i1FfPNr88ZScv) | [Kasabian](https://open.spotify.com/artist/11wRdbnoYqRddKBrpHt4Ue) | [For Crying Out Loud \(Deluxe\)](https://open.spotify.com/album/0ymsF6XO1mZM1VKqI680jU) | 3:35 |
-| 73 | [Something For Your M.I.N.D.](https://open.spotify.com/track/4rCKRVJZKVysScn2piDuOT) | [Superorganism](https://open.spotify.com/artist/0Wkm45quqfx3NepJpXDvwE) | [Superorganism](https://open.spotify.com/album/15TFB6uLZlb3gnCysRrLix) | 2:45 |
-| 74 | [If You Need To, Keep Time on Me](https://open.spotify.com/track/7d0XkI4iJ32nxeFAHFXbLQ) | [Fleet Foxes](https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb) | [Crack\-Up](https://open.spotify.com/album/0xtTojp4zfartyGtbFKN3v) | 3:30 |
+| 73 | [If You Need To, Keep Time on Me](https://open.spotify.com/track/7d0XkI4iJ32nxeFAHFXbLQ) | [Fleet Foxes](https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb) | [Crack\-Up](https://open.spotify.com/album/0xtTojp4zfartyGtbFKN3v) | 3:30 |
+| 74 | [Something For Your M.I.N.D.](https://open.spotify.com/track/4rCKRVJZKVysScn2piDuOT) | [Superorganism](https://open.spotify.com/artist/0Wkm45quqfx3NepJpXDvwE) | [Superorganism](https://open.spotify.com/album/15TFB6uLZlb3gnCysRrLix) | 2:45 |
 | 75 | [Tailwhip](https://open.spotify.com/track/7fax7NlxOq2X9kMZw8QLE2) | [Men I Trust](https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT) | [Tailwhip](https://open.spotify.com/album/5zV9Kwq0WDSPshNbvG418a) | 3:45 |
 | 76 | [Like Gold](https://open.spotify.com/track/6Od2OWvoT4embWAgIGeFRd) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [Nation of Two](https://open.spotify.com/album/5f6Eu9QtujgGggq5qbbycV) | 3:44 |
 | 77 | [On Hold](https://open.spotify.com/track/5w3CRkbTWXfbYepIdFpGUN) | [The xx](https://open.spotify.com/artist/3iOvXCl6edW5Um0fXEBRXy) | [I See You](https://open.spotify.com/album/6Zw6NKh3oIUhDRMOyBmsUU) | 3:44 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcR9zJKQUPAH.md) - [plain]
 | 99 | [Star Roving](https://open.spotify.com/track/7nq6qpHhCJ3pNOa3KHi8fe) | [Slowdive](https://open.spotify.com/artist/72X6FHxaShda0XeQw3vbeF) | [Slowdive](https://open.spotify.com/album/1qDA0jVhj4ZTjGHmpbmmwa) | 5:38 |
 | 100 | [Now & Then](https://open.spotify.com/track/41oqThgUF4yiNz77TazXtl) | [Sjowgren](https://open.spotify.com/artist/32Ko3nL0210QAt14S3Rs4Y) | [Now & Then](https://open.spotify.com/album/6uR4bPGGdQHDphbyubK9zc) | 3:25 |
 
-Snapshot ID: `MCw5MWM0ZDk1ZjEzNzhkZTI1ODEyYWZlYTYxNTIxZTRjZjJjYWVjOTMx`
+Snapshot ID: `MCwwNmQ2ZDIwOGVhOGEyZGNjZDU3NmFiNTA0NDgzYWZiYmNiNTNmN2Y0`

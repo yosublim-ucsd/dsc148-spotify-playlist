@@ -1,12 +1,12 @@
 {
   "description": "Y que retumbe la bandona con puros corridos de 24k. La Arrolladora Banda El Lim\u00f3n en portada.",
-  "num_followers": 131233,
+  "num_followers": 131284,
   "original_name": "Corridos con Banda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhYTQ1MjI3MDJhNzdiZjBkODcyNmZjODRhZDU0NzAxNGY4MzRiNDJl",
+  "snapshot_id": "MCw0ODM3YWQ2NWViMGMwNWVhOWEwNTk5ZmIxZWJkZWMyOTM3YTI2OWE0",
   "tracks": [
     {
       "added_at": "2023-06-16 06:00:00",
@@ -731,18 +731,22 @@
     {
       "added_at": "2023-06-16 06:00:00",
       "album": {
-        "name": "Barquillero",
-        "url": "https://open.spotify.com/album/6FrtpkD2DmlpoFh5FAtniX"
+        "name": "Cosas Del Diablo",
+        "url": "https://open.spotify.com/album/0S58LvMQHbKuTbEcPcnrYo"
       },
       "artists": [
         {
-          "name": "Calibre 50",
-          "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
+          "name": "Adriel Favela",
+          "url": "https://open.spotify.com/artist/0PrhwIWbqYFYyY2ZrkIWgI"
+        },
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
         }
       ],
-      "duration_ms": 200760,
-      "name": "Barquillero",
-      "url": "https://open.spotify.com/track/7EYCioIJy7PVVryIHjlGRr"
+      "duration_ms": 161733,
+      "name": "Bayo 17",
+      "url": "https://open.spotify.com/track/7Kf9dL06sJKITTA9tYj0hM"
     },
     {
       "added_at": "2023-06-16 06:00:00",
@@ -779,22 +783,18 @@
     {
       "added_at": "2023-06-16 06:00:00",
       "album": {
-        "name": "Cosas Del Diablo",
-        "url": "https://open.spotify.com/album/0S58LvMQHbKuTbEcPcnrYo"
+        "name": "Barquillero",
+        "url": "https://open.spotify.com/album/6FrtpkD2DmlpoFh5FAtniX"
       },
       "artists": [
         {
-          "name": "Adriel Favela",
-          "url": "https://open.spotify.com/artist/0PrhwIWbqYFYyY2ZrkIWgI"
-        },
-        {
-          "name": "Luis R Conriquez",
-          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+          "name": "Calibre 50",
+          "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
         }
       ],
-      "duration_ms": 161733,
-      "name": "Bayo 17",
-      "url": "https://open.spotify.com/track/7Kf9dL06sJKITTA9tYj0hM"
+      "duration_ms": 200760,
+      "name": "Barquillero",
+      "url": "https://open.spotify.com/track/7EYCioIJy7PVVryIHjlGRr"
     },
     {
       "added_at": "2023-06-16 06:00:00",

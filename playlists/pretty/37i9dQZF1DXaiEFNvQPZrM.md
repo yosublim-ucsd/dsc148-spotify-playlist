@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaiEFNvQPZrM.md) - [plain]
 
 > Traditional country sounds from artists of yesterday and today.
 
-[Spotify](https://open.spotify.com/user/spotify) - 745,349 likes - 100 songs - 5 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 745,594 likes - 100 songs - 5 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaiEFNvQPZrM.md) - [plain]
 | 45 | [Rodeo Queen](https://open.spotify.com/track/7zLmOXHzhuYlDpez5bAWmm) | [Jade Eagleson](https://open.spotify.com/artist/2nTzAHwCk0swkDdIPj2FIP) | [Rodeo Queen](https://open.spotify.com/album/16s1YAqpcHWpPurb7T2Wli) | 3:02 |
 | 46 | [Watermelon Crawl](https://open.spotify.com/track/3Q9t1A12iUemHTAWnH7PjD) | [Tracy Byrd](https://open.spotify.com/artist/0xxJO75NeIAF5jYruLYIDT) | [No Ordinary Man](https://open.spotify.com/album/53g8c9eM74nQkKXDEE5tlu) | 3:01 |
 | 47 | [Too Soon For Goodbye](https://open.spotify.com/track/6qRsqsnh3HrkUq0SLWvdie) | [Triston Marez](https://open.spotify.com/artist/34J7mIMU9nyg5px9m3ur88) | [Too Soon For Goodbye](https://open.spotify.com/album/2ulEJ1F3LiQZlQ6mQFmdwv) | 3:35 |
-| 48 | [Where The Green Grass Grows](https://open.spotify.com/track/0nDjzA4kns1QOWPXuOn6Xw) | [Tim McGraw](https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd) | [Everywhere](https://open.spotify.com/album/36STfe5P9Cln52ch4nw3i9) | 3:21 |
-| 49 | [She Won't Be Lonely Long](https://open.spotify.com/track/0158TMiGmHyibaDeaUKayX) | [Clay Walker](https://open.spotify.com/artist/4MPkNgar5uTd8Sqvrr7par) | [She Won't Be Lonely Long](https://open.spotify.com/album/6dOT94cdPmoPv4ddHHeuo1) | 3:29 |
+| 48 | [She Won't Be Lonely Long](https://open.spotify.com/track/0158TMiGmHyibaDeaUKayX) | [Clay Walker](https://open.spotify.com/artist/4MPkNgar5uTd8Sqvrr7par) | [She Won't Be Lonely Long](https://open.spotify.com/album/6dOT94cdPmoPv4ddHHeuo1) | 3:29 |
+| 49 | [Where The Green Grass Grows](https://open.spotify.com/track/0nDjzA4kns1QOWPXuOn6Xw) | [Tim McGraw](https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd) | [Everywhere](https://open.spotify.com/album/36STfe5P9Cln52ch4nw3i9) | 3:21 |
 | 50 | [You Can Have Him Jolene](https://open.spotify.com/track/1A4sU22TOu9GUqQeZYqqoa) | [Chapel Hart](https://open.spotify.com/artist/1Xc3WbacoW8ISqReb7Hjpj) | [The Girls Are Back in Town](https://open.spotify.com/album/2AVfLcUhMj7QZ1sBgH8tPK) | 3:12 |
 | 51 | [Meet In the Middle](https://open.spotify.com/track/7lUE02KHkZM44BZgjCaWRO) | [Diamond Rio](https://open.spotify.com/artist/0svyIX7Xu3DVMkrOtB88i6) | [Diamond Rio](https://open.spotify.com/album/5zpRuHrOSBkOrop2DJvBcr) | 3:18 |
 | 52 | [Coulda Been Love](https://open.spotify.com/track/2K7kaSsyzMKLvXH5MnOgFp) | [Randall King](https://open.spotify.com/artist/4Uux6BdaCNrVFQ0bqGRtfh) | [Coulda Been Love](https://open.spotify.com/album/2SicSV8AnsmIXZk6NmL8G6) | 2:52 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaiEFNvQPZrM.md) - [plain]
 | 99 | [Cold Beer & Country Music](https://open.spotify.com/track/6r8oKdUQPyW3z3I0ooWlCt) | [Zach Top](https://open.spotify.com/artist/4FGPzWzgjURDNT7JQ8pYgH) | [Cold Beer & Country Music](https://open.spotify.com/album/68hj8MWgSPDB8q92LP8KVj) | 3:06 |
 | 100 | [I Think I'll Just Stay Here And Drink](https://open.spotify.com/track/3lX7epJ9xWICkf1YauHYgM) | [Merle Haggard](https://open.spotify.com/artist/2ptmyXoL7poH6Zq62h1QT9) | [Back To The Barrooms](https://open.spotify.com/album/3jq2yXUtI6kRQ296YpGFqj) | 4:31 |
 
-Snapshot ID: `MCxhNmU5ODcyM2RkOGQ2ZjU2MzJkMGZhNjNmZTgxZDNjODMyNGQ1MzAw`
+Snapshot ID: `MCxmM2ZkMjA4MGMzNDczZjdlZTE2YmM0MDdjMjE2NWI3YTBhZTM3NTAw`

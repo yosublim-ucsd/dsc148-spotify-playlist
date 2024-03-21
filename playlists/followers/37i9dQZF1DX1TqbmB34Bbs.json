@@ -1,5 +1,5 @@
 {
-  "2024-03-20": 18265,
+  "2024-03-21": 18270,
   "date_first_scraped": "2022-05-30",
   "description": "Illest hardcore K-hip hop tracks are here. (Cover: Daniel Jikal(\ub2e4\ub2c8\uc5d8 \uc9c0\uce7c)) (\uacf5\uaca9\ub825 \uc0c1\uc2b9 \uad6d\ub0b4 \ud799\ud569\uc744 \uc990\uaca8\ubcf4\uc138\uc694!)",
   "name": "K`illin'",
@@ -161,7 +161,7 @@
       ],
       "date_added": "2022-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-20",
       "duration_ms": 271937,
       "name": "+82 Bars",
       "url": "https://open.spotify.com/track/2J5fF0d4ePNQfPRIS1LGJU"
@@ -5009,7 +5009,7 @@
       ],
       "date_added": "2023-01-02",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-07",
+      "date_removed": null,
       "duration_ms": 249706,
       "name": "Chosen 1",
       "url": "https://open.spotify.com/track/65TacPD6oZ2KKxWJf2yPlh"
@@ -7789,6 +7789,28 @@
     {
       "album": {
         "name": "Far Post (Feat. lobonabeat!) (Prod. Codec)",
+        "url": "https://open.spotify.com/album/0uzjZacf96jtSHWrxg5uo9"
+      },
+      "artists": [
+        {
+          "name": "Roh Yun Ha",
+          "url": "https://open.spotify.com/artist/4F0KZ0SXe4z5xrgX6TXAPy"
+        },
+        {
+          "name": "lobonabeat!",
+          "url": "https://open.spotify.com/artist/3gg70JN79TXhAqklizHOva"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179295,
+      "name": "Far Post (Feat. lobonabeat!) (Prod. Codec)",
+      "url": "https://open.spotify.com/track/0Za8biB2lBbtPPEnhlj6m0"
+    },
+    {
+      "album": {
+        "name": "Far Post (Feat. lobonabeat!) (Prod. Codec)",
         "url": "https://open.spotify.com/album/7CAhYWb2V9tKfFgZZ56K45"
       },
       "artists": [
@@ -10301,7 +10323,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-17",
+      "date_removed": null,
       "duration_ms": 138096,
       "name": "Heu ! - Full Version",
       "url": "https://open.spotify.com/track/3CHHW06gWZIZcrdYMaiNPb"
@@ -22543,7 +22565,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-20",
       "duration_ms": 182533,
       "name": "Take It, Flip It (Feat. Sik-K)",
       "url": "https://open.spotify.com/track/2QazvOMRU7KdBlnPYKMMTF"
@@ -24087,7 +24109,7 @@
       ],
       "date_added": "2022-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-20",
       "duration_ms": 275400,
       "name": "UP (Feat. Jay Park, Woo) (Prod. CODE KUNST)",
       "url": "https://open.spotify.com/track/4NgBGkkjK006wySQL4IaBA"

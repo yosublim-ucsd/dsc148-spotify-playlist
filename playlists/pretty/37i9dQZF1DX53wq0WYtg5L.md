@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX53wq0WYtg5L.md) - [plain]
 
 > Celebremos el orgullo mexicano con estas alegres canciones.
 
-[Spotify](https://open.spotify.com/user/spotify) - 558,520 likes - 100 songs - 5 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 558,528 likes - 100 songs - 5 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,8 +14,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX53wq0WYtg5L.md) - [plain]
 | 4 | [Yo...El Aventurero](https://open.spotify.com/track/5k4oS18NesIeSpnZEDnh6p) | [Pedro Fernández](https://open.spotify.com/artist/24dYJ8P3YuFihvMcElFUWh) | [La Más Completa Colección](https://open.spotify.com/album/3Jtuf52P0Xo8JaE7oCMAdA) | 2:59 |
 | 5 | [El Pastor](https://open.spotify.com/track/4r7V9rY0u9Vn3y9E928Ehr) | [Miguel Aceves Mejia](https://open.spotify.com/artist/23XJNT1Hb35h3ZCDl7lpWY) | [Lo Mejor De Lo Mejor De RCA Victor](https://open.spotify.com/album/2PactlWmapDE3PmauHBEPo) | 2:55 |
 | 6 | [Caminos de Michoacán](https://open.spotify.com/track/2fvisKVcmhGrZdf9FPEhl4) | [Federico Villa](https://open.spotify.com/artist/79LwwKFdbXN9RoZAKefN7u) | [La Coleccion Del Siglo \- Federico Villa](https://open.spotify.com/album/5XyB8cBTMDoLaO2XqVf6BL) | 3:30 |
-| 7 | [El Barzon](https://open.spotify.com/track/3QwBIH2IqujOVmZmnymHFa) | [Luis Pérez Meza](https://open.spotify.com/artist/1njDUvTLxvzE1QO8wN39eT) | [Sus Mas Grandes Exitos](https://open.spotify.com/album/4KKB85ZOmzv68N5UELFUpS) | 2:44 |
-| 8 | [Camino de Guanajuato](https://open.spotify.com/track/4Llj18Ki0h1YLFTCZbpSp8) | [José Alfredo Jimenez](https://open.spotify.com/artist/2T06whb4s6UiufL1j5Qtz9) | [Corridos Y Rancheras](https://open.spotify.com/album/0RZ4nhnAHsZeYPtKMX16hf) | 3:13 |
+| 7 | [Camino de Guanajuato](https://open.spotify.com/track/4Llj18Ki0h1YLFTCZbpSp8) | [José Alfredo Jimenez](https://open.spotify.com/artist/2T06whb4s6UiufL1j5Qtz9) | [Corridos Y Rancheras](https://open.spotify.com/album/0RZ4nhnAHsZeYPtKMX16hf) | 3:13 |
+| 8 | [El Barzon](https://open.spotify.com/track/3QwBIH2IqujOVmZmnymHFa) | [Luis Pérez Meza](https://open.spotify.com/artist/1njDUvTLxvzE1QO8wN39eT) | [Sus Mas Grandes Exitos](https://open.spotify.com/album/4KKB85ZOmzv68N5UELFUpS) | 2:44 |
 | 9 | [El son de la negra](https://open.spotify.com/track/4WppqUEIiLL4kyo406nnJN) | [Mariachi Vargas De Tecalitlán](https://open.spotify.com/artist/0JTujDbHVqhWAGl06aaW78) | [Música de America](https://open.spotify.com/album/3NoSCNr4O7hKlpibE7HiRR) | 2:59 |
 | 10 | [La Malagueña](https://open.spotify.com/track/3ffFEGNAioJPjFYAruekiT) | [Miguel Aceves Mejia](https://open.spotify.com/artist/23XJNT1Hb35h3ZCDl7lpWY) | [Lo Mejor De Lo Mejor De RCA Victor](https://open.spotify.com/album/2PactlWmapDE3PmauHBEPo) | 3:53 |
 | 11 | [El Polvorete](https://open.spotify.com/track/7vBT4N9qKLL4Y94vCsK2PG) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [De Que Manera Te Olvido](https://open.spotify.com/album/7L4fmHhUztvN5kSsRyAjwz) | 2:34 |
@@ -77,8 +77,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX53wq0WYtg5L.md) - [plain]
 | 67 | [Huapango Torero \- Remastered](https://open.spotify.com/track/0Hl5ZPb8lAk5Bx0NTUfhNQ) | [Lola Beltrán](https://open.spotify.com/artist/0qZlB7IX5lWPhlxsayt31p) | [La Voz de México \(Remastered\)](https://open.spotify.com/album/54UWox3ZbHcH8mREa1uJdE) | 3:39 |
 | 68 | [El Mezcalito](https://open.spotify.com/track/48ksr3js6Hb2cKdmUiZlzF) | [Mariachi Nuevo Tecalitlán](https://open.spotify.com/artist/3KtTHCjZygtJHbR1yI2ugS) | [Sones](https://open.spotify.com/album/56QWjizDkOz0LQcwacfNYn) | 3:04 |
 | 69 | [El Jarabe Jalisciense](https://open.spotify.com/track/61hQy77rFr00EAYstdsMCK) | [Estampas De Mexico](https://open.spotify.com/artist/3lkD5FY5TNDAToUDSPds3m) | [Estampas De Mexico: Traditional Music From Mexico](https://open.spotify.com/album/2PqVWEcZDden0DKQ1o05hm) | 4:22 |
-| 70 | [El Son De La Negra](https://open.spotify.com/track/5JCIcyxuL6pcwBHWA8U1cO) | [Mariachi Premier](https://open.spotify.com/artist/3zUi6YMPFd66AglMtvVoea) | [Recuerdos De Mi Tierra](https://open.spotify.com/album/7qrXv6WJLfQF6msl1m4ZBe) | 3:01 |
-| 71 | [Las Abajenas](https://open.spotify.com/track/2lUFQMUDXVtga7AeuSagzK) | [Mariachi Cobre](https://open.spotify.com/artist/0BlBCNf7s8Ua8CeX1VKXZQ) | [Mariachi Cobre: Este Es Mi Mariachi](https://open.spotify.com/album/3nvfqq53rJB9lzBKVQQC2z) | 2:24 |
+| 70 | [Las Abajenas](https://open.spotify.com/track/2lUFQMUDXVtga7AeuSagzK) | [Mariachi Cobre](https://open.spotify.com/artist/0BlBCNf7s8Ua8CeX1VKXZQ) | [Mariachi Cobre: Este Es Mi Mariachi](https://open.spotify.com/album/3nvfqq53rJB9lzBKVQQC2z) | 2:24 |
+| 71 | [El Son De La Negra](https://open.spotify.com/track/5JCIcyxuL6pcwBHWA8U1cO) | [Mariachi Premier](https://open.spotify.com/artist/3zUi6YMPFd66AglMtvVoea) | [Recuerdos De Mi Tierra](https://open.spotify.com/album/7qrXv6WJLfQF6msl1m4ZBe) | 3:01 |
 | 72 | [Juan Charrasqueado \- Remastered](https://open.spotify.com/track/4i0xJYVDfQ1dUXMOzO3s15) | [Jorge Negrete](https://open.spotify.com/artist/4W5RbLZybsLfAzE7QqdibE) | [Viva México \(Remastered\)](https://open.spotify.com/album/5Vvkijcd0ytPuVRv6CMjJz) | 3:28 |
 | 73 | [Un canto a Michoacán](https://open.spotify.com/track/4CDPllMl3h3eseqNJscV4o) | [Mariachi Nuevo Ordaz de Purépero](https://open.spotify.com/artist/17L3NKBruc70djZG4gKVIs) | [Ayer, Hoy y Siempre](https://open.spotify.com/album/394u6nlGrWXFGQQYZV1h66) | 2:49 |
 | 74 | [La Charreada](https://open.spotify.com/track/7BZr4iXCUXHLvIOcu2PvYv) | [Mariachi Arriba Juárez](https://open.spotify.com/artist/1QTNMV42e1fk8xoHv0bfpy) | [Mariachi](https://open.spotify.com/album/0s0sjgCn8JRkEYObt8YA93) | 2:43 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX53wq0WYtg5L.md) - [plain]
 | 99 | [La Verdolaga \(Huapango\)](https://open.spotify.com/track/3sZHqEOkquQLgcKddk2UfQ) | [Mariachi Vargas De Tecalitlán](https://open.spotify.com/artist/0JTujDbHVqhWAGl06aaW78) | [Rubén Fuentes, Miguel Martínez, Silvestre Vargas](https://open.spotify.com/album/4Zraph4xdA7evbLQbwT7In) | 3:10 |
 | 100 | [El Hidalguense](https://open.spotify.com/track/5vozBkZkjmew8kVuPxWOnY) | [Mariachi Vargas De Tecalitlán](https://open.spotify.com/artist/0JTujDbHVqhWAGl06aaW78) | [RCA 100 Anos De Musica \- Segunda Parte](https://open.spotify.com/album/2uJqbXKxHtQHoeU6CK0RvY) | 3:17 |
 
-Snapshot ID: `MCwxYzNlY2MwNDJmY2YxYzY1YWExYTcwMmYwMTY1ZWE0YmI3YTVhMDU1`
+Snapshot ID: `MCw0ZjlhYWI0ZmRkZDYyMWZiYTRjODY3MmExM2E3ZWZkM2Q2NTIwODcw`

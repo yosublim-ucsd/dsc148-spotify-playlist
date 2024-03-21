@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU0ScTcjJBdj.md) - [plain]
 
 > Let your worries and cares slip away.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,681,149 likes - 140 songs - 8 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,681,163 likes - 140 songs - 8 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Shrike](https://open.spotify.com/track/083PU4XnYAOMAGVruma3vb) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Wasteland, Baby!](https://open.spotify.com/album/2c7gFThUYyo2t6ogAgIYNw) | 4:58 |
 | 2 | [look up](https://open.spotify.com/track/0oEji7lz6paMOdk97XEK4Z) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [in defense of my own happiness](https://open.spotify.com/album/3dzxXQLyHYrhKYWcKrnFAZ) | 3:33 |
-| 3 | [Deeper Well](https://open.spotify.com/track/2lJn77IeZAP9cmv6DPXOrL) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Deeper Well](https://open.spotify.com/album/2NXiMKrwmPrqU8epp20pW8) | 3:52 |
+| 3 | [Deeper Well](https://open.spotify.com/track/333XFHKsHU0pOocFzBgrJi) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Deeper Well](https://open.spotify.com/album/5SxZmGwc4eJuPp6PcO4JgJ) | 3:52 |
 | 4 | [Sinking Ship](https://open.spotify.com/track/3pC8tUjIZPORslYYmJbJcz) | [Wild Child](https://open.spotify.com/artist/1xLMexpeeTKQ20SwGMaGSK) | [Sinking Ship / Back & Forth](https://open.spotify.com/album/0zMY9ikg9RB64fPHXKAmYt) | 4:07 |
 | 5 | [Paris, Texas \(feat\. SYML\)](https://open.spotify.com/track/0Oqxt6JixieLHbwMfnJGWO) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa), [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0) | [Did you know that there's a tunnel under Ocean Blvd](https://open.spotify.com/album/5HOHne1wzItQlIYmLXLYfZ) | 3:26 |
 | 6 | [Letting Go](https://open.spotify.com/track/0wGgedJFjmtZpWTKhDq0Ic) | [Hollow Coves](https://open.spotify.com/artist/7IAFAOtc9kTYNTizhLSWM6) | [See You Soon](https://open.spotify.com/album/3RnZzFLaoswdse4TKBEmmH) | 3:29 |
@@ -149,4 +149,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU0ScTcjJBdj.md) - [plain]
 | 139 | [Harder Way](https://open.spotify.com/track/2mOxQ582K8WAP3FjTUhYVC) | [Jamestown Revival](https://open.spotify.com/artist/4w1ZBtHF0HxrGqQdB7i1it) | [San Isabel](https://open.spotify.com/album/0ujviO24y6WGV1KQwkcwIv) | 3:17 |
 | 140 | [Stay Alive \- Cover](https://open.spotify.com/track/0cm34ja39LyPxK2oddv90s) | [Roo Panes](https://open.spotify.com/artist/0XHM5ZNJDU8e4CfbWMeSzC), [Mahogany](https://open.spotify.com/artist/4Kp21tQEUB0PHgNV3B86ah) | [Stay Alive \(COVERS\)](https://open.spotify.com/album/3I1ZWDd8jAs6aztutLGVDm) | 3:53 |
 
-Snapshot ID: `MCwwOGRjZTk4YmI2NWEyNDRhZTI5MGY5ZWEyYjBiYzQ4YTlmYTlkZTZj`
+Snapshot ID: `MCw3NGE5ZjA3ZThmMDRhZDkxYjUyODIxMmJmYzRmMDhiYTM5Zjc1ZWVk`

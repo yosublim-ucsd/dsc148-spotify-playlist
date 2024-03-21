@@ -4,7 +4,7 @@
 
 > Tudo de novo que tá rolando no pop! Atualizada toda semana ✨ Foto: Ariana Grande
 
-913 songs - 1 day 23 hr 21 min
+914 songs - 1 day 23 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -206,7 +206,8 @@
 | [DEATH](https://open.spotify.com/track/3PzeZR8CqtwXmSn5AVao7J) | [Melanie Martinez](https://open.spotify.com/artist/63yrD80RY3RNEM2YDpUpO8) | [DEATH](https://open.spotify.com/album/5mMLgQvV17UcyM5yY3MrAv) | 5:06 | 2023-03-17 | 2023-05-07 |
 | [DEATH](https://open.spotify.com/track/4wFvGKW4jxTgIHLFoOtRMs) | [Melanie Martinez](https://open.spotify.com/artist/63yrD80RY3RNEM2YDpUpO8) | [PORTALS](https://open.spotify.com/album/3XxoKjcWSl4uGplV1kiKAp) | 5:06 | 2023-05-05 | 2023-05-20 |
 | [Deep Down \(feat\. Never Dull\)](https://open.spotify.com/track/7MIhUdNJtaOnDmC5nBC1fb) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Ella Eyre](https://open.spotify.com/artist/66TrUkUZ3RM29dqeDQRgyA), [Kenny Dope](https://open.spotify.com/artist/1TrfxjXu8quyDw05p2bacX), [Never Dull](https://open.spotify.com/artist/2u3rmzZC0psTER2sDfUebm) | [Deep Down \(feat\. Never Dull\)](https://open.spotify.com/album/3KpxpdySrMR2S7noneu1bI) | 2:45 | 2022-06-17 | 2023-01-28 |
-| [Deeper Well](https://open.spotify.com/track/2lJn77IeZAP9cmv6DPXOrL) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Deeper Well](https://open.spotify.com/album/2NXiMKrwmPrqU8epp20pW8) | 3:52 | 2024-02-09 |  |
+| [Deeper Well](https://open.spotify.com/track/2lJn77IeZAP9cmv6DPXOrL) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Deeper Well](https://open.spotify.com/album/2NXiMKrwmPrqU8epp20pW8) | 3:52 | 2024-02-09 | 2024-03-21 |
+| [Deeper Well](https://open.spotify.com/track/333XFHKsHU0pOocFzBgrJi) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Deeper Well](https://open.spotify.com/album/5SxZmGwc4eJuPp6PcO4JgJ) | 3:52 | 2024-03-15 |  |
 | [DELIRIUM](https://open.spotify.com/track/1UWf4dn9d17amlGBLY4U1I) | [Elley Duhé](https://open.spotify.com/artist/67MNhiAICFY6Pwc2YxCO0K) | [DELIRIUM](https://open.spotify.com/album/5PrrhEOjQwqY1VsVuG4vQZ) | 2:47 | 2023-08-11 | 2023-10-29 |
 | [DELRESTO \(ECHOES\)](https://open.spotify.com/track/04CXnx5jbmTSXhItqc13fs) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [DELRESTO \(ECHOES\)](https://open.spotify.com/album/0219TxSZyWhfo1DgafkjX2) | 4:34 | 2023-07-28 | 2023-10-14 |
 | [Demons](https://open.spotify.com/track/1xemKSmCnH59ze3KX5wwgH) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Demons](https://open.spotify.com/album/7iduRgQGVmm0Thy4v734Py) | 3:15 | 2023-09-01 | 2023-09-23 |

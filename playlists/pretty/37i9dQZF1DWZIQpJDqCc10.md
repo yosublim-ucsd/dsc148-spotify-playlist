@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZIQpJDqCc10.md) - [plain]
 
 > The greatest indie love songs of all time.
 
-[Spotify](https://open.spotify.com/user/spotify) - 635,963 likes - 75 songs - 4 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 636,213 likes - 75 songs - 4 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,8 +53,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZIQpJDqCc10.md) - [plain]
 | 43 | [Loving Is Easy](https://open.spotify.com/track/7ASFZh1D0DPZro7UXUKGmd) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL), [Benny Sings](https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N) | [Loving is Easy](https://open.spotify.com/album/3GgV5IZzgFljVfmxFeHsLY) | 2:35 |
 | 44 | [girls](https://open.spotify.com/track/04OSnqlwlBJMvidYccraVz) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [girls](https://open.spotify.com/album/0UvjTChu7cW8uJ6Cwp8173) | 3:18 |
 | 45 | [As the World Caves In](https://open.spotify.com/track/3NM41PVVUr0ceootKAtkAj) | [Matt Maltese](https://open.spotify.com/artist/12j6dJrPXanCBwY599pZxf) | [Bad Contestant](https://open.spotify.com/album/7I6d6PkjEJE50fnxhCwQ8M) | 3:38 |
-| 46 | [Just like Heaven](https://open.spotify.com/track/76GlO5H5RT6g7y0gev86Nk) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Kiss Me, Kiss Me, Kiss Me](https://open.spotify.com/album/37Q22g0n9PzBLX6lNddrIa) | 3:32 |
-| 47 | [anything](https://open.spotify.com/track/4PwWESSlTwzvw9B7bmtTLS) | [Adrianne Lenker](https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY) | [songs](https://open.spotify.com/album/2Qt8Z1LB3Fsrf6nhBNsvUJ) | 3:22 |
+| 46 | [anything](https://open.spotify.com/track/4PwWESSlTwzvw9B7bmtTLS) | [Adrianne Lenker](https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY) | [songs](https://open.spotify.com/album/2Qt8Z1LB3Fsrf6nhBNsvUJ) | 3:22 |
+| 47 | [Just like Heaven](https://open.spotify.com/track/76GlO5H5RT6g7y0gev86Nk) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Kiss Me, Kiss Me, Kiss Me](https://open.spotify.com/album/37Q22g0n9PzBLX6lNddrIa) | 3:32 |
 | 48 | [Flightless Bird, American Mouth](https://open.spotify.com/track/1fEGtTZjrjJW8eUeewnNJR) | [Iron & Wine](https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V) | [The Shepherd's Dog](https://open.spotify.com/album/3fzjXU2SSKero9gVMcPivX) | 4:01 |
 | 49 | [Only Love](https://open.spotify.com/track/2uhEKg8kIzpdvz4gyy6x8W) | [Ben Howard](https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc) | [Every Kingdom](https://open.spotify.com/album/57PgT4iuDurzlJnkYjrpce) | 4:09 |
 | 50 | [Fuck it I love you](https://open.spotify.com/track/7MtVPRGtZl6rPjMfLoI3Lh) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Norman Fucking Rockwell!](https://open.spotify.com/album/5XpEKORZ4y6OrCZSKsi46A) | 3:38 |
@@ -76,12 +76,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZIQpJDqCc10.md) - [plain]
 | 66 | [You And I](https://open.spotify.com/track/7aohwSiTDju51QmC54AUba) | [Ingrid Michaelson](https://open.spotify.com/artist/2vm8GdHyrJh2O2MfbQFYG0) | [Be OK](https://open.spotify.com/album/26OZ2w8TlwMUmA0GMpQL1U) | 2:28 |
 | 67 | [Seasons \(Waiting on You\)](https://open.spotify.com/track/522YBf6WqBwJVAe7oHLymu) | [Future Islands](https://open.spotify.com/artist/1WvvwcQx0tj6NdDhZZ2zZz) | [Singles](https://open.spotify.com/album/26bhmgVpg5E5HyU4K1BYMc) | 3:46 |
 | 68 | [If You Wanna](https://open.spotify.com/track/6Ca3uEAuun3HusTUiIXKs1) | [The Vaccines](https://open.spotify.com/artist/0Ak6DLKHtpR6TEEnmcorKA) | [What Did You Expect from The Vaccines?](https://open.spotify.com/album/2T0iwqVWzr4Y63x4kKO5DW) | 2:54 |
-| 69 | [Dreams Tonite](https://open.spotify.com/track/6TcxxINfeaBEQ35sHMldTD) | [Alvvays](https://open.spotify.com/artist/3kzwYV3OCB010YfXMF0Avt) | [Antisocialites](https://open.spotify.com/album/2Yy84EeclNVwFDem6yIB2s) | 3:16 |
-| 70 | [Say Yes](https://open.spotify.com/track/4IKMZtDIqyQDA6a4YvsgpK) | [Elliott Smith](https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG) | [Either/Or](https://open.spotify.com/album/5bmpvyP7UGqB4VuXmrJUMy) | 2:19 |
+| 69 | [Say Yes](https://open.spotify.com/track/4IKMZtDIqyQDA6a4YvsgpK) | [Elliott Smith](https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG) | [Either/Or](https://open.spotify.com/album/5bmpvyP7UGqB4VuXmrJUMy) | 2:19 |
+| 70 | [Dreams Tonite](https://open.spotify.com/track/6TcxxINfeaBEQ35sHMldTD) | [Alvvays](https://open.spotify.com/artist/3kzwYV3OCB010YfXMF0Avt) | [Antisocialites](https://open.spotify.com/album/2Yy84EeclNVwFDem6yIB2s) | 3:16 |
 | 71 | [Angels](https://open.spotify.com/track/3zsRP8rH1kaIAo9fmiP4El) | [The xx](https://open.spotify.com/artist/3iOvXCl6edW5Um0fXEBRXy) | [Coexist](https://open.spotify.com/album/4SXTQ305LjMh2DBHA3CXIW) | 2:51 |
 | 72 | [Sea of Love](https://open.spotify.com/track/33kKcOJoyNduHwXhEnga8X) | [Cat Power](https://open.spotify.com/artist/6G7OerKc3eBO9sVkRNopFC) | [The Covers Record](https://open.spotify.com/album/4dZBOO1PjjmtPA974xHMND) | 2:19 |
 | 73 | [So My Darling \- Acoustic](https://open.spotify.com/track/5NtmfJwkA0AXsp2WWHviPn) | [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP) | [So My Darling \(Acoustic\)](https://open.spotify.com/album/2FceNexUuKIatc3YFEq08L) | 3:48 |
 | 74 | [To Be Alone With You](https://open.spotify.com/track/12homE4JpBey5cckgoepR7) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Seven Swans](https://open.spotify.com/album/1WZ9u1VDIih007LAC6VfpA) | 2:48 |
 | 75 | [Anyone Else But You](https://open.spotify.com/track/2pKi1lRvXNASy7ybeQIDTy) | [The Moldy Peaches](https://open.spotify.com/artist/7GGv4mV9JTJK9e7nIzUliU) | [The Moldy Peaches](https://open.spotify.com/album/4FD8WC9s2yohxwVTp9f236) | 3:00 |
 
-Snapshot ID: `MCw1OGIxMzAxYWI1MmM4MzBiZmY4YTgwYzAyMDc4ZWQzNDRmN2MxMzZl`
+Snapshot ID: `MCxiYTg1NGZiZjRiNzMwMmVkMzA3YjA0N2NlZGEyMDhmNGFjZmU1ZjVj`

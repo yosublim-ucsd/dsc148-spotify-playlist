@@ -1,5 +1,5 @@
 {
-  "2024-03-20": 919641,
+  "2024-03-21": 919747,
   "date_first_scraped": "2022-01-01",
   "description": "New jazz for open minds. Cover: Charles Lloyd",
   "name": "State of Jazz",
@@ -16431,6 +16431,28 @@
       "duration_ms": 490325,
       "name": "nublues - fade",
       "url": "https://open.spotify.com/track/0OhiQIsXhYTZ6uVb8SBSVI"
+    },
+    {
+      "album": {
+        "name": "Nubya's Side Of Town",
+        "url": "https://open.spotify.com/album/6m3o0SREzei77oRb9WdTaj"
+      },
+      "artists": [
+        {
+          "name": "Joe Armon-Jones",
+          "url": "https://open.spotify.com/artist/5mUcc8OOP4RuzrupeGYwW5"
+        },
+        {
+          "name": "Nubya Garcia",
+          "url": "https://open.spotify.com/artist/6O5k8LLRfDK8v9jj1GazAQ"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266714,
+      "name": "Nubya's Side of Town (feat. Nubya Garcia)",
+      "url": "https://open.spotify.com/track/2JMADksYAUPTQqQGX3ACzF"
     },
     {
       "album": {

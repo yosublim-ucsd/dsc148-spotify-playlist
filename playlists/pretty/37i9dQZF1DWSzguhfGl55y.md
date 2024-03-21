@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSzguhfGl55y.md) - [plain]
 
 > Die größten Hits der deutschen Hip\-Hop\-Geschichte.
 
-[Spotify](https://open.spotify.com/user/spotify) - 624,476 likes - 50 songs - 3 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 624,545 likes - 50 songs - 3 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,9 +36,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSzguhfGl55y.md) - [plain]
 | 26 | [Du bist Boss](https://open.spotify.com/track/32IKJthM7ARKvGBTZCE1Et) | [Kollegah](https://open.spotify.com/artist/6gto7HVNhu4ARE3P3g8Y5Y) | [King](https://open.spotify.com/album/4b5q3NmyU42ndkqFPqqv3v) | 2:43 |
 | 27 | [Schmetterling](https://open.spotify.com/track/7zIZF5nHbZXS3Um6p9tiO2) | [Bushido](https://open.spotify.com/artist/3c96G4d2lUOxhomM2mby5S) | [Electro Ghetto \(Re\-Release\)](https://open.spotify.com/album/6hjvEsyxjU2eRqtofEHPvX) | 3:52 |
 | 28 | [Troy](https://open.spotify.com/track/6QRng4ZFJxeRnjcnquKlx2) | [Die Fantastischen Vier](https://open.spotify.com/artist/748dDObrUoBetes0pLj788) | [Viel \- Jubiläums\-Edition](https://open.spotify.com/album/265fpziPcNNDSBYhwOE5YY) | 4:29 |
-| 29 | [Schwule Mädchen](https://open.spotify.com/track/2MEm4ydaYLfXcS0RwocAu4) | [Fettes Brot](https://open.spotify.com/artist/3RRODs1rHC2ktLqyDDfgPH) | [Demotape](https://open.spotify.com/album/2It5lgo0UhWhaxsZfwI905) | 3:25 |
+| 29 | [Olé Olé](https://open.spotify.com/track/4v4ZuW2tjSyyci2BcE5bTp) | [Capital Bra](https://open.spotify.com/artist/4WZGDpNwrC0vNQyl9QzF7d), [RAF Camora](https://open.spotify.com/artist/0Dvx6p8JDyzeOPGmaCIH1L), [Joshi Mizu](https://open.spotify.com/artist/03bmDyr8klGV17DKQnPZVA) | [BLYAT](https://open.spotify.com/album/186E5XovNHY19VgZPNjHJs) | 2:33 |
 | 30 | [Walpurgisnacht](https://open.spotify.com/track/36fc7ffgOJZmEAavDEmbwu) | [K.I.Z](https://open.spotify.com/artist/0bMt8SJlp0gFRUufzifS05) | [Hahnenkampf](https://open.spotify.com/album/0coO5OMFsw888Gok7JwXxe) | 5:01 |
-| 31 | [Olé Olé](https://open.spotify.com/track/4v4ZuW2tjSyyci2BcE5bTp) | [Capital Bra](https://open.spotify.com/artist/4WZGDpNwrC0vNQyl9QzF7d), [RAF Camora](https://open.spotify.com/artist/0Dvx6p8JDyzeOPGmaCIH1L), [Joshi Mizu](https://open.spotify.com/artist/03bmDyr8klGV17DKQnPZVA) | [BLYAT](https://open.spotify.com/album/186E5XovNHY19VgZPNjHJs) | 2:33 |
+| 31 | [Schwule Mädchen](https://open.spotify.com/track/2MEm4ydaYLfXcS0RwocAu4) | [Fettes Brot](https://open.spotify.com/artist/3RRODs1rHC2ktLqyDDfgPH) | [Demotape](https://open.spotify.com/album/2It5lgo0UhWhaxsZfwI905) | 3:25 |
 | 32 | [Kompass ohne Norden](https://open.spotify.com/track/4wEDActEN5ZyJi0DK8bCtf) | [Prinz Pi](https://open.spotify.com/artist/3OYM3jjPVR60kOqmamRRgk) | [Kompass ohne Norden \(Premium Edition\)](https://open.spotify.com/album/1SWh0DfTaWQPopinkTPIMY) | 4:12 |
 | 33 | [Prison Break Anthem \(Ich glaub an Dich\) \- Single Version](https://open.spotify.com/track/1mC06CRaWGhsWhdX99GJqL) | [AZAD](https://open.spotify.com/artist/7LQLsKs1Qulq0BxYdhRnBU), [Adel Tawil](https://open.spotify.com/artist/3rZBkgoRHG8M9jQL0QPNMi) | [Prison Break Anthem \(Ich glaub an Dich\)](https://open.spotify.com/album/1xeVXMLFtHrldJwO4nbNdK) | 4:02 |
 | 34 | [Mit freundlichen Grüßen](https://open.spotify.com/track/4BwQLePZSn9X2HoTwNpoLg) | [Die Fantastischen Vier](https://open.spotify.com/artist/748dDObrUoBetes0pLj788) | [4:99 \- Jubiläums\-Edition](https://open.spotify.com/album/3iOJWVUmGzq2NOCDP3fmWl) | 3:35 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSzguhfGl55y.md) - [plain]
 | 49 | [Irgendwie, Irgendwo, Irgendwann](https://open.spotify.com/track/04sIbgH6Vdo2V21QsUPaRJ) | [Jan Delay](https://open.spotify.com/artist/4KivBMgSnZ7hCDfPm46fKc), [Dennis Dubplate](https://open.spotify.com/artist/7c3IvNS3sINVdf7TDIbBx3) | [Irgendwie, Irgendwo, Irgendwann](https://open.spotify.com/album/5pDCfBYA6CphwerrwR8av8) | 5:30 |
 | 50 | [Eines Tages \(feat\. Cassandra Steen\) \- Single Edit](https://open.spotify.com/track/3U0yDyVzdjhOcl3TcEDylU) | [AZAD](https://open.spotify.com/artist/7LQLsKs1Qulq0BxYdhRnBU), [Cassandra Steen](https://open.spotify.com/artist/6wbgb7phg82I4tnO6GWMhr) | [Game Over](https://open.spotify.com/album/2bsldlysGbFc8Kqg0iItlU) | 3:41 |
 
-Snapshot ID: `MCxkODM5M2ZjNzIxYmEzODNlNWVhNzQxYzgzYmYyMDEyMzRlMWYzODA3`
+Snapshot ID: `MCw5ZDczOWM4YjhiNTczYTA4MzU2YWExZTllNjVkMGY5NzAyZTYyYjll`

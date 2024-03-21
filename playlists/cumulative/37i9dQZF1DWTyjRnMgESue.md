@@ -4,7 +4,7 @@
 
 > The best new songs from modern singer\-songwriters\. Cover: Adrianne Lenker
 
-461 songs - 1 day 2 hr 27 min
+462 songs - 1 day 2 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -101,7 +101,8 @@
 | [Cutting Corners](https://open.spotify.com/track/6AN3OGCZP8a7935tvYrgDD) | [Sydney Rose](https://open.spotify.com/artist/5vx4pDmiFDyKMhuOIgpiRv) | [You Never Met Me](https://open.spotify.com/album/4rVsCVbWLQWEUXsOfPRzEg) | 3:22 | 2022-07-08 | 2022-09-16 |
 | [Dark Bird](https://open.spotify.com/track/1ig7fpdy2W1rl6SkIOMDjN) | [Jake Wesley Rogers](https://open.spotify.com/artist/5lEF4Tt1uK7Kuk80ILMlE9) | [Dark Bird](https://open.spotify.com/album/58fbHjXoQNXeNQ4VfWXU41) | 3:37 | 2022-03-11 | 2023-01-06 |
 | [Dead on the Beach](https://open.spotify.com/track/6kKhq1EKxciDeNhjST21B8) | [Aly & AJ](https://open.spotify.com/artist/5wugb0kaq0J6nyQ5Xgd17i) | [Dead on the Beach](https://open.spotify.com/album/66ncWabX0CdChC6i9Ca84T) | 3:02 | 2022-01-21 | 2022-02-05 |
-| [Deeper Well](https://open.spotify.com/track/2lJn77IeZAP9cmv6DPXOrL) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Deeper Well](https://open.spotify.com/album/2NXiMKrwmPrqU8epp20pW8) | 3:52 | 2024-02-09 |  |
+| [Deeper Well](https://open.spotify.com/track/2lJn77IeZAP9cmv6DPXOrL) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Deeper Well](https://open.spotify.com/album/2NXiMKrwmPrqU8epp20pW8) | 3:52 | 2024-02-09 | 2024-03-21 |
+| [Deeper Well](https://open.spotify.com/track/333XFHKsHU0pOocFzBgrJi) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Deeper Well](https://open.spotify.com/album/5SxZmGwc4eJuPp6PcO4JgJ) | 3:52 | 2024-03-15 |  |
 | [Denim](https://open.spotify.com/track/0NtwNkRKhDAeo5qqx1Z3gY) | [Gatton](https://open.spotify.com/artist/09wV1iFg4DBtreMGzepTaE) | [Denim](https://open.spotify.com/album/5nUQ0QEGyACWKmsHGgWAex) | 3:43 | 2023-05-19 | 2023-09-11 |
 | [Different Kinds of Light](https://open.spotify.com/track/53qIXnw0apr7SVNbfdiGqR) | [Jade Bird](https://open.spotify.com/artist/7D8LuVnlyu91ndcPe70j7S) | [Different Kinds of Light](https://open.spotify.com/album/3GuKxYi7tirtH3BZvTGddh) | 3:05 | 2021-11-19 | 2022-02-05 |
 | [DIM](https://open.spotify.com/track/6wTliafSJi7OgSmVugTYwS) | [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0) | [DIM](https://open.spotify.com/album/1OgtOEJaZLO4zm7mq9MnvK) | 4:31 | 2021-11-19 | 2022-07-14 |
@@ -177,7 +178,7 @@
 | [Green Eyes](https://open.spotify.com/track/6kH8Teb9KlAUFgZC77k8oY) | [Jake Scott](https://open.spotify.com/artist/0DxPHf2flBAcV2SnZPg3SV) | [Green Eyes](https://open.spotify.com/album/1YeEV5nSQpYMLXqhC6qYzz) | 2:30 | 2022-06-08 |  |
 | [Halfway](https://open.spotify.com/track/3dKMVCShHl7cT4IMoxj8x0) | [Mimi Webb](https://open.spotify.com/artist/3GxKJzJK4LpsYGXQrw77wz) | [Seven Shades of Heartbreak](https://open.spotify.com/album/7kYQPT7i8PrKsTG3dsXe4r) | 3:17 | 2021-11-19 | 2022-06-09 |
 | [Halfway There](https://open.spotify.com/track/2DNtJvsZW8rM6PvR6pDx1s) | [Kathleen Regan](https://open.spotify.com/artist/0zkerR9DfzmD564AOCnjZf) | [Halfway There](https://open.spotify.com/album/5QUryCIUy22JuF9uaTDkFI) | 3:14 | 2021-11-19 | 2022-07-29 |
-| [handgun](https://open.spotify.com/track/5ScV9dmyjpNeQp7UwIKwTM) | [jake minch](https://open.spotify.com/artist/7Lfq2a2cpwQBdDzo7SW1HC) | [handgun](https://open.spotify.com/album/2ybvSMYSgIh1fKcFGD2XTL) | 2:53 | 2023-05-05 | 2024-03-17 |
+| [handgun](https://open.spotify.com/track/5ScV9dmyjpNeQp7UwIKwTM) | [jake minch](https://open.spotify.com/artist/7Lfq2a2cpwQBdDzo7SW1HC) | [handgun](https://open.spotify.com/album/2ybvSMYSgIh1fKcFGD2XTL) | 2:53 | 2023-05-05 |  |
 | [Hang On To Me](https://open.spotify.com/track/3MR6unFt0DNQ3Vo7QegzzK) | [Natalie Taylor](https://open.spotify.com/artist/2WxjxdeF7GGdcCK276qViY), [Donovan Woods](https://open.spotify.com/artist/4SOtk3HtPYKqxnVuxNBMti) | [Hang On To Me](https://open.spotify.com/album/7z74YoHegtXzQZL50aeyhL) | 3:22 | 2022-08-12 | 2023-02-01 |
 | [Happier Without Me](https://open.spotify.com/track/0jj6QrlJcrBFkOq1vnmJOM) | [Cian Ducrot](https://open.spotify.com/artist/49jTY62Cpw3RYo4dLuG43W) | [Make Believe](https://open.spotify.com/album/1VwMUOIMVdhdB80dTVxnxe) | 3:40 | 2021-12-13 | 2024-01-06 |
 | [Hard Things](https://open.spotify.com/track/61e2c3NqK905WM3Hi7ZvYK) | [Sarah Buxton](https://open.spotify.com/artist/2xTlb6eueddQmWsxImpDbP) | [Hard Things](https://open.spotify.com/album/4mj6XqOhQggJgFnjJwlRTH) | 4:23 | 2021-11-19 | 2022-07-27 |
@@ -306,7 +307,7 @@
 | [New Year's Eve](https://open.spotify.com/track/48CsqwyVQ5M3NnSveaPl4E) | [Deni](https://open.spotify.com/artist/7lTLr5dKz80VDRCN1tL3Sx) | [New Year's Eve](https://open.spotify.com/album/7nLTSqXG6ai5A8yPskpHwL) | 2:52 | 2022-01-21 | 2022-02-17 |
 | [New York](https://open.spotify.com/track/235mWaTu830G0ldfqES9dJ) | [Benjamin Francis Leftwich](https://open.spotify.com/artist/7D5oTJSXSHf51auG0106CQ) | [New York](https://open.spotify.com/album/5wCzmTcZCedAueCDuH9USU) | 3:19 | 2024-01-12 | 2024-02-03 |
 | [Nights Like This](https://open.spotify.com/track/41UhyBzOfsI1mqBviJq6AN) | [Josh Golden](https://open.spotify.com/artist/6wUAn24MOirNVNqQM47fda) | [Nights Like This](https://open.spotify.com/album/5GuZOIH7CAgK0WrPIn5uAi) | 2:22 | 2021-12-13 | 2022-06-29 |
-| [No California](https://open.spotify.com/track/1w21mLzlkcpKReMjbbUwpa) | [Ilsey](https://open.spotify.com/artist/2ZKzqJz3pPfWKVRgz9b39j) | [No California](https://open.spotify.com/album/3MTWOgFgOmAQbqw49MKbaq) | 3:35 | 2023-06-23 |  |
+| [No California](https://open.spotify.com/track/1w21mLzlkcpKReMjbbUwpa) | [Ilsey](https://open.spotify.com/artist/2ZKzqJz3pPfWKVRgz9b39j) | [No California](https://open.spotify.com/album/3MTWOgFgOmAQbqw49MKbaq) | 3:35 | 2023-06-23 | 2024-03-21 |
 | [No Complaints](https://open.spotify.com/track/2D2rLS5IBt2EzDajhtuHZR) | [Prateek Kuhad](https://open.spotify.com/artist/0tC995Rfn9k2l7nqgCZsV7) | [No Complaints](https://open.spotify.com/album/42xj07uXecDQBFGUcEVfwx) | 3:07 | 2024-02-02 |  |
 | [Nobody's Fault](https://open.spotify.com/track/12pAzc2hvw5kCsVlGKIlD5) | [Natalie Schlabs](https://open.spotify.com/artist/25YHQvJbJh2yW36lrZJ9e5) | [Nobody's Fault](https://open.spotify.com/album/0sPBsZVSg9fP2iSHJPGrpU) | 3:49 | 2021-11-19 | 2022-06-06 |
 | [Normal Kid](https://open.spotify.com/track/1tvVxUE33ROYbQDrr2nXIw) | [Jillette Johnson](https://open.spotify.com/artist/6k5S1Uz5IvsZDlhiONoBnH) | [Normal Kid](https://open.spotify.com/album/1rX2mSRqM0GmTM0e4YK9H7) | 3:12 | 2022-05-20 | 2022-07-26 |

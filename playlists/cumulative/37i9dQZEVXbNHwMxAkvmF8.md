@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Hungary.
 
-1,085 songs - 2 day 8 hr 58 min
+1,086 songs - 2 day 9 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -327,7 +327,7 @@
 | [Four moods 2](https://open.spotify.com/track/4BHHsydPdymvTW0cmasgAR) | [Azahriah](https://open.spotify.com/artist/6EIriUxo7vznEgJtTDlXpq) | [Memento](https://open.spotify.com/album/2mtBBnbkj7HMywF5FAtERT) | 4:24 | 2023-05-02 | 2023-06-27 |
 | [FREESTYLE](https://open.spotify.com/track/7tvySLmvntfBuF9wqZidBf) | [gyuris](https://open.spotify.com/artist/19w3KViMCX0eq1UjNic2W9), [Grasa](https://open.spotify.com/artist/7roOHVUjZASn8tsyBoyn7C) | [BARBATULA BARBATULA](https://open.spotify.com/album/6shv3bmIBOtB1hoGURDBuA) | 2:17 | 2023-12-16 | 2023-12-18 |
 | [FREESTYLE FREESTYLE](https://open.spotify.com/track/2nIKc8TN7xCJpU8RK5NvoW) | [Beton.Hofi](https://open.spotify.com/artist/5x9gQC3VztdH5mQO5EEi9y) | [PLAYBÁNIA](https://open.spotify.com/album/5xMzTHcRiGKdBhGj8PjV4h) | 2:02 | 2022-09-03 | 2022-09-05 |
-| [Frida Kahlo](https://open.spotify.com/track/7CMqBgZAFANJNyQueevWvR) | [Carson Coma](https://open.spotify.com/artist/1q7g5SBAxtjizS3Vcof6Y6), [Beton.Hofi](https://open.spotify.com/artist/5x9gQC3VztdH5mQO5EEi9y) | [Frida Kahlo](https://open.spotify.com/album/5HMnxIdbBRvoTW5PvNbBoo) | 2:43 | 2024-03-08 |  |
+| [Frida Kahlo](https://open.spotify.com/track/7CMqBgZAFANJNyQueevWvR) | [Carson Coma](https://open.spotify.com/artist/1q7g5SBAxtjizS3Vcof6Y6), [Beton.Hofi](https://open.spotify.com/artist/5x9gQC3VztdH5mQO5EEi9y) | [Frida Kahlo](https://open.spotify.com/album/5HMnxIdbBRvoTW5PvNbBoo) | 2:43 | 2024-03-08 | 2024-03-21 |
 | [Friday \(feat\. Mufasa & Hypeman\) \- Dopamine Re\-Edit](https://open.spotify.com/track/4cG7HUWYHBV6R6tHn1gxrl) | [Riton](https://open.spotify.com/artist/7i9j813KFoSBMldGqlh2Z1), [Nightcrawlers](https://open.spotify.com/artist/1gALaWbNDnwS2ECV09sn2A), [Mufasa & Hypeman](https://open.spotify.com/artist/4L2dV3zY7RmkeiNO035Fi0), [Dopamine](https://open.spotify.com/artist/3Edve4VIATi0OZngclQlkN) | [Friday \(feat\. Mufasa & Hypeman\) \[Dopamine Re\-Edit\]](https://open.spotify.com/album/39qsmsNRXjVaFqTZj9af0j) | 2:49 | 2021-03-27\* | 2022-05-31 |
 | [FUK SUMN](https://open.spotify.com/track/5rlXuCLnMdfo85079qXHoz) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [VULTURES 1](https://open.spotify.com/album/0k7ALIqqds5oGFtpMsaHLK) | 3:29 | 2024-02-12 | 2024-02-16 |
 | [FUK SUMN](https://open.spotify.com/track/5tEaVciE2GnR28aN6W9cLS) | [¥$](https://open.spotify.com/artist/4xPQFgDA5M2xa0ZGo5iIsv), [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [VULTURES 1](https://open.spotify.com/album/30zwjSQEodaUXCn11nmiVF) | 3:29 | 2024-02-15 | 2024-02-18 |
@@ -433,6 +433,7 @@
 | [I Ain't Worried](https://open.spotify.com/track/4h9wh7iOZ0GGn8QVp4RAOB) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [I Ain’t Worried \(Music From The Motion Picture "Top Gun: Maverick"\)](https://open.spotify.com/album/04PEOM6kIEeq9lRp1asNP2) | 2:28 | 2022-06-28 | 2023-08-09 |
 | [I Gotta Feeling](https://open.spotify.com/track/4kLLWz7srcuLKA7Et40PQR) | [Black Eyed Peas](https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS) | [THE E.N.D\. \(THE ENERGY NEVER DIES\) \[Deluxe Version\]](https://open.spotify.com/album/1dgbFU08pXJXZhGPlybdMX) | 4:49 | 2022-01-01 | 2023-01-03 |
 | [I KNOW ?](https://open.spotify.com/track/6wsqVwoiVH2kde4k4KKAFU) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [UTOPIA](https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ) | 3:31 | 2023-07-29 | 2023-08-02 |
+| [i like the way you kiss me](https://open.spotify.com/track/2GxrNKugF82CnoRFbQfzPf) | [Artemas](https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2) | [i like the way you kiss me](https://open.spotify.com/album/5HIWDdg3g9CTOtnevKDl1z) | 2:22 | 2024-03-20 |  |
 | [I Like You \(A Happier Song\) \(with Doja Cat\)](https://open.spotify.com/track/0O6u0VJ46W86TxN9wgyqDj) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60), [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Twelve Carat Toothache](https://open.spotify.com/album/3HHNR44YbP7XogMVwzbodx) | 3:12 | 2022-06-04 | 2022-06-11 |
 | [i n t e r l u d e](https://open.spotify.com/track/08LwMWf5Tcfsd752EPzFV0) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [The Off\-Season](https://open.spotify.com/album/4JAvwK4APPArjIsOdGoJXX) | 2:13 | 2021-05-16 | 2021-05-17 |
 | [I WANNA BE YOUR SLAVE](https://open.spotify.com/track/4pt5fDVTg5GhEvEtlz9dKk) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [Teatro d'ira \- Vol\. I](https://open.spotify.com/album/7KF1Ain9mYYlg5M46g0i4A) | 2:53 | 2021-05-27 | 2022-01-08 |

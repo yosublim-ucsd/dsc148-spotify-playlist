@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 
 > Brand new music from Justin Timberlake \(pictured\), Caity Baser, Nemzzz and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 848,521 likes - 120 songs - 6 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 848,537 likes - 120 songs - 6 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -129,4 +129,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 | 119 | [Highways](https://open.spotify.com/track/6SGkkODfeLLZu3NI0BdFh6) | [Sophia Veraz](https://open.spotify.com/artist/5MCKCM0EPBoVHTJCGOcybJ) | [Sorry To Tell You But You Felt Like Hell](https://open.spotify.com/album/2TEt6tkhFpIAijAehHj1tl) | 3:03 |
 | 120 | [Fascist Bob](https://open.spotify.com/track/4sXLPgHzJ742DRqms3CSrI) | [SOAPBOX](https://open.spotify.com/artist/5Uz6P4BCpwuOjnznmreqFO) | [Fascist Bob](https://open.spotify.com/album/4itKJqCFMtCrwI4N1veVYL) | 1:56 |
 
-Snapshot ID: `MCwzMDg0MTY4M2I1ZTU5ZTM2MGI0ZTRiZmYxNGY4ZDI4YWMwMmVjZWEw`
+Snapshot ID: `MCwxMWUzMWIwYzRmZjFlMDcxYWU1MWQ4NGJkZTI4ODhlODgyYWY1M2Uw`

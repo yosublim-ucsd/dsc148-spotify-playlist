@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7VikJCuOpfO.md) - [plain]
 
 > Lo nuevo y lo mejor en el estilo mariachi\. Cover: Ana Bárbara
 
-[Spotify](https://open.spotify.com/user/spotify) - 198,505 likes - 99 songs - 5 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 198,553 likes - 99 songs - 5 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,15 +26,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7VikJCuOpfO.md) - [plain]
 | 16 | [Voy A Conquistarte](https://open.spotify.com/track/3ykJeceAqPKiwnFPpzUNUq) | [Diego Verdaguer](https://open.spotify.com/artist/2UFqwY8A3PLcx8pAkg9g5P) | [Mexicano Hasta Las Pampas](https://open.spotify.com/album/7KIEEuRTgrJIFx6U1e0X3q) | 2:54 |
 | 17 | [Poco](https://open.spotify.com/track/6VZMIyzOupI4vA68RaUgXb) | [Reik](https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2), [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [Poco](https://open.spotify.com/album/0rRmn2Y11t41spl9rYaxLC) | 3:45 |
 | 18 | [Caballero](https://open.spotify.com/track/6jrK6Y8d9tvjAjurI4W99u) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [Hecho En México](https://open.spotify.com/album/6pbAg7ucQDM2j47aCaxpMI) | 3:49 |
-| 19 | [¿Y Qué Tal Si Funciona?](https://open.spotify.com/track/6yKoIv4jJSb7trcphSZofT) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2), [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [¿Y Qué Tal Si Funciona?](https://open.spotify.com/album/1XLUXguw1oUNDVAvzMl4rq) | 3:05 |
-| 20 | [No Me Queda Más](https://open.spotify.com/track/2stxwFkmW2kZ6SuyJGO5q8) | [Selena](https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch) | [Amor Prohibido](https://open.spotify.com/album/3o1L0Wn7yVk7r0J1yxaRqA) | 3:20 |
+| 19 | [No Me Queda Más](https://open.spotify.com/track/2stxwFkmW2kZ6SuyJGO5q8) | [Selena](https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch) | [Amor Prohibido](https://open.spotify.com/album/3o1L0Wn7yVk7r0J1yxaRqA) | 3:20 |
+| 20 | [¿Y Qué Tal Si Funciona?](https://open.spotify.com/track/6yKoIv4jJSb7trcphSZofT) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2), [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [¿Y Qué Tal Si Funciona?](https://open.spotify.com/album/1XLUXguw1oUNDVAvzMl4rq) | 3:05 |
 | 21 | [Las Locuras Mías](https://open.spotify.com/track/78OElpvKKwUnCEoVVtqth5) | [Omar Chaparro](https://open.spotify.com/artist/4c2iIMx6xBNZkK79QTilJ6), [Joey Montana](https://open.spotify.com/artist/3ATyg4fGC9F8trfb0GRWmX) | [Las Locuras Mías](https://open.spotify.com/album/3MW5j5axtRffiCqv01Sz0P) | 3:45 |
 | 22 | [Me Extraño](https://open.spotify.com/track/49A0SKbXyTUyk5uw8fXzFi) | [Romeo Santos](https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP), [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [Me Extraño](https://open.spotify.com/album/0fuHe4cJQ677flvGr2QLN1) | 3:11 |
 | 23 | [Ahí Donde Me Ven](https://open.spotify.com/track/2HsN4JUcjkdVKyafNlu7pL) | [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH) | [Mexicana Enamorada](https://open.spotify.com/album/5A7zzI1YR0YnWmaahoQeD7) | 4:04 |
 | 24 | [Probablemente](https://open.spotify.com/track/3uc5bBXNRtCQGzRDqTPGNK) | [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP), [David Bisbal](https://open.spotify.com/artist/5gOJTI4TusSENizxhcG7jB) | [Me Dejé Llevar](https://open.spotify.com/album/2XHw4PFHT6srg7dxA3yrKv) | 3:53 |
 | 25 | [Duele](https://open.spotify.com/track/6CFaze42M5wiTqMidNtJLE) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9), [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [Duele](https://open.spotify.com/album/6ia94ihMQr60Wzr9kqvjoT) | 3:12 |
-| 26 | [Te Dejo](https://open.spotify.com/track/5N3lFRVdbmindAPgkEQwe4) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2) | [Pa' Luego Es Tarde](https://open.spotify.com/album/4l8OrF24fhXsCFF6wvP5fE) | 3:05 |
-| 27 | [Hasta Que Me Duermo](https://open.spotify.com/track/4i8PN9NYspouYFlIqsskk3) | [Pepe Aguilar](https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit) | [Hasta Que Me Duermo](https://open.spotify.com/album/1mLcet0qvEtwU5QnGpROrx) | 3:14 |
+| 26 | [Hasta Que Me Duermo](https://open.spotify.com/track/4i8PN9NYspouYFlIqsskk3) | [Pepe Aguilar](https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit) | [Hasta Que Me Duermo](https://open.spotify.com/album/1mLcet0qvEtwU5QnGpROrx) | 3:14 |
+| 27 | [Te Dejo](https://open.spotify.com/track/5N3lFRVdbmindAPgkEQwe4) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2) | [Pa' Luego Es Tarde](https://open.spotify.com/album/4l8OrF24fhXsCFF6wvP5fE) | 3:05 |
 | 28 | [100 Años](https://open.spotify.com/track/4XKC4nfeXgyd4KQDu8arKL) | [Carlos Rivera](https://open.spotify.com/artist/39yVoqm6sYFvvqF1RciUVf), [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [100 Años](https://open.spotify.com/album/1LmIj33OFO9d1XMh9jRecz) | 3:05 |
 | 29 | [Te Lloré Un Río \- Versión Mariacheño](https://open.spotify.com/track/04firplM7voiFmGWNTI3Va) | [Maná](https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz), [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [Te Lloré Un Río](https://open.spotify.com/album/7GV5uaJVmICyAAdEoUgKbd) | 3:29 |
 | 30 | [Brindo](https://open.spotify.com/track/1oLp4xkeNCxjMy4glz0vbL) | [Mario Bautista](https://open.spotify.com/artist/0AspLZGQkP38yddNoD0pLn) | [Brindo](https://open.spotify.com/album/5WBJnHs3CWYPwoi3yJS58x) | 3:05 |
@@ -101,11 +101,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7VikJCuOpfO.md) - [plain]
 | 91 | [Llevarte al Cielo](https://open.spotify.com/track/7uroGjm5aXah7MKmyquq7U) | [Natalia Jiménez](https://open.spotify.com/artist/0j8QSBQZ9MNSGjHr1Vll1R) | [ANTOLOGÍA 20 AÑOS](https://open.spotify.com/album/1mK4q3n72WfjVVAzCKpZV9) | 4:08 |
 | 92 | [Fue Tan Poco Tu Cariño](https://open.spotify.com/track/38G443AQBL6guN18IO3Qgy) | [Camila Fernández](https://open.spotify.com/artist/52Y9UQWlCoArmqJVFwaR2Q) | [Fue Tan Poco Tu Cariño](https://open.spotify.com/album/5PyJCTcVg7lQVWD2J1d3VU) | 3:15 |
 | 93 | [Cuando Caiga la Noche](https://open.spotify.com/track/15mqnAeCOQXcMB3u48RIin) | [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV) | [Cuando Caiga la Noche](https://open.spotify.com/album/366Q6rUOSrYDXjrDiuL1lU) | 3:21 |
-| 94 | [La Lotería](https://open.spotify.com/track/749UHtYWSdzlLqE9TTrjSs) | [Adriana Ríos](https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo) | [La Lotería](https://open.spotify.com/album/3jOBDGEiCdccHnOaHwZmtY) | 3:06 |
-| 95 | [Valiente](https://open.spotify.com/track/56aRk2RiNCBtX7M2k0QZAL) | [Rafael Kelly](https://open.spotify.com/artist/60D1b0MRQPmAL5TSV7e4PY) | [Valiente](https://open.spotify.com/album/4wiJhoRjHVd2OcoQTCvfMf) | 2:31 |
+| 94 | [Valiente](https://open.spotify.com/track/56aRk2RiNCBtX7M2k0QZAL) | [Rafael Kelly](https://open.spotify.com/artist/60D1b0MRQPmAL5TSV7e4PY) | [Valiente](https://open.spotify.com/album/4wiJhoRjHVd2OcoQTCvfMf) | 2:31 |
+| 95 | [La Lotería](https://open.spotify.com/track/749UHtYWSdzlLqE9TTrjSs) | [Adriana Ríos](https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo) | [La Lotería](https://open.spotify.com/album/3jOBDGEiCdccHnOaHwZmtY) | 3:06 |
 | 96 | [Duele Estar Vivo](https://open.spotify.com/track/2UEWCYISDArkdFAm7QpTk0) | [El Bebeto](https://open.spotify.com/artist/1YhMWppPt9RVODKD1KCs7W) | [Valió La Pena Con Mariachi](https://open.spotify.com/album/1E0UDUTKwV8g8dH6hkyPAW) | 3:46 |
 | 97 | [Te Amo](https://open.spotify.com/track/5qU3ueDwaTS5lFXgKGh1xQ) | [Alex Fernández](https://open.spotify.com/artist/4Xwvz864z2uP3bwPcjKJjC) | [Te Amo](https://open.spotify.com/album/4ygevNEHvsankgq9DTSMba) | 2:55 |
 | 98 | [PALOMA BLANCA](https://open.spotify.com/track/0qTmcxa3HhdKEH0wftscnQ) | [Chiquis](https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS), [Mariachi Divas de Cindy Shea](https://open.spotify.com/artist/3D5AzlMCW0gCYlNvFANoEd) | [Paloma Blanca](https://open.spotify.com/album/7jGwTVjD5GOy8cUQqhJpsI) | 3:53 |
 | 99 | [Dime Qué Se Siente](https://open.spotify.com/track/2FnRmVa4tP4JTQO5TKZCrS) | [Camila Fernández](https://open.spotify.com/artist/52Y9UQWlCoArmqJVFwaR2Q) | [Dime Qué Se Siente](https://open.spotify.com/album/4AGPivHFA82lHKFeIdM7kP) | 2:41 |
 
-Snapshot ID: `MCxhODVkMzJiMTQ4MmNiZjYxYzJhZWY4OWQ3ZGZjOWQxZWFiODU0NzEz`
+Snapshot ID: `MCw2NGZhNDA0NWU3OGQ5ZmEzYmQxNDMzZDA3ZjA2YjhlZmY4MjRhNTAx`

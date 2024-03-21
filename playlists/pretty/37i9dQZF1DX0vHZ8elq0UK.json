@@ -1,12 +1,12 @@
 {
   "description": "Need to get your energy level up?",
-  "num_followers": 888968,
+  "num_followers": 889524,
   "original_name": "Energy Booster: Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkMTAyYTMxNzlhMTM3MzQwZjFjMjhiYzAwYWY4NDY3YzJjZTliODdj",
+  "snapshot_id": "MCxiNTQzMWUxZGQ0NTE0NmVhNTA1NmM3NDEwZTU1NjIzMjg3ZTc0ZDc1",
   "tracks": [
     {
       "added_at": "2024-02-14 04:10:54",
@@ -455,22 +455,6 @@
     {
       "added_at": "2024-02-14 04:10:54",
       "album": {
-        "name": "DNCE",
-        "url": "https://open.spotify.com/album/3Wv4X8OA65pGpFzBkuUgAh"
-      },
-      "artists": [
-        {
-          "name": "DNCE",
-          "url": "https://open.spotify.com/artist/6T5tfhQCknKG4UnH90qGnz"
-        }
-      ],
-      "duration_ms": 219146,
-      "name": "Cake By The Ocean",
-      "url": "https://open.spotify.com/track/76hfruVvmfQbw0eYn1nmeC"
-    },
-    {
-      "added_at": "2024-02-14 04:10:54",
-      "album": {
         "name": "My Everything (Deluxe)",
         "url": "https://open.spotify.com/album/6EVYTRG1drKdO8OnIQBeEj"
       },
@@ -483,6 +467,22 @@
       "duration_ms": 197266,
       "name": "One Last Time",
       "url": "https://open.spotify.com/track/7xoUc6faLbCqZO6fQEYprd"
+    },
+    {
+      "added_at": "2024-02-14 04:10:54",
+      "album": {
+        "name": "DNCE",
+        "url": "https://open.spotify.com/album/3Wv4X8OA65pGpFzBkuUgAh"
+      },
+      "artists": [
+        {
+          "name": "DNCE",
+          "url": "https://open.spotify.com/artist/6T5tfhQCknKG4UnH90qGnz"
+        }
+      ],
+      "duration_ms": 219146,
+      "name": "Cake By The Ocean",
+      "url": "https://open.spotify.com/track/76hfruVvmfQbw0eYn1nmeC"
     },
     {
       "added_at": "2024-02-14 04:10:54",
@@ -731,22 +731,6 @@
     {
       "added_at": "2024-02-14 04:10:54",
       "album": {
-        "name": "Heaven & Hell",
-        "url": "https://open.spotify.com/album/26c7MmQ4w8EAvVLb4jilaM"
-      },
-      "artists": [
-        {
-          "name": "Ava Max",
-          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
-        }
-      ],
-      "duration_ms": 162398,
-      "name": "Kings & Queens",
-      "url": "https://open.spotify.com/track/7a53HqqArd4b9NF4XAmlbI"
-    },
-    {
-      "added_at": "2024-02-14 04:10:54",
-      "album": {
         "name": "Music Of The Sun",
         "url": "https://open.spotify.com/album/4FyGpObwABjn0o8Tdp7AZz"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 246960,
       "name": "Pon de Replay",
       "url": "https://open.spotify.com/track/4TsmezEQVSZNNPv5RJ65Ov"
+    },
+    {
+      "added_at": "2024-02-14 04:10:54",
+      "album": {
+        "name": "Heaven & Hell",
+        "url": "https://open.spotify.com/album/26c7MmQ4w8EAvVLb4jilaM"
+      },
+      "artists": [
+        {
+          "name": "Ava Max",
+          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
+        }
+      ],
+      "duration_ms": 162398,
+      "name": "Kings & Queens",
+      "url": "https://open.spotify.com/track/7a53HqqArd4b9NF4XAmlbI"
     },
     {
       "added_at": "2024-02-14 04:10:54",
@@ -1239,26 +1239,6 @@
     {
       "added_at": "2024-02-14 04:10:54",
       "album": {
-        "name": "Believe (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/70f70xLCpH7wHaVvB2oZT9"
-      },
-      "artists": [
-        {
-          "name": "Justin Bieber",
-          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
-        },
-        {
-          "name": "Nicki Minaj",
-          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
-        }
-      ],
-      "duration_ms": 227986,
-      "name": "Beauty And A Beat",
-      "url": "https://open.spotify.com/track/190jyVPHYjAqEaOGmMzdyk"
-    },
-    {
-      "added_at": "2024-02-14 04:10:54",
-      "album": {
         "name": "Head & Heart (feat. MNEK)",
         "url": "https://open.spotify.com/album/5glfCPECXSHzidU6exW8wO"
       },
@@ -1275,6 +1255,26 @@
       "duration_ms": 166028,
       "name": "Head & Heart (feat. MNEK)",
       "url": "https://open.spotify.com/track/6cx06DFPPHchuUAcTxznu9"
+    },
+    {
+      "added_at": "2024-02-14 04:10:54",
+      "album": {
+        "name": "Believe (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/70f70xLCpH7wHaVvB2oZT9"
+      },
+      "artists": [
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        },
+        {
+          "name": "Nicki Minaj",
+          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+        }
+      ],
+      "duration_ms": 227986,
+      "name": "Beauty And A Beat",
+      "url": "https://open.spotify.com/track/190jyVPHYjAqEaOGmMzdyk"
     },
     {
       "added_at": "2024-02-14 04:10:54",
@@ -1423,22 +1423,6 @@
     {
       "added_at": "2024-02-14 04:10:54",
       "album": {
-        "name": "The Rokstarr Hits Collection",
-        "url": "https://open.spotify.com/album/0eGvq1J5Ke7VlLLOYIlY4k"
-      },
-      "artists": [
-        {
-          "name": "Taio Cruz",
-          "url": "https://open.spotify.com/artist/6MF9fzBmfXghAz953czmBC"
-        }
-      ],
-      "duration_ms": 202613,
-      "name": "Dynamite",
-      "url": "https://open.spotify.com/track/2CEgGE6aESpnmtfiZwYlbV"
-    },
-    {
-      "added_at": "2024-02-14 04:10:54",
-      "album": {
         "name": "MAP OF THE SOUL : PERSONA",
         "url": "https://open.spotify.com/album/2KqlAl1Kl5fZvbFgJ0qFB6"
       },
@@ -1455,6 +1439,22 @@
       "duration_ms": 229773,
       "name": "Boy With Luv (feat. Halsey)",
       "url": "https://open.spotify.com/track/4a9tbd947vo9K8Vti9JwcI"
+    },
+    {
+      "added_at": "2024-02-14 04:10:54",
+      "album": {
+        "name": "The Rokstarr Hits Collection",
+        "url": "https://open.spotify.com/album/0eGvq1J5Ke7VlLLOYIlY4k"
+      },
+      "artists": [
+        {
+          "name": "Taio Cruz",
+          "url": "https://open.spotify.com/artist/6MF9fzBmfXghAz953czmBC"
+        }
+      ],
+      "duration_ms": 202613,
+      "name": "Dynamite",
+      "url": "https://open.spotify.com/track/2CEgGE6aESpnmtfiZwYlbV"
     },
     {
       "added_at": "2024-02-14 04:10:54",
@@ -1531,22 +1531,6 @@
     {
       "added_at": "2024-02-14 04:10:54",
       "album": {
-        "name": "Ricky Martin",
-        "url": "https://open.spotify.com/album/1k1Cr3nlJDa8pvwZUJ5xfj"
-      },
-      "artists": [
-        {
-          "name": "Ricky Martin",
-          "url": "https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ"
-        }
-      ],
-      "duration_ms": 243160,
-      "name": "Livin' la Vida Loca",
-      "url": "https://open.spotify.com/track/0Ph6L4l8dYUuXFmb71Ajnd"
-    },
-    {
-      "added_at": "2024-02-14 04:10:54",
-      "album": {
         "name": "Proof",
         "url": "https://open.spotify.com/album/6al2VdKbb6FIz9d7lU7WRB"
       },
@@ -1559,6 +1543,22 @@
       "duration_ms": 164952,
       "name": "Butter",
       "url": "https://open.spotify.com/track/6jjYDGxVJsWS0a5wlVF5vS"
+    },
+    {
+      "added_at": "2024-02-14 04:10:54",
+      "album": {
+        "name": "Ricky Martin",
+        "url": "https://open.spotify.com/album/1k1Cr3nlJDa8pvwZUJ5xfj"
+      },
+      "artists": [
+        {
+          "name": "Ricky Martin",
+          "url": "https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ"
+        }
+      ],
+      "duration_ms": 243160,
+      "name": "Livin' la Vida Loca",
+      "url": "https://open.spotify.com/track/0Ph6L4l8dYUuXFmb71Ajnd"
     },
     {
       "added_at": "2024-02-14 04:10:54",
@@ -1611,22 +1611,6 @@
     {
       "added_at": "2024-02-14 04:10:54",
       "album": {
-        "name": "Teenage Dream: The Complete Confection",
-        "url": "https://open.spotify.com/album/5BvgP623rtvlc0HDcpzquz"
-      },
-      "artists": [
-        {
-          "name": "Katy Perry",
-          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
-        }
-      ],
-      "duration_ms": 216160,
-      "name": "Part Of Me",
-      "url": "https://open.spotify.com/track/1nZzRJbFvCEct3uzu04ZoL"
-    },
-    {
-      "added_at": "2024-02-14 04:10:54",
-      "album": {
         "name": "Heartbreak Anthem (with David Guetta & Little Mix)",
         "url": "https://open.spotify.com/album/6kBuGNoOGE7uiPhN82dcJ1"
       },
@@ -1651,6 +1635,22 @@
     {
       "added_at": "2024-02-14 04:10:54",
       "album": {
+        "name": "Teenage Dream: The Complete Confection",
+        "url": "https://open.spotify.com/album/5BvgP623rtvlc0HDcpzquz"
+      },
+      "artists": [
+        {
+          "name": "Katy Perry",
+          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
+        }
+      ],
+      "duration_ms": 216160,
+      "name": "Part Of Me",
+      "url": "https://open.spotify.com/track/1nZzRJbFvCEct3uzu04ZoL"
+    },
+    {
+      "added_at": "2024-02-14 04:10:54",
+      "album": {
         "name": "Chromatica",
         "url": "https://open.spotify.com/album/05c49JgPmL4Uz2ZeqRx5SP"
       },
@@ -1671,22 +1671,6 @@
     {
       "added_at": "2024-02-14 04:10:54",
       "album": {
-        "name": "Get Weird (Expanded Edition)",
-        "url": "https://open.spotify.com/album/2FnfZiFMv7bmXAIATOJDHs"
-      },
-      "artists": [
-        {
-          "name": "Little Mix",
-          "url": "https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp"
-        }
-      ],
-      "duration_ms": 211786,
-      "name": "Black Magic",
-      "url": "https://open.spotify.com/track/6rmXhRIemCTPyMYZRDN7Qg"
-    },
-    {
-      "added_at": "2024-02-14 04:10:54",
-      "album": {
         "name": "THIS IS... ICONA POP",
         "url": "https://open.spotify.com/album/59ZxtwIOD1wowkNvVHXqtP"
       },
@@ -1703,6 +1687,22 @@
       "duration_ms": 157152,
       "name": "I Love It (feat. Charli XCX)",
       "url": "https://open.spotify.com/track/6HZ9VeI5IRFCNQLXhpF4bq"
+    },
+    {
+      "added_at": "2024-02-14 04:10:54",
+      "album": {
+        "name": "Get Weird (Expanded Edition)",
+        "url": "https://open.spotify.com/album/2FnfZiFMv7bmXAIATOJDHs"
+      },
+      "artists": [
+        {
+          "name": "Little Mix",
+          "url": "https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp"
+        }
+      ],
+      "duration_ms": 211786,
+      "name": "Black Magic",
+      "url": "https://open.spotify.com/track/6rmXhRIemCTPyMYZRDN7Qg"
     },
     {
       "added_at": "2024-02-14 04:10:54",
@@ -1803,22 +1803,6 @@
     {
       "added_at": "2024-02-14 04:10:54",
       "album": {
-        "name": "Glory Days (Expanded Edition)",
-        "url": "https://open.spotify.com/album/4w49hcqZt66HZX0MJHfW0m"
-      },
-      "artists": [
-        {
-          "name": "Little Mix",
-          "url": "https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp"
-        }
-      ],
-      "duration_ms": 246240,
-      "name": "Shout Out to My Ex",
-      "url": "https://open.spotify.com/track/0ErK6K0kYr0Ow2RkPMhmMs"
-    },
-    {
-      "added_at": "2024-02-14 04:10:54",
-      "album": {
         "name": "Bombs Away",
         "url": "https://open.spotify.com/album/0ecUmBX4469DFW5iWkuHia"
       },
@@ -1831,6 +1815,22 @@
       "duration_ms": 218227,
       "name": "Geronimo",
       "url": "https://open.spotify.com/track/0qt5f5EL92o8Snzopsv0en"
+    },
+    {
+      "added_at": "2024-02-14 04:10:54",
+      "album": {
+        "name": "Glory Days (Expanded Edition)",
+        "url": "https://open.spotify.com/album/4w49hcqZt66HZX0MJHfW0m"
+      },
+      "artists": [
+        {
+          "name": "Little Mix",
+          "url": "https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp"
+        }
+      ],
+      "duration_ms": 246240,
+      "name": "Shout Out to My Ex",
+      "url": "https://open.spotify.com/track/0ErK6K0kYr0Ow2RkPMhmMs"
     },
     {
       "added_at": "2024-02-14 04:10:54",
@@ -1975,22 +1975,6 @@
     {
       "added_at": "2024-02-14 04:10:54",
       "album": {
-        "name": "1989",
-        "url": "https://open.spotify.com/album/2QJmrSgbdM35R67eoGQo4j"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 219200,
-      "name": "Shake It Off",
-      "url": "https://open.spotify.com/track/5xTtaWoae3wi06K5WfVUUH"
-    },
-    {
-      "added_at": "2024-02-14 04:10:54",
-      "album": {
         "name": "Shawn Mendes (Deluxe)",
         "url": "https://open.spotify.com/album/0xzScN8P3hQAz3BT3YYX5w"
       },
@@ -2003,6 +1987,22 @@
       "duration_ms": 191466,
       "name": "If I Can't Have You",
       "url": "https://open.spotify.com/track/2bT1PH7Cw3J9p3t7nlXCdh"
+    },
+    {
+      "added_at": "2024-02-14 04:10:54",
+      "album": {
+        "name": "1989",
+        "url": "https://open.spotify.com/album/2QJmrSgbdM35R67eoGQo4j"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 219200,
+      "name": "Shake It Off",
+      "url": "https://open.spotify.com/track/5xTtaWoae3wi06K5WfVUUH"
     },
     {
       "added_at": "2024-02-14 04:10:54",
@@ -2087,18 +2087,22 @@
     {
       "added_at": "2024-02-14 04:10:54",
       "album": {
-        "name": "5 Seconds Of Summer",
-        "url": "https://open.spotify.com/album/2LkWHNNHgD6BRNeZI2SL1L"
+        "name": "Summer Of Love",
+        "url": "https://open.spotify.com/album/4nProAxFavzKkbaRQ2Otyk"
       },
       "artists": [
         {
-          "name": "5 Seconds of Summer",
-          "url": "https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy"
+          "name": "Shawn Mendes",
+          "url": "https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr"
+        },
+        {
+          "name": "Tainy",
+          "url": "https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB"
         }
       ],
-      "duration_ms": 202496,
-      "name": "She Looks So Perfect",
-      "url": "https://open.spotify.com/track/1gugDOSMREb34Xo0c1PlxM"
+      "duration_ms": 184104,
+      "name": "Summer of Love (Shawn Mendes & Tainy)",
+      "url": "https://open.spotify.com/track/0z8hI3OPS8ADPWtoCjjLl6"
     },
     {
       "added_at": "2024-02-14 04:10:54",
@@ -2119,22 +2123,18 @@
     {
       "added_at": "2024-02-14 04:10:54",
       "album": {
-        "name": "Summer Of Love",
-        "url": "https://open.spotify.com/album/4nProAxFavzKkbaRQ2Otyk"
+        "name": "5 Seconds Of Summer",
+        "url": "https://open.spotify.com/album/2LkWHNNHgD6BRNeZI2SL1L"
       },
       "artists": [
         {
-          "name": "Shawn Mendes",
-          "url": "https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr"
-        },
-        {
-          "name": "Tainy",
-          "url": "https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB"
+          "name": "5 Seconds of Summer",
+          "url": "https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy"
         }
       ],
-      "duration_ms": 184104,
-      "name": "Summer of Love (Shawn Mendes & Tainy)",
-      "url": "https://open.spotify.com/track/0z8hI3OPS8ADPWtoCjjLl6"
+      "duration_ms": 202496,
+      "name": "She Looks So Perfect",
+      "url": "https://open.spotify.com/track/1gugDOSMREb34Xo0c1PlxM"
     },
     {
       "added_at": "2024-02-14 04:10:54",
@@ -2347,22 +2347,6 @@
     {
       "added_at": "2024-02-14 04:10:54",
       "album": {
-        "name": "M!ssundaztood (Expanded Edition)",
-        "url": "https://open.spotify.com/album/57wJKO7qrPw56iOEKhTmg2"
-      },
-      "artists": [
-        {
-          "name": "P!nk",
-          "url": "https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR"
-        }
-      ],
-      "duration_ms": 236600,
-      "name": "Just Like a Pill",
-      "url": "https://open.spotify.com/track/1BpV8IGf4XsRRJf4Xuui9q"
-    },
-    {
-      "added_at": "2024-02-14 04:10:54",
-      "album": {
         "name": "Run",
         "url": "https://open.spotify.com/album/4d0a5uamW9NWRc1KXFeErI"
       },
@@ -2375,6 +2359,22 @@
       "duration_ms": 169010,
       "name": "Run",
       "url": "https://open.spotify.com/track/2UbVnbE5FH6008mAm6Mmgw"
+    },
+    {
+      "added_at": "2024-02-14 04:10:54",
+      "album": {
+        "name": "M!ssundaztood (Expanded Edition)",
+        "url": "https://open.spotify.com/album/57wJKO7qrPw56iOEKhTmg2"
+      },
+      "artists": [
+        {
+          "name": "P!nk",
+          "url": "https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR"
+        }
+      ],
+      "duration_ms": 236600,
+      "name": "Just Like a Pill",
+      "url": "https://open.spotify.com/track/1BpV8IGf4XsRRJf4Xuui9q"
     },
     {
       "added_at": "2024-02-14 04:10:54",
@@ -2479,22 +2479,6 @@
     {
       "added_at": "2024-02-14 04:10:54",
       "album": {
-        "name": "Millennium",
-        "url": "https://open.spotify.com/album/5ySxm9hxBNss01WCL7GLyQ"
-      },
-      "artists": [
-        {
-          "name": "Backstreet Boys",
-          "url": "https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7"
-        }
-      ],
-      "duration_ms": 232826,
-      "name": "Larger Than Life",
-      "url": "https://open.spotify.com/track/6sbXGUn9V9ZaLwLdOfpKRE"
-    },
-    {
-      "added_at": "2024-02-14 04:10:54",
-      "album": {
         "name": "Chromatica",
         "url": "https://open.spotify.com/album/05c49JgPmL4Uz2ZeqRx5SP"
       },
@@ -2507,6 +2491,22 @@
       "duration_ms": 193533,
       "name": "Stupid Love",
       "url": "https://open.spotify.com/track/7yBbV2k2S2uhaQc24NF2xt"
+    },
+    {
+      "added_at": "2024-02-14 04:10:54",
+      "album": {
+        "name": "Millennium",
+        "url": "https://open.spotify.com/album/5ySxm9hxBNss01WCL7GLyQ"
+      },
+      "artists": [
+        {
+          "name": "Backstreet Boys",
+          "url": "https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7"
+        }
+      ],
+      "duration_ms": 232826,
+      "name": "Larger Than Life",
+      "url": "https://open.spotify.com/track/6sbXGUn9V9ZaLwLdOfpKRE"
     },
     {
       "added_at": "2024-02-14 04:10:54",
@@ -2595,6 +2595,22 @@
     {
       "added_at": "2024-02-14 04:10:54",
       "album": {
+        "name": "Born This Way (Special Edition)",
+        "url": "https://open.spotify.com/album/5maeycU97NHBgwRr2h2A4O"
+      },
+      "artists": [
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        }
+      ],
+      "duration_ms": 260252,
+      "name": "Born This Way",
+      "url": "https://open.spotify.com/track/6r2BECwMgEoRb5yLfp0Hca"
+    },
+    {
+      "added_at": "2024-02-14 04:10:54",
+      "album": {
         "name": "Choose Your Fighter (From Barbie The Album)",
         "url": "https://open.spotify.com/album/718h0CzRHO6ums1CTrB5L1"
       },
@@ -2623,22 +2639,6 @@
       "duration_ms": 193213,
       "name": "Single Ladies (Put a Ring on It)",
       "url": "https://open.spotify.com/track/5R9a4t5t5O0IsznsrKPVro"
-    },
-    {
-      "added_at": "2024-02-14 04:10:54",
-      "album": {
-        "name": "Born This Way (Special Edition)",
-        "url": "https://open.spotify.com/album/5maeycU97NHBgwRr2h2A4O"
-      },
-      "artists": [
-        {
-          "name": "Lady Gaga",
-          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
-        }
-      ],
-      "duration_ms": 260252,
-      "name": "Born This Way",
-      "url": "https://open.spotify.com/track/6r2BECwMgEoRb5yLfp0Hca"
     },
     {
       "added_at": "2024-02-14 04:10:54",

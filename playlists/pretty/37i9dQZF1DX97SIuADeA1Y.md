@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX97SIuADeA1Y.md) - [plain]
 
 > The bassline keeps you moving.
 
-[Spotify](https://open.spotify.com/user/spotify) - 334,935 likes - 60 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 334,995 likes - 60 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX97SIuADeA1Y.md) - [plain]
 | 23 | [Big Hoops](https://open.spotify.com/track/29jqFjb8D3GvGjWcCnl4IJ) | [JKRS](https://open.spotify.com/artist/5EXlM2WBPw4fwTnDNazXxv), [LEOWI](https://open.spotify.com/artist/1qoalO0xHFgZRn4JhRuq7Y) | [Big Hoops](https://open.spotify.com/album/4tBx7yPE2YtUqXrLldEghH) | 2:19 |
 | 24 | [Touch](https://open.spotify.com/track/2nCIE2AVFQ1adRVkocdGOp) | [VINAI](https://open.spotify.com/artist/4mrBetqy378Jf1y6NLszlx) | [Touch](https://open.spotify.com/album/5ik87NiTm8sIW95DZjJPUk) | 2:24 |
 | 25 | [Lady](https://open.spotify.com/track/6ZLSMHpVJf7ZzHttdmROoD) | [LANNÉ](https://open.spotify.com/artist/0K3HwnyYaxoQO9hZCBLtOH), [Giorgio Gee](https://open.spotify.com/artist/2uNkbVQ2yfwLDR79cYe92R), [Scott Rill](https://open.spotify.com/artist/7dNg7OLrxcWU9cVe3sQoMV) | [Lady](https://open.spotify.com/album/0hZQmqMGLG95A46E8YoQN3) | 2:35 |
-| 26 | [Keep on Moving](https://open.spotify.com/track/2sHa8ZvrwS2LZagaUM3FN5) | [Kastuvas](https://open.spotify.com/artist/48aqzGnSFeO0t4FKTGmq72), [Emie](https://open.spotify.com/artist/7vMDKdgSZ2Scn4uzFdTDyZ) | [Keep on Moving](https://open.spotify.com/album/3vLlGwZQi5yorSzKAaHVzy) | 2:57 |
-| 27 | [Sweet Dreams \(feat\. Imanbek\) \- With Alok](https://open.spotify.com/track/5mnidOH84oGj82xBcypP2j) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Imanbek](https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj) | [Sweet Dreams \(feat\. Imanbek\) \[Remixes\]](https://open.spotify.com/album/5LKrGd8oU56PLe793imghr) | 2:20 |
+| 26 | [Sweet Dreams \(feat\. Imanbek\) \- With Alok](https://open.spotify.com/track/5mnidOH84oGj82xBcypP2j) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Imanbek](https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj) | [Sweet Dreams \(feat\. Imanbek\) \[Remixes\]](https://open.spotify.com/album/5LKrGd8oU56PLe793imghr) | 2:20 |
+| 27 | [Keep on Moving](https://open.spotify.com/track/2sHa8ZvrwS2LZagaUM3FN5) | [Kastuvas](https://open.spotify.com/artist/48aqzGnSFeO0t4FKTGmq72), [Emie](https://open.spotify.com/artist/7vMDKdgSZ2Scn4uzFdTDyZ) | [Keep on Moving](https://open.spotify.com/album/3vLlGwZQi5yorSzKAaHVzy) | 2:57 |
 | 28 | [Dance Again](https://open.spotify.com/track/1iObkel3ZEmeqAnOQJs5ky) | [Anthony Keyrouz](https://open.spotify.com/artist/0y4czH6DnvpftiSoy7V3HY), [Ekko](https://open.spotify.com/artist/4QKGlPUIuL7IzE4vsVwIu6) | [Dance Again](https://open.spotify.com/album/6pzKYeH4CorXYDL8rOOZOC) | 2:32 |
 | 29 | [1001 Arabian Nights](https://open.spotify.com/track/3YmiKv5z67ZV8tiW1eNHCM) | [ItaloBrothers](https://open.spotify.com/artist/5nkYRuiIHg2xXHFC8bfosJ), [Chipz](https://open.spotify.com/artist/770rU18or2uAGT21xyvpzp) | [1001 Arabian Nights](https://open.spotify.com/album/6yGgrWVZENV6IQCCpxZQRI) | 2:54 |
 | 30 | [Somebody To Love](https://open.spotify.com/track/7AxA87dIJ1FF4l1BQ98ZCZ) | [Axel Black & White](https://open.spotify.com/artist/3OexsqL65OHjNt8oeFn0fN) | [Somebody To Love](https://open.spotify.com/album/7FzaGZqU7lXtba0UkfoIEc) | 2:21 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX97SIuADeA1Y.md) - [plain]
 | 59 | [Secrets](https://open.spotify.com/track/5P0quNgefuYhIMxeGCYdqs) | [Sergio Trillini](https://open.spotify.com/artist/632XNUTWRkhxOkb7y4698e) | [Secrets](https://open.spotify.com/album/1EoFFjUp5s2mK6K6cyvhRX) | 2:11 |
 | 60 | [World in Your Eyes](https://open.spotify.com/track/5ma7yZhAlSKgFYYEqYHOD9) | [Neptunica](https://open.spotify.com/artist/5dGsIOepO9ufQlXjW8KrPL), [Pule](https://open.spotify.com/artist/4ZRiZlB8TEZwhXqwLr0U9R), [Crystal Rock](https://open.spotify.com/artist/7eehGkMnqCS6Hp7HJIXH9e), [Heleen](https://open.spotify.com/artist/71GRU9wS94BTdNwQWRMJV6) | [World in Your Eyes](https://open.spotify.com/album/7hlG0h8cXqlLjF8rVCE92E) | 2:11 |
 
-Snapshot ID: `MCwwYjBjYzM3MDYyNTQyMzBmYzY3Y2MyNWZiMTcxYWQ4NzQ4Y2Y2ODRm`
+Snapshot ID: `MCwzM2E5MjYxZDg5MDgzYzkwMmVmYTI0YjgzZGJlNGIwZTFhN2U5YzYz`

@@ -1,12 +1,12 @@
 {
   "description": "\u9019\u4e9b\u6709\u7bc0\u594f\u6709\u6eab\u5ea6\u7684\u60c5\u6b4c\uff0c\u80fd\u8b93\u4f60\u6642\u6642\u523b\u523b\u90fd\u6709\u5728\u5e78\u798f\u4e2d\u904a\u8d70\u7684\u611f\u89ba\u3002",
-  "num_followers": 94757,
+  "num_followers": 94768,
   "original_name": "\u6696\u5fc3\u60c5\u6b4c",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlMzI5MThiOGQ0ZGYwMjk5MDU0NjE0ODdiYzE0ZGZiMmJjN2ZlZTRj",
+  "snapshot_id": "MCxjODg4YTJkNDk2Yjg1MTc2OGE5M2QwOWY2NzUzMDFkYjM5YjhkZDdh",
   "tracks": [
     {
       "added_at": "2024-03-18 01:00:00",
@@ -715,22 +715,6 @@
     {
       "added_at": "2024-03-18 01:00:00",
       "album": {
-        "name": "\u6e10\u6696",
-        "url": "https://open.spotify.com/album/1o2NQjq0Cux4JSwxhd4JQd"
-      },
-      "artists": [
-        {
-          "name": "\u6642\u4ee3\u5c11\u5e74\u5718",
-          "url": "https://open.spotify.com/artist/6I36DXLxkJxYeq82tDH4zz"
-        }
-      ],
-      "duration_ms": 190390,
-      "name": "\u6e10\u6696",
-      "url": "https://open.spotify.com/track/3BR2pyEvbTwVhE0qpGEMaX"
-    },
-    {
-      "added_at": "2024-03-18 01:00:00",
-      "album": {
         "name": "\u6211\u7684\u9ea5\u514b\u98a8",
         "url": "https://open.spotify.com/album/4MYmTwirh8mfdWZxVa9mgX"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 241213,
       "name": "\u611b\u4e0a\u672a\u4f86\u7684\u4f60",
       "url": "https://open.spotify.com/track/3bUYcpibCAUQe0O9ZERqTl"
+    },
+    {
+      "added_at": "2024-03-18 01:00:00",
+      "album": {
+        "name": "\u6e10\u6696",
+        "url": "https://open.spotify.com/album/1o2NQjq0Cux4JSwxhd4JQd"
+      },
+      "artists": [
+        {
+          "name": "\u6642\u4ee3\u5c11\u5e74\u5718",
+          "url": "https://open.spotify.com/artist/6I36DXLxkJxYeq82tDH4zz"
+        }
+      ],
+      "duration_ms": 190390,
+      "name": "\u6e10\u6696",
+      "url": "https://open.spotify.com/track/3BR2pyEvbTwVhE0qpGEMaX"
     },
     {
       "added_at": "2024-03-18 01:00:00",
@@ -967,22 +967,6 @@
     {
       "added_at": "2024-03-18 01:00:00",
       "album": {
-        "name": "Take Off - The 1st Mini Album",
-        "url": "https://open.spotify.com/album/7IzPpfu5gInokmyg2rDhRL"
-      },
-      "artists": [
-        {
-          "name": "WayV",
-          "url": "https://open.spotify.com/artist/1qBsABYUrxg9afpMtyoFKz"
-        }
-      ],
-      "duration_ms": 226013,
-      "name": "Let me love u",
-      "url": "https://open.spotify.com/track/4CZaAPfc74YaIPBEMFCKXH"
-    },
-    {
-      "added_at": "2024-03-18 01:00:00",
-      "album": {
         "name": "\u597d\u50cf\u90fd\u4e00\u6a23 (\u96fb\u8996\u5287\u300a\u5169\u500b\u4eba\u7684\u5c0f\u68ee\u6797\u300b\u7247\u5c3e\u66f2)",
         "url": "https://open.spotify.com/album/5yMcA6cG26E9Hfgy81EBl6"
       },
@@ -999,6 +983,22 @@
       "duration_ms": 177536,
       "name": "\u597d\u50cf\u90fd\u4e00\u6a23 (\u96fb\u8996\u5287\u300a\u5169\u500b\u4eba\u7684\u5c0f\u68ee\u6797\u300b\u7247\u5c3e\u66f2)",
       "url": "https://open.spotify.com/track/7nX4mpxrY71HCtzRa3zmrn"
+    },
+    {
+      "added_at": "2024-03-18 01:00:00",
+      "album": {
+        "name": "Take Off - The 1st Mini Album",
+        "url": "https://open.spotify.com/album/7IzPpfu5gInokmyg2rDhRL"
+      },
+      "artists": [
+        {
+          "name": "WayV",
+          "url": "https://open.spotify.com/artist/1qBsABYUrxg9afpMtyoFKz"
+        }
+      ],
+      "duration_ms": 226013,
+      "name": "Let me love u",
+      "url": "https://open.spotify.com/track/4CZaAPfc74YaIPBEMFCKXH"
     },
     {
       "added_at": "2024-03-18 01:00:00",

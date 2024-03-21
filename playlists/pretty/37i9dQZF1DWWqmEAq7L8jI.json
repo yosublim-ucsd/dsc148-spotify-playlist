@@ -1,12 +1,12 @@
 {
   "description": "Dale play y que la m\u00fasica te acompa\u00f1e.",
-  "num_followers": 270015,
+  "num_followers": 270048,
   "original_name": "Radio Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzMjNiODdjNjc2MjlkYmQ0Y2NkNzc0N2JlMGUyYTM4MmYzNjhhNmYy",
+  "snapshot_id": "MCw0ODA2ZmVlNjhlN2MxYmIzNWRkODc3MjdlMjIzNDU2NTQ0MzlmZDA3",
   "tracks": [
     {
       "added_at": "2024-03-08 03:00:00",
@@ -411,8 +411,8 @@
     {
       "added_at": "2024-03-08 03:00:00",
       "album": {
-        "name": "Mejor Que Ayer",
-        "url": "https://open.spotify.com/album/4Ed4DOX5GgpRHxLYPltqAf"
+        "name": "Un Mundo Diferente",
+        "url": "https://open.spotify.com/album/6lQH3MxpJygGIGs9mOZUNf"
       },
       "artists": [
         {
@@ -420,9 +420,9 @@
           "url": "https://open.spotify.com/artist/0LALueHEQunQ2d61fXGeZh"
         }
       ],
-      "duration_ms": 186666,
-      "name": "Mejor Que Ayer",
-      "url": "https://open.spotify.com/track/3fvOt4vIE0JMO8GtMlrKip"
+      "duration_ms": 267106,
+      "name": "Color Esperanza",
+      "url": "https://open.spotify.com/track/3T07pNAEVr9adeIG9i1ex4"
     },
     {
       "added_at": "2024-03-08 03:00:00",
@@ -519,8 +519,8 @@
     {
       "added_at": "2024-03-08 03:00:00",
       "album": {
-        "name": "Un Mundo Diferente",
-        "url": "https://open.spotify.com/album/6lQH3MxpJygGIGs9mOZUNf"
+        "name": "Mejor Que Ayer",
+        "url": "https://open.spotify.com/album/4Ed4DOX5GgpRHxLYPltqAf"
       },
       "artists": [
         {
@@ -528,9 +528,9 @@
           "url": "https://open.spotify.com/artist/0LALueHEQunQ2d61fXGeZh"
         }
       ],
-      "duration_ms": 267106,
-      "name": "Color Esperanza",
-      "url": "https://open.spotify.com/track/3T07pNAEVr9adeIG9i1ex4"
+      "duration_ms": 186666,
+      "name": "Mejor Que Ayer",
+      "url": "https://open.spotify.com/track/3fvOt4vIE0JMO8GtMlrKip"
     },
     {
       "added_at": "2024-03-08 03:00:00",
@@ -1179,22 +1179,6 @@
     {
       "added_at": "2024-03-08 03:00:00",
       "album": {
-        "name": "SloMo",
-        "url": "https://open.spotify.com/album/4XH5TqMkP2lFr75tCLtPVz"
-      },
-      "artists": [
-        {
-          "name": "Chanel",
-          "url": "https://open.spotify.com/artist/5DeX42pr2TilrnsUgjG8D1"
-        }
-      ],
-      "duration_ms": 176285,
-      "name": "SloMo",
-      "url": "https://open.spotify.com/track/0T71AvVXY4RB65tvdIyzdO"
-    },
-    {
-      "added_at": "2024-03-08 03:00:00",
-      "album": {
         "name": "Baloncito Viejo",
         "url": "https://open.spotify.com/album/6pXlVFGw6ydQu6aOCEUHDe"
       },
@@ -1215,22 +1199,18 @@
     {
       "added_at": "2024-03-08 03:00:00",
       "album": {
-        "name": "Indios y Vaqueros",
-        "url": "https://open.spotify.com/album/2t9PxUaBK9Jk2G9vPOaqy5"
+        "name": "SloMo",
+        "url": "https://open.spotify.com/album/4XH5TqMkP2lFr75tCLtPVz"
       },
       "artists": [
         {
-          "name": "Sinsinati",
-          "url": "https://open.spotify.com/artist/2rGri7YZ2eiCS58zgvmlQb"
-        },
-        {
-          "name": "\u00c1lvaro De Luna",
-          "url": "https://open.spotify.com/artist/5N3YDBGT2gUzXgLDTwPRi5"
+          "name": "Chanel",
+          "url": "https://open.spotify.com/artist/5DeX42pr2TilrnsUgjG8D1"
         }
       ],
-      "duration_ms": 184000,
-      "name": "Indios y Vaqueros",
-      "url": "https://open.spotify.com/track/3u5GmyJP2MU3tEJgyiAG2T"
+      "duration_ms": 176285,
+      "name": "SloMo",
+      "url": "https://open.spotify.com/track/0T71AvVXY4RB65tvdIyzdO"
     },
     {
       "added_at": "2024-03-08 03:00:00",
@@ -1247,6 +1227,26 @@
       "duration_ms": 161880,
       "name": "BAIL\u00c9 CON MI EX",
       "url": "https://open.spotify.com/track/0Yc0ziTsyjahYqlWXVXlTU"
+    },
+    {
+      "added_at": "2024-03-08 03:00:00",
+      "album": {
+        "name": "Indios y Vaqueros",
+        "url": "https://open.spotify.com/album/2t9PxUaBK9Jk2G9vPOaqy5"
+      },
+      "artists": [
+        {
+          "name": "Sinsinati",
+          "url": "https://open.spotify.com/artist/2rGri7YZ2eiCS58zgvmlQb"
+        },
+        {
+          "name": "\u00c1lvaro De Luna",
+          "url": "https://open.spotify.com/artist/5N3YDBGT2gUzXgLDTwPRi5"
+        }
+      ],
+      "duration_ms": 184000,
+      "name": "Indios y Vaqueros",
+      "url": "https://open.spotify.com/track/3u5GmyJP2MU3tEJgyiAG2T"
     },
     {
       "added_at": "2024-03-08 03:00:00",

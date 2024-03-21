@@ -4,21 +4,21 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0MEwcNgXyz3.md) - [plain]
 
 > The prince and Simon are determined to be together, but will they jeopardize their freedom and love in conflict with Royal ideals, traditions, and responsibilities?? Young Royals season 3, now on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 106,268 likes - 103 songs - 5 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 107,397 likes - 103 songs - 5 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [As Long As You’re Here \- Young Royals Remix](https://open.spotify.com/track/29HY0czVeZzgSUvdF4VSPu) | [Moyka](https://open.spotify.com/artist/2u7pjisWrThF8JErPVIPlJ) | [As Long As You’re Here \(Young Royals Remix\)](https://open.spotify.com/album/2LxgqfXXCD8qJJm1yIRzXQ) | 3:30 |
-| 2 | [DUST](https://open.spotify.com/track/6fz5hmuApTOplf5Oam5Ith) | [Elliphant](https://open.spotify.com/artist/134GdR5tUtxJrf8cpsfpyY) | [TROLL](https://open.spotify.com/album/0sFwVx2YJ465Q31RlYkjzx) | 2:40 |
-| 3 | [C’est la Vie \- Graham Lake Edit](https://open.spotify.com/track/6pWPMNxEGOhuiBWwtFvg8w) | [Graham Lake](https://open.spotify.com/artist/255KmzQ3ecWS4KAPnF1PJ8) | [C’est la Vie \(Graham Lake Edit\)](https://open.spotify.com/album/6WG8xBDH9ia8hFSH72QSWA) | 2:24 |
-| 4 | [Perfect Movie Scene](https://open.spotify.com/track/0OuVuMoLJnp2E3mjKu37Uh) | [Moyka](https://open.spotify.com/artist/2u7pjisWrThF8JErPVIPlJ) | [Perfect Movie Scene](https://open.spotify.com/album/6WBxz79RAhnppInQIyxd3A) | 4:51 |
-| 5 | [Ghost](https://open.spotify.com/track/3Od4CrYjVaQgrXm1ufefOg) | [Lea Kampmann](https://open.spotify.com/artist/5DqlRlaq7MufmiP9uMiTk7) | [Ghost](https://open.spotify.com/album/7qKbrZXV13vgBUA0QE69tQ) | 3:20 |
-| 6 | [Red Bottom Sky](https://open.spotify.com/track/7wgnq5xJ4elWgKBASBKbZt) | [Yung Lean](https://open.spotify.com/artist/67lytN32YpUxiSeWlKfHJ3) | [Stranger](https://open.spotify.com/album/10iGXFl7sNkUDjIPLRA8Ym) | 5:03 |
-| 7 | [Scream](https://open.spotify.com/track/3IYXsHxBmcPPf3DoVo4m1z) | [WTRGRL](https://open.spotify.com/artist/35uYLkqn6CkvexolH6j9O9), [Zhone](https://open.spotify.com/artist/7lNLNqeV3RNOxVQVvs2OYg) | [Scream](https://open.spotify.com/album/2YklTT9ykWkc3tnlqwiKbR) | 2:40 |
-| 8 | [Like Whoa](https://open.spotify.com/track/7r5juAqtvBaRRnz7uLQuD4) | [yung cxreal](https://open.spotify.com/artist/4Djzby5Qy3BtJRvLgdwltC), [baby frankie](https://open.spotify.com/artist/2c0coYXF1pNawxDyEwd7MZ) | [Like Whoa](https://open.spotify.com/album/2lhoBzwUVQoWGJSZpQoKRt) | 1:53 |
-| 9 | [Revolution \- Apotech Remix](https://open.spotify.com/track/4AfQ3ft8zT69SfQzgUSUT8) | [Elias](https://open.spotify.com/artist/0UCLbPGOhtnYf29U7qbfLf), [Apotech](https://open.spotify.com/artist/2nwGAlGI70BCkpJDfdfHec) | [Revolution \(Apotech Remix\)](https://open.spotify.com/album/5EgbTRpxahr9YPitc5IuVt) | 5:01 |
-| 10 | [Under The Influence](https://open.spotify.com/track/2SjkzpgEUQ6ojQBp7QY9QO) | [Stockholm Noir](https://open.spotify.com/artist/2ACCqah94vUZNJOKqDb1yG) | [Inferno Symphony](https://open.spotify.com/album/7xszSl4FYhJBqO2SfvIDFu) | 7:07 |
-| 11 | [Alice](https://open.spotify.com/track/51h6uOquXeixp8G1oUEgsx) | [Rhys](https://open.spotify.com/artist/5yMkHmsdRZA4OVeCylF4xU) | [Alice](https://open.spotify.com/album/7CrTya5irJU9curyyVD1FM) | 3:20 |
+| 2 | [Alice](https://open.spotify.com/track/51h6uOquXeixp8G1oUEgsx) | [Rhys](https://open.spotify.com/artist/5yMkHmsdRZA4OVeCylF4xU) | [Alice](https://open.spotify.com/album/7CrTya5irJU9curyyVD1FM) | 3:20 |
+| 3 | [Revolution \- Apotech Remix](https://open.spotify.com/track/4AfQ3ft8zT69SfQzgUSUT8) | [Elias](https://open.spotify.com/artist/0UCLbPGOhtnYf29U7qbfLf), [Apotech](https://open.spotify.com/artist/2nwGAlGI70BCkpJDfdfHec) | [Revolution \(Apotech Remix\)](https://open.spotify.com/album/5EgbTRpxahr9YPitc5IuVt) | 5:01 |
+| 4 | [DUST](https://open.spotify.com/track/6fz5hmuApTOplf5Oam5Ith) | [Elliphant](https://open.spotify.com/artist/134GdR5tUtxJrf8cpsfpyY) | [TROLL](https://open.spotify.com/album/0sFwVx2YJ465Q31RlYkjzx) | 2:40 |
+| 5 | [C’est la Vie \- Graham Lake Edit](https://open.spotify.com/track/6pWPMNxEGOhuiBWwtFvg8w) | [Graham Lake](https://open.spotify.com/artist/255KmzQ3ecWS4KAPnF1PJ8) | [C’est la Vie \(Graham Lake Edit\)](https://open.spotify.com/album/6WG8xBDH9ia8hFSH72QSWA) | 2:24 |
+| 6 | [Like Whoa](https://open.spotify.com/track/7r5juAqtvBaRRnz7uLQuD4) | [yung cxreal](https://open.spotify.com/artist/4Djzby5Qy3BtJRvLgdwltC), [baby frankie](https://open.spotify.com/artist/2c0coYXF1pNawxDyEwd7MZ) | [Like Whoa](https://open.spotify.com/album/2lhoBzwUVQoWGJSZpQoKRt) | 1:53 |
+| 7 | [Under The Influence](https://open.spotify.com/track/2SjkzpgEUQ6ojQBp7QY9QO) | [Stockholm Noir](https://open.spotify.com/artist/2ACCqah94vUZNJOKqDb1yG) | [Inferno Symphony](https://open.spotify.com/album/7xszSl4FYhJBqO2SfvIDFu) | 7:07 |
+| 8 | [Perfect Movie Scene](https://open.spotify.com/track/0OuVuMoLJnp2E3mjKu37Uh) | [Moyka](https://open.spotify.com/artist/2u7pjisWrThF8JErPVIPlJ) | [Perfect Movie Scene](https://open.spotify.com/album/6WBxz79RAhnppInQIyxd3A) | 4:51 |
+| 9 | [Ghost](https://open.spotify.com/track/3Od4CrYjVaQgrXm1ufefOg) | [Lea Kampmann](https://open.spotify.com/artist/5DqlRlaq7MufmiP9uMiTk7) | [Ghost](https://open.spotify.com/album/7qKbrZXV13vgBUA0QE69tQ) | 3:20 |
+| 10 | [Red Bottom Sky](https://open.spotify.com/track/7wgnq5xJ4elWgKBASBKbZt) | [Yung Lean](https://open.spotify.com/artist/67lytN32YpUxiSeWlKfHJ3) | [Stranger](https://open.spotify.com/album/10iGXFl7sNkUDjIPLRA8Ym) | 5:03 |
+| 11 | [Scream](https://open.spotify.com/track/3IYXsHxBmcPPf3DoVo4m1z) | [WTRGRL](https://open.spotify.com/artist/35uYLkqn6CkvexolH6j9O9), [Zhone](https://open.spotify.com/artist/7lNLNqeV3RNOxVQVvs2OYg) | [Scream](https://open.spotify.com/album/2YklTT9ykWkc3tnlqwiKbR) | 2:40 |
 | 12 | [Sweating](https://open.spotify.com/track/47aXdSXENr8dOecqWtOk0T) | [Alewya](https://open.spotify.com/artist/0wcjJjpvnHb5vK4iwKfxPm) | [Sweating](https://open.spotify.com/album/3ct1sH3rZPE4ZpgwsKj6tQ) | 3:24 |
 | 13 | [Bad Girls Don't Cry](https://open.spotify.com/track/0mHJflKTWP459vlQU40k0X) | [Universal Production Music](https://open.spotify.com/artist/04mwHdsbf5QYDOpktMFpSa) | [Attitude](https://open.spotify.com/album/7r3yCuF14dw1kpjO8iJAMg) | 2:34 |
 | 14 | [Nattbuss](https://open.spotify.com/track/6Nh66ug74gdMfr6PA6DUXQ) | [Fricky](https://open.spotify.com/artist/4bZ30evEi5vMG1A3xdW8U2), [The Desktoppers](https://open.spotify.com/artist/3iAYeW8xw0mSbJzSVRdpDH) | [Horizon Inn](https://open.spotify.com/album/2gW9Q4nmxWbV7gEYrpj155) | 3:26 |
@@ -112,4 +112,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0MEwcNgXyz3.md) - [plain]
 | 102 | [Sunday](https://open.spotify.com/track/4CbvazWOFKIIHZkETS0k6G) | [Gina Dirawi](https://open.spotify.com/artist/2e7ujHEEu6FCr0BwZ6YDTO) | [Meet Me In Jannah](https://open.spotify.com/album/0NTNDTXu2KpTdXEQsUCGZ1) | 3:27 |
 | 103 | [Drama End](https://open.spotify.com/track/2357fNm3oeHHTLxo5lXRGd) | [Matti Bye](https://open.spotify.com/artist/5qUOOLH8pTCB9XZrzj5jag) | [Young Royals: Season 2 \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/0SOkkXQscKe16iqNH2KcCP) | 2:44 |
 
-Snapshot ID: `MCw4Y2I2OGNkNzE3MGU1ZTBiZGJiMzVlODgwMjRmNjMwYzA1N2E2ZmFj`
+Snapshot ID: `MCw3N2E4MDdiNDE4ZDgxM2RiNTc1ZTQ2NmM5ZTJlNzRhMDNkNDNmNmVj`

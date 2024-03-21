@@ -1,12 +1,12 @@
 {
   "description": "Las divas del pop latino de ayer y hoy. Foto: Alejandra Guzm\u00e1n",
-  "num_followers": 165650,
+  "num_followers": 165701,
   "original_name": "Mujeres del Pop Latino",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1MmI0MDQ1Y2NmODA5N2QxNjFjYTBmYmJhMmExOGQ0NTdlNDM2OWQ3",
+  "snapshot_id": "MCwyZmFhNjQ0M2ZlOGQzMDE0YTZhNGQ1YTVlYjRjNDQ2NTI0OGQ4OWYy",
   "tracks": [
     {
       "added_at": "2024-02-01 19:33:23",
@@ -487,18 +487,18 @@
     {
       "added_at": "2024-02-01 19:33:23",
       "album": {
-        "name": "SIE7E +",
-        "url": "https://open.spotify.com/album/5LIIJcPOYm4G4mFw9ydeBE"
+        "name": "Dulce Beat",
+        "url": "https://open.spotify.com/album/5aamU0jIrX7bsjUsPCFVAK"
       },
       "artists": [
         {
-          "name": "Danna Paola",
-          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
+          "name": "Belanova",
+          "url": "https://open.spotify.com/artist/3oNy8cjBtJzLC07I70sklp"
         }
       ],
-      "duration_ms": 182600,
-      "name": "Mala Fama",
-      "url": "https://open.spotify.com/track/2D9itdl85AQVNpTfrxvUGj"
+      "duration_ms": 216333,
+      "name": "Por Ti",
+      "url": "https://open.spotify.com/track/1foeacjwgWD6UMmirTXwL5"
     },
     {
       "added_at": "2024-02-01 19:33:23",
@@ -519,18 +519,18 @@
     {
       "added_at": "2024-02-01 19:33:23",
       "album": {
-        "name": "Dulce Beat",
-        "url": "https://open.spotify.com/album/5aamU0jIrX7bsjUsPCFVAK"
+        "name": "SIE7E +",
+        "url": "https://open.spotify.com/album/5LIIJcPOYm4G4mFw9ydeBE"
       },
       "artists": [
         {
-          "name": "Belanova",
-          "url": "https://open.spotify.com/artist/3oNy8cjBtJzLC07I70sklp"
+          "name": "Danna Paola",
+          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
         }
       ],
-      "duration_ms": 216333,
-      "name": "Por Ti",
-      "url": "https://open.spotify.com/track/1foeacjwgWD6UMmirTXwL5"
+      "duration_ms": 182600,
+      "name": "Mala Fama",
+      "url": "https://open.spotify.com/track/2D9itdl85AQVNpTfrxvUGj"
     },
     {
       "added_at": "2024-02-01 19:33:23",
@@ -635,6 +635,22 @@
     {
       "added_at": "2024-02-01 19:33:23",
       "album": {
+        "name": "La Trayectoria",
+        "url": "https://open.spotify.com/album/1NVDbnjIE6FFpNUohWJwXQ"
+      },
+      "artists": [
+        {
+          "name": "Gloria Trevi",
+          "url": "https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ"
+        }
+      ],
+      "duration_ms": 204906,
+      "name": "Todos Me Miran",
+      "url": "https://open.spotify.com/track/4pmRDyDRRiZ5Pq7hm4WTpb"
+    },
+    {
+      "added_at": "2024-02-01 19:33:23",
+      "album": {
         "name": "MALA SANTA",
         "url": "https://open.spotify.com/album/13MHW8hoLFjX7SaVEVmj3X"
       },
@@ -651,22 +667,6 @@
       "duration_ms": 256519,
       "name": "Cuando Te Bes\u00e9",
       "url": "https://open.spotify.com/track/74wEiOpnvCe1tCTWKGSYta"
-    },
-    {
-      "added_at": "2024-02-01 19:33:23",
-      "album": {
-        "name": "La Trayectoria",
-        "url": "https://open.spotify.com/album/1NVDbnjIE6FFpNUohWJwXQ"
-      },
-      "artists": [
-        {
-          "name": "Gloria Trevi",
-          "url": "https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ"
-        }
-      ],
-      "duration_ms": 204906,
-      "name": "Todos Me Miran",
-      "url": "https://open.spotify.com/track/4pmRDyDRRiZ5Pq7hm4WTpb"
     },
     {
       "added_at": "2024-02-01 19:33:23",
@@ -787,6 +787,22 @@
     {
       "added_at": "2024-02-01 19:33:23",
       "album": {
+        "name": "Mas Turbada Que Nunca",
+        "url": "https://open.spotify.com/album/1w13BP16RNkn6JNSsxlJTh"
+      },
+      "artists": [
+        {
+          "name": "Gloria Trevi",
+          "url": "https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ"
+        }
+      ],
+      "duration_ms": 235200,
+      "name": "El Recuento de los Da\u00f1os",
+      "url": "https://open.spotify.com/track/65e7BhKBuKYl6UfCzYVRGT"
+    },
+    {
+      "added_at": "2024-02-01 19:33:23",
+      "album": {
         "name": "Paulina",
         "url": "https://open.spotify.com/album/64M45unRUhuzlOYth6w5HB"
       },
@@ -819,22 +835,6 @@
       "duration_ms": 235424,
       "name": "Amantes",
       "url": "https://open.spotify.com/track/3IyPnNX142pvWx6D5CiimD"
-    },
-    {
-      "added_at": "2024-02-01 19:33:23",
-      "album": {
-        "name": "Mas Turbada Que Nunca",
-        "url": "https://open.spotify.com/album/1w13BP16RNkn6JNSsxlJTh"
-      },
-      "artists": [
-        {
-          "name": "Gloria Trevi",
-          "url": "https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ"
-        }
-      ],
-      "duration_ms": 235200,
-      "name": "El Recuento de los Da\u00f1os",
-      "url": "https://open.spotify.com/track/65e7BhKBuKYl6UfCzYVRGT"
     },
     {
       "added_at": "2024-02-01 19:33:23",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8mW4CDSm4pA.md) - [plain]
 
 > Sophisticated palates only\. Curated by: <a href="https://www.instagram.com/domfishback/">Dominique Fishback</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 484 likes - 50 songs - 3 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 485 likes - 50 songs - 3 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8mW4CDSm4pA.md) - [plain]
 | 18 | [Girl Like Me \(feat\. H.E.R.\)](https://open.spotify.com/track/2sXydP9vPEYUH4uAWotuGu) | [Jazmine Sullivan](https://open.spotify.com/artist/7gSjFKpVmDgC2MMsnN8CYq), [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [Heaux Tales](https://open.spotify.com/album/5g9YhHW8tE7Tcslgxsk5u9) | 3:44 |
 | 19 | [I Wish It Would Rain](https://open.spotify.com/track/1tjpccwiGZTMDfHr5VGCmT) | [The Temptations](https://open.spotify.com/artist/3RwQ26hR2tJtA8F9p2n7jG) | [Wish It Would Rain](https://open.spotify.com/album/5tFgvH6VNLadFVjFfo0F7l) | 2:42 |
 | 20 | [Godspeed](https://open.spotify.com/track/5WfACgyEk4rwdWU3rrzNt1) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU) | [Godspeed](https://open.spotify.com/album/0qYRbCu2dmz948wOiROlcC) | 2:53 |
-| 21 | [The Light](https://open.spotify.com/track/5NiUrZVKyLpsyj62Roq5FW) | [Common](https://open.spotify.com/artist/2GHclqNVjqGuiE5mA7BEoc) | [Like Water For Chocolate](https://open.spotify.com/album/0ZSwTSaR9VUe3uYsXNQgub) | 4:21 |
-| 22 | [Let Nas Down](https://open.spotify.com/track/6WouUO5WEg0ncfGn6dkB4I) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [Born Sinner \(Deluxe Version\)](https://open.spotify.com/album/5FP9keIJnlSCKnkdVOf623) | 4:37 |
+| 21 | [Let Nas Down](https://open.spotify.com/track/6WouUO5WEg0ncfGn6dkB4I) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [Born Sinner \(Deluxe Version\)](https://open.spotify.com/album/5FP9keIJnlSCKnkdVOf623) | 4:37 |
+| 22 | [The Light](https://open.spotify.com/track/5NiUrZVKyLpsyj62Roq5FW) | [Common](https://open.spotify.com/artist/2GHclqNVjqGuiE5mA7BEoc) | [Like Water For Chocolate](https://open.spotify.com/album/0ZSwTSaR9VUe3uYsXNQgub) | 4:21 |
 | 23 | [Dear Summer](https://open.spotify.com/track/5VkuqayHiiU5ZHyYEH4Oeb) | [Memphis Bleek](https://open.spotify.com/artist/4jWzNq3sdzSpqn7BnzvIKn), [JAY\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB) | [534](https://open.spotify.com/album/3toLn9BAnrscDsY8PoDLXM) | 2:53 |
 | 24 | [black like you](https://open.spotify.com/track/2idOV3WosDVTO6HKbKEFGl) | [Joseph Solomon](https://open.spotify.com/artist/0hZEO1Bl2QRGUaeeSLWDYN) | [black like you](https://open.spotify.com/album/2PR9Y5Ozd8WaYYI484gukz) | 3:12 |
 | 25 | [Song Cry](https://open.spotify.com/track/19ELgyBdMcEjGcbFHcY1ba) | [JAY\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB) | [The Blueprint](https://open.spotify.com/album/54I5tDCMjnNVWSENHg8EDH) | 5:02 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8mW4CDSm4pA.md) - [plain]
 | 49 | [Blame](https://open.spotify.com/track/7mQpC4igq6LyBjoNMiaXpm) | [Dhuwii](https://open.spotify.com/artist/4K99Xrq0vBtnKg1AAkSSxC) | [Blame](https://open.spotify.com/album/71DZFJCQscYip43tFMaWbN) | 3:11 |
 | 50 | [Bitter Sweet](https://open.spotify.com/track/5oZWMoyco56vs88S9GbWwU) | [Isea](https://open.spotify.com/artist/6zXvAqkCxo8BPDdLHhJQHI) | [Universe Ready](https://open.spotify.com/album/1ZY5SeMoAOtQ9G1n1s13Gl) | 2:26 |
 
-Snapshot ID: `MCwxODBlNmZiNWRlZGE2YTA3YmVjNTM5MDZlYzY3ZDhkZjIwNjEyMTE0`
+Snapshot ID: `MCw4ZWU0ODIzMDA3OTcyMTQzMDAyNmE1Y2VhM2NlOWQzMDA5NmNhYjEz`

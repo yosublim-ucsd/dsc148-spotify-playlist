@@ -4,7 +4,7 @@
 
 > Un café, un croissant et c‘est parti pour une bonne journée.
 
-211 songs - 12 hr 5 min
+212 songs - 12 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,7 +51,8 @@
 | [Dark Imagination](https://open.spotify.com/track/2HG5pRpERRJ2wbln73lvLS) | [Kurtis Wells](https://open.spotify.com/artist/2HOnhVnbETGW5Q9TVdZm0S) | [Walk of Fire](https://open.spotify.com/album/0K21lLIS1d13QlL5jhHgi3) | 2:59 | 2023-09-05 | 2024-03-01 |
 | [Dark Side of the Moon](https://open.spotify.com/track/756BelaNgfNsSCCxfVjYaO) | [Annie Lalalove](https://open.spotify.com/artist/0rXEHQAzDXBvblE2EZRBjL) | [The Dark Side of the Moon](https://open.spotify.com/album/3EJsuw8416LPDleVbf37yj) | 2:57 | 2022-12-21 | 2023-03-25 |
 | [Day By Day](https://open.spotify.com/track/79oft65PDY4LL7MoLQ6Nxp) | [grentperez](https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe) | [Trail Mix Tape](https://open.spotify.com/album/7o1kPZMhYTeD78xeKZ6hm6) | 3:07 | 2022-12-21 | 2023-02-10 |
-| [Deeper Well](https://open.spotify.com/track/2lJn77IeZAP9cmv6DPXOrL) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Deeper Well](https://open.spotify.com/album/2NXiMKrwmPrqU8epp20pW8) | 3:52 | 2024-02-08 |  |
+| [Deeper Well](https://open.spotify.com/track/2lJn77IeZAP9cmv6DPXOrL) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Deeper Well](https://open.spotify.com/album/2NXiMKrwmPrqU8epp20pW8) | 3:52 | 2024-02-08 | 2024-03-21 |
+| [Deeper Well](https://open.spotify.com/track/333XFHKsHU0pOocFzBgrJi) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Deeper Well](https://open.spotify.com/album/5SxZmGwc4eJuPp6PcO4JgJ) | 3:52 | 2024-03-08 |  |
 | [Differences Aside](https://open.spotify.com/track/0olICfJFNxKfPeZtNgPa7G) | [Loverman](https://open.spotify.com/artist/1jAN8aazFq2Ugm6HTCzjky) | [Differences Aside](https://open.spotify.com/album/60hjoFRYc1Q1wnFMGXQmlg) | 3:55 | 2023-08-24 | 2024-02-09 |
 | [Distant Calls](https://open.spotify.com/track/2QU1bg22cuTuNXUpQl389b) | [Ed Mount](https://open.spotify.com/artist/5THdJGUVSrpyW9sDW49Q92), [Flore Benguigui](https://open.spotify.com/artist/4taAxKHZ4ODt4MwWVPDmbw) | [Close to Your Heart](https://open.spotify.com/album/2BbAWGyJvddLWwzpzhA6lp) | 2:44 | 2022-12-21 | 2023-01-13 |
 | [Don't Forget About Me](https://open.spotify.com/track/05vvPTidbjvDySLc9o65YS) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Petals to Thorns](https://open.spotify.com/album/3rrrTOHiXGzuW4FP7t0O1A) | 2:29 | 2023-06-01 | 2023-10-13 |

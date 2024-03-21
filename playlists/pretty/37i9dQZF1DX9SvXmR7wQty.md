@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9SvXmR7wQty.md) - [plain]
 
 > Découvrez les meilleures nouveautés francophones\. Photo: Corneille
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,980 likes - 50 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,984 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,22 +41,22 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9SvXmR7wQty.md) - [plain]
 | 31 | [Fio Maravilha](https://open.spotify.com/track/1W9TsPRxMfhnI0bmfg3Kwh) | [Bon Entendeur](https://open.spotify.com/artist/2lwjwKfYZCuPEJOo8t32CD), [Nicoletta](https://open.spotify.com/artist/1XspV6teuaJMwVq0QBXZA0) | [Fio Maravilha](https://open.spotify.com/album/5mZM6qQfT8347Sn0WngPK4) | 3:08 |
 | 32 | [Me Da Igual](https://open.spotify.com/track/0ri4EFGPe0GqSl8Mp1yYuE) | [L'Impératrice](https://open.spotify.com/artist/4PwlsrN0t5mLN0C827cbEU) | [Me Da Igual](https://open.spotify.com/album/15IMmxQWpYmDaCuZkBWLrN) | 3:29 |
 | 33 | [Kawasaki](https://open.spotify.com/track/1RlWEcC7lMl18n2gsgPUzE) | [S.Pri Noir](https://open.spotify.com/artist/5olcgTzelGdyP1rHRLyWgs), [Laylow](https://open.spotify.com/artist/0LnhY2fzptb0QEs5Q5gM7S) | [Kawasaki](https://open.spotify.com/album/6hSS1sEUm8gPtZVfmvlXBc) | 3:54 |
-| 34 | [Lamborghini](https://open.spotify.com/track/7E1OKKYyt97Tjf5SWbJgEp) | [Naza](https://open.spotify.com/artist/7xNYY1Zkb1vks5m9ATlJok) | [Lamborghini](https://open.spotify.com/album/2BaNOV1st3WvTlFNbDFBxx) | 2:16 |
+| 34 | [Finalement](https://open.spotify.com/track/0Ki0Jp7XVvBGXgjp6SUgp3) | [Bekar](https://open.spotify.com/artist/6wjkiUBMMYSIx5UBTp7eKC), [SDM](https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB) | [Plus fort.](https://open.spotify.com/album/6M0h47TYLEpxC8cxC0BsIk) | 3:24 |
 | 35 | [Clique](https://open.spotify.com/track/6cETsyHk3Mxa6dNSnbb1wS) | [Kaaris](https://open.spotify.com/artist/1ntQKIMIgESKpKoNXVBvQg) | [Clique](https://open.spotify.com/album/6LJHbcWUOlb5b4R0v8qclN) | 3:01 |
-| 36 | [Ta peine](https://open.spotify.com/track/0qp0G8VtnYHmLnbCu6lUUQ) | [Lara Fabian](https://open.spotify.com/artist/7ocwZINHqO9DZJgFtc1B20) | [Ta peine](https://open.spotify.com/album/2vN2COSOLbR6pMi4Et7k7R) | 2:44 |
-| 37 | [Déter \(feat\. Soolking\)](https://open.spotify.com/track/2ngnc6nlCqgake5RcScDyN) | [Doria](https://open.spotify.com/artist/4ddqz1AzqYMRKYTslXO839), [Soolking](https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds) | [Déter \(feat\. Soolking\)](https://open.spotify.com/album/37WatFIDAALiCJZDhTQ1VG) | 3:26 |
-| 38 | [Si t'es pas là](https://open.spotify.com/track/7iFHqrO5zR5W2BLX1tcFvU) | [Franglish](https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw) | [Si t'es pas là](https://open.spotify.com/album/0w4IYykWb4wgw3LkUxRpwg) | 3:17 |
-| 39 | [Finalement](https://open.spotify.com/track/0Ki0Jp7XVvBGXgjp6SUgp3) | [Bekar](https://open.spotify.com/artist/6wjkiUBMMYSIx5UBTp7eKC), [SDM](https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB) | [Plus fort.](https://open.spotify.com/album/6M0h47TYLEpxC8cxC0BsIk) | 3:24 |
+| 36 | [Lamborghini](https://open.spotify.com/track/7E1OKKYyt97Tjf5SWbJgEp) | [Naza](https://open.spotify.com/artist/7xNYY1Zkb1vks5m9ATlJok) | [Lamborghini](https://open.spotify.com/album/2BaNOV1st3WvTlFNbDFBxx) | 2:16 |
+| 37 | [Ta peine](https://open.spotify.com/track/0qp0G8VtnYHmLnbCu6lUUQ) | [Lara Fabian](https://open.spotify.com/artist/7ocwZINHqO9DZJgFtc1B20) | [Ta peine](https://open.spotify.com/album/2vN2COSOLbR6pMi4Et7k7R) | 2:44 |
+| 38 | [Déter \(feat\. Soolking\)](https://open.spotify.com/track/2ngnc6nlCqgake5RcScDyN) | [Doria](https://open.spotify.com/artist/4ddqz1AzqYMRKYTslXO839), [Soolking](https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds) | [Déter \(feat\. Soolking\)](https://open.spotify.com/album/37WatFIDAALiCJZDhTQ1VG) | 3:26 |
+| 39 | [Si t'es pas là](https://open.spotify.com/track/7iFHqrO5zR5W2BLX1tcFvU) | [Franglish](https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw) | [Si t'es pas là](https://open.spotify.com/album/0w4IYykWb4wgw3LkUxRpwg) | 3:17 |
 | 40 | [Souvenir](https://open.spotify.com/track/6a20iVTnMEjuLKtOFSUms1) | [Heuss L'enfoiré](https://open.spotify.com/artist/3YwqjMyrRfuixi2pbgTGCE), [DYSTINCT](https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG), [Unleaded](https://open.spotify.com/artist/3zWMcT8MOIAnQMbGFmMFun) | [Souvenir](https://open.spotify.com/album/6PaR3f33lA3iXdy59U7g2m) | 2:46 |
 | 41 | [MAUVAIS PAYEUR](https://open.spotify.com/track/6O305YQaWEWfaU1S0nTcx6) | [Fresh](https://open.spotify.com/artist/3W9AQyaIGdR8htZXVGwl1X), [Kaaris](https://open.spotify.com/artist/1ntQKIMIgESKpKoNXVBvQg) | [P.M.R.](https://open.spotify.com/album/7lRwTBtOa4iiN9jOXfwKxR) | 3:41 |
 | 42 | [blue \(yes, i love you\)](https://open.spotify.com/track/7znfQHTZ1tut2V17waMNTl) | [YellowStraps](https://open.spotify.com/artist/772hWD0N94gYjnVhrqE7lx), [Sofiane Pamart](https://open.spotify.com/artist/4RB2EEsmLhQTOSVQQpDzNg) | [blue \(yes, i love you\)](https://open.spotify.com/album/17xBNG2Bgr4VVGlVIXH8NV) | 1:42 |
 | 43 | [Señorita](https://open.spotify.com/track/09iCConrp2c78DObRUgiNP) | [Josman](https://open.spotify.com/artist/6dbdXbyAWk2qx8Qttw0knR) | [HHHH](https://open.spotify.com/album/0uleKHAzZR8auY98Vddkxc) | 3:23 |
-| 44 | [Bravo](https://open.spotify.com/track/36FUspAqaG0UBBRrOXpnsF) | [Barbara Pravi](https://open.spotify.com/artist/3L4wiBOSDLkJ18OISXZDA8) | [Bravo](https://open.spotify.com/album/4hjUdsAbOJlVTvPjTuWdKu) | 3:11 |
-| 45 | [ADN](https://open.spotify.com/track/2yXslghJqUpeozgmWG2xrH) | [Fresh La Douille](https://open.spotify.com/artist/1ssrFpfMmM0vRx85eO2XKL) | [ADN](https://open.spotify.com/album/688EeoY7hIVLEHM86OaMXl) | 3:06 |
-| 46 | [J'ai mal](https://open.spotify.com/track/7BPBSa3AIkZrK4c7lPzFEo) | [Naza](https://open.spotify.com/artist/7xNYY1Zkb1vks5m9ATlJok) | [J'ai mal](https://open.spotify.com/album/49y7lXYeda9NVCfCSBhDd6) | 2:08 |
-| 47 | [Cramer](https://open.spotify.com/track/22YcAS1AAnzSUulaNMZtys) | [Jok'air](https://open.spotify.com/artist/2kIs76sEGiulKeqetZq6ua) | [Cramer](https://open.spotify.com/album/1fGUAVyGF7LAWodzoiDMVT) | 3:29 |
+| 44 | [Cramer](https://open.spotify.com/track/22YcAS1AAnzSUulaNMZtys) | [Jok'air](https://open.spotify.com/artist/2kIs76sEGiulKeqetZq6ua) | [Cramer](https://open.spotify.com/album/1fGUAVyGF7LAWodzoiDMVT) | 3:29 |
+| 45 | [J'ai mal](https://open.spotify.com/track/7BPBSa3AIkZrK4c7lPzFEo) | [Naza](https://open.spotify.com/artist/7xNYY1Zkb1vks5m9ATlJok) | [J'ai mal](https://open.spotify.com/album/49y7lXYeda9NVCfCSBhDd6) | 2:08 |
+| 46 | [Bravo](https://open.spotify.com/track/36FUspAqaG0UBBRrOXpnsF) | [Barbara Pravi](https://open.spotify.com/artist/3L4wiBOSDLkJ18OISXZDA8) | [Bravo](https://open.spotify.com/album/4hjUdsAbOJlVTvPjTuWdKu) | 3:11 |
+| 47 | [ADN](https://open.spotify.com/track/2yXslghJqUpeozgmWG2xrH) | [Fresh La Douille](https://open.spotify.com/artist/1ssrFpfMmM0vRx85eO2XKL) | [ADN](https://open.spotify.com/album/688EeoY7hIVLEHM86OaMXl) | 3:06 |
 | 48 | [LE FOND \(feat\. Zokush\)](https://open.spotify.com/track/3gktsOcb7tDf4th88k8kZd) | [Hatik](https://open.spotify.com/artist/05hirnMeVIzCrcUxbrysZU), [Zokush](https://open.spotify.com/artist/61O1t9W4rYDRcGF9DJUTJw) | [LE FOND \(feat\. Zokush\)](https://open.spotify.com/album/3R6HVhMY57HehOkLVk6mYv) | 2:51 |
 | 49 | [Faut que tu m'aimes](https://open.spotify.com/track/6nc1bKC7wr4L8y6vMUdQKK) | [Styleto](https://open.spotify.com/artist/4vbZKiwmvbbW6onily9SJ5) | [Faut que tu m'aimes](https://open.spotify.com/album/5kdVeFvP0n9f4xepbdPCt7) | 3:12 |
-| 50 | [Le Rang des Étoiles](https://open.spotify.com/track/0UoklKqjOkt8q0lqB0ACZd) | [Biga\*Ranx](https://open.spotify.com/artist/5rgdw8NVhnxWL8Poo6HsiX) | [Le Rang des Étoiles](https://open.spotify.com/album/3iQda7g4gHv1ynJHXrHFph) | 1:51 |
+| 50 | [C24](https://open.spotify.com/track/7AYCzql1OFj2n3OlFJOruy) | [Soprano](https://open.spotify.com/artist/2RJBv9wXbW6m539q9NOfW1) | [C24](https://open.spotify.com/album/1s0SSXuZNyeCPu4XgqQov3) | 4:05 |
 
-Snapshot ID: `MCxlYTY0MDA3NjAyODI1OWEwMzEwYjM3NDI3MmQxNjZkNmFhMjE4OWE4`
+Snapshot ID: `MCxmNjEzN2IwNTRmMzQzYTA0MDg0ZjBlMWEwNDEzNjFhYzcyYmY1ZjFl`

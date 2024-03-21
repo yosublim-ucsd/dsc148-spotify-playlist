@@ -4,7 +4,7 @@
 
 > Your new favourite songs! Cover: Amy Shark
 
-428 songs - 23 hr 1 min
+429 songs - 23 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -101,7 +101,8 @@
 | [Date Night \(feat\. Morgan Evans\)](https://open.spotify.com/track/4rainsOvZId6i9i9Ssl6Hb) | [Kita Alexander](https://open.spotify.com/artist/3CGuwWgoCYSO5Z72H5G2Ec), [Morgan Evans](https://open.spotify.com/artist/6fzQ81ouajOEFqCIB9VwrS) | [Date Night \(feat\. Morgan Evans\)](https://open.spotify.com/album/3bAFWQJ9npu4hqjxkpDRYN) | 2:51 | 2023-07-27 | 2023-10-13 |
 | [Daylight](https://open.spotify.com/track/1odExI7RdWc4BT515LTAwj) | [David Kushner](https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY) | [Daylight](https://open.spotify.com/album/6NcI39WPu4kY6Tul11nhSv) | 3:32 | 2023-06-15 | 2024-02-23 |
 | [Deadly \(feat\. Victony\)](https://open.spotify.com/track/7MmtzAIcOnhKL8cjpdLitf) | [Stefflon Don](https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD), [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [Deadly \(feat\. Victony\)](https://open.spotify.com/album/03YaxCFFtgahKn6fk8lxcL) | 3:01 | 2023-12-15 | 2024-01-19 |
-| [Deeper Well](https://open.spotify.com/track/2lJn77IeZAP9cmv6DPXOrL) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Deeper Well](https://open.spotify.com/album/2NXiMKrwmPrqU8epp20pW8) | 3:52 | 2024-02-15 |  |
+| [Deeper Well](https://open.spotify.com/track/2lJn77IeZAP9cmv6DPXOrL) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Deeper Well](https://open.spotify.com/album/2NXiMKrwmPrqU8epp20pW8) | 3:52 | 2024-02-15 | 2024-03-21 |
+| [Deeper Well](https://open.spotify.com/track/333XFHKsHU0pOocFzBgrJi) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Deeper Well](https://open.spotify.com/album/5SxZmGwc4eJuPp6PcO4JgJ) | 3:52 | 2024-03-14 |  |
 | [Deli](https://open.spotify.com/track/5JYPXqMwYc0zTODQdjMEZN) | [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf) | [Like..? \(Deluxe\)](https://open.spotify.com/album/2pD2Hn4NPvf58NDSdWmUAk) | 2:06 | 2023-08-02 | 2023-08-26 |
 | [DELRESTO \(ECHOES\) \(feat\. Beyoncé\)](https://open.spotify.com/track/0OEe83mMZ5kaNw5uZQ7ilG) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [UTOPIA](https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ) | 4:34 | 2023-07-28 | 2023-08-11 |
 | [Demons](https://open.spotify.com/track/1xemKSmCnH59ze3KX5wwgH) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Demons](https://open.spotify.com/album/7iduRgQGVmm0Thy4v734Py) | 3:15 | 2023-09-01 | 2023-09-23 |

@@ -1,5 +1,5 @@
 {
-  "2024-03-20": 1523468,
+  "2024-03-21": 1523586,
   "date_first_scraped": "2021-12-21",
   "description": "Hot & new K-Drama OSTs are here! (Cover: Marry My Husband(\ub0b4 \ub0a8\ud3b8\uacfc \uacb0\ud63c\ud574\uc918)) (\uc778\uae30 \uc788\ub294 \ud654\uc81c\uc758 OST\uace1\ub4e4\uc744 \uc990\uaca8\ubcf4\uc138\uc694!) ",
   "name": "Korean OSTs",
@@ -431,7 +431,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-20",
       "duration_ms": 199431,
       "name": "Alarm",
       "url": "https://open.spotify.com/track/0bWaehT6suvoyAVP0RwpNd"
@@ -3451,7 +3451,7 @@
       ],
       "date_added": "2023-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-20",
       "duration_ms": 205361,
       "name": "EXIT",
       "url": "https://open.spotify.com/track/0aXjaZxWiorYro27xglNJH"
@@ -4627,6 +4627,24 @@
       "duration_ms": 227253,
       "name": "History and Mystery",
       "url": "https://open.spotify.com/track/5LdGNC63ufqSFe4RauOToR"
+    },
+    {
+      "album": {
+        "name": "Queen of Tears (Original Television Soundtrack), Pt.3",
+        "url": "https://open.spotify.com/album/2pnbrVkxwo8uEBMg1J1GqE"
+      },
+      "artists": [
+        {
+          "name": "HEIZE",
+          "url": "https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo"
+        }
+      ],
+      "date_added": "2024-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232026,
+      "name": "Hold Me Back",
+      "url": "https://open.spotify.com/track/69Bx1c9Hzv7IZGkLyFCeMw"
     },
     {
       "album": {
@@ -11732,6 +11750,24 @@
     },
     {
       "album": {
+        "name": "Queen of Tears (Original Television Soundtrack), Pt.2",
+        "url": "https://open.spotify.com/album/0hJiHeURXoUEZMjiUxpbc6"
+      },
+      "artists": [
+        {
+          "name": "10CM",
+          "url": "https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp"
+        }
+      ],
+      "date_added": "2024-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235506,
+      "name": "Tell Me It's Not a Dream",
+      "url": "https://open.spotify.com/track/7nxoUuqcsDfv3PsPGeciWy"
+    },
+    {
+      "album": {
         "name": "My chilling roommate (Original Television Soundtrack, Pt. 1)",
         "url": "https://open.spotify.com/album/3JJWRFZW2JRUrPK1DCeFQa"
       },
@@ -11851,7 +11887,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-20",
       "duration_ms": 231759,
       "name": "That's You",
       "url": "https://open.spotify.com/track/2UysjEVKnL55ywc6TuvcQI"
@@ -12143,7 +12179,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-20",
       "duration_ms": 229693,
       "name": "The Reason Why I Love You",
       "url": "https://open.spotify.com/track/0g9aQKa437eQSyQULGYZXm"

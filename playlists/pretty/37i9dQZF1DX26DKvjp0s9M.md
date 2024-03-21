@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX26DKvjp0s9M.md) - [plain]
 
 > Everlasting indie hits, ft Dijon.
 
-[Spotify](https://open.spotify.com/user/spotify) - 964,109 likes - 100 songs - 6 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 964,301 likes - 100 songs - 6 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -90,23 +90,23 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX26DKvjp0s9M.md) - [plain]
 | 80 | [Awake](https://open.spotify.com/track/5MhMXTuVODDF234VDvSxQx) | [Tycho](https://open.spotify.com/artist/5oOhM2DFWab8XhSdQiITry) | [Awake](https://open.spotify.com/album/0GjrPTT00KWsalUi8jnpR9) | 4:43 |
 | 81 | [Heart To Heart](https://open.spotify.com/track/7EAMXbLcL0qXmciM5SwMh2) | [Mac DeMarco](https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM) | [Here Comes The Cowboy](https://open.spotify.com/album/67PsnkYVPNpEsZffyTWGgW) | 3:31 |
 | 82 | [Washing Machine Heart](https://open.spotify.com/track/3jjsRKEsF42ccXf8kWR3nu) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Be the Cowboy](https://open.spotify.com/album/42cH7mrkfljkqkxA2Ip9Xq) | 2:08 |
-| 83 | [Duvet](https://open.spotify.com/track/42qNWdLKCI41S4uzfamhFM) | [bôa](https://open.spotify.com/artist/5jTtGLk1mGFMY5lQOvJYUj) | [Twilight](https://open.spotify.com/album/7sGYAV0xv7ZfAMzIpMl8m1) | 3:23 |
-| 84 | [Lost](https://open.spotify.com/track/3GZD6HmiNUhxXYf8Gch723) | [Frank Ocean](https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM) | [channel ORANGE](https://open.spotify.com/album/392p3shh2jkxUxY2VHvlH8) | 3:54 |
+| 83 | [Lost](https://open.spotify.com/track/3GZD6HmiNUhxXYf8Gch723) | [Frank Ocean](https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM) | [channel ORANGE](https://open.spotify.com/album/392p3shh2jkxUxY2VHvlH8) | 3:54 |
+| 84 | [Duvet](https://open.spotify.com/track/42qNWdLKCI41S4uzfamhFM) | [bôa](https://open.spotify.com/artist/5jTtGLk1mGFMY5lQOvJYUj) | [Twilight](https://open.spotify.com/album/7sGYAV0xv7ZfAMzIpMl8m1) | 3:23 |
 | 85 | [ceilings](https://open.spotify.com/track/2L9N0zZnd37dwF0clgxMGI) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [five seconds flat](https://open.spotify.com/album/68L5xVV9wydotfDXEik7eD) | 3:02 |
 | 86 | [Good Looking](https://open.spotify.com/track/0j3mqDTK4Z6lvrLzFCUUz6) | [Suki Waterhouse](https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL) | [Good Looking](https://open.spotify.com/album/78rO0EfpVs1RPfpxzF6kUz) | 3:34 |
-| 87 | [No Surprises](https://open.spotify.com/track/10nyNJ6zNy2YVYLrcwLccB) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [OK Computer](https://open.spotify.com/album/6dVIqQ8qmQ5GBnJ9shOYGE) | 3:49 |
-| 88 | [Something About You](https://open.spotify.com/track/6RiiSy9GzSwiyDEJDiMuKe) | [Eyedress](https://open.spotify.com/artist/3XxNRirzbjfLdDli06zMaB), [Dent May](https://open.spotify.com/artist/34me8hAxavRmcDIwhxa3b7) | [Mulholland Drive](https://open.spotify.com/album/0QB8JzlX70ame6G972aEF1) | 2:33 |
+| 87 | [Something About You](https://open.spotify.com/track/6RiiSy9GzSwiyDEJDiMuKe) | [Eyedress](https://open.spotify.com/artist/3XxNRirzbjfLdDli06zMaB), [Dent May](https://open.spotify.com/artist/34me8hAxavRmcDIwhxa3b7) | [Mulholland Drive](https://open.spotify.com/album/0QB8JzlX70ame6G972aEF1) | 2:33 |
+| 88 | [No Surprises](https://open.spotify.com/track/10nyNJ6zNy2YVYLrcwLccB) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [OK Computer](https://open.spotify.com/album/6dVIqQ8qmQ5GBnJ9shOYGE) | 3:49 |
 | 89 | [rises the moon](https://open.spotify.com/track/51Grh1RyUDcMBbpuyUIUHI) | [Liana Flores](https://open.spotify.com/artist/5zVu34ozw0BzXIcNHqkO0u) | [recently](https://open.spotify.com/album/295qW3R6DSM1WfePwUpgux) | 2:41 |
 | 90 | [For the First Time](https://open.spotify.com/track/2R4AlwtrrkMaRKojcTIzmL) | [Mac DeMarco](https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM) | [This Old Dog](https://open.spotify.com/album/4NNq2vwTapv4fSJcrZbPH7) | 3:02 |
 | 91 | [Sweet](https://open.spotify.com/track/6ilc4vQcwMPlvAHFfsTGng) | [Cigarettes After Sex](https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj) | [Cigarettes After Sex](https://open.spotify.com/album/2mxFsS5yylSTHNivV53HoA) | 4:52 |
 | 92 | [Margaret \(feat\. Bleachers\)](https://open.spotify.com/track/1o82DwNisONAd2mu1RcGE6) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa), [Bleachers](https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI) | [Did you know that there's a tunnel under Ocean Blvd](https://open.spotify.com/album/5HOHne1wzItQlIYmLXLYfZ) | 5:39 |
 | 93 | [Tongue Tied](https://open.spotify.com/track/0GO8y8jQk1PkHzS31d699N) | [GROUPLOVE](https://open.spotify.com/artist/3kVUvbeRdcrqQ3oHk5hPdx) | [Never Trust a Happy Song](https://open.spotify.com/album/3oylWMc9TTC6Nx4I6U3axc) | 3:38 |
 | 94 | [Always Forever](https://open.spotify.com/track/2enPRFda84VE2wtI8c86Uf) | [Cults](https://open.spotify.com/artist/3Oim8XBPbznAa8Jj8QzNc8) | [Static](https://open.spotify.com/album/6WnfWrfsfu7T9TXbHIFHX9) | 3:43 |
-| 95 | [Notion](https://open.spotify.com/track/0sTlGEld0h8kIPZaKDYUf4) | [The Rare Occasions](https://open.spotify.com/artist/1QfpRUtH14JLoY6F6AYmwt) | [Notion](https://open.spotify.com/album/4Uf8BVznefnd2xZm2nRFUx) | 3:15 |
-| 96 | [Are You Bored Yet? \(feat\. Clairo\)](https://open.spotify.com/track/57RA3JGafJm5zRtKJiKPIm) | [Wallows](https://open.spotify.com/artist/0NIPkIjTV8mB795yEIiPYL), [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Nothing Happens](https://open.spotify.com/album/7eed9MBclFPjjjvotfR2e9) | 2:58 |
+| 95 | [Are You Bored Yet? \(feat\. Clairo\)](https://open.spotify.com/track/57RA3JGafJm5zRtKJiKPIm) | [Wallows](https://open.spotify.com/artist/0NIPkIjTV8mB795yEIiPYL), [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Nothing Happens](https://open.spotify.com/album/7eed9MBclFPjjjvotfR2e9) | 2:58 |
+| 96 | [Notion](https://open.spotify.com/track/0sTlGEld0h8kIPZaKDYUf4) | [The Rare Occasions](https://open.spotify.com/artist/1QfpRUtH14JLoY6F6AYmwt) | [Notion](https://open.spotify.com/album/4Uf8BVznefnd2xZm2nRFUx) | 3:15 |
 | 97 | [Wildfire](https://open.spotify.com/track/0fiTN2N5HEIefAHtm00vYG) | [SBTRKT](https://open.spotify.com/artist/1O10apSOoAPjOu6UhUNmeI), [Little Dragon](https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps) | [SBTRKT \(Deluxe Version\)](https://open.spotify.com/album/35xfQriUFj6M2AVq78OsEq) | 3:21 |
 | 98 | [Little Talks](https://open.spotify.com/track/2ihCaVdNZmnHZWt0fvAM7B) | [Of Monsters and Men](https://open.spotify.com/artist/4dwdTW1Lfiq0cM8nBAqIIz) | [My Head Is An Animal](https://open.spotify.com/album/4p9dVvZDaZliSjTCbFRhJy) | 4:26 |
 | 99 | [My Kind of Woman](https://open.spotify.com/track/6jgkEbmQ2F2onEqsEhiliL) | [Mac DeMarco](https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM) | [2](https://open.spotify.com/album/2XgBQwGRxr4P7cHLDYiqrO) | 3:10 |
 | 100 | [Young](https://open.spotify.com/track/1KIJclzEbNhSVw8tiHPWwE) | [Vacations](https://open.spotify.com/artist/0U7iI0Dk4Ojvi17nZboNO4) | [Vibes](https://open.spotify.com/album/54lNPJ6xq2QXwG6jLEIf6C) | 3:09 |
 
-Snapshot ID: `MCw2YWU0YmVkZTRlODdkMmU4MGUwYTk5NzNhYTkyYzYwMjY4YzEwYWZh`
+Snapshot ID: `MCwyYjI3OTNlYzMzMGM5MjI0MDc1YjdkOWZjNDFhMjliZjQ1MTgwZDhi`

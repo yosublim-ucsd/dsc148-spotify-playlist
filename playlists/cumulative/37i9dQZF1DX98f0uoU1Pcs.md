@@ -4,7 +4,7 @@
 
 > The perfect mix of Punk, Rock, Alt & Indie\. Cover: Dehd
 
-633 songs - 1 day 10 hr 45 min
+634 songs - 1 day 10 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -346,7 +346,8 @@
 | [London](https://open.spotify.com/track/729YjD3jEppSHMZ8cya2v9) | [Pynch](https://open.spotify.com/artist/6R1b13BgmP15f21dQZpFz9) | [London](https://open.spotify.com/album/6SyduDDcnQD27aApxjogtX) | 4:59 | 2023-04-07 |  |
 | [Loops](https://open.spotify.com/track/2tmWR0E3FQTquGK7vYnkwN) | [Pile](https://open.spotify.com/artist/44pUNjqg4mExLyFHnB3Bqf) | [Loops](https://open.spotify.com/album/6kuYVLpEUv7nbDfsWO4Det) | 3:32 | 2022-11-21 | 2023-04-30 |
 | [Loops](https://open.spotify.com/track/5GgeEPCGwqoWxd6gzptHeB) | [Pile](https://open.spotify.com/artist/44pUNjqg4mExLyFHnB3Bqf) | [All Fiction](https://open.spotify.com/album/1sYIZ1azBbZd7AyznM3ulP) | 3:32 | 2023-04-14 |  |
-| [Lose](https://open.spotify.com/track/729EJVbWkITU4vAc690cFE) | [Boeckner](https://open.spotify.com/artist/1SdWYxZBt4RjvyXcMbtxyE) | [Lose](https://open.spotify.com/album/4ddL8UW6YILIWxd0g185KP) | 4:51 | 2024-01-19 |  |
+| [Lose](https://open.spotify.com/track/5fSUc2h13lsyCcGLhzfTED) | [Boeckner](https://open.spotify.com/artist/1SdWYxZBt4RjvyXcMbtxyE) | [Boeckner!](https://open.spotify.com/album/1we8POeAomGmp8hTzGFdaW) | 4:51 | 2024-03-01 |  |
+| [Lose](https://open.spotify.com/track/729EJVbWkITU4vAc690cFE) | [Boeckner](https://open.spotify.com/artist/1SdWYxZBt4RjvyXcMbtxyE) | [Lose](https://open.spotify.com/album/4ddL8UW6YILIWxd0g185KP) | 4:51 | 2024-01-19 | 2024-03-21 |
 | [Lose You \(feat\. Soccer Mommy\)](https://open.spotify.com/track/0KmC4jFH8axcJqKvOTBXeX) | [Bully](https://open.spotify.com/artist/34LdbFt5sVXKTJOzf1iExQ), [Soccer Mommy](https://open.spotify.com/artist/4wXchxfTTggLtzkoUhO86Q) | [Lose You \(feat\. Soccer Mommy\)](https://open.spotify.com/album/5Ctzgdf3fjqxUV8PvrDPHf) | 2:55 | 2023-02-17 |  |
 | [Lost Honor](https://open.spotify.com/track/41BwZHot0x72eob0eQGmcO) | [Surf Curse](https://open.spotify.com/artist/1gl0S9pS0Zw0qfa14rDD3D) | [Lost Honor](https://open.spotify.com/album/2Td5VgNSobqfiT8OpIhisP) | 3:59 | 2022-08-16 | 2022-09-20 |
 | [Lost Myself Again](https://open.spotify.com/track/73q3axNDrfqZOQ12LL1B4a) | [Sextile](https://open.spotify.com/artist/4ReoJ2faKfdjI0plizlL56) | [Push](https://open.spotify.com/album/094LVoZpuHpU0QwZQNmqAc) | 2:34 | 2023-09-15 | 2024-01-14 |

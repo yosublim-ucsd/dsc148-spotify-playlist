@@ -4,7 +4,7 @@
 
 > アコースティック・メロディーズ。ゆったりとしたアコースティックサウンドと共に、爽やかな1日を迎えませんか？
 
-403 songs - 1 day 0 hr 0 min
+405 songs - 1 day 0 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -310,7 +310,8 @@
 | [Take My Breath Away](https://open.spotify.com/track/6Hrk4OKWYn7LQenJzWzPyh) | [Boyce Avenue](https://open.spotify.com/artist/7CQwac16i1W5ej8YpuL3dv), [Megan Davies](https://open.spotify.com/artist/09kCHZp9iFO2FJNb9lR6G5), [Jaclyn Davies](https://open.spotify.com/artist/5MKHjGZGjZ7mZV0JPs9iot) | [Take My Breath Away](https://open.spotify.com/album/7zwbQsecbWMGDZZyJfLga3) | 4:18 | 2022-10-20 | 2023-04-14 |
 | [Take on Me](https://open.spotify.com/track/1KUPfNsRaZbZB3NUeXhUcm) | [Boyce Avenue](https://open.spotify.com/artist/7CQwac16i1W5ej8YpuL3dv) | [Take on Me](https://open.spotify.com/album/12NMWW1pgidVHBD6XU8vfz) | 3:09 | 2022-10-20 | 2022-12-14 |
 | [Thanks](https://open.spotify.com/track/02bspNI1gmunfBI8u0xP95) | [Teethe](https://open.spotify.com/artist/3K2gErmF9xLdo6dqOj1VbI) | [Thanks](https://open.spotify.com/album/3gPRFJbo622cLv9Tx2pdYS) | 1:08 | 2024-01-30 | 2024-02-21 |
-| [Thanks again](https://open.spotify.com/track/0diIX9HBaAAoxm1dusWmOk) | [SAKURA FUJIWARA](https://open.spotify.com/artist/5tvnQkP9zNAqYW2YKYk1Et) | [Thanks again](https://open.spotify.com/album/24ZQN8pJRxIBPG3WLX4A8t) | 3:08 | 2024-02-20 |  |
+| [Thanks again](https://open.spotify.com/track/0diIX9HBaAAoxm1dusWmOk) | [SAKURA FUJIWARA](https://open.spotify.com/artist/5tvnQkP9zNAqYW2YKYk1Et) | [Thanks again](https://open.spotify.com/album/24ZQN8pJRxIBPG3WLX4A8t) | 3:08 | 2024-02-20 | 2024-03-21 |
+| [Thanks again](https://open.spotify.com/track/4rsNXpSgihuX2eQ7sbXKhx) | [SAKURA FUJIWARA](https://open.spotify.com/artist/5tvnQkP9zNAqYW2YKYk1Et) | [Thanks again](https://open.spotify.com/album/3kzkSVgybp6MrrrdZsJK9K) | 3:08 | 2024-03-07 |  |
 | [The Blower's Daughter](https://open.spotify.com/track/7CNA7us0GLh8MYp5aJjdWH) | [Lydia Luce](https://open.spotify.com/artist/5e1SaJPn6U7YpOrNTkW1jH), [Joshua Hyslop](https://open.spotify.com/artist/1I7oHjCjMrMUz66v67yJJu) | [The Blower's Daughter](https://open.spotify.com/album/6pL2IAMJkjtNYq8yVoSf9I) | 4:19 | 2024-02-15 |  |
 | [The Book Of Love](https://open.spotify.com/track/40gxMiWbTEZUa6c2bGlBJz) | [Gavin James](https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE) | [Bitter Pill](https://open.spotify.com/album/1O1BzHEnq2sItopGcE2PS0) | 2:56 | 2023-05-02 | 2023-06-14 |
 | [The Girl That Never Was](https://open.spotify.com/track/02yhtKy4U4R7Z15cxdcWcc) | [James Blunt](https://open.spotify.com/artist/7KMqksf0UMdyA0UCf4R3ux) | [The Girl That Never Was](https://open.spotify.com/album/1kmfSWlvNxYhWEPfpNXwBS) | 3:13 | 2023-10-03 | 2024-02-28 |
@@ -338,7 +339,8 @@
 | [To Be Young \(feat\. Doja Cat\) \- Acoustic](https://open.spotify.com/track/3iSu8rkvERzl5iY5GEGE1h) | [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX), [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [To Be Young \(feat\. Doja Cat\) \[Acoustic\]](https://open.spotify.com/album/55S3bs4sdQeFuHdTXiLQ9G) | 3:13 | 2023-05-02 | 2023-07-28 |
 | [Tomorrow](https://open.spotify.com/track/3K4tHacJdMC9STBC1wW8Lr) | [Hannah Grace](https://open.spotify.com/artist/597GQ9dmhOQoBfqmfQINKB) | [Tomorrow](https://open.spotify.com/album/6n17hLNrjJdfY6Skg8yJEt) | 1:55 | 2022-10-20 | 2022-12-14 |
 | [Too Bad \(with Max Clarke of Cut Worms\) \[From “Norah Jones is Playing Along” Podcast\]](https://open.spotify.com/track/6USd3imp91uPnvgBYRM2Kx) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N), [Cut Worms](https://open.spotify.com/artist/2upjmNmngAXZcra9dQRR2l) | [Too Bad \(with Max Clarke of Cut Worms\) \[From “Norah Jones is Playing Along” Podcast\]](https://open.spotify.com/album/5ZwGfcxcGrkVK5ye78Kak1) | 5:30 | 2023-08-17 | 2023-10-25 |
-| [Too Good to be True](https://open.spotify.com/track/4vIiVs5JoNfqqRi5o7jAIb) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Too Good to be True](https://open.spotify.com/album/57y7NpfTINlnrNitu8vwft) | 2:40 | 2024-02-29 |  |
+| [Too Good to be True](https://open.spotify.com/track/27RDQ0TfxzWMlQFuKrPT11) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Deeper Well](https://open.spotify.com/album/5SxZmGwc4eJuPp6PcO4JgJ) | 2:40 | 2024-03-07 |  |
+| [Too Good to be True](https://open.spotify.com/track/4vIiVs5JoNfqqRi5o7jAIb) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Too Good to be True](https://open.spotify.com/album/57y7NpfTINlnrNitu8vwft) | 2:40 | 2024-02-29 | 2024-03-21 |
 | [Try Love \- Live from Under The Willow Tree](https://open.spotify.com/track/0jfcryQlCzCWRDGNCz3ayj) | [Jeb Loy Nichols](https://open.spotify.com/artist/4iwe9LERHqqDtmn7X6oZml) | [Under The Willow Tree](https://open.spotify.com/album/3zw6dpptC9JRYtRTzGGaTJ) | 1:46 | 2023-01-19 | 2023-01-25 |
 | [Try My Best](https://open.spotify.com/track/6AvFwZ0chMEYCVbrPvBiMW) | [Anna of the North](https://open.spotify.com/artist/1mSJCvDX0W7Dn7S9C6vmvI) | [Try My Best](https://open.spotify.com/album/3MnZrTUyF9cffY6uqzWRdb) | 3:46 | 2023-03-30 | 2023-10-13 |
 | [Turnham Green](https://open.spotify.com/track/2zzbA5a4ZTzjYEbr4X0zOW) | [Adam Melchor](https://open.spotify.com/artist/54tv11ndFfiqXiR03PwdlB) | [Turnham Green](https://open.spotify.com/album/20u6ns1ue1dRrjc0cl4U8N) | 3:45 | 2022-10-20 | 2022-10-26 |

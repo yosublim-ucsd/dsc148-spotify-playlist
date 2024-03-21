@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX75ZvBeIGXoD.md) - [plain]
 
 > a perfect soundtrack for eating the Mariah Carey happy meal in your car
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,932 likes - 78 songs - 3 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,923 likes - 78 songs - 3 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX75ZvBeIGXoD.md) - [plain]
 | 16 | [Sexy Little Christmas](https://open.spotify.com/track/1IJwbLYYhZcfx7hW8odfQ2) | [DYLN](https://open.spotify.com/artist/4qf6u9kjZdqQ1VI09mV1Q5) | [Sexy Little Christmas](https://open.spotify.com/album/4hTYJOsAFBYhLncMK6p15q) | 3:04 |
 | 17 | [Baby It's Cold Outside](https://open.spotify.com/track/0etUoG9qgWJV136qG1d4nF) | [Toxxxic](https://open.spotify.com/artist/4BU3NGhPsbx7kochK8cziC), [Wilbur Soot](https://open.spotify.com/artist/2XzXLjXRSeFtsic4ieyLJy) | [Baby It's Cold Outside](https://open.spotify.com/album/1EM5hvfQ3Y6mOovs0848K1) | 2:56 |
 | 18 | [have yourself a merry little christmas](https://open.spotify.com/track/0H3LjIwjJ2czGREAWRmFWF) | [Egg](https://open.spotify.com/artist/6zQlhM6cyJRrzuqAbB8PlB) | [have yourself a merry little christmas](https://open.spotify.com/album/4m9LsDT77JI5KDBRJF1MX9) | 2:22 |
-| 19 | [Christmas Kids](https://open.spotify.com/track/40gk32E7YaTFoQwDIWv2SY) | [Roar](https://open.spotify.com/artist/7dIpKWlEeAljA20vFJ82RD) | [I Can't Handle Change](https://open.spotify.com/album/42vd9Cgr89pjb0Jipvaj5d) | 2:15 |
+| 19 | [Christmas Kids](https://open.spotify.com/track/7KV7xwHTJbzbwGQEHLIzR8) | [Roar](https://open.spotify.com/artist/7dIpKWlEeAljA20vFJ82RD) | [I Can't Handle Change](https://open.spotify.com/album/0YjOnBY0FRufcmNBTzWTgX) | 2:15 |
 | 20 | [All I Want for Christmas Is You \- 2005](https://open.spotify.com/track/48wRnWDekEx5bCOA9oeVF4) | [My Chemical Romance](https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb) | [Gift Wrapped: 20 Songs That Keep On Giving](https://open.spotify.com/album/6VkWzNwwvmUfEBAzrBEIzY) | 3:44 |
 | 21 | [You're A Mean One, Mr\. Grinch](https://open.spotify.com/track/5xQskDSiHQeoebxoprn3HL) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [Dr\. Seuss' The Grinch \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4u40K47aUMjeNrPGmQrodQ) | 1:48 |
 | 22 | [Santa Baby](https://open.spotify.com/track/71IScwIe7bcIlpnlkbKVQw) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [The Taylor Swift Holiday Collection](https://open.spotify.com/album/7vzYp7FrKnTRoktBYsx9SF) | 2:38 |
@@ -87,4 +87,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX75ZvBeIGXoD.md) - [plain]
 | 77 | [Have Yourself a Merry Little Christmas \- Jo Whiley, BBC Radio 1 Session](https://open.spotify.com/track/4cLMJLCJS4tXQoH416h77P) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Have Yourself a Merry Little Christmas \(Jo Whiley, BBC Radio 1 Session\)](https://open.spotify.com/album/1sPu7EQ1vbjG3A5GOqMVam) | 2:19 |
 | 78 | [I Need You Christmas](https://open.spotify.com/track/0viGbbEJ9xV6qNJsTaXruz) | [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [I Need You Christmas](https://open.spotify.com/album/6ag1TA7jYSh8NjFtBL9bFR) | 3:26 |
 
-Snapshot ID: `MCw1ZTQyZWNiN2NiYmY4ZGI2OGE4MmVjYzgyNDYzODc3MWMwMTlkYWRk`
+Snapshot ID: `MCwxY2I0NjY3ZjI5NzBmN2NhMWY2YjRjMzE2ZWNjOWNkZDMyMTg3MDBj`

@@ -1,5 +1,5 @@
 {
-  "2024-03-20": 887838,
+  "2024-03-21": 888003,
   "date_first_scraped": "2021-12-30",
   "description": "Bad b**** energy. Be blessed, be spicy. Cover: Flo Milli & SZA",
   "name": "BBE",
@@ -3765,6 +3765,24 @@
       "duration_ms": 165302,
       "name": "Get It Girl (from Insecure: Music From The HBO Original Series, Season 5)",
       "url": "https://open.spotify.com/track/2QcWBgN96CO3eex8VSKJOh"
+    },
+    {
+      "album": {
+        "name": "Get It Sexyy",
+        "url": "https://open.spotify.com/album/3ahxhuhmGJiN0CWLOff9Sw"
+      },
+      "artists": [
+        {
+          "name": "Sexyy Red",
+          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
+        }
+      ],
+      "date_added": "2024-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148551,
+      "name": "Get It Sexyy",
+      "url": "https://open.spotify.com/track/2MjXWroB9wlTG2kqv3avfS"
     },
     {
       "album": {

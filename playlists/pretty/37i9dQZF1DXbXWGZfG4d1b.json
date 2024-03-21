@@ -1,12 +1,12 @@
 {
   "description": "Rock independiente, pop alternativo y golden hour.",
-  "num_followers": 21954,
+  "num_followers": 21955,
   "original_name": "6PM Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzZTViNzBjNzNlOWRjM2Y3NzZkZjE0ZmI3ZjkyMWU1N2ZmOGMyNjgy",
+  "snapshot_id": "MCxhNjZhMTZhMzFmZjI3ZTNmOWM4NjdhOTc1NDQ1NWY0Yjk3NWM1NmU5",
   "tracks": [
     {
       "added_at": "2024-03-19 18:38:36",
@@ -395,6 +395,22 @@
     {
       "added_at": "2024-03-19 18:38:36",
       "album": {
+        "name": "Ser\u00e1",
+        "url": "https://open.spotify.com/album/0OE8zZZAUTiYpEnGZkAwkV"
+      },
+      "artists": [
+        {
+          "name": "El Club Audiovisual",
+          "url": "https://open.spotify.com/artist/1YZnktJjGKEbhQBcpQQjQ7"
+        }
+      ],
+      "duration_ms": 186059,
+      "name": "Ser\u00e1",
+      "url": "https://open.spotify.com/track/6jpXkK8IWxoqMIegRTNTCY"
+    },
+    {
+      "added_at": "2024-03-19 18:38:36",
+      "album": {
         "name": "Bar de Playa",
         "url": "https://open.spotify.com/album/7CUbw1fLnPPJCEGTkLMUzU"
       },
@@ -407,22 +423,6 @@
       "duration_ms": 129945,
       "name": "Bar de Playa",
       "url": "https://open.spotify.com/track/6YbC0D2ZYyjOmXn2sBirbA"
-    },
-    {
-      "added_at": "2024-03-19 18:38:36",
-      "album": {
-        "name": "NEFERTITI",
-        "url": "https://open.spotify.com/album/2rzX7Khx99btvr94q2aXNE"
-      },
-      "artists": [
-        {
-          "name": "Marki",
-          "url": "https://open.spotify.com/artist/5wspxNfJ40p3YMUrwUaJ8J"
-        }
-      ],
-      "duration_ms": 156198,
-      "name": "NEFERTITI",
-      "url": "https://open.spotify.com/track/7lzPfB1olio7eZQrWzwiao"
     },
     {
       "added_at": "2024-03-19 18:38:36",
@@ -443,18 +443,18 @@
     {
       "added_at": "2024-03-19 18:38:36",
       "album": {
-        "name": "Ser\u00e1",
-        "url": "https://open.spotify.com/album/0OE8zZZAUTiYpEnGZkAwkV"
+        "name": "NEFERTITI",
+        "url": "https://open.spotify.com/album/2rzX7Khx99btvr94q2aXNE"
       },
       "artists": [
         {
-          "name": "El Club Audiovisual",
-          "url": "https://open.spotify.com/artist/1YZnktJjGKEbhQBcpQQjQ7"
+          "name": "Marki",
+          "url": "https://open.spotify.com/artist/5wspxNfJ40p3YMUrwUaJ8J"
         }
       ],
-      "duration_ms": 186059,
-      "name": "Ser\u00e1",
-      "url": "https://open.spotify.com/track/6jpXkK8IWxoqMIegRTNTCY"
+      "duration_ms": 156198,
+      "name": "NEFERTITI",
+      "url": "https://open.spotify.com/track/7lzPfB1olio7eZQrWzwiao"
     },
     {
       "added_at": "2024-03-19 18:38:36",
@@ -491,22 +491,6 @@
     {
       "added_at": "2024-03-19 18:38:36",
       "album": {
-        "name": "Habla Sola / Nada M\u00e1s",
-        "url": "https://open.spotify.com/album/4GSei1tPC2AExizBVKU76T"
-      },
-      "artists": [
-        {
-          "name": "Sakatumba",
-          "url": "https://open.spotify.com/artist/205zSqF4seFuqDGmmQEMad"
-        }
-      ],
-      "duration_ms": 234562,
-      "name": "Nada M\u00e1s",
-      "url": "https://open.spotify.com/track/2H9QDsByfi3cOYrbMA0smF"
-    },
-    {
-      "added_at": "2024-03-19 18:38:36",
-      "album": {
         "name": "Mojigata",
         "url": "https://open.spotify.com/album/5U8SvHu7gGsae0izVjA9QS"
       },
@@ -519,6 +503,22 @@
       "duration_ms": 145530,
       "name": "Junto Boludeces",
       "url": "https://open.spotify.com/track/2i1PztLepuClGgWaNH3wec"
+    },
+    {
+      "added_at": "2024-03-19 18:38:36",
+      "album": {
+        "name": "Habla Sola / Nada M\u00e1s",
+        "url": "https://open.spotify.com/album/4GSei1tPC2AExizBVKU76T"
+      },
+      "artists": [
+        {
+          "name": "Sakatumba",
+          "url": "https://open.spotify.com/artist/205zSqF4seFuqDGmmQEMad"
+        }
+      ],
+      "duration_ms": 234562,
+      "name": "Nada M\u00e1s",
+      "url": "https://open.spotify.com/track/2H9QDsByfi3cOYrbMA0smF"
     },
     {
       "added_at": "2024-03-19 18:38:36",
@@ -543,6 +543,26 @@
     {
       "added_at": "2024-03-19 18:38:36",
       "album": {
+        "name": "Ubicaci\u00f3n en Tiempo Real",
+        "url": "https://open.spotify.com/album/7AGuimab1m9FAFkS6sekRp"
+      },
+      "artists": [
+        {
+          "name": "Barbi Recanati",
+          "url": "https://open.spotify.com/artist/4nwFiHgPXUpo0KgR1rZSAD"
+        },
+        {
+          "name": "Paula Trama",
+          "url": "https://open.spotify.com/artist/6qUDw7IqelgJuzAIhGMx6u"
+        }
+      ],
+      "duration_ms": 255860,
+      "name": "Los D\u00edas Que No Est\u00e1s",
+      "url": "https://open.spotify.com/track/6wj9l4v47KaIGN2OBfKtpI"
+    },
+    {
+      "added_at": "2024-03-19 18:38:36",
+      "album": {
         "name": "Canciones de Amor",
         "url": "https://open.spotify.com/album/1xyRm4Ti9USkm9sVTwVfXU"
       },
@@ -563,26 +583,6 @@
       "duration_ms": 194043,
       "name": "Canciones de Amor",
       "url": "https://open.spotify.com/track/1RjmeNxL0KNM0KTH8aySAO"
-    },
-    {
-      "added_at": "2024-03-19 18:38:36",
-      "album": {
-        "name": "Ubicaci\u00f3n en Tiempo Real",
-        "url": "https://open.spotify.com/album/7AGuimab1m9FAFkS6sekRp"
-      },
-      "artists": [
-        {
-          "name": "Barbi Recanati",
-          "url": "https://open.spotify.com/artist/4nwFiHgPXUpo0KgR1rZSAD"
-        },
-        {
-          "name": "Paula Trama",
-          "url": "https://open.spotify.com/artist/6qUDw7IqelgJuzAIhGMx6u"
-        }
-      ],
-      "duration_ms": 255860,
-      "name": "Los D\u00edas Que No Est\u00e1s",
-      "url": "https://open.spotify.com/track/6wj9l4v47KaIGN2OBfKtpI"
     },
     {
       "added_at": "2024-03-19 18:38:36",
@@ -707,22 +707,6 @@
     {
       "added_at": "2024-03-19 18:38:36",
       "album": {
-        "name": "Lago Eterno",
-        "url": "https://open.spotify.com/album/4QE8gwER0QUeNM7ydyiLwC"
-      },
-      "artists": [
-        {
-          "name": "Isla Mujeres",
-          "url": "https://open.spotify.com/artist/2VLQDfdzVswx2x3BNYwfcS"
-        }
-      ],
-      "duration_ms": 128802,
-      "name": "Lago Eterno",
-      "url": "https://open.spotify.com/track/3aaEQFzM99jkEVqUT9XsX4"
-    },
-    {
-      "added_at": "2024-03-19 18:38:36",
-      "album": {
         "name": "Ochocientos Envolventes al Sol",
         "url": "https://open.spotify.com/album/0cX5CB6zbNgLsmNMZqX8po"
       },
@@ -735,6 +719,26 @@
       "duration_ms": 250517,
       "name": "800 Vueltas Envolventes",
       "url": "https://open.spotify.com/track/7zG3NeQXpREreAzY1jM0I7"
+    },
+    {
+      "added_at": "2024-03-19 18:38:36",
+      "album": {
+        "name": "Mala Influencia",
+        "url": "https://open.spotify.com/album/5cLzpXDcunNag0msGWI67P"
+      },
+      "artists": [
+        {
+          "name": "Isla Mujeres",
+          "url": "https://open.spotify.com/artist/2VLQDfdzVswx2x3BNYwfcS"
+        },
+        {
+          "name": "Mora y los Metegoles",
+          "url": "https://open.spotify.com/artist/3bE6MHB83GAQf8NsvmcpCX"
+        }
+      ],
+      "duration_ms": 133775,
+      "name": "Mala Influencia",
+      "url": "https://open.spotify.com/track/0l9VKy6AbaCk2mfvD85reL"
     },
     {
       "added_at": "2024-03-19 18:38:36",
@@ -803,30 +807,6 @@
     {
       "added_at": "2024-03-19 18:38:36",
       "album": {
-        "name": "333",
-        "url": "https://open.spotify.com/album/7wepZzZxhVV8M5eM9u8StC"
-      },
-      "artists": [
-        {
-          "name": "Evlay",
-          "url": "https://open.spotify.com/artist/2JsDK87cAxuUlz4L4izU7A"
-        },
-        {
-          "name": "Lisandro Aristimu\u00f1o",
-          "url": "https://open.spotify.com/artist/0ovfSEcDqepf0vqJc811zQ"
-        },
-        {
-          "name": "Tomy Sainz",
-          "url": "https://open.spotify.com/artist/07mfD3Txop0KJIEHoQRFZZ"
-        }
-      ],
-      "duration_ms": 192389,
-      "name": "CABEZAS DEL TIEMPO",
-      "url": "https://open.spotify.com/track/4FjmttGB9sxrxY3UY0gDG9"
-    },
-    {
-      "added_at": "2024-03-19 18:38:36",
-      "album": {
         "name": "Rain",
         "url": "https://open.spotify.com/album/69ZNrQXyGpwQ4kp6DUquQS"
       },
@@ -855,6 +835,30 @@
     {
       "added_at": "2024-03-19 18:38:36",
       "album": {
+        "name": "333",
+        "url": "https://open.spotify.com/album/7wepZzZxhVV8M5eM9u8StC"
+      },
+      "artists": [
+        {
+          "name": "Evlay",
+          "url": "https://open.spotify.com/artist/2JsDK87cAxuUlz4L4izU7A"
+        },
+        {
+          "name": "Lisandro Aristimu\u00f1o",
+          "url": "https://open.spotify.com/artist/0ovfSEcDqepf0vqJc811zQ"
+        },
+        {
+          "name": "Tomy Sainz",
+          "url": "https://open.spotify.com/artist/07mfD3Txop0KJIEHoQRFZZ"
+        }
+      ],
+      "duration_ms": 192389,
+      "name": "CABEZAS DEL TIEMPO",
+      "url": "https://open.spotify.com/track/4FjmttGB9sxrxY3UY0gDG9"
+    },
+    {
+      "added_at": "2024-03-19 18:38:36",
+      "album": {
         "name": "Rayo El\u00e9ctrico",
         "url": "https://open.spotify.com/album/3kc3kZbhYmb22GHlCaqiYs"
       },
@@ -871,26 +875,6 @@
       "duration_ms": 258629,
       "name": "Rayo El\u00e9ctrico",
       "url": "https://open.spotify.com/track/7B29BMyYb5jgnwfiJxLwq8"
-    },
-    {
-      "added_at": "2024-03-19 18:38:36",
-      "album": {
-        "name": "Mala Influencia",
-        "url": "https://open.spotify.com/album/5cLzpXDcunNag0msGWI67P"
-      },
-      "artists": [
-        {
-          "name": "Isla Mujeres",
-          "url": "https://open.spotify.com/artist/2VLQDfdzVswx2x3BNYwfcS"
-        },
-        {
-          "name": "Mora y los Metegoles",
-          "url": "https://open.spotify.com/artist/3bE6MHB83GAQf8NsvmcpCX"
-        }
-      ],
-      "duration_ms": 133775,
-      "name": "Mala Influencia",
-      "url": "https://open.spotify.com/track/0l9VKy6AbaCk2mfvD85reL"
     },
     {
       "added_at": "2024-03-19 18:38:36",
@@ -923,6 +907,22 @@
     {
       "added_at": "2024-03-19 18:38:36",
       "album": {
+        "name": "Lago Eterno",
+        "url": "https://open.spotify.com/album/4QE8gwER0QUeNM7ydyiLwC"
+      },
+      "artists": [
+        {
+          "name": "Isla Mujeres",
+          "url": "https://open.spotify.com/artist/2VLQDfdzVswx2x3BNYwfcS"
+        }
+      ],
+      "duration_ms": 128802,
+      "name": "Lago Eterno",
+      "url": "https://open.spotify.com/track/3aaEQFzM99jkEVqUT9XsX4"
+    },
+    {
+      "added_at": "2024-03-19 18:38:36",
+      "album": {
         "name": "Una Comedia Rom\u00e1ntica",
         "url": "https://open.spotify.com/album/6OvZ23mWgNch2FVc13ZrNk"
       },
@@ -939,22 +939,6 @@
     {
       "added_at": "2024-03-19 18:38:36",
       "album": {
-        "name": "SUELO",
-        "url": "https://open.spotify.com/album/7J6hemedekIrdBl2KlqmwM"
-      },
-      "artists": [
-        {
-          "name": "Marki",
-          "url": "https://open.spotify.com/artist/5wspxNfJ40p3YMUrwUaJ8J"
-        }
-      ],
-      "duration_ms": 169387,
-      "name": "SUELO",
-      "url": "https://open.spotify.com/track/2AsG5SNToRkg80eFb5Z5Hb"
-    },
-    {
-      "added_at": "2024-03-19 18:38:36",
-      "album": {
         "name": "Cae la noche",
         "url": "https://open.spotify.com/album/6zh0kUiR3qiD95UsBi8TYB"
       },
@@ -967,6 +951,22 @@
       "duration_ms": 244144,
       "name": "Cae la noche",
       "url": "https://open.spotify.com/track/1BKGYjquRMON7xsPSz51o8"
+    },
+    {
+      "added_at": "2024-03-19 18:38:36",
+      "album": {
+        "name": "SUELO",
+        "url": "https://open.spotify.com/album/7J6hemedekIrdBl2KlqmwM"
+      },
+      "artists": [
+        {
+          "name": "Marki",
+          "url": "https://open.spotify.com/artist/5wspxNfJ40p3YMUrwUaJ8J"
+        }
+      ],
+      "duration_ms": 169387,
+      "name": "SUELO",
+      "url": "https://open.spotify.com/track/2AsG5SNToRkg80eFb5Z5Hb"
     },
     {
       "added_at": "2024-03-19 18:38:36",
@@ -1019,6 +1019,42 @@
     {
       "added_at": "2024-03-19 18:38:36",
       "album": {
+        "name": "Puedo Con Esto (Fuera de Foco)",
+        "url": "https://open.spotify.com/album/6lUeoa01dpqJvnHuNt5vZO"
+      },
+      "artists": [
+        {
+          "name": "Plastilina",
+          "url": "https://open.spotify.com/artist/0NAzHtE2ceqgTPJZfrhzG9"
+        },
+        {
+          "name": "Clara Cava",
+          "url": "https://open.spotify.com/artist/5bOm9wAui94GDhPOCKgmhY"
+        }
+      ],
+      "duration_ms": 234792,
+      "name": "Puedo Con Esto (Fuera de Foco)",
+      "url": "https://open.spotify.com/track/11X6kG43B9w6uPLnx9ZlQf"
+    },
+    {
+      "added_at": "2024-03-19 18:38:36",
+      "album": {
+        "name": "Mala (Edici\u00f3n Mal\u00edsima)",
+        "url": "https://open.spotify.com/album/5OaoeHCPd7Q3UwXpXOAknq"
+      },
+      "artists": [
+        {
+          "name": "Carmen S\u00e1nchez Viamonte",
+          "url": "https://open.spotify.com/artist/5Ofqrhibux9l9dNgt6qZP6"
+        }
+      ],
+      "duration_ms": 220473,
+      "name": "Haku - Bonus Track",
+      "url": "https://open.spotify.com/track/3NNCxji6geukyGjPzDaRlZ"
+    },
+    {
+      "added_at": "2024-03-19 18:38:36",
+      "album": {
         "name": "Mariposas",
         "url": "https://open.spotify.com/album/0jt2HG9su1FciUJ2BgBJ30"
       },
@@ -1055,38 +1091,6 @@
     {
       "added_at": "2024-03-19 18:38:36",
       "album": {
-        "name": "Mala (Edici\u00f3n Mal\u00edsima)",
-        "url": "https://open.spotify.com/album/5OaoeHCPd7Q3UwXpXOAknq"
-      },
-      "artists": [
-        {
-          "name": "Carmen S\u00e1nchez Viamonte",
-          "url": "https://open.spotify.com/artist/5Ofqrhibux9l9dNgt6qZP6"
-        }
-      ],
-      "duration_ms": 220473,
-      "name": "Haku - Bonus Track",
-      "url": "https://open.spotify.com/track/3NNCxji6geukyGjPzDaRlZ"
-    },
-    {
-      "added_at": "2024-03-19 18:38:36",
-      "album": {
-        "name": "Esp\u00eda del Arte",
-        "url": "https://open.spotify.com/album/1QeQK6Vtgd9OIdZS1hEATg"
-      },
-      "artists": [
-        {
-          "name": "La Vida en Familia",
-          "url": "https://open.spotify.com/artist/7DEnD46VUEAYgm9Bftv8oL"
-        }
-      ],
-      "duration_ms": 290458,
-      "name": "Esp\u00eda del Arte",
-      "url": "https://open.spotify.com/track/6gPUedPLsF7taEAWvgJEal"
-    },
-    {
-      "added_at": "2024-03-19 18:38:36",
-      "album": {
         "name": "mutar la piel",
         "url": "https://open.spotify.com/album/3FpUrtVBDvGQKwzvFqOkMd"
       },
@@ -1107,22 +1111,18 @@
     {
       "added_at": "2024-03-19 18:38:36",
       "album": {
-        "name": "Puedo Con Esto (Fuera de Foco)",
-        "url": "https://open.spotify.com/album/6lUeoa01dpqJvnHuNt5vZO"
+        "name": "Esp\u00eda del Arte",
+        "url": "https://open.spotify.com/album/1QeQK6Vtgd9OIdZS1hEATg"
       },
       "artists": [
         {
-          "name": "Plastilina",
-          "url": "https://open.spotify.com/artist/0NAzHtE2ceqgTPJZfrhzG9"
-        },
-        {
-          "name": "Clara Cava",
-          "url": "https://open.spotify.com/artist/5bOm9wAui94GDhPOCKgmhY"
+          "name": "La Vida en Familia",
+          "url": "https://open.spotify.com/artist/7DEnD46VUEAYgm9Bftv8oL"
         }
       ],
-      "duration_ms": 234792,
-      "name": "Puedo Con Esto (Fuera de Foco)",
-      "url": "https://open.spotify.com/track/11X6kG43B9w6uPLnx9ZlQf"
+      "duration_ms": 290458,
+      "name": "Esp\u00eda del Arte",
+      "url": "https://open.spotify.com/track/6gPUedPLsF7taEAWvgJEal"
     },
     {
       "added_at": "2024-03-19 18:38:36",
@@ -1159,22 +1159,6 @@
     {
       "added_at": "2024-03-19 18:38:36",
       "album": {
-        "name": "Razon",
-        "url": "https://open.spotify.com/album/4h9tNVsb4NVkuwlyXODjFa"
-      },
-      "artists": [
-        {
-          "name": "Francisco Bochat\u00f3n",
-          "url": "https://open.spotify.com/artist/74rb5haBUzWWe7v8MQbZwS"
-        }
-      ],
-      "duration_ms": 179658,
-      "name": "Raz\u00f3n",
-      "url": "https://open.spotify.com/track/2HJTLma7NZUMF6gNHRDims"
-    },
-    {
-      "added_at": "2024-03-19 18:38:36",
-      "album": {
         "name": "Nunca Estuvo en Ti el Litoral",
         "url": "https://open.spotify.com/album/62Wwf9DHae5Hi6X9vp8QBN"
       },
@@ -1187,6 +1171,22 @@
       "duration_ms": 178773,
       "name": "Nunca Estuvo en Ti el Litoral",
       "url": "https://open.spotify.com/track/0ealZ87kbyY8gsgDZwWGVq"
+    },
+    {
+      "added_at": "2024-03-19 18:38:36",
+      "album": {
+        "name": "Razon",
+        "url": "https://open.spotify.com/album/4h9tNVsb4NVkuwlyXODjFa"
+      },
+      "artists": [
+        {
+          "name": "Francisco Bochat\u00f3n",
+          "url": "https://open.spotify.com/artist/74rb5haBUzWWe7v8MQbZwS"
+        }
+      ],
+      "duration_ms": 179658,
+      "name": "Raz\u00f3n",
+      "url": "https://open.spotify.com/track/2HJTLma7NZUMF6gNHRDims"
     },
     {
       "added_at": "2024-03-19 18:38:36",
@@ -1535,22 +1535,18 @@
     {
       "added_at": "2024-03-19 18:38:36",
       "album": {
-        "name": "Espejo",
-        "url": "https://open.spotify.com/album/3mrLJYiIA3aHTco2VdFD2U"
+        "name": "Desenlace",
+        "url": "https://open.spotify.com/album/7I7ze1mejAhsI9gOcfA1zv"
       },
       "artists": [
         {
-          "name": "Todo Aparenta Normal",
-          "url": "https://open.spotify.com/artist/3wsEppaZbJOYZEtwMfNI0o"
-        },
-        {
-          "name": "Lisandro Aristimu\u00f1o",
-          "url": "https://open.spotify.com/artist/0ovfSEcDqepf0vqJc811zQ"
+          "name": "The Zafarrancho",
+          "url": "https://open.spotify.com/artist/2teY1GZvRISuzQgHpPhS4j"
         }
       ],
-      "duration_ms": 255897,
-      "name": "Espejo",
-      "url": "https://open.spotify.com/track/32VI35kNjDYQhtryCeBv0y"
+      "duration_ms": 209000,
+      "name": "Desenlace",
+      "url": "https://open.spotify.com/track/46jWzIOebLayoPxkUeGZAc"
     }
   ],
   "unique_name": "6PM Indie",

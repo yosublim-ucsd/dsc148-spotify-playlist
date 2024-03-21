@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTxofAzA6rAK.md) - [plain]
 
 > Latest and biggest tracks from Jamaica's Dancehall scene\. Cover: Intence
 
-[Spotify](https://open.spotify.com/user/spotify) - 62,624 likes - 150 songs - 7 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 62,687 likes - 150 songs - 7 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,9 +37,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTxofAzA6rAK.md) - [plain]
 | 27 | [Top Tier](https://open.spotify.com/track/57RxPPRCpdFkx1q6pNn0Hd) | [Bayka](https://open.spotify.com/artist/7pRxYXACpWZf1i7Chd8Sk2) | [Top Tier](https://open.spotify.com/album/5RQDN8PlDQELozxIeUKVXC) | 2:21 |
 | 28 | [Roll Deep](https://open.spotify.com/track/5I55hcZJTmdVtyJC4Sn7ae) | [10Tik](https://open.spotify.com/artist/6I1j34QzSTWe6u4qQWKYJe) | [Roll Deep](https://open.spotify.com/album/0DVnruHgsqHFIoYnmpYlc2) | 3:27 |
 | 29 | [Curious](https://open.spotify.com/track/3kH4ElFSbaNiNejXE71dga) | [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB) | [Curious](https://open.spotify.com/album/4v8HOUiwFEMkvYpnlzEsX4) | 2:41 |
-| 30 | [Dickmatized](https://open.spotify.com/track/2dSbH1DD8CEqHqyS1Ey0bd) | [Jada Kingdom](https://open.spotify.com/artist/2FgooFaZzZy6PUyJImk0kG) | [Dickmatized](https://open.spotify.com/album/79gp57yPl6DStAtpdX08KQ) | 2:20 |
+| 30 | [Bwoii Affi" Watch Eh Style](https://open.spotify.com/track/15ycokwnZsMhDyORHASWBX) | [1Biggs Don](https://open.spotify.com/artist/6NuqWCp8VQhokoHpiUY1mS), [Steel Chest](https://open.spotify.com/artist/4fkMy4Xa2LN6JRC9XfTe65) | [Bwoii Affi" Watch Eh Style](https://open.spotify.com/album/27oCbeiS8ucXWePBqoXxor) | 2:25 |
 | 31 | [Wi Deh Yah](https://open.spotify.com/track/6EnfbMj5Ui3jkIw8CDaYIW) | [Kranium](https://open.spotify.com/artist/1LKo6ZA3RNvKtLa6zDu32S) | [Wi Deh Yah](https://open.spotify.com/album/6VS3rD5JvrO6d7L9v1G7W1) | 2:26 |
-| 32 | [Bwoii Affi" Watch Eh Style](https://open.spotify.com/track/15ycokwnZsMhDyORHASWBX) | [1Biggs Don](https://open.spotify.com/artist/6NuqWCp8VQhokoHpiUY1mS), [Steel Chest](https://open.spotify.com/artist/4fkMy4Xa2LN6JRC9XfTe65) | [Bwoii Affi" Watch Eh Style](https://open.spotify.com/album/27oCbeiS8ucXWePBqoXxor) | 2:25 |
+| 32 | [Dickmatized](https://open.spotify.com/track/2dSbH1DD8CEqHqyS1Ey0bd) | [Jada Kingdom](https://open.spotify.com/artist/2FgooFaZzZy6PUyJImk0kG) | [Dickmatized](https://open.spotify.com/album/79gp57yPl6DStAtpdX08KQ) | 2:20 |
 | 33 | [Live n' Learn](https://open.spotify.com/track/4YSbKyNXJ1vHVgM4bYerDs) | [450](https://open.spotify.com/artist/2v6V75NbousiJwy2HV44VL) | [Live n' Learn](https://open.spotify.com/album/1CzlfsRqL1sgMuhniUU5CZ) | 2:41 |
 | 34 | [Deja Vu](https://open.spotify.com/track/3iSr9hJ5Ho56LhKXILErsJ) | [Skillibeng](https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst) | [I'll Never Die](https://open.spotify.com/album/6ZDK2wcGJqmfk3hrP3ZHXu) | 2:26 |
 | 35 | [WiFi](https://open.spotify.com/track/6ocqnSUAMMskrP3yDQdGxZ) | [Dexta Daps](https://open.spotify.com/artist/28UDeKu2FPrU0T7dpUiSGY), [Drumma Boy](https://open.spotify.com/artist/1WypSuVRK0PMIKXvoDLvxh) | [WiFi](https://open.spotify.com/album/0cu7nhBxjz3zkWVeevp1i8) | 3:33 |
@@ -50,14 +50,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTxofAzA6rAK.md) - [plain]
 | 40 | [FOREVER](https://open.spotify.com/track/4Lv6Jh52ZV2T7Zfr9KMsul) | [Dexta Daps](https://open.spotify.com/artist/28UDeKu2FPrU0T7dpUiSGY) | [FOREVER](https://open.spotify.com/album/1m3dE5IrOZoMhYrPPtdhWn) | 3:13 |
 | 41 | [Glock 40](https://open.spotify.com/track/1CVaaz9RwS2UgWWAcleX42) | [Valiant](https://open.spotify.com/artist/7dvG18F378r7HRxmiHn3ti), [Eclipse](https://open.spotify.com/artist/73UvMKMCMeorzSkeBi7PIM) | [Glock 40](https://open.spotify.com/album/6GUXVlDpDDNbRjtwfCKeYH) | 2:16 |
 | 42 | [Likkle Miss \(with Skeng\) \- Remix](https://open.spotify.com/track/2VdsU2IJdx3i1aCsbyMlm6) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh), [Skeng](https://open.spotify.com/artist/4SGo67MJz6DdsjzaRZ4OD7) | [Queen Radio: Volume 1](https://open.spotify.com/album/30jNbSUWscm8OXxOMPk1L6) | 2:18 |
-| 43 | [Static](https://open.spotify.com/track/30OaDvU7L0CjE4amrbRNi9) | [Alkaline](https://open.spotify.com/artist/2LIAgeQ5NZurwixfoG3CWZ), [Black Shadow](https://open.spotify.com/artist/2p9Ir76xCg114T9P67Hk1z) | [Static](https://open.spotify.com/album/7r54RUpeMgdMbDh9YPVc0O) | 2:36 |
+| 43 | [Cree](https://open.spotify.com/track/6wEcOXUgeVUlrzgnNVhOqh) | [Alkaline](https://open.spotify.com/artist/2LIAgeQ5NZurwixfoG3CWZ) | [Top Prize](https://open.spotify.com/album/4d6EnDzUrDot75g66ClShl) | 3:06 |
 | 44 | [Dunce Bat](https://open.spotify.com/track/3hDwJFAZcw0kOwwjzQBAWo) | [RajahWild](https://open.spotify.com/artist/5t36kC15OK6oYHpfb3rDPI) | [Dunce Bat](https://open.spotify.com/album/6JfEFqt2dfB7vwrAseppiV) | 2:36 |
 | 45 | [Solemn Request](https://open.spotify.com/track/4svJStfE1Z3lMpcPeqDYlD) | [Chronic Law](https://open.spotify.com/artist/3zorWCDx017sz4UYP2fC9w) | [Solemn Request](https://open.spotify.com/album/6rnacNkcCAOybo9DZNKHXM) | 3:06 |
 | 46 | [Brrrp](https://open.spotify.com/track/383ptF3PbNr3Z1NvwO2Je5) | [Skeng](https://open.spotify.com/artist/4SGo67MJz6DdsjzaRZ4OD7), [John Coop](https://open.spotify.com/artist/3L2ENBfz08H3T8ndKRiQUG) | [Brrrp](https://open.spotify.com/album/4lZXa3MY9tsZxsrnpx54fm) | 2:41 |
 | 47 | [From Rags to Riches](https://open.spotify.com/track/4aiIKB4FplhLZq0TCh16Ya) | [Teejay](https://open.spotify.com/artist/30hElzuHCZ1qzCl364SHma), [Damage Musiq](https://open.spotify.com/artist/0sjTBvvHmLPJ3vcmAjitTJ) | [From Rags to Riches](https://open.spotify.com/album/6u7JQUvZJJHCKXfQd1fhPp) | 3:17 |
 | 48 | [Pieces \(with Jahshii\)](https://open.spotify.com/track/6NaeXUltqK5j9NqCaiqRO4) | [Masicka](https://open.spotify.com/artist/2Gzy8TYJ5xrEMDyUjZuDsK), [Jahshii](https://open.spotify.com/artist/4pP4fxW65oev1NdRd2Fbn7) | [Pieces](https://open.spotify.com/album/1qWTEKdNqMDHIq0mSivRTW) | 3:39 |
 | 49 | [GPP](https://open.spotify.com/track/3rnMusaZSGqhvWJG63Li55) | [Jada Kingdom](https://open.spotify.com/artist/2FgooFaZzZy6PUyJImk0kG), [Di Genius](https://open.spotify.com/artist/08erObvNX7rs7d4pbuaRCQ) | [GPP](https://open.spotify.com/album/05JFI9UgHFBD6gvanViaTW) | 3:13 |
-| 50 | [Cree](https://open.spotify.com/track/6wEcOXUgeVUlrzgnNVhOqh) | [Alkaline](https://open.spotify.com/artist/2LIAgeQ5NZurwixfoG3CWZ) | [Top Prize](https://open.spotify.com/album/4d6EnDzUrDot75g66ClShl) | 3:06 |
+| 50 | [Static](https://open.spotify.com/track/30OaDvU7L0CjE4amrbRNi9) | [Alkaline](https://open.spotify.com/artist/2LIAgeQ5NZurwixfoG3CWZ), [Black Shadow](https://open.spotify.com/artist/2p9Ir76xCg114T9P67Hk1z) | [Static](https://open.spotify.com/album/7r54RUpeMgdMbDh9YPVc0O) | 2:36 |
 | 51 | [Clip Tall](https://open.spotify.com/track/75x8qpBoEV0A6joMaU6jBw) | [IWaata](https://open.spotify.com/artist/2xtVXoJRIMnX1UAmOCrHrB) | [Clip Tall](https://open.spotify.com/album/000gVvwOj4lYzHP8K3H58c) | 2:52 |
 | 52 | [Tic Tac Toe](https://open.spotify.com/track/0kmhY9fQ1p1w4ui1e28FHW) | [Rvssian](https://open.spotify.com/artist/1fctva4kpRbg2k3v7kwRuS), [Valiant](https://open.spotify.com/artist/7dvG18F378r7HRxmiHn3ti), [Tommy Lee Sparta](https://open.spotify.com/artist/2yHxc12dEUiLXNeqUadxBh) | [Tic Tac Toe](https://open.spotify.com/album/1L67y3BRIGj7VrT9yGT7is) | 2:21 |
 | 53 | [Street Cred](https://open.spotify.com/track/7uCd9RMJGcbZY9zpv0dPw7) | [Skeng](https://open.spotify.com/artist/4SGo67MJz6DdsjzaRZ4OD7) | [Street Cred](https://open.spotify.com/album/2yEZn1kPkRUTW3F48OEFeB) | 2:30 |
@@ -71,8 +71,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTxofAzA6rAK.md) - [plain]
 | 61 | [Born Fighter](https://open.spotify.com/track/1Bxl4Z0pv1gIDLgvxOy4tB) | [Jahshii](https://open.spotify.com/artist/4pP4fxW65oev1NdRd2Fbn7) | [Born Fighter](https://open.spotify.com/album/4lj5UoUo0wkvwXO8rKRxhc) | 3:28 |
 | 62 | [Still a Bleed](https://open.spotify.com/track/34uBKj0bzsVkI70I8Xvpab) | [Chronic Law](https://open.spotify.com/artist/3zorWCDx017sz4UYP2fC9w) | [Still a Bleed](https://open.spotify.com/album/7yXsnGPX5pmfHxvoEDMyuG) | 3:36 |
 | 63 | [Update](https://open.spotify.com/track/1Vso1T5aUUflMhgijuG4SZ) | [Masicka](https://open.spotify.com/artist/2Gzy8TYJ5xrEMDyUjZuDsK) | [Update](https://open.spotify.com/album/0PaM6uUQDeF2SSv3o4noRe) | 3:24 |
-| 64 | [Know Weh Ya Do](https://open.spotify.com/track/4Vt1uT3bxlEoMoZ1BDdQWA) | [450](https://open.spotify.com/artist/2v6V75NbousiJwy2HV44VL), [Weekday](https://open.spotify.com/artist/2ZoRuY63B7fzl9HaKjlWoF) | [Know Weh Ya Do](https://open.spotify.com/album/0GFq5vA7xwEDqyiJWprBQz) | 2:57 |
-| 65 | [Mona Lisa](https://open.spotify.com/track/4FOLsEGYFzPy1CyO0vkLwH) | [Kranium](https://open.spotify.com/artist/1LKo6ZA3RNvKtLa6zDu32S) | [Mona Lisa](https://open.spotify.com/album/4Pf654V1D7cwZaQ5Hqwvv4) | 2:29 |
+| 64 | [Mona Lisa](https://open.spotify.com/track/4FOLsEGYFzPy1CyO0vkLwH) | [Kranium](https://open.spotify.com/artist/1LKo6ZA3RNvKtLa6zDu32S) | [Mona Lisa](https://open.spotify.com/album/4Pf654V1D7cwZaQ5Hqwvv4) | 2:29 |
+| 65 | [Know Weh Ya Do](https://open.spotify.com/track/4Vt1uT3bxlEoMoZ1BDdQWA) | [450](https://open.spotify.com/artist/2v6V75NbousiJwy2HV44VL), [Weekday](https://open.spotify.com/artist/2ZoRuY63B7fzl9HaKjlWoF) | [Know Weh Ya Do](https://open.spotify.com/album/0GFq5vA7xwEDqyiJWprBQz) | 2:57 |
 | 66 | [SINTRAP \(Giftcard\)](https://open.spotify.com/track/7EBrB8ZuJe9zYI5kW39WQn) | [Najeeriii](https://open.spotify.com/artist/2m6yzJ0whBggOhNgLskdLF) | [SIN TRAP \(Giftcard\)](https://open.spotify.com/album/1pYvUxE24u8KYnQCUdN3YV) | 2:57 |
 | 67 | [Peace of Mind](https://open.spotify.com/track/1MosK3moAfGVRiAGum2Ngf) | [Squash](https://open.spotify.com/artist/1HXkVBU6RwIxxN6xuI6b00) | [Peace of Mind](https://open.spotify.com/album/4A17sw812lXIlFlmavhK37) | 2:35 |
 | 68 | [Next To Me \(feat\. Toni\-Ann Singh\)](https://open.spotify.com/track/18okB3tFyUOaQLWFoBOC1H) | [Popcaan](https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR), [Toni\-Ann Singh](https://open.spotify.com/artist/1bZCIM9oJAMPOTxFTtPXvJ) | [Great Is He](https://open.spotify.com/album/5DVnzAiFpPirUnh3QPv1ZR) | 3:56 |
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTxofAzA6rAK.md) - [plain]
 | 149 | [World Domination](https://open.spotify.com/track/6Qf8dbx2sDj0yusY6uJ2lF) | [Alkaline](https://open.spotify.com/artist/2LIAgeQ5NZurwixfoG3CWZ) | [World Domination](https://open.spotify.com/album/1mUvZQXcmX7WuNUePvhDUF) | 2:58 |
 | 150 | [Who Cares](https://open.spotify.com/track/1V2JgYBZYFW5zmLrWMQf4w) | [Squash](https://open.spotify.com/artist/1HXkVBU6RwIxxN6xuI6b00) | [Who Cares](https://open.spotify.com/album/20KtHUMM6VGYqfsUVF8QTb) | 2:42 |
 
-Snapshot ID: `MCxiMDFiNjFlOTA1MzhiMzkyMTRlYzQxMTZhMzYyNzgwZGYzZWVkMzJj`
+Snapshot ID: `MCw4YjRmNDM3NzRkNTliMDNmNjg0YzE2NzNkN2I4YWU5NTFlNzQ4YmJj`

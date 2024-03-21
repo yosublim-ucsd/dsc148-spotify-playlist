@@ -1274,7 +1274,7 @@
       ],
       "date_added": "2022-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-21",
       "duration_ms": 283096,
       "name": "Farm",
       "url": "https://open.spotify.com/track/2C4ESQIc6lROCWKMwffsU6"
@@ -2238,6 +2238,24 @@
       "duration_ms": 200448,
       "name": "Loving, Loving",
       "url": "https://open.spotify.com/track/1QIzSLVBQA2GBrF2IDBSPK"
+    },
+    {
+      "album": {
+        "name": "Shades",
+        "url": "https://open.spotify.com/album/7L34N3XXZnO92a5xxn6zox"
+      },
+      "artists": [
+        {
+          "name": "Vera Sola",
+          "url": "https://open.spotify.com/artist/6QZsje9QjfKHObQDmX6k0y"
+        }
+      ],
+      "date_added": "2024-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200448,
+      "name": "Loving, Loving",
+      "url": "https://open.spotify.com/track/630pFe0xdR8ljvl31EUgJo"
     },
     {
       "album": {

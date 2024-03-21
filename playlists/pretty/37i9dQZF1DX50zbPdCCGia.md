@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX50zbPdCCGia.md) - [plain]
 
 > The best soft rock from the 1970s\. Cover: Styx
 
-[Spotify](https://open.spotify.com/user/spotify) - 238,686 likes - 75 songs - 4 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 238,771 likes - 75 songs - 4 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,7 +72,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX50zbPdCCGia.md) - [plain]
 | 62 | [Bitter with the Sweet](https://open.spotify.com/track/6MBS3ARYYlI4FtYjaTinK5) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Rhymes & Reasons](https://open.spotify.com/album/3kUmJfZkReqIb3ZqB4Q4kv) | 2:27 |
 | 63 | [Love Will Find A Way](https://open.spotify.com/track/2LqzuRukwnpeWYLXBtiwmq) | [Pablo Cruise](https://open.spotify.com/artist/3Y5abCLsMxsOLaZ8rYusSR) | [Worlds Away](https://open.spotify.com/album/4aYsq7sHYon9fInMOboyfK) | 4:11 |
 | 64 | [Just a Song Before I Go](https://open.spotify.com/track/4dAN7KcWCWx5jV6dpwtfvN) | [Crosby, Stills & Nash](https://open.spotify.com/artist/2pdvghEHZJtgSXZ7cvNLou) | [CSN](https://open.spotify.com/album/63AF6wD9Mt1vQgKPNZaAXx) | 2:13 |
-| 65 | [Summer, Highland Falls](https://open.spotify.com/track/4850v7DuT7raVYAWc1ODPv) | [Billy Joel](https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e) | [Turnstiles](https://open.spotify.com/album/7GiLfxL1su3MSqz7pmKMZi) | 3:19 |
+| 65 | [Vienna](https://open.spotify.com/track/7gREIuHognJFspylIDJ94p) | [Billy Joel](https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e) | [The Stranger](https://open.spotify.com/album/3IILMjMMnoN2sKzgesX8KV) | 3:34 |
 | 66 | [Baby, What a Big Surprise \- Edit](https://open.spotify.com/track/11dAtktxQQzipxuLqljEfY) | [Chicago](https://open.spotify.com/artist/3iDD7bnsjL9J4fO298r0L0) | [Chicago XI](https://open.spotify.com/album/2Uq6uCf2FOmVl30J6028N1) | 3:03 |
 | 67 | [Shower the People \- 2019 Remaster](https://open.spotify.com/track/1Pwcxq35Hl2kqwUVd5XCRg) | [James Taylor](https://open.spotify.com/artist/0vn7UBvSQECKJm2817Yf1P) | [In the Pocket \(2019 Remaster\)](https://open.spotify.com/album/45fMwpxS1ZOMqNt8Rq5pxP) | 4:33 |
 | 68 | [Lonely Boy](https://open.spotify.com/track/6wGMLoEqD2k3RBXFHD0yUp) | [Andrew Gold](https://open.spotify.com/artist/5fmvGUlMVgmnCn45f1he7d) | [What's Wrong with This Picture?](https://open.spotify.com/album/646DiNC3Ack9x3Q7dEBzKW) | 4:24 |
@@ -82,6 +82,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX50zbPdCCGia.md) - [plain]
 | 72 | [Another Park, Another Sunday](https://open.spotify.com/track/6K1Wr66UPDkfsS4lrNdY9e) | [The Doobie Brothers](https://open.spotify.com/artist/39T6qqI0jDtSWWioX8eGJz) | [What Were Once Vices Are Now Habits](https://open.spotify.com/album/6Jnw1MZ5lrICgurtzc3WqB) | 4:27 |
 | 73 | [Doolin\-Dalton \- 2013 Remaster](https://open.spotify.com/track/0huHTieLTlluurvasQLB74) | [Eagles](https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL) | [Desperado \(2013 Remaster\)](https://open.spotify.com/album/09WBxbis5Sixt01FVMs8UM) | 3:27 |
 | 74 | [Save It For A Rainy Day](https://open.spotify.com/track/5AHjRKFCVUaRClF2Oxx8Ld) | [Stephen Bishop](https://open.spotify.com/artist/3JhRHqCi8HEzkJVWt19LtN) | [Careless](https://open.spotify.com/album/08zWo4xb7GZ5e3dyUOUAmm) | 3:12 |
-| 75 | [Vienna](https://open.spotify.com/track/7gREIuHognJFspylIDJ94p) | [Billy Joel](https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e) | [The Stranger](https://open.spotify.com/album/3IILMjMMnoN2sKzgesX8KV) | 3:34 |
+| 75 | [Summer, Highland Falls](https://open.spotify.com/track/4850v7DuT7raVYAWc1ODPv) | [Billy Joel](https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e) | [Turnstiles](https://open.spotify.com/album/7GiLfxL1su3MSqz7pmKMZi) | 3:19 |
 
-Snapshot ID: `MCxkMTFkZWM0MWJiMTkyMjFkZDVjMWMzMDk0YzY1NjViYWRmNGU3YjMz`
+Snapshot ID: `MCwzZTA4YWZmNDU3Yjk2MmRkZDVmMmVmMDQ3NGE4ODA3NWQxNzE5MGVl`

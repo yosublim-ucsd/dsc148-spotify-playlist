@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0r3x8OtiwEM.md) - [plain]
 
 > Chill techno, melodic house and tech house.
 
-[Spotify](https://open.spotify.com/user/spotify) - 933,278 likes - 60 songs - 4 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 933,459 likes - 60 songs - 4 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,6 +67,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0r3x8OtiwEM.md) - [plain]
 | 57 | [Home \- Mind Against Remix](https://open.spotify.com/track/0pyjqTGLsrg1r6m5YR4tuq) | [Adriatique](https://open.spotify.com/artist/02DWGcShQivFepRvGJ7xhB), [Marino Canal](https://open.spotify.com/artist/6qdVbTc8Uvy0VJyDZbYTd8), [Delhia De France](https://open.spotify.com/artist/7A4TdwdnxfR9auD1yAmpWD), [Mind Against](https://open.spotify.com/artist/48LWLoeY0dhwaiX1FRsn72) | [Home \(Mind Against Remix\)](https://open.spotify.com/album/0UTTvSP2puk1FP4NQzWKb3) | 7:17 |
 | 58 | [Plastic \(Scheinizzl Remix\)](https://open.spotify.com/track/69xVp5nLMHBlD7KWdm3YEP) | [Klangkarussell](https://open.spotify.com/artist/041iTeoMIwXMlShuQPIVKo), [Scheinizzl](https://open.spotify.com/artist/1V7BhnZpY3khae9xpS1LfV) | [Plastic \(Scheinizzl Remix\)](https://open.spotify.com/album/56x2n57k26tNK4x2RdeiNq) | 6:47 |
 | 59 | [Under Dark \- Innellea Remix](https://open.spotify.com/track/3rMogDjuM5Cp9ak79KGbVe) | [Monolink](https://open.spotify.com/artist/2I4hRNCYkPKJQlkoEZKjYx), [Innellea](https://open.spotify.com/artist/71rqI5HtraA3qXBwatyG6e) | [Under Dark \(Innellea Remix\)](https://open.spotify.com/album/4KZaF8wMgPRmSB6zhEs9Np) | 6:45 |
-| 60 | [EASY PREY](https://open.spotify.com/track/6WqO9gLZu212VEJcVFAYdo) | [Moderat](https://open.spotify.com/artist/2exkZbmNqMKnT8LRWuxWgy) | [MORE D4TA](https://open.spotify.com/album/7coOKcB1fDcYvLG1OTv4Dz) | 4:26 |
+| 60 | [Shapes in the Spray](https://open.spotify.com/track/6h3ZomURqLW7JkM2S66FFL) | [Klangphonics](https://open.spotify.com/artist/0UoXOPQo2BAZ3pSfkt5XZA) | [Shapes in the Spray](https://open.spotify.com/album/3FnbdauVXBaaSNUg5ABYRf) | 7:09 |
 
-Snapshot ID: `MCw1YzNlOWVkNDMzOGIyNTI0OGQ1NzcyNTU3OGRmZDYzZjIxYWMzZjVi`
+Snapshot ID: `MCw3NmQxZDNhMmViMjMwY2Y2YTc2MDhjYjdlOWNlMTM1NDE3NmQ2NTRm`

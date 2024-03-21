@@ -1,12 +1,12 @@
 {
   "description": "New and trending tracks from Texas Country icons and rising stars. Cover: Josh Abbott Band",
-  "num_followers": 415414,
+  "num_followers": 415396,
   "original_name": "Texas Country Now",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzMTc2ODM0MjkwZTZiZWRhNzNlY2UwZTQzYmYxZmE0ZDYzOGMyODdj",
+  "snapshot_id": "MCxhOGM4M2NhZTIxMzUwNzUxODFlZjI2ZTkyYjM2Njk1MGJkYWE2OTI2",
   "tracks": [
     {
       "added_at": "2024-03-15 04:00:00",
@@ -571,6 +571,22 @@
     {
       "added_at": "2024-03-15 04:00:00",
       "album": {
+        "name": "Mercy",
+        "url": "https://open.spotify.com/album/3OMTlnEISam5mlHSO9kdxq"
+      },
+      "artists": [
+        {
+          "name": "Cody Jinks",
+          "url": "https://open.spotify.com/artist/2v7wIbCkIzxOfT3GnqCexD"
+        }
+      ],
+      "duration_ms": 230344,
+      "name": "All It Cost Me Was Everything",
+      "url": "https://open.spotify.com/track/0pE4AMTKXsXRwCJWFLtqx5"
+    },
+    {
+      "added_at": "2024-03-15 04:00:00",
+      "album": {
         "name": "If You Were Mine",
         "url": "https://open.spotify.com/album/0FrbfHvjj5olr9w7dUeDrZ"
       },
@@ -587,22 +603,6 @@
       "duration_ms": 219882,
       "name": "If You Were Mine",
       "url": "https://open.spotify.com/track/1GL0nollq8IdnV4tfYtEZT"
-    },
-    {
-      "added_at": "2024-03-15 04:00:00",
-      "album": {
-        "name": "Mercy",
-        "url": "https://open.spotify.com/album/3OMTlnEISam5mlHSO9kdxq"
-      },
-      "artists": [
-        {
-          "name": "Cody Jinks",
-          "url": "https://open.spotify.com/artist/2v7wIbCkIzxOfT3GnqCexD"
-        }
-      ],
-      "duration_ms": 230344,
-      "name": "All It Cost Me Was Everything",
-      "url": "https://open.spotify.com/track/0pE4AMTKXsXRwCJWFLtqx5"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -723,22 +723,6 @@
     {
       "added_at": "2024-03-15 04:00:00",
       "album": {
-        "name": "Turning Point",
-        "url": "https://open.spotify.com/album/75OXnTQWuEJt4HTUgi6F21"
-      },
-      "artists": [
-        {
-          "name": "Josh Meloy",
-          "url": "https://open.spotify.com/artist/3EVsC9ZK7QMDuK4FPcZaEq"
-        }
-      ],
-      "duration_ms": 153125,
-      "name": "The Road",
-      "url": "https://open.spotify.com/track/3EwrObmGtZsR2ZWfgCnAN9"
-    },
-    {
-      "added_at": "2024-03-15 04:00:00",
-      "album": {
         "name": "Boy From Anderson County To The Moon",
         "url": "https://open.spotify.com/album/1mnpdIkHiYcpvvCFQBaUrr"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 220234,
       "name": "Breaking News",
       "url": "https://open.spotify.com/track/7d9gF9B10bhRGsYOSlWhXX"
+    },
+    {
+      "added_at": "2024-03-15 04:00:00",
+      "album": {
+        "name": "Turning Point",
+        "url": "https://open.spotify.com/album/75OXnTQWuEJt4HTUgi6F21"
+      },
+      "artists": [
+        {
+          "name": "Josh Meloy",
+          "url": "https://open.spotify.com/artist/3EVsC9ZK7QMDuK4FPcZaEq"
+        }
+      ],
+      "duration_ms": 153125,
+      "name": "The Road",
+      "url": "https://open.spotify.com/track/3EwrObmGtZsR2ZWfgCnAN9"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -831,22 +831,6 @@
     {
       "added_at": "2024-03-15 04:00:00",
       "album": {
-        "name": "The Show",
-        "url": "https://open.spotify.com/album/4Is8rQeOG1SQeIK5feEhZ6"
-      },
-      "artists": [
-        {
-          "name": "Jarrod Morris",
-          "url": "https://open.spotify.com/artist/2Y08Tu239xOkg25bPkth9R"
-        }
-      ],
-      "duration_ms": 208477,
-      "name": "The Show",
-      "url": "https://open.spotify.com/track/11P6OdZlM3Ik8lf82BV1TE"
-    },
-    {
-      "added_at": "2024-03-15 04:00:00",
-      "album": {
         "name": "Tomorrow's Out Of Sight",
         "url": "https://open.spotify.com/album/2fnlrAlHt9poTfrMSsUSCt"
       },
@@ -859,6 +843,22 @@
       "duration_ms": 214252,
       "name": "Tomorrow's Out Of Sight",
       "url": "https://open.spotify.com/track/37CikqHaMorBEZg3hRx9P8"
+    },
+    {
+      "added_at": "2024-03-15 04:00:00",
+      "album": {
+        "name": "The Show",
+        "url": "https://open.spotify.com/album/4Is8rQeOG1SQeIK5feEhZ6"
+      },
+      "artists": [
+        {
+          "name": "Jarrod Morris",
+          "url": "https://open.spotify.com/artist/2Y08Tu239xOkg25bPkth9R"
+        }
+      ],
+      "duration_ms": 208477,
+      "name": "The Show",
+      "url": "https://open.spotify.com/track/11P6OdZlM3Ik8lf82BV1TE"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -1507,18 +1507,18 @@
     {
       "added_at": "2024-03-15 04:00:00",
       "album": {
-        "name": "Here's To You. Here's To Me.",
-        "url": "https://open.spotify.com/album/0RajpG21iVawsEygzQlxxl"
+        "name": "Barely A Two Lane Road",
+        "url": "https://open.spotify.com/album/1uQFI2ysX9M76YuC8tJZTD"
       },
       "artists": [
         {
-          "name": "William Beckmann",
-          "url": "https://open.spotify.com/artist/3AJURVT7BuD01gl1nQS5tb"
+          "name": "Catie Offerman",
+          "url": "https://open.spotify.com/artist/5uB8p8cO6UniAn2rnOsaXT"
         }
       ],
-      "duration_ms": 182318,
-      "name": "Tennessee Drinkin'",
-      "url": "https://open.spotify.com/track/2hxzzKDKEZilB6dVzo6o28"
+      "duration_ms": 228777,
+      "name": "Barely A Two Lane Road",
+      "url": "https://open.spotify.com/track/21JxM9SvVVZnmEkc9GSbLJ"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -1539,18 +1539,18 @@
     {
       "added_at": "2024-03-15 04:00:00",
       "album": {
-        "name": "Barely A Two Lane Road",
-        "url": "https://open.spotify.com/album/1uQFI2ysX9M76YuC8tJZTD"
+        "name": "Here's To You. Here's To Me.",
+        "url": "https://open.spotify.com/album/0RajpG21iVawsEygzQlxxl"
       },
       "artists": [
         {
-          "name": "Catie Offerman",
-          "url": "https://open.spotify.com/artist/5uB8p8cO6UniAn2rnOsaXT"
+          "name": "William Beckmann",
+          "url": "https://open.spotify.com/artist/3AJURVT7BuD01gl1nQS5tb"
         }
       ],
-      "duration_ms": 228777,
-      "name": "Barely A Two Lane Road",
-      "url": "https://open.spotify.com/track/21JxM9SvVVZnmEkc9GSbLJ"
+      "duration_ms": 182318,
+      "name": "Tennessee Drinkin'",
+      "url": "https://open.spotify.com/track/2hxzzKDKEZilB6dVzo6o28"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -1699,18 +1699,22 @@
     {
       "added_at": "2024-03-15 04:00:00",
       "album": {
-        "name": "Who I Am",
-        "url": "https://open.spotify.com/album/4dVQwZMN2B0tfKjPWs3ayY"
+        "name": "Last Goodbye",
+        "url": "https://open.spotify.com/album/0WXyQUyDdTimxIhieDQIlA"
       },
       "artists": [
         {
           "name": "Tanner Usrey",
           "url": "https://open.spotify.com/artist/1ZGVS1OWpdvELiQyx3vkO7"
+        },
+        {
+          "name": "Graycie York",
+          "url": "https://open.spotify.com/artist/1xJprUmeoe1iyVDl9vb552"
         }
       ],
-      "duration_ms": 257146,
-      "name": "Who I Am",
-      "url": "https://open.spotify.com/track/41kIX5NAx8HXFpZx8XJghd"
+      "duration_ms": 212946,
+      "name": "Last Goodbye",
+      "url": "https://open.spotify.com/track/4G3alzPjLhRcm7rxsSHMkp"
     }
   ],
   "unique_name": "Texas Country Now",

@@ -1,5 +1,5 @@
 {
-  "2024-03-20": 68584,
+  "2024-03-21": 68597,
   "date_first_scraped": "2022-11-05",
   "description": "This is Iggy Pop. The essential tracks, all in one playlist.",
   "name": "This Is Iggy Pop",
@@ -857,7 +857,7 @@
       ],
       "date_added": "2022-11-04",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-19",
+      "date_removed": null,
       "duration_ms": 313925,
       "name": "Lust For Life",
       "url": "https://open.spotify.com/track/21YxK0klhpfLW8budkJaMF"
@@ -1395,7 +1395,7 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-20",
       "duration_ms": 265581,
       "name": "Success",
       "url": "https://open.spotify.com/track/7LnZRiI3GuF44G6mqLWQA1"

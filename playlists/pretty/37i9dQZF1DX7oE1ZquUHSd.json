@@ -1,12 +1,12 @@
 {
   "description": "El poder real del Hip Hop latinoamericano y espa\u00f1ol. La Banda Bast\u00f6n en portada. ",
-  "num_followers": 177042,
+  "num_followers": 177098,
   "original_name": "Cl\u00e1sicos del Hip Hop Latino",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxODFmYmJmNDNhNzU3OWVlYzYwNDVkODU3OTJhM2QyNjM0Y2U4MmNl",
+  "snapshot_id": "MCw1M2ExYWEyZTlhMWNhNTQ4ZWUyNmQ1M2Y3NmNlNTY5MzAzZGU3MmRm",
   "tracks": [
     {
       "added_at": "2023-08-08 02:05:58",
@@ -1223,6 +1223,22 @@
     {
       "added_at": "2023-08-08 02:05:58",
       "album": {
+        "name": "Esperanza",
+        "url": "https://open.spotify.com/album/2pMJmuVitL0aZ1FdLp6jvg"
+      },
+      "artists": [
+        {
+          "name": "Bardero$",
+          "url": "https://open.spotify.com/artist/5Q2fyL2TcdUY9IqKTkGk5G"
+        }
+      ],
+      "duration_ms": 176773,
+      "name": "Esperanza",
+      "url": "https://open.spotify.com/track/7MXNsAVPAK4pb0AeWvvPFc"
+    },
+    {
+      "added_at": "2023-08-08 02:05:58",
+      "album": {
         "name": "Atrevido",
         "url": "https://open.spotify.com/album/1xBoZOfcOsqd77V6AENKYC"
       },
@@ -1247,22 +1263,6 @@
       "duration_ms": 228097,
       "name": "G.P.S. - con Aleman",
       "url": "https://open.spotify.com/track/03e3pnRddWmYOVQlzs3Qnb"
-    },
-    {
-      "added_at": "2023-08-08 02:05:58",
-      "album": {
-        "name": "Esperanza",
-        "url": "https://open.spotify.com/album/2pMJmuVitL0aZ1FdLp6jvg"
-      },
-      "artists": [
-        {
-          "name": "Bardero$",
-          "url": "https://open.spotify.com/artist/5Q2fyL2TcdUY9IqKTkGk5G"
-        }
-      ],
-      "duration_ms": 176773,
-      "name": "Esperanza",
-      "url": "https://open.spotify.com/track/7MXNsAVPAK4pb0AeWvvPFc"
     },
     {
       "added_at": "2023-08-08 02:05:58",
@@ -1811,6 +1811,22 @@
     {
       "added_at": "2023-08-08 02:05:58",
       "album": {
+        "name": "Apaga el celular",
+        "url": "https://open.spotify.com/album/4hl6j5ZMGsCxBhw3BuDDbK"
+      },
+      "artists": [
+        {
+          "name": "LIT killah",
+          "url": "https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq"
+        }
+      ],
+      "duration_ms": 225942,
+      "name": "Apaga el Celular",
+      "url": "https://open.spotify.com/track/7BhCvFVZwe04hLpNutqTdg"
+    },
+    {
+      "added_at": "2023-08-08 02:05:58",
+      "album": {
         "name": "Ataraxia: A Plena Luz del Dia",
         "url": "https://open.spotify.com/album/2ioeDgPaHJ7cID0n6KrkXi"
       },
@@ -1827,22 +1843,6 @@
       "duration_ms": 248000,
       "name": "Tardes",
       "url": "https://open.spotify.com/track/3Y5jrneE5ErAfidBuofcKJ"
-    },
-    {
-      "added_at": "2023-08-08 02:05:58",
-      "album": {
-        "name": "Apaga el celular",
-        "url": "https://open.spotify.com/album/4hl6j5ZMGsCxBhw3BuDDbK"
-      },
-      "artists": [
-        {
-          "name": "LIT killah",
-          "url": "https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq"
-        }
-      ],
-      "duration_ms": 225942,
-      "name": "Apaga el Celular",
-      "url": "https://open.spotify.com/track/7BhCvFVZwe04hLpNutqTdg"
     },
     {
       "added_at": "2023-08-08 02:05:58",

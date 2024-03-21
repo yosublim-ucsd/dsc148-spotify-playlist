@@ -1,12 +1,12 @@
 {
   "description": "Cl\u00e1sicos del rock en ingl\u00e9s y en espa\u00f1ol. Foto: Radiohead",
-  "num_followers": 135446,
+  "num_followers": 135529,
   "original_name": "rock X rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlYTg1YWNjYTg3MTJiY2NhZGNjZjQzN2M2NWIwMDMxMmZmMGMwNGYw",
+  "snapshot_id": "MCw4MjU2YTM3ZTE5OThlNmU5MDc1NzMwNDllOTM0MDhhYWE2NmJkYmVh",
   "tracks": [
     {
       "added_at": "2021-12-24 12:40:54",
@@ -379,18 +379,18 @@
     {
       "added_at": "2021-12-24 12:40:54",
       "album": {
-        "name": "Escape (2022 Remaster)",
-        "url": "https://open.spotify.com/album/4guAwaniEAEQSW0NCpo4gm"
+        "name": "Back In Black",
+        "url": "https://open.spotify.com/album/6mUdeDZCsExyJLMdAfDuwh"
       },
       "artists": [
         {
-          "name": "Journey",
-          "url": "https://open.spotify.com/artist/0rvjqX7ttXeg3mTy8Xscbt"
+          "name": "AC/DC",
+          "url": "https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un"
         }
       ],
-      "duration_ms": 249600,
-      "name": "Don't Stop Believin' (2022 Remaster)",
-      "url": "https://open.spotify.com/track/5RKQ5NdjSh2QzD4MaunT91"
+      "duration_ms": 210173,
+      "name": "You Shook Me All Night Long",
+      "url": "https://open.spotify.com/track/2SiXAy7TuUkycRVbbWDEpo"
     },
     {
       "added_at": "2021-12-24 12:40:54",
@@ -411,34 +411,18 @@
     {
       "added_at": "2021-12-24 12:40:54",
       "album": {
-        "name": "Back In Black",
-        "url": "https://open.spotify.com/album/6mUdeDZCsExyJLMdAfDuwh"
+        "name": "Escape (2022 Remaster)",
+        "url": "https://open.spotify.com/album/4guAwaniEAEQSW0NCpo4gm"
       },
       "artists": [
         {
-          "name": "AC/DC",
-          "url": "https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un"
+          "name": "Journey",
+          "url": "https://open.spotify.com/artist/0rvjqX7ttXeg3mTy8Xscbt"
         }
       ],
-      "duration_ms": 255493,
-      "name": "Back In Black",
-      "url": "https://open.spotify.com/track/08mG3Y1vljYA6bvDt4Wqkj"
-    },
-    {
-      "added_at": "2021-12-24 12:40:54",
-      "album": {
-        "name": "Slippery When Wet",
-        "url": "https://open.spotify.com/album/0kBfgEilUFCMIQY5IOjG4t"
-      },
-      "artists": [
-        {
-          "name": "Bon Jovi",
-          "url": "https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp"
-        }
-      ],
-      "duration_ms": 222706,
-      "name": "You Give Love A Bad Name",
-      "url": "https://open.spotify.com/track/0rmGAIH9LNJewFw7nKzZnc"
+      "duration_ms": 249600,
+      "name": "Don't Stop Believin' (2022 Remaster)",
+      "url": "https://open.spotify.com/track/5RKQ5NdjSh2QzD4MaunT91"
     },
     {
       "added_at": "2021-12-24 12:40:54",
@@ -455,6 +439,22 @@
       "duration_ms": 216053,
       "name": "Summer Of '69",
       "url": "https://open.spotify.com/track/0GONea6G2XdnHWjNZd6zt3"
+    },
+    {
+      "added_at": "2021-12-24 12:40:54",
+      "album": {
+        "name": "Slippery When Wet",
+        "url": "https://open.spotify.com/album/0kBfgEilUFCMIQY5IOjG4t"
+      },
+      "artists": [
+        {
+          "name": "Bon Jovi",
+          "url": "https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp"
+        }
+      ],
+      "duration_ms": 222706,
+      "name": "You Give Love A Bad Name",
+      "url": "https://open.spotify.com/track/0rmGAIH9LNJewFw7nKzZnc"
     },
     {
       "added_at": "2021-12-24 12:40:54",
@@ -491,6 +491,22 @@
     {
       "added_at": "2021-12-24 12:40:54",
       "album": {
+        "name": "Back In Black",
+        "url": "https://open.spotify.com/album/6mUdeDZCsExyJLMdAfDuwh"
+      },
+      "artists": [
+        {
+          "name": "AC/DC",
+          "url": "https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un"
+        }
+      ],
+      "duration_ms": 255493,
+      "name": "Back In Black",
+      "url": "https://open.spotify.com/track/08mG3Y1vljYA6bvDt4Wqkj"
+    },
+    {
+      "added_at": "2021-12-24 12:40:54",
+      "album": {
         "name": "Dookie",
         "url": "https://open.spotify.com/album/4uG8q3GPuWHQlRbswMIRS6"
       },
@@ -523,22 +539,6 @@
     {
       "added_at": "2021-12-24 12:40:54",
       "album": {
-        "name": "Honky Chateau",
-        "url": "https://open.spotify.com/album/2ei2X6ghPnw7YRwQtAH075"
-      },
-      "artists": [
-        {
-          "name": "Elton John",
-          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
-        }
-      ],
-      "duration_ms": 281613,
-      "name": "Rocket Man (I Think It's Going To Be A Long, Long Time)",
-      "url": "https://open.spotify.com/track/3gdewACMIVMEWVbyb8O9sY"
-    },
-    {
-      "added_at": "2021-12-24 12:40:54",
-      "album": {
         "name": "The Game (Deluxe Remastered Version)",
         "url": "https://open.spotify.com/album/6wPXUmYJ9mOWrKlLzZ5cCa"
       },
@@ -555,18 +555,18 @@
     {
       "added_at": "2021-12-24 12:40:54",
       "album": {
-        "name": "Back In Black",
-        "url": "https://open.spotify.com/album/6mUdeDZCsExyJLMdAfDuwh"
+        "name": "Honky Chateau",
+        "url": "https://open.spotify.com/album/2ei2X6ghPnw7YRwQtAH075"
       },
       "artists": [
         {
-          "name": "AC/DC",
-          "url": "https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un"
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
         }
       ],
-      "duration_ms": 210173,
-      "name": "You Shook Me All Night Long",
-      "url": "https://open.spotify.com/track/2SiXAy7TuUkycRVbbWDEpo"
+      "duration_ms": 281613,
+      "name": "Rocket Man (I Think It's Going To Be A Long, Long Time)",
+      "url": "https://open.spotify.com/track/3gdewACMIVMEWVbyb8O9sY"
     },
     {
       "added_at": "2021-12-24 12:40:54",
@@ -635,22 +635,6 @@
     {
       "added_at": "2021-12-24 12:40:54",
       "album": {
-        "name": "Agent Provocateur",
-        "url": "https://open.spotify.com/album/4oQhDQDKMeI6IMlwpXt3j8"
-      },
-      "artists": [
-        {
-          "name": "Foreigner",
-          "url": "https://open.spotify.com/artist/6IRouO5mvvfcyxtPDKMYFN"
-        }
-      ],
-      "duration_ms": 304786,
-      "name": "I Want to Know What Love Is - 1999 Remaster",
-      "url": "https://open.spotify.com/track/1JLn8RhQzHz3qDqsChcmBl"
-    },
-    {
-      "added_at": "2021-12-24 12:40:54",
-      "album": {
         "name": "Blur (Special Edition)",
         "url": "https://open.spotify.com/album/7HvIrSkKGJCzd8AKyjTJ6Q"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 121160,
       "name": "Song 2 - 2012 Remaster",
       "url": "https://open.spotify.com/track/1FTSo4v6BOZH9QxKc3MbVM"
+    },
+    {
+      "added_at": "2021-12-24 12:40:54",
+      "album": {
+        "name": "Agent Provocateur",
+        "url": "https://open.spotify.com/album/4oQhDQDKMeI6IMlwpXt3j8"
+      },
+      "artists": [
+        {
+          "name": "Foreigner",
+          "url": "https://open.spotify.com/artist/6IRouO5mvvfcyxtPDKMYFN"
+        }
+      ],
+      "duration_ms": 304786,
+      "name": "I Want to Know What Love Is - 1999 Remaster",
+      "url": "https://open.spotify.com/track/1JLn8RhQzHz3qDqsChcmBl"
     },
     {
       "added_at": "2021-12-24 12:40:54",
@@ -939,22 +939,6 @@
     {
       "added_at": "2021-12-24 12:40:54",
       "album": {
-        "name": "Nevermind (Remastered)",
-        "url": "https://open.spotify.com/album/2guirTSEqLizK7j9i1MTTZ"
-      },
-      "artists": [
-        {
-          "name": "Nirvana",
-          "url": "https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh"
-        }
-      ],
-      "duration_ms": 301920,
-      "name": "Smells Like Teen Spirit",
-      "url": "https://open.spotify.com/track/5ghIJDpPoe3CfHMGu71E6T"
-    },
-    {
-      "added_at": "2021-12-24 12:40:54",
-      "album": {
         "name": "El Camino",
         "url": "https://open.spotify.com/album/5DLhV9yOvZ7IxVmljMXtNm"
       },
@@ -971,22 +955,6 @@
     {
       "added_at": "2021-12-24 12:40:54",
       "album": {
-        "name": "Superunknown (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/29sTacnS0qA9xri6YS8xLA"
-      },
-      "artists": [
-        {
-          "name": "Soundgarden",
-          "url": "https://open.spotify.com/artist/5xUf6j4upBrXZPg6AI4MRK"
-        }
-      ],
-      "duration_ms": 318586,
-      "name": "Black Hole Sun",
-      "url": "https://open.spotify.com/track/2EoOZnxNgtmZaD8uUmz2nD"
-    },
-    {
-      "added_at": "2021-12-24 12:40:54",
-      "album": {
         "name": "Make Yourself",
         "url": "https://open.spotify.com/album/2i6nd4FV6y7K9fln6eelmR"
       },
@@ -999,6 +967,38 @@
       "duration_ms": 232453,
       "name": "Drive",
       "url": "https://open.spotify.com/track/7nnWIPM5hwE3DaUBkvOIpy"
+    },
+    {
+      "added_at": "2021-12-24 12:40:54",
+      "album": {
+        "name": "Nevermind (Remastered)",
+        "url": "https://open.spotify.com/album/2guirTSEqLizK7j9i1MTTZ"
+      },
+      "artists": [
+        {
+          "name": "Nirvana",
+          "url": "https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh"
+        }
+      ],
+      "duration_ms": 301920,
+      "name": "Smells Like Teen Spirit",
+      "url": "https://open.spotify.com/track/5ghIJDpPoe3CfHMGu71E6T"
+    },
+    {
+      "added_at": "2021-12-24 12:40:54",
+      "album": {
+        "name": "Superunknown (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/29sTacnS0qA9xri6YS8xLA"
+      },
+      "artists": [
+        {
+          "name": "Soundgarden",
+          "url": "https://open.spotify.com/artist/5xUf6j4upBrXZPg6AI4MRK"
+        }
+      ],
+      "duration_ms": 318586,
+      "name": "Black Hole Sun",
+      "url": "https://open.spotify.com/track/2EoOZnxNgtmZaD8uUmz2nD"
     },
     {
       "added_at": "2021-12-24 12:40:54",
@@ -1195,22 +1195,6 @@
     {
       "added_at": "2021-12-24 12:40:54",
       "album": {
-        "name": "1984 (Remastered)",
-        "url": "https://open.spotify.com/album/3REUXdj5OPKhuDTrTtCBU0"
-      },
-      "artists": [
-        {
-          "name": "Van Halen",
-          "url": "https://open.spotify.com/artist/2cnMpRsOVqtPMfq7YiFE6K"
-        }
-      ],
-      "duration_ms": 241599,
-      "name": "Jump - 2015 Remaster",
-      "url": "https://open.spotify.com/track/7N3PAbqfTjSEU1edb2tY8j"
-    },
-    {
-      "added_at": "2021-12-24 12:40:54",
-      "album": {
         "name": "Only By The Night",
         "url": "https://open.spotify.com/album/5CZR6ljD0x9fTiS4mh9wMp"
       },
@@ -1223,6 +1207,22 @@
       "duration_ms": 230760,
       "name": "Use Somebody",
       "url": "https://open.spotify.com/track/5VGlqQANWDKJFl0MBG3sg2"
+    },
+    {
+      "added_at": "2021-12-24 12:40:54",
+      "album": {
+        "name": "1984 (Remastered)",
+        "url": "https://open.spotify.com/album/3REUXdj5OPKhuDTrTtCBU0"
+      },
+      "artists": [
+        {
+          "name": "Van Halen",
+          "url": "https://open.spotify.com/artist/2cnMpRsOVqtPMfq7YiFE6K"
+        }
+      ],
+      "duration_ms": 241599,
+      "name": "Jump - 2015 Remaster",
+      "url": "https://open.spotify.com/track/7N3PAbqfTjSEU1edb2tY8j"
     },
     {
       "added_at": "2021-12-24 12:40:54",
@@ -1259,22 +1259,6 @@
     {
       "added_at": "2021-12-24 12:40:54",
       "album": {
-        "name": "The Rise and Fall of Ziggy Stardust and the Spiders from Mars (2012 Remaster)",
-        "url": "https://open.spotify.com/album/48D1hRORqJq52qsnUYZX56"
-      },
-      "artists": [
-        {
-          "name": "David Bowie",
-          "url": "https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy"
-        }
-      ],
-      "duration_ms": 254293,
-      "name": "Starman - 2012 Remaster",
-      "url": "https://open.spotify.com/track/0pQskrTITgmCMyr85tb9qq"
-    },
-    {
-      "added_at": "2021-12-24 12:40:54",
-      "album": {
         "name": "Toulouse Street",
         "url": "https://open.spotify.com/album/2x1Yi30lsWJUoBj1kmovnm"
       },
@@ -1287,6 +1271,22 @@
       "duration_ms": 227266,
       "name": "Listen to the Music",
       "url": "https://open.spotify.com/track/7Ar4G7Ci11gpt6sfH9Cgz5"
+    },
+    {
+      "added_at": "2021-12-24 12:40:54",
+      "album": {
+        "name": "The Rise and Fall of Ziggy Stardust and the Spiders from Mars (2012 Remaster)",
+        "url": "https://open.spotify.com/album/48D1hRORqJq52qsnUYZX56"
+      },
+      "artists": [
+        {
+          "name": "David Bowie",
+          "url": "https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy"
+        }
+      ],
+      "duration_ms": 254293,
+      "name": "Starman - 2012 Remaster",
+      "url": "https://open.spotify.com/track/0pQskrTITgmCMyr85tb9qq"
     },
     {
       "added_at": "2021-12-24 12:40:54",
@@ -1359,22 +1359,6 @@
     {
       "added_at": "2021-12-24 12:40:54",
       "album": {
-        "name": "The Bends",
-        "url": "https://open.spotify.com/album/35UJLpClj5EDrhpNIi4DFg"
-      },
-      "artists": [
-        {
-          "name": "Radiohead",
-          "url": "https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb"
-        }
-      ],
-      "duration_ms": 257480,
-      "name": "High and Dry",
-      "url": "https://open.spotify.com/track/2a1iMaoWQ5MnvLFBDv4qkf"
-    },
-    {
-      "added_at": "2021-12-24 12:40:54",
-      "album": {
         "name": "Once Upon A Time (Super Deluxe)",
         "url": "https://open.spotify.com/album/4YimfceN1R0nOS9CefIFhm"
       },
@@ -1387,6 +1371,22 @@
       "duration_ms": 263040,
       "name": "Don't You (Forget About Me)",
       "url": "https://open.spotify.com/track/3fH4KjXFYMmljxrcGrbPj9"
+    },
+    {
+      "added_at": "2021-12-24 12:40:54",
+      "album": {
+        "name": "The Bends",
+        "url": "https://open.spotify.com/album/35UJLpClj5EDrhpNIi4DFg"
+      },
+      "artists": [
+        {
+          "name": "Radiohead",
+          "url": "https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb"
+        }
+      ],
+      "duration_ms": 257480,
+      "name": "High and Dry",
+      "url": "https://open.spotify.com/track/2a1iMaoWQ5MnvLFBDv4qkf"
     },
     {
       "added_at": "2021-12-24 12:40:54",
@@ -1439,22 +1439,6 @@
     {
       "added_at": "2021-12-24 12:40:54",
       "album": {
-        "name": "Achtung Baby (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/0ta5VdkJcpdVnNrn7g4cZe"
-      },
-      "artists": [
-        {
-          "name": "U2",
-          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
-        }
-      ],
-      "duration_ms": 276186,
-      "name": "One",
-      "url": "https://open.spotify.com/track/3G69vJMWsX6ZohTykad2AU"
-    },
-    {
-      "added_at": "2021-12-24 12:40:54",
-      "album": {
         "name": "Weezer",
         "url": "https://open.spotify.com/album/1xpGyKyV26uPstk1Elgp9Q"
       },
@@ -1467,6 +1451,22 @@
       "duration_ms": 258826,
       "name": "Say It Ain't So",
       "url": "https://open.spotify.com/track/6VoIBz0VhCyz7OdEoRYDiA"
+    },
+    {
+      "added_at": "2021-12-24 12:40:54",
+      "album": {
+        "name": "Achtung Baby (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0ta5VdkJcpdVnNrn7g4cZe"
+      },
+      "artists": [
+        {
+          "name": "U2",
+          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
+        }
+      ],
+      "duration_ms": 276186,
+      "name": "One",
+      "url": "https://open.spotify.com/track/3G69vJMWsX6ZohTykad2AU"
     },
     {
       "added_at": "2021-12-24 12:40:54",

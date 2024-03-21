@@ -1,5 +1,5 @@
 {
-  "2024-03-20": 109711,
+  "2024-03-21": 109760,
   "date_first_scraped": "2021-12-21",
   "description": "The sound of the new era of Jazz. Cover: Esperanza Spalding",
   "name": "21st Century Jazz",
@@ -1799,7 +1799,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-08",
+      "date_removed": null,
       "duration_ms": 302946,
       "name": "Crazy House",
       "url": "https://open.spotify.com/track/4HvfJBsJd9bQWPO5qiVSoP"
@@ -4212,6 +4212,24 @@
     },
     {
       "album": {
+        "name": "When There's Love Around",
+        "url": "https://open.spotify.com/album/1ht1VvaJRHg2JxEAUpl9A3"
+      },
+      "artists": [
+        {
+          "name": "Kiefer",
+          "url": "https://open.spotify.com/artist/5lDtfHPqWN6MG9tFywnW8J"
+        }
+      ],
+      "date_added": "2022-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213811,
+      "name": "i remember this picture",
+      "url": "https://open.spotify.com/track/1D6MrZJjz705F8MlE277Hh"
+    },
+    {
+      "album": {
         "name": "i remember this picture",
         "url": "https://open.spotify.com/album/7kPMtDGlSbbfXtJP0rQ22q"
       },
@@ -4223,7 +4241,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-20",
       "duration_ms": 213811,
       "name": "i remember this picture",
       "url": "https://open.spotify.com/track/7zbUE5XSMaHqMIAu1yqU54"
@@ -7481,7 +7499,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-20",
       "duration_ms": 443126,
       "name": "Point Of Junction",
       "url": "https://open.spotify.com/track/1YCTwUfFcNVMQhzippLhjJ"

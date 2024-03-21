@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX58NJL8iVBGW.md) - [plain]
 
 > Deep, dark, dramatic\. Roots rock, folk, and Americana—with a gothic soul.
 
-[Spotify](https://open.spotify.com/user/spotify) - 598,831 likes - 100 songs - 6 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 598,997 likes - 100 songs - 6 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,23 +64,23 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX58NJL8iVBGW.md) - [plain]
 | 54 | [Fault Line](https://open.spotify.com/track/1mLlfRGoI7a6qbvyH0Bh2A) | [Black Rebel Motorcycle Club](https://open.spotify.com/artist/1tpXaFf2F55E7kVJON4j4G) | [Howl](https://open.spotify.com/album/5yTFClS2dEGZD5IjM9dfrT) | 2:57 |
 | 55 | [Hy\-Brasil](https://open.spotify.com/track/2OeMJJ4QlZKW0mjpbIckiq) | [Allison Russell](https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6) | [Outside Child](https://open.spotify.com/album/4R21oaKCstE2fMc4XkuVlw) | 5:35 |
 | 56 | [Get Right Church](https://open.spotify.com/track/5qX4r5vT9bY8xMsiKuZhQn) | [Ben Miller Band](https://open.spotify.com/artist/692LYMl7s0bV6X3iduX5rG) | [Heavy Load](https://open.spotify.com/album/1BgJCVNqPuzwbGD0e27dCx) | 3:44 |
-| 57 | [Too Dry To Cry](https://open.spotify.com/track/5oG9KGz90VbBGNH25BFWYL) | [Willis Earl Beal](https://open.spotify.com/artist/58CUVLn2xm7I9iFg97t9XC) | [Nobody knows.](https://open.spotify.com/album/307byX8K0rtQ6vOJ4OEMm2) | 4:39 |
-| 58 | [Bottom of the River](https://open.spotify.com/track/279D0iY34aVyZWTxsAPYUd) | [Delta Rae](https://open.spotify.com/artist/0iidQFemlPhkoHqFroz2my) | [Bottom of the River](https://open.spotify.com/album/2FXmlkD0prW5bIzO2MpAED) | 3:21 |
+| 57 | [Bottom of the River](https://open.spotify.com/track/279D0iY34aVyZWTxsAPYUd) | [Delta Rae](https://open.spotify.com/artist/0iidQFemlPhkoHqFroz2my) | [Bottom of the River](https://open.spotify.com/album/2FXmlkD0prW5bIzO2MpAED) | 3:21 |
+| 58 | [Too Dry To Cry](https://open.spotify.com/track/5oG9KGz90VbBGNH25BFWYL) | [Willis Earl Beal](https://open.spotify.com/artist/58CUVLn2xm7I9iFg97t9XC) | [Nobody knows.](https://open.spotify.com/album/307byX8K0rtQ6vOJ4OEMm2) | 4:39 |
 | 59 | [Snake Song](https://open.spotify.com/track/75bNIPy58AL7MYYp8cnj4A) | [Isobel Campbell](https://open.spotify.com/artist/55dlp5I9jyc4UjzlrcKMnq), [Mark Lanegan](https://open.spotify.com/artist/1fpXM23IoNckJ7NDAm8YJQ) | [Hawk](https://open.spotify.com/album/4vPZUSwLbvknOOo9UJZQVs) | 2:48 |
 | 60 | [Herd](https://open.spotify.com/track/7Gp6rliJK9iw8CEJvvD8oe) | [O'Death](https://open.spotify.com/artist/5oTGxE6TDRsEr0jfbIlp7O) | [Out Of Hands We Go](https://open.spotify.com/album/2TBHUDbwjZoNir22a43aSr) | 3:53 |
 | 61 | [How's It Gonna End](https://open.spotify.com/track/2UZxUSA4TxbS5tXUB5QSoL) | [Tom Waits](https://open.spotify.com/artist/7x83XhcMbOTl1UdYsPTuZM) | [Real Gone \(Remastered\)](https://open.spotify.com/album/6F17MbloTeRoXs7JI3lTHy) | 4:50 |
 | 62 | [Devil Don't You Fool Me](https://open.spotify.com/track/5UKMxE8Ec8pa8YLXlqDkSZ) | [Josh Farrow](https://open.spotify.com/artist/0qPDkDToiabkQi2YhNFt4d) | [Devil Don't You Fool Me](https://open.spotify.com/album/6va8aqvQD3YBcqAjLYfgkY) | 2:50 |
-| 63 | [Things That Scare Me](https://open.spotify.com/track/1GMphu4rFfW80ME1EN8IJo) | [Neko Case](https://open.spotify.com/artist/4Cedjq5BQL3MhapRvDpFED) | [Blacklisted](https://open.spotify.com/album/76PyfjqUSplsygzK6lcbcU) | 2:30 |
-| 64 | [Gallows Pole](https://open.spotify.com/track/5L1BHZ2uApRTpP95yGykjv) | [Willie Watson](https://open.spotify.com/artist/5j9IEu1SEY0JslCPmfVsgq) | [Folksinger Vol\. 2](https://open.spotify.com/album/2CBLeaL8ProyeOOhc1QFpb) | 4:06 |
+| 63 | [Gallows Pole](https://open.spotify.com/track/5L1BHZ2uApRTpP95yGykjv) | [Willie Watson](https://open.spotify.com/artist/5j9IEu1SEY0JslCPmfVsgq) | [Folksinger Vol\. 2](https://open.spotify.com/album/2CBLeaL8ProyeOOhc1QFpb) | 4:06 |
+| 64 | [Things That Scare Me](https://open.spotify.com/track/1GMphu4rFfW80ME1EN8IJo) | [Neko Case](https://open.spotify.com/artist/4Cedjq5BQL3MhapRvDpFED) | [Blacklisted](https://open.spotify.com/album/76PyfjqUSplsygzK6lcbcU) | 2:30 |
 | 65 | [Trouble](https://open.spotify.com/track/1sDVipCm7nAJjH4g2sAOFr) | [Bellstop](https://open.spotify.com/artist/0k9TGdML3mCpuY0nhAEn5o) | [Karma](https://open.spotify.com/album/2FedXgds6FmGGov0BWvy90) | 3:43 |
 | 66 | [Diggin A Grave](https://open.spotify.com/track/5uR72lBzHxcf2YlbK8iRp1) | [Micah P\. Hinson](https://open.spotify.com/artist/6M5FR3JkFFVDkgwtO6Vtz6) | [Micah P\. Hinson and the Opera Circuit](https://open.spotify.com/album/1CIVVV6GUgNfS5nmDh0V5z) | 2:05 |
-| 67 | [Oak Tree](https://open.spotify.com/track/0H9gWRPB92lrwtjtQtdrwD) | [Mirel Wagner](https://open.spotify.com/artist/599W9qxs3LzkiiEmkoK6Kx) | [When the Cellar Children See the Light of Day](https://open.spotify.com/album/4RP8ZcEWH1tPoEdkaPf8KK) | 3:00 |
-| 68 | [Sharecropper’s Son](https://open.spotify.com/track/5TTctmQn2AlFAgdCB5sGoU) | [Robert Finley](https://open.spotify.com/artist/29mRqqZ15WaYjEsKNzcRkv) | [Sharecropper's Son](https://open.spotify.com/album/0GrKDFuaqGOhs54O8Zerqf) | 3:06 |
+| 67 | [Sharecropper’s Son](https://open.spotify.com/track/5TTctmQn2AlFAgdCB5sGoU) | [Robert Finley](https://open.spotify.com/artist/29mRqqZ15WaYjEsKNzcRkv) | [Sharecropper's Son](https://open.spotify.com/album/0GrKDFuaqGOhs54O8Zerqf) | 3:06 |
+| 68 | [Oak Tree](https://open.spotify.com/track/0H9gWRPB92lrwtjtQtdrwD) | [Mirel Wagner](https://open.spotify.com/artist/599W9qxs3LzkiiEmkoK6Kx) | [When the Cellar Children See the Light of Day](https://open.spotify.com/album/4RP8ZcEWH1tPoEdkaPf8KK) | 3:00 |
 | 69 | [Magnolia Blues](https://open.spotify.com/track/7piCuE6DVjnko9oTNTqVAO) | [Adia Victoria](https://open.spotify.com/artist/1HKGjRPwI0gaFyv4aSWPPl) | [Magnolia Blues](https://open.spotify.com/album/23lmCOZk4vEMiaCMKTiZMr) | 3:28 |
 | 70 | [Hell's Bells](https://open.spotify.com/track/50MNCojhSwCd4QkJ7O80E5) | [Cary Ann Hearst](https://open.spotify.com/artist/2Fwqnm1kpxK4BZgWrsG5qm) | [Lions And Lambs](https://open.spotify.com/album/5sUoqZHXyBK3dm0MR6uxaZ) | 3:36 |
 | 71 | [Apple Tree](https://open.spotify.com/track/6EqCxnulMcawu0qN8B8Y5W) | [Marika Hackman](https://open.spotify.com/artist/5DGJC3n9DS0Y9eY5ul9y0O) | [I'm Not Your Man](https://open.spotify.com/album/6cDRHxpDNgEMgmkCIVdlP2) | 2:55 |
-| 72 | [Nothing But The Water \(I\)](https://open.spotify.com/track/4f9F6CSTaJeMyvn1Plu89U) | [Grace Potter & The Nocturnals](https://open.spotify.com/artist/23OknxGcY1i5xX1TRPilMj) | [Nothing But The Water](https://open.spotify.com/album/30b3ZKCE7CxRNumi4XojDD) | 2:44 |
-| 73 | [Chairkickers](https://open.spotify.com/track/0O0T1NHzuTa12tNZ1hZ7db) | [Brown Bird](https://open.spotify.com/artist/5zzbSFZMVpvxSlWAkqqtHP) | [Salt For Salt](https://open.spotify.com/album/0SVsGgGApRYVXP466ywwsC) | 3:18 |
+| 72 | [Chairkickers](https://open.spotify.com/track/0O0T1NHzuTa12tNZ1hZ7db) | [Brown Bird](https://open.spotify.com/artist/5zzbSFZMVpvxSlWAkqqtHP) | [Salt For Salt](https://open.spotify.com/album/0SVsGgGApRYVXP466ywwsC) | 3:18 |
+| 73 | [Nothing But The Water \(I\)](https://open.spotify.com/track/4f9F6CSTaJeMyvn1Plu89U) | [Grace Potter & The Nocturnals](https://open.spotify.com/artist/23OknxGcY1i5xX1TRPilMj) | [Nothing But The Water](https://open.spotify.com/album/30b3ZKCE7CxRNumi4XojDD) | 2:44 |
 | 74 | [Priest](https://open.spotify.com/track/1CzxPLi5K7pnT4ATkdLJ9T) | [William Crighton](https://open.spotify.com/artist/4EVBuMQ6XVgxeqWKH09dBM) | [William Crighton](https://open.spotify.com/album/11iygN0BADQ3dWcAwyp3QV) | 4:24 |
 | 75 | [Canary](https://open.spotify.com/track/0CTwMHxWBYOcuA2K02qcOf) | [Joy Williams](https://open.spotify.com/artist/4TCXgdDPm10ensLNCVnIYa) | [Front Porch](https://open.spotify.com/album/0vK1POb7cjZdlZkShnqEDu) | 3:29 |
 | 76 | [Another Manʼs Grave](https://open.spotify.com/track/0kO82Vu0CXMrkLo5p9EvyI) | [Amigo the Devil](https://open.spotify.com/artist/0AkmSuTOzM2pNCIOSP8ziv) | [Another Manʼs Grave](https://open.spotify.com/album/1ydWuirnz39uMCZYgkE18E) | 3:08 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX58NJL8iVBGW.md) - [plain]
 | 99 | [Saint Elizabeth](https://open.spotify.com/track/0AXVGjlzkolKVm7ZnD6pqB) | [Kaia Kater](https://open.spotify.com/artist/3SIjUKYSRchIKIoFO9vBjm) | [Nine Pin](https://open.spotify.com/album/4an7nc1bshv75YnXbyp8bs) | 3:59 |
 | 100 | [Boy Got It Bad](https://open.spotify.com/track/3k6QU7zzhlJ8ODb24uuLP9) | [KaiL Baxley](https://open.spotify.com/artist/3fV14PAU0MWFaj0Kt8MDWx) | [Heatstroke/The Wind and the War](https://open.spotify.com/album/4bU9I5NtFLbmChbhAqGKwJ) | 2:38 |
 
-Snapshot ID: `MCw0N2JiODQ2ZGNiNDE0NTliNWMzYTFhMWE0OThlOGNlZTg1YzE5OWJj`
+Snapshot ID: `MCwyMzcxOTEzNjI3ZTk2MTQ3ZTc0YTRkODIzMTMwMWM5ODc1Yjg1ODc4`

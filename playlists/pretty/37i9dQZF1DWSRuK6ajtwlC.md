@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSRuK6ajtwlC.md) - [plain]
 
 > A levantar polvadera con lo mejor de la música de sax\. La Maquinaría Norteña en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 303,773 likes - 75 songs - 3 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 303,988 likes - 75 songs - 3 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,7 +57,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSRuK6ajtwlC.md) - [plain]
 | 47 | [De Cuando Acá](https://open.spotify.com/track/2sZ9VjimnCq5JrLPR0GUui) | [La Energia Nortena](https://open.spotify.com/artist/6uFxO15AG9aoz7MS4aQQvp) | [De Cuando Acá](https://open.spotify.com/album/05RvA9U5fT5ojjzH91W5Ki) | 2:58 |
 | 48 | [Vicio](https://open.spotify.com/track/52SbtvOGsw4RI8FkMH7udu) | [Adverzo](https://open.spotify.com/artist/0NMJh5gFRAkN5uUsCujlCV) | [Vicio](https://open.spotify.com/album/5i2uC3kpJdvOoo5VhpKlEv) | 3:06 |
 | 49 | [Voy A Llorar Por Ti](https://open.spotify.com/track/20qd1CUZCdgbOYN8vDt8Se) | [Los Rieleros Del Norte](https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv) | [Siempre Imitado, Jamas Igualado](https://open.spotify.com/album/35f4w9AcjnUdfJ174fgOz5) | 2:45 |
-| 50 | [Hasta La Raiz](https://open.spotify.com/track/2UxrJ7WmHl2OHRD4oO0sVw) | [La Zenda Norteña](https://open.spotify.com/artist/01brs471Oes6kMnkVJBfGG) | [Hasta La Raiz](https://open.spotify.com/album/047E1BHaOCYfUKXrxpZJ9o) | 3:09 |
+| 50 | [Hasta La Raíz \(Rerecorded\)](https://open.spotify.com/track/5N38p7yaY399gNdglLlftf) | [La Zenda Norteña](https://open.spotify.com/artist/01brs471Oes6kMnkVJBfGG) | [20 Exitos El Remake Vol\. 2](https://open.spotify.com/album/2fwP7Mg9m39YWJ8WfQptLv) | 3:09 |
 | 51 | [Si Tu Amor No Vuelve](https://open.spotify.com/track/0sMcEkGA1IzgGXhm9BjfI7) | [Conjunto Amanecer](https://open.spotify.com/artist/0wCyyn2rUtk96O0ZBzgM33) | [Si Tu Amor No Vuelve](https://open.spotify.com/album/1GGzzw6iGWfiGuB9RJpG0K) | 3:09 |
 | 52 | [Me Rehuso](https://open.spotify.com/track/03lyJ1k9n9Q513D4Yw7hya) | [La Pocima Norteña](https://open.spotify.com/artist/0R03Yxwm5XGODyeMHO0eXj) | [Me Rehuso](https://open.spotify.com/album/2PoPSX8a3Nw2CUe3rha7DY) | 2:47 |
 | 53 | [La Mejor Mujer del Mundo](https://open.spotify.com/track/0YISn1POZXbOZWVcwqGM0A) | [Leandro Ríos](https://open.spotify.com/artist/1FEYq0PPuI50GJRqKKPT6w), [La Fiera de Ojinaga](https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2) | [La Mejor Mujer del Mundo](https://open.spotify.com/album/4pj6GDd2cXrd2Cx7znot40) | 4:01 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSRuK6ajtwlC.md) - [plain]
 | 74 | [Modo Incógnito](https://open.spotify.com/track/7C3ajbwFKs2tThsJfTC9Hf) | [Los Avila](https://open.spotify.com/artist/0A0oFtNpb7CV86uWlxjnQo) | [Modo Incógnito](https://open.spotify.com/album/6alvJhuwlYz1j12wdWIOi3) | 4:10 |
 | 75 | [Olvidémoslo Los Dos](https://open.spotify.com/track/0YzLFrSbUvTqDSuMViVe75) | [Keith Nieto](https://open.spotify.com/artist/2I7I7undHMppfowRViQQ1p) | [Saxy](https://open.spotify.com/album/0orwS1kaxssiFbR1kFdpBk) | 3:02 |
 
-Snapshot ID: `MCwyNzJiYjMxOWY0NzYwOTY4MmFkNWVjY2ZmZWZjYTM2YzQxMDVmNjY1`
+Snapshot ID: `MCw1MGM5YjRiYmE4Nzc0ZmQ1NWI1Njk5ZDE3MGJiNGI5ZDRkMWUxZjZj`

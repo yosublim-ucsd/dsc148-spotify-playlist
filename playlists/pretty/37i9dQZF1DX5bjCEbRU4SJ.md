@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5bjCEbRU4SJ.md) - [plain]
 
 > Calm Down with this chilled out playlist\. For when it's time to just sit and bask in the afterglow.
 
-[Spotify](https://open.spotify.com/user/spotify) - 556,693 likes - 70 songs - 4 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 556,690 likes - 70 songs - 4 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5bjCEbRU4SJ.md) - [plain]
 | 69 | [Leaf Off / The Cave](https://open.spotify.com/track/2XMiyGBbIOLEcCdGnHGoq5) | [José González](https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI) | [Vestiges & Claws](https://open.spotify.com/album/3mDpDgTVy3Lo6fdqoTr215) | 4:53 |
 | 70 | [Wise Up](https://open.spotify.com/track/5hUWvHrxArc3IbbF2UIpjg) | [Aimee Mann](https://open.spotify.com/artist/3UpIbyXfGzmHG6TMH4dJEk) | [Live at St\. Ann's Warehouse](https://open.spotify.com/album/5bNYT2lytZ65zLGHUkB8Hu) | 3:21 |
 
-Snapshot ID: `MCwxN2VmYjFlZTc3ZjI3ZGYwMTBhMWYwYzI2MTY3NzY5ODdjZTQwZjJh`
+Snapshot ID: `MCxlMjMxOGNkOWJkYTdlMDc4MTBkMDQ1OWYzYjU3YWNiOWIzNDA1YjZl`

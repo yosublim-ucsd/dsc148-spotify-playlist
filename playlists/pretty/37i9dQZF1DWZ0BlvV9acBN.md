@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ0BlvV9acBN.md) - [plain]
 
 > Grandes sucessos e novidades do rock Cristão\. Foto: Thalles Roberto
 
-[Spotify](https://open.spotify.com/user/spotify) - 136,232 likes - 70 songs - 5 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 136,276 likes - 70 songs - 5 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,8 +25,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ0BlvV9acBN.md) - [plain]
 | 15 | [Que o Cordeiro Receba \- Ao Vivo](https://open.spotify.com/track/00mDRKZ5KvvW7cWalm1X75) | [Flavio Vasques](https://open.spotify.com/artist/2Jroqtcn3pmgLSJfMc6KYf), [Alessandro Vilas Boas](https://open.spotify.com/artist/7nMA5jUpayvsedWUkX9lx7) | [Santificado \(Ao Vivo\)](https://open.spotify.com/album/7cEtIbSLnL4SifJaxkm4E1) | 9:22 |
 | 16 | [Jardim Dos Inocentes](https://open.spotify.com/track/6Jxs0BSse305oGyLW6aDKF) | [Rodolfo Abrantes](https://open.spotify.com/artist/0M8rmgpYMtvYbHvXD3cHkN) | [Jardim Dos Inocentes](https://open.spotify.com/album/6WBt57jyBlxr9F4kuWQL5s) | 6:10 |
 | 17 | [A Alegria / O Exército de Deus / Caiam por Terra / Autoridade e Poder](https://open.spotify.com/track/1FA2ED4v1F9d15HviInZSO) | [MORADA](https://open.spotify.com/artist/2tswayWsUGjUwpvN8KRwuN) | [Lembre\-se 80's](https://open.spotify.com/album/29qCLrddHGIBvFBOu4almu) | 3:52 |
-| 18 | [Castelo Forte \- Ao Vivo](https://open.spotify.com/track/5ZEYjMZz5grx0I0EWJjOO1) | [AtituD](https://open.spotify.com/artist/7Ee6ZsG5CPerynOMJ4fu9p) | [Castelo Forte \(Ao Vivo\)](https://open.spotify.com/album/56P5YZIPLleJ4Go7mMS91q) | 3:43 |
-| 19 | [Te Seguirei](https://open.spotify.com/track/2mC1lYtVlPs8NEvqeszUh7) | [Tarik Mohallem](https://open.spotify.com/artist/1gRga6tLnfNeH5SvLkB4n5) | [Te Seguirei](https://open.spotify.com/album/6WJ9CUymLjKJ2Xs9vW1S3E) | 4:50 |
+| 18 | [Te Seguirei](https://open.spotify.com/track/2mC1lYtVlPs8NEvqeszUh7) | [Tarik Mohallem](https://open.spotify.com/artist/1gRga6tLnfNeH5SvLkB4n5) | [Te Seguirei](https://open.spotify.com/album/6WJ9CUymLjKJ2Xs9vW1S3E) | 4:50 |
+| 19 | [Castelo Forte \- Ao Vivo](https://open.spotify.com/track/5ZEYjMZz5grx0I0EWJjOO1) | [AtituD](https://open.spotify.com/artist/7Ee6ZsG5CPerynOMJ4fu9p) | [Castelo Forte \(Ao Vivo\)](https://open.spotify.com/album/56P5YZIPLleJ4Go7mMS91q) | 3:43 |
 | 20 | [Onde Tem Lenha](https://open.spotify.com/track/4C8R3nxWiBNaDqEMixBRKz) | [Luzlive](https://open.spotify.com/artist/40kzfUaDe3Pq6r0evczeaa), [Jeff Damaceno](https://open.spotify.com/artist/3hGe1TAvsdAEQMcubxxpgQ), [Jhonas Serra](https://open.spotify.com/artist/0WsTM0BMHTqJM5M7EGX4EH) | [Onde Tem Lenha](https://open.spotify.com/album/47FqGv4uJ97rwJ6L894DJI) | 9:54 |
 | 21 | [Resistência](https://open.spotify.com/track/1xgOmlVKi42RFa0diXjjZM) | [Judas O Outro](https://open.spotify.com/artist/0nxZKBNhQHUCsMFNoTZPpT) | [Resistência](https://open.spotify.com/album/57xWhkSgOYO2BKU3KAVlZJ) | 4:21 |
 | 22 | [João 1 \- VEC](https://open.spotify.com/track/7fY0cpQJpJkvMfN7st6PyG) | [verboemcarne](https://open.spotify.com/artist/1VroOoldHXjh6NJxDE4rSY) | [Vida/Eternidade](https://open.spotify.com/album/15aPsEilVLOZ4lF5JWg6be) | 4:18 |
@@ -51,10 +51,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ0BlvV9acBN.md) - [plain]
 | 41 | [Me Fez Vivo \(feat\. Fernandinho\)](https://open.spotify.com/track/2HLKpvgRATKtf1KA9lrcGg) | [Arianne](https://open.spotify.com/artist/49gy3r9VM6fxS16a9R8eE1), [Fernandinho](https://open.spotify.com/artist/6iAY2AyUZLSX3PWLIAfFZY) | [Me Fez Vivo \(feat\. Fernandinho\)](https://open.spotify.com/album/5Yn06GwEq0Hw94wgPG0U8f) | 4:01 |
 | 42 | [A Estátua](https://open.spotify.com/track/5dV1WilekeFKNrDVqmgo0s) | [Mauro Henrique](https://open.spotify.com/artist/3KypZFGzCHTbqXAAhFuLwd), [Diego Rox](https://open.spotify.com/artist/1wrVWFQTN7fUh9cR0pUvJg) | [A Estátua](https://open.spotify.com/album/19cl5wWgzJsRjsPdyOBwpK) | 3:27 |
 | 43 | [NAVES IMPERIAIS](https://open.spotify.com/track/4puX3OiPSEFC5AgLbStFNJ) | [PG](https://open.spotify.com/artist/5K2gAsDWIVqU9rlCyxp4jM), [Walter Lopes](https://open.spotify.com/artist/6QH24lnUEMFIhGmKyuNgFV) | [NAVES IMPERIAIS](https://open.spotify.com/album/7bmxgJFIVD4rNi4x73i2Jy) | 5:14 |
-| 44 | [Cantem os Anjos](https://open.spotify.com/track/6inrfYpzde4Izw9ZVzVcqs) | [Ministério M3](https://open.spotify.com/artist/7AsSQROc0YPjmh4cVPP8S6) | [Cantem os Anjos](https://open.spotify.com/album/3M0uJ7cTPCDAyaz6DXxviB) | 3:14 |
+| 44 | [A Carta](https://open.spotify.com/track/6wKQ84PvskrEA0Oum0sUMn) | [Abel Junho](https://open.spotify.com/artist/3oI345jxR8FTbMegl0N1mn) | [A Carta](https://open.spotify.com/album/1uFoMEXuKx7EBN3IDSXpba) | 4:56 |
 | 45 | [Simplesmente](https://open.spotify.com/track/3Jtq6KBwX0TL2GypkiwZl6) | [Ministério Mergulhar](https://open.spotify.com/artist/1fSxRBeYGW7w0EtU9L6Gaf) | [Profundo](https://open.spotify.com/album/0QeJIqPsEV96bdsjMFprON) | 5:23 |
 | 46 | [É Tempo de Abrir o Coração \- Ao Vivo](https://open.spotify.com/track/5UtV3TOSr21gcvSxKA0mhf) | [Fernandinho](https://open.spotify.com/artist/6iAY2AyUZLSX3PWLIAfFZY) | [É Tempo de Abrir o Coração / Santo \(Ao Vivo\)](https://open.spotify.com/album/42NjnTNuaIEGBsX3XACxGX) | 4:34 |
-| 47 | [A Carta](https://open.spotify.com/track/6wKQ84PvskrEA0Oum0sUMn) | [Abel Junho](https://open.spotify.com/artist/3oI345jxR8FTbMegl0N1mn) | [A Carta](https://open.spotify.com/album/1uFoMEXuKx7EBN3IDSXpba) | 4:56 |
+| 47 | [Cantem os Anjos](https://open.spotify.com/track/6inrfYpzde4Izw9ZVzVcqs) | [Ministério M3](https://open.spotify.com/artist/7AsSQROc0YPjmh4cVPP8S6) | [Cantem os Anjos](https://open.spotify.com/album/3M0uJ7cTPCDAyaz6DXxviB) | 3:14 |
 | 48 | [Dia De Milagres](https://open.spotify.com/track/6O2R8WvZMTqCY8qrzgaHoT) | [Lakewood Music](https://open.spotify.com/artist/6SppFn5ihgxDw7tdfthnaK), [Ramiro Garcia](https://open.spotify.com/artist/5XsYk2KMZlUPlr2GhELgZx), [Thalles Roberto](https://open.spotify.com/artist/2Js5EdWOVgL2B2CbtXr5n1) | [Dia De Milagres](https://open.spotify.com/album/5HAEqBs5oAlXReyhPPYYsQ) | 4:22 |
 | 49 | [O que o céu começa o céu termina \- Ao Vivo](https://open.spotify.com/track/2G8YIlCvrzyoTUxODWWWBw) | [Marcus Salles](https://open.spotify.com/artist/6IVEwGc6qJl8dsyWnMq1PI) | [O que o céu começa o céu termina \(Ao Vivo\)](https://open.spotify.com/album/3zfUPNwzbXglzAEsaOdQl9) | 4:11 |
 | 50 | [Louco \(feat\. PG\)](https://open.spotify.com/track/6BFJMuXwEzGLWkjB0pOxDV) | [Fred Arrais](https://open.spotify.com/artist/4b6QClfbEvFpOu9Nuyun0Q), [PG](https://open.spotify.com/artist/5K2gAsDWIVqU9rlCyxp4jM) | [Louco \(feat\. PG\)](https://open.spotify.com/album/4yc5e16AJYtTFxCv4J0VTg) | 5:09 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ0BlvV9acBN.md) - [plain]
 | 69 | [Agora Eu Vivo Teu Amor](https://open.spotify.com/track/7xZmvwdTsv3Yn8iCTsaVl0) | [Stone Worship](https://open.spotify.com/artist/5os8iRRBrrRuvfN85jnuIf) | [Agora Eu Vivo Teu Amor](https://open.spotify.com/album/32ZRNqlaLU1i87f73nuEvO) | 3:10 |
 | 70 | [Espelhos Mágicos / Naves Imperiais](https://open.spotify.com/track/3WyzekjMekrPAmTsIb8mub) | [MORADA](https://open.spotify.com/artist/2tswayWsUGjUwpvN8KRwuN) | [Lembre\-se 90's](https://open.spotify.com/album/3uj4RFLuFtfSIPVVvOcptS) | 4:25 |
 
-Snapshot ID: `MCwwNTE4ZTllZWM5YzA4ZmVjZGIxNTQwMTJmOTJjZmI4ZjljYjQwMWNk`
+Snapshot ID: `MCwzMDA3YWExNTY5MjU5NGIwYWEzYmM2ZDA5ODYxZGRhOTE3MDJkMmY2`

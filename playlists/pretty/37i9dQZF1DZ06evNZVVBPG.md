@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evNZVVBPG.md) - [plain]
 
 > This is Lana Del Rey\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,268,518 likes - 49 songs - 3 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,269,143 likes - 49 songs - 3 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,9 +47,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evNZVVBPG.md) - [plain]
 | 37 | [White Mustang](https://open.spotify.com/track/6eygbzyL6hY8jFQTARDuo9) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Lust For Life](https://open.spotify.com/album/7xYiTrbTL57QO0bb4hXIKo) | 2:44 |
 | 38 | [High By The Beach](https://open.spotify.com/track/7g3htkaLz4ETFn0cifwM3y) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Honeymoon](https://open.spotify.com/album/2DpEBrjCur1ythIZ10gJWw) | 4:17 |
 | 39 | [A&W](https://open.spotify.com/track/5nW4z3pfZgJAJ2QTCz9AIE) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Did you know that there's a tunnel under Ocean Blvd](https://open.spotify.com/album/5HOHne1wzItQlIYmLXLYfZ) | 7:13 |
-| 40 | [Don’t Call Me Angel \(Charlie’s Angels\) \(with Miley Cyrus & Lana Del Rey\)](https://open.spotify.com/track/6zegtH6XXd2PDPLvy1Y0n2) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR), [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6), [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Charlie's Angels \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4NBuascXb3uK0mFUYuJ63f) | 3:10 |
+| 40 | [Summertime](https://open.spotify.com/track/6vJMq94wRS6oqKV2jggzMc) | [Kontra K](https://open.spotify.com/artist/4lDiJcOJ2GLCK6p9q5BgfK), [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Die Hoffnung klaut mir Niemand](https://open.spotify.com/album/1VLKFGaQoKLvxzIWQxLKZI) | 3:15 |
 | 41 | [Love](https://open.spotify.com/track/2Kerz9H9IejzeIpjhDJoYG) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Lust For Life](https://open.spotify.com/album/7xYiTrbTL57QO0bb4hXIKo) | 4:32 |
-| 42 | [Summertime](https://open.spotify.com/track/6vJMq94wRS6oqKV2jggzMc) | [Kontra K](https://open.spotify.com/artist/4lDiJcOJ2GLCK6p9q5BgfK), [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Die Hoffnung klaut mir Niemand](https://open.spotify.com/album/1VLKFGaQoKLvxzIWQxLKZI) | 3:15 |
+| 42 | [Don’t Call Me Angel \(Charlie’s Angels\) \(with Miley Cyrus & Lana Del Rey\)](https://open.spotify.com/track/6zegtH6XXd2PDPLvy1Y0n2) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR), [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6), [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Charlie's Angels \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4NBuascXb3uK0mFUYuJ63f) | 3:10 |
 | 43 | [The Blackest Day](https://open.spotify.com/track/45pI8224KKX9Gx5fiyvEAh) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Honeymoon](https://open.spotify.com/album/2DpEBrjCur1ythIZ10gJWw) | 6:05 |
 | 44 | [Once Upon a Dream \- From "Maleficent" / Pop Version](https://open.spotify.com/track/3liiZRlJxa8GeLUgWMoIeu) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Once Upon a Dream \(from "Maleficent"\) \[Original Motion Picture Soundtrack\]](https://open.spotify.com/album/293ydefC5qpqZ65JYZTbUi) | 3:23 |
 | 45 | [In My Feelings](https://open.spotify.com/track/269xqcgGTN9PlivhUkOLhX) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Lust For Life](https://open.spotify.com/album/7xYiTrbTL57QO0bb4hXIKo) | 3:58 |
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evNZVVBPG.md) - [plain]
 | 48 | [Watercolor Eyes \- From “Euphoria” An HBO Original Series](https://open.spotify.com/track/1G1R0XgChe18Zr1o6tlmN6) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Watercolor Eyes \(From “Euphoria” An HBO Original Series\)](https://open.spotify.com/album/12fNudihprFoc3Jj5nGFkF) | 3:31 |
 | 49 | [Get Free](https://open.spotify.com/track/761QvVHTibYjEi2r6A4g4Q) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Lust For Life](https://open.spotify.com/album/7xYiTrbTL57QO0bb4hXIKo) | 5:34 |
 
-Snapshot ID: `Mjg1MTQxOTUsMDAwMDAwMDBhMDAxNDNlMTI0ODVhYzE4ZGYwZjE5YWQ0OTE0YTI4Yg==`
+Snapshot ID: `Mjg1MTU2NjAsMDAwMDAwMDAxMmZhYjYyYmU0YzQ2YWU4YTYxMjdmOTBiZDQ0MzY0Yg==`

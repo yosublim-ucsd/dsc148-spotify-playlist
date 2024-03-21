@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSLpR93nYbUo.md) - [plain]
 
 > Ouça as novidades da cena eletrônica\. Foto: Sterium
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,209 likes - 70 songs - 3 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,225 likes - 70 songs - 3 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSLpR93nYbUo.md) - [plain]
 | 69 | [Oh Low](https://open.spotify.com/track/7nI3oWYKEMWwcddD4SpUvg) | [Zuffo](https://open.spotify.com/artist/1WlcGAUEsCmdO4D15TR6wv) | [Oh Low](https://open.spotify.com/album/0rOH0FxIi30rsZ8kYbb2zR) | 2:53 |
 | 70 | [Ordinary World](https://open.spotify.com/track/250Xm7kH7epgWv5oUhKADC) | [Bolth](https://open.spotify.com/artist/7kMmkgaZH7GfBD3WdOUqlD), [JOY RIVO & JTO](https://open.spotify.com/artist/4aB7BI0wBiIkqcOPYRpRJg) | [Ordinary World](https://open.spotify.com/album/7F9rAbXgfQ7vf60RThaZHb) | 4:12 |
 
-Snapshot ID: `MCxlOGQ3MTk0YjNiY2M2NjFhZGQ5NTU4NTgwNTI5MWU3ODFlN2U1OTRk`
+Snapshot ID: `MCw3ODg5ZTQ4YzZjOTdhZTllNDY3NzVkZDYwMjg3MWZlOTM1ODBkNzMx`

@@ -2131,6 +2131,32 @@
     },
     {
       "album": {
+        "name": "Vattam",
+        "url": "https://open.spotify.com/album/5pw3Lltk18Hhrao0QGHJ1P"
+      },
+      "artists": [
+        {
+          "name": "M.H.R",
+          "url": "https://open.spotify.com/artist/5A5bbXuMkVh28lxVO4y25g"
+        },
+        {
+          "name": "Lil PAYYAN",
+          "url": "https://open.spotify.com/artist/0HiSpiBBENQAo0BJX5u4ic"
+        },
+        {
+          "name": "SA",
+          "url": "https://open.spotify.com/artist/3eaS0SB97IZ1TVFv4XiTdm"
+        }
+      ],
+      "date_added": "2024-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225280,
+      "name": "Padachor",
+      "url": "https://open.spotify.com/track/1kU3JtePlggVoyaHC0ewCE"
+    },
+    {
+      "album": {
         "name": "Loop",
         "url": "https://open.spotify.com/album/7dfo3lWr4LUO0WjMCoFnP6"
       },
@@ -2348,7 +2374,7 @@
       ],
       "date_added": "2023-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-21",
       "duration_ms": 171925,
       "name": "Poralikal",
       "url": "https://open.spotify.com/track/4Yi3Z3kmaQIqG00EZ5XEyv"
@@ -3242,7 +3268,7 @@
       ],
       "date_added": "2024-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-21",
       "duration_ms": 201428,
       "name": "WORK HARD",
       "url": "https://open.spotify.com/track/2XQDNORKPlrZfUHeDqispe"

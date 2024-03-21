@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaLvcwjNfHBR.md) - [plain]
 
 > Your new favourite songs! Cover: Amy Shark
 
-[Spotify](https://open.spotify.com/user/spotify) - 74,626 likes - 50 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 74,671 likes - 50 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaLvcwjNfHBR.md) - [plain]
 | 25 | [Here To Dance](https://open.spotify.com/track/2HsdZX6NDNgI7kx5HaOWYr) | [The Veronicas](https://open.spotify.com/artist/1dIdBZaaHRW2bDTkHNfWln) | [Here To Dance](https://open.spotify.com/album/5x39VhgLcnKUQjekc0uZuC) | 2:05 |
 | 26 | [Still Yours \(From The Doc\)](https://open.spotify.com/track/7gJr3ockQ0fezUXuUXvaSq) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [Still Yours \(From The Doc\)](https://open.spotify.com/album/03uCCaOFlRAJkE6oDInrLz) | 2:38 |
 | 27 | [CONTIGO \(with Tiësto\)](https://open.spotify.com/track/4UkUxO2WlKLc0Q1iEutGGh) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [CONTIGO \(with Tiësto\)](https://open.spotify.com/album/2mKcYIgv7ItYDQXke3uprl) | 3:12 |
-| 28 | [Deeper Well](https://open.spotify.com/track/2lJn77IeZAP9cmv6DPXOrL) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Deeper Well](https://open.spotify.com/album/2NXiMKrwmPrqU8epp20pW8) | 3:52 |
+| 28 | [Deeper Well](https://open.spotify.com/track/333XFHKsHU0pOocFzBgrJi) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Deeper Well](https://open.spotify.com/album/5SxZmGwc4eJuPp6PcO4JgJ) | 3:52 |
 | 29 | [Memories](https://open.spotify.com/track/2VDTqhsSzrRxsbjvv4KLPl) | [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y) | [Memories](https://open.spotify.com/album/4UCjvqGiMnghqo31aPQQ09) | 2:59 |
 | 30 | [Doctor \(Work It Out\) \[feat\. Miley Cyrus\]](https://open.spotify.com/track/4f9wNNZET9wH7eMBgONd3d) | [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8), [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Doctor \(Work It Out\) \[feat\. Miley Cyrus\]](https://open.spotify.com/album/2kJunH6dfHcjJa0lxZbRKr) | 3:02 |
 | 31 | [Empty](https://open.spotify.com/track/575ViHchpSUjfTLCQPdE49) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [DubVision](https://open.spotify.com/artist/3XINWZaloea97SIRiyTJxX), [Jaimes](https://open.spotify.com/artist/6EdfpkgBzauysFts2D0LSO) | [Empty](https://open.spotify.com/album/5UPw5Z0vsHExBhH56uS3iQ) | 3:18 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaLvcwjNfHBR.md) - [plain]
 | 49 | [Holy Smokes](https://open.spotify.com/track/1kMWJ16W3Yk3hyNmaM7jfQ) | [Bailey Zimmerman](https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf) | [Holy Smokes](https://open.spotify.com/album/389w7hzxpiOmpGEWFCNEoP) | 3:15 |
 | 50 | [I Will](https://open.spotify.com/track/27sKtH0PZpASkN8H3ZJOQf) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [I Will](https://open.spotify.com/album/17YWNPXw7xDsLqC6ES3Ysj) | 2:29 |
 
-Snapshot ID: `MCxiNzZjMTZmNjZiMjM4ZTg4ZTM5ZjM2M2M5Y2NlNjNlZjRkMzY3NGQz`
+Snapshot ID: `MCxhZjE1ZWI2ZTNjNGNkZjJjNGEwNGM3ZDY5ZGQ2YjcxODQ0MTQyZjQ4`

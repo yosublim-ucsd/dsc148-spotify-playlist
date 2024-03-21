@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX12KGbWhMort.md) - [plain]
 
 > Dale play, y que el amor no pare.
 
-[Spotify](https://open.spotify.com/user/spotify) - 177,411 likes - 100 songs - 6 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 177,460 likes - 100 songs - 6 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,8 +27,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX12KGbWhMort.md) - [plain]
 | 17 | [La Mejor Versión de Mi \- Remix](https://open.spotify.com/track/2dy3TKVDEbIeWxeIb8JWqZ) | [NATTI NATASHA](https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7), [Romeo Santos](https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP) | [La Mejor Versión de Mi \(Remix\)](https://open.spotify.com/album/0OChMQnL4dpFZQH93uPb1d) | 3:49 |
 | 18 | [Mi Primer Millon](https://open.spotify.com/track/5fSDXbY8o9pA3TKwAbfwML) | [Bacilos](https://open.spotify.com/artist/1mux8L6xg2Cmrc7k0wQczl) | [Caraluna](https://open.spotify.com/album/2bM009J81OBNisrMbFwBJj) | 3:57 |
 | 19 | [Amiga mía](https://open.spotify.com/track/6kQYMqjobmB8MkWwa9OUyA) | [Alejandro Sanz](https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF) | [Más](https://open.spotify.com/album/3MfNbOJuFb5H4CjrT49oiI) | 4:50 |
-| 20 | [El Problema](https://open.spotify.com/track/5UJsYyBi0CdSJl0ul5aTgO) | [Ricardo Arjona](https://open.spotify.com/artist/0h1zs4CTlU9D2QtgPxptUD) | [Santo Pecado](https://open.spotify.com/album/7jlpMHgMoGjy2mc0CwzCjf) | 5:30 |
-| 21 | [Fotografía](https://open.spotify.com/track/0dEPlb8waIqRtKpLb3l6So) | [Juanes](https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7), [Nelly Furtado](https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc) | [Un Día Normal](https://open.spotify.com/album/2UJCnSqpR3AIuTvWYZLCp1) | 3:58 |
+| 20 | [Fotografía](https://open.spotify.com/track/0dEPlb8waIqRtKpLb3l6So) | [Juanes](https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7), [Nelly Furtado](https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc) | [Un Día Normal](https://open.spotify.com/album/2UJCnSqpR3AIuTvWYZLCp1) | 3:58 |
+| 21 | [El Problema](https://open.spotify.com/track/5UJsYyBi0CdSJl0ul5aTgO) | [Ricardo Arjona](https://open.spotify.com/artist/0h1zs4CTlU9D2QtgPxptUD) | [Santo Pecado](https://open.spotify.com/album/7jlpMHgMoGjy2mc0CwzCjf) | 5:30 |
 | 22 | [Entrégate](https://open.spotify.com/track/5fj3zNkXfOlrJGVcZBId6D) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [20 Años](https://open.spotify.com/album/3D9NENGfg4DFmYJrEaxRHd) | 4:23 |
 | 23 | [¿Y Cómo Es Él?](https://open.spotify.com/track/7aSxNjoVoAwNL7HDAKwGtC) | [José Luis Perales](https://open.spotify.com/artist/5RwfJb8wxN1fuodcPORVxP) | [Entre El Agua Y El Fuego](https://open.spotify.com/album/2D6nGOEEyp7GZCyWlO99GI) | 4:08 |
 | 24 | [Un Siglo Sin Ti](https://open.spotify.com/track/5NSJ0qoxwbO26tVvqpL4N2) | [Chayanne](https://open.spotify.com/artist/1JbemQ1fPt2YmSLjAFhPBv) | [Chayanne](https://open.spotify.com/album/51dg2LdYMIVQqCuUBlfQsN) | 4:41 |
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX12KGbWhMort.md) - [plain]
 | 38 | [Rosas](https://open.spotify.com/track/06p2Ij0lXD45LODQDCov0u) | [La Oreja de Van Gogh](https://open.spotify.com/artist/4U7lXyKdSf1JbM1aXvsodC) | [París](https://open.spotify.com/album/0QM5DL8C9uOYI2hGKbLUq8) | 3:57 |
 | 39 | [Carita de Inocente \(feat\. Myke Towers\) \- Remix](https://open.spotify.com/track/5kQre7o8ky5DXeEPcyaCR1) | [Prince Royce](https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [Carita de Inocente \(feat\. Myke Towers\) \[Remix\]](https://open.spotify.com/album/54m2Pe3Khdiarwv2PCS8DY) | 3:12 |
 | 40 | [Algo Contigo](https://open.spotify.com/track/4zsDA31stWMtLveU61hejd) | [Vicentico](https://open.spotify.com/artist/25THA9HUHoxpCT4LBp7UsZ) | [Vicentico](https://open.spotify.com/album/6Qt9Yiol5QcAEeKPyIQafo) | 3:38 |
-| 41 | [Te Amo](https://open.spotify.com/track/4WtO0pdIHTuVwQAVFmfIHQ) | [Franco De Vita](https://open.spotify.com/artist/4NEYQeEYBUjfaXgDQGvFvu) | [Franco De Vita En Primera Fila](https://open.spotify.com/album/6IIvdAgLtisXjNnxZpBxOX) | 3:38 |
-| 42 | [Azul](https://open.spotify.com/track/6pHCJmx9FXnMwEqB0LWUEH) | [Cristian Castro](https://open.spotify.com/artist/2AZOALDIBORfbzKTuliwdJ) | [Grandes Hits](https://open.spotify.com/album/6Q2UpW0s9cDeZ59bCd5CYL) | 4:19 |
+| 41 | [Azul](https://open.spotify.com/track/6pHCJmx9FXnMwEqB0LWUEH) | [Cristian Castro](https://open.spotify.com/artist/2AZOALDIBORfbzKTuliwdJ) | [Grandes Hits](https://open.spotify.com/album/6Q2UpW0s9cDeZ59bCd5CYL) | 4:19 |
+| 42 | [Te Amo](https://open.spotify.com/track/4WtO0pdIHTuVwQAVFmfIHQ) | [Franco De Vita](https://open.spotify.com/artist/4NEYQeEYBUjfaXgDQGvFvu) | [Franco De Vita En Primera Fila](https://open.spotify.com/album/6IIvdAgLtisXjNnxZpBxOX) | 3:38 |
 | 43 | [Hoy Tengo Ganas De Ti](https://open.spotify.com/track/0qO4GfXADY9QfgcgtrasT9) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9), [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) | [Confidencias](https://open.spotify.com/album/3g2uS0IsIdaKqRiBSFrbBk) | 4:51 |
 | 44 | [Devuélveme El Corazón](https://open.spotify.com/track/7etlF1zMxJbiaeQrXYh0PY) | [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW) | [MANTRA](https://open.spotify.com/album/1l1zcI8iwJg4WCb7jxHtbN) | 4:03 |
 | 45 | [Dime Que No](https://open.spotify.com/track/3uEJFR0oQeBaNMEXs4bTSq) | [Ricardo Arjona](https://open.spotify.com/artist/0h1zs4CTlU9D2QtgPxptUD) | [Quién Dijo Ayer](https://open.spotify.com/album/1icNy43dW75nSFOkucRFJZ) | 4:24 |
@@ -101,12 +101,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX12KGbWhMort.md) - [plain]
 | 91 | [Besos a la Lona](https://open.spotify.com/track/0p9zxloVaytLMbORCBMfwO) | [Melendi](https://open.spotify.com/artist/1EXjXQpDx2pROygh8zvHs4) | [Besos a la Lona](https://open.spotify.com/album/2OVkLEMcPk9LPdl4eza40X) | 4:06 |
 | 92 | [Me Muero de Amor](https://open.spotify.com/track/43RkmILnITcWx7i95eoNVm) | [Natalia Oreiro](https://open.spotify.com/artist/0Uit4gta4PrT7HvUe8W2Xo) | [Natalia Oreiro](https://open.spotify.com/album/6Bsk9AwFOjCe81mq6OvMKo) | 3:53 |
 | 93 | [Te Voy A Amar](https://open.spotify.com/track/1UulLfK9fqsOCr7TibaNxF) | [Axel](https://open.spotify.com/artist/32x1uogH2zajP85pzZAtuE) | [Un Nuevo Sol](https://open.spotify.com/album/4sTLmzASztF6Kwtm68uuN4) | 4:13 |
-| 94 | [Mujer de las Mil Batallas](https://open.spotify.com/track/4CKNP0H3WEWQBSNGeOvjFU) | [Frank Reyes](https://open.spotify.com/artist/4vQV1LCGBdYAt5rIIPjSFZ) | [Devuélveme Mi Libertad](https://open.spotify.com/album/2fde5WKTf4YilScZxEdd07) | 3:24 |
-| 95 | [Si Tu No Bailas Conmigo](https://open.spotify.com/track/1Cbw6WMknPdct4PeOuUzJH) | [Juan Luis Guerra 4.40](https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559) | [La Llave De Mi Corazon](https://open.spotify.com/album/1xdl8xYY54gDXuTVhOxNSc) | 2:42 |
+| 94 | [Si Tu No Bailas Conmigo](https://open.spotify.com/track/1Cbw6WMknPdct4PeOuUzJH) | [Juan Luis Guerra 4.40](https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559) | [La Llave De Mi Corazon](https://open.spotify.com/album/1xdl8xYY54gDXuTVhOxNSc) | 2:42 |
+| 95 | [Mujer de las Mil Batallas](https://open.spotify.com/track/4CKNP0H3WEWQBSNGeOvjFU) | [Frank Reyes](https://open.spotify.com/artist/4vQV1LCGBdYAt5rIIPjSFZ) | [Devuélveme Mi Libertad](https://open.spotify.com/album/2fde5WKTf4YilScZxEdd07) | 3:24 |
 | 96 | [Me Enamoré De Ti](https://open.spotify.com/track/3Vfqh883w3ydFU2wjMPxPp) | [Luciano Pereyra](https://open.spotify.com/artist/6ZZ2DeepA3GpoGU4KwqSlU), [Lang Lang](https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4) | [Me Enamore De Ti](https://open.spotify.com/album/1N1f6kovQCF1BzSoIIwWBY) | 4:41 |
-| 97 | [Volver](https://open.spotify.com/track/0fnSf6DuXn8uxlSdanhJqg) | [Ricardo Montaner](https://open.spotify.com/artist/4uoz4FUMvpeyGClFTTDBsD) | [Las Cosas Son Como Son](https://open.spotify.com/album/2L1ZdknL3hPfV2vFM18r14) | 4:28 |
-| 98 | [He Venido Por Ti](https://open.spotify.com/track/0BzpzUw1akFAoEUzTLGoQ0) | [Cami](https://open.spotify.com/artist/3VCrybIJKH7UurbDcZbMmn) | [He Venido Por Ti](https://open.spotify.com/album/6wpz5IBiPdIKsOy7JBJu5C) | 3:19 |
+| 97 | [He Venido Por Ti](https://open.spotify.com/track/0BzpzUw1akFAoEUzTLGoQ0) | [Cami](https://open.spotify.com/artist/3VCrybIJKH7UurbDcZbMmn) | [He Venido Por Ti](https://open.spotify.com/album/6wpz5IBiPdIKsOy7JBJu5C) | 3:19 |
+| 98 | [Volver](https://open.spotify.com/track/0fnSf6DuXn8uxlSdanhJqg) | [Ricardo Montaner](https://open.spotify.com/artist/4uoz4FUMvpeyGClFTTDBsD) | [Las Cosas Son Como Son](https://open.spotify.com/album/2L1ZdknL3hPfV2vFM18r14) | 4:28 |
 | 99 | [Miénteme](https://open.spotify.com/track/1Nw2GDJ7Xy1JtbPE8w5fcA) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [Miénteme](https://open.spotify.com/album/5ZyGgGHp4jgUgDO9gSYiim) | 3:53 |
 | 100 | [Aunque no te pueda ver](https://open.spotify.com/track/6UTRKQhyERZY5Jduii5Jmv) | [Alex Ubago](https://open.spotify.com/artist/2tY2GFdhH0Wa2VBvsxew5X) | [Fantasía o realidad \(american edition\)](https://open.spotify.com/album/2NVUSpunMuwYEFaqJsTRd1) | 4:25 |
 
-Snapshot ID: `MCw2OGQ2YWU1YTk1MmM4ZjdhNTBhZDFiM2RkODc0ZDE1ZWQ2NTljNjg0`
+Snapshot ID: `MCwwNjQyYzEyZDYyNmI3NGE2NjhiNzE1NmIyMjY0MjU3YzBlZmQzMWEw`

@@ -4,7 +4,7 @@
 
 > Chill rap e R&B: É um mood suave e envolvente\. Foto: Mizzy Miles com Bispo e Van Zee.
 
-570 songs - 1 day 6 hr 28 min
+571 songs - 1 day 6 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -101,6 +101,7 @@
 | [Chakras](https://open.spotify.com/track/3dbWR5RYjRmbtY6QIGNUs4) | [Ivandro](https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm), [Julinho Ksd](https://open.spotify.com/artist/7kR1Yw4RqYhhDD3a8QRyG6) | [Chakras](https://open.spotify.com/album/1Mz8AqAAgcwDwF9LglSk6K) | 3:16 | 2023-04-27 |  |
 | [Chama](https://open.spotify.com/track/5HnyAdCgZ4LkQ0LX7epYwQ) | [CADU](https://open.spotify.com/artist/632Kw78b8XGotuWxpKV2A3) | [Chama](https://open.spotify.com/album/7c0pS0w9PBaIobszlefBT7) | 2:33 | 2023-10-12 |  |
 | [Chama](https://open.spotify.com/track/21IKJYkz8ixquQUHXu6cXK) | [Jovem Ricch](https://open.spotify.com/artist/6h1XzP48C784CYNKfgCY8D) | [Chama](https://open.spotify.com/album/6ahh3FXc4m8PpHLXzaC5kS) | 2:15 | 2023-04-13 | 2023-05-12 |
+| [Chama](https://open.spotify.com/track/7I5LvUS8ETkDKZJLhst5rk) | [Nina R.A.E.](https://open.spotify.com/artist/0QnClU5NDTqMBuZdNTyvK0) | [Chama](https://open.spotify.com/album/6lDKhi2lp3EtRJGscCEQj5) | 2:57 | 2024-03-15 |  |
 | [Chamada Tua](https://open.spotify.com/track/3hvCSZI6SD00IpQ7CK2BoM) | [Jvst Fly](https://open.spotify.com/artist/4yafH0N98ld6th7MqELRXa) | [Chamada Tua](https://open.spotify.com/album/0pklO0U5kx2hDbgTKpGt8C) | 2:43 | 2023-10-12 | 2023-12-09 |
 | [Chamadas](https://open.spotify.com/track/5qp0l5NUFRlwLuDs9Xxogv) | [Ivandro](https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm), [Van Zee](https://open.spotify.com/artist/2Rjx4IV5w0P4JOv17xCWMS) | [Chamadas](https://open.spotify.com/album/6AWc7VG51dRddGEWXjLpcH) | 2:36 | 2023-09-28 |  |
 | [CHAMPAIN](https://open.spotify.com/track/2sMTVlqNOvAB5zB4H2786R) | [MAR](https://open.spotify.com/artist/1eD8ms4LtG3jrXqamSifPY), [SUAVEYOUKNOW](https://open.spotify.com/artist/1yFyrQDjGdTw0bo1YZdSmZ) | [CHAMPAIN](https://open.spotify.com/album/1IPt0tSK5HEClRoL8Cd3iA) | 2:04 | 2023-11-17 | 2023-12-09 |

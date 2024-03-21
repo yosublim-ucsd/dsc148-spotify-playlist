@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0vKEsk.md) - [plain]
 
 > This is Bruna Karla\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 134,340 likes - 51 songs - 4 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 134,350 likes - 51 songs - 4 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,12 +40,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0vKEsk.md) - [plain]
 | 30 | [Ao Final](https://open.spotify.com/track/7sFeGZBlqXSN3lN02lirMh) | [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR) | [Advogado Fiel](https://open.spotify.com/album/2U25l1MfwYJX3jNJBROiri) | 3:57 |
 | 31 | [Toca\-me, Pai](https://open.spotify.com/track/0W9Sjpu4N5dTq4LsvDNo18) | [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR) | [Como Águia.](https://open.spotify.com/album/1Bs4fwpu5CM0QMU34eH4zH) | 4:38 |
 | 32 | [Apaixonado Coração](https://open.spotify.com/track/5trNycknDFgdGosv98UeRc) | [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR) | [Bruna Karla Falando de Amor](https://open.spotify.com/album/1q2US0j78yaS4FJNIfrJ28) | 4:08 |
-| 33 | [Com Muito Louvor](https://open.spotify.com/track/3fMWh5ZDVPFKoQnUxO29L8) | [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3), [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR) | [Com Muito Louvor](https://open.spotify.com/album/5NItVsuGoKUjQOK8kfa72v) | 5:21 |
+| 33 | [Uma Mulher, Um Milagre](https://open.spotify.com/track/7376jMT2i67KqphVdumwPQ) | [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR) | [Vento do Espírito](https://open.spotify.com/album/1o8OkaZKl1pTCMrWlDHxEp) | 4:04 |
 | 34 | [Deus Está Cuidando de Você](https://open.spotify.com/track/3BXYxSllo4ZsW2yeeSi8pQ) | [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR) | [Deus Está Cuidando de Você](https://open.spotify.com/album/7Koc2gllVK7SbTtBymCFjz) | 4:28 |
-| 35 | [Uma Mulher, Um Milagre](https://open.spotify.com/track/7376jMT2i67KqphVdumwPQ) | [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR) | [Vento do Espírito](https://open.spotify.com/album/1o8OkaZKl1pTCMrWlDHxEp) | 4:04 |
+| 35 | [Com Muito Louvor](https://open.spotify.com/track/3fMWh5ZDVPFKoQnUxO29L8) | [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3), [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR) | [Com Muito Louvor](https://open.spotify.com/album/5NItVsuGoKUjQOK8kfa72v) | 5:21 |
 | 36 | [Jamais Deixarei Você](https://open.spotify.com/track/6AfCnl74vwdljXyxwkni83) | [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR) | [Bruna Karla Falando de Amor](https://open.spotify.com/album/1q2US0j78yaS4FJNIfrJ28) | 4:51 |
-| 37 | [Com os Olhos da Fé](https://open.spotify.com/track/5ffnMtzwfY0noBToWK8X0J) | [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR) | [Com os Olhos da Fé](https://open.spotify.com/album/2BhLfjpZAEHo39gGsDcenk) | 4:47 |
-| 38 | [É Jesus \(Ao Vivo\)](https://open.spotify.com/track/7nHPvZM13ckEpxauxF505o) | [Paulo Neto](https://open.spotify.com/artist/24lc8iaQY0UHitOufmSGko), [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR) | [É Jesus \(Ao Vivo\)](https://open.spotify.com/album/4UWpM2Rhi9trDC9jevaMl9) | 7:31 |
+| 37 | [É Jesus \(Ao Vivo\)](https://open.spotify.com/track/7nHPvZM13ckEpxauxF505o) | [Paulo Neto](https://open.spotify.com/artist/24lc8iaQY0UHitOufmSGko), [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR) | [É Jesus \(Ao Vivo\)](https://open.spotify.com/album/4UWpM2Rhi9trDC9jevaMl9) | 7:31 |
+| 38 | [Com os Olhos da Fé](https://open.spotify.com/track/5ffnMtzwfY0noBToWK8X0J) | [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR) | [Com os Olhos da Fé](https://open.spotify.com/album/2BhLfjpZAEHo39gGsDcenk) | 4:47 |
 | 39 | [Vento do Espírito](https://open.spotify.com/track/576nbIQo0FL0pVII6YrzYe) | [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR) | [Vento do Espírito](https://open.spotify.com/album/1o8OkaZKl1pTCMrWlDHxEp) | 4:14 |
 | 40 | [Agora Eu Tenho Você Comigo](https://open.spotify.com/track/3JAoGcKwkXVRQklnUBT2Gb) | [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR) | [Bruna Karla Falando de Amor](https://open.spotify.com/album/1q2US0j78yaS4FJNIfrJ28) | 4:14 |
 | 41 | [Fé e a Razão](https://open.spotify.com/track/0zWJggve8BGN44iUC5MxLP) | [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR) | [Incomparável](https://open.spotify.com/album/0BgFA0t9FPDRMA2QPgVRFU) | 3:44 |
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0vKEsk.md) - [plain]
 | 50 | [Tu Estás Aqui](https://open.spotify.com/track/2J8BKv8H29tNQ8cR9XBnJ9) | [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR), [Marcus Salles](https://open.spotify.com/artist/6IVEwGc6qJl8dsyWnMq1PI) | [Tu Estás Aqui](https://open.spotify.com/album/1ZlRA8N9XFIhokgUS2dWOs) | 5:05 |
 | 51 | [Deus Tremendo](https://open.spotify.com/track/7JNDE2MxMjsBq1Bsy4M4EK) | [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR) | [Alegria Real](https://open.spotify.com/album/6Rn8MMSrj193ofYERw8Osp) | 5:08 |
 
-Snapshot ID: `Mjg1MTQxOTUsMDAwMDAwMDBkZDRjYjkyODdiM2JhYTY2ZTkzMGVjOGFkZWNmNDJjMA==`
+Snapshot ID: `Mjg1MTU2NjAsMDAwMDAwMDAyMzU3MDE5M2QyMDhkNWM2OGQxZTYwMzU3Njk1NDViZg==`

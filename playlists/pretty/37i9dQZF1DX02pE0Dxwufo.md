@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX02pE0Dxwufo.md) - [plain]
 
 > did your boots stop working?
 
-[Spotify](https://open.spotify.com/user/spotify) - 86,480 likes - 46 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 86,571 likes - 46 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Austin](https://open.spotify.com/track/4NJqhmkGN042BrvHoMKUrJ) | [Dasha](https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I) | [Austin](https://open.spotify.com/album/4JtlZzYJEa7bejLF0ASnk0) | 2:51 |
+| 1 | [Austin](https://open.spotify.com/track/6b81dy3WjbozXK6b7C1gu5) | [Dasha](https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I) | [What Happens Now?](https://open.spotify.com/album/0rQRrrZPPv6XXsxilJ1wFz) | 2:51 |
 | 2 | [Before He Cheats](https://open.spotify.com/track/0ZUo4YjG4saFnEJhdWp9Bt) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Some Hearts](https://open.spotify.com/album/0kys2jaKAiDPfNBd4z7LAg) | 3:19 |
 | 3 | [I Hope](https://open.spotify.com/track/23T0OX7QOiIUFShSzbJ5Uo) | [Gabby Barrett](https://open.spotify.com/artist/6Iz3eq2aQGFf7TbGT2iahL) | [Goldmine](https://open.spotify.com/album/4Iqfx63CZhFGGIHiAvLxXY) | 3:30 |
 | 4 | [Mama's Broken Heart](https://open.spotify.com/track/2mXsZsJBThTaJXbNcg5QD4) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [Four The Record](https://open.spotify.com/album/1Pv6Znx8kGygusP4fqBD7m) | 2:57 |
@@ -55,4 +55,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX02pE0Dxwufo.md) - [plain]
 | 45 | [Ever Since You Left](https://open.spotify.com/track/3miEfV2k8EEbn64jYaEq9m) | [Priscilla Block](https://open.spotify.com/artist/6BpvASijzSWj7gnZD4Dvf1) | [Welcome To The Block Party](https://open.spotify.com/album/0dNsg2k0JVBXDjAyASks9p) | 2:44 |
 | 46 | [Best Worst Ex](https://open.spotify.com/track/3fRdUaeiNkAU3tpGhLS4Ma) | [Julia Cole](https://open.spotify.com/artist/48rpE75ZIsnfNFyojfYene), [Alexandra Kay](https://open.spotify.com/artist/67ZcPnEGiAlCx2O3sQarWV) | [Best Worst Ex](https://open.spotify.com/album/21jYnUmAjAhjROZDzMV6lL) | 2:44 |
 
-Snapshot ID: `MCw0Yjg5OThkZDI5Zjc3MGQ4N2JjZTA3MDFmYjdiZWFiMWJiMTFmYjE1`
+Snapshot ID: `MCw1NGMwODI4ZTdiYmQxY2NhZDk1MjBkYjcyY2ZlMWU2NWRjNGZjMzRj`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXavxLjAz4XDv.md) - [plain]
 
 > Essential tracks from "Resident Evil" series\. 25周年を迎えたホラーゲームの金字塔、バイオハザードシリーズの音楽をプレイリストで。©CAPCOM CO., LTD\. ALL RIGHTS RESERVED.
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,026 likes - 60 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,036 likes - 60 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,9 +36,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXavxLjAz4XDv.md) - [plain]
 | 26 | [Collapse](https://open.spotify.com/track/6szZAiaCyyIy0MNbP1Cfvz) | [Kentaro Nakajima](https://open.spotify.com/artist/1GXcJgf4RGI66ggGMkoA7F) | [Resident Evil 2 Original Soundtrack](https://open.spotify.com/album/2zyghKqvMQ5guwNLsnkMp2) | 2:51 |
 | 27 | [Looming Dread](https://open.spotify.com/track/6PkXh1TDoKD9as8q4bEXX5) | [Kentaro Nakajima](https://open.spotify.com/artist/1GXcJgf4RGI66ggGMkoA7F) | [Resident Evil 2 Original Soundtrack](https://open.spotify.com/album/2zyghKqvMQ5guwNLsnkMp2) | 2:06 |
 | 28 | [Saudade](https://open.spotify.com/track/4hjJNJvz1hshnFNRvh72tV) | [Cody Matthew Johnson](https://open.spotify.com/artist/4P2moEkGVqw8nJ5caJLC41), [Shim](https://open.spotify.com/artist/5y7EC8yURkWnpp3kI0T3jp) | [Resident Evil 2 Original Soundtrack](https://open.spotify.com/album/2zyghKqvMQ5guwNLsnkMp2) | 4:18 |
-| 29 | [A New Threat is Born](https://open.spotify.com/track/4jBRUF5dpOV24Kr9PfQsVB) | [Kota Suzuki](https://open.spotify.com/artist/6Bcj2CNhoJ3MHBPNKWlh0y), [Azusa Kato](https://open.spotify.com/artist/2OSqAuomSNFFFPRhA2x3Yc), [Ryo Koike](https://open.spotify.com/artist/3m2uZ2rZi0u4cCoeWiwazF) | [Resident Evil 3 Special Soundtrack](https://open.spotify.com/album/7pQYu8IdEDcvmlhCTCSsaP) | 1:45 |
-| 30 | [Free From Fear](https://open.spotify.com/track/2Y0NNG4Ty5LCgYNeICfqNq) | [Saori Maeda](https://open.spotify.com/artist/3Ud7woLRk2efj0q3D2lCzm) | [Resident Evil 3 Special Soundtrack](https://open.spotify.com/album/7pQYu8IdEDcvmlhCTCSsaP) | 2:06 |
-| 31 | [Save Room](https://open.spotify.com/track/6fFaDbmXtuScWnLi7BlMf6) | [Masami Ueda](https://open.spotify.com/artist/4Zc9ID5YsCSgTf2l00RmiU) | [Resident Evil 3 Special Soundtrack](https://open.spotify.com/album/7pQYu8IdEDcvmlhCTCSsaP) | 3:29 |
+| 29 | [A New Threat is Born](https://open.spotify.com/track/0U96Yte9CsFYT5Yu9N2ukg) | [Kota Suzuki](https://open.spotify.com/artist/6Bcj2CNhoJ3MHBPNKWlh0y), [Azusa Kato](https://open.spotify.com/artist/2OSqAuomSNFFFPRhA2x3Yc), [Ryo Koike](https://open.spotify.com/artist/3m2uZ2rZi0u4cCoeWiwazF) | [Resident Evil 3 Special Soundtrack](https://open.spotify.com/album/7ruGj7abeKNiq1nROX0uC7) | 1:45 |
+| 30 | [Free From Fear](https://open.spotify.com/track/2oaGI3bHKl9kXaBLfcIJwi) | [Saori Maeda](https://open.spotify.com/artist/3Ud7woLRk2efj0q3D2lCzm) | [Resident Evil 3 Special Soundtrack](https://open.spotify.com/album/7ruGj7abeKNiq1nROX0uC7) | 2:06 |
+| 31 | [Save Room](https://open.spotify.com/track/4W9XzY6DlOVLTCYFActtdt) | [Masami Ueda](https://open.spotify.com/artist/4Zc9ID5YsCSgTf2l00RmiU) | [Resident Evil 3 Special Soundtrack](https://open.spotify.com/album/7ruGj7abeKNiq1nROX0uC7) | 3:29 |
 | 32 | [Deep Sea](https://open.spotify.com/track/1RQ6EHit0rm5sKoV86PEFI) | [Capcom Sound Team](https://open.spotify.com/artist/3w1Q754jb31h5CXQCcnLNL) | [Resident Evil: Revelations Original Soundtrack](https://open.spotify.com/album/2U6Zaj3bDEmxWKG3Nt3JDF) | 3:48 |
 | 33 | [Scream](https://open.spotify.com/track/4ikUzDhm1REqT9ZJFIwRqE) | [Ichiro Kohmoto](https://open.spotify.com/artist/0H1pu3K0L0OIpO0KpbNe74) | [Resident Evil: Revelations Original Soundtrack](https://open.spotify.com/album/2U6Zaj3bDEmxWKG3Nt3JDF) | 2:05 |
 | 34 | [Rest & Intensify](https://open.spotify.com/track/5qztqNmizH7W2bUirLkb2m) | [Capcom Sound Team](https://open.spotify.com/artist/3w1Q754jb31h5CXQCcnLNL) | [Resident Evil: Revelations Original Soundtrack](https://open.spotify.com/album/2U6Zaj3bDEmxWKG3Nt3JDF) | 1:35 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXavxLjAz4XDv.md) - [plain]
 | 59 | [Tofu on Fire](https://open.spotify.com/track/1JqGbX7D8Lh03W3WITm5VS) | [Shotaro Nakayama](https://open.spotify.com/artist/0qM6rCXSK4NRrB1Ucij1a1), [Taishuke Fujisawa](https://open.spotify.com/artist/08eE91OwwwZT0HriYw1xky) | [Resident Evil 2 Original Soundtrack](https://open.spotify.com/album/2zyghKqvMQ5guwNLsnkMp2) | 3:37 |
 | 60 | [Go Tell Aunt Rhody \-Dixiland Jazz\- \- Alternative Ver.](https://open.spotify.com/track/4WZG3vulG5PQLURWwc1uAE) | [堀諭史](https://open.spotify.com/artist/56JQzzYTLuEO1MvPct6Tfg) | [BIOHAZARD 7 RESIDENT EVIL Special Tracks](https://open.spotify.com/album/42ZIjUQqG1MHOkZg3KHK2L) | 4:01 |
 
-Snapshot ID: `MCxkYzk4Zjg4Y2IxNzY2NDk2ZTJkNWY0MjQzNjg0MDU2NDg3YTgxNjI5`
+Snapshot ID: `MCwyM2Q5NDNlNTU5OWJmY2M0MmZiNWQ4ZTQwZmZmNjI1N2JiYmZkYmY5`

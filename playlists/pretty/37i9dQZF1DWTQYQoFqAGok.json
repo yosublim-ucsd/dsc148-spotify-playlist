@@ -1,12 +1,12 @@
 {
   "description": "Descubre la escena del jazz en M\u00e9xico en la curadur\u00eda de los expertos Mariana P\u00e9rez,  Juan Carlos Reyes, Erik Montenegro y Jos\u00e9 Enrique Fern\u00e1ndez.",
-  "num_followers": 59428,
+  "num_followers": 59436,
   "original_name": "Jazz en M\u00e9xico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlYzEyNTUwYjRiYWVkNWNkN2U4MWM0ZGUwOWQ2MjIzOGZmYjJkYmIw",
+  "snapshot_id": "MCxiODQ5OTY2YWYwZDE4NGQwMDMwYzBkNWNjMjViZTgwMDQzNDZiZDAw",
   "tracks": [
     {
       "added_at": "2021-07-28 16:44:28",
@@ -559,6 +559,34 @@
     {
       "added_at": "2021-07-28 16:44:28",
       "album": {
+        "name": "Fulgor",
+        "url": "https://open.spotify.com/album/3hHdb3FvT0zU1eXrKmQOgS"
+      },
+      "artists": [
+        {
+          "name": "Sara Valenzuela",
+          "url": "https://open.spotify.com/artist/2f0Ur2QXNCjpeGEqXZxOYc"
+        },
+        {
+          "name": "Barney McAll",
+          "url": "https://open.spotify.com/artist/1FC0psUheo5L2kUtj53MF9"
+        },
+        {
+          "name": "Jonathan Maron",
+          "url": "https://open.spotify.com/artist/3c1abg4EpGemD4WexcVj6B"
+        },
+        {
+          "name": "Bill Campbell",
+          "url": "https://open.spotify.com/artist/5LPzwY21u7i62eGAb7LcuK"
+        }
+      ],
+      "duration_ms": 246539,
+      "name": "Aquel Incendio",
+      "url": "https://open.spotify.com/track/21B1SsKnsjcUTkzRAAUJqy"
+    },
+    {
+      "added_at": "2021-07-28 16:44:28",
+      "album": {
         "name": "Paisaje Gris",
         "url": "https://open.spotify.com/album/4WAskgkj1leGkHgXXobvRG"
       },
@@ -595,34 +623,6 @@
     {
       "added_at": "2021-07-28 16:44:28",
       "album": {
-        "name": "Fulgor",
-        "url": "https://open.spotify.com/album/3hHdb3FvT0zU1eXrKmQOgS"
-      },
-      "artists": [
-        {
-          "name": "Sara Valenzuela",
-          "url": "https://open.spotify.com/artist/2f0Ur2QXNCjpeGEqXZxOYc"
-        },
-        {
-          "name": "Barney McAll",
-          "url": "https://open.spotify.com/artist/1FC0psUheo5L2kUtj53MF9"
-        },
-        {
-          "name": "Jonathan Maron",
-          "url": "https://open.spotify.com/artist/3c1abg4EpGemD4WexcVj6B"
-        },
-        {
-          "name": "Bill Campbell",
-          "url": "https://open.spotify.com/artist/5LPzwY21u7i62eGAb7LcuK"
-        }
-      ],
-      "duration_ms": 246539,
-      "name": "Aquel Incendio",
-      "url": "https://open.spotify.com/track/21B1SsKnsjcUTkzRAAUJqy"
-    },
-    {
-      "added_at": "2021-07-28 16:44:28",
-      "album": {
         "name": "So\u00f1e - Jazz Mexicano",
         "url": "https://open.spotify.com/album/1d4BQoieyMuga0PEjsdcB6"
       },
@@ -635,6 +635,26 @@
       "duration_ms": 266866,
       "name": "La Cocola",
       "url": "https://open.spotify.com/track/2XxyE2LiLidlNXuoYpczZA"
+    },
+    {
+      "added_at": "2022-08-16 16:23:25",
+      "album": {
+        "name": "Cronolog\u00edas",
+        "url": "https://open.spotify.com/album/7bCzc6xDFgVGpVXyEJ26gK"
+      },
+      "artists": [
+        {
+          "name": "Xalapa Jazz Orchestra",
+          "url": "https://open.spotify.com/artist/5IWPXtD7sSSNEJQiskp96F"
+        },
+        {
+          "name": "Valentina Marentes",
+          "url": "https://open.spotify.com/artist/2quK2WgFo26pueFzJRrb5x"
+        }
+      ],
+      "duration_ms": 403365,
+      "name": "Era La Luz De Abril",
+      "url": "https://open.spotify.com/track/4BcjeQiwliBHPVoqZAPmEc"
     },
     {
       "added_at": "2021-07-28 16:44:28",
@@ -691,26 +711,6 @@
       "duration_ms": 254720,
       "name": "Ventana espacial",
       "url": "https://open.spotify.com/track/3HTcmAbqboUt0io2WCuI34"
-    },
-    {
-      "added_at": "2022-08-16 16:23:25",
-      "album": {
-        "name": "Cronolog\u00edas",
-        "url": "https://open.spotify.com/album/7bCzc6xDFgVGpVXyEJ26gK"
-      },
-      "artists": [
-        {
-          "name": "Xalapa Jazz Orchestra",
-          "url": "https://open.spotify.com/artist/5IWPXtD7sSSNEJQiskp96F"
-        },
-        {
-          "name": "Valentina Marentes",
-          "url": "https://open.spotify.com/artist/2quK2WgFo26pueFzJRrb5x"
-        }
-      ],
-      "duration_ms": 403365,
-      "name": "Era La Luz De Abril",
-      "url": "https://open.spotify.com/track/4BcjeQiwliBHPVoqZAPmEc"
     },
     {
       "added_at": "2021-07-28 16:44:28",

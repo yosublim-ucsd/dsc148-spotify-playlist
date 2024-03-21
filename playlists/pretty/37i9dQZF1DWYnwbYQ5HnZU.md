@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYnwbYQ5HnZU.md) - [plain]
 
 > We're celebrating 10 years of Dierks Bentley's hit album "Riser" here on Country Gold!
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,162,109 likes - 95 songs - 5 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,162,241 likes - 95 songs - 5 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,13 +63,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYnwbYQ5HnZU.md) - [plain]
 | 53 | [Homegrown](https://open.spotify.com/track/2kR18wsL3gvXRXdNE4dCGc) | [Zac Brown Band](https://open.spotify.com/artist/6yJCxee7QumYr820xdIsjo) | [JEKYLL + HYDE](https://open.spotify.com/album/12WhHcWieyHNLP0RGbRtrr) | 3:25 |
 | 54 | [In Color](https://open.spotify.com/track/7CNd7rjfVt74TFlcOcnZgN) | [Jamey Johnson](https://open.spotify.com/artist/5yhxqYI0JBwUKfXpSEjiM8) | [That Lonesome Song](https://open.spotify.com/album/3mb6QMOelljOicaqCo4F6i) | 4:50 |
 | 55 | [I Hope You’re Happy Now](https://open.spotify.com/track/0Al3wN3keprGTSgG8NBwjr) | [Carly Pearce](https://open.spotify.com/artist/4sIl4BTo9l9KqEi0Y3RE72), [Lee Brice](https://open.spotify.com/artist/5Zq7R5qmi58ByYyBQTlNuk) | [Carly Pearce](https://open.spotify.com/album/44gX26I9jSjyy1KXAgquPc) | 3:18 |
-| 56 | [Somebody Like You](https://open.spotify.com/track/0b9djfiuDIMw1zKH6gV74g) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [Golden Road](https://open.spotify.com/album/1O87Gkgvc6QR1JRpMkgnE7) | 5:23 |
+| 56 | [Blue Ain't Your Color](https://open.spotify.com/track/6wycnu8FWXsj68ig7BEot9) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [Ripcord](https://open.spotify.com/album/1IbfOjLqUSkhtXLpX31WZq) | 3:50 |
 | 57 | [Made For You](https://open.spotify.com/track/7vF3xkCMvZjAe2nTWY0uQZ) | [Jake Owen](https://open.spotify.com/artist/1n2pb9Tsfe4SwAjmUac6YT) | [Greetings From...Jake](https://open.spotify.com/album/6DcjgwmNJdsl2BODdwPOH6) | 3:58 |
 | 58 | [Picture \(feat\. Sheryl Crow\)](https://open.spotify.com/track/69j0KoPJuwpnbGWrfn7Yll) | [Kid Rock](https://open.spotify.com/artist/7dOBabd5O4CvKrg4iriHTM), [Sheryl Crow](https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD) | [Cocky](https://open.spotify.com/album/64du8CiAmKAzVswhA3RK4r) | 4:58 |
 | 59 | [Road Less Traveled](https://open.spotify.com/track/4nxgA1nvXvTkmsBY0vJV57) | [Lauren Alaina](https://open.spotify.com/artist/1v3tdpIdBSW14rHUfiEVOv) | [Road Less Traveled](https://open.spotify.com/album/296hswDnxvymjboFBxvmI5) | 3:36 |
 | 60 | [Tequila Makes Her Clothes Fall Off](https://open.spotify.com/track/6IC6VhpV7D8T1t037Atqpu) | [Joe Nichols](https://open.spotify.com/artist/4aJTB79uwT4sP0Nb8QGWHc) | [III](https://open.spotify.com/album/0fuGd7HQHt8xUoJKEuWAFl) | 3:07 |
 | 61 | [Alright](https://open.spotify.com/track/5JlH51YDYsGj2dyEJKKjcN) | [Darius Rucker](https://open.spotify.com/artist/7FY5V3XMwlNBPitEjXowHQ) | [Learn To Live](https://open.spotify.com/album/4HJ13QK0o292BbCtqww9BK) | 3:51 |
-| 62 | [Blue Ain't Your Color](https://open.spotify.com/track/6wycnu8FWXsj68ig7BEot9) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [Ripcord](https://open.spotify.com/album/1IbfOjLqUSkhtXLpX31WZq) | 3:50 |
+| 62 | [Somebody Like You](https://open.spotify.com/track/0b9djfiuDIMw1zKH6gV74g) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [Golden Road](https://open.spotify.com/album/1O87Gkgvc6QR1JRpMkgnE7) | 5:23 |
 | 63 | [Just the Way](https://open.spotify.com/track/4h5OVQQbeqw3lNaFIbmlzG) | [Parmalee](https://open.spotify.com/artist/4TshyQDihSYXSWqvclXl3I), [Blanco Brown](https://open.spotify.com/artist/3yzRiNMZdTsSUgplcyYZ4i) | [For You](https://open.spotify.com/album/0BYiDyfOOhzFrX9ENunvbk) | 3:13 |
 | 64 | [God's Country](https://open.spotify.com/track/1dyxS3YzBbL0t8rEVwVQ1K) | [Blake Shelton](https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw) | [God's Country](https://open.spotify.com/album/5b92Q0wcU49AnhBmu3IxOx) | 3:25 |
 | 65 | [If I Didn’t Love You](https://open.spotify.com/track/7IYoh1u7dFM1xIWSEYd5B8) | [Jason Aldean](https://open.spotify.com/artist/3FfvYsEGaIb52QPXhg4DcH), [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [MACON](https://open.spotify.com/album/4MJPulC5XmELvmbrs1XHC9) | 3:32 |
@@ -104,4 +104,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYnwbYQ5HnZU.md) - [plain]
 | 94 | [What If I Never Get Over You](https://open.spotify.com/track/0qkdE1C0ufnUISKwhg8Wh6) | [Lady A](https://open.spotify.com/artist/32WkQRZEVKSzVAAYqukAEA) | [Ocean](https://open.spotify.com/album/2Ni5tXmyXPTG4jeQxvSqjv) | 3:26 |
 | 95 | [I Go Back](https://open.spotify.com/track/57I7CUbXo4XlWuTVB8pXW6) | [Kenny Chesney](https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O) | [When The Sun Goes Down](https://open.spotify.com/album/052CF6cpp0nAH67yuUrIp7) | 4:03 |
 
-Snapshot ID: `MCw0MzE0ZGE1NzY2Zjg0ZTY3ZTQ2ZjNlODdiY2Y2NDZlODUzNjkxMWRj`
+Snapshot ID: `MCw4NDliM2E1NWIxZTFhMTJmNTdkMTBiZmEwNjk4MzJjYWEyOTI0NjIx`

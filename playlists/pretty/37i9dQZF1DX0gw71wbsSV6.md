@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0gw71wbsSV6.md) - [plain]
 
 > 忙しかった1日の終わりは、半身浴と心に沁みる音楽でゆったりリラックス。
 
-[Spotify](https://open.spotify.com/user/spotify) - 45,597 likes - 50 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 45,611 likes - 50 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0gw71wbsSV6.md) - [plain]
 | 20 | [Útdautt lag](https://open.spotify.com/track/4c2ZfeVn6yfmRGG0Iox06s) | [Jun Futamata](https://open.spotify.com/artist/1gpvbGT0Zs5ClF9dcnH7fW) | [Útdautt lag](https://open.spotify.com/album/0oR164CmvsVSVENz3p5GK5) | 3:40 |
 | 21 | [Sweet Hurting](https://open.spotify.com/track/2WFmtZWu1lV7emNPeWxBtB) | [GANGGA](https://open.spotify.com/artist/4nd1IvFkUoQinjvYdUmOBI), [Valentina Ploy](https://open.spotify.com/artist/4RnzpVhMevUeU16FlV4e3e) | [Sweet Hurting](https://open.spotify.com/album/0My4HXeLw9xcBwCLx2N5uw) | 3:34 |
 | 22 | [ゆめうつつ](https://open.spotify.com/track/1GTC0DN9LGOdP0NdvoHyX7) | [Lamp](https://open.spotify.com/artist/0rFHElzeddB9ymDjgpBENX) | [ランプ幻想](https://open.spotify.com/album/7b55VfUk2Vpuqnac9NDREc) | 5:15 |
-| 23 | [Thanks again](https://open.spotify.com/track/0diIX9HBaAAoxm1dusWmOk) | [SAKURA FUJIWARA](https://open.spotify.com/artist/5tvnQkP9zNAqYW2YKYk1Et) | [Thanks again](https://open.spotify.com/album/24ZQN8pJRxIBPG3WLX4A8t) | 3:08 |
+| 23 | [Thanks again](https://open.spotify.com/track/4rsNXpSgihuX2eQ7sbXKhx) | [SAKURA FUJIWARA](https://open.spotify.com/artist/5tvnQkP9zNAqYW2YKYk1Et) | [Thanks again](https://open.spotify.com/album/3kzkSVgybp6MrrrdZsJK9K) | 3:08 |
 | 24 | [Love Is](https://open.spotify.com/track/6CbPF34njo6PpWYTFQrMZN) | [Ingrid Michaelson](https://open.spotify.com/artist/2vm8GdHyrJh2O2MfbQFYG0), [Jason Mraz](https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl) | [Love Is](https://open.spotify.com/album/4WjjFiRYtO1Hfmd9iUr8NB) | 2:35 |
 | 25 | ["Slut!" \(Taylor's Version\) \(From The Vault\)](https://open.spotify.com/track/71BqAINEnezjQfxE4VuJfq) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [1989 \(Taylor's Version\)](https://open.spotify.com/album/64LU4c1nfjz1t4VnGhagcg) | 3:00 |
 | 26 | [Cry For You](https://open.spotify.com/track/1T2pnp74o3kbvT4zhyojAy) | [Toshiki Soejima](https://open.spotify.com/artist/6IqHDslsV3usaxCdciL3XO), [Temsu Clover](https://open.spotify.com/artist/1QZD3yzCgj7qHKqG2eC31g) | [Cry For You](https://open.spotify.com/album/7rRge1A2yeEk3KUIz76qxe) | 4:13 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0gw71wbsSV6.md) - [plain]
 | 49 | [Sweet Lemon](https://open.spotify.com/track/4Cw3Cr6nghAhLvphXMneON) | [Newdums](https://open.spotify.com/artist/0TnbcGo1i35F3JYLa530hB) | [Left Behind](https://open.spotify.com/album/1AX8uGsbYTniPe3GpGJX3D) | 3:42 |
 | 50 | [Bewitched](https://open.spotify.com/track/0pfpeTGQOWlGp6YUUbBD42) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Bewitched](https://open.spotify.com/album/1rpCHilZQkw84A3Y9czvMO) | 4:06 |
 
-Snapshot ID: `MCxiZDlmODY1OTUyYmY4YWU3Y2QzOTcwOGViOWMyNmY0MGVlOWMxNzJl`
+Snapshot ID: `MCw4Njc5N2UyMjMyMWM3YWI1ODczMzhkM2FjNTY4NGQyZjQ1ODg4OTUz`

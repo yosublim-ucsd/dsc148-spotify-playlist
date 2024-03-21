@@ -1,12 +1,12 @@
 {
   "description": "Floor fillers and big streamers of 2012. ",
-  "num_followers": 111564,
+  "num_followers": 111659,
   "original_name": "Dance Hits of 2012",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjNTFiNmJmZDQ2YmRiMTdjZjAxODM3ODJmMWJjOWVhYWQ3ZmEwMTY1",
+  "snapshot_id": "MCwzYzNhM2I4MTIzYzQ2NDcyZDEwMDI5YzgzNjI1M2U4ZDE1NTdhNzc0",
   "tracks": [
     {
       "added_at": "2022-10-14 00:00:00",
@@ -991,22 +991,6 @@
     {
       "added_at": "2022-10-14 00:00:00",
       "album": {
-        "name": "Midnight City (Eric Prydz Private Remix)",
-        "url": "https://open.spotify.com/album/5oOaP8n5kFkbxQkzp86tlU"
-      },
-      "artists": [
-        {
-          "name": "M83",
-          "url": "https://open.spotify.com/artist/63MQldklfxkjYDoUE4Tppz"
-        }
-      ],
-      "duration_ms": 357241,
-      "name": "Midnight City - Eric Prydz Private Remix",
-      "url": "https://open.spotify.com/track/53YYzXe4shE5FF13XBrhGz"
-    },
-    {
-      "added_at": "2022-10-14 00:00:00",
-      "album": {
         "name": "Years",
         "url": "https://open.spotify.com/album/1lxz4qsMenWD4SR1e5uX6x"
       },
@@ -1023,6 +1007,22 @@
       "duration_ms": 195466,
       "name": "Years",
       "url": "https://open.spotify.com/track/5pVk15sR3OgIeKBKqG9jWw"
+    },
+    {
+      "added_at": "2022-10-14 00:00:00",
+      "album": {
+        "name": "Midnight City (Eric Prydz Private Remix)",
+        "url": "https://open.spotify.com/album/5oOaP8n5kFkbxQkzp86tlU"
+      },
+      "artists": [
+        {
+          "name": "M83",
+          "url": "https://open.spotify.com/artist/63MQldklfxkjYDoUE4Tppz"
+        }
+      ],
+      "duration_ms": 357241,
+      "name": "Midnight City - Eric Prydz Private Remix",
+      "url": "https://open.spotify.com/track/53YYzXe4shE5FF13XBrhGz"
     },
     {
       "added_at": "2022-10-14 00:00:00",

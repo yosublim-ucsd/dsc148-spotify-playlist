@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe4qIBASHIrI.md) - [plain]
 
 > Los temas esenciales de la escena independiente nacional\. Furland en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 147,871 likes - 100 songs - 6 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 147,914 likes - 100 songs - 6 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,16 +51,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe4qIBASHIrI.md) - [plain]
 | 41 | [Tijuana Sound Machine](https://open.spotify.com/track/7HW7q9Vcgr3GlUV7PKHKOj) | [Nortec: Bostich + Fussible](https://open.spotify.com/artist/3Jarv4dvk7d9k6AkqDUVJg) | [Tijuana Sound Machine \(Nortec Collective Presents: Bostich+Fussible\)](https://open.spotify.com/album/4H3jCH55WS5z7CF6g144eV) | 3:02 |
 | 42 | [Querer](https://open.spotify.com/track/49drBO7rVHCvJjcb9Rmekf) | [Chetes](https://open.spotify.com/artist/5sIuOfUs74K1zFv5BqVaQY) | [Efecto Dominó](https://open.spotify.com/album/54Bbckv221mUWGvDbJnffb) | 3:37 |
 | 43 | [Nada](https://open.spotify.com/track/17VDPA2nZTZqArb2RPopJg) | [Juan Son](https://open.spotify.com/artist/0KMvNa9hacj7I16cmapuGG) | [Mermaid Sashimi](https://open.spotify.com/album/0f8IDWiMd1xAnmlIxTfmKy) | 4:24 |
-| 44 | [Ella Es Azul](https://open.spotify.com/track/3FEOiLNmS51wlq4ZcouLj6) | [Volován](https://open.spotify.com/artist/0htSEnHjTcKdNapBwIsEaA) | [Volovan](https://open.spotify.com/album/7jSqVU6kH01jgroHwYXBSr) | 3:29 |
-| 45 | [Popscuro](https://open.spotify.com/track/3N0lemfma0XQAlkueBbwev) | [CLUBZ](https://open.spotify.com/artist/6MoZZABXeQwEmzmcwICxwK) | [Destellos](https://open.spotify.com/album/2X4swA3UkpqAS8bbXYgP9k) | 3:57 |
+| 44 | [Popscuro](https://open.spotify.com/track/3N0lemfma0XQAlkueBbwev) | [CLUBZ](https://open.spotify.com/artist/6MoZZABXeQwEmzmcwICxwK) | [Destellos](https://open.spotify.com/album/2X4swA3UkpqAS8bbXYgP9k) | 3:57 |
+| 45 | [Ella Es Azul](https://open.spotify.com/track/3FEOiLNmS51wlq4ZcouLj6) | [Volován](https://open.spotify.com/artist/0htSEnHjTcKdNapBwIsEaA) | [Volovan](https://open.spotify.com/album/7jSqVU6kH01jgroHwYXBSr) | 3:29 |
 | 46 | [Acicálame](https://open.spotify.com/track/5Ew6ieSRFMoGZlF3rWtDNM) | [Tessa Ia](https://open.spotify.com/artist/2Bo0gW1bqWSjD27xOcVtjg) | [Correspondencia](https://open.spotify.com/album/1AYrH8rgkrGL2MBZZiaCSa) | 3:22 |
 | 47 | [Dead](https://open.spotify.com/track/0qy3tNhBzyxKxcOqCczcVX) | [Zoé](https://open.spotify.com/artist/6IdtcAwaNVAggwd6sCKgTI) | [The Room](https://open.spotify.com/album/3Ts9hy3YbTeBDqNL9ItCJj) | 4:46 |
 | 48 | [16 De Febrero](https://open.spotify.com/track/1SY9VFGNeOrFYepm4WzbR5) | [Emmanuel Del Real](https://open.spotify.com/artist/3zsKni86bXvCrbu8HxSIAM), [Chetes](https://open.spotify.com/artist/5sIuOfUs74K1zFv5BqVaQY) | [Fuera Del Cielo](https://open.spotify.com/album/31cZKWtP8UL8WCko2UFDQ1) | 3:52 |
 | 49 | [Bestia](https://open.spotify.com/track/1r3L5Aze7FgPc0ck828XFz) | [Hello Seahorse!](https://open.spotify.com/artist/3vKxuOGRkXJWpCZPf01Nj8) | [Bestia](https://open.spotify.com/album/3thOTiN8dswNmDUHEkIXiL) | 4:08 |
 | 50 | [Completamente](https://open.spotify.com/track/3c3XE8e9fG7VLoW4GNsiNY) | [Chetes](https://open.spotify.com/artist/5sIuOfUs74K1zFv5BqVaQY) | [Blanco Fácil](https://open.spotify.com/album/4ZM6L5xUvFPT74pOw6KmNt) | 4:23 |
 | 51 | [Mi Castillo de Blanca Arena](https://open.spotify.com/track/2WFKRQJeQMCUatF7ufzfCs) | [Siddhartha](https://open.spotify.com/artist/2aqFBHOpM9uIgBpUsdq09x) | [Náufrago](https://open.spotify.com/album/07Ght6RYliCbCdKKbElmWK) | 2:29 |
-| 52 | [Si No Vas a Ser Tú](https://open.spotify.com/track/2vLFK4t0KQwNVQvnjGuMb8) | [Young Tender](https://open.spotify.com/artist/19g2jApswUTCNqXFxx2lAx) | [Si No Vas a Ser Tú](https://open.spotify.com/album/4gaVr59Phf6qtOHIGe12Bk) | 3:49 |
-| 53 | [Épocas](https://open.spotify.com/track/3izZ5EFLybEdk8q5dCh1eD) | [CLUBZ](https://open.spotify.com/artist/6MoZZABXeQwEmzmcwICxwK) | [Épocas](https://open.spotify.com/album/5K42C7VGWtFP2MtH5wwP7M) | 3:41 |
+| 52 | [Épocas](https://open.spotify.com/track/3izZ5EFLybEdk8q5dCh1eD) | [CLUBZ](https://open.spotify.com/artist/6MoZZABXeQwEmzmcwICxwK) | [Épocas](https://open.spotify.com/album/5K42C7VGWtFP2MtH5wwP7M) | 3:41 |
+| 53 | [Si No Vas a Ser Tú](https://open.spotify.com/track/2vLFK4t0KQwNVQvnjGuMb8) | [Young Tender](https://open.spotify.com/artist/19g2jApswUTCNqXFxx2lAx) | [Si No Vas a Ser Tú](https://open.spotify.com/album/4gaVr59Phf6qtOHIGe12Bk) | 3:49 |
 | 54 | [Maldito](https://open.spotify.com/track/4AuYIbNIESLMG3h5gTLXho) | [Jessy Bulbo](https://open.spotify.com/artist/2icB5yGi569VGjYogZtSvT) | [Saga Mama](https://open.spotify.com/album/7rWjUHoF1VDRseBSYNLWjE) | 2:55 |
 | 55 | [Palapa](https://open.spotify.com/track/2vofpKYoBvc2uiV2yHYrHW) | [Porter](https://open.spotify.com/artist/7eBQrhxTHcor6gcbcLhqE5) | [Moctezuma](https://open.spotify.com/album/70nk1mvQAQ1Tpf6j7gudRW) | 5:45 |
 | 56 | [Miente](https://open.spotify.com/track/1gA2JKymFK2wqvNKbiZmjl) | [Bengala](https://open.spotify.com/artist/3kcSMbcEv5nxio3oIF42HJ) | [Bengala](https://open.spotify.com/album/01jg8viSyNMt8kX9fqMTXA) | 3:07 |
@@ -77,20 +77,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe4qIBASHIrI.md) - [plain]
 | 67 | [I Count the Ways](https://open.spotify.com/track/37AXEkCvxD0rAUSkmjbem8) | [Nortec: Bostich + Fussible](https://open.spotify.com/artist/3Jarv4dvk7d9k6AkqDUVJg) | [Bulevar 2000 \(Nortec Collective Presents: Bostich+Fussible\)](https://open.spotify.com/album/1CAHCaHt10RshLU6sgDeAH) | 3:49 |
 | 68 | [Berlín](https://open.spotify.com/track/4z55q1ocJQOiSwkFQAdUFO) | [Little Jesus](https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit) | [Norte](https://open.spotify.com/album/3ccENIV5z7jcA7MFTz3Tfw) | 4:45 |
 | 69 | [Todavía Te Alcanzo a Ver](https://open.spotify.com/track/5lHsdhq0XAlOowiYZgjNKD) | [Canseco](https://open.spotify.com/artist/4FiUcS3nZ5bfUOVAIC3Up5) | [El Tiempo y la Ciudad](https://open.spotify.com/album/3e8mntdTH7cBTooN1OqzwK) | 3:13 |
-| 70 | [Es por Ti](https://open.spotify.com/track/46RX9nBiD5Ygqeiwz4Hl6C) | [Los Romanticos de Zacatecas](https://open.spotify.com/artist/0xg0tZofneUYpE1HQS4gOg) | [Ya Lo Dijo Rufis Taylor](https://open.spotify.com/album/1UVQ73QdbLYP7Zc1qObo9B) | 2:25 |
-| 71 | [Paso Fino](https://open.spotify.com/track/7wt8zQKmeiRadOqWci0q7p) | [Plastilina Mosh](https://open.spotify.com/artist/4PtVXWSOmF4Tox1jj6ctSq) | [All U Need Is Mosh](https://open.spotify.com/album/4rVRjklAbBsRF2rOJEL8nA) | 6:09 |
+| 70 | [Paso Fino](https://open.spotify.com/track/7wt8zQKmeiRadOqWci0q7p) | [Plastilina Mosh](https://open.spotify.com/artist/4PtVXWSOmF4Tox1jj6ctSq) | [All U Need Is Mosh](https://open.spotify.com/album/4rVRjklAbBsRF2rOJEL8nA) | 6:09 |
+| 71 | [Es por Ti](https://open.spotify.com/track/46RX9nBiD5Ygqeiwz4Hl6C) | [Los Romanticos de Zacatecas](https://open.spotify.com/artist/0xg0tZofneUYpE1HQS4gOg) | [Ya Lo Dijo Rufis Taylor](https://open.spotify.com/album/1UVQ73QdbLYP7Zc1qObo9B) | 2:25 |
 | 72 | [Inmóvil \(Wrong I.D.\)](https://open.spotify.com/track/34sDl5mMIrTKf1uQJuqKuU) | [LeBaron](https://open.spotify.com/artist/6mAJLm084B2XPYIqkt1gj1) | [LeBaron](https://open.spotify.com/album/1ZROHNWumhnNlEzo69ubgb) | 3:42 |
 | 73 | [Frequency](https://open.spotify.com/track/3NV8Q9CmBFcxryZDAJszu4) | [Technicolor Fabrics](https://open.spotify.com/artist/2GtdjV9W8RmiI4W2AUl4Pl) | [Run..\. The Sun Is Burning All Your Hopes](https://open.spotify.com/album/1c7DoDLM0uRXXOGOE2wjes) | 3:09 |
 | 74 | [Ella No Me Conoce](https://open.spotify.com/track/5WyAHEuvc2mpHeOJTkzsbS) | [Austin TV](https://open.spotify.com/artist/5x0koyeJkLR4odx4gCD5lR) | [La Última Noche del Mundo](https://open.spotify.com/album/5XYaeuGHi7sVB0L2YKgqAm) | 4:48 |
-| 75 | [Yepa Yepa Yepa](https://open.spotify.com/track/3uzCrz4OcrdWUOqfOrzDzx) | [Silverio](https://open.spotify.com/artist/1Du4cMgDEKryT08bQdMqpV) | [Silverio](https://open.spotify.com/album/66gu4VLW2XbHzv8RcBZ8sy) | 4:10 |
-| 76 | [No Longer Fun](https://open.spotify.com/track/2gPCcMmgh2qM6oaKefJ6tW) | [Rey Pila](https://open.spotify.com/artist/6rUsAEYBTCzHDa98JsBwtW) | [Rey Pila](https://open.spotify.com/album/1TqxGOWXOg9ds7mQicRSWS) | 3:25 |
+| 75 | [No Longer Fun](https://open.spotify.com/track/2gPCcMmgh2qM6oaKefJ6tW) | [Rey Pila](https://open.spotify.com/artist/6rUsAEYBTCzHDa98JsBwtW) | [Rey Pila](https://open.spotify.com/album/1TqxGOWXOg9ds7mQicRSWS) | 3:25 |
+| 76 | [Yepa Yepa Yepa](https://open.spotify.com/track/3uzCrz4OcrdWUOqfOrzDzx) | [Silverio](https://open.spotify.com/artist/1Du4cMgDEKryT08bQdMqpV) | [Silverio](https://open.spotify.com/album/66gu4VLW2XbHzv8RcBZ8sy) | 4:10 |
 | 77 | [Dulce Mal](https://open.spotify.com/track/4bVaYbaxhHaxeCLGyERNfT) | [The Chamanas](https://open.spotify.com/artist/4QUnWR26plj0oHiQgRyhvk) | [Dulce Mal](https://open.spotify.com/album/7u7PYKzkFojFmGAj0JI37Y) | 4:02 |
 | 78 | [Pesadilla](https://open.spotify.com/track/2jRdBWjexlkEjQNjl6huoM) | [Little Jesus](https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit) | [Norte](https://open.spotify.com/album/3ccENIV5z7jcA7MFTz3Tfw) | 4:55 |
 | 79 | [Exilio](https://open.spotify.com/track/1H93RYiJu5nE7YAfGgO3yJ) | [LeBaron](https://open.spotify.com/artist/6mAJLm084B2XPYIqkt1gj1) | [LeBaron](https://open.spotify.com/album/1ZROHNWumhnNlEzo69ubgb) | 3:34 |
 | 80 | [Mirando a las muchachas](https://open.spotify.com/track/00Z3s0Xw7oE3fgTSZVjEFs) | [Mexican Institute Of Sound](https://open.spotify.com/artist/4TPTW3cTwUtiihgOMSQfmy) | [Méjico Máxico](https://open.spotify.com/album/70WPUwHcJq2pRObNPByUaV) | 4:35 |
 | 81 | [Aló](https://open.spotify.com/track/1bBO92RtVTlJlfxuVaLek8) | [Plastilina Mosh](https://open.spotify.com/artist/4PtVXWSOmF4Tox1jj6ctSq) | [Hola Chicuelos](https://open.spotify.com/album/3MecKdIIiFxEOX9HZNmyZf) | 4:04 |
-| 82 | [Meta y Dinero](https://open.spotify.com/track/7ujlY5tMc64ZA5Igz2FaYi) | [Los Blenders](https://open.spotify.com/artist/19JX619qYCK7xfjaTxzhai) | [Meta y Dinero](https://open.spotify.com/album/5FRhhyIaXmEPloYSFUaYfs) | 2:13 |
-| 83 | [Soun Tha Mi Primer Amor \- Mtv Unplugged \(En Vivo\)](https://open.spotify.com/track/1s36ag5aYkHwoiAUGvZDPM) | [Kinky](https://open.spotify.com/artist/4WOIfFwyvx22jM0eg2fpKv) | [Mtv Unplugged](https://open.spotify.com/album/21BcXV7FQT8LVbqOpRUHJ8) | 3:50 |
+| 82 | [Soun Tha Mi Primer Amor \- Mtv Unplugged \(En Vivo\)](https://open.spotify.com/track/1s36ag5aYkHwoiAUGvZDPM) | [Kinky](https://open.spotify.com/artist/4WOIfFwyvx22jM0eg2fpKv) | [Mtv Unplugged](https://open.spotify.com/album/21BcXV7FQT8LVbqOpRUHJ8) | 3:50 |
+| 83 | [Meta y Dinero](https://open.spotify.com/track/7ujlY5tMc64ZA5Igz2FaYi) | [Los Blenders](https://open.spotify.com/artist/19JX619qYCK7xfjaTxzhai) | [Meta y Dinero](https://open.spotify.com/album/5FRhhyIaXmEPloYSFUaYfs) | 2:13 |
 | 84 | [No vuelvo más](https://open.spotify.com/track/2rpLnBl2ktVU7ZtjgCXGVZ) | [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [Mediocre](https://open.spotify.com/album/268J4Sl3DpX5l7KrxHRv2g) | 4:13 |
 | 85 | [Uno de Esos Días](https://open.spotify.com/track/14Tb6kzWxf8pLPgSJGWggi) | [Ventilader](https://open.spotify.com/artist/7kUKD63HDFP5otOSYEBz0p) | [No Es un Adiós](https://open.spotify.com/album/7l8QCiQTA97JflmEp8xYAn) | 3:11 |
 | 86 | [Si](https://open.spotify.com/track/1LN0Ut0IBHSrx4Urexq8xb) | [Torreblanca](https://open.spotify.com/artist/5sy13x4wGzkhvLeHr4HPEE) | [Bella Época](https://open.spotify.com/album/7HJRr6o6Efu5XJCFNPKtHd) | 3:20 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe4qIBASHIrI.md) - [plain]
 | 99 | [Vámonos](https://open.spotify.com/track/14dxDAiZ1YMfT0s0urR5Zh) | [Súper Tigre](https://open.spotify.com/artist/2k7XXrxlqG3H27BueuiQW3) | [Súper Tigre](https://open.spotify.com/album/6j4jrKSq0iYQ2uhjZGYDs3) | 3:26 |
 | 100 | [Miente](https://open.spotify.com/track/6EN1O6MTvo7QdSivuDy7pR) | [Los Marty](https://open.spotify.com/artist/5seqHZItOVyRw65m6CgiNx) | [Historias De Un Cowboy](https://open.spotify.com/album/3heymgUjbF6Z9o8CGKC8Kg) | 2:46 |
 
-Snapshot ID: `MCw1YmUzMzRmYjM5MmE5OTk1NDU1MzNiMjE3YjhhYjBhODA1Y2VmN2Y3`
+Snapshot ID: `MCxiZGY1MzA2MjZhZjBlM2YzNzU4Yzg0NjVmNjJiYzhlNmUwNTc4MDgz`

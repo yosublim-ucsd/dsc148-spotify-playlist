@@ -1,12 +1,12 @@
 {
   "description": "Lo mejor del pop en espa\u00f1ol. Foto: Manuel Turizo, Lola Indigo",
-  "num_followers": 974642,
+  "num_followers": 974704,
   "original_name": "Pop con \u00d1",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmMTgzZGJmZDk5ZDNhMWVlYmY4MDg3M2M5MGU0YmI0ZTVjOWI3OGY4",
+  "snapshot_id": "MCw2ZDY0ZTMwNWU0MWRjYzVjNzU5NjVkMDA2NzhhY2IzOWM1YjBlNmZj",
   "tracks": [
     {
       "added_at": "2024-03-18 16:10:27",
@@ -483,6 +483,22 @@
     {
       "added_at": "2024-03-18 16:10:27",
       "album": {
+        "name": "boomerang",
+        "url": "https://open.spotify.com/album/29cuKsKKlPn4HJ2Keh3jwD"
+      },
+      "artists": [
+        {
+          "name": "Becky G",
+          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
+        }
+      ],
+      "duration_ms": 138984,
+      "name": "boomerang",
+      "url": "https://open.spotify.com/track/1bcXs0KpBkBW2FGSbmhJGl"
+    },
+    {
+      "added_at": "2024-03-18 16:10:27",
+      "album": {
         "name": "PALANTE",
         "url": "https://open.spotify.com/album/0Ts13cnp7kgWyaSfemKGkA"
       },
@@ -511,22 +527,6 @@
       "duration_ms": 176666,
       "name": "amor de verano",
       "url": "https://open.spotify.com/track/3ACVz5PwPN9P1PC6869Jn6"
-    },
-    {
-      "added_at": "2024-03-18 16:10:27",
-      "album": {
-        "name": "boomerang",
-        "url": "https://open.spotify.com/album/29cuKsKKlPn4HJ2Keh3jwD"
-      },
-      "artists": [
-        {
-          "name": "Becky G",
-          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
-        }
-      ],
-      "duration_ms": 138984,
-      "name": "boomerang",
-      "url": "https://open.spotify.com/track/1bcXs0KpBkBW2FGSbmhJGl"
     },
     {
       "added_at": "2024-03-18 16:10:27",
@@ -695,22 +695,6 @@
     {
       "added_at": "2024-03-18 16:10:27",
       "album": {
-        "name": "Astronauta",
-        "url": "https://open.spotify.com/album/5gHA0EkrBT7yANOSd9AFL6"
-      },
-      "artists": [
-        {
-          "name": "L\u00e9rica",
-          "url": "https://open.spotify.com/artist/4d3kmfoZBTuUPSUjgP45uo"
-        }
-      ],
-      "duration_ms": 169894,
-      "name": "Astronauta",
-      "url": "https://open.spotify.com/track/1J59EJh3hbGZDJD7KfONLz"
-    },
-    {
-      "added_at": "2024-03-18 16:10:27",
-      "album": {
         "name": "Polonia",
         "url": "https://open.spotify.com/album/4h5qALHn8Hf6JdntCluoJJ"
       },
@@ -739,6 +723,22 @@
       "duration_ms": 169721,
       "name": "PETER PAN",
       "url": "https://open.spotify.com/track/4JF5WLz8y7hfTsy5Tpnwwj"
+    },
+    {
+      "added_at": "2024-03-18 16:10:27",
+      "album": {
+        "name": "Astronauta",
+        "url": "https://open.spotify.com/album/5gHA0EkrBT7yANOSd9AFL6"
+      },
+      "artists": [
+        {
+          "name": "L\u00e9rica",
+          "url": "https://open.spotify.com/artist/4d3kmfoZBTuUPSUjgP45uo"
+        }
+      ],
+      "duration_ms": 169894,
+      "name": "Astronauta",
+      "url": "https://open.spotify.com/track/1J59EJh3hbGZDJD7KfONLz"
     },
     {
       "added_at": "2024-03-18 16:10:27",
@@ -863,22 +863,6 @@
     {
       "added_at": "2024-03-18 16:10:27",
       "album": {
-        "name": "TE TRAJE FLORES",
-        "url": "https://open.spotify.com/album/4TFyBwPFFulgy4cPKfeuxA"
-      },
-      "artists": [
-        {
-          "name": "Enol",
-          "url": "https://open.spotify.com/artist/5f7z2thkqWrA4vp5Hh476O"
-        }
-      ],
-      "duration_ms": 177103,
-      "name": "COMO TE QUIERO YO",
-      "url": "https://open.spotify.com/track/5ElBS8iZQYjScNJCtwLXKO"
-    },
-    {
-      "added_at": "2024-03-18 16:10:27",
-      "album": {
         "name": "Pirata",
         "url": "https://open.spotify.com/album/0qNBlTwJDx8h3gfTSBJzYf"
       },
@@ -911,6 +895,22 @@
     {
       "added_at": "2024-03-18 16:10:27",
       "album": {
+        "name": "TE TRAJE FLORES",
+        "url": "https://open.spotify.com/album/4TFyBwPFFulgy4cPKfeuxA"
+      },
+      "artists": [
+        {
+          "name": "Enol",
+          "url": "https://open.spotify.com/artist/5f7z2thkqWrA4vp5Hh476O"
+        }
+      ],
+      "duration_ms": 177103,
+      "name": "COMO TE QUIERO YO",
+      "url": "https://open.spotify.com/track/5ElBS8iZQYjScNJCtwLXKO"
+    },
+    {
+      "added_at": "2024-03-18 16:10:27",
+      "album": {
         "name": "Especial",
         "url": "https://open.spotify.com/album/1qYYKmUgYaoMcEvScUhpLS"
       },
@@ -927,22 +927,6 @@
     {
       "added_at": "2024-03-18 16:10:27",
       "album": {
-        "name": "La buena vida",
-        "url": "https://open.spotify.com/album/15UKPNMN0uDIOAPYcx9sYi"
-      },
-      "artists": [
-        {
-          "name": "Andr\u00e9s Koi",
-          "url": "https://open.spotify.com/artist/52nf6FtXCWlUMJP1GVhiN2"
-        }
-      ],
-      "duration_ms": 178250,
-      "name": "La buena vida",
-      "url": "https://open.spotify.com/track/6izsmJLjlJQF4fYlY5wTih"
-    },
-    {
-      "added_at": "2024-03-18 16:10:27",
-      "album": {
         "name": "All\u00e1 Donde Voy",
         "url": "https://open.spotify.com/album/0szbVCjmV0XYSgxyjV72uu"
       },
@@ -955,6 +939,22 @@
       "duration_ms": 149224,
       "name": "All\u00e1 Donde Voy",
       "url": "https://open.spotify.com/track/0cAixujNFVV5stYiJwjo0g"
+    },
+    {
+      "added_at": "2024-03-18 16:10:27",
+      "album": {
+        "name": "La buena vida",
+        "url": "https://open.spotify.com/album/15UKPNMN0uDIOAPYcx9sYi"
+      },
+      "artists": [
+        {
+          "name": "Andr\u00e9s Koi",
+          "url": "https://open.spotify.com/artist/52nf6FtXCWlUMJP1GVhiN2"
+        }
+      ],
+      "duration_ms": 178250,
+      "name": "La buena vida",
+      "url": "https://open.spotify.com/track/6izsmJLjlJQF4fYlY5wTih"
     }
   ],
   "unique_name": "Pop con \u00d1",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBXtbGSCurj.md) - [plain]
 
 > O Trap brasileiro puro ouro, entre lançamentos e hits\. Foto: Azevedo, Orochi, Shenlong
 
-[Spotify](https://open.spotify.com/user/spotify) - 383,712 likes - 79 songs - 3 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 383,726 likes - 79 songs - 3 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,7 +68,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBXtbGSCurj.md) - [plain]
 | 58 | [10 Carros](https://open.spotify.com/track/2twZl1jsRbJRTNCE6VB6eW) | [Chefin](https://open.spotify.com/artist/68PYmgkbRP1qZnEWOry7sB), [Mainstreet](https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd), [LB Único](https://open.spotify.com/artist/7w1eimo0NMZhuwNZTf4MHY) | [10 Carros](https://open.spotify.com/album/1ZakiImfctMIFKkLNIDlcI) | 2:21 |
 | 59 | [Só 1 Segundo](https://open.spotify.com/track/60f4iuDyG6sOdhxrAlR3vQ) | [Abbot](https://open.spotify.com/artist/1ZcIMjx9kP46pUdFOdjWKQ), [Raffa Moreira](https://open.spotify.com/artist/4xUawweuqhjMvoScRGbveR), [Jay Kay](https://open.spotify.com/artist/1hMrgRIkEemGJWByc74Kki) | [Só 1 Segundo](https://open.spotify.com/album/62rkM3bC0MZ8FWMtkCnGoY) | 2:41 |
 | 60 | [Cara de Atriz](https://open.spotify.com/track/4oFenlmKOtIwmQFZcCHrll) | [MC GP](https://open.spotify.com/artist/5s27i7oqhNWIcE4HeoVdq0), [Orochi](https://open.spotify.com/artist/3rfM2cGqF6DB0kUyytMkXx), [Azevedo](https://open.spotify.com/artist/0wopeyG3WHLoKcmrFD2jrY), [PL Quest](https://open.spotify.com/artist/6J6U2JAv7LUF0cSQ98gpjM) | [Nova Tendência](https://open.spotify.com/album/62cPWetHGQFI0rMsmZV8dS) | 4:13 |
-| 61 | [Ela joga no 7](https://open.spotify.com/track/4ML8zKHATI6s31xmdQD0Qa) | [Tz da Coronel](https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e), [KayBlack](https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy), [Dj Murillo e LT no Beat](https://open.spotify.com/artist/1Zl5Ac1YyOHBkJKInGxbaS), [Cúpula](https://open.spotify.com/artist/6IlN4Mij49rPYznzeOMD1F) | [Dacoromode](https://open.spotify.com/album/0TfnU1Dup2Gu3KU1hnkQ3A) | 3:20 |
+| 61 | [Ela joga no 7](https://open.spotify.com/track/4ML8zKHATI6s31xmdQD0Qa) | [Tz da Coronel](https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e), [MC Ryan SP](https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY), [KayBlack](https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy), [Dj Murillo e LT no Beat](https://open.spotify.com/artist/1Zl5Ac1YyOHBkJKInGxbaS), [Cúpula](https://open.spotify.com/artist/6IlN4Mij49rPYznzeOMD1F) | [Dacoromode](https://open.spotify.com/album/0TfnU1Dup2Gu3KU1hnkQ3A) | 3:20 |
 | 62 | [Imaginando Coisas](https://open.spotify.com/track/2coYmtA0EDUHS7P24CFzcW) | [G.A](https://open.spotify.com/artist/4yFJeWVY6IZLc5KcYCvtBE), [icedmob](https://open.spotify.com/artist/2c6lGDjkOP3A9RsFP4DVrz), [Toledo](https://open.spotify.com/artist/7I4OIWw3Zm4lUmt2QHnz30) | [Imaginando Coisas](https://open.spotify.com/album/19fl2xItHFfkV3zzZtGYXf) | 3:33 |
 | 63 | [Disposição e Atividade](https://open.spotify.com/track/1IZmGrAEkq98MxDQCYhtjJ) | [KayBlack](https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy), [Wall Hein](https://open.spotify.com/artist/5wEgjH2s4SAiffRmzkBqHB), [Caio Passos](https://open.spotify.com/artist/6zGPa2tLMJ5HQYUddZI8di), [Yokame](https://open.spotify.com/artist/4IEFTmI2K5xj488kIn268F) | [Disposição e Atividade](https://open.spotify.com/album/4pEQ7i96Nba9nCoa1VmtUU) | 2:44 |
 | 64 | [Recreio](https://open.spotify.com/track/1Yk9qmlQp0bRGlDOsQXKVV) | [Pedro Lotto](https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm), [Leviano](https://open.spotify.com/artist/0xEdwBYYjxw6wk179Tq2sJ), [2050](https://open.spotify.com/artist/5VwzkQP7ZcksbrUUzh3gji) | [Recreio](https://open.spotify.com/album/6yguR6eafVESER7oUC3bov) | 2:22 |
@@ -88,4 +88,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBXtbGSCurj.md) - [plain]
 | 78 | [Intensa](https://open.spotify.com/track/5OLxcs5h1AKkwUjxLD6XBE) | [Trunks](https://open.spotify.com/artist/6CAOElXrWvhb594GKitCch) | [Intensa](https://open.spotify.com/album/5tXlil0J70qmGO5g5apXwE) | 3:01 |
 | 79 | [Bom Dia pra Nois](https://open.spotify.com/track/6EVf4Rs2TU1Xqhm2z3Uj95) | [Mc Paiva ZS](https://open.spotify.com/artist/0gHj4MPwwcZ8Zl9CY0hqT5), [Gabb MC](https://open.spotify.com/artist/5qyPbwqvOEp7FvR1EeTQQ2), [Dj Aladin GDB](https://open.spotify.com/artist/1IVneWn4g15GupVFKwNdGJ), [Love Funk](https://open.spotify.com/artist/64DTkZLH6KkkMwZEEZ5VWC) | [Bom Dia pra Nois](https://open.spotify.com/album/5ANNU7ijzoscaxpirvjNhp) | 2:44 |
 
-Snapshot ID: `MCwxNWQzMTI5ZTNkZTZlM2E1MTI0OWQ5ZjRlYThmN2E0YjI3MGYyZDc3`
+Snapshot ID: `MCw4MTc2MWZkZjI3MjFlYzRkZjdkMWM4MzI3Mzc0ZDU5YTJmMmQ4MjMx`

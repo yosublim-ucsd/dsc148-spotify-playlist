@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZU5DGR2xCSH.md) - [plain]
 
 > Los abanderados del rock argentino y sus himnos con Fito Paez.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,148,629 likes - 80 songs - 5 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,148,705 likes - 80 songs - 5 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,8 +25,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZU5DGR2xCSH.md) - [plain]
 | 15 | [La Muralla Verde](https://open.spotify.com/track/1qvY1z3Wm3sAYeHfPTnrbI) | [Los Enanitos Verdes](https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR) | [Originales \- 20 Exitos](https://open.spotify.com/album/3AWurTYrtIfp7HwHg48DxV) | 2:41 |
 | 16 | [La parte de adelante](https://open.spotify.com/track/0fHTVPRRKmWaRuIwrsNTMp) | [Andrés Calamaro](https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU) | [Honestidad Brutal](https://open.spotify.com/album/4OZincs6XqlfEuKEFtpq1Y) | 4:21 |
 | 17 | [La Guitarra](https://open.spotify.com/track/6aPoVnA9UDncMyKgTAicsO) | [Los Auténticos Decadentes](https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj) | [Mi Vida Loca](https://open.spotify.com/album/2wV2nY2P5vHYiUNTWWzXj5) | 3:38 |
-| 18 | [Manuel Santillán, el León \(Versión Reggae\) \- Remasterizado 2008](https://open.spotify.com/track/41MfyUSxQoo1BgIsNj8eDS) | [Los Fabulosos Cadillacs](https://open.spotify.com/artist/2FS22haX3FYbyOsUAkuYqZ) | [El León](https://open.spotify.com/album/3ECynr5YW2UuIJFPOGve9H) | 3:57 |
-| 19 | [Un Ángel para Tu Soledad](https://open.spotify.com/track/6kUopck7LHVadAjAFcXiTj) | [Patricio Rey y sus Redonditos de Ricota](https://open.spotify.com/artist/6byQKddO1b34lXC2ZEjehQ) | [Lobo Suelto](https://open.spotify.com/album/1cvN5QA28nC5QYpjoksMGe) | 3:51 |
+| 18 | [Un Ángel para Tu Soledad](https://open.spotify.com/track/6kUopck7LHVadAjAFcXiTj) | [Patricio Rey y sus Redonditos de Ricota](https://open.spotify.com/artist/6byQKddO1b34lXC2ZEjehQ) | [Lobo Suelto](https://open.spotify.com/album/1cvN5QA28nC5QYpjoksMGe) | 3:51 |
+| 19 | [Manuel Santillán, el León \(Versión Reggae\) \- Remasterizado 2008](https://open.spotify.com/track/41MfyUSxQoo1BgIsNj8eDS) | [Los Fabulosos Cadillacs](https://open.spotify.com/artist/2FS22haX3FYbyOsUAkuYqZ) | [El León](https://open.spotify.com/album/3ECynr5YW2UuIJFPOGve9H) | 3:57 |
 | 20 | [En La Ciudad De La Furia \- Remasterizado 2007](https://open.spotify.com/track/7J2885UBOaG6x3LLkp2YGf) | [Soda Stereo](https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp) | [Doble Vida \(Remastered\)](https://open.spotify.com/album/0mEY1U7SZdIwDWylFm2UC4) | 5:46 |
 | 21 | [Puente](https://open.spotify.com/track/6gwaa6ElIixNTvu6RwkMyo) | [Gustavo Cerati](https://open.spotify.com/artist/1QOmebWGB6FdFtW7Bo3F0W) | [Bocanada](https://open.spotify.com/album/2rIdWbXPjcq8K7BCccBhhC) | 4:33 |
 | 22 | [Nos Siguen Pegando Abajo](https://open.spotify.com/track/4VikOud5ZmdmHH6h7uQeDB) | [Charly García](https://open.spotify.com/artist/3jO7X5KupvwmWTHGtHgcgo) | [Clics Modernos](https://open.spotify.com/album/3OyBf97NOuJjhEpQHY920H) | 3:26 |
@@ -57,7 +57,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZU5DGR2xCSH.md) - [plain]
 | 47 | [Bajan](https://open.spotify.com/track/6hmYi0E6EBEmDeztQHaH0C) | [Pescado Rabioso](https://open.spotify.com/artist/3q1NXsv9XypOUCJfEatXH9) | [Artaud](https://open.spotify.com/album/5MJR9j21vjEi4ODxzhvoTA) | 3:24 |
 | 48 | [Los Calientes](https://open.spotify.com/track/7L2arBxHMxVXbWQzaHKgnY) | [Babasónicos](https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2) | [Jessico](https://open.spotify.com/album/2VMsGuuC4CDcyZ8qp7njWh) | 4:37 |
 | 49 | [Crímenes perfectos](https://open.spotify.com/track/6guoJhM9n5Fm7npXJ1rfsM) | [Andrés Calamaro](https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU) | [Alta Suciedad](https://open.spotify.com/album/44D07i1Lk0zFtWHRARMih6) | 4:24 |
-| 50 | [El Farolito](https://open.spotify.com/track/5QpdTr2fHXLF0Oj8TcGHmV) | [Los Piojos](https://open.spotify.com/artist/0SnyKkoyBaB2fG8IJH4xmU) | [3er Arco](https://open.spotify.com/album/2tqxwMkehDRiz4gErUNZ0Q) | 4:13 |
+| 50 | [Como Alí](https://open.spotify.com/track/3yJKzKUDLo65qDDBDZm9im) | [Los Piojos](https://open.spotify.com/artist/0SnyKkoyBaB2fG8IJH4xmU) | [Máquina de Sangre](https://open.spotify.com/album/5kCM1EfwsAr8VuV7OS5zLL) | 3:31 |
 | 51 | [La Razón Que Te Demora](https://open.spotify.com/track/0ljyHIWERJQp8O5LKgKm1l) | [La Renga](https://open.spotify.com/artist/30fEdZPXgWfC4sNttcyB3C) | [Detonador de Sueños](https://open.spotify.com/album/7hHY77bNkcPikVZpC91hvZ) | 4:24 |
 | 52 | [Sr\. Cobranza](https://open.spotify.com/track/0zXMZx9kvFO6x58JiIh4BJ) | [Bersuit Vergarabat](https://open.spotify.com/artist/6MxyNXnnmwQwdW2PD0gXYO) | [Libertinaje](https://open.spotify.com/album/4jvy4EtQG6BrW2FZewSZri) | 4:19 |
 | 53 | [La Calle Es Su Lugar](https://open.spotify.com/track/0u5w3ehyNtTgSPvKVMU2xv) | [GIT](https://open.spotify.com/artist/21o0KNjooi1XjygW6V70NM) | [Vol I](https://open.spotify.com/album/3MMn99oMe2maysD6Vq441s) | 4:26 |
@@ -68,7 +68,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZU5DGR2xCSH.md) - [plain]
 | 58 | [Demasiada Presión \- Remasterizado 2008](https://open.spotify.com/track/1CwyfupBufLXfYdPr8LhDF) | [Los Fabulosos Cadillacs](https://open.spotify.com/artist/2FS22haX3FYbyOsUAkuYqZ) | [Los Fabulosos Cadillacs \- Vol\. V](https://open.spotify.com/album/5yv3ZFKygQ7PtOe91V8H1L) | 4:12 |
 | 59 | [No Tan Distintos](https://open.spotify.com/track/05j96TmQibUyoaUAlxMW81) | [Sumo](https://open.spotify.com/artist/10AzTrYMPVVmpKoBP5bX9W) | [After Chabon](https://open.spotify.com/album/721cIV4PIWZSK5nZaYPvFy) | 2:40 |
 | 60 | [Yo Caníbal](https://open.spotify.com/track/4RqTK17MElLFiriBi9ysyU) | [Patricio Rey y sus Redonditos de Ricota](https://open.spotify.com/artist/6byQKddO1b34lXC2ZEjehQ) | [Cordero Atado](https://open.spotify.com/album/3zUMPvVgeOb3Fx9SmTCU4m) | 2:56 |
-| 61 | [Como Alí](https://open.spotify.com/track/3yJKzKUDLo65qDDBDZm9im) | [Los Piojos](https://open.spotify.com/artist/0SnyKkoyBaB2fG8IJH4xmU) | [Máquina de Sangre](https://open.spotify.com/album/5kCM1EfwsAr8VuV7OS5zLL) | 3:31 |
+| 61 | [El Farolito](https://open.spotify.com/track/5QpdTr2fHXLF0Oj8TcGHmV) | [Los Piojos](https://open.spotify.com/artist/0SnyKkoyBaB2fG8IJH4xmU) | [3er Arco](https://open.spotify.com/album/2tqxwMkehDRiz4gErUNZ0Q) | 4:13 |
 | 62 | [Mi enfermedad](https://open.spotify.com/track/46bGEqzd7anKKovVOZ9bTF) | [Fabiana Cantilo](https://open.spotify.com/artist/5R6YR0pasdxlynyq0Abq7x) | [Algo mejor](https://open.spotify.com/album/2KaHfFLmbhkHQtMAEixycQ) | 3:21 |
 | 63 | [Es Por Amor](https://open.spotify.com/track/7cwtDwkH0PHHQmfbkZM8Ox) | [GIT](https://open.spotify.com/artist/21o0KNjooi1XjygW6V70NM) | [GIT, El Album](https://open.spotify.com/album/7Hg6EdwBShAdwAfUy4fFDN) | 5:13 |
 | 64 | [Imágenes Paganas](https://open.spotify.com/track/6hiXQhwO98tEbNNbWtNS1Y) | [Virus](https://open.spotify.com/artist/0G7A5LzQAs2egiQl7hO5tV) | [Vivo](https://open.spotify.com/album/7byqd7hsiFnu2cd4LQPlBm) | 4:29 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZU5DGR2xCSH.md) - [plain]
 | 79 | [Barro Tal Vez](https://open.spotify.com/track/1y96w7WDPlwByq9aISEi6G) | [Luis Alberto Spinetta](https://open.spotify.com/artist/1MuQ2m2tg7naeRGAOxYZer) | [Kamikaze](https://open.spotify.com/album/3mUwlh7aK2PHj8aUrI9Nyt) | 3:17 |
 | 80 | [Y Mientras Tanto el Sol Se Muere...](https://open.spotify.com/track/2KVK9tv3rKSYmPV1U5Pxqv) | [Indio Solari](https://open.spotify.com/artist/0nUGkxUncFeXt0Dr0hhrc4), [Los Fundamentalistas del Aire Acondicionado](https://open.spotify.com/artist/1SKA2QwV2fwGgoMlx16FXO) | [Porco Rex](https://open.spotify.com/album/2nT2LHBP43vxzj9iYG0y6e) | 4:00 |
 
-Snapshot ID: `MCxmMmJiNThjZTRmOGIzZmNjOWUxYjdkY2IzZDdiNDE1ODc3ZDY0MDI0`
+Snapshot ID: `MCxhMWE4NmJkODkxZmM0NTE4YzExNTQ3NGMyMzNhNmFlNzE0YTRjY2E3`

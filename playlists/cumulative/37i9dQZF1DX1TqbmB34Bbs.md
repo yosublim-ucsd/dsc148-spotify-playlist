@@ -2,9 +2,9 @@
 
 ### [K\`illin'](https://open.spotify.com/playlist/37i9dQZF1DX1TqbmB34Bbs)
 
-> Illest hardcore K\-hip hop tracks are here\. \(Cover: Daniel Jikal\(다니엘 지칼\)\) \(공격력 상승 국내 힙합을 즐겨보세요!\)
+> Illest hardcore K\-hip hop tracks are here\. \(Cover: YOUNG POSSE\(영파씨\)\) \(공격력 상승 국내 힙합을 즐겨보세요!\)
 
-1,140 songs - 2 day 15 hr 16 min
+1,141 songs - 2 day 15 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -535,7 +535,7 @@
 | [LA 2 Korea](https://open.spotify.com/track/08vKw643VWQX8mFj9u2PVZ) | [Los](https://open.spotify.com/artist/396SgLoc5TB6oqatyTy2HD), [Tiger JK](https://open.spotify.com/artist/11S00dFcvNvJahis8MTGMD) | [SKANDALOUZ](https://open.spotify.com/album/3UvvXvP68TK09ZaAkQhOQn) | 2:30 | 2022-05-31 | 2022-07-26 |
 | [La Décima \(feat\. Han Yo Han\)](https://open.spotify.com/track/4bsRHAHrF7nFKBQq16cCO0) | [Huckleberry P](https://open.spotify.com/artist/4meeMnr8eLacsB31ApsXZS), [Han Yo Han](https://open.spotify.com/artist/0yHrFzi7dWriMWhB5XA99P) | [La Décima \(feat\. Han Yo Han\)](https://open.spotify.com/album/780snqrBDfYeT7erzYwSMo) | 4:27 | 2022-06-03 | 2022-07-13 |
 | [Lambo! \(feat\. UNEDUCATED KID\)](https://open.spotify.com/track/4KZRjOEqgMzgFW9NXj13XH) | [Mirani](https://open.spotify.com/artist/6N7b9mUVwn885jI7RRg8no), [Uneducated Kid](https://open.spotify.com/artist/08KbKkPqaYNFYM9R5eMjuM) | [Lambo! \(feat\. UNEDUCATED KID\)](https://open.spotify.com/album/4ZdXxDm2dWIYYWuPu3v2r5) | 3:09 | 2022-06-03 | 2022-12-18 |
-| [LANGUAGE \(feat\. BOBBY\)](https://open.spotify.com/track/05Wr1iNSvrliYhjxux5fzS) | [MINO](https://open.spotify.com/artist/3ytV7vc4ZuwGgwaOuWvkk8), [BOBBY](https://open.spotify.com/artist/7ieMQQDR0bdBPz572mtxwS) | ["TO INFINITY."](https://open.spotify.com/album/6eI4DPjksFdwHechiE51vy) | 3:07 | 2022-05-28 |  |
+| [LANGUAGE \(feat\. BOBBY\)](https://open.spotify.com/track/05Wr1iNSvrliYhjxux5fzS) | [MINO](https://open.spotify.com/artist/3ytV7vc4ZuwGgwaOuWvkk8), [BOBBY](https://open.spotify.com/artist/7ieMQQDR0bdBPz572mtxwS) | ["TO INFINITY."](https://open.spotify.com/album/6eI4DPjksFdwHechiE51vy) | 3:07 | 2022-05-28 | 2024-03-21 |
 | [Last Name Goo](https://open.spotify.com/track/1y57deGTFllTZvSxkTC24E) | [RB NINE](https://open.spotify.com/artist/79tuyMDO42MRFpm8gOXn7p) | [Rich Bourne NINE](https://open.spotify.com/album/2N9r9X7qIaEBDCFpx0J6W1) | 2:26 | 2023-01-10 | 2023-01-18 |
 | [Last Sword Dance \(Feat\. Koonta\)](https://open.spotify.com/track/5lRbrmGzrBFqDRNS95yY9l) | [Gwangil Jo](https://open.spotify.com/artist/49cCO8Hy5heGnXj9hb6KEW), [KOONTA](https://open.spotify.com/artist/5T8LKv9A1vEnwMCO4dMo3c) | [Webtoon 'Return of the Blossoming Blade' Part\. 1 \(Original Soundtrack\)](https://open.spotify.com/album/3YQ7TbgFOVsiWt3nneBhFm) | 3:27 | 2022-08-12 | 2024-01-31 |
 | [Late bloomer \(Feat\. Chaboom\)](https://open.spotify.com/track/4rYUb9x0uYJPOUXUFNO0T8) | [Leebido](https://open.spotify.com/artist/3h0t67IoFBtIdIlu1olytq), [Chaboom](https://open.spotify.com/artist/0c8Qflq0lTE9LhXcdNZrEG) | [Made In Abyss](https://open.spotify.com/album/7M49qfHpfTymOhydpMbk4x) | 3:17 | 2022-06-03 | 2022-06-16 |
@@ -1099,6 +1099,7 @@
 | [WUMEI CLUB](https://open.spotify.com/track/5FDBsZeZ6DfGOWovRDTKsY) | [VMC](https://open.spotify.com/artist/1kecWOuCkI3lKzOJWm0Z71), [Wutan](https://open.spotify.com/artist/6X4GGufs8OhbUC1fy1xuUn), [Don Mills](https://open.spotify.com/artist/6bIsFWNkjQvSm5P4rqlxKn), [Nucksal](https://open.spotify.com/artist/6v5cGuRCZKq08nLI4WXJuB), [BIGONE](https://open.spotify.com/artist/0bQhUyXffQjkd6horP6fKX), [Babynine](https://open.spotify.com/artist/2QEDMAhOGTBxGmD61zyjWW), [Odee](https://open.spotify.com/artist/6cXolDFPOgf0wuRe5kMPxo) | [VISTY BOYZ](https://open.spotify.com/album/1PkQPgrpoS0rvslsQSQiyZ) | 4:18 | 2023-02-16 | 2023-03-14 |
 | [X](https://open.spotify.com/track/3mJnYavSkAneaMiP2B5oLP) | [PENOMECO](https://open.spotify.com/artist/1MAUqH0haKBYbjpknTfreY) | [\[ Rorschach \] Part 2](https://open.spotify.com/album/1NC8ddXkrZkHcmiuxT1sZX) | 4:00 | 2023-06-20 |  |
 | [XXK NEXT LEVEL \(FEAT\. XXK\)](https://open.spotify.com/track/7uHsbOp7Ktpw5LD2jvqN6c) | [Skyminhyuk](https://open.spotify.com/artist/1SHIOlNm9pVZ7EzO9322AM), [XXK](https://open.spotify.com/artist/5zoRhVqlUYZLtqmX80wckL) | [LIBERATION](https://open.spotify.com/album/5U3i7JRnUKtJqylZfFpTXh) | 3:07 | 2023-10-03 | 2023-10-17 |
+| [XXL](https://open.spotify.com/track/05QXjyZgsAq6J84J6SlbyV) | [YOUNG POSSE](https://open.spotify.com/artist/5bxwvIM9PX0CkpS6f1L2Ff) | [XXL EP](https://open.spotify.com/album/0EbH9upNSg6zsdFZ8g11Yl) | 2:32 | 2024-03-20 |  |
 | [ya aint gang](https://open.spotify.com/track/2GSbSyOcbRvhMhkRWuUvVp) | [Simon Dominic](https://open.spotify.com/artist/57W9ikVc6O2wLDtmclSjvN), [JayAllDay](https://open.spotify.com/artist/3tCFRVyQtXCCDS2em4V8wv), [SIMO \(MA\)](https://open.spotify.com/artist/39MB8aR2PLgL5KoHIQ2VV1) | [No Open Flames](https://open.spotify.com/album/1426VraRvdBSqtGRfkcKze) | 4:00 | 2022-05-31 | 2022-07-23 |
 | [YAMANGKKUN Freestyle](https://open.spotify.com/track/1SVz0YRgNdoMNYX8MEOLrb) | [ZENE THE ZILLA](https://open.spotify.com/artist/1MMbv4LTpwbh2APtXuwaZN), [SUPERBEE](https://open.spotify.com/artist/0Q5XzDpn7DCI5jlubok4xb), [DJ Wegun](https://open.spotify.com/artist/7p552gLGzaDKXB5sETgTEP) | [YAMANGKKUN](https://open.spotify.com/album/2PIJtqEPdEL81wsf9O2TKl) | 2:49 | 2022-06-03 | 2022-06-29 |
 | [YANGHWA \(feat\. Soulman\)](https://open.spotify.com/track/231A5yOKWL741kSpcuPvdP) | [DEEPFLOW](https://open.spotify.com/artist/4E7PyG6Vo26X1I9qURf45z), [Soulman](https://open.spotify.com/artist/2byXk8UtNJKEyt9qHnd7SH) | [YANGHWA](https://open.spotify.com/album/2MUW5FYsnyWRAL2j6zc9hL) | 4:42 | 2023-02-16 | 2023-03-14 |

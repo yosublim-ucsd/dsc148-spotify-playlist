@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0CFC9y.md) - [plain]
 
 > This is AFI\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,608 likes - 50 songs - 2 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,622 likes - 50 songs - 2 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,11 +18,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0CFC9y.md) - [plain]
 | 8 | [The Days Of The Phoenix](https://open.spotify.com/track/7oSQG8KgYbrcR2kgwUD9SU) | [AFI](https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz) | [The Art Of Drowning](https://open.spotify.com/album/3x1951P584xqRUW7KdLs6A) | 3:27 |
 | 9 | [Love Like Winter](https://open.spotify.com/track/3cDE9Yn4GrsxSrlMCLdmTT) | [AFI](https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz) | [DECEMBERUNDERGROUND](https://open.spotify.com/album/1XcA7EEpVRg3FpVbhWu9JV) | 2:45 |
 | 10 | [Silver And Cold](https://open.spotify.com/track/6RGV97HIkgZJjme2dzilfg) | [AFI](https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz) | [Sing The Sorrow](https://open.spotify.com/album/1eIzVBHA5NvX0wo2nLACew) | 4:10 |
-| 11 | [Medicate](https://open.spotify.com/track/42vwak6ZIFMscDhRB3S52z) | [AFI](https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz) | [Crash Love \(Deluxe\)](https://open.spotify.com/album/3bvsBOFhdRGsvEwIdRoWZz) | 4:20 |
+| 11 | [He Who Laughs Last...](https://open.spotify.com/track/6UozCMoPjXvjj6z6sEnqgr) | [AFI](https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz) | [Very Proud of Ya](https://open.spotify.com/album/4dYattOOIsbTMixAt7eZ0a) | 1:50 |
 | 12 | [The Lost Souls](https://open.spotify.com/track/2yQkmsZyxw99iNzgbbkuOn) | [AFI](https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz) | [The Art Of Drowning](https://open.spotify.com/album/3x1951P584xqRUW7KdLs6A) | 2:42 |
 | 13 | [Summer Shudder](https://open.spotify.com/track/55BYnMUhDNtRo4HLvay6hk) | [AFI](https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz) | [DECEMBERUNDERGROUND](https://open.spotify.com/album/1XcA7EEpVRg3FpVbhWu9JV) | 3:06 |
 | 14 | [The Leaving Song Pt\. II](https://open.spotify.com/track/7rFhh71IiBfOCM4EhMwuEb) | [AFI](https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz) | [Sing The Sorrow](https://open.spotify.com/album/1eIzVBHA5NvX0wo2nLACew) | 3:31 |
-| 15 | [He Who Laughs Last...](https://open.spotify.com/track/6UozCMoPjXvjj6z6sEnqgr) | [AFI](https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz) | [Very Proud of Ya](https://open.spotify.com/album/4dYattOOIsbTMixAt7eZ0a) | 1:50 |
+| 15 | [Medicate](https://open.spotify.com/track/42vwak6ZIFMscDhRB3S52z) | [AFI](https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz) | [Crash Love \(Deluxe\)](https://open.spotify.com/album/3bvsBOFhdRGsvEwIdRoWZz) | 4:20 |
 | 16 | [I Wanna Get A Mohawk \(But Mom Won't Let Me Get One\)](https://open.spotify.com/track/1RlIa3ho39v23Bs9tWbrCN) | [AFI](https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz) | [Answer That And Stay Fashionable](https://open.spotify.com/album/0KqMA5Ul8nyvSXoj5BC8BR) | 1:12 |
 | 17 | [Kill Caustic](https://open.spotify.com/track/1g3GsYGMF9veVHh1sZn6me) | [AFI](https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz) | [DECEMBERUNDERGROUND](https://open.spotify.com/album/1XcA7EEpVRg3FpVbhWu9JV) | 2:39 |
 | 18 | [This Celluloid Dream](https://open.spotify.com/track/46Y9yh2KxmtodypW4bCp6v) | [AFI](https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz) | [Sing The Sorrow](https://open.spotify.com/album/1eIzVBHA5NvX0wo2nLACew) | 4:10 |
@@ -51,12 +51,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0CFC9y.md) - [plain]
 | 41 | [Perfect Fit](https://open.spotify.com/track/4HZOxAJRr86gp0HmyiAUSB) | [AFI](https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz) | [Very Proud of Ya](https://open.spotify.com/album/4dYattOOIsbTMixAt7eZ0a) | 1:58 |
 | 42 | [I Hope You Suffer](https://open.spotify.com/track/1bl434nynICAlETvh9kf4e) | [AFI](https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz) | [Burials](https://open.spotify.com/album/3pvmZwuBBm8Tt6NXDJkl14) | 4:37 |
 | 43 | [Exsanguination](https://open.spotify.com/track/6OdabvInaZXWONggJSLncn) | [AFI](https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz) | [Black Sails In The Sunset](https://open.spotify.com/album/05vHKNdCinN1q1emA34zNY) | 2:48 |
-| 44 | [Keeping Out Of Direct Sunlight \(An Introduction\)](https://open.spotify.com/track/3BCOkZIixxoz478EDfVr1Z) | [AFI](https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz) | [Shut Your Mouth And Open Your Eyes](https://open.spotify.com/album/29vCfkN4H8HTljOKC2aKgB) | 0:58 |
-| 45 | [Two Of A Kind](https://open.spotify.com/track/2dHVJ38uK5AmAyl06MSBx6) | [AFI](https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz) | [Answer That And Stay Fashionable](https://open.spotify.com/album/0KqMA5Ul8nyvSXoj5BC8BR) | 1:29 |
+| 44 | [Two Of A Kind](https://open.spotify.com/track/2dHVJ38uK5AmAyl06MSBx6) | [AFI](https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz) | [Answer That And Stay Fashionable](https://open.spotify.com/album/0KqMA5Ul8nyvSXoj5BC8BR) | 1:29 |
+| 45 | [Keeping Out Of Direct Sunlight \(An Introduction\)](https://open.spotify.com/track/3BCOkZIixxoz478EDfVr1Z) | [AFI](https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz) | [Shut Your Mouth And Open Your Eyes](https://open.spotify.com/album/29vCfkN4H8HTljOKC2aKgB) | 0:58 |
 | 46 | [Still A Stranger](https://open.spotify.com/track/1HaO9YHxYtAtvNcyBidxqE) | [AFI](https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz) | [AFI \(The Blood Album\)](https://open.spotify.com/album/48SrarUhE6csdPsGbTAgEl) | 2:49 |
 | 47 | [Strength Through Wounding](https://open.spotify.com/track/6I3ICkKo3D5oOPitKYZS65) | [AFI](https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz) | [Black Sails In The Sunset](https://open.spotify.com/album/05vHKNdCinN1q1emA34zNY) | 1:33 |
 | 48 | [Far Too Near](https://open.spotify.com/track/6AW7A6Z0HPhR5aO6k0zvtz) | [AFI](https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz) | [Bodies](https://open.spotify.com/album/4TzAos9wqaw4j3cnE0yhr3) | 2:48 |
 | 49 | [Trash Bat](https://open.spotify.com/track/5UCqBBx9IGx47H6ajPf1Dz) | [AFI](https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz) | [Trash Bat](https://open.spotify.com/album/0K3uis69NoWrhvqurTc8mp) | 2:07 |
 | 50 | [Theory Of Revolution](https://open.spotify.com/track/5yhWV20xvItcKmScyhJsz1) | [AFI](https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz) | [Very Proud of Ya](https://open.spotify.com/album/4dYattOOIsbTMixAt7eZ0a) | 1:32 |
 
-Snapshot ID: `Mjg1MTQxOTUsMDAwMDAwMDBkZDg5MjgwYzYwNTM2ZGNkMzdjMGZiZjI0ZmY3MWNlNw==`
+Snapshot ID: `Mjg1MTU2NjEsMDAwMDAwMDBhM2Q5MDdhMzk0ZjUyYmJhMTE0NDgxNTI3YTk3ZjQ1YQ==`

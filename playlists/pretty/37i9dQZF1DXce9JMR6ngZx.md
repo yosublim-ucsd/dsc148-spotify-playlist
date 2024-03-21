@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXce9JMR6ngZx.md) - [plain]
 
 > Grandes sucessos dos anos 80 para te acompanhar na faxina!
 
-[Spotify](https://open.spotify.com/user/spotify) - 211,310 likes - 100 songs - 7 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 211,342 likes - 100 songs - 7 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -97,16 +97,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXce9JMR6ngZx.md) - [plain]
 | 87 | [Just Can't Get Enough \- 2006 Remaster](https://open.spotify.com/track/0xuXRQJfxmdP6gvfDe2Z4L) | [Depeche Mode](https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX) | [Speak & Spell \(2006 Remaster\)](https://open.spotify.com/album/0ntg4L6zjosDII94zoyboq) | 3:42 |
 | 88 | [Papa Don't Preach](https://open.spotify.com/track/6A8OnjnpShshNpcqWtZRjr) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [True Blue](https://open.spotify.com/album/6fmnT17jc2Sc69q3nza1eD) | 4:28 |
 | 89 | [Money for Nothing](https://open.spotify.com/track/4yqtwO7MQIIXqoiRBPHAgR) | [Dire Straits](https://open.spotify.com/artist/0WwSkZ7LtFUFjGjMZBMt6T) | [Brothers in Arms](https://open.spotify.com/album/7jvcSnCnugLcisBCNBm60s) | 8:26 |
-| 90 | [Menina Veneno](https://open.spotify.com/track/6qlb3j0zGqEe6uWJpQZGxP) | [Ritchie](https://open.spotify.com/artist/4KWRrTJoM6MhOq3UTYctJV) | [Vôo de Coração](https://open.spotify.com/album/2folhiorW4UtZhloQOUqZt) | 4:41 |
-| 91 | [O Descobridor Dos Sete Mares](https://open.spotify.com/track/6wpDQGn3Gl0j9Wt6D6mYvQ) | [Tim Maia](https://open.spotify.com/artist/0jOs0wnXCu1bGGP7kh5uIu) | [O Descobridor Dos Sete Mares](https://open.spotify.com/album/7Ff0Q5oeEoVKHtxJJoXyId) | 4:25 |
+| 90 | [O Descobridor Dos Sete Mares](https://open.spotify.com/track/6wpDQGn3Gl0j9Wt6D6mYvQ) | [Tim Maia](https://open.spotify.com/artist/0jOs0wnXCu1bGGP7kh5uIu) | [O Descobridor Dos Sete Mares](https://open.spotify.com/album/7Ff0Q5oeEoVKHtxJJoXyId) | 4:25 |
+| 91 | [Menina Veneno](https://open.spotify.com/track/6qlb3j0zGqEe6uWJpQZGxP) | [Ritchie](https://open.spotify.com/artist/4KWRrTJoM6MhOq3UTYctJV) | [Vôo de Coração](https://open.spotify.com/album/2folhiorW4UtZhloQOUqZt) | 4:41 |
 | 92 | [Pride \(In The Name Of Love\) \- Remastered 2009](https://open.spotify.com/track/3dh2LlmeMqKJbzn2WUgt3d) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [The Unforgettable Fire \(Remastered\)](https://open.spotify.com/album/3FFosIE1A9HGRrinKTcBQ3) | 3:48 |
 | 93 | [Rhythm Of The Night](https://open.spotify.com/track/5yGTQzYbEdY6B9RFZJypgt) | [DeBarge](https://open.spotify.com/artist/6is2U7I1jlI8PjxNZOHIMV) | [Rhythm Of The Night](https://open.spotify.com/album/13xiHt25Hn4WZ6OLzhK1n8) | 3:49 |
-| 94 | [Let's Dance \- 2002 Remaster](https://open.spotify.com/track/4cVHMHgmWgudD399ZdhQ3L) | [David Bowie](https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy) | [Let's Dance](https://open.spotify.com/album/5FDIw0ifQrQp63uhTelMVJ) | 4:07 |
-| 95 | [Save a Prayer \- 2009 Remaster](https://open.spotify.com/track/1ff8lsrJ2kuZuofMw81EQo) | [Duran Duran](https://open.spotify.com/artist/0lZoBs4Pzo7R89JM9lxwoT) | [Rio \(Collector's Edition\)](https://open.spotify.com/album/02tfQwJSOLP77oCd9U8bqm) | 5:33 |
+| 94 | [Save a Prayer \- 2009 Remaster](https://open.spotify.com/track/1ff8lsrJ2kuZuofMw81EQo) | [Duran Duran](https://open.spotify.com/artist/0lZoBs4Pzo7R89JM9lxwoT) | [Rio \(Collector's Edition\)](https://open.spotify.com/album/02tfQwJSOLP77oCd9U8bqm) | 5:33 |
+| 95 | [Let's Dance \- 2002 Remaster](https://open.spotify.com/track/4cVHMHgmWgudD399ZdhQ3L) | [David Bowie](https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy) | [Let's Dance](https://open.spotify.com/album/5FDIw0ifQrQp63uhTelMVJ) | 4:07 |
 | 96 | [Close to Me \- 2006 Remaster](https://open.spotify.com/track/7ABE6G4uQxbNtYgVrpBBPA) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [The Head on the Door](https://open.spotify.com/album/6HhpmJekzDCRu2K64ZbWqw) | 3:23 |
-| 97 | [The Boy with the Thorn in His Side \- 2011 Remaster](https://open.spotify.com/track/6s1lXoCa6EmIGnr0GrwcJp) | [The Smiths](https://open.spotify.com/artist/3yY2gUcIsjMr8hjo51PoJ8) | [The Queen Is Dead](https://open.spotify.com/album/5Y0p2XCgRRIjna91aQE8q7) | 3:16 |
+| 97 | [Holiday](https://open.spotify.com/track/3ibAzRj9JnowdoLkyllk3n) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Madonna](https://open.spotify.com/album/5lrlWKjNY0eTDXp9Bd3LpW) | 3:51 |
 | 98 | [Walk of Life](https://open.spotify.com/track/423o3ZHIaBtGXyhF1uH41a) | [Dire Straits](https://open.spotify.com/artist/0WwSkZ7LtFUFjGjMZBMt6T) | [Brothers in Arms](https://open.spotify.com/album/7jvcSnCnugLcisBCNBm60s) | 4:12 |
-| 99 | [Holiday](https://open.spotify.com/track/3ibAzRj9JnowdoLkyllk3n) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Madonna](https://open.spotify.com/album/5lrlWKjNY0eTDXp9Bd3LpW) | 3:51 |
+| 99 | [The Boy with the Thorn in His Side \- 2011 Remaster](https://open.spotify.com/track/6s1lXoCa6EmIGnr0GrwcJp) | [The Smiths](https://open.spotify.com/artist/3yY2gUcIsjMr8hjo51PoJ8) | [The Queen Is Dead](https://open.spotify.com/album/5Y0p2XCgRRIjna91aQE8q7) | 3:16 |
 | 100 | [Bete Balanço](https://open.spotify.com/track/0SrDqCmn2ClzEzNkAZYc2Y) | [Barão Vermelho](https://open.spotify.com/artist/5zq0SGWxrmzpTSXkBEQzMj) | [Maior Abandonado](https://open.spotify.com/album/6k3oXZh66IHJ9EznRhC9kR) | 3:33 |
 
-Snapshot ID: `MCwyN2ZmYzFhMDRjYWM1Y2I5ZmNkODJmYTFlMDAyZDlhNDNlYjIyNDlh`
+Snapshot ID: `MCxjNmUxNmNjN2M5ZDM3MjlmNDkxOWNjNWQ1ZTcxNzEzZTYzNzY4ZDcz`

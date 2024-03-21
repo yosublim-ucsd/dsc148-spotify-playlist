@@ -1,12 +1,12 @@
 {
   "description": "Lo nuevo del mundo tropical. Cover: Gaby Zambrano",
-  "num_followers": 251692,
+  "num_followers": 251693,
   "original_name": "el nuevo tropical",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwY2RkOWVkNjA2MDY5NTAzMTMzOGVhYjBkN2YwNDRhMTVmMmJiYTIz",
+  "snapshot_id": "MCxiZDNhYjY4MmQwZWJmMzdmN2E4NDZjNTFiMGU3ZGM5ZmE5OThjZTU1",
   "tracks": [
     {
       "added_at": "2024-03-19 20:31:07",
@@ -723,22 +723,6 @@
     {
       "added_at": "2024-03-19 20:31:07",
       "album": {
-        "name": "Estrellita",
-        "url": "https://open.spotify.com/album/0dSbNOBz88REk7f8SBGXDW"
-      },
-      "artists": [
-        {
-          "name": "Zhamira Zambrano",
-          "url": "https://open.spotify.com/artist/2IdDxiUkjLI0WfypRO1Rh3"
-        }
-      ],
-      "duration_ms": 157377,
-      "name": "Estrellita",
-      "url": "https://open.spotify.com/track/7wv09FSKH9ZBqXkNRKBony"
-    },
-    {
-      "added_at": "2024-03-19 20:31:07",
-      "album": {
         "name": "El Amor De Mi Vida",
         "url": "https://open.spotify.com/album/2RPuxZNaziqNHjbUgoE8iW"
       },
@@ -755,6 +739,22 @@
       "duration_ms": 184586,
       "name": "El Amor De Mi Vida",
       "url": "https://open.spotify.com/track/04sktg3deiYUweHfbFUZTM"
+    },
+    {
+      "added_at": "2024-03-19 20:31:07",
+      "album": {
+        "name": "Estrellita",
+        "url": "https://open.spotify.com/album/0dSbNOBz88REk7f8SBGXDW"
+      },
+      "artists": [
+        {
+          "name": "Zhamira Zambrano",
+          "url": "https://open.spotify.com/artist/2IdDxiUkjLI0WfypRO1Rh3"
+        }
+      ],
+      "duration_ms": 157377,
+      "name": "Estrellita",
+      "url": "https://open.spotify.com/track/7wv09FSKH9ZBqXkNRKBony"
     },
     {
       "added_at": "2024-03-19 20:31:07",

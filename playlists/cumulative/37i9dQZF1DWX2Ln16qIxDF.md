@@ -4,7 +4,7 @@
 
 > Ariana Grande está en el Top 🔥
 
-396 songs - 20 hr 17 min
+397 songs - 20 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -82,7 +82,8 @@
 | [Corazón Roto \- Remix](https://open.spotify.com/track/6k5wiT5l9DK8iZmhvEvoqo) | [Brray](https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ), [Jhayco](https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1), [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz) | [Corazón Roto \(Remix\)](https://open.spotify.com/album/6tt4TtcglWQFVSI0AGUvEF) | 4:35 | 2023-07-04 | 2024-03-02 |
 | [Corazón Roto pt\. 3](https://open.spotify.com/track/3LzAFrnO7CxaeBgtQhHsAP) | [Brray](https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66), [Chencho Corleone](https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU), [Jhayco](https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1), [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz) | [Corazón Roto pt\. 3](https://open.spotify.com/album/2ASYbZLxYf9bRXhsyQ6Y1u) | 5:48 | 2023-09-18 |  |
 | [CORAZÓN VACÍO](https://open.spotify.com/track/3oNnzH6hmqIGIhJ1NcHlrh) | [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [CORAZÓN VACÍO](https://open.spotify.com/album/3YBQyY0Bj7bpxj0VHAse0P) | 2:40 | 2023-06-23 | 2023-11-25 |
-| [Corta](https://open.spotify.com/track/69Ua9g4FzsY7kdGctRFnAj) | [Marama](https://open.spotify.com/artist/4GepMkTgrIZECoCC55vqjW), [Roze Oficial](https://open.spotify.com/artist/2Hxu0Wmd7FUm0euCVInVrN) | [Corta](https://open.spotify.com/album/6AdJGeHWYKlj9PnFcl3PGr) | 2:45 | 2023-11-24 |  |
+| [Corta](https://open.spotify.com/track/69Ua9g4FzsY7kdGctRFnAj) | [Marama](https://open.spotify.com/artist/4GepMkTgrIZECoCC55vqjW), [Roze Oficial](https://open.spotify.com/artist/2Hxu0Wmd7FUm0euCVInVrN) | [Corta](https://open.spotify.com/album/6AdJGeHWYKlj9PnFcl3PGr) | 2:45 | 2023-11-24 | 2024-03-21 |
+| [Corta](https://open.spotify.com/track/6ImVKEI0Z5yEDO6BwmoGiK) | [Marama](https://open.spotify.com/artist/4GepMkTgrIZECoCC55vqjW), [Roze Oficial](https://open.spotify.com/artist/2Hxu0Wmd7FUm0euCVInVrN) | [Corta](https://open.spotify.com/album/6hIlPcXLhou7xWDkqMI3JY) | 2:45 | 2024-03-15 |  |
 | [Costumbres \- Vivo](https://open.spotify.com/track/6HT88WDVwEJiHEbPuQ5XcB) | [Damas Gratis](https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV), [Ke Personajes](https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM) | [Costumbres \(Vivo\)](https://open.spotify.com/album/5bF1CFdbRtYvsCbVro137h) | 2:13 | 2023-05-12 | 2023-07-14 |
 | [CRIS MJ \| DJ TAO Turreo Sessions \#20](https://open.spotify.com/track/6bAxW5fCFc4mfe8otIxWf9) | [DJ Tao](https://open.spotify.com/artist/5CA5IqbsFr4hpNLdjgO0BU), [Cris Mj](https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE) | [CRIS MJ \| DJ TAO Turreo Sessions \#20](https://open.spotify.com/album/4HCyWSPj8iDtCN291g4n39) | 3:30 | 2023-09-08 | 2023-10-28 |
 | [Cuarteto Sessions \#3](https://open.spotify.com/track/28v5fIoIa2Y07nqAXgBcXC) | [Q' Lokura](https://open.spotify.com/artist/7dlkBH23ERFXxuNoMHq94Y) | [Cuarteto Sessions \#3](https://open.spotify.com/album/2iDxLzsD09N23JARBiIGPA) | 8:20 | 2024-02-16 |  |

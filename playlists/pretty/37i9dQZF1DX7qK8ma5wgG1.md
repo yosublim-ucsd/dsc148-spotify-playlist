@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7qK8ma5wgG1.md) - [plain]
 
 > Songs for a broken heart
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,776,893 likes - 80 songs - 4 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,776,967 likes - 80 songs - 4 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,7 +55,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7qK8ma5wgG1.md) - [plain]
 | 45 | [River](https://open.spotify.com/track/3UrmjZcjcYP3zFUdfWOy46) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt) | [River](https://open.spotify.com/album/7jfhFHdRgOjyDAvIZ4WNL8) | 2:36 |
 | 46 | [Born To Be Alive](https://open.spotify.com/track/3t5o6aDBXWyNZiyFQylraq) | [Bea and her Business](https://open.spotify.com/artist/6Jl6Xw5FnzQqmKNodwbKym) | [Born To Be Alive](https://open.spotify.com/album/3FfMjxeN7TOVyUwDqPCaXE) | 2:37 |
 | 47 | [Fingers Crossed](https://open.spotify.com/track/3yMC1KsTwh0ceXdIe4QQAQ) | [Lauren Spencer Smith](https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50) | [Fingers Crossed](https://open.spotify.com/album/7i5dqey54xo8F2flVer0yY) | 2:55 |
-| 48 | [GHOST TOWN](https://open.spotify.com/track/135Lf4Q0CzlMNfOxbEUsLH) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [GHOST TOWN](https://open.spotify.com/album/4NTDxbwbo2rMGMm6U9UAEP) | 3:13 |
+| 48 | [Ghost Town](https://open.spotify.com/track/135Lf4Q0CzlMNfOxbEUsLH) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [Ghost Town](https://open.spotify.com/album/4NTDxbwbo2rMGMm6U9UAEP) | 3:13 |
 | 49 | [love you more than me](https://open.spotify.com/track/3jc0jdopFsv3dYz5uo8OCr) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [love you more than me](https://open.spotify.com/album/5iA8uhhLMIfh8CUu6sJWd6) | 2:21 |
 | 50 | [WYD Now?](https://open.spotify.com/track/3ZBeHiRJUj1vdiU8zzGPgb) | [Sadie Jean](https://open.spotify.com/artist/0sMAHzxguan2KpnKFZPW2d) | [WYD Now?](https://open.spotify.com/album/7vHnOZjiqPEgDP6BkmEp2Z) | 2:24 |
 | 51 | [Miserable Man](https://open.spotify.com/track/6gPPoRYJwCsoB2VVdPJfmo) | [David Kushner](https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY) | [Miserable Man](https://open.spotify.com/album/2l8bIF7dlr0xNkFJnQXUE4) | 3:52 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7qK8ma5wgG1.md) - [plain]
 | 79 | [emails i can’t send](https://open.spotify.com/track/2qLyo5FeWquE7HBUbcVnEy) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [emails i can't send](https://open.spotify.com/album/5kDmlA2g9Y1YCbNo2Ufxlz) | 1:44 |
 | 80 | [complex \(demo\)](https://open.spotify.com/track/1ovZe7upcqycTuPFfOg6kB) | [Katie Gregson\-MacLeod](https://open.spotify.com/artist/2xCYQunn7ZXK6qOwXWPvcF) | [complex \(demo\)](https://open.spotify.com/album/4iHBCJPZUha2xs84jNZ4jc) | 4:16 |
 
-Snapshot ID: `MCwwMzE5NjU1OTYxZDE5YmE5MGY5NDc2ZTA5NGRmMDMzNWYzYzk3ZDNj`
+Snapshot ID: `MCw2ODM0NDI5MjEwZDQ5Zjc0NmE5MjUwMTRlNzRkNzdmODk2NDA1ZTky`

@@ -4,7 +4,7 @@
 
 > só faixa rosa, tem disposição? 🎀 Foto: Torya
 
-220 songs - 10 hr 29 min
+221 songs - 10 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,7 +12,8 @@
 | [100 Mili](https://open.spotify.com/track/4eolUWC5VizUx1YMHMeagu) | [Ebony](https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb), [LARINHX](https://open.spotify.com/artist/00kQ5yo7yxd5KC1ihuH77i) | [100 Mili](https://open.spotify.com/album/1BwTcopCPLmipd6iCOVXFi) | 2:22 | 2022-10-14 |  |
 | [50%](https://open.spotify.com/track/71YY4sRKzRchfdVlEvK0fx) | [LAI$ROSA](https://open.spotify.com/artist/74sURGnGYZ0MsuL61biTCw), [otrashy](https://open.spotify.com/artist/7z0MVnhMYi2JMaFlmkIICD) | [Por Que os Homens Amam as Vadias?](https://open.spotify.com/album/7qpP3amvqMAqMZInViXcFS) | 1:55 | 2024-01-19 | 2024-03-09 |
 | [5min](https://open.spotify.com/track/27AJfxwJCs8T2BxeVNbniw) | [Ebony](https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb), [Heavy Baile](https://open.spotify.com/artist/2E4sNJOOy9hae0J8DkT43M), [Leo Justi](https://open.spotify.com/artist/1puzPcrOHKTMQ6KTuYfqU0), [AG Beatz](https://open.spotify.com/artist/3vy0Vu1deAyyjs5WgeEcFJ) | [5min](https://open.spotify.com/album/0TMUGXzv71hCms04QO2b8b) | 2:08 | 2023-05-05 |  |
-| [8KG](https://open.spotify.com/track/2Q6tuyXDBYRPa0lu4uiIpr) | [LARINHX](https://open.spotify.com/artist/00kQ5yo7yxd5KC1ihuH77i), [Ebony](https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb), [Slipmami](https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs) | [8KG](https://open.spotify.com/album/3TNzyF3UlLqVAK3EHRwL5J) | 2:12 | 2023-03-31 |  |
+| [8KG](https://open.spotify.com/track/2Q6tuyXDBYRPa0lu4uiIpr) | [LARINHX](https://open.spotify.com/artist/00kQ5yo7yxd5KC1ihuH77i), [Ebony](https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb), [Slipmami](https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs) | [8KG](https://open.spotify.com/album/3TNzyF3UlLqVAK3EHRwL5J) | 2:12 | 2023-03-31 | 2024-03-21 |
+| [8KG](https://open.spotify.com/track/4udduhNmtWkbdh5xP0hRJl) | [LARINHX](https://open.spotify.com/artist/00kQ5yo7yxd5KC1ihuH77i), [Ebony](https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb), [Slipmami](https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs) | [8KG](https://open.spotify.com/album/6wJy7soOIrPeUVYXEgyc0c) | 2:12 | 2024-03-15 |  |
 | [A Cara do Enquadro](https://open.spotify.com/track/1m519cv6g3gPO5JYuYV3al) | [Bia e Bella](https://open.spotify.com/artist/31Ji2zYJgTY2bgyUgxl2wW), [JR ON](https://open.spotify.com/artist/6Z49It3vdzrqiSuu9dxeVA) | [A Cara do Enquadro](https://open.spotify.com/album/6NlI7bsdFuGsVVYmmWwoCk) | 2:46 | 2022-10-28 | 2023-01-14 |
 | [A Cuca](https://open.spotify.com/track/6kdqevDkFJvZeIwYCJZxLh) | [Ashira](https://open.spotify.com/artist/3bwb5u6i1DM7nDxnBSDDCa) | [A Cuca](https://open.spotify.com/album/29QITg4lHccmO94R4qX5xK) | 3:18 | 2022-08-26 | 2023-07-01 |
 | [A Fonte](https://open.spotify.com/track/56fvmF7BztWocJ95kXmz1h) | [MC Taya](https://open.spotify.com/artist/7vUQ69pnimnTG3WAWnVP9i) | [A Fonte](https://open.spotify.com/album/1mZe2ARdUySxF6a6ATs09y) | 2:53 | 2024-02-09 |  |

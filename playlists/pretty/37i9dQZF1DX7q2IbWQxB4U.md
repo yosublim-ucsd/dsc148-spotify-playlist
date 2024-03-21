@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7q2IbWQxB4U.md) - [plain]
 
 > De la cuna pa'l mundo\. Celebrando la cultura y música de Puerto Rico con los sonidos de la Casa.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,125 likes - 50 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,130 likes - 50 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,8 +22,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7q2IbWQxB4U.md) - [plain]
 | 12 | [DÁKITI](https://open.spotify.com/track/4MzXwWMhyBbmu6hOcLVD49) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Jhayco](https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1) | [EL ÚLTIMO TOUR DEL MUNDO](https://open.spotify.com/album/2d9BCZeAAhiZWPpbX9aPCW) | 3:25 |
 | 13 | [La Jumpa](https://open.spotify.com/track/2mnXxnrX5vCGolNkaFvVeM) | [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Sr\. Santos](https://open.spotify.com/album/2AvuFDqTlnxvYhyVaLU6NY) | 4:15 |
 | 14 | [ID](https://open.spotify.com/track/0crVjW9Jz8ktVuVXoUi187) | [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB), [Jowell & Randy](https://open.spotify.com/artist/4IMAo2UQchVFyPH24PAjUs) | [ID](https://open.spotify.com/album/1egkQ2UCu5EaokUNnDsvFL) | 3:55 |
-| 15 | [Quiero Bailar](https://open.spotify.com/track/7mY1dIaY9vY6Jrlrjg3dRn) | [Ivy Queen](https://open.spotify.com/artist/6p2442ymrT9lZEuCZJdYcH) | [DIVA\- Platinum Edition](https://open.spotify.com/album/0Sv18KP8WCk1eHGnhJqTrb) | 3:06 |
-| 16 | [PUNTO 40](https://open.spotify.com/track/4UGqAW9i7NtE5mW9xzm6yk) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Baby Rasta](https://open.spotify.com/artist/0GgyFUpOyzWDRDqx8FCTDN) | [SATURNO](https://open.spotify.com/album/5AcRssiG0Zqu3lqYW7hMoM) | 3:10 |
+| 15 | [PUNTO 40](https://open.spotify.com/track/4UGqAW9i7NtE5mW9xzm6yk) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Baby Rasta](https://open.spotify.com/artist/0GgyFUpOyzWDRDqx8FCTDN) | [SATURNO](https://open.spotify.com/album/5AcRssiG0Zqu3lqYW7hMoM) | 3:10 |
+| 16 | [Quiero Bailar](https://open.spotify.com/track/7mY1dIaY9vY6Jrlrjg3dRn) | [Ivy Queen](https://open.spotify.com/artist/6p2442ymrT9lZEuCZJdYcH) | [DIVA\- Platinum Edition](https://open.spotify.com/album/0Sv18KP8WCk1eHGnhJqTrb) | 3:06 |
 | 17 | [Noche De Entierro](https://open.spotify.com/track/6ksWMnPcHNyNoNf3y1BQCO) | [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m), [Wisin & Yandel](https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9), [Zion](https://open.spotify.com/artist/1pgDilWYDWLoOgGjf1iHNu), [Hector](https://open.spotify.com/artist/46EVasHDUzMdhBXeQ7r0W2), [Tonny Tun Tun](https://open.spotify.com/artist/4a0UP5sUQGKcn2QJnqMT0t) | [Mas Flow \- Los Benjamins](https://open.spotify.com/album/0sMHBG6T20O56Wrtu1pR1f) | 4:23 |
 | 18 | [Soltera \(Remix\)](https://open.spotify.com/track/4t9a07PAghtQMRAIP9FQ7Z) | [Lunay](https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE), [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Épico](https://open.spotify.com/album/46xbsFOp9g1WqTidQEs7YT) | 4:26 |
 | 19 | [Andrea](https://open.spotify.com/track/44XjoNvtwevktFKjvVe1vH) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Buscabulla](https://open.spotify.com/artist/0MoaBi6dSquXp6rrlqlF8R) | [Un Verano Sin Ti](https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5) | 5:39 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7q2IbWQxB4U.md) - [plain]
 | 49 | [LA HORA Y EL DÍA](https://open.spotify.com/track/1j4yhkxSCEDmiLVKjpYKWq) | [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m), [Justin Quiles](https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP), [Dalex](https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn) | [LA HORA Y EL DÍA](https://open.spotify.com/album/3AucKVb9GvQ4pOGaZ8UhFK) | 3:37 |
 | 50 | [Kaleidoscópica](https://open.spotify.com/track/6M1qcLBhSBIDMmC9wprnLK) | [Villano Antillano](https://open.spotify.com/artist/1pi7nGhOM7PTHR5YEgXVGq) | [La Sustancia X](https://open.spotify.com/album/3vNcWxeBpYQJ9OkAcm3ch3) | 2:34 |
 
-Snapshot ID: `MCxhMzRhMjQxMGFhOTUxMGI3ZDI1OTU3NzRjMTAyMGNkNTdjMGRjOTU5`
+Snapshot ID: `MCwzOTczZTczZDI4ZmViYjY0ZTVlOTMwZDMzOGM5ZmVkNzFjMzljNzIw`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb9izPIc0SCS.md) - [plain]
 
 > True indie rock hits.
 
-[Spotify](https://open.spotify.com/user/spotify) - 501,743 likes - 100 songs - 5 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 503,295 likes - 100 songs - 5 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,7 +71,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb9izPIc0SCS.md) - [plain]
 | 61 | [Where Is My Mind? \- Remastered](https://open.spotify.com/track/7wCmS9TTVUcIhRalDYFgPy) | [Pixies](https://open.spotify.com/artist/6zvul52xwTWzilBZl6BUbT) | [Surfer Rosa](https://open.spotify.com/album/50j4Wm1b9hLpSpPIA39Vp9) | 3:54 |
 | 62 | [i walk this earth all by myself](https://open.spotify.com/track/6oofvZ4K8vBHnCT1oKERcd) | [EKKSTACY](https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH) | [NEGATIVE](https://open.spotify.com/album/2momrvUqAMigmBoOOKuavE) | 2:25 |
 | 63 | [we fell in love in october](https://open.spotify.com/track/6IPwKM3fUUzlElbvKw2sKl) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [we fell in love in october / October Passed Me By](https://open.spotify.com/album/7vud0sY43VTv28MbWiglDa) | 3:04 |
-| 64 | [I Can't Handle Change](https://open.spotify.com/track/0I1eFRytp4XRhLCjT6tZm7) | [Roar](https://open.spotify.com/artist/7dIpKWlEeAljA20vFJ82RD) | [I Can't Handle Change](https://open.spotify.com/album/42vd9Cgr89pjb0Jipvaj5d) | 3:18 |
+| 64 | [I Can't Handle Change](https://open.spotify.com/track/37l31PrCNsg8baUjarNAi9) | [Roar](https://open.spotify.com/artist/7dIpKWlEeAljA20vFJ82RD) | [I Can't Handle Change](https://open.spotify.com/album/0YjOnBY0FRufcmNBTzWTgX) | 3:18 |
 | 65 | [When I'm Small](https://open.spotify.com/track/1U3BASc885MPCYOzYwOIpO) | [Phantogram](https://open.spotify.com/artist/1l9d7B8W0IHy3LqWsxP2SH) | [Eyelid Movies](https://open.spotify.com/album/6smJTxDxrnxi6fPfFWYSQV) | 4:09 |
 | 66 | [Sleepyhead](https://open.spotify.com/track/4prEPl61C8qZpeo3IkYSMl) | [Passion Pit](https://open.spotify.com/artist/7gjAu1qr5C2grXeQFFOGeh) | [Manners](https://open.spotify.com/album/6H51jH1SuzV6ca1VxW2Tmv) | 2:54 |
 | 67 | [Money](https://open.spotify.com/track/3VIJBrMpvimHEw5wtPh2wB) | [The Drums](https://open.spotify.com/artist/0p5axeJsbtTCXBrRVoKjwu) | [Portamento](https://open.spotify.com/album/4I7uuSfSkHKJjrr1vpu4mi) | 3:53 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb9izPIc0SCS.md) - [plain]
 | 99 | [Maps](https://open.spotify.com/track/0hDQV9X1Da5JrwhK8gu86p) | [Yeah Yeah Yeahs](https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2) | [Fever To Tell \(Deluxe Remastered\)](https://open.spotify.com/album/44ePwTuWK88vnalqutqJEG) | 3:39 |
 | 100 | [Chandelier](https://open.spotify.com/track/1cwqP7Tyxu5z8XDYoPkNte) | [Will Paquin](https://open.spotify.com/artist/0oouuXi8tdasgUgk520Jy6) | [Chandelier](https://open.spotify.com/album/1VC4P7rm1o3aYlYVYFkpGF) | 2:07 |
 
-Snapshot ID: `MCxiMGE2ZGU5MTc4ZGUzY2JiNDE0ZDQ4OTA2OGIwMGMwNzJjMzUyMzEy`
+Snapshot ID: `MCwxN2JlMTY5NDkxYTFiZTE3Y2MyYTU3NzMwZjYzOGY0YzgxMzRhYjUy`

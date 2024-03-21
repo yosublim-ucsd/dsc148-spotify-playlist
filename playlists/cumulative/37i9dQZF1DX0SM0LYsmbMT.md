@@ -4,7 +4,7 @@
 
 > The original chill instrumental beats playlist.
 
-4,056 songs - 6 day 11 hr 1 min
+4,057 songs - 6 day 11 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -3470,7 +3470,7 @@
 | [Taidana](https://open.spotify.com/track/4FAm6xEYz9lbDgJ2bg8MDF) | [lōland](https://open.spotify.com/artist/5AUK3KLrqdHpcsRowJVJIn) | [Taidana](https://open.spotify.com/album/3YCIFSSeHusM3JKIZdLrfr) | 2:50 | 2020-10-16 | 2021-03-14 |
 | [Tailwind](https://open.spotify.com/track/0ysn3OHz48xxbZ4Lgl9cs7) | [FLKS](https://open.spotify.com/artist/0su9f9WdmaeYFON6XEaXb0) | [Tailwind](https://open.spotify.com/album/0aeNvES9f9JiaOvN53aDLl) | 2:01 | 2021-03-19 | 2021-08-20 |
 | [Taipane](https://open.spotify.com/track/5TxLsWFvw9JSEHCu1xxrqX) | [Made in M](https://open.spotify.com/artist/5schXx0Ys4N52iU7On2j4c) | [Beats On Boat: Made in M](https://open.spotify.com/album/5iJcyU0qYmTn6M5jnEr2yS) | 1:35 | 2020-03-20 | 2020-05-29 |
-| [taipei nights](https://open.spotify.com/track/5MRY8rDh81NsZ37NraIRn0) | [flamingo zamperoni](https://open.spotify.com/artist/3ru7BkhVCEo3lsGNLHzhtz) | [taipei nights](https://open.spotify.com/album/72FyfezTx1R7OUDkAsbMku) | 1:54 | 2024-02-29 |  |
+| [taipei nights](https://open.spotify.com/track/5MRY8rDh81NsZ37NraIRn0) | [flamingo zamperoni](https://open.spotify.com/artist/3ru7BkhVCEo3lsGNLHzhtz) | [taipei nights](https://open.spotify.com/album/72FyfezTx1R7OUDkAsbMku) | 1:54 | 2024-02-29 | 2024-03-21 |
 | [taiyō](https://open.spotify.com/track/5qCr1Rq9otIdSC2WyAJ1fH) | [lōland](https://open.spotify.com/artist/5AUK3KLrqdHpcsRowJVJIn) | [taiyō \| el nido](https://open.spotify.com/album/4wfnnQmzx55AfzBdWHkBsy) | 3:02 | 2019-12-13 | 2020-04-18 |
 | [Taizai](https://open.spotify.com/track/3eo7QoAeG9yvDkr4IFvD6e) | [lōland](https://open.spotify.com/artist/5AUK3KLrqdHpcsRowJVJIn) | [Taizai](https://open.spotify.com/album/6dq7NWxDzqcq7vx2PVS8FU) | 2:11 | 2021-02-12 | 2021-03-26 |
 | [Take Initiative](https://open.spotify.com/track/4vxLWLuhwO5mHEOyoASUut) | [Grisp](https://open.spotify.com/artist/4Ss8Vh1dqwdci0DqaNycZM), [C4C](https://open.spotify.com/artist/5jZeLexrrwGNUy6nv7tzdr) | [Take Initiative](https://open.spotify.com/album/3cl3hJG4qFHhjst3ezDnad) | 2:21 | 2021-06-14 | 2021-08-06 |
@@ -3494,6 +3494,7 @@
 | [Tapedeckmemories](https://open.spotify.com/track/0HEVO9z0jDLj1CbZft5xLh) | [ron quixote](https://open.spotify.com/artist/7IsLRXgrGBhZPleg96NhwA) | [I Wonder...](https://open.spotify.com/album/1fGfmAuUp1DE17N0qDkNAi) | 2:27 | 2022-10-13 | 2023-10-20 |
 | [Taproot](https://open.spotify.com/track/0M9s15GFz78rNi2t5Lgv7L) | [Beats for Trees](https://open.spotify.com/artist/3fMYtQwkblUGOAto35b82Y), [Mr\. Käfer](https://open.spotify.com/artist/79U1adgS3jIlP28wwMHqGJ) | [Vol\. III](https://open.spotify.com/album/0GWgASUE1sbXFw2uqI6PPZ) | 2:32 | 2023-11-13 |  |
 | [Taribo](https://open.spotify.com/track/0h55WRT1meR6qBHYgNGoH8) | [Khutko](https://open.spotify.com/artist/26e6xlrurIqVfo2GzwuSMQ) | [Taribo](https://open.spotify.com/album/1lqU2ocXf4uMlP0eiFEL0f) | 2:29 | 2021-10-22 | 2022-06-03 |
+| [tartufo](https://open.spotify.com/track/0m1g8ik4XhMxtZCfWgNLTy) | [flamingo zamperoni](https://open.spotify.com/artist/3ru7BkhVCEo3lsGNLHzhtz) | [tartufo](https://open.spotify.com/album/7oRwqoNx3GpQWYjNN8dA5o) | 2:09 | 2024-03-15 |  |
 | [Tato](https://open.spotify.com/track/5V0f1iD7FIVKSyexZk3WcP) | [SP kOwi](https://open.spotify.com/artist/7gVcXipsVVlTpZ8mMjzsJL) | [Tokio EP Vol\. II](https://open.spotify.com/album/5CQvE9tYoGvpAYsYXR3qSK) | 1:49 | 2022-04-28 | 2022-06-01 |
 | [tautte.](https://open.spotify.com/track/56y8VbwDjaKZfnBZIZMR1y) | [yeyts.](https://open.spotify.com/artist/4fawpeTlkJtDMXDzJmBYSR) | [tautte.](https://open.spotify.com/album/2gId9ow9rRjrs6n3JaRmeY) | 1:32 | 2019-06-08 | 2019-11-15 |
 | [tavo lara](https://open.spotify.com/track/3prAccfg2dgn8UM1RI482W) | [p1H](https://open.spotify.com/artist/2BLdsgIde6vS1z9GIGRYrm) | [tavo lara](https://open.spotify.com/album/0Rnv3Qv4VNIpY03zkfrOQP) | 2:19 | 2019-07-16 | 2019-11-12 |

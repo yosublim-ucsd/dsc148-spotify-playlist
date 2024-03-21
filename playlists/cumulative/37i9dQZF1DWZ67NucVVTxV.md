@@ -4,7 +4,7 @@
 
 > Grind day motivation
 
-443 songs - 21 hr 31 min
+444 songs - 21 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -408,7 +408,8 @@
 | [Traboski](https://open.spotify.com/track/2woGTVY8Vx46aYuXfMmwwE) | [Bnxn](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [Traboski](https://open.spotify.com/album/7A0qUYFzVQZGI6IcFebIiN) | 2:35 | 2022-11-28 |  |
 | [Trap](https://open.spotify.com/track/6Lss25OMzPLTx8czIC8Wr4) | [KWESI AMEWUGA](https://open.spotify.com/artist/2CdvQgo8DCIOyScP9GDkDA), [Yaw Tog](https://open.spotify.com/artist/2Dqt6WjEca8WcZuGiUcYDd) | [Trap](https://open.spotify.com/album/46zsXuCelHvSbq1wtawF59) | 2:58 | 2024-03-08 |  |
 | [Trouble](https://open.spotify.com/track/7LqLiIkXAi9PtrGvIxQDhz) | [Vanilla](https://open.spotify.com/artist/5QmtlsyUEqCSTuqrOl6L11), [Larruso](https://open.spotify.com/artist/57oThb5OUWumUvGOib8OUS) | [Trouble](https://open.spotify.com/album/56WP5QmZSLRcvidBV6SsjD) | 2:55 | 2023-07-28 | 2023-08-04 |
-| [Try](https://open.spotify.com/track/5p8e2CxX9frZepKoc8E9Z4) | [T.I BLAZE](https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC) | [Try](https://open.spotify.com/album/5dfCER3jaE7kbvSZNUOnCS) | 2:13 | 2022-02-17 |  |
+| [Try](https://open.spotify.com/track/2P8GdpevIzNxDQWRtGgmYq) | [T.I BLAZE](https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC) | [Try](https://open.spotify.com/album/6CPueje2KqooPG806INnOW) | 2:13 | 2024-03-08 |  |
+| [Try](https://open.spotify.com/track/5p8e2CxX9frZepKoc8E9Z4) | [T.I BLAZE](https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC) | [Try](https://open.spotify.com/album/5dfCER3jaE7kbvSZNUOnCS) | 2:13 | 2022-02-17 | 2024-03-21 |
 | [Try Again](https://open.spotify.com/track/37VzqohsKYJMTN9yS5iSt1) | [Banzy Banero](https://open.spotify.com/artist/5VjCTOxVwGAA7Blx7jv5WN) | [Try Again](https://open.spotify.com/album/4vGY5krrhuhWRNbO1Fd3Xd) | 3:23 | 2023-11-17 | 2023-12-08 |
 | [Turkey Nla](https://open.spotify.com/track/0na5iZ3EElnlMiE6Y0SM3P) | [King Perryy](https://open.spotify.com/artist/2Srxd4jkUb5hcZEJO1SPnW) | [Turkey Nla](https://open.spotify.com/album/4tHC1X4o1r1IXzRFsl7dQd) | 3:00 | 2022-09-30 | 2022-11-19 |
 | [Unbeliever](https://open.spotify.com/track/362VDvgZDpaA4kact7PU2O) | [Lifesize Teddy](https://open.spotify.com/artist/7qQNbbOL2eYZYxSGtcDvcR) | [POISN](https://open.spotify.com/album/3WILfuknm2R78qFkJxrzyZ) | 2:24 | 2023-11-24 | 2023-12-08 |

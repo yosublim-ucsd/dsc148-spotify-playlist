@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8z5qIASf9uA.md) - [plain]
 
 > Que me toquen el corrido de "El Mentado" para recordar a Ariel 🙏🏼✨🫡💖
 
-[Spotify](https://open.spotify.com/user/spotify) - 281,508 likes - 75 songs - 4 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 281,612 likes - 75 songs - 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8z5qIASf9uA.md) - [plain]
 | 74 | [Nieves De Enero](https://open.spotify.com/track/15oVebJsvQd0O8rv22HwBe) | [Chalino Sanchez](https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq), [Los Amables Del Norte](https://open.spotify.com/artist/7r1Ecc2TAxhyLeGac53N6K) | [Ya Después De Muerto](https://open.spotify.com/album/31OklCEo9716SuyztIgGLy) | 3:33 |
 | 75 | [Nadie Es Eterno](https://open.spotify.com/track/4nmYEaw0oVz3QKxUlrmFkh) | [Adan Chalino Sanchez](https://open.spotify.com/artist/2zyNL1jSCA6HH5m0BZZTgy) | [Amor Y Lágrimas](https://open.spotify.com/album/5AINE3154WldReklifyueS) | 3:16 |
 
-Snapshot ID: `MCxmNTUxZjVjMjY0YjQ4NDNmZTVmYzc0NjM5NjhhMjhiNDA4YWIwMWE2`
+Snapshot ID: `MCxkMzNlZThhY2E1YzBmODcyOWExMDNjNmIxZjU3ZjIwYjU3MTljYmFh`

@@ -1,12 +1,12 @@
 {
   "description": "La m\u00fasica de ayer, el party de hoy.",
-  "num_followers": 438853,
+  "num_followers": 438866,
   "original_name": "TBT Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0NDk2OTZmNDA4ODQ3NWQyNjNjZjM5NDVhMjFmZTAwMTBjNDc1YjU1",
+  "snapshot_id": "MCwxMjYzMjMzNGQ3YTE3OGJiMmZiYmUzNWNmYzE5MjQ2YWM2YjBlOGQ2",
   "tracks": [
     {
       "added_at": "2023-11-30 12:32:36",
@@ -855,6 +855,26 @@
     {
       "added_at": "2023-11-30 12:32:36",
       "album": {
+        "name": "Los Que Gustan",
+        "url": "https://open.spotify.com/album/303q7Gwd1npoNdMFtoAe9s"
+      },
+      "artists": [
+        {
+          "name": "Klasico",
+          "url": "https://open.spotify.com/artist/6ejQ8vRKDUNBT2UyG3OaAM"
+        },
+        {
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        }
+      ],
+      "duration_ms": 186976,
+      "name": "Corazon De Seda (feat. Ozuna)",
+      "url": "https://open.spotify.com/track/0uRHot8ml8U8cYVwwzMwNT"
+    },
+    {
+      "added_at": "2023-11-30 12:32:36",
+      "album": {
         "name": "Por Fin Te Encontr\u00e9",
         "url": "https://open.spotify.com/album/6waZU5OJmLrEJqUvy4Zytm"
       },
@@ -879,26 +899,6 @@
     {
       "added_at": "2023-11-30 12:32:36",
       "album": {
-        "name": "Los Que Gustan",
-        "url": "https://open.spotify.com/album/303q7Gwd1npoNdMFtoAe9s"
-      },
-      "artists": [
-        {
-          "name": "Klasico",
-          "url": "https://open.spotify.com/artist/6ejQ8vRKDUNBT2UyG3OaAM"
-        },
-        {
-          "name": "Ozuna",
-          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
-        }
-      ],
-      "duration_ms": 186976,
-      "name": "Corazon De Seda (feat. Ozuna)",
-      "url": "https://open.spotify.com/track/0uRHot8ml8U8cYVwwzMwNT"
-    },
-    {
-      "added_at": "2023-11-30 12:32:36",
-      "album": {
         "name": "Me Llamas (feat. Maluma) [Remix]",
         "url": "https://open.spotify.com/album/2mqj8lMnZRYR5hapcNVpRq"
       },
@@ -915,26 +915,6 @@
       "duration_ms": 210322,
       "name": "Me Llamas (feat. Maluma) - Remix",
       "url": "https://open.spotify.com/track/5hEM0JchdVzQ5PwvSfITeX"
-    },
-    {
-      "added_at": "2023-11-30 12:32:36",
-      "album": {
-        "name": "Nicki Nicole: Bzrp Music Sessions, Vol. 13",
-        "url": "https://open.spotify.com/album/11kIpu7f0W1xLshyUW1z7n"
-      },
-      "artists": [
-        {
-          "name": "Bizarrap",
-          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
-        },
-        {
-          "name": "Nicki Nicole",
-          "url": "https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y"
-        }
-      ],
-      "duration_ms": 143291,
-      "name": "Nicki Nicole: Bzrp Music Sessions, Vol. 13",
-      "url": "https://open.spotify.com/track/2S93hylQBYLndMnaJuso8S"
     },
     {
       "added_at": "2023-11-30 12:32:36",
@@ -963,6 +943,26 @@
       "duration_ms": 205600,
       "name": "Safari",
       "url": "https://open.spotify.com/track/456xBIOmLRoLzCvCzZrWge"
+    },
+    {
+      "added_at": "2023-11-30 12:32:36",
+      "album": {
+        "name": "Nicki Nicole: Bzrp Music Sessions, Vol. 13",
+        "url": "https://open.spotify.com/album/11kIpu7f0W1xLshyUW1z7n"
+      },
+      "artists": [
+        {
+          "name": "Bizarrap",
+          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
+        },
+        {
+          "name": "Nicki Nicole",
+          "url": "https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y"
+        }
+      ],
+      "duration_ms": 143291,
+      "name": "Nicki Nicole: Bzrp Music Sessions, Vol. 13",
+      "url": "https://open.spotify.com/track/2S93hylQBYLndMnaJuso8S"
     },
     {
       "added_at": "2023-11-30 12:32:36",
@@ -1063,6 +1063,26 @@
     {
       "added_at": "2023-11-30 12:32:36",
       "album": {
+        "name": "La Familia",
+        "url": "https://open.spotify.com/album/5Fqdd85mAoGDp0K9lmbPDp"
+      },
+      "artists": [
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        },
+        {
+          "name": "Farruko",
+          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
+        }
+      ],
+      "duration_ms": 243226,
+      "name": "6 AM",
+      "url": "https://open.spotify.com/track/3uvypVUsiIr1B0BccIcsEh"
+    },
+    {
+      "added_at": "2023-11-30 12:32:36",
+      "album": {
         "name": "X 100PRE",
         "url": "https://open.spotify.com/album/7CjJb2mikwAWA1V6kewFBF"
       },
@@ -1143,26 +1163,6 @@
     {
       "added_at": "2023-11-30 12:32:36",
       "album": {
-        "name": "La Familia",
-        "url": "https://open.spotify.com/album/5Fqdd85mAoGDp0K9lmbPDp"
-      },
-      "artists": [
-        {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
-        },
-        {
-          "name": "Farruko",
-          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
-        }
-      ],
-      "duration_ms": 243226,
-      "name": "6 AM",
-      "url": "https://open.spotify.com/track/3uvypVUsiIr1B0BccIcsEh"
-    },
-    {
-      "added_at": "2023-11-30 12:32:36",
-      "album": {
         "name": "El Pr\u00edncipe [Ghost Edition]",
         "url": "https://open.spotify.com/album/6A6eSLDcS2r7qT9ZFYSJlL"
       },
@@ -1175,6 +1175,22 @@
       "duration_ms": 238564,
       "name": "Prrrum",
       "url": "https://open.spotify.com/track/774Vy9sPhpePjj0B7WHaG2"
+    },
+    {
+      "added_at": "2023-11-30 12:32:36",
+      "album": {
+        "name": "Chambea",
+        "url": "https://open.spotify.com/album/3cNcI17xidck0JlZrNUpXw"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "duration_ms": 192001,
+      "name": "Chambea",
+      "url": "https://open.spotify.com/track/1Bqg4yFeVDJxchh6MjkGKy"
     },
     {
       "added_at": "2023-11-30 12:32:36",
@@ -1255,24 +1271,8 @@
     {
       "added_at": "2023-11-30 12:32:36",
       "album": {
-        "name": "Chambea",
-        "url": "https://open.spotify.com/album/3cNcI17xidck0JlZrNUpXw"
-      },
-      "artists": [
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        }
-      ],
-      "duration_ms": 192001,
-      "name": "Chambea",
-      "url": "https://open.spotify.com/track/1Bqg4yFeVDJxchh6MjkGKy"
-    },
-    {
-      "added_at": "2023-11-30 12:32:36",
-      "album": {
-        "name": "Latina",
-        "url": "https://open.spotify.com/album/4hQcPgUoOykA7IzS6av6ox"
+        "name": "Valiente",
+        "url": "https://open.spotify.com/album/2vcyOtFtWOYuQ6j4AH2FIG"
       },
       "artists": [
         {
@@ -1280,13 +1280,13 @@
           "url": "https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb"
         },
         {
-          "name": "Maluma",
-          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+          "name": "NATTI NATASHA",
+          "url": "https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7"
         }
       ],
-      "duration_ms": 227693,
-      "name": "Desde Esa Noche (feat. Maluma)",
-      "url": "https://open.spotify.com/track/1pWYnQIlqxTh5bxuPmTG4E"
+      "duration_ms": 217653,
+      "name": "No Me Acuerdo",
+      "url": "https://open.spotify.com/track/1G586ld1gbaECg4Bc6w40O"
     },
     {
       "added_at": "2023-11-30 12:32:36",
@@ -1351,6 +1351,42 @@
     {
       "added_at": "2023-11-30 12:32:36",
       "album": {
+        "name": "Na Balada (Ao Vivo)",
+        "url": "https://open.spotify.com/album/2uQbJXZlyt1wJkRsfwETLc"
+      },
+      "artists": [
+        {
+          "name": "Michel Tel\u00f3",
+          "url": "https://open.spotify.com/artist/1sDVuztNhGcetCLChkleDA"
+        }
+      ],
+      "duration_ms": 170493,
+      "name": "Ai Se Eu Te Pego - Ao Vivo",
+      "url": "https://open.spotify.com/track/29vem0DsWK4224LQyxcmA5"
+    },
+    {
+      "added_at": "2023-11-30 12:32:36",
+      "album": {
+        "name": "Latina",
+        "url": "https://open.spotify.com/album/4hQcPgUoOykA7IzS6av6ox"
+      },
+      "artists": [
+        {
+          "name": "Thalia",
+          "url": "https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb"
+        },
+        {
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+        }
+      ],
+      "duration_ms": 227693,
+      "name": "Desde Esa Noche (feat. Maluma)",
+      "url": "https://open.spotify.com/track/1pWYnQIlqxTh5bxuPmTG4E"
+    },
+    {
+      "added_at": "2023-11-30 12:32:36",
+      "album": {
         "name": "Me Vas a Extra\u00f1ar (En Vivo)",
         "url": "https://open.spotify.com/album/628CD4iCvk1Q325ErHXq53"
       },
@@ -1367,42 +1403,6 @@
       "duration_ms": 238528,
       "name": "Me Vas a Extra\u00f1ar - En Vivo",
       "url": "https://open.spotify.com/track/3CACzG9I3AoKUKA3ODE5zW"
-    },
-    {
-      "added_at": "2023-11-30 12:32:36",
-      "album": {
-        "name": "Valiente",
-        "url": "https://open.spotify.com/album/2vcyOtFtWOYuQ6j4AH2FIG"
-      },
-      "artists": [
-        {
-          "name": "Thalia",
-          "url": "https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb"
-        },
-        {
-          "name": "NATTI NATASHA",
-          "url": "https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7"
-        }
-      ],
-      "duration_ms": 217653,
-      "name": "No Me Acuerdo",
-      "url": "https://open.spotify.com/track/1G586ld1gbaECg4Bc6w40O"
-    },
-    {
-      "added_at": "2023-11-30 12:32:36",
-      "album": {
-        "name": "Na Balada (Ao Vivo)",
-        "url": "https://open.spotify.com/album/2uQbJXZlyt1wJkRsfwETLc"
-      },
-      "artists": [
-        {
-          "name": "Michel Tel\u00f3",
-          "url": "https://open.spotify.com/artist/1sDVuztNhGcetCLChkleDA"
-        }
-      ],
-      "duration_ms": 170493,
-      "name": "Ai Se Eu Te Pego - Ao Vivo",
-      "url": "https://open.spotify.com/track/29vem0DsWK4224LQyxcmA5"
     },
     {
       "added_at": "2023-11-30 12:32:36",
@@ -1507,22 +1507,6 @@
     {
       "added_at": "2023-11-30 12:32:36",
       "album": {
-        "name": "De Fiesta",
-        "url": "https://open.spotify.com/album/5QcyFFfTjCqvhVUO9Dl8pf"
-      },
-      "artists": [
-        {
-          "name": "Rombai",
-          "url": "https://open.spotify.com/artist/5KQX0Ui06LVm6PApyicRFK"
-        }
-      ],
-      "duration_ms": 131004,
-      "name": "Locuras contigo",
-      "url": "https://open.spotify.com/track/5jMvnSyOgGY8JpvHqeyVOg"
-    },
-    {
-      "added_at": "2023-11-30 12:32:36",
-      "album": {
         "name": "C\u00e1sate Conmigo",
         "url": "https://open.spotify.com/album/037f8ym7M1fzMAaWHtHY98"
       },
@@ -1539,6 +1523,22 @@
       "duration_ms": 209032,
       "name": "C\u00e1sate Conmigo",
       "url": "https://open.spotify.com/track/6f4UPdDBQONKJBRqwZGjaJ"
+    },
+    {
+      "added_at": "2023-11-30 12:32:36",
+      "album": {
+        "name": "De Fiesta",
+        "url": "https://open.spotify.com/album/5QcyFFfTjCqvhVUO9Dl8pf"
+      },
+      "artists": [
+        {
+          "name": "Rombai",
+          "url": "https://open.spotify.com/artist/5KQX0Ui06LVm6PApyicRFK"
+        }
+      ],
+      "duration_ms": 131004,
+      "name": "Locuras contigo",
+      "url": "https://open.spotify.com/track/5jMvnSyOgGY8JpvHqeyVOg"
     },
     {
       "added_at": "2023-11-30 12:32:36",
@@ -1631,22 +1631,6 @@
     {
       "added_at": "2023-11-30 12:32:36",
       "album": {
-        "name": "Todo Comenz\u00f3 Bailando",
-        "url": "https://open.spotify.com/album/0yLhNN1wvArT1xOU9Y8s4S"
-      },
-      "artists": [
-        {
-          "name": "Marama",
-          "url": "https://open.spotify.com/artist/4GepMkTgrIZECoCC55vqjW"
-        }
-      ],
-      "duration_ms": 146506,
-      "name": "Todo Comenz\u00f3 Bailando",
-      "url": "https://open.spotify.com/track/2rrWhFrcSZcZQ2SDKPGKQ6"
-    },
-    {
-      "added_at": "2023-11-30 12:32:36",
-      "album": {
         "name": "Loca (feat. Cali y El Dandee)",
         "url": "https://open.spotify.com/album/7FvIkcyYTd9iOJApAdxomS"
       },
@@ -1663,6 +1647,22 @@
       "duration_ms": 234366,
       "name": "Loca (feat. Cali y El Dandee)",
       "url": "https://open.spotify.com/track/05ZXXyeZFhZtA6DAP3Aw7x"
+    },
+    {
+      "added_at": "2023-11-30 12:32:36",
+      "album": {
+        "name": "Todo Comenz\u00f3 Bailando",
+        "url": "https://open.spotify.com/album/0yLhNN1wvArT1xOU9Y8s4S"
+      },
+      "artists": [
+        {
+          "name": "Marama",
+          "url": "https://open.spotify.com/artist/4GepMkTgrIZECoCC55vqjW"
+        }
+      ],
+      "duration_ms": 146506,
+      "name": "Todo Comenz\u00f3 Bailando",
+      "url": "https://open.spotify.com/track/2rrWhFrcSZcZQ2SDKPGKQ6"
     },
     {
       "added_at": "2023-11-30 12:32:36",
@@ -1731,22 +1731,6 @@
     {
       "added_at": "2023-11-30 12:32:36",
       "album": {
-        "name": "Me Declaro Culpable",
-        "url": "https://open.spotify.com/album/4yYNMESzEFHZ0aJkUWGkVn"
-      },
-      "artists": [
-        {
-          "name": "Nene Malo",
-          "url": "https://open.spotify.com/artist/58UPAlQ4MRWEDLhfdP4VcN"
-        }
-      ],
-      "duration_ms": 177815,
-      "name": "Chetos y Cumbieros",
-      "url": "https://open.spotify.com/track/6EsuTkSB0cLNfeHnzxBUJS"
-    },
-    {
-      "added_at": "2023-11-30 12:32:36",
-      "album": {
         "name": "Eclipse",
         "url": "https://open.spotify.com/album/0t9rD30iURBqEZizCkVDv3"
       },
@@ -1759,6 +1743,22 @@
       "duration_ms": 208102,
       "name": "Eclipse",
       "url": "https://open.spotify.com/track/6ANR2ylLSFSYcycw8JUnvi"
+    },
+    {
+      "added_at": "2023-11-30 12:32:36",
+      "album": {
+        "name": "Me Declaro Culpable",
+        "url": "https://open.spotify.com/album/4yYNMESzEFHZ0aJkUWGkVn"
+      },
+      "artists": [
+        {
+          "name": "Nene Malo",
+          "url": "https://open.spotify.com/artist/58UPAlQ4MRWEDLhfdP4VcN"
+        }
+      ],
+      "duration_ms": 177815,
+      "name": "Chetos y Cumbieros",
+      "url": "https://open.spotify.com/track/6EsuTkSB0cLNfeHnzxBUJS"
     },
     {
       "added_at": "2023-11-30 12:32:36",

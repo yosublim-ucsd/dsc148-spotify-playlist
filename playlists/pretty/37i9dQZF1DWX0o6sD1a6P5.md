@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX0o6sD1a6P5.md) - [plain]
 
 > The hottest Afropop, Afrobeats and Afro\-Caribbean hits, all in one place\. Cover: Franglish
 
-[Spotify](https://open.spotify.com/user/spotify) - 888,459 likes - 50 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 888,695 likes - 50 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX0o6sD1a6P5.md) - [plain]
 | 49 | [Mister Romantic](https://open.spotify.com/track/7axEJkECTvAt6D12Lvt718) | [MC One](https://open.spotify.com/artist/5z9JWjPGfMql97ONrrC294), [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT) | [Mister Romantic](https://open.spotify.com/album/4YZad4HqvIRKTAFgdRLmrt) | 3:20 |
 | 50 | [The Life I Chose](https://open.spotify.com/track/48kCxQOtSAeyB3YucB8Ccs) | [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s) | [The Life I Chose](https://open.spotify.com/album/7swEKu1GceYFZl5ZMPtCDS) | 2:24 |
 
-Snapshot ID: `MCw0YzM0YmI5YzUzYjE3N2RkMjM5MzA3ZmY1ZTdiYTc0MGE5ZjU4MmJj`
+Snapshot ID: `MCw3NzI3OWRhZjNlMWExNWE2MTA0NTNkOTE2MzgwOTZhNmUyNGQ3NGZj`

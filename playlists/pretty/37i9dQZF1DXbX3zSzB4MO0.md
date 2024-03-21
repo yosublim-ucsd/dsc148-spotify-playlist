@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbX3zSzB4MO0.md) - [plain]
 
 > Club vibes wherever you are!
 
-[Spotify](https://open.spotify.com/user/spotify) - 825,172 likes - 75 songs - 3 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 825,220 likes - 75 songs - 3 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbX3zSzB4MO0.md) - [plain]
 | 21 | [Rule The World \(Everybody\)](https://open.spotify.com/track/2f2dRxjiUOoV5qhZFbnVO6) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Tears For Fears](https://open.spotify.com/artist/4bthk9UfsYUYdcFyqxmSUU), [NIIKO X SWAE](https://open.spotify.com/artist/7ui1kBUIbujvJnIXxDjoWz), [GUDFELLA](https://open.spotify.com/artist/3KjZMSSy0BaCVdvL0VABRO) | [Rule The World \(Everybody\)](https://open.spotify.com/album/6Br9xGHQxq9VrTjsiYJ7NJ) | 2:52 |
 | 22 | [So Much In Love](https://open.spotify.com/track/7DnI3ktF2vcmzKuCCKseQL) | [D.O.D](https://open.spotify.com/artist/0Cs47vvRsPgEfliBU9KDiB) | [So Much In Love](https://open.spotify.com/album/7p0hUdHwZw2lN8PtRkVeiX) | 2:58 |
 | 23 | [Sun Is Dark](https://open.spotify.com/track/6Lmx1AyfNlmOVCW2Sxisnk) | [WILL K](https://open.spotify.com/artist/7m3cYjDlffT2RvkaRrJksn) | [Sun Is Dark](https://open.spotify.com/album/4cJpfipD6q3smdPwp8COoO) | 2:38 |
-| 24 | [Miss You](https://open.spotify.com/track/4tRhRLBxIZ34Iw0eCuiC03) | [southstar](https://open.spotify.com/artist/1GVuCyb4PlArufUZDUnRQi) | [Miss You](https://open.spotify.com/album/4fmtd5CduUYx2bmMOvXwX4) | 3:26 |
-| 25 | [My Gasoline](https://open.spotify.com/track/6dyfsauAoa5qN0tj9JKamE) | [Maddix](https://open.spotify.com/artist/0RMeG9M8QFzss9bAbq99KA), [Fēlēs](https://open.spotify.com/artist/7akxhVMmCpSDFw152XqCu6) | [My Gasoline](https://open.spotify.com/album/0EaF9YPTmGw5K9ndExhQ7a) | 3:56 |
+| 24 | [My Gasoline](https://open.spotify.com/track/6dyfsauAoa5qN0tj9JKamE) | [Maddix](https://open.spotify.com/artist/0RMeG9M8QFzss9bAbq99KA), [Fēlēs](https://open.spotify.com/artist/7akxhVMmCpSDFw152XqCu6) | [My Gasoline](https://open.spotify.com/album/0EaF9YPTmGw5K9ndExhQ7a) | 3:56 |
+| 25 | [Miss You](https://open.spotify.com/track/4tRhRLBxIZ34Iw0eCuiC03) | [southstar](https://open.spotify.com/artist/1GVuCyb4PlArufUZDUnRQi) | [Miss You](https://open.spotify.com/album/4fmtd5CduUYx2bmMOvXwX4) | 3:26 |
 | 26 | [Push To Start \(feat\. No/Me\)](https://open.spotify.com/track/6t4VHEcJ7Kek9pgGHlDp6R) | [Noizu](https://open.spotify.com/artist/3VRyybsQu0MDG0F2LBxnv7), [Westend](https://open.spotify.com/artist/4epc3Bd0DOBA0kDywkRAsu), [No/Me](https://open.spotify.com/artist/4L0It80jhQQKMTU2r02nkL) | [Push To Start \(feat\. No/Me\)](https://open.spotify.com/album/5kbNGOCcd1B1nxU1y1Mizb) | 3:01 |
 | 27 | [More Baby](https://open.spotify.com/track/02QE4LsAj7DBjMRxolGE8a) | [Chris Lake](https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE), [Aluna](https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE) | [More Baby](https://open.spotify.com/album/1Pei7Y5MNZQvfkDWds5EWa) | 2:55 |
 | 28 | [It's That Time](https://open.spotify.com/track/5fF9T9SMqBKUvT06cn7kBR) | [Marlon Hoffstadt](https://open.spotify.com/artist/0HHa7ZJZxUQlg5l2mB0N0f), [DJ Daddy Trance](https://open.spotify.com/artist/4lBSzo2LS8asEzoePv6VLM) | [It's That Time](https://open.spotify.com/album/4nSFAyvWxMBkgGYU5W6hOt) | 4:00 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbX3zSzB4MO0.md) - [plain]
 | 74 | [Cocoon \- Martin Garrix & Space Ducks Remix](https://open.spotify.com/track/6IqVq76K6UuJdYwZFgXosQ) | [070 Shake](https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI), [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [Space Ducks](https://open.spotify.com/artist/0KWooIVFqa6Gt0BtpdudK6) | [Cocoon \(Martin Garrix & Space Ducks Remix\)](https://open.spotify.com/album/11X8fP4LGagH6xsQI2aqaY) | 3:22 |
 | 75 | [Won't Forget You \(Felix Jaehn Remix Edit\)](https://open.spotify.com/track/7yyYtLNqpXY8zY3TQbc9AK) | [Shouse](https://open.spotify.com/artist/2TcGJdSOiOvITBzhvfX8XB), [Felix Jaehn](https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG) | [Won't Forget You \(Remixes\)](https://open.spotify.com/album/1nxh4FIw055vgnjMrbMryD) | 3:04 |
 
-Snapshot ID: `MCxmNDY0NmJmN2Y4M2YyMDZhMTg1ZjA0ODIyOTEyY2M2MzQ3ZTA0Yjg1`
+Snapshot ID: `MCwxNWQ2NjM3NjllZThlZGVmMzM3NmFmZmZmNGI4NWJhOWEwY2Y0Njk0`

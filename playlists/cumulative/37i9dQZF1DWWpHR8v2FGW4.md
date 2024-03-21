@@ -4,7 +4,7 @@
 
 > Always come in 1st place.
 
-116 songs - 6 hr 53 min
+117 songs - 6 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,6 +19,7 @@
 | [Breathe](https://open.spotify.com/track/1oCOMCGDh82F6ATxiocSeD) | [Blanke](https://open.spotify.com/artist/59Yq0xrABEihHANsfo9QMT), [ÆON:MODE](https://open.spotify.com/artist/41ouHqoKXNijIMFsQTmFQV) | [Breathe](https://open.spotify.com/album/1LuvYKCEpDQc0QszleXPIH) | 4:08 | 2023-09-05 |  |
 | [Breathe](https://open.spotify.com/track/6Ijgotp139ahnNIFw4Vr1N) | [Blanke](https://open.spotify.com/artist/59Yq0xrABEihHANsfo9QMT), [ÆON:MODE](https://open.spotify.com/artist/41ouHqoKXNijIMFsQTmFQV) | [Breathe](https://open.spotify.com/album/01vOZOM0KgJatj9mpoVhdh) | 4:08 | 2022-04-01 | 2023-10-07 |
 | [Broken](https://open.spotify.com/track/1J4EgK0zwGuLbZT9UBxtfn) | [Netsky](https://open.spotify.com/artist/5TgQ66WuWkoQ2xYxaSTnVP), [Montell2099](https://open.spotify.com/artist/47MGg5VHBSS5yHRuMGt6b0) | [Broken](https://open.spotify.com/album/6k7ydahJXGQVdNPYPFfWTx) | 3:19 | 2022-04-01 |  |
+| [Can't Get Enough](https://open.spotify.com/track/1B2qo30ncWnpQ1i0Ze097V) | [Lee Mvtthews](https://open.spotify.com/artist/2rf0ufpy1NIUGmEHqq27GC), [Ella Monnery](https://open.spotify.com/artist/1FD0AA37DenDFODrf9zovI) | [Exit](https://open.spotify.com/album/0a7MXviIpVxVePjVl5Rf6J) | 4:30 | 2024-03-07 |  |
 | [Change Us](https://open.spotify.com/track/6SfsL6v65hiJwS0clxWsw5) | [Snavs](https://open.spotify.com/artist/4xFadP7L1YVwVSjDDfjKjM), [Jack Dawson](https://open.spotify.com/artist/2UrCf8LmvXFfXAR0HtGkSx) | [Change Us](https://open.spotify.com/album/2aHsYsKRe868FXbHlo9WZu) | 2:51 | 2022-04-01 |  |
 | [Chasing Stars \(feat\. James Bay\) \[VIP Mix\]](https://open.spotify.com/track/46MmaCvze8GcEcwU1fTfWe) | [Alesso](https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t), [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [James Bay](https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD) | [Chasing Stars \(VIP Mix\)](https://open.spotify.com/album/3oHuvxDC09wCLoIEowpreG) | 2:49 | 2022-08-01 | 2022-08-18 |
 | [Children](https://open.spotify.com/track/1K6gyNdEjiap8P5IBELG6t) | [Rameses B](https://open.spotify.com/artist/06EfEcjc0vdvI6VNL0soIO) | [Children](https://open.spotify.com/album/3VHyFwqhGMqx4BlQ3fmchL) | 3:24 | 2022-04-01 |  |
@@ -119,7 +120,7 @@
 | [Vex](https://open.spotify.com/track/5EYmCZ7F6sA7fVhNhkAMf1) | [Bensley](https://open.spotify.com/artist/3SfEKS85dj9v75ROsWJSiL) | [Vex](https://open.spotify.com/album/76zmqdpTOItu1E4PXhgCML) | 3:55 | 2022-04-01 |  |
 | [Voices](https://open.spotify.com/track/3vYK1bhhuFglF2ucREX4jO) | [Bossfight](https://open.spotify.com/artist/1fILrc9B34DjHxSMkJmyBN), [Philip Strand](https://open.spotify.com/artist/1hII0FUxBvpT7bnuS7TQ6q) | [Voices](https://open.spotify.com/album/1zktHQjfwzgp9x4krbKtJt) | 4:09 | 2022-04-01 |  |
 | [Vroom \- The FaNaTiX, Idris Elba, Lil Tjay, Davido, Koffee, Moelogo\| PS5, PS4 \- from GRAN TURISMO 7](https://open.spotify.com/track/6ApEaAL5iuN3cOwSoAbY1d) | [The FaNaTiX](https://open.spotify.com/artist/3pZyDeGMNPAWHdFe2K4ud1), [Idris Elba](https://open.spotify.com/artist/0Dc2rdPzleezxhvQhQbXuS), [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [Koffee](https://open.spotify.com/artist/1gWjcmBsveEYMxOZ0VRi32), [Moelogo](https://open.spotify.com/artist/6mctsJBrfcWvWH7S8h716D) | [Vroom \- The FaNaTiX, Idris Elba, Lil Tjay, Davido, Koffee, Moelogo\| PS5, PS4 \(from GRAN TURISMO 7\)](https://open.spotify.com/album/0MuIe5cdJen7HHgfcYHeay) | 3:57 | 2022-04-01 | 2022-11-08 |
-| [Wait](https://open.spotify.com/track/7Fdw5PCKFHkHJAhhDIj0qA) | [NEUNOSIEM](https://open.spotify.com/artist/4DStul0QS1lt65yVW1wDbQ) | [Wait](https://open.spotify.com/album/31NKlTHMrNqj1doFeGp09f) | 2:59 | 2022-04-01 |  |
+| [Wait](https://open.spotify.com/track/7Fdw5PCKFHkHJAhhDIj0qA) | [NEUNOSIEM](https://open.spotify.com/artist/4DStul0QS1lt65yVW1wDbQ) | [Wait](https://open.spotify.com/album/31NKlTHMrNqj1doFeGp09f) | 2:59 | 2022-04-01 | 2024-03-21 |
 | [Watercolour \- Full Version; Single](https://open.spotify.com/track/5ami95W9OOWQPwrBb5tud5) | [Pendulum](https://open.spotify.com/artist/7MqnCTCAX6SsIYYdJCQj9B) | [Immersion](https://open.spotify.com/album/3XtEGVx9uh7J46nBzEc1VS) | 5:04 | 2022-04-01 |  |
 | [where r u](https://open.spotify.com/track/6OiOs0sxOk3vxuEjFBwAhn) | [Kill Paris](https://open.spotify.com/artist/6BNaPZdAIZAJnbgJRiZz2w) | [where r u](https://open.spotify.com/album/2F2609uOxkhgnd6OysbbU4) | 3:14 | 2022-04-01 |  |
 | [You'll Be Under My Wheels](https://open.spotify.com/track/0O0ZTzfty1pRwJj6Tvej0Y) | [The Prodigy](https://open.spotify.com/artist/4k1ELeJKT1ISyDv8JivPpB) | [Always Outnumbered, Never Outgunned](https://open.spotify.com/album/1NCSGAab77B3uvaT38UWz0) | 3:56 | 2022-04-01 | 2022-04-21 |

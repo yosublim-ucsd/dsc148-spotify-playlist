@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1t2kBq.md) - [plain]
 
 > This is Bad Religion\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 75,073 likes - 50 songs - 1 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 75,093 likes - 50 songs - 1 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,11 +52,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1t2kBq.md) - [plain]
 | 42 | [All There Is](https://open.spotify.com/track/5mC5BYYc2yoAm3vGvA5hml) | [Bad Religion](https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9) | [The Empire Strikes First](https://open.spotify.com/album/42uZcfyZzRmzBnEyyGGjQE) | 2:57 |
 | 43 | [God Song](https://open.spotify.com/track/0EhzHcEryTCWHaL98TdzIA) | [Bad Religion](https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9) | [Against The Grain](https://open.spotify.com/album/5QTyi6ndfGO5vF4DcNgM97) | 1:37 |
 | 44 | [The Approach](https://open.spotify.com/track/5Oyt7rwRrplyyNyRSRjVc8) | [Bad Religion](https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9) | [Age Of Unreason](https://open.spotify.com/album/1GNAN3xxTAYedMvS9CEOdz) | 2:25 |
-| 45 | [Incomplete](https://open.spotify.com/track/3cZxrIwGDz6lKi2S1XMgmA) | [Bad Religion](https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9) | [Stranger Than Fiction](https://open.spotify.com/album/4yzTm8IjIyybhPFGMTyv2N) | 2:29 |
-| 46 | [Kerosene](https://open.spotify.com/track/29UzZipBctdph1OIIGVzrS) | [Bad Religion](https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9) | [Recipe For Hate](https://open.spotify.com/album/1DMLunJrzPkQws2uQU797l) | 2:41 |
+| 45 | [Kerosene](https://open.spotify.com/track/29UzZipBctdph1OIIGVzrS) | [Bad Religion](https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9) | [Recipe For Hate](https://open.spotify.com/album/1DMLunJrzPkQws2uQU797l) | 2:41 |
+| 46 | [Incomplete](https://open.spotify.com/track/3cZxrIwGDz6lKi2S1XMgmA) | [Bad Religion](https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9) | [Stranger Than Fiction](https://open.spotify.com/album/4yzTm8IjIyybhPFGMTyv2N) | 2:29 |
 | 47 | [Epiphany](https://open.spotify.com/track/7AXcgpdL2oJWnI1BCLLeWI) | [Bad Religion](https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9) | [The Process Of Belief](https://open.spotify.com/album/0t2Xi8RYL4d7iEuIbUE4zI) | 3:59 |
 | 48 | [Atheist Peace](https://open.spotify.com/track/72VqIWmCDS423j8TglfMWK) | [Bad Religion](https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9) | [The Empire Strikes First](https://open.spotify.com/album/42uZcfyZzRmzBnEyyGGjQE) | 1:57 |
 | 49 | [Fuck Armageddon...This Is Hell](https://open.spotify.com/track/2WUJDRIoViFs5RYclM6gT0) | [Bad Religion](https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9) | [How Could Hell Be Any Worse? \(2005 Remaster\)](https://open.spotify.com/album/7G9tRlpSNYGMzAjcjpgIJP) | 2:48 |
 | 50 | [Wrong Way Kids](https://open.spotify.com/track/1L78NTjysRuvjRwLZIGdua) | [Bad Religion](https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9) | [The Dissent Of Man \(Bonus Track Version\)](https://open.spotify.com/album/1wMkiD60ZCqlZQZ3m7kXSc) | 2:46 |
 
-Snapshot ID: `Mjg1MTQxOTYsMDAwMDAwMDAyZjg2MWNjZWRhYTU3YTAwMTEwZjdlNDYwYTQ5YjE4Ng==`
+Snapshot ID: `Mjg1MTU2NjAsMDAwMDAwMDBlMjliODg1ZWExMjY3NzE4MjJhNGQ3NDdiZTIyM2EzOA==`

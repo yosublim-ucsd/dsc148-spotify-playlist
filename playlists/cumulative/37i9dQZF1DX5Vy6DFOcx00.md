@@ -4,7 +4,7 @@
 
 > iykyk
 
-1,323 songs - 2 day 23 hr 13 min
+1,324 songs - 2 day 23 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,7 +39,7 @@
 | [8 O 8](https://open.spotify.com/track/2RfmwyP48VHVQHUQJBAgIU) | [J€AN\-MARC](https://open.spotify.com/artist/4fWycrqzvhT6RfU76M5kSh) | [8 O 8](https://open.spotify.com/album/0bsMDzBkn83MplomFKcG95) | 3:22 | 2022-09-15 | 2022-09-28 |
 | [9mm](https://open.spotify.com/track/2Dp5Rqruog8SR6x7UtlIpY) | [Memphis Cult](https://open.spotify.com/artist/6n9sdNb7mWvVmARDT6ujnJ), [Groove Dealers](https://open.spotify.com/artist/4WOeTZ6inhL1zz0u5v0Q8z), [SPLYXER](https://open.spotify.com/artist/5erVsKXNZIBRE5ePB50c7j) | [Memphis Cult Vol\. 6](https://open.spotify.com/album/5TaVh9bj30QqGbvmC2CFoq) | 1:26 | 2023-10-25 | 2023-11-09 |
 | [9mm](https://open.spotify.com/track/3K5KXm1uZjiyQk0J7op1xf) | [Memphis Cult](https://open.spotify.com/artist/6n9sdNb7mWvVmARDT6ujnJ), [Groove Dealers](https://open.spotify.com/artist/4WOeTZ6inhL1zz0u5v0Q8z), [SPLYXER](https://open.spotify.com/artist/5erVsKXNZIBRE5ePB50c7j) | [Memphis Cult Vol\. 6](https://open.spotify.com/album/5CZnhiTI3K85wLKwPLNOJB) | 1:26 | 2023-11-02 | 2024-03-06 |
-| [A Cold Sunday](https://open.spotify.com/track/1Y1jtaZOJYgXBl7lKdLc9o) | [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [A Cold Sunday](https://open.spotify.com/album/4peDphjWdwzhrTEnQbfZ4G) | 1:47 | 2024-02-15 |  |
+| [A Cold Sunday](https://open.spotify.com/track/1Y1jtaZOJYgXBl7lKdLc9o) | [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [A Cold Sunday](https://open.spotify.com/album/4peDphjWdwzhrTEnQbfZ4G) | 1:47 | 2024-02-15 | 2024-03-21 |
 | [A Gangster's Wife](https://open.spotify.com/track/6QNphn62YKaHG1hrnPSoHi) | [Ms Krazie](https://open.spotify.com/artist/1RhOh9I75vVWEDmzRVkRUz), [Chino Grande](https://open.spotify.com/artist/1DisOtNFBsfGAuifnt4o8j) | [Smile Now Cry Never](https://open.spotify.com/album/3alkenV3DutbhsbuFhqq79) | 3:49 | 2022-10-13 | 2023-01-18 |
 | [A Man Without Love](https://open.spotify.com/track/622sVNQCspoVUqFWzOYYcj) | [Engelbert Humperdinck](https://open.spotify.com/artist/17XXKfRBMCWvLrqGoNkJXm) | [Live In Concert / All of Me](https://open.spotify.com/album/1q44CVjvRCttddLPmGgZtG) | 3:25 | 2022-05-09 | 2022-05-20 |
 | [A Nonsense Christmas](https://open.spotify.com/track/7yogx3TwxGwSxO2QITsT2q) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [A Nonsense Christmas](https://open.spotify.com/album/2D2boDrCPl6idtxpJF6r38) | 2:33 | 2022-12-08 | 2022-12-29 |
@@ -105,8 +105,8 @@
 | [Attention](https://open.spotify.com/track/11xC6P3iKYpFThT6Ce1KdG) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Attention](https://open.spotify.com/album/38xgBOLAcKoYWMSXWUDH1E) | 4:37 | 2023-06-21 | 2023-09-06 |
 | [Attention](https://open.spotify.com/track/2pIUpMhHL6L9Z5lnKxJJr9) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [NewJeans 1st EP 'New Jeans'](https://open.spotify.com/album/1HMLpmZAnNyl9pxvOnTovV) | 3:00 | 2022-09-02 | 2022-09-30 |
 | [august](https://open.spotify.com/track/3hUxzQpSfdDqwM3ZTFQY0K) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [folklore](https://open.spotify.com/album/2fenSS68JI1h4Fo296JfGr) | 4:21 | 2022-08-03 | 2022-08-13 |
-| [Austin](https://open.spotify.com/track/4NJqhmkGN042BrvHoMKUrJ) | [Dasha](https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I) | [Austin](https://open.spotify.com/album/4JtlZzYJEa7bejLF0ASnk0) | 2:51 | 2024-02-16 |  |
-| [Austin](https://open.spotify.com/track/6b81dy3WjbozXK6b7C1gu5) | [Dasha](https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I) | [What Happens Now?](https://open.spotify.com/album/0rQRrrZPPv6XXsxilJ1wFz) | 2:51 | 2024-02-21 | 2024-02-23 |
+| [Austin](https://open.spotify.com/track/4NJqhmkGN042BrvHoMKUrJ) | [Dasha](https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I) | [Austin](https://open.spotify.com/album/4JtlZzYJEa7bejLF0ASnk0) | 2:51 | 2024-02-16 | 2024-03-21 |
+| [Austin](https://open.spotify.com/track/6b81dy3WjbozXK6b7C1gu5) | [Dasha](https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I) | [What Happens Now?](https://open.spotify.com/album/0rQRrrZPPv6XXsxilJ1wFz) | 2:51 | 2024-02-16 |  |
 | [Automotivo Bibi Fogosa](https://open.spotify.com/track/4kRLRWnn5u9wO2wOKAAdEN) | [Bibi Babydoll](https://open.spotify.com/artist/6R26kGib2ubbZJMh7kKVGV), [Dj Brunin XM](https://open.spotify.com/artist/6MSMZkBlZT4vhQmjO5Ynv3), [KZA Produções](https://open.spotify.com/artist/1rRhJIu1ufxCjbmMWon6ax) | [Automotivo Bibi Fogosa](https://open.spotify.com/album/0Hj2X0CQBjpWapFzNQGbk2) | 2:09 | 2023-07-31 | 2023-11-22 |
 | [AVA](https://open.spotify.com/track/7bdpStmJdlw9GKBPTOkDwT) | [Natalie Jane](https://open.spotify.com/artist/5bfglVyGJppmmNoC2rhBUG) | [AVA](https://open.spotify.com/album/63WPi0R6qTveHv31Djy7D1) | 2:39 | 2022-11-18 | 2022-12-24 |
 | [Awkward](https://open.spotify.com/track/2xZ0zfuDTv5LxLhEgD82PG) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Ctrl \(Deluxe\)](https://open.spotify.com/album/6FKP2O0oOvZlDkF0gyTjiJ) | 2:58 | 2022-09-04 | 2023-01-28 |
@@ -638,6 +638,7 @@
 | [La Bebe \- Remix](https://open.spotify.com/track/2UW7JaomAMuX9pZrjVpHAU) | [Yng Lvcas](https://open.spotify.com/artist/1NNRWkhwmcXRimFYSBpB1y), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [La Bebe \(Remix\)](https://open.spotify.com/album/6aBVGuOUEuX18rHxyDWbti) | 3:54 | 2023-03-28 | 2023-04-22 |
 | [La lecon particuliere](https://open.spotify.com/track/1MDy1pR75sPtgFcUzP407o) | [Francis Lai](https://open.spotify.com/artist/0Lf3tvw0Rzwr38KDrShstn), [Christian Gaubert](https://open.spotify.com/artist/6B3KK89Stpd0cBueX1oLzT) | [La Lecon Particuliere](https://open.spotify.com/album/2ZgDbFnLWj6dRwDAwk6WlV) | 1:44 | 2023-03-29 | 2023-12-12 |
 | [labour](https://open.spotify.com/track/2Ggr9IfS70wYQacW8nZKPG) | [Paris Paloma](https://open.spotify.com/artist/2EXpthNgSeTDeX8nGwxppp) | [labour](https://open.spotify.com/album/4h7ERA3MzqEh9B3edziLAn) | 3:57 | 2023-03-27 | 2023-05-17 |
+| [Lady Killers II \(Christoph Andersson Remix\)](https://open.spotify.com/track/0QRhtV1MwywpkLTvCdMaWq) | [G\-Eazy](https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z), [Christoph Andersson](https://open.spotify.com/artist/2dTGHCFyCD8uj6tAM9q8ED) | [Lady Killers II \(Christoph Andersson Remix\)](https://open.spotify.com/album/1tmjsiIUIlF0Zyaj2J5vI1) | 4:57 | 2024-03-20 |  |
 | [Laffy Taffy](https://open.spotify.com/track/2ajhenDRiiAnCHHjsIOHhJ) | [D4L](https://open.spotify.com/artist/4AllEJE7mVkhhyUV6DjqPz) | [Down for Life](https://open.spotify.com/album/5PE3OnyEPOlTShpjij8Wfp) | 3:44 | 2023-07-17 | 2023-12-30 |
 | [LALA](https://open.spotify.com/track/7ABLbnD53cQK00mhcaOUVG) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [LA VIDA ES UNA](https://open.spotify.com/album/3puAvurwvtvi1rodndIPW8) | 3:17 | 2023-07-03 | 2023-07-21 |
 | [LANCEY OR LANCEY](https://open.spotify.com/track/187zHzb6JDM4YDSFNGkQ9u) | [Lancey Foux](https://open.spotify.com/artist/2LakckgvXEtJlKOYP6BO11) | [LIFE IN HELL](https://open.spotify.com/album/7A6MutudrSxcDa47a6HHOM) | 3:07 | 2023-08-11 | 2023-12-27 |

@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJnW46G73SM.md) - [plain]
 
 > أحدث الأغاني المصرية هنا🤩 الغلاف: حسين الجسمي
 
-[Spotify](https://open.spotify.com/user/spotify) - 126,169 likes - 75 songs - 4 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 126,234 likes - 75 songs - 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Asmrani Eyounoh Samrah](https://open.spotify.com/track/6M8EcLbklscFeUPav8fIGu) | [Hussain Aljassmi](https://open.spotify.com/artist/1TcEy92Hugt8o9STqUDz2D) | [Asmrani Eyounoh Samrah](https://open.spotify.com/album/7lB8Cor4rlvXJ9o8d0HshY) | 3:12 |
+| 1 | [Asmrani Eyounoh Samrah](https://open.spotify.com/track/6M8EcLbklscFeUPav8fIGu) | [Hussain Aljassmi](https://open.spotify.com/artist/1TcEy92Hugt8o9STqUDz2D), [Orange](https://open.spotify.com/artist/2xlHEDzOINtGVm6XQ9pn3W) | [Asmrani Eyounoh Samrah](https://open.spotify.com/album/7lB8Cor4rlvXJ9o8d0HshY) | 3:12 |
 | 2 | [Ya Mawlana](https://open.spotify.com/track/1puamrYWE2cSMKqM2x02j0) | [Ahmed Saad](https://open.spotify.com/artist/5D2ui1KD49TfyCDb35zf5V), [El Joker](https://open.spotify.com/artist/0CXSHigx5x1U6jMhrNJkm0) | [Ya Mawlana](https://open.spotify.com/album/1azCb4UB8DYaqMT2zUnnwS) | 3:53 |
 | 3 | [سر إلهي](https://open.spotify.com/track/0JH8L02a3ckNui2dz82yfl) | [Hamza Namira](https://open.spotify.com/artist/2N72bJ8IYB4KZmKmxz5Xkk) | [سر إلهي](https://open.spotify.com/album/3CQ2kVBQ1i1fensGdPqTuI) | 3:54 |
 | 4 | [مخبيالنا ايه يا دنيا \(موال هاني\)](https://open.spotify.com/track/6ersHoHXrLTFR4YftQxk2q) | [Massar Egbari](https://open.spotify.com/artist/1RJ4fUIqNW9jyKFMtRZOD4), [Tarek El Sheikh](https://open.spotify.com/artist/6dUaKkMGw5Ov1gaokc7YBN) | [مخبيالنا ايه يا دنيا \(موال هاني\)](https://open.spotify.com/album/5XEKia4efQ6xpPFvj1wMjN) | 3:20 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJnW46G73SM.md) - [plain]
 | 74 | [ولا يهمك](https://open.spotify.com/track/1dwGantu2uucmi2Ht4HzB5) | [Tamer Hosny](https://open.spotify.com/artist/4cGfgRmpFc9zgZMfuSXhqy) | [ولا يهمك](https://open.spotify.com/album/55pWLIo9oq0nw2V8pRdxnB) | 3:51 |
 | 75 | [موقف ضعف](https://open.spotify.com/track/683g45sVP0yUW6AeGIOw7U) | [Zeyad Wael](https://open.spotify.com/artist/36dyNqgtGxVcwcWlCRYLOl), [Omar Shaaban](https://open.spotify.com/artist/2mqfT4zskEW4k2u5m3xnyh) | [موقف ضعف](https://open.spotify.com/album/7cv0uPatxnZpT0VbUPdzVi) | 4:02 |
 
-Snapshot ID: `MCxiODAxMWVlYzgxMGM1MTA0ZjFmMmU1MDcyMGE4MTY2ODE0YjYwZWFi`
+Snapshot ID: `MCwyMTU1YmNkYzQwOTQ0M2U4NzZmMWRkMDJjNTI0ZDUwNjRlNDBkNjdh`

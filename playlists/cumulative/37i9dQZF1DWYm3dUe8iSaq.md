@@ -4,7 +4,7 @@
 
 > Indie folk songs to help your worries get lost in the woods.
 
-246 songs - 14 hr 7 min
+247 songs - 14 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,7 +59,8 @@
 | [Deathbed](https://open.spotify.com/track/7dAVPHQM9ohyzNsnebx4tz) | [Will Killen](https://open.spotify.com/artist/53mpvc3wWbaO6a7LKWQ73N) | [Deathbed](https://open.spotify.com/album/5bdvG7rir6bMQA3YF61GLz) | 3:08 | 2022-04-08 | 2022-08-27 |
 | [Decimal](https://open.spotify.com/track/1uliNs1keVwYclj74JX44R) | [Novo Amor](https://open.spotify.com/artist/0rZp7G3gIH6WkyeXbrZnGi) | [Decimal / Halloween](https://open.spotify.com/album/7pHnMBs0r27GLi2EL3nEH8) | 2:58 | 2022-04-08 | 2022-11-17 |
 | [Decimal](https://open.spotify.com/track/6eusWfAal7mOOLr0XFLkiY) | [Novo Amor](https://open.spotify.com/artist/0rZp7G3gIH6WkyeXbrZnGi) | [Cannot Be, Whatsoever](https://open.spotify.com/album/1KkBDNtkZDW8COUNKAWRPw) | 2:58 | 2022-10-07 | 2023-04-09 |
-| [Deeper Well](https://open.spotify.com/track/2lJn77IeZAP9cmv6DPXOrL) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Deeper Well](https://open.spotify.com/album/2NXiMKrwmPrqU8epp20pW8) | 3:52 | 2024-02-09 |  |
+| [Deeper Well](https://open.spotify.com/track/2lJn77IeZAP9cmv6DPXOrL) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Deeper Well](https://open.spotify.com/album/2NXiMKrwmPrqU8epp20pW8) | 3:52 | 2024-02-09 | 2024-03-21 |
+| [Deeper Well](https://open.spotify.com/track/333XFHKsHU0pOocFzBgrJi) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Deeper Well](https://open.spotify.com/album/5SxZmGwc4eJuPp6PcO4JgJ) | 3:52 | 2024-02-09 |  |
 | [Derby's Dose](https://open.spotify.com/track/3XWtrpRAyfF6ZoHAsdlao1) | [Daudi Matsiko](https://open.spotify.com/artist/41QVnDFGdU4ALpM7zCe9CL) | [Derby's Dose](https://open.spotify.com/album/62s4yMS26LGe6DFcWyWAdW) | 3:06 | 2024-01-19 | 2024-03-18 |
 | [Don't Forget Me](https://open.spotify.com/track/0DFldA3ySuV2dblrOAWq1f) | [Maggie Rogers](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe) | [Don't Forget Me](https://open.spotify.com/album/2bSJsOM3hBoBBF4MaxJKyQ) | 4:25 | 2024-02-09 |  |
 | [Doomsday](https://open.spotify.com/track/5jxjLdZXCqZlAOCC1OHOmc) | [Matilda Mann](https://open.spotify.com/artist/76oY04bOzECod3aGVTDtzu) | [Doomsday](https://open.spotify.com/album/5U3mu1u7g2igAERT5ZDLTF) | 3:09 | 2022-04-08 | 2023-07-01 |

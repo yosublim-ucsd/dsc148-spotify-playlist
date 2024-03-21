@@ -1,12 +1,12 @@
 {
   "description": "essa \u00e9 s\u00f3 pra quem vive no 2.0x\n",
-  "num_followers": 78597,
+  "num_followers": 78635,
   "original_name": "speed BR",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2N2M4NDE0ZDQzN2M5ODJiMmE2N2JmMWJiOTk5ZWRkYTI1YmEyMmJi",
+  "snapshot_id": "MCwzMzRhNTRhMjg1MjljNGY5MGU1NmZmN2IzMmYzYWFlOGQ1MmI4MjJi",
   "tracks": [
     {
       "added_at": "2023-12-27 14:18:14",
@@ -775,6 +775,22 @@
     {
       "added_at": "2023-12-27 14:18:14",
       "album": {
+        "name": "Nunca Duvide de um Mano",
+        "url": "https://open.spotify.com/album/1fTsqeLfYx1EItPGCudGg9"
+      },
+      "artists": [
+        {
+          "name": "Brand\u00e3o85",
+          "url": "https://open.spotify.com/artist/2KwQkyJzT9r6Hh56jtfuse"
+        }
+      ],
+      "duration_ms": 84124,
+      "name": "Nunca Duvide de um Mano (Speed Up)",
+      "url": "https://open.spotify.com/track/5ayuzPrJE082hhsn3tc00D"
+    },
+    {
+      "added_at": "2023-12-27 14:18:14",
+      "album": {
         "name": "Manda \u00c1udio (Sped Funk)",
         "url": "https://open.spotify.com/album/0zuN31JROjiQnzQm0KGtkk"
       },
@@ -795,22 +811,6 @@
       "duration_ms": 99759,
       "name": "Manda \u00c1udio (Sped Funk)",
       "url": "https://open.spotify.com/track/0Xawar2jiwMz36PD5M1gJ0"
-    },
-    {
-      "added_at": "2023-12-27 14:18:14",
-      "album": {
-        "name": "Nunca Duvide de um Mano",
-        "url": "https://open.spotify.com/album/1fTsqeLfYx1EItPGCudGg9"
-      },
-      "artists": [
-        {
-          "name": "Brand\u00e3o85",
-          "url": "https://open.spotify.com/artist/2KwQkyJzT9r6Hh56jtfuse"
-        }
-      ],
-      "duration_ms": 84124,
-      "name": "Nunca Duvide de um Mano (Speed Up)",
-      "url": "https://open.spotify.com/track/5ayuzPrJE082hhsn3tc00D"
     },
     {
       "added_at": "2023-12-27 14:18:14",
@@ -1015,6 +1015,22 @@
     {
       "added_at": "2023-12-27 14:18:14",
       "album": {
+        "name": "Se a Saudade Bater (Workout Version)",
+        "url": "https://open.spotify.com/album/5XC3pLLrZMj6d254BFHBD3"
+      },
+      "artists": [
+        {
+          "name": "MC Tairon",
+          "url": "https://open.spotify.com/artist/7ujbuq6hAjLSf7cGr6au0b"
+        }
+      ],
+      "duration_ms": 131280,
+      "name": "Se a Saudade Bater (Workout Version)",
+      "url": "https://open.spotify.com/track/4WDFyuqWL2TzMFeiBqMdK2"
+    },
+    {
+      "added_at": "2023-12-27 14:18:14",
+      "album": {
         "name": "Kill Bill - Speed",
         "url": "https://open.spotify.com/album/65EoSVA4XRpos1EZEgu2KB"
       },
@@ -1031,22 +1047,6 @@
       "duration_ms": 88068,
       "name": "Kill Bill - Speed",
       "url": "https://open.spotify.com/track/2BFlLdo7yye9ZNXlCo3xbS"
-    },
-    {
-      "added_at": "2023-12-27 14:18:14",
-      "album": {
-        "name": "Se a Saudade Bater (Workout Version)",
-        "url": "https://open.spotify.com/album/5XC3pLLrZMj6d254BFHBD3"
-      },
-      "artists": [
-        {
-          "name": "MC Tairon",
-          "url": "https://open.spotify.com/artist/7ujbuq6hAjLSf7cGr6au0b"
-        }
-      ],
-      "duration_ms": 131280,
-      "name": "Se a Saudade Bater (Workout Version)",
-      "url": "https://open.spotify.com/track/4WDFyuqWL2TzMFeiBqMdK2"
     },
     {
       "added_at": "2023-12-27 14:18:14",

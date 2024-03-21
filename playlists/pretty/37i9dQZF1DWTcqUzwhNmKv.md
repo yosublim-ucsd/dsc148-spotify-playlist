@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTcqUzwhNmKv.md) - [plain]
 
 > The Devil Wears Prada is on top of today's best Metal playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,483,050 likes - 75 songs - 4 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,483,303 likes - 75 songs - 4 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTcqUzwhNmKv.md) - [plain]
 | 18 | [Nobody](https://open.spotify.com/track/4Rs2N7ewIjanXUNYtMKK3j) | [Avenged Sevenfold](https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs) | [Life Is But a Dream…](https://open.spotify.com/album/50YNY0xy9uJ0U9eFQBdLJa) | 5:53 |
 | 19 | [Blinding Faith](https://open.spotify.com/track/5oSnYy4EijgEEEDO9MPDq4) | [Knocked Loose](https://open.spotify.com/artist/4qrHkx5cgWIslciLXUMrYw) | [Blinding Faith](https://open.spotify.com/album/2SUpvMXqoANnpp4qLYCnMp) | 2:51 |
 | 20 | [Killshot](https://open.spotify.com/track/3F8Bjx90CZMEWADfHSImPN) | [Upon A Burning Body](https://open.spotify.com/artist/1bPBx2qbpWzEoLujeHC3G7) | [Killshot](https://open.spotify.com/album/6RLzKueY42p7BlSIRgOpVC) | 2:32 |
-| 21 | [21 Gun Salute](https://open.spotify.com/track/33GEGdCuSpbt3x6B33Jd82) | [Catch Your Breath](https://open.spotify.com/artist/2fqPOGxG12nEERj8YG7p22) | [Shame On Me](https://open.spotify.com/album/4EcSKM9PjQiXywZ3ItofZG) | 3:46 |
+| 21 | [21 Gun Salute](https://open.spotify.com/track/20Ov4hI7Z5xh9NkLMMf0db) | [Catch Your Breath](https://open.spotify.com/artist/2fqPOGxG12nEERj8YG7p22) | [Shame On Me](https://open.spotify.com/album/4Rs8FkCMRVYg9CtpKODlVN) | 3:46 |
 | 22 | [Burn MF \(feat\. Rob Zombie\)](https://open.spotify.com/track/1rH3m5jxL3TkznX0owKS39) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM), [Rob Zombie](https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5) | [The Wrong Side of Heaven Volume 1 + 2](https://open.spotify.com/album/2lEUy2FQGa4QchYQRbkN6t) | 3:37 |
 | 23 | [IF IT DOESN'T HURT](https://open.spotify.com/track/4olevV9BVXIZpcI3g8E6kI) | [NOTHING MORE](https://open.spotify.com/artist/39VNwvlQTqE9SvgPjjnMpc) | [IF IT DOESN'T HURT](https://open.spotify.com/album/5kx9a5qBDk9zQAk84pnPWo) | 2:59 |
 | 24 | [Nightmare](https://open.spotify.com/track/0jrOt6XnOTeZOd56U16Bfp) | [Polaris](https://open.spotify.com/artist/0v2e0oznnTaIXKLGKHphfX) | [Fatalism](https://open.spotify.com/album/6yMmUKkAfVoHJT71ZpoBi5) | 4:28 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTcqUzwhNmKv.md) - [plain]
 | 74 | [ROC SH!T](https://open.spotify.com/track/5mQH7w7Cqphygl68gTsDBg) | [UnityTX](https://open.spotify.com/artist/3uPce3TKw7cjheMNhuhNs9) | [Ferality](https://open.spotify.com/album/5TRazGLWI1r9hL3XsQ1feB) | 3:05 |
 | 75 | [PILGRIMAGE TO OBLIVION](https://open.spotify.com/track/5iE8YiGRqD1NmFdk6RAvHq) | [Ihsahn](https://open.spotify.com/artist/2E1jLcUfqd9w2XtybNB2Za) | [IHSAHN](https://open.spotify.com/album/78eWgdCbll6LBKZR696IBE) | 4:20 |
 
-Snapshot ID: `MCxhNzAwNDM1MjQ0MTIxNWQ4YWZhYWU3YTI5ZThmZmFiYzBjNmE0NzEw`
+Snapshot ID: `MCxlYjhiZGIxOTVlNjE5ZjMyOThhMWY4N2Y5NGYzYjg1Yzk4YWE0ZWVm`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7vZYLzFGQXc.md) - [plain]
 
 > Fresh new Korean independent & rising talents are here\. \(Cover: IMI\_BLUE\(이미블루\)\)\(프레쉬한 한국의 새로운 재능들을 만나보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,474 likes - 100 songs - 5 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,504 likes - 100 songs - 5 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7vZYLzFGQXc.md) - [plain]
 | 10 | [13hours](https://open.spotify.com/track/5vF0ZnSkvHsetbHeDJ1o8m) | [BAMSOOSUNG](https://open.spotify.com/artist/2iijjkoVBe57TcHnsR3sOy) | [13hours](https://open.spotify.com/album/3OdDinRKTDnHTZZv9TjDTl) | 3:07 |
 | 11 | [Love me less](https://open.spotify.com/track/44JHypvQnagQCdGNovunSC) | [Sogaksogak](https://open.spotify.com/artist/4ErSSLqJ6lBxlgzBrkjubZ) | [Love me less](https://open.spotify.com/album/5SsmpyZIaZ0dTXutVXfYll) | 2:53 |
 | 12 | [OH I](https://open.spotify.com/track/6acC1xzDPEjWZ92ScwgxjR) | [Lay.bn](https://open.spotify.com/artist/14EH5JWdAUrtWWQSzSwnGR) | [OH I](https://open.spotify.com/album/0N8ielabKUN04h2FV3qJ98) | 2:15 |
-| 13 | [얼굴 Face](https://open.spotify.com/track/50OgyUeTppAqsJbGthk2x9) | [Lee go do](https://open.spotify.com/artist/18r9qka1AKwgqzUzaLdxhm) | [얼굴 Face](https://open.spotify.com/album/1lcBukbd61zGUprqrePYMv) | 3:34 |
+| 13 | [Face](https://open.spotify.com/track/50OgyUeTppAqsJbGthk2x9) | [Lee go do](https://open.spotify.com/artist/18r9qka1AKwgqzUzaLdxhm) | [Face](https://open.spotify.com/album/1lcBukbd61zGUprqrePYMv) | 3:34 |
 | 14 | [Eye for an Eye](https://open.spotify.com/track/4dhNMYoUrLbFgkq3tvOV82) | [RB NINE](https://open.spotify.com/artist/79tuyMDO42MRFpm8gOXn7p) | [Eye for an Eye](https://open.spotify.com/album/3PFJMoQUssxcLVqEYmFfAM) | 3:15 |
 | 15 | [Habit](https://open.spotify.com/track/7IxgIn4YcdJjtaE9dqw1zw) | [Jae Woo AN](https://open.spotify.com/artist/4xDwz6SwDRIFKshWYRjIL3), [LIPNINE](https://open.spotify.com/artist/1q5u8LnvomvAmiMhg8kRDp) | [Intermission](https://open.spotify.com/album/377CA84mWXSqmnxqEwBJ6W) | 2:55 |
 | 16 | [oh 이건 ㅈ dat 써 !](https://open.spotify.com/track/55NKbG8Lhk7rRn0Nmk0TSy) | [Diett](https://open.spotify.com/artist/3dJNguSwjDrPZvp36FnPGo), [BlueWhale](https://open.spotify.com/artist/1106z5vBDKCXowfWQmOLoX) | [dailylife\_2024.zip](https://open.spotify.com/album/37g8hiMyihJ09mplIhL64q) | 2:53 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7vZYLzFGQXc.md) - [plain]
 | 99 | [Foolish dream](https://open.spotify.com/track/0jEPptbPvkRugup7GbB75m) | [Views in i](https://open.spotify.com/artist/6tAcBtwTtklMKSYcQc5qvV) | [Foolish dream](https://open.spotify.com/album/2T1XcNb9Uw1N46hpOTaxdc) | 2:44 |
 | 100 | [Rock, Scissors, Paper!](https://open.spotify.com/track/1cDIe8UxfzgKRE30JpnlcS) | [KACHISAN](https://open.spotify.com/artist/20pVcZq4VeWqe3CxlWx2nH) | [Rock, Scissors, Paper!](https://open.spotify.com/album/7mHmUOPnTN9grCWRBwU3Ew) | 3:27 |
 
-Snapshot ID: `MCxlODdkNDY2ODk4N2I2ZjkwNzNmMWI4YTg0YjNjMjJlZTlmMzA0ZDIz`
+Snapshot ID: `MCw1ZWViMzJkNGU5YWNmNzQ2YWE5ZTBlNmExMGE1OGM4ODcxNGQzNmY3`

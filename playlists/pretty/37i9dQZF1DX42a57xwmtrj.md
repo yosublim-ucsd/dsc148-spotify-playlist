@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX42a57xwmtrj.md) - [plain]
 
 > ¡Lo naco es chido, y que viva el rocanroool! Botellita de Jerez en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 160,616 likes - 75 songs - 5 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 160,690 likes - 75 songs - 5 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX42a57xwmtrj.md) - [plain]
 | 22 | [Al Final Lloré](https://open.spotify.com/track/1U8O8ZjjM4b7ROyOPQonDj) | [Karatula](https://open.spotify.com/artist/7Cua15H5PkQUNlea7KAfkH) | [15 Éxitos](https://open.spotify.com/album/44zewT40ZvoTw2uqBDB9xb) | 4:27 |
 | 23 | [Un Minuto de Amor, Pt\. 1](https://open.spotify.com/track/56eJXlNuSgZ7ylwPSXWtvK) | [Interpuesto](https://open.spotify.com/artist/2BbXMNKjkmAw56U7oXQDLB) | [Un Minuto de Amor](https://open.spotify.com/album/77sGKcufHihszGpeaEUFbL) | 3:33 |
 | 24 | [Te Vas a Acordar de Mí](https://open.spotify.com/track/1kaLpH5uG4l7RbLKYU7bF5) | [Tex Tex](https://open.spotify.com/artist/22UoNzSexUEdL4mnuA8eD4) | [Rock En Español \- Lo Mejor De Tex Tex](https://open.spotify.com/album/3Sx5ggdxFDZxsn3Y6IjmhG) | 3:22 |
-| 25 | [Anda Borracho Pancho](https://open.spotify.com/track/7w4yt7qtiS6hAFWr4drUdw) | [Sam Sam](https://open.spotify.com/artist/0LRuvIEgEeGnU02JG2Rbcb) | [Anda Borracho Pancho](https://open.spotify.com/album/6h5XBXviV0nnD4ZgyAbuXw) | 5:02 |
-| 26 | [No Me Arrepiento](https://open.spotify.com/track/7CnRKqapOa3fCKWCI6XizL) | [Tres Vallejo](https://open.spotify.com/artist/0qV25r4EHYSKLyMelm5U5s) | [Llorando a Solas](https://open.spotify.com/album/424vA5gXeRyA8Gd1UbVx9x) | 3:57 |
+| 25 | [No Me Arrepiento](https://open.spotify.com/track/7CnRKqapOa3fCKWCI6XizL) | [Tres Vallejo](https://open.spotify.com/artist/0qV25r4EHYSKLyMelm5U5s) | [Llorando a Solas](https://open.spotify.com/album/424vA5gXeRyA8Gd1UbVx9x) | 3:57 |
+| 26 | [Anda Borracho Pancho](https://open.spotify.com/track/7w4yt7qtiS6hAFWr4drUdw) | [Sam Sam](https://open.spotify.com/artist/0LRuvIEgEeGnU02JG2Rbcb) | [Anda Borracho Pancho](https://open.spotify.com/album/6h5XBXviV0nnD4ZgyAbuXw) | 5:02 |
 | 27 | [A.D.O.](https://open.spotify.com/track/1zP1eEWNTrTJxDeGNv0XjH) | [El Tri](https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne) | [40 Años Vol\. 1](https://open.spotify.com/album/2XxGkIvhq9F2eHxSifNpu1) | 4:54 |
 | 28 | [Tu Mamá No Me Quiere \- Remastered](https://open.spotify.com/track/0vGzODOKTWE2jJQgBbYF3v) | [Vago](https://open.spotify.com/artist/0jwtqRTkBlt2gzRwK3IrD7) | [Suicida \(Remastered\)](https://open.spotify.com/album/3IT3HKS1d8nRgQyMmwH9dX) | 4:03 |
 | 29 | [El No Lo Mato](https://open.spotify.com/track/2hntX3w48OucbEqoLoDnPZ) | [El Haragán y Compañía](https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV) | [Delincuentes Con Placa](https://open.spotify.com/album/4Sdi8I9p9AkGbx8LnFf4wn) | 4:13 |
@@ -62,10 +62,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX42a57xwmtrj.md) - [plain]
 | 52 | [Me Llamas](https://open.spotify.com/track/2vurarFFGibcMG7Bdx7WDH) | [Jessie Blues](https://open.spotify.com/artist/4MlV4s55GdlnJTnHl81Cbk) | [Entre Ángeles y Poetas](https://open.spotify.com/album/20GZvLSomrpPTQwUPQv5bi) | 4:13 |
 | 53 | [El y Yo](https://open.spotify.com/track/2H1uTK1SvKijag9Xofk7vO) | [Franco Escamilla](https://open.spotify.com/artist/1ZlIROqKXOEvPgEffO8vri) | [Fe](https://open.spotify.com/album/48SFSSTFxF8Hlih5D2t5Jb) | 2:46 |
 | 54 | [De Que el Amor Apesta](https://open.spotify.com/track/36GyJisOpesFuVqrcoXOjk) | [Charlie Monttana](https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv) | [Sé Lo Que Hicieron el Disco Pasado \(Del Creador de Suicida\)](https://open.spotify.com/album/7fn7RJLP6jySOnTxhRefLm) | 4:38 |
-| 55 | [Eso Es Amor](https://open.spotify.com/track/3TeYPfcZ7BKLwEic9WnzCz) | [Hazel](https://open.spotify.com/artist/6rRH3dKCPZ8L550tadjx1i) | [15 Éxitos](https://open.spotify.com/album/0dlB97Gi1aU62lxdlEE7y8) | 4:26 |
+| 55 | [Como Dona a Su Agujero](https://open.spotify.com/track/4SeWTbfjNvu6ljXCo61tra) | [Sam Sam](https://open.spotify.com/artist/0LRuvIEgEeGnU02JG2Rbcb) | [Anda Borracho Pancho](https://open.spotify.com/album/6h5XBXviV0nnD4ZgyAbuXw) | 4:21 |
 | 56 | [Volveré](https://open.spotify.com/track/1Cgos3Sy03bCQMKxqnswGU) | [Interpuesto](https://open.spotify.com/artist/2BbXMNKjkmAw56U7oXQDLB) | [Grandes Éxitos a Nuestro Estilo, Vol\. 1](https://open.spotify.com/album/5N3V31gLMUfOt999zrpKpV) | 3:35 |
 | 57 | [Hotel California](https://open.spotify.com/track/3JrPxPnQ2TdBF6BZuZpzTK) | [Heavy Nopal](https://open.spotify.com/artist/7oFDTCTqOMHss3q89srhul) | [Los Nopales Tienen la Fuerza](https://open.spotify.com/album/6k073KSG69UAlzi10TbWnv) | 6:29 |
-| 58 | [Como Dona a Su Agujero](https://open.spotify.com/track/4SeWTbfjNvu6ljXCo61tra) | [Sam Sam](https://open.spotify.com/artist/0LRuvIEgEeGnU02JG2Rbcb) | [Anda Borracho Pancho](https://open.spotify.com/album/6h5XBXviV0nnD4ZgyAbuXw) | 4:21 |
+| 58 | [Eso Es Amor](https://open.spotify.com/track/3TeYPfcZ7BKLwEic9WnzCz) | [Hazel](https://open.spotify.com/artist/6rRH3dKCPZ8L550tadjx1i) | [15 Éxitos](https://open.spotify.com/album/0dlB97Gi1aU62lxdlEE7y8) | 4:26 |
 | 59 | [El Esqueleto](https://open.spotify.com/track/0CucYEXuGngb0vfUMpOmID) | [Victimas Del Doctor Cerebro](https://open.spotify.com/artist/6Z112eJxKl1E3nAbYZBr7M) | [Lucha Rock](https://open.spotify.com/album/3qFQ5sXiOUEy0vVMj1LIii) | 3:43 |
 | 60 | [Por Tu Amor](https://open.spotify.com/track/14Piw2n4E4fsRs8Ay3BhPS) | [Isis](https://open.spotify.com/artist/1LONEO5qtKtO4HqMcc4OpC) | [Por Tu Amor](https://open.spotify.com/album/4M1twGVolM2JCjLET2zQBa) | 3:20 |
 | 61 | [Perro negro y callejero](https://open.spotify.com/track/67RXRr041mkHvVAftpvKXm) | [Three Souls In My Mind](https://open.spotify.com/artist/0FWt6THmobpdzk7727cq2R) | [15 Grandes Exitos](https://open.spotify.com/album/4XF4LoXW8gg1wMVLLfJIRR) | 3:08 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX42a57xwmtrj.md) - [plain]
 | 74 | [Los Versos de la Catrina](https://open.spotify.com/track/2vrAYVaAM7VuEyhA0xgmT7) | [Armando Palomas](https://open.spotify.com/artist/1kv4ncfnnPUUXAlEOS55B4) | [Los Versos de la Catrina](https://open.spotify.com/album/6OZIPpGkC15B2VSaQ8iqJ7) | 4:07 |
 | 75 | [Abuso de autoridad](https://open.spotify.com/track/1XheWGcrMGywXilhQPoZzr) | [Three Souls In My Mind](https://open.spotify.com/artist/0FWt6THmobpdzk7727cq2R) | [15 Grandes Exitos](https://open.spotify.com/album/4XF4LoXW8gg1wMVLLfJIRR) | 2:03 |
 
-Snapshot ID: `MCw3MzljYzZlMjJkYzc2MjQ2Mjk2NTY5ZDg0NDA1MzQzYjVkN2RlMGYy`
+Snapshot ID: `MCw3ZTc1MWMwNmZlOGIzYTkzMDI0MDQ0NjRiMzhkYjNjYWUxNGRmNTky`

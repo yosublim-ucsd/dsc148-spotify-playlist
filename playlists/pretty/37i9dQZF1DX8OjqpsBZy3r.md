@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8OjqpsBZy3r.md) - [plain]
 
 > The trending country songs and viral hits you need to know\. Cover: Hailey Whitters
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,219 likes - 114 songs - 6 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,220 likes - 114 songs - 6 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Austin](https://open.spotify.com/track/4NJqhmkGN042BrvHoMKUrJ) | [Dasha](https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I) | [Austin](https://open.spotify.com/album/4JtlZzYJEa7bejLF0ASnk0) | 2:51 |
+| 1 | [Austin](https://open.spotify.com/track/6b81dy3WjbozXK6b7C1gu5) | [Dasha](https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I) | [What Happens Now?](https://open.spotify.com/album/0rQRrrZPPv6XXsxilJ1wFz) | 2:51 |
 | 2 | [Good Times Go By Too Fast](https://open.spotify.com/track/7INk3focyW89pATBgageU7) | [Dylan Scott](https://open.spotify.com/artist/78YqeIji3mgAS2K1Maca6x) | [Livin' My Best Life](https://open.spotify.com/album/5UkfLfGyiREHCmzM1kEUV0) | 2:49 |
 | 3 | [A Cigarette](https://open.spotify.com/track/7kpCMD8iv4RC971CJRPZ3U) | [Gavin Adcock](https://open.spotify.com/artist/5jG6uRqinuI83luutMpW6y) | [A Cigarette](https://open.spotify.com/album/6e4TRkJXdQCdj8x5Oj0v9u) | 2:59 |
 | 4 | [Buckle Bunny](https://open.spotify.com/track/17KfodDyg0yKQYmjGGGnlA) | [Tanner Adell](https://open.spotify.com/artist/5xKVALj2MSqOHmQhburCM8) | [BUCKLE BUNNY](https://open.spotify.com/album/0s3PLrYRp1PojvP8W9g1qS) | 3:12 |
@@ -123,4 +123,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8OjqpsBZy3r.md) - [plain]
 | 113 | [Forever and Ever, Amen](https://open.spotify.com/track/1ipcb9qXpSHWhSUvdxJhsx) | [Randy Travis](https://open.spotify.com/artist/1pTuR132U5b4Rizal2Pr7m) | [Always & Forever](https://open.spotify.com/album/28ZWOeiZ8l4Uydl3hZjvgv) | 3:32 |
 | 114 | [Boy](https://open.spotify.com/track/7A8OfzqXBHYGk61FZTHoeo) | [Lee Brice](https://open.spotify.com/artist/5Zq7R5qmi58ByYyBQTlNuk) | [Lee Brice](https://open.spotify.com/album/3GyH4lUfzEkbxlaW5xTYYL) | 3:18 |
 
-Snapshot ID: `MCw2MTI0ZTZlZGI5ZjNhODYwN2VlNDcxYWYwOGViMzhlMTA4NDhiMGI0`
+Snapshot ID: `MCxiYjU3MjYyOTk0ZTM1MjA1YmYwZjQxNTRmMjY0YTdlMzdjMmY4MWNm`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZUTt0fNaCPB.md) - [plain]
 
 > No need for a gadget, just play these rock songs to set your pace!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,053,624 likes - 75 songs - 4 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,053,915 likes - 75 songs - 4 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,14 +29,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZUTt0fNaCPB.md) - [plain]
 | 19 | [Stricken](https://open.spotify.com/track/6RJdYpFQwLyNfDc5FbjkgV) | [Disturbed](https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa) | [Ten Thousand Fists](https://open.spotify.com/album/0Te7OvzuUMnbsqCneIDUm6) | 4:05 |
 | 20 | [Still Counting](https://open.spotify.com/track/7nsO4eXkY7DvrWbjYUDLJS) | [Volbeat](https://open.spotify.com/artist/0L5fC7Ogm2YwgqVCRcF1bT) | [Guitar Gangsters & Cadillac Blood](https://open.spotify.com/album/4BzHvHsnYTIEmrhh6zLDmt) | 4:21 |
 | 21 | [Nightmare](https://open.spotify.com/track/4UEo1b0wWrtHMC8bVqPiH8) | [Avenged Sevenfold](https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs) | [Nightmare](https://open.spotify.com/album/7vfuTRXIAYJz5Uc8SddnTr) | 6:14 |
-| 22 | [Sound of Madness](https://open.spotify.com/track/0W9Xvd4Qx1aZPxEi94vgRY) | [Shinedown](https://open.spotify.com/artist/70BYFdaZbEKbeauJ670ysI) | [The Sound of Madness](https://open.spotify.com/album/4PeRcYNYVB1mD4wemj5zld) | 3:53 |
-| 23 | [Remedy](https://open.spotify.com/track/5ynxx6zC4dgzsMHLYQ04Dc) | [Seether](https://open.spotify.com/artist/6B5c4sch27tWHAGdarpPaW) | [Karma and Effect](https://open.spotify.com/album/1C5xrwfzgDM0hz7Kb035V3) | 3:27 |
+| 22 | [Remedy](https://open.spotify.com/track/5ynxx6zC4dgzsMHLYQ04Dc) | [Seether](https://open.spotify.com/artist/6B5c4sch27tWHAGdarpPaW) | [Karma and Effect](https://open.spotify.com/album/1C5xrwfzgDM0hz7Kb035V3) | 3:27 |
+| 23 | [Sound of Madness](https://open.spotify.com/track/0W9Xvd4Qx1aZPxEi94vgRY) | [Shinedown](https://open.spotify.com/artist/70BYFdaZbEKbeauJ670ysI) | [The Sound of Madness](https://open.spotify.com/album/4PeRcYNYVB1mD4wemj5zld) | 3:53 |
 | 24 | [Take A Look Around](https://open.spotify.com/track/2avKuMN2QXkaG9vvHa2JLt) | [Limp Bizkit](https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb) | [Chocolate Starfish And The Hot Dog Flavored Water](https://open.spotify.com/album/5mi7FKaWE5CtcOjdyxScA7) | 5:21 |
 | 25 | [Indestructible](https://open.spotify.com/track/42ZVk59gT4tMlrZmd8Ijxf) | [Disturbed](https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa) | [Indestructible \(Deluxe Edition\)](https://open.spotify.com/album/6hz9f6H7URtoigU517WjD6) | 4:38 |
 | 26 | [Psycho](https://open.spotify.com/track/383QXk8nb2YrARMUwDdjQS) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Drones](https://open.spotify.com/album/2wart5Qjnvx1fd7LPdQxgJ) | 5:16 |
 | 27 | [Absolute Zero](https://open.spotify.com/track/14EORgkbXqIx5K4Haucmnb) | [Stone Sour](https://open.spotify.com/artist/49qiE8dj4JuNdpYGRPdKbF) | [House of Gold & Bones, Part 1](https://open.spotify.com/album/2nCHgPLLyIgxFKUBYuMKPn) | 3:49 |
-| 28 | [Cut the Cord](https://open.spotify.com/track/4LFBVDJV0xpayUvquQVzhS) | [Shinedown](https://open.spotify.com/artist/70BYFdaZbEKbeauJ670ysI) | [Threat to Survival](https://open.spotify.com/album/7969zwJB8p021EBcCUjsv9) | 3:44 |
-| 29 | [Cryin' Like A Bitch!!](https://open.spotify.com/track/4a9i7rCLfPjbS1sNamZeQN) | [Godsmack](https://open.spotify.com/artist/6gZq1Q6bdOxsUPUG1TaFbF) | [The Oracle \(Deluxe Edition\)](https://open.spotify.com/album/6yOWKkrlpmUWOC5yndULeq) | 3:21 |
+| 28 | [Cryin' Like A Bitch!!](https://open.spotify.com/track/4a9i7rCLfPjbS1sNamZeQN) | [Godsmack](https://open.spotify.com/artist/6gZq1Q6bdOxsUPUG1TaFbF) | [The Oracle \(Deluxe Edition\)](https://open.spotify.com/album/6yOWKkrlpmUWOC5yndULeq) | 3:21 |
+| 29 | [Cut the Cord](https://open.spotify.com/track/4LFBVDJV0xpayUvquQVzhS) | [Shinedown](https://open.spotify.com/artist/70BYFdaZbEKbeauJ670ysI) | [Threat to Survival](https://open.spotify.com/album/7969zwJB8p021EBcCUjsv9) | 3:44 |
 | 30 | [You're Going Down](https://open.spotify.com/track/5omWAB5iNMHvbAfBSzkdu8) | [Sick Puppies](https://open.spotify.com/artist/7qAcXJgt1PWnxwUgxMdyuk) | [Tri\-polar](https://open.spotify.com/album/17GBjeSa10SoUukS9lJCTv) | 3:07 |
 | 31 | [Inside the Fire](https://open.spotify.com/track/5cxp9kjCFyJwzv3lzeX7ku) | [Disturbed](https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa) | [Indestructible \(Deluxe Edition\)](https://open.spotify.com/album/6hz9f6H7URtoigU517WjD6) | 3:51 |
 | 32 | [I Don't Wanna Stop](https://open.spotify.com/track/5axOkQnmQmwtjr4bv1Xt7i) | [Ozzy Osbourne](https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY) | [Black Rain \(Expanded Edition\)](https://open.spotify.com/album/6wiS0vTk9GfsiUKJEOav8Z) | 3:59 |
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZUTt0fNaCPB.md) - [plain]
 | 40 | [Psychosocial](https://open.spotify.com/track/2MvIMgtWyK88OiPi0J8Dg3) | [Slipknot](https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8) | [All Hope Is Gone](https://open.spotify.com/album/0hFWapnP7orzXCMwNU5DuA) | 4:43 |
 | 41 | [Ten Thousand Fists](https://open.spotify.com/track/5hkgrWxkobGtg30I7DsfVu) | [Disturbed](https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa) | [Ten Thousand Fists](https://open.spotify.com/album/0Te7OvzuUMnbsqCneIDUm6) | 3:32 |
 | 42 | [Come And Get It](https://open.spotify.com/track/44M12pkcMqqdbNNooHCZ6C) | [I Prevail](https://open.spotify.com/artist/3Uobr6LgQpBbk6k4QGAb3V) | [Lifelines](https://open.spotify.com/album/1GpxP0nEqmQoQimVAp8bAZ) | 3:01 |
-| 43 | [Dance Macabre](https://open.spotify.com/track/1E2WTcYLP1dFe1tiGDwRmT) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Prequelle](https://open.spotify.com/album/1KMfjy6MmPorahRjxhTnxm) | 3:39 |
-| 44 | [The Devil's Bleeding Crown](https://open.spotify.com/track/79M3Eq1q61lkeQJ1OCVEdZ) | [Volbeat](https://open.spotify.com/artist/0L5fC7Ogm2YwgqVCRcF1bT) | [Seal The Deal & Let's Boogie](https://open.spotify.com/album/43UPS43heoPmecwkeQhAnI) | 3:58 |
+| 43 | [The Devil's Bleeding Crown](https://open.spotify.com/track/79M3Eq1q61lkeQJ1OCVEdZ) | [Volbeat](https://open.spotify.com/artist/0L5fC7Ogm2YwgqVCRcF1bT) | [Seal The Deal & Let's Boogie](https://open.spotify.com/album/43UPS43heoPmecwkeQhAnI) | 3:58 |
+| 44 | [Dance Macabre](https://open.spotify.com/track/1E2WTcYLP1dFe1tiGDwRmT) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Prequelle](https://open.spotify.com/album/1KMfjy6MmPorahRjxhTnxm) | 3:39 |
 | 45 | [DEVIL](https://open.spotify.com/track/2hEYslbdYWFSIA6JboUvnR) | [Shinedown](https://open.spotify.com/artist/70BYFdaZbEKbeauJ670ysI) | [ATTENTION ATTENTION](https://open.spotify.com/album/0dtwIycvTaFNjo44QRwWz7) | 3:27 |
 | 46 | [When Legends Rise](https://open.spotify.com/track/0zVMR0p7yRbKD6HEg9L2qs) | [Godsmack](https://open.spotify.com/artist/6gZq1Q6bdOxsUPUG1TaFbF) | [When Legends Rise](https://open.spotify.com/album/2wOY4tZ3bcJecD5ypBPHg9) | 2:52 |
 | 47 | [Gasoline](https://open.spotify.com/track/5ih5herXfvp5coBVFhmoAW) | [Seether](https://open.spotify.com/artist/6B5c4sch27tWHAGdarpPaW) | [Disclaimer](https://open.spotify.com/album/5u0UdiircjbveLg8cs39iw) | 2:48 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZUTt0fNaCPB.md) - [plain]
 | 74 | [BURN IT](https://open.spotify.com/track/2j02RtZz6v53FRw4oWliZf) | [FEVER 333](https://open.spotify.com/artist/1B0155rdv175D1tQ8VH7Oy) | [STRENGTH IN NUMB333RS](https://open.spotify.com/album/5PvosHtqCuqLK8A131lGZf) | 3:52 |
 | 75 | [Eyes Of A Panther](https://open.spotify.com/track/1iWLoUrmSLht6keK0436jK) | [Steel Panther](https://open.spotify.com/artist/3l02WF362j1oHOurzuseBv) | [Feel The Steel](https://open.spotify.com/album/4SICJohKsdlQS3AW3Spg84) | 3:36 |
 
-Snapshot ID: `MCw1ZjJmMmE1MDhmNDhlZDlmZGFlMWJhN2NkOGY2MjJlZjU0N2FjNjJj`
+Snapshot ID: `MCwzZjU2MjI4ZTJiNjNkM2M2NzkwMTdjNzcwOTg5YzIwYTNmM2QxODQ2`

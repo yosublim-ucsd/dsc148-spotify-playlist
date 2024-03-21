@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0kbJZpiYdZl.md) - [plain]
 
 > The hottest tracks in the United States\. Cover: Ariana Grande
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,413,991 likes - 50 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,414,687 likes - 50 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0kbJZpiYdZl.md) - [plain]
 | 15 | [Stick Season](https://open.spotify.com/track/0mflMxspEfB0VbI1kyLiAv) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Stick Season](https://open.spotify.com/album/50ZenUP4O2Q5eCy2NRNvuz) | 3:02 |
 | 16 | [Never Lose Me \(feat\. SZA & Cardi B\)](https://open.spotify.com/track/0i1bokCJ95evU1gb5HcXFy) | [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP), [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Fine Ho, Stay](https://open.spotify.com/album/4tNtjyBBXMhGRwqOQTbh6i) | 2:45 |
 | 17 | [Lovin On Me](https://open.spotify.com/track/4xhsWYTOGcal8zt0J161CU) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Lovin On Me](https://open.spotify.com/album/6VCO0fDBGbRW8mCEvV95af) | 2:18 |
-| 18 | [Austin](https://open.spotify.com/track/4NJqhmkGN042BrvHoMKUrJ) | [Dasha](https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I) | [Austin](https://open.spotify.com/album/4JtlZzYJEa7bejLF0ASnk0) | 2:51 |
+| 18 | [Austin](https://open.spotify.com/track/6b81dy3WjbozXK6b7C1gu5) | [Dasha](https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I) | [What Happens Now?](https://open.spotify.com/album/0rQRrrZPPv6XXsxilJ1wFz) | 2:51 |
 | 19 | [Cruel Summer](https://open.spotify.com/track/1BxfuPKGuaTgP7aM0Bbdwr) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Lover](https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq) | 2:58 |
 | 20 | [act ii: date @ 8 \(feat\. Drake\) \- remix](https://open.spotify.com/track/3QS9ZCtoSCJhmaJ7QNXSAS) | [4batz](https://open.spotify.com/artist/5fi7lIgJGH3RgUpJYcffQ7), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [act ii: date @ 8 \(feat\. Drake\) \[remix\]](https://open.spotify.com/album/7luH8lI8B6c4r3TxLJ2aU1) | 3:51 |
 | 21 | [Training Season](https://open.spotify.com/track/6Qb7YsAqH4wWFUMbGsCpap) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Training Season](https://open.spotify.com/album/3sqC2sXZc0b9r7WM9z3784) | 3:29 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0kbJZpiYdZl.md) - [plain]
 | 49 | [My Love Mine All Mine](https://open.spotify.com/track/3vkCueOmm7xQDoJ17W1Pm3) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [The Land Is Inhospitable and So Are We](https://open.spotify.com/album/2Cn1d2KgbkAqbZCJ1RzdkA) | 2:17 |
 | 50 | [Igual Que Un Ángel \(with Peso Pluma\)](https://open.spotify.com/track/6XaJfhwof7qIgbbXO5tIQI) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [ORQUÍDEAS](https://open.spotify.com/album/5U20AVSsUvycGtWip4XQfo) | 4:20 |
 
-Snapshot ID: `MCxmMzdmMmQ1YTgxYjM1ZTczMjFjNzEyNzBkMzJjMWJjN2Y1NTlmM2Zl`
+Snapshot ID: `MCw5MGFkNjlmMDNiZjJlMjNjZTA5OTA3N2U1Mjk2ZjllOTI3Y2ZjNzMx`

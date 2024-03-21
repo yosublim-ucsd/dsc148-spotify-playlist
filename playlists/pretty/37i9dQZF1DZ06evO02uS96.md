@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO02uS96.md) - [plain]
 
 > This is Aimer\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 160,705 likes - 50 songs - 3 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 160,730 likes - 50 songs - 3 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO02uS96.md) - [plain]
 | 23 | [escalate](https://open.spotify.com/track/5GYltgYEZu2dKnBjSTrCA3) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [escalate](https://open.spotify.com/album/0y2rZTOKv2EvzF0F8Dv7bz) | 4:02 |
 | 24 | [StarRingChild](https://open.spotify.com/track/3Xzb9D64WsKmYcV8AGMmeu) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [Midnight Sun](https://open.spotify.com/album/5tWOnk7nrqGc6Fhqe74Kse) | 5:28 |
 | 25 | [ポラリス](https://open.spotify.com/track/0m37tmxs9lX9LQjoNcvhKk) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [After Dark](https://open.spotify.com/album/7xW2KsTPW5qytt3G9IxEXa) | 6:05 |
-| 26 | [ONE](https://open.spotify.com/track/01jAlHee4psROggfWjk8hp) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [Sun Dance](https://open.spotify.com/album/0FNWMFyb0nLCCHucsDfxmA) | 5:28 |
-| 27 | [春はゆく](https://open.spotify.com/track/2rizK3oastlZwyoYwrcLgC) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [Walpurgis](https://open.spotify.com/album/3iFkNa8SRNFHD7La40UqUz) | 5:05 |
+| 26 | [春はゆく](https://open.spotify.com/track/2rizK3oastlZwyoYwrcLgC) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [Walpurgis](https://open.spotify.com/album/3iFkNa8SRNFHD7La40UqUz) | 5:05 |
+| 27 | [ONE](https://open.spotify.com/track/01jAlHee4psROggfWjk8hp) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [Sun Dance](https://open.spotify.com/album/0FNWMFyb0nLCCHucsDfxmA) | 5:28 |
 | 28 | [Deep down](https://open.spotify.com/track/42IF4VUNaIGc1oD74rHa8O) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [Deep down](https://open.spotify.com/album/7arScRaGCUmEWNeQEPDq3K) | 3:47 |
 | 29 | [六等星の夜](https://open.spotify.com/track/73tC9ZhU1iyphrL1ruQQWU) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [Sleepless Nights](https://open.spotify.com/album/3ZrzXf0SU0XWmxOPBMpccD) | 5:38 |
 | 30 | [セプテンバーさん](https://open.spotify.com/track/0TNCFV9nHsEz3E01HO3QrM) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [星の消えた夜に](https://open.spotify.com/album/1mR8kxKKuBobjRXaZjHWw4) | 5:03 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO02uS96.md) - [plain]
 | 49 | [Resonantia](https://open.spotify.com/track/6JxGX21hLq96CSMgwCWDmr) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [Resonantia](https://open.spotify.com/album/1QscnAgLAhBuG5TlF3dvHH) | 3:49 |
 | 50 | [everlasting snow](https://open.spotify.com/track/1pS8rVJSUQUB5kZOMgXaA2) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [BEST SELECTION "blanc"](https://open.spotify.com/album/7yx6Q3WFOEDWIdVfkAmxIq) | 5:37 |
 
-Snapshot ID: `Mjg1MTQxOTUsMDAwMDAwMDA2ZjZjMjg2NDJhYWQ2N2E2NWExNTNiODM1YWFjYjViOQ==`
+Snapshot ID: `Mjg1MTU2NjEsMDAwMDAwMDAyZDU4M2U3NTBmNzU1M2VlODdkZWE3OTExYWQwMDM4OQ==`

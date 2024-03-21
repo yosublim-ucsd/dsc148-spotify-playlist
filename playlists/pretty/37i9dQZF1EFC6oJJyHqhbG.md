@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC6oJJyHqhbG.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5WOedGxnA81idBhEPfRzgl">Bonnie Mckee</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,170 likes - 121 songs - 7 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,171 likes - 121 songs - 7 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC6oJJyHqhbG.md) - [plain]
 | 20 | [Ghost](https://open.spotify.com/track/2Vl6VlxpDQk99QU7TfQGjO) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [PRISM](https://open.spotify.com/album/3jB9yFDwRe3KhtGnHXJntk) | 3:23 |
 | 21 | [Up All Night](https://open.spotify.com/track/7IgXxU2OBCJhzNilFIAJw7) | [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7) | [Nine Track Mind](https://open.spotify.com/album/6E0p38TjcK490itZ1Ns7bD) | 3:10 |
 | 22 | [Wish U Were Here \- Acoustic](https://open.spotify.com/track/4812NLW48dCoABairmUF0p) | [Cody Simpson](https://open.spotify.com/artist/79Xp2rRN7wdsaTJgttdX3K) | [Paradise \(Expanded\)](https://open.spotify.com/album/66SngXhMQwIwDa6MDOjNzQ) | 3:36 |
-| 23 | [I Don't Care](https://open.spotify.com/track/1YPJ4wKWLIsAZ6kjkat1zu) | [Cheryl](https://open.spotify.com/artist/3NyNPJaemMYsL14DK2tO01) | [Only Human](https://open.spotify.com/album/56iR72s0hZmMwKNC884wAy) | 4:00 |
-| 24 | [Heart Wants What It Wants](https://open.spotify.com/track/5iaa3eXgzedzQckwFNtIrl) | [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [Bebe](https://open.spotify.com/album/59zVzm5imosI0J0j1UpFEs) | 3:02 |
+| 23 | [Heart Wants What It Wants](https://open.spotify.com/track/5iaa3eXgzedzQckwFNtIrl) | [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [Bebe](https://open.spotify.com/album/59zVzm5imosI0J0j1UpFEs) | 3:02 |
+| 24 | [I Don't Care](https://open.spotify.com/track/1YPJ4wKWLIsAZ6kjkat1zu) | [Cheryl](https://open.spotify.com/artist/3NyNPJaemMYsL14DK2tO01) | [Only Human](https://open.spotify.com/album/56iR72s0hZmMwKNC884wAy) | 4:00 |
 | 25 | [American Girl](https://open.spotify.com/track/0vvG0VEN6l2fbIEUtq3mQD) | [Bonnie McKee](https://open.spotify.com/artist/7dtJROxWQe3fxxF5t7o67N) | [American Girl](https://open.spotify.com/album/4PwSDqUwhh4sZUHyi7UzXb) | 3:44 |
 | 26 | [Naked](https://open.spotify.com/track/4gPUnZW8IT1mmF9aj9NLF7) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Heaven & Hell](https://open.spotify.com/album/26c7MmQ4w8EAvVLb4jilaM) | 3:42 |
 | 27 | [Ooh La La \(from "The Smurfs 2"\)](https://open.spotify.com/track/7bpvfjoneSQvW0tbtVm1Jk) | [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [Ooh La La \(from "The Smurfs 2"\)](https://open.spotify.com/album/7qMTrZjF1sh0rujrgczf8P) | 4:17 |
@@ -92,8 +92,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC6oJJyHqhbG.md) - [plain]
 | 82 | [I Don't Have to Sleep to Dream](https://open.spotify.com/track/1kxuKjRiXHCGQRj4AeN3ul) | [Cher](https://open.spotify.com/artist/72OaDtakiy6yFqkt4TsiFt) | [Closer to the Truth \(Deluxe Edition\)](https://open.spotify.com/album/2nlX67uuNKD2avQ17vItT9) | 4:41 |
 | 83 | [Fast Forward](https://open.spotify.com/track/41hmP8GemZuIKrNJybwXe0) | [Oliver](https://open.spotify.com/artist/0NDElNqwGRCmsYIQFapp6K) | [Light Years Away](https://open.spotify.com/album/6F9PZFOFx4YIgF51dXNnw0) | 4:44 |
 | 84 | [Hot City](https://open.spotify.com/track/66xUkAhfgsvwPxG6t0pLGX) | [Bonnie McKee](https://open.spotify.com/artist/7dtJROxWQe3fxxF5t7o67N) | [Hot City](https://open.spotify.com/album/18Ufdr767Mvd8Vs6YcDn2a) | 3:41 |
-| 85 | [SLAY](https://open.spotify.com/track/0MiKPNG2SFuv8xGCG6Liak) | [Bonnie McKee](https://open.spotify.com/artist/7dtJROxWQe3fxxF5t7o67N) | [SLAY](https://open.spotify.com/album/2UajmvL5HXIk23XEIspQAK) | 3:39 |
-| 86 | [Secret](https://open.spotify.com/track/3XoFbOADtmLAaxivSvV6lU) | [Peach PRC](https://open.spotify.com/artist/006j2rer9tZJCYniu7SaWS) | [Secret](https://open.spotify.com/album/0XwW61D7u1f8Qqi43NBH8m) | 3:08 |
+| 85 | [Secret](https://open.spotify.com/track/3XoFbOADtmLAaxivSvV6lU) | [Peach PRC](https://open.spotify.com/artist/006j2rer9tZJCYniu7SaWS) | [Secret](https://open.spotify.com/album/0XwW61D7u1f8Qqi43NBH8m) | 3:08 |
+| 86 | [SLAY](https://open.spotify.com/track/0MiKPNG2SFuv8xGCG6Liak) | [Bonnie McKee](https://open.spotify.com/artist/7dtJROxWQe3fxxF5t7o67N) | [SLAY](https://open.spotify.com/album/2UajmvL5HXIk23XEIspQAK) | 3:39 |
 | 87 | [American Youth French Kissing](https://open.spotify.com/track/1kmSbT5S418UVfpxGyMGR0) | [Eden xo](https://open.spotify.com/artist/4ZEHm819BPEhaYNeC2LLeI) | [American Youth French Kissing](https://open.spotify.com/album/0TuDB51EX2AACnUfcfyulA) | 3:46 |
 | 88 | [Loco \(House Party\)](https://open.spotify.com/track/2bKE2Eebfh3uZm1KA75DEj) | [U\-KNOW](https://open.spotify.com/artist/4lqxrwkJ16gYkKNumLA3SL) | [NOIR \- The 2nd Mini Album](https://open.spotify.com/album/1mxgEueuASm9eoOZdYOoHZ) | 3:10 |
 | 89 | [Long Distance](https://open.spotify.com/track/3xd8hdab4Y2NqhhZmJhuCv) | [Melanie Amaro](https://open.spotify.com/artist/5jWTiWBU6BfIEtcYwYA3nv) | [Long Distance](https://open.spotify.com/album/2R03toQwJHDzU2Cjx7mcAd) | 3:49 |
@@ -130,4 +130,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC6oJJyHqhbG.md) - [plain]
 | 120 | [Bad Witches](https://open.spotify.com/track/5v1PfygiFLtzkzzDxRUgm0) | [LVCRFT](https://open.spotify.com/artist/49JFqkKqN2PWANlXIQlB5T) | [V](https://open.spotify.com/album/2L7KIZcK3zvkxaZZ5S8I2k) | 2:49 |
 | 121 | [Burnin'](https://open.spotify.com/track/16zrncqFw9Jlh9x98rhVFp) | [LVCRFT](https://open.spotify.com/artist/49JFqkKqN2PWANlXIQlB5T), [Dehiro](https://open.spotify.com/artist/5wveL5t3Phar9SspgSSf1f) | [V](https://open.spotify.com/album/2L7KIZcK3zvkxaZZ5S8I2k) | 3:29 |
 
-Snapshot ID: `Mjg1MTUwMjAsMDAwMDAwMDA4NDY0OTY4MTdjMGVhNWViYThhOTBkNWY3NzBjNGJiYg==`
+Snapshot ID: `Mjg1MTY0NjAsMDAwMDAwMDA2YmIyMWFlMGQ3MjE1ODQ4NTQ5MTQxZWY4NzQ5OWFlNg==`

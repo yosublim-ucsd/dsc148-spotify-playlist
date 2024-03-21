@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5jBIc56hjiz.md) - [plain]
 
 > Sophisticated palates only\. Curated by: <a href="https://www.instagram.com/stephenasmith/">Stephen A\. Smith</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 833 likes - 50 songs - 3 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 844 likes - 50 songs - 3 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5jBIc56hjiz.md) - [plain]
 | 49 | [Lady](https://open.spotify.com/track/7wuip3WxHQ2S6vOE82MGqm) | [The Whispers](https://open.spotify.com/artist/2XzHxDFTNywDd5ReMhgxkg) | [Greatest Slow Jams, Vol\. 1](https://open.spotify.com/album/6nbqs1sF61gQ4EgcnCyi9x) | 5:01 |
 | 50 | [All I Do Is Think of You](https://open.spotify.com/track/4XhrowM5IKGCRrY2HzYBH3) | [Troop](https://open.spotify.com/artist/5r7mGejWrGSxheAYEIfSwI) | [Attitude](https://open.spotify.com/album/7JejBAyNL3oKVt1tNHLosr) | 3:49 |
 
-Snapshot ID: `MCw3MmJkZWFlNWYxYTNlYjkwNGM3NDFmZWIwY2FjYmMyNGFhN2RiMGNm`
+Snapshot ID: `MCw2MWQ3OTRlZWNiNjAwMTRhNGEzYjVlZTQ4NmE1ZWU2ODc2MDMzYmU4`

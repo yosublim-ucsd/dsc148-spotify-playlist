@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0b1hHYQtJjp.md) - [plain]
 
 > Recent hits and new songs from your fave artists\. Cover: Meghan Trainor
 
-[Spotify](https://open.spotify.com/user/spotify) - 886,797 likes - 75 songs - 4 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 886,848 likes - 75 songs - 4 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0b1hHYQtJjp.md) - [plain]
 | 11 | [Save Me \(with Lainey Wilson\)](https://open.spotify.com/track/30LZU3ReFIndjHLfaahreM) | [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Whitsitt Chapel](https://open.spotify.com/album/2v1Lb9hidHkvvlIXYzSmeZ) | 3:57 |
 | 12 | [Powerful Women](https://open.spotify.com/track/043trFU53vB0CBmFszufZd) | [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg), [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [Powerful Women](https://open.spotify.com/album/2PfTvrXbda4yPU54eeaazL) | 2:45 |
 | 13 | [we can't be friends \(wait for your love\)](https://open.spotify.com/track/46kspZSY3aKmwQe7O77fCC) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [eternal sunshine](https://open.spotify.com/album/71PfP4E9roOXAudea1aPGw) | 3:48 |
-| 14 | [Too Good to be True](https://open.spotify.com/track/4vIiVs5JoNfqqRi5o7jAIb) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Too Good to be True](https://open.spotify.com/album/57y7NpfTINlnrNitu8vwft) | 2:40 |
+| 14 | [Too Good to be True](https://open.spotify.com/track/27RDQ0TfxzWMlQFuKrPT11) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Deeper Well](https://open.spotify.com/album/5SxZmGwc4eJuPp6PcO4JgJ) | 2:40 |
 | 15 | [What I Am](https://open.spotify.com/track/7qZuRt0v6zox5gMAMCls5M) | [ZAYN](https://open.spotify.com/artist/5ZsFI1h6hIdQRw2ti0hz81) | [What I Am](https://open.spotify.com/album/3Q9nQTbbZovRJQfY62oXR0) | 3:31 |
 | 16 | [Scared To Start](https://open.spotify.com/track/3Pbp7cUCx4d3OAkZSCoNvn) | [Michael Marcagi](https://open.spotify.com/artist/4j96cMcT8GRi11qbvo1cLQ) | [Scared To Start](https://open.spotify.com/album/3NpeIWhWsxU7d3XL5KEh39) | 2:39 |
 | 17 | [Legendary](https://open.spotify.com/track/0NJKX45ZZnGWyDcEnoH7C5) | [Bon Jovi](https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp) | [Legendary](https://open.spotify.com/album/4Qp0INJYYCPCOnUpOREZnb) | 4:05 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0b1hHYQtJjp.md) - [plain]
 | 74 | [Time After Time \- Spotify Singles](https://open.spotify.com/track/6vQCNDNbA0DQoSPftbzS1W) | [Lennon Stella](https://open.spotify.com/artist/1cZQSpDsxgKIX2yW5OR9Ot) | [Time After Time \(Spotify Singles\)](https://open.spotify.com/album/5lxUTVBhoeeAeleepOsBop) | 3:39 |
 | 75 | [HAPPY](https://open.spotify.com/track/3ZEno9fORwMA1HPecdLi0R) | [NF](https://open.spotify.com/artist/6fOMl44jA4Sp5b9PpYCkzz) | [HOPE](https://open.spotify.com/album/6zaisPwfcIAfdUGPj3mmGY) | 4:02 |
 
-Snapshot ID: `MCxmZWM4OTJmYzMyMDc2NmNkYzJjMmFjY2ZjYjA5YzMxOTgyMjVhNTU4`
+Snapshot ID: `MCxlOWYyZDM1ODdkN2NiNDJkMTNkYzUzYzVkYWU1M2MxMzJkM2EyMzhl`

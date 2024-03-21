@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Mjg1MDc4NjAsMDAwMDAwMDA0ODhmZWYyNzdhOWNiMWY1Y2ExMGIxMDc3YzE1YTJmNw==",
+  "snapshot_id": "Mjg1MDc4NjAsMDAwMDAwMDAzMWQyNWY5NWMxOGY0MWI5MGFhN2UzNWFiMjZlODYyMQ==",
   "tracks": [
     {
       "added_at": "2024-03-15 03:00:00",
@@ -43,22 +43,6 @@
     {
       "added_at": "2024-03-15 03:00:00",
       "album": {
-        "name": "Don't Come Running To Me",
-        "url": "https://open.spotify.com/album/74r2BQ0A1lOsUXMoi0R2rh"
-      },
-      "artists": [
-        {
-          "name": "Blue \u00d6yster Cult",
-          "url": "https://open.spotify.com/artist/00tVTdpEhQQw1bqdu8RCx2"
-        }
-      ],
-      "duration_ms": 207682,
-      "name": "Don't Come Running To Me",
-      "url": "https://open.spotify.com/track/7zwftc0ehHfwjRMoK5QGKZ"
-    },
-    {
-      "added_at": "2024-03-15 03:00:00",
-      "album": {
         "name": "Left on Mars",
         "url": "https://open.spotify.com/album/3Teu4wdoUdqhuDJRIW06P5"
       },
@@ -75,6 +59,22 @@
       "duration_ms": 301576,
       "name": "Left on Mars",
       "url": "https://open.spotify.com/track/4vR33RBNDOk6hpgqZpaom9"
+    },
+    {
+      "added_at": "2024-03-15 03:00:00",
+      "album": {
+        "name": "Don't Come Running To Me",
+        "url": "https://open.spotify.com/album/74r2BQ0A1lOsUXMoi0R2rh"
+      },
+      "artists": [
+        {
+          "name": "Blue \u00d6yster Cult",
+          "url": "https://open.spotify.com/artist/00tVTdpEhQQw1bqdu8RCx2"
+        }
+      ],
+      "duration_ms": 207682,
+      "name": "Don't Come Running To Me",
+      "url": "https://open.spotify.com/track/7zwftc0ehHfwjRMoK5QGKZ"
     },
     {
       "added_at": "2024-03-15 03:00:00",
@@ -155,26 +155,6 @@
     {
       "added_at": "2024-03-15 03:00:00",
       "album": {
-        "name": "Remnants/Fences",
-        "url": "https://open.spotify.com/album/68W1JjHUpgqOegqTLaaZq2"
-      },
-      "artists": [
-        {
-          "name": "Hot Water Music",
-          "url": "https://open.spotify.com/artist/4dmaYARGTCpChLhHBdr3ff"
-        },
-        {
-          "name": "Thrice",
-          "url": "https://open.spotify.com/artist/3NChzMpu9exTlNPiqUQ2DE"
-        }
-      ],
-      "duration_ms": 237616,
-      "name": "Fences",
-      "url": "https://open.spotify.com/track/1ghyZv5VBh7r3nfTy8GjdE"
-    },
-    {
-      "added_at": "2024-03-15 03:00:00",
-      "album": {
         "name": "KNAPPY Electric Sessions 443 (DJ Mix)",
         "url": "https://open.spotify.com/album/5GcpHC7BiacubopUfMLXIV"
       },
@@ -203,6 +183,26 @@
     {
       "added_at": "2024-03-15 03:00:00",
       "album": {
+        "name": "Remnants/Fences",
+        "url": "https://open.spotify.com/album/68W1JjHUpgqOegqTLaaZq2"
+      },
+      "artists": [
+        {
+          "name": "Hot Water Music",
+          "url": "https://open.spotify.com/artist/4dmaYARGTCpChLhHBdr3ff"
+        },
+        {
+          "name": "Thrice",
+          "url": "https://open.spotify.com/artist/3NChzMpu9exTlNPiqUQ2DE"
+        }
+      ],
+      "duration_ms": 237616,
+      "name": "Fences",
+      "url": "https://open.spotify.com/track/1ghyZv5VBh7r3nfTy8GjdE"
+    },
+    {
+      "added_at": "2024-03-15 03:00:00",
+      "album": {
         "name": "Heartbreak Feels So Good (Dillon Francis Remix)",
         "url": "https://open.spotify.com/album/1DGBhnSeQGDRGUAo4aOQIL"
       },
@@ -219,22 +219,6 @@
       "duration_ms": 135011,
       "name": "Heartbreak Feels So Good - Dillon Francis Remix",
       "url": "https://open.spotify.com/track/6Wsluv589twj4357ccqrzU"
-    },
-    {
-      "added_at": "2024-03-15 03:00:00",
-      "album": {
-        "name": "INTEGRAL FRANK SINATRA 1957-1960",
-        "url": "https://open.spotify.com/album/3AyaIsgSsPG43KtC3Ktyar"
-      },
-      "artists": [
-        {
-          "name": "Frank Sinatra",
-          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
-        }
-      ],
-      "duration_ms": 141920,
-      "name": "I Love Paris (O.S. CanCan) - From The Original Soundtrack Can Can",
-      "url": "https://open.spotify.com/track/11b4cF1fuo8d7bQxIngOLp"
     },
     {
       "added_at": "2024-03-15 03:00:00",
@@ -399,22 +383,6 @@
     {
       "added_at": "2024-03-15 03:00:00",
       "album": {
-        "name": "I'm a Rat",
-        "url": "https://open.spotify.com/album/6tFvJiq05ntPswq35Tq3Yk"
-      },
-      "artists": [
-        {
-          "name": "NOFX",
-          "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
-        }
-      ],
-      "duration_ms": 130547,
-      "name": "I'm a Rat",
-      "url": "https://open.spotify.com/track/4rNlmTlKXDBtvwzi63NkQc"
-    },
-    {
-      "added_at": "2024-03-15 03:00:00",
-      "album": {
         "name": "Total Stranger (Pete Hammond Hi-NRG Remix)",
         "url": "https://open.spotify.com/album/1MEOCfUR45t4BOf9FEZch4"
       },
@@ -435,6 +403,38 @@
     {
       "added_at": "2024-03-15 03:00:00",
       "album": {
+        "name": "I'm a Rat",
+        "url": "https://open.spotify.com/album/6tFvJiq05ntPswq35Tq3Yk"
+      },
+      "artists": [
+        {
+          "name": "NOFX",
+          "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
+        }
+      ],
+      "duration_ms": 130547,
+      "name": "I'm a Rat",
+      "url": "https://open.spotify.com/track/4rNlmTlKXDBtvwzi63NkQc"
+    },
+    {
+      "added_at": "2024-03-15 03:00:00",
+      "album": {
+        "name": "Clear Cold Beyond",
+        "url": "https://open.spotify.com/album/5udxJVHVFuD35pKn9Oh2X3"
+      },
+      "artists": [
+        {
+          "name": "Sonata Arctica",
+          "url": "https://open.spotify.com/artist/5YeoQ1L71cXDMpSpqxOjfH"
+        }
+      ],
+      "duration_ms": 265206,
+      "name": "California",
+      "url": "https://open.spotify.com/track/5hs7EN2e47VSzJhIiSGR9j"
+    },
+    {
+      "added_at": "2024-03-15 03:00:00",
+      "album": {
         "name": "Falter",
         "url": "https://open.spotify.com/album/1tPAdl5ojUZur7ynmEJepT"
       },
@@ -447,22 +447,6 @@
       "duration_ms": 503613,
       "name": "Falter",
       "url": "https://open.spotify.com/track/79QhTutYDFH81UaFYK3MvZ"
-    },
-    {
-      "added_at": "2024-03-15 03:00:00",
-      "album": {
-        "name": "Ritual",
-        "url": "https://open.spotify.com/album/5VhgBtTDF19fFGWOnS7r5p"
-      },
-      "artists": [
-        {
-          "name": "The Devil Wears Prada",
-          "url": "https://open.spotify.com/artist/0NbQe5CNgh4YApOCDuHSjb"
-        }
-      ],
-      "duration_ms": 223405,
-      "name": "Ritual",
-      "url": "https://open.spotify.com/track/1PVD8pnxk9bRaiBnGTJRA1"
     },
     {
       "added_at": "2024-03-15 03:00:00",
@@ -483,6 +467,58 @@
       "duration_ms": 302000,
       "name": "Danz\u00f3n Para La Espera",
       "url": "https://open.spotify.com/track/1RlcebUFfWS1DaRnlDr0Ms"
+    },
+    {
+      "added_at": "2024-03-15 03:00:00",
+      "album": {
+        "name": "Ritual",
+        "url": "https://open.spotify.com/album/5VhgBtTDF19fFGWOnS7r5p"
+      },
+      "artists": [
+        {
+          "name": "The Devil Wears Prada",
+          "url": "https://open.spotify.com/artist/0NbQe5CNgh4YApOCDuHSjb"
+        }
+      ],
+      "duration_ms": 223405,
+      "name": "Ritual",
+      "url": "https://open.spotify.com/track/1PVD8pnxk9bRaiBnGTJRA1"
+    },
+    {
+      "added_at": "2024-03-15 03:00:00",
+      "album": {
+        "name": "Digging In The Dirt",
+        "url": "https://open.spotify.com/album/07Qcp9zO5cCKShwTlxNaUL"
+      },
+      "artists": [
+        {
+          "name": "Sheryl Crow",
+          "url": "https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD"
+        },
+        {
+          "name": "Peter Gabriel",
+          "url": "https://open.spotify.com/artist/7C4sUpWGlTy7IANjruj02I"
+        }
+      ],
+      "duration_ms": 324436,
+      "name": "Digging In The Dirt",
+      "url": "https://open.spotify.com/track/6pO1Jy5E3tqsjidJooNP9e"
+    },
+    {
+      "added_at": "2024-03-15 03:00:00",
+      "album": {
+        "name": "Aun la Flor",
+        "url": "https://open.spotify.com/album/4CC7oyUIggXN5mctAsgyeI"
+      },
+      "artists": [
+        {
+          "name": "PelySayon",
+          "url": "https://open.spotify.com/artist/5bjc7tpB5IoqzWVy3ZV93T"
+        }
+      ],
+      "duration_ms": 167418,
+      "name": "Aun la Flor",
+      "url": "https://open.spotify.com/track/6rDaEXj7UwI28NmQma7JTx"
     },
     {
       "added_at": "2024-03-15 03:00:00",
@@ -511,58 +547,6 @@
     {
       "added_at": "2024-03-15 03:00:00",
       "album": {
-        "name": "Clear Cold Beyond",
-        "url": "https://open.spotify.com/album/5udxJVHVFuD35pKn9Oh2X3"
-      },
-      "artists": [
-        {
-          "name": "Sonata Arctica",
-          "url": "https://open.spotify.com/artist/5YeoQ1L71cXDMpSpqxOjfH"
-        }
-      ],
-      "duration_ms": 265206,
-      "name": "California",
-      "url": "https://open.spotify.com/track/5hs7EN2e47VSzJhIiSGR9j"
-    },
-    {
-      "added_at": "2024-03-15 03:00:00",
-      "album": {
-        "name": "Aun la Flor",
-        "url": "https://open.spotify.com/album/4CC7oyUIggXN5mctAsgyeI"
-      },
-      "artists": [
-        {
-          "name": "PelySayon",
-          "url": "https://open.spotify.com/artist/5bjc7tpB5IoqzWVy3ZV93T"
-        }
-      ],
-      "duration_ms": 167418,
-      "name": "Aun la Flor",
-      "url": "https://open.spotify.com/track/6rDaEXj7UwI28NmQma7JTx"
-    },
-    {
-      "added_at": "2024-03-15 03:00:00",
-      "album": {
-        "name": "Digging In The Dirt",
-        "url": "https://open.spotify.com/album/07Qcp9zO5cCKShwTlxNaUL"
-      },
-      "artists": [
-        {
-          "name": "Sheryl Crow",
-          "url": "https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD"
-        },
-        {
-          "name": "Peter Gabriel",
-          "url": "https://open.spotify.com/artist/7C4sUpWGlTy7IANjruj02I"
-        }
-      ],
-      "duration_ms": 324436,
-      "name": "Digging In The Dirt",
-      "url": "https://open.spotify.com/track/6pO1Jy5E3tqsjidJooNP9e"
-    },
-    {
-      "added_at": "2024-03-15 03:00:00",
-      "album": {
         "name": "L'ideale",
         "url": "https://open.spotify.com/album/0CycRkODg9pxJglqVQClCY"
       },
@@ -579,26 +563,6 @@
       "duration_ms": 266926,
       "name": "L'ideale",
       "url": "https://open.spotify.com/track/1OQr3hy0ARHiUazMvQCne3"
-    },
-    {
-      "added_at": "2024-03-15 03:00:00",
-      "album": {
-        "name": "Soy Todo",
-        "url": "https://open.spotify.com/album/2rOtemlRB9ZvBIkUAF88D8"
-      },
-      "artists": [
-        {
-          "name": "DJ TEE",
-          "url": "https://open.spotify.com/artist/2IC0V3djtmB5IuI4LlaANd"
-        },
-        {
-          "name": "Movimiento Original",
-          "url": "https://open.spotify.com/artist/50u2mXgysmTttY0BizYWAo"
-        }
-      ],
-      "duration_ms": 261336,
-      "name": "Soy Todo",
-      "url": "https://open.spotify.com/track/57f2X9Am4tNzizcxVIcPy8"
     },
     {
       "added_at": "2024-03-15 03:00:00",
@@ -623,6 +587,26 @@
     {
       "added_at": "2024-03-15 03:00:00",
       "album": {
+        "name": "Soy Todo",
+        "url": "https://open.spotify.com/album/2rOtemlRB9ZvBIkUAF88D8"
+      },
+      "artists": [
+        {
+          "name": "DJ TEE",
+          "url": "https://open.spotify.com/artist/2IC0V3djtmB5IuI4LlaANd"
+        },
+        {
+          "name": "Movimiento Original",
+          "url": "https://open.spotify.com/artist/50u2mXgysmTttY0BizYWAo"
+        }
+      ],
+      "duration_ms": 261336,
+      "name": "Soy Todo",
+      "url": "https://open.spotify.com/track/57f2X9Am4tNzizcxVIcPy8"
+    },
+    {
+      "added_at": "2024-03-15 03:00:00",
+      "album": {
         "name": "A Song to Save Us All",
         "url": "https://open.spotify.com/album/5TtmNTJY8agkorkC4wsyy3"
       },
@@ -635,30 +619,6 @@
       "duration_ms": 448120,
       "name": "A Song to Save Us All",
       "url": "https://open.spotify.com/track/7cDZWmXET8OfvwltJJokFd"
-    },
-    {
-      "added_at": "2024-03-15 03:00:00",
-      "album": {
-        "name": "En El Muelle De San Blas (LoFi Version)",
-        "url": "https://open.spotify.com/album/5JJRKVwFdlryO5oLcNelzi"
-      },
-      "artists": [
-        {
-          "name": "LoFi HITS",
-          "url": "https://open.spotify.com/artist/0NKA6xBw7RSg1up2cx1Nu7"
-        },
-        {
-          "name": "High and Low HITS",
-          "url": "https://open.spotify.com/artist/5Yx5W4EetQuOwbvHrCFL9Y"
-        },
-        {
-          "name": "Man\u00e1",
-          "url": "https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz"
-        }
-      ],
-      "duration_ms": 211080,
-      "name": "En El Muelle De San Blas - LoFi Version 3",
-      "url": "https://open.spotify.com/track/10G6oo1cWRUEF1Ib2DYTZo"
     },
     {
       "added_at": "2024-03-15 03:00:00",
@@ -695,22 +655,26 @@
     {
       "added_at": "2024-03-15 03:00:00",
       "album": {
-        "name": "Don't Listen To My Voicemail (feat. Pierre of Simple Plan)",
-        "url": "https://open.spotify.com/album/76zdzOD8AliMDpch3KUtg3"
+        "name": "En El Muelle De San Blas (LoFi Version)",
+        "url": "https://open.spotify.com/album/5JJRKVwFdlryO5oLcNelzi"
       },
       "artists": [
         {
-          "name": "Your Broken Hero",
-          "url": "https://open.spotify.com/artist/2DTdvOlm8xrGEKe9JsaLeD"
+          "name": "LoFi HITS",
+          "url": "https://open.spotify.com/artist/0NKA6xBw7RSg1up2cx1Nu7"
         },
         {
-          "name": "Simple Plan",
-          "url": "https://open.spotify.com/artist/2p4FqHnazRucYQHyDCdBrJ"
+          "name": "High and Low HITS",
+          "url": "https://open.spotify.com/artist/5Yx5W4EetQuOwbvHrCFL9Y"
+        },
+        {
+          "name": "Man\u00e1",
+          "url": "https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz"
         }
       ],
-      "duration_ms": 178432,
-      "name": "Don't Listen To My Voicemail (feat. Pierre of Simple Plan)",
-      "url": "https://open.spotify.com/track/2n3GSvKOeHl2hp2htjjHh9"
+      "duration_ms": 211080,
+      "name": "En El Muelle De San Blas - LoFi Version 3",
+      "url": "https://open.spotify.com/track/10G6oo1cWRUEF1Ib2DYTZo"
     },
     {
       "added_at": "2024-03-15 03:00:00",
@@ -735,6 +699,26 @@
       "duration_ms": 198425,
       "name": "Empty",
       "url": "https://open.spotify.com/track/575ViHchpSUjfTLCQPdE49"
+    },
+    {
+      "added_at": "2024-03-15 03:00:00",
+      "album": {
+        "name": "Don't Listen To My Voicemail (feat. Pierre of Simple Plan)",
+        "url": "https://open.spotify.com/album/76zdzOD8AliMDpch3KUtg3"
+      },
+      "artists": [
+        {
+          "name": "Your Broken Hero",
+          "url": "https://open.spotify.com/artist/2DTdvOlm8xrGEKe9JsaLeD"
+        },
+        {
+          "name": "Simple Plan",
+          "url": "https://open.spotify.com/artist/2p4FqHnazRucYQHyDCdBrJ"
+        }
+      ],
+      "duration_ms": 178432,
+      "name": "Don't Listen To My Voicemail (feat. Pierre of Simple Plan)",
+      "url": "https://open.spotify.com/track/2n3GSvKOeHl2hp2htjjHh9"
     },
     {
       "added_at": "2024-03-15 03:00:00",

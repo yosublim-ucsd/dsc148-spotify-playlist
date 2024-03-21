@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWcAe1qSHqUk.md) - [plain]
 
 > 爵士就是一個聲音的紳士，有歌聲動人、有演奏優雅，旋律美妙之餘還濃濃情意！
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,338 likes - 75 songs - 4 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,341 likes - 75 songs - 4 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,8 +52,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWcAe1qSHqUk.md) - [plain]
 | 42 | [Take on Me](https://open.spotify.com/track/79z93nZe6GxczLOvhrnObn) | [Eve St\. Jones](https://open.spotify.com/artist/6NP40ldgw4kYtspZOziuii) | [Jazz and 80s \- Part Two](https://open.spotify.com/album/4ID02AcGSCFRNg0qzg07TU) | 4:08 |
 | 43 | [Es Tan Fácil Romper un Corazón](https://open.spotify.com/track/6iN1q570Ogft8xuCJXIsjl) | [Valeria](https://open.spotify.com/artist/12zOzTSaujBrC0wvlNSFwt) | [Bossa Lounge en Español](https://open.spotify.com/album/138KhEzlJAoHKpSedlDC8A) | 3:29 |
 | 44 | [Make It Last](https://open.spotify.com/track/69Di4YxK4PB1ivkRdeglt5) | [Nicole Henry](https://open.spotify.com/artist/17lVE8O9nHn3WWc6Csy2Sn) | [The Very Thought of You](https://open.spotify.com/album/6R6CLCrX0PblFlg8kj1KsO) | 5:16 |
-| 45 | [There You Are \(Second Chance\)](https://open.spotify.com/track/3NyuzNn4wZfNMB0fIcvd3H) | [Karen Souza](https://open.spotify.com/artist/2d5lQo9YQ1DkAsBKTRp7Iu) | [Language of Love](https://open.spotify.com/album/02ST3umR7z95MJsoaeuLf1) | 3:33 |
-| 46 | [I'm Glad There Is You](https://open.spotify.com/track/3cqo3iiXecJmN3CbQAAtpn) | [Emilie\-Claire Barlow](https://open.spotify.com/artist/4doI7TR51c6DTaveTwpIkg) | [Haven't We Met?](https://open.spotify.com/album/3NSYINIVVAT3C6dMkdcbdx) | 5:01 |
+| 45 | [I'm Glad There Is You](https://open.spotify.com/track/3cqo3iiXecJmN3CbQAAtpn) | [Emilie\-Claire Barlow](https://open.spotify.com/artist/4doI7TR51c6DTaveTwpIkg) | [Haven't We Met?](https://open.spotify.com/album/3NSYINIVVAT3C6dMkdcbdx) | 5:01 |
+| 46 | [There You Are \(Second Chance\)](https://open.spotify.com/track/3NyuzNn4wZfNMB0fIcvd3H) | [Karen Souza](https://open.spotify.com/artist/2d5lQo9YQ1DkAsBKTRp7Iu) | [Language of Love](https://open.spotify.com/album/02ST3umR7z95MJsoaeuLf1) | 3:33 |
 | 47 | [All the Way](https://open.spotify.com/track/3tNEV2BCuKN6c9OveYpF0S) | [Katharine McPhee](https://open.spotify.com/artist/5oWOx0BBDSMoFB8JDrjQre) | [I Fall in Love Too Easily](https://open.spotify.com/album/3rDgFZJUoQaL75W7b99sUZ) | 3:55 |
 | 48 | [Ay Ay Ay](https://open.spotify.com/track/0qScOEiQOLaucPMy6W9jDL) | [Rawayana](https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2) | [RawayanaLand](https://open.spotify.com/album/3Qxc69fEzxQpVni3yfu5UD) | 4:29 |
 | 49 | [How Long Has This Been Going On?](https://open.spotify.com/track/7ByMl8ACN6rkAbN5c8T8BV) | [Karrin Allyson](https://open.spotify.com/artist/118jMO6hdUQeoDOv0XiLIs) | [In Blue](https://open.spotify.com/album/7h7XHPDvoFxE7MswAuDvgp) | 5:39 |
@@ -65,8 +65,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWcAe1qSHqUk.md) - [plain]
 | 55 | [Lá Vem a Baiana](https://open.spotify.com/track/1n441XV55b21VveSUSA1SA) | [Jussara Silveira](https://open.spotify.com/artist/59RULa3Jap6Q7Pj1o9tb7T) | [Canções de Caymmi](https://open.spotify.com/album/4cLmwrthVvhIYcOcrVDUaX) | 4:02 |
 | 56 | [To Have & To Hold](https://open.spotify.com/track/7HOyzeUeL7QUX0siA5T7FV) | [Heather Rigdon](https://open.spotify.com/artist/28C9ybIZUdN7uTb1NBzmBT) | [Young & Naïve](https://open.spotify.com/album/0cPAHgBYVCD2FcdGMxsPaa) | 3:51 |
 | 57 | [I Miss You So](https://open.spotify.com/track/5kCUgjpQKLmA7a2jR0odul) | [Samara Joy](https://open.spotify.com/artist/5LkbTSqXfMBjFSGi9LOGjq) | [I Miss You So](https://open.spotify.com/album/15cL28NaqFZ5ySBqsa64mF) | 3:43 |
-| 58 | [Let’s Make The Most Of A Beautiful Thing](https://open.spotify.com/track/187NSXSWDou7TqG1AtLVLW) | [Erin Boheme](https://open.spotify.com/artist/2YtGyXqMVXz8kqhU9DRfGw) | [What Love Is](https://open.spotify.com/album/0hEwSReR8W9NMlL8uMrklp) | 4:39 |
-| 59 | [Eat It Too](https://open.spotify.com/track/0O0KbAdK46piVPjL1Oxcjc) | [Nep](https://open.spotify.com/artist/5IMSbLzrwV9SZOWSLU1dl5) | [Eat It Too](https://open.spotify.com/album/2UY7GxtvGs4hgG1MrieYHn) | 3:46 |
+| 58 | [Eat It Too](https://open.spotify.com/track/0O0KbAdK46piVPjL1Oxcjc) | [Nep](https://open.spotify.com/artist/5IMSbLzrwV9SZOWSLU1dl5) | [Eat It Too](https://open.spotify.com/album/2UY7GxtvGs4hgG1MrieYHn) | 3:46 |
+| 59 | [Let’s Make The Most Of A Beautiful Thing](https://open.spotify.com/track/187NSXSWDou7TqG1AtLVLW) | [Erin Boheme](https://open.spotify.com/artist/2YtGyXqMVXz8kqhU9DRfGw) | [What Love Is](https://open.spotify.com/album/0hEwSReR8W9NMlL8uMrklp) | 4:39 |
 | 60 | [But For Now](https://open.spotify.com/track/18XHe8cidUZXSTFA94fU0T) | [Jamie Cullum](https://open.spotify.com/artist/3XxxEq6BREC57nCWXbQZ7o) | [Twentysomething](https://open.spotify.com/album/6FbhvZweI6o9Szb2j9ls9o) | 3:55 |
 | 61 | [Dance Me to the End of Love](https://open.spotify.com/track/202Ep1DlFXuCTSssanwLW2) | [Bria Skonberg](https://open.spotify.com/artist/0ahtSggrsy1v2oJuKfmzGm) | [With a Twist](https://open.spotify.com/album/1fg9qsZPv8CfwwsM08stjk) | 5:36 |
 | 62 | [I Only Have Eyes For You](https://open.spotify.com/track/7JiRVbyQC6P4tiP4ODmrXo) | [Chris Weeks](https://open.spotify.com/artist/1L1rPFMZ3V9GktNny7JkVO) | [I Only Have Eyes For You](https://open.spotify.com/album/131VG5VwoQVANxBMPQ5fZF) | 4:10 |
@@ -82,6 +82,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWcAe1qSHqUk.md) - [plain]
 | 72 | [I Walk A Little Faster](https://open.spotify.com/track/5MC9fQiDNNfIbh8BiNwVjC) | [Nicki Parrott](https://open.spotify.com/artist/5iHeuA1c9Mvy1DXO7aToU7) | [Dear Blossom,](https://open.spotify.com/album/5lXAZnMB843uXypgYs3t5c) | 3:53 |
 | 73 | [Where Are You?](https://open.spotify.com/track/4yJgdugXPQIzvWBwFUJbS4) | [Joshua Redman](https://open.spotify.com/artist/3uaHfXYx9Fh4HjqMbrWn5S), [Gabrielle Cavassa](https://open.spotify.com/artist/6V9mKint0pfZjIbeFF9vQk) | [where are we](https://open.spotify.com/album/6lI2Db6atrpRHt0l76DQCl) | 5:10 |
 | 74 | [I Get Along Without You Very Well](https://open.spotify.com/track/36ijrUpp53t9EBJa31Yus4) | [Ellen Andersson](https://open.spotify.com/artist/5N87utqQzCT8NHBW7JJXog) | [You Should Have Told Me](https://open.spotify.com/album/24zLLdsQq4OwtSpS3SiEQJ) | 3:32 |
-| 75 | [Bewitched](https://open.spotify.com/track/2ofpYfMA5QKWkyuZmSId8R) | [Carol Welsman](https://open.spotify.com/artist/5nw4wMgfImhoebM0e2MzSR) | [For You](https://open.spotify.com/album/0AYOXJV9OzRPDNhWnrMXeL) | 3:49 |
+| 75 | [Deep in a Dream](https://open.spotify.com/track/16gccT3MmOuVrTPdBGJCBv) | [Matt Dusk](https://open.spotify.com/artist/1UbA3tvm40VqUsiFlJaPCs) | [My Funny Valentine: The Chet Baker Songbook](https://open.spotify.com/album/2CtTsLssbJvp8iORyGOkwB) | 4:05 |
 
-Snapshot ID: `MCw4NTZlZTM1Y2ZkZTE3MzgyOTFiYjNmZmUzZTVlOGY0OWFhYTVlZGQy`
+Snapshot ID: `MCwwNzExM2U4YjA4YTdkNmNhNmEwMWYyOWZiMTg5ZTQyZWYwMGU2Y2Zj`

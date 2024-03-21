@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbBvGj4yKFAG.md) - [plain]
 
 > may include sad indie rock songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 83,814 likes - 106 songs - 5 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 83,919 likes - 106 songs - 5 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbBvGj4yKFAG.md) - [plain]
 | 31 | [Mole in the Ground](https://open.spotify.com/track/61rCnWxjQVXUSghT56shzV) | [John Francis Flynn](https://open.spotify.com/artist/6Fk7AKTOKr4iB3Xth93KHX) | [Mole in the Ground](https://open.spotify.com/album/0yO4XXQEm4Rl9BJkhA5vIw) | 3:52 |
 | 32 | [Crybaby](https://open.spotify.com/track/0zFkRHg8VLdN1nEwEvafZP) | [Searows](https://open.spotify.com/artist/0nugNBwdWaptgIAsEtx1It) | [Guard Dog](https://open.spotify.com/album/4Y7xxhWtydlfjYiaGolr58) | 4:01 |
 | 33 | [dark rain](https://open.spotify.com/track/4ofhqons1Y7p0orWUPM3qt) | [Fox Academy](https://open.spotify.com/artist/0JqRJZzARcjmH60HwUenow) | [joseph's deli & lottery](https://open.spotify.com/album/4tbpoplEQJggCqxLF9GfsM) | 2:34 |
-| 34 | [\(dream\) \- remaster](https://open.spotify.com/track/6DjNn3yQ53XwGyDTJBKBEz) | [salvia palth](https://open.spotify.com/artist/0pg0Zm8FsGAYy5kdHuBnSo) | [melanchole \(remaster\)](https://open.spotify.com/album/1CU4dfIskXlgz5vSssB7IT) | 1:24 |
+| 34 | [\(dream\) \- Remaster](https://open.spotify.com/track/0rHu5eGXkeTh4vSHpO1saS) | [salvia palth](https://open.spotify.com/artist/0pg0Zm8FsGAYy5kdHuBnSo) | [melanchole \(remaster\)](https://open.spotify.com/album/6guj24pIFwXE2rDi2LAWko) | 1:24 |
 | 35 | [Magic](https://open.spotify.com/track/3ddERux9hMZiEAUW6GZI0e) | [boywithahalo](https://open.spotify.com/artist/3kRxi6BupqTUsOhTeZ8bx1) | [Magic](https://open.spotify.com/album/2qhPFuj2hQ3Oo5wRJdsxPj) | 2:35 |
 | 36 | [This Feeling Will Pass](https://open.spotify.com/track/6pLGnO6JyJdtp4WlX5ixkI) | [Take Care](https://open.spotify.com/artist/2HpfqDQ8DBQlnrbAsdIh7s) | [Reject](https://open.spotify.com/album/7IllZzTGFyEisKATxVvE4Z) | 2:04 |
 | 37 | [canine teeth](https://open.spotify.com/track/0mXhEiLnnb5cpePShMXQVO) | [Orchid Mantis](https://open.spotify.com/artist/6Yt4jPVBqhLFQcNM0dSZtq), [Fog Lake](https://open.spotify.com/artist/04GCjO1r1hPelibCUq9S8H) | [canine teeth](https://open.spotify.com/album/1psPqa4HOi4BLqMP9yi1X9) | 1:20 |
@@ -58,7 +58,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbBvGj4yKFAG.md) - [plain]
 | 48 | [Sleep Walking](https://open.spotify.com/track/5n9ahkGyDNRv7HD2ng7sAJ) | [Chase Elliott](https://open.spotify.com/artist/7CmLWWnzB2PQoGLpJ4zDHR) | [Sleep Walking](https://open.spotify.com/album/2djkjUvLdBkJMvt33GuW6L) | 3:19 |
 | 49 | [Lexapro](https://open.spotify.com/track/3qw28AcPSxvL7aajVd1TL7) | [Computerwife](https://open.spotify.com/artist/2URzewPhxn6Si52NkbYxIQ) | [Computerwife](https://open.spotify.com/album/5xGfEYzVfcPYPrTE6FqfyP) | 3:26 |
 | 50 | [out](https://open.spotify.com/track/7fZkcPKxlkGkxyc1tbOt0g) | [fairies in our house](https://open.spotify.com/artist/0MwasiNhS1Awj9dnl3slBM) | [fairies in our house](https://open.spotify.com/album/4WH48WH3mmbI3bVSESexmo) | 1:33 |
-| 51 | [i was all over her](https://open.spotify.com/track/7svpAkwc6xaSxlbZ7V7JiS) | [salvia palth](https://open.spotify.com/artist/0pg0Zm8FsGAYy5kdHuBnSo) | [melanchole](https://open.spotify.com/album/23KJrzHF1IBfjzpRgTtaJx) | 2:41 |
+| 51 | [i was all over her](https://open.spotify.com/track/6mSnSuOhgHHohqeBw76jRV) | [salvia palth](https://open.spotify.com/artist/0pg0Zm8FsGAYy5kdHuBnSo) | [melanchole](https://open.spotify.com/album/10WzRaNWnFUQNrW2FpqQSQ) | 2:41 |
 | 52 | [Million Dollar Song](https://open.spotify.com/track/1iqpKs6dgT2zIiP0GbVo6b) | [VELVETEARS](https://open.spotify.com/artist/76uBpZUqkDljACPBsu2klS) | [Million Dollar Song](https://open.spotify.com/album/6wNVEZIRbIR8PwWsaafK0w) | 3:46 |
 | 53 | [run it back](https://open.spotify.com/track/5Wcc3fBgp1vjBmbxhHEXCR) | [Dino Gala](https://open.spotify.com/artist/3ILm3k5SKzJCaaTJ4yEw0y) | [Run it Back / Fire Escape](https://open.spotify.com/album/5oan6nmdsscfxfmk7nmhr8) | 4:18 |
 | 54 | [could be nice](https://open.spotify.com/track/5OI0l7dymvGw4ZkHwSRrda) | [Starberry](https://open.spotify.com/artist/6Y1lsJKYVwK9cnr6D4mYJM) | [could be nice](https://open.spotify.com/album/0siG6xvuwDEkcw7mrla5ua) | 2:50 |
@@ -115,4 +115,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbBvGj4yKFAG.md) - [plain]
 | 105 | [tattletale](https://open.spotify.com/track/1oG97U59L8fVYrVByMCtNI) | [Kevin Atwater](https://open.spotify.com/artist/6ZBM319vNIirp7FOvvLVD6) | [Downers Grove \- EP](https://open.spotify.com/album/5OMHXvYoClLQUmFwqBav71) | 3:19 |
 | 106 | [So Sweet](https://open.spotify.com/track/5dFkDkyoBw6RXV51zfdvE6) | [Trash Panda](https://open.spotify.com/artist/5D9DTI3Knr64lYa3zDCpB7) | [PANDAMONIUM!](https://open.spotify.com/album/4NyZbFQFYDehtNGYEVwnsU) | 3:24 |
 
-Snapshot ID: `MCxmM2RhZTBjODRkNmZiMzdiNmVkZDg2MDM0YjM1ZmNlNDA2OTYwNDM0`
+Snapshot ID: `MCxmMGQ1NzFkMGNkZjI5MmIwNDNjMTg2YTEwNjg4ZWYzNTdjZjEyYjhl`

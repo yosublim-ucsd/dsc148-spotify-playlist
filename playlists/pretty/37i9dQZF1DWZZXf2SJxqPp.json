@@ -1,12 +1,12 @@
 {
   "description": "Musiquita riqui para chillear y echarla junto a la piscina.",
-  "num_followers": 134653,
+  "num_followers": 134688,
   "original_name": "\u00a1A la Alberca!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxOGMzYjlkY2Q4MTQ2YzM1NDI2YmFhMzI1MjVjNGM2ZjIzYTVmZDYw",
+  "snapshot_id": "MCxhNGRjY2Y1MDM3ZWJjZmJjN2Q4MTYwMzIxY2E5OTBlZGQ5YWFiYTdl",
   "tracks": [
     {
       "added_at": "2023-08-14 14:58:41",
@@ -203,6 +203,22 @@
     {
       "added_at": "2023-08-14 14:58:41",
       "album": {
+        "name": "Italian Classics: Pino D'Angi\u00f2 Collection, Vol. 1",
+        "url": "https://open.spotify.com/album/7dwnwKTPnHsmfcMWsChtCp"
+      },
+      "artists": [
+        {
+          "name": "Pino D'Angi\u00f2",
+          "url": "https://open.spotify.com/artist/1uXGmHao7MMRBwCCncmyB6"
+        }
+      ],
+      "duration_ms": 258399,
+      "name": "Okay Okay",
+      "url": "https://open.spotify.com/track/6W0PqAtbW7fkTRBtmwOwfM"
+    },
+    {
+      "added_at": "2023-08-14 14:58:41",
+      "album": {
         "name": "Dancy Party",
         "url": "https://open.spotify.com/album/3hifRrzUOFSl3BJo2JUqBE"
       },
@@ -219,22 +235,6 @@
       "duration_ms": 194160,
       "name": "Siesta Freestyle",
       "url": "https://open.spotify.com/track/6ZHKeoIOkvmYUIfxHLtE2Z"
-    },
-    {
-      "added_at": "2023-08-14 14:58:41",
-      "album": {
-        "name": "Italian Classics: Pino D'Angi\u00f2 Collection, Vol. 1",
-        "url": "https://open.spotify.com/album/7dwnwKTPnHsmfcMWsChtCp"
-      },
-      "artists": [
-        {
-          "name": "Pino D'Angi\u00f2",
-          "url": "https://open.spotify.com/artist/1uXGmHao7MMRBwCCncmyB6"
-        }
-      ],
-      "duration_ms": 258399,
-      "name": "Okay Okay",
-      "url": "https://open.spotify.com/track/6W0PqAtbW7fkTRBtmwOwfM"
     },
     {
       "added_at": "2023-08-14 14:58:41",
@@ -707,22 +707,6 @@
     {
       "added_at": "2023-08-14 14:58:41",
       "album": {
-        "name": "MOOD",
-        "url": "https://open.spotify.com/album/2Eh8MVthc1OiqAQOgQClVl"
-      },
-      "artists": [
-        {
-          "name": "Mild Minds",
-          "url": "https://open.spotify.com/artist/3Ka3k9K2WStR52UJVtbJZW"
-        }
-      ],
-      "duration_ms": 252360,
-      "name": "MOVEMENTS",
-      "url": "https://open.spotify.com/track/7Fn5UwylCTDEldF1ZVz1uj"
-    },
-    {
-      "added_at": "2023-08-14 14:58:41",
-      "album": {
         "name": "Cabrioli",
         "url": "https://open.spotify.com/album/4FoTTiKaTZXbweALMqZoBK"
       },
@@ -735,6 +719,26 @@
       "duration_ms": 152631,
       "name": "Cabrioli",
       "url": "https://open.spotify.com/track/1wQdNXLp8XhQ0p0uG5ZRDD"
+    },
+    {
+      "added_at": "2023-08-14 14:58:41",
+      "album": {
+        "name": "Tutto va bene quando facciamo l'amore (Remixes)",
+        "url": "https://open.spotify.com/album/4jnSxvi6GEjXFPGXUly9vj"
+      },
+      "artists": [
+        {
+          "name": "Alex Rossi",
+          "url": "https://open.spotify.com/artist/080yEA10cGjDwnuXHFy1SU"
+        },
+        {
+          "name": "Jo Wedin",
+          "url": "https://open.spotify.com/artist/1uxYQkewWEjKxKtmTukyKB"
+        }
+      ],
+      "duration_ms": 205592,
+      "name": "Tutto va bene quando facciamo l'amore",
+      "url": "https://open.spotify.com/track/2XtLmRzZSkNOXGRPgae8MA"
     },
     {
       "added_at": "2023-08-14 14:58:41",
@@ -759,22 +763,18 @@
     {
       "added_at": "2023-08-14 14:58:41",
       "album": {
-        "name": "Tutto va bene quando facciamo l'amore (Remixes)",
-        "url": "https://open.spotify.com/album/4jnSxvi6GEjXFPGXUly9vj"
+        "name": "MOOD",
+        "url": "https://open.spotify.com/album/2Eh8MVthc1OiqAQOgQClVl"
       },
       "artists": [
         {
-          "name": "Alex Rossi",
-          "url": "https://open.spotify.com/artist/080yEA10cGjDwnuXHFy1SU"
-        },
-        {
-          "name": "Jo Wedin",
-          "url": "https://open.spotify.com/artist/1uxYQkewWEjKxKtmTukyKB"
+          "name": "Mild Minds",
+          "url": "https://open.spotify.com/artist/3Ka3k9K2WStR52UJVtbJZW"
         }
       ],
-      "duration_ms": 205592,
-      "name": "Tutto va bene quando facciamo l'amore",
-      "url": "https://open.spotify.com/track/2XtLmRzZSkNOXGRPgae8MA"
+      "duration_ms": 252360,
+      "name": "MOVEMENTS",
+      "url": "https://open.spotify.com/track/7Fn5UwylCTDEldF1ZVz1uj"
     },
     {
       "added_at": "2023-08-14 14:58:41",
@@ -963,6 +963,26 @@
     {
       "added_at": "2023-08-14 14:58:41",
       "album": {
+        "name": "Remix Crusades",
+        "url": "https://open.spotify.com/album/4GKIgPXABhsfzTRoi1f36b"
+      },
+      "artists": [
+        {
+          "name": "Kasper Bj\u00f8rke",
+          "url": "https://open.spotify.com/artist/4xcn3zUUGf03kOIJueXHVp"
+        },
+        {
+          "name": "Nicolas Jaar",
+          "url": "https://open.spotify.com/artist/5a0etAzO5V26gvlbmHzT9W"
+        }
+      ],
+      "duration_ms": 317066,
+      "name": "Heaven - Nicolas Jaar Remix",
+      "url": "https://open.spotify.com/track/35rmKx3LkkRYNOWkVejZlO"
+    },
+    {
+      "added_at": "2023-08-14 14:58:41",
+      "album": {
         "name": "Can't Stop Your Lovin'",
         "url": "https://open.spotify.com/album/4wk1q3SvmE08InkoJKodlW"
       },
@@ -999,26 +1019,6 @@
     {
       "added_at": "2023-08-14 14:58:41",
       "album": {
-        "name": "Remix Crusades",
-        "url": "https://open.spotify.com/album/4GKIgPXABhsfzTRoi1f36b"
-      },
-      "artists": [
-        {
-          "name": "Kasper Bj\u00f8rke",
-          "url": "https://open.spotify.com/artist/4xcn3zUUGf03kOIJueXHVp"
-        },
-        {
-          "name": "Nicolas Jaar",
-          "url": "https://open.spotify.com/artist/5a0etAzO5V26gvlbmHzT9W"
-        }
-      ],
-      "duration_ms": 317066,
-      "name": "Heaven - Nicolas Jaar Remix",
-      "url": "https://open.spotify.com/track/35rmKx3LkkRYNOWkVejZlO"
-    },
-    {
-      "added_at": "2023-08-14 14:58:41",
-      "album": {
         "name": "Chronologic",
         "url": "https://open.spotify.com/album/3YtyKfYxHzyzYhw4yoQ6Hw"
       },
@@ -1051,22 +1051,6 @@
     {
       "added_at": "2023-08-14 14:58:41",
       "album": {
-        "name": "Black Catbird",
-        "url": "https://open.spotify.com/album/2UAjju53cSRuITsu4DNepc"
-      },
-      "artists": [
-        {
-          "name": "the Garifuna Collective",
-          "url": "https://open.spotify.com/artist/24OmLPZEq6dYiGJbPCAFVm"
-        }
-      ],
-      "duration_ms": 165593,
-      "name": "Black Catbird",
-      "url": "https://open.spotify.com/track/6s9n8j05v6iezQO4vdlClA"
-    },
-    {
-      "added_at": "2023-08-14 14:58:41",
-      "album": {
         "name": "First Landing",
         "url": "https://open.spotify.com/album/1SNyeh5uoNmmhpruGwHg51"
       },
@@ -1083,6 +1067,22 @@
       "duration_ms": 286726,
       "name": "I Want Your Attention",
       "url": "https://open.spotify.com/track/2RU67aiaESQ7t9D1xUJqBu"
+    },
+    {
+      "added_at": "2023-08-14 14:58:41",
+      "album": {
+        "name": "Black Catbird",
+        "url": "https://open.spotify.com/album/2UAjju53cSRuITsu4DNepc"
+      },
+      "artists": [
+        {
+          "name": "the Garifuna Collective",
+          "url": "https://open.spotify.com/artist/24OmLPZEq6dYiGJbPCAFVm"
+        }
+      ],
+      "duration_ms": 165593,
+      "name": "Black Catbird",
+      "url": "https://open.spotify.com/track/6s9n8j05v6iezQO4vdlClA"
     },
     {
       "added_at": "2023-08-14 14:58:41",
@@ -1127,22 +1127,6 @@
     {
       "added_at": "2023-08-14 14:58:41",
       "album": {
-        "name": "Moment EP",
-        "url": "https://open.spotify.com/album/13ANf72KYKBlFSwGgiC1Y1"
-      },
-      "artists": [
-        {
-          "name": "Peggy Gou",
-          "url": "https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN"
-        }
-      ],
-      "duration_ms": 401695,
-      "name": "Han Pan",
-      "url": "https://open.spotify.com/track/3KAMgcLxqce9PRkwzbYkHa"
-    },
-    {
-      "added_at": "2023-08-14 14:58:41",
-      "album": {
         "name": "How can I",
         "url": "https://open.spotify.com/album/7mUyZcmorwXzHxCJZNxXKD"
       },
@@ -1155,6 +1139,22 @@
       "duration_ms": 245804,
       "name": "Like this",
       "url": "https://open.spotify.com/track/7pY3HE16Ir4ZFTEOmosP57"
+    },
+    {
+      "added_at": "2023-08-14 14:58:41",
+      "album": {
+        "name": "Moment EP",
+        "url": "https://open.spotify.com/album/13ANf72KYKBlFSwGgiC1Y1"
+      },
+      "artists": [
+        {
+          "name": "Peggy Gou",
+          "url": "https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN"
+        }
+      ],
+      "duration_ms": 401695,
+      "name": "Han Pan",
+      "url": "https://open.spotify.com/track/3KAMgcLxqce9PRkwzbYkHa"
     },
     {
       "added_at": "2023-08-14 14:58:41",
@@ -1227,22 +1227,6 @@
     {
       "added_at": "2023-08-14 14:58:41",
       "album": {
-        "name": "DJ-Kicks EP",
-        "url": "https://open.spotify.com/album/746ZU4riC8a5f4aCrJ5IuE"
-      },
-      "artists": [
-        {
-          "name": "Peggy Gou",
-          "url": "https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN"
-        }
-      ],
-      "duration_ms": 275533,
-      "name": "Hungboo - DJ-Kicks",
-      "url": "https://open.spotify.com/track/2k9aBWJjIv3onRBIdg7oWm"
-    },
-    {
-      "added_at": "2023-08-14 14:58:41",
-      "album": {
         "name": "Mon Cheri",
         "url": "https://open.spotify.com/album/6PmUVTmxKzphzJPIqCZbMJ"
       },
@@ -1295,6 +1279,22 @@
       "duration_ms": 297857,
       "name": "Walk with the Dreamers",
       "url": "https://open.spotify.com/track/67yw6kP3lhXD8HRsvCVWtm"
+    },
+    {
+      "added_at": "2023-08-14 14:58:41",
+      "album": {
+        "name": "DJ-Kicks EP",
+        "url": "https://open.spotify.com/album/746ZU4riC8a5f4aCrJ5IuE"
+      },
+      "artists": [
+        {
+          "name": "Peggy Gou",
+          "url": "https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN"
+        }
+      ],
+      "duration_ms": 275533,
+      "name": "Hungboo - DJ-Kicks",
+      "url": "https://open.spotify.com/track/2k9aBWJjIv3onRBIdg7oWm"
     },
     {
       "added_at": "2023-08-14 14:58:41",
@@ -1415,22 +1415,6 @@
     {
       "added_at": "2023-08-14 14:58:41",
       "album": {
-        "name": "Burnt Orange",
-        "url": "https://open.spotify.com/album/3krmis8XpyRrEGKQ4LXRf4"
-      },
-      "artists": [
-        {
-          "name": "Elkka",
-          "url": "https://open.spotify.com/artist/5Ly0z60jjgsY4rkmjRFtPS"
-        }
-      ],
-      "duration_ms": 271475,
-      "name": "Burnt Orange - Edit",
-      "url": "https://open.spotify.com/track/1O73n53LZxJNLeGdhwChtt"
-    },
-    {
-      "added_at": "2023-08-14 14:58:41",
-      "album": {
         "name": "\u00c7a fait 2x plus de bien",
         "url": "https://open.spotify.com/album/5v03jp3rrC4R0AVFlMsMAE"
       },
@@ -1447,6 +1431,22 @@
       "duration_ms": 181106,
       "name": "\u00c7a fait du bien - Polo & Pan Remix",
       "url": "https://open.spotify.com/track/4UPNrU3SCxNxa4qXcM3oOs"
+    },
+    {
+      "added_at": "2023-08-14 14:58:41",
+      "album": {
+        "name": "Burnt Orange",
+        "url": "https://open.spotify.com/album/3krmis8XpyRrEGKQ4LXRf4"
+      },
+      "artists": [
+        {
+          "name": "Elkka",
+          "url": "https://open.spotify.com/artist/5Ly0z60jjgsY4rkmjRFtPS"
+        }
+      ],
+      "duration_ms": 271475,
+      "name": "Burnt Orange - Edit",
+      "url": "https://open.spotify.com/track/1O73n53LZxJNLeGdhwChtt"
     },
     {
       "added_at": "2023-08-14 14:58:41",
@@ -1719,6 +1719,22 @@
     {
       "added_at": "2023-08-14 14:58:41",
       "album": {
+        "name": "Chronologic",
+        "url": "https://open.spotify.com/album/3YtyKfYxHzyzYhw4yoQ6Hw"
+      },
+      "artists": [
+        {
+          "name": "Caravan Palace",
+          "url": "https://open.spotify.com/artist/37J1PlAkhRK7yrZUtqaUpQ"
+        }
+      ],
+      "duration_ms": 201331,
+      "name": "Supersonics",
+      "url": "https://open.spotify.com/track/2Y808U6qanXAMnN8jovGC1"
+    },
+    {
+      "added_at": "2023-08-14 14:58:41",
+      "album": {
         "name": "Lindstrom & Prins Thomas",
         "url": "https://open.spotify.com/album/0wjx77A92ow66hxXmwapcM"
       },
@@ -1751,22 +1767,6 @@
       "duration_ms": 312200,
       "name": "Mopedbart",
       "url": "https://open.spotify.com/track/4jnguj9VPJuGRfFJyAKUZS"
-    },
-    {
-      "added_at": "2023-08-14 14:58:41",
-      "album": {
-        "name": "Chronologic",
-        "url": "https://open.spotify.com/album/3YtyKfYxHzyzYhw4yoQ6Hw"
-      },
-      "artists": [
-        {
-          "name": "Caravan Palace",
-          "url": "https://open.spotify.com/artist/37J1PlAkhRK7yrZUtqaUpQ"
-        }
-      ],
-      "duration_ms": 201331,
-      "name": "Supersonics",
-      "url": "https://open.spotify.com/track/2Y808U6qanXAMnN8jovGC1"
     },
     {
       "added_at": "2023-08-14 14:58:41",

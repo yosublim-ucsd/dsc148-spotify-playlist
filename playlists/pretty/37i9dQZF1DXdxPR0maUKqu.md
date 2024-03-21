@@ -4,23 +4,23 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdxPR0maUKqu.md) - [plain]
 
 > 理由のない焦り、苛立ち。わけもなく叫びたくなる。思春期を過ごす全てのティーンに贈る、帰り道の応援歌。Illustration by <a href="https://twitter.com/hoshieri7">北村英理</a>\(Eri Kitamura\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 70,340 likes - 50 songs - 3 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 70,403 likes - 50 songs - 3 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [春愁](https://open.spotify.com/track/5SHguvOUbyPTINNjCvRo8K) | [Mrs\. GREEN APPLE](https://open.spotify.com/artist/4QvgGvpgzgyUOo8Yp8LDm9) | [Love me, Love you](https://open.spotify.com/album/21awaIwNyYDin6Zzbtos4g) | 3:03 |
 | 2 | [Kaiju no Hanauta](https://open.spotify.com/track/3gQ19Wo6CbBpdHYmt2GVt0) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [strobo](https://open.spotify.com/album/4dKFBa0YCH4636ZtY4L2p7) | 3:44 |
-| 3 | [祝日天国](https://open.spotify.com/track/6zTD1K9pkrFg4UN7reegf1) | [35.7](https://open.spotify.com/artist/0r2fuN8lNQF4p6KRgxCVnP) | [祝日天国](https://open.spotify.com/album/5n0s8subG1xzl9SDxBT58D) | 4:01 |
+| 3 | [祝日天国](https://open.spotify.com/track/4MyoHgJsOdAjHua5e6sgo2) | [35.7](https://open.spotify.com/artist/0r2fuN8lNQF4p6KRgxCVnP) | [書を捨て、歌を編む](https://open.spotify.com/album/3frsajCJRl4XNSXmheDH9W) | 4:00 |
 | 4 | [太陽](https://open.spotify.com/track/7kzQIvZgFgmLIWnZO1Ug3S) | [My Hair is Bad](https://open.spotify.com/artist/0d4XqzcMpgP6eQZ6TIW2pI) | [太陽](https://open.spotify.com/album/0ju6G6RWdJvkRQqmtHigEV) | 4:26 |
 | 5 | [Along the long journey](https://open.spotify.com/track/154GAA2hbSjg5JsyVKhXZ0) | [Saucy Dog](https://open.spotify.com/artist/4WqXqPmUuenMIr4QaFrZXN) | [Along the long journey](https://open.spotify.com/album/15eDW5n9pntrJ5ldiLvYCb) | 4:05 |
 | 6 | [青春謳歌 \(feat.ano\)](https://open.spotify.com/track/5N6DFXriMN64kM62mpk9uc) | [Lilas Ikuta](https://open.spotify.com/artist/1qM11R4ylJyQiPJ0DffE9z), [ano](https://open.spotify.com/artist/7Il739Q5W4yJUYC3hfnX6z) | [青春謳歌 \(feat.ano\)](https://open.spotify.com/album/4szJowsqkuvKbBwZG9rYQG) | 3:47 |
 | 7 | [ファンデーションの前に](https://open.spotify.com/track/490KCtGnjNDhOJw3Tmn8Sy) | [First Love is Never Returned](https://open.spotify.com/artist/5TSbFJ8iUw0NTXGU9cmasG) | [ファンデーションの前に](https://open.spotify.com/album/0vfStzXN4XJeTmvnITS5wS) | 2:49 |
 | 8 | [Tsumugu](https://open.spotify.com/track/0vfBB5CXn4CwpmQ2M5EZOe) | [Tota](https://open.spotify.com/artist/5WIXXPkyVYncLscyUbDrpi) | [Oidaki](https://open.spotify.com/album/5FGKmIasXlcphIo9Z3ihS5) | 3:52 |
-| 9 | [long good\-bye](https://open.spotify.com/track/1bmg5GeIX2HhOOB1TrzWKF) | [Ryukku to Soine Gohan](https://open.spotify.com/artist/5LRYFq7w1jFGA4TGd0bB9D) | [Terminal](https://open.spotify.com/album/3jkN1x44uOSBYsg5JbLTUa) | 4:38 |
+| 9 | [long good\-bye](https://open.spotify.com/track/4SahYiM0uX40YnDt5jTLDZ) | [Ryukku to Soine Gohan](https://open.spotify.com/artist/5LRYFq7w1jFGA4TGd0bB9D) | [Terminal](https://open.spotify.com/album/2eYXYU8WPrnucyQsfAqpgr) | 4:38 |
 | 10 | [Itsuka](https://open.spotify.com/track/37ZddqLVyF23NIg5I17SBd) | [Saucy Dog](https://open.spotify.com/artist/4WqXqPmUuenMIr4QaFrZXN) | [Country Road](https://open.spotify.com/album/6ZtpnrvdBqke77cOazRblq) | 4:34 |
 | 11 | [Kimi to Hitsuji to Ao](https://open.spotify.com/track/2qz2iNaqKDJesD2ombEIsi) | [RADWIMPS](https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7) | [Zettaizetsumei](https://open.spotify.com/album/3b3tyPWcSOYy5SFC0bCUWP) | 2:42 |
 | 12 | [rendez\-vous](https://open.spotify.com/track/77mI5OSGIIPKxHXBkHOySy) | [shy taupe](https://open.spotify.com/artist/26JbIcCELE7o1nl8pw6Vlg) | [Hors d'oeuvre](https://open.spotify.com/album/2xoDg0aFWHgzxMKvTetH4D) | 3:58 |
-| 13 | [オレンジ](https://open.spotify.com/track/3meMv7YEUXyNeeam03MUsa) | [TRACK15](https://open.spotify.com/artist/2yBeBpGsS9sgRa4rlJldIT) | [bouquet](https://open.spotify.com/album/5orOfKlTjdQExk741M0MKb) | 2:46 |
+| 13 | [Orange](https://open.spotify.com/track/1S8IHLHBpgvh37EaSZGrVL) | [TRACK15](https://open.spotify.com/artist/2yBeBpGsS9sgRa4rlJldIT) | [Bouquet](https://open.spotify.com/album/5LwY4RUulbgXXYcrptzNBn) | 2:46 |
 | 14 | [負け犬にアンコールはいらない](https://open.spotify.com/track/1fooGB6yJLKiOk8jW3thn6) | [ヨルシカ](https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik) | [負け犬にアンコールはいらない](https://open.spotify.com/album/4jEsFbcpgjHiu0rsTdlaOy) | 3:54 |
 | 15 | [kimnosoba](https://open.spotify.com/track/1xFrkoI1ZBZOT06r0AP37r) | [tokyo\-kimigainaimati](https://open.spotify.com/artist/682ehg4PP2p5cbdBqH3ADM) | [23\-Spring](https://open.spotify.com/album/7JNO5AFNE0ISRSDUDQqRCl) | 2:50 |
 | 16 | [「僕は...」](https://open.spotify.com/track/5uJOkhUYFa6kkDrlEmZk3D) | [あたらよ](https://open.spotify.com/artist/2yRnjWtHzmDELwYaUiX0Yh) | [「僕は...」](https://open.spotify.com/album/4OBBoUQEAzQJw5IjxNdQ5s) | 3:59 |
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdxPR0maUKqu.md) - [plain]
 | 22 | [日常革命](https://open.spotify.com/track/1Ej4gvxiMMXtD8uDnADCTT) | [neguse.](https://open.spotify.com/artist/7jiFTNRWSw8zYgUj9wNJld) | [ワンダーランドに愛情を!](https://open.spotify.com/album/52s8JzniZA0dZA1D6sQOih) | 4:33 |
 | 23 | [夕方ジェネレーション](https://open.spotify.com/track/2zrkwF6k8fv6BzW5Pg5BS8) | [Base Ball Bear](https://open.spotify.com/artist/3RkPaFeTMrHIsB5HMEUdNt) | [夕方ジェネレーション](https://open.spotify.com/album/5wRH839yau15M0iWjD8Lsw) | 5:00 |
 | 24 | [エイド](https://open.spotify.com/track/3NX0LDezFDs6keWWSFFQzT) | [the shes gone](https://open.spotify.com/artist/689D5sYXTKmpBXqAkAu0H7) | [エイド](https://open.spotify.com/album/0fZAwBtTkEPbJpwWaAZg15) | 3:18 |
-| 25 | [不完ロマンス](https://open.spotify.com/track/6GeiPhDFSxzta6J1YCjaIB) | [bokula.](https://open.spotify.com/artist/03d8apfHOy2uV3oLL9lsFG) | [不完ロマンス](https://open.spotify.com/album/3cDwYqsC8SXdDQ6zeFvAd0) | 3:30 |
+| 25 | [Fukan Romance](https://open.spotify.com/track/4qUBjqmstuHK8DfdfKpkWk) | [bokula.](https://open.spotify.com/artist/03d8apfHOy2uV3oLL9lsFG) | [Fukan Romance](https://open.spotify.com/album/4BZryJ7vxw9BkS1lIfwXZy) | 3:30 |
 | 26 | [Love Song](https://open.spotify.com/track/7dPdKXZjt04R6Ne7vWXZIh) | [マルシィ](https://open.spotify.com/artist/7oQ6zxSp4eQjvVkk9rGIDV) | [Candle](https://open.spotify.com/album/1Dy7aa6yDhK1X0RdrVnHhq) | 4:18 |
 | 27 | [Decadance](https://open.spotify.com/track/7AXIbkfIuI5OLnbpYd38mh) | [Hakubi](https://open.spotify.com/artist/1vgwCsZx2um1wmTgP5EkZj) | [Throw](https://open.spotify.com/album/1OvpWrhUgMO2moBeKeVd1q) | 3:19 |
 | 28 | [My best love!](https://open.spotify.com/track/4F7HpyZBYY2NU4YxKaKn3m) | [saba sister](https://open.spotify.com/artist/2E9ODwADhw1qvfO9BXAkGX) | [My best love!](https://open.spotify.com/album/3yfwQt9HuQunyMnozW7Sim) | 3:34 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdxPR0maUKqu.md) - [plain]
 | 49 | [水平線](https://open.spotify.com/track/5m1i6hq7dmRlp3c1utE48L) | [back number](https://open.spotify.com/artist/6rs1KAoQnFalSqSU4LTh8g) | [水平線](https://open.spotify.com/album/4Z7pjeWlxxT8EXXlxW5i4y) | 4:45 |
 | 50 | [スパークル](https://open.spotify.com/track/3MR8qQiK1Bydhw9WjAzwzU) | [Lilas Ikuta](https://open.spotify.com/artist/1qM11R4ylJyQiPJ0DffE9z) | [Sketch](https://open.spotify.com/album/5aCgGOMefRFhsLgclMThoy) | 3:30 |
 
-Snapshot ID: `MCxjYWZiMTRiY2RmYTdlYzE1ZWYyZGZlN2M1NTJkMzgxYzcyMzQ0ODRl`
+Snapshot ID: `MCxiZjQyOGVjYzViOTliMTBhN2ZlZDBmNmNjMTFlNDYzNGZiNmMzZjY4`

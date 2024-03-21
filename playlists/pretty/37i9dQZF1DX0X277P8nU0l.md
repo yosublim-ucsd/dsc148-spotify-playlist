@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0X277P8nU0l.md) - [plain]
 
 > Un café, un croissant et c‘est parti pour une bonne journée.
 
-[Spotify](https://open.spotify.com/user/spotify) - 217,626 likes - 50 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 217,636 likes - 50 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0X277P8nU0l.md) - [plain]
 | 28 | [The Conflict of the Mind](https://open.spotify.com/track/4BFYRUjuuesHjLTJdvo1XR) | [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N) | [The Conflict of the Mind](https://open.spotify.com/album/7bGzvyccrDzn32gieBu3tE) | 4:15 |
 | 29 | [another sublet](https://open.spotify.com/track/5QXO4uPk1FdznZEGqTJsLb) | [Runnner](https://open.spotify.com/artist/7adlRX57hqe6Pc4YHrSGG0) | [another sublet](https://open.spotify.com/album/3j4TeXExZfONFBsnukEMuG) | 3:02 |
 | 30 | [Simply Paradise](https://open.spotify.com/track/1EKpwGoisV5nUOqqMZ7gAJ) | [Mac DeMarco](https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM), [Ryan Paris](https://open.spotify.com/artist/3nRifdQMP5925XSkIN07oC) | [Simply Paradise](https://open.spotify.com/album/4NKglcnKOsi2uFYJOSGkUM) | 2:35 |
-| 31 | [Deeper Well](https://open.spotify.com/track/2lJn77IeZAP9cmv6DPXOrL) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Deeper Well](https://open.spotify.com/album/2NXiMKrwmPrqU8epp20pW8) | 3:52 |
+| 31 | [Deeper Well](https://open.spotify.com/track/333XFHKsHU0pOocFzBgrJi) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Deeper Well](https://open.spotify.com/album/5SxZmGwc4eJuPp6PcO4JgJ) | 3:52 |
 | 32 | [Waterfall](https://open.spotify.com/track/4SDsnLiQaCywjSVKWUDhqv) | [Global Network](https://open.spotify.com/artist/0PbGtijuDfrXPkfC3CQWK9) | [Waterfall](https://open.spotify.com/album/1e8d71cyRmOil9564H27nU) | 2:53 |
 | 33 | [Nightingale](https://open.spotify.com/track/1eTaEGlZoe2N4B7nfsYbHW) | [Elliot Cooper](https://open.spotify.com/artist/3yOzYanGpgw48FA82ESMv8) | [Blue Rose](https://open.spotify.com/album/3zABnCJhsYoLun8aWPq4Jd) | 2:52 |
 | 34 | [I'm Sorry \(ft\. Lous and The Yakuza\)](https://open.spotify.com/track/5UJTM4M8b1Tw3No5kNI2N3) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx), [Lous and The Yakuza](https://open.spotify.com/artist/2HPiMwJktBXqakN0hnON2R) | [I'm Sorry \(ft\. Lous and The Yakuza\)](https://open.spotify.com/album/1oGJEqTSFq3OkYzUMtjkC9) | 3:07 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0X277P8nU0l.md) - [plain]
 | 49 | [Start Over](https://open.spotify.com/track/0Xxa8lYebLD3EPYUUqfikf) | [Claudia Isaki](https://open.spotify.com/artist/5Q8asiEUYLobc6DvKIsqOP) | [Start Over](https://open.spotify.com/album/6Lq7GuN8trgDLXgqHBV0VM) | 2:54 |
 | 50 | [See Ya There](https://open.spotify.com/track/4KXd5UAFuHok5tfUXBP2fQ) | [Genesis Owusu](https://open.spotify.com/artist/1HvH97rzvCH6lfnLlgyfke) | [STRUGGLER](https://open.spotify.com/album/1mzWBk8fzEEMumcy5IuVcf) | 4:39 |
 
-Snapshot ID: `MCxhMGZjNTkwZmUzODIyY2EyMzY4ZGJjY2FiMzgzOTRhM2ViNzUzZTJj`
+Snapshot ID: `MCw4ZTc3YjVjMjExMzYwNDllMzEwNDAzODFjNDQwY2FhNDAzZDNiN2Rl`

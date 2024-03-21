@@ -4,7 +4,7 @@
 
 > True indie rock hits.
 
-166 songs - 9 hr 40 min
+167 songs - 9 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -66,7 +66,8 @@
 | [Here With Me](https://open.spotify.com/track/78Sw5GDo6AlGwTwanjXbGh) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Here With Me](https://open.spotify.com/album/0OuoHWf8yB0TPzoBWw1R1S) | 4:02 | 2023-04-03 | 2023-06-02 |
 | [Homage](https://open.spotify.com/track/7DcJ6fEBb7BaKuYKTwiDxK) | [Mild High Club](https://open.spotify.com/artist/5J81VungUjSVHxlPpTI9KG) | [Skiptracing](https://open.spotify.com/album/6O9YDn12I4WQxUBQE9tpnN) | 2:57 | 2023-04-03 | 2023-04-11 |
 | [Honeypie](https://open.spotify.com/track/6FfLg6FFqhCsrFOaHIGkg0) | [JAWNY](https://open.spotify.com/artist/25pd339V2rRJo84USlcSRP) | [For Abby](https://open.spotify.com/album/7KHTE99FaDr8r7V8BZG7WN) | 2:15 | 2023-04-03 | 2023-07-14 |
-| [I Can't Handle Change](https://open.spotify.com/track/0I1eFRytp4XRhLCjT6tZm7) | [Roar](https://open.spotify.com/artist/7dIpKWlEeAljA20vFJ82RD) | [I Can't Handle Change](https://open.spotify.com/album/42vd9Cgr89pjb0Jipvaj5d) | 3:18 | 2023-04-03 |  |
+| [I Can't Handle Change](https://open.spotify.com/track/0I1eFRytp4XRhLCjT6tZm7) | [Roar](https://open.spotify.com/artist/7dIpKWlEeAljA20vFJ82RD) | [I Can't Handle Change](https://open.spotify.com/album/42vd9Cgr89pjb0Jipvaj5d) | 3:18 | 2023-04-03 | 2024-03-21 |
+| [I Can't Handle Change](https://open.spotify.com/track/37l31PrCNsg8baUjarNAi9) | [Roar](https://open.spotify.com/artist/7dIpKWlEeAljA20vFJ82RD) | [I Can't Handle Change](https://open.spotify.com/album/0YjOnBY0FRufcmNBTzWTgX) | 3:18 | 2023-09-29 |  |
 | [I Love You So](https://open.spotify.com/track/4SqWKzw0CbA05TGszDgMlc) | [The Walters](https://open.spotify.com/artist/027TpXKGwdXP7iwbjUSpV8) | [I Love You So](https://open.spotify.com/album/7ucm85tRsWk6EyVHaYAxe9) | 2:40 | 2023-04-03 |  |
 | [I Think I Like When It Rains](https://open.spotify.com/track/1A3tuE6ti9qoZDwB3LB0t2) | [WILLIS](https://open.spotify.com/artist/3OykSjAE6F2Mb51WplFoRk) | [Locals 2](https://open.spotify.com/album/3DRdTebuRYHafp1XJKJ0g2) | 4:38 | 2023-04-03 |  |
 | [i walk this earth all by myself](https://open.spotify.com/track/6oofvZ4K8vBHnCT1oKERcd) | [EKKSTACY](https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH) | [NEGATIVE](https://open.spotify.com/album/2momrvUqAMigmBoOOKuavE) | 2:25 | 2023-04-03 |  |

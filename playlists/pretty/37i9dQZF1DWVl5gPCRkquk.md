@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVl5gPCRkquk.md) - [plain]
 
 > Channel some chilled\-out back yard vibes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 862,255 likes - 100 songs - 6 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 862,280 likes - 100 songs - 6 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,13 +34,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVl5gPCRkquk.md) - [plain]
 | 24 | [Every Time the Sun Comes Up](https://open.spotify.com/track/61qxP4Vs5DVX0Ic4GnBklu) | [Sharon Van Etten](https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe) | [Are We There](https://open.spotify.com/album/6EQWzHbd3EYO8J4EAIJst4) | 4:22 |
 | 25 | [Another Story](https://open.spotify.com/track/34N4miRYCGQwmQEXoCiuuL) | [The Head And The Heart](https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg) | [Let's Be Still](https://open.spotify.com/album/6KE9bPdNZqkYvXebow0i42) | 4:34 |
 | 26 | [Opaline](https://open.spotify.com/track/732Zsh1L5ixRNgAmiPyvrp) | [Novo Amor](https://open.spotify.com/artist/0rZp7G3gIH6WkyeXbrZnGi) | [Cannot Be, Whatsoever](https://open.spotify.com/album/1KkBDNtkZDW8COUNKAWRPw) | 3:12 |
-| 27 | [Song for Zula](https://open.spotify.com/track/6Thn8AOHIwPCkf2O4ZgfC2) | [Phosphorescent](https://open.spotify.com/artist/57kIMCLPgkzQlXjblX7XXP) | [Muchacho](https://open.spotify.com/album/6rAJ4I8SpPMJj0guCZiAI8) | 6:10 |
-| 28 | [The Love](https://open.spotify.com/track/1WWF1IGjA7VjAFjnpaNoRI) | [Dekker](https://open.spotify.com/artist/2Udd2jgFaz8tXG1w3PyMtN) | [Slow Reveal: Chapter One](https://open.spotify.com/album/5iTODzVpwUxEctZCqOo15s) | 2:38 |
+| 27 | [The Love](https://open.spotify.com/track/1WWF1IGjA7VjAFjnpaNoRI) | [Dekker](https://open.spotify.com/artist/2Udd2jgFaz8tXG1w3PyMtN) | [Slow Reveal: Chapter One](https://open.spotify.com/album/5iTODzVpwUxEctZCqOo15s) | 2:38 |
+| 28 | [Song for Zula](https://open.spotify.com/track/6Thn8AOHIwPCkf2O4ZgfC2) | [Phosphorescent](https://open.spotify.com/artist/57kIMCLPgkzQlXjblX7XXP) | [Muchacho](https://open.spotify.com/album/6rAJ4I8SpPMJj0guCZiAI8) | 6:10 |
 | 29 | [Amsterdam](https://open.spotify.com/track/52BtapS0Wy7LM8R6QvJRpp) | [Wild Rivers](https://open.spotify.com/artist/59sBwR0jPSTrbMtuTkRPN5) | [Sidelines](https://open.spotify.com/album/4R09OvFyz47HfjecIjoEtP) | 3:33 |
 | 30 | [NFWMB](https://open.spotify.com/track/2iQYqdalv245vrCEM4W9N9) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Nina Cried Power \- EP](https://open.spotify.com/album/78o6vcPIRwoph8a3StqaTU) | 4:19 |
 | 31 | [Change](https://open.spotify.com/track/3HFBqhotJeEKHJzMEW31jZ) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [Dragon New Warm Mountain I Believe In You](https://open.spotify.com/album/7Ln81p86r5cCsesd3KBWIY) | 4:55 |
-| 32 | [Call Me When You Land](https://open.spotify.com/track/24AlaGqIZd2nUspgzc2ph1) | [Old Sea Brigade](https://open.spotify.com/artist/6vUNwmljZAcn7tNtUoxG45), [Luke Sital\-Singh](https://open.spotify.com/artist/3Lw97gGh8bp1MftsYmwJHG) | [Call Me When You Land](https://open.spotify.com/album/0xff0oGrrPLKSbBjXbEZ3D) | 4:47 |
-| 33 | [If You Need To, Keep Time on Me](https://open.spotify.com/track/7d0XkI4iJ32nxeFAHFXbLQ) | [Fleet Foxes](https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb) | [Crack\-Up](https://open.spotify.com/album/0xtTojp4zfartyGtbFKN3v) | 3:30 |
+| 32 | [If You Need To, Keep Time on Me](https://open.spotify.com/track/7d0XkI4iJ32nxeFAHFXbLQ) | [Fleet Foxes](https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb) | [Crack\-Up](https://open.spotify.com/album/0xtTojp4zfartyGtbFKN3v) | 3:30 |
+| 33 | [Call Me When You Land](https://open.spotify.com/track/24AlaGqIZd2nUspgzc2ph1) | [Old Sea Brigade](https://open.spotify.com/artist/6vUNwmljZAcn7tNtUoxG45), [Luke Sital\-Singh](https://open.spotify.com/artist/3Lw97gGh8bp1MftsYmwJHG) | [Call Me When You Land](https://open.spotify.com/album/0xff0oGrrPLKSbBjXbEZ3D) | 4:47 |
 | 34 | [Crowded Table](https://open.spotify.com/track/5HuaHij4kVpfEVv93MYCeW) | [The Highwomen](https://open.spotify.com/artist/3iyG1duuxWpcuWa57VSeZ0), [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej), [Natalie Hemby](https://open.spotify.com/artist/32opPqLCT3sF24Aso7wTXw), [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI), [Amanda Shires](https://open.spotify.com/artist/5yN0nwLpUCaZ2gr67bndCN) | [The Highwomen](https://open.spotify.com/album/7sGTt1N5XMIQPCYHAnO1Pl) | 3:29 |
 | 35 | [Officer of Love](https://open.spotify.com/track/0g7exrz3J7Ew9Et3NKOopv) | [Caamp](https://open.spotify.com/artist/0wyMPXGfOuQzNR54ujR9Ix) | [Officer of Love](https://open.spotify.com/album/32KEzI5ktqL3XmYP81n8mk) | 3:59 |
 | 36 | [Sorry Now](https://open.spotify.com/track/2I0t9apRfrVbkxr8Fym2yf) | [Jill Andrews](https://open.spotify.com/artist/35VpsbV6V2NdfTeNZEbKfc) | [Thirties](https://open.spotify.com/album/4ITAxjdVfgevnS8SA4liGZ) | 3:12 |
@@ -62,16 +62,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVl5gPCRkquk.md) - [plain]
 | 52 | [My Ego Dies At The End](https://open.spotify.com/track/7wWr0jb8Z1FZaEkb977AK0) | [Jensen McRae](https://open.spotify.com/artist/11dABkjSoOjcP9p3TFSNRj) | [My Ego Dies At The End](https://open.spotify.com/album/5OBhCOu9PsEEcLldCbwDn8) | 4:02 |
 | 53 | [Face Down In The Moment](https://open.spotify.com/track/5yTpyXVKcB20zOGXU1ffgf) | [Nathaniel Rateliff & The Night Sweats](https://open.spotify.com/artist/02seUFsFQP7TH4hLrTj77o) | [The Future](https://open.spotify.com/album/48KAdMIRvmqIq7py0qw3rh) | 4:39 |
 | 54 | [In My Life](https://open.spotify.com/track/2kgnKo9QCHpohSPxkDStLy) | [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [In My Life](https://open.spotify.com/album/3tgVhn9aidAfQvITwCZvhM) | 2:56 |
-| 55 | [Sapling](https://open.spotify.com/track/3pMbjkN5k9z6kZ2bcEZH1s) | [Foy Vance](https://open.spotify.com/artist/4bUqnkrDrb4f7rqmDR9yDu) | [Sapling / Signs Of Life](https://open.spotify.com/album/3NDur1o0sAsj62FgRrDqvH) | 4:17 |
+| 55 | [New Star](https://open.spotify.com/track/3PUln07oXes6xzvFFBnPO1) | [Watchhouse](https://open.spotify.com/artist/675tsBPpaZtqyiBwEf3ZEP) | [New Star](https://open.spotify.com/album/3zRIyC1QFzYOxRuuocyOt3) | 3:05 |
 | 56 | [Till the Flame Turns Blue](https://open.spotify.com/track/65ZLBQ0h2KKqNqqpnr76N0) | [The Paper Kites](https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy) | [At the Roadhouse](https://open.spotify.com/album/2UpcMYFkeMbmD1LiBjvYn9) | 4:05 |
-| 57 | [New Star](https://open.spotify.com/track/3PUln07oXes6xzvFFBnPO1) | [Watchhouse](https://open.spotify.com/artist/675tsBPpaZtqyiBwEf3ZEP) | [New Star](https://open.spotify.com/album/3zRIyC1QFzYOxRuuocyOt3) | 3:05 |
+| 57 | [Sapling](https://open.spotify.com/track/3pMbjkN5k9z6kZ2bcEZH1s) | [Foy Vance](https://open.spotify.com/artist/4bUqnkrDrb4f7rqmDR9yDu) | [Sapling / Signs Of Life](https://open.spotify.com/album/3NDur1o0sAsj62FgRrDqvH) | 4:17 |
 | 58 | [Horse to Water](https://open.spotify.com/track/0szmjOw9XbtbQYWz0GvXSp) | [Tall Heights](https://open.spotify.com/artist/1OVaGC0CDZaxjcPxclSNmp) | [Neptune](https://open.spotify.com/album/2PaNkZV2WVwOMoRWR7V9cS) | 4:04 |
 | 59 | [Sugar in the Creek](https://open.spotify.com/track/0Ppp8AhUasTiQxp4RHwyj5) | [Bendigo Fletcher](https://open.spotify.com/artist/6O8lpJl2nITlA3dJfT95pM) | [Fits Of Laughter](https://open.spotify.com/album/1SuYWmzfeZOnStKfSfnJ0D) | 4:11 |
 | 60 | [jordan](https://open.spotify.com/track/2BGyfq5k9xGO9019bUsYFk) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [in defense of my own happiness](https://open.spotify.com/album/3dzxXQLyHYrhKYWcKrnFAZ) | 4:01 |
 | 61 | [A Mermaid in Lisbon](https://open.spotify.com/track/6A8BvPrNOo5l1j3c80KhAb) | [Patrick Watson](https://open.spotify.com/artist/7bPs6jf983f0bjRAt1yxDM), [Teresa Salgueiro](https://open.spotify.com/artist/49W26EcOwY0UdytNfa3zGH) | [A Mermaid in Lisbon](https://open.spotify.com/album/1NnqLqMQgh9ftyQPtUuKJd) | 3:28 |
 | 62 | [Morning](https://open.spotify.com/track/7wStk0361hcPEtJc4KbOPf) | [Sarah Jarosz](https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ) | [Blue Heron Suite](https://open.spotify.com/album/3FK0O5gu17HYHEtbelgZaV) | 3:28 |
-| 63 | [Anybody Else](https://open.spotify.com/track/4tGhOyRQ7SS4xOZ7Iw3uQr) | [The Ballroom Thieves](https://open.spotify.com/artist/7kZBQcHbD4IKKEJIMnrRWC) | [Deadeye](https://open.spotify.com/album/2jqeCy5ydYWWWYB11VMS2V) | 4:03 |
-| 64 | [The Wolves](https://open.spotify.com/track/0n7eIgN6SqXohLpAEd27Jr) | [Watchhouse](https://open.spotify.com/artist/675tsBPpaZtqyiBwEf3ZEP) | [Tides of a Teardrop](https://open.spotify.com/album/2SWy4Nbpw77DzLkwXba7Hk) | 4:05 |
+| 63 | [The Wolves](https://open.spotify.com/track/0n7eIgN6SqXohLpAEd27Jr) | [Watchhouse](https://open.spotify.com/artist/675tsBPpaZtqyiBwEf3ZEP) | [Tides of a Teardrop](https://open.spotify.com/album/2SWy4Nbpw77DzLkwXba7Hk) | 4:05 |
+| 64 | [Anybody Else](https://open.spotify.com/track/4tGhOyRQ7SS4xOZ7Iw3uQr) | [The Ballroom Thieves](https://open.spotify.com/artist/7kZBQcHbD4IKKEJIMnrRWC) | [Deadeye](https://open.spotify.com/album/2jqeCy5ydYWWWYB11VMS2V) | 4:03 |
 | 65 | [Airplane](https://open.spotify.com/track/1PkGXXmXURIC0Zwil4MmKT) | [Cleo Sol](https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq) | [Heaven](https://open.spotify.com/album/6aWsHOGYXoEY1kxnxGMLwU) | 4:00 |
 | 66 | [Take Back Thy Gift](https://open.spotify.com/track/3ugct54al0lscnP8yZhE4C) | [Andrea von Kampen](https://open.spotify.com/artist/6ps9u0MZquDDBReh8XuBeY) | [That Spell](https://open.spotify.com/album/4iTfIM0YixQgp8s0QAN0xJ) | 3:13 |
 | 67 | [radiator](https://open.spotify.com/track/3etIVTF6tbIsRhSDJuj9KA) | [Sadurn](https://open.spotify.com/artist/2uvre6qZ51Tc12CBizuzRI) | [Radiator](https://open.spotify.com/album/5HskvGWXnVcfBg1K2Ff0nA) | 3:54 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVl5gPCRkquk.md) - [plain]
 | 99 | [Tangerine](https://open.spotify.com/track/4klb9Ro3gUeSHM2ndzw88v) | [The Brook & The Bluff](https://open.spotify.com/artist/4dWtsQvuME6tCWFycaTvO7) | [Bluebeard](https://open.spotify.com/album/0qUXv6HkmCb1gZ79WMDrZC) | 3:08 |
 | 100 | [Standing in the Doorway](https://open.spotify.com/track/5eTBKnncz8aOAytilhA4Ix) | [Hiss Golden Messenger](https://open.spotify.com/artist/37eqxl8DyLd5sQN54wYJbE) | [Standing in the Doorway](https://open.spotify.com/album/4z9lypFKw9WE1udcEQpnxc) | 2:37 |
 
-Snapshot ID: `MCw3Nzk1YmU2MDdhZTBmMjIwNGY2ZmE3MjY4ZTdkZjM4N2ZjNjc2ZDk5`
+Snapshot ID: `MCw1MGVmYzAxMDBlOTEzYzE5ZGFiYWZlNDk1Y2I4OTQzNTE2NWM1YzZk`

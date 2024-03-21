@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9gHUsLp9bcj.md) - [plain]
 
 > This is the Latin soundtrack of the 50s! Cover:  Pérez Prado
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,607 likes - 50 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,625 likes - 50 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,9 +26,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9gHUsLp9bcj.md) - [plain]
 | 16 | [Que Rico el Mambo](https://open.spotify.com/track/4XgsTDM3I0T6D0hvWBVWOC) | [Pérez Prado y Su Gran Orquesta](https://open.spotify.com/artist/0LIjbauWCv9ccbewmWnV5x) | [El Rey del Mambo](https://open.spotify.com/album/3cyW7js4KZs8LZ9tMHESy7) | 3:08 |
 | 17 | [Doce Cascabeles](https://open.spotify.com/track/7BUvNHsdaKgSjoGsAL4UJA) | [Los Churumbeles De España](https://open.spotify.com/artist/5jpiQUq0Xyneu77BPajLu4) | [Los Churumbeles](https://open.spotify.com/album/3D1Be6P20ztSlF2HHWwMA3) | 3:12 |
 | 18 | [Tú, solo tú](https://open.spotify.com/track/1sQ5nok0rccMPmAyGdQzvt) | [Pedro Infante](https://open.spotify.com/artist/7y33enVLfDvft6HGNmcxdV) | [60 Rancheras Inmortales](https://open.spotify.com/album/7r20ZE4dXhmE7Ldc9sGeok) | 3:17 |
-| 19 | [Mil Besos](https://open.spotify.com/track/7hPNJ4s8iAR6v6J8Pa5oR4) | [María Victoria](https://open.spotify.com/artist/2ZaGoLikmuGjY9tFEFQ14o) | [María Victoria](https://open.spotify.com/album/64Rwiu8nkPZQpvhuHFwx6i) | 3:22 |
+| 19 | [Ruega por Nosotros](https://open.spotify.com/track/7HeuflCAk9ygJnbUXCxskh) | [Miguel Aceves Mejia](https://open.spotify.com/artist/23XJNT1Hb35h3ZCDl7lpWY) | [Lo Mejor De Lo Mejor De RCA Victor](https://open.spotify.com/album/2PactlWmapDE3PmauHBEPo) | 3:32 |
 | 20 | [Aquellos ojos verdes \(bolero\)](https://open.spotify.com/track/7lNA5fkgtuoLoheD6Rdk8V) | [Los Panchos](https://open.spotify.com/artist/3Ker27Wbb9OcUHGs54JIAz), [Agustín Lara](https://open.spotify.com/artist/3ihXVyWYDuTBVpEDrr1Lop) | [Alma de negro](https://open.spotify.com/album/3F5U5ghrNGPnijdMvduDMj) | 2:20 |
-| 21 | [Ruega por Nosotros](https://open.spotify.com/track/7HeuflCAk9ygJnbUXCxskh) | [Miguel Aceves Mejia](https://open.spotify.com/artist/23XJNT1Hb35h3ZCDl7lpWY) | [Lo Mejor De Lo Mejor De RCA Victor](https://open.spotify.com/album/2PactlWmapDE3PmauHBEPo) | 3:32 |
+| 21 | [Mil Besos](https://open.spotify.com/track/7hPNJ4s8iAR6v6J8Pa5oR4) | [María Victoria](https://open.spotify.com/artist/2ZaGoLikmuGjY9tFEFQ14o) | [María Victoria](https://open.spotify.com/album/64Rwiu8nkPZQpvhuHFwx6i) | 3:22 |
 | 22 | [Cerezo Rosa](https://open.spotify.com/track/2718M9JCtwKzYqMlq4nR6f) | [Pérez Prado](https://open.spotify.com/artist/1ZKhPkCXXgtiGgALn4OYtT) | [Mambo](https://open.spotify.com/album/5ziv918FePQggsqRgyxOQb) | 2:36 |
 | 23 | [La que se fue](https://open.spotify.com/track/7jbw51fAxM61ELUdfvx8Ua) | [Pedro Infante](https://open.spotify.com/artist/7y33enVLfDvft6HGNmcxdV) | [60 Rancheras Inmortales](https://open.spotify.com/album/7r20ZE4dXhmE7Ldc9sGeok) | 2:39 |
 | 24 | [Amor Que Malo Eres](https://open.spotify.com/track/3UALUQSEr7cIp3yjnPCMVe) | [Los Tres Diamantes](https://open.spotify.com/artist/1xw1uyV0tzUHU2d850PAH1) | [Boleros In Trío](https://open.spotify.com/album/6Q5WjwqD0rXwSlU5fuw0O7) | 2:37 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9gHUsLp9bcj.md) - [plain]
 | 49 | [Las Chicas de la Cruz Roja \(Fox Fado\) \- Remastered](https://open.spotify.com/track/6T1nf9LujndhDtbtB4GWN7) | [Ana Maria Parra](https://open.spotify.com/artist/29OGMAPeEHMpTqyfIkxSei) | [Ana Maria Parra, Vol\. 1 \(1958 \- 1961 Remastered\)](https://open.spotify.com/album/5Vcs4PKk0RdULOJOAAZVKG) | 2:14 |
 | 50 | [Mariquilla \(remastered\)](https://open.spotify.com/track/1oHiwtCvNIXavqFbb1cP45) | [José Luis Y Su Guitarra](https://open.spotify.com/artist/1vCJVeY7z8P4vglJBTScQx) | [José Luis Y Su Guitarra\. Todos Sus Primeros EP's En Discos Philips \(1958\-1960\)](https://open.spotify.com/album/6NI3n5j27E7qiU66tTbfRw) | 2:36 |
 
-Snapshot ID: `MCw5MGVmNGM4ZjNiZDk2YmRhZDNjMzU1NzAxMWViODFkOTJlZjIxYmMy`
+Snapshot ID: `MCxkMmFmODRjYjJhYTA0Y2Y5NzQ1Mjg1MzU2MWU0MzI1NjA3ZTBlY2Rj`

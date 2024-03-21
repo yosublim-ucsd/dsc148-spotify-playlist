@@ -4,7 +4,7 @@
 
 > Il meglio dell'R&B italiano\. Cover: Sarah Toscano.
 
-492 songs - 1 day 0 hr 25 min
+493 songs - 1 day 0 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,7 +55,7 @@
 | [Brava](https://open.spotify.com/track/0oNfUVmHSsWYknhbnamRtd) | [Saintess](https://open.spotify.com/artist/1rZmAfzhpXD8kgq8ZMFl1J) | [Brava](https://open.spotify.com/album/3WR2HpDM3YuMHuWsUfEXtM) | 3:10 | 2023-07-20 | 2023-09-29 |
 | [Britney](https://open.spotify.com/track/1sD8E1zVlQRjfUwQsShCvG) | [Scozia](https://open.spotify.com/artist/06kIJSKCJs2NoULdMDwEh9) | [Britney](https://open.spotify.com/album/0Rw7Bax4tNc6CgJhRfy3vE) | 3:09 | 2022-05-05 | 2022-06-03 |
 | [Bruciami](https://open.spotify.com/track/3FdKyrHYU1MQVoKhyaPuVH) | [PABA](https://open.spotify.com/artist/1FXgKZygyeJ7sgiBygQ6gP) | [Bruciami](https://open.spotify.com/album/0dHoTlUchft7epHmdGdQsm) | 2:41 | 2023-06-22 | 2023-07-21 |
-| [Buio \(al sicuro\)](https://open.spotify.com/track/4l0x8auMApmHiMNyNBNVFr) | [Filippo Cattaneo Ponzoni](https://open.spotify.com/artist/7LPEM878eDKFvrV5JejDXr), [Maëlys](https://open.spotify.com/artist/4fuZBTq8KLPsKbYPQl0bZZ) | [Buio \(al sicuro\)](https://open.spotify.com/album/5e0vV5aXeDX55cMrwSXoA5) | 2:12 | 2024-01-18 |  |
+| [Buio \(al sicuro\)](https://open.spotify.com/track/4l0x8auMApmHiMNyNBNVFr) | [Filippo Cattaneo Ponzoni](https://open.spotify.com/artist/7LPEM878eDKFvrV5JejDXr), [Maëlys](https://open.spotify.com/artist/4fuZBTq8KLPsKbYPQl0bZZ) | [Buio \(al sicuro\)](https://open.spotify.com/album/5e0vV5aXeDX55cMrwSXoA5) | 2:12 | 2024-01-18 | 2024-03-21 |
 | [bye](https://open.spotify.com/track/73vaEVHisIS9lPpMWRH5HF) | [The 24 Project](https://open.spotify.com/artist/6ASG7r5gSsBTNJcXtsUOft), [Angela Iris](https://open.spotify.com/artist/7o1XRDbnk24xbZOvVNbn1C) | [bye](https://open.spotify.com/album/3daw0XQDmosXPgbeUIQMh2) | 2:47 | 2023-01-19 | 2023-03-10 |
 | [C'est La Vie](https://open.spotify.com/track/1Unwmq4hYPKCgoOSHSmc8S) | [KIM](https://open.spotify.com/artist/3AMuZJ85HywqN42C3Mc2LL) | [C'est La Vie](https://open.spotify.com/album/76wXnnoIAnR40YQH88e3rR) | 1:30 | 2022-08-05 | 2022-10-14 |
 | [Caffè](https://open.spotify.com/track/5uxfD54NLzsy1AP4ulHEzJ) | [gheb.](https://open.spotify.com/artist/3wv8iLsyRJdqSHBuEURVg6) | [Coffee Break](https://open.spotify.com/album/4BiH3apnfeox0bwYYSSwNA) | 3:25 | 2022-05-05 | 2022-05-27 |
@@ -284,6 +284,7 @@
 | [Mostro](https://open.spotify.com/track/7iR0VBMG8q5yQBAKyrHxzI) | [Calmo](https://open.spotify.com/artist/4Wx3ZL6d6p1gVMtwQ2YWsz) | [Mostro](https://open.spotify.com/album/1lCLtg7sx2uGudBKIOXR3k) | 2:51 | 2023-11-02 | 2023-12-15 |
 | [M’AMA](https://open.spotify.com/track/4M9QcyOAf0dxDOzUr71DSS) | [Thoé](https://open.spotify.com/artist/6Ft5DoZtQ4aoquM97AjjBG) | [M’AMA](https://open.spotify.com/album/0dxzTx9DQbOdYHKRfH7umG) | 3:25 | 2024-01-11 |  |
 | [N'Anima](https://open.spotify.com/track/5lELyaYDICf3gj0xjXleOs) | [Naomi](https://open.spotify.com/artist/3dbuSqzwPQGqucy4evhJUB) | [N'Anima](https://open.spotify.com/album/13ECmY0qa7soTUErZ1IElY) | 2:54 | 2023-10-26 | 2023-12-15 |
+| [N'ata vot \(Perdono\)](https://open.spotify.com/track/37lmdEdm1GtJBZEK3Z5Xt6) | [Le\-one](https://open.spotify.com/artist/5Otk4eRecMMbC5YR4Iliou) | [N'ata vot \(Perdono\)](https://open.spotify.com/album/0Hr1MneqQzVojY96cu5sm7) | 2:35 | 2024-03-20 |  |
 | [NAMASTE](https://open.spotify.com/track/1WQoZPJuSkENMK0ddTUbtw) | [Sir](https://open.spotify.com/artist/7IPFl9kGGBOSG9uQw5tQIg) | [NAMASTE](https://open.spotify.com/album/0qdR71s2AaRSxFnmIcCXM8) | 1:57 | 2022-09-22 | 2023-01-27 |
 | [Napoli \(feat\. Ezeeo\)](https://open.spotify.com/track/6Cdp3MuLOe4dBPGfREz97i) | [Subconscio](https://open.spotify.com/artist/1QrrQzYzB6iWHcJee809Zh), [Ezeeo](https://open.spotify.com/artist/0sYZ6OSyY2qGLVGQurc4nU) | [Napoli \(feat\. Ezeeo\)](https://open.spotify.com/album/5Y0vNaNfAA4AtT3HHLcGS5) | 3:12 | 2023-10-12 | 2024-01-19 |
 | [Nebbia](https://open.spotify.com/track/5ic9HBYRdWn2O0mPrY5RGE) | [JeBel](https://open.spotify.com/artist/3V3DPjpU2au75BqpnX1HwI) | [Nebbia](https://open.spotify.com/album/76e0HbnfnSnL0ytMysAmol) | 3:00 | 2023-02-02 | 2023-02-17 |

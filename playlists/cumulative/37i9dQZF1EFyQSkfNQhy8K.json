@@ -457,6 +457,32 @@
     },
     {
       "album": {
+        "name": "CARACAS EN EL 2000",
+        "url": "https://open.spotify.com/album/3Sn2sIMx8CvcWSoDPvt0IV"
+      },
+      "artists": [
+        {
+          "name": "ELENA ROSE",
+          "url": "https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY"
+        },
+        {
+          "name": "Danny Ocean",
+          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
+        },
+        {
+          "name": "Jerry Di",
+          "url": "https://open.spotify.com/artist/7f02bxFbZIOVdSbYRNYvLT"
+        }
+      ],
+      "date_added": "2024-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227784,
+      "name": "CARACAS EN EL 2000",
+      "url": "https://open.spotify.com/track/4CUWxHauVJriW776t5lyCJ"
+    },
+    {
+      "album": {
         "name": "Cupido",
         "url": "https://open.spotify.com/album/3HWlgRjxW0H7fWm1n2LBbE"
       },

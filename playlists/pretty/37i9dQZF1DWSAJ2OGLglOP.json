@@ -1,12 +1,12 @@
 {
   "description": "\u30c9\u30e9\u30a4\u30d6\u7528\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\uff01\u6e0b\u6ede\u3082\u6c17\u306b\u305b\u305a\u3001\u30c9\u30e9\u30a4\u30d6\u304c\u697d\u3057\u304f\u306a\u308b\u697d\u66f2\u3092\u6bce\u9031\u30bb\u30ec\u30af\u30c8\uff01",
-  "num_followers": 99382,
+  "num_followers": 99411,
   "original_name": "Drive Loud!: \u30c9\u30e9\u30a4\u30d6\u30fb\u30e9\u30a6\u30c9",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkY2RiM2Q3NjMzYmVjZTAzMmEwMTM3MGViODgzZThiMDU5ZGE1N2Q2",
+  "snapshot_id": "MCw3OTlkZGU4YTJmZGIyZDE2NDU5ZmM1NzBkOGQ5MzJhM2ZjMjkwYWEy",
   "tracks": [
     {
       "added_at": "2024-03-07 15:00:00",
@@ -727,22 +727,6 @@
     {
       "added_at": "2024-03-07 15:00:00",
       "album": {
-        "name": "Friendly Fire",
-        "url": "https://open.spotify.com/album/601IEigQO3enlyrbn4SpNM"
-      },
-      "artists": [
-        {
-          "name": "Linkin Park",
-          "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
-        }
-      ],
-      "duration_ms": 176901,
-      "name": "Friendly Fire",
-      "url": "https://open.spotify.com/track/1rAzOr3zpUDRtN2zsqGHiG"
-    },
-    {
-      "added_at": "2024-03-07 15:00:00",
-      "album": {
         "name": "Running",
         "url": "https://open.spotify.com/album/2dEf6lN5qYFQQy3Jd3ScHG"
       },
@@ -755,6 +739,22 @@
       "duration_ms": 191823,
       "name": "Tek It",
       "url": "https://open.spotify.com/track/751srcHf5tUqcEa9pRCQwP"
+    },
+    {
+      "added_at": "2024-03-07 15:00:00",
+      "album": {
+        "name": "Friendly Fire",
+        "url": "https://open.spotify.com/album/601IEigQO3enlyrbn4SpNM"
+      },
+      "artists": [
+        {
+          "name": "Linkin Park",
+          "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
+        }
+      ],
+      "duration_ms": 176901,
+      "name": "Friendly Fire",
+      "url": "https://open.spotify.com/track/1rAzOr3zpUDRtN2zsqGHiG"
     },
     {
       "added_at": "2024-03-07 15:00:00",

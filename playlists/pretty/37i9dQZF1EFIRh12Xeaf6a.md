@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFIRh12Xeaf6a.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3svMrp8RwsOrJ2NaPbK3x9">Carole King</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,657 likes - 272 songs - 14 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,656 likes - 272 songs - 14 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -103,15 +103,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFIRh12Xeaf6a.md) - [plain]
 | 93 | [Pierre](https://open.spotify.com/track/4yG5v8qiUhri7PyWp8qaLE) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Really Rosie](https://open.spotify.com/album/7oJAFBGUEddEbeAJFlA90Y) | 5:38 |
 | 94 | [Being at War with Each Other](https://open.spotify.com/track/1hHpDn9q89uyvPAlrkri8i) | [Barbra Streisand](https://open.spotify.com/artist/7jmTilWYlKOuavFfmQAcu6) | [The Way We Were](https://open.spotify.com/album/0vTu2dD57pVlPvd3pfxUSS) | 4:01 |
 | 95 | [After All This Time](https://open.spotify.com/track/202Rv6z4W2aE0rxYwUfCq9) | [Merry Clayton](https://open.spotify.com/artist/71cyZ6pH0KrM2MdtO8RGmy) | [Merry Clayton](https://open.spotify.com/album/7GpmPNM0lOE0i8bCvvTECX) | 3:10 |
-| 96 | [Snow Queen](https://open.spotify.com/track/4ixqlGDNCyg5HvWDtC0lBQ) | [Aliotta Haynes Jeremiah](https://open.spotify.com/artist/4VmWYQQ5M9N9AiAx14v2yg) | [Lake Shore Drive](https://open.spotify.com/album/24NY6n4z0tDzpt8QCiWEGV) | 4:32 |
-| 97 | [In the Name of Love](https://open.spotify.com/track/5RpGVmGXHyC9xQXsAFB3W6) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Simple Things](https://open.spotify.com/album/5AJ4tMUKB5WOvIITI8JAZJ) | 3:04 |
+| 96 | [In the Name of Love](https://open.spotify.com/track/5RpGVmGXHyC9xQXsAFB3W6) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Simple Things](https://open.spotify.com/album/5AJ4tMUKB5WOvIITI8JAZJ) | 3:04 |
+| 97 | [Snow Queen](https://open.spotify.com/track/4ixqlGDNCyg5HvWDtC0lBQ) | [Aliotta Haynes Jeremiah](https://open.spotify.com/artist/4VmWYQQ5M9N9AiAx14v2yg) | [Lake Shore Drive](https://open.spotify.com/album/24NY6n4z0tDzpt8QCiWEGV) | 4:32 |
 | 98 | [A Quiet Place to Live](https://open.spotify.com/track/5gjD5X9YR05v8JVqbWvqg7) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Fantasy](https://open.spotify.com/album/3oBOHwgHLmI3HzN9nxaUZl) | 1:55 |
 | 99 | [My My She Cries](https://open.spotify.com/track/5JYRYD8ya0yaE4p6oqjXH1) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Rhymes & Reasons](https://open.spotify.com/album/3kUmJfZkReqIb3ZqB4Q4kv) | 2:19 |
 | 100 | [I Was There \(And I'm Told I Had a Good Time\)](https://open.spotify.com/track/5rQXyZscMjd5AekwWkBDpA) | [The Monkees](https://open.spotify.com/artist/320EPCSEezHt1rtbfwH6Ck) | [Good Times! \(Deluxe Edition\)](https://open.spotify.com/album/4UwFizSE0TB6EzTfkkxlbF) | 2:15 |
 | 101 | [I Think I Can Hear You](https://open.spotify.com/track/6VQYB9tMPzBQrHWhrEdTlC) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Rhymes & Reasons](https://open.spotify.com/album/3kUmJfZkReqIb3ZqB4Q4kv) | 3:25 |
 | 102 | [2 L8](https://open.spotify.com/track/69eyNEmESnyqiqS89PQyPO) | [Fousheé](https://open.spotify.com/artist/6trIghKwHRUyxwvm66HLHH) | [time machine](https://open.spotify.com/album/6TPeuDAS4Bo24rgZTE0go6) | 3:07 |
-| 103 | [We're Gonna Make It](https://open.spotify.com/track/5j9Kzx6cn3rqiMBuOzsIyL) | [LL COOL J](https://open.spotify.com/artist/1P8IfcNKwrkQP5xJWuhaOC), [Mary Mary](https://open.spotify.com/artist/12Kgt2eahvxNWhD5PnSUde) | [Todd Smith](https://open.spotify.com/album/6WRDjDCqj8Y2ZGlgSzRTfF) | 4:54 |
-| 104 | [Please Hurt Me](https://open.spotify.com/track/6cEhla9GaxwIL31U2SYZSd) | [The Crystals](https://open.spotify.com/artist/7rewR1TVjhisjI6gauUamf) | [Twist Uptown](https://open.spotify.com/album/1u6OEiAZAyZPCLE9frkKBZ) | 2:14 |
+| 103 | [Please Hurt Me](https://open.spotify.com/track/6cEhla9GaxwIL31U2SYZSd) | [The Crystals](https://open.spotify.com/artist/7rewR1TVjhisjI6gauUamf) | [Twist Uptown](https://open.spotify.com/album/1u6OEiAZAyZPCLE9frkKBZ) | 2:14 |
+| 104 | [We're Gonna Make It](https://open.spotify.com/track/5j9Kzx6cn3rqiMBuOzsIyL) | [LL COOL J](https://open.spotify.com/artist/1P8IfcNKwrkQP5xJWuhaOC), [Mary Mary](https://open.spotify.com/artist/12Kgt2eahvxNWhD5PnSUde) | [Todd Smith](https://open.spotify.com/album/6WRDjDCqj8Y2ZGlgSzRTfF) | 4:54 |
 | 105 | [Stand Behind Me](https://open.spotify.com/track/2vAhTyIJP5LessHhtVyEuI) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Rhymes & Reasons](https://open.spotify.com/album/3kUmJfZkReqIb3ZqB4Q4kv) | 2:28 |
 | 106 | [What Am I Gonna Do](https://open.spotify.com/track/537pMB75IKiJLEZ98NoiI2) | [Bobby Bare](https://open.spotify.com/artist/69wzuykaVXlRS5KVygESvd) | [What Am I Gonna Do](https://open.spotify.com/album/7sG38JyCrAWsdKwsPRTdvr) | 2:09 |
 | 107 | [I Think It's Gonna Work out Fine \(with James Taylor\)](https://open.spotify.com/track/2cz5aUnfZpxK7Pp9D9vuew) | [Linda Ronstadt](https://open.spotify.com/artist/1sXbwvCQLGZnaH0Jp2HTVc), [James Taylor](https://open.spotify.com/artist/0vn7UBvSQECKJm2817Yf1P) | [Get Closer](https://open.spotify.com/album/5WMzxTzHkHVXaleVFWNcfB) | 4:01 |
@@ -281,4 +281,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFIRh12Xeaf6a.md) - [plain]
 | 271 | [He Who Laughs Last](https://open.spotify.com/track/0CHCBayT9d8c5VJFY8Rfhn) | [Freda Payne](https://open.spotify.com/artist/0701Axu6yvUIoctaKMbDIZ) | [That's a Pretty Good Love](https://open.spotify.com/album/1rYVaZD5cDiOyQhpDD7mjV) | 2:06 |
 | 272 | [So This Is How It Feels](https://open.spotify.com/track/67wjnFeLF2bsZbhDAf85wg) | [The Countrymen](https://open.spotify.com/artist/0C62w20FpxpOHiWM9UCObQ) | [One Fine Day: The Songs of Goffin & King](https://open.spotify.com/album/0j2kaxs6fKFcFYiCJ7uE96) | 1:49 |
 
-Snapshot ID: `Mjg1MTUwMTAsMDAwMDAwMDAyNjQ5ODRjNDk0YzM1MjkzYTMwZTg5ZmU2ZWIzMTg1NQ==`
+Snapshot ID: `Mjg1MTY0NTAsMDAwMDAwMDA2NmQ5OGNkYzk3NmI5MDE3MmE5ZWU1ODk5ZTNkNmNiZg==`

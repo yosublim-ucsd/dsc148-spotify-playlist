@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVE0GbO5rNDb.md) - [plain]
 
 > Hit dance per l'estate 2023, anche in autunno 👀
 
-[Spotify](https://open.spotify.com/user/spotify) - 102,710 likes - 100 songs - 4 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 102,723 likes - 100 songs - 4 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -82,8 +82,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVE0GbO5rNDb.md) - [plain]
 | 72 | [Everywhere](https://open.spotify.com/track/2hIlV0UAOhsbvRp9KV1pOG) | [Babsy.](https://open.spotify.com/artist/1BjdCHWqVEwBktJLHOUhmk) | [Everywhere](https://open.spotify.com/album/37og7S56FzrRuRI8Jvzxjq) | 2:46 |
 | 73 | [Bling Bling](https://open.spotify.com/track/3KMsGaN1xdoOaNQELy8vR8) | [ALTÉGO](https://open.spotify.com/artist/2f1gRV8q7Wua3x7dkoWrbS) | [Bling Bling](https://open.spotify.com/album/1b3QXIJY3rasdi7fV4gPU2) | 1:59 |
 | 74 | [The Fall](https://open.spotify.com/track/5FvGI8KtImlEbOsvEW3pfX) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp), [Ship Wrek](https://open.spotify.com/artist/1ic0FHNGIjXZAWH6O6Reif) | [So Far So Good](https://open.spotify.com/album/4nZ4dv1XvDE25Lf2MFhOqA) | 3:16 |
-| 75 | [Dandelion](https://open.spotify.com/track/4NexTaCZZ7Ehnf03A6SVjt) | [Galantis](https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu), [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK) | [Dandelion](https://open.spotify.com/album/6YPTwr9e07jNzBJgXbmoQZ) | 2:20 |
-| 76 | [Tears In Ibiza \(feat\. AR/CO\)](https://open.spotify.com/track/7A0xA68c4NiTvbWWAsIsoN) | [The Stickmen Project](https://open.spotify.com/artist/13wroZC00C9ix8fUR0JvaY), [AR/CO](https://open.spotify.com/artist/7mGI9Sd66FqHjIkwzkgbG7) | [Tears In Ibiza \(feat\. AR/CO\)](https://open.spotify.com/album/3j1gIUlWUvy3ihysDQUYpg) | 2:23 |
+| 75 | [Tears In Ibiza \(feat\. AR/CO\)](https://open.spotify.com/track/7A0xA68c4NiTvbWWAsIsoN) | [The Stickmen Project](https://open.spotify.com/artist/13wroZC00C9ix8fUR0JvaY), [AR/CO](https://open.spotify.com/artist/7mGI9Sd66FqHjIkwzkgbG7) | [Tears In Ibiza \(feat\. AR/CO\)](https://open.spotify.com/album/3j1gIUlWUvy3ihysDQUYpg) | 2:23 |
+| 76 | [Dandelion](https://open.spotify.com/track/4NexTaCZZ7Ehnf03A6SVjt) | [Galantis](https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu), [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK) | [Dandelion](https://open.spotify.com/album/6YPTwr9e07jNzBJgXbmoQZ) | 2:20 |
 | 77 | [Sun Will Shine](https://open.spotify.com/track/6bp0sJ0l3Ab3ZU0aktsYCf) | [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S), [Tom Walker](https://open.spotify.com/artist/7z2avKuuiMAT4XZJFv8Rvh) | [Sun Will Shine](https://open.spotify.com/album/43u6j73XJJE6wOhKgsA50W) | 3:21 |
 | 78 | [Temptation](https://open.spotify.com/track/67uiBfnqH39zmGWU63NxhS) | [Bakermat](https://open.spotify.com/artist/3MyFDtqB80WZvbtCZRsekM), [Elise LeGrow](https://open.spotify.com/artist/20biSVcaiwFyvcseOzYKo8) | [Temptation](https://open.spotify.com/album/0vUxIesFmxzHzv8LmdYlKJ) | 3:12 |
 | 79 | [I Want More](https://open.spotify.com/track/4ZWyj5whGZ3nNLwOtOLrMt) | [Marc Benjamin](https://open.spotify.com/artist/05KjvP5zdwtEIgEazqblZw) | [I Want More](https://open.spotify.com/album/5QbPK8Zabj8ynFuJ6IbK0r) | 2:09 |
@@ -94,8 +94,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVE0GbO5rNDb.md) - [plain]
 | 84 | [Never Really Loved Me \(with Dean Lewis\)](https://open.spotify.com/track/1O73ZKgl0THUImkHW6dfAL) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y) | [Never Really Loved Me \(with Dean Lewis\)](https://open.spotify.com/album/1wbg9GPcUBlvM9uYjdqZ2D) | 3:22 |
 | 85 | [Shadow](https://open.spotify.com/track/102rhgJ5PEFt62e0PumSF2) | [Syn Cole](https://open.spotify.com/artist/6i1GVNJCyyssRwXmnaeEFH), [Alida](https://open.spotify.com/artist/1kiq2kUV0cbLUhJsr7cpW0) | [Shadow](https://open.spotify.com/album/6gBdU9KlMWSrqM3rkuZyY0) | 2:46 |
 | 86 | [Motion](https://open.spotify.com/track/78vBw8siHaT9TcI5cls1iM) | [Vandelux](https://open.spotify.com/artist/2rdSCmWgrIWA8pmwhS1T2k) | [When The Light Breaks](https://open.spotify.com/album/3M6HrQ6zlE9wwcVmLB5r2h) | 3:07 |
-| 87 | [Jacaré](https://open.spotify.com/track/1WY17VGE4rQjsyWi1Tw3be) | [Sofi Tukker](https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q) | [Jacaré](https://open.spotify.com/album/6tVrvnbU1sLGGegMIEYexO) | 2:36 |
-| 88 | [Ritmo \- HUGEL Edit](https://open.spotify.com/track/17lDd5hXfSr86GTUq2k7Wh) | [Raffa Fl](https://open.spotify.com/artist/0j4dGWeyGGE4GvrAzdZIZ5), [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By) | [Ritmo \(HUGEL Edit\)](https://open.spotify.com/album/2c20yP2mNChmFgk4axzacT) | 2:45 |
+| 87 | [Ritmo \- HUGEL Edit](https://open.spotify.com/track/17lDd5hXfSr86GTUq2k7Wh) | [Raffa Fl](https://open.spotify.com/artist/0j4dGWeyGGE4GvrAzdZIZ5), [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By) | [Ritmo \(HUGEL Edit\)](https://open.spotify.com/album/2c20yP2mNChmFgk4axzacT) | 2:45 |
+| 88 | [Jacaré](https://open.spotify.com/track/1WY17VGE4rQjsyWi1Tw3be) | [Sofi Tukker](https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q) | [Jacaré](https://open.spotify.com/album/6tVrvnbU1sLGGegMIEYexO) | 2:36 |
 | 89 | [Es un secreto \(feat\. Pensión & Juanmih\)](https://open.spotify.com/track/5TRubkfle0s3bQAPtBPQIf) | [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By), [BLOND:ISH](https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR), [Dalex](https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn), [Pensión](https://open.spotify.com/artist/0keK1LwbYlAeAwmM00q8PM), [Juanmih](https://open.spotify.com/artist/1ONFKxaF62UuzaaMwzuzm9) | [Es un secreto \(feat\. Pensión & Juanmih\)](https://open.spotify.com/album/3dKKWOI7rNPtfwn8lVX6HY) | 1:52 |
 | 90 | [Alive](https://open.spotify.com/track/2KlnRC8jhbWokqr3PQMwgO) | [Toby Romeo](https://open.spotify.com/artist/2XnY6NZ6rENbLMYabjkRey), [Declan J Donovan](https://open.spotify.com/artist/6bh228LGC3eAzbplPWV02r) | [Alive](https://open.spotify.com/album/4dvts8ZkUUsbQdGASHVmbi) | 2:28 |
 | 91 | [Run Into Trouble](https://open.spotify.com/track/5C2mUkFTs51bizl4LAaqRy) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [Run Into Trouble](https://open.spotify.com/album/2Cfzwp8KLSsL7oul0sGirP) | 3:02 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVE0GbO5rNDb.md) - [plain]
 | 99 | [Hero](https://open.spotify.com/track/29p6UW08MXzwj9thWBW3uF) | [AFROJACK](https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [Hero](https://open.spotify.com/album/6KV17NyVQwm5PJOVwAVlyV) | 2:51 |
 | 100 | [Sunrise](https://open.spotify.com/track/4iWMYQzb82cuwANWqByUda) | [Tungevaag](https://open.spotify.com/artist/49CE2ffZ6Z3zeYSDauSKck) | [Sunrise](https://open.spotify.com/album/6a65EL0FbTxEZ837CMrtYg) | 2:18 |
 
-Snapshot ID: `MCw5MGYyNDczOTY3YmI4NzBiZTViZDVlNDkzZDAwYjlhYzMyMTAyMjRh`
+Snapshot ID: `MCwyMzY3OTc5ZGU0MmExN2NkZGQ2YzU5NGIzZGUxZDg5Nzc4NGE4ZmNi`

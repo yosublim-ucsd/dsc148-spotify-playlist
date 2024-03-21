@@ -1,12 +1,12 @@
 {
   "description": "This is the best of ska, new and classic. Cover: Madness",
-  "num_followers": 372983,
+  "num_followers": 373084,
   "original_name": "The Essential Ska",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlNDJmYzVhMjQwYzVlMTJmNjBhNmZiMDhkM2M0YjBhZjdlZTlkM2Ex",
+  "snapshot_id": "MCwxZmEwN2I2MjE0NzZjNzgzYzQ4YWM5OGJhZWY2Y2UzODI2MmZiZDI0",
   "tracks": [
     {
       "added_at": "2024-02-23 18:26:51",
@@ -435,22 +435,6 @@
     {
       "added_at": "2024-02-23 18:26:51",
       "album": {
-        "name": "Funky Kingston",
-        "url": "https://open.spotify.com/album/7a341nZsSfwyBsq1tMPETz"
-      },
-      "artists": [
-        {
-          "name": "Toots & The Maytals",
-          "url": "https://open.spotify.com/artist/6ZFv3wQwwWPiVDWhv0mjQK"
-        }
-      ],
-      "duration_ms": 295666,
-      "name": "Funky Kingston",
-      "url": "https://open.spotify.com/track/26WPI2aksB9XdqmeLfca5z"
-    },
-    {
-      "added_at": "2024-02-23 18:26:51",
-      "album": {
         "name": "Operation Ivy (2007 Remaster)",
         "url": "https://open.spotify.com/album/2Rv1kIWFeIYeq8kAtdhY6m"
       },
@@ -463,6 +447,22 @@
       "duration_ms": 134026,
       "name": "Sound System - 2007 Remaster",
       "url": "https://open.spotify.com/track/4Pmo0mMgiyBCj1Zd7Axsi1"
+    },
+    {
+      "added_at": "2024-02-23 18:26:51",
+      "album": {
+        "name": "Funky Kingston",
+        "url": "https://open.spotify.com/album/7a341nZsSfwyBsq1tMPETz"
+      },
+      "artists": [
+        {
+          "name": "Toots & The Maytals",
+          "url": "https://open.spotify.com/artist/6ZFv3wQwwWPiVDWhv0mjQK"
+        }
+      ],
+      "duration_ms": 295666,
+      "name": "Funky Kingston",
+      "url": "https://open.spotify.com/track/26WPI2aksB9XdqmeLfca5z"
     },
     {
       "added_at": "2024-02-23 18:26:51",
@@ -835,18 +835,18 @@
     {
       "added_at": "2024-02-23 18:26:51",
       "album": {
-        "name": "Never Look Back",
-        "url": "https://open.spotify.com/album/43YzokVXiyJbfas8y3WSK6"
+        "name": "The Restoration Of Chaos & Order",
+        "url": "https://open.spotify.com/album/2n5qmlv9RxhetofRF4SWcR"
       },
       "artists": [
         {
-          "name": "Goldfinger",
-          "url": "https://open.spotify.com/artist/7sVQKNtdP2NylxMgbNOJMM"
+          "name": "Against All Authority",
+          "url": "https://open.spotify.com/artist/4zYmn9QW7Fzd7DzJsK9LyT"
         }
       ],
-      "duration_ms": 143166,
-      "name": "Wallflower",
-      "url": "https://open.spotify.com/track/31RJ1xFMQCGfGniKY4IMdO"
+      "duration_ms": 226333,
+      "name": "Silence Is Golden But Duct Tape Is Silver",
+      "url": "https://open.spotify.com/track/4spRDXyx1QtIR0ZCzsfVs5"
     },
     {
       "added_at": "2024-02-23 18:26:51",
@@ -867,18 +867,18 @@
     {
       "added_at": "2024-02-23 18:26:51",
       "album": {
-        "name": "The Restoration Of Chaos & Order",
-        "url": "https://open.spotify.com/album/2n5qmlv9RxhetofRF4SWcR"
+        "name": "Never Look Back",
+        "url": "https://open.spotify.com/album/43YzokVXiyJbfas8y3WSK6"
       },
       "artists": [
         {
-          "name": "Against All Authority",
-          "url": "https://open.spotify.com/artist/4zYmn9QW7Fzd7DzJsK9LyT"
+          "name": "Goldfinger",
+          "url": "https://open.spotify.com/artist/7sVQKNtdP2NylxMgbNOJMM"
         }
       ],
-      "duration_ms": 226333,
-      "name": "Silence Is Golden But Duct Tape Is Silver",
-      "url": "https://open.spotify.com/track/4spRDXyx1QtIR0ZCzsfVs5"
+      "duration_ms": 143166,
+      "name": "Wallflower",
+      "url": "https://open.spotify.com/track/31RJ1xFMQCGfGniKY4IMdO"
     },
     {
       "added_at": "2024-02-23 18:26:51",
@@ -1243,22 +1243,6 @@
     {
       "added_at": "2024-02-23 18:26:51",
       "album": {
-        "name": "For Monkeys",
-        "url": "https://open.spotify.com/album/3J7l2zrhkK3OxqxPpLcYxE"
-      },
-      "artists": [
-        {
-          "name": "Millencolin",
-          "url": "https://open.spotify.com/artist/74xFFXkvOq9dPDigOWTHiX"
-        }
-      ],
-      "duration_ms": 160173,
-      "name": "Random I Am",
-      "url": "https://open.spotify.com/track/2XvrtH6BIVyCr6tLhOvIAt"
-    },
-    {
-      "added_at": "2024-02-23 18:26:51",
-      "album": {
         "name": "The Toasters: 30th Anniversary",
         "url": "https://open.spotify.com/album/6AFJwHYa0jt4z7qj1DghIo"
       },
@@ -1271,6 +1255,22 @@
       "duration_ms": 170800,
       "name": "Don't Let the Bastards Grind You Down",
       "url": "https://open.spotify.com/track/0XlPgrltmThUXK0hoClUfM"
+    },
+    {
+      "added_at": "2024-02-23 18:26:51",
+      "album": {
+        "name": "For Monkeys",
+        "url": "https://open.spotify.com/album/3J7l2zrhkK3OxqxPpLcYxE"
+      },
+      "artists": [
+        {
+          "name": "Millencolin",
+          "url": "https://open.spotify.com/artist/74xFFXkvOq9dPDigOWTHiX"
+        }
+      ],
+      "duration_ms": 160173,
+      "name": "Random I Am",
+      "url": "https://open.spotify.com/track/2XvrtH6BIVyCr6tLhOvIAt"
     },
     {
       "added_at": "2024-02-23 18:26:51",
@@ -1611,22 +1611,6 @@
     {
       "added_at": "2024-02-23 18:26:51",
       "album": {
-        "name": "Heads Are Gonna Roll",
-        "url": "https://open.spotify.com/album/1ShvLX5xWw2wwvBMu3ENWn"
-      },
-      "artists": [
-        {
-          "name": "The Hippos",
-          "url": "https://open.spotify.com/artist/6glQCSuzgkNeB7oVMIkiYi"
-        }
-      ],
-      "duration_ms": 144426,
-      "name": "Lost It",
-      "url": "https://open.spotify.com/track/0BvtEvt2oftqEAwOLl4ujT"
-    },
-    {
-      "added_at": "2024-02-23 18:26:51",
-      "album": {
         "name": "Right On Time",
         "url": "https://open.spotify.com/album/5n7IeJHvlLtCo3HW5vgCqu"
       },
@@ -1639,6 +1623,22 @@
       "duration_ms": 202106,
       "name": "I Can't Wait",
       "url": "https://open.spotify.com/track/51vJlDmoPncY0fzzarlHW2"
+    },
+    {
+      "added_at": "2024-02-23 18:26:51",
+      "album": {
+        "name": "Heads Are Gonna Roll",
+        "url": "https://open.spotify.com/album/1ShvLX5xWw2wwvBMu3ENWn"
+      },
+      "artists": [
+        {
+          "name": "The Hippos",
+          "url": "https://open.spotify.com/artist/6glQCSuzgkNeB7oVMIkiYi"
+        }
+      ],
+      "duration_ms": 144426,
+      "name": "Lost It",
+      "url": "https://open.spotify.com/track/0BvtEvt2oftqEAwOLl4ujT"
     }
   ],
   "unique_name": "The Essential Ska",

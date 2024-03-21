@@ -2,7 +2,7 @@
 
 ### [Balec !](https://open.spotify.com/playlist/37i9dQZF1DWXEtW1CELnqL)
 
-> Monsieur Dusse, ce qui ne va pas, c'est le planté de bâton.
+> Laissez\-moi plonger je suis médecin !
 
 105 songs - 6 hr 2 min
 

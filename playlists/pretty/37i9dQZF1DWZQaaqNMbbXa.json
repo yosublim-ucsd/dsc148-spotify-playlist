@@ -1,12 +1,12 @@
 {
   "description": "Hit the dance floor with your favorite bops!",
-  "num_followers": 490425,
+  "num_followers": 490602,
   "original_name": "Dance Pop Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2MDQ4NzMzOTBmNzI3N2YzNTU3ZmU4MDNiNzQxOGE4Nzg3MTYzN2M0",
+  "snapshot_id": "MCw2NmU3NTU5ZTU5OTM2NGUxZmYxZGMyZGNjNjk1OGE3YTQ2ODA3ZDY3",
   "tracks": [
     {
       "added_at": "2024-02-09 05:00:00",
@@ -591,26 +591,22 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
-        "name": "The Middle",
-        "url": "https://open.spotify.com/album/7nEiwcUSwycvC77kZ9ub7c"
+        "name": "In the Name of Love",
+        "url": "https://open.spotify.com/album/1FOJ5IXGXe8dl0cXvCU6wK"
       },
       "artists": [
         {
-          "name": "Zedd",
-          "url": "https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq"
+          "name": "Martin Garrix",
+          "url": "https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ"
         },
         {
-          "name": "Maren Morris",
-          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
-        },
-        {
-          "name": "Grey",
-          "url": "https://open.spotify.com/artist/4lDBihdpMlOalxy1jkUbPl"
+          "name": "Bebe Rexha",
+          "url": "https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb"
         }
       ],
-      "duration_ms": 184732,
-      "name": "The Middle",
-      "url": "https://open.spotify.com/track/09IStsImFySgyp0pIQdqAc"
+      "duration_ms": 195706,
+      "name": "In the Name of Love",
+      "url": "https://open.spotify.com/track/23L5CiUhw2jV1OIMwthR3S"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -651,22 +647,26 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
-        "name": "In the Name of Love",
-        "url": "https://open.spotify.com/album/1FOJ5IXGXe8dl0cXvCU6wK"
+        "name": "The Middle",
+        "url": "https://open.spotify.com/album/7nEiwcUSwycvC77kZ9ub7c"
       },
       "artists": [
         {
-          "name": "Martin Garrix",
-          "url": "https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ"
+          "name": "Zedd",
+          "url": "https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq"
         },
         {
-          "name": "Bebe Rexha",
-          "url": "https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb"
+          "name": "Maren Morris",
+          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
+        },
+        {
+          "name": "Grey",
+          "url": "https://open.spotify.com/artist/4lDBihdpMlOalxy1jkUbPl"
         }
       ],
-      "duration_ms": 195706,
-      "name": "In the Name of Love",
-      "url": "https://open.spotify.com/track/23L5CiUhw2jV1OIMwthR3S"
+      "duration_ms": 184732,
+      "name": "The Middle",
+      "url": "https://open.spotify.com/track/09IStsImFySgyp0pIQdqAc"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -1171,26 +1171,6 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
-        "name": "Whistle (feat. Calum Scott)",
-        "url": "https://open.spotify.com/album/0kXUCfMDhIUoHOfZ7TLsoj"
-      },
-      "artists": [
-        {
-          "name": "Jax Jones",
-          "url": "https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr"
-        },
-        {
-          "name": "Calum Scott",
-          "url": "https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX"
-        }
-      ],
-      "duration_ms": 181957,
-      "name": "Whistle (feat. Calum Scott)",
-      "url": "https://open.spotify.com/track/4q05KbxYZ5JdkmrletgPjF"
-    },
-    {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
         "name": "Heartbreak Anthem (with David Guetta & Little Mix)",
         "url": "https://open.spotify.com/album/6kBuGNoOGE7uiPhN82dcJ1"
       },
@@ -1211,6 +1191,26 @@
       "duration_ms": 183725,
       "name": "Heartbreak Anthem (with David Guetta & Little Mix)",
       "url": "https://open.spotify.com/track/5K6Ssv4Z3zRvxt0P6EKUAP"
+    },
+    {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
+        "name": "Whistle (feat. Calum Scott)",
+        "url": "https://open.spotify.com/album/0kXUCfMDhIUoHOfZ7TLsoj"
+      },
+      "artists": [
+        {
+          "name": "Jax Jones",
+          "url": "https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr"
+        },
+        {
+          "name": "Calum Scott",
+          "url": "https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX"
+        }
+      ],
+      "duration_ms": 181957,
+      "name": "Whistle (feat. Calum Scott)",
+      "url": "https://open.spotify.com/track/4q05KbxYZ5JdkmrletgPjF"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -1843,30 +1843,6 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
-        "name": "Free Wired",
-        "url": "https://open.spotify.com/album/1TuKgkCGIxiIns9Bc5XKRC"
-      },
-      "artists": [
-        {
-          "name": "Far East Movement",
-          "url": "https://open.spotify.com/artist/698hF4vcwHwPy8ltmXermq"
-        },
-        {
-          "name": "The Cataracs",
-          "url": "https://open.spotify.com/artist/7C64wNX3howEFZjAYRKsfP"
-        },
-        {
-          "name": "DEV",
-          "url": "https://open.spotify.com/artist/7Ip2u3e5Nv6fFb5xyIHxEE"
-        }
-      ],
-      "duration_ms": 216893,
-      "name": "Like A G6",
-      "url": "https://open.spotify.com/track/4DvhkX2ic4zWkQeWMwQ2qf"
-    },
-    {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
         "name": "Electricity (with Dua Lipa)",
         "url": "https://open.spotify.com/album/429B3se6xtZuvblNnS2iy7"
       },
@@ -1891,6 +1867,30 @@
       "duration_ms": 238173,
       "name": "Electricity (with Dua Lipa)",
       "url": "https://open.spotify.com/track/5N4erncE7kuUccm7zEmwzk"
+    },
+    {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
+        "name": "Free Wired",
+        "url": "https://open.spotify.com/album/1TuKgkCGIxiIns9Bc5XKRC"
+      },
+      "artists": [
+        {
+          "name": "Far East Movement",
+          "url": "https://open.spotify.com/artist/698hF4vcwHwPy8ltmXermq"
+        },
+        {
+          "name": "The Cataracs",
+          "url": "https://open.spotify.com/artist/7C64wNX3howEFZjAYRKsfP"
+        },
+        {
+          "name": "DEV",
+          "url": "https://open.spotify.com/artist/7Ip2u3e5Nv6fFb5xyIHxEE"
+        }
+      ],
+      "duration_ms": 216893,
+      "name": "Like A G6",
+      "url": "https://open.spotify.com/track/4DvhkX2ic4zWkQeWMwQ2qf"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -2019,6 +2019,22 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
+        "name": "Diamonds & Dancefloors",
+        "url": "https://open.spotify.com/album/5NgQit6EhPnx84bxgVVDRQ"
+      },
+      "artists": [
+        {
+          "name": "Ava Max",
+          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
+        }
+      ],
+      "duration_ms": 190290,
+      "name": "Maybe You\u2019re The Problem",
+      "url": "https://open.spotify.com/track/6WDG2ybdV3SBXV0lwBGu4D"
+    },
+    {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
         "name": "Solo (feat. Demi Lovato)",
         "url": "https://open.spotify.com/album/1q7a5wZeti0neU2jDn8Dz3"
       },
@@ -2035,22 +2051,6 @@
       "duration_ms": 222653,
       "name": "Solo (feat. Demi Lovato)",
       "url": "https://open.spotify.com/track/6kPJZM97LwdG9QIsT7khp6"
-    },
-    {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
-        "name": "Diamonds & Dancefloors",
-        "url": "https://open.spotify.com/album/5NgQit6EhPnx84bxgVVDRQ"
-      },
-      "artists": [
-        {
-          "name": "Ava Max",
-          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
-        }
-      ],
-      "duration_ms": 190290,
-      "name": "Maybe You\u2019re The Problem",
-      "url": "https://open.spotify.com/track/6WDG2ybdV3SBXV0lwBGu4D"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -2151,6 +2151,26 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
+        "name": "Only Human (Deluxe)",
+        "url": "https://open.spotify.com/album/6Vip5A5NmEazvKuxj6GLYf"
+      },
+      "artists": [
+        {
+          "name": "Calum Scott",
+          "url": "https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX"
+        },
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        }
+      ],
+      "duration_ms": 222889,
+      "name": "Dancing On My Own - Ti\u00ebsto Remix",
+      "url": "https://open.spotify.com/track/2EHVjRFRSsXQaHAsys74Us"
+    },
+    {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
         "name": "Tick Tock (feat. 24kGoldn)",
         "url": "https://open.spotify.com/album/3tuAs968COA2vxKjiLvmxr"
       },
@@ -2171,26 +2191,6 @@
       "duration_ms": 178373,
       "name": "Tick Tock (feat. 24kGoldn)",
       "url": "https://open.spotify.com/track/27u7t9d7ZQoyjsCROHuZJ3"
-    },
-    {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
-        "name": "Only Human (Deluxe)",
-        "url": "https://open.spotify.com/album/6Vip5A5NmEazvKuxj6GLYf"
-      },
-      "artists": [
-        {
-          "name": "Calum Scott",
-          "url": "https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX"
-        },
-        {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
-        }
-      ],
-      "duration_ms": 222889,
-      "name": "Dancing On My Own - Ti\u00ebsto Remix",
-      "url": "https://open.spotify.com/track/2EHVjRFRSsXQaHAsys74Us"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -2931,6 +2931,26 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
+        "name": "Dreamland (+ Bonus Levels)",
+        "url": "https://open.spotify.com/album/0E2xXn23qVmfx9ThZjWFBE"
+      },
+      "artists": [
+        {
+          "name": "Glass Animals",
+          "url": "https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq"
+        },
+        {
+          "name": "Oliver Heldens",
+          "url": "https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p"
+        }
+      ],
+      "duration_ms": 243536,
+      "name": "Heat Waves - Oliver Heldens Remix",
+      "url": "https://open.spotify.com/track/65xvfgI2nNrOYHhGUzw9XP"
+    },
+    {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
         "name": "My Universe (Galantis Remix)",
         "url": "https://open.spotify.com/album/7eMHMiz2uvtDDMbvKRJxlP"
       },
@@ -2951,26 +2971,6 @@
       "duration_ms": 224908,
       "name": "My Universe - Galantis Remix",
       "url": "https://open.spotify.com/track/1DlczmjByrS4qxRVfGjpqN"
-    },
-    {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
-        "name": "Dreamland (+ Bonus Levels)",
-        "url": "https://open.spotify.com/album/0E2xXn23qVmfx9ThZjWFBE"
-      },
-      "artists": [
-        {
-          "name": "Glass Animals",
-          "url": "https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq"
-        },
-        {
-          "name": "Oliver Heldens",
-          "url": "https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p"
-        }
-      ],
-      "duration_ms": 243536,
-      "name": "Heat Waves - Oliver Heldens Remix",
-      "url": "https://open.spotify.com/track/65xvfgI2nNrOYHhGUzw9XP"
     },
     {
       "added_at": "2024-02-09 05:00:00",

@@ -1,12 +1,12 @@
 {
   "description": "A neo-classic sound for the road. Cover: Thee Sacred Souls",
-  "num_followers": 131758,
+  "num_followers": 131807,
   "original_name": "Retro Road Trip",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3NjY0Y2RiYzMyMDFhZWM3MGFiZDFlOWVkNmMwMDM4NjlkNmY1MTRh",
+  "snapshot_id": "MCw0ODFjZDI1NTIzYTdhMDZlMzk4Yjc4ZGEyZGIzMWZlM2RkYmRhZDI2",
   "tracks": [
     {
       "added_at": "2023-07-14 04:01:00",
@@ -253,22 +253,6 @@
       "url": "https://open.spotify.com/track/3MLwKelG4PQ7rXkd8Qjz4g"
     },
     {
-      "added_at": "2021-07-13 21:11:09",
-      "album": {
-        "name": "New Magic",
-        "url": "https://open.spotify.com/album/6wYeJwJU9Y4fuLQVfGyJk9"
-      },
-      "artists": [
-        {
-          "name": "Son Little",
-          "url": "https://open.spotify.com/artist/4lujUKeO6nQAJXpq37Epn7"
-        }
-      ],
-      "duration_ms": 213136,
-      "name": "Mad About You",
-      "url": "https://open.spotify.com/track/5fBjPtOxhgdpU6LNWLyVHv"
-    },
-    {
       "added_at": "2023-07-11 18:58:28",
       "album": {
         "name": "Highroad",
@@ -283,6 +267,22 @@
       "duration_ms": 230656,
       "name": "Highroad",
       "url": "https://open.spotify.com/track/64iXPlkVfgkSYRvE0CXij0"
+    },
+    {
+      "added_at": "2021-07-13 21:11:09",
+      "album": {
+        "name": "New Magic",
+        "url": "https://open.spotify.com/album/6wYeJwJU9Y4fuLQVfGyJk9"
+      },
+      "artists": [
+        {
+          "name": "Son Little",
+          "url": "https://open.spotify.com/artist/4lujUKeO6nQAJXpq37Epn7"
+        }
+      ],
+      "duration_ms": 213136,
+      "name": "Mad About You",
+      "url": "https://open.spotify.com/track/5fBjPtOxhgdpU6LNWLyVHv"
     },
     {
       "added_at": "2021-07-13 21:11:09",
@@ -495,22 +495,6 @@
     {
       "added_at": "2021-07-13 21:11:09",
       "album": {
-        "name": "Malibu",
-        "url": "https://open.spotify.com/album/4VFG1DOuTeDMBjBLZT7hCK"
-      },
-      "artists": [
-        {
-          "name": "Anderson .Paak",
-          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
-        }
-      ],
-      "duration_ms": 160760,
-      "name": "Put Me Thru",
-      "url": "https://open.spotify.com/track/70SjyVMzhmMeJQD8hOmIBp"
-    },
-    {
-      "added_at": "2021-07-13 21:11:09",
-      "album": {
         "name": "Whatever It Takes",
         "url": "https://open.spotify.com/album/5xS12JJKDNn0UNflrA9nUW"
       },
@@ -523,6 +507,22 @@
       "duration_ms": 205306,
       "name": "I Don't Wanna Be Without You",
       "url": "https://open.spotify.com/track/60GhwolkzE34HEvbf46RzX"
+    },
+    {
+      "added_at": "2021-07-13 21:11:09",
+      "album": {
+        "name": "Malibu",
+        "url": "https://open.spotify.com/album/4VFG1DOuTeDMBjBLZT7hCK"
+      },
+      "artists": [
+        {
+          "name": "Anderson .Paak",
+          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
+        }
+      ],
+      "duration_ms": 160760,
+      "name": "Put Me Thru",
+      "url": "https://open.spotify.com/track/70SjyVMzhmMeJQD8hOmIBp"
     },
     {
       "added_at": "2021-07-13 21:11:09",
@@ -663,22 +663,6 @@
     {
       "added_at": "2021-07-13 21:11:09",
       "album": {
-        "name": "Undergrad Romance and the Moses in Me",
-        "url": "https://open.spotify.com/album/3BKFrChX5Exd28VX3Yq4Kb"
-      },
-      "artists": [
-        {
-          "name": "Stephen Day",
-          "url": "https://open.spotify.com/artist/4cnFw4bkIWVGKUBsr93OS5"
-        }
-      ],
-      "duration_ms": 220588,
-      "name": "If You Were the Rain",
-      "url": "https://open.spotify.com/track/5EXD5rXJ4IVb8g4xSwT0fc"
-    },
-    {
-      "added_at": "2021-07-13 21:11:09",
-      "album": {
         "name": "My World",
         "url": "https://open.spotify.com/album/7ElHdWPD6YbkbltJQgCiDc"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 257386,
       "name": "Ladies",
       "url": "https://open.spotify.com/track/6iNHWlOLt4NuDi9iSvtznO"
+    },
+    {
+      "added_at": "2021-07-13 21:11:09",
+      "album": {
+        "name": "Undergrad Romance and the Moses in Me",
+        "url": "https://open.spotify.com/album/3BKFrChX5Exd28VX3Yq4Kb"
+      },
+      "artists": [
+        {
+          "name": "Stephen Day",
+          "url": "https://open.spotify.com/artist/4cnFw4bkIWVGKUBsr93OS5"
+        }
+      ],
+      "duration_ms": 220588,
+      "name": "If You Were the Rain",
+      "url": "https://open.spotify.com/track/5EXD5rXJ4IVb8g4xSwT0fc"
     },
     {
       "added_at": "2022-12-13 18:45:33",
@@ -869,24 +869,20 @@
       "url": "https://open.spotify.com/track/0juFIORkejdNLIZcFBalM2"
     },
     {
-      "added_at": "2021-07-13 21:11:09",
+      "added_at": "2022-12-13 18:45:33",
       "album": {
-        "name": "Nothin Is Easy",
-        "url": "https://open.spotify.com/album/5UN24QhVWByLtVW5Wotv5y"
+        "name": "Call It Home, Vol. 1",
+        "url": "https://open.spotify.com/album/2BgDbmhRwn30Kv24s6Kzq0"
       },
       "artists": [
         {
-          "name": "Ephemerals",
-          "url": "https://open.spotify.com/artist/3iKatcdLBE1YxiAyvcow4w"
-        },
-        {
-          "name": "Wolfgang Valbrun",
-          "url": "https://open.spotify.com/artist/3uE4EsnezRtXJn2q3TTKg5"
+          "name": "The California Honeydrops",
+          "url": "https://open.spotify.com/artist/21t0aavYGSGFkYYFhu6urk"
         }
       ],
-      "duration_ms": 205146,
-      "name": "You Made Us Change",
-      "url": "https://open.spotify.com/track/3BU9t17L9vZssJIEz6eHhi"
+      "duration_ms": 275346,
+      "name": "Live Learn",
+      "url": "https://open.spotify.com/track/1pRjwKEEx9ddfevbXNyJdi"
     },
     {
       "added_at": "2021-07-13 21:11:09",
@@ -911,6 +907,26 @@
     {
       "added_at": "2021-07-13 21:11:09",
       "album": {
+        "name": "Nothin Is Easy",
+        "url": "https://open.spotify.com/album/5UN24QhVWByLtVW5Wotv5y"
+      },
+      "artists": [
+        {
+          "name": "Ephemerals",
+          "url": "https://open.spotify.com/artist/3iKatcdLBE1YxiAyvcow4w"
+        },
+        {
+          "name": "Wolfgang Valbrun",
+          "url": "https://open.spotify.com/artist/3uE4EsnezRtXJn2q3TTKg5"
+        }
+      ],
+      "duration_ms": 205146,
+      "name": "You Made Us Change",
+      "url": "https://open.spotify.com/track/3BU9t17L9vZssJIEz6eHhi"
+    },
+    {
+      "added_at": "2021-07-13 21:11:09",
+      "album": {
         "name": "New Magic",
         "url": "https://open.spotify.com/album/6wYeJwJU9Y4fuLQVfGyJk9"
       },
@@ -923,22 +939,6 @@
       "duration_ms": 172863,
       "name": "O Me O My",
       "url": "https://open.spotify.com/track/6GXbpne1EKdVlYhFazWFs4"
-    },
-    {
-      "added_at": "2022-12-13 18:45:33",
-      "album": {
-        "name": "Call It Home, Vol. 1",
-        "url": "https://open.spotify.com/album/2BgDbmhRwn30Kv24s6Kzq0"
-      },
-      "artists": [
-        {
-          "name": "The California Honeydrops",
-          "url": "https://open.spotify.com/artist/21t0aavYGSGFkYYFhu6urk"
-        }
-      ],
-      "duration_ms": 275346,
-      "name": "Live Learn",
-      "url": "https://open.spotify.com/track/1pRjwKEEx9ddfevbXNyJdi"
     },
     {
       "added_at": "2021-07-13 21:11:09",
@@ -1073,22 +1073,6 @@
       "url": "https://open.spotify.com/track/6XxsaUGWRXc30HgewJ10M8"
     },
     {
-      "added_at": "2021-07-13 21:11:09",
-      "album": {
-        "name": "Young Sick Camellia",
-        "url": "https://open.spotify.com/album/4EN9bVE0g7gUvQlNdPrUhL"
-      },
-      "artists": [
-        {
-          "name": "St. Paul & The Broken Bones",
-          "url": "https://open.spotify.com/artist/4fXkvh05wFhuH77MfD4m9o"
-        }
-      ],
-      "duration_ms": 290422,
-      "name": "GotItBad",
-      "url": "https://open.spotify.com/track/59s5vTB8LNV4tyZPp9HM3f"
-    },
-    {
       "added_at": "2021-10-29 04:01:00",
       "album": {
         "name": "Starchild",
@@ -1103,6 +1087,22 @@
       "duration_ms": 231853,
       "name": "Dreams",
       "url": "https://open.spotify.com/track/1Wntxxt7R2mwfa4bDfAa5h"
+    },
+    {
+      "added_at": "2021-07-13 21:11:09",
+      "album": {
+        "name": "Young Sick Camellia",
+        "url": "https://open.spotify.com/album/4EN9bVE0g7gUvQlNdPrUhL"
+      },
+      "artists": [
+        {
+          "name": "St. Paul & The Broken Bones",
+          "url": "https://open.spotify.com/artist/4fXkvh05wFhuH77MfD4m9o"
+        }
+      ],
+      "duration_ms": 290422,
+      "name": "GotItBad",
+      "url": "https://open.spotify.com/track/59s5vTB8LNV4tyZPp9HM3f"
     },
     {
       "added_at": "2023-07-11 18:58:28",
@@ -1283,22 +1283,6 @@
     {
       "added_at": "2021-07-13 21:11:09",
       "album": {
-        "name": "Face Your Fear",
-        "url": "https://open.spotify.com/album/3Can2qB9S1pOcElpkfExB1"
-      },
-      "artists": [
-        {
-          "name": "Curtis Harding",
-          "url": "https://open.spotify.com/artist/0CUpzKPDfIVzYqMn47jiV3"
-        }
-      ],
-      "duration_ms": 241706,
-      "name": "On And On",
-      "url": "https://open.spotify.com/track/2NwwdNPSlvoRBqomWa4S2N"
-    },
-    {
-      "added_at": "2021-07-13 21:11:09",
-      "album": {
         "name": "California Wine",
         "url": "https://open.spotify.com/album/2egHeaeAhGjsZ4PUc4A1Xa"
       },
@@ -1311,6 +1295,22 @@
       "duration_ms": 187231,
       "name": "California Wine",
       "url": "https://open.spotify.com/track/02uuyfMVDPh81EirCFoyhi"
+    },
+    {
+      "added_at": "2021-07-13 21:11:09",
+      "album": {
+        "name": "Face Your Fear",
+        "url": "https://open.spotify.com/album/3Can2qB9S1pOcElpkfExB1"
+      },
+      "artists": [
+        {
+          "name": "Curtis Harding",
+          "url": "https://open.spotify.com/artist/0CUpzKPDfIVzYqMn47jiV3"
+        }
+      ],
+      "duration_ms": 241706,
+      "name": "On And On",
+      "url": "https://open.spotify.com/track/2NwwdNPSlvoRBqomWa4S2N"
     },
     {
       "added_at": "2021-07-13 21:11:09",
@@ -1371,22 +1371,6 @@
     {
       "added_at": "2021-07-13 21:11:09",
       "album": {
-        "name": "Ice Cream & Cigarettes",
-        "url": "https://open.spotify.com/album/0UQLBWKz03PwXhVUocA0Ir"
-      },
-      "artists": [
-        {
-          "name": "Million Miles",
-          "url": "https://open.spotify.com/artist/3exZi47Gf3ZlXjKbvLp5Wm"
-        }
-      ],
-      "duration_ms": 172240,
-      "name": "Ice Cream & Cigarettes",
-      "url": "https://open.spotify.com/track/7Bntt8rWxHqZ8HB0BTC7Tx"
-    },
-    {
-      "added_at": "2021-07-13 21:11:09",
-      "album": {
         "name": "Heartbreak Hits",
         "url": "https://open.spotify.com/album/04QktcTXcS9qQTp7Q22Z3I"
       },
@@ -1399,6 +1383,22 @@
       "duration_ms": 207622,
       "name": "Break up Together",
       "url": "https://open.spotify.com/track/5xRlNALFbZ7gaWGlySwfTM"
+    },
+    {
+      "added_at": "2021-07-13 21:11:09",
+      "album": {
+        "name": "Ice Cream & Cigarettes",
+        "url": "https://open.spotify.com/album/0UQLBWKz03PwXhVUocA0Ir"
+      },
+      "artists": [
+        {
+          "name": "Million Miles",
+          "url": "https://open.spotify.com/artist/3exZi47Gf3ZlXjKbvLp5Wm"
+        }
+      ],
+      "duration_ms": 172240,
+      "name": "Ice Cream & Cigarettes",
+      "url": "https://open.spotify.com/track/7Bntt8rWxHqZ8HB0BTC7Tx"
     },
     {
       "added_at": "2021-07-13 21:11:09",
@@ -1585,20 +1585,20 @@
       "url": "https://open.spotify.com/track/73v1hXWxpIHMPfVG6tnPI7"
     },
     {
-      "added_at": "2022-02-11 05:02:00",
+      "added_at": "2021-07-13 21:11:09",
       "album": {
-        "name": "Written All over My Heart",
-        "url": "https://open.spotify.com/album/5h7705xYVr69s40Mva8SFF"
+        "name": "Underneath the Surface",
+        "url": "https://open.spotify.com/album/6rIB87G63Jsdvg67vbHm35"
       },
       "artists": [
         {
-          "name": "Paul Caldwell",
-          "url": "https://open.spotify.com/artist/14mcXN2C0EoRrt96ddtL4L"
+          "name": "Sabrina Starke",
+          "url": "https://open.spotify.com/artist/1wTUsxee6HtnB6Z6QiUCub"
         }
       ],
-      "duration_ms": 192745,
-      "name": "Written All over My Heart",
-      "url": "https://open.spotify.com/track/7BYaW4xBFqsReDyV3KUfDU"
+      "duration_ms": 254680,
+      "name": "Cards",
+      "url": "https://open.spotify.com/track/5QZdS4lYhW27Y8RJGSdPfV"
     },
     {
       "added_at": "2022-12-13 18:45:33",
@@ -1617,20 +1617,20 @@
       "url": "https://open.spotify.com/track/2iYDEwzq00a571f0hbQ53g"
     },
     {
-      "added_at": "2021-07-13 21:11:09",
+      "added_at": "2022-02-11 05:02:00",
       "album": {
-        "name": "Underneath the Surface",
-        "url": "https://open.spotify.com/album/6rIB87G63Jsdvg67vbHm35"
+        "name": "Written All over My Heart",
+        "url": "https://open.spotify.com/album/5h7705xYVr69s40Mva8SFF"
       },
       "artists": [
         {
-          "name": "Sabrina Starke",
-          "url": "https://open.spotify.com/artist/1wTUsxee6HtnB6Z6QiUCub"
+          "name": "Paul Caldwell",
+          "url": "https://open.spotify.com/artist/14mcXN2C0EoRrt96ddtL4L"
         }
       ],
-      "duration_ms": 254680,
-      "name": "Cards",
-      "url": "https://open.spotify.com/track/5QZdS4lYhW27Y8RJGSdPfV"
+      "duration_ms": 192745,
+      "name": "Written All over My Heart",
+      "url": "https://open.spotify.com/track/7BYaW4xBFqsReDyV3KUfDU"
     },
     {
       "added_at": "2021-10-01 04:02:00",
@@ -1683,22 +1683,6 @@
     {
       "added_at": "2021-07-13 21:11:09",
       "album": {
-        "name": "There's a Light",
-        "url": "https://open.spotify.com/album/7kOkk55lZ5AHyiv58OaCJ6"
-      },
-      "artists": [
-        {
-          "name": "Liz Vice",
-          "url": "https://open.spotify.com/artist/5KYcfVCcUgV4d1KP3Wozyx"
-        }
-      ],
-      "duration_ms": 277675,
-      "name": "Empty Me Out",
-      "url": "https://open.spotify.com/track/3xEx3xxA06MuO4SGZ4jrkV"
-    },
-    {
-      "added_at": "2021-07-13 21:11:09",
-      "album": {
         "name": "More",
         "url": "https://open.spotify.com/album/28RthxTMjXJ4YdtCcmIs6u"
       },
@@ -1715,6 +1699,22 @@
       "duration_ms": 195350,
       "name": "More",
       "url": "https://open.spotify.com/track/7BX9aFLw77aY1bEWXvCSu4"
+    },
+    {
+      "added_at": "2021-07-13 21:11:09",
+      "album": {
+        "name": "There's a Light",
+        "url": "https://open.spotify.com/album/7kOkk55lZ5AHyiv58OaCJ6"
+      },
+      "artists": [
+        {
+          "name": "Liz Vice",
+          "url": "https://open.spotify.com/artist/5KYcfVCcUgV4d1KP3Wozyx"
+        }
+      ],
+      "duration_ms": 277675,
+      "name": "Empty Me Out",
+      "url": "https://open.spotify.com/track/3xEx3xxA06MuO4SGZ4jrkV"
     },
     {
       "added_at": "2021-08-27 04:01:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11Pe3b7DsbG.md) - [plain]
 
 > Um bom sambinha para acompanhar cada gole.
 
-[Spotify](https://open.spotify.com/user/spotify) - 232,396 likes - 50 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 232,431 likes - 50 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,9 +25,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11Pe3b7DsbG.md) - [plain]
 | 15 | [Timoneiro](https://open.spotify.com/track/3C8ULtjiUmTtcpE7QJBZ7G) | [Paulinho Da Viola](https://open.spotify.com/artist/0t2xdTxRXnffsmpMamH8Ls) | [Bebadosamba](https://open.spotify.com/album/57x8KvcGMec2o8XTwBYEwf) | 3:25 |
 | 16 | [Canta Canta, Minha Gente](https://open.spotify.com/track/0NLIFSZxPzQhCwnkn5PJYs) | [Martinho Da Vila](https://open.spotify.com/artist/6rM2yY0GnVcOHMU5GD3y9E) | [Série Acervo \- Martinho Da Vila](https://open.spotify.com/album/62yCZN0N8WWNMSDNiaAWAk) | 2:32 |
 | 17 | [Lá Vem Você](https://open.spotify.com/track/1NLv2AywCBibMUaGLKj5B4) | [Criolo](https://open.spotify.com/artist/37ZflmHTdxkSLQuT8w9NBs) | [Espiral de Ilusão](https://open.spotify.com/album/4rvNHxkP41rxzhthGuwo6Y) | 3:40 |
-| 18 | [A Voz do Morro](https://open.spotify.com/track/6ItZuqcTniqKVEwENXoDBP) | [Zé Keti](https://open.spotify.com/artist/2bmDvPwz8Fu9LQ8aMTFvMr) | [Latin Grooves \- Samba](https://open.spotify.com/album/5GMVnDFZfxr5EyhEnGStdU) | 2:03 |
+| 18 | [Canto Das Três Raças](https://open.spotify.com/track/06Q1W3dLvNk5Gawy7piDu3) | [Clara Nunes](https://open.spotify.com/artist/6UKz2oYWzE0ZBnciztCown) | [Retratos](https://open.spotify.com/album/1zIUnMFn76fpxrrTtAZ4rX) | 4:21 |
 | 19 | [Clube do Samba](https://open.spotify.com/track/6NV8IxFmG9cPtnZqQwulAy) | [Sambabook](https://open.spotify.com/artist/2FW6Zt8gyIF7Fb7O3TGxnE), [Diogo Nogueira](https://open.spotify.com/artist/57xRtfFlssbpntpRQOBodd), [Alcione](https://open.spotify.com/artist/0hPar6ePAELiu9rYMdvMEo), [Arlindo Cruz](https://open.spotify.com/artist/096an3uS6ZaK2XySae6SqP), [Beth Carvalho](https://open.spotify.com/artist/56TkPi7rpmU8jTpkcK7FY3), [Djavan](https://open.spotify.com/artist/5rrmaoBXZ7Jcs4Qb77j0YA), [Dudu Nobre](https://open.spotify.com/artist/4Mw0vJsDXTZF7kn7EsdNoD), [Grupo Fundo De Quintal](https://open.spotify.com/artist/1WkZvxuA4zCcFF9GChK6Vr), [Gisa Nogueira](https://open.spotify.com/artist/5jJWOdj0Sn9Spis0JYZYRp), [Grupo Revelação](https://open.spotify.com/artist/7yQrcdkLdBAkV7yY9fF2Hw), [Hamilton De Holanda](https://open.spotify.com/artist/5Bn4jYRlfMfbxVwfPDGeL8), [Ivan Lins](https://open.spotify.com/artist/64neTfIIdYKNhJ9zxoz3jF), [Lenine](https://open.spotify.com/artist/4YLBdrR3DVSMncm785NH6C), [Leny Andrade](https://open.spotify.com/artist/0cWAA0nMjRXh8o61j3hUgm), [Marcelo D2](https://open.spotify.com/artist/1vEN3d3dJbmdHQpXD6AIkL), [Mariene De Castro](https://open.spotify.com/artist/2MaqyTrc7HzuYvLnvfhxIN), [Mart'nália](https://open.spotify.com/artist/4EUuQxMNowMUEs5gu4BzBX), [Martinho Da Vila](https://open.spotify.com/artist/6rM2yY0GnVcOHMU5GD3y9E), [Seu Jorge](https://open.spotify.com/artist/0i1s9WcIu0PrUvHzALgofo), [Teresa Cristina](https://open.spotify.com/artist/2j5unrF80yCu3AF8MPE2VE) | [Sambabook João Nogueira, 2](https://open.spotify.com/album/72PzoPL30DnS51nE6UMzfH) | 4:38 |
-| 20 | [Canto Das Três Raças](https://open.spotify.com/track/06Q1W3dLvNk5Gawy7piDu3) | [Clara Nunes](https://open.spotify.com/artist/6UKz2oYWzE0ZBnciztCown) | [Retratos](https://open.spotify.com/album/1zIUnMFn76fpxrrTtAZ4rX) | 4:21 |
+| 20 | [A Voz do Morro](https://open.spotify.com/track/6ItZuqcTniqKVEwENXoDBP) | [Zé Keti](https://open.spotify.com/artist/2bmDvPwz8Fu9LQ8aMTFvMr) | [Latin Grooves \- Samba](https://open.spotify.com/album/5GMVnDFZfxr5EyhEnGStdU) | 2:03 |
 | 21 | [O Sol Nascerá \(A Sorrir\)](https://open.spotify.com/track/4M2j1X47FwMozJrnJHnYNm) | [Cartola](https://open.spotify.com/artist/0RSWHhBUwW7lhCqXqxKxWN) | [Raizes Do Samba](https://open.spotify.com/album/0i9SwtLwZ8cOuH5qtkwTvT) | 1:37 |
 | 22 | [Olho por Olho](https://open.spotify.com/track/6P71LmKrWTwnGBe4BYK5IG) | [Beth Carvalho](https://open.spotify.com/artist/56TkPi7rpmU8jTpkcK7FY3) | [Nos Botequins Da Vida](https://open.spotify.com/album/5jrnGYZ7bHuFqOG2GusH50) | 3:10 |
 | 23 | [Prudente \- Ao Vivo](https://open.spotify.com/track/5OkQbATpomh2u5D0YT2j63) | [Thiaguinho](https://open.spotify.com/artist/1vppDmG3i5sXf3DJzrK4T1) | [VIBE \(Ao Vivo\)](https://open.spotify.com/album/47l1S7yxz9zAO6K5gDori3) | 2:49 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11Pe3b7DsbG.md) - [plain]
 | 49 | [É Corpo, É Alma, É Religião \- Ao Vivo Na Lapa](https://open.spotify.com/track/1Titm76tFsIqqjjITUYRfx) | [Maria Rita](https://open.spotify.com/artist/1C8UBSZs5rOPfxuxTMS6OI) | [O Samba Em Mim \(Ao Vivo Na Lapa\)](https://open.spotify.com/album/2wv5WDVgqmtwqCcVok5eyr) | 3:46 |
 | 50 | [Partideiro Sem Nó Na Garganta](https://open.spotify.com/track/4vrcEe4iwNrGJi0ODXljvx) | [Marcelo D2](https://open.spotify.com/artist/1vEN3d3dJbmdHQpXD6AIkL) | [Marcelo D2 \- Canta Bezerra Da Silva](https://open.spotify.com/album/3I564AuHICCCnWEBHbvtoP) | 3:42 |
 
-Snapshot ID: `MCxlZThhZTYwMzMwMzM0ZjgyOTMxOWZkNGFlNDVhY2E2ZmNhZmRkMTBj`
+Snapshot ID: `MCxlNDFlYjA3ZTdkZjhhZjdlYjZiOGNhMzNiZmVjMzZlNWVlMGNmY2E2`

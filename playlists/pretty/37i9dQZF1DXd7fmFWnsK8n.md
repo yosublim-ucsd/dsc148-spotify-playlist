@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd7fmFWnsK8n.md) - [plain]
 
 > アイドリッシュセブンの煌びやかな物語を彩る楽曲たちを1つのプレイリストに。Enjoy Music from the game & anime series of “IDOLiSH 7”!  ©アイドリッシュセブン
 
-[Spotify](https://open.spotify.com/user/spotify) - 69,211 likes - 70 songs - 4 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 69,225 likes - 70 songs - 4 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,15 +60,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd7fmFWnsK8n.md) - [plain]
 | 50 | [Four Leaf Ring](https://open.spotify.com/track/1key9yEhxWAu7Xk9LDg9pV) | [四葉 環 \(CV.KENN\)](https://open.spotify.com/artist/0um981dMXp1sPEgdSxzolD) | [Four Leaf Ring](https://open.spotify.com/album/1M4Ieq11pD2nPSSjvtwGIR) | 4:27 |
 | 51 | [フォトフレーム](https://open.spotify.com/track/39c2UO7sELrK6HYcp0L9u2) | [MEZZO”](https://open.spotify.com/artist/2ya2zQtAJSzAiQEXLllxv0) | [キズナ](https://open.spotify.com/album/2T1yRJR4WYq1ZLQI5Em94B) | 5:10 |
 | 52 | [千年先もずっと...](https://open.spotify.com/track/2lwmzAiCtQdHthgZeNUtFD) | [千 \(CV.立花慎之介\)](https://open.spotify.com/artist/1NdIK6Dn8ZcyiYtP9JcmWh) | [千年先もずっと...](https://open.spotify.com/album/7qaq2mi6O8fycroKkea5P1) | 5:21 |
-| 53 | [June is Natural](https://open.spotify.com/track/4xFYYIWrWIZ0pTSQaTSopH) | [六弥ナギ \(CV.江口拓也\)](https://open.spotify.com/artist/3iY2wSNXnl4HozD3jUxo4a) | [June is Natural](https://open.spotify.com/album/5bLKKcHymzP2IS0dSeweTh) | 4:02 |
-| 54 | [my 10plate](https://open.spotify.com/track/2kte2hCFMQSmYNkVXW78bn) | [十 龍之介 \(CV.佐藤拓也\)](https://open.spotify.com/artist/4QPLEBNjogoJQeF9dlHM82) | [my 10plate](https://open.spotify.com/album/2uRJHQyUej7qF3bh1xvfJ8) | 4:28 |
-| 55 | [Love two you](https://open.spotify.com/track/4VE4Nm0MCqKIYqRiLffNBf) | [二階堂大和 \(CV.白井悠介\)](https://open.spotify.com/artist/2bs7gIAXdwGgIr7UNVLfrw) | [Love two you](https://open.spotify.com/album/1mm3C2rMN35Qi1vsyfy3nd) | 4:45 |
+| 53 | [Love two you](https://open.spotify.com/track/4VE4Nm0MCqKIYqRiLffNBf) | [二階堂大和 \(CV.白井悠介\)](https://open.spotify.com/artist/2bs7gIAXdwGgIr7UNVLfrw) | [Love two you](https://open.spotify.com/album/1mm3C2rMN35Qi1vsyfy3nd) | 4:45 |
+| 54 | [June is Natural](https://open.spotify.com/track/4xFYYIWrWIZ0pTSQaTSopH) | [六弥ナギ \(CV.江口拓也\)](https://open.spotify.com/artist/3iY2wSNXnl4HozD3jUxo4a) | [June is Natural](https://open.spotify.com/album/5bLKKcHymzP2IS0dSeweTh) | 4:02 |
+| 55 | [my 10plate](https://open.spotify.com/track/2kte2hCFMQSmYNkVXW78bn) | [十 龍之介 \(CV.佐藤拓也\)](https://open.spotify.com/artist/4QPLEBNjogoJQeF9dlHM82) | [my 10plate](https://open.spotify.com/album/2uRJHQyUej7qF3bh1xvfJ8) | 4:28 |
 | 56 | [恋のかけら](https://open.spotify.com/track/7jA6MKXhfBa6bwe9kJrBNT) | [MEZZO”](https://open.spotify.com/artist/2ya2zQtAJSzAiQEXLllxv0) | [恋のかけら](https://open.spotify.com/album/2jBadSUvZhUnY53uaeeTK0) | 4:39 |
 | 57 | [午前4時のDusty Love](https://open.spotify.com/track/4VpQnA8PUQGJlSREzEjf2u) | [御堂虎於 \(CV.近藤 隆\)](https://open.spotify.com/artist/4NuxWb2eGVkzb6AsN2sv8H) | [午前4時のDusty Love](https://open.spotify.com/album/5ELinRPiJCLrmCCKsOTAvd) | 4:34 |
 | 58 | [Dejavu](https://open.spotify.com/track/2x96Uek1encMpPxzZfRixB) | [棗 巳波 \(CV.西山宏太朗\)](https://open.spotify.com/artist/2ClkCmN3ssmdtBGuDYmutj) | [Dejavu](https://open.spotify.com/album/2sxCRIMhFNNPInRgTdOmM5) | 3:55 |
-| 59 | [Fly away!](https://open.spotify.com/track/2OAEvzy1GXV40vszTJQtu4) | [和泉一織 \(CV.増田俊樹\)](https://open.spotify.com/artist/7bVbZHNFI8TkukUSoMcbGj), [七瀬 陸 \(CV.小野賢章\)](https://open.spotify.com/artist/63rbHQicCyyjZ5yTOuVu6H) | [i7](https://open.spotify.com/album/2oQz7bh0sPXcx92C1TKV05) | 4:29 |
-| 60 | [三日月のヴェール](https://open.spotify.com/track/3XxSDMRiO7kbduxl4viXZs) | [和泉三月 \(CV.代永 翼\)](https://open.spotify.com/artist/7oPep8A9azbYvgnADjeh0c) | [三日月のヴェール](https://open.spotify.com/album/6oZyRXkgaSStGoeuiC1ezc) | 5:20 |
-| 61 | [My Friend](https://open.spotify.com/track/3TKZ0FCAUIOuHolsZVjR7o) | [二階堂大和 \(CV.白井悠介\)](https://open.spotify.com/artist/2bs7gIAXdwGgIr7UNVLfrw), [和泉三月 \(CV.代永 翼\)](https://open.spotify.com/artist/7oPep8A9azbYvgnADjeh0c), [六弥ナギ \(CV.江口拓也\)](https://open.spotify.com/artist/3iY2wSNXnl4HozD3jUxo4a) | [My Friend](https://open.spotify.com/album/0SsBA1WDO7VQ2C2DgzBgGB) | 4:16 |
+| 59 | [My Friend](https://open.spotify.com/track/3TKZ0FCAUIOuHolsZVjR7o) | [二階堂大和 \(CV.白井悠介\)](https://open.spotify.com/artist/2bs7gIAXdwGgIr7UNVLfrw), [和泉三月 \(CV.代永 翼\)](https://open.spotify.com/artist/7oPep8A9azbYvgnADjeh0c), [六弥ナギ \(CV.江口拓也\)](https://open.spotify.com/artist/3iY2wSNXnl4HozD3jUxo4a) | [My Friend](https://open.spotify.com/album/0SsBA1WDO7VQ2C2DgzBgGB) | 4:16 |
+| 60 | [Fly away!](https://open.spotify.com/track/2OAEvzy1GXV40vszTJQtu4) | [和泉一織 \(CV.増田俊樹\)](https://open.spotify.com/artist/7bVbZHNFI8TkukUSoMcbGj), [七瀬 陸 \(CV.小野賢章\)](https://open.spotify.com/artist/63rbHQicCyyjZ5yTOuVu6H) | [i7](https://open.spotify.com/album/2oQz7bh0sPXcx92C1TKV05) | 4:29 |
+| 61 | [三日月のヴェール](https://open.spotify.com/track/3XxSDMRiO7kbduxl4viXZs) | [和泉三月 \(CV.代永 翼\)](https://open.spotify.com/artist/7oPep8A9azbYvgnADjeh0c) | [三日月のヴェール](https://open.spotify.com/album/6oZyRXkgaSStGoeuiC1ezc) | 5:20 |
 | 62 | [RESTART POiNTER](https://open.spotify.com/track/0nLjgD4UBJyw9kg1K5hPYl) | [IDOLiSH7](https://open.spotify.com/artist/0IcPjyCeXNduddHImlSKLH) | [i7](https://open.spotify.com/album/2oQz7bh0sPXcx92C1TKV05) | 4:22 |
 | 63 | [HELLO CALLiNG](https://open.spotify.com/track/5IKm7gw6w52KFtkDrGpaqw) | [IDOLiSH7](https://open.spotify.com/artist/0IcPjyCeXNduddHImlSKLH) | [HELLO CALLiNG](https://open.spotify.com/album/361T1tBWo3v5WzvZ5PDgme) | 4:02 |
 | 64 | [In the meantime](https://open.spotify.com/track/6n1zhNf9zUqffLObNEDRUH) | [TRIGGER](https://open.spotify.com/artist/11h1iiNftmZ7WB33TYOwXH) | [REGALITY](https://open.spotify.com/album/1lYrz8KfQ6O2sb31UMtTrU) | 4:03 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd7fmFWnsK8n.md) - [plain]
 | 69 | [激情](https://open.spotify.com/track/4qHyUISAAOWmdZvARpq5Y4) | [Re:vale](https://open.spotify.com/artist/6HZWwafY9e39VNy6gFFgrU) | [Re:al Axis](https://open.spotify.com/album/1GL2a2l2jLE3jPcFMn0zQT) | 4:23 |
 | 70 | [YOUR RHAPSODY](https://open.spotify.com/track/7CHlI1L51UCziupZC3BzfD) | [Re:vale](https://open.spotify.com/artist/6HZWwafY9e39VNy6gFFgrU) | [BLACK or WHITE 2022](https://open.spotify.com/album/6AtNchfRNFLy0XSf9yz8RB) | 4:07 |
 
-Snapshot ID: `MCwzNTRhYzNjMzk5MjUyOGQ4ZDNlNGQzOTYxYWIyYzQyOGY3YmZiYWVh`
+Snapshot ID: `MCw4YjU3MzA3MDY4ZmZlMzA3Y2M1ZTA0Mzk2MTIxZDc4ZDk4NWVhNGUy`

@@ -1,5 +1,5 @@
 {
-  "2024-03-20": 126169,
+  "2024-03-21": 126234,
   "date_first_scraped": "2021-12-28",
   "description": "\u0623\u062d\u062f\u062b \u0627\u0644\u0623\u063a\u0627\u0646\u064a \u0627\u0644\u0645\u0635\u0631\u064a\u0629 \u0647\u0646\u0627\ud83e\udd29 \u0627\u0644\u063a\u0644\u0627\u0641: \u062d\u0633\u064a\u0646 \u0627\u0644\u062c\u0633\u0645\u064a\n",
   "name": "\u0645\u0635\u0631\u064a \u062c\u062f\u064a\u062f",
@@ -4649,7 +4649,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-20",
       "duration_ms": 210370,
       "name": "Ghali",
       "url": "https://open.spotify.com/track/1jLaGv5rvcwRgFkbD5Foph"
@@ -11171,6 +11171,32 @@
       "duration_ms": 115285,
       "name": "Wesh Fe Wesh",
       "url": "https://open.spotify.com/track/5fAUv5a2irIalEikHDrhTi"
+    },
+    {
+      "album": {
+        "name": "Red Bull Sika",
+        "url": "https://open.spotify.com/album/5SjwMz8PciBOK3kUyAoDf9"
+      },
+      "artists": [
+        {
+          "name": "Sadat",
+          "url": "https://open.spotify.com/artist/6XvZkxVvGXWhlDFTR6Q4sj"
+        },
+        {
+          "name": "Yonyo",
+          "url": "https://open.spotify.com/artist/5EGFmTVcpHl9uKZqXBKrH5"
+        },
+        {
+          "name": "Sulisizer",
+          "url": "https://open.spotify.com/artist/5bih06rDRtnqB7v5S8MTSE"
+        }
+      ],
+      "date_added": "2024-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "Weshein",
+      "url": "https://open.spotify.com/track/1P4tcmzzLe1ICoUWbtVxyy"
     },
     {
       "album": {

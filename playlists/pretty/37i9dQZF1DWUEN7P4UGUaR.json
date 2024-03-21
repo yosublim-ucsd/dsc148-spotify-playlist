@@ -1,12 +1,12 @@
 {
   "description": "Fresh gospel music from Ghana. Cover: MOGMusic",
-  "num_followers": 9177,
+  "num_followers": 9189,
   "original_name": "Aseda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5ZjkzMmRhZmEwMWRmMTk0YzYxNDJjZGJmZTcyMDc0N2M5ZjgxNmM4",
+  "snapshot_id": "MCwyODI5MTllM2U3MzA1YWU1YmQ2MjkzM2FiMzQ5OGZjOGVkMzlkNjQy",
   "tracks": [
     {
       "added_at": "2024-02-23 00:00:00",
@@ -211,18 +211,18 @@
     {
       "added_at": "2024-02-23 00:00:00",
       "album": {
-        "name": "This Far by Grace",
-        "url": "https://open.spotify.com/album/0sApgQ8rsNT5dtKSVhMKWR"
+        "name": "Lifted High",
+        "url": "https://open.spotify.com/album/5jUhgQlpgBvDGjW8GnLKLF"
       },
       "artists": [
         {
-          "name": "Pastor Edwin Dadson",
-          "url": "https://open.spotify.com/artist/1k6vJ1rdPoMT0L57JcmfRH"
+          "name": "Kofi Karikari",
+          "url": "https://open.spotify.com/artist/0xhT4axNpehsv6iBReJgAE"
         }
       ],
-      "duration_ms": 293500,
-      "name": "This Far by Grace",
-      "url": "https://open.spotify.com/track/05xiEBsG74Ws6oBYgIkImD"
+      "duration_ms": 203598,
+      "name": "Something New",
+      "url": "https://open.spotify.com/track/6Lq74XHSPBqMmoWQoqtVZa"
     },
     {
       "added_at": "2024-02-23 00:00:00",
@@ -259,18 +259,18 @@
     {
       "added_at": "2024-02-23 00:00:00",
       "album": {
-        "name": "Lifted High",
-        "url": "https://open.spotify.com/album/5jUhgQlpgBvDGjW8GnLKLF"
+        "name": "This Far by Grace",
+        "url": "https://open.spotify.com/album/0sApgQ8rsNT5dtKSVhMKWR"
       },
       "artists": [
         {
-          "name": "Kofi Karikari",
-          "url": "https://open.spotify.com/artist/0xhT4axNpehsv6iBReJgAE"
+          "name": "Pastor Edwin Dadson",
+          "url": "https://open.spotify.com/artist/1k6vJ1rdPoMT0L57JcmfRH"
         }
       ],
-      "duration_ms": 203598,
-      "name": "Something New",
-      "url": "https://open.spotify.com/track/6Lq74XHSPBqMmoWQoqtVZa"
+      "duration_ms": 293500,
+      "name": "This Far by Grace",
+      "url": "https://open.spotify.com/track/05xiEBsG74Ws6oBYgIkImD"
     },
     {
       "added_at": "2024-02-23 00:00:00",
@@ -823,26 +823,6 @@
     {
       "added_at": "2024-02-23 00:00:00",
       "album": {
-        "name": "BLESSINGS",
-        "url": "https://open.spotify.com/album/7vSURO3t1M4dAUEeAMGNWZ"
-      },
-      "artists": [
-        {
-          "name": "richieo",
-          "url": "https://open.spotify.com/artist/1I0DhnrGCFdgRHreaYacf0"
-        },
-        {
-          "name": "Kuami Eugene",
-          "url": "https://open.spotify.com/artist/0GGKrcPOlBkmBzQDf2Ogkl"
-        }
-      ],
-      "duration_ms": 203189,
-      "name": "GOD NEVER FAILS",
-      "url": "https://open.spotify.com/track/1oxeayKfZKRJ9h9HhEY1nJ"
-    },
-    {
-      "added_at": "2024-02-23 00:00:00",
-      "album": {
         "name": "Dear God",
         "url": "https://open.spotify.com/album/4uW2MlugHUxK2JgW2tIjS6"
       },
@@ -859,6 +839,22 @@
       "duration_ms": 428307,
       "name": "Dear God",
       "url": "https://open.spotify.com/track/17m5N07GGlrUrqz1XwL40w"
+    },
+    {
+      "added_at": "2024-02-23 00:00:00",
+      "album": {
+        "name": "The Awakening (Alpha Edition)",
+        "url": "https://open.spotify.com/album/4LLnxDNz2HsBKM0GhXfXaC"
+      },
+      "artists": [
+        {
+          "name": "Akesse Brempong",
+          "url": "https://open.spotify.com/artist/62l5OctR7XHGZo7H8iVSXb"
+        }
+      ],
+      "duration_ms": 486295,
+      "name": "Awake",
+      "url": "https://open.spotify.com/track/4ppSvQRAPYr3sRP9KQPBaD"
     },
     {
       "added_at": "2024-02-23 00:00:00",

@@ -4,7 +4,7 @@
 
 > Los éxitos más POPulares en español los encuentras aquí\. Foto: Diego Torres, Carlos Vives
 
-263 songs - 13 hr 49 min
+263 songs - 13 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -114,7 +114,7 @@
 | [Golpes Contra Las Paredes](https://open.spotify.com/track/4pbOoaHqU4xaxqgjNZQunP) | [Santiago Cruz](https://open.spotify.com/artist/5ClJtuiNlr83ua45Dvpcf7), [TIMØ](https://open.spotify.com/artist/1KfRf4VkEYpL2G0FTWb7JX) | [Golpes Contra Las Paredes](https://open.spotify.com/album/7dz4YX7KleW1rR5YQInKog) | 3:10 | 2023-11-24 | 2024-02-08 |
 | [Gracias por Nada](https://open.spotify.com/track/1cNKHvYhFbaRfvcRuKLTeI) | [Reik](https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2) | [Gracias por Nada](https://open.spotify.com/album/7GceIonKv0MVw9HUcHw6ra) | 2:03 | 2024-02-09 |  |
 | [Guaro](https://open.spotify.com/track/57sG0muDy6txXqYFBlcA6y) | [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7) | [Guaro](https://open.spotify.com/album/1D8eQxCxhoMcNB7XwNl468) | 1:58 | 2023-03-17 | 2023-10-30 |
-| [Hace Una Hora \- Sesión en Vivo](https://open.spotify.com/track/1g5zBPGIwyHIf0VogScbYA) | [Juan Pablo Vega](https://open.spotify.com/artist/2PfyKA4qhjkxUVkerTCxz0), [Santiago Cruz](https://open.spotify.com/artist/5ClJtuiNlr83ua45Dvpcf7) | [Hace Una Hora \(Sesión en Vivo\)](https://open.spotify.com/album/1BKtdyp4mGYFvLqdeObpad) | 5:07 | 2024-03-08 |  |
+| [Hace Una Hora \- Sesión en Vivo](https://open.spotify.com/track/1g5zBPGIwyHIf0VogScbYA) | [Juan Pablo Vega](https://open.spotify.com/artist/2PfyKA4qhjkxUVkerTCxz0), [Santiago Cruz](https://open.spotify.com/artist/5ClJtuiNlr83ua45Dvpcf7) | [Hace Una Hora \(Sesión en Vivo\)](https://open.spotify.com/album/1BKtdyp4mGYFvLqdeObpad) | 4:50 | 2024-03-08 |  |
 | [Hasta Por La Mañana](https://open.spotify.com/track/2XTcif4p4qS5oXWtcnBzhK) | [Manuel Carrasco](https://open.spotify.com/artist/7qAoXV4U0qDxQAUqhszjAA), [Morat](https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD) | [Hasta Por La Mañana](https://open.spotify.com/album/268Ka9r2r5AQInpvhNQgcQ) | 2:51 | 2023-07-21 | 2023-10-07 |
 | [Hora Loca](https://open.spotify.com/track/3lfjd8A0DkB84yrvjzkbry) | [Rawayana](https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2), [Monsieur Periné](https://open.spotify.com/artist/36KsCCwgI0Dep97yVJWmkK) | [¿Quién trae las cornetas?](https://open.spotify.com/album/3UedVnaIbI3SRuMLClWiJ3) | 3:11 | 2023-09-22 | 2023-11-06 |
 | [I Try For You](https://open.spotify.com/track/5rVbqzznJzjD8VnlwBdbsC) | [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX) | [YELIANA \- Cap\. 2 \- I Try For You / Química](https://open.spotify.com/album/2MwlMWtZzYtqfUxhiYCCfM) | 2:16 | 2023-06-23 | 2023-07-08 |

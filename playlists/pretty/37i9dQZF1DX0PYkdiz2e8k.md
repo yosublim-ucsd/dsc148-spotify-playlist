@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0PYkdiz2e8k.md) - [plain]
 
 > Explode! is out! Foto: Mother Mother
 
-[Spotify](https://open.spotify.com/user/spotify) - 68,779 likes - 50 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 68,785 likes - 50 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,8 +14,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0PYkdiz2e8k.md) - [plain]
 | 4 | [High Enough](https://open.spotify.com/track/1qwno7xb5mJe71xtMS6jl2) | [K.Flay](https://open.spotify.com/artist/0pCNk4D3E2xtszsm6hMsWr) | [Every Where Is Some Where](https://open.spotify.com/album/4QwcXvqLh5Yj35wBt2DnTr) | 3:51 |
 | 5 | [maybe \(feat\. Bring Me The Horizon\)](https://open.spotify.com/track/25wdC7CJmCJPgnKw9rYquJ) | [mgk](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX), [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [mainstream sellout](https://open.spotify.com/album/3sKZHtQoq3tPtkXbT8PJAc) | 2:50 |
 | 6 | [Burning Down the House](https://open.spotify.com/track/3pRCHHfwYNVCOjWSrkGNw1) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [Burning Down the House](https://open.spotify.com/album/4zJNGGmaY5E5E5i1t2m2Ek) | 3:38 |
-| 7 | [So Called Life](https://open.spotify.com/track/1QTQ3VNzabl4yF5GJE6hhK) | [Three Days Grace](https://open.spotify.com/artist/2xiIXseIJcq3nG7C8fHeBj) | [EXPLOSIONS](https://open.spotify.com/album/4drZZN0HTkJzcdlPmmQyqG) | 3:26 |
-| 8 | [Damage Gets Done \(feat\. Brandi Carlile\)](https://open.spotify.com/track/2OLaeJRrRjFgLfTsccnzlM) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS), [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [Unreal Unearth](https://open.spotify.com/album/3gF9KIynrJaC80HbVayPMx) | 4:28 |
+| 7 | [Damage Gets Done \(feat\. Brandi Carlile\)](https://open.spotify.com/track/2OLaeJRrRjFgLfTsccnzlM) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS), [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [Unreal Unearth](https://open.spotify.com/album/3gF9KIynrJaC80HbVayPMx) | 4:28 |
+| 8 | [So Called Life](https://open.spotify.com/track/1QTQ3VNzabl4yF5GJE6hhK) | [Three Days Grace](https://open.spotify.com/artist/2xiIXseIJcq3nG7C8fHeBj) | [EXPLOSIONS](https://open.spotify.com/album/4drZZN0HTkJzcdlPmmQyqG) | 3:26 |
 | 9 | [When We Die \(Can We Still Get High?\) \(feat\. Lil Yachty\)](https://open.spotify.com/track/08uWHOhYijA1DXxhHSDBDH) | [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [When We Die \(Can We Still Get High?\) \(feat\. Lil Yachty\)](https://open.spotify.com/album/3pgq59bj7H3zljjzgXvs6A) | 5:00 |
 | 10 | [Caffeine](https://open.spotify.com/track/1pJk9Ai1GNT0HPWdRpgbBx) | [Jack Kays](https://open.spotify.com/artist/24qqDoA4BBXVnPOdHBjT54) | [Caffeine](https://open.spotify.com/album/4XeleObofFq1o3lscbN9lO) | 3:04 |
 | 11 | [Death Of An Executioner](https://open.spotify.com/track/3x8NQJlgdzI5aWMVkB3BIp) | [Pierce The Veil](https://open.spotify.com/artist/4iJLPqClelZOBCBifm8Fzv) | [The Jaws Of Life](https://open.spotify.com/album/5Am1LFOFRwS94TaVzrFQwZ) | 4:27 |
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0PYkdiz2e8k.md) - [plain]
 | 30 | [Kiss Ur Face Forever](https://open.spotify.com/track/7lf5XQQCIQkzO15CqYDjo7) | [Orla Gartland](https://open.spotify.com/artist/3ajf12ub55b51qcS94d9Co) | [Kiss Ur Face Forever](https://open.spotify.com/album/5Ok9hJcXLgtUlJw7UUBQ2s) | 2:46 |
 | 31 | [ur just horny](https://open.spotify.com/track/02gGfhPHk5NuN0mgbKpU4Y) | [GAYLE](https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9) | [ur just horny](https://open.spotify.com/album/2LhBsI65bqTpO8pVlZhK0A) | 2:58 |
 | 32 | [Take Me With You](https://open.spotify.com/track/3GpoRL1PBnTerVSaVG5tGW) | [Neck Deep](https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH) | [Take Me With You](https://open.spotify.com/album/5nlMjtTBb8QwtiWs7TY8L4) | 3:17 |
-| 33 | [Eu Não Sei](https://open.spotify.com/track/7eeJgq9MhDnycYbd0oM2EZ) | [Ananda](https://open.spotify.com/artist/2TqXAXuNUnnzzCTuAs5DX5), [Supercombo](https://open.spotify.com/artist/73HkjgziMO6I83vFOS8mo1) | [Eu Não Sei](https://open.spotify.com/album/5rfuaPrFL0zxgLawlcHI94) | 3:34 |
-| 34 | [you're not special](https://open.spotify.com/track/0EmHtG6X5rGAXvkvYhGts2) | [Maggie Lindemann](https://open.spotify.com/artist/0uGk2czvcpWQA383Im6ajf) | [SUCKERPUNCH](https://open.spotify.com/album/3plGf9mIlywpBlDLEap7Cz) | 2:46 |
+| 33 | [you're not special](https://open.spotify.com/track/0EmHtG6X5rGAXvkvYhGts2) | [Maggie Lindemann](https://open.spotify.com/artist/0uGk2czvcpWQA383Im6ajf) | [SUCKERPUNCH](https://open.spotify.com/album/3plGf9mIlywpBlDLEap7Cz) | 2:46 |
+| 34 | [Eu Não Sei](https://open.spotify.com/track/7eeJgq9MhDnycYbd0oM2EZ) | [Ananda](https://open.spotify.com/artist/2TqXAXuNUnnzzCTuAs5DX5), [Supercombo](https://open.spotify.com/artist/73HkjgziMO6I83vFOS8mo1) | [Eu Não Sei](https://open.spotify.com/album/5rfuaPrFL0zxgLawlcHI94) | 3:34 |
 | 35 | [Confident \- Rock Version](https://open.spotify.com/track/1bQl53TZeNOWKuRdihOHx0) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [Confident \(Rock Version\)](https://open.spotify.com/album/3kGLuBEi0kaIgJI9AtmiP1) | 3:25 |
 | 36 | [Irish Goodbye \(feat\. Vic Fuentes of Pierce The Veil\)](https://open.spotify.com/track/2BtFhZlm9Sz5FAiYIjChUl) | [K.Flay](https://open.spotify.com/artist/0pCNk4D3E2xtszsm6hMsWr), [Pierce The Veil](https://open.spotify.com/artist/4iJLPqClelZOBCBifm8Fzv) | [Irish Goodbye \(feat\. Vic Fuentes of Pierce The Veil\)](https://open.spotify.com/album/523PqkfY2F5mtL1Rdg0g84) | 3:02 |
 | 37 | [leave me for dead](https://open.spotify.com/track/3ItJaK3oSkvCE4QiLkaxbi) | [GAYLE](https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9) | [leave me for dead](https://open.spotify.com/album/7cTW6R0SHT2K64F07CY4vO) | 2:56 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0PYkdiz2e8k.md) - [plain]
 | 49 | [cold cold cold](https://open.spotify.com/track/0Fg6mZHrPM31PXBnHblOjX) | [EZI](https://open.spotify.com/artist/6JINIoM2HUR5ZNTJwoR9eC) | [isolation demos](https://open.spotify.com/album/1PJHCDU1CibYqQGeDN8Bvu) | 2:34 |
 | 50 | [homens cis amam homens cis](https://open.spotify.com/track/0H25VAQpH84Z4vn0Rcjnlx) | [demonia](https://open.spotify.com/artist/7pZEe5A63tsfaS6FX7QfI9) | [homens cis amam homens cis](https://open.spotify.com/album/3mjjZyIGcxrsK4hrKikXoV) | 3:13 |
 
-Snapshot ID: `MCw5NWQwMDE5ZDY3ZWVjMmZiZjgyOWQ1ZjczZGFhZGUxOTEyZTExYzA4`
+Snapshot ID: `MCxlMjBlYzA4ZWVhYjdhZTJjMDQ5ZWVmNzZjNmZhNGUyZTM3OGU0Y2Vh`

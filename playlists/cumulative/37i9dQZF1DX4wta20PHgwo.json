@@ -86,7 +86,7 @@
       ],
       "date_added": "2023-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-21",
       "duration_ms": 207306,
       "name": "A Blacksmith's Tale",
       "url": "https://open.spotify.com/track/5dKt8ZixGTGg9Uif6znrOn"
@@ -284,7 +284,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-19",
+      "date_removed": null,
       "duration_ms": 261573,
       "name": "Afflicted",
       "url": "https://open.spotify.com/track/56wFHooGMqGDkEW9KggC8f"
@@ -2176,7 +2176,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-21",
       "duration_ms": 338008,
       "name": "Dark Turn of Mind",
       "url": "https://open.spotify.com/track/20877fmWnjvhKkkLUpLlJ3"
@@ -3868,6 +3868,32 @@
       "duration_ms": 190706,
       "name": "In The Wee Small Hours Of The Morning",
       "url": "https://open.spotify.com/track/5gtIMCsxsCn9wxlfed5Doy"
+    },
+    {
+      "album": {
+        "name": "In Two Minds",
+        "url": "https://open.spotify.com/album/75RpBmCNDTaZ4yow0HZBjj"
+      },
+      "artists": [
+        {
+          "name": "Jerry Lu",
+          "url": "https://open.spotify.com/artist/0iJwi8VBK0piuUbIg6gs5P"
+        },
+        {
+          "name": "Stefan Rey",
+          "url": "https://open.spotify.com/artist/3yysqRGLVNz2Qrwhurl4Q8"
+        },
+        {
+          "name": "Niklas Walter",
+          "url": "https://open.spotify.com/artist/2V27saVPsI8chE7WEqDc4i"
+        }
+      ],
+      "date_added": "2024-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 350450,
+      "name": "In Two Minds",
+      "url": "https://open.spotify.com/track/59RDXW9iKOCp3XFdfJH3cm"
     },
     {
       "album": {

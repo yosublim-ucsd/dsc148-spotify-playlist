@@ -1,12 +1,12 @@
 {
   "description": "\ubd80\ub4dc\ub7fd\uace0 \uace0\uae09\uc2a4\ub7ec\uc6b4 \uc7ac\uc988\ud5a5\uc774 \uac00\ubbf8\ub41c \ud799\ud569\uc74c\uc545\uc744 \uc990\uaca8\ubcf4\uc138\uc694.",
-  "num_followers": 2508,
+  "num_followers": 2512,
   "original_name": "\uc7ac\uc988\ub9db \ud799\ud569",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjZjUzMTE4NDljMDI4ODMyM2Y5YmUwYzA4OTljNmJjMGRjOTIxNzFk",
+  "snapshot_id": "MCwyNGVkZGZlMTA4MTFmNzg3ZTEwYjJhMTQ2Y2ExOGI4YmIxZjM4OGVk",
   "tracks": [
     {
       "added_at": "2024-03-08 06:18:01",
@@ -259,26 +259,22 @@
     {
       "added_at": "2024-03-08 06:18:01",
       "album": {
-        "name": "ROOM SERVICE",
-        "url": "https://open.spotify.com/album/1GbGtBHI4yiKprKQq81El0"
+        "name": "Primary And The Messengers LP",
+        "url": "https://open.spotify.com/album/20MnU7TMGi4OEPkPZjZxYA"
       },
       "artists": [
         {
-          "name": "GroovyRoom",
-          "url": "https://open.spotify.com/artist/29HqjVbJr3vsc2l6BTI4eB"
+          "name": "Primary",
+          "url": "https://open.spotify.com/artist/4QDcs3XrA8uHUZ7Xt9Ytep"
         },
         {
-          "name": "Leellamarz",
-          "url": "https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0"
-        },
-        {
-          "name": "youra",
-          "url": "https://open.spotify.com/artist/5q9adPv91NFr8q2ZcKmX0V"
+          "name": "Beenzino",
+          "url": "https://open.spotify.com/artist/7IrDIIq3j04exsiF3Z7CPg"
         }
       ],
-      "duration_ms": 159230,
-      "name": "Color (Feat. youra)",
-      "url": "https://open.spotify.com/track/1ruwBe8TgkNnlKUiwXTxWB"
+      "duration_ms": 247092,
+      "name": "Too Far (Feat. Beenzino)",
+      "url": "https://open.spotify.com/track/7q6ybjHEBBWwOTm7Y2xUCh"
     },
     {
       "added_at": "2024-03-08 06:18:01",
@@ -315,22 +311,26 @@
     {
       "added_at": "2024-03-08 06:18:01",
       "album": {
-        "name": "Primary And The Messengers LP",
-        "url": "https://open.spotify.com/album/20MnU7TMGi4OEPkPZjZxYA"
+        "name": "ROOM SERVICE",
+        "url": "https://open.spotify.com/album/1GbGtBHI4yiKprKQq81El0"
       },
       "artists": [
         {
-          "name": "Primary",
-          "url": "https://open.spotify.com/artist/4QDcs3XrA8uHUZ7Xt9Ytep"
+          "name": "GroovyRoom",
+          "url": "https://open.spotify.com/artist/29HqjVbJr3vsc2l6BTI4eB"
         },
         {
-          "name": "Beenzino",
-          "url": "https://open.spotify.com/artist/7IrDIIq3j04exsiF3Z7CPg"
+          "name": "Leellamarz",
+          "url": "https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0"
+        },
+        {
+          "name": "youra",
+          "url": "https://open.spotify.com/artist/5q9adPv91NFr8q2ZcKmX0V"
         }
       ],
-      "duration_ms": 247092,
-      "name": "Too Far (Feat. Beenzino)",
-      "url": "https://open.spotify.com/track/7q6ybjHEBBWwOTm7Y2xUCh"
+      "duration_ms": 159230,
+      "name": "Color (Feat. youra)",
+      "url": "https://open.spotify.com/track/1ruwBe8TgkNnlKUiwXTxWB"
     },
     {
       "added_at": "2024-03-08 06:18:01",
@@ -419,6 +419,30 @@
     {
       "added_at": "2024-03-08 06:18:01",
       "album": {
+        "name": "2",
+        "url": "https://open.spotify.com/album/1H59BSWW8dygtTZv51DmbA"
+      },
+      "artists": [
+        {
+          "name": "Primary",
+          "url": "https://open.spotify.com/artist/4QDcs3XrA8uHUZ7Xt9Ytep"
+        },
+        {
+          "name": "Beenzino",
+          "url": "https://open.spotify.com/artist/7IrDIIq3j04exsiF3Z7CPg"
+        },
+        {
+          "name": "SURAN",
+          "url": "https://open.spotify.com/artist/1mORehSVEd7lcaT2d7Sl2K"
+        }
+      ],
+      "duration_ms": 233376,
+      "name": "Mannequin (Feat. Beenzino & SURAN)",
+      "url": "https://open.spotify.com/track/6HTMdjQSnAebsMYEKM1vy2"
+    },
+    {
+      "added_at": "2024-03-08 06:18:01",
+      "album": {
         "name": "Black & White Film",
         "url": "https://open.spotify.com/album/6PIfLssUGUbQwFYf1frasa"
       },
@@ -475,30 +499,6 @@
       "duration_ms": 182868,
       "name": "10",
       "url": "https://open.spotify.com/track/4iRlKTcGQJd6hDCnAS76QT"
-    },
-    {
-      "added_at": "2024-03-08 06:18:01",
-      "album": {
-        "name": "2",
-        "url": "https://open.spotify.com/album/1H59BSWW8dygtTZv51DmbA"
-      },
-      "artists": [
-        {
-          "name": "Primary",
-          "url": "https://open.spotify.com/artist/4QDcs3XrA8uHUZ7Xt9Ytep"
-        },
-        {
-          "name": "Beenzino",
-          "url": "https://open.spotify.com/artist/7IrDIIq3j04exsiF3Z7CPg"
-        },
-        {
-          "name": "SURAN",
-          "url": "https://open.spotify.com/artist/1mORehSVEd7lcaT2d7Sl2K"
-        }
-      ],
-      "duration_ms": 233376,
-      "name": "Mannequin (Feat. Beenzino & SURAN)",
-      "url": "https://open.spotify.com/track/6HTMdjQSnAebsMYEKM1vy2"
     },
     {
       "added_at": "2024-03-08 06:18:01",

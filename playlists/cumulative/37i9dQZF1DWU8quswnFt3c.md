@@ -2,9 +2,9 @@
 
 ### [EQUAL](https://open.spotify.com/playlist/37i9dQZF1DWU8quswnFt3c)
 
-> Listen to women at full volume from across the world\. Cover: BigMama
+> Listen to women at full volume from across the world\. Cover: Suni Hạ Linh
 
-1,767 songs - 4 day 1 hr 34 min
+1,768 songs - 4 day 1 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -350,7 +350,8 @@
 | [De X Vida](https://open.spotify.com/track/7KdlLGCuAA25rzatYxDNHM) | [Bad Milk](https://open.spotify.com/artist/5rMUEBZwYHovrlnuzggrVR) | [De X Vida](https://open.spotify.com/album/46dyRolsnFXlMp7J707OIc) | 3:04 | 2022-10-04 | 2022-11-03 |
 | [december](https://open.spotify.com/track/51RH09LvrJLuh7843lZNh2) | [MARGE](https://open.spotify.com/artist/4C8EXdS7TXGlWixQydk9RW) | [december](https://open.spotify.com/album/5bsInJw5WiTqaE3FBRGwUE) | 2:45 | 2024-01-10 | 2024-02-08 |
 | [Decisions](https://open.spotify.com/track/1Vr1vDsnFyPtuQLi7cpUMW) | [WAYI](https://open.spotify.com/artist/6CbMqrM714vGa77HxOKoHI) | [Decisions](https://open.spotify.com/album/4o29z1nujib3PRGgdnU7ap) | 3:17 | 2022-07-06 | 2022-08-04 |
-| [Deeper Well](https://open.spotify.com/track/2lJn77IeZAP9cmv6DPXOrL) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Deeper Well](https://open.spotify.com/album/2NXiMKrwmPrqU8epp20pW8) | 3:52 | 2024-03-06 |  |
+| [Deeper Well](https://open.spotify.com/track/2lJn77IeZAP9cmv6DPXOrL) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Deeper Well](https://open.spotify.com/album/2NXiMKrwmPrqU8epp20pW8) | 3:52 | 2024-03-06 | 2024-03-21 |
+| [Deeper Well](https://open.spotify.com/track/333XFHKsHU0pOocFzBgrJi) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Deeper Well](https://open.spotify.com/album/5SxZmGwc4eJuPp6PcO4JgJ) | 3:52 | 2024-03-20 |  |
 | [Deja Vu](https://open.spotify.com/track/79df3H3WrJheCyH6b6ofYJ) | [Elaine](https://open.spotify.com/artist/5ZkuGe2wkDbeL8JmmhvMOx) | [Deja Vu](https://open.spotify.com/album/2ouodKGDJpiydGV62UyCEc) | 2:49 | 2022-10-04 | 2022-11-03 |
 | [DEJA VU](https://open.spotify.com/track/7v7nrrYMIdugbGRAseawG9) | [Noa Kirel](https://open.spotify.com/artist/1wak0ZG1LUrZPYx8RDTQoD) | [DEJA VU](https://open.spotify.com/album/6RyQ5WoUUyokV0X5hboeAY) | 3:09 | 2023-09-06 | 2023-11-09 |
 | [Delirante](https://open.spotify.com/track/3xQ8jCXftSa4l2gZvIegHw) | [Juliana](https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY), [Nico Legreti](https://open.spotify.com/artist/0DqqjwKWuQhMcvHKrkY0ii) | [Delirante](https://open.spotify.com/album/618JrLJV9iCiUQp0u50yF1) | 2:45 | 2022-05-04 | 2022-06-01 |

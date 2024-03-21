@@ -4,7 +4,7 @@
 
 > brutal breakdowns and riffs to amp you up.
 
-288 songs - 19 hr 57 min
+289 songs - 20 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -191,7 +191,8 @@
 | [on the verge](https://open.spotify.com/track/75dS4i4yFu4R4WBrneLXIC) | [thrown](https://open.spotify.com/artist/5eBCPtU2iPbzuMRre9BePt) | [on the verge](https://open.spotify.com/album/4jrVOK9sQX5PmGeASmN230) | 2:14 | 2023-12-13 |  |
 | [One Finger and a Fist](https://open.spotify.com/track/6PdEKf8CyyZfrFAGFi37gb) | [Drowning Pool](https://open.spotify.com/artist/1E4r4z7ivGUcSAnCbINJ9v) | [Resilience \(Deluxe\)](https://open.spotify.com/album/46NkCKf9l9TVHryLpDSkr2) | 3:06 | 2021-12-17 | 2023-09-05 |
 | [One Man Army](https://open.spotify.com/track/0abHvyyQu4s82Vzq4z5vLI) | [Ensiferum](https://open.spotify.com/artist/0krXCIkthz13P8o0v2tksH) | [One Man Army](https://open.spotify.com/album/5Gifsqd4VLBFcV8E4RoJHl) | 4:25 | 2021-12-17 | 2022-07-27 |
-| [One Of Us](https://open.spotify.com/track/33jSdWZrZmhQt2MYQBJgm9) | [The Word Alive](https://open.spotify.com/artist/1CF8aEN939swnuIZGFI7Hk), [Bad Omens](https://open.spotify.com/artist/3Ri4H12KFyu98LMjSoij5V) | [Hard Reset](https://open.spotify.com/album/5H49CClHBLpUgyKN8ZCour) | 3:43 | 2023-12-13 |  |
+| [One Of Us](https://open.spotify.com/track/2Os6Vp6QlErl2E5hwfdrUh) | [The Word Alive](https://open.spotify.com/artist/1CF8aEN939swnuIZGFI7Hk), [Bad Omens](https://open.spotify.com/artist/3Ri4H12KFyu98LMjSoij5V) | [Hard Reset](https://open.spotify.com/album/17cbasTWOvRFtMoHb7aiHm) | 3:43 | 2024-02-09 |  |
+| [One Of Us](https://open.spotify.com/track/33jSdWZrZmhQt2MYQBJgm9) | [The Word Alive](https://open.spotify.com/artist/1CF8aEN939swnuIZGFI7Hk), [Bad Omens](https://open.spotify.com/artist/3Ri4H12KFyu98LMjSoij5V) | [Hard Reset](https://open.spotify.com/album/5H49CClHBLpUgyKN8ZCour) | 3:43 | 2023-12-13 | 2024-03-21 |
 | [Only for the Weak](https://open.spotify.com/track/0JBQnLKfLXmlkquabLtAgd) | [In Flames](https://open.spotify.com/artist/57ylwQTnFnIhJh4nu4rxCs) | [Clayman](https://open.spotify.com/album/1hVhTWO9hlpPr7T8ORczRd) | 4:54 | 2022-01-06 |  |
 | [Only for the Weak](https://open.spotify.com/track/03zYFtluA21jFWQVPMbUYO) | [In Flames](https://open.spotify.com/artist/57ylwQTnFnIhJh4nu4rxCs) | [Clayman \(Reissue 2014\)](https://open.spotify.com/album/1aK0ZfM3mY983J4cKoTHfy) | 4:55 | 2021-12-17 | 2022-07-29 |
 | [Over It](https://open.spotify.com/track/0S674qD7nVFL0L7pHs6wUO) | [Bullet For My Valentine](https://open.spotify.com/artist/7iWiAD5LLKyiox2grgfmUT) | [Gravity](https://open.spotify.com/album/28sCbClwbAhHN6ovutizQg) | 3:47 | 2021-12-17 | 2023-05-04 |

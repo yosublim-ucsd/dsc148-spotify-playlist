@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7hD3xpkU4gL.md) - [plain]
 
 > Para cantar muy bajito..\. o a voz en grito.
 
-[Spotify](https://open.spotify.com/user/spotify) - 454,243 likes - 100 songs - 6 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 454,347 likes - 100 songs - 6 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7hD3xpkU4gL.md) - [plain]
 | 28 | [Heaven](https://open.spotify.com/track/7Ewz6bJ97vUqk5HdkvguFQ) | [Bryan Adams](https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc) | [Reckless \(30th Anniversary / Deluxe Edition\)](https://open.spotify.com/album/2o2G49EPi4lua5zgxUKhLL) | 4:03 |
 | 29 | [Es Por Ti](https://open.spotify.com/track/3b1IQflSLrgzYQPGFzI9cl) | [Juanes](https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7) | [Un Día Normal](https://open.spotify.com/album/2UJCnSqpR3AIuTvWYZLCp1) | 4:10 |
 | 30 | [Torn](https://open.spotify.com/track/1Jaah2tmN9Hv81A87KZ1MU) | [Natalie Imbruglia](https://open.spotify.com/artist/0dlOr0VIysztGWvU1dpjmP) | [Left Of The Middle](https://open.spotify.com/album/38alWeQVP9UUAGJvLptys9) | 4:04 |
-| 31 | [It Must Have Been Love \- From the Film "Pretty Woman"](https://open.spotify.com/track/6kvoHl80mfCVTv7XnZkjQn) | [Roxette](https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY) | [It Must Have Been Love](https://open.spotify.com/album/3dWX1xFUaalRlaaVpe4EPF) | 4:18 |
-| 32 | [Somewhere Only We Know](https://open.spotify.com/track/0ll8uFnc0nANY35E0Lfxvg) | [Keane](https://open.spotify.com/artist/53A0W3U0s8diEn9RhXQhVz) | [Hopes And Fears](https://open.spotify.com/album/0qsT8HLvlWaSWIq8Rc95BI) | 3:56 |
+| 31 | [Somewhere Only We Know](https://open.spotify.com/track/0ll8uFnc0nANY35E0Lfxvg) | [Keane](https://open.spotify.com/artist/53A0W3U0s8diEn9RhXQhVz) | [Hopes And Fears](https://open.spotify.com/album/0qsT8HLvlWaSWIq8Rc95BI) | 3:56 |
+| 32 | [It Must Have Been Love \- From the Film "Pretty Woman"](https://open.spotify.com/track/6kvoHl80mfCVTv7XnZkjQn) | [Roxette](https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY) | [It Must Have Been Love](https://open.spotify.com/album/3dWX1xFUaalRlaaVpe4EPF) | 4:18 |
 | 33 | [La Incondicional](https://open.spotify.com/track/6F9yAYUaNbUhdlQyt5uZ3b) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [Busca Una Mujer](https://open.spotify.com/album/6JSqwckfTYWbJj4R1fdOOo) | 4:17 |
 | 34 | [I Will Always Love You](https://open.spotify.com/track/4eHbdreAnSOrDDsFfc4Fpm) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP) | [The Bodyguard \- Original Soundtrack Album](https://open.spotify.com/album/7JVJlkNNobS0GSoy4tCS96) | 4:31 |
 | 35 | [Imagine \- Remastered 2010](https://open.spotify.com/track/7pKfPomDEeI4TPT6EOYjn9) | [John Lennon](https://open.spotify.com/artist/4x1nvY2FN8jxqAFA0DA02H) | [Imagine](https://open.spotify.com/album/0xzaemKucrJpYhyl7TltAk) | 3:07 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7hD3xpkU4gL.md) - [plain]
 | 99 | [Contigo Siempre](https://open.spotify.com/track/17LxkTp8UNbPcYrDrI6UOq) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9), [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW) | [Contigo Siempre](https://open.spotify.com/album/1DuXr4GCQLue0kTKvI6Txa) | 3:21 |
 | 100 | [Estar contigo](https://open.spotify.com/track/0IDyf9eri6YrUs4yeQfCZZ) | [Alex Ubago](https://open.spotify.com/artist/2tY2GFdhH0Wa2VBvsxew5X) | [Mentiras sinceras](https://open.spotify.com/album/4kycb8w5cgbdLcQ6uD6IyF) | 3:52 |
 
-Snapshot ID: `MCw4OGU5ZDdiZGEzZjdjOGEzZTgwMjI2OWI3YzIxNzc5YjhhMjdiZDM4`
+Snapshot ID: `MCw3NmJmMTM4MDlkNDJhMjNjZTkwYjE2YjFmOTA0ZjExZGVjYTY5YTE5`

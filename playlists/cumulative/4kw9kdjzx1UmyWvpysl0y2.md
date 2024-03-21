@@ -4,7 +4,7 @@
 
 > Brand new music from Monstercat, all in one place.
 
-683 songs - 1 day 15 hr 31 min
+684 songs - 1 day 15 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -73,6 +73,7 @@
 | [Be Careful What You Say](https://open.spotify.com/track/296Fv8CqhmVqEol73p5y4Q) | [GG Magree](https://open.spotify.com/artist/54pgkpWVgQYbQXD8bkUP8n) | [Be Careful What You Say](https://open.spotify.com/album/4QsFsQhwDJLUbKLSeceD1w) | 3:30 | 2023-02-09 | 2023-04-29 |
 | [Be Here \(La La La\)](https://open.spotify.com/track/4JXgJ33UmguXF3F9B5LwlD) | [WHIPPED CREAM](https://open.spotify.com/artist/5CMaNobmJYgXcfiT0zYOwi), [The Duchess](https://open.spotify.com/artist/5WxiAl23gqBkSToRgKsG8B) | [Be Here \(La La La\)](https://open.spotify.com/album/3c8WhTXdr0jNmaBxbOyxmM) | 2:20 | 2022-10-27 | 2023-01-19 |
 | [Be With You](https://open.spotify.com/track/1VdCgotTRcPwbbRnCrzIfR) | [RetroVision](https://open.spotify.com/artist/6heMlLFM6RDDHRz99uKMqS) | [Be With You](https://open.spotify.com/album/0kiZ251Slwv3rlGwdAHuRk) | 2:46 | 2023-05-01 | 2023-07-25 |
+| [BEAMS](https://open.spotify.com/track/081pPUtsdE1iBqvyjw4kCS) | [INFEKT](https://open.spotify.com/artist/3I6KMDdmPiLE5UQ4XF8Kpl) | [BEAMS](https://open.spotify.com/album/5AYrW1k2Y0f3gpN3BlWmQS) | 2:58 | 2024-03-20 |  |
 | [begin again](https://open.spotify.com/track/2HzjHQ9QEZnYl3sDbWmhQo) | [zensei ゼンセー](https://open.spotify.com/artist/6T9kdEIYDzBGxqO6X1Fl63), [Mr\. Hilroy](https://open.spotify.com/artist/1SDhLZ6y3x0OEGEHZ96K2T) | [wonder years pt\. 1](https://open.spotify.com/album/4TAy3EjqjNvl5LtVWAH4gM) | 3:53 | 2022-03-23 | 2022-06-04 |
 | [Behind Your Eyes](https://open.spotify.com/track/1hV1ZlD4WGJzBZ4ScGJKdy) | [Bishu](https://open.spotify.com/artist/1DzQInbDVhE9Lh5s6T0DUL), [Juneau](https://open.spotify.com/artist/4GqIsFywX1zYRiXreoyU34) | [Behind Your Eyes](https://open.spotify.com/album/21vde0XQf3KcIL3rbyb4mf) | 2:26 | 2021-11-19 | 2022-02-08 |
 | [Between the Lines](https://open.spotify.com/track/4i3yA5Fw7yDsm7WtXXbFKK) | [hayve](https://open.spotify.com/artist/6HT10ZbNJFIRYirBe3PTxs) | [Between the Lines](https://open.spotify.com/album/2ZfG7t9gQhlSA9fHvyqvta) | 4:35 | 2022-02-01 | 2022-04-13 |
@@ -433,7 +434,7 @@
 | [Nova](https://open.spotify.com/track/60JKwJQTyaX5EcEhmfmPy3) | [Mazare](https://open.spotify.com/artist/4yzZdtb9UicgY2M23eEtL9), [Livingston Crain](https://open.spotify.com/artist/4RtqDXilSr5s7rDH0t7oRn) | [Nova](https://open.spotify.com/album/3l62LbSvXMTWUz30VYbaHr) | 3:01 | 2023-06-14 | 2023-09-26 |
 | [Numb](https://open.spotify.com/track/41EekfzAGeK44z1zQRhNgR) | [Kage](https://open.spotify.com/artist/6ehv7BnQkNEh7Hqd8rRcot) | [Numb](https://open.spotify.com/album/2C1eeI6heXSrCmtkGOV2FT) | 3:45 | 2022-05-02 | 2022-07-13 |
 | [Não Sei Parar](https://open.spotify.com/track/620eMyji7XM9zf0kHwDsys) | [Bhaskar](https://open.spotify.com/artist/6kT18gnkVrCz8xJQcrib7L), [Afterclapp](https://open.spotify.com/artist/6SOIDTPmPScMiJYBm75gRC) | [Não Sei Parar](https://open.spotify.com/album/3DH0NYxAi5Mw8YpmHXgAMb) | 3:25 | 2023-06-07 | 2023-09-26 |
-| [Não Sei Parar \- Mojjo Remix](https://open.spotify.com/track/6j45uOIAiHWIEEaSiCRi4L) | [Bhaskar](https://open.spotify.com/artist/6kT18gnkVrCz8xJQcrib7L), [Afterclapp](https://open.spotify.com/artist/6SOIDTPmPScMiJYBm75gRC), [Mojjo](https://open.spotify.com/artist/6AVyGjQ7gNzSkGlBldHS1j) | [Não Sei Parar \(Mojjo Remix\)](https://open.spotify.com/album/1OUJtYZFBjqViGP0WPHXPl) | 2:51 | 2023-12-07 |  |
+| [Não Sei Parar \- Mojjo Remix](https://open.spotify.com/track/6j45uOIAiHWIEEaSiCRi4L) | [Bhaskar](https://open.spotify.com/artist/6kT18gnkVrCz8xJQcrib7L), [Afterclapp](https://open.spotify.com/artist/6SOIDTPmPScMiJYBm75gRC), [Mojjo](https://open.spotify.com/artist/6AVyGjQ7gNzSkGlBldHS1j) | [Não Sei Parar \(Mojjo Remix\)](https://open.spotify.com/album/1OUJtYZFBjqViGP0WPHXPl) | 2:51 | 2023-12-07 | 2024-03-21 |
 | [Oasis](https://open.spotify.com/track/2YQq8vFPzvA7seaAKNJkdt) | [Foxela](https://open.spotify.com/artist/1R2OPNS7EkGLKcDjyGnpEu) | [Oasis](https://open.spotify.com/album/5PCIiG3MSNN9umYr2Z4SUi) | 2:43 | 2022-11-01 | 2023-01-26 |
 | [oasis](https://open.spotify.com/track/7HhIdybSANaTYHeI9gCFFg) | [zensei ゼンセー](https://open.spotify.com/artist/6T9kdEIYDzBGxqO6X1Fl63) | [oasis](https://open.spotify.com/album/5ZocVGcuWcErR1NEnZuigN) | 2:59 | 2023-03-03 | 2023-05-30 |
 | [Oblivion](https://open.spotify.com/track/4dTC6SHxIibaRue2eKI2ai) | [Rival](https://open.spotify.com/artist/4u1nYxjl132D6rcMeYQ6Zz), [Fairlane](https://open.spotify.com/artist/3L7JnVovGbYSUmRyqhXMYO), [Philip Strand](https://open.spotify.com/artist/1hII0FUxBvpT7bnuS7TQ6q) | [Oblivion](https://open.spotify.com/album/0tVfKBH8luy3wdwvIJ0dge) | 3:24 | 2022-06-02 | 2022-08-13 |

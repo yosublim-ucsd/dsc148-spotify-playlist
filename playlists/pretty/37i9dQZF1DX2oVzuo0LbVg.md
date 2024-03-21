@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2oVzuo0LbVg.md) - [plain]
 
 > Pop Anglo para acompañar tus mejores momentos\. Foto: Dua Lipa
 
-[Spotify](https://open.spotify.com/user/spotify) - 155,817 likes - 100 songs - 5 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 155,914 likes - 100 songs - 5 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,7 +69,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2oVzuo0LbVg.md) - [plain]
 | 59 | [Questions](https://open.spotify.com/track/1cgy2FSOQMbq7DHCVgMAUA) | [Lost Frequencies](https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7), [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [Questions](https://open.spotify.com/album/5HyQdrY2jAKPhK1OqX7yOR) | 2:57 |
 | 60 | [Me Myself & I](https://open.spotify.com/track/7JJshKQ0Wlu6bZwqamulCE) | [5 Seconds of Summer](https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy) | [5SOS5](https://open.spotify.com/album/6aPyqaE53xagYyLIYZjB1e) | 2:57 |
 | 61 | [Cool for the Summer](https://open.spotify.com/track/3uwnnTQcHM1rDqSfA4gQNz) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [Confident](https://open.spotify.com/album/56yYgfX6M5FlpETfyZSHkn) | 3:34 |
-| 62 | [Love's Train](https://open.spotify.com/track/60gTdTwaNtGAzIxKfeGVfJ) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [Silk Sonic](https://open.spotify.com/artist/6PvvGcCY2XtUcSRld1Wilr) | [Love's Train](https://open.spotify.com/album/6QKXGIgwWmWBMmIktMOchR) | 5:07 |
+| 62 | [Love's Train](https://open.spotify.com/track/2JUQ7mV1AHk2owXLydmN4Z) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [Silk Sonic](https://open.spotify.com/artist/6PvvGcCY2XtUcSRld1Wilr) | [An Evening With Silk Sonic](https://open.spotify.com/album/1YgekJJTEueWDaMr7BYqPk) | 5:07 |
 | 63 | [STAY \(with Justin Bieber\)](https://open.spotify.com/track/567e29TDzLwZwfDuEpGTwo) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [F\*CK LOVE 3+: OVER YOU](https://open.spotify.com/album/576UTio7xgY7YUxrHMzxeI) | 2:21 |
 | 64 | [When I’m Gone \(with Katy Perry\)](https://open.spotify.com/track/5902W4uHWzhtOff1UK7the) | [Alesso](https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t), [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [When I’m Gone \(with Katy Perry\)](https://open.spotify.com/album/5itVTi6rI3MlOcWBxROxd9) | 2:41 |
 | 65 | [Oh My God](https://open.spotify.com/track/3Kkjo3cT83cw09VJyrLNwX) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [30](https://open.spotify.com/album/21jF5jlMtzo94wbxmJ18aa) | 3:45 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2oVzuo0LbVg.md) - [plain]
 | 99 | [Someone You Loved](https://open.spotify.com/track/2TIlqbIneP0ZY1O0EzYLlc) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Breach](https://open.spotify.com/album/0NVQ9k3wKmuK6T02lLMl6y) | 3:02 |
 | 100 | [Roar](https://open.spotify.com/track/6F5c58TMEs1byxUstkzVeM) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [PRISM \(Deluxe\)](https://open.spotify.com/album/5MQBzs5YlZlE28mD9yUItn) | 3:43 |
 
-Snapshot ID: `MCwxMzUwMDQ2MTEwNWRlMzI4ZGI1Mjk1ZTE3ZjA3N2QyZWYxYjkzNGJh`
+Snapshot ID: `MCxkMDc0OGQ3MTdhMDVmMjk1NjdiMjMyYzNhY2E0YjU2YzkyNWIwMTRi`

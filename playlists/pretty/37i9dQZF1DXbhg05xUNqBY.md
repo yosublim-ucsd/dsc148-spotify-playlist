@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbhg05xUNqBY.md) - [plain]
 
 > Breathe deep, and relax with the softer side of Christian music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 349,799 likes - 70 songs - 4 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 349,822 likes - 70 songs - 4 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,8 +70,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbhg05xUNqBY.md) - [plain]
 | 60 | [God You Are \(feat\. Josh Baldwin\)](https://open.spotify.com/track/2nWc0P3X3ZizOllGoSCC9x) | [We Are Messengers](https://open.spotify.com/artist/5WcisvYoq6332gCUX039Jd), [Josh Baldwin](https://open.spotify.com/artist/2cB6hX2LI14KUTAevpaYn2) | [God You Are](https://open.spotify.com/album/4SBHWu7CyTqKCK1P4T665j) | 4:25 |
 | 61 | [Shalom](https://open.spotify.com/track/2ZXWSdd7SufihL5Jf5BYFy) | [Laura Hackett Park](https://open.spotify.com/artist/6ScYoRIa2PsNj7YZd030BV) | [Shalom](https://open.spotify.com/album/1rTB3LVsO0KH1BAdLPiv7M) | 3:59 |
 | 62 | [Loved by You](https://open.spotify.com/track/3Fw7SQbIfU68xPS0GEKRk7) | [Ian Yates](https://open.spotify.com/artist/1f4Ai5lRAeK0wameps1zqU) | [Mystery](https://open.spotify.com/album/5U2Kd6Gd29iKv7FiQgsxto) | 4:52 |
-| 63 | [Safe Place](https://open.spotify.com/track/1R36cdLh7Km3McQxeY124h) | [Spencer Annis](https://open.spotify.com/artist/3PcnAVq9b3HyDUkNFTvyUu) | [Safe Place](https://open.spotify.com/album/6aYo3XMTrfvmMh4mzTG74t) | 3:10 |
-| 64 | [Dawn](https://open.spotify.com/track/5rKbWEBYZNIR3ep6pBOK0t) | [Rebecca St\. James](https://open.spotify.com/artist/1SaELUYn7deVoQ9kGDGUD9), [Luke Smallbone](https://open.spotify.com/artist/4HNwDTkRZBK8UyA54udpGX) | [Dawn](https://open.spotify.com/album/4X8FlSjZW7YUTj277XNyFY) | 4:57 |
+| 63 | [Dawn](https://open.spotify.com/track/5rKbWEBYZNIR3ep6pBOK0t) | [Rebecca St\. James](https://open.spotify.com/artist/1SaELUYn7deVoQ9kGDGUD9), [Luke Smallbone](https://open.spotify.com/artist/4HNwDTkRZBK8UyA54udpGX) | [Dawn](https://open.spotify.com/album/4X8FlSjZW7YUTj277XNyFY) | 4:57 |
+| 64 | [Safe Place](https://open.spotify.com/track/1R36cdLh7Km3McQxeY124h) | [Spencer Annis](https://open.spotify.com/artist/3PcnAVq9b3HyDUkNFTvyUu) | [Safe Place](https://open.spotify.com/album/6aYo3XMTrfvmMh4mzTG74t) | 3:10 |
 | 65 | [Holy Love](https://open.spotify.com/track/6DBGrnhBL00xF2B94oGdd9) | [Citizens](https://open.spotify.com/artist/3e7KVnSiZjsBkReSv0L6db), [Taylor Leonhardt](https://open.spotify.com/artist/1OUylyH2arsswxRe6dOz3i) | [Holy Love](https://open.spotify.com/album/5xw7giFJg2lKDi5OKcZESt) | 4:07 |
 | 66 | [Rest On Us](https://open.spotify.com/track/0ku3fg1KCU9wZBiSOHZ3Xb) | [Ben Potter](https://open.spotify.com/artist/7MgoxvbWh0Svv2Yqt0V2iX), [Eric Gilmore](https://open.spotify.com/artist/3F4uNC54SZeUGL2AkZJEw1) | [Rest On Us](https://open.spotify.com/album/17ppxNXzGYBaJyVFnhuKhR) | 3:29 |
 | 67 | [In Christ Alone \(En Jésus Seul\)](https://open.spotify.com/track/6Qn5PXBQQxfTeu7QT742MQ) | [Ri\-An](https://open.spotify.com/artist/0q8s2UD3GPKFfYuXWbvRVo), [Sebastien Corn](https://open.spotify.com/artist/601DNxtvVupKqvm3STxGTW) | [In Christ Alone \(En Jésus Seul\)](https://open.spotify.com/album/7H8MtnvyshMhC5LVKRqBQL) | 3:42 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbhg05xUNqBY.md) - [plain]
 | 69 | [Same God \- Acoustic](https://open.spotify.com/track/4Q4fzpczkjfZRdpt6P2gDW) | [Hannah Kerr](https://open.spotify.com/artist/5FxshnB3eJ2YDn8xN8zDKq) | [Same God \(Acoustic\)](https://open.spotify.com/album/2r1aM6zqJOqmFBiCiQQ2Lt) | 3:44 |
 | 70 | [Dreaming of Eden](https://open.spotify.com/track/7Moo8abBatLMNr3rq2MmJh) | [Tenielle Neda](https://open.spotify.com/artist/38rsHCzbXGGXcIGq1ceArD) | [Dreaming of Eden](https://open.spotify.com/album/2wUYq8HZAjtno3Q14QoumT) | 4:14 |
 
-Snapshot ID: `MCw0YWRiN2E0M2EyMjQwMjk5Mjk4NDMzYTkxZmNjNGY2YTBlYTBmOTZl`
+Snapshot ID: `MCxkMmI5NDVmYTAzNDQ3ZTdmZGE4YTllMTYzM2UzNjAxM2IzMDYxZjIw`

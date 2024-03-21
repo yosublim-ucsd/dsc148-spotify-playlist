@@ -1,12 +1,12 @@
 {
   "description": "alternative meets electronic Cover: ZHU & UPSAHL",
-  "num_followers": 477011,
+  "num_followers": 477045,
   "original_name": "Alternative Beats",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlOTYwNGExMWQ0ZWFhMDUzNjBlZjg3MTYxOWRjNzJmOGNiNmY0MTkw",
+  "snapshot_id": "MCwzMjNjYzU3NDI5OTEyN2U2MGZjNDc4ODkwNGNiYThmYjlkYTY4M2Nl",
   "tracks": [
     {
       "added_at": "2024-02-16 05:00:00",
@@ -963,22 +963,6 @@
     {
       "added_at": "2024-02-16 05:00:00",
       "album": {
-        "name": "Armatron",
-        "url": "https://open.spotify.com/album/7pYfAkU5CwZFOgIzQncD3r"
-      },
-      "artists": [
-        {
-          "name": "STRFKR",
-          "url": "https://open.spotify.com/artist/2Tz1DTzVJ5Gyh8ZwVr6ekU"
-        }
-      ],
-      "duration_ms": 252603,
-      "name": "Armatron",
-      "url": "https://open.spotify.com/track/05x6pBQelgwQJs3ZeVfdEC"
-    },
-    {
-      "added_at": "2024-02-16 05:00:00",
-      "album": {
         "name": "Max Maco Is Dead Right?",
         "url": "https://open.spotify.com/album/6wPnQigsvCXa5LrMfEuU6K"
       },
@@ -991,6 +975,22 @@
       "duration_ms": 174306,
       "name": "Flatline",
       "url": "https://open.spotify.com/track/4r05ev9hIFnjWUkzJGMu46"
+    },
+    {
+      "added_at": "2024-02-16 05:00:00",
+      "album": {
+        "name": "Armatron",
+        "url": "https://open.spotify.com/album/7pYfAkU5CwZFOgIzQncD3r"
+      },
+      "artists": [
+        {
+          "name": "STRFKR",
+          "url": "https://open.spotify.com/artist/2Tz1DTzVJ5Gyh8ZwVr6ekU"
+        }
+      ],
+      "duration_ms": 252603,
+      "name": "Armatron",
+      "url": "https://open.spotify.com/track/05x6pBQelgwQJs3ZeVfdEC"
     },
     {
       "added_at": "2024-02-16 05:00:00",
@@ -1295,18 +1295,22 @@
     {
       "added_at": "2024-02-16 05:00:00",
       "album": {
-        "name": "Death Of A Fantasy",
-        "url": "https://open.spotify.com/album/52hdobxNdIURg1z3iP1tic"
+        "name": "IDFLU",
+        "url": "https://open.spotify.com/album/139FdSB8EJfPzBhZiU6QSf"
       },
       "artists": [
         {
-          "name": "Lauren Sanderson",
-          "url": "https://open.spotify.com/artist/06vRrrjT3DBRkhBlXoBdYj"
+          "name": "Silent Child",
+          "url": "https://open.spotify.com/artist/59XQUEHhy5830QsAsmhe2M"
+        },
+        {
+          "name": "DREAMERS",
+          "url": "https://open.spotify.com/artist/1FgsVeOhRYuSw2ghkIXV0A"
         }
       ],
-      "duration_ms": 133186,
-      "name": "THERAPY!",
-      "url": "https://open.spotify.com/track/1Mm3g0AaApb6QMMphK8n9V"
+      "duration_ms": 172235,
+      "name": "IDFLU",
+      "url": "https://open.spotify.com/track/4btPFFVz1aZ7RtrIIwe23t"
     },
     {
       "added_at": "2024-02-16 05:00:00",
@@ -1331,22 +1335,18 @@
     {
       "added_at": "2024-02-16 05:00:00",
       "album": {
-        "name": "IDFLU",
-        "url": "https://open.spotify.com/album/139FdSB8EJfPzBhZiU6QSf"
+        "name": "Death Of A Fantasy",
+        "url": "https://open.spotify.com/album/52hdobxNdIURg1z3iP1tic"
       },
       "artists": [
         {
-          "name": "Silent Child",
-          "url": "https://open.spotify.com/artist/59XQUEHhy5830QsAsmhe2M"
-        },
-        {
-          "name": "DREAMERS",
-          "url": "https://open.spotify.com/artist/1FgsVeOhRYuSw2ghkIXV0A"
+          "name": "Lauren Sanderson",
+          "url": "https://open.spotify.com/artist/06vRrrjT3DBRkhBlXoBdYj"
         }
       ],
-      "duration_ms": 172235,
-      "name": "IDFLU",
-      "url": "https://open.spotify.com/track/4btPFFVz1aZ7RtrIIwe23t"
+      "duration_ms": 133186,
+      "name": "THERAPY!",
+      "url": "https://open.spotify.com/track/1Mm3g0AaApb6QMMphK8n9V"
     },
     {
       "added_at": "2024-02-16 05:00:00",
@@ -1707,6 +1707,22 @@
     {
       "added_at": "2024-02-16 05:00:00",
       "album": {
+        "name": "flowers",
+        "url": "https://open.spotify.com/album/10dsPoEePt3UB4WWR2N2Oz"
+      },
+      "artists": [
+        {
+          "name": "phem",
+          "url": "https://open.spotify.com/artist/0MGJHTThvyAyqKuEAgPqDr"
+        }
+      ],
+      "duration_ms": 161322,
+      "name": "flowers",
+      "url": "https://open.spotify.com/track/4SBECfkTJOnZFj9A8gzUQy"
+    },
+    {
+      "added_at": "2024-02-16 05:00:00",
+      "album": {
         "name": "Miracle, Baby",
         "url": "https://open.spotify.com/album/4OEXo5dPHC8m3h3um07mL0"
       },
@@ -1735,22 +1751,6 @@
       "duration_ms": 203200,
       "name": "peachy",
       "url": "https://open.spotify.com/track/3sAqyVG6b5dyqIYujvUsxS"
-    },
-    {
-      "added_at": "2024-02-16 05:00:00",
-      "album": {
-        "name": "flowers",
-        "url": "https://open.spotify.com/album/10dsPoEePt3UB4WWR2N2Oz"
-      },
-      "artists": [
-        {
-          "name": "phem",
-          "url": "https://open.spotify.com/artist/0MGJHTThvyAyqKuEAgPqDr"
-        }
-      ],
-      "duration_ms": 161322,
-      "name": "flowers",
-      "url": "https://open.spotify.com/track/4SBECfkTJOnZFj9A8gzUQy"
     },
     {
       "added_at": "2024-02-16 05:00:00",

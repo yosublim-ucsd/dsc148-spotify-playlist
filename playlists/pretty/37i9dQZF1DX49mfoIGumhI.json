@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Vive la salsa de los '80! El Gran Combo de Puerto Rico en portada.",
-  "num_followers": 194742,
+  "num_followers": 194895,
   "original_name": "Salsa: Los '80",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxZTY1ZmVjZDgyZjMyNmJmMzExNTk5NjIzYWViYTAwNjBlYjJkMzQ3",
+  "snapshot_id": "MCw0NDhlZDVlODQzZDY1MDgwYmRmMjU5OWMwNGRkYzJlNjc4YTY5OGQz",
   "tracks": [
     {
       "added_at": "2022-12-30 20:18:36",
@@ -739,22 +739,6 @@
     {
       "added_at": "2022-12-30 20:18:36",
       "album": {
-        "name": "Viva Rosario",
-        "url": "https://open.spotify.com/album/68Gx7E0QgelZ6Uvpo9PWzB"
-      },
-      "artists": [
-        {
-          "name": "Willie Rosario",
-          "url": "https://open.spotify.com/artist/24qSVomYxpfAFwzBnKCc8J"
-        }
-      ],
-      "duration_ms": 301010,
-      "name": "Anuncio Clasificado / D\u00e1melo",
-      "url": "https://open.spotify.com/track/3kqapvD6gg0TlUeqinOX9u"
-    },
-    {
-      "added_at": "2022-12-30 20:18:36",
-      "album": {
         "name": "Aqui Estoy Yo",
         "url": "https://open.spotify.com/album/0fPICPWeindghNQxlegLQB"
       },
@@ -767,6 +751,22 @@
       "duration_ms": 322360,
       "name": "Si Me Dejas Amarte",
       "url": "https://open.spotify.com/track/6WECgPu7PHErTFnehoRSc8"
+    },
+    {
+      "added_at": "2022-12-30 20:18:36",
+      "album": {
+        "name": "Viva Rosario",
+        "url": "https://open.spotify.com/album/68Gx7E0QgelZ6Uvpo9PWzB"
+      },
+      "artists": [
+        {
+          "name": "Willie Rosario",
+          "url": "https://open.spotify.com/artist/24qSVomYxpfAFwzBnKCc8J"
+        }
+      ],
+      "duration_ms": 301010,
+      "name": "Anuncio Clasificado / D\u00e1melo",
+      "url": "https://open.spotify.com/track/3kqapvD6gg0TlUeqinOX9u"
     },
     {
       "added_at": "2022-12-30 20:18:36",

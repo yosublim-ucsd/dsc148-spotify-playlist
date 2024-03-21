@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX18t8d8JUxUC.md) - [plain]
 
 > This is what folk sounds like en español\. Cover: Kevin Kaarl
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,847 likes - 75 songs - 4 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,874 likes - 75 songs - 4 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,9 +46,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX18t8d8JUxUC.md) - [plain]
 | 36 | [Soñé Contigo](https://open.spotify.com/track/6VT2jR1Y4KLCXKZVo1JiQU) | [Carlos Sadness](https://open.spotify.com/artist/2LCcy9CZWwZ7Vvykt8IVVq), [Marco Mares](https://open.spotify.com/artist/5Eg5ZoZgXAa1Eit48sxoKQ) | [Soñé Contigo](https://open.spotify.com/album/2lQYMqZIVFR1DfnF3XKJmZ) | 3:31 |
 | 37 | [El Baile](https://open.spotify.com/track/6ABaTYAx9k8d0v9NSZ9uYS) | [Pedro Pastor](https://open.spotify.com/artist/12L0n6FPcTKBtKvWcFEbmP), [Los Locos Descalzos](https://open.spotify.com/artist/2EPApWYEyXYCw5YbtADEWS), [Perotá Chingó](https://open.spotify.com/artist/5cMTiWeaWidGI8hVoZY8Ox) | [Vulnerables](https://open.spotify.com/album/7sJGGvXAGPGDjqzgzjlDIl) | 3:30 |
 | 38 | [mis compas tan aquí](https://open.spotify.com/track/10XdrDNjsIHsUjzHvDgB2X) | [Kevin Kaarl](https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE) | [mis compas tan aquí](https://open.spotify.com/album/1JcpI1H2VNu2q9Gk3TjUJN) | 3:50 |
-| 39 | [La Casa de Mis Papás](https://open.spotify.com/track/57uar5nkiQYNc97olkS1LJ) | [Andrés Obregón](https://open.spotify.com/artist/0AQMbCYt6y84wEHGzScKve) | [La Casa de Mis Papás](https://open.spotify.com/album/4fDVPUDYYSLk6g3WWoZUzG) | 2:56 |
-| 40 | [Love Song \- Helado Negro Remix](https://open.spotify.com/track/2PKJ88Ap4ebLFxJ4lwAGRF) | [Devendra Banhart](https://open.spotify.com/artist/1YZEoYFXx4AxVv13OiOPvZ), [Helado Negro](https://open.spotify.com/artist/69qhRLDvsWJOhWGXXQ0lQQ) | [Love Song \(Helado Negro Remix\)](https://open.spotify.com/album/2p5v0LukKFqgNeLsNPVqYF) | 4:19 |
-| 41 | [Dos Soledades](https://open.spotify.com/track/2c6xAssXKcQ9NbcrMguJ5O) | [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [Algo Sucede](https://open.spotify.com/album/1E7C32U8IgXEOPAUg5uNpm) | 3:10 |
+| 39 | [Dos Soledades](https://open.spotify.com/track/2c6xAssXKcQ9NbcrMguJ5O) | [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [Algo Sucede](https://open.spotify.com/album/1E7C32U8IgXEOPAUg5uNpm) | 3:10 |
+| 40 | [La Casa de Mis Papás](https://open.spotify.com/track/57uar5nkiQYNc97olkS1LJ) | [Andrés Obregón](https://open.spotify.com/artist/0AQMbCYt6y84wEHGzScKve) | [La Casa de Mis Papás](https://open.spotify.com/album/4fDVPUDYYSLk6g3WWoZUzG) | 2:56 |
+| 41 | [Love Song \- Helado Negro Remix](https://open.spotify.com/track/2PKJ88Ap4ebLFxJ4lwAGRF) | [Devendra Banhart](https://open.spotify.com/artist/1YZEoYFXx4AxVv13OiOPvZ), [Helado Negro](https://open.spotify.com/artist/69qhRLDvsWJOhWGXXQ0lQQ) | [Love Song \(Helado Negro Remix\)](https://open.spotify.com/album/2p5v0LukKFqgNeLsNPVqYF) | 4:19 |
 | 42 | [¿Y Si Te Invito?](https://open.spotify.com/track/0foW7sax16CI8UizVAek32) | [Axel Márquez](https://open.spotify.com/artist/0nY0rYPHRYTji024zspDCw) | [¿Y Si Te Invito?](https://open.spotify.com/album/2OV0dtRMPMLrL1kdEQCdTR) | 3:06 |
 | 43 | [Ojos Del Sol](https://open.spotify.com/track/2gke8YaJQur5OpkWAeIMdz) | [Y La Bamba](https://open.spotify.com/artist/6eb2gxfoBSQhmDYkQKz93b) | [Ojos Del Sol](https://open.spotify.com/album/1bv229IwMr6O2Id5jVZqmc) | 4:05 |
 | 44 | [Norte](https://open.spotify.com/track/14DdKjlEHuI1DlSS8aKW0o) | [Inazio](https://open.spotify.com/artist/29KrMIwUUqCvc66OHLcSMl) | [Norte](https://open.spotify.com/album/7rFobKKdxE3gRflCho8mUY) | 3:10 |
@@ -70,8 +70,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX18t8d8JUxUC.md) - [plain]
 | 60 | [A las 9:05](https://open.spotify.com/track/17NFVJcGuyMnATW0VyWYPW) | [Gonzalo Ávila](https://open.spotify.com/artist/4PuwS1TZc8ybMnXxgUIOn6) | [Mi Otra Mitad](https://open.spotify.com/album/2yj8afBHgfBKRUBKC7t5j3) | 4:04 |
 | 61 | [Una Vez Más](https://open.spotify.com/track/6OOxQbWcBMCcucTsQnS7yu) | [Abel Pintos](https://open.spotify.com/artist/6HTUcOExehqydqa7C3usAa) | [Una Vez Más](https://open.spotify.com/album/4MMZysMSiZxdQo34c2r8Gi) | 3:37 |
 | 62 | [El Hombre Que Casi Conoció a Michi Panero](https://open.spotify.com/track/4DLQ9mWBFWj7XjpQk1FtmP) | [Nacho Vegas](https://open.spotify.com/artist/14CMndDKSsMSvZYXFLZRfn) | [Desaparezca Aquí](https://open.spotify.com/album/2L8X2C1ySndk4McTP6lfpf) | 5:45 |
-| 63 | [Nada Para Ti](https://open.spotify.com/track/6EKLpV51tSY9SmMgwdb42W) | [Francisca Valenzuela](https://open.spotify.com/artist/2piHiUbXwUNNIvYyIOIUKt), [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [Nada Para Ti](https://open.spotify.com/album/5G9mAcnZnP9F1WdqiY370t) | 3:56 |
-| 64 | [Cruel](https://open.spotify.com/track/6uEp0bnK53pn0RKs5575wK) | [Wuicho kun](https://open.spotify.com/artist/5WXiEvcwEw6bgiPBg7Eo2E) | [Cruel](https://open.spotify.com/album/6sQm9L7CZiYSYdy8EZBENA) | 3:44 |
+| 63 | [Cruel](https://open.spotify.com/track/6uEp0bnK53pn0RKs5575wK) | [Wuicho kun](https://open.spotify.com/artist/5WXiEvcwEw6bgiPBg7Eo2E) | [Cruel](https://open.spotify.com/album/6sQm9L7CZiYSYdy8EZBENA) | 3:44 |
+| 64 | [Nada Para Ti](https://open.spotify.com/track/6EKLpV51tSY9SmMgwdb42W) | [Francisca Valenzuela](https://open.spotify.com/artist/2piHiUbXwUNNIvYyIOIUKt), [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [Nada Para Ti](https://open.spotify.com/album/5G9mAcnZnP9F1WdqiY370t) | 3:56 |
 | 65 | [El Invento](https://open.spotify.com/track/7daItyBA4UqHyFItCVgzBn) | [José González](https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI) | [El Invento](https://open.spotify.com/album/1XhI1Bcby2CSogky3EiENa) | 2:33 |
 | 66 | [Cósmosis](https://open.spotify.com/track/3vttNxDd4DyFbOJqCsuklx) | [Briela Ojeda](https://open.spotify.com/artist/1MbehwcqhGMlU79kDBYOxo) | [Cósmosis](https://open.spotify.com/album/6NESna540i2qvjwpeUmEhx) | 4:06 |
 | 67 | [Remedios](https://open.spotify.com/track/6eBpT9aFPfbScHKnhD9PoC) | [Club del Río](https://open.spotify.com/artist/31EwjdXVakSHf2RiDPGGVD) | [Sustancia](https://open.spotify.com/album/2vBjII9ynrhuvVbR0mJYiw) | 4:55 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX18t8d8JUxUC.md) - [plain]
 | 74 | [Hace rato](https://open.spotify.com/track/0QoKaa9fZSFmz9R61OVkTR) | [Sofía Campos](https://open.spotify.com/artist/2CDQX14Dm9L7YAyJKfLOe5) | [Lisboa](https://open.spotify.com/album/4RRb4w2jbfNesupImVAMvW) | 3:16 |
 | 75 | [azul](https://open.spotify.com/track/0KqWGI9OozmFKkHAIRdQ27) | [Marco Mares](https://open.spotify.com/artist/5Eg5ZoZgXAa1Eit48sxoKQ), [Vacación](https://open.spotify.com/artist/0VDRX95OX96cR7q15oaXgd) | [azul](https://open.spotify.com/album/4OapkPqaM7mbksJL8WjinK) | 2:45 |
 
-Snapshot ID: `MCxlZjcxNmRkYTk4NGYzYWE3YzIwODQxYTM2YThhMzZkZjg2ZDlkODZh`
+Snapshot ID: `MCw5MWI0MjA0YTAyNzg1ZTM1MDU4MDVmY2ZiOWE5ZjMzNTgwZjY3NzRi`

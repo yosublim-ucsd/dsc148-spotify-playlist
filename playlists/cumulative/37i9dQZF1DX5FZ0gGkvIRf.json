@@ -2492,7 +2492,7 @@
     {
       "album": {
         "name": "Hard Reset",
-        "url": "https://open.spotify.com/album/5H49CClHBLpUgyKN8ZCour"
+        "url": "https://open.spotify.com/album/17cbasTWOvRFtMoHb7aiHm"
       },
       "artists": [
         {
@@ -2507,6 +2507,28 @@
       "date_added": "2023-11-29",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 223800,
+      "name": "One Of Us",
+      "url": "https://open.spotify.com/track/2Os6Vp6QlErl2E5hwfdrUh"
+    },
+    {
+      "album": {
+        "name": "Hard Reset",
+        "url": "https://open.spotify.com/album/5H49CClHBLpUgyKN8ZCour"
+      },
+      "artists": [
+        {
+          "name": "The Word Alive",
+          "url": "https://open.spotify.com/artist/1CF8aEN939swnuIZGFI7Hk"
+        },
+        {
+          "name": "Bad Omens",
+          "url": "https://open.spotify.com/artist/3Ri4H12KFyu98LMjSoij5V"
+        }
+      ],
+      "date_added": "2023-11-29",
+      "date_added_asterisk": false,
+      "date_removed": "2024-03-21",
       "duration_ms": 223800,
       "name": "One Of Us",
       "url": "https://open.spotify.com/track/33jSdWZrZmhQt2MYQBJgm9"

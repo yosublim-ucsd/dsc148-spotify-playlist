@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUgBy0IJPlHq.md) - [plain]
 
 > A new shade of Country\. Cover: Big Thief
 
-[Spotify](https://open.spotify.com/user/spotify) - 508,844 likes - 100 songs - 5 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 508,989 likes - 100 songs - 5 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,7 +47,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUgBy0IJPlHq.md) - [plain]
 | 37 | [Till I Return](https://open.spotify.com/track/5bi8RvkKme1gAWymqVbhSR) | [Sam Barber](https://open.spotify.com/artist/08GfvCW09pv2QP4y9sle2a) | [Million Eyes](https://open.spotify.com/album/5jrPhnzA00KBWc3bJJUqTY) | 3:36 |
 | 38 | [Russell County Line](https://open.spotify.com/track/68i0Y8xMaYxLHSeUu4uWtA) | [49 Winchester](https://open.spotify.com/artist/1JWMpIl0nhqFJNdO3IOQ20) | [Fortune Favors the Bold](https://open.spotify.com/album/1u5IKTsfXmfqqRbtOkHZWw) | 4:09 |
 | 39 | [$10 Cowboy](https://open.spotify.com/track/0wkAesjWf52ubUT4ZK8VN0) | [Charley Crockett](https://open.spotify.com/artist/3BJX1nYizKvWpZTY5HOAr4) | [$10 Cowboy](https://open.spotify.com/album/0wuHhJqV63y0KGQ2nNod2S) | 3:35 |
-| 40 | [Deeper Well](https://open.spotify.com/track/2lJn77IeZAP9cmv6DPXOrL) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Deeper Well](https://open.spotify.com/album/2NXiMKrwmPrqU8epp20pW8) | 3:52 |
+| 40 | [Deeper Well](https://open.spotify.com/track/333XFHKsHU0pOocFzBgrJi) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Deeper Well](https://open.spotify.com/album/5SxZmGwc4eJuPp6PcO4JgJ) | 3:52 |
 | 41 | [In Your Love](https://open.spotify.com/track/1olWQ1LOUYs4VBwx5N8Lz9) | [Tyler Childers](https://open.spotify.com/artist/13ZEDW6vyBF12HYcZRr4EV) | [In Your Love](https://open.spotify.com/album/2LmPlAxpD5cS5ne6dQvxbc) | 3:45 |
 | 42 | [Grief is Only Love](https://open.spotify.com/track/3ahuBtIP8Hh1n5L8jUUzXD) | [Stephen Wilson Jr.](https://open.spotify.com/artist/4DSDa4HvAWqvb3dMHUOAfd) | [søn of dad](https://open.spotify.com/album/1yoC2Wq50qymZj5HyF2z2A) | 4:25 |
 | 43 | [Press On](https://open.spotify.com/track/0pfcSDN5SE7WBG5DNaSBLs) | [John R\. Miller](https://open.spotify.com/artist/6VPZjyyur7ltEgkFdMnvz4) | [Heat Comes Down](https://open.spotify.com/album/6VcQbbneWsPFS89mH5QWqN) | 3:37 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUgBy0IJPlHq.md) - [plain]
 | 99 | [Quite Like You](https://open.spotify.com/track/0KVeQWIL6r8ALPy6Lxjlx6) | [Shane Smith & the Saints](https://open.spotify.com/artist/4pLxUMyDrijXynrUP59whJ) | [Coast](https://open.spotify.com/album/3Q6idrlnc5UQwg1RKKIglL) | 4:12 |
 | 100 | [You Asked Me To](https://open.spotify.com/track/3REizsPkpELxQkvl9EZNiE) | [Nathaniel Rateliff](https://open.spotify.com/artist/4qKpLkR911SUlnd4HAtF79) | [Live Forever: A Tribute To Billy Joe Shaver](https://open.spotify.com/album/357DuDjcyqJ0wHxX4uPPL4) | 2:51 |
 
-Snapshot ID: `MCwwMmRkNjZlZjc0NzZmNGI4NzgyMDM1MGE2NjNjMTM3ODdiZDU4Y2M1`
+Snapshot ID: `MCxjOTAxMTU2ZTk2YTdjNWJkODFkZjQyYWZhOTUzMDFmZjE5YjEwY2I4`

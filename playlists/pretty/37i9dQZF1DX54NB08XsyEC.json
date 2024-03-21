@@ -1,12 +1,12 @@
 {
   "description": "eh na sola da bota eh na palma da mao / Beyonc\u00e9",
-  "num_followers": 391057,
+  "num_followers": 391190,
   "original_name": "pov",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmMDFiYTljODllYzA3ZDUxN2QwZTYzYTJlYzRmYzI0YzRhMTBlNjlk",
+  "snapshot_id": "MCw2YWM0MWZiZGVjNmRlYmUzNzA5NTVkMjkwMzJhNDQ3YWFkODFjNzBk",
   "tracks": [
     {
       "added_at": "2024-03-19 13:28:45",
@@ -511,6 +511,22 @@
     {
       "added_at": "2024-03-19 13:28:45",
       "album": {
+        "name": "SNAP",
+        "url": "https://open.spotify.com/album/4fb1QzgTJpTk9TBjFzjmlR"
+      },
+      "artists": [
+        {
+          "name": "Rosa Linn",
+          "url": "https://open.spotify.com/artist/46xBNx0j6cwY6sD9LgMTm1"
+        }
+      ],
+      "duration_ms": 179551,
+      "name": "SNAP",
+      "url": "https://open.spotify.com/track/76OGwb5RA9h4FxQPT33ekc"
+    },
+    {
+      "added_at": "2024-03-19 13:28:45",
+      "album": {
         "name": "Seven (feat. Latto)",
         "url": "https://open.spotify.com/album/53985D8g3JcGBoULSOYYKX"
       },
@@ -527,22 +543,6 @@
       "duration_ms": 184400,
       "name": "Seven (feat. Latto)",
       "url": "https://open.spotify.com/track/7x9aauaA9cu6tyfpHnqDLo"
-    },
-    {
-      "added_at": "2024-03-19 13:28:45",
-      "album": {
-        "name": "SNAP",
-        "url": "https://open.spotify.com/album/4fb1QzgTJpTk9TBjFzjmlR"
-      },
-      "artists": [
-        {
-          "name": "Rosa Linn",
-          "url": "https://open.spotify.com/artist/46xBNx0j6cwY6sD9LgMTm1"
-        }
-      ],
-      "duration_ms": 179551,
-      "name": "SNAP",
-      "url": "https://open.spotify.com/track/76OGwb5RA9h4FxQPT33ekc"
     },
     {
       "added_at": "2024-03-19 13:28:45",

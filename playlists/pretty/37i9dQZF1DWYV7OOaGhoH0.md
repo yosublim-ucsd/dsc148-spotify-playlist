@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYV7OOaGhoH0.md) - [plain]
 
 > The best in folk & acoustic today featuring music from Lizzy McAlpine
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,836,869 likes - 100 songs - 6 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,836,908 likes - 100 songs - 6 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYV7OOaGhoH0.md) - [plain]
 | 19 | [That Golden Time](https://open.spotify.com/track/4ibEdioMP3DAJpOxxY1n60) | [Villagers](https://open.spotify.com/artist/2m1l9MLSslzup4vvokKgvQ) | [That Golden Time](https://open.spotify.com/album/0B03CUw8Fjc55sStCn7ZM6) | 4:50 |
 | 20 | [Photographs](https://open.spotify.com/track/7KgqQSXtlh5WIAx1I1ojYG) | [Hollow Coves](https://open.spotify.com/artist/7IAFAOtc9kTYNTizhLSWM6) | [Photographs](https://open.spotify.com/album/6rs2QN468iECIWJ7tTJ6Ka) | 2:52 |
 | 21 | [Scared To Start](https://open.spotify.com/track/3Pbp7cUCx4d3OAkZSCoNvn) | [Michael Marcagi](https://open.spotify.com/artist/4j96cMcT8GRi11qbvo1cLQ) | [Scared To Start](https://open.spotify.com/album/3NpeIWhWsxU7d3XL5KEh39) | 2:39 |
-| 22 | [Deeper Well](https://open.spotify.com/track/2lJn77IeZAP9cmv6DPXOrL) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Deeper Well](https://open.spotify.com/album/2NXiMKrwmPrqU8epp20pW8) | 3:52 |
+| 22 | [Deeper Well](https://open.spotify.com/track/333XFHKsHU0pOocFzBgrJi) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Deeper Well](https://open.spotify.com/album/5SxZmGwc4eJuPp6PcO4JgJ) | 3:52 |
 | 23 | [Black Friday](https://open.spotify.com/track/1XTY6rA7XQosc0ynkkE9kN) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Black Friday](https://open.spotify.com/album/0BdmqjXLz0L6gF78ldUYHp) | 3:41 |
 | 24 | [No Complaints](https://open.spotify.com/track/2D2rLS5IBt2EzDajhtuHZR) | [Prateek Kuhad](https://open.spotify.com/artist/0tC995Rfn9k2l7nqgCZsV7) | [No Complaints](https://open.spotify.com/album/42xj07uXecDQBFGUcEVfwx) | 3:07 |
 | 25 | [Forever](https://open.spotify.com/track/0FlwhvrncUKrEAhzunmCKm) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Stick Season \(Forever\)](https://open.spotify.com/album/3qBWNcWifNhUKJAWzswdJY) | 4:28 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYV7OOaGhoH0.md) - [plain]
 | 99 | [Find Your People](https://open.spotify.com/track/6GuyIXoGIaTw1Pg6Ug9enJ) | [Drew Holcomb & The Neighbors](https://open.spotify.com/artist/4RwbDag6jWIYJnEGH6Wte9) | [Find Your People](https://open.spotify.com/album/1a2RJNW9AkEtgK4Pt3hUlY) | 3:14 |
 | 100 | [I Can't Get My Head Around You](https://open.spotify.com/track/6lLYb9KBshbR8Wp5hoWmUW) | [Billie Marten](https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7) | [I Can't Get My Head Around You](https://open.spotify.com/album/7yyWIkHQjDMsH8ij1Nuj6e) | 3:26 |
 
-Snapshot ID: `MCxiNzY3ZWNmZDAwMzlkMGFkOWY5ZWFlYzgxM2E5NzVjYjNhODE3YWI3`
+Snapshot ID: `MCxhZDY4MTViZDJkZmExMzdjZDdjMmMyZDFiMGYxNDc4MmRmOWM5ZTQ1`

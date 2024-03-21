@@ -4,7 +4,7 @@
 
 > The premier alternative melancholia playlist, featuring Billie Eilish.
 
-373 songs - 1 day 1 hr 15 min
+374 songs - 1 day 1 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -152,7 +152,8 @@
 | [I Need My Girl](https://open.spotify.com/track/7rbCL7W893Zonbfnevku5s) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB) | [Trouble Will Find Me](https://open.spotify.com/album/2JhR4tjuc3MIKa8v2JaKze) | 4:05 | 2020-05-15 | 2022-07-29 |
 | [I Should Live in Salt](https://open.spotify.com/track/4kFmM894Q4sgHDl4pZalza) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB) | [Trouble Will Find Me](https://open.spotify.com/album/4OI9hKTm1QMRQunqHCfSSL) | 4:08 | 2021-10-14 |  |
 | [I Want to Capture Your Heart](https://open.spotify.com/track/2ZEpf3jo41VPpUABI6AwRr) | [Trashcan Sinatras](https://open.spotify.com/artist/0i2IEcWvtHUBYPkYWwCgjC) | [Wild Pendulum](https://open.spotify.com/album/6QIPDLMvmy2r8qQXsOP3VG) | 3:31 | 2020-08-30 | 2020-09-11 |
-| [i was all over her](https://open.spotify.com/track/7svpAkwc6xaSxlbZ7V7JiS) | [salvia palth](https://open.spotify.com/artist/0pg0Zm8FsGAYy5kdHuBnSo) | [melanchole](https://open.spotify.com/album/23KJrzHF1IBfjzpRgTtaJx) | 2:41 | 2024-02-12 |  |
+| [i was all over her](https://open.spotify.com/track/6mSnSuOhgHHohqeBw76jRV) | [salvia palth](https://open.spotify.com/artist/0pg0Zm8FsGAYy5kdHuBnSo) | [melanchole](https://open.spotify.com/album/10WzRaNWnFUQNrW2FpqQSQ) | 2:41 | 2024-03-08 |  |
+| [i was all over her](https://open.spotify.com/track/7svpAkwc6xaSxlbZ7V7JiS) | [salvia palth](https://open.spotify.com/artist/0pg0Zm8FsGAYy5kdHuBnSo) | [melanchole](https://open.spotify.com/album/23KJrzHF1IBfjzpRgTtaJx) | 2:41 | 2024-02-12 | 2024-03-21 |
 | [I Will Follow You into the Dark](https://open.spotify.com/track/3kZC0ZmFWrEHdUCmUqlvgZ) | [Death Cab for Cutie](https://open.spotify.com/artist/0YrtvWJMgSdVrk3SfNjTbx) | [Plans](https://open.spotify.com/album/1NFGnxmeIEBakre4DvLaJq) | 3:09 | 2023-08-17 |  |
 | [I'll Be Around](https://open.spotify.com/track/4I5kQyAYTvwHEIiZIP8B2j) | [Yo La Tengo](https://open.spotify.com/artist/5hAhrnb0Ch4ODwWu4tsbpi) | [Fade](https://open.spotify.com/album/7cReNgYN2wNYsj78NB67ut) | 4:47 | 2019-09-29\* | 2022-04-10 |
 | [I'll Suffer](https://open.spotify.com/track/7KbpGYolLrMabebVkYy83Q) | [Barbara Lynn](https://open.spotify.com/artist/2wQyX5625x6IGls8zLLHMB) | [The Atlantic Collection](https://open.spotify.com/album/0mA1ODJnIQ7E8Il4BdaHZ6) | 3:04 | 2020-08-30 | 2020-09-11 |

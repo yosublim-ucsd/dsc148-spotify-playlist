@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbU2HfvNSMTH.md) - [plain]
 
 > The songs of the 1980s that will make you dance all summer long!
 
-[Spotify](https://open.spotify.com/user/spotify) - 249,990 likes - 75 songs - 5 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 250,172 likes - 75 songs - 5 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbU2HfvNSMTH.md) - [plain]
 | 74 | [Need You Tonight](https://open.spotify.com/track/5eU8qMd0TpaLqTGDZJaLDs) | [INXS](https://open.spotify.com/artist/1eClJfHLoDI4rZe5HxzBFv) | [Kick](https://open.spotify.com/album/7cuwWzS0oiApEt2fpKafkX) | 3:00 |
 | 75 | [Once in a Lifetime \- 2005 Remaster](https://open.spotify.com/track/38Ngied9rBORlAbLYNCl4k) | [Talking Heads](https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC) | [Remain in Light \(Deluxe Version\)](https://open.spotify.com/album/3AQgdwMNCiN7awXch5fAaG) | 4:19 |
 
-Snapshot ID: `MCxiMTk0OTkzMDc3ZDIyZmU3ZTMyMWJhNzlkNWQ2MGU3NzIzMzhlYzhk`
+Snapshot ID: `MCwwMGZmZTNiNDEyYjUxZTEzNWYzZTRiNjY5YWE4MTY2NDk5MmM2MGFk`

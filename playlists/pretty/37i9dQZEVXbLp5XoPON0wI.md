@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbLp5XoPON0wI.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- USA.
 
-[Spotify](https://open.spotify.com/user/spotify) - 235,993 likes - 50 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 236,084 likes - 50 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbLp5XoPON0wI.md) - [plain]
 | 49 | [act ii: date @ 8](https://open.spotify.com/track/4HMop4Re0iucehmF7mgV27) | [4batz](https://open.spotify.com/artist/5fi7lIgJGH3RgUpJYcffQ7) | [act ii: date @ 8](https://open.spotify.com/album/77SuFKKJ3OY3ZgvuQNBiFA) | 1:53 |
 | 50 | [You Proof](https://open.spotify.com/track/5W4kiM2cUYBJXKRudNyxjW) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [One Thing At A Time](https://open.spotify.com/album/6i7mF7whyRJuLJ4ogbH2wh) | 2:37 |
 
-Snapshot ID: `NzY0MjEyODAwLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=`
+Snapshot ID: `NzY0Mjk5MjAwLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=`

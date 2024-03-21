@@ -1,12 +1,12 @@
 {
   "description": "Ya que el amor, de m\u00fasica ligera #ZodiacoSpotify Foto: Sebasti\u00e1n Yatra",
-  "num_followers": 72443,
+  "num_followers": 72458,
   "original_name": "Libra",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4ZGE5NjA4OGRjZDkzMzlkYzNmNDhjNmM5MmJlNzM3N2E3ODBhYzRi",
+  "snapshot_id": "MCxhZGQ2NDFmODJhMzVjNTI4ZDliZWM2MzNlMWM5ZWRkNjg2ZDQ3M2Q2",
   "tracks": [
     {
       "added_at": "2020-06-15 23:32:26",
@@ -207,22 +207,6 @@
     {
       "added_at": "2020-06-15 23:32:26",
       "album": {
-        "name": "Happy Together",
-        "url": "https://open.spotify.com/album/2pMxs38Y5A0mmHrcu3twvB"
-      },
-      "artists": [
-        {
-          "name": "The Turtles",
-          "url": "https://open.spotify.com/artist/2VIoWte1HPDbZ2WqHd2La7"
-        }
-      ],
-      "duration_ms": 176293,
-      "name": "Happy Together",
-      "url": "https://open.spotify.com/track/1JO1xLtVc8mWhIoE3YaCL0"
-    },
-    {
-      "added_at": "2020-06-15 23:32:26",
-      "album": {
         "name": "thank u, next",
         "url": "https://open.spotify.com/album/2fYhqwDWXjbpjaIJPEfKFw"
       },
@@ -235,6 +219,22 @@
       "duration_ms": 190440,
       "name": "break up with your girlfriend, i'm bored",
       "url": "https://open.spotify.com/track/4kV4N9D1iKVxx1KLvtTpjS"
+    },
+    {
+      "added_at": "2020-06-15 23:32:26",
+      "album": {
+        "name": "Happy Together",
+        "url": "https://open.spotify.com/album/2pMxs38Y5A0mmHrcu3twvB"
+      },
+      "artists": [
+        {
+          "name": "The Turtles",
+          "url": "https://open.spotify.com/artist/2VIoWte1HPDbZ2WqHd2La7"
+        }
+      ],
+      "duration_ms": 176293,
+      "name": "Happy Together",
+      "url": "https://open.spotify.com/track/1JO1xLtVc8mWhIoE3YaCL0"
     },
     {
       "added_at": "2020-06-15 23:32:26",

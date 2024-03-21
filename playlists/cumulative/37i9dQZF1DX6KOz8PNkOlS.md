@@ -4,7 +4,7 @@
 
 > Transform your workspace into a cozy retreat with gentle tunes and warm vibes
 
-132 songs - 8 hr 3 min
+133 songs - 8 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,6 +32,7 @@
 | [Coming to Get You Nowhere](https://open.spotify.com/track/2pvTzDOIibESGP5usDO0rG) | [This Is The Kit](https://open.spotify.com/artist/0ZUyFEafMwocvApBjTXvdo) | [Off Off On](https://open.spotify.com/album/1X8kC5D2ke7puDYgalJtXj) | 3:20 | 2021-10-15 |  |
 | [CooCool](https://open.spotify.com/track/3dnvnjQ68HF7txZcVYbAq9) | [Róisín Murphy](https://open.spotify.com/artist/3qwabfaWewpfli7hMNM3O8) | [You Knew](https://open.spotify.com/album/4tLFvD4QztjXYCRRyNeE0g) | 4:31 | 2023-06-02 | 2024-03-18 |
 | [CooCool](https://open.spotify.com/track/6NRNXenSNtuo5vVkuAq7EN) | [Róisín Murphy](https://open.spotify.com/artist/3qwabfaWewpfli7hMNM3O8), [DJ Koze](https://open.spotify.com/artist/1kR99O4MgSTasyeJh8UFCg) | [The Universe](https://open.spotify.com/album/2JKrj31ZTIjy8voQ7azDzC) | 4:31 | 2023-06-02 | 2024-03-15 |
+| [CooCool](https://open.spotify.com/track/77v3whD60OC0g4RePlHDhT) | [Róisín Murphy](https://open.spotify.com/artist/3qwabfaWewpfli7hMNM3O8), [DJ Koze](https://open.spotify.com/artist/1kR99O4MgSTasyeJh8UFCg) | [You Knew](https://open.spotify.com/album/26QAdfI4TGJ3eyOoDfs4sS) | 4:31 | 2023-06-02 |  |
 | [Cut Me](https://open.spotify.com/track/1A2BT8JYVRjsKdswwvWXG6) | [Moses Sumney](https://open.spotify.com/artist/5W10uJRsbt9bROJDKoI1Wn) | [græ](https://open.spotify.com/album/1iYsYnkc0Bccy66X4GQ2tm) | 4:10 | 2021-10-15 |  |
 | [D>E>A>T>H>M>E>T>A>L](https://open.spotify.com/track/4sIFi8LpJWPvI5xviWFyA6) | [Panchiko](https://open.spotify.com/artist/4KEHIUSoWCcqrk8AddTE1O) | [D>E>A>T>H>M>E>T>A>L](https://open.spotify.com/album/2MASm01cgG0a0CgioQpe6Q) | 4:21 | 2023-04-13 | 2023-12-21 |
 | [Distance](https://open.spotify.com/track/08W9Md8HXeJrx3omSQE2NF) | [Yebba](https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F) | [Distance](https://open.spotify.com/album/5CMAmUz6cXCAyOutxsyYXC) | 4:15 | 2021-10-15 |  |
@@ -48,7 +49,7 @@
 | [feather light](https://open.spotify.com/track/3Xkc6ySTZoa4DPa3rrN2ni) | [santpoort](https://open.spotify.com/artist/7KtVS0f2RQoEhjxDcSGBtJ), [Little Green](https://open.spotify.com/artist/0Kcz7AMOkHHye7xhLJUWTy) | [ocean tales](https://open.spotify.com/album/0ENr07q7h0vsydKinh36FM) | 3:08 | 2022-01-12 |  |
 | [Fight for Love](https://open.spotify.com/track/1LPQheJpIsG8rlUkCmZx2D) | [SAULT](https://open.spotify.com/artist/1uRxRKC7d9zwYGSRflTKDR) | [11](https://open.spotify.com/album/0e5GuQaryu1bLZL9Gk3hS8) | 4:57 | 2023-04-05 |  |
 | [For Granted](https://open.spotify.com/track/61h5rJ790Vov9ks2Vut5mo) | [Yaeji](https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt) | [For Granted](https://open.spotify.com/album/451l9odp6JqepvnwoFRqtQ) | 2:41 | 2023-04-05 |  |
-| [Foreign Affair](https://open.spotify.com/track/6705wcrwrj3Z9QvvsCQpng) | [Garden City Movement](https://open.spotify.com/artist/3HrczLBDJXJu6dJWEMbKHa) | [Apollonia](https://open.spotify.com/album/5HFw44c3URCTNzgCAM47wu) | 2:38 | 2021-10-15 |  |
+| [Foreign Affair](https://open.spotify.com/track/6705wcrwrj3Z9QvvsCQpng) | [Garden City Movement](https://open.spotify.com/artist/3HrczLBDJXJu6dJWEMbKHa) | [Apollonia](https://open.spotify.com/album/5HFw44c3URCTNzgCAM47wu) | 2:38 | 2021-10-15 | 2024-03-21 |
 | [Fragile](https://open.spotify.com/track/608wYP5XWenLz8cOSYjX7X) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Everything I Know About Love](https://open.spotify.com/album/0Ydm84ftyiWRGOIFkdl30L) | 4:01 | 2022-08-31 |  |
 | [Grass is Grass](https://open.spotify.com/track/2Fsv6m5KIkPld2uWx7i6Kh) | [Bowes Road Band](https://open.spotify.com/artist/5Ubi8yKSQmfTTNq0bEeVTu) | [Grass is Grass](https://open.spotify.com/album/1qvw1U3t1LAIPT5Xkvwjtw) | 4:10 | 2023-09-13 | 2024-02-02 |
 | [Green Eyes](https://open.spotify.com/track/36qo9oMO8yRrZMsDcd5x83) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Green Eyes](https://open.spotify.com/album/4EXAihXfy75Ly68SzicZUp) | 3:17 | 2021-10-15 |  |

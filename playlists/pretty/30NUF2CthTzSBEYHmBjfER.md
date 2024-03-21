@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/30NUF2CthTzSBEYHmBjfER.md) - [plain]
 
 > The best Hip\-Hop and R&amp;B, includes Eminem, Dr\. Dre, Jay\-Z, Lil Wayne, Snoop, Mary J Blige, and more! Join our mailing list   <a href="https://umusic.lnk.to/Spotify\_2000HipHopRB\_SignUp">here</a>   to hear first about exclusive vinyl drops &amp; all the best new music.
 
-[Digster Canada](https://open.spotify.com/user/digsterca) - 54,896 likes - 98 songs - 7 hr 2 min
+[Digster Canada](https://open.spotify.com/user/digsterca) - 54,941 likes - 98 songs - 7 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -107,4 +107,4 @@ pretty - [cumulative](/playlists/cumulative/30NUF2CthTzSBEYHmBjfER.md) - [plain]
 | 97 | [Stand Up](https://open.spotify.com/track/2CtCwQhY0ZLvr8L2l8Bo6e) | [Ludacris](https://open.spotify.com/artist/3ipn9JLAPI5GUEo4y4jcoi), [Shawnna](https://open.spotify.com/artist/4gpDA7R5796e6zbvZxGNga) | [Chicken \- N \- Beer](https://open.spotify.com/album/3hJHXxX04PNuGFIxdEHGzg) | 3:33 |
 | 98 | [Runaway](https://open.spotify.com/track/3DK6m7It6Pw857FcQftMds) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Pusha T](https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy) | [My Beautiful Dark Twisted Fantasy](https://open.spotify.com/album/20r762YmB5HeofjMCiPMLv) | 9:07 |
 
-Snapshot ID: `NTExLDUzNDJiNzI1NDFjM2RmNWE0Y2JlYmU2ZjI4M2M4ZGQxNWY5Njc4OGE=`
+Snapshot ID: `NTEzLGE5NzM0MGZhOGY0NWU2Mzg1NmQ2MjU2MjMwNTg1OTJjYTU4NGRlZmY=`

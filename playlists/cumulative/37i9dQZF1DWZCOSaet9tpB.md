@@ -4,7 +4,7 @@
 
 > Nigeria's hottest tracks\.  Cover: Kizz Daniel
 
-280 songs - 13 hr 31 min
+281 songs - 13 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -175,7 +175,7 @@
 | [My Brother](https://open.spotify.com/track/2bKcKMDU9JHtLJ8xeHR46X) | [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM) | [My Brother](https://open.spotify.com/album/3ZUE1QT6ttwoD5zomMykF6) | 2:38 | 2023-10-17 | 2023-11-03 |
 | [My Darling](https://open.spotify.com/track/1Lyo0G6hpTjWfWi8zjd9Wz) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [My Darling + Angelus](https://open.spotify.com/album/0FLA39VyPgqIUGQg413ptJ) | 3:13 | 2023-06-22 | 2023-09-27 |
 | [My Friend](https://open.spotify.com/track/4lkScrQ9Hy3384o8aFFxS7) | [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM) | [My Friend](https://open.spotify.com/album/0NzvedamhWairQFU3oFcHe) | 3:03 | 2022-02-03 | 2023-02-17 |
-| [My G](https://open.spotify.com/track/25k1dcqUAmq4uYKUFj7u3o) | [Kizz Daniel](https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV) | [Maverick](https://open.spotify.com/album/2gbx0YcLDduf3oqujoq1fI) | 2:40 | 2023-11-08 |  |
+| [My G](https://open.spotify.com/track/25k1dcqUAmq4uYKUFj7u3o) | [Kizz Daniel](https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV) | [Maverick](https://open.spotify.com/album/2gbx0YcLDduf3oqujoq1fI) | 2:40 | 2023-11-08 | 2024-03-21 |
 | [New Born Fela](https://open.spotify.com/track/3Zlc8GxhUIJdARBKUHoubG) | [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM) | [Hypertension](https://open.spotify.com/album/3opLRe2XgBsWPtccbGUGL8) | 2:09 | 2022-10-28 | 2022-12-08 |
 | [New Religion](https://open.spotify.com/track/2KwnwVXtAlpSDdRVO9ccTJ) | [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr), [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [New Religion](https://open.spotify.com/album/6TVnbiHfSh4UX5fCJC4sG1) | 2:33 | 2023-06-02 | 2023-09-27 |
 | [Ngozi](https://open.spotify.com/track/5mhM7bfzv52bzfCzlq8vH1) | [Crayon](https://open.spotify.com/artist/3Uv5hfyuC7TkLsQ6p4ikSb), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Trench to Triumph](https://open.spotify.com/album/60dzSRKqWPNVTunBR1aHal) | 3:41 | 2023-08-31 |  |
@@ -268,6 +268,7 @@
 | [Tour](https://open.spotify.com/track/1Jj1sgeQ71UoGgetecz7mT) | [Ruger](https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H) | [RU The World](https://open.spotify.com/album/676QN3uS7pzWA0Or87JTcN) | 2:52 | 2023-10-13 | 2023-11-09 |
 | [Traboski](https://open.spotify.com/track/2woGTVY8Vx46aYuXfMmwwE) | [Bnxn](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [Traboski](https://open.spotify.com/album/7A0qUYFzVQZGI6IcFebIiN) | 2:35 | 2022-11-28 | 2023-09-27 |
 | [Trumpet](https://open.spotify.com/track/3BwAHuQhZyL4tOkf36DuQv) | [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr), [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [Trumpet](https://open.spotify.com/album/3qNYHdPzFdsGWZqV52859m) | 3:08 | 2023-04-20 | 2023-09-27 |
+| [Tshwala Bam \(feat\. S.N.E, EeQue\)](https://open.spotify.com/track/54seQV7MCcppBrznALCdlT) | [TitoM](https://open.spotify.com/artist/5eYSqn4LCXLgIFYR4qOZ1k), [Yuppe](https://open.spotify.com/artist/0M6k4Kgi5NiIDnafSKSLE0), [EeQue](https://open.spotify.com/artist/4VqCBSJ9fvJ1XDQUd7K2Ft), [S.N.E](https://open.spotify.com/artist/16RKP7aw26uSkNpadpEgaF) | [Tshwala Bam \(feat\. S.N.E, EeQue\)](https://open.spotify.com/album/4lZSgj4cw3cmEvw0KQXNnY) | 6:30 | 2024-03-20 |  |
 | [Twe Twe](https://open.spotify.com/track/02qAdqcn1HGt3RMWMTDkSe) | [Kizz Daniel](https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV) | [Twe Twe](https://open.spotify.com/album/1jv97lAItsr4nWgPBFm7e2) | 2:25 | 2024-01-08 | 2024-02-02 |
 | [Twe Twe](https://open.spotify.com/track/2khv04F26pnJr4989Maowi) | [Kizz Daniel](https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [Twe Twe](https://open.spotify.com/album/0Cfw8M7pu4fdsYsKvUyFg7) | 2:23 | 2024-02-02 |  |
 | [UNAVAILABLE \(feat\. Musa Keys\)](https://open.spotify.com/track/2kaH2Z8ezDUKf6fNw250rZ) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [Musa Keys](https://open.spotify.com/artist/414pDI8Y502owCbg7U6Skf) | [Timeless](https://open.spotify.com/album/6lI21W76LD0S3vC55GrfSS) | 2:49 | 2023-03-30 | 2023-10-13 |

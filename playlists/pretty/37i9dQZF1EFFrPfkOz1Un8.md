@@ -42,4 +42,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFFrPfkOz1Un8.md) - [plain]
 | 32 | [Crazy](https://open.spotify.com/track/3XcD1khvzlkPVvDSpwDlLx) | [Harry Stone](https://open.spotify.com/artist/6rq7VcWeCTjiBIIuGt0D96) | [Easy](https://open.spotify.com/album/1fPA6uSDNiuLgEwDNrolZR) | 2:43 |
 | 33 | [Full Moon](https://open.spotify.com/track/7IUpteTNUxLrbu6nl7kiWz) | [Harry Stone](https://open.spotify.com/artist/6rq7VcWeCTjiBIIuGt0D96) | [Easy](https://open.spotify.com/album/1fPA6uSDNiuLgEwDNrolZR) | 2:55 |
 
-Snapshot ID: `Mjg1MTUwMTAsMDAwMDAwMDA1NTllZjAyNTAxM2FjNTVlMzU2ZDUzZDk1MDBjNzVkMA==`
+Snapshot ID: `Mjg1MTY0NTAsMDAwMDAwMDBlOThjNWJmM2U1ZjVkMGQ3OTA2MTNiNzNmMGI0NGI2NQ==`

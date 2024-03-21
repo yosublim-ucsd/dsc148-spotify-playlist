@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbFRZSqP41al.md) - [plain]
 
 > Burn off all those beers from last night.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,417,501 likes - 50 songs - 3 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,417,536 likes - 50 songs - 3 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,8 +14,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbFRZSqP41al.md) - [plain]
 | 4 | [Paralyzer](https://open.spotify.com/track/28IEbk5a7twNTbUEvWslUb) | [Finger Eleven](https://open.spotify.com/artist/0niJkG4tKkne3zwr7I8n9n) | [Them Vs\. You Vs\. Me \(Deluxe Edition\)](https://open.spotify.com/album/2pCfqddO9tLKRz3wzSNGsZ) | 3:28 |
 | 5 | [Throne](https://open.spotify.com/track/0M3adYbGtyRHACP86dey1H) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [That's The Spirit](https://open.spotify.com/album/7FqHuAvmREiIwVXVpZ9ooP) | 3:11 |
 | 6 | [The Red](https://open.spotify.com/track/1gyee1JuFFiP476LQpRMYU) | [Chevelle](https://open.spotify.com/artist/56dO9zeHKuU5Gvfc2kxHNw) | [Wonder What's Next \(Expanded Edition\)](https://open.spotify.com/album/481JiVXZYUlTtqlv9ewJXV) | 3:58 |
-| 7 | [Sound of Madness](https://open.spotify.com/track/0W9Xvd4Qx1aZPxEi94vgRY) | [Shinedown](https://open.spotify.com/artist/70BYFdaZbEKbeauJ670ysI) | [The Sound of Madness](https://open.spotify.com/album/4PeRcYNYVB1mD4wemj5zld) | 3:53 |
-| 8 | [Remedy](https://open.spotify.com/track/5ynxx6zC4dgzsMHLYQ04Dc) | [Seether](https://open.spotify.com/artist/6B5c4sch27tWHAGdarpPaW) | [Karma and Effect](https://open.spotify.com/album/1C5xrwfzgDM0hz7Kb035V3) | 3:27 |
+| 7 | [Remedy](https://open.spotify.com/track/5ynxx6zC4dgzsMHLYQ04Dc) | [Seether](https://open.spotify.com/artist/6B5c4sch27tWHAGdarpPaW) | [Karma and Effect](https://open.spotify.com/album/1C5xrwfzgDM0hz7Kb035V3) | 3:27 |
+| 8 | [Sound of Madness](https://open.spotify.com/track/0W9Xvd4Qx1aZPxEi94vgRY) | [Shinedown](https://open.spotify.com/artist/70BYFdaZbEKbeauJ670ysI) | [The Sound of Madness](https://open.spotify.com/album/4PeRcYNYVB1mD4wemj5zld) | 3:53 |
 | 9 | [Guerrilla Radio](https://open.spotify.com/track/1wsRitfRRtWyEapl0q22o8) | [Rage Against The Machine](https://open.spotify.com/artist/2d0hyoQ5ynDBnkvAbJKORj) | [The Battle Of Los Angeles](https://open.spotify.com/album/2eia0myWFgoHuttJytCxgX) | 3:26 |
 | 10 | [Hypnotize](https://open.spotify.com/track/6oO7WMjD6kEvCITLbVj0mu) | [System Of A Down](https://open.spotify.com/artist/5eAWCfyUhZtHHtBdNk56l1) | [Hypnotize](https://open.spotify.com/album/3QxX3NbWyLlLG6lP1xveL3) | 3:09 |
 | 11 | [Crawling In The Dark](https://open.spotify.com/track/1PJRDeZSoZk7gtisdTYfLi) | [Hoobastank](https://open.spotify.com/artist/2MqhkhX4npxDZ62ObR5ELO) | [Hoobastank \(20th Anniversary Edition\)](https://open.spotify.com/album/0NZrJM8gL8xBCsPR7nZGqR) | 2:55 |
@@ -28,10 +28,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbFRZSqP41al.md) - [plain]
 | 18 | [Welcome Home](https://open.spotify.com/track/42GP0xKtkolBnmqQRvSllO) | [Coheed and Cambria](https://open.spotify.com/artist/3utxjLheHaVEd9bPjQRsy8) | [Good Apollo I'm Burning Star IV Volume One: From Fear Through The Eyes Of Madness](https://open.spotify.com/album/4nYsnQpTAQaPzrPc6rOsBN) | 6:14 |
 | 19 | [Pump It](https://open.spotify.com/track/6emZMVNvIxW57fhxPlyxLp) | [Electric Callboy](https://open.spotify.com/artist/1WNoKxsp715jez1Td4vthc) | [TEKKNO](https://open.spotify.com/album/1RCinQ2MnD8yNRsXKpeKFg) | 2:52 |
 | 20 | [Born For Greatness](https://open.spotify.com/track/5NFXaR31k0gmII07w6OJIt) | [Papa Roach](https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X) | [Crooked Teeth](https://open.spotify.com/album/6NMmPUgCNr7iYoEl1cZcVf) | 3:47 |
-| 21 | [The Devil's Bleeding Crown](https://open.spotify.com/track/79M3Eq1q61lkeQJ1OCVEdZ) | [Volbeat](https://open.spotify.com/artist/0L5fC7Ogm2YwgqVCRcF1bT) | [Seal The Deal & Let's Boogie](https://open.spotify.com/album/43UPS43heoPmecwkeQhAnI) | 3:58 |
+| 21 | [One For the Money](https://open.spotify.com/track/0TgUsThAVzuvVPnJ1rSDYK) | [Escape the Fate](https://open.spotify.com/artist/5ojhEavq6altxW8fWIlLum) | [Ungrateful \(Deluxe\)](https://open.spotify.com/album/48xjFATaPupk0gYqgNaNRv) | 3:19 |
 | 22 | [Alive \- Chris Lord\-Alge Mix](https://open.spotify.com/track/1X4Ntw6Lbaa1ACgilCqMpr) | [P.O.D.](https://open.spotify.com/artist/6KO6G41BBLTDNYOLefWTMU) | [Satellite \(U.S\. Version\)](https://open.spotify.com/album/4eUmncMYQRg0Ot29KKqbuk) | 3:25 |
-| 23 | [Wake Up](https://open.spotify.com/track/2QiqwOVUctPRVggO9G1Zs5) | [Rage Against The Machine](https://open.spotify.com/artist/2d0hyoQ5ynDBnkvAbJKORj) | [Rage Against The Machine \- XX \(20th Anniversary Special Edition\)](https://open.spotify.com/album/4Io5vWtmV1rFj4yirKb4y4) | 6:03 |
-| 24 | [One For the Money](https://open.spotify.com/track/0TgUsThAVzuvVPnJ1rSDYK) | [Escape the Fate](https://open.spotify.com/artist/5ojhEavq6altxW8fWIlLum) | [Ungrateful \(Deluxe\)](https://open.spotify.com/album/48xjFATaPupk0gYqgNaNRv) | 3:19 |
+| 23 | [The Devil's Bleeding Crown](https://open.spotify.com/track/79M3Eq1q61lkeQJ1OCVEdZ) | [Volbeat](https://open.spotify.com/artist/0L5fC7Ogm2YwgqVCRcF1bT) | [Seal The Deal & Let's Boogie](https://open.spotify.com/album/43UPS43heoPmecwkeQhAnI) | 3:58 |
+| 24 | [Wake Up](https://open.spotify.com/track/2QiqwOVUctPRVggO9G1Zs5) | [Rage Against The Machine](https://open.spotify.com/artist/2d0hyoQ5ynDBnkvAbJKORj) | [Rage Against The Machine \- XX \(20th Anniversary Special Edition\)](https://open.spotify.com/album/4Io5vWtmV1rFj4yirKb4y4) | 6:03 |
 | 25 | [Paranoia](https://open.spotify.com/track/3HhaSocKwTptze7PySNZlW) | [A Day To Remember](https://open.spotify.com/artist/4NiJW4q9ichVqL1aUsgGAN) | [Bad Vibrations \(Deluxe Edition\)](https://open.spotify.com/album/5rSgMFmmuaKQxma4bSEviU) | 3:20 |
 | 26 | [Hypa Hypa](https://open.spotify.com/track/2qOmcSjOQEDIJKosonn75a) | [Electric Callboy](https://open.spotify.com/artist/1WNoKxsp715jez1Td4vthc) | [MMXX \- Hypa Hypa Edition](https://open.spotify.com/album/7uDmK1TgEQsyXTFn1eGPyF) | 3:33 |
 | 27 | [Go To War](https://open.spotify.com/track/0w9kjN3wZAO8dNk11kv2XE) | [NOTHING MORE](https://open.spotify.com/artist/39VNwvlQTqE9SvgPjjnMpc) | [The Stories We Tell Ourselves](https://open.spotify.com/album/0A3y56apHg0MRM83MLBwhM) | 4:05 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbFRZSqP41al.md) - [plain]
 | 49 | [Everybody](https://open.spotify.com/track/4yR1YTsrs38dHP6fzcXM93) | [DON BROCO](https://open.spotify.com/artist/1aOt6LvXOV6I8dv1A5Diia) | [Technology](https://open.spotify.com/album/0R3iUk31drnPKGCdb35Cbw) | 3:20 |
 | 50 | [Infinite](https://open.spotify.com/track/0oLICk7wA4GsaGEk1lprgD) | [Silverstein](https://open.spotify.com/artist/1Tsag5J854qxeOo2apszug), [Aaron Gillespie](https://open.spotify.com/artist/5B2GfbXgossZt9SE08Iqn6) | [A Beautiful Place To Drown](https://open.spotify.com/album/4orRroMtRrVGnlpheJbuap) | 2:43 |
 
-Snapshot ID: `MCw5YWMzYTg1NjBlYzgwODk4MzQxODczNmNjZGEwODVlZDM1Yjg4NGNi`
+Snapshot ID: `MCw3Y2MyYTY0YTA4Zjk4YmZlOWVlODYxZGRjMTI4ZDQ3NDI5MGRiMjFm`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6AKLu0DKWt5.md) - [plain]
 
 > Music from the winners and nominees from the 81st Golden Globe Awards.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,284 likes - 33 songs - 1 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,290 likes - 33 songs - 1 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,4 +42,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6AKLu0DKWt5.md) - [plain]
 | 32 | [Science](https://open.spotify.com/track/7DE8YqQ2MdnLHjhtR3MnLu) | [Carlos Rafael Rivera](https://open.spotify.com/artist/3lh6JVXJU1mcXuI7ctT4gh) | [Lessons In Chemistry: Season 1 \(Apple Original Series Soundtrack\)](https://open.spotify.com/album/23xn7eZgOf41WYCfKj2LjP) | 1:00 |
 | 33 | [I Wish This Was Real](https://open.spotify.com/track/7EuyxDSG25VWxaQg0DtOIV) | [Owen Pallett](https://open.spotify.com/artist/77Rj6PHmQJFb8nbSH62y68) | [Dream Scenario \(Original Motion Picture Score\)](https://open.spotify.com/album/5NDIVLocg7KcHXRqMMHpR8) | 1:49 |
 
-Snapshot ID: `MCwxYjBkNmZiOWQ5YjhiMjJlNWYwZjQ3OTJhM2Q5MGU1M2I2ODI0NDYw`
+Snapshot ID: `MCwwNmRmYzMyOTY2NDQwNGRkNWQzOWFjODJlYmIzNGE2Y2Q2M2JjZDE3`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5g856aiKiDS.md) - [plain]
 
 > Chill Korean tunes that's perfect with your latte or americano\. \(카페와 어울리는 편안한 음악들을 감상하세요.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 484,012 likes - 50 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 484,044 likes - 50 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,11 +20,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5g856aiKiDS.md) - [plain]
 | 10 | [Your Dog Loves You \(Feat\. Crush\)](https://open.spotify.com/track/72cq3rZCIEYaq1TM8y5LBQ) | [Colde](https://open.spotify.com/artist/3VQDqjQ4wJyw8PzpGdlZpB), [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g) | [Your Dog Loves You](https://open.spotify.com/album/1oi1SJqMKp4jKrt3Paw6Tq) | 4:33 |
 | 11 | [Like A Fool](https://open.spotify.com/track/1E8Cztx0OIj4zm1IZh2XXj) | [NIve](https://open.spotify.com/artist/1qOPo6b0U3t7BpyO8Ti1MF), [Sam Kim](https://open.spotify.com/artist/4BBN286rBKyCWsSPq2cxYO) | [Like A Fool](https://open.spotify.com/album/4wJPiw5ZoTJFRUt2r2zvCy) | 3:34 |
 | 12 | [I'm Fine](https://open.spotify.com/track/5u6CQi2rgD1EyiztQnrrwY) | [D.O.](https://open.spotify.com/artist/2CQZr2RPZmrcvDnaod1ldC) | [공감 \(Empathy\) \- The 1st Mini Album](https://open.spotify.com/album/4dqWy2Soq1Z1rqgKfXOATk) | 3:09 |
-| 13 | [INFJ \(Feat\. B.I, BANG YEDAM\)](https://open.spotify.com/track/77GfQKz4WzULTEoLL286cT) | [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal), [B.I](https://open.spotify.com/artist/0UntV1Bw2hk3fbRrm9eMP6), [BANG YEDAM](https://open.spotify.com/artist/1slszTGbkp1uNnI6G5uD0X) | [Dingo X BIG Naughty](https://open.spotify.com/album/1bksL87asiBGZYwVyGR3kp) | 3:29 |
+| 13 | [Bye Bye My Blue](https://open.spotify.com/track/4GUqcCrsISpXTbiAFz6FcO) | [Yerin Baek](https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK) | [Bye Bye My Blue](https://open.spotify.com/album/7a9EHrlQGVQsJe590lX4LU) | 3:23 |
 | 14 | [Let Me Know](https://open.spotify.com/track/1SPDWTBH7qcjbZ8zMRXlQ9) | [Jimmy Brown](https://open.spotify.com/artist/5YPCpDIPOY4WqY9Bqdw4Uc) | [Let Me Know](https://open.spotify.com/album/1x7V4e67JZoCpJWXSb8Yw1) | 3:08 |
-| 15 | [SoulMate \(feat\. IU\)](https://open.spotify.com/track/1pz24zu5H9A0S1a2NKT4F0) | [ZICO](https://open.spotify.com/artist/4XpUIb8uuNlIWVKmgKZXC0), [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [SoulMate \(feat\. IU\)](https://open.spotify.com/album/0aDnkPxX660ezxCWBcqzVo) | 3:39 |
+| 15 | [INFJ \(Feat\. B.I, BANG YEDAM\)](https://open.spotify.com/track/77GfQKz4WzULTEoLL286cT) | [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal), [B.I](https://open.spotify.com/artist/0UntV1Bw2hk3fbRrm9eMP6), [BANG YEDAM](https://open.spotify.com/artist/1slszTGbkp1uNnI6G5uD0X) | [Dingo X BIG Naughty](https://open.spotify.com/album/1bksL87asiBGZYwVyGR3kp) | 3:29 |
 | 16 | [WINE \(Feat.Changmo\) \(Prod\. SUGA\)](https://open.spotify.com/track/3eHkFA3StDR9BU7EVrUFLs) | [SURAN](https://open.spotify.com/artist/1mORehSVEd7lcaT2d7Sl2K), [CHANGMO](https://open.spotify.com/artist/3hvinNZRzTLoREmqFiKr1b) | [WINE](https://open.spotify.com/album/26adxLsliyYcCfVTF6xA75) | 3:52 |
-| 17 | [Bye Bye My Blue](https://open.spotify.com/track/4GUqcCrsISpXTbiAFz6FcO) | [Yerin Baek](https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK) | [Bye Bye My Blue](https://open.spotify.com/album/7a9EHrlQGVQsJe590lX4LU) | 3:23 |
+| 17 | [SoulMate \(feat\. IU\)](https://open.spotify.com/track/1pz24zu5H9A0S1a2NKT4F0) | [ZICO](https://open.spotify.com/artist/4XpUIb8uuNlIWVKmgKZXC0), [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [SoulMate \(feat\. IU\)](https://open.spotify.com/album/0aDnkPxX660ezxCWBcqzVo) | 3:39 |
 | 18 | [nostalgia](https://open.spotify.com/track/6472TSRvXlqcmg3iSh4GEi) | [JUNNY](https://open.spotify.com/artist/0lgENJQUkqkDbpsTYEayOr), [JAY B](https://open.spotify.com/artist/3IjHX8KZKoeq3X4QgXxqbT) | [nostalgia](https://open.spotify.com/album/7posuhCeCtSWbHS2BJTuIG) | 3:16 |
 | 19 | [Why?](https://open.spotify.com/track/75bgkdHdg7ppBcHdLJkSBM) | [PLAVE](https://open.spotify.com/artist/0k2zyzGq6HX383VlMBOvRG) | [Why?](https://open.spotify.com/album/2dWSYfa0TQ1cDlzMCdzJlJ) | 2:27 |
 | 20 | [Beyond Love \(Feat\. 10CM\)](https://open.spotify.com/track/0HsRZwZzHoZ5AM5W2ZYI5c) | [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal), [10CM](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp) | [Beyond Love](https://open.spotify.com/album/5Gp70tE4qrzx93UkoqP5QA) | 3:08 |
@@ -52,11 +52,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5g856aiKiDS.md) - [plain]
 | 42 | [Angel \(feat\. TAEYEON\)](https://open.spotify.com/track/2bNTtfRuUYgt32fe1X2zaD) | [Chancellor](https://open.spotify.com/artist/0u06YeydlBk3awnk5KgdBx), [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) | [Angel](https://open.spotify.com/album/75p1IsJ8OoM61yE9b6jOhs) | 4:24 |
 | 43 | [doodle \(Feat\. Yerin Baek\) \(Prod\. by WOOGIE\)](https://open.spotify.com/track/4WiZMFJos3BUHSieP9cHTM) | [punchnello](https://open.spotify.com/artist/5enwJ9yOnKlCP91ov4Dqhv), [Yerin Baek](https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK) | [doodle](https://open.spotify.com/album/4ASTYYT0psxkyK3Y52oWfV) | 3:07 |
 | 44 | [fool](https://open.spotify.com/track/6lXGf0irWo1XWl8acAlzso) | [frad](https://open.spotify.com/artist/1XLYJ9VzlgEpBdlkC4MhOL), [Hayne](https://open.spotify.com/artist/2OuXA3zTqSBjchwV4jD5gL), [Milky Day](https://open.spotify.com/artist/7FIqXqYZHMomTAcTXF4UHu) | [fool](https://open.spotify.com/album/7dUPtlVTD9sepa5fcaWB44) | 2:10 |
-| 45 | [5월의 밤 \(May\)](https://open.spotify.com/track/3gVbD5APaL2N4yDWM5YWiQ) | [Zion.T](https://open.spotify.com/artist/5HenzRvMtSrgtvU16XAoby) | [5월의 밤 \(May\)](https://open.spotify.com/album/3NoWa3yoV4h6TvKYB1Ggfi) | 3:16 |
+| 45 | [The night we parted](https://open.spotify.com/track/7sCOwMK98Bc3f6hFS0jgkM) | [ACOURVE](https://open.spotify.com/artist/0i9MWBqCpPeaJu6rJkrOoA) | [The night we parted](https://open.spotify.com/album/3ziY8tTralGg3ew6bTTJGD) | 3:49 |
 | 46 | [Maybe It’s Not Our Fault](https://open.spotify.com/track/5fuOfU241WSA328TgwsFgj) | [Yerin Baek](https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK) | [Our Love is Great](https://open.spotify.com/album/5pkSoMZZUsVf0R8Rh68xy3) | 3:53 |
-| 47 | [The night we parted](https://open.spotify.com/track/7sCOwMK98Bc3f6hFS0jgkM) | [ACOURVE](https://open.spotify.com/artist/0i9MWBqCpPeaJu6rJkrOoA) | [The night we parted](https://open.spotify.com/album/3ziY8tTralGg3ew6bTTJGD) | 3:49 |
+| 47 | [5월의 밤 \(May\)](https://open.spotify.com/track/3gVbD5APaL2N4yDWM5YWiQ) | [Zion.T](https://open.spotify.com/artist/5HenzRvMtSrgtvU16XAoby) | [5월의 밤 \(May\)](https://open.spotify.com/album/3NoWa3yoV4h6TvKYB1Ggfi) | 3:16 |
 | 48 | [You Might \(Feat\. SHIRT\)](https://open.spotify.com/track/340yvMO5adu3bo1x5Zrw14) | [g0nny](https://open.spotify.com/artist/5GtOjehIkcAjP9ykHB3MMR), [SHIRT](https://open.spotify.com/artist/5LFkuWvCFR1up60k4gU1qi) | [You Might \(Feat\. SHIRT\)](https://open.spotify.com/album/0ZkiSgqFmO169VYOFi02kD) | 3:07 |
 | 49 | [Peach](https://open.spotify.com/track/3hbi6hayJ6OibzGe3fWLwf) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [The Spring of Twenty](https://open.spotify.com/album/2DSxe9W0Mv0IU2YMAbljYb) | 3:10 |
 | 50 | [cocoa](https://open.spotify.com/track/4oNc2Dhe42VE7d9QAZtxYF) | [Sweet The Kid](https://open.spotify.com/artist/4qaGGZulMdVRK7uDgGAaNq) | [cocoa](https://open.spotify.com/album/0j6gcWSUVtfcHvF4l56kLo) | 3:07 |
 
-Snapshot ID: `MCxiMjA0M2M4NzNjNDk4NGQ1YWZiNmQyMzY1YTE3YTMwNzM1YjQ5MTMx`
+Snapshot ID: `MCw1ODE3Njk0OTQ4ZjM4MjZiODgyNGFlOThmMTQ3MjNjYWY5MjAyNjk0`

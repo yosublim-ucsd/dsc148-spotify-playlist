@@ -4,7 +4,7 @@
 
 > De nieuwste Nederlandse pop! Cover: Jaap Reesema & Gavin DeGraw
 
-525 songs - 1 day 1 hr 28 min
+526 songs - 1 day 1 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -272,7 +272,8 @@
 | [Kom Dansen](https://open.spotify.com/track/4GWSLrTdJoRSFMJRirlypJ) | [Karsu](https://open.spotify.com/artist/0rRu3Co1oQ6Ce3yz7btJzB) | [Kom Dansen](https://open.spotify.com/album/0WAH6gN1T5xVWqfm3DPLNY) | 3:07 | 2023-11-30 | 2024-01-26 |
 | [Kom Jij Weer Voorbij](https://open.spotify.com/track/6saNAXWMY0gqpNMwnFG34a) | [Luminar](https://open.spotify.com/artist/4XVWcEp6zOQScLQZl4fCsT) | [Kom Jij Weer Voorbij](https://open.spotify.com/album/67RWbCJmi16DnublyBoNvC) | 3:33 | 2023-03-02 | 2023-06-16 |
 | [Kompas](https://open.spotify.com/track/00B3jzuH5ezYsmBKwcps1Z) | [Joël Domingos](https://open.spotify.com/artist/5LzkF8ZUuxdSg8BCEwrosb) | [Kompas](https://open.spotify.com/album/7hICsdZV6OfJa32dQdcBDS) | 3:08 | 2024-02-15 | 2024-03-01 |
-| [Kompas \(feat\. Big2\) \- Remix](https://open.spotify.com/track/2wlpAUC0iE1oHzhg53TS1r) | [Joël Domingos](https://open.spotify.com/artist/5LzkF8ZUuxdSg8BCEwrosb), [Big2](https://open.spotify.com/artist/3B1Z5CuKo6kA4NzitgWwWV) | [Kompas \(Remix\)](https://open.spotify.com/album/29m3Yx0KifqeneeAsJhL0t) | 4:20 | 2024-02-29 |  |
+| [Kompas \(feat\. Big2\) \- Remix](https://open.spotify.com/track/2wlpAUC0iE1oHzhg53TS1r) | [Joël Domingos](https://open.spotify.com/artist/5LzkF8ZUuxdSg8BCEwrosb), [Big2](https://open.spotify.com/artist/3B1Z5CuKo6kA4NzitgWwWV) | [Kompas \(Remix\)](https://open.spotify.com/album/29m3Yx0KifqeneeAsJhL0t) | 4:20 | 2024-02-29 | 2024-03-21 |
+| [Kompas \(feat\. Big2\) \- Remix](https://open.spotify.com/track/5MVQPed9JWDb9m9to3GB0d) | [Joël Domingos](https://open.spotify.com/artist/5LzkF8ZUuxdSg8BCEwrosb), [Big2](https://open.spotify.com/artist/3B1Z5CuKo6kA4NzitgWwWV) | [Dromers Slapen Niet](https://open.spotify.com/album/7hD0o6qizBV3vivCFNHvqD) | 4:20 | 2024-03-14 |  |
 | [Koning Liefde](https://open.spotify.com/track/4y8Lwn9OwGxUf7fTJtlPXl) | [OG3NE](https://open.spotify.com/artist/1SiCF4gVjnR5iAIwk1nkXo) | [Koning Liefde](https://open.spotify.com/album/2xyUvd6kssT9MiTbDQfwUZ) | 2:44 | 2023-03-30 | 2023-08-18 |
 | [Kop In The Sand](https://open.spotify.com/track/4XCw1TmwEKcU2rbUQAvSNk) | [The Dean](https://open.spotify.com/artist/6ado6OQHT11e73WVhbAo4c) | [Kop In The Sand](https://open.spotify.com/album/3lRqcRvlYbaqK65LTnUZno) | 2:12 | 2023-09-21 | 2023-10-06 |
 | [KROKODILLENTRANEN](https://open.spotify.com/track/1MfB3nj3mpBs0kIknCa5Jq) | [Gianski](https://open.spotify.com/artist/1tC6NRB6c1mVgV4xrqrOgy) | [KROKODILLENTRANEN](https://open.spotify.com/album/3kotYFrp56wZNHMruY4lxh) | 2:48 | 2024-02-15 | 2024-03-01 |

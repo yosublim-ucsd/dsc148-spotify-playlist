@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0YKekzl0blG.md) - [plain]
 
 > All the indelible tunes from the other side of the 00s\. Cover: LCD Soundsystem
 
-[Spotify](https://open.spotify.com/user/spotify) - 700,123 likes - 80 songs - 5 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 700,215 likes - 80 songs - 5 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0YKekzl0blG.md) - [plain]
 | 38 | [Someday](https://open.spotify.com/track/7hm4HTk9encxT0LYC0J6oI) | [The Strokes](https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V) | [Is This It](https://open.spotify.com/album/2k8KgmDp9oHrmu0MIj4XDE) | 3:03 |
 | 39 | [For Emma](https://open.spotify.com/track/2nilAlGEZmwyaLTMMyDdLo) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [For Emma, Forever Ago](https://open.spotify.com/album/7EJ0OT5ZqybXxcYRa6mccM) | 3:40 |
 | 40 | [Hang Me Up To Dry](https://open.spotify.com/track/3IXRdLsQib8m0hBbQpe7T8) | [Cold War Kids](https://open.spotify.com/artist/6VDdCwrBM4qQaGxoAyxyJC) | [Robbers & Cowards](https://open.spotify.com/album/1LTbo93CjLo48yNP8Ysaz5) | 3:38 |
-| 41 | [Burning](https://open.spotify.com/track/0QgR03vMDoBoLgcu08EtKl) | [The Whitest Boy Alive](https://open.spotify.com/artist/1qcU8NabUQ5efQf8UGW6CV) | [Dreams](https://open.spotify.com/album/0ajuOfBlVf6XlnaZAYUVBf) | 3:11 |
-| 42 | [Steady, As She Goes](https://open.spotify.com/track/4xlEKYv7HmC8zXoJIbpZKM) | [The Raconteurs](https://open.spotify.com/artist/4wo1267SJuUfHgasdlfNfc) | [Broken Boy Soldiers](https://open.spotify.com/album/4Z1sCXBHHKWCsScOLAfuig) | 3:35 |
+| 41 | [Steady, As She Goes](https://open.spotify.com/track/4xlEKYv7HmC8zXoJIbpZKM) | [The Raconteurs](https://open.spotify.com/artist/4wo1267SJuUfHgasdlfNfc) | [Broken Boy Soldiers](https://open.spotify.com/album/4Z1sCXBHHKWCsScOLAfuig) | 3:35 |
+| 42 | [Burning](https://open.spotify.com/track/0QgR03vMDoBoLgcu08EtKl) | [The Whitest Boy Alive](https://open.spotify.com/artist/1qcU8NabUQ5efQf8UGW6CV) | [Dreams](https://open.spotify.com/album/0ajuOfBlVf6XlnaZAYUVBf) | 3:11 |
 | 43 | [Blue Orchid](https://open.spotify.com/track/4jU7NPkz4HVnM4hweqNhI1) | [The White Stripes](https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70) | [Get Behind Me Satan](https://open.spotify.com/album/3rHeq4F5wnaLBjNtuz7Yvh) | 2:37 |
 | 44 | [Last Nite](https://open.spotify.com/track/3SUusuA9jH1v6PVwtYMbdv) | [The Strokes](https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V) | [Is This It](https://open.spotify.com/album/2k8KgmDp9oHrmu0MIj4XDE) | 3:13 |
 | 45 | [You've Got The Love](https://open.spotify.com/track/6u9RqxALwkjJ1ukB1y8vuP) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [Lungs \(Deluxe Edition\)](https://open.spotify.com/album/2FgknX5e7fJlriQtxvpLhZ) | 2:48 |
@@ -87,6 +87,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0YKekzl0blG.md) - [plain]
 | 77 | [The Underdog](https://open.spotify.com/track/2ZLL9Blx7Tq4tBrhE9YvXE) | [Spoon](https://open.spotify.com/artist/0K1q0nXQ8is36PzOKAMbNe) | [Ga Ga Ga Ga Ga \(2017 Remaster\)](https://open.spotify.com/album/3tSpLdSd2zhM0N0aYZd13E) | 3:42 |
 | 78 | [Don't Look Back into the Sun](https://open.spotify.com/track/4KspXoCVJXGY1VrvEe1Hdm) | [The Libertines](https://open.spotify.com/artist/4fSPtBgFPZzygkY6MehwQ7) | [Don't Look Back into the Sun](https://open.spotify.com/album/4p8bvIgDBZ7eLvuflo6YhI) | 3:00 |
 | 79 | [Do You Want To](https://open.spotify.com/track/6WrnSlcN0dzTO80mVVbBto) | [Franz Ferdinand](https://open.spotify.com/artist/0XNa1vTidXlvJ2gHSsRi4A) | [You Could Have It So Much Better](https://open.spotify.com/album/3GNG4NPXfTeIGYjZ2FpS6P) | 3:35 |
-| 80 | [Heads Will Roll](https://open.spotify.com/track/4WiIscpBgQFm5qIyjoH7M4) | [Yeah Yeah Yeahs](https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2) | [It's Blitz!](https://open.spotify.com/album/4dBMwYZJ84lj8HRTdL8Toj) | 3:41 |
+| 80 | [Always Like This](https://open.spotify.com/track/73M2Vb5MfZh8iGKudkMtlw) | [Bombay Bicycle Club](https://open.spotify.com/artist/3pTE9iaJTkWns3mxpNQlJV) | [I Had The Blues But I Shook Them Loose](https://open.spotify.com/album/4X0bhkSBOfcnOPyfG5Ef6a) | 4:05 |
 
-Snapshot ID: `MCwxYTQzMDU1NDFjYWQ5ODViOTA3ZGMyN2M5ZDQxMTE1OGNlZjFkMmUw`
+Snapshot ID: `MCw3NjM0MWMzMmU5NjFhYjkyZjViYzY3OTIxZDJkN2VjYzNkOGY0Njg5`

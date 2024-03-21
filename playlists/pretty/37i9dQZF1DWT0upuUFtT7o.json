@@ -1,13 +1,93 @@
 {
   "description": "The best new indie tracks from independent artists & labels. Updates every Wednesday. Cover: Zsela",
-  "num_followers": 209230,
+  "num_followers": 209414,
   "original_name": "Fresh Finds Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlNjc0ODZjNjU0OWIwZGE4Y2ZiZTZmYmMzNmU2YTgyMjBlMGE0OWYz",
+  "snapshot_id": "MCwxZDVlNzRkMzlkYzA1ZTMwMmNiZTViMDQyMzk3MDAyZDNlOGU4YzVj",
   "tracks": [
+    {
+      "added_at": "2024-03-20 16:00:00",
+      "album": {
+        "name": "Cycle",
+        "url": "https://open.spotify.com/album/3ehiC7eZbvKT7fXwxmA7SC"
+      },
+      "artists": [
+        {
+          "name": "Peel",
+          "url": "https://open.spotify.com/artist/2s7R5INBvAebNLGZFOjjfZ"
+        }
+      ],
+      "duration_ms": 213720,
+      "name": "Cycle",
+      "url": "https://open.spotify.com/track/0Ztt74lg0tja20ejpi3dMX"
+    },
+    {
+      "added_at": "2024-03-20 16:00:00",
+      "album": {
+        "name": "Bloom",
+        "url": "https://open.spotify.com/album/3eJB8U877SaJwI4ywBBKH5"
+      },
+      "artists": [
+        {
+          "name": "Galdive",
+          "url": "https://open.spotify.com/artist/0aMrhUHnOzfiPcMc2PGiaT"
+        }
+      ],
+      "duration_ms": 233095,
+      "name": "Bloom",
+      "url": "https://open.spotify.com/track/0ePc8Rih4qNgRXvhLHIgx4"
+    },
+    {
+      "added_at": "2024-03-20 16:00:00",
+      "album": {
+        "name": "someone else's eyes",
+        "url": "https://open.spotify.com/album/0srIUGDcjkSY8KRHD5AWEj"
+      },
+      "artists": [
+        {
+          "name": "Molly Seger",
+          "url": "https://open.spotify.com/artist/0WtS5MfE3iVJN9puXPCjJ9"
+        }
+      ],
+      "duration_ms": 237681,
+      "name": "someone else's eyes",
+      "url": "https://open.spotify.com/track/49AqYOwYQpCS0MBJCKENkt"
+    },
+    {
+      "added_at": "2024-03-20 16:00:00",
+      "album": {
+        "name": "Zodiac 13",
+        "url": "https://open.spotify.com/album/5pnrPb0afNwHXXG78XeHWQ"
+      },
+      "artists": [
+        {
+          "name": "No Windows",
+          "url": "https://open.spotify.com/artist/2UgDlLTqaZiPL107iNQSOr"
+        }
+      ],
+      "duration_ms": 172565,
+      "name": "Zodiac 13",
+      "url": "https://open.spotify.com/track/79U8WWKFkPFaKhCk0VPkWE"
+    },
+    {
+      "added_at": "2024-03-20 16:00:00",
+      "album": {
+        "name": "Better Than You Found Me",
+        "url": "https://open.spotify.com/album/4BZDpUEyuf9X2w106KXATg"
+      },
+      "artists": [
+        {
+          "name": "Carol Ades",
+          "url": "https://open.spotify.com/artist/3WuoKYR1zeLGxR29c53Vdr"
+        }
+      ],
+      "duration_ms": 178781,
+      "name": "Better Than You Found Me",
+      "url": "https://open.spotify.com/track/4GTNljZipQMiMorVaaU6sA"
+    },
     {
       "added_at": "2024-03-06 05:00:00",
       "album": {
@@ -23,6 +103,122 @@
       "duration_ms": 198184,
       "name": "Fire Excape",
       "url": "https://open.spotify.com/track/2m8MI1dFTkFhlVjjm7zFXp"
+    },
+    {
+      "added_at": "2024-03-20 16:00:00",
+      "album": {
+        "name": "Sponges (feat. Yuki Dreams Again)",
+        "url": "https://open.spotify.com/album/04iVPsioBbQ9OyofuMhV7E"
+      },
+      "artists": [
+        {
+          "name": "Yumi Nu",
+          "url": "https://open.spotify.com/artist/5721R2CT0MBWXJ6Dz78QUZ"
+        },
+        {
+          "name": "Yuki Dreams Again",
+          "url": "https://open.spotify.com/artist/4IYRXwfKzdo76LVTCG3r2t"
+        }
+      ],
+      "duration_ms": 193528,
+      "name": "Sponges (feat. Yuki Dreams Again)",
+      "url": "https://open.spotify.com/track/3vbncj6w2VZRdGNa5H8u5h"
+    },
+    {
+      "added_at": "2024-03-20 16:00:00",
+      "album": {
+        "name": "Burden",
+        "url": "https://open.spotify.com/album/43vuxuNaINUWh2zIUIunAm"
+      },
+      "artists": [
+        {
+          "name": "HAFFWAY",
+          "url": "https://open.spotify.com/artist/3GL9CphwkHjP0Niz2fTWJH"
+        }
+      ],
+      "duration_ms": 197337,
+      "name": "Burden",
+      "url": "https://open.spotify.com/track/04llqALZygRbebIFQTZ7fq"
+    },
+    {
+      "added_at": "2024-03-20 16:00:00",
+      "album": {
+        "name": "no self-lover",
+        "url": "https://open.spotify.com/album/7w8j0yr7A9foRq6dWtW02X"
+      },
+      "artists": [
+        {
+          "name": "Planet CeCe",
+          "url": "https://open.spotify.com/artist/2Dm5FxDhagd4UdwKHXrzyb"
+        }
+      ],
+      "duration_ms": 145635,
+      "name": "no self-lover",
+      "url": "https://open.spotify.com/track/6mP9VmjkAKS3L0bJ8PSERw"
+    },
+    {
+      "added_at": "2024-03-13 04:00:00",
+      "album": {
+        "name": "Air Drumming Fix You",
+        "url": "https://open.spotify.com/album/5fVebLQz6IcyjQPFzcuhqS"
+      },
+      "artists": [
+        {
+          "name": "Wild Pink",
+          "url": "https://open.spotify.com/artist/2BS3fywRW33o5GygfzZaOZ"
+        }
+      ],
+      "duration_ms": 329122,
+      "name": "Air Drumming Fix You",
+      "url": "https://open.spotify.com/track/4pO4S5dLphqavzoByuZikz"
+    },
+    {
+      "added_at": "2024-03-20 16:00:00",
+      "album": {
+        "name": "awe",
+        "url": "https://open.spotify.com/album/1JOPmXuFZzWyAObrU16BUl"
+      },
+      "artists": [
+        {
+          "name": "Pem",
+          "url": "https://open.spotify.com/artist/6JVlf8HzDtyI2xPxq4WIHs"
+        }
+      ],
+      "duration_ms": 235382,
+      "name": "awe",
+      "url": "https://open.spotify.com/track/20liuVONukHV5oK7kghgOI"
+    },
+    {
+      "added_at": "2024-03-20 16:00:00",
+      "album": {
+        "name": "Lose It All",
+        "url": "https://open.spotify.com/album/3saKdxYhhPKj8abznk5JbY"
+      },
+      "artists": [
+        {
+          "name": "Lost in Lona",
+          "url": "https://open.spotify.com/artist/6GpX7OGPoZNG1GMbtbiOPD"
+        }
+      ],
+      "duration_ms": 185750,
+      "name": "Lose It All",
+      "url": "https://open.spotify.com/track/0obX7xhodBULC15Nkefc8z"
+    },
+    {
+      "added_at": "2024-03-20 16:00:00",
+      "album": {
+        "name": "TENNIS SONG",
+        "url": "https://open.spotify.com/album/6Tha5SPB1yEEdg21TOz49y"
+      },
+      "artists": [
+        {
+          "name": "Lynks",
+          "url": "https://open.spotify.com/artist/44tV2d4RDeMsS2sLOdcXHD"
+        }
+      ],
+      "duration_ms": 129381,
+      "name": "TENNIS SONG",
+      "url": "https://open.spotify.com/track/2gmpCabhk7ACJbWMLK7FAh"
     },
     {
       "added_at": "2024-03-13 04:00:00",
@@ -103,22 +299,6 @@
       "duration_ms": 120528,
       "name": "Gnawed",
       "url": "https://open.spotify.com/track/36zunLr76WzSOqwq48up3b"
-    },
-    {
-      "added_at": "2024-03-13 04:00:00",
-      "album": {
-        "name": "Air Drumming Fix You",
-        "url": "https://open.spotify.com/album/5fVebLQz6IcyjQPFzcuhqS"
-      },
-      "artists": [
-        {
-          "name": "Wild Pink",
-          "url": "https://open.spotify.com/artist/2BS3fywRW33o5GygfzZaOZ"
-        }
-      ],
-      "duration_ms": 329122,
-      "name": "Air Drumming Fix You",
-      "url": "https://open.spotify.com/track/4pO4S5dLphqavzoByuZikz"
     },
     {
       "added_at": "2024-03-13 04:00:00",
@@ -1467,182 +1647,6 @@
       "duration_ms": 216183,
       "name": "Profusion",
       "url": "https://open.spotify.com/track/2U1R61eI6fLxzYmgmRjdiJ"
-    },
-    {
-      "added_at": "2024-03-06 05:00:00",
-      "album": {
-        "name": "pretty little psycho",
-        "url": "https://open.spotify.com/album/7LX829fgWq9B759swCeK94"
-      },
-      "artists": [
-        {
-          "name": "THE BLSSM",
-          "url": "https://open.spotify.com/artist/7lq7hz0Z6rG6v9zbJRRn4K"
-        }
-      ],
-      "duration_ms": 196179,
-      "name": "pretty little psycho",
-      "url": "https://open.spotify.com/track/2VwGgxJ6TcgLU8Gqk4bTsu"
-    },
-    {
-      "added_at": "2024-03-06 05:00:00",
-      "album": {
-        "name": "Would You Object for a Happier Life?",
-        "url": "https://open.spotify.com/album/6rlhj1UfTHjvSNMvVr8M0e"
-      },
-      "artists": [
-        {
-          "name": "Maddy Davis",
-          "url": "https://open.spotify.com/artist/0N1XijsQLptT42ERtHfKsZ"
-        }
-      ],
-      "duration_ms": 209990,
-      "name": "Would U Object?",
-      "url": "https://open.spotify.com/track/1mK6DdIfq1Wc4goy1rKfx1"
-    },
-    {
-      "added_at": "2024-03-06 05:00:00",
-      "album": {
-        "name": "Write Again",
-        "url": "https://open.spotify.com/album/2isg80BCCojeYCl29JrQCk"
-      },
-      "artists": [
-        {
-          "name": "Meyru",
-          "url": "https://open.spotify.com/artist/4keWylzqUIJiaFfq6Ox0nB"
-        }
-      ],
-      "duration_ms": 248746,
-      "name": "Write Again",
-      "url": "https://open.spotify.com/track/6Oi1jkMAVn7SVCmcfQJJ0x"
-    },
-    {
-      "added_at": "2024-03-06 05:00:00",
-      "album": {
-        "name": "I Wonder",
-        "url": "https://open.spotify.com/album/3kifoZEd7wdOW3ASRGAP0O"
-      },
-      "artists": [
-        {
-          "name": "Jen Island",
-          "url": "https://open.spotify.com/artist/08WAACfymiH4j2TBhLZtOV"
-        }
-      ],
-      "duration_ms": 191541,
-      "name": "I Wonder",
-      "url": "https://open.spotify.com/track/3HXIKx3pR2fdWj7te4CnpN"
-    },
-    {
-      "added_at": "2024-03-06 05:00:00",
-      "album": {
-        "name": "Piggies",
-        "url": "https://open.spotify.com/album/7MbETn25A33Bn2611riXS3"
-      },
-      "artists": [
-        {
-          "name": "The Amazing",
-          "url": "https://open.spotify.com/artist/16f3WYlA4miISj20MG5J30"
-        }
-      ],
-      "duration_ms": 269306,
-      "name": "Antichrist",
-      "url": "https://open.spotify.com/track/7jTV5CykAcc3eDE3NjOy1c"
-    },
-    {
-      "added_at": "2024-03-06 05:00:00",
-      "album": {
-        "name": "Difficult People",
-        "url": "https://open.spotify.com/album/3GNr31LJq2RpJ6ywoZEM3M"
-      },
-      "artists": [
-        {
-          "name": "Alena Spanger",
-          "url": "https://open.spotify.com/artist/2LUmE2P3lFBAowx37RwoPF"
-        }
-      ],
-      "duration_ms": 232586,
-      "name": "Difficult People",
-      "url": "https://open.spotify.com/track/6jaNPpxQlkZj2cOiSUmmXj"
-    },
-    {
-      "added_at": "2024-03-06 05:00:00",
-      "album": {
-        "name": "little green garden",
-        "url": "https://open.spotify.com/album/0nh31Cuq3X7uT2Pg7cJW1b"
-      },
-      "artists": [
-        {
-          "name": "frogi",
-          "url": "https://open.spotify.com/artist/0frlcBV9pFq0Ip624rdUen"
-        }
-      ],
-      "duration_ms": 286261,
-      "name": "little green garden",
-      "url": "https://open.spotify.com/track/0bIU1uDooCQyqemv0NHAaW"
-    },
-    {
-      "added_at": "2024-03-06 05:00:00",
-      "album": {
-        "name": "it was then that i",
-        "url": "https://open.spotify.com/album/25fXVyzDNeTcamLuAABhvq"
-      },
-      "artists": [
-        {
-          "name": "feeo",
-          "url": "https://open.spotify.com/artist/03aiitie1Nvoq2vvHF3kLR"
-        }
-      ],
-      "duration_ms": 224264,
-      "name": "it was then that i",
-      "url": "https://open.spotify.com/track/72B17CydCsTvYGPUKas0Jb"
-    },
-    {
-      "added_at": "2024-03-06 05:00:00",
-      "album": {
-        "name": "Un D\u00eda De Estos",
-        "url": "https://open.spotify.com/album/7GYjoCpQw3PHkcfAVmpNzL"
-      },
-      "artists": [
-        {
-          "name": "Irenegarry",
-          "url": "https://open.spotify.com/artist/5grzJI0lXUO8L4yMw6BwEB"
-        }
-      ],
-      "duration_ms": 149955,
-      "name": "Un D\u00eda De Estos",
-      "url": "https://open.spotify.com/track/7rsRu5kV7CMuVGJulafxLs"
-    },
-    {
-      "added_at": "2024-03-06 05:00:00",
-      "album": {
-        "name": "it's easy",
-        "url": "https://open.spotify.com/album/3HJdtsD4uHQgm6oc13oRmi"
-      },
-      "artists": [
-        {
-          "name": "Olivia O.",
-          "url": "https://open.spotify.com/artist/3iyac4PtyadMKV4uaTgKYE"
-        }
-      ],
-      "duration_ms": 213750,
-      "name": "it's easy",
-      "url": "https://open.spotify.com/track/6XP4bQYV2cvmqCVfAy89HH"
-    },
-    {
-      "added_at": "2024-03-06 05:00:00",
-      "album": {
-        "name": "Time Is Forever",
-        "url": "https://open.spotify.com/album/4nPxhSRgMI8fV4JlVItpI8"
-      },
-      "artists": [
-        {
-          "name": "Holly Macve",
-          "url": "https://open.spotify.com/artist/2E51tnARTxTvmYznDHfE5V"
-        }
-      ],
-      "duration_ms": 244470,
-      "name": "Time Is Forever",
-      "url": "https://open.spotify.com/track/11LJTCJQB9f5O51iVz45cw"
     }
   ],
   "unique_name": "Fresh Finds Indie",

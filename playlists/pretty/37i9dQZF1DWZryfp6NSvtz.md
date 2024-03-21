@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZryfp6NSvtz.md) - [plain]
 
 > The best new rock tracks every week\. Cover: Mirrortalk
 
-[Spotify](https://open.spotify.com/user/spotify) - 457,414 likes - 40 songs - 2 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 457,553 likes - 40 songs - 2 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZryfp6NSvtz.md) - [plain]
 | 39 | [Used to Be Cool](https://open.spotify.com/track/15RPMctF5zgZz3o9C5Lv9G) | [Sadboys.](https://open.spotify.com/artist/24VJYhMoHlUHJUx81dn5Li) | [Used to Be Cool](https://open.spotify.com/album/5zAwPDZuUib1ci9II0HDcO) | 3:09 |
 | 40 | [Unsaid](https://open.spotify.com/track/49uhJCtngaCbxNbL2Q0iXF) | [Apart](https://open.spotify.com/artist/1VGohhkVWe2cCk6Ks9TChB) | [Unsaid](https://open.spotify.com/album/4ilcQu9fD4aieiRbfziPCw) | 4:34 |
 
-Snapshot ID: `MCw5NmNjMzJkMjVhZGE4ZDBkNDBhNWY0ZmRlYmU1MTAxZmZhYmIyY2E2`
+Snapshot ID: `MCw1NzZlMjRmYjYwZTU0OTU2N2U5NGRlYTg1MTY5YTgxMTJkYjVmZmI0`

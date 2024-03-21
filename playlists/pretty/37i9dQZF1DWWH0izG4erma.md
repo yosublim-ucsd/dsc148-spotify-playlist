@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWH0izG4erma.md) - [plain]
 
 > Country Music that rocks\. Cover: Ole 60
 
-[Spotify](https://open.spotify.com/user/spotify) - 588,810 likes - 100 songs - 5 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 588,950 likes - 100 songs - 5 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,15 +35,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWH0izG4erma.md) - [plain]
 | 25 | [In Between](https://open.spotify.com/track/3vA24UtKMDGaK5KkzsulYD) | [Treaty Oak Revival](https://open.spotify.com/artist/3444S3C4U9Ts86BnCtSPRV) | [Have A Nice Day](https://open.spotify.com/album/2xXY6j7QVSz6rpqEU9q1Ha) | 3:40 |
 | 26 | [In My Head Again](https://open.spotify.com/track/4zgrxZPjYlIpvvZYY3xnO5) | [Owen Riegling](https://open.spotify.com/artist/0FDlMMfT3tLEKM0QdEIHYu) | [In My Head Again](https://open.spotify.com/album/43YBR5WHLqimx95qVDXquE) | 4:12 |
 | 27 | [TRUCK BED](https://open.spotify.com/track/73NzYbpaYvQ7JfpjztFESL) | [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy) | [TRUCK BED](https://open.spotify.com/album/1boiPTdVLFiJQIhcH3dWVq) | 2:47 |
-| 28 | [Sin So Sweet](https://open.spotify.com/track/4N3mpuGDYO39LYh4XepwbO) | [Warren Zeiders](https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi) | [Sin So Sweet](https://open.spotify.com/album/45GYmPkrKlJKNoEumS726f) | 3:21 |
-| 29 | [Devil Always Made Me Think Twice](https://open.spotify.com/track/3olGkpomYOWwRZsbFTZqiX) | [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [Starting Over](https://open.spotify.com/album/0sOeI7pbAmIc8aDFyvkBUW) | 3:51 |
+| 28 | [Devil Always Made Me Think Twice](https://open.spotify.com/track/3olGkpomYOWwRZsbFTZqiX) | [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [Starting Over](https://open.spotify.com/album/0sOeI7pbAmIc8aDFyvkBUW) | 3:51 |
+| 29 | [Sin So Sweet](https://open.spotify.com/track/4N3mpuGDYO39LYh4XepwbO) | [Warren Zeiders](https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi) | [Sin So Sweet](https://open.spotify.com/album/45GYmPkrKlJKNoEumS726f) | 3:21 |
 | 30 | [Poor Everybody Else](https://open.spotify.com/track/5EdBMq8ChkcIhegMPzVWCT) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Denim & Rhinestones](https://open.spotify.com/album/2owWAe2Sg7kh14s1JzR67u) | 3:45 |
 | 31 | [Change](https://open.spotify.com/track/5GqFHxvAVUmZPdAFj6THjD) | [Bailey Zimmerman](https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf) | [Change](https://open.spotify.com/album/5jmp7q0hmtB7vlacGfTdAB) | 3:08 |
 | 32 | [Better Off](https://open.spotify.com/track/5KcBudCONtFGSI4c9YAH5u) | [Hayden Coffman](https://open.spotify.com/artist/5p7Ph7LBiVb8cUCCSGq5aF) | [Better Off](https://open.spotify.com/album/2roA5wl3liKHgs7kVGrgL6) | 3:18 |
-| 33 | [Wanna Be Saved](https://open.spotify.com/track/0QIycBLxxiOSt72lTxb61k) | [Austin Williams](https://open.spotify.com/artist/1VKH3J7gGkVyOX0sEqsFSR) | [Wanna Be Saved](https://open.spotify.com/album/1VQpcSSC03gR55vH8orBOz) | 3:08 |
-| 34 | [Goin For Broke](https://open.spotify.com/track/5bu8p495FPdRySYSptdny2) | [Bryan Martin](https://open.spotify.com/artist/0ChjBYedhZTQnWZWQYg15U) | [Goin For Broke](https://open.spotify.com/album/0nC10tRxCwec2GHP6m9oau) | 3:22 |
+| 33 | [Wanna Be Saved](https://open.spotify.com/track/46G8X46RVsqg0I57DjP8qh) | [Austin Williams](https://open.spotify.com/artist/1VKH3J7gGkVyOX0sEqsFSR) | [Wanna Be Saved](https://open.spotify.com/album/4BdjNaOmvOspT2oyHnVAtw) | 3:08 |
+| 34 | [Ride the Lightning \- 717 Tapes](https://open.spotify.com/track/04YKO5t4AZrsqKfGhhUb2j) | [Warren Zeiders](https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi) | [717 Tapes the Album](https://open.spotify.com/album/1GI8XiKz756eajoeB4onFU) | 3:06 |
 | 35 | [Martha Divine](https://open.spotify.com/track/7cokvE1fABqkJL8FgUiBcS) | [Ashley McBryde](https://open.spotify.com/artist/371jpyGdoChzUASOIG2ECV) | [Never Will](https://open.spotify.com/album/0GETdJ0C2pHIqCFLoUa0rP) | 3:37 |
-| 36 | [Ride the Lightning \- 717 Tapes](https://open.spotify.com/track/04YKO5t4AZrsqKfGhhUb2j) | [Warren Zeiders](https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi) | [717 Tapes the Album](https://open.spotify.com/album/1GI8XiKz756eajoeB4onFU) | 3:06 |
+| 36 | [Goin For Broke](https://open.spotify.com/track/5bu8p495FPdRySYSptdny2) | [Bryan Martin](https://open.spotify.com/artist/0ChjBYedhZTQnWZWQYg15U) | [Goin For Broke](https://open.spotify.com/album/0nC10tRxCwec2GHP6m9oau) | 3:22 |
 | 37 | [Running Away](https://open.spotify.com/track/3DqluBhdHm3yd7g5UKQgCo) | [Kolby Cooper](https://open.spotify.com/artist/2dz0ijxEHh6AzUzQBwBSKx) | [Running Away](https://open.spotify.com/album/0tUApfCmluO2i5lNTbPcgg) | 3:14 |
 | 38 | [Country Boy \(feat\. Charlie Daniels, Chris Young, & George Jones\)](https://open.spotify.com/track/5TzoqLAFczwhUMrjNlWITI) | [Aaron Lewis](https://open.spotify.com/artist/2t2XKfWKLXpFIjFwy1K8wx), [Charlie Daniels](https://open.spotify.com/artist/6UpFUXmXvDV7Qj1SPymamh), [Chris Young](https://open.spotify.com/artist/4BYxqVkZyFjtik7crYLg5Q), [George Jones](https://open.spotify.com/artist/2OpqcUtj10HHvGG6h9VYC5) | [Town Line](https://open.spotify.com/album/080zNTXnyXccahBk0Vv6wG) | 4:43 |
 | 39 | [Outlaws & Outsiders](https://open.spotify.com/track/2C2ExKriHRkD9qNilogjXn) | [Cory Marks](https://open.spotify.com/artist/17pJAHDfdLvGuUwl2DkEgv), [Travis Tritt](https://open.spotify.com/artist/2M4Yt7oKGoYd0wqU44k4i2), [Ivan Moody](https://open.spotify.com/artist/0IkXJjOYzNVtC7JByRI2cD), [Mick Mars](https://open.spotify.com/artist/5zSvn5I6wIFwEgFxIIaqJc) | [Who I Am](https://open.spotify.com/album/7hAIZs0bKgPMX8J10TBZiU) | 3:17 |
@@ -91,9 +91,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWH0izG4erma.md) - [plain]
 | 81 | [Mine Never Could](https://open.spotify.com/track/3sShyPAlNV2WiZK1y6AOcN) | [Trey Lewis](https://open.spotify.com/artist/15tTVhFpH8EFXeDgO9xkRO) | [Mine Never Could](https://open.spotify.com/album/33mdBMjdHSWrIjrmHIhxGX) | 3:05 |
 | 82 | [Cuckoo](https://open.spotify.com/track/3qGtdBULj8YlGAYYrPhUJF) | [Stephen Wilson Jr.](https://open.spotify.com/artist/4DSDa4HvAWqvb3dMHUOAfd) | [søn of dad](https://open.spotify.com/album/1yoC2Wq50qymZj5HyF2z2A) | 4:28 |
 | 83 | [Lips Of An Angel](https://open.spotify.com/track/6CmzMi95AEhOLIFKOF98ln) | [Shaylen](https://open.spotify.com/artist/5wqQVApxKeHbMsfLJTfWMJ), [Austin John Winkler](https://open.spotify.com/artist/7qxZtX9UNGo338GpLJsSjP) | [Lips Of An Angel](https://open.spotify.com/album/4XjC54w13spoXJeJpFrYLv) | 4:09 |
-| 84 | [Waiting for the Thunder](https://open.spotify.com/track/0Rxgdpe1zgZ6ZzHgxSaYEJ) | [Blackberry Smoke](https://open.spotify.com/artist/5P1oS9DUTPEqcrmXDmX4p8) | [Like an Arrow](https://open.spotify.com/album/4r0Zb1FdEFbpF5olm5ZIW0) | 4:07 |
+| 84 | [Hit Different](https://open.spotify.com/track/5utQCXbXEQmOdIp9vE3rOD) | [Rvshvd](https://open.spotify.com/artist/4YTk2H7LWeoCgdoQ5umieQ) | [Hit Different](https://open.spotify.com/album/4wMy9xe7Ob8pFG7lrBiXFB) | 3:13 |
 | 85 | [Candle In The Dark](https://open.spotify.com/track/5NFZ0EDMwedt9fKXlDPNYm) | [Them Dirty Roses](https://open.spotify.com/artist/6n9Ciz68f2aZF98RAdshe6) | [Candle In The Dark](https://open.spotify.com/album/3usMJx3KAQC39y4tAmKcRU) | 4:29 |
-| 86 | [Hit Different](https://open.spotify.com/track/5utQCXbXEQmOdIp9vE3rOD) | [Rvshvd](https://open.spotify.com/artist/4YTk2H7LWeoCgdoQ5umieQ) | [Hit Different](https://open.spotify.com/album/4wMy9xe7Ob8pFG7lrBiXFB) | 3:13 |
+| 86 | [Waiting for the Thunder](https://open.spotify.com/track/0Rxgdpe1zgZ6ZzHgxSaYEJ) | [Blackberry Smoke](https://open.spotify.com/artist/5P1oS9DUTPEqcrmXDmX4p8) | [Like an Arrow](https://open.spotify.com/album/4r0Zb1FdEFbpF5olm5ZIW0) | 4:07 |
 | 87 | [Long Haired Country Boy \(feat\. The Rockin' CJB\)](https://open.spotify.com/track/4j6mrg4fGP1MVfOPN740VJ) | [Cody Johnson](https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I), [The Rockin' CJB](https://open.spotify.com/artist/29MrkEEHOU5icmFXxLe0OV) | [Ain't Nothin' to It](https://open.spotify.com/album/62aYom0k3j1RBe4uPC64ob) | 4:17 |
 | 88 | [Made For This](https://open.spotify.com/track/7FR7CofCQiuyt75srjwhER) | [Ashley McBryde](https://open.spotify.com/artist/371jpyGdoChzUASOIG2ECV) | [Made For This](https://open.spotify.com/album/2oILhqKBizkC5tfTvh3J8T) | 3:43 |
 | 89 | [Creeps](https://open.spotify.com/track/0zOert4KpMDEf332FVRuxb) | [Koe Wetzel](https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ) | [Creeps](https://open.spotify.com/album/2lUDd3HMuFnMgK3KfniBGB) | 3:46 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWH0izG4erma.md) - [plain]
 | 99 | [Cottonmouth \(Rock Mix\)](https://open.spotify.com/track/0wCXdCprsEdga0yF9rBuFp) | [Rvshvd](https://open.spotify.com/artist/4YTk2H7LWeoCgdoQ5umieQ), [Ice Nine Kills](https://open.spotify.com/artist/52qKfVcIV4GS8A8Vay2xtt) | [Cottonmouth \(Rock Mix\) \(feat\. Spencer Charnas of Ice Nine Kills\)](https://open.spotify.com/album/6ddfTbi21HXRpqGNTmswOL) | 2:45 |
 | 100 | [Neon Light](https://open.spotify.com/track/289hx4t6fH2BBe8p6cnXo1) | [Blake Shelton](https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw) | [BRINGING BACK THE SUNSHINE](https://open.spotify.com/album/0daIqjuhsQqXoeII3pBSeT) | 3:41 |
 
-Snapshot ID: `MCw3YzM0MThmYTYzZWE4ZGZiZDdmMTIzOGRkYTBlYTE3YThkMGEyOWQy`
+Snapshot ID: `MCwwZGNhNjUwOGRiMmYzOTlkY2Y5YWQ5OTE3NmExOGViMjEwNDlkYzhh`

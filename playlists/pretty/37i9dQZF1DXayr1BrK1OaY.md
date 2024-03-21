@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXayr1BrK1OaY.md) - [plain]
 
 > let the dj set u free
 
-[Spotify](https://open.spotify.com/user/spotify) - 213,567 likes - 100 songs - 5 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 213,684 likes - 100 songs - 5 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,15 +89,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXayr1BrK1OaY.md) - [plain]
 | 79 | [Keep On Dancing](https://open.spotify.com/track/0f8PWE8E1UB3HqREAkqoa5) | [AVAION](https://open.spotify.com/artist/5oJvmyeWzyeahRtjup3Oys) | [Keep On Dancing](https://open.spotify.com/album/5kpKJ5RolSyJGW80Y1VqDi) | 3:05 |
 | 80 | [Broken Glass](https://open.spotify.com/track/78ldtCaBRJVp2i91B715L0) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Golden Hour](https://open.spotify.com/album/7tcs1X9pzFvcLOPuhCstQJ) | 3:23 |
 | 81 | [Save Our Ship \(SOS\)](https://open.spotify.com/track/0SuFM875msKXWm8E3x34DA) | [Bless You](https://open.spotify.com/artist/0YFOK5sYNqbCJEgD0xOti9) | [Save Our Ship \(SOS\)](https://open.spotify.com/album/62CmBWPso8MZGNl3S47YdA) | 3:17 |
-| 82 | [I Can Make It](https://open.spotify.com/track/5ciL7TMQsSDLIkrGXuRYbY) | [CRi](https://open.spotify.com/artist/3NaMuUYTIGm6CC3YqTuTvi) | [I Can Make It](https://open.spotify.com/album/3pbmaOn4zqdizRfvYKPoat) | 4:09 |
-| 83 | [Lose You](https://open.spotify.com/track/00I5NjPGm836J2MQmYxhs9) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [Gloria](https://open.spotify.com/album/3Uq1jNGnD412ZvCb6j2DKV) | 3:10 |
-| 84 | [Maze](https://open.spotify.com/track/1sFIeryYtYTqcRqZiEuIxh) | [Punctual](https://open.spotify.com/artist/1ocnIbhFWM9bSPrd7Hu4zF), [PHIA](https://open.spotify.com/artist/6O6aPDrL58wZRzQ6Rqq9or) | [Maze](https://open.spotify.com/album/3IoThqpjyqj8cjbz5RCTrj) | 3:03 |
-| 85 | [Alone Together](https://open.spotify.com/track/7a7FMaC8Kaayk2xYYlzFHS) | [Astrality](https://open.spotify.com/artist/6KGv020mJkIjQH5YPDSBcZ), [Georgia Blackwell](https://open.spotify.com/artist/0aZGNGBOglfjuaQ7sFG6Rq) | [Alone Together](https://open.spotify.com/album/4TXtU60U4NQ8zZXpZRiIZE) | 3:19 |
+| 82 | [Lose You](https://open.spotify.com/track/00I5NjPGm836J2MQmYxhs9) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [Gloria](https://open.spotify.com/album/3Uq1jNGnD412ZvCb6j2DKV) | 3:10 |
+| 83 | [I Can Make It](https://open.spotify.com/track/5ciL7TMQsSDLIkrGXuRYbY) | [CRi](https://open.spotify.com/artist/3NaMuUYTIGm6CC3YqTuTvi) | [I Can Make It](https://open.spotify.com/album/3pbmaOn4zqdizRfvYKPoat) | 4:09 |
+| 84 | [Alone Together](https://open.spotify.com/track/7a7FMaC8Kaayk2xYYlzFHS) | [Astrality](https://open.spotify.com/artist/6KGv020mJkIjQH5YPDSBcZ), [Georgia Blackwell](https://open.spotify.com/artist/0aZGNGBOglfjuaQ7sFG6Rq) | [Alone Together](https://open.spotify.com/album/4TXtU60U4NQ8zZXpZRiIZE) | 3:19 |
+| 85 | [Maze](https://open.spotify.com/track/1sFIeryYtYTqcRqZiEuIxh) | [Punctual](https://open.spotify.com/artist/1ocnIbhFWM9bSPrd7Hu4zF), [PHIA](https://open.spotify.com/artist/6O6aPDrL58wZRzQ6Rqq9or) | [Maze](https://open.spotify.com/album/3IoThqpjyqj8cjbz5RCTrj) | 3:03 |
 | 86 | [Just Over](https://open.spotify.com/track/3U4wxiV8A190qwogybOHC9) | [Yotto](https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo) | [Growth](https://open.spotify.com/album/4Hzs5eQgd83luaFDwTeSvv) | 2:54 |
 | 87 | [Little Planets \- Remix](https://open.spotify.com/track/0kfNu4qJOo7vgRWDCnMiBa) | [RIZ LA VIE](https://open.spotify.com/artist/0QkgnHpxSCOYdTnhUR9S5k), [Łaszewo](https://open.spotify.com/artist/6jxGLrn1I14RIeRYodOpLN) | [Little Planets \- Remix](https://open.spotify.com/album/1jyr9byDQASsa5aR5oQbqg) | 4:00 |
 | 88 | [Wildfire](https://open.spotify.com/track/4mzrTgfQZK1lSWEXW79MtR) | [DLMT](https://open.spotify.com/artist/5rG00A9pRANrMDzVI3DrmF), [Luis Torres](https://open.spotify.com/artist/60esHjNSJRdCNHApNP4XzW), [Rico 56](https://open.spotify.com/artist/1fMQutD7EmZamY65WftFWm) | [Wildfire](https://open.spotify.com/album/6mglq83ABZ8iEldnQYskVg) | 3:25 |
-| 89 | [What's a Girl to Do](https://open.spotify.com/track/5N720bYInxSsiUDvBOLM3C) | [Fatima Yamaha](https://open.spotify.com/artist/7eZRt08LoDy0nfIS6OwyMP) | [A Girl Between Two Worlds](https://open.spotify.com/album/4MGNcuX4Vvhv2hhn1FwtDW) | 7:26 |
-| 90 | [Forever In My Mind](https://open.spotify.com/track/6R0nFHrfq2iCJ1yeWn5IGB) | [Madism](https://open.spotify.com/artist/5UUdxfBMwm0hLlLgnZtBFv), [LPW](https://open.spotify.com/artist/22fLwOqQV0IYn4GTTfg4Ha) | [Forever In My Mind](https://open.spotify.com/album/0C20miwgWYO2hHrw66OmYW) | 2:32 |
+| 89 | [Forever In My Mind](https://open.spotify.com/track/6R0nFHrfq2iCJ1yeWn5IGB) | [Madism](https://open.spotify.com/artist/5UUdxfBMwm0hLlLgnZtBFv), [LPW](https://open.spotify.com/artist/22fLwOqQV0IYn4GTTfg4Ha) | [Forever In My Mind](https://open.spotify.com/album/0C20miwgWYO2hHrw66OmYW) | 2:32 |
+| 90 | [What's a Girl to Do](https://open.spotify.com/track/5N720bYInxSsiUDvBOLM3C) | [Fatima Yamaha](https://open.spotify.com/artist/7eZRt08LoDy0nfIS6OwyMP) | [A Girl Between Two Worlds](https://open.spotify.com/album/4MGNcuX4Vvhv2hhn1FwtDW) | 7:26 |
 | 91 | [Howl](https://open.spotify.com/track/3360fzHkXtFCGSnTpyBMRA) | [Elderbrook](https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64), [Tourist](https://open.spotify.com/artist/2ABBMkcUeM9hdpimo86mo6) | [Howl](https://open.spotify.com/album/6IYBjFaUzMGNj6mptyYg66) | 4:17 |
 | 92 | [Where did you go](https://open.spotify.com/track/0CUR9GVPMJmzz9r887N4UV) | [AVAION](https://open.spotify.com/artist/5oJvmyeWzyeahRtjup3Oys), [MAGNUS](https://open.spotify.com/artist/4pOglqMAavrWFo20ORRx5w) | [Where did you go](https://open.spotify.com/album/1MRd1XMJpkkmtmMP57hTmE) | 2:48 |
 | 93 | [Loud Places](https://open.spotify.com/track/7lPgKA5mLFNmGPMdb07OlM) | [Jamie xx](https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ), [Romy](https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb) | [In Colour](https://open.spotify.com/album/04Duapg2mNlVykd895xcfZ) | 4:43 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXayr1BrK1OaY.md) - [plain]
 | 99 | [Hopeful](https://open.spotify.com/track/7JXVPV3BIeuDs7JImsuN9P) | [ODESZA](https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw) | [Hopeful](https://open.spotify.com/album/12Dxabl9jxz3xNFkfAotIT) | 4:08 |
 | 100 | [About Us \(feat\. EMME\)](https://open.spotify.com/track/6NitJf2pJZ4ssPTWZ1ZuVv) | [Le Youth](https://open.spotify.com/artist/1Zz6NBe8UIZjm88TvehFtx), [EMME](https://open.spotify.com/artist/04zy0QJacNRBhI0H3WmkSs) | [About Us \(feat\. EMME\)](https://open.spotify.com/album/5lK1i9qlTSll67PyLqcxrs) | 4:46 |
 
-Snapshot ID: `MCwzYmZhNWU4OGIyM2FkMzI3ZjAzYTY4MGVkYzdmYmVjYTdmMWIyYjY0`
+Snapshot ID: `MCxiZGQwNWJiZGYwNzZjOTM1OWVhNGE1YzI0MzUxZTc4NDk0NjY2YjIy`

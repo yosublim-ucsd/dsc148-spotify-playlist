@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdEZt3tTR001.md) - [plain]
 
 > lay back\. chill out.
 
-[Spotify](https://open.spotify.com/user/spotify) - 161,675 likes - 80 songs - 5 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 161,792 likes - 80 songs - 5 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdEZt3tTR001.md) - [plain]
 | 26 | [Good & Plenty](https://open.spotify.com/track/1VAKnb1btGrQXcVZVSRkPe) | [Alex Isley](https://open.spotify.com/artist/7E2ioKxoxI2J94tUkIx6As), [Masego](https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig), [Jack Dine](https://open.spotify.com/artist/2NWuUOptHRTogSZghYspAE) | [Good & Plenty](https://open.spotify.com/album/53FhNZMrcBim6Ec9mp8ifl) | 3:24 |
 | 27 | [He's Mine](https://open.spotify.com/track/47t8t4OPGwiIC9JHLbFZ7c) | [MoKenStef](https://open.spotify.com/artist/4R4Y06WNH0YEMcugwoGPPj) | [azz izz](https://open.spotify.com/album/0wEvHIziY96Zo6hJKltqs9) | 4:14 |
 | 28 | [Tell Me](https://open.spotify.com/track/2lp8xjq0WTm3HZKHuDEweg) | [Groove Theory](https://open.spotify.com/artist/7opRqRgF9lvnVraBFCMvIj) | [Groove Theory](https://open.spotify.com/album/0VVegiriO1eyyfOKrLmxtc) | 3:56 |
-| 29 | [Wish I Didn't Miss You](https://open.spotify.com/track/3tZm76otWH20xzJC7icHCk) | [Angie Stone](https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM) | [Mahogany Soul](https://open.spotify.com/album/1pJld4hH1xL3ONIlWZEhXw) | 4:30 |
-| 30 | [Self](https://open.spotify.com/track/0J9uaeOd7GZi9MTybtqAD4) | [Cleo Sol](https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq) | [Heaven](https://open.spotify.com/album/6aWsHOGYXoEY1kxnxGMLwU) | 3:19 |
+| 29 | [Self](https://open.spotify.com/track/0J9uaeOd7GZi9MTybtqAD4) | [Cleo Sol](https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq) | [Heaven](https://open.spotify.com/album/6aWsHOGYXoEY1kxnxGMLwU) | 3:19 |
+| 30 | [Wish I Didn't Miss You](https://open.spotify.com/track/3tZm76otWH20xzJC7icHCk) | [Angie Stone](https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM) | [Mahogany Soul](https://open.spotify.com/album/1pJld4hH1xL3ONIlWZEhXw) | 4:30 |
 | 31 | [At Your Best \(You Are Love\)](https://open.spotify.com/track/4lRrk574qIHpoEEKC1zuam) | [Aaliyah](https://open.spotify.com/artist/0urTpYCsixqZwgNTkPJOJ4) | [Age Ain't Nothing But A Number](https://open.spotify.com/album/3E3QRjL4Cre7Krms420Irl) | 4:51 |
 | 32 | [Stronger Than Me](https://open.spotify.com/track/5LC7nItIEFp4nzdFdEGbf9) | [Amy Winehouse](https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR) | [AMY \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5Fb59VtYjJNTXPcNGpoDU3) | 3:34 |
 | 33 | [Bridge Over Troubled Water \(feat\. John Legend & Tori Kelly\)](https://open.spotify.com/track/4FG5dNlurEtZ84kCTg5YLA) | [Jacob Collier](https://open.spotify.com/artist/0QWrMNukfcVOmgEU0FEDyD), [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t), [Tori Kelly](https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr) | [Bridge Over Troubled Water \(feat\. John Legend & Tori Kelly\)](https://open.spotify.com/album/1Zo8V5bfUxTiLPQRO99FK5) | 5:52 |
@@ -52,8 +52,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdEZt3tTR001.md) - [plain]
 | 42 | [LIMB](https://open.spotify.com/track/5RG1HRQocUAafoCrGd9lY5) | [Planet Giza](https://open.spotify.com/artist/332mFY6yBda91AsIOSKirG) | [Don't Throw Rocks At The Moon](https://open.spotify.com/album/11enzbnR8lIHAwA82Zz3nH) | 1:44 |
 | 43 | [Say Yes](https://open.spotify.com/track/2fE4MbwX3QGMzNaMjGVhtw) | [Floetry](https://open.spotify.com/artist/0un6YenPxWZ2VW4aFGMupM) | [Floetic](https://open.spotify.com/album/37dLqaW3KP18Aeqesq0Exi) | 4:28 |
 | 44 | [NO SZNS](https://open.spotify.com/track/0dn6S6lJqAIQg90kMmWtVj) | [Jean Dawson](https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [NO SZNS](https://open.spotify.com/album/05kT1p6wyim40HJVzg7tt3) | 3:33 |
-| 45 | [Coastin’](https://open.spotify.com/track/1IjeGPU5hqHlJpm00zObN7) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv) | [Coastin’](https://open.spotify.com/album/6PVTVZo9iYmpcQucpIN9Kr) | 2:55 |
-| 46 | [Halfcrazy](https://open.spotify.com/track/3oXNIpoUMdk8qGkwCeXqGv) | [Musiq Soulchild](https://open.spotify.com/artist/3UVRliakQfa1pMWIsNuiZ8) | [Juslisen](https://open.spotify.com/album/070dWVyJIxcKQmxPRov0Y5) | 4:14 |
+| 45 | [Halfcrazy](https://open.spotify.com/track/3oXNIpoUMdk8qGkwCeXqGv) | [Musiq Soulchild](https://open.spotify.com/artist/3UVRliakQfa1pMWIsNuiZ8) | [Juslisen](https://open.spotify.com/album/070dWVyJIxcKQmxPRov0Y5) | 4:14 |
+| 46 | [Coastin’](https://open.spotify.com/track/1IjeGPU5hqHlJpm00zObN7) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv) | [Coastin’](https://open.spotify.com/album/6PVTVZo9iYmpcQucpIN9Kr) | 2:55 |
 | 47 | [Fortunate](https://open.spotify.com/track/2RtvkLz5tmOXlzz918It6E) | [Maxwell](https://open.spotify.com/artist/2AOt5htsbtyaHd5Eq3kl3j) | [Fortunate](https://open.spotify.com/album/59f5YlSvsyT1Wa5Df1277H) | 5:01 |
 | 48 | [I Want You](https://open.spotify.com/track/2gmWJA9oF4GD2Vw5QoRqu1) | [Marvin Gaye](https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA) | [I Want You \(Deluxe Edition\)](https://open.spotify.com/album/28nUWsyczStUhYKXTY1IoW) | 4:34 |
 | 49 | [Closer](https://open.spotify.com/track/2UXEwIOtNGUUgGdXnds8V7) | [Goapele](https://open.spotify.com/artist/5cgtn5YWC3Fr06wTps1dBq) | [Even Closer](https://open.spotify.com/album/7KgzSaFHNmywgJTxBcY3zw) | 3:49 |
@@ -70,8 +70,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdEZt3tTR001.md) - [plain]
 | 60 | [Naked](https://open.spotify.com/track/0mKbQvLjf1jVdnOKSZ5nC7) | [Marques Houston](https://open.spotify.com/artist/1goOx6gnQdUllLfSMsL4Rt) | [Naked](https://open.spotify.com/album/4KahGYWAcGDrsjgPHW99Mg) | 4:26 |
 | 61 | [Sleeper](https://open.spotify.com/track/5UWJ898JHDe9Ong9Gnkdhd) | [BADBADNOTGOOD](https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ), [Charlotte Day Wilson](https://open.spotify.com/artist/3GQboECxDT1xqPPWC30p7v) | [Sleeper](https://open.spotify.com/album/49ssk5poFZAKoOJcj7PpsD) | 4:04 |
 | 62 | [Mine](https://open.spotify.com/track/1IxfE1rd0ngSFP8MSqYiv0) | [Alex Isley](https://open.spotify.com/artist/7E2ioKxoxI2J94tUkIx6As), [Jack Dine](https://open.spotify.com/artist/2NWuUOptHRTogSZghYspAE) | [Mine](https://open.spotify.com/album/0RJkdbyHeLAxKXCzIrpyOj) | 3:32 |
-| 63 | [Suspended](https://open.spotify.com/track/1maIZ0gsjVbdANLvl4v0ao) | [Sampha](https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm) | [Lahai](https://open.spotify.com/album/5GuWww4OaildzkmTTlfMN3) | 3:05 |
-| 64 | [My First Love](https://open.spotify.com/track/1y2wM4Qxn27EOsQnhHYA3Q) | [Avant](https://open.spotify.com/artist/0AunegKKH2ys98aLxq8G1A), [KeKe Wyatt](https://open.spotify.com/artist/0KWcq2E8ejxp78jdfpCd4K) | [My Thoughts](https://open.spotify.com/album/6dt3CBDoU2ae7JDSipqXdf) | 4:28 |
+| 63 | [My First Love](https://open.spotify.com/track/1y2wM4Qxn27EOsQnhHYA3Q) | [Avant](https://open.spotify.com/artist/0AunegKKH2ys98aLxq8G1A), [KeKe Wyatt](https://open.spotify.com/artist/0KWcq2E8ejxp78jdfpCd4K) | [My Thoughts](https://open.spotify.com/album/6dt3CBDoU2ae7JDSipqXdf) | 4:28 |
+| 64 | [Suspended](https://open.spotify.com/track/1maIZ0gsjVbdANLvl4v0ao) | [Sampha](https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm) | [Lahai](https://open.spotify.com/album/5GuWww4OaildzkmTTlfMN3) | 3:05 |
 | 65 | [Violet](https://open.spotify.com/track/1EQjOZMvkOXWMK2gx6yTZd) | [Majid Jordan](https://open.spotify.com/artist/4HzKw8XcD0piJmDrrPRCYk) | [Good People](https://open.spotify.com/album/3c2sTUBeNCa5Nf6HACiyA3) | 7:18 |
 | 66 | [Can U Handle It?](https://open.spotify.com/track/6gRGMnzrsAY5Fl2byZf2jd) | [USHER](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj) | [Confessions \(Expanded Edition\)](https://open.spotify.com/album/1RM6MGv6bcl6NrAG8PGoZk) | 4:39 |
 | 67 | [Orange Moon](https://open.spotify.com/track/5dlfvkyZOuBCFP1KbzRHUx) | [Erykah Badu](https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX) | [Mama's Gun](https://open.spotify.com/album/3cADvHRdKniF9ELCn1zbGH) | 7:10 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdEZt3tTR001.md) - [plain]
 | 79 | [Get to You Again](https://open.spotify.com/track/5pNiAcguRrBdYf5V0QXdir) | [Mac Ayres](https://open.spotify.com/artist/0fTav4sBLmYOAzKuJw0grL) | [Something to Feel](https://open.spotify.com/album/02dq5KH5htRQNedTyplLu8) | 4:27 |
 | 80 | [Distance](https://open.spotify.com/track/08W9Md8HXeJrx3omSQE2NF) | [Yebba](https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F) | [Distance](https://open.spotify.com/album/5CMAmUz6cXCAyOutxsyYXC) | 4:15 |
 
-Snapshot ID: `MCxjZjRkMmE4YWQzMzVjZjBkZGFjNmI2NjViMDQ2MjQ2ZmY3NWYzYzA4`
+Snapshot ID: `MCxiOGJhYWNkOThlODJkMzU3YmRjZTU2YTE3ZTEzMDVlMGUyZDNiNzAz`

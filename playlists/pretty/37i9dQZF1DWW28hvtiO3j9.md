@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW28hvtiO3j9.md) - [plain]
 
 > Explore the dazzling sound of Japanese City Pop from the ‘80s./ 都会の夜をクルージング、週末は海辺でリゾート気分。煌めきに満ちた毎日を彩った、黄金期のシティポップ 。
 
-[Spotify](https://open.spotify.com/user/spotify) - 144,991 likes - 50 songs - 3 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 145,072 likes - 50 songs - 3 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW28hvtiO3j9.md) - [plain]
 | 19 | [Love Trip](https://open.spotify.com/track/4dxRUlwCaI9nHUGrfWbLqT) | [Miki Asakura](https://open.spotify.com/artist/6i78fiwTmtgGhVeyQIdITv) | [HIP CITY](https://open.spotify.com/album/4ATf4dCMffq9ikKjoIcoQ4) | 3:44 |
 | 20 | [I'm in Love](https://open.spotify.com/track/5RSpR665UGsu1FFEq1pG8R) | [Tomoko Aran](https://open.spotify.com/artist/2flF63KTodI9rSqbP5gCnp) | [浮遊空間](https://open.spotify.com/album/7fa6VpNPvW2DVbtohJ0x44) | 5:53 |
 | 21 | [指切り](https://open.spotify.com/track/4cqT8OWWECOOKV4VZELuPs) | [大滝詠一](https://open.spotify.com/artist/0cFJWqLH2LZPzuTGS1ljV0) | [大瀧詠一 乗合馬車\(Omnibus\) 50th Anniversary Edition](https://open.spotify.com/album/1uUVkfscVqO6dvHEmURoLp) | 3:36 |
-| 22 | [OH NO,OH YES!](https://open.spotify.com/track/7hT9QzdqxxoWB0JtCGuCnD) | [Mariya Takeuchi](https://open.spotify.com/artist/3WwGRA2o4Ux1RRMYaYDh7N) | [REQUEST \(30th Anniversary Edition\)](https://open.spotify.com/album/4IjRikscB01fLT0BtKT5g5) | 5:18 |
-| 23 | [我がままなハイヒール](https://open.spotify.com/track/0SNdUPM8z7PlBlN3pyqVjB) | [Kaoru Akimoto](https://open.spotify.com/artist/4LUn6its1opwPzxJC1RM72) | [Cologne](https://open.spotify.com/album/5uEl2mEcKfGMij4tpMT164) | 5:03 |
+| 22 | [我がままなハイヒール](https://open.spotify.com/track/0SNdUPM8z7PlBlN3pyqVjB) | [Kaoru Akimoto](https://open.spotify.com/artist/4LUn6its1opwPzxJC1RM72) | [Cologne](https://open.spotify.com/album/5uEl2mEcKfGMij4tpMT164) | 5:03 |
+| 23 | [OH NO,OH YES!](https://open.spotify.com/track/7hT9QzdqxxoWB0JtCGuCnD) | [Mariya Takeuchi](https://open.spotify.com/artist/3WwGRA2o4Ux1RRMYaYDh7N) | [REQUEST \(30th Anniversary Edition\)](https://open.spotify.com/album/4IjRikscB01fLT0BtKT5g5) | 5:18 |
 | 24 | [Jazzy Night](https://open.spotify.com/track/2CzYHourfYD0fQBaBHgCNS) | [Miki Matsubara](https://open.spotify.com/artist/4hUmsYcvD8C5zuVSP93jb1) | [Who Are You?](https://open.spotify.com/album/64RtMrgkknSMaWhA8J2mDD) | 3:51 |
 | 25 | [Good Bye Boogie Dance](https://open.spotify.com/track/5LZja1KAke25BqjsidAcsq) | [Anri](https://open.spotify.com/artist/0xGtOrmB2hnrNRLG3vhpSo) | [Bi・Ki・Ni](https://open.spotify.com/album/2ygK2uxtgO5sTZFs3ye1GT) | 4:32 |
 | 26 | [DEAR BREEZE](https://open.spotify.com/track/0DCzMvkONMvWDiOtVzyRUX) | [S\. Kiyotaka & Omega Tribe](https://open.spotify.com/artist/7bG2PIfT22HGxisl6LAohx) | [ANOTHER SUMMER](https://open.spotify.com/album/1ZluSoV6IVEiQxEfrnIYBB) | 4:01 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW28hvtiO3j9.md) - [plain]
 | 49 | [君のハートはマリンブルー](https://open.spotify.com/track/04d2ceRCfAaBwuQfG1WwMK) | [S\. Kiyotaka & Omega Tribe](https://open.spotify.com/artist/7bG2PIfT22HGxisl6LAohx) | [OMEGA TRIBE GROOVE](https://open.spotify.com/album/7o5mbjGsvO2PrDkL1IRPch) | 4:59 |
 | 50 | [土曜の夜はパラダイス](https://open.spotify.com/track/0nS9XbCc736b2TIXOdrkNe) | [EPO](https://open.spotify.com/artist/0KigzYQAy5EpdIc9g7szPv) | [VITAMIN E・P・O](https://open.spotify.com/album/6IpND4kv199toWznRRTqrW) | 4:09 |
 
-Snapshot ID: `MCw2OThlMTVhZGQwYmE1MjY1NmExYWQzMmVmODc3YTY5NzdkMzUwMzc3`
+Snapshot ID: `MCxhMDczMTU3ZThlODQyM2VhNTgzZmNjMDU3YmRmYTg5ZGQ4ZTE0NzY4`

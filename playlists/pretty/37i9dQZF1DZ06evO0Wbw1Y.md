@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Wbw1Y.md) - [plain]
 
 > This is Ventino\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,347 likes - 42 songs - 2 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,352 likes - 42 songs - 2 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,4 +51,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Wbw1Y.md) - [plain]
 | 41 | [ALÓ](https://open.spotify.com/track/4e9MlCrkbOFfy0xlYJfQsM) | [Kexxy Pardo](https://open.spotify.com/artist/2m6kEXGT6VWc6JqJj36iBx), [Ventino](https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD) | [ALÓ](https://open.spotify.com/album/5pAD2S8xRypRkMR2WqwqhH) | 3:27 |
 | 42 | [Estás](https://open.spotify.com/track/190oPZ25kanU2CRpgi801e) | [Ventino](https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD), [Jeon](https://open.spotify.com/artist/3ECsaSd1fom8coUUkkFzqt) | [Otra Noche](https://open.spotify.com/album/3c9rfTuSviV1bZBnXURf27) | 3:12 |
 
-Snapshot ID: `Mjg1MTQxOTYsMDAwMDAwMDAwNTQ4M2E0MDNmNWY5YzExYjEzNjk4N2NkMDZmNjliMw==`
+Snapshot ID: `Mjg1MTU2NjAsMDAwMDAwMDA3YjhkY2ZlOGE0Yjc3YzdmNDBhZWJmZTljZTJiMTY1YQ==`

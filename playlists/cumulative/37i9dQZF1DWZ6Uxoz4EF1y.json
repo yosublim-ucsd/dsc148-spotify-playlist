@@ -130,7 +130,7 @@
       ],
       "date_added": "2023-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-21",
       "duration_ms": 225493,
       "name": "Amor Imparable",
       "url": "https://open.spotify.com/track/3VkvPeQbdwEYNTs20CJq6U"
@@ -218,7 +218,7 @@
       ],
       "date_added": "2023-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-21",
       "duration_ms": 206875,
       "name": "Barra Libre",
       "url": "https://open.spotify.com/track/1zcR1cWcNL2oVTDznAtpMx"
@@ -471,6 +471,24 @@
     },
     {
       "album": {
+        "name": "Dios No Est\u00e1 Muerto",
+        "url": "https://open.spotify.com/album/1IZIdFfVL4pqxBHVE6QonJ"
+      },
+      "artists": [
+        {
+          "name": "Miel San Marcos",
+          "url": "https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE"
+        }
+      ],
+      "date_added": "2024-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255451,
+      "name": "Dios No Est\u00e1 Muerto",
+      "url": "https://open.spotify.com/track/0XBYD82idDJOtcv4wXCzr5"
+    },
+    {
+      "album": {
         "name": "El Dios Que Cambia Nombre",
         "url": "https://open.spotify.com/album/5NUIrHDIDuMr6Xsob6L5UO"
       },
@@ -486,7 +504,7 @@
       ],
       "date_added": "2023-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-21",
       "duration_ms": 219208,
       "name": "El Dios Que Cambia Nombre",
       "url": "https://open.spotify.com/track/6jxF4JXJ2hK8GEkRHqcj8b"
@@ -544,6 +562,40 @@
       "duration_ms": 260295,
       "name": "El No Pereci\u00f3",
       "url": "https://open.spotify.com/track/5chE8rPKomf8QxhllFujhi"
+    },
+    {
+      "album": {
+        "name": "En Memoria De Ti",
+        "url": "https://open.spotify.com/album/0KKXwGOfPCVNNV9tbtS0ZO"
+      },
+      "artists": [
+        {
+          "name": "Un Coraz\u00f3n",
+          "url": "https://open.spotify.com/artist/4UGA0TDpRVVt2SCz8FZOMm"
+        },
+        {
+          "name": "ECCOS",
+          "url": "https://open.spotify.com/artist/6OnDxasjEMPIRrazHkH61l"
+        },
+        {
+          "name": "Kim Richards",
+          "url": "https://open.spotify.com/artist/5njxJJEEXE6Kxkr4yiFeJi"
+        },
+        {
+          "name": "Lluvia Richards",
+          "url": "https://open.spotify.com/artist/3kcszo6x9oxggpewnHZheB"
+        },
+        {
+          "name": "Steven Richards",
+          "url": "https://open.spotify.com/artist/7nV5z8aBZuot66MlL143o4"
+        }
+      ],
+      "date_added": "2024-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 323344,
+      "name": "En Memoria De Ti",
+      "url": "https://open.spotify.com/track/62fL5RqurblUV6egM3IVjf"
     },
     {
       "album": {
@@ -910,6 +962,28 @@
       "duration_ms": 239773,
       "name": "Hermoso Nombre",
       "url": "https://open.spotify.com/track/3DXTRxmvmN2fGeYEe0XWAq"
+    },
+    {
+      "album": {
+        "name": "Holy Forever (Espa\u00f1ol)",
+        "url": "https://open.spotify.com/album/7uhv3AlIkn9PgQ4W1CsSLl"
+      },
+      "artists": [
+        {
+          "name": "Chris Tomlin",
+          "url": "https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m"
+        },
+        {
+          "name": "Miel San Marcos",
+          "url": "https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE"
+        }
+      ],
+      "date_added": "2024-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 317805,
+      "name": "Holy Forever - Espa\u00f1ol",
+      "url": "https://open.spotify.com/track/0ZxUHxwz0iPK0wnTCetbss"
     },
     {
       "album": {
@@ -1468,7 +1542,7 @@
       ],
       "date_added": "2023-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-21",
       "duration_ms": 219320,
       "name": "Nada Guardaste",
       "url": "https://open.spotify.com/track/5tI6ogwTmRC4M9xR9PF8QS"
@@ -2204,6 +2278,28 @@
       "duration_ms": 510586,
       "name": "Tu presencia es el Cielo",
       "url": "https://open.spotify.com/track/2iBDNtyifH3CtG7Y5VDeAz"
+    },
+    {
+      "album": {
+        "name": "Vivo Est\u00e1s",
+        "url": "https://open.spotify.com/album/1cQr278wCe9Vk7k2wpNULc"
+      },
+      "artists": [
+        {
+          "name": "Aline Barros",
+          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
+        },
+        {
+          "name": "Israel Houghton",
+          "url": "https://open.spotify.com/artist/7pUnaNwiKa3p27L1EwB4X6"
+        }
+      ],
+      "date_added": "2024-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 392026,
+      "name": "Tu Presencia Es El Cielo (Your Presence is Heaven To Me) (feat. Israel Houghton)",
+      "url": "https://open.spotify.com/track/0gSscjszQIv1eiJecgzIW9"
     },
     {
       "album": {

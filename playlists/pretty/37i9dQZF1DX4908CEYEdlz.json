@@ -1,12 +1,12 @@
 {
   "description": "Aumente o volume e ou\u00e7a as bandas que est\u00e3o com tudo no rock! Foto: Kings of Leon",
-  "num_followers": 676240,
+  "num_followers": 676219,
   "original_name": "Volume M\u00e1ximo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0YjgyYjBmZDdhZDQ1OGY5Yzc3NjcxMGVmMTFkYTY5Y2Q1NTI0OGQ0",
+  "snapshot_id": "MCwxMGYwNTFjOTI2YjM4ZTZkZTk1NGZlODhhZjc5ZGRkMDJjZTRlNzZh",
   "tracks": [
     {
       "added_at": "2024-03-01 03:01:00",
@@ -211,6 +211,22 @@
     {
       "added_at": "2024-03-01 03:01:00",
       "album": {
+        "name": "Lighting Up The Sky",
+        "url": "https://open.spotify.com/album/178SPEdKkCkZI05AGiZXad"
+      },
+      "artists": [
+        {
+          "name": "Godsmack",
+          "url": "https://open.spotify.com/artist/6gZq1Q6bdOxsUPUG1TaFbF"
+        }
+      ],
+      "duration_ms": 220839,
+      "name": "Surrender",
+      "url": "https://open.spotify.com/track/1HFXb1wpN8cGuTrRn1idRd"
+    },
+    {
+      "added_at": "2024-03-01 03:01:00",
+      "album": {
         "name": "Mars To Liverpool",
         "url": "https://open.spotify.com/album/7piCqHwCBo70ZiYf603fCi"
       },
@@ -231,18 +247,18 @@
     {
       "added_at": "2024-03-01 03:01:00",
       "album": {
-        "name": "Lighting Up The Sky",
-        "url": "https://open.spotify.com/album/178SPEdKkCkZI05AGiZXad"
+        "name": "Servant Of The Mind (Deluxe)",
+        "url": "https://open.spotify.com/album/1ujOfCZxF2d2R5oOfJbxnP"
       },
       "artists": [
         {
-          "name": "Godsmack",
-          "url": "https://open.spotify.com/artist/6gZq1Q6bdOxsUPUG1TaFbF"
+          "name": "Volbeat",
+          "url": "https://open.spotify.com/artist/0L5fC7Ogm2YwgqVCRcF1bT"
         }
       ],
-      "duration_ms": 220839,
-      "name": "Surrender",
-      "url": "https://open.spotify.com/track/1HFXb1wpN8cGuTrRn1idRd"
+      "duration_ms": 259173,
+      "name": "Temple Of Ekur",
+      "url": "https://open.spotify.com/track/1SsCpBXMHUYlrHR7Hozgvu"
     },
     {
       "added_at": "2024-03-01 03:01:00",
@@ -259,22 +275,6 @@
       "duration_ms": 273693,
       "name": "Too Far Gone?",
       "url": "https://open.spotify.com/track/7KdgYr9jNkQO1Au7BGjGLW"
-    },
-    {
-      "added_at": "2024-03-01 03:01:00",
-      "album": {
-        "name": "Servant Of The Mind (Deluxe)",
-        "url": "https://open.spotify.com/album/1ujOfCZxF2d2R5oOfJbxnP"
-      },
-      "artists": [
-        {
-          "name": "Volbeat",
-          "url": "https://open.spotify.com/artist/0L5fC7Ogm2YwgqVCRcF1bT"
-        }
-      ],
-      "duration_ms": 259173,
-      "name": "Temple Of Ekur",
-      "url": "https://open.spotify.com/track/1SsCpBXMHUYlrHR7Hozgvu"
     },
     {
       "added_at": "2024-03-01 03:01:00",
@@ -363,18 +363,18 @@
     {
       "added_at": "2024-03-01 03:01:00",
       "album": {
-        "name": "Welcome To My House",
-        "url": "https://open.spotify.com/album/0ImZVp5Lh6vnyMUkQtnQIw"
+        "name": "72 Seasons",
+        "url": "https://open.spotify.com/album/70uejEPPRPSLBrTRdfghP5"
       },
       "artists": [
         {
-          "name": "YONAKA",
-          "url": "https://open.spotify.com/artist/3Wcyta3gkOdQ4TfY0WyZpu"
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
         }
       ],
-      "duration_ms": 190611,
-      "name": "By The Time You're Reading This",
-      "url": "https://open.spotify.com/track/0uuxAXS1X7kH0WjC0nD6q9"
+      "duration_ms": 459120,
+      "name": "72 Seasons",
+      "url": "https://open.spotify.com/track/4poeu6nUr4UQo1RXpp29Js"
     },
     {
       "added_at": "2024-03-01 03:01:00",
@@ -395,6 +395,22 @@
     {
       "added_at": "2024-03-01 03:01:00",
       "album": {
+        "name": "Welcome To My House",
+        "url": "https://open.spotify.com/album/0ImZVp5Lh6vnyMUkQtnQIw"
+      },
+      "artists": [
+        {
+          "name": "YONAKA",
+          "url": "https://open.spotify.com/artist/3Wcyta3gkOdQ4TfY0WyZpu"
+        }
+      ],
+      "duration_ms": 190611,
+      "name": "By The Time You're Reading This",
+      "url": "https://open.spotify.com/track/0uuxAXS1X7kH0WjC0nD6q9"
+    },
+    {
+      "added_at": "2024-03-01 03:01:00",
+      "album": {
         "name": "Bullet For My Valentine (Deluxe)",
         "url": "https://open.spotify.com/album/05b3WF6jDA6kf7JtIvKw2c"
       },
@@ -407,22 +423,6 @@
       "duration_ms": 221433,
       "name": "No More Tears To Cry",
       "url": "https://open.spotify.com/track/76uink7chpCLN5HjlDIMCA"
-    },
-    {
-      "added_at": "2024-03-01 03:01:00",
-      "album": {
-        "name": "72 Seasons",
-        "url": "https://open.spotify.com/album/70uejEPPRPSLBrTRdfghP5"
-      },
-      "artists": [
-        {
-          "name": "Metallica",
-          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
-        }
-      ],
-      "duration_ms": 459120,
-      "name": "72 Seasons",
-      "url": "https://open.spotify.com/track/4poeu6nUr4UQo1RXpp29Js"
     },
     {
       "added_at": "2024-03-01 03:01:00",
@@ -495,22 +495,6 @@
     {
       "added_at": "2024-03-01 03:01:00",
       "album": {
-        "name": "Trial By Fire",
-        "url": "https://open.spotify.com/album/0Tfz5EVaNE6oeAn4vttNEi"
-      },
-      "artists": [
-        {
-          "name": "Judas Priest",
-          "url": "https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I"
-        }
-      ],
-      "duration_ms": 261014,
-      "name": "Trial By Fire",
-      "url": "https://open.spotify.com/track/6oIGM95s3TIyPqhHIH2AQ6"
-    },
-    {
-      "added_at": "2024-03-01 03:01:00",
-      "album": {
         "name": "CMF2",
         "url": "https://open.spotify.com/album/7uuvUTNqJqEE3gfHU4bXtt"
       },
@@ -523,6 +507,22 @@
       "duration_ms": 182449,
       "name": "We Are The Rest",
       "url": "https://open.spotify.com/track/1c206nIhscBrNMXM2b5Jfw"
+    },
+    {
+      "added_at": "2024-03-01 03:01:00",
+      "album": {
+        "name": "Trial By Fire",
+        "url": "https://open.spotify.com/album/0Tfz5EVaNE6oeAn4vttNEi"
+      },
+      "artists": [
+        {
+          "name": "Judas Priest",
+          "url": "https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I"
+        }
+      ],
+      "duration_ms": 261014,
+      "name": "Trial By Fire",
+      "url": "https://open.spotify.com/track/6oIGM95s3TIyPqhHIH2AQ6"
     },
     {
       "added_at": "2024-03-01 03:01:00",
@@ -607,22 +607,6 @@
     {
       "added_at": "2024-03-01 03:01:00",
       "album": {
-        "name": "Delta Kream",
-        "url": "https://open.spotify.com/album/682pJqnx8hcrCfSjvyNBki"
-      },
-      "artists": [
-        {
-          "name": "The Black Keys",
-          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
-        }
-      ],
-      "duration_ms": 248511,
-      "name": "Poor Boy a Long Way From Home",
-      "url": "https://open.spotify.com/track/3YZFMK3zwAGbCMZQGWY47J"
-    },
-    {
-      "added_at": "2024-03-01 03:01:00",
-      "album": {
         "name": "\u00d8F KINGD\u00d8M AND CR\u00d8WN",
         "url": "https://open.spotify.com/album/6duwuU8xgK7ShKMCrUxfBi"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 258465,
       "name": "N\u00d8 G\u00d8DS, N\u00d8 MASTERS",
       "url": "https://open.spotify.com/track/7nJMvNlDpJShN4HJNJ97Gh"
+    },
+    {
+      "added_at": "2024-03-01 03:01:00",
+      "album": {
+        "name": "Delta Kream",
+        "url": "https://open.spotify.com/album/682pJqnx8hcrCfSjvyNBki"
+      },
+      "artists": [
+        {
+          "name": "The Black Keys",
+          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
+        }
+      ],
+      "duration_ms": 248511,
+      "name": "Poor Boy a Long Way From Home",
+      "url": "https://open.spotify.com/track/3YZFMK3zwAGbCMZQGWY47J"
     },
     {
       "added_at": "2024-03-01 03:01:00",
@@ -1147,8 +1147,8 @@
     {
       "added_at": "2024-03-01 03:01:00",
       "album": {
-        "name": "Gri\u00f4",
-        "url": "https://open.spotify.com/album/5YfA788MraNWD81KQbWtrB"
+        "name": "Dreadpool",
+        "url": "https://open.spotify.com/album/3vF3bDExugJaSubn8KgPwQ"
       },
       "artists": [
         {
@@ -1156,9 +1156,9 @@
           "url": "https://open.spotify.com/artist/2PftOgEPewb4XsaeE4567t"
         }
       ],
-      "duration_ms": 184245,
-      "name": "UKUMKANI",
-      "url": "https://open.spotify.com/track/5wcGuoIoSWPDckJ5V7Oxyw"
+      "duration_ms": 179564,
+      "name": "Dreadpool",
+      "url": "https://open.spotify.com/track/3Xj5buo2mNxOyxPgT8Xkzy"
     },
     {
       "added_at": "2024-03-01 03:01:00",
@@ -1231,8 +1231,8 @@
     {
       "added_at": "2024-03-01 03:01:00",
       "album": {
-        "name": "Dreadpool",
-        "url": "https://open.spotify.com/album/3vF3bDExugJaSubn8KgPwQ"
+        "name": "Gri\u00f4",
+        "url": "https://open.spotify.com/album/5YfA788MraNWD81KQbWtrB"
       },
       "artists": [
         {
@@ -1240,9 +1240,9 @@
           "url": "https://open.spotify.com/artist/2PftOgEPewb4XsaeE4567t"
         }
       ],
-      "duration_ms": 179564,
-      "name": "Dreadpool",
-      "url": "https://open.spotify.com/track/3Xj5buo2mNxOyxPgT8Xkzy"
+      "duration_ms": 184245,
+      "name": "UKUMKANI",
+      "url": "https://open.spotify.com/track/5wcGuoIoSWPDckJ5V7Oxyw"
     }
   ],
   "unique_name": "Volume M\u00e1ximo",

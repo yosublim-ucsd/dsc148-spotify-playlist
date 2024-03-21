@@ -1,12 +1,12 @@
 {
   "description": "The sound and soul that keeps Mauritius jamming",
-  "num_followers": 2519,
+  "num_followers": 2521,
   "original_name": "Sega Hitlist",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5NzYzYjFmZjdkZTA3NWE2N2NiYTNiZGNlNmI5ZWU5MWM4MmVhZDQ5",
+  "snapshot_id": "MCw4YzNkM2RiZmMzZjU3ZTlmZmYwNjgzNmU5ZWQ3MjNhODdjNmZmYTA3",
   "tracks": [
     {
       "added_at": "2022-08-11 10:05:16",
@@ -371,22 +371,6 @@
     {
       "added_at": "2022-08-11 10:05:16",
       "album": {
-        "name": "La vie est belle (Best Of)",
-        "url": "https://open.spotify.com/album/7b4DC8vFmz0jt4NtmTJpHZ"
-      },
-      "artists": [
-        {
-          "name": "AUBIN",
-          "url": "https://open.spotify.com/artist/280VCDJJf0MzVkC3EAws19"
-        }
-      ],
-      "duration_ms": 250520,
-      "name": "Met dan la joie",
-      "url": "https://open.spotify.com/track/0hBgxcNkXmsVY26iW0ytmZ"
-    },
-    {
-      "added_at": "2022-08-11 10:05:16",
-      "album": {
         "name": "La famille",
         "url": "https://open.spotify.com/album/5SAJBPp2Cny5DAGZjw3Kt7"
       },
@@ -407,6 +391,22 @@
       "duration_ms": 247136,
       "name": "Ingra",
       "url": "https://open.spotify.com/track/2s87WVUExrg6x979SqMdwL"
+    },
+    {
+      "added_at": "2022-08-11 10:05:16",
+      "album": {
+        "name": "La vie est belle (Best Of)",
+        "url": "https://open.spotify.com/album/7b4DC8vFmz0jt4NtmTJpHZ"
+      },
+      "artists": [
+        {
+          "name": "AUBIN",
+          "url": "https://open.spotify.com/artist/280VCDJJf0MzVkC3EAws19"
+        }
+      ],
+      "duration_ms": 250520,
+      "name": "Met dan la joie",
+      "url": "https://open.spotify.com/track/0hBgxcNkXmsVY26iW0ytmZ"
     },
     {
       "added_at": "2022-08-11 10:05:16",
@@ -755,22 +755,6 @@
     {
       "added_at": "2022-08-11 10:05:16",
       "album": {
-        "name": "ZENFAN LAKAZ TOL",
-        "url": "https://open.spotify.com/album/1GBg8Y6eqNGic3rLWVg5DR"
-      },
-      "artists": [
-        {
-          "name": "Bigg Frankii",
-          "url": "https://open.spotify.com/artist/2Xi6Sscx1ZPJ3opKWFm8ya"
-        }
-      ],
-      "duration_ms": 301287,
-      "name": "Granper Sorti Diego",
-      "url": "https://open.spotify.com/track/2AnLL8YXxuG0nfphsR5ZDv"
-    },
-    {
-      "added_at": "2022-08-11 10:05:16",
-      "album": {
         "name": "Coul\u00e8r M\u00e9lanz\u00e9",
         "url": "https://open.spotify.com/album/4BmxLIj92iDtmHAuOnAiiB"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 262976,
       "name": "Mo ti poule",
       "url": "https://open.spotify.com/track/7AONWpNhMoNmpkr6RSNn9P"
+    },
+    {
+      "added_at": "2022-08-11 10:05:16",
+      "album": {
+        "name": "ZENFAN LAKAZ TOL",
+        "url": "https://open.spotify.com/album/1GBg8Y6eqNGic3rLWVg5DR"
+      },
+      "artists": [
+        {
+          "name": "Bigg Frankii",
+          "url": "https://open.spotify.com/artist/2Xi6Sscx1ZPJ3opKWFm8ya"
+        }
+      ],
+      "duration_ms": 301287,
+      "name": "Granper Sorti Diego",
+      "url": "https://open.spotify.com/track/2AnLL8YXxuG0nfphsR5ZDv"
     },
     {
       "added_at": "2022-08-11 10:05:16",

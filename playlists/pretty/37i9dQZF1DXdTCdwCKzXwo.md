@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdTCdwCKzXwo.md) - [plain]
 
 > These early pioneers brought the underground to the foreground\. Cover: The Smiths
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,231,268 likes - 75 songs - 5 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,231,389 likes - 75 songs - 5 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,17 +71,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdTCdwCKzXwo.md) - [plain]
 | 61 | [Save It For Later](https://open.spotify.com/track/5rBOBI3INEw0u0rwNNGib5) | [The English Beat](https://open.spotify.com/artist/1eVEVL20zNLcGrPDOR691N) | [Special Beat Service \(Remastered\)](https://open.spotify.com/album/4Y1DZv5OK6rg4ljw2Oj6wP) | 3:33 |
 | 62 | [Holiday in Cambodia](https://open.spotify.com/track/2OuNnwnNQyWrF47pthWxNb) | [Dead Kennedys](https://open.spotify.com/artist/30U8fYtiNpeA5KH6H87QUV) | [Give Me Convenience or Give Me Death](https://open.spotify.com/album/5Xv8PCJ7ZMmRd3jXnJqg3V) | 3:44 |
 | 63 | [She Don't Use Jelly](https://open.spotify.com/track/1dJuteDIOkGfDSN7zPkzNv) | [The Flaming Lips](https://open.spotify.com/artist/16eRpMNXSQ15wuJoeqguaB) | [Transmissions From the Satellite Heart](https://open.spotify.com/album/0rr668ZzoNDQa1yxhSpBAw) | 3:42 |
-| 64 | [Sweet Jane \- Full Length Version; 2015 Remaster](https://open.spotify.com/track/3cw3Z7mS55gd3NUjh4k0bL) | [The Velvet Underground](https://open.spotify.com/artist/1nJvji2KIlWSseXRSlNYsC) | [Loaded: Re\-Loaded 45th Anniversary Edition](https://open.spotify.com/album/2ny1rPsLOoKNFZhMLubMrs) | 4:06 |
+| 64 | [Heroin](https://open.spotify.com/track/5by3w3NXvwDpV9FBSOR35u) | [The Velvet Underground](https://open.spotify.com/artist/1nJvji2KIlWSseXRSlNYsC), [Nico](https://open.spotify.com/artist/0IwlY33zbBXN7zlS9DP2Cj) | [The Velvet Underground & Nico 45th Anniversary](https://open.spotify.com/album/4xwx0x7k6c5VuThz5qVqmV) | 7:13 |
 | 65 | [Carry the Zero](https://open.spotify.com/track/3HMOMdRPywfouYx5B4PvaH) | [Built To Spill](https://open.spotify.com/artist/3kbBWco9PZ5eSQsNScwG6U) | [Keep It like a Secret](https://open.spotify.com/album/2PKZhfPrgMmK5zug2pqdHA) | 5:43 |
 | 66 | [She Blinded Me With Science](https://open.spotify.com/track/4RkKf3UBRxF2kn2Vh0ww8l) | [Thomas Dolby](https://open.spotify.com/artist/2Uz58cSxlJgefDaSikxYQ7) | [The Golden Age of Wireless](https://open.spotify.com/album/0MaTs2V3oNCaTVoB7rr6Dj) | 3:41 |
 | 67 | [The Lovecats](https://open.spotify.com/track/5rzr3lYGJiw3OXEg8imWgH) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Japanese Whispers](https://open.spotify.com/album/6fFTxlpJPGQbO3CbVz9MOS) | 3:40 |
 | 68 | [Love Will Tear Us Apart \- 2010 Remaster](https://open.spotify.com/track/1r8oPEXqnhUVgkUkJNqEuF) | [Joy Division](https://open.spotify.com/artist/432R46LaYsJZV2Gmc4jUV5) | [Substance](https://open.spotify.com/album/2KPhpTUihx9KRWRwBtpTeJ) | 3:24 |
 | 69 | [Autumn Sweater](https://open.spotify.com/track/19Qi2Cymjh7HDQESDrDBzs) | [Yo La Tengo](https://open.spotify.com/artist/5hAhrnb0Ch4ODwWu4tsbpi) | [I Can Hear The Heart Beating As One](https://open.spotify.com/album/3V18DIKvRuwdxc2LE4wuac) | 5:18 |
-| 70 | [Just Like Honey](https://open.spotify.com/track/1CapNlKgeOWlBEE54CRamd) | [The Jesus and Mary Chain](https://open.spotify.com/artist/4rjlerN21ygkIhmUv55irs) | [Psychocandy](https://open.spotify.com/album/0PnzJO3D4i85ALVJPaDpru) | 3:01 |
-| 71 | [Rock & Roll \- Full Length Version; 2015 Remaster](https://open.spotify.com/track/1o6DclZHw0HomxXEQR1ijX) | [The Velvet Underground](https://open.spotify.com/artist/1nJvji2KIlWSseXRSlNYsC) | [Loaded: Re\-Loaded 45th Anniversary Edition](https://open.spotify.com/album/2ny1rPsLOoKNFZhMLubMrs) | 4:43 |
-| 72 | [Dear God \- Remastered 2001](https://open.spotify.com/track/6nFdjV1Ko66O111x74K2kn) | [XTC](https://open.spotify.com/artist/2qT62DYO8Ajb276vUJmvhz) | [Skylarking](https://open.spotify.com/album/3FVsJiQMI7dp0RfTBdWtMW) | 3:39 |
-| 73 | [Ooh La La \- 2004 Remaster](https://open.spotify.com/track/6TNNMVpOgn8K5NoDC7alG6) | [Faces](https://open.spotify.com/artist/3v4feUQnU3VEUqFrjmtekL) | [The Best of Faces: Good Boys When They're Asleep](https://open.spotify.com/album/375DYMUVvk7xXyKq5IaUTR) | 3:34 |
-| 74 | [Watching The Detectives \- Single Version](https://open.spotify.com/track/0KrYPz4S4mKHeBjCwYJp0s) | [Elvis Costello](https://open.spotify.com/artist/2BGRfQgtzikz1pzAD0kaEn) | [My Aim Is True](https://open.spotify.com/album/1aucGNKimhgARC7iO2xLt2) | 3:46 |
+| 70 | [Dear God \- Remastered 2001](https://open.spotify.com/track/6nFdjV1Ko66O111x74K2kn) | [XTC](https://open.spotify.com/artist/2qT62DYO8Ajb276vUJmvhz) | [Skylarking](https://open.spotify.com/album/3FVsJiQMI7dp0RfTBdWtMW) | 3:39 |
+| 71 | [Sweet Jane \- Full Length Version; 2015 Remaster](https://open.spotify.com/track/3cw3Z7mS55gd3NUjh4k0bL) | [The Velvet Underground](https://open.spotify.com/artist/1nJvji2KIlWSseXRSlNYsC) | [Loaded: Re\-Loaded 45th Anniversary Edition](https://open.spotify.com/album/2ny1rPsLOoKNFZhMLubMrs) | 4:06 |
+| 72 | [Just Like Honey](https://open.spotify.com/track/1CapNlKgeOWlBEE54CRamd) | [The Jesus and Mary Chain](https://open.spotify.com/artist/4rjlerN21ygkIhmUv55irs) | [Psychocandy](https://open.spotify.com/album/0PnzJO3D4i85ALVJPaDpru) | 3:01 |
+| 73 | [Watching The Detectives \- Single Version](https://open.spotify.com/track/0KrYPz4S4mKHeBjCwYJp0s) | [Elvis Costello](https://open.spotify.com/artist/2BGRfQgtzikz1pzAD0kaEn) | [My Aim Is True](https://open.spotify.com/album/1aucGNKimhgARC7iO2xLt2) | 3:46 |
+| 74 | [Ooh La La \- 2004 Remaster](https://open.spotify.com/track/6TNNMVpOgn8K5NoDC7alG6) | [Faces](https://open.spotify.com/artist/3v4feUQnU3VEUqFrjmtekL) | [The Best of Faces: Good Boys When They're Asleep](https://open.spotify.com/album/375DYMUVvk7xXyKq5IaUTR) | 3:34 |
 | 75 | [Because the Night](https://open.spotify.com/track/1A3OA6zON5HHueFm4ejrRF) | [Patti Smith](https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP) | [Outside Society](https://open.spotify.com/album/00tuL4qPxBs3w8S1BaG3Zv) | 3:22 |
 
-Snapshot ID: `MCw4Zjg4MTQ4ODhiOTU5MTVmZWQzMzNkNDMyNzZjZTEzYzVjYWVhODE2`
+Snapshot ID: `MCxlMzkxOTE3NzU0YzY3YWM2MDdiN2M1NGQ4MjAzMGVjZmQzMmVkNTE3`

@@ -1,5 +1,5 @@
 {
-  "2024-03-20": 68790,
+  "2024-03-21": 68800,
   "date_first_scraped": "2023-05-19",
   "description": "Where Sitar meets Guitar. Cover - Shakti",
   "name": "Fusion Finds",
@@ -1003,7 +1003,7 @@
       ],
       "date_added": "2023-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-20",
       "duration_ms": 239813,
       "name": "Lat Ulajhi",
       "url": "https://open.spotify.com/track/7pbF3jhnwASjMxeItgHP1S"
@@ -1505,6 +1505,28 @@
       "duration_ms": 310146,
       "name": "Purvayi",
       "url": "https://open.spotify.com/track/5poTkPZvxROL3RtuxRVtBU"
+    },
+    {
+      "album": {
+        "name": "Purvayi",
+        "url": "https://open.spotify.com/album/7y3lqRTl2XEBhTPjemUbRi"
+      },
+      "artists": [
+        {
+          "name": "Midival Punditz",
+          "url": "https://open.spotify.com/artist/7GmnD2XZleQw8PPzRJV7FY"
+        },
+        {
+          "name": "Papon",
+          "url": "https://open.spotify.com/artist/2FPwX3Gh0w4Qr1v3zSTtcT"
+        }
+      ],
+      "date_added": "2024-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 310146,
+      "name": "Purvayi (feat Papon)",
+      "url": "https://open.spotify.com/track/72Aa8UNEYvnirWp8KaiKdp"
     },
     {
       "album": {

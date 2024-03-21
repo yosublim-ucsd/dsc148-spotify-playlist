@@ -1,5 +1,5 @@
 {
-  "2024-03-20": 456621,
+  "2024-03-21": 456840,
   "date_first_scraped": "2021-12-29",
   "description": "Definitive African party starters, perfect for any jollof jam or braai! \"Spray\" money to these hits!",
   "name": "Afro Party Anthems",
@@ -1193,7 +1193,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-15",
+      "date_removed": null,
       "duration_ms": 176000,
       "name": "Bienvenue",
       "url": "https://open.spotify.com/track/5X55V3mn3RTvHAheUtL6LR"
@@ -1231,7 +1231,7 @@
       ],
       "date_added": "2022-06-23",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-08",
+      "date_removed": null,
       "duration_ms": 327079,
       "name": "Big Flexa",
       "url": "https://open.spotify.com/track/16vqEDaCZpq5zdgop8U9uM"
@@ -1445,7 +1445,7 @@
       ],
       "date_added": "2022-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-20",
       "duration_ms": 183103,
       "name": "Buga (Lo Lo Lo)",
       "url": "https://open.spotify.com/track/4eZZofkV1OQ9GDqAgHqNpA"
@@ -1903,7 +1903,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-20",
       "duration_ms": 181224,
       "name": "Cold Outside",
       "url": "https://open.spotify.com/track/2jZ2MrAk8iNZk1dsI0Vr5z"
@@ -2771,7 +2771,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-20",
       "duration_ms": 155293,
       "name": "Finesse",
       "url": "https://open.spotify.com/track/4Gasn91fsCefnN8zM5GjA8"
@@ -3827,6 +3827,28 @@
       "duration_ms": 363886,
       "name": "iKhehla",
       "url": "https://open.spotify.com/track/7K03DZjeaGXGwWxjpvGX3g"
+    },
+    {
+      "album": {
+        "name": "Bad Boy Etiquette 101",
+        "url": "https://open.spotify.com/album/4MPDBst1efOusd0rI4jlFp"
+      },
+      "artists": [
+        {
+          "name": "Ajebo Hustlers",
+          "url": "https://open.spotify.com/artist/7oVwzvvrXEC8LbXhaNjTi4"
+        },
+        {
+          "name": "Fave",
+          "url": "https://open.spotify.com/artist/4wAqlYtTaaHELEgyCh9KjG"
+        }
+      ],
+      "date_added": "2024-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200412,
+      "name": "In Love",
+      "url": "https://open.spotify.com/track/78LJK1nCgnYprkhLK0JriD"
     },
     {
       "album": {
@@ -5493,7 +5515,7 @@
       ],
       "date_added": "2022-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-20",
       "duration_ms": 178413,
       "name": "No Wahala - Remix",
       "url": "https://open.spotify.com/track/4yaPPFIafaVaMRHZ5IHkbA"
@@ -5741,7 +5763,7 @@
       ],
       "date_added": "2022-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-20",
       "duration_ms": 166153,
       "name": "Omo Ope (feat. Olamide)",
       "url": "https://open.spotify.com/track/7d1aTQlsHMgWmkPywDi7h1"
@@ -6819,7 +6841,7 @@
       ],
       "date_added": "2023-09-27",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-08",
+      "date_removed": null,
       "duration_ms": 208561,
       "name": "Sharpiru",
       "url": "https://open.spotify.com/track/3UnV8C3DyIns9oEQRt0UnZ"
@@ -8539,7 +8561,7 @@
       ],
       "date_added": "2022-11-28",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-08",
+      "date_removed": null,
       "duration_ms": 247680,
       "name": "Won Da Mo",
       "url": "https://open.spotify.com/track/0xPz8qjfchKRCAmABJH65Z"

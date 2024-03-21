@@ -1,12 +1,12 @@
 {
   "description": "Dulce y \u00e1cido: indie pop latino en estado natural. Foto: Paola Navarrete & Adanowsky.",
-  "num_followers": 57007,
+  "num_followers": 57019,
   "original_name": "mandarina",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxMzM3MDM1ZjhkMDE4NTg2ZGEyYzMyZmMzYzRmMTM0Y2M4MGNmZjcx",
+  "snapshot_id": "MCw4OWJmYTU2ODFjYmJhNzY2YTQzOWQyZGQ2YTE5YTBkNTk5YjIzYTkw",
   "tracks": [
     {
       "added_at": "2024-03-07 19:42:20",
@@ -311,22 +311,6 @@
     {
       "added_at": "2024-03-07 19:42:20",
       "album": {
-        "name": "Las Cosas Simples",
-        "url": "https://open.spotify.com/album/4gq30p37s9VgAovyUtfDqz"
-      },
-      "artists": [
-        {
-          "name": "Adrian Bello",
-          "url": "https://open.spotify.com/artist/0ZwjmGhps2YvUMzB7ihFV8"
-        }
-      ],
-      "duration_ms": 247015,
-      "name": "Las Cosas Simples",
-      "url": "https://open.spotify.com/track/3nO0c6dxcZqrDW4WTEtKUr"
-    },
-    {
-      "added_at": "2024-03-07 19:42:20",
-      "album": {
         "name": "Nada Para Ti",
         "url": "https://open.spotify.com/album/5G9mAcnZnP9F1WdqiY370t"
       },
@@ -343,6 +327,22 @@
       "duration_ms": 236255,
       "name": "Nada Para Ti",
       "url": "https://open.spotify.com/track/6EKLpV51tSY9SmMgwdb42W"
+    },
+    {
+      "added_at": "2024-03-07 19:42:20",
+      "album": {
+        "name": "Las Cosas Simples",
+        "url": "https://open.spotify.com/album/4gq30p37s9VgAovyUtfDqz"
+      },
+      "artists": [
+        {
+          "name": "Adrian Bello",
+          "url": "https://open.spotify.com/artist/0ZwjmGhps2YvUMzB7ihFV8"
+        }
+      ],
+      "duration_ms": 247015,
+      "name": "Las Cosas Simples",
+      "url": "https://open.spotify.com/track/3nO0c6dxcZqrDW4WTEtKUr"
     },
     {
       "added_at": "2024-03-07 19:42:20",
@@ -1075,22 +1075,6 @@
     {
       "added_at": "2024-03-07 19:42:20",
       "album": {
-        "name": "INFRUTESCENCIA",
-        "url": "https://open.spotify.com/album/1odlnV35gC6mB26BJ4Q8fm"
-      },
-      "artists": [
-        {
-          "name": "CATALINA",
-          "url": "https://open.spotify.com/artist/6pfrUyP2ZvxxoUcnkglXn2"
-        }
-      ],
-      "duration_ms": 139264,
-      "name": "PARA VERTE",
-      "url": "https://open.spotify.com/track/0oJM0jSk8WjPIuOkHA1OB0"
-    },
-    {
-      "added_at": "2024-03-07 19:42:20",
-      "album": {
         "name": "Los Abrazos son Instantes Decisivos Vol. II",
         "url": "https://open.spotify.com/album/555R1YI4L8OshPz3dNkZdL"
       },
@@ -1107,6 +1091,22 @@
       "duration_ms": 224492,
       "name": "Polvo de estrellas",
       "url": "https://open.spotify.com/track/3SAaPKojF6MTyxoLd5WCXa"
+    },
+    {
+      "added_at": "2024-03-07 19:42:20",
+      "album": {
+        "name": "INFRUTESCENCIA",
+        "url": "https://open.spotify.com/album/1odlnV35gC6mB26BJ4Q8fm"
+      },
+      "artists": [
+        {
+          "name": "CATALINA",
+          "url": "https://open.spotify.com/artist/6pfrUyP2ZvxxoUcnkglXn2"
+        }
+      ],
+      "duration_ms": 139264,
+      "name": "PARA VERTE",
+      "url": "https://open.spotify.com/track/0oJM0jSk8WjPIuOkHA1OB0"
     },
     {
       "added_at": "2024-03-07 19:42:20",
@@ -1155,22 +1155,6 @@
     {
       "added_at": "2024-03-07 19:42:20",
       "album": {
-        "name": "Amiga",
-        "url": "https://open.spotify.com/album/0YaIQWmzrG5b0iWDwzvf5x"
-      },
-      "artists": [
-        {
-          "name": "Miau Tr\u00edo",
-          "url": "https://open.spotify.com/artist/0WIn93XS8EmNaLPG3AZpeL"
-        }
-      ],
-      "duration_ms": 157389,
-      "name": "Amiga",
-      "url": "https://open.spotify.com/track/1MyeYdKKegyVW2LHenX63b"
-    },
-    {
-      "added_at": "2024-03-07 19:42:20",
-      "album": {
         "name": "no hace falta saber",
         "url": "https://open.spotify.com/album/7okZw7sF6r7x5NNF2eMaxW"
       },
@@ -1187,6 +1171,38 @@
       "duration_ms": 168026,
       "name": "no hace falta saber",
       "url": "https://open.spotify.com/track/6lXq1bTonpEYQYSQ9IXI1Y"
+    },
+    {
+      "added_at": "2024-03-07 19:42:20",
+      "album": {
+        "name": "Amiga",
+        "url": "https://open.spotify.com/album/0YaIQWmzrG5b0iWDwzvf5x"
+      },
+      "artists": [
+        {
+          "name": "Miau Tr\u00edo",
+          "url": "https://open.spotify.com/artist/0WIn93XS8EmNaLPG3AZpeL"
+        }
+      ],
+      "duration_ms": 157389,
+      "name": "Amiga",
+      "url": "https://open.spotify.com/track/1MyeYdKKegyVW2LHenX63b"
+    },
+    {
+      "added_at": "2024-03-07 19:42:20",
+      "album": {
+        "name": "Cu\u00e9ntanos Lo Que Pas\u00f3\u2026",
+        "url": "https://open.spotify.com/album/2AqxjpMBlOA9RZx8RWbmju"
+      },
+      "artists": [
+        {
+          "name": "Vera Pedro",
+          "url": "https://open.spotify.com/artist/2agXYMhipkDXIGmy5C158S"
+        }
+      ],
+      "duration_ms": 182866,
+      "name": "Cu\u00e9ntanos Lo Que Pas\u00f3\u2026",
+      "url": "https://open.spotify.com/track/2qNkCvTOfJFdXglLsjzwBO"
     },
     {
       "added_at": "2024-03-07 19:42:20",
@@ -1223,18 +1239,18 @@
     {
       "added_at": "2024-03-07 19:42:20",
       "album": {
-        "name": "Cu\u00e9ntanos Lo Que Pas\u00f3\u2026",
-        "url": "https://open.spotify.com/album/2AqxjpMBlOA9RZx8RWbmju"
+        "name": "Locomotora",
+        "url": "https://open.spotify.com/album/5EGcEvMUKQS4cnJFhlYvvf"
       },
       "artists": [
         {
-          "name": "Vera Pedro",
-          "url": "https://open.spotify.com/artist/2agXYMhipkDXIGmy5C158S"
+          "name": "La Gente del Bien",
+          "url": "https://open.spotify.com/artist/0M7YLSxwvd6kNKHbH8eQUw"
         }
       ],
-      "duration_ms": 182866,
-      "name": "Cu\u00e9ntanos Lo Que Pas\u00f3\u2026",
-      "url": "https://open.spotify.com/track/2qNkCvTOfJFdXglLsjzwBO"
+      "duration_ms": 185296,
+      "name": "Que Placer",
+      "url": "https://open.spotify.com/track/2SS9GnNMqb1ciYOSWLXNAL"
     },
     {
       "added_at": "2024-03-07 19:42:20",
@@ -1251,22 +1267,6 @@
       "duration_ms": 170904,
       "name": "Ya Se Fue",
       "url": "https://open.spotify.com/track/6JQ3tU4PwJr51FW9YRKq43"
-    },
-    {
-      "added_at": "2024-03-07 19:42:20",
-      "album": {
-        "name": "Locomotora",
-        "url": "https://open.spotify.com/album/5EGcEvMUKQS4cnJFhlYvvf"
-      },
-      "artists": [
-        {
-          "name": "La Gente del Bien",
-          "url": "https://open.spotify.com/artist/0M7YLSxwvd6kNKHbH8eQUw"
-        }
-      ],
-      "duration_ms": 185296,
-      "name": "Que Placer",
-      "url": "https://open.spotify.com/track/2SS9GnNMqb1ciYOSWLXNAL"
     },
     {
       "added_at": "2024-03-07 19:42:20",
@@ -1527,26 +1527,6 @@
     {
       "added_at": "2024-03-07 19:42:20",
       "album": {
-        "name": "En una",
-        "url": "https://open.spotify.com/album/0ksnp7Yvn8AqWXAyhiZLD1"
-      },
-      "artists": [
-        {
-          "name": "Camila Buch",
-          "url": "https://open.spotify.com/artist/0FthFdbx8Sjiz5niqeLygV"
-        },
-        {
-          "name": "Mora Navarro",
-          "url": "https://open.spotify.com/artist/1TVta41xrglUQxVheaXZJx"
-        }
-      ],
-      "duration_ms": 219647,
-      "name": "En una",
-      "url": "https://open.spotify.com/track/0JljvMGjWcpbKY5pultmMb"
-    },
-    {
-      "added_at": "2024-03-07 19:42:20",
-      "album": {
         "name": "plasti bonus track",
         "url": "https://open.spotify.com/album/1XVWDJkUFe03SpQDDN8DTS"
       },
@@ -1567,38 +1547,22 @@
     {
       "added_at": "2024-03-07 19:42:20",
       "album": {
-        "name": "Lo Que Hicimos",
-        "url": "https://open.spotify.com/album/5M7QbPWs7IZbZ7GgwucHwh"
+        "name": "En una",
+        "url": "https://open.spotify.com/album/0ksnp7Yvn8AqWXAyhiZLD1"
       },
       "artists": [
         {
-          "name": "Agus Vivo",
-          "url": "https://open.spotify.com/artist/6aULl90kAb6JwNUYjIgUdW"
+          "name": "Camila Buch",
+          "url": "https://open.spotify.com/artist/0FthFdbx8Sjiz5niqeLygV"
         },
         {
-          "name": "S\u00f3nico Vivo",
-          "url": "https://open.spotify.com/artist/4gKGHKgKXprf8kvRCmcrpe"
+          "name": "Mora Navarro",
+          "url": "https://open.spotify.com/artist/1TVta41xrglUQxVheaXZJx"
         }
       ],
-      "duration_ms": 157725,
-      "name": "Lo Que Hicimos",
-      "url": "https://open.spotify.com/track/0sCce9Byqxnaj763s0RaWf"
-    },
-    {
-      "added_at": "2024-03-07 19:42:20",
-      "album": {
-        "name": "Sigo Llorando",
-        "url": "https://open.spotify.com/album/3V1VAfG6FC5nppug6OZHnm"
-      },
-      "artists": [
-        {
-          "name": "Ine Maguire",
-          "url": "https://open.spotify.com/artist/4qAPGbDVkkSdOGo2OEKFqz"
-        }
-      ],
-      "duration_ms": 223349,
-      "name": "Sigo Llorando",
-      "url": "https://open.spotify.com/track/1Ptw4qmBwDENGx2qrfUIBc"
+      "duration_ms": 219647,
+      "name": "En una",
+      "url": "https://open.spotify.com/track/0JljvMGjWcpbKY5pultmMb"
     },
     {
       "added_at": "2024-03-07 19:42:20",
@@ -1619,6 +1583,42 @@
       "duration_ms": 188046,
       "name": "Ya No Era Fel\u00edz",
       "url": "https://open.spotify.com/track/7mTfMbGpBMZQE3pE9cyndg"
+    },
+    {
+      "added_at": "2024-03-07 19:42:20",
+      "album": {
+        "name": "Sigo Llorando",
+        "url": "https://open.spotify.com/album/3V1VAfG6FC5nppug6OZHnm"
+      },
+      "artists": [
+        {
+          "name": "Ine Maguire",
+          "url": "https://open.spotify.com/artist/4qAPGbDVkkSdOGo2OEKFqz"
+        }
+      ],
+      "duration_ms": 223349,
+      "name": "Sigo Llorando",
+      "url": "https://open.spotify.com/track/1Ptw4qmBwDENGx2qrfUIBc"
+    },
+    {
+      "added_at": "2024-03-07 19:42:20",
+      "album": {
+        "name": "Lo Que Hicimos",
+        "url": "https://open.spotify.com/album/5M7QbPWs7IZbZ7GgwucHwh"
+      },
+      "artists": [
+        {
+          "name": "Agus Vivo",
+          "url": "https://open.spotify.com/artist/6aULl90kAb6JwNUYjIgUdW"
+        },
+        {
+          "name": "S\u00f3nico Vivo",
+          "url": "https://open.spotify.com/artist/4gKGHKgKXprf8kvRCmcrpe"
+        }
+      ],
+      "duration_ms": 157725,
+      "name": "Lo Que Hicimos",
+      "url": "https://open.spotify.com/track/0sCce9Byqxnaj763s0RaWf"
     },
     {
       "added_at": "2024-03-07 19:42:20",
@@ -1675,6 +1675,22 @@
     {
       "added_at": "2024-03-07 19:42:20",
       "album": {
+        "name": "lo-fi",
+        "url": "https://open.spotify.com/album/2ou8ilCBWA00ZJDgZtdRb8"
+      },
+      "artists": [
+        {
+          "name": "Martin Oliver",
+          "url": "https://open.spotify.com/artist/3RiVbzQAmviwm6NPFlHYIm"
+        }
+      ],
+      "duration_ms": 175392,
+      "name": "lo-fi",
+      "url": "https://open.spotify.com/track/0jsCPolR169poPX99rNtCe"
+    },
+    {
+      "added_at": "2024-03-07 19:42:20",
+      "album": {
         "name": "La Melancol\u00eda",
         "url": "https://open.spotify.com/album/43naFQmoz0bkCXJOfbxM5t"
       },
@@ -1703,22 +1719,6 @@
     {
       "added_at": "2024-03-07 19:42:20",
       "album": {
-        "name": "lo-fi",
-        "url": "https://open.spotify.com/album/2ou8ilCBWA00ZJDgZtdRb8"
-      },
-      "artists": [
-        {
-          "name": "Martin Oliver",
-          "url": "https://open.spotify.com/artist/3RiVbzQAmviwm6NPFlHYIm"
-        }
-      ],
-      "duration_ms": 175392,
-      "name": "lo-fi",
-      "url": "https://open.spotify.com/track/0jsCPolR169poPX99rNtCe"
-    },
-    {
-      "added_at": "2024-03-07 19:42:20",
-      "album": {
         "name": "Un Nuevo Ritmo",
         "url": "https://open.spotify.com/album/3F2ROcUUuqyFDMAe5WmYr2"
       },
@@ -1739,22 +1739,6 @@
     {
       "added_at": "2024-03-07 19:42:20",
       "album": {
-        "name": "Noche Tem\u00e1tica",
-        "url": "https://open.spotify.com/album/551AmNqvXTAgw2NU5DfRJX"
-      },
-      "artists": [
-        {
-          "name": "Todo El Verano",
-          "url": "https://open.spotify.com/artist/36ql1hMBBeWfqeQmK5vXn9"
-        }
-      ],
-      "duration_ms": 219834,
-      "name": "Noche Tem\u00e1tica",
-      "url": "https://open.spotify.com/track/7k6lLVdDN1pczDJzUhm4n7"
-    },
-    {
-      "added_at": "2024-03-07 19:42:20",
-      "album": {
         "name": "LA ARA\u00d1A",
         "url": "https://open.spotify.com/album/3StTP7lHsMyNlt092aOsCl"
       },
@@ -1767,6 +1751,22 @@
       "duration_ms": 208962,
       "name": "LA ARA\u00d1A",
       "url": "https://open.spotify.com/track/2XsgW6lzGWGCmw9DoOkZ2S"
+    },
+    {
+      "added_at": "2024-03-07 19:42:20",
+      "album": {
+        "name": "Noche Tem\u00e1tica",
+        "url": "https://open.spotify.com/album/551AmNqvXTAgw2NU5DfRJX"
+      },
+      "artists": [
+        {
+          "name": "Todo El Verano",
+          "url": "https://open.spotify.com/artist/36ql1hMBBeWfqeQmK5vXn9"
+        }
+      ],
+      "duration_ms": 219834,
+      "name": "Noche Tem\u00e1tica",
+      "url": "https://open.spotify.com/track/7k6lLVdDN1pczDJzUhm4n7"
     },
     {
       "added_at": "2024-03-07 19:42:20",

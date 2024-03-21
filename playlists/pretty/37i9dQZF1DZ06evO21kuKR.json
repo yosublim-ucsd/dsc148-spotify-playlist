@@ -1,15 +1,15 @@
 {
   "description": "This is Moneybagg Yo. The essential tracks, all in one playlist.",
-  "num_followers": 85052,
+  "num_followers": 85081,
   "original_name": "This Is Moneybagg Yo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Mjg1MTQxOTUsMDAwMDAwMDA0Y2Q3M2RkMmJhMDUwNGRhZDMyMmY1ZTJlNjQxNTY0Mg==",
+  "snapshot_id": "Mjg1MTU2NjEsMDAwMDAwMDA2OGExZDQ4MzczNTAzOTRlNDU1M2RkZWVlZGZiNDk4ZA==",
   "tracks": [
     {
-      "added_at": "2024-03-19 12:35:57",
+      "added_at": "2024-03-20 13:01:05",
       "album": {
         "name": "Rocky Road (with Kodak Black)",
         "url": "https://open.spotify.com/album/4K2dNqc9VgacrNtJ8pOWer"
@@ -33,7 +33,27 @@
       "url": "https://open.spotify.com/track/7quesdAv9sxXO0oUOApmIo"
     },
     {
-      "added_at": "2024-03-19 12:35:57",
+      "added_at": "2024-03-20 13:01:05",
+      "album": {
+        "name": "Texas Technician",
+        "url": "https://open.spotify.com/album/2L5fQG5lbyMkG6iyNNj3uR"
+      },
+      "artists": [
+        {
+          "name": "That Mexican OT",
+          "url": "https://open.spotify.com/artist/3BAgmPNIK5IJl7zMK1wvMA"
+        },
+        {
+          "name": "Moneybagg Yo",
+          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
+        }
+      ],
+      "duration_ms": 126465,
+      "name": "Twisting Fingers (with Moneybagg Yo)",
+      "url": "https://open.spotify.com/track/59ixjAY05WENR6TitS0EKh"
+    },
+    {
+      "added_at": "2024-03-20 13:01:05",
       "album": {
         "name": "Destined 2 Win",
         "url": "https://open.spotify.com/album/3MEKpJ7wSSp6Z661ThjrUJ"
@@ -57,27 +77,7 @@
       "url": "https://open.spotify.com/track/1dg3qy5DjoJodawfOCgrTP"
     },
     {
-      "added_at": "2024-03-19 12:35:57",
-      "album": {
-        "name": "Texas Technician",
-        "url": "https://open.spotify.com/album/2L5fQG5lbyMkG6iyNNj3uR"
-      },
-      "artists": [
-        {
-          "name": "That Mexican OT",
-          "url": "https://open.spotify.com/artist/3BAgmPNIK5IJl7zMK1wvMA"
-        },
-        {
-          "name": "Moneybagg Yo",
-          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
-        }
-      ],
-      "duration_ms": 126465,
-      "name": "Twisting Fingers (with Moneybagg Yo)",
-      "url": "https://open.spotify.com/track/59ixjAY05WENR6TitS0EKh"
-    },
-    {
-      "added_at": "2024-03-19 12:35:57",
+      "added_at": "2024-03-20 13:01:05",
       "album": {
         "name": "A Gangsta\u2019s Pain",
         "url": "https://open.spotify.com/album/5ffogo3K3fYibGWa93IzUe"
@@ -93,7 +93,7 @@
       "url": "https://open.spotify.com/track/0uiHv6ieCOkc9sE9ae3nDJ"
     },
     {
-      "added_at": "2024-03-19 12:35:57",
+      "added_at": "2024-03-20 13:01:05",
       "album": {
         "name": "Hard To Love",
         "url": "https://open.spotify.com/album/12QMwxaBwtZWp7BKBwzaol"
@@ -109,7 +109,7 @@
       "url": "https://open.spotify.com/track/6dNOefmb6Lgl5vNtJsSajt"
     },
     {
-      "added_at": "2024-03-19 12:35:57",
+      "added_at": "2024-03-20 13:01:05",
       "album": {
         "name": "Time Served (Deluxe)",
         "url": "https://open.spotify.com/album/7eJt0QB6bN6JiqoBTVO7KS"
@@ -125,7 +125,7 @@
       "url": "https://open.spotify.com/track/1lUTmmPMAsxZBR2iK9CKDF"
     },
     {
-      "added_at": "2024-03-19 12:35:57",
+      "added_at": "2024-03-20 13:01:05",
       "album": {
         "name": "My Turn",
         "url": "https://open.spotify.com/album/1ynyQdPQiXdYJNQEDL1S3d"
@@ -145,7 +145,7 @@
       "url": "https://open.spotify.com/track/6A9wHAasMxed0firnDao1K"
     },
     {
-      "added_at": "2024-03-19 12:35:57",
+      "added_at": "2024-03-20 13:01:05",
       "album": {
         "name": "A Gangsta\u2019s Pain",
         "url": "https://open.spotify.com/album/5ffogo3K3fYibGWa93IzUe"
@@ -161,7 +161,7 @@
       "url": "https://open.spotify.com/track/0YrKSfpvflYnLSBd4Jtu6J"
     },
     {
-      "added_at": "2024-03-19 12:35:57",
+      "added_at": "2024-03-20 13:01:05",
       "album": {
         "name": "Hard To Love",
         "url": "https://open.spotify.com/album/12QMwxaBwtZWp7BKBwzaol"
@@ -177,7 +177,7 @@
       "url": "https://open.spotify.com/track/4FpgCVHDfwcHQ17hJ9SyuL"
     },
     {
-      "added_at": "2024-03-19 12:35:57",
+      "added_at": "2024-03-20 13:01:05",
       "album": {
         "name": "Rookie Of The Year",
         "url": "https://open.spotify.com/album/24TL4BB4I6PlLw4Qfc1FVG"
@@ -193,7 +193,7 @@
       "url": "https://open.spotify.com/track/7aVjnFsARHuTBZzkR6rYOR"
     },
     {
-      "added_at": "2024-03-19 12:35:57",
+      "added_at": "2024-03-20 13:01:05",
       "album": {
         "name": "Code Red",
         "url": "https://open.spotify.com/album/4faPRidDvKRvHnWdvmvVHv"
@@ -209,7 +209,7 @@
       "url": "https://open.spotify.com/track/3sKz6Sd72K0ofPWcJPPk6H"
     },
     {
-      "added_at": "2024-03-19 12:35:57",
+      "added_at": "2024-03-20 13:01:05",
       "album": {
         "name": "KIRK",
         "url": "https://open.spotify.com/album/1NsTSXjVNE7XmZ8PmyW0wl"
@@ -233,7 +233,7 @@
       "url": "https://open.spotify.com/track/2FvD20Z8aoWIePi7PoN8sG"
     },
     {
-      "added_at": "2024-03-19 12:35:57",
+      "added_at": "2024-03-20 13:01:05",
       "album": {
         "name": "Hard To Love",
         "url": "https://open.spotify.com/album/12QMwxaBwtZWp7BKBwzaol"
@@ -253,7 +253,7 @@
       "url": "https://open.spotify.com/track/293QwzG48nRXlqk5lGDUbw"
     },
     {
-      "added_at": "2024-03-19 12:35:57",
+      "added_at": "2024-03-20 13:01:05",
       "album": {
         "name": "Time Served",
         "url": "https://open.spotify.com/album/6Wq84YPRzpAIY8CEeluUlv"
@@ -273,7 +273,7 @@
       "url": "https://open.spotify.com/track/7qeWNGBqqagdwf4KnjRzGZ"
     },
     {
-      "added_at": "2024-03-19 12:35:57",
+      "added_at": "2024-03-20 13:01:05",
       "album": {
         "name": "Too Hard",
         "url": "https://open.spotify.com/album/750APP0eKVlcgOxaZnBnVt"
@@ -293,7 +293,7 @@
       "url": "https://open.spotify.com/track/0XOMoQbYxYPVLxwK4VDmNA"
     },
     {
-      "added_at": "2024-03-19 12:35:57",
+      "added_at": "2024-03-20 13:01:05",
       "album": {
         "name": "A Gangsta\u2019s Pain: Reloaded",
         "url": "https://open.spotify.com/album/527JxbrqUTevhf0mgQlMWB"
@@ -309,7 +309,7 @@
       "url": "https://open.spotify.com/track/0BFGDkrXAneskCJdudSCro"
     },
     {
-      "added_at": "2024-03-19 12:35:57",
+      "added_at": "2024-03-20 13:01:05",
       "album": {
         "name": "Hard To Love",
         "url": "https://open.spotify.com/album/12QMwxaBwtZWp7BKBwzaol"
@@ -325,7 +325,7 @@
       "url": "https://open.spotify.com/track/4ZXJVpAW39Qc1a0wCDoMx8"
     },
     {
-      "added_at": "2024-03-19 12:35:57",
+      "added_at": "2024-03-20 13:01:05",
       "album": {
         "name": "Purple Heart",
         "url": "https://open.spotify.com/album/0m2bXElzedMjPj8udeytbz"
@@ -345,7 +345,7 @@
       "url": "https://open.spotify.com/track/3FYxg905coMBsZgKfOzz5R"
     },
     {
-      "added_at": "2024-03-19 12:35:57",
+      "added_at": "2024-03-20 13:01:05",
       "album": {
         "name": "Gangsta Art 2",
         "url": "https://open.spotify.com/album/537PniwRvDxpD7zjGsEQlA"
@@ -365,7 +365,39 @@
       "url": "https://open.spotify.com/track/1aOKOAnj6s8JOgxCEKx4OP"
     },
     {
-      "added_at": "2024-03-19 12:35:57",
+      "added_at": "2024-03-20 13:01:05",
+      "album": {
+        "name": "A Gangsta\u2019s Pain",
+        "url": "https://open.spotify.com/album/5ffogo3K3fYibGWa93IzUe"
+      },
+      "artists": [
+        {
+          "name": "Moneybagg Yo",
+          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
+        }
+      ],
+      "duration_ms": 106379,
+      "name": "Least Ian Lie",
+      "url": "https://open.spotify.com/track/2xxGU6YRlvN9yuvmW0KoJZ"
+    },
+    {
+      "added_at": "2024-03-20 13:01:05",
+      "album": {
+        "name": "Hard To Love",
+        "url": "https://open.spotify.com/album/12QMwxaBwtZWp7BKBwzaol"
+      },
+      "artists": [
+        {
+          "name": "Moneybagg Yo",
+          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
+        }
+      ],
+      "duration_ms": 187826,
+      "name": "Quickie",
+      "url": "https://open.spotify.com/track/2kQJCELd0jWCTOgCDAauvj"
+    },
+    {
+      "added_at": "2024-03-20 13:01:05",
       "album": {
         "name": "Blockchain",
         "url": "https://open.spotify.com/album/7gVVCqQnGgybY3OTdkJuKY"
@@ -385,39 +417,7 @@
       "url": "https://open.spotify.com/track/15OlC497ScJt9N2BS8lOev"
     },
     {
-      "added_at": "2024-03-19 12:35:57",
-      "album": {
-        "name": "Hard To Love",
-        "url": "https://open.spotify.com/album/12QMwxaBwtZWp7BKBwzaol"
-      },
-      "artists": [
-        {
-          "name": "Moneybagg Yo",
-          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
-        }
-      ],
-      "duration_ms": 187826,
-      "name": "Quickie",
-      "url": "https://open.spotify.com/track/2kQJCELd0jWCTOgCDAauvj"
-    },
-    {
-      "added_at": "2024-03-19 12:35:57",
-      "album": {
-        "name": "A Gangsta\u2019s Pain",
-        "url": "https://open.spotify.com/album/5ffogo3K3fYibGWa93IzUe"
-      },
-      "artists": [
-        {
-          "name": "Moneybagg Yo",
-          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
-        }
-      ],
-      "duration_ms": 106379,
-      "name": "Least Ian Lie",
-      "url": "https://open.spotify.com/track/2xxGU6YRlvN9yuvmW0KoJZ"
-    },
-    {
-      "added_at": "2024-03-19 12:35:57",
+      "added_at": "2024-03-20 13:01:05",
       "album": {
         "name": "Code Red",
         "url": "https://open.spotify.com/album/4faPRidDvKRvHnWdvmvVHv"
@@ -441,7 +441,43 @@
       "url": "https://open.spotify.com/track/0VohK45FIUHEMBbfUw8iBM"
     },
     {
-      "added_at": "2024-03-19 12:35:57",
+      "added_at": "2024-03-20 13:01:05",
+      "album": {
+        "name": "A Gangsta\u2019s Pain",
+        "url": "https://open.spotify.com/album/5ffogo3K3fYibGWa93IzUe"
+      },
+      "artists": [
+        {
+          "name": "Moneybagg Yo",
+          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
+        },
+        {
+          "name": "Jhen\u00e9 Aiko",
+          "url": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
+        }
+      ],
+      "duration_ms": 143533,
+      "name": "One Of Dem Nights (with Jhen\u00e9 Aiko)",
+      "url": "https://open.spotify.com/track/5CSID3PvGYFa3zNgid3ClE"
+    },
+    {
+      "added_at": "2024-03-20 13:01:05",
+      "album": {
+        "name": "Hard To Love",
+        "url": "https://open.spotify.com/album/12QMwxaBwtZWp7BKBwzaol"
+      },
+      "artists": [
+        {
+          "name": "Moneybagg Yo",
+          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
+        }
+      ],
+      "duration_ms": 179200,
+      "name": "Sholl Is",
+      "url": "https://open.spotify.com/track/15NWXCx17rtI7pSP2HZjVN"
+    },
+    {
+      "added_at": "2024-03-20 13:01:05",
       "album": {
         "name": "PTPOM 2.0",
         "url": "https://open.spotify.com/album/6Cb1ZozVRmOw4HlD4UY92u"
@@ -465,43 +501,7 @@
       "url": "https://open.spotify.com/track/5sRNp1lJG6LBS1mQgDZOAb"
     },
     {
-      "added_at": "2024-03-19 12:35:57",
-      "album": {
-        "name": "Hard To Love",
-        "url": "https://open.spotify.com/album/12QMwxaBwtZWp7BKBwzaol"
-      },
-      "artists": [
-        {
-          "name": "Moneybagg Yo",
-          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
-        }
-      ],
-      "duration_ms": 179200,
-      "name": "Sholl Is",
-      "url": "https://open.spotify.com/track/15NWXCx17rtI7pSP2HZjVN"
-    },
-    {
-      "added_at": "2024-03-19 12:35:57",
-      "album": {
-        "name": "A Gangsta\u2019s Pain",
-        "url": "https://open.spotify.com/album/5ffogo3K3fYibGWa93IzUe"
-      },
-      "artists": [
-        {
-          "name": "Moneybagg Yo",
-          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
-        },
-        {
-          "name": "Jhen\u00e9 Aiko",
-          "url": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
-        }
-      ],
-      "duration_ms": 143533,
-      "name": "One Of Dem Nights (with Jhen\u00e9 Aiko)",
-      "url": "https://open.spotify.com/track/5CSID3PvGYFa3zNgid3ClE"
-    },
-    {
-      "added_at": "2024-03-19 12:35:57",
+      "added_at": "2024-03-20 13:01:05",
       "album": {
         "name": "See Wat I\u2019m Sayin",
         "url": "https://open.spotify.com/album/3busrWaOS06nIDLDdIro3R"
@@ -521,7 +521,23 @@
       "url": "https://open.spotify.com/track/30vAfL9Wyu2fu07vdbZ1Xt"
     },
     {
-      "added_at": "2024-03-19 12:35:57",
+      "added_at": "2024-03-20 13:01:05",
+      "album": {
+        "name": "A Gangsta\u2019s Pain",
+        "url": "https://open.spotify.com/album/5ffogo3K3fYibGWa93IzUe"
+      },
+      "artists": [
+        {
+          "name": "Moneybagg Yo",
+          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
+        }
+      ],
+      "duration_ms": 113826,
+      "name": "A Gangsta\u2019s Pain",
+      "url": "https://open.spotify.com/track/3bnM8xTlWUoaLh6JLogbw8"
+    },
+    {
+      "added_at": "2024-03-20 13:01:05",
       "album": {
         "name": "A Gangsta\u2019s Pain: Reloaded",
         "url": "https://open.spotify.com/album/527JxbrqUTevhf0mgQlMWB"
@@ -545,59 +561,7 @@
       "url": "https://open.spotify.com/track/4c7LkE1lSNj3RR4cZo0jEi"
     },
     {
-      "added_at": "2024-03-19 12:35:57",
-      "album": {
-        "name": "Blow",
-        "url": "https://open.spotify.com/album/07AiRVrtrniKqkxHpLLY2g"
-      },
-      "artists": [
-        {
-          "name": "Moneybagg Yo",
-          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
-        }
-      ],
-      "duration_ms": 182533,
-      "name": "Blow",
-      "url": "https://open.spotify.com/track/2g3qKijfeHfDyM7Fmaoi5M"
-    },
-    {
-      "added_at": "2024-03-19 12:35:57",
-      "album": {
-        "name": "A Gangsta\u2019s Pain",
-        "url": "https://open.spotify.com/album/5ffogo3K3fYibGWa93IzUe"
-      },
-      "artists": [
-        {
-          "name": "Moneybagg Yo",
-          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
-        }
-      ],
-      "duration_ms": 113826,
-      "name": "A Gangsta\u2019s Pain",
-      "url": "https://open.spotify.com/track/3bnM8xTlWUoaLh6JLogbw8"
-    },
-    {
-      "added_at": "2024-03-19 12:35:57",
-      "album": {
-        "name": "Fed Baby\u2019s",
-        "url": "https://open.spotify.com/album/4RUq0kdGLKc5ROEv8I0lRY"
-      },
-      "artists": [
-        {
-          "name": "Moneybagg Yo",
-          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
-        },
-        {
-          "name": "YoungBoy Never Broke Again",
-          "url": "https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b"
-        }
-      ],
-      "duration_ms": 134675,
-      "name": "Tampering With Evidence",
-      "url": "https://open.spotify.com/track/7sVryAf2sqT0I9fBbp0LJB"
-    },
-    {
-      "added_at": "2024-03-19 12:35:57",
+      "added_at": "2024-03-20 13:01:05",
       "album": {
         "name": "I'm The One",
         "url": "https://open.spotify.com/album/7p4hzEV95XFXAvZh7kJo25"
@@ -621,27 +585,23 @@
       "url": "https://open.spotify.com/track/0elEjBWGVXPnMcDkHuUQlW"
     },
     {
-      "added_at": "2024-03-19 12:35:57",
+      "added_at": "2024-03-20 13:01:05",
       "album": {
-        "name": "Hall of Fame 2.0",
-        "url": "https://open.spotify.com/album/2rLqUcipEjIKK9rma5OTN8"
+        "name": "Blow",
+        "url": "https://open.spotify.com/album/07AiRVrtrniKqkxHpLLY2g"
       },
       "artists": [
-        {
-          "name": "Polo G",
-          "url": "https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49"
-        },
         {
           "name": "Moneybagg Yo",
           "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
         }
       ],
-      "duration_ms": 108889,
-      "name": "Start Up Again (with Moneybagg Yo)",
-      "url": "https://open.spotify.com/track/4O3bINhkGghgoKsOCr2HNz"
+      "duration_ms": 182533,
+      "name": "Blow",
+      "url": "https://open.spotify.com/track/2g3qKijfeHfDyM7Fmaoi5M"
     },
     {
-      "added_at": "2024-03-19 12:35:57",
+      "added_at": "2024-03-20 13:01:05",
       "album": {
         "name": "A Gangsta\u2019s Pain",
         "url": "https://open.spotify.com/album/5ffogo3K3fYibGWa93IzUe"
@@ -661,7 +621,47 @@
       "url": "https://open.spotify.com/track/04wzgTWP6YU07PdUjm0XzG"
     },
     {
-      "added_at": "2024-03-19 12:35:57",
+      "added_at": "2024-03-20 13:01:05",
+      "album": {
+        "name": "Fed Baby\u2019s",
+        "url": "https://open.spotify.com/album/4RUq0kdGLKc5ROEv8I0lRY"
+      },
+      "artists": [
+        {
+          "name": "Moneybagg Yo",
+          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
+        },
+        {
+          "name": "YoungBoy Never Broke Again",
+          "url": "https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b"
+        }
+      ],
+      "duration_ms": 134675,
+      "name": "Tampering With Evidence",
+      "url": "https://open.spotify.com/track/7sVryAf2sqT0I9fBbp0LJB"
+    },
+    {
+      "added_at": "2024-03-20 13:01:05",
+      "album": {
+        "name": "Hall of Fame 2.0",
+        "url": "https://open.spotify.com/album/2rLqUcipEjIKK9rma5OTN8"
+      },
+      "artists": [
+        {
+          "name": "Polo G",
+          "url": "https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49"
+        },
+        {
+          "name": "Moneybagg Yo",
+          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
+        }
+      ],
+      "duration_ms": 108889,
+      "name": "Start Up Again (with Moneybagg Yo)",
+      "url": "https://open.spotify.com/track/4O3bINhkGghgoKsOCr2HNz"
+    },
+    {
+      "added_at": "2024-03-20 13:01:05",
       "album": {
         "name": "RESET",
         "url": "https://open.spotify.com/album/547DJFUYOl2SBYJbo2jZX1"
@@ -685,7 +685,7 @@
       "url": "https://open.spotify.com/track/4z7OagqDCwZjkZBedfA0OG"
     },
     {
-      "added_at": "2024-03-19 12:35:57",
+      "added_at": "2024-03-20 13:01:05",
       "album": {
         "name": "Life Of A Hotboii",
         "url": "https://open.spotify.com/album/02sXWcIVVNCGr6WE30UJyZ"
@@ -709,7 +709,7 @@
       "url": "https://open.spotify.com/track/7qX5T4glBvqHlRxEZvQbvc"
     },
     {
-      "added_at": "2024-03-19 12:35:57",
+      "added_at": "2024-03-20 13:01:05",
       "album": {
         "name": "Scared Money",
         "url": "https://open.spotify.com/album/3TsYjPFN8qCxcYWHL3DtL8"
@@ -733,7 +733,7 @@
       "url": "https://open.spotify.com/track/4heBcjj4Lw3X2sQVFNbLbz"
     },
     {
-      "added_at": "2024-03-19 12:35:57",
+      "added_at": "2024-03-20 13:01:05",
       "album": {
         "name": "Public Housing",
         "url": "https://open.spotify.com/album/3H7rkiYB6yjsuMZbxApOCn"
@@ -753,7 +753,7 @@
       "url": "https://open.spotify.com/track/20sAxIvSvNJxcB8XPHm7ir"
     },
     {
-      "added_at": "2024-03-19 12:35:57",
+      "added_at": "2024-03-20 13:01:05",
       "album": {
         "name": "What It Means To Be King",
         "url": "https://open.spotify.com/album/3nrdCjP7QGBqMEutGTtT1B"
@@ -773,7 +773,7 @@
       "url": "https://open.spotify.com/track/41jxlPqpPqiky977DkJrpY"
     },
     {
-      "added_at": "2024-03-19 12:35:57",
+      "added_at": "2024-03-20 13:01:05",
       "album": {
         "name": "Big Doodie Lo",
         "url": "https://open.spotify.com/album/76Eiy74blIlWShse7Iu8GL"
@@ -793,7 +793,7 @@
       "url": "https://open.spotify.com/track/0jYuyvmZaMNUDQicdPXNMy"
     },
     {
-      "added_at": "2024-03-19 12:35:57",
+      "added_at": "2024-03-20 13:01:05",
       "album": {
         "name": "Time Served",
         "url": "https://open.spotify.com/album/6Wq84YPRzpAIY8CEeluUlv"
@@ -809,7 +809,7 @@
       "url": "https://open.spotify.com/track/5QOQTuR9vSDQdhz3Bo2FTs"
     },
     {
-      "added_at": "2024-03-19 12:35:57",
+      "added_at": "2024-03-20 13:01:05",
       "album": {
         "name": "Heartless",
         "url": "https://open.spotify.com/album/3Kr9yx4cF5kdxcenIl6xen"
@@ -825,7 +825,7 @@
       "url": "https://open.spotify.com/track/0A3Z3F1uCDhMqYzZWmbHMV"
     },
     {
-      "added_at": "2024-03-19 12:35:57",
+      "added_at": "2024-03-20 13:01:05",
       "album": {
         "name": "Hunger Games 3",
         "url": "https://open.spotify.com/album/2vHDkBlDTfwjLMOSiTO3za"
@@ -845,7 +845,7 @@
       "url": "https://open.spotify.com/track/5nh5iMaYliOmgrhohSNOtJ"
     },
     {
-      "added_at": "2024-03-19 12:35:57",
+      "added_at": "2024-03-20 13:01:05",
       "album": {
         "name": "On Wat U On (with GloRilla)",
         "url": "https://open.spotify.com/album/2IutoIS83zBRzRh9naG1Mz"
@@ -865,7 +865,7 @@
       "url": "https://open.spotify.com/track/2Q2mcoXVkioh4OBcL8mm4p"
     },
     {
-      "added_at": "2024-03-19 12:35:57",
+      "added_at": "2024-03-20 13:01:05",
       "album": {
         "name": "2 Federal",
         "url": "https://open.spotify.com/album/5Wc8IknW6BeXOpoH3jB6hn"
@@ -885,7 +885,7 @@
       "url": "https://open.spotify.com/track/5KmYUFowigebQliD2R3PSu"
     },
     {
-      "added_at": "2024-03-19 12:35:57",
+      "added_at": "2024-03-20 13:01:05",
       "album": {
         "name": "Time Served",
         "url": "https://open.spotify.com/album/6Wq84YPRzpAIY8CEeluUlv"
@@ -905,7 +905,7 @@
       "url": "https://open.spotify.com/track/2eukAOMjUM4pxnOdIsUia9"
     },
     {
-      "added_at": "2024-03-19 12:35:57",
+      "added_at": "2024-03-20 13:01:05",
       "album": {
         "name": "I Still Dont Feel Nun",
         "url": "https://open.spotify.com/album/7ilMGv7d9zo5DF6k87qv7w"
@@ -925,7 +925,7 @@
       "url": "https://open.spotify.com/track/5sXYCAzaTHonbB7OVqU0TI"
     },
     {
-      "added_at": "2024-03-19 12:35:57",
+      "added_at": "2024-03-20 13:01:05",
       "album": {
         "name": "Splash (feat. Moneybagg Yo)",
         "url": "https://open.spotify.com/album/78G2ZuU0lbpOLgrMS4OYbv"
@@ -945,7 +945,7 @@
       "url": "https://open.spotify.com/track/3GW3dMxqIbl14cZtpLRQBy"
     },
     {
-      "added_at": "2024-03-19 12:35:57",
+      "added_at": "2024-03-20 13:01:05",
       "album": {
         "name": "CODE (feat. Moneybagg Yo)",
         "url": "https://open.spotify.com/album/42jB9RVqk28zOVbbKhSMX1"
@@ -965,7 +965,7 @@
       "url": "https://open.spotify.com/track/5uVW9FWVaQde0lfF4hYs4C"
     },
     {
-      "added_at": "2024-03-19 12:35:57",
+      "added_at": "2024-03-20 13:01:05",
       "album": {
         "name": "Time Served",
         "url": "https://open.spotify.com/album/6Wq84YPRzpAIY8CEeluUlv"
@@ -981,7 +981,7 @@
       "url": "https://open.spotify.com/track/6BfJ1k7cPUqq7k9QsMBb19"
     },
     {
-      "added_at": "2024-03-19 12:35:57",
+      "added_at": "2024-03-20 13:01:05",
       "album": {
         "name": "Expensive Pain",
         "url": "https://open.spotify.com/album/3cLQ49Ll3nGRkw3HSSk92K"

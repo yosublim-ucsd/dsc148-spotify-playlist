@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcPGEMJEYxNg.md) - [plain]
 
 > In partnership with <a href="https://goldhouse.org/">Gold House</a>, we are excited to announce our second Gold House Future Music Guild artists: Mad Tsai, Rhea Raj & Alex Porat.
 
-[Spotify](https://open.spotify.com/user/spotify) - 119,592 likes - 58 songs - 3 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 119,604 likes - 58 songs - 3 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcPGEMJEYxNg.md) - [plain]
 | 28 | [edamame](https://open.spotify.com/track/1golLrmqyxDWedF7YUHCOD) | [bbno$](https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz), [Rich Brian](https://open.spotify.com/artist/2IDLDx25HU1nQMKde4n61a) | [eat ya veggies](https://open.spotify.com/album/5uAILcUFqdFsH5K3Cip47a) | 2:13 |
 | 29 | [Mania](https://open.spotify.com/track/3D8dVO2xTS63toTYrmCdCF) | [Aaryan Shah](https://open.spotify.com/artist/4RzbexUO843fc5SLqKEQCr) | [Codex](https://open.spotify.com/album/3E8bp73MJg4PKbpqdA4TKD) | 3:24 |
 | 30 | [Beg for You \(feat\. Rina Sawayama\)](https://open.spotify.com/track/50ZFpw2wS6ERvLmW8TINhq) | [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [Beg For You \(feat\. Rina Sawayama\)](https://open.spotify.com/album/0ffmwwS9EBmpLAgjblX75O) | 2:48 |
-| 31 | [Love's Train](https://open.spotify.com/track/60gTdTwaNtGAzIxKfeGVfJ) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [Silk Sonic](https://open.spotify.com/artist/6PvvGcCY2XtUcSRld1Wilr) | [Love's Train](https://open.spotify.com/album/6QKXGIgwWmWBMmIktMOchR) | 5:07 |
+| 31 | [Love's Train](https://open.spotify.com/track/2JUQ7mV1AHk2owXLydmN4Z) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [Silk Sonic](https://open.spotify.com/artist/6PvvGcCY2XtUcSRld1Wilr) | [An Evening With Silk Sonic](https://open.spotify.com/album/1YgekJJTEueWDaMr7BYqPk) | 5:07 |
 | 32 | [Like A G6](https://open.spotify.com/track/4DvhkX2ic4zWkQeWMwQ2qf) | [Far East Movement](https://open.spotify.com/artist/698hF4vcwHwPy8ltmXermq), [The Cataracs](https://open.spotify.com/artist/7C64wNX3howEFZjAYRKsfP), [DEV](https://open.spotify.com/artist/7Ip2u3e5Nv6fFb5xyIHxEE) | [Free Wired](https://open.spotify.com/album/1TuKgkCGIxiIns9Bc5XKRC) | 3:36 |
 | 33 | [OMG](https://open.spotify.com/track/65FftemJ1DbbZ45DUfHJXE) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [NewJeans 'OMG'](https://open.spotify.com/album/45ozep8uHHnj5CCittuyXj) | 3:32 |
 | 34 | [Be Sweet](https://open.spotify.com/track/0dpyzcT3RMNNSd2xKBf35I) | [Japanese Breakfast](https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw) | [Jubilee](https://open.spotify.com/album/1uD1kdwTWH1DZQZqGKz6rY) | 3:15 |
@@ -67,4 +67,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcPGEMJEYxNg.md) - [plain]
 | 57 | [summer](https://open.spotify.com/track/4osRLDg7abL4hLdfZ1c39g) | [raph](https://open.spotify.com/artist/4dnl0VOP7cS57VQOWxr3ND), [EJEAN](https://open.spotify.com/artist/2h1C4NVjSJnWrUeo4Z4dFz) | [summer](https://open.spotify.com/album/2BLrXMpziCnaHv0gEeyjQ3) | 2:12 |
 | 58 | [Fashionably Late](https://open.spotify.com/track/4gG73FSWLBH5DlkmgaKJtv) | [Nieman](https://open.spotify.com/artist/4SwV4H2atecTIdXKyLfSfR) | [Fashionably Late](https://open.spotify.com/album/4eBlEJK3JKGWGeElVlxJhI) | 3:17 |
 
-Snapshot ID: `MCxlOGM0ZjI5ZmFlNjI2MDlhMWQ1NDkzMTA2YmZkNGE2NzBjNDUxNGNh`
+Snapshot ID: `MCw0NGEyNjFlNDA4NTUzNDBiY2E3Yjk2ZjNhN2YzNDVkZDBmMDY2ZThi`

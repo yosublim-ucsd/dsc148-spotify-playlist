@@ -1,5 +1,5 @@
 {
-  "2024-03-20": 283612,
+  "2024-03-21": 283660,
   "date_first_scraped": "2021-03-27",
   "description": "Your daily update of the most played tracks right now - Paraguay.",
   "name": "Top 50 - Paraguay",
@@ -4023,7 +4023,7 @@
       ],
       "date_added": "2024-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-20",
       "duration_ms": 148082,
       "name": "FRI(END)S",
       "url": "https://open.spotify.com/track/0PBTlQ84CBJF0tBnKGmQa6"
@@ -7449,6 +7449,32 @@
       "duration_ms": 244444,
       "name": "Otro Atardecer",
       "url": "https://open.spotify.com/track/0E0DRHf5PfMeor0ZCwB3oT"
+    },
+    {
+      "album": {
+        "name": "Cosmo",
+        "url": "https://open.spotify.com/album/3nEa7WJXcruywRIZXu6qRE"
+      },
+      "artists": [
+        {
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        },
+        {
+          "name": "Anuel AA",
+          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+        },
+        {
+          "name": "Chris Jedi",
+          "url": "https://open.spotify.com/artist/0qTZZWLzuD59Un5r1speHm"
+        }
+      ],
+      "date_added": "2024-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206103,
+      "name": "Pa Ti Estoy",
+      "url": "https://open.spotify.com/track/3j5zNcb0aSk7dx3W3mAKzw"
     },
     {
       "album": {

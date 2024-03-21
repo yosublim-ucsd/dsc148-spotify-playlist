@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXYO300IYLDB.md) - [plain]
 
 > アコースティック・メロディーズ。ゆったりとしたアコースティックサウンドと共に、爽やかな1日を迎えませんか？
 
-[Spotify](https://open.spotify.com/user/spotify) - 100,636 likes - 100 songs - 5 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 100,635 likes - 100 songs - 5 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,7 +58,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXYO300IYLDB.md) - [plain]
 | 48 | [Everywhere, Everything \(with Gracie Abrams\)](https://open.spotify.com/track/4PRdeh2zIyM1pvY4x5luLe) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B), [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Everywhere, Everything \(with Gracie Abrams\)](https://open.spotify.com/album/0kOisOp4b7xNUNs7aSMSno) | 4:17 |
 | 49 | [Mr\. Tambourine Man \- Live at the Royal Albert Hall](https://open.spotify.com/track/1a4EjPsElUgNXx3io1DbIo) | [Cat Power](https://open.spotify.com/artist/6G7OerKc3eBO9sVkRNopFC) | [Mr\. Tambourine Man / Like A Rolling Stone](https://open.spotify.com/album/33gN6TGmTa8lRyWmEFGXpl) | 6:29 |
 | 50 | [River](https://open.spotify.com/track/3hhbDnFUb2bicI2df6VurK) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Coming Home \(Deluxe\)](https://open.spotify.com/album/21KIagsx1ZvYcv0sVkEAWv) | 4:00 |
-| 51 | [Thanks again](https://open.spotify.com/track/0diIX9HBaAAoxm1dusWmOk) | [SAKURA FUJIWARA](https://open.spotify.com/artist/5tvnQkP9zNAqYW2YKYk1Et) | [Thanks again](https://open.spotify.com/album/24ZQN8pJRxIBPG3WLX4A8t) | 3:08 |
+| 51 | [Thanks again](https://open.spotify.com/track/4rsNXpSgihuX2eQ7sbXKhx) | [SAKURA FUJIWARA](https://open.spotify.com/artist/5tvnQkP9zNAqYW2YKYk1Et) | [Thanks again](https://open.spotify.com/album/3kzkSVgybp6MrrrdZsJK9K) | 3:08 |
 | 52 | [Little Do You Know](https://open.spotify.com/track/1almCHdsfikRPfVB9VrEdT) | [Alex & Sierra](https://open.spotify.com/artist/58MLl9nC29IXbE4nEtuoP2) | [It's About Us](https://open.spotify.com/album/3Yk19X5zgXDSrG8uqrPnXC) | 3:05 |
 | 53 | [landslide](https://open.spotify.com/track/0St46Irltgo5FSrylfQxHN) | [Piezoluminescence](https://open.spotify.com/artist/39yIOX8TUTRhzYq6R7q0df), [Tamuraryo](https://open.spotify.com/artist/15i61GDW435zKWZ5vaJAYR), [mippopotamus](https://open.spotify.com/artist/0g5R6Ju7ftKle2mliZt6WF) | [Four Leaves](https://open.spotify.com/album/1Uik5aQQyQ8bsSHhB0H20R) | 2:14 |
 | 54 | [Say Something](https://open.spotify.com/track/6Vc5wAMmXdKIAM7WUoEb7N) | [A Great Big World](https://open.spotify.com/artist/5xKp3UyavIBUsGy3DQdXeF), [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) | [Is There Anybody Out There?](https://open.spotify.com/album/1yOcLa4euMk9sV7rRJ89Dl) | 3:49 |
@@ -88,7 +88,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXYO300IYLDB.md) - [plain]
 | 78 | [ゆめうつつ](https://open.spotify.com/track/1GTC0DN9LGOdP0NdvoHyX7) | [Lamp](https://open.spotify.com/artist/0rFHElzeddB9ymDjgpBENX) | [ランプ幻想](https://open.spotify.com/album/7b55VfUk2Vpuqnac9NDREc) | 5:15 |
 | 79 | [いつものこと](https://open.spotify.com/track/2dguw4nUUpg0Lxu9pd2w3L) | [小野雄大](https://open.spotify.com/artist/0e20MJY2rEAHyJN6CNBkzr) | [いつものこと](https://open.spotify.com/album/3Vb5JKrWeF9pGhSIHmCcmO) | 4:00 |
 | 80 | [XO](https://open.spotify.com/track/7cpCU3Denug5NGZsSpQl8v) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [XO](https://open.spotify.com/album/305TANxsPTFkiqS4cEilx1) | 3:33 |
-| 81 | [Too Good to be True](https://open.spotify.com/track/4vIiVs5JoNfqqRi5o7jAIb) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Too Good to be True](https://open.spotify.com/album/57y7NpfTINlnrNitu8vwft) | 2:40 |
+| 81 | [Too Good to be True](https://open.spotify.com/track/27RDQ0TfxzWMlQFuKrPT11) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Deeper Well](https://open.spotify.com/album/5SxZmGwc4eJuPp6PcO4JgJ) | 2:40 |
 | 82 | [IT'S YOU \(feat\. keshi\)](https://open.spotify.com/track/1hWDc5jD5br9pXSOtubFlf) | [MAX](https://open.spotify.com/artist/1bqxdqvUtPWZri43cKHac8), [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [LOVE IN STEREO](https://open.spotify.com/album/2YyHBng4US9HBUJKpICmny) | 2:53 |
 | 83 | [On The Way](https://open.spotify.com/track/0TvxrH69oDuV4k9NZAvs3l) | [Hollow Coves](https://open.spotify.com/artist/7IAFAOtc9kTYNTizhLSWM6) | [On The Way](https://open.spotify.com/album/3H2v38YigQUXP24Yhq49YA) | 3:12 |
 | 84 | [Flowers](https://open.spotify.com/track/6Z165JvPnS8PYvGW8oLGLc) | [Lauren Spencer Smith](https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50) | [Flowers](https://open.spotify.com/album/03sQVTmOjeFVi8GsSaJSNV) | 2:37 |
@@ -101,12 +101,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXYO300IYLDB.md) - [plain]
 | 91 | [Boyfriends](https://open.spotify.com/track/6qj02zSeEJGWZ4c0dn5QzJ) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry's House](https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h) | 3:14 |
 | 92 | [ビーバー](https://open.spotify.com/track/7xRq3lzs8FcAFz2s7QpkKQ) | [MIZ](https://open.spotify.com/artist/1T4OKi8vYcs2gNv98KglRq) | [ビーバー](https://open.spotify.com/album/7vMDkCtONp2A1lpOZbtRXZ) | 3:50 |
 | 93 | [Place Your Hands](https://open.spotify.com/track/3acARy7b8j8rJVpit7le4i) | [Gabrielle Aplin](https://open.spotify.com/artist/3w6zswp5THsSKYLICUbDTZ) | [Place Your Hands](https://open.spotify.com/album/30sRu1LqGjOL28ocUx6TPh) | 3:15 |
-| 94 | [Angel](https://open.spotify.com/track/3xZMPZQYETEn4hjor3TR1A) | [Sarah McLachlan](https://open.spotify.com/artist/4NgNsOXSwIzXlUIJcpnNUp) | [Surfacing](https://open.spotify.com/album/5qC5YqtLMlsm5Pyl6GtfpP) | 4:30 |
+| 94 | [La La Lost You \- Acoustic Version](https://open.spotify.com/track/0e2wfbDK7ppotqyUWD7qs8) | [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh), [88rising](https://open.spotify.com/artist/1AhjOkOLkbHUfcHDSErXQs) | [NIKI Acoustic Sessions: Head In The Clouds II](https://open.spotify.com/album/6DCIkaHedG9bOhkHGN3GXM) | 3:28 |
 | 95 | [When All You Can Manage Is A Sigh](https://open.spotify.com/track/5XP7ebedKNmr7e2uFtSP04) | [Georgia Gets By](https://open.spotify.com/artist/03vcsySpQ2gtPoaPeJRhb9) | [When All You Can Manage Is A Sigh](https://open.spotify.com/album/0d6s4VzPBcTLCcsI3MtZAU) | 1:59 |
-| 96 | [La La Lost You \- Acoustic Version](https://open.spotify.com/track/0e2wfbDK7ppotqyUWD7qs8) | [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh), [88rising](https://open.spotify.com/artist/1AhjOkOLkbHUfcHDSErXQs) | [NIKI Acoustic Sessions: Head In The Clouds II](https://open.spotify.com/album/6DCIkaHedG9bOhkHGN3GXM) | 3:28 |
+| 96 | [Angel](https://open.spotify.com/track/3xZMPZQYETEn4hjor3TR1A) | [Sarah McLachlan](https://open.spotify.com/artist/4NgNsOXSwIzXlUIJcpnNUp) | [Surfacing](https://open.spotify.com/album/5qC5YqtLMlsm5Pyl6GtfpP) | 4:30 |
 | 97 | [Highlights](https://open.spotify.com/track/0xvkTfdXvK7f1bOZ98ekbH) | [Sasha Alex Sloan](https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5) | [Highlights](https://open.spotify.com/album/275Y4XYTNfatAHFQfU54dt) | 2:32 |
 | 98 | [Through The Echoes](https://open.spotify.com/track/78NogwkqVC4GBQMxOwOQrC) | [Paolo Nutini](https://open.spotify.com/artist/7x5rK9BClDQ8wmCkYAGsQp) | [Last Night In The Bittersweet](https://open.spotify.com/album/0dp4Cl0ZqJYJJXIeH6dH1x) | 3:41 |
 | 99 | [Fool](https://open.spotify.com/track/2T0NGoXh9FT1kCjQA5Phto) | [Adrianne Lenker](https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY) | [Fool](https://open.spotify.com/album/7w9GLsCdyuS7uwdixV90vb) | 2:54 |
 | 100 | [Bug Like an Angel](https://open.spotify.com/track/45KMdPDdZTxcXW3lw10R70) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [The Land Is Inhospitable and So Are We](https://open.spotify.com/album/2Cn1d2KgbkAqbZCJ1RzdkA) | 3:32 |
 
-Snapshot ID: `MCw3YTNhMGNiMTA4YTI4MjJiMTBkOTgyM2FjMDVkZGI2M2EyOTI2MGNm`
+Snapshot ID: `MCxkOWRkMzIzNWJlZDMyMjFjZmVmZmQ5OWY4YzhmOGM2NjMxOTcxMDA3`

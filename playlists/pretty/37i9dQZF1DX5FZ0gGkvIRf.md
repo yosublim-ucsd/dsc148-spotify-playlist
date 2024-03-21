@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5FZ0gGkvIRf.md) - [plain]
 
 > Our editor’s picks for best metal and hard rock songs of the year\. Cover: Spiritbox
 
-[Spotify](https://open.spotify.com/user/spotify) - 190,538 likes - 100 songs - 6 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 190,619 likes - 100 songs - 6 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,7 +60,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5FZ0gGkvIRf.md) - [plain]
 | 50 | [Endling](https://open.spotify.com/track/7uHklhjU56kvmDPTBWAWNo) | [Kvelertak](https://open.spotify.com/artist/0VE0GTaTSeeGSzrQpLmeb9) | [Endling](https://open.spotify.com/album/6Y5phc55G93rszSCghQace) | 4:11 |
 | 51 | [DEADZONE](https://open.spotify.com/track/6SvhGaXpd2pkUaAGyMJ3Uw) | [Blind Channel](https://open.spotify.com/artist/3L58J6a7f0jyy2p6f3MSAs) | [DEADZONE](https://open.spotify.com/album/2VE9zs72iNOeoXZHyAMRF7) | 2:50 |
 | 52 | [Six Feet Under](https://open.spotify.com/track/5DYCuzBPf13q0QZwQvjYzi) | [Smash Into Pieces](https://open.spotify.com/artist/2vhrwzjf9H3icunkVFi9tq) | [Six Feet Under](https://open.spotify.com/album/1VujeZarJaiO5ZUCI5ed6G) | 2:58 |
-| 53 | [One Of Us](https://open.spotify.com/track/33jSdWZrZmhQt2MYQBJgm9) | [The Word Alive](https://open.spotify.com/artist/1CF8aEN939swnuIZGFI7Hk), [Bad Omens](https://open.spotify.com/artist/3Ri4H12KFyu98LMjSoij5V) | [Hard Reset](https://open.spotify.com/album/5H49CClHBLpUgyKN8ZCour) | 3:43 |
+| 53 | [One Of Us](https://open.spotify.com/track/2Os6Vp6QlErl2E5hwfdrUh) | [The Word Alive](https://open.spotify.com/artist/1CF8aEN939swnuIZGFI7Hk), [Bad Omens](https://open.spotify.com/artist/3Ri4H12KFyu98LMjSoij5V) | [Hard Reset](https://open.spotify.com/album/17cbasTWOvRFtMoHb7aiHm) | 3:43 |
 | 54 | [In Another Life \(feat\. Courtney LaPlante\)](https://open.spotify.com/track/5F2L2phmZw5dZZY72VpFM2) | [Crown The Empire](https://open.spotify.com/artist/2vKiJjsgjgqIECUyYeIVvO), [Courtney LaPlante](https://open.spotify.com/artist/1g9j6GF1jyjrhixt3Vurzs) | [DOGMA](https://open.spotify.com/album/6TPRyXWXQuVfgmOO14xRno) | 3:45 |
 | 55 | [Heretic \(feat\. Loz Taylor\)](https://open.spotify.com/track/1lHqZm5MsAc7wZ7W95KcOe) | [Bury Tomorrow](https://open.spotify.com/artist/6BD4lgmnh4vy6kkCaZRDWt) | [The Seventh Sun](https://open.spotify.com/album/6D2PpsVWo0zfgWBflimEe1) | 3:32 |
 | 56 | [Remember Me](https://open.spotify.com/track/3zwdN4h7DNlGlm3w4KylOM) | [Currents](https://open.spotify.com/artist/5pqvAI85RMxL9K0xHvSwGu) | [The Death We Seek](https://open.spotify.com/album/0llAadNufIDvVRzWfSxQxC) | 4:04 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5FZ0gGkvIRf.md) - [plain]
 | 99 | [Harvest](https://open.spotify.com/track/50oQWJ18RA54OEftbo7Ss2) | [Empire State Bastard](https://open.spotify.com/artist/4Lje5EOojiMe1qsGspOlDq) | [Rivers Of Heresy](https://open.spotify.com/album/6ro94rJ539uMG9hDwDtICk) | 2:50 |
 | 100 | [Turn It Up \(Keyboard Warriors Social Club\)](https://open.spotify.com/track/0PkWNpQAsH7xQHtzYJHgSD) | [NOVELISTS](https://open.spotify.com/artist/6o8sDniHcZPM1SixvjKiYS) | [Turn It Up \(Keyboard Warriors Social Club\)](https://open.spotify.com/album/4NFy4DOMmDAdtoW3Ep5EtO) | 3:58 |
 
-Snapshot ID: `MCw5YTk3YjUwMjgyOGZhZWY5M2JkY2FkYjY1MmEyOGRkNTA2YWU2YTU5`
+Snapshot ID: `MCxhMjRjOWYzN2U2YjZhN2E2MmEwNjVmZDg2YzRlMzQwOGI0Y2VlYTU0`

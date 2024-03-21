@@ -1,5 +1,5 @@
 {
-  "2024-03-20": 151175,
+  "2024-03-21": 151264,
   "date_first_scraped": "2021-12-21",
   "description": "The best of Christian Hip Hop today.  Cover:  <a href=\"spotify:artist:4c6lhwoOrmgNWvl0GxHlW1\">Tedashii</a>",
   "name": "The Flow",
@@ -10739,7 +10739,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-20",
       "duration_ms": 173322,
       "name": "Long Time Coming",
       "url": "https://open.spotify.com/track/33XcqFjd71BJv7I4k1u17X"
@@ -19139,6 +19139,28 @@
       "duration_ms": 178000,
       "name": "Vegan Burgers",
       "url": "https://open.spotify.com/track/6ANM43VAfA3x4pYciR1xC5"
+    },
+    {
+      "album": {
+        "name": "VICIOUS CYCLE",
+        "url": "https://open.spotify.com/album/0CtRrHjzbmN7FdYC0r5iZv"
+      },
+      "artists": [
+        {
+          "name": "EmanuelDaProphet",
+          "url": "https://open.spotify.com/artist/5P0vV6Fw0YTdumAPZSkkuC"
+        },
+        {
+          "name": "Rylo Rodriguez",
+          "url": "https://open.spotify.com/artist/0gg11prPP6OqtUvBcKnPpq"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208979,
+      "name": "VICIOUS CYCLE",
+      "url": "https://open.spotify.com/track/1VbIQFz8NZevPwK8tZXD8H"
     },
     {
       "album": {

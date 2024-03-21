@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY5Exaf30Ns0.md) - [plain]
 
 > ¿searma o nosearma?
 
-[Spotify](https://open.spotify.com/user/spotify) - 925,878 likes - 70 songs - 3 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 925,904 likes - 70 songs - 3 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,11 +56,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY5Exaf30Ns0.md) - [plain]
 | 46 | [A Puro Dolor](https://open.spotify.com/track/1rXxK89X0XGpIdTB6CwiFu) | [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf) | [A Puro Dolor](https://open.spotify.com/album/54bkVDCc7dG3QpIvFePi4a) | 2:48 |
 | 47 | [Tití Me Preguntó](https://open.spotify.com/track/1IHWl5LamUGEuP4ozKQSXZ) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Un Verano Sin Ti](https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5) | 4:03 |
 | 48 | [Dream On](https://open.spotify.com/track/1xsYj84j7hUDDnTTerGWlH) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Aerosmith](https://open.spotify.com/album/1RDVdxPUaqC4o7Rkm8LoOE) | 4:27 |
-| 49 | [QUEMA](https://open.spotify.com/track/2hn2zOA2XFlv6DSmesylrL) | [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [SOG](https://open.spotify.com/artist/18dspUI6gqabm5XCC2RcUD) | [QUEMA](https://open.spotify.com/album/0RdSengz6ayOfcVwH3HBry) | 2:30 |
-| 50 | [MOJABI GHOST](https://open.spotify.com/track/46YjJXVXWHlQ21odKktg5e) | [Tainy](https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [DATA](https://open.spotify.com/album/2X6WyzpxY70eUn3lnewB7d) | 3:52 |
+| 49 | [MOJABI GHOST](https://open.spotify.com/track/46YjJXVXWHlQ21odKktg5e) | [Tainy](https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [DATA](https://open.spotify.com/album/2X6WyzpxY70eUn3lnewB7d) | 3:52 |
+| 50 | [QUEMA](https://open.spotify.com/track/2hn2zOA2XFlv6DSmesylrL) | [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [SOG](https://open.spotify.com/artist/18dspUI6gqabm5XCC2RcUD) | [QUEMA](https://open.spotify.com/album/0RdSengz6ayOfcVwH3HBry) | 2:30 |
 | 51 | [Reggaeton Champagne](https://open.spotify.com/track/7yIIeKUxTpn36X6CFJhgEi) | [Bellakath](https://open.spotify.com/artist/4yjm4SvYqC5FFuLbB6TyHr), [Dani Flow](https://open.spotify.com/artist/1yX62RHdYysNcIrO33WQxJ) | [Kittyponeo](https://open.spotify.com/album/2u2IVr3kVR13lr517rvcjM) | 2:39 |
-| 52 | [Lollipop](https://open.spotify.com/track/3cDyocF0Ibdfs1SFQk5cLZ) | [Darell](https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf) | [EVERYBODY GO TO THE DISCOTEK](https://open.spotify.com/album/11UJfH39O0VqLiQGLW0D0e) | 3:19 |
-| 53 | [BESO](https://open.spotify.com/track/609E1JCInJncactoMmkDon) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [RR](https://open.spotify.com/album/50uChhk7AKkzDKytDixjYW) | 3:14 |
+| 52 | [BESO](https://open.spotify.com/track/609E1JCInJncactoMmkDon) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [RR](https://open.spotify.com/album/50uChhk7AKkzDKytDixjYW) | 3:14 |
+| 53 | [Lollipop](https://open.spotify.com/track/3cDyocF0Ibdfs1SFQk5cLZ) | [Darell](https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf) | [EVERYBODY GO TO THE DISCOTEK](https://open.spotify.com/album/11UJfH39O0VqLiQGLW0D0e) | 3:19 |
 | 54 | [Efecto](https://open.spotify.com/track/5Eax0qFko2dh7Rl2lYs3bx) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Un Verano Sin Ti](https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5) | 3:33 |
 | 55 | [CUFF IT](https://open.spotify.com/track/1xzi1Jcr7mEi9K2RfzLOqS) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [RENAISSANCE](https://open.spotify.com/album/6FJxoadUE4JNVwWHghBwnb) | 3:45 |
 | 56 | [La Bachata](https://open.spotify.com/track/5ww2BF9slyYgNOk37BlC4u) | [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [La Bachata](https://open.spotify.com/album/1TpGeAzOJgAGdPkcWl95r2) | 2:42 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY5Exaf30Ns0.md) - [plain]
 | 69 | [Should I Stay or Should I Go \- Remastered](https://open.spotify.com/track/39shmbIHICJ2Wxnk1fPSdz) | [The Clash](https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS) | [Combat Rock \(Remastered\)](https://open.spotify.com/album/1ZH5g1RDq3GY1OvyD0w0s2) | 3:08 |
 | 70 | [El Precio De La Soledad](https://open.spotify.com/track/179TZwPk0txEvjkraVTVKo) | [Alfredo Olivas](https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8) | [Así Es Esto](https://open.spotify.com/album/5t3QwyKSV5oww8T0eB26mB) | 3:06 |
 
-Snapshot ID: `MCxiNTlmY2M0YWNhNWJmYjM3NDEwNjExZDNlYmJiZDBhYmQxMThiMzNl`
+Snapshot ID: `MCw0ODhkNjc3ODA0MDQ1M2RhMmFhOTg3NmNjNTIxOTU2Y2I1MDdiOWFh`

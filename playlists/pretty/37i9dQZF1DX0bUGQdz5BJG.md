@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0bUGQdz5BJG.md) - [plain]
 
 > Music City must\-hears\. Cover: George Birge
 
-[Spotify](https://open.spotify.com/user/spotify) - 175,271 likes - 216 songs - 11 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 175,327 likes - 216 songs - 11 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0bUGQdz5BJG.md) - [plain]
 | 2 | [More Than A Night](https://open.spotify.com/track/0Qgf8nGU2B8cfulKlt5T4p) | [Caiden Wallace](https://open.spotify.com/artist/5yg39kxC6Y8JfBKFRi7lua) | [More Than A Night](https://open.spotify.com/album/3StMprmUcvogSDIJytWOFD) | 4:07 |
 | 3 | [Way Out Here](https://open.spotify.com/track/08MvBKdeKFvWwiE5fTagkU) | [Riley Green](https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb) | [Way Out Here](https://open.spotify.com/album/31sj5KDqCjfBymlJxgtbDO) | 3:41 |
 | 4 | [Thing That Brought Me Here \- Truck Song](https://open.spotify.com/track/1F07B71VUvC24wssm7fD7K) | [Tenille Townes](https://open.spotify.com/artist/3TyeX0lk4B7k56ukfzEE0z) | [Thing That Brought Me Here \(Truck Song\)](https://open.spotify.com/album/4UXNmBNlfYeG1ZtByhi4Em) | 3:49 |
-| 5 | [Keepin' the Lights On](https://open.spotify.com/track/7oVfdrMlhiTtWPmXoZggVw) | [Kameron Marlowe](https://open.spotify.com/artist/31n3CN1jSC5ALUJ9dwT8UI) | [Keepin' the Lights On](https://open.spotify.com/album/2zW8PyKdw9S5yWVPRYsClk) | 3:55 |
+| 5 | [Keepin' The Lights On](https://open.spotify.com/track/7oVfdrMlhiTtWPmXoZggVw) | [Kameron Marlowe](https://open.spotify.com/artist/31n3CN1jSC5ALUJ9dwT8UI) | [Keepin' The Lights On](https://open.spotify.com/album/2zW8PyKdw9S5yWVPRYsClk) | 3:55 |
 | 6 | [Past Actions](https://open.spotify.com/track/7xUM8wKYINpqPH83Lsi2jF) | [Gavin Adcock](https://open.spotify.com/artist/5jG6uRqinuI83luutMpW6y) | [Past Actions](https://open.spotify.com/album/5ArlMzw5TaMeHMULa0oErN) | 3:24 |
 | 7 | [Your Boy](https://open.spotify.com/track/7EfUOr3K3yarhqo2wCMqRe) | [Julia Cole](https://open.spotify.com/artist/48rpE75ZIsnfNFyojfYene) | [Your Boy](https://open.spotify.com/album/11em7wM2Ll8LuJEyRPUcJz) | 2:52 |
 | 8 | [Tears In The River](https://open.spotify.com/track/0wPQZ7EK9XScBom5MmLoVS) | [Maddox Batson](https://open.spotify.com/artist/6vJSPd6G272bUvUAisTCvd) | [Tears In The River](https://open.spotify.com/album/4lAm4Q6fyV5EI6OkJciOdB) | 3:10 |
@@ -225,4 +225,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0bUGQdz5BJG.md) - [plain]
 | 215 | [The Finger](https://open.spotify.com/track/1iJFdkkl9WAntRDbQEYCbF) | [Bryce Leatherwood](https://open.spotify.com/artist/4Au65v4b1yArf799wHdABT) | [The Finger](https://open.spotify.com/album/1n3VJJzQJKs7HvXtZvC2sf) | 3:05 |
 | 216 | [Right Round Here](https://open.spotify.com/track/77F3Qyv91XIFIi7oRfifEW) | [Dean Brody](https://open.spotify.com/artist/0ryF1Gy87xVCOF0Jb666ak) | [Right Round Here](https://open.spotify.com/album/4SLw8BaJIjqGnPnxAQpqYk) | 2:39 |
 
-Snapshot ID: `MCw3NDJjYzhhZmI3YWNmNjQzMGRlOGI4ZGMyYTVlNTJjYjQ4MzE4YWEz`
+Snapshot ID: `MCwzNWYyMjM4Mjc3NzA1MzY5ZDNiMGYzZmFiYWUwYWU3ZTk1ZGRjZDFh`

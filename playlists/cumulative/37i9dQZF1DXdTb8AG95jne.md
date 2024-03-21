@@ -2,9 +2,9 @@
 
 ### [Indie Korea \(인디 코리아\)](https://open.spotify.com/playlist/37i9dQZF1DXdTb8AG95jne)
 
-> Let's fall into the K\-인디 tracks from Korea's thriving indie scene\. \(Cover: Fishingirls\(피싱걸스\)\) \(최신곡을 포함한 국내 인디곡들을 만나보세요!\)
+> Let's fall into the K\-인디 tracks from Korea's thriving indie scene\. \(Cover: Kim Sawol\(김사월\)\) \(최신곡을 포함한 국내 인디곡들을 만나보세요!\)
 
-631 songs - 1 day 14 hr 38 min
+633 songs - 1 day 14 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,6 +56,7 @@
 | [At The End Of The Road](https://open.spotify.com/track/4tJhXh3K0KAkFTp0JERVGP) | [Say Sue Me](https://open.spotify.com/artist/4tvbo17gXpYgSr8sTlkaby) | [At The End Of The Road](https://open.spotify.com/album/5jykWS4qd667npScYkq59d) | 3:05 | 2022-03-31 | 2022-04-20 |
 | [BABEL](https://open.spotify.com/track/5uzR8Dr8tGWWasQbHKBOoC) | [Ahn Dayoung](https://open.spotify.com/artist/3YaTzrZaXXljeI8vpvzyBX) | [BABEL](https://open.spotify.com/album/3CApRJRL9vFGado5MZCExF) | 4:48 | 2022-12-30 | 2023-01-05 |
 | [Baby I Need You](https://open.spotify.com/track/7F7s8Hh6h1PgGUyVzpRfDs) | [Joosiq](https://open.spotify.com/artist/66pTbLwtaCUvT64JA8zXZh) | [Baby I Need You](https://open.spotify.com/album/439HCLfX880T9IBLn7iSEf) | 3:35 | 2022-03-31 |  |
+| [Bad Person](https://open.spotify.com/track/3IAHKvtU56oGcp2dagV3pS) | [Kim Sawol](https://open.spotify.com/artist/08J6v4qHZz06ua0qAicWmE) | [Default](https://open.spotify.com/album/4P8nciEu4ohngeo77oex4u) | 3:16 | 2024-03-20 |  |
 | [Balance](https://open.spotify.com/track/03uTYVaTJWVvxYcnysHrtr) | [OKDAL](https://open.spotify.com/artist/43qbEc59aqLydrvuWsrNoE) | [Balance](https://open.spotify.com/album/1jh1crUoD4vl5c0KangkX4) | 3:03 | 2022-03-31 | 2022-04-21 |
 | [BBI\-YO](https://open.spotify.com/track/0BiompCTb9kPFJBHvnbIBH) | [Narae Lee](https://open.spotify.com/artist/2BfdOTwtSqVgQlahK3cSO1) | [BBI\-YO](https://open.spotify.com/album/2D44Gpm4wCcwR1YLDSDxtR) | 3:37 | 2022-06-09 | 2022-06-19 |
 | [be around me](https://open.spotify.com/track/5Ev5Zaw67LgY4ul2jCsYRt) | [PARKJIWOO](https://open.spotify.com/artist/0NuBvSQbbZW2NL9cwbnpER) | [be around me](https://open.spotify.com/album/2vXDK0SH1vh2ejt3BZaavG) | 2:56 | 2022-12-14 | 2022-12-22 |
@@ -118,6 +119,7 @@
 | [Dear My All](https://open.spotify.com/track/2X71ww8wImSYbw4s0Mr2ur) | [Mingginyu](https://open.spotify.com/artist/29UQ130XMQDR55X4Rmjapd) | [Dear My All](https://open.spotify.com/album/44ExesH5SiiFq3Kov4okDf) | 2:41 | 2022-12-29 |  |
 | [December](https://open.spotify.com/track/7hlJPqGPSdf9Ss76Do54zf) | [Jang HeeWon](https://open.spotify.com/artist/1nISeMejedvyK4XXRacYAH) | [December](https://open.spotify.com/album/5KpmOvSlSMUyyuSMK1eAdy) | 3:44 | 2022-03-31 | 2022-04-21 |
 | [deep water](https://open.spotify.com/track/3ToLIuUHoaedt4cagzX41J) | [AVOKID](https://open.spotify.com/artist/1pTg0Tbi7M27AnarCbdGzS) | [?!](https://open.spotify.com/album/1uhyHd8foilSr6qLYjzEwc) | 3:16 | 2022-03-31 | 2022-04-14 |
+| [Default](https://open.spotify.com/track/7a9JYapvSZ6jYu2TaG7BRU) | [Kim Sawol](https://open.spotify.com/artist/08J6v4qHZz06ua0qAicWmE) | [Default](https://open.spotify.com/album/4P8nciEu4ohngeo77oex4u) | 3:52 | 2024-03-20 |  |
 | [Despite it all](https://open.spotify.com/track/7LLnHEOcFGPd0ACRIE6CtP) | [Mingginyu](https://open.spotify.com/artist/29UQ130XMQDR55X4Rmjapd) | [Despite it all](https://open.spotify.com/album/0AybLuodK9yOikxRilqpBB) | 3:49 | 2022-02-16 | 2022-07-27 |
 | [Dew](https://open.spotify.com/track/7GBYlHlShMCcdQv9aiUw8y) | [Sonny Zero](https://open.spotify.com/artist/40X7tXw4Tk4m5WFDfGJnZe), [hevel](https://open.spotify.com/artist/7gnhLu1Gs5WaOuOPnFm9js), [DASU](https://open.spotify.com/artist/6KTycwV94S3FJhfu1tXa3b) | [Dew](https://open.spotify.com/album/6UesXx8nmvnYOFOCAPjxTo) | 3:20 | 2023-01-10 | 2023-01-26 |
 | [Dive into love](https://open.spotify.com/track/6apTn1k3YjfjkoMUTS1av2) | [SUDI](https://open.spotify.com/artist/2UNjeY1rdhEAozH2hZJigF), [Yunsae](https://open.spotify.com/artist/7DLucR65sSvihkpKZcdymt) | [Dive into love](https://open.spotify.com/album/1wrWUQmvi9dqyxPPQHTg6H) | 3:22 | 2021-12-21 | 2022-04-30 |
@@ -227,8 +229,8 @@
 | [How Can I \(feat\. Zoe Carovano\)](https://open.spotify.com/track/3L8NV1XmWMUdlSAttlJ5h5) | [Sentimental Scenery](https://open.spotify.com/artist/3tAtWjLnNyZqmvfLx2dDJ7), [Zoe Carovano](https://open.spotify.com/artist/58OjLCC4IqZGQBgN91m7DC) | [How Can I](https://open.spotify.com/album/4zxQtH7O7YqeBKh0ti0F22) | 3:23 | 2022-03-31 | 2022-04-11 |
 | [HOWL](https://open.spotify.com/track/10WHVzgIky5w6pIgG8tePU) | [Luli Lee](https://open.spotify.com/artist/3h4p2PKHb9JejBCHmWlthK) | [HOWL](https://open.spotify.com/album/5BzJygUNWvRFzkUBI460Ob) | 3:32 | 2022-03-31 | 2022-04-11 |
 | [Hug](https://open.spotify.com/track/1yzPbQYfMcuJMlpWi8npDQ) | [BOL4](https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl) | [Puberty BookⅡ Pum](https://open.spotify.com/album/1wnPosDt7DsSYDDLQ2XBdh) | 3:06 | 2022-04-12 | 2022-04-18 |
-| [Hug](https://open.spotify.com/track/5IjEA99ADS6ERSh8Ck1OLq) | [BOL4](https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl) | [Puberty BookⅡ Pum](https://open.spotify.com/album/7bokVbwwFlYf6dqzdSUXEp) | 3:06 | 2022-09-20 |  |
-| [Hug me tight](https://open.spotify.com/track/72hSGQmtB2M7VGouyZ9Yr4) | [Heo Hoy Kyung](https://open.spotify.com/artist/5z8B2oTjiZbpbMB6rAfPGl) | [Hug me tight](https://open.spotify.com/album/4yitFAHe08JSAvqk7zFWUF) | 3:47 | 2022-05-11 |  |
+| [Hug](https://open.spotify.com/track/5IjEA99ADS6ERSh8Ck1OLq) | [BOL4](https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl) | [Puberty BookⅡ Pum](https://open.spotify.com/album/7bokVbwwFlYf6dqzdSUXEp) | 3:06 | 2022-09-20 | 2024-03-21 |
+| [Hug me tight](https://open.spotify.com/track/72hSGQmtB2M7VGouyZ9Yr4) | [Heo Hoy Kyung](https://open.spotify.com/artist/5z8B2oTjiZbpbMB6rAfPGl) | [Hug me tight](https://open.spotify.com/album/4yitFAHe08JSAvqk7zFWUF) | 3:47 | 2022-05-11 | 2024-03-21 |
 | [Hwi Hwi](https://open.spotify.com/track/1vx1TTe2ZZEkcGDXxpZrD1) | [HAYAN](https://open.spotify.com/artist/4qAzYmM90kRO5IX9MUhQjf) | [Hwi Hwi](https://open.spotify.com/album/2rPbOfaFDrb6WwzvLS98i6) | 3:10 | 2022-03-31 | 2022-04-16 |
 | [i](https://open.spotify.com/track/4h9jlv3tO0gm0i1mQ7o6hZ) | [Lee Aram](https://open.spotify.com/artist/3j0Q7sspsBVQm6SdlkqYp1) | [i](https://open.spotify.com/album/4bXJUWoEn4L5fk0hwE0BPD) | 2:40 | 2022-05-02 | 2022-07-29 |
 | [I am a Church.](https://open.spotify.com/track/3bcpltXdn1akCRZgDZIz0x) | [정세미](https://open.spotify.com/artist/2PlDWR4wokgOg5S5jhdh4Y) | [I am a Church.](https://open.spotify.com/album/47lVmpjFQlYyIYoHM17A4y) | 6:02 | 2022-03-09 | 2022-04-20 |

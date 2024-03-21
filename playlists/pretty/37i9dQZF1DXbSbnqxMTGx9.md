@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbSbnqxMTGx9.md) - [plain]
 
 > The ultimate reggae playlist\. Cover: Bob Marley
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,866,013 likes - 100 songs - 6 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,866,646 likes - 100 songs - 6 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,9 +16,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbSbnqxMTGx9.md) - [plain]
 | 6 | [Could You Be Loved](https://open.spotify.com/track/5O4erNlJ74PIF6kGol1ZrC) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Uprising](https://open.spotify.com/album/321q9p7PELvzcFAWxml7VX) | 3:57 |
 | 7 | [Bam Bam](https://open.spotify.com/track/7ixiCZEHWHc8FxaQXQh2P4) | [Sister Nancy](https://open.spotify.com/artist/21pMSs2JHWwwy2kp1QIIVB) | [One Two](https://open.spotify.com/album/3Il1CWXA64e8gukuJZoj0e) | 3:16 |
 | 8 | [Bad Boys](https://open.spotify.com/track/0STIV4K7EZkp2YHAyyu5em) | [Inner Circle](https://open.spotify.com/artist/5os0Ltvz8Q8BvXOPOd1frx) | [Sweat \(A La La La La Long\)](https://open.spotify.com/album/1WCNEjBtSysAn5AMGWzEqg) | 3:51 |
-| 9 | [Night Nurse](https://open.spotify.com/track/4DQttwipnILl88cru3BRZx) | [Gregory Isaacs](https://open.spotify.com/artist/6QHu71f8LLeT8n0GzfbYFc) | [Night Nurse \(Expanded Edition\)](https://open.spotify.com/album/2HEXjNNUSOwBmhyaEXG5yx) | 4:09 |
+| 9 | [You Don't Love Me \(No, No, No\) \- Extended Mix](https://open.spotify.com/track/0INtJm8gCJKtNaAYQNVlpZ) | [Dawn Penn](https://open.spotify.com/artist/6mLXvSt7Xxy2r9uBba1O6Z) | [No, No, No](https://open.spotify.com/album/7DLI0K5q6Gb1vgtlgKSgmU) | 4:37 |
 | 10 | [One Love](https://open.spotify.com/track/2GaIku5Q5PRguR8OdpHJXD) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Reggae Classics](https://open.spotify.com/album/1vVZU5EoAOgo1YUCWcofAP) | 3:20 |
-| 11 | [You Don't Love Me \(No, No, No\) \- Extended Mix](https://open.spotify.com/track/0INtJm8gCJKtNaAYQNVlpZ) | [Dawn Penn](https://open.spotify.com/artist/6mLXvSt7Xxy2r9uBba1O6Z) | [No, No, No](https://open.spotify.com/album/7DLI0K5q6Gb1vgtlgKSgmU) | 4:37 |
+| 11 | [Night Nurse](https://open.spotify.com/track/4DQttwipnILl88cru3BRZx) | [Gregory Isaacs](https://open.spotify.com/artist/6QHu71f8LLeT8n0GzfbYFc) | [Night Nurse \(Expanded Edition\)](https://open.spotify.com/album/2HEXjNNUSOwBmhyaEXG5yx) | 4:09 |
 | 12 | [I Shot The Sheriff](https://open.spotify.com/track/5uBKhKWTJ4E47rcLQqu3YH) | [The Wailers](https://open.spotify.com/artist/6uSKeCyQEhvPC2NODgiqFE) | [Burnin' \(Deluxe Edition\)](https://open.spotify.com/album/5EZMcYc3xK0rlru83kHpUe) | 4:39 |
 | 13 | [I Wish You Were Here](https://open.spotify.com/track/5eCx5098mGhOXc3xY1fbWc) | [Alpha Blondy](https://open.spotify.com/artist/41ekW4MXG59xJMXR8dX1OG) | [Jah Victory](https://open.spotify.com/album/01cPxSu0Lr5qocwgwt579N) | 4:27 |
 | 14 | [You Can Get It If You Really Want](https://open.spotify.com/track/1Pao4DTLMB4gJPTnqmLgSQ) | [Jimmy Cliff](https://open.spotify.com/artist/3rJ3m1tM6vUgiWLjfV8sRf) | [The Harder They Come \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4oxdKcC9epGo9viy1j8fN7) | 2:38 |
@@ -62,8 +62,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbSbnqxMTGx9.md) - [plain]
 | 52 | [Morning Sun](https://open.spotify.com/track/5uqqDha6xHfmP4Gu1VyYxd) | [Al Barry](https://open.spotify.com/artist/4vNQY9dqHGNTP3VLJonsHU) | [Al Barry & Friends \(Deluxe Edition\)](https://open.spotify.com/album/4tPcpsbuVXJ9X4IfrZNeJd) | 2:56 |
 | 53 | [Your House](https://open.spotify.com/track/0czsQ1YOT71kdVfyFoTy3U) | [Steel Pulse](https://open.spotify.com/artist/6UL7BodGc5iVmQGlMwHR0g) | [True Democracy](https://open.spotify.com/album/6qPG09ioBMVTcgJSZpuCY8) | 3:42 |
 | 54 | [World\-A\-Reggae](https://open.spotify.com/track/70idjVtmzhvE1tXgHYEF2y) | [Ini Kamoze](https://open.spotify.com/artist/1VJspRsoC6c0bvqhnSiFCs) | [Ini Kamoze](https://open.spotify.com/album/0RRP4qIFXHxmaMyMLzP86U) | 3:50 |
-| 55 | [Love And Affection](https://open.spotify.com/track/4o6ZuLYr04LqFQNiSGVK4u) | [Pressure Busspipe](https://open.spotify.com/artist/61meTZVdfRrHMotU1AJipD) | [Reggae Gold 2007](https://open.spotify.com/album/4SPmILNzFDI8pwcj6VSr9X) | 4:18 |
-| 56 | [Book Of Rules](https://open.spotify.com/track/4PKri4OX2AB2RXj95Y9ZgB) | [The Heptones](https://open.spotify.com/artist/6b5Hxvp7SWlJY5uUrRlzx4) | [Night Food](https://open.spotify.com/album/4ZOQeByfXd1iAgmMk8xpYN) | 3:31 |
+| 55 | [Book Of Rules](https://open.spotify.com/track/4PKri4OX2AB2RXj95Y9ZgB) | [The Heptones](https://open.spotify.com/artist/6b5Hxvp7SWlJY5uUrRlzx4) | [Night Food](https://open.spotify.com/album/4ZOQeByfXd1iAgmMk8xpYN) | 3:31 |
+| 56 | [Love And Affection](https://open.spotify.com/track/4o6ZuLYr04LqFQNiSGVK4u) | [Pressure Busspipe](https://open.spotify.com/artist/61meTZVdfRrHMotU1AJipD) | [Reggae Gold 2007](https://open.spotify.com/album/4SPmILNzFDI8pwcj6VSr9X) | 4:18 |
 | 57 | [The Tide Is High](https://open.spotify.com/track/1GUcIBgJB2AX0Ex6J6SKXM) | [The Paragons](https://open.spotify.com/artist/5sCZ2Gc3nZaE3Cav8WG7WG) | [Original Paragons At Treasure Isle](https://open.spotify.com/album/2LekDlww2q2hr2HuKJeww1) | 2:45 |
 | 58 | [Let Me Down Easy](https://open.spotify.com/track/1FDCOnNeSDzuOWrWDfklMv) | [Dennis Brown](https://open.spotify.com/artist/0UmBaQJflaHddKtf1lrA6F) | [Super Reggae & Soul Hits](https://open.spotify.com/album/3RxfT8zLSmteZfX3snggnb) | 2:55 |
 | 59 | [Better Must Come](https://open.spotify.com/track/34nNIDXjXDkaSghgY8XJTF) | [Delroy Wilson](https://open.spotify.com/artist/10j5vcbnSBWXZ1WYyv2a2D) | [Delroy Wilson's Big Hits](https://open.spotify.com/album/2B6fDpOYSkw07Pe7muIihM) | 2:43 |
@@ -76,8 +76,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbSbnqxMTGx9.md) - [plain]
 | 66 | [Long Shot \(Kick De Bucket\)](https://open.spotify.com/track/1pIdjzeTD3qGjrPRPoeXAn) | [The Pioneers](https://open.spotify.com/artist/4CSqr95TKzLmNeClcDr219) | [Long Shot](https://open.spotify.com/album/5HSaNp44MKfcyO1FsHaVU5) | 2:50 |
 | 67 | [Lips of Wine](https://open.spotify.com/track/6X4171NDmAvVgcUYvhGNsA) | [Dennis Brown](https://open.spotify.com/artist/0UmBaQJflaHddKtf1lrA6F) | [Musical Heatwave, The Best of Dennis Brown 1972\-1975](https://open.spotify.com/album/2l5cxpBpaSklRx04YUr0O0) | 2:46 |
 | 68 | [The Sun Stop Shining](https://open.spotify.com/track/6O4FoKdYi42CFjfd0MM04n) | [Cornell Campbell](https://open.spotify.com/artist/1FOvLj8sNCGHjgueUOVvJi) | [Very Best](https://open.spotify.com/album/3thlTAxpHldeAVvftG1Aov) | 3:11 |
-| 69 | [Fighting Against Conviction](https://open.spotify.com/track/5MKYnizdhDDik45mEncVXu) | [Bunny Wailer](https://open.spotify.com/artist/389zc5Rwe0MPcE6mSF4AjC) | [Blackheart Man](https://open.spotify.com/album/45Ae5UMjDuXNXot7PvJCjr) | 5:10 |
-| 70 | [Train to Skaville](https://open.spotify.com/track/21XbXjK5xKhEJnH9xFuoq9) | [The Ethiopians](https://open.spotify.com/artist/3TUmwNx3l8S2nCoGKqIhjA) | [Engine 54](https://open.spotify.com/album/7kApPBGR83HP2zyzG4WPmG) | 2:57 |
+| 69 | [Train to Skaville](https://open.spotify.com/track/21XbXjK5xKhEJnH9xFuoq9) | [The Ethiopians](https://open.spotify.com/artist/3TUmwNx3l8S2nCoGKqIhjA) | [Engine 54](https://open.spotify.com/album/7kApPBGR83HP2zyzG4WPmG) | 2:57 |
+| 70 | [Fighting Against Conviction](https://open.spotify.com/track/5MKYnizdhDDik45mEncVXu) | [Bunny Wailer](https://open.spotify.com/artist/389zc5Rwe0MPcE6mSF4AjC) | [Blackheart Man](https://open.spotify.com/album/45Ae5UMjDuXNXot7PvJCjr) | 5:10 |
 | 71 | [Don't Give Up](https://open.spotify.com/track/4VC6Ihh1epJiQPiiMpJXDE) | [Barrington Levy](https://open.spotify.com/artist/5mMuiFhh7faS7qxnTLRA6u) | [Poor Man Style](https://open.spotify.com/album/05JkJkbziKzfr0wOFA4iFJ) | 3:18 |
 | 72 | [Handsworth Revolution](https://open.spotify.com/track/54cMaPPTAoC57ZgnMTJKHM) | [Steel Pulse](https://open.spotify.com/artist/6UL7BodGc5iVmQGlMwHR0g) | [Reggae Greats](https://open.spotify.com/album/61RLzpGAy4BrIQoEiHXGXA) | 5:22 |
 | 73 | [Untold Strories](https://open.spotify.com/track/3HOBTvzauIkHi2TiVCGw0B) | [Buju Banton](https://open.spotify.com/artist/4wLAjfeqAsV66AocWNcowA) | [5 Decades of Jamaica's Musical Heritage](https://open.spotify.com/album/2xV5VH34Y2v2YPoinzCeyT) | 4:32 |
@@ -102,11 +102,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbSbnqxMTGx9.md) - [plain]
 | 92 | [Till Then](https://open.spotify.com/track/56o2Y7yCupDH4uqn4vayMc) | [The Frightnrs](https://open.spotify.com/artist/0wwBxT2qVH327KlBJbwMEP) | [Nothing More to Say](https://open.spotify.com/album/5oGtxusqxowETVnVokdqME) | 3:21 |
 | 93 | [Sweet Sensation](https://open.spotify.com/track/6aC8NTVpetj62Ajixqzlsb) | [The Melodians](https://open.spotify.com/artist/23FM5hCHWAODLFGMyk6ETI) | [Rivers of Babylon \(Expanded Version\)](https://open.spotify.com/album/0P2mwcNmZJredvaJHIkT14) | 3:50 |
 | 94 | [Engine 54](https://open.spotify.com/track/1Miqjanq9I2rPQyR2ptZGu) | [The Ethiopians](https://open.spotify.com/artist/3TUmwNx3l8S2nCoGKqIhjA) | [Engine 54](https://open.spotify.com/album/7kApPBGR83HP2zyzG4WPmG) | 2:39 |
-| 95 | [Ba Ba Boom](https://open.spotify.com/track/2RvMpOxSYXbOrrlCATGbs2) | [The Jamaicans](https://open.spotify.com/artist/1EBXhaDx1Mhu3iZ5oC3PJ5) | [Ba Ba Boom](https://open.spotify.com/album/39ilJtvILiTJIscDiIDapx) | 3:21 |
+| 95 | [Revolution](https://open.spotify.com/track/1nsEptcDye2MUjMJQ1N5Rh) | [Dennis Brown](https://open.spotify.com/artist/0UmBaQJflaHddKtf1lrA6F) | [Reggae Anthology: Dennis Brown \- Crown Prince of Reggae \- Singles \(1972\-1985\)](https://open.spotify.com/album/1ZckZ1ISksO8vqrbQn3cic) | 4:19 |
 | 96 | [Help Me Make It Through The Night](https://open.spotify.com/track/0pINVERHACBcMBRzFoHysO) | [John Holt](https://open.spotify.com/artist/312pFk2xpEwYWLGPehc4Nu) | [1000 Volts Of Holt](https://open.spotify.com/album/6AQcKsHGGOE2iVimVgGdE7) | 3:07 |
-| 97 | [Revolution](https://open.spotify.com/track/1nsEptcDye2MUjMJQ1N5Rh) | [Dennis Brown](https://open.spotify.com/artist/0UmBaQJflaHddKtf1lrA6F) | [Reggae Anthology: Dennis Brown \- Crown Prince of Reggae \- Singles \(1972\-1985\)](https://open.spotify.com/album/1ZckZ1ISksO8vqrbQn3cic) | 4:19 |
+| 97 | [Ba Ba Boom](https://open.spotify.com/track/2RvMpOxSYXbOrrlCATGbs2) | [The Jamaicans](https://open.spotify.com/artist/1EBXhaDx1Mhu3iZ5oC3PJ5) | [Ba Ba Boom](https://open.spotify.com/album/39ilJtvILiTJIscDiIDapx) | 3:21 |
 | 98 | [The Loser](https://open.spotify.com/track/6ReiEf0vRqmkrdfMtevBQq) | [Derrick Harriott](https://open.spotify.com/artist/1ht9oSlPiNywrg22T2sM8d) | [Psychedelic Train](https://open.spotify.com/album/5EXlwo79cc8jcscqh2yeRn) | 3:35 |
 | 99 | [Under Me Sleng Teng](https://open.spotify.com/track/1YjBJlLZh4wwnfYZCr3jrE) | [Wayne Smith](https://open.spotify.com/artist/7kwcin6f7eYIvo6hG3GEn4) | [Under Me Sleng Teng](https://open.spotify.com/album/43bIT6PuC4DKlvC4iKTWHA) | 4:07 |
 | 100 | [Ku Klux Klan](https://open.spotify.com/track/1ViW8CWCiUff8iwlSpeI1r) | [Steel Pulse](https://open.spotify.com/artist/6UL7BodGc5iVmQGlMwHR0g) | [Reggae Greats](https://open.spotify.com/album/61RLzpGAy4BrIQoEiHXGXA) | 3:35 |
 
-Snapshot ID: `MCw0ZGYwZjRmOTk3YmU0ZWRiMDk2NjM2MzNmMzQ5MDE5NTBiYzYxY2I0`
+Snapshot ID: `MCw5NWQ0ZWMzN2RlZjNhYzYwOWFmMjE5ODI2NzhmNThlM2ExZTU3NDVm`

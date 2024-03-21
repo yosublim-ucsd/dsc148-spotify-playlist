@@ -1,12 +1,12 @@
 {
   "description": "The best of Latin Trap. Cover: Arcangel ",
-  "num_followers": 113990,
+  "num_followers": 114002,
   "original_name": "Trap Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlMjFkYzFmMWRlNTQzMTRjZjFjNDRkNjVhYWQ3YmRkNDM5NWVkYzY0",
+  "snapshot_id": "MCw2OWRiMjUwOGM1YmY2Mzg5ZDQzMmQ2NjYyYjU3ODhhYmRjY2MwYzMw",
   "tracks": [
     {
       "added_at": "2023-05-25 17:50:01",
@@ -207,26 +207,6 @@
     {
       "added_at": "2023-05-25 17:50:01",
       "album": {
-        "name": "Eladio Carrion: Bzrp Music Sessions, Vol. 40",
-        "url": "https://open.spotify.com/album/4b2xHCwmoOeGHbo15dtqfb"
-      },
-      "artists": [
-        {
-          "name": "Bizarrap",
-          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
-        },
-        {
-          "name": "Eladio Carrion",
-          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
-        }
-      ],
-      "duration_ms": 164895,
-      "name": "Eladio Carrion: Bzrp Music Sessions, Vol. 40",
-      "url": "https://open.spotify.com/track/1VauUM5CBX7nkLcgafQL2B"
-    },
-    {
-      "added_at": "2023-05-25 17:50:01",
-      "album": {
         "name": "Vuelve",
         "url": "https://open.spotify.com/album/4fM1JysLcYDX9No45tZmqO"
       },
@@ -243,6 +223,26 @@
       "duration_ms": 279613,
       "name": "Vuelve",
       "url": "https://open.spotify.com/track/0gCPvo1GkbtPhMqg5Gbx1K"
+    },
+    {
+      "added_at": "2023-05-25 17:50:01",
+      "album": {
+        "name": "Eladio Carrion: Bzrp Music Sessions, Vol. 40",
+        "url": "https://open.spotify.com/album/4b2xHCwmoOeGHbo15dtqfb"
+      },
+      "artists": [
+        {
+          "name": "Bizarrap",
+          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
+        },
+        {
+          "name": "Eladio Carrion",
+          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
+        }
+      ],
+      "duration_ms": 164895,
+      "name": "Eladio Carrion: Bzrp Music Sessions, Vol. 40",
+      "url": "https://open.spotify.com/track/1VauUM5CBX7nkLcgafQL2B"
     },
     {
       "added_at": "2023-05-25 17:50:01",
@@ -507,7 +507,7 @@
     {
       "added_at": "2023-05-25 17:50:01",
       "album": {
-        "name": "Toda Remix",
+        "name": "Toda (Remix)",
         "url": "https://open.spotify.com/album/49BbDxaXZIPz4sZE6G7618"
       },
       "artists": [
@@ -533,7 +533,7 @@
         }
       ],
       "duration_ms": 367680,
-      "name": "Toda Remix - Remix",
+      "name": "Toda (Remix)",
       "url": "https://open.spotify.com/track/47ZS1OjnJpJVfGN9yHXfMn"
     },
     {
@@ -691,30 +691,6 @@
     {
       "added_at": "2023-05-25 17:50:01",
       "album": {
-        "name": "Medusa",
-        "url": "https://open.spotify.com/album/00WVnPPMH4wPiQk7QgLVgn"
-      },
-      "artists": [
-        {
-          "name": "Jhayco",
-          "url": "https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1"
-        },
-        {
-          "name": "Anuel AA",
-          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
-        },
-        {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
-        }
-      ],
-      "duration_ms": 305333,
-      "name": "Medusa",
-      "url": "https://open.spotify.com/track/3qM0vBxIe4VUbK0Z0smuVP"
-    },
-    {
-      "added_at": "2023-05-25 17:50:01",
-      "album": {
         "name": "Percocet (Remix)",
         "url": "https://open.spotify.com/album/0LYlVklStGn0LfOPh9cTEJ"
       },
@@ -739,6 +715,30 @@
       "duration_ms": 314671,
       "name": "Percocet (Remix)",
       "url": "https://open.spotify.com/track/7jFl7qbhtGg81SkszfgVGF"
+    },
+    {
+      "added_at": "2023-05-25 17:50:01",
+      "album": {
+        "name": "Medusa",
+        "url": "https://open.spotify.com/album/00WVnPPMH4wPiQk7QgLVgn"
+      },
+      "artists": [
+        {
+          "name": "Jhayco",
+          "url": "https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1"
+        },
+        {
+          "name": "Anuel AA",
+          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+        },
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        }
+      ],
+      "duration_ms": 305333,
+      "name": "Medusa",
+      "url": "https://open.spotify.com/track/3qM0vBxIe4VUbK0Z0smuVP"
     },
     {
       "added_at": "2023-05-25 17:50:01",
@@ -1707,22 +1707,6 @@
     {
       "added_at": "2023-05-25 17:50:01",
       "album": {
-        "name": "A Mi Manera",
-        "url": "https://open.spotify.com/album/38KUTPLiMJCq0hCxSg9iTL"
-      },
-      "artists": [
-        {
-          "name": "Omy de Oro",
-          "url": "https://open.spotify.com/artist/65jIUih0ZeTUJhSTRuYxpi"
-        }
-      ],
-      "duration_ms": 158786,
-      "name": "A Mi Manera",
-      "url": "https://open.spotify.com/track/0g9BEw3stYObQaDvgwV8It"
-    },
-    {
-      "added_at": "2023-05-25 17:50:01",
-      "album": {
         "name": "Como Soy II",
         "url": "https://open.spotify.com/album/3C7cfo9Ycj8NjBUv3DHk2f"
       },
@@ -1747,6 +1731,22 @@
       "duration_ms": 341069,
       "name": "Como Soy II",
       "url": "https://open.spotify.com/track/6WZecLipzXhhw9cDAZub9O"
+    },
+    {
+      "added_at": "2023-05-25 17:50:01",
+      "album": {
+        "name": "A Mi Manera",
+        "url": "https://open.spotify.com/album/38KUTPLiMJCq0hCxSg9iTL"
+      },
+      "artists": [
+        {
+          "name": "Omy de Oro",
+          "url": "https://open.spotify.com/artist/65jIUih0ZeTUJhSTRuYxpi"
+        }
+      ],
+      "duration_ms": 158786,
+      "name": "A Mi Manera",
+      "url": "https://open.spotify.com/track/0g9BEw3stYObQaDvgwV8It"
     },
     {
       "added_at": "2023-05-25 17:50:01",
@@ -1867,6 +1867,30 @@
     {
       "added_at": "2023-05-25 17:50:01",
       "album": {
+        "name": "Como Soy",
+        "url": "https://open.spotify.com/album/79AMceYOPnEZcHifQd5hRM"
+      },
+      "artists": [
+        {
+          "name": "Pacho El Antifeka",
+          "url": "https://open.spotify.com/artist/03Enzet8KLMkjdeQnbqbmn"
+        },
+        {
+          "name": "Daddy Yankee",
+          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
+        },
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "duration_ms": 312232,
+      "name": "Como Soy",
+      "url": "https://open.spotify.com/track/7jIfxFhZSmH3LGud6D5m2w"
+    },
+    {
+      "added_at": "2023-05-25 17:50:01",
+      "album": {
         "name": "Contamos & Guerreamos",
         "url": "https://open.spotify.com/album/00K5OEAAHlovfQRF3DUYPe"
       },
@@ -1927,30 +1951,6 @@
       "duration_ms": 161227,
       "name": "Tyson",
       "url": "https://open.spotify.com/track/7sS5P7HJpRI6dslzJ55z6C"
-    },
-    {
-      "added_at": "2023-05-25 17:50:01",
-      "album": {
-        "name": "Como Soy",
-        "url": "https://open.spotify.com/album/79AMceYOPnEZcHifQd5hRM"
-      },
-      "artists": [
-        {
-          "name": "Pacho El Antifeka",
-          "url": "https://open.spotify.com/artist/03Enzet8KLMkjdeQnbqbmn"
-        },
-        {
-          "name": "Daddy Yankee",
-          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
-        },
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        }
-      ],
-      "duration_ms": 312232,
-      "name": "Como Soy",
-      "url": "https://open.spotify.com/track/7jIfxFhZSmH3LGud6D5m2w"
     },
     {
       "added_at": "2023-05-25 17:50:01",
@@ -2283,22 +2283,6 @@
     {
       "added_at": "2023-05-25 17:50:01",
       "album": {
-        "name": "Chambea",
-        "url": "https://open.spotify.com/album/3cNcI17xidck0JlZrNUpXw"
-      },
-      "artists": [
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        }
-      ],
-      "duration_ms": 192001,
-      "name": "Chambea",
-      "url": "https://open.spotify.com/track/1Bqg4yFeVDJxchh6MjkGKy"
-    },
-    {
-      "added_at": "2023-05-25 17:50:01",
-      "album": {
         "name": "Tu No Metes Cabra",
         "url": "https://open.spotify.com/album/1zyFFgmRlW5GbTyTTyjQ8w"
       },
@@ -2311,6 +2295,22 @@
       "duration_ms": 170762,
       "name": "Tu No Metes Cabra",
       "url": "https://open.spotify.com/track/43SMQMC2X2fAOuTPRnSGrG"
+    },
+    {
+      "added_at": "2023-05-25 17:50:01",
+      "album": {
+        "name": "Chambea",
+        "url": "https://open.spotify.com/album/3cNcI17xidck0JlZrNUpXw"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "duration_ms": 192001,
+      "name": "Chambea",
+      "url": "https://open.spotify.com/track/1Bqg4yFeVDJxchh6MjkGKy"
     },
     {
       "added_at": "2023-05-25 17:50:01",

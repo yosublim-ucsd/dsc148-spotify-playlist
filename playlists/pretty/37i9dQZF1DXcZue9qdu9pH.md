@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcZue9qdu9pH.md) - [plain]
 
 > Come, lets take a soulful journey through rhythmic grooves
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,420 likes - 50 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,421 likes - 50 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcZue9qdu9pH.md) - [plain]
 | 31 | [LIONESS](https://open.spotify.com/track/3m1zUf6uHrmupdHjgvtHYo) | [Earlwin](https://open.spotify.com/artist/4pMDyEwLhqvAo5VFZFNoE0) | [TIGERS AND LIONESSES](https://open.spotify.com/album/08QPNsMshzzo23hsYT4t84) | 3:12 |
 | 32 | [Thank You/Rebel and a Cause \- from ech0](https://open.spotify.com/track/0BZ8a5cWdl7sNwNzHBLZj0) | [Just a Band](https://open.spotify.com/artist/0udvEwi0yqxRFUnv5x0VJA) | [echo: dawn](https://open.spotify.com/album/0ZhR4JnbnSgxcNPq5jaHKF) | 3:07 |
 | 33 | [Something Is You](https://open.spotify.com/track/1KQfpF8EmbF8oP1YwpwJ0O) | [Billy Black](https://open.spotify.com/artist/6znLUPGYNDVG3VoMH5UXUU) | [Something Is You](https://open.spotify.com/album/6zNhbmvLEE12cGS1c53VL0) | 1:50 |
-| 34 | [Same Page](https://open.spotify.com/track/0J9l0Y5MEvO8e6ksy8Hv82) | [Bensoul](https://open.spotify.com/artist/09vo12hHajgG2cZzq0rGmE), [Muthaka](https://open.spotify.com/artist/1y2NzUCGrOaUPBZhhyUPcQ) | [The Lion of Sudah](https://open.spotify.com/album/4sx5OcEfV3O6BLmKF3FV1h) | 4:06 |
+| 34 | [Same Page](https://open.spotify.com/track/5brjcFMaDdlpW5bU8tf2LG) | [Bensoul](https://open.spotify.com/artist/09vo12hHajgG2cZzq0rGmE), [Muthaka](https://open.spotify.com/artist/1y2NzUCGrOaUPBZhhyUPcQ) | [The Lion of Sudah](https://open.spotify.com/album/7ey1j5jjFdfDgRQoDFmpc6) | 4:06 |
 | 35 | [Oh Shoot](https://open.spotify.com/track/4kHKic91jzEObqoLgYzROV) | [Matt Ngesa](https://open.spotify.com/artist/38jStfZwiNvdn1PKt9ma35) | [Oh Shoot](https://open.spotify.com/album/5Hq2dnXCD2b5HVhy8wwP9U) | 2:49 |
 | 36 | [THESE DISHES AIN'T GONNA DO THEMSELVES](https://open.spotify.com/track/5IHOTDXjEwmjzvbt7yldMZ) | [KABEAUSHÉ](https://open.spotify.com/artist/0NNG4hBbXRp6HQ2EMEkYlj) | [THESE DISHES AIN'T GONNA DO THEMSELVES](https://open.spotify.com/album/7taQKL7ALK6QeXr8pva6O4) | 2:54 |
 | 37 | [s\_t\_l](https://open.spotify.com/track/18VQULEn0GO9vUKu7xraeJ) | [mau from nowhere](https://open.spotify.com/artist/7MZ8Hh17R6vfPDn9UCkvuf), [Maya Amolo](https://open.spotify.com/artist/6e6TdjEmxMCM5CFNrEfX3H) | [s\_t\_l](https://open.spotify.com/album/46YeiqJANwshIypsGWn0fK) | 3:26 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcZue9qdu9pH.md) - [plain]
 | 49 | [Home](https://open.spotify.com/track/6olvTBUwNCCChCBSeDeiWT) | [Mumbi Kasumba](https://open.spotify.com/artist/5YhxCi5kNkz1E4wqFfJVa1) | [Midnight \(Vol\. I\)](https://open.spotify.com/album/62rjNTmAEK1xAcJRPYvSKs) | 1:35 |
 | 50 | [African Girl](https://open.spotify.com/track/6VZGwceCEs3wdSKcA5YUWU) | [Naomi Wachira](https://open.spotify.com/artist/6UzW9COOI8GxiDEmlStQEH) | [African Girl](https://open.spotify.com/album/6xk50pJfC0JtA7YsWpqE1x) | 4:50 |
 
-Snapshot ID: `MCw2ZDFjODA0ZGY1OGY5NWU5MGQ3NzA4Y2ExYmE4ZWVmNzhkNDk1Yzky`
+Snapshot ID: `MCw3OTdiYmMwNDM0YWRkOGVlOTQyNDgyNDE4YzU4MDIzOGEwZTY5OTZh`

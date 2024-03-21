@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1S7maQ.md) - [plain]
 
 > This is Bruce Springsteen\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 607,330 likes - 51 songs - 3 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 607,415 likes - 51 songs - 3 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,10 +32,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1S7maQ.md) - [plain]
 | 22 | [I'm Goin' Down](https://open.spotify.com/track/0VkDedVtP7TQDlaCMq9QVx) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Born In The U.S.A.](https://open.spotify.com/album/0PMasrHdpaoIRuHuhHp72O) | 3:29 |
 | 23 | [Radio Nowhere](https://open.spotify.com/track/7zrHnJ87htwgS20PzFmgTr) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Magic](https://open.spotify.com/album/7A830iYFt7vb0n0aMLyj5Z) | 3:19 |
 | 24 | [The Ghost of Tom Joad](https://open.spotify.com/track/4RaxnzmTN4bojbbEYtvXjk) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [The Ghost Of Tom Joad](https://open.spotify.com/album/5TmwoxCapHJLw5cdnQupAl) | 4:23 |
-| 25 | [Nightshift](https://open.spotify.com/track/19nEbLE6eLXatpuMw3rdtM) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Only the Strong Survive](https://open.spotify.com/album/4XJaXh57G3rZtAzqeVZSfn) | 4:56 |
-| 26 | [Atlantic City](https://open.spotify.com/track/1Vp8U39YNsDfd6yVuaUq12) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Nebraska](https://open.spotify.com/album/6yskFQZNlLYhkchAxELHi6) | 3:56 |
-| 27 | [I'll See You In My Dreams](https://open.spotify.com/track/2uI2KlfpxGGVnLnpNWdhHS) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Letter To You](https://open.spotify.com/album/5devPxQnSKVF2Ed0CVwQZh) | 3:29 |
-| 28 | [One Step Up](https://open.spotify.com/track/3ICZte49haM8ID7H6LSSjb) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Tunnel Of Love](https://open.spotify.com/album/5Qcef60m4gcckV24PmPYVq) | 4:21 |
+| 25 | [Atlantic City](https://open.spotify.com/track/1Vp8U39YNsDfd6yVuaUq12) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Nebraska](https://open.spotify.com/album/6yskFQZNlLYhkchAxELHi6) | 3:56 |
+| 26 | [Nightshift](https://open.spotify.com/track/19nEbLE6eLXatpuMw3rdtM) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Only the Strong Survive](https://open.spotify.com/album/4XJaXh57G3rZtAzqeVZSfn) | 4:56 |
+| 27 | [One Step Up](https://open.spotify.com/track/3ICZte49haM8ID7H6LSSjb) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Tunnel Of Love](https://open.spotify.com/album/5Qcef60m4gcckV24PmPYVq) | 4:21 |
+| 28 | [I'll See You In My Dreams](https://open.spotify.com/track/2uI2KlfpxGGVnLnpNWdhHS) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Letter To You](https://open.spotify.com/album/5devPxQnSKVF2Ed0CVwQZh) | 3:29 |
 | 29 | [The Promised Land](https://open.spotify.com/track/2KQq1pn2eUDEFitdQ4WzzZ) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Darkness On the Edge of Town](https://open.spotify.com/album/4KT6G8fj8EEIfsyr75hbgc) | 4:28 |
 | 30 | [Sea Of Heartbreak](https://open.spotify.com/track/7jOVz43pU3sGMbKdoSBeWU) | [Rosanne Cash](https://open.spotify.com/artist/6lx6XS8umFqYRVbBErx9fE), [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [The List](https://open.spotify.com/album/2ztJpdxupEltRgGuzihTJb) | 3:06 |
 | 31 | [History Books \(feat\. Bruce Springsteen\)](https://open.spotify.com/track/0ORiGVGhQ3Mvb3F18DONlV) | [The Gaslight Anthem](https://open.spotify.com/artist/7If8DXZN7mlGdQkLE2FaMo), [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [History Books](https://open.spotify.com/album/1GxcyEReAOxieTKZZcivlJ) | 3:53 |
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1S7maQ.md) - [plain]
 | 50 | [Do I Love You \(Indeed I Do\)](https://open.spotify.com/track/0JsyYwcVC0PwaCewYnEBYJ) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Do I Love You \(Indeed I Do\)](https://open.spotify.com/album/01cCH740dJnp3nhkWWWBzJ) | 2:27 |
 | 51 | [She's the One](https://open.spotify.com/track/5St2IxnaIYOPflaomWB3Pz) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Born To Run](https://open.spotify.com/album/43YIoHKSrEw2GJsWmhZIpu) | 4:30 |
 
-Snapshot ID: `Mjg1MTQxOTUsMDAwMDAwMDA2MjYyNDYwMDYzNWZlYWE0YmVmNjJhODgxMTE3NjE1MQ==`
+Snapshot ID: `Mjg1MTU2NjEsMDAwMDAwMDAzMWJhYTBiZmE0Mjg4NTJkNWVkOWEwZWFiOThlOGU2MQ==`

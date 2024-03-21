@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWJTipjkC7Fa.md) - [plain]
 
 > Listen to the music from and inspired by My Life With The Walter Boys, now streaming on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,181 likes - 60 songs - 3 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,225 likes - 60 songs - 3 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWJTipjkC7Fa.md) - [plain]
 | 24 | [You're the One](https://open.spotify.com/track/4cREE7Jgm3e1szbDQ1P8hN) | [Luca Fogale](https://open.spotify.com/artist/3GKdEPHUSBp3iNT4SG2Med) | [Nothing is Lost](https://open.spotify.com/album/4oSPnhntlJfKCoplB7o93h) | 3:38 |
 | 25 | [Talking Out Loud](https://open.spotify.com/track/5yBbS6unic5B0XnV8rXOJW) | [Jody Glenham](https://open.spotify.com/artist/4yC5LRKMoOFedYvLJKhiYW) | [Mood Rock](https://open.spotify.com/album/0hTR1zwLCtvXfX9L5ilPU7) | 3:26 |
 | 26 | [El Camino](https://open.spotify.com/track/1thMKDpPDWjxK05zvAiJ6Y) | [Murray Atkinson](https://open.spotify.com/artist/0aCaHbsifR5etwCSFV5JP9) | [El Camino](https://open.spotify.com/album/1kcIdh1riqRMx5WuviJvbc) | 2:26 |
-| 27 | [All You Are](https://open.spotify.com/track/7zf09VXfLiFAd5mY7tGoVM) | [Jeff Meegan and Brad Hatfield](https://open.spotify.com/artist/6n27kwGN6RHteWvmB9pCAc) | [Jazz Lounge \- Cocktails and Crooners](https://open.spotify.com/album/4OPNhTulfcjTjMGqSEtl2M) | 3:00 |
+| 27 | [You Are](https://open.spotify.com/track/5RFXj4CtuwBr49Vt9DE7eQ) | [Jeff Meegan](https://open.spotify.com/artist/2XS2MrkksPqxbs0jputTr8) | [Velvet](https://open.spotify.com/album/2ACuDDZFy5s5kHA1b8TSkW) | 2:54 |
 | 28 | [Let Me Hurt \(Acoustic\)](https://open.spotify.com/track/5lCYavZeZIbkVMyiukdTJx) | [Emily Rowed](https://open.spotify.com/artist/0f1BcubFYDkGOTA0bJ0u1w) | [Crying in Cars](https://open.spotify.com/album/4uJrophYlBcAfwQXI6uDlf) | 3:42 |
 | 29 | [Constellations \- Piano Version](https://open.spotify.com/track/4uTeAvKMQMqgIneew9Ic7X) | [Jade LeMac](https://open.spotify.com/artist/4JnJjqxsTp8E5rZsyITf63) | [Constellations \(Piano Version\)](https://open.spotify.com/album/4hv9qLSPvzL09HaIlL8JnP) | 3:50 |
 | 30 | [Out of the Black](https://open.spotify.com/track/7I3RwDAUdpFfWT918o4tBg) | [Jacuzzi Boys](https://open.spotify.com/artist/6Jy8DN56YeZwPFUjdPa0QB) | [Out of the Black](https://open.spotify.com/album/23ojLab2DBvXvkPmbU8mHM) | 3:03 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWJTipjkC7Fa.md) - [plain]
 | 59 | [Fall with You](https://open.spotify.com/track/7lYiZOy2syi7UwS2XEpmeM) | [Emma McGrath](https://open.spotify.com/artist/3PZyI7b9LfYnS0QU827W8z) | [Fall with You](https://open.spotify.com/album/1iJtv8bQksRPjchfn4mRqk) | 3:13 |
 | 60 | [Light Up the Sky \(Skylar's Song\)](https://open.spotify.com/track/4mpfRdBiUiWABpJcHgCMnB) | [Brian H\. Kim](https://open.spotify.com/artist/6AWougHufUYuAil1drF6MB), [Corey Fogelmanis](https://open.spotify.com/artist/5YC2obH1ww4IH0o0zDA7m9) | [My Life with the Walter Boys \(Soundtrack from the Netflix Original Series\)](https://open.spotify.com/album/4o4dY3Am1MVqFzdS8cCqEe) | 2:05 |
 
-Snapshot ID: `MCw0ZTU5NDI1YjQ4ZTExZjU4ZWNkZDQwMzQ0ZjRkZDkyMDIwZGE4MTNk`
+Snapshot ID: `MCxlY2Q2YTUxNGQ3MDU2MjcxOGEzOWE0OTE0YTgxOTkyY2YyZmQ4Mjhl`

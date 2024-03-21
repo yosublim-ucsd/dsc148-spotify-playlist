@@ -1,5 +1,5 @@
 {
-  "2024-03-20": 188703,
+  "2024-03-21": 188756,
   "date_first_scraped": "2023-10-14",
   "description": "\u6b4c\u8a5e\u3092\u898b\u306a\u304c\u3089\u3001\u30d2\u30c3\u30c8\u66f2\u3092\u6b4c\u3044\u5c3d\u304f\u305d\u3046 \uff01",
   "name": "\u6b4c\u3046\u30dd\u30c3\u30d7\u30d2\u30c3\u30c4 - Sing-Along -",
@@ -653,7 +653,7 @@
       ],
       "date_added": "2024-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-20",
       "duration_ms": 318320,
       "name": "FREEDOM",
       "url": "https://open.spotify.com/track/3MBNF3aevdp5vmfepYahNu"
@@ -1528,6 +1528,24 @@
     },
     {
       "album": {
+        "name": "Hors d'oeuvre",
+        "url": "https://open.spotify.com/album/2xoDg0aFWHgzxMKvTetH4D"
+      },
+      "artists": [
+        {
+          "name": "shy taupe",
+          "url": "https://open.spotify.com/artist/26JbIcCELE7o1nl8pw6Vlg"
+        }
+      ],
+      "date_added": "2024-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238506,
+      "name": "rendez-vous",
+      "url": "https://open.spotify.com/track/77mI5OSGIIPKxHXBkHOySy"
+    },
+    {
+      "album": {
         "name": "rose (feat. Vaundy)",
         "url": "https://open.spotify.com/album/4dF1UtRhD4zW3w0h6MXerB"
       },
@@ -2199,7 +2217,7 @@
       ],
       "date_added": "2024-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-20",
       "duration_ms": 265250,
       "name": "\u3072\u3068\u307f",
       "url": "https://open.spotify.com/track/6mtXTKoMyna05KMXivyyqy"
@@ -2419,6 +2437,24 @@
       "duration_ms": 226557,
       "name": "\u30bf\u30a4\u30e0\u30d1\u30e9\u30c9\u30c3\u30af\u30b9",
       "url": "https://open.spotify.com/track/3jNwPOqdPvQIr5dRT0hzgY"
+    },
+    {
+      "album": {
+        "name": "\u30bf\u30a4\u30e0\u30de\u30b7\u30f3",
+        "url": "https://open.spotify.com/album/6tvGIWbiwZcCQbHK4L68Mf"
+      },
+      "artists": [
+        {
+          "name": "SEKAI NO OWARI",
+          "url": "https://open.spotify.com/artist/7HwzlRPa9Ad0I8rK0FPzzK"
+        }
+      ],
+      "date_added": "2024-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258812,
+      "name": "\u30bf\u30a4\u30e0\u30de\u30b7\u30f3",
+      "url": "https://open.spotify.com/track/0HOLJSyRMLYukpmuSXzLLY"
     },
     {
       "album": {
@@ -2674,6 +2710,24 @@
     },
     {
       "album": {
+        "name": "Attitude",
+        "url": "https://open.spotify.com/album/3bRSI9DOQA2KdJ7t6zdW0V"
+      },
+      "artists": [
+        {
+          "name": "Mrs. GREEN APPLE",
+          "url": "https://open.spotify.com/artist/4QvgGvpgzgyUOo8Yp8LDm9"
+        }
+      ],
+      "date_added": "2024-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 321306,
+      "name": "\u50d5\u306e\u3053\u3068",
+      "url": "https://open.spotify.com/track/0tnhoHUrHfcLi9hPknUFZ4"
+    },
+    {
+      "album": {
         "name": "\u5168\u65b9\u5411\u7f8e\u5c11\u5973",
         "url": "https://open.spotify.com/album/20UD7L2sDC6sWOwYPBPnJl"
       },
@@ -2764,6 +2818,24 @@
     },
     {
       "album": {
+        "name": "\u5c11\u3057\u3060\u3051",
+        "url": "https://open.spotify.com/album/2AR2Ep7BpnwSEtbGoC5pmc"
+      },
+      "artists": [
+        {
+          "name": "\u4e94\u5341\u5d50\u30cf\u30eb",
+          "url": "https://open.spotify.com/artist/28a4P2rmW853MTC4pOlCv0"
+        }
+      ],
+      "date_added": "2024-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215386,
+      "name": "\u5c11\u3057\u3060\u3051",
+      "url": "https://open.spotify.com/track/0WLDdeAg7wipOvlNByiMhD"
+    },
+    {
+      "album": {
         "name": "\u5e7e\u5104\u5149\u5e74",
         "url": "https://open.spotify.com/album/6lVM8WvZY6lpBO9zrBRnE9"
       },
@@ -2793,7 +2865,7 @@
       ],
       "date_added": "2024-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-20",
       "duration_ms": 264882,
       "name": "\u60f3\u671b",
       "url": "https://open.spotify.com/track/2jTXs5PwRmPRWyJQ4lKfIR"
@@ -3049,7 +3121,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-20",
       "duration_ms": 286000,
       "name": "\u7b2c\u30bc\u30ed\u611f",
       "url": "https://open.spotify.com/track/6zjk7Qbwb9DZ4ykUUoqknh"

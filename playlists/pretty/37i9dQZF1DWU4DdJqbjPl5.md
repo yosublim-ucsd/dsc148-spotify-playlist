@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU4DdJqbjPl5.md) - [plain]
 
 > The smoothest Afro R&B out right now\. Cover: Odeal
 
-[Spotify](https://open.spotify.com/user/spotify) - 202,751 likes - 85 songs - 4 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 202,827 likes - 85 songs - 4 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU4DdJqbjPl5.md) - [plain]
 | 46 | [PrEttY Like](https://open.spotify.com/track/2lgeehwv2ThyBEQ8kHKFCn) | [TAR1Q](https://open.spotify.com/artist/33KPqwPnEKJY6Tm9WfJQKq) | [PrEttY Like](https://open.spotify.com/album/0eYfLrBMobCVn4ZCaGV1GA) | 2:46 |
 | 47 | [Echoes \(feat\. Tony Duardo, Manana & Lusanda\)](https://open.spotify.com/track/7msMFkuYQdBaJhiav2UrM1) | [Uncle Waffles](https://open.spotify.com/artist/68McnNC9twEtiynOAJRRgZ), [Tony Duardo](https://open.spotify.com/artist/6qF0eiWwQF073J1MuVFs5z), [Manana](https://open.spotify.com/artist/6omm7OGZMQZ2XODf4JVKnQ), [Lusanda](https://open.spotify.com/artist/3WcXJ1FwSFJU88zc7vV9rz) | [Echoes \(feat\. Tony Duardo, Manana & Lusanda\)](https://open.spotify.com/album/6GPfETz7e4MYd3kU4CtLIK) | 4:05 |
 | 48 | [Dreams](https://open.spotify.com/track/5aDbyGU5A2TScEkKczGVUM) | [Joshua Baraka](https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW) | [Dreams](https://open.spotify.com/album/184CyMEhWh2T7O32DlVucH) | 3:06 |
-| 49 | [Love Song](https://open.spotify.com/track/57dxObrS7BrzycOrKK9Z3k) | [Marioo](https://open.spotify.com/artist/4ZTqTkO2kj1doQrbqQ5KEe), [Alikiba](https://open.spotify.com/artist/2nGoKcLdXktxEXvMdTDsIT) | [Love Song](https://open.spotify.com/album/3AJ5ucxVHyDDjYRf7fAeHE) | 3:28 |
+| 49 | [Love Song](https://open.spotify.com/track/2wmyzZUVCXLQTgJvFsh5ef) | [Marioo](https://open.spotify.com/artist/4ZTqTkO2kj1doQrbqQ5KEe), [Alikiba](https://open.spotify.com/artist/2nGoKcLdXktxEXvMdTDsIT) | [Love Song](https://open.spotify.com/album/4yKIBcOMs0m8JQv1ZbDJHt) | 3:28 |
 | 50 | [nwayi](https://open.spotify.com/track/7iD3LM5BcWm5yZbNPpIhnE) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [Sad Romance \(Deluxe\)](https://open.spotify.com/album/1gC4BgOWemcVLQBM8pnIsZ) | 3:04 |
 | 51 | [Gone Girl](https://open.spotify.com/track/4SVjVLpHngzqTzGfQe0hGz) | [Obongjayar](https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h), [Sarz](https://open.spotify.com/artist/408vMm7y1227ASq7GmWygZ) | [Gone Girl](https://open.spotify.com/album/7askKzi7oR1VpOswKLtMAN) | 4:13 |
 | 52 | [Trumpet](https://open.spotify.com/track/3BwAHuQhZyL4tOkf36DuQv) | [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr), [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [Trumpet](https://open.spotify.com/album/3qNYHdPzFdsGWZqV52859m) | 3:08 |
@@ -75,7 +75,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU4DdJqbjPl5.md) - [plain]
 | 65 | [Nobody \(feat\. Fireboy DML\)](https://open.spotify.com/track/7rsF6JHMItNOu6qwupYA2a) | [Nissi](https://open.spotify.com/artist/4586oPyU8t6d4hGb1BPFTU), [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY) | [Nobody \(feat\. Fireboy DML\)](https://open.spotify.com/album/2QhVHAu7Jw3HLZNuEaoEgM) | 3:03 |
 | 66 | [Angelus](https://open.spotify.com/track/2g43A8NJ0VInfpqUjsb5R6) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [My Darling + Angelus](https://open.spotify.com/album/0FLA39VyPgqIUGQg413ptJ) | 3:06 |
 | 67 | [All the Noise](https://open.spotify.com/track/4FEgeEyyW2zzdyoCk9sK2d) | [Manana](https://open.spotify.com/artist/6omm7OGZMQZ2XODf4JVKnQ) | [All the Noise](https://open.spotify.com/album/7wi4SEBg116K9mEX5x4I2D) | 4:09 |
-| 68 | [Sarafina](https://open.spotify.com/track/2yPDSFXa5vQqWuzp2Zhhp3) | [WurlD](https://open.spotify.com/artist/5x2vmU3Hj2Y66luW7c7vIn) | [Sarafina](https://open.spotify.com/album/3NvXYPow2aoFAW48f3CCYe) | 3:10 |
+| 68 | [Sarafina](https://open.spotify.com/track/0ihzl8eB3WzXt0dJm00iwN) | [WurlD](https://open.spotify.com/artist/5x2vmU3Hj2Y66luW7c7vIn) | [Sarafina](https://open.spotify.com/album/3YvcYmGDwqLY5wujoDDuzF) | 3:10 |
 | 69 | [I Lay](https://open.spotify.com/track/7mENpuXFCcZ68NNqaZHxPW) | [Kaien Cruz](https://open.spotify.com/artist/6iyDjhh4mDePK6LPSwlLGE) | [I Lay](https://open.spotify.com/album/6tpBTjH8adtHgfx0hdPlFL) | 2:22 |
 | 70 | [Mad](https://open.spotify.com/track/1XADbL6VwPL1rqXBVOszfG) | [Y'akoto](https://open.spotify.com/artist/2JehOBriwVSalkeqL3noMM) | [Mad](https://open.spotify.com/album/24Liy9BnSbQPWQoGncnGCE) | 3:22 |
 | 71 | [Fashion](https://open.spotify.com/track/6Qo7qjGij0dOtoyVN9c3UK) | [Mannywellz](https://open.spotify.com/artist/3fP3g1UvspOUHoeT4QUoLL) | [Mr Oúlala](https://open.spotify.com/album/2uFpZj1OcVRJlnSMs0Zlby) | 2:29 |
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU4DdJqbjPl5.md) - [plain]
 | 84 | [SUPAHAWT](https://open.spotify.com/track/4ir8C4oqZRrLHlC6VQ3mTF) | [MAUIMØON](https://open.spotify.com/artist/6YrLXeCHt4gjrGx6cLCd4b), [La Soülchyld](https://open.spotify.com/artist/22kR1CajfNQ3ZmPcjKATyV) | [From Uganda With Love](https://open.spotify.com/album/11kGKF5IyOqwrg9Dpp7NzL) | 1:50 |
 | 85 | [For Keeps \- A COLORS SHOW](https://open.spotify.com/track/0sdE23tPOZsVF6QLMCNIZl) | [Lisa Oduor\-Noah](https://open.spotify.com/artist/2lzhfTv334wDq7W7tFyJHa) | [For Keeps \- A COLORS SHOW](https://open.spotify.com/album/3KwVjyCfMY0FgYLZIJiGL3) | 4:14 |
 
-Snapshot ID: `MCxkNjU4YmYyOGMxMTVhNjAzYTRhZTgyMzAwNDY1ODhhZDg3YTJkMmI3`
+Snapshot ID: `MCwyMzQ5YmFmODY1NjBlNThjMzU1YzVlZGViMTgwNTJhZDkwMTBjMzgw`

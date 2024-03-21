@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1PiujNwN5Yy.md) - [plain]
 
 > Sad songs just 4 you para los días tristes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 111,454 likes - 100 songs - 5 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 111,464 likes - 100 songs - 5 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,20 +61,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1PiujNwN5Yy.md) - [plain]
 | 51 | [Fantasmas](https://open.spotify.com/track/6ysYTOjc5pCMqx66zvj85D) | [Ambar Lucid](https://open.spotify.com/artist/4nzV0hThyodYzrwksnS86G) | [Garden of Lucid](https://open.spotify.com/album/06l0dAmzy9g9AFUfcCDEeS) | 3:43 |
 | 52 | [La Pared](https://open.spotify.com/track/6k436htnE7M4QXXWOjhTYZ) | [Cupido](https://open.spotify.com/artist/4cK5uxWRVJ3QOSfaBMX2Ex) | [La Pared](https://open.spotify.com/album/01IGc70ZlPLU5ot3oG7fUa) | 4:49 |
 | 53 | [Hacia Dentro](https://open.spotify.com/track/4UXCzqNeOBhEU0v7kiyyAM) | [Carla Morrison](https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe) | [El Renacimiento](https://open.spotify.com/album/7zQtZ4vMqrLoXe0pWxAExt) | 3:51 |
-| 54 | [Vete Si Quieres](https://open.spotify.com/track/0eBNvFiuvRpKPzfEx7CVs6) | [El David](https://open.spotify.com/artist/61h5RLs6eo1eapzuDzoA5b) | [Vete Si Quieres](https://open.spotify.com/album/59n8OAA2MokNaY6EunSMY6) | 3:48 |
-| 55 | [Tal Vez](https://open.spotify.com/track/7eTbARWx4nCoppkeoCtKcD) | [3AM](https://open.spotify.com/artist/1LU7BxbUvvuA4eNDdEO22D) | [Lluvia: Rain City Vol.2](https://open.spotify.com/album/02uvn1R7qDVWSrQheR6qZ4) | 2:39 |
+| 54 | [Tal Vez](https://open.spotify.com/track/7eTbARWx4nCoppkeoCtKcD) | [3AM](https://open.spotify.com/artist/1LU7BxbUvvuA4eNDdEO22D) | [Lluvia: Rain City Vol.2](https://open.spotify.com/album/02uvn1R7qDVWSrQheR6qZ4) | 2:39 |
+| 55 | [Vete Si Quieres](https://open.spotify.com/track/0eBNvFiuvRpKPzfEx7CVs6) | [El David](https://open.spotify.com/artist/61h5RLs6eo1eapzuDzoA5b) | [Vete Si Quieres](https://open.spotify.com/album/59n8OAA2MokNaY6EunSMY6) | 3:48 |
 | 56 | [guerrera](https://open.spotify.com/track/1op8GBKx3U5BrDDvOAKYbO) | [Valeria Castro](https://open.spotify.com/artist/7JTVqKJ414qRPuDPhdKnHD) | [guerrera](https://open.spotify.com/album/1QWy1TAhYwAgd5OA7chIEo) | 4:30 |
 | 57 | [Sola](https://open.spotify.com/track/3doK7YkkgMtfD6qoXCkTWh) | [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P) | [Being Human In Public](https://open.spotify.com/album/0dZlf6U1djSwKxMrJ0RZgQ) | 3:30 |
 | 58 | [no estabas cerca](https://open.spotify.com/track/0CaAkdZcfgo0KRyPoU2vc7) | [Alba Mbengue](https://open.spotify.com/artist/3qgzGkZtMWhw3seBssVWWW) | [no estabas cerca](https://open.spotify.com/album/1zGsHBTBDiV6x7fygtLjto) | 1:10 |
-| 59 | [Dices me Extrañas](https://open.spotify.com/track/1WzaBfhfVLDLqAEYf3pfrH) | [Los Aptos](https://open.spotify.com/artist/4tenlYn9MG8Fda3OyDtPRO) | [Dices me Extrañas](https://open.spotify.com/album/5aa2a3dA2ZfTey8tdefrX0) | 4:52 |
-| 60 | [cómo acaba](https://open.spotify.com/track/0wYkvjpi6tOpJfulqKSOD7) | [Elsa y Elmar](https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy) | [cómo acaba](https://open.spotify.com/album/1dCY4CPTeDesR7wjISYMbw) | 3:44 |
+| 59 | [cómo acaba](https://open.spotify.com/track/0wYkvjpi6tOpJfulqKSOD7) | [Elsa y Elmar](https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy) | [cómo acaba](https://open.spotify.com/album/1dCY4CPTeDesR7wjISYMbw) | 3:44 |
+| 60 | [Dices me Extrañas](https://open.spotify.com/track/1WzaBfhfVLDLqAEYf3pfrH) | [Los Aptos](https://open.spotify.com/artist/4tenlYn9MG8Fda3OyDtPRO) | [Dices me Extrañas](https://open.spotify.com/album/5aa2a3dA2ZfTey8tdefrX0) | 4:52 |
 | 61 | [Luna Llena](https://open.spotify.com/track/3SOaZGYymRd6SdQXioeenz) | [Simon Grossmann](https://open.spotify.com/artist/6t38N9HASTn9ca0PIxfReQ) | [Ciclo](https://open.spotify.com/album/0hLYCFaBmv5P9nXmKkZErs) | 3:11 |
-| 62 | [Atardeció sin vos](https://open.spotify.com/track/1S588EBvuLIOFffQSar9uF) | [El David](https://open.spotify.com/artist/61h5RLs6eo1eapzuDzoA5b) | [¿Cómo decir adiós?](https://open.spotify.com/album/4moI6Cg4KkngLNaPJNQv0T) | 2:36 |
-| 63 | [Paciencia](https://open.spotify.com/track/6hYidRx2EkQ39bmZHvqqaI) | [Kora](https://open.spotify.com/artist/3ZxaYY2eYNWxg8v1s2k6JD) | [01 \- EP](https://open.spotify.com/album/1fRIsWiGXf323M5E1Ngqoy) | 3:29 |
+| 62 | [Paciencia](https://open.spotify.com/track/6hYidRx2EkQ39bmZHvqqaI) | [Kora](https://open.spotify.com/artist/3ZxaYY2eYNWxg8v1s2k6JD) | [01 \- EP](https://open.spotify.com/album/1fRIsWiGXf323M5E1Ngqoy) | 3:29 |
+| 63 | [Nada de Nada](https://open.spotify.com/track/3PaBUPtwqvybnUNWyLZVQr) | [Valentina Rico](https://open.spotify.com/artist/1VqjlTkCPuK6amNOlkM18d) | [Nada de Nada](https://open.spotify.com/album/0v2GwxgQ2cSoiQd8ZXiAPt) | 3:37 |
 | 64 | [Agua](https://open.spotify.com/track/76yx6d2cnxogqq5EeWAGGv) | [Valeria Castro](https://open.spotify.com/artist/7JTVqKJ414qRPuDPhdKnHD) | [Agua](https://open.spotify.com/album/18lEH8fgVYdkUBTDK0IPyu) | 4:00 |
-| 65 | [Nadie Va](https://open.spotify.com/track/77DSKbAL8JZjoJybl2tcAU) | [Elsa y Elmar](https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy) | [Eres Diamante](https://open.spotify.com/album/6phS5YYVMKIpCKeymOdL7v) | 3:38 |
-| 66 | [Nada de Nada](https://open.spotify.com/track/3PaBUPtwqvybnUNWyLZVQr) | [Valentina Rico](https://open.spotify.com/artist/1VqjlTkCPuK6amNOlkM18d) | [Nada de Nada](https://open.spotify.com/album/0v2GwxgQ2cSoiQd8ZXiAPt) | 3:37 |
-| 67 | [Roto](https://open.spotify.com/track/5muxDDRz7Y1m9leVgwTUrD) | [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI) | [Roto](https://open.spotify.com/album/5763P0o9ruO8OZ4Dwey7sf) | 2:45 |
+| 65 | [Atardeció sin vos](https://open.spotify.com/track/1S588EBvuLIOFffQSar9uF) | [El David](https://open.spotify.com/artist/61h5RLs6eo1eapzuDzoA5b) | [¿Cómo decir adiós?](https://open.spotify.com/album/4moI6Cg4KkngLNaPJNQv0T) | 2:36 |
+| 66 | [Roto](https://open.spotify.com/track/5muxDDRz7Y1m9leVgwTUrD) | [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI) | [Roto](https://open.spotify.com/album/5763P0o9ruO8OZ4Dwey7sf) | 2:45 |
+| 67 | [Nadie Va](https://open.spotify.com/track/77DSKbAL8JZjoJybl2tcAU) | [Elsa y Elmar](https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy) | [Eres Diamante](https://open.spotify.com/album/6phS5YYVMKIpCKeymOdL7v) | 3:38 |
 | 68 | [olas](https://open.spotify.com/track/4VVoiNTlsBaigg8fJOoR3w) | [mori](https://open.spotify.com/artist/473Xxv1N3YJJdKxYH0XaiX), [rusowsky](https://open.spotify.com/artist/1XEVu7gdRFfzEFqsPrancH) | [olas](https://open.spotify.com/album/2ie8MR4KjNLajmM9xYDzgP) | 2:44 |
 | 69 | [Serenata](https://open.spotify.com/track/073lF1ripsgcxAY8BKzWrl) | [Gianluca](https://open.spotify.com/artist/7q9P9jadKe86eEavevbEvK) | [Yin Yang](https://open.spotify.com/album/3BgRFVJWjNkwseVvuGcS6O) | 3:27 |
 | 70 | [Déjame Dejarte Atrás](https://open.spotify.com/track/6pB2v73sVw1NEm8g959jPT) | [Paula Prieto](https://open.spotify.com/artist/03ZdCrkA0RaY3tslOLbSTl) | [Déjame Dejarte Atrás](https://open.spotify.com/album/6ovEup64IXcmtlZIHYzAVx) | 3:24 |
@@ -85,12 +85,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1PiujNwN5Yy.md) - [plain]
 | 75 | [Qué Más Da](https://open.spotify.com/track/7ifjN5DxB3r1hKnqjRDO1a) | [yes I M](https://open.spotify.com/artist/3TZI0rZ4YeTit0vak0CXQy) | [En Línea](https://open.spotify.com/album/05qaC3zEdhmI4bH0G4ckw6) | 3:30 |
 | 76 | [De Mi Para Ti](https://open.spotify.com/track/6l4xmyJ1a9sjjZjnaKzq7t) | [Maria Blaya](https://open.spotify.com/artist/0Ln3BisQiL0t2w7bsmju75) | [Silencio](https://open.spotify.com/album/7Lzac5wLxNo3PJOviNF59D) | 2:57 |
 | 77 | [Sweat](https://open.spotify.com/track/6pULE9MZf21WIsVi3fKlOq) | [RY X](https://open.spotify.com/artist/2KjAo6wVc9d2WcxdxSArpV) | [Dawn](https://open.spotify.com/album/0DvauBOn2G8RIEQR54Cmiv) | 3:59 |
-| 78 | [Canciones Tristes](https://open.spotify.com/track/5QNvwRbmGwmOU09DWSfCiA) | [Daniela Spalla](https://open.spotify.com/artist/2VSRhqonKsL7KRAIk8SMmt) | [Canciones Tristes](https://open.spotify.com/album/2wKs3Fz684CerCyUOhJOxP) | 3:06 |
-| 79 | [Tu Canción](https://open.spotify.com/track/5MEOi4Xbxxtjrcf4WD8ztH) | [Los Mesoneros](https://open.spotify.com/artist/0OluGbRuQQEcYyttGww517) | [Tu Canción](https://open.spotify.com/album/73Hd2erTeZ6BeshYv6Rjs2) | 3:11 |
+| 78 | [Tu Canción](https://open.spotify.com/track/5MEOi4Xbxxtjrcf4WD8ztH) | [Los Mesoneros](https://open.spotify.com/artist/0OluGbRuQQEcYyttGww517) | [Tu Canción](https://open.spotify.com/album/73Hd2erTeZ6BeshYv6Rjs2) | 3:11 |
+| 79 | [Canciones Tristes](https://open.spotify.com/track/5QNvwRbmGwmOU09DWSfCiA) | [Daniela Spalla](https://open.spotify.com/artist/2VSRhqonKsL7KRAIk8SMmt) | [Canciones Tristes](https://open.spotify.com/album/2wKs3Fz684CerCyUOhJOxP) | 3:06 |
 | 80 | [Con el Viento](https://open.spotify.com/track/6B2enoSQxSITUe4Y84R5EF) | [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P) | [Music Inspired by the Film Roma](https://open.spotify.com/album/6fn5SvyjVLlUROm7dxny1s) | 3:14 |
 | 81 | [el jardinero](https://open.spotify.com/track/4YlkjZVjQjtjFaTTxiADLw) | [Gus](https://open.spotify.com/artist/3tQrRoZiGXR5uMkaCYf8S4) | [el jardinero](https://open.spotify.com/album/3dkSczh5f21IespeDXjz8Q) | 2:57 |
-| 82 | [viernes 13 ii](https://open.spotify.com/track/7fSWWukokukP3HlZQdt2D5) | [Alex Ponce](https://open.spotify.com/artist/2rtnKY7iQJHIEBnOd66DCO) | [viernes 13 ii](https://open.spotify.com/album/11TnM0ui4WFEaMLT8ESLvu) | 3:17 |
-| 83 | [Perdón \(Acabo de ver tu llamada\)](https://open.spotify.com/track/3w6bSJIk6KCg5RbSGXFJq6) | [Ivana](https://open.spotify.com/artist/5AXxk4cxkMNsTb4TtwLAQJ) | [Ausente](https://open.spotify.com/album/4yQP51cIhiFPF2bTfyGGUc) | 3:50 |
+| 82 | [Perdón \(Acabo de ver tu llamada\)](https://open.spotify.com/track/3w6bSJIk6KCg5RbSGXFJq6) | [Ivana](https://open.spotify.com/artist/5AXxk4cxkMNsTb4TtwLAQJ) | [Ausente](https://open.spotify.com/album/4yQP51cIhiFPF2bTfyGGUc) | 3:50 |
+| 83 | [viernes 13 ii](https://open.spotify.com/track/7fSWWukokukP3HlZQdt2D5) | [Alex Ponce](https://open.spotify.com/artist/2rtnKY7iQJHIEBnOd66DCO) | [viernes 13 ii](https://open.spotify.com/album/11TnM0ui4WFEaMLT8ESLvu) | 3:17 |
 | 84 | [Nada Es Igual](https://open.spotify.com/track/4CKntyb4V1au0i1ieEfapR) | [Karen Méndez](https://open.spotify.com/artist/0txXDZCdXBzha20sgN1GRk) | [Nada Es Igual](https://open.spotify.com/album/4TouSDU0z4DXKuuheeCfZw) | 4:11 |
 | 85 | [desamarte](https://open.spotify.com/track/0bZ60PdPKQ4Vw2TbwilpeK) | [Elsa y Elmar](https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy) | [cuatro veces 10](https://open.spotify.com/album/41aX0tVfd2qygS1LN570s1) | 2:58 |
 | 86 | [Galerna](https://open.spotify.com/track/33N2srwtlb1xwPmlVXGFhr) | [DEVA](https://open.spotify.com/artist/0EdwY8DfBqB83R45WnHJDg), [Carlos Ares](https://open.spotify.com/artist/3eReTIjhrje1sk2hFQgwhI) | [Galerna](https://open.spotify.com/album/2nP0osfNdXsf2la995d2db) | 3:08 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1PiujNwN5Yy.md) - [plain]
 | 99 | [Amsterdam \- Versión En Español](https://open.spotify.com/track/3z452TQ2qNiuNtyn4OJSBj) | [Sofía Valdés](https://open.spotify.com/artist/0caswMNVJ7vPNC1Z7NOeCT) | [Amsterdam \(Versión En Español\)](https://open.spotify.com/album/0wAVBk6Y3crq4Oy4g2pB4w) | 3:57 |
 | 100 | [Mi Cabeza](https://open.spotify.com/track/6eNaF2R952oqEi7BEf9ySF) | [Rorro](https://open.spotify.com/artist/6fB004p3XFUoQeftZlFUKv) | [Mi Cabeza](https://open.spotify.com/album/6ODfnmGFutUqKoVS8Y1pTj) | 2:42 |
 
-Snapshot ID: `MCw3ZmQyNjJhZWZhNTBlNDgxOGZmZDM1NTdlYjk1NjEzNDRhYTRkMWJl`
+Snapshot ID: `MCw5Y2JhMTlmYWVlNTQ0MzA2ZTc3Y2YxYWFhNmFjZDEyMWU4MzUxYTZj`

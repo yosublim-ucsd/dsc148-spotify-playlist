@@ -4,7 +4,7 @@
 
 > Novità rock, indie e punk dall'Italia! Cover: Elephant Brain
 
-815 songs - 1 day 21 hr 12 min
+816 songs - 1 day 21 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -386,7 +386,8 @@
 | [Kiss Kiss](https://open.spotify.com/track/67t8uS5qA6tJff8ek1AXiy) | [Grigio Scarlatto](https://open.spotify.com/artist/1tck0JaVzfb6UtiriTB6zJ) | [Kiss Kiss](https://open.spotify.com/album/4FXq0Cd18QqBGdlWbdZuZO) | 3:03 | 2022-10-13 | 2022-10-28 |
 | [L'abisso](https://open.spotify.com/track/0ttpILKiL7nkg9fCZlYsDs) | [Labissodeigiorniavenire](https://open.spotify.com/artist/6mSVh5QjIeIt1FajKzINZd) | [L'abisso](https://open.spotify.com/album/3MA9uoKQBKPx7aNuYVGJX3) | 2:14 | 2022-06-02 | 2022-06-24 |
 | [L'ansia del casello](https://open.spotify.com/track/0tOZTDemzETWOETHrrhnWy) | [Samuele Stanco e i Gabbiani Malvagi](https://open.spotify.com/artist/13OTLSSmiVx2KbPqLGU95f) | [L'ansia del casello](https://open.spotify.com/album/44ybQSEjANBMQ3uyRosggp) | 3:41 | 2023-06-22 | 2023-09-29 |
-| [L'ultima volta](https://open.spotify.com/track/4ZSKBH9LwSnWJqJea9rXJq) | [Dacota](https://open.spotify.com/artist/0yTK9PkVBhKwdiyuOeSk9l) | [L'ultima volta](https://open.spotify.com/album/3YUkThQhJo5CEp8dupCPue) | 3:16 | 2024-02-15 |  |
+| [L'ultima volta](https://open.spotify.com/track/0TZXlPjeor9irminLuu9aa) | [Dacota](https://open.spotify.com/artist/0yTK9PkVBhKwdiyuOeSk9l) | [L'ultima volta](https://open.spotify.com/album/3qEkjdtno5YZ3hQMFVr2SD) | 3:16 | 2024-03-19 |  |
+| [L'ultima volta](https://open.spotify.com/track/4ZSKBH9LwSnWJqJea9rXJq) | [Dacota](https://open.spotify.com/artist/0yTK9PkVBhKwdiyuOeSk9l) | [L'ultima volta](https://open.spotify.com/album/3YUkThQhJo5CEp8dupCPue) | 3:16 | 2024-02-15 | 2024-03-21 |
 | [L'ultimo Saluto \(feat\. DIVI\)](https://open.spotify.com/track/2oyVIu3N49UpXTBHqZ2ddt) | [dellarabbia](https://open.spotify.com/artist/6Ny93gwcAU5e2da6CzrmRp), [DIVI](https://open.spotify.com/artist/74bcvpVRGuSFkKK67skgBL) | [L'ultimo Saluto \(feat\. DIVI\)](https://open.spotify.com/album/7dUA3A2rzNnRBZ5wswcU75) | 3:30 | 2023-05-11 | 2023-06-09 |
 | [La Band](https://open.spotify.com/track/72a2Fjwg7RJVuZ16k8ejEh) | [Bengala Fire](https://open.spotify.com/artist/5B516AbC2BhNio4qvbDdNb) | [La Band](https://open.spotify.com/album/1kuoOXI6qZkrloDJIi02U1) | 3:06 | 2024-01-11 |  |
 | [LA FINE](https://open.spotify.com/track/6DPE8tGV9lzKALNnvuY9dS) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [LA FINE](https://open.spotify.com/album/5eZ98aKCgAQmEYNtueCoJK) | 3:20 | 2022-12-15 | 2023-02-17 |

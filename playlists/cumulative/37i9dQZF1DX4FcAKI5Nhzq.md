@@ -2,9 +2,9 @@
 
 ### [K\-Pop Rising](https://open.spotify.com/playlist/37i9dQZF1DX4FcAKI5Nhzq)
 
-> Future K\-Pop hits! Cover: YooA
+> Future K\-Pop hits! Cover: LUCY
 
-1,010 songs - 2 day 7 hr 29 min
+1,012 songs - 2 day 7 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -439,7 +439,7 @@
 | [I LOVE YOU](https://open.spotify.com/track/4zazrdH47Bkgunb3riXVlJ) | [TREASURE](https://open.spotify.com/artist/3KonOYiLsU53m4yT7gNotP) | [THE FIRST STEP : CHAPTER TWO](https://open.spotify.com/album/3qOsKiuw6NaywkQnlmETP7) | 3:01 | 2020-10-13\* | 2021-03-19 |
 | [I Missed You](https://open.spotify.com/track/20SIjymeaQNEv0NkPLpa6N) | [WSG WANNABE \(Sa\-Fire\)](https://open.spotify.com/artist/6RbhPRkvqZ4YtziMIUVzeV) | [WSG WANNABE 1st Album](https://open.spotify.com/album/3r8M9Yudjzg4kNR4cThoB9) | 3:27 | 2022-07-13 | 2022-08-18 |
 | [I remember](https://open.spotify.com/track/3uXTRQ41tZ7xwGJ1NnKnUC) | [ASH ISLAND](https://open.spotify.com/artist/7IEhlwWQA7pCkEvzwwHehE) | [I remember](https://open.spotify.com/album/0mJpJJqa0HWqcEujcOF8zO) | 3:31 | 2023-07-07 | 2023-08-26 |
-| [I WANNA KNOW](https://open.spotify.com/track/4ki0EcH3qL0DEbXqZIz1GI) | [ZHANG HAO](https://open.spotify.com/artist/19Vc3zeXWnOUUsAYiXgjCX) | [EXchange3, Pt\. 4 \(Original Soundtrack\)](https://open.spotify.com/album/0IgxB341S7p4sTGH29uTg4) | 2:44 | 2024-01-29 |  |
+| [I WANNA KNOW](https://open.spotify.com/track/4ki0EcH3qL0DEbXqZIz1GI) | [ZHANG HAO](https://open.spotify.com/artist/19Vc3zeXWnOUUsAYiXgjCX) | [EXchange3, Pt\. 4 \(Original Soundtrack\)](https://open.spotify.com/album/0IgxB341S7p4sTGH29uTg4) | 2:44 | 2024-01-29 | 2024-03-21 |
 | [I WANT](https://open.spotify.com/track/1Xnha5ko8j7yY8O3ATe0Vs) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [I WANT](https://open.spotify.com/album/1BxRutqDtvMJfiovw76gxe) | 3:00 | 2023-07-21 | 2023-12-08 |
 | [I Want to Be Closer to You](https://open.spotify.com/track/6QlCumx7Sow4nRgVt6tDms) | [SOLE](https://open.spotify.com/artist/6naXFodImN2DwRmKCQHAUt) | [A Love Supreme](https://open.spotify.com/album/7Mcgv379kU4bRHl54JJqhi) | 3:30 | 2023-09-27 | 2023-10-20 |
 | [I Want U Around \(Feat\. DeVita\)](https://open.spotify.com/track/5zI721DtTDWjLbDvZoWKGZ) | [YUGYEOM](https://open.spotify.com/artist/3ohXmy1PGdB3XgzhPqQ0tY), [DeVita](https://open.spotify.com/artist/5PS3ZZE5bBiZ3Ct9HiRG2B) | [I Want U Around](https://open.spotify.com/album/0NCuf8EjsH0z06AdgzmQxi) | 3:11 | 2021-06-12 | 2021-07-28 |
@@ -575,7 +575,7 @@
 | [MELODY](https://open.spotify.com/track/6JeleVHUHrdvgiFESE33ZU) | [ASH ISLAND](https://open.spotify.com/artist/7IEhlwWQA7pCkEvzwwHehE) | [ISLAND](https://open.spotify.com/album/5FyZZQnOzCUzAMWmeWbQhO) | 3:00 | 2021-03-19 | 2021-06-09 |
 | [MELTING POINT](https://open.spotify.com/track/6Sj39jSqhxjJ8K66Mw8hrU) | [ZEROBASEONE](https://open.spotify.com/artist/7cjg7EkeZy3OI5o9Qthc6n) | [MELTING POINT](https://open.spotify.com/album/5XHHcWUt6zy1nkbzt707ys) | 2:53 | 2023-11-06 | 2023-11-09 |
 | [memeM](https://open.spotify.com/track/0qr3qIT7OrhzT33sW1syLI) | [PURPLE KISS](https://open.spotify.com/artist/62T5PGHWJ9sxP2SJq20IHq) | [memeM](https://open.spotify.com/album/4nhtnBY8owIQnOsnGQGqW9) | 2:52 | 2022-03-31 | 2022-07-01 |
-| [Memories](https://open.spotify.com/track/11s5p72subU7SHJPzyR2Lq) | [RIIZE](https://open.spotify.com/artist/2jOm3cYujQx6o1dxuiuqaX) | [Memories](https://open.spotify.com/album/2oPFVwB8gXNDjVGA9wDmMT) | 2:58 | 2023-11-15 |  |
+| [Memories](https://open.spotify.com/track/11s5p72subU7SHJPzyR2Lq) | [RIIZE](https://open.spotify.com/artist/2jOm3cYujQx6o1dxuiuqaX) | [Memories](https://open.spotify.com/album/2oPFVwB8gXNDjVGA9wDmMT) | 2:58 | 2023-11-15 | 2024-03-21 |
 | [Memories](https://open.spotify.com/track/7egcmrxRDee6C5M3AtXZ7L) | [RIIZE](https://open.spotify.com/artist/2jOm3cYujQx6o1dxuiuqaX) | [Memories](https://open.spotify.com/album/6mYpshqw0Y8pQTT6iRX8s1) | 2:58 | 2023-08-25 | 2023-11-19 |
 | [Midnight](https://open.spotify.com/track/2j7pfH8zJkfNzCfoOBTKkX) | [HEIZE](https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo), [Punch](https://open.spotify.com/artist/2FgZrgTMX6Sk0VNcOsEPmm) | [Midnight \(Do You Like Brahms? OST Special Track\)](https://open.spotify.com/album/4PAjQjk1RJdfOCNLi4oThs) | 3:48 | 2020-10-13\* | 2020-11-16 |
 | [Midnight Blue \(Donation Project\)](https://open.spotify.com/track/1cBdno4f4aTiDTtVPCK4nH) | [B.I](https://open.spotify.com/artist/0UntV1Bw2hk3fbRrm9eMP6) | [Midnight Blue \(LOVE STREAMING\)](https://open.spotify.com/album/2ux2TXfr9z1EM68eSE85tH) | 3:44 | 2021-03-19 | 2021-06-03 |
@@ -870,6 +870,7 @@
 | [Thank You](https://open.spotify.com/track/08rg9OloHTHRsk9evNPpnd) | [Brave Girls](https://open.spotify.com/artist/7t5H3uQv0Zw6cQUnSTF5BB) | [THANK YOU](https://open.spotify.com/album/5RaqvFt71ro3Y8nngoucv6) | 3:15 | 2022-03-21 | 2022-05-19 |
 | [The 6th Summer](https://open.spotify.com/track/1lODrFR40rSNAw5cX4j2J2) | [PLAVE](https://open.spotify.com/artist/0k2zyzGq6HX383VlMBOvRG) | [ASTERUM : The Shape of Things to Come](https://open.spotify.com/album/0BlLhv46UtmO6UodMnwaYF) | 3:43 | 2023-09-29 | 2023-11-07 |
 | [THE BADDEST](https://open.spotify.com/track/2V4Fx72svQRxrFvNT1eq5f) | [K/DA](https://open.spotify.com/artist/4gOc8TsQed9eqnqJct2c5v), [\(G\)I\-DLE](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx), [Wolftyla](https://open.spotify.com/artist/7qd6KGoABHifvXKeFNe2Yb), [Bea Miller](https://open.spotify.com/artist/1o2NpYGqHiCq7FoiYdyd1x), [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD) | [THE BADDEST](https://open.spotify.com/album/7C8nskYbHG7N0LDrNVvt7x) | 2:42 | 2020-10-13\* | 2021-01-18 |
+| [The knight who can't die and the silk cradle](https://open.spotify.com/track/7liPa1ogr6uKLBBfuKuCJh) | [LUCY](https://open.spotify.com/artist/4eh2JeBpQaScfHKKXZh5vO) | [The knight who can't die and the silk cradle](https://open.spotify.com/album/2AuUWIKUhxvxoD2gS7Z2mG) | 4:08 | 2024-03-20 |  |
 | [The Melody](https://open.spotify.com/track/5FqgslYHEkv51KtapyWsBZ) | [SUPER JUNIOR](https://open.spotify.com/artist/6gzXCdfYfFe5XKhPKkYqxV) | [The Melody](https://open.spotify.com/album/749XA133WWzUmG03OCSqFn) | 3:11 | 2020-11-07 | 2021-03-10 |
 | [The Moon \(Feat\. TAEIL of NCT\)](https://open.spotify.com/track/6Qfhu8fcLSY8Tw7syG8hdK) | [Moon Sujin](https://open.spotify.com/artist/36MQil20hjOpG5f52NQ4du), [TAEIL](https://open.spotify.com/artist/1z0Hi3myYw4x32xCq0H3aq) | [The Moon \(Feat\. TAEIL of NCT\)](https://open.spotify.com/album/6NfkVXBrjpR9JG69VOg52G) | 2:42 | 2021-04-13 | 2021-06-18 |
 | [The Real](https://open.spotify.com/track/1uk5fYLx1f88DLte84Hl5j) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [KINGDOM <FINAL : WHO IS THE KING?>](https://open.spotify.com/album/3n1NaviPQXfiVQ0TarnAf4) | 3:10 | 2021-06-09 | 2021-09-07 |
@@ -951,6 +952,7 @@
 | [WAY 4 LUV](https://open.spotify.com/track/1T6xi2QrnmwaebXGvWAjLg) | [PLAVE](https://open.spotify.com/artist/0k2zyzGq6HX383VlMBOvRG) | [ASTERUM : 134\-1](https://open.spotify.com/album/6uDZ4HPxwnOMpykpzpylDS) | 3:39 | 2024-03-07 |  |
 | [Way Back Home \(2021\)](https://open.spotify.com/track/34Vy1dY4YFVrzpk7hCbRx9) | [LUNCH](https://open.spotify.com/artist/2UVzzx3MOPYV3l6xW2lzBv) | [Way Back Home \(2021\)](https://open.spotify.com/album/4nmmkrRG4aFmEoC9Xq1Ogk) | 3:33 | 2021-07-08 | 2021-10-06 |
 | [WE](https://open.spotify.com/track/3zbgCTtyOc85T2ZXW1aOa0) | [DAHEE](https://open.spotify.com/artist/3esENfTnYy40Cs650mMtyT), [SOLE](https://open.spotify.com/artist/6naXFodImN2DwRmKCQHAUt) | [WE](https://open.spotify.com/album/1wTlmb5D4rZA6odmNOuKNu) | 2:57 | 2020-10-13\* | 2020-11-11 |
+| [We Don’t Stop](https://open.spotify.com/track/67ZvVtW278IHsAxnzglQt4) | [xikers](https://open.spotify.com/artist/6QHP8St0MzfNDqjKpwtMht) | [HOUSE OF TRICKY : Trial And Error](https://open.spotify.com/album/4JyXIbXVhgzCa7DU0K6V1O) | 3:09 | 2024-03-20 |  |
 | [We Fresh](https://open.spotify.com/track/7tMN3tczfA8zwcD4jlCsRh) | [Kep1er](https://open.spotify.com/artist/5R7AMwDeroq6Ls0COQYpS4) | [TROUBLESHOOTER](https://open.spotify.com/album/2PbytQbw3uuEMECdw46ya7) | 3:15 | 2022-10-14 | 2023-01-14 |
 | [WE GO](https://open.spotify.com/track/7oQqeRSV38YqkRv2UGvmbS) | [fromis\_9](https://open.spotify.com/artist/24nUVBIlCGi4twz4nYxJum) | [9 WAY TICKET](https://open.spotify.com/album/5DPggk2zBmJYqtaUyLOlVW) | 2:55 | 2021-05-20 | 2021-08-11 |
 | [We Ride](https://open.spotify.com/track/6kH1sKkvgN4Yikake52glq) | [Brave Girls](https://open.spotify.com/artist/7t5H3uQv0Zw6cQUnSTF5BB) | [We Ride](https://open.spotify.com/album/3iBrnwcIhtRrpRXirqxx8W) | 3:09 | 2020-10-13\* | 2020-11-05 |

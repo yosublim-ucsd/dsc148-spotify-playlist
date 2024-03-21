@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8RvHJklfhit.md) - [plain]
 
 > Your favorite Latin Indie classics.
 
-[Spotify](https://open.spotify.com/user/spotify) - 176,442 likes - 100 songs - 5 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 176,480 likes - 100 songs - 5 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,8 +52,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8RvHJklfhit.md) - [plain]
 | 42 | [Algo Es Mejor](https://open.spotify.com/track/2KuqOQdLea52Us5XWcmMdp) | [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [Algo Es Mejor](https://open.spotify.com/album/2xTZ7tJWFmREAiumKaKM6r) | 4:01 |
 | 43 | [Popscuro](https://open.spotify.com/track/3N0lemfma0XQAlkueBbwev) | [CLUBZ](https://open.spotify.com/artist/6MoZZABXeQwEmzmcwICxwK) | [Destellos](https://open.spotify.com/album/2X4swA3UkpqAS8bbXYgP9k) | 3:57 |
 | 44 | [Acicálame](https://open.spotify.com/track/5Ew6ieSRFMoGZlF3rWtDNM) | [Tessa Ia](https://open.spotify.com/artist/2Bo0gW1bqWSjD27xOcVtjg) | [Correspondencia](https://open.spotify.com/album/1AYrH8rgkrGL2MBZZiaCSa) | 3:22 |
-| 45 | [Nada Personal](https://open.spotify.com/track/3BCayFOh2xF0AuYjcWgSVd) | [Juan Pablo Vega](https://open.spotify.com/artist/2PfyKA4qhjkxUVkerTCxz0), [Catalina García](https://open.spotify.com/artist/2eWiATMtcOCS8vAjRJp9iY) | [Nada Personal](https://open.spotify.com/album/4Wjgz8zUKQ7m2raLlSdsp1) | 4:41 |
-| 46 | [Suéltame, Bogotá](https://open.spotify.com/track/7qhunqQrA4o3Hk4c6ohRTg) | [Diamante Eléctrico](https://open.spotify.com/artist/4VAZ6unMJx5upeWn0aFYuo) | [Mira Lo Que Me Hiciste Hacer](https://open.spotify.com/album/56iVzGyiTDQU2wenZeIhXI) | 3:48 |
+| 45 | [Suéltame, Bogotá](https://open.spotify.com/track/7qhunqQrA4o3Hk4c6ohRTg) | [Diamante Eléctrico](https://open.spotify.com/artist/4VAZ6unMJx5upeWn0aFYuo) | [Mira Lo Que Me Hiciste Hacer](https://open.spotify.com/album/56iVzGyiTDQU2wenZeIhXI) | 3:48 |
+| 46 | [Nada Personal](https://open.spotify.com/track/3BCayFOh2xF0AuYjcWgSVd) | [Juan Pablo Vega](https://open.spotify.com/artist/2PfyKA4qhjkxUVkerTCxz0), [Catalina García](https://open.spotify.com/artist/2eWiATMtcOCS8vAjRJp9iY) | [Nada Personal](https://open.spotify.com/album/4Wjgz8zUKQ7m2raLlSdsp1) | 4:41 |
 | 47 | [Vienen A Verme \- Theme from "El Chapo"](https://open.spotify.com/track/1VIi0H6f7MwjMjormmGTEi) | [iLe](https://open.spotify.com/artist/1CztIa6fCQ0WmVPidXuwSs) | [El Chapo \(Original Television Soundtrack\)](https://open.spotify.com/album/7GHA2839oq3I7avhBdwSV6) | 3:20 |
 | 48 | [Épocas](https://open.spotify.com/track/3izZ5EFLybEdk8q5dCh1eD) | [CLUBZ](https://open.spotify.com/artist/6MoZZABXeQwEmzmcwICxwK) | [Épocas](https://open.spotify.com/album/5K42C7VGWtFP2MtH5wwP7M) | 3:41 |
 | 49 | [Cycles of Existential Rhyme](https://open.spotify.com/track/6rpi77GqamZNoltbZ5ksdi) | [Chicano Batman](https://open.spotify.com/artist/0LklyUMMUhpIjMgYHlV0hN) | [Cycles of Existential Rhyme](https://open.spotify.com/album/5Jm8y8nnjMIUrsxZ6KjFe3) | 4:15 |
@@ -69,18 +69,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8RvHJklfhit.md) - [plain]
 | 59 | [Universe](https://open.spotify.com/track/7jgBDJZfhiHnIhekjFUrsX) | [Ambar Lucid](https://open.spotify.com/artist/4nzV0hThyodYzrwksnS86G) | [Garden of Lucid](https://open.spotify.com/album/06l0dAmzy9g9AFUfcCDEeS) | 3:30 |
 | 60 | [nadie me cae bien](https://open.spotify.com/track/35bu49h6EEYptKobXmBQma) | [Little Jesus](https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit), [Jesse Baez](https://open.spotify.com/artist/4rriNpL1lxpoysDDctWgl3) | [nadie me cae bien](https://open.spotify.com/album/5xvQJ17xAeaFUV2OApBBea) | 3:48 |
 | 61 | [Nubes](https://open.spotify.com/track/4bKKVfhH3pmMEWCMTViBVf) | [Nicole Horts](https://open.spotify.com/artist/1PdyY069YiAkmKdnx6odux) | [Nubes](https://open.spotify.com/album/3woQ2AxMJRfEJaEV9BIDR1) | 2:54 |
-| 62 | [Bombay](https://open.spotify.com/track/60aWOhenofxdFViDXn3lfp) | [El Guincho](https://open.spotify.com/artist/1oMiDFyAgmIzw9ZBQYHOJI) | [Pop Negro](https://open.spotify.com/album/5GDOwdJ0okcBaqmyPlNSsC) | 3:39 |
-| 63 | [fuckhim \(feat\. Ximena Sariñana\)](https://open.spotify.com/track/0D2JmflHSZwCVqle0RqxAz) | [Girl Ultra](https://open.spotify.com/artist/7i1CyQ1fogh4bkj3EPj3ls), [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [Nuevos Aires](https://open.spotify.com/album/1pmuUGKQdl3yIAIMZucjKu) | 3:32 |
+| 62 | [fuckhim \(feat\. Ximena Sariñana\)](https://open.spotify.com/track/0D2JmflHSZwCVqle0RqxAz) | [Girl Ultra](https://open.spotify.com/artist/7i1CyQ1fogh4bkj3EPj3ls), [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [Nuevos Aires](https://open.spotify.com/album/1pmuUGKQdl3yIAIMZucjKu) | 3:32 |
+| 63 | [Bombay](https://open.spotify.com/track/60aWOhenofxdFViDXn3lfp) | [El Guincho](https://open.spotify.com/artist/1oMiDFyAgmIzw9ZBQYHOJI) | [Pop Negro](https://open.spotify.com/album/5GDOwdJ0okcBaqmyPlNSsC) | 3:39 |
 | 64 | [Mi Fábrica de Baile](https://open.spotify.com/track/2n5CQoGVbKyiVyA0AabeZH) | [Joe Crepúsculo](https://open.spotify.com/artist/34SgyDEDqVlahIQRDttgCn) | [Baile de Magos](https://open.spotify.com/album/07GEY91tPdA08EVlRmqQ1f) | 4:25 |
 | 65 | [Eras mi persona favorita](https://open.spotify.com/track/45gEiG1445vFC7EPtN0YMN) | [Teleradio Donoso](https://open.spotify.com/artist/6SwRy6PTx8ehNGCdcDp3mt) | [Gran Santiago](https://open.spotify.com/album/5s2GRs98fAVUwyu2vru7dF) | 3:48 |
 | 66 | [Love Is A Drug](https://open.spotify.com/track/1plMJh3KzL9iza1xBtGfG9) | [Empress Of](https://open.spotify.com/artist/5QuBVnBPEzwYvFrgBbwpmU) | [I'm Your Empress Of](https://open.spotify.com/album/08pGwlQDFQYZg1gX0ZYOKq) | 2:40 |
 | 67 | [Reflexión del Pasto](https://open.spotify.com/track/1tzTiU8wtxHvZ3YtU0cjEM) | [Jósean Log](https://open.spotify.com/artist/1LMyTeRhjaitILs98h3MaF) | [Reflexión del Pasto](https://open.spotify.com/album/28GYUNMKd575GwnofewUEI) | 1:46 |
 | 68 | [En Cantos](https://open.spotify.com/track/6VeRaKlXkQKS2TO2zAn7UJ) | [iLe](https://open.spotify.com/artist/1CztIa6fCQ0WmVPidXuwSs), [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [En Cantos](https://open.spotify.com/album/0HzCpuCil6dqEF5SZXJaxl) | 3:32 |
 | 69 | [El Invento](https://open.spotify.com/track/7daItyBA4UqHyFItCVgzBn) | [José González](https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI) | [El Invento](https://open.spotify.com/album/1XhI1Bcby2CSogky3EiENa) | 2:33 |
-| 70 | [Ejercicio \#16 \- Remastered](https://open.spotify.com/track/1zIEjkEd2awwjVTxqPPecY) | [Kinky](https://open.spotify.com/artist/4WOIfFwyvx22jM0eg2fpKv) | [Kinky \(Remastered\)](https://open.spotify.com/album/0EuvehvpSxGl1Q3GJ0p6pI) | 4:21 |
-| 71 | [PSILOCIBINA](https://open.spotify.com/track/4s89QYq2NW7CvrdGGRXnjg) | [Vanessa Zamora](https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC) | [PSILOCIBINA](https://open.spotify.com/album/4waUPRkFL1OD8mRDM6dBM1) | 3:17 |
-| 72 | [Cuidado](https://open.spotify.com/track/5IZC2HQDKPhVkpAotDJBHM) | [La Santa Cecilia](https://open.spotify.com/artist/2FZrEn80eCoWrrkGXPLF0v) | [José José, Un Tributo 1 & 2](https://open.spotify.com/album/103zw9Qm9BRCdlb3mYsBOl) | 4:02 |
-| 73 | [Bailar Bien, Bailar Mal](https://open.spotify.com/track/669xNVrjraLRBLrVBf7sUU) | [Gepe](https://open.spotify.com/artist/1fHGzTSloWCtrlKfbLNVhM), [Carla Morrison](https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe) | [GP](https://open.spotify.com/album/6f6ZV6dYzZVJTvvxhd1Y0t) | 3:45 |
+| 70 | [PSILOCIBINA](https://open.spotify.com/track/4s89QYq2NW7CvrdGGRXnjg) | [Vanessa Zamora](https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC) | [PSILOCIBINA](https://open.spotify.com/album/4waUPRkFL1OD8mRDM6dBM1) | 3:17 |
+| 71 | [Ejercicio \#16 \- Remastered](https://open.spotify.com/track/1zIEjkEd2awwjVTxqPPecY) | [Kinky](https://open.spotify.com/artist/4WOIfFwyvx22jM0eg2fpKv) | [Kinky \(Remastered\)](https://open.spotify.com/album/0EuvehvpSxGl1Q3GJ0p6pI) | 4:21 |
+| 72 | [Bailar Bien, Bailar Mal](https://open.spotify.com/track/669xNVrjraLRBLrVBf7sUU) | [Gepe](https://open.spotify.com/artist/1fHGzTSloWCtrlKfbLNVhM), [Carla Morrison](https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe) | [GP](https://open.spotify.com/album/6f6ZV6dYzZVJTvvxhd1Y0t) | 3:45 |
+| 73 | [Cuidado](https://open.spotify.com/track/5IZC2HQDKPhVkpAotDJBHM) | [La Santa Cecilia](https://open.spotify.com/artist/2FZrEn80eCoWrrkGXPLF0v) | [José José, Un Tributo 1 & 2](https://open.spotify.com/album/103zw9Qm9BRCdlb3mYsBOl) | 4:02 |
 | 74 | [There Must Be a Song Like You](https://open.spotify.com/track/0686tzFJ79mRZPApYYLiMA) | [Helado Negro](https://open.spotify.com/artist/69qhRLDvsWJOhWGXXQ0lQQ) | [Far In](https://open.spotify.com/album/6VuufjwylS8CGaUcq3Vs4e) | 4:50 |
 | 75 | [Cursis Melodías](https://open.spotify.com/track/76CdSwtagY9xOJ86tF8z7q) | [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [HU HU HU](https://open.spotify.com/album/7wr357GNp9CgeJRUfpX7hf) | 4:27 |
 | 76 | [Daikiri](https://open.spotify.com/track/44HnCocL3nA1J795oIdNgu) | [Simon Grossmann](https://open.spotify.com/artist/6t38N9HASTn9ca0PIxfReQ) | [Bahía Margarita](https://open.spotify.com/album/0wAN9WxtYgJUdIEczdzF2l) | 3:57 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8RvHJklfhit.md) - [plain]
 | 99 | [Inercia](https://open.spotify.com/track/6QLvtmaZbRgbaUmFtnbor5) | [MKRNI](https://open.spotify.com/artist/1X3EisQbC1AnVLw8I9zvFp) | [Canciones](https://open.spotify.com/album/77vCDDC5hVzCzZBlE6sOeR) | 3:54 |
 | 100 | [Dung Ding Dang](https://open.spotify.com/track/5OWxGgdDveGYp0iKvJN4H3) | [Estereomance](https://open.spotify.com/artist/0sPz0BuaI7sSF0mzku6fZd) | [Estereomance](https://open.spotify.com/album/5BLPMwnHHRMq6JhrhjX62T) | 4:15 |
 
-Snapshot ID: `MCwyZjBhMWNjNTQzZDU2Y2QwMjZlODJlYWQ0YzY5ODZhOGFjYzk3NzAz`
+Snapshot ID: `MCxhZmVlZTY1MjkyYjI4OGU3ZTZhYzczNDA2NTk4MWM4YjYzNDhmNGVj`

@@ -1,5 +1,5 @@
 {
-  "2024-03-20": 90076,
+  "2024-03-21": 90151,
   "date_first_scraped": "2023-10-25",
   "description": "D\u00f2ng ch\u1ea3y c\u1ee7a rap Vi\u1ec7t lu\u00f4n cu\u1ed3n cu\u1ed9n. \u1ea2nh b\u00eca: \u0110en",
   "name": "Hip-hop Vi\u1ec7t",
@@ -711,6 +711,24 @@
       "duration_ms": 181558,
       "name": "Ch\u1ecbu C\u00e1ch M\u00ecnh N\u00f3i Thua",
       "url": "https://open.spotify.com/track/3ZbZtdEw9U0uZW4tZItIwq"
+    },
+    {
+      "album": {
+        "name": "Con Nh\u00e0 Gi\u00e0u Con Nh\u00e0 Ngh\u00e8o",
+        "url": "https://open.spotify.com/album/0XaGzrZx5nyQNMZ7A27nxD"
+      },
+      "artists": [
+        {
+          "name": "DSK",
+          "url": "https://open.spotify.com/artist/0KqWWEbDa21psQwESpf3pD"
+        }
+      ],
+      "date_added": "2024-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165213,
+      "name": "Con Nh\u00e0 Gi\u00e0u Con Nh\u00e0 Ngh\u00e8o",
+      "url": "https://open.spotify.com/track/08ebBL7klXxYzROkBCsy2W"
     },
     {
       "album": {
@@ -1652,6 +1670,24 @@
     },
     {
       "album": {
+        "name": "L\u1edbn R\u1ed3i",
+        "url": "https://open.spotify.com/album/1aV6gmvYoIWNjzS7yOo4mG"
+      },
+      "artists": [
+        {
+          "name": "DSK",
+          "url": "https://open.spotify.com/artist/0KqWWEbDa21psQwESpf3pD"
+        }
+      ],
+      "date_added": "2024-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201199,
+      "name": "L\u1edbn R\u1ed3i",
+      "url": "https://open.spotify.com/track/0FjmyK9Z2ymS5HbUvrdeL5"
+    },
+    {
+      "album": {
         "name": "magick (feat. T\u00e1o)",
         "url": "https://open.spotify.com/album/38ZKbjXwT4eOYd7KU87akr"
       },
@@ -1781,7 +1817,7 @@
       ],
       "date_added": "2024-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-20",
       "duration_ms": 198375,
       "name": "M\u01b0\u1ee3n R\u01b0\u1ee3u T\u1ecf T\u00ecnh",
       "url": "https://open.spotify.com/track/4x8vUZgiQWB25eS2M0we6Q"
@@ -3057,7 +3093,7 @@
       ],
       "date_added": "2023-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-20",
       "duration_ms": 243750,
       "name": "XTC (X\u00edch Th\u00eam Ch\u00fat) (Remix)",
       "url": "https://open.spotify.com/track/7fNHfgOxPLcg4mQLhCnOHB"

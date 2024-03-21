@@ -4,7 +4,7 @@
 
 > This is PARTYNEXTDOOR\. The essential tracks, all in one playlist.
 
-58 songs - 3 hr 32 min
+59 songs - 3 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,7 +26,8 @@
 | [FWU](https://open.spotify.com/track/0kd5HwOvSdUsdVQMkEYZk6) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [PARTYNEXTDOOR TWO](https://open.spotify.com/album/1xwhNJCfTwuRia7Cpo7IbJ) | 4:55 | 2023-08-25 |  |
 | [Ghost Town](https://open.spotify.com/track/7vgTNTaEz3CsBZ1N4YQalM) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [ye](https://open.spotify.com/album/2Ek1q2haOnxVqhvVKqMvJe) | 4:31 | 2023-06-29 |  |
 | [Grown Woman](https://open.spotify.com/track/0l1eHXBH9pNSW6MVQFTK1z) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [PARTYNEXTDOOR TWO](https://open.spotify.com/album/1xwhNJCfTwuRia7Cpo7IbJ) | 3:25 | 2023-06-29 | 2023-08-26 |
-| [H e r O l d F r i e n d s](https://open.spotify.com/track/4SBZis6PQh5N40Zv9ro3Ti) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [H e r O l d F r i e n d s](https://open.spotify.com/album/6vtoMOAff1G2b5om38HMM5) | 4:16 | 2023-06-29 |  |
+| [H e r O l d F r i e n d s](https://open.spotify.com/track/4SBZis6PQh5N40Zv9ro3Ti) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [H e r O l d F r i e n d s](https://open.spotify.com/album/6vtoMOAff1G2b5om38HMM5) | 4:16 | 2023-06-29 | 2024-03-21 |
+| [H e r O l d F r i e n d s](https://open.spotify.com/track/73xrwYHl6nMMGVVFyqRcOD) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [R e a l W o m a n](https://open.spotify.com/album/05Zpvjm9aGodlwFnnh1rRE) | 4:16 | 2024-03-20 |  |
 | [Her Way](https://open.spotify.com/track/3JEJwjqLkg2Jbau5922CAb) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [PARTYNEXTDOOR TWO](https://open.spotify.com/album/1xwhNJCfTwuRia7Cpo7IbJ) | 3:36 | 2023-06-29 |  |
 | [Joy](https://open.spotify.com/track/0SLNmZFeGw1wInZCzF415n) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [PARTYNEXTDOOR 3 \(P3\)](https://open.spotify.com/album/2veXxRriGPw4fFBZQNNMfQ) | 3:15 | 2023-06-29 |  |
 | [Just Might \(with PARTYNEXTDOOR\)](https://open.spotify.com/track/43IMaycr34ZR5kS8mlL5hH) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS), [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [Over It](https://open.spotify.com/album/1qgJNWnPIeK9rx7hF8JCPK) | 3:25 | 2023-06-29 |  |

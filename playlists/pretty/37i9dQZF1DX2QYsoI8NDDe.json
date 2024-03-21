@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjYmY1MDQ5NjE5Mzc0Y2UzNTA3OTMwMDgzOGIwZmI4MjQ2YzIxZjk1",
+  "snapshot_id": "MCw1MWY1ZmMzNmQwZWEyOGY2ZjcxOTgxNjhhOGUyNjUwZGVmODcwN2My",
   "tracks": [
     {
       "added_at": "2024-03-08 05:00:00",
@@ -191,22 +191,6 @@
     {
       "added_at": "2024-03-08 05:00:00",
       "album": {
-        "name": "Cactus",
-        "url": "https://open.spotify.com/album/4tENygDaMnwk2xajkMm5l1"
-      },
-      "artists": [
-        {
-          "name": "Belinda",
-          "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
-        }
-      ],
-      "duration_ms": 183381,
-      "name": "Cactus",
-      "url": "https://open.spotify.com/track/213Q7w8RMi5qbj18kvWasy"
-    },
-    {
-      "added_at": "2024-03-08 05:00:00",
-      "album": {
         "name": "ESQUINAS",
         "url": "https://open.spotify.com/album/34Kj1LPZ7xhlskIb9qD6D6"
       },
@@ -227,6 +211,22 @@
       "duration_ms": 185207,
       "name": "POR EL CONTRARIO (with Angela Aguilar & Leonardo Aguilar)",
       "url": "https://open.spotify.com/track/6VsqdsaY4oV06NODea0L0J"
+    },
+    {
+      "added_at": "2024-03-08 05:00:00",
+      "album": {
+        "name": "Cactus",
+        "url": "https://open.spotify.com/album/4tENygDaMnwk2xajkMm5l1"
+      },
+      "artists": [
+        {
+          "name": "Belinda",
+          "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
+        }
+      ],
+      "duration_ms": 183381,
+      "name": "Cactus",
+      "url": "https://open.spotify.com/track/213Q7w8RMi5qbj18kvWasy"
     },
     {
       "added_at": "2024-03-08 05:00:00",
@@ -307,6 +307,26 @@
     {
       "added_at": "2024-03-08 05:00:00",
       "album": {
+        "name": "CHANEL",
+        "url": "https://open.spotify.com/album/4cd4QB02mwPtiTOJBzQmWo"
+      },
+      "artists": [
+        {
+          "name": "Becky G",
+          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
+        },
+        {
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+        }
+      ],
+      "duration_ms": 201993,
+      "name": "CHANEL",
+      "url": "https://open.spotify.com/track/5RcxRGvmYai7kpFSfxe5GY"
+    },
+    {
+      "added_at": "2024-03-08 05:00:00",
+      "album": {
         "name": "Luna Azul",
         "url": "https://open.spotify.com/album/7xO1HkxoLRT2iv8tdq84sP"
       },
@@ -323,22 +343,6 @@
       "duration_ms": 188466,
       "name": "Luna Azul",
       "url": "https://open.spotify.com/track/6M7Ga3llZjDwKbb1b6oRFZ"
-    },
-    {
-      "added_at": "2024-03-08 05:00:00",
-      "album": {
-        "name": "Porque Soy Abeja Reina",
-        "url": "https://open.spotify.com/album/57ZrbWvZKwAhde2snJ9MtD"
-      },
-      "artists": [
-        {
-          "name": "Chiquis",
-          "url": "https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS"
-        }
-      ],
-      "duration_ms": 158146,
-      "name": "PORQUE SOY ABEJA REINA",
-      "url": "https://open.spotify.com/track/3jiV4NZbAcQQwcafRVRx5v"
     },
     {
       "added_at": "2024-03-08 05:00:00",
@@ -363,18 +367,18 @@
     {
       "added_at": "2024-03-08 05:00:00",
       "album": {
-        "name": "Cambiaste",
-        "url": "https://open.spotify.com/album/0fvaFUHPvCuZnkvspk2Uxj"
+        "name": "Porque Soy Abeja Reina",
+        "url": "https://open.spotify.com/album/57ZrbWvZKwAhde2snJ9MtD"
       },
       "artists": [
         {
-          "name": "Yahritza Y Su Esencia",
-          "url": "https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A"
+          "name": "Chiquis",
+          "url": "https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS"
         }
       ],
-      "duration_ms": 174817,
-      "name": "Cambiaste",
-      "url": "https://open.spotify.com/track/2ShMj3rcOHAMKuhI7iaJo8"
+      "duration_ms": 158146,
+      "name": "PORQUE SOY ABEJA REINA",
+      "url": "https://open.spotify.com/track/3jiV4NZbAcQQwcafRVRx5v"
     },
     {
       "added_at": "2024-03-08 05:00:00",
@@ -395,8 +399,8 @@
     {
       "added_at": "2024-03-08 05:00:00",
       "album": {
-        "name": "CHANEL",
-        "url": "https://open.spotify.com/album/4cd4QB02mwPtiTOJBzQmWo"
+        "name": "ESQUINAS",
+        "url": "https://open.spotify.com/album/34Kj1LPZ7xhlskIb9qD6D6"
       },
       "artists": [
         {
@@ -404,13 +408,13 @@
           "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
         },
         {
-          "name": "Peso Pluma",
-          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+          "name": "Yahritza Y Su Esencia",
+          "url": "https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A"
         }
       ],
-      "duration_ms": 201993,
-      "name": "CHANEL",
-      "url": "https://open.spotify.com/track/5RcxRGvmYai7kpFSfxe5GY"
+      "duration_ms": 171334,
+      "name": "PATRAS (with Yahritza Y Su Esencia)",
+      "url": "https://open.spotify.com/track/07vIX6wlThl9fY6Zvcm9T9"
     },
     {
       "added_at": "2024-03-08 05:00:00",
@@ -431,6 +435,22 @@
     {
       "added_at": "2024-03-08 05:00:00",
       "album": {
+        "name": "Cambiaste",
+        "url": "https://open.spotify.com/album/0fvaFUHPvCuZnkvspk2Uxj"
+      },
+      "artists": [
+        {
+          "name": "Yahritza Y Su Esencia",
+          "url": "https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A"
+        }
+      ],
+      "duration_ms": 174817,
+      "name": "Cambiaste",
+      "url": "https://open.spotify.com/track/2ShMj3rcOHAMKuhI7iaJo8"
+    },
+    {
+      "added_at": "2024-03-08 05:00:00",
+      "album": {
         "name": "Los Caminos de la Vida",
         "url": "https://open.spotify.com/album/6fLWZpVOV0wfKTGa8UZmBA"
       },
@@ -443,22 +463,6 @@
       "duration_ms": 228436,
       "name": "Los Caminos de la Vida",
       "url": "https://open.spotify.com/track/1s00VGw9NHb7F6FDScqaTa"
-    },
-    {
-      "added_at": "2024-03-08 05:00:00",
-      "album": {
-        "name": "Amor Perdido",
-        "url": "https://open.spotify.com/album/0wkmxDVy1AGPQojmbx8Qb1"
-      },
-      "artists": [
-        {
-          "name": "Delilah",
-          "url": "https://open.spotify.com/artist/5O2rJN2gJncIfM5iNSNiYR"
-        }
-      ],
-      "duration_ms": 200000,
-      "name": "Amor Perdido",
-      "url": "https://open.spotify.com/track/0uMODzvm9Pdz9YVrVhWIBe"
     },
     {
       "added_at": "2024-03-08 05:00:00",
@@ -483,6 +487,22 @@
     {
       "added_at": "2024-03-08 05:00:00",
       "album": {
+        "name": "Amor Perdido",
+        "url": "https://open.spotify.com/album/0wkmxDVy1AGPQojmbx8Qb1"
+      },
+      "artists": [
+        {
+          "name": "Delilah",
+          "url": "https://open.spotify.com/artist/5O2rJN2gJncIfM5iNSNiYR"
+        }
+      ],
+      "duration_ms": 200000,
+      "name": "Amor Perdido",
+      "url": "https://open.spotify.com/track/0uMODzvm9Pdz9YVrVhWIBe"
+    },
+    {
+      "added_at": "2024-03-08 05:00:00",
+      "album": {
         "name": "Aqu\u00ed Nom\u00e1s",
         "url": "https://open.spotify.com/album/40mTqjnDaQZ2STmM76RfpV"
       },
@@ -495,22 +515,6 @@
       "duration_ms": 182309,
       "name": "El R\u00e1pido",
       "url": "https://open.spotify.com/track/1jQD11D6t4f1OlPjY8XEL2"
-    },
-    {
-      "added_at": "2024-03-08 05:00:00",
-      "album": {
-        "name": "Miro La Luna",
-        "url": "https://open.spotify.com/album/54wwbqUyOybBoAbTiNFKo9"
-      },
-      "artists": [
-        {
-          "name": "DiDi R",
-          "url": "https://open.spotify.com/artist/5DYr71gMagoWXuYCrWexQM"
-        }
-      ],
-      "duration_ms": 126365,
-      "name": "Miro La Luna",
-      "url": "https://open.spotify.com/track/0RsVM5ATSvbtpB0naldCXp"
     },
     {
       "added_at": "2024-03-08 05:00:00",
@@ -556,33 +560,29 @@
           "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
         },
         {
-          "name": "Yahritza Y Su Esencia",
-          "url": "https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A"
+          "name": "Chiquis",
+          "url": "https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS"
         }
       ],
-      "duration_ms": 171334,
-      "name": "PATRAS (with Yahritza Y Su Esencia)",
-      "url": "https://open.spotify.com/track/07vIX6wlThl9fY6Zvcm9T9"
+      "duration_ms": 176285,
+      "name": "CUIDADITO",
+      "url": "https://open.spotify.com/track/3mvAYoRe4GhiTBcUUZRsFe"
     },
     {
       "added_at": "2024-03-08 05:00:00",
       "album": {
-        "name": "Choro",
-        "url": "https://open.spotify.com/album/6nRdxqQ8YT4mAznMWZ1uAV"
+        "name": "Miro La Luna",
+        "url": "https://open.spotify.com/album/54wwbqUyOybBoAbTiNFKo9"
       },
       "artists": [
         {
-          "name": "Thalia",
-          "url": "https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb"
-        },
-        {
-          "name": "Estilo Sin Limite",
-          "url": "https://open.spotify.com/artist/3EhvqOxws7gMwok2Z9XOjd"
+          "name": "DiDi R",
+          "url": "https://open.spotify.com/artist/5DYr71gMagoWXuYCrWexQM"
         }
       ],
-      "duration_ms": 136250,
-      "name": "Choro",
-      "url": "https://open.spotify.com/track/1tal0eLU6Wk81aLDKx0tqy"
+      "duration_ms": 126365,
+      "name": "Miro La Luna",
+      "url": "https://open.spotify.com/track/0RsVM5ATSvbtpB0naldCXp"
     },
     {
       "added_at": "2024-03-08 05:00:00",
@@ -615,6 +615,26 @@
       "duration_ms": 178378,
       "name": "Y T\u00fa, \u00bfQu\u00e9 Ganas?",
       "url": "https://open.spotify.com/track/1KYrci9yociotmNJ2sYHPF"
+    },
+    {
+      "added_at": "2024-03-08 05:00:00",
+      "album": {
+        "name": "Choro",
+        "url": "https://open.spotify.com/album/6nRdxqQ8YT4mAznMWZ1uAV"
+      },
+      "artists": [
+        {
+          "name": "Thalia",
+          "url": "https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb"
+        },
+        {
+          "name": "Estilo Sin Limite",
+          "url": "https://open.spotify.com/artist/3EhvqOxws7gMwok2Z9XOjd"
+        }
+      ],
+      "duration_ms": 136250,
+      "name": "Choro",
+      "url": "https://open.spotify.com/track/1tal0eLU6Wk81aLDKx0tqy"
     },
     {
       "added_at": "2024-03-08 05:00:00",
@@ -715,26 +735,6 @@
       "duration_ms": 157946,
       "name": "No Me Deja De Doler",
       "url": "https://open.spotify.com/track/2P77G1ApHDmnOzEbk8C6jn"
-    },
-    {
-      "added_at": "2024-03-08 05:00:00",
-      "album": {
-        "name": "ESQUINAS",
-        "url": "https://open.spotify.com/album/34Kj1LPZ7xhlskIb9qD6D6"
-      },
-      "artists": [
-        {
-          "name": "Becky G",
-          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
-        },
-        {
-          "name": "Chiquis",
-          "url": "https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS"
-        }
-      ],
-      "duration_ms": 176285,
-      "name": "CUIDADITO",
-      "url": "https://open.spotify.com/track/3mvAYoRe4GhiTBcUUZRsFe"
     },
     {
       "added_at": "2024-03-08 05:00:00",
@@ -939,22 +939,6 @@
     {
       "added_at": "2024-03-08 05:00:00",
       "album": {
-        "name": "CHIQUIS - BEE SIDE",
-        "url": "https://open.spotify.com/album/4HFQEBKPajKOqug9XxW4P4"
-      },
-      "artists": [
-        {
-          "name": "Chiquis",
-          "url": "https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS"
-        }
-      ],
-      "duration_ms": 158760,
-      "name": "LA QUE MANDA",
-      "url": "https://open.spotify.com/track/3ONXaciwwjXzDEhZ8GF5ra"
-    },
-    {
-      "added_at": "2024-03-08 05:00:00",
-      "album": {
         "name": "No Me Lamentare",
         "url": "https://open.spotify.com/album/7Bl7KTEP0tDvSLfLbYhn1O"
       },
@@ -967,6 +951,22 @@
       "duration_ms": 135806,
       "name": "No Me Lamentare",
       "url": "https://open.spotify.com/track/1Wmxfl6r5CVc8FplFZ8hxM"
+    },
+    {
+      "added_at": "2024-03-08 05:00:00",
+      "album": {
+        "name": "CHIQUIS - BEE SIDE",
+        "url": "https://open.spotify.com/album/4HFQEBKPajKOqug9XxW4P4"
+      },
+      "artists": [
+        {
+          "name": "Chiquis",
+          "url": "https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS"
+        }
+      ],
+      "duration_ms": 158760,
+      "name": "LA QUE MANDA",
+      "url": "https://open.spotify.com/track/3ONXaciwwjXzDEhZ8GF5ra"
     },
     {
       "added_at": "2024-03-08 05:00:00",
@@ -1051,22 +1051,22 @@
     {
       "added_at": "2024-03-08 05:00:00",
       "album": {
-        "name": "Tres Mundos",
-        "url": "https://open.spotify.com/album/7lqP8rWIsrsWgpWRF0ghdk"
+        "name": "CHIQUIS - BEE SIDE",
+        "url": "https://open.spotify.com/album/4HFQEBKPajKOqug9XxW4P4"
       },
       "artists": [
         {
-          "name": "Conexi\u00f3n Divina",
-          "url": "https://open.spotify.com/artist/4VNRWgZyB5AiSw4jlGDVLy"
+          "name": "Chiquis",
+          "url": "https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS"
         },
         {
-          "name": "Gabito Ballesteros",
-          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
+          "name": "Snow Tha Product",
+          "url": "https://open.spotify.com/artist/3p3jPcp8b7WL9XYj4xlsWj"
         }
       ],
-      "duration_ms": 163875,
-      "name": "Paso A Pasito",
-      "url": "https://open.spotify.com/track/098EZ7cByfKymuAiMKtOmR"
+      "duration_ms": 179160,
+      "name": "NI MUERTA",
+      "url": "https://open.spotify.com/track/3e4GF58G6ilRXhqLG4fl64"
     },
     {
       "added_at": "2024-03-08 05:00:00",
@@ -1087,22 +1087,22 @@
     {
       "added_at": "2024-03-08 05:00:00",
       "album": {
-        "name": "CHIQUIS - BEE SIDE",
-        "url": "https://open.spotify.com/album/4HFQEBKPajKOqug9XxW4P4"
+        "name": "Tres Mundos",
+        "url": "https://open.spotify.com/album/7lqP8rWIsrsWgpWRF0ghdk"
       },
       "artists": [
         {
-          "name": "Chiquis",
-          "url": "https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS"
+          "name": "Conexi\u00f3n Divina",
+          "url": "https://open.spotify.com/artist/4VNRWgZyB5AiSw4jlGDVLy"
         },
         {
-          "name": "Snow Tha Product",
-          "url": "https://open.spotify.com/artist/3p3jPcp8b7WL9XYj4xlsWj"
+          "name": "Gabito Ballesteros",
+          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
         }
       ],
-      "duration_ms": 179160,
-      "name": "NI MUERTA",
-      "url": "https://open.spotify.com/track/3e4GF58G6ilRXhqLG4fl64"
+      "duration_ms": 163875,
+      "name": "Paso A Pasito",
+      "url": "https://open.spotify.com/track/098EZ7cByfKymuAiMKtOmR"
     },
     {
       "added_at": "2024-03-08 05:00:00",

@@ -1,12 +1,12 @@
 {
   "description": "Canciones directas y banderas al viento. Foto: La 25.",
-  "num_followers": 166838,
+  "num_followers": 166924,
   "original_name": "Rock Barrial",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwNzIxMWI0YzFmYjdlZjJhNDNhYjIwNWE3OGI4OTVhMTA1YWJkZDY3",
+  "snapshot_id": "MCxlMGJkODM1NmUxODk4ZmZjMzYzMDk2ZDY4NGRmNDk2NzA2MWY0ZTk3",
   "tracks": [
     {
       "added_at": "2024-01-26 03:00:00",
@@ -315,22 +315,6 @@
     {
       "added_at": "2024-01-26 03:00:00",
       "album": {
-        "name": "Momo Sampler",
-        "url": "https://open.spotify.com/album/0omWExUGprwvcvYwGh3Vr0"
-      },
-      "artists": [
-        {
-          "name": "Patricio Rey y sus Redonditos de Ricota",
-          "url": "https://open.spotify.com/artist/6byQKddO1b34lXC2ZEjehQ"
-        }
-      ],
-      "duration_ms": 220466,
-      "name": "Una Piba Con la Remera de Greenpeace",
-      "url": "https://open.spotify.com/track/6xxyN0K6opVJWMdQykqXQ7"
-    },
-    {
-      "added_at": "2024-01-26 03:00:00",
-      "album": {
         "name": "Libertinaje",
         "url": "https://open.spotify.com/album/4jvy4EtQG6BrW2FZewSZri"
       },
@@ -343,6 +327,22 @@
       "duration_ms": 259813,
       "name": "Sr. Cobranza",
       "url": "https://open.spotify.com/track/0zXMZx9kvFO6x58JiIh4BJ"
+    },
+    {
+      "added_at": "2024-01-26 03:00:00",
+      "album": {
+        "name": "Momo Sampler",
+        "url": "https://open.spotify.com/album/0omWExUGprwvcvYwGh3Vr0"
+      },
+      "artists": [
+        {
+          "name": "Patricio Rey y sus Redonditos de Ricota",
+          "url": "https://open.spotify.com/artist/6byQKddO1b34lXC2ZEjehQ"
+        }
+      ],
+      "duration_ms": 220466,
+      "name": "Una Piba Con la Remera de Greenpeace",
+      "url": "https://open.spotify.com/track/6xxyN0K6opVJWMdQykqXQ7"
     },
     {
       "added_at": "2024-01-26 03:00:00",

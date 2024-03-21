@@ -1,5 +1,5 @@
 {
-  "2024-03-20": 1938,
+  "2024-03-21": 1941,
   "date_first_scraped": "2022-05-30",
   "description": "This is Terry Riley. The essential tracks, all in one playlist.",
   "name": "This Is Terry Riley",
@@ -147,7 +147,7 @@
       ],
       "date_added": "2022-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-20",
       "duration_ms": 106933,
       "name": "5 Preludes, Op. 74: No. 4. Lent, vague, indecis",
       "url": "https://open.spotify.com/track/2DTebRH0zNQK1KJU5UfW0s"
@@ -425,7 +425,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-20",
       "duration_ms": 293573,
       "name": "Barabas",
       "url": "https://open.spotify.com/track/1lc7hX8e7HtG3yMSTqukkc"
@@ -1328,6 +1328,24 @@
     },
     {
       "album": {
+        "name": "Lisbon Concert",
+        "url": "https://open.spotify.com/album/1YiDXOCXadDErfdqbMuKtI"
+      },
+      "artists": [
+        {
+          "name": "Terry Riley",
+          "url": "https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r"
+        }
+      ],
+      "date_added": "2024-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 513066,
+      "name": "Island Of Never Anger",
+      "url": "https://open.spotify.com/track/0l6GmdBZ9gZbMAKF979KvU"
+    },
+    {
+      "album": {
         "name": "No Man's Land",
         "url": "https://open.spotify.com/album/3tK0ZIMXzEbme2OQK1bpP0"
       },
@@ -2067,7 +2085,7 @@
       ],
       "date_added": "2023-02-20",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-16",
+      "date_removed": null,
       "duration_ms": 349200,
       "name": "Peace Dance",
       "url": "https://open.spotify.com/track/1C9YNw12DCN9cGGJK6wXFr"
@@ -2157,7 +2175,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-15",
+      "date_removed": null,
       "duration_ms": 273746,
       "name": "Quijote",
       "url": "https://open.spotify.com/track/52wOLvktzmhJQACPJbdoxE"
@@ -2819,7 +2837,7 @@
       ],
       "date_added": "2022-10-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-19",
+      "date_removed": null,
       "duration_ms": 396160,
       "name": "The Harp of New Albion: V. Premonition Rag",
       "url": "https://open.spotify.com/track/58Y3YZZvx40tu9FHI1kVoa"
@@ -2855,7 +2873,7 @@
       ],
       "date_added": "2024-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-20",
       "duration_ms": 514266,
       "name": "The Harp of New Albion: VII. Ascending Whale Dreams",
       "url": "https://open.spotify.com/track/1OfrxTBcsI8P1q6HbkZTYC"
@@ -3073,7 +3091,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-20",
       "duration_ms": 426866,
       "name": "The Pipes Of Medb",
       "url": "https://open.spotify.com/track/7llIs9Vk75pI5HsDXPg75x"

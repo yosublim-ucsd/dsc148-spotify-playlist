@@ -70,10 +70,28 @@
       ],
       "date_added": "2023-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-21",
       "duration_ms": 163519,
       "name": "Airhead",
       "url": "https://open.spotify.com/track/3Gsn1htwAx5KGY8SRjtIfs"
+    },
+    {
+      "album": {
+        "name": "Retrovision",
+        "url": "https://open.spotify.com/album/1BOoOLLNUPLQNTuObi2PRh"
+      },
+      "artists": [
+        {
+          "name": "Honey Revenge",
+          "url": "https://open.spotify.com/artist/1DHMgO3IIYSYPJ6CFyDYnK"
+        }
+      ],
+      "date_added": "2023-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163519,
+      "name": "Airhead",
+      "url": "https://open.spotify.com/track/7juaMHv1j8EAmEVEAlo1iT"
     },
     {
       "album": {

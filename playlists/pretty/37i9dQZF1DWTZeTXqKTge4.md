@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTZeTXqKTge4.md) - [plain]
 
 > Le meilleur du hip\-hop québécois\. Photo: Rowjay
 
-[Spotify](https://open.spotify.com/user/spotify) - 79,193 likes - 75 songs - 3 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 79,196 likes - 75 songs - 3 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTZeTXqKTge4.md) - [plain]
 | 74 | [MACHETE 2 \(Masasi\)](https://open.spotify.com/track/3ZvAGglWF7RPO7V79GNOAE) | [Deuzeus](https://open.spotify.com/artist/2KMthShLYbRTCpnEsGufqn) | [MACHETE 2 \(Masasi\)](https://open.spotify.com/album/4f4FVqHgcjS4VtL8IT5IAl) | 2:41 |
 | 75 | [Chicago](https://open.spotify.com/track/3WZhrxWOX9morcWAKhljSi) | [Izuku](https://open.spotify.com/artist/07nPO9PmOxJX3XXsCsVVW8) | [Le Roi](https://open.spotify.com/album/1vupLW3SxaTTqGyZ5m449q) | 2:36 |
 
-Snapshot ID: `MCw3NjlkZmY1MDIwZjc5ZmQzYWUwYmZmOWIxNDM1YjI5NGUxZDBhOTE3`
+Snapshot ID: `MCw2ZjE5ZDdkZGMyOTE3Y2E1NDE2M2FjNTQxNTY1ZTRmNTY2NzgzMTc5`

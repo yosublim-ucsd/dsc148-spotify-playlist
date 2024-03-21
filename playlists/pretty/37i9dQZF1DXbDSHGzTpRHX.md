@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbDSHGzTpRHX.md) - [plain]
 
 > Our editors' picks of the freshest finds of the year! Cover: Lil Tecca
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,716 likes - 100 songs - 5 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,721 likes - 100 songs - 5 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbDSHGzTpRHX.md) - [plain]
 | 35 | [Wishing For Rain](https://open.spotify.com/track/1avc8BMkZ9fJrlhD5WzaP0) | [j ember](https://open.spotify.com/artist/4UUDpbs7gikfzHz0CRvdnv) | [Wishing For Rain](https://open.spotify.com/album/2bJe3ugOMGWQ899OBo524F) | 3:17 |
 | 36 | [Meaner Girl](https://open.spotify.com/track/75Ybs07OwRvhRE1kedAhv5) | [Anna Sofia](https://open.spotify.com/artist/3ONUI6Gh4s7kcv3h0EuG2K) | [Self Aware Bitch](https://open.spotify.com/album/3AhOyLa5HZSJE0vb8ot3bn) | 3:11 |
 | 37 | [When U Loved Me](https://open.spotify.com/track/7pADtei8K3suMQlLBxR4iw) | [Hether](https://open.spotify.com/artist/5O35zGUolf87RATk2NgSD3) | [When U Loved Me](https://open.spotify.com/album/6ob1fJyKwsUIIoyjz8PL0w) | 3:11 |
-| 38 | [Breathe](https://open.spotify.com/track/1VvsPJMas06GEwf5NLV1vw) | [Catie Turner](https://open.spotify.com/artist/3nYYI90ObxhjLjdxaoXGSa) | [The Sad Vegan](https://open.spotify.com/album/3Q0RCCVgwcJgN0zUDooJoW) | 2:37 |
+| 38 | [Breathe](https://open.spotify.com/track/6EsaVcJjTUOTbXou9L2XGu) | [Catie Turner](https://open.spotify.com/artist/3nYYI90ObxhjLjdxaoXGSa) | [Pop for Sleep](https://open.spotify.com/album/697rD6oNMNcsssZsAv9qmu) | 2:37 |
 | 39 | [sucks 4 u](https://open.spotify.com/track/0qQttaaUxs4p9UdhqKUi1f) | [Sophie Cates](https://open.spotify.com/artist/4xjJOu0MWVWuaDVZOy0Dx2) | [yikes!](https://open.spotify.com/album/6Tu5CCCBJvyF0x6BQuzj0G) | 3:25 |
 | 40 | [Icing on the Cake](https://open.spotify.com/track/14Ao5GwSPhlroo0EhAgtRS) | [Grace Ives](https://open.spotify.com/artist/4TZieE5978SbTInJswaay2) | [2nd](https://open.spotify.com/album/2lKNKxM6N6Q1nkKEZw7kkJ) | 1:56 |
 | 41 | [Superfruit](https://open.spotify.com/track/7ayF9ECtSW7wG9z7jvktPQ) | [Maude Latour](https://open.spotify.com/artist/3MNLhvqJkWsO6tcjY9ps62) | [Starsick EP](https://open.spotify.com/album/4FnuxJYVZgYBwPMgxgwDJN) | 2:18 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbDSHGzTpRHX.md) - [plain]
 | 99 | [Light Personified](https://open.spotify.com/track/2JpU0BvQsFRJ6tukhc3ENx) | [Fintan](https://open.spotify.com/artist/1JLB3JYl1p8ob8o5Y35bT6) | [Then We Fall](https://open.spotify.com/album/741BgLLV8HHyGWkDkKMC1h) | 3:20 |
 | 100 | [E](https://open.spotify.com/track/5Jn3W2PPpKDj4SBQTdC8op) | [Jean Carter](https://open.spotify.com/artist/2LRR1XoqMZ64hebNjiFJqj) | [E](https://open.spotify.com/album/0oUNDHvJ03IKXEXh7LIimN) | 3:00 |
 
-Snapshot ID: `MCxlN2NiOThkM2M2NWJlMjcxYzYxMDVkYTE5ZDg4YzgxNDJlZjE2MmQ4`
+Snapshot ID: `MCw4ZTBkYjYxNTllNmQ1ZjE0NjkwZjA0NDMzZWRiOTI3YjZiZmRlN2Y3`

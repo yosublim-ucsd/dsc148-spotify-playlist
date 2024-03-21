@@ -1,12 +1,12 @@
 {
   "description": "Versos y barras de alto poder, con un takeover por Faruz Feet.",
-  "num_followers": 101530,
+  "num_followers": 101629,
   "original_name": "Ejercicio con Hip-Hop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5YWQ0NjBiNmFkYjU1YjhmOGRhOTE0ODM2ZWUzODI0MjNmNzM0N2Fj",
+  "snapshot_id": "MCxhZjJiNmQ5ZDRiMmQ4MDM3MWYzNDQxNGI4NDIxNWI0MjFkN2RkOGIz",
   "tracks": [
     {
       "added_at": "2024-01-19 00:41:26",
@@ -531,26 +531,6 @@
     {
       "added_at": "2024-01-19 00:41:26",
       "album": {
-        "name": "Culture",
-        "url": "https://open.spotify.com/album/4JTOxuvM2jcSqAvEZtZsOO"
-      },
-      "artists": [
-        {
-          "name": "Migos",
-          "url": "https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG"
-        },
-        {
-          "name": "Lil Uzi Vert",
-          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
-        }
-      ],
-      "duration_ms": 343150,
-      "name": "Bad and Boujee (feat. Lil Uzi Vert)",
-      "url": "https://open.spotify.com/track/0M9ydKzuF3oZTfYYPfaGX1"
-    },
-    {
-      "added_at": "2024-01-19 00:41:26",
-      "album": {
         "name": "Body Head Bangerz, Vol. 1",
         "url": "https://open.spotify.com/album/5VcOoSq5hMQb3bNa0sBKOe"
       },
@@ -571,6 +551,26 @@
       "duration_ms": 214400,
       "name": "Can't Be Touched (feat. Mr. Magic & Trouble)",
       "url": "https://open.spotify.com/track/3zmduBNsQ6BPDTZAkXzG5K"
+    },
+    {
+      "added_at": "2024-01-19 00:41:26",
+      "album": {
+        "name": "Culture",
+        "url": "https://open.spotify.com/album/4JTOxuvM2jcSqAvEZtZsOO"
+      },
+      "artists": [
+        {
+          "name": "Migos",
+          "url": "https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG"
+        },
+        {
+          "name": "Lil Uzi Vert",
+          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
+        }
+      ],
+      "duration_ms": 343150,
+      "name": "Bad and Boujee (feat. Lil Uzi Vert)",
+      "url": "https://open.spotify.com/track/0M9ydKzuF3oZTfYYPfaGX1"
     },
     {
       "added_at": "2024-01-19 00:41:26",

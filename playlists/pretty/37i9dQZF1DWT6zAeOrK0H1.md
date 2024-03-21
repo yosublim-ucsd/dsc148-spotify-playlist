@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT6zAeOrK0H1.md) - [plain]
 
 > Home of the best bands orbiting the universe right now\. Cover: Bleachers
 
-[Spotify](https://open.spotify.com/user/spotify) - 109,594 likes - 80 songs - 4 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 109,659 likes - 80 songs - 4 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,9 +25,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT6zAeOrK0H1.md) - [plain]
 | 15 | [Capricorn](https://open.spotify.com/track/2tKqhcDNVVKXJqllKzrecM) | [Vampire Weekend](https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx) | [Capricorn / Gen\-X Cops](https://open.spotify.com/album/3szHsSqtiYzj9UbJRgvqkv) | 4:09 |
 | 16 | [Simulation Swarm](https://open.spotify.com/track/2FwDApgXk91kXvqy2oB7dz) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [Dragon New Warm Mountain I Believe In You](https://open.spotify.com/album/7Ln81p86r5cCsesd3KBWIY) | 4:12 |
 | 17 | [Blame Brett](https://open.spotify.com/track/7Az7rVogNu6XpLnykVI5fA) | [The Beaches](https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy) | [Blame Brett](https://open.spotify.com/album/4FJuBUAQv20qh8LAxDdzjN) | 2:56 |
-| 18 | [A Love International](https://open.spotify.com/track/6Am9eCuCQELrIqImfCLhgM) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk) | [A Love International](https://open.spotify.com/album/3PKIvfo8AFCJr9dhUiKQf9) | 4:15 |
+| 18 | [Tangerine](https://open.spotify.com/track/40rOlDoGejXXF4B0BYsjx8) | [Glass Animals](https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq) | [Dreamland](https://open.spotify.com/album/5bfpRtBW7RNRdsm3tRyl3R) | 3:20 |
 | 19 | [The Feminine Urge](https://open.spotify.com/track/1gRK6QnBOpNtEDjYKftzTc) | [The Last Dinner Party](https://open.spotify.com/artist/5SHgclK1ZpTdfdAmXW7J6s) | [Prelude to Ecstasy](https://open.spotify.com/album/6ltU3hJQLHM29KJkEfBiwT) | 3:26 |
-| 20 | [Tangerine](https://open.spotify.com/track/40rOlDoGejXXF4B0BYsjx8) | [Glass Animals](https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq) | [Dreamland](https://open.spotify.com/album/5bfpRtBW7RNRdsm3tRyl3R) | 3:20 |
+| 20 | [A Love International](https://open.spotify.com/track/6Am9eCuCQELrIqImfCLhgM) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk) | [A Love International](https://open.spotify.com/album/3PKIvfo8AFCJr9dhUiKQf9) | 4:15 |
 | 21 | [Portrait of a Blank Slate](https://open.spotify.com/track/7505qe0xzCuDPaILCURnOC) | [Lovejoy](https://open.spotify.com/artist/33tFkBLsl6f8TjKkV0uF0C) | [Wake Up & It's Over](https://open.spotify.com/album/5LHuQr88XpvvuGpqgsu2gr) | 3:47 |
 | 22 | [Ready To Let Go](https://open.spotify.com/track/4UyAtnwhaKv7EG1BdkBYRI) | [Cage The Elephant](https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3) | [Social Cues](https://open.spotify.com/album/2VuZJsJBPLwg9BeQFQle8G) | 3:07 |
 | 23 | [Silent Running \(feat\. Adeleye Omotayo\)](https://open.spotify.com/track/0ZGWe02EtMpw40QAzOVZD1) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ), [Adeleye Omotayo](https://open.spotify.com/artist/1z2GIqUV62qrl1J5sXalOT) | [Cracker Island](https://open.spotify.com/album/4wtZQMNTC1O79kDxMBsEan) | 4:26 |
@@ -71,9 +71,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT6zAeOrK0H1.md) - [plain]
 | 61 | [Real Power](https://open.spotify.com/track/340KzsVkQVS4W3u8VizsBr) | [Gossip](https://open.spotify.com/artist/3sFTupo9UGgrujjN21BjwR) | [Real Power](https://open.spotify.com/album/4x6PFHaTEgzT5NsVAgszZE) | 4:15 |
 | 62 | [U&ME](https://open.spotify.com/track/3i4ColsuZEvjeLz63m0jPt) | [alt\-J](https://open.spotify.com/artist/3XHO7cRUPCLOr6jwp8vsx5) | [The Dream](https://open.spotify.com/album/5ogYKSRRlVAgMzv09HFeIn) | 3:18 |
 | 63 | [Lots of Nothing \(feat\. BENEE\)](https://open.spotify.com/track/7uTqmYA0sSjmDVpQNGDz7j) | [Spacey Jane](https://open.spotify.com/artist/6V70yeZQCoSR2M3fyW8qiA), [BENEE](https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4) | [Lots of Nothing \(feat\. BENEE\)](https://open.spotify.com/album/5mndQjQK3k72Mtx9XlDfdI) | 3:13 |
-| 64 | [Willow \(feat\. Lucy Rose\)](https://open.spotify.com/track/7m1qFwzJnebBiWkzE7RgDq) | [Bombay Bicycle Club](https://open.spotify.com/artist/3pTE9iaJTkWns3mxpNQlJV), [Lucy Rose](https://open.spotify.com/artist/2uvY5pgdD9t1CZ5zMNw1rl) | [Willow \(feat\. Lucy Rose\)](https://open.spotify.com/album/2ZbZBB7CCWqi9kgnmlSHM3) | 4:09 |
+| 64 | [Funky Galileo](https://open.spotify.com/track/7rNnqDOzc3Qoom2VhIyuxx) | [Sure Sure](https://open.spotify.com/artist/1anAI9P9iSzc9qzLv6AtHZ) | [Spirit Mission](https://open.spotify.com/album/31t6VcIOZ3WqsSH2F9Zcy0) | 4:06 |
 | 65 | [Deep End \(Paul's in Pieces\)](https://open.spotify.com/track/5QD7OqeRVdpFys4QZ3UxeS) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB) | [Laugh Track](https://open.spotify.com/album/7re8T0K3s8v3S3xeiQcOYi) | 4:29 |
-| 66 | [Funky Galileo](https://open.spotify.com/track/7rNnqDOzc3Qoom2VhIyuxx) | [Sure Sure](https://open.spotify.com/artist/1anAI9P9iSzc9qzLv6AtHZ) | [Spirit Mission](https://open.spotify.com/album/31t6VcIOZ3WqsSH2F9Zcy0) | 4:06 |
+| 66 | [Willow \(feat\. Lucy Rose\)](https://open.spotify.com/track/7m1qFwzJnebBiWkzE7RgDq) | [Bombay Bicycle Club](https://open.spotify.com/artist/3pTE9iaJTkWns3mxpNQlJV), [Lucy Rose](https://open.spotify.com/artist/2uvY5pgdD9t1CZ5zMNw1rl) | [Willow \(feat\. Lucy Rose\)](https://open.spotify.com/album/2ZbZBB7CCWqi9kgnmlSHM3) | 4:09 |
 | 67 | [Easy On Your Own?](https://open.spotify.com/track/42oq4KDYcBwAHpEkV3PuWc) | [Alvvays](https://open.spotify.com/artist/3kzwYV3OCB010YfXMF0Avt) | [Blue Rev](https://open.spotify.com/album/1dShPPoxXfzbjFO1jIHJZz) | 2:54 |
 | 68 | [Visitor](https://open.spotify.com/track/0z3Sa7vtRfn4ywaHzZzBLK) | [Of Monsters and Men](https://open.spotify.com/artist/4dwdTW1Lfiq0cM8nBAqIIz) | [Visitor](https://open.spotify.com/album/41oni1NWTzN3lOrGU4JxYf) | 3:27 |
 | 69 | [Broadview](https://open.spotify.com/track/1hTbH1tGOQ2sqVav7iDHfQ) | [Slow Pulp](https://open.spotify.com/artist/2JFTRDi5v7JtqoouVe1z5D) | [Yard](https://open.spotify.com/album/1KHEiLyeBq82jCqzllcXu9) | 4:05 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT6zAeOrK0H1.md) - [plain]
 | 79 | [Forever](https://open.spotify.com/track/64QEDKqiHt6bSU6zHNwKsv) | [Hovvdy](https://open.spotify.com/artist/59RNNqeEfkq3X5pfOQxZ3C) | [Forever](https://open.spotify.com/album/3PETlpfp2dwPJlESwbpjnt) | 3:28 |
 | 80 | [The Hardest Cut](https://open.spotify.com/track/4ZifmvedzdccUUuiGDAbTU) | [Spoon](https://open.spotify.com/artist/0K1q0nXQ8is36PzOKAMbNe) | [Lucifer On The Sofa](https://open.spotify.com/album/1szMY4QqnQZgNuyLBC4jUQ) | 3:13 |
 
-Snapshot ID: `MCw3YmQ2NTY4YjgwYjFkZTEwNGRjZDY5YTljZGUxZTAyZDkwOTJjNmU4`
+Snapshot ID: `MCw5NjA1NWFjM2NiNGRmNzFlZWQ2OWZkZmUxYTUxNzlhZmU3ZGQxYTdl`

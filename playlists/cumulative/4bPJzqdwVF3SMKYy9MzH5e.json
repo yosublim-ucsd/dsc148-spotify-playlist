@@ -32525,6 +32525,24 @@
     },
     {
       "album": {
+        "name": "High Tide in the Snake's Nest",
+        "url": "https://open.spotify.com/album/7gMzKwKAsbooGeKgDlX2TL"
+      },
+      "artists": [
+        {
+          "name": "$uicideboy$",
+          "url": "https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0"
+        }
+      ],
+      "date_added": "2024-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155016,
+      "name": "Ugly",
+      "url": "https://open.spotify.com/track/3qDbBtbRv6eBls6q51pAL7"
+    },
+    {
+      "album": {
         "name": "UNBREAKABLE",
         "url": "https://open.spotify.com/album/48PMOYTHYgM6vuiy0JiJQb"
       },

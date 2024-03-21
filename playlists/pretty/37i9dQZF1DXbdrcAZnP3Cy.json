@@ -1,12 +1,12 @@
 {
   "description": "Your favorite Mexican anthems to get the party started! Cover: Vicente Fern\u00e1ndez",
-  "num_followers": 163284,
+  "num_followers": 163334,
   "original_name": "Mexican Party Anthems",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkZmY3MDNmMzk4MGZlNTFjMDhiM2Y2NTBlOGI1ODY2MmVkMmFkYjg5",
+  "snapshot_id": "MCw0MjBlNjZlMzk5ZTQ1N2RiNzAzYjg2ZWUyMWMwYjY2Yzk2MzQ4YmIw",
   "tracks": [
     {
       "added_at": "2023-05-01 21:44:18",
@@ -223,6 +223,22 @@
     {
       "added_at": "2023-05-01 21:44:18",
       "album": {
+        "name": "Mi Mayor Anhelo",
+        "url": "https://open.spotify.com/album/3y4zsDJdS6o2oYprOn0XKp"
+      },
+      "artists": [
+        {
+          "name": "Banda MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
+        }
+      ],
+      "duration_ms": 209786,
+      "name": "Mi Mayor Anhelo",
+      "url": "https://open.spotify.com/track/0bBvuLFzIjrHm9PPyvohIA"
+    },
+    {
+      "added_at": "2023-05-01 21:44:18",
+      "album": {
         "name": "Yo Ya No Vuelvo Contigo (En Vivo)",
         "url": "https://open.spotify.com/album/78OOLWnOyjDZRqxZXlfNk9"
       },
@@ -239,22 +255,6 @@
       "duration_ms": 240456,
       "name": "Yo Ya No Vuelvo Contigo - En Vivo",
       "url": "https://open.spotify.com/track/1s59X35jDULAyOGmBuTAnd"
-    },
-    {
-      "added_at": "2023-05-01 21:44:18",
-      "album": {
-        "name": "Mi Mayor Anhelo",
-        "url": "https://open.spotify.com/album/3y4zsDJdS6o2oYprOn0XKp"
-      },
-      "artists": [
-        {
-          "name": "Banda MS de Sergio Liz\u00e1rraga",
-          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
-        }
-      ],
-      "duration_ms": 209786,
-      "name": "Mi Mayor Anhelo",
-      "url": "https://open.spotify.com/track/0bBvuLFzIjrHm9PPyvohIA"
     },
     {
       "added_at": "2023-05-01 21:44:18",

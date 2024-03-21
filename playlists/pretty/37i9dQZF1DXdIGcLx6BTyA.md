@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdIGcLx6BTyA.md) - [plain]
 
 > Roll the windows down and take a few risks out on the open, country roads.
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,907 likes - 80 songs - 4 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,909 likes - 80 songs - 4 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,8 +56,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdIGcLx6BTyA.md) - [plain]
 | 46 | [Ain't A Road Too Long](https://open.spotify.com/track/61KyJ3aQJYu4tpJEmQOHdw) | [Brent Cobb](https://open.spotify.com/artist/26C2AjqgMr5aDzj6Yp2ORz) | [Providence Canyon](https://open.spotify.com/album/5PRI3Le2iKuhNdJ8yebeVj) | 3:41 |
 | 47 | [Hey Cowgirl](https://open.spotify.com/track/2P7FJqlrDyV1lSd1MwL26c) | [Randall King](https://open.spotify.com/artist/4Uux6BdaCNrVFQ0bqGRtfh) | [Hey Cowgirl](https://open.spotify.com/album/79hKJQh5ggKdLlGBIV43bD) | 3:20 |
 | 48 | [Make It A Good One](https://open.spotify.com/track/0DchT2mXret5T9JQ8D6CLE) | [Brothers Osborne](https://open.spotify.com/artist/39NR3AUhpbbqKM33vWn2fp) | [Skeletons](https://open.spotify.com/album/0OA03FrXlln4FvE30LaEXR) | 3:25 |
-| 49 | [Welcome to Hard Times](https://open.spotify.com/track/0i3BdHdGazxdCxJHj6Jdvx) | [Charley Crockett](https://open.spotify.com/artist/3BJX1nYizKvWpZTY5HOAr4) | [Welcome to Hard Times](https://open.spotify.com/album/4HYMmAYjEyDAOQsP9B5giS) | 3:05 |
-| 50 | [American Scandal](https://open.spotify.com/track/5ktple5iUVzyQ6SJ8Z8xTK) | [Ashley McBryde](https://open.spotify.com/artist/371jpyGdoChzUASOIG2ECV) | [Girl Going Nowhere](https://open.spotify.com/album/2FeaUU9jFydTIsVO5F8rNU) | 4:02 |
+| 49 | [American Scandal](https://open.spotify.com/track/5ktple5iUVzyQ6SJ8Z8xTK) | [Ashley McBryde](https://open.spotify.com/artist/371jpyGdoChzUASOIG2ECV) | [Girl Going Nowhere](https://open.spotify.com/album/2FeaUU9jFydTIsVO5F8rNU) | 4:02 |
+| 50 | [Welcome to Hard Times](https://open.spotify.com/track/0i3BdHdGazxdCxJHj6Jdvx) | [Charley Crockett](https://open.spotify.com/artist/3BJX1nYizKvWpZTY5HOAr4) | [Welcome to Hard Times](https://open.spotify.com/album/4HYMmAYjEyDAOQsP9B5giS) | 3:05 |
 | 51 | [Crazy World \(Judgement Day\)](https://open.spotify.com/track/0ZLvbkO8VwaNhV9aS1yi6T) | [Jamestown Revival](https://open.spotify.com/artist/4w1ZBtHF0HxrGqQdB7i1it) | [San Isabel](https://open.spotify.com/album/0ujviO24y6WGV1KQwkcwIv) | 4:40 |
 | 52 | [Milk And Honey](https://open.spotify.com/track/3MBj4YAt6umNKhjOzAOWoz) | [Ondara](https://open.spotify.com/artist/33saQZHi434TBuDAXbyU2W), [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [Tales Of America \(The Second Coming\)](https://open.spotify.com/album/53NJ8rhui9uzJ1IagwQa4V) | 2:54 |
 | 53 | [Colder Than You](https://open.spotify.com/track/3AW4xZ2oFND8DUA35poagQ) | [Canaan Smith](https://open.spotify.com/artist/0q2lY1ZzFckzciuoMtUvck) | [High Country Sound](https://open.spotify.com/album/0XsPCNDdepOg4OP3Z1X6Za) | 3:21 |
@@ -65,8 +65,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdIGcLx6BTyA.md) - [plain]
 | 55 | [The Well](https://open.spotify.com/track/6PPKEOG6TwpExLXDnj1QKH) | [Marcus King](https://open.spotify.com/artist/0FeWKiZSwBRdGzqeCdlH1a) | [The Well](https://open.spotify.com/album/3rADwGRxW5AF7lya4QMFgA) | 2:57 |
 | 56 | [Small Town Hypocrite](https://open.spotify.com/track/7nalrYWirmbMdeNsVm2Jt8) | [Caylee Hammack](https://open.spotify.com/artist/1ok6sI97SuTRNc7Hjj7Uj9) | [Small Town Hypocrite](https://open.spotify.com/album/3UEjkow9opNr1y1vk63XrZ) | 4:02 |
 | 57 | [Rollin' On](https://open.spotify.com/track/0HVNChZ47EoD5xKmXJmkOX) | [Jesse Daniel](https://open.spotify.com/artist/69YAYxHfpqcXtsQ8n1pupY) | [Rollin' On](https://open.spotify.com/album/5ZMsoF7uGHmEHDGW92QGZ5) | 4:09 |
-| 58 | [Hang In There Girl](https://open.spotify.com/track/1z0HE4db7hwjjnyL4O0nbC) | [Ashley McBryde](https://open.spotify.com/artist/371jpyGdoChzUASOIG2ECV) | [Never Will](https://open.spotify.com/album/0GETdJ0C2pHIqCFLoUa0rP) | 3:49 |
-| 59 | [Time to Move On](https://open.spotify.com/track/3RKbdvirSHpLVwbwQRqtZE) | [Ward Davis](https://open.spotify.com/artist/2Tpxz9WfPRZGQNSCzrjk0a) | [Asunder](https://open.spotify.com/album/0ld0jOVy5wuXqUqCU7Xpf8) | 3:49 |
+| 58 | [Time to Move On](https://open.spotify.com/track/3RKbdvirSHpLVwbwQRqtZE) | [Ward Davis](https://open.spotify.com/artist/2Tpxz9WfPRZGQNSCzrjk0a) | [Asunder](https://open.spotify.com/album/0ld0jOVy5wuXqUqCU7Xpf8) | 3:49 |
+| 59 | [Hang In There Girl](https://open.spotify.com/track/1z0HE4db7hwjjnyL4O0nbC) | [Ashley McBryde](https://open.spotify.com/artist/371jpyGdoChzUASOIG2ECV) | [Never Will](https://open.spotify.com/album/0GETdJ0C2pHIqCFLoUa0rP) | 3:49 |
 | 60 | [Learning to Lose \(feat\. Willie Nelson\)](https://open.spotify.com/track/7AA9ZppMBiNOGSW0nR6hxc) | [Margo Price](https://open.spotify.com/artist/09yvLritEUxHrzx5TlFvbl), [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [All American Made](https://open.spotify.com/album/5XbPhu08VoGqOT06oLpHhN) | 6:19 |
 | 61 | [Heartland](https://open.spotify.com/track/6kFW0TFC9WK2Nq2Rjg2fGp) | [Hailey Whitters](https://open.spotify.com/artist/4e9TBaTlI3LVQz3tkTYC0I) | [The Dream](https://open.spotify.com/album/1UfyxIrWgV9362cakdeucO) | 3:31 |
 | 62 | [Wine, Beer, Whiskey \- Radio Edit](https://open.spotify.com/track/2q4ooWQ4KvVhN2oX44m2D4) | [Little Big Town](https://open.spotify.com/artist/3CygdxquGHurS7f9LjNLkv) | [Wine, Beer, Whiskey \(Radio Edit\)](https://open.spotify.com/album/4Th8fDtKCTD6lrmK43tcqR) | 3:04 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdIGcLx6BTyA.md) - [plain]
 | 79 | [Lotta Fun](https://open.spotify.com/track/4Qpm33fWxkNNV4wJ0rTLYE) | [Lukas Nelson and Promise of the Real](https://open.spotify.com/artist/5iXYJYmMcjlTFL1qA8UfgY) | [Turn Off The News \(Build A Garden\)](https://open.spotify.com/album/4pq1gNWh38JQfazZqxjH5m) | 2:57 |
 | 80 | [Drive](https://open.spotify.com/track/6is4HZ5UFpIPGxUNdVdKbV) | [Ashley Monroe](https://open.spotify.com/artist/37BiX28I6pF104F92U1hDP) | [Drive](https://open.spotify.com/album/1uyjNRxaNNpqYFPBXMAXsZ) | 2:48 |
 
-Snapshot ID: `MCxkNzhjYTJlNDEwNmQ0NDI2ZGVlYWZlZmZjOTQ4NDlhODE4N2QzM2Yx`
+Snapshot ID: `MCxhY2EwMWQxYjI2Nzk4NDRkMjJmYzIxY2YyY2I3YTMyZWRmY2YwYjQ1`

@@ -1,10 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX7JWqNxz28IX.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX7JWqNxz28IX) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX7JWqNxz28IX)
 
-### [ragazzo triste](https://open.spotify.com/playlist/37i9dQZF1DX7JWqNxz28IX)
+### [rap triste](https://open.spotify.com/playlist/37i9dQZF1DX7JWqNxz28IX)
 
-> canzoni tristi per chi ha un cuore così 💔  \(in cover, nashley\)
+> rap tristi per chi ha un cuore così 💔 \(in cover, chiello\)
 
-260 songs - 11 hr 36 min
+261 songs - 11 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,7 +25,7 @@
 | [APNEA \- MTV Unplugged](https://open.spotify.com/track/3DP8cUzSO9tJx7tGShuS4c) | [Rkomi](https://open.spotify.com/artist/056KMTw6IztdQjBmFfVyO3) | [TAXI DRIVER \(MTV Unplugged\)](https://open.spotify.com/album/3cZPj6lCLw8aia3nAiNKo8) | 3:25 | 2022-07-28 |  |
 | [ASPETTANDO IL MIRACOLO](https://open.spotify.com/track/4HRrnbzrZJEXJYYuI1HU2S) | [Jellish](https://open.spotify.com/artist/33D8InnKCbdhCPUls8B4NU), [FREESO](https://open.spotify.com/artist/0oeY7yydJwva0gTUVN5vsI) | [ASPETTANDO IL MIRACOLO](https://open.spotify.com/album/1ENGxtMXehMFKiMtvLnD1Y) | 3:10 | 2023-02-23 | 2023-04-28 |
 | [Atlantico](https://open.spotify.com/track/5iCAVJsoCu15BJSVsUZJ47) | [Nisba](https://open.spotify.com/artist/0rAJoDmXBTVc0FSkEnbnQa) | [Atlantico](https://open.spotify.com/album/6p0QSYcbHPZ26dbKVAGqEb) | 3:16 | 2023-11-24 |  |
-| [Attacco di Panico](https://open.spotify.com/track/16w3jEiUvbHNYtEajmzh86) | [Lost Kids](https://open.spotify.com/artist/5ly3ec0V7ETrC9fSvOX9G6) | [Attacco di Panico](https://open.spotify.com/album/32S1XPsFLlpWzKXHhfHpli) | 2:25 | 2022-09-29 |  |
+| [Attacco di Panico](https://open.spotify.com/track/16w3jEiUvbHNYtEajmzh86) | [Lost Kids](https://open.spotify.com/artist/5ly3ec0V7ETrC9fSvOX9G6) | [Attacco di Panico](https://open.spotify.com/album/32S1XPsFLlpWzKXHhfHpli) | 2:25 | 2022-09-29 | 2024-03-21 |
 | [au revoir \(feat\. Dreno & Naver\)](https://open.spotify.com/track/5R6CBDrtdq73zYmSs3BgTR) | [Dr\. Wesh](https://open.spotify.com/artist/5qTA5yhqkIYIwFNwdCLFP0), [Naver](https://open.spotify.com/artist/5uAeyLL0e4StdJe6JvhLep), [Dreno](https://open.spotify.com/artist/2fUb7chMl4K5DQ3NwX2GgW) | [au revoir \(feat\. Dreno & Naver\)](https://open.spotify.com/album/1StOOfB2TRMIYzHQaq6kNU) | 2:26 | 2022-12-05 | 2023-03-25 |
 | [Aurora](https://open.spotify.com/track/5yhmgsfH8EhS0mAOIb1n6T) | [Elteep](https://open.spotify.com/artist/0eoUjdIgU7Heid0Mv3EjLB), [Lil Sanax](https://open.spotify.com/artist/08kfcguo6aDqrugFck6JwI) | [Aurora](https://open.spotify.com/album/43ynx05t8Kyc34nLqcrCB9) | 2:54 | 2022-04-21 |  |
 | [Autodistruzione](https://open.spotify.com/track/3IE4l7yd9Ez4a0XXjRvQDF) | [AUTOSTIMA](https://open.spotify.com/artist/5kXkrD3qvUVaANqQoPCbae) | [Autodistruzione](https://open.spotify.com/album/3Ul8ixMEyurYLf4y2qMDX1) | 2:34 | 2022-09-08 | 2023-02-01 |
@@ -208,6 +208,7 @@
 | [sai che...](https://open.spotify.com/track/4c6jiOliq2aRpdMW4RMKbH) | [Kid Vice](https://open.spotify.com/artist/3bnPjo8qyh6NrIw5PdRpBo), [maxwell da costa](https://open.spotify.com/artist/7fBNjQ2hEvNyisqpp8o4ZT) | [sai che...](https://open.spotify.com/album/6rSIRykSXswYGYZA0YFg9b) | 2:40 | 2023-02-23 |  |
 | [SBAGLI](https://open.spotify.com/track/376pQQ2QTVuqOP1HmiKymm) | [Zeta](https://open.spotify.com/artist/6gRamOYCDmzgHxeWxO1RRP) | [SBAGLI](https://open.spotify.com/album/2QBjof3TQC9crDTYKzz8dg) | 2:38 | 2023-06-14 | 2023-11-28 |
 | [Scusa ma](https://open.spotify.com/track/3L5SVDUdpBW9eqRAOxvISm) | [Fraespo](https://open.spotify.com/artist/3rQIeU2xZreyflzbL0jbKQ) | [Scusa ma](https://open.spotify.com/album/6tI9hNlP5hi9QtsvSDTRiY) | 1:41 | 2022-04-21 |  |
+| [se ne va](https://open.spotify.com/track/3zWXAQuZ2cgRb2p0xqAORS) | [Nayt](https://open.spotify.com/artist/7tmTvmqgTBcX88ZrSHByrD), [3D](https://open.spotify.com/artist/5K92J8NwWAlu6fRN2uoHVN) | [HABITAT](https://open.spotify.com/album/5S2RzVtE5dwhqZHK9UH767) | 2:43 | 2024-03-20 |  |
 | [Sedato e Deluso](https://open.spotify.com/track/531bbjLIkNTtEGtRvWVCxo) | [Shama24k](https://open.spotify.com/artist/1VcAFcOFWGpmBdq1PvFTTm), [Elan Rood](https://open.spotify.com/artist/3vmujWaYbWHmCNWz76zYxy) | [Sedato e Deluso](https://open.spotify.com/album/7kIEYHH4kTmUmU2r8Uzler) | 3:22 | 2023-10-27 |  |
 | [Segnali di fumo](https://open.spotify.com/track/0jiy4Q3fQCkAvVPAFGpylh) | [alessioego](https://open.spotify.com/artist/2rFgWypbBE4LzXAGKDwNb6) | [Segnali di fumo](https://open.spotify.com/album/4fmwfuMhCQHB2GUcGkivn1) | 3:06 | 2023-01-12 | 2023-03-31 |
 | [Sei stata la canzone più bella del mondo](https://open.spotify.com/track/5wQQrl0Mk6QhcATNZqypux) | [Incubo](https://open.spotify.com/artist/0IdAopcNZfTVh5Lx8H3sDm) | [Sei stata la canzone più bella del mondo](https://open.spotify.com/album/4gKDciM57bbYTRYa9DHaU2) | 3:04 | 2022-04-21 | 2023-02-25 |

@@ -4,7 +4,7 @@
 
 > A sonic wonderland of mesmerizing tunes...
 
-289 songs - 18 hr 36 min
+290 songs - 18 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -144,7 +144,8 @@
 | [Lexicon](https://open.spotify.com/track/0NprRZn1emMhdnHIOdsk0U) | [Vagabon](https://open.spotify.com/artist/17mwzDXKn4ra9cuxXaptwp) | [Sorry I Haven't Called](https://open.spotify.com/album/5kTccsRBDxgf0Wgq4nb9PH) | 2:57 | 2023-09-25 | 2024-01-11 |
 | [Like Coconut Water](https://open.spotify.com/track/28pnWcdTLT64CupOvo26Ed) | [BALTHVS](https://open.spotify.com/artist/2CtiNJi0zB35RHYXViVjKG) | [Like Coconut Water](https://open.spotify.com/album/5j86EWmljEfisr53Kocm1e) | 3:11 | 2023-11-07 | 2024-01-06 |
 | [Lonely Times](https://open.spotify.com/track/66fHmVMVKYLwNzIdwrZADI) | [Keep Shelly In Athens](https://open.spotify.com/artist/15cJEqQvfVczJK2DVdY6DV) | [Lonely Times](https://open.spotify.com/album/52NC1y7dIs0EjOJf9UFc04) | 3:17 | 2023-11-24 | 2024-01-04 |
-| [Lose](https://open.spotify.com/track/729EJVbWkITU4vAc690cFE) | [Boeckner](https://open.spotify.com/artist/1SdWYxZBt4RjvyXcMbtxyE) | [Lose](https://open.spotify.com/album/4ddL8UW6YILIWxd0g185KP) | 4:51 | 2024-01-30 |  |
+| [Lose](https://open.spotify.com/track/5fSUc2h13lsyCcGLhzfTED) | [Boeckner](https://open.spotify.com/artist/1SdWYxZBt4RjvyXcMbtxyE) | [Boeckner!](https://open.spotify.com/album/1we8POeAomGmp8hTzGFdaW) | 4:51 | 2024-01-30 |  |
+| [Lose](https://open.spotify.com/track/729EJVbWkITU4vAc690cFE) | [Boeckner](https://open.spotify.com/artist/1SdWYxZBt4RjvyXcMbtxyE) | [Lose](https://open.spotify.com/album/4ddL8UW6YILIWxd0g185KP) | 4:51 | 2024-01-30 | 2024-03-21 |
 | [Lose](https://open.spotify.com/track/23Suz2um7Wp2WULUePemCv) | [Hannah Jadagu](https://open.spotify.com/artist/523ty8zP7K5cPIdenUm4bj) | [Aperture](https://open.spotify.com/album/3TqG6PvryjXqG4OplypY9A) | 3:16 | 2023-05-17 | 2023-06-16 |
 | [Lose](https://open.spotify.com/track/2w5QAzFA6bwErf3Xo05mQK) | [Hannah Jadagu](https://open.spotify.com/artist/523ty8zP7K5cPIdenUm4bj) | [Lose](https://open.spotify.com/album/3ZTQVeyP8qtTnjlp0XLWL9) | 3:16 | 2023-05-17 | 2023-05-25 |
 | [Lose My Head](https://open.spotify.com/track/4KefSDm2uulCInC38hXKYj) | [Alice Phoebe Lou](https://open.spotify.com/artist/03uMw43UVu9MsQCcHVSGjX) | [Lose My Head](https://open.spotify.com/album/3q8cttdPEVNFCZwCxe47B5) | 2:30 | 2023-06-02 | 2023-06-16 |

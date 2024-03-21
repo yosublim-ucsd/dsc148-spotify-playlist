@@ -4,7 +4,7 @@
 
 > Hip hop tracks to kick your workout up a notch
 
-163 songs - 8 hr 12 min
+164 songs - 8 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,7 +18,7 @@
 | [Always \(feat\. Black Sherif\)](https://open.spotify.com/track/2koM4vqlpUzeRbNkjsDBwF) | [Darkoo](https://open.spotify.com/artist/4QSTyDpxsKmv3UfavVUImR), [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ) | [Always \(feat\. Black Sherif\)](https://open.spotify.com/album/0ZYjSOqqH5cw3rxkIjIeKH) | 2:34 | 2022-02-24 |  |
 | [American Nightmare](https://open.spotify.com/track/0kyZKb0LRPwfYprxGiqaV5) | [Belly](https://open.spotify.com/artist/0FOWNUFHPnMy0vOw1siGqi) | [American Nightmare](https://open.spotify.com/album/7qZIkDmB4T3YFHgMN9Hcg3) | 3:11 | 2023-04-21 | 2023-11-10 |
 | [Anadwo](https://open.spotify.com/track/28kK6tGNpEVpBYiyu6dot1) | [Jay Bahd](https://open.spotify.com/artist/0Q7yvULFrthrEzwtn5hRcw) | [Anadwo](https://open.spotify.com/album/5NTCRsZ3s9YSUPi9QiGRuh) | 2:50 | 2022-12-02 | 2023-09-10 |
-| [Assignment](https://open.spotify.com/track/1Crv7EI1sdcy07OlvvoA2Y) | [KiddBlack](https://open.spotify.com/artist/3vQvbO6Fd24F5StyZp1UMH), [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ), [DJ FortuneDJ](https://open.spotify.com/artist/3H1ujqsrtJXeYDoJ2Ar9I9) | [Assignment](https://open.spotify.com/album/2CnjO9KA45Cu5OTtshEr0D) | 2:17 | 2021-11-18 |  |
+| [Assignment](https://open.spotify.com/track/1Crv7EI1sdcy07OlvvoA2Y) | [KiddBlack](https://open.spotify.com/artist/3vQvbO6Fd24F5StyZp1UMH), [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ), [DJ FortuneDJ](https://open.spotify.com/artist/3H1ujqsrtJXeYDoJ2Ar9I9) | [Assignment](https://open.spotify.com/album/2CnjO9KA45Cu5OTtshEr0D) | 2:17 | 2021-11-18 | 2024-03-21 |
 | [Awoyo Sofo](https://open.spotify.com/track/0AYl4k8cN3YXxVb88azE9K) | [Kwaw Kese](https://open.spotify.com/artist/5orboL2SUTJGDKfMVgCCBt), [Kofi Mole](https://open.spotify.com/artist/7zB3I7PBh39rcwg2haB5Ac) | [Awoyo Sofo](https://open.spotify.com/album/0GvruFtY50oHOTlsixNnah) | 3:15 | 2024-03-08 |  |
 | [Back Into It](https://open.spotify.com/track/3Kyr9vr7VP2NLc9lBqxQFZ) | [Blxckie](https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL) | [Back Into It](https://open.spotify.com/album/2p3kYxinqZYCrQaHWiF4gT) | 2:42 | 2023-12-01 |  |
 | [BAD GUY](https://open.spotify.com/track/6wuIh8EH2MYLI5su3FZ935) | [A\-Reece](https://open.spotify.com/artist/5TirRF3azWV5OpyufcDCFP) | [DEADLINES: FREE P2](https://open.spotify.com/album/5DvFNfnvFyPLDZp5gQm8ir) | 1:32 | 2022-10-21 | 2022-12-13 |
@@ -54,6 +54,7 @@
 | [E.N.K.R](https://open.spotify.com/track/2ZHm36ojzqkGPOfpkNpcJ4) | [Reminisce](https://open.spotify.com/artist/4YIOi9aFNviV1jRQeiNZgO) | [E.N.K.R](https://open.spotify.com/album/6fUW1ADYZQIxY81HfkxKEf) | 0:55 | 2023-08-10 | 2023-10-18 |
 | [Early Hours](https://open.spotify.com/track/3NWzA0reKxIRyXPZtBHTDB) | [ArrDee](https://open.spotify.com/artist/7m0BsF0t3K9WQFgKoPejfk) | [Pier Pressure](https://open.spotify.com/album/2acy6L0ZXAGSHoW6TIVtyW) | 2:46 | 2022-03-17 | 2023-10-18 |
 | [Ease](https://open.spotify.com/track/39qkz1q7TkelO5Eb6YTKOv) | [AKA](https://open.spotify.com/artist/1QIghPIrXQQ22G1yNtAKFX), [Blxckie](https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL), [Yanga Chief](https://open.spotify.com/artist/30WlMKuvwN6RrMeLARZeqk) | [MASS COUNTRY](https://open.spotify.com/album/376vzaVcBQAbefjO1t7vu5) | 4:17 | 2023-02-23 | 2023-04-21 |
+| [Egberi](https://open.spotify.com/track/1pt9MqNMJQUHtdTwaswwwR) | [KAESTYLE](https://open.spotify.com/artist/0o4t6y0LBJWs76vvuuzg50) | [Egberi](https://open.spotify.com/album/3sL4tYNg9xEmoL5uX5M1RP) | 2:19 | 2024-03-20 |  |
 | [Evil Ways \(feat\. J\. Cole\)](https://open.spotify.com/track/2ut4BOQSqxLpcX5MtPjzYa) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [For All The Dogs Scary Hours Edition](https://open.spotify.com/album/4Q7cRXio6mF2ImVUCcezPO) | 3:47 | 2023-11-17 |  |
 | [FAKE NIKES \(feat\. Blxckie & Cheque\)](https://open.spotify.com/track/0EW6FrqEuVFwZ36k502Pwy) | [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W), [Blxckie](https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL), [Cheque](https://open.spotify.com/artist/4oQyXxDBq8FBhsjjS7MbcM) | [YOUNG PREACHER](https://open.spotify.com/album/4cz1acZPi8BkrfmIooqnlV) | 3:01 | 2022-10-30 | 2022-11-11 |
 | [FAKE NIKES \(feat\. Blxckie & Cheque\)](https://open.spotify.com/track/7bhBk8gX5aRsiUTBaaaCwq) | [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W), [Blxckie](https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL), [Cheque](https://open.spotify.com/artist/4oQyXxDBq8FBhsjjS7MbcM) | [Young Preacher](https://open.spotify.com/album/5J4BbjFnBq9C31xsph3ld2) | 3:01 | 2022-10-30 |  |

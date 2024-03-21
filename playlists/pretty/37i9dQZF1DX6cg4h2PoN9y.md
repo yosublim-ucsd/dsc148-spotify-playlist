@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6cg4h2PoN9y.md) - [plain]
 
 > All things Billie!
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,955,913 likes - 52 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,956,334 likes - 52 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,4 +61,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6cg4h2PoN9y.md) - [plain]
 | 51 | [&burn \(with Vince Staples\)](https://open.spotify.com/track/7uX3gufAoBVqKVoD3dBLLD) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH), [Vince Staples](https://open.spotify.com/artist/68kEuyFKyqrdQQLLsmiatm) | [&burn \(with Vince Staples\)](https://open.spotify.com/album/6eQpKhYCtvD0TwXQVHsgC2) | 2:59 |
 | 52 | [party favor](https://open.spotify.com/track/3WxmlTZ85sCYFnuIXmUAEe) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [dont smile at me](https://open.spotify.com/album/7fRrTyKvE4Skh93v97gtcU) | 3:24 |
 
-Snapshot ID: `MCwzN2EzNjAzOWNhYjFjYTJiM2ZlZDY3NDIyOTYyZjJhZmJiZWRiZTU4`
+Snapshot ID: `MCwwYzQ3YjgxMmU3ODQzOGNiNTBmZjc2NzUzYzg3MWMwMDBkM2MyYjA3`

@@ -1,5 +1,5 @@
 {
-  "2024-03-20": 55293,
+  "2024-03-21": 55295,
   "date_first_scraped": "2022-01-01",
   "description": "Your daily update of the most viral tracks right now - Canada.",
   "name": "Viral 50 - Canada",
@@ -1765,6 +1765,24 @@
       "duration_ms": 113706,
       "name": "act ii: date @ 8",
       "url": "https://open.spotify.com/track/3V61OemfXgsHhb50Hrt1lT"
+    },
+    {
+      "album": {
+        "name": "act iii: on god? (she like)",
+        "url": "https://open.spotify.com/album/3Tq1vvYtgk2AgJpB9f2lTb"
+      },
+      "artists": [
+        {
+          "name": "4batz",
+          "url": "https://open.spotify.com/artist/5fi7lIgJGH3RgUpJYcffQ7"
+        }
+      ],
+      "date_added": "2024-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170440,
+      "name": "act iii: on god? (she like)",
+      "url": "https://open.spotify.com/track/30uO152on2tYWoE99VaEL5"
     },
     {
       "album": {
@@ -6231,7 +6249,7 @@
       ],
       "date_added": "2024-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-20",
       "duration_ms": 352106,
       "name": "Bridge Over Troubled Water (feat. John Legend & Tori Kelly)",
       "url": "https://open.spotify.com/track/4asa5agcZmibrmpTmb1q6m"
@@ -9997,7 +10015,7 @@
       ],
       "date_added": "2024-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-20",
       "duration_ms": 192693,
       "name": "Devil You Know",
       "url": "https://open.spotify.com/track/6tWGe6nvXFWT0KhGCXM89q"
@@ -11647,7 +11665,7 @@
       ],
       "date_added": "2024-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-20",
       "duration_ms": 164545,
       "name": "EASY",
       "url": "https://open.spotify.com/track/2O4Bb2WCkjlTPO827OnBMI"
@@ -12742,6 +12760,24 @@
     },
     {
       "album": {
+        "name": "MC NATION",
+        "url": "https://open.spotify.com/album/147OAO3FVG8epxoE10Gw0N"
+      },
+      "artists": [
+        {
+          "name": "MC BXB",
+          "url": "https://open.spotify.com/artist/0OWToUlGPyXUSAcrCZxu3g"
+        }
+      ],
+      "date_added": "2024-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159023,
+      "name": "F.Y.B.F - GOODIES REMIX",
+      "url": "https://open.spotify.com/track/5jxKwvCzOxhctiYXgUmjcn"
+    },
+    {
+      "album": {
         "name": "Fact (feat. Lil Uzi Vert)",
         "url": "https://open.spotify.com/album/4lpOnXYfA4BRnZzx54EhqX"
       },
@@ -13125,6 +13161,24 @@
       "duration_ms": 160578,
       "name": "Fast Forward",
       "url": "https://open.spotify.com/track/7jzOZuWgZ5gaMet9V5Ix1d"
+    },
+    {
+      "album": {
+        "name": "Faster n Harder",
+        "url": "https://open.spotify.com/album/60Ip03ili2ml9zed9hmQ9W"
+      },
+      "artists": [
+        {
+          "name": "6arelyhuman",
+          "url": "https://open.spotify.com/artist/1oYXEVbGh1L7EWGm9C68cN"
+        }
+      ],
+      "date_added": "2024-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123428,
+      "name": "Faster n Harder",
+      "url": "https://open.spotify.com/track/3qaMprRWLGggArD14diXYz"
     },
     {
       "album": {
@@ -13831,7 +13885,7 @@
       ],
       "date_added": "2024-03-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-18",
+      "date_removed": null,
       "duration_ms": 140606,
       "name": "FLORIDA BABY",
       "url": "https://open.spotify.com/track/722k2gLamerL9i7bTlGJrm"
@@ -14915,7 +14969,7 @@
       ],
       "date_added": "2024-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-20",
       "duration_ms": 120792,
       "name": "Get In With Me",
       "url": "https://open.spotify.com/track/6bryx7HyB4lVDc0KQXuoJ0"
@@ -23581,7 +23635,7 @@
       ],
       "date_added": "2024-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-20",
       "duration_ms": 158822,
       "name": "Lifetime",
       "url": "https://open.spotify.com/track/1oH6oeK8iKeRL9VTQY5w2r"
@@ -29538,6 +29592,28 @@
     },
     {
       "album": {
+        "name": "For Keeps",
+        "url": "https://open.spotify.com/album/2vhDs4vI5ngRZCLW0a82yj"
+      },
+      "artists": [
+        {
+          "name": "Too Close To Touch",
+          "url": "https://open.spotify.com/artist/2XziUthG3Ug3eiWuE5KRsp"
+        },
+        {
+          "name": "Bad Omens",
+          "url": "https://open.spotify.com/artist/3Ri4H12KFyu98LMjSoij5V"
+        }
+      ],
+      "date_added": "2024-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 295775,
+      "name": "Novocaine",
+      "url": "https://open.spotify.com/track/4JJpEYYamr363Kbc4zdw1h"
+    },
+    {
+      "album": {
         "name": "1989 (Taylor's Version)",
         "url": "https://open.spotify.com/album/64LU4c1nfjz1t4VnGhagcg"
       },
@@ -31271,6 +31347,24 @@
       "duration_ms": 224835,
       "name": "Patadas de Ahogado",
       "url": "https://open.spotify.com/track/4WefXOf8I4gMjdj2kBJgkl"
+    },
+    {
+      "album": {
+        "name": "Patadas de Ahogado / LATIN MAFIA (Rework)",
+        "url": "https://open.spotify.com/album/4XNpw8KZFcml3E0wz4ZyYx"
+      },
+      "artists": [
+        {
+          "name": "HUGEL",
+          "url": "https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By"
+        }
+      ],
+      "date_added": "2024-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186341,
+      "name": "Patadas de Ahogado / LATIN MAFIA - Rework",
+      "url": "https://open.spotify.com/track/14S2VMZRhekYGluotZ4pqg"
     },
     {
       "album": {
@@ -34367,7 +34461,7 @@
       ],
       "date_added": "2024-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-20",
       "duration_ms": 188750,
       "name": "Run Back To You",
       "url": "https://open.spotify.com/track/0W6cB9dPUnsL5iKOpxuSAK"
@@ -37685,7 +37779,7 @@
       ],
       "date_added": "2024-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-20",
       "duration_ms": 155983,
       "name": "Son of a Bitch",
       "url": "https://open.spotify.com/track/5EyxR5yEN3mohQ5EycOpII"
@@ -38381,7 +38475,7 @@
       ],
       "date_added": "2024-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-20",
       "duration_ms": 209417,
       "name": "Stay in Your Lane",
       "url": "https://open.spotify.com/track/7chJUlntiQSp66oeNSVsid"
@@ -40313,7 +40407,7 @@
       ],
       "date_added": "2024-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-20",
       "duration_ms": 235636,
       "name": "TEXAS HOLD 'EM",
       "url": "https://open.spotify.com/track/7AYmToZ5y67fBjq4RLFbuq"
@@ -43012,6 +43106,36 @@
     },
     {
       "album": {
+        "name": "Tshwala Bam (feat. S.N.E, EeQue)",
+        "url": "https://open.spotify.com/album/4lZSgj4cw3cmEvw0KQXNnY"
+      },
+      "artists": [
+        {
+          "name": "TitoM",
+          "url": "https://open.spotify.com/artist/5eYSqn4LCXLgIFYR4qOZ1k"
+        },
+        {
+          "name": "Yuppe",
+          "url": "https://open.spotify.com/artist/0M6k4Kgi5NiIDnafSKSLE0"
+        },
+        {
+          "name": "EeQue",
+          "url": "https://open.spotify.com/artist/4VqCBSJ9fvJ1XDQUd7K2Ft"
+        },
+        {
+          "name": "S.N.E",
+          "url": "https://open.spotify.com/artist/16RKP7aw26uSkNpadpEgaF"
+        }
+      ],
+      "date_added": "2024-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 390000,
+      "name": "Tshwala Bam (feat. S.N.E, EeQue)",
+      "url": "https://open.spotify.com/track/54seQV7MCcppBrznALCdlT"
+    },
+    {
+      "album": {
         "name": "Tu hai kahan",
         "url": "https://open.spotify.com/album/73vfz6Szer7i3GFIesix6l"
       },
@@ -43185,6 +43309,28 @@
       "duration_ms": 109800,
       "name": "Turn Red",
       "url": "https://open.spotify.com/track/6mTcIbKdnX6IIp8c305yQw"
+    },
+    {
+      "album": {
+        "name": "Texas Technician",
+        "url": "https://open.spotify.com/album/2L5fQG5lbyMkG6iyNNj3uR"
+      },
+      "artists": [
+        {
+          "name": "That Mexican OT",
+          "url": "https://open.spotify.com/artist/3BAgmPNIK5IJl7zMK1wvMA"
+        },
+        {
+          "name": "Moneybagg Yo",
+          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
+        }
+      ],
+      "date_added": "2024-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126465,
+      "name": "Twisting Fingers (with Moneybagg Yo)",
+      "url": "https://open.spotify.com/track/59ixjAY05WENR6TitS0EKh"
     },
     {
       "album": {
@@ -43823,6 +43969,28 @@
       "duration_ms": 259333,
       "name": "Unwritten",
       "url": "https://open.spotify.com/track/3U5JVgI2x4rDyHGObzJfNf"
+    },
+    {
+      "album": {
+        "name": "UP!",
+        "url": "https://open.spotify.com/album/2WoIZTbS7s8uNtRf9G6QOP"
+      },
+      "artists": [
+        {
+          "name": "Forrest Frank",
+          "url": "https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ"
+        },
+        {
+          "name": "Connor Price",
+          "url": "https://open.spotify.com/artist/5zixe6AbgXPqt4c1uSl94L"
+        }
+      ],
+      "date_added": "2024-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136968,
+      "name": "UP!",
+      "url": "https://open.spotify.com/track/50utqknCBo0N3QAQbXIPKV"
     },
     {
       "album": {

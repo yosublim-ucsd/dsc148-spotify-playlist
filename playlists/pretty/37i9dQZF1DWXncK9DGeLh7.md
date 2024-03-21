@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXncK9DGeLh7.md) - [plain]
 
 > 100% soul et funk ! Photo : Silk Sonic
 
-[Spotify](https://open.spotify.com/user/spotify) - 332,016 likes - 60 songs - 3 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 332,053 likes - 60 songs - 3 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXncK9DGeLh7.md) - [plain]
 | 38 | [Cosmic Girl \- Remastered 2013](https://open.spotify.com/track/6y0Etr2KJr0sdcEp7ajoUK) | [Jamiroquai](https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid) | [Travelling Without Moving \(Remastered\)](https://open.spotify.com/album/4yrrPNjd9RcqnuDnoEhlER) | 4:04 |
 | 39 | [It's A Shame](https://open.spotify.com/track/1l1YTy9nJ0trwhsCGcimly) | [The Spinners](https://open.spotify.com/artist/5fbhwqYYh4YwUoEs582mq5) | [2nd Time Around \(Expanded Edition\)](https://open.spotify.com/album/5FWAviP7cXvH8iOVENSaNG) | 3:10 |
 | 40 | [Think](https://open.spotify.com/track/4yQw7FR9lcvL6RHtegbJBh) | [Aretha Franklin](https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok) | [Aretha Now](https://open.spotify.com/album/55HZ2ectg1mMTEKDqIq3kC) | 2:19 |
-| 41 | [Land of 1000 Dances](https://open.spotify.com/track/76ICmoJ4PcoMWoooaTxnQs) | [Wilson Pickett](https://open.spotify.com/artist/0N5PyKJzS3M1XNlaCL7bbE) | [The Exciting Wilson Pickett](https://open.spotify.com/album/3fxWzXNMhTz01uShzMARnm) | 2:26 |
-| 42 | [I Can't Go for That \(No Can Do\)](https://open.spotify.com/track/41dDygR3r7e926oGUXfrLt) | [Daryl Hall & John Oates](https://open.spotify.com/artist/77tT1kLj6mCWtFNqiOmP9H) | [Private Eyes \(Expanded Edition\)](https://open.spotify.com/album/7rfpaXxmQG7dnFycZjLae0) | 5:07 |
+| 41 | [I Can't Go for That \(No Can Do\)](https://open.spotify.com/track/41dDygR3r7e926oGUXfrLt) | [Daryl Hall & John Oates](https://open.spotify.com/artist/77tT1kLj6mCWtFNqiOmP9H) | [Private Eyes \(Expanded Edition\)](https://open.spotify.com/album/7rfpaXxmQG7dnFycZjLae0) | 5:07 |
+| 42 | [Land of 1000 Dances](https://open.spotify.com/track/76ICmoJ4PcoMWoooaTxnQs) | [Wilson Pickett](https://open.spotify.com/artist/0N5PyKJzS3M1XNlaCL7bbE) | [The Exciting Wilson Pickett](https://open.spotify.com/album/3fxWzXNMhTz01uShzMARnm) | 2:26 |
 | 43 | [Got To Give It Up \- Pt\. 1](https://open.spotify.com/track/7ohR0qPH6f2Vuj2pUNanJG) | [Marvin Gaye](https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA) | [Every Great Motown Hit Of Marvin Gaye](https://open.spotify.com/album/4JdEAA9aYadM2pZ96VHKNL) | 4:15 |
 | 44 | [I Wish](https://open.spotify.com/track/687YZan9Gol1UVvbpUSO6Y) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [Songs In The Key Of Life](https://open.spotify.com/album/6YUCc2RiXcEKS9ibuZxjt0) | 4:12 |
 | 45 | [I'm Every Woman](https://open.spotify.com/track/1oFiPGBafH9Woo9AMwgBSl) | [Chaka Khan](https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT) | [Chaka](https://open.spotify.com/album/2lvaLIoEg3hwL2dybu6zTC) | 4:09 |
@@ -67,6 +67,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXncK9DGeLh7.md) - [plain]
 | 57 | [September](https://open.spotify.com/track/7Cuk8jsPPoNYQWXK9XRFvG) | [Earth, Wind & Fire](https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg) | [September](https://open.spotify.com/album/4MgtwNYjD89Oj2km6eFRYd) | 3:35 |
 | 58 | [Move on Up \- Single Edit](https://open.spotify.com/track/0MHXrqn909p0LRTPsNsGEi) | [Curtis Mayfield](https://open.spotify.com/artist/2AV6XDIs32ofIJhkkDevjm) | [Move on Up](https://open.spotify.com/album/2EwoYRFQRJqw7BTVG6GlTw) | 2:45 |
 | 59 | [Nightshift](https://open.spotify.com/track/23IK8TF2MSiLnuEjaYPfVV) | [Commodores](https://open.spotify.com/artist/6twIAGnYuIT1pncMAsXnEm) | [Nightshift](https://open.spotify.com/album/6QRiOSB53KZEe22LfWr6EP) | 5:06 |
-| 60 | [Everyday People](https://open.spotify.com/track/4ZVZBc5xvMyV3WzWktn8i7) | [Sly & The Family Stone](https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD) | [Stand](https://open.spotify.com/album/7iwS1r6JHYJe9xpPjzmWqD) | 2:21 |
+| 60 | [Raspberry Beret](https://open.spotify.com/track/2I1W3hcSsPIsEJfD69pHrW) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [Around The World In A Day](https://open.spotify.com/album/27SA4Pkelh2pbwbVEORPOM) | 3:35 |
 
-Snapshot ID: `MCwyMTNkMzNkNTg5NDY0ZTExZGRhYjBjOTJlOGRiZGI0MDhhYjEzMDhi`
+Snapshot ID: `MCw2NjBmMWZjMzllMDEwOTU4MTRjYmQ5ZTE1YTI2YTUzNDg0ZjkzY2Q3`

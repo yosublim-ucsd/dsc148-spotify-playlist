@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTUHzPOW6Jl7.md) - [plain]
 
 > Need to get your energy level up?
 
-[Spotify](https://open.spotify.com/user/spotify) - 582,336 likes - 111 songs - 6 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 582,757 likes - 111 songs - 6 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,10 +30,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTUHzPOW6Jl7.md) - [plain]
 | 20 | [Return of the Mack](https://open.spotify.com/track/3jDdpx9PMlfMBS5tOBHFm9) | [Mark Morrison](https://open.spotify.com/artist/6V3F8MZrOKdT9fU686ybE9) | [Return of the Mack](https://open.spotify.com/album/6plavTFCGXv5vpy0jZVtOV) | 3:33 |
 | 21 | [Give It To Me](https://open.spotify.com/track/0wbDgMuAoy7O7pL3a69uZx) | [Timbaland](https://open.spotify.com/artist/5Y5TRrQiqgUO4S36tzjIRZ), [Justin Timberlake](https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7), [Nelly Furtado](https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc) | [Shock Value](https://open.spotify.com/album/0V7TZQmJBgI81M9Z7GWxCI) | 3:54 |
 | 22 | [Long Way 2 Go](https://open.spotify.com/track/4v5kAh2wWyCSuKuhMJK8u6) | [Cassie](https://open.spotify.com/artist/27FGXRNruFoOdf1vP8dqcH) | [Cassie \(U.S\. Version\)](https://open.spotify.com/album/0j1qzjaJmsF1FkcICf3hRu) | 3:40 |
-| 23 | [On My Mama](https://open.spotify.com/track/1o8Z7GD1CeOaVBEyuzu4HO) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv) | [On My Mama](https://open.spotify.com/album/3KAqJe3dwWZFukNlOS6JXS) | 3:06 |
+| 23 | [Loyal \(feat\. Lil Wayne & Tyga\)](https://open.spotify.com/track/5BrTUo0xP1wKXLJWUaGFtk) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865), [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) | [X \(Expanded Edition\)](https://open.spotify.com/album/3LByoNjO4gbuX5D0u26LDY) | 4:24 |
 | 24 | [Bitch Better Have My Money](https://open.spotify.com/track/0NTMtAO2BV4tnGvw9EgBVq) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [Bitch Better Have My Money](https://open.spotify.com/album/4S8F794ucXJcAtycwOZgR9) | 3:39 |
 | 25 | [Love On Top](https://open.spotify.com/track/1z6WtY7X4HQJvzxC4UgkSf) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [4](https://open.spotify.com/album/1gIC63gC3B7o7FfpPACZQJ) | 4:27 |
-| 26 | [Loyal \(feat\. Lil Wayne & Tyga\)](https://open.spotify.com/track/5BrTUo0xP1wKXLJWUaGFtk) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865), [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) | [X \(Expanded Edition\)](https://open.spotify.com/album/3LByoNjO4gbuX5D0u26LDY) | 4:24 |
+| 26 | [On My Mama](https://open.spotify.com/track/1o8Z7GD1CeOaVBEyuzu4HO) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv) | [On My Mama](https://open.spotify.com/album/3KAqJe3dwWZFukNlOS6JXS) | 3:06 |
 | 27 | [Finesse](https://open.spotify.com/track/5XMkENs3GfeRza8MfVAhjK) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [24K Magic](https://open.spotify.com/album/4PgleR09JVnm3zY1fW3XBA) | 3:11 |
 | 28 | [You Make Me Wanna...](https://open.spotify.com/track/47TqCCnEliDp8NRDyIQoQq) | [USHER](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj) | [My Way](https://open.spotify.com/album/0fQdoem8dnrl80YcZzQ8f0) | 3:39 |
 | 29 | [Jumpin', Jumpin'](https://open.spotify.com/track/4pmc2AxSEq6g7hPVlJCPyP) | [Destiny's Child](https://open.spotify.com/artist/1Y8cdNmUJH7yBTd9yOvr5i) | [The Writing's On The Wall](https://open.spotify.com/album/283NWqNsCA9GwVHrJk59CG) | 3:50 |
@@ -98,8 +98,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTUHzPOW6Jl7.md) - [plain]
 | 88 | [Questions](https://open.spotify.com/track/2rGAASBrTG770g8wx5NJOV) | [Maeta](https://open.spotify.com/artist/2EwyKG76iX4Pp5HhAD6SKO) | [When I Hear Your Name](https://open.spotify.com/album/4iJiu3yFSwRNPe7dJBwtPM) | 3:13 |
 | 89 | [Doo Wop \(That Thing\) \- Edit](https://open.spotify.com/track/0YfNXMKlh46m6aAhHOrmls) | [Ms\. Lauryn Hill](https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl) | [R&B \- 100 Hits \- The Greatest R n B album \- 100 R & B Classics featuring Usher, Pitbull and Justin Timberlake](https://open.spotify.com/album/0QhwxYDUougJiVDtyN4Lhm) | 4:00 |
 | 90 | [Smoke \(feat\. Lucky Daye\)](https://open.spotify.com/track/3unpulZnIiKRZ4MCymHfXx) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv), [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [Smoke \(feat\. Lucky Daye\)](https://open.spotify.com/album/24myqNnAEPwBjGfhEm6WJA) | 3:06 |
-| 91 | [Champagne Shit](https://open.spotify.com/track/5OhG7shUD0xgQMirbRAipe) | [Janelle Monáe](https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs) | [The Age of Pleasure](https://open.spotify.com/album/3440hCSfwYXxJcbQ0j3jAJ) | 2:23 |
-| 92 | [Trick Me \- Club Mix](https://open.spotify.com/track/2qib0282oGZPZWyJHqJaVi) | [Kelis](https://open.spotify.com/artist/0IF46mUS8NXjgHabxk2MCM) | [Tasty](https://open.spotify.com/album/5YXBnZzECnOFgssE5q43go) | 3:26 |
+| 91 | [Trick Me \- Club Mix](https://open.spotify.com/track/2qib0282oGZPZWyJHqJaVi) | [Kelis](https://open.spotify.com/artist/0IF46mUS8NXjgHabxk2MCM) | [Tasty](https://open.spotify.com/album/5YXBnZzECnOFgssE5q43go) | 3:26 |
+| 92 | [Champagne Shit](https://open.spotify.com/track/5OhG7shUD0xgQMirbRAipe) | [Janelle Monáe](https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs) | [The Age of Pleasure](https://open.spotify.com/album/3440hCSfwYXxJcbQ0j3jAJ) | 2:23 |
 | 93 | [Know Myself](https://open.spotify.com/track/0d8anwJJGti8jE79Y4tXUD) | [Justine Skye](https://open.spotify.com/artist/0jUQSUOcM7lxVn5eVGTkzQ), [Vory](https://open.spotify.com/artist/0GeeIVcvGA8GSlWsoY1dkG) | [Know Myself](https://open.spotify.com/album/3yQsZtQbpsk62l4Yq5pjIK) | 2:47 |
 | 94 | [Guess](https://open.spotify.com/track/51t119U9qFdDHorI8GpNPb) | [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [Candydrip](https://open.spotify.com/album/6eiCnBFhY8yvhLjZzjIsxQ) | 3:13 |
 | 95 | [Gone \(with Bryson Tiller\)](https://open.spotify.com/track/3sQWzLuYeu8dOVTrYwkFlf) | [Kiana Ledé](https://open.spotify.com/artist/7jZMxhsB8djyIbYmoiJSTs), [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs) | [Grudges](https://open.spotify.com/album/7LjBbLFOHLzCsOlxYpFqU2) | 3:33 |
@@ -120,4 +120,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTUHzPOW6Jl7.md) - [plain]
 | 110 | [No, No, No Pt\. 2 \(feat\. Wyclef Jean\)](https://open.spotify.com/track/5kHgrRO3hMDPehtH9VhYQc) | [Destiny's Child](https://open.spotify.com/artist/1Y8cdNmUJH7yBTd9yOvr5i), [Wyclef Jean](https://open.spotify.com/artist/7aBzpmFXB4WWpPl2F7RjBe) | [Destiny's Child](https://open.spotify.com/album/3zB2PjaK4CDzxBErKvDvfo) | 3:27 |
 | 111 | [Call Me Every Day \(feat\. Wizkid\)](https://open.spotify.com/track/0SSVi1ND8YAk5XpaHOePoo) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Breezy \(Deluxe\)](https://open.spotify.com/album/1C3mF3UUqVmt7udrgQGbJC) | 2:26 |
 
-Snapshot ID: `MCxlNjkxNWY4MjYzYWU4YjUxZWI2MzM4Mjg1ZGQyNWNjOWIzZjM4OTJl`
+Snapshot ID: `MCxlMTU3YjEzNTc3MzczNWEwYTk4MDAxNTJmZTVhZjk2NmNiNzFhNTlh`

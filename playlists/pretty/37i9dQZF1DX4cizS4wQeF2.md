@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4cizS4wQeF2.md) - [plain]
 
 > She’s cheer captain and we’re all on the bleachers 😍
 
-[Spotify](https://open.spotify.com/user/spotify) - 354,116 likes - 50 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 354,268 likes - 50 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4cizS4wQeF2.md) - [plain]
 | 22 | [Didn't I](https://open.spotify.com/track/6Dq2LzijkY9WNPwBGDah4L) | [Darondo](https://open.spotify.com/artist/4JfFdF9Row7UXtdsKtT6tc) | [Let My People Go](https://open.spotify.com/album/3nD9Oab8M4sCLNmqmwSOdA) | 3:29 |
 | 23 | [There She Goes](https://open.spotify.com/track/0SMkzFGJOBFDI9KfYD55L0) | [The La's](https://open.spotify.com/artist/47Z8LEl3LnQkcpva0xSthT) | [The La's \(Deluxe Edition\)](https://open.spotify.com/album/4tCf15W7qHi3jE0PdljddW) | 2:42 |
 | 24 | [Everybody Wants To Rule The World](https://open.spotify.com/track/4RvWPyQ5RL0ao9LPZeSouE) | [Tears For Fears](https://open.spotify.com/artist/4bthk9UfsYUYdcFyqxmSUU) | [Songs From The Big Chair \(Super Deluxe Edition\)](https://open.spotify.com/album/3myPwaMYjdwhtq0nFgeG6W) | 4:11 |
-| 25 | [Soak Up The Sun](https://open.spotify.com/track/215JYyyUnrJ98NK3KEwu6d) | [Sheryl Crow](https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD) | [C'Mon C'Mon](https://open.spotify.com/album/5NYcTXrRZHxNyRKVOd0vs1) | 4:52 |
+| 25 | [Soak Up The Sun](https://open.spotify.com/track/215JYyyUnrJ98NK3KEwu6d) | [Sheryl Crow](https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD) | [C'Mon, C'Mon](https://open.spotify.com/album/5NYcTXrRZHxNyRKVOd0vs1) | 4:52 |
 | 26 | [Breakfast At Tiffany's](https://open.spotify.com/track/1uzWOoJdADfstQuFtQFTUn) | [Deep Blue Something](https://open.spotify.com/artist/5N5RfI8FFXk4WQ8kkjE407) | [Home](https://open.spotify.com/album/6errc1YD0IKeT3sudfomvO) | 4:17 |
 | 27 | [I Want You to Want Me](https://open.spotify.com/track/3DcPLPvsZPcFcYfMPMfh4e) | [Letters To Cleo](https://open.spotify.com/artist/7E41j1yL9ZeTWfqe9bUGgw) | [When Did We Do That?](https://open.spotify.com/album/1c2pJwy1y3eSP2Nknt0rp8) | 3:26 |
 | 28 | [Let's Stay Together](https://open.spotify.com/track/63xdwScd1Ai1GigAwQxE8y) | [Al Green](https://open.spotify.com/artist/3dkbV4qihUeMsqN4vBGg93) | [Let's Stay Together](https://open.spotify.com/album/58eMx3QrTkiRmGGbSz2XL0) | 3:19 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4cizS4wQeF2.md) - [plain]
 | 49 | [Days Like This](https://open.spotify.com/track/3xINh6YqkLfucEtjoa4x7D) | [Van Morrison](https://open.spotify.com/artist/44NX2ffIYHr6D4n7RaZF7A) | [Days Like This](https://open.spotify.com/album/2J2QLpbe1EBRP65w9v8CRL) | 3:17 |
 | 50 | [The Reason](https://open.spotify.com/track/5B5eTk7DF8KVp1zpQoY1XY) | [Hoobastank](https://open.spotify.com/artist/2MqhkhX4npxDZ62ObR5ELO) | [The Reason \(20th Anniversary\)](https://open.spotify.com/album/3pCVjmRGVZ2mYuJN2R1wi8) | 3:52 |
 
-Snapshot ID: `MCxkZWI5NjdmY2I4Y2NiODg3OTAwYThhZTFkOWViZDhmNWUwMmZiMmE0`
+Snapshot ID: `MCxhMGM3ZTE3ZWZiOTZjNzhhNzVjYjNhYzQ1YjM0NDFhNTk2MmVjYmE4`

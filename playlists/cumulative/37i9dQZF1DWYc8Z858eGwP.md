@@ -4,7 +4,7 @@
 
 > The most exciting new artists on the rise from the African continent & diaspora\. Cover: <a href="https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE?si=bWfP8oYHRI6Scnl72IzCZA">Tyla</a>
 
-276 songs - 14 hr 38 min
+278 songs - 14 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -69,7 +69,8 @@
 | [Dejavu](https://open.spotify.com/track/4o9Byedt716sEyVFu1cQjZ) | [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [Vibe Till Thy Kingdom Come](https://open.spotify.com/album/5sXH36sWuho5Xei85Ru5sj) | 2:40 | 2023-11-17 |  |
 | [Dior](https://open.spotify.com/track/6nLdg1lpE3dHLmNam1aoA6) | [Ruger](https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H) | [The Second Wave](https://open.spotify.com/album/2X0RCBDJankvvvaJgMUUHD) | 3:40 | 2022-05-05 | 2023-05-05 |
 | [DKT](https://open.spotify.com/track/48DoYs5rIX1PbsbCBYpYfB) | [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT) | [DKT](https://open.spotify.com/album/3zu38j0czgA5doZyGPnfMd) | 2:18 | 2020-09-10 | 2022-05-06 |
-| [DND](https://open.spotify.com/track/0BVVrZ3UL7b3VU3jE234fr) | [Dunnie](https://open.spotify.com/artist/5q1uxBdFXCDZDdNOw2rzD2) | [DND](https://open.spotify.com/album/0WENkwbQAil9puByD0fKZd) | 2:48 | 2023-05-04 |  |
+| [DND](https://open.spotify.com/track/0BVVrZ3UL7b3VU3jE234fr) | [Dunnie](https://open.spotify.com/artist/5q1uxBdFXCDZDdNOw2rzD2) | [DND](https://open.spotify.com/album/0WENkwbQAil9puByD0fKZd) | 2:48 | 2023-05-04 | 2024-03-21 |
+| [DND](https://open.spotify.com/track/7mlVW46eMu9RKcfJqwXeQq) | [Dunnie](https://open.spotify.com/artist/5q1uxBdFXCDZDdNOw2rzD2) | [DND](https://open.spotify.com/album/5UkWI3kyfKfp8zKL8JeZGf) | 2:48 | 2023-12-15 |  |
 | [Do What U Want](https://open.spotify.com/track/7sSc9rQfa7YEhjRgKoMDPQ) | [Yung D3mz](https://open.spotify.com/artist/2PWdxiDyY5rv1qBHEUfqQf) | [Do What U Want](https://open.spotify.com/album/5h5r3CJHQL2fPrg1oMqCib) | 1:52 | 2023-11-03 |  |
 | [DOG EAT DOG II](https://open.spotify.com/track/44qafmYYdeEwpSf1tCgTmm) | [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy), [Cruel Santino](https://open.spotify.com/artist/15GgEOJiFyjQm4tZ4D7qih), [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM) | [DOG EAT DOG II](https://open.spotify.com/album/3teR99N0boYIvWfEm59CZB) | 4:00 | 2023-05-26 | 2023-06-09 |
 | [DOG EAT DOG II \(feat\. Cruel Santino and Bella Shmurda\)](https://open.spotify.com/track/3EfMWIEGQB24dQv5x4Hwvx) | [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy), [Cruel Santino](https://open.spotify.com/artist/15GgEOJiFyjQm4tZ4D7qih), [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM) | [EZIOKWU](https://open.spotify.com/album/6e1McsPwHgiySHVlpZRhFx) | 4:00 | 2023-10-05 |  |
@@ -251,7 +252,8 @@
 | [Thug Love](https://open.spotify.com/track/17uovpjxgRlZOAriKRsgfE) | [Babyboy AV](https://open.spotify.com/artist/5p1CMGIDFgalZneW5P1EwX) | [Thug Love](https://open.spotify.com/album/3Bcj3vvXd5w0eEEiIw5nJO) | 2:14 | 2022-12-02 | 2023-05-05 |
 | [Tight](https://open.spotify.com/track/5SuIoPKlTWkfj2npFdlVRZ) | [Loui](https://open.spotify.com/artist/53SBWd8nuUmKxJPS9quQi5) | [Tight](https://open.spotify.com/album/0h9SYhqQWX3Bqn5c1F6kiQ) | 3:20 | 2023-07-14 | 2023-08-04 |
 | [Tight Condition](https://open.spotify.com/track/1sDAPYzFftbXW5fhMl0oKI) | [King Perryy](https://open.spotify.com/artist/2Srxd4jkUb5hcZEJO1SPnW), [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [Continental Playlist](https://open.spotify.com/album/1dwyrQj4JyTf4uUr1Y1nuQ) | 2:43 | 2023-05-04 | 2023-09-15 |
-| [Tighter](https://open.spotify.com/track/2WRnCb0v84HQ8ZzGavDrXX) | [Tim Lyre](https://open.spotify.com/artist/4iYJ88IcQS4GFqLqWGE5yx), [Minz](https://open.spotify.com/artist/2XNwtpu314ZSFziTt0ZqZT) | [Tighter](https://open.spotify.com/album/2bVycA3gdEqU51o5rILZUI) | 3:30 | 2023-10-17 |  |
+| [Tighter](https://open.spotify.com/track/2WRnCb0v84HQ8ZzGavDrXX) | [Tim Lyre](https://open.spotify.com/artist/4iYJ88IcQS4GFqLqWGE5yx), [Minz](https://open.spotify.com/artist/2XNwtpu314ZSFziTt0ZqZT) | [Tighter](https://open.spotify.com/album/2bVycA3gdEqU51o5rILZUI) | 3:30 | 2023-10-17 | 2024-03-21 |
+| [Tighter](https://open.spotify.com/track/6mDGTjuEKhX8TtcLD4NMpA) | [Tim Lyre](https://open.spotify.com/artist/4iYJ88IcQS4GFqLqWGE5yx), [Minz](https://open.spotify.com/artist/2XNwtpu314ZSFziTt0ZqZT) | [MASTA](https://open.spotify.com/album/2iP4ZuUASwpZUVW0IMYIIw) | 3:30 | 2023-12-15 |  |
 | [Time](https://open.spotify.com/track/534W5nlVhBthPSYSzrHYCM) | [Yarden](https://open.spotify.com/artist/1nN9bKS2bD4OHNrKkS0Djd) | [The One Who Descends](https://open.spotify.com/album/6y3G0lel5n8pd29aTR41d9) | 2:21 | 2023-12-01 |  |
 | [To Last](https://open.spotify.com/track/10aCY2jJFNYGf9qpiN2LZy) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [To Last](https://open.spotify.com/album/00RMnS3psKLla6O7sYp8mB) | 2:56 | 2023-05-04 | 2023-06-28 |
 | [Too Early](https://open.spotify.com/track/4qZ8vQpRFqS15RGdE8skco) | [SuperJazzClub](https://open.spotify.com/artist/5CINjDZoikcuTmtw3wgPfp) | [Too Early](https://open.spotify.com/album/2ysvTBST3QhzfQWaAmSKLS) | 3:26 | 2023-05-04 | 2023-06-17 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXwsJebq0rKg.md) - [plain]
 
 > La favorita de dios, and she knows 🌼
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,332 likes - 50 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,355 likes - 50 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,9 +13,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXwsJebq0rKg.md) - [plain]
 | 3 | [As It Was](https://open.spotify.com/track/4Dvkj6JhhA12EX05fT7y2e) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry's House](https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h) | 2:47 |
 | 4 | [Let The Light In \(feat\. Father John Misty\)](https://open.spotify.com/track/4qG7hWhljsqqENL5PaLA2z) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa), [Father John Misty](https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT) | [Did you know that there's a tunnel under Ocean Blvd](https://open.spotify.com/album/5HOHne1wzItQlIYmLXLYfZ) | 4:38 |
 | 5 | [Lover](https://open.spotify.com/track/1dGr1c8CrMLDpV6mPbImSI) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Lover](https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq) | 3:41 |
-| 6 | [Dance The Night \- From Barbie The Album](https://open.spotify.com/track/1vYXt7VSjH9JIM5oRRo7vA) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Dance The Night \(From Barbie The Album\)](https://open.spotify.com/album/5cH7FqB7JD5q1tJXJ7FHYu) | 2:56 |
+| 6 | [Pink + White](https://open.spotify.com/track/3xKsf9qdS1CyvXSMEid6g8) | [Frank Ocean](https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM) | [Blonde](https://open.spotify.com/album/3mH6qwIy9crq0I9YQbOuDf) | 3:04 |
 | 7 | [Caminar bonito](https://open.spotify.com/track/6YnvENj0TdekZctNH1LiFQ) | [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [De Todas las Flores](https://open.spotify.com/album/4BJoDX0fIjR4RsFF4vyd81) | 3:57 |
-| 8 | [Pink + White](https://open.spotify.com/track/3xKsf9qdS1CyvXSMEid6g8) | [Frank Ocean](https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM) | [Blonde](https://open.spotify.com/album/3mH6qwIy9crq0I9YQbOuDf) | 3:04 |
+| 8 | [Dance The Night \- From Barbie The Album](https://open.spotify.com/track/1vYXt7VSjH9JIM5oRRo7vA) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Dance The Night \(From Barbie The Album\)](https://open.spotify.com/album/5cH7FqB7JD5q1tJXJ7FHYu) | 2:56 |
 | 9 | [Enchanted \(Taylor's Version\)](https://open.spotify.com/track/3sW3oSbzsfecv9XoUdGs7h) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Speak Now \(Taylor's Version\)](https://open.spotify.com/album/5AEDGbliTTfjOB8TSm1sxt) | 5:53 |
 | 10 | [Lose Control](https://open.spotify.com/track/6usohdchdzW9oML7VC4Uhk) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Lose Control](https://open.spotify.com/album/5QMiub2LonMqxB7dhtbPlX) | 3:30 |
 | 11 | [Kill Bill](https://open.spotify.com/track/1Qrg8KqiBpW07V7PNxwwwL) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [SOS](https://open.spotify.com/album/1nrVofqDRs7cpWXJ49qTnP) | 2:33 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXwsJebq0rKg.md) - [plain]
 | 49 | [Honey, No Estás](https://open.spotify.com/track/4tiMBMyoWSRPmLHg16VpUs) | [Bratty](https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn) | [Delusión](https://open.spotify.com/album/30OWJ1eBG8vQOfN1Gk5uYN) | 3:27 |
 | 50 | [Choking on Flowers](https://open.spotify.com/track/6hzEumHWNUVB0VWobDBT6x) | [Fox Academy](https://open.spotify.com/artist/0JqRJZzARcjmH60HwUenow) | [Elsie](https://open.spotify.com/album/71qhgLjIfS9Ayn3986N64X) | 3:28 |
 
-Snapshot ID: `MCxiMTQ1OTQ4NWRhNTlhOTQxN2RlMjRhOWEyZjRiOTBmM2U1Y2VmNWEz`
+Snapshot ID: `MCxjNGZmMjcxMjRlYjk3NTYyNjNjYmZiMTE4Zjc0Mjc0YmEyZDk2M2E0`

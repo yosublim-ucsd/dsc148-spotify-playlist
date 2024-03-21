@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9vYRBO9gjDe.md) - [plain]
 
 > Spotify Japanのデイリー急上昇チャート。3月18日付。
 
-[Spotify](https://open.spotify.com/user/spotify) - 292,019 likes - 50 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 292,045 likes - 50 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9vYRBO9gjDe.md) - [plain]
 | 49 | [Last Party Never End \(feat\. Tiji Jojo, YZERR, Vingo & Yellow Pato\)](https://open.spotify.com/track/52buM4EFitLjpgxtN1sxIb) | [BAD HOP](https://open.spotify.com/artist/3FCZbxRcaSgYfklG2HCFh2), [Tiji Jojo](https://open.spotify.com/artist/2ZEOC8FatCSFTFVtt1laOt), [YZERR](https://open.spotify.com/artist/7z8eFxohsIg2Tu5evbNXXo), [Vingo](https://open.spotify.com/artist/7s0XITv7PpvCkdr0rKWQqH), [Yellow Pato](https://open.spotify.com/artist/1NdYIG2u5Dj0nFP8fPbGcr) | [BAD HOP](https://open.spotify.com/album/3Xf7ckpqko5S1aJCa5RXtn) | 4:15 |
 | 50 | [負け犬にアンコールはいらない](https://open.spotify.com/track/1fooGB6yJLKiOk8jW3thn6) | [ヨルシカ](https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik) | [負け犬にアンコールはいらない](https://open.spotify.com/album/4jEsFbcpgjHiu0rsTdlaOy) | 3:54 |
 
-Snapshot ID: `MCw4ZTYyNjdiYjJkZWEyYTY1ZTRkYzk2YWE5YTA0YWMzZDBlYjliNmJl`
+Snapshot ID: `MCxmMzc2ZmU1MDg2NjY0NzBlZmQ0YzBkNjIwNWUzMTA1ZDkwZGFjZDhm`

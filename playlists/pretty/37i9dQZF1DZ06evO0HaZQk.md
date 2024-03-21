@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0HaZQk.md) - [plain]
 
 > This is Natalia Lafourcade\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 490,970 likes - 50 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 491,026 likes - 50 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0HaZQk.md) - [plain]
 | 34 | [Remember Me \(Dúo\)](https://open.spotify.com/track/3pCgIUkmRHKydu9HE03QKY) | [Miguel](https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK), [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [Coco \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7nMexBA71PdwPnfqS5Yji5) | 2:44 |
 | 35 | [Lo Que Construimos](https://open.spotify.com/track/0K1eUOeIAW1jwbqSrgoVMj) | [Sabino](https://open.spotify.com/artist/0zgFL90nGTrH2iOMD8Vysy), [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [Lo Que Construimos](https://open.spotify.com/album/3aY4BoeqiExyMDDfZNud4M) | 3:28 |
 | 36 | [Mi Tierra Veracruzana \(feat\. Los Macorinos\)](https://open.spotify.com/track/1CIuTzWLQ3sxScgFJzUhWT) | [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp), [Los Macorinos](https://open.spotify.com/artist/1ldFRYgmjxDrX27bIe3dWx) | [Musas \(Un Homenaje al Folclore Latinoamericano en Manos de Los Macorinos, Vol\. 1\)](https://open.spotify.com/album/30isRfL4u7fowKgTVsydDt) | 3:45 |
-| 37 | [Tierra Querida](https://open.spotify.com/track/15UftHtPcwWE23ON8b2uiR) | [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [Tierra Querida](https://open.spotify.com/album/2iIbxTmZaOaRyImrEpvzdM) | 2:48 |
-| 38 | [Burbujas De Amor](https://open.spotify.com/track/5OYC9esJZ3b7iBYjAUI8mX) | [Eugenia Leon](https://open.spotify.com/artist/4rb77bUYfTSu6Hkb9Oar8y), [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [Ciudadana del Mundo Volumen 1](https://open.spotify.com/album/2vhg2TUJPxODrZhLwtp8bR) | 4:38 |
+| 37 | [Burbujas De Amor](https://open.spotify.com/track/5OYC9esJZ3b7iBYjAUI8mX) | [Eugenia Leon](https://open.spotify.com/artist/4rb77bUYfTSu6Hkb9Oar8y), [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [Ciudadana del Mundo Volumen 1](https://open.spotify.com/album/2vhg2TUJPxODrZhLwtp8bR) | 4:38 |
+| 38 | [Tierra Querida](https://open.spotify.com/track/15UftHtPcwWE23ON8b2uiR) | [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [Tierra Querida](https://open.spotify.com/album/2iIbxTmZaOaRyImrEpvzdM) | 2:48 |
 | 39 | [Antes de Huir](https://open.spotify.com/track/4j6ym6CZ3v9lpWaVzcudUq) | [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [Hasta la Raíz \(Edición Especial\)](https://open.spotify.com/album/0Kww7Dpo0uSxtOiiFTvyCv) | 3:52 |
 | 40 | [Caótica Belleza](https://open.spotify.com/track/2mb51571ds4q4XcOP23rF1) | [Esteman](https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R), [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [Caótica Belleza](https://open.spotify.com/album/7MVYNG79vMkMN7mxBNxYvS) | 3:57 |
 | 41 | [Slowly](https://open.spotify.com/track/32DRpZgrvQZddDkKF2DoTr) | [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp), [Leiva](https://open.spotify.com/artist/5Hsv8dUHHOdnn72q4XIVz7) | [Giralunas, Un Homenaje a L.E.Aute](https://open.spotify.com/album/2xfwea7EUqYb6zas8PLNgd) | 5:36 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0HaZQk.md) - [plain]
 | 49 | [La Fugitiva \(with Kevin Johansen\)](https://open.spotify.com/track/1jmDkMtuAQJgSiN9AulFcx) | [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp), [Kevin Johansen](https://open.spotify.com/artist/7qjoG7bwhAjSd7nJTcjgAk) | [Mujer Divina \- Homenaje a Agustín Lara](https://open.spotify.com/album/3IwQTuKlyYUjH5foI0gACh) | 3:14 |
 | 50 | [Derecho de Nacimiento \(feat\. Los Macorinos\)](https://open.spotify.com/track/5XkqOjBws8qpEkBW7X5Ppy) | [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp), [Los Macorinos](https://open.spotify.com/artist/1ldFRYgmjxDrX27bIe3dWx) | [Musas \(Un Homenaje al Folclore Latinoamericano en Manos de Los Macorinos\), Vol\. 2](https://open.spotify.com/album/7JbbUP152jaRbhQ7CJ1DOy) | 5:48 |
 
-Snapshot ID: `Mjg1MTQxOTUsMDAwMDAwMDA1YjE1ODU4NDVlZGFiMThlYzgwYmFmOGIzNjQ1ZjlkYQ==`
+Snapshot ID: `Mjg1MTU2NjEsMDAwMDAwMDBkNmM1ZmZlOGE0ZTg5MTkzN2E3ODQwNDc1NjgxZGMzMA==`

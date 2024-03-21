@@ -1,12 +1,12 @@
 {
   "description": "The best alternative songs of the decade. Cover: Glass Animals",
-  "num_followers": 906632,
+  "num_followers": 906638,
   "original_name": "Alternative 10s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0YTlhOWZmOWM1ZTM2YjU5YTBiYWUzZjc2MGUxOGFkMmEwNjQ5NmQ4",
+  "snapshot_id": "MCwwMDBiMjA1YWUwMmNmMWQ5Y2UxZmE3MTE3YmZkMDFhZDQ3NDQyNzk3",
   "tracks": [
     {
       "added_at": "2023-04-28 10:51:34",
@@ -755,6 +755,22 @@
     {
       "added_at": "2022-09-29 15:30:40",
       "album": {
+        "name": "Tieduprightnow",
+        "url": "https://open.spotify.com/album/5v7PsESglCFeVcb7wNEWIW"
+      },
+      "artists": [
+        {
+          "name": "Parcels",
+          "url": "https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA"
+        }
+      ],
+      "duration_ms": 249956,
+      "name": "Tieduprightnow",
+      "url": "https://open.spotify.com/track/66tkDkPsznE5zIHNt4QkXB"
+    },
+    {
+      "added_at": "2022-09-29 15:30:40",
+      "album": {
         "name": "Mura Masa",
         "url": "https://open.spotify.com/album/0NBTBo1qrg554sAj79nEqD"
       },
@@ -771,22 +787,6 @@
       "duration_ms": 192160,
       "name": "Love$ick (feat. A$AP Rocky)",
       "url": "https://open.spotify.com/track/3sTN90bIP2cJ1783ctHykO"
-    },
-    {
-      "added_at": "2022-09-29 15:30:40",
-      "album": {
-        "name": "Tieduprightnow",
-        "url": "https://open.spotify.com/album/5v7PsESglCFeVcb7wNEWIW"
-      },
-      "artists": [
-        {
-          "name": "Parcels",
-          "url": "https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA"
-        }
-      ],
-      "duration_ms": 249956,
-      "name": "Tieduprightnow",
-      "url": "https://open.spotify.com/track/66tkDkPsznE5zIHNt4QkXB"
     },
     {
       "added_at": "2022-09-29 15:30:40",
@@ -999,22 +999,6 @@
     {
       "added_at": "2022-09-29 15:30:40",
       "album": {
-        "name": "As the World Caves In",
-        "url": "https://open.spotify.com/album/6bKosNVvMaaosmJTV101y0"
-      },
-      "artists": [
-        {
-          "name": "Matt Maltese",
-          "url": "https://open.spotify.com/artist/12j6dJrPXanCBwY599pZxf"
-        }
-      ],
-      "duration_ms": 218754,
-      "name": "As the World Caves In",
-      "url": "https://open.spotify.com/track/4JE6agBLHGA5TaF6FlqfBD"
-    },
-    {
-      "added_at": "2022-09-29 15:30:40",
-      "album": {
         "name": "Passive Me, Aggressive You",
         "url": "https://open.spotify.com/album/5ImvJCAX33Pt2XGMaYaMia"
       },
@@ -1027,6 +1011,22 @@
       "duration_ms": 246600,
       "name": "Young Blood",
       "url": "https://open.spotify.com/track/25nzKGDiua1lE9Qo5V19GL"
+    },
+    {
+      "added_at": "2022-09-29 15:30:40",
+      "album": {
+        "name": "As the World Caves In",
+        "url": "https://open.spotify.com/album/6bKosNVvMaaosmJTV101y0"
+      },
+      "artists": [
+        {
+          "name": "Matt Maltese",
+          "url": "https://open.spotify.com/artist/12j6dJrPXanCBwY599pZxf"
+        }
+      ],
+      "duration_ms": 218754,
+      "name": "As the World Caves In",
+      "url": "https://open.spotify.com/track/4JE6agBLHGA5TaF6FlqfBD"
     },
     {
       "added_at": "2022-09-29 15:30:40",
@@ -1227,18 +1227,18 @@
     {
       "added_at": "2022-09-29 15:30:40",
       "album": {
-        "name": "Trouble Will Find Me",
-        "url": "https://open.spotify.com/album/4OI9hKTm1QMRQunqHCfSSL"
+        "name": "Lost In The Dream",
+        "url": "https://open.spotify.com/album/51VxHZphGLsI7aUPqIkJaz"
       },
       "artists": [
         {
-          "name": "The National",
-          "url": "https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB"
+          "name": "The War On Drugs",
+          "url": "https://open.spotify.com/artist/6g0mn3tzAds6aVeUYRsryU"
         }
       ],
-      "duration_ms": 245240,
-      "name": "I Need My Girl",
-      "url": "https://open.spotify.com/track/50M7nY1oQuNHecs0ahWAtI"
+      "duration_ms": 298920,
+      "name": "Red Eyes",
+      "url": "https://open.spotify.com/track/0rUIff1QHd5zlOBtlHVqd9"
     },
     {
       "added_at": "2022-09-29 15:30:40",
@@ -1259,18 +1259,18 @@
     {
       "added_at": "2022-09-29 15:30:40",
       "album": {
-        "name": "Lost In The Dream",
-        "url": "https://open.spotify.com/album/51VxHZphGLsI7aUPqIkJaz"
+        "name": "Trouble Will Find Me",
+        "url": "https://open.spotify.com/album/4OI9hKTm1QMRQunqHCfSSL"
       },
       "artists": [
         {
-          "name": "The War On Drugs",
-          "url": "https://open.spotify.com/artist/6g0mn3tzAds6aVeUYRsryU"
+          "name": "The National",
+          "url": "https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB"
         }
       ],
-      "duration_ms": 298920,
-      "name": "Red Eyes",
-      "url": "https://open.spotify.com/track/0rUIff1QHd5zlOBtlHVqd9"
+      "duration_ms": 245240,
+      "name": "I Need My Girl",
+      "url": "https://open.spotify.com/track/50M7nY1oQuNHecs0ahWAtI"
     },
     {
       "added_at": "2022-09-29 15:30:40",

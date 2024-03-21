@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2XmsXL2WBQd.md) - [plain]
 
 > Anthems from the early days of recorded rap music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 387,366 likes - 70 songs - 5 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 387,466 likes - 70 songs - 5 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2XmsXL2WBQd.md) - [plain]
 | 44 | [I Need Love](https://open.spotify.com/track/3UP7dzy4ISy8S3HOReCd1q) | [LL COOL J](https://open.spotify.com/artist/1P8IfcNKwrkQP5xJWuhaOC) | [All World](https://open.spotify.com/album/75oGBjE0TVxgdiXhU6J20M) | 5:21 |
 | 45 | [Looking for the Perfect Beat \- Original 12" Version](https://open.spotify.com/track/3grljpi1aYIRA6TuXvGigL) | [Afrika Bambaataa](https://open.spotify.com/artist/7cg61q8kK8jlFi8TKKw70p), [The Soulsonic Force](https://open.spotify.com/artist/4zdcKwAK7lkYxgER54yfcP) | [Planet Rock: The Album](https://open.spotify.com/album/3qX0GugLujpIodkT6r06hf) | 7:02 |
 | 46 | [The Bridge Is Over](https://open.spotify.com/track/5jkjpSsMOfsxgdGScPZVq2) | [Boogie Down Productions](https://open.spotify.com/artist/4toEjJSZu1rbfX2hfVdZFA) | [Criminal Minded \(Deluxe\)](https://open.spotify.com/album/3PkWTXolCR9RkJrKiAsf55) | 3:24 |
-| 47 | [Hey DJ](https://open.spotify.com/track/7tW7kmX6o8avIUxN8yBUEo) | [Worlds Famous Supreme Team](https://open.spotify.com/artist/01VXEpueAsBp3I5CAFUnti) | [Hey DJ](https://open.spotify.com/album/06c1nSdZa3jT2UCn024dV2) | 3:26 |
+| 47 | [Follow The Leader](https://open.spotify.com/track/1p80AptLonBW0VilSi6xFj) | [Eric B\. & Rakim](https://open.spotify.com/artist/6jHG1YQkqgojdEzerwvrVv) | [Follow The Leader](https://open.spotify.com/album/3kaiwH8r6Wg62D2CxOr0QH) | 5:36 |
 | 48 | [So Wat Cha Sayin'](https://open.spotify.com/track/01CuCSqlNItevX7F1GcopF) | [EPMD](https://open.spotify.com/artist/3zpKjsMg2gw1St5WcWoUJN) | [Unfinished Business](https://open.spotify.com/album/4dxBNRPePGqky6mIKGAVsr) | 4:57 |
-| 49 | [Follow The Leader](https://open.spotify.com/track/1p80AptLonBW0VilSi6xFj) | [Eric B\. & Rakim](https://open.spotify.com/artist/6jHG1YQkqgojdEzerwvrVv) | [Follow The Leader](https://open.spotify.com/album/3kaiwH8r6Wg62D2CxOr0QH) | 5:36 |
+| 49 | [Hey DJ](https://open.spotify.com/track/7tW7kmX6o8avIUxN8yBUEo) | [Worlds Famous Supreme Team](https://open.spotify.com/artist/01VXEpueAsBp3I5CAFUnti) | [Hey DJ](https://open.spotify.com/album/06c1nSdZa3jT2UCn024dV2) | 3:26 |
 | 50 | [I Got It Made](https://open.spotify.com/track/68DGiGtJrVcGBeOf5UNpVz) | [Special Ed](https://open.spotify.com/artist/3vIFTM70CYTYr122vTVpzx) | [Youngest in Charge](https://open.spotify.com/album/3R6qOZ2QsPj6yWism4b7vk) | 3:41 |
 | 51 | [Colors \- 2014 Remaster](https://open.spotify.com/track/7CMww2nlc2THVjJeLOYBrk) | [ICE\-T](https://open.spotify.com/artist/0eGh2jSWPBX5GuqIHoZJZG) | [Greatest Hits](https://open.spotify.com/album/13AED1HGzWlkxETo6aquK1) | 4:26 |
 | 52 | [Wild Wild West](https://open.spotify.com/track/0fmjCC6ItD4vixqwLTNGfg) | [Kool Moe Dee](https://open.spotify.com/artist/2RE8NwNxsOyuNZDD0jRxHP) | [How Ya Like Me Now \(Expanded Edition\)](https://open.spotify.com/album/0V3b2bczRgZ4qrGq1L5BVI) | 4:40 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2XmsXL2WBQd.md) - [plain]
 | 69 | [P.S.K\. 'What Does It Mean'?](https://open.spotify.com/track/3StKzbpR9dRZB8epDx4KDW) | [Schoolly D](https://open.spotify.com/artist/63NXL9k1RkJYcQ5MkUETLL) | [Schoolly D](https://open.spotify.com/album/57LWYtFS2xn5pIDHLqjatU) | 6:28 |
 | 70 | [Genius Rap \- 7" Single Version](https://open.spotify.com/track/71V59P1ap285AB9TNJdmbH) | [Dr\. Jeckyll & Mr\. Hyde](https://open.spotify.com/artist/7rxyGNqJCod2DVTBubSTyt) | [Giant Single: Profile Records Rap Anthology](https://open.spotify.com/album/13JxcY9hKf4t6BGkrNbSwr) | 4:40 |
 
-Snapshot ID: `MCwzZjVkNmY2MGM4ZWQ1Y2UwMGMwMzRkZGYwMWY3NmE5MzM3MzQxMDg1`
+Snapshot ID: `MCxmMDIwOWM4YTZiNTU1MDdhNmIxNzk1NWY1NDFmY2M2OGNhYjg2MTE1`

@@ -4,7 +4,7 @@
 
 > Recent hits and new songs from your fave artists\. Cover: Meghan Trainor
 
-1,464 songs - 3 day 8 hr 59 min
+1,465 songs - 3 day 9 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1306,7 +1306,8 @@
 | [Tomorrow Can Wait](https://open.spotify.com/track/5MpQv6ULtezyLFtnx8VX1M) | [Walk Off the Earth](https://open.spotify.com/artist/6jEiUoyyJNPHzSR0Nib6HX), [Tenille Townes](https://open.spotify.com/artist/3TyeX0lk4B7k56ukfzEE0z) | [Tomorrow Can Wait](https://open.spotify.com/album/5xLYRqDmG1UGElZqLwVFVU) | 3:10 | 2022-10-07 | 2022-11-19 |
 | [Too Close](https://open.spotify.com/track/67GvvBfumjbeuMzhXVgn02) | [JP Cooper](https://open.spotify.com/artist/4kYGAK2zu9EAomwj3hXkXy) | [Too Close](https://open.spotify.com/album/6GWUTnRWSeXUf3fu45LvwT) | 3:04 | 2020-06-29 | 2020-12-11 |
 | [Too Close](https://open.spotify.com/track/4Gy6pnhY9GGE3nqD3d0CmU) | [Ria Mae](https://open.spotify.com/artist/3QvuHlyW42Ei3AyGOO4AMT), [Dan Talevski](https://open.spotify.com/artist/0Vu4A064M7J86SoMA0nrJH) | [Too Close](https://open.spotify.com/album/1qndvyChhfvNmTWNi7eLiE) | 2:27 | 2019-11-15 | 2020-03-06 |
-| [Too Good to be True](https://open.spotify.com/track/4vIiVs5JoNfqqRi5o7jAIb) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Too Good to be True](https://open.spotify.com/album/57y7NpfTINlnrNitu8vwft) | 2:40 | 2024-03-01 |  |
+| [Too Good to be True](https://open.spotify.com/track/27RDQ0TfxzWMlQFuKrPT11) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Deeper Well](https://open.spotify.com/album/5SxZmGwc4eJuPp6PcO4JgJ) | 2:40 | 2024-03-15 |  |
+| [Too Good to be True](https://open.spotify.com/track/4vIiVs5JoNfqqRi5o7jAIb) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Too Good to be True](https://open.spotify.com/album/57y7NpfTINlnrNitu8vwft) | 2:40 | 2024-03-01 | 2024-03-21 |
 | [Too Much](https://open.spotify.com/track/7kG3DPhoPsltuT0vxENI6E) | [Carly Rae Jepsen](https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju) | [Dedicated](https://open.spotify.com/album/25it7uSpNFuRoD6uNc0Tfu) | 3:17 | 2019-05-26\* | 2019-08-20 |
 | [Too Much](https://open.spotify.com/track/0t4J4eq0ifSVYS0fTgj7ML) | [Matt Simons](https://open.spotify.com/artist/1g0fXhQMHAxlRyIBkCbuE7) | [Too Much](https://open.spotify.com/album/1kcc1iy7E6kkccrsIGDOWm) | 3:05 | 2021-08-28 | 2021-10-02 |
 | [Too Much Music](https://open.spotify.com/track/0WwJffrixdTk9m74Gr5K1N) | [Jake Shears](https://open.spotify.com/artist/6prqlx3RqGdTYsXANXDCR1) | [Too Much Music](https://open.spotify.com/album/64027I7hoqCPxRjGhIK7yP) | 4:38 | 2023-02-03 | 2023-02-11 |

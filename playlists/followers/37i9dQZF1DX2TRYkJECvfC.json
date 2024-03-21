@@ -1,5 +1,5 @@
 {
-  "2024-03-20": 2728125,
+  "2024-03-21": 2727941,
   "date_first_scraped": "2021-12-21",
   "description": "Forget it and disappear with deep & melodic <a href=\"spotify:genre:edm_dance\">house</a>.",
   "name": "Deep House Relax",
@@ -6789,7 +6789,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-20",
       "duration_ms": 496592,
       "name": "Satellite Girl",
       "url": "https://open.spotify.com/track/4Knpot2CFgsU9VtAXHENlV"
@@ -7393,6 +7393,24 @@
       "duration_ms": 176000,
       "name": "Sorry I Hide in My Room",
       "url": "https://open.spotify.com/track/5pwScWoXXIPhAeY90OY8Sd"
+    },
+    {
+      "album": {
+        "name": "Sparks",
+        "url": "https://open.spotify.com/album/7AHXWty7bSpGg7TAHGVoqn"
+      },
+      "artists": [
+        {
+          "name": "Tobias Bergson",
+          "url": "https://open.spotify.com/artist/0OaBO8SytZzvzAO3NOWiv3"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214634,
+      "name": "Sparks",
+      "url": "https://open.spotify.com/track/6qUGL8EAaiV9dNystvTkmg"
     },
     {
       "album": {

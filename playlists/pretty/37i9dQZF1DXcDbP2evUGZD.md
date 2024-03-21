@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcDbP2evUGZD.md) - [plain]
 
 > The K\-artists that you need to pay attention to right now will all be at <a href="http://mucon.kr/index.html">MU:CON 2023</a>! Meet them first at the MU:CON 2023 official playlist\. \(뮤콘 2023 쇼케이스에 선정된 아티스트들을 만나보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,532 likes - 123 songs - 7 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,539 likes - 123 songs - 7 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,7 +58,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcDbP2evUGZD.md) - [plain]
 | 48 | [Flying Fish](https://open.spotify.com/track/5DGHfcMOCzfxiJnhybJHov) | [Sion](https://open.spotify.com/artist/2dEBKqLtvdFTnPcwpWEw0r) | [Flying Fish](https://open.spotify.com/album/2Q5XpQhGIyRB5TUHTqkWQl) | 3:01 |
 | 49 | [Fairy Castor](https://open.spotify.com/track/3RbRTEloMZ6VNTJYhHNCZU) | [Shin In Ryu](https://open.spotify.com/artist/1HBeN73z1CZ0E58rEIeozp) | [WE WISH.docx](https://open.spotify.com/album/6NNMjyxcMwPMfLd7ykF1qO) | 3:47 |
 | 50 | [Undecided](https://open.spotify.com/track/6IdGaZrX3GwcOmJ1JIIUps) | [Shin In Ryu](https://open.spotify.com/artist/1HBeN73z1CZ0E58rEIeozp) | [Be Melodramatic \(Original Television Soundtrack\), Pt\. 2](https://open.spotify.com/album/0Kl9kesX2QKKGPajZkmPkE) | 3:49 |
-| 51 | [꽃말 Flowords](https://open.spotify.com/track/4lbTBUXDLcZKc03SUVHz7W) | [Shin In Ryu](https://open.spotify.com/artist/1HBeN73z1CZ0E58rEIeozp) | [우리에게 여름은 짧다 For us, summer is always short](https://open.spotify.com/album/4Le80eZbjsEZnD9OQMFWdV) | 3:58 |
+| 51 | [Flowords](https://open.spotify.com/track/4lbTBUXDLcZKc03SUVHz7W) | [Shin In Ryu](https://open.spotify.com/artist/1HBeN73z1CZ0E58rEIeozp) | [For us, summer is always short](https://open.spotify.com/album/4Le80eZbjsEZnD9OQMFWdV) | 3:58 |
 | 52 | [Realize](https://open.spotify.com/track/1uAWKJLoEMoVEeFIH5FsVj) | [Silica Gel](https://open.spotify.com/artist/2kxVxKOgoefmgkwoHipHsn) | [Machine Boy](https://open.spotify.com/album/7fB4gIbC3BnXK0RQi8prxg) | 4:23 |
 | 53 | [NO PAIN](https://open.spotify.com/track/01d3IKaDzqxP50zPZnAkT9) | [Silica Gel](https://open.spotify.com/artist/2kxVxKOgoefmgkwoHipHsn) | [NO PAIN](https://open.spotify.com/album/0PU7zuIyFTemauVmePGD95) | 3:39 |
 | 54 | [Mercurial](https://open.spotify.com/track/3JpZzVHJ641hGw1EgzToGc) | [Silica Gel](https://open.spotify.com/artist/2kxVxKOgoefmgkwoHipHsn) | [Mercurial](https://open.spotify.com/album/786eyZKL9JTgEptCf9JvdQ) | 3:30 |
@@ -132,4 +132,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcDbP2evUGZD.md) - [plain]
 | 122 | [MY TIME](https://open.spotify.com/track/20qnGriaje2qZDJvMxUCwJ) | [PERSES](https://open.spotify.com/artist/1rRs0oN28NPUQxO4TffpSY) | [MY TIME \- Single](https://open.spotify.com/album/2Rt768cOvDpDQKPmkS1v2X) | 3:08 |
 | 123 | [TOUCHDOWN \(ใกล้ดาว\)](https://open.spotify.com/track/0vWQo4lc4BhZGqKy2LayLC) | [PERSES](https://open.spotify.com/artist/1rRs0oN28NPUQxO4TffpSY) | [TOUCHDOWN \(ใกล้ดาว\) \- Single](https://open.spotify.com/album/3Qurr0NOGDO1hBLZxa64Iy) | 3:27 |
 
-Snapshot ID: `MCw2YzVmMTYxNDYwNDUwYWI4N2IyMWUzMzcyZmJkYWE3NDRhYjM2ZDM5`
+Snapshot ID: `MCxhYzUwNzc1ZWE5ZTRhYjlhZTc2MmM3MzM2ZGUzYmJlYmY5ZGI3OWEx`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaljDe6fISR1.md) - [plain]
 
 > Ouça grandes MCs do hip hop nacional\. Foto: Racionais MC's
 
-[Spotify](https://open.spotify.com/user/spotify) - 322,143 likes - 76 songs - 5 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 322,194 likes - 76 songs - 5 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,7 +54,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaljDe6fISR1.md) - [plain]
 | 44 | [Se Escute](https://open.spotify.com/track/6dRhcpld5vzJ21gMAY7aZg) | [Síntese](https://open.spotify.com/artist/44A7vIMeuMh3AhjFTkj8B5) | [Sem Cortesia \(Vagando na Babilônia / Em Busca de Canaã\)](https://open.spotify.com/album/3Qme8XNg5l1q3sbvXueqsK) | 2:45 |
 | 45 | [Te Amo Disgraça](https://open.spotify.com/track/5B4611SCn4puXahrf7rqkj) | [Baco Exu do Blues](https://open.spotify.com/artist/78nr1pVnDR7qZH6QbVMYZf) | [Esú](https://open.spotify.com/album/11KgjDEaT1YjNUphDDTOzc) | 4:50 |
 | 46 | [Beira de Piscina \(Remix\)](https://open.spotify.com/track/6a0kQTjyGmfwBF0tLVgEha) | [Don L](https://open.spotify.com/artist/6U98XWjrUPnPtPBjEprDmu), [Rael](https://open.spotify.com/artist/0GWNKI3VPEcJsOIEhUjmxd) | [Caro Vapor / Vida e Veneno de Don L](https://open.spotify.com/album/1BztKmvBesTWgxAxgc0yZK) | 3:49 |
-| 47 | [Invicto](https://open.spotify.com/track/3ecQ7EFhQCJbPfM8fQ5JaD) | [Filipe Ret](https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54), [Mãolee](https://open.spotify.com/artist/72aE07MxpePfCELo4vGZcK) | [Revel](https://open.spotify.com/album/422XU7tl8bg3VIklzD1VGf) | 4:16 |
+| 47 | [Invicto](https://open.spotify.com/track/26iIVLdPn5nhmMwiuGKK3F) | [Filipe Ret](https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54), [Mãolee](https://open.spotify.com/artist/72aE07MxpePfCELo4vGZcK) | [Revel](https://open.spotify.com/album/5XemDAjsXAgz0abzf5Adwq) | 4:16 |
 | 48 | [Rap du Bom Parte II \- Mús\. Incid.: Odara](https://open.spotify.com/track/0EVhSaqb9Ig1XOvvkp48F1) | [Rappin' Hood](https://open.spotify.com/artist/7cLvBjizqjjdC350aOQ2KW), [Caetano Veloso](https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ) | [Sujeito Homem 2](https://open.spotify.com/album/2fEyaMZVUrQqlEHtvV8SJD) | 7:15 |
 | 49 | [O Soldado Que Fica](https://open.spotify.com/track/0pn6i2lgX9snct72QlcUuB) | [MV Bill](https://open.spotify.com/artist/4oE4ASN8auDhoW9vsXp3VJ), [Kmila Cdd](https://open.spotify.com/artist/5pTtdzoyljdOQnTLVULZvv), [Maira Freitas](https://open.spotify.com/artist/4de0UvPPD98qUiXstPUGzF) | [Essencial](https://open.spotify.com/album/1uNvA7eJynl56pneh1xryl) | 6:02 |
 | 50 | [O Trem](https://open.spotify.com/track/4FpVLn9ne4NDGo83yRTAIi) | [RZO](https://open.spotify.com/artist/1CQJtHMGhqvrSZiRTjSeOU) | [RZO](https://open.spotify.com/album/0z0tSJkDzOzb7ljZPHsDgn) | 5:12 |
@@ -85,4 +85,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaljDe6fISR1.md) - [plain]
 | 75 | [Naquela Sala](https://open.spotify.com/track/0XJ6XyjRCW4XiWL9YmOwi8) | [AO Cubo](https://open.spotify.com/artist/1LTlPGgghut6Z0tPrX59YV) | [Década](https://open.spotify.com/album/1ZLYXUAUvUsolaTdaqfr6s) | 6:01 |
 | 76 | [Antes das 6:00, Pt\. 2 \- Bonus Track](https://open.spotify.com/track/3Dyhym3tetqLh2Axf0MrYl) | [DBS Gordão Chefe](https://open.spotify.com/artist/5YXT5F24Ljk9YOXg32x93j), [Péricles](https://open.spotify.com/artist/6gEzJZrbm0F4ihvE9iXR9z), [Projota](https://open.spotify.com/artist/2zGf6lwQ9PxXdoeo5XXP2K) | [Quantas Vezes Não Me Achei \(Deluxe\)](https://open.spotify.com/album/4osx7Hsw9f45WPHTBzjmVu) | 4:01 |
 
-Snapshot ID: `MCwxOTI5OTM5ZTJhOWI0YmRkMTRlMjE1Zjk5MWRiNGZhMTRlYzQyNGNm`
+Snapshot ID: `MCw2MDBkYTg1YmM2OTQ2N2UwMzA3MWMwNjA0ZjNiNTM1NWRjZTlkMmNi`

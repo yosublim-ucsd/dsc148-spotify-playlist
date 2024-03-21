@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 
 > This week's best new metal & hard rock tracks\. Cover: Windwaker
 
-[Spotify](https://open.spotify.com/user/spotify) - 710,768 likes - 65 songs - 4 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 710,819 likes - 65 songs - 4 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 | 22 | [One Dark Happy Nation](https://open.spotify.com/track/53UmJZUfNkHkMH8ldAY1AG) | [Gothminister](https://open.spotify.com/artist/2S3xwpueZpPVUDTTv7Wefx) | [One Dark Happy Nation](https://open.spotify.com/album/4K24QusgGGKnB5O7DZfkRi) | 3:36 |
 | 23 | [Empire](https://open.spotify.com/track/0rh6ie1S24XTyKXDCUd8aR) | [Capstan](https://open.spotify.com/artist/3cb9CRWtkBQNjVLQNLP9FE) | [Empire](https://open.spotify.com/album/23VCaSYUWBTn0mUgvuwBtJ) | 3:44 |
 | 24 | [All Of It For All Of Us](https://open.spotify.com/track/1NrSZORD0xtDrVuy9UPikS) | [Eye of the Enemy](https://open.spotify.com/artist/2kZFz0oADF6cgGnqURtvNb) | [All Of It For All Of Us](https://open.spotify.com/album/29GWd4A2fz15NeMugUePgN) | 6:38 |
-| 25 | [Gallow's Song](https://open.spotify.com/track/12qlLB2xqZMpBqdJ8rnSjM) | [Foxblood](https://open.spotify.com/artist/17pjImdVvIja9Es8R436NP) | [Gallow's Song](https://open.spotify.com/album/3tIdWDbjL1DQsAepRki520) | 4:03 |
+| 25 | [Gallows’ Song](https://open.spotify.com/track/12qlLB2xqZMpBqdJ8rnSjM) | [Foxblood](https://open.spotify.com/artist/17pjImdVvIja9Es8R436NP) | [Gallows’ Song](https://open.spotify.com/album/3tIdWDbjL1DQsAepRki520) | 4:03 |
 | 26 | [Yours Truly](https://open.spotify.com/track/0LfSlWOS4TXJHOBZ7fPiNy) | [Seventh Day Slumber](https://open.spotify.com/artist/6kFLnclYFc3gzpNt13wim5), [Magdalene Rose](https://open.spotify.com/artist/2FeTFqLD7rngYYCh2V4RyX) | [Fractured Paradise](https://open.spotify.com/album/4D78Ji3nKTl66eqgvWfNck) | 3:34 |
 | 27 | [The Black Curtain](https://open.spotify.com/track/2uSQwNx0A61vBI2XePH1a8) | [Gatecreeper](https://open.spotify.com/artist/0eCB2pwtPnLywA4rxe4i4N) | [The Black Curtain](https://open.spotify.com/album/48SXD0hFVhLJfICQMVIz3x) | 3:18 |
 | 28 | [Better Off](https://open.spotify.com/track/2QYMqnD3RB4mKhcgdo0CoD) | [Downswing](https://open.spotify.com/artist/7G66JwRjTXSaNXwlnbuYZo) | [Let This Life Devour You](https://open.spotify.com/album/6TPJ8poKJ8gSvVzgBOV4ta) | 3:16 |
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 | 64 | [Stockholm Syndrome](https://open.spotify.com/track/4SRkCHc22Ep8tCFTwONmgf) | [Pale Path](https://open.spotify.com/artist/7guXfR9IZ23NkaKn0OdpvD) | [Stockholm Syndrome](https://open.spotify.com/album/3MsNT89o8Z0mZTnvOX4HbP) | 2:39 |
 | 65 | [Kingdom](https://open.spotify.com/track/548QJ0CSvCYHUfHmx7L9VN) | [AWOL](https://open.spotify.com/artist/7GmixEjYEfCEw0Kxr1TM6U) | [Kingdom](https://open.spotify.com/album/74YG8EwAj4KnJtLmkwYKuZ) | 3:02 |
 
-Snapshot ID: `MCxjMThmYzg3Nzc5ZDQ5OGQwMjhmYmY3ZWM0MWY0NWFkN2Y3OGIwYTY4`
+Snapshot ID: `MCxiMWNiYTE1NGJkNTkzMTlhMGE0MTdjOTAxMzBjYTg1MGQzN2RkNjRh`

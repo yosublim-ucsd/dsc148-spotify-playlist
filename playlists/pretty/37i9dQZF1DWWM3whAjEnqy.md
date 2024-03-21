@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWM3whAjEnqy.md) - [plain]
 
 > Sun, sand, salt water and the perfect songs to match.
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,086 likes - 85 songs - 5 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,091 likes - 85 songs - 5 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,16 +26,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWM3whAjEnqy.md) - [plain]
 | 16 | [Home](https://open.spotify.com/track/6SGoFZFKjF1ZbGDkImEaS7) | [Hollow Coves](https://open.spotify.com/artist/7IAFAOtc9kTYNTizhLSWM6) | [Wanderlust](https://open.spotify.com/album/37yGR6auNK3W1XbcDYfSjw) | 3:22 |
 | 17 | [Chateau](https://open.spotify.com/track/48mqfE8RHAaxVWSr3aSOjD) | [Angus & Julia Stone](https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr) | [Snow](https://open.spotify.com/album/4egQIHw55CVeZ9BlS3fEoL) | 4:33 |
 | 18 | [Fire and the Flood](https://open.spotify.com/track/6liNJDyWJjyHAgDnAX95bw) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [Dream Your Life Away \(Special Edition\)](https://open.spotify.com/album/5S9b8euumqMhQbMk0zzQdH) | 4:09 |
-| 19 | [Uptown Folks](https://open.spotify.com/track/13ZpvzL10nw52uCDY13SkF) | [DOPE LEMON](https://open.spotify.com/artist/7oZLKL1GjYiaAgssXsLmW8) | [Honey Bones](https://open.spotify.com/album/6Eskc9vh8wniq95JXGFZ1V) | 4:48 |
-| 20 | [Talk It Out](https://open.spotify.com/track/6Ug0JMAhAVvytcnwBEMb5Z) | [Matt Corby](https://open.spotify.com/artist/7CIW23FQUXPc1zebnO1TDG), [Tash Sultana](https://open.spotify.com/artist/6zVFRTB0Y1whWyH7ZNmywf) | [Talk It Out](https://open.spotify.com/album/2uPJPiD4i7nMZ91R3AvgQ5) | 3:10 |
+| 19 | [Talk It Out](https://open.spotify.com/track/6Ug0JMAhAVvytcnwBEMb5Z) | [Matt Corby](https://open.spotify.com/artist/7CIW23FQUXPc1zebnO1TDG), [Tash Sultana](https://open.spotify.com/artist/6zVFRTB0Y1whWyH7ZNmywf) | [Talk It Out](https://open.spotify.com/album/2uPJPiD4i7nMZ91R3AvgQ5) | 3:10 |
+| 20 | [Uptown Folks](https://open.spotify.com/track/13ZpvzL10nw52uCDY13SkF) | [DOPE LEMON](https://open.spotify.com/artist/7oZLKL1GjYiaAgssXsLmW8) | [Honey Bones](https://open.spotify.com/album/6Eskc9vh8wniq95JXGFZ1V) | 4:48 |
 | 21 | [Into The Sun \- EP Version](https://open.spotify.com/track/4gFakkHz0RjUrbf9Ufilb7) | [Sons Of The East](https://open.spotify.com/artist/6cSxzHrQgGc4I4Ck5Gewej) | [Already Gone](https://open.spotify.com/album/0qOy9NpS6fADbXb0ViXNtE) | 5:00 |
 | 22 | [Sunbleached Girl](https://open.spotify.com/track/7xeJKKmWX8PT0N5jZccbVD) | [Shag Rock](https://open.spotify.com/artist/0SJxTOELZJa2Cf19TjNEfm) | [Barefoot](https://open.spotify.com/album/019HD6vbtg0G9wrqZXJCt8) | 2:57 |
 | 23 | [Jungle](https://open.spotify.com/track/3SkKLZFgKIY0DKX5Vro5jV) | [Tash Sultana](https://open.spotify.com/artist/6zVFRTB0Y1whWyH7ZNmywf) | [Jungle](https://open.spotify.com/album/4r2ptyNGtHhPSMvjUusNPY) | 5:15 |
 | 24 | [Lay It on Me](https://open.spotify.com/track/7oekneJCJO74ycdLzdk16v) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [Nation of Two](https://open.spotify.com/album/5f6Eu9QtujgGggq5qbbycV) | 3:35 |
 | 25 | [Songbird](https://open.spotify.com/track/1Up0tMGTc3FKasn7WMrioE) | [Bernard Fanning](https://open.spotify.com/artist/0afemm9P2Bb2LL99xHY32n) | [Tea & Sympathy](https://open.spotify.com/album/2OICen81GDKy8Mds7OdX4I) | 2:36 |
-| 26 | [Left Me Like Summer](https://open.spotify.com/track/0YVyOLWIh5pe9DEJJjjKKH) | [Daily J](https://open.spotify.com/artist/5Eu1oxL5oJhJxbRZYuuJEs) | [Venus Ate Mars](https://open.spotify.com/album/1jL5TTiuaTf52bwC3PLSrt) | 4:45 |
-| 27 | [So Caught Up](https://open.spotify.com/track/2SrTIQZs2Dzv9WC538a8xM) | [The Teskey Brothers](https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh) | [Run Home Slow](https://open.spotify.com/album/1kAEI20bjSPsByL6LNIyCT) | 3:48 |
-| 28 | [Brother](https://open.spotify.com/track/5KrdYQS4U1Emzer8QShBE7) | [Matt Corby](https://open.spotify.com/artist/7CIW23FQUXPc1zebnO1TDG) | [Into The Flame](https://open.spotify.com/album/51ET6cqHUpWJRtIHdJI20H) | 4:14 |
+| 26 | [Brother](https://open.spotify.com/track/5KrdYQS4U1Emzer8QShBE7) | [Matt Corby](https://open.spotify.com/artist/7CIW23FQUXPc1zebnO1TDG) | [Into The Flame](https://open.spotify.com/album/51ET6cqHUpWJRtIHdJI20H) | 4:14 |
+| 27 | [Left Me Like Summer](https://open.spotify.com/track/0YVyOLWIh5pe9DEJJjjKKH) | [Daily J](https://open.spotify.com/artist/5Eu1oxL5oJhJxbRZYuuJEs) | [Venus Ate Mars](https://open.spotify.com/album/1jL5TTiuaTf52bwC3PLSrt) | 4:45 |
+| 28 | [So Caught Up](https://open.spotify.com/track/2SrTIQZs2Dzv9WC538a8xM) | [The Teskey Brothers](https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh) | [Run Home Slow](https://open.spotify.com/album/1kAEI20bjSPsByL6LNIyCT) | 3:48 |
 | 29 | [Days in the Sun](https://open.spotify.com/track/4y4MynI3ysiE6pc4XsSTYR) | [Ziggy Alberts](https://open.spotify.com/artist/6tuPdaFPIytg3l2f51L7Hw) | [Land & Sea](https://open.spotify.com/album/2AlnrVJGAQQSYPs0wp1J9Q) | 3:34 |
 | 30 | [Millionaire](https://open.spotify.com/track/46WhhMGZ47aVtpJVASA2Dg) | [Sons Of The East](https://open.spotify.com/artist/6cSxzHrQgGc4I4Ck5Gewej) | [Millionaire](https://open.spotify.com/album/5q4tJmhwyfISzVJM3mCRhi) | 2:18 |
 | 31 | [The Dark Prince \(feat\. Mac DeMarco\)](https://open.spotify.com/track/0B4U9FT1WaFwUiiCPOAak7) | [Eyedress](https://open.spotify.com/artist/3XxNRirzbjfLdDli06zMaB), [Mac DeMarco](https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM) | [The Dark Prince \(feat\. Mac DeMarco\)](https://open.spotify.com/album/2atjjBxU7IWXpHbFU8DWNd) | 3:34 |
@@ -62,15 +62,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWM3whAjEnqy.md) - [plain]
 | 52 | [Mango Tree](https://open.spotify.com/track/1zhUjkAPnvPvkKpwHB5qWT) | [Angus & Julia Stone](https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr) | [A Book Like This](https://open.spotify.com/album/4khfoV9Y97TfbOUzjzaiWU) | 3:45 |
 | 53 | [Ride](https://open.spotify.com/track/40a71fyOae5rPfqo8JPoLL) | [Mako Road](https://open.spotify.com/artist/5dbCgsqzVweFpd1yYHv3Bz) | [The Green Superintendent](https://open.spotify.com/album/58n9RgidWA0gk6pyJVRIP7) | 4:49 |
 | 54 | [together](https://open.spotify.com/track/4w1MYoRSAWgAvrrprJDjnI) | [Ziggy Alberts](https://open.spotify.com/artist/6tuPdaFPIytg3l2f51L7Hw) | [searching for freedom](https://open.spotify.com/album/3X06VUjGsF0QAOPXercS7L) | 4:02 |
-| 55 | [It's Been a Long Day](https://open.spotify.com/track/4oc0dMfgMj6cA7WCJneZrD) | [Spacey Jane](https://open.spotify.com/artist/6V70yeZQCoSR2M3fyW8qiA) | [Here Comes Everybody](https://open.spotify.com/album/5lnbzrucSAV8KKxTDtfvER) | 4:04 |
-| 56 | [Notion](https://open.spotify.com/track/1HTqgP13dorct3BltLaB0l) | [Tash Sultana](https://open.spotify.com/artist/6zVFRTB0Y1whWyH7ZNmywf) | [Notion \- EP](https://open.spotify.com/album/42KDvyFS8ZBOxan2uKZuW5) | 5:41 |
+| 55 | [Notion](https://open.spotify.com/track/1HTqgP13dorct3BltLaB0l) | [Tash Sultana](https://open.spotify.com/artist/6zVFRTB0Y1whWyH7ZNmywf) | [Notion \- EP](https://open.spotify.com/album/42KDvyFS8ZBOxan2uKZuW5) | 5:41 |
+| 56 | [It's Been a Long Day](https://open.spotify.com/track/4oc0dMfgMj6cA7WCJneZrD) | [Spacey Jane](https://open.spotify.com/artist/6V70yeZQCoSR2M3fyW8qiA) | [Here Comes Everybody](https://open.spotify.com/album/5lnbzrucSAV8KKxTDtfvER) | 4:04 |
 | 57 | [Believe \(Triple J Like A Version\)](https://open.spotify.com/track/24oDOsC6NhYkgKQUcpLBIm) | [DMA'S](https://open.spotify.com/artist/1iUTUix5kea176M0uJTsh4) | [Believe \(Triple J Like A Version\)](https://open.spotify.com/album/3RNhkVTNmEXUSNeVt5S2AJ) | 3:17 |
 | 58 | [Catch My Disease](https://open.spotify.com/track/4vqHz44pzFSfDNIE20QRBu) | [Ben Lee](https://open.spotify.com/artist/06y1hH4hu3rcTUXHJevPCf) | [Awake Is the New Sleep](https://open.spotify.com/album/4LiDSTPH86zTRUFnu7tYam) | 4:14 |
 | 59 | [Double Espresso](https://open.spotify.com/track/5FJKZdHAJUBHF55LgWGesp) | [DICE](https://open.spotify.com/artist/5E5dw9k43AX9GGGEA606KC) | [Double Espresso](https://open.spotify.com/album/37b6N6qzjS2k1LvbdSCdF9) | 3:25 |
 | 60 | [Messages](https://open.spotify.com/track/2hXgZdNNnIOOfXmWDzF05n) | [Xavier Rudd](https://open.spotify.com/artist/5lbM4g6bhxjNX7R5QHP2nD) | [Food In The Belly](https://open.spotify.com/album/0Pp0Rf05GuUQfeksQnVV0G) | 4:02 |
-| 61 | [Lady Blue](https://open.spotify.com/track/1Tqhq3ZF1FCoUiS10Cgxzt) | [Emily Wurramara](https://open.spotify.com/artist/0OKjEr4iSUvgGSebJakjNF) | [Milyakburra](https://open.spotify.com/album/6BPIK9SvnYZXPQJlLqh0Kp) | 2:51 |
+| 61 | [Strangers](https://open.spotify.com/track/1LG0NlZUludshTbX5iE8Bo) | [Tia Gostelow](https://open.spotify.com/artist/4blt4zG5qMjWCPymNjDNP5), [LANKS](https://open.spotify.com/artist/6f5yObGSpFj9eJL55GBzrb) | [Thick Skin](https://open.spotify.com/album/0mlELU0kLfrlVZDtMRVHIO) | 3:02 |
 | 62 | [True Lovers](https://open.spotify.com/track/5RHY7WkAjAhpxuPN0CTd4F) | [Holy Holy](https://open.spotify.com/artist/5KeQyt1QJBjcutJ2AuLNO2) | [Paint](https://open.spotify.com/album/6J8EzIkd1LeP07kIF77RNz) | 4:19 |
-| 63 | [Strangers](https://open.spotify.com/track/1LG0NlZUludshTbX5iE8Bo) | [Tia Gostelow](https://open.spotify.com/artist/4blt4zG5qMjWCPymNjDNP5), [LANKS](https://open.spotify.com/artist/6f5yObGSpFj9eJL55GBzrb) | [Thick Skin](https://open.spotify.com/album/0mlELU0kLfrlVZDtMRVHIO) | 3:02 |
+| 63 | [Lady Blue](https://open.spotify.com/track/1Tqhq3ZF1FCoUiS10Cgxzt) | [Emily Wurramara](https://open.spotify.com/artist/0OKjEr4iSUvgGSebJakjNF) | [Milyakburra](https://open.spotify.com/album/6BPIK9SvnYZXPQJlLqh0Kp) | 2:51 |
 | 64 | [Daquiri](https://open.spotify.com/track/2YCN6XAAGD5YLwO5YKBgqa) | [Mako Road](https://open.spotify.com/artist/5dbCgsqzVweFpd1yYHv3Bz) | [Brodie Street / Daquiri](https://open.spotify.com/album/3ExUufIlgFQJE7l4XRs7Pg) | 4:36 |
 | 65 | [Strawberry Daydream](https://open.spotify.com/track/2I5jfuDTkiWOEFu66lUrgv) | [Pacific Avenue](https://open.spotify.com/artist/0I31FkQFn7gxEVAsWGNjvZ) | [Flowers](https://open.spotify.com/album/0sY90YfWxpjWpnNHV6WxH4) | 3:07 |
 | 66 | [Drift](https://open.spotify.com/track/2y14MWseQnWXApjJjNCPm8) | [Great Gable](https://open.spotify.com/artist/1jZfA0AdL9iA5PPLwoVvy1) | [GG](https://open.spotify.com/album/29zHxPajPzaDJ4CgMVWiHF) | 4:03 |
@@ -81,8 +81,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWM3whAjEnqy.md) - [plain]
 | 71 | [Never Gonna Give You Up](https://open.spotify.com/track/4VmJxOc6dQqgcVmZa8nWGK) | [Hazlett](https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH) | [Never Gonna Give You Up](https://open.spotify.com/album/3g0uQDl6eYPBGsbX9C3axd) | 2:37 |
 | 72 | [On Our Own](https://open.spotify.com/track/5pLgio8GlWLCwaZkUTtboI) | [Lime Cordiale](https://open.spotify.com/artist/6yrtCy4XJHXM6tczo4RlTs) | [14 Steps To A Better You](https://open.spotify.com/album/537M91OtVxaFAgF4HYcQKY) | 3:36 |
 | 73 | [Be About You](https://open.spotify.com/track/1KWV9Yim7CuklJYp0Ne8AK) | [Winston Surfshirt](https://open.spotify.com/artist/61HS7DjYDQIkKSeGvpqmJh) | [Sponge Cake](https://open.spotify.com/album/5rBavL5GFknqp1CREqx4Ov) | 4:05 |
-| 74 | [La Mar](https://open.spotify.com/track/2qrVYBy2PArMwQRVZxFWzz) | [The Beautiful Girls](https://open.spotify.com/artist/0hDJSg859MdK4c9vqu1dS8) | [HOPE Campaign Tribute Album 2010](https://open.spotify.com/album/6nKCSPUzU4GLM7cqqYmruM) | 4:17 |
-| 75 | [Everything Is Easy](https://open.spotify.com/track/2ME1Q6GWXOt0oEqBHtDFvY) | [Rum Jungle](https://open.spotify.com/artist/2xQ0QRK08xh3WWBf2RKpsm) | [Everything Is Easy](https://open.spotify.com/album/5Ic1mp3JN5Fv2gLrXK5y0r) | 3:17 |
+| 74 | [Everything Is Easy](https://open.spotify.com/track/2ME1Q6GWXOt0oEqBHtDFvY) | [Rum Jungle](https://open.spotify.com/artist/2xQ0QRK08xh3WWBf2RKpsm) | [Everything Is Easy](https://open.spotify.com/album/5Ic1mp3JN5Fv2gLrXK5y0r) | 3:17 |
+| 75 | [La Mar](https://open.spotify.com/track/2qrVYBy2PArMwQRVZxFWzz) | [The Beautiful Girls](https://open.spotify.com/artist/0hDJSg859MdK4c9vqu1dS8) | [HOPE Campaign Tribute Album 2010](https://open.spotify.com/album/6nKCSPUzU4GLM7cqqYmruM) | 4:17 |
 | 76 | [Weightless](https://open.spotify.com/track/2Nyx8ESKOOcpA5RRXy3q3P) | [Spacey Jane](https://open.spotify.com/artist/6V70yeZQCoSR2M3fyW8qiA) | [Sunlight](https://open.spotify.com/album/3zZi1vy6CnNZX7lbcRJtXo) | 4:11 |
 | 77 | [Better People](https://open.spotify.com/track/1k9fcGWwrnyuij2Lvd3OHs) | [Xavier Rudd](https://open.spotify.com/artist/5lbM4g6bhxjNX7R5QHP2nD) | [White Moth](https://open.spotify.com/album/2qUM67vpnB4wehzTRik1uc) | 3:05 |
 | 78 | [I Get Up](https://open.spotify.com/track/1ZvZONTDAMki5FLguXTju4) | [The Teskey Brothers](https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh) | [Half Mile Harvest](https://open.spotify.com/album/6seixGAN22NspEmvRID4fG) | 4:23 |
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWM3whAjEnqy.md) - [plain]
 | 84 | [Rusty](https://open.spotify.com/track/1A7fsnhsxxy9mZl8uxqObC) | [Hein Cooper](https://open.spotify.com/artist/75Cb1lVnzQa6mPaJA16Ho0) | [The Art of Escape](https://open.spotify.com/album/1M0Nx2PbPSYksQbHf5fiWn) | 3:18 |
 | 85 | [Good Grief](https://open.spotify.com/track/3DasFU2wqxdxyV6Wbm8SHI) | [Spacey Jane](https://open.spotify.com/artist/6V70yeZQCoSR2M3fyW8qiA) | [Sunlight](https://open.spotify.com/album/3zZi1vy6CnNZX7lbcRJtXo) | 3:48 |
 
-Snapshot ID: `MCw0Zjk3YjEyOGI1YzI1ZGQ2MjMyNzQwZDM4OWU1NTIzOTA1NGJlMjM2`
+Snapshot ID: `MCwxZWYyZjcwNjIxZDRhMmQxYjgxYzJjMDUxYTgxNzU0ZWFmMjMwNjEx`

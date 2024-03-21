@@ -1,5 +1,5 @@
 {
-  "2024-03-20": 865372,
+  "2024-03-21": 865507,
   "date_first_scraped": "2022-04-20",
   "description": "This is our playground! \ud83e\udea9\u200a",
   "name": "Electronic Circus",
@@ -3472,6 +3472,36 @@
     },
     {
       "album": {
+        "name": "Immer (Oliver Koletzki Remix)",
+        "url": "https://open.spotify.com/album/31H2qxyd24RkSkigx4wqU8"
+      },
+      "artists": [
+        {
+          "name": "Ede",
+          "url": "https://open.spotify.com/artist/7mxkWNWc7ceydKrZmVQmKK"
+        },
+        {
+          "name": "Deckert",
+          "url": "https://open.spotify.com/artist/6p6VbQGtr0chGqPhRH2aOd"
+        },
+        {
+          "name": "Oliver Koletzki",
+          "url": "https://open.spotify.com/artist/1WjBIvYAnZTkTh5UiZNwlR"
+        },
+        {
+          "name": "Sargland",
+          "url": "https://open.spotify.com/artist/5nV7I7kKE57Z6lXvKbu15u"
+        }
+      ],
+      "date_added": "2024-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 375704,
+      "name": "Immer - Oliver Koletzki Remix",
+      "url": "https://open.spotify.com/track/4osJFT0X475tG30ymuC3DW"
+    },
+    {
+      "album": {
         "name": "In A Blurry World",
         "url": "https://open.spotify.com/album/4lfQqESSeqD0m6W2VSN23g"
       },
@@ -3589,6 +3619,24 @@
       "duration_ms": 228196,
       "name": "Irani - Joris Delacroix Remix",
       "url": "https://open.spotify.com/track/0RAKYllv4sHLI5GzDXIOqd"
+    },
+    {
+      "album": {
+        "name": "Conjunction Anto",
+        "url": "https://open.spotify.com/album/2rXZnfzheCo68xAOlVFOUZ"
+      },
+      "artists": [
+        {
+          "name": "Matchy",
+          "url": "https://open.spotify.com/artist/5BF9eGIdwa9gt4RAXP8w1n"
+        }
+      ],
+      "date_added": "2024-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 440655,
+      "name": "Irreversible",
+      "url": "https://open.spotify.com/track/5dhrGi8mhNpT8949MbgW9v"
     },
     {
       "album": {
@@ -5003,7 +5051,7 @@
       ],
       "date_added": "2024-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-20",
       "duration_ms": 240000,
       "name": "Ouria Deka - Urmet K Remix Edit",
       "url": "https://open.spotify.com/track/1CtzjonrreTn0QfLoVa8Kq"
@@ -5809,7 +5857,7 @@
       ],
       "date_added": "2024-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-20",
       "duration_ms": 250145,
       "name": "Romantika",
       "url": "https://open.spotify.com/track/4nOOoo9OJbgnTBNHe5b6nD"

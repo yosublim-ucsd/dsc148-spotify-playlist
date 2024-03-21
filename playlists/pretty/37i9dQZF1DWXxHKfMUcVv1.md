@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXxHKfMUcVv1.md) - [plain]
 
 > Música refrescante, para vencer el calor.
 
-[Spotify](https://open.spotify.com/user/spotify) - 114,671 likes - 50 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 114,703 likes - 50 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXxHKfMUcVv1.md) - [plain]
 | 32 | [Perdi mi amor](https://open.spotify.com/track/0JbUojx7kyiv7tSPxICWTx) | [Andy El Unico](https://open.spotify.com/artist/4I40qR0RmdYmHV9rDxCQla) | [Loco](https://open.spotify.com/album/3Il6rnmvc0ruO44K5uxxKp) | 3:43 |
 | 33 | [Corazón](https://open.spotify.com/track/7gt6pwqf6YuDT1zeuiSuSU) | [Cumbia Juan](https://open.spotify.com/artist/14W5NzubXTLLLVF4XjtCU2) | [Revolution](https://open.spotify.com/album/1YWjYbZUVDXgnUqa7MSaWE) | 3:15 |
 | 34 | [Amigos Con Derecho](https://open.spotify.com/track/0s20N1FV0QZ5Stp5GXH2cj) | [Japiaguar](https://open.spotify.com/artist/3yj43IXk2ADWZ9y6Q2oRMK), [Mama Santa](https://open.spotify.com/artist/4yfN6I5gIxbvuSCWEgM3SW) | [Amigos Con Derecho](https://open.spotify.com/album/0WlUBg6W43IB3Wp6vY9YuK) | 3:06 |
-| 35 | [Amaneció lloviendo](https://open.spotify.com/track/3zZsSn7sjY7sZQtRT7tJNa) | [Talento de Barrio](https://open.spotify.com/artist/0HTe9EZNu88PPSaDDOPpdq) | [Amaneció lloviendo](https://open.spotify.com/album/0IxIeG2XORcCoPjyGWtBzt) | 3:09 |
-| 36 | [Quiero Que Sepas](https://open.spotify.com/track/2rXTonSdSG5HjIn2wLRT5h) | [Los Verduleros](https://open.spotify.com/artist/5yTrVUubgntK5Gxzrr3cz3) | [Greatest Hits](https://open.spotify.com/album/2xumgy1DDUx42GA14uMogt) | 3:43 |
+| 35 | [Quiero Que Sepas](https://open.spotify.com/track/2rXTonSdSG5HjIn2wLRT5h) | [Los Verduleros](https://open.spotify.com/artist/5yTrVUubgntK5Gxzrr3cz3) | [Greatest Hits](https://open.spotify.com/album/2xumgy1DDUx42GA14uMogt) | 3:43 |
+| 36 | [Amaneció lloviendo](https://open.spotify.com/track/3zZsSn7sjY7sZQtRT7tJNa) | [Talento de Barrio](https://open.spotify.com/artist/0HTe9EZNu88PPSaDDOPpdq) | [Amaneció lloviendo](https://open.spotify.com/album/0IxIeG2XORcCoPjyGWtBzt) | 3:09 |
 | 37 | [Solito](https://open.spotify.com/track/3GyVh0ptPs7ttfbpex6Bmn) | [Salamandra](https://open.spotify.com/artist/1sLot73qJ4Vbh4nPuwzvj9) | [Alma en Peña](https://open.spotify.com/album/4bkPnI5gKmETlDyZe5BKEH) | 3:56 |
 | 38 | [Vienes y Te Vas](https://open.spotify.com/track/4L81kjuMNo9Gg6h1Bkyi0F) | [Grupo Ternura](https://open.spotify.com/artist/1f8KqVQNiSJ95tiWLjTevq) | [El Rey del Norte](https://open.spotify.com/album/3AtBWO9bJ7HzPoVXkfrVKf) | 3:18 |
 | 39 | [Pobre De Mis Ojos](https://open.spotify.com/track/22vlaPIylFwBjlsqIVDNHC) | [Noa \- Noa](https://open.spotify.com/artist/2CZXBNQi0AcQUVeYVexnc7) | [Olvídame Si Puedes](https://open.spotify.com/album/07k20XjUo2eH3ehAjTNZ7H) | 3:18 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXxHKfMUcVv1.md) - [plain]
 | 49 | [Todo va a estar mejor](https://open.spotify.com/track/7dho4N5H5etH68vQkROikt) | [Bohemia Urbana](https://open.spotify.com/artist/3291CCSyTY0umdaKwGbjdV) | [Macumba y Payé](https://open.spotify.com/album/5mGXFIhky9btBggWADmnPg) | 2:39 |
 | 50 | [En La Luna Y En Marte](https://open.spotify.com/track/6kvruD8T7VanoOwdae5VZJ) | [Rumberos](https://open.spotify.com/artist/4y5cUwfnsyFAy23py47pbn) | [Rumbo a Tu Corazon](https://open.spotify.com/album/3ypyKq60YlA0bGQYGp5sDQ) | 3:39 |
 
-Snapshot ID: `MCxlZjRiNTYxZjUzYWE1YTQ2MzM0MDJkNGVmNGJkNDg2OGJmYmQ0Njg3`
+Snapshot ID: `MCxiYzNiMGMxYjc3MTZlNmVjNjQyNDRiNGViNTU5YTQ1MjZjNWYzOTlm`

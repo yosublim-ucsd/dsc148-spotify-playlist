@@ -1,12 +1,12 @@
 {
   "description": "Lo que necesita cualquier verbena veraniega.",
-  "num_followers": 347423,
+  "num_followers": 347413,
   "original_name": "Cl\u00e1sicos del Verano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkZWZhZmNlNjRjNThmNDE2OTc3YTgzZTMyNDUyZGJiZWE3Y2M2NGI2",
+  "snapshot_id": "MCwwYWQ0M2M3NjI3OWUyY2U5Y2JlZTMwOWY3MGMyNmYwYjdhYmVjMTQ5",
   "tracks": [
     {
       "added_at": "2023-06-09 09:38:51",
@@ -427,22 +427,6 @@
     {
       "added_at": "2023-06-09 09:38:51",
       "album": {
-        "name": "The Final Countdown (Expanded Edition)",
-        "url": "https://open.spotify.com/album/5Jkd47JEaCU1g4DcGBnHm3"
-      },
-      "artists": [
-        {
-          "name": "Europe",
-          "url": "https://open.spotify.com/artist/7Js6Lde8thlIHXggv2SCBz"
-        }
-      ],
-      "duration_ms": 310333,
-      "name": "The Final Countdown",
-      "url": "https://open.spotify.com/track/3MrRksHupTVEQ7YbA0FsZK"
-    },
-    {
-      "added_at": "2023-06-09 09:38:51",
-      "album": {
         "name": "Peace Is The Mission",
         "url": "https://open.spotify.com/album/2rqjmynngV4AmGoL1ZEuwM"
       },
@@ -463,6 +447,22 @@
       "duration_ms": 176561,
       "name": "Lean On",
       "url": "https://open.spotify.com/track/01aTsQoKoeXofSTvKuunzv"
+    },
+    {
+      "added_at": "2023-06-09 09:38:51",
+      "album": {
+        "name": "The Final Countdown (Expanded Edition)",
+        "url": "https://open.spotify.com/album/5Jkd47JEaCU1g4DcGBnHm3"
+      },
+      "artists": [
+        {
+          "name": "Europe",
+          "url": "https://open.spotify.com/artist/7Js6Lde8thlIHXggv2SCBz"
+        }
+      ],
+      "duration_ms": 310333,
+      "name": "The Final Countdown",
+      "url": "https://open.spotify.com/track/3MrRksHupTVEQ7YbA0FsZK"
     },
     {
       "added_at": "2023-06-09 09:38:51",
@@ -871,26 +871,6 @@
     {
       "added_at": "2023-06-09 09:38:51",
       "album": {
-        "name": "Blue (Da Ba Dee)",
-        "url": "https://open.spotify.com/album/3j90eFnVFEYzOVt024QCTf"
-      },
-      "artists": [
-        {
-          "name": "Eiffel 65",
-          "url": "https://open.spotify.com/artist/64rxQRJsLgZwHHyWKB8fiF"
-        },
-        {
-          "name": "Gabry Ponte",
-          "url": "https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D"
-        }
-      ],
-      "duration_ms": 283747,
-      "name": "Blue (Da Ba Dee) - Gabry Ponte Ice Pop Radio",
-      "url": "https://open.spotify.com/track/5QRAfvKPyQpwt897Jc0glg"
-    },
-    {
-      "added_at": "2023-06-09 09:38:51",
-      "album": {
         "name": "Fijaci\u00f3n Oral, Vol. 1",
         "url": "https://open.spotify.com/album/3zHPYwiMJqa3hTBgk695Ae"
       },
@@ -1063,6 +1043,26 @@
     {
       "added_at": "2023-06-09 09:38:51",
       "album": {
+        "name": "Love Generation (Radio Edit)",
+        "url": "https://open.spotify.com/album/65crznT6OSNgS5riyglAKu"
+      },
+      "artists": [
+        {
+          "name": "Bob Sinclar",
+          "url": "https://open.spotify.com/artist/5YFS41yoX0YuFY39fq21oN"
+        },
+        {
+          "name": "Gary Pine",
+          "url": "https://open.spotify.com/artist/2cSQyZg5t274Y3Nv0uuwjd"
+        }
+      ],
+      "duration_ms": 204105,
+      "name": "Love Generation - Radio Edit",
+      "url": "https://open.spotify.com/track/7iee007QypdrTXbLVF5KuF"
+    },
+    {
+      "added_at": "2023-06-09 09:38:51",
+      "album": {
         "name": "It's Pony Time/Let's Twist Again",
         "url": "https://open.spotify.com/album/4btfmKwgAHFtN7BQUSHta0"
       },
@@ -1095,22 +1095,26 @@
     {
       "added_at": "2023-06-09 09:38:51",
       "album": {
-        "name": "Love Generation (Radio Edit)",
-        "url": "https://open.spotify.com/album/65crznT6OSNgS5riyglAKu"
+        "name": "SEX AND LOVE (Deluxe)",
+        "url": "https://open.spotify.com/album/2kZkiVn1m00XcgaWlLb2LD"
       },
       "artists": [
         {
-          "name": "Bob Sinclar",
-          "url": "https://open.spotify.com/artist/5YFS41yoX0YuFY39fq21oN"
+          "name": "Enrique Iglesias",
+          "url": "https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw"
         },
         {
-          "name": "Gary Pine",
-          "url": "https://open.spotify.com/artist/2cSQyZg5t274Y3Nv0uuwjd"
+          "name": "Descemer Bueno",
+          "url": "https://open.spotify.com/artist/5luyt0SUvGkDMY4ILP6Qhl"
+        },
+        {
+          "name": "Gente De Zona",
+          "url": "https://open.spotify.com/artist/2cy1zPcrFcXAJTP0APWewL"
         }
       ],
-      "duration_ms": 204105,
-      "name": "Love Generation - Radio Edit",
-      "url": "https://open.spotify.com/track/7iee007QypdrTXbLVF5KuF"
+      "duration_ms": 243413,
+      "name": "Bailando - Spanish Version",
+      "url": "https://open.spotify.com/track/32lm3769IRfcnrQV11LO4E"
     },
     {
       "added_at": "2023-06-09 09:38:51",
@@ -1163,30 +1167,6 @@
     {
       "added_at": "2023-06-09 09:38:51",
       "album": {
-        "name": "SEX AND LOVE (Deluxe)",
-        "url": "https://open.spotify.com/album/2kZkiVn1m00XcgaWlLb2LD"
-      },
-      "artists": [
-        {
-          "name": "Enrique Iglesias",
-          "url": "https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw"
-        },
-        {
-          "name": "Descemer Bueno",
-          "url": "https://open.spotify.com/artist/5luyt0SUvGkDMY4ILP6Qhl"
-        },
-        {
-          "name": "Gente De Zona",
-          "url": "https://open.spotify.com/artist/2cy1zPcrFcXAJTP0APWewL"
-        }
-      ],
-      "duration_ms": 243413,
-      "name": "Bailando - Spanish Version",
-      "url": "https://open.spotify.com/track/32lm3769IRfcnrQV11LO4E"
-    },
-    {
-      "added_at": "2023-06-09 09:38:51",
-      "album": {
         "name": "A Quien Quiera Escuchar (Deluxe Edition)",
         "url": "https://open.spotify.com/album/375cUd86z58eqXN2yW3Do9"
       },
@@ -1207,22 +1187,6 @@
     {
       "added_at": "2023-06-09 09:38:51",
       "album": {
-        "name": "Hijas del Tomate",
-        "url": "https://open.spotify.com/album/5Fs94v1xXPl8Q1mTMWMTLO"
-      },
-      "artists": [
-        {
-          "name": "Las Ketchup",
-          "url": "https://open.spotify.com/artist/1e8GEl48ktvfDpruMKB6Oe"
-        }
-      ],
-      "duration_ms": 213973,
-      "name": "The Ketchup Song (Aserej\u00e9) - Spanglish Version",
-      "url": "https://open.spotify.com/track/6UEfyhyfhYQsyipxOd95Ie"
-    },
-    {
-      "added_at": "2023-06-09 09:38:51",
-      "album": {
         "name": "La Dura Vida del Joven Rapero",
         "url": "https://open.spotify.com/album/507EX6i0GGn2b4l2DGcl2y"
       },
@@ -1239,6 +1203,22 @@
       "duration_ms": 219666,
       "name": "Contando Lunares (feat. Cruz Cafun\u00e9)",
       "url": "https://open.spotify.com/track/6uW0PIRcyZLvkoonm763xD"
+    },
+    {
+      "added_at": "2023-06-09 09:38:51",
+      "album": {
+        "name": "Hijas del Tomate",
+        "url": "https://open.spotify.com/album/5Fs94v1xXPl8Q1mTMWMTLO"
+      },
+      "artists": [
+        {
+          "name": "Las Ketchup",
+          "url": "https://open.spotify.com/artist/1e8GEl48ktvfDpruMKB6Oe"
+        }
+      ],
+      "duration_ms": 213973,
+      "name": "The Ketchup Song (Aserej\u00e9) - Spanglish Version",
+      "url": "https://open.spotify.com/track/6UEfyhyfhYQsyipxOd95Ie"
     },
     {
       "added_at": "2023-06-09 09:38:51",
@@ -1407,22 +1387,6 @@
     {
       "added_at": "2023-06-09 09:38:51",
       "album": {
-        "name": "Older",
-        "url": "https://open.spotify.com/album/45evuVVrY9LzPez8geNEIF"
-      },
-      "artists": [
-        {
-          "name": "George Michael",
-          "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
-        }
-      ],
-      "duration_ms": 324666,
-      "name": "Fastlove, Pt. 1",
-      "url": "https://open.spotify.com/track/6SaeXxdt0Id6ZzmX0ZGTQK"
-    },
-    {
-      "added_at": "2023-06-09 09:38:51",
-      "album": {
         "name": "Hums Of The Lovin' Spoonful",
         "url": "https://open.spotify.com/album/3enoBBhSA6i2pXEP8rjAWY"
       },
@@ -1435,6 +1399,22 @@
       "duration_ms": 160306,
       "name": "Summer in the City - Remastered",
       "url": "https://open.spotify.com/track/7AzFID6u1b3zIWbd9pb8Dk"
+    },
+    {
+      "added_at": "2023-06-09 09:38:51",
+      "album": {
+        "name": "Older",
+        "url": "https://open.spotify.com/album/45evuVVrY9LzPez8geNEIF"
+      },
+      "artists": [
+        {
+          "name": "George Michael",
+          "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
+        }
+      ],
+      "duration_ms": 324666,
+      "name": "Fastlove, Pt. 1",
+      "url": "https://open.spotify.com/track/6SaeXxdt0Id6ZzmX0ZGTQK"
     },
     {
       "added_at": "2023-06-09 09:38:51",
@@ -1927,22 +1907,6 @@
     {
       "added_at": "2023-06-09 09:38:51",
       "album": {
-        "name": "El misterioso caso de Efecto Pasillo",
-        "url": "https://open.spotify.com/album/0eXjOfykk3LkiqPtFnFMji"
-      },
-      "artists": [
-        {
-          "name": "Efecto Pasillo",
-          "url": "https://open.spotify.com/artist/6CSa1r92LtHHdLG6kRabU3"
-        }
-      ],
-      "duration_ms": 202146,
-      "name": "Pan y mantequilla",
-      "url": "https://open.spotify.com/track/2kZJ5wrpq1gCdHmVEjahoH"
-    },
-    {
-      "added_at": "2023-06-09 09:38:51",
-      "album": {
         "name": "La Bomba",
         "url": "https://open.spotify.com/album/6P73QHeqdIP1AnJYopAPB2"
       },
@@ -1955,6 +1919,22 @@
       "duration_ms": 199106,
       "name": "La Bomba",
       "url": "https://open.spotify.com/track/5UmGJS0jd1r52OjnNvVHvU"
+    },
+    {
+      "added_at": "2023-06-09 09:38:51",
+      "album": {
+        "name": "El misterioso caso de Efecto Pasillo",
+        "url": "https://open.spotify.com/album/0eXjOfykk3LkiqPtFnFMji"
+      },
+      "artists": [
+        {
+          "name": "Efecto Pasillo",
+          "url": "https://open.spotify.com/artist/6CSa1r92LtHHdLG6kRabU3"
+        }
+      ],
+      "duration_ms": 202146,
+      "name": "Pan y mantequilla",
+      "url": "https://open.spotify.com/track/2kZJ5wrpq1gCdHmVEjahoH"
     },
     {
       "added_at": "2023-06-09 09:38:51",
@@ -2007,22 +1987,6 @@
     {
       "added_at": "2023-06-09 09:38:51",
       "album": {
-        "name": "Risqu\u00e9 (2018 Remaster)",
-        "url": "https://open.spotify.com/album/7rAk4WPpYlYr0fElVfXTOF"
-      },
-      "artists": [
-        {
-          "name": "CHIC",
-          "url": "https://open.spotify.com/artist/0Xf8oDAJYd2D0k3NLI19OV"
-        }
-      ],
-      "duration_ms": 486186,
-      "name": "Good Times - 2018 Remaster",
-      "url": "https://open.spotify.com/track/2wYKNcoqKW4IEcllj42xz1"
-    },
-    {
-      "added_at": "2023-06-09 09:38:51",
-      "album": {
         "name": "Todos Los D\u00edas Sale El Sol",
         "url": "https://open.spotify.com/album/6qpGqHU6oXNUqluVYz0coh"
       },
@@ -2051,6 +2015,22 @@
       "duration_ms": 318986,
       "name": "Salir",
       "url": "https://open.spotify.com/track/4z2EeFUp5Lhai9qhHtA6IF"
+    },
+    {
+      "added_at": "2023-06-09 09:38:51",
+      "album": {
+        "name": "Risqu\u00e9 (2018 Remaster)",
+        "url": "https://open.spotify.com/album/7rAk4WPpYlYr0fElVfXTOF"
+      },
+      "artists": [
+        {
+          "name": "CHIC",
+          "url": "https://open.spotify.com/artist/0Xf8oDAJYd2D0k3NLI19OV"
+        }
+      ],
+      "duration_ms": 486186,
+      "name": "Good Times - 2018 Remaster",
+      "url": "https://open.spotify.com/track/2wYKNcoqKW4IEcllj42xz1"
     },
     {
       "added_at": "2023-06-09 09:38:51",
@@ -2123,22 +2103,6 @@
     {
       "added_at": "2023-06-09 09:38:51",
       "album": {
-        "name": "Que No Se Extinga La Llama!",
-        "url": "https://open.spotify.com/album/100SajoSYlozWJ2wRFKob3"
-      },
-      "artists": [
-        {
-          "name": "Seguridad Social",
-          "url": "https://open.spotify.com/artist/5UbMQUFrcJdDstPCza7y0B"
-        }
-      ],
-      "duration_ms": 187999,
-      "name": "Chiquilla",
-      "url": "https://open.spotify.com/track/4eJikwHYHJ3yMg1tvS1Mom"
-    },
-    {
-      "added_at": "2023-06-09 09:38:51",
-      "album": {
         "name": "Paulina",
         "url": "https://open.spotify.com/album/64M45unRUhuzlOYth6w5HB"
       },
@@ -2155,18 +2119,34 @@
     {
       "added_at": "2023-06-09 09:38:51",
       "album": {
-        "name": "Macarena (EP)",
-        "url": "https://open.spotify.com/album/1anwf7hhIur6jnVg70pXGc"
+        "name": "Que No Se Extinga La Llama!",
+        "url": "https://open.spotify.com/album/100SajoSYlozWJ2wRFKob3"
       },
       "artists": [
         {
-          "name": "Los Del Rio",
-          "url": "https://open.spotify.com/artist/2JXn03fudjyRkQ1Ye9f5rk"
+          "name": "Seguridad Social",
+          "url": "https://open.spotify.com/artist/5UbMQUFrcJdDstPCza7y0B"
         }
       ],
-      "duration_ms": 224626,
-      "name": "Macarena - Bayside Boys Remix",
-      "url": "https://open.spotify.com/track/07DcH2UllHvVRKjD2HEJuC"
+      "duration_ms": 187999,
+      "name": "Chiquilla",
+      "url": "https://open.spotify.com/track/4eJikwHYHJ3yMg1tvS1Mom"
+    },
+    {
+      "added_at": "2023-06-09 09:38:51",
+      "album": {
+        "name": "Up (Special Edition)",
+        "url": "https://open.spotify.com/album/0GeBgrCuLqz4NKMiv1aRez"
+      },
+      "artists": [
+        {
+          "name": "Right Said Fred",
+          "url": "https://open.spotify.com/artist/15ajdFAi5bjj5pS9laBfBL"
+        }
+      ],
+      "duration_ms": 170466,
+      "name": "I'm Too Sexy",
+      "url": "https://open.spotify.com/track/1MQrMQwfqjgOjXEUaN9AMd"
     },
     {
       "added_at": "2023-06-09 09:38:51",
@@ -2187,6 +2167,22 @@
     {
       "added_at": "2023-06-09 09:38:51",
       "album": {
+        "name": "Macarena (EP)",
+        "url": "https://open.spotify.com/album/1anwf7hhIur6jnVg70pXGc"
+      },
+      "artists": [
+        {
+          "name": "Los Del Rio",
+          "url": "https://open.spotify.com/artist/2JXn03fudjyRkQ1Ye9f5rk"
+        }
+      ],
+      "duration_ms": 224626,
+      "name": "Macarena - Bayside Boys Remix",
+      "url": "https://open.spotify.com/track/07DcH2UllHvVRKjD2HEJuC"
+    },
+    {
+      "added_at": "2023-06-09 09:38:51",
+      "album": {
         "name": "A Medio Vivir",
         "url": "https://open.spotify.com/album/4URjPTEl3KRpkzWFTvYmiM"
       },
@@ -2199,22 +2195,6 @@
       "duration_ms": 262573,
       "name": "Mar\u00eda",
       "url": "https://open.spotify.com/track/0QQHPRbgLJJ5XNzJV1l9BW"
-    },
-    {
-      "added_at": "2023-06-09 09:38:51",
-      "album": {
-        "name": "Up (Special Edition)",
-        "url": "https://open.spotify.com/album/0GeBgrCuLqz4NKMiv1aRez"
-      },
-      "artists": [
-        {
-          "name": "Right Said Fred",
-          "url": "https://open.spotify.com/artist/15ajdFAi5bjj5pS9laBfBL"
-        }
-      ],
-      "duration_ms": 170466,
-      "name": "I'm Too Sexy",
-      "url": "https://open.spotify.com/track/1MQrMQwfqjgOjXEUaN9AMd"
     },
     {
       "added_at": "2023-06-09 09:38:51",
@@ -2399,22 +2379,6 @@
     {
       "added_at": "2023-06-09 09:38:51",
       "album": {
-        "name": "\u00c9xitos",
-        "url": "https://open.spotify.com/album/39823i6I0X4cFWoCQPZWOd"
-      },
-      "artists": [
-        {
-          "name": "El Simbolo",
-          "url": "https://open.spotify.com/artist/276SjaOhqPfWqk3eDTDrz3"
-        }
-      ],
-      "duration_ms": 219933,
-      "name": "1 2 3",
-      "url": "https://open.spotify.com/track/3rxs4C8FPu0DcuKVaZlUCu"
-    },
-    {
-      "added_at": "2023-06-09 09:38:51",
-      "album": {
         "name": "Buler\u00eda",
         "url": "https://open.spotify.com/album/2zsm7DcaJsvZFY8DIxPveu"
       },
@@ -2447,6 +2411,22 @@
     {
       "added_at": "2023-06-09 09:38:51",
       "album": {
+        "name": "\u00c9xitos",
+        "url": "https://open.spotify.com/album/39823i6I0X4cFWoCQPZWOd"
+      },
+      "artists": [
+        {
+          "name": "El Simbolo",
+          "url": "https://open.spotify.com/artist/276SjaOhqPfWqk3eDTDrz3"
+        }
+      ],
+      "duration_ms": 219933,
+      "name": "1 2 3",
+      "url": "https://open.spotify.com/track/3rxs4C8FPu0DcuKVaZlUCu"
+    },
+    {
+      "added_at": "2023-06-09 09:38:51",
+      "album": {
         "name": "Ese d\u00eda piensa en m\u00ed",
         "url": "https://open.spotify.com/album/6MXM5OM3TjFsYtOQJVBxtu"
       },
@@ -2463,22 +2443,6 @@
     {
       "added_at": "2023-06-09 09:38:51",
       "album": {
-        "name": "Are You Ready",
-        "url": "https://open.spotify.com/album/54RErP77YqRriSc1RpQ2sB"
-      },
-      "artists": [
-        {
-          "name": "2 Eivissa",
-          "url": "https://open.spotify.com/artist/3gkV8EZ8pE0eCwyLeUNwzE"
-        }
-      ],
-      "duration_ms": 211253,
-      "name": "Oh La La La",
-      "url": "https://open.spotify.com/track/3y7KI1lRSm9jjrCjmsyFPN"
-    },
-    {
-      "added_at": "2023-06-09 09:38:51",
-      "album": {
         "name": "Gimme Hope Jo'Anna",
         "url": "https://open.spotify.com/album/1EtVhWC8NcmttAjp0cKeaX"
       },
@@ -2491,6 +2455,22 @@
       "duration_ms": 243695,
       "name": "Gimme Hope Jo'Anna",
       "url": "https://open.spotify.com/track/09lZ2Mx2NSpzy6KBpX2kDq"
+    },
+    {
+      "added_at": "2023-06-09 09:38:51",
+      "album": {
+        "name": "Are You Ready",
+        "url": "https://open.spotify.com/album/54RErP77YqRriSc1RpQ2sB"
+      },
+      "artists": [
+        {
+          "name": "2 Eivissa",
+          "url": "https://open.spotify.com/artist/3gkV8EZ8pE0eCwyLeUNwzE"
+        }
+      ],
+      "duration_ms": 211253,
+      "name": "Oh La La La",
+      "url": "https://open.spotify.com/track/3y7KI1lRSm9jjrCjmsyFPN"
     },
     {
       "added_at": "2023-06-09 09:38:51",
@@ -2595,6 +2575,22 @@
       "duration_ms": 213066,
       "name": "Yo Quiero Bailar",
       "url": "https://open.spotify.com/track/4rFCPjKfgbEeNvs1Ku4nbd"
+    },
+    {
+      "added_at": "2023-06-09 09:38:51",
+      "album": {
+        "name": "Mucho Azucar (Grandes Exitos)",
+        "url": "https://open.spotify.com/album/7xcIu7L8tCgaKYWndaS0uV"
+      },
+      "artists": [
+        {
+          "name": "Azucar Moreno",
+          "url": "https://open.spotify.com/artist/2WrKqjMRKr5MitNYaNgvl3"
+        }
+      ],
+      "duration_ms": 210866,
+      "name": "S\u00f3lo Se Vive una Vez",
+      "url": "https://open.spotify.com/track/5dg7OfEwTVvUZfqt24ObwI"
     }
   ],
   "unique_name": "Cl\u00e1sicos del Verano",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5iKSDtVcf7Q.md) - [plain]
 
 > Music paying tribute to the Heartland of America.
 
-[Spotify](https://open.spotify.com/user/spotify) - 264,316 likes - 100 songs - 5 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 264,441 likes - 100 songs - 5 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,12 +41,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5iKSDtVcf7Q.md) - [plain]
 | 31 | [Simple](https://open.spotify.com/track/4L9Ds4mpD3SuYoWwFUlv16) | [Florida Georgia Line](https://open.spotify.com/artist/3b8QkneNDz4JHKKKlLgYZg) | [Can't Say I Ain't Country](https://open.spotify.com/album/64nhe9s692yKECAoMcEQ8U) | 3:05 |
 | 32 | [Strawberry Wine](https://open.spotify.com/track/3ODF56f90W3qxDqxHAUi3v) | [Deana Carter](https://open.spotify.com/artist/0aqrM7Fo3Ml66Kc5JAzmjt) | [The Deana Carter Collection](https://open.spotify.com/album/5WqK9zGqUlTw7IPY2k1Yqd) | 4:50 |
 | 33 | [Cowboy Take Me Away](https://open.spotify.com/track/3rXCZRMiMZp0feGcYXpwYX) | [The Chicks](https://open.spotify.com/artist/25IG9fa7cbdmCIy3OnuH57) | [Fly](https://open.spotify.com/album/3y6G5El2I6QrJA9BdfAbqA) | 4:47 |
-| 34 | [Even Though I'm Leaving](https://open.spotify.com/track/5Fhe63YOMZsGdB3CgCDuBi) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [What You See Is What You Get](https://open.spotify.com/album/0S9D5NIDp2YXhYwlvuJzqx) | 3:45 |
+| 34 | [Outskirts](https://open.spotify.com/track/2E0bqoMlIb2xmFyZHRjtzK) | [Sam Hunt](https://open.spotify.com/artist/2kucQ9jQwuD8jWdtR9Ef38) | [Outskirts](https://open.spotify.com/album/6neohHPB8tUq8yVM7sacBh) | 3:02 |
 | 35 | [Raise 'Em Up](https://open.spotify.com/track/3YimpODfNhxj3rN81v4WvE) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf), [Eric Church](https://open.spotify.com/artist/2IvkS5MXK0vPGnwyJsrEyV) | [Fuse \(Deluxe Edition\)](https://open.spotify.com/album/6LJH0InZpmgymwZ3hpsUYD) | 3:04 |
 | 36 | [Good Directions](https://open.spotify.com/track/7GQjJEwqlp6m5HNWVQd6OR) | [Billy Currington](https://open.spotify.com/artist/1By9QBFnjZAoI83BZppHlt) | [Doin' Somethin' Right](https://open.spotify.com/album/01XmoBPJ8VwC6IyOEvGhy5) | 3:35 |
 | 37 | [Heads Carolina, Tails California](https://open.spotify.com/track/6Lmx6bz3PGYuNSjKMnYBOa) | [Jo Dee Messina](https://open.spotify.com/artist/3ltFy7g6KKQPPttsdOMlq3) | [JoDee Messina](https://open.spotify.com/album/2Jsqpx8EeRWIjBFhCX4hvn) | 3:29 |
 | 38 | [Automatic](https://open.spotify.com/track/0B0y2FImat9j9MJTNRZWfW) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [Platinum](https://open.spotify.com/album/4ZnIw6llQFlXcFgjMNtrTw) | 4:07 |
-| 39 | [Outskirts](https://open.spotify.com/track/2E0bqoMlIb2xmFyZHRjtzK) | [Sam Hunt](https://open.spotify.com/artist/2kucQ9jQwuD8jWdtR9Ef38) | [Outskirts](https://open.spotify.com/album/6neohHPB8tUq8yVM7sacBh) | 3:02 |
+| 39 | [Even Though I'm Leaving](https://open.spotify.com/track/5Fhe63YOMZsGdB3CgCDuBi) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [What You See Is What You Get](https://open.spotify.com/album/0S9D5NIDp2YXhYwlvuJzqx) | 3:45 |
 | 40 | [Bigger Houses](https://open.spotify.com/track/021oE3KXSweagIO0HsgzcI) | [Dan + Shay](https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T) | [Save Me The Trouble, Heartbreak On The Map, Bigger Houses](https://open.spotify.com/album/0k3Twwed7AzLrgaKywvQWF) | 3:17 |
 | 41 | [Can't Have Mine \(Find You A Girl\)](https://open.spotify.com/track/3jfywRZH6cB2iLyKqo4EZd) | [Dylan Scott](https://open.spotify.com/artist/78YqeIji3mgAS2K1Maca6x) | [Livin' My Best Life](https://open.spotify.com/album/5UkfLfGyiREHCmzM1kEUV0) | 3:03 |
 | 42 | [May We All](https://open.spotify.com/track/498ZVInMGDkmmNVpSWqHiZ) | [Florida Georgia Line](https://open.spotify.com/artist/3b8QkneNDz4JHKKKlLgYZg), [Tim McGraw](https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd) | [Dig Your Roots](https://open.spotify.com/album/09KOjaflTBRE28GVvXqkYC) | 3:46 |
@@ -75,16 +75,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5iKSDtVcf7Q.md) - [plain]
 | 65 | [Meanwhile Back At Mama's](https://open.spotify.com/track/2rO28hRLDbsenVjeWvwqQz) | [Tim McGraw](https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd), [Faith Hill](https://open.spotify.com/artist/25NQNriVT2YbSW80ILRWJa) | [Sundown Heaven Town \(Deluxe Edition\)](https://open.spotify.com/album/5d1gd7lRLgljr3YPnkfU7k) | 3:48 |
 | 66 | [Chillin' It](https://open.spotify.com/track/0Utg7sirTPqrs6Cx0FbriQ) | [Cole Swindell](https://open.spotify.com/artist/1mfDfLsMxYcOOZkzBxvSVW) | [Cole Swindell](https://open.spotify.com/album/2mlPEYhK1KwDD45CCCWxaH) | 3:16 |
 | 67 | [Round Here](https://open.spotify.com/track/5T6DM9qjjngWnukcw0svkX) | [Florida Georgia Line](https://open.spotify.com/artist/3b8QkneNDz4JHKKKlLgYZg) | [Here's To The Good Times](https://open.spotify.com/album/5MH765pytbQasmDxXArTah) | 3:35 |
-| 68 | [Glory Days](https://open.spotify.com/track/7qaMlLPdwNiiU1Uiy1oAdO) | [Gabby Barrett](https://open.spotify.com/artist/6Iz3eq2aQGFf7TbGT2iahL) | [Glory Days](https://open.spotify.com/album/0aRxuDLQsKlZMgz61rb3t8) | 2:42 |
-| 69 | [XXX's And OOO's \(An American Girl\)](https://open.spotify.com/track/08c3wmdjKSjxTJY9cHSts7) | [Trisha Yearwood](https://open.spotify.com/artist/3XlIhgydjvC4EniPFZT20j) | [Thinkin' About You](https://open.spotify.com/album/5JqF92VDewHtYXqueUHuyx) | 2:47 |
+| 68 | [XXX's And OOO's \(An American Girl\)](https://open.spotify.com/track/08c3wmdjKSjxTJY9cHSts7) | [Trisha Yearwood](https://open.spotify.com/artist/3XlIhgydjvC4EniPFZT20j) | [Thinkin' About You](https://open.spotify.com/album/5JqF92VDewHtYXqueUHuyx) | 2:47 |
+| 69 | [Glory Days](https://open.spotify.com/track/7qaMlLPdwNiiU1Uiy1oAdO) | [Gabby Barrett](https://open.spotify.com/artist/6Iz3eq2aQGFf7TbGT2iahL) | [Glory Days](https://open.spotify.com/album/0aRxuDLQsKlZMgz61rb3t8) | 2:42 |
 | 70 | [These Are My People](https://open.spotify.com/track/5jFid6SUnYqohvNvNuZvIz) | [Rodney Atkins](https://open.spotify.com/artist/2qgvmDsc4jrqbAbjq1HGM2) | [If You're Going Through Hell](https://open.spotify.com/album/5YG0aqiSCfhcWmW2KEsSWJ) | 3:33 |
 | 71 | [American Ride](https://open.spotify.com/track/0gjqyr5z7poniYymKRwsCN) | [Toby Keith](https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8) | [American Ride](https://open.spotify.com/album/3XCPfoDC88adSavNAYNVyV) | 2:45 |
 | 72 | [All\-American Girl](https://open.spotify.com/track/2dRPQFwPqAmc42mDRnsDQu) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Carnival Ride](https://open.spotify.com/album/5HwzpaqYOZABPnmvl5JYFX) | 3:32 |
 | 73 | [Amarillo Sky](https://open.spotify.com/track/4ZeLTFjHBC4ZyH4owJPH0Q) | [Jason Aldean](https://open.spotify.com/artist/3FfvYsEGaIb52QPXhg4DcH) | [Jason Aldean](https://open.spotify.com/album/47LrXE5duqJHzfYulSGg1h) | 3:22 |
 | 74 | [ONE BEER \(feat\. Lauren Alaina & Devin Dawson\)](https://open.spotify.com/track/5FmvaZGd6fulojSToozLRD) | [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy), [Lauren Alaina](https://open.spotify.com/artist/1v3tdpIdBSW14rHUfiEVOv), [Devin Dawson](https://open.spotify.com/artist/2ySHS7UojGu20XfUPaBlyu) | [HIXTAPE: Vol\. 1](https://open.spotify.com/album/5e3Kjap4XBZ44dc36AqtEo) | 2:53 |
 | 75 | [Alabama Nights](https://open.spotify.com/track/0wKZraHIi51smdFZOjJgc5) | [Tiera Kennedy](https://open.spotify.com/artist/26VEPCGAYB9OClQodb0OR1) | [Alabama Nights](https://open.spotify.com/album/3oE0zEeUQbTKpnFyVUA1uj) | 3:10 |
-| 76 | [Heartland \- Pure Country/Soundtrack Version](https://open.spotify.com/track/0U4R6UqrJo43TmImPku9H8) | [George Strait](https://open.spotify.com/artist/5vngPClqofybhPERIqQMYd) | [Pure Country](https://open.spotify.com/album/5K0Ic5xrsWbWzlDFse0KCX) | 2:18 |
-| 77 | [Dirt](https://open.spotify.com/track/5CXnIPD6rTjszYYQm6fY2P) | [Florida Georgia Line](https://open.spotify.com/artist/3b8QkneNDz4JHKKKlLgYZg) | [Anything Goes](https://open.spotify.com/album/5NG7WZaCZZ12M5LJm0JcVc) | 3:50 |
+| 76 | [Dirt](https://open.spotify.com/track/5CXnIPD6rTjszYYQm6fY2P) | [Florida Georgia Line](https://open.spotify.com/artist/3b8QkneNDz4JHKKKlLgYZg) | [Anything Goes](https://open.spotify.com/album/5NG7WZaCZZ12M5LJm0JcVc) | 3:50 |
+| 77 | [Heartland \- Pure Country/Soundtrack Version](https://open.spotify.com/track/0U4R6UqrJo43TmImPku9H8) | [George Strait](https://open.spotify.com/artist/5vngPClqofybhPERIqQMYd) | [Pure Country](https://open.spotify.com/album/5K0Ic5xrsWbWzlDFse0KCX) | 2:18 |
 | 78 | [Watching Airplanes](https://open.spotify.com/track/63u5QGp9dKXAoYTVKUKBYn) | [Gary Allan](https://open.spotify.com/artist/37W8SKV5Vc8lcGtdyWCA5m) | [Living Hard](https://open.spotify.com/album/2iShcXr1PRM3VMF15iHwP8) | 4:02 |
 | 79 | [I Drive Your Truck](https://open.spotify.com/track/6aPc6SSWgTsiXrrUpJCPlj) | [Lee Brice](https://open.spotify.com/artist/5Zq7R5qmi58ByYyBQTlNuk) | [Hard 2 Love](https://open.spotify.com/album/0RnVSSUbSBEjk5MlQZhYYP) | 3:54 |
 | 80 | [Caught Up In The Country](https://open.spotify.com/track/2BgunkkepMPFpArQj1Dx5s) | [Rodney Atkins](https://open.spotify.com/artist/2qgvmDsc4jrqbAbjq1HGM2), [The Fisk Jubilee Singers](https://open.spotify.com/artist/0UGSKGxAJfltNONQ4AtETL) | [Caught Up In The Country](https://open.spotify.com/album/0SeZnTLIuPbHvuuNTJDHLh) | 2:40 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5iKSDtVcf7Q.md) - [plain]
 | 99 | [Buy Me a Boat](https://open.spotify.com/track/6y35xDJFzpy1FIa6qCMA59) | [Chris Janson](https://open.spotify.com/artist/60gmlHZmT16wiO9GiXKYK9) | [Buy Me a Boat](https://open.spotify.com/album/6sAHtElvOhT0UQzTII618a) | 2:59 |
 | 100 | [American Nights](https://open.spotify.com/track/6B4LAyly39cv8Cat9nHObl) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [American Nights](https://open.spotify.com/album/2KymbriwFACll2ruFpeTqr) | 3:22 |
 
-Snapshot ID: `MCw0MzY0ZDFlMzNlOTYxZWEyYWQ5OWM5MDFlOTg0Y2M2ZmY0MzI3ZmYw`
+Snapshot ID: `MCwzNWJkZjgxYzJhZDgxMjVhODBjOTc3ZGNiNTU5MDI1MTZkOGNmZTEw`

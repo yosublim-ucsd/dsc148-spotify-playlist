@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX53URsQFhR0Q.md) - [plain]
 
 > Hit rewind on these classic Ghanaian gospel songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,524 likes - 50 songs - 4 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,537 likes - 50 songs - 4 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX53URsQFhR0Q.md) - [plain]
 | 32 | [Wo Ntaban](https://open.spotify.com/track/1QBnMo0xD8wSDpgM9xh9uo) | [Daughters of Glorious Jesus](https://open.spotify.com/artist/4R38kiNoFuhBbrJX7oOMwy) | [Aseda](https://open.spotify.com/album/0FrTLACieJkDLhCqmzJxLJ) | 7:07 |
 | 33 | [Hold On](https://open.spotify.com/track/0HEB4FVrCze9RKUCuivkFW) | [Bernice Offei](https://open.spotify.com/artist/1s3k29zZeWqgAuxLms45Ex) | [Hold On](https://open.spotify.com/album/4UDMqjPmRx3jJlKIUbWfGn) | 7:38 |
 | 34 | [Di Wo Hene](https://open.spotify.com/track/7cf86toNQniypAJK3Gjqwu) | [Comfort Annor](https://open.spotify.com/artist/4nltyU0ABXKiPF0BJiMrOb) | [Ghana Gospel Classics, Vol\. 1](https://open.spotify.com/album/6mQQJMMcckDuVfEPTex79h) | 5:28 |
-| 35 | [Hymm](https://open.spotify.com/track/5ccfgPC6IyCS3AEqD1cMVE) | [Evangelist Diana Asamoah](https://open.spotify.com/artist/4Ww81OPkdNxP7jsBIn6sOJ) | [Pentecost Soree Nwom](https://open.spotify.com/album/4hdA0dUWWABTxLgZvwX285) | 5:54 |
-| 36 | [Okura Yen Mu](https://open.spotify.com/track/5pvcXgJ57PxmzkrQI9UP6p) | [Stella Seal](https://open.spotify.com/artist/4xoLUMaBonp3ZZyAzrl3WI) | [Mahunu Awurade](https://open.spotify.com/album/220ot3O4EpWJ7xdeaTyJnS) | 5:59 |
+| 35 | [Okura Yen Mu](https://open.spotify.com/track/5pvcXgJ57PxmzkrQI9UP6p) | [Stella Seal](https://open.spotify.com/artist/4xoLUMaBonp3ZZyAzrl3WI) | [Mahunu Awurade](https://open.spotify.com/album/220ot3O4EpWJ7xdeaTyJnS) | 5:59 |
+| 36 | [Hymm](https://open.spotify.com/track/5ccfgPC6IyCS3AEqD1cMVE) | [Evangelist Diana Asamoah](https://open.spotify.com/artist/4Ww81OPkdNxP7jsBIn6sOJ) | [Pentecost Soree Nwom](https://open.spotify.com/album/4hdA0dUWWABTxLgZvwX285) | 5:54 |
 | 37 | [Afurumuba](https://open.spotify.com/track/2XQijOC2m8i0kCwP43quJj) | [Cecilia Marfo](https://open.spotify.com/artist/2ruygXlfagVfWzDhyNooZo) | [Ghana Gospel Classics, Vol\. 1](https://open.spotify.com/album/6mQQJMMcckDuVfEPTex79h) | 5:18 |
 | 38 | [Bue Kwan Ma Me](https://open.spotify.com/track/0gUVb28Uegg96XfBZYZglR) | [Ama Boahemaa](https://open.spotify.com/artist/0CeSW6zLjIerwS3S0hMetU) | [Ghana Gospel Classics, Vol\. 1](https://open.spotify.com/album/6mQQJMMcckDuVfEPTex79h) | 6:17 |
 | 39 | [Twediampong Nyame](https://open.spotify.com/track/4JwAjpD5KJyrqVcIg2MhLD) | [Daughters of Glorious Jesus](https://open.spotify.com/artist/4R38kiNoFuhBbrJX7oOMwy) | [Asomdwoe Hene](https://open.spotify.com/album/4UxB7lVnR3sT4OmBuDhBw2) | 5:12 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX53URsQFhR0Q.md) - [plain]
 | 49 | [I Have a God](https://open.spotify.com/track/4lMleOHHpi7NOlDNzB2dvH) | [Francis Agyei](https://open.spotify.com/artist/3Hfa3UtgEZjW9pnYKSI5Q2) | [God You Are So Good](https://open.spotify.com/album/3NrW1Gz5zkKAHJGKQNcQZi) | 6:24 |
 | 50 | [Adam Nana](https://open.spotify.com/track/5Gxp5gkwk5EOMKQSkqMlJE) | [Prof\. Kofi Abraham](https://open.spotify.com/artist/1Do8CxsUCJy7Clp0AM3rCI) | [Wahwe Meso](https://open.spotify.com/album/3sk306dDSoE4dA4KcVPxvl) | 4:58 |
 
-Snapshot ID: `MCxiZmI5Njg4MDcyMDY5NzFhNjAyN2JlM2RlYWE5NzIyOTliMjE2YWU3`
+Snapshot ID: `MCxkZjlhOTdkM2NjZjY1MTJhYTFjYzQ3MDU4MzUwODgyMTU5Y2ExZWE4`

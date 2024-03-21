@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbDPWblNlzy4.md) - [plain]
 
 > Los éxitos más POPulares en español los encuentras aquí\. Foto: Diego Torres, Carlos Vives
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,557 likes - 75 songs - 3 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 60,572 likes - 75 songs - 3 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbDPWblNlzy4.md) - [plain]
 | 6 | [Para Variar](https://open.spotify.com/track/4bJ4ysT06LxZ7utoLnqHA0) | [Ventino](https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD) | [Para Variar](https://open.spotify.com/album/6T4lNaOLKBbWGjg65ZaXtw) | 2:59 |
 | 7 | [entre las piernas](https://open.spotify.com/track/5Z8ylWRIPqri4EFRltuHMg) | [Elsa y Elmar](https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy) | [entre las piernas](https://open.spotify.com/album/4lC8tWRJRUfADPn6aAjLVl) | 3:31 |
 | 8 | [Señorita \- Remix](https://open.spotify.com/track/4PNsksRyLbWu1t13GBfemH) | [Jean Pi](https://open.spotify.com/artist/2MBHhHSyqs8LFJsdmgf9pK), [DEKKO](https://open.spotify.com/artist/6ZvYYrrfpb1Z7kICDyxWQE) | [Señorita \(Remix\)](https://open.spotify.com/album/19DTyv7J6PKc7oVOPyOdbT) | 3:01 |
-| 9 | [Hace Una Hora \- Sesión en Vivo](https://open.spotify.com/track/1g5zBPGIwyHIf0VogScbYA) | [Juan Pablo Vega](https://open.spotify.com/artist/2PfyKA4qhjkxUVkerTCxz0), [Santiago Cruz](https://open.spotify.com/artist/5ClJtuiNlr83ua45Dvpcf7) | [Hace Una Hora \(Sesión en Vivo\)](https://open.spotify.com/album/1BKtdyp4mGYFvLqdeObpad) | 5:07 |
+| 9 | [Hace Una Hora \- Sesión en Vivo](https://open.spotify.com/track/1g5zBPGIwyHIf0VogScbYA) | [Juan Pablo Vega](https://open.spotify.com/artist/2PfyKA4qhjkxUVkerTCxz0), [Santiago Cruz](https://open.spotify.com/artist/5ClJtuiNlr83ua45Dvpcf7) | [Hace Una Hora \(Sesión en Vivo\)](https://open.spotify.com/album/1BKtdyp4mGYFvLqdeObpad) | 4:50 |
 | 10 | [Este Cuento](https://open.spotify.com/track/0UgxIHqdtgEPM07ntZf9cg) | [Manuel Medrano](https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM) | [Este Cuento](https://open.spotify.com/album/6OQAaWJHUbwzxbYiOmCJJU) | 2:54 |
 | 11 | [Ojos Marrones \- Con Sebastián Yatra](https://open.spotify.com/track/2GQclWZHwE4fMdqShvOPWU) | [Lasso](https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd), [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW) | [Ojos Marrones \(Con Sebastián Yatra\)](https://open.spotify.com/album/6KY4FnsrJZWQNjMw0zgDgd) | 3:18 |
 | 12 | [Abuela](https://open.spotify.com/track/0FAmY5KDso97wm4tOFuvy0) | [Micro TDH](https://open.spotify.com/artist/1aWJsBQa67l72j1VT3D6Ow) | [Abuela](https://open.spotify.com/album/6q1BDJrKoGk8jADGrwmltN) | 4:36 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbDPWblNlzy4.md) - [plain]
 | 74 | [Las Mujeres](https://open.spotify.com/track/1wvxclslngApTRBA3gZFn6) | [Carlos Vives](https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr), [Juanes](https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7) | [Las Mujeres](https://open.spotify.com/album/1nMJ6Cjyc6yTWoKToZoP6c) | 3:40 |
 | 75 | [Amor Clandestino](https://open.spotify.com/track/0zmd3kkK4FL9qYBXhWiOKW) | [Maná](https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz), [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [Amor Clandestino](https://open.spotify.com/album/7yjF8BA8QCEg6w5zcklYLA) | 3:46 |
 
-Snapshot ID: `MCwzMWE1MjYxOTJjYjdlNzM2ZmQ2YTMwOTlmOGNmZTNjYTZjOTY1MGEw`
+Snapshot ID: `MCw2NWQ1Y2FlZWMyYTg1NDAxYWU4YjFlZDZkMmNlOTA3Y2IwYWNjNWE0`

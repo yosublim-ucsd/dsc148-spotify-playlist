@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc0fQ4sGOnVJ.md) - [plain]
 
 > Crank it up\. Cover: Brantley Gilbert
 
-[Spotify](https://open.spotify.com/user/spotify) - 146,972 likes - 74 songs - 4 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 146,976 likes - 74 songs - 4 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,8 +72,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc0fQ4sGOnVJ.md) - [plain]
 | 62 | [STICKS](https://open.spotify.com/track/1cuYOdYKx2tWkOdLzqnboR) | [Jamie Ray](https://open.spotify.com/artist/08sIoHx2vZUsqaWtoVHHo2) | [STICKS](https://open.spotify.com/album/08aU8OfWq8Qq3rXQc7NH2S) | 2:37 |
 | 63 | [Way Down South \(feat\. Kyle Cook, Danny Boone, and Demun Jones\)](https://open.spotify.com/track/7CCLJ1kMUU4Z6sPywAU7iU) | [Bubba Sparxxx](https://open.spotify.com/artist/3RPYHNSwe3w0mtfJwKIN9P), [Kyle Cook](https://open.spotify.com/artist/3VbprQmATEsilJkF5SH4dL), [Danny Boone](https://open.spotify.com/artist/6hbruWbLY9C6Id2335jVF8), [Demun Jones](https://open.spotify.com/artist/1LkLu8Wywk1qLvWUYAQiZR) | [Made On McCosh Mill Road](https://open.spotify.com/album/1iiEEawc2NE4vPk8brAItV) | 3:38 |
 | 64 | [A Hard Working Man \(feat\. Billy Ray Cyrus & Snoop Dogg\)](https://open.spotify.com/track/0xJ1DE4mn3hvsUnwkz2rs8) | [Avila Brothers](https://open.spotify.com/artist/0rK0A2f8enfBGIQghyAOmV), [Billy Ray Cyrus](https://open.spotify.com/artist/60rpJ9SgigSd16DOAG7GSa), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) | [A Hard Working Man \(feat\. Billy Ray Cyrus & Snoop Dogg\)](https://open.spotify.com/album/6X0C99LUzWygqeylOdwvRD) | 2:47 |
-| 65 | [Goin' Back Down](https://open.spotify.com/track/5sN36xav9dZXX5qUB3aVYD) | [Redneck Social Club](https://open.spotify.com/artist/4nPrlCWAm20yBoiyE5vpr1), [Colt Ford](https://open.spotify.com/artist/0OpWIlokQeE7BNQMhuu2Nx) | [Goin' Back Down](https://open.spotify.com/album/72SXoGRMGpqVDZSdErzIU6) | 3:45 |
-| 66 | [STOMP YOUR BOOTS](https://open.spotify.com/track/2di1pqbuFLM3tLsBVPHqdf) | [YA'BOYZ](https://open.spotify.com/artist/7vMHsgM6Rlv8loZc594Z9I) | [STOMP YOUR BOOTS](https://open.spotify.com/album/6Eu2ZNWz1pL800FFjxyxEZ) | 2:31 |
+| 65 | [STOMP YOUR BOOTS](https://open.spotify.com/track/2di1pqbuFLM3tLsBVPHqdf) | [YA'BOYZ](https://open.spotify.com/artist/7vMHsgM6Rlv8loZc594Z9I) | [STOMP YOUR BOOTS](https://open.spotify.com/album/6Eu2ZNWz1pL800FFjxyxEZ) | 2:31 |
+| 66 | [Goin' Back Down](https://open.spotify.com/track/5sN36xav9dZXX5qUB3aVYD) | [Redneck Social Club](https://open.spotify.com/artist/4nPrlCWAm20yBoiyE5vpr1), [Colt Ford](https://open.spotify.com/artist/0OpWIlokQeE7BNQMhuu2Nx) | [Goin' Back Down](https://open.spotify.com/album/72SXoGRMGpqVDZSdErzIU6) | 3:45 |
 | 67 | [Field Party](https://open.spotify.com/track/2DI1SvvgzhIybzuM0AjyvR) | [The Lacs](https://open.spotify.com/artist/23OFz99wX0NDBBwrxthLWU), [JJ Lawhorn](https://open.spotify.com/artist/3HvapZ323lwmK8tu8JsLvb) | [Mud Digger 4](https://open.spotify.com/album/2RG6477nEGHWCoyVCi7dSh) | 4:23 |
 | 68 | [Southern](https://open.spotify.com/track/60TduAd1s7rhsqmzXQxk9m) | [Katie Noel](https://open.spotify.com/artist/4nreGSB7QWCSeYWKpcz3pt) | [Southern](https://open.spotify.com/album/0MyKGDeK3cGq2J2fkSMfhd) | 3:03 |
 | 69 | [Redneck Rich](https://open.spotify.com/track/24LpH8iRf7m5yHLc2QRnbi) | [Cody Parks and The Dirty South](https://open.spotify.com/artist/0jItMOxRNh3sya33eTx4Nk) | [Redneck Rich](https://open.spotify.com/album/2HPDTl7R8lbS0ixXjq8d0Q) | 4:42 |
@@ -83,4 +83,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc0fQ4sGOnVJ.md) - [plain]
 | 73 | [Buckle Bunny](https://open.spotify.com/track/17KfodDyg0yKQYmjGGGnlA) | [Tanner Adell](https://open.spotify.com/artist/5xKVALj2MSqOHmQhburCM8) | [BUCKLE BUNNY](https://open.spotify.com/album/0s3PLrYRp1PojvP8W9g1qS) | 3:12 |
 | 74 | [Roll With Me \(feat\. Chris Hurt\)](https://open.spotify.com/track/4QnytqrOi9fZdqydZIaFDG) | [I4NI](https://open.spotify.com/artist/3zLyy1Z82ukEfGVOsOB2Io), [Bubba Sparxxx](https://open.spotify.com/artist/3RPYHNSwe3w0mtfJwKIN9P), [Chris Hurt](https://open.spotify.com/artist/6cOsEsSXiTvTRciYa0nol2) | [Roll With Me \(feat\. Chris Hurt\)](https://open.spotify.com/album/0Z9gSWFPbpjJ9HlADRXnFE) | 3:55 |
 
-Snapshot ID: `MCxjYTYzNTczYjdjMDMwODI3MjM3YTYxZmY1YjUzM2EyODUzYzg1NWRl`
+Snapshot ID: `MCwzYTgyMTkwODRmNDRlMTA5MWEzNjNhMzQ1NGMwNDQ5NDdjN2Q3OGU4`

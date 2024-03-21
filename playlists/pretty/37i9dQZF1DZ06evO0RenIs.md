@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0RenIs.md) - [plain]
 
 > This is Phoenix\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 74,912 likes - 48 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 74,950 likes - 48 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0RenIs.md) - [plain]
 | 25 | [One Time Too Many](https://open.spotify.com/track/7tpkQLjgZwNHQzagkvAJ7h) | [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU) | [It's Never Been Like That \(Deluxe Version\)](https://open.spotify.com/album/2STZqJIh4Kf0OIU5yVgYGV) | 3:40 |
 | 26 | [Telefono](https://open.spotify.com/track/3mb3SoBBkl15G4fJW6Kgji) | [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU) | [Ti Amo](https://open.spotify.com/album/4CWDyUN5jukEwwc2Fo4xzy) | 3:43 |
 | 27 | [My Elixir](https://open.spotify.com/track/0pd2VPSs38dIGQAcPrVydc) | [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU) | [Alpha Zulu](https://open.spotify.com/album/1jEwa4YdGR6FvKxWgRbJcv) | 3:32 |
-| 28 | [Run Run Run](https://open.spotify.com/track/2OxcH2hvo4SrVGO3gd7RJO) | [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU) | [Alphabetical](https://open.spotify.com/album/0q1YbH7gLkklLFxNBLRKHD) | 3:50 |
-| 29 | [Drakkar Noir](https://open.spotify.com/track/0ggkwqbg3SgEGz4XcEVYJq) | [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU) | [Bankrupt!](https://open.spotify.com/album/1MJotRlrO8AFegESeJRuBV) | 3:22 |
+| 28 | [Drakkar Noir](https://open.spotify.com/track/0ggkwqbg3SgEGz4XcEVYJq) | [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU) | [Bankrupt!](https://open.spotify.com/album/1MJotRlrO8AFegESeJRuBV) | 3:22 |
+| 29 | [Run Run Run](https://open.spotify.com/track/2OxcH2hvo4SrVGO3gd7RJO) | [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU) | [Alphabetical](https://open.spotify.com/album/0q1YbH7gLkklLFxNBLRKHD) | 3:50 |
 | 30 | [Goodbye Soleil](https://open.spotify.com/track/1E5pUyfGJI8oTrUeHuN05P) | [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU) | [Ti Amo](https://open.spotify.com/album/4CWDyUN5jukEwwc2Fo4xzy) | 3:55 |
 | 31 | [North](https://open.spotify.com/track/0k2TN25JrgWAFG5LRQMFD7) | [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU) | [It's Never Been Like That \(Deluxe Version\)](https://open.spotify.com/album/2STZqJIh4Kf0OIU5yVgYGV) | 5:01 |
 | 32 | [Identical](https://open.spotify.com/track/33FQ0dWX1P2EqlGkBVLPbD) | [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU) | [Alpha Zulu](https://open.spotify.com/album/1jEwa4YdGR6FvKxWgRbJcv) | 5:02 |
@@ -57,4 +57,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0RenIs.md) - [plain]
 | 47 | [Victim of the Crime](https://open.spotify.com/track/2ThMLsmAtcKOmXaEgKdJ93) | [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU) | [Alphabetical](https://open.spotify.com/album/0q1YbH7gLkklLFxNBLRKHD) | 4:05 |
 | 48 | [Definitive Breaks](https://open.spotify.com/track/1BfKwzPvTyt45fXq7zUQPZ) | [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU) | [United](https://open.spotify.com/album/5MBUL8d9FAYCCMrogOFX68) | 1:40 |
 
-Snapshot ID: `Mjg1MTQxOTUsMDAwMDAwMDAyYjE1ZDc1YmZlZDVlMGJhMTg4MzFhYzlkYjQ5YjlmNw==`
+Snapshot ID: `Mjg1MTU2NjEsMDAwMDAwMDA5MjIxNDM0MmEyYzdmNDc0ZDlmM2Q0OTNmYzQ3MDk1NQ==`

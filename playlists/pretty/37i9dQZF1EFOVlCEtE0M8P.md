@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFOVlCEtE0M8P.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0j0VkkLGXceKjMIWL6htE1">Jennifer Decilveo</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,016 likes - 219 songs - 12 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,017 likes - 219 songs - 12 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,10 +83,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFOVlCEtE0M8P.md) - [plain]
 | 73 | [What Is It About Me](https://open.spotify.com/track/183XXqSJsk4kbnElYNorzD) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [My Mind Wanders and Sometimes Leaves Completely](https://open.spotify.com/album/2cGz67xkbq20pKQpqQmzQl) | 3:34 |
 | 74 | [u hurt me hurts u](https://open.spotify.com/track/7cWy95kMrBH5ho6GAzpEBB) | [Anson Seabra](https://open.spotify.com/artist/2jHp7gQArCQrlMvdrIVFCg) | [Feeling For My Life](https://open.spotify.com/album/5iABQiExFiKUfLj2LKH59m) | 2:57 |
 | 75 | [Riding Solo](https://open.spotify.com/track/6ybNJZF5XxvLUwHZVzopWV) | [Hinds](https://open.spotify.com/artist/4piFCokRN13muTud5Y2lhz) | [The Prettiest Curse](https://open.spotify.com/album/6FumkInA48vTNiUcTMzlbp) | 3:36 |
-| 76 | [Big Bang](https://open.spotify.com/track/5PZYx77iX5fHnV0k92rXAs) | [Cherry Glazerr](https://open.spotify.com/artist/3pIGm1omCcHIb1juBNHspg) | [Big Bang](https://open.spotify.com/album/4nWjwpB38UNcyce4tM21d7) | 2:49 |
-| 77 | [Fake Sugar](https://open.spotify.com/track/1WDVZNals95SINqXbGPHgs) | [Beth Ditto](https://open.spotify.com/artist/7y8lzaGqtadGmtAtg2SGv4) | [Fake Sugar](https://open.spotify.com/album/2PjJXeTOqUHHAfJ4J65E49) | 3:29 |
-| 78 | [Long Time Coming](https://open.spotify.com/track/6Asx1JqGcQGEjbmJuhEDdY) | [Caitlyn Smith](https://open.spotify.com/artist/3uikSah4dwqwuk0EidFI4R) | [Supernova](https://open.spotify.com/album/2m9qpnKqmy3c8FbwApTSvb) | 3:24 |
-| 79 | [Doing Better](https://open.spotify.com/track/6sMEb3eNrQiW2mxrvURMGc) | [FLETCHER](https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg) | [Doing Better](https://open.spotify.com/album/64WbXlIjvrqkf5AI019x0L) | 2:33 |
+| 76 | [Doing Better](https://open.spotify.com/track/6sMEb3eNrQiW2mxrvURMGc) | [FLETCHER](https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg) | [Doing Better](https://open.spotify.com/album/64WbXlIjvrqkf5AI019x0L) | 2:33 |
+| 77 | [Big Bang](https://open.spotify.com/track/5PZYx77iX5fHnV0k92rXAs) | [Cherry Glazerr](https://open.spotify.com/artist/3pIGm1omCcHIb1juBNHspg) | [Big Bang](https://open.spotify.com/album/4nWjwpB38UNcyce4tM21d7) | 2:49 |
+| 78 | [Fake Sugar](https://open.spotify.com/track/1WDVZNals95SINqXbGPHgs) | [Beth Ditto](https://open.spotify.com/artist/7y8lzaGqtadGmtAtg2SGv4) | [Fake Sugar](https://open.spotify.com/album/2PjJXeTOqUHHAfJ4J65E49) | 3:29 |
+| 79 | [Long Time Coming](https://open.spotify.com/track/6Asx1JqGcQGEjbmJuhEDdY) | [Caitlyn Smith](https://open.spotify.com/artist/3uikSah4dwqwuk0EidFI4R) | [Supernova](https://open.spotify.com/album/2m9qpnKqmy3c8FbwApTSvb) | 3:24 |
 | 80 | [Here Is Home](https://open.spotify.com/track/0INX6z1BBtUN0mHLTRU0rC) | [Ryn Weaver](https://open.spotify.com/artist/2MuFzH1J5I6gGFYo2qhZmX) | [The Fool](https://open.spotify.com/album/4967HGjmvsMtcOZ3AaPfI4) | 4:20 |
 | 81 | [We Could Run](https://open.spotify.com/track/4rL7wJv8tEpt6ND1cFjj0a) | [Beth Ditto](https://open.spotify.com/artist/7y8lzaGqtadGmtAtg2SGv4) | [Fake Sugar](https://open.spotify.com/album/2PjJXeTOqUHHAfJ4J65E49) | 3:30 |
 | 82 | [Enfer](https://open.spotify.com/track/3q6AnBH0ECwej44ZiVjfei) | [Charlotte Cardin](https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK), [Skiifall](https://open.spotify.com/artist/1Dy2JqZmbXPTvJdDOyytcP) | [99 Nights](https://open.spotify.com/album/5RHDcbKUJ0isLtDr97nP9P) | 2:58 |
@@ -184,12 +184,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFOVlCEtE0M8P.md) - [plain]
 | 174 | [Friends](https://open.spotify.com/track/3nY9b9eUYtu9gftZAuqiro) | [Antigoni](https://open.spotify.com/artist/1w3S0hfHSbOupc4EVLRGrW) | [Friends](https://open.spotify.com/album/1u5T8uIGTvUmgVe2OrGZJ8) | 3:14 |
 | 175 | [Changes](https://open.spotify.com/track/6fJejvq4yOgPKhGmlfjE9T) | [Leslie Clio](https://open.spotify.com/artist/2Z8ZYYqedbWaOlSsBRVlmQ) | [Eureka \(Deluxe\)](https://open.spotify.com/album/546Xvhb9UlOFACTErVGvu1) | 3:21 |
 | 176 | [roses in the rain](https://open.spotify.com/track/2MStHylyE3Vk4vMHVfmNtt) | [Christina Perri](https://open.spotify.com/artist/7H55rcKCfwqkyDFH9wpKM6) | [a lighter shade of blue](https://open.spotify.com/album/7HEHgvui9j8u79SCn80tbq) | 2:35 |
-| 177 | [Trigger](https://open.spotify.com/track/7CY0vzv0DNBawyD5tYhK4e) | [Maluca Mala](https://open.spotify.com/artist/5mCtokdEP8IHkj5Zr01hQC) | [Trigger](https://open.spotify.com/album/0QHJMfV0dFYz5rukvZI3aP) | 3:11 |
-| 178 | [pixie dust](https://open.spotify.com/track/3lh4K4ksY84ATTQNbcTg4u) | [Christina Perri](https://open.spotify.com/artist/7H55rcKCfwqkyDFH9wpKM6) | [songs for pixie](https://open.spotify.com/album/5dLZH32QBSqkcHhJxHTqb6) | 2:08 |
+| 177 | [pixie dust](https://open.spotify.com/track/3lh4K4ksY84ATTQNbcTg4u) | [Christina Perri](https://open.spotify.com/artist/7H55rcKCfwqkyDFH9wpKM6) | [songs for pixie](https://open.spotify.com/album/5dLZH32QBSqkcHhJxHTqb6) | 2:08 |
+| 178 | [Trigger](https://open.spotify.com/track/7CY0vzv0DNBawyD5tYhK4e) | [Maluca Mala](https://open.spotify.com/artist/5mCtokdEP8IHkj5Zr01hQC) | [Trigger](https://open.spotify.com/album/0QHJMfV0dFYz5rukvZI3aP) | 3:11 |
 | 179 | [Romantic](https://open.spotify.com/track/3sr4RsgNNoNMTx6L7J4qNo) | [wens](https://open.spotify.com/artist/0QcblRyHbgYTLOKlP5BE66) | [That Really Long Night](https://open.spotify.com/album/472PYfaPfE7wVMajuRX4V1) | 4:04 |
 | 180 | [Higher](https://open.spotify.com/track/7D0I8fOtcm8AWaemRWLre4) | [Wynter Gordon](https://open.spotify.com/artist/4nmrm4zpgJ0RC6aZRSUEjF) | [Five Needle](https://open.spotify.com/album/226GOluIz4EHZQaY8fFCnO) | 3:23 |
-| 181 | [Different Kinds Of Love](https://open.spotify.com/track/26gSCV21Oa7OPDW70R0a5h) | [Imelda May](https://open.spotify.com/artist/6AnjHMqEAps8VJdHU8RykH) | [11 Past The Hour](https://open.spotify.com/album/2kw9020TKoe8O2hKliVWZu) | 3:01 |
-| 182 | [Kiss Me](https://open.spotify.com/track/1RMYwkxY1v6RryYIbfDHjY) | [Crawlers](https://open.spotify.com/artist/2xtmoxSauQs0TQFUoHmbfy) | [The Mess We Seem To Make \(Deluxe\)](https://open.spotify.com/album/3C1OK6djJ12taoAWI95Sef) | 3:34 |
+| 181 | [Kiss Me](https://open.spotify.com/track/1RMYwkxY1v6RryYIbfDHjY) | [Crawlers](https://open.spotify.com/artist/2xtmoxSauQs0TQFUoHmbfy) | [The Mess We Seem To Make \(Deluxe\)](https://open.spotify.com/album/3C1OK6djJ12taoAWI95Sef) | 3:34 |
+| 182 | [Different Kinds Of Love](https://open.spotify.com/track/26gSCV21Oa7OPDW70R0a5h) | [Imelda May](https://open.spotify.com/artist/6AnjHMqEAps8VJdHU8RykH) | [11 Past The Hour](https://open.spotify.com/album/2kw9020TKoe8O2hKliVWZu) | 3:01 |
 | 183 | [Nightmare](https://open.spotify.com/track/79JXZAooztEbWrUGU0FELt) | [Taylor Janzen](https://open.spotify.com/artist/3rTVTBOBT7NPgXtI5oWyxc) | [I Live In Patterns](https://open.spotify.com/album/2msBvZC5EUxnYRpQ5UfE8i) | 3:35 |
 | 184 | [Locked Out](https://open.spotify.com/track/70ksJnv0Ii3sRnRajmyR3I) | [Tall Heights](https://open.spotify.com/artist/1OVaGC0CDZaxjcPxclSNmp) | [Juniors](https://open.spotify.com/album/3nzqLuP7d24XYuBnbiaiop) | 4:11 |
 | 185 | [Give Me The Keys](https://open.spotify.com/track/13MQ5ZJrwqW8CW3eMehlqv) | [BLOXX](https://open.spotify.com/artist/4wYzzR0lpEub1gUU8bbBTw) | [Lie Out Loud](https://open.spotify.com/album/1vfCJpWRr50g1jvcWtXnjH) | 2:43 |
@@ -228,4 +228,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFOVlCEtE0M8P.md) - [plain]
 | 218 | [Never Love Me](https://open.spotify.com/track/73wdJkuGNi5r5yaxQcbbnx) | [Erose](https://open.spotify.com/artist/3nTWNq4d2PshG3F70A8zg8) | [Unrealistic](https://open.spotify.com/album/7DJ38rShyy5odFN0uT9C8i) | 2:00 |
 | 219 | [Goodbye Wrong](https://open.spotify.com/track/5DrxXrWnsxkpbR0QUBj8aS) | [Dawn Marie](https://open.spotify.com/artist/4BCgFgcMiSfFEmRIqeAD1K) | [Goodbye Wrong](https://open.spotify.com/album/3dFRqt0nO1GxdcBaE3ryth) | 3:25 |
 
-Snapshot ID: `Mjg1MTUwMTAsMDAwMDAwMDA4ZjEyNDFmN2E0NjU4NDNlNzRkN2Q4OGUxOTIyOTRkOQ==`
+Snapshot ID: `Mjg1MTY0NTAsMDAwMDAwMDAzZjQwOTUwZDM2MTdiMGNhNjg5YjYwMjdmYjJlNGI0MA==`

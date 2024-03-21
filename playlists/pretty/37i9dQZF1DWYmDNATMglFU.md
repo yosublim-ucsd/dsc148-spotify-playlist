@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYmDNATMglFU.md) - [plain]
 
 > it's a generation ⛓ ft\. Twenty One Pilots
 
-[Spotify](https://open.spotify.com/user/spotify) - 530,669 likes - 80 songs - 3 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 530,638 likes - 80 songs - 3 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,7 +57,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYmDNATMglFU.md) - [plain]
 | 47 | [We Need More Bricks](https://open.spotify.com/track/5F3HNBitIp7FkxhBl8SNgW) | [Neck Deep](https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH) | [We Need More Bricks](https://open.spotify.com/album/4f5JujhyhXEY2XByzlfrvK) | 3:48 |
 | 48 | [Drain Me!](https://open.spotify.com/track/7MMbF73FtqDVyk2fU8FStL) | [Towa Bird](https://open.spotify.com/artist/1Yq3rS7K1SQKqjMOHXpqqt) | [Drain Me!](https://open.spotify.com/album/7z8DgBZJe1rvHMA5H2EUbW) | 2:01 |
 | 49 | [SCUMBAG](https://open.spotify.com/track/0kYWQcuHGs0tqZHRTCfhR1) | [NOAHFINNCE](https://open.spotify.com/artist/6y7T3BaNMGAYgRbATEq4cM) | [SCUMBAG](https://open.spotify.com/album/3T9sAXQL2HqNvpA2lE6t1C) | 3:06 |
-| 50 | [Airhead](https://open.spotify.com/track/3Gsn1htwAx5KGY8SRjtIfs) | [Honey Revenge](https://open.spotify.com/artist/1DHMgO3IIYSYPJ6CFyDYnK) | [Retrovision](https://open.spotify.com/album/4IiWkF0yCGFHGudJ98hV7f) | 2:43 |
+| 50 | [Airhead](https://open.spotify.com/track/7juaMHv1j8EAmEVEAlo1iT) | [Honey Revenge](https://open.spotify.com/artist/1DHMgO3IIYSYPJ6CFyDYnK) | [Retrovision](https://open.spotify.com/album/1BOoOLLNUPLQNTuObi2PRh) | 2:43 |
 | 51 | [Not The 1975](https://open.spotify.com/track/0tireFhMGfLWtbelX0EBqd) | [Knox](https://open.spotify.com/artist/61S5H9Lxn1PDUvu1TV0kCX) | [Not The 1975](https://open.spotify.com/album/1HVxIc8XOtdFhuIQZdTPx9) | 3:18 |
 | 52 | [umakemenotwannadie](https://open.spotify.com/track/5RlJOw0OQ3papYLfMeJFF0) | [Palaye Royale](https://open.spotify.com/artist/0hAd6zwEgt9ILuMDY1prcI) | [umakemenotwannadie](https://open.spotify.com/album/1xV8htCjUIU8SeVD3mtd63) | 2:47 |
 | 53 | [AI \(Save Yourself\)](https://open.spotify.com/track/2MrnJVZSGAzz1IobfPEwHv) | [Kid Bookie](https://open.spotify.com/artist/7DiLiJ8nji6DslsFSzx0IV) | [AI \(Save Yourself\)](https://open.spotify.com/album/2PcWCQtSCQea2SDQbJmuqO) | 3:08 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYmDNATMglFU.md) - [plain]
 | 79 | [It Won't Be Like This Forever](https://open.spotify.com/track/748NBl59GV0pfENbadjSxE) | [Neck Deep](https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH) | [It Won't Be Like This Forever](https://open.spotify.com/album/4iwi5cpXPASmSueTCcLPkc) | 3:27 |
 | 80 | [Jaded](https://open.spotify.com/track/3Rn83gfUT1w6fF2XMGZuHn) | [Bronnie](https://open.spotify.com/artist/6xAfmpNG113QC08DHcQgv6) | [Jaded](https://open.spotify.com/album/2TvkKdCWL1Jn57auoMixLf) | 3:08 |
 
-Snapshot ID: `MCw4NDQ1N2ZkZTg1Yjk1ZjJjYzIzZGMxM2RlNGUyYzljNWM5OTU3Yzhh`
+Snapshot ID: `MCwyZmRjNWZmYzQ3MTQzOTNkZTA5NjRhYmZkODQ1ZGYyMzU2ZjVkZjU0`

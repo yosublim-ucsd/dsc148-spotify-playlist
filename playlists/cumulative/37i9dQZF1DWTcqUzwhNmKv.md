@@ -4,7 +4,7 @@
 
 > The Devil Wears Prada is on top of today's best Metal playlist.
 
-621 songs - 1 day 17 hr 30 min
+622 songs - 1 day 17 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,7 +14,8 @@
 | [+ kristallfågel +](https://open.spotify.com/track/5x71gpk1LZjD92Vh5wwR97) | [Vildhjarta](https://open.spotify.com/artist/0z4ODfFM8PGE0A9r0tZ75J) | [+ kristallfågel +](https://open.spotify.com/album/3HfGHNagqAhlOcBTubVg3u) | 4:04 | 2024-01-12 | 2024-02-24 |
 | [112](https://open.spotify.com/track/6Ef5D1XQrboIMC4UY9jptf) | [Lost Society](https://open.spotify.com/artist/5Vy1NbrZXTMTAGFa4Im6hN) | [112](https://open.spotify.com/album/0aq677QTRSYPj3sbsDGjKv) | 3:49 | 2022-05-20 | 2022-06-24 |
 | [1984](https://open.spotify.com/track/7LG0FEpKoKvHCv1S6FUrBY) | [Slaughter to Prevail](https://open.spotify.com/artist/24Oiw7BlvO1BETecDLJt6m) | [1984](https://open.spotify.com/album/5RYY90zPEcG3XxZhueE6Y3) | 3:35 | 2022-11-18 | 2023-02-04 |
-| [21 Gun Salute](https://open.spotify.com/track/33GEGdCuSpbt3x6B33Jd82) | [Catch Your Breath](https://open.spotify.com/artist/2fqPOGxG12nEERj8YG7p22) | [Shame On Me](https://open.spotify.com/album/4EcSKM9PjQiXywZ3ItofZG) | 3:46 | 2023-10-20 |  |
+| [21 Gun Salute](https://open.spotify.com/track/20Ov4hI7Z5xh9NkLMMf0db) | [Catch Your Breath](https://open.spotify.com/artist/2fqPOGxG12nEERj8YG7p22) | [Shame On Me](https://open.spotify.com/album/4Rs8FkCMRVYg9CtpKODlVN) | 3:46 | 2024-03-15 |  |
+| [21 Gun Salute](https://open.spotify.com/track/33GEGdCuSpbt3x6B33Jd82) | [Catch Your Breath](https://open.spotify.com/artist/2fqPOGxG12nEERj8YG7p22) | [Shame On Me](https://open.spotify.com/album/4EcSKM9PjQiXywZ3ItofZG) | 3:46 | 2023-10-20 | 2024-03-21 |
 | [30 Under 13](https://open.spotify.com/track/4f1ML3x043Sl0QdVeNB4yT) | [Better Lovers](https://open.spotify.com/artist/3mStoA23qANDeMqHi2oqze) | [30 Under 13](https://open.spotify.com/album/3flz7O2lY60WbBoefXUk1b) | 4:05 | 2023-05-26 | 2023-06-17 |
 | [72 Seasons](https://open.spotify.com/track/4poeu6nUr4UQo1RXpp29Js) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [72 Seasons](https://open.spotify.com/album/70uejEPPRPSLBrTRdfghP5) | 7:39 | 2023-04-14 | 2023-05-13 |
 | [72 Seasons](https://open.spotify.com/track/6txhb14PWs9yrkTgR2jnU4) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [72 Seasons](https://open.spotify.com/album/5vFa10TvQUWpEv9OkVBatc) | 7:39 | 2023-03-31 | 2023-04-17 |

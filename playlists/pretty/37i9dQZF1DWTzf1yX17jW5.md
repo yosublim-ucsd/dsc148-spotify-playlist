@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTzf1yX17jW5.md) - [plain]
 
 > Our editor’s picks for best Jersey Club songs of the year\. Cover: kanii
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,883 likes - 75 songs - 3 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,893 likes - 75 songs - 3 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,14 +51,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTzf1yX17jW5.md) - [plain]
 | 41 | [CTRL](https://open.spotify.com/track/0cGwZWfdBTLWZSiATC7OXm) | [Mysie](https://open.spotify.com/artist/3rf7cB2o79L2LEcl9HIjAf) | [CTRL](https://open.spotify.com/album/3lg6V1KDuWepNyGt3YSTJ7) | 2:19 |
 | 42 | [Jersey](https://open.spotify.com/track/0bzAIaIHmILyOOiP0nQGMj) | [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4) | [Jersey](https://open.spotify.com/album/38S4qMNg1di0obDNZaq8Ma) | 2:51 |
 | 43 | [2020 est.](https://open.spotify.com/track/2MiNSe2Mgi4bpCgTlkXjQb) | [Dante YN](https://open.spotify.com/artist/7oIvDwKGV2SuH4HJl0CKPp) | [2020 est.](https://open.spotify.com/album/2T68MkME37kh2wKG7x8NQU) | 2:08 |
-| 44 | [No Days Off](https://open.spotify.com/track/3zlSLyucr1QS2XPfRnPdcy) | [Teni](https://open.spotify.com/artist/3ukrG1BmfEiuo0KDj8YTTS) | [No Days Off](https://open.spotify.com/album/4xyQuZ8oTJ7ZhdiWBwtVnS) | 3:15 |
-| 45 | [4 PREZ](https://open.spotify.com/track/5KI2PiYrNnVhj4PQ3kqMjr) | [Cruz Cafuné](https://open.spotify.com/artist/0jeYkqwckGJoHQhhXwgzk3) | [4 PREZ](https://open.spotify.com/album/2Blh4kM0W8RddcJojwSlll) | 2:29 |
-| 46 | [Cagoule](https://open.spotify.com/track/6CTdoQ646rvcW5Jvs1PLPc) | [RAF Camora](https://open.spotify.com/artist/0Dvx6p8JDyzeOPGmaCIH1L), [HoodBlaq](https://open.spotify.com/artist/1Wic7dyEeEpQXDBbDf6HKm) | [XV](https://open.spotify.com/album/39eNnt0fhAmQUyC3m3IATi) | 3:06 |
+| 44 | [4 PREZ](https://open.spotify.com/track/5KI2PiYrNnVhj4PQ3kqMjr) | [Cruz Cafuné](https://open.spotify.com/artist/0jeYkqwckGJoHQhhXwgzk3) | [4 PREZ](https://open.spotify.com/album/2Blh4kM0W8RddcJojwSlll) | 2:29 |
+| 45 | [Cagoule](https://open.spotify.com/track/6CTdoQ646rvcW5Jvs1PLPc) | [RAF Camora](https://open.spotify.com/artist/0Dvx6p8JDyzeOPGmaCIH1L), [HoodBlaq](https://open.spotify.com/artist/1Wic7dyEeEpQXDBbDf6HKm) | [XV](https://open.spotify.com/album/39eNnt0fhAmQUyC3m3IATi) | 3:06 |
+| 46 | [No Days Off](https://open.spotify.com/track/3zlSLyucr1QS2XPfRnPdcy) | [Teni](https://open.spotify.com/artist/3ukrG1BmfEiuo0KDj8YTTS) | [No Days Off](https://open.spotify.com/album/4xyQuZ8oTJ7ZhdiWBwtVnS) | 3:15 |
 | 47 | [UDNTLUVME](https://open.spotify.com/track/3P1kLFAO2MxcVBtLWH3oOV) | [Dro Kenji](https://open.spotify.com/artist/46fHMu9KxdQwcGV9xI1L9R) | [UDNTLUVME](https://open.spotify.com/album/6cqqln1dVUJrrrf5eAuiu0) | 2:18 |
 | 48 | [Keine Love](https://open.spotify.com/track/7Cq4aSoLlWno9IIrZ5sSCn) | [Pajel](https://open.spotify.com/artist/1bpI6QDUqmfKmV0Tlhj0Jm) | [Keine Love](https://open.spotify.com/album/0v7Ru7ydMZIokRaZROteHw) | 2:38 |
-| 49 | [Pretty Ones](https://open.spotify.com/track/2vY20At26ZKguLNrpQHqha) | [K CAMP](https://open.spotify.com/artist/5bgfj5zUoWpyeVatGDjn6H), [B\-Lovee](https://open.spotify.com/artist/7hf5PZjVOqTQ2id3PF7I5Y) | [Pretty Ones](https://open.spotify.com/album/1oH2NV3OKNQQ8jGU4IWUCU) | 3:41 |
-| 50 | [bla bla bla](https://open.spotify.com/track/0rD2KNGhWAOrbmzHKSF4ey) | [rusowsky](https://open.spotify.com/artist/1XEVu7gdRFfzEFqsPrancH), [Barry B](https://open.spotify.com/artist/1jRwxa8eTgXDOhOlbRFFFy), [DRUMMIE](https://open.spotify.com/artist/569eg6JD5GgpfbGJ1b81b5) | [bla bla bla](https://open.spotify.com/album/6C25YbzE0xhfBAkRPYknbF) | 2:25 |
-| 51 | [Leave](https://open.spotify.com/track/6Mqe9RrVtZkucU6LYbFwLo) | [The Szns](https://open.spotify.com/artist/1xtTjrNozye1Gnzq6KkuvU), [Aaron May](https://open.spotify.com/artist/2rwALQ1SXdfUWPUd6WOfYS) | [Leave](https://open.spotify.com/album/60eCdGcvlvww5rxodkwMhs) | 2:54 |
+| 49 | [bla bla bla](https://open.spotify.com/track/0rD2KNGhWAOrbmzHKSF4ey) | [rusowsky](https://open.spotify.com/artist/1XEVu7gdRFfzEFqsPrancH), [Barry B](https://open.spotify.com/artist/1jRwxa8eTgXDOhOlbRFFFy), [DRUMMIE](https://open.spotify.com/artist/569eg6JD5GgpfbGJ1b81b5) | [bla bla bla](https://open.spotify.com/album/6C25YbzE0xhfBAkRPYknbF) | 2:25 |
+| 50 | [Leave](https://open.spotify.com/track/6Mqe9RrVtZkucU6LYbFwLo) | [The Szns](https://open.spotify.com/artist/1xtTjrNozye1Gnzq6KkuvU), [Aaron May](https://open.spotify.com/artist/2rwALQ1SXdfUWPUd6WOfYS) | [Leave](https://open.spotify.com/album/60eCdGcvlvww5rxodkwMhs) | 2:54 |
+| 51 | [Pretty Ones](https://open.spotify.com/track/2vY20At26ZKguLNrpQHqha) | [K CAMP](https://open.spotify.com/artist/5bgfj5zUoWpyeVatGDjn6H), [B\-Lovee](https://open.spotify.com/artist/7hf5PZjVOqTQ2id3PF7I5Y) | [Pretty Ones](https://open.spotify.com/album/1oH2NV3OKNQQ8jGU4IWUCU) | 3:41 |
 | 52 | [Millions \- Jumbo Sounds Mix](https://open.spotify.com/track/6vXb4B2xZTNXPFJGaOMO5q) | [Tierra Whack](https://open.spotify.com/artist/4lPl9gqgox3JDiaJ1yklKh) | [Millions \(Jumbo Sounds Mix\)](https://open.spotify.com/album/3oMxuwT3lWVKT9C6NZabpJ) | 2:38 |
 | 53 | [Who You Touch Pt\. 2 \(feat\. Trippie Redd\)](https://open.spotify.com/track/3rdzGfp94hIX5nksvAjFoD) | [Sha EK](https://open.spotify.com/artist/3jVAqTL4NbB88q4lj94VX9), [Bandmanrill](https://open.spotify.com/artist/2SyMN1PdSuQpZgrYXrkai1), [Defiant Presents](https://open.spotify.com/artist/6kOvJAZH29zNIKqPLOEC65), [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax) | [Defiant Presents: Jiggy In Jersey](https://open.spotify.com/album/7lEj90UqCHkiZzLnOOQV2v) | 2:18 |
 | 54 | [make it jump](https://open.spotify.com/track/7f9uMdhxVDMYpxFN7OMBJm) | [mortyaweiro](https://open.spotify.com/artist/5vim2G9JGVoyUGPc7jIqVj) | [make it jump](https://open.spotify.com/album/7mVsrV1r8J1pisrklmHTK6) | 3:04 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTzf1yX17jW5.md) - [plain]
 | 74 | [Real Hips 2](https://open.spotify.com/track/740rzQXrAE1qwhQ7UqZPzN) | [DJ Sliink](https://open.spotify.com/artist/0t9dGS12PMZmiJiZa9vpyk), [Bandmanrill](https://open.spotify.com/artist/2SyMN1PdSuQpZgrYXrkai1), [Defiant Presents](https://open.spotify.com/artist/6kOvJAZH29zNIKqPLOEC65) | [Real Hips 2](https://open.spotify.com/album/25MTp5gwjXq9Y1iVzpWUth) | 2:11 |
 | 75 | [Need](https://open.spotify.com/track/4s8fQKAfuHR9gMDzoA9ioQ) | [keltiey](https://open.spotify.com/artist/6ffRXY5wKedZhPTMa6WGys) | [Need](https://open.spotify.com/album/5zcHTgSTVHfrF4JJOh1Gnh) | 2:37 |
 
-Snapshot ID: `MCwwMGFhNWYxMzMwZmIxZDFjODljMDkwNTc0YzBiMTkwZjEyNjdiMDRk`
+Snapshot ID: `MCxmZDA2MTczN2VmYjQ1NjIxZmVkYTMyMjA5ZTExMTUyYTlhZTY1NzIx`

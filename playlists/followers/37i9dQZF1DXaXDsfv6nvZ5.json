@@ -1,5 +1,5 @@
 {
-  "2024-03-20": 760296,
+  "2024-03-21": 760323,
   "date_first_scraped": "2021-12-21",
   "description": "The soulful tunes to ease you into your day.",
   "name": "Soul Coffee",
@@ -1435,7 +1435,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-18",
+      "date_removed": null,
       "duration_ms": 125706,
       "name": "Cocoa",
       "url": "https://open.spotify.com/track/5z4UjNfc0s3mkAR1l8A1cb"
@@ -6873,7 +6873,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-20",
       "duration_ms": 222914,
       "name": "Simple Man",
       "url": "https://open.spotify.com/track/7ENWxXOW7VsdcrI5AHgM0u"

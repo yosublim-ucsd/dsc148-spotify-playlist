@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3NfV1mHBR08.md) - [plain]
 
 > 당신의 하루\. 오늘도 잘하고 있어요\. \(Listen to K\-Pop comforting songs\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,996 likes - 50 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,981 likes - 50 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,9 +38,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3NfV1mHBR08.md) - [plain]
 | 28 | [goodnight](https://open.spotify.com/track/4pqmFRZiyZSWbTGiF3CSvb) | [Sarah Kang](https://open.spotify.com/artist/0MBNzfGHTiPYag4DupDXUj), [Juju B\. Goode](https://open.spotify.com/artist/5PLxgBMZxMf8px0EfhgOiY) | [how i remember](https://open.spotify.com/album/01NnWmqdwaZPdIzU5elnOS) | 2:56 |
 | 29 | [Fix me](https://open.spotify.com/track/6bSkF997fC5HQz6BuEZkXV) | [BOL4](https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl) | [Red Diary Page.1](https://open.spotify.com/album/0d3mf5fBaIBbozCgeEI9AE) | 3:06 |
 | 30 | [Bravo, My Life!](https://open.spotify.com/track/5IBGJAEwVNkV1zF5oQzu1N) | [Eric Nam](https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM) | [Prison Playbook \(Original Television Soundtrack\), Pt\. 4](https://open.spotify.com/album/61keMFoOYVGIAJmDUtilZB) | 4:05 |
-| 31 | [Human](https://open.spotify.com/track/58DqPqnPOrXEIU7Lj0s5PW) | [ZICO](https://open.spotify.com/artist/4XpUIb8uuNlIWVKmgKZXC0) | [THINKING Part.1](https://open.spotify.com/album/0yRTfpYIoHqPmmijU9GZGd) | 3:57 |
+| 31 | [be](https://open.spotify.com/track/2ixTL8BqsPxaH9qPgEhFV1) | [EUNHYUK](https://open.spotify.com/artist/4QRqp8zf5JtqaMk2OOU3NX) | [be](https://open.spotify.com/album/33UNyWkPMOczcDOk4kxWd2) | 3:49 |
 | 32 | [Through the Night](https://open.spotify.com/track/3P3UA61WRQqwCXaoFOTENd) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [Palette](https://open.spotify.com/album/5V8n6fqyAPxvFTibPhQVcp) | 4:13 |
-| 33 | [be](https://open.spotify.com/track/2ixTL8BqsPxaH9qPgEhFV1) | [EUNHYUK](https://open.spotify.com/artist/4QRqp8zf5JtqaMk2OOU3NX) | [be](https://open.spotify.com/album/33UNyWkPMOczcDOk4kxWd2) | 3:49 |
+| 33 | [Human](https://open.spotify.com/track/58DqPqnPOrXEIU7Lj0s5PW) | [ZICO](https://open.spotify.com/artist/4XpUIb8uuNlIWVKmgKZXC0) | [THINKING Part.1](https://open.spotify.com/album/0yRTfpYIoHqPmmijU9GZGd) | 3:57 |
 | 34 | [Still the Same](https://open.spotify.com/track/6haDjNEwTRlmBlIQ5wxeML) | [KYUL](https://open.spotify.com/artist/10LaysU4hUTEGtWwC0Zbrm) | [Still the Same](https://open.spotify.com/album/5nWOkQmzmE5erjdAY6S2Gu) | 2:28 |
 | 35 | [Take My Hand](https://open.spotify.com/track/6YBfa6iDpybEPDcQsPi9D2) | [Kassy](https://open.spotify.com/artist/6pU8o91xAS0aWNjj06nQSU) | [Webtoon YEONNOM OST Part.1](https://open.spotify.com/album/0hfgDbKZz3shzq7fwgRYBv) | 3:40 |
 | 36 | [입춘 Let Me Love My Youth](https://open.spotify.com/track/4KA9VMFIKUUMjEcnwiylr1) | [HANRORO](https://open.spotify.com/artist/5wVJpXzuKV6Xj7Yhsf2uYx) | [입춘 Let Me Love My Youth](https://open.spotify.com/album/7bRI9NhWadLpdKCWvzsuWJ) | 4:08 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3NfV1mHBR08.md) - [plain]
 | 49 | [She Gonna Stop \(Feat\. Leellamarz\) \(Prod\. TOIL\)](https://open.spotify.com/track/6lny2zJqlDPBzgq1Eiy0a0) | [Dynamicduo](https://open.spotify.com/artist/4nvFFLtv7ZqoTr83387uK4), [Leellamarz](https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0) | [She Gonna Stop](https://open.spotify.com/album/2qq0JhNSmRiVFYdTz7pZxN) | 3:29 |
 | 50 | [Panorama](https://open.spotify.com/track/6faF0N0fecqw3dopttNP9i) | [LEE CHANHYUK](https://open.spotify.com/artist/4RkTSLr5Qf79FfUkeaDKbl) | [ERROR](https://open.spotify.com/album/0rOZyialXbHAA4qAKi0YaL) | 3:18 |
 
-Snapshot ID: `MCw3NTllMjhjYjI2MzY3OGZjMTJjYTUzMjRjYjI3NWFlM2RiNWJmMDg5`
+Snapshot ID: `MCw1YzFkOGY2ODkwYzVkNWI1OWMzZDk4MjIwNzlkZjU3ZjdkYmQ5ZWFl`

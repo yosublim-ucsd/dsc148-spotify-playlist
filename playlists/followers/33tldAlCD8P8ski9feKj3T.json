@@ -1,5 +1,5 @@
 {
-  "2024-03-20": 22114,
+  "2024-03-21": 22115,
   "date_first_scraped": "2023-11-08",
   "description": "The best in new Modern Music. Featuring: <a href=\"https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx?si=4JprYKKMRNOzfRUudP4jeA\">Twenty One Pilots</a>, Mother Mother, Linkin Park, Wallows, Great Gable, NewDad, Michael Marcagi, ThxSoMch and many more.",
   "name": "Alternative Indie Today",
@@ -556,6 +556,24 @@
     },
     {
       "album": {
+        "name": "Come Back Home",
+        "url": "https://open.spotify.com/album/4y8kfoVNYrOUZ2GZr6sl7P"
+      },
+      "artists": [
+        {
+          "name": "Noga Erez",
+          "url": "https://open.spotify.com/artist/5VwCIS8jdx9ZHjApLFNrTZ"
+        }
+      ],
+      "date_added": "2024-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162769,
+      "name": "Come Back Home",
+      "url": "https://open.spotify.com/track/7mo91mH70LRf4NMUs717c3"
+    },
+    {
+      "album": {
         "name": "Come Clean",
         "url": "https://open.spotify.com/album/6cCasZ1BKuDKzHHWZL02F5"
       },
@@ -813,7 +831,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-20",
       "duration_ms": 132737,
       "name": "Eyes on my baby",
       "url": "https://open.spotify.com/track/7cM6obAwlMkP6nDTwNPEl2"
@@ -853,6 +871,24 @@
       "duration_ms": 176901,
       "name": "Friendly Fire",
       "url": "https://open.spotify.com/track/1rAzOr3zpUDRtN2zsqGHiG"
+    },
+    {
+      "album": {
+        "name": "Friends",
+        "url": "https://open.spotify.com/album/2l2zCRwqOm2iOUyLlrKa61"
+      },
+      "artists": [
+        {
+          "name": "BETWEEN FRIENDS",
+          "url": "https://open.spotify.com/artist/2HkSsS8O2U2gPhnCGVN5vn"
+        }
+      ],
+      "date_added": "2024-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168753,
+      "name": "Friends",
+      "url": "https://open.spotify.com/track/6wnvj532WQmeD3JEr4Y7xd"
     },
     {
       "album": {
@@ -921,7 +957,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-20",
       "duration_ms": 182855,
       "name": "Girl Shaped Crater",
       "url": "https://open.spotify.com/track/4vkD9qo574mcQnd9i8nXFT"
@@ -1105,7 +1141,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-20",
       "duration_ms": 227756,
       "name": "i don't know you anymore",
       "url": "https://open.spotify.com/track/5FCMqNc9fodjQRIXbG7Ld1"
@@ -1148,6 +1184,24 @@
     },
     {
       "album": {
+        "name": "i like the way you kiss me",
+        "url": "https://open.spotify.com/album/5HIWDdg3g9CTOtnevKDl1z"
+      },
+      "artists": [
+        {
+          "name": "Artemas",
+          "url": "https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2"
+        }
+      ],
+      "date_added": "2024-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142514,
+      "name": "i like the way you kiss me",
+      "url": "https://open.spotify.com/track/2GxrNKugF82CnoRFbQfzPf"
+    },
+    {
+      "album": {
         "name": "I Told You So",
         "url": "https://open.spotify.com/album/11Eq6C1e99Zbk0XXjzvM1j"
       },
@@ -1159,7 +1213,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-20",
       "duration_ms": 254866,
       "name": "I Told You So",
       "url": "https://open.spotify.com/track/1Patip73Sq1xQw7GGwSFtw"
@@ -1249,7 +1303,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-20",
       "duration_ms": 161726,
       "name": "It's Ok to Cry",
       "url": "https://open.spotify.com/track/3LpatCGL0WM7na3JWk1NlY"
@@ -1441,6 +1495,24 @@
       "duration_ms": 203519,
       "name": "Me Before You",
       "url": "https://open.spotify.com/track/0ap1L5LS0igd0zs4erqmT3"
+    },
+    {
+      "album": {
+        "name": "Midnight Paranoia",
+        "url": "https://open.spotify.com/album/5QqfXniCX57KgPd7hmiVhU"
+      },
+      "artists": [
+        {
+          "name": "Chloe Florence",
+          "url": "https://open.spotify.com/artist/19QNbkHqVWtF8uXVQl8IUg"
+        }
+      ],
+      "date_added": "2024-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160298,
+      "name": "Midnight Paranoia",
+      "url": "https://open.spotify.com/track/5KJwobGNmA5jDadWouAaOz"
     },
     {
       "album": {
@@ -2295,7 +2367,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-20",
       "duration_ms": 164227,
       "name": "The Other Side",
       "url": "https://open.spotify.com/track/5ASXKBcnFeouRbWSkSgwkg"
@@ -2450,6 +2522,24 @@
     },
     {
       "album": {
+        "name": "Unknown Phantom",
+        "url": "https://open.spotify.com/album/7gBm5D06xjz6kqx4v4M1JB"
+      },
+      "artists": [
+        {
+          "name": "Ricky Montgomery",
+          "url": "https://open.spotify.com/artist/0ZUvK7zGdXLd78mQr3t1Tw"
+        }
+      ],
+      "date_added": "2024-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252081,
+      "name": "Unknown Phantom",
+      "url": "https://open.spotify.com/track/2AQLOunAb0C3HPSs8SoWG3"
+    },
+    {
+      "album": {
         "name": "VOID",
         "url": "https://open.spotify.com/album/5Zcbn14eQzkC78jEejObL2"
       },
@@ -2519,6 +2609,24 @@
       "duration_ms": 151142,
       "name": "we're all eating each other",
       "url": "https://open.spotify.com/track/6BrfgV35h3NfTtIdMqhmFQ"
+    },
+    {
+      "album": {
+        "name": "WHAT THE HELL",
+        "url": "https://open.spotify.com/album/3ipWal9rIQJcZHztmB8tLQ"
+      },
+      "artists": [
+        {
+          "name": "jxdn",
+          "url": "https://open.spotify.com/artist/6Y64EaNqpqcZYTgs4c76gF"
+        }
+      ],
+      "date_added": "2024-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172604,
+      "name": "WHAT THE HELL",
+      "url": "https://open.spotify.com/track/7fjd7XOn6Bp8PMNdp7YZDO"
     },
     {
       "album": {

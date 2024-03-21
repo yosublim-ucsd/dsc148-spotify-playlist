@@ -4,7 +4,7 @@
 
 > Rock independiente, pop alternativo y golden hour.
 
-572 songs - 1 day 9 hr 48 min
+573 songs - 1 day 9 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -128,6 +128,7 @@
 | [Dentro, Fuera](https://open.spotify.com/track/33IzHjoiz3eJWnQTtQVf9s) | [DPSE](https://open.spotify.com/artist/3UI2kcGWO3drAIwRiRz69M) | [Dentro, Fuera](https://open.spotify.com/album/27FYJ0ynBiNZHQAsA1VoIf) | 4:06 | 2022-07-15 | 2022-07-29 |
 | [Derrumbe](https://open.spotify.com/track/0YSBEGkXPVcJXLdhNIXx4q) | [Varese](https://open.spotify.com/artist/5DG278QHnEKfWW9zAGFeRg) | [Derrumbe](https://open.spotify.com/album/23csDME5tEskWfOBPW09mi) | 3:21 | 2022-10-28 | 2022-11-29 |
 | [Desde Haedo](https://open.spotify.com/track/6Yf8tgs3hai7PAdIrFsGNB) | [Dante](https://open.spotify.com/artist/7sDwrK5NyflcQgrkv4Mgyd) | [Desde Haedo](https://open.spotify.com/album/0rVWebTopC04kvuvKTfWwx) | 2:56 | 2023-10-05 | 2023-10-27 |
+| [Desenlace](https://open.spotify.com/track/46jWzIOebLayoPxkUeGZAc) | [The Zafarrancho](https://open.spotify.com/artist/2teY1GZvRISuzQgHpPhS4j) | [Desenlace](https://open.spotify.com/album/7I7ze1mejAhsI9gOcfA1zv) | 3:29 | 2024-03-19 |  |
 | [Deseo Permanente](https://open.spotify.com/track/00P9KJpQNtviOk95bb1CBl) | [El príncipe idiota](https://open.spotify.com/artist/5xEgsOYkENDU9TRoKMWW3u) | [Deseo Permanente](https://open.spotify.com/album/1sga3Ihe2EfxoGIL4wvBLd) | 5:44 | 2022-07-15 | 2023-10-06 |
 | [Deseo Permanente](https://open.spotify.com/track/2E7At2lJjbRHLvZNM5G8gc) | [El príncipe idiota](https://open.spotify.com/artist/5xEgsOYkENDU9TRoKMWW3u) | [Deseo Permanente](https://open.spotify.com/album/54zfGz1Dj8XTHhUad8lR7C) | 5:44 | 2022-06-03 | 2022-07-29 |
 | [Desesperación](https://open.spotify.com/track/1w2304mMZHbeOxSNknkj24) | [Luis Angelero](https://open.spotify.com/artist/3xgnzKKYpO6Jp0ARI1O6LL) | [Desesperación](https://open.spotify.com/album/4sIEzkOHRqNNdjmxGmp6LM) | 2:39 | 2022-06-03 | 2022-07-29 |
@@ -188,7 +189,7 @@
 | [Esferas](https://open.spotify.com/track/6hI36VcEXr85nZEbQB9aqD) | [Capsula](https://open.spotify.com/artist/4JSzzwHzs5cp6dm2onRPRd) | [Phantasmaville](https://open.spotify.com/album/0bEybTzBwn66pNy8MNGSbU) | 4:19 | 2022-06-03 | 2022-07-04 |
 | [Eso no es Amor](https://open.spotify.com/track/3fG3Ds1rzPt5kScGIlocTH) | [Fonso](https://open.spotify.com/artist/7F0EJprm2nfF3OmKCa4Ox4) | [Día del Trabajador](https://open.spotify.com/album/2Zl1OvzHWSaztfZlLlEgNI) | 4:45 | 2023-09-15 |  |
 | [Espacio Vacío](https://open.spotify.com/track/7yA5MAd2vRuEnSH9LMGoqO) | [El Mató a un Policía Motorizado](https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB), [Carolina Durante](https://open.spotify.com/artist/2BVE7Pqd8kxv9xEsuvoJoE) | [Espacio Vacío](https://open.spotify.com/album/2kcjb9G2ME8sF1b8j0DEXp) | 3:53 | 2022-06-03 | 2023-06-10 |
-| [Espejo](https://open.spotify.com/track/32VI35kNjDYQhtryCeBv0y) | [Todo Aparenta Normal](https://open.spotify.com/artist/3wsEppaZbJOYZEtwMfNI0o), [Lisandro Aristimuño](https://open.spotify.com/artist/0ovfSEcDqepf0vqJc811zQ) | [Espejo](https://open.spotify.com/album/3mrLJYiIA3aHTco2VdFD2U) | 4:15 | 2023-06-23 |  |
+| [Espejo](https://open.spotify.com/track/32VI35kNjDYQhtryCeBv0y) | [Todo Aparenta Normal](https://open.spotify.com/artist/3wsEppaZbJOYZEtwMfNI0o), [Lisandro Aristimuño](https://open.spotify.com/artist/0ovfSEcDqepf0vqJc811zQ) | [Espejo](https://open.spotify.com/album/3mrLJYiIA3aHTco2VdFD2U) | 4:15 | 2023-06-23 | 2024-03-21 |
 | [Espejo](https://open.spotify.com/track/4PrG4rGGT9QTcs64K7B85m) | [Ñoqui](https://open.spotify.com/artist/1lNd3hH3tHiqrAQl7N1l9h), [Lula Bertoldi](https://open.spotify.com/artist/5WX7W5ESabcsJrPMHYkjNQ) | [Espejo](https://open.spotify.com/album/6oNSvXhEhqeKkWSIcPo9Sg) | 4:06 | 2022-06-03 | 2022-07-24 |
 | [Espejos Dorados \- Live at M100](https://open.spotify.com/track/6rfpQtEtNFDQxEvNSAIgf3) | [tortuganónima](https://open.spotify.com/artist/0jsPe8wkYOMs1yd3zd2aRR) | [Espejos Dorados \(Live at M100\)](https://open.spotify.com/album/3Kgab4RGUvsWg93lrDaVl5) | 4:22 | 2022-07-01 | 2022-07-06 |
 | [Espiándote](https://open.spotify.com/track/2SrVBLz24XKfsdTImimNqG) | [Hollywood Bungalows](https://open.spotify.com/artist/4R8wRxSAhFbsZzHTScrFLv) | [Espiándote](https://open.spotify.com/album/7vAQv07uWaShAr6fm0y42k) | 3:39 | 2022-07-01 | 2022-07-27 |

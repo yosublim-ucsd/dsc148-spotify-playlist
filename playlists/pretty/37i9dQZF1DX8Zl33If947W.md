@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Zl33If947W.md) - [plain]
 
 > Die schönsten deutschsprachigen Liebeslieder in einer Playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 161,264 likes - 60 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 161,365 likes - 60 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,8 +27,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Zl33If947W.md) - [plain]
 | 17 | [Du](https://open.spotify.com/track/27iPwB996qUnv5oVq6QyjN) | [CRO](https://open.spotify.com/artist/3utZ2yeQk0Z3BCOBWP7Vlu) | [Raop](https://open.spotify.com/album/5CvpkMTpc2wVdDdB9JSGWV) | 2:54 |
 | 18 | [Bei Dir](https://open.spotify.com/track/3XpEKPj7KZt0yYWd7PQf5d) | [KUMMER](https://open.spotify.com/artist/2TiXt00aPsggbxZxL1RaG7) | [KIOX](https://open.spotify.com/album/4E7HxVevq5O1XmvWhCEKXS) | 3:42 |
 | 19 | [Liebe](https://open.spotify.com/track/5cBx2v7XJSErfesDmgNtr2) | [Sido](https://open.spotify.com/artist/4Yttlv9ndGjCDCVLqM7ACq) | [30\-11\-80](https://open.spotify.com/album/5SyLIeBzGDJ4YzGDNqVVB2) | 3:15 |
-| 20 | [Ich lass für dich das Licht an](https://open.spotify.com/track/55VQvOY6dT63vHmYlWJDpG) | [Revolverheld](https://open.spotify.com/artist/5FYfIAuN8mV5KgVtugwfc0) | [Immer in Bewegung](https://open.spotify.com/album/2GJf3Mf41uZ05U6ygryyD0) | 3:32 |
-| 21 | [Morgen](https://open.spotify.com/track/53x25WE2X6nOsHJ23mu1gv) | [EstA](https://open.spotify.com/artist/2H5RJPxjfOKonBVphYdRzG), [Tom Twers](https://open.spotify.com/artist/6Vg9ZTblAIMeOiRCgyzJzO) | [Morgen](https://open.spotify.com/album/6JYdwInTDE3arObsOWqJPv) | 2:15 |
+| 20 | [Morgen](https://open.spotify.com/track/53x25WE2X6nOsHJ23mu1gv) | [EstA](https://open.spotify.com/artist/2H5RJPxjfOKonBVphYdRzG), [Tom Twers](https://open.spotify.com/artist/6Vg9ZTblAIMeOiRCgyzJzO) | [Morgen](https://open.spotify.com/album/6JYdwInTDE3arObsOWqJPv) | 2:15 |
+| 21 | [Ich lass für dich das Licht an](https://open.spotify.com/track/55VQvOY6dT63vHmYlWJDpG) | [Revolverheld](https://open.spotify.com/artist/5FYfIAuN8mV5KgVtugwfc0) | [Immer in Bewegung](https://open.spotify.com/album/2GJf3Mf41uZ05U6ygryyD0) | 3:32 |
 | 22 | [Nur geträumt](https://open.spotify.com/track/0ukySDr4uEzZE36s7t7X8E) | [Nena](https://open.spotify.com/artist/6Tz0QRoe083BcOo2YbG9lV) | [Nena](https://open.spotify.com/album/4uHwcjASOWAKw4P4wveKRb) | 3:42 |
 | 23 | [Lieblingsmensch](https://open.spotify.com/track/6oHDvarQSp0mf5AD1SyNH0) | [Namika](https://open.spotify.com/artist/0HSc7yUdNSosxRb2UJnXlz) | [Nador](https://open.spotify.com/album/2u6q5sBh8VigLzYghKk5r0) | 3:10 |
 | 24 | [Wie schön du bist](https://open.spotify.com/track/2xtnnO9bHKXEmsfetO3ldK) | [Sarah Connor](https://open.spotify.com/artist/7e52Ytzjj1q71DUj2cSlch) | [Muttersprache \(Deluxe Version\)](https://open.spotify.com/album/3ZpOEFd7RgKIcdWOqrzOAc) | 3:38 |
@@ -65,8 +65,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Zl33If947W.md) - [plain]
 | 55 | [paris syndrom \- dach session](https://open.spotify.com/track/4cvfB6n4wfSXIvND88VRc1) | [Blumengarten](https://open.spotify.com/artist/5j3YjOV8eusoDutC6yPjhS), [Paula Hartmann](https://open.spotify.com/artist/3Fl31gc0mEUC2H0JWL1vic) | [paris syndrom \(dach session\)](https://open.spotify.com/album/5FXulrsss6KsfQ7izfaTdP) | 2:50 |
 | 56 | [Normal zu lieben](https://open.spotify.com/track/5BfAcaTKnD5s6hkwrK6EhQ) | [Jamule](https://open.spotify.com/artist/4sVieJlKgpZ2k9ESNS5IdN) | [Normal zu lieben](https://open.spotify.com/album/0TM0URyKK7Z9yRjzBx5Oxz) | 2:56 |
 | 57 | [Das Spiel](https://open.spotify.com/track/7lHHTWfwo1twOeQGMwr6cp) | [Annett Louisan](https://open.spotify.com/artist/0kcGSitPHYyZ9B7bP7wJo8) | [Bohème](https://open.spotify.com/album/6xiAsRGDcZ0cGz3o9CE06i) | 3:01 |
-| 58 | [dass liebe schön sein kann](https://open.spotify.com/track/1bTNHPvRgDGe2s19htkcPF) | [Revelle](https://open.spotify.com/artist/02EVANzKGRlR3TTTiaGAoA), [Gregor Hägele](https://open.spotify.com/artist/43fk67sl4SOrjJ7mtLTVVt) | [dass liebe schön sein kann](https://open.spotify.com/album/47HTLFj9B6XTFSwaYyP1X9) | 2:39 |
-| 59 | [Weil ich dich liebe \- Remastered](https://open.spotify.com/track/6J4IzVtA7Uk6heQqcKGwy8) | [Westernhagen](https://open.spotify.com/artist/6El2bDJ8PlTKVYyEPWxfAS) | [Halleluja \(Remastered\)](https://open.spotify.com/album/12hxaOkQlSGpmhcj1EwL48) | 4:46 |
+| 58 | [Weil ich dich liebe \- Remastered](https://open.spotify.com/track/6J4IzVtA7Uk6heQqcKGwy8) | [Westernhagen](https://open.spotify.com/artist/6El2bDJ8PlTKVYyEPWxfAS) | [Halleluja \(Remastered\)](https://open.spotify.com/album/12hxaOkQlSGpmhcj1EwL48) | 4:46 |
+| 59 | [dass liebe schön sein kann](https://open.spotify.com/track/1bTNHPvRgDGe2s19htkcPF) | [Revelle](https://open.spotify.com/artist/02EVANzKGRlR3TTTiaGAoA), [Gregor Hägele](https://open.spotify.com/artist/43fk67sl4SOrjJ7mtLTVVt) | [dass liebe schön sein kann](https://open.spotify.com/album/47HTLFj9B6XTFSwaYyP1X9) | 2:39 |
 | 60 | [Demo \(Letzter Tag\)](https://open.spotify.com/track/7wrk9vlDyvxx4nbKf3ywXH) | [Herbert Grönemeyer](https://open.spotify.com/artist/5tG5dl5mS2wB5w72YBpsyg) | [Was Muss Muss \- Best Of](https://open.spotify.com/album/3BFKX0idyoUQAEGiK8FHhM) | 3:29 |
 
-Snapshot ID: `MCwwYzRjNjEwZjllMWQwNTZhZjYzMWY5NjkwY2ViMjU1OWI1N2I1ZjA2`
+Snapshot ID: `MCwzMmEzODI1NzU3YzIxMmU0NmRhMDBlM2Y0M2Q0ZmUxNjY0YjA3NThm`

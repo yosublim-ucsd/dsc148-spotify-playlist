@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU65QzegR429.md) - [plain]
 
 > Latin music making waves\. Cover: Lismar
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,779 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,788 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,8 +24,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU65QzegR429.md) - [plain]
 | 14 | [Desde Mis Ojos](https://open.spotify.com/track/55b9ywCCjdMt4p0rrDWZGp) | [Chris Lebron](https://open.spotify.com/artist/3GPTvhZ8XfH7WkHXidvELk) | [Versos de un Cardíaco](https://open.spotify.com/album/37kW73lswREZ5Bj410ZXTX) | 2:49 |
 | 15 | [Baccarat](https://open.spotify.com/track/74ORZ2qrQK0pDL8rzoiuyr) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [Cosmo](https://open.spotify.com/album/3nEa7WJXcruywRIZXu6qRE) | 3:17 |
 | 16 | [Daddy \(feat\. Sexyy Red\)](https://open.spotify.com/track/7oYjWdHi4gwPxOkRVWfSUc) | [Tokischa](https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ), [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [Daddy \(feat\. Sexyy Red\)](https://open.spotify.com/album/2aUz6JfGW97Min1HueLXmp) | 3:13 |
-| 17 | [NAGASAKI](https://open.spotify.com/track/0sAVtc720YIqLD0w9GpLwD) | [Polimá Westcoast](https://open.spotify.com/artist/768O5GliF0bqscyghggrbE), [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9) | [NAGASAKI](https://open.spotify.com/album/3lzvMWNHMpcyCl0H29PiEm) | 3:26 |
-| 18 | [T'as peur](https://open.spotify.com/track/0KERPiv5izyNsVcXYNEugE) | [Aya Nakamura](https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [T'as peur](https://open.spotify.com/album/5iq2ffpT0zwW0CLI646Z8d) | 3:35 |
+| 17 | [T'as peur](https://open.spotify.com/track/0KERPiv5izyNsVcXYNEugE) | [Aya Nakamura](https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [T'as peur](https://open.spotify.com/album/5iq2ffpT0zwW0CLI646Z8d) | 3:35 |
+| 18 | [NAGASAKI](https://open.spotify.com/track/0sAVtc720YIqLD0w9GpLwD) | [Polimá Westcoast](https://open.spotify.com/artist/768O5GliF0bqscyghggrbE), [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9) | [NAGASAKI](https://open.spotify.com/album/3lzvMWNHMpcyCl0H29PiEm) | 3:26 |
 | 19 | [Ocean](https://open.spotify.com/track/2kPjKPf34ZF0vXVBcsLimh) | [Boza](https://open.spotify.com/artist/2NfSBtmWe7oPw1EmetJVso), [Kenia OS](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG) | [Sin Sol](https://open.spotify.com/album/2CsypJgFF6iLwdWkHYanv9) | 3:24 |
 | 20 | [Uff](https://open.spotify.com/track/37Em5gY1LOTbjXYrpD7cdp) | [Hamilton](https://open.spotify.com/artist/2Gke7HMz6MgNWSX71pBMyX) | [Uff](https://open.spotify.com/album/4suyPerfUCXOFF2EGCDzsU) | 2:32 |
 | 21 | [Los Angeles](https://open.spotify.com/track/4UZCqJJ0m4BpA9HCLgws5o) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [Sweet & Sour](https://open.spotify.com/album/006vB71xTBRqzQREjfYREf) | 2:43 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU65QzegR429.md) - [plain]
 | 49 | [Come](https://open.spotify.com/track/1b7V8nIDDItoLTUmB7IZsz) | [Cyn Santana](https://open.spotify.com/artist/4XiX7SyOMb1rbMIbOhTnwf) | [Come](https://open.spotify.com/album/4RJ4WisTGku6ifa8iJkMi1) | 2:56 |
 | 50 | [Por ti](https://open.spotify.com/track/4q7qEtx8ZJ9wF4WJcCR3CP) | [Daymé Arocena](https://open.spotify.com/artist/6LcWO77VeIUPqNY22N3fI0) | [Por ti](https://open.spotify.com/album/7J48NdfyjSayVLgEWduCPa) | 3:16 |
 
-Snapshot ID: `MCwzNGZkODY5NmU1MjJmNGI5NmFiM2IwM2U5YzViODBmMjA1MjZjNTJh`
+Snapshot ID: `MCxiODM4NmJlYjE5NjVhOTdlMjA3YjA4YTIzNWI1OGIxZTAzZmE4Yzcw`

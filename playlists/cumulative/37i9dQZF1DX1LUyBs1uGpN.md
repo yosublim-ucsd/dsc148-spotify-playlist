@@ -4,7 +4,7 @@
 
 > ¡Pura Doble P! Chachaaauuuuuu
 
-85 songs - 4 hr 32 min
+86 songs - 4 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -81,7 +81,8 @@
 | [Siempre Pendientes](https://open.spotify.com/track/3gfSH9aYZbyGjdmbeoWliw) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [Siempre Pendientes](https://open.spotify.com/album/3ri7jQpYUr63gKKyoihGCN) | 3:06 | 2023-06-30 |  |
 | [Spiral](https://open.spotify.com/track/5rw1Kmm5BklmJzbgh1HCXr) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [Spiral](https://open.spotify.com/album/0e4cbWt2IcUYPXn7jCQXt0) | 3:04 | 2023-06-30 |  |
 | [SU CASA](https://open.spotify.com/track/1tGGJ4SRZnd2H0E2dV05iM) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [GÉNESIS](https://open.spotify.com/album/4jox3ip1I39DFC2B7R5qLH) | 2:18 | 2023-06-30 |  |
-| [Todo Es Playa](https://open.spotify.com/track/7pnRCKAqERqg6dQRKfZoFm) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [Todo Es Playa](https://open.spotify.com/album/3zTdYxlP3AQMBvbLtJQeBE) | 3:48 | 2023-06-30 |  |
+| [Todo Es Playa](https://open.spotify.com/track/06x6rlsG6ZD56K0JFi8yKC) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [Todo Es Playa](https://open.spotify.com/album/2N7Z8HVXQTndAApnM7cuMJ) | 3:48 | 2024-01-26 |  |
+| [Todo Es Playa](https://open.spotify.com/track/7pnRCKAqERqg6dQRKfZoFm) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [Todo Es Playa](https://open.spotify.com/album/3zTdYxlP3AQMBvbLtJQeBE) | 3:48 | 2023-06-30 | 2024-03-21 |
 | [TULUM](https://open.spotify.com/track/7bPp2NmpmyhLJ7zWazAXMu) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [GÉNESIS](https://open.spotify.com/album/4jox3ip1I39DFC2B7R5qLH) | 3:29 | 2023-06-30 |  |
 | [Tus Lindos Versos \- En Vivo](https://open.spotify.com/track/6WGk5SqnWogTgDlMdyEdbo) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [Disco en Vivo \(En Vivo\)](https://open.spotify.com/album/6GFrP5y4e18yKiRnCnRYom) | 2:35 | 2023-06-30 | 2023-12-02 |
 | [Un Suspiro \- En Vivo](https://open.spotify.com/track/48pQWoo9ZMaceouLTdLlJL) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [Disco \(En Vivo\)](https://open.spotify.com/album/3FPXoHsP3xUjznyOv7J0WS) | 2:40 | 2024-01-26 |  |

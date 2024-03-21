@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa87Zq4SJwzv.md) - [plain]
 
 > 🌈 AMOR ES AMOR 🌈
 
-[Spotify](https://open.spotify.com/user/spotify) - 56,342 likes - 60 songs - 3 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 56,420 likes - 60 songs - 3 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [telepatía](https://open.spotify.com/track/6tDDoYIxWvMLTdKpjFkc1B) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Sin Miedo \(del Amor y Otros Demonios\) ∞](https://open.spotify.com/album/00wSTrFxoSzA7eeS1UxHgd) | 2:40 |
 | 2 | [Rosa Pastel](https://open.spotify.com/track/3mU0DbuWtUX5KCaovOQZVK) | [Belanova](https://open.spotify.com/artist/3oNy8cjBtJzLC07I70sklp) | [Dulce Beat](https://open.spotify.com/album/5aamU0jIrX7bsjUsPCFVAK) | 3:05 |
-| 3 | [Saturno](https://open.spotify.com/track/2f0Ft2XdvNSMSY5TUlZgEz) | [Pablo Alborán](https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50) | [Prometo](https://open.spotify.com/album/4qtl6sl6iwC37wRM9lbssD) | 4:13 |
-| 4 | [Perfecta](https://open.spotify.com/track/09QfIIP4NUx4A3thmovb2o) | [Miranda!](https://open.spotify.com/artist/2eEmsgWmUFMbtU7agJpnjY) | [El Templo del Pop](https://open.spotify.com/album/0KzE84u9io1eWxWSs9SmSY) | 3:45 |
+| 3 | [Perfecta](https://open.spotify.com/track/09QfIIP4NUx4A3thmovb2o) | [Miranda!](https://open.spotify.com/artist/2eEmsgWmUFMbtU7agJpnjY) | [El Templo del Pop](https://open.spotify.com/album/0KzE84u9io1eWxWSs9SmSY) | 3:45 |
+| 4 | [Saturno](https://open.spotify.com/track/2f0Ft2XdvNSMSY5TUlZgEz) | [Pablo Alborán](https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50) | [Prometo](https://open.spotify.com/album/4qtl6sl6iwC37wRM9lbssD) | 4:13 |
 | 5 | [Nada de Nada](https://open.spotify.com/track/3PaBUPtwqvybnUNWyLZVQr) | [Valentina Rico](https://open.spotify.com/artist/1VqjlTkCPuK6amNOlkM18d) | [Nada de Nada](https://open.spotify.com/album/0v2GwxgQ2cSoiQd8ZXiAPt) | 3:37 |
 | 6 | [Antologia](https://open.spotify.com/track/0KAqMRUSZwzG3dZLdDA4eH) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Pies Descalzos](https://open.spotify.com/album/3HLngzP9wVd8p3SMDQgyd9) | 4:14 |
 | 7 | [Eres para Mí \(with Anita Tijoux\)](https://open.spotify.com/track/4m3vLNZkFAjm30XxPXf7E3) | [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm), [Ana Tijoux](https://open.spotify.com/artist/40JMTpVRUw90SrN4pFA6Mz) | [Limon Y Sal](https://open.spotify.com/album/1YhHEtOj1mhMz0769Fqa9Q) | 3:12 |
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa87Zq4SJwzv.md) - [plain]
 | 23 | [Tu Recuerdo \(feat\. La Mari De Chambao & Tommy Torres\) \- MTV Unplugged Version](https://open.spotify.com/track/61hJK3EfAd1LDk7x5OrCTc) | [Ricky Martin](https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ), [Lamari](https://open.spotify.com/artist/1Rv4Ogfu7pg6QMo09XWtWK), [Tommy Torres](https://open.spotify.com/artist/264nbMzGPSkDZqTY8nXwCG) | [Ricky Martin MTV Unplugged](https://open.spotify.com/album/7qhZvYXFgsaSzuukZw9WCM) | 4:07 |
 | 24 | [No, No, No](https://open.spotify.com/track/1qjpqPksHOOIKcwShB08oz) | [Thalia](https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb), [Romeo Santos](https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP) | [El Sexto Sentido \(Re+Loaded\)](https://open.spotify.com/album/3kHeN0vyKHdjNO5YOnCt2r) | 4:09 |
 | 25 | [Si tú no vuelves](https://open.spotify.com/track/1YFBO31kSEYo1DVkjSj8LG) | [Miguel Bosé](https://open.spotify.com/artist/7mWCSSOYqm4E9mB7V4ot6S) | [Bajo El Signo De Caín](https://open.spotify.com/album/3TNVefBL4j3T9Cr7XU232u) | 4:38 |
-| 26 | [quiero sentirme bien](https://open.spotify.com/track/1xP2jdihnPfoqPNVHHhKnm) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Sin Miedo \(del Amor y Otros Demonios\) ∞](https://open.spotify.com/album/00wSTrFxoSzA7eeS1UxHgd) | 3:42 |
-| 27 | [Por Besarte](https://open.spotify.com/track/4q88IbAn47f7GCQIFhbYkL) | [LU](https://open.spotify.com/artist/1G4QsyR9Fj6k8JJK233X8C) | [Lu](https://open.spotify.com/album/0FDD3Y5vJ0chGNLtJju6nq) | 3:37 |
+| 26 | [Por Besarte](https://open.spotify.com/track/4q88IbAn47f7GCQIFhbYkL) | [LU](https://open.spotify.com/artist/1G4QsyR9Fj6k8JJK233X8C) | [Lu](https://open.spotify.com/album/0FDD3Y5vJ0chGNLtJju6nq) | 3:37 |
+| 27 | [quiero sentirme bien](https://open.spotify.com/track/1xP2jdihnPfoqPNVHHhKnm) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Sin Miedo \(del Amor y Otros Demonios\) ∞](https://open.spotify.com/album/00wSTrFxoSzA7eeS1UxHgd) | 3:42 |
 | 28 | [Yo Te Diré](https://open.spotify.com/track/45dWn7gzWdxNO15dPzWRSV) | [Miranda!](https://open.spotify.com/artist/2eEmsgWmUFMbtU7agJpnjY) | [El Templo del Pop](https://open.spotify.com/album/0KzE84u9io1eWxWSs9SmSY) | 3:26 |
 | 29 | [Cuando nadie me ve](https://open.spotify.com/track/7sNpt6AvOvXXZVaqTCFVCu) | [Alejandro Sanz](https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF) | [El alma al aire](https://open.spotify.com/album/5H3nqNi9L3NaxPG45h3CjJ) | 5:08 |
 | 30 | [Amante Bandido](https://open.spotify.com/track/1hj6nYHeGclSY0VNTHMi27) | [Miguel Bosé](https://open.spotify.com/artist/7mWCSSOYqm4E9mB7V4ot6S) | [Bandido](https://open.spotify.com/album/29QmPdVjXD0c5DpS4U51di) | 4:21 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa87Zq4SJwzv.md) - [plain]
 | 59 | [El Mirador](https://open.spotify.com/track/0PIUMPLmzEAKBp3AHU5wzK) | [Salvapantallas](https://open.spotify.com/artist/1VZQhmsaBc4voNvRGvFUgK) | [SMS](https://open.spotify.com/album/2D2JNUc0IzRwyiDR8X2sHh) | 2:50 |
 | 60 | [me acostumbro](https://open.spotify.com/track/5DiyXD2xRkeYmR7oUA4eFD) | [Pavlo](https://open.spotify.com/artist/5HkbqKHZAvQjhjkhYm6mp2) | [EL ETERNO RETORNO](https://open.spotify.com/album/6vBjLUk61sV9Qy27RwVOHj) | 2:49 |
 
-Snapshot ID: `MCw2YzFjYWVmOWM1MmY1ZTRkMWE0M2IyMmIwZTA5YTFlNWY4MmMwZmM1`
+Snapshot ID: `MCxiZjQ1ODM0NmM5Njc2NDIyOTcwYjhlN2JkOGQ1YTZkM2EzM2NmMzFh`

@@ -4,7 +4,7 @@
 
 > a hardcore home for slowcore fans.
 
-133 songs - 12 hr 9 min
+134 songs - 12 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,7 +59,8 @@
 | [Hold On Magnolia](https://open.spotify.com/track/5qpMqMGCu9tXD4gNqtpxrT) | [Songs: Ohia](https://open.spotify.com/artist/3uQ5cxFHxXddqPL58egs1z) | [Magnolia Electric Co\. \(Deluxe Edition\)](https://open.spotify.com/album/41RHNc47RzqBt9FBmhb8YY) | 7:51 | 2021-06-25 | 2022-07-29 |
 | [How to Disappear Completely](https://open.spotify.com/track/2rtGaCAeYtmcIvuZsvgTf6) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [Kid A](https://open.spotify.com/album/6GjwtEZcfenmOf6l18N7T7) | 5:56 | 2021-06-25 |  |
 | [How To Disappear Completely](https://open.spotify.com/track/69pwmeyvQMuHMtkCmpEWhQ) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [Kid A](https://open.spotify.com/album/19RUXBFyM4PpmrLRdtqWbp) | 5:56 | 2021-06-25 | 2022-07-29 |
-| [i was all over her](https://open.spotify.com/track/7svpAkwc6xaSxlbZ7V7JiS) | [salvia palth](https://open.spotify.com/artist/0pg0Zm8FsGAYy5kdHuBnSo) | [melanchole](https://open.spotify.com/album/23KJrzHF1IBfjzpRgTtaJx) | 2:41 | 2021-06-25 |  |
+| [i was all over her](https://open.spotify.com/track/6mSnSuOhgHHohqeBw76jRV) | [salvia palth](https://open.spotify.com/artist/0pg0Zm8FsGAYy5kdHuBnSo) | [melanchole](https://open.spotify.com/album/10WzRaNWnFUQNrW2FpqQSQ) | 2:41 | 2023-09-22 |  |
+| [i was all over her](https://open.spotify.com/track/7svpAkwc6xaSxlbZ7V7JiS) | [salvia palth](https://open.spotify.com/artist/0pg0Zm8FsGAYy5kdHuBnSo) | [melanchole](https://open.spotify.com/album/23KJrzHF1IBfjzpRgTtaJx) | 2:41 | 2021-06-25 | 2024-03-21 |
 | [Inside Out](https://open.spotify.com/track/2gZ6I0MB9XaKmWOPwNJuqt) | [Duster](https://open.spotify.com/artist/5AyEXCtu3xnnsTGCo4RVZh) | [Stratosphere](https://open.spotify.com/album/35QrvQ2SlbEwZD8oq2yxBH) | 2:21 | 2021-06-25 | 2022-07-29 |
 | [Inside Out](https://open.spotify.com/track/6WlmEymaXKMRs3D2c4j6os) | [Duster](https://open.spotify.com/artist/5AyEXCtu3xnnsTGCo4RVZh) | [Stratosphere](https://open.spotify.com/album/2S3289mypNw2zP0OpFexMb) | 2:21 | 2021-06-25 |  |
 | [Into Dust](https://open.spotify.com/track/7l5nkTZpoD93OkynN0gcon) | [Mazzy Star](https://open.spotify.com/artist/37w38cCSGgKLdayTRjna4W) | [So Tonight That I Might See](https://open.spotify.com/album/5K18gTgac0q6Jma5HkV1vA) | 5:36 | 2021-06-25 |  |

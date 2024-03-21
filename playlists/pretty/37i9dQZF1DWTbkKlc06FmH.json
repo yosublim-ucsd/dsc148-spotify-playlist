@@ -1,12 +1,12 @@
 {
   "description": "\u90fd\u4f1a\u306e\u7a7a\u3092\u898b\u4e0a\u3052\u308b\u3068\u8074\u3053\u3048\u3066\u304f\u308b\u97f3\u697d\u3002 cover painting: \u6c38\u4e95\u535a",
-  "num_followers": 128062,
+  "num_followers": 128080,
   "original_name": "\u90fd\u4f1a\u306e\u7a7a\u3068\u97f3\u697d\u3068",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2YTlkYTM1NDFlYWNhMWM0ZGViYmUzYTFlMTk1MzNlMjI3NzBkMTdi",
+  "snapshot_id": "MCw4OTU4YmQ5MmIyNzMzOGEwMjc4ZTJiZWE2N2Y4MTA0NjdiNjU4MTJk",
   "tracks": [
     {
       "added_at": "2024-03-19 15:00:00",
@@ -248,7 +248,7 @@
       "added_at": "2024-03-19 15:00:00",
       "album": {
         "name": "Water Carrier",
-        "url": "https://open.spotify.com/album/0LkdcehFEz0i0RALwIp9V7"
+        "url": "https://open.spotify.com/album/3sNzrdLqdVxbPmHAu9Iuav"
       },
       "artists": [
         {
@@ -258,7 +258,7 @@
       ],
       "duration_ms": 242470,
       "name": "Water Carrier",
-      "url": "https://open.spotify.com/track/675sPQdIf74UzpPrPR4tLZ"
+      "url": "https://open.spotify.com/track/4l8jSXhZ3apqimhbzhiabB"
     },
     {
       "added_at": "2024-03-19 15:00:00",
@@ -1071,6 +1071,22 @@
     {
       "added_at": "2024-03-19 15:00:00",
       "album": {
+        "name": "We Go Again",
+        "url": "https://open.spotify.com/album/4vdQXcHcAGcVSBA7956EMq"
+      },
+      "artists": [
+        {
+          "name": "ENNY",
+          "url": "https://open.spotify.com/artist/3qEnCAnX23lvoxZYtBiPgL"
+        }
+      ],
+      "duration_ms": 185715,
+      "name": "Charge It",
+      "url": "https://open.spotify.com/track/2YIIDMcF9zWJ2xcFSA99lH"
+    },
+    {
+      "added_at": "2024-03-19 15:00:00",
+      "album": {
         "name": "BLUE LIPS",
         "url": "https://open.spotify.com/album/107WsrBqn5xVPgystkziry"
       },
@@ -1087,22 +1103,6 @@
       "duration_ms": 291038,
       "name": "oHio (feat. Freddie Gibbs)",
       "url": "https://open.spotify.com/track/4Aa6NtW6JQcFEvR831K8xu"
-    },
-    {
-      "added_at": "2024-03-19 15:00:00",
-      "album": {
-        "name": "We Go Again",
-        "url": "https://open.spotify.com/album/4vdQXcHcAGcVSBA7956EMq"
-      },
-      "artists": [
-        {
-          "name": "ENNY",
-          "url": "https://open.spotify.com/artist/3qEnCAnX23lvoxZYtBiPgL"
-        }
-      ],
-      "duration_ms": 185715,
-      "name": "Charge It",
-      "url": "https://open.spotify.com/track/2YIIDMcF9zWJ2xcFSA99lH"
     },
     {
       "added_at": "2024-03-19 15:00:00",
@@ -1143,6 +1143,22 @@
     {
       "added_at": "2024-03-19 15:00:00",
       "album": {
+        "name": "Everything I Thought It Was",
+        "url": "https://open.spotify.com/album/44e3xckIbDMtFm8jeZLLZ7"
+      },
+      "artists": [
+        {
+          "name": "Justin Timberlake",
+          "url": "https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7"
+        }
+      ],
+      "duration_ms": 208026,
+      "name": "No Angels",
+      "url": "https://open.spotify.com/track/7dBT63cDF9a76fAJyvRXCT"
+    },
+    {
+      "added_at": "2024-03-19 15:00:00",
+      "album": {
         "name": "Two Tens (feat. Anderson .Paak)",
         "url": "https://open.spotify.com/album/32iVvfIYkmugGRxcTlzYjr"
       },
@@ -1179,22 +1195,6 @@
       "duration_ms": 159000,
       "name": "golden hour - Fujii Kaze Remix",
       "url": "https://open.spotify.com/track/6KxgptZSrQC4Vv21ZBOG7S"
-    },
-    {
-      "added_at": "2024-03-19 15:00:00",
-      "album": {
-        "name": "Everything I Thought It Was",
-        "url": "https://open.spotify.com/album/44e3xckIbDMtFm8jeZLLZ7"
-      },
-      "artists": [
-        {
-          "name": "Justin Timberlake",
-          "url": "https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7"
-        }
-      ],
-      "duration_ms": 208026,
-      "name": "No Angels",
-      "url": "https://open.spotify.com/track/7dBT63cDF9a76fAJyvRXCT"
     },
     {
       "added_at": "2024-03-19 15:00:00",
@@ -1311,30 +1311,6 @@
     {
       "added_at": "2024-03-19 15:00:00",
       "album": {
-        "name": "Love's Train",
-        "url": "https://open.spotify.com/album/6QKXGIgwWmWBMmIktMOchR"
-      },
-      "artists": [
-        {
-          "name": "Bruno Mars",
-          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
-        },
-        {
-          "name": "Anderson .Paak",
-          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
-        },
-        {
-          "name": "Silk Sonic",
-          "url": "https://open.spotify.com/artist/6PvvGcCY2XtUcSRld1Wilr"
-        }
-      ],
-      "duration_ms": 307014,
-      "name": "Love's Train",
-      "url": "https://open.spotify.com/track/60gTdTwaNtGAzIxKfeGVfJ"
-    },
-    {
-      "added_at": "2024-03-19 15:00:00",
-      "album": {
         "name": "In the End It Always Does",
         "url": "https://open.spotify.com/album/1pflleeGIJGEAillSnSetf"
       },
@@ -1347,6 +1323,26 @@
       "duration_ms": 219813,
       "name": "Sunshine Baby",
       "url": "https://open.spotify.com/track/7ihVeKd4RjiZ3y12nDhPZO"
+    },
+    {
+      "added_at": "2024-03-19 15:00:00",
+      "album": {
+        "name": "Best For Me",
+        "url": "https://open.spotify.com/album/5XhWXulYKeVMBHXLxGZN44"
+      },
+      "artists": [
+        {
+          "name": "Joyner Lucas",
+          "url": "https://open.spotify.com/artist/6C1ohJrd5VydigQtaGy5Wa"
+        },
+        {
+          "name": "Jelly Roll",
+          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
+        }
+      ],
+      "duration_ms": 238016,
+      "name": "Best For Me",
+      "url": "https://open.spotify.com/track/3rZgLwQOX9N2up8JQhKi61"
     },
     {
       "added_at": "2024-03-19 15:00:00",
@@ -1459,6 +1455,30 @@
     {
       "added_at": "2024-03-19 15:00:00",
       "album": {
+        "name": "An Evening With Silk Sonic",
+        "url": "https://open.spotify.com/album/1YgekJJTEueWDaMr7BYqPk"
+      },
+      "artists": [
+        {
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+        },
+        {
+          "name": "Anderson .Paak",
+          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
+        },
+        {
+          "name": "Silk Sonic",
+          "url": "https://open.spotify.com/artist/6PvvGcCY2XtUcSRld1Wilr"
+        }
+      ],
+      "duration_ms": 307014,
+      "name": "Love's Train",
+      "url": "https://open.spotify.com/track/2JUQ7mV1AHk2owXLydmN4Z"
+    },
+    {
+      "added_at": "2024-03-19 15:00:00",
+      "album": {
         "name": "Good Care",
         "url": "https://open.spotify.com/album/6GE5HCTdt1M0ByOFLoXV4d"
       },
@@ -1483,22 +1503,6 @@
     {
       "added_at": "2024-03-19 15:00:00",
       "album": {
-        "name": "Tragedy",
-        "url": "https://open.spotify.com/album/1M9ewERGU0rDrYdS1yz4RF"
-      },
-      "artists": [
-        {
-          "name": "Dhruv",
-          "url": "https://open.spotify.com/artist/70NcAr4ZtA3FAqU16iQZSb"
-        }
-      ],
-      "duration_ms": 229133,
-      "name": "Tragedy",
-      "url": "https://open.spotify.com/track/22RbBpcpvW5sZwnSyXesUh"
-    },
-    {
-      "added_at": "2024-03-19 15:00:00",
-      "album": {
         "name": "five seconds flat",
         "url": "https://open.spotify.com/album/68L5xVV9wydotfDXEik7eD"
       },
@@ -1515,6 +1519,22 @@
       "duration_ms": 214468,
       "name": "erase me",
       "url": "https://open.spotify.com/track/4R2DDseYW2tsmMhvdQQ2Po"
+    },
+    {
+      "added_at": "2024-03-19 15:00:00",
+      "album": {
+        "name": "Tragedy",
+        "url": "https://open.spotify.com/album/1M9ewERGU0rDrYdS1yz4RF"
+      },
+      "artists": [
+        {
+          "name": "Dhruv",
+          "url": "https://open.spotify.com/artist/70NcAr4ZtA3FAqU16iQZSb"
+        }
+      ],
+      "duration_ms": 229133,
+      "name": "Tragedy",
+      "url": "https://open.spotify.com/track/22RbBpcpvW5sZwnSyXesUh"
     },
     {
       "added_at": "2024-03-19 15:00:00",
@@ -1627,22 +1647,6 @@
     {
       "added_at": "2024-03-19 15:00:00",
       "album": {
-        "name": "\u30df\u30c3\u30c9\u30ca\u30a4\u30c8\u30ac\u30fc\u30eb",
-        "url": "https://open.spotify.com/album/6NrSFJtu41DaJPQ6gpjZAw"
-      },
-      "artists": [
-        {
-          "name": "imase",
-          "url": "https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27"
-        }
-      ],
-      "duration_ms": 202373,
-      "name": "\u30df\u30c3\u30c9\u30ca\u30a4\u30c8\u30ac\u30fc\u30eb",
-      "url": "https://open.spotify.com/track/0cRbR2QO4bmzaEGTP9lUaL"
-    },
-    {
-      "added_at": "2024-03-19 15:00:00",
-      "album": {
         "name": "grace",
         "url": "https://open.spotify.com/album/0i6jJH5oVQh0KL8INSSPpu"
       },
@@ -1679,22 +1683,18 @@
     {
       "added_at": "2024-03-19 15:00:00",
       "album": {
-        "name": "Best For Me",
-        "url": "https://open.spotify.com/album/5XhWXulYKeVMBHXLxGZN44"
+        "name": "\u30df\u30c3\u30c9\u30ca\u30a4\u30c8\u30ac\u30fc\u30eb",
+        "url": "https://open.spotify.com/album/6NrSFJtu41DaJPQ6gpjZAw"
       },
       "artists": [
         {
-          "name": "Joyner Lucas",
-          "url": "https://open.spotify.com/artist/6C1ohJrd5VydigQtaGy5Wa"
-        },
-        {
-          "name": "Jelly Roll",
-          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
+          "name": "imase",
+          "url": "https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27"
         }
       ],
-      "duration_ms": 238016,
-      "name": "Best For Me",
-      "url": "https://open.spotify.com/track/3rZgLwQOX9N2up8JQhKi61"
+      "duration_ms": 202373,
+      "name": "\u30df\u30c3\u30c9\u30ca\u30a4\u30c8\u30ac\u30fc\u30eb",
+      "url": "https://open.spotify.com/track/0cRbR2QO4bmzaEGTP9lUaL"
     },
     {
       "added_at": "2024-03-19 15:00:00",

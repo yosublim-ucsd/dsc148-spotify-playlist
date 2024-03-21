@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUAJTU0rFXLo.md) - [plain]
 
 > Músicas que fazem de qualquer hora, a mais perfeita para um baile! Foto: Carlos Dafé
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,965 likes - 100 songs - 7 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,984 likes - 100 songs - 7 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUAJTU0rFXLo.md) - [plain]
 | 45 | [The Payback](https://open.spotify.com/track/5OcyX5eg7VrJuI833qOCUc) | [James Brown](https://open.spotify.com/artist/7GaxyUddsPok8BuhxN6OUW) | [The Payback](https://open.spotify.com/album/49vpRrUcAr2bj6aYQr0Cfl) | 7:39 |
 | 46 | [Before I Let Go](https://open.spotify.com/track/6e9xnBJPs0y9omrSU3C3N4) | [Maze](https://open.spotify.com/artist/3DvdryKH4O95ZnsUZJKXpt), [Frankie Beverly](https://open.spotify.com/artist/6rXycobs8wkWicUGLtmB0n) | [Great R&B](https://open.spotify.com/album/0ToSKqQnHTBeIVybrONR8V) | 3:56 |
 | 47 | [Nights Over Egypt](https://open.spotify.com/track/68VCCqeujyd3SqmYAWB0lZ) | [The Jones Girls](https://open.spotify.com/artist/7aHa6IZwZ13FoC5AXFkCSh) | [Get as Much Love as You Can](https://open.spotify.com/album/3tpCzBzJytqzc7eHcJQChi) | 4:39 |
-| 48 | [One Step Ahead](https://open.spotify.com/track/0dSRoWYf0GOzX9L44g53sZ) | [Aretha Franklin](https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok) | [A Bit Of Soul](https://open.spotify.com/album/2RmmiMocgFh0MxSeUy6D0S) | 2:33 |
-| 49 | [Open Your Eyes](https://open.spotify.com/track/5TA4he79xD3fpvy0sidiOV) | [Bobby Caldwell](https://open.spotify.com/artist/4V4Z3qMCwYofWHtip6ePF6) | [Cat in the Hat](https://open.spotify.com/album/61MrCsj5a0ZfgbgvcFHFl0) | 3:45 |
+| 48 | [Open Your Eyes](https://open.spotify.com/track/5TA4he79xD3fpvy0sidiOV) | [Bobby Caldwell](https://open.spotify.com/artist/4V4Z3qMCwYofWHtip6ePF6) | [Cat in the Hat](https://open.spotify.com/album/61MrCsj5a0ZfgbgvcFHFl0) | 3:45 |
+| 49 | [One Step Ahead](https://open.spotify.com/track/0dSRoWYf0GOzX9L44g53sZ) | [Aretha Franklin](https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok) | [A Bit Of Soul](https://open.spotify.com/album/2RmmiMocgFh0MxSeUy6D0S) | 2:33 |
 | 50 | [I Want To Thank You](https://open.spotify.com/track/6ODAghAlMTyu9fWa2CNKmf) | [Alicia Myers](https://open.spotify.com/artist/7v4FV3DzSUOvaZyMwTxKIG) | [Back To Back](https://open.spotify.com/album/4d4Z42kZJMcrmYlZ7I19rn) | 3:49 |
 | 51 | [Forget Me Nots \- Single Version](https://open.spotify.com/track/6hGBWw0Pv1oe8uYCVXz1yK) | [Patrice Rushen](https://open.spotify.com/artist/1mNnxxnPfHQDOkFjnZmdkc) | [Straight from the Heart \(Remastered\)](https://open.spotify.com/album/2tc6ZlzJS56yiVvo40R03g) | 4:04 |
 | 52 | [Cissy Strut](https://open.spotify.com/track/7b8s4Z0abQQ4x4jpct4GjR) | [The Meters](https://open.spotify.com/artist/2JRvXPGWiINrnJljNJhG5s) | [Funkify Your Life: The Meters Anthology](https://open.spotify.com/album/40VWlphQtyDSj3ldPNhDvz) | 3:05 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUAJTU0rFXLo.md) - [plain]
 | 99 | [Ngiculela\-Es Una Historia\-I Am Singing](https://open.spotify.com/track/49jWPMEvoGPNRYSd4vEXSo) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [Songs In The Key Of Life](https://open.spotify.com/album/6YUCc2RiXcEKS9ibuZxjt0) | 3:48 |
 | 100 | [Jhony](https://open.spotify.com/track/2w6y4oJAWTzoLuG7GnIlyb) | [Tim Maia](https://open.spotify.com/artist/0jOs0wnXCu1bGGP7kh5uIu) | [Disco Club](https://open.spotify.com/album/5D5OGW1c4enqcI9fqs1XWt) | 2:19 |
 
-Snapshot ID: `MCxkNTBkZTZhOWRkNmQxYzc5OGNhZjIzOTA2MzI0OWEyMzA2MDVhZmE1`
+Snapshot ID: `MCxmNTNmOTRhNTI1Yjg1ODNjNTNmNzNkMzkzNzdjY2EzOGQyZmU0Yjdm`

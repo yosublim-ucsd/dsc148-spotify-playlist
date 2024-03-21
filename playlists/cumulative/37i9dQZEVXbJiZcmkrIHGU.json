@@ -4018,7 +4018,7 @@
       ],
       "date_added": "2024-03-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-16",
+      "date_removed": null,
       "duration_ms": 171782,
       "name": "Austin",
       "url": "https://open.spotify.com/track/6b81dy3WjbozXK6b7C1gu5"
@@ -20579,6 +20579,24 @@
     },
     {
       "album": {
+        "name": "i like the way you kiss me",
+        "url": "https://open.spotify.com/album/5HIWDdg3g9CTOtnevKDl1z"
+      },
+      "artists": [
+        {
+          "name": "Artemas",
+          "url": "https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2"
+        }
+      ],
+      "date_added": "2024-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142514,
+      "name": "i like the way you kiss me",
+      "url": "https://open.spotify.com/track/2GxrNKugF82CnoRFbQfzPf"
+    },
+    {
+      "album": {
         "name": "Twelve Carat Toothache",
         "url": "https://open.spotify.com/album/3HHNR44YbP7XogMVwzbodx"
       },
@@ -31312,7 +31330,7 @@
       ],
       "date_added": "2024-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-21",
       "duration_ms": 148416,
       "name": "Nach vorne",
       "url": "https://open.spotify.com/track/3Q0Ea0cCEbDc78njXNqdpR"
@@ -36962,7 +36980,7 @@
       ],
       "date_added": "2024-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-21",
       "duration_ms": 264000,
       "name": "REGEN AUF DER FAHRBAHN",
       "url": "https://open.spotify.com/track/5w8WJ3Hq8cwhhU9Y58lTuQ"

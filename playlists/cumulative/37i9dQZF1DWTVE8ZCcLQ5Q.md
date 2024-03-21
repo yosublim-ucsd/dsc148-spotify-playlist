@@ -4,7 +4,7 @@
 
 > Descubra Abbot e novos talentos brasileiros no horizonte.
 
-318 songs - 15 hr 59 min
+320 songs - 16 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,7 +17,8 @@
 | [4G](https://open.spotify.com/track/0Xyai3VqkT2sujXvF58zDQ) | [Max e Luan](https://open.spotify.com/artist/5M1ILxS67JEzWguvzNakgE) | [4G](https://open.spotify.com/album/4xPBKbhYP0g7jm0axk5Mrj) | 2:42 | 2021-11-19 | 2022-01-23 |
 | [5458](https://open.spotify.com/track/6sJRnHsNWIT2yoW5Uhp1bs) | [Luan Otten](https://open.spotify.com/artist/7tcFzUKSICkJWCZzWs4htq), [Lourena](https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh) | [5458](https://open.spotify.com/album/530LB9H9MD7SmG5QbnvNsV) | 3:07 | 2021-11-19 | 2022-05-02 |
 | [60K](https://open.spotify.com/track/25cpIUXstSGxYweWYc10NF) | [Major RD](https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5) | [60K](https://open.spotify.com/album/4BLqgF7SeDxDQNsKJTG1TH) | 2:38 | 2021-11-19 | 2022-05-02 |
-| [8KG](https://open.spotify.com/track/2Q6tuyXDBYRPa0lu4uiIpr) | [LARINHX](https://open.spotify.com/artist/00kQ5yo7yxd5KC1ihuH77i), [Ebony](https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb), [Slipmami](https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs) | [8KG](https://open.spotify.com/album/3TNzyF3UlLqVAK3EHRwL5J) | 2:12 | 2023-04-24 |  |
+| [8KG](https://open.spotify.com/track/2Q6tuyXDBYRPa0lu4uiIpr) | [LARINHX](https://open.spotify.com/artist/00kQ5yo7yxd5KC1ihuH77i), [Ebony](https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb), [Slipmami](https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs) | [8KG](https://open.spotify.com/album/3TNzyF3UlLqVAK3EHRwL5J) | 2:12 | 2023-04-24 | 2024-03-21 |
+| [8KG](https://open.spotify.com/track/4udduhNmtWkbdh5xP0hRJl) | [LARINHX](https://open.spotify.com/artist/00kQ5yo7yxd5KC1ihuH77i), [Ebony](https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb), [Slipmami](https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs) | [8KG](https://open.spotify.com/album/6wJy7soOIrPeUVYXEgyc0c) | 2:12 | 2023-10-05 |  |
 | [A Lua \- Spotify Singles](https://open.spotify.com/track/2sSbQIX5cDgtzJAXnLqHpV) | [Teto](https://open.spotify.com/artist/68YeXpLt3jB7JHQS5ZjMGo) | [A Lua \(Spotify Singles\)](https://open.spotify.com/album/3ZUMZ2yyqkvEPI6S6eho3a) | 2:39 | 2021-11-19 | 2022-05-02 |
 | [A parte que falta](https://open.spotify.com/track/0h8rptaG7dFicv3NLmqKp0) | [LoreB](https://open.spotify.com/artist/7MjaGpdVZenDgXEUF4CXSz) | [Cheio de Vazio](https://open.spotify.com/album/0WXeAvwodZTkZg1HpFVGr0) | 4:46 | 2022-02-14 | 2022-07-28 |
 | [Acaso](https://open.spotify.com/track/4Ls13Ag4SWnniiX4QLRltL) | [Vitor Fernandes](https://open.spotify.com/artist/3TJGVUkSJzk5ZPixMFczZX) | [Piseiro Atualizado](https://open.spotify.com/album/0kn9FP6sRjDYjQkIsX2hBa) | 3:20 | 2021-11-19 | 2022-02-15 |
@@ -219,7 +220,8 @@
 | [O Justo Não Treme](https://open.spotify.com/track/449BJmYTFxZiF3hIyRrrOw) | [Veigh](https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse), [Nagalli](https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk), [Supernova Ent](https://open.spotify.com/artist/3prRKGJz16RRMRSIM97nHw) | [O Justo Não Treme](https://open.spotify.com/album/1pm3hj3qfoAE19oN5paIec) | 2:49 | 2023-10-05 |  |
 | [O Último Xote do Ano](https://open.spotify.com/track/23r1Kyn3hD7gRAgxWkW5Bb) | [Fi Barreto](https://open.spotify.com/artist/5hJ0ykBQGDxLmp3Lw7DpBe), [Cruvinel](https://open.spotify.com/artist/2TUCCtskhrTEMAAGyQaBaW) | [O Último Xote do Ano](https://open.spotify.com/album/6B04k65vhdRfHltr7Gy18s) | 3:12 | 2021-11-19 | 2023-04-25 |
 | [Oh Mãe](https://open.spotify.com/track/6z7sd8DYtV5ASB0qJvSgyJ) | [Carol & Vitoria](https://open.spotify.com/artist/5zA07XrRPmMYEAdwtfRtSD) | [PR3VIAS](https://open.spotify.com/album/72Ve6lm2RTjwGJjlxQQyAD) | 2:37 | 2022-02-14 | 2022-07-29 |
-| [Oompa Loompa](https://open.spotify.com/track/17YRNfsbyA7wTOEhANAyK7) | [Slipmami](https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs) | [Malvatrem](https://open.spotify.com/album/1ZPKYFpymZKgLc0T0Z9WDL) | 3:14 | 2023-04-24 |  |
+| [Oompa Loompa](https://open.spotify.com/track/17YRNfsbyA7wTOEhANAyK7) | [Slipmami](https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs) | [Malvatrem](https://open.spotify.com/album/1ZPKYFpymZKgLc0T0Z9WDL) | 3:14 | 2023-04-24 | 2024-03-21 |
+| [Oompa Loompa](https://open.spotify.com/track/7jkJFBfBHW78JccPtxMdOU) | [Slipmami](https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs) | [Malvatrem](https://open.spotify.com/album/2mbITErP7QEMdxp8mZz2Eh) | 3:14 | 2023-10-05 |  |
 | [P90](https://open.spotify.com/track/43ZNwGCrC4ZD5e0DGGMbvV) | [JayPluggz](https://open.spotify.com/artist/5plOn7vFrwAlvqDfDCtM1M), [Brocasito](https://open.spotify.com/artist/6ixe2JpfacOq9BvkwQ9rXM) | [P90](https://open.spotify.com/album/6bemhnTC1gXKmGhuYOtVJz) | 2:03 | 2022-07-27 |  |
 | [Para Em Mim de Novo](https://open.spotify.com/track/7AgNxTWIZFIxp4531PYno4) | [Luíza & Maurílio](https://open.spotify.com/artist/0UbJJayomun8CvZKCPH9j3), [Dilsinho](https://open.spotify.com/artist/4NUePmzDvCYqilXBFa91Hg) | [Para Em Mim de Novo](https://open.spotify.com/album/3ZV9dQcmVVyH2670ovIP9z) | 2:50 | 2021-11-19 | 2022-02-13 |
 | [Parada Louca](https://open.spotify.com/track/72g37RoelSnovZakG5MwnF) | [Mari Fernandez](https://open.spotify.com/artist/0BHm7qbh3ENxvXzkQAG7MP), [Marcynho Sensação](https://open.spotify.com/artist/4dnPDc045bVjibyATxVUOs) | [Parada Louca](https://open.spotify.com/album/3yHH2TjeBsCGSv5Nb2mNrn) | 2:59 | 2021-11-19 | 2022-05-02 |

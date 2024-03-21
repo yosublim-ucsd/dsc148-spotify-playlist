@@ -1,12 +1,12 @@
 {
   "description": "The greatest female voices in blues today. Cover: Amythyst Kiah",
-  "num_followers": 174965,
+  "num_followers": 174905,
   "original_name": "EQUAL Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5NDkwYWFiZGVjMWM0ZTZmZjFjOGViYjI2MmQwMWM1MmQ5OTUxMjk1",
+  "snapshot_id": "MCwwODBkNjllNDk0ODZmZTFmMzM2NTc4YjRjMTY1MDYyNWZmMjhhZGE0",
   "tracks": [
     {
       "added_at": "2022-03-08 14:01:09",
@@ -543,22 +543,6 @@
     {
       "added_at": "2022-03-08 14:01:09",
       "album": {
-        "name": "Heavy Hearts Hard Fists",
-        "url": "https://open.spotify.com/album/0fo7S7VAXlvSnmApHKJ2if"
-      },
-      "artists": [
-        {
-          "name": "Nikki Hill",
-          "url": "https://open.spotify.com/artist/28Vn4HKpcOqzagc7tiAxNz"
-        }
-      ],
-      "duration_ms": 197640,
-      "name": "Heavy Hearts Hard Fists",
-      "url": "https://open.spotify.com/track/3s4ZPDlawFagjAr5yMRSMx"
-    },
-    {
-      "added_at": "2022-03-08 14:01:09",
-      "album": {
         "name": "Love on the Rocks",
         "url": "https://open.spotify.com/album/2UE190kQ5nUHXGpP5r686Q"
       },
@@ -571,6 +555,22 @@
       "duration_ms": 222826,
       "name": "Love on the Rocks",
       "url": "https://open.spotify.com/track/6paMAWG7CCn967OkrIILty"
+    },
+    {
+      "added_at": "2022-03-08 14:01:09",
+      "album": {
+        "name": "Heavy Hearts Hard Fists",
+        "url": "https://open.spotify.com/album/0fo7S7VAXlvSnmApHKJ2if"
+      },
+      "artists": [
+        {
+          "name": "Nikki Hill",
+          "url": "https://open.spotify.com/artist/28Vn4HKpcOqzagc7tiAxNz"
+        }
+      ],
+      "duration_ms": 197640,
+      "name": "Heavy Hearts Hard Fists",
+      "url": "https://open.spotify.com/track/3s4ZPDlawFagjAr5yMRSMx"
     },
     {
       "added_at": "2022-03-08 14:01:09",
@@ -691,22 +691,6 @@
     {
       "added_at": "2022-03-08 14:01:09",
       "album": {
-        "name": "Reckless Heart",
-        "url": "https://open.spotify.com/album/4qg7yQHWWUw0DMlix6ZbUG"
-      },
-      "artists": [
-        {
-          "name": "Joanne Shaw Taylor",
-          "url": "https://open.spotify.com/artist/3FmTlY1F9dQyRursrsUaU7"
-        }
-      ],
-      "duration_ms": 292353,
-      "name": "The Best Thing",
-      "url": "https://open.spotify.com/track/0La8iotjyo35Et3kMXf03k"
-    },
-    {
-      "added_at": "2022-03-08 14:01:09",
-      "album": {
         "name": "Love Spin",
         "url": "https://open.spotify.com/album/4mvFBBjUbJm2WQx59Jlkq4"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 231080,
       "name": "Life Of The Party",
       "url": "https://open.spotify.com/track/6GWulv1RwkqTN5Ak2BCRa5"
+    },
+    {
+      "added_at": "2022-03-08 14:01:09",
+      "album": {
+        "name": "Reckless Heart",
+        "url": "https://open.spotify.com/album/4qg7yQHWWUw0DMlix6ZbUG"
+      },
+      "artists": [
+        {
+          "name": "Joanne Shaw Taylor",
+          "url": "https://open.spotify.com/artist/3FmTlY1F9dQyRursrsUaU7"
+        }
+      ],
+      "duration_ms": 292353,
+      "name": "The Best Thing",
+      "url": "https://open.spotify.com/track/0La8iotjyo35Et3kMXf03k"
     },
     {
       "added_at": "2022-03-08 14:01:09",
@@ -739,22 +739,6 @@
     {
       "added_at": "2022-03-08 14:01:09",
       "album": {
-        "name": "10,000 Feet Below",
-        "url": "https://open.spotify.com/album/6qGoljg8VssC15xzOsr0C5"
-      },
-      "artists": [
-        {
-          "name": "Eliza Neals",
-          "url": "https://open.spotify.com/artist/48XgWMevIvFi72xQFN2qqb"
-        }
-      ],
-      "duration_ms": 264521,
-      "name": "You Ain't My Dog No More",
-      "url": "https://open.spotify.com/track/054MF2HfHcqygtR0ikyOPq"
-    },
-    {
-      "added_at": "2022-03-08 14:01:09",
-      "album": {
         "name": "Ain't Got No Troubles",
         "url": "https://open.spotify.com/album/6JEnQsmFamUPoYEWn3HW8x"
       },
@@ -767,6 +751,22 @@
       "duration_ms": 232600,
       "name": "Leave Me Alone",
       "url": "https://open.spotify.com/track/4pvtn6rUZEL9hranwiaZ5d"
+    },
+    {
+      "added_at": "2022-03-08 14:01:09",
+      "album": {
+        "name": "10,000 Feet Below",
+        "url": "https://open.spotify.com/album/6qGoljg8VssC15xzOsr0C5"
+      },
+      "artists": [
+        {
+          "name": "Eliza Neals",
+          "url": "https://open.spotify.com/artist/48XgWMevIvFi72xQFN2qqb"
+        }
+      ],
+      "duration_ms": 264521,
+      "name": "You Ain't My Dog No More",
+      "url": "https://open.spotify.com/track/054MF2HfHcqygtR0ikyOPq"
     },
     {
       "added_at": "2022-03-08 14:01:09",
@@ -835,22 +835,6 @@
     {
       "added_at": "2022-03-08 14:01:09",
       "album": {
-        "name": "Soul of a Woman",
-        "url": "https://open.spotify.com/album/6Y3Hr84DBJ7oV76c3BuInv"
-      },
-      "artists": [
-        {
-          "name": "Sharon Jones & The Dap-Kings",
-          "url": "https://open.spotify.com/artist/6LufpoVlIYKQCu9Gjpk8B7"
-        }
-      ],
-      "duration_ms": 217920,
-      "name": "Call on God",
-      "url": "https://open.spotify.com/track/3dBH5NxeEfR7t2kh6jdcCC"
-    },
-    {
-      "added_at": "2022-03-08 14:01:09",
-      "album": {
         "name": "Handle Me with Care",
         "url": "https://open.spotify.com/album/3JYupWAKHDibbdw4UwWL2x"
       },
@@ -863,6 +847,22 @@
       "duration_ms": 435426,
       "name": "Handle Me with Care",
       "url": "https://open.spotify.com/track/1aZnAMv9eYxijTOe2sCF4s"
+    },
+    {
+      "added_at": "2022-03-08 14:01:09",
+      "album": {
+        "name": "Soul of a Woman",
+        "url": "https://open.spotify.com/album/6Y3Hr84DBJ7oV76c3BuInv"
+      },
+      "artists": [
+        {
+          "name": "Sharon Jones & The Dap-Kings",
+          "url": "https://open.spotify.com/artist/6LufpoVlIYKQCu9Gjpk8B7"
+        }
+      ],
+      "duration_ms": 217920,
+      "name": "Call on God",
+      "url": "https://open.spotify.com/track/3dBH5NxeEfR7t2kh6jdcCC"
     },
     {
       "added_at": "2022-03-08 14:01:09",

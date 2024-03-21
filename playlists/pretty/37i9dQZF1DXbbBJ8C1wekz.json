@@ -1,12 +1,12 @@
 {
   "description": "O trap nacional pra qualquer hora, daquele jeit\u00e3o",
-  "num_followers": 132301,
+  "num_followers": 132381,
   "original_name": "Trap Classe",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0MjA1ODJkN2VkYWQyNzNiYjViZDYxZTZmNGQ2ZDk3MGY0Njg4NjQ5",
+  "snapshot_id": "MCw1Njc5ZDJkNzZjMDM0ZjdkYTI2MzhkMDkzNTQzZTkwNjVkODBiNjk3",
   "tracks": [
     {
       "added_at": "2024-03-08 03:01:00",
@@ -115,6 +115,34 @@
     {
       "added_at": "2024-03-08 03:01:00",
       "album": {
+        "name": "O Mais Novo Rom\u00e2ntico",
+        "url": "https://open.spotify.com/album/6bUVIZIeTsNvW9QyWsaqYj"
+      },
+      "artists": [
+        {
+          "name": "Chefin",
+          "url": "https://open.spotify.com/artist/68PYmgkbRP1qZnEWOry7sB"
+        },
+        {
+          "name": "Oruam",
+          "url": "https://open.spotify.com/artist/4yGgbQJMq9orWypwqtdzYT"
+        },
+        {
+          "name": "Mainstreet",
+          "url": "https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd"
+        },
+        {
+          "name": "Ajaxx",
+          "url": "https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt"
+        }
+      ],
+      "duration_ms": 187680,
+      "name": "Do Seu Lado",
+      "url": "https://open.spotify.com/track/1a1CZOOOgsm1bGf0G92Zrn"
+    },
+    {
+      "added_at": "2024-03-08 03:01:00",
+      "album": {
         "name": "O Cen\u00e1rio Certo para o Teatro Perfeito",
         "url": "https://open.spotify.com/album/7wjzkS9hpvRHEadLHagk4D"
       },
@@ -143,34 +171,6 @@
       "duration_ms": 160000,
       "name": "Desfile na Favela",
       "url": "https://open.spotify.com/track/4ODMkKdMusKLAMWolKAchh"
-    },
-    {
-      "added_at": "2024-03-08 03:01:00",
-      "album": {
-        "name": "O Mais Novo Rom\u00e2ntico",
-        "url": "https://open.spotify.com/album/6bUVIZIeTsNvW9QyWsaqYj"
-      },
-      "artists": [
-        {
-          "name": "Chefin",
-          "url": "https://open.spotify.com/artist/68PYmgkbRP1qZnEWOry7sB"
-        },
-        {
-          "name": "Oruam",
-          "url": "https://open.spotify.com/artist/4yGgbQJMq9orWypwqtdzYT"
-        },
-        {
-          "name": "Mainstreet",
-          "url": "https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd"
-        },
-        {
-          "name": "Ajaxx",
-          "url": "https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt"
-        }
-      ],
-      "duration_ms": 187680,
-      "name": "Do Seu Lado",
-      "url": "https://open.spotify.com/track/1a1CZOOOgsm1bGf0G92Zrn"
     },
     {
       "added_at": "2024-03-08 03:01:00",
@@ -303,42 +303,6 @@
     {
       "added_at": "2024-03-08 03:01:00",
       "album": {
-        "name": "Imaterial",
-        "url": "https://open.spotify.com/album/2H42sYw7tkkEy5d0gdTY9U"
-      },
-      "artists": [
-        {
-          "name": "Filipe Ret",
-          "url": "https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54"
-        },
-        {
-          "name": "Dallass",
-          "url": "https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv"
-        }
-      ],
-      "duration_ms": 152582,
-      "name": "War",
-      "url": "https://open.spotify.com/track/63400Pm7x5Awe4NH82oRYe"
-    },
-    {
-      "added_at": "2024-03-08 03:01:00",
-      "album": {
-        "name": "M\u00e1quina do Tempo",
-        "url": "https://open.spotify.com/album/6ehm0SMBBoSxH8oSrFXre6"
-      },
-      "artists": [
-        {
-          "name": "Matu\u00ea",
-          "url": "https://open.spotify.com/artist/5nP8x4uEFjAAmDzwOEc9b8"
-        }
-      ],
-      "duration_ms": 230400,
-      "name": "M\u00e1quina do Tempo",
-      "url": "https://open.spotify.com/track/5oI9blwsXC8AkTWw6wASY8"
-    },
-    {
-      "added_at": "2024-03-08 03:01:00",
-      "album": {
         "name": "Pecado Capital",
         "url": "https://open.spotify.com/album/285LCOhTbxMYMSR5VOE2r3"
       },
@@ -363,6 +327,42 @@
       "duration_ms": 185310,
       "name": "Lux\u00faria",
       "url": "https://open.spotify.com/track/5kuUOpHZlZjL8b7HXkxRsm"
+    },
+    {
+      "added_at": "2024-03-08 03:01:00",
+      "album": {
+        "name": "M\u00e1quina do Tempo",
+        "url": "https://open.spotify.com/album/6ehm0SMBBoSxH8oSrFXre6"
+      },
+      "artists": [
+        {
+          "name": "Matu\u00ea",
+          "url": "https://open.spotify.com/artist/5nP8x4uEFjAAmDzwOEc9b8"
+        }
+      ],
+      "duration_ms": 230400,
+      "name": "M\u00e1quina do Tempo",
+      "url": "https://open.spotify.com/track/5oI9blwsXC8AkTWw6wASY8"
+    },
+    {
+      "added_at": "2024-03-08 03:01:00",
+      "album": {
+        "name": "Imaterial",
+        "url": "https://open.spotify.com/album/2H42sYw7tkkEy5d0gdTY9U"
+      },
+      "artists": [
+        {
+          "name": "Filipe Ret",
+          "url": "https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54"
+        },
+        {
+          "name": "Dallass",
+          "url": "https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv"
+        }
+      ],
+      "duration_ms": 152582,
+      "name": "War",
+      "url": "https://open.spotify.com/track/63400Pm7x5Awe4NH82oRYe"
     },
     {
       "added_at": "2024-03-08 03:01:00",
@@ -1035,26 +1035,6 @@
     {
       "added_at": "2024-03-08 03:01:00",
       "album": {
-        "name": "Kallidade",
-        "url": "https://open.spotify.com/album/1DsFHJEjWom0U0tfUcXYfs"
-      },
-      "artists": [
-        {
-          "name": "Kalli",
-          "url": "https://open.spotify.com/artist/3BD2ifHl4tkgwVU5KIlR5I"
-        },
-        {
-          "name": "NaBuscaDoOuro",
-          "url": "https://open.spotify.com/artist/5MsYZJftF2EukeaOmEpI9S"
-        }
-      ],
-      "duration_ms": 159753,
-      "name": "Kallidade",
-      "url": "https://open.spotify.com/track/2pwQMzlHOxY2EmbOfAo0HM"
-    },
-    {
-      "added_at": "2024-03-08 03:01:00",
-      "album": {
         "name": "The Box Medley 2",
         "url": "https://open.spotify.com/album/1Rm56TQw5OpOICfF4WCwM6"
       },
@@ -1087,6 +1067,26 @@
       "duration_ms": 237000,
       "name": "The Box Medley 2",
       "url": "https://open.spotify.com/track/6MEDqys4CFyW9Y95LR6qGC"
+    },
+    {
+      "added_at": "2024-03-08 03:01:00",
+      "album": {
+        "name": "Kallidade",
+        "url": "https://open.spotify.com/album/1DsFHJEjWom0U0tfUcXYfs"
+      },
+      "artists": [
+        {
+          "name": "Kalli",
+          "url": "https://open.spotify.com/artist/3BD2ifHl4tkgwVU5KIlR5I"
+        },
+        {
+          "name": "NaBuscaDoOuro",
+          "url": "https://open.spotify.com/artist/5MsYZJftF2EukeaOmEpI9S"
+        }
+      ],
+      "duration_ms": 159753,
+      "name": "Kallidade",
+      "url": "https://open.spotify.com/track/2pwQMzlHOxY2EmbOfAo0HM"
     },
     {
       "added_at": "2024-03-08 03:01:00",
@@ -1159,30 +1159,6 @@
     {
       "added_at": "2024-03-08 03:01:00",
       "album": {
-        "name": "De Lala - Spotify Singles",
-        "url": "https://open.spotify.com/album/3KFcPPHqFd0BhuLCl95zGX"
-      },
-      "artists": [
-        {
-          "name": "Mc Kadu",
-          "url": "https://open.spotify.com/artist/21ELc2P2rA3Cu6xw3VWqvv"
-        },
-        {
-          "name": "Dj Binho",
-          "url": "https://open.spotify.com/artist/6eYB3lZtpogyofhli0g8Qk"
-        },
-        {
-          "name": "Dj Geh",
-          "url": "https://open.spotify.com/artist/389VEoqiE28sfBdN7dcYkh"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "De Lala - Spotify Singles",
-      "url": "https://open.spotify.com/track/7xLxkTNVdoe7MMO7DduPed"
-    },
-    {
-      "added_at": "2024-03-08 03:01:00",
-      "album": {
         "name": "TAURUS",
         "url": "https://open.spotify.com/album/0CG4W3xxvDlL7tEm4aZZyN"
       },
@@ -1203,6 +1179,30 @@
       "duration_ms": 190344,
       "name": "99 Problemas",
       "url": "https://open.spotify.com/track/5dFYzcIVBUCu6YIix6cdNw"
+    },
+    {
+      "added_at": "2024-03-08 03:01:00",
+      "album": {
+        "name": "De Lala - Spotify Singles",
+        "url": "https://open.spotify.com/album/3KFcPPHqFd0BhuLCl95zGX"
+      },
+      "artists": [
+        {
+          "name": "Mc Kadu",
+          "url": "https://open.spotify.com/artist/21ELc2P2rA3Cu6xw3VWqvv"
+        },
+        {
+          "name": "Dj Binho",
+          "url": "https://open.spotify.com/artist/6eYB3lZtpogyofhli0g8Qk"
+        },
+        {
+          "name": "Dj Geh",
+          "url": "https://open.spotify.com/artist/389VEoqiE28sfBdN7dcYkh"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "De Lala - Spotify Singles",
+      "url": "https://open.spotify.com/track/7xLxkTNVdoe7MMO7DduPed"
     },
     {
       "added_at": "2024-03-08 03:01:00",
@@ -1243,6 +1243,30 @@
     {
       "added_at": "2024-03-08 03:01:00",
       "album": {
+        "name": "Mas Existe um Lugar",
+        "url": "https://open.spotify.com/album/7yndifwpVcv6LAZ2FVwoso"
+      },
+      "artists": [
+        {
+          "name": "Cryzin",
+          "url": "https://open.spotify.com/artist/6EU3PugukCcYs0n3JuXjrH"
+        },
+        {
+          "name": "Kaio Viana",
+          "url": "https://open.spotify.com/artist/2XGuDrQEuJXo3FfBQMeUn4"
+        },
+        {
+          "name": "Noemi Leal",
+          "url": "https://open.spotify.com/artist/15elHVyIMS1aobjNNJXcvK"
+        }
+      ],
+      "duration_ms": 183652,
+      "name": "Mas Existe um Lugar",
+      "url": "https://open.spotify.com/track/7IN41XfDoGETfFsARAHOsv"
+    },
+    {
+      "added_at": "2024-03-08 03:01:00",
+      "album": {
         "name": "THE BOX MEDLEY 6",
         "url": "https://open.spotify.com/album/2PmiISLrQtoayEgazfOEXQ"
       },
@@ -1271,30 +1295,6 @@
       "duration_ms": 241799,
       "name": "THE BOX MEDLEY 6",
       "url": "https://open.spotify.com/track/507tluWzOtxx58Kb13L9qu"
-    },
-    {
-      "added_at": "2024-03-08 03:01:00",
-      "album": {
-        "name": "Mas Existe um Lugar",
-        "url": "https://open.spotify.com/album/7yndifwpVcv6LAZ2FVwoso"
-      },
-      "artists": [
-        {
-          "name": "Cryzin",
-          "url": "https://open.spotify.com/artist/6EU3PugukCcYs0n3JuXjrH"
-        },
-        {
-          "name": "Kaio Viana",
-          "url": "https://open.spotify.com/artist/2XGuDrQEuJXo3FfBQMeUn4"
-        },
-        {
-          "name": "Noemi Leal",
-          "url": "https://open.spotify.com/artist/15elHVyIMS1aobjNNJXcvK"
-        }
-      ],
-      "duration_ms": 183652,
-      "name": "Mas Existe um Lugar",
-      "url": "https://open.spotify.com/track/7IN41XfDoGETfFsARAHOsv"
     },
     {
       "added_at": "2024-03-08 03:01:00",
@@ -1531,30 +1531,6 @@
     {
       "added_at": "2024-03-08 03:01:00",
       "album": {
-        "name": "\u00c9 Quem?",
-        "url": "https://open.spotify.com/album/2dgLoYt3odmlfjfQYXlKhL"
-      },
-      "artists": [
-        {
-          "name": "Senndy",
-          "url": "https://open.spotify.com/artist/6dfVDfsJOmrY9Xr0Y936m3"
-        },
-        {
-          "name": "Yuri Redicopa",
-          "url": "https://open.spotify.com/artist/0pVJXCGsBydS7rq0R4w4hm"
-        },
-        {
-          "name": "Mc Davi",
-          "url": "https://open.spotify.com/artist/1cYhx7ZOhYoVmnDPb9KMwo"
-        }
-      ],
-      "duration_ms": 170647,
-      "name": "N\u00fameros da Sorte",
-      "url": "https://open.spotify.com/track/6UrFzZHrL84mjVnZHiQICM"
-    },
-    {
-      "added_at": "2024-03-08 03:01:00",
-      "album": {
         "name": "O Retorno de Jedi",
         "url": "https://open.spotify.com/album/0BTjFs3Pbs2QwHktnSbBWL"
       },
@@ -1575,6 +1551,30 @@
       "duration_ms": 170655,
       "name": "O Retorno de Jedi",
       "url": "https://open.spotify.com/track/1OCtpTqJdhOrn00sJYnWSt"
+    },
+    {
+      "added_at": "2024-03-08 03:01:00",
+      "album": {
+        "name": "\u00c9 Quem?",
+        "url": "https://open.spotify.com/album/2dgLoYt3odmlfjfQYXlKhL"
+      },
+      "artists": [
+        {
+          "name": "Senndy",
+          "url": "https://open.spotify.com/artist/6dfVDfsJOmrY9Xr0Y936m3"
+        },
+        {
+          "name": "Yuri Redicopa",
+          "url": "https://open.spotify.com/artist/0pVJXCGsBydS7rq0R4w4hm"
+        },
+        {
+          "name": "Mc Davi",
+          "url": "https://open.spotify.com/artist/1cYhx7ZOhYoVmnDPb9KMwo"
+        }
+      ],
+      "duration_ms": 170647,
+      "name": "N\u00fameros da Sorte",
+      "url": "https://open.spotify.com/track/6UrFzZHrL84mjVnZHiQICM"
     },
     {
       "added_at": "2024-03-08 03:01:00",
@@ -2075,46 +2075,6 @@
     {
       "added_at": "2024-03-08 03:01:00",
       "album": {
-        "name": "Maleta",
-        "url": "https://open.spotify.com/album/24blqOj4cEuM66nAcemOHD"
-      },
-      "artists": [
-        {
-          "name": "MC PH",
-          "url": "https://open.spotify.com/artist/4PLdCloYxu2bMKfuuB9lI5"
-        },
-        {
-          "name": "KayBlack",
-          "url": "https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy"
-        },
-        {
-          "name": "Mc Kevin",
-          "url": "https://open.spotify.com/artist/5pBMkZNIlbGTH3hrsQJqAa"
-        }
-      ],
-      "duration_ms": 247680,
-      "name": "Maleta",
-      "url": "https://open.spotify.com/track/4PZ3p6D3GQcpiaFirr3VNW"
-    },
-    {
-      "added_at": "2024-03-08 03:01:00",
-      "album": {
-        "name": "Bendito",
-        "url": "https://open.spotify.com/album/0VkG6GIwPJ7SoWE4pbocIm"
-      },
-      "artists": [
-        {
-          "name": "NGC Daddy",
-          "url": "https://open.spotify.com/artist/2iNFFCEAFdfAV5hPdpMk6x"
-        }
-      ],
-      "duration_ms": 177869,
-      "name": "Bendito",
-      "url": "https://open.spotify.com/track/7hmUr86smWd2FeviTU1P72"
-    },
-    {
-      "added_at": "2024-03-08 03:01:00",
-      "album": {
         "name": "Dacoromode",
         "url": "https://open.spotify.com/album/0TfnU1Dup2Gu3KU1hnkQ3A"
       },
@@ -2143,6 +2103,46 @@
       "duration_ms": 202550,
       "name": "Nota D\u00f3",
       "url": "https://open.spotify.com/track/6lAt4KOlD5lXDMgC59j3w1"
+    },
+    {
+      "added_at": "2024-03-08 03:01:00",
+      "album": {
+        "name": "Bendito",
+        "url": "https://open.spotify.com/album/0VkG6GIwPJ7SoWE4pbocIm"
+      },
+      "artists": [
+        {
+          "name": "NGC Daddy",
+          "url": "https://open.spotify.com/artist/2iNFFCEAFdfAV5hPdpMk6x"
+        }
+      ],
+      "duration_ms": 177869,
+      "name": "Bendito",
+      "url": "https://open.spotify.com/track/7hmUr86smWd2FeviTU1P72"
+    },
+    {
+      "added_at": "2024-03-08 03:01:00",
+      "album": {
+        "name": "Maleta",
+        "url": "https://open.spotify.com/album/24blqOj4cEuM66nAcemOHD"
+      },
+      "artists": [
+        {
+          "name": "MC PH",
+          "url": "https://open.spotify.com/artist/4PLdCloYxu2bMKfuuB9lI5"
+        },
+        {
+          "name": "KayBlack",
+          "url": "https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy"
+        },
+        {
+          "name": "Mc Kevin",
+          "url": "https://open.spotify.com/artist/5pBMkZNIlbGTH3hrsQJqAa"
+        }
+      ],
+      "duration_ms": 247680,
+      "name": "Maleta",
+      "url": "https://open.spotify.com/track/4PZ3p6D3GQcpiaFirr3VNW"
     },
     {
       "added_at": "2024-03-08 03:01:00",
@@ -2439,30 +2439,6 @@
     {
       "added_at": "2024-03-08 03:01:00",
       "album": {
-        "name": "Bvlgari",
-        "url": "https://open.spotify.com/album/4KSMA20Et20Z4BBhxSYzrS"
-      },
-      "artists": [
-        {
-          "name": "Kawe",
-          "url": "https://open.spotify.com/artist/1TYJOhNSxMOODWiDVhuyZb"
-        },
-        {
-          "name": "KayBlack",
-          "url": "https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy"
-        },
-        {
-          "name": "4tune",
-          "url": "https://open.spotify.com/artist/74YW92zTlgNdYgHDWndEZZ"
-        }
-      ],
-      "duration_ms": 188035,
-      "name": "Bvlgari",
-      "url": "https://open.spotify.com/track/1qIQO5BW2AyVVkTCzBwcUu"
-    },
-    {
-      "added_at": "2024-03-08 03:01:00",
-      "album": {
         "name": "De Novo",
         "url": "https://open.spotify.com/album/0pEgo6T1sl8cNedAREKVS7"
       },
@@ -2483,6 +2459,30 @@
       "duration_ms": 145617,
       "name": "De Novo",
       "url": "https://open.spotify.com/track/3xra5OMlRc4MQgD8V0aIxq"
+    },
+    {
+      "added_at": "2024-03-08 03:01:00",
+      "album": {
+        "name": "Bvlgari",
+        "url": "https://open.spotify.com/album/4KSMA20Et20Z4BBhxSYzrS"
+      },
+      "artists": [
+        {
+          "name": "Kawe",
+          "url": "https://open.spotify.com/artist/1TYJOhNSxMOODWiDVhuyZb"
+        },
+        {
+          "name": "KayBlack",
+          "url": "https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy"
+        },
+        {
+          "name": "4tune",
+          "url": "https://open.spotify.com/artist/74YW92zTlgNdYgHDWndEZZ"
+        }
+      ],
+      "duration_ms": 188035,
+      "name": "Bvlgari",
+      "url": "https://open.spotify.com/track/1qIQO5BW2AyVVkTCzBwcUu"
     }
   ],
   "unique_name": "Trap Classe",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59TepszZ0eE.md) - [plain]
 
 > Proudly South African gospel goodness\. Cover: <a href="https://open.spotify.com/artist/3kSRqsGHRSxw2jBJ6DffE4?si=whZJO1ivT4WfdtWxhKIjBw">Xolly Mncwango</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,711 likes - 97 songs - 10 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,832 likes - 97 songs - 10 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -93,7 +93,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59TepszZ0eE.md) - [plain]
 | 83 | [Nguna Phakade \(Live\)](https://open.spotify.com/track/0oSn99YO48dZWxNox6oHYF) | [Omega Khunou](https://open.spotify.com/artist/5kiRFLzxYedX55EwwIDuj3), [Dumi Mkokstad](https://open.spotify.com/artist/7FfBAT4utQnGFnzAqidA6p) | [Mo Roriseng \(Live at Mosaiek Theatre, 2023\)](https://open.spotify.com/album/0KDGCLqGhPxcY8FN5PYtd4) | 11:08 |
 | 84 | [Makabongwe \- Live](https://open.spotify.com/track/0w1h3AKUanXXgMan3GlHh4) | [Ntokozo Mbambo](https://open.spotify.com/artist/3neEMGDQjPZ0DBCPKgW4og) | [Makabongwe: The Sound of Revival \(Live\)](https://open.spotify.com/album/5iaAx3ufPocZ1LD4XUcWc4) | 5:01 |
 | 85 | [Ndikhokhele Bawo](https://open.spotify.com/track/6OV3Qs8BamgJ7TR3M6rYGW) | [Cape Town Camerata](https://open.spotify.com/artist/20F4DiCjbeeDmTFODuhhQH) | [Ndikhokhele Bawo](https://open.spotify.com/album/5OgGg48gEHDs3KsUxWoVFX) | 3:32 |
-| 86 | [Ebenezer](https://open.spotify.com/track/7f9S6zqIN62gFphKylbd6F) | [Sipho Makhabane](https://open.spotify.com/artist/5sFc16mtmgH8IiVYtJ2rF2) | [Africa For Jesus](https://open.spotify.com/album/0fTvvmaFCgpExHxRz4sAkt) | 8:51 |
+| 86 | [Ebenezer](https://open.spotify.com/track/6i4kz0kfnBYlA0HkU015tk) | [Sipho Makhabane](https://open.spotify.com/artist/5sFc16mtmgH8IiVYtJ2rF2) | [Africa For Jesus](https://open.spotify.com/album/3h727k2IPGhHzsRtTsrC4i) | 8:51 |
 | 87 | [Uthando Lwakho Luyangengama](https://open.spotify.com/track/3Epue4IrmtoN8KB4O2wF6R) | [Njabulo Masinga](https://open.spotify.com/artist/3Igz2e5CEXqo4l77TfX8Z3) | [Uthando Lwakho Luyangengama](https://open.spotify.com/album/5NH9mTLkfgXouUoDG9IhHg) | 4:28 |
 | 88 | [Upperroom \(Live\)](https://open.spotify.com/track/0RXc2Lc2wdaPRGVhPYqxU8) | [3C Live](https://open.spotify.com/artist/2KCFczA90zuWgvEfYDohBT), [Khaya Mthethwa](https://open.spotify.com/artist/0YJ3i0Hjw7aUuBoe4rUfPQ) | [Upperroom \(Live\)](https://open.spotify.com/album/55IDbtFjNFbLyiFrdQ4hJg) | 7:18 |
 | 89 | [Moya Ka Jehovah \- Live](https://open.spotify.com/track/4Y2RXhp12YudM5bRtdw4rY) | [Jabu Hlongwane](https://open.spotify.com/artist/7DPMhjzvIdLdtZfElG1vzf) | [Crosspower Experience 3 \(Live\)](https://open.spotify.com/album/5wHtxMh4PMD0uqONkrhGfm) | 6:56 |
@@ -106,4 +106,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59TepszZ0eE.md) - [plain]
 | 96 | [Apha’Kum \(Live at Mosaiek Theatre, 2023\)](https://open.spotify.com/track/5XMRW2JA70QNg11AOftT2V) | [Omega Khunou](https://open.spotify.com/artist/5kiRFLzxYedX55EwwIDuj3) | [Apha’Kum \(Live at Mosaiek Theatre, 2023\)](https://open.spotify.com/album/6GfjzpCcMHWlpL0NUleD15) | 7:19 |
 | 97 | [Ukholo](https://open.spotify.com/track/6XXwIEbcmh6IKl1qGd3J5i) | [Asanda Mqiki](https://open.spotify.com/artist/0778udtHEQ5T3HZQEDelAf), [StussyV](https://open.spotify.com/artist/3CAwqYTdNKxX52nrkSf52s), [Tee Jay](https://open.spotify.com/artist/2FgJA67LUo0uQ6WXafNTKQ), [Nonka](https://open.spotify.com/artist/7owh85VxGfhYd41wHZ9nZA), [DJ GHETTO HD](https://open.spotify.com/artist/21B7fICxbXLlcfr3Es8jiS) | [Ukholo](https://open.spotify.com/album/2Io8Y6e1kUIcn4mYL1dfLq) | 5:53 |
 
-Snapshot ID: `MCw3MmM4NWE1ZTk3MmZlYzcwMWMzYWI5NjUzOTlmYWVhNTM5NzhkNDA3`
+Snapshot ID: `MCwxOGZjN2I0MzIwZDA3MjBhMmFiMmFiODY3NDkzMzhjOGYyZGYxZWRh`

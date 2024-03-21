@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTwzVdyRpXm1.md) - [plain]
 
 > Best of South Asian Music\. Cover: Diljit Dosanjh
 
-[Spotify](https://open.spotify.com/user/spotify) - 797,294 likes - 90 songs - 5 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 797,696 likes - 90 songs - 5 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -96,7 +96,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTwzVdyRpXm1.md) - [plain]
 | 86 | [Siyah](https://open.spotify.com/track/6xFWVY7hS55qaF7fXBEw7X) | [Abdul Hannan](https://open.spotify.com/artist/5mWQT8CLTa4mAQAJdFjHb1), [BAIG](https://open.spotify.com/artist/0IJYAmQhqf7gY8FkoSCSwZ) | [Siyah](https://open.spotify.com/album/0PedR8249zcLWFtNNkAEcZ) | 2:51 |
 | 87 | [Jhoome Jo Pathaan](https://open.spotify.com/track/6FAYpZ4jve8vpvTwUvjK6H) | [Vishal\-Shekhar](https://open.spotify.com/artist/6Mv8GjQa7LKUGCAqa9qqdb), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Sukriti Kakar](https://open.spotify.com/artist/3FgHkfb3IqG4WKuVe1xCXM), [Vishal Dadlani](https://open.spotify.com/artist/6CXEwIaXYfVJ84biCxqc9k), [Shekhar Ravjiani](https://open.spotify.com/artist/4xd7mLI7urqrxELaXhAvzw), [Kumaar](https://open.spotify.com/artist/0m3D4grap8VFSzbJMqgNVk) | [Pathaan](https://open.spotify.com/album/2ooWY7xriwwyj23dAI32C2) | 3:28 |
 | 88 | [Farq hai](https://open.spotify.com/track/6MZyrnqwsLnrWY5Gk0AyXg) | [Suzonn](https://open.spotify.com/artist/3xZ9z6k4Suc2O8cAiwMt7h) | [Farq hai](https://open.spotify.com/album/55ZzRnrvRvc54SfrETBFcp) | 3:04 |
-| 89 | [Chor](https://open.spotify.com/track/53gdHIMmv3XubECRLL6R62) | [Justh](https://open.spotify.com/artist/6gxRXj2KUJ02vfIgkNUq5b) | [Chor](https://open.spotify.com/album/39noVgiQirYCWfBIrBzP30) | 3:28 |
+| 89 | [Chor](https://open.spotify.com/track/6YewfSA18qq5xl1KlJQkpY) | [Justh](https://open.spotify.com/artist/6gxRXj2KUJ02vfIgkNUq5b) | [Chor](https://open.spotify.com/album/1wBSOR9eFqfkDFyJtwPm7V) | 3:28 |
 | 90 | [Case](https://open.spotify.com/track/0TdWXMXyfTQ2qp5vvU9LID) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR), [Intense](https://open.spotify.com/artist/0OS0NZnK7TGIAWx8MkWNFN) | [Ghost](https://open.spotify.com/album/1d1FYLFpu2NITI6ilVaHDd) | 2:15 |
 
-Snapshot ID: `MCxhM2M3MDEzYWIwZGNmNzg3OGQ0NThiYWFkM2I5ODg1ODQxMWI2ODIy`
+Snapshot ID: `MCxkNTI1MTMzYWY5ZTc4M2UwMDNjZTcyOTBjZGExMDE5ODViMDllMWZl`

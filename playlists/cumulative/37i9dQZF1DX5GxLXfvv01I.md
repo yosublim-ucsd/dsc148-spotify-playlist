@@ -4,7 +4,7 @@
 
 > Music from and inspired by Wendell & Wild, curated by Tunde Adebimpe of TV on the Radio\. Watch now on Netflix.
 
-51 songs - 3 hr 7 min
+52 songs - 3 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,7 +35,8 @@
 | [Ghost Town](https://open.spotify.com/track/6ewN9MaFbi78oDLT9wYDgn) | [The Specials](https://open.spotify.com/artist/6xnvNmSzmeOE1bLKnYXKW3) | [Stereo\-Typical: A's, B's & Rarities](https://open.spotify.com/album/0EKaJQaxiszKS8DBUDhbtz) | 3:39 | 2022-10-26 |  |
 | [Goodbye Horses](https://open.spotify.com/track/7I5eQZFdlPV8LZWH2FeqaW) | [Q Lazzarus](https://open.spotify.com/artist/2EOrSEDPcZ9feKWSi8Fpdi) | [Goodbye Horses \- Single](https://open.spotify.com/album/1Fx6PDY57t5lCqXMvIEdfN) | 3:07 | 2022-10-26 |  |
 | [I Am a Poseur](https://open.spotify.com/track/78Kve43aUj99QZCoIIK48h) | [X\-Ray Spex](https://open.spotify.com/artist/5BgWMOdEUJYdUBH3WXfMWt) | [Germ Free Adolescents](https://open.spotify.com/album/7nZ0F572fluFD4tQCFf3z7) | 2:33 | 2022-10-26 |  |
-| [I Can Dream](https://open.spotify.com/track/4gBIByPcSgrLWJC7wk7u19) | [Skunk Anansie](https://open.spotify.com/artist/5HlXA01kcjssYDT7EoqUJF) | [Paranoid & Sunburnt](https://open.spotify.com/album/7xCSZZQEnMSSpzTgWzrPhG) | 3:32 | 2022-10-26 |  |
+| [I Can Dream](https://open.spotify.com/track/4gBIByPcSgrLWJC7wk7u19) | [Skunk Anansie](https://open.spotify.com/artist/5HlXA01kcjssYDT7EoqUJF) | [Paranoid & Sunburnt](https://open.spotify.com/album/7xCSZZQEnMSSpzTgWzrPhG) | 3:32 | 2022-10-26 | 2024-03-21 |
+| [I Can Dream](https://open.spotify.com/track/7CRaXJtdCV0p4rQc0WV1xS) | [Skunk Anansie](https://open.spotify.com/artist/5HlXA01kcjssYDT7EoqUJF) | [Paranoid & Sunburnt](https://open.spotify.com/album/75QcyUJz3SDjpIUiLwafDG) | 3:32 | 2022-10-26 |  |
 | [I'm Dead](https://open.spotify.com/track/7iZcO3nZZfx32MgT3Emy5W) | [Bam Bam](https://open.spotify.com/artist/23TGvRW3SRe3vOnxhHG4WG) | [Free Fall from Space](https://open.spotify.com/album/1o6DslTsIChyGQlJIZM6er) | 5:15 | 2022-10-26 |  |
 | [I've Seen Footage](https://open.spotify.com/track/7nCONy10IHp7XD3oYZ0lcx) | [Death Grips](https://open.spotify.com/artist/5RADpgYLOuS2ZxDq7ggYYH) | [The Money Store](https://open.spotify.com/album/1PQDjdBpHPikAodJqjzm6a) | 3:22 | 2022-10-26 |  |
 | [Just What I Needed](https://open.spotify.com/track/2JrnsQPYEHS3YrU6iEX2zl) | [Toshi Reagon](https://open.spotify.com/artist/1WUAzIurvlhaWxB7fpcuOM) | [Toshi](https://open.spotify.com/album/127jq1AGPCb3ImjhRJ5K0g) | 5:39 | 2022-10-26 |  |

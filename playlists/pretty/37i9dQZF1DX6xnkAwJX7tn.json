@@ -1,12 +1,12 @@
 {
   "description": "The biggest party hits of the 1980s. Cover: Bananarama",
-  "num_followers": 730098,
+  "num_followers": 731010,
   "original_name": "80s Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0Yjc3NWEyMmVjZjM0NWE4MzI3NWVjYWJhYzQ0OTM5OTkxNDVhYzg0",
+  "snapshot_id": "MCw3OTg2YmYyMjNkZWFiNjdmZGMyYmU0ZTJmODI0YTA2NDVjOWU3OGU2",
   "tracks": [
     {
       "added_at": "2021-01-07 10:31:17",
@@ -567,22 +567,6 @@
     {
       "added_at": "2021-01-07 10:31:17",
       "album": {
-        "name": "Dare!",
-        "url": "https://open.spotify.com/album/3ls7tE9D2SIvjTmRuEtsQY"
-      },
-      "artists": [
-        {
-          "name": "The Human League",
-          "url": "https://open.spotify.com/artist/1aX2dmV8XoHYCOQRxjPESG"
-        }
-      ],
-      "duration_ms": 236920,
-      "name": "Don't You Want Me",
-      "url": "https://open.spotify.com/track/3L7RtEcu1Hw3OXrpnthngx"
-    },
-    {
-      "added_at": "2021-01-07 10:31:17",
-      "album": {
         "name": "Thriller",
         "url": "https://open.spotify.com/album/2ANVost0y2y52ema1E9xAZ"
       },
@@ -595,6 +579,22 @@
       "duration_ms": 258399,
       "name": "Beat It",
       "url": "https://open.spotify.com/track/3BovdzfaX4jb5KFQwoPfAw"
+    },
+    {
+      "added_at": "2021-01-07 10:31:17",
+      "album": {
+        "name": "Dare!",
+        "url": "https://open.spotify.com/album/3ls7tE9D2SIvjTmRuEtsQY"
+      },
+      "artists": [
+        {
+          "name": "The Human League",
+          "url": "https://open.spotify.com/artist/1aX2dmV8XoHYCOQRxjPESG"
+        }
+      ],
+      "duration_ms": 236920,
+      "name": "Don't You Want Me",
+      "url": "https://open.spotify.com/track/3L7RtEcu1Hw3OXrpnthngx"
     },
     {
       "added_at": "2021-01-07 10:31:17",
@@ -677,22 +677,6 @@
       "url": "https://open.spotify.com/track/4d6eqRtpDX7tydHJGDZUBQ"
     },
     {
-      "added_at": "2021-09-08 13:09:25",
-      "album": {
-        "name": "Business As Usual",
-        "url": "https://open.spotify.com/album/4HDJMKkwAMVFewqfZcmf84"
-      },
-      "artists": [
-        {
-          "name": "Men At Work",
-          "url": "https://open.spotify.com/artist/0f3EsoviYnRKTkmayI3cux"
-        }
-      ],
-      "duration_ms": 201293,
-      "name": "Who Can It Be Now?",
-      "url": "https://open.spotify.com/track/5rfJ2Bq2PEL8yBjZLzouEu"
-    },
-    {
       "added_at": "2021-01-07 10:31:17",
       "album": {
         "name": "The Age of Consent",
@@ -707,6 +691,22 @@
       "duration_ms": 302413,
       "name": "Smalltown Boy",
       "url": "https://open.spotify.com/track/5vmRQ3zELMLUQPo2FLQ76x"
+    },
+    {
+      "added_at": "2021-09-08 13:09:25",
+      "album": {
+        "name": "Business As Usual",
+        "url": "https://open.spotify.com/album/4HDJMKkwAMVFewqfZcmf84"
+      },
+      "artists": [
+        {
+          "name": "Men At Work",
+          "url": "https://open.spotify.com/artist/0f3EsoviYnRKTkmayI3cux"
+        }
+      ],
+      "duration_ms": 201293,
+      "name": "Who Can It Be Now?",
+      "url": "https://open.spotify.com/track/5rfJ2Bq2PEL8yBjZLzouEu"
     },
     {
       "added_at": "2021-01-07 10:31:17",
@@ -773,22 +773,6 @@
       "url": "https://open.spotify.com/track/57JVGBtBLCfHw2muk5416J"
     },
     {
-      "added_at": "2021-01-07 10:31:17",
-      "album": {
-        "name": "Ready For Romance",
-        "url": "https://open.spotify.com/album/3g5K7IOTOSY6nIfu7lj562"
-      },
-      "artists": [
-        {
-          "name": "Modern Talking",
-          "url": "https://open.spotify.com/artist/79bxUQsBIXO8nVLB9fYKf7"
-        }
-      ],
-      "duration_ms": 222666,
-      "name": "Brother Louie",
-      "url": "https://open.spotify.com/track/5zWZ9iNevP0397xB3jWV2z"
-    },
-    {
       "added_at": "2021-09-08 13:09:25",
       "album": {
         "name": "Yesterday, Today, Tomorrow - The Greatest Hits Of Kenny Loggins",
@@ -803,6 +787,22 @@
       "duration_ms": 215133,
       "name": "Danger Zone - From \"Top Gun\" Original Soundtrack",
       "url": "https://open.spotify.com/track/34x6hEJgGAOQvmlMql5Ige"
+    },
+    {
+      "added_at": "2021-01-07 10:31:17",
+      "album": {
+        "name": "Ready For Romance",
+        "url": "https://open.spotify.com/album/3g5K7IOTOSY6nIfu7lj562"
+      },
+      "artists": [
+        {
+          "name": "Modern Talking",
+          "url": "https://open.spotify.com/artist/79bxUQsBIXO8nVLB9fYKf7"
+        }
+      ],
+      "duration_ms": 222666,
+      "name": "Brother Louie",
+      "url": "https://open.spotify.com/track/5zWZ9iNevP0397xB3jWV2z"
     },
     {
       "added_at": "2021-01-07 10:31:17",
@@ -855,22 +855,6 @@
     {
       "added_at": "2021-09-08 13:09:25",
       "album": {
-        "name": "Born In The U.S.A.",
-        "url": "https://open.spotify.com/album/0PMasrHdpaoIRuHuhHp72O"
-      },
-      "artists": [
-        {
-          "name": "Bruce Springsteen",
-          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
-        }
-      ],
-      "duration_ms": 278680,
-      "name": "Born in the U.S.A.",
-      "url": "https://open.spotify.com/track/0dOg1ySSI7NkpAe89Zo0b9"
-    },
-    {
-      "added_at": "2021-09-08 13:09:25",
-      "album": {
         "name": "Foreign Affair",
         "url": "https://open.spotify.com/album/3hgAoHSmany3EiKL0Aqh3G"
       },
@@ -883,6 +867,22 @@
       "duration_ms": 329800,
       "name": "The Best",
       "url": "https://open.spotify.com/track/6pPWRBubXOBAHnjl5ZIujB"
+    },
+    {
+      "added_at": "2021-09-08 13:09:25",
+      "album": {
+        "name": "Born In The U.S.A.",
+        "url": "https://open.spotify.com/album/0PMasrHdpaoIRuHuhHp72O"
+      },
+      "artists": [
+        {
+          "name": "Bruce Springsteen",
+          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        }
+      ],
+      "duration_ms": 278680,
+      "name": "Born in the U.S.A.",
+      "url": "https://open.spotify.com/track/0dOg1ySSI7NkpAe89Zo0b9"
     },
     {
       "added_at": "2021-09-08 13:09:25",
@@ -901,20 +901,20 @@
       "url": "https://open.spotify.com/track/2dCmGcEOQrMQhMMS8Vj7Ca"
     },
     {
-      "added_at": "2021-09-08 13:09:25",
+      "added_at": "2021-01-07 10:31:17",
       "album": {
-        "name": "Never Too Much",
-        "url": "https://open.spotify.com/album/1B4oPgG5ljWTRxsKcTHAYn"
+        "name": "I Don't Speak The Language",
+        "url": "https://open.spotify.com/album/2coqGqbnSCAy740mClWesA"
       },
       "artists": [
         {
-          "name": "Luther Vandross",
-          "url": "https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP"
+          "name": "Matthew Wilder",
+          "url": "https://open.spotify.com/artist/3bmFPbLMiLxtR9tFrTcKcP"
         }
       ],
-      "duration_ms": 230466,
-      "name": "Never Too Much",
-      "url": "https://open.spotify.com/track/3nFJbZCHP4d9vduKjJLdBL"
+      "duration_ms": 184480,
+      "name": "Break My Stride",
+      "url": "https://open.spotify.com/track/1mCsF9Tw4AkIZOjvZbZZdT"
     },
     {
       "added_at": "2021-09-08 13:09:25",
@@ -933,20 +933,20 @@
       "url": "https://open.spotify.com/track/35ItUJlMtjOQW3SSiTCrrw"
     },
     {
-      "added_at": "2021-01-07 10:31:17",
+      "added_at": "2021-09-08 13:09:25",
       "album": {
-        "name": "I Don't Speak The Language",
-        "url": "https://open.spotify.com/album/2coqGqbnSCAy740mClWesA"
+        "name": "Never Too Much",
+        "url": "https://open.spotify.com/album/1B4oPgG5ljWTRxsKcTHAYn"
       },
       "artists": [
         {
-          "name": "Matthew Wilder",
-          "url": "https://open.spotify.com/artist/3bmFPbLMiLxtR9tFrTcKcP"
+          "name": "Luther Vandross",
+          "url": "https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP"
         }
       ],
-      "duration_ms": 184480,
-      "name": "Break My Stride",
-      "url": "https://open.spotify.com/track/1mCsF9Tw4AkIZOjvZbZZdT"
+      "duration_ms": 230466,
+      "name": "Never Too Much",
+      "url": "https://open.spotify.com/track/3nFJbZCHP4d9vduKjJLdBL"
     },
     {
       "added_at": "2021-09-08 13:09:25",
@@ -1147,6 +1147,22 @@
     {
       "added_at": "2021-09-08 13:09:25",
       "album": {
+        "name": "Let's Dance (2018 Remaster)",
+        "url": "https://open.spotify.com/album/4NwG11AsDJluT732lSjMrV"
+      },
+      "artists": [
+        {
+          "name": "David Bowie",
+          "url": "https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy"
+        }
+      ],
+      "duration_ms": 288339,
+      "name": "Modern Love - 2018 Remaster",
+      "url": "https://open.spotify.com/track/3gxEZXUjrNbl3TlSrTGbR5"
+    },
+    {
+      "added_at": "2021-09-08 13:09:25",
+      "album": {
         "name": "It's My Life",
         "url": "https://open.spotify.com/album/152Hw6E0tNz3EQNq9c1CDf"
       },
@@ -1175,22 +1191,6 @@
       "duration_ms": 254240,
       "name": "Give It Up",
       "url": "https://open.spotify.com/track/3yDhZq8f17SmumVmEyCaRN"
-    },
-    {
-      "added_at": "2021-09-08 13:09:25",
-      "album": {
-        "name": "Let's Dance (2018 Remaster)",
-        "url": "https://open.spotify.com/album/4NwG11AsDJluT732lSjMrV"
-      },
-      "artists": [
-        {
-          "name": "David Bowie",
-          "url": "https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy"
-        }
-      ],
-      "duration_ms": 288339,
-      "name": "Modern Love - 2018 Remaster",
-      "url": "https://open.spotify.com/track/3gxEZXUjrNbl3TlSrTGbR5"
     },
     {
       "added_at": "2021-01-07 10:31:17",
@@ -1355,22 +1355,6 @@
     {
       "added_at": "2021-09-08 13:09:25",
       "album": {
-        "name": "In Square Circle",
-        "url": "https://open.spotify.com/album/1nLKZqTGA48v3I8dNFkvQt"
-      },
-      "artists": [
-        {
-          "name": "Stevie Wonder",
-          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
-        }
-      ],
-      "duration_ms": 252560,
-      "name": "Part-Time Lover",
-      "url": "https://open.spotify.com/track/0Dm43YLUlGdePpSbI1ct8h"
-    },
-    {
-      "added_at": "2021-09-08 13:09:25",
-      "album": {
         "name": "Organisation",
         "url": "https://open.spotify.com/album/3bouQtY9H1DP39yxqHuFf8"
       },
@@ -1383,6 +1367,22 @@
       "duration_ms": 213693,
       "name": "Enola Gay - Remastered 2003",
       "url": "https://open.spotify.com/track/3NYCaxkggl0Hh8vQptSUvV"
+    },
+    {
+      "added_at": "2021-09-08 13:09:25",
+      "album": {
+        "name": "In Square Circle",
+        "url": "https://open.spotify.com/album/1nLKZqTGA48v3I8dNFkvQt"
+      },
+      "artists": [
+        {
+          "name": "Stevie Wonder",
+          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
+        }
+      ],
+      "duration_ms": 252560,
+      "name": "Part-Time Lover",
+      "url": "https://open.spotify.com/track/0Dm43YLUlGdePpSbI1ct8h"
     },
     {
       "added_at": "2021-01-07 10:31:17",
@@ -1503,22 +1503,6 @@
     {
       "added_at": "2021-09-08 13:09:25",
       "album": {
-        "name": "Points On The Curve",
-        "url": "https://open.spotify.com/album/5RMZLWa4VtvJXswpsk600P"
-      },
-      "artists": [
-        {
-          "name": "Wang Chung",
-          "url": "https://open.spotify.com/artist/6Zh3xrWlA0SA9Fsfj9AVwm"
-        }
-      ],
-      "duration_ms": 240800,
-      "name": "Dance Hall Days",
-      "url": "https://open.spotify.com/track/2JvPJ8ydPuN2NhpH4oti6I"
-    },
-    {
-      "added_at": "2021-09-08 13:09:25",
-      "album": {
         "name": "Bananarama (Collector's Edition)",
         "url": "https://open.spotify.com/album/4zHriUoFVrq0YZ2kIEOkIW"
       },
@@ -1531,6 +1515,22 @@
       "duration_ms": 215326,
       "name": "Cruel Summer",
       "url": "https://open.spotify.com/track/2EGaDf0cPX789H3LNeB03D"
+    },
+    {
+      "added_at": "2021-09-08 13:09:25",
+      "album": {
+        "name": "Points On The Curve",
+        "url": "https://open.spotify.com/album/5RMZLWa4VtvJXswpsk600P"
+      },
+      "artists": [
+        {
+          "name": "Wang Chung",
+          "url": "https://open.spotify.com/artist/6Zh3xrWlA0SA9Fsfj9AVwm"
+        }
+      ],
+      "duration_ms": 240800,
+      "name": "Dance Hall Days",
+      "url": "https://open.spotify.com/track/2JvPJ8ydPuN2NhpH4oti6I"
     },
     {
       "added_at": "2021-01-07 10:31:17",
@@ -1585,6 +1585,22 @@
       "url": "https://open.spotify.com/track/0ire4j2mcGovF5JA1D2cTp"
     },
     {
+      "added_at": "2021-01-07 10:31:17",
+      "album": {
+        "name": "Fame (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/0Dmq3geiHxPk20sTt8sXxy"
+      },
+      "artists": [
+        {
+          "name": "Irene Cara",
+          "url": "https://open.spotify.com/artist/3oZa8Xs6IjlIUGLAhVyK4G"
+        }
+      ],
+      "duration_ms": 316066,
+      "name": "Fame",
+      "url": "https://open.spotify.com/track/5CI1FP2Volc9wjz2MBZsGx"
+    },
+    {
       "added_at": "2021-09-08 13:09:25",
       "album": {
         "name": "Private Eyes (Expanded Edition)",
@@ -1615,22 +1631,6 @@
       "duration_ms": 218186,
       "name": "Moonlight Shadow",
       "url": "https://open.spotify.com/track/4WpmwEdc4RBos8W8icSSxW"
-    },
-    {
-      "added_at": "2021-01-07 10:31:17",
-      "album": {
-        "name": "Fame (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/0Dmq3geiHxPk20sTt8sXxy"
-      },
-      "artists": [
-        {
-          "name": "Irene Cara",
-          "url": "https://open.spotify.com/artist/3oZa8Xs6IjlIUGLAhVyK4G"
-        }
-      ],
-      "duration_ms": 316066,
-      "name": "Fame",
-      "url": "https://open.spotify.com/track/5CI1FP2Volc9wjz2MBZsGx"
     },
     {
       "added_at": "2021-09-08 13:09:25",
@@ -2017,22 +2017,6 @@
       "url": "https://open.spotify.com/track/13v3siPyvy5TTEZYmGPPse"
     },
     {
-      "added_at": "2021-09-08 13:09:25",
-      "album": {
-        "name": "Word Up",
-        "url": "https://open.spotify.com/album/1W8kHQQC7DXg1inR7ZWqhA"
-      },
-      "artists": [
-        {
-          "name": "Cameo",
-          "url": "https://open.spotify.com/artist/545idYhdloaSlLGBY8E9u2"
-        }
-      ],
-      "duration_ms": 260000,
-      "name": "Word Up",
-      "url": "https://open.spotify.com/track/7LoGfKBAaOl0nxhodJ1240"
-    },
-    {
       "added_at": "2021-01-07 10:31:17",
       "album": {
         "name": "Dreamland",
@@ -2047,6 +2031,22 @@
       "duration_ms": 272147,
       "name": "Ride on Time",
       "url": "https://open.spotify.com/track/3pgainA2dH9c7e8JVYGRCN"
+    },
+    {
+      "added_at": "2021-09-08 13:09:25",
+      "album": {
+        "name": "Word Up",
+        "url": "https://open.spotify.com/album/1W8kHQQC7DXg1inR7ZWqhA"
+      },
+      "artists": [
+        {
+          "name": "Cameo",
+          "url": "https://open.spotify.com/artist/545idYhdloaSlLGBY8E9u2"
+        }
+      ],
+      "duration_ms": 260000,
+      "name": "Word Up",
+      "url": "https://open.spotify.com/track/7LoGfKBAaOl0nxhodJ1240"
     },
     {
       "added_at": "2021-09-08 13:09:25",
@@ -2147,22 +2147,6 @@
     {
       "added_at": "2021-01-07 10:31:17",
       "album": {
-        "name": "Fantastic",
-        "url": "https://open.spotify.com/album/6vihnceXTNegYbpurc6qkR"
-      },
-      "artists": [
-        {
-          "name": "Wham!",
-          "url": "https://open.spotify.com/artist/5lpH0xAS4fVfLkACg9DAuM"
-        }
-      ],
-      "duration_ms": 265600,
-      "name": "Club Tropicana",
-      "url": "https://open.spotify.com/track/6tASfEUyB7lE2r6DLzURji"
-    },
-    {
-      "added_at": "2021-01-07 10:31:17",
-      "album": {
         "name": "Above The Clouds - The Collection (Deluxe)",
         "url": "https://open.spotify.com/album/6ABjDcLOPzXG9RR6wD9MwZ"
       },
@@ -2175,6 +2159,22 @@
       "duration_ms": 227800,
       "name": "The Heat Is On - From \"Beverly Hills Cop\" Soundtrack",
       "url": "https://open.spotify.com/track/0PXw9NKvolWTo7U9JkNzmc"
+    },
+    {
+      "added_at": "2021-01-07 10:31:17",
+      "album": {
+        "name": "Fantastic",
+        "url": "https://open.spotify.com/album/6vihnceXTNegYbpurc6qkR"
+      },
+      "artists": [
+        {
+          "name": "Wham!",
+          "url": "https://open.spotify.com/artist/5lpH0xAS4fVfLkACg9DAuM"
+        }
+      ],
+      "duration_ms": 265600,
+      "name": "Club Tropicana",
+      "url": "https://open.spotify.com/track/6tASfEUyB7lE2r6DLzURji"
     },
     {
       "added_at": "2021-09-08 13:09:25",
@@ -2225,22 +2225,6 @@
       "url": "https://open.spotify.com/track/1wEeNtO7z41aUqC80shxqK"
     },
     {
-      "added_at": "2021-09-08 13:09:25",
-      "album": {
-        "name": "Decade",
-        "url": "https://open.spotify.com/album/4P6rgSkSEXFGrpTk9NZUAj"
-      },
-      "artists": [
-        {
-          "name": "Duran Duran",
-          "url": "https://open.spotify.com/artist/0lZoBs4Pzo7R89JM9lxwoT"
-        }
-      ],
-      "duration_ms": 217693,
-      "name": "A View to a Kill",
-      "url": "https://open.spotify.com/track/6I4snLrVOrJsLdd43isc27"
-    },
-    {
       "added_at": "2021-01-07 10:31:17",
       "album": {
         "name": "Brothers in Arms",
@@ -2255,6 +2239,22 @@
       "duration_ms": 252466,
       "name": "Walk of Life",
       "url": "https://open.spotify.com/track/423o3ZHIaBtGXyhF1uH41a"
+    },
+    {
+      "added_at": "2021-09-08 13:09:25",
+      "album": {
+        "name": "Decade",
+        "url": "https://open.spotify.com/album/4P6rgSkSEXFGrpTk9NZUAj"
+      },
+      "artists": [
+        {
+          "name": "Duran Duran",
+          "url": "https://open.spotify.com/artist/0lZoBs4Pzo7R89JM9lxwoT"
+        }
+      ],
+      "duration_ms": 217693,
+      "name": "A View to a Kill",
+      "url": "https://open.spotify.com/track/6I4snLrVOrJsLdd43isc27"
     },
     {
       "added_at": "2021-09-08 13:09:25",
@@ -2403,22 +2403,6 @@
     {
       "added_at": "2021-09-08 13:09:25",
       "album": {
-        "name": "Don't Be Cruel",
-        "url": "https://open.spotify.com/album/44w4sVYJVQzhH2dN3IwyIK"
-      },
-      "artists": [
-        {
-          "name": "Bobby Brown",
-          "url": "https://open.spotify.com/artist/62sPt3fswraiEPnKQpAbdE"
-        }
-      ],
-      "duration_ms": 291560,
-      "name": "My Prerogative",
-      "url": "https://open.spotify.com/track/0v9kGNjkKdQUdDoBIuiph4"
-    },
-    {
-      "added_at": "2021-09-08 13:09:25",
-      "album": {
         "name": "A Night To Remember",
         "url": "https://open.spotify.com/album/3wegC2LXYCQknfUuOYBwmz"
       },
@@ -2431,6 +2415,22 @@
       "duration_ms": 251506,
       "name": "I Drove All Night",
       "url": "https://open.spotify.com/track/3J0AoQhAufniMrznCRJASD"
+    },
+    {
+      "added_at": "2021-09-08 13:09:25",
+      "album": {
+        "name": "Don't Be Cruel",
+        "url": "https://open.spotify.com/album/44w4sVYJVQzhH2dN3IwyIK"
+      },
+      "artists": [
+        {
+          "name": "Bobby Brown",
+          "url": "https://open.spotify.com/artist/62sPt3fswraiEPnKQpAbdE"
+        }
+      ],
+      "duration_ms": 291560,
+      "name": "My Prerogative",
+      "url": "https://open.spotify.com/track/0v9kGNjkKdQUdDoBIuiph4"
     },
     {
       "added_at": "2021-09-08 13:09:25",

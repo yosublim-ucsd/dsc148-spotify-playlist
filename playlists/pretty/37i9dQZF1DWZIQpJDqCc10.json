@@ -1,12 +1,12 @@
 {
   "description": "The greatest indie love songs of all time. ",
-  "num_followers": 635963,
+  "num_followers": 636213,
   "original_name": "Indie Love Songs",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1OGIxMzAxYWI1MmM4MzBiZmY4YTgwYzAyMDc4ZWQzNDRmN2MxMzZl",
+  "snapshot_id": "MCxiYTg1NGZiZjRiNzMwMmVkMzA3YjA0N2NlZGEyMDhmNGFjZmU1ZjVj",
   "tracks": [
     {
       "added_at": "2024-01-19 14:43:19",
@@ -737,22 +737,6 @@
       "url": "https://open.spotify.com/track/3NM41PVVUr0ceootKAtkAj"
     },
     {
-      "added_at": "2024-01-19 14:43:19",
-      "album": {
-        "name": "Kiss Me, Kiss Me, Kiss Me",
-        "url": "https://open.spotify.com/album/37Q22g0n9PzBLX6lNddrIa"
-      },
-      "artists": [
-        {
-          "name": "The Cure",
-          "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
-        }
-      ],
-      "duration_ms": 212000,
-      "name": "Just like Heaven",
-      "url": "https://open.spotify.com/track/76GlO5H5RT6g7y0gev86Nk"
-    },
-    {
       "added_at": "2024-01-30 13:10:16",
       "album": {
         "name": "songs",
@@ -767,6 +751,22 @@
       "duration_ms": 202047,
       "name": "anything",
       "url": "https://open.spotify.com/track/4PwWESSlTwzvw9B7bmtTLS"
+    },
+    {
+      "added_at": "2024-01-19 14:43:19",
+      "album": {
+        "name": "Kiss Me, Kiss Me, Kiss Me",
+        "url": "https://open.spotify.com/album/37Q22g0n9PzBLX6lNddrIa"
+      },
+      "artists": [
+        {
+          "name": "The Cure",
+          "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
+        }
+      ],
+      "duration_ms": 212000,
+      "name": "Just like Heaven",
+      "url": "https://open.spotify.com/track/76GlO5H5RT6g7y0gev86Nk"
     },
     {
       "added_at": "2024-01-19 14:43:19",
@@ -1105,22 +1105,6 @@
       "url": "https://open.spotify.com/track/6Ca3uEAuun3HusTUiIXKs1"
     },
     {
-      "added_at": "2024-01-30 13:10:16",
-      "album": {
-        "name": "Antisocialites",
-        "url": "https://open.spotify.com/album/2Yy84EeclNVwFDem6yIB2s"
-      },
-      "artists": [
-        {
-          "name": "Alvvays",
-          "url": "https://open.spotify.com/artist/3kzwYV3OCB010YfXMF0Avt"
-        }
-      ],
-      "duration_ms": 196026,
-      "name": "Dreams Tonite",
-      "url": "https://open.spotify.com/track/6TcxxINfeaBEQ35sHMldTD"
-    },
-    {
       "added_at": "2024-01-19 14:43:19",
       "album": {
         "name": "Either/Or",
@@ -1135,6 +1119,22 @@
       "duration_ms": 139000,
       "name": "Say Yes",
       "url": "https://open.spotify.com/track/4IKMZtDIqyQDA6a4YvsgpK"
+    },
+    {
+      "added_at": "2024-01-30 13:10:16",
+      "album": {
+        "name": "Antisocialites",
+        "url": "https://open.spotify.com/album/2Yy84EeclNVwFDem6yIB2s"
+      },
+      "artists": [
+        {
+          "name": "Alvvays",
+          "url": "https://open.spotify.com/artist/3kzwYV3OCB010YfXMF0Avt"
+        }
+      ],
+      "duration_ms": 196026,
+      "name": "Dreams Tonite",
+      "url": "https://open.spotify.com/track/6TcxxINfeaBEQ35sHMldTD"
     },
     {
       "added_at": "2024-01-19 14:43:19",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2DKrE9X6Abv.md) - [plain]
 
 > pov: you're in the edit
 
-[Spotify](https://open.spotify.com/user/spotify) - 663,515 likes - 87 songs - 5 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 664,580 likes - 87 songs - 5 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2DKrE9X6Abv.md) - [plain]
 | 3 | [505](https://open.spotify.com/track/58ge6dfP91o9oXMzq3XkIS) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [Favourite Worst Nightmare \(Standard Version\)](https://open.spotify.com/album/6rsQnwaoJHxXJRCDBPkBRw) | 4:13 |
 | 4 | [Fine Line](https://open.spotify.com/track/6VzcQuzTNTMFnJ6rBSaLH9) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Fine Line](https://open.spotify.com/album/7xV2TzoaVc0ycW7fwBwAml) | 6:17 |
 | 5 | [Je te laisserai des mots](https://open.spotify.com/track/0V5cvmTKsYmF5FmGGEAfmS) | [Patrick Watson](https://open.spotify.com/artist/7bPs6jf983f0bjRAt1yxDM) | [Je te laisserai des mots](https://open.spotify.com/album/7KPvATOyLVFbV6UR6DujF8) | 2:40 |
-| 6 | [i was all over her](https://open.spotify.com/track/7svpAkwc6xaSxlbZ7V7JiS) | [salvia palth](https://open.spotify.com/artist/0pg0Zm8FsGAYy5kdHuBnSo) | [melanchole](https://open.spotify.com/album/23KJrzHF1IBfjzpRgTtaJx) | 2:41 |
+| 6 | [i was all over her](https://open.spotify.com/track/6mSnSuOhgHHohqeBw76jRV) | [salvia palth](https://open.spotify.com/artist/0pg0Zm8FsGAYy5kdHuBnSo) | [melanchole](https://open.spotify.com/album/10WzRaNWnFUQNrW2FpqQSQ) | 2:41 |
 | 7 | [ceilings](https://open.spotify.com/track/2L9N0zZnd37dwF0clgxMGI) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [five seconds flat](https://open.spotify.com/album/68L5xVV9wydotfDXEik7eD) | 3:02 |
 | 8 | [I Love You So](https://open.spotify.com/track/4SqWKzw0CbA05TGszDgMlc) | [The Walters](https://open.spotify.com/artist/027TpXKGwdXP7iwbjUSpV8) | [I Love You So](https://open.spotify.com/album/7ucm85tRsWk6EyVHaYAxe9) | 2:40 |
 | 9 | [rises the moon](https://open.spotify.com/track/51Grh1RyUDcMBbpuyUIUHI) | [Liana Flores](https://open.spotify.com/artist/5zVu34ozw0BzXIcNHqkO0u) | [recently](https://open.spotify.com/album/295qW3R6DSM1WfePwUpgux) | 2:41 |
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2DKrE9X6Abv.md) - [plain]
 | 20 | [Where'd All the Time Go?](https://open.spotify.com/track/0UV5zxRMz6AO4ZwUOZNIKI) | [Dr\. Dog](https://open.spotify.com/artist/4mLJ3XfOM5FPjSAWdQ2Jk7) | [Shame, Shame \(Deluxe Edition\)](https://open.spotify.com/album/16XswZ18xhMs8qUTN51mRl) | 3:54 |
 | 21 | [The View Between Villages](https://open.spotify.com/track/6PdWPdgPoVCT9WLFMVnhxx) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Stick Season](https://open.spotify.com/album/50ZenUP4O2Q5eCy2NRNvuz) | 3:35 |
 | 22 | [Need 2](https://open.spotify.com/track/3kQfBtkQqgN1fAMfhks8TU) | [Pinegrove](https://open.spotify.com/artist/2gbT6GPXMis0OAkZbEQCYB) | [Everything So Far](https://open.spotify.com/album/7zlf5gmgcFBUSLZpVsh9EE) | 3:11 |
-| 23 | [I Can't Handle Change](https://open.spotify.com/track/0I1eFRytp4XRhLCjT6tZm7) | [Roar](https://open.spotify.com/artist/7dIpKWlEeAljA20vFJ82RD) | [I Can't Handle Change](https://open.spotify.com/album/42vd9Cgr89pjb0Jipvaj5d) | 3:18 |
+| 23 | [I Can't Handle Change](https://open.spotify.com/track/37l31PrCNsg8baUjarNAi9) | [Roar](https://open.spotify.com/artist/7dIpKWlEeAljA20vFJ82RD) | [I Can't Handle Change](https://open.spotify.com/album/0YjOnBY0FRufcmNBTzWTgX) | 3:18 |
 | 24 | [Vas](https://open.spotify.com/track/6S7o12almFeL57rbRvdY5l) | [jagger finn](https://open.spotify.com/artist/4b1cEwAKl1Wdg6x8kkraJa) | [Triplbt Theme](https://open.spotify.com/album/0Nq3r1NoSh6bq6SXxuKnlM) | 1:30 |
 | 25 | [As the World Caves In](https://open.spotify.com/track/4JE6agBLHGA5TaF6FlqfBD) | [Matt Maltese](https://open.spotify.com/artist/12j6dJrPXanCBwY599pZxf) | [As the World Caves In](https://open.spotify.com/album/6bKosNVvMaaosmJTV101y0) | 3:38 |
 | 26 | [Wait](https://open.spotify.com/track/3rTnGUeDrnZV22DvRuUuXr) | [M83](https://open.spotify.com/artist/63MQldklfxkjYDoUE4Tppz) | [Hurry Up, We're Dreaming](https://open.spotify.com/album/6R0ynY7RF20ofs9GJR5TXR) | 5:43 |
@@ -96,4 +96,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2DKrE9X6Abv.md) - [plain]
 | 86 | [Writer](https://open.spotify.com/track/50vKWUS6zLnd5cDhPSqwey) | [Paolo Nutini](https://open.spotify.com/artist/7x5rK9BClDQ8wmCkYAGsQp) | [Last Night In The Bittersweet](https://open.spotify.com/album/0dp4Cl0ZqJYJJXIeH6dH1x) | 4:01 |
 | 87 | [Outro](https://open.spotify.com/track/2QVmiA93GVhWNTWQctyY1K) | [M83](https://open.spotify.com/artist/63MQldklfxkjYDoUE4Tppz) | [Hurry Up, We're Dreaming](https://open.spotify.com/album/6R0ynY7RF20ofs9GJR5TXR) | 4:07 |
 
-Snapshot ID: `MCwzNjJmMjQ1OTIxM2VmOTg4NmRmOWVjZjFkZmFiYjA1YWRhOTJjNjEx`
+Snapshot ID: `MCxkNDgwMGU5NTg0Y2I3YmY3MTg2OGJjOWY2Yzk2ODA3YjFmOWVmMWRh`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6XyOkZKBb24.md) - [plain]
 
 > Snuggling in for the evening with a nice soundtrack
 
-[Spotify](https://open.spotify.com/user/spotify) - 171,486 likes - 75 songs - 4 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 171,631 likes - 75 songs - 4 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,8 +23,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6XyOkZKBb24.md) - [plain]
 | 13 | [exile \(feat\. Bon Iver\)](https://open.spotify.com/track/4pvb0WLRcMtbPGmtejJJ6y) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02), [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [folklore](https://open.spotify.com/album/2fenSS68JI1h4Fo296JfGr) | 4:45 |
 | 14 | [Lose You To Love Me](https://open.spotify.com/track/4l0Mvzj72xxOpRrp6h8nHi) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [Rare](https://open.spotify.com/album/3YPFaTR7WMi1Hd4NVKdCJx) | 3:26 |
 | 15 | [The Night We Met](https://open.spotify.com/track/0QZ5yyl6B6utIWkxeBDxQN) | [Lord Huron](https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25) | [Strange Trails](https://open.spotify.com/album/3yoNZlqerJnsnMN5EDwwBS) | 3:28 |
-| 16 | [Fall in Love with You.](https://open.spotify.com/track/4kJT7Yj6Za01KfKHjb7mZE) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [JAMIE](https://open.spotify.com/album/4StdgB0YaIYLGhhXBLuoWl) | 2:12 |
-| 17 | [Solo](https://open.spotify.com/track/4Skkx52Dh8yo4G1ijAEGs3) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt) | [Solo](https://open.spotify.com/album/03jkbwbhopEYNhcbwGwIt8) | 3:19 |
+| 16 | [Solo](https://open.spotify.com/track/4Skkx52Dh8yo4G1ijAEGs3) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt) | [Solo](https://open.spotify.com/album/03jkbwbhopEYNhcbwGwIt8) | 3:19 |
+| 17 | [Fall in Love with You.](https://open.spotify.com/track/4kJT7Yj6Za01KfKHjb7mZE) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [JAMIE](https://open.spotify.com/album/4StdgB0YaIYLGhhXBLuoWl) | 2:12 |
 | 18 | [From The Start](https://open.spotify.com/track/1Ukxccao1BlWrPhYkcXbwZ) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [From The Start](https://open.spotify.com/album/1BOZNMzXTIkz8nUfGCxfpe) | 2:49 |
 | 19 | [this is me trying](https://open.spotify.com/track/7kt9e9LFSpN1zQtYEl19o1) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [folklore](https://open.spotify.com/album/2fenSS68JI1h4Fo296JfGr) | 3:15 |
 | 20 | [A Night To Remember](https://open.spotify.com/track/180AbZduI6bYQIzwCHRwu9) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB), [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [A Night To Remember](https://open.spotify.com/album/73wBVA41AulgjGiL3rBwfe) | 3:53 |
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6XyOkZKBb24.md) - [plain]
 | 27 | [Skinny Love](https://open.spotify.com/track/4RL77hMWUq35NYnPLXBpih) | [Birdy](https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP) | [Birdy](https://open.spotify.com/album/1WGjSVIw0TVfbp5KrOFiP0) | 3:21 |
 | 28 | [Didn't Cha Know](https://open.spotify.com/track/7pv80uUHfocFqfTytu1MVi) | [Erykah Badu](https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX) | [Mama's Gun](https://open.spotify.com/album/3cADvHRdKniF9ELCn1zbGH) | 3:58 |
 | 29 | [Beyond](https://open.spotify.com/track/1Omt5bfz1tZUCqd26HxbS0) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Good Thing](https://open.spotify.com/album/7J9fifadXb0PPSBWXctbi8) | 4:00 |
-| 30 | [Growing Sideways](https://open.spotify.com/track/1JcIXOir94YUYBt2cXTzn2) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Stick Season](https://open.spotify.com/album/50ZenUP4O2Q5eCy2NRNvuz) | 4:15 |
-| 31 | [Can't Help Falling in Love](https://open.spotify.com/track/3dqUv6E7L24BDImpGJWYGL) | [Haley Reinhart](https://open.spotify.com/artist/5cKlE8f6b26h61Ml7m052Q) | [Better](https://open.spotify.com/album/3Q2vDJ86mDQYcvOcd5sWwn) | 2:53 |
+| 30 | [Can't Help Falling in Love](https://open.spotify.com/track/3dqUv6E7L24BDImpGJWYGL) | [Haley Reinhart](https://open.spotify.com/artist/5cKlE8f6b26h61Ml7m052Q) | [Better](https://open.spotify.com/album/3Q2vDJ86mDQYcvOcd5sWwn) | 2:53 |
+| 31 | [Growing Sideways](https://open.spotify.com/track/1JcIXOir94YUYBt2cXTzn2) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Stick Season](https://open.spotify.com/album/50ZenUP4O2Q5eCy2NRNvuz) | 4:15 |
 | 32 | [Liability](https://open.spotify.com/track/6Kkt27YmFyIFrcX3QXFi2o) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Melodrama](https://open.spotify.com/album/2B87zXm9bOWvAJdkJBTpzF) | 2:51 |
 | 33 | [Pointless](https://open.spotify.com/track/44G9fSM6qI8zRoG6Qwn3eq) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Broken By Desire To Be Heavenly Sent](https://open.spotify.com/album/0ECSyPejfD7oL95dD3jgoi) | 3:51 |
 | 34 | [Now And Then](https://open.spotify.com/track/4vziJcnB2Qyi9o4nIRUeN7) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Now And Then](https://open.spotify.com/album/2qQP2NgOoH6HqknnbpJmIk) | 4:08 |
@@ -53,14 +53,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6XyOkZKBb24.md) - [plain]
 | 43 | [Visiting Hours](https://open.spotify.com/track/0rt63HYAAIzUZo5O2D0uA6) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [=](https://open.spotify.com/album/32iAEBstCjauDhyKpGjTuq) | 3:35 |
 | 44 | [Out Of Love](https://open.spotify.com/track/4WzhjxvLP95y7AMDy0Atwb) | [Alessia Cara](https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR) | [The Pains Of Growing](https://open.spotify.com/album/0LzVdypBGpn6dGuHqVGwwt) | 3:47 |
 | 45 | [Butterflies](https://open.spotify.com/track/30VHURM5NOfoZmqp2iKawS) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Golden Hour](https://open.spotify.com/album/7f6xPqyaolTiziKf5R5Z0c) | 3:39 |
-| 46 | [ICU](https://open.spotify.com/track/3tpI98Yae25hSvhh6mitA9) | [Coco Jones](https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd) | [What I Didn’t Tell You \(Deluxe\)](https://open.spotify.com/album/0P7argSEQG9otkeG3welvZ) | 4:01 |
-| 47 | [A Symptom Of Being Human](https://open.spotify.com/track/7xOB82ELg70RoIM3mMTkt4) | [Shinedown](https://open.spotify.com/artist/70BYFdaZbEKbeauJ670ysI) | [Planet Zero](https://open.spotify.com/album/7tWcsQLHpvXnUPN1jsSaGw) | 4:08 |
+| 46 | [A Symptom Of Being Human](https://open.spotify.com/track/7xOB82ELg70RoIM3mMTkt4) | [Shinedown](https://open.spotify.com/artist/70BYFdaZbEKbeauJ670ysI) | [Planet Zero](https://open.spotify.com/album/7tWcsQLHpvXnUPN1jsSaGw) | 4:08 |
+| 47 | [ICU](https://open.spotify.com/track/3tpI98Yae25hSvhh6mitA9) | [Coco Jones](https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd) | [What I Didn’t Tell You \(Deluxe\)](https://open.spotify.com/album/0P7argSEQG9otkeG3welvZ) | 4:01 |
 | 48 | [DO 4 LOVE](https://open.spotify.com/track/3FImu2LpSuH6gDHBuFgIbS) | [Snoh Aalegra](https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X) | [Spotify Singles](https://open.spotify.com/album/28wKxlJocWCrrxUgYC2zEQ) | 3:09 |
 | 49 | [Moon River](https://open.spotify.com/track/41cpvQ2GyGb2BRdIRSsTqK) | [Frank Ocean](https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM) | [Moon River](https://open.spotify.com/album/0iqqnLXoocsMeCYlTw3Q2q) | 3:08 |
 | 50 | [Simply The Best](https://open.spotify.com/track/10UTmRvoroe6eZ3ViwkpbN) | [Billianne](https://open.spotify.com/artist/0MID3D49WKmEGfBINN0VJC) | [Simply The Best](https://open.spotify.com/album/2IjiX4wNgyntlvPU9a0Yy7) | 2:53 |
 | 51 | [Boyfriends](https://open.spotify.com/track/6qj02zSeEJGWZ4c0dn5QzJ) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry's House](https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h) | 3:14 |
-| 52 | [Dream A Little Dream Of Me](https://open.spotify.com/track/3HuJDcOWx0gE9Yng2uWY7K) | [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek) | [What A Wonderful World](https://open.spotify.com/album/6mmv0gwumlFGWDGJXF4yEv) | 3:16 |
-| 53 | [We're Going to Be Friends](https://open.spotify.com/track/13lZDbwonGhOflQLQIfdtZ) | [The White Stripes](https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70) | [White Blood Cells](https://open.spotify.com/album/6Xvc1TfpVEhDeHhmTQEtp0) | 2:20 |
+| 52 | [We're Going to Be Friends](https://open.spotify.com/track/13lZDbwonGhOflQLQIfdtZ) | [The White Stripes](https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70) | [White Blood Cells](https://open.spotify.com/album/6Xvc1TfpVEhDeHhmTQEtp0) | 2:20 |
+| 53 | [Dream A Little Dream Of Me](https://open.spotify.com/track/3HuJDcOWx0gE9Yng2uWY7K) | [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek) | [What A Wonderful World](https://open.spotify.com/album/6mmv0gwumlFGWDGJXF4yEv) | 3:16 |
 | 54 | [I'm with You](https://open.spotify.com/track/6Qwuw0eOeszVlewLpu24gR) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [Nation of Two](https://open.spotify.com/album/5f6Eu9QtujgGggq5qbbycV) | 3:59 |
 | 55 | [Dinner with Friends](https://open.spotify.com/track/1wLN48gT4YmUWs4WMgnw2n) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Deeper Well](https://open.spotify.com/album/5SxZmGwc4eJuPp6PcO4JgJ) | 2:57 |
 | 56 | [All Night Parking \(with Erroll Garner\) Interlude](https://open.spotify.com/track/496vIKS2INz840xZaKncvR) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [30](https://open.spotify.com/album/21jF5jlMtzo94wbxmJ18aa) | 2:41 |
@@ -78,10 +78,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6XyOkZKBb24.md) - [plain]
 | 68 | [Better Together](https://open.spotify.com/track/6huS9u0BDfeQHq0lObNLPl) | [Us The Duo](https://open.spotify.com/artist/3QGKsAfhZdldQCLuLjk6zl) | [Better Together](https://open.spotify.com/album/0KAwOGS6XRZfVBx9qmSlMc) | 3:20 |
 | 69 | [You Could Start A Cult \(with Lizzy McAlpine\)](https://open.spotify.com/track/45PRcjOnvjz6VMl7tI3O3c) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4), [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [You Could Start A Cult \(with Lizzy McAlpine\)](https://open.spotify.com/album/6sTwHqzlr0QYUzH5Dx4pwk) | 3:14 |
 | 70 | [Colourblind](https://open.spotify.com/track/290x9rCh2EWcJ9YKpfiI9z) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [\- \(Deluxe\)](https://open.spotify.com/album/2WFFcvzM0CgLaSq4MSkyZk) | 3:29 |
-| 71 | [A Little Bit Yours](https://open.spotify.com/track/1vjQHBoJWpQ3rAPRDVjrxA) | [JP Saxe](https://open.spotify.com/artist/66W9LaWS0DPdL7Sz8iYGYe) | [Dangerous Levels of Introspection](https://open.spotify.com/album/538BxdI7oOQykSkEtyjhUD) | 3:48 |
-| 72 | [Conversations in the Dark](https://open.spotify.com/track/6TYlDTa9AQDvjqwbxlvFyI) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [Conversations in the Dark](https://open.spotify.com/album/5LVi2qET36RvkLil7mJclb) | 3:57 |
+| 71 | [Conversations in the Dark](https://open.spotify.com/track/6TYlDTa9AQDvjqwbxlvFyI) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [Conversations in the Dark](https://open.spotify.com/album/5LVi2qET36RvkLil7mJclb) | 3:57 |
+| 72 | [A Little Bit Yours](https://open.spotify.com/track/1vjQHBoJWpQ3rAPRDVjrxA) | [JP Saxe](https://open.spotify.com/artist/66W9LaWS0DPdL7Sz8iYGYe) | [Dangerous Levels of Introspection](https://open.spotify.com/album/538BxdI7oOQykSkEtyjhUD) | 3:48 |
 | 73 | [Better Man](https://open.spotify.com/track/7qqOrc0Uvpvl5NvoAPRGLE) | [Sekou](https://open.spotify.com/artist/1mYgKcXdbklH5RwjU6XA8c) | [Better Man](https://open.spotify.com/album/1hfIWkFQJnxCtCTWshLEX7) | 3:12 |
 | 74 | [Harvest Moon \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/6gdCb962lq0Xdg7ypVLuLt) | [Lord Huron](https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25) | [Spotify Singles](https://open.spotify.com/album/3oTpxylhyTiGLaZ8IRjJQB) | 5:46 |
 | 75 | [A Love That Will Last](https://open.spotify.com/track/4bJbSERtCqK9D6DRUPMmMh) | [Renee Olstead](https://open.spotify.com/artist/19B0pJt4UEl3fUijGTRzxB) | [Renee Olstead](https://open.spotify.com/album/0xBTBaqqZd6Vnmp0tJ3g42) | 3:32 |
 
-Snapshot ID: `MCw5MjNjMjIwZWI4NDkxMmQyYjdkYjBhZDBiOWM1ZTNlY2VjOTA1NmUy`
+Snapshot ID: `MCw0YWIzMWQ3OTBlNWYwNDQ5NThjMjA0ZmNjZTE3MDAzYjA3NjZhYWNj`

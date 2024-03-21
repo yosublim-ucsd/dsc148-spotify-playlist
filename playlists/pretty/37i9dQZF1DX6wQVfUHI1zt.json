@@ -1,12 +1,12 @@
 {
   "description": "All the Tejano classics for you to enjoy! Cover: Selena",
-  "num_followers": 209399,
+  "num_followers": 209452,
   "original_name": "Tejano Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1Y2FmNWIyZjQ1MmVjNmUzMjc5ZmY0MjU4YTMzMjhlN2M5NmE5Nzk3",
+  "snapshot_id": "MCw1MTkyYzRjMGY3MWJmZjQ0ZTNhM2JiY2U2ZGE4NWI4OWRkZDg1YjRh",
   "tracks": [
     {
       "added_at": "2023-03-10 18:44:18",
@@ -883,8 +883,8 @@
     {
       "added_at": "2023-03-10 18:44:18",
       "album": {
-        "name": "30 Del Recuerdo",
-        "url": "https://open.spotify.com/album/6VWzxi8JSd5lELhM9aGRVD"
+        "name": "15 De Coleccion",
+        "url": "https://open.spotify.com/album/568Sm7sPxPWEUx0IwQUujI"
       },
       "artists": [
         {
@@ -892,9 +892,9 @@
           "url": "https://open.spotify.com/artist/274Y6HvCIUkt5pi7jPWRke"
         }
       ],
-      "duration_ms": 241560,
-      "name": "Maldito Amor",
-      "url": "https://open.spotify.com/track/4AKEDdVpAKnEGCcAob2fCj"
+      "duration_ms": 221826,
+      "name": "Por Favor Corazon",
+      "url": "https://open.spotify.com/track/08Diwy2s9AX6PY8s87QWYE"
     },
     {
       "added_at": "2023-03-10 18:44:18",
@@ -1055,8 +1055,8 @@
     {
       "added_at": "2023-03-10 18:44:18",
       "album": {
-        "name": "15 De Coleccion",
-        "url": "https://open.spotify.com/album/568Sm7sPxPWEUx0IwQUujI"
+        "name": "30 Del Recuerdo",
+        "url": "https://open.spotify.com/album/6VWzxi8JSd5lELhM9aGRVD"
       },
       "artists": [
         {
@@ -1064,9 +1064,9 @@
           "url": "https://open.spotify.com/artist/274Y6HvCIUkt5pi7jPWRke"
         }
       ],
-      "duration_ms": 221826,
-      "name": "Por Favor Corazon",
-      "url": "https://open.spotify.com/track/08Diwy2s9AX6PY8s87QWYE"
+      "duration_ms": 241560,
+      "name": "Maldito Amor",
+      "url": "https://open.spotify.com/track/4AKEDdVpAKnEGCcAob2fCj"
     },
     {
       "added_at": "2023-03-10 18:44:18",
@@ -1167,22 +1167,6 @@
     {
       "added_at": "2023-03-10 18:44:18",
       "album": {
-        "name": "Enamorada de Ti",
-        "url": "https://open.spotify.com/album/6QT2jnwcvYH2H3fEbXeu0l"
-      },
-      "artists": [
-        {
-          "name": "Selena",
-          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
-        }
-      ],
-      "duration_ms": 190840,
-      "name": "No Me Queda M\u00e1s",
-      "url": "https://open.spotify.com/track/6wDNRITsP5tBCImheKBTgi"
-    },
-    {
-      "added_at": "2023-03-10 18:44:18",
-      "album": {
         "name": "Dreaming Of You",
         "url": "https://open.spotify.com/album/2IevUWpkZ9KUcr6ZhtklE0"
       },
@@ -1195,6 +1179,22 @@
       "duration_ms": 192840,
       "name": "T\u00fa, Solo T\u00fa",
       "url": "https://open.spotify.com/track/2yvg28oa8lHSenq7nJ5Ss2"
+    },
+    {
+      "added_at": "2023-03-10 18:44:18",
+      "album": {
+        "name": "Enamorada de Ti",
+        "url": "https://open.spotify.com/album/6QT2jnwcvYH2H3fEbXeu0l"
+      },
+      "artists": [
+        {
+          "name": "Selena",
+          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
+        }
+      ],
+      "duration_ms": 190840,
+      "name": "No Me Queda M\u00e1s",
+      "url": "https://open.spotify.com/track/6wDNRITsP5tBCImheKBTgi"
     },
     {
       "added_at": "2023-03-10 18:44:18",
@@ -1591,22 +1591,6 @@
     {
       "added_at": "2023-03-10 18:44:18",
       "album": {
-        "name": "Desvelado",
-        "url": "https://open.spotify.com/album/2BCS2taG5BuYeL3QPCbcz2"
-      },
-      "artists": [
-        {
-          "name": "Bobby Pulido",
-          "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
-        }
-      ],
-      "duration_ms": 236466,
-      "name": "Te Voy A Amar",
-      "url": "https://open.spotify.com/track/7H9BJi45b1XJwYiC1vajfc"
-    },
-    {
-      "added_at": "2023-03-10 18:44:18",
-      "album": {
         "name": "La Leyenda (Version Super Deluxe)",
         "url": "https://open.spotify.com/album/058VOHYTS6kFauVUl6Eh03"
       },
@@ -1619,6 +1603,22 @@
       "duration_ms": 181400,
       "name": "Siempre Estoy Pensando En Ti",
       "url": "https://open.spotify.com/track/7KsOTKIJAob3zAOgk1ltnv"
+    },
+    {
+      "added_at": "2023-03-10 18:44:18",
+      "album": {
+        "name": "Desvelado",
+        "url": "https://open.spotify.com/album/2BCS2taG5BuYeL3QPCbcz2"
+      },
+      "artists": [
+        {
+          "name": "Bobby Pulido",
+          "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
+        }
+      ],
+      "duration_ms": 236466,
+      "name": "Te Voy A Amar",
+      "url": "https://open.spotify.com/track/7H9BJi45b1XJwYiC1vajfc"
     },
     {
       "added_at": "2023-03-10 18:44:18",
@@ -1895,22 +1895,6 @@
     {
       "added_at": "2023-03-10 18:44:18",
       "album": {
-        "name": "Dias de Ayer",
-        "url": "https://open.spotify.com/album/3uSh3AeT2wgBbLSxYcJupg"
-      },
-      "artists": [
-        {
-          "name": "Bobby Pulido",
-          "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
-        }
-      ],
-      "duration_ms": 206213,
-      "name": "Dias de Ayer",
-      "url": "https://open.spotify.com/track/7zSfoStk27KpJLg27Yz2Ba"
-    },
-    {
-      "added_at": "2023-03-10 18:44:18",
-      "album": {
         "name": "30 Exitos Insuperables",
         "url": "https://open.spotify.com/album/0CS97ASQq48DyzbQt6IluV"
       },
@@ -1923,6 +1907,22 @@
       "duration_ms": 236293,
       "name": "Que Me Lleven Canciones",
       "url": "https://open.spotify.com/track/3qi5CS04DKtP5eIzQZ5gI7"
+    },
+    {
+      "added_at": "2023-03-10 18:44:18",
+      "album": {
+        "name": "Dias de Ayer",
+        "url": "https://open.spotify.com/album/3uSh3AeT2wgBbLSxYcJupg"
+      },
+      "artists": [
+        {
+          "name": "Bobby Pulido",
+          "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
+        }
+      ],
+      "duration_ms": 206213,
+      "name": "Dias de Ayer",
+      "url": "https://open.spotify.com/track/7zSfoStk27KpJLg27Yz2Ba"
     },
     {
       "added_at": "2023-03-10 18:44:18",

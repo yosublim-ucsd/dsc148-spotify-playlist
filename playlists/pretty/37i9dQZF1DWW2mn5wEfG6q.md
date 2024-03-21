@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW2mn5wEfG6q.md) - [plain]
 
 > 2013 highlights from the home of indie music\. Cover: HAIM
 
-[Spotify](https://open.spotify.com/user/spotify) - 74,365 likes - 100 songs - 6 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 74,404 likes - 100 songs - 6 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,9 +34,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW2mn5wEfG6q.md) - [plain]
 | 24 | [Tennis Court](https://open.spotify.com/track/74fpNVAJrKGQuqHETi4WSt) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Pure Heroine](https://open.spotify.com/album/0rmhjUgoVa17LZuS8xWQ3v) | 3:18 |
 | 25 | [So Good at Being in Trouble](https://open.spotify.com/track/3DXHaJzqRCgv3rd5U9EoXU) | [Unknown Mortal Orchestra](https://open.spotify.com/artist/1LeVJ5GPeYDOVUjxx1y7Rp) | [II \(10 Year Anniversary Edition\)](https://open.spotify.com/album/1boMSpoKkFe901QZaU7Gb3) | 3:50 |
 | 26 | [Snap Out Of It](https://open.spotify.com/track/0NdTUS4UiNYCNn5FgVqKQY) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [AM](https://open.spotify.com/album/78bpIziExqiI9qztvNFlQu) | 3:13 |
-| 27 | [I Need My Girl](https://open.spotify.com/track/50M7nY1oQuNHecs0ahWAtI) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB) | [Trouble Will Find Me](https://open.spotify.com/album/4OI9hKTm1QMRQunqHCfSSL) | 4:05 |
+| 27 | [Red Eyes](https://open.spotify.com/track/0rUIff1QHd5zlOBtlHVqd9) | [The War On Drugs](https://open.spotify.com/artist/6g0mn3tzAds6aVeUYRsryU) | [Lost In The Dream](https://open.spotify.com/album/51VxHZphGLsI7aUPqIkJaz) | 4:58 |
 | 28 | [W.D.Y.W.F.M?](https://open.spotify.com/track/3vooOYHU0Fi3ViCG7Ozh0Y) | [The Neighbourhood](https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh) | [I Love You.](https://open.spotify.com/album/4xkM0BwLM9H2IUcbYzpcBI) | 4:19 |
-| 29 | [Red Eyes](https://open.spotify.com/track/0rUIff1QHd5zlOBtlHVqd9) | [The War On Drugs](https://open.spotify.com/artist/6g0mn3tzAds6aVeUYRsryU) | [Lost In The Dream](https://open.spotify.com/album/51VxHZphGLsI7aUPqIkJaz) | 4:58 |
+| 29 | [I Need My Girl](https://open.spotify.com/track/50M7nY1oQuNHecs0ahWAtI) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB) | [Trouble Will Find Me](https://open.spotify.com/album/4OI9hKTm1QMRQunqHCfSSL) | 4:05 |
 | 30 | [Robbers](https://open.spotify.com/track/06cCziAHtDg6pcsidZHu03) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [The 1975 \(Deluxe Version\)](https://open.spotify.com/album/0mkOUedmYlOzCC4tOm2v0c) | 4:14 |
 | 31 | [Retrograde](https://open.spotify.com/track/2IqjKEBiz0CdLKdkXhxw84) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU) | [Overgrown](https://open.spotify.com/album/53FEYOXnplxBWoQMmWn82U) | 3:43 |
 | 32 | [Alive](https://open.spotify.com/track/5WBnKCEsPwsvWHUZmLjS3s) | [Empire Of The Sun](https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c) | [Ice On The Dune](https://open.spotify.com/album/1olQuvonXXUEourYrj6daN) | 3:24 |
@@ -68,11 +68,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW2mn5wEfG6q.md) - [plain]
 | 58 | [Step](https://open.spotify.com/track/607EA1HsuzrqqaPuxyNqpD) | [Vampire Weekend](https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx) | [Modern Vampires of the City](https://open.spotify.com/album/1GXMNFfoHF4sN7lG8gZq1j) | 4:11 |
 | 59 | [You're Not Good Enough](https://open.spotify.com/track/7vcNp4cj4uF4AyX5aKY4Ps) | [Blood Orange](https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR) | [Cupid Deluxe](https://open.spotify.com/album/1bsLkHcWAGUao6Z1dHOEIB) | 4:21 |
 | 60 | [Berlin](https://open.spotify.com/track/7BSMSvK0WxrDeI98bswYa8) | [RY X](https://open.spotify.com/artist/2KjAo6wVc9d2WcxdxSArpV) | [Dawn](https://open.spotify.com/album/0DvauBOn2G8RIEQR54Cmiv) | 2:54 |
-| 61 | [Oblivion](https://open.spotify.com/track/3IvSKBO9Fu4yEWRPXvfrLU) | [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [All This Bad Blood](https://open.spotify.com/album/5G6oMu9zNW2acdV0lqzI3L) | 3:16 |
-| 62 | [Pumpin Blood](https://open.spotify.com/track/7ti4qMC7xYQeh1uRzj5XuM) | [NONONO](https://open.spotify.com/artist/513t0jZUP0K98C4h7KHtEb) | [We Are Only What We Feel](https://open.spotify.com/album/58z2Nvab8wcQNs0n4J3GNZ) | 3:29 |
+| 61 | [Pumpin Blood](https://open.spotify.com/track/7ti4qMC7xYQeh1uRzj5XuM) | [NONONO](https://open.spotify.com/artist/513t0jZUP0K98C4h7KHtEb) | [We Are Only What We Feel](https://open.spotify.com/album/58z2Nvab8wcQNs0n4J3GNZ) | 3:29 |
+| 62 | [Oblivion](https://open.spotify.com/track/3IvSKBO9Fu4yEWRPXvfrLU) | [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [All This Bad Blood](https://open.spotify.com/album/5G6oMu9zNW2acdV0lqzI3L) | 3:16 |
 | 63 | [Take It or Leave It](https://open.spotify.com/track/43O3Iu8mDJy10i6k8SVRXX) | [Cage The Elephant](https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3) | [Melophobia](https://open.spotify.com/album/4EK8gtQfdVsmDTji7gBFlz) | 3:27 |
-| 64 | [Purple Yellow Red and Blue](https://open.spotify.com/track/4WMuY659P2MKnoW40oGXe8) | [Portugal\. The Man](https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T) | [Evil Friends](https://open.spotify.com/album/6VoOCCv0bXPrTHDncJyIgF) | 4:09 |
-| 65 | [Swim and Sleep \(Like a Shark\)](https://open.spotify.com/track/265ehI4I7NfR8PmAXdpspn) | [Unknown Mortal Orchestra](https://open.spotify.com/artist/1LeVJ5GPeYDOVUjxx1y7Rp) | [II \(10 Year Anniversary Edition\)](https://open.spotify.com/album/1boMSpoKkFe901QZaU7Gb3) | 2:45 |
+| 64 | [Swim and Sleep \(Like a Shark\)](https://open.spotify.com/track/265ehI4I7NfR8PmAXdpspn) | [Unknown Mortal Orchestra](https://open.spotify.com/artist/1LeVJ5GPeYDOVUjxx1y7Rp) | [II \(10 Year Anniversary Edition\)](https://open.spotify.com/album/1boMSpoKkFe901QZaU7Gb3) | 2:45 |
+| 65 | [Purple Yellow Red and Blue](https://open.spotify.com/track/4WMuY659P2MKnoW40oGXe8) | [Portugal\. The Man](https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T) | [Evil Friends](https://open.spotify.com/album/6VoOCCv0bXPrTHDncJyIgF) | 4:09 |
 | 66 | [Girls](https://open.spotify.com/track/2zyz614fJRrqQXW1q0sY1c) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [The 1975 \(Deluxe Version\)](https://open.spotify.com/album/0mkOUedmYlOzCC4tOm2v0c) | 4:14 |
 | 67 | [Afterlife](https://open.spotify.com/track/7rL602DQps4QmrrjbinLzP) | [Arcade Fire](https://open.spotify.com/artist/3kjuyTCjPG1WMFCiyc5IuB) | [Reflektor](https://open.spotify.com/album/2brwuyGZ2lLqWnBX6U4MQT) | 5:53 |
 | 68 | [Diane Young](https://open.spotify.com/track/10f0hrbCBiQk9STrFG3EU7) | [Vampire Weekend](https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx) | [Modern Vampires of the City](https://open.spotify.com/album/1GXMNFfoHF4sN7lG8gZq1j) | 2:40 |
@@ -96,8 +96,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW2mn5wEfG6q.md) - [plain]
 | 86 | [Inhaler](https://open.spotify.com/track/4Wics9qaNdLtzfZOwl2mdw) | [Foals](https://open.spotify.com/artist/6FQqZYVfTNQ1pCqfkwVFEa) | [Holy Fire](https://open.spotify.com/album/6SBkXTPlJ3oEaFwRm5o2lD) | 4:52 |
 | 87 | [This is the Last Time](https://open.spotify.com/track/70ZuQywnmOpqcIiEnUA5yV) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB) | [Trouble Will Find Me](https://open.spotify.com/album/4OI9hKTm1QMRQunqHCfSSL) | 4:43 |
 | 88 | [Bad Blood](https://open.spotify.com/track/04D2wKcN9ju5IY06nwV24m) | [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [All This Bad Blood](https://open.spotify.com/album/5G6oMu9zNW2acdV0lqzI3L) | 3:32 |
-| 89 | [Wakin on a Pretty Day](https://open.spotify.com/track/4cCoZML1dPIQxNjOwDmJGf) | [Kurt Vile](https://open.spotify.com/artist/5gspAQIAH8nJUrMYgXjCJ2) | [Wakin On A Pretty Daze](https://open.spotify.com/album/3BSEZLnzVW6QEX12wcKdFi) | 9:30 |
-| 90 | [Entertainment](https://open.spotify.com/track/1fyVtrPPWQ6vWnchDoJc7o) | [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU) | [Bankrupt!](https://open.spotify.com/album/1MJotRlrO8AFegESeJRuBV) | 3:39 |
+| 89 | [Entertainment](https://open.spotify.com/track/1fyVtrPPWQ6vWnchDoJc7o) | [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU) | [Bankrupt!](https://open.spotify.com/album/1MJotRlrO8AFegESeJRuBV) | 3:39 |
+| 90 | [Wakin on a Pretty Day](https://open.spotify.com/track/4cCoZML1dPIQxNjOwDmJGf) | [Kurt Vile](https://open.spotify.com/artist/5gspAQIAH8nJUrMYgXjCJ2) | [Wakin On A Pretty Daze](https://open.spotify.com/album/3BSEZLnzVW6QEX12wcKdFi) | 9:30 |
 | 91 | [On Our Way](https://open.spotify.com/track/3GTXok0dIm0mMqBiVklBYS) | [The Royal Concept](https://open.spotify.com/artist/7LAucJAvbQa7ZIA0qP8YI2) | [Royal](https://open.spotify.com/album/4o7rdd2fYeSEXcTJLzpvsg) | 3:13 |
 | 92 | [Diamonds](https://open.spotify.com/track/0GLv1X9sA8gqzZs98g1B11) | [The Boxer Rebellion](https://open.spotify.com/artist/7DEseTqRODmSu3C7jxCHl5) | [Promises](https://open.spotify.com/album/3BZgZl0xKtlE8b00cEMOpK) | 4:05 |
 | 93 | [While I'm Alive](https://open.spotify.com/track/0hdITyuO1L5ZCTDFUiM4nQ) | [STRFKR](https://open.spotify.com/artist/2Tz1DTzVJ5Gyh8ZwVr6ekU) | [Miracle Mile](https://open.spotify.com/album/1bvGSdxElbk5CTTPIrWO2L) | 3:48 |
@@ -105,8 +105,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW2mn5wEfG6q.md) - [plain]
 | 95 | [Warm Water \- Snakehips Remix](https://open.spotify.com/track/63Ly2sEzloc9s0yAXlMi6r) | [BANKS](https://open.spotify.com/artist/2xe8IXgCTpwHE3eA9hTs4n), [Snakehips](https://open.spotify.com/artist/2FwJwEswyIUAljqgjNSHgP) | [Warm Water \(Snakehips Remix\)](https://open.spotify.com/album/41xJklJV7uqDzg9teggeR6) | 4:13 |
 | 96 | [Hurricane](https://open.spotify.com/track/35aNHKBZWXXbL9KQK7O5Nk) | [MS MR](https://open.spotify.com/artist/4XaUmUGjidSklcDHxv3XWf) | [Secondhand Rapture](https://open.spotify.com/album/3OzeRt6qBaj92n9yjiZBPt) | 3:46 |
 | 97 | [Atomic Man](https://open.spotify.com/track/43QhrhgRrH9NWy6eoUro4X) | [Portugal\. The Man](https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T) | [Evil Friends](https://open.spotify.com/album/6VoOCCv0bXPrTHDncJyIgF) | 3:47 |
-| 98 | [Trying To Be Cool](https://open.spotify.com/track/0UpuOCp6EU4BZabgmBqr1o) | [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU) | [Bankrupt!](https://open.spotify.com/album/1MJotRlrO8AFegESeJRuBV) | 3:48 |
-| 99 | [Smother](https://open.spotify.com/track/2Fa5PjvjXH1qKWI0umk4oY) | [Daughter](https://open.spotify.com/artist/46CitWgnWrvF9t70C2p1Me) | [If You Leave](https://open.spotify.com/album/2jI09gnkDzKp6EQg9VvnGM) | 4:00 |
+| 98 | [Smother](https://open.spotify.com/track/2Fa5PjvjXH1qKWI0umk4oY) | [Daughter](https://open.spotify.com/artist/46CitWgnWrvF9t70C2p1Me) | [If You Leave](https://open.spotify.com/album/2jI09gnkDzKp6EQg9VvnGM) | 4:00 |
+| 99 | [Trying To Be Cool](https://open.spotify.com/track/0UpuOCp6EU4BZabgmBqr1o) | [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU) | [Bankrupt!](https://open.spotify.com/album/1MJotRlrO8AFegESeJRuBV) | 3:48 |
 | 100 | [Wasting My Young Years](https://open.spotify.com/track/3elOzp9X3B8vMGhJBWzbIF) | [London Grammar](https://open.spotify.com/artist/3Bd1cgCjtCI32PYvDC3ynO) | [If You Wait](https://open.spotify.com/album/2J4dwQHk8EZKPKGhM1EzOU) | 3:24 |
 
-Snapshot ID: `MCwzNDAxZjZjNzM3Y2RhMDFlZTFkYThjZGUzNDA3ZWNlMjVkYzdlMzUz`
+Snapshot ID: `MCwzZTE4Yjk2NDMzNTkxMWRiNzE2ODE0ZTk4MzdkYzUzNjQ5Y2ViMTgy`

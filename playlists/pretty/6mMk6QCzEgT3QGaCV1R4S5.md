@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/6mMk6QCzEgT3QGaCV1R4S5.md) - [plain]
 
 ### [Dancefloor Beats](https://open.spotify.com/playlist/6mMk6QCzEgT3QGaCV1R4S5)
 
-> Get moving on the dancefloor with some big room beats! Cover: Frank Walker &amp; Nate Smith
+> Get moving on the dancefloor with some big room beats! Cover: Young Bombs
 
-[Filtr Canada	](https://open.spotify.com/user/filtr.ca) - 36,933 likes - 60 songs - 2 hr 53 min
+[Filtr Canada	](https://open.spotify.com/user/filtr.ca) - 36,931 likes - 60 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/6mMk6QCzEgT3QGaCV1R4S5.md) - [plain]
 | 59 | [My Pony](https://open.spotify.com/track/1JDyaGheki2RWcVzXBwfBC) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ) | [My Pony](https://open.spotify.com/album/16oQXEs12KIgDFwjjjOnpg) | 2:33 |
 | 60 | [Obsessed \(with Charlie Puth & Shenseea\)](https://open.spotify.com/track/0b5CzUhyShYuDdtW5J4wm2) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7), [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB) | [Funk Wav Bounces Vol\. 2](https://open.spotify.com/album/49DV9eFp2xTdtO7veew5xS) | 3:46 |
 
-Snapshot ID: `ODE1OCwzMjc4Yjk2ZWIxYzMyM2RlY2UxNjUwNWUzZTNhNzNiMDdhOGFjNDBm`
+Snapshot ID: `ODE1OSxjM2M1MWNjNGM0OWY5NGU1Y2VkMTlkMTdjNjdkNjRkMzE3MWNkMWQx`

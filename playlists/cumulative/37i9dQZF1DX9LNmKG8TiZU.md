@@ -4,7 +4,7 @@
 
 > Des titres pop, tout en douceur\. Photo : ZAYN
 
-157 songs - 8 hr 45 min
+158 songs - 8 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -147,7 +147,8 @@
 | [This could have been my summer](https://open.spotify.com/track/6fZPOZXvC8oyqMGLma0dY2) | [Angelina Beroe](https://open.spotify.com/artist/4EZjCeU9fbZidk5dS2nl0q) | [This could have been my summer](https://open.spotify.com/album/00YJr1XCVk6niqQjzrDbd9) | 4:10 | 2023-06-07 | 2024-02-09 |
 | [this is what autumn feels like](https://open.spotify.com/track/2YOGCTiPJWMhZRdeadFj8G) | [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK) | [this is what autumn feels like](https://open.spotify.com/album/7J1igBIEs797Vk07u18VdI) | 3:39 | 2023-11-09 | 2024-03-15 |
 | [TIME!](https://open.spotify.com/track/571eDSnPzwHNL3233ICp6w) | [Virginia To Vegas](https://open.spotify.com/artist/3v9wPA58IVrX2dg6AjSPgi) | [the greatest hits](https://open.spotify.com/album/6RY9gppYrTRUHBHvPWfPyW) | 3:12 | 2024-03-07 | 2024-03-15 |
-| [Too Good to be True](https://open.spotify.com/track/4vIiVs5JoNfqqRi5o7jAIb) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Too Good to be True](https://open.spotify.com/album/57y7NpfTINlnrNitu8vwft) | 2:40 | 2024-02-29 |  |
+| [Too Good to be True](https://open.spotify.com/track/27RDQ0TfxzWMlQFuKrPT11) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Deeper Well](https://open.spotify.com/album/5SxZmGwc4eJuPp6PcO4JgJ) | 2:40 | 2024-03-14 |  |
+| [Too Good to be True](https://open.spotify.com/track/4vIiVs5JoNfqqRi5o7jAIb) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Too Good to be True](https://open.spotify.com/album/57y7NpfTINlnrNitu8vwft) | 2:40 | 2024-02-29 | 2024-03-21 |
 | [TV](https://open.spotify.com/track/3GYlZ7tbxLOxe6ewMNVTkw) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Guitar Songs](https://open.spotify.com/album/1YPWxMpQEC8kcOuefgXbhj) | 4:41 | 2022-12-21 | 2023-12-22 |
 | [Unlearn \(with Gracie Abrams\)](https://open.spotify.com/track/0eT4sEeeudOolC4hivApL9) | [benny blanco](https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa), [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [FRIENDS KEEP SECRETS 2](https://open.spotify.com/album/7jainWomsRbTs5dGUOP21C) | 2:34 | 2022-12-21 | 2023-03-11 |
 | [Until I Found You](https://open.spotify.com/track/0T5iIrXA4p5GsubkhuBIKV) | [Stephen Sanchez](https://open.spotify.com/artist/5XKFrudbV4IiuE5WuTPRmT) | [Until I Found You](https://open.spotify.com/album/18CtLoAMTr7F8ngtuM6D8i) | 2:57 | 2022-12-21 | 2023-02-04 |

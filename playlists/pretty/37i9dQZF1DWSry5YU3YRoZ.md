@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSry5YU3YRoZ.md) - [plain]
 
 > 차분하고 감성적인 음악들과 함께 편안한 밤 되세요 :\) \(Listen to K\-Pop sleeping songs\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,808 likes - 50 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,816 likes - 50 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,8 +18,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSry5YU3YRoZ.md) - [plain]
 | 8 | [When love passes by](https://open.spotify.com/track/2e9GsDKqjTGRbv6lI3mK9E) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [A flower bookmark](https://open.spotify.com/album/460uGpon2JwPfRgDohV2bP) | 4:00 |
 | 9 | [내가 니편이 되어 줄게 I Will Be on Your Side](https://open.spotify.com/track/15EEempFA9NjYGXhjxs9H7) | [Coffeeboy](https://open.spotify.com/artist/5F0ZKImhec2HLnFQzsl1CM) | [세 번째 음악 로스팅 3rd Music Roasting](https://open.spotify.com/album/4mTjpPc2hkMI2cJ1dnMzle) | 5:57 |
 | 10 | [Sweet Lullaby](https://open.spotify.com/track/1NHf1Nuumrgje7lmuM2QVY) | [Paul Kim](https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv) | [Sweet Lullaby](https://open.spotify.com/album/65RzyhETVL6M4MmdMRcM5X) | 3:15 |
-| 11 | [Listen And Sleep](https://open.spotify.com/track/524zQBp9uyUs3e77GE5tZ8) | [J\_ust](https://open.spotify.com/artist/6Jj218qsLCZlYHwRGbXEGZ) | [Would You Sleep?](https://open.spotify.com/album/5onylFvAu8WKvHvPGC46lF) | 4:37 |
-| 12 | [짝사랑 Crush](https://open.spotify.com/track/6qBVH4v2yOfchMI5e89CU8) | [10CM](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp) | [3.0](https://open.spotify.com/album/42dd15HniCOYITYPuW5z2P) | 3:59 |
+| 11 | [짝사랑 Crush](https://open.spotify.com/track/6qBVH4v2yOfchMI5e89CU8) | [10CM](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp) | [3.0](https://open.spotify.com/album/42dd15HniCOYITYPuW5z2P) | 3:59 |
+| 12 | [Listen And Sleep](https://open.spotify.com/track/524zQBp9uyUs3e77GE5tZ8) | [J\_ust](https://open.spotify.com/artist/6Jj218qsLCZlYHwRGbXEGZ) | [Would You Sleep?](https://open.spotify.com/album/5onylFvAu8WKvHvPGC46lF) | 4:37 |
 | 13 | [Going Home](https://open.spotify.com/track/4tHETrzVBsR50PKRmw9yZA) | [Sunwoojunga](https://open.spotify.com/artist/04L3elxyr0XFua2Ek3domW) | [Call It Love, Part 3 \(Original Soundtrack from the Disney+ Original Series\)](https://open.spotify.com/album/6nymfoD8cwhnm1jMkuHvI2) | 4:57 |
 | 14 | [The Little](https://open.spotify.com/track/464Ymo9CA1fD7lzgUnoijt) | [Yeon seo](https://open.spotify.com/artist/0qSvXeaski5Xii16GeehVl) | [The Little](https://open.spotify.com/album/2Eg215da9ZVMDyMXIBAjaM) | 3:04 |
 | 15 | [Your River In Me](https://open.spotify.com/track/5HXsVPuYRetTawWcU4hB9K) | [O3ohn](https://open.spotify.com/artist/3ZPELd2uCgchQqhLgvrDrI) | [Link: Eat, Love, Kill \(Original Television Soundtrack\), Pt\. 1](https://open.spotify.com/album/2UV7qUU9tgPwbf2PUHYPiC) | 4:48 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSry5YU3YRoZ.md) - [plain]
 | 49 | [Call me now](https://open.spotify.com/track/7AfXFqHlw1HVRPobCInpsU) | [JI JIN SEOK](https://open.spotify.com/artist/5iwc2ZJnuU9g4F6JaAY6Zw) | [Call me now](https://open.spotify.com/album/31a95WflUiSabbWq0RAchF) | 3:53 |
 | 50 | [Stay](https://open.spotify.com/track/07DtMQtRiP5vEAFWzKq82g) | [JEONG EUN JI](https://open.spotify.com/artist/7cgAZ03K2mMaWB70gwZs92) | [Simple](https://open.spotify.com/album/3UM9M1xTkqU6Df6Cciui5J) | 4:10 |
 
-Snapshot ID: `MCwxY2FhNmYxNWM3ZmNmYTdmNmEwOTBmZDEwMGE4M2I5ZDBlZDViZmFj`
+Snapshot ID: `MCw2NjUwODU1ZDM3ZTZkYTNkMjc2NjIxNjNiODQwYjhhMTgxNjg0NTQ0`

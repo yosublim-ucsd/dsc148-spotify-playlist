@@ -1,12 +1,12 @@
 {
   "description": "Celebramos a las figuras legendarias del rock en nuestro idioma. Foto: Soda Stereo.",
-  "num_followers": 654814,
+  "num_followers": 654971,
   "original_name": "Iconos del Rock Latinoamericano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxZWIyOTY3YWMzYWQ4NzQxNWRkNjY3ODQ2OWYwYzhjNDFhODYzMDAw",
+  "snapshot_id": "MCxhMTcyZDBkNjc2MWE4YjEzODEwMmNjZjAzZDhmODA5NjQ4MGYzYzFk",
   "tracks": [
     {
       "added_at": "2024-03-13 20:57:35",
@@ -171,8 +171,8 @@
     {
       "added_at": "2024-03-13 20:57:35",
       "album": {
-        "name": "Falta Amor",
-        "url": "https://open.spotify.com/album/0umE2yr7H5jo91x7xhjoXY"
+        "name": "Sue\u00f1os L\u00edquidos",
+        "url": "https://open.spotify.com/album/7ydFJUb1tmZPd6p4xIe10V"
       },
       "artists": [
         {
@@ -180,9 +180,9 @@
           "url": "https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz"
         }
       ],
-      "duration_ms": 250106,
-      "name": "Rayando el Sol",
-      "url": "https://open.spotify.com/track/4Ofg5uuH7qqDIXpAJMpXZV"
+      "duration_ms": 310813,
+      "name": "Clavado en Un Bar",
+      "url": "https://open.spotify.com/track/78DVpEWwmJFC25KGz8fJuE"
     },
     {
       "added_at": "2024-03-13 20:57:35",
@@ -283,18 +283,18 @@
     {
       "added_at": "2024-03-13 20:57:35",
       "album": {
-        "name": "El Ritmo Mundial",
-        "url": "https://open.spotify.com/album/4jrl8361FYPSK2gdEEKATh"
+        "name": "Amantes Sunt Amentes",
+        "url": "https://open.spotify.com/album/1IPg7NZ0YLxARNx5Qs4936"
       },
       "artists": [
         {
-          "name": "Los Fabulosos Cadillacs",
-          "url": "https://open.spotify.com/artist/2FS22haX3FYbyOsUAkuYqZ"
+          "name": "PXNDX",
+          "url": "https://open.spotify.com/artist/5NNlkZBrBpOJ7C11JwVxIj"
         }
       ],
-      "duration_ms": 279986,
-      "name": "Vasos Vac\u00edos - Remasterizado 2008",
-      "url": "https://open.spotify.com/track/198qSChSMQFuSimdeeY9gK"
+      "duration_ms": 207786,
+      "name": "Los Malaventurados No Lloran",
+      "url": "https://open.spotify.com/track/66PRDvzBHhbcdbc4T4mrZY"
     },
     {
       "added_at": "2024-03-13 20:57:35",
@@ -315,24 +315,24 @@
     {
       "added_at": "2024-03-13 20:57:35",
       "album": {
-        "name": "Amantes Sunt Amentes",
-        "url": "https://open.spotify.com/album/1IPg7NZ0YLxARNx5Qs4936"
+        "name": "El Ritmo Mundial",
+        "url": "https://open.spotify.com/album/4jrl8361FYPSK2gdEEKATh"
       },
       "artists": [
         {
-          "name": "PXNDX",
-          "url": "https://open.spotify.com/artist/5NNlkZBrBpOJ7C11JwVxIj"
+          "name": "Los Fabulosos Cadillacs",
+          "url": "https://open.spotify.com/artist/2FS22haX3FYbyOsUAkuYqZ"
         }
       ],
-      "duration_ms": 207786,
-      "name": "Los Malaventurados No Lloran",
-      "url": "https://open.spotify.com/track/66PRDvzBHhbcdbc4T4mrZY"
+      "duration_ms": 279986,
+      "name": "Vasos Vac\u00edos - Remasterizado 2008",
+      "url": "https://open.spotify.com/track/198qSChSMQFuSimdeeY9gK"
     },
     {
       "added_at": "2024-03-13 20:57:35",
       "album": {
-        "name": "Sue\u00f1os L\u00edquidos",
-        "url": "https://open.spotify.com/album/7ydFJUb1tmZPd6p4xIe10V"
+        "name": "Falta Amor",
+        "url": "https://open.spotify.com/album/0umE2yr7H5jo91x7xhjoXY"
       },
       "artists": [
         {
@@ -340,9 +340,9 @@
           "url": "https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz"
         }
       ],
-      "duration_ms": 310813,
-      "name": "Clavado en Un Bar",
-      "url": "https://open.spotify.com/track/78DVpEWwmJFC25KGz8fJuE"
+      "duration_ms": 250106,
+      "name": "Rayando el Sol",
+      "url": "https://open.spotify.com/track/4Ofg5uuH7qqDIXpAJMpXZV"
     },
     {
       "added_at": "2024-03-13 20:57:35",
@@ -1003,6 +1003,22 @@
     {
       "added_at": "2024-03-13 20:57:35",
       "album": {
+        "name": "Dalt\u00f3nico",
+        "url": "https://open.spotify.com/album/5oWrwOXe12fNZc4r13XODy"
+      },
+      "artists": [
+        {
+          "name": "Enjambre",
+          "url": "https://open.spotify.com/artist/1ZdhAl62G6ZlEKqIwUAfZR"
+        }
+      ],
+      "duration_ms": 224085,
+      "name": "Dulce Soledad",
+      "url": "https://open.spotify.com/track/0BKJNlqLlNvvIunfg2BPCg"
+    },
+    {
+      "added_at": "2024-03-13 20:57:35",
+      "album": {
         "name": "La Ley MTV Unplugged",
         "url": "https://open.spotify.com/album/0QkgxSUu5hG0yMkmVXBFKi"
       },
@@ -1035,18 +1051,18 @@
     {
       "added_at": "2024-03-13 20:57:35",
       "album": {
-        "name": "Dalt\u00f3nico",
-        "url": "https://open.spotify.com/album/5oWrwOXe12fNZc4r13XODy"
+        "name": "El Amor Despu\u00e9s del Amor",
+        "url": "https://open.spotify.com/album/1nDTw13U4zW8YuelhilKW5"
       },
       "artists": [
         {
-          "name": "Enjambre",
-          "url": "https://open.spotify.com/artist/1ZdhAl62G6ZlEKqIwUAfZR"
+          "name": "Fito Paez",
+          "url": "https://open.spotify.com/artist/1bZNv4q3OxYq7mmnLha7Tu"
         }
       ],
-      "duration_ms": 224085,
-      "name": "Dulce Soledad",
-      "url": "https://open.spotify.com/track/0BKJNlqLlNvvIunfg2BPCg"
+      "duration_ms": 311893,
+      "name": "El amor despu\u00e9s del amor",
+      "url": "https://open.spotify.com/track/1PQzZbitOJ6XPFg7FFzsKQ"
     },
     {
       "added_at": "2024-03-13 20:57:35",
@@ -1063,22 +1079,6 @@
       "duration_ms": 161800,
       "name": "La Muralla Verde",
       "url": "https://open.spotify.com/track/1qvY1z3Wm3sAYeHfPTnrbI"
-    },
-    {
-      "added_at": "2024-03-13 20:57:35",
-      "album": {
-        "name": "El Amor Despu\u00e9s del Amor",
-        "url": "https://open.spotify.com/album/1nDTw13U4zW8YuelhilKW5"
-      },
-      "artists": [
-        {
-          "name": "Fito Paez",
-          "url": "https://open.spotify.com/artist/1bZNv4q3OxYq7mmnLha7Tu"
-        }
-      ],
-      "duration_ms": 311893,
-      "name": "El amor despu\u00e9s del amor",
-      "url": "https://open.spotify.com/track/1PQzZbitOJ6XPFg7FFzsKQ"
     },
     {
       "added_at": "2024-03-13 20:57:35",
@@ -1163,22 +1163,6 @@
     {
       "added_at": "2024-03-13 20:57:35",
       "album": {
-        "name": "Invisible",
-        "url": "https://open.spotify.com/album/5aocKknfljbM7XK3PWPVRi"
-      },
-      "artists": [
-        {
-          "name": "La Ley",
-          "url": "https://open.spotify.com/artist/1ZVoRDO29AlDXiMkRLMZSK"
-        }
-      ],
-      "duration_ms": 194573,
-      "name": "El Duelo",
-      "url": "https://open.spotify.com/track/3XHg42QOqlevRU7jXRkAKk"
-    },
-    {
-      "added_at": "2024-03-13 20:57:35",
-      "album": {
         "name": "Una rola para los minusv\u00e1lidos",
         "url": "https://open.spotify.com/album/1gk6tISd64foZA1eWwDnNg"
       },
@@ -1191,6 +1175,22 @@
       "duration_ms": 198040,
       "name": "Las piedras rodantes",
       "url": "https://open.spotify.com/track/1gd7Q7mxviLWkG5HgvAMAc"
+    },
+    {
+      "added_at": "2024-03-13 20:57:35",
+      "album": {
+        "name": "Invisible",
+        "url": "https://open.spotify.com/album/5aocKknfljbM7XK3PWPVRi"
+      },
+      "artists": [
+        {
+          "name": "La Ley",
+          "url": "https://open.spotify.com/artist/1ZVoRDO29AlDXiMkRLMZSK"
+        }
+      ],
+      "duration_ms": 194573,
+      "name": "El Duelo",
+      "url": "https://open.spotify.com/track/3XHg42QOqlevRU7jXRkAKk"
     },
     {
       "added_at": "2024-03-13 20:57:35",
@@ -1343,22 +1343,6 @@
     {
       "added_at": "2024-03-13 20:57:35",
       "album": {
-        "name": "Antihumano",
-        "url": "https://open.spotify.com/album/3NsuNDcnIc0jAxpC9svIbz"
-      },
-      "artists": [
-        {
-          "name": "Attaque 77",
-          "url": "https://open.spotify.com/artist/5rI6C5mJm6GYXbGHhpHTu9"
-        }
-      ],
-      "duration_ms": 259186,
-      "name": "Arrancacorazones",
-      "url": "https://open.spotify.com/track/2zogXcCqvKJwh3o67W3GG3"
-    },
-    {
-      "added_at": "2024-03-13 20:57:35",
-      "album": {
         "name": "Coleccion Suprema",
         "url": "https://open.spotify.com/album/62mYqA8S00dcrD42jmml86"
       },
@@ -1371,6 +1355,22 @@
       "duration_ms": 298226,
       "name": "Estrechez De Coraz\u00f3n",
       "url": "https://open.spotify.com/track/4oR2kX5BI50GBnQGRdRRsM"
+    },
+    {
+      "added_at": "2024-03-13 20:57:35",
+      "album": {
+        "name": "Antihumano",
+        "url": "https://open.spotify.com/album/3NsuNDcnIc0jAxpC9svIbz"
+      },
+      "artists": [
+        {
+          "name": "Attaque 77",
+          "url": "https://open.spotify.com/artist/5rI6C5mJm6GYXbGHhpHTu9"
+        }
+      ],
+      "duration_ms": 259186,
+      "name": "Arrancacorazones",
+      "url": "https://open.spotify.com/track/2zogXcCqvKJwh3o67W3GG3"
     },
     {
       "added_at": "2024-03-13 20:57:35",
@@ -1443,22 +1443,6 @@
     {
       "added_at": "2024-03-13 20:57:35",
       "album": {
-        "name": "Locura",
-        "url": "https://open.spotify.com/album/5K3EGqntkI4To4TKtmIj2r"
-      },
-      "artists": [
-        {
-          "name": "Virus",
-          "url": "https://open.spotify.com/artist/0G7A5LzQAs2egiQl7hO5tV"
-        }
-      ],
-      "duration_ms": 316426,
-      "name": "Luna de Miel en la Mano",
-      "url": "https://open.spotify.com/track/1qWLCuCnNcQVVzJm4pu7Zv"
-    },
-    {
-      "added_at": "2024-03-13 20:57:35",
-      "album": {
         "name": "Avalancha",
         "url": "https://open.spotify.com/album/3AikSptzlt3YvobRSMqL68"
       },
@@ -1471,6 +1455,22 @@
       "duration_ms": 327426,
       "name": "La chispa adecuada (Bendecida 3)",
       "url": "https://open.spotify.com/track/4vkSJSyPddHwL7v3l1cuRf"
+    },
+    {
+      "added_at": "2024-03-13 20:57:35",
+      "album": {
+        "name": "Locura",
+        "url": "https://open.spotify.com/album/5K3EGqntkI4To4TKtmIj2r"
+      },
+      "artists": [
+        {
+          "name": "Virus",
+          "url": "https://open.spotify.com/artist/0G7A5LzQAs2egiQl7hO5tV"
+        }
+      ],
+      "duration_ms": 316426,
+      "name": "Luna de Miel en la Mano",
+      "url": "https://open.spotify.com/track/1qWLCuCnNcQVVzJm4pu7Zv"
     },
     {
       "added_at": "2024-03-13 20:57:35",
@@ -1603,18 +1603,18 @@
     {
       "added_at": "2024-03-13 20:57:35",
       "album": {
-        "name": "25 a\u00f1os",
-        "url": "https://open.spotify.com/album/1nscC8n3kewpA9DAHybQ9L"
+        "name": "Compa\u00f1eros Musicales",
+        "url": "https://open.spotify.com/album/5Hr76OES2ZCR3rwONS7nlw"
       },
       "artists": [
         {
-          "name": "El Tri",
-          "url": "https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne"
+          "name": "Panteon Rococo",
+          "url": "https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5"
         }
       ],
-      "duration_ms": 230693,
-      "name": "Pobre so\u00f1ador",
-      "url": "https://open.spotify.com/track/6UjxBtLPznyXztlMAFrtOW"
+      "duration_ms": 213720,
+      "name": "La Carencia",
+      "url": "https://open.spotify.com/track/1v3rQg6uPY6AnOY5TtxN7I"
     }
   ],
   "unique_name": "Iconos del Rock Latinoamericano",

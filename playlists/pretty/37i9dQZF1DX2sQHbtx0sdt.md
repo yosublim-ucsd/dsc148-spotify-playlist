@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2sQHbtx0sdt.md) - [plain]
 
 > New and trending hip\-hop from around the world\. Cover: Nemzzz
 
-[Spotify](https://open.spotify.com/user/spotify) - 62,239 likes - 100 songs - 4 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 62,589 likes - 100 songs - 4 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2sQHbtx0sdt.md) - [plain]
 | 99 | [Freedom Of Speech](https://open.spotify.com/track/3WZefKhtpq0ZZABbBLYA4n) | [ONEFOUR](https://open.spotify.com/artist/6kQfGeicc9EiQMzAYX0f9U) | [Freedom Of Speech](https://open.spotify.com/album/2wmsAKoZTwxdjzJgLNKji8) | 2:49 |
 | 100 | [Saga](https://open.spotify.com/track/0Cnw4vb7xbbl6bkUaDcMaJ) | [Booba](https://open.spotify.com/artist/58wXmynHaAWI5hwlPZP3qL) | [AD VITAM ÆTERNAM](https://open.spotify.com/album/5nAPqNlNOBzQjLv3JK5zxM) | 3:14 |
 
-Snapshot ID: `MCw1YWFkMzFhODI5Njg1NzJhYjcwYTRlM2Y4Nzg0N2RhNzhjODc5ZWFk`
+Snapshot ID: `MCw5ODgyMjZhZGYzYzA0M2Q4NjY5MzY0MWU0NTk3ZmRmN2I2NzMwYTBm`

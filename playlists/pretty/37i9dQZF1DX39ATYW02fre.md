@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX39ATYW02fre.md) - [plain]
 
 > Beautiful electronic music for melancholy moments.
 
-[Spotify](https://open.spotify.com/user/spotify) - 225,884 likes - 50 songs - 3 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 225,914 likes - 50 songs - 3 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX39ATYW02fre.md) - [plain]
 | 26 | [Throwaway \(with Clairo\)](https://open.spotify.com/track/2MnEG4htbbdfoUsyzxZ4BM) | [SG Lewis](https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG), [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Dawn](https://open.spotify.com/album/57TxOlFzG9yvAKEdjjm2yB) | 3:00 |
 | 27 | [Break Apart](https://open.spotify.com/track/2pYvd6cHcAIMAM6xMD6nok) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb), [Rhye](https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN) | [Migration](https://open.spotify.com/album/2T64N96AVfsrRFJCUXQEoZ) | 4:34 |
 | 28 | [Favourite Place](https://open.spotify.com/track/36bQ9KQlmwNZnccm7MMjjP) | [edapollo](https://open.spotify.com/artist/5BCLvW3qaUm39VjiZ8INmm), [Fractures](https://open.spotify.com/artist/7sjRnhONmeFL1tmlUvdq70) | [Favourite Place](https://open.spotify.com/album/0hi96KFhhFchURSGce2nq1) | 3:00 |
-| 29 | [Looped](https://open.spotify.com/track/2bB6iDVgm25WkYv0yBz1BD) | [Kiasmos](https://open.spotify.com/artist/6X8lhZ7YaRUBlOsOYimlyD) | [Kiasmos](https://open.spotify.com/album/7pBDu7nc2KaMsh0SfZMc2d) | 6:00 |
-| 30 | [Two Thousand and Seventeen](https://open.spotify.com/track/2ZIaH69kaz55RM4Pjx6KXl) | [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh) | [New Energy](https://open.spotify.com/album/74r6JJ97ipO0CREXP9PMqZ) | 4:12 |
+| 29 | [Two Thousand and Seventeen](https://open.spotify.com/track/2ZIaH69kaz55RM4Pjx6KXl) | [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh) | [New Energy](https://open.spotify.com/album/74r6JJ97ipO0CREXP9PMqZ) | 4:12 |
+| 30 | [Looped](https://open.spotify.com/track/2bB6iDVgm25WkYv0yBz1BD) | [Kiasmos](https://open.spotify.com/artist/6X8lhZ7YaRUBlOsOYimlyD) | [Kiasmos](https://open.spotify.com/album/7pBDu7nc2KaMsh0SfZMc2d) | 6:00 |
 | 31 | [Dawn Chorus](https://open.spotify.com/track/2iQPembmg5KvkqXU0sd6xo) | [Thom Yorke](https://open.spotify.com/artist/4CvTDPKA6W06DRfBnZKrau) | [ANIMA](https://open.spotify.com/album/5DDPFOJVHhc93OlqirbAtm) | 5:23 |
 | 32 | [Can't Do Without You](https://open.spotify.com/track/5owacNcWuezb4JHoGdoQSj) | [Caribou](https://open.spotify.com/artist/4aEnNH9PuU1HF3TsZTru54) | [Our Love](https://open.spotify.com/album/4JOmLltFC735tBL7jfHfA7) | 3:56 |
 | 33 | [Petals](https://open.spotify.com/track/2wQlywnCQG88drPNdEOuRO) | [Bibio](https://open.spotify.com/artist/0qzzGu8qpbXYpzgV52wOFT) | [A Mineral Love](https://open.spotify.com/album/1XyvqZhfSsxO03MesQpaQn) | 2:36 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX39ATYW02fre.md) - [plain]
 | 49 | [Kyle \(i found you\)](https://open.spotify.com/track/0v1g5U1OAb0XBjKyA8R36i) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Kyle \(i found you\)](https://open.spotify.com/album/2myK0q2FH45JQRUxepp4en) | 3:16 |
 | 50 | [Howling](https://open.spotify.com/track/34hMOtKwf5nm8tjvkGV0Dk) | [RY X](https://open.spotify.com/artist/2KjAo6wVc9d2WcxdxSArpV) | [Dawn](https://open.spotify.com/album/0DvauBOn2G8RIEQR54Cmiv) | 5:09 |
 
-Snapshot ID: `MCw5NDE1NDEyZTUyY2U1NDczZTNiZDBmMzIyMGE0MDI3OTc5ZmU2MDIw`
+Snapshot ID: `MCw2ZTk3YTg0OWI0M2QyNTcyYzMwOTM3YTAyNDJkNjVlN2Y4MTE5OTMw`

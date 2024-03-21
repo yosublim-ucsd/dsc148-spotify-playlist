@@ -1,12 +1,12 @@
 {
   "description": "Home of the best bands orbiting the universe right now. Cover: Bleachers",
-  "num_followers": 109594,
+  "num_followers": 109659,
   "original_name": "The Best Bands In The Universe \ud83e\ude90",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3YmQ2NTY4YjgwYjFkZTEwNGRjZDY5YTljZGUxZTAyZDkwOTJjNmU4",
+  "snapshot_id": "MCw5NjA1NWFjM2NiNGRmNzFlZWQ2OWZkZmUxYTUxNzlhZmU3ZGQxYTdl",
   "tracks": [
     {
       "added_at": "2024-03-11 23:40:41",
@@ -299,18 +299,18 @@
     {
       "added_at": "2024-03-11 23:40:41",
       "album": {
-        "name": "A Love International",
-        "url": "https://open.spotify.com/album/3PKIvfo8AFCJr9dhUiKQf9"
+        "name": "Dreamland",
+        "url": "https://open.spotify.com/album/5bfpRtBW7RNRdsm3tRyl3R"
       },
       "artists": [
         {
-          "name": "Khruangbin",
-          "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk"
+          "name": "Glass Animals",
+          "url": "https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq"
         }
       ],
-      "duration_ms": 255100,
-      "name": "A Love International",
-      "url": "https://open.spotify.com/track/6Am9eCuCQELrIqImfCLhgM"
+      "duration_ms": 200583,
+      "name": "Tangerine",
+      "url": "https://open.spotify.com/track/40rOlDoGejXXF4B0BYsjx8"
     },
     {
       "added_at": "2024-03-11 23:40:41",
@@ -331,18 +331,18 @@
     {
       "added_at": "2024-03-11 23:40:41",
       "album": {
-        "name": "Dreamland",
-        "url": "https://open.spotify.com/album/5bfpRtBW7RNRdsm3tRyl3R"
+        "name": "A Love International",
+        "url": "https://open.spotify.com/album/3PKIvfo8AFCJr9dhUiKQf9"
       },
       "artists": [
         {
-          "name": "Glass Animals",
-          "url": "https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq"
+          "name": "Khruangbin",
+          "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk"
         }
       ],
-      "duration_ms": 200583,
-      "name": "Tangerine",
-      "url": "https://open.spotify.com/track/40rOlDoGejXXF4B0BYsjx8"
+      "duration_ms": 255100,
+      "name": "A Love International",
+      "url": "https://open.spotify.com/track/6Am9eCuCQELrIqImfCLhgM"
     },
     {
       "added_at": "2024-03-11 23:40:41",
@@ -1051,22 +1051,18 @@
     {
       "added_at": "2024-03-11 23:40:41",
       "album": {
-        "name": "Willow (feat. Lucy Rose)",
-        "url": "https://open.spotify.com/album/2ZbZBB7CCWqi9kgnmlSHM3"
+        "name": "Spirit Mission",
+        "url": "https://open.spotify.com/album/31t6VcIOZ3WqsSH2F9Zcy0"
       },
       "artists": [
         {
-          "name": "Bombay Bicycle Club",
-          "url": "https://open.spotify.com/artist/3pTE9iaJTkWns3mxpNQlJV"
-        },
-        {
-          "name": "Lucy Rose",
-          "url": "https://open.spotify.com/artist/2uvY5pgdD9t1CZ5zMNw1rl"
+          "name": "Sure Sure",
+          "url": "https://open.spotify.com/artist/1anAI9P9iSzc9qzLv6AtHZ"
         }
       ],
-      "duration_ms": 249693,
-      "name": "Willow (feat. Lucy Rose)",
-      "url": "https://open.spotify.com/track/7m1qFwzJnebBiWkzE7RgDq"
+      "duration_ms": 246200,
+      "name": "Funky Galileo",
+      "url": "https://open.spotify.com/track/7rNnqDOzc3Qoom2VhIyuxx"
     },
     {
       "added_at": "2024-03-11 23:40:41",
@@ -1087,18 +1083,22 @@
     {
       "added_at": "2024-03-11 23:40:41",
       "album": {
-        "name": "Spirit Mission",
-        "url": "https://open.spotify.com/album/31t6VcIOZ3WqsSH2F9Zcy0"
+        "name": "Willow (feat. Lucy Rose)",
+        "url": "https://open.spotify.com/album/2ZbZBB7CCWqi9kgnmlSHM3"
       },
       "artists": [
         {
-          "name": "Sure Sure",
-          "url": "https://open.spotify.com/artist/1anAI9P9iSzc9qzLv6AtHZ"
+          "name": "Bombay Bicycle Club",
+          "url": "https://open.spotify.com/artist/3pTE9iaJTkWns3mxpNQlJV"
+        },
+        {
+          "name": "Lucy Rose",
+          "url": "https://open.spotify.com/artist/2uvY5pgdD9t1CZ5zMNw1rl"
         }
       ],
-      "duration_ms": 246200,
-      "name": "Funky Galileo",
-      "url": "https://open.spotify.com/track/7rNnqDOzc3Qoom2VhIyuxx"
+      "duration_ms": 249693,
+      "name": "Willow (feat. Lucy Rose)",
+      "url": "https://open.spotify.com/track/7m1qFwzJnebBiWkzE7RgDq"
     },
     {
       "added_at": "2024-03-11 23:40:41",

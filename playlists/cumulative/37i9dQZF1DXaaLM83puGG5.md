@@ -4,7 +4,7 @@
 
 > Keeping the party going with <a href="https://www.instagram.com/sweetone.jpg/">Sweet One!</a>
 
-1,159 songs - 3 day 0 hr 10 min
+1,160 songs - 3 day 0 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -909,7 +909,8 @@
 | [Silver Lines](https://open.spotify.com/track/5cAFeRYZDlYNBOQYfEo0NB) | [IAMDDB](https://open.spotify.com/artist/7za6M9P94wuMsOVCHopTsI) | [Silver Lines](https://open.spotify.com/album/1ZvuGL8rhGYgHWHAeiYeFZ) | 3:20 | 2021-11-10 | 2022-01-29 |
 | [Sim Simma](https://open.spotify.com/track/0LCpAqkpl7drtth6HWVnrx) | [Luke Bar$](https://open.spotify.com/artist/6CGyB4PAg5rEyzeGumZrjr) | [Sim Simma](https://open.spotify.com/album/4y1JexJuRC9hzT2SHCYscg) | 2:25 | 2022-04-08 | 2022-09-03 |
 | [Single Ladies \(Put a Ring on It\)](https://open.spotify.com/track/2ZBNclC5wm4GtiWaeh0DMx) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [I AM...SASHA FIERCE](https://open.spotify.com/album/23Y5wdyP5byMFktZf8AcWU) | 3:13 | 2023-02-13 | 2023-04-29 |
-| [Sinner](https://open.spotify.com/track/4xiQIdWJI5uT6772AxDe9g) | [Kelz2busy](https://open.spotify.com/artist/7rk80kubaj220eDZQvFYU6) | [Sinner](https://open.spotify.com/album/1uUYrt95TGLSNkjrdjvoOt) | 1:39 | 2024-02-01 |  |
+| [Sinner](https://open.spotify.com/track/4xiQIdWJI5uT6772AxDe9g) | [Kelz2busy](https://open.spotify.com/artist/7rk80kubaj220eDZQvFYU6) | [Sinner](https://open.spotify.com/album/1uUYrt95TGLSNkjrdjvoOt) | 1:39 | 2024-02-01 | 2024-03-21 |
+| [Sinner](https://open.spotify.com/track/7fuDGYEbVcW9fJUhrDeOXV) | [Kelz2busy](https://open.spotify.com/artist/7rk80kubaj220eDZQvFYU6) | [Sinner](https://open.spotify.com/album/1legD3bkAr8HutjWGJ2ZS3) | 1:39 | 2024-02-01 |  |
 | [Sittin' Sidewayz \(feat\. Big Pokey\)](https://open.spotify.com/track/24PWKmemCvqfyVXODhoKHW) | [Paul Wall](https://open.spotify.com/artist/0k7Xl1pqI3tu8sSEjo5oEg), [Big Pokey](https://open.spotify.com/artist/1J6iGa2TNBDCrJzjsnI1a8) | [The People's Champ](https://open.spotify.com/album/4LfEslRqPOv2ZOrW6KhhWr) | 3:48 | 2023-08-09 | 2023-09-02 |
 | [Ski](https://open.spotify.com/track/6755DFiZ7CWe2WMdTGW5C1) | [Young Stoner Life](https://open.spotify.com/artist/1xr2G8Hlx4QWmT9HaUbmoO), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [Slime Language 2](https://open.spotify.com/album/3ihwKkIMJWmmp1huNH0iWC) | 2:32 | 2022-01-28 | 2022-04-09 |
 | [SKITZO \(feat\. Young Thug\)](https://open.spotify.com/track/0bkV1iQHSxBaksUqgEkcbc) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [UTOPIA](https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ) | 6:06 | 2023-08-09 | 2023-09-02 |

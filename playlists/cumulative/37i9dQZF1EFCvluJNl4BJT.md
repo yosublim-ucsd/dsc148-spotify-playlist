@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2Ak2P6rRpuVPTPAvHSuVDQ">Leon Thomas</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-84 songs - 4 hr 37 min
+85 songs - 4 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,6 +36,7 @@
 | [Gold Roses](https://open.spotify.com/track/6N2cKrgUuL7esEMWInRnuW) | [Rick Ross](https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Gold Roses \(Official Video\)](https://open.spotify.com/album/7npO6jhwoZEpPwhVMrVUwP) | 3:51 | 2024-01-29 | 2024-02-02 |
 | [Gone \(with Bryson Tiller\)](https://open.spotify.com/track/3sQWzLuYeu8dOVTrYwkFlf) | [Kiana Ledé](https://open.spotify.com/artist/7jZMxhsB8djyIbYmoiJSTs), [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs) | [Grudges](https://open.spotify.com/album/7LjBbLFOHLzCsOlxYpFqU2) | 3:33 | 2024-01-29 |  |
 | [Grieving \(feat\. James Blake\)](https://open.spotify.com/track/4bzd4evyqXabRtesx4emPn) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX), [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU) | [It Was Good Until It Wasn't](https://open.spotify.com/album/6ROLwnmW9pOioLned0DaP3) | 3:50 | 2024-01-29 |  |
+| [happy](https://open.spotify.com/track/1uMkOqwGtVFZLihwXe7WC6) | [Princess Nokia](https://open.spotify.com/artist/6lay1nwbE6hTx1jivysUAL) | [i love you but this is goodbye](https://open.spotify.com/album/6gGk1hChE1H2vZpat7dw15) | 3:20 | 2024-03-20 |  |
 | [Has a Meaning](https://open.spotify.com/track/18XUxFnqlqbEc9hPHAfOzU) | [sid tipton](https://open.spotify.com/artist/1LgF3q7qslhLt5qb6fAtNA), [Timbaland](https://open.spotify.com/artist/5Y5TRrQiqgUO4S36tzjIRZ) | [Timbaland’s Beat Saber Music Pack by BeatClub](https://open.spotify.com/album/0huZW5ISjHtFKTGHhxkJwm) | 3:10 | 2024-01-29 |  |
 | [Heaven’s EP \(with J\. Cole\)](https://open.spotify.com/track/19h1LNf7idduUW3jBeswB8) | [Dreamville](https://open.spotify.com/artist/1iNqsUDUraNWrj00bqssQG), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [D\-Day: A Gangsta Grillz Mixtape](https://open.spotify.com/album/3tFjhFPqGhhLrCULnPu7Wy) | 2:58 | 2024-01-29 |  |
 | [Hello How Are You](https://open.spotify.com/track/2w6NKpDk88j5WhmAOggYNx) | [Leon Thomas](https://open.spotify.com/artist/44PAA4cna071vzwYqN5Pce), [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop) | [Hello How Are You](https://open.spotify.com/album/4kX602tlPIQUCM8K9mtjAK) | 3:38 | 2024-01-29 |  |

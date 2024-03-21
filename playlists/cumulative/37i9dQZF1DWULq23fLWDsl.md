@@ -4,7 +4,7 @@
 
 > 2010 highlights from the home of indie music\. Cover: Gorillaz.
 
-133 songs - 9 hr 15 min
+134 songs - 9 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,7 +60,7 @@
 | [I Can Change](https://open.spotify.com/track/2073QOEC8rBtSyTsRyaWiP) | [LCD Soundsystem](https://open.spotify.com/artist/066X20Nz7iquqkkCW6Jxy6) | [This Is Happening](https://open.spotify.com/album/4hnqM0JK4CM1phwfq1Ldyz) | 5:52 | 2021-10-05 |  |
 | [I Can Talk](https://open.spotify.com/track/2OqI9fjaLeXnphj1Vcs1bi) | [Two Door Cinema Club](https://open.spotify.com/artist/536BYVgOnRky0xjsPT96zl) | [Tourist History](https://open.spotify.com/album/0wNjC8d3ve2L2yaomEWUsa) | 2:57 | 2021-10-05 |  |
 | [I Can Talk](https://open.spotify.com/track/5R34yWuK4EWjy3l6IAfMFJ) | [Two Door Cinema Club](https://open.spotify.com/artist/536BYVgOnRky0xjsPT96zl) | [Tourist History](https://open.spotify.com/album/0SD7kwnJEC2oDzQBKEHQnH) | 2:57 | 2021-10-05 | 2022-11-02 |
-| [I Can't Handle Change](https://open.spotify.com/track/0I1eFRytp4XRhLCjT6tZm7) | [Roar](https://open.spotify.com/artist/7dIpKWlEeAljA20vFJ82RD) | [I Can't Handle Change](https://open.spotify.com/album/42vd9Cgr89pjb0Jipvaj5d) | 3:18 | 2022-01-11 |  |
+| [I Can't Handle Change](https://open.spotify.com/track/0I1eFRytp4XRhLCjT6tZm7) | [Roar](https://open.spotify.com/artist/7dIpKWlEeAljA20vFJ82RD) | [I Can't Handle Change](https://open.spotify.com/album/42vd9Cgr89pjb0Jipvaj5d) | 3:18 | 2022-01-11 | 2024-03-21 |
 | [It Is Not Meant To Be](https://open.spotify.com/track/3Yub3anoLj8w58TVpEXUJv) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [InnerSpeaker](https://open.spotify.com/album/1DNSmmRLfv97Yjq7MTFWng) | 5:21 | 2021-10-05 |  |
 | [Ivy & Gold](https://open.spotify.com/track/0ej0gx9JY7fNJv9thW5UEe) | [Bombay Bicycle Club](https://open.spotify.com/artist/3pTE9iaJTkWns3mxpNQlJV) | [Flaws](https://open.spotify.com/album/6LZpRofbNxPgc8eXvw0j1S) | 2:56 | 2021-10-05 |  |
 | [Journal of Ardency](https://open.spotify.com/track/3vc0dm7NHZTProvlYlkhmh) | [Class Actress](https://open.spotify.com/artist/4nZbOHYEypqHtWwTPQu8Fl) | [Journal of Ardency](https://open.spotify.com/album/0yTVrdU4jqSHyrh6VCQ8Cw) | 3:45 | 2021-10-05 | 2022-10-28 |
@@ -88,6 +88,7 @@
 | [On Melancholy Hill](https://open.spotify.com/track/0q6LuUqGLUiCPP1cbdwFs3) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ) | [Plastic Beach](https://open.spotify.com/album/2dIGnmEIy1WZIcZCFSj6i8) | 3:53 | 2021-10-05 |  |
 | [One Life Stand](https://open.spotify.com/track/1BfXy0gM3tmB6Jc1QdtaLj) | [Hot Chip](https://open.spotify.com/artist/37uLId6Z5ZXCx19vuruvv5) | [One Life Stand](https://open.spotify.com/album/4g9B6VXmdHhmqYhVHIXsbc) | 5:21 | 2021-10-05 |  |
 | [Only The Young](https://open.spotify.com/track/4pOnY9Cbr16N3w0yDkUae8) | [Brandon Flowers](https://open.spotify.com/artist/18Zv2g2vUcEGqJf6WnjfXN) | [Flamingo](https://open.spotify.com/album/7zKxFkMyehmw9u3MhLpMPK) | 4:18 | 2021-10-05 |  |
+| [Plage](https://open.spotify.com/track/6jPNXRnTy37ADxbihf56rM) | [Crystal Fighters](https://open.spotify.com/artist/75EZuo5MHV2572NRpMWotC) | [Star Of Love](https://open.spotify.com/album/00v21bgN2da5KonMWEAMec) | 3:50 | 2024-03-18 |  |
 | [Pumped Up Kicks](https://open.spotify.com/track/7w87IxuO7BDcJ3YUqCyMTT) | [Foster The People](https://open.spotify.com/artist/7gP3bB2nilZXLfPHJhMdvc) | [Torches](https://open.spotify.com/album/7Kmmw7Z5D2UD5MVwdm10sT) | 3:59 | 2021-10-05 |  |
 | [Punching In A Dream](https://open.spotify.com/track/5PtEpuVX03k9bOUwilL5EO) | [The Naked And Famous](https://open.spotify.com/artist/0oeUpvxWsC8bWS6SnpU8b9) | [Passive Me, Aggressive You](https://open.spotify.com/album/5ImvJCAX33Pt2XGMaYaMia) | 3:58 | 2021-10-05 |  |
 | [Ready to Start](https://open.spotify.com/track/01wsKcJ8ptqUmatpJlEGYj) | [Arcade Fire](https://open.spotify.com/artist/3kjuyTCjPG1WMFCiyc5IuB) | [The Suburbs](https://open.spotify.com/album/3DrgM5X3yX1JP1liNLAOHI) | 4:15 | 2021-10-05 |  |

@@ -4,7 +4,7 @@
 
 > En samling av de bästa svenska låtarna just nu.
 
-1,098 songs - 2 day 9 hr 38 min
+1,099 songs - 2 day 9 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -136,7 +136,7 @@
 | [Bästa Vi Gjort](https://open.spotify.com/track/3xzTKNUOxzEBovAKpd5AQO) | [Lamix](https://open.spotify.com/artist/3QQwosodozp54DdCKrlAry), [Timbuktu](https://open.spotify.com/artist/4bOG1sx3QHFbOUVLNmMpPe) | [Bästa Vi Gjort](https://open.spotify.com/album/4GoKbr5Cdm3Y36fb3P7775) | 2:52 | 2022-04-28 | 2022-08-14 |
 | [Bästa Vi Gjort](https://open.spotify.com/track/5ITfTyOipNdU9hammDtEk8) | [Lamix](https://open.spotify.com/artist/3QQwosodozp54DdCKrlAry), [Timbuktu](https://open.spotify.com/artist/4bOG1sx3QHFbOUVLNmMpPe) | [Bästa Vi Gjort](https://open.spotify.com/album/5lpnElAi4OHtsdAqDWMHwR) | 2:52 | 2022-09-15 | 2023-02-01 |
 | [bästis](https://open.spotify.com/track/2hJwtg1TWFQE4NlIMJ4pXD) | [IMAN](https://open.spotify.com/artist/4ODUdqz93vJsCMMdJ0R30e) | [bästis](https://open.spotify.com/album/4BSVDte8vvUyJzvAAY4Gnp) | 3:28 | 2023-11-30 | 2024-02-09 |
-| [C R A Z Y](https://open.spotify.com/track/0ZhC7a7IEcPhJtP6Ns8ZDF) | [Ben Mitkus](https://open.spotify.com/artist/5U7pOnB9QgH7YFDWQ84Qnu) | [C R A Z Y](https://open.spotify.com/album/7Mc3Raq0decyTuPvkzHiF4) | 3:09 | 2024-02-15 |  |
+| [C R A Z Y](https://open.spotify.com/track/0ZhC7a7IEcPhJtP6Ns8ZDF) | [Ben Mitkus](https://open.spotify.com/artist/5U7pOnB9QgH7YFDWQ84Qnu) | [C R A Z Y](https://open.spotify.com/album/7Mc3Raq0decyTuPvkzHiF4) | 3:09 | 2024-02-15 | 2024-03-21 |
 | [Call Me By Your Name](https://open.spotify.com/track/1fJ3YZVLYkoMYDvrAqDf0M) | [Omar Rudberg](https://open.spotify.com/artist/6uRXUjochRDA9d5Sq2tZZd), [Claudia Neuser](https://open.spotify.com/artist/74p7Pm6wFtrqjANyjFyktq) | [Call Me By Your Name](https://open.spotify.com/album/0An6hUMasLgdJO5n2ZaLVO) | 2:50 | 2023-01-05 | 2023-10-06 |
 | [Can We Talk About Me?](https://open.spotify.com/track/144HD6H46Fkqen2mLoU74O) | [Paula Jivén](https://open.spotify.com/artist/42VDvOzr6eyxscOD2ax83D) | [Can We Talk About Me?](https://open.spotify.com/album/3MG4Q3ipd9raU28ZBxv89f) | 2:44 | 2023-02-01 | 2023-03-31 |
 | [Can't Stay Away](https://open.spotify.com/track/4herjqbsHfOHoIzRPti4JA) | [Darin](https://open.spotify.com/artist/1rKFeRryEci6cxNkdvHzNr) | [Can't Stay Away](https://open.spotify.com/album/3OIvFO4C2CQGRxYUQ9D8yf) | 3:00 | 2021-12-16 | 2022-03-09 |
@@ -246,6 +246,7 @@
 | [Dynamite](https://open.spotify.com/track/7wMQv4MPz5WYqEbO4HWovW) | [Victor Crone](https://open.spotify.com/artist/6TlWqqdj65mppNUHZVkjaq) | [Dynamite](https://open.spotify.com/album/7uJvNL8aDRFMy4RX5tzkF4) | 2:38 | 2022-05-30 | 2022-06-01 |
 | [Dyrt](https://open.spotify.com/track/2rwd9RRJ7YHsJ4HT3MwH5H) | [Ellen Bergelin](https://open.spotify.com/artist/3WR4aQtPax6XwTi9L0L3DJ) | [Dyrt](https://open.spotify.com/album/6qpmFXPgdrTnpqHPu6zj21) | 2:46 | 2022-01-13 | 2022-05-13 |
 | [DÖ FÖR](https://open.spotify.com/track/35eTqDv5rQDQmBWePtbVf3) | [William Segerdahl](https://open.spotify.com/artist/7h3jPDAAlfXOhid0q360Hh) | [DÖ FÖR](https://open.spotify.com/album/5p8nmQfGIiNyX1w2oHVhbb) | 2:41 | 2022-03-10 | 2022-07-24 |
+| [Dö före dig \- akustisk version](https://open.spotify.com/track/552Whv8lDoc9tGJninXBsv) | [Emma\-Lee Andersson](https://open.spotify.com/artist/3ldvnZAhBB2vAaqMWIvqbY) | [Dö före dig \(akustisk version\)](https://open.spotify.com/album/1vFo2cYQvSoM5N1m8lQbAu) | 2:11 | 2024-03-14 |  |
 | [Död för mig](https://open.spotify.com/track/5HKu4DGoq7YNtGQ3ZMt9qD) | [Yei Gonzalez](https://open.spotify.com/artist/54tAGj0D5DRj7wKZdgALnq), [Myra Granberg](https://open.spotify.com/artist/6HYjkczJfUdGcwIGPOq5P2), [A36](https://open.spotify.com/artist/4QcudLddRQCbX8wrs6i2Gt) | [Död för mig](https://open.spotify.com/album/39YWm719FMNKuzJ7oAIgcR) | 2:45 | 2023-09-21 | 2024-01-19 |
 | [Död snö](https://open.spotify.com/track/1BvwvmQMdo5iJci2UMIGse) | [Johanna Frostling](https://open.spotify.com/artist/4vbrC3LBk1yySodkSbG3IY) | [Död snö](https://open.spotify.com/album/0SuBgYxZ3abL6AuidIgNLc) | 3:31 | 2024-03-14 |  |
 | [Döda hjärtan kan slå igen](https://open.spotify.com/track/4CZAKCH7hNagnKhJe60IyU) | [Daniel Adams\-Ray](https://open.spotify.com/artist/4C86wrjOUfXQDlt6A4oJOC) | [Döda hjärtan kan slå igen](https://open.spotify.com/album/0XwIMEBisaLYj4SWj6wjjS) | 3:28 | 2021-12-16 | 2022-03-11 |

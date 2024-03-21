@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUMIjnZuaulx.md) - [plain]
 
 > New songs from some of the latest and greatest Gospel music artists\.  Cover: <a href="spotify:artist:3qfrrrSO7utFdJkM2tvMRb">CeCe Winans</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 283,520 likes - 100 songs - 8 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 283,647 likes - 100 songs - 8 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUMIjnZuaulx.md) - [plain]
 | 99 | [Forever](https://open.spotify.com/track/1shKF5bY5iUgCo01fmwSGc) | [Brandon Camphor & One Way](https://open.spotify.com/artist/4mLHthOzPH2UIygTENj5Bm) | [Forever](https://open.spotify.com/album/52Ne2u6b54IjSjwwBIa9hR) | 3:26 |
 | 100 | [Planted](https://open.spotify.com/track/5E6lx3w4GqLbKPKQrYyFIn) | [Ryan Brockington](https://open.spotify.com/artist/4WFblFAFYMyumOvNYu7e2b), [Ethan Kent](https://open.spotify.com/artist/6tkZDZILZdLZaCuY801ef3) | [Planted](https://open.spotify.com/album/0iPVkBWSUkUvRs3GMAK5Pm) | 4:02 |
 
-Snapshot ID: `MCwyMzdkYjY3NjQ4YWYwZGVjYjlmMTJlOGRhZWVjNThmYTYxOTkyZmQw`
+Snapshot ID: `MCwwNzAxNmQ3MTgxMTM4YjIxNThlYWMxNGU4MGVmMjYxMGEyMDc4ODYy`

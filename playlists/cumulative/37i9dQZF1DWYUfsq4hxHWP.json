@@ -330,7 +330,7 @@
       ],
       "date_added": "2024-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-21",
       "duration_ms": 140624,
       "name": "42",
       "url": "https://open.spotify.com/track/7blnDzPBBXD5EJsY6swT36"
@@ -1228,7 +1228,7 @@
       ],
       "date_added": "2024-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-21",
       "duration_ms": 212058,
       "name": "Airplane",
       "url": "https://open.spotify.com/track/400dH8GoaaNGPyKm3yWqJD"
@@ -1660,7 +1660,7 @@
       ],
       "date_added": "2024-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-21",
       "duration_ms": 204600,
       "name": "american dream",
       "url": "https://open.spotify.com/track/6Koj5ejCeCF8yoxqql8lb2"
@@ -2716,7 +2716,7 @@
       ],
       "date_added": "2024-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-21",
       "duration_ms": 212537,
       "name": "Bad for You",
       "url": "https://open.spotify.com/track/7IoA0dhrFuSVc7RKzlPWTl"
@@ -3923,6 +3923,24 @@
     },
     {
       "album": {
+        "name": "Beyond Me",
+        "url": "https://open.spotify.com/album/3ttDyps09WywOPTUqoPeOs"
+      },
+      "artists": [
+        {
+          "name": "The Dryes",
+          "url": "https://open.spotify.com/artist/0npnqS0C9n5uuuBQC4oEWE"
+        }
+      ],
+      "date_added": "2024-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218274,
+      "name": "Beyond Me",
+      "url": "https://open.spotify.com/track/3QNsALPiKNSonMX0ig3K3y"
+    },
+    {
+      "album": {
         "name": "Where You Come From",
         "url": "https://open.spotify.com/album/2mO8xA8bcTFLezrNCnUjnF"
       },
@@ -5126,6 +5144,24 @@
       "duration_ms": 203676,
       "name": "Breathing",
       "url": "https://open.spotify.com/track/3VC3964tZiSUQ0UToNXNiP"
+    },
+    {
+      "album": {
+        "name": "Bring It On Back",
+        "url": "https://open.spotify.com/album/71l7PuX6JXjJhN5aY3qEef"
+      },
+      "artists": [
+        {
+          "name": "AUSTIN",
+          "url": "https://open.spotify.com/artist/2MKu40myhUVlIgfsrw5Huq"
+        }
+      ],
+      "date_added": "2024-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161291,
+      "name": "Bring It On Back",
+      "url": "https://open.spotify.com/track/4F6V6Wjb9fyU1rRyR0FswW"
     },
     {
       "album": {
@@ -6884,6 +6920,24 @@
       "duration_ms": 231859,
       "name": "Code of a Cowboy",
       "url": "https://open.spotify.com/track/2kIP1Taoef2SbNlttuNvsN"
+    },
+    {
+      "album": {
+        "name": "Coffee in the Morning",
+        "url": "https://open.spotify.com/album/3Tz7JknvlUIBANMy9fzz6B"
+      },
+      "artists": [
+        {
+          "name": "Jesse Slack",
+          "url": "https://open.spotify.com/artist/4nfh7BMMFe3UQP4XMHtWCN"
+        }
+      ],
+      "date_added": "2024-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175000,
+      "name": "Coffee in the Morning",
+      "url": "https://open.spotify.com/track/06pHO2x8YCfT1HyFsPvYw7"
     },
     {
       "album": {
@@ -9190,7 +9244,7 @@
       ],
       "date_added": "2024-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-21",
       "duration_ms": 177694,
       "name": "Don't Know Myself",
       "url": "https://open.spotify.com/track/1V9kDxaJ7YgzboDdyNwNCw"
@@ -9324,6 +9378,24 @@
       "duration_ms": 124186,
       "name": "Don't Take Her Home",
       "url": "https://open.spotify.com/track/5kfx1RL383sxPiytI6iVMr"
+    },
+    {
+      "album": {
+        "name": "Don't Trust That Truck",
+        "url": "https://open.spotify.com/album/635jz7tqxg0r7n8PFQon5e"
+      },
+      "artists": [
+        {
+          "name": "Heartwreckers",
+          "url": "https://open.spotify.com/artist/5tLHZ7VEXOqL26DGh3OC3Z"
+        }
+      ],
+      "date_added": "2024-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184599,
+      "name": "Don't Trust That Truck",
+      "url": "https://open.spotify.com/track/51nssugo46zxS7DPvOsEcp"
     },
     {
       "album": {
@@ -11530,7 +11602,7 @@
       ],
       "date_added": "2024-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-21",
       "duration_ms": 209680,
       "name": "Finding Firsts",
       "url": "https://open.spotify.com/track/6fOSP6RwzVppsvQWTj8IVd"
@@ -16006,7 +16078,7 @@
       ],
       "date_added": "2024-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-21",
       "duration_ms": 212327,
       "name": "Honestly",
       "url": "https://open.spotify.com/track/6d8nL9enODUfu6rqFC3CeK"
@@ -20058,7 +20130,7 @@
       ],
       "date_added": "2024-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-21",
       "duration_ms": 208783,
       "name": "Last Frontier",
       "url": "https://open.spotify.com/track/6MbptM6zw9l2O0Um8AeaF2"
@@ -20238,7 +20310,7 @@
       ],
       "date_added": "2024-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-21",
       "duration_ms": 154311,
       "name": "Leave Like That",
       "url": "https://open.spotify.com/track/2bXsceqYYOzIKvOUbA1iY0"
@@ -20480,6 +20552,24 @@
       "duration_ms": 179851,
       "name": "Let it Ride",
       "url": "https://open.spotify.com/track/2L5HXgrkbYd0DC9WfUeqJa"
+    },
+    {
+      "album": {
+        "name": "Faren's Demo Jail",
+        "url": "https://open.spotify.com/album/3tTM1puwIEDXb1OJFOumiZ"
+      },
+      "artists": [
+        {
+          "name": "Faren Rachels",
+          "url": "https://open.spotify.com/artist/2HweKwi0jfedpODDq7r2XN"
+        }
+      ],
+      "date_added": "2024-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205333,
+      "name": "Let You Down",
+      "url": "https://open.spotify.com/track/44NyEz6Mmfg1uIKeNtEWLM"
     },
     {
       "album": {
@@ -20908,7 +20998,7 @@
       ],
       "date_added": "2024-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-21",
       "duration_ms": 170994,
       "name": "Like He Loves Me",
       "url": "https://open.spotify.com/track/1VOYoO54vy9pBTq0udZLjS"
@@ -21316,7 +21406,7 @@
       ],
       "date_added": "2024-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-21",
       "duration_ms": 170211,
       "name": "Lonely Half",
       "url": "https://open.spotify.com/track/2BQnFxkXGlhK6DEKys1vcB"
@@ -22152,6 +22242,24 @@
       "duration_ms": 168722,
       "name": "Love You Too (feat. Ashley Cooke)",
       "url": "https://open.spotify.com/track/5lLfoISXBHCOdiOCNgS49Z"
+    },
+    {
+      "album": {
+        "name": "Love's Like That",
+        "url": "https://open.spotify.com/album/4iOFpuYktdh5d6o8z1SbXD"
+      },
+      "artists": [
+        {
+          "name": "Jesse Dozzi",
+          "url": "https://open.spotify.com/artist/5V6iCwSrD8np7jjVSxZH6f"
+        }
+      ],
+      "date_added": "2024-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176053,
+      "name": "Love's Like That",
+      "url": "https://open.spotify.com/track/6BdSJ9D8belpnq0JhmdJmf"
     },
     {
       "album": {
@@ -23460,7 +23568,7 @@
       ],
       "date_added": "2024-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-21",
       "duration_ms": 186704,
       "name": "Miss Thang",
       "url": "https://open.spotify.com/track/7EOiKqLzkuGfvyytoG51Ed"
@@ -26232,7 +26340,7 @@
       ],
       "date_added": "2024-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-21",
       "duration_ms": 146678,
       "name": "Outta Here",
       "url": "https://open.spotify.com/track/3pEDk2nATFphw0wMil2w5v"
@@ -26304,7 +26412,7 @@
       ],
       "date_added": "2024-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-21",
       "duration_ms": 161006,
       "name": "Over A Girl",
       "url": "https://open.spotify.com/track/2zKu9gfp2mOeaCm92zFLjl"
@@ -26736,7 +26844,7 @@
       ],
       "date_added": "2024-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-21",
       "duration_ms": 180249,
       "name": "Pick My Own Flowers",
       "url": "https://open.spotify.com/track/6hv9JWeMGG37jTrJSJODlK"
@@ -26960,6 +27068,24 @@
       "duration_ms": 230086,
       "name": "Port City",
       "url": "https://open.spotify.com/track/2xtyduCtx4uPVxksiSYSjj"
+    },
+    {
+      "album": {
+        "name": "Onto Something",
+        "url": "https://open.spotify.com/album/0N4JgjwIMdu0a7CDG6DlQR"
+      },
+      "artists": [
+        {
+          "name": "William Michael Morgan",
+          "url": "https://open.spotify.com/artist/03tfKFHhDoDqF73vCI3cxn"
+        }
+      ],
+      "date_added": "2024-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238591,
+      "name": "Pour A Little Whiskey On It",
+      "url": "https://open.spotify.com/track/1ynTZCM8azsfwEeyoVzM1U"
     },
     {
       "album": {
@@ -28200,7 +28326,7 @@
       ],
       "date_added": "2024-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-21",
       "duration_ms": 123088,
       "name": "RIP",
       "url": "https://open.spotify.com/track/7lgga6Zfj8gWhrkHlScRJr"
@@ -29079,6 +29205,24 @@
     },
     {
       "album": {
+        "name": "See In Tennessee",
+        "url": "https://open.spotify.com/album/2JMTvWnlreOaN1Hda4kgjW"
+      },
+      "artists": [
+        {
+          "name": "Ray Fulcher",
+          "url": "https://open.spotify.com/artist/7abk76xILIuWQIcPooclLp"
+        }
+      ],
+      "date_added": "2024-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187357,
+      "name": "See In Tennessee",
+      "url": "https://open.spotify.com/track/22sppQl6jKNSnIwCE1tRiR"
+    },
+    {
+      "album": {
         "name": "See You Around",
         "url": "https://open.spotify.com/album/5Y2JU0tXLNKnQQATJUzMaO"
       },
@@ -29792,7 +29936,7 @@
       ],
       "date_added": "2024-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-21",
       "duration_ms": 189400,
       "name": "Shut Up",
       "url": "https://open.spotify.com/track/6QjeR1VWbOuFA1KHyLjqXD"
@@ -30246,6 +30390,24 @@
       "duration_ms": 188036,
       "name": "Slow",
       "url": "https://open.spotify.com/track/6RXYoYRAvIDlAlHwFO2ytj"
+    },
+    {
+      "album": {
+        "name": "Slow Dance Around It",
+        "url": "https://open.spotify.com/album/5xONxmLxL6nyPymXIuPi7b"
+      },
+      "artists": [
+        {
+          "name": "Bryan Lanning",
+          "url": "https://open.spotify.com/artist/4lBpdC0ZU9G6dm05V1XAq7"
+        }
+      ],
+      "date_added": "2024-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205493,
+      "name": "Slow Dance Around It",
+      "url": "https://open.spotify.com/track/6itc7x6RZ9YZMHiAOGObZK"
     },
     {
       "album": {
@@ -31283,6 +31445,24 @@
     },
     {
       "album": {
+        "name": "Something Light",
+        "url": "https://open.spotify.com/album/3rXYXZTdl1yiIvOT44T10z"
+      },
+      "artists": [
+        {
+          "name": "Brinley Addington",
+          "url": "https://open.spotify.com/artist/612uTeOHnxzxgaaYCj3Qmb"
+        }
+      ],
+      "date_added": "2024-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198632,
+      "name": "Something Light",
+      "url": "https://open.spotify.com/track/6iL378xWjPVGKlsHPNns95"
+    },
+    {
+      "album": {
         "name": "Something Like That",
         "url": "https://open.spotify.com/album/6ykxlB1qP5MoLaLN3rfaqy"
       },
@@ -31528,7 +31708,7 @@
       ],
       "date_added": "2024-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-21",
       "duration_ms": 172500,
       "name": "Song About A Vampire",
       "url": "https://open.spotify.com/track/1K9oTNesBIC5cRPtyKhQRt"
@@ -33610,7 +33790,7 @@
       ],
       "date_added": "2024-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-21",
       "duration_ms": 211021,
       "name": "Thanks for Nothing",
       "url": "https://open.spotify.com/track/20dOJXcbWj6bfexxp0HURz"
@@ -34356,6 +34536,24 @@
       "duration_ms": 194277,
       "name": "the reason",
       "url": "https://open.spotify.com/track/4vSRIN8GhiH8IVDFvAOz5T"
+    },
+    {
+      "album": {
+        "name": "The Road I'm On",
+        "url": "https://open.spotify.com/album/2Am9QMdDJ1s1kOln9CINOU"
+      },
+      "artists": [
+        {
+          "name": "Sasha McVeigh",
+          "url": "https://open.spotify.com/artist/4yrY81mNjR3hqlOAhu80IQ"
+        }
+      ],
+      "date_added": "2024-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195988,
+      "name": "The Road I'm On",
+      "url": "https://open.spotify.com/track/45PZfZPH5t2DTVFCBi3PpK"
     },
     {
       "album": {
@@ -35318,6 +35516,24 @@
       "duration_ms": 157047,
       "name": "Time Difference",
       "url": "https://open.spotify.com/track/6S6Vm8L9TwV3nvCDGItLAA"
+    },
+    {
+      "album": {
+        "name": "Time for That",
+        "url": "https://open.spotify.com/album/5ZZfMCRc6z5yGptxdTtTdd"
+      },
+      "artists": [
+        {
+          "name": "Alee",
+          "url": "https://open.spotify.com/artist/6jb3bTBWDo0CYqNuvIcyJe"
+        }
+      ],
+      "date_added": "2024-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156129,
+      "name": "Time for That",
+      "url": "https://open.spotify.com/track/0f70Rz3Wb7jk8peE1o8wsO"
     },
     {
       "album": {
@@ -38685,6 +38901,24 @@
     },
     {
       "album": {
+        "name": "Wildflowers & Tears",
+        "url": "https://open.spotify.com/album/4SJbkkKV2ddK1aOAFuMd5K"
+      },
+      "artists": [
+        {
+          "name": "Coleman Jennings",
+          "url": "https://open.spotify.com/artist/3hxrh6IPuATmIiJuGNSdpp"
+        }
+      ],
+      "date_added": "2024-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252936,
+      "name": "Wildflowers & Tears",
+      "url": "https://open.spotify.com/track/6Mlswl90srkx0pCGuM489b"
+    },
+    {
+      "album": {
         "name": "Wind Up",
         "url": "https://open.spotify.com/album/7mHcmtkVQn2888vJcxuaUD"
       },
@@ -39622,6 +39856,24 @@
       "duration_ms": 203333,
       "name": "You Don't Think About That",
       "url": "https://open.spotify.com/track/3PJHe7Hm5iZmqFDGIEboOS"
+    },
+    {
+      "album": {
+        "name": "You Don't Wanna Know",
+        "url": "https://open.spotify.com/album/6APyM4KCe2VjPECtXpuzbL"
+      },
+      "artists": [
+        {
+          "name": "Amanda Jordan",
+          "url": "https://open.spotify.com/artist/5UzX8YYER6nwjEoJjt6QCv"
+        }
+      ],
+      "date_added": "2024-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215930,
+      "name": "You Don't Wanna Know",
+      "url": "https://open.spotify.com/track/5tGh25n8b3WlTxIbNUAUL6"
     },
     {
       "album": {

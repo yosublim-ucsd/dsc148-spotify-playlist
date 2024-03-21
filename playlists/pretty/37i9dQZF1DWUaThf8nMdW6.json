@@ -1,12 +1,12 @@
 {
   "description": "Relive Southeast Asia's most adored pop hits from the 2000s.",
-  "num_followers": 1471889,
+  "num_followers": 1472224,
   "original_name": "Best of '00s Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmOTUyMGJlMjA0MWRiMjMxOWU4NGE2NjQ5YWQyOTczNmM2ZGMyYTNj",
+  "snapshot_id": "MCxiMzgzZmQ1Y2MyZGE3MjI3MTdjZjJhZGU0YWUwZDFjYWI4OGZjMTYx",
   "tracks": [
     {
       "added_at": "2020-08-31 04:14:33",
@@ -83,22 +83,6 @@
     {
       "added_at": "2020-08-31 04:14:33",
       "album": {
-        "name": "The Marshall Mathers LP",
-        "url": "https://open.spotify.com/album/6t7956yu5zYf5A829XRiHC"
-      },
-      "artists": [
-        {
-          "name": "Eminem",
-          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
-        }
-      ],
-      "duration_ms": 284200,
-      "name": "The Real Slim Shady",
-      "url": "https://open.spotify.com/track/3yfqSUWxFvZELEM4PmlwIR"
-    },
-    {
-      "added_at": "2020-08-31 04:14:33",
-      "album": {
         "name": "Hot Fuss",
         "url": "https://open.spotify.com/album/4piJq7R3gjUOxnYs6lDCTg"
       },
@@ -111,6 +95,22 @@
       "duration_ms": 222973,
       "name": "Mr. Brightside",
       "url": "https://open.spotify.com/track/003vvx7Niy0yvhvHt4a68B"
+    },
+    {
+      "added_at": "2020-08-31 04:14:33",
+      "album": {
+        "name": "The Marshall Mathers LP",
+        "url": "https://open.spotify.com/album/6t7956yu5zYf5A829XRiHC"
+      },
+      "artists": [
+        {
+          "name": "Eminem",
+          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+        }
+      ],
+      "duration_ms": 284200,
+      "name": "The Real Slim Shady",
+      "url": "https://open.spotify.com/track/3yfqSUWxFvZELEM4PmlwIR"
     },
     {
       "added_at": "2020-08-31 04:14:33",
@@ -267,22 +267,6 @@
     {
       "added_at": "2020-08-31 04:14:33",
       "album": {
-        "name": "Fallen",
-        "url": "https://open.spotify.com/album/02w1xMzzdF2OJxTeh1basm"
-      },
-      "artists": [
-        {
-          "name": "Evanescence",
-          "url": "https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c"
-        }
-      ],
-      "duration_ms": 235893,
-      "name": "Bring Me To Life",
-      "url": "https://open.spotify.com/track/0COqiPhxzoWICwFCS4eZcp"
-    },
-    {
-      "added_at": "2020-08-31 04:14:33",
-      "album": {
         "name": "Silver Side Up",
         "url": "https://open.spotify.com/album/5fKL7vMTXvhR9tov8Kqt3u"
       },
@@ -295,6 +279,22 @@
       "duration_ms": 223840,
       "name": "How You Remind Me",
       "url": "https://open.spotify.com/track/0gmbgwZ8iqyMPmXefof8Yf"
+    },
+    {
+      "added_at": "2020-08-31 04:14:33",
+      "album": {
+        "name": "Fallen",
+        "url": "https://open.spotify.com/album/02w1xMzzdF2OJxTeh1basm"
+      },
+      "artists": [
+        {
+          "name": "Evanescence",
+          "url": "https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c"
+        }
+      ],
+      "duration_ms": 235893,
+      "name": "Bring Me To Life",
+      "url": "https://open.spotify.com/track/0COqiPhxzoWICwFCS4eZcp"
     },
     {
       "added_at": "2020-08-31 04:14:33",
@@ -739,6 +739,22 @@
     {
       "added_at": "2020-08-31 04:14:33",
       "album": {
+        "name": "Beautiful Girls",
+        "url": "https://open.spotify.com/album/71clfVkkopYLrgweVj2cow"
+      },
+      "artists": [
+        {
+          "name": "Sean Kingston",
+          "url": "https://open.spotify.com/artist/6S0dmVVn4udvppDhZIWxCr"
+        }
+      ],
+      "duration_ms": 225373,
+      "name": "Beautiful Girls",
+      "url": "https://open.spotify.com/track/1hGy2eLcmC8eKx7qr1tOqx"
+    },
+    {
+      "added_at": "2020-08-31 04:14:33",
+      "album": {
         "name": "Nellyville",
         "url": "https://open.spotify.com/album/4HUUHHXBXImwksfbSPqE7q"
       },
@@ -755,22 +771,6 @@
       "duration_ms": 289160,
       "name": "Dilemma",
       "url": "https://open.spotify.com/track/0ARK753YaiJbpLUk7z5yIM"
-    },
-    {
-      "added_at": "2020-08-31 04:14:33",
-      "album": {
-        "name": "Beautiful Girls",
-        "url": "https://open.spotify.com/album/71clfVkkopYLrgweVj2cow"
-      },
-      "artists": [
-        {
-          "name": "Sean Kingston",
-          "url": "https://open.spotify.com/artist/6S0dmVVn4udvppDhZIWxCr"
-        }
-      ],
-      "duration_ms": 225373,
-      "name": "Beautiful Girls",
-      "url": "https://open.spotify.com/track/1hGy2eLcmC8eKx7qr1tOqx"
     },
     {
       "added_at": "2020-08-31 04:14:33",
@@ -807,6 +807,22 @@
     {
       "added_at": "2020-08-31 04:14:33",
       "album": {
+        "name": "Hybrid Theory (Bonus Edition)",
+        "url": "https://open.spotify.com/album/6hPkbAV3ZXpGZBGUvL6jVM"
+      },
+      "artists": [
+        {
+          "name": "Linkin Park",
+          "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
+        }
+      ],
+      "duration_ms": 184866,
+      "name": "Papercut",
+      "url": "https://open.spotify.com/track/1Vej0qeQ3ioKwpI6FUbRv1"
+    },
+    {
+      "added_at": "2020-08-31 04:14:33",
+      "album": {
         "name": "Onka's Big Moka",
         "url": "https://open.spotify.com/album/2ww2PXKiHk7rNv26rjVJ5z"
       },
@@ -835,22 +851,6 @@
       "duration_ms": 311106,
       "name": "Welcome to the Black Parade",
       "url": "https://open.spotify.com/track/5wQnmLuC1W7ATsArWACrgW"
-    },
-    {
-      "added_at": "2020-08-31 04:14:33",
-      "album": {
-        "name": "The Fame",
-        "url": "https://open.spotify.com/album/1jpUMnKpRlng1OJN7LJauV"
-      },
-      "artists": [
-        {
-          "name": "Lady Gaga",
-          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
-        }
-      ],
-      "duration_ms": 237200,
-      "name": "Poker Face",
-      "url": "https://open.spotify.com/track/5R8dQOPq8haW94K7mgERlO"
     }
   ],
   "unique_name": "Best of '00s Pop",

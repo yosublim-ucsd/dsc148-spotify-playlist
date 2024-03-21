@@ -1,12 +1,12 @@
 {
   "description": "Country tracks to get your beast mode on! ",
-  "num_followers": 59128,
+  "num_followers": 59262,
   "original_name": "Beast Mode Country",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmN2ViZTNiMjg3NjZmMjhhMTQ5MzRkMTllNWVmODRlNWEyZmZiZTZk",
+  "snapshot_id": "MCw4Zjg3Y2M5ZGVkZWI0Y2UyMDQzZWFmZGYwNjBlNDA0NzZmODljMzVj",
   "tracks": [
     {
       "added_at": "2024-01-12 05:01:00",
@@ -303,18 +303,18 @@
     {
       "added_at": "2024-01-12 05:01:00",
       "album": {
-        "name": "Home Team",
-        "url": "https://open.spotify.com/album/4zlBDJa1ZOoiy7R6AVD5Hd"
+        "name": "A ROCK",
+        "url": "https://open.spotify.com/album/6j6uNK4vsfLXqVwWXwvqYQ"
       },
       "artists": [
         {
-          "name": "Lakeview",
-          "url": "https://open.spotify.com/artist/4m7IOKt2QRPsoHJSWBmeZD"
+          "name": "HARDY",
+          "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
         }
       ],
-      "duration_ms": 196281,
-      "name": "Home Team",
-      "url": "https://open.spotify.com/track/4XPefX4QY9EWhrwLL528Fc"
+      "duration_ms": 218718,
+      "name": "TRUCK",
+      "url": "https://open.spotify.com/track/0OPcMpjhDyILRccj05f6S6"
     },
     {
       "added_at": "2024-01-12 05:01:00",
@@ -351,18 +351,18 @@
     {
       "added_at": "2024-01-12 05:01:00",
       "album": {
-        "name": "A ROCK",
-        "url": "https://open.spotify.com/album/6j6uNK4vsfLXqVwWXwvqYQ"
+        "name": "Home Team",
+        "url": "https://open.spotify.com/album/4zlBDJa1ZOoiy7R6AVD5Hd"
       },
       "artists": [
         {
-          "name": "HARDY",
-          "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
+          "name": "Lakeview",
+          "url": "https://open.spotify.com/artist/4m7IOKt2QRPsoHJSWBmeZD"
         }
       ],
-      "duration_ms": 218718,
-      "name": "TRUCK",
-      "url": "https://open.spotify.com/track/0OPcMpjhDyILRccj05f6S6"
+      "duration_ms": 196281,
+      "name": "Home Team",
+      "url": "https://open.spotify.com/track/4XPefX4QY9EWhrwLL528Fc"
     },
     {
       "added_at": "2024-01-12 05:01:00",
@@ -471,22 +471,6 @@
     {
       "added_at": "2024-01-12 05:01:00",
       "album": {
-        "name": "They Don't Know",
-        "url": "https://open.spotify.com/album/2EhCp9jUMBdrJIrnDrhw4L"
-      },
-      "artists": [
-        {
-          "name": "Jason Aldean",
-          "url": "https://open.spotify.com/artist/3FfvYsEGaIb52QPXhg4DcH"
-        }
-      ],
-      "duration_ms": 194506,
-      "name": "Lights Come On",
-      "url": "https://open.spotify.com/track/6JLiWJptfEdsz3TW4dnQGy"
-    },
-    {
-      "added_at": "2024-01-12 05:01:00",
-      "album": {
         "name": "SOLD OUT",
         "url": "https://open.spotify.com/album/7btdv2v09pv92AOX2SvmKm"
       },
@@ -499,6 +483,22 @@
       "duration_ms": 202912,
       "name": "SOLD OUT",
       "url": "https://open.spotify.com/track/3I56OBwJkDAyt9L00c8ois"
+    },
+    {
+      "added_at": "2024-01-12 05:01:00",
+      "album": {
+        "name": "They Don't Know",
+        "url": "https://open.spotify.com/album/2EhCp9jUMBdrJIrnDrhw4L"
+      },
+      "artists": [
+        {
+          "name": "Jason Aldean",
+          "url": "https://open.spotify.com/artist/3FfvYsEGaIb52QPXhg4DcH"
+        }
+      ],
+      "duration_ms": 194506,
+      "name": "Lights Come On",
+      "url": "https://open.spotify.com/track/6JLiWJptfEdsz3TW4dnQGy"
     },
     {
       "added_at": "2024-01-12 05:01:00",

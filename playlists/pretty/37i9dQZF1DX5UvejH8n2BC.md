@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5UvejH8n2BC.md) - [plain]
 
 > Female artists of Philadelphia International Records which is especially known for Philly Soul\. Cover: The Jones Girls:
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,252 likes - 32 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,279 likes - 32 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,8 +26,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5UvejH8n2BC.md) - [plain]
 | 16 | [I'M Not In Love](https://open.spotify.com/track/1i2MdICLNQKYvr7lcc78rw) | [Dee Dee Sharp](https://open.spotify.com/artist/2NtGOVTuHBMDfR5PMNPBGT) | [Happy 'Bout The Whole Thing](https://open.spotify.com/album/2PBsr2V6Dku16eP1qgY0Rq) | 5:14 |
 | 17 | [You Gonna Make Me Love Somebody Else](https://open.spotify.com/track/7MRCd5tmZ2iURu4elcBsuH) | [The Jones Girls](https://open.spotify.com/artist/7aHa6IZwZ13FoC5AXFkCSh) | [The Jones Girls](https://open.spotify.com/album/4ZhVgoPq9B9emWRsMcT6cD) | 4:30 |
 | 18 | [I Think About You](https://open.spotify.com/track/4doSpsX1xxbf55TMA85I3G) | [Patti LaBelle](https://open.spotify.com/artist/0ty0xha1dbprYIUAQufkFn) | [Patti Labelle \(Expanded Edition\)](https://open.spotify.com/album/1KvfHKLbfIbVYtHyyHbZ8u) | 4:29 |
-| 19 | [Old Friend](https://open.spotify.com/track/371pwLFOPkgWAgN4RkVcP4) | [Phyllis Hyman](https://open.spotify.com/artist/3oqSDVaf6RoBGreqOlgUpv) | [The Legacy Of Phyllis Hyman](https://open.spotify.com/album/6fXm4HqvSqxh6jsiU5f505) | 4:51 |
-| 20 | [Year Of Decision](https://open.spotify.com/track/3DtoTiWTr4i11DkINqwhoh) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [The Three Degrees](https://open.spotify.com/album/348rR3bK4ypUS5MF2aIetX) | 2:41 |
+| 19 | [Year Of Decision](https://open.spotify.com/track/3DtoTiWTr4i11DkINqwhoh) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [The Three Degrees](https://open.spotify.com/album/348rR3bK4ypUS5MF2aIetX) | 2:41 |
+| 20 | [Old Friend](https://open.spotify.com/track/371pwLFOPkgWAgN4RkVcP4) | [Phyllis Hyman](https://open.spotify.com/artist/3oqSDVaf6RoBGreqOlgUpv) | [The Legacy Of Phyllis Hyman](https://open.spotify.com/album/6fXm4HqvSqxh6jsiU5f505) | 4:51 |
 | 21 | [Closer Than Close](https://open.spotify.com/track/1l96x4p9UmYJSLBiyhMsAI) | [Jean Carn](https://open.spotify.com/artist/5swBKHtsRDaCBmdpYRYOg1) | [Closer Than Close](https://open.spotify.com/album/22nMe2qIFJb85ac51jkn0P) | 5:56 |
 | 22 | [The World Will Sing Our Song](https://open.spotify.com/track/60vnH9CJVtP0FCawQGzSdz) | [The Jones Girls](https://open.spotify.com/artist/7aHa6IZwZ13FoC5AXFkCSh) | [Get as Much Love as You Can](https://open.spotify.com/album/3tpCzBzJytqzc7eHcJQChi) | 4:04 |
 | 23 | [Getting Serious](https://open.spotify.com/track/08pTWZPpPcAZa4m0NM32jd) | [Frantique](https://open.spotify.com/artist/64FQb5lUDKS72l9d8OjDLT) | [Frantique](https://open.spotify.com/album/1Xn2SYwx4PCz5v4K9yNSJn) | 7:56 |
@@ -41,4 +41,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5UvejH8n2BC.md) - [plain]
 | 31 | [No One Can Love You More](https://open.spotify.com/track/2npnWoCNxeGzAhjGyTx3V2) | [Phyllis Hyman](https://open.spotify.com/artist/3oqSDVaf6RoBGreqOlgUpv) | [Phyllis Hyman \(Expanded Edition\)](https://open.spotify.com/album/5CNAoF5myCR0foNabbyld2) | 4:23 |
 | 32 | [Disco Dancer](https://open.spotify.com/track/00uxI8BWoA3p7ikapcnEzd) | [Frantique](https://open.spotify.com/artist/64FQb5lUDKS72l9d8OjDLT) | [Frantique](https://open.spotify.com/album/1Xn2SYwx4PCz5v4K9yNSJn) | 7:21 |
 
-Snapshot ID: `MCwyMDY0YTRkNWZhZjQxNWQzNjVkYjcyN2M1YTNkMzc0NjQ1MTczNTc0`
+Snapshot ID: `MCxkMzhjNjM1NDgwMDYzMjA0OGFkOTg3ZjliNGE2MzU0NTZiNTgyNTVi`

@@ -4,7 +4,7 @@
 
 > 爽やかな1日を、スロー〜ミッドテンポな音楽と共に心地よくスタートしませんか？？
 
-534 songs - 1 day 8 hr 34 min
+535 songs - 1 day 8 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -429,7 +429,8 @@
 | [Time On My Hands \- Lo\-Fi Version](https://open.spotify.com/track/4BsfjMvKVqc2FMNw6qn21v) | [Ásgeir](https://open.spotify.com/artist/7xUZ4069zcyBM4Bn10NQ1c) | [Time On My Hands \(Lo\-Fi Version\)](https://open.spotify.com/album/0OCulu0g32zpyGrP9woaY1) | 3:12 | 2023-09-14 | 2023-12-20 |
 | [Tom's Diner](https://open.spotify.com/track/39kbxtqZyRkgBCTQy0hlX0) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Tom's Diner](https://open.spotify.com/album/2j5kahqVzUv6g4gsWC84oM) | 3:40 | 2023-04-20 |  |
 | [Too Bad \(with Max Clarke of Cut Worms\) \[From “Norah Jones is Playing Along” Podcast\]](https://open.spotify.com/track/6USd3imp91uPnvgBYRM2Kx) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N), [Cut Worms](https://open.spotify.com/artist/2upjmNmngAXZcra9dQRR2l) | [Too Bad \(with Max Clarke of Cut Worms\) \[From “Norah Jones is Playing Along” Podcast\]](https://open.spotify.com/album/5ZwGfcxcGrkVK5ye78Kak1) | 5:30 | 2023-08-17 | 2023-10-11 |
-| [Too Good to be True](https://open.spotify.com/track/4vIiVs5JoNfqqRi5o7jAIb) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Too Good to be True](https://open.spotify.com/album/57y7NpfTINlnrNitu8vwft) | 2:40 | 2024-02-29 |  |
+| [Too Good to be True](https://open.spotify.com/track/27RDQ0TfxzWMlQFuKrPT11) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Deeper Well](https://open.spotify.com/album/5SxZmGwc4eJuPp6PcO4JgJ) | 2:40 | 2024-03-07 |  |
+| [Too Good to be True](https://open.spotify.com/track/4vIiVs5JoNfqqRi5o7jAIb) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Too Good to be True](https://open.spotify.com/album/57y7NpfTINlnrNitu8vwft) | 2:40 | 2024-02-29 | 2024-03-21 |
 | [Too Much To Ask \- Acoustic](https://open.spotify.com/track/6HTDbFiF3c6QFRKkB6DcR4) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [Too Much To Ask \(Acoustic\)](https://open.spotify.com/album/54VaqAx59YDqRsoBh4l5Up) | 3:41 | 2023-02-23 | 2023-03-01 |
 | [True](https://open.spotify.com/track/0jdeV5dSB3kUBRqe1xQJbh) | [Ryan Cabrera](https://open.spotify.com/artist/3C4t1usFGoKHCSRdujm2GN) | [Take It All Away \(U.S\. Version\)](https://open.spotify.com/album/78IbgGcKueK33SETMOQfaj) | 3:24 | 2023-03-07 | 2023-03-18 |
 | [Trust Me Mate](https://open.spotify.com/track/2wWX4sZGZNc7lA594ZOhP7) | [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y) | [Trust Me Mate](https://open.spotify.com/album/3EL23ULlG8ejjORjNZ4KXp) | 2:58 | 2023-10-03 |  |

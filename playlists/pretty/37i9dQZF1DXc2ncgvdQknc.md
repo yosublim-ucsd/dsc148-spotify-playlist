@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc2ncgvdQknc.md) - [plain]
 
 > All 10s, all ballads\. Cover: Adele
 
-[Spotify](https://open.spotify.com/user/spotify) - 74,660 likes - 50 songs - 3 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 74,745 likes - 50 songs - 3 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,8 +18,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc2ncgvdQknc.md) - [plain]
 | 8 | [If the World Was Ending \(feat\. Julia Michaels\)](https://open.spotify.com/track/2kJwzbxV2ppxnQoYw4GLBZ) | [JP Saxe](https://open.spotify.com/artist/66W9LaWS0DPdL7Sz8iYGYe), [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [If the World Was Ending \(feat\. Julia Michaels\)](https://open.spotify.com/album/7BrlhEO8dHiNmU8A1Ep9RZ) | 3:28 |
 | 9 | [Piece by Piece \- Idol Version](https://open.spotify.com/track/3KbFtYPyVP6C7BQVgH2cCf) | [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) | [Piece By Piece \(Deluxe Version\)](https://open.spotify.com/album/2puALR81qCmKmbOyuHAI94) | 3:32 |
 | 10 | [Put A Little Love On Me](https://open.spotify.com/track/1hCTxutVVYvggAQcUUUZAT) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [Put A Little Love On Me](https://open.spotify.com/album/7dUgmUMDNnQAejhNLeIQWz) | 3:44 |
-| 11 | [Perfect](https://open.spotify.com/track/0tgVpDi06FyKpA1z0VMD4v) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [÷ \(Deluxe\)](https://open.spotify.com/album/3T4tUhGYeRNVUGevb0wThu) | 4:23 |
-| 12 | [Say You Won't Let Go](https://open.spotify.com/track/5uCax9HTNlzGybIStD3vDh) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [Back from the Edge](https://open.spotify.com/album/7oiJYvEJHsmYtrgviAVIBD) | 3:31 |
+| 11 | [Say You Won't Let Go](https://open.spotify.com/track/5uCax9HTNlzGybIStD3vDh) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [Back from the Edge](https://open.spotify.com/album/7oiJYvEJHsmYtrgviAVIBD) | 3:31 |
+| 12 | [Perfect](https://open.spotify.com/track/0tgVpDi06FyKpA1z0VMD4v) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [÷ \(Deluxe\)](https://open.spotify.com/album/3T4tUhGYeRNVUGevb0wThu) | 4:23 |
 | 13 | [All of Me](https://open.spotify.com/track/3U4isOIWM3VvDubwSI3y7a) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [Love In The Future \(Expanded Edition\)](https://open.spotify.com/album/4OTAx9un4e6NfoHuVRiOrC) | 4:29 |
 | 14 | [Skyfall](https://open.spotify.com/track/6VObnIkLVruX4UVyxWhlqm) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [Skyfall](https://open.spotify.com/album/6TwN6Lq9glwnG8kNp6chHY) | 4:46 |
 | 15 | [Love On The Brain](https://open.spotify.com/track/5oO3drDxtziYU2H1X23ZIp) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [ANTI \(Deluxe\)](https://open.spotify.com/album/4UlGauD7ROb3YbVOFMgW5u) | 3:44 |
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc2ncgvdQknc.md) - [plain]
 | 31 | [Million Reasons](https://open.spotify.com/track/7dZ1Odmx9jWIweQSatnRqo) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Joanne \(Deluxe\)](https://open.spotify.com/album/2ZUwFxlWo0gwTsvZ6L4Meh) | 3:25 |
 | 32 | [Let It Go \- From "Frozen"/Soundtrack Version](https://open.spotify.com/track/0qcr5FMsEO85NAQjrlDRKo) | [Idina Menzel](https://open.spotify.com/artist/73Np75Wv2tju61Eo9Zw4IR) | [Frozen \(Original Motion Picture Soundtrack / Deluxe Edition\)](https://open.spotify.com/album/7lZs5r4oQV2nutddffLrg0) | 3:43 |
 | 33 | [Die A Happy Man](https://open.spotify.com/track/5kNe7PE09d6Kvw5pAsx23n) | [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8) | [Tangled Up](https://open.spotify.com/album/4ykbJPI8MPscFzROE8dqLy) | 3:47 |
-| 34 | [Diamonds](https://open.spotify.com/track/1z9kQ14XBSN0r2v6fx4IdG) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [Unapologetic \(Edited Version\)](https://open.spotify.com/album/0T23GvNaBUGtMKxZko8LQG) | 3:45 |
-| 35 | [10,000 Hours \(with Justin Bieber\)](https://open.spotify.com/track/2wrJq5XKLnmhRXHIAf9xBa) | [Dan + Shay](https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [10,000 Hours \(with Justin Bieber\)](https://open.spotify.com/album/4ow6xJwn49gpWz7iHpOzWY) | 2:47 |
+| 34 | [10,000 Hours \(with Justin Bieber\)](https://open.spotify.com/track/2wrJq5XKLnmhRXHIAf9xBa) | [Dan + Shay](https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [10,000 Hours \(with Justin Bieber\)](https://open.spotify.com/album/4ow6xJwn49gpWz7iHpOzWY) | 2:47 |
+| 35 | [Diamonds](https://open.spotify.com/track/1z9kQ14XBSN0r2v6fx4IdG) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [Unapologetic \(Edited Version\)](https://open.spotify.com/album/0T23GvNaBUGtMKxZko8LQG) | 3:45 |
 | 36 | [The A Team](https://open.spotify.com/track/1VdZ0vKfR5jneCmWIUAMxK) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [+](https://open.spotify.com/album/0W5GGnapMz0VwemQvJDqa7) | 4:18 |
 | 37 | [Jealous](https://open.spotify.com/track/4G92yYrUs0cvY7G41YRI0z) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [Jealous \- EP](https://open.spotify.com/album/6bsCl6iS6dvC4xaiBlecPv) | 4:47 |
 | 38 | [Little Things](https://open.spotify.com/track/0TAmnCzOtqRfvA38DDLTjj) | [One Direction](https://open.spotify.com/artist/4AK6F7OLvEQ5QYCBNiQWHq) | [Take Me Home \(Expanded Edition\)](https://open.spotify.com/album/2sWX3HYnZjPZ9MrH6MFsBt) | 3:39 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc2ncgvdQknc.md) - [plain]
 | 49 | [Video Games](https://open.spotify.com/track/3WD91HQDBIavSapet3ZpjG) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Born To Die – Paradise Edition \(Special Version\)](https://open.spotify.com/album/0Dt3FbpMQwjoT5KNAw0IXR) | 4:41 |
 | 50 | [Lost Boy](https://open.spotify.com/track/0zMzyHAeMvwq5CRstru1Fp) | [Ruth B.](https://open.spotify.com/artist/2WzaAvm2bBCf4pEhyuDgCY) | [Safe Haven](https://open.spotify.com/album/6FgtuX3PtiB5civjHYhc52) | 4:36 |
 
-Snapshot ID: `MCw5YTVjZmVjNDlmMjhkM2FjY2FhNzg1YzRhYTU3NWNlY2NjYjVlNjVk`
+Snapshot ID: `MCxjYTUxZjU0YTQ3ODI1NWZkODYwNDI1OGI5NDM4NzMxOGZkYjA0ZmZk`

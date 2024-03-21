@@ -4,7 +4,7 @@
 
 > The smoothest Afro R&B out right now\. Cover: Odeal
 
-340 songs - 18 hr 9 min
+342 songs - 18 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -191,7 +191,8 @@
 | [Love Made Me Do It](https://open.spotify.com/track/0EDveqCZ7ExWFkF0SE4NV7) | [JAE5](https://open.spotify.com/artist/3NbqBIc16CNAe5nYSmHR3p), [Bnxn](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [Love Made Me Do It](https://open.spotify.com/album/09afloJIDVkuukH5f0Puo2) | 3:16 | 2023-10-13 |  |
 | [Love Me or Leave Me](https://open.spotify.com/track/4K5F02hRfBL8m1s0QXs6bO) | [Ukweli](https://open.spotify.com/artist/5I48tG854vS1rY1isuMOgQ), [Xenia Manasseh](https://open.spotify.com/artist/2J4IvVbi2h1wB2A0p5kd86) | [Maybe](https://open.spotify.com/album/0MpZuzKe0xHwbLOnDiyCqt) | 3:25 | 2022-11-25 | 2023-11-16 |
 | [Love Nwantiti \(Acoustic Version\)](https://open.spotify.com/track/450u5gGMGwQXmtLSR7AN2s) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [Love Nwantiti \(Acoustic Version\)](https://open.spotify.com/album/246C6Xn7fypfU7vQ8m1YP6) | 3:04 | 2021-10-08 | 2023-04-21 |
-| [Love Song](https://open.spotify.com/track/57dxObrS7BrzycOrKK9Z3k) | [Marioo](https://open.spotify.com/artist/4ZTqTkO2kj1doQrbqQ5KEe), [Alikiba](https://open.spotify.com/artist/2nGoKcLdXktxEXvMdTDsIT) | [Love Song](https://open.spotify.com/album/3AJ5ucxVHyDDjYRf7fAeHE) | 3:28 | 2023-07-28 |  |
+| [Love Song](https://open.spotify.com/track/2wmyzZUVCXLQTgJvFsh5ef) | [Marioo](https://open.spotify.com/artist/4ZTqTkO2kj1doQrbqQ5KEe), [Alikiba](https://open.spotify.com/artist/2nGoKcLdXktxEXvMdTDsIT) | [Love Song](https://open.spotify.com/album/4yKIBcOMs0m8JQv1ZbDJHt) | 3:28 | 2024-03-15 |  |
+| [Love Song](https://open.spotify.com/track/57dxObrS7BrzycOrKK9Z3k) | [Marioo](https://open.spotify.com/artist/4ZTqTkO2kj1doQrbqQ5KEe), [Alikiba](https://open.spotify.com/artist/2nGoKcLdXktxEXvMdTDsIT) | [Love Song](https://open.spotify.com/album/3AJ5ucxVHyDDjYRf7fAeHE) | 3:28 | 2023-07-28 | 2024-03-21 |
 | [Love, Today](https://open.spotify.com/track/1LoCwW6zCCmuLxDU8p06Q8) | [Preyé](https://open.spotify.com/artist/6dbTmlL5brq9B2fkUj2MQD), [LADIPOE](https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu) | [Don't Look Down!](https://open.spotify.com/album/6DEAfTTihu0p1nNkti8Bn0) | 3:26 | 2022-09-01 | 2022-11-15 |
 | [Love/Hate](https://open.spotify.com/track/2ehiR88HYzb7QuO2bh3rKL) | [Xenia Manasseh](https://open.spotify.com/artist/2J4IvVbi2h1wB2A0p5kd86) | [LOVE / HATE Pt\. 1](https://open.spotify.com/album/1Fv4ReFcbmh4P1tGe96lvC) | 2:43 | 2023-09-01 | 2023-10-26 |
 | [Loving You](https://open.spotify.com/track/3wnvVFi4YQrMQBar9mjr2x) | [Elaine](https://open.spotify.com/artist/5ZkuGe2wkDbeL8JmmhvMOx), [Blxckie](https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL) | [Loving You](https://open.spotify.com/album/5t6XKWbdoGqCAKNrkSXN63) | 4:18 | 2023-03-17 | 2023-07-21 |
@@ -273,7 +274,8 @@
 | [Sade](https://open.spotify.com/track/5RFUao2hVBqb7PT6Mag63z) | [L.A.X](https://open.spotify.com/artist/6lNEt5LSOQRUFl43OnnHUL) | [ZaZa Vibes](https://open.spotify.com/album/18XSFBvoDjWRmApQZIDzkD) | 2:21 | 2020-12-03 | 2022-09-02 |
 | [Sail](https://open.spotify.com/track/26mrUHchbcgiCahub27gZY) | [Mopao Mumu](https://open.spotify.com/artist/2FGcCdhsLNAlPS1pCpBFf3) | [Sail](https://open.spotify.com/album/6QyzYTkLfUpToqNDd8SpSm) | 2:28 | 2023-06-02 | 2023-12-15 |
 | [SAME AS YOU](https://open.spotify.com/track/3vYLmH7y9vkEKI9IB1fw8v) | [WurlD](https://open.spotify.com/artist/5x2vmU3Hj2Y66luW7c7vIn) | [My WorlD With U](https://open.spotify.com/album/17B9cVbQfEIoi8k6sZnzDm) | 2:50 | 2022-03-11 | 2023-02-04 |
-| [Sarafina](https://open.spotify.com/track/2yPDSFXa5vQqWuzp2Zhhp3) | [WurlD](https://open.spotify.com/artist/5x2vmU3Hj2Y66luW7c7vIn) | [Sarafina](https://open.spotify.com/album/3NvXYPow2aoFAW48f3CCYe) | 3:10 | 2023-10-13 |  |
+| [Sarafina](https://open.spotify.com/track/0ihzl8eB3WzXt0dJm00iwN) | [WurlD](https://open.spotify.com/artist/5x2vmU3Hj2Y66luW7c7vIn) | [Sarafina](https://open.spotify.com/album/3YvcYmGDwqLY5wujoDDuzF) | 3:10 | 2024-03-15 |  |
+| [Sarafina](https://open.spotify.com/track/2yPDSFXa5vQqWuzp2Zhhp3) | [WurlD](https://open.spotify.com/artist/5x2vmU3Hj2Y66luW7c7vIn) | [Sarafina](https://open.spotify.com/album/3NvXYPow2aoFAW48f3CCYe) | 3:10 | 2023-10-13 | 2024-03-21 |
 | [Satisfy My Soul](https://open.spotify.com/track/3R679xi0Ht1FrWtXpAXr6O) | [Ria Sean](https://open.spotify.com/artist/41fhfR098MSw8CTCFcr1od) | [Fluid](https://open.spotify.com/album/0q0jqTHpWYZIg0kYfTfXbB) | 3:14 | 2021-12-16 | 2023-04-21 |
 | [Save My Soul \(Who Will Remain?\)](https://open.spotify.com/track/4oCbEd2ub83mqyKQUhU3qN) | [Just a Band](https://open.spotify.com/artist/0udvEwi0yqxRFUnv5x0VJA) | [Save My Soul \(Who Will Remain?\)](https://open.spotify.com/album/65HSV5JvGWhtbvnBOITYMY) | 2:37 | 2022-08-05 | 2022-08-13 |
 | [Seasons](https://open.spotify.com/track/4DLy6eUxyIWTYyvpgMCoBD) | [Nana Fofie](https://open.spotify.com/artist/4VUZyzya1v8H9StAeuKYXW), [Zuchu](https://open.spotify.com/artist/6LzSS8yBk2YQpAvQxzOu0M) | [Seasons](https://open.spotify.com/album/7MmAX3YCJv7qPBV9bvad1a) | 3:41 | 2023-07-28 |  |

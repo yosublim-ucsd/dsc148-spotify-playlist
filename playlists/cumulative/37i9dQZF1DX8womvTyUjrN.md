@@ -4,7 +4,7 @@
 
 > Fresh Latin pop on the rise\. Cover: Joaquina
 
-601 songs - 1 day 6 hr 12 min
+603 songs - 1 day 6 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,7 +15,7 @@
 | [1Trago](https://open.spotify.com/track/7pNzIsog6lGrTL7coKYtKl) | [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [1Trago](https://open.spotify.com/album/61bbTZzUgZZnZPpuKYHj26) | 3:21 | 2023-04-14 | 2023-10-21 |
 | [2+1](https://open.spotify.com/track/0uB9gsssuj6l3XLi25ADYl) | [Judeline](https://open.spotify.com/artist/1H6X7yhnXZg73f9bssaj1Q) | [2+1](https://open.spotify.com/album/3bPJNCgy93rlyBQdBoAHCu) | 2:37 | 2023-10-06 | 2023-12-02 |
 | [20 Minutos](https://open.spotify.com/track/64tJTziuLk4Q3NJKT4j0xK) | [Sharlene](https://open.spotify.com/artist/1gIUNwemvV0ieFYpL6jbEB) | [20 Minutos](https://open.spotify.com/album/1IgtGBd7kISzw15xkFwllh) | 3:23 | 2022-05-13 | 2022-07-26 |
-| [26 \- ni tarde ni temprano](https://open.spotify.com/track/6ClF0j9hpvx0PcNBbiUZT9) | [Nicole Zignago](https://open.spotify.com/artist/1SflmlTg1rQ6pTBQ1CbWEP) | [26 \(ni tarde ni temprano\)](https://open.spotify.com/album/7fhRpgRxxa7FUZWQXpRitl) | 3:23 | 2024-02-02 |  |
+| [26 \- ni tarde ni temprano](https://open.spotify.com/track/6ClF0j9hpvx0PcNBbiUZT9) | [Nicole Zignago](https://open.spotify.com/artist/1SflmlTg1rQ6pTBQ1CbWEP) | [26 \(ni tarde ni temprano\)](https://open.spotify.com/album/7fhRpgRxxa7FUZWQXpRitl) | 3:23 | 2024-02-02 | 2024-03-21 |
 | [5 > 1](https://open.spotify.com/track/1dX0ZPraR1ZaQ2THFMwEOp) | [Noreh](https://open.spotify.com/artist/1JHgX0v8Dx86wpfQkZuJFg) | [Baladas Tatuadas Vol\. 1](https://open.spotify.com/album/5EGaYkNFCmG09BkbSYoXS8) | 3:12 | 2024-03-08 |  |
 | [5 estrellas](https://open.spotify.com/track/5yszl4UEZcnrXdTmkawdjw) | [Marc Seguí](https://open.spotify.com/artist/5FQ8tBUtIamA2hRtatrYUF) | [5 estrellas](https://open.spotify.com/album/1XMOWi216RSztbI7MXOwcV) | 3:18 | 2023-06-09 | 2023-09-16 |
 | [737 \- Live](https://open.spotify.com/track/0jV5XudI1NaiDqHFunNplU) | [Seven Kayne](https://open.spotify.com/artist/4C29ETLBPmYKYwtJUepbJz) | [Live Sessions](https://open.spotify.com/album/0cWyYl8QBnndPhH04eCSov) | 2:54 | 2022-10-28 | 2022-12-10 |
@@ -29,6 +29,7 @@
 | [Acto Final](https://open.spotify.com/track/6l2T9Y8Dx0xk0TKpuuF2D6) | [Mariangela](https://open.spotify.com/artist/6rbhHufoSGkldXNhOtb6Mf) | [Sensible](https://open.spotify.com/album/1NjrLqsDn8YbgSHzotKfsJ) | 3:36 | 2024-02-02 | 2024-02-17 |
 | [After](https://open.spotify.com/track/13VKzAXOVaZvdID3eg7GRU) | [M4gna](https://open.spotify.com/artist/3r7eiuLSmaw4jXeUG6NatF), [Vgomez](https://open.spotify.com/artist/7dtDNOdU0y0uHtjsVDOlU4) | [After](https://open.spotify.com/album/7sHETRN0d1Drl92z6jawH2) | 2:59 | 2022-04-15 | 2022-05-19 |
 | [Agua Salada](https://open.spotify.com/track/22QO6gby3fhNRkNVAFxp5v) | [Marc Seguí](https://open.spotify.com/artist/5FQ8tBUtIamA2hRtatrYUF) | [Agua Salada](https://open.spotify.com/album/3bKROtBqvLYbu3zXuRqR3W) | 3:33 | 2022-07-28 | 2022-10-29 |
+| [aguardiente](https://open.spotify.com/track/45Es57L177QwhVZ06hwvCd) | [Miranda del Sol](https://open.spotify.com/artist/45PFKsor6a9cExACotnBs7) | [aguardiente](https://open.spotify.com/album/3TIihrZYBfGRrfsEcGz6Ch) | 2:51 | 2024-03-15 |  |
 | [agüita con sal](https://open.spotify.com/track/3ECMn8Zl2A1o1lQBxg9xvb) | [ISADORA](https://open.spotify.com/artist/3y581XbiJyiM9Y0HBoZk8C) | [agüita con sal](https://open.spotify.com/album/3zGOqF828QOc0A5KcRpJJo) | 2:36 | 2024-02-02 | 2024-03-02 |
 | [AHORA O NUNCA](https://open.spotify.com/track/1XYiRky7xG3HRAks3edgco) | [Chicocurlyhead](https://open.spotify.com/artist/4EzUsFLITcQxDuuDeADaV1), [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [AHORA O NUNCA](https://open.spotify.com/album/1nDeZFMZNqKmUZmjzT9AKn) | 2:36 | 2023-10-20 | 2024-02-06 |
 | [Ahora Que No Te Tengo](https://open.spotify.com/track/59FrYnRQIPpCtnJ7LOxx49) | [Chanel](https://open.spotify.com/artist/5DeX42pr2TilrnsUgjG8D1), [FMK](https://open.spotify.com/artist/0dUyjgCyjfj5eMx6bX2TWf) | [Ahora Que No Te Tengo](https://open.spotify.com/album/62AI6DFXsSSVWV5l0ZBOVl) | 2:35 | 2024-01-12 |  |
@@ -57,7 +58,7 @@
 | [Aquí Sigo \(Remix\)](https://open.spotify.com/track/6eUx5EQY61BFNHafU1Ow8s) | [3AM](https://open.spotify.com/artist/1LU7BxbUvvuA4eNDdEO22D), [KHEA](https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR) | [Aquí Sigo \(Remix\)](https://open.spotify.com/album/0k111CK5XkSEH9hFObcrYu) | 3:28 | 2023-11-17 | 2024-03-07 |
 | [Aquí Sigo \- Remix](https://open.spotify.com/track/3ZFkTy11pA5qRAXJhXrygN) | [3AM](https://open.spotify.com/artist/1LU7BxbUvvuA4eNDdEO22D), [KHEA](https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR) | [Lluvia: Rain City Vol.2](https://open.spotify.com/album/02uvn1R7qDVWSrQheR6qZ4) | 3:28 | 2024-03-01 |  |
 | [Aquí voy a estar](https://open.spotify.com/track/6YIDc3upMMQlfqCcsQIPCz) | [Luz Pinos](https://open.spotify.com/artist/23D2NCgVNbve7gXb2AjOFM), [Maréh](https://open.spotify.com/artist/2SIZkgqao1WVQAuliN0PN4) | [Aquí voy a estar](https://open.spotify.com/album/1gtfWLpH8iADoYRAs0QnHe) | 4:30 | 2022-04-01 | 2022-06-18 |
-| [Argumentos](https://open.spotify.com/track/3oyze75R0o1QvMJMdVK2K9) | [Darho](https://open.spotify.com/artist/3Vzymy9i8OqVAbiCbAXCWq) | [Argumentos](https://open.spotify.com/album/7E6Cd1yNTMWHTvGTieyb7v) | 3:31 | 2024-01-12 |  |
+| [Argumentos](https://open.spotify.com/track/3oyze75R0o1QvMJMdVK2K9) | [Darho](https://open.spotify.com/artist/3Vzymy9i8OqVAbiCbAXCWq) | [Argumentos](https://open.spotify.com/album/7E6Cd1yNTMWHTvGTieyb7v) | 3:31 | 2024-01-12 | 2024-03-21 |
 | [ARRANCARMELO](https://open.spotify.com/track/2x8oBuYaObjqHqgGuIUZ0b) | [WOS](https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK) | [ARRANCARMELO](https://open.spotify.com/album/4KFUPud6oSm5IgLwnGkzPt) | 3:03 | 2022-04-15 | 2022-05-21 |
 | [ATRÉVETE \- Afro Version](https://open.spotify.com/track/7ygxApodlwQufjiR4n1poP) | [Valentina](https://open.spotify.com/artist/3ins7Wpq5xVFJi8wZdBAFI) | [SMTO](https://open.spotify.com/album/6LDbYYP5GFO7Y0iTerv4n2) | 2:31 | 2022-03-21 | 2022-06-13 |
 | [awitado :\(](https://open.spotify.com/track/2Bqs1VyrVezmDp9pBUr1GL) | [Leon Leiden](https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW), [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [awitado :\(](https://open.spotify.com/album/2KU98wlYsgiwrHZMzoC5Ad) | 3:49 | 2024-01-26 |  |
@@ -509,6 +510,7 @@
 | [Skapat](https://open.spotify.com/track/0iFLPu2hj9ROYDh3tzHIhr) | [Lalo Ebratt](https://open.spotify.com/artist/1GAymyGBvB4gQy5Z5LZ1Wj), [zzoilo](https://open.spotify.com/artist/7c53ZFyajVMTo08HmvoB6b) | [Skapat](https://open.spotify.com/album/4py1UOmRZJ7uUzgchzoeyC) | 2:42 | 2022-10-07 | 2022-12-13 |
 | [SLM](https://open.spotify.com/track/4debYQqEg4tKUKD8DmyHxW) | [Yan Block](https://open.spotify.com/artist/6TKygPpVT29oGUogu4J9Ec) | [12 AM](https://open.spotify.com/album/15HaUS3Z6Z7AcMNa1GIqXM) | 2:47 | 2023-01-13 | 2023-01-15 |
 | [Sobrenatural](https://open.spotify.com/track/3Y1qpzuVijchoFsnsoXEah) | [Mila](https://open.spotify.com/artist/1A4rgJKh9qAm9PWIDAT1x5) | [Sobrenatural](https://open.spotify.com/album/6OwLG0sDsLlruI8JToGkew) | 3:09 | 2022-03-21 | 2022-05-07 |
+| [Sola](https://open.spotify.com/track/7y5ZyLfcBa5oYhP8jZwUcz) | [Chita](https://open.spotify.com/artist/7ejyCwT1b7MIwHVCVO8HjX) | [SOLA](https://open.spotify.com/album/4jM7PAcZUqdVhRoke8bF1N) | 3:11 | 2024-03-15 |  |
 | [solo mía](https://open.spotify.com/track/2MP4w74qYD5dMIPbsMTFXU) | [Ana Mancebo](https://open.spotify.com/artist/2jc3R2Jcr4J78KeYt71Epd) | [solo mía](https://open.spotify.com/album/06j7wbAJhg44hBC3fbrtDj) | 2:52 | 2022-06-12 | 2022-07-26 |
 | [solo x ti](https://open.spotify.com/track/5DhPx1cy248eVvTBoTVrrB) | [Pol Granch](https://open.spotify.com/artist/1aMt4A5jrQHxDYyC7rXgV0) | [solo x ti](https://open.spotify.com/album/0x9tjfkTjrYiQuTAflIiNe) | 3:18 | 2022-08-08 | 2022-10-29 |
 | [solo x ti \- Remix](https://open.spotify.com/track/4SHCYN7oI5bMzMFUF4RrNj) | [Pol Granch](https://open.spotify.com/artist/1aMt4A5jrQHxDYyC7rXgV0), [Abraham Mateo](https://open.spotify.com/artist/2bxxlINUlcMQQb39K7IopR) | [solo x ti \(Remix\)](https://open.spotify.com/album/7xVcOKGRAPLBUk2uLzqk0W) | 3:08 | 2023-08-18 | 2024-01-13 |

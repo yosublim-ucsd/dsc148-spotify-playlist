@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV0gynK7G6pD.md) - [plain]
 
 > Updated every Friday with the very best classical new releases\. Cover: Yo\-Yo Ma, Leonidas Kavakos & Emanuel Ax
 
-[Spotify](https://open.spotify.com/user/spotify) - 705,854 likes - 86 songs - 6 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 705,936 likes - 86 songs - 6 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -95,4 +95,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV0gynK7G6pD.md) - [plain]
 | 85 | [Divertimento for Strings, Sz\. 113: I\. Allegro non troppo](https://open.spotify.com/track/5pAj5Q5At6O3HmWUskzcC2) | [Béla Bartók](https://open.spotify.com/artist/5zyNXVd952fWOjkdGHCvPd), [BBC Scottish Symphony Orchestra](https://open.spotify.com/artist/3CufywuKIBC8WhWNvzTQr1), [Thomas Dausgaard](https://open.spotify.com/artist/58CE0vlZwCJZ8pLzctnt2B) | [Divertimento for Strings, Sz\. 113: I\. Allegro non troppo](https://open.spotify.com/album/2ouD8XHFetW0CvG8W3xuDO) | 9:32 |
 | 86 | [D'Ombre et de soleil: I\. Dans la saison qu'Adonis fut blessé…](https://open.spotify.com/track/3DpdmmUqet23AdFU9y7ns9) | [Louis Beydts](https://open.spotify.com/artist/3rYEEgaJfS05U0gHm3NpJ4), [Cyrille Dubois](https://open.spotify.com/artist/5GCz1F2oRhCO0s2V2OmVOA), [Tristan Raës](https://open.spotify.com/artist/5vjOADTRAuceDQVkdvAFUH) | [Louis Beydts: Mélodies & Songs](https://open.spotify.com/album/03rSiJzDjCAf1LW2fiN0qS) | 1:39 |
 
-Snapshot ID: `MCwxMGUzYjQyYmZhYjc4MWNlNDFkN2YxMjllODg2ZmI0MjdiNmU5NDE0`
+Snapshot ID: `MCw1YWIyNDQ3MTRkOGJkMzg0NDM4MmExNjMxNTI3YzlhNDgyZDE4YTQz`

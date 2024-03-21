@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZUtjhu2IHar.md) - [plain]
 
 > Our editor’s picks for best songs from The Locker in 2023\. Cover: NOAHFINNCE
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,474 likes - 50 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,478 likes - 50 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZUtjhu2IHar.md) - [plain]
 | 25 | [Drones](https://open.spotify.com/track/5JvspoRjPwqMmPV5anGYZj) | [grandson](https://open.spotify.com/artist/4ZgQDCtRqZlhLswVS6MHN4) | [I Love You, I’m Trying](https://open.spotify.com/album/2BTddi3XyqAcset5mAYl2n) | 2:30 |
 | 26 | [Brat](https://open.spotify.com/track/5s3bbolCTheDzCZDkfiwYD) | [Delilah Bon](https://open.spotify.com/artist/5JUFYlgwsbqpLcU9TMlsve) | [Brat](https://open.spotify.com/album/7H1sFr4WCcIPGfyMyY0dCW) | 3:06 |
 | 27 | [Too Many Things](https://open.spotify.com/track/2SU3rA2M4wgHMzHSHNiXkx) | [The Linda Lindas](https://open.spotify.com/artist/13dTrWNNrnZ3AkgNyQNKP5) | [Too Many Things](https://open.spotify.com/album/1WJrfUrpJYdN009MkXgTWx) | 2:35 |
-| 28 | [Airhead](https://open.spotify.com/track/3Gsn1htwAx5KGY8SRjtIfs) | [Honey Revenge](https://open.spotify.com/artist/1DHMgO3IIYSYPJ6CFyDYnK) | [Retrovision](https://open.spotify.com/album/4IiWkF0yCGFHGudJ98hV7f) | 2:43 |
+| 28 | [Airhead](https://open.spotify.com/track/7juaMHv1j8EAmEVEAlo1iT) | [Honey Revenge](https://open.spotify.com/artist/1DHMgO3IIYSYPJ6CFyDYnK) | [Retrovision](https://open.spotify.com/album/1BOoOLLNUPLQNTuObi2PRh) | 2:43 |
 | 29 | [Enemy](https://open.spotify.com/track/6CgWLkFhymq6o4nvOuJrKC) | [WALWIN](https://open.spotify.com/artist/25I3ONjJhbX1mE62i57djG) | [Enemy](https://open.spotify.com/album/0O9aKBmu7LlWmlknQgI1Pz) | 3:22 |
 | 30 | [Favourite Toy](https://open.spotify.com/track/7LwtKDNVK0s08ZoNkqlCzP) | [Jazmin Bean](https://open.spotify.com/artist/6blEmsLU25ewy8hHtgZaSL) | [Favourite Toy](https://open.spotify.com/album/6BkAzEqhZ7E9R6QfBJnjha) | 3:01 |
 | 31 | [Certified Depressant](https://open.spotify.com/track/0XZgKDLz2L0OtykGPlMCqu) | [Taylor Acorn](https://open.spotify.com/artist/1A0WloDoRE88uUwo3wensY) | [Certified Depressant](https://open.spotify.com/album/0S7dblAkKQyMbyLqCfKGZH) | 2:49 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZUtjhu2IHar.md) - [plain]
 | 49 | [Bathroom Floor](https://open.spotify.com/track/1m7lgJNH3l3vOm6DVs5QpZ) | [Sophie Powers](https://open.spotify.com/artist/0hrMKLqgNEIemiF4Ag8dTI) | [Bathroom Floor](https://open.spotify.com/album/0lz6NWWx2xScDcqoB9R8PY) | 2:32 |
 | 50 | [Ugly Crier](https://open.spotify.com/track/6duh2S2a8bVSzoFXJoJUFR) | [Mckenna Grace](https://open.spotify.com/artist/1ZjXhESKpjsv31L7ykuJBE) | [Ugly Crier](https://open.spotify.com/album/1gI5fU6JlZXE0umN1sBOtn) | 2:32 |
 
-Snapshot ID: `MCxjMDU3YzJhNDNmYWMxODA0NDk5YTg1M2IxODY3YjY1ZmFkOTk4NGRm`
+Snapshot ID: `MCxiM2U1ZDNjMjU0OGM3MjA1ZmZiMDM0ZWQwOTIwOGRiMjljYWI5NDQx`

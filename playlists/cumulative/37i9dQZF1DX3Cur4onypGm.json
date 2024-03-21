@@ -287,6 +287,44 @@
     },
     {
       "album": {
+        "name": "Hanayui",
+        "url": "https://open.spotify.com/album/4oipSdnjjBjwrRUYaWGeyY"
+      },
+      "artists": [
+        {
+          "name": "Yuki Yuna(CV:Terui Haruka)",
+          "url": "https://open.spotify.com/artist/4dCboxN2CkJXOTuAraerL8"
+        },
+        {
+          "name": "Washio Sumi(CV:Mimori Suzuko)",
+          "url": "https://open.spotify.com/artist/2qlrbe6HdKT0UfEaJu6rP4"
+        },
+        {
+          "name": "Nogi Wakaba(CV:Ohashi Ayaka)",
+          "url": "https://open.spotify.com/artist/1i0Vvrchx7IItcAVD62Kzv"
+        },
+        {
+          "name": "Kusunoki Mebuki(CV:Tanaka Minami)",
+          "url": "https://open.spotify.com/artist/1qVfVQHF74rFLaFLeYHZ8R"
+        },
+        {
+          "name": "Akihara Sekka(CV:Sembongi Sayaka)",
+          "url": "https://open.spotify.com/artist/7cocVX6FveRb9hU0zvfzPQ"
+        },
+        {
+          "name": "Kohagura Natsume(CV:Yamamoto Nozomi)",
+          "url": "https://open.spotify.com/artist/3FO3Lu0IDdbPNMsiwqwBSg"
+        }
+      ],
+      "date_added": "2024-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273706,
+      "name": "Hanayui",
+      "url": "https://open.spotify.com/track/4DTOOX1LihdSqAL6YnlkPv"
+    },
+    {
+      "album": {
         "name": "Yukiyuna ha Yusha de Aru Best Album \"Yuuki no Uta\"",
         "url": "https://open.spotify.com/album/3ZmqrrCL138obWhCKK4lUK"
       },
@@ -1076,7 +1114,7 @@
       ],
       "date_added": "2024-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-21",
       "duration_ms": 273706,
       "name": "\u30cf\u30ca\u30e6\u30a4",
       "url": "https://open.spotify.com/track/7EalhRuUJcBz99HgvQfZpf"

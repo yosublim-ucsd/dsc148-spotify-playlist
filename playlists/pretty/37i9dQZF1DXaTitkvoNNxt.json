@@ -1,12 +1,12 @@
 {
   "description": "Songs from the last decade that will make you sing and dance all summer long!",
-  "num_followers": 1427856,
+  "num_followers": 1427808,
   "original_name": "Summer Hits of the 10s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhZjhhMGEwMjk1NzYzNTdmMjg3ZmQ3YjFiZmRhNWY1ZjgwMjRlMWVh",
+  "snapshot_id": "MCwxNDY1NmQ5MDM2Y2EwY2E4OGMwOTgxYzUxZDg4M2U5MGJlYTEyM2Qz",
   "tracks": [
     {
       "added_at": "2023-08-03 03:15:30",
@@ -235,22 +235,6 @@
     {
       "added_at": "2023-08-03 03:15:30",
       "album": {
-        "name": "Illuminate",
-        "url": "https://open.spotify.com/album/1ne2D0NxoGyZd31gAM4HNd"
-      },
-      "artists": [
-        {
-          "name": "Shawn Mendes",
-          "url": "https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr"
-        }
-      ],
-      "duration_ms": 187973,
-      "name": "Treat You Better",
-      "url": "https://open.spotify.com/track/3QGsuHI8jO1Rx4JWLUh9jd"
-    },
-    {
-      "added_at": "2023-08-03 03:15:30",
-      "album": {
         "name": "TALKING IS HARD",
         "url": "https://open.spotify.com/album/3mNoFlD1wsoXfkljfFzExT"
       },
@@ -263,6 +247,22 @@
       "duration_ms": 199080,
       "name": "Shut Up and Dance",
       "url": "https://open.spotify.com/track/4kbj5MwxO1bq9wjT5g9HaA"
+    },
+    {
+      "added_at": "2023-08-03 03:15:30",
+      "album": {
+        "name": "Illuminate",
+        "url": "https://open.spotify.com/album/1ne2D0NxoGyZd31gAM4HNd"
+      },
+      "artists": [
+        {
+          "name": "Shawn Mendes",
+          "url": "https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr"
+        }
+      ],
+      "duration_ms": 187973,
+      "name": "Treat You Better",
+      "url": "https://open.spotify.com/track/3QGsuHI8jO1Rx4JWLUh9jd"
     },
     {
       "added_at": "2023-08-03 03:15:30",
@@ -427,6 +427,22 @@
     {
       "added_at": "2023-08-03 03:15:30",
       "album": {
+        "name": "Motion",
+        "url": "https://open.spotify.com/album/48zisMeiXniWLzOQghbPqS"
+      },
+      "artists": [
+        {
+          "name": "Calvin Harris",
+          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
+        }
+      ],
+      "duration_ms": 222533,
+      "name": "Summer",
+      "url": "https://open.spotify.com/track/6YUTL4dYpB9xZO5qExPf05"
+    },
+    {
+      "added_at": "2023-08-03 03:15:30",
+      "album": {
         "name": "Global Warming: Meltdown (Deluxe Version)",
         "url": "https://open.spotify.com/album/2F7tejLHzTqFq2XLol9ZGy"
       },
@@ -443,22 +459,6 @@
       "duration_ms": 204160,
       "name": "Timber",
       "url": "https://open.spotify.com/track/3cHyrEgdyYRjgJKSOiOtcS"
-    },
-    {
-      "added_at": "2023-08-03 03:15:30",
-      "album": {
-        "name": "Motion",
-        "url": "https://open.spotify.com/album/48zisMeiXniWLzOQghbPqS"
-      },
-      "artists": [
-        {
-          "name": "Calvin Harris",
-          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
-        }
-      ],
-      "duration_ms": 222533,
-      "name": "Summer",
-      "url": "https://open.spotify.com/track/6YUTL4dYpB9xZO5qExPf05"
     },
     {
       "added_at": "2023-08-03 03:15:30",
@@ -743,22 +743,6 @@
     {
       "added_at": "2023-08-03 03:15:30",
       "album": {
-        "name": "Wanted on Voyage (Expanded Edition)",
-        "url": "https://open.spotify.com/album/6mcMKGEgukjyiR5IKElQ2E"
-      },
-      "artists": [
-        {
-          "name": "George Ezra",
-          "url": "https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j"
-        }
-      ],
-      "duration_ms": 200733,
-      "name": "Budapest",
-      "url": "https://open.spotify.com/track/2ixsaeFioXJmMgkkbd4uj1"
-    },
-    {
-      "added_at": "2023-08-03 03:15:30",
-      "album": {
         "name": "Camila",
         "url": "https://open.spotify.com/album/2vD3zSQr8hNlg0obNel4TE"
       },
@@ -779,18 +763,18 @@
     {
       "added_at": "2023-08-03 03:15:30",
       "album": {
-        "name": "Speak Your Mind (Deluxe)",
-        "url": "https://open.spotify.com/album/7lPoGKpCGgdKFAxpudhAH5"
+        "name": "Wanted on Voyage (Expanded Edition)",
+        "url": "https://open.spotify.com/album/6mcMKGEgukjyiR5IKElQ2E"
       },
       "artists": [
         {
-          "name": "Anne-Marie",
-          "url": "https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX"
+          "name": "George Ezra",
+          "url": "https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j"
         }
       ],
-      "duration_ms": 186986,
-      "name": "2002",
-      "url": "https://open.spotify.com/track/2BgEsaKNfHUdlh97KmvFyo"
+      "duration_ms": 200733,
+      "name": "Budapest",
+      "url": "https://open.spotify.com/track/2ixsaeFioXJmMgkkbd4uj1"
     },
     {
       "added_at": "2023-08-03 03:15:30",
@@ -811,18 +795,18 @@
     {
       "added_at": "2023-08-03 03:15:30",
       "album": {
-        "name": "Unorthodox Jukebox",
-        "url": "https://open.spotify.com/album/58ufpQsJ1DS5kq4hhzQDiI"
+        "name": "Speak Your Mind (Deluxe)",
+        "url": "https://open.spotify.com/album/7lPoGKpCGgdKFAxpudhAH5"
       },
       "artists": [
         {
-          "name": "Bruno Mars",
-          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+          "name": "Anne-Marie",
+          "url": "https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX"
         }
       ],
-      "duration_ms": 178560,
-      "name": "Treasure",
-      "url": "https://open.spotify.com/track/55h7vJchibLdUkxdlX3fK7"
+      "duration_ms": 186986,
+      "name": "2002",
+      "url": "https://open.spotify.com/track/2BgEsaKNfHUdlh97KmvFyo"
     },
     {
       "added_at": "2023-08-03 03:15:30",
@@ -843,6 +827,38 @@
       "duration_ms": 208373,
       "name": "Don't Let Me Down",
       "url": "https://open.spotify.com/track/1i1fxkWeaMmKEB4T7zqbzK"
+    },
+    {
+      "added_at": "2023-08-03 03:15:30",
+      "album": {
+        "name": "Unorthodox Jukebox",
+        "url": "https://open.spotify.com/album/58ufpQsJ1DS5kq4hhzQDiI"
+      },
+      "artists": [
+        {
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+        }
+      ],
+      "duration_ms": 178560,
+      "name": "Treasure",
+      "url": "https://open.spotify.com/track/55h7vJchibLdUkxdlX3fK7"
+    },
+    {
+      "added_at": "2023-08-03 03:15:30",
+      "album": {
+        "name": "American Teen",
+        "url": "https://open.spotify.com/album/6kf46HbnYCZzP6rjvQHYzg"
+      },
+      "artists": [
+        {
+          "name": "Khalid",
+          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
+        }
+      ],
+      "duration_ms": 202546,
+      "name": "Young Dumb & Broke",
+      "url": "https://open.spotify.com/track/5Z3GHaZ6ec9bsiI5BenrbY"
     },
     {
       "added_at": "2023-08-03 03:15:30",
@@ -871,22 +887,6 @@
       "duration_ms": 258342,
       "name": "Can't Hold Us (feat. Ray Dalton)",
       "url": "https://open.spotify.com/track/3bidbhpOYeV4knp8AIu8Xn"
-    },
-    {
-      "added_at": "2023-08-03 03:15:30",
-      "album": {
-        "name": "American Teen",
-        "url": "https://open.spotify.com/album/6kf46HbnYCZzP6rjvQHYzg"
-      },
-      "artists": [
-        {
-          "name": "Khalid",
-          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
-        }
-      ],
-      "duration_ms": 202546,
-      "name": "Young Dumb & Broke",
-      "url": "https://open.spotify.com/track/5Z3GHaZ6ec9bsiI5BenrbY"
     },
     {
       "added_at": "2023-08-03 03:15:30",
@@ -1255,22 +1255,6 @@
     {
       "added_at": "2023-08-03 03:15:30",
       "album": {
-        "name": "Mind Of Mine (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/5amj9zNeZ3B2EdpBgXrOZ0"
-      },
-      "artists": [
-        {
-          "name": "ZAYN",
-          "url": "https://open.spotify.com/artist/5ZsFI1h6hIdQRw2ti0hz81"
-        }
-      ],
-      "duration_ms": 202746,
-      "name": "PILLOWTALK",
-      "url": "https://open.spotify.com/track/0PDUDa38GO8lMxLCRc4lL1"
-    },
-    {
-      "added_at": "2023-08-03 03:15:30",
-      "album": {
         "name": "FRIENDS",
         "url": "https://open.spotify.com/album/1BmxOYHjQv1dKZRr13YRZM"
       },
@@ -1287,6 +1271,22 @@
       "duration_ms": 202620,
       "name": "FRIENDS",
       "url": "https://open.spotify.com/track/08bNPGLD8AhKpnnERrAc6G"
+    },
+    {
+      "added_at": "2023-08-03 03:15:30",
+      "album": {
+        "name": "Mind Of Mine (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5amj9zNeZ3B2EdpBgXrOZ0"
+      },
+      "artists": [
+        {
+          "name": "ZAYN",
+          "url": "https://open.spotify.com/artist/5ZsFI1h6hIdQRw2ti0hz81"
+        }
+      ],
+      "duration_ms": 202746,
+      "name": "PILLOWTALK",
+      "url": "https://open.spotify.com/track/0PDUDa38GO8lMxLCRc4lL1"
     },
     {
       "added_at": "2023-08-03 03:15:30",
@@ -1339,6 +1339,22 @@
     {
       "added_at": "2023-08-03 03:15:30",
       "album": {
+        "name": "Shower",
+        "url": "https://open.spotify.com/album/4JlzEvVJqpb62Xwc0EmOHr"
+      },
+      "artists": [
+        {
+          "name": "Becky G",
+          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
+        }
+      ],
+      "duration_ms": 206166,
+      "name": "Shower",
+      "url": "https://open.spotify.com/track/3DmW6y7wTEYHJZlLo1r6XJ"
+    },
+    {
+      "added_at": "2023-08-03 03:15:30",
+      "album": {
         "name": "What Is Love? (Deluxe Edition)",
         "url": "https://open.spotify.com/album/1MvF4ulZKH7SaDQs9rE5nc"
       },
@@ -1359,18 +1375,22 @@
     {
       "added_at": "2023-08-03 03:15:30",
       "album": {
-        "name": "Shower",
-        "url": "https://open.spotify.com/album/4JlzEvVJqpb62Xwc0EmOHr"
+        "name": "31 Minutes to Takeoff",
+        "url": "https://open.spotify.com/album/2nnIlWcriIqcJtjduWcTRl"
       },
       "artists": [
         {
-          "name": "Becky G",
-          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
+          "name": "Mike Posner",
+          "url": "https://open.spotify.com/artist/2KsP6tYLJlTBvSUxnwlVWa"
+        },
+        {
+          "name": "Gigamesh",
+          "url": "https://open.spotify.com/artist/1Bo8Afb2Qbjs4x6kJHyjle"
         }
       ],
-      "duration_ms": 206166,
-      "name": "Shower",
-      "url": "https://open.spotify.com/track/3DmW6y7wTEYHJZlLo1r6XJ"
+      "duration_ms": 213293,
+      "name": "Cooler Than Me - Single Mix",
+      "url": "https://open.spotify.com/track/2V4bv1fNWfTcyRJKmej6Sj"
     },
     {
       "added_at": "2023-08-03 03:15:30",
@@ -1391,26 +1411,6 @@
       "duration_ms": 214480,
       "name": "Work from Home (feat. Ty Dolla $ign)",
       "url": "https://open.spotify.com/track/4tCtwWceOPWzenK2HAIJSb"
-    },
-    {
-      "added_at": "2023-08-03 03:15:30",
-      "album": {
-        "name": "31 Minutes to Takeoff",
-        "url": "https://open.spotify.com/album/2nnIlWcriIqcJtjduWcTRl"
-      },
-      "artists": [
-        {
-          "name": "Mike Posner",
-          "url": "https://open.spotify.com/artist/2KsP6tYLJlTBvSUxnwlVWa"
-        },
-        {
-          "name": "Gigamesh",
-          "url": "https://open.spotify.com/artist/1Bo8Afb2Qbjs4x6kJHyjle"
-        }
-      ],
-      "duration_ms": 213293,
-      "name": "Cooler Than Me - Single Mix",
-      "url": "https://open.spotify.com/track/2V4bv1fNWfTcyRJKmej6Sj"
     },
     {
       "added_at": "2023-08-03 03:15:30",
@@ -1535,22 +1535,6 @@
     {
       "added_at": "2023-08-03 03:15:30",
       "album": {
-        "name": "Everything Is 4",
-        "url": "https://open.spotify.com/album/59eUYETmE1zi31ESb3SUkI"
-      },
-      "artists": [
-        {
-          "name": "Jason Derulo",
-          "url": "https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y"
-        }
-      ],
-      "duration_ms": 207719,
-      "name": "Want to Want Me",
-      "url": "https://open.spotify.com/track/7oGZAicScQt96OAW4AruYy"
-    },
-    {
-      "added_at": "2023-08-03 03:15:30",
-      "album": {
         "name": "My Everything (Deluxe)",
         "url": "https://open.spotify.com/album/6EVYTRG1drKdO8OnIQBeEj"
       },
@@ -1567,6 +1551,22 @@
       "duration_ms": 214840,
       "name": "Break Free",
       "url": "https://open.spotify.com/track/12KUFSHFgT0XCoiSlvdQi4"
+    },
+    {
+      "added_at": "2023-08-03 03:15:30",
+      "album": {
+        "name": "Everything Is 4",
+        "url": "https://open.spotify.com/album/59eUYETmE1zi31ESb3SUkI"
+      },
+      "artists": [
+        {
+          "name": "Jason Derulo",
+          "url": "https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y"
+        }
+      ],
+      "duration_ms": 207719,
+      "name": "Want to Want Me",
+      "url": "https://open.spotify.com/track/7oGZAicScQt96OAW4AruYy"
     },
     {
       "added_at": "2023-08-03 03:15:30",
@@ -1591,26 +1591,6 @@
     {
       "added_at": "2023-08-03 03:15:30",
       "album": {
-        "name": "Blue",
-        "url": "https://open.spotify.com/album/2xZSrcBmvMw9Y8hac6xU7L"
-      },
-      "artists": [
-        {
-          "name": "Jonas Blue",
-          "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
-        },
-        {
-          "name": "JP Cooper",
-          "url": "https://open.spotify.com/artist/4kYGAK2zu9EAomwj3hXkXy"
-        }
-      ],
-      "duration_ms": 196613,
-      "name": "Perfect Strangers",
-      "url": "https://open.spotify.com/track/3P3pw6C19j31Rnzgo3JG7o"
-    },
-    {
-      "added_at": "2023-08-03 03:15:30",
-      "album": {
         "name": "I Don't Care (with Justin Bieber)",
         "url": "https://open.spotify.com/album/5Nux7ozBJ5KJ02QYWwrneR"
       },
@@ -1627,6 +1607,26 @@
       "duration_ms": 219946,
       "name": "I Don't Care (with Justin Bieber)",
       "url": "https://open.spotify.com/track/3HVWdVOQ0ZA45FuZGSfvns"
+    },
+    {
+      "added_at": "2023-08-03 03:15:30",
+      "album": {
+        "name": "Blue",
+        "url": "https://open.spotify.com/album/2xZSrcBmvMw9Y8hac6xU7L"
+      },
+      "artists": [
+        {
+          "name": "Jonas Blue",
+          "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
+        },
+        {
+          "name": "JP Cooper",
+          "url": "https://open.spotify.com/artist/4kYGAK2zu9EAomwj3hXkXy"
+        }
+      ],
+      "duration_ms": 196613,
+      "name": "Perfect Strangers",
+      "url": "https://open.spotify.com/track/3P3pw6C19j31Rnzgo3JG7o"
     },
     {
       "added_at": "2023-08-03 03:15:30",
@@ -1683,22 +1683,22 @@
     {
       "added_at": "2023-08-03 03:15:30",
       "album": {
-        "name": "Summer Party Anthems",
-        "url": "https://open.spotify.com/album/7oA3n7CRInntyXA0GQiJsm"
+        "name": "My Everything (Deluxe)",
+        "url": "https://open.spotify.com/album/6EVYTRG1drKdO8OnIQBeEj"
       },
       "artists": [
         {
-          "name": "Shakira",
-          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
         },
         {
-          "name": "Freshlyground",
-          "url": "https://open.spotify.com/artist/7AcV1lk8Zrgo1691PDWEle"
+          "name": "Iggy Azalea",
+          "url": "https://open.spotify.com/artist/5yG7ZAZafVaAlMTeBybKAL"
         }
       ],
-      "duration_ms": 201773,
-      "name": "Waka Waka (This Time for Africa) [The Official 2010 FIFA World Cup (TM) Song] (feat. Freshlyground)",
-      "url": "https://open.spotify.com/track/1ZlHr9FYHT7YTbXCoxPq5C"
+      "duration_ms": 193920,
+      "name": "Problem",
+      "url": "https://open.spotify.com/track/7vS3Y0IKjde7Xg85LWIEdP"
     },
     {
       "added_at": "2023-08-03 03:15:30",
@@ -1719,42 +1719,22 @@
     {
       "added_at": "2023-08-03 03:15:30",
       "album": {
-        "name": "Cloud Nine",
-        "url": "https://open.spotify.com/album/0uMIzWh1uEpHEBell4rlF8"
+        "name": "Summer Party Anthems",
+        "url": "https://open.spotify.com/album/7oA3n7CRInntyXA0GQiJsm"
       },
       "artists": [
         {
-          "name": "Kygo",
-          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
+          "name": "Shakira",
+          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
         },
         {
-          "name": "Parson James",
-          "url": "https://open.spotify.com/artist/48sLioddyaXkuhyHXSkpsB"
+          "name": "Freshlyground",
+          "url": "https://open.spotify.com/artist/7AcV1lk8Zrgo1691PDWEle"
         }
       ],
-      "duration_ms": 223186,
-      "name": "Stole the Show",
-      "url": "https://open.spotify.com/track/5masKPHeAOVNgxdLebIcK7"
-    },
-    {
-      "added_at": "2023-08-03 03:15:30",
-      "album": {
-        "name": "My Everything (Deluxe)",
-        "url": "https://open.spotify.com/album/6EVYTRG1drKdO8OnIQBeEj"
-      },
-      "artists": [
-        {
-          "name": "Ariana Grande",
-          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
-        },
-        {
-          "name": "Iggy Azalea",
-          "url": "https://open.spotify.com/artist/5yG7ZAZafVaAlMTeBybKAL"
-        }
-      ],
-      "duration_ms": 193920,
-      "name": "Problem",
-      "url": "https://open.spotify.com/track/7vS3Y0IKjde7Xg85LWIEdP"
+      "duration_ms": 201773,
+      "name": "Waka Waka (This Time for Africa) [The Official 2010 FIFA World Cup (TM) Song] (feat. Freshlyground)",
+      "url": "https://open.spotify.com/track/1ZlHr9FYHT7YTbXCoxPq5C"
     },
     {
       "added_at": "2023-08-03 03:15:30",
@@ -1779,6 +1759,26 @@
     {
       "added_at": "2023-08-03 03:15:30",
       "album": {
+        "name": "Cloud Nine",
+        "url": "https://open.spotify.com/album/0uMIzWh1uEpHEBell4rlF8"
+      },
+      "artists": [
+        {
+          "name": "Kygo",
+          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
+        },
+        {
+          "name": "Parson James",
+          "url": "https://open.spotify.com/artist/48sLioddyaXkuhyHXSkpsB"
+        }
+      ],
+      "duration_ms": 223186,
+      "name": "Stole the Show",
+      "url": "https://open.spotify.com/track/5masKPHeAOVNgxdLebIcK7"
+    },
+    {
+      "added_at": "2023-08-03 03:15:30",
+      "album": {
         "name": "The Big Revival",
         "url": "https://open.spotify.com/album/2R5PAxygJ4YeRuSwoalKam"
       },
@@ -1795,22 +1795,22 @@
     {
       "added_at": "2023-08-03 03:15:30",
       "album": {
-        "name": "Skin",
-        "url": "https://open.spotify.com/album/4NZWRpoMuXaHU7csTjWdB5"
+        "name": "Summertime Sadness [Lana Del Rey vs. Cedric Gervais] (Cedric Gervais Remix)",
+        "url": "https://open.spotify.com/album/1fXwOvaqIdkhp5F3fiFbCv"
       },
       "artists": [
         {
-          "name": "Flume",
-          "url": "https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer"
+          "name": "Lana Del Rey",
+          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
         },
         {
-          "name": "kai",
-          "url": "https://open.spotify.com/artist/6xHUXzrfhFgnIv86EBR3Ml"
+          "name": "Cedric Gervais",
+          "url": "https://open.spotify.com/artist/4Wjf8diP59VmPG7fi4y724"
         }
       ],
-      "duration_ms": 234909,
-      "name": "Never Be Like You (feat. Kai)",
-      "url": "https://open.spotify.com/track/5WI2ltQIdwgzf1SNE76JyR"
+      "duration_ms": 214912,
+      "name": "Summertime Sadness (Lana Del Rey Vs. Cedric Gervais) - Cedric Gervais Remix",
+      "url": "https://open.spotify.com/track/6PUIzlqotEmPuBfjbwYWOB"
     }
   ],
   "unique_name": "Summer Hits of the 10s",

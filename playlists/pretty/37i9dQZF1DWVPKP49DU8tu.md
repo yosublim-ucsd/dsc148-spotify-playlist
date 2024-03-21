@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVPKP49DU8tu.md) - [plain]
 
 > Solo hit da cantare \(anche fuori dalla doccia\).
 
-[Spotify](https://open.spotify.com/user/spotify) - 356,402 likes - 100 songs - 6 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 356,417 likes - 100 songs - 6 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,8 +62,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVPKP49DU8tu.md) - [plain]
 | 52 | [Wonderwall \- Remastered](https://open.spotify.com/track/7ygpwy2qP3NbrxVkHvUhXY) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [\(What's The Story\) Morning Glory? \(Deluxe Remastered Edition\)](https://open.spotify.com/album/6tOe4eAF8xNhEkl9WyvsE4) | 4:18 |
 | 53 | [Baby Can I Hold You](https://open.spotify.com/track/2DjWsDGgL1xNbhnr7f6t5F) | [Tracy Chapman](https://open.spotify.com/artist/7oPgCQqMMXEXrNau5vxYZP) | [Tracy Chapman](https://open.spotify.com/album/6hmmX5UP4rIvOpGSaPerV8) | 3:13 |
 | 54 | [Bleeding Love](https://open.spotify.com/track/7wZUrN8oemZfsEd1CGkbXE) | [Leona Lewis](https://open.spotify.com/artist/5lKZWd6HiSCLfnDGrq9RAm) | [Spirit](https://open.spotify.com/album/0VaAFegRAAn4OCg7p4QjN5) | 4:22 |
-| 55 | [What About Us](https://open.spotify.com/track/0Qh38w01QRXK6KHIv0e3hb) | [P!nk](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR) | [Beautiful Trauma](https://open.spotify.com/album/7hwhuEQT4Fp5bzwLlYZtiz) | 4:29 |
-| 56 | [Where Did You Go? \(feat\. MNEK\)](https://open.spotify.com/track/3sa06xVNmLLYIxdNNmVQN8) | [Jax Jones](https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr), [MNEK](https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G) | [Where Did You Go \(feat\. MNEK\)](https://open.spotify.com/album/5vSLX6JljaSXuRY2Wqi6xL) | 2:57 |
+| 55 | [Where Did You Go? \(feat\. MNEK\)](https://open.spotify.com/track/3sa06xVNmLLYIxdNNmVQN8) | [Jax Jones](https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr), [MNEK](https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G) | [Where Did You Go \(feat\. MNEK\)](https://open.spotify.com/album/5vSLX6JljaSXuRY2Wqi6xL) | 2:57 |
+| 56 | [What About Us](https://open.spotify.com/track/0Qh38w01QRXK6KHIv0e3hb) | [P!nk](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR) | [Beautiful Trauma](https://open.spotify.com/album/7hwhuEQT4Fp5bzwLlYZtiz) | 4:29 |
 | 57 | [I Don't Care \(with Justin Bieber\)](https://open.spotify.com/track/3HVWdVOQ0ZA45FuZGSfvns) | [Ed Sheeran & Justin Bieber](https://open.spotify.com/artist/1WsYCXdezMjn0KoIrLvMmC), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [I Don't Care \(with Justin Bieber\)](https://open.spotify.com/album/5Nux7ozBJ5KJ02QYWwrneR) | 3:39 |
 | 58 | [You're Beautiful](https://open.spotify.com/track/0vg4WnUWvze6pBOJDTq99k) | [James Blunt](https://open.spotify.com/artist/7KMqksf0UMdyA0UCf4R3ux) | [Back to Bedlam](https://open.spotify.com/album/1ekaxA9Q5GzUPCepx4wzMF) | 3:29 |
 | 59 | [Message In A Bottle](https://open.spotify.com/track/1oYYd2gnWZYrt89EBXdFiO) | [The Police](https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE) | [Reggatta De Blanc \(Remastered 2003\)](https://open.spotify.com/album/2EpuND32cO7CX0gXZl2NB6) | 4:50 |
@@ -98,10 +98,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVPKP49DU8tu.md) - [plain]
 | 88 | [Leave a Light On](https://open.spotify.com/track/6lOWoTqVnAWXchddtTH31W) | [Tom Walker](https://open.spotify.com/artist/7z2avKuuiMAT4XZJFv8Rvh) | [Leave a Light On](https://open.spotify.com/album/3pczowjToa5SYsI6Th4KO8) | 3:05 |
 | 89 | [The Passenger](https://open.spotify.com/track/15BQ7vEDv2LJuh8TxWIhtd) | [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [Lust For Life](https://open.spotify.com/album/2jnV6ytZOmt71iEC5xHEYz) | 4:43 |
 | 90 | [Beautiful People \(feat\. Khalid\)](https://open.spotify.com/track/4evmHXcjt3bTUHD1cvny97) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [Beautiful People \(feat\. Khalid\)](https://open.spotify.com/album/3E12WU80fDMyu7GyIAx7wJ) | 3:17 |
-| 91 | [Rebel Rebel \- 2016 Remaster](https://open.spotify.com/track/2EC9IJj7g0mN1Q5VrZkiYY) | [David Bowie](https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy) | [Diamond Dogs \(2016 Remaster\)](https://open.spotify.com/album/72mfhbEsMtXR6s7v9UhKe3) | 4:34 |
-| 92 | [Juice](https://open.spotify.com/track/0k664IuFwVP557Gnx7RhIl) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Cuz I Love You](https://open.spotify.com/album/6dFFcYQ8VhifgdKgYY5LYL) | 3:15 |
-| 93 | [Hey Jude \- Remastered 2015](https://open.spotify.com/track/0aym2LBJBk9DAYuHHutrIl) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [1 \(Remastered\)](https://open.spotify.com/album/7vEJAtP3KgKSpOHVgwm3Eh) | 7:05 |
-| 94 | [Light My Fire](https://open.spotify.com/track/5uvosCdMlFdTXhoazkTI5R) | [The Doors](https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt) | [The Doors](https://open.spotify.com/album/1jWmEhn3ggaL6isoyLfwBn) | 7:09 |
+| 91 | [Juice](https://open.spotify.com/track/0k664IuFwVP557Gnx7RhIl) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Cuz I Love You](https://open.spotify.com/album/6dFFcYQ8VhifgdKgYY5LYL) | 3:15 |
+| 92 | [Rebel Rebel \- 2016 Remaster](https://open.spotify.com/track/2EC9IJj7g0mN1Q5VrZkiYY) | [David Bowie](https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy) | [Diamond Dogs \(2016 Remaster\)](https://open.spotify.com/album/72mfhbEsMtXR6s7v9UhKe3) | 4:34 |
+| 93 | [Light My Fire](https://open.spotify.com/track/5uvosCdMlFdTXhoazkTI5R) | [The Doors](https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt) | [The Doors](https://open.spotify.com/album/1jWmEhn3ggaL6isoyLfwBn) | 7:09 |
+| 94 | [Hey Jude \- Remastered 2015](https://open.spotify.com/track/0aym2LBJBk9DAYuHHutrIl) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [1 \(Remastered\)](https://open.spotify.com/album/7vEJAtP3KgKSpOHVgwm3Eh) | 7:05 |
 | 95 | [Titanium \(feat\. Sia\)](https://open.spotify.com/track/0lHAMNU8RGiIObScrsRgmP) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Nothing but the Beat 2.0](https://open.spotify.com/album/5aprcHwM1KJhaY9Kbxkfkn) | 4:05 |
 | 96 | [DON'T YOU WORRY](https://open.spotify.com/track/0gYXw7aPoybWFfB7btQ0eM) | [Black Eyed Peas](https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS), [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [DON'T YOU WORRY](https://open.spotify.com/album/3plMoBhvQ07H4itII2Qdeb) | 3:16 |
 | 97 | [Ci pensiamo domani](https://open.spotify.com/track/5qR8me97mDHqvggt1G2eFn) | [Angelina Mango](https://open.spotify.com/artist/1A6HBLulvBFzNtlMb7b08f) | [Ci pensiamo domani](https://open.spotify.com/album/0nrHKiZuYxFzgW4rUdTLbP) | 3:00 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVPKP49DU8tu.md) - [plain]
 | 99 | [1973](https://open.spotify.com/track/1BV0m40U0M4t1SLIsDnwZl) | [James Blunt](https://open.spotify.com/artist/7KMqksf0UMdyA0UCf4R3ux) | [All the Lost Souls](https://open.spotify.com/album/3obQJSWpREwvi19TTAvM5v) | 4:40 |
 | 100 | [Love Is All Around \- From "Four Weddings And A Funeral"](https://open.spotify.com/track/0PCGfA36HrVPmsBZJ57zOU) | [Wet Wet Wet](https://open.spotify.com/artist/2u0gw0uCWBMiqV7h0N8kai) | [Picture This \(20th Anniversary Edition\)](https://open.spotify.com/album/2ddZd59LSTHIyH8QGSisjY) | 4:06 |
 
-Snapshot ID: `MCw0NGFkNjAyMGQ1YWM5NjRhODM2ZTU4ODE5MjRhZGEwZjQyOGUwMmFl`
+Snapshot ID: `MCxmZjA1ZTgxNmI3YmUwZmUzNDcyN2RiMWQ3MTI4NjcwY2EwMmFhYzk4`

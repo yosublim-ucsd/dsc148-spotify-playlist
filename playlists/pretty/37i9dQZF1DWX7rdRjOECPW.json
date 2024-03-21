@@ -1,12 +1,12 @@
 {
   "description": "Sommer, Sonne, Lieblingshits  \u2600\ufe0f",
-  "num_followers": 1509804,
+  "num_followers": 1509700,
   "original_name": "Sommerhits 2023",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiNjM1MGJkNmZjMTQ1MzI0OWQ0YTBkZDg5NGUwMmZmMWJkNjYxNTcz",
+  "snapshot_id": "MCw1ZjFlMjk1MDM0ZGJjMmVmNDU4ZjA2MDczN2FhZjExOWQ4YTlhYzA1",
   "tracks": [
     {
       "added_at": "2023-09-13 13:59:55",
@@ -643,6 +643,30 @@
     {
       "added_at": "2023-09-13 13:59:55",
       "album": {
+        "name": "Cynical",
+        "url": "https://open.spotify.com/album/5RJagY9ID50QgTadJyTLuF"
+      },
+      "artists": [
+        {
+          "name": "twocolors",
+          "url": "https://open.spotify.com/artist/7ACEUD7UsmmXrnj4OLt8f9"
+        },
+        {
+          "name": "Safri Duo",
+          "url": "https://open.spotify.com/artist/2UOx6w3eHpPKc3RBnNV3Rl"
+        },
+        {
+          "name": "Chris de Sarandy",
+          "url": "https://open.spotify.com/artist/3xAB6KlDT1mrv1y74c3H3X"
+        }
+      ],
+      "duration_ms": 191365,
+      "name": "Cynical",
+      "url": "https://open.spotify.com/track/6VritP6GDDRBFkijEkZWbm"
+    },
+    {
+      "added_at": "2023-09-13 13:59:55",
+      "album": {
         "name": "The Feeling",
         "url": "https://open.spotify.com/album/4Ec0qA1sxuX6vrViAwkxxG"
       },
@@ -675,26 +699,18 @@
     {
       "added_at": "2023-09-13 13:59:55",
       "album": {
-        "name": "Cynical",
-        "url": "https://open.spotify.com/album/5RJagY9ID50QgTadJyTLuF"
+        "name": "Je M'appelle",
+        "url": "https://open.spotify.com/album/6T6uWGOSAUhvoZfLlIyDuJ"
       },
       "artists": [
         {
-          "name": "twocolors",
-          "url": "https://open.spotify.com/artist/7ACEUD7UsmmXrnj4OLt8f9"
-        },
-        {
-          "name": "Safri Duo",
-          "url": "https://open.spotify.com/artist/2UOx6w3eHpPKc3RBnNV3Rl"
-        },
-        {
-          "name": "Chris de Sarandy",
-          "url": "https://open.spotify.com/artist/3xAB6KlDT1mrv1y74c3H3X"
+          "name": "Benzz",
+          "url": "https://open.spotify.com/artist/2GYIFLUsVVHPPUzOfJndRh"
         }
       ],
-      "duration_ms": 191365,
-      "name": "Cynical",
-      "url": "https://open.spotify.com/track/6VritP6GDDRBFkijEkZWbm"
+      "duration_ms": 139574,
+      "name": "Je M'appelle",
+      "url": "https://open.spotify.com/track/6A3SB2C4U6JtCavQOXLYNN"
     },
     {
       "added_at": "2023-09-13 13:59:55",
@@ -711,22 +727,6 @@
       "duration_ms": 196939,
       "name": "Can't Tame Her",
       "url": "https://open.spotify.com/track/4vOoQh9MhS9pyrbvc8LyMz"
-    },
-    {
-      "added_at": "2023-09-13 13:59:55",
-      "album": {
-        "name": "Je M'appelle",
-        "url": "https://open.spotify.com/album/6T6uWGOSAUhvoZfLlIyDuJ"
-      },
-      "artists": [
-        {
-          "name": "Benzz",
-          "url": "https://open.spotify.com/artist/2GYIFLUsVVHPPUzOfJndRh"
-        }
-      ],
-      "duration_ms": 139574,
-      "name": "Je M'appelle",
-      "url": "https://open.spotify.com/track/6A3SB2C4U6JtCavQOXLYNN"
     },
     {
       "added_at": "2023-09-13 13:59:55",
@@ -787,30 +787,6 @@
     {
       "added_at": "2023-09-13 13:59:55",
       "album": {
-        "name": "Back To You",
-        "url": "https://open.spotify.com/album/1wntuGFGZSdkDL3pOTcdpr"
-      },
-      "artists": [
-        {
-          "name": "Lost Frequencies",
-          "url": "https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7"
-        },
-        {
-          "name": "Elley Duh\u00e9",
-          "url": "https://open.spotify.com/artist/67MNhiAICFY6Pwc2YxCO0K"
-        },
-        {
-          "name": "X Ambassadors",
-          "url": "https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB"
-        }
-      ],
-      "duration_ms": 157252,
-      "name": "Back To You",
-      "url": "https://open.spotify.com/track/3K00Ib1shkOEiAXU5pec6e"
-    },
-    {
-      "added_at": "2023-09-13 13:59:55",
-      "album": {
         "name": "Clouds",
         "url": "https://open.spotify.com/album/2ArRQNLxf9t0O0gvmG5Vsj"
       },
@@ -867,6 +843,30 @@
       "duration_ms": 170783,
       "name": "LEBENSLANG - HBz Remix",
       "url": "https://open.spotify.com/track/3VezyVVENyPQ5u2DIJsITb"
+    },
+    {
+      "added_at": "2023-09-13 13:59:55",
+      "album": {
+        "name": "Back To You",
+        "url": "https://open.spotify.com/album/1wntuGFGZSdkDL3pOTcdpr"
+      },
+      "artists": [
+        {
+          "name": "Lost Frequencies",
+          "url": "https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7"
+        },
+        {
+          "name": "Elley Duh\u00e9",
+          "url": "https://open.spotify.com/artist/67MNhiAICFY6Pwc2YxCO0K"
+        },
+        {
+          "name": "X Ambassadors",
+          "url": "https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB"
+        }
+      ],
+      "duration_ms": 157252,
+      "name": "Back To You",
+      "url": "https://open.spotify.com/track/3K00Ib1shkOEiAXU5pec6e"
     },
     {
       "added_at": "2023-09-13 13:59:55",

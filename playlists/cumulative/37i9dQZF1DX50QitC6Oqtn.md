@@ -4,7 +4,7 @@
 
 > Because we all deserve great pop love songs in one playlist.
 
-432 songs - 1 day 1 hr 2 min
+433 songs - 1 day 1 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,7 +41,8 @@
 | [Arms](https://open.spotify.com/track/48HT7Zzd3We4ZjG82lsbdK) | [The Paper Kites](https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy) | [On the Train Ride Home](https://open.spotify.com/album/52nbX1xWBxOQrFSCqepCUz) | 3:23 | 2019-08-04 | 2021-10-16 |
 | [Arms](https://open.spotify.com/track/4EXvl9cypQrKVYwabqd1EY) | [The Paper Kites](https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy) | [On the Train Ride Home](https://open.spotify.com/album/4amdDYo23aSOrv7hSZrCMT) | 3:23 | 2021-11-08 | 2022-11-13 |
 | [At My Weakest](https://open.spotify.com/track/6rcTyXe8W8kjQLyALBRj1v) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [You Deserve Better / At My Weakest](https://open.spotify.com/album/3M1MYH8SYxLaJfBWIAsAdL) | 3:37 | 2019-07-31 | 2019-11-08 |
-| [Austin](https://open.spotify.com/track/4NJqhmkGN042BrvHoMKUrJ) | [Dasha](https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I) | [Austin](https://open.spotify.com/album/4JtlZzYJEa7bejLF0ASnk0) | 2:51 | 2024-03-18 |  |
+| [Austin](https://open.spotify.com/track/4NJqhmkGN042BrvHoMKUrJ) | [Dasha](https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I) | [Austin](https://open.spotify.com/album/4JtlZzYJEa7bejLF0ASnk0) | 2:51 | 2024-03-18 | 2024-03-21 |
+| [Austin](https://open.spotify.com/track/6b81dy3WjbozXK6b7C1gu5) | [Dasha](https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I) | [What Happens Now?](https://open.spotify.com/album/0rQRrrZPPv6XXsxilJ1wFz) | 2:51 | 2024-03-18 |  |
 | [Baby I Know](https://open.spotify.com/track/4JJqbtQagIxuemSxtPyMpk) | [Sam DeRosa](https://open.spotify.com/artist/4xOi6SOP1jUoAeSfuPsfx0) | [Baby I Know](https://open.spotify.com/album/3K7JH5axMmBDQrahe0PoB2) | 3:22 | 2019-07-29\* | 2019-08-05 |
 | [Be Alright](https://open.spotify.com/track/3EPXxR3ImUwfayaurPi3cm) | [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y) | [Be Alright](https://open.spotify.com/album/0YZLXTaHLcgl5UdtKDiUXD) | 3:16 | 2019-07-31 |  |
 | [Beautiful People \(feat\. Khalid\)](https://open.spotify.com/track/4evmHXcjt3bTUHD1cvny97) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [Beautiful People \(feat\. Khalid\)](https://open.spotify.com/album/3E12WU80fDMyu7GyIAx7wJ) | 3:17 | 2019-07-29\* |  |

@@ -4,7 +4,7 @@
 
 > Chill, beachy tunes to soundtrack your summer.
 
-146 songs - 8 hr 31 min
+147 songs - 8 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,7 +35,8 @@
 | [Danny's Song](https://open.spotify.com/track/0ju1jP0cSPJ8tmojYBEI89) | [Loggins & Messina](https://open.spotify.com/artist/7emRV8AluG3d4e5T0DZiK9) | [The Best: Loggins & Messina Sittin' In Again](https://open.spotify.com/album/5BWgJaesMjpJWCTU9sgUPf) | 4:14 | 2022-06-20 |  |
 | [Dashboard Hula Girl](https://open.spotify.com/track/3nGglhkkqMtlVmlQ7weeg2) | [Kristian Bush](https://open.spotify.com/artist/6H2X3nGSnuLh8UeEyair9A) | [Summertime Six\-Pack](https://open.spotify.com/album/2vm15qy6altCkBjOf0COdr) | 3:27 | 2020-09-08 | 2022-07-29 |
 | [Dashboard Hula Girl](https://open.spotify.com/track/4G7022Uud1H67FSyfu4ic1) | [Kristian Bush](https://open.spotify.com/artist/6H2X3nGSnuLh8UeEyair9A) | [Summertime Six\-Pack](https://open.spotify.com/album/3QpdL2vmiTvHreU6KTqzTn) | 3:27 | 2022-07-08 |  |
-| [Deeper Well](https://open.spotify.com/track/2lJn77IeZAP9cmv6DPXOrL) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Deeper Well](https://open.spotify.com/album/2NXiMKrwmPrqU8epp20pW8) | 3:52 | 2024-03-09 |  |
+| [Deeper Well](https://open.spotify.com/track/2lJn77IeZAP9cmv6DPXOrL) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Deeper Well](https://open.spotify.com/album/2NXiMKrwmPrqU8epp20pW8) | 3:52 | 2024-03-09 | 2024-03-21 |
+| [Deeper Well](https://open.spotify.com/track/333XFHKsHU0pOocFzBgrJi) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Deeper Well](https://open.spotify.com/album/5SxZmGwc4eJuPp6PcO4JgJ) | 3:52 | 2024-03-09 |  |
 | [Down at the Lah De Dah](https://open.spotify.com/track/5IVduIm2vfqyVwt46H4TMQ) | [Jimmy Buffett](https://open.spotify.com/artist/28AyklUmMECPwdfo8NEsV0) | [Life On the Flip Side](https://open.spotify.com/album/0ne63EVUZXiNCCPsi9n9Sc) | 3:19 | 2020-09-08 | 2022-04-25 |
 | [Down In Mexico](https://open.spotify.com/track/6cVqgJjPs02jyrCaEXBIHJ) | [Jerrod Niemann](https://open.spotify.com/artist/0RKP52f5PNDCRZ9Luq2Sr7) | [Judge Jerrod & The Hung Jury](https://open.spotify.com/album/3VzLXlCQo9voFegEhlJPd9) | 3:12 | 2020-09-08 |  |
 | [Dreams \- The Campfire Sessions](https://open.spotify.com/track/0dZeiSrApr5SAkrH5rQaRH) | [Sarah Darling](https://open.spotify.com/artist/4WCpgJFxAdAsm4FSD9CAfX) | [Dreams \(The Campfire Sessions\)](https://open.spotify.com/album/1of3ww3gH47OlImOLsDAgb) | 3:46 | 2022-04-24 | 2022-06-21 |

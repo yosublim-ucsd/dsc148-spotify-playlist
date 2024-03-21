@@ -4,7 +4,7 @@
 
 > アニソン界を代表する作詞家として、様々な作品のファンを魅了してきた畑 亜貴。多彩な作風でシンガーソングライター、作曲家、プロデュースチーム「Q\-MHz」メンバーとしても活躍中。
 
-63 songs - 4 hr 30 min
+64 songs - 4 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,7 +65,8 @@
 | [童話迷宮](https://open.spotify.com/track/1lEDbcMIAPnT2HYjxpDy3t) | [Yukari Tamura](https://open.spotify.com/artist/7hb4cZrq9Myg7VEqI2z0hJ) | [童話迷宮](https://open.spotify.com/album/3N5adcjY3Er5xUnU7eYpQn) | 3:55 | 2022-04-08 |  |
 | [純白サンクチュアリィ](https://open.spotify.com/track/1DOvTy3Ysf7b8VobWpbdZR) | [茅原実里](https://open.spotify.com/artist/2BVUhHYQGZDr1YOQuySRuZ) | [純白サンクチュアリィ](https://open.spotify.com/album/4KZcIpumgWdYOfIXl35bxE) | 4:52 | 2022-04-08 |  |
 | [翼はPleasure Line](https://open.spotify.com/track/6akQfuvvdRFAM54GwSHUwv) | [栗林みな実](https://open.spotify.com/artist/4HqHuqNCbQAqxAzzDZwpvz) | [翼はPleasure Line](https://open.spotify.com/album/5cAH0SfvvAOJhTn02rmBWB) | 4:36 | 2022-04-08 |  |
-| [花ハ踊レヤいろはにほ](https://open.spotify.com/track/7DGlPJwVQY3INApfDS0l8P) | [チーム“ハナヤマタ”](https://open.spotify.com/artist/099PpAOXjE1xbE6gN7214P) | [花ハ踊レヤいろはにほ](https://open.spotify.com/album/6KqK4ORYe2KvTXbIoTlvoj) | 4:10 | 2022-04-08 |  |
+| [花ハ踊レヤいろはにほ](https://open.spotify.com/track/7lomNHXn5m9Itev2GfXSxH) | [チーム“ハナヤマタ”](https://open.spotify.com/artist/099PpAOXjE1xbE6gN7214P) | [ハナヤマタ音楽集『華鳴音女』](https://open.spotify.com/album/4VF09Omqjlm4PNE1oPDcAH) | 4:08 | 2024-01-31 |  |
+| [花ハ踊レヤいろはにほ](https://open.spotify.com/track/7DGlPJwVQY3INApfDS0l8P) | [チーム“ハナヤマタ”](https://open.spotify.com/artist/099PpAOXjE1xbE6gN7214P) | [花ハ踊レヤいろはにほ](https://open.spotify.com/album/6KqK4ORYe2KvTXbIoTlvoj) | 4:10 | 2022-04-08 | 2024-03-21 |
 | [蜿蜒 on and on and](https://open.spotify.com/track/2HLPuvybdx0NHKGTzRZHce) | [Aki Hata](https://open.spotify.com/artist/4OeurE1dYEfIjd2STbvMoC) | [蜿蜒 on and on and](https://open.spotify.com/album/5tCDKOjAmQHBbXBY0ULfP2) | 5:00 | 2022-04-08 |  |
 | [蜿蜒 on and on and](https://open.spotify.com/track/2nKOj62YYsOMtVHmz1Somg) | [Aki Hata](https://open.spotify.com/artist/4OeurE1dYEfIjd2STbvMoC) | [蜿蜒 on and on and](https://open.spotify.com/album/72nNEQncy3ZQgoyltEsBha) | 5:00 | 2022-04-08 | 2022-07-29 |
 | [跪くまで5秒だけ!](https://open.spotify.com/track/1KxFSyKu72LLwcTzLzOBiv) | [Miyuki Hashimoto](https://open.spotify.com/artist/7CvaCbO8PdEISO5PuVzp3u) | [跪くまで5秒だけ!](https://open.spotify.com/album/6JrpdQpd5MYxEYILUDv40E) | 4:22 | 2022-04-08 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVAWtyHQImlQ.md) - [plain]
 
 > All 60s, all ballads\. Cover: Etta James
 
-[Spotify](https://open.spotify.com/user/spotify) - 144,042 likes - 50 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 144,100 likes - 50 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVAWtyHQImlQ.md) - [plain]
 | 20 | [Unchained Melody](https://open.spotify.com/track/1jFhnVoJkcB4lf9tT0rSZS) | [The Righteous Brothers](https://open.spotify.com/artist/4b0WsB47XCa9F83BmwQ7WX) | [The Very Best Of The Righteous Brothers \- Unchained Melody](https://open.spotify.com/album/5CFmNamq1ceXn8RFJ9i7p6) | 3:36 |
 | 21 | [Anyone Who Knows What Love Is \(Will Understand\)](https://open.spotify.com/track/5GWCndQ8ykzf6rYRvwrFcj) | [Irma Thomas](https://open.spotify.com/artist/01Z8Z9K54zewyP04ZfGLSv) | [Take A Look](https://open.spotify.com/album/5yPYingqlUnFfEzbLPtrVS) | 2:56 |
 | 22 | [God Only Knows \- Mono](https://open.spotify.com/track/6iGU74CwXuT4XVepjc9Emf) | [The Beach Boys](https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV) | [Pet Sounds \(Original Mono & Stereo Mix\)](https://open.spotify.com/album/6GphKx2QAPRoVGWE9D7ou8) | 2:53 |
-| 23 | [I've Been Loving You Too Long](https://open.spotify.com/track/4pdLyulbYLCrPmDzWWeJIZ) | [Otis Redding](https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm) | [Otis Blue: Otis Redding Sings Soul \(Collector's Edition\)](https://open.spotify.com/album/68BCjMsHX4Gf11BJSkjwGz) | 3:01 |
-| 24 | [All I Have to Do Is Dream](https://open.spotify.com/track/7dblNGnRXEBrVJunazs2U5) | [The Everly Brothers](https://open.spotify.com/artist/4ACplpEqD6JIVgKrafauzs) | [The Very Best of The Everly Brothers](https://open.spotify.com/album/4lmdDGcU5u1xk3GCcVJSYT) | 2:23 |
+| 23 | [All I Have to Do Is Dream](https://open.spotify.com/track/7dblNGnRXEBrVJunazs2U5) | [The Everly Brothers](https://open.spotify.com/artist/4ACplpEqD6JIVgKrafauzs) | [The Very Best of The Everly Brothers](https://open.spotify.com/album/4lmdDGcU5u1xk3GCcVJSYT) | 2:23 |
+| 24 | [I've Been Loving You Too Long](https://open.spotify.com/track/4pdLyulbYLCrPmDzWWeJIZ) | [Otis Redding](https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm) | [Otis Blue: Otis Redding Sings Soul \(Collector's Edition\)](https://open.spotify.com/album/68BCjMsHX4Gf11BJSkjwGz) | 3:01 |
 | 25 | [I Can't Stop Loving You](https://open.spotify.com/track/79nJj5dMyTsUzKvN5jUXsJ) | [Ray Charles](https://open.spotify.com/artist/1eYhYunlNJlDoQhtYBvPsi) | [Modern Sounds in Country and Western Music, Vols 1 & 2](https://open.spotify.com/album/4j4w5DDWMKD7ePStAl19OF) | 4:16 |
 | 26 | [Moon River \(From "Breakfast at Tiffany's"\)](https://open.spotify.com/track/24AIahNHzBxm9S12peXbnG) | [Andy Williams](https://open.spotify.com/artist/4sj6D0zlMOl25nprDJBiU9) | [Moon River And Other Great Movie Themes](https://open.spotify.com/album/1RLfn8e4cQvC0WsYJM6rh2) | 2:42 |
 | 27 | [I Like The Way You Love Me](https://open.spotify.com/track/0nNavzWSD6AUiQK2rLgbBx) | [Brenton Wood](https://open.spotify.com/artist/6ohvzFHYmLd05kyYhLui5K) | [Oogum Boogum](https://open.spotify.com/album/108biCEg5vUG7Efei5EhTf) | 2:43 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVAWtyHQImlQ.md) - [plain]
 | 49 | [Fame and Fortune \- Remastered](https://open.spotify.com/track/3KIlJMknWs4rgVztAoWUbY) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [Elvis' Golden Records, Vol\. 3](https://open.spotify.com/album/5Iec810oL6PorbyBVjLnmD) | 2:30 |
 | 50 | [Oh, What A Night](https://open.spotify.com/track/2ht21Rlf8L6cPLBkYmhpcs) | [The Dells](https://open.spotify.com/artist/0wbrRIw2po5DV4LeaHw55S) | [Oh, What A Night! / The Great Ballads](https://open.spotify.com/album/5IjlGKFY636wmz3eqE7V1N) | 4:07 |
 
-Snapshot ID: `MCxkNDc4Y2I2NDc5YjMzZGFjMDMwMTVjOWViMmRiMTM5YzVkYjQ3ZGE0`
+Snapshot ID: `MCwzYzgxYzdkZmRhNDVjYTZkNWNiMjBiMTdiODUxY2ZmNzJiMmZhODAy`

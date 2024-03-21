@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1aRHunsdRJB.md) - [plain]
 
 > A playlist driven from the islands, take the front seat as Soca meets Bashment
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,553 likes - 68 songs - 3 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,557 likes - 68 songs - 3 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,8 +25,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1aRHunsdRJB.md) - [plain]
 | 15 | [Split in De Middle](https://open.spotify.com/track/5jorKk3TjGkG4gX44l8I4i) | [Freezy](https://open.spotify.com/artist/4suXYeRdmqURfBOpvTwViF) | [Split in De Middle](https://open.spotify.com/album/7ewwmtn3lhROcG8wvT5Zh4) | 2:19 |
 | 16 | [Beat Dem Bad](https://open.spotify.com/track/2K7lwIM77amplCz8FCA0RA) | [Squash](https://open.spotify.com/artist/1HXkVBU6RwIxxN6xuI6b00), [Vybz Kartel](https://open.spotify.com/artist/2NUz5P42WqkxilbI8ocN76) | [Street Shots 2020: Streets of Kingston](https://open.spotify.com/album/3StTdYfwlRuTvgjDfM00nk) | 2:24 |
 | 17 | [I Wish](https://open.spotify.com/track/0eFqA7YetI2Wp95GgdJbiK) | [Masicka](https://open.spotify.com/artist/2Gzy8TYJ5xrEMDyUjZuDsK) | [I Wish](https://open.spotify.com/album/1OMDWu1SbiOvYA7idzWm2h) | 2:55 |
-| 18 | [Monster Winer](https://open.spotify.com/track/3bZaDC1VEb1YpIpWu8ks5H) | [Kerwin Du Bois](https://open.spotify.com/artist/1yzePBgnaJhaFDpgt7MpxA), [Lil Rick](https://open.spotify.com/artist/1qKzKUnuQsjB83hBZffoq0) | [King Bubba Mashup Volume 1](https://open.spotify.com/album/5LnZJFfnBfjKfdDEiYPRo2) | 2:39 |
-| 19 | [Heaven Passport](https://open.spotify.com/track/3MEO3XzuF79wbokXOnWEJg) | [Skeng](https://open.spotify.com/artist/4SGo67MJz6DdsjzaRZ4OD7), [Intence](https://open.spotify.com/artist/3gwIlS9NOwBgwV3RfQIYiR) | [Heaven Passport](https://open.spotify.com/album/2isP74vOyY08TNii3xoeaZ) | 3:07 |
+| 18 | [Heaven Passport](https://open.spotify.com/track/3MEO3XzuF79wbokXOnWEJg) | [Skeng](https://open.spotify.com/artist/4SGo67MJz6DdsjzaRZ4OD7), [Intence](https://open.spotify.com/artist/3gwIlS9NOwBgwV3RfQIYiR) | [Heaven Passport](https://open.spotify.com/album/2isP74vOyY08TNii3xoeaZ) | 3:07 |
+| 19 | [Monster Winer](https://open.spotify.com/track/3bZaDC1VEb1YpIpWu8ks5H) | [Kerwin Du Bois](https://open.spotify.com/artist/1yzePBgnaJhaFDpgt7MpxA), [Lil Rick](https://open.spotify.com/artist/1qKzKUnuQsjB83hBZffoq0) | [King Bubba Mashup Volume 1](https://open.spotify.com/album/5LnZJFfnBfjKfdDEiYPRo2) | 2:39 |
 | 20 | [Tic It & Tac It](https://open.spotify.com/track/1Cy2yw8wrzHpi1UMK8nnL2) | [BoBo](https://open.spotify.com/artist/2ReU09e8cwWdv544qEDTDK) | [Tic It & Tac It](https://open.spotify.com/album/4ZYGqtyawJ66Dsp9C2VR3W) | 2:03 |
 | 21 | [Dear Promoter](https://open.spotify.com/track/74F3DNzHUSrJ6sNz4YkFWe) | [Voice](https://open.spotify.com/artist/61buXyJGplh38VDpEaB2ds), [Kes](https://open.spotify.com/artist/7E6r9S8qCRfZVCjF1A8do6) | [Dear Promoter](https://open.spotify.com/album/3fiMNWUuR76Xj38ugSEIHe) | 4:04 |
 | 22 | [Demon Girl](https://open.spotify.com/track/6msQvyBUYXUGCTANfYFjer) | [Tommy Lee Sparta](https://open.spotify.com/artist/2yHxc12dEUiLXNeqUadxBh) | [Demon Girl](https://open.spotify.com/album/6hpa86C5a60B5CDjAAXixD) | 3:22 |
@@ -74,7 +74,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1aRHunsdRJB.md) - [plain]
 | 64 | [The People Man \(T.P.M.\)](https://open.spotify.com/track/2xsCpoyTKtvaejdEQkLo7T) | [Kisha](https://open.spotify.com/artist/6vK1HRsfeYa8m5ejJD4RTc), [Mata](https://open.spotify.com/artist/1jo7mWxIHJtOm0TAoKL1jJ) | [Sick Jab Riddim \(Deluxe Edition\)](https://open.spotify.com/album/1T6GuTqK1HDTYmW8J8d3Nj) | 2:15 |
 | 65 | [Down in de Meat](https://open.spotify.com/track/32j9nOIzJrWPtgtzqrzVNp) | [Lednek](https://open.spotify.com/artist/4Ft1CU17NiK3HFEDMGxLCK) | [Smoke Mask Riddim](https://open.spotify.com/album/3NLzUwBAZqGkgzf0qnlic1) | 3:22 |
 | 66 | [Stink Behavior](https://open.spotify.com/track/6QVRM736CkUUJTE4Y3yOb0) | [Teddy Rhymez](https://open.spotify.com/artist/2gFphsuTLIhXahR31Dba3p), [Machel Montano](https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ) | [Stink Behavior](https://open.spotify.com/album/5Z95dplrRMPynM2i1iuOs8) | 3:31 |
-| 67 | [Feeling It](https://open.spotify.com/track/62pvKYjeztdIXbOoucJQfZ) | [Swappi](https://open.spotify.com/artist/1FXS9zsrivPmCwagsuhPdJ), [Ultimate Rejects](https://open.spotify.com/artist/5XwdTXM2AN5sMV7Su8dUZA) | [Feeling It](https://open.spotify.com/album/40IyjtthaOItYrK8mcASuu) | 4:07 |
-| 68 | [Soak Me Good](https://open.spotify.com/track/0IC3SSV31lfYGQ6thjYcoP) | [Patrice Roberts](https://open.spotify.com/artist/0crMctn4iXaE3XCHpeBkOt) | [The Jakson Bay Project](https://open.spotify.com/album/2Bsph4DDOen4CEGpesiBhl) | 3:19 |
+| 67 | [Soak Me Good](https://open.spotify.com/track/0IC3SSV31lfYGQ6thjYcoP) | [Patrice Roberts](https://open.spotify.com/artist/0crMctn4iXaE3XCHpeBkOt) | [The Jakson Bay Project](https://open.spotify.com/album/2Bsph4DDOen4CEGpesiBhl) | 3:19 |
+| 68 | [Feeling It](https://open.spotify.com/track/62pvKYjeztdIXbOoucJQfZ) | [Swappi](https://open.spotify.com/artist/1FXS9zsrivPmCwagsuhPdJ), [Ultimate Rejects](https://open.spotify.com/artist/5XwdTXM2AN5sMV7Su8dUZA) | [Feeling It](https://open.spotify.com/album/40IyjtthaOItYrK8mcASuu) | 4:07 |
 
-Snapshot ID: `MCwyZDY2NGZkNGJiOWUyMmMxZmZiMzI2MWJjYTBiZDk2YzE5ODcyNjBj`
+Snapshot ID: `MCxhZjYwYzRlNDk1YTM5YzVhMDljNmEyOTczODViYzkyZjhjZjZhZGNk`

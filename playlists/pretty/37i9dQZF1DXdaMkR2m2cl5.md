@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdaMkR2m2cl5.md) - [plain]
 
 > Soft, smoky undertones of singer\-songwriter sounds give way to lingering notes of rich, earthy chamber folk\. Cover: Glen Hansard.
 
-[Spotify](https://open.spotify.com/user/spotify) - 73,934 likes - 100 songs - 6 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 73,947 likes - 100 songs - 6 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,18 +48,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdaMkR2m2cl5.md) - [plain]
 | 38 | [YaYaYa](https://open.spotify.com/track/4Gc1SJ7eN65EcTvDMPcCzz) | [RY X](https://open.spotify.com/artist/2KjAo6wVc9d2WcxdxSArpV) | [Unfurl](https://open.spotify.com/album/7pBCXayVLX3fkIDWtMAwOp) | 3:49 |
 | 39 | [I'll Be out Here](https://open.spotify.com/track/7tkOm1ZNcIg4lKu0XCQgCq) | [Mick Flannery](https://open.spotify.com/artist/5tIXFM4sGNRR4Oo3hLbFdf) | [Mick Flannery](https://open.spotify.com/album/48rcrRY3lVDZ23cpE6kwls) | 3:22 |
 | 40 | [Summer's End](https://open.spotify.com/track/511dXUrzAfeivY8f0LUMZd) | [John Prine](https://open.spotify.com/artist/0nJUwPwC9Ti4vvuJ0q3MfT) | [The Tree of Forgiveness](https://open.spotify.com/album/13UwfQZqne7ZQIkUZsAPLg) | 3:29 |
-| 41 | [Grow into Love](https://open.spotify.com/track/52AthVA2opex8NcLSwtO8n) | [Half Moon Run](https://open.spotify.com/artist/3ceQN2NVlLg1hgTzljDE4n) | [Seasons of Change](https://open.spotify.com/album/74fRgN21qhhAQv43mbCJFq) | 2:42 |
-| 42 | [In My Life](https://open.spotify.com/track/2kgnKo9QCHpohSPxkDStLy) | [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [In My Life](https://open.spotify.com/album/3tgVhn9aidAfQvITwCZvhM) | 2:56 |
+| 41 | [In My Life](https://open.spotify.com/track/2kgnKo9QCHpohSPxkDStLy) | [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [In My Life](https://open.spotify.com/album/3tgVhn9aidAfQvITwCZvhM) | 2:56 |
+| 42 | [Grow into Love](https://open.spotify.com/track/52AthVA2opex8NcLSwtO8n) | [Half Moon Run](https://open.spotify.com/artist/3ceQN2NVlLg1hgTzljDE4n) | [Seasons of Change](https://open.spotify.com/album/74fRgN21qhhAQv43mbCJFq) | 2:42 |
 | 43 | [Every Time I Hear That Song](https://open.spotify.com/track/0hoRmVUp5cZ1empu0nSHU8) | [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [By the Way, I Forgive You](https://open.spotify.com/album/2wDKBKgco7u3V1IWEK5V8l) | 4:01 |
 | 44 | [Whiskey Whiskey](https://open.spotify.com/track/0c1rlIZao3TFvRWKBig16H) | [Joshua Burnside](https://open.spotify.com/artist/244AFgFclA9c1IcjWOAqoV) | [Into the Depths of Hell](https://open.spotify.com/album/7BMZsEBUvcUTxTjnhXbl9c) | 2:51 |
-| 45 | [Imogen](https://open.spotify.com/track/0X61Ud5Uzv44RvY3s1SsuO) | [Nick Mulvey](https://open.spotify.com/artist/3x8FbPjh2Qz55XMdE2Yalj) | [Wake Up Now](https://open.spotify.com/album/19YrX17syzkT6UZKLPpok4) | 4:15 |
-| 46 | [For Island Fires and Family](https://open.spotify.com/track/6Rk9OCPLRprxsMmYgnU1UF) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Dermot Kennedy](https://open.spotify.com/album/0JF97yTibdYQh25AaFuioF) | 4:45 |
-| 47 | [Time Stands](https://open.spotify.com/track/1U2ahyThq23V2R7rgfOSRr) | [Nathaniel Rateliff](https://open.spotify.com/artist/4qKpLkR911SUlnd4HAtF79) | [And It’s Still Alright](https://open.spotify.com/album/2bWrnSJNyGevb1pr2VYEGW) | 3:52 |
+| 45 | [For Island Fires and Family](https://open.spotify.com/track/6Rk9OCPLRprxsMmYgnU1UF) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Dermot Kennedy](https://open.spotify.com/album/0JF97yTibdYQh25AaFuioF) | 4:45 |
+| 46 | [Imogen](https://open.spotify.com/track/0X61Ud5Uzv44RvY3s1SsuO) | [Nick Mulvey](https://open.spotify.com/artist/3x8FbPjh2Qz55XMdE2Yalj) | [Wake Up Now](https://open.spotify.com/album/19YrX17syzkT6UZKLPpok4) | 4:15 |
+| 47 | [Drinking Song](https://open.spotify.com/track/5KkoM9rbevlWf8EePOrwfS) | [Haley Heynderickx](https://open.spotify.com/artist/73MDShZzdL4vUGMkmXOG6X) | [I Need to Start a Garden](https://open.spotify.com/album/4I8BEAiq1kPqRRlvWLTo5B) | 3:15 |
 | 48 | [Top to Toe](https://open.spotify.com/track/3Dtg7OR2EYGI5zZuuRpFKT) | [Fenne Lily](https://open.spotify.com/artist/7iPH2BRBF9wKa6ljxvdext) | [On Hold](https://open.spotify.com/album/1uvisLwZwDzXoMhbk9POzZ) | 3:36 |
-| 49 | [Drinking Song](https://open.spotify.com/track/5KkoM9rbevlWf8EePOrwfS) | [Haley Heynderickx](https://open.spotify.com/artist/73MDShZzdL4vUGMkmXOG6X) | [I Need to Start a Garden](https://open.spotify.com/album/4I8BEAiq1kPqRRlvWLTo5B) | 3:15 |
-| 50 | [The Wolves](https://open.spotify.com/track/0n7eIgN6SqXohLpAEd27Jr) | [Watchhouse](https://open.spotify.com/artist/675tsBPpaZtqyiBwEf3ZEP) | [Tides of a Teardrop](https://open.spotify.com/album/2SWy4Nbpw77DzLkwXba7Hk) | 4:05 |
-| 51 | [Nocturne](https://open.spotify.com/track/3wSrfFr3uqwz17l1iF5rvc) | [Blanco White](https://open.spotify.com/artist/3ccVtqcqedranb7y8eywJ5) | [Nocturne \- EP](https://open.spotify.com/album/5ok909swMjMJcxMivt4JPQ) | 4:28 |
-| 52 | [Power Over Me \- Acoustic](https://open.spotify.com/track/2E04ekeTRa6FsyK1twNZrL) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Power Over Me EP](https://open.spotify.com/album/0cXMRxSn0NE4CBitrQNo65) | 3:20 |
+| 49 | [Time Stands](https://open.spotify.com/track/1U2ahyThq23V2R7rgfOSRr) | [Nathaniel Rateliff](https://open.spotify.com/artist/4qKpLkR911SUlnd4HAtF79) | [And It’s Still Alright](https://open.spotify.com/album/2bWrnSJNyGevb1pr2VYEGW) | 3:52 |
+| 50 | [Nocturne](https://open.spotify.com/track/3wSrfFr3uqwz17l1iF5rvc) | [Blanco White](https://open.spotify.com/artist/3ccVtqcqedranb7y8eywJ5) | [Nocturne \- EP](https://open.spotify.com/album/5ok909swMjMJcxMivt4JPQ) | 4:28 |
+| 51 | [Power Over Me \- Acoustic](https://open.spotify.com/track/2E04ekeTRa6FsyK1twNZrL) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Power Over Me EP](https://open.spotify.com/album/0cXMRxSn0NE4CBitrQNo65) | 3:20 |
+| 52 | [The Wolves](https://open.spotify.com/track/0n7eIgN6SqXohLpAEd27Jr) | [Watchhouse](https://open.spotify.com/artist/675tsBPpaZtqyiBwEf3ZEP) | [Tides of a Teardrop](https://open.spotify.com/album/2SWy4Nbpw77DzLkwXba7Hk) | 4:05 |
 | 53 | [Old Friend](https://open.spotify.com/track/5v2nPcapVA5eXClN6pSKCy) | [Darlingside](https://open.spotify.com/artist/3DkhgIw7lIyxekurpXNTrm) | [Extralife](https://open.spotify.com/album/5OK6JHJhkSwle7EIeZZQ2E) | 2:28 |
 | 54 | [Why Woman](https://open.spotify.com/track/7Kjh6A5voYQ1rFFnYEbYq6) | [Glen Hansard](https://open.spotify.com/artist/3Caot8EtHX6wLpNF2wRzS0) | [Between Two Shores](https://open.spotify.com/album/3tjUgeVvMqN457eeVeunb0) | 3:03 |
 | 55 | [The Pool](https://open.spotify.com/track/3I8Y491lACYzJTM8fmIWdI) | [River Whyless](https://open.spotify.com/artist/7gRGh8w4G9zaFJSaIYp8HH) | [The Pool](https://open.spotify.com/album/7FEdabAF4tVaiXTCmykn2t) | 4:02 |
@@ -85,15 +85,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdaMkR2m2cl5.md) - [plain]
 | 75 | [Spark, Set Fire](https://open.spotify.com/track/0TK8SoeO0GVmUV1060bA4T) | [The Western Den](https://open.spotify.com/artist/3AKIOaRG1CUS6JYtgavz1z) | [A Light Left On](https://open.spotify.com/album/1AexYaxNPcGb3PY3icXXIX) | 3:51 |
 | 76 | [Driftwood Seat](https://open.spotify.com/track/4P2M9cWgs2k5Jn2fP6e1V7) | [Mighty Oaks](https://open.spotify.com/artist/5AVJt6VYXT4hMRP8D3MRAC) | [Driftwood Seat \- EP](https://open.spotify.com/album/2BL9feBiypERv0aq1R78aj) | 3:38 |
 | 77 | [Comfort](https://open.spotify.com/track/41BSVFI0wboUPPGm4LOA5z) | [Julia Jacklin](https://open.spotify.com/artist/12fRkVfO2fUsz1QHgDAG3g) | [Crushing](https://open.spotify.com/album/50G6NiGQgtYNiwNK018q8v) | 3:07 |
-| 78 | [when i look at you.](https://open.spotify.com/track/1ep42D3ViFpYMikJjpAvcc) | [Rosie Carney](https://open.spotify.com/artist/3Aut8hgiqZSy2qmJluZMU9) | [when i look at you.](https://open.spotify.com/album/1boPBt90eznct4s1f4nYEZ) | 3:52 |
-| 79 | [We Fall In](https://open.spotify.com/track/3gJbk7cVA8krFgfVVN0Edm) | [Ocie Elliott](https://open.spotify.com/artist/5jbk18C7YXRcEZxUWPJCyT) | [We Fall In](https://open.spotify.com/album/6RrqOFuUJkq9CyPZn803Yu) | 3:11 |
+| 78 | [We Fall In](https://open.spotify.com/track/3gJbk7cVA8krFgfVVN0Edm) | [Ocie Elliott](https://open.spotify.com/artist/5jbk18C7YXRcEZxUWPJCyT) | [We Fall In](https://open.spotify.com/album/6RrqOFuUJkq9CyPZn803Yu) | 3:11 |
+| 79 | [when i look at you.](https://open.spotify.com/track/1ep42D3ViFpYMikJjpAvcc) | [Rosie Carney](https://open.spotify.com/artist/3Aut8hgiqZSy2qmJluZMU9) | [when i look at you.](https://open.spotify.com/album/1boPBt90eznct4s1f4nYEZ) | 3:52 |
 | 80 | [Seed of Joy](https://open.spotify.com/track/6kUQwpX1ogl5inar6fE3bx) | [Marc Scibilia](https://open.spotify.com/artist/4CHiVarfTsFhkFOk5vHS77), [Brian Fallon](https://open.spotify.com/artist/3JlzEFwarS8ZcCGNFy11y4) | [Seed of Joy](https://open.spotify.com/album/4ivyT3pP5juItg8Yblaqfn) | 3:30 |
 | 81 | [We Don't Eat](https://open.spotify.com/track/4UDgV4eVcO7R9yaLthdgDP) | [James Vincent McMorrow](https://open.spotify.com/artist/7FDlvgcodNfC0IBdWevl4u) | [Early In The Morning \(Bonus Version\)](https://open.spotify.com/album/1hqx7QxediDedheKHu9aVB) | 4:53 |
 | 82 | [Take Me Home, Country Roads](https://open.spotify.com/track/2UJ9eh4cex6ulccBrskJXd) | [Mountain Man](https://open.spotify.com/artist/5kmPNusdo1mCTyz4u1uEGm) | [Sings John Denver](https://open.spotify.com/album/5TK7Ou3CpOkmxPGyRWvtwU) | 3:32 |
 | 83 | [Palace](https://open.spotify.com/track/1phRuf0KNLOFGzDVE2UYIv) | [Matthew And The Atlas](https://open.spotify.com/artist/0lSENl3bteP8p2NbiSP7RM) | [Palace](https://open.spotify.com/album/4vPTv6XOfiU5nyBisBJEdu) | 3:08 |
 | 84 | [Guess Again](https://open.spotify.com/track/6zz69yZsmztL9Zkp5U74Ju) | [Jeff Tweedy](https://open.spotify.com/artist/2rDxtYUzTAYJJE3Bl3Z5IN) | [Love Is The King](https://open.spotify.com/album/4luinFPZgIsSXjsKqb42LI) | 3:17 |
-| 85 | [Irene \(Ravin' Bomb\)](https://open.spotify.com/track/09kr1ZVtvs1kX3yaHeRgA9) | [Ian Noe](https://open.spotify.com/artist/2TEpPi5SFalflhpcQHq3lB) | [Between the Country](https://open.spotify.com/album/3I8X5k9o3KJHtxhQRWOQaf) | 3:58 |
-| 86 | [Cathedral](https://open.spotify.com/track/2LAgQExTmwYpcrvXJdE2iT) | [Jade Bird](https://open.spotify.com/artist/7D8LuVnlyu91ndcPe70j7S) | [Something American](https://open.spotify.com/album/4mJFBVR1HjNGm1sYIHpBb2) | 2:50 |
+| 85 | [Cathedral](https://open.spotify.com/track/2LAgQExTmwYpcrvXJdE2iT) | [Jade Bird](https://open.spotify.com/artist/7D8LuVnlyu91ndcPe70j7S) | [Something American](https://open.spotify.com/album/4mJFBVR1HjNGm1sYIHpBb2) | 2:50 |
+| 86 | [Irene \(Ravin' Bomb\)](https://open.spotify.com/track/09kr1ZVtvs1kX3yaHeRgA9) | [Ian Noe](https://open.spotify.com/artist/2TEpPi5SFalflhpcQHq3lB) | [Between the Country](https://open.spotify.com/album/3I8X5k9o3KJHtxhQRWOQaf) | 3:58 |
 | 87 | [Berlin](https://open.spotify.com/track/7tbR2WSnuTUOGgkUQiAupD) | [Fenne Lily](https://open.spotify.com/artist/7iPH2BRBF9wKa6ljxvdext) | [BREACH](https://open.spotify.com/album/0KsNopmZLaB71o6i2nw95I) | 3:39 |
 | 88 | [Crack The Case](https://open.spotify.com/track/2JtC5mhcW0RoTJGoVkfgB7) | [Dawes](https://open.spotify.com/artist/0CDUUM6KNRvgBFYIbWxJwV) | [Passwords](https://open.spotify.com/album/1EPqf0Bfgbm2iMnne0WLVx) | 5:54 |
 | 89 | [Colorado](https://open.spotify.com/track/4dIhkME9H3hzb0wNhA3f1m) | [The Brother Brothers](https://open.spotify.com/artist/7bsyET4aRFBJ9dOtGeHCX5) | [Some People I Know](https://open.spotify.com/album/1BpdKszhtmmlaOqG3McH0g) | 2:57 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdaMkR2m2cl5.md) - [plain]
 | 99 | [All We Ever Knew \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/0PHm9MrfZdEUasfd1XC0n2) | [The Head And The Heart](https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg) | [Spotify Singles](https://open.spotify.com/album/4OUg8wmqAxUfSN05i4um9Y) | 3:48 |
 | 100 | [The Moons Detriment](https://open.spotify.com/track/0tVGryiARVH5XuOM2S8Rn0) | [Shannon Lay](https://open.spotify.com/artist/1Kssd2mp7BMKGZUUKncUt6) | [Living Water](https://open.spotify.com/album/6ErBtQXSqQZfmzVX1ns4zu) | 2:35 |
 
-Snapshot ID: `MCw4OGVjNWNjNzMwYzk2YzcxZDc0OWIyZjczZGNiMDQwMzkwNjI4ZGRi`
+Snapshot ID: `MCw2M2RlNjNlZmRmMzY3MzVhN2IwZWRkYTIzN2M4ZmYzYjJlOTg5OGY3`

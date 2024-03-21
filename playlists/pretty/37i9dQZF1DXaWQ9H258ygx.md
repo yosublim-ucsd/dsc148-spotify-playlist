@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaWQ9H258ygx.md) - [plain]
 
 > Sophisticated palates only\. Curated by: <a href="https://www.instagram.com/keithpowers/">Keith Powers</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 96,549 likes - 50 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 96,637 likes - 50 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaWQ9H258ygx.md) - [plain]
 | 44 | [Be Alone](https://open.spotify.com/track/7tjtWVu8RsshzPxQm8oT3y) | [Blxst](https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL) | [No Love Lost](https://open.spotify.com/album/0pwGvLOBpgIgFlrQVSRqh9) | 2:34 |
 | 45 | [King Of The Fall](https://open.spotify.com/track/7o3Mcis1uKcYDuuJD1W0Rm) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [King Of The Fall](https://open.spotify.com/album/5ELWxtRpadxkLUUvbzpiZO) | 5:01 |
 | 46 | [West](https://open.spotify.com/track/2R5GzHdM4xdA8HNLIF8lOY) | [River Tiber](https://open.spotify.com/artist/1FHDMgGdmIP4IsoFkAwbS0), [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [Indigo](https://open.spotify.com/album/7H23XdhKb4H4mSCRd6gpwU) | 2:32 |
-| 47 | [Babylon \(feat\. Kendrick Lamar\)](https://open.spotify.com/track/6Aj2H0Z0v0JgnSfPEwCgW0) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP), [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [Z](https://open.spotify.com/album/2qCyMMQ785sPH4Yx25GQZ8) | 3:54 |
-| 48 | [Club Paradise](https://open.spotify.com/track/6MR5IBSNfDmiwnrlQpVw4w) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Care Package](https://open.spotify.com/album/7dqpveMVcWgbzqYrOdkFTD) | 4:43 |
-| 49 | [Wat U Sed \(feat\. Doechii & Kal Banx\)](https://open.spotify.com/track/0VYchQkqpeEyh95D1pWqy2) | [Isaiah Rashad](https://open.spotify.com/artist/6aaMZ3fcfLv4tEbmY7bjRM), [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB), [Kal Banx](https://open.spotify.com/artist/2TYRz7cFNZNPLUWRijsJNL) | [The House Is Burning](https://open.spotify.com/album/6TQ8nqw43uUOWu7Yqp58ko) | 2:56 |
-| 50 | [THINGS & SUCH](https://open.spotify.com/track/4Hv8QuMQfG7e6GWOWcXYKk) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [PARTYPACK](https://open.spotify.com/album/1ZJpGFHYQSTDTIk6bzo5sh) | 3:57 |
+| 47 | [Club Paradise](https://open.spotify.com/track/6MR5IBSNfDmiwnrlQpVw4w) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Care Package](https://open.spotify.com/album/7dqpveMVcWgbzqYrOdkFTD) | 4:43 |
+| 48 | [Babylon \(feat\. Kendrick Lamar\)](https://open.spotify.com/track/6Aj2H0Z0v0JgnSfPEwCgW0) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP), [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [Z](https://open.spotify.com/album/2qCyMMQ785sPH4Yx25GQZ8) | 3:54 |
+| 49 | [THINGS & SUCH](https://open.spotify.com/track/4Hv8QuMQfG7e6GWOWcXYKk) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [PARTYPACK](https://open.spotify.com/album/1ZJpGFHYQSTDTIk6bzo5sh) | 3:57 |
+| 50 | [Wat U Sed \(feat\. Doechii & Kal Banx\)](https://open.spotify.com/track/0VYchQkqpeEyh95D1pWqy2) | [Isaiah Rashad](https://open.spotify.com/artist/6aaMZ3fcfLv4tEbmY7bjRM), [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB), [Kal Banx](https://open.spotify.com/artist/2TYRz7cFNZNPLUWRijsJNL) | [The House Is Burning](https://open.spotify.com/album/6TQ8nqw43uUOWu7Yqp58ko) | 2:56 |
 
-Snapshot ID: `MCxkYmYwMjA4NDY4NWZjN2QwYjNlMTQ3MDY4OTJjMWQ0MjIyNWM4ZmUz`
+Snapshot ID: `MCw2NDM1ZWJiMzhhNGEzOWY3ZDk2NzZlZjVkNTcxNGU2ZGY5MmQ1MzU2`

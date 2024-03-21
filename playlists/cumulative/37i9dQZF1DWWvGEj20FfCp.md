@@ -4,7 +4,7 @@
 
 > Sounds that inspired the designers of <a href="https://lagosfashionweek.ng/">Lagos Fashion Week 2023.</a>
 
-634 songs - 1 day 18 hr 33 min
+635 songs - 1 day 18 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -538,7 +538,8 @@
 | [Tanzania](https://open.spotify.com/track/5z6oqX6l6kTSPB9gSRnLzE) | [Uncle Waffles](https://open.spotify.com/artist/68McnNC9twEtiynOAJRRgZ), [Tony Duardo](https://open.spotify.com/artist/6qF0eiWwQF073J1MuVFs5z), [Sino Msolo](https://open.spotify.com/artist/5zvuXUYTvZczhbPG9HZRYI), [BoiBizza](https://open.spotify.com/artist/1eEtFWkyKW60yUyVwvAeuR) | [Tanzania](https://open.spotify.com/album/3line3IHxaBqcjloHs4ZKN) | 6:16 | 2023-03-10 | 2023-04-27 |
 | [Tavern Kween](https://open.spotify.com/track/7h62eL1f1ujScn9lvQ0rH9) | [Desire Marea](https://open.spotify.com/artist/7xfBWpNiwO2yteiY68OB6C) | [Desire](https://open.spotify.com/album/025L0VtAaySW1AwMJOq4b2) | 5:08 | 2023-03-10 | 2023-04-27 |
 | [Teardrop](https://open.spotify.com/track/67Hna13dNDkZvBpTXRIaOJ) | [Massive Attack](https://open.spotify.com/artist/6FXMGgJwohJLUSr5nVlf9X) | [Mezzanine](https://open.spotify.com/album/49MNmJhZQewjt06rpwp6QR) | 5:30 | 2023-02-10 | 2023-03-11 |
-| [Tears Of Africa](https://open.spotify.com/track/5otfjlQ6XN8R4iClD5kmjb) | [Echo Deep](https://open.spotify.com/artist/3oQxXy7RkKmUAoo0sftSLU) | [Tears Of Africa](https://open.spotify.com/album/0DfTdhAVgcAWldmOmk0d0R) | 9:52 | 2023-10-11 |  |
+| [Tears Of Africa](https://open.spotify.com/track/5jBEMc0GY8sDkmLH70y7KG) | [Echo Deep](https://open.spotify.com/artist/3oQxXy7RkKmUAoo0sftSLU) | [Tears Of Africa](https://open.spotify.com/album/5f2ozn0eMxuyHDNjWudqi5) | 9:52 | 2023-10-11 |  |
+| [Tears Of Africa](https://open.spotify.com/track/5otfjlQ6XN8R4iClD5kmjb) | [Echo Deep](https://open.spotify.com/artist/3oQxXy7RkKmUAoo0sftSLU) | [Tears Of Africa](https://open.spotify.com/album/0DfTdhAVgcAWldmOmk0d0R) | 9:52 | 2023-10-11 | 2024-03-21 |
 | [TECHNOPOLIS](https://open.spotify.com/track/025rboHEX5F2T0jRBMjuxI) | [YELLOW MAGIC ORCHESTRA](https://open.spotify.com/artist/2JIf5JxI3ypOSfrfNIIMQE), [Norio Yoshizawa](https://open.spotify.com/artist/4uoBti7IAbbjSVYLQuEFoT) | [Solid State Survivor](https://open.spotify.com/album/5TmpFE7Xus70ko1QYGxFIe) | 4:14 | 2023-02-10 | 2023-03-11 |
 | [Tek It Easy](https://open.spotify.com/track/6mwGoQFNOqbWKz1M4vAX54) | [Buccaneer](https://open.spotify.com/artist/72FmoZBmYJDtdEc1R9JEcn) | [Da Opera](https://open.spotify.com/album/1CMExKPhwGCmPqMLrzSyvO) | 3:24 | 2023-09-01 | 2023-10-12 |
 | [Tell Me](https://open.spotify.com/track/5w8U8QnMmq3DFTbFTYiAxm) | [Courtnie](https://open.spotify.com/artist/64jXN9rBQaUKV7a651NfVn) | [Tell Me](https://open.spotify.com/album/5UZraJqRysuhHOPorwdQY5) | 3:53 | 2022-06-01 | 2022-08-02 |

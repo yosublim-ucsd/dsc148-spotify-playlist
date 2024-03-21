@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVkyW4DM7wMY.md) - [plain]
 
 > The hottest alternative music from Nairobi to Dar!
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,553 likes - 70 songs - 3 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,555 likes - 70 songs - 3 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVkyW4DM7wMY.md) - [plain]
 | 18 | [Fireflies](https://open.spotify.com/track/4Ajby5KmiabXW8U22I6wKC) | [mau from nowhere](https://open.spotify.com/artist/7MZ8Hh17R6vfPDn9UCkvuf) | [Fireflies](https://open.spotify.com/album/6WfB9YEC9FDRhJCrNd5sah) | 2:21 |
 | 19 | [Vijana Wanataka Kazi](https://open.spotify.com/track/71QA3QXgNuJcSWcnUIN1qy) | [Flier](https://open.spotify.com/artist/4GG9mTTEeOa6zUYwO3YmgU) | [Vijana Wanataka Kazi](https://open.spotify.com/album/4dFU75ysafiICD8lfC6Rvf) | 2:50 |
 | 20 | [Lets Get Away](https://open.spotify.com/track/0Hlv5uMHBia2JJ64X7THhL) | [Magana](https://open.spotify.com/artist/6CDDLh64XGNFrOG90xeO31) | [Lets Get Away](https://open.spotify.com/album/6WSbwrHIQmr6FOInnFMXEi) | 3:45 |
-| 21 | [Part2 \(Dinner in Maui\)](https://open.spotify.com/track/6DuJn4hkMAzb4Iiamim1Te) | [Hermez](https://open.spotify.com/artist/168iTeZjIZlN7Sc8ieZJl6), [MAUIMØON](https://open.spotify.com/artist/6YrLXeCHt4gjrGx6cLCd4b) | [Part2 \(Dinner in Maui\)](https://open.spotify.com/album/2RjYPIml5GBer8oZvUV1OO) | 3:13 |
+| 21 | [Part 2 \(Dinner in Maui\)](https://open.spotify.com/track/1K1749ogaQ2xe1ZYofp00R) | [Hermez](https://open.spotify.com/artist/168iTeZjIZlN7Sc8ieZJl6), [MAUIMØON](https://open.spotify.com/artist/6YrLXeCHt4gjrGx6cLCd4b) | [Oasis](https://open.spotify.com/album/58VyMsjI4nogdj6iYxp81l) | 3:13 |
 | 22 | [Miss Me](https://open.spotify.com/track/0Nnq0gfsq7Inx7b4zQSJob) | [IkeN](https://open.spotify.com/artist/7CaVQkC4udPIDQmSUrr4t0) | [Miss Me](https://open.spotify.com/album/5JRQtqu5HrSXebzylfn5xJ) | 4:27 |
 | 23 | [Lights Down Low](https://open.spotify.com/track/7l5k2x7gv3mWPSTa84AmjE) | [OSO](https://open.spotify.com/artist/62fPxmuEy5IX40T8omAeB2), [Riunga](https://open.spotify.com/artist/5p6jlUhwtOoesY5LJ2awoN) | [R\-/LBT](https://open.spotify.com/album/2V04iRsZlNM9DCPP4wYkKc) | 3:50 |
 | 24 | [BANGUK](https://open.spotify.com/track/1GWaIEbioQsRV6Yaq8VwmO) | [KABEAUSHÉ](https://open.spotify.com/artist/0NNG4hBbXRp6HQ2EMEkYlj) | [BANGUK](https://open.spotify.com/album/4XCuAOqmIZOkmVd6izgCAu) | 3:06 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVkyW4DM7wMY.md) - [plain]
 | 69 | [Entebbe](https://open.spotify.com/track/7JUJDegbbXHmYLtWIb811E) | [Maurice Kirya](https://open.spotify.com/artist/74irFmh7k7vfTa2QXwI729) | [Entebbe](https://open.spotify.com/album/59vlQB3gPrQV9VLhU120ub) | 3:52 |
 | 70 | [Hold On To The Faith](https://open.spotify.com/track/6M2SvwjsfkfQNncdSj1TAh) | [SERRO](https://open.spotify.com/artist/4r3svQfFw0Ae5GMplY92u9), [Mutoriah](https://open.spotify.com/artist/2eAAis6wgQ4My2ixOkGRaD) | [Misimu](https://open.spotify.com/album/68CvaHEB0uNEYLKUCosqYH) | 4:06 |
 
-Snapshot ID: `MCwyNGNkZGQ4N2Q0NTczYjgzZjcwOWY5NTJlMTczNzMzNmI4ZjRmNWRm`
+Snapshot ID: `MCxiZGNiZmIwYWQ0MmU4YmUyNjkzYTZiMTIxOTU3NzA2MTQ1NzUwNGZm`

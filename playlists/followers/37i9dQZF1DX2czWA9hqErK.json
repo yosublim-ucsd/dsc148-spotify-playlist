@@ -1,5 +1,5 @@
 {
-  "2024-03-20": 1039403,
+  "2024-03-21": 1039432,
   "date_first_scraped": "2021-12-21",
   "description": "Laid back sounds to see you through your day.",
   "name": "Easy",
@@ -861,7 +861,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-20",
       "duration_ms": 200814,
       "name": "Be The One (with Khalid)",
       "url": "https://open.spotify.com/track/4jMbQ5H6KaSRPRCBuNnW16"
@@ -1081,6 +1081,24 @@
       "duration_ms": 194282,
       "name": "Better Run",
       "url": "https://open.spotify.com/track/6EJURYbcv8JoFZ0yqnHkjQ"
+    },
+    {
+      "album": {
+        "name": "Betting on Us",
+        "url": "https://open.spotify.com/album/6zcbHGjmhj9djpGpkn47bs"
+      },
+      "artists": [
+        {
+          "name": "Myles Smith",
+          "url": "https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155761,
+      "name": "Betting on Us",
+      "url": "https://open.spotify.com/track/0cgiEyA9bl4EvbhnvocQm6"
     },
     {
       "album": {
@@ -2015,7 +2033,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-20",
       "duration_ms": 193685,
       "name": "Compatible",
       "url": "https://open.spotify.com/track/2grlMtCIrIc4KlVZXStEz3"
@@ -2539,6 +2557,24 @@
       "duration_ms": 172821,
       "name": "Down Days",
       "url": "https://open.spotify.com/track/7zbHLUYieIVy0Qb8ciRbmx"
+    },
+    {
+      "album": {
+        "name": "work in progress",
+        "url": "https://open.spotify.com/album/2dBv8d4WbvtT4ZUxlri7A5"
+      },
+      "artists": [
+        {
+          "name": "Holly Humberstone",
+          "url": "https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176805,
+      "name": "Down Swinging",
+      "url": "https://open.spotify.com/track/5NCNm0wqVcmeG0JBiEYR72"
     },
     {
       "album": {

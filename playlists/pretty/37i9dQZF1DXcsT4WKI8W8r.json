@@ -1,12 +1,12 @@
 {
   "description": "A playlist to get you through your whole workday.",
-  "num_followers": 302400,
+  "num_followers": 302496,
   "original_name": "Music for a Workday",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhNWZkN2M1NjUwN2JlZmJhZmEzNDM1NDE2ZDIwMGY3NDkwZmE3ZDAx",
+  "snapshot_id": "MCwxZDg4YzFkMGM2ZTczNmM5ZGVlYTk4MzM0OTk1MmQwNWYxZjcwOTI0",
   "tracks": [
     {
       "added_at": "2024-03-18 14:17:29",
@@ -143,6 +143,22 @@
     {
       "added_at": "2021-04-30 08:33:50",
       "album": {
+        "name": "TALKING IS HARD",
+        "url": "https://open.spotify.com/album/3mNoFlD1wsoXfkljfFzExT"
+      },
+      "artists": [
+        {
+          "name": "WALK THE MOON",
+          "url": "https://open.spotify.com/artist/6DIS6PRrLS3wbnZsf7vYic"
+        }
+      ],
+      "duration_ms": 199080,
+      "name": "Shut Up and Dance",
+      "url": "https://open.spotify.com/track/4kbj5MwxO1bq9wjT5g9HaA"
+    },
+    {
+      "added_at": "2021-04-30 08:33:50",
+      "album": {
         "name": "Arrival",
         "url": "https://open.spotify.com/album/1V6a99EbTTIegOhWoPxYI9"
       },
@@ -171,22 +187,6 @@
       "duration_ms": 187973,
       "name": "Treat You Better",
       "url": "https://open.spotify.com/track/3QGsuHI8jO1Rx4JWLUh9jd"
-    },
-    {
-      "added_at": "2021-04-30 08:33:50",
-      "album": {
-        "name": "TALKING IS HARD",
-        "url": "https://open.spotify.com/album/3mNoFlD1wsoXfkljfFzExT"
-      },
-      "artists": [
-        {
-          "name": "WALK THE MOON",
-          "url": "https://open.spotify.com/artist/6DIS6PRrLS3wbnZsf7vYic"
-        }
-      ],
-      "duration_ms": 199080,
-      "name": "Shut Up and Dance",
-      "url": "https://open.spotify.com/track/4kbj5MwxO1bq9wjT5g9HaA"
     },
     {
       "added_at": "2021-04-30 08:33:50",
@@ -303,22 +303,6 @@
       "duration_ms": 273173,
       "name": "Maneater",
       "url": "https://open.spotify.com/track/7j74lucZ59vqN67Ipe2ZcY"
-    },
-    {
-      "added_at": "2024-03-18 14:17:29",
-      "album": {
-        "name": "Austin",
-        "url": "https://open.spotify.com/album/4JtlZzYJEa7bejLF0ASnk0"
-      },
-      "artists": [
-        {
-          "name": "Dasha",
-          "url": "https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I"
-        }
-      ],
-      "duration_ms": 171782,
-      "name": "Austin",
-      "url": "https://open.spotify.com/track/4NJqhmkGN042BrvHoMKUrJ"
     },
     {
       "added_at": "2021-04-30 08:33:50",
@@ -615,22 +599,6 @@
     {
       "added_at": "2021-04-30 08:33:50",
       "album": {
-        "name": "Flicker (Deluxe)",
-        "url": "https://open.spotify.com/album/7ahctQBwcSxDdP0fRAPo2p"
-      },
-      "artists": [
-        {
-          "name": "Niall Horan",
-          "url": "https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4"
-        }
-      ],
-      "duration_ms": 188174,
-      "name": "Slow Hands",
-      "url": "https://open.spotify.com/track/2cOUlop2ZakjOKe4WinesN"
-    },
-    {
-      "added_at": "2021-04-30 08:33:50",
-      "album": {
         "name": "Be Alright",
         "url": "https://open.spotify.com/album/0YZLXTaHLcgl5UdtKDiUXD"
       },
@@ -643,6 +611,22 @@
       "duration_ms": 196373,
       "name": "Be Alright",
       "url": "https://open.spotify.com/track/3EPXxR3ImUwfayaurPi3cm"
+    },
+    {
+      "added_at": "2021-04-30 08:33:50",
+      "album": {
+        "name": "Flicker (Deluxe)",
+        "url": "https://open.spotify.com/album/7ahctQBwcSxDdP0fRAPo2p"
+      },
+      "artists": [
+        {
+          "name": "Niall Horan",
+          "url": "https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4"
+        }
+      ],
+      "duration_ms": 188174,
+      "name": "Slow Hands",
+      "url": "https://open.spotify.com/track/2cOUlop2ZakjOKe4WinesN"
     },
     {
       "added_at": "2021-04-30 08:33:50",
@@ -699,6 +683,22 @@
     {
       "added_at": "2024-03-18 14:17:29",
       "album": {
+        "name": "What Happens Now?",
+        "url": "https://open.spotify.com/album/0rQRrrZPPv6XXsxilJ1wFz"
+      },
+      "artists": [
+        {
+          "name": "Dasha",
+          "url": "https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I"
+        }
+      ],
+      "duration_ms": 171782,
+      "name": "Austin",
+      "url": "https://open.spotify.com/track/6b81dy3WjbozXK6b7C1gu5"
+    },
+    {
+      "added_at": "2024-03-18 14:17:29",
+      "album": {
         "name": "Goddess",
         "url": "https://open.spotify.com/album/6iud55ph203oHsmq9VQBRQ"
       },
@@ -747,22 +747,6 @@
     {
       "added_at": "2021-04-30 08:33:50",
       "album": {
-        "name": "Tracy Chapman",
-        "url": "https://open.spotify.com/album/6hmmX5UP4rIvOpGSaPerV8"
-      },
-      "artists": [
-        {
-          "name": "Tracy Chapman",
-          "url": "https://open.spotify.com/artist/7oPgCQqMMXEXrNau5vxYZP"
-        }
-      ],
-      "duration_ms": 193120,
-      "name": "Baby Can I Hold You",
-      "url": "https://open.spotify.com/track/2DjWsDGgL1xNbhnr7f6t5F"
-    },
-    {
-      "added_at": "2021-04-30 08:33:50",
-      "album": {
         "name": "Building The Perfect Beast",
         "url": "https://open.spotify.com/album/2x1s5aVQ01ylPs5nUdeA2i"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 288733,
       "name": "The Boys Of Summer",
       "url": "https://open.spotify.com/track/4gvea7UlDkAvsJBPZAd4oB"
+    },
+    {
+      "added_at": "2021-04-30 08:33:50",
+      "album": {
+        "name": "Tracy Chapman",
+        "url": "https://open.spotify.com/album/6hmmX5UP4rIvOpGSaPerV8"
+      },
+      "artists": [
+        {
+          "name": "Tracy Chapman",
+          "url": "https://open.spotify.com/artist/7oPgCQqMMXEXrNau5vxYZP"
+        }
+      ],
+      "duration_ms": 193120,
+      "name": "Baby Can I Hold You",
+      "url": "https://open.spotify.com/track/2DjWsDGgL1xNbhnr7f6t5F"
     },
     {
       "added_at": "2021-04-30 08:33:50",
@@ -939,22 +939,6 @@
     {
       "added_at": "2021-04-30 08:33:50",
       "album": {
-        "name": "Crowded House",
-        "url": "https://open.spotify.com/album/1dJpgn1rqvvr4yyNYLEYBG"
-      },
-      "artists": [
-        {
-          "name": "Crowded House",
-          "url": "https://open.spotify.com/artist/7ohlPA8dRBtCf92zaZCaaB"
-        }
-      ],
-      "duration_ms": 236933,
-      "name": "Don't Dream It's Over",
-      "url": "https://open.spotify.com/track/7G7tgVYORlDuVprcYHuFJh"
-    },
-    {
-      "added_at": "2021-04-30 08:33:50",
-      "album": {
         "name": "Bad Animals",
         "url": "https://open.spotify.com/album/56dfEbntfVTMCxjrjggL1e"
       },
@@ -967,6 +951,22 @@
       "duration_ms": 218733,
       "name": "Alone",
       "url": "https://open.spotify.com/track/54b8qPFqYqIndfdxiLApea"
+    },
+    {
+      "added_at": "2021-04-30 08:33:50",
+      "album": {
+        "name": "Crowded House",
+        "url": "https://open.spotify.com/album/1dJpgn1rqvvr4yyNYLEYBG"
+      },
+      "artists": [
+        {
+          "name": "Crowded House",
+          "url": "https://open.spotify.com/artist/7ohlPA8dRBtCf92zaZCaaB"
+        }
+      ],
+      "duration_ms": 236933,
+      "name": "Don't Dream It's Over",
+      "url": "https://open.spotify.com/track/7G7tgVYORlDuVprcYHuFJh"
     },
     {
       "added_at": "2021-04-30 08:33:50",
@@ -1363,22 +1363,6 @@
     {
       "added_at": "2021-04-30 08:33:50",
       "album": {
-        "name": "Good Thing",
-        "url": "https://open.spotify.com/album/7J9fifadXb0PPSBWXctbi8"
-      },
-      "artists": [
-        {
-          "name": "Leon Bridges",
-          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
-        }
-      ],
-      "duration_ms": 240600,
-      "name": "Beyond",
-      "url": "https://open.spotify.com/track/1Omt5bfz1tZUCqd26HxbS0"
-    },
-    {
-      "added_at": "2021-04-30 08:33:50",
-      "album": {
         "name": "Busyhead",
         "url": "https://open.spotify.com/album/3DNQrMjvVGiueVrj1qquJd"
       },
@@ -1395,6 +1379,22 @@
       "duration_ms": 167106,
       "name": "Hurt Somebody",
       "url": "https://open.spotify.com/track/2Zg0aB5oVQlbQE1vzQmIIY"
+    },
+    {
+      "added_at": "2021-04-30 08:33:50",
+      "album": {
+        "name": "Good Thing",
+        "url": "https://open.spotify.com/album/7J9fifadXb0PPSBWXctbi8"
+      },
+      "artists": [
+        {
+          "name": "Leon Bridges",
+          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
+        }
+      ],
+      "duration_ms": 240600,
+      "name": "Beyond",
+      "url": "https://open.spotify.com/track/1Omt5bfz1tZUCqd26HxbS0"
     },
     {
       "added_at": "2021-04-30 08:33:50",
@@ -1527,22 +1527,6 @@
     {
       "added_at": "2021-04-30 08:33:50",
       "album": {
-        "name": "Whitney Houston",
-        "url": "https://open.spotify.com/album/2MH37enG6IPvNK5QFLyKes"
-      },
-      "artists": [
-        {
-          "name": "Whitney Houston",
-          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
-        }
-      ],
-      "duration_ms": 275533,
-      "name": "How Will I Know",
-      "url": "https://open.spotify.com/track/5tdKaKLnC4SgtDZ6RlWeal"
-    },
-    {
-      "added_at": "2021-04-30 08:33:50",
-      "album": {
         "name": "Picture Book (Expanded Version)",
         "url": "https://open.spotify.com/album/4pk3tltFMVlT06MLJfmWTT"
       },
@@ -1555,6 +1539,22 @@
       "duration_ms": 269840,
       "name": "Holding Back the Years - 2008 Remaster",
       "url": "https://open.spotify.com/track/1yg7fwwYmx9DQ2TdXUmfpJ"
+    },
+    {
+      "added_at": "2021-04-30 08:33:50",
+      "album": {
+        "name": "Whitney Houston",
+        "url": "https://open.spotify.com/album/2MH37enG6IPvNK5QFLyKes"
+      },
+      "artists": [
+        {
+          "name": "Whitney Houston",
+          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
+        }
+      ],
+      "duration_ms": 275533,
+      "name": "How Will I Know",
+      "url": "https://open.spotify.com/track/5tdKaKLnC4SgtDZ6RlWeal"
     },
     {
       "added_at": "2021-04-30 08:33:50",
@@ -1593,22 +1593,6 @@
       "url": "https://open.spotify.com/track/4BdGO1CaObRD4La9l5Zanz"
     },
     {
-      "added_at": "2024-03-18 14:17:29",
-      "album": {
-        "name": "Kite",
-        "url": "https://open.spotify.com/album/3g4q3F07QmUyPBzWlMXhq4"
-      },
-      "artists": [
-        {
-          "name": "Benjamin Ingrosso",
-          "url": "https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5"
-        }
-      ],
-      "duration_ms": 166806,
-      "name": "Kite",
-      "url": "https://open.spotify.com/track/0irVirJrUjHFk3ywECVsGT"
-    },
-    {
       "added_at": "2021-04-30 08:33:50",
       "album": {
         "name": "Fine Line",
@@ -1623,6 +1607,22 @@
       "duration_ms": 259186,
       "name": "Cherry",
       "url": "https://open.spotify.com/track/2IOFZdYYkFxEHVz1w34PoL"
+    },
+    {
+      "added_at": "2024-03-18 14:17:29",
+      "album": {
+        "name": "Kite",
+        "url": "https://open.spotify.com/album/3g4q3F07QmUyPBzWlMXhq4"
+      },
+      "artists": [
+        {
+          "name": "Benjamin Ingrosso",
+          "url": "https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5"
+        }
+      ],
+      "duration_ms": 166806,
+      "name": "Kite",
+      "url": "https://open.spotify.com/track/0irVirJrUjHFk3ywECVsGT"
     },
     {
       "added_at": "2021-04-30 08:33:50",
@@ -1887,18 +1887,18 @@
     {
       "added_at": "2021-04-30 08:33:50",
       "album": {
-        "name": "Rainbow",
-        "url": "https://open.spotify.com/album/1IYVB8NfiRqhdZlTxjspNh"
+        "name": "The Good Parts",
+        "url": "https://open.spotify.com/album/1HxoWQzPqd5JZyBpQ9ZlSf"
       },
       "artists": [
         {
-          "name": "Kesha",
-          "url": "https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX"
+          "name": "Andy Grammer",
+          "url": "https://open.spotify.com/artist/2oX42qP5ineK3hrhBECLmj"
         }
       ],
-      "duration_ms": 230266,
-      "name": "Praying",
-      "url": "https://open.spotify.com/track/0jdny0dhgjUwoIp5GkqEaA"
+      "duration_ms": 198001,
+      "name": "Fresh Eyes",
+      "url": "https://open.spotify.com/track/7gm2omqXDTaT4sS17hSu8T"
     },
     {
       "added_at": "2021-04-30 08:33:50",
@@ -1919,18 +1919,18 @@
     {
       "added_at": "2021-04-30 08:33:50",
       "album": {
-        "name": "The Good Parts",
-        "url": "https://open.spotify.com/album/1HxoWQzPqd5JZyBpQ9ZlSf"
+        "name": "Rainbow",
+        "url": "https://open.spotify.com/album/1IYVB8NfiRqhdZlTxjspNh"
       },
       "artists": [
         {
-          "name": "Andy Grammer",
-          "url": "https://open.spotify.com/artist/2oX42qP5ineK3hrhBECLmj"
+          "name": "Kesha",
+          "url": "https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX"
         }
       ],
-      "duration_ms": 198001,
-      "name": "Fresh Eyes",
-      "url": "https://open.spotify.com/track/7gm2omqXDTaT4sS17hSu8T"
+      "duration_ms": 230266,
+      "name": "Praying",
+      "url": "https://open.spotify.com/track/0jdny0dhgjUwoIp5GkqEaA"
     },
     {
       "added_at": "2021-04-30 08:33:50",

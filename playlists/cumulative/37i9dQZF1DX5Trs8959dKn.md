@@ -4,13 +4,14 @@
 
 > Knees go down and the prayers go up
 
-81 songs - 9 hr 22 min
+84 songs - 9 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [All I Have Is You](https://open.spotify.com/track/6SSydoQ1h6OPTJ4JxoSRAS) | [Mr Mekoyo](https://open.spotify.com/artist/5atQbVe5DeUlSlDCamrC3n) | [All I Have Is You](https://open.spotify.com/album/6Rhao26zetb6OYBlMM7hqf) | 5:40 | 2023-04-06 | 2023-04-30 |
 | [All the Glory](https://open.spotify.com/track/21TNIJLjRY22md0LWvtGtc) | [Steve Crown](https://open.spotify.com/artist/6ssJ7jGUrvWN8XZjggRBF3) | [Nations Will Rise and Sing](https://open.spotify.com/album/1M6f4SoC0VXNZoo9yMPOhV) | 5:17 | 2023-04-06 |  |
-| [Amazing God](https://open.spotify.com/track/0NtWw4mWMpScT8b9m6unIu) | [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [Suddenly + Amazing God \(Double Single\)](https://open.spotify.com/album/79mjv5qhSTzJ3gMM8k7lMS) | 4:56 | 2023-04-06 |  |
+| [Amazing God](https://open.spotify.com/track/0NtWw4mWMpScT8b9m6unIu) | [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [Suddenly + Amazing God \(Double Single\)](https://open.spotify.com/album/79mjv5qhSTzJ3gMM8k7lMS) | 4:56 | 2023-04-06 | 2024-03-21 |
+| [Amazing God](https://open.spotify.com/track/5k5659U0Gb6p0w3koQaNJu) | [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [Suddenly + Amazing God \(Double Single\)](https://open.spotify.com/album/1kBd76gF9G6AAFS3Ss1DMR) | 4:56 | 2024-02-23 |  |
 | [Awesome God](https://open.spotify.com/track/5EZB6od9Xce4q2WinCfhIM) | [Sinach](https://open.spotify.com/artist/6hKHFC67DZJNw9tg1l0lIe) | [Chapter One](https://open.spotify.com/album/7JssBmu17Xn85hGOFZWvZZ) | 5:17 | 2023-04-06 | 2023-08-24 |
 | [Awesome God](https://open.spotify.com/track/4bX0rleUG0RmqtdsI9A45P) | [Sinach](https://open.spotify.com/artist/6hKHFC67DZJNw9tg1l0lIe) | [Chapter One](https://open.spotify.com/album/0ag7AC8rrkmqrTpC6SkMYJ) | 5:18 | 2023-07-28 |  |
 | [Awurade Kasa](https://open.spotify.com/track/5mInFrdNxVsfBUeoUazXmo) | [Cindy Thompson](https://open.spotify.com/artist/0E9uTtyVv3p0wJPjRiTivd) | [Cindy's Messiah](https://open.spotify.com/album/318iVaeMOIDdtnZFzxnAPD) | 7:42 | 2023-04-06 | 2024-02-10 |
@@ -58,7 +59,8 @@
 | [My Altar \(Cover\)](https://open.spotify.com/track/4jTaIxtdPrwJTY5DVKkKI8) | [David Dam](https://open.spotify.com/artist/1vNw15c6UztXmCZTCwTPdc) | [My Altar \(Cover\)](https://open.spotify.com/album/36hBmlMUEHL26OVG9JSJ9P) | 6:57 | 2023-05-26 |  |
 | [My Daddy, My Daddy \- Live at AiiiH \- As It Is In Heaven](https://open.spotify.com/track/0bqV6cwBAloZuaPTFww9F4) | [Sunmisola Agbebi](https://open.spotify.com/artist/7fJd7w897ouOZzDc6e3oyU), [Lawrence Oyor](https://open.spotify.com/artist/5VjrwmzHaE5YI54qdzIoiI) | [My Daddy, My Daddy \(Live at AiiiH \- As It Is In Heaven\)](https://open.spotify.com/album/1a3RbXj5cz5vDXsJNd7MqQ) | 13:32 | 2024-02-23 |  |
 | [No Other God](https://open.spotify.com/track/5erufNGesKhTwtxeJa8wZD) | [Nathaniel Bassey](https://open.spotify.com/artist/1ukmGETCwXTbgrTrkRDnmn), [Love Song](https://open.spotify.com/artist/6yKVfS7jLHoqmI8AWvVivy) | [God of Love](https://open.spotify.com/album/2T2gLRnY1ylgkEWaEVuL1H) | 5:41 | 2023-07-28 |  |
-| [Obinigwe](https://open.spotify.com/track/1zyQByOXDyQlFYzqTuax5l) | [Minister GUC](https://open.spotify.com/artist/5F9NFQsix9CwLRFKUbyCEL) | [To Yahweh's Delight](https://open.spotify.com/album/779P4ZNqRzXiiw2sIRTXva) | 9:12 | 2023-04-06 |  |
+| [Obinigwe](https://open.spotify.com/track/0fs6Iaw6Dze7VzT2sHDpkD) | [Minister GUC](https://open.spotify.com/artist/5F9NFQsix9CwLRFKUbyCEL) | [To Yahweh's Delight](https://open.spotify.com/album/4MCPXcYlgqMGWqm8B2k3ap) | 9:12 | 2024-02-23 |  |
+| [Obinigwe](https://open.spotify.com/track/1zyQByOXDyQlFYzqTuax5l) | [Minister GUC](https://open.spotify.com/artist/5F9NFQsix9CwLRFKUbyCEL) | [To Yahweh's Delight](https://open.spotify.com/album/779P4ZNqRzXiiw2sIRTXva) | 9:12 | 2023-04-06 | 2024-03-21 |
 | [Ogya](https://open.spotify.com/track/0ybDJBHB8CPayBVvqYAdZv) | [Joe Mettle](https://open.spotify.com/artist/1An6gOOlZ9NITlQs2ZtBCb) | [God of Miracles](https://open.spotify.com/album/3zf0GwGizuZX3G7HBoVwgF) | 6:09 | 2023-04-06 | 2024-03-19 |
 | [Olorun To Da Awon Oke Igbani](https://open.spotify.com/track/2ERPRtRjsz7roLK29Bu9b0) | [Remi Collins](https://open.spotify.com/artist/6abZcudasOy2dIeZhAtuRU) | [Olorun To Da Awon Oke Igbani](https://open.spotify.com/album/4dUydP6zld6up2WophkzOB) | 3:22 | 2023-04-06 | 2023-04-15 |
 | [Oluwatoyin](https://open.spotify.com/track/5bwhR3Q6aEUD1aeOuMz8Y1) | [Ty Bello](https://open.spotify.com/artist/2iWK4awJAvQtgg1cUHaU9J) | [Oluwatoyin](https://open.spotify.com/album/0yi2BnFJWoRwLrc1JgH1LJ) | 4:10 | 2024-02-16 | 2024-02-23 |
@@ -83,7 +85,8 @@
 | [TOBECHUKWU](https://open.spotify.com/track/0gsd7GzrNK9f1sDCWp6TUh) | [Nathaniel Bassey](https://open.spotify.com/artist/1ukmGETCwXTbgrTrkRDnmn), [MERCY CHINWO BLESSED](https://open.spotify.com/artist/1wo9fKt92KBDi8UxJyGFJI) | [TOBECHUKWU](https://open.spotify.com/album/47LudPhVqHz7bEEuM4LUcr) | 8:07 | 2023-04-06 |  |
 | [Too Faithful](https://open.spotify.com/track/0XmK2zPgY1t1msdf1jyhHw) | [Moses Bliss](https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM) | [Too Faithful](https://open.spotify.com/album/1ELb6tHupgVxBvvSURINnN) | 6:10 | 2023-04-06 |  |
 | [Wonders \- Live](https://open.spotify.com/track/01i4L10PCxMSqxEZnLpkue) | [Jedidiaah](https://open.spotify.com/artist/38PprjtWjRZWei6vEZHTC7) | [Wonders \(Live\)](https://open.spotify.com/album/42imw6HApqycDjSpAhXpGQ) | 9:41 | 2023-04-06 | 2023-07-14 |
-| [Worship Chant](https://open.spotify.com/track/1vs12Vh4GScNFGausr6J5z) | [Esther Oji](https://open.spotify.com/artist/5Hd4U5JFovPR2yNcXa3Pm4) | [Worship Chant](https://open.spotify.com/album/1BVbDiDAVbM2cHNhQYPPOn) | 1:44 | 2024-03-07 |  |
+| [Worship Chant](https://open.spotify.com/track/1vs12Vh4GScNFGausr6J5z) | [Esther Oji](https://open.spotify.com/artist/5Hd4U5JFovPR2yNcXa3Pm4) | [Worship Chant](https://open.spotify.com/album/1BVbDiDAVbM2cHNhQYPPOn) | 1:44 | 2024-03-07 | 2024-03-21 |
+| [Worship Chant](https://open.spotify.com/track/3gdA2i1dq7rGy0j6dwoEhE) | [Esther Oji](https://open.spotify.com/artist/5Hd4U5JFovPR2yNcXa3Pm4) | [Worship Chant](https://open.spotify.com/album/5k5WUShHTOc9d49d73cNYA) | 1:44 | 2024-03-07 |  |
 | [Yahweh](https://open.spotify.com/track/1F0CrOa4vEtp7r5KfzqDhJ) | [David G](https://open.spotify.com/artist/3UxYGkc2hubOZsZuLAR7Ri) | [Yahweh](https://open.spotify.com/album/0Ai0IfdEIuJCMgkHUDEZAy) | 5:24 | 2023-04-06 |  |
 | [Yes You Are the Lord](https://open.spotify.com/track/0ZNI3OqSxNAi3YGVd0ny2w) | [Denzel Prempeh](https://open.spotify.com/artist/1WwOwiV8aUE5RABgYamU0p), [Danny Nettey](https://open.spotify.com/artist/6GQaGd9hwNtiQG9pmFCnBK), [Emmit Jim Konadu](https://open.spotify.com/artist/5sWCmeUgaxTxG9DWEVWRnx), [Negar Wujanji](https://open.spotify.com/artist/0MJL3N9JJNFKx8s6G3Rsxi) | [A Sound from Heaven](https://open.spotify.com/album/5nskXzeE3eYkoi48SEpeVo) | 6:42 | 2023-04-06 |  |
 | [Yeshua](https://open.spotify.com/track/1CCmVTHzUjJT70rcyFDCpM) | [Minister GUC](https://open.spotify.com/artist/5F9NFQsix9CwLRFKUbyCEL) | [Yeshua](https://open.spotify.com/album/2AVLsx6wOL64vO5bd01g78) | 8:53 | 2023-07-13 |  |

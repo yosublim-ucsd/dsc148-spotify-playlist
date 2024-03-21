@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7DBYY9PSkix.md) - [plain]
 
 > Music to get your heart started.
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,368 likes - 75 songs - 4 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,454 likes - 75 songs - 4 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7DBYY9PSkix.md) - [plain]
 | 28 | [Drunk On A Plane](https://open.spotify.com/track/1soxUgYIZb1qx1c7o1Lc7z) | [Dierks Bentley](https://open.spotify.com/artist/7x8nK0m0cP2ksQf0mjWdPS) | [RISER](https://open.spotify.com/album/5FoxaIGIRuXsbhZhwdfknU) | 4:14 |
 | 29 | [Broadway Girls \(feat\. Morgan Wallen\)](https://open.spotify.com/track/3DZ8dbKg4OTSSqGARvecYd) | [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7), [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [Broadway Girls \(feat\. Morgan Wallen\)](https://open.spotify.com/album/021fiBoLY6KwQmgIvByEtG) | 3:05 |
 | 30 | [This Is How We Roll](https://open.spotify.com/track/2TR7A4ulH9R1PNwMyd8o8U) | [Florida Georgia Line](https://open.spotify.com/artist/3b8QkneNDz4JHKKKlLgYZg), [Luke Bryan](https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I) | [Here's To The Good Times...This Is How We Roll](https://open.spotify.com/album/0uqAyKT7oMZDFMyteJOJWI) | 3:40 |
-| 31 | [Creek Will Rise](https://open.spotify.com/track/5owS9iWWGd6mDlFjUFzBsw) | [Conner Smith](https://open.spotify.com/artist/0y2FPygoi6LVc75pxCgsMk) | [Creek Will Rise](https://open.spotify.com/album/4UXS7my7tmdX117YcfpXnx) | 2:49 |
-| 32 | [5 Foot 9](https://open.spotify.com/track/6AqwH2Y9FJwhUE2dCSkw1u) | [Tyler Hubbard](https://open.spotify.com/artist/3BEV5FcxOtkQJ7lLRKMh3V) | [5 Foot 9](https://open.spotify.com/album/5CTNA7y4WYhLcCd8ijsnRr) | 3:09 |
+| 31 | [5 Foot 9](https://open.spotify.com/track/6AqwH2Y9FJwhUE2dCSkw1u) | [Tyler Hubbard](https://open.spotify.com/artist/3BEV5FcxOtkQJ7lLRKMh3V) | [5 Foot 9](https://open.spotify.com/album/5CTNA7y4WYhLcCd8ijsnRr) | 3:09 |
+| 32 | [Creek Will Rise](https://open.spotify.com/track/5owS9iWWGd6mDlFjUFzBsw) | [Conner Smith](https://open.spotify.com/artist/0y2FPygoi6LVc75pxCgsMk) | [Creek Will Rise](https://open.spotify.com/album/4UXS7my7tmdX117YcfpXnx) | 2:49 |
 | 33 | [Just the Way](https://open.spotify.com/track/4h5OVQQbeqw3lNaFIbmlzG) | [Parmalee](https://open.spotify.com/artist/4TshyQDihSYXSWqvclXl3I), [Blanco Brown](https://open.spotify.com/artist/3yzRiNMZdTsSUgplcyYZ4i) | [For You](https://open.spotify.com/album/0BYiDyfOOhzFrX9ENunvbk) | 3:13 |
 | 34 | [The Champion \- Bonus Track](https://open.spotify.com/track/2F6JxWMP2ZfmVErc3ZTmqQ) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj), [Ludacris](https://open.spotify.com/artist/3ipn9JLAPI5GUEo4y4jcoi) | [Cry Pretty](https://open.spotify.com/album/6LURWtPusB5fGenqj0lbFd) | 3:42 |
 | 35 | [Drunk \(And I Don't Wanna Go Home\)](https://open.spotify.com/track/0QULNNd9z5s35entfiiXoa) | [Elle King](https://open.spotify.com/artist/3bhu7P5PfngueRHiB9hjcx), [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [Drunk \(And I Don't Wanna Go Home\)](https://open.spotify.com/album/6F6ZYE96lTFgzWotepEDhZ) | 4:05 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7DBYY9PSkix.md) - [plain]
 | 74 | [I Was On a Boat That Day](https://open.spotify.com/track/1nnsiuuYlvPF9gxXIiyAr8) | [Old Dominion](https://open.spotify.com/artist/6y8XlgIV8BLlIg1tT1R10i) | [I Was On a Boat That Day](https://open.spotify.com/album/5l1k8aONEjrNP0SFdcrL6J) | 2:58 |
 | 75 | [hole in the bottle \(with Shania Twain\)](https://open.spotify.com/track/2bV4NwncWMnVvcWyU2yxwB) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF), [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [hole in the bottle \(with Shania Twain\)](https://open.spotify.com/album/16by1M7adOE6AeoyLzQZVc) | 2:36 |
 
-Snapshot ID: `MCw3ZTgxZjNmZWViNzI5Y2M1ZjM5MDcyMWIwMWFmN2I1MGI2MTQzOTYz`
+Snapshot ID: `MCxjNGNlMjgyNmI5MWIwNWUzYzE1MGVjNGE3NWQ3NGJkYzYxOTgxMGQy`

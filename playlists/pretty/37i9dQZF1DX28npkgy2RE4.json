@@ -1,12 +1,12 @@
 {
   "description": "New styles, deep sounds. Cover: Helado Negro",
-  "num_followers": 417057,
+  "num_followers": 417104,
   "original_name": "Modern Eclectic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxOWZiNTk5M2RkZTdjZjYwNmNhNzAzNTEwYzM3NzY0Y2M3ZjA3MjE2",
+  "snapshot_id": "MCw5Njk1YjNiOWZjYWFjMTNkMzAwNDk0ZDIxNjY1ZWNiOTg4YzhlNWU3",
   "tracks": [
     {
       "added_at": "2024-03-01 05:00:00",
@@ -431,22 +431,6 @@
     {
       "added_at": "2024-03-01 05:00:00",
       "album": {
-        "name": "Jaime",
-        "url": "https://open.spotify.com/album/3eMBjJtKjZrTi0N9mg6IcR"
-      },
-      "artists": [
-        {
-          "name": "Brittany Howard",
-          "url": "https://open.spotify.com/artist/4XquDVA8pkg5Lx91No1JxB"
-        }
-      ],
-      "duration_ms": 191395,
-      "name": "Stay High",
-      "url": "https://open.spotify.com/track/5zFaNeTwCtsBbMc72FtXVo"
-    },
-    {
-      "added_at": "2024-03-01 05:00:00",
-      "album": {
         "name": "Another Friday Night / Hot Heavy Summer / Sister",
         "url": "https://open.spotify.com/album/2rsmAi0OAtqU4Er2qvhRUa"
       },
@@ -463,6 +447,22 @@
       "duration_ms": 229291,
       "name": "Hot Heavy Summer",
       "url": "https://open.spotify.com/track/2Yu0AtCUsskiFKqtLCm0zc"
+    },
+    {
+      "added_at": "2024-03-01 05:00:00",
+      "album": {
+        "name": "Jaime",
+        "url": "https://open.spotify.com/album/3eMBjJtKjZrTi0N9mg6IcR"
+      },
+      "artists": [
+        {
+          "name": "Brittany Howard",
+          "url": "https://open.spotify.com/artist/4XquDVA8pkg5Lx91No1JxB"
+        }
+      ],
+      "duration_ms": 191395,
+      "name": "Stay High",
+      "url": "https://open.spotify.com/track/5zFaNeTwCtsBbMc72FtXVo"
     },
     {
       "added_at": "2024-03-01 05:00:00",
@@ -667,18 +667,18 @@
     {
       "added_at": "2024-03-01 05:00:00",
       "album": {
-        "name": "i,i",
-        "url": "https://open.spotify.com/album/0aldG5AoqOUDkEbsGtI9TW"
+        "name": "Fits Of Laughter",
+        "url": "https://open.spotify.com/album/1SuYWmzfeZOnStKfSfnJ0D"
       },
       "artists": [
         {
-          "name": "Bon Iver",
-          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
+          "name": "Bendigo Fletcher",
+          "url": "https://open.spotify.com/artist/6O8lpJl2nITlA3dJfT95pM"
         }
       ],
-      "duration_ms": 141666,
-      "name": "Marion",
-      "url": "https://open.spotify.com/track/4Pzg3KLuXxPJ2eFsPiN134"
+      "duration_ms": 251746,
+      "name": "Sugar in the Creek",
+      "url": "https://open.spotify.com/track/0Ppp8AhUasTiQxp4RHwyj5"
     },
     {
       "added_at": "2024-03-01 05:00:00",
@@ -699,18 +699,18 @@
     {
       "added_at": "2024-03-01 05:00:00",
       "album": {
-        "name": "Fits Of Laughter",
-        "url": "https://open.spotify.com/album/1SuYWmzfeZOnStKfSfnJ0D"
+        "name": "i,i",
+        "url": "https://open.spotify.com/album/0aldG5AoqOUDkEbsGtI9TW"
       },
       "artists": [
         {
-          "name": "Bendigo Fletcher",
-          "url": "https://open.spotify.com/artist/6O8lpJl2nITlA3dJfT95pM"
+          "name": "Bon Iver",
+          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
         }
       ],
-      "duration_ms": 251746,
-      "name": "Sugar in the Creek",
-      "url": "https://open.spotify.com/track/0Ppp8AhUasTiQxp4RHwyj5"
+      "duration_ms": 141666,
+      "name": "Marion",
+      "url": "https://open.spotify.com/track/4Pzg3KLuXxPJ2eFsPiN134"
     },
     {
       "added_at": "2024-03-01 05:00:00",
@@ -779,6 +779,22 @@
     {
       "added_at": "2024-03-01 05:00:00",
       "album": {
+        "name": "BRIGHTSIDE",
+        "url": "https://open.spotify.com/album/3K8XmeN3jQvl6reRJcfakL"
+      },
+      "artists": [
+        {
+          "name": "The Lumineers",
+          "url": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
+        }
+      ],
+      "duration_ms": 181040,
+      "name": "BIG SHOT",
+      "url": "https://open.spotify.com/track/3UHNRo52Jrra0NfaIlYbk4"
+    },
+    {
+      "added_at": "2024-03-01 05:00:00",
+      "album": {
         "name": "V",
         "url": "https://open.spotify.com/album/1epwNzmWdqkBQQZpTa8KJD"
       },
@@ -793,20 +809,20 @@
       "url": "https://open.spotify.com/track/2AojQfi1k8pgwyg1Ii0Ly8"
     },
     {
-      "added_at": "2024-03-01 05:00:00",
+      "added_at": "2024-03-08 05:00:00",
       "album": {
-        "name": "BRIGHTSIDE",
-        "url": "https://open.spotify.com/album/3K8XmeN3jQvl6reRJcfakL"
+        "name": "Hero",
+        "url": "https://open.spotify.com/album/5vzLvQIgT3vD1NA5MyaXaN"
       },
       "artists": [
         {
-          "name": "The Lumineers",
-          "url": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
+          "name": "Marcus King",
+          "url": "https://open.spotify.com/artist/0FeWKiZSwBRdGzqeCdlH1a"
         }
       ],
-      "duration_ms": 181040,
-      "name": "BIG SHOT",
-      "url": "https://open.spotify.com/track/3UHNRo52Jrra0NfaIlYbk4"
+      "duration_ms": 196066,
+      "name": "Hero",
+      "url": "https://open.spotify.com/track/5O89rL395q32qmTzYGxNfb"
     },
     {
       "added_at": "2024-03-01 05:00:00",
@@ -827,22 +843,6 @@
       "duration_ms": 181933,
       "name": "Fatal Line",
       "url": "https://open.spotify.com/track/60TzCPjii0JKAQtQTENYpn"
-    },
-    {
-      "added_at": "2024-03-08 05:00:00",
-      "album": {
-        "name": "Hero",
-        "url": "https://open.spotify.com/album/5vzLvQIgT3vD1NA5MyaXaN"
-      },
-      "artists": [
-        {
-          "name": "Marcus King",
-          "url": "https://open.spotify.com/artist/0FeWKiZSwBRdGzqeCdlH1a"
-        }
-      ],
-      "duration_ms": 196066,
-      "name": "Hero",
-      "url": "https://open.spotify.com/track/5O89rL395q32qmTzYGxNfb"
     },
     {
       "added_at": "2024-03-01 05:00:00",
@@ -1035,22 +1035,6 @@
     {
       "added_at": "2024-03-01 05:00:00",
       "album": {
-        "name": "More Than a Love Song",
-        "url": "https://open.spotify.com/album/4mKa3XUlzWNoUub36qy9mX"
-      },
-      "artists": [
-        {
-          "name": "Black Pumas",
-          "url": "https://open.spotify.com/artist/6eU0jV2eEZ8XTM7EmlguK6"
-        }
-      ],
-      "duration_ms": 287000,
-      "name": "More Than a Love Song",
-      "url": "https://open.spotify.com/track/2LflS98n1TRQb0Fcj1910h"
-    },
-    {
-      "added_at": "2024-03-01 05:00:00",
-      "album": {
         "name": "Better Days",
         "url": "https://open.spotify.com/album/76H7LQRjofrjoPlGDLwkwk"
       },
@@ -1063,6 +1047,22 @@
       "duration_ms": 201626,
       "name": "Better Days",
       "url": "https://open.spotify.com/track/02HJc2G0BfiJBJhet27Scm"
+    },
+    {
+      "added_at": "2024-03-01 05:00:00",
+      "album": {
+        "name": "More Than a Love Song",
+        "url": "https://open.spotify.com/album/4mKa3XUlzWNoUub36qy9mX"
+      },
+      "artists": [
+        {
+          "name": "Black Pumas",
+          "url": "https://open.spotify.com/artist/6eU0jV2eEZ8XTM7EmlguK6"
+        }
+      ],
+      "duration_ms": 287000,
+      "name": "More Than a Love Song",
+      "url": "https://open.spotify.com/track/2LflS98n1TRQb0Fcj1910h"
     },
     {
       "added_at": "2024-03-01 05:00:00",
@@ -1595,18 +1595,18 @@
     {
       "added_at": "2024-03-01 05:00:00",
       "album": {
-        "name": "Quiet Signs",
-        "url": "https://open.spotify.com/album/6gfh7DsfwxpZkRcPZo75M1"
+        "name": "Shadowglow",
+        "url": "https://open.spotify.com/album/1gu4P2JcclHD1BvDXx2pqq"
       },
       "artists": [
         {
-          "name": "Jessica Pratt",
-          "url": "https://open.spotify.com/artist/5KTykbPcDB4GYS49jcHbWh"
+          "name": "flipturn",
+          "url": "https://open.spotify.com/artist/7FKTg75ADVMZgY3P9ZMRtH"
         }
       ],
-      "duration_ms": 217360,
-      "name": "This Time Around",
-      "url": "https://open.spotify.com/track/5KFa7aO49TOsH8zfMarw6N"
+      "duration_ms": 214748,
+      "name": "Brooklyn Baby",
+      "url": "https://open.spotify.com/track/5KSvKQn5QPkHc8QqObqZcC"
     },
     {
       "added_at": "2024-03-01 05:00:00",
@@ -1627,18 +1627,18 @@
     {
       "added_at": "2024-03-01 05:00:00",
       "album": {
-        "name": "Shadowglow",
-        "url": "https://open.spotify.com/album/1gu4P2JcclHD1BvDXx2pqq"
+        "name": "Quiet Signs",
+        "url": "https://open.spotify.com/album/6gfh7DsfwxpZkRcPZo75M1"
       },
       "artists": [
         {
-          "name": "flipturn",
-          "url": "https://open.spotify.com/artist/7FKTg75ADVMZgY3P9ZMRtH"
+          "name": "Jessica Pratt",
+          "url": "https://open.spotify.com/artist/5KTykbPcDB4GYS49jcHbWh"
         }
       ],
-      "duration_ms": 214748,
-      "name": "Brooklyn Baby",
-      "url": "https://open.spotify.com/track/5KSvKQn5QPkHc8QqObqZcC"
+      "duration_ms": 217360,
+      "name": "This Time Around",
+      "url": "https://open.spotify.com/track/5KFa7aO49TOsH8zfMarw6N"
     },
     {
       "added_at": "2024-03-01 05:00:00",
@@ -1855,22 +1855,6 @@
     {
       "added_at": "2024-03-01 05:00:00",
       "album": {
-        "name": "Fever Breaks",
-        "url": "https://open.spotify.com/album/3qL2gdQLgulBvIo7bng2zS"
-      },
-      "artists": [
-        {
-          "name": "Josh Ritter",
-          "url": "https://open.spotify.com/artist/6igfLpd8s6DBBAuwebRUuo"
-        }
-      ],
-      "duration_ms": 286440,
-      "name": "Old Black Magic",
-      "url": "https://open.spotify.com/track/5lbgaOjchF4QZLdh2gw2Wl"
-    },
-    {
-      "added_at": "2024-03-01 05:00:00",
-      "album": {
         "name": "Optimism",
         "url": "https://open.spotify.com/album/2LrDS8mmPcANF46XdsuUUd"
       },
@@ -1883,6 +1867,22 @@
       "duration_ms": 119372,
       "name": "Optimism",
       "url": "https://open.spotify.com/track/08nmO9CJOh6NRYltWAaWXF"
+    },
+    {
+      "added_at": "2024-03-01 05:00:00",
+      "album": {
+        "name": "Fever Breaks",
+        "url": "https://open.spotify.com/album/3qL2gdQLgulBvIo7bng2zS"
+      },
+      "artists": [
+        {
+          "name": "Josh Ritter",
+          "url": "https://open.spotify.com/artist/6igfLpd8s6DBBAuwebRUuo"
+        }
+      ],
+      "duration_ms": 286440,
+      "name": "Old Black Magic",
+      "url": "https://open.spotify.com/track/5lbgaOjchF4QZLdh2gw2Wl"
     },
     {
       "added_at": "2024-03-01 05:00:00",
@@ -1983,22 +1983,6 @@
     {
       "added_at": "2024-03-01 05:00:00",
       "album": {
-        "name": "Different Kinds of Light",
-        "url": "https://open.spotify.com/album/1f1u0MpV823YGBjQBb8JJ9"
-      },
-      "artists": [
-        {
-          "name": "Jade Bird",
-          "url": "https://open.spotify.com/artist/7D8LuVnlyu91ndcPe70j7S"
-        }
-      ],
-      "duration_ms": 215493,
-      "name": "Now is the Time",
-      "url": "https://open.spotify.com/track/5PiY6q31Ps3st88R3wNLhE"
-    },
-    {
-      "added_at": "2024-03-01 05:00:00",
-      "album": {
         "name": "Show Up",
         "url": "https://open.spotify.com/album/1JD1hz1p5bnIX0AE8svwtY"
       },
@@ -2011,6 +1995,22 @@
       "duration_ms": 201053,
       "name": "Show Up",
       "url": "https://open.spotify.com/track/1p17XN8yqoY5LHEG0Inqam"
+    },
+    {
+      "added_at": "2024-03-01 05:00:00",
+      "album": {
+        "name": "Different Kinds of Light",
+        "url": "https://open.spotify.com/album/1f1u0MpV823YGBjQBb8JJ9"
+      },
+      "artists": [
+        {
+          "name": "Jade Bird",
+          "url": "https://open.spotify.com/artist/7D8LuVnlyu91ndcPe70j7S"
+        }
+      ],
+      "duration_ms": 215493,
+      "name": "Now is the Time",
+      "url": "https://open.spotify.com/track/5PiY6q31Ps3st88R3wNLhE"
     },
     {
       "added_at": "2024-03-01 05:00:00",
@@ -2035,22 +2035,6 @@
     {
       "added_at": "2024-03-01 05:00:00",
       "album": {
-        "name": "Warm Chris",
-        "url": "https://open.spotify.com/album/56rWsCsd2UF9l1XTpUfZ1v"
-      },
-      "artists": [
-        {
-          "name": "Aldous Harding",
-          "url": "https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG"
-        }
-      ],
-      "duration_ms": 219213,
-      "name": "Tick Tock",
-      "url": "https://open.spotify.com/track/0Q7tKJdvKx6yyJ8qSf6elE"
-    },
-    {
-      "added_at": "2024-03-01 05:00:00",
-      "album": {
         "name": "Revealer",
         "url": "https://open.spotify.com/album/3flejyQLaN7EolO3Vmg31D"
       },
@@ -2063,6 +2047,22 @@
       "duration_ms": 228800,
       "name": "Anywhere",
       "url": "https://open.spotify.com/track/11s7r8ffgXRZreqvMVPACS"
+    },
+    {
+      "added_at": "2024-03-01 05:00:00",
+      "album": {
+        "name": "Warm Chris",
+        "url": "https://open.spotify.com/album/56rWsCsd2UF9l1XTpUfZ1v"
+      },
+      "artists": [
+        {
+          "name": "Aldous Harding",
+          "url": "https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG"
+        }
+      ],
+      "duration_ms": 219213,
+      "name": "Tick Tock",
+      "url": "https://open.spotify.com/track/0Q7tKJdvKx6yyJ8qSf6elE"
     },
     {
       "added_at": "2024-03-01 05:00:00",
@@ -2151,22 +2151,6 @@
     {
       "added_at": "2024-03-01 05:00:00",
       "album": {
-        "name": "Shepherd in a Sheepskin Vest",
-        "url": "https://open.spotify.com/album/59hAqiqCmbfLBDtMzGCNpp"
-      },
-      "artists": [
-        {
-          "name": "Bill Callahan",
-          "url": "https://open.spotify.com/artist/7gqsi6aBSkRMJoL9psKqMr"
-        }
-      ],
-      "duration_ms": 222453,
-      "name": "What Comes After Certainty",
-      "url": "https://open.spotify.com/track/3sSfpC7N0UC5GeaqwquTMq"
-    },
-    {
-      "added_at": "2024-03-01 05:00:00",
-      "album": {
         "name": "Practice Magic and Seek Professional Help When Necessary",
         "url": "https://open.spotify.com/album/2f5KpUAT9lDedlKG3PQLQz"
       },
@@ -2179,6 +2163,22 @@
       "duration_ms": 161972,
       "name": "Song to Make You Fall in Love With Me",
       "url": "https://open.spotify.com/track/6uamXLhBaOLWaDkaftKTzr"
+    },
+    {
+      "added_at": "2024-03-01 05:00:00",
+      "album": {
+        "name": "Shepherd in a Sheepskin Vest",
+        "url": "https://open.spotify.com/album/59hAqiqCmbfLBDtMzGCNpp"
+      },
+      "artists": [
+        {
+          "name": "Bill Callahan",
+          "url": "https://open.spotify.com/artist/7gqsi6aBSkRMJoL9psKqMr"
+        }
+      ],
+      "duration_ms": 222453,
+      "name": "What Comes After Certainty",
+      "url": "https://open.spotify.com/track/3sSfpC7N0UC5GeaqwquTMq"
     },
     {
       "added_at": "2024-03-01 05:00:00",
@@ -2267,22 +2267,6 @@
     {
       "added_at": "2024-03-01 05:00:00",
       "album": {
-        "name": "Baby Roe",
-        "url": "https://open.spotify.com/album/5CX31s6MUWs5DsSuU7s20G"
-      },
-      "artists": [
-        {
-          "name": "Ani DiFranco",
-          "url": "https://open.spotify.com/artist/0AiTwNtYX8m4uhfU7rJ8RD"
-        }
-      ],
-      "duration_ms": 186946,
-      "name": "Baby Roe",
-      "url": "https://open.spotify.com/track/5uxTlayhGSIwr8SjEqVQQ9"
-    },
-    {
-      "added_at": "2024-03-01 05:00:00",
-      "album": {
         "name": "Forever Half Mast",
         "url": "https://open.spotify.com/album/6JYgcV8VlG9sX18HhRHH4u"
       },
@@ -2315,18 +2299,18 @@
     {
       "added_at": "2024-03-01 05:00:00",
       "album": {
-        "name": "Subtitles",
-        "url": "https://open.spotify.com/album/21azpaO61GZG0Xq0fNXXj0"
+        "name": "Baby Roe",
+        "url": "https://open.spotify.com/album/5CX31s6MUWs5DsSuU7s20G"
       },
       "artists": [
         {
-          "name": "Madison Cunningham",
-          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
+          "name": "Ani DiFranco",
+          "url": "https://open.spotify.com/artist/0AiTwNtYX8m4uhfU7rJ8RD"
         }
       ],
-      "duration_ms": 245172,
-      "name": "Subtitles",
-      "url": "https://open.spotify.com/track/5eC8NnYiXta8Tv8dgbcLjq"
+      "duration_ms": 186946,
+      "name": "Baby Roe",
+      "url": "https://open.spotify.com/track/5uxTlayhGSIwr8SjEqVQQ9"
     },
     {
       "added_at": "2024-03-01 05:00:00",
@@ -2363,18 +2347,18 @@
     {
       "added_at": "2024-03-01 05:00:00",
       "album": {
-        "name": "Nick Waterhouse",
-        "url": "https://open.spotify.com/album/1e1FoOAXam30VAJJb4q4Zk"
+        "name": "Subtitles",
+        "url": "https://open.spotify.com/album/21azpaO61GZG0Xq0fNXXj0"
       },
       "artists": [
         {
-          "name": "Nick Waterhouse",
-          "url": "https://open.spotify.com/artist/0V7uVrIYr4FwFvUN9S4kYr"
+          "name": "Madison Cunningham",
+          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
         }
       ],
-      "duration_ms": 200813,
-      "name": "I Feel an Urge Coming On",
-      "url": "https://open.spotify.com/track/501jsSXfxhgClQe4UDrofk"
+      "duration_ms": 245172,
+      "name": "Subtitles",
+      "url": "https://open.spotify.com/track/5eC8NnYiXta8Tv8dgbcLjq"
     },
     {
       "added_at": "2024-03-01 05:00:00",
@@ -2411,18 +2395,18 @@
     {
       "added_at": "2024-03-01 05:00:00",
       "album": {
-        "name": "LIFE ON EARTH",
-        "url": "https://open.spotify.com/album/5oHaiGt9cgATxsrv409jP3"
+        "name": "Nick Waterhouse",
+        "url": "https://open.spotify.com/album/1e1FoOAXam30VAJJb4q4Zk"
       },
       "artists": [
         {
-          "name": "Hurray For The Riff Raff",
-          "url": "https://open.spotify.com/artist/2xLEV2jDreAOcpJXFNoXyt"
+          "name": "Nick Waterhouse",
+          "url": "https://open.spotify.com/artist/0V7uVrIYr4FwFvUN9S4kYr"
         }
       ],
-      "duration_ms": 242053,
-      "name": "PIERCED ARROWS",
-      "url": "https://open.spotify.com/track/2wEYO3Vg0gv5xK4iAMfHBz"
+      "duration_ms": 200813,
+      "name": "I Feel an Urge Coming On",
+      "url": "https://open.spotify.com/track/501jsSXfxhgClQe4UDrofk"
     },
     {
       "added_at": "2024-03-01 05:00:00",
@@ -2443,18 +2427,18 @@
     {
       "added_at": "2024-03-01 05:00:00",
       "album": {
-        "name": "Cala",
-        "url": "https://open.spotify.com/album/5N1201PBNTiy1gj7b7sPsW"
+        "name": "LIFE ON EARTH",
+        "url": "https://open.spotify.com/album/5oHaiGt9cgATxsrv409jP3"
       },
       "artists": [
         {
-          "name": "Fionn Regan",
-          "url": "https://open.spotify.com/artist/0WJc0VDtzsLIk33XRB20Dy"
+          "name": "Hurray For The Riff Raff",
+          "url": "https://open.spotify.com/artist/2xLEV2jDreAOcpJXFNoXyt"
         }
       ],
-      "duration_ms": 148773,
-      "name": "Collar of Fur",
-      "url": "https://open.spotify.com/track/7ytLP3YW58akAQyMTwW78l"
+      "duration_ms": 242053,
+      "name": "PIERCED ARROWS",
+      "url": "https://open.spotify.com/track/2wEYO3Vg0gv5xK4iAMfHBz"
     },
     {
       "added_at": "2024-03-01 05:00:00",
@@ -2471,6 +2455,22 @@
       "duration_ms": 282373,
       "name": "midnight sun",
       "url": "https://open.spotify.com/track/7M3YPejLG9WxQS9i4ZHVXh"
+    },
+    {
+      "added_at": "2024-03-01 05:00:00",
+      "album": {
+        "name": "Cala",
+        "url": "https://open.spotify.com/album/5N1201PBNTiy1gj7b7sPsW"
+      },
+      "artists": [
+        {
+          "name": "Fionn Regan",
+          "url": "https://open.spotify.com/artist/0WJc0VDtzsLIk33XRB20Dy"
+        }
+      ],
+      "duration_ms": 148773,
+      "name": "Collar of Fur",
+      "url": "https://open.spotify.com/track/7ytLP3YW58akAQyMTwW78l"
     },
     {
       "added_at": "2024-03-01 05:00:00",

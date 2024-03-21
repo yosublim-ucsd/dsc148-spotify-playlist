@@ -1442,7 +1442,7 @@
     {
       "album": {
         "name": "Enjoy",
-        "url": "https://open.spotify.com/album/3uY2fylWZaffBO94cxXQ15"
+        "url": "https://open.spotify.com/album/2r2GgPbTjjPB8OclFfiFGY"
       },
       "artists": [
         {
@@ -1457,6 +1457,28 @@
       "date_added": "2023-11-29",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 216724,
+      "name": "Enjoy",
+      "url": "https://open.spotify.com/track/1qiHxdihSes6DA9hkAKFyg"
+    },
+    {
+      "album": {
+        "name": "Enjoy",
+        "url": "https://open.spotify.com/album/3uY2fylWZaffBO94cxXQ15"
+      },
+      "artists": [
+        {
+          "name": "Jux",
+          "url": "https://open.spotify.com/artist/2ZLAPSgdMTOcovno5mGBZW"
+        },
+        {
+          "name": "Diamond Platnumz",
+          "url": "https://open.spotify.com/artist/3cAisWS37sGCCtRgWfvrod"
+        }
+      ],
+      "date_added": "2023-11-29",
+      "date_added_asterisk": false,
+      "date_removed": "2024-03-21",
       "duration_ms": 216724,
       "name": "Enjoy",
       "url": "https://open.spotify.com/track/3osydJRsRqgVFKYTC04QfT"
@@ -4941,6 +4963,28 @@
     },
     {
       "album": {
+        "name": "Alusa Why Are You Topless?",
+        "url": "https://open.spotify.com/album/6AB8x99F5MUrnSHSbUdLBD"
+      },
+      "artists": [
+        {
+          "name": "Bien",
+          "url": "https://open.spotify.com/artist/2zhossaaVN2pXg5p8o101X"
+        },
+        {
+          "name": "DJ Edu",
+          "url": "https://open.spotify.com/artist/282qczsRq0zgXtdnnrfrgX"
+        }
+      ],
+      "date_added": "2023-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "Too Easy",
+      "url": "https://open.spotify.com/track/2RrrsbDAHJWqfHC1L7hp7O"
+    },
+    {
+      "album": {
         "name": "Too Easy",
         "url": "https://open.spotify.com/album/6RkyrlOiwSFAKd01Y2yAvL"
       },
@@ -4956,7 +5000,7 @@
       ],
       "date_added": "2023-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-21",
       "duration_ms": 180000,
       "name": "Too Easy",
       "url": "https://open.spotify.com/track/4Tx9rp5TpujLUwmoqKVjcs"

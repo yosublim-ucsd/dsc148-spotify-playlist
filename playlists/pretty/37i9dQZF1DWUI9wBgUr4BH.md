@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUI9wBgUr4BH.md) - [plain]
 
 > Les hits de demain sont déjà ici\. Photo : Aya Nakamura x Ayra Starr
 
-[Spotify](https://open.spotify.com/user/spotify) - 290,789 likes - 40 songs - 2 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 290,837 likes - 40 songs - 2 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUI9wBgUr4BH.md) - [plain]
 | 2 | [Alibi \(feat\. Rudimental\)](https://open.spotify.com/track/5Jpz4nv8nA6FIYO5gEyQa2) | [Ella Henderson](https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1), [Rudimental](https://open.spotify.com/artist/4WN5naL3ofxrVBgFpguzKo) | [Alibi \(feat\. Rudimental\)](https://open.spotify.com/album/3Ku8LDPYg53Kh59amfFWjL) | 3:04 |
 | 3 | [Madrid City](https://open.spotify.com/track/6KHxe3Yj8W8oq3zviUvJRe) | [Ana Mena](https://open.spotify.com/artist/6k8mwkKJKKjBILo7ypBspl) | [Madrid City](https://open.spotify.com/album/10FIZ9MLyrK0ddmsMmDE98) | 2:52 |
 | 4 | [The Door](https://open.spotify.com/track/3dj4wgM3cPeuLwMNHDuBon) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [I've Tried Everything But Therapy \(Part 1\)](https://open.spotify.com/album/7nacKlk586eLRBSIsrk9DB) | 3:32 |
-| 5 | [Aimée pour de vrai \(Héléna\)](https://open.spotify.com/track/5peFNKKLZUaOYE0c3qZNE1) | [Star Academy](https://open.spotify.com/artist/0SkR0pnP9oQ3ghG9juH9hy) | [L'album de la promo 2023](https://open.spotify.com/album/7nwA9NO0wjD68jgpeimgcC) | 3:08 |
+| 5 | [Aimée pour de vrai](https://open.spotify.com/track/5peFNKKLZUaOYE0c3qZNE1) | [Helena](https://open.spotify.com/artist/6M0dlWzmJ9Z81JM2WpHbsC), [Star Academy](https://open.spotify.com/artist/0SkR0pnP9oQ3ghG9juH9hy) | [L'album de la promo 2023](https://open.spotify.com/album/7nwA9NO0wjD68jgpeimgcC) | 3:08 |
 | 6 | [Selfish](https://open.spotify.com/track/0QosomGFiJYOxj2ViZfqng) | [Justin Timberlake](https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7) | [Selfish](https://open.spotify.com/album/3G89Vbw7shdM38VCVsFdoy) | 3:49 |
 | 7 | [SEMPRE / JAMAIS \(feat\. Angèle\)](https://open.spotify.com/track/4kPslR1KKiN9QOZnK5he23) | [Mahmood](https://open.spotify.com/artist/06nvjg4wBANK6DCHjqtPNd), [Angèle](https://open.spotify.com/artist/3QVolfxko2UyCOtexhVTli) | [NEI LETTI DEGLI ALTRI](https://open.spotify.com/album/7tEHuB4Y4KaSAMB1CjTUho) | 3:12 |
 | 8 | [CONTIGO \(with Tiësto\)](https://open.spotify.com/track/4UkUxO2WlKLc0Q1iEutGGh) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [CONTIGO \(with Tiësto\)](https://open.spotify.com/album/2mKcYIgv7ItYDQXke3uprl) | 3:12 |
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUI9wBgUr4BH.md) - [plain]
 | 39 | [Fio Maravilha](https://open.spotify.com/track/1W9TsPRxMfhnI0bmfg3Kwh) | [Bon Entendeur](https://open.spotify.com/artist/2lwjwKfYZCuPEJOo8t32CD), [Nicoletta](https://open.spotify.com/artist/1XspV6teuaJMwVq0QBXZA0) | [Fio Maravilha](https://open.spotify.com/album/5mZM6qQfT8347Sn0WngPK4) | 3:08 |
 | 40 | [Can't Get Enough](https://open.spotify.com/track/3A0XNK2dqNFIjG4yBt9Zzd) | [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR) | [Can't Get Enough](https://open.spotify.com/album/3w8ZxUWRMNv5uERVK3fLq1) | 3:06 |
 
-Snapshot ID: `MCwyMDBlZjVjNWNiYThjNjI0NmNlZDBlMTBjZTMxOGM0NmZmMDBmYzNm`
+Snapshot ID: `MCxmMmM4ZTc3OWE1MDljZThiNDNhMTczYWFmZjVjYjU5MjVmNWQyZGRh`

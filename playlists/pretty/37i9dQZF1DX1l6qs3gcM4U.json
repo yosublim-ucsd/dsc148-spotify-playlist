@@ -1,12 +1,12 @@
 {
   "description": "Fall in love with the sensual sounds of Kizomba! Cover: Black Spygo, C4 Pedro & Bruna Amado.  ",
-  "num_followers": 197154,
+  "num_followers": 197237,
   "original_name": "Dancing Kizomba",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmOWVlNmUwOTkxMGM4YTJkZjlkMDExYjNhM2E2N2ZhODJiYTcxNWNm",
+  "snapshot_id": "MCxiYzU0ZjBmYzg1NGEzZTU5MGMyMTJjOWNmM2EzMDRmY2ZlNzdmMWI0",
   "tracks": [
     {
       "added_at": "2024-03-15 00:00:00",
@@ -647,22 +647,6 @@
     {
       "added_at": "2024-03-15 00:00:00",
       "album": {
-        "name": "Jeito Dela",
-        "url": "https://open.spotify.com/album/1mGf42MV0CF54Jq8Ran4x1"
-      },
-      "artists": [
-        {
-          "name": "Landrick",
-          "url": "https://open.spotify.com/artist/0K7M2QEMiMcok8igQeSsRU"
-        }
-      ],
-      "duration_ms": 208000,
-      "name": "Jeito Dela",
-      "url": "https://open.spotify.com/track/2KlwnCnbMC5s5CGu95vNgK"
-    },
-    {
-      "added_at": "2024-03-15 00:00:00",
-      "album": {
         "name": "Fica Comigo",
         "url": "https://open.spotify.com/album/7cg4MQKXsUNxQakPQVuZYE"
       },
@@ -675,6 +659,22 @@
       "duration_ms": 202113,
       "name": "Fica Comigo",
       "url": "https://open.spotify.com/track/01qO8ZCxyp07BHfsigcI5P"
+    },
+    {
+      "added_at": "2024-03-15 00:00:00",
+      "album": {
+        "name": "Jeito Dela",
+        "url": "https://open.spotify.com/album/1mGf42MV0CF54Jq8Ran4x1"
+      },
+      "artists": [
+        {
+          "name": "Landrick",
+          "url": "https://open.spotify.com/artist/0K7M2QEMiMcok8igQeSsRU"
+        }
+      ],
+      "duration_ms": 208000,
+      "name": "Jeito Dela",
+      "url": "https://open.spotify.com/track/2KlwnCnbMC5s5CGu95vNgK"
     },
     {
       "added_at": "2024-03-15 00:00:00",
@@ -899,22 +899,6 @@
     {
       "added_at": "2024-03-15 00:00:00",
       "album": {
-        "name": "Nha Love",
-        "url": "https://open.spotify.com/album/1inJQsJMoKg8QOzG5Ff02T"
-      },
-      "artists": [
-        {
-          "name": "Djodje",
-          "url": "https://open.spotify.com/artist/62huveC2Mmi9nfW0ySqNwo"
-        }
-      ],
-      "duration_ms": 194526,
-      "name": "Nha Love",
-      "url": "https://open.spotify.com/track/6VlC9B6pTO5BNZozsm2j7w"
-    },
-    {
-      "added_at": "2024-03-15 00:00:00",
-      "album": {
         "name": "Se Eu Pudesse",
         "url": "https://open.spotify.com/album/5b7CxDT0ukq7agUrwUv8W5"
       },
@@ -931,6 +915,22 @@
       "duration_ms": 196567,
       "name": "Se Eu Pudesse",
       "url": "https://open.spotify.com/track/1K5Zb9auos324cI21vbQfy"
+    },
+    {
+      "added_at": "2024-03-15 00:00:00",
+      "album": {
+        "name": "Nha Love",
+        "url": "https://open.spotify.com/album/1inJQsJMoKg8QOzG5Ff02T"
+      },
+      "artists": [
+        {
+          "name": "Djodje",
+          "url": "https://open.spotify.com/artist/62huveC2Mmi9nfW0ySqNwo"
+        }
+      ],
+      "duration_ms": 194526,
+      "name": "Nha Love",
+      "url": "https://open.spotify.com/track/6VlC9B6pTO5BNZozsm2j7w"
     },
     {
       "added_at": "2024-03-15 00:00:00",
@@ -1183,22 +1183,6 @@
     {
       "added_at": "2024-03-15 00:00:00",
       "album": {
-        "name": "Puro",
-        "url": "https://open.spotify.com/album/50AyTumEEiT1mXTY8zZqNi"
-      },
-      "artists": [
-        {
-          "name": "Anna Joyce",
-          "url": "https://open.spotify.com/artist/0TFtGB2jsMA97sNDTLJ8QX"
-        }
-      ],
-      "duration_ms": 263906,
-      "name": "Puro",
-      "url": "https://open.spotify.com/track/6SSlXfbFGZs7D4cIjO73dH"
-    },
-    {
-      "added_at": "2024-03-15 00:00:00",
-      "album": {
         "name": "Mais Nada",
         "url": "https://open.spotify.com/album/4qUns8RK2Sjqz9lHKCbPhT"
       },
@@ -1211,6 +1195,22 @@
       "duration_ms": 176770,
       "name": "Mais Nada",
       "url": "https://open.spotify.com/track/2DDBR1QD9d9Qjg0a1hwOAJ"
+    },
+    {
+      "added_at": "2024-03-15 00:00:00",
+      "album": {
+        "name": "Puro",
+        "url": "https://open.spotify.com/album/50AyTumEEiT1mXTY8zZqNi"
+      },
+      "artists": [
+        {
+          "name": "Anna Joyce",
+          "url": "https://open.spotify.com/artist/0TFtGB2jsMA97sNDTLJ8QX"
+        }
+      ],
+      "duration_ms": 263906,
+      "name": "Puro",
+      "url": "https://open.spotify.com/track/6SSlXfbFGZs7D4cIjO73dH"
     },
     {
       "added_at": "2024-03-15 00:00:00",
@@ -1255,26 +1255,6 @@
     {
       "added_at": "2024-03-15 00:00:00",
       "album": {
-        "name": "Benka Benka",
-        "url": "https://open.spotify.com/album/02hwY0hIvxe1FWcZgTk5Iy"
-      },
-      "artists": [
-        {
-          "name": "Jennifer Dias",
-          "url": "https://open.spotify.com/artist/45qwEAGFSoIAhlRJqYZIml"
-        },
-        {
-          "name": "SOS MUCCI",
-          "url": "https://open.spotify.com/artist/21ocGsKFd81lXPoObBFoCU"
-        }
-      ],
-      "duration_ms": 180026,
-      "name": "Benka Benka",
-      "url": "https://open.spotify.com/track/1qyB67YZSNblHfX5hQ09Ko"
-    },
-    {
-      "added_at": "2024-03-15 00:00:00",
-      "album": {
         "name": "Boda",
         "url": "https://open.spotify.com/album/5MBwc952fsqXyjK2MPBHDR"
       },
@@ -1291,6 +1271,26 @@
       "duration_ms": 173844,
       "name": "Boda",
       "url": "https://open.spotify.com/track/1oXbGqMPqugKoEaEuBZMXL"
+    },
+    {
+      "added_at": "2024-03-15 00:00:00",
+      "album": {
+        "name": "Benka Benka",
+        "url": "https://open.spotify.com/album/02hwY0hIvxe1FWcZgTk5Iy"
+      },
+      "artists": [
+        {
+          "name": "Jennifer Dias",
+          "url": "https://open.spotify.com/artist/45qwEAGFSoIAhlRJqYZIml"
+        },
+        {
+          "name": "SOS MUCCI",
+          "url": "https://open.spotify.com/artist/21ocGsKFd81lXPoObBFoCU"
+        }
+      ],
+      "duration_ms": 180026,
+      "name": "Benka Benka",
+      "url": "https://open.spotify.com/track/1qyB67YZSNblHfX5hQ09Ko"
     },
     {
       "added_at": "2024-03-15 00:00:00",
@@ -1595,22 +1595,6 @@
     {
       "added_at": "2024-03-15 00:00:00",
       "album": {
-        "name": "Felicidade",
-        "url": "https://open.spotify.com/album/4co4MyVn8IfQ3pO2QiTXoR"
-      },
-      "artists": [
-        {
-          "name": "Gerilson Insrael",
-          "url": "https://open.spotify.com/artist/4VnA54lsQnc9ImvrEY34fO"
-        }
-      ],
-      "duration_ms": 165986,
-      "name": "Felicidade",
-      "url": "https://open.spotify.com/track/4zFOzbjlrQTfGHP5gv1FTp"
-    },
-    {
-      "added_at": "2024-03-15 00:00:00",
-      "album": {
         "name": "Si Ki Min Kr\u00e8",
         "url": "https://open.spotify.com/album/0VW7FjphPCaebGCrlTlpzW"
       },
@@ -1627,6 +1611,22 @@
       "duration_ms": 159157,
       "name": "Si Ki Min Kr\u00e8",
       "url": "https://open.spotify.com/track/5XG59w0v2cDzu4Al2xcUMl"
+    },
+    {
+      "added_at": "2024-03-15 00:00:00",
+      "album": {
+        "name": "Felicidade",
+        "url": "https://open.spotify.com/album/4co4MyVn8IfQ3pO2QiTXoR"
+      },
+      "artists": [
+        {
+          "name": "Gerilson Insrael",
+          "url": "https://open.spotify.com/artist/4VnA54lsQnc9ImvrEY34fO"
+        }
+      ],
+      "duration_ms": 165986,
+      "name": "Felicidade",
+      "url": "https://open.spotify.com/track/4zFOzbjlrQTfGHP5gv1FTp"
     },
     {
       "added_at": "2024-03-15 00:00:00",
@@ -1695,6 +1695,22 @@
     {
       "added_at": "2024-03-15 00:00:00",
       "album": {
+        "name": "Apaxonado",
+        "url": "https://open.spotify.com/album/3sMPzmuuvk77d7LCDRUaAb"
+      },
+      "artists": [
+        {
+          "name": "Charbel",
+          "url": "https://open.spotify.com/artist/0vqtKHzprbtQCJOGCIOA6B"
+        }
+      ],
+      "duration_ms": 291960,
+      "name": "Belissima",
+      "url": "https://open.spotify.com/track/720YR0UhybUYFQUU4ZAWwP"
+    },
+    {
+      "added_at": "2024-03-15 00:00:00",
+      "album": {
         "name": "Novinha",
         "url": "https://open.spotify.com/album/4RgA2js3fUyRfOX9No2Xrs"
       },
@@ -1711,22 +1727,6 @@
       "duration_ms": 210379,
       "name": "Novinha",
       "url": "https://open.spotify.com/track/3YgyXiZE0E68EYvWDQ2RZd"
-    },
-    {
-      "added_at": "2024-03-15 00:00:00",
-      "album": {
-        "name": "Apaxonado",
-        "url": "https://open.spotify.com/album/3sMPzmuuvk77d7LCDRUaAb"
-      },
-      "artists": [
-        {
-          "name": "Charbel",
-          "url": "https://open.spotify.com/artist/0vqtKHzprbtQCJOGCIOA6B"
-        }
-      ],
-      "duration_ms": 291960,
-      "name": "Belissima",
-      "url": "https://open.spotify.com/track/720YR0UhybUYFQUU4ZAWwP"
     },
     {
       "added_at": "2024-03-15 00:00:00",

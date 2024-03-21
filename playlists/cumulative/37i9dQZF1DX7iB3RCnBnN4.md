@@ -4,7 +4,7 @@
 
 > All the songs with more than 1 BILLION streams on Spotify\. Cover: Taylor Swift
 
-654 songs - 1 day 15 hr 51 min
+655 songs - 1 day 15 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -612,6 +612,7 @@
 | [Want to Want Me](https://open.spotify.com/track/7oGZAicScQt96OAW4AruYy) | [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y) | [Everything Is 4](https://open.spotify.com/album/59eUYETmE1zi31ESb3SUkI) | 3:27 | 2024-01-22 |  |
 | [WAP \(feat\. Megan Thee Stallion\)](https://open.spotify.com/track/4Oun2ylbjFKMPTiaSbbCih) | [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB), [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [WAP \(feat\. Megan Thee Stallion\)](https://open.spotify.com/album/2ogiazbrNEx0kQHGl5ZBTQ) | 3:07 | 2022-03-14 |  |
 | [Watermelon Sugar](https://open.spotify.com/track/6UelLqGlWMcVH1E5c4H7lY) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Fine Line](https://open.spotify.com/album/7xV2TzoaVc0ycW7fwBwAml) | 2:54 | 2021-07-21 |  |
+| [Way down We Go](https://open.spotify.com/track/0y1QJc3SJVPKJ1OvFmFqe6) | [KALEO](https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc) | [A/B](https://open.spotify.com/album/4he4SQup02hEIQdwhZlZlk) | 3:33 | 2024-03-20 |  |
 | [We Are Young \(feat\. Janelle Monáe\)](https://open.spotify.com/track/7a86XRg84qjasly9f6bPSD) | [fun.](https://open.spotify.com/artist/5nCi3BB41mBaMH9gfr6Su0), [Janelle Monáe](https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs) | [Some Nights](https://open.spotify.com/album/7iycyHwOW2plljYIK6I1Zo) | 4:10 | 2023-09-18 |  |
 | [We Don't Talk Anymore \(feat\. Selena Gomez\)](https://open.spotify.com/track/37FXw5QGFN7uwwsLy8uAc0) | [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7), [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [Nine Track Mind](https://open.spotify.com/album/3kndSWeE2IYOrZEToZrHEV) | 3:37 | 2021-07-21 |  |
 | [We Found Love](https://open.spotify.com/track/3t4HeVfURZ5DuqMWz0Cmqg) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H), [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY) | [Talk That Talk \(Deluxe\)](https://open.spotify.com/album/3sW7wD2qdMjs7KncaOoIJ5) | 3:35 | 2023-01-03 |  |

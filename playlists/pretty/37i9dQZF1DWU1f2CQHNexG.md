@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU1f2CQHNexG.md) - [plain]
 
 > Dancing to electro\-pop like a robot from 1984\. Cover: Depeche Mode.
 
-[Spotify](https://open.spotify.com/user/spotify) - 131,843 likes - 75 songs - 5 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 131,940 likes - 75 songs - 5 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,8 +51,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU1f2CQHNexG.md) - [plain]
 | 41 | [Gloria](https://open.spotify.com/track/15ob9SMGLWrexuPuyuMjKl) | [Laura Branigan](https://open.spotify.com/artist/4463nfFMmK1cwAWBQDwT5e) | [The Best of Branigan](https://open.spotify.com/album/2bfvV9aRLN1BseXz4FbVnW) | 4:55 |
 | 42 | [Cars](https://open.spotify.com/track/4QQEzkxcONBthDLfzqIh9S) | [Gary Numan](https://open.spotify.com/artist/5KQMtyPE8DCQNUzoNqlEsE) | [The Pleasure Principle](https://open.spotify.com/album/5xFlkqLDx3wbgqtvrez1n0) | 3:58 |
 | 43 | [Always Something There to Remind Me \- 2018 Remaster](https://open.spotify.com/track/3yWAyRHfclztY1TzF2gAUD) | [Naked Eyes](https://open.spotify.com/artist/3C6chBmZ9wzisBhoh8G2nK) | [Naked Eyes](https://open.spotify.com/album/7yxf90I32wPEXr7hLp3CKR) | 3:39 |
-| 44 | [I Feel for You](https://open.spotify.com/track/5yR9u8QiOt8hJaddv32oo7) | [Chaka Khan](https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT) | [I Feel for You](https://open.spotify.com/album/08yanJqA75TPyDowCXvvPU) | 5:43 |
-| 45 | [Cities In Dust](https://open.spotify.com/track/2xq9cLlOPyLoi8kLlR4miz) | [Siouxsie and the Banshees](https://open.spotify.com/artist/1n65zfwYIj5kKEtNgxUlWb) | [Tinderbox](https://open.spotify.com/album/4JLLAw7R40SnvwkUt9B63N) | 3:51 |
+| 44 | [Cities In Dust](https://open.spotify.com/track/2xq9cLlOPyLoi8kLlR4miz) | [Siouxsie and the Banshees](https://open.spotify.com/artist/1n65zfwYIj5kKEtNgxUlWb) | [Tinderbox](https://open.spotify.com/album/4JLLAw7R40SnvwkUt9B63N) | 3:51 |
+| 45 | [I Feel for You](https://open.spotify.com/track/5yR9u8QiOt8hJaddv32oo7) | [Chaka Khan](https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT) | [I Feel for You](https://open.spotify.com/album/08yanJqA75TPyDowCXvvPU) | 5:43 |
 | 46 | [Axel F](https://open.spotify.com/track/2kgqupahrJpYB4r1poTXEY) | [Harold Faltermeyer](https://open.spotify.com/artist/7Cf73Z3RZQTH4V69GSDxnv) | [Harold F](https://open.spotify.com/album/5PmMpqpQl9DyiddbZLnthc) | 3:00 |
 | 47 | [Sunglasses At Night](https://open.spotify.com/track/5uRsBdLhn91AYcsTCOGNOC) | [Corey Hart](https://open.spotify.com/artist/0smy8yDrRoI4CnhpOuthg0) | [First Offense](https://open.spotify.com/album/2cB87PuIi04CRdxhuNrRi5) | 5:20 |
 | 48 | [Only You](https://open.spotify.com/track/3mGwufkovVPrzsJaXWg8PU) | [Yazoo](https://open.spotify.com/artist/1G1mX30GpUJqOr1QU2eBSs) | [Upstairs At Eric's](https://open.spotify.com/album/47FOg0GaQDPGTbBTHDXg9V) | 3:15 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU1f2CQHNexG.md) - [plain]
 | 74 | [Fascination \- Extended Remix](https://open.spotify.com/track/2uynnXFdf3wBIjOEHCB9up) | [The Human League](https://open.spotify.com/artist/1aX2dmV8XoHYCOQRxjPESG) | [Fascination!](https://open.spotify.com/album/0esnpjv1cOeVWSYTSY3jRc) | 4:56 |
 | 75 | [Being Boiled](https://open.spotify.com/track/6fbeOOv9u5JQwZx4pyW4mY) | [The Human League](https://open.spotify.com/artist/1aX2dmV8XoHYCOQRxjPESG) | [Travelogue](https://open.spotify.com/album/3nRP83YnVmP4TTyEzieq2H) | 4:21 |
 
-Snapshot ID: `MTY4NjgzNTY0NiwwMDAwMDAwMDdhMjhhOGUyMzdlNWRmNWMzY2Y0ZTRkYzQwOWM2MTg2`
+Snapshot ID: `MCwzZWJmMjRmMmU4NTE0YWQ5NDcyNzFmOGU1ZTkxYmNiZWYzYTUwNDlk`

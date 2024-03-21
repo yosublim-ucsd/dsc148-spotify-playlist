@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX05oRSrPGj3d.md) - [plain]
 
 > Today's Texas country featuring trending tracks and classic hits from Lonestar State icons and rising stars\. Cover: Cody Johnson
 
-[Spotify](https://open.spotify.com/user/spotify) - 257,515 likes - 100 songs - 6 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 257,589 likes - 100 songs - 6 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -88,9 +88,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX05oRSrPGj3d.md) - [plain]
 | 78 | [Ringling Road](https://open.spotify.com/track/2YUm7yXaklDbTvbwGwf9c4) | [William Clark Green](https://open.spotify.com/artist/0cshCXEe1I7wlRwdrL91ZQ) | [Ringling Road](https://open.spotify.com/album/3h5aXIK4YtJ0cRn6aWzN2V) | 4:08 |
 | 79 | [Choices](https://open.spotify.com/track/7ottDUMz3VomUN2Ln9FWdI) | [George Jones](https://open.spotify.com/artist/2OpqcUtj10HHvGG6h9VYC5) | [Cold Hard Truth](https://open.spotify.com/album/1OOYMqvCCRZDdRFezpg8l3) | 3:26 |
 | 80 | [How Lucky Am I](https://open.spotify.com/track/65djCR0BY2s8w1mdL270yj) | [Kaitlin Butts](https://open.spotify.com/artist/6QmSTo72BYMATkQVOV1axD) | [How Lucky Am I](https://open.spotify.com/album/5FvWijatd6SksRLCD0TpER) | 3:57 |
-| 81 | [Wasn't That Drunk \(feat\. Carly Pearce\)](https://open.spotify.com/track/0WnGvxW15RZyOvZxDYiWF4) | [Josh Abbott Band](https://open.spotify.com/artist/2EJ5MRZCzpHSSNNEpTx9Kb), [Carly Pearce](https://open.spotify.com/artist/4sIl4BTo9l9KqEi0Y3RE72) | [Front Row Seat](https://open.spotify.com/album/7yxhlLyOZAyFyjE3PyTaKX) | 3:43 |
-| 82 | [Pretty Things](https://open.spotify.com/track/4629TVxMQhshiEV4D5Uwyy) | [Kat Hasty](https://open.spotify.com/artist/2IpAJkXd1bfzyrq5oRVK4d) | [Drowning In Dreams](https://open.spotify.com/album/4OgDsTtnYYixZQ7uVMwsAS) | 4:28 |
-| 83 | [Shine Out](https://open.spotify.com/track/03Urb1JlysmjtjNUNNOrsP) | [Kody West](https://open.spotify.com/artist/0tiMRuAR7sxuiSmC6Mf4Ek) | [Green](https://open.spotify.com/album/0CMxHLevRj2JnccItXTYcA) | 3:53 |
+| 81 | [Pretty Things](https://open.spotify.com/track/4629TVxMQhshiEV4D5Uwyy) | [Kat Hasty](https://open.spotify.com/artist/2IpAJkXd1bfzyrq5oRVK4d) | [Drowning In Dreams](https://open.spotify.com/album/4OgDsTtnYYixZQ7uVMwsAS) | 4:28 |
+| 82 | [Shine Out](https://open.spotify.com/track/03Urb1JlysmjtjNUNNOrsP) | [Kody West](https://open.spotify.com/artist/0tiMRuAR7sxuiSmC6Mf4Ek) | [Green](https://open.spotify.com/album/0CMxHLevRj2JnccItXTYcA) | 3:53 |
+| 83 | [Wasn't That Drunk \(feat\. Carly Pearce\)](https://open.spotify.com/track/0WnGvxW15RZyOvZxDYiWF4) | [Josh Abbott Band](https://open.spotify.com/artist/2EJ5MRZCzpHSSNNEpTx9Kb), [Carly Pearce](https://open.spotify.com/artist/4sIl4BTo9l9KqEi0Y3RE72) | [Front Row Seat](https://open.spotify.com/album/7yxhlLyOZAyFyjE3PyTaKX) | 3:43 |
 | 84 | [Boots on a Dance Floor](https://open.spotify.com/track/2xD86KrQf1DrMuxu5h4vUT) | [Jon Wolfe](https://open.spotify.com/artist/7fmSLVnnxwwMYj8Wc0rKyp) | [Any Night in Texas](https://open.spotify.com/album/7zfyys4Or3HXPmGggCrDUY) | 3:58 |
 | 85 | [Who I Am](https://open.spotify.com/track/5XlN58Ay3R3cE7P7c9XjaC) | [Wade Bowen](https://open.spotify.com/artist/3OftZbLfcqulxWNZMX8zLI) | [The Blue Light Live](https://open.spotify.com/album/32kw0Q3HsL4Wv1xYlryLL5) | 4:35 |
 | 86 | [Feelin' Good Again](https://open.spotify.com/track/4NpYrBb5iuDqW1S5qrU3b6) | [Robert Earl Keen](https://open.spotify.com/artist/1jjpkAHC8bd9fRFfgKyYLP) | [Walking Distance](https://open.spotify.com/album/0n7FDhF0uwZ7hKpEyH9Ycq) | 3:16 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX05oRSrPGj3d.md) - [plain]
 | 99 | [My Heroes Have Always Been Cowboys](https://open.spotify.com/track/0dlNwpfDzFIKdtuJSnHbzK) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [The Essential Willie Nelson](https://open.spotify.com/album/46xgry5j79IBHzX73dkgYU) | 3:03 |
 | 100 | [Ain't My Day](https://open.spotify.com/track/6xscb3IfPqwanr2IoG5c8d) | [Corey Kent](https://open.spotify.com/artist/3sUpZrkehiGBaMzs2h9Mmc), [Kolby Cooper](https://open.spotify.com/artist/2dz0ijxEHh6AzUzQBwBSKx) | [Ain't My Day](https://open.spotify.com/album/1aJj0KP16u9ksUixsCAJ61) | 3:21 |
 
-Snapshot ID: `MCw2Y2NkMDViNjFjZDYzY2Y0MTAzMDI1ZDdkNWZmOTZmNDQzZDhhZGIz`
+Snapshot ID: `MCw4ZDM0YThjMjNmMTk3ZWFkODA0MzE3YTI0MDBlMjI1NDVhZDQ4Nzdj`

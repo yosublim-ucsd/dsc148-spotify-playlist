@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Al cien para un buen ejercicio!",
-  "num_followers": 152878,
+  "num_followers": 152921,
   "original_name": "Bien Mach\u00edn",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkODhmMzRhZjU0MGQwMzI0ODU2OTRiNDFlYTlmZTg5NTk4OTI4MTg5",
+  "snapshot_id": "MCw5NDQyMmM5Y2VmMjRjN2Q0ZWM1MTYwOWZiZmRlMGY1YzI0MTYwYmNl",
   "tracks": [
     {
       "added_at": "2023-09-29 07:24:02",
@@ -899,6 +899,22 @@
     {
       "added_at": "2023-09-29 07:24:02",
       "album": {
+        "name": "Al Estilo Rancheron",
+        "url": "https://open.spotify.com/album/7jomGVik8nyxBGpIMSCnRd"
+      },
+      "artists": [
+        {
+          "name": "Los Dos Carnales",
+          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
+        }
+      ],
+      "duration_ms": 191994,
+      "name": "El Envidioso",
+      "url": "https://open.spotify.com/track/53PoPAD389bBE4ePYuT95g"
+    },
+    {
+      "added_at": "2023-09-29 07:24:02",
+      "album": {
         "name": "Hublot",
         "url": "https://open.spotify.com/album/2VPiPeLG36iLMPIQOk1NgG"
       },
@@ -915,22 +931,6 @@
       "duration_ms": 225250,
       "name": "Hublot",
       "url": "https://open.spotify.com/track/5qKsIal7JJZ2bqXHPKdyVb"
-    },
-    {
-      "added_at": "2023-09-29 07:24:02",
-      "album": {
-        "name": "Al Estilo Rancheron",
-        "url": "https://open.spotify.com/album/7jomGVik8nyxBGpIMSCnRd"
-      },
-      "artists": [
-        {
-          "name": "Los Dos Carnales",
-          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
-        }
-      ],
-      "duration_ms": 191994,
-      "name": "El Envidioso",
-      "url": "https://open.spotify.com/track/53PoPAD389bBE4ePYuT95g"
     },
     {
       "added_at": "2023-09-29 07:24:02",
@@ -1575,6 +1575,22 @@
     {
       "added_at": "2023-09-29 07:24:02",
       "album": {
+        "name": "Qu\u00e9date Conmigo",
+        "url": "https://open.spotify.com/album/2ecO4JampVxMRviNZzCAPE"
+      },
+      "artists": [
+        {
+          "name": "Edicion Especial",
+          "url": "https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi"
+        }
+      ],
+      "duration_ms": 209920,
+      "name": "Backpack",
+      "url": "https://open.spotify.com/track/4Yrl7HbCo4xgkalAG985RF"
+    },
+    {
+      "added_at": "2023-09-29 07:24:02",
+      "album": {
         "name": "Por Clave El Caiman",
         "url": "https://open.spotify.com/album/59a9ZTGGKzHDQND5K6g65g"
       },
@@ -1595,18 +1611,18 @@
     {
       "added_at": "2023-09-29 07:24:02",
       "album": {
-        "name": "Qu\u00e9date Conmigo",
-        "url": "https://open.spotify.com/album/2ecO4JampVxMRviNZzCAPE"
+        "name": "La Amanecida",
+        "url": "https://open.spotify.com/album/6I5tSkfY6TUJnjOMB0vsFb"
       },
       "artists": [
         {
-          "name": "Edicion Especial",
-          "url": "https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi"
+          "name": "Los Alegres Del Barranco",
+          "url": "https://open.spotify.com/artist/2TSslwx9J30KElgEr68sdv"
         }
       ],
-      "duration_ms": 209920,
-      "name": "Backpack",
-      "url": "https://open.spotify.com/track/4Yrl7HbCo4xgkalAG985RF"
+      "duration_ms": 181524,
+      "name": "El 701",
+      "url": "https://open.spotify.com/track/4gK27JZrNyJ46T9iGXUXPF"
     },
     {
       "added_at": "2023-09-29 07:24:02",
@@ -1639,22 +1655,6 @@
       "duration_ms": 203068,
       "name": "DEL Negociante",
       "url": "https://open.spotify.com/track/55gDXEcj1heJNWZU2Ah5HH"
-    },
-    {
-      "added_at": "2023-09-29 07:24:02",
-      "album": {
-        "name": "La Amanecida",
-        "url": "https://open.spotify.com/album/6I5tSkfY6TUJnjOMB0vsFb"
-      },
-      "artists": [
-        {
-          "name": "Los Alegres Del Barranco",
-          "url": "https://open.spotify.com/artist/2TSslwx9J30KElgEr68sdv"
-        }
-      ],
-      "duration_ms": 181524,
-      "name": "El 701",
-      "url": "https://open.spotify.com/track/4gK27JZrNyJ46T9iGXUXPF"
     },
     {
       "added_at": "2023-09-29 07:24:02",
@@ -1811,6 +1811,22 @@
     {
       "added_at": "2023-09-29 07:24:02",
       "album": {
+        "name": "Cruzando Fronteras",
+        "url": "https://open.spotify.com/album/1VvHNHWtVjcS1jd13nlzNR"
+      },
+      "artists": [
+        {
+          "name": "Los Alegres Del Barranco",
+          "url": "https://open.spotify.com/artist/2TSslwx9J30KElgEr68sdv"
+        }
+      ],
+      "duration_ms": 155967,
+      "name": "El Doble R",
+      "url": "https://open.spotify.com/track/0uQcVX5M3E5aGf2sBQwfHZ"
+    },
+    {
+      "added_at": "2023-09-29 07:24:02",
+      "album": {
         "name": "Hablando Claro (En Vivo)",
         "url": "https://open.spotify.com/album/2F58yhcgZckSuL5pDXqEi8"
       },
@@ -1843,22 +1859,6 @@
       "duration_ms": 161571,
       "name": "Gorra L.A.",
       "url": "https://open.spotify.com/track/08OOZHubFNdgVZ3N714zjG"
-    },
-    {
-      "added_at": "2023-09-29 07:24:02",
-      "album": {
-        "name": "Cruzando Fronteras",
-        "url": "https://open.spotify.com/album/1VvHNHWtVjcS1jd13nlzNR"
-      },
-      "artists": [
-        {
-          "name": "Los Alegres Del Barranco",
-          "url": "https://open.spotify.com/artist/2TSslwx9J30KElgEr68sdv"
-        }
-      ],
-      "duration_ms": 155967,
-      "name": "El Doble R",
-      "url": "https://open.spotify.com/track/0uQcVX5M3E5aGf2sBQwfHZ"
     },
     {
       "added_at": "2023-09-29 07:24:02",
@@ -1919,22 +1919,18 @@
     {
       "added_at": "2023-09-29 07:24:02",
       "album": {
-        "name": "Uno Mas Uno Igual A Zero",
-        "url": "https://open.spotify.com/album/4Kn4jPceGT1pgHDjMk9WQL"
+        "name": "El Buho",
+        "url": "https://open.spotify.com/album/7mNGmzl36M6Cpm6SoNfbIL"
       },
       "artists": [
         {
-          "name": "Abraham Vazquez",
-          "url": "https://open.spotify.com/artist/063Vp9es6lLAbFUDtIAkFD"
-        },
-        {
-          "name": "Tony Aguirre",
-          "url": "https://open.spotify.com/artist/6twEaJ9RPRYiCmWapjG8xh"
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
         }
       ],
-      "duration_ms": 159683,
-      "name": "Uno mas Uno Igual a Zero",
-      "url": "https://open.spotify.com/track/3TrePR8cFXMlMvlLD9lapD"
+      "duration_ms": 176703,
+      "name": "El Buho",
+      "url": "https://open.spotify.com/track/1LwuBjjFT9Wc8qJqQV5xia"
     },
     {
       "added_at": "2023-09-29 07:24:02",
@@ -1955,18 +1951,22 @@
     {
       "added_at": "2023-09-29 07:24:02",
       "album": {
-        "name": "El Buho",
-        "url": "https://open.spotify.com/album/7mNGmzl36M6Cpm6SoNfbIL"
+        "name": "Uno Mas Uno Igual A Zero",
+        "url": "https://open.spotify.com/album/4Kn4jPceGT1pgHDjMk9WQL"
       },
       "artists": [
         {
-          "name": "Luis R Conriquez",
-          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+          "name": "Abraham Vazquez",
+          "url": "https://open.spotify.com/artist/063Vp9es6lLAbFUDtIAkFD"
+        },
+        {
+          "name": "Tony Aguirre",
+          "url": "https://open.spotify.com/artist/6twEaJ9RPRYiCmWapjG8xh"
         }
       ],
-      "duration_ms": 176703,
-      "name": "El Buho",
-      "url": "https://open.spotify.com/track/1LwuBjjFT9Wc8qJqQV5xia"
+      "duration_ms": 159683,
+      "name": "Uno mas Uno Igual a Zero",
+      "url": "https://open.spotify.com/track/3TrePR8cFXMlMvlLD9lapD"
     },
     {
       "added_at": "2023-09-29 07:24:02",
@@ -1991,22 +1991,6 @@
     {
       "added_at": "2023-09-29 07:24:02",
       "album": {
-        "name": "Corridos De Alto Calibre",
-        "url": "https://open.spotify.com/album/1YKiiRFhUVaLMVEu0l59Ri"
-      },
-      "artists": [
-        {
-          "name": "Calibre 50",
-          "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
-        }
-      ],
-      "duration_ms": 201600,
-      "name": "Javier El De Los Llanos",
-      "url": "https://open.spotify.com/track/7kyK2NSDfRE1612vdYuqIx"
-    },
-    {
-      "added_at": "2023-09-29 07:24:02",
-      "album": {
         "name": "50 Corridones",
         "url": "https://open.spotify.com/album/2aZsNDl00gVYcOfdy1hLf5"
       },
@@ -2019,6 +2003,22 @@
       "duration_ms": 211173,
       "name": "El Chino Piloto",
       "url": "https://open.spotify.com/track/6HL4B6ogVUeovbei4XUcrn"
+    },
+    {
+      "added_at": "2023-09-29 07:24:02",
+      "album": {
+        "name": "Corridos De Alto Calibre",
+        "url": "https://open.spotify.com/album/1YKiiRFhUVaLMVEu0l59Ri"
+      },
+      "artists": [
+        {
+          "name": "Calibre 50",
+          "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
+        }
+      ],
+      "duration_ms": 201600,
+      "name": "Javier El De Los Llanos",
+      "url": "https://open.spotify.com/track/7kyK2NSDfRE1612vdYuqIx"
     },
     {
       "added_at": "2023-09-29 07:24:02",
@@ -2123,6 +2123,22 @@
     {
       "added_at": "2023-09-29 07:24:02",
       "album": {
+        "name": "Al Estilo Rancheron",
+        "url": "https://open.spotify.com/album/7jomGVik8nyxBGpIMSCnRd"
+      },
+      "artists": [
+        {
+          "name": "Los Dos Carnales",
+          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
+        }
+      ],
+      "duration_ms": 198466,
+      "name": "Al Estilo Rancheron",
+      "url": "https://open.spotify.com/track/0G1D3gX48Y56yKMQB5Q1UJ"
+    },
+    {
+      "added_at": "2023-09-29 07:24:02",
+      "album": {
         "name": "El Fugitivo (En Vivo)",
         "url": "https://open.spotify.com/album/5nGUyM4FjbCYl89iXSA4un"
       },
@@ -2175,22 +2191,6 @@
     {
       "added_at": "2023-09-29 07:24:02",
       "album": {
-        "name": "Al Estilo Rancheron",
-        "url": "https://open.spotify.com/album/7jomGVik8nyxBGpIMSCnRd"
-      },
-      "artists": [
-        {
-          "name": "Los Dos Carnales",
-          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
-        }
-      ],
-      "duration_ms": 198466,
-      "name": "Al Estilo Rancheron",
-      "url": "https://open.spotify.com/track/0G1D3gX48Y56yKMQB5Q1UJ"
-    },
-    {
-      "added_at": "2023-09-29 07:24:02",
-      "album": {
         "name": "El Deportivo",
         "url": "https://open.spotify.com/album/7vfslBmJvEgsacoR5oPGbg"
       },
@@ -2231,22 +2231,6 @@
       "duration_ms": 153655,
       "name": "Buenas Rachas",
       "url": "https://open.spotify.com/track/3Tsa2DGBB3HkNk27J7nsnI"
-    },
-    {
-      "added_at": "2023-09-29 07:24:02",
-      "album": {
-        "name": "Simplemente Gracias",
-        "url": "https://open.spotify.com/album/6s3BOoMKnK60Blq4hIh2cq"
-      },
-      "artists": [
-        {
-          "name": "Calibre 50",
-          "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
-        }
-      ],
-      "duration_ms": 140880,
-      "name": "Chalito",
-      "url": "https://open.spotify.com/track/6Lb8ikDcpKjF3yx2AnlwzG"
     },
     {
       "added_at": "2023-09-29 07:24:02",
@@ -2339,22 +2323,6 @@
     {
       "added_at": "2023-09-29 07:24:02",
       "album": {
-        "name": "Guerra De Poder",
-        "url": "https://open.spotify.com/album/1W1M5dIjrNZdAD7mSsamKc"
-      },
-      "artists": [
-        {
-          "name": "Calibre 50",
-          "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
-        }
-      ],
-      "duration_ms": 261973,
-      "name": "Corrido De Juanito",
-      "url": "https://open.spotify.com/track/0ehx1p1HMn7NMKisZaO9oL"
-    },
-    {
-      "added_at": "2023-09-29 07:24:02",
-      "album": {
         "name": "Chorumbo",
         "url": "https://open.spotify.com/album/6RPOQC6rd85F9Nuxp5W2Fh"
       },
@@ -2371,6 +2339,22 @@
       "duration_ms": 200141,
       "name": "Chorumbo",
       "url": "https://open.spotify.com/track/6LQn8zFYS44ak3qAUYsp8b"
+    },
+    {
+      "added_at": "2023-09-29 07:24:02",
+      "album": {
+        "name": "Simplemente Gracias",
+        "url": "https://open.spotify.com/album/6s3BOoMKnK60Blq4hIh2cq"
+      },
+      "artists": [
+        {
+          "name": "Calibre 50",
+          "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
+        }
+      ],
+      "duration_ms": 140880,
+      "name": "Chalito",
+      "url": "https://open.spotify.com/track/6Lb8ikDcpKjF3yx2AnlwzG"
     },
     {
       "added_at": "2023-09-29 07:24:02",
@@ -2471,6 +2455,22 @@
     {
       "added_at": "2023-09-29 07:24:02",
       "album": {
+        "name": "Guerra De Poder",
+        "url": "https://open.spotify.com/album/1W1M5dIjrNZdAD7mSsamKc"
+      },
+      "artists": [
+        {
+          "name": "Calibre 50",
+          "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
+        }
+      ],
+      "duration_ms": 261973,
+      "name": "Corrido De Juanito",
+      "url": "https://open.spotify.com/track/0ehx1p1HMn7NMKisZaO9oL"
+    },
+    {
+      "added_at": "2023-09-29 07:24:02",
+      "album": {
         "name": "Soy El Rat\u00f3n",
         "url": "https://open.spotify.com/album/4NjpIS3YKvFw4LxQ40Ysoz"
       },
@@ -2519,6 +2519,22 @@
     {
       "added_at": "2023-09-29 07:24:02",
       "album": {
+        "name": "La Mb",
+        "url": "https://open.spotify.com/album/5R2kp5lNX5KmyRxFw4bRfl"
+      },
+      "artists": [
+        {
+          "name": "Panchito Arredondo",
+          "url": "https://open.spotify.com/artist/1enyvmNKgt4BIIkVnt9FAV"
+        }
+      ],
+      "duration_ms": 203522,
+      "name": "La Mb",
+      "url": "https://open.spotify.com/track/3FfCRdvFfPA93T8zT2dGqV"
+    },
+    {
+      "added_at": "2023-09-29 07:24:02",
+      "album": {
         "name": "El Rayo",
         "url": "https://open.spotify.com/album/0e17jJlx78tIV0p45nYJCE"
       },
@@ -2547,22 +2563,6 @@
       "duration_ms": 197929,
       "name": "De Peri\u00f3dico Un Gallito",
       "url": "https://open.spotify.com/track/5teILTGkJkSJXI03XeMIj2"
-    },
-    {
-      "added_at": "2023-09-29 07:24:02",
-      "album": {
-        "name": "La Mb",
-        "url": "https://open.spotify.com/album/5R2kp5lNX5KmyRxFw4bRfl"
-      },
-      "artists": [
-        {
-          "name": "Panchito Arredondo",
-          "url": "https://open.spotify.com/artist/1enyvmNKgt4BIIkVnt9FAV"
-        }
-      ],
-      "duration_ms": 203522,
-      "name": "La Mb",
-      "url": "https://open.spotify.com/track/3FfCRdvFfPA93T8zT2dGqV"
     },
     {
       "added_at": "2023-09-29 07:24:02",
@@ -2707,18 +2707,18 @@
     {
       "added_at": "2023-09-29 07:24:02",
       "album": {
-        "name": "Aunque Digan",
-        "url": "https://open.spotify.com/album/29b00fvXr3hwLz02dQb3ng"
+        "name": "Bendec\u00eddo",
+        "url": "https://open.spotify.com/album/639M2fMh0LtrcHgt1pBftu"
       },
       "artists": [
         {
-          "name": "Marca MP",
-          "url": "https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa"
+          "name": "Lenin Ram\u00edrez",
+          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
         }
       ],
-      "duration_ms": 151000,
-      "name": "Aunque Digan",
-      "url": "https://open.spotify.com/track/6V9CTpTvs5LmUVcwGAK5QG"
+      "duration_ms": 180384,
+      "name": "Soy Mencho",
+      "url": "https://open.spotify.com/track/4ievzdqwvvtM1v8WCGtPuI"
     }
   ],
   "unique_name": "Bien Mach\u00edn",

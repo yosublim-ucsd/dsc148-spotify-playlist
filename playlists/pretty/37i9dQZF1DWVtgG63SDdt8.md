@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 
 > The best new tracks of all genres of Christian, Gospel, Worship & Inspirational music\.  Cover: <a href="spotify:artist:3rdJD72bitczKtW5yNgAA4">Seph Schlueter</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 326,853 likes - 100 songs - 7 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 326,988 likes - 100 songs - 7 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,7 +62,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 | 52 | [HI\-C](https://open.spotify.com/track/6DmLU5yyCcwCS5MgHbZq78) | [HOLY GIRLXHLY GRL](https://open.spotify.com/artist/0w28kuI223Uywzaf68lL40), [Porsha Love](https://open.spotify.com/artist/09TMRjnEN1r9vDFa4XmbbG), [Wande](https://open.spotify.com/artist/0GdzQJqgRL5SHp7kXOKba0), [Queen Lee](https://open.spotify.com/artist/0ESxKUSobqG0GkLrxg77XS), [Tk Lee](https://open.spotify.com/artist/05B3lggRvyTqRwEV9YDwQz) | [HI\-C](https://open.spotify.com/album/42eKaKWWjei5ViAUQ4XY1J) | 3:03 |
 | 53 | [OOWEE](https://open.spotify.com/track/2S8j7DJfqYEDG7sv74TA4u) | [Torey D'Shaun](https://open.spotify.com/artist/78DvQP3rczGqfgEiLfFnCD) | [OOWEE](https://open.spotify.com/album/7GOJOlZImisCOmvOTyxLC6) | 2:28 |
 | 54 | [Sink](https://open.spotify.com/track/4UkTURYQwjkOrtAaYQIZ18) | [Kay Sade](https://open.spotify.com/artist/4PkhCFbcHgGFYHEspjPkq3) | [315](https://open.spotify.com/album/7Lb2IJnejDb4dUgJLVV5w7) | 2:44 |
-| 55 | [Boost It Up](https://open.spotify.com/track/1M4xXF3ysXJhy0oOXYn60J) | [Miles Minnick](https://open.spotify.com/artist/1VEtrxO5KlDXfYGKBI6Ldr), [E.G.R](https://open.spotify.com/artist/4pTnESKYabHGdAbSkoWswo) | [Boost It Up](https://open.spotify.com/album/4WnfeGJ9QVzmyrUa9v38Uc) | 2:37 |
+| 55 | [Boost It Up](https://open.spotify.com/track/1M4xXF3ysXJhy0oOXYn60J) | [Miles Minnick](https://open.spotify.com/artist/1VEtrxO5KlDXfYGKBI6Ldr), [E.G.R](https://open.spotify.com/artist/4EJIkbig1thbV3C3B68c56) | [Boost It Up](https://open.spotify.com/album/4WnfeGJ9QVzmyrUa9v38Uc) | 2:37 |
 | 56 | [VICIOUS CYCLE](https://open.spotify.com/track/1VbIQFz8NZevPwK8tZXD8H) | [EmanuelDaProphet](https://open.spotify.com/artist/5P0vV6Fw0YTdumAPZSkkuC), [Rylo Rodriguez](https://open.spotify.com/artist/0gg11prPP6OqtUvBcKnPpq) | [VICIOUS CYCLE](https://open.spotify.com/album/0CtRrHjzbmN7FdYC0r5iZv) | 3:28 |
 | 57 | [Reddit](https://open.spotify.com/track/2WN53cOBR4iZicCuocfbDr) | [Larell](https://open.spotify.com/artist/46GtWnG0MVdRyU86tvB2zw) | [Reddit](https://open.spotify.com/album/0e0ZslfuN8G7M2sm64s74E) | 1:24 |
 | 58 | [5am in Miami](https://open.spotify.com/track/7vg439NsajOjDxvAJH7uGo) | [Jekasole](https://open.spotify.com/artist/6n0IUD1yLutKG8sWtKkjly), [Made](https://open.spotify.com/artist/3rpMFsPJ2Kz9diHGS0amYd) | [5am in Miami](https://open.spotify.com/album/2d45CmtgArAumE24Cjw4iw) | 2:08 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 | 99 | [No One Like You \- Live](https://open.spotify.com/track/7JgdyPJEFHyoZYIqS2f8Om) | [KXC](https://open.spotify.com/artist/4IRzqqB9lt9kxz86QP0kpO), [Bekah Sarah](https://open.spotify.com/artist/74sCtwDFX5dPbnzoydCdxS) | [No One Like You \(Live\)](https://open.spotify.com/album/5W4KiSupizhmQRqWOdevAO) | 6:19 |
 | 100 | [Let It Flow \- Live](https://open.spotify.com/track/6EP33vME23wA0pX2ZeG7mH) | [VOUS Worship](https://open.spotify.com/artist/3LoDhoZo5Mkue9sAuj1KHb) | [Always A Good Time \(Live\)](https://open.spotify.com/album/7rN4VE06iIyRYZRknPF0N8) | 4:00 |
 
-Snapshot ID: `MCw2MjUxYzFlNDNlODFhNmQ5ZmYzZmI1MTczZDlhMDdiYjM2ODRmZTQ1`
+Snapshot ID: `MCw3NDQ1YzY3MzgyMzFhNDEwMzZlNDA1OGYxNjIwMTBlNjQ0OWU5ZjM5`

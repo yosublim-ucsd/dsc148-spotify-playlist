@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUyqO4fBh3ob.md) - [plain]
 
 > The sweet sounds of Syria.
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,330 likes - 50 songs - 4 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,344 likes - 50 songs - 4 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,9 +31,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUyqO4fBh3ob.md) - [plain]
 | 21 | [Alloosh](https://open.spotify.com/track/4SutQpeY0rtwP9XeRfa0hi) | [Ali Al Deek](https://open.spotify.com/artist/4gJE3vuk92stqZIRWieUe8) | [Ali Hits](https://open.spotify.com/album/1RL5PDCpMACLDpuIMTsXeI) | 13:43 |
 | 22 | [Hasaruha](https://open.spotify.com/track/2NsNFfvEllmWsaUfKUOtTp) | [Taim Saleh](https://open.spotify.com/artist/2jjEtWySkQNPU7K9Luu3q2) | [Hasaruha](https://open.spotify.com/album/6ez20CSvppDM756ZpI7RMa) | 3:24 |
 | 23 | [El Lela](https://open.spotify.com/track/5mCeOghVDQ36pgq63OcDXc) | [Hadi Aswad](https://open.spotify.com/artist/7cyJ9VJt6xQRFVJmhvbz6Q) | [El Lela](https://open.spotify.com/album/4dpk3etzFX1hpVVCO70LL9) | 2:48 |
-| 24 | [Moustahil](https://open.spotify.com/track/6URORXDF7eytWWR07VH6tB) | [Nancy Zaabalawi](https://open.spotify.com/artist/04aGEO8WSIbsk5FEM2BPh5) | [Moustahil](https://open.spotify.com/album/639E6Qim9hlNKHjWvsEqJL) | 4:56 |
+| 24 | [Moonlight](https://open.spotify.com/track/58Av9BcX4sUptL5POZ1E8t) | [TootArd](https://open.spotify.com/artist/7nSWA1659h0Vb1EyjJdSFV) | [Moonlight](https://open.spotify.com/album/4mt4eTy3AkiPWplcJ1SQcZ) | 3:57 |
 | 25 | [Ya Qatily](https://open.spotify.com/track/26cKnuGd9jRiywSwFcVDDI) | [Faia Younan](https://open.spotify.com/artist/2myLHkpmmKy57Jx5CN52pi) | [Ya Qatily](https://open.spotify.com/album/5v7NaWPa24ZAh2p2m0rHHJ) | 4:15 |
-| 26 | [Moonlight](https://open.spotify.com/track/58Av9BcX4sUptL5POZ1E8t) | [TootArd](https://open.spotify.com/artist/7nSWA1659h0Vb1EyjJdSFV) | [Moonlight](https://open.spotify.com/album/4mt4eTy3AkiPWplcJ1SQcZ) | 3:57 |
+| 26 | [Moustahil](https://open.spotify.com/track/6URORXDF7eytWWR07VH6tB) | [Nancy Zaabalawi](https://open.spotify.com/artist/04aGEO8WSIbsk5FEM2BPh5) | [Moustahil](https://open.spotify.com/album/639E6Qim9hlNKHjWvsEqJL) | 4:56 |
 | 27 | [Hada Omri](https://open.spotify.com/track/39IQHrieaatLwKvZ6iq2aA) | [Mahfoud AlMaher](https://open.spotify.com/artist/4VYdwh1l1CyIp0T4LhOHNI) | [Hada Omri](https://open.spotify.com/album/73W27KjR3AcoPivsmoPGY7) | 3:30 |
 | 28 | [Wallé](https://open.spotify.com/track/5mJbEJTjxwEhhlccQDm5kd) | [Bu Kolthoum](https://open.spotify.com/artist/58UPSgCUefEHXrtQkPd64B) | [Wallé](https://open.spotify.com/album/0llPrZmYWkRxQnH9o1ERF3) | 2:57 |
 | 29 | [La Ana Bensak](https://open.spotify.com/track/1m1MbKuznjpaJcVBHaRBq0) | [Shadi Jamil](https://open.spotify.com/artist/200BwGs3UAf9kQ6e0dllBp) | [Rann El Kaas](https://open.spotify.com/album/4p2g7EyPh4K6SYsmGXdu50) | 7:19 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUyqO4fBh3ob.md) - [plain]
 | 49 | [Shi Tridin](https://open.spotify.com/track/1ZNPX01Q2RMjwoAZymgVpx) | [Omar Souleyman](https://open.spotify.com/artist/11dMqVZY4PHgVL80tejvHK) | [Shi Tridin](https://open.spotify.com/album/6gNgy5YfIF4xqxAigQY8KS) | 6:48 |
 | 50 | [Malak Halle](https://open.spotify.com/track/6uOdpvk7I3RL92xbcbPt6q) | [Mais Harb](https://open.spotify.com/artist/4QanuerHBNrfWoC9x0ojk5) | [Malak Halle](https://open.spotify.com/album/1H8pbCWqU3lAmFmktdI3Tz) | 4:22 |
 
-Snapshot ID: `MCw3OTZkOWEyYjExYWYzYzk3ZmI4M2Y1Y2JhYzY0ZGNkZTc0ZGI1OGZh`
+Snapshot ID: `MCwwYmZiNmNkNWNkZGZmOTY1NjFjZjM5MjZkMWIzZGU2MDRlYTZjOGU3`

@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Vamos a bailar con Dios!",
-  "num_followers": 122468,
+  "num_followers": 122511,
   "original_name": "Baila Con Dios",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjOGRkYjNlMWNiMDQ1MzU0NGU5ZDQ0YmFlNGNlYTk4YmY4MjliMDQ1",
+  "snapshot_id": "MCw0N2NmZjNlZGZjNzcyNjVlZmY4MjJhYWE1ODRiNDNlMTkxZDljYjRk",
   "tracks": [
     {
       "added_at": "2020-09-18 05:02:00",
@@ -263,22 +263,6 @@
     {
       "added_at": "2020-09-18 05:02:00",
       "album": {
-        "name": "Oveja Entre Lobos",
-        "url": "https://open.spotify.com/album/1jyexk1kGftS90IlYCTmat"
-      },
-      "artists": [
-        {
-          "name": "Natan El Profeta",
-          "url": "https://open.spotify.com/artist/5UGUivMfBVd8JcBfjnniBf"
-        }
-      ],
-      "duration_ms": 236000,
-      "name": "Mi Fe",
-      "url": "https://open.spotify.com/track/6MgUmPLVK2yvNDSAcL0D1d"
-    },
-    {
-      "added_at": "2020-09-18 05:02:00",
-      "album": {
         "name": "Chino \" De Viaje \" ..... Camino Al Cielo",
         "url": "https://open.spotify.com/album/5fWfAVXPS3buPNuv0tCViu"
       },
@@ -295,6 +279,22 @@
       "duration_ms": 250493,
       "name": "Dame Tus Ojos (feat. Laurie Col\u00f3n)",
       "url": "https://open.spotify.com/track/3jPaLIbWPyfS5GZluhxh4D"
+    },
+    {
+      "added_at": "2020-09-18 05:02:00",
+      "album": {
+        "name": "Oveja Entre Lobos",
+        "url": "https://open.spotify.com/album/1jyexk1kGftS90IlYCTmat"
+      },
+      "artists": [
+        {
+          "name": "Natan El Profeta",
+          "url": "https://open.spotify.com/artist/5UGUivMfBVd8JcBfjnniBf"
+        }
+      ],
+      "duration_ms": 236000,
+      "name": "Mi Fe",
+      "url": "https://open.spotify.com/track/6MgUmPLVK2yvNDSAcL0D1d"
     },
     {
       "added_at": "2020-09-18 05:02:00",
@@ -743,22 +743,6 @@
     {
       "added_at": "2020-09-18 05:02:00",
       "album": {
-        "name": "Solo Bachata",
-        "url": "https://open.spotify.com/album/3r3NL0WmDLp0gpR8TGifhd"
-      },
-      "artists": [
-        {
-          "name": "Giovanni Rios",
-          "url": "https://open.spotify.com/artist/5bJbyAOugvWGdfwZ2Yzptl"
-        }
-      ],
-      "duration_ms": 301320,
-      "name": "Cuando Se Acaba El Amor",
-      "url": "https://open.spotify.com/track/2FXKO3yAmNgFE3GcNsuJDd"
-    },
-    {
-      "added_at": "2020-09-18 05:02:00",
-      "album": {
         "name": "Mi Resurgimiento",
         "url": "https://open.spotify.com/album/5XKayUtzWsWH4VEciBqhEg"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 195459,
       "name": "Dependo de Ti",
       "url": "https://open.spotify.com/track/0OTp7O27Oz1hpBAPpAJVTe"
+    },
+    {
+      "added_at": "2020-09-18 05:02:00",
+      "album": {
+        "name": "Solo Bachata",
+        "url": "https://open.spotify.com/album/3r3NL0WmDLp0gpR8TGifhd"
+      },
+      "artists": [
+        {
+          "name": "Giovanni Rios",
+          "url": "https://open.spotify.com/artist/5bJbyAOugvWGdfwZ2Yzptl"
+        }
+      ],
+      "duration_ms": 301320,
+      "name": "Cuando Se Acaba El Amor",
+      "url": "https://open.spotify.com/track/2FXKO3yAmNgFE3GcNsuJDd"
     },
     {
       "added_at": "2020-09-18 05:02:00",

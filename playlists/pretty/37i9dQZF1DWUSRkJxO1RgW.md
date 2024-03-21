@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUSRkJxO1RgW.md) - [plain]
 
 > Canciones que marcaron la década de los 80s en Argentina.
 
-[Spotify](https://open.spotify.com/user/spotify) - 288,711 likes - 60 songs - 3 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 288,784 likes - 60 songs - 3 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUSRkJxO1RgW.md) - [plain]
 | 36 | [Mi Novia Se Cayó en un Pozo Ciego \- Remasterizado 2008](https://open.spotify.com/track/38inVmG6skP7NI1CkyVZ7s) | [Los Fabulosos Cadillacs](https://open.spotify.com/artist/2FS22haX3FYbyOsUAkuYqZ) | [Yo Te Avisé](https://open.spotify.com/album/2DJSgXqWhU2iJT2hPP2HCu) | 3:57 |
 | 37 | [Lunes Por La Madrugada \- 1994 Remastered Version](https://open.spotify.com/track/5M6b21Y9Igl0uAfFeRHX3y) | [Los Abuelos De La Nada](https://open.spotify.com/artist/5R3NywPPOyhLfdvutgg0me) | [Los Abuelos De La Nada 1 \(1994 Remastered Version\)](https://open.spotify.com/album/6IwPxvK4pVWKt6HBCmXh8h) | 3:14 |
 | 38 | [Estallando Desde el Océano](https://open.spotify.com/track/7379uubtjZDDT6Phsj4nhj) | [Sumo](https://open.spotify.com/artist/10AzTrYMPVVmpKoBP5bX9W) | [Llegando Los Monos](https://open.spotify.com/album/2kn0EF90FuahMHtPpwVsX4) | 3:34 |
-| 39 | [Brilla \(Shine\)](https://open.spotify.com/track/4xqttklZFV1w1RKjbVh4na) | [Las Pelotas](https://open.spotify.com/artist/1Qv4E1VgZOGnOYd99Kp5Bs) | [Corderos en la Noche](https://open.spotify.com/album/4Fpi6uelomG6RCL39kTEt9) | 3:10 |
-| 40 | [Era En Abril](https://open.spotify.com/track/5JQNTG6ExMEnlFZy27xRkw) | [Juan Carlos Baglietto](https://open.spotify.com/artist/1Mt6JeVWV9Tvgk8ercp5O9) | [Tiempos Dificiles](https://open.spotify.com/album/37NSEn4idb7uJRjiDexLmM) | 4:44 |
+| 39 | [Era En Abril](https://open.spotify.com/track/5JQNTG6ExMEnlFZy27xRkw) | [Juan Carlos Baglietto](https://open.spotify.com/artist/1Mt6JeVWV9Tvgk8ercp5O9) | [Tiempos Dificiles](https://open.spotify.com/album/37NSEn4idb7uJRjiDexLmM) | 4:44 |
+| 40 | [Brilla \(Shine\)](https://open.spotify.com/track/4xqttklZFV1w1RKjbVh4na) | [Las Pelotas](https://open.spotify.com/artist/1Qv4E1VgZOGnOYd99Kp5Bs) | [Corderos en la Noche](https://open.spotify.com/album/4Fpi6uelomG6RCL39kTEt9) | 3:10 |
 | 41 | [Buscando un Símbolo de Paz](https://open.spotify.com/track/1pLQZ6MwbYaLqzJT3imTBU) | [Charly García](https://open.spotify.com/artist/3jO7X5KupvwmWTHGtHgcgo) | [Parte De La Religion](https://open.spotify.com/album/4MrFVzdNEgxfZbJyC2RQt9) | 4:42 |
 | 42 | [Rezo Por Vos](https://open.spotify.com/track/46TZ5rawdrjoFwsQLGlcLr) | [Luis Alberto Spinetta](https://open.spotify.com/artist/1MuQ2m2tg7naeRGAOxYZer) | [Prive](https://open.spotify.com/album/11NynTWjF8rIm2Eu4RWiNS) | 3:22 |
 | 43 | [Ella Vendrá \- Remastered](https://open.spotify.com/track/7Gl2RyA6Vn4KdgpacprbUg) | [Don Cornelio Y La Zona](https://open.spotify.com/artist/1wELOF6Lb5TckxS5EiiQZe) | [Don Cornelio y La Zona](https://open.spotify.com/album/0mgoxCZiBu6HPvv9Dk4wNz) | 4:11 |
@@ -66,7 +66,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUSRkJxO1RgW.md) - [plain]
 | 56 | [Lollipop](https://open.spotify.com/track/6sCc07DOnWLnivJXaYvt6A) | [Viuda E Hijas De Roque Enroll](https://open.spotify.com/artist/5X7IiXMVREXSohJkJEwdef) | [Perlas y Diamantes](https://open.spotify.com/album/7kO9imSCx60PuvubbTMDgt) | 2:31 |
 | 57 | [La Llama de Tu Amor](https://open.spotify.com/track/4UzckxebrukyreeLZGw6z9) | [Raul Porchetto](https://open.spotify.com/artist/3WoxTj3fh8I58MpnwZyYyL) | [Noche y Día](https://open.spotify.com/album/0FWccOOClD62jDsDvqj6Gl) | 3:45 |
 | 58 | [Fantasma De Canterville](https://open.spotify.com/track/5o3XTDIlBbl66xPNLj1dol) | [León Gieco](https://open.spotify.com/artist/5yoimVE1rbc3kAx4uwr7eq) | [El Fantasma De Canterville](https://open.spotify.com/album/5ftByhg3rSWly4WhsALmh8) | 3:48 |
-| 59 | [Volver A Los 17 \- Live In Argentina / 1984](https://open.spotify.com/track/2N9y942Xz3zsgEDbIzs1Mz) | [Mercedes Sosa](https://open.spotify.com/artist/2HvyR5FsU37QMqVzIbGwl7), [Milton Nascimento](https://open.spotify.com/artist/3Bnq7jiU506HcPjRgQ43TM), [León Gieco](https://open.spotify.com/artist/5yoimVE1rbc3kAx4uwr7eq) | [Corazón Americano](https://open.spotify.com/album/4Rq7IfvTdpx1jNTkLkEXZS) | 5:45 |
-| 60 | [Sin Gamulán](https://open.spotify.com/track/3UrNJH307Ij2jarZxijcbc) | [Los Abuelos De La Nada](https://open.spotify.com/artist/5R3NywPPOyhLfdvutgg0me) | [1982\-1987 \- Himnos Del Corazón](https://open.spotify.com/album/0DGCwJASSVCD2lJGyu0t9w) | 3:14 |
+| 59 | [Sin Gamulán](https://open.spotify.com/track/3UrNJH307Ij2jarZxijcbc) | [Los Abuelos De La Nada](https://open.spotify.com/artist/5R3NywPPOyhLfdvutgg0me) | [1982\-1987 \- Himnos Del Corazón](https://open.spotify.com/album/0DGCwJASSVCD2lJGyu0t9w) | 3:14 |
+| 60 | [El Ritual De La Banana](https://open.spotify.com/track/1LeGL6sChxxaQbFhKknOcG) | [Los Pericos](https://open.spotify.com/artist/7FnZWGw9lwOr7WzieTKEPR) | [Ritual De Los Pericos](https://open.spotify.com/album/0BLRRSjs02ejUyDDIfYRSb) | 3:39 |
 
-Snapshot ID: `MCw5OWNmZDQwYTZjZWQyZGU1NDBiMmI5ZjdlYzQ2MTJlM2NiYjUyZmRm`
+Snapshot ID: `MCw1NGNiMDM4ZGY4NjNkZTZmMzA5MGI0MDc5ZmY0ZmQzNzY3NzdiYjg0`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Vd1jJ7X9H8.md) - [plain]
 
 > Groovy, dancy, funky stuff\. When in doubt, turn this on at the party.
 
-[Spotify](https://open.spotify.com/user/spotify) - 310,103 likes - 50 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 310,197 likes - 50 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Vd1jJ7X9H8.md) - [plain]
 | 49 | [Dopamine](https://open.spotify.com/track/38MS1Ch2ckFL4O29UVg7Nh) | [Franc Moody](https://open.spotify.com/artist/10GT4yz8c6xjjnPGtGPI1l) | [Dance Moves](https://open.spotify.com/album/0ZMXkL1EvpeOWxFQ2K3UKd) | 4:03 |
 | 50 | [Rocky](https://open.spotify.com/track/3E73eFyGL6v10qlK3jiLyR) | [Still Woozy](https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y) | [If This Isn’t Nice, I Don’t Know What Is](https://open.spotify.com/album/0QnWm07An8WyO3eupjBDoP) | 2:46 |
 
-Snapshot ID: `MCwzOTNmZjI5NTQ1NDY0MWEzMTAzNzJiM2M1MTg0MDc1Y2IzYTFmNjcz`
+Snapshot ID: `MCxjNTFmOTlmZDI3MzJiOGE4NDc0NWZjZWJkZDI0Y2U2NDZjN2Q4NGM3`

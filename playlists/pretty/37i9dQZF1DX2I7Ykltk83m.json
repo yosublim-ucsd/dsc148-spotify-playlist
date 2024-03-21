@@ -1,12 +1,12 @@
 {
   "description": "killer songs from badass artists. Cover: Haley Blais",
-  "num_followers": 361712,
+  "num_followers": 361770,
   "original_name": "badass",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5OWI0ZTc5YWMwYjVhNzIzODMzMTk4YmU5ZDQ3YzJlMDRmYWUwMGE5",
+  "snapshot_id": "MCwyNTExZWRmZGNlN2ZmZGIwMTU3M2U0Mzc0MmQxMWM5MTVkMmMyNTY0",
   "tracks": [
     {
       "added_at": "2023-10-27 04:00:00",
@@ -667,22 +667,6 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "Oh No Darling!",
-        "url": "https://open.spotify.com/album/3RBeWddW8FHxtCdzD0VHns"
-      },
-      "artists": [
-        {
-          "name": "Sarah Kinsley",
-          "url": "https://open.spotify.com/artist/34A8vV1MCxGpA14KspqQuC"
-        }
-      ],
-      "duration_ms": 203876,
-      "name": "Oh No Darling!",
-      "url": "https://open.spotify.com/track/1PZhJNvdDjpsjZWrkfgff4"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
         "name": "Worst Case Kid",
         "url": "https://open.spotify.com/album/4x3VQ9ef3MvMB7hnZEBfcd"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 152133,
       "name": "Worst Case Kid",
       "url": "https://open.spotify.com/track/55LDOljPVryLbJbHQKmSIN"
+    },
+    {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
+        "name": "Oh No Darling!",
+        "url": "https://open.spotify.com/album/3RBeWddW8FHxtCdzD0VHns"
+      },
+      "artists": [
+        {
+          "name": "Sarah Kinsley",
+          "url": "https://open.spotify.com/artist/34A8vV1MCxGpA14KspqQuC"
+        }
+      ],
+      "duration_ms": 203876,
+      "name": "Oh No Darling!",
+      "url": "https://open.spotify.com/track/1PZhJNvdDjpsjZWrkfgff4"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -895,22 +895,6 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "Remind Me Tomorrow",
-        "url": "https://open.spotify.com/album/4bfvR9TMwCm2tzXpboLH3t"
-      },
-      "artists": [
-        {
-          "name": "Sharon Van Etten",
-          "url": "https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe"
-        }
-      ],
-      "duration_ms": 314080,
-      "name": "Jupiter 4",
-      "url": "https://open.spotify.com/track/74n118P9h9Sz2AwDSc3f8N"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
         "name": "Moveys",
         "url": "https://open.spotify.com/album/5C66ZV77hQsUlhSIYJYcar"
       },
@@ -927,18 +911,18 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "I Know I'm Funny haha",
-        "url": "https://open.spotify.com/album/424bxvpYyNDM2DFFibeKs0"
+        "name": "Remind Me Tomorrow",
+        "url": "https://open.spotify.com/album/4bfvR9TMwCm2tzXpboLH3t"
       },
       "artists": [
         {
-          "name": "Faye Webster",
-          "url": "https://open.spotify.com/artist/5szilpXHcwOqnyKLqGco5j"
+          "name": "Sharon Van Etten",
+          "url": "https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe"
         }
       ],
-      "duration_ms": 195626,
-      "name": "Cheers",
-      "url": "https://open.spotify.com/track/3ruYlsPdwqrvb6mEDcfUUP"
+      "duration_ms": 314080,
+      "name": "Jupiter 4",
+      "url": "https://open.spotify.com/track/74n118P9h9Sz2AwDSc3f8N"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -955,6 +939,22 @@
       "duration_ms": 250053,
       "name": "Shotgun",
       "url": "https://open.spotify.com/track/5gG1tBzjqPWXTevct5kaLX"
+    },
+    {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
+        "name": "I Know I'm Funny haha",
+        "url": "https://open.spotify.com/album/424bxvpYyNDM2DFFibeKs0"
+      },
+      "artists": [
+        {
+          "name": "Faye Webster",
+          "url": "https://open.spotify.com/artist/5szilpXHcwOqnyKLqGco5j"
+        }
+      ],
+      "duration_ms": 195626,
+      "name": "Cheers",
+      "url": "https://open.spotify.com/track/3ruYlsPdwqrvb6mEDcfUUP"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -1055,22 +1055,6 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "Rat Saw God",
-        "url": "https://open.spotify.com/album/1oTR3aC0jYmwUlr9duBi05"
-      },
-      "artists": [
-        {
-          "name": "Wednesday",
-          "url": "https://open.spotify.com/artist/4j7DrazfBZLLD0OrVoAtEe"
-        }
-      ],
-      "duration_ms": 247520,
-      "name": "Quarry",
-      "url": "https://open.spotify.com/track/2rQw8ZLhgYDGMS8ijHk6Tr"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
         "name": "I Don\u2019t Know You Like I Used To",
         "url": "https://open.spotify.com/album/4KJOsmC2iMZGvNE83iQPaf"
       },
@@ -1083,6 +1067,22 @@
       "duration_ms": 259306,
       "name": "I Don\u2019t Know You Like I Used To",
       "url": "https://open.spotify.com/track/2Pc89ZBdas5FqLAB3JOILo"
+    },
+    {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
+        "name": "Rat Saw God",
+        "url": "https://open.spotify.com/album/1oTR3aC0jYmwUlr9duBi05"
+      },
+      "artists": [
+        {
+          "name": "Wednesday",
+          "url": "https://open.spotify.com/artist/4j7DrazfBZLLD0OrVoAtEe"
+        }
+      ],
+      "duration_ms": 247520,
+      "name": "Quarry",
+      "url": "https://open.spotify.com/track/2rQw8ZLhgYDGMS8ijHk6Tr"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -1443,6 +1443,22 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
+        "name": "Immune",
+        "url": "https://open.spotify.com/album/1UQp3aKtwOaczyLpvf5NYn"
+      },
+      "artists": [
+        {
+          "name": "Jensen McRae",
+          "url": "https://open.spotify.com/artist/11dABkjSoOjcP9p3TFSNRj"
+        }
+      ],
+      "duration_ms": 210165,
+      "name": "Immune",
+      "url": "https://open.spotify.com/track/3b9xmyHRcolDEoaECLJ3OF"
+    },
+    {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
         "name": "Blades",
         "url": "https://open.spotify.com/album/2tYM85N8cMlXGIqrR1nkep"
       },
@@ -1475,22 +1491,6 @@
       "duration_ms": 210353,
       "name": "Kyoto - Spotify Singles",
       "url": "https://open.spotify.com/track/1w2gRlZvcIkuJHYr9Y0cE4"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
-        "name": "Immune",
-        "url": "https://open.spotify.com/album/1UQp3aKtwOaczyLpvf5NYn"
-      },
-      "artists": [
-        {
-          "name": "Jensen McRae",
-          "url": "https://open.spotify.com/artist/11dABkjSoOjcP9p3TFSNRj"
-        }
-      ],
-      "duration_ms": 210165,
-      "name": "Immune",
-      "url": "https://open.spotify.com/track/3b9xmyHRcolDEoaECLJ3OF"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -1675,22 +1675,6 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "one hand on the steering wheel the other sewing a garden",
-        "url": "https://open.spotify.com/album/0ulrUoMnkAdxqX80c0dkfF"
-      },
-      "artists": [
-        {
-          "name": "Ada Lea",
-          "url": "https://open.spotify.com/artist/3sE8O47mEFWR6pL0rwnAHy"
-        }
-      ],
-      "duration_ms": 261173,
-      "name": "damn",
-      "url": "https://open.spotify.com/track/5mgWktGBliaIdAaBtZ8ff3"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
         "name": "Vest & Boxers",
         "url": "https://open.spotify.com/album/4akyZViUpVRBnxTpfhJCZC"
       },
@@ -1703,6 +1687,22 @@
       "duration_ms": 177064,
       "name": "Vest & Boxers",
       "url": "https://open.spotify.com/track/3uKhV3k4ywsQr5PRE5GEoa"
+    },
+    {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
+        "name": "one hand on the steering wheel the other sewing a garden",
+        "url": "https://open.spotify.com/album/0ulrUoMnkAdxqX80c0dkfF"
+      },
+      "artists": [
+        {
+          "name": "Ada Lea",
+          "url": "https://open.spotify.com/artist/3sE8O47mEFWR6pL0rwnAHy"
+        }
+      ],
+      "duration_ms": 261173,
+      "name": "damn",
+      "url": "https://open.spotify.com/track/5mgWktGBliaIdAaBtZ8ff3"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -1771,22 +1771,6 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "Making It Through",
-        "url": "https://open.spotify.com/album/0pBCogvXt3tfyHxjDyvcP8"
-      },
-      "artists": [
-        {
-          "name": "Angie McMahon",
-          "url": "https://open.spotify.com/artist/574ERIqzZ5yZU9JhIf3Ysf"
-        }
-      ],
-      "duration_ms": 282366,
-      "name": "Making It Through",
-      "url": "https://open.spotify.com/track/5gH0m1KstxQ1isPiw7CiYV"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
         "name": "Hospital (One Man Down)",
         "url": "https://open.spotify.com/album/25iq2f67q6Je815D44cXPu"
       },
@@ -1803,6 +1787,22 @@
       "duration_ms": 207016,
       "name": "Hospital (One Man Down) (feat. Remi Wolf)",
       "url": "https://open.spotify.com/track/3viGqgmswIMRcmGat5WYYq"
+    },
+    {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
+        "name": "Making It Through",
+        "url": "https://open.spotify.com/album/0pBCogvXt3tfyHxjDyvcP8"
+      },
+      "artists": [
+        {
+          "name": "Angie McMahon",
+          "url": "https://open.spotify.com/artist/574ERIqzZ5yZU9JhIf3Ysf"
+        }
+      ],
+      "duration_ms": 282366,
+      "name": "Making It Through",
+      "url": "https://open.spotify.com/track/5gH0m1KstxQ1isPiw7CiYV"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -1871,22 +1871,6 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "Rabbit Hole",
-        "url": "https://open.spotify.com/album/7dx74V0ACulX7f5cjbsdSx"
-      },
-      "artists": [
-        {
-          "name": "Cherry Glazerr",
-          "url": "https://open.spotify.com/artist/3pIGm1omCcHIb1juBNHspg"
-        }
-      ],
-      "duration_ms": 179146,
-      "name": "Rabbit Hole",
-      "url": "https://open.spotify.com/track/0BFGclich9JXVCAS79P793"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
         "name": "When You Walk A Long Distance You Are Tired",
         "url": "https://open.spotify.com/album/6T0QEKUvqfDxyVJIUZTkYe"
       },
@@ -1899,6 +1883,22 @@
       "duration_ms": 333514,
       "name": "It Hurts Until It Doesn't",
       "url": "https://open.spotify.com/track/6h3FOkiOixsUUEgIHS0qR5"
+    },
+    {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
+        "name": "Rabbit Hole",
+        "url": "https://open.spotify.com/album/7dx74V0ACulX7f5cjbsdSx"
+      },
+      "artists": [
+        {
+          "name": "Cherry Glazerr",
+          "url": "https://open.spotify.com/artist/3pIGm1omCcHIb1juBNHspg"
+        }
+      ],
+      "duration_ms": 179146,
+      "name": "Rabbit Hole",
+      "url": "https://open.spotify.com/track/0BFGclich9JXVCAS79P793"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -2055,18 +2055,18 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "90s American Superstar",
-        "url": "https://open.spotify.com/album/30mvWmyfRun8JbF9pTMPdc"
+        "name": "Day of the Dead",
+        "url": "https://open.spotify.com/album/5eVGVLpLcMEjuP1BNdlKWz"
       },
       "artists": [
         {
-          "name": "Wallice",
-          "url": "https://open.spotify.com/artist/6d6ts87Fxm1EdULf4CaLw4"
+          "name": "Courtney Barnett",
+          "url": "https://open.spotify.com/artist/4OOlG5eBXSkSAAEeKjJb5Y"
         }
       ],
-      "duration_ms": 139400,
-      "name": "90s American Superstar",
-      "url": "https://open.spotify.com/track/7sAgUakvHMLtLlTSZqU7i5"
+      "duration_ms": 320717,
+      "name": "New Speedway Boogie",
+      "url": "https://open.spotify.com/track/7rlH5IVzRc5eCMiURVoUrI"
     }
   ],
   "unique_name": "badass",

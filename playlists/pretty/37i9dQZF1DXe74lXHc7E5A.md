@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe74lXHc7E5A.md) - [plain]
 
 > Hip Hop and Rap songs guaranteed to get you hyped\. Cover: Luciano and Omah Lay
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,386 likes - 60 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,402 likes - 60 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe74lXHc7E5A.md) - [plain]
 | 59 | [DOG EAT DOG II \(feat\. Cruel Santino and Bella Shmurda\)](https://open.spotify.com/track/3EfMWIEGQB24dQv5x4Hwvx) | [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy), [Cruel Santino](https://open.spotify.com/artist/15GgEOJiFyjQm4tZ4D7qih), [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM) | [EZIOKWU](https://open.spotify.com/album/6e1McsPwHgiySHVlpZRhFx) | 4:00 |
 | 60 | [FAN](https://open.spotify.com/track/166lmjn9xjWj1AEdGX8PYh) | [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW) | [FAN](https://open.spotify.com/album/7w3qFaLU3R17ujmMHFo5IK) | 2:36 |
 
-Snapshot ID: `MCw2ZWJkODg5ODZiYmM1OWM2YjQ5ZmYwZmI5YjA3ZjI1NjMyZjhkZjU4`
+Snapshot ID: `MCw1Yjc0ZGU4M2IyNjZkNDQzMGEzYTJlNjEwOWMwZGI4YjNiZDBmOGMy`

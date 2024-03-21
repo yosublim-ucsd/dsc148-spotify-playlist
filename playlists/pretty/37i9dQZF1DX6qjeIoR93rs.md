@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6qjeIoR93rs.md) - [plain]
 
 > The sweet sounds of Palestine.
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,929 likes - 70 songs - 4 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,980 likes - 70 songs - 4 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,9 +48,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6qjeIoR93rs.md) - [plain]
 | 38 | [Supply Me with an Excess of Love](https://open.spotify.com/track/1tM8DL9vdl7T8jbdmm83to) | [Rim Banna](https://open.spotify.com/artist/3SODNDWMaRom0EVBbS1bqO) | [Revelation of Ecstasy and Rebellion](https://open.spotify.com/album/6PmcwICwmNOcQ8o2ZM8qUr) | 4:34 |
 | 39 | [Nijmet El\-Subeh](https://open.spotify.com/track/5ngzNl6skIrN3XZHrF5TXr) | [Sanaa Moussa](https://open.spotify.com/artist/15wMBXP3Z6VWcfFmqc2yUG) | [Ishraq Reminiscence](https://open.spotify.com/album/6rzYqrYs4bcbxgKAE9ILhs) | 4:45 |
 | 40 | [Ansaki](https://open.spotify.com/track/7D7cevBYalgRNWtxzPZWyA) | [Apo & the Apostles](https://open.spotify.com/artist/206CRJTxnXzOKrkZmZm9aw) | [Rawquha](https://open.spotify.com/album/2M5Qyikkntj3ly2V6RLyRJ) | 4:27 |
-| 41 | [عكا على راسي](https://open.spotify.com/track/6Qe3wZo9bG3ZaWV8v3wLx3) | [Walla'at](https://open.spotify.com/artist/1s4nBceqZ8lEO9BaL5YZGe) | [عندي شو ما بدي](https://open.spotify.com/album/6xIip2U0zEVh5xjYxujo2Z) | 3:46 |
-| 42 | [Everyland](https://open.spotify.com/track/6kdczMJQLiW7DD6sQ66QpC) | [47SOUL](https://open.spotify.com/artist/5nxFmhSekt9Acn4tWZxGge) | [Shamstep](https://open.spotify.com/album/1pttNsXr5b1D3K6qUd9mXM) | 5:11 |
-| 43 | [Mariam](https://open.spotify.com/track/56RrRBnwtJKPRl86MZV6sd) | [ELCONTAINER](https://open.spotify.com/artist/309KxHARNs5Wz1K3EoAa6Z) | [Mariam](https://open.spotify.com/album/0KrTSAUZrGW7vbqctUKVZI) | 3:55 |
+| 41 | [Everyland](https://open.spotify.com/track/6kdczMJQLiW7DD6sQ66QpC) | [47SOUL](https://open.spotify.com/artist/5nxFmhSekt9Acn4tWZxGge) | [Shamstep](https://open.spotify.com/album/1pttNsXr5b1D3K6qUd9mXM) | 5:11 |
+| 42 | [Mariam](https://open.spotify.com/track/56RrRBnwtJKPRl86MZV6sd) | [ELCONTAINER](https://open.spotify.com/artist/309KxHARNs5Wz1K3EoAa6Z) | [Mariam](https://open.spotify.com/album/0KrTSAUZrGW7vbqctUKVZI) | 3:55 |
+| 43 | [عكا على راسي](https://open.spotify.com/track/6Qe3wZo9bG3ZaWV8v3wLx3) | [Walla'at](https://open.spotify.com/artist/1s4nBceqZ8lEO9BaL5YZGe) | [عندي شو ما بدي](https://open.spotify.com/album/6xIip2U0zEVh5xjYxujo2Z) | 3:46 |
 | 44 | [Mali Huriye \(I Don't Have Freedom\)](https://open.spotify.com/track/6Z3ttOetQvCgKMfrH13w9D) | [DAM](https://open.spotify.com/artist/1ATrNccUrhiYSQ3B08VQrz) | [Dedication](https://open.spotify.com/album/0Z8CBkZ8nZI2mPeuClzghO) | 3:37 |
 | 45 | [Nasheed al Alam al Falastini نشيد العلم الفلسطيني](https://open.spotify.com/track/2NJpqrTkLIPiERkyYeXLkc) | [JABiD](https://open.spotify.com/artist/2KQIn7Asb3rXpWoYFlbqM9) | [JABiD atini ala tawahini جبد أعطيني على طواحيني](https://open.spotify.com/album/6vMVS8IbBTG7lVTKAc7COD) | 3:43 |
 | 46 | [بعده فيي روح](https://open.spotify.com/track/72CB0MAagJAXpqS6bRVUxu) | [Tamer Nafar](https://open.spotify.com/artist/4A5OCxQdnfyO73y9Kgoc30) | [بعده فيي روح](https://open.spotify.com/album/6vTqJnEkKVQCKDfegzJHFx) | 3:08 |
@@ -66,8 +66,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6qjeIoR93rs.md) - [plain]
 | 56 | [Ya Samti](https://open.spotify.com/track/02sG3ndWTK9PHBxPlaZwAH) | [Zuhair Francis](https://open.spotify.com/artist/0njHK2K2VDRrfM0L3bklXp) | [Ya Samti](https://open.spotify.com/album/6Bcyb3titJoo0xFB3zea2f) | 3:52 |
 | 57 | [G'areeb Fi Bladi \(Stranger In My Own Country\)](https://open.spotify.com/track/0BqIeIEdNQuYqj2js8BA27) | [DAM](https://open.spotify.com/artist/1ATrNccUrhiYSQ3B08VQrz) | [Dedication](https://open.spotify.com/album/0Z8CBkZ8nZI2mPeuClzghO) | 3:45 |
 | 58 | [Laween](https://open.spotify.com/track/7uMEZ3LZnkxH65k3VLbmqR) | [Sama Shoufani](https://open.spotify.com/artist/4DYG4ZxARarxXYmym4NuEr) | [Laween](https://open.spotify.com/album/3BGj2P0sL4c3IZH18qOMUs) | 3:28 |
-| 59 | [Mayel ya Ghuzayel](https://open.spotify.com/track/5yV5kOWEoYWwmhcET8BCc9) | [Ensemble Musical De Palestine](https://open.spotify.com/artist/4s2acSp68ZnCVdC0lkQ9sz) | [Gaza \- Tradition musicale palestinienne](https://open.spotify.com/album/6MXT3YX1QwNWXxmKfKNHzt) | 4:49 |
-| 60 | [القضية فلسطينية](https://open.spotify.com/track/7KaT8J7igAsn5Xof9ccu7q) | [Amr Mostafa](https://open.spotify.com/artist/6YZXwVnjrIIz9SlBd8l2Cg) | [القضية فلسطينية](https://open.spotify.com/album/5ZFL6eq3fsGCa5268jMNYa) | 2:49 |
+| 59 | [القضية فلسطينية](https://open.spotify.com/track/7KaT8J7igAsn5Xof9ccu7q) | [Amr Mostafa](https://open.spotify.com/artist/6YZXwVnjrIIz9SlBd8l2Cg) | [القضية فلسطينية](https://open.spotify.com/album/5ZFL6eq3fsGCa5268jMNYa) | 2:49 |
+| 60 | [Mayel ya Ghuzayel](https://open.spotify.com/track/5yV5kOWEoYWwmhcET8BCc9) | [Ensemble Musical De Palestine](https://open.spotify.com/artist/4s2acSp68ZnCVdC0lkQ9sz) | [Gaza \- Tradition musicale palestinienne](https://open.spotify.com/album/6MXT3YX1QwNWXxmKfKNHzt) | 4:49 |
 | 61 | [The Night Has Fallen Down](https://open.spotify.com/track/4K4QRaxWC7MBuzRzRgNj3U) | [Rim Banna](https://open.spotify.com/artist/3SODNDWMaRom0EVBbS1bqO) | [Seasons of Violet \- Lovesongs from Palestine](https://open.spotify.com/album/2EU211lSUnCFszTWpUvU2Y) | 5:06 |
 | 62 | [Nada](https://open.spotify.com/track/5j3nMZTymRJR0XcqCjDZu6) | [Clarissa Bitar](https://open.spotify.com/artist/3EHSTkb1qOtOUqFSuvZDHH) | [Nada](https://open.spotify.com/album/4MawudiDs0KZZtr9xeUGN5) | 2:16 |
 | 63 | [Tareeq](https://open.spotify.com/track/0JTnnttCaS5UbGNTgpARrd) | [Al\-Bara'em](https://open.spotify.com/artist/48XfzIDlJVx0MrJtjaUskw) | [Tareeq](https://open.spotify.com/album/1AuKyJjzvg2HAVBY1XgZg7) | 4:43 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6qjeIoR93rs.md) - [plain]
 | 69 | [Mo Light](https://open.spotify.com/track/4ELE971aOY79OV4263w8h3) | [47SOUL](https://open.spotify.com/artist/5nxFmhSekt9Acn4tWZxGge) | [Mo Light](https://open.spotify.com/album/25uNBZF9zpP2QxDpZNrn1E) | 4:45 |
 | 70 | [Al Rozana](https://open.spotify.com/track/1fRjUEHNqMTt2zhgbvQGno) | [Amal Murkus](https://open.spotify.com/artist/35Or8bOOKNt9UJKHcySKdP) | [Na'na' Ya Na'na'](https://open.spotify.com/album/4QMcZUOEFAaFKH1XSjDkQI) | 4:15 |
 
-Snapshot ID: `MCw4NTY0ZmE0NmEwMjIyM2RhNWY0MGU3MzQ0YTNlNjQ4MDU4Njk1MWQz`
+Snapshot ID: `MCw4ZTE4YmYwMjA2OTlmMDAzZTM2NWU3NDVlODdhYzQ5MTVhODZiMjZi`

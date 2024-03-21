@@ -1,5 +1,5 @@
 {
-  "2024-03-20": 113589,
+  "2024-03-21": 113663,
   "date_first_scraped": "2024-01-26",
   "description": "Floor fillers and big streamers of 2014.",
   "name": "Dance Hits of 2014",
@@ -1461,12 +1461,16 @@
       },
       "artists": [
         {
-          "name": "Dimitri Vegas & Like Mike",
-          "url": "https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk"
+          "name": "Dimitri Vegas",
+          "url": "https://open.spotify.com/artist/2HkAI0YrEcgoR8QdaURqhO"
         },
         {
           "name": "Martin Garrix",
           "url": "https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ"
+        },
+        {
+          "name": "Dimitri Vegas & Like Mike",
+          "url": "https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk"
         }
       ],
       "date_added": "2021-04-30",

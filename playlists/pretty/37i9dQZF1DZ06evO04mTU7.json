@@ -1,15 +1,15 @@
 {
   "description": "This is Ajuliacosta. The essential tracks, all in one playlist.",
-  "num_followers": 2085,
+  "num_followers": 2098,
   "original_name": "This Is Ajuliacosta",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Mjg1MTQxOTUsMDAwMDAwMDA4NzU5ZTA5OTVlMDRlZjViYTgzNjVlYTIxZTg1ZDZhNg==",
+  "snapshot_id": "Mjg1MTU2NjAsMDAwMDAwMDA2YTJhNjQwMTE1ZmQzMDk3MzkzNWE2NWMxOWJmYzQxZA==",
   "tracks": [
     {
-      "added_at": "2024-03-19 12:35:31",
+      "added_at": "2024-03-20 13:00:59",
       "album": {
         "name": "Set Ajc 2",
         "url": "https://open.spotify.com/album/2VRQVQ9NcCHudz62D5a2Lm"
@@ -41,7 +41,7 @@
       "url": "https://open.spotify.com/track/2QidZpzobGL0Mhmq25oKdK"
     },
     {
-      "added_at": "2024-03-19 12:35:31",
+      "added_at": "2024-03-20 13:00:59",
       "album": {
         "name": "3AM (PXT4 RASA) [Remix]",
         "url": "https://open.spotify.com/album/1acHuLX2pd5QNZ46ZvHD8r"
@@ -65,7 +65,7 @@
       "url": "https://open.spotify.com/track/0niFRLaq6SNmy6PThNORj0"
     },
     {
-      "added_at": "2024-03-19 12:35:31",
+      "added_at": "2024-03-20 13:00:59",
       "album": {
         "name": "AJU",
         "url": "https://open.spotify.com/album/4iMCSlpCg1jYXJU509vWNO"
@@ -85,7 +85,7 @@
       "url": "https://open.spotify.com/track/1M6VDhgs95sHQSnsSOocIj"
     },
     {
-      "added_at": "2024-03-19 12:35:31",
+      "added_at": "2024-03-20 13:00:59",
       "album": {
         "name": "Brutas Amam, Choram e Sentem Raiva",
         "url": "https://open.spotify.com/album/0LVN0GsRFWkrhfhMVbJuBj"
@@ -105,87 +105,7 @@
       "url": "https://open.spotify.com/track/1qDfZrxU4JFbJpb6u4ojCQ"
     },
     {
-      "added_at": "2024-03-19 12:35:31",
-      "album": {
-        "name": "Set Ajc",
-        "url": "https://open.spotify.com/album/3DymWr7vqMdUQbX7ko9OFh"
-      },
-      "artists": [
-        {
-          "name": "Ajuliacosta",
-          "url": "https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd"
-        },
-        {
-          "name": "Mac J\u00falia",
-          "url": "https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF"
-        },
-        {
-          "name": "N.I.N.A",
-          "url": "https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET"
-        },
-        {
-          "name": "Alt Niss",
-          "url": "https://open.spotify.com/artist/4UKDR0VnScWEJFCmtdEjC6"
-        },
-        {
-          "name": "NandaTsunami",
-          "url": "https://open.spotify.com/artist/0bTjZS6jUVce4Sa7aMIFYk"
-        },
-        {
-          "name": "Mc Luanna",
-          "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
-        }
-      ],
-      "duration_ms": 343399,
-      "name": "Set Ajc",
-      "url": "https://open.spotify.com/track/4Rm0KWTctjT6Fw0yny87Gq"
-    },
-    {
-      "added_at": "2024-03-19 12:35:31",
-      "album": {
-        "name": "BANDIDA",
-        "url": "https://open.spotify.com/album/3m1DbiSNjFobDOf9bX67mj"
-      },
-      "artists": [
-        {
-          "name": "Mac J\u00falia",
-          "url": "https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF"
-        },
-        {
-          "name": "Ajuliacosta",
-          "url": "https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd"
-        },
-        {
-          "name": "Mc Luanna",
-          "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
-        }
-      ],
-      "duration_ms": 179824,
-      "name": "Bandida",
-      "url": "https://open.spotify.com/track/7rPGg4N5agKA8f110cr12F"
-    },
-    {
-      "added_at": "2024-03-19 12:35:31",
-      "album": {
-        "name": "AJU",
-        "url": "https://open.spotify.com/album/4iMCSlpCg1jYXJU509vWNO"
-      },
-      "artists": [
-        {
-          "name": "Ajuliacosta",
-          "url": "https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd"
-        },
-        {
-          "name": "MAT",
-          "url": "https://open.spotify.com/artist/4iNwfMO291ysasPOC6Fj5U"
-        }
-      ],
-      "duration_ms": 154666,
-      "name": "N\u00e3o Foi do Nada",
-      "url": "https://open.spotify.com/track/3DvGRXIcFU2LyqcLMqXp8v"
-    },
-    {
-      "added_at": "2024-03-19 12:35:31",
+      "added_at": "2024-03-20 13:00:59",
       "album": {
         "name": "Poetisas no Topo 3",
         "url": "https://open.spotify.com/album/59B1Leein60p2cEODo6OHl"
@@ -233,7 +153,87 @@
       "url": "https://open.spotify.com/track/3tW24NTLSEjFSeIFW1EZQE"
     },
     {
-      "added_at": "2024-03-19 12:35:31",
+      "added_at": "2024-03-20 13:00:59",
+      "album": {
+        "name": "Set Ajc",
+        "url": "https://open.spotify.com/album/3DymWr7vqMdUQbX7ko9OFh"
+      },
+      "artists": [
+        {
+          "name": "Ajuliacosta",
+          "url": "https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd"
+        },
+        {
+          "name": "Mac J\u00falia",
+          "url": "https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF"
+        },
+        {
+          "name": "N.I.N.A",
+          "url": "https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET"
+        },
+        {
+          "name": "Alt Niss",
+          "url": "https://open.spotify.com/artist/4UKDR0VnScWEJFCmtdEjC6"
+        },
+        {
+          "name": "NandaTsunami",
+          "url": "https://open.spotify.com/artist/0bTjZS6jUVce4Sa7aMIFYk"
+        },
+        {
+          "name": "Mc Luanna",
+          "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
+        }
+      ],
+      "duration_ms": 343399,
+      "name": "Set Ajc",
+      "url": "https://open.spotify.com/track/4Rm0KWTctjT6Fw0yny87Gq"
+    },
+    {
+      "added_at": "2024-03-20 13:00:59",
+      "album": {
+        "name": "AJU",
+        "url": "https://open.spotify.com/album/4iMCSlpCg1jYXJU509vWNO"
+      },
+      "artists": [
+        {
+          "name": "Ajuliacosta",
+          "url": "https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd"
+        },
+        {
+          "name": "MAT",
+          "url": "https://open.spotify.com/artist/4iNwfMO291ysasPOC6Fj5U"
+        }
+      ],
+      "duration_ms": 154666,
+      "name": "N\u00e3o Foi do Nada",
+      "url": "https://open.spotify.com/track/3DvGRXIcFU2LyqcLMqXp8v"
+    },
+    {
+      "added_at": "2024-03-20 13:00:59",
+      "album": {
+        "name": "BANDIDA",
+        "url": "https://open.spotify.com/album/3m1DbiSNjFobDOf9bX67mj"
+      },
+      "artists": [
+        {
+          "name": "Mac J\u00falia",
+          "url": "https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF"
+        },
+        {
+          "name": "Ajuliacosta",
+          "url": "https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd"
+        },
+        {
+          "name": "Mc Luanna",
+          "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
+        }
+      ],
+      "duration_ms": 179824,
+      "name": "Bandida",
+      "url": "https://open.spotify.com/track/7rPGg4N5agKA8f110cr12F"
+    },
+    {
+      "added_at": "2024-03-20 13:00:59",
       "album": {
         "name": "Brutas Amam, Choram e Sentem Raiva",
         "url": "https://open.spotify.com/album/0LVN0GsRFWkrhfhMVbJuBj"
@@ -253,7 +253,7 @@
       "url": "https://open.spotify.com/track/3YBgzN29kUboQgKwNJEC6V"
     },
     {
-      "added_at": "2024-03-19 12:35:31",
+      "added_at": "2024-03-20 13:00:59",
       "album": {
         "name": "O Tipo de Garota",
         "url": "https://open.spotify.com/album/7mnSOMErfK00QXnUnxxo6y"
@@ -269,7 +269,7 @@
       "url": "https://open.spotify.com/track/2HdViad1em77egtiCxsNiW"
     },
     {
-      "added_at": "2024-03-19 12:35:31",
+      "added_at": "2024-03-20 13:00:59",
       "album": {
         "name": "AJU",
         "url": "https://open.spotify.com/album/4iMCSlpCg1jYXJU509vWNO"
@@ -289,7 +289,7 @@
       "url": "https://open.spotify.com/track/6qybczOKmJLTfomZrtD5fF"
     },
     {
-      "added_at": "2024-03-19 12:35:31",
+      "added_at": "2024-03-20 13:00:59",
       "album": {
         "name": "Outra Mulher",
         "url": "https://open.spotify.com/album/1Y33tqTNKUz2HOiVgwr6gB"
@@ -305,7 +305,7 @@
       "url": "https://open.spotify.com/track/2KFpGefUE516szUT6Pyplp"
     },
     {
-      "added_at": "2024-03-19 12:35:31",
+      "added_at": "2024-03-20 13:00:59",
       "album": {
         "name": "Brutas Amam, Choram e Sentem Raiva",
         "url": "https://open.spotify.com/album/0LVN0GsRFWkrhfhMVbJuBj"
@@ -325,7 +325,7 @@
       "url": "https://open.spotify.com/track/77rtEhucHdylGhhxAEgAay"
     },
     {
-      "added_at": "2024-03-19 12:35:31",
+      "added_at": "2024-03-20 13:00:59",
       "album": {
         "name": "Mina Chavosa",
         "url": "https://open.spotify.com/album/35LfnqgsWFtiDY2AeWmepB"
@@ -345,7 +345,7 @@
       "url": "https://open.spotify.com/track/1Ni9NL8sr0eBA6MAjAdI7o"
     },
     {
-      "added_at": "2024-03-19 12:35:31",
+      "added_at": "2024-03-20 13:00:59",
       "album": {
         "name": "AJU",
         "url": "https://open.spotify.com/album/4iMCSlpCg1jYXJU509vWNO"
@@ -369,7 +369,7 @@
       "url": "https://open.spotify.com/track/7qZClco5dd6Hzxg2ISaEdk"
     },
     {
-      "added_at": "2024-03-19 12:35:31",
+      "added_at": "2024-03-20 13:00:59",
       "album": {
         "name": "Unic\u00f3rnio",
         "url": "https://open.spotify.com/album/1YplHKYcFpViJ5C07UpZVS"
@@ -389,7 +389,7 @@
       "url": "https://open.spotify.com/track/5g2L6Ev4rNUf5Ti4MlpOsT"
     },
     {
-      "added_at": "2024-03-19 12:35:31",
+      "added_at": "2024-03-20 13:00:59",
       "album": {
         "name": "Brutas Amam, Choram e Sentem Raiva",
         "url": "https://open.spotify.com/album/0LVN0GsRFWkrhfhMVbJuBj"
@@ -409,7 +409,7 @@
       "url": "https://open.spotify.com/track/0bgy7v2lKWmvaegE7JKF7m"
     },
     {
-      "added_at": "2024-03-19 12:35:31",
+      "added_at": "2024-03-20 13:00:59",
       "album": {
         "name": "Pantera",
         "url": "https://open.spotify.com/album/3NSdLNoPmrSGXbHTiFdXiX"
@@ -441,7 +441,7 @@
       "url": "https://open.spotify.com/track/4MmhgIjjLSo3BdLL9ZIucd"
     },
     {
-      "added_at": "2024-03-19 12:35:31",
+      "added_at": "2024-03-20 13:00:59",
       "album": {
         "name": "OK",
         "url": "https://open.spotify.com/album/5QdLVDK0alzPG0aTYecf1P"
@@ -457,7 +457,7 @@
       "url": "https://open.spotify.com/track/0MYKlvcHf5a6NHJDHfmyJO"
     },
     {
-      "added_at": "2024-03-19 12:35:31",
+      "added_at": "2024-03-20 13:00:59",
       "album": {
         "name": "AJU",
         "url": "https://open.spotify.com/album/4iMCSlpCg1jYXJU509vWNO"
@@ -473,7 +473,7 @@
       "url": "https://open.spotify.com/track/3rOXjEay5jV6cFDkQvuGqE"
     },
     {
-      "added_at": "2024-03-19 12:35:31",
+      "added_at": "2024-03-20 13:00:59",
       "album": {
         "name": "Brutas Amam, Choram e Sentem Raiva",
         "url": "https://open.spotify.com/album/0LVN0GsRFWkrhfhMVbJuBj"
@@ -505,7 +505,7 @@
       "url": "https://open.spotify.com/track/63mfLY9lu2Wm8WJ0suuwKK"
     },
     {
-      "added_at": "2024-03-19 12:35:31",
+      "added_at": "2024-03-20 13:00:59",
       "album": {
         "name": "VER\u00c3O",
         "url": "https://open.spotify.com/album/2Btur3SphqfJpOalZeeOFs"
@@ -525,7 +525,7 @@
       "url": "https://open.spotify.com/track/4OR8cm9oFCI4z4yjfgvng0"
     },
     {
-      "added_at": "2024-03-19 12:35:31",
+      "added_at": "2024-03-20 13:00:59",
       "album": {
         "name": "AJU",
         "url": "https://open.spotify.com/album/4iMCSlpCg1jYXJU509vWNO"
@@ -545,7 +545,7 @@
       "url": "https://open.spotify.com/track/3AnlYFI3TFrz7p0Q6zo376"
     },
     {
-      "added_at": "2024-03-19 12:35:31",
+      "added_at": "2024-03-20 13:00:59",
       "album": {
         "name": "Brutas Amam, Choram e Sentem Raiva",
         "url": "https://open.spotify.com/album/0LVN0GsRFWkrhfhMVbJuBj"

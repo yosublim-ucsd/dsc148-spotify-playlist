@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTMD8irDo4sC.md) - [plain]
 
 > Chill to these acoustic songs from the Middle East and North Africa\. Cover: Labess.
 
-[Spotify](https://open.spotify.com/user/spotify) - 65,290 likes - 70 songs - 4 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 65,328 likes - 70 songs - 4 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,8 +18,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTMD8irDo4sC.md) - [plain]
 | 8 | [A Vava Inouva](https://open.spotify.com/track/06eEMrvlkBmLLaezDSDcEl) | [Idir](https://open.spotify.com/artist/73LjFn4z6WTV7MevyPxrRc) | [A Vava Inouva](https://open.spotify.com/album/6DrAbBZLRSPeRjVgxlB1q1) | 4:26 |
 | 9 | [Warda Ala Warda](https://open.spotify.com/track/5wvvAkLPVVwk1IZZEkjdeD) | [Fayçal Azizi](https://open.spotify.com/artist/1eoHwLV1bakKB2Jm2cLwhQ), [Sakina Lafdaili](https://open.spotify.com/artist/4Vw07BA7nA6viX20DkLmpl) | [K'lma](https://open.spotify.com/album/2XY4xSVrYpRDTuUbPkVo81) | 5:10 |
 | 10 | [El Kess Yaddour](https://open.spotify.com/track/7pgUEhd5vgSZLDMBVapiTm) | [Labess](https://open.spotify.com/artist/5ifXprV3Ehe3xSTObbk16Y) | [Identité](https://open.spotify.com/album/0BhgbOGDmeayGBVonX5hVR) | 3:36 |
-| 11 | [Tghayarti](https://open.spotify.com/track/2UCflIlO6RFX1cIfuu2pmR) | [El Far3i](https://open.spotify.com/artist/5DOOqoefvhVdksKzrvA30t) | [El Rajol El Khashabi](https://open.spotify.com/album/4XL6KSM5Dqu83lzuPprMGm) | 4:09 |
-| 12 | [Ahwak Hiba](https://open.spotify.com/track/4dMQ70p4sCovJ4qrpyOvmN) | [هيبة](https://open.spotify.com/artist/4ntBp9iTyEwM06tIVPn3NB), [Zeid Hamdan](https://open.spotify.com/artist/70z9FptZNtsoQ8OeB3p9ks) | [صح النوم](https://open.spotify.com/album/5GLEKnaRshEuOfenkwAC0j) | 3:19 |
+| 11 | [Ahwak Hiba](https://open.spotify.com/track/4dMQ70p4sCovJ4qrpyOvmN) | [هيبة](https://open.spotify.com/artist/4ntBp9iTyEwM06tIVPn3NB), [Zeid Hamdan](https://open.spotify.com/artist/70z9FptZNtsoQ8OeB3p9ks) | [صح النوم](https://open.spotify.com/album/5GLEKnaRshEuOfenkwAC0j) | 3:19 |
+| 12 | [Tghayarti](https://open.spotify.com/track/2UCflIlO6RFX1cIfuu2pmR) | [El Far3i](https://open.spotify.com/artist/5DOOqoefvhVdksKzrvA30t) | [El Rajol El Khashabi](https://open.spotify.com/album/4XL6KSM5Dqu83lzuPprMGm) | 4:09 |
 | 13 | [Ya Bay](https://open.spotify.com/track/0UCLNOF0ZSi7tnENQE60yJ) | [Aziz Maraka](https://open.spotify.com/artist/2qi698G7BphxwdPUbQgZMU) | [Ya Bay](https://open.spotify.com/album/6GVvydaazmv0WjUfmyLAHw) | 4:07 |
 | 14 | [Kahlete Laayoune](https://open.spotify.com/track/0Vk0PhvVKhXbMj75eaLbu3) | [Babylone](https://open.spotify.com/artist/4sP2g2ixZhad5ZlxPirn8i) | [Brya](https://open.spotify.com/album/7wl8WPzTXuaewp6SeYGFXe) | 4:20 |
 | 15 | [Smek](https://open.spotify.com/track/1w6PwIPjMOA2FZ2Dq9HGIV) | [Ÿuma](https://open.spotify.com/artist/1PRH2VLBHk1kMY2BFI0GQW) | [Chura](https://open.spotify.com/album/1Gs4HM1Ra5HzuGyUJkxtmQ) | 2:40 |
@@ -52,8 +52,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTMD8irDo4sC.md) - [plain]
 | 42 | [La corrida \(with Francis Cabrel\)](https://open.spotify.com/track/1pg1FFCDl0wiDM0FBV6EZM) | [Idir](https://open.spotify.com/artist/73LjFn4z6WTV7MevyPxrRc), [Francis Cabrel](https://open.spotify.com/artist/5uo5NwSONVNfvSHHMQrHAv) | [Ici et ailleurs](https://open.spotify.com/album/5pFD8nwMcsalVTJp3fZQcd) | 5:33 |
 | 43 | [Munaya \(Dream\)](https://open.spotify.com/track/3bhui3GTdH3kJ4ic6ubmQS) | [Amira Kheir](https://open.spotify.com/artist/5WZN5v7MdgFPu29h88MWvh) | [Mystic Dance](https://open.spotify.com/album/3xQYBIIhwi1Xmts6Y8lgSq) | 5:46 |
 | 44 | [Enough](https://open.spotify.com/track/4CZ2wKpcjgoQDxGMQNUdqb) | [Maysa Daw](https://open.spotify.com/artist/3oCd1GdkMu8peoq2r9ceI6) | [Between City Walls](https://open.spotify.com/album/0aUGJkdUCaTmBqlB2gD3I0) | 3:41 |
-| 45 | [يامّه مويل الهوى \(feat\. Frankly Jazz\)](https://open.spotify.com/track/2fndQayJ2sGLs2q0WDS9Dt) | [Hamza Namira](https://open.spotify.com/artist/2N72bJ8IYB4KZmKmxz5Xkk), [Frankly Jazz](https://open.spotify.com/artist/5K8Wf8G8YMy9EJ8w857rm9) | [يامّه مويل الهوى \(feat\. Frankly Jazz\)](https://open.spotify.com/album/0VGa2gazFA7invA9hBmv4J) | 3:08 |
-| 46 | [Matalib \- COLORS Sudan](https://open.spotify.com/track/6EX84olr1TqoAfa08NH28j) | [Sammany](https://open.spotify.com/artist/4NyCG4OTfplfwyO65U7gY7) | [Matalib \- COLORS Sudan](https://open.spotify.com/album/2nBqEnlrPggCNvmoFY32yk) | 2:38 |
+| 45 | [Matalib \- COLORS Sudan](https://open.spotify.com/track/6EX84olr1TqoAfa08NH28j) | [Sammany](https://open.spotify.com/artist/4NyCG4OTfplfwyO65U7gY7) | [Matalib \- COLORS Sudan](https://open.spotify.com/album/2nBqEnlrPggCNvmoFY32yk) | 2:38 |
+| 46 | [يامّه مويل الهوى \(feat\. Frankly Jazz\)](https://open.spotify.com/track/2fndQayJ2sGLs2q0WDS9Dt) | [Hamza Namira](https://open.spotify.com/artist/2N72bJ8IYB4KZmKmxz5Xkk), [Frankly Jazz](https://open.spotify.com/artist/5K8Wf8G8YMy9EJ8w857rm9) | [يامّه مويل الهوى \(feat\. Frankly Jazz\)](https://open.spotify.com/album/0VGa2gazFA7invA9hBmv4J) | 3:08 |
 | 47 | [زهرة رمان](https://open.spotify.com/track/3boWEgROn4eUoNqA4AkKF0) | [Soukayna Jamali](https://open.spotify.com/artist/6HSYK1Uoe0vnjnAwi9nuap) | [زهرة رمان](https://open.spotify.com/album/3suV5ivCydSX1Hl1vPlllf) | 3:26 |
 | 48 | [Ella Enta \- Live Session](https://open.spotify.com/track/1l85llrpN5nsLuEdKlGQFQ) | [Dana Hourani](https://open.spotify.com/artist/15hYqWGQsqwtFi7FgLE4i6) | [Ella Enta \(Live Session\)](https://open.spotify.com/album/5FT5xEJlyZtt1XIRZbxaq3) | 4:08 |
 | 49 | [Walhani](https://open.spotify.com/track/4y2Zuqfq71h7joKqZmBJLr) | [Apo & the Apostles](https://open.spotify.com/artist/206CRJTxnXzOKrkZmZm9aw) | [Rawquha](https://open.spotify.com/album/2M5Qyikkntj3ly2V6RLyRJ) | 4:34 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTMD8irDo4sC.md) - [plain]
 | 69 | [Estihala \- Live Acoustic](https://open.spotify.com/track/65FeLB4ilmJRzMBzSzKJXJ) | [Sherif Abdelmeged](https://open.spotify.com/artist/6jjt4meb4Y0U7MbzYDjMrQ) | [Estihala \(Live Acoustic\)](https://open.spotify.com/album/2al5I60LV1UgE4lZUSm9WY) | 3:18 |
 | 70 | [Wakfa](https://open.spotify.com/track/39u6elNoM6r2ZwjHJ2q5rx) | [Souad Massi](https://open.spotify.com/artist/0oXFsuB6XBuDTsXJgplR7k) | [Oumniya](https://open.spotify.com/album/6q0t1SQ8v2P0rfTG2nN9xb) | 4:50 |
 
-Snapshot ID: `MCw1NGIzNzY3MWZlMTFlY2FiZWI2Y2VkODAxOGM0ZjU4N2Q0MmM2MDRj`
+Snapshot ID: `MCwyNTEyZTZhNjRlMTMzMDgwNzA2Mjk1NDk5YmZiYTdkMzM3NDljNTcy`

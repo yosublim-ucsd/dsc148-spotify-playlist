@@ -1,12 +1,12 @@
 {
   "description": "?! ft. Artemas",
-  "num_followers": 705966,
+  "num_followers": 706247,
   "original_name": "anti pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlNzk2ODE1Y2FlODM0OWViMzM5OGQ5OGY1ODcwMDFkZjFmNTQxM2Q0",
+  "snapshot_id": "MCwwNDE3YjIwOTI3NDMxMDlhMTNmYjFkNDUyYTUwYjI3YzFhNTdiMDRi",
   "tracks": [
     {
       "added_at": "2024-03-19 20:25:15",
@@ -771,6 +771,26 @@
     {
       "added_at": "2024-03-19 20:25:15",
       "album": {
+        "name": "High (Remix)",
+        "url": "https://open.spotify.com/album/38MrNIfXvvdnU0WxeArHSd"
+      },
+      "artists": [
+        {
+          "name": "NEIL FRANCES",
+          "url": "https://open.spotify.com/artist/587PA35pRGL1JwQr6idJbb"
+        },
+        {
+          "name": "Poolside",
+          "url": "https://open.spotify.com/artist/5szdY7KaSi7epwyffrbV8c"
+        }
+      ],
+      "duration_ms": 116000,
+      "name": "High - Remix",
+      "url": "https://open.spotify.com/track/1YTslvpUMCvbo2GMR25LTq"
+    },
+    {
+      "added_at": "2024-03-19 20:25:15",
+      "album": {
         "name": "One Of Those Days (feat. Lil Yachty & with 347aidan)",
         "url": "https://open.spotify.com/album/6Vi0vIyTyUc60z7n3J7NZL"
       },
@@ -791,26 +811,6 @@
       "duration_ms": 147025,
       "name": "One Of Those Days (feat. Lil Yachty & with 347aidan)",
       "url": "https://open.spotify.com/track/2GVThPVZQQ1K21uEefG4r6"
-    },
-    {
-      "added_at": "2024-03-19 20:25:15",
-      "album": {
-        "name": "High (Remix)",
-        "url": "https://open.spotify.com/album/38MrNIfXvvdnU0WxeArHSd"
-      },
-      "artists": [
-        {
-          "name": "NEIL FRANCES",
-          "url": "https://open.spotify.com/artist/587PA35pRGL1JwQr6idJbb"
-        },
-        {
-          "name": "Poolside",
-          "url": "https://open.spotify.com/artist/5szdY7KaSi7epwyffrbV8c"
-        }
-      ],
-      "duration_ms": 116000,
-      "name": "High - Remix",
-      "url": "https://open.spotify.com/track/1YTslvpUMCvbo2GMR25LTq"
     },
     {
       "added_at": "2024-03-19 20:25:15",
@@ -975,22 +975,6 @@
     {
       "added_at": "2024-03-19 20:25:15",
       "album": {
-        "name": "HIGHWITCHA",
-        "url": "https://open.spotify.com/album/0jm2bQw1Gk8MokQr23MlCh"
-      },
-      "artists": [
-        {
-          "name": "Peach Tree Rascals",
-          "url": "https://open.spotify.com/artist/0imE3buPhAowREqCrr4CYe"
-        }
-      ],
-      "duration_ms": 135529,
-      "name": "HIGHWITCHA",
-      "url": "https://open.spotify.com/track/7B63qxsALIx0CgOIZK2KZy"
-    },
-    {
-      "added_at": "2024-03-19 20:25:15",
-      "album": {
         "name": "lazy",
         "url": "https://open.spotify.com/album/6kymj5mHk1YZupsLrKuzF4"
       },
@@ -1019,6 +1003,22 @@
       "duration_ms": 119558,
       "name": "Girls",
       "url": "https://open.spotify.com/track/6WpZwkzyjINc6wDghg8Gzv"
+    },
+    {
+      "added_at": "2024-03-19 20:25:15",
+      "album": {
+        "name": "HIGHWITCHA",
+        "url": "https://open.spotify.com/album/0jm2bQw1Gk8MokQr23MlCh"
+      },
+      "artists": [
+        {
+          "name": "Peach Tree Rascals",
+          "url": "https://open.spotify.com/artist/0imE3buPhAowREqCrr4CYe"
+        }
+      ],
+      "duration_ms": 135529,
+      "name": "HIGHWITCHA",
+      "url": "https://open.spotify.com/track/7B63qxsALIx0CgOIZK2KZy"
     },
     {
       "added_at": "2024-03-19 20:25:15",
@@ -1319,22 +1319,6 @@
     {
       "added_at": "2024-03-19 20:25:15",
       "album": {
-        "name": "I Just Wanna",
-        "url": "https://open.spotify.com/album/1oOZfgFNqap0vvG25bOeAE"
-      },
-      "artists": [
-        {
-          "name": "Superfan",
-          "url": "https://open.spotify.com/artist/3BO07jDo7Qs7qNLdwRoISM"
-        }
-      ],
-      "duration_ms": 254399,
-      "name": "I Just Wanna",
-      "url": "https://open.spotify.com/track/00qVenrhW7Lr9AwHgc7rOe"
-    },
-    {
-      "added_at": "2024-03-19 20:25:15",
-      "album": {
         "name": "stuck.",
         "url": "https://open.spotify.com/album/7dBT7hYdoqjKmge72tftyR"
       },
@@ -1347,6 +1331,22 @@
       "duration_ms": 134272,
       "name": "stuck.",
       "url": "https://open.spotify.com/track/62io5KnYbPa7y8NSXJwpUo"
+    },
+    {
+      "added_at": "2024-03-19 20:25:15",
+      "album": {
+        "name": "I Just Wanna",
+        "url": "https://open.spotify.com/album/1oOZfgFNqap0vvG25bOeAE"
+      },
+      "artists": [
+        {
+          "name": "Superfan",
+          "url": "https://open.spotify.com/artist/3BO07jDo7Qs7qNLdwRoISM"
+        }
+      ],
+      "duration_ms": 254399,
+      "name": "I Just Wanna",
+      "url": "https://open.spotify.com/track/00qVenrhW7Lr9AwHgc7rOe"
     },
     {
       "added_at": "2024-03-19 20:25:15",
@@ -1415,6 +1415,22 @@
     {
       "added_at": "2024-03-19 20:25:15",
       "album": {
+        "name": "Driver",
+        "url": "https://open.spotify.com/album/3PqeO4aB2VIw27kSffCZL4"
+      },
+      "artists": [
+        {
+          "name": "Bennett Coast",
+          "url": "https://open.spotify.com/artist/5JKePhHHAtaMvBoWuULgm6"
+        }
+      ],
+      "duration_ms": 165989,
+      "name": "Driver",
+      "url": "https://open.spotify.com/track/1D0JQnRvAP5vsEg3eKNTPy"
+    },
+    {
+      "added_at": "2024-03-19 20:25:15",
+      "album": {
         "name": "true",
         "url": "https://open.spotify.com/album/0a7AaCJjuiyqe1cM5nvjtv"
       },
@@ -1427,6 +1443,22 @@
       "duration_ms": 191711,
       "name": "true",
       "url": "https://open.spotify.com/track/2W4lAW4jB3QLBhS34Qn3WN"
+    },
+    {
+      "added_at": "2024-03-19 20:25:15",
+      "album": {
+        "name": "UGLY",
+        "url": "https://open.spotify.com/album/0zKG6mYOsobBuhlBqgnGRs"
+      },
+      "artists": [
+        {
+          "name": "slowthai",
+          "url": "https://open.spotify.com/artist/3r1XkJ7vCs8kHBSzGvPLdP"
+        }
+      ],
+      "duration_ms": 174648,
+      "name": "Sooner",
+      "url": "https://open.spotify.com/track/2VKilJaIWvpUswtBiW3GfL"
     },
     {
       "added_at": "2024-03-19 20:25:15",
@@ -1451,38 +1483,6 @@
     {
       "added_at": "2024-03-19 20:25:15",
       "album": {
-        "name": "UGLY",
-        "url": "https://open.spotify.com/album/0zKG6mYOsobBuhlBqgnGRs"
-      },
-      "artists": [
-        {
-          "name": "slowthai",
-          "url": "https://open.spotify.com/artist/3r1XkJ7vCs8kHBSzGvPLdP"
-        }
-      ],
-      "duration_ms": 174648,
-      "name": "Sooner",
-      "url": "https://open.spotify.com/track/2VKilJaIWvpUswtBiW3GfL"
-    },
-    {
-      "added_at": "2024-03-19 20:25:15",
-      "album": {
-        "name": "Driver",
-        "url": "https://open.spotify.com/album/3PqeO4aB2VIw27kSffCZL4"
-      },
-      "artists": [
-        {
-          "name": "Bennett Coast",
-          "url": "https://open.spotify.com/artist/5JKePhHHAtaMvBoWuULgm6"
-        }
-      ],
-      "duration_ms": 165989,
-      "name": "Driver",
-      "url": "https://open.spotify.com/track/1D0JQnRvAP5vsEg3eKNTPy"
-    },
-    {
-      "added_at": "2024-03-19 20:25:15",
-      "album": {
         "name": "Princess Forever",
         "url": "https://open.spotify.com/album/24nQZEr8mncYgewoIVbCHR"
       },
@@ -1499,22 +1499,6 @@
     {
       "added_at": "2024-03-19 20:25:15",
       "album": {
-        "name": "MOVIES! WORLDWIDE: PART I",
-        "url": "https://open.spotify.com/album/7hXTfD7rkqM78jsnBMT0md"
-      },
-      "artists": [
-        {
-          "name": "Johnny Yukon",
-          "url": "https://open.spotify.com/artist/4fLF7NyMYLaMxUmZCSp5ex"
-        }
-      ],
-      "duration_ms": 124917,
-      "name": "Gloria !",
-      "url": "https://open.spotify.com/track/6sEKSKRnCCsl20GRPNlAQj"
-    },
-    {
-      "added_at": "2024-03-19 20:25:15",
-      "album": {
         "name": "My Big Day",
         "url": "https://open.spotify.com/album/038nwIuL7EFF8sqKvsH7RO"
       },
@@ -1527,6 +1511,22 @@
       "duration_ms": 214200,
       "name": "I Want To Be Your Only Pet",
       "url": "https://open.spotify.com/track/0bRtjZg3D4IrSJPLj3Jyhu"
+    },
+    {
+      "added_at": "2024-03-19 20:25:15",
+      "album": {
+        "name": "MOVIES! WORLDWIDE: PART I",
+        "url": "https://open.spotify.com/album/7hXTfD7rkqM78jsnBMT0md"
+      },
+      "artists": [
+        {
+          "name": "Johnny Yukon",
+          "url": "https://open.spotify.com/artist/4fLF7NyMYLaMxUmZCSp5ex"
+        }
+      ],
+      "duration_ms": 124917,
+      "name": "Gloria !",
+      "url": "https://open.spotify.com/track/6sEKSKRnCCsl20GRPNlAQj"
     },
     {
       "added_at": "2024-03-19 20:25:15",
@@ -1563,46 +1563,6 @@
     {
       "added_at": "2024-03-19 20:25:15",
       "album": {
-        "name": "Can't Fake What You Feel",
-        "url": "https://open.spotify.com/album/0xHIoMRaY6G1O4HRRNbQMG"
-      },
-      "artists": [
-        {
-          "name": "Jordan Hawkins",
-          "url": "https://open.spotify.com/artist/70XiOMiwBAHHspwHrkxlJY"
-        },
-        {
-          "name": "Duckwrth",
-          "url": "https://open.spotify.com/artist/6I3MElirhT5t6Kf7p0hGk9"
-        }
-      ],
-      "duration_ms": 171052,
-      "name": "Can't Fake What You Feel",
-      "url": "https://open.spotify.com/track/2LPOh5ANJBPtPpixYxG4qq"
-    },
-    {
-      "added_at": "2024-03-19 20:25:15",
-      "album": {
-        "name": "HITA",
-        "url": "https://open.spotify.com/album/5mkxe82AB3MUJnejMTgYmM"
-      },
-      "artists": [
-        {
-          "name": "Young Franco",
-          "url": "https://open.spotify.com/artist/6mK0vAO13gT8jWYANyoXAl"
-        },
-        {
-          "name": "S1mba",
-          "url": "https://open.spotify.com/artist/71jSVPQ6yskfyvWeiwvT5s"
-        }
-      ],
-      "duration_ms": 155498,
-      "name": "HITA",
-      "url": "https://open.spotify.com/track/3tNPtRyxl1bqSvA7X6n5qz"
-    },
-    {
-      "added_at": "2024-03-19 20:25:15",
-      "album": {
         "name": "JUMP OUT",
         "url": "https://open.spotify.com/album/2Yfy23tLGgsCLDWfxnIKGj"
       },
@@ -1623,6 +1583,26 @@
     {
       "added_at": "2024-03-19 20:25:15",
       "album": {
+        "name": "Can't Fake What You Feel",
+        "url": "https://open.spotify.com/album/0xHIoMRaY6G1O4HRRNbQMG"
+      },
+      "artists": [
+        {
+          "name": "Jordan Hawkins",
+          "url": "https://open.spotify.com/artist/70XiOMiwBAHHspwHrkxlJY"
+        },
+        {
+          "name": "Duckwrth",
+          "url": "https://open.spotify.com/artist/6I3MElirhT5t6Kf7p0hGk9"
+        }
+      ],
+      "duration_ms": 171052,
+      "name": "Can't Fake What You Feel",
+      "url": "https://open.spotify.com/track/2LPOh5ANJBPtPpixYxG4qq"
+    },
+    {
+      "added_at": "2024-03-19 20:25:15",
+      "album": {
         "name": "It\u2019s Never Fair, Always True",
         "url": "https://open.spotify.com/album/3i09IRJLqeRM9v92W7phES"
       },
@@ -1635,6 +1615,26 @@
       "duration_ms": 167841,
       "name": "lalala",
       "url": "https://open.spotify.com/track/2pCR7dwwRpeAAnpUr1Ekwz"
+    },
+    {
+      "added_at": "2024-03-19 20:25:15",
+      "album": {
+        "name": "HITA",
+        "url": "https://open.spotify.com/album/5mkxe82AB3MUJnejMTgYmM"
+      },
+      "artists": [
+        {
+          "name": "Young Franco",
+          "url": "https://open.spotify.com/artist/6mK0vAO13gT8jWYANyoXAl"
+        },
+        {
+          "name": "S1mba",
+          "url": "https://open.spotify.com/artist/71jSVPQ6yskfyvWeiwvT5s"
+        }
+      ],
+      "duration_ms": 155498,
+      "name": "HITA",
+      "url": "https://open.spotify.com/track/3tNPtRyxl1bqSvA7X6n5qz"
     },
     {
       "added_at": "2024-03-19 20:25:15",

@@ -832,6 +832,24 @@
     {
       "album": {
         "name": "Uthando Lwami",
+        "url": "https://open.spotify.com/album/5u9mpVCMNpjTCDpRbKNLtj"
+      },
+      "artists": [
+        {
+          "name": "Dj Obza",
+          "url": "https://open.spotify.com/artist/3ciriYzsPraVHAuNLA1ylh"
+        }
+      ],
+      "date_added": "2024-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 333220,
+      "name": "Fearless Soul",
+      "url": "https://open.spotify.com/track/1SaNMMJQmTgSrunz715hXV"
+    },
+    {
+      "album": {
+        "name": "Uthando Lwami",
         "url": "https://open.spotify.com/album/4UsDSs9ldW6gDxe6RmIjSt"
       },
       "artists": [
@@ -842,7 +860,7 @@
       ],
       "date_added": "2022-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-21",
       "duration_ms": 333220,
       "name": "Fearless Soul",
       "url": "https://open.spotify.com/track/6eFxUTC1eh9G0TXyYEwbZj"
@@ -2300,10 +2318,36 @@
       ],
       "date_added": "2023-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-21",
       "duration_ms": 341704,
       "name": "Ntinga Ntaka",
       "url": "https://open.spotify.com/track/78ELbuKid579q8ip7sv7Vk"
+    },
+    {
+      "album": {
+        "name": "Ntinga Ntaka (feat. THALITHA, OBIE)",
+        "url": "https://open.spotify.com/album/1TnglHQZcE0C8IqlLLBGp1"
+      },
+      "artists": [
+        {
+          "name": "SUPTA",
+          "url": "https://open.spotify.com/artist/0ijOhiIUwe56EdrfG7dKuM"
+        },
+        {
+          "name": "OBIE",
+          "url": "https://open.spotify.com/artist/3n87awdctItEZJ7fWjlQtC"
+        },
+        {
+          "name": "THALITHA",
+          "url": "https://open.spotify.com/artist/2sl2F1s3TCR4FoFp5KOqLg"
+        }
+      ],
+      "date_added": "2024-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 341704,
+      "name": "Ntinga Ntaka (feat. THALITHA, OBIE)",
+      "url": "https://open.spotify.com/track/5smWSM4SQ97itt8MaNXv9B"
     },
     {
       "album": {
@@ -2884,10 +2928,36 @@
       ],
       "date_added": "2023-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-21",
       "duration_ms": 379387,
       "name": "Suka",
       "url": "https://open.spotify.com/track/4ETqxUieEXrUru8B1fiXKk"
+    },
+    {
+      "album": {
+        "name": "A New Dawn",
+        "url": "https://open.spotify.com/album/1vO3FTTKTfx6e2K0nhPnpe"
+      },
+      "artists": [
+        {
+          "name": "DJ Kabila",
+          "url": "https://open.spotify.com/artist/7iweQ4hUpLLRpSyQmY2J2K"
+        },
+        {
+          "name": "Madala Kunene",
+          "url": "https://open.spotify.com/artist/1X3SghwLJ3KExhUsrZhM2S"
+        },
+        {
+          "name": "104 BPM",
+          "url": "https://open.spotify.com/artist/2EK50Q6gOwRcZgfvlv3tVi"
+        }
+      ],
+      "date_added": "2024-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 379387,
+      "name": "Suka",
+      "url": "https://open.spotify.com/track/6CWUmab6yfN6VPTV36Mm2q"
     },
     {
       "album": {

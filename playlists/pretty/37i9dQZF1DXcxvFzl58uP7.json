@@ -1,12 +1,12 @@
 {
   "description": "Dreamy melodies and hushed vocals.  Cover: Clairo",
-  "num_followers": 1106664,
+  "num_followers": 1106713,
   "original_name": "Bedroom Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlY2ZkMGIzMjEzYWRlNzM2MjMwOThmNmZlNzRjZjcwYjdkZTE4NzRk",
+  "snapshot_id": "MCw0N2IzOGRlNDVkOGMyYjIyOGM0NWU2ZTc5YzNmMzAzMmZkMjIwYTc5",
   "tracks": [
     {
       "added_at": "2024-01-12 16:54:40",
@@ -387,22 +387,6 @@
     {
       "added_at": "2024-01-12 16:54:40",
       "album": {
-        "name": "Art House",
-        "url": "https://open.spotify.com/album/6xFQACinH8dNlzhKaRCfua"
-      },
-      "artists": [
-        {
-          "name": "Malcolm Todd",
-          "url": "https://open.spotify.com/artist/7eKkW1zo5uzW8kUntiiBvz"
-        }
-      ],
-      "duration_ms": 177142,
-      "name": "Art House",
-      "url": "https://open.spotify.com/track/1Qq0KLUDks1te934eJpbeV"
-    },
-    {
-      "added_at": "2024-01-12 16:54:40",
-      "album": {
         "name": "OUTTA MY MIND",
         "url": "https://open.spotify.com/album/6WWXMhWEmIM9SaAyZCFvYL"
       },
@@ -415,6 +399,22 @@
       "duration_ms": 226005,
       "name": "OUTTA MY MIND",
       "url": "https://open.spotify.com/track/7zTTDkkLkJ2iHAqq1daDCr"
+    },
+    {
+      "added_at": "2024-01-12 16:54:40",
+      "album": {
+        "name": "Art House",
+        "url": "https://open.spotify.com/album/6xFQACinH8dNlzhKaRCfua"
+      },
+      "artists": [
+        {
+          "name": "Malcolm Todd",
+          "url": "https://open.spotify.com/artist/7eKkW1zo5uzW8kUntiiBvz"
+        }
+      ],
+      "duration_ms": 177142,
+      "name": "Art House",
+      "url": "https://open.spotify.com/track/1Qq0KLUDks1te934eJpbeV"
     },
     {
       "added_at": "2024-01-12 16:54:40",
@@ -499,6 +499,22 @@
     {
       "added_at": "2024-01-12 16:54:40",
       "album": {
+        "name": "Hot in NY",
+        "url": "https://open.spotify.com/album/7HUkTgfCJpTzB7OUHSMGT8"
+      },
+      "artists": [
+        {
+          "name": "Malcolm Todd",
+          "url": "https://open.spotify.com/artist/7eKkW1zo5uzW8kUntiiBvz"
+        }
+      ],
+      "duration_ms": 118787,
+      "name": "Hot in NY",
+      "url": "https://open.spotify.com/track/5pLLiyazbpDHplZz7JCvNm"
+    },
+    {
+      "added_at": "2024-01-12 16:54:40",
+      "album": {
         "name": "Moonlight/Rare",
         "url": "https://open.spotify.com/album/2Syg1EbtwFmYEkTN02Avbv"
       },
@@ -551,22 +567,6 @@
       "duration_ms": 189475,
       "name": "Years Roll By",
       "url": "https://open.spotify.com/track/0pVG9Vj40uY2Z7D4afDEPT"
-    },
-    {
-      "added_at": "2024-01-12 16:54:40",
-      "album": {
-        "name": "Hot in NY",
-        "url": "https://open.spotify.com/album/7HUkTgfCJpTzB7OUHSMGT8"
-      },
-      "artists": [
-        {
-          "name": "Malcolm Todd",
-          "url": "https://open.spotify.com/artist/7eKkW1zo5uzW8kUntiiBvz"
-        }
-      ],
-      "duration_ms": 118787,
-      "name": "Hot in NY",
-      "url": "https://open.spotify.com/track/5pLLiyazbpDHplZz7JCvNm"
     },
     {
       "added_at": "2024-01-12 16:54:40",
@@ -845,6 +845,22 @@
       "url": "https://open.spotify.com/track/5SG2BVsZr0W7cFAkjh60TT"
     },
     {
+      "added_at": "2024-01-12 16:54:40",
+      "album": {
+        "name": "Car Crash in G Major",
+        "url": "https://open.spotify.com/album/6tPokYHf7g0Jex07f04d7M"
+      },
+      "artists": [
+        {
+          "name": "fanclubwallet",
+          "url": "https://open.spotify.com/artist/1NJUWqbiNAk1BPOyQhb2qe"
+        }
+      ],
+      "duration_ms": 132000,
+      "name": "Car Crash in G Major",
+      "url": "https://open.spotify.com/track/5CKMxyl7q4p0QdpYTesuCZ"
+    },
+    {
       "added_at": "2024-03-01 19:48:19",
       "album": {
         "name": "Truth\u2606Truth",
@@ -863,18 +879,18 @@
     {
       "added_at": "2024-01-12 16:54:40",
       "album": {
-        "name": "Car Crash in G Major",
-        "url": "https://open.spotify.com/album/6tPokYHf7g0Jex07f04d7M"
+        "name": "Friday",
+        "url": "https://open.spotify.com/album/034zknyDzHTXojF5mOYtyO"
       },
       "artists": [
         {
-          "name": "fanclubwallet",
-          "url": "https://open.spotify.com/artist/1NJUWqbiNAk1BPOyQhb2qe"
+          "name": "Freak Slug",
+          "url": "https://open.spotify.com/artist/5wk7sY8GIg5ihSI09EbWeS"
         }
       ],
-      "duration_ms": 132000,
-      "name": "Car Crash in G Major",
-      "url": "https://open.spotify.com/track/5CKMxyl7q4p0QdpYTesuCZ"
+      "duration_ms": 204000,
+      "name": "Friday",
+      "url": "https://open.spotify.com/track/4GQGU0CI1lR4xRcxxioIIQ"
     },
     {
       "added_at": "2024-01-12 16:54:40",
@@ -891,22 +907,6 @@
       "duration_ms": 133109,
       "name": "A lot to explain",
       "url": "https://open.spotify.com/track/4ELXy9Lkc6SF9L4ZuzX8aU"
-    },
-    {
-      "added_at": "2024-01-12 16:54:40",
-      "album": {
-        "name": "Friday",
-        "url": "https://open.spotify.com/album/034zknyDzHTXojF5mOYtyO"
-      },
-      "artists": [
-        {
-          "name": "Freak Slug",
-          "url": "https://open.spotify.com/artist/5wk7sY8GIg5ihSI09EbWeS"
-        }
-      ],
-      "duration_ms": 204000,
-      "name": "Friday",
-      "url": "https://open.spotify.com/track/4GQGU0CI1lR4xRcxxioIIQ"
     },
     {
       "added_at": "2024-01-12 16:54:40",
@@ -943,22 +943,6 @@
     {
       "added_at": "2024-01-12 16:54:40",
       "album": {
-        "name": "Where Do I Go",
-        "url": "https://open.spotify.com/album/4nFKRPl8NBisqDFKIFZVqg"
-      },
-      "artists": [
-        {
-          "name": "MINOVA",
-          "url": "https://open.spotify.com/artist/6mskRz8EwbqCXm39vtGStC"
-        }
-      ],
-      "duration_ms": 190147,
-      "name": "Where Do I Go",
-      "url": "https://open.spotify.com/track/0HvbFmfFlcsAJ6hydqflNk"
-    },
-    {
-      "added_at": "2024-01-12 16:54:40",
-      "album": {
         "name": "Spoonfed",
         "url": "https://open.spotify.com/album/4eMIxtrxlRZjJtKnHBWcyg"
       },
@@ -971,6 +955,22 @@
       "duration_ms": 230546,
       "name": "What Is Love? Tell Me, Is It Easy?",
       "url": "https://open.spotify.com/track/4Sr6N2pJXCb5VjdknAjblG"
+    },
+    {
+      "added_at": "2024-01-12 16:54:40",
+      "album": {
+        "name": "Where Do I Go",
+        "url": "https://open.spotify.com/album/4nFKRPl8NBisqDFKIFZVqg"
+      },
+      "artists": [
+        {
+          "name": "MINOVA",
+          "url": "https://open.spotify.com/artist/6mskRz8EwbqCXm39vtGStC"
+        }
+      ],
+      "duration_ms": 190147,
+      "name": "Where Do I Go",
+      "url": "https://open.spotify.com/track/0HvbFmfFlcsAJ6hydqflNk"
     },
     {
       "added_at": "2024-01-12 16:54:40",
@@ -991,6 +991,22 @@
     {
       "added_at": "2024-01-12 16:54:40",
       "album": {
+        "name": "distance",
+        "url": "https://open.spotify.com/album/14zPJo0XCQPwifvjqjjHTL"
+      },
+      "artists": [
+        {
+          "name": "dyl dion",
+          "url": "https://open.spotify.com/artist/6oqHT4S7trO98T8NkbQJ4h"
+        }
+      ],
+      "duration_ms": 184506,
+      "name": "distance",
+      "url": "https://open.spotify.com/track/6Z8O4QYEUXhKgO3F5KKImY"
+    },
+    {
+      "added_at": "2024-01-12 16:54:40",
+      "album": {
         "name": "Uneasy - Metronomy x spill tab",
         "url": "https://open.spotify.com/album/3XRHpM3LFOWY9nnWwKCKyv"
       },
@@ -1007,22 +1023,6 @@
       "duration_ms": 203262,
       "name": "Uneasy - Metronomy x spill tab",
       "url": "https://open.spotify.com/track/6HOXiIuMfKzEpWsdZ02wZL"
-    },
-    {
-      "added_at": "2024-01-12 16:54:40",
-      "album": {
-        "name": "distance",
-        "url": "https://open.spotify.com/album/14zPJo0XCQPwifvjqjjHTL"
-      },
-      "artists": [
-        {
-          "name": "dyl dion",
-          "url": "https://open.spotify.com/artist/6oqHT4S7trO98T8NkbQJ4h"
-        }
-      ],
-      "duration_ms": 184506,
-      "name": "distance",
-      "url": "https://open.spotify.com/track/6Z8O4QYEUXhKgO3F5KKImY"
     },
     {
       "added_at": "2024-01-12 16:54:40",
@@ -1123,22 +1123,6 @@
     {
       "added_at": "2024-01-12 16:54:40",
       "album": {
-        "name": "You Make Me Feel",
-        "url": "https://open.spotify.com/album/5x6rupJeZv1BxbNGVcxNDL"
-      },
-      "artists": [
-        {
-          "name": "EASHA",
-          "url": "https://open.spotify.com/artist/1lYNHBChDDWC233o6ribbt"
-        }
-      ],
-      "duration_ms": 186562,
-      "name": "You Make Me Feel",
-      "url": "https://open.spotify.com/track/34nlIUkkDybtZAyEnvcpLL"
-    },
-    {
-      "added_at": "2024-01-12 16:54:40",
-      "album": {
         "name": "TECHNICOLOR",
         "url": "https://open.spotify.com/album/6tVteBwrmcuOCe3HT7ToCb"
       },
@@ -1151,6 +1135,22 @@
       "duration_ms": 188143,
       "name": "FEEL LIKE",
       "url": "https://open.spotify.com/track/3OEWE9trIOubK63fNhjKk1"
+    },
+    {
+      "added_at": "2024-01-12 16:54:40",
+      "album": {
+        "name": "You Make Me Feel",
+        "url": "https://open.spotify.com/album/5x6rupJeZv1BxbNGVcxNDL"
+      },
+      "artists": [
+        {
+          "name": "EASHA",
+          "url": "https://open.spotify.com/artist/1lYNHBChDDWC233o6ribbt"
+        }
+      ],
+      "duration_ms": 186562,
+      "name": "You Make Me Feel",
+      "url": "https://open.spotify.com/track/34nlIUkkDybtZAyEnvcpLL"
     },
     {
       "added_at": "2024-01-12 16:54:40",
@@ -1187,22 +1187,6 @@
     {
       "added_at": "2024-01-12 16:54:40",
       "album": {
-        "name": "book of spells",
-        "url": "https://open.spotify.com/album/5AaQnrPQqgc5kwMObnLxeA"
-      },
-      "artists": [
-        {
-          "name": "ivri",
-          "url": "https://open.spotify.com/artist/5EjK7aUvQ9LMNqc2zXiWLS"
-        }
-      ],
-      "duration_ms": 108571,
-      "name": "book of spells",
-      "url": "https://open.spotify.com/track/6khxHZKguKB1PeHXD7czwg"
-    },
-    {
-      "added_at": "2024-01-12 16:54:40",
-      "album": {
         "name": "Moonlight",
         "url": "https://open.spotify.com/album/3a4JBDsQCybVTSAn3KDdrN"
       },
@@ -1215,6 +1199,22 @@
       "duration_ms": 239604,
       "name": "Moonlight",
       "url": "https://open.spotify.com/track/4firXMx3LKEH8a5hiJeL5D"
+    },
+    {
+      "added_at": "2024-01-12 16:54:40",
+      "album": {
+        "name": "book of spells",
+        "url": "https://open.spotify.com/album/5AaQnrPQqgc5kwMObnLxeA"
+      },
+      "artists": [
+        {
+          "name": "ivri",
+          "url": "https://open.spotify.com/artist/5EjK7aUvQ9LMNqc2zXiWLS"
+        }
+      ],
+      "duration_ms": 108571,
+      "name": "book of spells",
+      "url": "https://open.spotify.com/track/6khxHZKguKB1PeHXD7czwg"
     },
     {
       "added_at": "2024-01-12 16:54:40",
@@ -1299,22 +1299,6 @@
     {
       "added_at": "2024-01-12 16:54:40",
       "album": {
-        "name": "Melodrama",
-        "url": "https://open.spotify.com/album/4VDue6QekQ9iZZpMTLS7ZX"
-      },
-      "artists": [
-        {
-          "name": "CASTLEBEAT",
-          "url": "https://open.spotify.com/artist/0k8UHfMqW86uvhmhHiYzj3"
-        }
-      ],
-      "duration_ms": 277312,
-      "name": "East Coast",
-      "url": "https://open.spotify.com/track/00GXITN3KudnqcJgkwXRrh"
-    },
-    {
-      "added_at": "2024-01-12 16:54:40",
-      "album": {
         "name": "Baby Baby",
         "url": "https://open.spotify.com/album/1hBfaUAmlC3S1IOH67Vly9"
       },
@@ -1343,6 +1327,22 @@
       "duration_ms": 298477,
       "name": "seabirds",
       "url": "https://open.spotify.com/track/2WFmx1unF0TjYnzHhDyICp"
+    },
+    {
+      "added_at": "2024-01-12 16:54:40",
+      "album": {
+        "name": "Melodrama",
+        "url": "https://open.spotify.com/album/4VDue6QekQ9iZZpMTLS7ZX"
+      },
+      "artists": [
+        {
+          "name": "CASTLEBEAT",
+          "url": "https://open.spotify.com/artist/0k8UHfMqW86uvhmhHiYzj3"
+        }
+      ],
+      "duration_ms": 277312,
+      "name": "East Coast",
+      "url": "https://open.spotify.com/track/00GXITN3KudnqcJgkwXRrh"
     },
     {
       "added_at": "2024-01-12 16:54:40",
@@ -1489,6 +1489,22 @@
       "url": "https://open.spotify.com/track/6LCSYQNqqXMVNWPoc2q8UE"
     },
     {
+      "added_at": "2024-03-01 19:48:19",
+      "album": {
+        "name": "47",
+        "url": "https://open.spotify.com/album/4nUKO0SAphfqEcvarF8b9t"
+      },
+      "artists": [
+        {
+          "name": "Chezile",
+          "url": "https://open.spotify.com/artist/1EmdfupUQDpXOcb4Nj2mBH"
+        }
+      ],
+      "duration_ms": 159650,
+      "name": "Run Away",
+      "url": "https://open.spotify.com/track/54m7I5SFUxRbMFdnwdm8Xk"
+    },
+    {
       "added_at": "2024-01-12 16:54:40",
       "album": {
         "name": "three days",
@@ -1537,22 +1553,6 @@
       "url": "https://open.spotify.com/track/7pFeq7Itvy8BM68NIu5VUZ"
     },
     {
-      "added_at": "2024-03-01 19:48:19",
-      "album": {
-        "name": "47",
-        "url": "https://open.spotify.com/album/4nUKO0SAphfqEcvarF8b9t"
-      },
-      "artists": [
-        {
-          "name": "Chezile",
-          "url": "https://open.spotify.com/artist/1EmdfupUQDpXOcb4Nj2mBH"
-        }
-      ],
-      "duration_ms": 159650,
-      "name": "Run Away",
-      "url": "https://open.spotify.com/track/54m7I5SFUxRbMFdnwdm8Xk"
-    },
-    {
       "added_at": "2024-01-12 16:54:40",
       "album": {
         "name": "Robes",
@@ -1567,22 +1567,6 @@
       "duration_ms": 187432,
       "name": "Robes",
       "url": "https://open.spotify.com/track/1qD1cw9NSca7RMNwOKcpWA"
-    },
-    {
-      "added_at": "2024-01-12 16:54:40",
-      "album": {
-        "name": "amphetamine",
-        "url": "https://open.spotify.com/album/7x0K5adxax0P3lHcYj7UfN"
-      },
-      "artists": [
-        {
-          "name": "boylife",
-          "url": "https://open.spotify.com/artist/6P8DiegQ0Inxj1UF6a9lCb"
-        }
-      ],
-      "duration_ms": 120241,
-      "name": "amphetamine",
-      "url": "https://open.spotify.com/track/6OxJsaqxD7yaR35qRuhyFa"
     },
     {
       "added_at": "2024-01-12 16:54:40",
@@ -1607,6 +1591,22 @@
       "duration_ms": 173856,
       "name": "Letters",
       "url": "https://open.spotify.com/track/6YQcXeLou3k4rpubfxZ1s6"
+    },
+    {
+      "added_at": "2024-01-12 16:54:40",
+      "album": {
+        "name": "amphetamine",
+        "url": "https://open.spotify.com/album/7x0K5adxax0P3lHcYj7UfN"
+      },
+      "artists": [
+        {
+          "name": "boylife",
+          "url": "https://open.spotify.com/artist/6P8DiegQ0Inxj1UF6a9lCb"
+        }
+      ],
+      "duration_ms": 120241,
+      "name": "amphetamine",
+      "url": "https://open.spotify.com/track/6OxJsaqxD7yaR35qRuhyFa"
     },
     {
       "added_at": "2024-01-12 16:54:40",

@@ -1870,10 +1870,36 @@
       ],
       "date_added": "2022-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-21",
       "duration_ms": 341704,
       "name": "Ntinga Ntaka",
       "url": "https://open.spotify.com/track/78ELbuKid579q8ip7sv7Vk"
+    },
+    {
+      "album": {
+        "name": "Ntinga Ntaka (feat. THALITHA, OBIE)",
+        "url": "https://open.spotify.com/album/1TnglHQZcE0C8IqlLLBGp1"
+      },
+      "artists": [
+        {
+          "name": "SUPTA",
+          "url": "https://open.spotify.com/artist/0ijOhiIUwe56EdrfG7dKuM"
+        },
+        {
+          "name": "OBIE",
+          "url": "https://open.spotify.com/artist/3n87awdctItEZJ7fWjlQtC"
+        },
+        {
+          "name": "THALITHA",
+          "url": "https://open.spotify.com/artist/2sl2F1s3TCR4FoFp5KOqLg"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 341704,
+      "name": "Ntinga Ntaka (feat. THALITHA, OBIE)",
+      "url": "https://open.spotify.com/track/5smWSM4SQ97itt8MaNXv9B"
     },
     {
       "album": {
@@ -2936,6 +2962,28 @@
     {
       "album": {
         "name": "Voices In My Head",
+        "url": "https://open.spotify.com/album/4br2nne4qWcQw0HuzgyuyY"
+      },
+      "artists": [
+        {
+          "name": "Dr Feel",
+          "url": "https://open.spotify.com/artist/20OBylFJKe5WtQzqO32Xxq"
+        },
+        {
+          "name": "Kaytee En Glent",
+          "url": "https://open.spotify.com/artist/0GG652aubA3MxmKMEiwKss"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 524575,
+      "name": "Voices In My Head",
+      "url": "https://open.spotify.com/track/3De0CO9lwV78kGqhPU0RYA"
+    },
+    {
+      "album": {
+        "name": "Voices In My Head",
         "url": "https://open.spotify.com/album/29oPX8QLAVCFpY6Ftgy4cu"
       },
       "artists": [
@@ -2950,7 +2998,7 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-21",
       "duration_ms": 524575,
       "name": "Voices In My Head",
       "url": "https://open.spotify.com/track/5v2sgCmUwMQIhhVdD5Hush"

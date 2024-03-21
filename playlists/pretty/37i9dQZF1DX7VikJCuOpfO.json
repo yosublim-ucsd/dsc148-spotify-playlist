@@ -1,12 +1,12 @@
 {
   "description": "Lo nuevo y lo mejor en el estilo mariachi. Cover: Ana B\u00e1rbara",
-  "num_followers": 198505,
+  "num_followers": 198553,
   "original_name": "Mariachi 2024",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhODVkMzJiMTQ4MmNiZjYxYzJhZWY4OWQ3ZGZjOWQxZWFiODU0NzEz",
+  "snapshot_id": "MCw2NGZhNDA0NWU3OGQ5ZmEzYmQxNDMzZDA3ZjA2YjhlZmY4MjRhNTAx",
   "tracks": [
     {
       "added_at": "2024-03-08 05:00:00",
@@ -327,6 +327,22 @@
     {
       "added_at": "2024-03-08 05:00:00",
       "album": {
+        "name": "Amor Prohibido",
+        "url": "https://open.spotify.com/album/3o1L0Wn7yVk7r0J1yxaRqA"
+      },
+      "artists": [
+        {
+          "name": "Selena",
+          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
+        }
+      ],
+      "duration_ms": 200840,
+      "name": "No Me Queda M\u00e1s",
+      "url": "https://open.spotify.com/track/2stxwFkmW2kZ6SuyJGO5q8"
+    },
+    {
+      "added_at": "2024-03-08 05:00:00",
+      "album": {
         "name": "\u00bfY Qu\u00e9 Tal Si Funciona?",
         "url": "https://open.spotify.com/album/1XLUXguw1oUNDVAvzMl4rq"
       },
@@ -343,22 +359,6 @@
       "duration_ms": 185038,
       "name": "\u00bfY Qu\u00e9 Tal Si Funciona?",
       "url": "https://open.spotify.com/track/6yKoIv4jJSb7trcphSZofT"
-    },
-    {
-      "added_at": "2024-03-08 05:00:00",
-      "album": {
-        "name": "Amor Prohibido",
-        "url": "https://open.spotify.com/album/3o1L0Wn7yVk7r0J1yxaRqA"
-      },
-      "artists": [
-        {
-          "name": "Selena",
-          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
-        }
-      ],
-      "duration_ms": 200840,
-      "name": "No Me Queda M\u00e1s",
-      "url": "https://open.spotify.com/track/2stxwFkmW2kZ6SuyJGO5q8"
     },
     {
       "added_at": "2024-03-08 05:00:00",
@@ -459,22 +459,6 @@
     {
       "added_at": "2024-03-08 05:00:00",
       "album": {
-        "name": "Pa' Luego Es Tarde",
-        "url": "https://open.spotify.com/album/4l8OrF24fhXsCFF6wvP5fE"
-      },
-      "artists": [
-        {
-          "name": "Yuridia",
-          "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
-        }
-      ],
-      "duration_ms": 185153,
-      "name": "Te Dejo",
-      "url": "https://open.spotify.com/track/5N3lFRVdbmindAPgkEQwe4"
-    },
-    {
-      "added_at": "2024-03-08 05:00:00",
-      "album": {
         "name": "Hasta Que Me Duermo",
         "url": "https://open.spotify.com/album/1mLcet0qvEtwU5QnGpROrx"
       },
@@ -487,6 +471,22 @@
       "duration_ms": 194389,
       "name": "Hasta Que Me Duermo",
       "url": "https://open.spotify.com/track/4i8PN9NYspouYFlIqsskk3"
+    },
+    {
+      "added_at": "2024-03-08 05:00:00",
+      "album": {
+        "name": "Pa' Luego Es Tarde",
+        "url": "https://open.spotify.com/album/4l8OrF24fhXsCFF6wvP5fE"
+      },
+      "artists": [
+        {
+          "name": "Yuridia",
+          "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
+        }
+      ],
+      "duration_ms": 185153,
+      "name": "Te Dejo",
+      "url": "https://open.spotify.com/track/5N3lFRVdbmindAPgkEQwe4"
     },
     {
       "added_at": "2024-03-08 05:00:00",
@@ -1647,22 +1647,6 @@
     {
       "added_at": "2024-03-08 05:00:00",
       "album": {
-        "name": "La Loter\u00eda",
-        "url": "https://open.spotify.com/album/3jOBDGEiCdccHnOaHwZmtY"
-      },
-      "artists": [
-        {
-          "name": "Adriana R\u00edos",
-          "url": "https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo"
-        }
-      ],
-      "duration_ms": 186628,
-      "name": "La Loter\u00eda",
-      "url": "https://open.spotify.com/track/749UHtYWSdzlLqE9TTrjSs"
-    },
-    {
-      "added_at": "2024-03-08 05:00:00",
-      "album": {
         "name": "Valiente",
         "url": "https://open.spotify.com/album/4wiJhoRjHVd2OcoQTCvfMf"
       },
@@ -1675,6 +1659,22 @@
       "duration_ms": 151555,
       "name": "Valiente",
       "url": "https://open.spotify.com/track/56aRk2RiNCBtX7M2k0QZAL"
+    },
+    {
+      "added_at": "2024-03-08 05:00:00",
+      "album": {
+        "name": "La Loter\u00eda",
+        "url": "https://open.spotify.com/album/3jOBDGEiCdccHnOaHwZmtY"
+      },
+      "artists": [
+        {
+          "name": "Adriana R\u00edos",
+          "url": "https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo"
+        }
+      ],
+      "duration_ms": 186628,
+      "name": "La Loter\u00eda",
+      "url": "https://open.spotify.com/track/749UHtYWSdzlLqE9TTrjSs"
     },
     {
       "added_at": "2024-03-08 05:00:00",

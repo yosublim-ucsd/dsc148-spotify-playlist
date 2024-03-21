@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUoqEG4WY6ce.md) - [plain]
 
 > Hop in.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,068,266 likes - 100 songs - 6 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,068,395 likes - 100 songs - 6 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,9 +75,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUoqEG4WY6ce.md) - [plain]
 | 65 | [No You Girls](https://open.spotify.com/track/4VP8QiCeaZq8BeTIUrMQOG) | [Franz Ferdinand](https://open.spotify.com/artist/0XNa1vTidXlvJ2gHSsRi4A) | [Tonight](https://open.spotify.com/album/6ppF24fU5pqbPrPuK5zVnS) | 3:43 |
 | 66 | [Chicago](https://open.spotify.com/track/1yupbrI7ROhigIHpQBevPh) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Illinois](https://open.spotify.com/album/1pOl0KEC1iQnA6F0XxV4To) | 6:04 |
 | 67 | [Another Story](https://open.spotify.com/track/34N4miRYCGQwmQEXoCiuuL) | [The Head And The Heart](https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg) | [Let's Be Still](https://open.spotify.com/album/6KE9bPdNZqkYvXebow0i42) | 4:34 |
-| 68 | [Lego Ring](https://open.spotify.com/track/3bGMtDPWFXqPM7QecjVHlG) | [Faye Webster](https://open.spotify.com/artist/5szilpXHcwOqnyKLqGco5j), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [Lego Ring](https://open.spotify.com/album/61ZY4FMQgChUDCXRJ4C4lz) | 2:43 |
-| 69 | [Campus](https://open.spotify.com/track/1eNrlXlW7Cj1QB1YUcZmpb) | [Vampire Weekend](https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx) | [Vampire Weekend](https://open.spotify.com/album/7n8NJkGKAl2np1bXiRn0CY) | 2:56 |
-| 70 | [Wait](https://open.spotify.com/track/3rTnGUeDrnZV22DvRuUuXr) | [M83](https://open.spotify.com/artist/63MQldklfxkjYDoUE4Tppz) | [Hurry Up, We're Dreaming](https://open.spotify.com/album/6R0ynY7RF20ofs9GJR5TXR) | 5:43 |
+| 68 | [Campus](https://open.spotify.com/track/1eNrlXlW7Cj1QB1YUcZmpb) | [Vampire Weekend](https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx) | [Vampire Weekend](https://open.spotify.com/album/7n8NJkGKAl2np1bXiRn0CY) | 2:56 |
+| 69 | [Wait](https://open.spotify.com/track/3rTnGUeDrnZV22DvRuUuXr) | [M83](https://open.spotify.com/artist/63MQldklfxkjYDoUE4Tppz) | [Hurry Up, We're Dreaming](https://open.spotify.com/album/6R0ynY7RF20ofs9GJR5TXR) | 5:43 |
+| 70 | [Lego Ring](https://open.spotify.com/track/3bGMtDPWFXqPM7QecjVHlG) | [Faye Webster](https://open.spotify.com/artist/5szilpXHcwOqnyKLqGco5j), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [Lego Ring](https://open.spotify.com/album/61ZY4FMQgChUDCXRJ4C4lz) | 2:43 |
 | 71 | [Sheep](https://open.spotify.com/track/2fEcMBdl3BUmPclvQKSBfV) | [Mt\. Joy](https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI) | [Mt\. Joy](https://open.spotify.com/album/5h9FO7QRZMcrcnSYvihQ01) | 3:43 |
 | 72 | [Song for Zula](https://open.spotify.com/track/6Thn8AOHIwPCkf2O4ZgfC2) | [Phosphorescent](https://open.spotify.com/artist/57kIMCLPgkzQlXjblX7XXP) | [Muchacho](https://open.spotify.com/album/6rAJ4I8SpPMJj0guCZiAI8) | 6:10 |
 | 73 | [West Coast](https://open.spotify.com/track/2nvZv4qatgsDIbEqqbQLUT) | [Coconut Records](https://open.spotify.com/artist/2YKp8Odp8GGbAkVU60Yk2Y) | [Nighttiming](https://open.spotify.com/album/4FeD2BdcaGX75b5X1gvvsg) | 3:30 |
@@ -86,8 +86,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUoqEG4WY6ce.md) - [plain]
 | 76 | [Empress](https://open.spotify.com/track/4xWqRo8GPwMQ02LjiaX4D8) | [Morningsiders](https://open.spotify.com/artist/5hPR4Atp3QY2ztiAcz1inl) | [A Little Lift](https://open.spotify.com/album/3roe3TTl1o2p9sZZ9HdeX2) | 3:19 |
 | 77 | [Way It Goes](https://open.spotify.com/track/6CES1554HcWMIVroJfmmBm) | [Hippo Campus](https://open.spotify.com/artist/1btWGBz4Uu1HozTwb2Lm8A) | [Landmark](https://open.spotify.com/album/0vb1g018puu47StlIi9wxC) | 4:05 |
 | 78 | [Tessellate](https://open.spotify.com/track/1o22EcqsCANhwYdaNOSdwS) | [alt\-J](https://open.spotify.com/artist/3XHO7cRUPCLOr6jwp8vsx5) | [An Awesome Wave](https://open.spotify.com/album/6k3vC8nep1BfqAIJ81L6OL) | 3:01 |
-| 79 | [This Must Be The Place](https://open.spotify.com/track/6PuoZT4kgw5DrUEdnQ6e01) | [Sure Sure](https://open.spotify.com/artist/1anAI9P9iSzc9qzLv6AtHZ) | [Sure Sure](https://open.spotify.com/album/7EfgATnOllXJ96s4sSdzei) | 3:39 |
-| 80 | [Supalonely \(feat\. Gus Dapperton\)](https://open.spotify.com/track/3GZoWLVbmxcBys6g0DLFLf) | [BENEE](https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4), [Gus Dapperton](https://open.spotify.com/artist/6sHCvZe1PHrOAuYlwTLNH4) | [Hey u x](https://open.spotify.com/album/4KKRAmQ0ksj32l7mrgLOcF) | 3:43 |
+| 79 | [Supalonely \(feat\. Gus Dapperton\)](https://open.spotify.com/track/3GZoWLVbmxcBys6g0DLFLf) | [BENEE](https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4), [Gus Dapperton](https://open.spotify.com/artist/6sHCvZe1PHrOAuYlwTLNH4) | [Hey u x](https://open.spotify.com/album/4KKRAmQ0ksj32l7mrgLOcF) | 3:43 |
+| 80 | [This Must Be The Place](https://open.spotify.com/track/6PuoZT4kgw5DrUEdnQ6e01) | [Sure Sure](https://open.spotify.com/artist/1anAI9P9iSzc9qzLv6AtHZ) | [Sure Sure](https://open.spotify.com/album/7EfgATnOllXJ96s4sSdzei) | 3:39 |
 | 81 | [Eyes](https://open.spotify.com/track/1a9czdo8IX5InOiSOg6xpv) | [Rogue Wave](https://open.spotify.com/artist/2JSc53B5cQ31m0xTB7JFpG) | [Eyes](https://open.spotify.com/album/7KMiuupbbjzq7tzwCC0rhc) | 2:28 |
 | 82 | [All The Time](https://open.spotify.com/track/0qI1W6chJgvrSAzAkX9JBa) | [Bahamas](https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt) | [Bahamas Is Afie](https://open.spotify.com/album/2UqlVTULRPG2qm8Bico9CK) | 3:54 |
 | 83 | [Furr](https://open.spotify.com/track/2fgbsGWU2Dum08uifQHhiB) | [Blitzen Trapper](https://open.spotify.com/artist/72XY3HrDdFfZXNZFCT9Zh1) | [Furr](https://open.spotify.com/album/2DyjbFqAX5Yxoh3EFMMXh7) | 4:07 |
@@ -105,8 +105,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUoqEG4WY6ce.md) - [plain]
 | 95 | [Salute Your Solution](https://open.spotify.com/track/4I3573QbRpER4HPzyFSFJa) | [The Raconteurs](https://open.spotify.com/artist/4wo1267SJuUfHgasdlfNfc) | [Consolers of the Lonely](https://open.spotify.com/album/3yx8gEFlojRtt2WBhmxwfg) | 2:59 |
 | 96 | [Pressure To Party](https://open.spotify.com/track/480rD34KfGbMaT0L6zjeIu) | [Julia Jacklin](https://open.spotify.com/artist/12fRkVfO2fUsz1QHgDAG3g) | [Crushing](https://open.spotify.com/album/50G6NiGQgtYNiwNK018q8v) | 3:02 |
 | 97 | [When They Fight, They Fight](https://open.spotify.com/track/0zqmyB1prgGGiOS10sjH8A) | [Generationals](https://open.spotify.com/artist/57MtJQ6Sc4tIxrXIhrqVJL) | [Con Law](https://open.spotify.com/album/6JoADrFrfs62hhWAMzSA8A) | 3:20 |
-| 98 | [Missed the Boat](https://open.spotify.com/track/4asjU3sDnn3002bTJIg2vZ) | [Modest Mouse](https://open.spotify.com/artist/1yAwtBaoHLEDWAnWR87hBT) | [We Were Dead Before The Ship Even Sank](https://open.spotify.com/album/2lXBCL76UL5PCPbfAqKBkz) | 4:24 |
-| 99 | [Holocene](https://open.spotify.com/track/35KiiILklye1JRRctaLUb4) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [Bon Iver](https://open.spotify.com/album/2LpfNj3vB5rOXfaawLcOBg) | 5:36 |
+| 98 | [Holocene](https://open.spotify.com/track/35KiiILklye1JRRctaLUb4) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [Bon Iver](https://open.spotify.com/album/2LpfNj3vB5rOXfaawLcOBg) | 5:36 |
+| 99 | [Missed the Boat](https://open.spotify.com/track/4asjU3sDnn3002bTJIg2vZ) | [Modest Mouse](https://open.spotify.com/artist/1yAwtBaoHLEDWAnWR87hBT) | [We Were Dead Before The Ship Even Sank](https://open.spotify.com/album/2lXBCL76UL5PCPbfAqKBkz) | 4:24 |
 | 100 | [Wraith Pinned to the Mist and Other Games](https://open.spotify.com/track/0Ensfv1iBDcsOF6xNok14N) | [of Montreal](https://open.spotify.com/artist/5xeBMeW0YzWIXSVzAxhM8O) | [The Sunlandic Twins](https://open.spotify.com/album/2h79iBNx5cNPafy42aI1NE) | 4:15 |
 
-Snapshot ID: `MCxkM2UzM2M4MTM4MGFkM2JkYWVlYzI1ZTk2MmE0MWYzNzEzOTMwMzMx`
+Snapshot ID: `MCwxYTg3YTgyOGIxMDFjZjIwZTEzMWRjNzBkYzhhOWZlNTdiYThiOTEz`

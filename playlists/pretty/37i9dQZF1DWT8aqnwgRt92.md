@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8aqnwgRt92.md) - [plain]
 
 > Hottest Anime tracks & best new sounds for all Anime fans! 最新アニメシーンの話題曲をまとめてお届け！Illustration by <a href="https://kazuhisauragami.com/"> Kazuhisa Uragami</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,441,868 likes - 85 songs - 5 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,442,402 likes - 85 songs - 5 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8aqnwgRt92.md) - [plain]
 | 2 | [絶絶絶絶対聖域](https://open.spotify.com/track/3n4p9wJEgt4szBc92wPwmu) | [ano](https://open.spotify.com/artist/7Il739Q5W4yJUYC3hfnX6z), [Lilas Ikuta](https://open.spotify.com/artist/1qM11R4ylJyQiPJ0DffE9z) | [絶絶絶絶対聖域](https://open.spotify.com/album/0qsnfQzcoZgycLGjJ9zKom) | 3:33 |
 | 3 | [晴る](https://open.spotify.com/track/5eY7692tmgHB9dbmq6wa2M) | [ヨルシカ](https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik) | [晴る](https://open.spotify.com/album/4O53dhmIctih3p2suAAgga) | 4:30 |
 | 4 | [オレンジ](https://open.spotify.com/track/6M6ZNRplLNspFEn6Ab3mOv) | [SPYAIR](https://open.spotify.com/artist/7gRg6C2qgQ1F01k3sgyEVt) | [オレンジ](https://open.spotify.com/album/4bpX1Wi81FjZ4d0GFlO1y3) | 3:55 |
-| 5 | [Water Carrier](https://open.spotify.com/track/675sPQdIf74UzpPrPR4tLZ) | [Kroi](https://open.spotify.com/artist/4S8J8Nct8lHsbzAeNJXcJa) | [Water Carrier](https://open.spotify.com/album/0LkdcehFEz0i0RALwIp9V7) | 4:02 |
+| 5 | [Water Carrier](https://open.spotify.com/track/4l8jSXhZ3apqimhbzhiabB) | [Kroi](https://open.spotify.com/artist/4S8J8Nct8lHsbzAeNJXcJa) | [Water Carrier](https://open.spotify.com/album/3sNzrdLqdVxbPmHAu9Iuav) | 4:02 |
 | 6 | [ドライブ・マイ・イデア](https://open.spotify.com/track/4kprPDP5JqxcBLqKXjhMTJ) | [Tempalay](https://open.spotify.com/artist/5IlQkA8Lq4X0dOWHBumeJP) | [ドライブ・マイ・イデア](https://open.spotify.com/album/1hyXLEpA9pZfWenpqUUE5Q) | 3:37 |
 | 7 | [SPECIALZ](https://open.spotify.com/track/5oQpH1uuZte4axR411rIlN) | [King Gnu](https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2) | [THE GREATEST UNKNOWN](https://open.spotify.com/album/2elSXVKJ2zpNaJkDC5T8fr) | 3:53 |
 | 8 | [青春謳歌 \(feat.ano\)](https://open.spotify.com/track/5N6DFXriMN64kM62mpk9uc) | [Lilas Ikuta](https://open.spotify.com/artist/1qM11R4ylJyQiPJ0DffE9z), [ano](https://open.spotify.com/artist/7Il739Q5W4yJUYC3hfnX6z) | [青春謳歌 \(feat.ano\)](https://open.spotify.com/album/4szJowsqkuvKbBwZG9rYQG) | 3:47 |
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8aqnwgRt92.md) - [plain]
 | 84 | [because](https://open.spotify.com/track/6A7ApLuakiDmKHtVn6Alpi) | [Tei](https://open.spotify.com/artist/0rDC7Y5wGmOdqS7JVaZpYI) | [because](https://open.spotify.com/album/3X5S24GPW8hFTfmR8QVyRG) | 4:32 |
 | 85 | [青く、青く](https://open.spotify.com/track/4x8y91an0erARwUUTifXWP) | [Eir Aoi](https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3) | [青く、青く](https://open.spotify.com/album/0gnXedu8kjG7R8XPdDpREc) | 4:32 |
 
-Snapshot ID: `MCxlNTJlMmU5NTQ5MGZmMTg1MjFiM2ZjMGFiM2U5ZmRkNDUxNjllZTc5`
+Snapshot ID: `MCxmY2IwNmQ2NTBhNzRiNzRjYjRkMTlmMWRkOTQyYjlmYjRkZmM0MTJm`

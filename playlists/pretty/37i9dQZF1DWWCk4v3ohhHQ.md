@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWCk4v3ohhHQ.md) - [plain]
 
 > The essential pop rock songs from the 2010s\. Cover: Coldplay.
 
-[Spotify](https://open.spotify.com/user/spotify) - 201,326 likes - 100 songs - 6 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 201,394 likes - 100 songs - 6 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -97,8 +97,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWCk4v3ohhHQ.md) - [plain]
 | 87 | [Come to Me](https://open.spotify.com/track/1jvoeTYt8usIxGWQUSzEyz) | [The Goo Goo Dolls](https://open.spotify.com/artist/2sil8z5kiy4r76CRTXxBCA) | [Magnetic \(Deluxe Version\)](https://open.spotify.com/album/35jYPfl0Y8rCfMU2EkO56x) | 3:45 |
 | 88 | [Called Out In The Dark](https://open.spotify.com/track/4BBt0kc625eUAdG2XpWPHm) | [Snow Patrol](https://open.spotify.com/artist/3rIZMv9rysU7JkLzEaC5Jp) | [Fallen Empires](https://open.spotify.com/album/56D3j08rASJg9ZGAyoq2ZZ) | 4:01 |
 | 89 | [Red Hands](https://open.spotify.com/track/3e5uxnPKYPdNjadbGXjWbP) | [Walk off the Earth](https://open.spotify.com/artist/6jEiUoyyJNPHzSR0Nib6HX) | [R.E.V.O.](https://open.spotify.com/album/4E2tpJR1a6bsKNrAZcXGvP) | 3:00 |
-| 90 | [Fire Escape](https://open.spotify.com/track/6uCmU6ldcsVpLAKNCojVg8) | [Andrew McMahon in the Wilderness](https://open.spotify.com/artist/716ZwtZBmwROBXcFmCzfdM) | [Zombies On Broadway](https://open.spotify.com/album/4scns5rvvp6KbYQgSsQ8Zv) | 3:24 |
-| 91 | [Start A Riot](https://open.spotify.com/track/3cpOqFZ30z5cUJUC9MYaar) | [BANNERS](https://open.spotify.com/artist/4qWnlmXWuGv2TtuxtIWlJX) | [BANNERS](https://open.spotify.com/album/3jA8ouJG0XT2E9uoEzh0j7) | 3:35 |
+| 90 | [Start A Riot](https://open.spotify.com/track/3cpOqFZ30z5cUJUC9MYaar) | [BANNERS](https://open.spotify.com/artist/4qWnlmXWuGv2TtuxtIWlJX) | [BANNERS](https://open.spotify.com/album/3jA8ouJG0XT2E9uoEzh0j7) | 3:35 |
+| 91 | [Fire Escape](https://open.spotify.com/track/6uCmU6ldcsVpLAKNCojVg8) | [Andrew McMahon in the Wilderness](https://open.spotify.com/artist/716ZwtZBmwROBXcFmCzfdM) | [Zombies On Broadway](https://open.spotify.com/album/4scns5rvvp6KbYQgSsQ8Zv) | 3:24 |
 | 92 | [The Anchor](https://open.spotify.com/track/0qwpBiu4uhW9hiQ6P4NePz) | [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [Wild World \(Complete Edition\)](https://open.spotify.com/album/1qKjUIVG8KmtYceDBWjfqE) | 3:24 |
 | 93 | [Different Colors](https://open.spotify.com/track/3RRRDZig4RNJhVGfwwOOFZ) | [WALK THE MOON](https://open.spotify.com/artist/6DIS6PRrLS3wbnZsf7vYic) | [TALKING IS HARD](https://open.spotify.com/album/3mNoFlD1wsoXfkljfFzExT) | 3:42 |
 | 94 | [This Ain't a Love Song](https://open.spotify.com/track/2tNE4DP5nL85XUJv1glO0a) | [Scouting For Girls](https://open.spotify.com/artist/2wpJOPmf1TIOzrB9mzHifd) | [Ten Add Ten: The Very Best of Scouting For Girls](https://open.spotify.com/album/62j2ag19WoiNtbSxhAk9r7) | 3:30 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWCk4v3ohhHQ.md) - [plain]
 | 99 | [Lethargy](https://open.spotify.com/track/28mBT1l5sJrfSWn8KM3JLT) | [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [Wild World \(Complete Edition\)](https://open.spotify.com/album/1qKjUIVG8KmtYceDBWjfqE) | 3:24 |
 | 100 | [Shine A Light](https://open.spotify.com/track/166ZJ3OEi10e1r0b4WuMBf) | [Bryan Adams](https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc) | [Shine A Light](https://open.spotify.com/album/3asSFSYzOLvZpg1KDQn4EF) | 3:26 |
 
-Snapshot ID: `MCxkMDI0MzI4MzgzYTEzYmYzMjJiNjA1MGI4YTIwZThlZDhmMjBkMGI0`
+Snapshot ID: `MCwyNThkMDRlM2U4NDIzZDBkMTNiZGVmZmY1ZjBkOWNmYmE3ZDU4ZjY4`

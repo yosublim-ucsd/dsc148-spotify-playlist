@@ -1,12 +1,12 @@
 {
   "description": "So smooth, so classic. Cover: George Benson",
-  "num_followers": 135677,
+  "num_followers": 135744,
   "original_name": "Smooth Jazz Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhYjNiZmRmMzYwYThmYmJiYzcyMjM5NGU1MjhlMjQ2NDVjN2Q2YTU3",
+  "snapshot_id": "MCw0NWQ4MTFmNjhkNGU4Yzk0YjQ4ZmNhNzNhNTQ3ZDIzYmRjZjhiMjZi",
   "tracks": [
     {
       "added_at": "2020-08-19 00:00:21",
@@ -603,22 +603,6 @@
     {
       "added_at": "2020-08-19 00:00:21",
       "album": {
-        "name": "The Power Of Touch",
-        "url": "https://open.spotify.com/album/1mBknqXixbFJaIlMzUD1N9"
-      },
-      "artists": [
-        {
-          "name": "Bobby Lyle",
-          "url": "https://open.spotify.com/artist/05uCfJ1rcdJWwsVUKDg9On"
-        }
-      ],
-      "duration_ms": 310893,
-      "name": "Aruban Nights",
-      "url": "https://open.spotify.com/track/022odEBLFu7Ryy7H3A6tkF"
-    },
-    {
-      "added_at": "2020-08-19 00:00:21",
-      "album": {
         "name": "Urban Knights",
         "url": "https://open.spotify.com/album/42IeRTNs12HRW0ql1jApJW"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 437133,
       "name": "Hearts Of Longing",
       "url": "https://open.spotify.com/track/22O3mkv6sEe3jpXRWXYFhY"
+    },
+    {
+      "added_at": "2020-08-19 00:00:21",
+      "album": {
+        "name": "The Power Of Touch",
+        "url": "https://open.spotify.com/album/1mBknqXixbFJaIlMzUD1N9"
+      },
+      "artists": [
+        {
+          "name": "Bobby Lyle",
+          "url": "https://open.spotify.com/artist/05uCfJ1rcdJWwsVUKDg9On"
+        }
+      ],
+      "duration_ms": 310893,
+      "name": "Aruban Nights",
+      "url": "https://open.spotify.com/track/022odEBLFu7Ryy7H3A6tkF"
     },
     {
       "added_at": "2020-08-19 00:00:21",
@@ -651,22 +651,6 @@
     {
       "added_at": "2020-08-19 00:00:21",
       "album": {
-        "name": "Yours Truly",
-        "url": "https://open.spotify.com/album/0Ru6eHAcH9inWvYlhr4c5w"
-      },
-      "artists": [
-        {
-          "name": "Tom Browne",
-          "url": "https://open.spotify.com/artist/4Ytvi4r3WPIZmEw1Ndmkp9"
-        }
-      ],
-      "duration_ms": 221640,
-      "name": "Charisma",
-      "url": "https://open.spotify.com/track/3Yahrb4joLsIIdUSqyHJZ4"
-    },
-    {
-      "added_at": "2020-08-19 00:00:21",
-      "album": {
         "name": "Ties That Bind",
         "url": "https://open.spotify.com/album/0zdK7TXke1dN1lbfGFR0cW"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 302600,
       "name": "You've Changed",
       "url": "https://open.spotify.com/track/4w1HnS1633fhFKlTirinC1"
+    },
+    {
+      "added_at": "2020-08-19 00:00:21",
+      "album": {
+        "name": "Yours Truly",
+        "url": "https://open.spotify.com/album/0Ru6eHAcH9inWvYlhr4c5w"
+      },
+      "artists": [
+        {
+          "name": "Tom Browne",
+          "url": "https://open.spotify.com/artist/4Ytvi4r3WPIZmEw1Ndmkp9"
+        }
+      ],
+      "duration_ms": 221640,
+      "name": "Charisma",
+      "url": "https://open.spotify.com/track/3Yahrb4joLsIIdUSqyHJZ4"
     },
     {
       "added_at": "2020-08-19 00:00:21",

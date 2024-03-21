@@ -4,7 +4,7 @@
 
 > The soundtrack to lazing around.
 
-193 songs - 11 hr 7 min
+194 songs - 11 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -182,7 +182,8 @@
 | [Till Forever Falls Apart](https://open.spotify.com/track/2769RhOZs0ezRncRW1vryp) | [Ashe](https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM), [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX) | [Till Forever Falls Apart](https://open.spotify.com/album/6hjheUnJ3Gp8ll5DuE1VUz) | 3:42 | 2023-06-30 |  |
 | [Tim McGraw \- Recorded At Spotify Studios NYC](https://open.spotify.com/track/5sn1BmEOPP1bu4cZq9OgoF) | [Maggie Rogers](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe) | [Spotify Singles](https://open.spotify.com/album/5lLa32kU65Y7mhYLMiEcXn) | 4:10 | 2022-05-27 | 2022-12-24 |
 | [Time After Time \- Spotify Singles](https://open.spotify.com/track/6vQCNDNbA0DQoSPftbzS1W) | [Lennon Stella](https://open.spotify.com/artist/1cZQSpDsxgKIX2yW5OR9Ot) | [Time After Time \(Spotify Singles\)](https://open.spotify.com/album/5lxUTVBhoeeAeleepOsBop) | 3:39 | 2023-08-08 | 2023-10-22 |
-| [Too Good to be True](https://open.spotify.com/track/4vIiVs5JoNfqqRi5o7jAIb) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Too Good to be True](https://open.spotify.com/album/57y7NpfTINlnrNitu8vwft) | 2:40 | 2024-03-01 |  |
+| [Too Good to be True](https://open.spotify.com/track/27RDQ0TfxzWMlQFuKrPT11) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Deeper Well](https://open.spotify.com/album/5SxZmGwc4eJuPp6PcO4JgJ) | 2:40 | 2024-03-15 |  |
+| [Too Good to be True](https://open.spotify.com/track/4vIiVs5JoNfqqRi5o7jAIb) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Too Good to be True](https://open.spotify.com/album/57y7NpfTINlnrNitu8vwft) | 2:40 | 2024-03-01 | 2024-03-21 |
 | [Traitor Joe](https://open.spotify.com/track/4EU5ykgudDvqTMhMzTSaAp) | [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0) | [Lucky](https://open.spotify.com/album/5DFed53ADZwnPOYuqoZJHK) | 2:33 | 2023-05-05 | 2023-07-01 |
 | [True Faith](https://open.spotify.com/track/6BUJtgTJT9YTDkiB81maFQ) | [Lotte Kestner](https://open.spotify.com/artist/0LmmhAkoebSsbFfgCybcGI) | [Stolen](https://open.spotify.com/album/5z547vNPv9ce16zYQINMAD) | 4:42 | 2023-02-25 | 2023-04-09 |
 | [Until I Found You \(with Em Beihold\) \- Em Beihold Version](https://open.spotify.com/track/1Y3LN4zO1Edc2EluIoSPJN) | [Stephen Sanchez](https://open.spotify.com/artist/5XKFrudbV4IiuE5WuTPRmT), [Em Beihold](https://open.spotify.com/artist/7o2ZQYM7nTsaVdkXY38UAA) | [Until I Found You \(Em Beihold Version\)](https://open.spotify.com/album/7ARtQpvnPN2ucbmVHngLOs) | 2:56 | 2022-11-22 |  |

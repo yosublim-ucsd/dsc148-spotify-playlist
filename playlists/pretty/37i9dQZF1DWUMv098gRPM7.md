@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUMv098gRPM7.md) - [plain]
 
 > A playback of <a href="https://open.spotify.com/playlist/37i9dQZF1DX2PG4mbkilf3?si=729501707e594624">Mood Ring</a>’s all\-stars\. Cover: CUBE
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,561 likes - 75 songs - 4 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,567 likes - 75 songs - 4 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,23 +65,23 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUMv098gRPM7.md) - [plain]
 | 55 | [The Glade](https://open.spotify.com/track/4tEeJe0AS4TbihaokDG6hG) | [Sean Leon](https://open.spotify.com/artist/5dtbsNKCK6Q9yZzdhZpaqW), [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [The Glade](https://open.spotify.com/album/4S7Tec2MGsAVBRvJGDLJQa) | 3:42 |
 | 56 | [Home](https://open.spotify.com/track/3X1R2hYu7PeUNG2rOd9b7w) | [Dylan Sinclair](https://open.spotify.com/artist/45RZn1pAEvQYqkRnvFaIJx) | [Proverb](https://open.spotify.com/album/0UGslTI60Tlnf3nRga8znK) | 3:21 |
 | 57 | [Strange](https://open.spotify.com/track/7Mh8TbrCLjGxkJg5TmlKC3) | [Alicia Creti](https://open.spotify.com/artist/0V0XsSn8lNPXAEEFG292iX) | [Strange](https://open.spotify.com/album/5wwOyVfErnVEhNXulI4JX3) | 3:08 |
-| 58 | [Touch You](https://open.spotify.com/track/1eloKbVFeduo6qxp7xqhQ0) | [Roy Woods](https://open.spotify.com/artist/7mDU6nMUJnOSY2Hkjz5oqM) | [Mixed Emotions](https://open.spotify.com/album/4UADm8zx1jjPisT4Gnn0NJ) | 2:38 |
-| 59 | [Different \(with Majid Jordan\)](https://open.spotify.com/track/0Eq1ybB9XnhbYBWFhKnNhn) | [Nonso Amadi](https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV), [Majid Jordan](https://open.spotify.com/artist/4HzKw8XcD0piJmDrrPRCYk) | [When It Blooms](https://open.spotify.com/album/6yJ4EJm92OdmuMy8ijBZGq) | 2:26 |
+| 58 | [Different \(with Majid Jordan\)](https://open.spotify.com/track/0Eq1ybB9XnhbYBWFhKnNhn) | [Nonso Amadi](https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV), [Majid Jordan](https://open.spotify.com/artist/4HzKw8XcD0piJmDrrPRCYk) | [When It Blooms](https://open.spotify.com/album/6yJ4EJm92OdmuMy8ijBZGq) | 2:26 |
+| 59 | [Touch You](https://open.spotify.com/track/1eloKbVFeduo6qxp7xqhQ0) | [Roy Woods](https://open.spotify.com/artist/7mDU6nMUJnOSY2Hkjz5oqM) | [Mixed Emotions](https://open.spotify.com/album/4UADm8zx1jjPisT4Gnn0NJ) | 2:38 |
 | 60 | [Awake](https://open.spotify.com/track/5XMtZsNkezcv695DQSZo0L) | [Chiiild](https://open.spotify.com/artist/2YqJwmohaNjg9lg51flSax), [Mahalia](https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI) | [Hope For Sale](https://open.spotify.com/album/2opiJIrYClkW7qD2vM6vSi) | 3:46 |
 | 61 | [be cool](https://open.spotify.com/track/6gILMXbilRDGSp6vexAg8r) | [LOONY](https://open.spotify.com/artist/0xSfdfhcXN6T8M5gt7VwK0) | [soft thing](https://open.spotify.com/album/4fVrjnFFBoVV4OEc5fBH1J) | 2:23 |
 | 62 | [Irrational](https://open.spotify.com/track/3x0l10FNuvRcdudE36y6XK) | [Shay Lia](https://open.spotify.com/artist/3sJQwG0SsGRyv5C5kh4o9a) | [Solaris](https://open.spotify.com/album/2iahJWQ2C6dwPj2oXG37FP) | 2:49 |
 | 63 | [Potent](https://open.spotify.com/track/4WjD33BNF24KCZkMWlLvlV) | [K\. Forest](https://open.spotify.com/artist/1uaS3ZokV40ZrpzSRhx4Ol) | [Memory Springs](https://open.spotify.com/album/1u8cMnEdxcystiFOb8DRWN) | 2:07 |
 | 64 | [Chill Pad Deluxe](https://open.spotify.com/track/1ZUFxryfVf5395tqMWlyRM) | [Majid Jordan](https://open.spotify.com/artist/4HzKw8XcD0piJmDrrPRCYk) | [Good People / Afterhours](https://open.spotify.com/album/4uvjayEmk2gpZmel3vSCj4) | 2:51 |
 | 65 | [Last One](https://open.spotify.com/track/4BMhlUG6LpQhcpvRuvfQRM) | [Savannah Ré](https://open.spotify.com/artist/3qfqqDpGv4XNfa3G0EfP9s), [Dylan Sinclair](https://open.spotify.com/artist/45RZn1pAEvQYqkRnvFaIJx) | [Last One](https://open.spotify.com/album/3tBjEC0oobiXFkfl6e9Qwq) | 3:01 |
-| 66 | [Looping](https://open.spotify.com/track/4HwuBZ2IqMpGpPyvmoB9b4) | [Charlotte Cardin](https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK) | [99 Nights](https://open.spotify.com/album/5RHDcbKUJ0isLtDr97nP9P) | 3:13 |
-| 67 | [Kilimanjaro \(with BEAM\)](https://open.spotify.com/track/3r8tz52ga3zUJwYyMe6lyM) | [Nonso Amadi](https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV), [BEAM](https://open.spotify.com/artist/46MWeeHNVMYRIIofQBEX98) | [When It Blooms](https://open.spotify.com/album/6yJ4EJm92OdmuMy8ijBZGq) | 3:11 |
+| 66 | [Kilimanjaro \(with BEAM\)](https://open.spotify.com/track/3r8tz52ga3zUJwYyMe6lyM) | [Nonso Amadi](https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV), [BEAM](https://open.spotify.com/artist/46MWeeHNVMYRIIofQBEX98) | [When It Blooms](https://open.spotify.com/album/6yJ4EJm92OdmuMy8ijBZGq) | 3:11 |
+| 67 | [Looping](https://open.spotify.com/track/4HwuBZ2IqMpGpPyvmoB9b4) | [Charlotte Cardin](https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK) | [99 Nights](https://open.spotify.com/album/5RHDcbKUJ0isLtDr97nP9P) | 3:13 |
 | 68 | [By My Side \(feat\. Kaash Paige\)](https://open.spotify.com/track/0OixmRL2iIbWyDH6rn77M7) | [SAFE](https://open.spotify.com/artist/3bnpcWBcvlfq4hPFJjNPbz), [Kaash Paige](https://open.spotify.com/artist/0f2YkMXwFNJNSX7MymevKE) | [Get Home SAFE \(Part 1\)](https://open.spotify.com/album/1DFMDukfXi9x0okLHjDNd9) | 1:56 |
-| 69 | [Entice Me](https://open.spotify.com/track/27Pdlv16GJgY0fpzOE36ZE) | [JON VINYL](https://open.spotify.com/artist/6PvScqSJuICxvoA3UDYPmu) | [Entice Me](https://open.spotify.com/album/78GOlXZOeGFibF6M4E7auT) | 2:36 |
-| 70 | [Live Inside](https://open.spotify.com/track/4OdIxs1Y7DXHxnqQxkP3tT) | [Katie Tupper](https://open.spotify.com/artist/4uReB9HwMdEgwDXredJoVW) | [Live Inside](https://open.spotify.com/album/1KQsxZhpiCYO1fvmmfqvvi) | 3:27 |
+| 69 | [Live Inside](https://open.spotify.com/track/4OdIxs1Y7DXHxnqQxkP3tT) | [Katie Tupper](https://open.spotify.com/artist/4uReB9HwMdEgwDXredJoVW) | [Live Inside](https://open.spotify.com/album/1KQsxZhpiCYO1fvmmfqvvi) | 3:27 |
+| 70 | [Entice Me](https://open.spotify.com/track/27Pdlv16GJgY0fpzOE36ZE) | [JON VINYL](https://open.spotify.com/artist/6PvScqSJuICxvoA3UDYPmu) | [Entice Me](https://open.spotify.com/album/78GOlXZOeGFibF6M4E7auT) | 2:36 |
 | 71 | [Freedom \(with BEAM\)](https://open.spotify.com/track/6TQeWWQMtSWFNgR7yxvcg6) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [BEAM](https://open.spotify.com/artist/46MWeeHNVMYRIIofQBEX98) | [Freedom.](https://open.spotify.com/album/28sV7wzuBcHijsmUJJ9kKJ) | 2:45 |
 | 72 | [Talk Luv](https://open.spotify.com/track/40rBLdeF1oAdGnX54xAddv) | [Zeina](https://open.spotify.com/artist/2saNOYtb2v8aXMmezcwAiI) | [Talk Luv](https://open.spotify.com/album/33vKJjr5IBomO5PhKQcVAX) | 2:44 |
 | 73 | [in ur motion](https://open.spotify.com/track/0Bh3BVPLMGyeeEKS8LW2ob) | [Lou Val](https://open.spotify.com/artist/6u3PN3PCsWLGsw1OffKQ2F) | [Goûter +](https://open.spotify.com/album/6OHBybRIcusOYfryQxiT6n) | 3:28 |
 | 74 | [Some Kinda Love](https://open.spotify.com/track/1kTvzk3atwk9K2YSFMtnzj) | [LOONY](https://open.spotify.com/artist/0xSfdfhcXN6T8M5gt7VwK0) | [Some Kinda Love](https://open.spotify.com/album/1bR9jE6phZUlbHi9wzqjlt) | 4:52 |
 | 75 | [LowKey \(feat\. Jayd Ink\)](https://open.spotify.com/track/1esyt62pq02xPShuaK5OpA) | [Full Crate](https://open.spotify.com/artist/0JeTRYMH7FoBiMcLXg1n8g), [Jayd Ink](https://open.spotify.com/artist/6TfJcKCr5hFsYZkq2k1Pac) | [LowKey \(feat\. Jayd Ink\)](https://open.spotify.com/album/5IymapBkxovOp4ELc4sQNy) | 2:53 |
 
-Snapshot ID: `MCwyZDc0ZTBjNTMwNGE5NDEzOTAwMjA5YmFlZDYzNGZiZWUyNjM3MzY3`
+Snapshot ID: `MCxjZTYxZDkwZmExNDAzN2ZlYzYxNmViZDE2ODFhOTMwZjEwNWU0OTA4`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX46zHlTTyolY.md) - [plain]
 
 > Music to see you through the tough times.
 
-[Spotify](https://open.spotify.com/user/spotify) - 273,171 likes - 100 songs - 6 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 273,266 likes - 100 songs - 6 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,8 +24,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX46zHlTTyolY.md) - [plain]
 | 14 | [a thousand years](https://open.spotify.com/track/6lanRgr6wXibZr8KgzXxBl) | [Christina Perri](https://open.spotify.com/artist/7H55rcKCfwqkyDFH9wpKM6) | [A Thousand Years](https://open.spotify.com/album/15yvc643iYfQtb6zh9NEJo) | 4:45 |
 | 15 | [Dancing On My Own](https://open.spotify.com/track/2BOqDYLOJBiMOXShCV1neZ) | [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [Only Human \(Deluxe\)](https://open.spotify.com/album/6Vip5A5NmEazvKuxj6GLYf) | 4:20 |
 | 16 | [Fix You](https://open.spotify.com/track/7LVHVU3tWfcxj5aiPFEW4Q) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [X&Y](https://open.spotify.com/album/4E7bV0pzG0LciBSWTszra6) | 4:55 |
-| 17 | [Wish You The Best](https://open.spotify.com/track/3gdPwk2wyOXNRnTA1KXnEr) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Broken By Desire To Be Heavenly Sent](https://open.spotify.com/album/0ECSyPejfD7oL95dD3jgoi) | 3:30 |
-| 18 | [Drops of Jupiter \(Tell Me\)](https://open.spotify.com/track/2hKdd3qO7cWr2Jo0Bcs0MA) | [Train](https://open.spotify.com/artist/3FUY2gzHeIiaesXtOAdB7A) | [Drops Of Jupiter](https://open.spotify.com/album/6j6Zgm7vzAZegr48UppFVT) | 4:19 |
+| 17 | [Drops of Jupiter \(Tell Me\)](https://open.spotify.com/track/2hKdd3qO7cWr2Jo0Bcs0MA) | [Train](https://open.spotify.com/artist/3FUY2gzHeIiaesXtOAdB7A) | [Drops Of Jupiter](https://open.spotify.com/album/6j6Zgm7vzAZegr48UppFVT) | 4:19 |
+| 18 | [Wish You The Best](https://open.spotify.com/track/3gdPwk2wyOXNRnTA1KXnEr) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Broken By Desire To Be Heavenly Sent](https://open.spotify.com/album/0ECSyPejfD7oL95dD3jgoi) | 3:30 |
 | 19 | [Stay With Me](https://open.spotify.com/track/5Nm9ERjJZ5oyfXZTECKmRt) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [In The Lonely Hour](https://open.spotify.com/album/08jWgM4vSkTose4blKBWov) | 2:52 |
 | 20 | [Easy On Me](https://open.spotify.com/track/0gplL1WMoJ6iYaPgMCL0gX) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [Easy On Me](https://open.spotify.com/album/224jZ4sUX7OhAuMwaxp86S) | 3:44 |
 | 21 | [All I Want](https://open.spotify.com/track/0NlGoUyOJSuSHmngoibVAs) | [Kodaline](https://open.spotify.com/artist/4BxCuXFJrSWGi1KHcVqaU4) | [In A Perfect World \(Expanded Edition\)](https://open.spotify.com/album/1ttGpGzOEi6JDDOHO4qD1y) | 5:05 |
@@ -86,8 +86,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX46zHlTTyolY.md) - [plain]
 | 76 | [I Don't Want to Wait](https://open.spotify.com/track/5MDQNJ7SZTytJwCbWKqJDL) | [Paula Cole](https://open.spotify.com/artist/08DLZqQd6XDAVteF9nSEJ1) | [This Fire](https://open.spotify.com/album/5cUiPJUUMfNQr0ELSDGscs) | 5:20 |
 | 77 | [Secret Love Song, Pt\. II](https://open.spotify.com/track/0NyRSfiU6ri61vku1xiLoD) | [Little Mix](https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp) | [Get Weird \(Expanded Edition\)](https://open.spotify.com/album/2FnfZiFMv7bmXAIATOJDHs) | 4:26 |
 | 78 | [Two Hearts](https://open.spotify.com/track/3rAZYyztPLBaQ7TTXdxk7m) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Two Hearts](https://open.spotify.com/album/7oiZpyHMQeOc1GMU7fBjSh) | 4:06 |
-| 79 | [Part Of Me](https://open.spotify.com/track/22UYp7aAy1XmIYZ1GsnJuB) | [Cian Ducrot](https://open.spotify.com/artist/49jTY62Cpw3RYo4dLuG43W) | [Part Of Me](https://open.spotify.com/album/5ELHOuo4BjMkzirsbyQnsv) | 3:22 |
-| 80 | [Thinking 'Bout Love](https://open.spotify.com/track/0YHH3qK8Ntqxcc2GFkRrPh) | [Wild Rivers](https://open.spotify.com/artist/59sBwR0jPSTrbMtuTkRPN5), [Wrabel](https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII) | [Thinking 'Bout Love](https://open.spotify.com/album/1L11rcXButW0xA46an3fRP) | 3:04 |
+| 79 | [Thinking 'Bout Love](https://open.spotify.com/track/0YHH3qK8Ntqxcc2GFkRrPh) | [Wild Rivers](https://open.spotify.com/artist/59sBwR0jPSTrbMtuTkRPN5), [Wrabel](https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII) | [Thinking 'Bout Love](https://open.spotify.com/album/1L11rcXButW0xA46an3fRP) | 3:04 |
+| 80 | [Part Of Me](https://open.spotify.com/track/22UYp7aAy1XmIYZ1GsnJuB) | [Cian Ducrot](https://open.spotify.com/artist/49jTY62Cpw3RYo4dLuG43W) | [Part Of Me](https://open.spotify.com/album/5ELHOuo4BjMkzirsbyQnsv) | 3:22 |
 | 81 | [She Used To Be Mine](https://open.spotify.com/track/2D4BSm5Z8Hq5zYbSgJwEOh) | [Sara Bareilles](https://open.spotify.com/artist/2Sqr0DXoaYABbjBo9HaMkM) | [What's Inside: Songs from Waitress](https://open.spotify.com/album/1s6codM2ZAB008t9GTyaEk) | 4:10 |
 | 82 | [I Can't Make You Love Me](https://open.spotify.com/track/69uJi5QsBtqlYkGURTBli8) | [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY) | [Luck Of The Draw](https://open.spotify.com/album/6blrkOZ0VmkhYPjfoD7eqf) | 5:32 |
 | 83 | [I Lost a Friend](https://open.spotify.com/track/3XwTKOAP8Syq2GAcKBCAmN) | [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX) | [Blood Harmony](https://open.spotify.com/album/2b7DunZFOVCs0QgiTI1FJW) | 3:57 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX46zHlTTyolY.md) - [plain]
 | 99 | [You Don't Know](https://open.spotify.com/track/5F7dkkzWdHWPpn9zOYu8Ng) | [Katelyn Tarver](https://open.spotify.com/artist/6i8Tae6takoQos2JZ4vdRn) | [Tired Eyes](https://open.spotify.com/album/1fMzgbBLV4vdE4Wp21F3PF) | 4:20 |
 | 100 | [Stone Cold](https://open.spotify.com/track/56twMOlq9DJc3EgpVUVIrW) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [Confident \(Deluxe Edition\)](https://open.spotify.com/album/3HV3ecmJJ2GmHM93vVVKXF) | 3:11 |
 
-Snapshot ID: `MCw3NmNiMzY5ZGM3MGMxM2YyYzIxYmUyZmZjMGY0YTNjOTBjOTA4OWFh`
+Snapshot ID: `MCwzOWM4ZmQ4ZTFiNmEyZWVjNjEwNTQ5ZjFhY2I0MjczYjljNjk3NjNm`

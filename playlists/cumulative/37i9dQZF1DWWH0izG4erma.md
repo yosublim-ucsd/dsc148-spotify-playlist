@@ -4,7 +4,7 @@
 
 > Country Music that rocks\. Cover: Ole 60
 
-345 songs - 19 hr 45 min
+346 songs - 19 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -317,7 +317,8 @@
 | [Varsity Type](https://open.spotify.com/track/6ib18tpFXAP1kVlzWMmJzD) | [Austin Meade](https://open.spotify.com/artist/7Jd98Mm2x1fQBzQmQOeX79) | [Varsity Type](https://open.spotify.com/album/3QMqwEyKKpfc60T6P46ImP) | 3:22 | 2022-05-27 | 2022-11-19 |
 | [Wait Outside](https://open.spotify.com/track/3FemRrmhLglpUFS3qOijE2) | [Parker McCollum](https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ) | [Gold Chain Cowboy](https://open.spotify.com/album/6uiblZVOgKdhYp96cSCtqu) | 3:21 | 2021-11-01 | 2023-11-18 |
 | [Waiting for the Thunder](https://open.spotify.com/track/0Rxgdpe1zgZ6ZzHgxSaYEJ) | [Blackberry Smoke](https://open.spotify.com/artist/5P1oS9DUTPEqcrmXDmX4p8) | [Like an Arrow](https://open.spotify.com/album/4r0Zb1FdEFbpF5olm5ZIW0) | 4:07 | 2021-11-01 |  |
-| [Wanna Be Saved](https://open.spotify.com/track/0QIycBLxxiOSt72lTxb61k) | [Austin Williams](https://open.spotify.com/artist/1VKH3J7gGkVyOX0sEqsFSR) | [Wanna Be Saved](https://open.spotify.com/album/1VQpcSSC03gR55vH8orBOz) | 3:08 | 2023-10-04 |  |
+| [Wanna Be Saved](https://open.spotify.com/track/0QIycBLxxiOSt72lTxb61k) | [Austin Williams](https://open.spotify.com/artist/1VKH3J7gGkVyOX0sEqsFSR) | [Wanna Be Saved](https://open.spotify.com/album/1VQpcSSC03gR55vH8orBOz) | 3:08 | 2023-10-04 | 2024-03-21 |
+| [Wanna Be Saved](https://open.spotify.com/track/46G8X46RVsqg0I57DjP8qh) | [Austin Williams](https://open.spotify.com/artist/1VKH3J7gGkVyOX0sEqsFSR) | [Wanna Be Saved](https://open.spotify.com/album/4BdjNaOmvOspT2oyHnVAtw) | 3:08 | 2024-03-15 |  |
 | [Washington Street \- Classen Sessions](https://open.spotify.com/track/4WyfXhoDYggNlRoAILAsXN) | [Josh Meloy](https://open.spotify.com/artist/3EVsC9ZK7QMDuK4FPcZaEq) | [Washington Street \(Classen Sessions\)](https://open.spotify.com/album/4MMY6CA8hyRFiLsSr5TgDs) | 3:44 | 2022-03-04 | 2022-07-25 |
 | [Wasted \(feat\. Kodak Black & Koe Wetzel\)](https://open.spotify.com/track/7ndDjjFDzw6Q68TmIzgHep) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7), [Koe Wetzel](https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ) | [Wasted \(feat\. Kodak Black & Koe Wetzel\)](https://open.spotify.com/album/3H6onVGHhKCNYV3ctLLMBf) | 2:35 | 2023-01-13 |  |
 | [Wastin' gas](https://open.spotify.com/track/42y5QLhmZUTAIvjxj9j5Lu) | [Dallas Smith](https://open.spotify.com/artist/2HgKf6VcQtGmAKpNXidtiC) | [Kids With Cars](https://open.spotify.com/album/1XzJfdGdA7Ta2mgetTQhRy) | 3:04 | 2023-01-20 | 2023-03-10 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaq9P62qly90.md) - [plain]
 
 > Conscious songs for everyday reflection.
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,657 likes - 50 songs - 3 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,659 likes - 50 songs - 3 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,9 +19,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaq9P62qly90.md) - [plain]
 | 9 | [Green Mountain State](https://open.spotify.com/track/0c7iF5fSBYxCuwsAv2z4iI) | [Trevor Hall](https://open.spotify.com/artist/3RMHexittaAZkf8zukkZB8) | [Chapter Of The Forest](https://open.spotify.com/album/0Tt5WHP4RdkQemDgD1QItP) | 4:34 |
 | 10 | [Laps Around The Sun](https://open.spotify.com/track/6TfJaJV86gzlrXy1K0S5Wp) | [Ziggy Alberts](https://open.spotify.com/artist/6tuPdaFPIytg3l2f51L7Hw) | [Laps Around The Sun](https://open.spotify.com/album/0nucTlCF9MJRacvHF4Oe8O) | 3:26 |
 | 11 | [Give Thanks \(feat\. Stick Figure\)](https://open.spotify.com/track/38kPL6TNtdNp871jAsVW1r) | [Iya Terra](https://open.spotify.com/artist/1uXHYeD8JQjkaIGvEARs4D), [Stick Figure](https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R) | [Sacred Sound](https://open.spotify.com/album/1mWCAdn4pHhjEHl9yVY796) | 3:36 |
-| 12 | [Storm Boy](https://open.spotify.com/track/7J4GmvwgVBKMS6BAWnhLwB) | [Xavier Rudd](https://open.spotify.com/artist/5lbM4g6bhxjNX7R5QHP2nD) | [Storm Boy](https://open.spotify.com/album/1hVCb34MRa3jaxuah3HHT7) | 3:59 |
+| 12 | [I Am](https://open.spotify.com/track/1a7xPbQ5QJJelGgSc4rmK8) | [Satsang](https://open.spotify.com/artist/5q73QGeZGnA3ChVIPxIvyc) | [The Story of You](https://open.spotify.com/album/6P3vOGSpgf7pHvJVpY9TLx) | 4:21 |
 | 13 | [Salvation](https://open.spotify.com/track/3QGTaRZJQTB5C1aKBNmnqq) | [Tash Sultana](https://open.spotify.com/artist/6zVFRTB0Y1whWyH7ZNmywf) | [Flow State](https://open.spotify.com/album/6EN8PtrmSzYfybaZQYYaOc) | 4:19 |
-| 14 | [I Am](https://open.spotify.com/track/1a7xPbQ5QJJelGgSc4rmK8) | [Satsang](https://open.spotify.com/artist/5q73QGeZGnA3ChVIPxIvyc) | [The Story of You](https://open.spotify.com/album/6P3vOGSpgf7pHvJVpY9TLx) | 4:21 |
+| 14 | [Storm Boy](https://open.spotify.com/track/7J4GmvwgVBKMS6BAWnhLwB) | [Xavier Rudd](https://open.spotify.com/artist/5lbM4g6bhxjNX7R5QHP2nD) | [Storm Boy](https://open.spotify.com/album/1hVCb34MRa3jaxuah3HHT7) | 3:59 |
 | 15 | [Summertime \(feat\. Citizen Cope\)](https://open.spotify.com/track/2WbZZGXlVWHEfrCG9mC0UV) | [Stick Figure](https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R), [Citizen Cope](https://open.spotify.com/artist/7enBrBojgBJuPPdqTq4Z5F) | [World on Fire](https://open.spotify.com/album/3nKRWuZAz6LwYgOauD2qKB) | 3:58 |
 | 16 | [A Reminder \(Remix\)](https://open.spotify.com/track/3kEJ2teFzjpSrDgpKVgPPr) | [Trevor Hall](https://open.spotify.com/artist/3RMHexittaAZkf8zukkZB8), [East Forest](https://open.spotify.com/artist/0okmfBroVgFuvvljnUbqPW) | [A Reminder \(Remix\)](https://open.spotify.com/album/3jDZSJd23RQUfCZvTAzPgA) | 4:45 |
 | 17 | [Nectar Drop](https://open.spotify.com/track/3QbtJmJeeh8JE5EtAD1Eh0) | [DJ Drez](https://open.spotify.com/artist/5j3iObqG7iT7utWpTTmC7F) | [Jahta Beat: The Lotus Memoirs](https://open.spotify.com/album/61GQtLkHRdK3jmnm9aoAFZ) | 4:00 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaq9P62qly90.md) - [plain]
 | 49 | [Warm Under the Light](https://open.spotify.com/track/0BKLqsA3UH88WgyGGhJy6W) | [Justin Nozuka](https://open.spotify.com/artist/1uquUYtkdKei0zuhBY9P0t) | [Low Tide](https://open.spotify.com/album/3K7A6Y2B2pRIuIG779YQ5f) | 3:54 |
 | 50 | [Lifeguard](https://open.spotify.com/track/38tJGBXQVq4BnKHBGCcdQ4) | [Nahko And Medicine For The People](https://open.spotify.com/artist/35fFUv2850L9CQjjNrLBpb) | [Take Your Power Back](https://open.spotify.com/album/2rMukh8IywcLklutZYSPZT) | 3:27 |
 
-Snapshot ID: `MCxiNGEyYzlmMzI0ODFkOTBjODE2NjRlYmIzOGU5NWM5NTExMWFkZTM2`
+Snapshot ID: `MCxiNDA1ZTY2OWViZjBhZjgxMDI5Y2ViNzdiNWFmYmE4ZDZjNDAwNWVj`

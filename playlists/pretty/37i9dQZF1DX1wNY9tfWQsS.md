@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1wNY9tfWQsS.md) - [plain]
 
 > A musical celebration of women in R&amp;B, from its earliest acts to its newest stars\. Cover: SZA and Lizzo
 
-[Spotify](https://open.spotify.com/user/spotify) - 532,619 likes - 50 songs - 3 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 532,780 likes - 50 songs - 3 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,8 +20,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1wNY9tfWQsS.md) - [plain]
 | 10 | [Girls Need Love \(with Drake\) \- Remix](https://open.spotify.com/track/14SaZBTjxlorHJQxXh01Hu) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Last Day Of Summer](https://open.spotify.com/album/4hTM8jZ8DCCqglmZUDMSPz) | 3:42 |
 | 11 | [Smooth Operator \- Single Version](https://open.spotify.com/track/1Hv1VTm8zeOeybub15mA2R) | [Sade](https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx) | [The Best of Sade](https://open.spotify.com/album/3uSWaQxJAdm5MWKQkQJNoK) | 4:18 |
 | 12 | [Me & U](https://open.spotify.com/track/4nFrcGM7MY1mpoQCC7Kefj) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [Me & U](https://open.spotify.com/album/0D1Qm49Hq9cwYbRDeC1HGa) | 3:12 |
-| 13 | [At Last](https://open.spotify.com/track/4Hhv2vrOTy89HFRcjU3QOx) | [Etta James](https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb) | [At Last!](https://open.spotify.com/album/7rd4PorIOPjPTy7qdUeeCt) | 2:59 |
-| 14 | [Doo Wop \(That Thing\)](https://open.spotify.com/track/0uEp9E98JB5awlA084uaIg) | [Ms\. Lauryn Hill](https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl) | [The Miseducation of Lauryn Hill](https://open.spotify.com/album/1BZoqf8Zje5nGdwZhOjAtD) | 5:20 |
+| 13 | [Doo Wop \(That Thing\)](https://open.spotify.com/track/0uEp9E98JB5awlA084uaIg) | [Ms\. Lauryn Hill](https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl) | [The Miseducation of Lauryn Hill](https://open.spotify.com/album/1BZoqf8Zje5nGdwZhOjAtD) | 5:20 |
+| 14 | [At Last](https://open.spotify.com/track/4Hhv2vrOTy89HFRcjU3QOx) | [Etta James](https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb) | [At Last!](https://open.spotify.com/album/7rd4PorIOPjPTy7qdUeeCt) | 2:59 |
 | 15 | [Respect](https://open.spotify.com/track/7s25THrKz86DM225dOYwnr) | [Aretha Franklin](https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok) | [I Never Loved a Man the Way I Love You](https://open.spotify.com/album/5WndWfzGwCkHzAbQXVkg2V) | 2:27 |
 | 16 | [On My Mama](https://open.spotify.com/track/7DswEZZthZ6piQpL25qGAM) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv) | [JAGUAR II](https://open.spotify.com/album/6WlGOgNNtpwFt2gfRFfqgZ) | 3:04 |
 | 17 | [Worth It.](https://open.spotify.com/track/7JgNAnCjJvL8hBR1kmCOFF) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [My 21st Century Blues](https://open.spotify.com/album/3U8n8LzBx2o9gYXvvNq4uH) | 4:06 |
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1wNY9tfWQsS.md) - [plain]
 | 23 | [Hrs & Hrs](https://open.spotify.com/track/3ncmoWTwJgx63LwMTyBCXf) | [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [Public Displays Of Affection: The Album](https://open.spotify.com/album/7fe4Mem3wWgY6zkTFuKUI9) | 3:24 |
 | 24 | [Killing Me Softly With His Song](https://open.spotify.com/track/3gsCAGsWr6pUm1Vy7CPPob) | [Roberta Flack](https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA) | [Killing Me Softly](https://open.spotify.com/album/4GxrvKiysSiDU1HHifh1PA) | 4:46 |
 | 25 | [Bloom](https://open.spotify.com/track/5utUZ5nv6y6dR8irsnOQEj) | [Aqyila](https://open.spotify.com/artist/4cXLEhsZ1W4T6qBiDYVih4) | [Bloom](https://open.spotify.com/album/7eSHhMZCCvJvubQ3plHlYZ) | 2:55 |
-| 26 | [Free Mind](https://open.spotify.com/track/2mzM4Y0Rnx2BDZqRnhQ5Q6) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [For Broken Ears](https://open.spotify.com/album/2sU8ByeYc5BOBFNDr58CGV) | 4:07 |
-| 27 | [When I See U](https://open.spotify.com/track/4iuNZTcvT9diFySSzVsnVS) | [Fantasia](https://open.spotify.com/artist/7xAcVHPiirnUqfdqo0USb1) | [Fantasia](https://open.spotify.com/album/42DybH3gl3WcfXAQySOEiX) | 3:37 |
+| 26 | [When I See U](https://open.spotify.com/track/4iuNZTcvT9diFySSzVsnVS) | [Fantasia](https://open.spotify.com/artist/7xAcVHPiirnUqfdqo0USb1) | [Fantasia](https://open.spotify.com/album/42DybH3gl3WcfXAQySOEiX) | 3:37 |
+| 27 | [Free Mind](https://open.spotify.com/track/2mzM4Y0Rnx2BDZqRnhQ5Q6) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [For Broken Ears](https://open.spotify.com/album/2sU8ByeYc5BOBFNDr58CGV) | 4:07 |
 | 28 | [Gonna Love Me](https://open.spotify.com/track/3nXrCAE44KlevAkQB2XWcN) | [Teyana Taylor](https://open.spotify.com/artist/4ULO7IGI3M2bo0Ap7B9h8a) | [K.T.S.E.](https://open.spotify.com/album/0mwf6u9KVhZDCNVyIi6JuU) | 2:46 |
 | 29 | [We Belong Together](https://open.spotify.com/track/3LmvfNUQtglbTrydsdIqFU) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [The Emancipation of Mimi](https://open.spotify.com/album/43iBTEWECK7hSnE0p6GgNo) | 3:21 |
 | 30 | [Goodies \(feat\. Petey Pablo\)](https://open.spotify.com/track/3dFwpxh2yH7C7p9BGEKLVB) | [Ciara](https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX), [Petey Pablo](https://open.spotify.com/artist/4Js9eYwAf9rypNtV8pNSw9) | [Goodies](https://open.spotify.com/album/71gUhKYZIWmmjqAHlY4Br3) | 3:43 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1wNY9tfWQsS.md) - [plain]
 | 49 | [Knock You Down](https://open.spotify.com/track/58FUwmyGUqkt53YPUcm7cJ) | [Keri Hilson](https://open.spotify.com/artist/63wjoROpeh5f11Qm93UiJ1), [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Ne\-Yo](https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj) | [In A Perfect World...](https://open.spotify.com/album/4FdIO8yB9bNtcWlRcStXvZ) | 5:26 |
 | 50 | [Ain't Nobody](https://open.spotify.com/track/53Za5vyGc1x7GxgJVRjRKc) | [Rufus](https://open.spotify.com/artist/3MCjwjfIor5FkK3h639qkW), [Chaka Khan](https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT) | [Stompin' At The Savoy](https://open.spotify.com/album/3j0kxKahatiR5d0sPPtTjP) | 4:45 |
 
-Snapshot ID: `MCxiNjUwNDEyYTI5NDY3ODM1ZDQwM2ZlNGE3ZWY4NjdiYjg5Nzc3MjU2`
+Snapshot ID: `MCxjYTI5YzU0Y2Q3NTAxODQ0M2Y5N2UyOGQ2MzIzOWEwYjg3MWMxN2Fi`

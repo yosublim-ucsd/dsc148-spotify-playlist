@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO08w0LV.md) - [plain]
 
 > This is Måneskin\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,114 likes - 36 songs - 1 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,115 likes - 36 songs - 1 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,4 +45,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO08w0LV.md) - [plain]
 | 35 | [Jolene](https://open.spotify.com/track/3iWSfaHoiphVIBMIwJHzpJ) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU), [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [Rockstar \(Deluxe\)](https://open.spotify.com/album/337iOvlhWakFamgb6x2vKN) | 3:12 |
 | 36 | [If I Can Dream \(From The Original Motion Picture Soundtrack ELVIS\)](https://open.spotify.com/track/4yibMEwSzelLmFtyXwWwZs) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [If I Can Dream \(From The Original Motion Picture Soundtrack ELVIS\)](https://open.spotify.com/album/5q021NVGXBp7c9QPpZnijt) | 3:16 |
 
-Snapshot ID: `Mjg1MTQxOTUsMDAwMDAwMDA2M2U1MGMzODY0Zjg4ZjQwMjI1NTczY2JiYTgxMjJmOA==`
+Snapshot ID: `Mjg1MTU2NjEsMDAwMDAwMDAxMzNlMDU4NmU5YTgwN2NhYjJmOGIxMTRmOTU3N2Q0Mg==`

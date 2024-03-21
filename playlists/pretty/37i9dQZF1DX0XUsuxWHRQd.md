@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0XUsuxWHRQd.md) - [plain]
 
 > New music from Gunna, Cardi B and Flo Milli.
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,814,383 likes - 50 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,817,509 likes - 50 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0XUsuxWHRQd.md) - [plain]
 | 49 | [WONDER WOMAN](https://open.spotify.com/track/0MCHjl3LM30HHru55EupsD) | [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk) | [WONDER WOMAN](https://open.spotify.com/album/4M2l5LrqtLdfMZPtgTyr9X) | 1:53 |
 | 50 | [Fuck Niggaz](https://open.spotify.com/track/7t0oBwFmXk5Ly7RIuf9c18) | [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [Fuck Niggaz](https://open.spotify.com/album/0M3WwyjxaPtVB2OEUVr5Fi) | 2:13 |
 
-Snapshot ID: `MCxlYTU0ZDIxOGI5MDBlNjRiYTVmMGM3MWJmM2VjNmQ0ZDE1N2M2ZDA3`
+Snapshot ID: `MCwwNDVhZDc1ZDllYTNmYTFjYjM2ZTk1YjNmYWIyNzdlNTAwOTlkZDQ3`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0Y4aXXQXWv.md) - [plain]
 
 > Les plus grands tubes de variété française d'hier et d'aujourd'hui.
 
-[Spotify](https://open.spotify.com/user/spotify) - 478,136 likes - 50 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 478,157 likes - 50 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0Y4aXXQXWv.md) - [plain]
 | 18 | [beau\-papa](https://open.spotify.com/track/5wXkbtZO1HsOQ1P75zi35p) | [Vianney](https://open.spotify.com/artist/4Nrd0CtP8txoQhnnlRA6V6) | [N'attendons pas](https://open.spotify.com/album/3iW7wfF8uocwH8Q6fqTK8Y) | 3:17 |
 | 19 | [Chanson sur ma drôle de vie \- Remasterisé en 2008](https://open.spotify.com/track/4lJKn6cDD3vpZrcg6oVTr1) | [Véronique Sanson](https://open.spotify.com/artist/4zxH2Yu5AvPNRdEDBz120D) | [De l'autre côté de mon rêve \(Remasterisé en 2008\)](https://open.spotify.com/album/0Q9C21oNmR48rRuFKf5t4b) | 2:41 |
 | 20 | [Sensualité](https://open.spotify.com/track/6ri4yWOtcfGpTcigL2YeBe) | [Axelle Red](https://open.spotify.com/artist/3gX7V7VCwOBz90t62hQHMw) | [Sans plus attendre](https://open.spotify.com/album/4hohzFtQgP88UliHfUWGnt) | 3:52 |
-| 21 | [Manhattan\-Kaboul](https://open.spotify.com/track/7eJdx83TiKsVqAzLFBelMO) | [Renaud](https://open.spotify.com/artist/15uNxh8omvRvH71kcdIe2r), [Axelle Red](https://open.spotify.com/artist/3gX7V7VCwOBz90t62hQHMw) | [Boucan d'enfer](https://open.spotify.com/album/1YQVhi1t8baYRJXDAEOvMG) | 3:50 |
-| 22 | [Je t'aimais, je t'aime, je t'aimerai \- Remastered](https://open.spotify.com/track/1sTWIzAlg8HapeWz2fXvfJ) | [Francis Cabrel](https://open.spotify.com/artist/5uo5NwSONVNfvSHHMQrHAv) | [Samedi soir sur la terre \(Remastered\)](https://open.spotify.com/album/4KXrFpUXZO6e5RdZ70HaK8) | 4:38 |
+| 21 | [Je t'aimais, je t'aime, je t'aimerai \- Remastered](https://open.spotify.com/track/1sTWIzAlg8HapeWz2fXvfJ) | [Francis Cabrel](https://open.spotify.com/artist/5uo5NwSONVNfvSHHMQrHAv) | [Samedi soir sur la terre \(Remastered\)](https://open.spotify.com/album/4KXrFpUXZO6e5RdZ70HaK8) | 4:38 |
+| 22 | [Manhattan\-Kaboul](https://open.spotify.com/track/7eJdx83TiKsVqAzLFBelMO) | [Renaud](https://open.spotify.com/artist/15uNxh8omvRvH71kcdIe2r), [Axelle Red](https://open.spotify.com/artist/3gX7V7VCwOBz90t62hQHMw) | [Boucan d'enfer](https://open.spotify.com/album/1YQVhi1t8baYRJXDAEOvMG) | 3:50 |
 | 23 | [Tout le bonheur du monde](https://open.spotify.com/track/2jY4XzyntBSe2ns2EwA2pL) | [Sinsémilia](https://open.spotify.com/artist/7xtiaP8V8z95pASVuIrCRY) | [Debout les yeux ouverts](https://open.spotify.com/album/4Bgs5Nfk9CN0L8QGvVig6H) | 3:49 |
 | 24 | [J'ai demandé à la lune](https://open.spotify.com/track/2QSAj76Ba6aMFX9RlXdUdO) | [Indochine](https://open.spotify.com/artist/7knmbOGe07k85GmK50vACB) | [Paradize](https://open.spotify.com/album/0YiSd3JeGUX4VIO8Po9TD4) | 3:29 |
 | 25 | [La grenade](https://open.spotify.com/track/7ixCRBD0FZMRBeOBhTu2KD) | [Clara Luciani](https://open.spotify.com/artist/2oVrruuEI0Dr2I4NvLtQS0) | [Sainte\-Victoire](https://open.spotify.com/album/4oOotUMoznVTdGWzdUoEuy) | 3:14 |
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0Y4aXXQXWv.md) - [plain]
 | 30 | [Toi + Moi](https://open.spotify.com/track/1cl6UxttwMTjJXsdyMDUde) | [Grégoire](https://open.spotify.com/artist/1WycOcJCIRAH5xyzHXtp1E) | [Toi + Moi](https://open.spotify.com/album/32VFugqdmRt8N8csnrlnZc) | 3:02 |
 | 31 | [Le chanteur](https://open.spotify.com/track/0VKxd6VnCZMv5uQCdC7qXf) | [Daniel Balavoine](https://open.spotify.com/artist/28IqYhzq3UU46bbY0mRgn7) | [Le chanteur \(Remastered\)](https://open.spotify.com/album/6iD2al84zRCSAx7RhShrDI) | 3:54 |
 | 32 | [On s'attache](https://open.spotify.com/track/4E8hgGDOwG5CpiEke6qZMT) | [Christophe Maé](https://open.spotify.com/artist/7jgnJBnpZTiGnCF2Wvka2Z) | [Mon paradis](https://open.spotify.com/album/6rpAch0Mi47JkOmyie7rxK) | 3:11 |
-| 33 | [Je te donne](https://open.spotify.com/track/55mXuPsEm6aboDIM68RM74) | [Jean\-Jacques Goldman](https://open.spotify.com/artist/2Cx19OTMqa6gpz2l60cGG2), [Michael Jones](https://open.spotify.com/artist/0AF8vOjsrk66ofuPhHCKqW) | [Non homologué](https://open.spotify.com/album/3svVRotnkGO3jhrPcCeeCA) | 4:25 |
-| 34 | [Désenchantée](https://open.spotify.com/track/15XYdD283tK9iyJzL738bn) | [Mylène Farmer](https://open.spotify.com/artist/0e04xgVBPU6mE2QkSHlufD) | [L'Autre](https://open.spotify.com/album/2P7i0qBBgJPxc01wRQU2DM) | 5:22 |
+| 33 | [Désenchantée](https://open.spotify.com/track/15XYdD283tK9iyJzL738bn) | [Mylène Farmer](https://open.spotify.com/artist/0e04xgVBPU6mE2QkSHlufD) | [L'Autre](https://open.spotify.com/album/2P7i0qBBgJPxc01wRQU2DM) | 5:22 |
+| 34 | [Je te donne](https://open.spotify.com/track/55mXuPsEm6aboDIM68RM74) | [Jean\-Jacques Goldman](https://open.spotify.com/artist/2Cx19OTMqa6gpz2l60cGG2), [Michael Jones](https://open.spotify.com/artist/0AF8vOjsrk66ofuPhHCKqW) | [Non homologué](https://open.spotify.com/album/3svVRotnkGO3jhrPcCeeCA) | 4:25 |
 | 35 | [Sous le vent](https://open.spotify.com/track/6VZB0ttlqGjpGMAcaomXh9) | [Garou](https://open.spotify.com/artist/1oXtLNYfNMQLxWsatCTCCn), [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [Seul](https://open.spotify.com/album/6t0eIKq8adhPxIWP6TWhgP) | 3:31 |
 | 36 | [Mais je t'aime](https://open.spotify.com/track/17NQyo1HsqDX7mbzsTWMuX) | [Grand Corps Malade](https://open.spotify.com/artist/3PsyPWjsftbfeXGorZv4AM), [Camille Lellouche](https://open.spotify.com/artist/6os4KQUfJoyJwjZ7y7Ec6Q) | [MESDAMES deluxe](https://open.spotify.com/album/6lZU65hX50fImkVKlSUdLh) | 4:30 |
 | 37 | [Un homme debout](https://open.spotify.com/track/0OgXPbATscAIQscpu4QffP) | [Claudio Capéo](https://open.spotify.com/artist/5KBbs98MK59UNMF1VTwMmz) | [Claudio Capéo \(Version deluxe\)](https://open.spotify.com/album/4Og72Rk9pjJ1OULtNaBcA1) | 3:26 |
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0Y4aXXQXWv.md) - [plain]
 | 40 | [Le Dernier Jour du Disco](https://open.spotify.com/track/2Yu8DEe4uc8ApN7t7q0P4s) | [Juliette Armanet](https://open.spotify.com/artist/61CPKXT0bcKj8MKTNTMOXa) | [Brûler le feu](https://open.spotify.com/album/0Og0gwH68Uw5zgVDpC53xN) | 3:27 |
 | 41 | [Face à la mer](https://open.spotify.com/track/4nz1v2ghmGRo3RTZKxaC3P) | [Calogero](https://open.spotify.com/artist/5Nq9MbzweBc5oL4WzsECx4), [Passi](https://open.spotify.com/artist/41o2A93SPxIUxsy5HQjvul) | [Calog3ro](https://open.spotify.com/album/1TfzspRmvBkDuIPZEG4ZdF) | 3:43 |
 | 42 | [Je fais de toi mon essentiel \(avec Anne\-Laure Girbal\)](https://open.spotify.com/track/6H4TH5ntp7KzYePysRBcuT) | [Emmanuel Moire](https://open.spotify.com/artist/5YIaZ0ICxZyNEsATQRsxRk), [Anne\-Laure Girbal](https://open.spotify.com/artist/3FM0IXK9lSh0crQZ8oG9CL) | [Je fais de toi mon essentiel](https://open.spotify.com/album/57zABxgnCQxZRCaLY1RAIH) | 3:19 |
-| 43 | [Quand la musique est bonne](https://open.spotify.com/track/0Wh6e5EkmQseBGVeJqzC9X) | [Jean\-Jacques Goldman](https://open.spotify.com/artist/2Cx19OTMqa6gpz2l60cGG2) | [Quand la musique est bonne](https://open.spotify.com/album/3yMtfupTbgavO0AxQbt3UZ) | 3:52 |
-| 44 | [Elle a les yeux revolver](https://open.spotify.com/track/1fU9wVDi3yZrawv1Rc4vcS) | [Marc Lavoine](https://open.spotify.com/artist/3K8EYZ4Ltg6ythgGZzrFXf) | [Marc Lavoine](https://open.spotify.com/album/1kGhulcVIZIB3TYTce9TDc) | 3:39 |
+| 43 | [Elle a les yeux revolver](https://open.spotify.com/track/1fU9wVDi3yZrawv1Rc4vcS) | [Marc Lavoine](https://open.spotify.com/artist/3K8EYZ4Ltg6ythgGZzrFXf) | [Marc Lavoine](https://open.spotify.com/album/1kGhulcVIZIB3TYTce9TDc) | 3:39 |
+| 44 | [Quand la musique est bonne](https://open.spotify.com/track/0Wh6e5EkmQseBGVeJqzC9X) | [Jean\-Jacques Goldman](https://open.spotify.com/artist/2Cx19OTMqa6gpz2l60cGG2) | [Quand la musique est bonne](https://open.spotify.com/album/3yMtfupTbgavO0AxQbt3UZ) | 3:52 |
 | 45 | [Il jouait du piano debout \- Remasterisé en 2004](https://open.spotify.com/track/3GfUHAoOSGy3hhEaTU34WV) | [France Gall](https://open.spotify.com/artist/22HVxZPA6UhBp8wahxDA6I) | [Paris, France \(Remasterisé en 2004\)](https://open.spotify.com/album/5Ni3yIgxhLwuC3B08SQ4r7) | 4:33 |
 | 46 | [Le sud](https://open.spotify.com/track/7zjkSx1EUums3s1Yg2jPJD) | [Nino Ferrer](https://open.spotify.com/artist/3THqHCN7gq2Z9hLleof9uv) | [Nino Ferrer](https://open.spotify.com/album/5M6ImA7adD4TpBV5wFq7DG) | 4:35 |
 | 47 | [Kid](https://open.spotify.com/track/1EIhcoMZ3See5L28kNvuFe) | [Eddy de Pretto](https://open.spotify.com/artist/7rFugkk9ZvVB1zXHg8h0rj) | [Cure](https://open.spotify.com/album/0B7trrXpu1IShSqzJfB2Tw) | 3:04 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0Y4aXXQXWv.md) - [plain]
 | 49 | [Foule sentimentale](https://open.spotify.com/track/2W4ZxAHZAXOf6r65pCskGR) | [Alain Souchon](https://open.spotify.com/artist/5LVp2pGNzmOQqXzziBBR5x) | [C'est déjà ça](https://open.spotify.com/album/2aZRmXEvD458ZCk1C0Wdu5) | 5:24 |
 | 50 | [L'envie](https://open.spotify.com/track/57zabaqzfjZVhxJeb0UZsP) | [Johnny Hallyday](https://open.spotify.com/artist/2HALYSe657tNJ1iKVXP2xA) | [Gang](https://open.spotify.com/album/68rZh6SfrK9JeYsJhTwDjg) | 3:50 |
 
-Snapshot ID: `MCw0NjA0MGY5MGE3NjAxNjkwNDFlNDA5Mzk2MGVhNTllMWQzMzk0MDg3`
+Snapshot ID: `MCxiMWM4NzljYWRjZTBmYTI5MmVmZjE1YTA2MjViMTFjM2U2MWU3NDJh`

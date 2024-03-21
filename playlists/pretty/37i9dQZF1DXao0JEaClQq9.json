@@ -1,12 +1,12 @@
 {
   "description": "Modern heavenly sounds. Cover: Caroline Polachek",
-  "num_followers": 1629428,
+  "num_followers": 1629593,
   "original_name": "Ethereal",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzZmZiYTNkYTJmM2M4OTQ4Mjk3NTRjMGM1NWI4NGFmMDRlOGQyZDhm",
+  "snapshot_id": "MCw3NmVjNDMxNjBkZDc3M2U3ZTY2YzEwYjRmNjdiY2RiMzNiNzNkZWE3",
   "tracks": [
     {
       "added_at": "2024-02-14 20:41:11",
@@ -1167,6 +1167,22 @@
     {
       "added_at": "2023-04-28 04:00:00",
       "album": {
+        "name": "Heaven To A Tortured Mind",
+        "url": "https://open.spotify.com/album/00R4y0gymycDUv9IVY7VvO"
+      },
+      "artists": [
+        {
+          "name": "Yves Tumor",
+          "url": "https://open.spotify.com/artist/0qu422H5MOoQxGjd4IzHbS"
+        }
+      ],
+      "duration_ms": 305506,
+      "name": "Kerosene!",
+      "url": "https://open.spotify.com/track/2OoKzfr7RB5o9cxHArUoIS"
+    },
+    {
+      "added_at": "2023-04-28 04:00:00",
+      "album": {
         "name": "Desire, I Want To Turn Into You",
         "url": "https://open.spotify.com/album/22PkV1Le9P3X4RY4xtmK0q"
       },
@@ -1187,22 +1203,6 @@
       "duration_ms": 245124,
       "name": "Fly To You (feat. Grimes and Dido)",
       "url": "https://open.spotify.com/track/0RVn3A5FHQ8OgiIxuRkepW"
-    },
-    {
-      "added_at": "2023-04-28 04:00:00",
-      "album": {
-        "name": "Heaven To A Tortured Mind",
-        "url": "https://open.spotify.com/album/00R4y0gymycDUv9IVY7VvO"
-      },
-      "artists": [
-        {
-          "name": "Yves Tumor",
-          "url": "https://open.spotify.com/artist/0qu422H5MOoQxGjd4IzHbS"
-        }
-      ],
-      "duration_ms": 305506,
-      "name": "Kerosene!",
-      "url": "https://open.spotify.com/track/2OoKzfr7RB5o9cxHArUoIS"
     },
     {
       "added_at": "2023-04-28 04:00:00",
@@ -1273,20 +1273,24 @@
       "url": "https://open.spotify.com/track/5i5fCpsnqDJ9AfeObgd0gW"
     },
     {
-      "added_at": "2023-04-28 04:00:00",
+      "added_at": "2024-03-15 02:40:39",
       "album": {
-        "name": "Titanic Rising",
-        "url": "https://open.spotify.com/album/0Cuqhgy8vm96JEkBY3polk"
+        "name": "Good Torture (with Elyanna)",
+        "url": "https://open.spotify.com/album/5xhbojvUylmbWTsaCgISZr"
       },
       "artists": [
         {
-          "name": "Weyes Blood",
-          "url": "https://open.spotify.com/artist/3Uqu1mEdkUJxPe7s31n1M9"
+          "name": "Sevdaliza",
+          "url": "https://open.spotify.com/artist/5MraexJKZDrQYzS98kNwie"
+        },
+        {
+          "name": "Elyanna",
+          "url": "https://open.spotify.com/artist/0jIWKlfmD4Ew7HeVVrq03g"
         }
       ],
-      "duration_ms": 353732,
-      "name": "Movies",
-      "url": "https://open.spotify.com/track/6f4itfvWzS59Qu7JWorhxn"
+      "duration_ms": 200787,
+      "name": "Good Torture (with Elyanna)",
+      "url": "https://open.spotify.com/track/3s29qreJr2KU7BFSiDtw0U"
     }
   ],
   "unique_name": "Ethereal",

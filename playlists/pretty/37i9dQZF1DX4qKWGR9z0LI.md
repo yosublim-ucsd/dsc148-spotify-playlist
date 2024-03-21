@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4qKWGR9z0LI.md) - [plain]
 
 > Lo último y lo mejor de la salsa\. Cover: Christian Alicea
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,811,844 likes - 100 songs - 7 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,811,855 likes - 100 songs - 7 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,15 +62,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4qKWGR9z0LI.md) - [plain]
 | 52 | [Incomprendido](https://open.spotify.com/track/26PPEd7Q5tpmFLpAFmpUIl) | [Rawayana](https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2), [Neutro Shorty](https://open.spotify.com/artist/5wUO3A6DT4tO5UDz21kE2Y), [Orestes Gomez](https://open.spotify.com/artist/6XToOxid134FKnslBTQZW1) | [Incomprendido](https://open.spotify.com/album/1QquGCJr1NtfXM1quq6qAw) | 2:59 |
 | 53 | [MAFIOSA](https://open.spotify.com/track/1X1vW0xDpkOS35ZxcPqLv6) | [NATHY PELUSO](https://open.spotify.com/artist/3VHAySZQPlfGlNLslzXYpN) | [MAFIOSA](https://open.spotify.com/album/2UViwTgvnwO2aKYLFrQ9RH) | 4:26 |
 | 54 | [Rebelión](https://open.spotify.com/track/3v32VtMTRZbIQJUFsQpeJD) | [Joe Arroyo](https://open.spotify.com/artist/7BFnoFhJjLWcsqmN3Hizqg), [La Verdad](https://open.spotify.com/artist/54h3j85gGrqCsfK8D0RuUM) | [Grandes Exitos](https://open.spotify.com/album/20o8eVLMPNGaa5Lp5W2a51) | 4:47 |
-| 55 | [Amantes Suicidas](https://open.spotify.com/track/1JhNmwO8Y04b4XidpSrytb) | [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [Autopoiética](https://open.spotify.com/album/1P3veSTOBbA57c6nndi5xI) | 3:58 |
-| 56 | [En Otra Cama](https://open.spotify.com/track/22k8A4wCNKyfpLfzxnL3lo) | [Jerry Rivera](https://open.spotify.com/artist/7wOZy3KdFVVINgNFFxkxwO) | [En Otra Cama](https://open.spotify.com/album/7vUdOpuX16e2IW7L2vc9H2) | 3:47 |
+| 55 | [En Otra Cama](https://open.spotify.com/track/22k8A4wCNKyfpLfzxnL3lo) | [Jerry Rivera](https://open.spotify.com/artist/7wOZy3KdFVVINgNFFxkxwO) | [En Otra Cama](https://open.spotify.com/album/7vUdOpuX16e2IW7L2vc9H2) | 3:47 |
+| 56 | [Amantes Suicidas](https://open.spotify.com/track/1JhNmwO8Y04b4XidpSrytb) | [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [Autopoiética](https://open.spotify.com/album/1P3veSTOBbA57c6nndi5xI) | 3:58 |
 | 57 | [Cambio de Piel](https://open.spotify.com/track/3AjxOdecZ2eKDL0aOtcYsJ) | [Marc Anthony](https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6) | [3.0](https://open.spotify.com/album/6vBpLg3T8bojcqzoKI6m0R) | 4:39 |
 | 58 | [El Amor de Mi Vida "Se Fue"](https://open.spotify.com/track/3iPlRUr1BKFQVlVM6zxFWl) | [Grupo Galé](https://open.spotify.com/artist/4152ZUds7gXsqYQexUonDP) | [Auténtico](https://open.spotify.com/album/2Nfgyq7smkbHjmz5Rnz7zD) | 4:39 |
 | 59 | [Ella Se Hizo Deseo](https://open.spotify.com/track/60T9E5dxb4076R7fv3Njjo) | [Tito Rojas](https://open.spotify.com/artist/2kgCV0fFS0wt3q6M5B39nH) | [Sensual](https://open.spotify.com/album/6UN6viB3vjqwZM1rMZGS1A) | 5:02 |
 | 60 | [Con la Punta del Pie](https://open.spotify.com/track/4rt2zpNhFBayp948Pi6liZ) | [La Gloria Matancera](https://open.spotify.com/artist/4dCNiyQXmtiWA157q3uFyj) | [Pare Cochero](https://open.spotify.com/album/1tABZ6rAzFtf9fizgXslIU) | 3:37 |
 | 61 | [Vivir Lo Nuestro](https://open.spotify.com/track/0LIZVQBQtDi4lLhB83qJIp) | [LA INDIA](https://open.spotify.com/artist/3NIZFmehJM8YiGpCdihlck), [Marc Anthony](https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6) | [Desde Un Principio / From The Beginning](https://open.spotify.com/album/5d7Tr9DguGh9z9oByKWYoI) | 6:06 |
-| 62 | [El Gran Varon](https://open.spotify.com/track/3TyMFBLPobtMaH8oeY0sMP) | [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW) | [Legal Alien \- Top Secrets](https://open.spotify.com/album/3lrV32bX7EIcNKn4OHXrkQ) | 6:54 |
-| 63 | [Salsa Con Coco](https://open.spotify.com/track/3Xy4svERcnUuFcOaBI0539) | [Pochy Y Su Cocoband](https://open.spotify.com/artist/5AWKC0rd625VHM69d7X2tu) | [El Arrollador](https://open.spotify.com/album/2JWLAvJiDRdUJfrr2Xhfju) | 4:54 |
+| 62 | [Salsa Con Coco](https://open.spotify.com/track/3Xy4svERcnUuFcOaBI0539) | [Pochy Y Su Cocoband](https://open.spotify.com/artist/5AWKC0rd625VHM69d7X2tu) | [El Arrollador](https://open.spotify.com/album/2JWLAvJiDRdUJfrr2Xhfju) | 4:54 |
+| 63 | [El Gran Varon](https://open.spotify.com/track/3TyMFBLPobtMaH8oeY0sMP) | [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW) | [Legal Alien \- Top Secrets](https://open.spotify.com/album/3lrV32bX7EIcNKn4OHXrkQ) | 6:54 |
 | 64 | [Tu Vida en la Mía](https://open.spotify.com/track/4jzPGm9YsNvFvpL5as5DVc) | [Marc Anthony](https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6) | [OPUS](https://open.spotify.com/album/0iSDto0c8PqIKtwrYS4lbh) | 6:14 |
 | 65 | [Cachondea](https://open.spotify.com/track/4TedxdAWvmtDCpYY9M6kue) | [Fruko Y Sus Tesos](https://open.spotify.com/artist/5aAlzehdUM14I4ppq24Xob) | [Descarga Espectacular](https://open.spotify.com/album/6NK3Dj0pKVYzY7IUsTDsvP) | 4:57 |
 | 66 | [Señor Mentira](https://open.spotify.com/track/7uebcjB4PNrMzTUdxCefno) | [Daniela Darcourt](https://open.spotify.com/artist/4exGY59juoSimpcH1NiuaR) | [Esa Soy Yo](https://open.spotify.com/album/0RLzeH2Sc7cbzCoUq5V4Lk) | 4:29 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4qKWGR9z0LI.md) - [plain]
 | 99 | [Maria Teresa y Danilo](https://open.spotify.com/track/1IwIFav8Pfr5oijgcRQ7O9) | [Hansel Y Raul](https://open.spotify.com/artist/2BXQwWUSIivZCgT0EqLx6g) | [10 De Colección](https://open.spotify.com/album/6pK55Oxs97bSeKxt0eGuIH) | 4:46 |
 | 100 | [No Vale La Pena](https://open.spotify.com/track/1uqmUXgzSFlIf3ZzoSeWN7) | [Johnny Rivera](https://open.spotify.com/artist/6IcML1o1dzmMwBim7hyirf), [Ray Sepulveda](https://open.spotify.com/artist/7FszsCzE5zryW0pO8Bc5f7) | [Salsa Legends](https://open.spotify.com/album/2QuOloo4ttkd4SxYzgu5nT) | 5:58 |
 
-Snapshot ID: `MCw3ZGRhZDkwMmRjNTYwNDQ0ODAxYzljYTc5OTI1NTNhZDU1MTdkMWNi`
+Snapshot ID: `MCwyNWVlMzdlNDE2NGRhNDNmM2NjNmMyNzM0Y2ExNzFlZmE0MzA0NjQ1`

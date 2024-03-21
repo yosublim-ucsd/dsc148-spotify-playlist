@@ -4,7 +4,7 @@
 
 > The songs you love, in ways you’ve never heard before\. Cover: Norah Jones & Remi Wof
 
-421 songs - 1 day 1 hr 59 min
+422 songs - 1 day 2 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -134,7 +134,7 @@
 | [Flume \- Spotify Singles](https://open.spotify.com/track/6DaG27cevNVA1lozVKd6dw) | [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX) | [Spotify Singles](https://open.spotify.com/album/3Cxj3L18VM6Iytn2CeQw4j) | 3:51 | 2022-03-09 | 2022-12-14 |
 | [Fool's Gold \- Recorded At RAK Studios, London](https://open.spotify.com/track/3AY6H68WNMDzWw9JhPW4Jv) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [Spotify Singles](https://open.spotify.com/album/5Zi0SV2aU0OjmV9k2K1NVi) | 3:24 | 2022-06-07 |  |
 | [Fool's Gold \- Recorded At RAK Studios, London](https://open.spotify.com/track/5PTYfTSOaDdpJWV5u8MBWT) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [Spotify Singles](https://open.spotify.com/album/4g4c2rJ1Jwipxrvl568KtG) | 3:24 | 2021-09-24 | 2022-07-29 |
-| [For You \- Recorded At Spotify Studios Stockholm](https://open.spotify.com/track/4AHIgOApMmqVfpvc1hxK6x) | [Seinabo Sey](https://open.spotify.com/artist/4X0v8sFoDZ6rIfkeOeVm2i) | [Spotify Singles](https://open.spotify.com/album/2up3OPMp9Tb4dAKM2erWXQ) | 3:25 | 2021-09-24 |  |
+| [For You \- Recorded At Spotify Studios Stockholm](https://open.spotify.com/track/4AHIgOApMmqVfpvc1hxK6x) | [Seinabo Sey](https://open.spotify.com/artist/4X0v8sFoDZ6rIfkeOeVm2i) | [Spotify Singles](https://open.spotify.com/album/2up3OPMp9Tb4dAKM2erWXQ) | 3:25 | 2021-09-24 | 2024-03-21 |
 | [Freak Like Me \- Spotify Singles](https://open.spotify.com/track/7lxF9OOlLhxslC3BEDIMfB) | [Chlöe](https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR) | [Spotify Singles](https://open.spotify.com/album/0aTksyiafCXTH3jbUIkwVs) | 3:08 | 2022-10-03 |  |
 | [Friday I’m In Love \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/07vS8obfeZbr8H4MgQfXR7) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Spotify Singles](https://open.spotify.com/album/1y2zWE0vkqUSXZ92lFAO2P) | 3:40 | 2021-09-24 | 2022-07-29 |
 | [Friday I’m In Love \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/6vC7mF2CXYW6MVF2voO4FU) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Spotify Singles](https://open.spotify.com/album/3k3IHMRB7BZEf9VEh4HZsm) | 3:40 | 2022-06-07 |  |
@@ -281,6 +281,7 @@
 | [Nothing from Nothing \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/5YLpIdoLpKPSPCamFAKUCi) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [Spotify Singles](https://open.spotify.com/album/5n4jQZpHLAWOVccZKttKSD) | 1:51 | 2021-09-24 |  |
 | [Obsession \- Recorded At Sound Stage Nashville](https://open.spotify.com/track/5sA2geKL9Ocm79kmNjiHz7) | [Hillsong Worship](https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24) | [Spotify Singles](https://open.spotify.com/album/32tGEI5vhc1FfmDO3JBG1n) | 5:56 | 2021-09-24 | 2022-07-19 |
 | [ocean eyes \- Recorded Live at Jungle City Studios](https://open.spotify.com/track/7rLokcIMP9p8fl0iROdVfC) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [Spotify Singles](https://open.spotify.com/album/5AS789PRyPv5B6l17kLfAW) | 3:04 | 2021-09-24 |  |
+| [Ode To The Mets \- Spotify Singles](https://open.spotify.com/track/0Yg8GLyRPafmqNcgY9Pjnd) | [Daria Zawiałow](https://open.spotify.com/artist/0tdKRrbItnLj40yUFi23jx), [Albert Hammond Jr](https://open.spotify.com/artist/1Li0eIWeMeWcOOWpImcG9H) | [Spotify Singles](https://open.spotify.com/album/6fj664eI7LI2Ngcu76YVWq) | 4:50 | 2024-03-20 |  |
 | [One Kiss \- Recorded At Spotify Studios Stockholm](https://open.spotify.com/track/3T8dc6UY2XubK8BTrYizA4) | [Scarlet Pleasure](https://open.spotify.com/artist/7wrulS1dfanckBnoxxEuS6) | [Spotify Singles](https://open.spotify.com/album/3dCEhJoGxyinkbmxtwk6dP) | 3:02 | 2021-09-24 | 2022-06-12 |
 | [One More Cup of Coffee \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/1XLJxAcTdnMIeQpsvdfkSv) | [Grouplove](https://open.spotify.com/artist/3kVUvbeRdcrqQ3oHk5hPdx) | [Spotify Singles](https://open.spotify.com/album/0uneTqrqMeF49ETtLvVOcl) | 3:21 | 2022-03-24 | 2022-04-21 |
 | [One More Try \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/0QeopWycQsDAo0p1sp3OcQ) | [LeAnn Rimes](https://open.spotify.com/artist/2d3VHzlOEwXvmBdS4pzOPL) | [Spotify Singles](https://open.spotify.com/album/1aKSRHzPIuoTP2sbcT7iRi) | 5:12 | 2021-09-24 | 2022-07-25 |

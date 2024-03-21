@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Pasad\u00eda y sabrosura!",
-  "num_followers": 29375,
+  "num_followers": 29401,
   "original_name": "\u00c9xitos de Balneario",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1ZDMwMmE1MjRiNGIwY2UzZDNmMTcxZjQwOTM4YTQ2NWM2MGU2ZDFm",
+  "snapshot_id": "MCwxMjVjMDMzNDVhYTJhYWRhNmJjODg3MWIyOWVlYjVlYmFlYTFhMjgz",
   "tracks": [
     {
       "added_at": "2021-12-16 22:41:17",
@@ -1083,22 +1083,6 @@
     {
       "added_at": "2021-12-16 22:41:17",
       "album": {
-        "name": "Mentirosa",
-        "url": "https://open.spotify.com/album/1WfKKkx38gcIJrdekcDwO4"
-      },
-      "artists": [
-        {
-          "name": "Roberto Antonio",
-          "url": "https://open.spotify.com/artist/1OuxoQIMrPUQOoshgkopYx"
-        }
-      ],
-      "duration_ms": 231183,
-      "name": "Noches de Fantasia",
-      "url": "https://open.spotify.com/track/3PeQq6jHoOXcEi3OjDO6xu"
-    },
-    {
-      "added_at": "2021-12-16 22:41:17",
-      "album": {
         "name": "Mar y Luna",
         "url": "https://open.spotify.com/album/1YZPTBbRDZKhSlLbXjbjhp"
       },
@@ -1111,6 +1095,22 @@
       "duration_ms": 260466,
       "name": "Mar y Luna",
       "url": "https://open.spotify.com/track/004uWjBm1cOgxJAwQb6X8P"
+    },
+    {
+      "added_at": "2021-12-16 22:41:17",
+      "album": {
+        "name": "Mentirosa",
+        "url": "https://open.spotify.com/album/1WfKKkx38gcIJrdekcDwO4"
+      },
+      "artists": [
+        {
+          "name": "Roberto Antonio",
+          "url": "https://open.spotify.com/artist/1OuxoQIMrPUQOoshgkopYx"
+        }
+      ],
+      "duration_ms": 231183,
+      "name": "Noches de Fantasia",
+      "url": "https://open.spotify.com/track/3PeQq6jHoOXcEi3OjDO6xu"
     },
     {
       "added_at": "2021-12-16 22:41:17",
@@ -1235,22 +1235,22 @@
     {
       "added_at": "2021-12-16 22:41:17",
       "album": {
-        "name": "\u00a1Para Bailar!",
-        "url": "https://open.spotify.com/album/371uwra4kQVB4GyUxSSHGs"
+        "name": "Muy Tropical y Bailable - 16 Exitos",
+        "url": "https://open.spotify.com/album/4zqlca5cQmkCPhL0ZZr3P8"
       },
       "artists": [
         {
-          "name": "The Latin Brothers",
-          "url": "https://open.spotify.com/artist/2AiZXMqpVlCDnz3trZbWaK"
+          "name": "Rodolfo Aicardi",
+          "url": "https://open.spotify.com/artist/3IUAZiICL3J7GlHYPgT414"
         },
         {
-          "name": "Jose\u00edto Mart\u00ednez",
-          "url": "https://open.spotify.com/artist/2tw2BrnDHhErZuk7ePrZcC"
+          "name": "La Tipica Ra7",
+          "url": "https://open.spotify.com/artist/0WJbT6T0nkWfYO5zEbUPOG"
         }
       ],
-      "duration_ms": 204604,
-      "name": "Sobre las Olas",
-      "url": "https://open.spotify.com/track/2ldG5rONyzUeVGIjzqbHOI"
+      "duration_ms": 244506,
+      "name": "Tabaco y Ron",
+      "url": "https://open.spotify.com/track/2jOuQXGCCVHrQeVzyNLwb9"
     },
     {
       "added_at": "2021-12-16 22:41:17",
@@ -1271,22 +1271,38 @@
     {
       "added_at": "2021-12-16 22:41:17",
       "album": {
-        "name": "Muy Tropical y Bailable - 16 Exitos",
-        "url": "https://open.spotify.com/album/4zqlca5cQmkCPhL0ZZr3P8"
+        "name": "\u00a1Para Bailar!",
+        "url": "https://open.spotify.com/album/371uwra4kQVB4GyUxSSHGs"
       },
       "artists": [
         {
-          "name": "Rodolfo Aicardi",
-          "url": "https://open.spotify.com/artist/3IUAZiICL3J7GlHYPgT414"
+          "name": "The Latin Brothers",
+          "url": "https://open.spotify.com/artist/2AiZXMqpVlCDnz3trZbWaK"
         },
         {
-          "name": "La Tipica Ra7",
-          "url": "https://open.spotify.com/artist/0WJbT6T0nkWfYO5zEbUPOG"
+          "name": "Jose\u00edto Mart\u00ednez",
+          "url": "https://open.spotify.com/artist/2tw2BrnDHhErZuk7ePrZcC"
         }
       ],
-      "duration_ms": 244506,
-      "name": "Tabaco y Ron",
-      "url": "https://open.spotify.com/track/2jOuQXGCCVHrQeVzyNLwb9"
+      "duration_ms": 204604,
+      "name": "Sobre las Olas",
+      "url": "https://open.spotify.com/track/2ldG5rONyzUeVGIjzqbHOI"
+    },
+    {
+      "added_at": "2021-12-16 22:41:17",
+      "album": {
+        "name": "A Bailar Tropical",
+        "url": "https://open.spotify.com/album/4jsWeqoxStBEjucGK7Quuv"
+      },
+      "artists": [
+        {
+          "name": "Rodolfo Su Tipica",
+          "url": "https://open.spotify.com/artist/5qBFpNp9zx5aihCltUNxAJ"
+        }
+      ],
+      "duration_ms": 173490,
+      "name": "Carola",
+      "url": "https://open.spotify.com/track/5ruhUADQWwKmsaFBZH4yFO"
     },
     {
       "added_at": "2021-12-16 22:41:17",
@@ -1319,22 +1335,6 @@
       "duration_ms": 227333,
       "name": "El la Enga\u00f1\u00f3",
       "url": "https://open.spotify.com/track/5jr886Foyigc6j1qtJtvsX"
-    },
-    {
-      "added_at": "2021-12-16 22:41:17",
-      "album": {
-        "name": "A Bailar Tropical",
-        "url": "https://open.spotify.com/album/4jsWeqoxStBEjucGK7Quuv"
-      },
-      "artists": [
-        {
-          "name": "Rodolfo Su Tipica",
-          "url": "https://open.spotify.com/artist/5qBFpNp9zx5aihCltUNxAJ"
-        }
-      ],
-      "duration_ms": 173490,
-      "name": "Carola",
-      "url": "https://open.spotify.com/track/5ruhUADQWwKmsaFBZH4yFO"
     },
     {
       "added_at": "2021-12-16 22:41:17",

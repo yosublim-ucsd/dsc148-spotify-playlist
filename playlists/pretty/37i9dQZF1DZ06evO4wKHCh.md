@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4wKHCh.md) - [plain]
 
 > This is Emei\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,400 likes - 18 songs - 43 min 20 sec
+[Spotify](https://open.spotify.com/user/spotify) - 3,429 likes - 18 songs - 43 min 20 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Better People To Leave On Read](https://open.spotify.com/track/7szJfhzlrGh2hkNwEPDWpn) | [Emei](https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU) | [Better People To Leave On Read](https://open.spotify.com/album/5jHDAAIvcOrvVKaq8CsU9A) | 2:11 |
-| 2 | [Love Me Not](https://open.spotify.com/track/6UumSbVp1ae6IfcOWDo1oL) | [Emei](https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU) | [Love Me Not](https://open.spotify.com/album/7xUn31DxHbMMH8oNTeI4uh) | 2:20 |
+| 1 | [Love Me Not](https://open.spotify.com/track/6UumSbVp1ae6IfcOWDo1oL) | [Emei](https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU) | [Love Me Not](https://open.spotify.com/album/7xUn31DxHbMMH8oNTeI4uh) | 2:20 |
+| 2 | [Better People To Leave On Read](https://open.spotify.com/track/7szJfhzlrGh2hkNwEPDWpn) | [Emei](https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU) | [Better People To Leave On Read](https://open.spotify.com/album/5jHDAAIvcOrvVKaq8CsU9A) | 2:11 |
 | 3 | [Scatterbrain](https://open.spotify.com/track/0LVdV9NG0y0ROxbYLpjbKc) | [Emei](https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU) | [Scatterbrain](https://open.spotify.com/album/7nMsq0A9k3KjCNBPu2RN3v) | 2:09 |
 | 4 | [That Girl](https://open.spotify.com/track/5UebR77vjap8LVd6eqITiY) | [Emei](https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU) | [That Girl](https://open.spotify.com/album/7wrW0h4PjKiU3lyvbMtJrN) | 2:20 |
 | 5 | [Trust Issues](https://open.spotify.com/track/0SSu4wiFjCPcRE5Sx3ni0A) | [Emei](https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU) | [Trust Issues](https://open.spotify.com/album/29FWknxiELyLTfZGBDpmRk) | 2:20 |
@@ -27,4 +27,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4wKHCh.md) - [plain]
 | 17 | [Picky](https://open.spotify.com/track/1qTHWIDjnghhPe294079cZ) | [Emei](https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU) | [Scatterbrain](https://open.spotify.com/album/7nMsq0A9k3KjCNBPu2RN3v) | 2:20 |
 | 18 | [Don't Know About The World](https://open.spotify.com/track/7xil2jjcEh4kaU3XXoAPh8) | [Emei](https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU) | [Scatterbrain](https://open.spotify.com/album/7nMsq0A9k3KjCNBPu2RN3v) | 2:23 |
 
-Snapshot ID: `Mjg1MTQxOTUsMDAwMDAwMDAxMTA5NWY1ODljZTEyNDYwM2VjODY5YmE2NzE5MjJhMQ==`
+Snapshot ID: `Mjg1MTU2NjEsMDAwMDAwMDBlNDk2ZGFkNzAxODU4YzFmZmFmMzA0ZjE5ZTI5MDViZg==`

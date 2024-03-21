@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4aluxi.md) - [plain]
 
 > This is Amy Grant\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,811 likes - 50 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,816 likes - 50 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,13 +40,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4aluxi.md) - [plain]
 | 30 | [Arms Of Love](https://open.spotify.com/track/3cOpBTr6c4c6k0GyGT4xm0) | [Amy Grant](https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es) | [Age To Age](https://open.spotify.com/album/4VMXOQ84AZcpGJNwbkWD53) | 3:23 |
 | 31 | [House Of Love](https://open.spotify.com/track/1NLUdUNqji3A8G1UMKHicV) | [Amy Grant](https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es) | [House Of Love \(Remastered\)](https://open.spotify.com/album/3zGpXofO95slQYAQqeBYnb) | 4:36 |
 | 32 | [Agnus Dei \- Live](https://open.spotify.com/track/0G94ldMUXHZ94aHc3FKSz3) | [Michael W\. Smith](https://open.spotify.com/artist/5aBxFPaaGk9204ssHUvXWN), [Amy Grant](https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es) | [Worship Forever \(Live\)](https://open.spotify.com/album/0VGJroMZNK3faRsUfaDwz0) | 5:29 |
-| 33 | [Jesus, Take All Of Me \(Just As I Am\)](https://open.spotify.com/track/1Kkv4S73lfJkTcTyTnYIJh) | [Amy Grant](https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es) | [My Hope: Songs Inspired By The Message And Mission Of Billy Graham](https://open.spotify.com/album/7HaZB4XQOdq1JEn17ImDGx) | 4:26 |
-| 34 | [My Jesus, I Love Thee](https://open.spotify.com/track/5tDeg3UaEMAN8duYwTPiXW) | [Amy Grant](https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es) | [Legacy...Hymns & Faith](https://open.spotify.com/album/4JY1aDHyqitr24pkk4MeEs) | 3:34 |
-| 35 | [I Belong](https://open.spotify.com/track/4wsWAFT2FNbju838Mip9gJ) | [Tim Timmons](https://open.spotify.com/artist/5KZgx8RwpCUIEfRuMdcfYX), [Amy Grant](https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es) | [I Belong](https://open.spotify.com/album/6EhiVZsRCe402TDY6GdnxQ) | 3:25 |
-| 36 | [Could I Have This Dance](https://open.spotify.com/track/0eXpvoN6ReEXq8jAMDOxxD) | [Anne Murray](https://open.spotify.com/artist/7d7q5Y1p2QWS4QRAhTQR5E), [Amy Grant](https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es) | [Duets: Friends & Legends](https://open.spotify.com/album/6BaLWbrpawEf3ZqO9xgtWd) | 3:18 |
-| 37 | [All I Ever Have To Be](https://open.spotify.com/track/2DIfq3gn9mHzWwvP1UIxNn) | [Amy Grant](https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es) | [Never Alone \(Remastered\)](https://open.spotify.com/album/1zlf9fxadKTjVlWLrg1bYT) | 2:36 |
-| 38 | [Doubly Good To You \- Remastered](https://open.spotify.com/track/0d7Vaa81BKaaFNh0loZLKT) | [Amy Grant](https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es) | [Straight Ahead \(Remastered\)](https://open.spotify.com/album/1WPeYTE7GEqRzDNyRQQj28) | 3:14 |
-| 39 | [Good For Me](https://open.spotify.com/track/2GwDKcTJlvoRDaJXkA7ULJ) | [Amy Grant](https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es) | [Heart In Motion](https://open.spotify.com/album/6YbWlg2x8aIHASDTunWF8H) | 3:59 |
+| 33 | [All I Ever Have To Be](https://open.spotify.com/track/2DIfq3gn9mHzWwvP1UIxNn) | [Amy Grant](https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es) | [Never Alone \(Remastered\)](https://open.spotify.com/album/1zlf9fxadKTjVlWLrg1bYT) | 2:36 |
+| 34 | [Jesus, Take All Of Me \(Just As I Am\)](https://open.spotify.com/track/1Kkv4S73lfJkTcTyTnYIJh) | [Amy Grant](https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es) | [My Hope: Songs Inspired By The Message And Mission Of Billy Graham](https://open.spotify.com/album/7HaZB4XQOdq1JEn17ImDGx) | 4:26 |
+| 35 | [My Jesus, I Love Thee](https://open.spotify.com/track/5tDeg3UaEMAN8duYwTPiXW) | [Amy Grant](https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es) | [Legacy...Hymns & Faith](https://open.spotify.com/album/4JY1aDHyqitr24pkk4MeEs) | 3:34 |
+| 36 | [I Belong](https://open.spotify.com/track/4wsWAFT2FNbju838Mip9gJ) | [Tim Timmons](https://open.spotify.com/artist/5KZgx8RwpCUIEfRuMdcfYX), [Amy Grant](https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es) | [I Belong](https://open.spotify.com/album/6EhiVZsRCe402TDY6GdnxQ) | 3:25 |
+| 37 | [Could I Have This Dance](https://open.spotify.com/track/0eXpvoN6ReEXq8jAMDOxxD) | [Anne Murray](https://open.spotify.com/artist/7d7q5Y1p2QWS4QRAhTQR5E), [Amy Grant](https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es) | [Duets: Friends & Legends](https://open.spotify.com/album/6BaLWbrpawEf3ZqO9xgtWd) | 3:18 |
+| 38 | [Good For Me](https://open.spotify.com/track/2GwDKcTJlvoRDaJXkA7ULJ) | [Amy Grant](https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es) | [Heart In Motion](https://open.spotify.com/album/6YbWlg2x8aIHASDTunWF8H) | 3:59 |
+| 39 | [Doubly Good To You \- Remastered](https://open.spotify.com/track/0d7Vaa81BKaaFNh0loZLKT) | [Amy Grant](https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es) | [Straight Ahead \(Remastered\)](https://open.spotify.com/album/1WPeYTE7GEqRzDNyRQQj28) | 3:14 |
 | 40 | [Raining On The Inside](https://open.spotify.com/track/5bZJhaDjmiyd3mmorGRRGS) | [Amy Grant](https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es) | [Age To Age](https://open.spotify.com/album/4VMXOQ84AZcpGJNwbkWD53) | 4:12 |
 | 41 | [Fairest Lord Jesus](https://open.spotify.com/track/1gGys8A5N7pMOU7ULx616U) | [Amy Grant](https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es) | [Legacy...Hymns & Faith](https://open.spotify.com/album/4JY1aDHyqitr24pkk4MeEs) | 3:15 |
 | 42 | [Lead Me On](https://open.spotify.com/track/0viCxBdQvd5WE4M1lXzv7u) | [Amy Grant](https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es) | [Lead Me On](https://open.spotify.com/album/7ETJhSThtcyCrQg4CuZfrX) | 5:36 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4aluxi.md) - [plain]
 | 49 | [Father's Eyes](https://open.spotify.com/track/39dCwla9fnPt3RQHjwPQ5s) | [Amy Grant](https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es) | [My Father's Eyes](https://open.spotify.com/album/7EJzRX6PB2SySpeD4wdb6S) | 4:06 |
 | 50 | [Trees We'll Never See](https://open.spotify.com/track/4eRp7LuamE8Jn8RQgBcGF4) | [Amy Grant](https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es) | [Trees We'll Never See](https://open.spotify.com/album/7aiVLC89sRra8FSVao9p0E) | 4:07 |
 
-Snapshot ID: `Mjg1MTQxOTUsMDAwMDAwMDAzZjFkZWFhYjZiY2E3ODMwMGIxMjQ0MDdkOGIwYWE1OQ==`
+Snapshot ID: `Mjg1MTU2NjEsMDAwMDAwMDA4NGJlNzc0YmI2YzIxNWMzOTE1MGU1YWIzYWRjY2JhZA==`

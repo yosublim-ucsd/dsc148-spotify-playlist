@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdC7eRcOJUCw.md) - [plain]
 
 > Estas damas sí que tienen carácter\. Ángela Aguilar en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 133,390 likes - 100 songs - 5 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 133,388 likes - 100 songs - 5 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,9 +38,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdC7eRcOJUCw.md) - [plain]
 | 28 | [Me Gustas Mucho](https://open.spotify.com/track/7c6L2XlUPwcmMlijRNu9Sd) | [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH) | [PRIMERO SOY MEXICANA](https://open.spotify.com/album/4IUdqipBmNWnFU3XJqq7TB) | 2:50 |
 | 29 | [Cucurrucucu Paloma](https://open.spotify.com/track/5WFjPmHYdqguwGXm8SZ2Mg) | [Lola Beltrán](https://open.spotify.com/artist/0qZlB7IX5lWPhlxsayt31p) | [Mexico Gran Colección Ranchera: Lola Beltrán](https://open.spotify.com/album/3gLs7v0umUTDKBwdZj2Bgm) | 3:51 |
 | 30 | [Me Gustas Mucho](https://open.spotify.com/track/4xOwXgFblfFi56IVkAdmdg) | [Rocío Dúrcal](https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB) | [Sus 16 Grandes Exitos](https://open.spotify.com/album/1QXxmsxolhkqiFtI1mpX4i) | 3:04 |
-| 31 | [Cuatro Milpas](https://open.spotify.com/track/20JdUWHwjdTzPRVbZdwWHI) | [Las Jilguerillas](https://open.spotify.com/artist/0eeAs1exNZKyZNSFTVYInV) | [Alborada Ranchera](https://open.spotify.com/album/5rsvm4m7xeVWBjJ5DHVs6p) | 3:22 |
+| 31 | [Mi Destino Fue Quererte](https://open.spotify.com/track/2kBbwQgrKtdMLxcU5smeki) | [Flor Silvestre](https://open.spotify.com/artist/4N2EXKLGtaWgJHcTd6S2mO) | [15 Éxitos](https://open.spotify.com/album/79F61mmAS90ugXB0J1vQMg) | 3:30 |
 | 32 | [Que Te Vaya Bonito](https://open.spotify.com/track/6Snjz4mK1CuiOmewSTqMmi) | [Ana Gabriel](https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe) | [Tradicional](https://open.spotify.com/album/2EvZqG7DjCR20upF0TPSPG) | 2:51 |
-| 33 | [Mi Destino Fue Quererte](https://open.spotify.com/track/2kBbwQgrKtdMLxcU5smeki) | [Flor Silvestre](https://open.spotify.com/artist/4N2EXKLGtaWgJHcTd6S2mO) | [15 Éxitos](https://open.spotify.com/album/79F61mmAS90ugXB0J1vQMg) | 3:30 |
+| 33 | [Cuatro Milpas](https://open.spotify.com/track/20JdUWHwjdTzPRVbZdwWHI) | [Las Jilguerillas](https://open.spotify.com/artist/0eeAs1exNZKyZNSFTVYInV) | [Alborada Ranchera](https://open.spotify.com/album/5rsvm4m7xeVWBjJ5DHVs6p) | 3:22 |
 | 34 | [Se Disfrazó](https://open.spotify.com/track/369tzGKeCGugQApIbeKFuW) | [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH) | [Mexicana Enamorada](https://open.spotify.com/album/5A7zzI1YR0YnWmaahoQeD7) | 3:26 |
 | 35 | [Una Llamada Perdida](https://open.spotify.com/track/1seKHgwXPVAK9o6bh7IzlF) | [María León](https://open.spotify.com/artist/132xFnGXTZoDfZWuMDE4tc), [Leonel García](https://open.spotify.com/artist/3t7UqWteBBmHXkcVhMSyay) | [Alquimia](https://open.spotify.com/album/3qjKFqjicRz4kDPbWb8QWq) | 3:21 |
 | 36 | [Me Saludas A La Tuya](https://open.spotify.com/track/17hGgn86Ir7YYtuTnOaKPy) | [Paquita La Del Barrio](https://open.spotify.com/artist/1q18ngxrhXlHasoNpc2dt7) | [Me Saludas A La Tuya](https://open.spotify.com/album/19czamPsw1zWGUQon24S8R) | 2:43 |
@@ -80,9 +80,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdC7eRcOJUCw.md) - [plain]
 | 70 | [Tú a Mí No Me Hundes](https://open.spotify.com/track/6aNDj2s5dWkVaQzL8Lelhy) | [Lucha Villa](https://open.spotify.com/artist/2LYsttKhPVXOf7qD8kTCr1) | [Interpreta A Juan Gabriel](https://open.spotify.com/album/3CaLGUG2hGBGom57xsxA1O) | 3:03 |
 | 71 | [Vivir Sin Ti \( Version Acustica \)](https://open.spotify.com/track/36UpMEqlXV5KuCxS4dZMEf) | [Ana Emilia](https://open.spotify.com/artist/1kxxYp7QI9TB9iWTzf7gTG), [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV) | [Vivir Sin Ti \( Version Acustica \)](https://open.spotify.com/album/4cupD82naLrPTfwr14oMPq) | 2:52 |
 | 72 | [Que Te Vaya Bonito](https://open.spotify.com/track/4EPxEtHdumGMnUEROmrE3z) | [Lola Beltrán](https://open.spotify.com/artist/0qZlB7IX5lWPhlxsayt31p) | [La Reina de la Canción Mexicana](https://open.spotify.com/album/5Vr2JTbPM5X0OC2k2O3ocd) | 2:58 |
-| 73 | [Se Solicita](https://open.spotify.com/track/2uVlMbVtRgeHBaCCn1LhXb) | [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [Se Solicita](https://open.spotify.com/album/24Y0xsPo84ooFzYeZKLoWR) | 3:04 |
+| 73 | [Por Si Me Olvidas](https://open.spotify.com/track/1io5WvDEVRlnPVJl7hYJZI) | [Chelo](https://open.spotify.com/artist/4IRgZYuKlqlD3BCEhb52ne) | [Chelo Interpreta A José Alfredo Jiménez](https://open.spotify.com/album/5cXbDdjm9NeZDhpJ2xYxHo) | 2:25 |
 | 74 | [Quítame Ese Hombre](https://open.spotify.com/track/3bTQCOV78Zy2Rg276elgkM) | [Adriana Ríos](https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo) | [Quítame ese Hombre](https://open.spotify.com/album/63wfPXkXzSQXAb413lGXCg) | 3:16 |
-| 75 | [Por Si Me Olvidas](https://open.spotify.com/track/1io5WvDEVRlnPVJl7hYJZI) | [Chelo](https://open.spotify.com/artist/4IRgZYuKlqlD3BCEhb52ne) | [Chelo Interpreta A José Alfredo Jiménez](https://open.spotify.com/album/5cXbDdjm9NeZDhpJ2xYxHo) | 2:25 |
+| 75 | [Se Solicita](https://open.spotify.com/track/2uVlMbVtRgeHBaCCn1LhXb) | [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [Se Solicita](https://open.spotify.com/album/24Y0xsPo84ooFzYeZKLoWR) | 3:04 |
 | 76 | [Échame a Mí la Culpa](https://open.spotify.com/track/4QJsxMItrRbvn05gGuf0CZ) | [Amalia Mendoza](https://open.spotify.com/artist/3zH5WktZU1xXqBZMsgV0IC) | [Los Exitos De Amalia Mendoza](https://open.spotify.com/album/6nryFiduM55GeJxDc7dzNl) | 3:11 |
 | 77 | [Fue Tan Poco Tu Cariño](https://open.spotify.com/track/3odp8TF0NtxpSWl3ttysZq) | [Camila Fernández](https://open.spotify.com/artist/52Y9UQWlCoArmqJVFwaR2Q) | [Camila Fernández](https://open.spotify.com/album/1x6Dtb9QaGaGDTCzfSpmjq) | 3:15 |
 | 78 | [Cielito Lindo](https://open.spotify.com/track/7Fg1CbNLNXDflPrr0Byxhx) | [Lola Beltrán](https://open.spotify.com/artist/0qZlB7IX5lWPhlxsayt31p) | [Lola Beltrán en Concierto: 15 Aniversario, En Vivo en el Palacio de Bellas Artes 1976 y en el Teatro Olympia de Paris](https://open.spotify.com/album/094POuqSlcB4gYOwnw4N9K) | 3:48 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdC7eRcOJUCw.md) - [plain]
 | 99 | [No Me Vuelvo a Enamorar](https://open.spotify.com/track/1djvcwusUBPg7c8lGR9htm) | [Rocío Dúrcal](https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB) | [Canta Once Grandes Exitos De Juan Gabriel](https://open.spotify.com/album/61odYv9kH9Zv4rxDOUwlBl) | 3:24 |
 | 100 | [Caray](https://open.spotify.com/track/4XzFq8NnSwPzb7WKqvcY9u) | [Rocío Dúrcal](https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB) | [Canta Once Grandes Exitos De Juan Gabriel](https://open.spotify.com/album/61odYv9kH9Zv4rxDOUwlBl) | 3:32 |
 
-Snapshot ID: `MCw5YWFiNzFjNmFjZjY5MzQ0ZGVhYWE3YmEyZGYwOTgzZWNkYjgwODI0`
+Snapshot ID: `MCwwNDgyNWI5Y2YxYTNjYTA0MmEzNjRiMzdlZTM0MTEyOWY0YzU1ZWRm`

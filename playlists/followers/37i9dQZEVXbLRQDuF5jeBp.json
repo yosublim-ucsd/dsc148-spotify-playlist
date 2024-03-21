@@ -1,5 +1,5 @@
 {
-  "2024-03-20": 3386060,
+  "2024-03-21": 3386069,
   "date_first_scraped": "2019-09-05",
   "description": "Your daily update of the most played tracks right now - USA.",
   "name": "Top 50 - USA",
@@ -16216,6 +16216,24 @@
     },
     {
       "album": {
+        "name": "Enough (Miami)",
+        "url": "https://open.spotify.com/album/18p7y4EZ6KczLQlgHWya1g"
+      },
+      "artists": [
+        {
+          "name": "Cardi B",
+          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
+        }
+      ],
+      "date_added": "2024-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158727,
+      "name": "Enough (Miami)",
+      "url": "https://open.spotify.com/track/7pDfRnoEDRkcz7bQsOjnPc"
+    },
+    {
+      "album": {
         "name": "SOUR",
         "url": "https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j"
       },
@@ -25537,7 +25555,7 @@
       ],
       "date_added": "2023-07-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-17",
+      "date_removed": null,
       "duration_ms": 211582,
       "name": "I KNOW ?",
       "url": "https://open.spotify.com/track/6wsqVwoiVH2kde4k4KKAFU"
@@ -26217,7 +26235,7 @@
       ],
       "date_added": "2024-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-20",
       "duration_ms": 153600,
       "name": "I'm Shipping Up To Boston",
       "url": "https://open.spotify.com/track/7rSERmjAT38lC5QhJ8hnQc"
@@ -27151,7 +27169,7 @@
       ],
       "date_added": "2024-03-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-19",
+      "date_removed": null,
       "duration_ms": 92400,
       "name": "intro (end of the world)",
       "url": "https://open.spotify.com/track/2o1pb13quMReXZqE7jWsgq"
@@ -34951,7 +34969,7 @@
       ],
       "date_added": "2024-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-20",
       "duration_ms": 119015,
       "name": "Mmhmm",
       "url": "https://open.spotify.com/track/4QTlxavdQGUVitxAvQqqkU"
@@ -37355,7 +37373,7 @@
       ],
       "date_added": "2024-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-20",
       "duration_ms": 125901,
       "name": "Never Lose Me",
       "url": "https://open.spotify.com/track/2x2olWuWXpqjoeE4bO1NFS"
@@ -38101,7 +38119,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-10",
+      "date_removed": null,
       "duration_ms": 292799,
       "name": "No Role Modelz",
       "url": "https://open.spotify.com/track/68Dni7IE4VyPkTOH9mRWHr"
@@ -47399,7 +47417,7 @@
       ],
       "date_added": "2022-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-20",
       "duration_ms": 180386,
       "name": "See You Again (feat. Kali Uchis)",
       "url": "https://open.spotify.com/track/7KA4W4McWYRpgf0fWsJZWB"

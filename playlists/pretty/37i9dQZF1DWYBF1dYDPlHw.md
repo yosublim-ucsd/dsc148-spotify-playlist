@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBF1dYDPlHw.md) - [plain]
 
 > All killer, no filler, 100% hits.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,019,206 likes - 100 songs - 6 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,019,325 likes - 100 songs - 6 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,22 +68,22 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBF1dYDPlHw.md) - [plain]
 | 58 | [A\-Punk](https://open.spotify.com/track/3AydAydLzyyZutA0375XIz) | [Vampire Weekend](https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx) | [Vampire Weekend](https://open.spotify.com/album/7n8NJkGKAl2np1bXiRn0CY) | 2:17 |
 | 59 | [Lisztomania](https://open.spotify.com/track/7fmJGzyvOcbh6UANsH8Cp6) | [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU) | [Wolfgang Amadeus Phoenix](https://open.spotify.com/album/0xG5b9nkWxKc5VTpo6Fq5I) | 4:01 |
 | 60 | [Left Hand Free](https://open.spotify.com/track/4iEOVEULZRvmzYSZY2ViKN) | [alt\-J](https://open.spotify.com/artist/3XHO7cRUPCLOr6jwp8vsx5) | [This Is All Yours](https://open.spotify.com/album/4oktVvRuO1In9B7Hz0xm0a) | 2:53 |
-| 61 | [Seventeen Going Under](https://open.spotify.com/track/5rF6YUIlgiat22OT1lWspJ) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc) | [Seventeen Going Under \(Deluxe\)](https://open.spotify.com/album/4FKOLaEGqA7ZFYYW5r4X9z) | 4:57 |
-| 62 | [Girls & Boys](https://open.spotify.com/track/5CeL9C3bsoe4yzYS1Qz8cw) | [Blur](https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS) | [Blur: The Best Of](https://open.spotify.com/album/1bgkxe4t0HNeLn9rhrx79x) | 4:19 |
+| 61 | [Girls & Boys](https://open.spotify.com/track/5CeL9C3bsoe4yzYS1Qz8cw) | [Blur](https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS) | [Blur: The Best Of](https://open.spotify.com/album/1bgkxe4t0HNeLn9rhrx79x) | 4:19 |
+| 62 | [Seventeen Going Under](https://open.spotify.com/track/5rF6YUIlgiat22OT1lWspJ) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc) | [Seventeen Going Under \(Deluxe\)](https://open.spotify.com/album/4FKOLaEGqA7ZFYYW5r4X9z) | 4:57 |
 | 63 | [Undercover Martyn](https://open.spotify.com/track/0bePGTDjn0XuEKoN7rOMvV) | [Two Door Cinema Club](https://open.spotify.com/artist/536BYVgOnRky0xjsPT96zl) | [Tourist History](https://open.spotify.com/album/0wNjC8d3ve2L2yaomEWUsa) | 2:47 |
 | 64 | [Young Blood](https://open.spotify.com/track/25nzKGDiua1lE9Qo5V19GL) | [The Naked And Famous](https://open.spotify.com/artist/0oeUpvxWsC8bWS6SnpU8b9) | [Passive Me, Aggressive You](https://open.spotify.com/album/5ImvJCAX33Pt2XGMaYaMia) | 4:06 |
-| 65 | [Kathleen](https://open.spotify.com/track/1MHYAqWWdDRePmnqORynrq) | [Catfish and the Bottlemen](https://open.spotify.com/artist/2xaAOVImG2O6lURwqperlD) | [The Balcony](https://open.spotify.com/album/0C0OFASoQC57yC12vQhCwN) | 2:40 |
-| 66 | [Friday I'm in Love](https://open.spotify.com/track/263aNAQCeFSWipk896byo6) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Wish](https://open.spotify.com/album/3x1CmNdXWU0DzpTZXFFRZu) | 3:34 |
-| 67 | [My Type](https://open.spotify.com/track/2Iq6HhIquO7JKr0KfTNLzU) | [Saint Motel](https://open.spotify.com/artist/1dWEYMPtNmvSVaDNLgB6NV) | [My Type EP](https://open.spotify.com/album/2r69WsAMyjbgLf8c4woaUr) | 3:24 |
+| 65 | [My Type](https://open.spotify.com/track/2Iq6HhIquO7JKr0KfTNLzU) | [Saint Motel](https://open.spotify.com/artist/1dWEYMPtNmvSVaDNLgB6NV) | [My Type EP](https://open.spotify.com/album/2r69WsAMyjbgLf8c4woaUr) | 3:24 |
+| 66 | [Kathleen](https://open.spotify.com/track/1MHYAqWWdDRePmnqORynrq) | [Catfish and the Bottlemen](https://open.spotify.com/artist/2xaAOVImG2O6lURwqperlD) | [The Balcony](https://open.spotify.com/album/0C0OFASoQC57yC12vQhCwN) | 2:40 |
+| 67 | [Friday I'm in Love](https://open.spotify.com/track/263aNAQCeFSWipk896byo6) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Wish](https://open.spotify.com/album/3x1CmNdXWU0DzpTZXFFRZu) | 3:34 |
 | 68 | [Jerk It Out](https://open.spotify.com/track/5XMjXjwCkJVmk0AHm7z8IV) | [Caesars](https://open.spotify.com/artist/4rGrN4XDYhP6dUAZMvcuHr) | [Love For The Streets](https://open.spotify.com/album/2ucS4apziMY7gaBIQc2tal) | 3:15 |
 | 69 | [Oblivion](https://open.spotify.com/track/3LGsgpx4TfxhXbr07OFKqs) | [Grimes](https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab) | [Visions](https://open.spotify.com/album/3HED2IUaNSnbOe88a7ZdwM) | 4:11 |
 | 70 | [Common People \- Full Length Version](https://open.spotify.com/track/2fXKyAyPrEa24c6PJyqznF) | [Pulp](https://open.spotify.com/artist/36E7oYfz3LLRto6l2WmDcD) | [Different Class](https://open.spotify.com/album/3ly9T2L4pqTZijFgQssd3x) | 5:51 |
 | 71 | [Someday](https://open.spotify.com/track/7hm4HTk9encxT0LYC0J6oI) | [The Strokes](https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V) | [Is This It](https://open.spotify.com/album/2k8KgmDp9oHrmu0MIj4XDE) | 3:03 |
 | 72 | [Hypersonic Missiles](https://open.spotify.com/track/6CltzquypraYIlWFp48m1O) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc) | [Hypersonic Missiles](https://open.spotify.com/album/7FWCgfnTgupXdyBy51ME9m) | 3:57 |
 | 73 | [My Number](https://open.spotify.com/track/04caEZhAsQKnWqKsMwk9ud) | [Foals](https://open.spotify.com/artist/6FQqZYVfTNQ1pCqfkwVFEa) | [Holy Fire](https://open.spotify.com/album/6SBkXTPlJ3oEaFwRm5o2lD) | 3:58 |
-| 74 | [Cocoon](https://open.spotify.com/track/1B241LRKmK6qDDTZfUajmm) | [Catfish and the Bottlemen](https://open.spotify.com/artist/2xaAOVImG2O6lURwqperlD) | [The Balcony](https://open.spotify.com/album/0C0OFASoQC57yC12vQhCwN) | 3:56 |
-| 75 | [Boys Don't Cry \- Single Version](https://open.spotify.com/track/4dneV7C1yDt9UtyxrQY375) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Three Imaginary Boys \(Deluxe Edition\)](https://open.spotify.com/album/7gPql7GFpBMOxeO80vMMsC) | 2:37 |
-| 76 | [Town Called Malice](https://open.spotify.com/track/0gdmDP6xy3ZV7JNoHWAN9k) | [The Jam](https://open.spotify.com/artist/2P560DaOMNDUACoH8ZhOCR) | [The Gift](https://open.spotify.com/album/71OyKSCFX7DGsJc6qAhhQG) | 2:53 |
+| 74 | [Town Called Malice](https://open.spotify.com/track/0gdmDP6xy3ZV7JNoHWAN9k) | [The Jam](https://open.spotify.com/artist/2P560DaOMNDUACoH8ZhOCR) | [The Gift](https://open.spotify.com/album/71OyKSCFX7DGsJc6qAhhQG) | 2:53 |
+| 75 | [Cocoon](https://open.spotify.com/track/1B241LRKmK6qDDTZfUajmm) | [Catfish and the Bottlemen](https://open.spotify.com/artist/2xaAOVImG2O6lURwqperlD) | [The Balcony](https://open.spotify.com/album/0C0OFASoQC57yC12vQhCwN) | 3:56 |
+| 76 | [Boys Don't Cry \- Single Version](https://open.spotify.com/track/4dneV7C1yDt9UtyxrQY375) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Three Imaginary Boys \(Deluxe Edition\)](https://open.spotify.com/album/7gPql7GFpBMOxeO80vMMsC) | 2:37 |
 | 77 | [Last Nite](https://open.spotify.com/track/3SUusuA9jH1v6PVwtYMbdv) | [The Strokes](https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V) | [Is This It](https://open.spotify.com/album/2k8KgmDp9oHrmu0MIj4XDE) | 3:13 |
 | 78 | [Bohemian Like You](https://open.spotify.com/track/3APHT3KjbHi9OllkVQsuXF) | [The Dandy Warhols](https://open.spotify.com/artist/7siPLyFwRFYQkKgWKJ5Sod) | [Thirteen Tales From Urban Bohemia](https://open.spotify.com/album/3RFenjlpdmIfkYATMdkbak) | 3:31 |
 | 79 | [Take a Walk](https://open.spotify.com/track/4Sfa7hdVkqlM8UW5LsSY3F) | [Passion Pit](https://open.spotify.com/artist/7gjAu1qr5C2grXeQFFOGeh) | [Gossamer](https://open.spotify.com/album/14JU5SskmcyckE5I8PY6lv) | 4:24 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBF1dYDPlHw.md) - [plain]
 | 99 | [Lightning Bolt](https://open.spotify.com/track/79DO6dBi8936P6EShLB209) | [Jake Bugg](https://open.spotify.com/artist/4hf3caW9H8uFwwbv5pFjcg) | [Jake Bugg](https://open.spotify.com/album/6b2BArDCfSvW3VFenLJatj) | 2:24 |
 | 100 | [Chelsea Dagger](https://open.spotify.com/track/3ItzRpwvKtkDSNdRSjXu7Z) | [The Fratellis](https://open.spotify.com/artist/3M4ThdJR28z9eSMcQHAZ5G) | [Costello Music](https://open.spotify.com/album/6R6pjR9ocMYuqSuNx5e4mg) | 3:35 |
 
-Snapshot ID: `MCxkYTYzYWI0YzU4MmFhMTg5NTZkMTEyMTNlZmY1ZDkyYTNhZTg4ZGI3`
+Snapshot ID: `MCxlNWM5YTQ0MmVlNDMzNzE3MmYyMmQyYTQwNjM5OTRhYzE0ODY5NjNk`

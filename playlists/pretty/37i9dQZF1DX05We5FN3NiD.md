@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX05We5FN3NiD.md) - [plain]
 
 > 2019 highlights from the home of indie music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,137 likes - 100 songs - 6 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,153 likes - 100 songs - 6 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX05We5FN3NiD.md) - [plain]
 | 30 | [Scrawny](https://open.spotify.com/track/1pNUmVxDiE8t6P1XxcZAv8) | [Wallows](https://open.spotify.com/artist/0NIPkIjTV8mB795yEIiPYL) | [Nothing Happens](https://open.spotify.com/album/7eed9MBclFPjjjvotfR2e9) | 2:46 |
 | 31 | [Habit](https://open.spotify.com/track/4BsLwvaJOTOHDNg7xMpvrL) | [Still Woozy](https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y) | [Habit](https://open.spotify.com/album/2vIIWsslRiFHiHPWFTsdaE) | 2:33 |
 | 32 | [Social Cues](https://open.spotify.com/track/1KuVdyg8d6NlRhbpHxg5UF) | [Cage The Elephant](https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3) | [Social Cues](https://open.spotify.com/album/2VuZJsJBPLwg9BeQFQle8G) | 3:39 |
-| 33 | [So Hot You're Hurting My Feelings](https://open.spotify.com/track/5B6Kjha6RRIMWGN7zGsAaT) | [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a) | [Pang](https://open.spotify.com/album/4ClyeVlAKJJViIyfVW0yQD) | 3:03 |
-| 34 | [Will We Talk?](https://open.spotify.com/track/5g0HSob4PEq7M8blV6y70i) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc) | [Hypersonic Missiles](https://open.spotify.com/album/7FWCgfnTgupXdyBy51ME9m) | 2:42 |
+| 33 | [Will We Talk?](https://open.spotify.com/track/5g0HSob4PEq7M8blV6y70i) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc) | [Hypersonic Missiles](https://open.spotify.com/album/7FWCgfnTgupXdyBy51ME9m) | 2:42 |
+| 34 | [So Hot You're Hurting My Feelings](https://open.spotify.com/track/5B6Kjha6RRIMWGN7zGsAaT) | [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a) | [Pang](https://open.spotify.com/album/4ClyeVlAKJJViIyfVW0yQD) | 3:03 |
 | 35 | [Lo/Hi](https://open.spotify.com/track/25YlltWXRb9k7KbrEBRuhJ) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | ["Let's Rock"](https://open.spotify.com/album/0aA9rYw8PEv9G7tVIJ9dKg) | 2:57 |
 | 36 | [i'll die anyway.](https://open.spotify.com/track/14tud1FLjpHMYHpD2c7NbO) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [i'll die anyway.](https://open.spotify.com/album/4Zt3XT3vADR97nZGrFoSOY) | 3:12 |
 | 37 | [Longshot](https://open.spotify.com/track/2VcS3oKcOPkubN9LVzZ96l) | [Catfish and the Bottlemen](https://open.spotify.com/artist/2xaAOVImG2O6lURwqperlD) | [The Balance](https://open.spotify.com/album/0eELSmJrZpzOKfdO80nJ9r) | 3:52 |
@@ -88,8 +88,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX05We5FN3NiD.md) - [plain]
 | 78 | [Unbearably White](https://open.spotify.com/track/2FjoCQaBoiEKs3FCvD0HkR) | [Vampire Weekend](https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx) | [Father of the Bride](https://open.spotify.com/album/1A3nVEWRJ8yvlPzawHI1pQ) | 4:40 |
 | 79 | [Charlie](https://open.spotify.com/track/2SonpVAvJS3aOi63oEOTlQ) | [Mallrat](https://open.spotify.com/artist/4OSArit7O2Jaj4mgf3YN7A) | [Charlie](https://open.spotify.com/album/3YUPGv1HNS6HuFbUFIsfJY) | 3:10 |
 | 80 | [Faith](https://open.spotify.com/track/4dIMGmkew7pLWVoJ7de8Wg) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [i,i](https://open.spotify.com/album/0aldG5AoqOUDkEbsGtI9TW) | 3:37 |
-| 81 | [Summer Girl \- Bonus Track](https://open.spotify.com/track/5pSRBmJhkfZm1eilG3VW3L) | [HAIM](https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE) | [Women In Music Pt\. III](https://open.spotify.com/album/396EJBtUzseofX2YCBJVvM) | 3:25 |
-| 82 | [Turn The Light](https://open.spotify.com/track/3gIGGjvUXexyUKLQsGsE4n) | [Karen O](https://open.spotify.com/artist/6emHCSoB4tJxTVXakbrpPz), [Danger Mouse](https://open.spotify.com/artist/2dBj3prW7gP9bCCOIQeDUf) | [Lux Prima](https://open.spotify.com/album/6FZj5JixSLG35CvbNYswlX) | 3:19 |
+| 81 | [Turn The Light](https://open.spotify.com/track/3gIGGjvUXexyUKLQsGsE4n) | [Karen O](https://open.spotify.com/artist/6emHCSoB4tJxTVXakbrpPz), [Danger Mouse](https://open.spotify.com/artist/2dBj3prW7gP9bCCOIQeDUf) | [Lux Prima](https://open.spotify.com/album/6FZj5JixSLG35CvbNYswlX) | 3:19 |
+| 82 | [Summer Girl \- Bonus Track](https://open.spotify.com/track/5pSRBmJhkfZm1eilG3VW3L) | [HAIM](https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE) | [Women In Music Pt\. III](https://open.spotify.com/album/396EJBtUzseofX2YCBJVvM) | 3:25 |
 | 83 | [Rylan](https://open.spotify.com/track/6XxPXXqkE4lG7MVkpom6F8) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB) | [I Am Easy to Find](https://open.spotify.com/album/5M5LPGsAR9mxbBa22GOp5h) | 3:43 |
 | 84 | [On the Luna](https://open.spotify.com/track/2wSZ6ynM06pJE8lroAhyy8) | [Foals](https://open.spotify.com/artist/6FQqZYVfTNQ1pCqfkwVFEa) | [Everything Not Saved Will Be Lost Part I](https://open.spotify.com/album/6uVaLj0YV3mWRFUw4xJ6eR) | 3:12 |
 | 85 | [Ain't Together](https://open.spotify.com/track/4aGvs7y4hQIbGss7zmEXKf) | [King Princess](https://open.spotify.com/artist/6beUvFUlKliUYJdLOXNj9C) | [Cheap Queen](https://open.spotify.com/album/00uqjqwLruO346z3cNlNqG) | 3:22 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX05We5FN3NiD.md) - [plain]
 | 99 | [Your Light](https://open.spotify.com/track/6vYRwtuNmaQJg7SlcrMdPs) | [The Big Moon](https://open.spotify.com/artist/0KU55rzxAihPhi27MAuz9O) | [Your Light](https://open.spotify.com/album/08Ry44RWNOnXiw7gZlBXkg) | 5:07 |
 | 100 | [Bad To Worse](https://open.spotify.com/track/4nxz8xCp2BFPdZLqKNyUN8) | [Ra Ra Riot](https://open.spotify.com/artist/6FIrstf3kHEg3zBOyLpvxD) | [Superbloom](https://open.spotify.com/album/0FV6wApDnoIGhEbS3DzZi4) | 4:18 |
 
-Snapshot ID: `MCxmZGNlZWMwOWZjNTJlMDQyNzQ0MWQwYjY5ZTRkNDVlMGI2ZWYwMzQ2`
+Snapshot ID: `MCw3MmFhOTViYjFjZjUwOWY4MWI5ZWZmNDE5ZmQxNThhODQ5YWRkYmQ5`

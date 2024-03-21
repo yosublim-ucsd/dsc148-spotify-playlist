@@ -1,12 +1,12 @@
 {
   "description": "Illuminating Asian artists everywhere. Cover: Laufey.",
-  "num_followers": 285094,
+  "num_followers": 285110,
   "original_name": "Jasmine",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5MDRmMjg1YmU1YWNlY2NmODM1YjdkNzhkOTNmNzYxOTk1YjZlNWE2",
+  "snapshot_id": "MCw4YjMwNmMzMTQ5YWZhMDk4MjZmMjQ1MGEwYTc5MGNjYmRkODAwNjJh",
   "tracks": [
     {
       "added_at": "2024-03-15 04:00:00",
@@ -903,6 +903,22 @@
     {
       "added_at": "2024-03-15 04:00:00",
       "album": {
+        "name": "WET DREAM",
+        "url": "https://open.spotify.com/album/4m7bDTiTwfiJFotfmEyEkb"
+      },
+      "artists": [
+        {
+          "name": "SNOW WIFE",
+          "url": "https://open.spotify.com/artist/7CV3dQkhJB2dEqb85ICD33"
+        }
+      ],
+      "duration_ms": 150755,
+      "name": "WET DREAM",
+      "url": "https://open.spotify.com/track/4B2ZFUncmZK3HjL0gDmUms"
+    },
+    {
+      "added_at": "2024-03-15 04:00:00",
+      "album": {
         "name": "Slow (with Ciara)",
         "url": "https://open.spotify.com/album/3pVjFaJut000WiN2WZBtKK"
       },
@@ -939,18 +955,18 @@
     {
       "added_at": "2024-03-15 04:00:00",
       "album": {
-        "name": "WET DREAM",
-        "url": "https://open.spotify.com/album/4m7bDTiTwfiJFotfmEyEkb"
+        "name": "DUAL",
+        "url": "https://open.spotify.com/album/6ICDcaM2LlaMND4DDVe4so"
       },
       "artists": [
         {
-          "name": "SNOW WIFE",
-          "url": "https://open.spotify.com/artist/7CV3dQkhJB2dEqb85ICD33"
+          "name": "The Rose",
+          "url": "https://open.spotify.com/artist/5na1LmEmK2VzNLje9snJYW"
         }
       ],
-      "duration_ms": 150755,
-      "name": "WET DREAM",
-      "url": "https://open.spotify.com/track/4B2ZFUncmZK3HjL0gDmUms"
+      "duration_ms": 220484,
+      "name": "Wonder",
+      "url": "https://open.spotify.com/track/5jhpphz9p3wuSThnkFCTZv"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -983,22 +999,6 @@
       "duration_ms": 225613,
       "name": "Peanut Butter & Tears",
       "url": "https://open.spotify.com/track/05QrjMU5kHV7dpyNmSxqdv"
-    },
-    {
-      "added_at": "2024-03-15 04:00:00",
-      "album": {
-        "name": "DUAL",
-        "url": "https://open.spotify.com/album/6ICDcaM2LlaMND4DDVe4so"
-      },
-      "artists": [
-        {
-          "name": "The Rose",
-          "url": "https://open.spotify.com/artist/5na1LmEmK2VzNLje9snJYW"
-        }
-      ],
-      "duration_ms": 220484,
-      "name": "Wonder",
-      "url": "https://open.spotify.com/track/5jhpphz9p3wuSThnkFCTZv"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -1135,22 +1135,6 @@
     {
       "added_at": "2024-03-15 04:00:00",
       "album": {
-        "name": "So I Danced",
-        "url": "https://open.spotify.com/album/64wAIYcs6KRlXKWwPdgiLW"
-      },
-      "artists": [
-        {
-          "name": "DPR IAN",
-          "url": "https://open.spotify.com/artist/2o8gT0fQmFxGNbowbdgeZe"
-        }
-      ],
-      "duration_ms": 173293,
-      "name": "So I Danced",
-      "url": "https://open.spotify.com/track/6OXq1P3P8Z8ky2x8dDtHSH"
-    },
-    {
-      "added_at": "2024-03-15 04:00:00",
-      "album": {
         "name": "close with desires (feat. thuy)",
         "url": "https://open.spotify.com/album/5O9Y71opTaQDJffFJAUDID"
       },
@@ -1167,6 +1151,22 @@
       "duration_ms": 205750,
       "name": "close with desires (feat. thuy)",
       "url": "https://open.spotify.com/track/40mxgmFEtNKcgKRiiHmlHf"
+    },
+    {
+      "added_at": "2024-03-15 04:00:00",
+      "album": {
+        "name": "So I Danced",
+        "url": "https://open.spotify.com/album/64wAIYcs6KRlXKWwPdgiLW"
+      },
+      "artists": [
+        {
+          "name": "DPR IAN",
+          "url": "https://open.spotify.com/artist/2o8gT0fQmFxGNbowbdgeZe"
+        }
+      ],
+      "duration_ms": 173293,
+      "name": "So I Danced",
+      "url": "https://open.spotify.com/track/6OXq1P3P8Z8ky2x8dDtHSH"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -1447,26 +1447,6 @@
     {
       "added_at": "2024-03-15 04:00:00",
       "album": {
-        "name": "If I Say I Love You",
-        "url": "https://open.spotify.com/album/2ESwq9YYETbOxHBxrKd1CP"
-      },
-      "artists": [
-        {
-          "name": "\u6050\u9f8d\u7684\u76ae",
-          "url": "https://open.spotify.com/artist/6zp0iXMIvLZ7oVeTk0Nt0J"
-        },
-        {
-          "name": "Summer Salt",
-          "url": "https://open.spotify.com/artist/3MATPJ9tYbcMhw5VOZrRU6"
-        }
-      ],
-      "duration_ms": 230704,
-      "name": "If I Say I Love You",
-      "url": "https://open.spotify.com/track/4p56kERNtaMrhgA4KUnHnT"
-    },
-    {
-      "added_at": "2024-03-15 04:00:00",
-      "album": {
         "name": "maybe",
         "url": "https://open.spotify.com/album/0crSGw57b2pARwMMz3qnBF"
       },
@@ -1499,6 +1479,26 @@
       "duration_ms": 178346,
       "name": "All Over Again",
       "url": "https://open.spotify.com/track/3m0gY7t5mC3ipTmMlvt8wM"
+    },
+    {
+      "added_at": "2024-03-15 04:00:00",
+      "album": {
+        "name": "If I Say I Love You",
+        "url": "https://open.spotify.com/album/2ESwq9YYETbOxHBxrKd1CP"
+      },
+      "artists": [
+        {
+          "name": "\u6050\u9f8d\u7684\u76ae",
+          "url": "https://open.spotify.com/artist/6zp0iXMIvLZ7oVeTk0Nt0J"
+        },
+        {
+          "name": "Summer Salt",
+          "url": "https://open.spotify.com/artist/3MATPJ9tYbcMhw5VOZrRU6"
+        }
+      ],
+      "duration_ms": 230704,
+      "name": "If I Say I Love You",
+      "url": "https://open.spotify.com/track/4p56kERNtaMrhgA4KUnHnT"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -1539,6 +1539,22 @@
     {
       "added_at": "2024-03-15 04:00:00",
       "album": {
+        "name": "Future Reference",
+        "url": "https://open.spotify.com/album/4tCSd29eiXYeQoGZ15GTjg"
+      },
+      "artists": [
+        {
+          "name": "Yeek",
+          "url": "https://open.spotify.com/artist/5BhFZpE8kUGZJiKOsYjLQM"
+        }
+      ],
+      "duration_ms": 196075,
+      "name": "Leave With Me",
+      "url": "https://open.spotify.com/track/1VXWhDwV2WG7tnlclMP1nk"
+    },
+    {
+      "added_at": "2024-03-15 04:00:00",
+      "album": {
         "name": "Self Soothing",
         "url": "https://open.spotify.com/album/6gTGtA8fL6swSNFzDf6lka"
       },
@@ -1559,18 +1575,18 @@
     {
       "added_at": "2024-03-15 04:00:00",
       "album": {
-        "name": "Future Reference",
-        "url": "https://open.spotify.com/album/4tCSd29eiXYeQoGZ15GTjg"
+        "name": "APESHIT",
+        "url": "https://open.spotify.com/album/6L1nBEEqTueYzXqFXgjR8Y"
       },
       "artists": [
         {
-          "name": "Yeek",
-          "url": "https://open.spotify.com/artist/5BhFZpE8kUGZJiKOsYjLQM"
+          "name": "Tiffany Day",
+          "url": "https://open.spotify.com/artist/5D5Qbe1lf3aMnLsPSzXItu"
         }
       ],
-      "duration_ms": 196075,
-      "name": "Leave With Me",
-      "url": "https://open.spotify.com/track/1VXWhDwV2WG7tnlclMP1nk"
+      "duration_ms": 151400,
+      "name": "APESHIT",
+      "url": "https://open.spotify.com/track/3tkduPvfebrlyttUxtXq8V"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -1607,18 +1623,18 @@
     {
       "added_at": "2024-03-15 04:00:00",
       "album": {
-        "name": "APESHIT",
-        "url": "https://open.spotify.com/album/6L1nBEEqTueYzXqFXgjR8Y"
+        "name": "Cold Rain",
+        "url": "https://open.spotify.com/album/1OTzEYnHyxSdrFeDmHuUQf"
       },
       "artists": [
         {
-          "name": "Tiffany Day",
-          "url": "https://open.spotify.com/artist/5D5Qbe1lf3aMnLsPSzXItu"
+          "name": "Raine Cloud",
+          "url": "https://open.spotify.com/artist/27mYHlSWaXDfsqNHgSQZhS"
         }
       ],
-      "duration_ms": 151400,
-      "name": "APESHIT",
-      "url": "https://open.spotify.com/track/3tkduPvfebrlyttUxtXq8V"
+      "duration_ms": 170250,
+      "name": "Cold Rain",
+      "url": "https://open.spotify.com/track/5I8G7QzIyIyjP49a3f6jJp"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -1647,22 +1663,6 @@
       "duration_ms": 248403,
       "name": "WORLD STOP TURNING (feat. Warren Hue)",
       "url": "https://open.spotify.com/track/4nrTZBPIBCmU4RDsXfNwp0"
-    },
-    {
-      "added_at": "2024-03-15 04:00:00",
-      "album": {
-        "name": "Cold Rain",
-        "url": "https://open.spotify.com/album/1OTzEYnHyxSdrFeDmHuUQf"
-      },
-      "artists": [
-        {
-          "name": "Raine Cloud",
-          "url": "https://open.spotify.com/artist/27mYHlSWaXDfsqNHgSQZhS"
-        }
-      ],
-      "duration_ms": 170250,
-      "name": "Cold Rain",
-      "url": "https://open.spotify.com/track/5I8G7QzIyIyjP49a3f6jJp"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -1703,6 +1703,22 @@
     {
       "added_at": "2024-03-15 04:00:00",
       "album": {
+        "name": "Venom",
+        "url": "https://open.spotify.com/album/4kbbT0b2ORMOulej4sdUON"
+      },
+      "artists": [
+        {
+          "name": "Emily Mei",
+          "url": "https://open.spotify.com/artist/3PPvyQnDRHIwwzCWwONgRk"
+        }
+      ],
+      "duration_ms": 147387,
+      "name": "Venom",
+      "url": "https://open.spotify.com/track/2pJBg4Qxgj7Rl7y4HPGTUw"
+    },
+    {
+      "added_at": "2024-03-15 04:00:00",
+      "album": {
         "name": "Trigger Warning (feat. Wolftyla & MIYACHI)",
         "url": "https://open.spotify.com/album/3UapHPsXKIV6JEhpMwiAfH"
       },
@@ -1723,22 +1739,6 @@
       "duration_ms": 151559,
       "name": "Trigger Warning (feat. Wolftyla & MIYACHI)",
       "url": "https://open.spotify.com/track/3NR2iPVXDninKefAV2uGpz"
-    },
-    {
-      "added_at": "2024-03-15 04:00:00",
-      "album": {
-        "name": "Venom",
-        "url": "https://open.spotify.com/album/4kbbT0b2ORMOulej4sdUON"
-      },
-      "artists": [
-        {
-          "name": "Emily Mei",
-          "url": "https://open.spotify.com/artist/3PPvyQnDRHIwwzCWwONgRk"
-        }
-      ],
-      "duration_ms": 147387,
-      "name": "Venom",
-      "url": "https://open.spotify.com/track/2pJBg4Qxgj7Rl7y4HPGTUw"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -1835,6 +1835,22 @@
     {
       "added_at": "2024-03-15 04:00:00",
       "album": {
+        "name": "After You",
+        "url": "https://open.spotify.com/album/5gmMAhYtbJG8oEbrpdLhdL"
+      },
+      "artists": [
+        {
+          "name": "Julius Black",
+          "url": "https://open.spotify.com/artist/7aZEcK7jSvrSoshGSgOYfj"
+        }
+      ],
+      "duration_ms": 203058,
+      "name": "After You",
+      "url": "https://open.spotify.com/track/3VpSYpjB9JwFU6y3X5LcVi"
+    },
+    {
+      "added_at": "2024-03-15 04:00:00",
+      "album": {
         "name": "Cellulite",
         "url": "https://open.spotify.com/album/7LngWCTBR5pDbi8yQRoNVN"
       },
@@ -1879,22 +1895,6 @@
       "duration_ms": 110222,
       "name": "i hate ur guts",
       "url": "https://open.spotify.com/track/5XcMd26mYBriMHDXYB5Qwm"
-    },
-    {
-      "added_at": "2024-03-15 04:00:00",
-      "album": {
-        "name": "After You",
-        "url": "https://open.spotify.com/album/5gmMAhYtbJG8oEbrpdLhdL"
-      },
-      "artists": [
-        {
-          "name": "Julius Black",
-          "url": "https://open.spotify.com/artist/7aZEcK7jSvrSoshGSgOYfj"
-        }
-      ],
-      "duration_ms": 203058,
-      "name": "After You",
-      "url": "https://open.spotify.com/track/3VpSYpjB9JwFU6y3X5LcVi"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -2247,6 +2247,22 @@
     {
       "added_at": "2024-03-15 04:00:00",
       "album": {
+        "name": "Wallpaper",
+        "url": "https://open.spotify.com/album/7fZTcKJrYUYt3zCPyswbSH"
+      },
+      "artists": [
+        {
+          "name": "Mei Jun",
+          "url": "https://open.spotify.com/artist/3cx46GdmHvTI5CvJCPRKZc"
+        }
+      ],
+      "duration_ms": 127706,
+      "name": "Wallpaper",
+      "url": "https://open.spotify.com/track/5l0sy0tEDxW4lUI2zQMzXf"
+    },
+    {
+      "added_at": "2024-03-15 04:00:00",
+      "album": {
         "name": "Laced",
         "url": "https://open.spotify.com/album/3Ai0s9Mub52lhvfhPW0wfr"
       },
@@ -2263,18 +2279,18 @@
     {
       "added_at": "2024-03-15 04:00:00",
       "album": {
-        "name": "Wallpaper",
-        "url": "https://open.spotify.com/album/7fZTcKJrYUYt3zCPyswbSH"
+        "name": "scenic route",
+        "url": "https://open.spotify.com/album/05HfFNIDwT3mknFofyORNE"
       },
       "artists": [
         {
-          "name": "Mei Jun",
-          "url": "https://open.spotify.com/artist/3cx46GdmHvTI5CvJCPRKZc"
+          "name": "sundial",
+          "url": "https://open.spotify.com/artist/1SOubzv0uhrziEXbNLMUw9"
         }
       ],
-      "duration_ms": 127706,
-      "name": "Wallpaper",
-      "url": "https://open.spotify.com/track/5l0sy0tEDxW4lUI2zQMzXf"
+      "duration_ms": 180592,
+      "name": "scenic route",
+      "url": "https://open.spotify.com/track/34LhJDEt54G9Ba8P5hsgOm"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -2307,22 +2323,6 @@
       "duration_ms": 173480,
       "name": "Revenge Body",
       "url": "https://open.spotify.com/track/46TPA4mVzk1WE4eFItCLG6"
-    },
-    {
-      "added_at": "2024-03-15 04:00:00",
-      "album": {
-        "name": "scenic route",
-        "url": "https://open.spotify.com/album/05HfFNIDwT3mknFofyORNE"
-      },
-      "artists": [
-        {
-          "name": "sundial",
-          "url": "https://open.spotify.com/artist/1SOubzv0uhrziEXbNLMUw9"
-        }
-      ],
-      "duration_ms": 180592,
-      "name": "scenic route",
-      "url": "https://open.spotify.com/track/34LhJDEt54G9Ba8P5hsgOm"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -2387,6 +2387,22 @@
       "duration_ms": 203333,
       "name": "Tragic Love",
       "url": "https://open.spotify.com/track/1UBwp5S204qFsVS0enwAEo"
+    },
+    {
+      "added_at": "2024-03-15 04:00:00",
+      "album": {
+        "name": "the roaring twenties",
+        "url": "https://open.spotify.com/album/61royB3qzaFhXLp8e0gCtY"
+      },
+      "artists": [
+        {
+          "name": "sundial",
+          "url": "https://open.spotify.com/artist/1SOubzv0uhrziEXbNLMUw9"
+        }
+      ],
+      "duration_ms": 227927,
+      "name": "the american dream",
+      "url": "https://open.spotify.com/track/6m8SllgidQW1MIn6x8DFEb"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -2471,22 +2487,6 @@
       "duration_ms": 278613,
       "name": "Have You Ever Seen The Rain?",
       "url": "https://open.spotify.com/track/2KGcEUHgC2NcXH5i7lu6CO"
-    },
-    {
-      "added_at": "2024-03-15 04:00:00",
-      "album": {
-        "name": "the roaring twenties",
-        "url": "https://open.spotify.com/album/61royB3qzaFhXLp8e0gCtY"
-      },
-      "artists": [
-        {
-          "name": "sundial",
-          "url": "https://open.spotify.com/artist/1SOubzv0uhrziEXbNLMUw9"
-        }
-      ],
-      "duration_ms": 227927,
-      "name": "the american dream",
-      "url": "https://open.spotify.com/track/6m8SllgidQW1MIn6x8DFEb"
     },
     {
       "added_at": "2024-03-15 04:00:00",

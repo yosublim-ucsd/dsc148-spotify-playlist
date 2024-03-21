@@ -1,12 +1,12 @@
 {
   "description": "<a href=\"spotify:genre:edm_dance\">Dance</a> to the rhythm and move your feet!",
-  "num_followers": 5179299,
+  "num_followers": 5180109,
   "original_name": "Dance Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkMDNjOTQzYjY3ODRmYjNkNWFmMDM5NjY3NjVjOTY3MzA5NmE4M2Vi",
+  "snapshot_id": "MCw4MmY3MmYxMzFhZjI3YWZmMTRjOGJlOGEwYjc5MjRmZWM0YjA5OGE5",
   "tracks": [
     {
       "added_at": "2024-03-08 05:01:00",
@@ -871,30 +871,6 @@
     {
       "added_at": "2024-03-08 05:01:00",
       "album": {
-        "name": "Be My Lover (feat. La Bouche) [2023 Mix]",
-        "url": "https://open.spotify.com/album/6mJvtzhMas59tyCFS3kSHX"
-      },
-      "artists": [
-        {
-          "name": "Hypaton",
-          "url": "https://open.spotify.com/artist/5GYaRwCWwhU6SIQrQ5G3b7"
-        },
-        {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
-        },
-        {
-          "name": "La Bouche",
-          "url": "https://open.spotify.com/artist/488v7rQzthLNK22r0UvMie"
-        }
-      ],
-      "duration_ms": 169523,
-      "name": "Be My Lover (feat. La Bouche) - 2023 Mix",
-      "url": "https://open.spotify.com/track/2aQpISWUBToaF84DDiTeRV"
-    },
-    {
-      "added_at": "2024-03-08 05:01:00",
-      "album": {
         "name": "Somebody (2024)",
         "url": "https://open.spotify.com/album/5eKQYtDqVmrHPZoKHG1LlH"
       },
@@ -923,6 +899,30 @@
       "duration_ms": 153518,
       "name": "Somebody (2024)",
       "url": "https://open.spotify.com/track/0agQ9vIV7NP4dntGKLcCXO"
+    },
+    {
+      "added_at": "2024-03-08 05:01:00",
+      "album": {
+        "name": "Be My Lover (feat. La Bouche) [2023 Mix]",
+        "url": "https://open.spotify.com/album/6mJvtzhMas59tyCFS3kSHX"
+      },
+      "artists": [
+        {
+          "name": "Hypaton",
+          "url": "https://open.spotify.com/artist/5GYaRwCWwhU6SIQrQ5G3b7"
+        },
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "name": "La Bouche",
+          "url": "https://open.spotify.com/artist/488v7rQzthLNK22r0UvMie"
+        }
+      ],
+      "duration_ms": 169523,
+      "name": "Be My Lover (feat. La Bouche) - 2023 Mix",
+      "url": "https://open.spotify.com/track/2aQpISWUBToaF84DDiTeRV"
     },
     {
       "added_at": "2024-03-08 05:01:00",
@@ -1047,6 +1047,26 @@
     {
       "added_at": "2024-03-08 05:01:00",
       "album": {
+        "name": "Disconnect",
+        "url": "https://open.spotify.com/album/3H9K8wtrhvkSSqnkevhaHA"
+      },
+      "artists": [
+        {
+          "name": "Becky Hill",
+          "url": "https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK"
+        },
+        {
+          "name": "Chase & Status",
+          "url": "https://open.spotify.com/artist/3jNkaOXasoc7RsxdchvEVq"
+        }
+      ],
+      "duration_ms": 164914,
+      "name": "Disconnect",
+      "url": "https://open.spotify.com/track/602d2gJewoiF1FivuOMMwE"
+    },
+    {
+      "added_at": "2024-03-08 05:01:00",
+      "album": {
         "name": "REACT",
         "url": "https://open.spotify.com/album/3opvHAj80TIQMZAg9a2FNv"
       },
@@ -1067,26 +1087,6 @@
       "duration_ms": 201145,
       "name": "REACT",
       "url": "https://open.spotify.com/track/1UPHCP5YeVfele4DMbdGyi"
-    },
-    {
-      "added_at": "2024-03-08 05:01:00",
-      "album": {
-        "name": "Disconnect",
-        "url": "https://open.spotify.com/album/3H9K8wtrhvkSSqnkevhaHA"
-      },
-      "artists": [
-        {
-          "name": "Becky Hill",
-          "url": "https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK"
-        },
-        {
-          "name": "Chase & Status",
-          "url": "https://open.spotify.com/artist/3jNkaOXasoc7RsxdchvEVq"
-        }
-      ],
-      "duration_ms": 164914,
-      "name": "Disconnect",
-      "url": "https://open.spotify.com/track/602d2gJewoiF1FivuOMMwE"
     },
     {
       "added_at": "2024-03-08 05:01:00",
@@ -1147,6 +1147,26 @@
     {
       "added_at": "2024-03-08 05:01:00",
       "album": {
+        "name": "Drums (Feat. Kim Petras)",
+        "url": "https://open.spotify.com/album/5Xs1g4UOOm6NBk4cSxyl2M"
+      },
+      "artists": [
+        {
+          "name": "James Hype",
+          "url": "https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v"
+        },
+        {
+          "name": "Kim Petras",
+          "url": "https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J"
+        }
+      ],
+      "duration_ms": 152400,
+      "name": "Drums (Feat. Kim Petras)",
+      "url": "https://open.spotify.com/track/4AFlChQQJbB1MOCgOiiyYc"
+    },
+    {
+      "added_at": "2024-03-08 05:01:00",
+      "album": {
         "name": "All Night Long",
         "url": "https://open.spotify.com/album/4JMnG7K7XcaDlqOHS106i7"
       },
@@ -1167,26 +1187,6 @@
       "duration_ms": 178935,
       "name": "All Night Long",
       "url": "https://open.spotify.com/track/1vQWFjEC34DHNXrRTFjDxe"
-    },
-    {
-      "added_at": "2024-03-08 05:01:00",
-      "album": {
-        "name": "Drums (Feat. Kim Petras)",
-        "url": "https://open.spotify.com/album/5Xs1g4UOOm6NBk4cSxyl2M"
-      },
-      "artists": [
-        {
-          "name": "James Hype",
-          "url": "https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v"
-        },
-        {
-          "name": "Kim Petras",
-          "url": "https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J"
-        }
-      ],
-      "duration_ms": 152400,
-      "name": "Drums (Feat. Kim Petras)",
-      "url": "https://open.spotify.com/track/4AFlChQQJbB1MOCgOiiyYc"
     },
     {
       "added_at": "2024-03-08 05:01:00",
@@ -1231,22 +1231,6 @@
     {
       "added_at": "2024-03-08 05:01:00",
       "album": {
-        "name": "Drifting",
-        "url": "https://open.spotify.com/album/2kLk6nNB65O9AA6EmaI5DG"
-      },
-      "artists": [
-        {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
-        }
-      ],
-      "duration_ms": 147692,
-      "name": "Drifting",
-      "url": "https://open.spotify.com/track/4EmH2iRucAgCOnhuJRotUi"
-    },
-    {
-      "added_at": "2024-03-08 05:01:00",
-      "album": {
         "name": "Rainfall (Praise You)",
         "url": "https://open.spotify.com/album/4VanY5i4E59Mhz52qznJ95"
       },
@@ -1259,6 +1243,22 @@
       "duration_ms": 166569,
       "name": "Rainfall (Praise You)",
       "url": "https://open.spotify.com/track/1M8t1j3Kv2qp97bdq5q4Vl"
+    },
+    {
+      "added_at": "2024-03-08 05:01:00",
+      "album": {
+        "name": "Drifting",
+        "url": "https://open.spotify.com/album/2kLk6nNB65O9AA6EmaI5DG"
+      },
+      "artists": [
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        }
+      ],
+      "duration_ms": 147692,
+      "name": "Drifting",
+      "url": "https://open.spotify.com/track/4EmH2iRucAgCOnhuJRotUi"
     },
     {
       "added_at": "2024-03-08 05:01:00",
@@ -1883,22 +1883,6 @@
     {
       "added_at": "2024-03-08 05:01:00",
       "album": {
-        "name": "Maria Maria",
-        "url": "https://open.spotify.com/album/4VMuvqjQv3yvtFdlLs9Mnd"
-      },
-      "artists": [
-        {
-          "name": "TECH IT DEEP",
-          "url": "https://open.spotify.com/artist/0zG1jPdH10g3d0dZINMYkw"
-        }
-      ],
-      "duration_ms": 161801,
-      "name": "Maria Maria",
-      "url": "https://open.spotify.com/track/4wP6mzWZC94dYmU6OYeljf"
-    },
-    {
-      "added_at": "2024-03-08 05:01:00",
-      "album": {
         "name": "RIZZ",
         "url": "https://open.spotify.com/album/6uH0vo25qVqNveP02Pr4Uc"
       },
@@ -1911,6 +1895,22 @@
       "duration_ms": 200787,
       "name": "RIZZ",
       "url": "https://open.spotify.com/track/3DqOJ2BoddzZpNdty3okJH"
+    },
+    {
+      "added_at": "2024-03-08 05:01:00",
+      "album": {
+        "name": "Maria Maria",
+        "url": "https://open.spotify.com/album/4VMuvqjQv3yvtFdlLs9Mnd"
+      },
+      "artists": [
+        {
+          "name": "TECH IT DEEP",
+          "url": "https://open.spotify.com/artist/0zG1jPdH10g3d0dZINMYkw"
+        }
+      ],
+      "duration_ms": 161801,
+      "name": "Maria Maria",
+      "url": "https://open.spotify.com/track/4wP6mzWZC94dYmU6OYeljf"
     },
     {
       "added_at": "2024-03-08 05:01:00",
@@ -1963,26 +1963,6 @@
     {
       "added_at": "2024-03-08 05:01:00",
       "album": {
-        "name": "Esta Vida",
-        "url": "https://open.spotify.com/album/5C82uAeAwABjDB7lsLL9iL"
-      },
-      "artists": [
-        {
-          "name": "Marshmello",
-          "url": "https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T"
-        },
-        {
-          "name": "Farruko",
-          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
-        }
-      ],
-      "duration_ms": 209135,
-      "name": "Esta Vida",
-      "url": "https://open.spotify.com/track/5OSGdSxtulzlzdPdK2MQJC"
-    },
-    {
-      "added_at": "2024-03-08 05:01:00",
-      "album": {
         "name": "Jamming (FISHER Rework)",
         "url": "https://open.spotify.com/album/7JIcY8DOxlyJKAW3Dl3sWk"
       },
@@ -1999,6 +1979,26 @@
       "duration_ms": 201928,
       "name": "Jamming - FISHER Rework",
       "url": "https://open.spotify.com/track/2gKewcQZEV1fqoWH81RUDk"
+    },
+    {
+      "added_at": "2024-03-08 05:01:00",
+      "album": {
+        "name": "Esta Vida",
+        "url": "https://open.spotify.com/album/5C82uAeAwABjDB7lsLL9iL"
+      },
+      "artists": [
+        {
+          "name": "Marshmello",
+          "url": "https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T"
+        },
+        {
+          "name": "Farruko",
+          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
+        }
+      ],
+      "duration_ms": 209135,
+      "name": "Esta Vida",
+      "url": "https://open.spotify.com/track/5OSGdSxtulzlzdPdK2MQJC"
     },
     {
       "added_at": "2024-03-08 05:01:00",
@@ -2183,26 +2183,6 @@
     {
       "added_at": "2024-03-08 05:01:00",
       "album": {
-        "name": "Other Boys",
-        "url": "https://open.spotify.com/album/3eb9d46lBCh5p1XBn66jBQ"
-      },
-      "artists": [
-        {
-          "name": "Marshmello",
-          "url": "https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T"
-        },
-        {
-          "name": "Dove Cameron",
-          "url": "https://open.spotify.com/artist/2W8yFh0Ga6Yf3jiayVxwkE"
-        }
-      ],
-      "duration_ms": 137065,
-      "name": "Other Boys",
-      "url": "https://open.spotify.com/track/5WZlorRUxgryaweu7kqeHd"
-    },
-    {
-      "added_at": "2024-03-08 05:01:00",
-      "album": {
         "name": "Barbie Girl (Ti\u00ebsto Remix)",
         "url": "https://open.spotify.com/album/61gisYckDdbgK42QoJEl6c"
       },
@@ -2219,6 +2199,26 @@
       "duration_ms": 155076,
       "name": "Barbie Girl - Ti\u00ebsto Remix",
       "url": "https://open.spotify.com/track/4zPVMv84MMHehLNZYIS1Zv"
+    },
+    {
+      "added_at": "2024-03-08 05:01:00",
+      "album": {
+        "name": "Other Boys",
+        "url": "https://open.spotify.com/album/3eb9d46lBCh5p1XBn66jBQ"
+      },
+      "artists": [
+        {
+          "name": "Marshmello",
+          "url": "https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T"
+        },
+        {
+          "name": "Dove Cameron",
+          "url": "https://open.spotify.com/artist/2W8yFh0Ga6Yf3jiayVxwkE"
+        }
+      ],
+      "duration_ms": 137065,
+      "name": "Other Boys",
+      "url": "https://open.spotify.com/track/5WZlorRUxgryaweu7kqeHd"
     },
     {
       "added_at": "2024-03-08 05:01:00",
@@ -2543,6 +2543,26 @@
     {
       "added_at": "2024-03-08 05:01:00",
       "album": {
+        "name": "A Milli (SIDEPIECE Remix)",
+        "url": "https://open.spotify.com/album/2CElE4zRNvhLHuRSqdB1pS"
+      },
+      "artists": [
+        {
+          "name": "Lil Wayne",
+          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+        },
+        {
+          "name": "SIDEPIECE",
+          "url": "https://open.spotify.com/artist/5czbzNZZfWpyFgZyfT3Mkk"
+        }
+      ],
+      "duration_ms": 153750,
+      "name": "A Milli - SIDEPIECE Remix",
+      "url": "https://open.spotify.com/track/7nDxeN6NDc7v3v774IXiC5"
+    },
+    {
+      "added_at": "2024-03-08 05:01:00",
+      "album": {
         "name": "Aguila (feat. Cumbiafrica)",
         "url": "https://open.spotify.com/album/6rqFLZcRn19VEwRQ6ERBFS"
       },
@@ -2563,26 +2583,6 @@
       "duration_ms": 168600,
       "name": "Aguila (feat. Cumbiafrica)",
       "url": "https://open.spotify.com/track/1TAWywmhj68rLpor3w8J0X"
-    },
-    {
-      "added_at": "2024-03-08 05:01:00",
-      "album": {
-        "name": "A Milli (SIDEPIECE Remix)",
-        "url": "https://open.spotify.com/album/2CElE4zRNvhLHuRSqdB1pS"
-      },
-      "artists": [
-        {
-          "name": "Lil Wayne",
-          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
-        },
-        {
-          "name": "SIDEPIECE",
-          "url": "https://open.spotify.com/artist/5czbzNZZfWpyFgZyfT3Mkk"
-        }
-      ],
-      "duration_ms": 153750,
-      "name": "A Milli - SIDEPIECE Remix",
-      "url": "https://open.spotify.com/track/7nDxeN6NDc7v3v774IXiC5"
     },
     {
       "added_at": "2024-03-08 05:01:00",
@@ -2719,26 +2719,6 @@
     {
       "added_at": "2024-03-08 05:01:00",
       "album": {
-        "name": "Saturday Love",
-        "url": "https://open.spotify.com/album/4Heb9ISUmA1d3h9VMGY9a6"
-      },
-      "artists": [
-        {
-          "name": "Matroda",
-          "url": "https://open.spotify.com/artist/45lcbTsX07JWzmTIjcdyBz"
-        },
-        {
-          "name": "Dino DZ",
-          "url": "https://open.spotify.com/artist/3WJeKjQBTbEjR9psopu0Si"
-        }
-      ],
-      "duration_ms": 141120,
-      "name": "Saturday Love",
-      "url": "https://open.spotify.com/track/2jGlVbdMM7pzUl5RyeSJrX"
-    },
-    {
-      "added_at": "2024-03-08 05:01:00",
-      "album": {
         "name": "One Three Nine",
         "url": "https://open.spotify.com/album/3mTc50dqYY9Nd1GJP6Isyr"
       },
@@ -2755,6 +2735,26 @@
       "duration_ms": 168000,
       "name": "One Three Nine",
       "url": "https://open.spotify.com/track/5WsSAyixmdLYcl3FRMjZM1"
+    },
+    {
+      "added_at": "2024-03-08 05:01:00",
+      "album": {
+        "name": "Saturday Love",
+        "url": "https://open.spotify.com/album/4Heb9ISUmA1d3h9VMGY9a6"
+      },
+      "artists": [
+        {
+          "name": "Matroda",
+          "url": "https://open.spotify.com/artist/45lcbTsX07JWzmTIjcdyBz"
+        },
+        {
+          "name": "Dino DZ",
+          "url": "https://open.spotify.com/artist/3WJeKjQBTbEjR9psopu0Si"
+        }
+      ],
+      "duration_ms": 141120,
+      "name": "Saturday Love",
+      "url": "https://open.spotify.com/track/2jGlVbdMM7pzUl5RyeSJrX"
     },
     {
       "added_at": "2024-03-08 05:01:00",

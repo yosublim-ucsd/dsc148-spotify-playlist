@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5p7tFA8Sla6.md) - [plain]
 
 > Funk \- new and old \- to accompany your drive.
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,675 likes - 100 songs - 7 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,693 likes - 100 songs - 7 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,8 +52,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5p7tFA8Sla6.md) - [plain]
 | 42 | [On a Good One](https://open.spotify.com/track/71nvrESAOkHt17x0n5pibQ) | [Tuxedo](https://open.spotify.com/artist/0CCqHvxGgfjJzwzQzmPlEr) | [Tuxedo III](https://open.spotify.com/album/50FkN4h0tTESPCzIK6E7KX) | 3:29 |
 | 43 | [Diggin' On James Brown](https://open.spotify.com/track/4Udo45PAGJgTbIWTqFdHKe) | [Tower Of Power](https://open.spotify.com/artist/0JCxGVxsISZzJHJPUOtceB) | [Souled Out](https://open.spotify.com/album/13QSuP63jfv33OqqqnEZyY) | 4:39 |
 | 44 | [Head](https://open.spotify.com/track/3dFVdhSdZ88dmGNlTHWC5P) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [Dirty Mind](https://open.spotify.com/album/4JsSbaggaprB1AfDylXnxO) | 4:45 |
-| 45 | [Funk That Junk](https://open.spotify.com/track/5Lto3D5kr8dmalcZ0hRp2G) | [Brother Strut](https://open.spotify.com/artist/3Z1RXhBBhcyVcry5HAcVRg) | [What We Got Together](https://open.spotify.com/album/5uWedPD8C7hbLJ4iD3aV18) | 2:35 |
-| 46 | [Yes We Can Can](https://open.spotify.com/track/7FpGAivMuzzBcnOlHZnouD) | [The Pointer Sisters](https://open.spotify.com/artist/2kreKea2n96dXjcyAU9j5N) | [Yes We Can Can: The Best Of The Blue Thumb Recordings](https://open.spotify.com/album/5z8tMRZnLxrxqqOsw3oZHP) | 6:02 |
+| 45 | [Yes We Can Can](https://open.spotify.com/track/7FpGAivMuzzBcnOlHZnouD) | [The Pointer Sisters](https://open.spotify.com/artist/2kreKea2n96dXjcyAU9j5N) | [Yes We Can Can: The Best Of The Blue Thumb Recordings](https://open.spotify.com/album/5z8tMRZnLxrxqqOsw3oZHP) | 6:02 |
+| 46 | [Funk That Junk](https://open.spotify.com/track/5Lto3D5kr8dmalcZ0hRp2G) | [Brother Strut](https://open.spotify.com/artist/3Z1RXhBBhcyVcry5HAcVRg) | [What We Got Together](https://open.spotify.com/album/5uWedPD8C7hbLJ4iD3aV18) | 2:35 |
 | 47 | [A Message from the Meters](https://open.spotify.com/track/0M1tkc80T0So48tBpXjhcq) | [The Sure Fire Soul Ensemble](https://open.spotify.com/artist/5vdTwIo9GoUu8IVLyJavsZ), [Kelly Finnigan](https://open.spotify.com/artist/0gdEDrF1Fve7FIBYcmX7W4) | [Jeannie's Getdown](https://open.spotify.com/album/0cpAnAv6dKdeFDe6aGR8kg) | 3:06 |
 | 48 | [Sheez Music](https://open.spotify.com/track/6LKRuyVDn74fN6TemK7lyK) | [Dumpstaphunk](https://open.spotify.com/artist/6LvO4vaTTJhCAdpITMpDvC) | [Everybody Want Sum](https://open.spotify.com/album/14D2GvYb7WNfUuVA0nXjUD) | 4:48 |
 | 49 | [You're Gone](https://open.spotify.com/track/2auIQ3gf99I7wFz2DbZKWk) | [Smoove & Turrell](https://open.spotify.com/artist/2H1QvrzVgcOKPRpYF8xDUn), [Izo FitzRoy](https://open.spotify.com/artist/50gPQYV9WREGkWM53dNb9r) | [Mount Pleasant](https://open.spotify.com/album/080iszZgRFPqymcbo1qlOK) | 3:42 |
@@ -63,8 +63,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5p7tFA8Sla6.md) - [plain]
 | 53 | [Livin' It Up](https://open.spotify.com/track/62W5VouctXG9jggZdHaEi1) | [Mandrill](https://open.spotify.com/artist/6RWnslEkqboHbDg0OUabe5) | [Livin' It Up](https://open.spotify.com/album/2ArLz9gq7VhXgnB5s6IFdH) | 4:21 |
 | 54 | [Housequake](https://open.spotify.com/track/5xP9clzYBKZ6F3u2VZUaBJ) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [Sign "O" the Times](https://open.spotify.com/album/1XsXHctYSQNyAd9BANCk2B) | 4:42 |
 | 55 | [Slippery When Wet](https://open.spotify.com/track/6Pb0WHqmmTL308Z2uQrNP1) | [Commodores](https://open.spotify.com/artist/6twIAGnYuIT1pncMAsXnEm) | [The Commodores: The Definitive Collection](https://open.spotify.com/album/4mDGyVthoID64WAcff0HxR) | 3:17 |
-| 56 | [Funky President \(People It's Bad\)](https://open.spotify.com/track/01xhntcYe1f5EqHc2T7pep) | [James Brown](https://open.spotify.com/artist/7GaxyUddsPok8BuhxN6OUW) | [Star Time](https://open.spotify.com/album/2yuTyv0L51qvYuI5RIktlA) | 3:58 |
-| 57 | [Leather Tramp](https://open.spotify.com/track/4eE8oY58qNnSonXWTApsqP) | [Diggin' Dirt](https://open.spotify.com/artist/3xgLOazt16FXyWSWJ99ViC) | [Bedrock](https://open.spotify.com/album/7BfW6qexlu1FanMNnCdoUb) | 5:51 |
+| 56 | [Leather Tramp](https://open.spotify.com/track/4eE8oY58qNnSonXWTApsqP) | [Diggin' Dirt](https://open.spotify.com/artist/3xgLOazt16FXyWSWJ99ViC) | [Bedrock](https://open.spotify.com/album/7BfW6qexlu1FanMNnCdoUb) | 5:51 |
+| 57 | [Funky President \(People It's Bad\)](https://open.spotify.com/track/01xhntcYe1f5EqHc2T7pep) | [James Brown](https://open.spotify.com/artist/7GaxyUddsPok8BuhxN6OUW) | [Star Time](https://open.spotify.com/album/2yuTyv0L51qvYuI5RIktlA) | 3:58 |
 | 58 | [Boogie Witcha, Baby](https://open.spotify.com/track/5NqRwz0rPh3aK4iWyJLXxy) | [Larry Graham & Graham Central Station](https://open.spotify.com/artist/6NodJUvzLqPU2HtPLhDuf5) | [My Radio Sure Sounds Good To Me](https://open.spotify.com/album/5DldGiP8hbKtAjGzzcdYEq) | 3:47 |
 | 59 | [Highly Compatible](https://open.spotify.com/track/2ODU2nsPtVrNIEmBGqhLaH) | [The Motet](https://open.spotify.com/artist/4nEUXGyTWXweCdfVf7f8zN) | [Death or Devotion](https://open.spotify.com/album/5u4QWSGcNGl7u9c4PMBbIj) | 6:05 |
 | 60 | [Funk Ain't Ova](https://open.spotify.com/track/5nBgM7vUM7w9bNKW2MFZhH) | [Brooklyn Funk Essentials](https://open.spotify.com/artist/4r4tRC1EUpfUCLjwQXP5EA), [Alison Limerick](https://open.spotify.com/artist/0ELXBCSsRl2m92MgnOsA69), [Desmond Foster](https://open.spotify.com/artist/3qqFMYoELTj4g9yzuQEALf) | [Stay Good](https://open.spotify.com/album/7KFdFOJJF84VbZ5rJjbyK7) | 3:51 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5p7tFA8Sla6.md) - [plain]
 | 99 | [Wired Up](https://open.spotify.com/track/3y1j3spsGsSWHE2rCOgewx) | [The Brand New Heavies](https://open.spotify.com/artist/3DEveX6KVzhPDqq2VRuN14), [N'Dea Davenport](https://open.spotify.com/artist/2JrR5OwlQ3XXuDwozp9tYT) | [TBNH](https://open.spotify.com/album/6gL04x8eHRhPngzh6WzFq2) | 3:32 |
 | 100 | [Warning](https://open.spotify.com/track/3EQOwmp82jHkPtSUnG3aPn) | [Cookin' On 3 Burners](https://open.spotify.com/artist/726MxZBpkxnnoKl6aN7mmj), [Kaiit](https://open.spotify.com/artist/05GTlMes7SkTlE9JcIvYB2) | [Lab Experiments, Vol\. 2](https://open.spotify.com/album/6j0BOlgrf1L0rBfI6fqxmA) | 3:31 |
 
-Snapshot ID: `MCxjMmVhOWY1N2RlZDE4YzdlNDc2ZDk4M2M4MWVlN2U2NjBkMDFkYjUz`
+Snapshot ID: `MCw1YmU5YjVhNzhmNmQ3NWI5NWQ3MGQzMmRhN2E3NTQ0MmNiNmI2Mzg0`

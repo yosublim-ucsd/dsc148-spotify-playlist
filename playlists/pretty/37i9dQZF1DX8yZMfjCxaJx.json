@@ -1,12 +1,12 @@
 {
   "description": "Las favoritas de los patrones. Los Plebes del Rancho, Juanpa Salazar en portada.",
-  "num_followers": 213670,
+  "num_followers": 213728,
   "original_name": "Corridos Chakalosos",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2ZDkzM2VjMzBhZmU4MjYxMzQ2YWMxMzZlY2Y2YjA4MjU0YzdlOGZk",
+  "snapshot_id": "MCxhN2M3NjA4ODQ3NTM3YWU5OWNhNDk1NzkyMWVmZGViYzA1MDZkYzc4",
   "tracks": [
     {
       "added_at": "2024-03-01 06:00:00",
@@ -495,6 +495,22 @@
     {
       "added_at": "2024-03-01 06:00:00",
       "album": {
+        "name": "Qu\u00e9date Conmigo",
+        "url": "https://open.spotify.com/album/2ecO4JampVxMRviNZzCAPE"
+      },
+      "artists": [
+        {
+          "name": "Edicion Especial",
+          "url": "https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi"
+        }
+      ],
+      "duration_ms": 209920,
+      "name": "Backpack",
+      "url": "https://open.spotify.com/track/4Yrl7HbCo4xgkalAG985RF"
+    },
+    {
+      "added_at": "2024-03-01 06:00:00",
+      "album": {
         "name": "Por Clave El Caiman",
         "url": "https://open.spotify.com/album/59a9ZTGGKzHDQND5K6g65g"
       },
@@ -511,22 +527,6 @@
       "duration_ms": 158626,
       "name": "Por Clave Caiman",
       "url": "https://open.spotify.com/track/78CE12m0ygkEbWpTSNqLOM"
-    },
-    {
-      "added_at": "2024-03-01 06:00:00",
-      "album": {
-        "name": "Qu\u00e9date Conmigo",
-        "url": "https://open.spotify.com/album/2ecO4JampVxMRviNZzCAPE"
-      },
-      "artists": [
-        {
-          "name": "Edicion Especial",
-          "url": "https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi"
-        }
-      ],
-      "duration_ms": 209920,
-      "name": "Backpack",
-      "url": "https://open.spotify.com/track/4Yrl7HbCo4xgkalAG985RF"
     },
     {
       "added_at": "2024-03-01 06:00:00",
@@ -591,26 +591,6 @@
     {
       "added_at": "2024-03-01 06:00:00",
       "album": {
-        "name": "Los Brothers",
-        "url": "https://open.spotify.com/album/0NKBG5glYWs0ephhtBH2YH"
-      },
-      "artists": [
-        {
-          "name": "Beto Vega",
-          "url": "https://open.spotify.com/artist/4sB1zr9B9t2OgQtdejswak"
-        },
-        {
-          "name": "Antonin Padilla",
-          "url": "https://open.spotify.com/artist/1wlt0D7y3meggHVgSwSqpk"
-        }
-      ],
-      "duration_ms": 213442,
-      "name": "Los Brothers",
-      "url": "https://open.spotify.com/track/1iB1sVaGDfCbhB3syfoZ7J"
-    },
-    {
-      "added_at": "2024-03-01 06:00:00",
-      "album": {
         "name": "El Dos de los Antrax",
         "url": "https://open.spotify.com/album/3QREXMTqKJdqBNU0JnNgvS"
       },
@@ -627,6 +607,26 @@
       "duration_ms": 199769,
       "name": "El Dos de los Antrax",
       "url": "https://open.spotify.com/track/0afnj4MhXXw66wK238iUwe"
+    },
+    {
+      "added_at": "2024-03-01 06:00:00",
+      "album": {
+        "name": "Los Brothers",
+        "url": "https://open.spotify.com/album/0NKBG5glYWs0ephhtBH2YH"
+      },
+      "artists": [
+        {
+          "name": "Beto Vega",
+          "url": "https://open.spotify.com/artist/4sB1zr9B9t2OgQtdejswak"
+        },
+        {
+          "name": "Antonin Padilla",
+          "url": "https://open.spotify.com/artist/1wlt0D7y3meggHVgSwSqpk"
+        }
+      ],
+      "duration_ms": 213442,
+      "name": "Los Brothers",
+      "url": "https://open.spotify.com/track/1iB1sVaGDfCbhB3syfoZ7J"
     },
     {
       "added_at": "2024-03-01 06:00:00",
@@ -1427,6 +1427,22 @@
     {
       "added_at": "2024-03-01 06:00:00",
       "album": {
+        "name": "El Cabez\u00f3n (El Papas Fritas)",
+        "url": "https://open.spotify.com/album/480oASOS6npWutZkW7zeNf"
+      },
+      "artists": [
+        {
+          "name": "Enigma Norte\u00f1o",
+          "url": "https://open.spotify.com/artist/3441uYrkzgTWwjXLd13R0U"
+        }
+      ],
+      "duration_ms": 153653,
+      "name": "El Cabez\u00f3n (El Papas Fritas)",
+      "url": "https://open.spotify.com/track/0dXQHB8h7HEGD95YYcj7HJ"
+    },
+    {
+      "added_at": "2024-03-01 06:00:00",
+      "album": {
         "name": "Estilo Especial (En Vivo)",
         "url": "https://open.spotify.com/album/29FmR3eNWdNhR0Yw368j6W"
       },
@@ -1443,22 +1459,6 @@
       "duration_ms": 247065,
       "name": "Estilo Especial - En Vivo",
       "url": "https://open.spotify.com/track/5jSK8BMzUXMlcFCukMi7Wm"
-    },
-    {
-      "added_at": "2024-03-01 06:00:00",
-      "album": {
-        "name": "El Cabez\u00f3n (El Papas Fritas)",
-        "url": "https://open.spotify.com/album/480oASOS6npWutZkW7zeNf"
-      },
-      "artists": [
-        {
-          "name": "Enigma Norte\u00f1o",
-          "url": "https://open.spotify.com/artist/3441uYrkzgTWwjXLd13R0U"
-        }
-      ],
-      "duration_ms": 153653,
-      "name": "El Cabez\u00f3n (El Papas Fritas)",
-      "url": "https://open.spotify.com/track/0dXQHB8h7HEGD95YYcj7HJ"
     }
   ],
   "unique_name": "Corridos Chakalosos",

@@ -1,12 +1,12 @@
 {
   "description": "A selection of the greatest funk & soul records ever made.",
-  "num_followers": 1700551,
+  "num_followers": 1700909,
   "original_name": "Funk & Soul Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5NDEzMzc5NGU3NjEwODRkYzkwMTkyMjdjYTU1NjM5ZmE3ZmU2MzA0",
+  "snapshot_id": "MCw5YzMxNDJmZTkwNTQ0YzNmMzBkMzgwN2IwZTY2YzU3OGI0OTBhMjY5",
   "tracks": [
     {
       "added_at": "2022-09-23 17:06:51",
@@ -115,8 +115,8 @@
     {
       "added_at": "2022-09-23 17:06:51",
       "album": {
-        "name": "At Last!",
-        "url": "https://open.spotify.com/album/7rd4PorIOPjPTy7qdUeeCt"
+        "name": "Tell Mama",
+        "url": "https://open.spotify.com/album/4ReJ59T4YxC62WkfyVTWpr"
       },
       "artists": [
         {
@@ -124,9 +124,9 @@
           "url": "https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb"
         }
       ],
-      "duration_ms": 179693,
-      "name": "At Last",
-      "url": "https://open.spotify.com/track/4Hhv2vrOTy89HFRcjU3QOx"
+      "duration_ms": 156653,
+      "name": "I'd Rather Go Blind",
+      "url": "https://open.spotify.com/track/1kPBT8S2wJFNAyBMnGVZgL"
     },
     {
       "added_at": "2022-09-23 17:06:51",
@@ -279,8 +279,8 @@
     {
       "added_at": "2022-09-23 17:06:51",
       "album": {
-        "name": "Tell Mama",
-        "url": "https://open.spotify.com/album/4ReJ59T4YxC62WkfyVTWpr"
+        "name": "At Last!",
+        "url": "https://open.spotify.com/album/7rd4PorIOPjPTy7qdUeeCt"
       },
       "artists": [
         {
@@ -288,9 +288,9 @@
           "url": "https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb"
         }
       ],
-      "duration_ms": 156653,
-      "name": "I'd Rather Go Blind",
-      "url": "https://open.spotify.com/track/1kPBT8S2wJFNAyBMnGVZgL"
+      "duration_ms": 179693,
+      "name": "At Last",
+      "url": "https://open.spotify.com/track/4Hhv2vrOTy89HFRcjU3QOx"
     },
     {
       "added_at": "2022-09-23 17:06:51",
@@ -731,22 +731,6 @@
     {
       "added_at": "2022-09-23 17:06:51",
       "album": {
-        "name": "Fly Me To The Moon",
-        "url": "https://open.spotify.com/album/1Kw0H84LL5YuP37Kh8lbzY"
-      },
-      "artists": [
-        {
-          "name": "Bobby Womack",
-          "url": "https://open.spotify.com/artist/0vqkz1b2qBkoYrGMj2CUWq"
-        }
-      ],
-      "duration_ms": 200973,
-      "name": "California Dreamin'",
-      "url": "https://open.spotify.com/track/6G7MHIvSDR3ehXPkuDFAlM"
-    },
-    {
-      "added_at": "2022-09-23 17:06:51",
-      "album": {
         "name": "The Spice Of Life",
         "url": "https://open.spotify.com/album/6TRHI63AVabVkLPou2biv8"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 177226,
       "name": "California Soul",
       "url": "https://open.spotify.com/track/0OwvrdjaJOypNsNQHyBWE5"
+    },
+    {
+      "added_at": "2022-09-23 17:06:51",
+      "album": {
+        "name": "Fly Me To The Moon",
+        "url": "https://open.spotify.com/album/1Kw0H84LL5YuP37Kh8lbzY"
+      },
+      "artists": [
+        {
+          "name": "Bobby Womack",
+          "url": "https://open.spotify.com/artist/0vqkz1b2qBkoYrGMj2CUWq"
+        }
+      ],
+      "duration_ms": 200973,
+      "name": "California Dreamin'",
+      "url": "https://open.spotify.com/track/6G7MHIvSDR3ehXPkuDFAlM"
     },
     {
       "added_at": "2022-09-23 17:06:51",
@@ -795,22 +795,6 @@
     {
       "added_at": "2022-09-23 17:06:51",
       "album": {
-        "name": "Dance Party",
-        "url": "https://open.spotify.com/album/3lFGAL3WruNTdBXfct7ZbZ"
-      },
-      "artists": [
-        {
-          "name": "Martha Reeves & The Vandellas",
-          "url": "https://open.spotify.com/artist/1Pe5hlKMCTULjosqZ6KanP"
-        }
-      ],
-      "duration_ms": 165226,
-      "name": "Dancing In The Street",
-      "url": "https://open.spotify.com/track/6rLqjzGV5VMLDWEnuUqi8q"
-    },
-    {
-      "added_at": "2022-09-23 17:06:51",
-      "album": {
         "name": "More Hits By The Supremes",
         "url": "https://open.spotify.com/album/2maj3yWtoFnr0g7TlNao7A"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 172906,
       "name": "Stop! In The Name Of Love",
       "url": "https://open.spotify.com/track/52FlwUMMDnTK8TGkCag9Jd"
+    },
+    {
+      "added_at": "2022-09-23 17:06:51",
+      "album": {
+        "name": "Dance Party",
+        "url": "https://open.spotify.com/album/3lFGAL3WruNTdBXfct7ZbZ"
+      },
+      "artists": [
+        {
+          "name": "Martha Reeves & The Vandellas",
+          "url": "https://open.spotify.com/artist/1Pe5hlKMCTULjosqZ6KanP"
+        }
+      ],
+      "duration_ms": 165226,
+      "name": "Dancing In The Street",
+      "url": "https://open.spotify.com/track/6rLqjzGV5VMLDWEnuUqi8q"
     },
     {
       "added_at": "2022-09-23 17:06:51",
@@ -891,22 +891,6 @@
     {
       "added_at": "2022-09-23 17:06:51",
       "album": {
-        "name": "Dance Party",
-        "url": "https://open.spotify.com/album/3lFGAL3WruNTdBXfct7ZbZ"
-      },
-      "artists": [
-        {
-          "name": "Martha Reeves & The Vandellas",
-          "url": "https://open.spotify.com/artist/1Pe5hlKMCTULjosqZ6KanP"
-        }
-      ],
-      "duration_ms": 181640,
-      "name": "Nowhere To Run",
-      "url": "https://open.spotify.com/track/1WPqawIF9HCKfSOt7mN6X0"
-    },
-    {
-      "added_at": "2022-09-23 17:06:51",
-      "album": {
         "name": "Four Tops",
         "url": "https://open.spotify.com/album/6TPCze8g5Q3yCRYyA42qAm"
       },
@@ -919,6 +903,22 @@
       "duration_ms": 166026,
       "name": "Baby I Need Your Loving",
       "url": "https://open.spotify.com/track/3aCbwWCYCT3MJjZeUnlcp4"
+    },
+    {
+      "added_at": "2022-09-23 17:06:51",
+      "album": {
+        "name": "Dance Party",
+        "url": "https://open.spotify.com/album/3lFGAL3WruNTdBXfct7ZbZ"
+      },
+      "artists": [
+        {
+          "name": "Martha Reeves & The Vandellas",
+          "url": "https://open.spotify.com/artist/1Pe5hlKMCTULjosqZ6KanP"
+        }
+      ],
+      "duration_ms": 181640,
+      "name": "Nowhere To Run",
+      "url": "https://open.spotify.com/track/1WPqawIF9HCKfSOt7mN6X0"
     },
     {
       "added_at": "2022-09-23 17:06:51",
@@ -1103,18 +1103,18 @@
     {
       "added_at": "2022-09-23 17:06:51",
       "album": {
-        "name": "Maggot Brain",
-        "url": "https://open.spotify.com/album/3ywVzrwMQ3Kq43N9zBdBQm"
+        "name": "Can't Slow Down",
+        "url": "https://open.spotify.com/album/3alZBOvPaK3hgMEEymw4Yr"
       },
       "artists": [
         {
-          "name": "Funkadelic",
-          "url": "https://open.spotify.com/artist/450o9jw6AtiQlQkHCdH6Ru"
+          "name": "Lionel Richie",
+          "url": "https://open.spotify.com/artist/3gMaNLQm7D9MornNILzdSl"
         }
       ],
-      "duration_ms": 169856,
-      "name": "Can You Get To That",
-      "url": "https://open.spotify.com/track/5lc9L9FeLBwlJPgEbq9uEw"
+      "duration_ms": 195133,
+      "name": "Stuck On You",
+      "url": "https://open.spotify.com/track/0ROwoz82DIW4tOzkxYnSjf"
     },
     {
       "added_at": "2022-09-23 17:06:51",
@@ -1135,18 +1135,18 @@
     {
       "added_at": "2022-09-23 17:06:51",
       "album": {
-        "name": "Can't Slow Down",
-        "url": "https://open.spotify.com/album/3alZBOvPaK3hgMEEymw4Yr"
+        "name": "Maggot Brain",
+        "url": "https://open.spotify.com/album/3ywVzrwMQ3Kq43N9zBdBQm"
       },
       "artists": [
         {
-          "name": "Lionel Richie",
-          "url": "https://open.spotify.com/artist/3gMaNLQm7D9MornNILzdSl"
+          "name": "Funkadelic",
+          "url": "https://open.spotify.com/artist/450o9jw6AtiQlQkHCdH6Ru"
         }
       ],
-      "duration_ms": 195133,
-      "name": "Stuck On You",
-      "url": "https://open.spotify.com/track/0ROwoz82DIW4tOzkxYnSjf"
+      "duration_ms": 169856,
+      "name": "Can You Get To That",
+      "url": "https://open.spotify.com/track/5lc9L9FeLBwlJPgEbq9uEw"
     },
     {
       "added_at": "2022-09-23 17:06:51",
@@ -1199,22 +1199,18 @@
     {
       "added_at": "2022-09-23 17:06:51",
       "album": {
-        "name": "Take Two",
-        "url": "https://open.spotify.com/album/0My58U9zPnyq4TIZOr7brK"
+        "name": "Back To Front",
+        "url": "https://open.spotify.com/album/3oCmLDbxXc1SDZIkwGo0x5"
       },
       "artists": [
         {
-          "name": "Marvin Gaye",
-          "url": "https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA"
-        },
-        {
-          "name": "Kim Weston",
-          "url": "https://open.spotify.com/artist/71pUA2TXf3JHUPUgsjLtuL"
+          "name": "Lionel Richie",
+          "url": "https://open.spotify.com/artist/3gMaNLQm7D9MornNILzdSl"
         }
       ],
-      "duration_ms": 177666,
-      "name": "It Takes Two",
-      "url": "https://open.spotify.com/track/0UERoCKd24PKovd4BwRzBQ"
+      "duration_ms": 260493,
+      "name": "All Night Long - Single Version",
+      "url": "https://open.spotify.com/track/4giIdAr7Plyu5LQzBOR4FP"
     },
     {
       "added_at": "2022-09-23 17:06:51",
@@ -1235,6 +1231,26 @@
     {
       "added_at": "2022-09-23 17:06:51",
       "album": {
+        "name": "Take Two",
+        "url": "https://open.spotify.com/album/0My58U9zPnyq4TIZOr7brK"
+      },
+      "artists": [
+        {
+          "name": "Marvin Gaye",
+          "url": "https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA"
+        },
+        {
+          "name": "Kim Weston",
+          "url": "https://open.spotify.com/artist/71pUA2TXf3JHUPUgsjLtuL"
+        }
+      ],
+      "duration_ms": 177666,
+      "name": "It Takes Two",
+      "url": "https://open.spotify.com/track/0UERoCKd24PKovd4BwRzBQ"
+    },
+    {
+      "added_at": "2022-09-23 17:06:51",
+      "album": {
         "name": "The Meters",
         "url": "https://open.spotify.com/album/1Nt14TE6bKZGzJrROip36y"
       },
@@ -1247,22 +1263,6 @@
       "duration_ms": 186853,
       "name": "Cissy Strut",
       "url": "https://open.spotify.com/track/0WSlOSMLJWoWUpWci9nnRb"
-    },
-    {
-      "added_at": "2022-09-23 17:06:51",
-      "album": {
-        "name": "Back To Front",
-        "url": "https://open.spotify.com/album/3oCmLDbxXc1SDZIkwGo0x5"
-      },
-      "artists": [
-        {
-          "name": "Lionel Richie",
-          "url": "https://open.spotify.com/artist/3gMaNLQm7D9MornNILzdSl"
-        }
-      ],
-      "duration_ms": 260493,
-      "name": "All Night Long - Single Version",
-      "url": "https://open.spotify.com/track/4giIdAr7Plyu5LQzBOR4FP"
     },
     {
       "added_at": "2022-09-23 17:06:51",

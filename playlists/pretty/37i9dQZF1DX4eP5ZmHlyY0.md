@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4eP5ZmHlyY0.md) - [plain]
 
 > 日本で活躍するボーイズグループを特集。cover: MAZZEL
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,233 likes - 50 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,248 likes - 50 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4eP5ZmHlyY0.md) - [plain]
 | 49 | [Parade](https://open.spotify.com/track/1DCISG31avGG9oQK3gnDxh) | [MAZZEL](https://open.spotify.com/artist/5Zy2tdfVQKbDwpqWcjXg42) | [Parade](https://open.spotify.com/album/4mRG6P1L3qX4kR2TFXlFP0) | 3:11 |
 | 50 | [Okie Dokie!](https://open.spotify.com/track/58LIpK5Tj6lX9L6e3dOev1) | [Travis Japan](https://open.spotify.com/artist/28IJpwoVi5R92MtHxkj2Lk) | [Road to A](https://open.spotify.com/album/4j5ZiAKLouJYnyLOAzyBRo) | 3:33 |
 
-Snapshot ID: `MCwwMDUxN2MxNDhjOTVkNzg0OTc5YmNkMmQ1ZDgxYjBiMTg2MTMxMTE4`
+Snapshot ID: `MCxlM2Y0YWFiZmIxZjc3ZTJkYWMwZjVhNzkzY2ZmNGIzZjBhM2FiNGMz`

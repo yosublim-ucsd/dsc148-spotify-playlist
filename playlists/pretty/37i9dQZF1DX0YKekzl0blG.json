@@ -1,12 +1,12 @@
 {
   "description": "All the indelible tunes from the other side of the 00s. Cover: LCD Soundsystem",
-  "num_followers": 700123,
+  "num_followers": 700215,
   "original_name": "Alternative 00s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxYTQzMDU1NDFjYWQ5ODViOTA3ZGMyN2M5ZDQxMTE1OGNlZjFkMmUw",
+  "snapshot_id": "MCw3NjM0MWMzMmU5NjFhYjkyZjViYzY3OTIxZDJkN2VjYzNkOGY0Njg5",
   "tracks": [
     {
       "added_at": "2024-03-18 22:33:18",
@@ -651,22 +651,6 @@
     {
       "added_at": "2024-03-18 22:33:18",
       "album": {
-        "name": "Dreams",
-        "url": "https://open.spotify.com/album/0ajuOfBlVf6XlnaZAYUVBf"
-      },
-      "artists": [
-        {
-          "name": "The Whitest Boy Alive",
-          "url": "https://open.spotify.com/artist/1qcU8NabUQ5efQf8UGW6CV"
-        }
-      ],
-      "duration_ms": 191173,
-      "name": "Burning",
-      "url": "https://open.spotify.com/track/0QgR03vMDoBoLgcu08EtKl"
-    },
-    {
-      "added_at": "2024-03-18 22:33:18",
-      "album": {
         "name": "Broken Boy Soldiers",
         "url": "https://open.spotify.com/album/4Z1sCXBHHKWCsScOLAfuig"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 215266,
       "name": "Steady, As She Goes",
       "url": "https://open.spotify.com/track/4xlEKYv7HmC8zXoJIbpZKM"
+    },
+    {
+      "added_at": "2024-03-18 22:33:18",
+      "album": {
+        "name": "Dreams",
+        "url": "https://open.spotify.com/album/0ajuOfBlVf6XlnaZAYUVBf"
+      },
+      "artists": [
+        {
+          "name": "The Whitest Boy Alive",
+          "url": "https://open.spotify.com/artist/1qcU8NabUQ5efQf8UGW6CV"
+        }
+      ],
+      "duration_ms": 191173,
+      "name": "Burning",
+      "url": "https://open.spotify.com/track/0QgR03vMDoBoLgcu08EtKl"
     },
     {
       "added_at": "2024-03-18 22:33:18",
@@ -1275,18 +1275,18 @@
     {
       "added_at": "2024-03-18 22:33:18",
       "album": {
-        "name": "It's Blitz!",
-        "url": "https://open.spotify.com/album/4dBMwYZJ84lj8HRTdL8Toj"
+        "name": "I Had The Blues But I Shook Them Loose",
+        "url": "https://open.spotify.com/album/4X0bhkSBOfcnOPyfG5Ef6a"
       },
       "artists": [
         {
-          "name": "Yeah Yeah Yeahs",
-          "url": "https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2"
+          "name": "Bombay Bicycle Club",
+          "url": "https://open.spotify.com/artist/3pTE9iaJTkWns3mxpNQlJV"
         }
       ],
-      "duration_ms": 221000,
-      "name": "Heads Will Roll",
-      "url": "https://open.spotify.com/track/4WiIscpBgQFm5qIyjoH7M4"
+      "duration_ms": 245640,
+      "name": "Always Like This",
+      "url": "https://open.spotify.com/track/73M2Vb5MfZh8iGKudkMtlw"
     }
   ],
   "unique_name": "Alternative 00s",

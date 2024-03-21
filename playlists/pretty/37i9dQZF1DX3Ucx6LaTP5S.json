@@ -1,15 +1,127 @@
 {
   "description": "It's a good day to be a My Day!",
-  "num_followers": 244016,
+  "num_followers": 244188,
   "original_name": "This Is DAY6",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1YWU3MGUyZWEzOGE1MWFlODljMDI3MjJkZmZlMWUwYjE4YzY0ZDM1",
+  "snapshot_id": "MCwzZjQzZjA2MjZmYzM5NWQ1YzllZWM1ZGUyODM5MTkxOWVkODc0OTZh",
   "tracks": [
     {
-      "added_at": "2022-02-07 09:50:03",
+      "added_at": "2024-03-20 06:02:09",
+      "album": {
+        "name": "Fourever",
+        "url": "https://open.spotify.com/album/29pgfsXVV0cLsvfylWRZJ9"
+      },
+      "artists": [
+        {
+          "name": "DAY6",
+          "url": "https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc"
+        }
+      ],
+      "duration_ms": 217067,
+      "name": "Welcome to the Show",
+      "url": "https://open.spotify.com/track/6je5cTal6PyeITNrOzkCoS"
+    },
+    {
+      "added_at": "2024-03-20 06:02:09",
+      "album": {
+        "name": "Fourever",
+        "url": "https://open.spotify.com/album/29pgfsXVV0cLsvfylWRZJ9"
+      },
+      "artists": [
+        {
+          "name": "DAY6",
+          "url": "https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc"
+        }
+      ],
+      "duration_ms": 189934,
+      "name": "HAPPY",
+      "url": "https://open.spotify.com/track/1k68vKHNQXU5CHqcM7Yp7N"
+    },
+    {
+      "added_at": "2024-03-20 06:02:09",
+      "album": {
+        "name": "Fourever",
+        "url": "https://open.spotify.com/album/29pgfsXVV0cLsvfylWRZJ9"
+      },
+      "artists": [
+        {
+          "name": "DAY6",
+          "url": "https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc"
+        }
+      ],
+      "duration_ms": 202480,
+      "name": "The Power of Love",
+      "url": "https://open.spotify.com/track/0LdpgzRupg6P511GEACdm2"
+    },
+    {
+      "added_at": "2024-03-20 06:02:09",
+      "album": {
+        "name": "Fourever",
+        "url": "https://open.spotify.com/album/29pgfsXVV0cLsvfylWRZJ9"
+      },
+      "artists": [
+        {
+          "name": "DAY6",
+          "url": "https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc"
+        }
+      ],
+      "duration_ms": 166227,
+      "name": "Get The Hell Out",
+      "url": "https://open.spotify.com/track/54Nmnszi5JHkDad4HJ5Cul"
+    },
+    {
+      "added_at": "2024-03-20 06:02:09",
+      "album": {
+        "name": "Fourever",
+        "url": "https://open.spotify.com/album/29pgfsXVV0cLsvfylWRZJ9"
+      },
+      "artists": [
+        {
+          "name": "DAY6",
+          "url": "https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc"
+        }
+      ],
+      "duration_ms": 204480,
+      "name": "Sad Ending",
+      "url": "https://open.spotify.com/track/68Jm50sJpUdqu3IyMdFaXp"
+    },
+    {
+      "added_at": "2024-03-20 06:02:09",
+      "album": {
+        "name": "Fourever",
+        "url": "https://open.spotify.com/album/29pgfsXVV0cLsvfylWRZJ9"
+      },
+      "artists": [
+        {
+          "name": "DAY6",
+          "url": "https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc"
+        }
+      ],
+      "duration_ms": 243520,
+      "name": "Let Me Love You",
+      "url": "https://open.spotify.com/track/3A5urMlHvbqkxMaz5AtXGN"
+    },
+    {
+      "added_at": "2024-03-20 06:02:09",
+      "album": {
+        "name": "Fourever",
+        "url": "https://open.spotify.com/album/29pgfsXVV0cLsvfylWRZJ9"
+      },
+      "artists": [
+        {
+          "name": "DAY6",
+          "url": "https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc"
+        }
+      ],
+      "duration_ms": 239040,
+      "name": "didn't know",
+      "url": "https://open.spotify.com/track/5w7gTLyEWG3zXlawkP4Kf7"
+    },
+    {
+      "added_at": "2024-03-20 06:02:09",
       "album": {
         "name": "Pilmography",
         "url": "https://open.spotify.com/album/1QbOQIYZYbSIXytzCErlZZ"
@@ -25,7 +137,7 @@
       "url": "https://open.spotify.com/track/1QhL0FXOskul3uJLpbV2pL"
     },
     {
-      "added_at": "2021-09-30 13:45:58",
+      "added_at": "2024-03-20 06:02:09",
       "album": {
         "name": "Out of the Blue",
         "url": "https://open.spotify.com/album/6J8ozqrMlo6p3PmcTwFM6Y"
@@ -45,7 +157,7 @@
       "url": "https://open.spotify.com/track/2tsqYaAoyvZ53hUKXTrBfq"
     },
     {
-      "added_at": "2021-09-07 07:05:08",
+      "added_at": "2024-03-20 06:02:09",
       "album": {
         "name": "Eternal",
         "url": "https://open.spotify.com/album/7pH1aRaBcogrfEOrAKsUZF"
@@ -61,7 +173,7 @@
       "url": "https://open.spotify.com/track/4niblKZlhxVGqovEBCJbWZ"
     },
     {
-      "added_at": "2021-07-09 08:12:03",
+      "added_at": "2024-03-20 06:02:09",
       "album": {
         "name": "Right Through Me",
         "url": "https://open.spotify.com/album/0RuZ46wBwNUBTAcm3XL7iJ"
@@ -77,7 +189,7 @@
       "url": "https://open.spotify.com/track/73ZstMbTmOYuT7QtIdg5G1"
     },
     {
-      "added_at": "2021-07-09 08:12:03",
+      "added_at": "2024-03-20 06:02:09",
       "album": {
         "name": "Right Through Me",
         "url": "https://open.spotify.com/album/0RuZ46wBwNUBTAcm3XL7iJ"
@@ -93,7 +205,7 @@
       "url": "https://open.spotify.com/track/6uBWMoDZITSfEicLPuMW8l"
     },
     {
-      "added_at": "2021-07-09 08:12:03",
+      "added_at": "2024-03-20 06:02:09",
       "album": {
         "name": "Right Through Me",
         "url": "https://open.spotify.com/album/0RuZ46wBwNUBTAcm3XL7iJ"
@@ -109,7 +221,7 @@
       "url": "https://open.spotify.com/track/52whWw3KoBFHATz8sHoPPU"
     },
     {
-      "added_at": "2021-07-09 08:12:03",
+      "added_at": "2024-03-20 06:02:09",
       "album": {
         "name": "Right Through Me",
         "url": "https://open.spotify.com/album/0RuZ46wBwNUBTAcm3XL7iJ"
@@ -125,7 +237,7 @@
       "url": "https://open.spotify.com/track/7rfyK5CqNvDHC4EtZ0hfuE"
     },
     {
-      "added_at": "2021-07-09 08:12:03",
+      "added_at": "2024-03-20 06:02:09",
       "album": {
         "name": "Right Through Me",
         "url": "https://open.spotify.com/album/0RuZ46wBwNUBTAcm3XL7iJ"
@@ -141,7 +253,7 @@
       "url": "https://open.spotify.com/track/5X4AFw9JSedXacca9Y5bMO"
     },
     {
-      "added_at": "2021-07-09 08:12:03",
+      "added_at": "2024-03-20 06:02:09",
       "album": {
         "name": "Right Through Me",
         "url": "https://open.spotify.com/album/0RuZ46wBwNUBTAcm3XL7iJ"
@@ -157,7 +269,7 @@
       "url": "https://open.spotify.com/track/3cppKGBLYhmYU9r5APbIwa"
     },
     {
-      "added_at": "2021-07-05 12:41:03",
+      "added_at": "2024-03-20 06:02:09",
       "album": {
         "name": "Right Through Me",
         "url": "https://open.spotify.com/album/0RuZ46wBwNUBTAcm3XL7iJ"
@@ -173,7 +285,7 @@
       "url": "https://open.spotify.com/track/2dVAFcKzQAXBbDPkjfNqRa"
     },
     {
-      "added_at": "2021-04-19 09:11:36",
+      "added_at": "2024-03-20 06:02:09",
       "album": {
         "name": "The Book of Us : Negentropy - Chaos swallowed up in love",
         "url": "https://open.spotify.com/album/5ZQuMOStcP5jMmGiI1Slmj"
@@ -189,7 +301,7 @@
       "url": "https://open.spotify.com/track/0l0OsrmY6qp8SnMnkCJFsF"
     },
     {
-      "added_at": "2021-04-19 09:11:36",
+      "added_at": "2024-03-20 06:02:09",
       "album": {
         "name": "The Book of Us : Negentropy - Chaos swallowed up in love",
         "url": "https://open.spotify.com/album/5ZQuMOStcP5jMmGiI1Slmj"
@@ -205,7 +317,7 @@
       "url": "https://open.spotify.com/track/4CimQqD7nmLNIEQFBwaoiJ"
     },
     {
-      "added_at": "2021-04-19 09:11:36",
+      "added_at": "2024-03-20 06:02:09",
       "album": {
         "name": "The Book of Us : Negentropy - Chaos swallowed up in love",
         "url": "https://open.spotify.com/album/5ZQuMOStcP5jMmGiI1Slmj"
@@ -221,7 +333,7 @@
       "url": "https://open.spotify.com/track/7kC5Q1Ai6RSshkuFXCcsMG"
     },
     {
-      "added_at": "2021-04-19 09:11:36",
+      "added_at": "2024-03-20 06:02:09",
       "album": {
         "name": "The Book of Us : Negentropy - Chaos swallowed up in love",
         "url": "https://open.spotify.com/album/5ZQuMOStcP5jMmGiI1Slmj"
@@ -237,7 +349,7 @@
       "url": "https://open.spotify.com/track/4CFSn8D1ZGNTzQiVEKvJV8"
     },
     {
-      "added_at": "2021-04-19 09:11:36",
+      "added_at": "2024-03-20 06:02:09",
       "album": {
         "name": "The Book of Us : Negentropy - Chaos swallowed up in love",
         "url": "https://open.spotify.com/album/5ZQuMOStcP5jMmGiI1Slmj"
@@ -253,7 +365,7 @@
       "url": "https://open.spotify.com/track/1yK3UpUUace4yhFFL1uaHp"
     },
     {
-      "added_at": "2021-04-19 09:11:36",
+      "added_at": "2024-03-20 06:02:09",
       "album": {
         "name": "The Book of Us : Negentropy - Chaos swallowed up in love",
         "url": "https://open.spotify.com/album/5ZQuMOStcP5jMmGiI1Slmj"
@@ -269,7 +381,7 @@
       "url": "https://open.spotify.com/track/1OhCgra07fEThNjnRleZqy"
     },
     {
-      "added_at": "2021-04-19 09:11:36",
+      "added_at": "2024-03-20 06:02:09",
       "album": {
         "name": "The Book of Us : Negentropy - Chaos swallowed up in love",
         "url": "https://open.spotify.com/album/5ZQuMOStcP5jMmGiI1Slmj"
@@ -285,7 +397,7 @@
       "url": "https://open.spotify.com/track/0p3flPNocJa64LB7pZDiTZ"
     },
     {
-      "added_at": "2020-08-31 09:15:40",
+      "added_at": "2024-03-20 06:02:09",
       "album": {
         "name": "The Book of Us : Gluon - Nothing can tear us apart",
         "url": "https://open.spotify.com/album/56gHPBARXATKcgK97NCvKq"
@@ -301,7 +413,7 @@
       "url": "https://open.spotify.com/track/6zJRgVg9A2EzkZRRzLx3eB"
     },
     {
-      "added_at": "2020-05-12 07:17:58",
+      "added_at": "2024-03-20 06:02:09",
       "album": {
         "name": "The Book of Us : The Demon",
         "url": "https://open.spotify.com/album/6nLZ4KhjJSdxag9cDIFHhJ"
@@ -317,7 +429,7 @@
       "url": "https://open.spotify.com/track/0vPLEyGAlxDAMxFvnwHgUB"
     },
     {
-      "added_at": "2020-05-12 07:17:58",
+      "added_at": "2024-03-20 06:02:09",
       "album": {
         "name": "The Book of Us : The Demon",
         "url": "https://open.spotify.com/album/6nLZ4KhjJSdxag9cDIFHhJ"
@@ -333,7 +445,7 @@
       "url": "https://open.spotify.com/track/5q8jQnweIge2tgVP86hdfu"
     },
     {
-      "added_at": "2020-05-12 07:17:58",
+      "added_at": "2024-03-20 06:02:09",
       "album": {
         "name": "The Book of Us : The Demon",
         "url": "https://open.spotify.com/album/6nLZ4KhjJSdxag9cDIFHhJ"
@@ -349,7 +461,7 @@
       "url": "https://open.spotify.com/track/1YxYFl55wiAStPzwWzxq7H"
     },
     {
-      "added_at": "2020-05-12 07:17:58",
+      "added_at": "2024-03-20 06:02:09",
       "album": {
         "name": "The Book of Us : The Demon",
         "url": "https://open.spotify.com/album/6nLZ4KhjJSdxag9cDIFHhJ"
@@ -365,7 +477,7 @@
       "url": "https://open.spotify.com/track/4srbKZGPFWK1rqVFS9KDFR"
     },
     {
-      "added_at": "2020-05-12 07:17:58",
+      "added_at": "2024-03-20 06:02:09",
       "album": {
         "name": "The Book of Us : The Demon",
         "url": "https://open.spotify.com/album/6nLZ4KhjJSdxag9cDIFHhJ"
@@ -381,7 +493,7 @@
       "url": "https://open.spotify.com/track/4Ra12xZQOiwSSYjUNcvyBZ"
     },
     {
-      "added_at": "2020-05-12 07:17:58",
+      "added_at": "2024-03-20 06:02:09",
       "album": {
         "name": "The Book of Us : The Demon",
         "url": "https://open.spotify.com/album/6nLZ4KhjJSdxag9cDIFHhJ"
@@ -397,7 +509,7 @@
       "url": "https://open.spotify.com/track/47xwbgURPngE5yMhKBi50z"
     },
     {
-      "added_at": "2020-05-12 07:17:58",
+      "added_at": "2024-03-20 06:02:09",
       "album": {
         "name": "The Book of Us : The Demon",
         "url": "https://open.spotify.com/album/6nLZ4KhjJSdxag9cDIFHhJ"
@@ -413,7 +525,7 @@
       "url": "https://open.spotify.com/track/3mdbuqdxMNoVf2GPZrUcEF"
     },
     {
-      "added_at": "2020-05-12 07:17:58",
+      "added_at": "2024-03-20 06:02:09",
       "album": {
         "name": "The Book of Us : The Demon",
         "url": "https://open.spotify.com/album/6nLZ4KhjJSdxag9cDIFHhJ"
@@ -429,7 +541,7 @@
       "url": "https://open.spotify.com/track/5CnK81FQ3DqTQae9ZBLQ7V"
     },
     {
-      "added_at": "2020-05-12 07:17:58",
+      "added_at": "2024-03-20 06:02:09",
       "album": {
         "name": "SUNRISE",
         "url": "https://open.spotify.com/album/70ryb5nR8iCsY8OlIq2J8c"
@@ -445,7 +557,7 @@
       "url": "https://open.spotify.com/track/3FR2yqZsG07NhXz7uPyUyC"
     },
     {
-      "added_at": "2020-05-12 07:17:58",
+      "added_at": "2024-03-20 06:02:09",
       "album": {
         "name": "Shoot Me : Youth Part 1",
         "url": "https://open.spotify.com/album/2dYvMxAaLu8LBiHjwQElcg"
@@ -461,7 +573,7 @@
       "url": "https://open.spotify.com/track/5XZ4yL24BLKkysf4muf4yQ"
     },
     {
-      "added_at": "2020-05-12 07:17:58",
+      "added_at": "2024-03-20 06:02:09",
       "album": {
         "name": "The Book of Us : Entropy",
         "url": "https://open.spotify.com/album/3k0QCw6Cpvq6hIEXUf6qAr"
@@ -477,7 +589,7 @@
       "url": "https://open.spotify.com/track/52Dx3quiQ9ZmtCg2Y2jqkm"
     },
     {
-      "added_at": "2020-05-12 07:17:58",
+      "added_at": "2024-03-20 06:02:09",
       "album": {
         "name": "MOONRISE",
         "url": "https://open.spotify.com/album/2H9FhZVEsNyG9XmJgfNASb"
@@ -493,7 +605,7 @@
       "url": "https://open.spotify.com/track/1o1Nx8wVtBkcpNCC3R5PII"
     },
     {
-      "added_at": "2020-05-12 07:17:58",
+      "added_at": "2024-03-20 06:02:09",
       "album": {
         "name": "MOONRISE",
         "url": "https://open.spotify.com/album/2H9FhZVEsNyG9XmJgfNASb"
@@ -509,7 +621,7 @@
       "url": "https://open.spotify.com/track/0CEPvV1cNMy96bQnPTS3n8"
     },
     {
-      "added_at": "2020-05-12 07:17:58",
+      "added_at": "2024-03-20 06:02:09",
       "album": {
         "name": "DAYDREAM",
         "url": "https://open.spotify.com/album/25DJKM1c41jOlDG716autl"
@@ -525,7 +637,7 @@
       "url": "https://open.spotify.com/track/55uIELYi6Ykc2YVVOe68xx"
     },
     {
-      "added_at": "2020-05-12 07:17:58",
+      "added_at": "2024-03-20 06:02:09",
       "album": {
         "name": "THE BEST DAY2",
         "url": "https://open.spotify.com/album/1LDHf4VNXPeb7Q99QznE4h"
@@ -541,7 +653,7 @@
       "url": "https://open.spotify.com/track/18x0Z8JUwLA2LhgsIHbNy3"
     },
     {
-      "added_at": "2020-05-12 07:17:58",
+      "added_at": "2024-03-20 06:02:09",
       "album": {
         "name": "Remember Us : Youth Part 2",
         "url": "https://open.spotify.com/album/6UyeGSJoWaTCDXunoimIoh"
@@ -557,7 +669,7 @@
       "url": "https://open.spotify.com/track/3E1Z2J1Q0pcAl1EPpzvR9Z"
     },
     {
-      "added_at": "2020-05-12 07:17:58",
+      "added_at": "2024-03-20 06:02:09",
       "album": {
         "name": "MOONRISE",
         "url": "https://open.spotify.com/album/2H9FhZVEsNyG9XmJgfNASb"
@@ -573,7 +685,7 @@
       "url": "https://open.spotify.com/track/16jkx6TcZMqL3OiK7aHm9A"
     },
     {
-      "added_at": "2020-05-12 07:17:58",
+      "added_at": "2024-03-20 06:02:09",
       "album": {
         "name": "SUNRISE",
         "url": "https://open.spotify.com/album/70ryb5nR8iCsY8OlIq2J8c"
@@ -589,7 +701,7 @@
       "url": "https://open.spotify.com/track/2ucxenk7DMnImzGMXOIFrd"
     },
     {
-      "added_at": "2020-05-12 07:17:58",
+      "added_at": "2024-03-20 06:02:09",
       "album": {
         "name": "MOONRISE",
         "url": "https://open.spotify.com/album/2H9FhZVEsNyG9XmJgfNASb"
@@ -605,7 +717,7 @@
       "url": "https://open.spotify.com/track/3h46bzn7XYQteB2pLB6eIj"
     },
     {
-      "added_at": "2020-05-12 07:17:58",
+      "added_at": "2024-03-20 06:02:09",
       "album": {
         "name": "SUNRISE",
         "url": "https://open.spotify.com/album/70ryb5nR8iCsY8OlIq2J8c"
@@ -621,7 +733,7 @@
       "url": "https://open.spotify.com/track/6Cd3yyEqcG4LsmUCs1DLze"
     },
     {
-      "added_at": "2020-05-12 07:17:58",
+      "added_at": "2024-03-20 06:02:09",
       "album": {
         "name": "The Book of Us : Entropy",
         "url": "https://open.spotify.com/album/3k0QCw6Cpvq6hIEXUf6qAr"
@@ -637,7 +749,7 @@
       "url": "https://open.spotify.com/track/081NOQjHZSMSnmeZ3rNzyt"
     },
     {
-      "added_at": "2020-05-12 07:17:58",
+      "added_at": "2024-03-20 06:02:09",
       "album": {
         "name": "The Book of Us : Entropy",
         "url": "https://open.spotify.com/album/3k0QCw6Cpvq6hIEXUf6qAr"
@@ -653,7 +765,7 @@
       "url": "https://open.spotify.com/track/6W8dT3CMFlVIwfsnnYLL0D"
     },
     {
-      "added_at": "2020-05-12 07:17:58",
+      "added_at": "2024-03-20 06:02:09",
       "album": {
         "name": "The Day",
         "url": "https://open.spotify.com/album/2lkb7TDxz1y1nAAsVkCZ4u"
@@ -669,7 +781,7 @@
       "url": "https://open.spotify.com/track/13z3GfR6WzmLUDxBHO3amM"
     },
     {
-      "added_at": "2020-05-12 07:17:58",
+      "added_at": "2024-03-20 06:02:09",
       "album": {
         "name": "Remember Us : Youth Part 2",
         "url": "https://open.spotify.com/album/6UyeGSJoWaTCDXunoimIoh"
@@ -685,7 +797,7 @@
       "url": "https://open.spotify.com/track/1HUNpxohGEBTjNifa9ahOL"
     },
     {
-      "added_at": "2020-05-12 07:17:58",
+      "added_at": "2024-03-20 06:02:09",
       "album": {
         "name": "Remember Us : Youth Part 2",
         "url": "https://open.spotify.com/album/6UyeGSJoWaTCDXunoimIoh"
@@ -701,7 +813,7 @@
       "url": "https://open.spotify.com/track/54RGYiFHPPeM9IrflosXb0"
     },
     {
-      "added_at": "2020-05-12 07:17:58",
+      "added_at": "2024-03-20 06:02:09",
       "album": {
         "name": "\ud558\uc9c0 \ub9d0\ub77c\uba74 \ub354 \ud558\uace0 19 Part.1",
         "url": "https://open.spotify.com/album/4cxgsDqjK7r3JB0DIgJWaj"
@@ -717,7 +829,7 @@
       "url": "https://open.spotify.com/track/2rbfCOgXMPoBLBrK2wLX5K"
     },
     {
-      "added_at": "2020-05-12 07:17:58",
+      "added_at": "2024-03-20 06:02:09",
       "album": {
         "name": "SUNRISE",
         "url": "https://open.spotify.com/album/70ryb5nR8iCsY8OlIq2J8c"
@@ -733,7 +845,7 @@
       "url": "https://open.spotify.com/track/5VerWktMK3SgtSbcMJXeXG"
     },
     {
-      "added_at": "2020-05-12 07:17:58",
+      "added_at": "2024-03-20 06:02:09",
       "album": {
         "name": "SUNRISE",
         "url": "https://open.spotify.com/album/70ryb5nR8iCsY8OlIq2J8c"
@@ -749,7 +861,7 @@
       "url": "https://open.spotify.com/track/6DYkLt9JPsf3obewkAnamY"
     },
     {
-      "added_at": "2020-05-12 07:17:58",
+      "added_at": "2024-03-20 06:02:09",
       "album": {
         "name": "Shoot Me : Youth Part 1",
         "url": "https://open.spotify.com/album/2dYvMxAaLu8LBiHjwQElcg"
@@ -765,7 +877,7 @@
       "url": "https://open.spotify.com/track/1tVXHdJZbv9H5ZHpJ4zpHZ"
     },
     {
-      "added_at": "2020-05-12 07:17:58",
+      "added_at": "2024-03-20 06:02:09",
       "album": {
         "name": "The Book of Us : Entropy",
         "url": "https://open.spotify.com/album/3k0QCw6Cpvq6hIEXUf6qAr"
@@ -781,7 +893,7 @@
       "url": "https://open.spotify.com/track/09vCm1gYxlBSi6ijArnczi"
     },
     {
-      "added_at": "2020-05-12 07:17:58",
+      "added_at": "2024-03-20 06:02:09",
       "album": {
         "name": "MOONRISE",
         "url": "https://open.spotify.com/album/2H9FhZVEsNyG9XmJgfNASb"
@@ -797,7 +909,7 @@
       "url": "https://open.spotify.com/track/0zDnaAWKRpibCTuSNHT8yL"
     },
     {
-      "added_at": "2020-05-12 07:17:58",
+      "added_at": "2024-03-20 06:02:09",
       "album": {
         "name": "The Day",
         "url": "https://open.spotify.com/album/2lkb7TDxz1y1nAAsVkCZ4u"
@@ -813,7 +925,7 @@
       "url": "https://open.spotify.com/track/48y8hqLMxYtKYwroWqdkts"
     },
     {
-      "added_at": "2020-05-12 07:17:58",
+      "added_at": "2024-03-20 06:02:09",
       "album": {
         "name": "MOONRISE",
         "url": "https://open.spotify.com/album/2H9FhZVEsNyG9XmJgfNASb"
@@ -829,7 +941,7 @@
       "url": "https://open.spotify.com/track/6XDXbIZZvSh0SbET20iWyE"
     },
     {
-      "added_at": "2020-05-12 07:17:58",
+      "added_at": "2024-03-20 06:02:09",
       "album": {
         "name": "Shoot Me : Youth Part 1",
         "url": "https://open.spotify.com/album/2dYvMxAaLu8LBiHjwQElcg"
@@ -845,7 +957,7 @@
       "url": "https://open.spotify.com/track/2vtAf3rLV9i96x2z8n8N0V"
     },
     {
-      "added_at": "2020-05-12 07:17:58",
+      "added_at": "2024-03-20 06:02:09",
       "album": {
         "name": "Finale",
         "url": "https://open.spotify.com/album/1yRQOr658owkGnbMtzZevR"
@@ -861,7 +973,7 @@
       "url": "https://open.spotify.com/track/5zNC5Esw2IwbtWhJ1yb7KY"
     },
     {
-      "added_at": "2020-05-12 07:17:58",
+      "added_at": "2024-03-20 06:02:09",
       "album": {
         "name": "The Book of Us : Entropy",
         "url": "https://open.spotify.com/album/3k0QCw6Cpvq6hIEXUf6qAr"
@@ -877,7 +989,7 @@
       "url": "https://open.spotify.com/track/6sL4EWcNio9C5N8x4DgcXu"
     },
     {
-      "added_at": "2020-05-12 07:17:58",
+      "added_at": "2024-03-20 06:02:09",
       "album": {
         "name": "The Book of Us : Entropy",
         "url": "https://open.spotify.com/album/3k0QCw6Cpvq6hIEXUf6qAr"
@@ -893,7 +1005,7 @@
       "url": "https://open.spotify.com/track/1lPpLrtNooA16XuDQ9MRyf"
     },
     {
-      "added_at": "2020-05-12 07:17:58",
+      "added_at": "2024-03-20 06:02:09",
       "album": {
         "name": "The Book of Us : Gravity",
         "url": "https://open.spotify.com/album/3gTiTx97I9WtlvWOLnPETW"
@@ -909,7 +1021,7 @@
       "url": "https://open.spotify.com/track/6U6qCPRJfahTspeXjgCSSH"
     },
     {
-      "added_at": "2020-05-12 07:17:58",
+      "added_at": "2024-03-20 06:02:09",
       "album": {
         "name": "The Book of Us : Gravity",
         "url": "https://open.spotify.com/album/3gTiTx97I9WtlvWOLnPETW"
@@ -925,7 +1037,7 @@
       "url": "https://open.spotify.com/track/5t9oAvGxFKqqIqzm68bRrq"
     },
     {
-      "added_at": "2020-05-12 07:17:58",
+      "added_at": "2024-03-20 06:02:09",
       "album": {
         "name": "SUNRISE",
         "url": "https://open.spotify.com/album/70ryb5nR8iCsY8OlIq2J8c"
@@ -941,7 +1053,7 @@
       "url": "https://open.spotify.com/track/5pvRlGWjTy6Y3e5BIn8Ux0"
     },
     {
-      "added_at": "2020-05-12 07:17:58",
+      "added_at": "2024-03-20 06:02:09",
       "album": {
         "name": "SUNRISE",
         "url": "https://open.spotify.com/album/70ryb5nR8iCsY8OlIq2J8c"
@@ -957,7 +1069,7 @@
       "url": "https://open.spotify.com/track/14GROeHpGT7elxuRYpGkQm"
     },
     {
-      "added_at": "2020-05-12 07:17:58",
+      "added_at": "2024-03-20 06:02:09",
       "album": {
         "name": "The Book of Us : Gravity",
         "url": "https://open.spotify.com/album/3gTiTx97I9WtlvWOLnPETW"
@@ -973,7 +1085,7 @@
       "url": "https://open.spotify.com/track/4ro1AzayMeG7GWkjnrexqK"
     },
     {
-      "added_at": "2020-05-12 07:17:58",
+      "added_at": "2024-03-20 06:02:09",
       "album": {
         "name": "The Book of Us : Gravity",
         "url": "https://open.spotify.com/album/3gTiTx97I9WtlvWOLnPETW"
@@ -989,7 +1101,7 @@
       "url": "https://open.spotify.com/track/5gBMDX31s0uvslfUtMLHKV"
     },
     {
-      "added_at": "2020-05-12 07:17:58",
+      "added_at": "2024-03-20 06:02:09",
       "album": {
         "name": "Remember Us : Youth Part 2",
         "url": "https://open.spotify.com/album/6UyeGSJoWaTCDXunoimIoh"
@@ -1005,7 +1117,7 @@
       "url": "https://open.spotify.com/track/2KtZbv3i7eobJwLc8enieR"
     },
     {
-      "added_at": "2020-05-12 07:17:58",
+      "added_at": "2024-03-20 06:02:09",
       "album": {
         "name": "MOONRISE",
         "url": "https://open.spotify.com/album/2H9FhZVEsNyG9XmJgfNASb"
@@ -1021,7 +1133,7 @@
       "url": "https://open.spotify.com/track/7BJC522RfQFAGvYBksR78F"
     },
     {
-      "added_at": "2020-05-12 07:17:58",
+      "added_at": "2024-03-20 06:02:09",
       "album": {
         "name": "The Book of Us : Gravity",
         "url": "https://open.spotify.com/album/3gTiTx97I9WtlvWOLnPETW"
@@ -1037,7 +1149,7 @@
       "url": "https://open.spotify.com/track/6PziemkTNAmPuSYezhlvXt"
     },
     {
-      "added_at": "2020-05-12 07:17:58",
+      "added_at": "2024-03-20 06:02:09",
       "album": {
         "name": "Remember Us : Youth Part 2",
         "url": "https://open.spotify.com/album/6UyeGSJoWaTCDXunoimIoh"
@@ -1053,7 +1165,7 @@
       "url": "https://open.spotify.com/track/4NgOXJPLmX1X2iYOYHihFc"
     },
     {
-      "added_at": "2020-05-12 07:17:58",
+      "added_at": "2024-03-20 06:02:09",
       "album": {
         "name": "SUNRISE",
         "url": "https://open.spotify.com/album/70ryb5nR8iCsY8OlIq2J8c"
@@ -1069,7 +1181,7 @@
       "url": "https://open.spotify.com/track/30HClBbNNXeXezYzJzjT6e"
     },
     {
-      "added_at": "2020-05-12 07:17:58",
+      "added_at": "2024-03-20 06:02:09",
       "album": {
         "name": "Shoot Me : Youth Part 1",
         "url": "https://open.spotify.com/album/2dYvMxAaLu8LBiHjwQElcg"
@@ -1085,7 +1197,7 @@
       "url": "https://open.spotify.com/track/15CsBenIaqN4P61vQqMO9s"
     },
     {
-      "added_at": "2020-05-12 07:17:58",
+      "added_at": "2024-03-20 06:02:09",
       "album": {
         "name": "The Book of Us : Entropy",
         "url": "https://open.spotify.com/album/3k0QCw6Cpvq6hIEXUf6qAr"

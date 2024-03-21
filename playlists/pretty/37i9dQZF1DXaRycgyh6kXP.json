@@ -1,12 +1,12 @@
 {
   "description": "Delicate digital expressions of the heart.",
-  "num_followers": 211456,
+  "num_followers": 211563,
   "original_name": "Electronica Romantica",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhNWNiMzA3YTk3ZmI5N2Q1NDA3OTliODM2OWM0NGE5OWZjYTg1MDQ0",
+  "snapshot_id": "MCwwODE1MDkyYmMxNWE4NWIxMzM4YjJmYTk4ZDYxNmFjZmZlZDNlNzJh",
   "tracks": [
     {
       "added_at": "2024-01-19 05:00:00",
@@ -567,22 +567,6 @@
     {
       "added_at": "2024-01-19 05:00:00",
       "album": {
-        "name": "Kindness",
-        "url": "https://open.spotify.com/album/3tZgm1ojrqV5akitFntyTV"
-      },
-      "artists": [
-        {
-          "name": "HNNY",
-          "url": "https://open.spotify.com/artist/6Yae9Ia1nq6JLLojBzwN1r"
-        }
-      ],
-      "duration_ms": 156069,
-      "name": "Kindness",
-      "url": "https://open.spotify.com/track/7mY3gSbmqBfMqKv0cCyXJl"
-    },
-    {
-      "added_at": "2024-01-19 05:00:00",
-      "album": {
         "name": "Madres",
         "url": "https://open.spotify.com/album/6zt8N56kz8b58cnHnBhx9f"
       },
@@ -595,6 +579,22 @@
       "duration_ms": 236129,
       "name": "Madres",
       "url": "https://open.spotify.com/track/0nMVtLxgC3NdnhGamj6cS5"
+    },
+    {
+      "added_at": "2024-01-19 05:00:00",
+      "album": {
+        "name": "Kindness",
+        "url": "https://open.spotify.com/album/3tZgm1ojrqV5akitFntyTV"
+      },
+      "artists": [
+        {
+          "name": "HNNY",
+          "url": "https://open.spotify.com/artist/6Yae9Ia1nq6JLLojBzwN1r"
+        }
+      ],
+      "duration_ms": 156069,
+      "name": "Kindness",
+      "url": "https://open.spotify.com/track/7mY3gSbmqBfMqKv0cCyXJl"
     },
     {
       "added_at": "2024-01-19 05:00:00",
@@ -635,22 +635,6 @@
     {
       "added_at": "2024-01-19 05:00:00",
       "album": {
-        "name": "Paracosm",
-        "url": "https://open.spotify.com/album/0NJB8HwQsR7RH4bVM7Z6HL"
-      },
-      "artists": [
-        {
-          "name": "Washed Out",
-          "url": "https://open.spotify.com/artist/5juOkIIy18sFw9L30syt1Z"
-        }
-      ],
-      "duration_ms": 245654,
-      "name": "It All Feels Right",
-      "url": "https://open.spotify.com/track/2tpTRRc6XFZcwdZlc3hf02"
-    },
-    {
-      "added_at": "2024-01-19 05:00:00",
-      "album": {
         "name": "Nothing Is Still",
         "url": "https://open.spotify.com/album/6WeIO0CpDMiMXTglv0KuLr"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 231640,
       "name": "Movements (Chapter III)",
       "url": "https://open.spotify.com/track/1OD2YXIOmfYmBAYfV1maRV"
+    },
+    {
+      "added_at": "2024-01-19 05:00:00",
+      "album": {
+        "name": "Paracosm",
+        "url": "https://open.spotify.com/album/0NJB8HwQsR7RH4bVM7Z6HL"
+      },
+      "artists": [
+        {
+          "name": "Washed Out",
+          "url": "https://open.spotify.com/artist/5juOkIIy18sFw9L30syt1Z"
+        }
+      ],
+      "duration_ms": 245654,
+      "name": "It All Feels Right",
+      "url": "https://open.spotify.com/track/2tpTRRc6XFZcwdZlc3hf02"
     },
     {
       "added_at": "2024-01-19 05:00:00",
@@ -699,22 +699,18 @@
     {
       "added_at": "2024-01-19 05:00:00",
       "album": {
-        "name": "Nostalchic",
-        "url": "https://open.spotify.com/album/7ulpsKEswNymVbOvsyK0yV"
+        "name": "Immunity",
+        "url": "https://open.spotify.com/album/0Dg1KwgmtUzeMQonDCUFhQ"
       },
       "artists": [
         {
-          "name": "Lapalux",
-          "url": "https://open.spotify.com/artist/46Ce0QmI1mE2bl5VQ4P9N8"
-        },
-        {
-          "name": "Kerry Leatham",
-          "url": "https://open.spotify.com/artist/43xkjQKO2s2G5uXoxW1kHc"
+          "name": "Jon Hopkins",
+          "url": "https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI"
         }
       ],
-      "duration_ms": 326439,
-      "name": "Without You",
-      "url": "https://open.spotify.com/track/32CFVYfYT4wE1MTNWj66Rt"
+      "duration_ms": 596772,
+      "name": "Immunity - Remaster 2023",
+      "url": "https://open.spotify.com/track/69TZeRi1BYt4J712MvrIHC"
     },
     {
       "added_at": "2024-01-19 05:00:00",
@@ -739,18 +735,22 @@
     {
       "added_at": "2024-01-19 05:00:00",
       "album": {
-        "name": "Immunity",
-        "url": "https://open.spotify.com/album/0Dg1KwgmtUzeMQonDCUFhQ"
+        "name": "Nostalchic",
+        "url": "https://open.spotify.com/album/7ulpsKEswNymVbOvsyK0yV"
       },
       "artists": [
         {
-          "name": "Jon Hopkins",
-          "url": "https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI"
+          "name": "Lapalux",
+          "url": "https://open.spotify.com/artist/46Ce0QmI1mE2bl5VQ4P9N8"
+        },
+        {
+          "name": "Kerry Leatham",
+          "url": "https://open.spotify.com/artist/43xkjQKO2s2G5uXoxW1kHc"
         }
       ],
-      "duration_ms": 596772,
-      "name": "Immunity - Remaster 2023",
-      "url": "https://open.spotify.com/track/69TZeRi1BYt4J712MvrIHC"
+      "duration_ms": 326439,
+      "name": "Without You",
+      "url": "https://open.spotify.com/track/32CFVYfYT4wE1MTNWj66Rt"
     },
     {
       "added_at": "2024-01-19 05:00:00",
@@ -1187,22 +1187,6 @@
     {
       "added_at": "2024-01-19 05:00:00",
       "album": {
-        "name": "No Home of the Mind",
-        "url": "https://open.spotify.com/album/0CNDCFHe5E0EYQT39CwgNA"
-      },
-      "artists": [
-        {
-          "name": "Bing & Ruth",
-          "url": "https://open.spotify.com/artist/0grPfzk6cTnzfQpxjLDPs0"
-        }
-      ],
-      "duration_ms": 340276,
-      "name": "As Much as Possible",
-      "url": "https://open.spotify.com/track/21M3Nfmqw8AZnLgFWHtskL"
-    },
-    {
-      "added_at": "2024-01-19 05:00:00",
-      "album": {
         "name": "Night Owl",
         "url": "https://open.spotify.com/album/0eJCk5W0VKQ4qIuoAhn5ns"
       },
@@ -1223,18 +1207,18 @@
     {
       "added_at": "2024-01-19 05:00:00",
       "album": {
-        "name": "Tiny Reminders",
-        "url": "https://open.spotify.com/album/2V2qCQNcIwy6sqkEHmBERc"
+        "name": "No Home of the Mind",
+        "url": "https://open.spotify.com/album/0CNDCFHe5E0EYQT39CwgNA"
       },
       "artists": [
         {
-          "name": "Two Lone Swordsmen",
-          "url": "https://open.spotify.com/artist/33Ztukerf3He8FeKk5acn8"
+          "name": "Bing & Ruth",
+          "url": "https://open.spotify.com/artist/0grPfzk6cTnzfQpxjLDPs0"
         }
       ],
-      "duration_ms": 90133,
-      "name": "Constant Reminder",
-      "url": "https://open.spotify.com/track/0jbtAoiWy5saxeXoakNP2i"
+      "duration_ms": 340276,
+      "name": "As Much as Possible",
+      "url": "https://open.spotify.com/track/21M3Nfmqw8AZnLgFWHtskL"
     },
     {
       "added_at": "2024-01-19 05:00:00",
@@ -1255,6 +1239,22 @@
       "duration_ms": 272093,
       "name": "born slipping",
       "url": "https://open.spotify.com/track/0QJ11tqN85By0nwwDJVoeP"
+    },
+    {
+      "added_at": "2024-01-19 05:00:00",
+      "album": {
+        "name": "Tiny Reminders",
+        "url": "https://open.spotify.com/album/2V2qCQNcIwy6sqkEHmBERc"
+      },
+      "artists": [
+        {
+          "name": "Two Lone Swordsmen",
+          "url": "https://open.spotify.com/artist/33Ztukerf3He8FeKk5acn8"
+        }
+      ],
+      "duration_ms": 90133,
+      "name": "Constant Reminder",
+      "url": "https://open.spotify.com/track/0jbtAoiWy5saxeXoakNP2i"
     },
     {
       "added_at": "2024-01-19 05:00:00",
@@ -1327,6 +1327,22 @@
     {
       "added_at": "2024-01-19 05:00:00",
       "album": {
+        "name": "still slipping vol. 1",
+        "url": "https://open.spotify.com/album/5atrOg1aO4d5KEcYo4UBIA"
+      },
+      "artists": [
+        {
+          "name": "Joy Orbison",
+          "url": "https://open.spotify.com/artist/0aIpJqqTLf683ojWREc5lg"
+        }
+      ],
+      "duration_ms": 140226,
+      "name": "runnersz",
+      "url": "https://open.spotify.com/track/33ZGlpwOQ5Wc2u6n8Lq3iZ"
+    },
+    {
+      "added_at": "2024-01-19 05:00:00",
+      "album": {
         "name": "Rushing",
         "url": "https://open.spotify.com/album/4VxWJ3iWQ2PIE7KDFyoRut"
       },
@@ -1359,38 +1375,6 @@
     {
       "added_at": "2024-01-19 05:00:00",
       "album": {
-        "name": "still slipping vol. 1",
-        "url": "https://open.spotify.com/album/5atrOg1aO4d5KEcYo4UBIA"
-      },
-      "artists": [
-        {
-          "name": "Joy Orbison",
-          "url": "https://open.spotify.com/artist/0aIpJqqTLf683ojWREc5lg"
-        }
-      ],
-      "duration_ms": 140226,
-      "name": "runnersz",
-      "url": "https://open.spotify.com/track/33ZGlpwOQ5Wc2u6n8Lq3iZ"
-    },
-    {
-      "added_at": "2024-01-19 05:00:00",
-      "album": {
-        "name": "Love In The Time Of Lexapro",
-        "url": "https://open.spotify.com/album/66KiYNDdmJ8h7KvDSwRCR0"
-      },
-      "artists": [
-        {
-          "name": "Oneohtrix Point Never",
-          "url": "https://open.spotify.com/artist/2wPDbhaGXCqROrVmwDdCrK"
-        }
-      ],
-      "duration_ms": 246129,
-      "name": "Love In The Time Of Lexapro",
-      "url": "https://open.spotify.com/track/2C3ssFGH4NoGIUp9YkHK2Q"
-    },
-    {
-      "added_at": "2024-01-19 05:00:00",
-      "album": {
         "name": "Karma & Desire",
         "url": "https://open.spotify.com/album/5tDW2Im2auURmW8IOA8dQ1"
       },
@@ -1407,6 +1391,22 @@
       "duration_ms": 250383,
       "name": "Walking Flames",
       "url": "https://open.spotify.com/track/45AwkbYypZWEGFuwQcMiOm"
+    },
+    {
+      "added_at": "2024-01-19 05:00:00",
+      "album": {
+        "name": "Love In The Time Of Lexapro",
+        "url": "https://open.spotify.com/album/66KiYNDdmJ8h7KvDSwRCR0"
+      },
+      "artists": [
+        {
+          "name": "Oneohtrix Point Never",
+          "url": "https://open.spotify.com/artist/2wPDbhaGXCqROrVmwDdCrK"
+        }
+      ],
+      "duration_ms": 246129,
+      "name": "Love In The Time Of Lexapro",
+      "url": "https://open.spotify.com/track/2C3ssFGH4NoGIUp9YkHK2Q"
     },
     {
       "added_at": "2024-01-19 05:00:00",
@@ -1467,22 +1467,6 @@
     {
       "added_at": "2024-01-19 05:00:00",
       "album": {
-        "name": "Far Away Trains Passing By",
-        "url": "https://open.spotify.com/album/24WjU9DTi8CA3wGa4G8gWZ"
-      },
-      "artists": [
-        {
-          "name": "Ulrich Schnauss",
-          "url": "https://open.spotify.com/artist/4znPt0HV6Ik0iR8sR4GAJE"
-        }
-      ],
-      "duration_ms": 397986,
-      "name": "Passing By - 2019 remaster",
-      "url": "https://open.spotify.com/track/4QF7VCyGrqOPpJNQc9yNWA"
-    },
-    {
-      "added_at": "2024-01-19 05:00:00",
-      "album": {
         "name": "Permanence",
         "url": "https://open.spotify.com/album/2nXj7FISsnrz03cLqJv3SF"
       },
@@ -1495,6 +1479,22 @@
       "duration_ms": 229158,
       "name": "Permanence - Original Mix",
       "url": "https://open.spotify.com/track/7HdEAYOe2uJoWRQAxN3Uyv"
+    },
+    {
+      "added_at": "2024-01-19 05:00:00",
+      "album": {
+        "name": "Far Away Trains Passing By",
+        "url": "https://open.spotify.com/album/24WjU9DTi8CA3wGa4G8gWZ"
+      },
+      "artists": [
+        {
+          "name": "Ulrich Schnauss",
+          "url": "https://open.spotify.com/artist/4znPt0HV6Ik0iR8sR4GAJE"
+        }
+      ],
+      "duration_ms": 397986,
+      "name": "Passing By - 2019 remaster",
+      "url": "https://open.spotify.com/track/4QF7VCyGrqOPpJNQc9yNWA"
     },
     {
       "added_at": "2024-01-19 05:00:00",
@@ -1619,6 +1619,22 @@
     {
       "added_at": "2024-01-19 05:00:00",
       "album": {
+        "name": "Encores 2",
+        "url": "https://open.spotify.com/album/2C2LdCgWMw6MkJ5RGJi5eg"
+      },
+      "artists": [
+        {
+          "name": "Nils Frahm",
+          "url": "https://open.spotify.com/artist/5gqhueRUZEa7VDnQt4HODp"
+        }
+      ],
+      "duration_ms": 242000,
+      "name": "Talisman",
+      "url": "https://open.spotify.com/track/6v6cuaxCnIAnnFrMcJLrc6"
+    },
+    {
+      "added_at": "2024-01-19 05:00:00",
+      "album": {
         "name": "I Will Make Room for You (Four Tet Remix)",
         "url": "https://open.spotify.com/album/6PI10ucPVSfshOfIDhGesh"
       },
@@ -1639,22 +1655,6 @@
     {
       "added_at": "2024-01-19 05:00:00",
       "album": {
-        "name": "Encores 2",
-        "url": "https://open.spotify.com/album/2C2LdCgWMw6MkJ5RGJi5eg"
-      },
-      "artists": [
-        {
-          "name": "Nils Frahm",
-          "url": "https://open.spotify.com/artist/5gqhueRUZEa7VDnQt4HODp"
-        }
-      ],
-      "duration_ms": 242000,
-      "name": "Talisman",
-      "url": "https://open.spotify.com/track/6v6cuaxCnIAnnFrMcJLrc6"
-    },
-    {
-      "added_at": "2024-01-19 05:00:00",
-      "album": {
         "name": "To You EP",
         "url": "https://open.spotify.com/album/3Anf3lNMU7cCesmckx62wI"
       },
@@ -1671,18 +1671,18 @@
     {
       "added_at": "2024-01-19 05:00:00",
       "album": {
-        "name": "Under The Sun (Expanded Vol. 1)",
-        "url": "https://open.spotify.com/album/7oCVk3zWkNB6ByYbjkxYk2"
+        "name": "I Lost My Body (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3Dp7SEi0Sx65fByb5JpCoG"
       },
       "artists": [
         {
-          "name": "Mark Pritchard",
-          "url": "https://open.spotify.com/artist/7wDfZhaCORLgP3K62R3MJK"
+          "name": "S+C+A+R+R",
+          "url": "https://open.spotify.com/artist/579T5fNgfbDetyamUTAetw"
         }
       ],
-      "duration_ms": 181440,
-      "name": "Light Bodied",
-      "url": "https://open.spotify.com/track/2ZItZwBUl47tieac2NBBcP"
+      "duration_ms": 167986,
+      "name": "You're the One",
+      "url": "https://open.spotify.com/track/1BMLBURMMwAi4FBesaKVbG"
     }
   ],
   "unique_name": "Electronica Romantica",

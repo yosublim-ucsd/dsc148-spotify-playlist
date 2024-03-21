@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZhHP4V8F4YE.md) - [plain]
 
 > All the vibes, enjoyment and future hits right here
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,810 likes - 50 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,882 likes - 50 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZhHP4V8F4YE.md) - [plain]
 | 23 | [End of Beginning](https://open.spotify.com/track/3qhlB30KknSejmIvZZLjOD) | [Djo](https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm) | [DECIDE](https://open.spotify.com/album/4JDXBZdRPId4devseaAOKH) | 2:39 |
 | 24 | [A Collision Of Two Worlds](https://open.spotify.com/track/28ELZkVqyMPsbNf1NyyYMK) | [The Real Prechly](https://open.spotify.com/artist/096BMEmDcx0OsBSEVll95N), [Dj Lux](https://open.spotify.com/artist/4BaoLYpdO3bcE8UepFJ8v8), [DJ Guti BPM](https://open.spotify.com/artist/1JxQ3BCy5etxDoyksaMuqj) | [Lotus Flower Bomb](https://open.spotify.com/album/1yZW1Lys1UUWrUHxNLC08w) | 6:58 |
 | 25 | [Wenhliziyo Yami](https://open.spotify.com/track/1tvDDR0ZAowEqKLN15g7tH) | [Zwide](https://open.spotify.com/artist/1MLyzirvUgvt90R9DISyeJ), [Umafikizolo](https://open.spotify.com/artist/3aznFYhXZNLiZYfF2nIt6K), [uMehlabomvu](https://open.spotify.com/artist/108KwQSLKiaZbIPgNg1pBm) | [Wenhliziyo Yami](https://open.spotify.com/album/0MVveVP2vKqPJmFSEns1G8) | 4:21 |
-| 26 | [Austin](https://open.spotify.com/track/4NJqhmkGN042BrvHoMKUrJ) | [Dasha](https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I) | [Austin](https://open.spotify.com/album/4JtlZzYJEa7bejLF0ASnk0) | 2:51 |
+| 26 | [Austin](https://open.spotify.com/track/6b81dy3WjbozXK6b7C1gu5) | [Dasha](https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I) | [What Happens Now?](https://open.spotify.com/album/0rQRrrZPPv6XXsxilJ1wFz) | 2:51 |
 | 27 | [LIKE ICE SPICE](https://open.spotify.com/track/61iDSv1MgCsdo0zKXGxvCO) | [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W) | [Like Ice Spice / Bezos](https://open.spotify.com/album/6m8f7PHYHp3IlMOxdBNKvA) | 2:03 |
 | 28 | [Made For Me](https://open.spotify.com/track/0WIv5qV41y6YjjB9V1biuC) | [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [Made For Me](https://open.spotify.com/album/2VIJu8iWncUpGcv64UOxnv) | 3:08 |
 | 29 | [Beautiful Things](https://open.spotify.com/track/6tNQ70jh4OwmPGpYy6R2o9) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [Beautiful Things](https://open.spotify.com/album/29aSKB1qPEbN0Qf9OPSQpw) | 3:00 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZhHP4V8F4YE.md) - [plain]
 | 49 | [You're Hired \(feat\. Ayra Starr\)](https://open.spotify.com/track/17oeeAxAbZaHIqKpt402KI) | [NEIKED](https://open.spotify.com/artist/5H6xmHXjsq98NLbEjuE29f), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [You're Hired \(feat\. Ayra Starr\)](https://open.spotify.com/album/0onUf9J8FxwJCpPdNyhVZe) | 2:59 |
 | 50 | [FOU DE TOi](https://open.spotify.com/track/7DhruOVt2cgzOzwNLwM18E) | [ELEMENT EleéeH](https://open.spotify.com/artist/1YtfiLJ8nbB9hKlD4QpPMU), [Ross Kana](https://open.spotify.com/artist/20k1olYrrwKk6vYxqdTBIE), [Bruce Melodie](https://open.spotify.com/artist/2esEiOAGqbIDlRwwUK2wnP) | [FOU DE TOi](https://open.spotify.com/album/2L0LHGMMygz3CEAirJ1I3x) | 3:57 |
 
-Snapshot ID: `MCwwYjY3NDZmZDMzMGIxN2YzODFmMzlkNWQ2NWZiYWM5MjdhN2YyNTA0`
+Snapshot ID: `MCxkNjdlNjYxMGM2NjM3NTkxNzQ2MjhhZTc5Y2QyMDVlZDc5MjI3Mjc4`

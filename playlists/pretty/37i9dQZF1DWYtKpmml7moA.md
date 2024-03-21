@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYtKpmml7moA.md) - [plain]
 
 > Simmer down with this relaxing selection of old and new Reggae.
 
-[Spotify](https://open.spotify.com/user/spotify) - 423,103 likes - 50 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 423,273 likes - 50 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYtKpmml7moA.md) - [plain]
 | 49 | [Use Me](https://open.spotify.com/track/3KDk6mLLHSd1YiaLtnAQdt) | [Shaggy](https://open.spotify.com/artist/5EvFsr3kj42KNv97ZEnqij) | [Use Me](https://open.spotify.com/album/592Zbs7JSgwspo1O7BU1K1) | 3:12 |
 | 50 | [Love Overdue](https://open.spotify.com/track/0ClaCaTK8BdOSsP4FZbkio) | [Gyptian](https://open.spotify.com/artist/2JX4h8xm0hNxCB0aNBWzyi) | [Love Overdue](https://open.spotify.com/album/4Gf8tEQ1cRQq9qnErm0TfA) | 3:27 |
 
-Snapshot ID: `MCwyYjZjOGVmNjVmYjA1NzRmOTljOTJjMjk3ZTA1MWI4YmQ4MGZhMGY2`
+Snapshot ID: `MCxiZTQxOWQ1NTYxMmViNzliMmNkZGZiYjU0YjM1YTcwNGIwZWNmYmFm`

@@ -1,12 +1,12 @@
 {
   "description": "Ya llegu\u00e9 de donde andaba... se me concedi\u00f3 volver \ud83d\ude4f\ud83c\udffe",
-  "num_followers": 223867,
+  "num_followers": 223957,
   "original_name": "Llegando al Rancho",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmODdkNzc0MDQzNDU2ZjhiODg5ZGIwMzE3ZTI3YmZkZjQyZGRkMzU0",
+  "snapshot_id": "MCxiN2M3OTBjZWI5MWI3NGVhOTI4NzYyYTc0MGFiMDJkOWE3ZTkxMTUz",
   "tracks": [
     {
       "added_at": "2024-02-22 23:59:54",
@@ -487,18 +487,22 @@
     {
       "added_at": "2024-02-22 23:59:54",
       "album": {
-        "name": "Vuelvo Contigo",
-        "url": "https://open.spotify.com/album/3Bqrpyh09jij3b2SiqzQlU"
+        "name": "12 Kilates Puros Corridos",
+        "url": "https://open.spotify.com/album/1y9lJbemJO1OdyIQvcL1q4"
       },
       "artists": [
         {
-          "name": "Los Invasores De Nuevo Le\u00f3n",
-          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
+          "name": "Los Cadetes De Linares",
+          "url": "https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G"
+        },
+        {
+          "name": "Homero Guerrero y Lupe Tijerina",
+          "url": "https://open.spotify.com/artist/029TNxYpdZWjCidyQjNmgE"
         }
       ],
-      "duration_ms": 161493,
-      "name": "A M\u00ed, \u00bfQu\u00e9 Me Qued\u00f3?",
-      "url": "https://open.spotify.com/track/0b72rOmkspR8dJHsUjaVi4"
+      "duration_ms": 178960,
+      "name": "Los Dos Amigos",
+      "url": "https://open.spotify.com/track/0uyv3AMPgus71YKJIwwA0W"
     },
     {
       "added_at": "2024-02-22 23:59:54",
@@ -519,22 +523,18 @@
     {
       "added_at": "2024-02-22 23:59:54",
       "album": {
-        "name": "12 Kilates Puros Corridos",
-        "url": "https://open.spotify.com/album/1y9lJbemJO1OdyIQvcL1q4"
+        "name": "Vuelvo Contigo",
+        "url": "https://open.spotify.com/album/3Bqrpyh09jij3b2SiqzQlU"
       },
       "artists": [
         {
-          "name": "Los Cadetes De Linares",
-          "url": "https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G"
-        },
-        {
-          "name": "Homero Guerrero y Lupe Tijerina",
-          "url": "https://open.spotify.com/artist/029TNxYpdZWjCidyQjNmgE"
+          "name": "Los Invasores De Nuevo Le\u00f3n",
+          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
         }
       ],
-      "duration_ms": 178960,
-      "name": "Los Dos Amigos",
-      "url": "https://open.spotify.com/track/0uyv3AMPgus71YKJIwwA0W"
+      "duration_ms": 161493,
+      "name": "A M\u00ed, \u00bfQu\u00e9 Me Qued\u00f3?",
+      "url": "https://open.spotify.com/track/0b72rOmkspR8dJHsUjaVi4"
     },
     {
       "added_at": "2024-02-22 23:59:54",
@@ -683,22 +683,6 @@
     {
       "added_at": "2024-02-22 23:59:54",
       "album": {
-        "name": "Te Amo",
-        "url": "https://open.spotify.com/album/52PyyMTKyJtiNzxvnoGaPq"
-      },
-      "artists": [
-        {
-          "name": "Edgardo Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
-        }
-      ],
-      "duration_ms": 193621,
-      "name": "Te Amo",
-      "url": "https://open.spotify.com/track/2r69ZhXm40bzjGIPdRvaqk"
-    },
-    {
-      "added_at": "2024-02-22 23:59:54",
-      "album": {
         "name": "En Vivo desde El Foro Lizos Music",
         "url": "https://open.spotify.com/album/6Am6MERXwzXEATDw7cdnag"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 152186,
       "name": "Es Que Me Gustas - En Vivo",
       "url": "https://open.spotify.com/track/6nyl8kugrRsjzvpFhvw4hE"
+    },
+    {
+      "added_at": "2024-02-22 23:59:54",
+      "album": {
+        "name": "Te Amo",
+        "url": "https://open.spotify.com/album/52PyyMTKyJtiNzxvnoGaPq"
+      },
+      "artists": [
+        {
+          "name": "Edgardo Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
+        }
+      ],
+      "duration_ms": 193621,
+      "name": "Te Amo",
+      "url": "https://open.spotify.com/track/2r69ZhXm40bzjGIPdRvaqk"
     },
     {
       "added_at": "2024-02-22 23:59:54",
@@ -819,22 +819,6 @@
     {
       "added_at": "2024-02-22 23:59:54",
       "album": {
-        "name": "Invencible",
-        "url": "https://open.spotify.com/album/09bVCvqV5G7r8DIEls8zjB"
-      },
-      "artists": [
-        {
-          "name": "Los Rieleros Del Norte",
-          "url": "https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv"
-        }
-      ],
-      "duration_ms": 199333,
-      "name": "El Columpio",
-      "url": "https://open.spotify.com/track/2OFmcOC5m9iAvt4kcdXBSz"
-    },
-    {
-      "added_at": "2024-02-22 23:59:54",
-      "album": {
         "name": "Las N\u00famero 1...",
         "url": "https://open.spotify.com/album/4L2iloO5OzK3bY8gqpnsrl"
       },
@@ -847,6 +831,22 @@
       "duration_ms": 225040,
       "name": "Necesito Decirte",
       "url": "https://open.spotify.com/track/2b9rnsD5EzKMr6JBcNg7vE"
+    },
+    {
+      "added_at": "2024-02-22 23:59:54",
+      "album": {
+        "name": "Invencible",
+        "url": "https://open.spotify.com/album/09bVCvqV5G7r8DIEls8zjB"
+      },
+      "artists": [
+        {
+          "name": "Los Rieleros Del Norte",
+          "url": "https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv"
+        }
+      ],
+      "duration_ms": 199333,
+      "name": "El Columpio",
+      "url": "https://open.spotify.com/track/2OFmcOC5m9iAvt4kcdXBSz"
     },
     {
       "added_at": "2024-02-22 23:59:54",
@@ -911,22 +911,6 @@
       "duration_ms": 234666,
       "name": "Mi Enemigo El Amor",
       "url": "https://open.spotify.com/track/3gYgHcEBcuySZwZ2dcTPXV"
-    },
-    {
-      "added_at": "2024-02-22 23:59:54",
-      "album": {
-        "name": "Perd\u00f3name Mi Amor",
-        "url": "https://open.spotify.com/album/0jfIHJWOzvDLrYGcIyc2TA"
-      },
-      "artists": [
-        {
-          "name": "Conjunto Primavera",
-          "url": "https://open.spotify.com/artist/3nFB4eMP5gdqee2eQb8nZb"
-        }
-      ],
-      "duration_ms": 159373,
-      "name": "Una Vez M\u00e1s",
-      "url": "https://open.spotify.com/track/3pd1YpH2Zx9iRCaOSxKdVT"
     },
     {
       "added_at": "2024-02-22 23:59:54",
@@ -1003,6 +987,22 @@
     {
       "added_at": "2024-02-22 23:59:54",
       "album": {
+        "name": "Perd\u00f3name Mi Amor",
+        "url": "https://open.spotify.com/album/0jfIHJWOzvDLrYGcIyc2TA"
+      },
+      "artists": [
+        {
+          "name": "Conjunto Primavera",
+          "url": "https://open.spotify.com/artist/3nFB4eMP5gdqee2eQb8nZb"
+        }
+      ],
+      "duration_ms": 159373,
+      "name": "Una Vez M\u00e1s",
+      "url": "https://open.spotify.com/track/3pd1YpH2Zx9iRCaOSxKdVT"
+    },
+    {
+      "added_at": "2024-02-22 23:59:54",
+      "album": {
         "name": "Por Mujeres Como T\u00fa",
         "url": "https://open.spotify.com/album/1i8KV89uJq08T3MTNEELgL"
       },
@@ -1031,22 +1031,6 @@
       "duration_ms": 215882,
       "name": "La Farsante",
       "url": "https://open.spotify.com/track/63iq1gIl7v0KiFCFR8U530"
-    },
-    {
-      "added_at": "2024-02-22 23:59:54",
-      "album": {
-        "name": "Colecci\u00f3n De Oro, Vol. 3: Con Tambora",
-        "url": "https://open.spotify.com/album/2PN8SbTA3VEBpfmQaZdak2"
-      },
-      "artists": [
-        {
-          "name": "Joan Sebastian",
-          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
-        }
-      ],
-      "duration_ms": 180337,
-      "name": "Sangoloteadito",
-      "url": "https://open.spotify.com/track/2s678Tz6mme5OV9DfTUUoD"
     },
     {
       "added_at": "2024-02-22 23:59:54",
@@ -1083,6 +1067,22 @@
     {
       "added_at": "2024-02-22 23:59:54",
       "album": {
+        "name": "Colecci\u00f3n De Oro, Vol. 3: Con Tambora",
+        "url": "https://open.spotify.com/album/2PN8SbTA3VEBpfmQaZdak2"
+      },
+      "artists": [
+        {
+          "name": "Joan Sebastian",
+          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
+        }
+      ],
+      "duration_ms": 180337,
+      "name": "Sangoloteadito",
+      "url": "https://open.spotify.com/track/2s678Tz6mme5OV9DfTUUoD"
+    },
+    {
+      "added_at": "2024-02-22 23:59:54",
+      "album": {
         "name": "El Indio Enamorado",
         "url": "https://open.spotify.com/album/4JwwVngWxV6EDq7lC3wUBt"
       },
@@ -1115,22 +1115,6 @@
     {
       "added_at": "2024-02-22 23:59:54",
       "album": {
-        "name": "Consejos Gratis",
-        "url": "https://open.spotify.com/album/10e10cYupx3U37Efv5691A"
-      },
-      "artists": [
-        {
-          "name": "Eden Mu\u00f1oz",
-          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
-        }
-      ],
-      "duration_ms": 142656,
-      "name": "Consejos Gratis",
-      "url": "https://open.spotify.com/track/2xTLTU2K901snq53FLWZKE"
-    },
-    {
-      "added_at": "2024-02-22 23:59:54",
-      "album": {
         "name": "Siempre Imitado, Jamas Igualado",
         "url": "https://open.spotify.com/album/35f4w9AcjnUdfJ174fgOz5"
       },
@@ -1143,6 +1127,22 @@
       "duration_ms": 165733,
       "name": "Voy A Llorar Por Ti",
       "url": "https://open.spotify.com/track/20qd1CUZCdgbOYN8vDt8Se"
+    },
+    {
+      "added_at": "2024-02-22 23:59:54",
+      "album": {
+        "name": "Consejos Gratis",
+        "url": "https://open.spotify.com/album/10e10cYupx3U37Efv5691A"
+      },
+      "artists": [
+        {
+          "name": "Eden Mu\u00f1oz",
+          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
+        }
+      ],
+      "duration_ms": 142656,
+      "name": "Consejos Gratis",
+      "url": "https://open.spotify.com/track/2xTLTU2K901snq53FLWZKE"
     },
     {
       "added_at": "2024-02-22 23:59:54",
@@ -1167,18 +1167,18 @@
     {
       "added_at": "2024-02-22 23:59:54",
       "album": {
-        "name": "Los Huracanes del Norte - 40 Aniversario",
-        "url": "https://open.spotify.com/album/2j5szS1qydIXtQl79I6TPW"
+        "name": "Antonio Aguilar con Mariachi",
+        "url": "https://open.spotify.com/album/1avd5vgMRyfa6YD4LuZh2n"
       },
       "artists": [
         {
-          "name": "Los Huracanes del Norte",
-          "url": "https://open.spotify.com/artist/2wmwGWrqRizLaSEYrm5dzZ"
+          "name": "Antonio Aguilar",
+          "url": "https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm"
         }
       ],
-      "duration_ms": 220682,
-      "name": "Nomas Por Tu Culpa",
-      "url": "https://open.spotify.com/track/1YvVbuRKDU9zRE3OsZxx4v"
+      "duration_ms": 233116,
+      "name": "Triste Recuerdo",
+      "url": "https://open.spotify.com/track/5wLqk86XlgZCzP8mMG9PrF"
     },
     {
       "added_at": "2024-02-22 23:59:54",
@@ -1199,18 +1199,18 @@
     {
       "added_at": "2024-02-22 23:59:54",
       "album": {
-        "name": "Antonio Aguilar con Mariachi",
-        "url": "https://open.spotify.com/album/1avd5vgMRyfa6YD4LuZh2n"
+        "name": "Los Huracanes del Norte - 40 Aniversario",
+        "url": "https://open.spotify.com/album/2j5szS1qydIXtQl79I6TPW"
       },
       "artists": [
         {
-          "name": "Antonio Aguilar",
-          "url": "https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm"
+          "name": "Los Huracanes del Norte",
+          "url": "https://open.spotify.com/artist/2wmwGWrqRizLaSEYrm5dzZ"
         }
       ],
-      "duration_ms": 233116,
-      "name": "Triste Recuerdo",
-      "url": "https://open.spotify.com/track/5wLqk86XlgZCzP8mMG9PrF"
+      "duration_ms": 220682,
+      "name": "Nomas Por Tu Culpa",
+      "url": "https://open.spotify.com/track/1YvVbuRKDU9zRE3OsZxx4v"
     },
     {
       "added_at": "2024-02-22 23:59:54",
@@ -1327,22 +1327,6 @@
     {
       "added_at": "2024-02-22 23:59:54",
       "album": {
-        "name": "La Noche Que Murio Chicago",
-        "url": "https://open.spotify.com/album/2rD97DTS4zzJCplMzvsYtC"
-      },
-      "artists": [
-        {
-          "name": "Banda Toro",
-          "url": "https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg"
-        }
-      ],
-      "duration_ms": 161226,
-      "name": "La Noche Que Murio Chicago",
-      "url": "https://open.spotify.com/track/4nrNEbfKx82rBT4c3tBTJd"
-    },
-    {
-      "added_at": "2024-02-22 23:59:54",
-      "album": {
         "name": "Colecci\u00f3n De Oro De Antonio Aguilar, Vol. 5: 1990-2000",
         "url": "https://open.spotify.com/album/4fNCUyeFb9HMw0iBBbNIQy"
       },
@@ -1355,6 +1339,22 @@
       "duration_ms": 187907,
       "name": "Que Me Entierren Con La Banda",
       "url": "https://open.spotify.com/track/26CKi8JrfHO28g0rJ7RMUD"
+    },
+    {
+      "added_at": "2024-02-22 23:59:54",
+      "album": {
+        "name": "La Noche Que Murio Chicago",
+        "url": "https://open.spotify.com/album/2rD97DTS4zzJCplMzvsYtC"
+      },
+      "artists": [
+        {
+          "name": "Banda Toro",
+          "url": "https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg"
+        }
+      ],
+      "duration_ms": 161226,
+      "name": "La Noche Que Murio Chicago",
+      "url": "https://open.spotify.com/track/4nrNEbfKx82rBT4c3tBTJd"
     },
     {
       "added_at": "2024-02-22 23:59:54",
@@ -1919,6 +1919,22 @@
     {
       "added_at": "2024-02-22 23:59:54",
       "album": {
+        "name": "Ese Soy Yo",
+        "url": "https://open.spotify.com/album/0FTYEBALGZDLGgKzDFR5mk"
+      },
+      "artists": [
+        {
+          "name": "El Bebeto",
+          "url": "https://open.spotify.com/artist/1YhMWppPt9RVODKD1KCs7W"
+        }
+      ],
+      "duration_ms": 198733,
+      "name": "Lo Legal",
+      "url": "https://open.spotify.com/track/46o6fYLws9P1XH8kcVVtyo"
+    },
+    {
+      "added_at": "2024-02-22 23:59:54",
+      "album": {
         "name": "En Vivo Para Ti",
         "url": "https://open.spotify.com/album/62WpT7OULJFmbpS9CAWD7b"
       },
@@ -1947,22 +1963,6 @@
       "duration_ms": 166106,
       "name": "Que No Se Apague La Lumbre",
       "url": "https://open.spotify.com/track/4WLBbFY3jON97NHf7gh5OO"
-    },
-    {
-      "added_at": "2024-02-22 23:59:54",
-      "album": {
-        "name": "Ese Soy Yo",
-        "url": "https://open.spotify.com/album/0FTYEBALGZDLGgKzDFR5mk"
-      },
-      "artists": [
-        {
-          "name": "El Bebeto",
-          "url": "https://open.spotify.com/artist/1YhMWppPt9RVODKD1KCs7W"
-        }
-      ],
-      "duration_ms": 198733,
-      "name": "Lo Legal",
-      "url": "https://open.spotify.com/track/46o6fYLws9P1XH8kcVVtyo"
     },
     {
       "added_at": "2024-02-22 23:59:54",

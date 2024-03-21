@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9XrA0OT5b6M.md) - [plain]
 
 > Music from TV Anime "ONE PIECE" /TVアニメ「ONE PIECE」の楽曲を1つのプレイリストで。©️尾田栄一郎／集英社・フジテレビ・東映アニメーション
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,621 likes - 50 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,639 likes - 50 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9XrA0OT5b6M.md) - [plain]
 | 10 | [ココロのちず](https://open.spotify.com/track/281YQGSeSsRpPgKjWEnyDp) | [BOYSTYLE](https://open.spotify.com/artist/5DTWsxuQv9Sb9QszMjUQZT) | [ココロのちず](https://open.spotify.com/album/1ZfdO4WpyRXad4BEhftN7x) | 4:23 |
 | 11 | [Brand New World](https://open.spotify.com/track/1mV4Ti0I8kZF3Dd72qPEW5) | [D\-51](https://open.spotify.com/artist/5uisl58N23dXm8fGfbLF8m) | [Mitsuyoko Ichimura \(Standard Edition\)](https://open.spotify.com/album/6jD6G7QKuMHKJ5QRR5w0HO) | 4:18 |
 | 12 | [Jungle P](https://open.spotify.com/track/5whEPQjcSVS6gxFPduNjVv) | [5050](https://open.spotify.com/artist/4wzzRsQSCa1GurLRmFbgTU) | [Jungle P](https://open.spotify.com/album/6Y7N0GDJwEPwAB8szioJ7S) | 3:15 |
-| 13 | [風をさがして](https://open.spotify.com/track/6IePUG4Jy9dKA0zp3VAMeo) | [Mari Yaguchi](https://open.spotify.com/artist/1MCUIn9Um8kgMIdfgsFl1d), [ストローハット](https://open.spotify.com/artist/122cdkCJMnlTpK8RVdA7Ht) | [風をさがして](https://open.spotify.com/album/3Y9UDMo90lvIwaEp2aAQlZ) | 4:05 |
+| 13 | [風をさがして](https://open.spotify.com/track/48Upc2XlJ66ckHn43e7Uet) | [Mari Yaguchi](https://open.spotify.com/artist/1MCUIn9Um8kgMIdfgsFl1d) | [風をさがして](https://open.spotify.com/album/2EsJtDNBtiJgSjYiKAwk7W) | 4:05 |
 | 14 | [One day](https://open.spotify.com/track/4H4mvjFyIqE5OMYf5zJLBP) | [The ROOTLESS](https://open.spotify.com/artist/6N3SuSq2rXAfZ2W8LLbBZp) | [One day](https://open.spotify.com/album/00z0k8RlIXQ736CXCA7aox) | 4:18 |
 | 15 | [ウィーゴー!](https://open.spotify.com/track/2dA9mXOUIsKWBZNesDGqvm) | [Hiroshi Kitadani](https://open.spotify.com/artist/4AJU1RjcIcPXJ29eoV5Jop) | [ウィーゴー!](https://open.spotify.com/album/22vN8p8TlwrKbSrU4Z1pM5) | 4:08 |
 | 16 | [Wake up!](https://open.spotify.com/track/2ZCkl705ROXLgLtXXKhBp2) | [AAA](https://open.spotify.com/artist/1AyWsgtaIgXbzjJlTx2ZDp) | [GOLD SYMPHONY](https://open.spotify.com/album/2K4rdeEWAiU0CgqI8XXdjR) | 3:43 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9XrA0OT5b6M.md) - [plain]
 | 49 | [エースを受け継ぐ!!!](https://open.spotify.com/track/2Ib0XkjwhDsu9LHWl5sr2H) | [Kohei Tanaka](https://open.spotify.com/artist/74ov6NjGYL0LHHyDD2Dy2b) | [ONE PIECE MUSIC MATERIAL \(Vol.2\)](https://open.spotify.com/album/4ws5nZWlUQ50f3wt2zho95) | 2:20 |
 | 50 | [ビンクスの酒](https://open.spotify.com/track/0GTBuk8CRs2ra4KNK5r0lC) | [Kohei Tanaka](https://open.spotify.com/artist/74ov6NjGYL0LHHyDD2Dy2b), [KAZBONGO](https://open.spotify.com/artist/6nvDGAhoidfJLJkCZuewDY) | [ONE PIECE Arrange Collection \(EDM\)](https://open.spotify.com/album/1rPBgOa02pHRy3sOvdW5Hf) | 3:27 |
 
-Snapshot ID: `MCwyYWQwY2VkMDkwMGIwNWEzMWVjYmY3OGI0YzBjNDNkYmE0YjA3MmZh`
+Snapshot ID: `MCwyODQ0ZmIxNjUyMWQ0MjllNzY2MzVkZjY1ODAzZGJhMmI2NzgyZThk`

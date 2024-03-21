@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35qF4A5M9ux.md) - [plain]
 
 > ¡Éxitos salseros para prenderle fuego a la pista de baile!
 
-[Spotify](https://open.spotify.com/user/spotify) - 353,515 likes - 100 songs - 8 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 353,530 likes - 100 songs - 8 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35qF4A5M9ux.md) - [plain]
 | 19 | [Lluvia](https://open.spotify.com/track/3SzJ4qlIjYkSO7bh0oKTXA) | [Eddie Santiago](https://open.spotify.com/artist/5Wg6XnPTp0xXxFCjywwR9I) | [De Verdad \(15 Super Exitos\)](https://open.spotify.com/album/7x4yJrZW7V1XdazGp7owXr) | 4:57 |
 | 20 | [Desnúdate Mujer](https://open.spotify.com/track/7fuKGQRFnSZu4k1LSJnuex) | [Frankie Ruiz](https://open.spotify.com/artist/4dLvccxeQIM5u80Ri0u9OV) | [Feliz Navidad Con Salsa](https://open.spotify.com/album/5RktkOfRU1eqXvh0qSK2uP) | 4:49 |
 | 21 | [Gotas De Lluvia](https://open.spotify.com/track/6sna5KCgNbt1ciZtVJCjzx) | [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8) | [20th Anniversary](https://open.spotify.com/album/6quTUa9H2vITjPy9TArBvW) | 5:54 |
-| 22 | [Eres Mi Sueño](https://open.spotify.com/track/5ZA9ItQp7DyG6pPkSsq3Bn) | [Septeto Acarey](https://open.spotify.com/artist/5Vz74ibGHBQaUa2ALDOH0v) | [Acarey Ya Llegó](https://open.spotify.com/album/74i0QoJc9w1PmewVlDlnj3) | 5:00 |
-| 23 | [Un Montón De Estrellas](https://open.spotify.com/track/21iD8UKoYicaMmVISo6Pi4) | [Polo Montañez](https://open.spotify.com/artist/0NJbkbtOgSj2Q5bkUV3FPz) | [Guajiro Natural](https://open.spotify.com/album/1X7NlROjvvMICSei8xcFJh) | 6:04 |
+| 22 | [Un Montón De Estrellas](https://open.spotify.com/track/21iD8UKoYicaMmVISo6Pi4) | [Polo Montañez](https://open.spotify.com/artist/0NJbkbtOgSj2Q5bkUV3FPz) | [Guajiro Natural](https://open.spotify.com/album/1X7NlROjvvMICSei8xcFJh) | 6:04 |
+| 23 | [Eres Mi Sueño](https://open.spotify.com/track/5ZA9ItQp7DyG6pPkSsq3Bn) | [Septeto Acarey](https://open.spotify.com/artist/5Vz74ibGHBQaUa2ALDOH0v) | [Acarey Ya Llegó](https://open.spotify.com/album/74i0QoJc9w1PmewVlDlnj3) | 5:00 |
 | 24 | [Si Me Ves Llorar](https://open.spotify.com/track/2CQJlWoNln1bdobttQ4znq) | [David Pabon](https://open.spotify.com/artist/3L3YHYkS8b2vgAbnqBTXrE) | [Mejor Que Ayer](https://open.spotify.com/album/2zf6kWIBrE5NOGLmy9vjCr) | 5:26 |
 | 25 | [Anhelo](https://open.spotify.com/track/68runhwF0SdEN1DFSadXWk) | [Adolescent's Orquesta](https://open.spotify.com/artist/70nxnxEqDQIEWneRjg2Q4O) | [Reclamando Nuestro Espacio](https://open.spotify.com/album/22oTpQbBrBfkrqMsumH3OX) | 4:08 |
 | 26 | [Regálame una Noche](https://open.spotify.com/track/2URe3fGSKuCh8v0d49lsNU) | [Maelo Ruiz](https://open.spotify.com/artist/3HyrDGPLI0c9Rd8luuO0zw) | [Regálame Una Noche](https://open.spotify.com/album/1VXQXHRTUD5kaCQotZhuvW) | 4:36 |
@@ -59,8 +59,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35qF4A5M9ux.md) - [plain]
 | 49 | [Quiero Morir En Tu Piel](https://open.spotify.com/track/3t3jGDeU3t1ro51C3x2pPR) | [Willie Gonzalez](https://open.spotify.com/artist/2EIZodXJHserIu4pGNfD3Z) | [Grandes Exitos](https://open.spotify.com/album/2FakrUxHjeJKeY0QxX4MGo) | 6:17 |
 | 50 | [Será Qué SÍ](https://open.spotify.com/track/0rBmvZ4ftXKpxsocjsbAun) | [Maelo Ruiz](https://open.spotify.com/artist/3HyrDGPLI0c9Rd8luuO0zw) | [En Tiempo De Amor](https://open.spotify.com/album/6oSejW0PK0YiKXj5YPm1tl) | 4:35 |
 | 51 | [Ella Feat\. Luis Enrique](https://open.spotify.com/track/3CXhO7ZR4kZ0n5dW3v3ACK) | [Hansel Y Raul](https://open.spotify.com/artist/2BXQwWUSIivZCgT0EqLx6g) | [Hansel & Raul 33](https://open.spotify.com/album/2tbzNkPwHMsaMs7BsIWfi0) | 5:48 |
-| 52 | [Conciencia](https://open.spotify.com/track/5bccusEjEtnC5cDfWXQ8rf) | [Gilberto Santa Rosa](https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1) | [20th Anniversary](https://open.spotify.com/album/3cN4DzawdHmneVAVQDtvjs) | 5:33 |
-| 53 | [Mi Media Mitad](https://open.spotify.com/track/64QyipABOzDwoUFqaEnCvU) | [Rey Ruiz](https://open.spotify.com/artist/1S0uvW1rgvtkNGma9su3fJ) | [Oro Salsero](https://open.spotify.com/album/5X1QYXR9eQO3cYZrqeoIYE) | 4:52 |
+| 52 | [Mi Media Mitad](https://open.spotify.com/track/64QyipABOzDwoUFqaEnCvU) | [Rey Ruiz](https://open.spotify.com/artist/1S0uvW1rgvtkNGma9su3fJ) | [Oro Salsero](https://open.spotify.com/album/5X1QYXR9eQO3cYZrqeoIYE) | 4:52 |
+| 53 | [Conciencia](https://open.spotify.com/track/5bccusEjEtnC5cDfWXQ8rf) | [Gilberto Santa Rosa](https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1) | [20th Anniversary](https://open.spotify.com/album/3cN4DzawdHmneVAVQDtvjs) | 5:33 |
 | 54 | [Tú Me Vuelves Loco](https://open.spotify.com/track/64zAjhGj8t7iHtUdNoTnRm) | [Frankie Ruiz](https://open.spotify.com/artist/4dLvccxeQIM5u80Ri0u9OV) | [Feliz Navidad Con Salsa](https://open.spotify.com/album/5RktkOfRU1eqXvh0qSK2uP) | 4:56 |
 | 55 | [Nuestro Sueño](https://open.spotify.com/track/0g9d2hcBECm8eOuxG9w5kH) | [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8) | [The Best](https://open.spotify.com/album/1b2HgTcfv1ocO7J83D1eIm) | 5:59 |
 | 56 | [La Murga](https://open.spotify.com/track/5O2Id1rWAmR9ff9kGUfikf) | [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW), [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP), [Yomo Toro](https://open.spotify.com/artist/112OOUPY3pq7Hr35s3po6E) | [Asalto Navideño](https://open.spotify.com/album/4TnqBA58KybPV53g95LHLe) | 5:34 |
@@ -102,11 +102,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35qF4A5M9ux.md) - [plain]
 | 92 | [Sobredosis](https://open.spotify.com/track/0Ncmfi9ff3wTC87zGHAAKE) | [Los Titanes](https://open.spotify.com/artist/4dboOLuCgBpq31GG6xov2S) | [Grandes Exitos de Salsa](https://open.spotify.com/album/5YrlCDihTCk8ubcTapuc8E) | 4:12 |
 | 93 | [Extrañándote](https://open.spotify.com/track/5U4v7JyApEbijyfwVQKYn4) | [Michel el Buenón](https://open.spotify.com/artist/0XpNiF9v1QPnRWKKGoffQf) | [Arriba Siempre \- De Pura Sangre](https://open.spotify.com/album/1UhIVjp2K6lDVbzpBKs1zp) | 5:05 |
 | 94 | [Cuando Acaba el Placer](https://open.spotify.com/track/7rUmf9QMILaMOd0jKqS2vK) | [Mickey Taveras](https://open.spotify.com/artist/1iVpMZKqpnZWfCXO2vIozm) | [Más Romántico\- Salsa en la Calle](https://open.spotify.com/album/6vgEHOeYvlDJNEM8GzsMt5) | 4:28 |
-| 95 | [Isi](https://open.spotify.com/track/4lWe0aVc9STQ4bkrGkVGTQ) | [Gustavo Rodriguez](https://open.spotify.com/artist/5Gsv3vQ8J8tpLcx4vw2Hv2) | [Septimo Sentido](https://open.spotify.com/album/5GnJWm3R6gHT25NuTq1VdQ) | 5:12 |
+| 95 | [Lo Quiero a Morir](https://open.spotify.com/track/7bdTyG1zKCHayAFiLDSJHp) | [Zayda](https://open.spotify.com/artist/2Bi9W5G9RuczLoQ4cPD0Tn) | [Lo Quiero a Morir](https://open.spotify.com/album/3gUjzuhToilAd6EpC0yQju) | 4:20 |
 | 96 | [Vivir Sin Ella](https://open.spotify.com/track/5ugemlM6AII73sb0k6yqux) | [Gilberto Santa Rosa](https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1) | [El Caballero De La Salsa \- La Historia Tropical](https://open.spotify.com/album/4AKdvM4gN7a6EWtBywDVcA) | 5:12 |
-| 97 | [Lo Quiero a Morir](https://open.spotify.com/track/7bdTyG1zKCHayAFiLDSJHp) | [Zayda](https://open.spotify.com/artist/2Bi9W5G9RuczLoQ4cPD0Tn) | [Lo Quiero a Morir](https://open.spotify.com/album/3gUjzuhToilAd6EpC0yQju) | 4:20 |
+| 97 | [Isi](https://open.spotify.com/track/4lWe0aVc9STQ4bkrGkVGTQ) | [Gustavo Rodriguez](https://open.spotify.com/artist/5Gsv3vQ8J8tpLcx4vw2Hv2) | [Septimo Sentido](https://open.spotify.com/album/5GnJWm3R6gHT25NuTq1VdQ) | 5:12 |
 | 98 | [Se Me Nota](https://open.spotify.com/track/2ydhtOdJdUjzPZRfNTZKnb) | [Hansel Y Raul](https://open.spotify.com/artist/2BXQwWUSIivZCgT0EqLx6g) | [Hansel & Raul 33](https://open.spotify.com/album/2tbzNkPwHMsaMs7BsIWfi0) | 4:39 |
 | 99 | [Por Retenerte](https://open.spotify.com/track/3Zlp3GGVJwQxpNmUy7TBxS) | [Los Titanes](https://open.spotify.com/artist/4dboOLuCgBpq31GG6xov2S) | [Grandes Exitos de Salsa](https://open.spotify.com/album/5YrlCDihTCk8ubcTapuc8E) | 4:51 |
 | 100 | [Mascaras](https://open.spotify.com/track/7zKD27zr6GGvmnftzyze8O) | [El Inspector De La Salsa](https://open.spotify.com/artist/3jakCpqlxelvHkdvhPWl2p) | [Salsa Estelar](https://open.spotify.com/album/00TVXvhvENeaYgeHGzH157) | 5:26 |
 
-Snapshot ID: `MCxjODEwMDFlMDkzNzE2Y2NlMTA3YzE3ZWM3MDlmZmIzMDZiN2QwY2Ux`
+Snapshot ID: `MCxlNWU0ODZiOTFiMjU2YThjOTkxMDU2NWMzNmUyMzQwZDQyZmUwNzhi`

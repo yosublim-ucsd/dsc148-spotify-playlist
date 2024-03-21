@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaBs3BbM19Ks.md) - [plain]
 
 > Bonitas, orgullosas y empoderadas, así somos las señoras.
 
-[Spotify](https://open.spotify.com/user/spotify) - 290,183 likes - 75 songs - 5 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 290,275 likes - 75 songs - 5 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaBs3BbM19Ks.md) - [plain]
 | 31 | [Tengo Todo Excepto a Ti](https://open.spotify.com/track/27XboT5Wb8VOn7A0heo3Ei) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [20 Años](https://open.spotify.com/album/3D9NENGfg4DFmYJrEaxRHd) | 4:32 |
 | 32 | [Si la Ves \(feat\. Sin Bandera\)](https://open.spotify.com/track/7xVEvr9wPXLPU286pCfYM3) | [Franco De Vita](https://open.spotify.com/artist/4NEYQeEYBUjfaXgDQGvFvu), [Sin Bandera](https://open.spotify.com/artist/7xeM7V59cA1X8GKyKKQV87) | [Stop](https://open.spotify.com/album/4BI3oXrWF0YvtWpfYWUxeX) | 4:08 |
 | 33 | [Y Tú Te Vas](https://open.spotify.com/track/34hM4PLlhyBysgL50IWdHf) | [Chayanne](https://open.spotify.com/artist/1JbemQ1fPt2YmSLjAFhPBv) | [Chayanne](https://open.spotify.com/album/51dg2LdYMIVQqCuUBlfQsN) | 4:45 |
-| 34 | [Te amo](https://open.spotify.com/track/2jFglF0pDwhrrXmeWZvmKY) | [Alexander Acha](https://open.spotify.com/artist/3JkgQ8Jjwt2mkeOsg5yhqh) | [Voy](https://open.spotify.com/album/2WwacEFBdZJezRAgBMqPWR) | 3:53 |
-| 35 | [Las Mil Y Una Noches](https://open.spotify.com/track/0b53GyMOfBCt5L6bh0CH3f) | [Flans](https://open.spotify.com/artist/4zbqGb99bANxJBsvwRr2zT) | [Luz Y Sombra](https://open.spotify.com/album/57M2J9XUqv52BtTCJ5FifM) | 4:40 |
+| 34 | [Las Mil Y Una Noches](https://open.spotify.com/track/0b53GyMOfBCt5L6bh0CH3f) | [Flans](https://open.spotify.com/artist/4zbqGb99bANxJBsvwRr2zT) | [Luz Y Sombra](https://open.spotify.com/album/57M2J9XUqv52BtTCJ5FifM) | 4:40 |
+| 35 | [Te amo](https://open.spotify.com/track/2jFglF0pDwhrrXmeWZvmKY) | [Alexander Acha](https://open.spotify.com/artist/3JkgQ8Jjwt2mkeOsg5yhqh) | [Voy](https://open.spotify.com/album/2WwacEFBdZJezRAgBMqPWR) | 3:53 |
 | 36 | [La Chica de Humo](https://open.spotify.com/track/0GZ8UVlhn2tjHPpngzoLJk) | [Emmanuel](https://open.spotify.com/artist/2DmYtFBKcxb3ajwWWgA576) | [Quisiera](https://open.spotify.com/album/3v2sq3JspM5Kny8Hz6ElyH) | 5:31 |
 | 37 | [Él Me Mintió](https://open.spotify.com/track/6lZ2Qk3WcmrG4iDmaEqpvH) | [Amanda Miguel](https://open.spotify.com/artist/3v8mFhjLFa50QK8zDvAMYN) | [El Sonido Vol\. 1](https://open.spotify.com/album/4pikNCtnVpJMebAIS5tuYS) | 3:41 |
 | 38 | [Cruz de Navajas](https://open.spotify.com/track/5laT2a6iEq4IxgEDV9dSCr) | [Mecano](https://open.spotify.com/artist/5BMgsAFg8rZQc3tqs5BB8G) | [Entre el Cielo y el Suelo \(Bonus Tracks Edition\)](https://open.spotify.com/album/1vDYLED9bQwm3FzIdXs5H9) | 5:02 |
@@ -72,16 +72,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaBs3BbM19Ks.md) - [plain]
 | 62 | [Si tú no vuelves](https://open.spotify.com/track/1YFBO31kSEYo1DVkjSj8LG) | [Miguel Bosé](https://open.spotify.com/artist/7mWCSSOYqm4E9mB7V4ot6S) | [Bajo El Signo De Caín](https://open.spotify.com/album/3TNVefBL4j3T9Cr7XU232u) | 4:38 |
 | 63 | [La mujer que bota fuego \(feat\. Natalia Jiménez\)](https://open.spotify.com/track/6w6EINTodc8j0TWtrWHdm2) | [Manuel Medrano](https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM), [Natalia Jiménez](https://open.spotify.com/artist/0j8QSBQZ9MNSGjHr1Vll1R) | [La mujer que bota fuego \(feat\. Natalia Jiménez\)](https://open.spotify.com/album/78LoJthaoIuMaRNZGduMdh) | 4:04 |
 | 64 | [Bella Señora](https://open.spotify.com/track/7vyfkPROxVBZQOJtufdIIJ) | [Emmanuel](https://open.spotify.com/artist/2DmYtFBKcxb3ajwWWgA576) | [20 Exitos Originales](https://open.spotify.com/album/7GJk5uyd0Fk8ekmz9v3ywI) | 4:41 |
-| 65 | [Para Amarnos Más](https://open.spotify.com/track/3VDJrFMOFyYFGPtIocqkeP) | [Mijares](https://open.spotify.com/artist/3zhijRRIZX2B6G2T7vJl9p) | [21 Black Jack](https://open.spotify.com/album/4jiWswx18F7x1dRMKmC9YR) | 3:26 |
-| 66 | [Señora de las Cuatro Décadas](https://open.spotify.com/track/2neWsabATpEgR8XBv4Hqwo) | [Ricardo Arjona](https://open.spotify.com/artist/0h1zs4CTlU9D2QtgPxptUD) | [Quién Dijo Ayer](https://open.spotify.com/album/1icNy43dW75nSFOkucRFJZ) | 5:04 |
-| 67 | [Amores extraños \- Versión 2001](https://open.spotify.com/track/2FeYK41Grs7KdR9Nqoy1MK) | [Laura Pausini](https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH) | [Lo mejor de Laura Pausini \- Volveré junto a ti](https://open.spotify.com/album/0myaHlqK31HgqSV2k6Caqj) | 4:17 |
-| 68 | [Te Quedó Grande La Yegua](https://open.spotify.com/track/5tPxcLBsfj9yZS4PAiOr9G) | [Alicia Villarreal](https://open.spotify.com/artist/6Hf2g14O2TP25JUNZuvIgn) | [Soy Lo Prohibido](https://open.spotify.com/album/4kI870RBIpDEXCJfDOpyt4) | 3:37 |
+| 65 | [Señora de las Cuatro Décadas](https://open.spotify.com/track/2neWsabATpEgR8XBv4Hqwo) | [Ricardo Arjona](https://open.spotify.com/artist/0h1zs4CTlU9D2QtgPxptUD) | [Quién Dijo Ayer](https://open.spotify.com/album/1icNy43dW75nSFOkucRFJZ) | 5:04 |
+| 66 | [Para Amarnos Más](https://open.spotify.com/track/3VDJrFMOFyYFGPtIocqkeP) | [Mijares](https://open.spotify.com/artist/3zhijRRIZX2B6G2T7vJl9p) | [21 Black Jack](https://open.spotify.com/album/4jiWswx18F7x1dRMKmC9YR) | 3:26 |
+| 67 | [Te Quedó Grande La Yegua](https://open.spotify.com/track/5tPxcLBsfj9yZS4PAiOr9G) | [Alicia Villarreal](https://open.spotify.com/artist/6Hf2g14O2TP25JUNZuvIgn) | [Soy Lo Prohibido](https://open.spotify.com/album/4kI870RBIpDEXCJfDOpyt4) | 3:37 |
+| 68 | [Amores extraños \- Versión 2001](https://open.spotify.com/track/2FeYK41Grs7KdR9Nqoy1MK) | [Laura Pausini](https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH) | [Lo mejor de Laura Pausini \- Volveré junto a ti](https://open.spotify.com/album/0myaHlqK31HgqSV2k6Caqj) | 4:17 |
 | 69 | [Volcán](https://open.spotify.com/track/1eDK4TD4cNzCgLOzAxKvus) | [José José](https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV) | [Volcan](https://open.spotify.com/album/7Fcmv9DfwmhJPUhU2oQqry) | 4:45 |
 | 70 | [A Cambio de Que](https://open.spotify.com/track/2SjkYtF1oOm23eashiCo6N) | [Marisela](https://open.spotify.com/artist/73c2MjCAFNyKYIs7nBlqG2) | [Completamente Tuya](https://open.spotify.com/album/5vN1tVAL4qBWurY8UHah7g) | 3:30 |
 | 71 | [Si Me Tenías](https://open.spotify.com/track/2wBhRmkGC098tLGo2dhWo2) | [Mijares](https://open.spotify.com/artist/3zhijRRIZX2B6G2T7vJl9p) | [Canto Por Ti](https://open.spotify.com/album/0FhBt22SV28wg41ecDy1RO) | 3:59 |
 | 72 | [Amante Bandido](https://open.spotify.com/track/1hj6nYHeGclSY0VNTHMi27) | [Miguel Bosé](https://open.spotify.com/artist/7mWCSSOYqm4E9mB7V4ot6S) | [Bandido](https://open.spotify.com/album/29QmPdVjXD0c5DpS4U51di) | 4:21 |
 | 73 | [Por Besarte](https://open.spotify.com/track/4q88IbAn47f7GCQIFhbYkL) | [LU](https://open.spotify.com/artist/1G4QsyR9Fj6k8JJK233X8C) | [Lu](https://open.spotify.com/album/0FDD3Y5vJ0chGNLtJju6nq) | 3:37 |
 | 74 | [A Esa](https://open.spotify.com/track/42QWOsW1f9uDu9zsoUAE73) | [Pimpinela](https://open.spotify.com/artist/7E7CVSqFdLyh0K4AE9uTMo) | [Personalidad](https://open.spotify.com/album/7KvMyEYFd70S7ywbxhzleY) | 3:08 |
-| 75 | [Detrás de Mi Ventana](https://open.spotify.com/track/0vhOhQerNeK037EpSmphzb) | [Yuri](https://open.spotify.com/artist/4OgNARLQSC4yy7Dsa5cqxx) | [NUEVA ERA](https://open.spotify.com/album/46vUx6DbaAJvrShgZYMLSU) | 4:39 |
+| 75 | [Bazar](https://open.spotify.com/track/7CLxH03q65I3aktL79k4vE) | [Flans](https://open.spotify.com/artist/4zbqGb99bANxJBsvwRr2zT) | [Flans](https://open.spotify.com/album/1otqQgjwtYN6jQR61jaE4A) | 3:29 |
 
-Snapshot ID: `MCxlYWQwNDNhYTliOWJjNGRjOTdiNmM2ZWFlNmI4YTBjMjRmNGQ4NmZj`
+Snapshot ID: `MCw4NGJjMmE0ZTU4YTAxZjViZmViYTRiN2RlZjI2YTQxODcwMDA4ODNj`

@@ -1,12 +1,12 @@
 {
   "description": "A mix of the biggest pop, dance, and hip hop party songs. Cover: Beyonc\u00e9",
-  "num_followers": 4262664,
+  "num_followers": 4262717,
   "original_name": "Party Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhNTI3YjgxMDcxN2FmODgxMjQxZGEyMzU4N2VhMGJmNTViZjFkZjdj",
+  "snapshot_id": "MCwxZGQwM2ZiNGFhNDY2NWRjOWUzZWYyYzdlMDY0NjBkNjJkNWJmMjg3",
   "tracks": [
     {
       "added_at": "2024-03-15 04:00:00",
@@ -563,22 +563,6 @@
     {
       "added_at": "2024-03-15 04:00:00",
       "album": {
-        "name": "Dance The Night (From Barbie The Album)",
-        "url": "https://open.spotify.com/album/5cH7FqB7JD5q1tJXJ7FHYu"
-      },
-      "artists": [
-        {
-          "name": "Dua Lipa",
-          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
-        }
-      ],
-      "duration_ms": 176579,
-      "name": "Dance The Night - From Barbie The Album",
-      "url": "https://open.spotify.com/track/1vYXt7VSjH9JIM5oRRo7vA"
-    },
-    {
-      "added_at": "2024-03-15 04:00:00",
-      "album": {
         "name": "I Ain\u2019t Worried (Music From The Motion Picture \"Top Gun: Maverick\")",
         "url": "https://open.spotify.com/album/04PEOM6kIEeq9lRp1asNP2"
       },
@@ -591,6 +575,22 @@
       "duration_ms": 148485,
       "name": "I Ain't Worried",
       "url": "https://open.spotify.com/track/4h9wh7iOZ0GGn8QVp4RAOB"
+    },
+    {
+      "added_at": "2024-03-15 04:00:00",
+      "album": {
+        "name": "Dance The Night (From Barbie The Album)",
+        "url": "https://open.spotify.com/album/5cH7FqB7JD5q1tJXJ7FHYu"
+      },
+      "artists": [
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        }
+      ],
+      "duration_ms": 176579,
+      "name": "Dance The Night - From Barbie The Album",
+      "url": "https://open.spotify.com/track/1vYXt7VSjH9JIM5oRRo7vA"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -667,22 +667,6 @@
     {
       "added_at": "2024-03-15 04:00:00",
       "album": {
-        "name": "a Gift & a Curse",
-        "url": "https://open.spotify.com/album/5qmZefgh78fN3jsyPPlvuw"
-      },
-      "artists": [
-        {
-          "name": "Gunna",
-          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
-        }
-      ],
-      "duration_ms": 125040,
-      "name": "fukumean",
-      "url": "https://open.spotify.com/track/4rXLjWdF2ZZpXCVTfWcshS"
-    },
-    {
-      "added_at": "2024-03-15 04:00:00",
-      "album": {
         "name": "eternal sunshine",
         "url": "https://open.spotify.com/album/5EYKrEDnKhhcNxGedaRQeK"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 173639,
       "name": "the boy is mine",
       "url": "https://open.spotify.com/track/0Lmbke3KNVFXtoH2mMSHCw"
+    },
+    {
+      "added_at": "2024-03-15 04:00:00",
+      "album": {
+        "name": "a Gift & a Curse",
+        "url": "https://open.spotify.com/album/5qmZefgh78fN3jsyPPlvuw"
+      },
+      "artists": [
+        {
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+        }
+      ],
+      "duration_ms": 125040,
+      "name": "fukumean",
+      "url": "https://open.spotify.com/track/4rXLjWdF2ZZpXCVTfWcshS"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -1015,6 +1015,26 @@
     {
       "added_at": "2024-03-15 04:00:00",
       "album": {
+        "name": "Closer",
+        "url": "https://open.spotify.com/album/0rSLgV8p5FzfnqlEk4GzxE"
+      },
+      "artists": [
+        {
+          "name": "The Chainsmokers",
+          "url": "https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp"
+        },
+        {
+          "name": "Halsey",
+          "url": "https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2"
+        }
+      ],
+      "duration_ms": 244960,
+      "name": "Closer",
+      "url": "https://open.spotify.com/track/7BKLCZ1jbUBVqRi2FVlTVw"
+    },
+    {
+      "added_at": "2024-03-15 04:00:00",
+      "album": {
         "name": "american dream",
         "url": "https://open.spotify.com/album/2RRYaYHY7fIIdvFlvgb5vq"
       },
@@ -1035,26 +1055,6 @@
       "duration_ms": 220584,
       "name": "n\u00e9e-nah",
       "url": "https://open.spotify.com/track/2yUzr8Sr6ldG8vmHhZwTnz"
-    },
-    {
-      "added_at": "2024-03-15 04:00:00",
-      "album": {
-        "name": "Closer",
-        "url": "https://open.spotify.com/album/0rSLgV8p5FzfnqlEk4GzxE"
-      },
-      "artists": [
-        {
-          "name": "The Chainsmokers",
-          "url": "https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp"
-        },
-        {
-          "name": "Halsey",
-          "url": "https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2"
-        }
-      ],
-      "duration_ms": 244960,
-      "name": "Closer",
-      "url": "https://open.spotify.com/track/7BKLCZ1jbUBVqRi2FVlTVw"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -1343,22 +1343,6 @@
     {
       "added_at": "2024-03-15 04:00:00",
       "album": {
-        "name": "Love On",
-        "url": "https://open.spotify.com/album/7I7rbWQoLZ7PrTMsRfocpL"
-      },
-      "artists": [
-        {
-          "name": "Selena Gomez",
-          "url": "https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx"
-        }
-      ],
-      "duration_ms": 181650,
-      "name": "Love On",
-      "url": "https://open.spotify.com/track/2fB5YRuD88drKpCXQOAk03"
-    },
-    {
-      "added_at": "2024-03-15 04:00:00",
-      "album": {
         "name": "Desire (with Sam Smith)",
         "url": "https://open.spotify.com/album/3XDtRvXV5DR1xZfvcneG2C"
       },
@@ -1375,6 +1359,22 @@
       "duration_ms": 179161,
       "name": "Desire (with Sam Smith)",
       "url": "https://open.spotify.com/track/22dUzMFttcR3uU17NcOAIv"
+    },
+    {
+      "added_at": "2024-03-15 04:00:00",
+      "album": {
+        "name": "Love On",
+        "url": "https://open.spotify.com/album/7I7rbWQoLZ7PrTMsRfocpL"
+      },
+      "artists": [
+        {
+          "name": "Selena Gomez",
+          "url": "https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx"
+        }
+      ],
+      "duration_ms": 181650,
+      "name": "Love On",
+      "url": "https://open.spotify.com/track/2fB5YRuD88drKpCXQOAk03"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -1415,22 +1415,6 @@
     {
       "added_at": "2024-03-15 04:00:00",
       "album": {
-        "name": "HISS",
-        "url": "https://open.spotify.com/album/2QfxtFVJK1qh8pj2DEFHlA"
-      },
-      "artists": [
-        {
-          "name": "Megan Thee Stallion",
-          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
-        }
-      ],
-      "duration_ms": 192818,
-      "name": "HISS",
-      "url": "https://open.spotify.com/track/79AHPJd8upvNxyK2qQcY8J"
-    },
-    {
-      "added_at": "2024-03-15 04:00:00",
-      "album": {
         "name": "Future Nostalgia",
         "url": "https://open.spotify.com/album/5lKlFlReHOLShQKyRv6AL9"
       },
@@ -1447,6 +1431,22 @@
       "duration_ms": 203064,
       "name": "Levitating (feat. DaBaby)",
       "url": "https://open.spotify.com/track/5nujrmhLynf4yMoMtj8AQF"
+    },
+    {
+      "added_at": "2024-03-15 04:00:00",
+      "album": {
+        "name": "HISS",
+        "url": "https://open.spotify.com/album/2QfxtFVJK1qh8pj2DEFHlA"
+      },
+      "artists": [
+        {
+          "name": "Megan Thee Stallion",
+          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
+        }
+      ],
+      "duration_ms": 192818,
+      "name": "HISS",
+      "url": "https://open.spotify.com/track/79AHPJd8upvNxyK2qQcY8J"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -1599,18 +1599,22 @@
     {
       "added_at": "2024-03-15 04:00:00",
       "album": {
-        "name": "SOS",
-        "url": "https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG"
+        "name": "Camila",
+        "url": "https://open.spotify.com/album/2vD3zSQr8hNlg0obNel4TE"
       },
       "artists": [
         {
-          "name": "SZA",
-          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+          "name": "Camila Cabello",
+          "url": "https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF"
+        },
+        {
+          "name": "Young Thug",
+          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
         }
       ],
-      "duration_ms": 181080,
-      "name": "Low",
-      "url": "https://open.spotify.com/track/2GAhgAjOhEmItWLfgisyOn"
+      "duration_ms": 217306,
+      "name": "Havana (feat. Young Thug)",
+      "url": "https://open.spotify.com/track/1rfofaqEpACxVEHIZBJe6W"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -1635,22 +1639,18 @@
     {
       "added_at": "2024-03-15 04:00:00",
       "album": {
-        "name": "Camila",
-        "url": "https://open.spotify.com/album/2vD3zSQr8hNlg0obNel4TE"
+        "name": "SOS",
+        "url": "https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG"
       },
       "artists": [
         {
-          "name": "Camila Cabello",
-          "url": "https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF"
-        },
-        {
-          "name": "Young Thug",
-          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
         }
       ],
-      "duration_ms": 217306,
-      "name": "Havana (feat. Young Thug)",
-      "url": "https://open.spotify.com/track/1rfofaqEpACxVEHIZBJe6W"
+      "duration_ms": 181080,
+      "name": "Low",
+      "url": "https://open.spotify.com/track/2GAhgAjOhEmItWLfgisyOn"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -1715,22 +1715,6 @@
     {
       "added_at": "2024-03-15 04:00:00",
       "album": {
-        "name": "Like..? (Deluxe)",
-        "url": "https://open.spotify.com/album/2pD2Hn4NPvf58NDSdWmUAk"
-      },
-      "artists": [
-        {
-          "name": "Ice Spice",
-          "url": "https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf"
-        }
-      ],
-      "duration_ms": 126857,
-      "name": "Deli",
-      "url": "https://open.spotify.com/track/5JYPXqMwYc0zTODQdjMEZN"
-    },
-    {
-      "added_at": "2024-03-15 04:00:00",
-      "album": {
         "name": "Alibi (feat. Rudimental)",
         "url": "https://open.spotify.com/album/3Ku8LDPYg53Kh59amfFWjL"
       },
@@ -1747,6 +1731,22 @@
       "duration_ms": 184852,
       "name": "Alibi (feat. Rudimental)",
       "url": "https://open.spotify.com/track/5Jpz4nv8nA6FIYO5gEyQa2"
+    },
+    {
+      "added_at": "2024-03-15 04:00:00",
+      "album": {
+        "name": "Like..? (Deluxe)",
+        "url": "https://open.spotify.com/album/2pD2Hn4NPvf58NDSdWmUAk"
+      },
+      "artists": [
+        {
+          "name": "Ice Spice",
+          "url": "https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf"
+        }
+      ],
+      "duration_ms": 126857,
+      "name": "Deli",
+      "url": "https://open.spotify.com/track/5JYPXqMwYc0zTODQdjMEZN"
     },
     {
       "added_at": "2024-03-15 04:00:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0vYsCgM2pbA.md) - [plain]
 
 > Kick on with this mix of homegrown electronic music
 
-[Spotify](https://open.spotify.com/user/spotify) - 135,472 likes - 60 songs - 3 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 135,499 likes - 60 songs - 3 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0vYsCgM2pbA.md) - [plain]
 | 37 | [Promises](https://open.spotify.com/track/6J1J0mAEKODPz10Tthdhwv) | [Logic1000](https://open.spotify.com/artist/2EFsfh1zewsSWhDINv7j1I), [Rochelle Jordan](https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3) | [Promises](https://open.spotify.com/album/1ccKMe1V4ixAhUZSQmWwqF) | 3:28 |
 | 38 | [Disappear \(feat\. Hayley Trinca\) \[ShockOne Remix\]](https://open.spotify.com/track/7JdHEhOa7CXs8oEBnMtnjh) | [Odd Mob](https://open.spotify.com/artist/4qLwtWhlhyAoQ4S9mSrDW9), [Pooks](https://open.spotify.com/artist/4bK23BKvm2y1lYjenizdTN), [ShockOne](https://open.spotify.com/artist/1yShtQaHjChbToQboKRzgH), [Hayley Trinca](https://open.spotify.com/artist/5l3jgJIgcCwcD0eG6wm0QH) | [Disappear \(feat\. Hayley Trinca\) \[ShockOne Remix\]](https://open.spotify.com/album/5fWBWimlRmaLgyQ20zlzH0) | 3:03 |
 | 39 | [Perfect World](https://open.spotify.com/track/3fPSulmetwSxRIQ8cfU8Yl) | [Lastlings](https://open.spotify.com/artist/0M7GyeyRi2fG8c1LdP4jhi) | [Perfect World](https://open.spotify.com/album/50fK5JmEYqHvxne5EGJpSc) | 4:38 |
-| 40 | [MACHINE](https://open.spotify.com/track/0nGqpM1FC31Pnofc8K4b1h) | [Mild Minds](https://open.spotify.com/artist/3Ka3k9K2WStR52UJVtbJZW) | [MACHINE](https://open.spotify.com/album/44T3g6iiEfy2Sre3LPsBbA) | 3:17 |
-| 41 | [Oceanside Girl](https://open.spotify.com/track/5wILnj9sHZqmi0IKNQrgil) | [Holo](https://open.spotify.com/artist/5PrWAhH8BO28ieKNfYYFEX) | [Oceanside Girl](https://open.spotify.com/album/0neG0MxqKJPNFGOajtr0Lv) | 5:19 |
+| 40 | [Oceanside Girl](https://open.spotify.com/track/5wILnj9sHZqmi0IKNQrgil) | [Holo](https://open.spotify.com/artist/5PrWAhH8BO28ieKNfYYFEX) | [Oceanside Girl](https://open.spotify.com/album/0neG0MxqKJPNFGOajtr0Lv) | 5:19 |
+| 41 | [MACHINE](https://open.spotify.com/track/0nGqpM1FC31Pnofc8K4b1h) | [Mild Minds](https://open.spotify.com/artist/3Ka3k9K2WStR52UJVtbJZW) | [MACHINE](https://open.spotify.com/album/44T3g6iiEfy2Sre3LPsBbA) | 3:17 |
 | 42 | [Alive](https://open.spotify.com/track/5IKaBEdCQlfB6aikIFKuR8) | [RÜFÜS DU SOL](https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj) | [Alive](https://open.spotify.com/album/7pF1j9CKPRpcecJZrzzhmc) | 5:34 |
 | 43 | [Touch](https://open.spotify.com/track/35va3avWAmS4HMKANASOEp) | [Golden Features](https://open.spotify.com/artist/2SrWifjYv7b5tR8EzEmn1x), [Rromarin](https://open.spotify.com/artist/4JEwT8UJ2ihmM7xWjrtPqP) | [Sisyphus](https://open.spotify.com/album/5V0IE1Dq9W3jt5iuxguwNp) | 3:26 |
 | 44 | [Love Is Real](https://open.spotify.com/track/7nZNvE2EdKrH127yzBMW8E) | [Loods](https://open.spotify.com/artist/1uF7AFfGahplhiaHEy9NNl), [Mall Grab](https://open.spotify.com/artist/7yF6JnFPDzgml2Ytkyl5D7) | [Love Is Real](https://open.spotify.com/album/2zQJvUy9Cw6BGlYBBL4f8X) | 3:17 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0vYsCgM2pbA.md) - [plain]
 | 59 | [Everything \- Sonnee Remix](https://open.spotify.com/track/4d8znCPQ5ilRAVhkafU0EA) | [Mild Minds](https://open.spotify.com/artist/3Ka3k9K2WStR52UJVtbJZW), [edapollo](https://open.spotify.com/artist/5BCLvW3qaUm39VjiZ8INmm), [Sonnee](https://open.spotify.com/artist/2QmItUyhRFr5NBHFTVOBxr) | [Everything \(Sonnee Remix\)](https://open.spotify.com/album/0okrSkdtLDeof2Rgeuf6IR) | 3:00 |
 | 60 | [Can't Do Without \(My Baby\)](https://open.spotify.com/track/4hG6H7xPvEleJD9QUEqaAS) | [Cosmo's Midnight](https://open.spotify.com/artist/4VivsO1n4n2Mi2Btyb5gfL) | [Can't Do Without \(My Baby\)](https://open.spotify.com/album/2Y2bKgwqnGKYeN7Zun222X) | 3:22 |
 
-Snapshot ID: `MCxhZjZlNTc0NjU2MTQxMTJkY2ExYTBiN2I5M2Q3MTg4MzYwYzVkYThj`
+Snapshot ID: `MCwzNGU0MDlhZTJhMmE2Yjk1MzAyMTRmZGYyYjM5NmFjY2QwNDA5ZGQ1`

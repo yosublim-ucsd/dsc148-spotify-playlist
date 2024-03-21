@@ -6015,6 +6015,24 @@
     },
     {
       "album": {
+        "name": "C24",
+        "url": "https://open.spotify.com/album/1s0SSXuZNyeCPu4XgqQov3"
+      },
+      "artists": [
+        {
+          "name": "Soprano",
+          "url": "https://open.spotify.com/artist/2RJBv9wXbW6m539q9NOfW1"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245400,
+      "name": "C24",
+      "url": "https://open.spotify.com/track/7AYCzql1OFj2n3OlFJOruy"
+    },
+    {
+      "album": {
         "name": "Cabeza",
         "url": "https://open.spotify.com/album/0OtbUuSwEoGO7vyz8vbN9n"
       },
@@ -23798,7 +23816,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-21",
       "duration_ms": 111780,
       "name": "Le Rang des \u00c9toiles",
       "url": "https://open.spotify.com/track/0UoklKqjOkt8q0lqB0ACZd"

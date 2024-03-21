@@ -1,5 +1,5 @@
 {
-  "2024-03-20": 182443,
+  "2024-03-21": 182492,
   "date_first_scraped": "2022-04-20",
   "description": "A calm, instrumental reading playlist. ",
   "name": "Read and Unwind",
@@ -867,7 +867,7 @@
       ],
       "date_added": "2022-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-20",
       "duration_ms": 143777,
       "name": "Botanical",
       "url": "https://open.spotify.com/track/0auGwYryPNa1UIEn3BrIx0"
@@ -907,6 +907,24 @@
       "duration_ms": 130623,
       "name": "Break Of Day",
       "url": "https://open.spotify.com/track/0ln7Ux0MDrjJ22lu0sNCyU"
+    },
+    {
+      "album": {
+        "name": "B\u00f8lgene",
+        "url": "https://open.spotify.com/album/4gBUCW3OYJTPtpiKK9nIGa"
+      },
+      "artists": [
+        {
+          "name": "Ole-Bj\u00f8rn Talstad",
+          "url": "https://open.spotify.com/artist/1RRY8KBuZYuhAAJRgdDlP9"
+        }
+      ],
+      "date_added": "2024-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170389,
+      "name": "B\u00f8lgene",
+      "url": "https://open.spotify.com/track/2AkfsWt3ZtzqkvMN6q3g2t"
     },
     {
       "album": {
@@ -1209,7 +1227,7 @@
       ],
       "date_added": "2023-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-20",
       "duration_ms": 136874,
       "name": "Consilium",
       "url": "https://open.spotify.com/track/5Yd5eQlc2x0ve3JCFSgoAQ"
@@ -1623,7 +1641,7 @@
       ],
       "date_added": "2022-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-20",
       "duration_ms": 218500,
       "name": "Endless skies",
       "url": "https://open.spotify.com/track/0R6HqMleKWUdqPZ6l2PcHK"
@@ -1864,6 +1882,24 @@
     },
     {
       "album": {
+        "name": "Find The Light Behind The Clouds",
+        "url": "https://open.spotify.com/album/3nfBykXL4VSjn141KAOKQq"
+      },
+      "artists": [
+        {
+          "name": "Muri\u00ebl Bostdorp",
+          "url": "https://open.spotify.com/artist/0X98pXmiqyxLXGiLjkj4rq"
+        }
+      ],
+      "date_added": "2024-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139884,
+      "name": "Find The Light Behind The Clouds",
+      "url": "https://open.spotify.com/track/6lO855y2athPU69GEgmFnV"
+    },
+    {
+      "album": {
         "name": "Fiore",
         "url": "https://open.spotify.com/album/3a9gYjD5YZXp4Ss8XHXRZy"
       },
@@ -1875,7 +1911,7 @@
       ],
       "date_added": "2022-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-20",
       "duration_ms": 175284,
       "name": "Fiore",
       "url": "https://open.spotify.com/track/6DRCugEZcKbSOK9OT5cNvM"
@@ -2019,7 +2055,7 @@
       ],
       "date_added": "2022-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-20",
       "duration_ms": 127217,
       "name": "Fr\u00fch",
       "url": "https://open.spotify.com/track/7J6nPXzpkCcAOdVgCkCNtM"
@@ -2635,7 +2671,7 @@
       ],
       "date_added": "2023-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-20",
       "duration_ms": 129753,
       "name": "Imagine",
       "url": "https://open.spotify.com/track/6Q0m7E33lcj6FOgdEsH448"
@@ -2671,7 +2707,7 @@
       ],
       "date_added": "2022-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-20",
       "duration_ms": 123888,
       "name": "Impuissance",
       "url": "https://open.spotify.com/track/3W5GfZBvDJQKovjdCww4pL"
@@ -2912,6 +2948,24 @@
     },
     {
       "album": {
+        "name": "Kaiho",
+        "url": "https://open.spotify.com/album/6hF22qlhOYHaIQLIOP50fU"
+      },
+      "artists": [
+        {
+          "name": "A. Blomqvist",
+          "url": "https://open.spotify.com/artist/5OdOZHljmANwGvN71E6KJm"
+        }
+      ],
+      "date_added": "2024-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197766,
+      "name": "Kaiho",
+      "url": "https://open.spotify.com/track/2JMWJkY1aQhNASkIuDUnI5"
+    },
+    {
+      "album": {
         "name": "Kay's Recovery",
         "url": "https://open.spotify.com/album/2Ugt7X6hGDE0C722Tpgot4"
       },
@@ -3103,7 +3157,7 @@
       ],
       "date_added": "2022-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-20",
       "duration_ms": 145162,
       "name": "Les larmes de l'hiver",
       "url": "https://open.spotify.com/track/5OVinfTbBTJn2cErpyhl4F"
@@ -3200,6 +3254,24 @@
     },
     {
       "album": {
+        "name": "Little Boy",
+        "url": "https://open.spotify.com/album/22j6ckEXQqatndRT7AFLYT"
+      },
+      "artists": [
+        {
+          "name": "Haru Kitamura",
+          "url": "https://open.spotify.com/artist/6qjQ8iKIjHkc6x5wodNJiD"
+        }
+      ],
+      "date_added": "2024-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122000,
+      "name": "Little Boy",
+      "url": "https://open.spotify.com/track/4ugfH6l185E6ahXiWQdmdD"
+    },
+    {
+      "album": {
         "name": "Littoral",
         "url": "https://open.spotify.com/album/6tPOxLpqILRg4kIfRpkSJC"
       },
@@ -3233,6 +3305,24 @@
       "duration_ms": 217000,
       "name": "Longing For Yesterday",
       "url": "https://open.spotify.com/track/6dHlvIZhsp3Ts3MUsyudKa"
+    },
+    {
+      "album": {
+        "name": "Look Up Into The Sky",
+        "url": "https://open.spotify.com/album/77hIdlLy7Fzt7KDpWakVte"
+      },
+      "artists": [
+        {
+          "name": "Clara Nishimoto",
+          "url": "https://open.spotify.com/artist/1hgBYux2Cpl893e98XlC2z"
+        }
+      ],
+      "date_added": "2024-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122000,
+      "name": "Look Up Into The Sky",
+      "url": "https://open.spotify.com/track/2B3IRd11PnWIuoSABoGw1y"
     },
     {
       "album": {
@@ -4187,7 +4277,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-20",
       "duration_ms": 170187,
       "name": "Open Thoughts",
       "url": "https://open.spotify.com/track/3yO3vslrpSAPNFnWuKh2x3"
@@ -4835,7 +4925,7 @@
       ],
       "date_added": "2023-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-20",
       "duration_ms": 165826,
       "name": "Return To Le Berry",
       "url": "https://open.spotify.com/track/5CLTDDnoA0QbcKKIwpEDDa"
@@ -5231,7 +5321,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-20",
       "duration_ms": 158165,
       "name": "Setsu",
       "url": "https://open.spotify.com/track/1GKz0TpC7HktxQTirXpyZi"
@@ -5519,7 +5609,7 @@
       ],
       "date_added": "2022-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-20",
       "duration_ms": 151764,
       "name": "Solace",
       "url": "https://open.spotify.com/track/6axlKJ7OnW6zxM16Hxwbb0"
@@ -5627,7 +5717,7 @@
       ],
       "date_added": "2022-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-20",
       "duration_ms": 154000,
       "name": "Stay",
       "url": "https://open.spotify.com/track/3gorfBRE1Ojs4PO9ruF7zU"
@@ -5905,6 +5995,24 @@
       "duration_ms": 179181,
       "name": "Taciturn",
       "url": "https://open.spotify.com/track/6k4vTbYOi9pLZHaJYhBRu1"
+    },
+    {
+      "album": {
+        "name": "Tales of This",
+        "url": "https://open.spotify.com/album/3cbLSK4KRqfOYi918vET66"
+      },
+      "artists": [
+        {
+          "name": "Andrea Azzola",
+          "url": "https://open.spotify.com/artist/0HPaw3WHFtKOTqUko3e8Nx"
+        }
+      ],
+      "date_added": "2024-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136867,
+      "name": "Tales of This",
+      "url": "https://open.spotify.com/track/75jwRyL9mbp1kMoYiCWoS2"
     },
     {
       "album": {
@@ -6427,7 +6535,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-20",
       "duration_ms": 143000,
       "name": "Trust",
       "url": "https://open.spotify.com/track/1EERR4elDmZ67iD5MU6Bs3"
@@ -6751,7 +6859,7 @@
       ],
       "date_added": "2023-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-20",
       "duration_ms": 151889,
       "name": "Velvet Clouds",
       "url": "https://open.spotify.com/track/3jCXY0CuLyrBQ5hMUwOk6i"
@@ -6773,6 +6881,24 @@
       "duration_ms": 168418,
       "name": "Velvet Heart",
       "url": "https://open.spotify.com/track/0L8F3aWmfRaMmClZBbqVkl"
+    },
+    {
+      "album": {
+        "name": "Velvet Veil",
+        "url": "https://open.spotify.com/album/3mPx3ciX3EZW6mycZJ0kcI"
+      },
+      "artists": [
+        {
+          "name": "Crimson Memoirs",
+          "url": "https://open.spotify.com/artist/1jPw7hSDKuDDUqZE3DZYLF"
+        }
+      ],
+      "date_added": "2024-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123479,
+      "name": "Velvet Veil",
+      "url": "https://open.spotify.com/track/5xhkpxHVg0FkJrL6lMRGCx"
     },
     {
       "album": {

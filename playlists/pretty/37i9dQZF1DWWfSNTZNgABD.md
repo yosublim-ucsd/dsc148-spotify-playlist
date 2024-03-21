@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWfSNTZNgABD.md) - [plain]
 
 > The Latin soundtrack of the 2000s! Cover: Shakira
 
-[Spotify](https://open.spotify.com/user/spotify) - 263,977 likes - 75 songs - 4 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 263,996 likes - 75 songs - 4 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,8 +58,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWfSNTZNgABD.md) - [plain]
 | 48 | [Bendita Tu Luz](https://open.spotify.com/track/2JBs412fpVUuzIaIp3CyIs) | [Maná](https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz), [Juan Luis Guerra 4.40](https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559) | [Amar Es Combatir](https://open.spotify.com/album/6XrpkEuQyfilUHMduKDeuB) | 4:24 |
 | 49 | [Rosas](https://open.spotify.com/track/06p2Ij0lXD45LODQDCov0u) | [La Oreja de Van Gogh](https://open.spotify.com/artist/4U7lXyKdSf1JbM1aXvsodC) | [París](https://open.spotify.com/album/0QM5DL8C9uOYI2hGKbLUq8) | 3:57 |
 | 50 | [Sólo Quédate En Silencio](https://open.spotify.com/track/2RJ1fg4qf2vgZKifTa4HgA) | [RBD](https://open.spotify.com/artist/7cjh6y0V9SsyCrWSXTzwOs), [Anahí](https://open.spotify.com/artist/0TeVa4xdLB8vdzjsvKH6Ri), [Dulce María](https://open.spotify.com/artist/6kaefrHSdAvxhhCVDFTCEL), [Maite Perroni](https://open.spotify.com/artist/6ModsWtBph2rE6zCTVxvZt), [Christian Chávez](https://open.spotify.com/artist/0aMqt2uGLuHj4eI8oXgVzN), [Christopher von Uckermann](https://open.spotify.com/artist/5O8cudluftNZ6PCwRzvYxo), [Alfonso Herrera](https://open.spotify.com/artist/0veZkZPeWoJQ9gt6VAXlkN) | [Rebelde](https://open.spotify.com/album/5wvatwGTc0zWIx3dBQadaj) | 3:39 |
-| 51 | [Tengo Ganas](https://open.spotify.com/track/5nmLj87o23HJrI7GgqXXUw) | [Víctor Manuelle](https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2) | [Travesia](https://open.spotify.com/album/6wx5HorxwpIFkNXsTJBvE5) | 4:26 |
-| 52 | [Tu Recuerdo \(feat\. La Mari De Chambao & Tommy Torres\) \- MTV Unplugged Version](https://open.spotify.com/track/61hJK3EfAd1LDk7x5OrCTc) | [Ricky Martin](https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ), [Lamari](https://open.spotify.com/artist/1Rv4Ogfu7pg6QMo09XWtWK), [Tommy Torres](https://open.spotify.com/artist/264nbMzGPSkDZqTY8nXwCG) | [Ricky Martin MTV Unplugged](https://open.spotify.com/album/7qhZvYXFgsaSzuukZw9WCM) | 4:07 |
+| 51 | [Tu Recuerdo \(feat\. La Mari De Chambao & Tommy Torres\) \- MTV Unplugged Version](https://open.spotify.com/track/61hJK3EfAd1LDk7x5OrCTc) | [Ricky Martin](https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ), [Lamari](https://open.spotify.com/artist/1Rv4Ogfu7pg6QMo09XWtWK), [Tommy Torres](https://open.spotify.com/artist/264nbMzGPSkDZqTY8nXwCG) | [Ricky Martin MTV Unplugged](https://open.spotify.com/album/7qhZvYXFgsaSzuukZw9WCM) | 4:07 |
+| 52 | [Tengo Ganas](https://open.spotify.com/track/5nmLj87o23HJrI7GgqXXUw) | [Víctor Manuelle](https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2) | [Travesia](https://open.spotify.com/album/6wx5HorxwpIFkNXsTJBvE5) | 4:26 |
 | 53 | [Te lo agradezco, pero no \(feat\. Shakira\)](https://open.spotify.com/track/0TSO6afZViXH6OUlIMl6m4) | [Alejandro Sanz](https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF), [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [El tren de los momentos](https://open.spotify.com/album/4LXfHYVr0scRlsxnWyO437) | 4:33 |
 | 54 | [Stand by Me](https://open.spotify.com/track/0DQd0tWurMHUAv0cMnDELH) | [Prince Royce](https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC) | [Prince Royce](https://open.spotify.com/album/5zEFCJy9kAyD8rMbBESdYh) | 3:25 |
 | 55 | [Canta Corazón](https://open.spotify.com/track/3npbtkmTdUlRxGFxViDD0K) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [A Corazón Abierto](https://open.spotify.com/album/1MTvtQtk1V2gqCNxnu5cNA) | 4:14 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWfSNTZNgABD.md) - [plain]
 | 74 | [Guasa Guasa \(feat\. Voltio\)](https://open.spotify.com/track/7gXoDdtHUAT58STSAjhmLu) | [Tego Calderón](https://open.spotify.com/artist/3SUT1jjM5hzZj9TLfLZGIP), [Voltio](https://open.spotify.com/artist/3Okcq0dqLVlEFHRZ5t22bA) | [El Enemy de Los Guasíbiri](https://open.spotify.com/album/69rKlAM3KXEHw6vPtM6e9L) | 5:18 |
 | 75 | [Dejame Entrar](https://open.spotify.com/track/2jNqxXMkVVpEvjvvwvUDDD) | [Carlos Vives](https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr) | [Dejame Entrar](https://open.spotify.com/album/7qRqrZOCvzZLsNlOawHURC) | 4:00 |
 
-Snapshot ID: `MCxiOTQ1NTI3YWMzZWMwM2UxZjVkOGY0ZDEyZmMyYzc1NjFlMzU1NDg5`
+Snapshot ID: `MCw2YzZmZWRhZDE1ZGI4Yzc0NGQ4NDFiYjdmNGJjM2U0MWRhZTlmYTI1`

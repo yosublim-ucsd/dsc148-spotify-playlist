@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3grxzg.md) - [plain]
 
 > This is Danna Paola\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 224,891 likes - 50 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 224,951 likes - 50 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,11 +46,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3grxzg.md) - [plain]
 | 36 | [Sugar Mami](https://open.spotify.com/track/2cBDzxzjkytWGRggDJbn3g) | [Denise Rosenthal](https://open.spotify.com/artist/73SBwOgH6mrS09OyFHdR62), [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [Sugar Mami](https://open.spotify.com/album/4CokgfnlUd2OdTB00DKtOV) | 2:11 |
 | 37 | [¿Dónde Estabas Tú?](https://open.spotify.com/track/1PyINqIUN9HFVrmhBACtBz) | [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [¿Dónde Estabas Tú?](https://open.spotify.com/album/4Zh7uV38M1p6v2JdS8lUA2) | 4:04 |
 | 38 | [Agüita](https://open.spotify.com/track/1XPqp3k2ZmetP4xMIbrSYN) | [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [Danna Paola \(Edición Deluxe\)](https://open.spotify.com/album/3sqRn2w4AGBDxzJe7PjGYd) | 3:39 |
-| 39 | [Friend De Semana](https://open.spotify.com/track/3VxQC3iXh0rDVy5jhv8j71) | [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB), [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d), [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25) | [K.O.](https://open.spotify.com/album/5y5Qud31YIPnxbVjzojvmK) | 3:28 |
+| 39 | [Sola](https://open.spotify.com/track/2cjSAsmn2oTNyeAVVum23R) | [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [K.O.](https://open.spotify.com/album/5y5Qud31YIPnxbVjzojvmK) | 3:05 |
 | 40 | [Si Tu Vuelas \- Hadal Ahbek \[Alok Remix\]](https://open.spotify.com/track/1aRK0rvz0Wyt2MdR7BnfMH) | [Issam Alnajjar](https://open.spotify.com/artist/6dO0RkhFhjMwLtLQqNgL8r), [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [Si Tu Vuelas \(Hadal Ahbek \[Alok Remix\]\)](https://open.spotify.com/album/0pA2mN8037NNpW8L7YKsqM) | 3:17 |
 | 41 | [Pintando El Amor](https://open.spotify.com/track/7hipALmB4PgPnjG1wr8ls4) | [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB), [Mateo](https://open.spotify.com/artist/3ZSqOgN2W2NrJ0kDoMj2g0) | [Atrévete A Soñar 2](https://open.spotify.com/album/12ZHvtCWmZqtud4TndhrSS) | 3:19 |
 | 42 | [Mundo De Caramelo](https://open.spotify.com/track/2VBGG7IiTHvfE3JfYlUyQk) | [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [Atrevete A Soñar](https://open.spotify.com/album/4YQ7hShKeFJQKC4tgYenmb) | 3:50 |
-| 43 | [Sola](https://open.spotify.com/track/2cjSAsmn2oTNyeAVVum23R) | [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [K.O.](https://open.spotify.com/album/5y5Qud31YIPnxbVjzojvmK) | 3:05 |
+| 43 | [Friend De Semana](https://open.spotify.com/track/3VxQC3iXh0rDVy5jhv8j71) | [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB), [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d), [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25) | [K.O.](https://open.spotify.com/album/5y5Qud31YIPnxbVjzojvmK) | 3:28 |
 | 44 | [Mi vida empieza así](https://open.spotify.com/track/41KimlWs5QREjhE8wUVQM6) | [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [Enredados](https://open.spotify.com/album/22WkSpR8xE9VIwYutklC6Q) | 1:49 |
 | 45 | [De Mí Enamórate](https://open.spotify.com/track/4fjf3wTDqNYJcZswg01K6B) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq), [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [Los Dúo 3](https://open.spotify.com/album/4RM8yIYxFJlOx9IZMsJbR5) | 4:59 |
 | 46 | [Polo A Tierra](https://open.spotify.com/track/5lhrcKbHyhPjlxEzzL9HPm) | [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB), [SANTU](https://open.spotify.com/artist/3P3HEwD70uW4S1Gs5fhO9L), [Yera](https://open.spotify.com/artist/1vrahybrKylgwkjhbmOz94), [Trapical](https://open.spotify.com/artist/1akovilveREPmx1E535jJU) | [SIE7E +](https://open.spotify.com/album/5LIIJcPOYm4G4mFw9ydeBE) | 3:24 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3grxzg.md) - [plain]
 | 49 | [Todo Fue Un Show](https://open.spotify.com/track/79SMx2ReU4oLwcHvouYkfA) | [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [Danna Paola](https://open.spotify.com/album/67RD8Z8LQDbT41v2UoJzV5) | 3:48 |
 | 50 | [Don't Go](https://open.spotify.com/track/493DYJ6bdsVtHCpWBQlADr) | [Isabela Merced](https://open.spotify.com/artist/2bIxak1AAD8wlDfMLnumUj), [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [Don't Go](https://open.spotify.com/album/3m3QK4iaF4yBwce3cKMIpb) | 2:47 |
 
-Snapshot ID: `Mjg1MTQxOTUsMDAwMDAwMDBiZjM1NDZlMjkzODc4NzZiMmVmYzdhNTFiZmQ2MWM0NQ==`
+Snapshot ID: `Mjg1MTU2NjEsMDAwMDAwMDBiMGNhMmE0ZDM3ZjEzMTNmMjYxMDQ1MWVjMWQ2ZjMwNg==`

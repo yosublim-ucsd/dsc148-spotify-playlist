@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVOwpsn6QxFY.md) - [plain]
 
 > Hand\-picked and nourishing.
 
-[Spotify](https://open.spotify.com/user/spotify) - 132,846 likes - 80 songs - 5 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 132,894 likes - 80 songs - 5 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,8 +15,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVOwpsn6QxFY.md) - [plain]
 | 5 | [Decimal](https://open.spotify.com/track/6eusWfAal7mOOLr0XFLkiY) | [Novo Amor](https://open.spotify.com/artist/0rZp7G3gIH6WkyeXbrZnGi) | [Cannot Be, Whatsoever](https://open.spotify.com/album/1KkBDNtkZDW8COUNKAWRPw) | 2:58 |
 | 6 | [Eugene](https://open.spotify.com/track/4S6PolgPZ5OLph314ww8Fg) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Eugene](https://open.spotify.com/album/7FJKoKn7zy2OET6KtiJJp7) | 3:41 |
 | 7 | [All We Ever Do Is Talk](https://open.spotify.com/track/11sca0kohiR73mPDy9qhZv) | [Del Water Gap](https://open.spotify.com/artist/0xPoVNPnxIIUS1vrxAYV00) | [All We Ever Do Is Talk](https://open.spotify.com/album/2gqI3J8EXaClU1fZmxO2Mw) | 3:46 |
-| 8 | [Phoenix](https://open.spotify.com/track/4Vs2i8GdP5s7vd8vfSRcDk) | [Big Red Machine](https://open.spotify.com/artist/7gXy60xRcwYujBFoYHnR2O), [Fleet Foxes](https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb), [Anaïs Mitchell](https://open.spotify.com/artist/7K5Lm5dxoEwEpOS0Fc3l3s) | [How Long Do You Think It's Gonna Last?](https://open.spotify.com/album/3YbMxdapL6mvSQjosFkc0T) | 4:15 |
-| 9 | [Worst Case Kid](https://open.spotify.com/track/55LDOljPVryLbJbHQKmSIN) | [Tommy Lefroy](https://open.spotify.com/artist/3vldh5Ceynytj6Iglw4haP) | [Worst Case Kid](https://open.spotify.com/album/4x3VQ9ef3MvMB7hnZEBfcd) | 2:32 |
+| 8 | [Worst Case Kid](https://open.spotify.com/track/55LDOljPVryLbJbHQKmSIN) | [Tommy Lefroy](https://open.spotify.com/artist/3vldh5Ceynytj6Iglw4haP) | [Worst Case Kid](https://open.spotify.com/album/4x3VQ9ef3MvMB7hnZEBfcd) | 2:32 |
+| 9 | [Phoenix](https://open.spotify.com/track/4Vs2i8GdP5s7vd8vfSRcDk) | [Big Red Machine](https://open.spotify.com/artist/7gXy60xRcwYujBFoYHnR2O), [Fleet Foxes](https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb), [Anaïs Mitchell](https://open.spotify.com/artist/7K5Lm5dxoEwEpOS0Fc3l3s) | [How Long Do You Think It's Gonna Last?](https://open.spotify.com/album/3YbMxdapL6mvSQjosFkc0T) | 4:15 |
 | 10 | [Seaforth](https://open.spotify.com/track/6RRCXZcBlOrQ4GsKElW0BH) | [King Krule](https://open.spotify.com/artist/4wyNyxs74Ux8UIDopNjIai) | [Space Heavy](https://open.spotify.com/album/31UtR7w5vJtg8AmBvWAwL5) | 4:05 |
 | 11 | [Someday \- triple j Like A Version](https://open.spotify.com/track/7yHIhm47w7yPXbWrCU3NId) | [Julia Jacklin](https://open.spotify.com/artist/12fRkVfO2fUsz1QHgDAG3g) | [Someday \(triple j Like A Version\)](https://open.spotify.com/album/4frk1WIr4ydAYiVjloMn6O) | 4:24 |
 | 12 | [Harmonia's Dream](https://open.spotify.com/track/4Qzx5fRypU4q1wEaYwHpnr) | [The War On Drugs](https://open.spotify.com/artist/6g0mn3tzAds6aVeUYRsryU) | [I Don’t Live Here Anymore](https://open.spotify.com/album/69jQsPvJzMvcb2fGqI2qaB) | 6:26 |
@@ -47,9 +47,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVOwpsn6QxFY.md) - [plain]
 | 37 | [Mona](https://open.spotify.com/track/7rfoxuUYSfGSuGjRoTq4qH) | [Nick Mulvey](https://open.spotify.com/artist/3x8FbPjh2Qz55XMdE2Yalj) | [New Mythology](https://open.spotify.com/album/0m1s2KM4LbDqD2lwZhOTJw) | 3:22 |
 | 38 | [Hide & Seek](https://open.spotify.com/track/2t4tWVaCBykTHYG7Wx6AEB) | [Etta Marcus](https://open.spotify.com/artist/2OWXhbFm7SsZN0DXAD7iBg) | [Hide & Seek](https://open.spotify.com/album/7Bpblm74urUd8VLJlGubqU) | 3:41 |
 | 39 | [Anyway](https://open.spotify.com/track/6CkE4wWUVQ5Hdnbfm2pOmF) | [Kingfishr](https://open.spotify.com/artist/6c2qQFq3xfxFJndX6wSe4f) | [Anyway](https://open.spotify.com/album/5BDJXhWGt1RwSY7MOEAshC) | 3:43 |
-| 40 | [Mountain](https://open.spotify.com/track/6h3iuoFDWScrQZn3sy0tmA) | [M\. Byrd](https://open.spotify.com/artist/2AzGGPCjkv7D9o7KkpxJYi) | [Mountain](https://open.spotify.com/album/17Y9wzA3ofGRyTWxRVphQV) | 3:02 |
+| 40 | [Let There Be Light Again](https://open.spotify.com/track/4Anip7bDkwKk4HacAIwvEl) | [落日飛車 Sunset Rollercoaster](https://open.spotify.com/artist/7BqRcZsHYYQeqMAOp7e532) | [Let There Be Light Again](https://open.spotify.com/album/6uQ4JRkPUIbk757knVVIZS) | 3:47 |
 | 41 | [Keep Going](https://open.spotify.com/track/4cLtxNBdb0zH63vvnitsh3) | [This Is The Kit](https://open.spotify.com/artist/0ZUyFEafMwocvApBjTXvdo) | [Off Off On](https://open.spotify.com/album/1X8kC5D2ke7puDYgalJtXj) | 6:39 |
-| 42 | [Let There Be Light Again](https://open.spotify.com/track/4Anip7bDkwKk4HacAIwvEl) | [落日飛車 Sunset Rollercoaster](https://open.spotify.com/artist/7BqRcZsHYYQeqMAOp7e532) | [Let There Be Light Again](https://open.spotify.com/album/6uQ4JRkPUIbk757knVVIZS) | 3:47 |
+| 42 | [Mountain](https://open.spotify.com/track/6h3iuoFDWScrQZn3sy0tmA) | [M\. Byrd](https://open.spotify.com/artist/2AzGGPCjkv7D9o7KkpxJYi) | [Mountain](https://open.spotify.com/album/17Y9wzA3ofGRyTWxRVphQV) | 3:02 |
 | 43 | [Look Out!](https://open.spotify.com/track/4N1zjRwfeYAfKVIjjYbDRX) | [Peach Pit](https://open.spotify.com/artist/6fC2AcsQtd9h4BWELbbire) | [Look Out!](https://open.spotify.com/album/0TnjBNwKKH0uihxRTgrktF) | 2:56 |
 | 44 | [Good Woman](https://open.spotify.com/track/1jQoqq9UMkt4IASvOYe6TU) | [The Staves](https://open.spotify.com/artist/5G49Sq5mMzAkGL4ZP6eVPY) | [Good Woman](https://open.spotify.com/album/66A7X1EqFQEEvuE5Nezqrl) | 3:17 |
 | 45 | [bloodstream](https://open.spotify.com/track/3VJ8JnA1femj0x5KCcfBpT) | [Soccer Mommy](https://open.spotify.com/artist/4wXchxfTTggLtzkoUhO86Q) | [color theory](https://open.spotify.com/album/2CISL0rSGzbO0MbQMlqBez) | 5:37 |
@@ -72,8 +72,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVOwpsn6QxFY.md) - [plain]
 | 62 | [Roccastrada](https://open.spotify.com/track/7DC4yCiRU4trcdZaUWBXDT) | [Luke Noa](https://open.spotify.com/artist/6I0GEFnsmFxBdyolt4KlJe) | [Roccastrada](https://open.spotify.com/album/5vycnPJlfLSv6KI8QsgMQ2) | 4:32 |
 | 63 | [It's Still Cool If You Don't](https://open.spotify.com/track/1WfnPoIGJ4ea2O8JlbGQkp) | [Briston Maroney](https://open.spotify.com/artist/7vtSUU3zpHeYJfX6BPNrJd) | [It's Still Cool If You Don't](https://open.spotify.com/album/2IunAIq4FrNDFwqe4DmvoU) | 3:57 |
 | 64 | [Blue](https://open.spotify.com/track/7i8uptpD5FTrfQu0DXHPDv) | [Angelo De Augustine](https://open.spotify.com/artist/0W79ONUwHoehEib1nRXlmi) | [Blue](https://open.spotify.com/album/3qhBGzvetkErUwWV0Ohtu3) | 2:36 |
-| 65 | [Sugar](https://open.spotify.com/track/3BWvv8hVbYXFHivfzpCD5n) | [Hannes](https://open.spotify.com/artist/5bWgLmSpWnixX3inugtAVY) | [When the City Sleeps](https://open.spotify.com/album/7LlmJ1aH2FGj9nEh0xPIF2) | 2:56 |
-| 66 | [Running Red Lights \(feat\. Rivers Cuomo & Pink Siifu\)](https://open.spotify.com/track/0UdYkM8rQeOV9B8n65fsfN) | [The Avalanches](https://open.spotify.com/artist/3C8RpaI3Go0yFF9whvKoED), [Rivers Cuomo](https://open.spotify.com/artist/4LAz9VRX8Nat9kvIzgkg2v), [Pink Siifu](https://open.spotify.com/artist/40ZElxHldNyvn7x8WRC6fh) | [Running Red Lights \(feat\. Rivers Cuomo & Pink Siifu\)](https://open.spotify.com/album/0H6aN1da6Hv7nnZK5RrQVm) | 4:39 |
+| 65 | [Running Red Lights \(feat\. Rivers Cuomo & Pink Siifu\)](https://open.spotify.com/track/0UdYkM8rQeOV9B8n65fsfN) | [The Avalanches](https://open.spotify.com/artist/3C8RpaI3Go0yFF9whvKoED), [Rivers Cuomo](https://open.spotify.com/artist/4LAz9VRX8Nat9kvIzgkg2v), [Pink Siifu](https://open.spotify.com/artist/40ZElxHldNyvn7x8WRC6fh) | [Running Red Lights \(feat\. Rivers Cuomo & Pink Siifu\)](https://open.spotify.com/album/0H6aN1da6Hv7nnZK5RrQVm) | 4:39 |
+| 66 | [Sugar](https://open.spotify.com/track/3BWvv8hVbYXFHivfzpCD5n) | [Hannes](https://open.spotify.com/artist/5bWgLmSpWnixX3inugtAVY) | [When the City Sleeps](https://open.spotify.com/album/7LlmJ1aH2FGj9nEh0xPIF2) | 2:56 |
 | 67 | [Rae Street](https://open.spotify.com/track/4DtQQ82VSTgYfsCBSxvK9k) | [Courtney Barnett](https://open.spotify.com/artist/4OOlG5eBXSkSAAEeKjJb5Y) | [Things Take Time, Take Time](https://open.spotify.com/album/3InSvUCYvJ5XWg6PegGNCv) | 4:31 |
 | 68 | [Lover \(Don't Let Me Down\)](https://open.spotify.com/track/4tD2yU85sj8pjWPbsA3KDE) | [Palace](https://open.spotify.com/artist/48vDIufGC8ujPuBiTxY8dm) | [Lover \(Don’t Let Me Down\)](https://open.spotify.com/album/6o73F8z9Ik02r09k3gIqPD) | 4:10 |
 | 69 | [Hometown](https://open.spotify.com/track/5cgB9o3llPiEDWVE9qhqWB) | [Nature TV](https://open.spotify.com/artist/43oBGBlKaDxrti8m7QiQrC) | [Hometown](https://open.spotify.com/album/1jOmue2WJLpDfvcJnDSook) | 3:42 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVOwpsn6QxFY.md) - [plain]
 | 79 | [Andrew](https://open.spotify.com/track/0ZHnNz24gXtnyFsCeECPnZ) | [M Field](https://open.spotify.com/artist/2YCr3gD8aO0ck8k4i5vhU3) | [Andrew](https://open.spotify.com/album/3L5Tn8fZfACHkX0btiFAo0) | 2:44 |
 | 80 | [Mortals](https://open.spotify.com/track/6SxCb6DNwXShYd6F2KcyBE) | [Tommy Lefroy](https://open.spotify.com/artist/3vldh5Ceynytj6Iglw4haP) | [Flight Risk EP](https://open.spotify.com/album/3WTRqQ60G0J3UEQPU57k1g) | 3:08 |
 
-Snapshot ID: `MCxlYjI0YWRjMjE4YzE5ODM0MGM0MDViY2QwMTU2ZjkwNDY3YTE2ZTUz`
+Snapshot ID: `MCxkZDJkMDE1Yzg5MjFjYjAyZDc1ZWFjN2IwOGNmMTRiYmFhNTg3YjA3`

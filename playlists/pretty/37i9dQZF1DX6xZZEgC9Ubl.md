@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6xZZEgC9Ubl.md) - [plain]
 
 > Emo feels for the misunderstood\. Cover: iann dior
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,585,592 likes - 144 songs - 6 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,585,803 likes - 144 songs - 6 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6xZZEgC9Ubl.md) - [plain]
 | 5 | [Hex](https://open.spotify.com/track/7D7e6hm2LiNd6nLuJF6K9Q) | [80purppp](https://open.spotify.com/artist/4F9apzBcSE0OSfHYbxo4RF) | [Hex](https://open.spotify.com/album/1CPRTq5GLeZ9hn4igzS6uZ) | 2:02 |
 | 6 | [dont let me go](https://open.spotify.com/track/7uVwJHgkpOI8mCCa0T23Vr) | [mgk](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX) | [dont let me go](https://open.spotify.com/album/2Sn6jvX2QNfeE0mW1gmhCS) | 2:53 |
 | 7 | [Meet you at the Graveyard](https://open.spotify.com/track/2vXSHAPCNpWZ7DNFDkEDMz) | [Cleffy](https://open.spotify.com/artist/0Dd84sfPxs6Aj0PjlCM1P7) | [Clean Sheets, dirty walls](https://open.spotify.com/album/4KvNYZHRuNDQ3Xx6ZxkePp) | 2:52 |
-| 8 | [i walk this earth all by myself](https://open.spotify.com/track/5a8QUc4ubHJqQm7vzs2YhA) | [EKKSTACY](https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH) | [i walk this earth all by myself](https://open.spotify.com/album/6tdl27ojBwZ5ZexzZOP4mG) | 2:25 |
+| 8 | [i walk this earth all by myself](https://open.spotify.com/track/6oofvZ4K8vBHnCT1oKERcd) | [EKKSTACY](https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH) | [NEGATIVE](https://open.spotify.com/album/2momrvUqAMigmBoOOKuavE) | 2:25 |
 | 9 | [Revenge](https://open.spotify.com/track/5TXDeTFVRVY7Cvt0Dw4vWW) | [XXXTENTACION](https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4) | [17](https://open.spotify.com/album/5VdyJkLe3yvOs0l4xXbWp0) | 2:00 |
 | 10 | [HEAVEN](https://open.spotify.com/track/6f2nWEm8aqMxKZtlxsyxWD) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [HEAVEN](https://open.spotify.com/album/3oM4p4ItqZZnvLXgzPkJ4h) | 2:54 |
 | 11 | [Star Shopping](https://open.spotify.com/track/1WbhIxkn5ECsOwUm795iX1) | [Lil Peep](https://open.spotify.com/artist/2kCcBybjl3SAtIcwdWpUe3) | [Star Shopping](https://open.spotify.com/album/342nD5SIsD90lP8LxkLaLM) | 2:22 |
@@ -101,7 +101,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6xZZEgC9Ubl.md) - [plain]
 | 91 | [You Broke My Heart Again](https://open.spotify.com/track/6qpT0nzHUn52gnSWYdbxF4) | [Teqkoi](https://open.spotify.com/artist/6fOKLk8GmQ8xKogCRuuAwD), [Aiko](https://open.spotify.com/artist/59SThek9uTINSehGNcgmsi) | [You Broke My Heart Again](https://open.spotify.com/album/4xAVJuJfkIwgiZRkfQecMF) | 1:43 |
 | 92 | [Face 2 Face](https://open.spotify.com/track/6L4XGeAdRRC32vVJpp8MdM) | [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz) | [Face 2 Face](https://open.spotify.com/album/4Ql8xPz3NjoScZ4yM3fNFh) | 2:04 |
 | 93 | [under the weather](https://open.spotify.com/track/3PYFSGwWNZWnQpiuGke2J9) | [CORPSE](https://open.spotify.com/artist/7yntSJ6uojO3z6GFUVwhAW) | [under the weather](https://open.spotify.com/album/5EMWV3wcySNCCLpSvNWUyx) | 1:46 |
-| 94 | [Worlds A Fuck](https://open.spotify.com/track/4IuwtuAQlQxnDn7V967QDd) | [Natalie Sobotková](https://open.spotify.com/artist/2Po0Ovgds5ItFpXDiDFX5r), [stack$](https://open.spotify.com/artist/5L8sOhELDubWJgQubXCPcK) | [Emperor Road](https://open.spotify.com/album/5nlZtZWiMDwhyajIWDLmLZ) | 3:00 |
+| 94 | [Worlds a Fuck](https://open.spotify.com/track/0cZrfkTmWH9jCR8CRYl4LV) | [stack$](https://open.spotify.com/artist/5L8sOhELDubWJgQubXCPcK) | [Emperor Road](https://open.spotify.com/album/6Gu2V3lKh7njXbN5JvYJJI) | 3:00 |
 | 95 | [Peppermint](https://open.spotify.com/track/72rw3KdkDUX0oluqAMIPQu) | [Teddy](https://open.spotify.com/artist/0a6Q2oHRwUYaZMChVBZWts), [Brennan Savage](https://open.spotify.com/artist/6SSmy635N3a4oWmPk85xpK) | [Peppermint](https://open.spotify.com/album/0JFyP5tvchMAhQpMSRZsNj) | 2:48 |
 | 96 | [Key to My Heart](https://open.spotify.com/track/3safBWMqYnBJtNA2428Hmz) | [Fresco Trey](https://open.spotify.com/artist/6HgEIsWCHekTTfnbOGJa3g) | [Key To My Heart](https://open.spotify.com/album/5MlRgizbT5l0vMtzSlBIvl) | 2:34 |
 | 97 | [Same Room](https://open.spotify.com/track/7JKcsNXSjFVKtA6YT7BNGZ) | [Ferdous](https://open.spotify.com/artist/1ihKKcrzAd68ftS7adfOtM) | [Cool Party](https://open.spotify.com/album/1G0VH29venEyfSgCtMddwo) | 3:22 |
@@ -153,4 +153,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6xZZEgC9Ubl.md) - [plain]
 | 143 | [Normal](https://open.spotify.com/track/5j2O2yeurM9fD2rgCPt7pD) | [347aidan](https://open.spotify.com/artist/0bBz5bRBkExaej2HxtVfCw) | [Normal](https://open.spotify.com/album/0vSwuVKVrx6L4RJuJkWiAL) | 2:42 |
 | 144 | [F150](https://open.spotify.com/track/7xuklbiJnyZ5pqmoUWj5Eb) | [diveliner](https://open.spotify.com/artist/0be7y7HUvSBf8uG1X7pK8f) | [F150](https://open.spotify.com/album/2Om9xZUlHWEjHk5JzEuTd5) | 2:10 |
 
-Snapshot ID: `MCwzYmE3OGMxOGRmNWZjNDhmZTQ2YmRkOTg2MjE1ZWU0YjBiZmZjZDA2`
+Snapshot ID: `MCw4ZTI5MGUwODUzMjU0MzcyY2E4NWMwNDMxZjQ4NzdmYjljN2ExMzli`

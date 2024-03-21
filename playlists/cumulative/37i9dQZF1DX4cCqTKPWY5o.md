@@ -4,7 +4,7 @@
 
 > Move it and groove it to these great tunes!
 
-106 songs - 5 hr 31 min
+107 songs - 5 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,7 +20,7 @@
 | [Better When I'm Dancin'](https://open.spotify.com/track/3Jui3TOVXgDCYeVa3sS28C) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [The Peanuts Movie \- Original Motion Picture Soundtrack](https://open.spotify.com/album/0V5n3Ch2vFwxT5pVztog3t) | 2:56 | 2022-03-31 | 2022-07-29 |
 | [Better When I'm Dancin'](https://open.spotify.com/track/5k5fWendNngd89O8JKoE8L) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Better When I'm Dancin'](https://open.spotify.com/album/6C2AXbI5gZZ0eEFEQY83yH) | 2:56 | 2022-07-15 |  |
 | [Blue \(Da Ba Dee\) \- Gabry Ponte Ice Pop Radio](https://open.spotify.com/track/2yAVzRiEQooPEJ9SYx11L3) | [Eiffel 65](https://open.spotify.com/artist/64rxQRJsLgZwHHyWKB8fiF), [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D) | [Europop](https://open.spotify.com/album/54vbD17F1t5q3yHkj1cX37) | 4:43 | 2022-03-31 | 2024-03-08 |
-| [Blue \(Da Ba Dee\) \- Gabry Ponte Ice Pop Radio](https://open.spotify.com/track/5QRAfvKPyQpwt897Jc0glg) | [Eiffel 65](https://open.spotify.com/artist/64rxQRJsLgZwHHyWKB8fiF), [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D) | [Blue \(Da Ba Dee\)](https://open.spotify.com/album/3j90eFnVFEYzOVt024QCTf) | 4:43 | 2023-06-02 |  |
+| [Blue \(Da Ba Dee\) \- Gabry Ponte Ice Pop Radio](https://open.spotify.com/track/5QRAfvKPyQpwt897Jc0glg) | [Eiffel 65](https://open.spotify.com/artist/64rxQRJsLgZwHHyWKB8fiF), [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D) | [Blue \(Da Ba Dee\)](https://open.spotify.com/album/3j90eFnVFEYzOVt024QCTf) | 4:43 | 2023-06-02 | 2024-03-21 |
 | [Break My Heart](https://open.spotify.com/track/4CNicxGbQWMwCZD3cZIOND) | [Mini Pop Kids](https://open.spotify.com/artist/2VAjBQ6cM2faT2UKxONV93) | [Break My Heart](https://open.spotify.com/album/03WnunrUaDa1VNhiWWT0dd) | 3:43 | 2022-03-31 | 2022-07-03 |
 | [BREAK MY SOUL](https://open.spotify.com/track/3E7YGBqvTKt4eVDXXEWfyM) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP 2023](https://open.spotify.com/album/5YOe3aJeBjlLA9IuOWyWD5) | 3:34 | 2023-01-27 | 2023-04-27 |
 | [Butter](https://open.spotify.com/track/3p1amIF17ryE70SnlK33eH) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [Butter](https://open.spotify.com/album/5pj3zCJ1R5HnOsEwePVqN1) | 2:46 | 2022-03-31 | 2022-07-29 |
@@ -53,6 +53,7 @@
 | [Get Up and Dance](https://open.spotify.com/track/0OSFuTBZjruzU0AYNqhwM3) | [L.O.L\. Surprise!](https://open.spotify.com/artist/6btXT8tLHT0YBuHGi8rao7) | [Get Up and Dance](https://open.spotify.com/album/6nfatQiwBOwUH6jub9j9LD) | 2:17 | 2022-03-31 | 2022-07-29 |
 | [Get up and Dance](https://open.spotify.com/track/6uORDdsI0OqnCyFvCfTbRj) | [L.O.L\. Surprise!](https://open.spotify.com/artist/6btXT8tLHT0YBuHGi8rao7) | [Fierce](https://open.spotify.com/album/1bO0wTjjrJKMb8vODa2AtD) | 2:17 | 2023-06-02 |  |
 | [Get Yo Body Movin'](https://open.spotify.com/track/7GizF53H6JpwNWIEsZRuWC) | [Koo Koo](https://open.spotify.com/artist/7BZ3v2GTT5KHVmc9Gk1sRb) | [Whoopty Whoop](https://open.spotify.com/album/6ophnm6Vp3brWGK8NvldMT) | 1:57 | 2022-03-31 |  |
+| [Glitter](https://open.spotify.com/track/5iFkYrIMzpPcuMzTtZbxWr) | [Koo Koo](https://open.spotify.com/artist/7BZ3v2GTT5KHVmc9Gk1sRb) | [Glitter](https://open.spotify.com/album/3AIfu8qUa8kZwYr1BGf0kJ) | 2:49 | 2023-06-02 |  |
 | [Glitter](https://open.spotify.com/track/0olyO3EpMpm4d5Sv64kYB3) | [Koo Koo Kanga Roo](https://open.spotify.com/artist/7BZ3v2GTT5KHVmc9Gk1sRb) | [My Jam](https://open.spotify.com/album/4RHlMYF4BAjd1zpVTmhaGj) | 2:49 | 2022-03-31 | 2022-07-29 |
 | [Glowin' Up](https://open.spotify.com/track/594bEDSIxUNaKYF2FuHSpm) | [Sofia Carson](https://open.spotify.com/artist/7bp2lSdh12wcA8LyB1srfJ), [My Little Pony](https://open.spotify.com/artist/5mM9eNte0aWttOiMhPb2dM) | [Glowin' Up \(from the Netflix film "My Little Pony: A New Generation"\)](https://open.spotify.com/album/7e9yA0WHIIdClfthaj2yTk) | 3:11 | 2023-06-02 |  |
 | [Glowin' Up \- from the Netflix film My Little Pony: A New Generation](https://open.spotify.com/track/4sA5vMBjQwpnhPtewDXwQS) | [Sofia Carson](https://open.spotify.com/artist/7bp2lSdh12wcA8LyB1srfJ), [My Little Pony](https://open.spotify.com/artist/5mM9eNte0aWttOiMhPb2dM) | [Glowin' Up \(from the Netflix film "My Little Pony: A New Generation"\)](https://open.spotify.com/album/3TPxyCABDC6mXBCmfWRK8X) | 3:11 | 2022-03-31 | 2023-12-24 |

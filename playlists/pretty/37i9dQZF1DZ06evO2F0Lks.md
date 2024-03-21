@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2F0Lks.md) - [plain]
 
 > This is Carrie Underwood\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 141,225 likes - 50 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 141,258 likes - 50 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2F0Lks.md) - [plain]
 | 49 | [Give Her That](https://open.spotify.com/track/6Shb0psixdhEjdlDkyexeu) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Give Her That](https://open.spotify.com/album/4JRl2IAzcpYlvjX6DnD4wb) | 3:21 |
 | 50 | [Denim & Rhinestones](https://open.spotify.com/track/3gC7D3VOB6zIeMG6lVNuTY) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Denim & Rhinestones](https://open.spotify.com/album/2owWAe2Sg7kh14s1JzR67u) | 2:48 |
 
-Snapshot ID: `Mjg1MTQxOTUsMDAwMDAwMDA5OGUyMmU5OThhMzAyNzVmYTJjN2JhY2JkMzVhNTBhNg==`
+Snapshot ID: `Mjg1MTU2NjEsMDAwMDAwMDA0MWM0YjJjNTMzYzZhMjVhOGUwMmY4ODdlNzE4ZGYxNw==`

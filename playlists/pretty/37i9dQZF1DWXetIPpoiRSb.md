@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXetIPpoiRSb.md) - [plain]
 
 > The freshest pop sounds\. Cover: Dasha
 
-[Spotify](https://open.spotify.com/user/spotify) - 204,273 likes - 81 songs - 4 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 204,289 likes - 81 songs - 4 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Solo](https://open.spotify.com/track/4Skkx52Dh8yo4G1ijAEGs3) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt) | [Solo](https://open.spotify.com/album/03jkbwbhopEYNhcbwGwIt8) | 3:19 |
-| 2 | [Austin](https://open.spotify.com/track/4NJqhmkGN042BrvHoMKUrJ) | [Dasha](https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I) | [Austin](https://open.spotify.com/album/4JtlZzYJEa7bejLF0ASnk0) | 2:51 |
+| 2 | [Austin](https://open.spotify.com/track/6b81dy3WjbozXK6b7C1gu5) | [Dasha](https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I) | [What Happens Now?](https://open.spotify.com/album/0rQRrrZPPv6XXsxilJ1wFz) | 2:51 |
 | 3 | [You Love Who You Love](https://open.spotify.com/track/05P2XnfYsMtbvajPRcLTzO) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [You Love Who You Love](https://open.spotify.com/album/5Qz6ewHWcFWlQ89R0aeTDb) | 3:05 |
 | 4 | [Make You Mine](https://open.spotify.com/track/48vIfHaK7by6x0T6ucpODL) | [Madison Beer](https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q) | [Make You Mine](https://open.spotify.com/album/62g7jm7YqkuQOhfhFpDQXC) | 3:41 |
 | 5 | [Dizzy](https://open.spotify.com/track/4GEmQTg7yfnfZoNhgpCg61) | [Olly Alexander \(Years & Years\)](https://open.spotify.com/artist/5vBSrE1xujD2FXYRarbAXc) | [Dizzy](https://open.spotify.com/album/7rzYlWpOSJKwcDOzW65qdY) | 2:52 |
@@ -90,4 +90,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXetIPpoiRSb.md) - [plain]
 | 80 | [Hass Hass](https://open.spotify.com/track/72vuBPMhwFNlSYpTSf6fVD) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR), [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN), [Greg Kurstin](https://open.spotify.com/artist/2sWf9Tj6EsTxURcgil3NTG) | [Hass Hass](https://open.spotify.com/album/7F8VISoJUWFEY57b66QZxC) | 2:33 |
 | 81 | [Me & U](https://open.spotify.com/track/4nFrcGM7MY1mpoQCC7Kefj) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [Me & U](https://open.spotify.com/album/0D1Qm49Hq9cwYbRDeC1HGa) | 3:12 |
 
-Snapshot ID: `MCw4MjcwNjg3ODE0ZjNlNDkwY2ZhOWE5OWU5N2U5MzlhNDI1NGYzZWU0`
+Snapshot ID: `MCwzZWI4ZDczMzkwYTQxODViZTkwNWYzOWMzZGU4M2UzYzVlZDkwOTFm`

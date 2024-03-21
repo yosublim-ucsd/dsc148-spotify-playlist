@@ -1,12 +1,12 @@
 {
   "description": "An introduction to the thoroughly dramatic world of Richard Wagner, brimming with ancient legends and timeless love stories.",
-  "num_followers": 97774,
+  "num_followers": 97787,
   "original_name": "This Is Wagner",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5ZDg3MTg1ZWNlOTA3MjFiMTBlYjVjYTBiMzU3ZDQ0MjQ4MGFkMmIy",
+  "snapshot_id": "MCxhYmI0ZGVlNjkxYzBlMGQwNGEzMDhiMTkzOWU4MjYyZGQ2OTljOGJl",
   "tracks": [
     {
       "added_at": "2022-06-28 08:58:25",
@@ -551,30 +551,6 @@
     {
       "added_at": "2022-06-28 08:58:25",
       "album": {
-        "name": "Wagner: Overtures",
-        "url": "https://open.spotify.com/album/4tpRDswjJDyUMCqXkwrHAM"
-      },
-      "artists": [
-        {
-          "name": "Richard Wagner",
-          "url": "https://open.spotify.com/artist/1C1x4MVkql8AiABuTw6DgE"
-        },
-        {
-          "name": "Staatskapelle Dresden",
-          "url": "https://open.spotify.com/artist/3Vfvyx6OouTxYU3emXonW7"
-        },
-        {
-          "name": "Giuseppe Sinopoli",
-          "url": "https://open.spotify.com/artist/3d1jQ9OG2p2PW3rzzTspDY"
-        }
-      ],
-      "duration_ms": 532000,
-      "name": "Das Liebesverbot: Overture",
-      "url": "https://open.spotify.com/track/4h77bvYWQD1890DfmtEHfK"
-    },
-    {
-      "added_at": "2022-06-28 08:58:25",
-      "album": {
         "name": "Wagner, R.: Orchestral Highlights From Operas",
         "url": "https://open.spotify.com/album/4X6uFJUvxxP1RbDmW1oh8T"
       },
@@ -595,6 +571,30 @@
       "duration_ms": 428040,
       "name": "Tannhauser, Act II: Entrance of the Guests",
       "url": "https://open.spotify.com/track/7goxLsl3NjiAOmujpZtFWz"
+    },
+    {
+      "added_at": "2022-06-28 08:58:25",
+      "album": {
+        "name": "Wagner: Overtures",
+        "url": "https://open.spotify.com/album/4tpRDswjJDyUMCqXkwrHAM"
+      },
+      "artists": [
+        {
+          "name": "Richard Wagner",
+          "url": "https://open.spotify.com/artist/1C1x4MVkql8AiABuTw6DgE"
+        },
+        {
+          "name": "Staatskapelle Dresden",
+          "url": "https://open.spotify.com/artist/3Vfvyx6OouTxYU3emXonW7"
+        },
+        {
+          "name": "Giuseppe Sinopoli",
+          "url": "https://open.spotify.com/artist/3d1jQ9OG2p2PW3rzzTspDY"
+        }
+      ],
+      "duration_ms": 532000,
+      "name": "Das Liebesverbot: Overture",
+      "url": "https://open.spotify.com/track/4h77bvYWQD1890DfmtEHfK"
     },
     {
       "added_at": "2022-06-28 08:58:25",
@@ -691,38 +691,6 @@
     {
       "added_at": "2022-06-28 08:58:25",
       "album": {
-        "name": "Wagner: Tristan und Isolde",
-        "url": "https://open.spotify.com/album/0WhnBDbyzLqYlNn8RZT65H"
-      },
-      "artists": [
-        {
-          "name": "Richard Wagner",
-          "url": "https://open.spotify.com/artist/1C1x4MVkql8AiABuTw6DgE"
-        },
-        {
-          "name": "Deborah Voigt",
-          "url": "https://open.spotify.com/artist/6LgfX8guD4GnLU7wyfMn0X"
-        },
-        {
-          "name": "Thomas Moser",
-          "url": "https://open.spotify.com/artist/3yrLEI0BYK1wxdtJinDRT6"
-        },
-        {
-          "name": "Vienna State Opera Orchestra",
-          "url": "https://open.spotify.com/artist/5VFkAGIv1Pioeb6e2JfpOE"
-        },
-        {
-          "name": "Christian Thielemann",
-          "url": "https://open.spotify.com/artist/5c2dloAaXR2qRbIVh2C0jD"
-        }
-      ],
-      "duration_ms": 318640,
-      "name": "Tristan und Isolde / Act 2: \"O sink hernieder, Nacht der Liebe\"",
-      "url": "https://open.spotify.com/track/5tKBByi2iXhWJ0CLouwpvU"
-    },
-    {
-      "added_at": "2022-06-28 08:58:25",
-      "album": {
         "name": "Wagner: Die Meistersinger von N\u00fcrnberg",
         "url": "https://open.spotify.com/album/3hU0XFFZkuUE2sqp9udsBO"
       },
@@ -763,6 +731,38 @@
       "duration_ms": 377000,
       "name": "Die Meistersinger von N\u00fcrnberg, WWV 96 / Act III: \"Selig, wie die Sonne\"",
       "url": "https://open.spotify.com/track/12i2QXRtwdx7QTL4IDojIp"
+    },
+    {
+      "added_at": "2022-06-28 08:58:25",
+      "album": {
+        "name": "Wagner: Tristan und Isolde",
+        "url": "https://open.spotify.com/album/0WhnBDbyzLqYlNn8RZT65H"
+      },
+      "artists": [
+        {
+          "name": "Richard Wagner",
+          "url": "https://open.spotify.com/artist/1C1x4MVkql8AiABuTw6DgE"
+        },
+        {
+          "name": "Deborah Voigt",
+          "url": "https://open.spotify.com/artist/6LgfX8guD4GnLU7wyfMn0X"
+        },
+        {
+          "name": "Thomas Moser",
+          "url": "https://open.spotify.com/artist/3yrLEI0BYK1wxdtJinDRT6"
+        },
+        {
+          "name": "Vienna State Opera Orchestra",
+          "url": "https://open.spotify.com/artist/5VFkAGIv1Pioeb6e2JfpOE"
+        },
+        {
+          "name": "Christian Thielemann",
+          "url": "https://open.spotify.com/artist/5c2dloAaXR2qRbIVh2C0jD"
+        }
+      ],
+      "duration_ms": 318640,
+      "name": "Tristan und Isolde / Act 2: \"O sink hernieder, Nacht der Liebe\"",
+      "url": "https://open.spotify.com/track/5tKBByi2iXhWJ0CLouwpvU"
     },
     {
       "added_at": "2022-06-28 08:58:25",
@@ -871,30 +871,6 @@
     {
       "added_at": "2022-06-28 08:58:25",
       "album": {
-        "name": "Wagner: Symphony in C Major, Tristan und Isolde, Siegfried Idyll",
-        "url": "https://open.spotify.com/album/6wcBMJ8IJ0r59oRUqcpxsZ"
-      },
-      "artists": [
-        {
-          "name": "Richard Wagner",
-          "url": "https://open.spotify.com/artist/1C1x4MVkql8AiABuTw6DgE"
-        },
-        {
-          "name": "Netherlands Radio Philharmonic Orchestra",
-          "url": "https://open.spotify.com/artist/5DNIeOqK0YF4H6o3GM2k6C"
-        },
-        {
-          "name": "Edo de Waart",
-          "url": "https://open.spotify.com/artist/6ZI0A8Ffc8are1mphRfpVl"
-        }
-      ],
-      "duration_ms": 899360,
-      "name": "Symphony in C Major: I. Sostenuto e maestoso",
-      "url": "https://open.spotify.com/track/4TjyDeIoLr6HmzdrMBSXow"
-    },
-    {
-      "added_at": "2022-06-28 08:58:25",
-      "album": {
         "name": "Wagner: Symphonies In E Major & C Major",
         "url": "https://open.spotify.com/album/5IgdBVEXXfuHleOBxnte8o"
       },
@@ -919,6 +895,30 @@
     {
       "added_at": "2022-06-28 08:58:25",
       "album": {
+        "name": "Wagner: Symphony in C Major, Tristan und Isolde, Siegfried Idyll",
+        "url": "https://open.spotify.com/album/6wcBMJ8IJ0r59oRUqcpxsZ"
+      },
+      "artists": [
+        {
+          "name": "Richard Wagner",
+          "url": "https://open.spotify.com/artist/1C1x4MVkql8AiABuTw6DgE"
+        },
+        {
+          "name": "Netherlands Radio Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/5DNIeOqK0YF4H6o3GM2k6C"
+        },
+        {
+          "name": "Edo de Waart",
+          "url": "https://open.spotify.com/artist/6ZI0A8Ffc8are1mphRfpVl"
+        }
+      ],
+      "duration_ms": 899360,
+      "name": "Symphony in C Major: I. Sostenuto e maestoso",
+      "url": "https://open.spotify.com/track/4TjyDeIoLr6HmzdrMBSXow"
+    },
+    {
+      "added_at": "2022-06-28 08:58:25",
+      "album": {
         "name": "Wagner: G\u00f6tterd\u00e4mmerung, WWV 86D",
         "url": "https://open.spotify.com/album/2BwDETrPtINRoAI1aLS26m"
       },
@@ -939,6 +939,38 @@
       "duration_ms": 309053,
       "name": "G\u00f6tterd\u00e4mmerung, WWV 86D, Prologue: Siegfrieds Rheinfahrt",
       "url": "https://open.spotify.com/track/5ho9ShMe6OLEpJHAR1lUnQ"
+    },
+    {
+      "added_at": "2022-06-28 08:58:25",
+      "album": {
+        "name": "Wagner, R.: Opera Choruses",
+        "url": "https://open.spotify.com/album/4cqlzlBOhjVUd3aedalFo2"
+      },
+      "artists": [
+        {
+          "name": "Richard Wagner",
+          "url": "https://open.spotify.com/artist/1C1x4MVkql8AiABuTw6DgE"
+        },
+        {
+          "name": "Goran Eliasson",
+          "url": "https://open.spotify.com/artist/6zsgabJFQrLtY2jEWy2fC4"
+        },
+        {
+          "name": "Royal Swedish Opera Chorus",
+          "url": "https://open.spotify.com/artist/3bqjTvyPZcMSuXkdzBghDU"
+        },
+        {
+          "name": "Royal Swedish Orchestra",
+          "url": "https://open.spotify.com/artist/7ksb5dj1dy1o8DuZiNB9ZI"
+        },
+        {
+          "name": "Leif Segerstam",
+          "url": "https://open.spotify.com/artist/1AZTVGOm7t5zkOcweZBivz"
+        }
+      ],
+      "duration_ms": 1026359,
+      "name": "Die Meistersinger von Nurnberg (The Mastersingers of Nuremberg), Act III: Finale",
+      "url": "https://open.spotify.com/track/3kr6jTNREvgPyGg7EDTPPL"
     },
     {
       "added_at": "2022-06-28 08:58:25",
@@ -987,38 +1019,6 @@
       "duration_ms": 510844,
       "name": "Lohengrin, WWV 75 / Act 3: Mein lieber Schwan!",
       "url": "https://open.spotify.com/track/2WSJaKbu2e3wfM4FuJh2fz"
-    },
-    {
-      "added_at": "2022-06-28 08:58:25",
-      "album": {
-        "name": "Wagner, R.: Opera Choruses",
-        "url": "https://open.spotify.com/album/4cqlzlBOhjVUd3aedalFo2"
-      },
-      "artists": [
-        {
-          "name": "Richard Wagner",
-          "url": "https://open.spotify.com/artist/1C1x4MVkql8AiABuTw6DgE"
-        },
-        {
-          "name": "Goran Eliasson",
-          "url": "https://open.spotify.com/artist/6zsgabJFQrLtY2jEWy2fC4"
-        },
-        {
-          "name": "Royal Swedish Opera Chorus",
-          "url": "https://open.spotify.com/artist/3bqjTvyPZcMSuXkdzBghDU"
-        },
-        {
-          "name": "Royal Swedish Orchestra",
-          "url": "https://open.spotify.com/artist/7ksb5dj1dy1o8DuZiNB9ZI"
-        },
-        {
-          "name": "Leif Segerstam",
-          "url": "https://open.spotify.com/artist/1AZTVGOm7t5zkOcweZBivz"
-        }
-      ],
-      "duration_ms": 1026359,
-      "name": "Die Meistersinger von Nurnberg (The Mastersingers of Nuremberg), Act III: Finale",
-      "url": "https://open.spotify.com/track/3kr6jTNREvgPyGg7EDTPPL"
     },
     {
       "added_at": "2022-06-28 08:58:25",

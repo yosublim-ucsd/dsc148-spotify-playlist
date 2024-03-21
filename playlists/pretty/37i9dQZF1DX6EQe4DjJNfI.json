@@ -1,12 +1,12 @@
 {
   "description": "O R&B com tempero e gostinho brasileiro para voc\u00ea ouvir. Foto: LUTHULY",
-  "num_followers": 167162,
+  "num_followers": 167189,
   "original_name": "R&B Brasil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0YTQyOTVjMDA5ZjNhMzQ5NzM3M2Q5YWEwYzI1YjMzODY5ZjQxNzA1",
+  "snapshot_id": "MCxlZmI1YmNkNTU0MTg3YmY0NTkzZTU1OTg1MTczYWFmMjFhZTY1Mjdj",
   "tracks": [
     {
       "added_at": "2024-03-15 03:01:00",
@@ -131,26 +131,6 @@
     {
       "added_at": "2024-03-15 03:01:00",
       "album": {
-        "name": "Me Leva",
-        "url": "https://open.spotify.com/album/1diSltAeuabmNpBXw3qt9Q"
-      },
-      "artists": [
-        {
-          "name": "Taylan",
-          "url": "https://open.spotify.com/artist/3atKv6SXjq5GuOgSj6T7Qu"
-        },
-        {
-          "name": "Serour",
-          "url": "https://open.spotify.com/artist/4L8osYNuWu9ggZONwYGGC8"
-        }
-      ],
-      "duration_ms": 213975,
-      "name": "Me Leva",
-      "url": "https://open.spotify.com/track/2QQeS6hFZXB8AOCKjyCiNC"
-    },
-    {
-      "added_at": "2024-03-15 03:01:00",
-      "album": {
         "name": "Um Pouco de Mim",
         "url": "https://open.spotify.com/album/2xhrb0Bg1uXDUoB6zDJgKv"
       },
@@ -171,6 +151,26 @@
       "duration_ms": 180705,
       "name": "Tira minha paz",
       "url": "https://open.spotify.com/track/5EOydzBnaxzhzj7iHqiRUo"
+    },
+    {
+      "added_at": "2024-03-15 03:01:00",
+      "album": {
+        "name": "Me Leva",
+        "url": "https://open.spotify.com/album/1diSltAeuabmNpBXw3qt9Q"
+      },
+      "artists": [
+        {
+          "name": "Taylan",
+          "url": "https://open.spotify.com/artist/3atKv6SXjq5GuOgSj6T7Qu"
+        },
+        {
+          "name": "Serour",
+          "url": "https://open.spotify.com/artist/4L8osYNuWu9ggZONwYGGC8"
+        }
+      ],
+      "duration_ms": 213975,
+      "name": "Me Leva",
+      "url": "https://open.spotify.com/track/2QQeS6hFZXB8AOCKjyCiNC"
     },
     {
       "added_at": "2024-03-15 03:01:00",
@@ -355,6 +355,26 @@
     {
       "added_at": "2024-03-15 03:01:00",
       "album": {
+        "name": "Sinal de Fuma\u00e7a",
+        "url": "https://open.spotify.com/album/5OkI6zKfhKzl1w3CjpvnOi"
+      },
+      "artists": [
+        {
+          "name": "Yas",
+          "url": "https://open.spotify.com/artist/3tFl0Vh4EoMvMutypugPYO"
+        },
+        {
+          "name": "Thebosh",
+          "url": "https://open.spotify.com/artist/6NCFegwTfE1dbVEOPrAGxI"
+        }
+      ],
+      "duration_ms": 150833,
+      "name": "Sinal de Fuma\u00e7a",
+      "url": "https://open.spotify.com/track/76M93slEhL9Q9MEvbxycbe"
+    },
+    {
+      "added_at": "2024-03-15 03:01:00",
+      "album": {
         "name": "Victoria's Secrets",
         "url": "https://open.spotify.com/album/2hGnJhss1wzMSwkMZNeSeM"
       },
@@ -383,26 +403,6 @@
       "duration_ms": 181224,
       "name": "Victoria's Secrets",
       "url": "https://open.spotify.com/track/0wip0vMqXUZptWl8s386yR"
-    },
-    {
-      "added_at": "2024-03-15 03:01:00",
-      "album": {
-        "name": "Sinal de Fuma\u00e7a",
-        "url": "https://open.spotify.com/album/5OkI6zKfhKzl1w3CjpvnOi"
-      },
-      "artists": [
-        {
-          "name": "Yas",
-          "url": "https://open.spotify.com/artist/3tFl0Vh4EoMvMutypugPYO"
-        },
-        {
-          "name": "Thebosh",
-          "url": "https://open.spotify.com/artist/6NCFegwTfE1dbVEOPrAGxI"
-        }
-      ],
-      "duration_ms": 150833,
-      "name": "Sinal de Fuma\u00e7a",
-      "url": "https://open.spotify.com/track/76M93slEhL9Q9MEvbxycbe"
     },
     {
       "added_at": "2024-03-15 03:01:00",
@@ -559,22 +559,6 @@
     {
       "added_at": "2024-03-15 03:01:00",
       "album": {
-        "name": "Vestido Vermelho",
-        "url": "https://open.spotify.com/album/06vVPATP7xd4AvQzeevpss"
-      },
-      "artists": [
-        {
-          "name": "Filipe Papi",
-          "url": "https://open.spotify.com/artist/4PIbPYHfWC6FC2RL6livhm"
-        }
-      ],
-      "duration_ms": 170588,
-      "name": "Vestido Vermelho",
-      "url": "https://open.spotify.com/track/11xqJp6dCzVm3PxEroeVih"
-    },
-    {
-      "added_at": "2024-03-15 03:01:00",
-      "album": {
         "name": "Teu Sinal",
         "url": "https://open.spotify.com/album/4qOMdPxlwo1d1asnXjTnlW"
       },
@@ -619,6 +603,22 @@
     {
       "added_at": "2024-03-15 03:01:00",
       "album": {
+        "name": "Vestido Vermelho",
+        "url": "https://open.spotify.com/album/06vVPATP7xd4AvQzeevpss"
+      },
+      "artists": [
+        {
+          "name": "Filipe Papi",
+          "url": "https://open.spotify.com/artist/4PIbPYHfWC6FC2RL6livhm"
+        }
+      ],
+      "duration_ms": 170588,
+      "name": "Vestido Vermelho",
+      "url": "https://open.spotify.com/track/11xqJp6dCzVm3PxEroeVih"
+    },
+    {
+      "added_at": "2024-03-15 03:01:00",
+      "album": {
         "name": "perco o ar",
         "url": "https://open.spotify.com/album/2o8vquo00AThGJCJ4vbw4Z"
       },
@@ -635,6 +635,38 @@
       "duration_ms": 204604,
       "name": "perco o ar",
       "url": "https://open.spotify.com/track/6IA3LnCSsC9bNotg77Pypa"
+    },
+    {
+      "added_at": "2024-03-15 03:01:00",
+      "album": {
+        "name": "D\u00f3i Tanto",
+        "url": "https://open.spotify.com/album/7FqoofEcHv9SsCLay8uF9s"
+      },
+      "artists": [
+        {
+          "name": "Geovanna Jainy",
+          "url": "https://open.spotify.com/artist/0N8j1fdrTFzTCyzP4bGbSj"
+        }
+      ],
+      "duration_ms": 158571,
+      "name": "D\u00f3i Tanto",
+      "url": "https://open.spotify.com/track/3q4BjZzm4VeYTjrfTrqR7j"
+    },
+    {
+      "added_at": "2024-03-15 03:01:00",
+      "album": {
+        "name": "Tempo pra Perder",
+        "url": "https://open.spotify.com/album/6qePnDPq4XJnpJxaGf5lxF"
+      },
+      "artists": [
+        {
+          "name": "Ana Olic",
+          "url": "https://open.spotify.com/artist/1gJq1KdpkUUygT6tgrnkiY"
+        }
+      ],
+      "duration_ms": 194974,
+      "name": "Tempo pra Perder",
+      "url": "https://open.spotify.com/track/2vS4o51fwVyYrDF54w5O0R"
     },
     {
       "added_at": "2024-03-15 03:01:00",
@@ -667,18 +699,18 @@
     {
       "added_at": "2024-03-15 03:01:00",
       "album": {
-        "name": "Tempo pra Perder",
-        "url": "https://open.spotify.com/album/6qePnDPq4XJnpJxaGf5lxF"
+        "name": "Casual",
+        "url": "https://open.spotify.com/album/6ACqA0GV9YblnMQPIS93Zu"
       },
       "artists": [
         {
-          "name": "Ana Olic",
-          "url": "https://open.spotify.com/artist/1gJq1KdpkUUygT6tgrnkiY"
+          "name": "N9NE",
+          "url": "https://open.spotify.com/artist/15alwx15s1tZ2Gl9zF6Abv"
         }
       ],
-      "duration_ms": 194974,
-      "name": "Tempo pra Perder",
-      "url": "https://open.spotify.com/track/2vS4o51fwVyYrDF54w5O0R"
+      "duration_ms": 210000,
+      "name": "Casual",
+      "url": "https://open.spotify.com/track/6FFsKesuw6oJKJ0WACbpPn"
     },
     {
       "added_at": "2024-03-15 03:01:00",
@@ -707,22 +739,6 @@
     {
       "added_at": "2024-03-15 03:01:00",
       "album": {
-        "name": "Casual",
-        "url": "https://open.spotify.com/album/6ACqA0GV9YblnMQPIS93Zu"
-      },
-      "artists": [
-        {
-          "name": "N9NE",
-          "url": "https://open.spotify.com/artist/15alwx15s1tZ2Gl9zF6Abv"
-        }
-      ],
-      "duration_ms": 210000,
-      "name": "Casual",
-      "url": "https://open.spotify.com/track/6FFsKesuw6oJKJ0WACbpPn"
-    },
-    {
-      "added_at": "2024-03-15 03:01:00",
-      "album": {
         "name": "Freedom",
         "url": "https://open.spotify.com/album/0Ze1e8yP0nQBmJpgr1DPrT"
       },
@@ -739,22 +755,6 @@
       "duration_ms": 218048,
       "name": "Freedom",
       "url": "https://open.spotify.com/track/1900JESfRMYU1a35cFlqEm"
-    },
-    {
-      "added_at": "2024-03-15 03:01:00",
-      "album": {
-        "name": "D\u00f3i Tanto",
-        "url": "https://open.spotify.com/album/7FqoofEcHv9SsCLay8uF9s"
-      },
-      "artists": [
-        {
-          "name": "Geovanna Jainy",
-          "url": "https://open.spotify.com/artist/0N8j1fdrTFzTCyzP4bGbSj"
-        }
-      ],
-      "duration_ms": 158571,
-      "name": "D\u00f3i Tanto",
-      "url": "https://open.spotify.com/track/3q4BjZzm4VeYTjrfTrqR7j"
     },
     {
       "added_at": "2024-03-15 03:01:00",
@@ -843,30 +843,6 @@
     {
       "added_at": "2024-03-15 03:01:00",
       "album": {
-        "name": "Mais Um Pouco",
-        "url": "https://open.spotify.com/album/66BaEyvRh9L7VjGGMF0tgs"
-      },
-      "artists": [
-        {
-          "name": "Murilo Magalh\u00e3es",
-          "url": "https://open.spotify.com/artist/4TlfxFPeRDsDbWxm3iBt9A"
-        },
-        {
-          "name": "ALLIRA",
-          "url": "https://open.spotify.com/artist/1YaRssOooph4Aj4faAS8VS"
-        },
-        {
-          "name": "FELL",
-          "url": "https://open.spotify.com/artist/0tiAA1lSHnRZapINp4gMBB"
-        }
-      ],
-      "duration_ms": 185263,
-      "name": "Mais Um Pouco",
-      "url": "https://open.spotify.com/track/5IyQlAH7GTfmZClRGGHBEh"
-    },
-    {
-      "added_at": "2024-03-15 03:01:00",
-      "album": {
         "name": "N\u00e3o Vou Negar",
         "url": "https://open.spotify.com/album/3YdAoZKOwdbd29jKSwuknb"
       },
@@ -907,6 +883,30 @@
     {
       "added_at": "2024-03-15 03:01:00",
       "album": {
+        "name": "Mais Um Pouco",
+        "url": "https://open.spotify.com/album/66BaEyvRh9L7VjGGMF0tgs"
+      },
+      "artists": [
+        {
+          "name": "Murilo Magalh\u00e3es",
+          "url": "https://open.spotify.com/artist/4TlfxFPeRDsDbWxm3iBt9A"
+        },
+        {
+          "name": "ALLIRA",
+          "url": "https://open.spotify.com/artist/1YaRssOooph4Aj4faAS8VS"
+        },
+        {
+          "name": "FELL",
+          "url": "https://open.spotify.com/artist/0tiAA1lSHnRZapINp4gMBB"
+        }
+      ],
+      "duration_ms": 185263,
+      "name": "Mais Um Pouco",
+      "url": "https://open.spotify.com/track/5IyQlAH7GTfmZClRGGHBEh"
+    },
+    {
+      "added_at": "2024-03-15 03:01:00",
+      "album": {
         "name": "Pra Mim N\u00e3o D\u00e1",
         "url": "https://open.spotify.com/album/6b9pPvAJf6rJZfikk7681K"
       },
@@ -927,26 +927,6 @@
     {
       "added_at": "2024-03-15 03:01:00",
       "album": {
-        "name": "Faz Arrepiar",
-        "url": "https://open.spotify.com/album/2eECtXgZdmITR6VSzq5CW7"
-      },
-      "artists": [
-        {
-          "name": "Fashion Piva",
-          "url": "https://open.spotify.com/artist/4BvRiHSL8MkEyohJoY7lyk"
-        },
-        {
-          "name": "Ane",
-          "url": "https://open.spotify.com/artist/59BcvfHR3rS8VA3yxwATAG"
-        }
-      ],
-      "duration_ms": 140832,
-      "name": "Faz Arrepiar",
-      "url": "https://open.spotify.com/track/7JGHeEIqdqrQJUXONANuKz"
-    },
-    {
-      "added_at": "2024-03-15 03:01:00",
-      "album": {
         "name": "Conex\u00e3o",
         "url": "https://open.spotify.com/album/2rN91P7qGJ70V5cFO3Hl43"
       },
@@ -963,6 +943,26 @@
       "duration_ms": 156000,
       "name": "Conex\u00e3o",
       "url": "https://open.spotify.com/track/162nE0evxH5RWNWIBPALmk"
+    },
+    {
+      "added_at": "2024-03-15 03:01:00",
+      "album": {
+        "name": "Faz Arrepiar",
+        "url": "https://open.spotify.com/album/2eECtXgZdmITR6VSzq5CW7"
+      },
+      "artists": [
+        {
+          "name": "Fashion Piva",
+          "url": "https://open.spotify.com/artist/4BvRiHSL8MkEyohJoY7lyk"
+        },
+        {
+          "name": "Ane",
+          "url": "https://open.spotify.com/artist/59BcvfHR3rS8VA3yxwATAG"
+        }
+      ],
+      "duration_ms": 140832,
+      "name": "Faz Arrepiar",
+      "url": "https://open.spotify.com/track/7JGHeEIqdqrQJUXONANuKz"
     },
     {
       "added_at": "2024-03-15 03:01:00",
@@ -1035,6 +1035,22 @@
     {
       "added_at": "2024-03-15 03:01:00",
       "album": {
+        "name": "Ventilador",
+        "url": "https://open.spotify.com/album/53ARAS1GKpLQYtHusiYkUs"
+      },
+      "artists": [
+        {
+          "name": "Nagy",
+          "url": "https://open.spotify.com/artist/2QX3kFP9WdmGPeFKPfd9Mv"
+        }
+      ],
+      "duration_ms": 179076,
+      "name": "Ventilador",
+      "url": "https://open.spotify.com/track/5pks7N1kfqxMjh44BktzGM"
+    },
+    {
+      "added_at": "2024-03-15 03:01:00",
+      "album": {
         "name": "se voc\u00ea quiser",
         "url": "https://open.spotify.com/album/2fih7VtIuRrmh7M16jKulE"
       },
@@ -1055,22 +1071,6 @@
       "duration_ms": 224680,
       "name": "se voc\u00ea quiser",
       "url": "https://open.spotify.com/track/5C8J4qf8MCeOSvS2ugi0SB"
-    },
-    {
-      "added_at": "2024-03-15 03:01:00",
-      "album": {
-        "name": "Ventilador",
-        "url": "https://open.spotify.com/album/53ARAS1GKpLQYtHusiYkUs"
-      },
-      "artists": [
-        {
-          "name": "Nagy",
-          "url": "https://open.spotify.com/artist/2QX3kFP9WdmGPeFKPfd9Mv"
-        }
-      ],
-      "duration_ms": 179076,
-      "name": "Ventilador",
-      "url": "https://open.spotify.com/track/5pks7N1kfqxMjh44BktzGM"
     },
     {
       "added_at": "2024-03-15 03:01:00",
@@ -1327,6 +1327,22 @@
     {
       "added_at": "2024-03-15 03:01:00",
       "album": {
+        "name": "Troco",
+        "url": "https://open.spotify.com/album/3P5HL7EhZK7047gZXxWGW5"
+      },
+      "artists": [
+        {
+          "name": "Feh",
+          "url": "https://open.spotify.com/artist/3bMQmsnuvak2a7fOQagiCP"
+        }
+      ],
+      "duration_ms": 159375,
+      "name": "Troco",
+      "url": "https://open.spotify.com/track/6TEMhEyTclTXT6PvYlW2tr"
+    },
+    {
+      "added_at": "2024-03-15 03:01:00",
+      "album": {
         "name": "Pode Ir",
         "url": "https://open.spotify.com/album/2ZnCFXgpCWI1AVuPySlRk2"
       },
@@ -1343,22 +1359,6 @@
       "duration_ms": 153371,
       "name": "Pode Ir",
       "url": "https://open.spotify.com/track/1dHm9SJdbZ9YrlnqgsPnHF"
-    },
-    {
-      "added_at": "2024-03-15 03:01:00",
-      "album": {
-        "name": "Troco",
-        "url": "https://open.spotify.com/album/3P5HL7EhZK7047gZXxWGW5"
-      },
-      "artists": [
-        {
-          "name": "Feh",
-          "url": "https://open.spotify.com/artist/3bMQmsnuvak2a7fOQagiCP"
-        }
-      ],
-      "duration_ms": 159375,
-      "name": "Troco",
-      "url": "https://open.spotify.com/track/6TEMhEyTclTXT6PvYlW2tr"
     },
     {
       "added_at": "2024-03-15 03:01:00",
@@ -1435,6 +1435,26 @@
     {
       "added_at": "2024-03-15 03:01:00",
       "album": {
+        "name": "30\u00baC",
+        "url": "https://open.spotify.com/album/2iDk6lzRhjYuJNt8sKO0yE"
+      },
+      "artists": [
+        {
+          "name": "2:22",
+          "url": "https://open.spotify.com/artist/4f8nHS4E6JwdMsn0YJSjU4"
+        },
+        {
+          "name": "Amanda Magno",
+          "url": "https://open.spotify.com/artist/3oJrSk88w8dtDFRKjcMH0R"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "PORTAIS",
+      "url": "https://open.spotify.com/track/2XzZ08u2wNL6TjTWGKa70q"
+    },
+    {
+      "added_at": "2024-03-15 03:01:00",
+      "album": {
         "name": "Proposta",
         "url": "https://open.spotify.com/album/1J4ITzL4iz9SLRwKGlEpaJ"
       },
@@ -1455,26 +1475,6 @@
       "duration_ms": 171792,
       "name": "Proposta",
       "url": "https://open.spotify.com/track/6GDEzb8YsJRBFGRt8Uu1ua"
-    },
-    {
-      "added_at": "2024-03-15 03:01:00",
-      "album": {
-        "name": "30\u00baC",
-        "url": "https://open.spotify.com/album/2iDk6lzRhjYuJNt8sKO0yE"
-      },
-      "artists": [
-        {
-          "name": "2:22",
-          "url": "https://open.spotify.com/artist/4f8nHS4E6JwdMsn0YJSjU4"
-        },
-        {
-          "name": "Amanda Magno",
-          "url": "https://open.spotify.com/artist/3oJrSk88w8dtDFRKjcMH0R"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "PORTAIS",
-      "url": "https://open.spotify.com/track/2XzZ08u2wNL6TjTWGKa70q"
     },
     {
       "added_at": "2024-03-15 03:01:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3d2wagqzwmM.md) - [plain]
 
 > Big rooms and big sounds\. Cover: Maddix
 
-[Spotify](https://open.spotify.com/user/spotify) - 496,826 likes - 80 songs - 3 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 497,156 likes - 80 songs - 3 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3d2wagqzwmM.md) - [plain]
 | 79 | [For The People](https://open.spotify.com/track/4MvA2osUdPQpDKNwuDjlM8) | [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg), [Third Party](https://open.spotify.com/artist/2J80qXI4NHKpq5RT3xUF7V) | [For The People](https://open.spotify.com/album/5QcP3EZoMWUi0ETWkh0NAj) | 3:39 |
 | 80 | [Drum Machine](https://open.spotify.com/track/2vuMD95467vEtEUja63LxH) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Pickle](https://open.spotify.com/artist/3RuyFkjMNXXXabK3bH5DQt) | [Drum Machine](https://open.spotify.com/album/0MKp1ezYjLB8jzz8o9JIVN) | 2:26 |
 
-Snapshot ID: `MCw0YTg4MzVlMDM5NmUyZDFmMmQ5MGQwM2Y4Y2NkYzhkZmQ4NGNjNDI3`
+Snapshot ID: `MCwzMzAwN2FiZmRlOGEwN2ZhYWFkZDM5Y2UwMWM1YzljNWJlNjdlZDMw`

@@ -4,7 +4,7 @@
 
 > Fearless sounds at the crossroads of country and folk\. Cover: Kacey Musgraves
 
-419 songs - 1 day 1 hr 44 min
+420 songs - 1 day 1 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -380,7 +380,8 @@
 | [TLC Cagematch](https://open.spotify.com/track/5jZxm02JT3CpJulGo4phH3) | [MJ Lenderman](https://open.spotify.com/artist/4tK6Z8fK7Sc9133byjPGIT) | [Boat Songs](https://open.spotify.com/album/22gbAfr4V10JH93bV7dKW0) | 3:52 | 2023-04-28 | 2023-11-18 |
 | [To Die For](https://open.spotify.com/track/3jrhymhDIXEzFCIGXVYjVH) | [Arlo McKinley](https://open.spotify.com/artist/4bnCmwKU89Rt1zWnRIdSUa) | [This Mess We're In](https://open.spotify.com/album/5CK0pgc09TdzFBkNUQ5GR9) | 3:23 | 2022-07-22 | 2023-09-16 |
 | [Tom Barrett](https://open.spotify.com/track/6YbQXUNroKs9qofA8gttor) | [Ian Noe](https://open.spotify.com/artist/2TEpPi5SFalflhpcQHq3lB) | [River Fools & Mountain Saints](https://open.spotify.com/album/6OsF7JfA48kcvWcV4auWIl) | 3:13 | 2023-04-21 |  |
-| [Too Good to be True](https://open.spotify.com/track/4vIiVs5JoNfqqRi5o7jAIb) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Too Good to be True](https://open.spotify.com/album/57y7NpfTINlnrNitu8vwft) | 2:40 | 2024-03-01 |  |
+| [Too Good to be True](https://open.spotify.com/track/27RDQ0TfxzWMlQFuKrPT11) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Deeper Well](https://open.spotify.com/album/5SxZmGwc4eJuPp6PcO4JgJ) | 2:40 | 2024-03-15 |  |
+| [Too Good to be True](https://open.spotify.com/track/4vIiVs5JoNfqqRi5o7jAIb) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Too Good to be True](https://open.spotify.com/album/57y7NpfTINlnrNitu8vwft) | 2:40 | 2024-03-01 | 2024-03-21 |
 | [Top Down](https://open.spotify.com/track/44Lxf5akfAz3A9Su0MFB7K) | [Georgia Harmer](https://open.spotify.com/artist/3I7KBuz60UYfMzBbPcqrU4) | [Top Down](https://open.spotify.com/album/1OLO1IBqSnjI1NNBBt1CGW) | 3:18 | 2022-05-13 | 2022-07-29 |
 | [Top Down](https://open.spotify.com/track/4azTAgJjMQ8bjR08CYQQAy) | [Georgia Harmer](https://open.spotify.com/artist/3I7KBuz60UYfMzBbPcqrU4) | [Stay In Touch](https://open.spotify.com/album/3FocbWHJtfvMRhUWmhJTh4) | 3:18 | 2022-07-22 | 2023-07-29 |
 | [Tough Country](https://open.spotify.com/track/20XPXqe5eCGYA5CnVnKUZF) | [The Panhandlers](https://open.spotify.com/artist/3PDBePAkhZWQPgR72nhbW8), [Josh Abbott Band](https://open.spotify.com/artist/2EJ5MRZCzpHSSNNEpTx9Kb), [Flatland Cavalry](https://open.spotify.com/artist/4SfGzWmeoNPKIOmiyc7Pav), [William Clark Green](https://open.spotify.com/artist/0cshCXEe1I7wlRwdrL91ZQ), [John Baumann](https://open.spotify.com/artist/5OCPKdyvsphdpbIVpVts3L) | [Tough Country](https://open.spotify.com/album/4usJHvZr3K0vTvb7bzzw7w) | 4:03 | 2023-03-10 | 2023-04-22 |

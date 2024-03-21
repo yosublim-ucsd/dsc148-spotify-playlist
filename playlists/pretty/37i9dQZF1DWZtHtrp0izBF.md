@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZtHtrp0izBF.md) - [plain]
 
 > 1\-2\-3, 5\-6\-7, now you're dancing salsa!
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,865 likes - 50 songs - 4 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,012 likes - 50 songs - 4 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZtHtrp0izBF.md) - [plain]
 | 25 | [Pedro Navaja](https://open.spotify.com/track/7aKs8kWKKau0SDgaeyZMAX) | [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW), [Rubén Blades](https://open.spotify.com/artist/5BwMgvRwlq61SmknvsVIQj) | [Siembra](https://open.spotify.com/album/7wOJ9RTQr05ytqROWtTPzy) | 7:25 |
 | 26 | [Persona Ideal](https://open.spotify.com/track/5H1mAzh396id1TPT0JaItz) | [Adolescent's Orquesta](https://open.spotify.com/artist/70nxnxEqDQIEWneRjg2Q4O) | [Millenium Hits](https://open.spotify.com/album/2UW6AewaLPCMOqevOZvHof) | 4:41 |
 | 27 | [Ahora Quien \- Salsa Version](https://open.spotify.com/track/5A32KQZznC2HSqr9qzTl2N) | [Marc Anthony](https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6) | [Valio La Pena](https://open.spotify.com/album/4O3yvEN5II2yKWKBPtDLD7) | 5:09 |
-| 28 | [Eres Mi Sueño](https://open.spotify.com/track/5ZA9ItQp7DyG6pPkSsq3Bn) | [Septeto Acarey](https://open.spotify.com/artist/5Vz74ibGHBQaUa2ALDOH0v) | [Acarey Ya Llegó](https://open.spotify.com/album/74i0QoJc9w1PmewVlDlnj3) | 5:00 |
-| 29 | [Un Montón De Estrellas](https://open.spotify.com/track/21iD8UKoYicaMmVISo6Pi4) | [Polo Montañez](https://open.spotify.com/artist/0NJbkbtOgSj2Q5bkUV3FPz) | [Guajiro Natural](https://open.spotify.com/album/1X7NlROjvvMICSei8xcFJh) | 6:04 |
+| 28 | [Un Montón De Estrellas](https://open.spotify.com/track/21iD8UKoYicaMmVISo6Pi4) | [Polo Montañez](https://open.spotify.com/artist/0NJbkbtOgSj2Q5bkUV3FPz) | [Guajiro Natural](https://open.spotify.com/album/1X7NlROjvvMICSei8xcFJh) | 6:04 |
+| 29 | [Eres Mi Sueño](https://open.spotify.com/track/5ZA9ItQp7DyG6pPkSsq3Bn) | [Septeto Acarey](https://open.spotify.com/artist/5Vz74ibGHBQaUa2ALDOH0v) | [Acarey Ya Llegó](https://open.spotify.com/album/74i0QoJc9w1PmewVlDlnj3) | 5:00 |
 | 30 | [Regálame una Noche](https://open.spotify.com/track/2URe3fGSKuCh8v0d49lsNU) | [Maelo Ruiz](https://open.spotify.com/artist/3HyrDGPLI0c9Rd8luuO0zw) | [Regálame Una Noche](https://open.spotify.com/album/1VXQXHRTUD5kaCQotZhuvW) | 4:36 |
 | 31 | [Oiga, Mire, Vea](https://open.spotify.com/track/17Sfr3T1chYPGcmM4VlhCh) | [Guayacán Orquesta](https://open.spotify.com/artist/2pZ81eCkqxemIjqqfE1fhE) | [Sentimental de Punta a Punta](https://open.spotify.com/album/0MMzGqy6fMEb6ktGTuxEm2) | 5:25 |
 | 32 | [Pequeñas Cosas](https://open.spotify.com/track/36T4XY4vbxmw40XMJPe3zw) | [Willie Gonzalez](https://open.spotify.com/artist/2EIZodXJHserIu4pGNfD3Z) | [Grandes Exitos](https://open.spotify.com/album/2FakrUxHjeJKeY0QxX4MGo) | 5:07 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZtHtrp0izBF.md) - [plain]
 | 49 | [Cali Pachanguero](https://open.spotify.com/track/6GsxCYC9UaL0J8b8MVrRqX) | [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8) | [No Hay Quinto Malo](https://open.spotify.com/album/1ibD6liWR6qqeNgQay95gJ) | 5:10 |
 | 50 | [La Murga](https://open.spotify.com/track/5O2Id1rWAmR9ff9kGUfikf) | [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW), [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP), [Yomo Toro](https://open.spotify.com/artist/112OOUPY3pq7Hr35s3po6E) | [Asalto Navideño](https://open.spotify.com/album/4TnqBA58KybPV53g95LHLe) | 5:34 |
 
-Snapshot ID: `MCw1ZTEwZjg0M2QzYzJkNTBhNzI0OGI4MzJmNmNkY2JiNGFkOTUyMWNm`
+Snapshot ID: `MCw3Njc4MjM0MThkZGFhYTU4OWM1MWFlNzFlNWZkMWNkOTdkZjkyYzE5`

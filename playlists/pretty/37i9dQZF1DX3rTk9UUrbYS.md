@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3rTk9UUrbYS.md) - [plain]
 
 > Avant\-garde, experimental and free jazz.
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,458 likes - 100 songs - 12 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,492 likes - 100 songs - 12 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3rTk9UUrbYS.md) - [plain]
 | 99 | [Breaking Point](https://open.spotify.com/track/08didpMJM0vsICBS3uu2Xd) | [Freddie Hubbard](https://open.spotify.com/artist/0fTHKjepK5HWOrb2rkS5Em) | [The Essential Blue Note Collection](https://open.spotify.com/album/7dDZGuJMNFpIHa2J2jSdJT) | 10:19 |
 | 100 | [Conduction No.186 \- Live](https://open.spotify.com/track/10oUh9vQB9J36UmsGuWxRl) | [Nublu Orchestra](https://open.spotify.com/artist/3kir4KuUljdyYGWpQ3tPX9), [Butch Morris](https://open.spotify.com/artist/180iBifQGB9dLM5dSelaAK) | [Live in Lisbon](https://open.spotify.com/album/5WnPY79tkeyhrRcInkUjMp) | 43:14 |
 
-Snapshot ID: `MCw2ZDA0Yjk1NTE0OGVkZDFjYTgzNTNlNDMxZWY0MGUxYjA0ZDJhZGVi`
+Snapshot ID: `MCxlYzY3NzZhNmQyMTIzODU0M2UxYjk4YjAzNTFiNDg4OGFhNGRmNWEw`

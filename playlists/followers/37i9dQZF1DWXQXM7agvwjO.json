@@ -1,5 +1,5 @@
 {
-  "2024-03-20": 94170,
+  "2024-03-21": 94220,
   "date_first_scraped": "2022-03-28",
   "description": "Hottest indie sounds & the best new tracks from Asia. cover: HYBS (Thailand)",
   "name": ".ORG",
@@ -11518,6 +11518,24 @@
     },
     {
       "album": {
+        "name": "maybe",
+        "url": "https://open.spotify.com/album/0crSGw57b2pARwMMz3qnBF"
+      },
+      "artists": [
+        {
+          "name": "Michael Kaneko",
+          "url": "https://open.spotify.com/artist/36a3BbcVBJMiBGeHzpAxHb"
+        }
+      ],
+      "date_added": "2024-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221490,
+      "name": "maybe",
+      "url": "https://open.spotify.com/track/40MvEAg63reIXptL6U0ksZ"
+    },
+    {
+      "album": {
         "name": "Maybe I should die with you",
         "url": "https://open.spotify.com/album/0FEkgIsDVj9Aeyd1iApTG3"
       },
@@ -21031,7 +21049,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-20",
       "duration_ms": 278750,
       "name": "\u0e1f\u0e49\u0e32\u0e21\u0e37\u0e14\u0e17\u0e35\u0e44\u0e23",
       "url": "https://open.spotify.com/track/6gAbZjrEKkngnPKVB3E1fy"

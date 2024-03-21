@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8cwL6qhvzYg.md) - [plain]
 
 > Porque el barrio es el barrio y eso nadie lo va a cambiar 😎💃🏾🕺🏾
 
-[Spotify](https://open.spotify.com/user/spotify) - 403,702 likes - 125 songs - 7 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 403,713 likes - 125 songs - 7 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,8 +72,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8cwL6qhvzYg.md) - [plain]
 | 62 | [Yo Las Pongo](https://open.spotify.com/track/5LPD5HDYyxKdGHvHQ1kef9) | [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR), [Los Tucanes De Tijuana](https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK), [Maffio](https://open.spotify.com/artist/5RzT7CM6Ot0sh0EHefMicV) | [Yo Las Pongo](https://open.spotify.com/album/0unP8lNuU71xBHNlzwo8HF) | 3:11 |
 | 63 | [Nunca Es Suficiente](https://open.spotify.com/track/63USmok1OioBzKuWGW9wAg) | [Los Ángeles Azules](https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW), [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [Esto Sí Es Cumbia](https://open.spotify.com/album/3m1T3n3PcjlOoo4GfLGgkY) | 4:26 |
 | 64 | [Besar Tu Piel](https://open.spotify.com/track/3sxYWCxHH0TcbPcEd6Ie0N) | [Rayito Colombiano](https://open.spotify.com/artist/3yJUTkFm88TiJPLhLHKumn) | [Cicatrices](https://open.spotify.com/album/1p4Y2PEsXTnTxWrYjihemm) | 3:24 |
-| 65 | [Un Millon de Rosas](https://open.spotify.com/track/1idB3b2IIfal1DPwOuDQwo) | [La Mafia](https://open.spotify.com/artist/3rhO3rDk432VyAwyZnkECs) | [20th Anniversary Series](https://open.spotify.com/album/61V77t4VuVQcJvUvevRIlX) | 3:29 |
-| 66 | [Las Locuras Mías](https://open.spotify.com/track/78OElpvKKwUnCEoVVtqth5) | [Omar Chaparro](https://open.spotify.com/artist/4c2iIMx6xBNZkK79QTilJ6), [Joey Montana](https://open.spotify.com/artist/3ATyg4fGC9F8trfb0GRWmX) | [Las Locuras Mías](https://open.spotify.com/album/3MW5j5axtRffiCqv01Sz0P) | 3:45 |
+| 65 | [Las Locuras Mías](https://open.spotify.com/track/78OElpvKKwUnCEoVVtqth5) | [Omar Chaparro](https://open.spotify.com/artist/4c2iIMx6xBNZkK79QTilJ6), [Joey Montana](https://open.spotify.com/artist/3ATyg4fGC9F8trfb0GRWmX) | [Las Locuras Mías](https://open.spotify.com/album/3MW5j5axtRffiCqv01Sz0P) | 3:45 |
+| 66 | [Un Millon de Rosas](https://open.spotify.com/track/1idB3b2IIfal1DPwOuDQwo) | [La Mafia](https://open.spotify.com/artist/3rhO3rDk432VyAwyZnkECs) | [20th Anniversary Series](https://open.spotify.com/album/61V77t4VuVQcJvUvevRIlX) | 3:29 |
 | 67 | [Y Si Se Quiere Ir](https://open.spotify.com/track/6b68vfUlXy2i2dO79z3h5W) | [Luis Angel "El Flaco"](https://open.spotify.com/artist/4kJ2OBSNasUA4yOT5NCfCl) | [Y Si Se Quiere Ir](https://open.spotify.com/album/1TGGJG87FFJsLFkILRN1Dc) | 3:07 |
 | 68 | [Cumbia Con La Luna](https://open.spotify.com/track/0mgTAs7MVas9SyGNQeKFJp) | [Control](https://open.spotify.com/artist/69BX3Y0Y9rzA039eZX2hdx) | [Cumbias Sin Control](https://open.spotify.com/album/4WA8OOdFDDoYUoCDnde5UX) | 3:35 |
 | 69 | [Como La Flor](https://open.spotify.com/track/5ubqSAc9LxUS2CsMHcA4kF) | [Selena](https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch) | [Dreaming Of You](https://open.spotify.com/album/2IevUWpkZ9KUcr6ZhtklE0) | 3:04 |
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8cwL6qhvzYg.md) - [plain]
 | 124 | [El Viejo del Sombrerón](https://open.spotify.com/track/02bm1KDGRX3saB1iupRa3h) | [La Sonora Dinamita](https://open.spotify.com/artist/13or1Wf6ipcvSIiurZATvw), [La India Meliyará](https://open.spotify.com/artist/0zBKolPOzGoV8uja8nnaUG) | [Greatest Cumbia Classics Of Colombia, Vol\. 1](https://open.spotify.com/album/53W9qG1q6xaKlUVuzkBNPV) | 4:12 |
 | 125 | [Mi Princesa](https://open.spotify.com/track/16Bp59vZMZDe9vQS4waCJO) | [Remmy Valenzuela](https://open.spotify.com/artist/4stSxe6AbpXw3x7nRDsYVX) | [Mi Princesa](https://open.spotify.com/album/652p9fzYmUhJc6iqqkbDe3) | 3:03 |
 
-Snapshot ID: `MCwyYWEyNzI4OWVkNjYxMzg3MzY1MWMzNDU4MzY0YTI2ZDhiOGJlNWVh`
+Snapshot ID: `MCxhMDZmZTI3YTI4NTVmYWM5YzBjY2EwZDJlZDA3ZDJlZjJkZWI4MjI0`

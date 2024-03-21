@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdMScvOPszco.md) - [plain]
 
 > Ponle actitud a tu comida.
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,344 likes - 50 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 54,363 likes - 50 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdMScvOPszco.md) - [plain]
 | 31 | [Bloodstains \- Original Version](https://open.spotify.com/track/5E47rKJbS74jyLZaSgb0kS) | [Agent Orange](https://open.spotify.com/artist/1pBsvSnrhmgDZqisT13SFA) | [Living In Darkness \(30th Anniversary Edition\)](https://open.spotify.com/album/1IJw5lrtuyb72eDp8o0kas) | 1:53 |
 | 32 | [Sound System \- 2007 Remaster](https://open.spotify.com/track/4Pmo0mMgiyBCj1Zd7Axsi1) | [Operation Ivy](https://open.spotify.com/artist/18XRGxd1b484f2h06cwvJJ) | [Operation Ivy \(2007 Remaster\)](https://open.spotify.com/album/2Rv1kIWFeIYeq8kAtdhY6m) | 2:14 |
 | 33 | [Don't Call Me White](https://open.spotify.com/track/0cntShbC3GmWXygfH98brk) | [NOFX](https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ) | [Punk In Drublic](https://open.spotify.com/album/6Z8BYH27wINoUk4QMUx7gh) | 2:33 |
-| 34 | [Amoeba](https://open.spotify.com/track/1xQE0QHrmJUQweLoMB0ZWC) | [Adolescents](https://open.spotify.com/artist/2sSmGd0x45FGBtjJwNBSFr) | [Adolescents](https://open.spotify.com/album/4qwDRyH5SwFcjyoOJKbE2d) | 3:06 |
-| 35 | [Anarchy in the U.K.](https://open.spotify.com/track/3LoDeIbiR12sAznmpNEmKA) | [Sex Pistols](https://open.spotify.com/artist/1u7kkVrr14iBvrpYnZILJR) | [Never Mind The Bollocks, Here's The Sex Pistols](https://open.spotify.com/album/5fxYu3rqjCNTSPKN8mtEl2) | 3:31 |
+| 34 | [Anarchy in the U.K.](https://open.spotify.com/track/3LoDeIbiR12sAznmpNEmKA) | [Sex Pistols](https://open.spotify.com/artist/1u7kkVrr14iBvrpYnZILJR) | [Never Mind The Bollocks, Here's The Sex Pistols](https://open.spotify.com/album/5fxYu3rqjCNTSPKN8mtEl2) | 3:31 |
+| 35 | [Amoeba](https://open.spotify.com/track/1xQE0QHrmJUQweLoMB0ZWC) | [Adolescents](https://open.spotify.com/artist/2sSmGd0x45FGBtjJwNBSFr) | [Adolescents](https://open.spotify.com/album/4qwDRyH5SwFcjyoOJKbE2d) | 3:06 |
 | 36 | [Rock 'n' Roll High School \- 2002 Remaster](https://open.spotify.com/track/4FzPIalyruWIiefI91qe4B) | [Ramones](https://open.spotify.com/artist/1co4F2pPNH8JjTutZkmgSm) | [End of the Century \(Expanded 2005 Remaster\)](https://open.spotify.com/album/4AZArreHFJ5m8mo1SZT3Iv) | 2:17 |
 | 37 | [City Of Angels](https://open.spotify.com/track/0sAIljILdEo8Ku4tPLQ7dF) | [The Distillers](https://open.spotify.com/artist/7MlyHuGRHi31yYlrttDqgT) | [Sing Sing Death House](https://open.spotify.com/album/4VrINRcJyLcENNLiDbCoBi) | 3:29 |
 | 38 | [Rise Above](https://open.spotify.com/track/4kFfFe38CRVnTsakUTL4E4) | [Black Flag](https://open.spotify.com/artist/5Mhs3Eu8lU6sRCtRYsmABV) | [Damaged](https://open.spotify.com/album/34aFnrFRBlErcbU6moRZR3) | 2:26 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdMScvOPszco.md) - [plain]
 | 49 | [May 16](https://open.spotify.com/track/2y2E0ix0iJWQWUMmlbTWjg) | [Lagwagon](https://open.spotify.com/artist/66riGCPfih1Xqk81dDvpvf) | [Let's Talk About Feelings](https://open.spotify.com/album/3Em5AaNRlG0G2ktBYDNQaz) | 2:56 |
 | 50 | [Teenage Kicks](https://open.spotify.com/track/6UP5zTAuR4NFc1uZ3MHjvA) | [The Undertones](https://open.spotify.com/artist/2WRStKp4ihGVUzlzWfv1Qt) | [The Undertones](https://open.spotify.com/album/6lpgN6d9rlnFpZBzyQlDrE) | 2:28 |
 
-Snapshot ID: `MCw2NzY3Y2MxOTVmMjhjNThjZWYwY2Q0MDIzZTdiNzQzMDhiMjA0N2Zk`
+Snapshot ID: `MCw1OTE3OGZjYTUwZThhYTRhYTljZmQxM2ZmZDYzMWI0MTBmNzE4MzJl`

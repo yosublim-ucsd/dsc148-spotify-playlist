@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTD6JPQU0gqz.md) - [plain]
 
 > Celebrando a los músicos Afro\-Latinos\. Cover: Tego Calderon
 
-[Spotify](https://open.spotify.com/user/spotify) - 51,468 likes - 80 songs - 4 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 51,478 likes - 80 songs - 4 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -80,13 +80,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTD6JPQU0gqz.md) - [plain]
 | 70 | [Latinos](https://open.spotify.com/track/5Ym38eMwTsm4P4aEEMlxlJ) | [Aldo Ranks](https://open.spotify.com/artist/0lsEtpjLWn4S7KBra82VG3) | [Latinos](https://open.spotify.com/album/4aRHR4cVo99A4Zp1XTgL30) | 3:31 |
 | 71 | [Dale](https://open.spotify.com/track/0aKq8emz57dfXbuAVd5qXs) | [Menor Menor](https://open.spotify.com/artist/2663St0NB1IsbMnlF69AeW) | [Dale](https://open.spotify.com/album/49xNDnyM4bFoY2MVbC9bMQ) | 2:50 |
 | 72 | [Fettuccine](https://open.spotify.com/track/3Y21rqKVb3Rqf7FjRCK2EB) | [Akim](https://open.spotify.com/artist/2y0XUKKpAeeGyQ5ND7dTY3) | [Haters y Fanáticos](https://open.spotify.com/album/5ozdJlbZNDyinRp5MGXqsb) | 3:00 |
-| 73 | [7heaven](https://open.spotify.com/track/7DCnJTsmnN25Xzu8gR8sAa) | [Esty](https://open.spotify.com/artist/5GRoRrY3Ug35hVuX3z5Rvq) | [Estyland EP](https://open.spotify.com/album/5ippOikp37VeZaOJBhsUCN) | 2:53 |
-| 74 | [CHEAP WINE](https://open.spotify.com/track/3Vr93h1O6gt3eacdDvNld5) | [Chicocurlyhead](https://open.spotify.com/artist/4EzUsFLITcQxDuuDeADaV1) | [CHEAP WINE](https://open.spotify.com/album/2XmXLZErwVUVTJPGJtMluI) | 2:16 |
-| 75 | [Raka Party](https://open.spotify.com/track/1zowgdEGsip4CUpyZI6nuN) | [Los Rakas](https://open.spotify.com/artist/513odGmQbPb6hVERfJGeF0), [Kafu Banton](https://open.spotify.com/artist/5RLb16s3zfrdWdRF0l7xij) | [Los Rakas](https://open.spotify.com/album/2XhwBrlb6fNfro8uAoRu9M) | 2:56 |
+| 73 | [Raka Party](https://open.spotify.com/track/1zowgdEGsip4CUpyZI6nuN) | [Los Rakas](https://open.spotify.com/artist/513odGmQbPb6hVERfJGeF0), [Kafu Banton](https://open.spotify.com/artist/5RLb16s3zfrdWdRF0l7xij) | [Los Rakas](https://open.spotify.com/album/2XhwBrlb6fNfro8uAoRu9M) | 2:56 |
+| 74 | [7heaven](https://open.spotify.com/track/7DCnJTsmnN25Xzu8gR8sAa) | [Esty](https://open.spotify.com/artist/5GRoRrY3Ug35hVuX3z5Rvq) | [Estyland EP](https://open.spotify.com/album/5ippOikp37VeZaOJBhsUCN) | 2:53 |
+| 75 | [CHEAP WINE](https://open.spotify.com/track/3Vr93h1O6gt3eacdDvNld5) | [Chicocurlyhead](https://open.spotify.com/artist/4EzUsFLITcQxDuuDeADaV1) | [CHEAP WINE](https://open.spotify.com/album/2XmXLZErwVUVTJPGJtMluI) | 2:16 |
 | 76 | [Budy Bye](https://open.spotify.com/track/5U3IT5EsLJ71XUVXaaG5ds) | [Johnny Osbourne](https://open.spotify.com/artist/5TUTGRG0FlRoYTZ4GEdOVO) | [Sleng Teng Riddim](https://open.spotify.com/album/0yvN4eN3T0OZwPiVARh5ci) | 4:20 |
 | 77 | [Duelo](https://open.spotify.com/track/23fULt6bWn6VC58bKZQSVj) | [Nino Augustine](https://open.spotify.com/artist/56bt9xaV44RJf7KqqgMxsU) | [Duelo](https://open.spotify.com/album/6TztCAG3KjvaQXkpi7Wx2L) | 2:39 |
 | 78 | [Soy](https://open.spotify.com/track/6sBBmnwoII25pWOpy6TmLK) | [Luchy DR](https://open.spotify.com/artist/0SbiXy5hZuC7ZjOXNXygql) | [Lucky 7](https://open.spotify.com/album/3b2Zck8DtLyhMYxUgVDyho) | 3:16 |
 | 79 | [EnVy](https://open.spotify.com/track/1iQiM6BGH52YVPMXVbM6mx) | [Rauli V](https://open.spotify.com/artist/1TyllKWCaozGr3Ytrw95FG) | [EnVy](https://open.spotify.com/album/7MEiQRRyWflSsXeenUGIsl) | 2:49 |
-| 80 | [Mismo De Antes](https://open.spotify.com/track/0e3pNr8A7NEAb9ItjHLlfb) | [Los Rakas](https://open.spotify.com/artist/513odGmQbPb6hVERfJGeF0), [Akanni](https://open.spotify.com/artist/0wgIOP9UaikBczBsamAyFh), [Jay Fire](https://open.spotify.com/artist/1V3fm7z9TDaSA5JnfRaWUe), [The F](https://open.spotify.com/artist/12vv65YPMmM49KAsC1mnK5) | [Mismo De Antes](https://open.spotify.com/album/7K1G6hWjrZF7bJqMr4R1Tz) | 3:55 |
+| 80 | [Afro Mambo](https://open.spotify.com/track/0wY0E2GIqSSH2WuoV9FBRM) | [Roberto Fonseca](https://open.spotify.com/artist/0Yi6vOMIP1cqp8WppadgOu) | [ABUC](https://open.spotify.com/album/7iNebsQzdjcj501Gd16Hzo) | 3:45 |
 
-Snapshot ID: `MCwwOWQ0YTNjMzM4ZjEzYjEyOWQ4MTIwOWY3MTAzOTg2NmFiMzYwMzQ2`
+Snapshot ID: `MCw2ZGQ0Y2YwZTk0MWI1MGRiMTk5MzEzODEzNTM4MDZlYWQ5Nzg3M2Qw`

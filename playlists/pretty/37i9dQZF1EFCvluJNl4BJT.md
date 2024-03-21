@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCvluJNl4BJT.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2Ak2P6rRpuVPTPAvHSuVDQ">Leon Thomas</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,405 likes - 79 songs - 4 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,408 likes - 80 songs - 4 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -80,12 +80,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCvluJNl4BJT.md) - [plain]
 | 70 | [My Will](https://open.spotify.com/track/1JQQJiQRK3zmc1EXBLJOj1) | [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [Electric Dusk](https://open.spotify.com/album/5u7OrPu6BbadcZNWuH10VT) | 2:53 |
 | 71 | [Fade to Black](https://open.spotify.com/track/3NIawwPGF6X5Hjz9UUJ6tO) | [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [Electric Dusk](https://open.spotify.com/album/5u7OrPu6BbadcZNWuH10VT) | 1:57 |
 | 72 | [Don't](https://open.spotify.com/track/2jD8MqJ4uiE5EYUicI5vCC) | [Rebecca Garton](https://open.spotify.com/artist/10SSWFHswODW4VG1y56JbL) | [Don't](https://open.spotify.com/album/1Fl0AJJlFgKlxTFzIBPczK) | 3:13 |
-| 73 | [Socialite](https://open.spotify.com/track/25OhI4lM6s5vp2bSV4lSgF) | [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [Electric Dusk](https://open.spotify.com/album/5u7OrPu6BbadcZNWuH10VT) | 3:20 |
-| 74 | [High School Crush](https://open.spotify.com/track/5O0yQ891oiTFt3fRJzR9yz) | [Buddy](https://open.spotify.com/artist/6PDLwWvgYNMfBRLqC1h5cJ) | [Superghetto](https://open.spotify.com/album/5pwzhZiiGhHgQOUJKbzYuI) | 3:33 |
-| 75 | [to get home\. \(feat\. Leon Thomas & The Soul Rebels\)](https://open.spotify.com/track/1DVSgQOZnIya4H5a9cJqOC) | [Phony Ppl](https://open.spotify.com/artist/0oBsnAC3fzYkTHF3bkfNx6), [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb), [The Soul Rebels](https://open.spotify.com/artist/10NEMYLJwVvYSvtvZn5Ipz) | [Euphonyus](https://open.spotify.com/album/7jlnxMcPR6LK0bvBtQyu45) | 2:54 |
-| 76 | [Say So](https://open.spotify.com/track/6qUNIQQQXIaUDHjTqzHgGr) | [Smokie Norful](https://open.spotify.com/artist/0sD8Amms4kSxs5tBV4CUmR) | [Forever Yours \(Deluxe Edition\)](https://open.spotify.com/album/18B1n9lvJ7lvu31CMvtBlk) | 3:14 |
-| 77 | [Dumb Shit](https://open.spotify.com/track/7jet0y1TxW6Jfyst9rWWYY) | [Good Girl](https://open.spotify.com/artist/7LmBaPNWiMSVoBawL30uQR) | [Good Girl](https://open.spotify.com/album/3ZvHNWQl5vzUPO15UkRaqk) | 2:57 |
-| 78 | [Hello How Are You](https://open.spotify.com/track/2w6NKpDk88j5WhmAOggYNx) | [Leon Thomas](https://open.spotify.com/artist/44PAA4cna071vzwYqN5Pce), [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop) | [Hello How Are You](https://open.spotify.com/album/4kX602tlPIQUCM8K9mtjAK) | 3:38 |
-| 79 | [All Wolves Go To Heaven](https://open.spotify.com/track/0FnKGnChseb8z8rta9nHQk) | [YoDogg](https://open.spotify.com/artist/6uWApIkHAMSpgBmDmrvQnF), [Cardo](https://open.spotify.com/artist/592XleMjor8huE5Jfgks7p) | [Raised By Wolves](https://open.spotify.com/album/61gYrHZvvs4tHesla7RTNz) | 2:33 |
+| 73 | [happy](https://open.spotify.com/track/1uMkOqwGtVFZLihwXe7WC6) | [Princess Nokia](https://open.spotify.com/artist/6lay1nwbE6hTx1jivysUAL) | [i love you but this is goodbye](https://open.spotify.com/album/6gGk1hChE1H2vZpat7dw15) | 3:20 |
+| 74 | [Socialite](https://open.spotify.com/track/25OhI4lM6s5vp2bSV4lSgF) | [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [Electric Dusk](https://open.spotify.com/album/5u7OrPu6BbadcZNWuH10VT) | 3:20 |
+| 75 | [High School Crush](https://open.spotify.com/track/5O0yQ891oiTFt3fRJzR9yz) | [Buddy](https://open.spotify.com/artist/6PDLwWvgYNMfBRLqC1h5cJ) | [Superghetto](https://open.spotify.com/album/5pwzhZiiGhHgQOUJKbzYuI) | 3:33 |
+| 76 | [to get home\. \(feat\. Leon Thomas & The Soul Rebels\)](https://open.spotify.com/track/1DVSgQOZnIya4H5a9cJqOC) | [Phony Ppl](https://open.spotify.com/artist/0oBsnAC3fzYkTHF3bkfNx6), [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb), [The Soul Rebels](https://open.spotify.com/artist/10NEMYLJwVvYSvtvZn5Ipz) | [Euphonyus](https://open.spotify.com/album/7jlnxMcPR6LK0bvBtQyu45) | 2:54 |
+| 77 | [Say So](https://open.spotify.com/track/6qUNIQQQXIaUDHjTqzHgGr) | [Smokie Norful](https://open.spotify.com/artist/0sD8Amms4kSxs5tBV4CUmR) | [Forever Yours \(Deluxe Edition\)](https://open.spotify.com/album/18B1n9lvJ7lvu31CMvtBlk) | 3:14 |
+| 78 | [Dumb Shit](https://open.spotify.com/track/7jet0y1TxW6Jfyst9rWWYY) | [Good Girl](https://open.spotify.com/artist/7LmBaPNWiMSVoBawL30uQR) | [Good Girl](https://open.spotify.com/album/3ZvHNWQl5vzUPO15UkRaqk) | 2:57 |
+| 79 | [Hello How Are You](https://open.spotify.com/track/2w6NKpDk88j5WhmAOggYNx) | [Leon Thomas](https://open.spotify.com/artist/44PAA4cna071vzwYqN5Pce), [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop) | [Hello How Are You](https://open.spotify.com/album/4kX602tlPIQUCM8K9mtjAK) | 3:38 |
+| 80 | [All Wolves Go To Heaven](https://open.spotify.com/track/0FnKGnChseb8z8rta9nHQk) | [YoDogg](https://open.spotify.com/artist/6uWApIkHAMSpgBmDmrvQnF), [Cardo](https://open.spotify.com/artist/592XleMjor8huE5Jfgks7p) | [Raised By Wolves](https://open.spotify.com/album/61gYrHZvvs4tHesla7RTNz) | 2:33 |
 
-Snapshot ID: `Mjg1MTUwMDAsMDAwMDAwMDA3YTJiNTdlODRhZDY0MjkxOTYwZDNhMTU1OGE4YTFlNg==`
+Snapshot ID: `Mjg1MTY0NDAsMDAwMDAwMDBjODY3M2M1YjJmYWE2OWQwY2U3ZTU3ZTZiZWZiMjlkNQ==`

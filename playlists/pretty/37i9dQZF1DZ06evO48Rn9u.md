@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO48Rn9u.md) - [plain]
 
 > This is Kacey Musgraves\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 134,041 likes - 48 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 134,159 likes - 48 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,8 +23,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO48Rn9u.md) - [plain]
 | 13 | [Merry Go 'Round](https://open.spotify.com/track/5UDqWOgDdixYMAgAyNbpgh) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Same Trailer Different Park](https://open.spotify.com/album/6IGpQUt0KNi5rBUXZZOFI6) | 3:26 |
 | 14 | [Moving Out](https://open.spotify.com/track/1LwT9Pou0rRCXPpXVWy5iA) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Deeper Well](https://open.spotify.com/album/5SxZmGwc4eJuPp6PcO4JgJ) | 3:09 |
 | 15 | [Rainbow](https://open.spotify.com/track/79qxwHypONUt3AFq0WPpT9) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Golden Hour](https://open.spotify.com/album/7f6xPqyaolTiziKf5R5Z0c) | 3:34 |
-| 16 | [All Is Found \- Kacey Musgraves Version](https://open.spotify.com/track/5EeQQ8BVJTRkp1AIKJILGY) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Frozen 2 \(Original Motion Picture Soundtrack/Deluxe Edition\)](https://open.spotify.com/album/4M07HWIlZr7zoXoxDHR5mz) | 3:03 |
-| 17 | [Easy \(with Kacey Musgraves feat\. Mark Ronson\)](https://open.spotify.com/track/4XWaUb7mKRcJR5RPp4IIDr) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP), [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424), [Mark Ronson](https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp) | [Easy \(with Kacey Musgraves feat\. Mark Ronson\)](https://open.spotify.com/album/7FUNRteYv2Flt9Lr8JHFIR) | 3:33 |
+| 16 | [Easy \(with Kacey Musgraves feat\. Mark Ronson\)](https://open.spotify.com/track/4XWaUb7mKRcJR5RPp4IIDr) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP), [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424), [Mark Ronson](https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp) | [Easy \(with Kacey Musgraves feat\. Mark Ronson\)](https://open.spotify.com/album/7FUNRteYv2Flt9Lr8JHFIR) | 3:33 |
+| 17 | [All Is Found \- Kacey Musgraves Version](https://open.spotify.com/track/5EeQQ8BVJTRkp1AIKJILGY) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Frozen 2 \(Original Motion Picture Soundtrack/Deluxe Edition\)](https://open.spotify.com/album/4M07HWIlZr7zoXoxDHR5mz) | 3:03 |
 | 18 | [Heart of the Woods](https://open.spotify.com/track/1sNAeNdDVPVBgsGg9SqWHX) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Deeper Well](https://open.spotify.com/album/5SxZmGwc4eJuPp6PcO4JgJ) | 2:16 |
 | 19 | [Golden Hour](https://open.spotify.com/track/0pMfPzdRiPAoSM9yWF4OcT) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Golden Hour](https://open.spotify.com/album/7f6xPqyaolTiziKf5R5Z0c) | 3:18 |
 | 20 | [justified](https://open.spotify.com/track/4wONXG4GqWSscEyZlx300W) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [star\-crossed](https://open.spotify.com/album/6y9LbrjY2TpaLvtbE7FTkc) | 3:00 |
@@ -57,4 +57,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO48Rn9u.md) - [plain]
 | 47 | [Somebody To Love](https://open.spotify.com/track/3EFbnBUr70peMlk8g5XzT3) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Pageant Material](https://open.spotify.com/album/5xxKrpAO6Toq1KmopQ4tox) | 3:13 |
 | 48 | [Blowin' Smoke](https://open.spotify.com/track/4oqD7zXh23uvf583rDkunI) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Same Trailer Different Park](https://open.spotify.com/album/6IGpQUt0KNi5rBUXZZOFI6) | 3:08 |
 
-Snapshot ID: `Mjg1MTQxOTUsMDAwMDAwMDAwNjEzNDBmYTEzMGI5ZTllMjI5ODdmOGVlZDAwYWZlMQ==`
+Snapshot ID: `Mjg1MTU2NjEsMDAwMDAwMDA5MzU5ODFkY2FkYjM4MmJmNGRlZjY1YWZhZjY2NzkzZA==`

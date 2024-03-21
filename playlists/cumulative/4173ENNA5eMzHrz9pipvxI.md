@@ -4,7 +4,7 @@
 
 > New and trending dance hits released by Spinnin' Records and its sublabels\. For more new Dance, click <a href="https://open.spotify.com/playlist/7FspvXYqFgcUdxn479q2pr?si=b45626bb4f804244">here</a>\. Cover: David Guetta &amp; MORTEN
 
-1,279 songs - 2 day 13 hr 9 min
+1,280 songs - 2 day 13 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1133,6 +1133,7 @@
 | [The Ride](https://open.spotify.com/track/6w5VrZqwVBOByJ1ySNVWpu) | [Breathe Carolina](https://open.spotify.com/artist/53M4Iv2RkzzxFFvW2B1jhC) | [The Ride](https://open.spotify.com/album/51hFBSQlIqazmmWCbTTo9y) | 2:51 | 2022-08-19 | 2022-09-03 |
 | [The Snake \(Rework\)](https://open.spotify.com/track/48rKy8DQRdIWzSoPiHxFk6) | [Antoine Delvig](https://open.spotify.com/artist/5akjwT4cQGhi5DLknDb0Wl), [Fred Pellichero](https://open.spotify.com/artist/4DcL9kyPZ3ZGPfB7fNPbrg) | [The Snake \(Rework\)](https://open.spotify.com/album/5O8IhUcBwChaIwbiN6Wl7w) | 2:38 | 2023-08-31 | 2023-09-26 |
 | [The Sound of Silence \- CYRIL Remix](https://open.spotify.com/track/32aeRhnsILUPSbPiH5x62t) | [Disturbed](https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa), [CYRIL](https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom) | [The Sound of Silence \(CYRIL Remix\)](https://open.spotify.com/album/2aj8dhy2wfAtzBwh0bYuQc) | 3:05 | 2024-02-02 | 2024-02-16 |
+| [The Truth](https://open.spotify.com/track/4gcErKcWZzQTeILJzIeXDS) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [MORTEN](https://open.spotify.com/artist/19HFRWmRCl27kTk6LeqAO8) | [The Future Is Now \- The Truth](https://open.spotify.com/album/1pa9ceQtw8p6Gl8EAY7ZIh) | 2:30 | 2024-03-20 |  |
 | [The Void](https://open.spotify.com/track/6xjtSlGoSQBsZqdpjU5Alm) | [NIVIRO](https://open.spotify.com/artist/2nsCjA4fEasmnlOK0wXU7T) | [The Void](https://open.spotify.com/album/3HH5h3BAgDYvaHz2B8obK5) | 4:44 | 2022-08-05 | 2022-08-20 |
 | [The Walk To Church](https://open.spotify.com/track/2mZRna9DI8dqUEt1JhZs6l) | [Jack Back](https://open.spotify.com/artist/4bXUaTjc7TQTvLqqCAlfYt), [Wh0](https://open.spotify.com/artist/132Hhe61bhvXtkygENHZHA), [Roland Clark](https://open.spotify.com/artist/4OGlp2UdUQGPJVbvJ82Cz5) | [The Walk To Church](https://open.spotify.com/album/51D8zWZh1XZ2XREofvYF8Q) | 3:18 | 2023-05-11 | 2023-05-26 |
 | [The Warehouse](https://open.spotify.com/track/3aGl9EKwX38Uob6MVtBDWw) | [Bhaskar](https://open.spotify.com/artist/6kT18gnkVrCz8xJQcrib7L), [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W) | [CONTROVERSIA by Bhaskar Vol\. 012](https://open.spotify.com/album/6Hb7MWG19j1LIHdYfkmcwe) | 3:11 | 2023-12-22 | 2024-01-13 |

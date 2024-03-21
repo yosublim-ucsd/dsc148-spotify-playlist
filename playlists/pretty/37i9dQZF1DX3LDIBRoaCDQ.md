@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3LDIBRoaCDQ.md) - [plain]
 
 > Classic songs that built the foundations of punk\. Cover: Johnny Rotten
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,560,963 likes - 100 songs - 4 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,561,192 likes - 100 songs - 4 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,11 +37,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3LDIBRoaCDQ.md) - [plain]
 | 27 | [Bloodstains \- Original Version](https://open.spotify.com/track/5E47rKJbS74jyLZaSgb0kS) | [Agent Orange](https://open.spotify.com/artist/1pBsvSnrhmgDZqisT13SFA) | [Living In Darkness \(30th Anniversary Edition\)](https://open.spotify.com/album/1IJw5lrtuyb72eDp8o0kas) | 1:53 |
 | 28 | [Sound System \- 2007 Remaster](https://open.spotify.com/track/4Pmo0mMgiyBCj1Zd7Axsi1) | [Operation Ivy](https://open.spotify.com/artist/18XRGxd1b484f2h06cwvJJ) | [Operation Ivy \(2007 Remaster\)](https://open.spotify.com/album/2Rv1kIWFeIYeq8kAtdhY6m) | 2:14 |
 | 29 | [Hong Kong Garden](https://open.spotify.com/track/5bxBosfOC3upyOK9tjxZ35) | [Siouxsie and the Banshees](https://open.spotify.com/artist/1n65zfwYIj5kKEtNgxUlWb) | [The Scream](https://open.spotify.com/album/3uMr78kOScjc6eLHMYcVl4) | 2:55 |
-| 30 | [Last Caress](https://open.spotify.com/track/0S8LgLoseDB6W2HWd1ym6P) | [Misfits](https://open.spotify.com/artist/1cXi8ALPQCBHZbf0EgP4Ey), [Glenn Danzig](https://open.spotify.com/artist/71OjDxLFjWGQFpzU1VpN5d) | [Collection 2](https://open.spotify.com/album/7dUrduNuWHYQ8pdDKtBedD) | 1:59 |
-| 31 | [Straight Edge](https://open.spotify.com/track/1x8N5sNHdQtY328uP5DxIp) | [Minor Threat](https://open.spotify.com/artist/07PiZYrhllpSXtELkUxlrf) | [First Two Seven Inches](https://open.spotify.com/album/6Sty6rLnMTXFjKxKUZEfmy) | 0:45 |
+| 30 | [Straight Edge](https://open.spotify.com/track/1x8N5sNHdQtY328uP5DxIp) | [Minor Threat](https://open.spotify.com/artist/07PiZYrhllpSXtELkUxlrf) | [First Two Seven Inches](https://open.spotify.com/album/6Sty6rLnMTXFjKxKUZEfmy) | 0:45 |
+| 31 | [Last Caress](https://open.spotify.com/track/0S8LgLoseDB6W2HWd1ym6P) | [Misfits](https://open.spotify.com/artist/1cXi8ALPQCBHZbf0EgP4Ey), [Glenn Danzig](https://open.spotify.com/artist/71OjDxLFjWGQFpzU1VpN5d) | [Collection 2](https://open.spotify.com/album/7dUrduNuWHYQ8pdDKtBedD) | 1:59 |
 | 32 | [White Riot \- Remastered](https://open.spotify.com/track/0brrVj6VnvrG70SjRTnEJA) | [The Clash](https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS) | [The Clash \(Remastered\)](https://open.spotify.com/album/49kzgMsxHU5CTeb2XmFHjo) | 1:56 |
-| 33 | [Amoeba](https://open.spotify.com/track/1xQE0QHrmJUQweLoMB0ZWC) | [Adolescents](https://open.spotify.com/artist/2sSmGd0x45FGBtjJwNBSFr) | [Adolescents](https://open.spotify.com/album/4qwDRyH5SwFcjyoOJKbE2d) | 3:06 |
-| 34 | [Anarchy in the U.K.](https://open.spotify.com/track/3LoDeIbiR12sAznmpNEmKA) | [Sex Pistols](https://open.spotify.com/artist/1u7kkVrr14iBvrpYnZILJR) | [Never Mind The Bollocks, Here's The Sex Pistols](https://open.spotify.com/album/5fxYu3rqjCNTSPKN8mtEl2) | 3:31 |
+| 33 | [Anarchy in the U.K.](https://open.spotify.com/track/3LoDeIbiR12sAznmpNEmKA) | [Sex Pistols](https://open.spotify.com/artist/1u7kkVrr14iBvrpYnZILJR) | [Never Mind The Bollocks, Here's The Sex Pistols](https://open.spotify.com/album/5fxYu3rqjCNTSPKN8mtEl2) | 3:31 |
+| 34 | [Amoeba](https://open.spotify.com/track/1xQE0QHrmJUQweLoMB0ZWC) | [Adolescents](https://open.spotify.com/artist/2sSmGd0x45FGBtjJwNBSFr) | [Adolescents](https://open.spotify.com/album/4qwDRyH5SwFcjyoOJKbE2d) | 3:06 |
 | 35 | [Rock 'n' Roll High School \- 2002 Remaster](https://open.spotify.com/track/4FzPIalyruWIiefI91qe4B) | [Ramones](https://open.spotify.com/artist/1co4F2pPNH8JjTutZkmgSm) | [End of the Century \(Expanded 2005 Remaster\)](https://open.spotify.com/album/4AZArreHFJ5m8mo1SZT3Iv) | 2:17 |
 | 36 | [No Control](https://open.spotify.com/track/0gbrepTKKXEYFQJ6tNCbid) | [Bad Religion](https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9) | [No Control](https://open.spotify.com/album/3efgo1fUo21py17Z7jGsle) | 1:46 |
 | 37 | [Rise Above](https://open.spotify.com/track/4kFfFe38CRVnTsakUTL4E4) | [Black Flag](https://open.spotify.com/artist/5Mhs3Eu8lU6sRCtRYsmABV) | [Damaged](https://open.spotify.com/album/34aFnrFRBlErcbU6moRZR3) | 2:26 |
@@ -61,9 +61,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3LDIBRoaCDQ.md) - [plain]
 | 51 | [Don't Want to Know If You Are Lonely](https://open.spotify.com/track/4tPFEWRuNQhibDQSGB2PVE) | [Hüsker Dü](https://open.spotify.com/artist/16bN8mhtDFdegWbg0z3s10) | [Candy Apple Grey](https://open.spotify.com/album/6zoU9wwvh8ETkMsWU3Mtv1) | 3:30 |
 | 52 | [Personality Crisis](https://open.spotify.com/track/4AwKXevZmsTNa3KZVj3rzl) | [New York Dolls](https://open.spotify.com/artist/0WhGV9lzljq2QKJ8ipw6jx) | [New York Dolls](https://open.spotify.com/album/2xbTV0Awe4Qm5caUVuPbMr) | 3:41 |
 | 53 | [I Can't Hardly Stand It](https://open.spotify.com/track/1gElMA7YL2UEE9njNW9eiR) | [The Cramps](https://open.spotify.com/artist/4lYtGx5NZQJHsMyhHc5iz3) | [Off The Bone](https://open.spotify.com/album/1n1znRLH7iRtkhjbrCs0wi) | 2:43 |
-| 54 | [Mannequin \- 2006 Remastered Version](https://open.spotify.com/track/5LEwYNnwG1RSVseSmMZQpo) | [Wire](https://open.spotify.com/artist/2i8ynmFv4qgRksyDlBgi6d) | [Pink Flag \(2006 Remastered Version\)](https://open.spotify.com/album/4WXqZZ28geJSPtqLcCF56L) | 2:37 |
+| 54 | [Sonic Reducer](https://open.spotify.com/track/678Fh7cIfN1sLqxsj5sc2G) | [Dead Boys](https://open.spotify.com/artist/4RjtLUZNqLtMpRKIOaVokc) | [Young, Loud And Snotty](https://open.spotify.com/album/6SiRxD9eeJELm4TR8C6MDJ) | 3:09 |
 | 55 | [Lexicon Devil](https://open.spotify.com/track/0Hl2Vuhhhh8buesoxUk1DW) | [Germs](https://open.spotify.com/artist/39zgKjGWsiZzJ9h6gbrPFY) | [GI](https://open.spotify.com/album/1dwzhoYlTd5ZgPygszllwo) | 1:44 |
-| 56 | [Sonic Reducer](https://open.spotify.com/track/678Fh7cIfN1sLqxsj5sc2G) | [Dead Boys](https://open.spotify.com/artist/4RjtLUZNqLtMpRKIOaVokc) | [Young, Loud And Snotty](https://open.spotify.com/album/6SiRxD9eeJELm4TR8C6MDJ) | 3:09 |
+| 56 | [Mannequin \- 2006 Remastered Version](https://open.spotify.com/track/5LEwYNnwG1RSVseSmMZQpo) | [Wire](https://open.spotify.com/artist/2i8ynmFv4qgRksyDlBgi6d) | [Pink Flag \(2006 Remastered Version\)](https://open.spotify.com/album/4WXqZZ28geJSPtqLcCF56L) | 2:37 |
 | 57 | [Six Pack](https://open.spotify.com/track/5Og9VyCOfxmZCuv1UhIyxE) | [Black Flag](https://open.spotify.com/artist/5Mhs3Eu8lU6sRCtRYsmABV) | [Damaged](https://open.spotify.com/album/34aFnrFRBlErcbU6moRZR3) | 2:20 |
 | 58 | [Sailin' On](https://open.spotify.com/track/4P8n1pWj2xQnaBjy1rvZ3o) | [Bad Brains](https://open.spotify.com/artist/1oVj9JmPUPg4SQ2uerV2xc) | [Bad Brains](https://open.spotify.com/album/4NpepcKo9rQ8nkdCB6iWMP) | 1:55 |
 | 59 | [Wild in the Streets](https://open.spotify.com/track/2teaBsajEi4BWAZOD92vmS) | [Circle Jerks](https://open.spotify.com/artist/4ubY8RYfXkcEqgjEMDuLYl) | [Wild in the Streets](https://open.spotify.com/album/2PbpUnB5bRMHTF5bVF9HQr) | 2:31 |
@@ -91,8 +91,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3LDIBRoaCDQ.md) - [plain]
 | 81 | [Babylon's Burning](https://open.spotify.com/track/3T4pAHAgTbvLgGfUcTdYKa) | [The Ruts](https://open.spotify.com/artist/1uJKSAvQROYPgm7qhZkqd3) | [The Crack](https://open.spotify.com/album/6BP8vPyK1EKId2CGoX1UKq) | 2:35 |
 | 82 | [Typical Girls](https://open.spotify.com/track/395kSI564E2Rl1Nh5kGOxQ) | [The Slits](https://open.spotify.com/artist/5O0RrEgz4NLCPLrDZiPggz) | [Cut \(Deluxe Edition\)](https://open.spotify.com/album/6ppPT0aXOtsAlG1QQVB9E0) | 3:55 |
 | 83 | [New Rose](https://open.spotify.com/track/2RqX92TwDYaChAyfX9tKMH) | [The Damned](https://open.spotify.com/artist/6VeL8VhaMjHTPc5uovFl3h) | [Damned Damned Damned \(Bonus Tracks Version\)](https://open.spotify.com/album/0iMjUB1YIMadcP8DClMDU2) | 2:44 |
-| 84 | [Natural's Not In It](https://open.spotify.com/track/42wVwmI5Vt9H5hwcXHg59E) | [Gang Of Four](https://open.spotify.com/artist/3AmWjMXXtBJOmNGpUFSOAl) | [Entertainment!](https://open.spotify.com/album/7LMOo068Ndv0wjTGUDtYqK) | 3:06 |
-| 85 | [Circles](https://open.spotify.com/track/6JLYifKMF5DbeyxsVvGubh) | [Dag Nasty](https://open.spotify.com/artist/2KytjqKNcs59u2JaCKNT9E) | [Can I Say](https://open.spotify.com/album/6eSqKJG6HCmYmUUrJWtR93) | 2:46 |
+| 84 | [Circles](https://open.spotify.com/track/6JLYifKMF5DbeyxsVvGubh) | [Dag Nasty](https://open.spotify.com/artist/2KytjqKNcs59u2JaCKNT9E) | [Can I Say](https://open.spotify.com/album/6eSqKJG6HCmYmUUrJWtR93) | 2:46 |
+| 85 | [Natural's Not In It](https://open.spotify.com/track/42wVwmI5Vt9H5hwcXHg59E) | [Gang Of Four](https://open.spotify.com/artist/3AmWjMXXtBJOmNGpUFSOAl) | [Entertainment!](https://open.spotify.com/album/7LMOo068Ndv0wjTGUDtYqK) | 3:06 |
 | 86 | [Sick Boy](https://open.spotify.com/track/5C4WHeZnTBbrWE1NQgBHMe) | [GBH](https://open.spotify.com/artist/0yqupKw0GMDWXHpsxCPysY) | [City Baby Attacked By Rats \(Expanded Version\)](https://open.spotify.com/album/1LieP8zDeCySTx04W66xX5) | 2:32 |
 | 87 | [Dean's Dream](https://open.spotify.com/track/7zkGSISikPcskwsVQ5vKqW) | [The Dead Milkmen](https://open.spotify.com/artist/2fhngmJMaaKcdhXHCa4cPK) | [Big Lizard In My Backyard](https://open.spotify.com/album/6N8dOvnSvUMYQWBxC4uZeV) | 1:49 |
 | 88 | [Gimme Gimme Shock Treatment \- 2017 Remaster](https://open.spotify.com/track/3YD5vO3TvQRoqfU3NYYWnN) | [Ramones](https://open.spotify.com/artist/1co4F2pPNH8JjTutZkmgSm) | [Leave Home \(40th Anniversary Deluxe Edition\)](https://open.spotify.com/album/0iDP2ZcQErXlNrBYFjaaId) | 1:44 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3LDIBRoaCDQ.md) - [plain]
 | 99 | [One Hundred Punks \- 2002 Remaster](https://open.spotify.com/track/0dejbz6pvFcYYuJMGcM5Wt) | [Generation X](https://open.spotify.com/artist/1inWec2E2UgfzMAhwjgTXe) | [Generation X \(2002 Remaster\)](https://open.spotify.com/album/4O4sXIYGAxA7hrC6tAnyl0) | 3:07 |
 | 100 | [I Love Livin' in the City](https://open.spotify.com/track/0qHt7KGw9LPm4Ms4qUZlSd) | [Fear](https://open.spotify.com/artist/0hPU1czS0JdstuT8VRtBPS) | [The Record](https://open.spotify.com/album/5n0IOSvGqBJf92LorDWvRE) | 2:05 |
 
-Snapshot ID: `MCw2MDQ3Njc2MWFlMTExZWZkYTgxYWIyMmI3MGE3NzI2MTE1N2Q1NGNk`
+Snapshot ID: `MCwwOTQ4OWI3NDFkNjYzYmVjNDRhNGQ5N2NjZjcwZDIzZTFmZGQ4YmY2`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3xuDGW6ByRP.md) - [plain]
 
 > as novas de pop rock br / Foto: TINN
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,025 likes - 85 songs - 4 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,035 likes - 85 songs - 4 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,8 +56,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3xuDGW6ByRP.md) - [plain]
 | 46 | [Muito Além](https://open.spotify.com/track/5Sj1roiO5NxZKpkTnGnlkL) | [DAY LIMNS](https://open.spotify.com/artist/1x1qM3ZqHhJOn11m42svnc), [Di Ferrero](https://open.spotify.com/artist/2aimTInXI8IgnUeEwu25mB) | [Muito Além](https://open.spotify.com/album/1FYjcxWp3R3dmBhjtjV3vo) | 2:48 |
 | 47 | [NUNCA VOU TE PERDOAR](https://open.spotify.com/track/375FOAahZKZhCvBAGnEb7t) | [TINN](https://open.spotify.com/artist/36I80iG1HUNzgtpM34yJlq) | [NUNCA VOU TE PERDOAR](https://open.spotify.com/album/0HFNiOy2tabQwDMTqRxmOD) | 2:36 |
 | 48 | [Teu Pescoço](https://open.spotify.com/track/4NZJGR8aUHBcUn9dOKGVJC) | [Thiago Pantaleão](https://open.spotify.com/artist/70HOdlw2Ud3B4A7W4CI1V6), [DAY LIMNS](https://open.spotify.com/artist/1x1qM3ZqHhJOn11m42svnc), [Ruxell](https://open.spotify.com/artist/5H3IVg3012xSskH8ZjKwDg) | [Fim do Mundo](https://open.spotify.com/album/6an1lO7NMDUWg6eLPZQhVw) | 2:55 |
-| 49 | [Hoje eu não vim falar de Amor](https://open.spotify.com/track/6anYWyiQuRfLFrVWP5Gc8R) | [Hotelo](https://open.spotify.com/artist/11LYUBREaqNaJcruqe26lH) | [Hoje eu não vim falar de Amor](https://open.spotify.com/album/4oc0QwQpt6HcT0TAArIwH7) | 3:48 |
-| 50 | [Obscuro](https://open.spotify.com/track/2Rh1qXTvyZ6u00yVS1kzhS) | [Scalene](https://open.spotify.com/artist/4PTd1rpXV7XDffOuLY7M0z) | [Obscuro](https://open.spotify.com/album/5Aj7XX2oSqwb5ZrxrntSb6) | 3:38 |
+| 49 | [Obscuro](https://open.spotify.com/track/2Rh1qXTvyZ6u00yVS1kzhS) | [Scalene](https://open.spotify.com/artist/4PTd1rpXV7XDffOuLY7M0z) | [Obscuro](https://open.spotify.com/album/5Aj7XX2oSqwb5ZrxrntSb6) | 3:38 |
+| 50 | [Hoje eu não vim falar de Amor](https://open.spotify.com/track/6anYWyiQuRfLFrVWP5Gc8R) | [Hotelo](https://open.spotify.com/artist/11LYUBREaqNaJcruqe26lH) | [Hoje eu não vim falar de Amor](https://open.spotify.com/album/4oc0QwQpt6HcT0TAArIwH7) | 3:48 |
 | 51 | [INTENSAMENTE](https://open.spotify.com/track/5XNHFSi9krUa5Ikw1fJK4K) | [Di Ferrero](https://open.spotify.com/artist/2aimTInXI8IgnUeEwu25mB), [Vitor Kley](https://open.spotify.com/artist/4FGcERJWMg8ENOLixwF71U) | [INTENSAMENTE](https://open.spotify.com/album/1S03QGdOVgnsPM2JmoJkte) | 2:58 |
 | 52 | [Emocionado](https://open.spotify.com/track/0cSQ6uPHR8IHL3QfYe7n8j) | [Ana Laura Lopes](https://open.spotify.com/artist/0uGD30yANzeWbNUAQoiJF2) | [Emocionado](https://open.spotify.com/album/4EsncwoboDBXFxpFKG8Khj) | 2:47 |
 | 53 | [Vampira \- Remix](https://open.spotify.com/track/6xVXGHIp2UaCQIu68ZlyaJ) | [Mia Badgyal](https://open.spotify.com/artist/4fEVOU30FExLu4AzdKtyqc), [DAY LIMNS](https://open.spotify.com/artist/1x1qM3ZqHhJOn11m42svnc) | [Vampira \(Remix\)](https://open.spotify.com/album/5a1QHyVkFNM1paAMHIZZ3B) | 2:58 |
@@ -76,9 +76,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3xuDGW6ByRP.md) - [plain]
 | 66 | [Coração Solto](https://open.spotify.com/track/6CFnUyz3OcgGRUMRzr3jvY) | [Cacá Magalhães](https://open.spotify.com/artist/0kV11iUwok3iJ3p32ollyk) | [Só Sinto](https://open.spotify.com/album/1B69BwQ41WdWl3d0etscfA) | 2:21 |
 | 67 | [Andar 14](https://open.spotify.com/track/4mric8489EFF7DxpQfonKw) | [Lucas Andrade](https://open.spotify.com/artist/3oWuBS8Vm0T8JzhRB8wOZm), [Mayra](https://open.spotify.com/artist/3XSWVsSggcTo6Bv8pcDqnt) | [Andar 14](https://open.spotify.com/album/2ZaCdkFUHGtBohD7o763cK) | 2:53 |
 | 68 | [Maria](https://open.spotify.com/track/7yEOFcyCeH9HYxC9EmJsIA) | [CHADY](https://open.spotify.com/artist/61cC0qxfveBuryvFL2y1l8) | [Maria](https://open.spotify.com/album/5w9jRpGEp94tsWJdmolcVF) | 2:41 |
-| 69 | [ANTISSOCIAL](https://open.spotify.com/track/5vkLsYCrNiD56XifYnIBo9) | [Carol & Vitoria](https://open.spotify.com/artist/5zA07XrRPmMYEAdwtfRtSD) | [ANTISSOCIAL](https://open.spotify.com/album/3VQBBPFAWLwpMtiEurj5sW) | 2:26 |
+| 69 | [VOU ALI DORMIR](https://open.spotify.com/track/1Lppb1QwW9QtASjtJqkTZB) | [BAKA](https://open.spotify.com/artist/5LTxdV6qfcrjaJfjKkZu3o) | [EMO NAS BAHAMAS](https://open.spotify.com/album/4bxAIoM4FOEzDDROUyYEX7) | 2:28 |
 | 70 | [vc n gosta de garotas](https://open.spotify.com/track/5UrGg0ymrA2Vu0eVT2rbr4) | [lalalaura](https://open.spotify.com/artist/0xzFVGq4LIQxHwcTkUZACD) | [vc n gosta de garotas](https://open.spotify.com/album/5b806Xi9jTAm6IPllA4tob) | 2:12 |
-| 71 | [VOU ALI DORMIR](https://open.spotify.com/track/1Lppb1QwW9QtASjtJqkTZB) | [BAKA](https://open.spotify.com/artist/5LTxdV6qfcrjaJfjKkZu3o) | [EMO NAS BAHAMAS](https://open.spotify.com/album/4bxAIoM4FOEzDDROUyYEX7) | 2:28 |
+| 71 | [ANTISSOCIAL](https://open.spotify.com/track/5vkLsYCrNiD56XifYnIBo9) | [Carol & Vitoria](https://open.spotify.com/artist/5zA07XrRPmMYEAdwtfRtSD) | [ANTISSOCIAL](https://open.spotify.com/album/3VQBBPFAWLwpMtiEurj5sW) | 2:26 |
 | 72 | [MINHA RELIGIÃO](https://open.spotify.com/track/4sYeYCVsVIphRn8F1C27s4) | [DAY LIMNS](https://open.spotify.com/artist/1x1qM3ZqHhJOn11m42svnc) | [MINHA RELIGIÃO](https://open.spotify.com/album/2pIHcNnoZyzf0eLWIlT3u9) | 2:33 |
 | 73 | [FORA DE SI](https://open.spotify.com/track/55Glu5AJDiVpUOLmxaTFoc) | [Ciça Moreira](https://open.spotify.com/artist/6d4FihzI3byHpea2O2SCJt) | [FORA DE SI](https://open.spotify.com/album/7xeqEfqU6k9VIbm9v9HD17) | 2:22 |
 | 74 | [Tonto, Mole, Trouxa \(e meio devagar\)](https://open.spotify.com/track/58SoniG3NQ8ZyyTr4jkU4P) | [Hotelo](https://open.spotify.com/artist/11LYUBREaqNaJcruqe26lH) | [Tonto, Mole, Trouxa \(e meio devagar\)](https://open.spotify.com/album/4n8PxOVREWt1CjeCKnJmYB) | 2:11 |
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3xuDGW6ByRP.md) - [plain]
 | 84 | [Mete o Pé](https://open.spotify.com/track/3Vl9ta4Cyr58nDn2XAJEjF) | [Marô](https://open.spotify.com/artist/7EFHe9IRYS8gKgtrGCV14u) | [Mete o Pé](https://open.spotify.com/album/1d9bZ6LXQ38biZ5U4ELM3n) | 2:22 |
 | 85 | [A Cura](https://open.spotify.com/track/4xawu6VJn17igipPIGayeU) | [Mayra](https://open.spotify.com/artist/3XSWVsSggcTo6Bv8pcDqnt) | [A Cura](https://open.spotify.com/album/2kpzLThPuJZYuZSLTX6w6c) | 3:27 |
 
-Snapshot ID: `MCwyNWI5MTIzZjNlMDFkYmFiZWEzZTBiNGU5ZjJmMDQ1YzcyNjdkNjY5`
+Snapshot ID: `MCw0M2I2YmYwYmNlMDc2YmZlYzA1MDY1ODk1Mzc2MDMyOGIzN2MzNTcw`

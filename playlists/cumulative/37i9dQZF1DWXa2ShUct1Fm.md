@@ -4,7 +4,7 @@
 
 > Say the name, Seventeen! Carats, get ready to slip into the diamond life with your 13 shining diamonds.
 
-206 songs - 11 hr 33 min
+207 songs - 11 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -130,6 +130,7 @@
 | [Light a Flame](https://open.spotify.com/track/2QeqvHnADmf2fN5sowptuO) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [; \[Semicolon\]](https://open.spotify.com/album/1EMYSiKKTSKLZrOC2nTStL) | 3:09 | 2022-05-27 |  |
 | [Lilili Yabbay](https://open.spotify.com/track/55M6WlPDc8WID9UcmWjbYM) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [SEVENTEEN 2ND ALBUM 'TEEN, AGE' \(2\)](https://open.spotify.com/album/5aHdNainJWMc3n2AqfiOg5) | 3:31 | 2022-05-27 |  |
 | [LIMBO \(Korean Version\)](https://open.spotify.com/track/54p6HYutzI4V4aXN0UiJ8n) | [JUN](https://open.spotify.com/artist/38Gn0ZVC8TQwuaMxBK1yRV) | [LIMBO](https://open.spotify.com/album/29gF3Vhnhbl33dNe9VPRkJ) | 3:10 | 2022-10-03 |  |
+| [Lonely Stars \(Korean Ver.\)](https://open.spotify.com/track/5EIMmyT519rdZzdeSGEj0m) | [SEUNGKWAN](https://open.spotify.com/artist/0Vb2DjojEYsasFpc3aTZb6) | [Lonely Stars](https://open.spotify.com/album/01Jmjq2ScXdj8hufqKXrlP) | 4:06 | 2024-03-20 |  |
 | [Looped Up \(feat\. VERNON\)](https://open.spotify.com/track/5InZzHAvyMPSMEXT4AeDQ3) | [tobi lou](https://open.spotify.com/artist/4T8NIfZmVY6TJFqVzN6X49), [VERNON](https://open.spotify.com/artist/2Y34b9AOK30zXgL7cAH4NG) | [Live on Ice](https://open.spotify.com/album/6K7SjlIebufubxXGf4uA7a) | 4:31 | 2022-05-27 |  |
 | [Lotto \(feat.Don Mills\) \(Prod\. by Gonzo\)](https://open.spotify.com/track/1Jg92FCIcH6fcAl30QZfZi) | [VERNON](https://open.spotify.com/artist/2Y34b9AOK30zXgL7cAH4NG), [Don Mills](https://open.spotify.com/artist/6bIsFWNkjQvSm5P4rqlxKn) | [Lotto](https://open.spotify.com/album/2QVaWXBBQMxUQBADLgGLIV) | 3:25 | 2022-05-27 |  |
 | [Love Letter](https://open.spotify.com/track/5UZJPEEup9UVUojRKXcv0f) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [SEVENTEEN 1ST ALBUM \[FIRST ‘LOVE&LETTER’\]](https://open.spotify.com/album/50BrkBakrLWufmTLjCVBwn) | 2:58 | 2022-05-27 |  |

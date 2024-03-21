@@ -1,5 +1,5 @@
 {
-  "2024-03-20": 1330700,
+  "2024-03-21": 1330905,
   "date_first_scraped": "2021-03-27",
   "description": "Your daily update of the most played tracks right now - Philippines.",
   "name": "Top 50 - Philippines",
@@ -101,6 +101,24 @@
       "duration_ms": 167693,
       "name": "10,000 Hours (with Justin Bieber)",
       "url": "https://open.spotify.com/track/2wrJq5XKLnmhRXHIAf9xBa"
+    },
+    {
+      "album": {
+        "name": "Fuchsiang Pag-Ibig",
+        "url": "https://open.spotify.com/album/6MC4GloSqK2sSTLeYImDV3"
+      },
+      "artists": [
+        {
+          "name": "Silent Sanctuary",
+          "url": "https://open.spotify.com/artist/4nGp682WMiKS4X217kPw8C"
+        }
+      ],
+      "date_added": "2024-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 361813,
+      "name": "14",
+      "url": "https://open.spotify.com/track/7KD8oUUpidul2ROxTIhPAw"
     },
     {
       "album": {
@@ -14789,7 +14807,7 @@
       ],
       "date_added": "2024-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-20",
       "duration_ms": 266773,
       "name": "Yellow",
       "url": "https://open.spotify.com/track/3AJwUDP919kvQ9QcozQPxg"

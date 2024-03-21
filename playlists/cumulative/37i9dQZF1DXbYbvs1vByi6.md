@@ -4,7 +4,7 @@
 
 > Non\-stop energy, riffs and belters.\. it never gets old, no guest list required.
 
-101 songs - 6 hr 3 min
+102 songs - 6 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -86,6 +86,7 @@
 | [Pacifier](https://open.spotify.com/track/1rcu88dzWE5GyqtpuWvd0C) | [Catfish and the Bottlemen](https://open.spotify.com/artist/2xaAOVImG2O6lURwqperlD) | [The Balcony](https://open.spotify.com/album/0C0OFASoQC57yC12vQhCwN) | 3:57 | 2022-12-28 |  |
 | [Paris \- Aeroplane Remix](https://open.spotify.com/track/4hHjWMWYIuAFVa5RQZJFIP) | [Friendly Fires](https://open.spotify.com/artist/3mZqziCJj4pq3P2VBpmK6p), [Aeroplane](https://open.spotify.com/artist/31CtLHmSL7Oa7TPU9YyBEu) | [Friendly Fires](https://open.spotify.com/album/3K9dieeJJ3mDIwvz9t3bxK) | 7:45 | 2023-05-17 | 2023-05-26 |
 | [Pieces of What](https://open.spotify.com/track/6wxDu7ISgm5nppPMea4W7D) | [MGMT](https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE) | [Oracular Spectacular](https://open.spotify.com/album/6mm1Skz3JE6AXneya9Nyiv) | 2:43 | 2023-05-17 | 2023-05-26 |
+| [Pogo](https://open.spotify.com/track/1YPxUUih6iIQsCshtPkv2L) | [Digitalism](https://open.spotify.com/artist/2fBURuq7FrlH6z5F92mpOl) | [Idealism](https://open.spotify.com/album/7uzG4xCD4Vw4PfgoHFhFmM) | 3:46 | 2023-05-25 |  |
 | [Pogo](https://open.spotify.com/track/67y8hDBlt0p74eeRwKz1KJ) | [Digitalism](https://open.spotify.com/artist/2fBURuq7FrlH6z5F92mpOl) | [Idealism](https://open.spotify.com/album/50MnC37ZrDB6U94K6M1do8) | 3:46 | 2022-12-28 | 2024-03-10 |
 | [Punching In A Dream](https://open.spotify.com/track/5PtEpuVX03k9bOUwilL5EO) | [The Naked And Famous](https://open.spotify.com/artist/0oeUpvxWsC8bWS6SnpU8b9) | [Passive Me, Aggressive You](https://open.spotify.com/album/5ImvJCAX33Pt2XGMaYaMia) | 3:58 | 2023-05-17 | 2023-05-26 |
 | [Puppets](https://open.spotify.com/track/2PsLV8lSiLRUX3sM2z2cJj) | [Corella](https://open.spotify.com/artist/5LoyxydilSHtcohX3rSRXe) | [Puppets](https://open.spotify.com/album/3XCP14sdQvaGINdEOEEOvw) | 2:29 | 2022-12-28 |  |
@@ -100,7 +101,7 @@
 | [Take Me Out](https://open.spotify.com/track/20I8RduZC2PWMWTDCZuuAN) | [Franz Ferdinand](https://open.spotify.com/artist/0XNa1vTidXlvJ2gHSsRi4A) | [Franz Ferdinand](https://open.spotify.com/album/0vi5ePiEHrGZJF7QhnDW2z) | 3:57 | 2022-12-28 |  |
 | [Thank God I'm Not You](https://open.spotify.com/track/65cQN8pUC0dkKryUhEqJPh) | [HIMALAYAS](https://open.spotify.com/artist/71NBOcJ9lMeXqnbnya1z0x) | [Thank God I'm Not You](https://open.spotify.com/album/0AnzrEVccYHdrlJd1G5Qpy) | 3:14 | 2022-12-28 |  |
 | [The Bitter End](https://open.spotify.com/track/2yYASbXnAV71CLbNY1HCWf) | [Placebo](https://open.spotify.com/artist/6RZUqkomCmb8zCRqc9eznB) | [Sleeping With Ghosts](https://open.spotify.com/album/2toHnQWm3IbSocaWGYi9J4) | 3:10 | 2022-12-28 |  |
-| [The Old Style Raiders](https://open.spotify.com/track/07wuA7wnqcAEi1pWm9hXYW) | [Jamie T](https://open.spotify.com/artist/3Rsr4Z96O6U3lToOiV3zBh) | [The Theory Of Whatever](https://open.spotify.com/album/5kyMgf8ogldA8iLY9ppyAV) | 3:55 | 2022-12-28 |  |
+| [The Old Style Raiders](https://open.spotify.com/track/07wuA7wnqcAEi1pWm9hXYW) | [Jamie T](https://open.spotify.com/artist/3Rsr4Z96O6U3lToOiV3zBh) | [The Theory Of Whatever](https://open.spotify.com/album/5kyMgf8ogldA8iLY9ppyAV) | 3:55 | 2022-12-28 | 2024-03-21 |
 | [The Wall](https://open.spotify.com/track/0A3aCwiI2RedsGayLdhTjH) | [Yuck](https://open.spotify.com/artist/6l3BRLCpzfC8yxqf9thWAg) | [Yuck](https://open.spotify.com/album/6QnitwXJs3b2fbf9Cbdp6x) | 3:56 | 2023-05-17 | 2023-05-26 |
 | [Two Steps, Twice](https://open.spotify.com/track/2K1upo7TEAIMVd9D9FDhrx) | [Foals](https://open.spotify.com/artist/6FQqZYVfTNQ1pCqfkwVFEa) | [Antidotes](https://open.spotify.com/album/5zUndTRjHpsB5UTsPp5MeM) | 4:39 | 2023-05-17 | 2023-09-02 |
 | [Walking On A Dream](https://open.spotify.com/track/5r5cp9IpziiIsR6b93vcnQ) | [Empire of the Sun](https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c) | [Walking On A Dream \(10th Anniversary Edition\)](https://open.spotify.com/album/5B6XfyHHYawyLkEvNvhSPh) | 3:18 | 2023-05-17 | 2023-05-26 |

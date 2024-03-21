@@ -4,7 +4,7 @@
 
 > Pop Anglo para acompañar tus mejores momentos\. Foto: Dua Lipa
 
-209 songs - 11 hr 28 min
+210 songs - 11 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -119,7 +119,8 @@
 | [Love On](https://open.spotify.com/track/2fB5YRuD88drKpCXQOAk03) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [Love On](https://open.spotify.com/album/7I7rbWQoLZ7PrTMsRfocpL) | 3:01 | 2024-02-23 |  |
 | [Love Story \(Taylor’s Version\)](https://open.spotify.com/track/3CeCwYWvdfXbZLXFhBrbnf) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Love Story \(Taylor’s Version\)](https://open.spotify.com/album/4j2syEjl3h1To8KbRgvmJn) | 3:55 | 2023-03-10 | 2023-03-25 |
 | [Love Story \(Taylor’s Version\)](https://open.spotify.com/track/6YvqWjhGD8mB5QXcbcUKtx) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Fearless \(Taylor's Version\)](https://open.spotify.com/album/4hDok0OAJd57SGIT8xuWJH) | 3:55 | 2023-03-24 | 2023-05-27 |
-| [Love's Train](https://open.spotify.com/track/60gTdTwaNtGAzIxKfeGVfJ) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [Silk Sonic](https://open.spotify.com/artist/6PvvGcCY2XtUcSRld1Wilr) | [Love's Train](https://open.spotify.com/album/6QKXGIgwWmWBMmIktMOchR) | 5:07 | 2023-03-10 |  |
+| [Love's Train](https://open.spotify.com/track/2JUQ7mV1AHk2owXLydmN4Z) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [Silk Sonic](https://open.spotify.com/artist/6PvvGcCY2XtUcSRld1Wilr) | [An Evening With Silk Sonic](https://open.spotify.com/album/1YgekJJTEueWDaMr7BYqPk) | 5:07 | 2024-03-08 |  |
+| [Love's Train](https://open.spotify.com/track/60gTdTwaNtGAzIxKfeGVfJ) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [Silk Sonic](https://open.spotify.com/artist/6PvvGcCY2XtUcSRld1Wilr) | [Love's Train](https://open.spotify.com/album/6QKXGIgwWmWBMmIktMOchR) | 5:07 | 2023-03-10 | 2024-03-21 |
 | [Me Myself & I](https://open.spotify.com/track/78Qk1m8zbvvvrmWH2M1yxT) | [5 Seconds of Summer](https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy) | [5SOS5](https://open.spotify.com/album/26uA5pGrTovBLxikRsMQJ4) | 2:57 | 2023-03-10 | 2023-11-04 |
 | [Me Myself & I](https://open.spotify.com/track/7JJshKQ0Wlu6bZwqamulCE) | [5 Seconds of Summer](https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy) | [5SOS5](https://open.spotify.com/album/6aPyqaE53xagYyLIYZjB1e) | 2:57 | 2023-10-27 |  |
 | [Meltdown](https://open.spotify.com/track/0hIDcUm3mJEn4gNo2ocLM5) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [The Show](https://open.spotify.com/album/7CwQcswdSnPsSwQtskEmT4) | 2:33 | 2023-05-26 | 2023-07-22 |

@@ -1,12 +1,12 @@
 {
   "description": "Get ready for good feels and fireworks!",
-  "num_followers": 160784,
+  "num_followers": 160772,
   "original_name": "4th of July Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1YzI4ODBkOWMzNmJkMGVmZDI2ZWFjYTZiZWQ4Yzk3MWY4YjkxZmEy",
+  "snapshot_id": "MCw4NzI2MGFjMjM2NjVkN2FhYzFmNzQ5NTA1YzNiYzdjZGM5ZmY0OGMw",
   "tracks": [
     {
       "added_at": "2023-07-03 01:56:32",
@@ -219,22 +219,6 @@
     {
       "added_at": "2023-07-03 01:56:32",
       "album": {
-        "name": "Rumours (Super Deluxe)",
-        "url": "https://open.spotify.com/album/0BwWUstDMUbgq2NYONRqlu"
-      },
-      "artists": [
-        {
-          "name": "Fleetwood Mac",
-          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
-        }
-      ],
-      "duration_ms": 257800,
-      "name": "Dreams - 2004 Remaster",
-      "url": "https://open.spotify.com/track/0ofHAoxe9vBkTCp2UQIavz"
-    },
-    {
-      "added_at": "2023-07-03 01:56:32",
-      "album": {
         "name": "Hollywood's Bleeding",
         "url": "https://open.spotify.com/album/4g1ZRSobMefqF6nelkgibi"
       },
@@ -247,6 +231,22 @@
       "duration_ms": 215280,
       "name": "Circles",
       "url": "https://open.spotify.com/track/21jGcNKet2qwijlDFuPiPb"
+    },
+    {
+      "added_at": "2023-07-03 01:56:32",
+      "album": {
+        "name": "Rumours (Super Deluxe)",
+        "url": "https://open.spotify.com/album/0BwWUstDMUbgq2NYONRqlu"
+      },
+      "artists": [
+        {
+          "name": "Fleetwood Mac",
+          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
+        }
+      ],
+      "duration_ms": 257800,
+      "name": "Dreams - 2004 Remaster",
+      "url": "https://open.spotify.com/track/0ofHAoxe9vBkTCp2UQIavz"
     },
     {
       "added_at": "2023-07-03 01:56:32",
@@ -355,22 +355,6 @@
     {
       "added_at": "2023-07-03 01:56:32",
       "album": {
-        "name": "Blowin' Your Mind!",
-        "url": "https://open.spotify.com/album/7dsWupQRlFuhG8FGiQAUjC"
-      },
-      "artists": [
-        {
-          "name": "Van Morrison",
-          "url": "https://open.spotify.com/artist/44NX2ffIYHr6D4n7RaZF7A"
-        }
-      ],
-      "duration_ms": 183306,
-      "name": "Brown Eyed Girl",
-      "url": "https://open.spotify.com/track/3yrSvpt2l1xhsV9Em88Pul"
-    },
-    {
-      "added_at": "2023-07-03 01:56:32",
-      "album": {
         "name": "An Innocent Man",
         "url": "https://open.spotify.com/album/3R3x4zIabsvpD3yxqLaUpc"
       },
@@ -383,6 +367,22 @@
       "duration_ms": 197706,
       "name": "Uptown Girl",
       "url": "https://open.spotify.com/track/5zA8vzDGqPl2AzZkEYQGKh"
+    },
+    {
+      "added_at": "2023-07-03 01:56:32",
+      "album": {
+        "name": "Blowin' Your Mind!",
+        "url": "https://open.spotify.com/album/7dsWupQRlFuhG8FGiQAUjC"
+      },
+      "artists": [
+        {
+          "name": "Van Morrison",
+          "url": "https://open.spotify.com/artist/44NX2ffIYHr6D4n7RaZF7A"
+        }
+      ],
+      "duration_ms": 183306,
+      "name": "Brown Eyed Girl",
+      "url": "https://open.spotify.com/track/3yrSvpt2l1xhsV9Em88Pul"
     },
     {
       "added_at": "2023-07-03 01:56:32",
@@ -555,22 +555,6 @@
     {
       "added_at": "2023-07-03 01:56:32",
       "album": {
-        "name": "G I R L",
-        "url": "https://open.spotify.com/album/0lrmy4pJINsFzycJvttX2W"
-      },
-      "artists": [
-        {
-          "name": "Pharrell Williams",
-          "url": "https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8"
-        }
-      ],
-      "duration_ms": 232720,
-      "name": "Happy - From \"Despicable Me 2\"",
-      "url": "https://open.spotify.com/track/60nZcImufyMA1MKQY3dcCH"
-    },
-    {
-      "added_at": "2023-07-03 01:56:32",
-      "album": {
         "name": "September (sped up + slowed)",
         "url": "https://open.spotify.com/album/3p90GIjEg4gXpnLmwGGvzI"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 216022,
       "name": "September",
       "url": "https://open.spotify.com/track/3kXoKlD84c6OmIcOLfrfEs"
+    },
+    {
+      "added_at": "2023-07-03 01:56:32",
+      "album": {
+        "name": "G I R L",
+        "url": "https://open.spotify.com/album/0lrmy4pJINsFzycJvttX2W"
+      },
+      "artists": [
+        {
+          "name": "Pharrell Williams",
+          "url": "https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8"
+        }
+      ],
+      "duration_ms": 232720,
+      "name": "Happy - From \"Despicable Me 2\"",
+      "url": "https://open.spotify.com/track/60nZcImufyMA1MKQY3dcCH"
     },
     {
       "added_at": "2023-07-03 01:56:32",
@@ -875,22 +875,6 @@
     {
       "added_at": "2023-07-03 01:56:32",
       "album": {
-        "name": "Rocky IV",
-        "url": "https://open.spotify.com/album/3t3BbpFJiGcXl4jI5CRLLA"
-      },
-      "artists": [
-        {
-          "name": "Survivor",
-          "url": "https://open.spotify.com/artist/26bcq2nyj5GB7uRr558iQg"
-        }
-      ],
-      "duration_ms": 245640,
-      "name": "Eye of the Tiger",
-      "url": "https://open.spotify.com/track/2KH16WveTQWT6KOG9Rg6e2"
-    },
-    {
-      "added_at": "2023-07-03 01:56:32",
-      "album": {
         "name": "Leftoverture (Expanded Edition)",
         "url": "https://open.spotify.com/album/7MejfRSNnrpcLZIxkeZDqR"
       },
@@ -903,6 +887,22 @@
       "duration_ms": 323000,
       "name": "Carry on Wayward Son",
       "url": "https://open.spotify.com/track/4DMKwE2E2iYDKY01C335Uw"
+    },
+    {
+      "added_at": "2023-07-03 01:56:32",
+      "album": {
+        "name": "Rocky IV",
+        "url": "https://open.spotify.com/album/3t3BbpFJiGcXl4jI5CRLLA"
+      },
+      "artists": [
+        {
+          "name": "Survivor",
+          "url": "https://open.spotify.com/artist/26bcq2nyj5GB7uRr558iQg"
+        }
+      ],
+      "duration_ms": 245640,
+      "name": "Eye of the Tiger",
+      "url": "https://open.spotify.com/track/2KH16WveTQWT6KOG9Rg6e2"
     },
     {
       "added_at": "2023-07-03 01:56:32",
@@ -939,6 +939,22 @@
     {
       "added_at": "2023-07-03 01:56:32",
       "album": {
+        "name": "Crash My Party",
+        "url": "https://open.spotify.com/album/5M8gr5RV2eR6UkztC69ogB"
+      },
+      "artists": [
+        {
+          "name": "Luke Bryan",
+          "url": "https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I"
+        }
+      ],
+      "duration_ms": 226866,
+      "name": "Play It Again",
+      "url": "https://open.spotify.com/track/03fT3OHB9KyMtGMt2zwqCT"
+    },
+    {
+      "added_at": "2023-07-03 01:56:32",
+      "album": {
         "name": "I Am",
         "url": "https://open.spotify.com/album/4RLVTxnuVN5ZWZqBFnaaQt"
       },
@@ -959,22 +975,6 @@
     {
       "added_at": "2023-07-03 01:56:32",
       "album": {
-        "name": "Crash My Party",
-        "url": "https://open.spotify.com/album/5M8gr5RV2eR6UkztC69ogB"
-      },
-      "artists": [
-        {
-          "name": "Luke Bryan",
-          "url": "https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I"
-        }
-      ],
-      "duration_ms": 226866,
-      "name": "Play It Again",
-      "url": "https://open.spotify.com/track/03fT3OHB9KyMtGMt2zwqCT"
-    },
-    {
-      "added_at": "2023-07-03 01:56:32",
-      "album": {
         "name": "Looking Glass",
         "url": "https://open.spotify.com/album/5ThwnbpYrk9R1xXkAGCLIs"
       },
@@ -987,22 +987,6 @@
       "duration_ms": 186826,
       "name": "Brandy (You're a Fine Girl)",
       "url": "https://open.spotify.com/track/2BY7ALEWdloFHgQZG6VMLA"
-    },
-    {
-      "added_at": "2023-07-03 01:56:32",
-      "album": {
-        "name": "Inseparable",
-        "url": "https://open.spotify.com/album/1eTNYVS06XwHjwMssf6Fsx"
-      },
-      "artists": [
-        {
-          "name": "Natalie Cole",
-          "url": "https://open.spotify.com/artist/5tTsrGPwQRWUsHR2Xf7Ke9"
-        }
-      ],
-      "duration_ms": 171960,
-      "name": "This Will Be (An Everlasting Love)",
-      "url": "https://open.spotify.com/track/0PDCewmZCp0P5s00bptcdd"
     },
     {
       "added_at": "2023-07-03 01:56:32",
@@ -1023,6 +1007,22 @@
     {
       "added_at": "2023-07-03 01:56:32",
       "album": {
+        "name": "Inseparable",
+        "url": "https://open.spotify.com/album/1eTNYVS06XwHjwMssf6Fsx"
+      },
+      "artists": [
+        {
+          "name": "Natalie Cole",
+          "url": "https://open.spotify.com/artist/5tTsrGPwQRWUsHR2Xf7Ke9"
+        }
+      ],
+      "duration_ms": 171960,
+      "name": "This Will Be (An Everlasting Love)",
+      "url": "https://open.spotify.com/track/0PDCewmZCp0P5s00bptcdd"
+    },
+    {
+      "added_at": "2023-07-03 01:56:32",
+      "album": {
         "name": "Partners In Crime",
         "url": "https://open.spotify.com/album/163iYwl7Kdm9ayTnD4VyfN"
       },
@@ -1039,22 +1039,6 @@
     {
       "added_at": "2023-07-03 01:56:32",
       "album": {
-        "name": "Tailgates & Tanlines",
-        "url": "https://open.spotify.com/album/5IyIjKnGkQbYGVpWenblSe"
-      },
-      "artists": [
-        {
-          "name": "Luke Bryan",
-          "url": "https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I"
-        }
-      ],
-      "duration_ms": 225560,
-      "name": "Country Girl (Shake It For Me)",
-      "url": "https://open.spotify.com/track/0JbSghVDghtFEurrSO8JrC"
-    },
-    {
-      "added_at": "2023-07-03 01:56:32",
-      "album": {
         "name": "Don't Start Now",
         "url": "https://open.spotify.com/album/0ix3XtPV1LwmZADsprKxcp"
       },
@@ -1067,6 +1051,22 @@
       "duration_ms": 183290,
       "name": "Don't Start Now",
       "url": "https://open.spotify.com/track/6WrI0LAC5M1Rw2MnX2ZvEg"
+    },
+    {
+      "added_at": "2023-07-03 01:56:32",
+      "album": {
+        "name": "Tailgates & Tanlines",
+        "url": "https://open.spotify.com/album/5IyIjKnGkQbYGVpWenblSe"
+      },
+      "artists": [
+        {
+          "name": "Luke Bryan",
+          "url": "https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I"
+        }
+      ],
+      "duration_ms": 225560,
+      "name": "Country Girl (Shake It For Me)",
+      "url": "https://open.spotify.com/track/0JbSghVDghtFEurrSO8JrC"
     },
     {
       "added_at": "2023-07-03 01:56:32",
@@ -1171,6 +1171,22 @@
     {
       "added_at": "2023-07-03 01:56:32",
       "album": {
+        "name": "American Fool",
+        "url": "https://open.spotify.com/album/4gouGcdQn9OvjX42xnWrF0"
+      },
+      "artists": [
+        {
+          "name": "John Mellencamp",
+          "url": "https://open.spotify.com/artist/3lPQ2Fk5JOwGWAF3ORFCqH"
+        }
+      ],
+      "duration_ms": 254493,
+      "name": "Jack & Diane",
+      "url": "https://open.spotify.com/track/43btz2xjMKpcmjkuRsvxyg"
+    },
+    {
+      "added_at": "2023-07-03 01:56:32",
+      "album": {
         "name": "Higher Love",
         "url": "https://open.spotify.com/album/4wquJImu8RtyEuDtIAsfcE"
       },
@@ -1187,22 +1203,6 @@
       "duration_ms": 228267,
       "name": "Higher Love",
       "url": "https://open.spotify.com/track/6oJ6le65B3SEqPwMRNXWjY"
-    },
-    {
-      "added_at": "2023-07-03 01:56:32",
-      "album": {
-        "name": "American Fool",
-        "url": "https://open.spotify.com/album/4gouGcdQn9OvjX42xnWrF0"
-      },
-      "artists": [
-        {
-          "name": "John Mellencamp",
-          "url": "https://open.spotify.com/artist/3lPQ2Fk5JOwGWAF3ORFCqH"
-        }
-      ],
-      "duration_ms": 254493,
-      "name": "Jack & Diane",
-      "url": "https://open.spotify.com/track/43btz2xjMKpcmjkuRsvxyg"
     },
     {
       "added_at": "2023-07-03 01:56:32",

@@ -4,11 +4,12 @@
 
 > back up in the sky
 
-280 songs - 16 hr 48 min
+282 songs - 16 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [\(dream\)](https://open.spotify.com/track/39iczvfNkZstM8KY8dNDFC) | [salvia palth](https://open.spotify.com/artist/0pg0Zm8FsGAYy5kdHuBnSo) | [melanchole](https://open.spotify.com/album/23KJrzHF1IBfjzpRgTtaJx) | 1:24 | 2022-09-02 |  |
+| [\(dream\)](https://open.spotify.com/track/17YNmMy03QLPirmBzWxFa6) | [salvia palth](https://open.spotify.com/artist/0pg0Zm8FsGAYy5kdHuBnSo) | [melanchole](https://open.spotify.com/album/10WzRaNWnFUQNrW2FpqQSQ) | 1:24 | 2023-12-05 |  |
+| [\(dream\)](https://open.spotify.com/track/39iczvfNkZstM8KY8dNDFC) | [salvia palth](https://open.spotify.com/artist/0pg0Zm8FsGAYy5kdHuBnSo) | [melanchole](https://open.spotify.com/album/23KJrzHF1IBfjzpRgTtaJx) | 1:24 | 2022-09-02 | 2024-03-21 |
 | [0% Angel](https://open.spotify.com/track/0l2Ob0zMIQ21gJn642HyQ1) | [Mr.Kitty](https://open.spotify.com/artist/0pWwt5vGNzezEhfAcc420Y) | [Ephemeral](https://open.spotify.com/album/4aJdRGvDt8BAU8Po8Sr3dg) | 3:54 | 2022-09-02 | 2022-10-15 |
 | [4am](https://open.spotify.com/track/1F2guay5Aj7XNNvbuCx9p5) | [soft siren](https://open.spotify.com/artist/2231C2oqgdZQmJ0vh6bNX2), [CASHFORGOLD](https://open.spotify.com/artist/4FzthA7DjutA71z91I1DKX), [Sidewalks and Skeletons](https://open.spotify.com/artist/48nHO1cuTbpx4ELhChsxX1) | [4am](https://open.spotify.com/album/0sDl1OIYoL0dMgRQ50rHrH) | 2:57 | 2023-05-12 | 2023-08-26 |
 | [5AM Empanada with You](https://open.spotify.com/track/5zotLA21Q8MnILdUxBEPRM) | [Bubble Tea and Cigarettes](https://open.spotify.com/artist/2UMeX51X1prCFgi51RHo9P) | [There's Nothing But Pleasure](https://open.spotify.com/album/4tP6s2K0QHvzuC960rQ1Dc) | 5:41 | 2022-09-30 | 2023-08-19 |
@@ -124,7 +125,8 @@
 | [I hope we can still be friends](https://open.spotify.com/track/2Fp2eFJSDMZCZ3Pc9OINmp) | [Pity Party \(Girls Club\)](https://open.spotify.com/artist/5J3QKfJDFyjR3Q2qRcRaIU) | [I hope we can still be friends](https://open.spotify.com/album/2DFYfHxIagpHC6SrZ596qo) | 2:31 | 2022-09-02 | 2023-05-25 |
 | [i see pain](https://open.spotify.com/track/7kAkl44rGhMqNpJU66qoKT) | [kurffew](https://open.spotify.com/artist/7rxyD0KDWwZ86aQNWfkJhz) | [i see pain](https://open.spotify.com/album/5jVDZXzD12zdCEtsmrUGR5) | 2:43 | 2023-11-24 |  |
 | [i walk this earth all by myself](https://open.spotify.com/track/6oofvZ4K8vBHnCT1oKERcd) | [EKKSTACY](https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH) | [NEGATIVE](https://open.spotify.com/album/2momrvUqAMigmBoOOKuavE) | 2:25 | 2022-12-12 |  |
-| [i was all over her](https://open.spotify.com/track/7svpAkwc6xaSxlbZ7V7JiS) | [salvia palth](https://open.spotify.com/artist/0pg0Zm8FsGAYy5kdHuBnSo) | [melanchole](https://open.spotify.com/album/23KJrzHF1IBfjzpRgTtaJx) | 2:41 | 2023-12-05 |  |
+| [i was all over her](https://open.spotify.com/track/6mSnSuOhgHHohqeBw76jRV) | [salvia palth](https://open.spotify.com/artist/0pg0Zm8FsGAYy5kdHuBnSo) | [melanchole](https://open.spotify.com/album/10WzRaNWnFUQNrW2FpqQSQ) | 2:41 | 2023-12-05 |  |
+| [i was all over her](https://open.spotify.com/track/7svpAkwc6xaSxlbZ7V7JiS) | [salvia palth](https://open.spotify.com/artist/0pg0Zm8FsGAYy5kdHuBnSo) | [melanchole](https://open.spotify.com/album/23KJrzHF1IBfjzpRgTtaJx) | 2:41 | 2023-12-05 | 2024-03-21 |
 | [If I Die](https://open.spotify.com/track/2mTffb4JPUXq31NWaqQgIN) | [Suzanne Kraft](https://open.spotify.com/artist/1FTn5osUbCr8n7WgYmbK5m) | [Sometimes / If I Die](https://open.spotify.com/album/0KTScQWu6RzOUg3phjUjlR) | 2:56 | 2023-10-13 |  |
 | [In My Dreams](https://open.spotify.com/track/5cyI9Gh69DQ00AhB7NQ8EU) | [Pleasure Nature](https://open.spotify.com/artist/3ZGM51bHuk90ka2P14mrzQ) | [In My Dreams](https://open.spotify.com/album/5T85Km8fTrr29MTvRGJ0yt) | 3:27 | 2022-09-30 | 2022-12-13 |
 | [In My Head](https://open.spotify.com/track/5vwXQUwkpmnkJrfv69L6Mp) | [Bedroom](https://open.spotify.com/artist/7COP1HCvVq1cIpZcLQYoNe) | [In My Head](https://open.spotify.com/album/3okCOhHlfrEPaHZIIUo04l) | 5:54 | 2022-09-02 | 2023-12-06 |

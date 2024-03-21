@@ -1,5 +1,5 @@
 {
-  "2024-03-20": 2198476,
+  "2024-03-21": 2198665,
   "date_first_scraped": "2019-05-26",
   "description": "The original chill instrumental beats playlist.",
   "name": "Jazz Vibes",
@@ -7266,6 +7266,28 @@
     },
     {
       "album": {
+        "name": "Black Lotus",
+        "url": "https://open.spotify.com/album/4S7nTCKuu8gzv5v2nOPaYy"
+      },
+      "artists": [
+        {
+          "name": "Acco",
+          "url": "https://open.spotify.com/artist/3Zro0pGcmNIHBkm2pY0DW4"
+        },
+        {
+          "name": "CG Sax",
+          "url": "https://open.spotify.com/artist/2jZesthCyB9M8p7tAm48Pd"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121729,
+      "name": "Black Lotus",
+      "url": "https://open.spotify.com/track/7EEFWcH5r3FN33LbOGEJ8U"
+    },
+    {
+      "album": {
         "name": "Black Tea",
         "url": "https://open.spotify.com/album/3tcY2wCBIhAAi7ft7Qmr1M"
       },
@@ -12443,7 +12465,7 @@
       ],
       "date_added": "2024-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-20",
       "duration_ms": 236656,
       "name": "Ch\u00e8 Ja Vu",
       "url": "https://open.spotify.com/track/39koMKbq0FLzUpGtyjA8FE"

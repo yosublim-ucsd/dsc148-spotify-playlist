@@ -4,7 +4,7 @@
 
 > it was never just a phase
 
-180 songs - 9 hr 10 min
+181 songs - 9 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -116,7 +116,7 @@
 | [Lonely After Curfew](https://open.spotify.com/track/4ErvUEwmVOhidQ8wKgvHtt) | [Sophia Bel](https://open.spotify.com/artist/6WJnpSVDynCWGrhJcSQIm6) | [Lonely After Curfew](https://open.spotify.com/album/5dqirXlH3pXhHFTQyenzEm) | 4:16 | 2022-03-04 | 2022-06-19 |
 | [Loser](https://open.spotify.com/track/1GAIibUEoZjvG4QsrabVWc) | [Sueco](https://open.spotify.com/artist/4iDroUFo89Y7YBsdDTBmTD) | [Loser](https://open.spotify.com/album/05FrlFmadVg3IuRnYp3Of5) | 2:13 | 2022-02-04 |  |
 | [LosT](https://open.spotify.com/track/5BgnL6gHauuvxe4Ok6W1aC) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [LosT](https://open.spotify.com/album/3zZBB971MYFVBYlzNrYpoA) | 3:25 | 2023-05-19 |  |
-| [love song](https://open.spotify.com/track/0DZr4tVoYT3rUJzm9w15Lg) | [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW) | [weird!](https://open.spotify.com/album/1KsMhtT6PWdFuMCiNLvWmP) | 4:00 | 2021-11-19 |  |
+| [love song](https://open.spotify.com/track/0DZr4tVoYT3rUJzm9w15Lg) | [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW) | [weird!](https://open.spotify.com/album/1KsMhtT6PWdFuMCiNLvWmP) | 4:00 | 2021-11-19 | 2024-03-21 |
 | [LOVE!](https://open.spotify.com/track/1h5Wf2zfUfsCfOYlnx0o8s) | [Benzy!](https://open.spotify.com/artist/1vRB2wj1o0kDPkui2zjKMO) | [LOVE!](https://open.spotify.com/album/2w5FHwe4RAlQH0BkvMocyk) | 2:48 | 2021-11-19 | 2022-07-20 |
 | [Meant to be](https://open.spotify.com/track/4ePuicjF5iE9ZBS8Rz6kRm) | [idkjack](https://open.spotify.com/artist/5KpPvlBtQQCf0Jt836PyJX), [ylm shwty](https://open.spotify.com/artist/3jUsUXS7J4xR3UbHUuy7th) | [Meant to be](https://open.spotify.com/album/5Fpq5kAfeuNJHbMeDXlof8) | 2:39 | 2021-11-19 | 2022-07-28 |
 | [Million Dollar Song](https://open.spotify.com/track/1iqpKs6dgT2zIiP0GbVo6b) | [VELVETEARS](https://open.spotify.com/artist/76uBpZUqkDljACPBsu2klS) | [Million Dollar Song](https://open.spotify.com/album/6wNVEZIRbIR8PwWsaafK0w) | 3:46 | 2021-11-19 | 2022-07-27 |
@@ -180,6 +180,7 @@
 | [WAYWURD sON](https://open.spotify.com/track/1vn5HbJduxB1ae0QjV2Wm7) | [K!lly !dol](https://open.spotify.com/artist/0GIod7OFApXRgJ79w8YhBO) | [WAYWURD sON](https://open.spotify.com/album/5q3oq4NBdxFe1Ta9SZ8DFZ) | 3:34 | 2021-11-19 | 2022-07-28 |
 | [wine on the carpet](https://open.spotify.com/track/0ajp9cGMLxgsytFNGO8DOM) | [snow ellet](https://open.spotify.com/artist/3aXifXPdvHIpAgrdsQIfdf) | [wine on the carpet](https://open.spotify.com/album/5mkWgsdGM6jDpUmOOsn8GD) | 1:43 | 2021-11-19 | 2022-07-09 |
 | [wish i was dead](https://open.spotify.com/track/16dzo8i1mlh2AkmQ4DhwXH) | [EKKSTACY](https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH) | [wish i was dead](https://open.spotify.com/album/3B4UmoO1zRScG8X8MSDHy4) | 1:38 | 2022-08-16 | 2022-12-13 |
+| [wish i was dead](https://open.spotify.com/track/5Pu42rdkSXGzT528BAQRFO) | [EKKSTACY](https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH) | [misery](https://open.spotify.com/album/6yV72GH0QevmcUDNrRmaNd) | 1:38 | 2022-08-16 |  |
 | [Wish You Were Here](https://open.spotify.com/track/4Ssi6tKwrTHi5qvDndrZRP) | [Neck Deep](https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH) | [The Peace And The Panic](https://open.spotify.com/album/76NbbdvTc4yP50p5m4u9H3) | 4:08 | 2022-02-18 |  |
 | [You Make Nightmares Worth My While](https://open.spotify.com/track/6XaD9vPHMsKwoZzpDqgdpH) | [dying in designer](https://open.spotify.com/artist/3QZxOYl5zlZtfigtXOZsfT) | [You Make Nightmares Worth My While](https://open.spotify.com/album/25TcgiaPnYca3HqgqPFpik) | 3:09 | 2021-11-19 | 2022-07-29 |
 | [YOU NEEDED A HIT//](https://open.spotify.com/track/5DbBHcdkzRe1HnA132Dp0z) | [KennyHoopla](https://open.spotify.com/artist/5ObBtv5VunwwhQaXXnUrsM) | [YOU NEEDED A HIT//](https://open.spotify.com/album/16Cce1oSCslSILGQCToU0C) | 2:00 | 2023-05-19 | 2024-03-17 |

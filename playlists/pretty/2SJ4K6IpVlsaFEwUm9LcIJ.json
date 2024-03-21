@@ -1,12 +1,12 @@
 {
   "description": "what i&#x27;m listening to: march-april 2024 (previous playlists archived on my profile)",
-  "num_followers": 18579,
+  "num_followers": 18586,
   "original_name": "innocence and panic",
   "owner": {
     "name": "margeaux",
     "url": "https://open.spotify.com/user/1220511975"
   },
-  "snapshot_id": "MjU4NywwZTExY2NjYTg5ZDU5YThmYjk3ODQwNzI0ODRmNGQ3Yjk3NGRiZTc5",
+  "snapshot_id": "MjU5MixiMjE3YzI3MjIxMGEyZWE2ZGE4ZTQ3ZTQwMzE0ZjA0YjZkODkwZDA5",
   "tracks": [
     {
       "added_at": "2024-03-09 23:04:11",
@@ -293,26 +293,6 @@
       "url": "https://open.spotify.com/track/1SFUxSbBQbJqjN9rFOmYGk"
     },
     {
-      "added_at": "2024-03-13 15:29:55",
-      "album": {
-        "name": "R&B",
-        "url": "https://open.spotify.com/album/3GtGp6gTuR28nRXbJmkmPj"
-      },
-      "artists": [
-        {
-          "name": "MIKE",
-          "url": "https://open.spotify.com/artist/1wlzPS1hSNrkriIIwLFTmU"
-        },
-        {
-          "name": "Tony Seltzer",
-          "url": "https://open.spotify.com/artist/3xLOLsGCDyUCj1L9W5fUpl"
-        }
-      ],
-      "duration_ms": 109333,
-      "name": "R&B",
-      "url": "https://open.spotify.com/track/3LtQtMTElsBhQQl1Oe2WVv"
-    },
-    {
       "added_at": "2024-03-18 22:43:12",
       "album": {
         "name": "Cooper B Handy's Album, Vol. 3",
@@ -327,6 +307,94 @@
       "duration_ms": 117333,
       "name": "Can You Feel the Beat Tonight?",
       "url": "https://open.spotify.com/track/5xbpkr8kuz9Djodai18VIA"
+    },
+    {
+      "added_at": "2024-03-20 15:01:10",
+      "album": {
+        "name": "Hitch Your Wagon to a Star",
+        "url": "https://open.spotify.com/album/5UpLbFxtP5aWQhIfKZlvSQ"
+      },
+      "artists": [
+        {
+          "name": "Benny Benji",
+          "url": "https://open.spotify.com/artist/31Fp7TWqvWz0fnyCvOEfZP"
+        }
+      ],
+      "duration_ms": 91525,
+      "name": "After the Farmer's Wife",
+      "url": "https://open.spotify.com/track/3IAnFuQUscnMQdCwz0HS81"
+    },
+    {
+      "added_at": "2024-03-20 17:30:43",
+      "album": {
+        "name": "Cozy",
+        "url": "https://open.spotify.com/album/0IPNMyYo3yYoFu9vUtjKtY"
+      },
+      "artists": [
+        {
+          "name": "Operelly",
+          "url": "https://open.spotify.com/artist/7b5ONZHG45xm3qlyJqlz63"
+        }
+      ],
+      "duration_ms": 191000,
+      "name": "Cozy",
+      "url": "https://open.spotify.com/track/6WTEo1YkpHsOIg0CH638Z0"
+    },
+    {
+      "added_at": "2024-03-20 19:22:04",
+      "album": {
+        "name": "burnt out star",
+        "url": "https://open.spotify.com/album/71ithxlGE6Sup2JT3AMOhD"
+      },
+      "artists": [
+        {
+          "name": "Immortal Wound",
+          "url": "https://open.spotify.com/artist/48f43rxWbm2XTh3wwn7bag"
+        }
+      ],
+      "duration_ms": 157147,
+      "name": "burnt out star",
+      "url": "https://open.spotify.com/track/0FyUHfRwEPegqwLpiTcjUd"
+    },
+    {
+      "added_at": "2024-03-20 19:31:28",
+      "album": {
+        "name": "100% PROD I.V.",
+        "url": "https://open.spotify.com/album/4MGjgJ8yPEZmmjwE4IgW6y"
+      },
+      "artists": [
+        {
+          "name": "LUCY (Cooper B. Handy)",
+          "url": "https://open.spotify.com/artist/16j0wVUk9UOoYEDknfb9rK"
+        },
+        {
+          "name": "i.v",
+          "url": "https://open.spotify.com/artist/1j2x2XlKDXkrz52H1BrocF"
+        }
+      ],
+      "duration_ms": 120369,
+      "name": "Make My Bed",
+      "url": "https://open.spotify.com/track/1st16i7UZSXuNteGAJ5pMR"
+    },
+    {
+      "added_at": "2024-03-20 19:31:28",
+      "album": {
+        "name": "100% PROD I.V.",
+        "url": "https://open.spotify.com/album/4MGjgJ8yPEZmmjwE4IgW6y"
+      },
+      "artists": [
+        {
+          "name": "LUCY (Cooper B. Handy)",
+          "url": "https://open.spotify.com/artist/16j0wVUk9UOoYEDknfb9rK"
+        },
+        {
+          "name": "i.v",
+          "url": "https://open.spotify.com/artist/1j2x2XlKDXkrz52H1BrocF"
+        }
+      ],
+      "duration_ms": 92879,
+      "name": "Oil Change",
+      "url": "https://open.spotify.com/track/1HWvG3032Yvd6pmOD0ePFy"
     }
   ],
   "unique_name": "innocence and panic",

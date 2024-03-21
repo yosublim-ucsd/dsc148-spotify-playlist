@@ -1,5 +1,5 @@
 {
-  "2024-03-20": 626865,
+  "2024-03-21": 626919,
   "date_first_scraped": "2021-12-21",
   "description": "Experience the powerful messages and sounds of the current hits and classic Gospel songs.  Cover: <a href=\"spotify:artist:5YxebzzreNswbtYC1td4cx\">Tasha Cobbs Leonard</a>",
   "name": "Spread the Gospel",
@@ -2743,10 +2743,28 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-20",
       "duration_ms": 297290,
       "name": "Shout Like You Got It",
       "url": "https://open.spotify.com/track/2FKDnfW7P20BgdH6l9g3Sh"
+    },
+    {
+      "album": {
+        "name": "Songs from the Writers Pen",
+        "url": "https://open.spotify.com/album/3H3inRie47J7PQ8IWoDOsP"
+      },
+      "artists": [
+        {
+          "name": "Norman Hutchins",
+          "url": "https://open.spotify.com/artist/2gya4YZQdto5OdF91ZdEzh"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 297290,
+      "name": "Shout Like You Got It",
+      "url": "https://open.spotify.com/track/2mJejlFobZcPFBZPzNnYWl"
     },
     {
       "album": {

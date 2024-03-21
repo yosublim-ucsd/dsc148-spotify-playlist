@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdHPp93Fnfds.md) - [plain]
 
 > Son jóvenes, guerreras y cool\. Foto: Kirnbauer, Joaquina Mertz, María Centeno & Noa Sainz.
 
-[Spotify](https://open.spotify.com/user/spotify) - 144,368 likes - 80 songs - 4 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 144,373 likes - 80 songs - 4 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdHPp93Fnfds.md) - [plain]
 | 39 | [Mito](https://open.spotify.com/track/0yN1zA3OSihsVrAwymehwX) | [La Lá](https://open.spotify.com/artist/7nZ3e67Mo4DLU1RC81KX8H), [Paz Court](https://open.spotify.com/artist/4iYtGmJwcET4ym55GMp4Zm) | [Mito](https://open.spotify.com/album/6ELoILaST1j1C4UNFZO2vW) | 3:54 |
 | 40 | [This is un volcán](https://open.spotify.com/track/2Ey1hs6xJOar2ki7G7dPbO) | [Russian Red](https://open.spotify.com/artist/47wB3vlOd130dM3k5fADQw) | [This is un volcán](https://open.spotify.com/album/0XXAchuaAzOTRIDA4usuif) | 3:26 |
 | 41 | [Luna Blanca](https://open.spotify.com/track/57GkmWpXWgfKZQda8LjdXj) | [Ilse Hendrix](https://open.spotify.com/artist/4nKY8xVK5R0lpdv2oDyraB) | [Lo Que Fue](https://open.spotify.com/album/4FVSZPUptXmNGninasYFhT) | 3:40 |
-| 42 | [Las converse](https://open.spotify.com/track/3jnVYRB2mkTOinBWeLGEea) | [Paz Carrara](https://open.spotify.com/artist/09mGQqsZ1C5wVCsjycNaIg) | [Las converse](https://open.spotify.com/album/6igVxgZ2a2jX2nBQ1JHQnU) | 2:57 |
-| 43 | [LIBERTAD](https://open.spotify.com/track/4bFfzFtW3B0kU23liGxvF6) | [Ruzzi](https://open.spotify.com/artist/1hjFlLW9xl3RCn7IWPSmxY) | [LIBERTAD](https://open.spotify.com/album/2pfIr8vef2H2EYjQJQwBym) | 3:36 |
+| 42 | [LIBERTAD](https://open.spotify.com/track/4bFfzFtW3B0kU23liGxvF6) | [Ruzzi](https://open.spotify.com/artist/1hjFlLW9xl3RCn7IWPSmxY) | [LIBERTAD](https://open.spotify.com/album/2pfIr8vef2H2EYjQJQwBym) | 3:36 |
+| 43 | [Las converse](https://open.spotify.com/track/3jnVYRB2mkTOinBWeLGEea) | [Paz Carrara](https://open.spotify.com/artist/09mGQqsZ1C5wVCsjycNaIg) | [Las converse](https://open.spotify.com/album/6igVxgZ2a2jX2nBQ1JHQnU) | 2:57 |
 | 44 | [A TI](https://open.spotify.com/track/2vTR8PFCIyxM4kQHQdJVUB) | [Ivana](https://open.spotify.com/artist/5AXxk4cxkMNsTb4TtwLAQJ) | [me da miedo que escuches esto](https://open.spotify.com/album/5XZbo2O8JeSq3ue2PLB9Zw) | 2:18 |
 | 45 | [Cero](https://open.spotify.com/track/0SNwjDrUgkRTeKSJGw6e4C) | [Malena Villa](https://open.spotify.com/artist/0RlibgJa8rtPvVn415J6WN), [Clara Cava](https://open.spotify.com/artist/5bOm9wAui94GDhPOCKgmhY) | [Pensamientos](https://open.spotify.com/album/6MnIQVOhKjOkbid83IEFz6) | 2:36 |
 | 46 | [DÍAS COMO HOY](https://open.spotify.com/track/6ukf7MHX1L5iwGUKCxm13N) | [FEMI](https://open.spotify.com/artist/0Zq7qMNo2UXDat3Tzf0x2s) | [Lonely Fans](https://open.spotify.com/album/0jAcrKA6rbQWSQ1eBGo38P) | 3:31 |
@@ -67,9 +67,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdHPp93Fnfds.md) - [plain]
 | 57 | [Tu Vereda](https://open.spotify.com/track/307KPgcopUmLzMmoFo7Wx3) | [An Espil](https://open.spotify.com/artist/0GEBrC42d3MZT2LpDPh2qt), [Ivan C\. Bakmas](https://open.spotify.com/artist/7e28cikzCdfdAXTOdHPC1R), [Fer Moreno](https://open.spotify.com/artist/4AmJqzYz4mY7EfMbClkuob) | [Tu Vereda](https://open.spotify.com/album/0is8OQhtOKSoPqt4rR7Ecd) | 2:27 |
 | 58 | [Nudo](https://open.spotify.com/track/6xeY2IZfEZFVnGxA8uLASz) | [Rubio](https://open.spotify.com/artist/79YjWaAoD88XGLETIsnnQV), [Frannie Holder](https://open.spotify.com/artist/6tRHDWQrzx6iK7tqSH69Lw) | [Mango Negro](https://open.spotify.com/album/2h6a8lF0snB00Jj1JsezRF) | 4:25 |
 | 59 | [Todo Va A Cambiar](https://open.spotify.com/track/6HpkUsBtHe3qd8QO0s9XZj) | [Natalia Lacunza](https://open.spotify.com/artist/3Zs59sqZJ6fWQqWbRC8bOP), [Karma C](https://open.spotify.com/artist/0o5CzIkmDyHMF4yG4CrAxh) | [Todo Va A Cambiar](https://open.spotify.com/album/4ppb3HXvxraldZiawREjAg) | 2:27 |
-| 60 | [Male](https://open.spotify.com/track/3wTK9UTRtwE0HbyEgoDW9n) | [Clara\_mente](https://open.spotify.com/artist/2fT7IpuxCPeR81zCxf9olk) | [Male](https://open.spotify.com/album/1JHlDmbAr9GM2BoZh9yLCA) | 3:02 |
-| 61 | [Toda la Noche](https://open.spotify.com/track/4JqzimmrHYg2yOXY37SfwV) | [Abril Olivera](https://open.spotify.com/artist/0syNXPcVZZpTvXcfoRaXLg) | [Abril](https://open.spotify.com/album/2uT7GrTnYKL293sssNax85) | 3:49 |
-| 62 | [Clandestina \- Spotify Singles](https://open.spotify.com/track/1Oie9uASbo83OrEkZ2whEM) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Spotify Singles](https://open.spotify.com/album/1KFVMgFxBDhf1fprYdbxHl) | 3:29 |
+| 60 | [Toda la Noche](https://open.spotify.com/track/4JqzimmrHYg2yOXY37SfwV) | [Abril Olivera](https://open.spotify.com/artist/0syNXPcVZZpTvXcfoRaXLg) | [Abril](https://open.spotify.com/album/2uT7GrTnYKL293sssNax85) | 3:49 |
+| 61 | [Clandestina \- Spotify Singles](https://open.spotify.com/track/1Oie9uASbo83OrEkZ2whEM) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Spotify Singles](https://open.spotify.com/album/1KFVMgFxBDhf1fprYdbxHl) | 3:29 |
+| 62 | [Male](https://open.spotify.com/track/3wTK9UTRtwE0HbyEgoDW9n) | [Clara\_mente](https://open.spotify.com/artist/2fT7IpuxCPeR81zCxf9olk) | [Male](https://open.spotify.com/album/1JHlDmbAr9GM2BoZh9yLCA) | 3:02 |
 | 63 | [te vas a lamentar :'\(](https://open.spotify.com/track/2cFad267BkRkULXr7XHFFh) | [La Valenti](https://open.spotify.com/artist/2zYHS7xFegFvlEYsOf6cYZ), [Nan Que](https://open.spotify.com/artist/578d5z2sr0foSBFuoRaiPc) | [te vas a lamentar :'\(](https://open.spotify.com/album/42ovzNFlHOgv66WaCJplt8) | 3:09 |
 | 64 | [Onda en el Aire](https://open.spotify.com/track/3Kha9JcEmw6Mv8xonp3qeL) | [Milagros](https://open.spotify.com/artist/7fuhvsoeDJJwdQYBwZkRRU), [YOGAROCK](https://open.spotify.com/artist/65oqi7gbDimKUBR0MzhMNc) | [Onda en el Aire](https://open.spotify.com/album/3eDODTj34wfIoppGzDdTHk) | 3:15 |
 | 65 | [Aguatera](https://open.spotify.com/track/7FR26rQuikSbhhNHf3HhX3) | [Feli Colina](https://open.spotify.com/artist/4EmjPNMuvvKSEAyx7ibGrs) | [El Valle Encantado](https://open.spotify.com/album/7zpoL3fDPFbGYB7XdbSl1S) | 3:23 |
@@ -80,13 +80,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdHPp93Fnfds.md) - [plain]
 | 70 | [Harakiri](https://open.spotify.com/track/5AMKp7VIitj1mzjbmz6OaR) | [Mel Muñiz](https://open.spotify.com/artist/05NEGCiyDYaJtcPiagl46Y) | [La Santa Patrona de los Corazones Negros](https://open.spotify.com/album/6vtdMIjyt4kd5a3VDB0lnm) | 3:33 |
 | 71 | [AZÚCAR](https://open.spotify.com/track/4XsimxBOB7TfiAQpHYq3rm) | [Milena Warthon](https://open.spotify.com/artist/65vjAwgtLCwB1nQE7V5eMd) | [AZÚCAR](https://open.spotify.com/album/7A7fhDvUWduAyCcVa2vvfG) | 3:25 |
 | 72 | [Suspiros](https://open.spotify.com/track/1CejnNpFZ8TSYrIZxEOzgu) | [Valeria Jasso](https://open.spotify.com/artist/4JTbF9feswVonYL7fHSVCh) | [Suspiros](https://open.spotify.com/album/67kgDdEZm4L3H1O67WYLXg) | 2:35 |
-| 73 | [DNI](https://open.spotify.com/track/6XbgaRsf6hnl4dQJOtktrU) | [LUPE](https://open.spotify.com/artist/4PRzyAvNqlYKSMhsKl2e0j) | [UN NÚMERO](https://open.spotify.com/album/2zh0d8IFJfVvUTWnGlW1up) | 1:43 |
+| 73 | [Con Mi Amiga](https://open.spotify.com/track/4BKlOSA4wnaqaqcGDrHucE) | [Abril Olivera](https://open.spotify.com/artist/0syNXPcVZZpTvXcfoRaXLg), [Acus](https://open.spotify.com/artist/39DDfcoTv0v0HoZY1ZoPWp) | [Abril](https://open.spotify.com/album/2uT7GrTnYKL293sssNax85) | 3:04 |
 | 74 | [Detonación \- Remix](https://open.spotify.com/track/0rZwPrDw6xcWdGTSvsbLYA) | [Camila Moreno](https://open.spotify.com/artist/0SJy1J0FgP21lbvGBMKT8H), [Princesa Alba](https://open.spotify.com/artist/3hvDAraTidCTjQHIc4m8P3) | [Detonación \(Remix\)](https://open.spotify.com/album/5cFYndbz33WMXaEeE3JFGx) | 3:52 |
-| 75 | [Con Mi Amiga](https://open.spotify.com/track/4BKlOSA4wnaqaqcGDrHucE) | [Abril Olivera](https://open.spotify.com/artist/0syNXPcVZZpTvXcfoRaXLg), [Acus](https://open.spotify.com/artist/39DDfcoTv0v0HoZY1ZoPWp) | [Abril](https://open.spotify.com/album/2uT7GrTnYKL293sssNax85) | 3:04 |
-| 76 | [Alquiler](https://open.spotify.com/track/0ZGYFU5Vx8UIWLax710E0g) | [Eve Calletti](https://open.spotify.com/artist/55eyl0WBtTXDb9jpXVS9AP) | [Alquiler](https://open.spotify.com/album/7KRroI1HJyQs0lltlKHsCI) | 2:35 |
-| 77 | [Me Fuí a Caminar](https://open.spotify.com/track/1y4rKHGVBQ13OVFkjkH5Zp) | [Daniela Millaleo](https://open.spotify.com/artist/5t6HRqxLXUFgNXV4598nxz) | [Trafun](https://open.spotify.com/album/5pUXmmtKYOb0kPNXqB9HE0) | 3:59 |
-| 78 | [Nuestros Besos](https://open.spotify.com/track/6AvYedRDCjtQz8IYYRWYiZ) | [LUPE](https://open.spotify.com/artist/4PRzyAvNqlYKSMhsKl2e0j) | [Nuestros Besos](https://open.spotify.com/album/5Q6CiHiPk9tms75YtFLu9J) | 4:07 |
-| 79 | [Lago Eterno](https://open.spotify.com/track/3aaEQFzM99jkEVqUT9XsX4) | [Isla Mujeres](https://open.spotify.com/artist/2VLQDfdzVswx2x3BNYwfcS) | [Lago Eterno](https://open.spotify.com/album/4QE8gwER0QUeNM7ydyiLwC) | 2:08 |
-| 80 | [Formas](https://open.spotify.com/track/7vAw49sXkEZJzrbd5gqfrd) | [Entrópica](https://open.spotify.com/artist/2IunebW5WpbBHwXU5BBv08) | [Formas](https://open.spotify.com/album/1EGRoPgHHReeUzwtktkirF) | 3:18 |
+| 75 | [Nuestros Besos](https://open.spotify.com/track/6AvYedRDCjtQz8IYYRWYiZ) | [LUPE](https://open.spotify.com/artist/4PRzyAvNqlYKSMhsKl2e0j) | [Nuestros Besos](https://open.spotify.com/album/5Q6CiHiPk9tms75YtFLu9J) | 4:07 |
+| 76 | [Me Fuí a Caminar](https://open.spotify.com/track/1y4rKHGVBQ13OVFkjkH5Zp) | [Daniela Millaleo](https://open.spotify.com/artist/5t6HRqxLXUFgNXV4598nxz) | [Trafun](https://open.spotify.com/album/5pUXmmtKYOb0kPNXqB9HE0) | 3:59 |
+| 77 | [Alquiler](https://open.spotify.com/track/0ZGYFU5Vx8UIWLax710E0g) | [Eve Calletti](https://open.spotify.com/artist/55eyl0WBtTXDb9jpXVS9AP) | [Alquiler](https://open.spotify.com/album/7KRroI1HJyQs0lltlKHsCI) | 2:35 |
+| 78 | [AMOR MINIMAL](https://open.spotify.com/track/2xmhERSMywisE5yfTqYvd5) | [Cancamusa](https://open.spotify.com/artist/6GSnSFc0O2JMkPkGcBFsNc) | [AMOR MINIMAL](https://open.spotify.com/album/5tydxQ3vJc63ORNQQsH8Fq) | 3:27 |
+| 79 | [Formas](https://open.spotify.com/track/7vAw49sXkEZJzrbd5gqfrd) | [Entrópica](https://open.spotify.com/artist/2IunebW5WpbBHwXU5BBv08) | [Formas](https://open.spotify.com/album/1EGRoPgHHReeUzwtktkirF) | 3:18 |
+| 80 | [Te Vi](https://open.spotify.com/track/1Otj8A7vMiHW6dY07pwTK0) | [Valsian](https://open.spotify.com/artist/4f8uwOhcAdzozAkqq6AEwa) | [Te Vi](https://open.spotify.com/album/1oy4RCK3TYGSXVVh6iwqAp) | 3:25 |
 
-Snapshot ID: `MCwxMjU3MTRmYWJmNTQ4YzYzZWE3ODhkZDBmNGI1YWQ3ZWJiZDcwNzNl`
+Snapshot ID: `MCxkNTk3Y2FkMDY0NDNiZTY3NTM4ODlhN2FiMTA4M2ExNGY4Y2FlODkz`

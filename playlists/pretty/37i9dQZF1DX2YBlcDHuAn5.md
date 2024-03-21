@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2YBlcDHuAn5.md) - [plain]
 
 > De mooiste muziek: Americana \| Country
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,018 likes - 50 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,028 likes - 50 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2YBlcDHuAn5.md) - [plain]
 | 27 | [Built And Broken](https://open.spotify.com/track/2oLl22EdWPR8u8hTtfgBPS) | [Blackbird](https://open.spotify.com/artist/5SU9mZVaI9pRXgXmIhG1fL) | [Built And Broken](https://open.spotify.com/album/3nSk18ZELTQqgdSYJBeZ1m) | 4:28 |
 | 28 | [Babe I'm Gonna Leave You \- Extended Version](https://open.spotify.com/track/66DmPZHPwXz5VO2Mse5FAj) | [Beth Hart](https://open.spotify.com/artist/30TrHDLNCKQVTYWOn9QqOC) | [Babe I'm Gonna Leave You \(Extended Version\)](https://open.spotify.com/album/5U5FRaYp8B23WI7BvIGcfL) | 4:54 |
 | 29 | [DNA](https://open.spotify.com/track/5K10PzXx9DEmFuqXKIcp4t) | [Danny Vera](https://open.spotify.com/artist/1bObiFZkYu7IfzxVlAVj5x) | [DNA](https://open.spotify.com/album/1zOm18cLXjrqjrYuHRUTBY) | 3:14 |
-| 30 | [Gold Dust Woman](https://open.spotify.com/track/1FH9iCgUtZXnwodYzahivh) | [Warren Haynes](https://open.spotify.com/artist/73iWh9WUMf0xK6cRkNJK4h), [Jim James](https://open.spotify.com/artist/1MhtYlJvUqfd2EgHSQTGK4), [Grace Potter](https://open.spotify.com/artist/1PJVVIeS5Wu0wbZDhtC0Ht) | [Gold Dust Woman](https://open.spotify.com/album/1jvxRIDR1nCdEw13R9Pv0S) | 3:00 |
-| 31 | [Tower Of Song](https://open.spotify.com/track/2HHXqnrD7PaUIUSj9lz3xK) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [A Beautiful Time](https://open.spotify.com/album/7oPKRoThZFX1xQ7X05cfFG) | 4:59 |
+| 30 | [Tower Of Song](https://open.spotify.com/track/2HHXqnrD7PaUIUSj9lz3xK) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [A Beautiful Time](https://open.spotify.com/album/7oPKRoThZFX1xQ7X05cfFG) | 4:59 |
+| 31 | [Gold Dust Woman](https://open.spotify.com/track/1FH9iCgUtZXnwodYzahivh) | [Warren Haynes](https://open.spotify.com/artist/73iWh9WUMf0xK6cRkNJK4h), [Jim James](https://open.spotify.com/artist/1MhtYlJvUqfd2EgHSQTGK4), [Grace Potter](https://open.spotify.com/artist/1PJVVIeS5Wu0wbZDhtC0Ht) | [Gold Dust Woman](https://open.spotify.com/album/1jvxRIDR1nCdEw13R9Pv0S) | 3:00 |
 | 32 | [One More Night](https://open.spotify.com/track/0NwmPeStDzdgT9wKxrfTvi) | [Miko Marks](https://open.spotify.com/artist/2pkqyjrPhrzJcdhwN80kAs), [The Resurrectors](https://open.spotify.com/artist/6JClEpHPvEsfw4Ke5VhbX5) | [One More Night](https://open.spotify.com/album/3hjJpCE83GDNugliCAXZCt) | 3:46 |
 | 33 | [Take A Ride](https://open.spotify.com/track/5lv9ngCtTMuXD6FtEzTGzN) | [Sam Saxton](https://open.spotify.com/artist/3Xbb6InMR77LO6hrWU1I04) | [Take A Ride](https://open.spotify.com/album/05FmZGsA5g6HqHBPU3CW9Q) | 3:33 |
 | 34 | [Pink Shades](https://open.spotify.com/track/6kDcrYQImUgkezQXuAQUqF) | [Blackbird](https://open.spotify.com/artist/5SU9mZVaI9pRXgXmIhG1fL) | [Pink Shades](https://open.spotify.com/album/7td13U2cAaFTV5TWMtgfwv) | 3:30 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2YBlcDHuAn5.md) - [plain]
 | 49 | [Dancing In The Dark](https://open.spotify.com/track/1mPXB7fe2vK1dJxMbSZuDP) | [Tim Akkerman](https://open.spotify.com/artist/1mdYzJv7Z90aiNlfBvoI9u), [The Ivy League](https://open.spotify.com/artist/3sEDJcE3V0YjnmaxIQP5qO) | [Dancing In The Dark](https://open.spotify.com/album/4QUzb6iiFjr2K0NTqCIZTV) | 3:28 |
 | 50 | [How Did We Get To Goodbye](https://open.spotify.com/track/0QUij64RHqhEEPLFhFBDMc) | [Danielle Nicole](https://open.spotify.com/artist/34mu675oQQ5ZNuK1soZrIn) | [How Did We Get To Goodbye](https://open.spotify.com/album/6oDyjJGpgwgvb3N19B8Gxq) | 4:39 |
 
-Snapshot ID: `MCxiMTljYjM4ZTdjZWY2OTI1MzEwOTcxNjc1NGJkMDQ2ZTk1NDQ3MGVk`
+Snapshot ID: `MCxhNzA0MDZmY2JkZDlhNWNhODNmODQzNTQzMmY1MzA0MzQyOWJjYTVh`

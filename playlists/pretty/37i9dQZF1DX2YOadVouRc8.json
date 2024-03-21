@@ -1,12 +1,12 @@
 {
   "description": "afrobeats: best served chill",
-  "num_followers": 22874,
+  "num_followers": 22891,
   "original_name": "Afro Chill",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiZDc5NDU0YWJmYjcwZmYxNmJjZWU5NDUyODYwMjcwYTYwZjc0ZTJh",
+  "snapshot_id": "MCwxMGE3Mjk3OThmYmI0ZTg4NjkyMDk1NzQwNjIwY2ZhM2VhMDUzY2Y0",
   "tracks": [
     {
       "added_at": "2024-03-15 00:01:00",
@@ -567,6 +567,22 @@
     {
       "added_at": "2024-03-15 00:01:00",
       "album": {
+        "name": "Toxic Love Story",
+        "url": "https://open.spotify.com/album/0dvQXAB64oTEAXWjQRBwaY"
+      },
+      "artists": [
+        {
+          "name": "Jontae",
+          "url": "https://open.spotify.com/artist/3oa7E2NEUzTPobUVRuitV8"
+        }
+      ],
+      "duration_ms": 140160,
+      "name": "Toxic Love Story",
+      "url": "https://open.spotify.com/track/2y4FCaPrKtYXF7akDEXYRQ"
+    },
+    {
+      "added_at": "2024-03-15 00:01:00",
+      "album": {
         "name": "Jaga Jaga (with Babyboy AV)",
         "url": "https://open.spotify.com/album/0Fk776T5l13Djn3clViXxp"
       },
@@ -583,22 +599,6 @@
       "duration_ms": 226000,
       "name": "Jaga Jaga (with Babyboy AV)",
       "url": "https://open.spotify.com/track/3qH7uGwlgr7tmoL4ksRhPi"
-    },
-    {
-      "added_at": "2024-03-15 00:01:00",
-      "album": {
-        "name": "Toxic Love Story",
-        "url": "https://open.spotify.com/album/0dvQXAB64oTEAXWjQRBwaY"
-      },
-      "artists": [
-        {
-          "name": "Jontae",
-          "url": "https://open.spotify.com/artist/3oa7E2NEUzTPobUVRuitV8"
-        }
-      ],
-      "duration_ms": 140160,
-      "name": "Toxic Love Story",
-      "url": "https://open.spotify.com/track/2y4FCaPrKtYXF7akDEXYRQ"
     },
     {
       "added_at": "2024-03-15 00:01:00",
@@ -703,22 +703,6 @@
     {
       "added_at": "2024-03-15 00:01:00",
       "album": {
-        "name": "S2",
-        "url": "https://open.spotify.com/album/24bAAFr3dK2TMVMaCZWMJM"
-      },
-      "artists": [
-        {
-          "name": "Wizkid",
-          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
-        }
-      ],
-      "duration_ms": 181013,
-      "name": "Energy",
-      "url": "https://open.spotify.com/track/6GxsePQAbaPlzWefozE62n"
-    },
-    {
-      "added_at": "2024-03-15 00:01:00",
-      "album": {
         "name": "Beautifully",
         "url": "https://open.spotify.com/album/2jE8QxForZdlDrQjazefhx"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 169844,
       "name": "Beautifully",
       "url": "https://open.spotify.com/track/7mFrwc86C3vZKobwpK0jdH"
+    },
+    {
+      "added_at": "2024-03-15 00:01:00",
+      "album": {
+        "name": "S2",
+        "url": "https://open.spotify.com/album/24bAAFr3dK2TMVMaCZWMJM"
+      },
+      "artists": [
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        }
+      ],
+      "duration_ms": 181013,
+      "name": "Energy",
+      "url": "https://open.spotify.com/track/6GxsePQAbaPlzWefozE62n"
     },
     {
       "added_at": "2024-03-15 00:01:00",
@@ -867,6 +867,22 @@
     {
       "added_at": "2024-03-15 00:01:00",
       "album": {
+        "name": "Personally",
+        "url": "https://open.spotify.com/album/05lg7B0tibQX5v89l4I7ej"
+      },
+      "artists": [
+        {
+          "name": "Straffitti",
+          "url": "https://open.spotify.com/artist/4mCGYkTmNnEsnTrIr3atNB"
+        }
+      ],
+      "duration_ms": 129056,
+      "name": "Personally",
+      "url": "https://open.spotify.com/track/4hOlSIK8uwDyzBZEf1mAKI"
+    },
+    {
+      "added_at": "2024-03-15 00:01:00",
+      "album": {
         "name": "19 & Dangerous",
         "url": "https://open.spotify.com/album/0AjdvP8p42lwSzmN0PpwJv"
       },
@@ -899,22 +915,6 @@
       "duration_ms": 186000,
       "name": "Angelus",
       "url": "https://open.spotify.com/track/2g43A8NJ0VInfpqUjsb5R6"
-    },
-    {
-      "added_at": "2024-03-15 00:01:00",
-      "album": {
-        "name": "Personally",
-        "url": "https://open.spotify.com/album/05lg7B0tibQX5v89l4I7ej"
-      },
-      "artists": [
-        {
-          "name": "Straffitti",
-          "url": "https://open.spotify.com/artist/4mCGYkTmNnEsnTrIr3atNB"
-        }
-      ],
-      "duration_ms": 129056,
-      "name": "Personally",
-      "url": "https://open.spotify.com/track/4hOlSIK8uwDyzBZEf1mAKI"
     },
     {
       "added_at": "2024-03-15 00:01:00",
@@ -1147,22 +1147,18 @@
     {
       "added_at": "2024-03-15 00:01:00",
       "album": {
-        "name": "SUPARO (Remix)",
-        "url": "https://open.spotify.com/album/4x7SoFdAMxFIX9YvuKVOjx"
+        "name": "Don't Let Me Down",
+        "url": "https://open.spotify.com/album/46gG6qQ1sqqBIGdRDPE3FG"
       },
       "artists": [
         {
-          "name": "WAYNE FLENORY",
-          "url": "https://open.spotify.com/artist/6SZwuzkYiQwQIFMJ6VHCIV"
-        },
-        {
-          "name": "Babyboy AV",
-          "url": "https://open.spotify.com/artist/5p1CMGIDFgalZneW5P1EwX"
+          "name": "Marvel",
+          "url": "https://open.spotify.com/artist/4XFX57d2XQp1omSDgl6biL"
         }
       ],
-      "duration_ms": 161226,
-      "name": "SUPARO - Remix",
-      "url": "https://open.spotify.com/track/4fh2nObIUqrZdp79yot7uS"
+      "duration_ms": 184421,
+      "name": "Don't Let Me Down",
+      "url": "https://open.spotify.com/track/60MtVesSSqlEdtEgBWex6F"
     },
     {
       "added_at": "2024-03-15 00:01:00",
@@ -1187,22 +1183,6 @@
     {
       "added_at": "2024-03-15 00:01:00",
       "album": {
-        "name": "Don't Let Me Down",
-        "url": "https://open.spotify.com/album/46gG6qQ1sqqBIGdRDPE3FG"
-      },
-      "artists": [
-        {
-          "name": "Marvel",
-          "url": "https://open.spotify.com/artist/4XFX57d2XQp1omSDgl6biL"
-        }
-      ],
-      "duration_ms": 184421,
-      "name": "Don't Let Me Down",
-      "url": "https://open.spotify.com/track/60MtVesSSqlEdtEgBWex6F"
-    },
-    {
-      "added_at": "2024-03-15 00:01:00",
-      "album": {
         "name": "Lemons (Lemonade)",
         "url": "https://open.spotify.com/album/0u9KNTzXg6rpDm3AYEBiIQ"
       },
@@ -1223,22 +1203,42 @@
     {
       "added_at": "2024-03-15 00:01:00",
       "album": {
-        "name": "Confident",
-        "url": "https://open.spotify.com/album/0biMdg0M95TBDaREsTiB23"
+        "name": "SUPARO (Remix)",
+        "url": "https://open.spotify.com/album/4x7SoFdAMxFIX9YvuKVOjx"
       },
       "artists": [
         {
-          "name": "Savage",
-          "url": "https://open.spotify.com/artist/2tXCRC5DEbW9crbmB6xpEn"
+          "name": "WAYNE FLENORY",
+          "url": "https://open.spotify.com/artist/6SZwuzkYiQwQIFMJ6VHCIV"
         },
         {
-          "name": "Bnxn",
-          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
+          "name": "Babyboy AV",
+          "url": "https://open.spotify.com/artist/5p1CMGIDFgalZneW5P1EwX"
         }
       ],
-      "duration_ms": 185619,
-      "name": "Confident",
-      "url": "https://open.spotify.com/track/0rMiP3sIxMZu7bIaSXWRXu"
+      "duration_ms": 161226,
+      "name": "SUPARO - Remix",
+      "url": "https://open.spotify.com/track/4fh2nObIUqrZdp79yot7uS"
+    },
+    {
+      "added_at": "2024-03-15 00:01:00",
+      "album": {
+        "name": "Another Episode",
+        "url": "https://open.spotify.com/album/5KNPMPMYybQhSW0QlDgGC8"
+      },
+      "artists": [
+        {
+          "name": "Ricky Tyler",
+          "url": "https://open.spotify.com/artist/6eDg95U7HWOonWTaVdhATA"
+        },
+        {
+          "name": "Bien",
+          "url": "https://open.spotify.com/artist/2zhossaaVN2pXg5p8o101X"
+        }
+      ],
+      "duration_ms": 194489,
+      "name": "Another Episode",
+      "url": "https://open.spotify.com/track/5v4E0SHkjHhKTfWdW28IEe"
     },
     {
       "added_at": "2024-03-15 00:01:00",
@@ -1275,26 +1275,6 @@
       "duration_ms": 149571,
       "name": "Fashion",
       "url": "https://open.spotify.com/track/6Qo7qjGij0dOtoyVN9c3UK"
-    },
-    {
-      "added_at": "2024-03-15 00:01:00",
-      "album": {
-        "name": "Another Episode",
-        "url": "https://open.spotify.com/album/5KNPMPMYybQhSW0QlDgGC8"
-      },
-      "artists": [
-        {
-          "name": "Ricky Tyler",
-          "url": "https://open.spotify.com/artist/6eDg95U7HWOonWTaVdhATA"
-        },
-        {
-          "name": "Bien",
-          "url": "https://open.spotify.com/artist/2zhossaaVN2pXg5p8o101X"
-        }
-      ],
-      "duration_ms": 194489,
-      "name": "Another Episode",
-      "url": "https://open.spotify.com/track/5v4E0SHkjHhKTfWdW28IEe"
     },
     {
       "added_at": "2024-03-15 00:01:00",
@@ -1367,30 +1347,6 @@
     {
       "added_at": "2024-03-15 00:01:00",
       "album": {
-        "name": "I Made It (feat. Bobby Shmurda & Bien)",
-        "url": "https://open.spotify.com/album/7yJk5o612tCEOe2mEaCX7t"
-      },
-      "artists": [
-        {
-          "name": "Harmonize",
-          "url": "https://open.spotify.com/artist/1eCaedusgydlcn69blHOvL"
-        },
-        {
-          "name": "Bien",
-          "url": "https://open.spotify.com/artist/2zhossaaVN2pXg5p8o101X"
-        },
-        {
-          "name": "Bobby Shmurda",
-          "url": "https://open.spotify.com/artist/34Y0ldeyUv7jBvukWOGASO"
-        }
-      ],
-      "duration_ms": 268303,
-      "name": "I Made It (feat. Bobby Shmurda & Bien)",
-      "url": "https://open.spotify.com/track/2xCAYXRU26CeRNchBUs91p"
-    },
-    {
-      "added_at": "2024-03-15 00:01:00",
-      "album": {
         "name": "Breakfast in Lagos",
         "url": "https://open.spotify.com/album/2DW4TpRD2uABgICIMdiB5u"
       },
@@ -1411,6 +1367,30 @@
       "duration_ms": 141176,
       "name": "Fire Wood",
       "url": "https://open.spotify.com/track/4z7OibjcVz9QvNEYywHynf"
+    },
+    {
+      "added_at": "2024-03-15 00:01:00",
+      "album": {
+        "name": "I Made It (feat. Bobby Shmurda & Bien)",
+        "url": "https://open.spotify.com/album/7yJk5o612tCEOe2mEaCX7t"
+      },
+      "artists": [
+        {
+          "name": "Harmonize",
+          "url": "https://open.spotify.com/artist/1eCaedusgydlcn69blHOvL"
+        },
+        {
+          "name": "Bien",
+          "url": "https://open.spotify.com/artist/2zhossaaVN2pXg5p8o101X"
+        },
+        {
+          "name": "Bobby Shmurda",
+          "url": "https://open.spotify.com/artist/34Y0ldeyUv7jBvukWOGASO"
+        }
+      ],
+      "duration_ms": 268303,
+      "name": "I Made It (feat. Bobby Shmurda & Bien)",
+      "url": "https://open.spotify.com/track/2xCAYXRU26CeRNchBUs91p"
     },
     {
       "added_at": "2024-03-15 00:01:00",
@@ -1467,26 +1447,6 @@
       "duration_ms": 186586,
       "name": "40 Days",
       "url": "https://open.spotify.com/track/3D7E73Ifkw97wxLStfM12v"
-    },
-    {
-      "added_at": "2024-03-15 00:01:00",
-      "album": {
-        "name": "Make E No Cause Fight 3",
-        "url": "https://open.spotify.com/album/0KL40ckvFn3gRSiPWLZJ56"
-      },
-      "artists": [
-        {
-          "name": "Boj",
-          "url": "https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW"
-        },
-        {
-          "name": "Ajebutter22",
-          "url": "https://open.spotify.com/artist/36gl2NBJNRaQakdS4fTKGW"
-        }
-      ],
-      "duration_ms": 171272,
-      "name": "42",
-      "url": "https://open.spotify.com/track/2Kui4WxXbqrxVO7q0H1XBA"
     },
     {
       "added_at": "2024-03-15 00:01:00",
@@ -1551,6 +1511,46 @@
       "duration_ms": 148000,
       "name": "Waka Jeje (feat. Bnxn)",
       "url": "https://open.spotify.com/track/04ISGhuusXAMz3dnXkAdxa"
+    },
+    {
+      "added_at": "2024-03-15 00:01:00",
+      "album": {
+        "name": "Make E No Cause Fight 3",
+        "url": "https://open.spotify.com/album/0KL40ckvFn3gRSiPWLZJ56"
+      },
+      "artists": [
+        {
+          "name": "Boj",
+          "url": "https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW"
+        },
+        {
+          "name": "Ajebutter22",
+          "url": "https://open.spotify.com/artist/36gl2NBJNRaQakdS4fTKGW"
+        }
+      ],
+      "duration_ms": 171272,
+      "name": "42",
+      "url": "https://open.spotify.com/track/2Kui4WxXbqrxVO7q0H1XBA"
+    },
+    {
+      "added_at": "2024-03-15 00:01:00",
+      "album": {
+        "name": "Rosemary",
+        "url": "https://open.spotify.com/album/1MwiNkYbclqgoGEEOpGTed"
+      },
+      "artists": [
+        {
+          "name": "Savage",
+          "url": "https://open.spotify.com/artist/2tXCRC5DEbW9crbmB6xpEn"
+        },
+        {
+          "name": "Victony",
+          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
+        }
+      ],
+      "duration_ms": 188760,
+      "name": "Rosemary",
+      "url": "https://open.spotify.com/track/2jY01b9OU1WFhDlsrD17Yd"
     }
   ],
   "unique_name": "Afro Chill",

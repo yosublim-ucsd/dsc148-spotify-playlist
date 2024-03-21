@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2SJ4K6IpVlsaFEwUm9LcIJ.md) - [plain]
 
 > what i&\#x27;m listening to: march\-april 2024 \(previous playlists archived on my profile\)
 
-[margeaux](https://open.spotify.com/user/1220511975) - 18,579 likes - 19 songs - 1 hr 4 min
+[margeaux](https://open.spotify.com/user/1220511975) - 18,586 likes - 23 songs - 1 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,11 @@ pretty - [cumulative](/playlists/cumulative/2SJ4K6IpVlsaFEwUm9LcIJ.md) - [plain]
 | 15 | [Bad Energy](https://open.spotify.com/track/4Yey0xw2PmrLzize5wvU1T) | [Little Kid](https://open.spotify.com/artist/3GLx1rqsRp2jtViyRo3Qvz) | [A Million Easy Payments](https://open.spotify.com/album/7lC9Sa2mC5mM3VXhWgf2J5) | 7:29 |
 | 16 | [Snake Eyes \(again\)](https://open.spotify.com/track/1Hkx2RQA79iG4jiip6bE3N) | [Horse Jumper of Love](https://open.spotify.com/artist/6U1lmwvy3I9dIYu9RalJi6) | [Gates of Heaven / Snake Eyes \(again\)](https://open.spotify.com/album/6Ek7TQ6Halv6mbhuzRuvcZ) | 3:00 |
 | 17 | [Empty And Silent \(feat\. King Krule\)](https://open.spotify.com/track/1SFUxSbBQbJqjN9rFOmYGk) | [Mount Kimbie](https://open.spotify.com/artist/3NUtpWpGDoffm3RCGhSHtl), [King Krule](https://open.spotify.com/artist/4wyNyxs74Ux8UIDopNjIai) | [Empty And Silent \(feat\. King Krule\)](https://open.spotify.com/album/0AeSOw3HZgMJepZRDj2YR0) | 6:07 |
-| 18 | [R&B](https://open.spotify.com/track/3LtQtMTElsBhQQl1Oe2WVv) | [MIKE](https://open.spotify.com/artist/1wlzPS1hSNrkriIIwLFTmU), [Tony Seltzer](https://open.spotify.com/artist/3xLOLsGCDyUCj1L9W5fUpl) | [R&B](https://open.spotify.com/album/3GtGp6gTuR28nRXbJmkmPj) | 1:49 |
-| 19 | [Can You Feel the Beat Tonight?](https://open.spotify.com/track/5xbpkr8kuz9Djodai18VIA) | [LUCY \(Cooper B\. Handy\)](https://open.spotify.com/artist/16j0wVUk9UOoYEDknfb9rK) | [Cooper B Handy's Album, Vol\. 3](https://open.spotify.com/album/0uRS4EwISSvwcBbfaxdfJi) | 1:57 |
+| 18 | [Can You Feel the Beat Tonight?](https://open.spotify.com/track/5xbpkr8kuz9Djodai18VIA) | [LUCY \(Cooper B\. Handy\)](https://open.spotify.com/artist/16j0wVUk9UOoYEDknfb9rK) | [Cooper B Handy's Album, Vol\. 3](https://open.spotify.com/album/0uRS4EwISSvwcBbfaxdfJi) | 1:57 |
+| 19 | [After the Farmer's Wife](https://open.spotify.com/track/3IAnFuQUscnMQdCwz0HS81) | [Benny Benji](https://open.spotify.com/artist/31Fp7TWqvWz0fnyCvOEfZP) | [Hitch Your Wagon to a Star](https://open.spotify.com/album/5UpLbFxtP5aWQhIfKZlvSQ) | 1:31 |
+| 20 | [Cozy](https://open.spotify.com/track/6WTEo1YkpHsOIg0CH638Z0) | [Operelly](https://open.spotify.com/artist/7b5ONZHG45xm3qlyJqlz63) | [Cozy](https://open.spotify.com/album/0IPNMyYo3yYoFu9vUtjKtY) | 3:11 |
+| 21 | [burnt out star](https://open.spotify.com/track/0FyUHfRwEPegqwLpiTcjUd) | [Immortal Wound](https://open.spotify.com/artist/48f43rxWbm2XTh3wwn7bag) | [burnt out star](https://open.spotify.com/album/71ithxlGE6Sup2JT3AMOhD) | 2:37 |
+| 22 | [Make My Bed](https://open.spotify.com/track/1st16i7UZSXuNteGAJ5pMR) | [LUCY \(Cooper B\. Handy\)](https://open.spotify.com/artist/16j0wVUk9UOoYEDknfb9rK), [i.v](https://open.spotify.com/artist/1j2x2XlKDXkrz52H1BrocF) | [100% PROD I.V.](https://open.spotify.com/album/4MGjgJ8yPEZmmjwE4IgW6y) | 2:00 |
+| 23 | [Oil Change](https://open.spotify.com/track/1HWvG3032Yvd6pmOD0ePFy) | [LUCY \(Cooper B\. Handy\)](https://open.spotify.com/artist/16j0wVUk9UOoYEDknfb9rK), [i.v](https://open.spotify.com/artist/1j2x2XlKDXkrz52H1BrocF) | [100% PROD I.V.](https://open.spotify.com/album/4MGjgJ8yPEZmmjwE4IgW6y) | 1:32 |
 
-Snapshot ID: `MjU4NywwZTExY2NjYTg5ZDU5YThmYjk3ODQwNzI0ODRmNGQ3Yjk3NGRiZTc5`
+Snapshot ID: `MjU5MixiMjE3YzI3MjIxMGEyZWE2ZGE4ZTQ3ZTQwMzE0ZjA0YjZkODkwZDA5`

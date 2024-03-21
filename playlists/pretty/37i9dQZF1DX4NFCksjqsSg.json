@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0MDkxNDM4MDg2ODg3ODZhNjJkNjY0ZGY5OWM0MmFjNjJiYmEwZjEy",
+  "snapshot_id": "MCwxOGY3M2U4ZDVlYzc1MDhhNmVmNjg2YzY3NjFkNDM0YjdiYWMzMDVm",
   "tracks": [
     {
       "added_at": "2020-04-07 15:18:18",
@@ -499,22 +499,6 @@
     {
       "added_at": "2020-04-07 15:18:18",
       "album": {
-        "name": "1992-2002 tout...",
-        "url": "https://open.spotify.com/album/2rhTxraeZq3zndPHogXMtC"
-      },
-      "artists": [
-        {
-          "name": "Dan Bigras",
-          "url": "https://open.spotify.com/artist/2QDARvkBIhaQQYcNMgQkyb"
-        }
-      ],
-      "duration_ms": 205600,
-      "name": "Tue-moi",
-      "url": "https://open.spotify.com/track/7quS8uRNMPWff5JhxnXPYs"
-    },
-    {
-      "added_at": "2020-04-07 15:18:18",
-      "album": {
         "name": "Les introuvables",
         "url": "https://open.spotify.com/album/6Ow5AKypdyGHNHk4F4BDgo"
       },
@@ -543,6 +527,22 @@
       "duration_ms": 230906,
       "name": "J't'aime comme un fou",
       "url": "https://open.spotify.com/track/17vt4SGpyI9ONYIuxDbWm7"
+    },
+    {
+      "added_at": "2020-04-07 15:18:18",
+      "album": {
+        "name": "1992-2002 tout...",
+        "url": "https://open.spotify.com/album/2rhTxraeZq3zndPHogXMtC"
+      },
+      "artists": [
+        {
+          "name": "Dan Bigras",
+          "url": "https://open.spotify.com/artist/2QDARvkBIhaQQYcNMgQkyb"
+        }
+      ],
+      "duration_ms": 205600,
+      "name": "Tue-moi",
+      "url": "https://open.spotify.com/track/7quS8uRNMPWff5JhxnXPYs"
     },
     {
       "added_at": "2020-04-07 15:18:18",
@@ -1047,22 +1047,6 @@
     {
       "added_at": "2020-04-07 15:18:18",
       "album": {
-        "name": "Les grands succ\u00e8s de Marie Carmen",
-        "url": "https://open.spotify.com/album/3Jc4kN9R3qYadp7QSxNc8j"
-      },
-      "artists": [
-        {
-          "name": "Marie Carmen",
-          "url": "https://open.spotify.com/artist/0CB3KcKlqF1EtCu1HHqIZu"
-        }
-      ],
-      "duration_ms": 269493,
-      "name": "Entre l'ombre et la lumi\u00e8re",
-      "url": "https://open.spotify.com/track/4uv1DUeE3qQWDaj0HC9V6b"
-    },
-    {
-      "added_at": "2020-04-07 15:18:18",
-      "album": {
         "name": "Pelchat",
         "url": "https://open.spotify.com/album/4miX4q7EY2QNryx8j7H8bS"
       },
@@ -1075,6 +1059,22 @@
       "duration_ms": 212360,
       "name": "Perdue L'envie D'aimer",
       "url": "https://open.spotify.com/track/1pSIgqNyR8tF8w6PABKlVm"
+    },
+    {
+      "added_at": "2020-04-07 15:18:18",
+      "album": {
+        "name": "Les grands succ\u00e8s de Marie Carmen",
+        "url": "https://open.spotify.com/album/3Jc4kN9R3qYadp7QSxNc8j"
+      },
+      "artists": [
+        {
+          "name": "Marie Carmen",
+          "url": "https://open.spotify.com/artist/0CB3KcKlqF1EtCu1HHqIZu"
+        }
+      ],
+      "duration_ms": 269493,
+      "name": "Entre l'ombre et la lumi\u00e8re",
+      "url": "https://open.spotify.com/track/4uv1DUeE3qQWDaj0HC9V6b"
     },
     {
       "added_at": "2020-04-07 15:18:18",

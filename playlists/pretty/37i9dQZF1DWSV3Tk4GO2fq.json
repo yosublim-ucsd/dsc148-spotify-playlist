@@ -1,12 +1,12 @@
 {
   "description": "The biggest songs of the 1950s. Cover: Sister Rosetta Tharpe",
-  "num_followers": 1759009,
+  "num_followers": 1759257,
   "original_name": "All Out 50s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlMjljYzdkNWZkZjNmYTk2MGRiYjA2ZDM4ZmZjOGI5MjViMTUwNWVj",
+  "snapshot_id": "MCxhNjI5MTIxNjE3ZTQ4NTQ1MjI3MDIzOWM3NWM2MGMwMGU2OWM2NjMy",
   "tracks": [
     {
       "added_at": "2024-03-01 05:01:00",
@@ -283,22 +283,6 @@
     {
       "added_at": "2022-06-09 22:02:00",
       "album": {
-        "name": "Solitude",
-        "url": "https://open.spotify.com/album/4izD3SCRElbkO06i8yf4Zp"
-      },
-      "artists": [
-        {
-          "name": "Billie Holiday",
-          "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
-        }
-      ],
-      "duration_ms": 207826,
-      "name": "Blue Moon",
-      "url": "https://open.spotify.com/track/1pZn8AX1WulW8IO338hE5D"
-    },
-    {
-      "added_at": "2022-06-09 22:02:00",
-      "album": {
         "name": "This Is Dean Martin",
         "url": "https://open.spotify.com/album/7dfnxOYh1XR9AKqCcGckGX"
       },
@@ -311,6 +295,22 @@
       "duration_ms": 181626,
       "name": "Volare (Nel Blu Di Pinto Di Blu) - Remastered 1998",
       "url": "https://open.spotify.com/track/5OkKOkdVTKFrYi6GWXkMzR"
+    },
+    {
+      "added_at": "2022-06-09 22:02:00",
+      "album": {
+        "name": "Solitude",
+        "url": "https://open.spotify.com/album/4izD3SCRElbkO06i8yf4Zp"
+      },
+      "artists": [
+        {
+          "name": "Billie Holiday",
+          "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
+        }
+      ],
+      "duration_ms": 207826,
+      "name": "Blue Moon",
+      "url": "https://open.spotify.com/track/1pZn8AX1WulW8IO338hE5D"
     },
     {
       "added_at": "2022-06-09 22:02:00",
@@ -751,22 +751,6 @@
     {
       "added_at": "2022-06-09 22:02:00",
       "album": {
-        "name": "The Collection",
-        "url": "https://open.spotify.com/album/0ZjG7lMUm7k920ZgEL2pmi"
-      },
-      "artists": [
-        {
-          "name": "Barrett Strong",
-          "url": "https://open.spotify.com/artist/3MKwHkhEjcvzva2rasZeWD"
-        }
-      ],
-      "duration_ms": 158493,
-      "name": "Money (That's What I Want) - Single Version / Mono",
-      "url": "https://open.spotify.com/track/6OsefWNJtsWqO7myze1HEX"
-    },
-    {
-      "added_at": "2022-06-09 22:02:00",
-      "album": {
         "name": "Little Bitty Pretty One",
         "url": "https://open.spotify.com/album/4nYxAqSN5IKtwX1E1wJtTO"
       },
@@ -787,6 +771,22 @@
     {
       "added_at": "2022-06-09 22:02:00",
       "album": {
+        "name": "The Collection",
+        "url": "https://open.spotify.com/album/0ZjG7lMUm7k920ZgEL2pmi"
+      },
+      "artists": [
+        {
+          "name": "Barrett Strong",
+          "url": "https://open.spotify.com/artist/3MKwHkhEjcvzva2rasZeWD"
+        }
+      ],
+      "duration_ms": 158493,
+      "name": "Money (That's What I Want) - Single Version / Mono",
+      "url": "https://open.spotify.com/track/6OsefWNJtsWqO7myze1HEX"
+    },
+    {
+      "added_at": "2022-06-09 22:02:00",
+      "album": {
         "name": "Presenting Dion And The Belmonts",
         "url": "https://open.spotify.com/album/6z1hD32vUCvJZVjVZMv7el"
       },
@@ -803,22 +803,6 @@
     {
       "added_at": "2022-06-09 22:02:00",
       "album": {
-        "name": "Fats Domino Swings",
-        "url": "https://open.spotify.com/album/3vte37u7rIAmMZJwNyJSjf"
-      },
-      "artists": [
-        {
-          "name": "Fats Domino",
-          "url": "https://open.spotify.com/artist/09C0xjtosNAIXP36wTnWxd"
-        }
-      ],
-      "duration_ms": 147880,
-      "name": "Blueberry Hill",
-      "url": "https://open.spotify.com/track/06PdA0DLgF4BfAeUNZAbFG"
-    },
-    {
-      "added_at": "2022-06-09 22:02:00",
-      "album": {
         "name": "Good Golly!",
         "url": "https://open.spotify.com/album/18VnWTsdEcofimkOHcWBAu"
       },
@@ -831,6 +815,22 @@
       "duration_ms": 129132,
       "name": "Good Golly, Miss Molly",
       "url": "https://open.spotify.com/track/0ZvgXNstN4o2ZXPomtBYVp"
+    },
+    {
+      "added_at": "2022-06-09 22:02:00",
+      "album": {
+        "name": "Fats Domino Swings",
+        "url": "https://open.spotify.com/album/3vte37u7rIAmMZJwNyJSjf"
+      },
+      "artists": [
+        {
+          "name": "Fats Domino",
+          "url": "https://open.spotify.com/artist/09C0xjtosNAIXP36wTnWxd"
+        }
+      ],
+      "duration_ms": 147880,
+      "name": "Blueberry Hill",
+      "url": "https://open.spotify.com/track/06PdA0DLgF4BfAeUNZAbFG"
     },
     {
       "added_at": "2022-06-09 22:02:00",
@@ -915,22 +915,6 @@
     {
       "added_at": "2022-06-09 22:02:00",
       "album": {
-        "name": "Fats Domino Swings",
-        "url": "https://open.spotify.com/album/3vte37u7rIAmMZJwNyJSjf"
-      },
-      "artists": [
-        {
-          "name": "Fats Domino",
-          "url": "https://open.spotify.com/artist/09C0xjtosNAIXP36wTnWxd"
-        }
-      ],
-      "duration_ms": 152200,
-      "name": "Ain't That A Shame",
-      "url": "https://open.spotify.com/track/4ZfQwNx3FlCN07cnUvekh3"
-    },
-    {
-      "added_at": "2022-06-09 22:02:00",
-      "album": {
         "name": "Ritchie Valens",
         "url": "https://open.spotify.com/album/77UI8F1LuhiQaKIL1qOE1W"
       },
@@ -975,6 +959,22 @@
       "duration_ms": 118226,
       "name": "C\u2019Mon Everybody",
       "url": "https://open.spotify.com/track/7ItZM6DMZE2m1X7yIaRxjq"
+    },
+    {
+      "added_at": "2022-06-09 22:02:00",
+      "album": {
+        "name": "Fats Domino Swings",
+        "url": "https://open.spotify.com/album/3vte37u7rIAmMZJwNyJSjf"
+      },
+      "artists": [
+        {
+          "name": "Fats Domino",
+          "url": "https://open.spotify.com/artist/09C0xjtosNAIXP36wTnWxd"
+        }
+      ],
+      "duration_ms": 152200,
+      "name": "Ain't That A Shame",
+      "url": "https://open.spotify.com/track/4ZfQwNx3FlCN07cnUvekh3"
     },
     {
       "added_at": "2022-06-09 22:02:00",
@@ -1171,6 +1171,22 @@
     {
       "added_at": "2022-06-09 22:02:00",
       "album": {
+        "name": "Songs For Young Lovers",
+        "url": "https://open.spotify.com/album/19sNgSx2E2F6IhlYsmRcur"
+      },
+      "artists": [
+        {
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+        }
+      ],
+      "duration_ms": 150666,
+      "name": "My Funny Valentine - Remastered",
+      "url": "https://open.spotify.com/track/0x0ffSAP6PkdoDgHOfroof"
+    },
+    {
+      "added_at": "2022-06-09 22:02:00",
+      "album": {
         "name": "The Call Of The Wildest (Expanded Edition)",
         "url": "https://open.spotify.com/album/5RDBugAE4cU2vbLZj0dvmf"
       },
@@ -1187,22 +1203,6 @@
       "duration_ms": 141666,
       "name": "Pennies From Heaven",
       "url": "https://open.spotify.com/track/4tmy6FB76bR5eLmx0zO1mn"
-    },
-    {
-      "added_at": "2022-06-09 22:02:00",
-      "album": {
-        "name": "Songs For Young Lovers",
-        "url": "https://open.spotify.com/album/19sNgSx2E2F6IhlYsmRcur"
-      },
-      "artists": [
-        {
-          "name": "Frank Sinatra",
-          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
-        }
-      ],
-      "duration_ms": 150666,
-      "name": "My Funny Valentine - Remastered",
-      "url": "https://open.spotify.com/track/0x0ffSAP6PkdoDgHOfroof"
     },
     {
       "added_at": "2022-06-09 22:02:00",
@@ -1499,22 +1499,6 @@
     {
       "added_at": "2022-06-09 22:02:00",
       "album": {
-        "name": "The Very Best of The Everly Brothers",
-        "url": "https://open.spotify.com/album/4lmdDGcU5u1xk3GCcVJSYT"
-      },
-      "artists": [
-        {
-          "name": "The Everly Brothers",
-          "url": "https://open.spotify.com/artist/4ACplpEqD6JIVgKrafauzs"
-        }
-      ],
-      "duration_ms": 123520,
-      "name": "Wake up Little Susie",
-      "url": "https://open.spotify.com/track/11fNLqDB47gMKj7BHhR2Qr"
-    },
-    {
-      "added_at": "2022-06-09 22:02:00",
-      "album": {
         "name": "Vintage Collections",
         "url": "https://open.spotify.com/album/5qWqMyXJ9uOCl6vEIVKqBD"
       },
@@ -1527,6 +1511,22 @@
       "duration_ms": 158306,
       "name": "Sixteen Tons",
       "url": "https://open.spotify.com/track/3P6OwCX7Ofiaaqtvujb6i5"
+    },
+    {
+      "added_at": "2022-06-09 22:02:00",
+      "album": {
+        "name": "The Very Best of The Everly Brothers",
+        "url": "https://open.spotify.com/album/4lmdDGcU5u1xk3GCcVJSYT"
+      },
+      "artists": [
+        {
+          "name": "The Everly Brothers",
+          "url": "https://open.spotify.com/artist/4ACplpEqD6JIVgKrafauzs"
+        }
+      ],
+      "duration_ms": 123520,
+      "name": "Wake up Little Susie",
+      "url": "https://open.spotify.com/track/11fNLqDB47gMKj7BHhR2Qr"
     },
     {
       "added_at": "2022-06-09 22:02:00",
@@ -1581,22 +1581,6 @@
       "url": "https://open.spotify.com/track/7Gpx2fNJiilvrf9Ss8qbit"
     },
     {
-      "added_at": "2022-06-09 22:02:00",
-      "album": {
-        "name": "Chantilly Lace",
-        "url": "https://open.spotify.com/album/4rjNs9o3EjMVQlwV7EuhGS"
-      },
-      "artists": [
-        {
-          "name": "The Big Bopper",
-          "url": "https://open.spotify.com/artist/2gNK2HAaLVz5DZoD2moDQj"
-        }
-      ],
-      "duration_ms": 145266,
-      "name": "Chantilly Lace",
-      "url": "https://open.spotify.com/track/07GtDOCxmye5KDWsTSACPk"
-    },
-    {
       "added_at": "2023-02-28 06:10:48",
       "album": {
         "name": "Moanin' The Blues (Expanded Edition)",
@@ -1611,6 +1595,22 @@
       "duration_ms": 168773,
       "name": "I'm So Lonesome I Could Cry",
       "url": "https://open.spotify.com/track/0hveAq1VSNWo9MQYGMHvFF"
+    },
+    {
+      "added_at": "2022-06-09 22:02:00",
+      "album": {
+        "name": "Chantilly Lace",
+        "url": "https://open.spotify.com/album/4rjNs9o3EjMVQlwV7EuhGS"
+      },
+      "artists": [
+        {
+          "name": "The Big Bopper",
+          "url": "https://open.spotify.com/artist/2gNK2HAaLVz5DZoD2moDQj"
+        }
+      ],
+      "duration_ms": 145266,
+      "name": "Chantilly Lace",
+      "url": "https://open.spotify.com/track/07GtDOCxmye5KDWsTSACPk"
     },
     {
       "added_at": "2022-06-09 22:02:00",
@@ -1891,18 +1891,18 @@
     {
       "added_at": "2022-06-09 22:02:00",
       "album": {
-        "name": "The Best Of The Diamonds",
-        "url": "https://open.spotify.com/album/6iUnqREt5OzfM2EDpJVEVM"
+        "name": "Born Too Late",
+        "url": "https://open.spotify.com/album/3TnMW3EicWwdyFAze9Y0og"
       },
       "artists": [
         {
-          "name": "The Diamonds",
-          "url": "https://open.spotify.com/artist/3s9kaLrpplvv4vIzZBYPga"
+          "name": "The Poni-Tails",
+          "url": "https://open.spotify.com/artist/2NbPfkf3TYSRoJ64inF0AN"
         }
       ],
-      "duration_ms": 129333,
-      "name": "Little Darlin'",
-      "url": "https://open.spotify.com/track/7ycFNferNuk6wAjBa0vWvl"
+      "duration_ms": 139013,
+      "name": "Born Too Late",
+      "url": "https://open.spotify.com/track/3ZyJfbh2Y9y15f45qY1pDJ"
     },
     {
       "added_at": "2022-06-09 22:02:00",
@@ -1923,18 +1923,18 @@
     {
       "added_at": "2022-06-09 22:02:00",
       "album": {
-        "name": "Born Too Late",
-        "url": "https://open.spotify.com/album/3TnMW3EicWwdyFAze9Y0og"
+        "name": "The Best Of The Diamonds",
+        "url": "https://open.spotify.com/album/6iUnqREt5OzfM2EDpJVEVM"
       },
       "artists": [
         {
-          "name": "The Poni-Tails",
-          "url": "https://open.spotify.com/artist/2NbPfkf3TYSRoJ64inF0AN"
+          "name": "The Diamonds",
+          "url": "https://open.spotify.com/artist/3s9kaLrpplvv4vIzZBYPga"
         }
       ],
-      "duration_ms": 139013,
-      "name": "Born Too Late",
-      "url": "https://open.spotify.com/track/3ZyJfbh2Y9y15f45qY1pDJ"
+      "duration_ms": 129333,
+      "name": "Little Darlin'",
+      "url": "https://open.spotify.com/track/7ycFNferNuk6wAjBa0vWvl"
     },
     {
       "added_at": "2022-06-09 22:02:00",
@@ -1975,22 +1975,6 @@
     {
       "added_at": "2022-06-09 22:02:00",
       "album": {
-        "name": "The Coasters",
-        "url": "https://open.spotify.com/album/3HRX7bzilG4zT8CZ6KTdtO"
-      },
-      "artists": [
-        {
-          "name": "The Coasters",
-          "url": "https://open.spotify.com/artist/3QZKZBEmr54lAVI5XvmjnM"
-        }
-      ],
-      "duration_ms": 196466,
-      "name": "Down in Mexico",
-      "url": "https://open.spotify.com/track/4OnqJ1ml4Jgr5AAKNrrYCD"
-    },
-    {
-      "added_at": "2022-06-09 22:02:00",
-      "album": {
         "name": "Wonderful One",
         "url": "https://open.spotify.com/album/5KvbVd1P8Y8bfu2KyZr6SJ"
       },
@@ -2003,6 +1987,22 @@
       "duration_ms": 147828,
       "name": "Mr. Sandman",
       "url": "https://open.spotify.com/track/1jFMxPxfENtR7b4EV8A2vm"
+    },
+    {
+      "added_at": "2022-06-09 22:02:00",
+      "album": {
+        "name": "The Coasters",
+        "url": "https://open.spotify.com/album/3HRX7bzilG4zT8CZ6KTdtO"
+      },
+      "artists": [
+        {
+          "name": "The Coasters",
+          "url": "https://open.spotify.com/artist/3QZKZBEmr54lAVI5XvmjnM"
+        }
+      ],
+      "duration_ms": 196466,
+      "name": "Down in Mexico",
+      "url": "https://open.spotify.com/track/4OnqJ1ml4Jgr5AAKNrrYCD"
     },
     {
       "added_at": "2022-06-09 22:02:00",

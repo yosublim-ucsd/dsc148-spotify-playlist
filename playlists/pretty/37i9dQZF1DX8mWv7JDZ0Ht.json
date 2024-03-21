@@ -1,12 +1,12 @@
 {
   "description": "Novidades do pop nacional pra te deixar mais leve! Foto: Jota.p\u00ea, Gilsons",
-  "num_followers": 434281,
+  "num_followers": 434292,
   "original_name": "Pop Leve",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5ZmY5ODU5YmYyMWY0YzgzZjI3ZTQ0YzA5NGRjNDAwM2UxM2YxMTlj",
+  "snapshot_id": "MCwxZDFlMWQxZmMwZDJhMmUyODQzODM2M2M5NjY5MWRmMWI2NGIxMGI2",
   "tracks": [
     {
       "added_at": "2024-03-15 03:00:00",
@@ -155,6 +155,38 @@
     {
       "added_at": "2024-03-15 03:00:00",
       "album": {
+        "name": "Pedra Preciosa",
+        "url": "https://open.spotify.com/album/1dGKlrAidKqbr2UQswAFeY"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Elias",
+          "url": "https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK"
+        }
+      ],
+      "duration_ms": 204586,
+      "name": "Pedra Preciosa",
+      "url": "https://open.spotify.com/track/3c6Me0aOTbvv9eDiQGKirx"
+    },
+    {
+      "added_at": "2024-03-15 03:00:00",
+      "album": {
+        "name": "S\u00f3 Mais Um Pouquinho",
+        "url": "https://open.spotify.com/album/0wHwQ2NC4TPT8DpopVj4ll"
+      },
+      "artists": [
+        {
+          "name": "Rodrigo Alarcon",
+          "url": "https://open.spotify.com/artist/6D3gtdoxrtRGO9ZDU5wWSQ"
+        }
+      ],
+      "duration_ms": 193949,
+      "name": "S\u00f3 Mais Um Pouquinho",
+      "url": "https://open.spotify.com/track/2kaYMQUvt2Jd4i8zFCH1PV"
+    },
+    {
+      "added_at": "2024-03-15 03:00:00",
+      "album": {
         "name": "Nossa Resenha",
         "url": "https://open.spotify.com/album/6bFqfgfvRkjciDVVQCZZYr"
       },
@@ -183,22 +215,6 @@
     {
       "added_at": "2024-03-15 03:00:00",
       "album": {
-        "name": "S\u00f3 Mais Um Pouquinho",
-        "url": "https://open.spotify.com/album/0wHwQ2NC4TPT8DpopVj4ll"
-      },
-      "artists": [
-        {
-          "name": "Rodrigo Alarcon",
-          "url": "https://open.spotify.com/artist/6D3gtdoxrtRGO9ZDU5wWSQ"
-        }
-      ],
-      "duration_ms": 193949,
-      "name": "S\u00f3 Mais Um Pouquinho",
-      "url": "https://open.spotify.com/track/2kaYMQUvt2Jd4i8zFCH1PV"
-    },
-    {
-      "added_at": "2024-03-15 03:00:00",
-      "album": {
         "name": "Flora - EP",
         "url": "https://open.spotify.com/album/0SQlu42O4zvJbbEolJHTC3"
       },
@@ -211,22 +227,6 @@
       "duration_ms": 158000,
       "name": "Vem conversar",
       "url": "https://open.spotify.com/track/7BWj4bLH3ppKNGH9rncZWT"
-    },
-    {
-      "added_at": "2024-03-15 03:00:00",
-      "album": {
-        "name": "Pedra Preciosa",
-        "url": "https://open.spotify.com/album/1dGKlrAidKqbr2UQswAFeY"
-      },
-      "artists": [
-        {
-          "name": "Gabriel Elias",
-          "url": "https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK"
-        }
-      ],
-      "duration_ms": 204586,
-      "name": "Pedra Preciosa",
-      "url": "https://open.spotify.com/track/3c6Me0aOTbvv9eDiQGKirx"
     },
     {
       "added_at": "2024-03-15 03:00:00",
@@ -431,6 +431,22 @@
     {
       "added_at": "2024-03-15 03:00:00",
       "album": {
+        "name": "Caf\u00e9",
+        "url": "https://open.spotify.com/album/5exniSTn2LGUbnFHkTnLHL"
+      },
+      "artists": [
+        {
+          "name": "Stefano",
+          "url": "https://open.spotify.com/artist/2Bao7Lz3ywa0lvgpwRmAVT"
+        }
+      ],
+      "duration_ms": 218604,
+      "name": "Caf\u00e9",
+      "url": "https://open.spotify.com/track/2VgA9S2cBOCsxo9JhTa5Ub"
+    },
+    {
+      "added_at": "2024-03-15 03:00:00",
+      "album": {
         "name": "Deixa Acender",
         "url": "https://open.spotify.com/album/2Zzg1exvNmLqNCgZKHtAW8"
       },
@@ -447,22 +463,6 @@
       "duration_ms": 155600,
       "name": "Deixa Acender",
       "url": "https://open.spotify.com/track/3D1d9aNhYHsgKSOHEVWsHn"
-    },
-    {
-      "added_at": "2024-03-15 03:00:00",
-      "album": {
-        "name": "Caf\u00e9",
-        "url": "https://open.spotify.com/album/5exniSTn2LGUbnFHkTnLHL"
-      },
-      "artists": [
-        {
-          "name": "Stefano",
-          "url": "https://open.spotify.com/artist/2Bao7Lz3ywa0lvgpwRmAVT"
-        }
-      ],
-      "duration_ms": 218604,
-      "name": "Caf\u00e9",
-      "url": "https://open.spotify.com/track/2VgA9S2cBOCsxo9JhTa5Ub"
     },
     {
       "added_at": "2024-03-15 03:00:00",
@@ -543,6 +543,22 @@
     {
       "added_at": "2024-03-15 03:00:00",
       "album": {
+        "name": "Cear\u00e1",
+        "url": "https://open.spotify.com/album/37Os4CH6bRBrT6BkZtMWmx"
+      },
+      "artists": [
+        {
+          "name": "Magi",
+          "url": "https://open.spotify.com/artist/1wO4Q3O7ljz4tGRAVZVQXy"
+        }
+      ],
+      "duration_ms": 132636,
+      "name": "Cear\u00e1",
+      "url": "https://open.spotify.com/track/4und8X5ZjsDoFJMUyQoZX6"
+    },
+    {
+      "added_at": "2024-03-15 03:00:00",
+      "album": {
         "name": "Carinha De Problema",
         "url": "https://open.spotify.com/album/1dABET9ANzLH053hXWtfoD"
       },
@@ -559,22 +575,6 @@
       "duration_ms": 163258,
       "name": "Carinha De Problema",
       "url": "https://open.spotify.com/track/6vbMrA3aVBPRW1ywKVDEYa"
-    },
-    {
-      "added_at": "2024-03-15 03:00:00",
-      "album": {
-        "name": "Cear\u00e1",
-        "url": "https://open.spotify.com/album/37Os4CH6bRBrT6BkZtMWmx"
-      },
-      "artists": [
-        {
-          "name": "Magi",
-          "url": "https://open.spotify.com/artist/1wO4Q3O7ljz4tGRAVZVQXy"
-        }
-      ],
-      "duration_ms": 132636,
-      "name": "Cear\u00e1",
-      "url": "https://open.spotify.com/track/4und8X5ZjsDoFJMUyQoZX6"
     },
     {
       "added_at": "2024-03-15 03:00:00",
@@ -627,26 +627,6 @@
     {
       "added_at": "2024-03-15 03:00:00",
       "album": {
-        "name": "putz",
-        "url": "https://open.spotify.com/album/4jHIJVCbtAKEfvLg9gbdxl"
-      },
-      "artists": [
-        {
-          "name": "Braga",
-          "url": "https://open.spotify.com/artist/7dO3FozNKSxFlBbh4U08ng"
-        },
-        {
-          "name": "KVSH",
-          "url": "https://open.spotify.com/artist/2uGKgNuq7MnKksXiSO6HjB"
-        }
-      ],
-      "duration_ms": 108307,
-      "name": "putz",
-      "url": "https://open.spotify.com/track/3eDcQ4Hb1C662e1iCYzxCL"
-    },
-    {
-      "added_at": "2024-03-15 03:00:00",
-      "album": {
         "name": "Breve",
         "url": "https://open.spotify.com/album/7vnC5W0UKcZsOEsBx6zU07"
       },
@@ -667,6 +647,26 @@
     {
       "added_at": "2024-03-15 03:00:00",
       "album": {
+        "name": "putz",
+        "url": "https://open.spotify.com/album/4jHIJVCbtAKEfvLg9gbdxl"
+      },
+      "artists": [
+        {
+          "name": "Braga",
+          "url": "https://open.spotify.com/artist/7dO3FozNKSxFlBbh4U08ng"
+        },
+        {
+          "name": "KVSH",
+          "url": "https://open.spotify.com/artist/2uGKgNuq7MnKksXiSO6HjB"
+        }
+      ],
+      "duration_ms": 108307,
+      "name": "putz",
+      "url": "https://open.spotify.com/track/3eDcQ4Hb1C662e1iCYzxCL"
+    },
+    {
+      "added_at": "2024-03-15 03:00:00",
+      "album": {
         "name": "At\u00e9 Envelhecer",
         "url": "https://open.spotify.com/album/7LPeshWUF07odB5Zd0QU2O"
       },
@@ -679,6 +679,22 @@
       "duration_ms": 177500,
       "name": "At\u00e9 Envelhecer",
       "url": "https://open.spotify.com/track/2JYP4KOugjmv1ge4NqBS0z"
+    },
+    {
+      "added_at": "2024-03-15 03:00:00",
+      "album": {
+        "name": "Balada do Amor Inabal\u00e1vel",
+        "url": "https://open.spotify.com/album/10mKCtbO1jF7p3CUbIQaJE"
+      },
+      "artists": [
+        {
+          "name": "GUPE",
+          "url": "https://open.spotify.com/artist/0P3XVLx4HRUXxNlkrXjKix"
+        }
+      ],
+      "duration_ms": 142144,
+      "name": "Balada do Amor Inabal\u00e1vel",
+      "url": "https://open.spotify.com/track/4f4qGGCOjLVT1Y89n2yELB"
     },
     {
       "added_at": "2024-03-15 03:00:00",
@@ -699,22 +715,6 @@
       "duration_ms": 304068,
       "name": "N\u00d3S NUS",
       "url": "https://open.spotify.com/track/3zRoNvRTovjZcycfZw7N7T"
-    },
-    {
-      "added_at": "2024-03-15 03:00:00",
-      "album": {
-        "name": "Balada do Amor Inabal\u00e1vel",
-        "url": "https://open.spotify.com/album/10mKCtbO1jF7p3CUbIQaJE"
-      },
-      "artists": [
-        {
-          "name": "GUPE",
-          "url": "https://open.spotify.com/artist/0P3XVLx4HRUXxNlkrXjKix"
-        }
-      ],
-      "duration_ms": 142144,
-      "name": "Balada do Amor Inabal\u00e1vel",
-      "url": "https://open.spotify.com/track/4f4qGGCOjLVT1Y89n2yELB"
     },
     {
       "added_at": "2024-03-15 03:00:00",
@@ -803,6 +803,22 @@
     {
       "added_at": "2024-03-15 03:00:00",
       "album": {
+        "name": "Vou Fugir",
+        "url": "https://open.spotify.com/album/7tXmK4dfYwqV6qUeRIUsuR"
+      },
+      "artists": [
+        {
+          "name": "Jo\u00e3o Mar",
+          "url": "https://open.spotify.com/artist/2NV1SEgX1h3DIADJjzRrQy"
+        }
+      ],
+      "duration_ms": 166153,
+      "name": "Vou Fugir",
+      "url": "https://open.spotify.com/track/7nAGVYygZ9bB8jlChOoQlj"
+    },
+    {
+      "added_at": "2024-03-15 03:00:00",
+      "album": {
         "name": "Renata",
         "url": "https://open.spotify.com/album/2NZvpmeIzbwYbTi0KODCYI"
       },
@@ -819,22 +835,6 @@
       "duration_ms": 170294,
       "name": "Renata",
       "url": "https://open.spotify.com/track/4XMc6OTIFSzkcDKOLrA682"
-    },
-    {
-      "added_at": "2024-03-15 03:00:00",
-      "album": {
-        "name": "Vou Fugir",
-        "url": "https://open.spotify.com/album/7tXmK4dfYwqV6qUeRIUsuR"
-      },
-      "artists": [
-        {
-          "name": "Jo\u00e3o Mar",
-          "url": "https://open.spotify.com/artist/2NV1SEgX1h3DIADJjzRrQy"
-        }
-      ],
-      "duration_ms": 166153,
-      "name": "Vou Fugir",
-      "url": "https://open.spotify.com/track/7nAGVYygZ9bB8jlChOoQlj"
     },
     {
       "added_at": "2024-03-15 03:00:00",
@@ -1075,22 +1075,6 @@
     {
       "added_at": "2024-03-15 03:00:00",
       "album": {
-        "name": "Fim de Semana",
-        "url": "https://open.spotify.com/album/78JeRMyk5MO0h05lJd9tys"
-      },
-      "artists": [
-        {
-          "name": "Tori",
-          "url": "https://open.spotify.com/artist/4JnogHpZJqdZu7njKCOgch"
-        }
-      ],
-      "duration_ms": 154603,
-      "name": "Fim de Semana",
-      "url": "https://open.spotify.com/track/3cUVNIsQNxVqUI01dM8ScZ"
-    },
-    {
-      "added_at": "2024-03-15 03:00:00",
-      "album": {
         "name": "Quero Bem Mais",
         "url": "https://open.spotify.com/album/67c6vSA5eLN2Q98gIuzdNL"
       },
@@ -1107,6 +1091,22 @@
       "duration_ms": 197052,
       "name": "Quero Bem Mais",
       "url": "https://open.spotify.com/track/3lLiOQwcKrnus49E9CuBNh"
+    },
+    {
+      "added_at": "2024-03-15 03:00:00",
+      "album": {
+        "name": "Fim de Semana",
+        "url": "https://open.spotify.com/album/78JeRMyk5MO0h05lJd9tys"
+      },
+      "artists": [
+        {
+          "name": "Tori",
+          "url": "https://open.spotify.com/artist/4JnogHpZJqdZu7njKCOgch"
+        }
+      ],
+      "duration_ms": 154603,
+      "name": "Fim de Semana",
+      "url": "https://open.spotify.com/track/3cUVNIsQNxVqUI01dM8ScZ"
     },
     {
       "added_at": "2024-03-15 03:00:00",
@@ -1131,6 +1131,22 @@
     {
       "added_at": "2024-03-15 03:00:00",
       "album": {
+        "name": "Lindo Dom",
+        "url": "https://open.spotify.com/album/3ynnDgzReFpyKzctGIOeUf"
+      },
+      "artists": [
+        {
+          "name": "Lizandra",
+          "url": "https://open.spotify.com/artist/3sxbfZzDDFlTIqJ8jBwLLl"
+        }
+      ],
+      "duration_ms": 193842,
+      "name": "Lindo Dom",
+      "url": "https://open.spotify.com/track/0myYqS56qDgkhORsngm4YX"
+    },
+    {
+      "added_at": "2024-03-15 03:00:00",
+      "album": {
         "name": "MELODRAM\u00c1TICO",
         "url": "https://open.spotify.com/album/2k78WzHmrbWkRfTtACqLP0"
       },
@@ -1147,22 +1163,6 @@
       "duration_ms": 157565,
       "name": "Desfa\u00e7o",
       "url": "https://open.spotify.com/track/7GZp4mZWDd0CFv4j3B6ObX"
-    },
-    {
-      "added_at": "2024-03-15 03:00:00",
-      "album": {
-        "name": "Lindo Dom",
-        "url": "https://open.spotify.com/album/3ynnDgzReFpyKzctGIOeUf"
-      },
-      "artists": [
-        {
-          "name": "Lizandra",
-          "url": "https://open.spotify.com/artist/3sxbfZzDDFlTIqJ8jBwLLl"
-        }
-      ],
-      "duration_ms": 193842,
-      "name": "Lindo Dom",
-      "url": "https://open.spotify.com/track/0myYqS56qDgkhORsngm4YX"
     },
     {
       "added_at": "2024-03-15 03:00:00",
@@ -1215,26 +1215,6 @@
     {
       "added_at": "2024-03-15 03:00:00",
       "album": {
-        "name": "PLENA TER\u00c7A FEIRA",
-        "url": "https://open.spotify.com/album/6NgRpkiKTHUb0tp2C9Gxg3"
-      },
-      "artists": [
-        {
-          "name": "Gabriel Coelho",
-          "url": "https://open.spotify.com/artist/6DsLWHhRTF9iOzDJ1UCELx"
-        },
-        {
-          "name": "Julie Ramos",
-          "url": "https://open.spotify.com/artist/72MhucM5doKoAXE5GIApaV"
-        }
-      ],
-      "duration_ms": 187982,
-      "name": "PLENA TER\u00c7A FEIRA",
-      "url": "https://open.spotify.com/track/4yt9UtmoWZRHLRl5HN0g86"
-    },
-    {
-      "added_at": "2024-03-15 03:00:00",
-      "album": {
         "name": "Eu N\u00e3o Gosto De Voc\u00ea",
         "url": "https://open.spotify.com/album/2khNdKDOcnbwH2mKP2oKVx"
       },
@@ -1255,6 +1235,26 @@
       "duration_ms": 170385,
       "name": "Eu N\u00e3o Gosto De Voc\u00ea",
       "url": "https://open.spotify.com/track/3Og1pv5olDQgQrydmgnaEA"
+    },
+    {
+      "added_at": "2024-03-15 03:00:00",
+      "album": {
+        "name": "PLENA TER\u00c7A FEIRA",
+        "url": "https://open.spotify.com/album/6NgRpkiKTHUb0tp2C9Gxg3"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Coelho",
+          "url": "https://open.spotify.com/artist/6DsLWHhRTF9iOzDJ1UCELx"
+        },
+        {
+          "name": "Julie Ramos",
+          "url": "https://open.spotify.com/artist/72MhucM5doKoAXE5GIApaV"
+        }
+      ],
+      "duration_ms": 187982,
+      "name": "PLENA TER\u00c7A FEIRA",
+      "url": "https://open.spotify.com/track/4yt9UtmoWZRHLRl5HN0g86"
     },
     {
       "added_at": "2024-03-15 03:00:00",
@@ -1359,8 +1359,8 @@
     {
       "added_at": "2024-03-15 03:00:00",
       "album": {
-        "name": "T\u00e1 Sol",
-        "url": "https://open.spotify.com/album/6mmGNL6VizbId40msBeRh7"
+        "name": "No Azul do Teu Olhar",
+        "url": "https://open.spotify.com/album/4e26MuGPtaW04apoRiYkmd"
       },
       "artists": [
         {
@@ -1372,15 +1372,15 @@
           "url": "https://open.spotify.com/artist/2AFHUuEtvqHN4JlNzyq8cv"
         }
       ],
-      "duration_ms": 143649,
-      "name": "T\u00e1 Sol",
-      "url": "https://open.spotify.com/track/0eWEm96SEEs39MB8IJ68M1"
+      "duration_ms": 201792,
+      "name": "No Azul do Teu Olhar",
+      "url": "https://open.spotify.com/track/1usi76vEIYhyu9a7Dniqs0"
     },
     {
       "added_at": "2024-03-15 03:00:00",
       "album": {
-        "name": "J\u00e1 Te Falei",
-        "url": "https://open.spotify.com/album/1zPJT1T0GT17RKdtAefWd8"
+        "name": "Duas da Manh\u00e3",
+        "url": "https://open.spotify.com/album/00zcJl8VAUdohbTZfPJnY5"
       },
       "artists": [
         {
@@ -1388,9 +1388,9 @@
           "url": "https://open.spotify.com/artist/6gTTzFaOz9AA7DpBnvMn4p"
         }
       ],
-      "duration_ms": 205540,
-      "name": "J\u00e1 Te Falei",
-      "url": "https://open.spotify.com/track/5IyNzftggTwpT2VGTIphRs"
+      "duration_ms": 198071,
+      "name": "Duas da Manh\u00e3",
+      "url": "https://open.spotify.com/track/4njPGT7H3RNdAy1Lkh3cYI"
     },
     {
       "added_at": "2024-03-15 03:00:00",
@@ -1503,32 +1503,24 @@
     {
       "added_at": "2024-03-15 03:00:00",
       "album": {
-        "name": "mentalmente",
-        "url": "https://open.spotify.com/album/5YiQ8dQ3MFu9MNg9sOQjDO"
+        "name": "Concreto (2024 Rework)",
+        "url": "https://open.spotify.com/album/1BEdpQGeHrhtjZekdaKUPJ"
       },
       "artists": [
         {
-          "name": "Carol Passos",
-          "url": "https://open.spotify.com/artist/5PTSuEffMevlta7r4D3asP"
-        },
-        {
-          "name": "GCARVALHO",
-          "url": "https://open.spotify.com/artist/1kNfxWOfLZgfDJsEP7tLHh"
-        },
-        {
-          "name": "CASITA",
-          "url": "https://open.spotify.com/artist/2AFHUuEtvqHN4JlNzyq8cv"
+          "name": "Vicka",
+          "url": "https://open.spotify.com/artist/5ITGPHkPyU6uvvrhMjCGai"
         }
       ],
-      "duration_ms": 175471,
-      "name": "mentalmente",
-      "url": "https://open.spotify.com/track/1hQa4ceXHdS41cYqHCv5M9"
+      "duration_ms": 194196,
+      "name": "Recome\u00e7o - Bonus Track",
+      "url": "https://open.spotify.com/track/1Ll03UzfVOYrcWK4FgwEtH"
     },
     {
       "added_at": "2024-03-15 03:00:00",
       "album": {
-        "name": "No Azul do Teu Olhar",
-        "url": "https://open.spotify.com/album/4e26MuGPtaW04apoRiYkmd"
+        "name": "T\u00e1 Sol",
+        "url": "https://open.spotify.com/album/6mmGNL6VizbId40msBeRh7"
       },
       "artists": [
         {
@@ -1540,15 +1532,15 @@
           "url": "https://open.spotify.com/artist/2AFHUuEtvqHN4JlNzyq8cv"
         }
       ],
-      "duration_ms": 201792,
-      "name": "No Azul do Teu Olhar",
-      "url": "https://open.spotify.com/track/1usi76vEIYhyu9a7Dniqs0"
+      "duration_ms": 143649,
+      "name": "T\u00e1 Sol",
+      "url": "https://open.spotify.com/track/0eWEm96SEEs39MB8IJ68M1"
     },
     {
       "added_at": "2024-03-15 03:00:00",
       "album": {
-        "name": "Duas da Manh\u00e3",
-        "url": "https://open.spotify.com/album/00zcJl8VAUdohbTZfPJnY5"
+        "name": "J\u00e1 Te Falei",
+        "url": "https://open.spotify.com/album/1zPJT1T0GT17RKdtAefWd8"
       },
       "artists": [
         {
@@ -1556,9 +1548,9 @@
           "url": "https://open.spotify.com/artist/6gTTzFaOz9AA7DpBnvMn4p"
         }
       ],
-      "duration_ms": 198071,
-      "name": "Duas da Manh\u00e3",
-      "url": "https://open.spotify.com/track/4njPGT7H3RNdAy1Lkh3cYI"
+      "duration_ms": 205540,
+      "name": "J\u00e1 Te Falei",
+      "url": "https://open.spotify.com/track/5IyNzftggTwpT2VGTIphRs"
     }
   ],
   "unique_name": "Pop Leve",

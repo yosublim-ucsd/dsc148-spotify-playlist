@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaIrEwuQ3hyy.md) - [plain]
 
 > Wenn die Tage länger werden und die Luft wärmer \- diese Tracks begleiten dich in den Frühling.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,036,070 likes - 80 songs - 4 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,036,196 likes - 80 songs - 4 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaIrEwuQ3hyy.md) - [plain]
 | 20 | [Wildfires](https://open.spotify.com/track/4Tzw9IdZbVyzmpWrvsGaNX) | [SAULT](https://open.spotify.com/artist/1uRxRKC7d9zwYGSRflTKDR) | [Untitled \(Black Is\)](https://open.spotify.com/album/0GPmuVuCdC5hCsiuy1wXle) | 3:26 |
 | 21 | [May Ninth](https://open.spotify.com/track/2145px2VY14o2Pgr0OIttX) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk) | [May Ninth](https://open.spotify.com/album/0XTJuQSKa1LtnG7r5MO43L) | 3:12 |
 | 22 | [Stay](https://open.spotify.com/track/0Uon5NsSAkBDx69XYOaQ5P) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Stay](https://open.spotify.com/album/5wjbd3QuTtEVuNRlIY0o4Q) | 2:57 |
-| 23 | [THIS YEAR \(Blessings\)](https://open.spotify.com/track/2VGGQdroduj4dIMGPsBzDG) | [Victor Thompson](https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas), [Ehis 'D' Greatest](https://open.spotify.com/artist/6QdzKE9cMAEFZj1pYcxpsf) | [THIS YEAR \(Blessings\)](https://open.spotify.com/album/31Iuukwc9AgXmHyU2UmYDi) | 2:06 |
-| 24 | [Best Day Of My Life](https://open.spotify.com/track/1GIsnE71uUtWvGpvnJCTXO) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Best Day of My Life](https://open.spotify.com/album/0JCGma6Cn0cz9xY7rJSio2) | 2:26 |
+| 23 | [Best Day Of My Life](https://open.spotify.com/track/1GIsnE71uUtWvGpvnJCTXO) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Best Day of My Life](https://open.spotify.com/album/0JCGma6Cn0cz9xY7rJSio2) | 2:26 |
+| 24 | [THIS YEAR \(Blessings\)](https://open.spotify.com/track/2VGGQdroduj4dIMGPsBzDG) | [Victor Thompson](https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas), [Ehis 'D' Greatest](https://open.spotify.com/artist/6QdzKE9cMAEFZj1pYcxpsf) | [THIS YEAR \(Blessings\)](https://open.spotify.com/album/31Iuukwc9AgXmHyU2UmYDi) | 2:06 |
 | 25 | [go](https://open.spotify.com/track/4VtRHZ4tBDHaWltVAytlLY) | [Cat Burns](https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn) | [go](https://open.spotify.com/album/7KfrkeW0bJx9w3Wak4PGX2) | 3:35 |
 | 26 | [lavender \(feat\. Pink Sweat$\)](https://open.spotify.com/track/4WkmcS7sW41aVsFdJ2PfT7) | [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK), [Pink Sweat$](https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t) | [lavender \(feat\. Pink Sweat$\)](https://open.spotify.com/album/6yVgRdy62kDlrxeV3nBQOv) | 2:37 |
 | 27 | [Stockholmsvy](https://open.spotify.com/track/3BeaiIXko9QV8689eWB6yd) | [Hannes](https://open.spotify.com/artist/5bWgLmSpWnixX3inugtAVY), [waterbaby](https://open.spotify.com/artist/7ig7r3UikvL9qJe7pQvCBn) | [Stockholmsvy](https://open.spotify.com/album/0LHAqxNQQgAlh7wk3aRWgM) | 2:41 |
@@ -71,15 +71,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaIrEwuQ3hyy.md) - [plain]
 | 61 | [Weit weg](https://open.spotify.com/track/0xpxqgwLsMIJFQQKPGXclD) | [Ivo Martin](https://open.spotify.com/artist/4bId6MR2fskVKIeCSEmktg) | [Weit weg](https://open.spotify.com/album/6DQJr9joGBiomIdsoLRevv) | 2:41 |
 | 62 | [tonight](https://open.spotify.com/track/5ekn0rTXRpR5M99v64inDc) | [BEACHPEOPLE](https://open.spotify.com/artist/3OXpCq0ndnIgWu13LKBEba) | [tonight](https://open.spotify.com/album/4kGymfdDrK06vKDsmc30fQ) | 2:44 |
 | 63 | [I Don't Love You](https://open.spotify.com/track/2okP2LbGxMLQWqmkptMAIX) | [Charlotte Day Wilson](https://open.spotify.com/artist/3GQboECxDT1xqPPWC30p7v) | [I Don't Love You](https://open.spotify.com/album/3YRDP6zsko8EJm9xjgVo4n) | 4:11 |
-| 64 | [Eyes](https://open.spotify.com/track/5TL0AtDGqqAN5djwMTm7RV) | [TWO LANES](https://open.spotify.com/artist/7mnuMLgvXdCWzyB4sQCG7k) | [Eyes](https://open.spotify.com/album/43ZD81KI1vdDZiPoKedtQA) | 4:17 |
-| 65 | [Trade it for the Night](https://open.spotify.com/track/5eTeLVyJv5PT9SVFuOmycc) | [HAEVN](https://open.spotify.com/artist/65Tmt9uAPTYGl1ZhsOeEJ6) | [Trade it for the Night](https://open.spotify.com/album/1TUyTfzAhejrdz4I4pymgp) | 4:50 |
-| 66 | [Slow Dancing](https://open.spotify.com/track/6EXCQbPhpBf5RTQZ4F1raZ) | [Aly & AJ](https://open.spotify.com/artist/5wugb0kaq0J6nyQ5Xgd17i) | [a touch of the beat gets you up on your feet gets you out and then into the sun](https://open.spotify.com/album/00NPJAyth7IDd3jgZDCMdT) | 4:27 |
-| 67 | [Love Will Save Me](https://open.spotify.com/track/2YjXImhg2zXDmWcVy1oSDw) | [WhoMadeWho](https://open.spotify.com/artist/50Lr1puweM1hFsF1LpIZLM), [RY X](https://open.spotify.com/artist/2KjAo6wVc9d2WcxdxSArpV) | [Love Will Save Me](https://open.spotify.com/album/2QNFtpX9BzNTrzRF0A4tbe) | 4:37 |
-| 68 | [Samara](https://open.spotify.com/track/1uAvKraqOWgoCt8bwce9e9) | [Blanco White](https://open.spotify.com/artist/3ccVtqcqedranb7y8eywJ5) | [On the Other Side](https://open.spotify.com/album/51bsId3cKJ6paV9l6KKIkC) | 4:12 |
-| 69 | [Bisschen wach](https://open.spotify.com/track/6boCFRIpvYlbv5HnTdgbyA) | [Dominik Hartz](https://open.spotify.com/artist/5UkjZuL8QQccOXbUWoREdI), [anaïs](https://open.spotify.com/artist/5uT4SmzhWTYv1iia2BFnVQ) | [Am Ende des Tages](https://open.spotify.com/album/52JSitmvGlUJFlJMVidPNL) | 3:15 |
-| 70 | [Addicted](https://open.spotify.com/track/3vMtiUewPWlK5UsIlE8lIy) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [Addicted](https://open.spotify.com/album/4oGNxeyb9Qe4LcS98Szhcs) | 3:24 |
-| 71 | [little me](https://open.spotify.com/track/6I7ll3WgE3HkiszO7r0Cwy) | [Maddie Zahm](https://open.spotify.com/artist/5dtPlx7yKOo7KdZGyrfFIq) | [little me](https://open.spotify.com/album/6bBQRzc5Tdky59N3hquGQm) | 3:00 |
-| 72 | [Crystal Tears](https://open.spotify.com/track/4z6YXURKvs98NXUlVGyevf) | [Elmiene](https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL) | [Crystal Tears](https://open.spotify.com/album/5EQiMkO4WpYpk8zPG8hrTb) | 3:59 |
+| 64 | [little me](https://open.spotify.com/track/6I7ll3WgE3HkiszO7r0Cwy) | [Maddie Zahm](https://open.spotify.com/artist/5dtPlx7yKOo7KdZGyrfFIq) | [little me](https://open.spotify.com/album/6bBQRzc5Tdky59N3hquGQm) | 3:00 |
+| 65 | [Eyes](https://open.spotify.com/track/5TL0AtDGqqAN5djwMTm7RV) | [TWO LANES](https://open.spotify.com/artist/7mnuMLgvXdCWzyB4sQCG7k) | [Eyes](https://open.spotify.com/album/43ZD81KI1vdDZiPoKedtQA) | 4:17 |
+| 66 | [Trade it for the Night](https://open.spotify.com/track/5eTeLVyJv5PT9SVFuOmycc) | [HAEVN](https://open.spotify.com/artist/65Tmt9uAPTYGl1ZhsOeEJ6) | [Trade it for the Night](https://open.spotify.com/album/1TUyTfzAhejrdz4I4pymgp) | 4:50 |
+| 67 | [Crystal Tears](https://open.spotify.com/track/4z6YXURKvs98NXUlVGyevf) | [Elmiene](https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL) | [Crystal Tears](https://open.spotify.com/album/5EQiMkO4WpYpk8zPG8hrTb) | 3:59 |
+| 68 | [Slow Dancing](https://open.spotify.com/track/6EXCQbPhpBf5RTQZ4F1raZ) | [Aly & AJ](https://open.spotify.com/artist/5wugb0kaq0J6nyQ5Xgd17i) | [a touch of the beat gets you up on your feet gets you out and then into the sun](https://open.spotify.com/album/00NPJAyth7IDd3jgZDCMdT) | 4:27 |
+| 69 | [Love Will Save Me](https://open.spotify.com/track/2YjXImhg2zXDmWcVy1oSDw) | [WhoMadeWho](https://open.spotify.com/artist/50Lr1puweM1hFsF1LpIZLM), [RY X](https://open.spotify.com/artist/2KjAo6wVc9d2WcxdxSArpV) | [Love Will Save Me](https://open.spotify.com/album/2QNFtpX9BzNTrzRF0A4tbe) | 4:37 |
+| 70 | [Samara](https://open.spotify.com/track/1uAvKraqOWgoCt8bwce9e9) | [Blanco White](https://open.spotify.com/artist/3ccVtqcqedranb7y8eywJ5) | [On the Other Side](https://open.spotify.com/album/51bsId3cKJ6paV9l6KKIkC) | 4:12 |
+| 71 | [Bisschen wach](https://open.spotify.com/track/6boCFRIpvYlbv5HnTdgbyA) | [Dominik Hartz](https://open.spotify.com/artist/5UkjZuL8QQccOXbUWoREdI), [anaïs](https://open.spotify.com/artist/5uT4SmzhWTYv1iia2BFnVQ) | [Am Ende des Tages](https://open.spotify.com/album/52JSitmvGlUJFlJMVidPNL) | 3:15 |
+| 72 | [Addicted](https://open.spotify.com/track/3vMtiUewPWlK5UsIlE8lIy) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [Addicted](https://open.spotify.com/album/4oGNxeyb9Qe4LcS98Szhcs) | 3:24 |
 | 73 | [All Again](https://open.spotify.com/track/60DdAwooDzeUf68mZB6d5b) | [Wallners](https://open.spotify.com/artist/3EdHRW9KganBlpKU12OQos) | [Prolog I](https://open.spotify.com/album/1T4yqQcf6jzCEt8IX1dF1v) | 4:18 |
 | 74 | [Bound](https://open.spotify.com/track/5iOD44ZsI7c921OorwdwUA) | [RY X](https://open.spotify.com/artist/2KjAo6wVc9d2WcxdxSArpV) | [Unfurl](https://open.spotify.com/album/7pBCXayVLX3fkIDWtMAwOp) | 4:58 |
 | 75 | [Coffee Shop](https://open.spotify.com/track/40tZTQ47XEMg7KT61xAEOI) | [flowerovlove](https://open.spotify.com/artist/1JspXUvEv3D9ddMeLNqYWj) | [Coffee Shop](https://open.spotify.com/album/1jWqXdJ2EeP9CZvIfa3F9U) | 2:04 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaIrEwuQ3hyy.md) - [plain]
 | 79 | [Told You So](https://open.spotify.com/track/7v94i6EcwKfSch4uplaQqv) | [SUPER\-Hi](https://open.spotify.com/artist/2lJ6K4PTrrweXhRiqh1CZE) | [Told You So](https://open.spotify.com/album/5DT3I8xDobo6h66iHSLfMj) | 3:04 |
 | 80 | [Stay cool](https://open.spotify.com/track/5mH3NdJZnMfoFUSk2LgdGL) | [James Vincent McMorrow](https://open.spotify.com/artist/7FDlvgcodNfC0IBdWevl4u) | [Stay cool](https://open.spotify.com/album/6HFTF5zdUuSQr2EvaTnqJo) | 3:27 |
 
-Snapshot ID: `MCwyZGEzOTdjNTc3ZjY1Y2I1MzA0Y2I2MDFiNGVmNzdhZjE2OWI1OTIz`
+Snapshot ID: `MCxlYWQ0Y2NiMzBhNmU4NjEwNDg5ODU5ZWVkYTI5NWY1MzhlMmNkZTgy`

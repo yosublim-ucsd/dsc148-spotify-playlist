@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Nb1cyWS6Tq.md) - [plain]
 
 > Come closer and see..\. into the dark\. The Cure on cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 752,059 likes - 80 songs - 6 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 752,380 likes - 80 songs - 6 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,8 +77,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Nb1cyWS6Tq.md) - [plain]
 | 67 | [Deathwish](https://open.spotify.com/track/1ZGGE74Aw6YFBwJbmuiEZH) | [Christian Death](https://open.spotify.com/artist/6mEohczxsctzkEIU0WAeWD) | [Only Theatre of Pain](https://open.spotify.com/album/59uGWiIsDCv9OKEplQEjO2) | 2:14 |
 | 68 | [Swamp Thing](https://open.spotify.com/track/2pwdD26Y1GsIhrAOETKzQS) | [The Chameleons](https://open.spotify.com/artist/4HLWX9kzfraiCsTvrxJEXm) | [Strange Times](https://open.spotify.com/album/0OyyvqyS0iVQZXNhcwd3F6) | 5:56 |
 | 69 | [Ghost Rider \(2019 \- Remaster\)](https://open.spotify.com/track/0sTMWWSms4Mt6vy33rdqgv) | [Suicide](https://open.spotify.com/artist/6uVeWolwyRDrT84lLsaZyW) | [Suicide \(2019 \- Remaster\)](https://open.spotify.com/album/46kw5FsFdJhNRL8wfHM9Bp) | 2:33 |
-| 70 | [Blasphemous Rumours](https://open.spotify.com/track/7JRWBhgl6KeAuDdoUxkSw4) | [Depeche Mode](https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX) | [Catching Up with Depeche Mode](https://open.spotify.com/album/1fuXkfdOh71JbMvOLIXpX9) | 5:06 |
-| 71 | [Jewel](https://open.spotify.com/track/3Mp4lDIGyCBVWDSF6ALaEd) | [Cranes](https://open.spotify.com/artist/5q2ehaRqAFmM6tLl4vaVwP) | [Forever \(Expanded Edition\)](https://open.spotify.com/album/3nFSPWRHULzYNWGQoDzjKV) | 3:05 |
+| 70 | [Jewel](https://open.spotify.com/track/3Mp4lDIGyCBVWDSF6ALaEd) | [Cranes](https://open.spotify.com/artist/5q2ehaRqAFmM6tLl4vaVwP) | [Forever \(Expanded Edition\)](https://open.spotify.com/album/3nFSPWRHULzYNWGQoDzjKV) | 3:05 |
+| 71 | [Blasphemous Rumours](https://open.spotify.com/track/7JRWBhgl6KeAuDdoUxkSw4) | [Depeche Mode](https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX) | [Catching Up with Depeche Mode](https://open.spotify.com/album/1fuXkfdOh71JbMvOLIXpX9) | 5:06 |
 | 72 | [Moonchild](https://open.spotify.com/track/2k6elFIEJnKIWVZjeQJhvt) | [Fields Of The Nephilim](https://open.spotify.com/artist/3m8KqUjgKDwmJ9L9uBHMMs) | [The Nephilim](https://open.spotify.com/album/2m5896RbfEXpQGBfHkGYAP) | 5:40 |
 | 73 | [The Shadow Of Love](https://open.spotify.com/track/4QaOESIMfFp1MYOOOBHXrE) | [The Damned](https://open.spotify.com/artist/6VeL8VhaMjHTPc5uovFl3h) | [Phantasmagoria](https://open.spotify.com/album/1uLToBhDc3RDVXJhhZ0yK2) | 3:49 |
 | 74 | [Lose My Breath](https://open.spotify.com/track/1Ma06PrhbT07YFTlM48rAK) | [my bloody valentine](https://open.spotify.com/artist/3G3Gdm0ZRAOxLrbyjfhii5) | [Isn't Anything](https://open.spotify.com/album/3mnv6nzZV5AQhDG7OUsLdo) | 3:37 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Nb1cyWS6Tq.md) - [plain]
 | 79 | [Go! \- Club Mix](https://open.spotify.com/track/5El6bpLd8nYPsvWgZLdHio) | [Tones On Tail](https://open.spotify.com/artist/5aBEGOeWQCJfptic9xyaAb) | [Everything!](https://open.spotify.com/album/440zYLMcBZhHc93WSGKDKo) | 4:28 |
 | 80 | [Heart and Soul \- 2007 Remaster](https://open.spotify.com/track/4SDscXJTjdF2YgSkYADyU0) | [Joy Division](https://open.spotify.com/artist/432R46LaYsJZV2Gmc4jUV5) | [Closer \(Collector's Edition\)](https://open.spotify.com/album/1HnxC8MLDciii5LebJ09Ko) | 5:53 |
 
-Snapshot ID: `MCxiZTUxZWIzOTNhNzAzODRmNDc4MTM3NTMwMzU5MTQyNzI4YzhkYjU5`
+Snapshot ID: `MCxhMWMzZDJjYjMxYjdhMWE3NzA0MzBjYTdkZDlkMDY0YTU0NDJkNmJh`

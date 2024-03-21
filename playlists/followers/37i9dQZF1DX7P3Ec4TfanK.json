@@ -1,5 +1,5 @@
 {
-  "2024-03-20": 417367,
+  "2024-03-21": 417359,
   "date_first_scraped": "2022-05-09",
   "description": "Inizia la giornata con la tua dose di caff\u00e8 e buonumore! ",
   "name": "Caff\u00e8 del Buongiorno",
@@ -171,6 +171,24 @@
       "duration_ms": 145230,
       "name": "Amn\u00e9sie",
       "url": "https://open.spotify.com/track/4jPiukdGJPUdD9aEIfEL4x"
+    },
+    {
+      "album": {
+        "name": "APNEA",
+        "url": "https://open.spotify.com/album/0YMrslSUc1TClPK7b1SVBa"
+      },
+      "artists": [
+        {
+          "name": "Emma",
+          "url": "https://open.spotify.com/artist/0gzwXezN4IUHAwLufA6YcX"
+        }
+      ],
+      "date_added": "2024-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180923,
+      "name": "APNEA",
+      "url": "https://open.spotify.com/track/3qyidNdb5QNHLxAFJzTn6P"
     },
     {
       "album": {
@@ -995,7 +1013,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-20",
       "duration_ms": 149545,
       "name": "Drinkin'",
       "url": "https://open.spotify.com/track/2LCd6P35jFyZ9SN37o9D2q"
@@ -1871,7 +1889,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-20",
       "duration_ms": 240880,
       "name": "Keep Moving",
       "url": "https://open.spotify.com/track/4rf0IVQDFjr27T4sgah5Pf"
@@ -1933,6 +1951,24 @@
       "duration_ms": 188975,
       "name": "LA CODA DEL DIAVOLO (con ELODIE)",
       "url": "https://open.spotify.com/track/6oYcyS6salzWI1ysjEScFh"
+    },
+    {
+      "album": {
+        "name": "La noia",
+        "url": "https://open.spotify.com/album/3thPAnMavUmX8gGyjOzYFI"
+      },
+      "artists": [
+        {
+          "name": "Angelina Mango",
+          "url": "https://open.spotify.com/artist/1A6HBLulvBFzNtlMb7b08f"
+        }
+      ],
+      "date_added": "2024-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189124,
+      "name": "La noia",
+      "url": "https://open.spotify.com/track/49R1F3rIdSzuPk7AcHi6d1"
     },
     {
       "album": {
@@ -2224,6 +2260,24 @@
     },
     {
       "album": {
+        "name": "Ma non tutta la vita",
+        "url": "https://open.spotify.com/album/404Id5xZDXzT3yc85GiZxG"
+      },
+      "artists": [
+        {
+          "name": "Ricchi E Poveri",
+          "url": "https://open.spotify.com/artist/5BwOOeKayeMZXa5SSaiRxv"
+        }
+      ],
+      "date_added": "2024-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190800,
+      "name": "Ma non tutta la vita",
+      "url": "https://open.spotify.com/track/1bZIs6zAOtFJLORZVojCUH"
+    },
+    {
+      "album": {
         "name": "Magia",
         "url": "https://open.spotify.com/album/1x676W6ARASsW9BR4txWeK"
       },
@@ -2465,7 +2519,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-20",
       "duration_ms": 169944,
       "name": "Never Going Home",
       "url": "https://open.spotify.com/track/0xfMlIW8lS40qvpsUw1l0X"
@@ -3006,6 +3060,24 @@
     },
     {
       "album": {
+        "name": "Sinceramente",
+        "url": "https://open.spotify.com/album/6Ftqr86cfGFu8mQ0Vt2jse"
+      },
+      "artists": [
+        {
+          "name": "Annalisa",
+          "url": "https://open.spotify.com/artist/0EqkKYDK9EkKY5N7zU3FPv"
+        }
+      ],
+      "date_added": "2024-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215714,
+      "name": "Sinceramente",
+      "url": "https://open.spotify.com/track/2O7jON0xYyTaSkWj9wZXCJ"
+    },
+    {
+      "album": {
         "name": "Single Soon",
         "url": "https://open.spotify.com/album/6EejduBuRYb7rzJaD2YCqO"
       },
@@ -3123,7 +3195,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-20",
       "duration_ms": 187888,
       "name": "Someday",
       "url": "https://open.spotify.com/track/6aDsgHPZsMztSbZernzlF8"
@@ -3275,7 +3347,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-20",
       "duration_ms": 165524,
       "name": "Tell It To My Heart",
       "url": "https://open.spotify.com/track/46nvQpUDsxpS08UTFOeKTA"
@@ -3381,7 +3453,7 @@
       ],
       "date_added": "2022-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-20",
       "duration_ms": 178373,
       "name": "Tick Tock (feat. 24kGoldn)",
       "url": "https://open.spotify.com/track/27u7t9d7ZQoyjsCROHuZJ3"
@@ -3433,6 +3505,24 @@
       "duration_ms": 243716,
       "name": "Tit\u00ed Me Pregunt\u00f3",
       "url": "https://open.spotify.com/track/1IHWl5LamUGEuP4ozKQSXZ"
+    },
+    {
+      "album": {
+        "name": "TUTA GOLD",
+        "url": "https://open.spotify.com/album/298TPucavaqMuiInBsW7jX"
+      },
+      "artists": [
+        {
+          "name": "Mahmood",
+          "url": "https://open.spotify.com/artist/06nvjg4wBANK6DCHjqtPNd"
+        }
+      ],
+      "date_added": "2024-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178467,
+      "name": "TUTA GOLD",
+      "url": "https://open.spotify.com/track/654Jxp6rUFgPckixlIusRJ"
     },
     {
       "album": {
@@ -3528,6 +3618,24 @@
     },
     {
       "album": {
+        "name": "UN RAGAZZO UNA RAGAZZA",
+        "url": "https://open.spotify.com/album/3tNnKTFodG4lOLiGM39yvV"
+      },
+      "artists": [
+        {
+          "name": "The Kolors",
+          "url": "https://open.spotify.com/artist/72A0Z8q8NiochyK9gUHpCR"
+        }
+      ],
+      "date_added": "2024-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217031,
+      "name": "UN RAGAZZO UNA RAGAZZA",
+      "url": "https://open.spotify.com/track/60NDVF7fFIq13aO9rIN80c"
+    },
+    {
+      "album": {
         "name": "Una cosa pi\u00f9 grande",
         "url": "https://open.spotify.com/album/0VlXEovJWRHc4gaKzAbB92"
       },
@@ -3583,6 +3691,24 @@
       "duration_ms": 172950,
       "name": "Used To Be",
       "url": "https://open.spotify.com/track/7x2I8qW1uEp3vNBbCk3VCi"
+    },
+    {
+      "album": {
+        "name": "Vai!",
+        "url": "https://open.spotify.com/album/78oiHnbmYm8jUidFHcAeWL"
+      },
+      "artists": [
+        {
+          "name": "Alfa",
+          "url": "https://open.spotify.com/artist/7GacyaFUp0qkEJglERX9N7"
+        }
+      ],
+      "date_added": "2024-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156923,
+      "name": "Vai!",
+      "url": "https://open.spotify.com/track/02fHDy3xEetr1EX6qw3Cas"
     },
     {
       "album": {
@@ -3899,7 +4025,7 @@
       ],
       "date_added": "2022-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-20",
       "duration_ms": 172692,
       "name": "Wonder",
       "url": "https://open.spotify.com/track/5KCbr5ndeby4y4ggthdiAb"

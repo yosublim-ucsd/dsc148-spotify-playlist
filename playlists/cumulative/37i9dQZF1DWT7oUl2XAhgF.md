@@ -4,7 +4,7 @@
 
 > A new take on a classic sound\. Cover: Britti
 
-387 songs - 23 hr 23 min
+388 songs - 23 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -210,7 +210,8 @@
 | [Love To Last](https://open.spotify.com/track/492FG3XeaSPRftcsu8vD9k) | [Hajaj](https://open.spotify.com/artist/08yjRkGm8KNsShKjtbEmt6) | [Last Call For Coco](https://open.spotify.com/album/1dpef92yGV81tOPHCzFWeU) | 2:43 | 2021-11-05 | 2023-01-28 |
 | [Love You Better](https://open.spotify.com/track/5Dmo0uuZSKQPQ7WW9LNbA7) | [Monophonics](https://open.spotify.com/artist/6LXZac7iBIZgnNrywTkQRw), [Kelly Finnigan](https://open.spotify.com/artist/0gdEDrF1Fve7FIBYcmX7W4) | [Love You Better](https://open.spotify.com/album/5yDO2abSpmSiEFQJXj554K) | 3:08 | 2022-04-15 | 2022-07-29 |
 | [Love's Graveyard](https://open.spotify.com/track/08fxE97WEcGEgPKJFYJuqE) | [Aiyana\-Lee](https://open.spotify.com/artist/2IZXxSIGhFtkHJyMh6UTln) | [Love's Graveyard](https://open.spotify.com/album/6ZWrOlNorLPFkRtSsyvKUj) | 3:05 | 2024-02-14 |  |
-| [Love's Train](https://open.spotify.com/track/60gTdTwaNtGAzIxKfeGVfJ) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [Silk Sonic](https://open.spotify.com/artist/6PvvGcCY2XtUcSRld1Wilr) | [Love's Train](https://open.spotify.com/album/6QKXGIgwWmWBMmIktMOchR) | 5:07 | 2022-02-18 |  |
+| [Love's Train](https://open.spotify.com/track/2JUQ7mV1AHk2owXLydmN4Z) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [Silk Sonic](https://open.spotify.com/artist/6PvvGcCY2XtUcSRld1Wilr) | [An Evening With Silk Sonic](https://open.spotify.com/album/1YgekJJTEueWDaMr7BYqPk) | 5:07 | 2023-09-01 |  |
+| [Love's Train](https://open.spotify.com/track/60gTdTwaNtGAzIxKfeGVfJ) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [Silk Sonic](https://open.spotify.com/artist/6PvvGcCY2XtUcSRld1Wilr) | [Love's Train](https://open.spotify.com/album/6QKXGIgwWmWBMmIktMOchR) | 5:07 | 2022-02-18 | 2024-03-21 |
 | [Lover Boy](https://open.spotify.com/track/4wlEw6x7ynK4dfKk47HNtt) | [Jason Joshua](https://open.spotify.com/artist/47RTTEHKmO94V6qGq5xhbn) | [Lover Boy](https://open.spotify.com/album/3VL9z3tG7Wr5g8iORdtF0M) | 2:55 | 2023-02-10 |  |
 | [Loving You Is All I Want To Do](https://open.spotify.com/track/1GIf6prhwd6ESjjJ6pmiwV) | [Roseaux](https://open.spotify.com/artist/3JUUs8oZ6MRA1f2ahfusYu), [Aloe Blacc](https://open.spotify.com/artist/0id62QV2SZZfvBn9xpmuCl) | [Loving You is All I Want to Do](https://open.spotify.com/album/4TJt3xetzmO9t4hQSRBQnf) | 3:39 | 2023-02-17 |  |
 | [Loving You Is Easy](https://open.spotify.com/track/4Q5uCevQDZ2dCrPq0isNPQ) | [Dylan Chambers](https://open.spotify.com/artist/2jP4GO0BDgY15BqUcUVhG9) | [Loving You Is Easy](https://open.spotify.com/album/7gGU9LnpOyctBMvxA1vxyx) | 3:24 | 2022-06-10 | 2022-07-02 |

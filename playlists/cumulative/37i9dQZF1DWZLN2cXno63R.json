@@ -842,10 +842,28 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-21",
       "duration_ms": 287306,
       "name": "El guao",
       "url": "https://open.spotify.com/track/1j9ZiTEd1x7cmvbfiLAIrS"
+    },
+    {
+      "album": {
+        "name": "Cero Farandulero",
+        "url": "https://open.spotify.com/album/6DV1RCgPHvFq7gcmplESeT"
+      },
+      "artists": [
+        {
+          "name": "Los Jubilados",
+          "url": "https://open.spotify.com/artist/2fYr0OC9ENysJE3pnRuEJH"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287306,
+      "name": "El Guao",
+      "url": "https://open.spotify.com/track/5MMkuLmdhrsMYyfS18qOnt"
     },
     {
       "album": {

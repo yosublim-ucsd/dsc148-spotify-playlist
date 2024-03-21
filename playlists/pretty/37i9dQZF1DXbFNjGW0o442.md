@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbFNjGW0o442.md) - [plain]
 
 > Guerreras del rock latinoamericano\. Foto: Barbi Recanati
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,336 likes - 100 songs - 5 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,345 likes - 100 songs - 5 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,8 +71,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbFNjGW0o442.md) - [plain]
 | 61 | [Postales Blancas](https://open.spotify.com/track/39YxebBGVOUcG6PpqbWNhi) | [Tigre Ulli](https://open.spotify.com/artist/5BCAv8GCW0wT3cTY11dl5v) | [Tigre Ulli](https://open.spotify.com/album/26DNyRdYyLd0PE555D8aqU) | 2:07 |
 | 62 | [En Toneles](https://open.spotify.com/track/0AKSlOfNxuM2c3ydqUPYdg) | [Lucy Patané](https://open.spotify.com/artist/0ocA2OjaXb4KyFX7zJE2Ld) | [Lucy Patané](https://open.spotify.com/album/3DBoYj1Q8vZ3Xu1k2MIO9w) | 4:06 |
 | 63 | [Chica Violeta](https://open.spotify.com/track/33LXQJNNaKTHEZitBkU6w4) | [Catalina Ammaturo](https://open.spotify.com/artist/2qDGiovKpP5yS5jD2WfH7a) | [Chica Violeta](https://open.spotify.com/album/6kyBU0La8C9ulnPamJzcD7) | 6:26 |
-| 64 | [Change Your Mind](https://open.spotify.com/track/5yqgKyX1TOG41LBSosE1X8) | [Pacifica](https://open.spotify.com/artist/4YcQuAswXPWdO2WAxTRXse) | [Change Your Mind](https://open.spotify.com/album/4DmQXKj0chk1Prwe0rbkhe) | 2:27 |
-| 65 | [Aguardiente](https://open.spotify.com/track/34h4kkt4n6SVI5zsjYrFvy) | [Marina Fages](https://open.spotify.com/artist/1jBRvUY23iEpMeGCKZ2RO3) | [EL MUNDO PEQUEÑO](https://open.spotify.com/album/7wmhvmQJ2Ms31oXLF0mLzi) | 4:25 |
+| 64 | [Aguardiente](https://open.spotify.com/track/34h4kkt4n6SVI5zsjYrFvy) | [Marina Fages](https://open.spotify.com/artist/1jBRvUY23iEpMeGCKZ2RO3) | [EL MUNDO PEQUEÑO](https://open.spotify.com/album/7wmhvmQJ2Ms31oXLF0mLzi) | 4:25 |
+| 65 | [Change Your Mind](https://open.spotify.com/track/5yqgKyX1TOG41LBSosE1X8) | [Pacifica](https://open.spotify.com/artist/4YcQuAswXPWdO2WAxTRXse) | [Change Your Mind](https://open.spotify.com/album/4DmQXKj0chk1Prwe0rbkhe) | 2:27 |
 | 66 | [Palo de Amansar](https://open.spotify.com/track/6zAOy652pyJ6NVgH1lQ1h8) | [Paula Maffia](https://open.spotify.com/artist/4soieU4IFUQEcYULczxzFa) | [Ojos que ladran](https://open.spotify.com/album/17PNNeot4Mfz7WJOOZP6zT) | 3:12 |
 | 67 | [Directa](https://open.spotify.com/track/4SuLvV6N2mpxucwiWLJ4oc) | [MUGRE](https://open.spotify.com/artist/2mJNVPV7WxtrVrPSddTW6V) | [Gracias por Cuidar el Equipo](https://open.spotify.com/album/4eVPY8ZtGm1KDS8P1RKsCY) | 3:47 |
 | 68 | [Ando Buscando](https://open.spotify.com/track/5wzD3M2YTofQb9gHBvlff3) | [Vale Acevedo](https://open.spotify.com/artist/4uM6IUL3hMaxnhAKCZCKQJ) | [Ando Buscando](https://open.spotify.com/album/4dJlWHR1AbIZAH7b0Yt5vE) | 3:13 |
@@ -83,8 +83,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbFNjGW0o442.md) - [plain]
 | 73 | [Líneas En Hojas](https://open.spotify.com/track/0aQducLdlpix3u5yL6MfYT) | [Lorelle Meets The Obsolete](https://open.spotify.com/artist/79ckv9yY9WAKcH8KfrvmiP) | [De Facto](https://open.spotify.com/album/1hRlJMZZEZNu0ObbyL53k9) | 3:29 |
 | 74 | [Preguntame](https://open.spotify.com/track/3dMYfIeVVdaY9U9GLTG9PK) | [Vale Acevedo](https://open.spotify.com/artist/4uM6IUL3hMaxnhAKCZCKQJ) | [Preguntame](https://open.spotify.com/album/21qw6k8y7iO77WUFXPaGLx) | 3:24 |
 | 75 | [Igual](https://open.spotify.com/track/4808bFO0Mw34MmuSjAtQSR) | [Nenagenix](https://open.spotify.com/artist/72uTXCtp7vhZkvYdnoYu6I) | [Igual](https://open.spotify.com/album/0i3T9mspLdgOaOoei0FqKZ) | 4:10 |
-| 76 | [Cosa Mía](https://open.spotify.com/track/1h2Au6U97bvTS1O9ruDLeD) | [Marilina Bertoldi](https://open.spotify.com/artist/1nm9PdmvzPXJmIlMOk5XLy) | [Cosa Mía](https://open.spotify.com/album/31hRNOYxr20j8Ov01jujgw) | 2:49 |
-| 77 | [Somos 2](https://open.spotify.com/track/4KYJmmm4q5tUCJHR4w3vwK) | [Melanie Williams & El Cabloide](https://open.spotify.com/artist/6O4UKE8rYpWbEBg2LxIS31) | [Somos 2](https://open.spotify.com/album/06zzXQzjcg1tm4uZECft9p) | 2:32 |
+| 76 | [Somos 2](https://open.spotify.com/track/4KYJmmm4q5tUCJHR4w3vwK) | [Melanie Williams & El Cabloide](https://open.spotify.com/artist/6O4UKE8rYpWbEBg2LxIS31) | [Somos 2](https://open.spotify.com/album/06zzXQzjcg1tm4uZECft9p) | 2:32 |
+| 77 | [Cosa Mía](https://open.spotify.com/track/1h2Au6U97bvTS1O9ruDLeD) | [Marilina Bertoldi](https://open.spotify.com/artist/1nm9PdmvzPXJmIlMOk5XLy) | [Cosa Mía](https://open.spotify.com/album/31hRNOYxr20j8Ov01jujgw) | 2:49 |
 | 78 | [RANDOM](https://open.spotify.com/track/5MWKgFwsd5tQNiq7O46XVP) | [FEMI](https://open.spotify.com/artist/0Zq7qMNo2UXDat3Tzf0x2s) | [RANDOM](https://open.spotify.com/album/0GHsQyhxiIRO3R9h7rIVR1) | 2:08 |
 | 79 | [Ojos En El Carro](https://open.spotify.com/track/5vSdXnvrAuaz8jIRv9zsPY) | [Mint Field](https://open.spotify.com/artist/3okJi6oq87Mwx0VzywmMgz) | [Pasar de las Luces](https://open.spotify.com/album/0YOlpbeUweZWajP4nUcFAm) | 5:28 |
 | 80 | [Somos](https://open.spotify.com/track/02s5vAzBU4NodaEq3JIdJr) | [Las Fokin Biches](https://open.spotify.com/artist/57PVit02jqmX3h5SL0XnHa) | [Somos](https://open.spotify.com/album/1e1rVTTSCgPWMvkhJLZ8Ik) | 3:00 |
@@ -99,14 +99,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbFNjGW0o442.md) - [plain]
 | 89 | [Perro](https://open.spotify.com/track/3klpuNXDpi8PyuOZ95hn8P) | [Blanco Teta](https://open.spotify.com/artist/2jHbb2xaFQ1CjUnE8RJeWT) | [Rompe Paga](https://open.spotify.com/album/6DYe8eqt3a00JVrDiXAAdB) | 3:02 |
 | 90 | [give/UP](https://open.spotify.com/track/2rVDacOFhSBzcPzfG9ITfm) | [Le Butcherettes](https://open.spotify.com/artist/1d7CbKqK4lFpKyU442bZC6) | [bi/MENTAL](https://open.spotify.com/album/74buoPf0UxcLGAI0oUjkGn) | 3:40 |
 | 91 | [Juego](https://open.spotify.com/track/7za0cW9mZQRu0n4HYjd0dl) | [Ana Sanz](https://open.spotify.com/artist/1wFieEqzZtcjkSIHtVk2YD) | [Juego](https://open.spotify.com/album/0Ne1rhsv5UKWtR9zF0f1LU) | 3:09 |
-| 92 | [Cuando el sol está así](https://open.spotify.com/track/328VGo9M8zoespJRuWNpfJ) | [Manu Martínez](https://open.spotify.com/artist/37P2y0CGo3jIcG0QIIJQfS) | [Cuando el sol está así](https://open.spotify.com/album/6rM8uPZagSb9CwaBZepDi8) | 3:50 |
-| 93 | [Piedra Marea Fuego](https://open.spotify.com/track/64FyoTZGcpuieDGERmxSZx) | [Marina Fages](https://open.spotify.com/artist/1jBRvUY23iEpMeGCKZ2RO3) | [Epica & Fantástica](https://open.spotify.com/album/1ag3CNlB7MUd1xdC2vjgb1) | 4:05 |
-| 94 | [Volar despierto](https://open.spotify.com/track/7zMQOuTqy9Kzo6krB6neE9) | [Denise Romano](https://open.spotify.com/artist/2cHtJkqOlkQRN852cWpkxx) | [Volar despierto](https://open.spotify.com/album/3TM68qkX9UrcgTgldIv3AR) | 4:06 |
-| 95 | [Pulso](https://open.spotify.com/track/4y90PJFul4Mcv17dB7Gz1U) | [Nenagenix](https://open.spotify.com/artist/72uTXCtp7vhZkvYdnoYu6I) | [Pulso](https://open.spotify.com/album/4iKFJ6kNQ83QEsK6HsVoDV) | 2:26 |
+| 92 | [Pulso](https://open.spotify.com/track/4y90PJFul4Mcv17dB7Gz1U) | [Nenagenix](https://open.spotify.com/artist/72uTXCtp7vhZkvYdnoYu6I) | [Pulso](https://open.spotify.com/album/4iKFJ6kNQ83QEsK6HsVoDV) | 2:26 |
+| 93 | [Cuando el sol está así](https://open.spotify.com/track/328VGo9M8zoespJRuWNpfJ) | [Manu Martínez](https://open.spotify.com/artist/37P2y0CGo3jIcG0QIIJQfS) | [Cuando el sol está así](https://open.spotify.com/album/6rM8uPZagSb9CwaBZepDi8) | 3:50 |
+| 94 | [Piedra Marea Fuego](https://open.spotify.com/track/64FyoTZGcpuieDGERmxSZx) | [Marina Fages](https://open.spotify.com/artist/1jBRvUY23iEpMeGCKZ2RO3) | [Epica & Fantástica](https://open.spotify.com/album/1ag3CNlB7MUd1xdC2vjgb1) | 4:05 |
+| 95 | [Volar despierto](https://open.spotify.com/track/7zMQOuTqy9Kzo6krB6neE9) | [Denise Romano](https://open.spotify.com/artist/2cHtJkqOlkQRN852cWpkxx) | [Volar despierto](https://open.spotify.com/album/3TM68qkX9UrcgTgldIv3AR) | 4:06 |
 | 96 | [Atasco](https://open.spotify.com/track/7hIpozpqki8Lnpu2WwsQ86) | [Lisasinson](https://open.spotify.com/artist/0bvq2O2MrIINNOJTVuqQ32) | [Atasco](https://open.spotify.com/album/5Yh2mHQcwx2NdSLIDGgzbr) | 3:46 |
 | 97 | [Flores Sobre las Piedras](https://open.spotify.com/track/4WzYFb4DuCsBdSxwuc5AnZ) | [Carla Rivarola](https://open.spotify.com/artist/2zx6gMuW2mPXl4WJx4lgGK) | [Flores Sobre las Piedras](https://open.spotify.com/album/2NDbkXbi16sS49LigcSd4n) | 5:02 |
 | 98 | [Suave](https://open.spotify.com/track/5IO55F3xMlUG6xdLGh7bb5) | [Carmen Boza](https://open.spotify.com/artist/4hXMxkoIm7sX1PiFXrvU0u) | [Suave](https://open.spotify.com/album/4fzMFE1G3GVQtbasedbooZ) | 3:23 |
 | 99 | [Agitar](https://open.spotify.com/track/3V6CPu5kQ4iRcjngnwgSHe) | [Bala](https://open.spotify.com/artist/5Cqy5kUi1EY01scjbz87eJ) | [Agitar](https://open.spotify.com/album/2rdYalIkT3ijzl7zs69NGZ) | 2:07 |
 | 100 | [Morirían](https://open.spotify.com/track/53JVw942AQvbqqDy8DqtaN) | [Suarez](https://open.spotify.com/artist/3UmO1Acb6OVGSfiLnYe69n) | [Hora de No Ver](https://open.spotify.com/album/7vV8Ye5scpEoP8SsEQvXnR) | 3:11 |
 
-Snapshot ID: `MCw2ZjEwNTViNDhmZDc4NzU4YWJhZWZjZGQ3N2Y2ZjY4YTVlOTNhYzdl`
+Snapshot ID: `MCw1YjY5NjMzNTgyZWY5OWI4ZjAyMGI4NWVjMTJhMGNmMWE2YmYxYmFm`

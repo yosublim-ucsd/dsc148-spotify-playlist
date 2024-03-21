@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Lf3LZ6Czqu.md) - [plain]
 
 > Instrumental guitar shreddery\. Cover: Angel Vivaldi
 
-[Spotify](https://open.spotify.com/user/spotify) - 138,579 likes - 100 songs - 7 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 138,635 likes - 100 songs - 7 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Lf3LZ6Czqu.md) - [plain]
 | 99 | [Tumescent](https://open.spotify.com/track/47XVn2ciuhWqHorHdWn89D) | [Steve Lukather](https://open.spotify.com/artist/7vLNQciZsWdkYFCqY2osFM) | [All's Well That Ends Well](https://open.spotify.com/album/37Ge505lCbErq9PAjkKEyd) | 4:02 |
 | 100 | [The Answer](https://open.spotify.com/track/1ez3IST5sbHJsHXhzefpDR) | [Richie Kotzen](https://open.spotify.com/artist/6nYo7m5cO64bANRvilwVBb) | [Slow](https://open.spotify.com/album/5F5w7O6boIDy3lKnrzxXNP) | 1:16 |
 
-Snapshot ID: `MCxhOTdhMGVlOTYyM2QzNmNjYmFmMTU2ZDQ2NmVkZGE1ZDZiOGZmMTc4`
+Snapshot ID: `MCw1NTI3ODc4M2QzYmI1ODU4ZGNiNGNlMTljZTM0OGU1YTcxZWFiNDk5`

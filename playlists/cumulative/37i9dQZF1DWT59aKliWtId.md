@@ -4,7 +4,7 @@
 
 > a high\-quality alternative blend ft\. Mt\. Joy
 
-1,010 songs - 2 day 13 hr 49 min
+1,011 songs - 2 day 13 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -195,7 +195,8 @@
 | [Days Move Slow](https://open.spotify.com/track/1J3yWZC6J1lEaCrWrRx8Ni) | [Bully](https://open.spotify.com/artist/34LdbFt5sVXKTJOzf1iExQ) | [Lucky For You](https://open.spotify.com/album/0Wl5Z73DtV3cgqf0MLXgxz) | 2:40 | 2023-11-10 | 2024-01-06 |
 | [Death Wish](https://open.spotify.com/track/7pcI3En42dUc6HV6XmhbGx) | [Jason Isbell and the 400 Unit](https://open.spotify.com/artist/3Lg3FGwBxOGuefqekQzRUf) | [Weathervanes](https://open.spotify.com/album/2gL0IM5SYhCxJebPaKdDkx) | 4:30 | 2023-06-09 | 2023-06-24 |
 | [Death Wish](https://open.spotify.com/track/7u16KXOttsLNh7U8FQx2G1) | [Jason Isbell and the 400 Unit](https://open.spotify.com/artist/3Lg3FGwBxOGuefqekQzRUf) | [Death Wish](https://open.spotify.com/album/3N4m9O8Zsof2RX84aHWyy7) | 4:30 | 2023-02-24 | 2023-06-12 |
-| [Deeper Well](https://open.spotify.com/track/2lJn77IeZAP9cmv6DPXOrL) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Deeper Well](https://open.spotify.com/album/2NXiMKrwmPrqU8epp20pW8) | 3:52 | 2024-03-08 |  |
+| [Deeper Well](https://open.spotify.com/track/2lJn77IeZAP9cmv6DPXOrL) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Deeper Well](https://open.spotify.com/album/2NXiMKrwmPrqU8epp20pW8) | 3:52 | 2024-03-08 | 2024-03-21 |
+| [Deeper Well](https://open.spotify.com/track/333XFHKsHU0pOocFzBgrJi) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Deeper Well](https://open.spotify.com/album/5SxZmGwc4eJuPp6PcO4JgJ) | 3:52 | 2024-03-18 |  |
 | [Descending To Nowhere](https://open.spotify.com/track/2VekSimbB6RVkb1Der7qXG) | [Rodrigo y Gabriela](https://open.spotify.com/artist/7vX3cMVyW8gtDA4y855ynF) | [Descending To Nowhere](https://open.spotify.com/album/40x1FfDLWrqgts1sZq6xyt) | 3:29 | 2023-02-22 | 2023-07-25 |
 | [Desert Snow](https://open.spotify.com/track/0BVZY0wh4lUICV71haiBR4) | [Local Natives](https://open.spotify.com/artist/75dQReiBOHN37fQgWQrIAJ) | [Desert Snow / Hourglass](https://open.spotify.com/album/5M50Jray1eYGOW5gkTzUjT) | 3:35 | 2022-07-25 | 2022-10-15 |
 | [Devil I Know](https://open.spotify.com/track/1WcNBLTw8rPnD5oRb5qEau) | [Suki Waterhouse](https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL) | [Devil I Know](https://open.spotify.com/album/2KuRXu22f6A0orhnAPPuqD) | 3:32 | 2022-03-04 | 2022-06-18 |

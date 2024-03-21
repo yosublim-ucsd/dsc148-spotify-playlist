@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY1j3jZdCWOQ.md) - [plain]
 
 > Spain without the S
 
-[Spotify](https://open.spotify.com/user/spotify) - 473,663 likes - 100 songs - 5 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 473,812 likes - 100 songs - 5 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,8 +25,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY1j3jZdCWOQ.md) - [plain]
 | 15 | [Olympus](https://open.spotify.com/track/2pqi703QQcp2zsuS3NgCii) | [Blondshell](https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij) | [Blondshell](https://open.spotify.com/album/7rG4h8pLLcr6kW30cbSWD8) | 3:36 |
 | 16 | [love is embarrassing](https://open.spotify.com/track/26QLJMK8G0M06sk7h7Fkse) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [GUTS](https://open.spotify.com/album/1xJHno7SmdVtZAtXbdbDZp) | 2:34 |
 | 17 | [Prom Queen](https://open.spotify.com/track/6MpCaSIOfqBqbMED4kXgNY) | [Beach Bunny](https://open.spotify.com/artist/2vnB6tuQMaQpORiRdvXF9H) | [Prom Queen](https://open.spotify.com/album/1lgr82yCJYR5lgsSyxXgBH) | 2:16 |
-| 18 | [I Did Something Bad](https://open.spotify.com/track/4svZDCRz4cJoneBpjpx8DJ) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [reputation](https://open.spotify.com/album/6DEjYFkNZh67HP7R9PSZvv) | 3:58 |
-| 19 | [What's My Age Again?](https://open.spotify.com/track/4LJhJ6DQS7NwE7UKtvcM52) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [Enema Of The State](https://open.spotify.com/album/652N05EcNH1a4bIlUixQE2) | 2:28 |
+| 18 | [What's My Age Again?](https://open.spotify.com/track/4LJhJ6DQS7NwE7UKtvcM52) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [Enema Of The State](https://open.spotify.com/album/652N05EcNH1a4bIlUixQE2) | 2:28 |
+| 19 | [I Did Something Bad](https://open.spotify.com/track/4svZDCRz4cJoneBpjpx8DJ) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [reputation](https://open.spotify.com/album/6DEjYFkNZh67HP7R9PSZvv) | 3:58 |
 | 20 | [Thnks fr th Mmrs](https://open.spotify.com/track/3Zwu2K0Qa5sT6teCCHPShP) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [Infinity On High](https://open.spotify.com/album/0hHopYqXhuvYSHtVyrcb1g) | 3:23 |
 | 21 | [Smells Like Teen Spirit](https://open.spotify.com/track/5ghIJDpPoe3CfHMGu71E6T) | [Nirvana](https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh) | [Nevermind \(Remastered\)](https://open.spotify.com/album/2guirTSEqLizK7j9i1MTTZ) | 5:01 |
 | 22 | [Face Down](https://open.spotify.com/track/4wzjNqjKAKDU82e8uMhzmr) | [The Red Jumpsuit Apparatus](https://open.spotify.com/artist/1SImpQO0GbjRgvlwCcCtFo) | [Don't You Fake It](https://open.spotify.com/album/6TyPSzd5rA2rQ9yLJJ1Gg2) | 3:12 |
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY1j3jZdCWOQ.md) - [plain]
 | 37 | [Just A Girl](https://open.spotify.com/track/5lWRaa0fBxDE5yU91npPq7) | [No Doubt](https://open.spotify.com/artist/0cQbJU1aAzvbEmTuljWLlF) | [Tragic Kingdom](https://open.spotify.com/album/3VekjWskUut57hx6W9wqL8) | 3:29 |
 | 38 | [Shhhh! Golf is On](https://open.spotify.com/track/5r7vuSx8Z7j4dK9I4Q6wch) | [Hot Mulligan](https://open.spotify.com/artist/1lKZzN2d4IqiEYxyECIEHI) | [Why Would I Watch](https://open.spotify.com/album/0wLCmFQIAxudWGxUcxO1oQ) | 2:44 |
 | 39 | [Covet](https://open.spotify.com/track/1AMADyXgIWayh5vXLZo2qF) | [Basement](https://open.spotify.com/artist/4DUQBYAyOTZotSEdKhaf6c) | [Colourmeinkindness](https://open.spotify.com/album/5uRI7KHcBALPpwhAB9RKnb) | 3:47 |
-| 40 | [Stacy's Mom](https://open.spotify.com/track/27L8sESb3KR79asDUBu8nW) | [Fountains Of Wayne](https://open.spotify.com/artist/1pgtr4nhBQjp9oCUBPyYWh) | [Welcome Interstate Managers](https://open.spotify.com/album/6TZp52tXShLQbq8yNMxqNT) | 3:17 |
-| 41 | [My Own Worst Enemy](https://open.spotify.com/track/33iv3wnGMrrDugd7GBso1z) | [Lit](https://open.spotify.com/artist/5mgr0FFpvy267wKVAYg8qp) | [A Place In The Sun](https://open.spotify.com/album/3w5Uz3q4SJze14P60ZChsp) | 2:49 |
+| 40 | [My Own Worst Enemy](https://open.spotify.com/track/33iv3wnGMrrDugd7GBso1z) | [Lit](https://open.spotify.com/artist/5mgr0FFpvy267wKVAYg8qp) | [A Place In The Sun](https://open.spotify.com/album/3w5Uz3q4SJze14P60ZChsp) | 2:49 |
+| 41 | [Stacy's Mom](https://open.spotify.com/track/27L8sESb3KR79asDUBu8nW) | [Fountains Of Wayne](https://open.spotify.com/artist/1pgtr4nhBQjp9oCUBPyYWh) | [Welcome Interstate Managers](https://open.spotify.com/album/6TZp52tXShLQbq8yNMxqNT) | 3:17 |
 | 42 | [Ocean Avenue](https://open.spotify.com/track/23oxJmDc1V9uLUSmN2LIvx) | [Yellowcard](https://open.spotify.com/artist/3zxKH0qp3nBCuPZCZT5Vaf) | [Ocean Avenue](https://open.spotify.com/album/24IBCzEJlHBI0ioxlSuSPA) | 3:18 |
 | 43 | [I'm Just a Kid](https://open.spotify.com/track/6otiaV2fagE3s8IvP6WkwG) | [Simple Plan](https://open.spotify.com/artist/2p4FqHnazRucYQHyDCdBrJ) | [No Pads, No Helmets...Just Balls \(15th Anniversary Tour Edition\)](https://open.spotify.com/album/3W6TEVlmaP22E4KvWY9HrS) | 3:18 |
 | 44 | [The Drug In Me Is You](https://open.spotify.com/track/1mB7dCUM7sPyNab6R43nlj) | [Falling In Reverse](https://open.spotify.com/artist/2CmaKO2zEGJ1NWpS1yfVGz) | [The Drug In Me Is You](https://open.spotify.com/album/1KwwS07TEbKS8r1rU4UUe4) | 3:38 |
@@ -59,8 +59,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY1j3jZdCWOQ.md) - [plain]
 | 49 | [LosT](https://open.spotify.com/track/5BgnL6gHauuvxe4Ok6W1aC) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [LosT](https://open.spotify.com/album/3zZBB971MYFVBYlzNrYpoA) | 3:25 |
 | 50 | [Harness Your Hopes \- B\-side](https://open.spotify.com/track/4vsoWZcvtvSsE0OiVvDDvX) | [Pavement](https://open.spotify.com/artist/3inCNiUr4R6XQ3W43s9Aqi) | [Brighten the Corners: Nicene Creedence Ed.](https://open.spotify.com/album/2z8iibF0hCuBb9h9gYkuO7) | 3:26 |
 | 51 | [maybe \(feat\. Bring Me The Horizon\)](https://open.spotify.com/track/25wdC7CJmCJPgnKw9rYquJ) | [mgk](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX), [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [mainstream sellout](https://open.spotify.com/album/3sKZHtQoq3tPtkXbT8PJAc) | 2:50 |
-| 52 | [Animal](https://open.spotify.com/track/1fBl642IhJOE5U319Gy2Go) | [Neon Trees](https://open.spotify.com/artist/0RpddSzUHfncUWNJXKOsjy) | [Habits](https://open.spotify.com/album/7xpjpdislqMXOCw5xsDt4g) | 3:32 |
-| 53 | [Check Yes, Juliet](https://open.spotify.com/track/7N2PNxzZXxCdAHiAfsklhT) | [We The Kings](https://open.spotify.com/artist/3ao3jf5d70Tf4fPh2bnXVl) | [We The Kings](https://open.spotify.com/album/34lYm54X8P7MO9LezUTmQL) | 3:40 |
+| 52 | [Check Yes, Juliet](https://open.spotify.com/track/7N2PNxzZXxCdAHiAfsklhT) | [We The Kings](https://open.spotify.com/artist/3ao3jf5d70Tf4fPh2bnXVl) | [We The Kings](https://open.spotify.com/album/34lYm54X8P7MO9LezUTmQL) | 3:40 |
+| 53 | [Animal](https://open.spotify.com/track/1fBl642IhJOE5U319Gy2Go) | [Neon Trees](https://open.spotify.com/artist/0RpddSzUHfncUWNJXKOsjy) | [Habits](https://open.spotify.com/album/7xpjpdislqMXOCw5xsDt4g) | 3:32 |
 | 54 | [Scotty Doesn't Know](https://open.spotify.com/track/1LkoYGxmYpO6QSEvY5C0Zl) | [Lustra](https://open.spotify.com/artist/3IJ770I1QPmwVp7yug0eJ4) | [Left for Dead](https://open.spotify.com/album/3MCqjuNms0vjGyUDQ92Ivs) | 2:55 |
 | 55 | [Celebrity Skin](https://open.spotify.com/track/2V4Bc2I962j7acQj1N0PiQ) | [Hole](https://open.spotify.com/artist/5SHQUMAmEK5KmuSb0aDvsn) | [Celebrity Skin](https://open.spotify.com/album/2KE8WCHtD8qnAxXeIzNEId) | 2:42 |
 | 56 | [The Downfall Of Us All](https://open.spotify.com/track/1KHKeIouP04dDtl0EetgED) | [A Day To Remember](https://open.spotify.com/artist/4NiJW4q9ichVqL1aUsgGAN) | [Homesick](https://open.spotify.com/album/6MEv8dNtVbKDW1WG4Hk6WZ) | 3:29 |
@@ -73,8 +73,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY1j3jZdCWOQ.md) - [plain]
 | 63 | [Sinner](https://open.spotify.com/track/4fBEzQfcHgiSQFOF6gXasu) | [The Last Dinner Party](https://open.spotify.com/artist/5SHgclK1ZpTdfdAmXW7J6s) | [Sinner](https://open.spotify.com/album/7bP6iLlQ2LkW7tnq2Q1vxt) | 2:56 |
 | 64 | [parents](https://open.spotify.com/track/5v4OkFH0TJ6W1hCFxyn0px) | [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW) | [weird!](https://open.spotify.com/album/1KsMhtT6PWdFuMCiNLvWmP) | 2:51 |
 | 65 | [Sarcasm](https://open.spotify.com/track/40i81AcCCxiVEFUWElcjZC) | [Get Scared](https://open.spotify.com/artist/5r9uIJCoquVtEkCkvcn8Ez) | [Best Kind Of Mess](https://open.spotify.com/album/3xkOfH5nqIMm4b8qDWlzLj) | 3:18 |
-| 66 | [People I Don't Like](https://open.spotify.com/track/5srKMwXoeyrRnyTnNbpgIW) | [UPSAHL](https://open.spotify.com/artist/1294QqYm1VuxxjRiL9M0h9) | [People I Don't Like](https://open.spotify.com/album/56c9o6LVrsm995xmDpAZrA) | 2:22 |
-| 67 | [Twin Size Mattress](https://open.spotify.com/track/4LKp7Whi6HvHCsBlftJr9m) | [The Front Bottoms](https://open.spotify.com/artist/5ictveRyhWRs8Gt8Dvt1hS) | [Talon Of The Hawk](https://open.spotify.com/album/0PDvD9PL4X7KSczUKmdV8x) | 4:24 |
+| 66 | [Twin Size Mattress](https://open.spotify.com/track/4LKp7Whi6HvHCsBlftJr9m) | [The Front Bottoms](https://open.spotify.com/artist/5ictveRyhWRs8Gt8Dvt1hS) | [Talon Of The Hawk](https://open.spotify.com/album/0PDvD9PL4X7KSczUKmdV8x) | 4:24 |
+| 67 | [People I Don't Like](https://open.spotify.com/track/5srKMwXoeyrRnyTnNbpgIW) | [UPSAHL](https://open.spotify.com/artist/1294QqYm1VuxxjRiL9M0h9) | [People I Don't Like](https://open.spotify.com/album/56c9o6LVrsm995xmDpAZrA) | 2:22 |
 | 68 | [Cherry Bomb](https://open.spotify.com/track/7cdnq45E9aP2XDStHg5vd7) | [The Runaways](https://open.spotify.com/artist/5eTq3PxbOh5vgeRXKNqPyV) | [The Runaways](https://open.spotify.com/album/5DVNCzpvDrSEIFiU7hm8ey) | 2:18 |
 | 69 | [Pass The Nirvana](https://open.spotify.com/track/7I93h9I0RUqt1ci3Bfa290) | [Pierce The Veil](https://open.spotify.com/artist/4iJLPqClelZOBCBifm8Fzv) | [The Jaws Of Life](https://open.spotify.com/album/5Am1LFOFRwS94TaVzrFQwZ) | 3:17 |
 | 70 | [Wolf in Sheep's Clothing \(feat\. William Beckett\)](https://open.spotify.com/track/4WXFDVe299Po8ih6Np54n2) | [Set It Off](https://open.spotify.com/artist/06bDwgCHeMAwhgI8il4Y5k) | [Duality](https://open.spotify.com/album/5AKycvv2TUUh9h0KIletJt) | 3:07 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY1j3jZdCWOQ.md) - [plain]
 | 99 | [Right Now](https://open.spotify.com/track/3iwsyTZzOWHZbHffBEyi1N) | [SR\-71](https://open.spotify.com/artist/7fTcs8dn9y6XuB2IqZMzBq) | [Now You See Inside](https://open.spotify.com/album/1eDNzJLCxus27R8ZC2hS3z) | 2:47 |
 | 100 | [Good Girls \(Don’t Get Used\)](https://open.spotify.com/track/2FnrUcdLWId0F13GT32ugT) | [Beach Bunny](https://open.spotify.com/artist/2vnB6tuQMaQpORiRdvXF9H) | [Good Girls \(Don’t Get Used\)](https://open.spotify.com/album/0f4hb7W851uRRZ1GJDlGGN) | 3:35 |
 
-Snapshot ID: `MCwyM2M0YjJiOWEwMzQwZWQ0OGM5Nzg0N2ExNDlmYjIzODA0ZjgzYWZh`
+Snapshot ID: `MCxjOGZiZTBjY2JmODQ0YWFlYzcwNWQwMDA3ZTQ3NTU2ZGU3YzFkOGY3`

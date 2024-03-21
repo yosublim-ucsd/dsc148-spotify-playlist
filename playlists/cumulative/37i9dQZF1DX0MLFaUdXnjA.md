@@ -4,7 +4,7 @@
 
 > Keeping it lowkey with the best chill pop\. Cover: Ben Platt
 
-1,641 songs - 3 day 16 hr 18 min
+1,642 songs - 3 day 16 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1487,7 +1487,8 @@
 | [Tomorrow](https://open.spotify.com/track/2uWYoveMCyNXc8qywEjGQt) | [JORDY](https://open.spotify.com/artist/0p9SPN0Vhv6aDRZCz4W13E), [OSTON](https://open.spotify.com/artist/4PR77KtW5drJXCsqcyfuzJ) | [Tomorrow](https://open.spotify.com/album/2ctDigzr2fyCqSGKNOHtQQ) | 3:00 | 2020-11-27 | 2021-05-15 |
 | [Tongue Tied](https://open.spotify.com/track/1vxhCATyjDXRjteXeRtUKQ) | [Ebony Loren](https://open.spotify.com/artist/17DzgGdVKwrEdKxc4sPMnY) | [Tongue Tied](https://open.spotify.com/album/65zMTBcJ9xn6XUfbzYM68x) | 2:52 | 2023-02-17 | 2023-04-01 |
 | [Too Far Gone](https://open.spotify.com/track/1RoTSunQDDRanN3EY53EIQ) | [carobae](https://open.spotify.com/artist/2HysMkOtaumKooHYAlE7wd) | [Too Far Gone](https://open.spotify.com/album/4Mda4HUAA0SQg1ZYm7dw6Z) | 2:46 | 2020-09-04 | 2020-10-16 |
-| [Too Good to be True](https://open.spotify.com/track/4vIiVs5JoNfqqRi5o7jAIb) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Too Good to be True](https://open.spotify.com/album/57y7NpfTINlnrNitu8vwft) | 2:40 | 2024-03-01 |  |
+| [Too Good to be True](https://open.spotify.com/track/27RDQ0TfxzWMlQFuKrPT11) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Deeper Well](https://open.spotify.com/album/5SxZmGwc4eJuPp6PcO4JgJ) | 2:40 | 2024-03-19 |  |
+| [Too Good to be True](https://open.spotify.com/track/4vIiVs5JoNfqqRi5o7jAIb) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Too Good to be True](https://open.spotify.com/album/57y7NpfTINlnrNitu8vwft) | 2:40 | 2024-03-01 | 2024-03-21 |
 | [Too Strange for the Circus](https://open.spotify.com/track/3EraWxocoFkg6PTjxII85U) | [Debbii Dawson](https://open.spotify.com/artist/21YCHE0ZFflbHVTsyrCpgh) | [Too Strange for the Circus](https://open.spotify.com/album/2xVPAd6OHyGna11gtdo8S4) | 3:11 | 2023-10-27 | 2024-02-10 |
 | [Tough \(feat\. Noah Kahan\)](https://open.spotify.com/track/5ZYkBb4UrdultbjwuBYmKF) | [Quinn XCII](https://open.spotify.com/artist/3ApUX1o6oSz321MMECyIYd), [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Road to Michigan \(1\-3\)](https://open.spotify.com/album/7yPvPfAoMjTdmzyfdXx6Mt) | 2:58 | 2020-04-26\* | 2020-05-01 |
 | [Traffic Lights](https://open.spotify.com/track/6CRMSbYypKAf9XubEsmvkN) | [Sara Kays](https://open.spotify.com/artist/7Lk9V7E1u5gqSHmtcKlOqH) | [Traffic Lights](https://open.spotify.com/album/374RbvDWAdosSKBLYOjh5z) | 3:24 | 2021-06-26 | 2021-09-25 |

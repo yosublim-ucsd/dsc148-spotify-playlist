@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0MLFaUdXnjA.md) - [plain]
 
 > Keeping it lowkey with the best chill pop\. Cover: Ben Platt
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,818,430 likes - 100 songs - 5 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,818,435 likes - 100 songs - 5 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0MLFaUdXnjA.md) - [plain]
 | 16 | [Saturn](https://open.spotify.com/track/1bjeWoagtHmUKputLVyDxQ) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Saturn](https://open.spotify.com/album/1fmBMCSSkSlvxyoy1vut2k) | 3:06 |
 | 17 | [Stay Gold \- from The Outsiders \- A New Musical](https://open.spotify.com/track/3TI5bdaIEvc8piXWTl64xP) | [Sky Lakota\-Lynch](https://open.spotify.com/artist/6tXiikauT8deFqOGJ9RCeI), [Brody Grant](https://open.spotify.com/artist/4dxMGpSWxE0B2ySAvab6dj) | [Stay Gold \(from The Outsiders \- A New Musical\)](https://open.spotify.com/album/0gG73d6zYl2QdYPWqjJCo8) | 4:07 |
 | 18 | [Blue Over You](https://open.spotify.com/track/6ymafuSC9VWoGRPquZkQKV) | [Mason Ramsey](https://open.spotify.com/artist/6xvpfMjWTougrRRtK7iikz) | [Blue Over You](https://open.spotify.com/album/1DAz6NgojMSptSktSRV8oA) | 4:05 |
-| 19 | [Too Good to be True](https://open.spotify.com/track/4vIiVs5JoNfqqRi5o7jAIb) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Too Good to be True](https://open.spotify.com/album/57y7NpfTINlnrNitu8vwft) | 2:40 |
+| 19 | [Too Good to be True](https://open.spotify.com/track/27RDQ0TfxzWMlQFuKrPT11) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Deeper Well](https://open.spotify.com/album/5SxZmGwc4eJuPp6PcO4JgJ) | 2:40 |
 | 20 | [Charmed](https://open.spotify.com/track/6DYLWAdxEJvwWmT7EkeDkX) | [Σtella](https://open.spotify.com/artist/2tBWWgGv7H5ymPtJrT1rNu), [Redinho](https://open.spotify.com/artist/72WcKL1SYgNzcNojYLFQsB) | [Up and Away](https://open.spotify.com/album/4i2Cb9v7g9ieShCgf1gakk) | 2:38 |
 | 21 | [how to change a tire](https://open.spotify.com/track/6ZlwbgqfMALnnwi8zVJTyr) | [Zach Hood](https://open.spotify.com/artist/5aHlyw2WWqZW0HLICBuv7U) | [how to change a tire](https://open.spotify.com/album/09oYcPRYGDwOZcP7XkO6Mr) | 3:00 |
 | 22 | [Highlights](https://open.spotify.com/track/0xvkTfdXvK7f1bOZ98ekbH) | [Sasha Alex Sloan](https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5) | [Highlights](https://open.spotify.com/album/275Y4XYTNfatAHFQfU54dt) | 2:32 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0MLFaUdXnjA.md) - [plain]
 | 99 | [One More Shot](https://open.spotify.com/track/54SXW7yYS36p8rOMFGmcoN) | [CIL](https://open.spotify.com/artist/1bBo1QjmPP5CfMiEsxmZxU) | [One More Shot \(One Take Version\)](https://open.spotify.com/album/1mgYvDEkZoWqoNjnMU6QhI) | 2:21 |
 | 100 | [Hopelessly Devoted To You \- Spotify Single](https://open.spotify.com/track/3ab4v5DEX5BTlfKp5PA6yu) | [Alex Porat](https://open.spotify.com/artist/3aROeSNBd69DWHpcyyMOcI) | [Spotify Singles](https://open.spotify.com/album/0C1QF5MYNtmIJno4gzufLi) | 3:10 |
 
-Snapshot ID: `MCw5ZTNiZDlkNzU1NDFlM2M1ODcyMzVhMjk4MmNjYjJiMjAwN2RmYzFh`
+Snapshot ID: `MCw1NWIyZTVkNjI5NTU5YWE1ZWJkMGM1YTEwNDU2NTM0MmE0YTNiOTFi`

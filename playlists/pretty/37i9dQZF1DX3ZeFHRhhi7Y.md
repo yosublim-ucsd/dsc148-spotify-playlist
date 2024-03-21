@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ZeFHRhhi7Y.md) - [plain]
 
 > Workout to K\-Pop? Count me in! \(Cover: LE SSERAFIM\(르세라핌\)\) \(신나는 케이팝 댄스 음악과 함께 운동을 즐겨보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,262,550 likes - 100 songs - 5 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,263,064 likes - 100 songs - 5 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,12 +68,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ZeFHRhhi7Y.md) - [plain]
 | 58 | [Rock with you](https://open.spotify.com/track/6LnEoRQKMcaFTR5UvaKuBy) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [SEVENTEEN 9th Mini Album 'Attacca'](https://open.spotify.com/album/2PIReru2w5i4JXOzeZnamd) | 3:00 |
 | 59 | [Lovesick Girls](https://open.spotify.com/track/4Ws314Ylb27BVsvlZOy30C) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [THE ALBUM](https://open.spotify.com/album/71O60S5gIJSIAhdnrDIh3N) | 3:14 |
 | 60 | [Bad Boy](https://open.spotify.com/track/5GKwq4sO5ZHKuWaDmdwMQc) | [Red Velvet](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) | [The Perfect Red Velvet \- The 2nd Album Repackage](https://open.spotify.com/album/0OkJThJls8FO1lutMzMDJ0) | 3:30 |
-| 61 | [Killin’ Me Good](https://open.spotify.com/track/4Cyf87ul1le0xTWRFBoYd7) | [JIHYO](https://open.spotify.com/artist/7F1iAHRYxR3MY7yAEuFqgL) | [ZONE](https://open.spotify.com/album/1GIkapvyAw5lwdNw66hI44) | 3:05 |
+| 61 | [Beatbox](https://open.spotify.com/track/0CatzXH85XWyBqqdB6qPMB) | [NCT DREAM](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) | [Beatbox \- The 2nd Album Repackage](https://open.spotify.com/album/4sM1qNxjzxOvoH6jeFHx3W) | 3:25 |
 | 62 | [Talk that Talk](https://open.spotify.com/track/0RDqNCRBGrSegk16Avfzuq) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [BETWEEN 1&2](https://open.spotify.com/album/3NZ94nQbqimcu2i71qhc4f) | 2:57 |
-| 63 | [Next Level](https://open.spotify.com/track/2zrhoHlFKxFTRF5aMyxMoQ) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Next Level](https://open.spotify.com/album/2CzbrboOLzeRoaaH1N5K0N) | 3:41 |
-| 64 | [LALISA](https://open.spotify.com/track/7uQZVznj0uQOGC9KhV2Mg6) | [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT) | [LALISA](https://open.spotify.com/album/66OYt73mqan1hWa78BhfPd) | 3:20 |
-| 65 | [I Love My Body](https://open.spotify.com/track/0pHylQR53epYtRcVIhUSCh) | [HWASA](https://open.spotify.com/artist/7bmYpVgQub656uNTu6qGNQ) | [I Love My Body](https://open.spotify.com/album/7Lbc8drIJGlYLT4hdcBvre) | 2:30 |
-| 66 | [Beatbox](https://open.spotify.com/track/0CatzXH85XWyBqqdB6qPMB) | [NCT DREAM](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) | [Beatbox \- The 2nd Album Repackage](https://open.spotify.com/album/4sM1qNxjzxOvoH6jeFHx3W) | 3:25 |
+| 63 | [Killin’ Me Good](https://open.spotify.com/track/4Cyf87ul1le0xTWRFBoYd7) | [JIHYO](https://open.spotify.com/artist/7F1iAHRYxR3MY7yAEuFqgL) | [ZONE](https://open.spotify.com/album/1GIkapvyAw5lwdNw66hI44) | 3:05 |
+| 64 | [Next Level](https://open.spotify.com/track/2zrhoHlFKxFTRF5aMyxMoQ) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Next Level](https://open.spotify.com/album/2CzbrboOLzeRoaaH1N5K0N) | 3:41 |
+| 65 | [LALISA](https://open.spotify.com/track/7uQZVznj0uQOGC9KhV2Mg6) | [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT) | [LALISA](https://open.spotify.com/album/66OYt73mqan1hWa78BhfPd) | 3:20 |
+| 66 | [I Love My Body](https://open.spotify.com/track/0pHylQR53epYtRcVIhUSCh) | [HWASA](https://open.spotify.com/artist/7bmYpVgQub656uNTu6qGNQ) | [I Love My Body](https://open.spotify.com/album/7Lbc8drIJGlYLT4hdcBvre) | 2:30 |
 | 67 | [LOCO](https://open.spotify.com/track/56Yxkm62GtEpnPyG7TvwLY) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [CRAZY IN LOVE](https://open.spotify.com/album/4U7rGOkJgtxs27H9L93Xli) | 3:11 |
 | 68 | [Yet To Come](https://open.spotify.com/track/10SRMwb9EuVS1K9rYsBfHQ) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Proof](https://open.spotify.com/album/6al2VdKbb6FIz9d7lU7WRB) | 3:13 |
 | 69 | [DDU\-DU DDU\-DU](https://open.spotify.com/track/4lQsB3ERTWSNaAN1IkuNRl) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [SQUARE UP](https://open.spotify.com/album/0wOiWrujRbxlKEGWRQpKYc) | 3:31 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ZeFHRhhi7Y.md) - [plain]
 | 99 | [Step Back](https://open.spotify.com/track/3LCwQoTrdQgHsGJE5gGVqx) | [GOT the beat](https://open.spotify.com/artist/6uNxlIP5lzPFf0BHuELOuX) | [Step Back](https://open.spotify.com/album/3gwL04bGAX4Kc2D5Wd7NMk) | 3:48 |
 | 100 | [BBoom BBoom](https://open.spotify.com/track/3BPoSr2pO34Aan6alFfVto) | [MOMOLAND](https://open.spotify.com/artist/5RR0MLwcjc87wjSw2JYdwx) | [GREAT!](https://open.spotify.com/album/5vt2sEP5J0VNbYXoA7h2k4) | 3:28 |
 
-Snapshot ID: `MCxlNDUzNGMyYjhkNTBlMWE0MjdiMGRmZDliM2M4MzZhOThhMDJjZjdj`
+Snapshot ID: `MCxlM2YzYTkzYzM3MDczMzI3MzRkZjNkZWZkNGI0M2MyYjMzZjNlMDI0`

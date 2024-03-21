@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa5GdOk4Dsb5.md) - [plain]
 
 > Para ahogar las penas en el fondo de una botella.
 
-[Spotify](https://open.spotify.com/user/spotify) - 130,396 likes - 100 songs - 5 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 130,448 likes - 100 songs - 5 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,8 +65,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa5GdOk4Dsb5.md) - [plain]
 | 55 | [Usted No Me Olvida](https://open.spotify.com/track/6JoOLSvi28lnoos5JVjsqC) | [Joaquin Guiller](https://open.spotify.com/artist/2AHbxv3jnfIDz6BmPn979c) | [Mi Mejor Momento](https://open.spotify.com/album/1YeNrm1OTil0kSBYbf4m1r) | 3:13 |
 | 56 | [Mi Venganza](https://open.spotify.com/track/4MAGNMEAi6yUpC5w58eHLN) | [Alzate](https://open.spotify.com/artist/682qzOnGxexrwH41Cy51Hu), [Yeison Jimenez](https://open.spotify.com/artist/3SEztK9fNxg81qZ8qETGNT) | [Mi Venganza](https://open.spotify.com/album/0GfKEcyPtvzo7hNNJFCAfZ) | 3:11 |
 | 57 | [Aventurero](https://open.spotify.com/track/0ftcn4ddKESqQMA784Ebc0) | [Yeison Jimenez](https://open.spotify.com/artist/3SEztK9fNxg81qZ8qETGNT) | [Aventurero](https://open.spotify.com/album/5gdo7K3EFl1CSiOM9P8jTG) | 3:10 |
-| 58 | [Mientes Tan Bien](https://open.spotify.com/track/0Wnq2QHjYWkj70SC1B3cCJ) | [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [Consejos Gratis](https://open.spotify.com/album/10e10cYupx3U37Efv5691A) | 3:52 |
-| 59 | [Te Hubieras Ido Antes](https://open.spotify.com/track/0uw9huLXX2ne9bkisvYUFH) | [Pipe Bueno](https://open.spotify.com/artist/4RXxwBtdt6k1YNyyAyiOng) | [Te Hubieras Ido Antes](https://open.spotify.com/album/6BIQDuXvqKsUb1jj6yvqFf) | 3:13 |
+| 58 | [Te Hubieras Ido Antes](https://open.spotify.com/track/0uw9huLXX2ne9bkisvYUFH) | [Pipe Bueno](https://open.spotify.com/artist/4RXxwBtdt6k1YNyyAyiOng) | [Te Hubieras Ido Antes](https://open.spotify.com/album/6BIQDuXvqKsUb1jj6yvqFf) | 3:13 |
+| 59 | [Mientes Tan Bien](https://open.spotify.com/track/0Wnq2QHjYWkj70SC1B3cCJ) | [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [Consejos Gratis](https://open.spotify.com/album/10e10cYupx3U37Efv5691A) | 3:52 |
 | 60 | [Esclavo y Amo](https://open.spotify.com/track/6FdA99MiSW1e18f2vEAx27) | [Javier Solís](https://open.spotify.com/artist/7jerD1mbWgyDukHAmCvdCj) | [Los Boleros Morunos Solis](https://open.spotify.com/album/5fJVD81W2XvK9a2IBHyEjq) | 2:57 |
 | 61 | [OK](https://open.spotify.com/track/6ZpPLJ3wck4X1eOhUGCWPx) | [Jessi Uribe](https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS) | [OK](https://open.spotify.com/album/7jKr5d7pxSFzxo8bkM0Y3G) | 2:21 |
 | 62 | [Si Nos Dejan](https://open.spotify.com/track/1mTWvb5uY8R6tU7iCLtiUo) | [José Alfredo Jimenez](https://open.spotify.com/artist/2T06whb4s6UiufL1j5Qtz9) | [Las 100 Clasicas Vol\. 2](https://open.spotify.com/album/0A7PWw6nPn5DztmUhIICiG) | 2:24 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa5GdOk4Dsb5.md) - [plain]
 | 99 | [Mi Ex](https://open.spotify.com/track/6jD818CoibqddGqCEyhjCy) | [El Gran Martín Elías](https://open.spotify.com/artist/15g2N69hNuvVjSUqa9Entz) | [Imparables](https://open.spotify.com/album/5HVoQdtTpBV5ek4cEKTKrO) | 4:44 |
 | 100 | [Empecemos de Cero \(Nueva Versión\)](https://open.spotify.com/track/0Wf3yEjUOKzdxMeOlxGfzC) | [Jhonny Rivera](https://open.spotify.com/artist/5TDSNRe3rVLJhxjIhxfcUx), [Lady Yuliana](https://open.spotify.com/artist/3WLVEbpQIsYvDslZadgxO2) | [Empecemos de Cero \(Nueva Versión\)](https://open.spotify.com/album/1BZLPRfhdCTyb4zg0BNzTC) | 3:14 |
 
-Snapshot ID: `MCxkOWEzYjA2ZGFiMTUwZTU5OWQzZWZlOTlkNjc1NGJlYjU2ZTMzNzhj`
+Snapshot ID: `MCw1ZjMwYThmNjAwODhjZmVjNzBhNWVhZGUzNzk5ZWMwMmUyNTVmNzIx`

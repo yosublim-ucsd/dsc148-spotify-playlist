@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb9tg3GqJkNv.md) - [plain]
 
 > A collection of <a href="https://open.spotify.com/playlist/37i9dQZF1DX59ogDi1Z2XL?si=75c9bb9755f54283">Northern Bars</a>’ finest\. Cover: Planet Giza
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,799 likes - 75 songs - 3 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,808 likes - 75 songs - 3 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,8 +62,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb9tg3GqJkNv.md) - [plain]
 | 52 | [Jupiter & Mars](https://open.spotify.com/track/7GSOsyYPXAS31vaEVyzzRh) | [ARDN](https://open.spotify.com/artist/5jxe5kzLkm5ICEy03BcLwo) | [Jupiter & Mars](https://open.spotify.com/album/3iRKgJqd2XTistB0EAh9QU) | 3:16 |
 | 53 | [Flowers \(feat\. MAVI\)](https://open.spotify.com/track/2e8OPXNNk9onHe4pknBZhD) | [TOBi](https://open.spotify.com/artist/0P54cVemq1DCHUfUMlWAoN), [MAVI](https://open.spotify.com/artist/1peoXq0RPx7czVoFjloeDQ) | [Flowers \(feat\. MAVI\)](https://open.spotify.com/album/5BoyqCSSuqxD6ZXiVWnWaD) | 3:02 |
 | 54 | [My Town \(feat\. Giggs\)](https://open.spotify.com/track/41l1RaDtTRnSPsy22JUFVC) | [Baka Not Nice](https://open.spotify.com/artist/3yvCFkK57FXH7JIwZQ5CmU), [Giggs](https://open.spotify.com/artist/3S0tlB4fE7ChxI2pWz8Xip) | [no long talk.](https://open.spotify.com/album/3RIerAmfvbXRl9uFX3UZyT) | 3:18 |
-| 55 | [The Jungle](https://open.spotify.com/track/6bpsyayAnCZoPTjGt9Ifhw) | [Bandokay](https://open.spotify.com/artist/0CqfkYr7CBuSySa4wUBChE), [Pressa](https://open.spotify.com/artist/5olrQpDroHT7sjmYWMLivy) | [The Jungle](https://open.spotify.com/album/2Ao1lDSZ1N9JmkTaR9PuQF) | 2:47 |
-| 56 | [Dwayne Carter Flow](https://open.spotify.com/track/2B5QF7KSCv5jz2hIxyKic5) | [Nate Husser](https://open.spotify.com/artist/5o4gKYJ99ROV1yye1v9Sh4) | [All Time High](https://open.spotify.com/album/5ptOOTLiiSnYMUCnAgUE3N) | 2:10 |
+| 55 | [Dwayne Carter Flow](https://open.spotify.com/track/2B5QF7KSCv5jz2hIxyKic5) | [Nate Husser](https://open.spotify.com/artist/5o4gKYJ99ROV1yye1v9Sh4) | [All Time High](https://open.spotify.com/album/5ptOOTLiiSnYMUCnAgUE3N) | 2:10 |
+| 56 | [The Jungle](https://open.spotify.com/track/6bpsyayAnCZoPTjGt9Ifhw) | [Bandokay](https://open.spotify.com/artist/0CqfkYr7CBuSySa4wUBChE), [Pressa](https://open.spotify.com/artist/5olrQpDroHT7sjmYWMLivy) | [The Jungle](https://open.spotify.com/album/2Ao1lDSZ1N9JmkTaR9PuQF) | 2:47 |
 | 57 | [30,000 ft](https://open.spotify.com/track/2zR8U7MLwxlLf7xkAew9BR) | [NorthSideBenji](https://open.spotify.com/artist/2EzNKTHTCUaHUkKaNFUH8d), [Dj Charlie B](https://open.spotify.com/artist/0mSZAfNTdQcxi9IIBF6TS5) | [30,000 ft](https://open.spotify.com/album/4pe6ylc2vjCU7zQ6EI8ayn) | 2:37 |
 | 58 | [Priceless](https://open.spotify.com/track/2Ai10rvOZla3w0GZXuuFSp) | [Robin Banks](https://open.spotify.com/artist/46qgq6hZewSGvjR5kmT3jE), [FB](https://open.spotify.com/artist/5bDOWnyQ73utiM8fCtv1Ar) | [Priceless](https://open.spotify.com/album/3IkBPsHdtfjTozntH3W9ek) | 4:32 |
 | 59 | [NightmareZ](https://open.spotify.com/track/7eziXF3TKXmpwSXs0XX7ZR) | [Duvy](https://open.spotify.com/artist/3HShZ9OYr5GdhHI8DU9Yzy) | [NightmareZ](https://open.spotify.com/album/2YlFBQKbefAcrWtidbdms7) | 1:49 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb9tg3GqJkNv.md) - [plain]
 | 74 | [Repeat](https://open.spotify.com/track/3KFef9uMAxT4gyS2fEi9vd) | [Houdini](https://open.spotify.com/artist/2Ruhhm5oH4pxgsEUVZcaHm), [NorthSideBenji](https://open.spotify.com/artist/2EzNKTHTCUaHUkKaNFUH8d) | [Repeat](https://open.spotify.com/album/5tUI7R1lHw5Lk6nUENIgtG) | 3:28 |
 | 75 | [KING OF THE TOWN](https://open.spotify.com/track/7h1t1cI0DOSZQ0jHm3u0zA) | [DillanPonders](https://open.spotify.com/artist/1TlmLsx42aT281z8NWrKef) | [BECAUSE WE'RE ALIVE](https://open.spotify.com/album/6wZMRN2p4tG53w6ixx16wS) | 2:31 |
 
-Snapshot ID: `MCwwYjJkNTE2NTMzMDM2M2E2MmMxZTllOWE0YjRiYTNlMDYxOGViYjVh`
+Snapshot ID: `MCw4NzdiYzFmMmZjZWExMTZiOWMwZjljM2VkNTdlYzBhY2RmYjVmMTc3`

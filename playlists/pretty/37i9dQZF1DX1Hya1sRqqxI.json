@@ -1,12 +1,12 @@
 {
   "description": "The biggest party hits of the 1970s. Cover: The Jacksons.",
-  "num_followers": 392080,
+  "num_followers": 392377,
   "original_name": "70s Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyZGVkNjg2ZTk1NGYyODQzNjZkMmEzZTk4ODg1Y2U1NmJjMzZhYTVj",
+  "snapshot_id": "MCw3MDFkOTYyZmM0ZTczNTE2OGY0NGEyNWEwYTVlZjllNDAwOGVjMTUw",
   "tracks": [
     {
       "added_at": "2021-03-22 14:18:04",
@@ -843,22 +843,6 @@
     {
       "added_at": "2021-03-22 14:18:04",
       "album": {
-        "name": "Kung Fu Fighter",
-        "url": "https://open.spotify.com/album/53DDpuRxvNAUby9WODE3h2"
-      },
-      "artists": [
-        {
-          "name": "Carl Douglas",
-          "url": "https://open.spotify.com/artist/5Pqx4mXYDGIDcg8E5FYjZ8"
-        }
-      ],
-      "duration_ms": 197935,
-      "name": "Kung Fu Fighting",
-      "url": "https://open.spotify.com/track/7K8QsHbmUpSX37oOCL4e2g"
-    },
-    {
-      "added_at": "2021-03-22 14:18:04",
-      "album": {
         "name": "Born to Be Alive (The Original)",
         "url": "https://open.spotify.com/album/0kVK9lFFTzhnEb4ETElbCD"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 188133,
       "name": "Born to Be Alive - The Original",
       "url": "https://open.spotify.com/track/3XIEWK1V9n25PS9Vb6axj5"
+    },
+    {
+      "added_at": "2021-03-22 14:18:04",
+      "album": {
+        "name": "Kung Fu Fighter",
+        "url": "https://open.spotify.com/album/53DDpuRxvNAUby9WODE3h2"
+      },
+      "artists": [
+        {
+          "name": "Carl Douglas",
+          "url": "https://open.spotify.com/artist/5Pqx4mXYDGIDcg8E5FYjZ8"
+        }
+      ],
+      "duration_ms": 197935,
+      "name": "Kung Fu Fighting",
+      "url": "https://open.spotify.com/track/7K8QsHbmUpSX37oOCL4e2g"
     },
     {
       "added_at": "2021-03-22 14:18:04",
@@ -1405,22 +1405,6 @@
       "url": "https://open.spotify.com/track/0dMd4rilfd6gPbXaLpNYhu"
     },
     {
-      "added_at": "2021-09-08 13:31:49",
-      "album": {
-        "name": "Right Back Where We Started From",
-        "url": "https://open.spotify.com/album/0R3e4Hcf2MQVed40q1zdSB"
-      },
-      "artists": [
-        {
-          "name": "Maxine Nightingale",
-          "url": "https://open.spotify.com/artist/6jQ9UtYXqNfVnPkrH1Xxwi"
-        }
-      ],
-      "duration_ms": 192266,
-      "name": "Right Back Where We Started From",
-      "url": "https://open.spotify.com/track/6208B8Utmd2fTqgGMjeNr6"
-    },
-    {
       "added_at": "2021-03-22 14:18:04",
       "album": {
         "name": "That's The Way Of The World",
@@ -1435,6 +1419,22 @@
       "duration_ms": 170160,
       "name": "Shining Star",
       "url": "https://open.spotify.com/track/0RgcOUQg4qYAEt9RIdf3oB"
+    },
+    {
+      "added_at": "2021-09-08 13:31:49",
+      "album": {
+        "name": "Right Back Where We Started From",
+        "url": "https://open.spotify.com/album/0R3e4Hcf2MQVed40q1zdSB"
+      },
+      "artists": [
+        {
+          "name": "Maxine Nightingale",
+          "url": "https://open.spotify.com/artist/6jQ9UtYXqNfVnPkrH1Xxwi"
+        }
+      ],
+      "duration_ms": 192266,
+      "name": "Right Back Where We Started From",
+      "url": "https://open.spotify.com/track/6208B8Utmd2fTqgGMjeNr6"
     },
     {
       "added_at": "2021-03-22 14:18:04",
@@ -1485,22 +1485,6 @@
       "url": "https://open.spotify.com/track/5SAUIWdZ04OxYfJFDchC7S"
     },
     {
-      "added_at": "2021-03-22 14:18:04",
-      "album": {
-        "name": "Wild And Peaceful",
-        "url": "https://open.spotify.com/album/3MRgojA0LfPka4RG7aRjsI"
-      },
-      "artists": [
-        {
-          "name": "Kool & The Gang",
-          "url": "https://open.spotify.com/artist/3VNITwohbvU5Wuy5PC6dsI"
-        }
-      ],
-      "duration_ms": 186533,
-      "name": "Jungle Boogie",
-      "url": "https://open.spotify.com/track/3K0SJUQNbOkUprTFcwwAKN"
-    },
-    {
       "added_at": "2021-09-08 13:31:49",
       "album": {
         "name": "Rose Garden",
@@ -1515,6 +1499,22 @@
       "duration_ms": 175866,
       "name": "Rose Garden",
       "url": "https://open.spotify.com/track/5YwgJ6lpZ3SiAQwBEpjqey"
+    },
+    {
+      "added_at": "2021-03-22 14:18:04",
+      "album": {
+        "name": "Wild And Peaceful",
+        "url": "https://open.spotify.com/album/3MRgojA0LfPka4RG7aRjsI"
+      },
+      "artists": [
+        {
+          "name": "Kool & The Gang",
+          "url": "https://open.spotify.com/artist/3VNITwohbvU5Wuy5PC6dsI"
+        }
+      ],
+      "duration_ms": 186533,
+      "name": "Jungle Boogie",
+      "url": "https://open.spotify.com/track/3K0SJUQNbOkUprTFcwwAKN"
     },
     {
       "added_at": "2021-03-22 14:18:04",
@@ -1551,22 +1551,6 @@
     {
       "added_at": "2021-09-08 13:31:49",
       "album": {
-        "name": "Silk Degrees (2023 Remaster)",
-        "url": "https://open.spotify.com/album/1iIyo1JkpnNz83Mf4I9AiI"
-      },
-      "artists": [
-        {
-          "name": "Boz Scaggs",
-          "url": "https://open.spotify.com/artist/46njgd2Rq9tZc4ZjeQMgbh"
-        }
-      ],
-      "duration_ms": 317788,
-      "name": "Lowdown (2023 Remaster)",
-      "url": "https://open.spotify.com/track/5QhikAUv91oMAaFnfKz22u"
-    },
-    {
-      "added_at": "2021-09-08 13:31:49",
-      "album": {
         "name": "You Don't Mess Around With Jim",
         "url": "https://open.spotify.com/album/0dZaHQ0OJlIyVrEuvnXmS9"
       },
@@ -1599,6 +1583,22 @@
       "duration_ms": 239213,
       "name": "Make Me Smile (Come up and See Me) - 2014 Remaster",
       "url": "https://open.spotify.com/track/2dpO3NteNWUDL2S9e0t0Mi"
+    },
+    {
+      "added_at": "2021-09-08 13:31:49",
+      "album": {
+        "name": "Silk Degrees (2023 Remaster)",
+        "url": "https://open.spotify.com/album/1iIyo1JkpnNz83Mf4I9AiI"
+      },
+      "artists": [
+        {
+          "name": "Boz Scaggs",
+          "url": "https://open.spotify.com/artist/46njgd2Rq9tZc4ZjeQMgbh"
+        }
+      ],
+      "duration_ms": 317788,
+      "name": "Lowdown (2023 Remaster)",
+      "url": "https://open.spotify.com/track/5QhikAUv91oMAaFnfKz22u"
     },
     {
       "added_at": "2021-09-08 13:31:49",
@@ -1873,22 +1873,6 @@
       "url": "https://open.spotify.com/track/557cxXIeiwh03kI2F2jKdh"
     },
     {
-      "added_at": "2021-09-08 13:31:49",
-      "album": {
-        "name": "Superfly (Original Soundtrack)",
-        "url": "https://open.spotify.com/album/5ljIGCRRvS48V4ADzPGav2"
-      },
-      "artists": [
-        {
-          "name": "Curtis Mayfield",
-          "url": "https://open.spotify.com/artist/2AV6XDIs32ofIJhkkDevjm"
-        }
-      ],
-      "duration_ms": 233600,
-      "name": "Superfly",
-      "url": "https://open.spotify.com/track/4XsH9zBWPOCdXoH9ZDdS8r"
-    },
-    {
       "added_at": "2022-08-11 07:51:07",
       "album": {
         "name": "Grease (The Original Motion Picture Soundtrack)",
@@ -1907,6 +1891,22 @@
       "duration_ms": 179573,
       "name": "We Go Together - From \u201cGrease\u201d",
       "url": "https://open.spotify.com/track/5CyZPkmTBmq61SunRDysna"
+    },
+    {
+      "added_at": "2021-09-08 13:31:49",
+      "album": {
+        "name": "Superfly (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/5ljIGCRRvS48V4ADzPGav2"
+      },
+      "artists": [
+        {
+          "name": "Curtis Mayfield",
+          "url": "https://open.spotify.com/artist/2AV6XDIs32ofIJhkkDevjm"
+        }
+      ],
+      "duration_ms": 233600,
+      "name": "Superfly",
+      "url": "https://open.spotify.com/track/4XsH9zBWPOCdXoH9ZDdS8r"
     },
     {
       "added_at": "2021-09-08 13:31:49",
@@ -1957,22 +1957,6 @@
       "url": "https://open.spotify.com/track/45JKOZUyOFoLhmEltJFEeW"
     },
     {
-      "added_at": "2021-03-22 14:18:04",
-      "album": {
-        "name": "Risqu\u00e9 (2018 Remaster)",
-        "url": "https://open.spotify.com/album/7rAk4WPpYlYr0fElVfXTOF"
-      },
-      "artists": [
-        {
-          "name": "CHIC",
-          "url": "https://open.spotify.com/artist/0Xf8oDAJYd2D0k3NLI19OV"
-        }
-      ],
-      "duration_ms": 486186,
-      "name": "Good Times - 2018 Remaster",
-      "url": "https://open.spotify.com/track/2wYKNcoqKW4IEcllj42xz1"
-    },
-    {
       "added_at": "2021-09-08 13:31:49",
       "album": {
         "name": "Kill Bill Vol. 1 Original Soundtrack (PA Version)",
@@ -1987,6 +1971,22 @@
       "duration_ms": 628546,
       "name": "Don't Let Me Be Misunderstood",
       "url": "https://open.spotify.com/track/6rhVKeUhQTGLIRmQOfc9Wo"
+    },
+    {
+      "added_at": "2021-03-22 14:18:04",
+      "album": {
+        "name": "Risqu\u00e9 (2018 Remaster)",
+        "url": "https://open.spotify.com/album/7rAk4WPpYlYr0fElVfXTOF"
+      },
+      "artists": [
+        {
+          "name": "CHIC",
+          "url": "https://open.spotify.com/artist/0Xf8oDAJYd2D0k3NLI19OV"
+        }
+      ],
+      "duration_ms": 486186,
+      "name": "Good Times - 2018 Remaster",
+      "url": "https://open.spotify.com/track/2wYKNcoqKW4IEcllj42xz1"
     },
     {
       "added_at": "2021-03-22 14:18:04",
@@ -2021,22 +2021,6 @@
       "url": "https://open.spotify.com/track/0I2ELF6uHlL4ABu9aFiou7"
     },
     {
-      "added_at": "2021-03-22 14:18:04",
-      "album": {
-        "name": "Too Hot to Handle (Expanded Edition)",
-        "url": "https://open.spotify.com/album/1QeIO9ArYBB9vLiODTtWy8"
-      },
-      "artists": [
-        {
-          "name": "Heatwave",
-          "url": "https://open.spotify.com/artist/6D7h7R79IZjqJC2GM2wzyY"
-        }
-      ],
-      "duration_ms": 303640,
-      "name": "Boogie Nights",
-      "url": "https://open.spotify.com/track/4NTSDu34al733aIuUWVJHo"
-    },
-    {
       "added_at": "2021-09-08 13:31:49",
       "album": {
         "name": "Make It Happen",
@@ -2051,6 +2035,22 @@
       "duration_ms": 181800,
       "name": "The Tears Of A Clown",
       "url": "https://open.spotify.com/track/4Dq749x2QP6OXTURJ9GGY8"
+    },
+    {
+      "added_at": "2021-03-22 14:18:04",
+      "album": {
+        "name": "Too Hot to Handle (Expanded Edition)",
+        "url": "https://open.spotify.com/album/1QeIO9ArYBB9vLiODTtWy8"
+      },
+      "artists": [
+        {
+          "name": "Heatwave",
+          "url": "https://open.spotify.com/artist/6D7h7R79IZjqJC2GM2wzyY"
+        }
+      ],
+      "duration_ms": 303640,
+      "name": "Boogie Nights",
+      "url": "https://open.spotify.com/track/4NTSDu34al733aIuUWVJHo"
     },
     {
       "added_at": "2021-09-08 13:31:49",
@@ -2117,22 +2117,6 @@
       "url": "https://open.spotify.com/track/40tnCfx2mTtHozyaRDcYC5"
     },
     {
-      "added_at": "2021-03-22 14:18:04",
-      "album": {
-        "name": "KC & the Sunshine Band",
-        "url": "https://open.spotify.com/album/6S2ZnQo8V7k7EQZZEK3WcR"
-      },
-      "artists": [
-        {
-          "name": "KC & The Sunshine Band",
-          "url": "https://open.spotify.com/artist/3mQBpAOMWYqAZyxtyeo4Lo"
-        }
-      ],
-      "duration_ms": 317160,
-      "name": "Get Down Tonight - 2004 Remaster",
-      "url": "https://open.spotify.com/track/2qVZpGu1v98tvUAutqyAfJ"
-    },
-    {
       "added_at": "2021-09-08 13:31:49",
       "album": {
         "name": "There Goes Rhymin' Simon",
@@ -2147,6 +2131,22 @@
       "duration_ms": 213453,
       "name": "Loves Me Like a Rock",
       "url": "https://open.spotify.com/track/5F4ksIKmuXEtgBf6SfEQRr"
+    },
+    {
+      "added_at": "2021-03-22 14:18:04",
+      "album": {
+        "name": "KC & the Sunshine Band",
+        "url": "https://open.spotify.com/album/6S2ZnQo8V7k7EQZZEK3WcR"
+      },
+      "artists": [
+        {
+          "name": "KC & The Sunshine Band",
+          "url": "https://open.spotify.com/artist/3mQBpAOMWYqAZyxtyeo4Lo"
+        }
+      ],
+      "duration_ms": 317160,
+      "name": "Get Down Tonight - 2004 Remaster",
+      "url": "https://open.spotify.com/track/2qVZpGu1v98tvUAutqyAfJ"
     },
     {
       "added_at": "2021-09-08 13:31:49",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0XnW5YpwS0o.md) - [plain]
 
 > 2016 highlights from the home of indie music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 86,533 likes - 100 songs - 6 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 86,590 likes - 100 songs - 6 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,12 +29,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0XnW5YpwS0o.md) - [plain]
 | 19 | [Your Best American Girl](https://open.spotify.com/track/7g5qe8VITjr13RIe8uM2p6) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Puberty 2](https://open.spotify.com/album/4Coa8Eb9SzjrkwWEom963Q) | 3:32 |
 | 20 | [Sleep On The Floor](https://open.spotify.com/track/5MMZJtHOiH1RmQSSe3DJdg) | [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg) | [Cleopatra](https://open.spotify.com/album/2zbTrm2pIAErzFSopinkbN) | 3:31 |
 | 21 | [Youth](https://open.spotify.com/track/1LPGwuFgIzbJoShfDdw7MY) | [Glass Animals](https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq) | [How To Be A Human Being](https://open.spotify.com/album/6qb9MDR0lfsN9a2pw77uJy) | 3:50 |
-| 22 | [Pope Is a Rockstar](https://open.spotify.com/track/0So2sgVa8aJiARPl2P29u2) | [SALES](https://open.spotify.com/artist/6vVztIuqdDHvYWxOEXCzjN) | [SALES LP](https://open.spotify.com/album/7ywSMs3G2OWOGVKMqc7KsE) | 3:07 |
-| 23 | [Talk Too Much](https://open.spotify.com/track/4djIFfof5TpbSGRZUpsTXq) | [COIN](https://open.spotify.com/artist/0ZxZlO7oWCSYMXhehpyMvE) | [How Will You Know If You Never Try](https://open.spotify.com/album/4TJUrdwbeKC9qcouPlBuLe) | 3:07 |
+| 22 | [Talk Too Much](https://open.spotify.com/track/4djIFfof5TpbSGRZUpsTXq) | [COIN](https://open.spotify.com/artist/0ZxZlO7oWCSYMXhehpyMvE) | [How Will You Know If You Never Try](https://open.spotify.com/album/4TJUrdwbeKC9qcouPlBuLe) | 3:07 |
+| 23 | [Pope Is a Rockstar](https://open.spotify.com/track/0So2sgVa8aJiARPl2P29u2) | [SALES](https://open.spotify.com/artist/6vVztIuqdDHvYWxOEXCzjN) | [SALES LP](https://open.spotify.com/album/7ywSMs3G2OWOGVKMqc7KsE) | 3:07 |
 | 24 | [Marinade](https://open.spotify.com/track/2OFUamird9l49tMtwf8w3l) | [DOPE LEMON](https://open.spotify.com/artist/7oZLKL1GjYiaAgssXsLmW8) | [Honey Bones](https://open.spotify.com/album/6Eskc9vh8wniq95JXGFZ1V) | 3:57 |
 | 25 | [7](https://open.spotify.com/track/5ykbOijJEfRhuo2Td1m0Qd) | [Catfish and the Bottlemen](https://open.spotify.com/artist/2xaAOVImG2O6lURwqperlD) | [The Ride](https://open.spotify.com/album/07IHAhsG4FnnfHQSb3bbAZ) | 4:16 |
-| 26 | [HandClap](https://open.spotify.com/track/4qRaZYiaOsSvWC7VgcxrI0) | [Fitz and The Tantrums](https://open.spotify.com/artist/4AcHt3JxKy59IX7JNNlZn4) | [Fitz and The Tantrums \(Deluxe Edition\)](https://open.spotify.com/album/4eoIRaV8z8v2LaXQSWy2LC) | 3:13 |
-| 27 | [Broken Bones](https://open.spotify.com/track/0lwUIYJfWGB8qUEAJtYfb6) | [KALEO](https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc) | [A/B](https://open.spotify.com/album/4he4SQup02hEIQdwhZlZlk) | 4:05 |
+| 26 | [Broken Bones](https://open.spotify.com/track/0lwUIYJfWGB8qUEAJtYfb6) | [KALEO](https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc) | [A/B](https://open.spotify.com/album/4he4SQup02hEIQdwhZlZlk) | 4:05 |
+| 27 | [HandClap](https://open.spotify.com/track/4qRaZYiaOsSvWC7VgcxrI0) | [Fitz and The Tantrums](https://open.spotify.com/artist/4AcHt3JxKy59IX7JNNlZn4) | [Fitz and The Tantrums \(Deluxe Edition\)](https://open.spotify.com/album/4eoIRaV8z8v2LaXQSWy2LC) | 3:13 |
 | 28 | [Angela](https://open.spotify.com/track/5bodDpPolC3xlame0SVcDY) | [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg) | [Cleopatra](https://open.spotify.com/album/2zbTrm2pIAErzFSopinkbN) | 3:21 |
 | 29 | [Sweet Dreams, TN](https://open.spotify.com/track/1W0OCrMsRP1SLTEdw3JwEz) | [The Last Shadow Puppets](https://open.spotify.com/artist/2Z7UcsdweVlRbAk5wH5fsf) | [Everything You've Come To Expect \(Deluxe Edition\)](https://open.spotify.com/album/6q1ZuWCnYTQb7KhXHZo947) | 3:56 |
 | 30 | [The Other Side Of Paradise](https://open.spotify.com/track/0rRjGruFonCGOt0S5zAJNQ) | [Glass Animals](https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq) | [How To Be A Human Being](https://open.spotify.com/album/6qb9MDR0lfsN9a2pw77uJy) | 5:20 |
@@ -88,9 +88,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0XnW5YpwS0o.md) - [plain]
 | 78 | [Our Own House](https://open.spotify.com/track/3QzbEvmnuZIONNv82PylZb) | [MisterWives](https://open.spotify.com/artist/5ivCbtrcD5N4rD337xIb2z) | [Our Own House](https://open.spotify.com/album/726GB3GTBwPdsGr5XzOQbz) | 3:52 |
 | 79 | [Everybody Wants to Love You](https://open.spotify.com/track/38OvTFIg5ZYRow2sA1jgKo) | [Japanese Breakfast](https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw) | [Psychopomp](https://open.spotify.com/album/3CeBfyjSIfbWyf0RTNbq1G) | 2:12 |
 | 80 | [Uno](https://open.spotify.com/track/39GNDyrCTPMlXb9JHLAAm3) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [Uno](https://open.spotify.com/album/6XpbhukKdSB6cnVPW7fgSR) | 2:51 |
-| 81 | [Are We Ready? \(Wreck\)](https://open.spotify.com/track/6JVavFFMw8Cy6Q9xGd2HIX) | [Two Door Cinema Club](https://open.spotify.com/artist/536BYVgOnRky0xjsPT96zl) | [Gameshow \(Deluxe Edition\)](https://open.spotify.com/album/6Cd9LMi56uw4lu5FqCTMqb) | 3:50 |
+| 81 | [Die Trying](https://open.spotify.com/track/5JTAGruCIDyRLhKLwFkTnS) | [Michl](https://open.spotify.com/artist/0qG3lxHmrUeKzL1BJJ7IBN) | [Die Trying](https://open.spotify.com/album/3GtcNdfScg8xtLLbJNJbfm) | 3:29 |
 | 82 | [22 \(OVER S∞∞N\)](https://open.spotify.com/track/3EYj5rxRbNM3nijF9dOtry) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [22, A Million](https://open.spotify.com/album/4bJCKmpKgti10f3ltz6LLl) | 2:48 |
-| 83 | [Die Trying](https://open.spotify.com/track/5JTAGruCIDyRLhKLwFkTnS) | [Michl](https://open.spotify.com/artist/0qG3lxHmrUeKzL1BJJ7IBN) | [Die Trying](https://open.spotify.com/album/3GtcNdfScg8xtLLbJNJbfm) | 3:29 |
+| 83 | [Are We Ready? \(Wreck\)](https://open.spotify.com/track/6JVavFFMw8Cy6Q9xGd2HIX) | [Two Door Cinema Club](https://open.spotify.com/artist/536BYVgOnRky0xjsPT96zl) | [Gameshow \(Deluxe Edition\)](https://open.spotify.com/album/6Cd9LMi56uw4lu5FqCTMqb) | 3:50 |
 | 84 | [Under the Sun](https://open.spotify.com/track/3cp8xX1N5jewfKU2oY2Y08) | [DIIV](https://open.spotify.com/artist/4OrizGCKhOrW6iDDJHN9xd) | [Is the Is Are](https://open.spotify.com/album/3fSqRdxX8lh5nZHjgzEGl1) | 3:46 |
 | 85 | [Dancing On Glass](https://open.spotify.com/track/0aersVHlGGXcHeRvHtuaSt) | [St\. Lucia](https://open.spotify.com/artist/5WId4o5jdGVhptNU0uqKxu) | [Matter](https://open.spotify.com/album/4qH5TQZxM5v7tKT0E09WAK) | 4:06 |
 | 86 | [Flame](https://open.spotify.com/track/3PVsWhlUR6mNxU9fk1BWca) | [Sundara Karma](https://open.spotify.com/artist/4fgXfJCQnK6c44u4KzAtQP) | [Flame](https://open.spotify.com/album/1SzxwOqnQiILK4xlSzXWx4) | 3:47 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0XnW5YpwS0o.md) - [plain]
 | 99 | [Coins](https://open.spotify.com/track/53I7CviVHhNYEKth717RLG) | [Local Natives](https://open.spotify.com/artist/75dQReiBOHN37fQgWQrIAJ) | [Sunlit Youth](https://open.spotify.com/album/2qiPY1CqHGexT4yWrQ5uX0) | 3:57 |
 | 100 | [Loving Someone](https://open.spotify.com/track/4p1pxmqtPtPHqWbOd2RgXu) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [I like it when you sleep, for you are so beautiful yet so unaware of it](https://open.spotify.com/album/1JFmNyVPdBF1ECvv4fhpW4) | 4:20 |
 
-Snapshot ID: `MCw2MThiNzM5MjExNjUyOTc0MjJlNzJiZjMxNjBmOGM2ZjM2MGZmM2Mz`
+Snapshot ID: `MCxjZTA5Nzg3ODRmMTdlOWNjMTNmOGQzYzhiOTRhOTU0N2FjMjYxYjAz`

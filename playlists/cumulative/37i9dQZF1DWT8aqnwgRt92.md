@@ -4,7 +4,7 @@
 
 > Hottest Anime tracks & best new sounds for all Anime fans! 最新アニメシーンの話題曲をまとめてお届け！Illustration by <a href="https://kazuhisauragami.com/"> Kazuhisa Uragami</a>
 
-1,228 songs - 3 day 5 hr 13 min
+1,229 songs - 3 day 5 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -698,7 +698,8 @@
 | [Watashi to Sekai](https://open.spotify.com/track/46u9BAGpdHauFrFRRxkr0C) | [Yui Makino](https://open.spotify.com/artist/6EtarAFCJoZ2AvMuleZw0G) | [Anata to Watashi wo Tsunagumono](https://open.spotify.com/album/5TL5jmTLrfk3KAplSZ4Uph) | 4:23 | 2022-10-04 | 2022-11-16 |
 | [WATASHITACHI Marginal Service](https://open.spotify.com/track/05aMlgQOcdv8IcIxGh40Vz) | [ブライアン・ナイトレイダー\(CV.宮野真守\)](https://open.spotify.com/artist/6UnV8YKsYQosXeBMfq9GqP), [ゼノ・ストークス\(CV.森川智之\)](https://open.spotify.com/artist/0IljlUqmZ6MeeMe8drVUP4), [ボルツ・デクスター\(CV.杉田智和\)](https://open.spotify.com/artist/2p7VuZ2Aq1zR2vXodU6GfH), [ロビン・ティンバート\(CV.中村悠一\)](https://open.spotify.com/artist/56FPkPzV0zsE2mHfsNXcYL), [ライラ・キャンディハート\(CV.名塚佳織\)](https://open.spotify.com/artist/4N8NOReEz18c15XLvVcch4), [サイラス・N・空閑\(CV.下野紘\)](https://open.spotify.com/artist/5nkKXRKKxw6WZKLWnT8lkA), [セオドア・トンプソン\(CV.三木眞一郎\)](https://open.spotify.com/artist/7vtJXzGCl0lEZDTcVPpoQc), [ペック・デズモント\(CV.内山昂輝\)](https://open.spotify.com/artist/1Y5IHVVB3JvwBGQBa3t6XR) | [WATASHITACHI Marginal Service \(TV Animation ”THE MARGINAL SERVICE”\)](https://open.spotify.com/album/7HOYKTTVHVILbEUF1FqfWi) | 3:35 | 2023-04-11 | 2023-04-26 |
 | [Watashiwa Saikyou \- From CrosSing](https://open.spotify.com/track/7eZTR8aZ0BRr6Tfkh4xrI6) | [Masayoshi Oishi](https://open.spotify.com/artist/2NmgIfLAFl1DD1FZOY4YqC), [PelleK](https://open.spotify.com/artist/1qLwXsUtyW2Ba2Iotg4gE3) | [Watashiwa Saikyou \- From CrosSing](https://open.spotify.com/album/1P7zqeYRHJM7UlXJKv8ooq) | 4:17 | 2023-12-28 | 2024-01-17 |
-| [Water Carrier](https://open.spotify.com/track/675sPQdIf74UzpPrPR4tLZ) | [Kroi](https://open.spotify.com/artist/4S8J8Nct8lHsbzAeNJXcJa) | [Water Carrier](https://open.spotify.com/album/0LkdcehFEz0i0RALwIp9V7) | 4:02 | 2024-03-19 |  |
+| [Water Carrier](https://open.spotify.com/track/4l8jSXhZ3apqimhbzhiabB) | [Kroi](https://open.spotify.com/artist/4S8J8Nct8lHsbzAeNJXcJa) | [Water Carrier](https://open.spotify.com/album/3sNzrdLqdVxbPmHAu9Iuav) | 4:02 | 2024-03-19 |  |
+| [Water Carrier](https://open.spotify.com/track/675sPQdIf74UzpPrPR4tLZ) | [Kroi](https://open.spotify.com/artist/4S8J8Nct8lHsbzAeNJXcJa) | [Water Carrier](https://open.spotify.com/album/0LkdcehFEz0i0RALwIp9V7) | 4:02 | 2024-03-19 | 2024-03-21 |
 | [Way to go](https://open.spotify.com/track/5CZ9ZyPs6di7ScOJa6YQmJ) | [MindaRyn](https://open.spotify.com/artist/7MSns7VCEysJJhcp67gvtZ) | [Way to go](https://open.spotify.com/album/7zEQZQRLbiXZynF6MCJFxW) | 4:03 | 2023-01-10 | 2023-04-09 |
 | [WE WILL!!](https://open.spotify.com/track/1LJhBOJ0WD4n28K8Tp9AOg) | [Liella!](https://open.spotify.com/artist/2U3Vgx19saFDI9ZH4KzEIn) | [WE WILL!!](https://open.spotify.com/album/1tOOzv1BUFulpiX5uiKnih) | 3:36 | 2022-08-02 | 2022-08-24 |
 | [Weight of the World/Kowareta Sekai no Uta \- From CrosSing](https://open.spotify.com/track/45GCLrLOLkphfCNidiJPG4) | [Ishikawa Yui](https://open.spotify.com/artist/0YknJYTpMVMYveiGuchPlQ) | [Weight of the World/Kowareta Sekai no Uta \- From CrosSing](https://open.spotify.com/album/6FKSN2j91q6gLEAtnMbEvb) | 5:44 | 2023-08-08 | 2023-09-20 |

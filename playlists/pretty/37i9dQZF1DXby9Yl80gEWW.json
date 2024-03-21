@@ -1,12 +1,12 @@
 {
   "description": "A taste of the very best bluegrass instrumentals, classic and new.",
-  "num_followers": 47876,
+  "num_followers": 47897,
   "original_name": "Instrumental Bluegrass",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkMjM1OTY3MWYzMWU4MTE5ZjMzMzNhM2NkMzIzNzE4ZGNkZjZkODU1",
+  "snapshot_id": "MCw1ODM1NmNmMTBmNWFlNDg3ZmI1ZGY5OTE4MjhjOTI5ZDI0ODdlNDJm",
   "tracks": [
     {
       "added_at": "2024-03-08 05:00:00",
@@ -967,22 +967,6 @@
     {
       "added_at": "2024-03-08 05:00:00",
       "album": {
-        "name": "From Sea To Sky",
-        "url": "https://open.spotify.com/album/1xbIYXMSBnzghgRlDeVzkp"
-      },
-      "artists": [
-        {
-          "name": "Jake Soffer",
-          "url": "https://open.spotify.com/artist/7JV0AfdtfA325ka6q3pRsX"
-        }
-      ],
-      "duration_ms": 159130,
-      "name": "From Sea To Sky",
-      "url": "https://open.spotify.com/track/0p1v3xx5pzRiUKUersdDtR"
-    },
-    {
-      "added_at": "2024-03-08 05:00:00",
-      "album": {
         "name": "Jake & Friends",
         "url": "https://open.spotify.com/album/55TghcfDJdSXWfsSlkfQwe"
       },
@@ -999,6 +983,22 @@
       "duration_ms": 429346,
       "name": "Smokin' Strings",
       "url": "https://open.spotify.com/track/3Z2LqgIaQKK0VgHejLktIj"
+    },
+    {
+      "added_at": "2024-03-08 05:00:00",
+      "album": {
+        "name": "From Sea To Sky",
+        "url": "https://open.spotify.com/album/1xbIYXMSBnzghgRlDeVzkp"
+      },
+      "artists": [
+        {
+          "name": "Jake Soffer",
+          "url": "https://open.spotify.com/artist/7JV0AfdtfA325ka6q3pRsX"
+        }
+      ],
+      "duration_ms": 159130,
+      "name": "From Sea To Sky",
+      "url": "https://open.spotify.com/track/0p1v3xx5pzRiUKUersdDtR"
     },
     {
       "added_at": "2024-03-08 05:00:00",
@@ -1035,22 +1035,6 @@
     {
       "added_at": "2024-03-08 05:00:00",
       "album": {
-        "name": "Church Street Blues",
-        "url": "https://open.spotify.com/album/2ikwlUUIe2EiOO2gDZjOJb"
-      },
-      "artists": [
-        {
-          "name": "Tony Rice",
-          "url": "https://open.spotify.com/artist/6N9hyojoLChEhlsS8vYnyr"
-        }
-      ],
-      "duration_ms": 207440,
-      "name": "Jerusalem Ridge",
-      "url": "https://open.spotify.com/track/2I38eMHKtOsIFUMWebyHj7"
-    },
-    {
-      "added_at": "2024-03-08 05:00:00",
-      "album": {
         "name": "Shadowgrass",
         "url": "https://open.spotify.com/album/0JqSs11UVGIqPsoGWpLFz1"
       },
@@ -1063,6 +1047,22 @@
       "duration_ms": 287934,
       "name": "Carl\u2019s Breakdown",
       "url": "https://open.spotify.com/track/1WSgLVVvvhF0UvJdpaErCj"
+    },
+    {
+      "added_at": "2024-03-08 05:00:00",
+      "album": {
+        "name": "Church Street Blues",
+        "url": "https://open.spotify.com/album/2ikwlUUIe2EiOO2gDZjOJb"
+      },
+      "artists": [
+        {
+          "name": "Tony Rice",
+          "url": "https://open.spotify.com/artist/6N9hyojoLChEhlsS8vYnyr"
+        }
+      ],
+      "duration_ms": 207440,
+      "name": "Jerusalem Ridge",
+      "url": "https://open.spotify.com/track/2I38eMHKtOsIFUMWebyHj7"
     },
     {
       "added_at": "2024-03-08 05:00:00",
@@ -1371,22 +1371,6 @@
     {
       "added_at": "2024-03-08 05:00:00",
       "album": {
-        "name": "Place of Growth",
-        "url": "https://open.spotify.com/album/2DZl2dzLBAGWu6H9wNyQyR"
-      },
-      "artists": [
-        {
-          "name": "Hawktail",
-          "url": "https://open.spotify.com/artist/3FsmZCUI3BAt3lqc6UIPqm"
-        }
-      ],
-      "duration_ms": 198357,
-      "name": "Shallows",
-      "url": "https://open.spotify.com/track/0WaQSVtzER7nT9sPLu918r"
-    },
-    {
-      "added_at": "2024-03-08 05:00:00",
-      "album": {
         "name": "Chemical Plant Zone",
         "url": "https://open.spotify.com/album/6Ct3ce7bGWB9mnsx9LXjbr"
       },
@@ -1403,22 +1387,6 @@
       "duration_ms": 200768,
       "name": "Chemical Plant Zone",
       "url": "https://open.spotify.com/track/3pIgBGEeDs9wVlHJVqiv33"
-    },
-    {
-      "added_at": "2024-03-08 05:00:00",
-      "album": {
-        "name": "Jubilation",
-        "url": "https://open.spotify.com/album/2pMmU3fvjvXpS8F7OhsDqh"
-      },
-      "artists": [
-        {
-          "name": "Appalachian Road Show",
-          "url": "https://open.spotify.com/artist/2QbK1N86iI11jUiRG2JgSM"
-        }
-      ],
-      "duration_ms": 179140,
-      "name": "Graveyard Fields",
-      "url": "https://open.spotify.com/track/1ONtkZXZZQSluHq68xq90p"
     },
     {
       "added_at": "2024-03-08 05:00:00",
@@ -1447,6 +1415,38 @@
     {
       "added_at": "2024-03-08 05:00:00",
       "album": {
+        "name": "Place of Growth",
+        "url": "https://open.spotify.com/album/2DZl2dzLBAGWu6H9wNyQyR"
+      },
+      "artists": [
+        {
+          "name": "Hawktail",
+          "url": "https://open.spotify.com/artist/3FsmZCUI3BAt3lqc6UIPqm"
+        }
+      ],
+      "duration_ms": 198357,
+      "name": "Shallows",
+      "url": "https://open.spotify.com/track/0WaQSVtzER7nT9sPLu918r"
+    },
+    {
+      "added_at": "2024-03-08 05:00:00",
+      "album": {
+        "name": "Jubilation",
+        "url": "https://open.spotify.com/album/2pMmU3fvjvXpS8F7OhsDqh"
+      },
+      "artists": [
+        {
+          "name": "Appalachian Road Show",
+          "url": "https://open.spotify.com/artist/2QbK1N86iI11jUiRG2JgSM"
+        }
+      ],
+      "duration_ms": 179140,
+      "name": "Graveyard Fields",
+      "url": "https://open.spotify.com/track/1ONtkZXZZQSluHq68xq90p"
+    },
+    {
+      "added_at": "2024-03-08 05:00:00",
+      "album": {
         "name": "Songs For The Sparrows",
         "url": "https://open.spotify.com/album/4dRUKAQWlfGK9AlmsJlS78"
       },
@@ -1467,6 +1467,22 @@
       "duration_ms": 269733,
       "name": "Big Mountain",
       "url": "https://open.spotify.com/track/7AcJDi9pjGHLE1OMiWmLED"
+    },
+    {
+      "added_at": "2024-03-08 05:00:00",
+      "album": {
+        "name": "Me & My Guitar",
+        "url": "https://open.spotify.com/album/17TJYoQWwccA98WnuVxwLy"
+      },
+      "artists": [
+        {
+          "name": "Tony Rice",
+          "url": "https://open.spotify.com/artist/6N9hyojoLChEhlsS8vYnyr"
+        }
+      ],
+      "duration_ms": 287533,
+      "name": "Port Tobacco",
+      "url": "https://open.spotify.com/track/0QhRl7KFHpODnyOJTcodtN"
     },
     {
       "added_at": "2024-03-08 05:00:00",
@@ -1507,22 +1523,6 @@
     {
       "added_at": "2024-03-08 05:00:00",
       "album": {
-        "name": "Me & My Guitar",
-        "url": "https://open.spotify.com/album/17TJYoQWwccA98WnuVxwLy"
-      },
-      "artists": [
-        {
-          "name": "Tony Rice",
-          "url": "https://open.spotify.com/artist/6N9hyojoLChEhlsS8vYnyr"
-        }
-      ],
-      "duration_ms": 287533,
-      "name": "Port Tobacco",
-      "url": "https://open.spotify.com/track/0QhRl7KFHpODnyOJTcodtN"
-    },
-    {
-      "added_at": "2024-03-08 05:00:00",
-      "album": {
         "name": "Drive",
         "url": "https://open.spotify.com/album/0KclPgeyUzBKU4pic1to9z"
       },
@@ -1559,22 +1559,6 @@
     {
       "added_at": "2024-03-08 05:00:00",
       "album": {
-        "name": "Into My Own",
-        "url": "https://open.spotify.com/album/6oWQ9Jd7snovTm6B0IdEOK"
-      },
-      "artists": [
-        {
-          "name": "Bryan Sutton",
-          "url": "https://open.spotify.com/artist/1LFHqGsLJjUP2jqIAznlLm"
-        }
-      ],
-      "duration_ms": 306059,
-      "name": "Overton Waltz",
-      "url": "https://open.spotify.com/track/05lA78CxLBlUOFMsoSucyO"
-    },
-    {
-      "added_at": "2024-03-08 05:00:00",
-      "album": {
         "name": "Live from Bristol",
         "url": "https://open.spotify.com/album/731zEInCmBczQ35Tn2kjZN"
       },
@@ -1591,6 +1575,22 @@
       "duration_ms": 174143,
       "name": "Waynesboro - Live",
       "url": "https://open.spotify.com/track/5ake2OCj488YQf3Frq4yWc"
+    },
+    {
+      "added_at": "2024-03-08 05:00:00",
+      "album": {
+        "name": "Into My Own",
+        "url": "https://open.spotify.com/album/6oWQ9Jd7snovTm6B0IdEOK"
+      },
+      "artists": [
+        {
+          "name": "Bryan Sutton",
+          "url": "https://open.spotify.com/artist/1LFHqGsLJjUP2jqIAznlLm"
+        }
+      ],
+      "duration_ms": 306059,
+      "name": "Overton Waltz",
+      "url": "https://open.spotify.com/track/05lA78CxLBlUOFMsoSucyO"
     },
     {
       "added_at": "2024-03-08 05:00:00",
@@ -1719,22 +1719,6 @@
     {
       "added_at": "2024-03-08 05:00:00",
       "album": {
-        "name": "Decembering",
-        "url": "https://open.spotify.com/album/7jZAxQsEbJim05XnecJ45E"
-      },
-      "artists": [
-        {
-          "name": "Tony Furtado",
-          "url": "https://open.spotify.com/artist/5Q6pd3dxIXhCNap8bJpWvt"
-        }
-      ],
-      "duration_ms": 213400,
-      "name": "Icebound",
-      "url": "https://open.spotify.com/track/1aE1jtShWdjd5XZfaXnOyF"
-    },
-    {
-      "added_at": "2024-03-08 05:00:00",
-      "album": {
         "name": "Tsali's Run",
         "url": "https://open.spotify.com/album/2R0bW66PP9Ez06X4F3DPfP"
       },
@@ -1747,6 +1731,22 @@
       "duration_ms": 238000,
       "name": "Tsali's Run",
       "url": "https://open.spotify.com/track/4AzSHrAiwUDnEo0hJ9qZpm"
+    },
+    {
+      "added_at": "2024-03-08 05:00:00",
+      "album": {
+        "name": "Decembering",
+        "url": "https://open.spotify.com/album/7jZAxQsEbJim05XnecJ45E"
+      },
+      "artists": [
+        {
+          "name": "Tony Furtado",
+          "url": "https://open.spotify.com/artist/5Q6pd3dxIXhCNap8bJpWvt"
+        }
+      ],
+      "duration_ms": 213400,
+      "name": "Icebound",
+      "url": "https://open.spotify.com/track/1aE1jtShWdjd5XZfaXnOyF"
     },
     {
       "added_at": "2024-03-08 05:00:00",
@@ -1835,6 +1835,22 @@
     {
       "added_at": "2024-03-08 05:00:00",
       "album": {
+        "name": "Squirrelville",
+        "url": "https://open.spotify.com/album/7eCzxWAKlmax5GPYVxefsh"
+      },
+      "artists": [
+        {
+          "name": "Tony Furtado",
+          "url": "https://open.spotify.com/artist/5Q6pd3dxIXhCNap8bJpWvt"
+        }
+      ],
+      "duration_ms": 281386,
+      "name": "Squirrelville",
+      "url": "https://open.spotify.com/track/02AwMmSFYM1yigumqelwsv"
+    },
+    {
+      "added_at": "2024-03-08 05:00:00",
+      "album": {
         "name": "The Song of the Banjo",
         "url": "https://open.spotify.com/album/0DZIOJ6PXVnNQANiA7VJaJ"
       },
@@ -1847,22 +1863,6 @@
       "duration_ms": 257640,
       "name": "Airish",
       "url": "https://open.spotify.com/track/5EKdXtNDjqg03nXf8H5IUr"
-    },
-    {
-      "added_at": "2024-03-08 05:00:00",
-      "album": {
-        "name": "Noam Pikelny Plays Kenny Baker Plays Bill Monroe",
-        "url": "https://open.spotify.com/album/0KjAr1ZXTIKoxcto5e51jP"
-      },
-      "artists": [
-        {
-          "name": "Noam Pikelny",
-          "url": "https://open.spotify.com/artist/33bp8SqQpV7SzeYxSj714C"
-        }
-      ],
-      "duration_ms": 221706,
-      "name": "Stoney Lonesome",
-      "url": "https://open.spotify.com/track/6wmLGKJaPON9dZW0o4QuuG"
     }
   ],
   "unique_name": "Instrumental Bluegrass",

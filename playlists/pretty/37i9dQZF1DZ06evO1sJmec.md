@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1sJmec.md) - [plain]
 
 > This is Metallica\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,908,057 likes - 50 songs - 4 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,908,405 likes - 50 songs - 4 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1sJmec.md) - [plain]
 | 49 | [...And Justice For All](https://open.spotify.com/track/0eXz8pS25MoeUguNPR9VvD) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [...And Justice For All](https://open.spotify.com/album/6Eycw3dwcDMEFSqkUvLQ7g) | 9:46 |
 | 50 | [So What](https://open.spotify.com/track/16RFzt9hlQ3OCPQf5AmhpU) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Garage Inc.](https://open.spotify.com/album/0vshXZYhBkbIoqxyC2fXcF) | 3:08 |
 
-Snapshot ID: `Mjg1MTQxOTUsMDAwMDAwMDA3MTY0NmU5YWZjNWZmNDI2NTllMDY1Mzc5NjEwMjUxMw==`
+Snapshot ID: `Mjg1MTU2NjAsMDAwMDAwMDA1NGQ0MDc3YmI2MzM3NDM4MjM1OTM3OGJkOTA2M2FkNQ==`

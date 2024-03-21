@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 
 > The best new electronic music\. Cover: Adam Sellouk, Konstantin Sibold
 
-[Spotify](https://open.spotify.com/user/spotify) - 633,930 likes - 90 songs - 7 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 634,000 likes - 90 songs - 7 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 | 89 | [You Know It](https://open.spotify.com/track/64Kw68jjKqqYK5hQrCkrVT) | [Gorgon City](https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx) | [You Know It](https://open.spotify.com/album/1pQyujwr8WMM8nXV21a5tY) | 3:55 |
 | 90 | [Enter Machina \- Moonwalk Remix](https://open.spotify.com/track/3s6cHkqRCtREgAuO7ghGoI) | [Mia Mendi](https://open.spotify.com/artist/7ccAq24esXIKcy6coCLiio), [Moonwalk](https://open.spotify.com/artist/1khyIydqanugacJyKdmceT) | [Enter Machina \(Moonwalk Remix\)](https://open.spotify.com/album/2z7TU5macTT0QztqXHnSJn) | 3:23 |
 
-Snapshot ID: `MCxkNGRiNjIwYzMyNjJmODE3NzkzNGY0NTA0YjczM2YwZDY5NGMzNWYy`
+Snapshot ID: `MCxhY2MzOGVmOWNmMzQ3ZmU5NjE4NDVjMmM1NjQ3NWE3N2NkOTZmMzI4`

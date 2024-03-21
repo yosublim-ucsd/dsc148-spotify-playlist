@@ -1,5 +1,5 @@
 {
-  "2024-03-20": 21117,
+  "2024-03-21": 21120,
   "date_first_scraped": "2023-09-01",
   "description": "This is Gustavo Santaolalla. The essential tracks, all in one playlist.",
   "name": "This Is Gustavo Santaolalla",
@@ -529,7 +529,7 @@
       ],
       "date_added": "2024-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-20",
       "duration_ms": 289320,
       "name": "Deportation/Iguazu",
       "url": "https://open.spotify.com/track/5FT4zvyKeap0uZZmF84nOl"
@@ -1111,7 +1111,7 @@
       ],
       "date_added": "2023-08-31",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-19",
+      "date_removed": null,
       "duration_ms": 91480,
       "name": "Opening",
       "url": "https://open.spotify.com/track/5uUkMMDpggRSQ4hRfI3lV7"

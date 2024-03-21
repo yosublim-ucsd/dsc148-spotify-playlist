@@ -4,7 +4,7 @@
 
 > Nomadismo sonoro para quienes aman la música de todos los rincones del planeta.
 
-418 songs - 1 day 6 hr 50 min
+419 songs - 1 day 6 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -223,6 +223,7 @@
 | [Kossa Kossa](https://open.spotify.com/track/0VRv4f0FS0XBp9qXzWAd8c) | [The Souljazz Orchestra](https://open.spotify.com/artist/0MiCOT2cVYso39XSskiUUo) | [Resistance](https://open.spotify.com/album/1XqtSROG7PSVbfJqeAqJ9D) | 4:08 | 2023-07-10 |  |
 | [Kumbayeo](https://open.spotify.com/track/2mR5kqpXgOndUkU58lXpJW) | [Salomón Beda](https://open.spotify.com/artist/76oqoGaknr9WGOegYTjxdh) | [Kumbayeo](https://open.spotify.com/album/1DrwaqSy2xFgp40GW9eS6q) | 3:34 | 2023-07-10 |  |
 | [La Bruja](https://open.spotify.com/track/5NCDaujx0xKLSuGci8qPIV) | [Musas Ensamble de Arpas](https://open.spotify.com/artist/6cHMCy1zPbtTZe62e3nUUg) | [Tierra Latinoamericana](https://open.spotify.com/album/3hdqh8Yu6z74A8SCVR71la) | 3:00 | 2023-07-10 |  |
+| [La Caminadora](https://open.spotify.com/track/2QuEGMQHmQIOSUVXdcLWn6) | [Los Zafiros](https://open.spotify.com/artist/20hjMyNIdXmSMFau9ZkmU6) | [Director Nestor Mili](https://open.spotify.com/album/6sdUnDbPFE4Krw4aHHEM3z) | 2:45 | 2024-03-08 |  |
 | [La Danza de los Simpsons](https://open.spotify.com/track/59WEhlP47JI0naL5ub1c7U) | [Chicha Libre](https://open.spotify.com/artist/1eiodDx0lIftKNviQGG95x) | [Cuatro Tigres](https://open.spotify.com/album/3HdnrOGtv9y40s33FCuXcR) | 2:26 | 2023-07-10 |  |
 | [La de la terraza](https://open.spotify.com/track/2gRGnFeaYf0IbzujjrHGAd) | [Ezequiel Borra](https://open.spotify.com/artist/0SzGHC9KInmae0WJoM4aon), [Sonidos enraizados](https://open.spotify.com/artist/16g2mYYlZcGFHaT9VBHOMw) | [La de la terraza](https://open.spotify.com/album/5kvhEaHTcbmBziwnEZk05g) | 2:43 | 2023-07-10 |  |
 | [La Leyenda Del Tiempo \- Bamberas](https://open.spotify.com/track/150U15S6wWZYQwBPcNnNvX) | [Camaron De La Isla](https://open.spotify.com/artist/5MnhtFXEfqi637k6NfKuZI) | [Flamenco es..\. Camaron](https://open.spotify.com/album/2R7PryxSDFjQeortJSidSj) | 3:35 | 2023-07-10 | 2023-11-16 |
@@ -271,7 +272,7 @@
 | [Mr Tembo](https://open.spotify.com/track/5oLOgSExVFBBzYTXVblcwu) | [Damon Albarn](https://open.spotify.com/artist/0O98jlCaPzvsoei6U5jfEL) | [Everyday Robots](https://open.spotify.com/album/5SzhltQSSi1HUMi5cveZIZ) | 3:43 | 2023-07-10 |  |
 | [Mujer Luna](https://open.spotify.com/track/7yajyapWJC5cCaEivSORTH) | [Los Aguas Aguas](https://open.spotify.com/artist/6MlrTBeZE2S1lUxSD6x8wG) | [Mujer Luna](https://open.spotify.com/album/7zIZesonqKHbTF189hjCeF) | 3:31 | 2023-07-10 | 2024-03-17 |
 | [Mundo Nuevo](https://open.spotify.com/track/5QmJ1Xlq9C5COqvsnhS1Jb) | [Alex Cuba](https://open.spotify.com/artist/7gZRUp2WL6r11PXTv309P1), [Lila Downs](https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP) | [Mundo Nuevo](https://open.spotify.com/album/6OmDRn61cZSaDwEgTkSlgG) | 3:21 | 2023-07-10 |  |
-| [Mustt Mustt \- Massive Attack Remix \- Edit](https://open.spotify.com/track/4Bu3LxBpk3Mf80M0kVFdpU) | [Nusrat Fateh Ali Khan](https://open.spotify.com/artist/5HcunTidTUrOaf8V0iJcvl), [Massive Attack](https://open.spotify.com/artist/6FXMGgJwohJLUSr5nVlf9X) | [Mustt Mustt \(Massive Attack Remix\)](https://open.spotify.com/album/1JdcPYsnzYzG0uAPq7u1Ie) | 3:52 | 2023-07-10 |  |
+| [Mustt Mustt \- Massive Attack Remix \- Edit](https://open.spotify.com/track/4Bu3LxBpk3Mf80M0kVFdpU) | [Nusrat Fateh Ali Khan](https://open.spotify.com/artist/5HcunTidTUrOaf8V0iJcvl), [Massive Attack](https://open.spotify.com/artist/6FXMGgJwohJLUSr5nVlf9X) | [Mustt Mustt \(Massive Attack Remix\)](https://open.spotify.com/album/1JdcPYsnzYzG0uAPq7u1Ie) | 3:52 | 2023-07-10 | 2024-03-21 |
 | [Na Kolonia](https://open.spotify.com/track/27vo1mDwmlSwf8n6Kdg2d7) | [José Carlos Schwarz & Le Cobiana Djazz](https://open.spotify.com/artist/2qSxbFBqHXTtYYHuCf6WPO) | [Lua Ki Di Nos](https://open.spotify.com/album/0eFyMfysvibs0VBZbla8lm) | 5:40 | 2023-07-10 |  |
 | [Na Kozonga](https://open.spotify.com/track/67Cek9KjLrVc78oCJsZtCA) | [Jupiter & Okwess](https://open.spotify.com/artist/2tujJgEWPfR8gdqVw183dT) | [Na Kozonga](https://open.spotify.com/album/4SgDBBS8LUgy7Wmxo3Lam0) | 2:59 | 2023-07-10 | 2023-09-28 |
 | [Nada](https://open.spotify.com/track/5ihtr3hVJJ7GWgagDiyf1i) | [Lido Pimienta](https://open.spotify.com/artist/1IdkKQ9CM1i0wygfxYV4Z3), [Li Saumet](https://open.spotify.com/artist/1hYzHxIYlfYgHXN9DVZaNw) | [Miss Colombia](https://open.spotify.com/album/6H6MZ54B5FLBLXXxWGEl7y) | 4:58 | 2023-07-10 |  |

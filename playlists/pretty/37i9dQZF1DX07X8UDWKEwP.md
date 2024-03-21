@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07X8UDWKEwP.md) - [plain]
 
 > Lo nuevo del mundo tropical\. Cover: Gaby Zambrano
 
-[Spotify](https://open.spotify.com/user/spotify) - 251,692 likes - 50 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 251,693 likes - 50 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07X8UDWKEwP.md) - [plain]
 | 36 | [COMO YO TE QUIERO \(DELUXE\)](https://open.spotify.com/track/0scExGzOWnDaq2ExI3HRQx) | [KHEA](https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR), [Ana Mena](https://open.spotify.com/artist/6k8mwkKJKKjBILo7ypBspl) | [SEROTONINA \(DELUXE\)](https://open.spotify.com/album/77PfUu2wLVGjkkJ6uxL8vY) | 3:31 |
 | 37 | [Otra Noche Más \(feat\. Frankie Ruiz\)](https://open.spotify.com/track/5OOaAYlNPgBUtBviFtGpHl) | [Víctor Manuelle](https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2), [Frankie Ruiz](https://open.spotify.com/artist/4dLvccxeQIM5u80Ri0u9OV) | [Otra Noche Más \(feat\. Frankie Ruiz\)](https://open.spotify.com/album/619jR5aODkum1ZlOGMx6Sg) | 4:27 |
 | 38 | [Fue Culpa De Usted](https://open.spotify.com/track/38WoHatz30sMtk0JvZUIpO) | [Moa Rivera](https://open.spotify.com/artist/3SVGxBlWR0Cnamj9e2Ybmz), [Lenier](https://open.spotify.com/artist/4zWFlKgU4j7ryWg5nsOmU6) | [Fue Culpa De Usted](https://open.spotify.com/album/25DTevb3waLjeothJ0ADfZ) | 3:27 |
-| 39 | [Estrellita](https://open.spotify.com/track/7wv09FSKH9ZBqXkNRKBony) | [Zhamira Zambrano](https://open.spotify.com/artist/2IdDxiUkjLI0WfypRO1Rh3) | [Estrellita](https://open.spotify.com/album/0dSbNOBz88REk7f8SBGXDW) | 2:37 |
-| 40 | [El Amor De Mi Vida](https://open.spotify.com/track/04sktg3deiYUweHfbFUZTM) | [Los Ángeles Azules](https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW), [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [El Amor De Mi Vida](https://open.spotify.com/album/2RPuxZNaziqNHjbUgoE8iW) | 3:04 |
+| 39 | [El Amor De Mi Vida](https://open.spotify.com/track/04sktg3deiYUweHfbFUZTM) | [Los Ángeles Azules](https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW), [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [El Amor De Mi Vida](https://open.spotify.com/album/2RPuxZNaziqNHjbUgoE8iW) | 3:04 |
+| 40 | [Estrellita](https://open.spotify.com/track/7wv09FSKH9ZBqXkNRKBony) | [Zhamira Zambrano](https://open.spotify.com/artist/2IdDxiUkjLI0WfypRO1Rh3) | [Estrellita](https://open.spotify.com/album/0dSbNOBz88REk7f8SBGXDW) | 2:37 |
 | 41 | [Call On Me](https://open.spotify.com/track/5dl97w82KkuprJVDKSyJQp) | [Johnny Sky](https://open.spotify.com/artist/3EVZsBWq5KqdtS6eVNHN8d) | [Call On Me](https://open.spotify.com/album/3Ohcoreeq3qG3okky9o0Wx) | 2:48 |
 | 42 | [Mi Pecadito](https://open.spotify.com/track/5yrbKnKL9mKC61StX948w1) | [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6), [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX) | [Mi Pecadito](https://open.spotify.com/album/2YsZcOI0c1Eyo0JlDAGwXD) | 3:17 |
 | 43 | [Amantes Suicidas](https://open.spotify.com/track/1JhNmwO8Y04b4XidpSrytb) | [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [Autopoiética](https://open.spotify.com/album/1P3veSTOBbA57c6nndi5xI) | 3:58 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07X8UDWKEwP.md) - [plain]
 | 49 | [Ay, Ay, Ay](https://open.spotify.com/track/1K3dJsDTQouwqmTC5tfpzg) | [David Bisbal](https://open.spotify.com/artist/5gOJTI4TusSENizxhcG7jB) | [Ay, Ay, Ay](https://open.spotify.com/album/46s563q4qhwESZBJ4GI5yD) | 3:28 |
 | 50 | [ORGULLO](https://open.spotify.com/track/6FChr93F3ECYRaIKwL7DOa) | [Gonzy](https://open.spotify.com/artist/4ixNZvQuuzCDxBsxO9zE6L) | [DESAHOGO](https://open.spotify.com/album/1mMPzNKVMKcgux2WtZx5ak) | 3:22 |
 
-Snapshot ID: `MCwwY2RkOWVkNjA2MDY5NTAzMTMzOGVhYjBkN2YwNDRhMTVmMmJiYTIz`
+Snapshot ID: `MCxiZDNhYjY4MmQwZWJmMzdmN2E4NDZjNTFiMGU3ZGM5ZmE5OThjZTU1`

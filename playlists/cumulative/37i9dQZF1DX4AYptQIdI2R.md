@@ -4,7 +4,7 @@
 
 > Ahgases! 7 or nothing.
 
-293 songs - 16 hr 22 min
+294 songs - 16 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -172,8 +172,9 @@
 | [Oxygen](https://open.spotify.com/track/5AfIBd0sANtSZaubjtnnJr) | [Jackson Wang](https://open.spotify.com/artist/1kfWoWgCugPkyxQP8lkRlY) | [Oxygen](https://open.spotify.com/album/4dFfCZIvIWu23WLE2u3R3U) | 2:38 | 2022-05-23 | 2022-07-29 |
 | [PAGE](https://open.spotify.com/track/3BTaItolEPypIOZd8pxKoM) | [GOT7](https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df) | [SPINNING TOP : BETWEEN SECURITY & INSECURITY](https://open.spotify.com/album/6OIEYHaYTSPpDQRz2coN1o) | 3:44 | 2022-05-23 | 2023-08-06 |
 | [PAGE](https://open.spotify.com/track/6wuKTYIALaY34Olr0UU6mk) | [GOT7](https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df) | [SPINNING TOP : BETWEEN SECURITY & INSECURITY](https://open.spotify.com/album/59fYApmznf1LAghMnUvDTr) | 3:44 | 2022-05-23 |  |
-| [Papillon](https://open.spotify.com/track/0sHZzinNs6zUXnxcwhFYES) | [Jackson Wang](https://open.spotify.com/artist/1kfWoWgCugPkyxQP8lkRlY) | [Papillon](https://open.spotify.com/album/4lME2s2UVffNWZQ905GoLg) | 3:15 | 2022-05-23 |  |
+| [Papillon](https://open.spotify.com/track/0sHZzinNs6zUXnxcwhFYES) | [Jackson Wang](https://open.spotify.com/artist/1kfWoWgCugPkyxQP8lkRlY) | [Papillon](https://open.spotify.com/album/4lME2s2UVffNWZQ905GoLg) | 3:15 | 2022-05-23 | 2024-03-21 |
 | [Papillon](https://open.spotify.com/track/7Cy5lVtive8cM718xgr1TN) | [Jackson Wang](https://open.spotify.com/artist/1kfWoWgCugPkyxQP8lkRlY) | [Papillon](https://open.spotify.com/album/2LLTZRSzfiLDjIxHrcbmNW) | 3:15 | 2022-05-23 | 2022-07-29 |
+| [Papillon](https://open.spotify.com/track/7EFmA3zysrOPJNRqhYCOVd) | [Jackson Wang](https://open.spotify.com/artist/1kfWoWgCugPkyxQP8lkRlY), [BOYTOY](https://open.spotify.com/artist/06zgs9qixZMQVu8gthU5Du) | [Papillon](https://open.spotify.com/album/5SHO9TVA2RCjgBQsdiZGXt) | 3:15 | 2022-05-23 |  |
 | [Paradise](https://open.spotify.com/track/1MFBggWrb1j7376vU3iriR) | [GOT7](https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df) | [FLIGHT LOG : ARRIVAL](https://open.spotify.com/album/35c38TkgFG0AIh3P9ARrzZ) | 3:31 | 2022-05-23 |  |
 | [Paradise](https://open.spotify.com/track/42eRNUvD1BJ9QFPUlN0Oam) | [GOT7](https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df) | [FLIGHT LOG : ARRIVAL](https://open.spotify.com/album/5r30o1iIr8sdoRsu6qPKrK) | 3:31 | 2022-05-23 | 2022-07-29 |
 | [Paradise](https://open.spotify.com/track/5J7LpvVQDhSErvu6GVX5yg) | [GOT7](https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df) | [FLIGHT LOG : ARRIVAL](https://open.spotify.com/album/4jMq9hcatjFMJlPb4IpoI5) | 3:31 | 2022-05-23 | 2023-08-06 |

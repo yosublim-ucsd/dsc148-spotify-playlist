@@ -1,12 +1,12 @@
 {
   "description": "I woke up this morning\u2026 to the chilled sound of the Blues.",
-  "num_followers": 68116,
+  "num_followers": 68158,
   "original_name": "Morning Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3NzNhMzRlY2E2NzIxM2YyNDY5MWNmZmViMDhiMjA0NDVlNjM2MTQ0",
+  "snapshot_id": "MCxhODYyZjg3NmVlZmQyZWU1NjEyODFhMmQ0Mzg3NWZhNjM2ZTRhNGNj",
   "tracks": [
     {
       "added_at": "2023-09-15 11:42:41",
@@ -531,22 +531,6 @@
     {
       "added_at": "2023-09-15 11:42:41",
       "album": {
-        "name": "I Am The Moon: IV. Farewell",
-        "url": "https://open.spotify.com/album/6hCN857vBAs2oN8aZQih2x"
-      },
-      "artists": [
-        {
-          "name": "Tedeschi Trucks Band",
-          "url": "https://open.spotify.com/artist/2gFsmDBM0hkoZPmrO5EdyO"
-        }
-      ],
-      "duration_ms": 227893,
-      "name": "I Can Feel You Smiling",
-      "url": "https://open.spotify.com/track/6xVr5ivengIkx4q4VacaEJ"
-    },
-    {
-      "added_at": "2023-09-15 11:42:41",
-      "album": {
         "name": "Lightnin' Strikes, Vol. 1",
         "url": "https://open.spotify.com/album/5WFLwckcjlr3Ui8pGIgzVb"
       },
@@ -559,6 +543,22 @@
       "duration_ms": 271000,
       "name": "Woke up This Morning",
       "url": "https://open.spotify.com/track/5dAoQMVA2jwl1hCTJGeWAm"
+    },
+    {
+      "added_at": "2023-09-15 11:42:41",
+      "album": {
+        "name": "I Am The Moon: IV. Farewell",
+        "url": "https://open.spotify.com/album/6hCN857vBAs2oN8aZQih2x"
+      },
+      "artists": [
+        {
+          "name": "Tedeschi Trucks Band",
+          "url": "https://open.spotify.com/artist/2gFsmDBM0hkoZPmrO5EdyO"
+        }
+      ],
+      "duration_ms": 227893,
+      "name": "I Can Feel You Smiling",
+      "url": "https://open.spotify.com/track/6xVr5ivengIkx4q4VacaEJ"
     },
     {
       "added_at": "2023-09-15 11:42:41",
@@ -659,22 +659,6 @@
     {
       "added_at": "2023-09-15 11:42:41",
       "album": {
-        "name": "His Best",
-        "url": "https://open.spotify.com/album/1ZpGSzyrRcrp6tn8IczHDU"
-      },
-      "artists": [
-        {
-          "name": "Bo Diddley",
-          "url": "https://open.spotify.com/artist/2bmixwMZXlkl2sbIbOfviq"
-        }
-      ],
-      "duration_ms": 229200,
-      "name": "Ooh Baby",
-      "url": "https://open.spotify.com/track/3Caj3EuBDu2cpjpFNNTXLL"
-    },
-    {
-      "added_at": "2023-09-15 11:42:41",
-      "album": {
         "name": "Love Transcends",
         "url": "https://open.spotify.com/album/0gbhkq77MWLw3BXB63Hby2"
       },
@@ -687,6 +671,22 @@
       "duration_ms": 258696,
       "name": "Rollin' On (Acoustic)",
       "url": "https://open.spotify.com/track/2lFGq1alf0bQKUx3uoTA4Z"
+    },
+    {
+      "added_at": "2023-09-15 11:42:41",
+      "album": {
+        "name": "His Best",
+        "url": "https://open.spotify.com/album/1ZpGSzyrRcrp6tn8IczHDU"
+      },
+      "artists": [
+        {
+          "name": "Bo Diddley",
+          "url": "https://open.spotify.com/artist/2bmixwMZXlkl2sbIbOfviq"
+        }
+      ],
+      "duration_ms": 229200,
+      "name": "Ooh Baby",
+      "url": "https://open.spotify.com/track/3Caj3EuBDu2cpjpFNNTXLL"
     },
     {
       "added_at": "2023-09-15 11:42:41",
@@ -827,22 +827,6 @@
     {
       "added_at": "2023-09-15 11:42:41",
       "album": {
-        "name": "Keb' Mo'",
-        "url": "https://open.spotify.com/album/09rC6HgLbuYl74OvGdJw6t"
-      },
-      "artists": [
-        {
-          "name": "Keb' Mo'",
-          "url": "https://open.spotify.com/artist/6iDaoPZVgxrTkndDCisX8F"
-        }
-      ],
-      "duration_ms": 179466,
-      "name": "Every Morning",
-      "url": "https://open.spotify.com/track/6WmwvYaVSod4whIXGWEvBR"
-    },
-    {
-      "added_at": "2023-09-15 11:42:41",
-      "album": {
         "name": "The Midnight Broadcast",
         "url": "https://open.spotify.com/album/5XWkAsBVccgg9FFC77e9B6"
       },
@@ -855,6 +839,22 @@
       "duration_ms": 214933,
       "name": "Bumble Bee",
       "url": "https://open.spotify.com/track/1FgQnc7KZLvaB89eWOfQ2R"
+    },
+    {
+      "added_at": "2023-09-15 11:42:41",
+      "album": {
+        "name": "Keb' Mo'",
+        "url": "https://open.spotify.com/album/09rC6HgLbuYl74OvGdJw6t"
+      },
+      "artists": [
+        {
+          "name": "Keb' Mo'",
+          "url": "https://open.spotify.com/artist/6iDaoPZVgxrTkndDCisX8F"
+        }
+      ],
+      "duration_ms": 179466,
+      "name": "Every Morning",
+      "url": "https://open.spotify.com/track/6WmwvYaVSod4whIXGWEvBR"
     },
     {
       "added_at": "2023-09-15 11:42:41",
@@ -891,22 +891,6 @@
     {
       "added_at": "2023-09-15 11:42:41",
       "album": {
-        "name": "Mystery Man",
-        "url": "https://open.spotify.com/album/6Cjm5t6RYzmruGL4OrQDBt"
-      },
-      "artists": [
-        {
-          "name": "Leon Redbone",
-          "url": "https://open.spotify.com/artist/7hYKC5uBED0V5rpKQkqgQ5"
-        }
-      ],
-      "duration_ms": 294032,
-      "name": "Walking My Troubles Away",
-      "url": "https://open.spotify.com/track/6FXNwy7mpnt9jbC2S7Lfl9"
-    },
-    {
-      "added_at": "2023-09-15 11:42:41",
-      "album": {
         "name": "That's All Right (Mama) - the Fire Sessions",
         "url": "https://open.spotify.com/album/0FunGD7FQtlCKOwavfZAbD"
       },
@@ -919,6 +903,22 @@
       "duration_ms": 163000,
       "name": "Death Valley Blues",
       "url": "https://open.spotify.com/track/1nxzMW2OxW5W10DAp0L9OP"
+    },
+    {
+      "added_at": "2023-09-15 11:42:41",
+      "album": {
+        "name": "Mystery Man",
+        "url": "https://open.spotify.com/album/6Cjm5t6RYzmruGL4OrQDBt"
+      },
+      "artists": [
+        {
+          "name": "Leon Redbone",
+          "url": "https://open.spotify.com/artist/7hYKC5uBED0V5rpKQkqgQ5"
+        }
+      ],
+      "duration_ms": 294032,
+      "name": "Walking My Troubles Away",
+      "url": "https://open.spotify.com/track/6FXNwy7mpnt9jbC2S7Lfl9"
     },
     {
       "added_at": "2023-09-15 11:42:41",
@@ -1175,22 +1175,6 @@
     {
       "added_at": "2023-09-15 11:42:41",
       "album": {
-        "name": "Between Midnight And Day",
-        "url": "https://open.spotify.com/album/6fuRNpnOE7QgyT1IcdvpED"
-      },
-      "artists": [
-        {
-          "name": "Corey Harris",
-          "url": "https://open.spotify.com/artist/1TQtbRQbaXw5CeN3mC0DJH"
-        }
-      ],
-      "duration_ms": 160213,
-      "name": "Catfish Blues",
-      "url": "https://open.spotify.com/track/4Zw7WWHOGCExXuMcxk0CCy"
-    },
-    {
-      "added_at": "2023-09-15 11:42:41",
-      "album": {
         "name": "Great God Almighty (Demo, Summer 2018)",
         "url": "https://open.spotify.com/album/346VRPWFqkGJ6r67HMvOm4"
       },
@@ -1203,6 +1187,22 @@
       "duration_ms": 178276,
       "name": "Great God Almighty - Demo, Summer 2018",
       "url": "https://open.spotify.com/track/1LOYHXCCqHpnLuzfXRCjfy"
+    },
+    {
+      "added_at": "2023-09-15 11:42:41",
+      "album": {
+        "name": "Between Midnight And Day",
+        "url": "https://open.spotify.com/album/6fuRNpnOE7QgyT1IcdvpED"
+      },
+      "artists": [
+        {
+          "name": "Corey Harris",
+          "url": "https://open.spotify.com/artist/1TQtbRQbaXw5CeN3mC0DJH"
+        }
+      ],
+      "duration_ms": 160213,
+      "name": "Catfish Blues",
+      "url": "https://open.spotify.com/track/4Zw7WWHOGCExXuMcxk0CCy"
     },
     {
       "added_at": "2023-09-15 11:42:41",
@@ -1239,6 +1239,26 @@
     {
       "added_at": "2023-09-15 11:42:41",
       "album": {
+        "name": "Brother Johnny",
+        "url": "https://open.spotify.com/album/4xRZx0cl1NVIG2oDtACbpa"
+      },
+      "artists": [
+        {
+          "name": "Edgar Winter",
+          "url": "https://open.spotify.com/artist/3UNrI3SG1l2ezKikxQ2zuk"
+        },
+        {
+          "name": "Keb' Mo'",
+          "url": "https://open.spotify.com/artist/6iDaoPZVgxrTkndDCisX8F"
+        }
+      ],
+      "duration_ms": 237096,
+      "name": "Lone Star Blues",
+      "url": "https://open.spotify.com/track/6RQBEr8vjgHlRIANySsjbm"
+    },
+    {
+      "added_at": "2023-09-15 11:42:41",
+      "album": {
         "name": "A Soul to Claim",
         "url": "https://open.spotify.com/album/1wXsCNbcEIPuW4Gkf11afj"
       },
@@ -1267,26 +1287,6 @@
       "duration_ms": 155493,
       "name": "Mean Old 'Frisco Blues",
       "url": "https://open.spotify.com/track/1LqS5Vz8yCTejrVc1Qo7eP"
-    },
-    {
-      "added_at": "2023-09-15 11:42:41",
-      "album": {
-        "name": "Brother Johnny",
-        "url": "https://open.spotify.com/album/4xRZx0cl1NVIG2oDtACbpa"
-      },
-      "artists": [
-        {
-          "name": "Edgar Winter",
-          "url": "https://open.spotify.com/artist/3UNrI3SG1l2ezKikxQ2zuk"
-        },
-        {
-          "name": "Keb' Mo'",
-          "url": "https://open.spotify.com/artist/6iDaoPZVgxrTkndDCisX8F"
-        }
-      ],
-      "duration_ms": 237096,
-      "name": "Lone Star Blues",
-      "url": "https://open.spotify.com/track/6RQBEr8vjgHlRIANySsjbm"
     },
     {
       "added_at": "2023-09-15 11:42:41",
@@ -1379,6 +1379,22 @@
     {
       "added_at": "2023-09-15 11:42:41",
       "album": {
+        "name": "Dark Was The Night (Mojo Workin'- Blues For The Next Generation)",
+        "url": "https://open.spotify.com/album/3H90ji25FlT62CztiEOhrt"
+      },
+      "artists": [
+        {
+          "name": "Blind Willie Johnson",
+          "url": "https://open.spotify.com/artist/5kO4xdEKLuHHHPreu3UmkZ"
+        }
+      ],
+      "duration_ms": 179226,
+      "name": "God Moves On the Water",
+      "url": "https://open.spotify.com/track/5PaW8VeYRpS3N728fFa15b"
+    },
+    {
+      "added_at": "2023-09-15 11:42:41",
+      "album": {
         "name": "GET ON BOARD",
         "url": "https://open.spotify.com/album/3d5mOvPLoAggvWctC7L12Z"
       },
@@ -1395,22 +1411,6 @@
       "duration_ms": 182826,
       "name": "Pick a Bale of Cotton",
       "url": "https://open.spotify.com/track/4gcbDSXk4EU0UWGDPbQfcp"
-    },
-    {
-      "added_at": "2023-09-15 11:42:41",
-      "album": {
-        "name": "Dark Was The Night (Mojo Workin'- Blues For The Next Generation)",
-        "url": "https://open.spotify.com/album/3H90ji25FlT62CztiEOhrt"
-      },
-      "artists": [
-        {
-          "name": "Blind Willie Johnson",
-          "url": "https://open.spotify.com/artist/5kO4xdEKLuHHHPreu3UmkZ"
-        }
-      ],
-      "duration_ms": 179226,
-      "name": "God Moves On the Water",
-      "url": "https://open.spotify.com/track/5PaW8VeYRpS3N728fFa15b"
     },
     {
       "added_at": "2023-09-15 11:42:41",
@@ -1707,6 +1707,22 @@
     {
       "added_at": "2023-09-15 11:42:41",
       "album": {
+        "name": "Peter Green's Fleetwood Mac (Deluxe)",
+        "url": "https://open.spotify.com/album/4QtzKoXiBdSUTJbukiEiPr"
+      },
+      "artists": [
+        {
+          "name": "Fleetwood Mac",
+          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
+        }
+      ],
+      "duration_ms": 149026,
+      "name": "The World Keep on Turning",
+      "url": "https://open.spotify.com/track/4hcMB6cObt073jy7IJME51"
+    },
+    {
+      "added_at": "2023-09-15 11:42:41",
+      "album": {
         "name": "Presenting Robert Nighthawk",
         "url": "https://open.spotify.com/album/4VIFEGvSDLnyTUoZDSJinS"
       },
@@ -1735,22 +1751,6 @@
       "duration_ms": 241722,
       "name": "Shake It Up - Acoustic",
       "url": "https://open.spotify.com/track/01lLPrIDxsRdPpx0jpkS4S"
-    },
-    {
-      "added_at": "2023-09-15 11:42:41",
-      "album": {
-        "name": "Peter Green's Fleetwood Mac (Deluxe)",
-        "url": "https://open.spotify.com/album/4QtzKoXiBdSUTJbukiEiPr"
-      },
-      "artists": [
-        {
-          "name": "Fleetwood Mac",
-          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
-        }
-      ],
-      "duration_ms": 149026,
-      "name": "The World Keep on Turning",
-      "url": "https://open.spotify.com/track/4hcMB6cObt073jy7IJME51"
     },
     {
       "added_at": "2023-09-15 11:42:41",
@@ -1955,18 +1955,18 @@
     {
       "added_at": "2023-09-15 11:42:41",
       "album": {
-        "name": "The Tumbler",
-        "url": "https://open.spotify.com/album/0MFLGuQwM22kc38Gt5XVAV"
+        "name": "Mississippi",
+        "url": "https://open.spotify.com/album/6eZrs4qARcRDdJf1I0ZUwC"
       },
       "artists": [
         {
-          "name": "John Martyn",
-          "url": "https://open.spotify.com/artist/3JulrApLVT81sb2HkfwMks"
+          "name": "Mitch Grainger",
+          "url": "https://open.spotify.com/artist/20YnCe7GdPL4jRwAT2B73G"
         }
       ],
-      "duration_ms": 140853,
-      "name": "Winin\u2019 Boy Blues",
-      "url": "https://open.spotify.com/track/3bLcw2Fh2FTR7orvOQeNFg"
+      "duration_ms": 220500,
+      "name": "Mississippi - Acoustic",
+      "url": "https://open.spotify.com/track/6K9sjEFkoH0bSiaAk8WrCY"
     },
     {
       "added_at": "2023-09-15 11:42:41",
@@ -1987,18 +1987,18 @@
     {
       "added_at": "2023-09-15 11:42:41",
       "album": {
-        "name": "Mississippi",
-        "url": "https://open.spotify.com/album/6eZrs4qARcRDdJf1I0ZUwC"
+        "name": "The Tumbler",
+        "url": "https://open.spotify.com/album/0MFLGuQwM22kc38Gt5XVAV"
       },
       "artists": [
         {
-          "name": "Mitch Grainger",
-          "url": "https://open.spotify.com/artist/20YnCe7GdPL4jRwAT2B73G"
+          "name": "John Martyn",
+          "url": "https://open.spotify.com/artist/3JulrApLVT81sb2HkfwMks"
         }
       ],
-      "duration_ms": 220500,
-      "name": "Mississippi - Acoustic",
-      "url": "https://open.spotify.com/track/6K9sjEFkoH0bSiaAk8WrCY"
+      "duration_ms": 140853,
+      "name": "Winin\u2019 Boy Blues",
+      "url": "https://open.spotify.com/track/3bLcw2Fh2FTR7orvOQeNFg"
     },
     {
       "added_at": "2023-09-15 11:42:41",
@@ -2019,22 +2019,6 @@
     {
       "added_at": "2023-09-15 11:42:41",
       "album": {
-        "name": "Keep On Walkin'",
-        "url": "https://open.spotify.com/album/1Yov4hqxOqmb4r3KxlElWu"
-      },
-      "artists": [
-        {
-          "name": "Lil Ed Williams",
-          "url": "https://open.spotify.com/artist/6TyJ3ZMyiax8OoqfqBTKEP"
-        }
-      ],
-      "duration_ms": 299867,
-      "name": "North Carolina Bound (Acoustic Duo)",
-      "url": "https://open.spotify.com/track/1WDDdDwtw1THRG9CjFDAJm"
-    },
-    {
-      "added_at": "2023-09-15 11:42:41",
-      "album": {
         "name": "Death Roll Blues",
         "url": "https://open.spotify.com/album/5MQYrhVP3cg17NXmPgAq9y"
       },
@@ -2047,6 +2031,22 @@
       "duration_ms": 326706,
       "name": "Don't Sell Your Sunshine for a Knife",
       "url": "https://open.spotify.com/track/6ENR44qE2Z0JIyAM2IhtBu"
+    },
+    {
+      "added_at": "2023-09-15 11:42:41",
+      "album": {
+        "name": "Keep On Walkin'",
+        "url": "https://open.spotify.com/album/1Yov4hqxOqmb4r3KxlElWu"
+      },
+      "artists": [
+        {
+          "name": "Lil Ed Williams",
+          "url": "https://open.spotify.com/artist/6TyJ3ZMyiax8OoqfqBTKEP"
+        }
+      ],
+      "duration_ms": 299867,
+      "name": "North Carolina Bound (Acoustic Duo)",
+      "url": "https://open.spotify.com/track/1WDDdDwtw1THRG9CjFDAJm"
     },
     {
       "added_at": "2023-09-15 11:42:41",
@@ -2115,22 +2115,6 @@
     {
       "added_at": "2023-09-15 11:42:41",
       "album": {
-        "name": "Brownie McGhee and Sonny Terry Sing",
-        "url": "https://open.spotify.com/album/1bnGRRSXinuQPmeeQM7AIv"
-      },
-      "artists": [
-        {
-          "name": "Sonny Terry and Brownie McGhee",
-          "url": "https://open.spotify.com/artist/7GQR0UJuWkRH8TTrdmteEw"
-        }
-      ],
-      "duration_ms": 153493,
-      "name": "Preachin' the Blues",
-      "url": "https://open.spotify.com/track/2tGxma55fb0GeAsTESNGaH"
-    },
-    {
-      "added_at": "2023-09-15 11:42:41",
-      "album": {
         "name": "Elemental",
         "url": "https://open.spotify.com/album/3lkWqGeZOq0cZwvjmXBVlz"
       },
@@ -2147,18 +2131,18 @@
     {
       "added_at": "2023-09-15 11:42:41",
       "album": {
-        "name": "Lost On Your Time",
-        "url": "https://open.spotify.com/album/3EBD0y2UVCJGUp5q7a9Hw8"
+        "name": "Brownie McGhee and Sonny Terry Sing",
+        "url": "https://open.spotify.com/album/1bnGRRSXinuQPmeeQM7AIv"
       },
       "artists": [
         {
-          "name": "Ida Mae",
-          "url": "https://open.spotify.com/artist/3AhsxbcW6Bscf7xIPK02YK"
+          "name": "Sonny Terry and Brownie McGhee",
+          "url": "https://open.spotify.com/artist/7GQR0UJuWkRH8TTrdmteEw"
         }
       ],
-      "duration_ms": 233704,
-      "name": "Lost On Your Time",
-      "url": "https://open.spotify.com/track/5fpcViiTc1lMne8wWPDt9E"
+      "duration_ms": 153493,
+      "name": "Preachin' the Blues",
+      "url": "https://open.spotify.com/track/2tGxma55fb0GeAsTESNGaH"
     },
     {
       "added_at": "2023-09-15 11:42:41",
@@ -2179,6 +2163,22 @@
       "duration_ms": 273245,
       "name": "Still a Fool",
       "url": "https://open.spotify.com/track/51pCGeuN9w3Fztl73RZ96J"
+    },
+    {
+      "added_at": "2023-09-15 11:42:41",
+      "album": {
+        "name": "Lost On Your Time",
+        "url": "https://open.spotify.com/album/3EBD0y2UVCJGUp5q7a9Hw8"
+      },
+      "artists": [
+        {
+          "name": "Ida Mae",
+          "url": "https://open.spotify.com/artist/3AhsxbcW6Bscf7xIPK02YK"
+        }
+      ],
+      "duration_ms": 233704,
+      "name": "Lost On Your Time",
+      "url": "https://open.spotify.com/track/5fpcViiTc1lMne8wWPDt9E"
     },
     {
       "added_at": "2023-09-15 11:42:41",
@@ -2327,22 +2327,6 @@
     {
       "added_at": "2023-09-15 11:42:41",
       "album": {
-        "name": "So Far so Good",
-        "url": "https://open.spotify.com/album/3sKS5DkxTxgNEEOew4RTtp"
-      },
-      "artists": [
-        {
-          "name": "Peter Veteska & Blues Train",
-          "url": "https://open.spotify.com/artist/4aI3hTRRcczyci5v6K1j3e"
-        }
-      ],
-      "duration_ms": 264573,
-      "name": "I've Got the Blues This Morning",
-      "url": "https://open.spotify.com/track/6M2kGctUec8qSlRX7WEHMm"
-    },
-    {
-      "added_at": "2023-09-15 11:42:41",
-      "album": {
         "name": "Same Train",
         "url": "https://open.spotify.com/album/4dntdgAScxEYy00uXNYQsY"
       },
@@ -2355,6 +2339,22 @@
       "duration_ms": 232760,
       "name": "Same Train",
       "url": "https://open.spotify.com/track/5zkfweSEqiARpZ4eIMnd4N"
+    },
+    {
+      "added_at": "2023-09-15 11:42:41",
+      "album": {
+        "name": "So Far so Good",
+        "url": "https://open.spotify.com/album/3sKS5DkxTxgNEEOew4RTtp"
+      },
+      "artists": [
+        {
+          "name": "Peter Veteska & Blues Train",
+          "url": "https://open.spotify.com/artist/4aI3hTRRcczyci5v6K1j3e"
+        }
+      ],
+      "duration_ms": 264573,
+      "name": "I've Got the Blues This Morning",
+      "url": "https://open.spotify.com/track/6M2kGctUec8qSlRX7WEHMm"
     },
     {
       "added_at": "2023-09-15 11:42:41",
@@ -2427,22 +2427,6 @@
     {
       "added_at": "2023-09-15 11:42:41",
       "album": {
-        "name": "Raging Moon",
-        "url": "https://open.spotify.com/album/27iF9Y0FuYVLCWJyU3Srqy"
-      },
-      "artists": [
-        {
-          "name": "The Jujubes",
-          "url": "https://open.spotify.com/artist/4h1fDtmuVsWtruoqF3E0kN"
-        }
-      ],
-      "duration_ms": 339394,
-      "name": "High Fever Blues",
-      "url": "https://open.spotify.com/track/2lHlfG7kAhkIlG6eQmAKgH"
-    },
-    {
-      "added_at": "2023-09-15 11:42:41",
-      "album": {
         "name": "Black & Blues Revisited",
         "url": "https://open.spotify.com/album/28xKFUcoOpKPu4HbanKjzg"
       },
@@ -2455,6 +2439,22 @@
       "duration_ms": 291173,
       "name": "Monday Morning Blues",
       "url": "https://open.spotify.com/track/0UWg0V4IqANW1o7NNiZwxA"
+    },
+    {
+      "added_at": "2023-09-15 11:42:41",
+      "album": {
+        "name": "Raging Moon",
+        "url": "https://open.spotify.com/album/27iF9Y0FuYVLCWJyU3Srqy"
+      },
+      "artists": [
+        {
+          "name": "The Jujubes",
+          "url": "https://open.spotify.com/artist/4h1fDtmuVsWtruoqF3E0kN"
+        }
+      ],
+      "duration_ms": 339394,
+      "name": "High Fever Blues",
+      "url": "https://open.spotify.com/track/2lHlfG7kAhkIlG6eQmAKgH"
     },
     {
       "added_at": "2023-09-15 11:42:41",
@@ -2491,18 +2491,18 @@
     {
       "added_at": "2023-09-15 11:42:41",
       "album": {
-        "name": "Mailman, Bring Me No More Blues",
-        "url": "https://open.spotify.com/album/46HdwVjeZIiTS2SakpasBz"
+        "name": "Porch Sessions",
+        "url": "https://open.spotify.com/album/1EypaqokUNZiaYafQZP5az"
       },
       "artists": [
         {
-          "name": "432 UK",
-          "url": "https://open.spotify.com/artist/03oFNcaM41MDeiHBQJSczo"
+          "name": "Tony Holiday",
+          "url": "https://open.spotify.com/artist/3D0wC1c48o3U0nsAcVPJLv"
         }
       ],
-      "duration_ms": 153957,
-      "name": "Mailman, Bring Me No More Blues",
-      "url": "https://open.spotify.com/track/63kSGfREzaR7i5BBBVKkWR"
+      "duration_ms": 230960,
+      "name": "Pickpocket Fingers (feat. James Harman & Kid Ramos)",
+      "url": "https://open.spotify.com/track/26J6ldiphWDHtSTOgFAeoF"
     }
   ],
   "unique_name": "Morning Blues",

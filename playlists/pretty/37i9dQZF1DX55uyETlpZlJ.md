@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX55uyETlpZlJ.md) - [plain]
 
 > Catch up with the Indie Songs from 'namma ooru'<br/>Cover :Rahul Dit\-O
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,190 likes - 77 songs - 4 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,191 likes - 77 songs - 4 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX55uyETlpZlJ.md) - [plain]
 | 11 | [Manasare](https://open.spotify.com/track/60aAnSSyv8rhIrWcKN8koO) | [Vishwajeet Deshpande](https://open.spotify.com/artist/6sSDUutJb0nbe2ikDJVM7U), [Harsha Abbigeri](https://open.spotify.com/artist/6VFxe1u8QcCAF5v7sQyQDr), [Amogh Malakannavar](https://open.spotify.com/artist/2ph9qktlhQK9jdfITK80V8) | [Manasare](https://open.spotify.com/album/6sy8h66IUpgLndkwXZROK1) | 2:46 |
 | 12 | [KALEDH HODHE](https://open.spotify.com/track/5IQ37HCYwY7lBryfgZKa6k) | [D shabdha](https://open.spotify.com/artist/3q7u9e1jJCYdvxkdjnfQgh) | [KALEDH HODHE](https://open.spotify.com/album/27fcdIaX5jfGiPm5lBmQgO) | 1:25 |
 | 13 | [Ninnindha shuru](https://open.spotify.com/track/6gTFqOudf70o2LhdhtesT2) | [Sathya Radhakrishna](https://open.spotify.com/artist/1hXCszU9f1es4LZiW3Bk0N), [Surabhi Bharadwaj](https://open.spotify.com/artist/2QlJhNbj61Ci927HCUQTlr), [Siddu R Wadeyar](https://open.spotify.com/artist/4vtqdT9JcejRLMiju5YTBu) | [Ninnindha shuru](https://open.spotify.com/album/004SIcTnIEekzQ4rozlWtD) | 4:17 |
-| 14 | [Bhayavagide](https://open.spotify.com/track/385UNBjrv1NoCxsqop82Uh) | [Arfaz Ullal](https://open.spotify.com/artist/0wuJzQOCtUNgXqrkkgsFoH), [Manu Rao](https://open.spotify.com/artist/69PFGJi8dalmkc2ITP6FQZ), [Paluz45](https://open.spotify.com/artist/0W1hviGDJk8gLz7ELtHL04) | [Bhayavagide](https://open.spotify.com/album/6gBBoyq4Az8P1AR3MFRaeR) | 4:07 |
+| 14 | [Bhayavagide](https://open.spotify.com/track/385UNBjrv1NoCxsqop82Uh) | [Arfaz Ullal](https://open.spotify.com/artist/0wuJzQOCtUNgXqrkkgsFoH), [Manu Rao](https://open.spotify.com/artist/69PFGJi8dalmkc2ITP6FQZ), [Paluz45](https://open.spotify.com/artist/0W1hviGDJk8gLz7ELtHL04), [Sinchana Gowda](https://open.spotify.com/artist/56eDGtcTKZwRvgptm5qGVp) | [Bhayavagide](https://open.spotify.com/album/6gBBoyq4Az8P1AR3MFRaeR) | 4:07 |
 | 15 | [Don't Care \- Female Version](https://open.spotify.com/track/6zRJJRw3dX9xcXSHBQMeQf) | [Paluz45](https://open.spotify.com/artist/0W1hviGDJk8gLz7ELtHL04), [Sinchana Gowda](https://open.spotify.com/artist/56eDGtcTKZwRvgptm5qGVp) | [Don't Care \(Female Version\)](https://open.spotify.com/album/1EWSD1tTU4iixNYQjCEYIc) | 3:24 |
 | 16 | [Hey Snehithe](https://open.spotify.com/track/1vy1wvjZnGRy2jmI05n3C2) | [Manasa Holla](https://open.spotify.com/artist/1y81jcpvokCJQXfGs8HWTL), [Prarthana MA](https://open.spotify.com/artist/6OL8EER7m5R0WJYu1VMcvf), [Vihaan Arya](https://open.spotify.com/artist/3aV5EPIDyxtPmDe0PLaj7G), [Aneesh Poojari](https://open.spotify.com/artist/5HPROpmWawOVZh7atmOalE) | [Hey Snehithe](https://open.spotify.com/album/01RPjbea2bSnh45A4QJ9tH) | 2:37 |
 | 17 | [Kurudu Preeti](https://open.spotify.com/track/2GRyvZlIc2OcyrJdHAE0p9) | [Vishwas Javali](https://open.spotify.com/artist/7GvOdsn4GlpJVT993RveVN), [Sachin Dodamani](https://open.spotify.com/artist/1PF4AwIKT9LBpxL7DY7tN2) | [Kurudu Preeti](https://open.spotify.com/album/1GtZYToHUreZ3WnY3j3rq3) | 3:13 |
@@ -86,4 +86,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX55uyETlpZlJ.md) - [plain]
 | 76 | [BOSS](https://open.spotify.com/track/0cXqo8QjhCsn9qMYjDMZYN) | [Eshani](https://open.spotify.com/artist/4CQMCs1zM49VQiI6Og0VWg), [djlethal](https://open.spotify.com/artist/1UaUAQfV6k8WGPd4DyUEsN) | [BOSS](https://open.spotify.com/album/2QkuqKnB4GkAr6iCVDCJNL) | 2:17 |
 | 77 | [Haaride](https://open.spotify.com/track/1lpmHxVN3Px3umhAHmTdlz) | [Dheemusix](https://open.spotify.com/artist/3vJ12GL0X2a48lbZYd3cjo), [Harsha Shannu](https://open.spotify.com/artist/10SnuopQQz9cFktsDaRzTw) | [Haaride](https://open.spotify.com/album/3VJHNfv2jL5ngZsmm1Jjm4) | 2:49 |
 
-Snapshot ID: `MCwxNzkyMmRjMzRkNzgyZGI1ZmJkZTNhMjQ3YzZiNDc3YzRkMGY2NDRl`
+Snapshot ID: `MCxkNjE5MzZjOWI2ZWZhZDUxMmZmZmViMjU0MDg3NzZhOTFiMTUyZjY3`

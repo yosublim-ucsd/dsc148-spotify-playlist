@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX873GaRGUmPl.md) - [plain]
 
 > The best alternative songs of the decade\. Cover: Glass Animals
 
-[Spotify](https://open.spotify.com/user/spotify) - 906,632 likes - 80 songs - 5 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 906,638 likes - 80 songs - 5 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX873GaRGUmPl.md) - [plain]
 | 44 | [bad idea!](https://open.spotify.com/track/57j65yC2HggQfmYNc6rdOK) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [bad idea!](https://open.spotify.com/album/4AEKKY9Sny3Uj6U3ELK4Sl) | 3:39 |
 | 45 | [Green Light](https://open.spotify.com/track/6ie2Bw3xLj2JcGowOlcMhb) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Melodrama](https://open.spotify.com/album/2B87zXm9bOWvAJdkJBTpzF) | 3:54 |
 | 46 | [Them Changes](https://open.spotify.com/track/7CH99b2i1TXS5P8UUyWtnM) | [Thundercat](https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw) | [Drunk](https://open.spotify.com/album/7vHBQDqwzB7uDvoE5bncMM) | 3:08 |
-| 47 | [Love$ick \(feat\. A$AP Rocky\)](https://open.spotify.com/track/3sTN90bIP2cJ1783ctHykO) | [Mura Masa](https://open.spotify.com/artist/5Q81rlcTFh3k6DQJXPdsot), [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca) | [Mura Masa](https://open.spotify.com/album/0NBTBo1qrg554sAj79nEqD) | 3:12 |
-| 48 | [Tieduprightnow](https://open.spotify.com/track/66tkDkPsznE5zIHNt4QkXB) | [Parcels](https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA) | [Tieduprightnow](https://open.spotify.com/album/5v7PsESglCFeVcb7wNEWIW) | 4:09 |
+| 47 | [Tieduprightnow](https://open.spotify.com/track/66tkDkPsznE5zIHNt4QkXB) | [Parcels](https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA) | [Tieduprightnow](https://open.spotify.com/album/5v7PsESglCFeVcb7wNEWIW) | 4:09 |
+| 48 | [Love$ick \(feat\. A$AP Rocky\)](https://open.spotify.com/track/3sTN90bIP2cJ1783ctHykO) | [Mura Masa](https://open.spotify.com/artist/5Q81rlcTFh3k6DQJXPdsot), [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca) | [Mura Masa](https://open.spotify.com/album/0NBTBo1qrg554sAj79nEqD) | 3:12 |
 | 49 | [It's Not Living \(If It's Not With You\)](https://open.spotify.com/track/3TgMcrV32NUKjEG2ujn9eh) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [A Brief Inquiry Into Online Relationships](https://open.spotify.com/album/6PWXKiakqhI17mTYM4y6oY) | 4:08 |
 | 50 | [Midnight City](https://open.spotify.com/track/1eyzqe2QqGZUmfcPZtrIyt) | [M83](https://open.spotify.com/artist/63MQldklfxkjYDoUE4Tppz) | [Hurry Up, We're Dreaming](https://open.spotify.com/album/6R0ynY7RF20ofs9GJR5TXR) | 4:01 |
 | 51 | [Runaway](https://open.spotify.com/track/23rdcrD0Eky4vYn2TZidxJ) | [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N) | [All My Demons Greeting Me as a Friend \(Deluxe\)](https://open.spotify.com/album/6f20spSQ9DLynFAXEKmqHf) | 4:08 |
@@ -69,8 +69,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX873GaRGUmPl.md) - [plain]
 | 59 | [Left Hand Free](https://open.spotify.com/track/4iEOVEULZRvmzYSZY2ViKN) | [alt\-J](https://open.spotify.com/artist/3XHO7cRUPCLOr6jwp8vsx5) | [This Is All Yours](https://open.spotify.com/album/4oktVvRuO1In9B7Hz0xm0a) | 2:53 |
 | 60 | [High By The Beach](https://open.spotify.com/track/7g3htkaLz4ETFn0cifwM3y) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Honeymoon](https://open.spotify.com/album/2DpEBrjCur1ythIZ10gJWw) | 4:17 |
 | 61 | [Night Shift](https://open.spotify.com/track/1yYlpGuBiRRf33e1gY61bN) | [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [Historian](https://open.spotify.com/album/0LqhbUfmHsxovfSirhEIGu) | 6:31 |
-| 62 | [As the World Caves In](https://open.spotify.com/track/4JE6agBLHGA5TaF6FlqfBD) | [Matt Maltese](https://open.spotify.com/artist/12j6dJrPXanCBwY599pZxf) | [As the World Caves In](https://open.spotify.com/album/6bKosNVvMaaosmJTV101y0) | 3:38 |
-| 63 | [Young Blood](https://open.spotify.com/track/25nzKGDiua1lE9Qo5V19GL) | [The Naked And Famous](https://open.spotify.com/artist/0oeUpvxWsC8bWS6SnpU8b9) | [Passive Me, Aggressive You](https://open.spotify.com/album/5ImvJCAX33Pt2XGMaYaMia) | 4:06 |
+| 62 | [Young Blood](https://open.spotify.com/track/25nzKGDiua1lE9Qo5V19GL) | [The Naked And Famous](https://open.spotify.com/artist/0oeUpvxWsC8bWS6SnpU8b9) | [Passive Me, Aggressive You](https://open.spotify.com/album/5ImvJCAX33Pt2XGMaYaMia) | 4:06 |
+| 63 | [As the World Caves In](https://open.spotify.com/track/4JE6agBLHGA5TaF6FlqfBD) | [Matt Maltese](https://open.spotify.com/artist/12j6dJrPXanCBwY599pZxf) | [As the World Caves In](https://open.spotify.com/album/6bKosNVvMaaosmJTV101y0) | 3:38 |
 | 64 | [Oblivion](https://open.spotify.com/track/3LGsgpx4TfxhXbr07OFKqs) | [Grimes](https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab) | [Visions](https://open.spotify.com/album/3HED2IUaNSnbOe88a7ZdwM) | 4:11 |
 | 65 | [Love It If We Made It](https://open.spotify.com/track/6WmIyn2fx1PKQ0XDpYj4VR) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [A Brief Inquiry Into Online Relationships](https://open.spotify.com/album/6PWXKiakqhI17mTYM4y6oY) | 4:12 |
 | 66 | [My Number](https://open.spotify.com/track/04caEZhAsQKnWqKsMwk9ud) | [Foals](https://open.spotify.com/artist/6FQqZYVfTNQ1pCqfkwVFEa) | [Holy Fire](https://open.spotify.com/album/6SBkXTPlJ3oEaFwRm5o2lD) | 3:58 |
@@ -83,10 +83,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX873GaRGUmPl.md) - [plain]
 | 73 | [R.I.P\. 2 My Youth](https://open.spotify.com/track/07VBqWH6NG8L2ad3l84UKk) | [The Neighbourhood](https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh) | [Wiped Out!](https://open.spotify.com/album/18iFxjZugvKhuNNMbLjZJF) | 3:25 |
 | 74 | [Final Song](https://open.spotify.com/track/4qqArAiTPueDxIp7cf87h7) | [MØ](https://open.spotify.com/artist/0bdfiayQAKewqEvaU6rXCv) | [Final Song](https://open.spotify.com/album/2gcqSlK5xTxcpuLZ1iik3Z) | 3:55 |
 | 75 | [The High Road](https://open.spotify.com/track/5cwN1htZyoWqZCc33f3RfE) | [Broken Bells](https://open.spotify.com/artist/6dgwEwnK0YtDfS9XhRwBTG) | [Broken Bells](https://open.spotify.com/album/0X7WyEKdm5afGj1fmD7Blx) | 3:52 |
-| 76 | [I Need My Girl](https://open.spotify.com/track/50M7nY1oQuNHecs0ahWAtI) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB) | [Trouble Will Find Me](https://open.spotify.com/album/4OI9hKTm1QMRQunqHCfSSL) | 4:05 |
+| 76 | [Red Eyes](https://open.spotify.com/track/0rUIff1QHd5zlOBtlHVqd9) | [The War On Drugs](https://open.spotify.com/artist/6g0mn3tzAds6aVeUYRsryU) | [Lost In The Dream](https://open.spotify.com/album/51VxHZphGLsI7aUPqIkJaz) | 4:58 |
 | 77 | [Venice Bitch](https://open.spotify.com/track/3hwQhakFwm9soLEBnSDH17) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Norman Fucking Rockwell!](https://open.spotify.com/album/5XpEKORZ4y6OrCZSKsi46A) | 9:37 |
-| 78 | [Red Eyes](https://open.spotify.com/track/0rUIff1QHd5zlOBtlHVqd9) | [The War On Drugs](https://open.spotify.com/artist/6g0mn3tzAds6aVeUYRsryU) | [Lost In The Dream](https://open.spotify.com/album/51VxHZphGLsI7aUPqIkJaz) | 4:58 |
+| 78 | [I Need My Girl](https://open.spotify.com/track/50M7nY1oQuNHecs0ahWAtI) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB) | [Trouble Will Find Me](https://open.spotify.com/album/4OI9hKTm1QMRQunqHCfSSL) | 4:05 |
 | 79 | [Sometimes](https://open.spotify.com/track/58dwGk4l4ju8pI9YWsTHWD) | [Gerry Cinnamon](https://open.spotify.com/artist/7cpCnhhBIU1gA7EhTFApN1) | [Erratic Cinematic](https://open.spotify.com/album/48GboeZmU784Sw4pi4kPjh) | 3:16 |
 | 80 | [Salad Days](https://open.spotify.com/track/5VdaMUzoQetwxQwtWAd022) | [Mac DeMarco](https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM) | [Salad Days](https://open.spotify.com/album/2sij95QgjmgrhNv33achzn) | 2:25 |
 
-Snapshot ID: `MCw0YTlhOWZmOWM1ZTM2YjU5YTBiYWUzZjc2MGUxOGFkMmEwNjQ5NmQ4`
+Snapshot ID: `MCwwMDBiMjA1YWUwMmNmMWQ5Y2UxZmE3MTE3YmZkMDFhZDQ3NDQyNzk3`

@@ -4,15 +4,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6uhsAfngvaD.md) - [plain]
 
 > Blissful indie for dreamers.
 
-[Spotify](https://open.spotify.com/user/spotify) - 303,847 likes - 80 songs - 5 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 303,887 likes - 80 songs - 5 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Jealous](https://open.spotify.com/track/1aXV8GrmQLvgoFtBPERP7E) | [Eyedress](https://open.spotify.com/artist/3XxNRirzbjfLdDli06zMaB) | [Jealous](https://open.spotify.com/album/4keJsdw9XhEvimhIgXmtO1) | 2:02 |
 | 2 | [YKWIM?](https://open.spotify.com/track/2vWBUC9djv6BtiGlmKiQaH) | [Yot Club](https://open.spotify.com/artist/6FugQjLquBF4JzATRN70bR) | [Bipolar](https://open.spotify.com/album/60jUlxAOAcsiQUEW0XLroT) | 3:32 |
 | 3 | [Can I Call You Tonight?](https://open.spotify.com/track/61OJxhoY3Ix50rYVKo8zRK) | [Dayglow](https://open.spotify.com/artist/6eJa3zG1QZLRB3xgRuyxbm) | [Fuzzybrain](https://open.spotify.com/album/7GYzQIMfdDWo2XC4BDLHPk) | 4:38 |
-| 4 | [Ghostride](https://open.spotify.com/track/0R3TWpoxAhT3HDXM7tpRzS) | [Crumb](https://open.spotify.com/artist/4kSGbjWGxTchKpIxXPJv0B) | [Jinx](https://open.spotify.com/album/6DxidEI7EhF8md8ev83iNY) | 2:06 |
-| 5 | [i walk this earth all by myself](https://open.spotify.com/track/5a8QUc4ubHJqQm7vzs2YhA) | [EKKSTACY](https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH) | [i walk this earth all by myself](https://open.spotify.com/album/6tdl27ojBwZ5ZexzZOP4mG) | 2:25 |
+| 4 | [i walk this earth all by myself](https://open.spotify.com/track/6oofvZ4K8vBHnCT1oKERcd) | [EKKSTACY](https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH) | [NEGATIVE](https://open.spotify.com/album/2momrvUqAMigmBoOOKuavE) | 2:25 |
+| 5 | [Ghostride](https://open.spotify.com/track/0R3TWpoxAhT3HDXM7tpRzS) | [Crumb](https://open.spotify.com/artist/4kSGbjWGxTchKpIxXPJv0B) | [Jinx](https://open.spotify.com/album/6DxidEI7EhF8md8ev83iNY) | 2:06 |
 | 6 | [Sugar](https://open.spotify.com/track/6ZdAsADC9LIICvsVRuGWbZ) | [Men I Trust](https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT) | [Untourable Album](https://open.spotify.com/album/1vYB8mYSGiKxE5C2RGjfDP) | 2:56 |
 | 7 | [I Don't Live Here Anymore \(feat\. Lucius\)](https://open.spotify.com/track/5Uou8idst1XJc0F6MRAk5S) | [The War On Drugs](https://open.spotify.com/artist/6g0mn3tzAds6aVeUYRsryU), [Lucius](https://open.spotify.com/artist/1WrqUPWlHN5FXCRcQgrkas) | [I Don’t Live Here Anymore](https://open.spotify.com/album/69jQsPvJzMvcb2fGqI2qaB) | 5:27 |
 | 8 | [Wry](https://open.spotify.com/track/4xwjpqfk8mHL36w1lsGcl2) | [Keep Shelly In Athens](https://open.spotify.com/artist/15cJEqQvfVczJK2DVdY6DV) | [Wry](https://open.spotify.com/album/0CnWFjySZ8PqIo5S5OD7qC) | 3:00 |
@@ -33,9 +33,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6uhsAfngvaD.md) - [plain]
 | 23 | [Porcelain](https://open.spotify.com/track/2ngVZZGrIYAxyxaA2QcWTB) | [Men I Trust](https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT) | [Oncle Jazz](https://open.spotify.com/album/4W4gNYa4tt3t8V6FmONWEK) | 3:32 |
 | 24 | [The Dream](https://open.spotify.com/track/15s06QEvaFBz2WkAXNFHSL) | [Still Corners](https://open.spotify.com/artist/4zKYrXs8iN4AeHmO8ZxNqp) | [The Dream](https://open.spotify.com/album/62uhsuwFgWwv9us2Bbyrst) | 4:49 |
 | 25 | [2016](https://open.spotify.com/track/5U2fE6X1VI0BVQo3447if0) | [aldn](https://open.spotify.com/artist/2GUw9Wzha61PkZoRVv1PDD) | [2016](https://open.spotify.com/album/4Y1a0m4CCbZRpPH2X2E2WA) | 3:00 |
-| 26 | [Lean Into Life](https://open.spotify.com/track/59I8EVpxxsE50dQRPpaBms) | [Petey](https://open.spotify.com/artist/4TeKBLCqmYXzvcgYX4t4YA) | [Lean Into Life](https://open.spotify.com/album/0bhNAmedySXmdR9xBhbpmZ) | 5:27 |
-| 27 | [Tenderness](https://open.spotify.com/track/6xlO0KbxxktH6OnY56wkwF) | [Jay Som](https://open.spotify.com/artist/1wmiQ6ytATiGnJs6uFluKO) | [Anak Ko](https://open.spotify.com/album/4bENinkpmJmwKz0CL1ZZQ8) | 4:01 |
-| 28 | [High](https://open.spotify.com/track/3ZphrQX0N2mg16cwCYj7tM) | [Cafuné](https://open.spotify.com/artist/581C5Qwl87TskfBEzuoisu) | [Running](https://open.spotify.com/album/2dEf6lN5qYFQQy3Jd3ScHG) | 3:37 |
+| 26 | [High](https://open.spotify.com/track/3ZphrQX0N2mg16cwCYj7tM) | [Cafuné](https://open.spotify.com/artist/581C5Qwl87TskfBEzuoisu) | [Running](https://open.spotify.com/album/2dEf6lN5qYFQQy3Jd3ScHG) | 3:37 |
+| 27 | [Lean Into Life](https://open.spotify.com/track/59I8EVpxxsE50dQRPpaBms) | [Petey](https://open.spotify.com/artist/4TeKBLCqmYXzvcgYX4t4YA) | [Lean Into Life](https://open.spotify.com/album/0bhNAmedySXmdR9xBhbpmZ) | 5:27 |
+| 28 | [Tenderness](https://open.spotify.com/track/6xlO0KbxxktH6OnY56wkwF) | [Jay Som](https://open.spotify.com/artist/1wmiQ6ytATiGnJs6uFluKO) | [Anak Ko](https://open.spotify.com/album/4bENinkpmJmwKz0CL1ZZQ8) | 4:01 |
 | 29 | [Snowman](https://open.spotify.com/track/6gGKU1PSWNdLyjiURjfPil) | [Blonde Redhead](https://open.spotify.com/artist/5isqImG0rLfAgBJSPMEVXF) | [Sit Down for Dinner](https://open.spotify.com/album/7GfokyxLDkBsgR9gUmEbRq) | 5:15 |
 | 30 | [Happy on Mars](https://open.spotify.com/track/5jgrg6367ewS0BgsP6eIgx) | [Carpark](https://open.spotify.com/artist/6wNKTp1adxnPYP5L3Vja3b) | [Happy on Mars](https://open.spotify.com/album/1y5S6U7FaBA73iGx1EdQQO) | 3:35 |
 | 31 | [Love Song](https://open.spotify.com/track/3rQaxZaozQfrUEQx1PzT14) | [Softcult](https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0) | [Love Song](https://open.spotify.com/album/3CzGMHubMJyVA7Cp2UeYqH) | 2:51 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6uhsAfngvaD.md) - [plain]
 | 79 | [Picnic In The Rain](https://open.spotify.com/track/3tjTAQymCotMfHeoYqWjZh) | [atmos bloom](https://open.spotify.com/artist/5F6pjXWILFr4XnOngaKyo3) | [Flora](https://open.spotify.com/album/5MOsdLQs3Rx5ed7cnrH5Ku) | 3:15 |
 | 80 | [Valentine](https://open.spotify.com/track/28xKoto01psP4QaoISW5HY) | [Cults](https://open.spotify.com/artist/3Oim8XBPbznAa8Jj8QzNc8) | [Valentine](https://open.spotify.com/album/7McuqEFa5qOZZpGesSnRvg) | 3:22 |
 
-Snapshot ID: `MCxlYmYwYTFkMjBmMjg5MDVjMTc1ZjNmYTQ3MWQ4OTkzNWFkZDZjODc1`
+Snapshot ID: `MCwwOTBkYTNiYzY1ODY5ZTgzMDI3MDkyODM5NmVjZWIyZTc2NDhmZjYx`

@@ -1,12 +1,12 @@
 {
   "description": "P\u00f4r do sol com p\u00e9 na areia e aquela resenha com viol\u00e3o e muita rima.",
-  "num_followers": 157278,
+  "num_followers": 157282,
   "original_name": "Resenha na Praia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlMGRiMDU3ZDRjODk4NTBhYzJhYTk1YTU3MDlmMDYwMTQ4ZDI0MTJi",
+  "snapshot_id": "MCw3ZGNlNjM4YjUwMDU1NmZhMTc0ODc1ZjVhMjNlYmRlZDkzNTcyODVi",
   "tracks": [
     {
       "added_at": "2024-03-08 03:01:00",
@@ -487,6 +487,22 @@
     {
       "added_at": "2024-03-08 03:01:00",
       "album": {
+        "name": "De Longe. (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/5NvT1OChf8aYyglBqfsptk"
+      },
+      "artists": [
+        {
+          "name": "Haikaiss",
+          "url": "https://open.spotify.com/artist/53iGNetIf91uZx4Jb54cgb"
+        }
+      ],
+      "duration_ms": 206549,
+      "name": "De Longe. - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/1RSdTzKm5vE3ELZPwbTbuQ"
+    },
+    {
+      "added_at": "2024-03-08 03:01:00",
+      "album": {
         "name": "Revoada",
         "url": "https://open.spotify.com/album/7jXwwkRfr3INN7q4IPWEDK"
       },
@@ -507,18 +523,22 @@
     {
       "added_at": "2024-03-08 03:01:00",
       "album": {
-        "name": "De Longe. (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/5NvT1OChf8aYyglBqfsptk"
+        "name": "Equa\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/0fzp4jZE1x6qbA4sIeSLCC"
       },
       "artists": [
         {
-          "name": "Haikaiss",
-          "url": "https://open.spotify.com/artist/53iGNetIf91uZx4Jb54cgb"
+          "name": "Mun-Ra",
+          "url": "https://open.spotify.com/artist/0TCMOxaDMS40afITXwbE96"
+        },
+        {
+          "name": "L7NNON",
+          "url": "https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C"
         }
       ],
-      "duration_ms": 206549,
-      "name": "De Longe. - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/1RSdTzKm5vE3ELZPwbTbuQ"
+      "duration_ms": 182205,
+      "name": "Equa\u00e7\u00e3o",
+      "url": "https://open.spotify.com/track/6qm6PhLt6mRX53gR9pn0Iy"
     },
     {
       "added_at": "2024-03-08 03:01:00",
@@ -547,26 +567,6 @@
       "duration_ms": 237419,
       "name": "Meu Passado",
       "url": "https://open.spotify.com/track/19rYsBUNClYidByVMkY3H1"
-    },
-    {
-      "added_at": "2024-03-08 03:01:00",
-      "album": {
-        "name": "Equa\u00e7\u00e3o",
-        "url": "https://open.spotify.com/album/0fzp4jZE1x6qbA4sIeSLCC"
-      },
-      "artists": [
-        {
-          "name": "Mun-Ra",
-          "url": "https://open.spotify.com/artist/0TCMOxaDMS40afITXwbE96"
-        },
-        {
-          "name": "L7NNON",
-          "url": "https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C"
-        }
-      ],
-      "duration_ms": 182205,
-      "name": "Equa\u00e7\u00e3o",
-      "url": "https://open.spotify.com/track/6qm6PhLt6mRX53gR9pn0Iy"
     },
     {
       "added_at": "2024-03-08 03:01:00",
@@ -823,26 +823,6 @@
     {
       "added_at": "2024-03-08 03:01:00",
       "album": {
-        "name": "Girl From Ipanema",
-        "url": "https://open.spotify.com/album/5KmgelwwyTOIP93hJwqt7T"
-      },
-      "artists": [
-        {
-          "name": "Choice",
-          "url": "https://open.spotify.com/artist/4kqedTxyE5EDJWLLplYXpu"
-        },
-        {
-          "name": "NSFS",
-          "url": "https://open.spotify.com/artist/3w7GpmivBfWVh5CTrp0irY"
-        }
-      ],
-      "duration_ms": 209770,
-      "name": "Girl From Ipanema",
-      "url": "https://open.spotify.com/track/7ysU8N5QdUZNFzkuQhDpV4"
-    },
-    {
-      "added_at": "2024-03-08 03:01:00",
-      "album": {
         "name": "Mensagem",
         "url": "https://open.spotify.com/album/2NPc3kgr2YdiElHG3CKA26"
       },
@@ -859,6 +839,26 @@
       "duration_ms": 139000,
       "name": "Mensagem",
       "url": "https://open.spotify.com/track/7kfXIHFbBINJeUtXaPodZw"
+    },
+    {
+      "added_at": "2024-03-08 03:01:00",
+      "album": {
+        "name": "Girl From Ipanema",
+        "url": "https://open.spotify.com/album/5KmgelwwyTOIP93hJwqt7T"
+      },
+      "artists": [
+        {
+          "name": "Choice",
+          "url": "https://open.spotify.com/artist/4kqedTxyE5EDJWLLplYXpu"
+        },
+        {
+          "name": "NSFS",
+          "url": "https://open.spotify.com/artist/3w7GpmivBfWVh5CTrp0irY"
+        }
+      ],
+      "duration_ms": 209770,
+      "name": "Girl From Ipanema",
+      "url": "https://open.spotify.com/track/7ysU8N5QdUZNFzkuQhDpV4"
     },
     {
       "added_at": "2024-03-08 03:01:00",
@@ -1287,26 +1287,6 @@
     {
       "added_at": "2024-03-08 03:01:00",
       "album": {
-        "name": "Mapa Astral",
-        "url": "https://open.spotify.com/album/6BtIr9CAnLk5ZVe3f7MnZF"
-      },
-      "artists": [
-        {
-          "name": "Zoli",
-          "url": "https://open.spotify.com/artist/6HqoIxGapi53LEfRJMuNz6"
-        },
-        {
-          "name": "Bruno Chelles",
-          "url": "https://open.spotify.com/artist/0QRmYyPJ4gzQmSVWMYgF2d"
-        }
-      ],
-      "duration_ms": 193620,
-      "name": "Mapa Astral",
-      "url": "https://open.spotify.com/track/29FiIrTO3Q8Hr88G35M6F7"
-    },
-    {
-      "added_at": "2024-03-08 03:01:00",
-      "album": {
         "name": "27 Dias",
         "url": "https://open.spotify.com/album/6qT1jE8wcY0PvuV9gBBjOX"
       },
@@ -1331,6 +1311,42 @@
     {
       "added_at": "2024-03-08 03:01:00",
       "album": {
+        "name": "Mapa Astral",
+        "url": "https://open.spotify.com/album/6BtIr9CAnLk5ZVe3f7MnZF"
+      },
+      "artists": [
+        {
+          "name": "Zoli",
+          "url": "https://open.spotify.com/artist/6HqoIxGapi53LEfRJMuNz6"
+        },
+        {
+          "name": "Bruno Chelles",
+          "url": "https://open.spotify.com/artist/0QRmYyPJ4gzQmSVWMYgF2d"
+        }
+      ],
+      "duration_ms": 193620,
+      "name": "Mapa Astral",
+      "url": "https://open.spotify.com/track/29FiIrTO3Q8Hr88G35M6F7"
+    },
+    {
+      "added_at": "2024-03-08 03:01:00",
+      "album": {
+        "name": "Stories",
+        "url": "https://open.spotify.com/album/6bWqWfQkNVdcfzoCWTll2R"
+      },
+      "artists": [
+        {
+          "name": "24por7",
+          "url": "https://open.spotify.com/artist/6QS49Xs3VgK7P3ZuTkDhqF"
+        }
+      ],
+      "duration_ms": 128000,
+      "name": "Stories",
+      "url": "https://open.spotify.com/track/0ooXXsObAmmfgYEB9dlIdc"
+    },
+    {
+      "added_at": "2024-03-08 03:01:00",
+      "album": {
         "name": "Elementar",
         "url": "https://open.spotify.com/album/5ovrFL7jWNeZo4G60HlOAq"
       },
@@ -1351,22 +1367,6 @@
       "duration_ms": 170700,
       "name": "Deixa Queimar",
       "url": "https://open.spotify.com/track/6jj0UwiD4y1LnlNJ5FuxZf"
-    },
-    {
-      "added_at": "2024-03-08 03:01:00",
-      "album": {
-        "name": "Stories",
-        "url": "https://open.spotify.com/album/6bWqWfQkNVdcfzoCWTll2R"
-      },
-      "artists": [
-        {
-          "name": "24por7",
-          "url": "https://open.spotify.com/artist/6QS49Xs3VgK7P3ZuTkDhqF"
-        }
-      ],
-      "duration_ms": 128000,
-      "name": "Stories",
-      "url": "https://open.spotify.com/track/0ooXXsObAmmfgYEB9dlIdc"
     },
     {
       "added_at": "2024-03-08 03:01:00",
@@ -1451,6 +1451,22 @@
     {
       "added_at": "2024-03-08 03:01:00",
       "album": {
+        "name": "Sabe Qual \u00c9",
+        "url": "https://open.spotify.com/album/0pOetxYIZaNrd3Xdewp9Fd"
+      },
+      "artists": [
+        {
+          "name": "Nathan",
+          "url": "https://open.spotify.com/artist/2ZBQCf1PXTCH95h3msgluA"
+        }
+      ],
+      "duration_ms": 150361,
+      "name": "Sabe Qual \u00c9",
+      "url": "https://open.spotify.com/track/3mctWBqWWKZn7rsyjWVtDe"
+    },
+    {
+      "added_at": "2024-03-08 03:01:00",
+      "album": {
         "name": "Vento Bom",
         "url": "https://open.spotify.com/album/2h0iw6R2fq3xCWDQvmIS1l"
       },
@@ -1467,22 +1483,6 @@
       "duration_ms": 169409,
       "name": "Vento Bom",
       "url": "https://open.spotify.com/track/3TstCrqLn3542vXjNKCpV2"
-    },
-    {
-      "added_at": "2024-03-08 03:01:00",
-      "album": {
-        "name": "Sabe Qual \u00c9",
-        "url": "https://open.spotify.com/album/0pOetxYIZaNrd3Xdewp9Fd"
-      },
-      "artists": [
-        {
-          "name": "Nathan",
-          "url": "https://open.spotify.com/artist/2ZBQCf1PXTCH95h3msgluA"
-        }
-      ],
-      "duration_ms": 150361,
-      "name": "Sabe Qual \u00c9",
-      "url": "https://open.spotify.com/track/3mctWBqWWKZn7rsyjWVtDe"
     },
     {
       "added_at": "2024-03-08 03:01:00",
@@ -1515,22 +1515,6 @@
     {
       "added_at": "2024-03-08 03:01:00",
       "album": {
-        "name": "Qualquer Maneira",
-        "url": "https://open.spotify.com/album/7j1DUPvd4pw2Z6uI3QJj7r"
-      },
-      "artists": [
-        {
-          "name": "Inc\u00f3gnito",
-          "url": "https://open.spotify.com/artist/3J60BaFbuCbU1XTzLv1at8"
-        }
-      ],
-      "duration_ms": 331054,
-      "name": "Qualquer Maneira",
-      "url": "https://open.spotify.com/track/4OuOPF6CxMSUTXCuKhwKZT"
-    },
-    {
-      "added_at": "2024-03-08 03:01:00",
-      "album": {
         "name": "Mist\u00e9rio",
         "url": "https://open.spotify.com/album/3kBRkJc0JKJ7Cb9PRbs5HG"
       },
@@ -1547,6 +1531,22 @@
       "duration_ms": 142105,
       "name": "Mist\u00e9rio",
       "url": "https://open.spotify.com/track/2syPgLsmPg8dBNvqdKhCnc"
+    },
+    {
+      "added_at": "2024-03-08 03:01:00",
+      "album": {
+        "name": "Qualquer Maneira",
+        "url": "https://open.spotify.com/album/7j1DUPvd4pw2Z6uI3QJj7r"
+      },
+      "artists": [
+        {
+          "name": "Inc\u00f3gnito",
+          "url": "https://open.spotify.com/artist/3J60BaFbuCbU1XTzLv1at8"
+        }
+      ],
+      "duration_ms": 331054,
+      "name": "Qualquer Maneira",
+      "url": "https://open.spotify.com/track/4OuOPF6CxMSUTXCuKhwKZT"
     },
     {
       "added_at": "2024-03-08 03:01:00",
@@ -1631,26 +1631,6 @@
     {
       "added_at": "2024-03-08 03:01:00",
       "album": {
-        "name": "Puro Suco Stronda",
-        "url": "https://open.spotify.com/album/3uihtsjHXuNvtqM30f4UIa"
-      },
-      "artists": [
-        {
-          "name": "Diego Thug",
-          "url": "https://open.spotify.com/artist/4XJyjyOJnsvtZEi5isgKSw"
-        },
-        {
-          "name": "YoungAlxn",
-          "url": "https://open.spotify.com/artist/5efPHAUTNMCmlrD4viZ0w4"
-        }
-      ],
-      "duration_ms": 205906,
-      "name": "Puro Suco Stronda",
-      "url": "https://open.spotify.com/track/3CIBwDCGbrYAyUIT9Gt7Bc"
-    },
-    {
-      "added_at": "2024-03-08 03:01:00",
-      "album": {
         "name": "Guts Sessions #1: Menina Linda",
         "url": "https://open.spotify.com/album/1ehOwpQPu30AqcIIZU5SCB"
       },
@@ -1683,6 +1663,26 @@
       "duration_ms": 252367,
       "name": "Guts Sessions #1: Menina Linda",
       "url": "https://open.spotify.com/track/1Mh5FuKoe5I0UvfzjYYkMQ"
+    },
+    {
+      "added_at": "2024-03-08 03:01:00",
+      "album": {
+        "name": "Puro Suco Stronda",
+        "url": "https://open.spotify.com/album/3uihtsjHXuNvtqM30f4UIa"
+      },
+      "artists": [
+        {
+          "name": "Diego Thug",
+          "url": "https://open.spotify.com/artist/4XJyjyOJnsvtZEi5isgKSw"
+        },
+        {
+          "name": "YoungAlxn",
+          "url": "https://open.spotify.com/artist/5efPHAUTNMCmlrD4viZ0w4"
+        }
+      ],
+      "duration_ms": 205906,
+      "name": "Puro Suco Stronda",
+      "url": "https://open.spotify.com/track/3CIBwDCGbrYAyUIT9Gt7Bc"
     },
     {
       "added_at": "2024-03-08 03:01:00",

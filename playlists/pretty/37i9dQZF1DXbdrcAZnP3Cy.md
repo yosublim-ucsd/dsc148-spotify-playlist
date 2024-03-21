@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbdrcAZnP3Cy.md) - [plain]
 
 > Your favorite Mexican anthems to get the party started! Cover: Vicente Fernández
 
-[Spotify](https://open.spotify.com/user/spotify) - 163,284 likes - 90 songs - 4 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 163,334 likes - 90 songs - 4 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,8 +20,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbdrcAZnP3Cy.md) - [plain]
 | 10 | [NO SE VA \- EN VIVO](https://open.spotify.com/track/76kelNDs1ojicx1s6Urvck) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [El Comienzo](https://open.spotify.com/album/5i9lMMUZ1QZNsLEE3j50kT) | 3:13 |
 | 11 | [No Te Contaron Mal](https://open.spotify.com/track/7hbk4BaF66O09R1gq0bKwj) | [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [Ahora](https://open.spotify.com/album/6zgCsYTyMyvBLqcv51KLXS) | 2:36 |
 | 12 | [Tiene Espinas El Rosal](https://open.spotify.com/track/1JO6kEdXrxBq9QobefZg0H) | [Grupo Cañaveral De Humberto Pabón](https://open.spotify.com/artist/48zixAu4wMDZwpVbOenDU7) | [Grupo Cañaveral, Vol\. 3](https://open.spotify.com/album/0enYFc2pFSAqZ53enjSU5r) | 3:58 |
-| 13 | [Yo Ya No Vuelvo Contigo \- En Vivo](https://open.spotify.com/track/1s59X35jDULAyOGmBuTAnd) | [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U), [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS) | [Yo Ya No Vuelvo Contigo \(En Vivo\)](https://open.spotify.com/album/78OOLWnOyjDZRqxZXlfNk9) | 4:00 |
-| 14 | [Mi Mayor Anhelo](https://open.spotify.com/track/0bBvuLFzIjrHm9PPyvohIA) | [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [Mi Mayor Anhelo](https://open.spotify.com/album/3y4zsDJdS6o2oYprOn0XKp) | 3:29 |
+| 13 | [Mi Mayor Anhelo](https://open.spotify.com/track/0bBvuLFzIjrHm9PPyvohIA) | [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [Mi Mayor Anhelo](https://open.spotify.com/album/3y4zsDJdS6o2oYprOn0XKp) | 3:29 |
+| 14 | [Yo Ya No Vuelvo Contigo \- En Vivo](https://open.spotify.com/track/1s59X35jDULAyOGmBuTAnd) | [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U), [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS) | [Yo Ya No Vuelvo Contigo \(En Vivo\)](https://open.spotify.com/album/78OOLWnOyjDZRqxZXlfNk9) | 4:00 |
 | 15 | [Un Sueño](https://open.spotify.com/track/6iPDBwtiOZGlfQt9HD0jAG) | [Los Angeles De Charly](https://open.spotify.com/artist/0fdpJLsenUo15X3dPPWJSR) | [Un Sueño](https://open.spotify.com/album/0YYee1wCAn79KN9TVD70Tp) | 3:45 |
 | 16 | [El Listón De Tu Pelo](https://open.spotify.com/track/5hrxAFrYbNTLjAYSrmbpgr) | [Los Ángeles Azules](https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW) | [Una Lluvia De Rosas](https://open.spotify.com/album/3cwMyqMeTxBd26z6AjKGdv) | 3:36 |
 | 17 | [La Boda del Huitlacoche \- En Vivo](https://open.spotify.com/track/7ewyZwEMNtt0lqtucOD4vs) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ), [Los Honorables](https://open.spotify.com/artist/3FBJxYbSWdf4s3b7qKbjRL) | [Borrachera Con Los Honorables \(En Vivo\)](https://open.spotify.com/album/5Js6rpaXDIBbdJA5Xn8AYd) | 3:08 |
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbdrcAZnP3Cy.md) - [plain]
 | 89 | [El Wiri Wiri Aka El Guiri Guiri](https://open.spotify.com/track/1fYwFiuLGzGuXRiwvHqqjl) | [Los Canarios De Michoacan](https://open.spotify.com/artist/4j6JwUsiURpHgIWYzzdElp) | [Aceptalo Ya !](https://open.spotify.com/album/5NrYXAeq8EqovAyrb9JWNf) | 3:22 |
 | 90 | [Un Fin en Culiacán](https://open.spotify.com/track/0HfQLHvzSzPFCLKBpjCT16) | [La Adictiva](https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM) | [Disfruté Engañarte](https://open.spotify.com/album/2GRDNB7h1xv11f6caN3rBr) | 2:34 |
 
-Snapshot ID: `MCxkZmY3MDNmMzk4MGZlNTFjMDhiM2Y2NTBlOGI1ODY2MmVkMmFkYjg5`
+Snapshot ID: `MCw0MjBlNjZlMzk5ZTQ1N2RiNzAzYjg2ZWUyMWMwYjY2Yzk2MzQ4YmIw`

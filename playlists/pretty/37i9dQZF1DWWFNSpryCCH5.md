@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWFNSpryCCH5.md) - [plain]
 
 > Revive aquellas grandes canciones desenchufadas.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,075,008 likes - 50 songs - 3 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,075,059 likes - 50 songs - 3 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,8 +15,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWFNSpryCCH5.md) - [plain]
 | 5 | [Te Para 3 \- MTV Unplugged](https://open.spotify.com/track/2kMVxFh1y5gow2hBtqGO4m) | [Soda Stereo](https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp) | [Comfort Y Musica Para Volar](https://open.spotify.com/album/5RJLKN7ucuVaRAUzNKtKB8) | 4:07 |
 | 6 | [Tu Recuerdo \(feat\. La Mari De Chambao & Tommy Torres\) \- MTV Unplugged Version](https://open.spotify.com/track/61hJK3EfAd1LDk7x5OrCTc) | [Ricky Martin](https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ), [Lamari](https://open.spotify.com/artist/1Rv4Ogfu7pg6QMo09XWtWK), [Tommy Torres](https://open.spotify.com/artist/264nbMzGPSkDZqTY8nXwCG) | [Ricky Martin MTV Unplugged](https://open.spotify.com/album/7qhZvYXFgsaSzuukZw9WCM) | 4:07 |
 | 7 | [No Me Importa el Dinero \(feat\. Julieta Venegas\) \- Vivo en el Palacio de los Deportes](https://open.spotify.com/track/4wXjnoLIMTninCnKRgGsQc) | [Los Auténticos Decadentes](https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj), [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [En Vivo en el Palacio de los Deportes \- 25 Aniversario](https://open.spotify.com/album/7gSe5tBOrBERCFvQgR6TsC) | 3:54 |
-| 8 | [About A Girl \- Live](https://open.spotify.com/track/48YkpE5enOln5c7jXSTuHL) | [Nirvana](https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh) | [MTV Unplugged In New York](https://open.spotify.com/album/1To7kv722A8SpZF789MZy7) | 3:38 |
-| 9 | [A Las Nueve](https://open.spotify.com/track/68cko9zdsKwaxgb98sF36S) | [No Te Va Gustar](https://open.spotify.com/artist/4ZDoy7AWNgQVmX7T0u0B1j) | [Otras Canciones](https://open.spotify.com/album/72SqrtijWJKq6ukitktd1D) | 3:22 |
+| 8 | [A Las Nueve](https://open.spotify.com/track/68cko9zdsKwaxgb98sF36S) | [No Te Va Gustar](https://open.spotify.com/artist/4ZDoy7AWNgQVmX7T0u0B1j) | [Otras Canciones](https://open.spotify.com/album/72SqrtijWJKq6ukitktd1D) | 3:22 |
+| 9 | [About A Girl \- Live](https://open.spotify.com/track/48YkpE5enOln5c7jXSTuHL) | [Nirvana](https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh) | [MTV Unplugged In New York](https://open.spotify.com/album/1To7kv722A8SpZF789MZy7) | 3:38 |
 | 10 | [La Chica De Humo \- MTV Unplugged](https://open.spotify.com/track/4ozSZEX79T7QuDaifobXLO) | [Emmanuel](https://open.spotify.com/artist/2DmYtFBKcxb3ajwWWgA576) | [MTV Unplugged: Con El Alma Desnuda](https://open.spotify.com/album/6w9N3RfyhAXpelVnAyrH2J) | 4:58 |
 | 11 | [Luna \- En Vivo](https://open.spotify.com/track/7b3k8I1fncAzbk9PHnLkbX) | [Zoé](https://open.spotify.com/artist/6IdtcAwaNVAggwd6sCKgTI) | [MTV Unplugged Música De Fondo \(Reissue/Live\)](https://open.spotify.com/album/5fl6q7SKOuaO2tHXeTaZeV) | 4:40 |
 | 12 | [Tears in Heaven \- Acoustic Live](https://open.spotify.com/track/3UqHlIBI771FNCiLY5MKrp) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [Unplugged \(Deluxe Edition\) \(Live\)](https://open.spotify.com/album/2lORE9lVX7YUCZfiFVnKWa) | 4:40 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWFNSpryCCH5.md) - [plain]
 | 49 | [Wind of Change \(with Morten Harket\) \- MTV Unplugged](https://open.spotify.com/track/4iKTbuGckmJaWQAyKDR7Q7) | [Scorpions](https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY), [Morten Harket](https://open.spotify.com/artist/08t5VdmH6cpxHXUmb9bFeP) | [MTV Unplugged](https://open.spotify.com/album/7HUFiEGHoty4bhJetqJa3h) | 5:31 |
 | 50 | [Vivir Sin Aire \- Unplugged](https://open.spotify.com/track/6ccgxTZ8boW6g80rXPplS6) | [Maná](https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz) | [MTV Unplugged](https://open.spotify.com/album/2uhUNyt2jQ4JdtJmWynza2) | 5:44 |
 
-Snapshot ID: `MCxkYWYwNjQ2MjgyMjliNjAzYTY2ZmNlYjEzYmFiMGNjNzBiMzE3NDZl`
+Snapshot ID: `MCwyODZmOGEzN2Q1NDk4YTExZjcwMzQzYTQ2MzRhYmIxOWJkNGZjNjkz`

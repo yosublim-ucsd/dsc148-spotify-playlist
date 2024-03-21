@@ -1,12 +1,12 @@
 {
   "description": "The best in modern punk rock music. Cover: Drahla",
-  "num_followers": 450486,
+  "num_followers": 450453,
   "original_name": "The Punk List",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjY2Q3YjQ4Y2Q1OTNjYmY3MDczYzc1MjQ3ZjNkYTZjYzU5NzRmYzFm",
+  "snapshot_id": "MCxmZTZlZGM0ODUxZTc0ZmQ5OGRjMTFmMTljNWQzMTY2ZDYzZmM1MDE2",
   "tracks": [
     {
       "added_at": "2024-03-15 12:00:00",
@@ -459,22 +459,6 @@
     {
       "added_at": "2024-03-15 12:00:00",
       "album": {
-        "name": "You're Welcome",
-        "url": "https://open.spotify.com/album/0mmHl5Z8DhJvbtQVQ3Irc9"
-      },
-      "artists": [
-        {
-          "name": "Lambrini Girls",
-          "url": "https://open.spotify.com/artist/6VR4TJ20WGiho2xZWMuuWb"
-        }
-      ],
-      "duration_ms": 155788,
-      "name": "Boys in the Band",
-      "url": "https://open.spotify.com/track/3BtMOmGUe3VEFz4uXGzqlT"
-    },
-    {
-      "added_at": "2024-03-15 12:00:00",
-      "album": {
         "name": "Sanguivore",
         "url": "https://open.spotify.com/album/1tpzmjEeH5oO5Ninfxqer2"
       },
@@ -491,18 +475,18 @@
     {
       "added_at": "2024-03-15 12:00:00",
       "album": {
-        "name": "Baku's Revenge (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/6ZA9jvu4Jwwqh5EmEUhBfv"
+        "name": "You're Welcome",
+        "url": "https://open.spotify.com/album/0mmHl5Z8DhJvbtQVQ3Irc9"
       },
       "artists": [
         {
-          "name": "Magnolia Park",
-          "url": "https://open.spotify.com/artist/7B76SsfzG0wWk1WEvGzCmY"
+          "name": "Lambrini Girls",
+          "url": "https://open.spotify.com/artist/6VR4TJ20WGiho2xZWMuuWb"
         }
       ],
-      "duration_ms": 151268,
-      "name": "Facedown",
-      "url": "https://open.spotify.com/track/6Wp3jfr652P18XUIhLiNLA"
+      "duration_ms": 155788,
+      "name": "Boys in the Band",
+      "url": "https://open.spotify.com/track/3BtMOmGUe3VEFz4uXGzqlT"
     },
     {
       "added_at": "2024-03-15 12:00:00",
@@ -519,6 +503,22 @@
       "duration_ms": 185060,
       "name": "Dream Big",
       "url": "https://open.spotify.com/track/0xvXVHHSdl0EjXFobmL6Ip"
+    },
+    {
+      "added_at": "2024-03-15 12:00:00",
+      "album": {
+        "name": "Baku's Revenge (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6ZA9jvu4Jwwqh5EmEUhBfv"
+      },
+      "artists": [
+        {
+          "name": "Magnolia Park",
+          "url": "https://open.spotify.com/artist/7B76SsfzG0wWk1WEvGzCmY"
+        }
+      ],
+      "duration_ms": 151268,
+      "name": "Facedown",
+      "url": "https://open.spotify.com/track/6Wp3jfr652P18XUIhLiNLA"
     },
     {
       "added_at": "2024-03-15 12:00:00",
@@ -767,22 +767,6 @@
     {
       "added_at": "2024-03-15 12:00:00",
       "album": {
-        "name": "I Gotta Feeling",
-        "url": "https://open.spotify.com/album/4Nw0zcHzHZRyWhWZDy6OlZ"
-      },
-      "artists": [
-        {
-          "name": "STONE",
-          "url": "https://open.spotify.com/artist/1br1PqvafIUOis4rBUvv1H"
-        }
-      ],
-      "duration_ms": 197648,
-      "name": "I Gotta Feeling",
-      "url": "https://open.spotify.com/track/0LUVOk5bZG7WO7TorwVWCn"
-    },
-    {
-      "added_at": "2024-03-15 12:00:00",
-      "album": {
         "name": "DBSAC",
         "url": "https://open.spotify.com/album/6JVhdb3XjSmppHRDNagN1y"
       },
@@ -795,6 +779,22 @@
       "duration_ms": 147764,
       "name": "DBSAC",
       "url": "https://open.spotify.com/track/7GqLhyaR3Cn4w61QOP2kRX"
+    },
+    {
+      "added_at": "2024-03-15 12:00:00",
+      "album": {
+        "name": "I Gotta Feeling",
+        "url": "https://open.spotify.com/album/4Nw0zcHzHZRyWhWZDy6OlZ"
+      },
+      "artists": [
+        {
+          "name": "STONE",
+          "url": "https://open.spotify.com/artist/1br1PqvafIUOis4rBUvv1H"
+        }
+      ],
+      "duration_ms": 197648,
+      "name": "I Gotta Feeling",
+      "url": "https://open.spotify.com/track/0LUVOk5bZG7WO7TorwVWCn"
     },
     {
       "added_at": "2024-03-15 12:00:00",
@@ -835,22 +835,6 @@
     {
       "added_at": "2024-03-15 12:00:00",
       "album": {
-        "name": "Cave World (Deluxe)",
-        "url": "https://open.spotify.com/album/4ArZgbWxYS8C4O1jdTrBZ8"
-      },
-      "artists": [
-        {
-          "name": "Viagra Boys",
-          "url": "https://open.spotify.com/artist/2nAKP6etu8wXNnezKXgqgg"
-        }
-      ],
-      "duration_ms": 283187,
-      "name": "It Ain't Enough",
-      "url": "https://open.spotify.com/track/2hMbqPnyTbBANdiJ8s4pXI"
-    },
-    {
-      "added_at": "2024-03-15 12:00:00",
-      "album": {
         "name": "Gonna Get Better",
         "url": "https://open.spotify.com/album/7xla3BNE9X4zRZfu0iwezN"
       },
@@ -867,18 +851,18 @@
     {
       "added_at": "2024-03-15 12:00:00",
       "album": {
-        "name": "Ultrasound",
-        "url": "https://open.spotify.com/album/315J5u9lEScVQyqLiDO4ui"
+        "name": "Cave World (Deluxe)",
+        "url": "https://open.spotify.com/album/4ArZgbWxYS8C4O1jdTrBZ8"
       },
       "artists": [
         {
-          "name": "The Oozes",
-          "url": "https://open.spotify.com/artist/48VgYEfRllDfyLl4BEMVSF"
+          "name": "Viagra Boys",
+          "url": "https://open.spotify.com/artist/2nAKP6etu8wXNnezKXgqgg"
         }
       ],
-      "duration_ms": 156600,
-      "name": "Ultrasound",
-      "url": "https://open.spotify.com/track/6DohhL3ptxwD3GBvhHujCA"
+      "duration_ms": 283187,
+      "name": "It Ain't Enough",
+      "url": "https://open.spotify.com/track/2hMbqPnyTbBANdiJ8s4pXI"
     },
     {
       "added_at": "2024-03-15 12:00:00",
@@ -931,8 +915,24 @@
     {
       "added_at": "2024-03-15 12:00:00",
       "album": {
-        "name": "Roll With It",
-        "url": "https://open.spotify.com/album/4CpQRht0zS8BLLNk78dr0W"
+        "name": "Ultrasound",
+        "url": "https://open.spotify.com/album/315J5u9lEScVQyqLiDO4ui"
+      },
+      "artists": [
+        {
+          "name": "The Oozes",
+          "url": "https://open.spotify.com/artist/48VgYEfRllDfyLl4BEMVSF"
+        }
+      ],
+      "duration_ms": 156600,
+      "name": "Ultrasound",
+      "url": "https://open.spotify.com/track/6DohhL3ptxwD3GBvhHujCA"
+    },
+    {
+      "added_at": "2024-03-15 12:00:00",
+      "album": {
+        "name": "Choke",
+        "url": "https://open.spotify.com/album/5Oir2rwrNHl7V0FCPVg8CW"
       },
       "artists": [
         {
@@ -940,9 +940,9 @@
           "url": "https://open.spotify.com/artist/5zJB2KYIylCM6uPtl9R9yp"
         }
       ],
-      "duration_ms": 215760,
-      "name": "Roll With It",
-      "url": "https://open.spotify.com/track/3xHgszDlff5N2EOZWWWcAy"
+      "duration_ms": 222186,
+      "name": "Choke",
+      "url": "https://open.spotify.com/track/2158JpSZqY1m9VajGGdvPu"
     },
     {
       "added_at": "2024-03-15 12:00:00",
@@ -1011,22 +1011,6 @@
     {
       "added_at": "2024-03-15 12:00:00",
       "album": {
-        "name": "Invite me, kindly",
-        "url": "https://open.spotify.com/album/77D1XYQxm5bRFsiWUNTXal"
-      },
-      "artists": [
-        {
-          "name": "HotWax",
-          "url": "https://open.spotify.com/artist/237mvWGlQNJJhc9b8pSawZ"
-        }
-      ],
-      "duration_ms": 176933,
-      "name": "High Tea",
-      "url": "https://open.spotify.com/track/2jpkUfj8a8G32DzsIYXxHM"
-    },
-    {
-      "added_at": "2024-03-15 12:00:00",
-      "album": {
         "name": "Imposter",
         "url": "https://open.spotify.com/album/1NIHzCmCg3oYs602XSj9o8"
       },
@@ -1063,22 +1047,6 @@
     {
       "added_at": "2024-03-15 12:00:00",
       "album": {
-        "name": "Choke",
-        "url": "https://open.spotify.com/album/5Oir2rwrNHl7V0FCPVg8CW"
-      },
-      "artists": [
-        {
-          "name": "Cold Years",
-          "url": "https://open.spotify.com/artist/5zJB2KYIylCM6uPtl9R9yp"
-        }
-      ],
-      "duration_ms": 222186,
-      "name": "Choke",
-      "url": "https://open.spotify.com/track/2158JpSZqY1m9VajGGdvPu"
-    },
-    {
-      "added_at": "2024-03-15 12:00:00",
-      "album": {
         "name": "EP ii",
         "url": "https://open.spotify.com/album/557ntJoopjoyMhkeX40y9s"
       },
@@ -1095,8 +1063,8 @@
     {
       "added_at": "2024-03-15 12:00:00",
       "album": {
-        "name": "Treasure",
-        "url": "https://open.spotify.com/album/0V99dg4bfGbJV0s3giFxlO"
+        "name": "Invite me, kindly",
+        "url": "https://open.spotify.com/album/77D1XYQxm5bRFsiWUNTXal"
       },
       "artists": [
         {
@@ -1104,25 +1072,25 @@
           "url": "https://open.spotify.com/artist/237mvWGlQNJJhc9b8pSawZ"
         }
       ],
-      "duration_ms": 191106,
-      "name": "Treasure",
-      "url": "https://open.spotify.com/track/7vcgqskkBA3n2aykT0AjUJ"
+      "duration_ms": 176933,
+      "name": "High Tea",
+      "url": "https://open.spotify.com/track/2jpkUfj8a8G32DzsIYXxHM"
     },
     {
       "added_at": "2024-03-15 12:00:00",
       "album": {
-        "name": "Kids Wanna Dance",
-        "url": "https://open.spotify.com/album/4yh3NxpgLVxDac62H6sGDS"
+        "name": "Roll With It",
+        "url": "https://open.spotify.com/album/4CpQRht0zS8BLLNk78dr0W"
       },
       "artists": [
         {
-          "name": "Gen and the Degenerates",
-          "url": "https://open.spotify.com/artist/7oEVPoHXaj73ddUCTNlO9E"
+          "name": "Cold Years",
+          "url": "https://open.spotify.com/artist/5zJB2KYIylCM6uPtl9R9yp"
         }
       ],
-      "duration_ms": 204480,
-      "name": "Kids Wanna Dance",
-      "url": "https://open.spotify.com/track/3elBHbeIPKuWTuflsA8tFw"
+      "duration_ms": 215760,
+      "name": "Roll With It",
+      "url": "https://open.spotify.com/track/3xHgszDlff5N2EOZWWWcAy"
     },
     {
       "added_at": "2024-03-15 12:00:00",
@@ -1143,6 +1111,22 @@
       "duration_ms": 156430,
       "name": "catastrophe",
       "url": "https://open.spotify.com/track/23CIjjRFiqwaAGHmF1p5oX"
+    },
+    {
+      "added_at": "2024-03-15 12:00:00",
+      "album": {
+        "name": "Kids Wanna Dance",
+        "url": "https://open.spotify.com/album/4yh3NxpgLVxDac62H6sGDS"
+      },
+      "artists": [
+        {
+          "name": "Gen and the Degenerates",
+          "url": "https://open.spotify.com/artist/7oEVPoHXaj73ddUCTNlO9E"
+        }
+      ],
+      "duration_ms": 204480,
+      "name": "Kids Wanna Dance",
+      "url": "https://open.spotify.com/track/3elBHbeIPKuWTuflsA8tFw"
     },
     {
       "added_at": "2024-03-15 12:00:00",
@@ -1191,6 +1175,22 @@
       "duration_ms": 148533,
       "name": "Got Sold",
       "url": "https://open.spotify.com/track/4wv3g8OBf23VKjKlO0OWsb"
+    },
+    {
+      "added_at": "2024-03-15 12:00:00",
+      "album": {
+        "name": "Treasure",
+        "url": "https://open.spotify.com/album/0V99dg4bfGbJV0s3giFxlO"
+      },
+      "artists": [
+        {
+          "name": "HotWax",
+          "url": "https://open.spotify.com/artist/237mvWGlQNJJhc9b8pSawZ"
+        }
+      ],
+      "duration_ms": 191106,
+      "name": "Treasure",
+      "url": "https://open.spotify.com/track/7vcgqskkBA3n2aykT0AjUJ"
     },
     {
       "added_at": "2024-03-15 12:00:00",
@@ -1259,22 +1259,6 @@
     {
       "added_at": "2024-03-15 12:00:00",
       "album": {
-        "name": "Bloodsucker",
-        "url": "https://open.spotify.com/album/7nmujYHg4M7v5sZwfUfBll"
-      },
-      "artists": [
-        {
-          "name": "The Chisel",
-          "url": "https://open.spotify.com/artist/20jscDXkBqf0euv7zSsyTx"
-        }
-      ],
-      "duration_ms": 136682,
-      "name": "Bloodsucker",
-      "url": "https://open.spotify.com/track/6IrvC59atKPmrQIbSimIwy"
-    },
-    {
-      "added_at": "2024-03-15 12:00:00",
-      "album": {
         "name": "Unlike Me",
         "url": "https://open.spotify.com/album/1LALYYvk8uXVpWZiDMz1kT"
       },
@@ -1287,6 +1271,22 @@
       "duration_ms": 188000,
       "name": "Unlike Me",
       "url": "https://open.spotify.com/track/20u6KgvQdfV3gnQDJ8ilMw"
+    },
+    {
+      "added_at": "2024-03-15 12:00:00",
+      "album": {
+        "name": "Bloodsucker",
+        "url": "https://open.spotify.com/album/7nmujYHg4M7v5sZwfUfBll"
+      },
+      "artists": [
+        {
+          "name": "The Chisel",
+          "url": "https://open.spotify.com/artist/20jscDXkBqf0euv7zSsyTx"
+        }
+      ],
+      "duration_ms": 136682,
+      "name": "Bloodsucker",
+      "url": "https://open.spotify.com/track/6IrvC59atKPmrQIbSimIwy"
     },
     {
       "added_at": "2024-03-15 12:00:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbQX7bVSkxBy.md) - [plain]
 
 > Raise a voice and testify the goodness of God\.  Cover:  <a href=https://open.spotify.com/artist/7fJd7w897ouOZzDc6e3oyU?si=dT36hKP4T8q5di\_tgUZZAQ>Sunmisola Agbebi</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,516 likes - 50 songs - 4 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,578 likes - 50 songs - 4 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbQX7bVSkxBy.md) - [plain]
 | 19 | [Take Me to the River \(I Will Swim\)](https://open.spotify.com/track/4yaalj9cPc9FCVi0SXkBuV) | [Alex Yurkiv](https://open.spotify.com/artist/5cnvv9cjeqXdosL5WCFujZ), [Thelma Costolo](https://open.spotify.com/artist/28toNbnExSdk3ejoeDbA4E) | [Take Me to the River \(I Will Swim\)](https://open.spotify.com/album/1iVcfyEbebsg5wQZpxkljD) | 2:56 |
 | 20 | [You Are Great](https://open.spotify.com/track/0JgTmcVrSqq4dbfmlRSixK) | [Moses Bliss](https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM), [Festizie](https://open.spotify.com/artist/2uimm8D8LQw4mlFRGWPLQu), [Chizie](https://open.spotify.com/artist/0lRLfkXoAdbBLSfokQH9xE), [Neeja](https://open.spotify.com/artist/2Q6hH4KzIrMYrpP601GUJi), [S.O.N Music](https://open.spotify.com/artist/4nEEmsqor0MO2UiIjw1P8T), [Ajay Asika](https://open.spotify.com/artist/6JTtYSXFQweCccnZnRkVs1) | [You Are Great](https://open.spotify.com/album/7EgJ4tFv1FjsMJA1voRnQb) | 3:03 |
 | 21 | [B'Ola \- Honour](https://open.spotify.com/track/2dMDbU8IYPSltZayJLQ9Mb) | [Sunmisola Agbebi](https://open.spotify.com/artist/7fJd7w897ouOZzDc6e3oyU) | [B'Ola \(Honour\)](https://open.spotify.com/album/0VSxRD5vzaQ49htVfjNwNM) | 5:24 |
-| 22 | [Strong](https://open.spotify.com/track/7qKq3YnzxmYfYipYQxzLe4) | [Anne Wilson](https://open.spotify.com/artist/75JvBeqW4BJ4xgnbMAq6MN) | [REBEL \(The Beginning\)](https://open.spotify.com/album/4LtOQGwRoodFaM7wNpqIe5) | 3:24 |
-| 23 | [Fly Away](https://open.spotify.com/track/2tIHYnZsOOSP0mIGavVRRi) | [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ), [Hulvey](https://open.spotify.com/artist/3zSrc5vUlUxyDdS0KrxFJO) | [New Hymns](https://open.spotify.com/album/5XIbReP0MPK9hGgBsPkqZP) | 2:35 |
+| 22 | [Fly Away](https://open.spotify.com/track/2tIHYnZsOOSP0mIGavVRRi) | [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ), [Hulvey](https://open.spotify.com/artist/3zSrc5vUlUxyDdS0KrxFJO) | [New Hymns](https://open.spotify.com/album/5XIbReP0MPK9hGgBsPkqZP) | 2:35 |
+| 23 | [Strong](https://open.spotify.com/track/7qKq3YnzxmYfYipYQxzLe4) | [Anne Wilson](https://open.spotify.com/artist/75JvBeqW4BJ4xgnbMAq6MN) | [REBEL \(The Beginning\)](https://open.spotify.com/album/4LtOQGwRoodFaM7wNpqIe5) | 3:24 |
 | 24 | [Find Me Here \(Blessings Find Me\)](https://open.spotify.com/track/6lrhr9KAExOwMopLB7WBgV) | [Sherwin Gardner](https://open.spotify.com/artist/3Dvmmnxs0w0LNL9hoCPQKW) | [Find Me Here \(Blessings Find Me\)](https://open.spotify.com/album/5ebJIqFHHtI9QytYJIs8Cy) | 2:06 |
 | 25 | [Bless God](https://open.spotify.com/track/4nhLPA3DAMEOj92U5i2cOk) | [Brooke Ligertwood](https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC) | [EIGHT](https://open.spotify.com/album/0yGuCkWWoXxsPK09agGQQu) | 4:52 |
 | 26 | [Calling My Name \(I'm A Soldier\) \- Live](https://open.spotify.com/track/6pKrwKfT1IUq6GvO7xtlIW) | [Ebuka Songs](https://open.spotify.com/artist/1voWj2pMS3ApzUroyIcHXM) | [Calling My Name \(I'm A Soldier\) \[Live\]](https://open.spotify.com/album/43Ezc94qcwnX6mnmuUQnUO) | 10:38 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbQX7bVSkxBy.md) - [plain]
 | 49 | [Thank You Lord](https://open.spotify.com/track/3lZqJ8lyCWUobZLJ0vIr0w) | [CalledOut Music](https://open.spotify.com/artist/3VY7IlU2547DIC1ca88lRH) | [Thank You Lord](https://open.spotify.com/album/1iItuJVyvs7hpvhsShybhv) | 2:13 |
 | 50 | [Take It All Back](https://open.spotify.com/track/3ojnCCs5izqgJlRMIBfENI) | [Tauren Wells](https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4), [We The Kingdom](https://open.spotify.com/artist/5Ye2QWN2Wl9zTn947eaest), [Davies](https://open.spotify.com/artist/3JX5OfBuVx3kqJjigmW4Jy) | [Take It All Back](https://open.spotify.com/album/0CmaxOquxepYKzJjDJCmvt) | 3:13 |
 
-Snapshot ID: `MCw1ZDM1ZGRlMzY2MWViYjk4MjJhMDU5YTUwMzA3ZjE1ODRkNGQyMTY3`
+Snapshot ID: `MCw1YWM4Nzc0YTczNjBjYzE1MDUwM2YwYWI0NTQxZmQ2NWQxMTY4OWI0`

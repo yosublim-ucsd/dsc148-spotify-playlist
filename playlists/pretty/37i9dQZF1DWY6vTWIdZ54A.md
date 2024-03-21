@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY6vTWIdZ54A.md) - [plain]
 
 > Rock songs that get down and dirty\. Cover: Dirty Honey
 
-[Spotify](https://open.spotify.com/user/spotify) - 491,614 likes - 100 songs - 5 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 491,682 likes - 100 songs - 5 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,8 +73,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY6vTWIdZ54A.md) - [plain]
 | 63 | [Them Shoes](https://open.spotify.com/track/1oADNvkLEOm7hvyxffDRjn) | [Patrick Sweany](https://open.spotify.com/artist/35mDUnsSVfkJpgjIXHsPC5) | [Every Hour Is A Dollar Gone](https://open.spotify.com/album/7wFVw2lcWdzLIlNESYUNFX) | 5:48 |
 | 64 | [daphne did it](https://open.spotify.com/track/0QZ3iagvfN7158bVgqIkPR) | [cleopatrick](https://open.spotify.com/artist/6VTvaLJ9arNmKi8e1ekOwW) | [daphne did it / the depths](https://open.spotify.com/album/2k2DP0So7mBzytKNoH1A1M) | 3:22 |
 | 65 | [Rest In Peace](https://open.spotify.com/track/1nx0EzitUaNF08xrQunABp) | [Dorothy](https://open.spotify.com/artist/6IOvhXyk5edbA2DVaeP9Up) | [Rest In Peace](https://open.spotify.com/album/4OVPoCoVpZ9qhhicoabdiE) | 3:37 |
-| 66 | [The Rush](https://open.spotify.com/track/6bZ97N6T4TigAwBignOJXp) | [JJ Wilde](https://open.spotify.com/artist/1pLZeUSXJwVVJSPhmBSwf6) | [Ruthless](https://open.spotify.com/album/4ioMd5NHk2AUHC7D4Wjl0n) | 3:07 |
-| 67 | [Who’s Gonna Love Me Now](https://open.spotify.com/track/5VqnXEcxWfLdnsXBVjEpWx) | [Cold War Kids](https://open.spotify.com/artist/6VDdCwrBM4qQaGxoAyxyJC) | [New Age Norms 2](https://open.spotify.com/album/1Bgy7wJny262o4EVxiLqMT) | 2:51 |
+| 66 | [Who’s Gonna Love Me Now](https://open.spotify.com/track/5VqnXEcxWfLdnsXBVjEpWx) | [Cold War Kids](https://open.spotify.com/artist/6VDdCwrBM4qQaGxoAyxyJC) | [New Age Norms 2](https://open.spotify.com/album/1Bgy7wJny262o4EVxiLqMT) | 2:51 |
+| 67 | [The Rush](https://open.spotify.com/track/6bZ97N6T4TigAwBignOJXp) | [JJ Wilde](https://open.spotify.com/artist/1pLZeUSXJwVVJSPhmBSwf6) | [Ruthless](https://open.spotify.com/album/4ioMd5NHk2AUHC7D4Wjl0n) | 3:07 |
 | 68 | [Wolf](https://open.spotify.com/track/2S7R4trL4HITPIfvKUxcA4) | [Highly Suspect](https://open.spotify.com/artist/2pqd3HsfsvcBGtHvPOg6eg) | [The Boy Who Died Wolf](https://open.spotify.com/album/3TC40H9dIJArFzy0rWnWCg) | 6:56 |
 | 69 | [Raised By Wolves](https://open.spotify.com/track/2dTp74IGy0E8kv1cSWUrAJ) | [The Interrupters](https://open.spotify.com/artist/25Maank76ry2Tmbi2Ql1SF) | [In The Wild \(Deluxe Edition\)](https://open.spotify.com/album/32wDabMX1umJAYcEcn8z4i) | 3:01 |
 | 70 | [Skinny](https://open.spotify.com/track/08CVVZ9HYOXzPRAIV0w8nq) | [KALEO](https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc) | [Skinny](https://open.spotify.com/album/4B4UxXtd4JaYNtaAN6ZNEQ) | 3:42 |
@@ -82,8 +82,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY6vTWIdZ54A.md) - [plain]
 | 72 | [What's the Trick?](https://open.spotify.com/track/14FW5L81Px03LnnsXnB2LG) | [Jack White](https://open.spotify.com/artist/4FZ3j1oH43e7cukCALsCwf) | [Fear Of The Dawn](https://open.spotify.com/album/46qeiLBu3KwqFQpJBT7t6B) | 3:34 |
 | 73 | [You Rascal You](https://open.spotify.com/track/0BnzymJQLY5a3YHODuaYbO) | [Hanni El Khatib](https://open.spotify.com/artist/1HCdPZB0ypEcpDo4T55sMi) | [Will the Guns Come Out](https://open.spotify.com/album/43wnYuDO5oQxKYDYCwySgS) | 2:21 |
 | 74 | [Dark Nights](https://open.spotify.com/track/5cwZFTdktFh5XjRglkqJYr) | [Dorothy](https://open.spotify.com/artist/6IOvhXyk5edbA2DVaeP9Up) | [ROCKISDEAD](https://open.spotify.com/album/5AYoffF42E0cgDuuNgzYir) | 3:09 |
-| 75 | [Plastic Hamburgers](https://open.spotify.com/track/3lWwsRSWeSTXUBTJeuRPPg) | [Fantastic Negrito](https://open.spotify.com/artist/5QXLMdpKeByOo5ypH9gT13) | [Please Don't Be Dead](https://open.spotify.com/album/4EdNTjVzjIxYqEUGPiyiZS) | 3:37 |
-| 76 | [It's Too Late](https://open.spotify.com/track/53Gb8Nw4rYNcyQrdGe3ACO) | [Marcus King](https://open.spotify.com/artist/0FeWKiZSwBRdGzqeCdlH1a) | [Young Blood](https://open.spotify.com/album/5F4mBNKs4joGL2cGasbvi7) | 2:56 |
+| 75 | [It's Too Late](https://open.spotify.com/track/53Gb8Nw4rYNcyQrdGe3ACO) | [Marcus King](https://open.spotify.com/artist/0FeWKiZSwBRdGzqeCdlH1a) | [Young Blood](https://open.spotify.com/album/5F4mBNKs4joGL2cGasbvi7) | 2:56 |
+| 76 | [Plastic Hamburgers](https://open.spotify.com/track/3lWwsRSWeSTXUBTJeuRPPg) | [Fantastic Negrito](https://open.spotify.com/artist/5QXLMdpKeByOo5ypH9gT13) | [Please Don't Be Dead](https://open.spotify.com/album/4EdNTjVzjIxYqEUGPiyiZS) | 3:37 |
 | 77 | [Entrance Song](https://open.spotify.com/track/0Bm4fjn2AeXeA1x12hoySt) | [The Black Angels](https://open.spotify.com/artist/0VNWuGf8SMVU2AerpdhMbP) | [Phosphene Dream](https://open.spotify.com/album/3FEcbSaWwrVFglM8lD9RRZ) | 3:38 |
 | 78 | [LUCKY PENNY](https://open.spotify.com/track/4qHSciBVrNNpUlI8TT9CHQ) | [JD McPherson](https://open.spotify.com/artist/6u5mhJXgAKPTj6YVlZSPY9) | [LUCKY PENNY](https://open.spotify.com/album/0jhsnoHuQRJHawKMLxQe5P) | 3:34 |
 | 79 | [That Dress \- Demo](https://open.spotify.com/track/0Owkb88GE9Zp1NQex6vpaj) | [The Pale White](https://open.spotify.com/artist/3uhfMjcE5HJqMIWh3Iolw0) | [That Dress \(Demo\)](https://open.spotify.com/album/4LDDJCImKdsayb1PmLniF3) | 3:08 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY6vTWIdZ54A.md) - [plain]
 | 99 | [First High](https://open.spotify.com/track/6i7Xiao5B0cNpR3lFqrf9P) | [Nikki Lane](https://open.spotify.com/artist/2kWeFaiHBskk8oqky3KHcR) | [Denim & Diamonds](https://open.spotify.com/album/1AEHp7Ufjc2GEZGUlfFsML) | 3:07 |
 | 100 | [Girl Sports](https://open.spotify.com/track/6PmMCUt0JI6vrlVOFI6qM9) | [Teen Jesus and the Jean Teasers](https://open.spotify.com/artist/3KrgUUwoRQ6OQp4IOmqnSF) | [Girl Sports](https://open.spotify.com/album/4GhmoNO1PAmFUoAoPoKUz2) | 3:14 |
 
-Snapshot ID: `MCw4ZjFiMDM3ZjViMTRjOGZiZjlkM2IzZGRiOWFlM2QzYmM1MjA3NTc0`
+Snapshot ID: `MCwzYTJjZjU1NTQ3ODE0OGQ2ZWFiNjQ2MzdhZGJmOGI3NzU1ZTBhOWE3`

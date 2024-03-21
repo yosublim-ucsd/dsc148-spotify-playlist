@@ -1,12 +1,12 @@
 {
   "description": "Electronic music with Mediterranean and Eastern influences.",
-  "num_followers": 308177,
+  "num_followers": 308350,
   "original_name": "mosaic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmYzYyODUyZDNiZGY4M2IzZDYyNTk5ZGJhNzZkODBiMDc2NjE3Y2Vm",
+  "snapshot_id": "MCw5Y2M4MjI0ZTI4ZTVmYjM1MTAyYWY0ODNiMmE1YTgyZjcxODBhODA1",
   "tracks": [
     {
       "added_at": "2024-03-13 08:19:05",
@@ -659,18 +659,22 @@
     {
       "added_at": "2024-03-13 08:19:05",
       "album": {
-        "name": "Chameleon",
-        "url": "https://open.spotify.com/album/3XLeoHmYQrRxRqZJTsKvlU"
+        "name": "Journey (Mahmut Orhan Remix)",
+        "url": "https://open.spotify.com/album/3W4y2VylACtq2E0ZFxwHd6"
       },
       "artists": [
         {
-          "name": "Sandra N.",
-          "url": "https://open.spotify.com/artist/0UrGage3kU3APQxGDFhc9L"
+          "name": "Mark Eliyahu",
+          "url": "https://open.spotify.com/artist/7k6KVFItaU7pcBvL6poIi9"
+        },
+        {
+          "name": "Mahmut Orhan",
+          "url": "https://open.spotify.com/artist/3t8WiyalpvnB9AObcMufiE"
         }
       ],
-      "duration_ms": 186017,
-      "name": "Chameleon",
-      "url": "https://open.spotify.com/track/3DWxynxt6kx2OAzAzLUgjZ"
+      "duration_ms": 262647,
+      "name": "Journey - Mahmut Orhan Remix",
+      "url": "https://open.spotify.com/track/3ePcCqdWyYvtyKY95qjCZ0"
     },
     {
       "added_at": "2024-03-13 08:19:05",
@@ -695,22 +699,18 @@
     {
       "added_at": "2024-03-13 08:19:05",
       "album": {
-        "name": "Journey (Mahmut Orhan Remix)",
-        "url": "https://open.spotify.com/album/3W4y2VylACtq2E0ZFxwHd6"
+        "name": "Chameleon",
+        "url": "https://open.spotify.com/album/3XLeoHmYQrRxRqZJTsKvlU"
       },
       "artists": [
         {
-          "name": "Mark Eliyahu",
-          "url": "https://open.spotify.com/artist/7k6KVFItaU7pcBvL6poIi9"
-        },
-        {
-          "name": "Mahmut Orhan",
-          "url": "https://open.spotify.com/artist/3t8WiyalpvnB9AObcMufiE"
+          "name": "Sandra N.",
+          "url": "https://open.spotify.com/artist/0UrGage3kU3APQxGDFhc9L"
         }
       ],
-      "duration_ms": 262647,
-      "name": "Journey - Mahmut Orhan Remix",
-      "url": "https://open.spotify.com/track/3ePcCqdWyYvtyKY95qjCZ0"
+      "duration_ms": 186017,
+      "name": "Chameleon",
+      "url": "https://open.spotify.com/track/3DWxynxt6kx2OAzAzLUgjZ"
     },
     {
       "added_at": "2024-03-13 08:19:05",
@@ -895,6 +895,26 @@
     {
       "added_at": "2024-03-13 08:19:05",
       "album": {
+        "name": "Moulayiten",
+        "url": "https://open.spotify.com/album/38Y1doCUrlX33QLXMkBtCa"
+      },
+      "artists": [
+        {
+          "name": "Obeidmusic",
+          "url": "https://open.spotify.com/artist/3kW6Vte9jUSL600uy9qsks"
+        },
+        {
+          "name": "Ahmad Sleiman",
+          "url": "https://open.spotify.com/artist/2apfH39lJSec2ItcHaIvzr"
+        }
+      ],
+      "duration_ms": 297593,
+      "name": "Moulayiten",
+      "url": "https://open.spotify.com/track/4rPNmktCst6tR92stbrrBR"
+    },
+    {
+      "added_at": "2024-03-13 08:19:05",
+      "album": {
         "name": "Fade Away",
         "url": "https://open.spotify.com/album/1W8TyTpZy2Sisd3X4CWOW7"
       },
@@ -959,26 +979,6 @@
       "duration_ms": 192000,
       "name": "Moulat Lkhala",
       "url": "https://open.spotify.com/track/1wsedoySx3CLh6LwQqgxEO"
-    },
-    {
-      "added_at": "2024-03-13 08:19:05",
-      "album": {
-        "name": "Moulayiten",
-        "url": "https://open.spotify.com/album/38Y1doCUrlX33QLXMkBtCa"
-      },
-      "artists": [
-        {
-          "name": "Obeidmusic",
-          "url": "https://open.spotify.com/artist/3kW6Vte9jUSL600uy9qsks"
-        },
-        {
-          "name": "Ahmad Sleiman",
-          "url": "https://open.spotify.com/artist/2apfH39lJSec2ItcHaIvzr"
-        }
-      ],
-      "duration_ms": 297593,
-      "name": "Moulayiten",
-      "url": "https://open.spotify.com/track/4rPNmktCst6tR92stbrrBR"
     },
     {
       "added_at": "2024-03-13 08:19:05",
@@ -1199,6 +1199,26 @@
     {
       "added_at": "2024-03-13 08:19:05",
       "album": {
+        "name": "MIRAN",
+        "url": "https://open.spotify.com/album/34XaofZcShdwBM50sAHuHc"
+      },
+      "artists": [
+        {
+          "name": "Sinan Yalcin",
+          "url": "https://open.spotify.com/artist/03ZkvOyphjIMDashA29QiW"
+        },
+        {
+          "name": "Roni Violinist",
+          "url": "https://open.spotify.com/artist/0tRALyUvYQiXuvDEtBO2cf"
+        }
+      ],
+      "duration_ms": 129145,
+      "name": "MIRAN",
+      "url": "https://open.spotify.com/track/0BNNBoE8D33k7jjSExYbUI"
+    },
+    {
+      "added_at": "2024-03-13 08:19:05",
+      "album": {
         "name": "Prophecies of the Ancient Future",
         "url": "https://open.spotify.com/album/1KQT7GzCu1bnpRnTPyMvbH"
       },
@@ -1219,22 +1239,18 @@
     {
       "added_at": "2024-03-13 08:19:05",
       "album": {
-        "name": "MIRAN",
-        "url": "https://open.spotify.com/album/34XaofZcShdwBM50sAHuHc"
+        "name": "Kun",
+        "url": "https://open.spotify.com/album/3rw9RPwHJzrlvHstzytg6D"
       },
       "artists": [
         {
-          "name": "Sinan Yalcin",
-          "url": "https://open.spotify.com/artist/03ZkvOyphjIMDashA29QiW"
-        },
-        {
-          "name": "Roni Violinist",
-          "url": "https://open.spotify.com/artist/0tRALyUvYQiXuvDEtBO2cf"
+          "name": "Hisham Kharma",
+          "url": "https://open.spotify.com/artist/5kaRV3SU3XXy1q2CsLOfIl"
         }
       ],
-      "duration_ms": 129145,
-      "name": "MIRAN",
-      "url": "https://open.spotify.com/track/0BNNBoE8D33k7jjSExYbUI"
+      "duration_ms": 314336,
+      "name": "Marrakech",
+      "url": "https://open.spotify.com/track/479rGHKvQHAT18qCWR8Hvn"
     },
     {
       "added_at": "2024-03-13 08:19:05",
@@ -1263,18 +1279,22 @@
     {
       "added_at": "2024-03-13 08:19:05",
       "album": {
-        "name": "Kun",
-        "url": "https://open.spotify.com/album/3rw9RPwHJzrlvHstzytg6D"
+        "name": "Letters",
+        "url": "https://open.spotify.com/album/5Rqz7SWCbh3bZ5ny8tN36t"
       },
       "artists": [
         {
-          "name": "Hisham Kharma",
-          "url": "https://open.spotify.com/artist/5kaRV3SU3XXy1q2CsLOfIl"
+          "name": "Shkoon",
+          "url": "https://open.spotify.com/artist/3CdsJ9u53uPu3dScKypLVv"
+        },
+        {
+          "name": "JAVID",
+          "url": "https://open.spotify.com/artist/6rcpZJj6qCAAYEqbDR7oif"
         }
       ],
-      "duration_ms": 314336,
-      "name": "Marrakech",
-      "url": "https://open.spotify.com/track/479rGHKvQHAT18qCWR8Hvn"
+      "duration_ms": 551025,
+      "name": "Ala Moj Al Bahr - Javid Remix",
+      "url": "https://open.spotify.com/track/5l4PuZcYTIpFPpzPdfdSlj"
     },
     {
       "added_at": "2024-03-13 08:19:05",
@@ -1303,26 +1323,6 @@
     {
       "added_at": "2024-03-13 08:19:05",
       "album": {
-        "name": "Letters",
-        "url": "https://open.spotify.com/album/5Rqz7SWCbh3bZ5ny8tN36t"
-      },
-      "artists": [
-        {
-          "name": "Shkoon",
-          "url": "https://open.spotify.com/artist/3CdsJ9u53uPu3dScKypLVv"
-        },
-        {
-          "name": "JAVID",
-          "url": "https://open.spotify.com/artist/6rcpZJj6qCAAYEqbDR7oif"
-        }
-      ],
-      "duration_ms": 551025,
-      "name": "Ala Moj Al Bahr - Javid Remix",
-      "url": "https://open.spotify.com/track/5l4PuZcYTIpFPpzPdfdSlj"
-    },
-    {
-      "added_at": "2024-03-13 08:19:05",
-      "album": {
         "name": "Sireli",
         "url": "https://open.spotify.com/album/3Pi3XDOXZLo1ZPUEiMceTk"
       },
@@ -1335,6 +1335,22 @@
       "duration_ms": 381818,
       "name": "Souq",
       "url": "https://open.spotify.com/track/0siPnJlxtppFRimIQs2jG0"
+    },
+    {
+      "added_at": "2024-03-13 08:19:05",
+      "album": {
+        "name": "Arabic Nights",
+        "url": "https://open.spotify.com/album/3lHALolj2LuRFOlltZHPap"
+      },
+      "artists": [
+        {
+          "name": "Mehdi Yakin",
+          "url": "https://open.spotify.com/artist/7fM7sc43IBD02ajJepUag1"
+        }
+      ],
+      "duration_ms": 165333,
+      "name": "Arabic Nights",
+      "url": "https://open.spotify.com/track/1kPOCklYVwTWknsNoUcxkB"
     },
     {
       "added_at": "2024-03-13 08:19:05",
@@ -1355,22 +1371,6 @@
       "duration_ms": 139415,
       "name": "Sakaratou Achiqin",
       "url": "https://open.spotify.com/track/35F8IkWdNjmWyDYWWMeVRb"
-    },
-    {
-      "added_at": "2024-03-13 08:19:05",
-      "album": {
-        "name": "Arabic Nights",
-        "url": "https://open.spotify.com/album/3lHALolj2LuRFOlltZHPap"
-      },
-      "artists": [
-        {
-          "name": "Mehdi Yakin",
-          "url": "https://open.spotify.com/artist/7fM7sc43IBD02ajJepUag1"
-        }
-      ],
-      "duration_ms": 165333,
-      "name": "Arabic Nights",
-      "url": "https://open.spotify.com/track/1kPOCklYVwTWknsNoUcxkB"
     },
     {
       "added_at": "2024-03-13 08:19:05",
@@ -1411,26 +1411,6 @@
     {
       "added_at": "2024-03-13 08:19:05",
       "album": {
-        "name": "3ala bali",
-        "url": "https://open.spotify.com/album/5aO9m9qYapKXLtOIWQPwj5"
-      },
-      "artists": [
-        {
-          "name": "Obeidmusic",
-          "url": "https://open.spotify.com/artist/3kW6Vte9jUSL600uy9qsks"
-        },
-        {
-          "name": "Pamela Antoun",
-          "url": "https://open.spotify.com/artist/68gE2RqxSG5FlbLan5voiN"
-        }
-      ],
-      "duration_ms": 210132,
-      "name": "3ala bali",
-      "url": "https://open.spotify.com/track/3qLyA3AChnCW7nsX8f6SOo"
-    },
-    {
-      "added_at": "2024-03-13 08:19:05",
-      "album": {
         "name": "CEWRESAMIN",
         "url": "https://open.spotify.com/album/6VcbjdUGUj4Ch0RixouL1Q"
       },
@@ -1447,6 +1427,26 @@
       "duration_ms": 136000,
       "name": "Cewresamin",
       "url": "https://open.spotify.com/track/30YM9AjfdziE1QJFnKKdLU"
+    },
+    {
+      "added_at": "2024-03-13 08:19:05",
+      "album": {
+        "name": "3ala bali",
+        "url": "https://open.spotify.com/album/5aO9m9qYapKXLtOIWQPwj5"
+      },
+      "artists": [
+        {
+          "name": "Obeidmusic",
+          "url": "https://open.spotify.com/artist/3kW6Vte9jUSL600uy9qsks"
+        },
+        {
+          "name": "Pamela Antoun",
+          "url": "https://open.spotify.com/artist/68gE2RqxSG5FlbLan5voiN"
+        }
+      ],
+      "duration_ms": 210132,
+      "name": "3ala bali",
+      "url": "https://open.spotify.com/track/3qLyA3AChnCW7nsX8f6SOo"
     },
     {
       "added_at": "2024-03-13 08:19:05",
@@ -1511,22 +1511,6 @@
     {
       "added_at": "2024-03-13 08:19:05",
       "album": {
-        "name": "Letting Go",
-        "url": "https://open.spotify.com/album/1IKDDxUoTJsEkqkHV6VvM4"
-      },
-      "artists": [
-        {
-          "name": "H.A.Z.E",
-          "url": "https://open.spotify.com/artist/3fNIlM0jHaoyX2V05nYTgh"
-        }
-      ],
-      "duration_ms": 208695,
-      "name": "Letting Go - Radio Edit",
-      "url": "https://open.spotify.com/track/13ZVXJtXmCBZa41ikye5Lt"
-    },
-    {
-      "added_at": "2024-03-13 08:19:05",
-      "album": {
         "name": "Mosaic",
         "url": "https://open.spotify.com/album/2LNv8cym3j0pdJ8IqXqPyE"
       },
@@ -1539,6 +1523,22 @@
       "duration_ms": 196800,
       "name": "Mosaic",
       "url": "https://open.spotify.com/track/2pmAL5D3zml837nGeFOJly"
+    },
+    {
+      "added_at": "2024-03-13 08:19:05",
+      "album": {
+        "name": "Letting Go",
+        "url": "https://open.spotify.com/album/1IKDDxUoTJsEkqkHV6VvM4"
+      },
+      "artists": [
+        {
+          "name": "H.A.Z.E",
+          "url": "https://open.spotify.com/artist/3fNIlM0jHaoyX2V05nYTgh"
+        }
+      ],
+      "duration_ms": 208695,
+      "name": "Letting Go - Radio Edit",
+      "url": "https://open.spotify.com/track/13ZVXJtXmCBZa41ikye5Lt"
     },
     {
       "added_at": "2024-03-13 08:19:05",
@@ -1571,6 +1571,22 @@
     {
       "added_at": "2024-03-13 08:19:05",
       "album": {
+        "name": "Mektup",
+        "url": "https://open.spotify.com/album/5UEQORYi2EzSo38FaEzQij"
+      },
+      "artists": [
+        {
+          "name": "ilkan Muslu",
+          "url": "https://open.spotify.com/artist/3tU2vh0n0CMrNvVkvh4Lxv"
+        }
+      ],
+      "duration_ms": 212615,
+      "name": "Askim",
+      "url": "https://open.spotify.com/track/1g1TCruAEc8W77EyhRFF1z"
+    },
+    {
+      "added_at": "2024-03-13 08:19:05",
+      "album": {
         "name": "Ksser Essouk",
         "url": "https://open.spotify.com/album/7M417Jdy4vajdT6g3vzZkh"
       },
@@ -1587,22 +1603,6 @@
       "duration_ms": 326557,
       "name": "Ksser Essouk",
       "url": "https://open.spotify.com/track/7KvO7oemAp4ZXNawhYCdIF"
-    },
-    {
-      "added_at": "2024-03-13 08:19:05",
-      "album": {
-        "name": "Mektup",
-        "url": "https://open.spotify.com/album/5UEQORYi2EzSo38FaEzQij"
-      },
-      "artists": [
-        {
-          "name": "ilkan Muslu",
-          "url": "https://open.spotify.com/artist/3tU2vh0n0CMrNvVkvh4Lxv"
-        }
-      ],
-      "duration_ms": 212615,
-      "name": "Askim",
-      "url": "https://open.spotify.com/track/1g1TCruAEc8W77EyhRFF1z"
     },
     {
       "added_at": "2024-03-13 08:19:05",

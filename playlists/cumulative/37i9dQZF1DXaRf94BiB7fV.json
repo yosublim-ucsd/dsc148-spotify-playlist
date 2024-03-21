@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "The best new music by independent artists and labels in India. Cover: GXRNOOR, Artwork: Isu Kim",
+  "description": "The best new music by independent artists and labels in India. Cover: Rudra The Band, Artwork: Isu Kim",
   "name": "Fresh Finds India",
   "tracks": [
     {
@@ -321,6 +321,24 @@
     },
     {
       "album": {
+        "name": "Aaine Mein",
+        "url": "https://open.spotify.com/album/4IEzWwqGIuLAG3Sj93xaEr"
+      },
+      "artists": [
+        {
+          "name": "R\u00ed An Yush",
+          "url": "https://open.spotify.com/artist/3tUJu7taiI9vjSgYyT1Roj"
+        }
+      ],
+      "date_added": "2024-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223899,
+      "name": "Aaine Mein",
+      "url": "https://open.spotify.com/track/6WdsPvrRjjLyNi0kB9vDgB"
+    },
+    {
+      "album": {
         "name": "Aaja",
         "url": "https://open.spotify.com/album/15oUhgmxpbbIVt3M2t3tAP"
       },
@@ -390,7 +408,7 @@
       ],
       "date_added": "2023-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-21",
       "duration_ms": 234496,
       "name": "Aangan",
       "url": "https://open.spotify.com/track/5NL2lAydNGqvlmcg3XF63D"
@@ -3823,6 +3841,32 @@
     },
     {
       "album": {
+        "name": "Confession",
+        "url": "https://open.spotify.com/album/6QKei3J6xuFED5ct1YyYHj"
+      },
+      "artists": [
+        {
+          "name": "Sahil Sanon",
+          "url": "https://open.spotify.com/artist/2tw9231JUSuZPPdjzgGi4y"
+        },
+        {
+          "name": "Vaishnavi Mishra",
+          "url": "https://open.spotify.com/artist/6e9ILhRy8CbAlNjjih7FLj"
+        },
+        {
+          "name": "Jaya Nandi",
+          "url": "https://open.spotify.com/artist/3gvnV8yKKUrKRO1ul2Afg8"
+        }
+      ],
+      "date_added": "2024-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195000,
+      "name": "Confession",
+      "url": "https://open.spotify.com/track/6Zz07IfPSUCmHIirf2r4aX"
+    },
+    {
+      "album": {
         "name": "Confide",
         "url": "https://open.spotify.com/album/0hYbx3z1wbIdgrSxmRBkhL"
       },
@@ -4338,6 +4382,28 @@
       "duration_ms": 241054,
       "name": "Dhun",
       "url": "https://open.spotify.com/track/1PYV3TA7E1elt9AFcQmOIZ"
+    },
+    {
+      "album": {
+        "name": "Diana",
+        "url": "https://open.spotify.com/album/4V59Ls4Cy5H2UvWEjxnhv0"
+      },
+      "artists": [
+        {
+          "name": "Derek & The Cats",
+          "url": "https://open.spotify.com/artist/1c05tPqGrM6uVvYTzYySW2"
+        },
+        {
+          "name": "Frizzell D'souza",
+          "url": "https://open.spotify.com/artist/17j8WfojaUlIDrnDG7IfIQ"
+        }
+      ],
+      "date_added": "2024-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246022,
+      "name": "Diana",
+      "url": "https://open.spotify.com/track/2EBvWkB4H1BIqiAfbiPnWX"
     },
     {
       "album": {
@@ -5118,6 +5184,24 @@
       "duration_ms": 178000,
       "name": "Drunk on Passion",
       "url": "https://open.spotify.com/track/18wCMBPAr6OUBpPoh4nYBa"
+    },
+    {
+      "album": {
+        "name": "Dry Bones",
+        "url": "https://open.spotify.com/album/3llSNOKXd3Fd9v81Z4V0VQ"
+      },
+      "artists": [
+        {
+          "name": "Jason G Momin",
+          "url": "https://open.spotify.com/artist/13gaLTukYVHypLjuJdHxEW"
+        }
+      ],
+      "date_added": "2024-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199471,
+      "name": "Dry Bones",
+      "url": "https://open.spotify.com/track/2UeH7pmJkFUskn9YLo6sef"
     },
     {
       "album": {
@@ -7559,6 +7643,24 @@
     },
     {
       "album": {
+        "name": "Humsafar",
+        "url": "https://open.spotify.com/album/5bMPgMjeFLzBmXTu8UkBum"
+      },
+      "artists": [
+        {
+          "name": "Rudra",
+          "url": "https://open.spotify.com/artist/5EO6SxkYfoyhOFwfy9HEUq"
+        }
+      ],
+      "date_added": "2024-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162311,
+      "name": "Humsafar",
+      "url": "https://open.spotify.com/track/516SWZ5y1twlrP0IYDGPk0"
+    },
+    {
+      "album": {
         "name": "Hurricane",
         "url": "https://open.spotify.com/album/1GZEWfnH5QEckY9ocOiUAA"
       },
@@ -8448,6 +8550,24 @@
       "duration_ms": 192991,
       "name": "Isharon Isharon Mein",
       "url": "https://open.spotify.com/track/73yD7HDsqBA4bgBbGmPLh0"
+    },
+    {
+      "album": {
+        "name": "Ishq-e-Haqiqi",
+        "url": "https://open.spotify.com/album/3GQyTyprZy79wTmZhrj3RU"
+      },
+      "artists": [
+        {
+          "name": "Annie Ahluwalia",
+          "url": "https://open.spotify.com/artist/05K8h7cidaFrQ33vhu6IZ0"
+        }
+      ],
+      "date_added": "2024-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 68965,
+      "name": "Ishq-e-Haqiqi",
+      "url": "https://open.spotify.com/track/21bTOWwvNmAWBqc5qIYuBp"
     },
     {
       "album": {
@@ -10062,7 +10182,7 @@
       ],
       "date_added": "2023-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-21",
       "duration_ms": 184138,
       "name": "Kaise Kahein",
       "url": "https://open.spotify.com/track/4X5DgGXjlkHszdFcYlFzdY"
@@ -10564,7 +10684,7 @@
       ],
       "date_added": "2023-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-21",
       "duration_ms": 133565,
       "name": "Kho Na Jau",
       "url": "https://open.spotify.com/track/0ZOkSHrdY7KQl9gzAp1gul"
@@ -11086,7 +11206,7 @@
       ],
       "date_added": "2023-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-21",
       "duration_ms": 177999,
       "name": "Koi Matlab Nahi",
       "url": "https://open.spotify.com/track/44UJTphbSUJX2K7Ba6KBtm"
@@ -11140,7 +11260,7 @@
       ],
       "date_added": "2023-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-21",
       "duration_ms": 113076,
       "name": "Kuch Toh Hai Baat",
       "url": "https://open.spotify.com/track/1yWVEpoyEvr32KAQbkWJXG"
@@ -11252,6 +11372,24 @@
       "duration_ms": 210098,
       "name": "Kya Hua Kya Pata",
       "url": "https://open.spotify.com/track/4xfvc72IJlT6R85IQrksWn"
+    },
+    {
+      "album": {
+        "name": "Kya Kehne",
+        "url": "https://open.spotify.com/album/6EbhIGXHJ339Bam9e4GlbR"
+      },
+      "artists": [
+        {
+          "name": "Aakash Aman",
+          "url": "https://open.spotify.com/artist/0QO3f7rvsqC3tw1KnHu8oK"
+        }
+      ],
+      "date_added": "2024-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123074,
+      "name": "Kya Kehne",
+      "url": "https://open.spotify.com/track/0mz8Nf2TKR2TuONc4mTXMc"
     },
     {
       "album": {
@@ -12238,7 +12376,7 @@
       ],
       "date_added": "2023-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-21",
       "duration_ms": 203389,
       "name": "Main Awara",
       "url": "https://open.spotify.com/track/73n0BOjhAwenbyx0gwDuSE"
@@ -12304,6 +12442,24 @@
       "duration_ms": 193340,
       "name": "Main Tera Hoon",
       "url": "https://open.spotify.com/track/2u2BKrloT2ozHTnGVFcGot"
+    },
+    {
+      "album": {
+        "name": "Main Tera Hua",
+        "url": "https://open.spotify.com/album/2elzMVABTFz4y6aRSruk6n"
+      },
+      "artists": [
+        {
+          "name": "Hrishi Pandey",
+          "url": "https://open.spotify.com/artist/1Zhr0NKRQxgj1raxy40Kqz"
+        }
+      ],
+      "date_added": "2024-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227554,
+      "name": "Main Tera Hua",
+      "url": "https://open.spotify.com/track/3C2g1kUvdtIcMFvjsCYMcl"
     },
     {
       "album": {
@@ -13004,7 +13160,7 @@
       ],
       "date_added": "2023-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-21",
       "duration_ms": 181814,
       "name": "Mere Hisse Ki Mohabbat",
       "url": "https://open.spotify.com/track/4ymouXtq1hPh9vYuNfawqm"
@@ -16329,6 +16485,24 @@
     },
     {
       "album": {
+        "name": "Rubaru",
+        "url": "https://open.spotify.com/album/30adbnqe8eWUmnzcwBjF5V"
+      },
+      "artists": [
+        {
+          "name": "Roshan Bhat",
+          "url": "https://open.spotify.com/artist/21qGWaUNzb7MiK33Gvmm0T"
+        }
+      ],
+      "date_added": "2024-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155181,
+      "name": "Rubaru",
+      "url": "https://open.spotify.com/track/1vJM5IFfutuaoHovMbqcWB"
+    },
+    {
+      "album": {
         "name": "Run",
         "url": "https://open.spotify.com/album/27HoiSk2WkvraY0c3pxKlW"
       },
@@ -17162,7 +17336,7 @@
       ],
       "date_added": "2023-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-21",
       "duration_ms": 226105,
       "name": "SAVERA",
       "url": "https://open.spotify.com/track/3sLVQHa6ivHL6eXO2N5NTw"
@@ -19936,7 +20110,7 @@
       ],
       "date_added": "2023-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-21",
       "duration_ms": 136470,
       "name": "Tu Kahe Toh (feat. Nolan Santo)",
       "url": "https://open.spotify.com/track/0eCVQoYH5nTFgmmjQqsJmG"

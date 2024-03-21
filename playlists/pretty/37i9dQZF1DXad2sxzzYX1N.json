@@ -1,12 +1,12 @@
 {
   "description": "The indie viral hits you can't escape. Cover: Djo ",
-  "num_followers": 216308,
+  "num_followers": 220733,
   "original_name": "Indie that hits different ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiMThiMjkzMDg0MjI3N2QyODU2ZjVhY2QxN2FjODk3YjE0YTkwMzIw",
+  "snapshot_id": "MCxlZGNmYWMwYzM5ODk0ZjljOTEzNGI0ODE0MzhmMmNiN2NmZjk5MGRm",
   "tracks": [
     {
       "added_at": "2024-03-14 15:36:47",
@@ -75,6 +75,22 @@
     {
       "added_at": "2024-03-14 15:36:47",
       "album": {
+        "name": "Scared To Start",
+        "url": "https://open.spotify.com/album/3NpeIWhWsxU7d3XL5KEh39"
+      },
+      "artists": [
+        {
+          "name": "Michael Marcagi",
+          "url": "https://open.spotify.com/artist/4j96cMcT8GRi11qbvo1cLQ"
+        }
+      ],
+      "duration_ms": 159636,
+      "name": "Scared To Start",
+      "url": "https://open.spotify.com/track/3Pbp7cUCx4d3OAkZSCoNvn"
+    },
+    {
+      "added_at": "2024-03-14 15:36:47",
+      "album": {
         "name": "I Love You.",
         "url": "https://open.spotify.com/album/4xkM0BwLM9H2IUcbYzpcBI"
       },
@@ -89,20 +105,20 @@
       "url": "https://open.spotify.com/track/2QjOHCTQ1Jl3zawyYOpxh6"
     },
     {
-      "added_at": "2024-03-14 15:36:47",
+      "added_at": "2024-03-20 15:12:58",
       "album": {
-        "name": "Scared To Start",
-        "url": "https://open.spotify.com/album/3NpeIWhWsxU7d3XL5KEh39"
+        "name": "Coastal Grooves",
+        "url": "https://open.spotify.com/album/5U2cyX2FRa8CjzdMpqZNJl"
       },
       "artists": [
         {
-          "name": "Michael Marcagi",
-          "url": "https://open.spotify.com/artist/4j96cMcT8GRi11qbvo1cLQ"
+          "name": "Blood Orange",
+          "url": "https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR"
         }
       ],
-      "duration_ms": 159636,
-      "name": "Scared To Start",
-      "url": "https://open.spotify.com/track/3Pbp7cUCx4d3OAkZSCoNvn"
+      "duration_ms": 292373,
+      "name": "Champagne Coast",
+      "url": "https://open.spotify.com/track/2KufM8PiQY4i52XhRL96Fd"
     },
     {
       "added_at": "2024-03-14 15:36:47",
@@ -139,22 +155,6 @@
     {
       "added_at": "2024-03-14 15:36:47",
       "album": {
-        "name": "Romantic Homicide",
-        "url": "https://open.spotify.com/album/4B3FsNFguOEJ4TWEsct83B"
-      },
-      "artists": [
-        {
-          "name": "d4vd",
-          "url": "https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32"
-        }
-      ],
-      "duration_ms": 132630,
-      "name": "Romantic Homicide",
-      "url": "https://open.spotify.com/track/1xK59OXxi2TAAAbmZK0kBL"
-    },
-    {
-      "added_at": "2024-03-14 15:36:47",
-      "album": {
         "name": "Beanie",
         "url": "https://open.spotify.com/album/5DOW77U35s1Sc7oepYqymZ"
       },
@@ -171,18 +171,18 @@
     {
       "added_at": "2024-03-14 15:36:47",
       "album": {
-        "name": "we fell in love in october / October Passed Me By",
-        "url": "https://open.spotify.com/album/7vud0sY43VTv28MbWiglDa"
+        "name": "Romantic Homicide",
+        "url": "https://open.spotify.com/album/4B3FsNFguOEJ4TWEsct83B"
       },
       "artists": [
         {
-          "name": "girl in red",
-          "url": "https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9"
+          "name": "d4vd",
+          "url": "https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32"
         }
       ],
-      "duration_ms": 184153,
-      "name": "we fell in love in october",
-      "url": "https://open.spotify.com/track/6IPwKM3fUUzlElbvKw2sKl"
+      "duration_ms": 132630,
+      "name": "Romantic Homicide",
+      "url": "https://open.spotify.com/track/1xK59OXxi2TAAAbmZK0kBL"
     },
     {
       "added_at": "2024-03-14 15:36:47",
@@ -203,34 +203,18 @@
     {
       "added_at": "2024-03-14 15:36:47",
       "album": {
-        "name": "Everybody Else Is Doing It, So Why Can't We?",
-        "url": "https://open.spotify.com/album/0AP5O47kJWlaKVnnybKvQI"
+        "name": "we fell in love in october / October Passed Me By",
+        "url": "https://open.spotify.com/album/7vud0sY43VTv28MbWiglDa"
       },
       "artists": [
         {
-          "name": "The Cranberries",
-          "url": "https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9"
+          "name": "girl in red",
+          "url": "https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9"
         }
       ],
-      "duration_ms": 274706,
-      "name": "Linger",
-      "url": "https://open.spotify.com/track/0gEyKnHvgkrkBM6fbeHdwK"
-    },
-    {
-      "added_at": "2024-03-14 15:36:47",
-      "album": {
-        "name": "Death of a Party Girl",
-        "url": "https://open.spotify.com/album/5kFjYk3umY8Pu1lymIJLVy"
-      },
-      "artists": [
-        {
-          "name": "TV Girl",
-          "url": "https://open.spotify.com/artist/0Y6dVaC9DZtPNH4591M42W"
-        }
-      ],
-      "duration_ms": 217000,
-      "name": "Blue Hair",
-      "url": "https://open.spotify.com/track/39sDitIeCMrVX2QyXHY46t"
+      "duration_ms": 184153,
+      "name": "we fell in love in october",
+      "url": "https://open.spotify.com/track/6IPwKM3fUUzlElbvKw2sKl"
     },
     {
       "added_at": "2024-03-14 15:36:47",
@@ -251,6 +235,22 @@
     {
       "added_at": "2024-03-14 15:36:47",
       "album": {
+        "name": "Everybody Else Is Doing It, So Why Can't We?",
+        "url": "https://open.spotify.com/album/0AP5O47kJWlaKVnnybKvQI"
+      },
+      "artists": [
+        {
+          "name": "The Cranberries",
+          "url": "https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9"
+        }
+      ],
+      "duration_ms": 274706,
+      "name": "Linger",
+      "url": "https://open.spotify.com/track/0gEyKnHvgkrkBM6fbeHdwK"
+    },
+    {
+      "added_at": "2024-03-14 15:36:47",
+      "album": {
         "name": "Here Comes The Cowboy",
         "url": "https://open.spotify.com/album/67PsnkYVPNpEsZffyTWGgW"
       },
@@ -263,6 +263,22 @@
       "duration_ms": 211140,
       "name": "Heart To Heart",
       "url": "https://open.spotify.com/track/7EAMXbLcL0qXmciM5SwMh2"
+    },
+    {
+      "added_at": "2024-03-14 15:36:47",
+      "album": {
+        "name": "Death of a Party Girl",
+        "url": "https://open.spotify.com/album/5kFjYk3umY8Pu1lymIJLVy"
+      },
+      "artists": [
+        {
+          "name": "TV Girl",
+          "url": "https://open.spotify.com/artist/0Y6dVaC9DZtPNH4591M42W"
+        }
+      ],
+      "duration_ms": 217000,
+      "name": "Blue Hair",
+      "url": "https://open.spotify.com/track/39sDitIeCMrVX2QyXHY46t"
     },
     {
       "added_at": "2024-03-14 15:36:47",
@@ -323,22 +339,6 @@
     {
       "added_at": "2024-03-14 15:36:47",
       "album": {
-        "name": "Based On A True Story...",
-        "url": "https://open.spotify.com/album/6I5Pf71uQzQC0IcJOrh8Rz"
-      },
-      "artists": [
-        {
-          "name": "New West",
-          "url": "https://open.spotify.com/artist/69bG9tC62d8oTFC9aTTosn"
-        }
-      ],
-      "duration_ms": 220750,
-      "name": "Those Eyes",
-      "url": "https://open.spotify.com/track/2psRActEWsTlYYd7EDoyVR"
-    },
-    {
-      "added_at": "2024-03-14 15:36:47",
-      "album": {
         "name": "Pineapple Sunrise",
         "url": "https://open.spotify.com/album/7gA8QSNSZvHUYC9feFpeLj"
       },
@@ -351,6 +351,22 @@
       "duration_ms": 196784,
       "name": "Sex, Drugs, Etc.",
       "url": "https://open.spotify.com/track/7MlDNspYwfqnHxORufupwq"
+    },
+    {
+      "added_at": "2024-03-14 15:36:47",
+      "album": {
+        "name": "Based On A True Story...",
+        "url": "https://open.spotify.com/album/6I5Pf71uQzQC0IcJOrh8Rz"
+      },
+      "artists": [
+        {
+          "name": "New West",
+          "url": "https://open.spotify.com/artist/69bG9tC62d8oTFC9aTTosn"
+        }
+      ],
+      "duration_ms": 220750,
+      "name": "Those Eyes",
+      "url": "https://open.spotify.com/track/2psRActEWsTlYYd7EDoyVR"
     },
     {
       "added_at": "2024-03-14 15:36:47",
@@ -679,22 +695,6 @@
     {
       "added_at": "2024-03-14 15:36:47",
       "album": {
-        "name": "Deeper Well",
-        "url": "https://open.spotify.com/album/2NXiMKrwmPrqU8epp20pW8"
-      },
-      "artists": [
-        {
-          "name": "Kacey Musgraves",
-          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
-        }
-      ],
-      "duration_ms": 232133,
-      "name": "Deeper Well",
-      "url": "https://open.spotify.com/track/2lJn77IeZAP9cmv6DPXOrL"
-    },
-    {
-      "added_at": "2024-03-14 15:36:47",
-      "album": {
         "name": "2 days into college",
         "url": "https://open.spotify.com/album/1RzErf193ngBH4DRAFZvz3"
       },
@@ -727,6 +727,22 @@
     {
       "added_at": "2024-03-14 15:36:47",
       "album": {
+        "name": "Vampire Empire",
+        "url": "https://open.spotify.com/album/2Msefc9DYHFMTNY6zuCOIm"
+      },
+      "artists": [
+        {
+          "name": "Big Thief",
+          "url": "https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ"
+        }
+      ],
+      "duration_ms": 192127,
+      "name": "Vampire Empire",
+      "url": "https://open.spotify.com/track/0ToG55iJZCOzZkcpWbXxpW"
+    },
+    {
+      "added_at": "2024-03-14 15:36:47",
+      "album": {
         "name": "Treehouse",
         "url": "https://open.spotify.com/album/6bkxg2HCORFlB0akEfqJvY"
       },
@@ -743,22 +759,6 @@
       "duration_ms": 158801,
       "name": "Treehouse",
       "url": "https://open.spotify.com/track/7fyG2MquxykO3Ufiku1Dj2"
-    },
-    {
-      "added_at": "2024-03-14 15:36:47",
-      "album": {
-        "name": "Vampire Empire",
-        "url": "https://open.spotify.com/album/2Msefc9DYHFMTNY6zuCOIm"
-      },
-      "artists": [
-        {
-          "name": "Big Thief",
-          "url": "https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ"
-        }
-      ],
-      "duration_ms": 192127,
-      "name": "Vampire Empire",
-      "url": "https://open.spotify.com/track/0ToG55iJZCOzZkcpWbXxpW"
     },
     {
       "added_at": "2024-03-14 15:36:47",
@@ -795,22 +795,6 @@
     {
       "added_at": "2024-03-14 15:36:47",
       "album": {
-        "name": "I Can't Handle Change",
-        "url": "https://open.spotify.com/album/42vd9Cgr89pjb0Jipvaj5d"
-      },
-      "artists": [
-        {
-          "name": "Roar",
-          "url": "https://open.spotify.com/artist/7dIpKWlEeAljA20vFJ82RD"
-        }
-      ],
-      "duration_ms": 135693,
-      "name": "Christmas Kids",
-      "url": "https://open.spotify.com/track/40gk32E7YaTFoQwDIWv2SY"
-    },
-    {
-      "added_at": "2024-03-14 15:36:47",
-      "album": {
         "name": "Nothing Matters",
         "url": "https://open.spotify.com/album/2YSFu2hX0S6fnXlaeqLhP3"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 181750,
       "name": "Nothing Matters",
       "url": "https://open.spotify.com/track/3p84R45PM75ngq8XRoe45o"
+    },
+    {
+      "added_at": "2024-03-14 15:36:47",
+      "album": {
+        "name": "Sunburn",
+        "url": "https://open.spotify.com/album/2T7LuxZRr6SQMgABLtoYTH"
+      },
+      "artists": [
+        {
+          "name": "Dominic Fike",
+          "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
+        }
+      ],
+      "duration_ms": 155721,
+      "name": "Mama's Boy",
+      "url": "https://open.spotify.com/track/0b6xZk9f96N77BfmYWnQNC"
     }
   ],
   "unique_name": "Indie that hits different ",

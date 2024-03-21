@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV6hddfqLW3Z.md) - [plain]
 
 > Pegue seu café, ache um bom lugar para sentar, ajuste seu fone de ouvido e aproveite o momento.
 
-[Spotify](https://open.spotify.com/user/spotify) - 796,239 likes - 70 songs - 4 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 796,260 likes - 70 songs - 4 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV6hddfqLW3Z.md) - [plain]
 | 35 | [Se fosse tão fácil \- Acústico](https://open.spotify.com/track/4IuWJzJRVZyyjyxcDdzpaE) | [MAR ABERTO](https://open.spotify.com/artist/2PK9pWPbpzjPDM2HVR1NEO) | [Se fosse tão fácil \(Acústico\)](https://open.spotify.com/album/7JdKZ7Ve0q242f1ljpi4c9) | 3:18 |
 | 36 | [Paciência](https://open.spotify.com/track/6gBlkT2u5P7UyZUYH8WnKz) | [Lenine](https://open.spotify.com/artist/4YLBdrR3DVSMncm785NH6C) | [Na Pressão](https://open.spotify.com/album/18gEdE7EJMpVeBCSDZgOdG) | 4:44 |
 | 37 | [Apesar de Querer](https://open.spotify.com/track/6MbwzsouKfv44jkE6eA4j9) | [Rodrigo Alarcon](https://open.spotify.com/artist/6D3gtdoxrtRGO9ZDU5wWSQ), [Abacaxepa](https://open.spotify.com/artist/37YBTVhchsMr6ekdUHEKRy) | [Apesar de Querer](https://open.spotify.com/album/0ErKcgeiea7yFFpyBvXIpb) | 4:04 |
-| 38 | [Voce E Linda \- Remixed Original Album](https://open.spotify.com/track/0hQbovQO5Cui5Imze8Q3oo) | [Caetano Veloso](https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ) | [Uns](https://open.spotify.com/album/4UOAwKUc79FtTSK6NmRFB3) | 4:52 |
-| 39 | [Um dia de domingo](https://open.spotify.com/track/4Hnc4ewhudTuDkXiyZ39Vm) | [Lucas Mamede](https://open.spotify.com/artist/6pbg3DywWNPejXsXkx3iKD), [ANAVITÓRIA](https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe) | [Um dia de domingo](https://open.spotify.com/album/6UsutqrIyl5NVGoP4i4hoz) | 4:11 |
+| 38 | [Um dia de domingo](https://open.spotify.com/track/4Hnc4ewhudTuDkXiyZ39Vm) | [Lucas Mamede](https://open.spotify.com/artist/6pbg3DywWNPejXsXkx3iKD), [ANAVITÓRIA](https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe) | [Um dia de domingo](https://open.spotify.com/album/6UsutqrIyl5NVGoP4i4hoz) | 4:11 |
+| 39 | [Voce E Linda \- Remixed Original Album](https://open.spotify.com/track/0hQbovQO5Cui5Imze8Q3oo) | [Caetano Veloso](https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ) | [Uns](https://open.spotify.com/album/4UOAwKUc79FtTSK6NmRFB3) | 4:52 |
 | 40 | [Ninguém](https://open.spotify.com/track/5O4lp65sEWenlviCdYdeOG) | [Fran](https://open.spotify.com/artist/1vrYVHeXLynVOgRmAxzHq1), [Chico Chico](https://open.spotify.com/artist/3mVWRyXgs9GEWLsgknbh9s) | [Onde?](https://open.spotify.com/album/0aCbmQd7EYBXzOVCVaXbeS) | 3:10 |
 | 41 | [Brasil pandeiro](https://open.spotify.com/track/4IIK7KvWCTSkVVRufxyh3d) | [Novos Baianos](https://open.spotify.com/artist/2ohBjgFT9V0LRDWO2wF9DJ) | [Enciclopédia Musical Brasileira](https://open.spotify.com/album/1RBORtbwQzlPBgcYXErnZz) | 3:55 |
 | 42 | [Algo Parecido](https://open.spotify.com/track/1xd17oTRJ5sFIHySHLnad9) | [Skank](https://open.spotify.com/artist/4C4kpaAdp6aKSkguw40SsU) | [Algo Parecido](https://open.spotify.com/album/4xujhMVqrfeMvtt4SV8QIb) | 3:45 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV6hddfqLW3Z.md) - [plain]
 | 69 | [Quase Sem Querer](https://open.spotify.com/track/0dPfujTAOWHFvAef50QvGi) | [Roberta Campos](https://open.spotify.com/artist/5CC2At3k0Xnyc5s9yHdyax) | [Quase Sem Querer](https://open.spotify.com/album/5v12mn6fKImJjZR9D3QZME) | 3:36 |
 | 70 | [Reconvexo \- Ao Vivo](https://open.spotify.com/track/1yiQ58cQrQH2xLF2AuvFq2) | [Caetano Veloso](https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ) | [Ofertório \(Ao Vivo\)](https://open.spotify.com/album/3PlAbFQa9MEymxTgQC51wv) | 3:20 |
 
-Snapshot ID: `MCw2ZjA1YmYzMmJmYzFkOGNmYjVlNTg2MzgzMDc5OTdiOWYwZTljMWVj`
+Snapshot ID: `MCwyMGUzNDExZTI3OGU2MGMwZDE2YzgyNWFkMjMyZDc5MGI2ZjQwZDk0`

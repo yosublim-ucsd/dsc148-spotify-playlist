@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4p7boI.md) - [plain]
 
 > This is NAV\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 94,625 likes - 51 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 94,631 likes - 51 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4p7boI.md) - [plain]
 | 19 | [Wolves \(with NAV\)](https://open.spotify.com/track/1dnsojUNfvhiztcITLzruj) | [Pop Smoke](https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj), [NAV](https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC) | [Meet The Woo 2 \(Deluxe\)](https://open.spotify.com/album/5NTOvCGu7HT4DgJGLXtKUU) | 3:14 |
 | 20 | [Young Wheezy \(with Gunna\)](https://open.spotify.com/track/0bMyxvtbPa7HFemLjzw0xX) | [NAV](https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [Emergency Tsunami](https://open.spotify.com/album/1tihFpzHHM9mDSoFbhMoZL) | 2:31 |
 | 21 | [Leaders \(feat\. NAV\)](https://open.spotify.com/track/4D7NrSeqkTarBrJ80b2sBc) | [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz), [NAV](https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC) | [Eternal Atake \(Deluxe\) \- LUV vs\. The World 2](https://open.spotify.com/album/0fEO7g2c5onkaXsybEtuD2) | 3:14 |
-| 22 | [Up](https://open.spotify.com/track/5qbcsZMwL0x46sX7VO37Ye) | [NAV](https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC) | [NAV](https://open.spotify.com/album/4JR29CNW14Zc4Z5vflxkoJ) | 3:19 |
-| 23 | [Car Sick \(feat\. NAV & Metro Boomin\)](https://open.spotify.com/track/4xisLMFhYADhKnkOCCV4Am) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ), [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp), [NAV](https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC) | [Drip Season 3 \(Deluxe\)](https://open.spotify.com/album/5xtAAHr59ozJ2PQ67utEmi) | 3:39 |
+| 22 | [Car Sick \(feat\. NAV & Metro Boomin\)](https://open.spotify.com/track/4xisLMFhYADhKnkOCCV4Am) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ), [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp), [NAV](https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC) | [Drip Season 3 \(Deluxe\)](https://open.spotify.com/album/5xtAAHr59ozJ2PQ67utEmi) | 3:39 |
+| 23 | [Up](https://open.spotify.com/track/5qbcsZMwL0x46sX7VO37Ye) | [NAV](https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC) | [NAV](https://open.spotify.com/album/4JR29CNW14Zc4Z5vflxkoJ) | 3:19 |
 | 24 | [Held Me Down](https://open.spotify.com/track/0jiW3PNiHJxOhWh9oPBJ7m) | [NAV](https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC), [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp) | [Perfect Timing](https://open.spotify.com/album/6VFETcEfjilkAng073KLt9) | 3:48 |
 | 25 | [Vicodin](https://open.spotify.com/track/19CWeHbg3Z9XJH4Uzdk6tf) | [NAV](https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC) | [Bad Habits \(Deluxe\)](https://open.spotify.com/album/31lHUoHC3P6BRFzKYLyRJO) | 2:11 |
 | 26 | [Friends & Family](https://open.spotify.com/track/1U6Qqq2JQzOWoHYqtG7pYO) | [NAV](https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC) | [Emergency Tsunami](https://open.spotify.com/album/1tihFpzHHM9mDSoFbhMoZL) | 2:25 |
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4p7boI.md) - [plain]
 | 50 | [A$AP Ferg](https://open.spotify.com/track/4EbULzyWMuFx94aoIY1MlJ) | [NAV](https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC), [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp), [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [Perfect Timing](https://open.spotify.com/album/6VFETcEfjilkAng073KLt9) | 4:17 |
 | 51 | [Freshman List](https://open.spotify.com/track/4LeJfeJ9u53QLp997SRhim) | [NAV](https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC) | [RECKLESS](https://open.spotify.com/album/1hTrdWpdPEeXHQWc9GmpxZ) | 3:06 |
 
-Snapshot ID: `Mjg1MTQxOTUsMDAwMDAwMDA0NmJmY2RiNGI5Mjc4ZGYwMjRjZWRiYzkzYTZiMzVjNQ==`
+Snapshot ID: `Mjg1MTU2NjEsMDAwMDAwMDBkODQ0OGJlZGFjOGMxYTEwYjdmOGFjNGU0YjJlN2YwZA==`

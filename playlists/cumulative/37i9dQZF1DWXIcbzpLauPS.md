@@ -4,7 +4,7 @@
 
 > Metalcore at its finest\. Cover: The Ghost Inside
 
-866 songs - 2 day 6 hr 4 min
+867 songs - 2 day 6 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,7 +12,8 @@
 | [+ ylva +](https://open.spotify.com/track/2NBcS6KrorQ2kjSheJTarf) | [Vildhjarta](https://open.spotify.com/artist/0z4ODfFM8PGE0A9r0tZ75J) | [+ ylva +](https://open.spotify.com/album/4LVxtKIFHnU89rhBv90s6D) | 4:41 | 2023-11-27 | 2024-01-13 |
 | [10:35](https://open.spotify.com/track/0F0lT8EmvnKUYZ1YLR6ops) | [The Veer Union](https://open.spotify.com/artist/2WQQRKpu2PMLsHSrUJmyCS) | [10:35](https://open.spotify.com/album/2N96LsbA1SO5Q6BpjIuY9O) | 2:49 | 2023-01-20 | 2023-04-01 |
 | [21 Gun Salute](https://open.spotify.com/track/0dAeZUKHCo70CusGsluvDz) | [Catch Your Breath](https://open.spotify.com/artist/2fqPOGxG12nEERj8YG7p22) | [21 Gun Salute](https://open.spotify.com/album/19iJ5mXv499hjU6wnoLreo) | 3:46 | 2023-09-15 | 2023-11-04 |
-| [21 Gun Salute](https://open.spotify.com/track/33GEGdCuSpbt3x6B33Jd82) | [Catch Your Breath](https://open.spotify.com/artist/2fqPOGxG12nEERj8YG7p22) | [Shame On Me](https://open.spotify.com/album/4EcSKM9PjQiXywZ3ItofZG) | 3:46 | 2023-10-27 |  |
+| [21 Gun Salute](https://open.spotify.com/track/20Ov4hI7Z5xh9NkLMMf0db) | [Catch Your Breath](https://open.spotify.com/artist/2fqPOGxG12nEERj8YG7p22) | [Shame On Me](https://open.spotify.com/album/4Rs8FkCMRVYg9CtpKODlVN) | 3:46 | 2024-03-08 |  |
+| [21 Gun Salute](https://open.spotify.com/track/33GEGdCuSpbt3x6B33Jd82) | [Catch Your Breath](https://open.spotify.com/artist/2fqPOGxG12nEERj8YG7p22) | [Shame On Me](https://open.spotify.com/album/4EcSKM9PjQiXywZ3ItofZG) | 3:46 | 2023-10-27 | 2024-03-21 |
 | [24 Thorns \(feat\. Kane Gelaznik\)](https://open.spotify.com/track/1X2Jxm71xUnqWOXEfOPBFB) | [Mugshot](https://open.spotify.com/artist/0EVz5xkkf68l8QXvlmKDYB), [Kane Gelaznik](https://open.spotify.com/artist/6tEcSUj4wC1th01MEOTelB) | [24 Thorns \(feat\. Kane Gelaznik\)](https://open.spotify.com/album/4bfvIJJyrUPTR0sZuwcS7Y) | 3:04 | 2024-03-08 |  |
 | [30 Under 13](https://open.spotify.com/track/4f1ML3x043Sl0QdVeNB4yT) | [Better Lovers](https://open.spotify.com/artist/3mStoA23qANDeMqHi2oqze) | [30 Under 13](https://open.spotify.com/album/3flz7O2lY60WbBoefXUk1b) | 4:05 | 2023-05-01 | 2023-07-01 |
 | [5 AM](https://open.spotify.com/track/31HxV5T50CjQVzyo6yh6Jm) | [Alex Yarmak](https://open.spotify.com/artist/7BxvbZy8vMWGskAEh3uueA), [Blind8](https://open.spotify.com/artist/6Cp7Edmrgw7XA8duPOFmtz) | [5 AM](https://open.spotify.com/album/72sgXs42eBocQjRCFUvM4H) | 3:09 | 2022-04-22 | 2022-05-21 |

@@ -914,7 +914,7 @@
       ],
       "date_added": "2024-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-21",
       "duration_ms": 132813,
       "name": "Buio (al sicuro)",
       "url": "https://open.spotify.com/track/4l0x8auMApmHiMNyNBNVFr"
@@ -5414,6 +5414,24 @@
       "duration_ms": 174137,
       "name": "N'Anima",
       "url": "https://open.spotify.com/track/5lELyaYDICf3gj0xjXleOs"
+    },
+    {
+      "album": {
+        "name": "N'ata vot (Perdono)",
+        "url": "https://open.spotify.com/album/0Hr1MneqQzVojY96cu5sm7"
+      },
+      "artists": [
+        {
+          "name": "Le-one",
+          "url": "https://open.spotify.com/artist/5Otk4eRecMMbC5YR4Iliou"
+        }
+      ],
+      "date_added": "2024-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155651,
+      "name": "N'ata vot (Perdono)",
+      "url": "https://open.spotify.com/track/37lmdEdm1GtJBZEK3Z5Xt6"
     },
     {
       "album": {

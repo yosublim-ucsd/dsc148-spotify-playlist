@@ -4,7 +4,7 @@
 
 > 都会の空を見上げると聴こえてくる音楽。 cover painting: 永井博
 
-698 songs - 1 day 18 hr 1 min
+700 songs - 1 day 18 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -308,7 +308,8 @@
 | [Love Like A Bomb \(feat\. ひかり\)](https://open.spotify.com/track/3B7jBMQUFsIMhrMDOtB39p) | [Tokimeki Records](https://open.spotify.com/artist/73vrL9RiKlSaQFo2izavC1), [ひかり](https://open.spotify.com/artist/7FqXFvzwNYVhW12u5O3yUc) | [透明なガール](https://open.spotify.com/album/41dcBEgqNyYH3ifvH2al28) | 3:27 | 2022-10-20 | 2022-11-09 |
 | [LOVE NEVER FELT LIKE THIS](https://open.spotify.com/track/2h3slSQMBstt11fys4CFYb) | [MAX](https://open.spotify.com/artist/1bqxdqvUtPWZri43cKHac8) | [LOVE IN STEREO](https://open.spotify.com/album/2YyHBng4US9HBUJKpICmny) | 2:55 | 2024-02-22 |  |
 | [Love Will Work It Out](https://open.spotify.com/track/4bQhGIHwo1ZpixP9MudUbV) | [Durand Jones & The Indications](https://open.spotify.com/artist/6TVVIyd0fsRDGg6WzHKyTP), [Aaron Frazer](https://open.spotify.com/artist/4dwDVC6lrMINxVBxETE1AB) | [Private Space](https://open.spotify.com/album/3nZHH9trTO9xrV1XrW18cW) | 3:45 | 2022-10-20 | 2022-12-14 |
-| [Love's Train](https://open.spotify.com/track/60gTdTwaNtGAzIxKfeGVfJ) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [Silk Sonic](https://open.spotify.com/artist/6PvvGcCY2XtUcSRld1Wilr) | [Love's Train](https://open.spotify.com/album/6QKXGIgwWmWBMmIktMOchR) | 5:07 | 2022-10-20 |  |
+| [Love's Train](https://open.spotify.com/track/2JUQ7mV1AHk2owXLydmN4Z) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [Silk Sonic](https://open.spotify.com/artist/6PvvGcCY2XtUcSRld1Wilr) | [An Evening With Silk Sonic](https://open.spotify.com/album/1YgekJJTEueWDaMr7BYqPk) | 5:07 | 2024-03-19 |  |
+| [Love's Train](https://open.spotify.com/track/60gTdTwaNtGAzIxKfeGVfJ) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [Silk Sonic](https://open.spotify.com/artist/6PvvGcCY2XtUcSRld1Wilr) | [Love's Train](https://open.spotify.com/album/6QKXGIgwWmWBMmIktMOchR) | 5:07 | 2022-10-20 | 2024-03-21 |
 | [Lover/Friend](https://open.spotify.com/track/5ahq8vkzMznGmfN2EVOukP) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu), [Rochelle Jordan](https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3) | [Lover/Friend](https://open.spotify.com/album/1CS8eBSCVXMwYJytG5aYfX) | 3:32 | 2023-11-30 |  |
 | [Lovers](https://open.spotify.com/track/1wfS1gd8k7o9ohCXPU4tYU) | [Michael Kaneko](https://open.spotify.com/artist/36a3BbcVBJMiBGeHzpAxHb) | [Lovers](https://open.spotify.com/album/6RG3DZjvTcbnhNmIVqy771) | 5:13 | 2023-06-06 | 2023-07-12 |
 | [Lovers In Tokyo](https://open.spotify.com/track/4C1t6lql5m1t790X8UJ2CH) | [THE CHARM PARK](https://open.spotify.com/artist/2QKf9jr434G3Mo8Hr9npPb) | [Lovers In Tokyo](https://open.spotify.com/album/3VnDBO2UsZnofhJ65hE7yC) | 3:46 | 2023-01-12 | 2023-02-08 |
@@ -599,7 +600,8 @@
 | [water](https://open.spotify.com/track/3IB7V0e3M34XCFrUetx7eI) | [Sincere](https://open.spotify.com/artist/3ucekCZdcSOBgiLZ37nKyn) | [water](https://open.spotify.com/album/2IzTFMVm7Z4baoMzsB9kK1) | 3:50 | 2023-05-16 | 2023-05-18 |
 | [Water](https://open.spotify.com/track/4sba5qIowhVDigPPykIP5U) | [Sincere](https://open.spotify.com/artist/3ucekCZdcSOBgiLZ37nKyn) | [Water](https://open.spotify.com/album/4otlBo4eNFe03fjYmvumZG) | 3:50 | 2023-05-16 | 2023-08-09 |
 | [Water](https://open.spotify.com/track/5aIVCx5tnk0ntmdiinnYvw) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [Water](https://open.spotify.com/album/22sXXkKgjEuawIFL1e1tRw) | 3:20 | 2023-09-07 | 2023-11-29 |
-| [Water Carrier](https://open.spotify.com/track/675sPQdIf74UzpPrPR4tLZ) | [Kroi](https://open.spotify.com/artist/4S8J8Nct8lHsbzAeNJXcJa) | [Water Carrier](https://open.spotify.com/album/0LkdcehFEz0i0RALwIp9V7) | 4:02 | 2024-03-19 |  |
+| [Water Carrier](https://open.spotify.com/track/4l8jSXhZ3apqimhbzhiabB) | [Kroi](https://open.spotify.com/artist/4S8J8Nct8lHsbzAeNJXcJa) | [Water Carrier](https://open.spotify.com/album/3sNzrdLqdVxbPmHAu9Iuav) | 4:02 | 2024-03-19 |  |
+| [Water Carrier](https://open.spotify.com/track/675sPQdIf74UzpPrPR4tLZ) | [Kroi](https://open.spotify.com/artist/4S8J8Nct8lHsbzAeNJXcJa) | [Water Carrier](https://open.spotify.com/album/0LkdcehFEz0i0RALwIp9V7) | 4:02 | 2024-03-19 | 2024-03-21 |
 | [Waterfall](https://open.spotify.com/track/3X2Aw6bQ7TfMMKsTzjTlDg) | [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et), [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [Waterfall](https://open.spotify.com/album/2GDxorOmiV0k1LnoAoiTIi) | 3:52 | 2022-10-20 |  |
 | [WE'LL DIE THIS WAY](https://open.spotify.com/track/28nI6Aum8oazhOQ6tsbI7t) | [Skaai](https://open.spotify.com/artist/4L05lOQs0iZSVhrnnqS66E) | [WE'LL DIE THIS WAY](https://open.spotify.com/album/6V6js4VLbS2fdq9SYcarNj) | 3:06 | 2023-07-06 | 2023-07-21 |
 | [Wear Dark Blue](https://open.spotify.com/track/6YJUZolcyToJXDJ7ypwoOD) | [Hannah Warm](https://open.spotify.com/artist/3NpwE88TR2nUKcmg87MeL7) | [Wear Dark Blue](https://open.spotify.com/album/6RtPIk1oeH22Q89C0Zl1Ed) | 3:45 | 2023-03-21 | 2023-04-05 |

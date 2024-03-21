@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4E3UdUs7fUx.md) - [plain]
 
 > Unwind and let the afternoon unfold.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,225,708 likes - 100 songs - 6 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,225,664 likes - 100 songs - 6 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,9 +30,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4E3UdUs7fUx.md) - [plain]
 | 20 | [Little Talks](https://open.spotify.com/track/1ulDt6ySVbMbzZCBO6hSfb) | [Julia Sheer](https://open.spotify.com/artist/4jHWpUyRI2rzJVimtasEBF), [Jon D](https://open.spotify.com/artist/5HCypjplgh5uQezvBpOfXN) | [Little Talks](https://open.spotify.com/album/1wAtKYtwQNBHFP1tRKKRBM) | 3:39 |
 | 21 | [Colder Heavens](https://open.spotify.com/track/6Z2pu5Gq0uWJoaYWeWbQpX) | [Blanco White](https://open.spotify.com/artist/3ccVtqcqedranb7y8eywJ5) | [Colder Heavens \- EP](https://open.spotify.com/album/2Vtm2UF5puIkoaPl6CFdxA) | 4:33 |
 | 22 | [All My Days](https://open.spotify.com/track/3RPerpXuNznZbCuWYEBz5i) | [Alexi Murdoch](https://open.spotify.com/artist/25mrbNwFzoqPWyYXLhiDRw) | [Time Without Consequence](https://open.spotify.com/album/3hQQHMrHUbkCokIf8PmcEU) | 4:57 |
-| 23 | [Wouldn't Come Back](https://open.spotify.com/track/1zeQjPT367QcGrkpIXYjuW) | [Trousdale](https://open.spotify.com/artist/26DvqLYszG0oIOeelTF5kE) | [Wouldn't Come Back](https://open.spotify.com/album/2X0Oi2vkyzqYWPy2dSdim1) | 3:39 |
+| 23 | [Wildfire](https://open.spotify.com/track/0EIS2zaB3aQGtKOvzrodOU) | [Watchhouse](https://open.spotify.com/artist/675tsBPpaZtqyiBwEf3ZEP) | [Blindfaller](https://open.spotify.com/album/3CwgFOEB6g9vfADfAcYaIL) | 5:29 |
 | 24 | [The Way Back Home](https://open.spotify.com/track/3PTsvzTENG4jREGGQz9xpb) | [Aisha Badru](https://open.spotify.com/artist/3vsVCHUe68gqUMIZwaVUIK) | [The Way Back Home](https://open.spotify.com/album/1UpWcCKM40cIfTaDY38eFY) | 3:34 |
-| 25 | [Wildfire](https://open.spotify.com/track/0EIS2zaB3aQGtKOvzrodOU) | [Watchhouse](https://open.spotify.com/artist/675tsBPpaZtqyiBwEf3ZEP) | [Blindfaller](https://open.spotify.com/album/3CwgFOEB6g9vfADfAcYaIL) | 5:29 |
+| 25 | [Wouldn't Come Back](https://open.spotify.com/track/1zeQjPT367QcGrkpIXYjuW) | [Trousdale](https://open.spotify.com/artist/26DvqLYszG0oIOeelTF5kE) | [Wouldn't Come Back](https://open.spotify.com/album/2X0Oi2vkyzqYWPy2dSdim1) | 3:39 |
 | 26 | [The Trouble with Wanting](https://open.spotify.com/track/5ZUObJNpVt2l9GogUSfALc) | [Joy Williams](https://open.spotify.com/artist/4TCXgdDPm10ensLNCVnIYa) | [Front Porch](https://open.spotify.com/album/0vK1POb7cjZdlZkShnqEDu) | 3:55 |
 | 27 | [All Is Well](https://open.spotify.com/track/3KAQ4xe2sR6IiltZw8HSA5) | [Austin Basham](https://open.spotify.com/artist/3Dd1WVQvZUgyi9XEqOIPhA) | [You and Me for Now](https://open.spotify.com/album/5KPl7k36JzLxe4bisDG8S4) | 4:16 |
 | 28 | [Kathy's Song](https://open.spotify.com/track/6i6hIiqSXwfzU4B2Tbtw4S) | [The Secret Sisters](https://open.spotify.com/artist/5fIZHCg2de8322HZodBDWL) | [You Don't Own Me Anymore](https://open.spotify.com/album/48oEbT2demuZV5mRLlbaLC) | 3:43 |
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4E3UdUs7fUx.md) - [plain]
 | 31 | [Sinking Ship](https://open.spotify.com/track/3pC8tUjIZPORslYYmJbJcz) | [Wild Child](https://open.spotify.com/artist/1xLMexpeeTKQ20SwGMaGSK) | [Sinking Ship / Back & Forth](https://open.spotify.com/album/0zMY9ikg9RB64fPHXKAmYt) | 4:07 |
 | 32 | [Sophie](https://open.spotify.com/track/5Ics32fcXJuInGCu9DPpqg) | [Bear's Den](https://open.spotify.com/artist/0nJaMZM8paoA5HEUTUXPqi) | [Without/Within](https://open.spotify.com/album/0yvBc7miQsWYDcV4A8gjEv) | 5:04 |
 | 33 | [El Búho](https://open.spotify.com/track/0P52wuYOxOXkRioz4hFYzW) | [Blanco White](https://open.spotify.com/artist/3ccVtqcqedranb7y8eywJ5) | [Colder Heavens \- EP](https://open.spotify.com/album/2Vtm2UF5puIkoaPl6CFdxA) | 3:51 |
-| 34 | [The Blower's Daughter](https://open.spotify.com/track/4B2lJinAkeNLSJjcq3dg8Q) | [Damien Rice](https://open.spotify.com/artist/14r9dR01KeBLFfylVSKCZQ) | [O](https://open.spotify.com/album/6aHBpqM0YAMfYxfTBjfmk1) | 4:46 |
-| 35 | [Boardwalks \- Remastered 2015/ Bonus Track](https://open.spotify.com/track/23Zlb66N7xcIWbpt2C1bsi) | [Little May](https://open.spotify.com/artist/0TjAAwE04BeoSeOpJIakYH) | [For The Company](https://open.spotify.com/album/4ruKhGgJSmLx5fGAZquEH2) | 3:19 |
+| 34 | [Boardwalks \- Remastered 2015/ Bonus Track](https://open.spotify.com/track/23Zlb66N7xcIWbpt2C1bsi) | [Little May](https://open.spotify.com/artist/0TjAAwE04BeoSeOpJIakYH) | [For The Company](https://open.spotify.com/album/4ruKhGgJSmLx5fGAZquEH2) | 3:19 |
+| 35 | [The Blower's Daughter](https://open.spotify.com/track/4B2lJinAkeNLSJjcq3dg8Q) | [Damien Rice](https://open.spotify.com/artist/14r9dR01KeBLFfylVSKCZQ) | [O](https://open.spotify.com/album/6aHBpqM0YAMfYxfTBjfmk1) | 4:46 |
 | 36 | [Like Real People Do](https://open.spotify.com/track/7K6LFPfjdnN6QqvGzhvpRO) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Hozier](https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq) | 3:18 |
 | 37 | [Nothing Else](https://open.spotify.com/track/5NEitA75GDKDOET1k83LQw) | [Angus & Julia Stone](https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr) | [Snow](https://open.spotify.com/album/4egQIHw55CVeZ9BlS3fEoL) | 4:24 |
 | 38 | [Fall, Fall, Fall](https://open.spotify.com/track/2SEYL3D9Onmw1wutOX3s2h) | [Caamp](https://open.spotify.com/artist/0wyMPXGfOuQzNR54ujR9Ix) | [Fall, Fall, Fall](https://open.spotify.com/album/0jMQ6WSHjx5mV8jqqX17eh) | 4:41 |
@@ -57,9 +57,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4E3UdUs7fUx.md) - [plain]
 | 47 | [All This Time Running](https://open.spotify.com/track/4qrVC09Ud9a0B2hpwT1EGV) | [Craig Cardiff](https://open.spotify.com/artist/2VMxEtyyo7Jg3jmVDQPHwx) | [All This Time Running](https://open.spotify.com/album/71FWp5uo78GM4C7ZseK2O9) | 3:05 |
 | 48 | [Whiskey Whiskey](https://open.spotify.com/track/0c1rlIZao3TFvRWKBig16H) | [Joshua Burnside](https://open.spotify.com/artist/244AFgFclA9c1IcjWOAqoV) | [Into the Depths of Hell](https://open.spotify.com/album/7BMZsEBUvcUTxTjnhXbl9c) | 2:51 |
 | 49 | [Faking My Own Death](https://open.spotify.com/track/0GoTonjhYLPM7NVKqliTTt) | [Allison Ponthier](https://open.spotify.com/artist/37zdNthUsPowEeNJDeCCYx) | [Faking My Own Death](https://open.spotify.com/album/5wGcJVAdzM6LndVUbMxTnf) | 3:58 |
-| 50 | [Time Stands](https://open.spotify.com/track/1U2ahyThq23V2R7rgfOSRr) | [Nathaniel Rateliff](https://open.spotify.com/artist/4qKpLkR911SUlnd4HAtF79) | [And It’s Still Alright](https://open.spotify.com/album/2bWrnSJNyGevb1pr2VYEGW) | 3:52 |
-| 51 | [Top to Toe](https://open.spotify.com/track/3Dtg7OR2EYGI5zZuuRpFKT) | [Fenne Lily](https://open.spotify.com/artist/7iPH2BRBF9wKa6ljxvdext) | [On Hold](https://open.spotify.com/album/1uvisLwZwDzXoMhbk9POzZ) | 3:36 |
-| 52 | [Resilient](https://open.spotify.com/track/2Nm0IGkliIwWjSBINf3KjG) | [Rising Appalachia](https://open.spotify.com/artist/3I6e2ZqqoxQhXc9z7Tp5ci) | [Resilient](https://open.spotify.com/album/1AwzLRB4cP8KISlr8ExOEt) | 4:10 |
+| 50 | [Top to Toe](https://open.spotify.com/track/3Dtg7OR2EYGI5zZuuRpFKT) | [Fenne Lily](https://open.spotify.com/artist/7iPH2BRBF9wKa6ljxvdext) | [On Hold](https://open.spotify.com/album/1uvisLwZwDzXoMhbk9POzZ) | 3:36 |
+| 51 | [Resilient](https://open.spotify.com/track/2Nm0IGkliIwWjSBINf3KjG) | [Rising Appalachia](https://open.spotify.com/artist/3I6e2ZqqoxQhXc9z7Tp5ci) | [Resilient](https://open.spotify.com/album/1AwzLRB4cP8KISlr8ExOEt) | 4:10 |
+| 52 | [Time Stands](https://open.spotify.com/track/1U2ahyThq23V2R7rgfOSRr) | [Nathaniel Rateliff](https://open.spotify.com/artist/4qKpLkR911SUlnd4HAtF79) | [And It’s Still Alright](https://open.spotify.com/album/2bWrnSJNyGevb1pr2VYEGW) | 3:52 |
 | 53 | [I Forget Myself \(feat\. Darlingside\)](https://open.spotify.com/track/7D5v3bwTNUx8NHHKHmwGgX) | [Henry Jamison](https://open.spotify.com/artist/2XdtmipGVPmA62ptDgX8QC), [Darlingside](https://open.spotify.com/artist/3DkhgIw7lIyxekurpXNTrm) | [Tourism](https://open.spotify.com/album/2dxsMripcAgRre1gqZPoye) | 3:32 |
 | 54 | [On The Road Again](https://open.spotify.com/track/4Uc8xnNu2Mm1yObB0uxZI6) | [The Brother Brothers](https://open.spotify.com/artist/7bsyET4aRFBJ9dOtGeHCX5) | [On The Road Again](https://open.spotify.com/album/55usaj7ODaBiksdYFoKUvb) | 2:53 |
 | 55 | [Fall](https://open.spotify.com/track/0HFqPzJYCZgQYuqNX0HDJm) | [Lisa Hannigan](https://open.spotify.com/artist/0z7Yuv7DuDQ5SaVn4VSlLt) | [At Swim](https://open.spotify.com/album/6msVb320Ve4PYFCjo0uuDf) | 2:59 |
@@ -87,8 +87,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4E3UdUs7fUx.md) - [plain]
 | 77 | [Song For The Thankful](https://open.spotify.com/track/2nYnAcwmnOe4zr4WVmIefC) | [Avi Kaplan](https://open.spotify.com/artist/179MtpbgyNgeNnwNVqnn4p) | [Song For The Thankful](https://open.spotify.com/album/0Q1YKEQ4XgNjQm5B31YjHM) | 3:54 |
 | 78 | [Sitting Room](https://open.spotify.com/track/61RrNbOovzQBB8lomPR4Qb) | [Beta Radio](https://open.spotify.com/artist/0syIRg9MPSpJIC0QCPUaHB) | [Colony of Bees](https://open.spotify.com/album/22ydepp9MkmGOVOG89v9DU) | 4:09 |
 | 79 | [Hold Your Head Up High](https://open.spotify.com/track/7oOsCpcgcLXKkkIPQzQ6cX) | [Darlingside](https://open.spotify.com/artist/3DkhgIw7lIyxekurpXNTrm) | [Hold Your Head Up High](https://open.spotify.com/album/1utqu0XGDOsrDL4TWXhf8J) | 3:37 |
-| 80 | [Dream in Blue](https://open.spotify.com/track/1Bx9I2NyzUpTfmpAQ4BSsR) | [The Stray Birds](https://open.spotify.com/artist/6cPMzk1hDgzdIe8vkAhcNM) | [The Stray Birds](https://open.spotify.com/album/2x0Qf4JKbzTxJHX66XBr0t) | 3:32 |
-| 81 | [Middle Of My Mind](https://open.spotify.com/track/6bhR3uY6YJEJhpC3Z05nde) | [Tom Rosenthal](https://open.spotify.com/artist/1AgxgADPuRIW1wyaA4OKcB) | [The Pleasant Trees \(Volume 2\)](https://open.spotify.com/album/5TFHTDAe9WTaiZFHhDhnJd) | 2:44 |
+| 80 | [Middle Of My Mind](https://open.spotify.com/track/6bhR3uY6YJEJhpC3Z05nde) | [Tom Rosenthal](https://open.spotify.com/artist/1AgxgADPuRIW1wyaA4OKcB) | [The Pleasant Trees \(Volume 2\)](https://open.spotify.com/album/5TFHTDAe9WTaiZFHhDhnJd) | 2:44 |
+| 81 | [Dream in Blue](https://open.spotify.com/track/1Bx9I2NyzUpTfmpAQ4BSsR) | [The Stray Birds](https://open.spotify.com/artist/6cPMzk1hDgzdIe8vkAhcNM) | [The Stray Birds](https://open.spotify.com/album/2x0Qf4JKbzTxJHX66XBr0t) | 3:32 |
 | 82 | [Great Divide](https://open.spotify.com/track/5zuelgle0Aqxyc9EooIPVl) | [Ira Wolf](https://open.spotify.com/artist/5jq01ts8cBQWwVZOpMax6s) | [The Closest Thing to Home](https://open.spotify.com/album/5n8ppNRmmYvkFGnQZPHdNc) | 4:01 |
 | 83 | [Hometown](https://open.spotify.com/track/4Ffh52csT3bI7hVoih1vo1) | [Sarah Jarosz](https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ) | [World On The Ground](https://open.spotify.com/album/7vI29Msu8k0wpFUittUvAH) | 3:00 |
 | 84 | [The Pursuit of Happiness](https://open.spotify.com/track/5doM1qJXf7JN6kyGjRDlTq) | [Beyries](https://open.spotify.com/artist/3OiQ1K5uuHHAjM9yd3Y0rn) | [Landing](https://open.spotify.com/album/70gMWHmqFhPCpwJmdmTYxo) | 3:15 |
@@ -105,8 +105,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4E3UdUs7fUx.md) - [plain]
 | 95 | [Motel](https://open.spotify.com/track/6qe4MSI8cWbBqo2YBNmUic) | [Caitlin Canty](https://open.spotify.com/artist/3QOwPxkPpGvhbiPaEs7Pnl) | [Motel Bouquet](https://open.spotify.com/album/1wzGEFBlLXHmoW4OK4Qapu) | 3:04 |
 | 96 | [Saint Monica \- Undone](https://open.spotify.com/track/3vfYJg7cPqQgAFh1KtJMRT) | [The Ballroom Thieves](https://open.spotify.com/artist/7kZBQcHbD4IKKEJIMnrRWC) | [Saint Monica \(Undone\)](https://open.spotify.com/album/6BpkD2uOOcpYp4IB1kANL6) | 2:26 |
 | 97 | [Waves \- Guitar Acoustic](https://open.spotify.com/track/6yiWXb7aSGTLtrh7oKj80S) | [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y) | [Same Kind Of Different \(Acoustic\)](https://open.spotify.com/album/6EWejNtoOEYMzQwKIpctti) | 4:08 |
-| 98 | [Melatonin \(Unplugged\)](https://open.spotify.com/track/1IkjoLXB9LEf3w32Wk07X3) | [Phoria](https://open.spotify.com/artist/0HDxlFsXwyrpufs4YgTNMm) | [Melatonin \(Unplugged\)](https://open.spotify.com/album/73FpjS6PTT3e4lRfWdsDuy) | 5:25 |
-| 99 | [Barbaro](https://open.spotify.com/track/3ftFR3uG7hCJJ7kQOlSAlg) | [Barbaro](https://open.spotify.com/artist/56xyoM0kp95h5kVkAjoOMq) | [Dressed in Roses](https://open.spotify.com/album/0qdMxhmhBONYgZJEbQiYjG) | 3:26 |
+| 98 | [Barbaro](https://open.spotify.com/track/3ftFR3uG7hCJJ7kQOlSAlg) | [Barbaro](https://open.spotify.com/artist/56xyoM0kp95h5kVkAjoOMq) | [Dressed in Roses](https://open.spotify.com/album/0qdMxhmhBONYgZJEbQiYjG) | 3:26 |
+| 99 | [Melatonin \(Unplugged\)](https://open.spotify.com/track/1IkjoLXB9LEf3w32Wk07X3) | [Phoria](https://open.spotify.com/artist/0HDxlFsXwyrpufs4YgTNMm) | [Melatonin \(Unplugged\)](https://open.spotify.com/album/73FpjS6PTT3e4lRfWdsDuy) | 5:25 |
 | 100 | [Unveiled](https://open.spotify.com/track/1JGsfgp6yMzTqTQvDTtXos) | [Loah](https://open.spotify.com/artist/3smkUIA0gfguE46oluw954) | [This Heart](https://open.spotify.com/album/3oo1XkjyxFrqGmwcwiS7hF) | 4:12 |
 
-Snapshot ID: `MCxkMTI0NzNhMjhlNGVmODczNzYxYWQ1MzNmYTMyYmEyMzA0NTk0NjQ1`
+Snapshot ID: `MCxjMTFjMzk4NmZiZWIwMGY2NDE5OGI4OTQxYThhNTYyNTNhYjA3Zjg3`

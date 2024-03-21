@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9nkam6FKfgM.md) - [plain]
 
 > It’s giving sweatshirt but no coat
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,829 likes - 60 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,163 likes - 60 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9nkam6FKfgM.md) - [plain]
 | 3 | [Those Eyes](https://open.spotify.com/track/50x1Ic8CaXkYNvjmxe3WXy) | [New West](https://open.spotify.com/artist/69bG9tC62d8oTFC9aTTosn) | [Those Eyes](https://open.spotify.com/album/7rItmPh0tZpMKcFXBScaU8) | 3:40 |
 | 4 | [Run Your Mouth](https://open.spotify.com/track/7lw4J2RfcPs2hEJgPY44lC) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Run Your Mouth](https://open.spotify.com/album/1CffBsDXjxsZH53y29UuiP) | 2:40 |
 | 5 | [Bloom](https://open.spotify.com/track/5utUZ5nv6y6dR8irsnOQEj) | [Aqyila](https://open.spotify.com/artist/4cXLEhsZ1W4T6qBiDYVih4) | [Bloom](https://open.spotify.com/album/7eSHhMZCCvJvubQ3plHlYZ) | 2:55 |
-| 6 | [Deeper Well](https://open.spotify.com/track/2lJn77IeZAP9cmv6DPXOrL) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Deeper Well](https://open.spotify.com/album/2NXiMKrwmPrqU8epp20pW8) | 3:52 |
+| 6 | [Deeper Well](https://open.spotify.com/track/333XFHKsHU0pOocFzBgrJi) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Deeper Well](https://open.spotify.com/album/5SxZmGwc4eJuPp6PcO4JgJ) | 3:52 |
 | 7 | [Honey](https://open.spotify.com/track/0GMZYC6lcrpnwjDiEtDO8i) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [Something To Give Each Other](https://open.spotify.com/album/5UcGyEltve5psjxSRsHx8E) | 3:26 |
 | 8 | [Calm Down \(with Selena Gomez\)](https://open.spotify.com/track/0WtM2NBVQNNJLh6scP13H8) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS), [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [Calm Down \(with Selena Gomez\)](https://open.spotify.com/album/2b2GHWESCWEuHiCZ2Skedp) | 3:59 |
 | 9 | [Moonlight](https://open.spotify.com/track/2i2gDpKKWjvnRTOZRhaPh2) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Moonlight](https://open.spotify.com/album/1y8Yw0NDcP2qxbZufIXt7u) | 3:07 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9nkam6FKfgM.md) - [plain]
 | 59 | [Baby Don't Talk](https://open.spotify.com/track/1IDq1p5zjCgY6z9hzCT5Ct) | [LÉON](https://open.spotify.com/artist/4SqTiwOEdYrNayaGMkc7ia) | [LÉON](https://open.spotify.com/album/3mpvDPBxCSlIGEqiMpiQL4) | 3:09 |
 | 60 | [sun and moon](https://open.spotify.com/track/7m4BsKrYkOFy3VNmAMu5bO) | [anees](https://open.spotify.com/artist/2HPqVfdPh9JkBSlFG5hK6h) | [summer camp](https://open.spotify.com/album/4mO5hcuCZYh8TyVgUjkIvi) | 2:31 |
 
-Snapshot ID: `MCxjMzk4NmM0YWVmZGRjMTNmYWYwMmY5MjRkNzE0ZmE0N2NmZmI5NjNj`
+Snapshot ID: `MCxhNTY4NTNkMDgyZjRhYjIwZGU3ZjNiN2Y5ZjFhZDJhYjNjNTk2NTE1`

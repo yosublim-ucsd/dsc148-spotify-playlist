@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0eSSRy.md) - [plain]
 | 19 | [Adriatic](https://open.spotify.com/track/4tVdXk9zmlm4koU9Jfwo1y) | [PÆRISH](https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL) | [Semi Finalists](https://open.spotify.com/album/16LfAB0rsKN5dbcYEGLhTb) | 2:57 |
 | 20 | [412](https://open.spotify.com/track/4HAUQ35gRU5GS1VuhqlqLw) | [PÆRISH](https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL) | [Fixed It All](https://open.spotify.com/album/5F9Aavpfp58NVEnDqtNU6W) | 3:54 |
 | 21 | [Worry](https://open.spotify.com/track/7rwGONCajGFV6kzNcJJEzh) | [PÆRISH](https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL) | [You're in both dreams \(and you're scared\)](https://open.spotify.com/album/642yaHJxAHfVyzu7IBlglo) | 3:05 |
-| 22 | [Semi Finalists](https://open.spotify.com/track/1NnJQSLLWRdHvWu3ZrwRel) | [PÆRISH](https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL) | [Semi Finalists](https://open.spotify.com/album/16LfAB0rsKN5dbcYEGLhTb) | 3:43 |
+| 22 | [Start out With Differences](https://open.spotify.com/track/5fITXhJcP55MMRlst8B8lY) | [PÆRISH](https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL) | [Semi Finalists](https://open.spotify.com/album/16LfAB0rsKN5dbcYEGLhTb) | 3:49 |
 | 23 | [Mike + Susan](https://open.spotify.com/track/4wpfVf67akZfMUhwybFNml) | [PÆRISH](https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL) | [Fixed It All](https://open.spotify.com/album/5F9Aavpfp58NVEnDqtNU6W) | 4:01 |
 
-Snapshot ID: `Mjg1MTQxOTYsMDAwMDAwMDAxYWYxMGQ3MGYyZGQwZTI1MzJiNGVlMzU4ZGRmOTRmYg==`
+Snapshot ID: `Mjg1MTU2NjAsMDAwMDAwMDBlOTEwZGI3YWU2YzFjNmJiYzkxYTA5ODc5YzlhZjYyZA==`

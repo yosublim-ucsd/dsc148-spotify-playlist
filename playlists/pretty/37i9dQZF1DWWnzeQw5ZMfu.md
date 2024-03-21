@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWnzeQw5ZMfu.md) - [plain]
 
 > Some of the biggest artists, recorded live\. It’s \(almost\) like you were there\.  Cover: Niall Horan
 
-[Spotify](https://open.spotify.com/user/spotify) - 68,991 likes - 100 songs - 7 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 69,000 likes - 100 songs - 7 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWnzeQw5ZMfu.md) - [plain]
 | 28 | [Waiting On the World to Change \- Live at the Nokia Theatre, Los Angeles, CA \- December 2007](https://open.spotify.com/track/75LltETkbWa2OKmJ1AEoM3) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Where the Light Is: John Mayer Live In Los Angeles](https://open.spotify.com/album/4Dgxy95K9BWkDUvQPTaYBb) | 3:50 |
 | 29 | [ME! \- Live From Paris](https://open.spotify.com/track/5fOV54t6mMYv3H9CsnvU81) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [ME! \(Live From Paris\)](https://open.spotify.com/album/1jIp7CChnwdj9zUCvPxzQ7) | 3:33 |
 | 30 | [You're Beautiful \- Live in Ireland](https://open.spotify.com/track/6eKJcEIijmi1WFJwnOMxvv) | [James Blunt](https://open.spotify.com/artist/7KMqksf0UMdyA0UCf4R3ux) | [Chasing Time: The Bedlam Sessions](https://open.spotify.com/album/3SEIokf07y44wrE5LdZueF) | 3:38 |
-| 31 | [I'm Yours \- Live at the Charter One Pavilion, Chicago, IL, 8/13/2009](https://open.spotify.com/track/3OGcceoTcTwRQjJmh1K5jF) | [Jason Mraz](https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl) | [Jason Mraz's Beautiful Mess: Live on Earth](https://open.spotify.com/album/3ZJCkMzqe5OzSkYMrCcuAs) | 5:12 |
-| 32 | [Take Me to Church \- Live From Spotify London](https://open.spotify.com/track/6d0wEqM0jJTNv1asKflGGi) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Spotify Sessions London](https://open.spotify.com/album/4IEY5pUQMlTAAMfMNCc4pb) | 4:06 |
+| 31 | [Take Me to Church \- Live From Spotify London](https://open.spotify.com/track/6d0wEqM0jJTNv1asKflGGi) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Spotify Sessions London](https://open.spotify.com/album/4IEY5pUQMlTAAMfMNCc4pb) | 4:06 |
+| 32 | [I'm Yours \- Live at the Charter One Pavilion, Chicago, IL, 8/13/2009](https://open.spotify.com/track/3OGcceoTcTwRQjJmh1K5jF) | [Jason Mraz](https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl) | [Jason Mraz's Beautiful Mess: Live on Earth](https://open.spotify.com/album/3ZJCkMzqe5OzSkYMrCcuAs) | 5:12 |
 | 33 | [You're Still The One \- Live](https://open.spotify.com/track/7iGY3k5bvs2D8yPeF4z1y4) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Still The One: Live From Vegas](https://open.spotify.com/album/7w8yxmTdAltZOJdzMMm3KC) | 3:35 |
 | 34 | [Nothing Breaks Like a Heart \- Live](https://open.spotify.com/track/3qbPpK2s3PSw0jPPdZTTTW) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [ATTENTION: MILEY LIVE](https://open.spotify.com/album/5G5s00CN4Kmxz340ED2WL2) | 3:54 |
 | 35 | [In the Air Tonight \- Live from the Serious Tour 1990; 2019 Remaster](https://open.spotify.com/track/0izmGVy9X7JVY3Eh44s84B) | [Phil Collins](https://open.spotify.com/artist/4lxfqrEsLX6N1N4OCSkILp) | [Serious Hits...Live! \(2019 Remaster\)](https://open.spotify.com/album/3YhgdRfaZrVIOORGK9SNiV) | 6:33 |
@@ -91,8 +91,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWnzeQw5ZMfu.md) - [plain]
 | 81 | [Stop \- Live In Madrid, Spain / 1998](https://open.spotify.com/track/0VhUMZKnTBsMk4AVilZNuR) | [Spice Girls](https://open.spotify.com/artist/0uq5PttqEjj3IH1bzwcrXF) | [Spiceworld \(25th Anniversary\)](https://open.spotify.com/album/3diiYWB32h7c7Eo2x8oxjK) | 3:24 |
 | 82 | [Stitches \- Live](https://open.spotify.com/track/3ENMtKf4uiXt0XnUzr4FIj) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [Live At Madison Square Garden](https://open.spotify.com/album/6kTIdOmlTbxh7vzNwb4n0L) | 6:36 |
 | 83 | [New Americana \- Live From Webster Hall](https://open.spotify.com/track/6WjeOpJIcApl0DvMLaCi0K) | [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [BADLANDS \(Live From Webster Hall\)](https://open.spotify.com/album/1ysohK5wUmM4hDTvGUzR0Z) | 3:19 |
-| 84 | [Crazy \- Live](https://open.spotify.com/track/0amwBCPSbKOMq1C5EC687X) | [Seal](https://open.spotify.com/artist/5GtMEZEeFFsuHY8ad4kOxv) | [Soul Live](https://open.spotify.com/album/6bXqJuzljqzZo4MMhoECiT) | 7:21 |
-| 85 | [Pompeii \- MTV Unplugged / Edit](https://open.spotify.com/track/2Pzo3PpYPcqpebYgXWUoWl) | [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [Pompeii / Come As You Are \(MTV Unplugged\)](https://open.spotify.com/album/5o8QbgQysnN2Ox4ZLWnp5K) | 4:28 |
+| 84 | [Pompeii \- MTV Unplugged / Edit](https://open.spotify.com/track/2Pzo3PpYPcqpebYgXWUoWl) | [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [Pompeii / Come As You Are \(MTV Unplugged\)](https://open.spotify.com/album/5o8QbgQysnN2Ox4ZLWnp5K) | 4:28 |
+| 85 | [Crazy \- Live](https://open.spotify.com/track/0amwBCPSbKOMq1C5EC687X) | [Seal](https://open.spotify.com/artist/5GtMEZEeFFsuHY8ad4kOxv) | [Soul Live](https://open.spotify.com/album/6bXqJuzljqzZo4MMhoECiT) | 7:21 |
 | 86 | [Waking Up In Vegas \- Live At MTV Unplugged, 2009](https://open.spotify.com/track/532jcgk0ZQgRze05omDsqo) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Unplugged \(Live At MTV Unplugged, New York, NY/2009\)](https://open.spotify.com/album/1qAoFDC9NoiJ3zD5lst6pG) | 3:31 |
 | 87 | [How Will I Know \- Live from The Brit Awards](https://open.spotify.com/track/0B71GPn23vB1BapkFfYlEp) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP) | [Whitney Houston Live: Her Greatest Performances](https://open.spotify.com/album/36ofDpRRmMmSVVmsynRAs0) | 4:00 |
 | 88 | [New Rules \- Live](https://open.spotify.com/track/2NPqVa1uGpeplqt60ISgr9) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [New Rules \(Live\)](https://open.spotify.com/album/6pobOtMOg9Fa4gqwIcZulc) | 4:35 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWnzeQw5ZMfu.md) - [plain]
 | 99 | [Physical \- Live](https://open.spotify.com/track/26Rb7QyeoJWEMVAaW9mWWO) | [Olivia Newton\-John](https://open.spotify.com/artist/4BoRxUdrcgbbq1rxJvvhg9), [The Sydney Orchestra](https://open.spotify.com/artist/7CCAEuSzV238SuznJvgKju) | [Olivia's Live Hits](https://open.spotify.com/album/3cxKwjKZTtrLHxYnVYNQqV) | 4:43 |
 | 100 | [Viva Forever \- Live In Manchester, UK / 1998](https://open.spotify.com/track/22p96UmEjgBGkoxQb505jS) | [Spice Girls](https://open.spotify.com/artist/0uq5PttqEjj3IH1bzwcrXF) | [Spiceworld \(25th Anniversary\)](https://open.spotify.com/album/3diiYWB32h7c7Eo2x8oxjK) | 5:57 |
 
-Snapshot ID: `MCw4ZmU3MWQ2ZjhlMDFhZGYxMTA1Yzc2OTU5OWZiNThmZjI1YmI3OTEy`
+Snapshot ID: `MCw0NWU4NGVmNzVlNzg4NWIwNWJmODE4ZjJlNDQwYzZhYzg5MGMzM2Ix`

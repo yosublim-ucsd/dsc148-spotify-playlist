@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa1BeMIGX5Du.md) - [plain]
 
 > The perfectly brewed cup, the perfect songs to match\. Your happy place is right here.
 
-[Spotify](https://open.spotify.com/user/spotify) - 546,145 likes - 90 songs - 5 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 546,245 likes - 90 songs - 5 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa1BeMIGX5Du.md) - [plain]
 | 6 | [Blue Lake](https://open.spotify.com/track/7CvKEtfHFgxKxzsfHpxsZc) | [Rod Coote](https://open.spotify.com/artist/5xifoiBHJPatPhtG96G1ck) | [Blue Lake](https://open.spotify.com/album/1lIuk3A9M7YmA8RVNhdXkO) | 2:57 |
 | 7 | [Cape Forestier](https://open.spotify.com/track/5koL7879f8j0pvdVGj3vcv) | [Angus & Julia Stone](https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr) | [Cape Forestier](https://open.spotify.com/album/0SQR7IYc6zCvSoo31awLMz) | 3:52 |
 | 8 | [a bad dream from an old life](https://open.spotify.com/track/1XgTha61JE1qk9J2wmsoNm) | [Ed Prosek](https://open.spotify.com/artist/6DchmKCVOKK707FCrLFFDW), [Portair](https://open.spotify.com/artist/5eNDu0xRakAeO0Za8pRIuG) | [a bad dream from an old life](https://open.spotify.com/album/1b9QIgbrTT1QzVfURsTkwZ) | 3:28 |
-| 9 | [Too Good to be True](https://open.spotify.com/track/4vIiVs5JoNfqqRi5o7jAIb) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Too Good to be True](https://open.spotify.com/album/57y7NpfTINlnrNitu8vwft) | 2:40 |
+| 9 | [Too Good to be True](https://open.spotify.com/track/27RDQ0TfxzWMlQFuKrPT11) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Deeper Well](https://open.spotify.com/album/5SxZmGwc4eJuPp6PcO4JgJ) | 2:40 |
 | 10 | [Forever](https://open.spotify.com/track/0FlwhvrncUKrEAhzunmCKm) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Stick Season \(Forever\)](https://open.spotify.com/album/3qBWNcWifNhUKJAWzswdJY) | 4:28 |
 | 11 | [See You Soon](https://open.spotify.com/track/6J0iDtlXabHqZizUKWUAX8) | [Hollow Coves](https://open.spotify.com/artist/7IAFAOtc9kTYNTizhLSWM6) | [See You Soon](https://open.spotify.com/album/3RnZzFLaoswdse4TKBEmmH) | 3:14 |
 | 12 | [Pages](https://open.spotify.com/track/0pLnDuoc1Ddg9KHgvBdjVP) | [Nina Nesbitt](https://open.spotify.com/artist/7AzjETXRUKNRSJHMW9GIqd) | [Pages](https://open.spotify.com/album/3kGscDtpreWkmSCrKb5aia) | 3:14 |
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa1BeMIGX5Du.md) - [plain]
 | 32 | [Space Between](https://open.spotify.com/track/1yZmHipKOL0zDpkxzt8QHr) | [Jem Cassar\-Daley](https://open.spotify.com/artist/589TqkGa2orXeVV4EK653j) | [Space Between](https://open.spotify.com/album/0cpqSAihqxZ22xf3WddL5M) | 3:00 |
 | 33 | [Throw Your Arms Around Me](https://open.spotify.com/track/0XgymhdWuzA3mE8jJzf1Wo) | [Julia Wallace](https://open.spotify.com/artist/2bFY7vDLp0o5Kt6FHiwkAp) | [Across the Water](https://open.spotify.com/album/6QjDzyGbD4aQG3sPNShe4u) | 3:46 |
 | 34 | [Oceans Of Emotions \- The Circle Sessions, 2023](https://open.spotify.com/track/4LW9XCbPyhnWyshA46rXmF) | [The Teskey Brothers](https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh) | [The Circle Sessions, 2023](https://open.spotify.com/album/3cOhZf6Vi6zK13jFZrPxrs) | 3:36 |
-| 35 | [Deeper Well](https://open.spotify.com/track/2lJn77IeZAP9cmv6DPXOrL) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Deeper Well](https://open.spotify.com/album/2NXiMKrwmPrqU8epp20pW8) | 3:52 |
+| 35 | [Deeper Well](https://open.spotify.com/track/333XFHKsHU0pOocFzBgrJi) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Deeper Well](https://open.spotify.com/album/5SxZmGwc4eJuPp6PcO4JgJ) | 3:52 |
 | 36 | [How to Forget](https://open.spotify.com/track/5E7ShoQeHx2WoEa5uFwRWW) | [Husky](https://open.spotify.com/artist/47nuMLurQsLP1gLK7gJtis) | [How to Forget](https://open.spotify.com/album/3MYJWD831kp1HuvlBCE61X) | 3:54 |
 | 37 | [honeymoon \(feat\. Lawson Hull\)](https://open.spotify.com/track/7KD4gsj5Qkv60yDtA4TMXc) | [LOVELOVELOVE](https://open.spotify.com/artist/71AkKjNLAa2eGpswzxbdM6), [Lawson Hull](https://open.spotify.com/artist/218354K2Ph7ewCzbVvGe0K) | [honeymoon \(feat\. Lawson Hull\)](https://open.spotify.com/album/7yvalAYL0RK3gOVz4Phml9) | 3:24 |
 | 38 | [Future Ghosts](https://open.spotify.com/track/4qAgGrSjZGg1tpSk0wEslY) | [Dekker](https://open.spotify.com/artist/2Udd2jgFaz8tXG1w3PyMtN) | [Future Ghosts](https://open.spotify.com/album/7q8YXz7fBjSgE13ZsJEB8I) | 3:28 |
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa1BeMIGX5Du.md) - [plain]
 | 89 | [Latchkey](https://open.spotify.com/track/1pQ9MWG0yUS51uU0pJfBZL) | [Memorial](https://open.spotify.com/artist/1ql8GAa7a8Ur8x6evYipAc) | [Latchkey](https://open.spotify.com/album/7ybg1PGLMLhYm6JcjMVJYp) | 2:51 |
 | 90 | [San Luis](https://open.spotify.com/track/7gDNQLV9cr8449LFrQbk5J) | [Gregory Alan Isakov](https://open.spotify.com/artist/5sXaGoRLSpd7VeyZrLkKwt) | [Evening Machines](https://open.spotify.com/album/5K7PZiOlAn8sxxhh0QTFuJ) | 4:32 |
 
-Snapshot ID: `MCw0MDA0N2FhNWYyNGI0MjRiZmM3ZDc2MTExMzk4N2NjNTM4Njg4YjFh`
+Snapshot ID: `MCxkNmVlOWMyYzMwZjViZjg2YTc2ODQ4YzQ2M2QwYjRjMDYyNTA5MTkx`

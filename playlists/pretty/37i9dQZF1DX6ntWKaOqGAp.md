@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ntWKaOqGAp.md) - [plain]
 
 > The biggest Japanese rock hits right now\.  Cover: Ryokuoushoku Shakai \(緑黄色社会\)　日本ロックシーンの最新話題曲をひとつのプレイリストに。
 
-[Spotify](https://open.spotify.com/user/spotify) - 246,647 likes - 100 songs - 6 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 246,712 likes - 100 songs - 6 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ntWKaOqGAp.md) - [plain]
 | 2 | [幾億光年](https://open.spotify.com/track/4dmruTsdHIOjfOIeaFitXK) | [Omoinotake](https://open.spotify.com/artist/63ylN6WBUUxxMsySiDmr0B) | [幾億光年](https://open.spotify.com/album/6lVM8WvZY6lpBO9zrBRnE9) | 4:36 |
 | 3 | [月へ行こう](https://open.spotify.com/track/21JQaUURrZvW2SutiOtX1Y) | [Macaroni Empitsu](https://open.spotify.com/artist/1t17z3vfuc82cxSDMrvryJ) | [月へ行こう](https://open.spotify.com/album/4WDo7ma5e2z6bqjcbQkz2w) | 3:18 |
 | 4 | [めちゃくちゃ好きな人を愛すように世界を愛して！](https://open.spotify.com/track/7HjTKFuYlYHeteUGxUaVY3) | [neguse.](https://open.spotify.com/artist/7jiFTNRWSw8zYgUj9wNJld) | [めちゃくちゃ好きな人を愛すように世界を愛して！](https://open.spotify.com/album/3dW78okSq9qPIB3tX1JivC) | 3:41 |
-| 5 | [long good\-bye](https://open.spotify.com/track/1bmg5GeIX2HhOOB1TrzWKF) | [Ryukku to Soine Gohan](https://open.spotify.com/artist/5LRYFq7w1jFGA4TGd0bB9D) | [Terminal](https://open.spotify.com/album/3jkN1x44uOSBYsg5JbLTUa) | 4:38 |
+| 5 | [long good\-bye](https://open.spotify.com/track/4SahYiM0uX40YnDt5jTLDZ) | [Ryukku to Soine Gohan](https://open.spotify.com/artist/5LRYFq7w1jFGA4TGd0bB9D) | [Terminal](https://open.spotify.com/album/2eYXYU8WPrnucyQsfAqpgr) | 4:38 |
 | 6 | [オレンジ](https://open.spotify.com/track/6M6ZNRplLNspFEn6Ab3mOv) | [SPYAIR](https://open.spotify.com/artist/7gRg6C2qgQ1F01k3sgyEVt) | [オレンジ](https://open.spotify.com/album/4bpX1Wi81FjZ4d0GFlO1y3) | 3:55 |
 | 7 | [Jersey \- 2024 Ver.](https://open.spotify.com/track/2sRIsLEsOaIZkys9An4ET4) | [サバシスター](https://open.spotify.com/artist/59SCS5djYwMbZv80XDI0pj) | [Prepare Yourself!](https://open.spotify.com/album/6Hl7O9yuwyCItVzotgCqF2) | 2:34 |
 | 8 | [Sweet sweet candy time](https://open.spotify.com/track/7KIYIwWDNssdv7tsw90Z8V) | [Mr.FanTastiC](https://open.spotify.com/artist/42Z74v9b8xkEsOe6zkhsdA) | [Sweet sweet candy time](https://open.spotify.com/album/57YQjhQNWCkmpt0OTUG9d6) | 5:21 |
@@ -20,18 +20,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ntWKaOqGAp.md) - [plain]
 | 10 | [Along the long journey](https://open.spotify.com/track/154GAA2hbSjg5JsyVKhXZ0) | [Saucy Dog](https://open.spotify.com/artist/4WqXqPmUuenMIr4QaFrZXN) | [Along the long journey](https://open.spotify.com/album/15eDW5n9pntrJ5ldiLvYCb) | 4:05 |
 | 11 | [太陽](https://open.spotify.com/track/7kzQIvZgFgmLIWnZO1Ug3S) | [My Hair is Bad](https://open.spotify.com/artist/0d4XqzcMpgP6eQZ6TIW2pI) | [太陽](https://open.spotify.com/album/0ju6G6RWdJvkRQqmtHigEV) | 4:26 |
 | 12 | [私が明日死ぬなら](https://open.spotify.com/track/29KOSOrduu8U6Pz6ZZtuEj) | [Tatsuya Kitani](https://open.spotify.com/artist/7mvhRvEAHiCTQHUnH7fgnv) | [ROUNDABOUT](https://open.spotify.com/album/1N3qm3w4YsYgXh6XxBjkay) | 4:13 |
-| 13 | [DUNE](https://open.spotify.com/track/6XFstFaEHAF4nq7B1NYy0o) | [Billyrrom](https://open.spotify.com/artist/7our8lu1Vk9CLnFEu3JEbc) | [DUNE](https://open.spotify.com/album/1RjdQlC4Cj2w6awwm17t2Y) | 4:26 |
+| 13 | [DUNE](https://open.spotify.com/track/1w3YQYNtn2SsJuhkQlDFcz) | [Billyrrom](https://open.spotify.com/artist/7our8lu1Vk9CLnFEu3JEbc) | [DUNE](https://open.spotify.com/album/6ZK3tzbIjcVkdWqBNYMdmv) | 4:26 |
 | 14 | [切望](https://open.spotify.com/track/7vjOo9fJElFH24nXraNRYK) | [SUPER BEAVER](https://open.spotify.com/artist/0SMhG4gXGD4gzLMMz08cQU) | [音楽](https://open.spotify.com/album/2CBL0ep4HNPCrCkQGhWJ1M) | 4:25 |
 | 15 | [正解](https://open.spotify.com/track/0BxLFTINwKifg5szsaON6F) | [RADWIMPS](https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7) | [正解](https://open.spotify.com/album/7AEGXvatrqwbvTKJh5J7VR) | 5:58 |
 | 16 | [SONGS](https://open.spotify.com/track/0l93cYkJLTiSgHSBGful5p) | [Age Factory](https://open.spotify.com/artist/7pgRyTH4nTH4KoruoGuAQo) | [Songs](https://open.spotify.com/album/5KCNofx4mr0Blk7WXGiPXU) | 2:47 |
 | 17 | [タイムパラドックス](https://open.spotify.com/track/3jNwPOqdPvQIr5dRT0hzgY) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [タイムパラドックス](https://open.spotify.com/album/4cHdtiNVgGR80HprOsOdiK) | 3:46 |
-| 18 | [Water Carrier](https://open.spotify.com/track/675sPQdIf74UzpPrPR4tLZ) | [Kroi](https://open.spotify.com/artist/4S8J8Nct8lHsbzAeNJXcJa) | [Water Carrier](https://open.spotify.com/album/0LkdcehFEz0i0RALwIp9V7) | 4:02 |
+| 18 | [Water Carrier](https://open.spotify.com/track/4l8jSXhZ3apqimhbzhiabB) | [Kroi](https://open.spotify.com/artist/4S8J8Nct8lHsbzAeNJXcJa) | [Water Carrier](https://open.spotify.com/album/3sNzrdLqdVxbPmHAu9Iuav) | 4:02 |
 | 19 | [todayyyyy](https://open.spotify.com/track/15ZEkb83IYYal4xsbhHE03) | [\[Alexandros\]](https://open.spotify.com/artist/1luOe8HkZQ7zwuaO2wuJqI) | [todayyyyy](https://open.spotify.com/album/7Fnokrva48vBdYrFOMXO7c) | 3:48 |
 | 20 | [冬と春](https://open.spotify.com/track/6nIoYpfSvie3Ln46dyi8FC) | [back number](https://open.spotify.com/artist/6rs1KAoQnFalSqSU4LTh8g) | [冬と春](https://open.spotify.com/album/58cT2BXPIvkR4kFP4b6xaN) | 4:16 |
 | 21 | [Setsugekka](https://open.spotify.com/track/02ntK5ruQ5arRCAmQVXZmz) | [yangskinny](https://open.spotify.com/artist/3VVMRDGpbQR2SK9nHX3DW5) | [Bukiyonawatashidakara](https://open.spotify.com/album/7A2zw5c6HWDnWapolnp36b) | 5:15 |
 | 22 | [Ikada no Uta](https://open.spotify.com/track/50IvU2o8mBruTfMeVpaVb7) | [ZOOKARADERU](https://open.spotify.com/artist/0mkwliKa9Bf7kdXMV1iuMp) | [Taiyo Hoko](https://open.spotify.com/album/3kjFKAwm3qgsWIo7bHW0i5) | 4:34 |
 | 23 | [「僕は...」](https://open.spotify.com/track/5uJOkhUYFa6kkDrlEmZk3D) | [あたらよ](https://open.spotify.com/artist/2yRnjWtHzmDELwYaUiX0Yh) | [「僕は...」](https://open.spotify.com/album/4OBBoUQEAzQJw5IjxNdQ5s) | 3:59 |
-| 24 | [不完ロマンス](https://open.spotify.com/track/6GeiPhDFSxzta6J1YCjaIB) | [bokula.](https://open.spotify.com/artist/03d8apfHOy2uV3oLL9lsFG) | [不完ロマンス](https://open.spotify.com/album/3cDwYqsC8SXdDQ6zeFvAd0) | 3:30 |
+| 24 | [Fukan Romance](https://open.spotify.com/track/4qUBjqmstuHK8DfdfKpkWk) | [bokula.](https://open.spotify.com/artist/03d8apfHOy2uV3oLL9lsFG) | [Fukan Romance](https://open.spotify.com/album/4BZryJ7vxw9BkS1lIfwXZy) | 3:30 |
 | 25 | [はじめから自由だった](https://open.spotify.com/track/58y3Xk4J1uT7EpyYomT4pg) | [Humbreaders](https://open.spotify.com/artist/32k7rSC70F3C7qif9Pgavi) | [はじめから自由だった](https://open.spotify.com/album/1ZpAlTk2lqbFe8Nye8Aewz) | 3:19 |
 | 26 | [Sleepwalk](https://open.spotify.com/track/5WHq3vcWRRb9xeQKgv7lAi) | [natori](https://open.spotify.com/artist/6WmXWHmfBMhupyIs8MSqtu) | [Sleepwalk](https://open.spotify.com/album/44MMBtUPt8JVNAZMdfPecJ) | 2:27 |
 | 27 | [ドライブ・マイ・イデア](https://open.spotify.com/track/4kprPDP5JqxcBLqKXjhMTJ) | [Tempalay](https://open.spotify.com/artist/5IlQkA8Lq4X0dOWHBumeJP) | [ドライブ・マイ・イデア](https://open.spotify.com/album/1hyXLEpA9pZfWenpqUUE5Q) | 3:37 |
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ntWKaOqGAp.md) - [plain]
 | 31 | [tears](https://open.spotify.com/track/6DCowyqx9z4926yxFAaQZ3) | [Hitsujibungaku](https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n) | [tears](https://open.spotify.com/album/4shzDdJe5GyQvm2EVsE9Qt) | 3:30 |
 | 32 | [また旅に誘われて](https://open.spotify.com/track/5l0SzsTg6IBI3LwfLvq4f2) | [離婚伝説](https://open.spotify.com/artist/0fLlzy1mzxu6XItsSY5KN2) | [離婚伝説](https://open.spotify.com/album/6EUUyYF65ypQvxmhjk17zb) | 2:42 |
 | 33 | [Love no Genkei](https://open.spotify.com/track/2WW8KjNeaeKLCV16w4vmO7) | [AJICO](https://open.spotify.com/artist/1F6WT6I5BMsRTWTS4r92wY) | [Love no Genkei](https://open.spotify.com/album/2sOTrGKCJK6NzbDlLQm1i1) | 3:26 |
-| 34 | [ファンファーレ](https://open.spotify.com/track/4nq80DMRmRZRBW12tN3rmS) | [SCANDAL](https://open.spotify.com/artist/7hTZwqQILVH4bAbN67CeEz) | [LUMINOUS](https://open.spotify.com/album/3Z4uX6UeTkCl4g2g0XqXsh) | 3:48 |
+| 34 | [ファンファーレ](https://open.spotify.com/track/42IZvenX9kmevVWxjZLNwV) | [SCANDAL](https://open.spotify.com/artist/7hTZwqQILVH4bAbN67CeEz) | [LUMINOUS](https://open.spotify.com/album/7aJkW9YMx2gzLTMQcEqeR0) | 3:48 |
 | 35 | [ハートブレイク・ダンスミュージック](https://open.spotify.com/track/1HfT1AF5VNwMLDHf6A0Vwi) | [PEOPLE 1](https://open.spotify.com/artist/2llRPLPOCvnAiUozItvPsU) | [星巡り、君に金星](https://open.spotify.com/album/3NsnN2tlsf5jrqB9Qj2CMS) | 2:48 |
 | 36 | [Awesome Life](https://open.spotify.com/track/1SfUUKXNcbebiw0T5rioWf) | [Novelbright](https://open.spotify.com/artist/0jWCX6zp4RjWrmZRxJ2uri) | [Awesome Life](https://open.spotify.com/album/4t2LdzmziFd3SrKMP9sd6p) | 3:47 |
 | 37 | [晴る](https://open.spotify.com/track/5eY7692tmgHB9dbmq6wa2M) | [ヨルシカ](https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik) | [晴る](https://open.spotify.com/album/4O53dhmIctih3p2suAAgga) | 4:30 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ntWKaOqGAp.md) - [plain]
 | 99 | [鯨の巣](https://open.spotify.com/track/1jOsiKMmpkYuGm2tW9v72h) | [domico](https://open.spotify.com/artist/0CQuAKiUYqH0OK020E3miJ) | [鯨の巣](https://open.spotify.com/album/04Yint2Re3tPB4unUxosFG) | 3:42 |
 | 100 | [LOVELY DESTRUCTION](https://open.spotify.com/track/5IvzUopWfEOxa1wGdI1PMX) | [THIS IS JAPAN](https://open.spotify.com/artist/753OhFtxllDpBJvOmxh6CD) | [LOVELY DESTRUCTION](https://open.spotify.com/album/3wAc9pRpgeaM4zSGKbiutl) | 2:52 |
 
-Snapshot ID: `MCxhMzQ1YjYzMDVjNzVkZTg5ZjIzODllMzBjZGM3YzJlYzc1YzlhOTE1`
+Snapshot ID: `MCxkZWIyMGQ1NjMyMDhlNGFmMGQ0Zjk5NWQ1ZDFmN2RjOThjZDEzZWM5`

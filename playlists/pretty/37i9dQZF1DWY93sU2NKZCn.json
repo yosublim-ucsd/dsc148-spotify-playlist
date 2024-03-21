@@ -1,12 +1,12 @@
 {
   "description": "No quieren compromiso, solo quieren bellaquera. <a href=https://spotify.com/descubretuflow>Descubre tu Flow</a>  ",
-  "num_followers": 862499,
+  "num_followers": 862383,
   "original_name": "yo no me porto bonito \ud83d\ude08",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmYzliY2NjYTNhNmViNzBhNWYwNjhiZDZhODFkZTc2NzQ4ZTBhMzYx",
+  "snapshot_id": "MCw1MTUzNzBjNTlkMTQ0NTdhMTExYjc3ODBhNWQ4ZWEwNTIyZWNhNThj",
   "tracks": [
     {
       "added_at": "2023-07-18 19:16:03",
@@ -919,22 +919,6 @@
     {
       "added_at": "2023-07-18 19:16:03",
       "album": {
-        "name": "BELLAKITA",
-        "url": "https://open.spotify.com/album/6Fj0GkKMMINezcKru5p1ju"
-      },
-      "artists": [
-        {
-          "name": "El Jordan 23",
-          "url": "https://open.spotify.com/artist/1fIJZfSmqQkuqfKNRmrS1V"
-        }
-      ],
-      "duration_ms": 132244,
-      "name": "BELLAKITA",
-      "url": "https://open.spotify.com/track/2l58pc9aJRjkoj5RcesCJF"
-    },
-    {
-      "added_at": "2023-07-18 19:16:03",
-      "album": {
         "name": "Me Acostumbre (feat. Bad Bunny)",
         "url": "https://open.spotify.com/album/4yE7L5RhMkjX7KkweWjFYk"
       },
@@ -951,6 +935,22 @@
       "duration_ms": 263288,
       "name": "Me Acostumbre (feat. Bad Bunny)",
       "url": "https://open.spotify.com/track/2FIm6YsSGL5acOqSuJDh5s"
+    },
+    {
+      "added_at": "2023-07-18 19:16:03",
+      "album": {
+        "name": "BELLAKITA",
+        "url": "https://open.spotify.com/album/6Fj0GkKMMINezcKru5p1ju"
+      },
+      "artists": [
+        {
+          "name": "El Jordan 23",
+          "url": "https://open.spotify.com/artist/1fIJZfSmqQkuqfKNRmrS1V"
+        }
+      ],
+      "duration_ms": 132244,
+      "name": "BELLAKITA",
+      "url": "https://open.spotify.com/track/2l58pc9aJRjkoj5RcesCJF"
     },
     {
       "added_at": "2023-07-18 19:16:03",
@@ -1015,58 +1015,6 @@
     {
       "added_at": "2023-07-18 19:16:03",
       "album": {
-        "name": "M.A (Remix)",
-        "url": "https://open.spotify.com/album/3iggaiQChBAIIfQP8ZH2bR"
-      },
-      "artists": [
-        {
-          "name": "BM",
-          "url": "https://open.spotify.com/artist/5TP8Ubo4jLKEi4Mw2O8fAk"
-        },
-        {
-          "name": "Callejero Fino",
-          "url": "https://open.spotify.com/artist/6GRwwWAtmusrgAL5JF9Dfr"
-        },
-        {
-          "name": "La Joaqui",
-          "url": "https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM"
-        },
-        {
-          "name": "Lola Indigo",
-          "url": "https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna"
-        }
-      ],
-      "duration_ms": 272727,
-      "name": "M.A - Remix",
-      "url": "https://open.spotify.com/track/7JB29gnUowzSGRdIpeVqRQ"
-    },
-    {
-      "added_at": "2023-07-18 19:16:03",
-      "album": {
-        "name": "SAGITARIO",
-        "url": "https://open.spotify.com/album/4GlriazgsYPXES2XYkb4gb"
-      },
-      "artists": [
-        {
-          "name": "El Alfa",
-          "url": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
-        },
-        {
-          "name": "El Cherry Scom",
-          "url": "https://open.spotify.com/artist/1tfhFc2Y8iplDKCteuXjCY"
-        },
-        {
-          "name": "CJ",
-          "url": "https://open.spotify.com/artist/7arQA31aZVS8yS6zUveWzb"
-        }
-      ],
-      "duration_ms": 219000,
-      "name": "La Mam\u00e1 de la Mam\u00e1",
-      "url": "https://open.spotify.com/track/4zTSSrtsaVVjT3RZKQ1Gqn"
-    },
-    {
-      "added_at": "2023-07-18 19:16:03",
-      "album": {
         "name": "La Jeepeta (Remix)",
         "url": "https://open.spotify.com/album/5emzM1P5GGeroiivNQgCq4"
       },
@@ -1099,6 +1047,30 @@
     {
       "added_at": "2023-07-18 19:16:03",
       "album": {
+        "name": "SAGITARIO",
+        "url": "https://open.spotify.com/album/4GlriazgsYPXES2XYkb4gb"
+      },
+      "artists": [
+        {
+          "name": "El Alfa",
+          "url": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
+        },
+        {
+          "name": "El Cherry Scom",
+          "url": "https://open.spotify.com/artist/1tfhFc2Y8iplDKCteuXjCY"
+        },
+        {
+          "name": "CJ",
+          "url": "https://open.spotify.com/artist/7arQA31aZVS8yS6zUveWzb"
+        }
+      ],
+      "duration_ms": 219000,
+      "name": "La Mam\u00e1 de la Mam\u00e1",
+      "url": "https://open.spotify.com/track/4zTSSrtsaVVjT3RZKQ1Gqn"
+    },
+    {
+      "added_at": "2023-07-18 19:16:03",
+      "album": {
         "name": "MA\u00d1ANA SER\u00c1 BONITO",
         "url": "https://open.spotify.com/album/4kS7bSuU0Jm9LYMosFU2x5"
       },
@@ -1119,6 +1091,34 @@
       "duration_ms": 180040,
       "name": "OJOS FERRARI",
       "url": "https://open.spotify.com/track/5yAIrkplUEpMNeojW8Q30o"
+    },
+    {
+      "added_at": "2023-07-18 19:16:03",
+      "album": {
+        "name": "M.A (Remix)",
+        "url": "https://open.spotify.com/album/3iggaiQChBAIIfQP8ZH2bR"
+      },
+      "artists": [
+        {
+          "name": "BM",
+          "url": "https://open.spotify.com/artist/5TP8Ubo4jLKEi4Mw2O8fAk"
+        },
+        {
+          "name": "Callejero Fino",
+          "url": "https://open.spotify.com/artist/6GRwwWAtmusrgAL5JF9Dfr"
+        },
+        {
+          "name": "La Joaqui",
+          "url": "https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM"
+        },
+        {
+          "name": "Lola Indigo",
+          "url": "https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna"
+        }
+      ],
+      "duration_ms": 272727,
+      "name": "M.A - Remix",
+      "url": "https://open.spotify.com/track/7JB29gnUowzSGRdIpeVqRQ"
     },
     {
       "added_at": "2023-07-18 19:16:03",

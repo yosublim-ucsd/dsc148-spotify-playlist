@@ -4,7 +4,7 @@
 
 > Listen to the music from and inspired by My Life With The Walter Boys, now streaming on Netflix.
 
-63 songs - 3 hr 41 min
+64 songs - 3 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,7 +13,7 @@
 | [All I Need](https://open.spotify.com/track/0wXcR22xhY4bwCXuK5Iaq2) | [Hannah Georgas](https://open.spotify.com/artist/1ZBR8sri8ddYowXDENBwKS) | [The Beat Stuff](https://open.spotify.com/album/6EXOS0ynHkmgyGXhuBJ3yx) | 4:46 | 2023-12-07 |  |
 | [All I Need](https://open.spotify.com/track/36dbB7Cg9QWYSmruXZZbKQ) | [Shad](https://open.spotify.com/artist/15lOM8PWY9pXQoURZwSZlK), [Yukon Blonde](https://open.spotify.com/artist/3CdvcTOH01EXzXu96afkSN) | [A Short Story About A War](https://open.spotify.com/album/3H838yGtnwjCLEz0nOQ4kO) | 2:58 | 2023-12-07 |  |
 | [All We Need](https://open.spotify.com/track/0WMcusFC56sd1SaHhkDdcS) | [Alexandria Maillot](https://open.spotify.com/artist/3Uh1hwQUVJLK5Srk4PosCK) | [Just Another Girl](https://open.spotify.com/album/6NWDLMRlYLyXbt6mFgjj1R) | 4:04 | 2023-12-07 |  |
-| [All You Are](https://open.spotify.com/track/7zf09VXfLiFAd5mY7tGoVM) | [Jeff Meegan and Brad Hatfield](https://open.spotify.com/artist/6n27kwGN6RHteWvmB9pCAc) | [Jazz Lounge \- Cocktails and Crooners](https://open.spotify.com/album/4OPNhTulfcjTjMGqSEtl2M) | 3:00 | 2023-12-07 |  |
+| [All You Are](https://open.spotify.com/track/7zf09VXfLiFAd5mY7tGoVM) | [Jeff Meegan and Brad Hatfield](https://open.spotify.com/artist/6n27kwGN6RHteWvmB9pCAc) | [Jazz Lounge \- Cocktails and Crooners](https://open.spotify.com/album/4OPNhTulfcjTjMGqSEtl2M) | 3:00 | 2023-12-07 | 2024-03-21 |
 | [Around and Around](https://open.spotify.com/track/5itBerbyiF0dDF7LEtpoGR) | [The Happy Fits](https://open.spotify.com/artist/73rPcaYEhBd0UuVZBqqyQJ) | [Under The Shade of Green](https://open.spotify.com/album/7zDlksfOktU7vodm08KPsb) | 2:34 | 2023-12-07 |  |
 | [Better When You're Close](https://open.spotify.com/track/0BRQ9wtu7bxwdPgPQ7k9pF) | [Blonde Diamond](https://open.spotify.com/artist/0skYMbISqV2drnQbJopK8Y) | [Better When You're Close](https://open.spotify.com/album/4kVwfbwmYoP5ZkDghOq6pA) | 4:11 | 2023-12-07 |  |
 | [Body Language](https://open.spotify.com/track/6cdmLvWwnWq0MkRsy3c4x8) | [Helena Deland](https://open.spotify.com/artist/0BJeP79i5wKgCqsEEiQ7G0) | [Altogether Unaccompanied, Vol\. II](https://open.spotify.com/album/1oXWxbM8MIW61D8YuRhQwP) | 4:17 | 2023-12-07 |  |
@@ -70,6 +70,7 @@
 | [What They'll Say About Us](https://open.spotify.com/track/4W1gUkq2TAOOFCBet3i3WR) | [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX) | [Optimist](https://open.spotify.com/album/3KChz6qdEH9AfHE6VCBshZ) | 3:01 | 2023-12-07 |  |
 | [Written in the Stars](https://open.spotify.com/track/7qYn4YinA7STHgpEisVA4N) | [Hyaenas](https://open.spotify.com/artist/3WURoSXW6bsmAW6JtgYiYU) | [Little Trophy](https://open.spotify.com/album/12ZOnVksOZO6kRaRQY8N3t) | 4:51 | 2023-12-07 |  |
 | [Wrong](https://open.spotify.com/track/7wpYKytaFjqZSYOSTdOQTl) | [We Are Wolves](https://open.spotify.com/artist/1Mt6gJbSKbLoSXWbgb44LW) | [Wrong](https://open.spotify.com/album/3IkMM0UTXEm96zBZ4sgCtO) | 2:45 | 2023-12-07 |  |
+| [You Are](https://open.spotify.com/track/5RFXj4CtuwBr49Vt9DE7eQ) | [Jeff Meegan](https://open.spotify.com/artist/2XS2MrkksPqxbs0jputTr8) | [Velvet](https://open.spotify.com/album/2ACuDDZFy5s5kHA1b8TSkW) | 2:54 | 2023-12-07 |  |
 | [You're the One](https://open.spotify.com/track/4cREE7Jgm3e1szbDQ1P8hN) | [Luca Fogale](https://open.spotify.com/artist/3GKdEPHUSBp3iNT4SG2Med) | [Nothing is Lost](https://open.spotify.com/album/4oSPnhntlJfKCoplB7o93h) | 3:38 | 2023-12-07 |  |
 
 \*This playlist was first scraped on 2023-12-08. Prior content cannot be recovered.

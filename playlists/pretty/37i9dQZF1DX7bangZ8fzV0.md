@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7bangZ8fzV0.md) - [plain]
 
 > Net die beste Afrikaanse musiek\. Omslag: <a href="https://open.spotify.com/artist/2c2ibERmshNT2uvFBiRDWD?si=Cri33jcQSpi3WKsUmfMSBQ">Bobby Van Jaarsveld</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 97,813 likes - 75 songs - 4 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 97,883 likes - 75 songs - 4 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7bangZ8fzV0.md) - [plain]
 | 74 | [Gooi Nog 'n Whiskey](https://open.spotify.com/track/7Bn6wlpyw2ucBHxdDYEAUT) | [Riaan Benadé](https://open.spotify.com/artist/7aijVRJ1wOqmLs6NucdtB7) | [Spontaan](https://open.spotify.com/album/25pTHMFYTDNLVnEqRKIVQl) | 3:00 |
 | 75 | [Vuur Op Die Water](https://open.spotify.com/track/7hnO1itqe41tDT0tuEOgVV) | [Elandré](https://open.spotify.com/artist/3Gg20zbz8OVW3iahm8uoYo) | [Vuur Op Die Water](https://open.spotify.com/album/40vvsgbIIr5XKof5iKCBr2) | 3:36 |
 
-Snapshot ID: `MCw2NGExNGM5MzRiYTJjYWZjY2Q0MDNmZDMwMjI1YWMyM2U2OGVmOTEx`
+Snapshot ID: `MCwyMzM1ODA4MjBkMzFiYTI3OTkwZmNkMmE1MjU4N2QzODllNjdhNGFh`

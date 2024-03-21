@@ -8,7 +8,7 @@
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [1% \- Ao Vivo](https://open.spotify.com/track/6gu8xo31Bsg22KhwTLJsmJ) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi), [Vitinho](https://open.spotify.com/artist/09djLPsTydbIFC9duW5mQp) | [Numanice \#3 \(Ao Vivo\)](https://open.spotify.com/album/2uNEA9woVB0GKJuv4vA9Af) | 3:14 | 2024-03-13 |  |
+| [1% \- Ao Vivo](https://open.spotify.com/track/6gu8xo31Bsg22KhwTLJsmJ) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi), [Vitinho](https://open.spotify.com/artist/09djLPsTydbIFC9duW5mQp) | [Numanice \#3 \(Ao Vivo\)](https://open.spotify.com/album/2uNEA9woVB0GKJuv4vA9Af) | 3:14 | 2024-03-13 | 2024-03-21 |
 | [A boba fui eu \- Recorded At Mosh Studios, São Paulo](https://open.spotify.com/track/4Y7ay3naWoluoOM3xIj1UZ) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi) | [Spotify Singles](https://open.spotify.com/album/12khkvFs0A8wiIYYmRIQgk) | 3:12 | 2023-10-10 |  |
 | [A Preta Venceu \- Ao Vivo](https://open.spotify.com/track/6U3kssAL4oPYbkYFbkFDJp) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi) | [Numanice \#3 \(Ao Vivo\)](https://open.spotify.com/album/2uNEA9woVB0GKJuv4vA9Af) | 2:43 | 2024-02-23 |  |
 | [Afogado \- Ao Vivo](https://open.spotify.com/track/2BdFq2lE7rvUvieDVJBsvL) | [Gustavo Mioto](https://open.spotify.com/artist/1X6ORK7IekgmyjV6IFPszP), [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi) | [Afogado \(Ao Vivo\)](https://open.spotify.com/album/39CnDIyhEiTrEIzgs26UBS) | 2:49 | 2023-11-10 | 2023-12-14 |

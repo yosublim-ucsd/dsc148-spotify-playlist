@@ -1,12 +1,12 @@
 {
   "description": "H\u00e9l\u00e9na au top des 50 hits de vari\u00e9t\u00e9 fran\u00e7aise du moment.",
-  "num_followers": 1009832,
+  "num_followers": 1009948,
   "original_name": "Grand Hit",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5NDAzNzAyMjY2OThkY2Y2ZGViODdiZmE4NmExNTllYjQ1OTY3YTcz",
+  "snapshot_id": "MCwxZDJmMmQ4MGI1ODZlYzRlMzg1YWUwNjkzNWU1ZWZmOGMxNWNhODNj",
   "tracks": [
     {
       "added_at": "2024-03-14 23:00:00",
@@ -16,12 +16,16 @@
       },
       "artists": [
         {
+          "name": "Helena",
+          "url": "https://open.spotify.com/artist/6M0dlWzmJ9Z81JM2WpHbsC"
+        },
+        {
           "name": "Star Academy",
           "url": "https://open.spotify.com/artist/0SkR0pnP9oQ3ghG9juH9hy"
         }
       ],
       "duration_ms": 188960,
-      "name": "Aim\u00e9e pour de vrai (H\u00e9l\u00e9na)",
+      "name": "Aim\u00e9e pour de vrai",
       "url": "https://open.spotify.com/track/5peFNKKLZUaOYE0c3qZNE1"
     },
     {

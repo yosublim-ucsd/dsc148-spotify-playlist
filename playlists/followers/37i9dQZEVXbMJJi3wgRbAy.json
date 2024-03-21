@@ -1,5 +1,5 @@
 {
-  "2024-03-20": 117546,
+  "2024-03-21": 117568,
   "date_first_scraped": "2021-03-27",
   "description": "Your daily update of the most played tracks right now - Uruguay.",
   "name": "Top 50 - Uruguay",
@@ -4865,7 +4865,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-20",
       "duration_ms": 165854,
       "name": "En La Intimidad | CROSSOVER #1",
       "url": "https://open.spotify.com/track/7w7BrPbOjF5OxChs2dxFve"
@@ -8111,6 +8111,28 @@
       "duration_ms": 226093,
       "name": "MAMIII",
       "url": "https://open.spotify.com/track/7FlQk2gJ6TBrHHiidvdR2O"
+    },
+    {
+      "album": {
+        "name": "Maquillaje",
+        "url": "https://open.spotify.com/album/0L16XNlcuTsjZutD11ixsz"
+      },
+      "artists": [
+        {
+          "name": "Renn",
+          "url": "https://open.spotify.com/artist/25HXdVQcRMRgDKWbk5cn0G"
+        },
+        {
+          "name": "Yexel",
+          "url": "https://open.spotify.com/artist/1PeS3QND0gDk8tLtyQg4NL"
+        }
+      ],
+      "date_added": "2024-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211969,
+      "name": "Maquillaje",
+      "url": "https://open.spotify.com/track/4eMgCEivrlABjwo0ZiY95d"
     },
     {
       "album": {

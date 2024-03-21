@@ -1,12 +1,12 @@
 {
   "description": "Las canciones esenciales de la escena alternativa en espa\u00f1ol. Con Leiva en portada.",
-  "num_followers": 399690,
+  "num_followers": 399751,
   "original_name": "Lo Mejor del Indie Latino  ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkMzJmYWM5ODk4YTg1ZjcwYjU1ZmYzYjlhZDRjMmUwZTM0YTlhOWMx",
+  "snapshot_id": "MCw4ZmY2ZjBiZDk1ZGEzOWJjM2M3MDY5NDlkYWJlYmEzNWE4NWVmYTBm",
   "tracks": [
     {
       "added_at": "2024-03-08 20:04:23",
@@ -467,18 +467,18 @@
     {
       "added_at": "2024-03-08 20:04:23",
       "album": {
-        "name": "Un D\u00eda en el Mundo",
-        "url": "https://open.spotify.com/album/7ozOQXEfKskKDTtDpmTnuh"
+        "name": "All U Need Is Mosh",
+        "url": "https://open.spotify.com/album/4rVRjklAbBsRF2rOJEL8nA"
       },
       "artists": [
         {
-          "name": "Vetusta Morla",
-          "url": "https://open.spotify.com/artist/6J6yx1t3nwIDyPXk5xa7O8"
+          "name": "Plastilina Mosh",
+          "url": "https://open.spotify.com/artist/4PtVXWSOmF4Tox1jj6ctSq"
         }
       ],
-      "duration_ms": 303693,
-      "name": "Copenhague",
-      "url": "https://open.spotify.com/track/4bZEZhCq2kqUxnMacXVl5x"
+      "duration_ms": 244280,
+      "name": "Pervert Pop Song (Castigame)",
+      "url": "https://open.spotify.com/track/1ZzXHQ5ZAq46qZl5ifvMnn"
     },
     {
       "added_at": "2024-03-08 20:04:23",
@@ -499,18 +499,18 @@
     {
       "added_at": "2024-03-08 20:04:23",
       "album": {
-        "name": "All U Need Is Mosh",
-        "url": "https://open.spotify.com/album/4rVRjklAbBsRF2rOJEL8nA"
+        "name": "Un D\u00eda en el Mundo",
+        "url": "https://open.spotify.com/album/7ozOQXEfKskKDTtDpmTnuh"
       },
       "artists": [
         {
-          "name": "Plastilina Mosh",
-          "url": "https://open.spotify.com/artist/4PtVXWSOmF4Tox1jj6ctSq"
+          "name": "Vetusta Morla",
+          "url": "https://open.spotify.com/artist/6J6yx1t3nwIDyPXk5xa7O8"
         }
       ],
-      "duration_ms": 244280,
-      "name": "Pervert Pop Song (Castigame)",
-      "url": "https://open.spotify.com/track/1ZzXHQ5ZAq46qZl5ifvMnn"
+      "duration_ms": 303693,
+      "name": "Copenhague",
+      "url": "https://open.spotify.com/track/4bZEZhCq2kqUxnMacXVl5x"
     },
     {
       "added_at": "2024-03-08 20:04:23",
@@ -611,22 +611,6 @@
     {
       "added_at": "2024-03-08 20:04:23",
       "album": {
-        "name": "Usted Se\u00f1alemelo",
-        "url": "https://open.spotify.com/album/3xHEcjPRuQwvkkG1EogH8S"
-      },
-      "artists": [
-        {
-          "name": "Usted Se\u00f1alemelo",
-          "url": "https://open.spotify.com/artist/1a1v0OJC5GqtsLwzoqJm7j"
-        }
-      ],
-      "duration_ms": 251853,
-      "name": "Agua Marfil",
-      "url": "https://open.spotify.com/track/4lOP4BFzkPCECQTcVJgZPL"
-    },
-    {
-      "added_at": "2024-03-08 20:04:23",
-      "album": {
         "name": "Bah\u00eda Santiago",
         "url": "https://open.spotify.com/album/7p6sqvNdTInCL3bAAUoDlY"
       },
@@ -643,6 +627,22 @@
       "duration_ms": 192027,
       "name": "Fuma",
       "url": "https://open.spotify.com/track/1AYFgqbN7PuAFQ9gBf6DFx"
+    },
+    {
+      "added_at": "2024-03-08 20:04:23",
+      "album": {
+        "name": "Usted Se\u00f1alemelo",
+        "url": "https://open.spotify.com/album/3xHEcjPRuQwvkkG1EogH8S"
+      },
+      "artists": [
+        {
+          "name": "Usted Se\u00f1alemelo",
+          "url": "https://open.spotify.com/artist/1a1v0OJC5GqtsLwzoqJm7j"
+        }
+      ],
+      "duration_ms": 251853,
+      "name": "Agua Marfil",
+      "url": "https://open.spotify.com/track/4lOP4BFzkPCECQTcVJgZPL"
     },
     {
       "added_at": "2024-03-08 20:04:23",
@@ -1223,22 +1223,6 @@
     {
       "added_at": "2024-03-08 20:04:23",
       "album": {
-        "name": "El Peor Grupo del Mundo",
-        "url": "https://open.spotify.com/album/2JQ398pv4WeQPslHlFzrtP"
-      },
-      "artists": [
-        {
-          "name": "Sidonie",
-          "url": "https://open.spotify.com/artist/2pMVWkucVS130nJx59uAEa"
-        }
-      ],
-      "duration_ms": 266623,
-      "name": "Carreteras Infinitas",
-      "url": "https://open.spotify.com/track/2Q6qD1YTFn7NHuy2WmMGPG"
-    },
-    {
-      "added_at": "2024-03-08 20:04:23",
-      "album": {
         "name": "Si Me Voy",
         "url": "https://open.spotify.com/album/1IucviBb2OOIZsrb49NJEq"
       },
@@ -1251,6 +1235,22 @@
       "duration_ms": 186000,
       "name": "Si Me Voy",
       "url": "https://open.spotify.com/track/39PaCcsOLhJx3U9To1Qxak"
+    },
+    {
+      "added_at": "2024-03-08 20:04:23",
+      "album": {
+        "name": "El Peor Grupo del Mundo",
+        "url": "https://open.spotify.com/album/2JQ398pv4WeQPslHlFzrtP"
+      },
+      "artists": [
+        {
+          "name": "Sidonie",
+          "url": "https://open.spotify.com/artist/2pMVWkucVS130nJx59uAEa"
+        }
+      ],
+      "duration_ms": 266623,
+      "name": "Carreteras Infinitas",
+      "url": "https://open.spotify.com/track/2Q6qD1YTFn7NHuy2WmMGPG"
     },
     {
       "added_at": "2024-03-08 20:04:23",
@@ -1627,22 +1627,6 @@
     {
       "added_at": "2024-03-08 20:04:23",
       "album": {
-        "name": "Las Cr\u00f3nicas del Viento",
-        "url": "https://open.spotify.com/album/3mx0knIvUHGl7OwaCcFb3T"
-      },
-      "artists": [
-        {
-          "name": "Lisandro Aristimu\u00f1o",
-          "url": "https://open.spotify.com/artist/0ovfSEcDqepf0vqJc811zQ"
-        }
-      ],
-      "duration_ms": 216226,
-      "name": "Az\u00facar del Estero",
-      "url": "https://open.spotify.com/track/7Ku6mTfNvQYzDyFt4LBpVC"
-    },
-    {
-      "added_at": "2024-03-08 20:04:23",
-      "album": {
         "name": "Audiovisi\u00f3n",
         "url": "https://open.spotify.com/album/3gbz7K4IwEupgQ1ZgLhzNQ"
       },
@@ -1655,6 +1639,22 @@
       "duration_ms": 192546,
       "name": "Por la Ventana",
       "url": "https://open.spotify.com/track/0Opu86ApGccAwYL02yOEsj"
+    },
+    {
+      "added_at": "2024-03-08 20:04:23",
+      "album": {
+        "name": "Las Cr\u00f3nicas del Viento",
+        "url": "https://open.spotify.com/album/3mx0knIvUHGl7OwaCcFb3T"
+      },
+      "artists": [
+        {
+          "name": "Lisandro Aristimu\u00f1o",
+          "url": "https://open.spotify.com/artist/0ovfSEcDqepf0vqJc811zQ"
+        }
+      ],
+      "duration_ms": 216226,
+      "name": "Az\u00facar del Estero",
+      "url": "https://open.spotify.com/track/7Ku6mTfNvQYzDyFt4LBpVC"
     },
     {
       "added_at": "2024-03-08 20:04:23",

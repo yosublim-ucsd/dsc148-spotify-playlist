@@ -1,12 +1,12 @@
 {
   "description": "La m\u00fasica que enciende las fiestas navide\u00f1as y de fin de a\u00f1o en Colombia.",
-  "num_followers": 125357,
+  "num_followers": 125348,
   "original_name": "M\u00fasica Decembrina",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzMWY2MDcwZjIxY2RhYWVlNjhiYjk0MmE2YzQ1N2Q1OTZmZDM1YTZk",
+  "snapshot_id": "MCw2MzkzZmI1NzgxODBlZDgwNzE5Njc3OTZmMzkyYTVlOTdhODBiZjI5",
   "tracks": [
     {
       "added_at": "2023-12-20 18:46:33",
@@ -347,18 +347,18 @@
     {
       "added_at": "2023-12-20 18:46:33",
       "album": {
-        "name": "La Orquesta Que Impone El Ritmo",
-        "url": "https://open.spotify.com/album/5q6hd4CqyZ1sgdZfPmB4G1"
+        "name": "Por Las Buenas",
+        "url": "https://open.spotify.com/album/4uwZYTIdlBBRDb3M2nYrk1"
       },
       "artists": [
         {
-          "name": "Los Mel\u00f3dicos",
-          "url": "https://open.spotify.com/artist/4LdArZAC1QPQdyz8JNOYVW"
+          "name": "Billo's Caracas Boys",
+          "url": "https://open.spotify.com/artist/38zyliF0xdJKS7k1BIEuL6"
         }
       ],
-      "duration_ms": 265546,
-      "name": "Z\u00fambalo",
-      "url": "https://open.spotify.com/track/7nhT7NOcyixKV17KLPAzdE"
+      "duration_ms": 155538,
+      "name": "Por Las Buenas",
+      "url": "https://open.spotify.com/track/3k2qOgZygd9YxrYGqkK6Dj"
     },
     {
       "added_at": "2023-12-20 18:46:33",
@@ -383,18 +383,18 @@
     {
       "added_at": "2023-12-20 18:46:33",
       "album": {
-        "name": "Por Las Buenas",
-        "url": "https://open.spotify.com/album/4uwZYTIdlBBRDb3M2nYrk1"
+        "name": "La Orquesta Que Impone El Ritmo",
+        "url": "https://open.spotify.com/album/5q6hd4CqyZ1sgdZfPmB4G1"
       },
       "artists": [
         {
-          "name": "Billo's Caracas Boys",
-          "url": "https://open.spotify.com/artist/38zyliF0xdJKS7k1BIEuL6"
+          "name": "Los Mel\u00f3dicos",
+          "url": "https://open.spotify.com/artist/4LdArZAC1QPQdyz8JNOYVW"
         }
       ],
-      "duration_ms": 155538,
-      "name": "Por Las Buenas",
-      "url": "https://open.spotify.com/track/3k2qOgZygd9YxrYGqkK6Dj"
+      "duration_ms": 265546,
+      "name": "Z\u00fambalo",
+      "url": "https://open.spotify.com/track/7nhT7NOcyixKV17KLPAzdE"
     },
     {
       "added_at": "2023-12-20 18:46:33",
@@ -635,6 +635,22 @@
     {
       "added_at": "2023-12-20 18:46:33",
       "album": {
+        "name": "Y Como Se Mata El Gusano?",
+        "url": "https://open.spotify.com/album/4XYaFGWLlnQoOsUanKU4NK"
+      },
+      "artists": [
+        {
+          "name": "Miguel Moly",
+          "url": "https://open.spotify.com/artist/597Qn1wBw1ZwHNIzeRxOm8"
+        }
+      ],
+      "duration_ms": 196040,
+      "name": "Junto A Tu Corazon",
+      "url": "https://open.spotify.com/track/0weoBV2J1VVaNrjD8h4bLx"
+    },
+    {
+      "added_at": "2023-12-20 18:46:33",
+      "album": {
         "name": "Asalto Navide\u00f1o: Vol. 1 & 2",
         "url": "https://open.spotify.com/album/2m2jXwkrxiFkmfjYArZRQw"
       },
@@ -655,22 +671,6 @@
       "duration_ms": 223200,
       "name": "Aires De Navidad",
       "url": "https://open.spotify.com/track/0LdlVrH3R9PCfaVNNVANgl"
-    },
-    {
-      "added_at": "2023-12-20 18:46:33",
-      "album": {
-        "name": "Y Como Se Mata El Gusano?",
-        "url": "https://open.spotify.com/album/4XYaFGWLlnQoOsUanKU4NK"
-      },
-      "artists": [
-        {
-          "name": "Miguel Moly",
-          "url": "https://open.spotify.com/artist/597Qn1wBw1ZwHNIzeRxOm8"
-        }
-      ],
-      "duration_ms": 196040,
-      "name": "Junto A Tu Corazon",
-      "url": "https://open.spotify.com/track/0weoBV2J1VVaNrjD8h4bLx"
     },
     {
       "added_at": "2023-12-20 18:46:33",
@@ -803,6 +803,22 @@
     {
       "added_at": "2023-12-20 18:46:33",
       "album": {
+        "name": "Grandes Exitos",
+        "url": "https://open.spotify.com/album/7kV3KWcCEPi4HeDVFzSh0L"
+      },
+      "artists": [
+        {
+          "name": "Los Embajadores Vallenatos",
+          "url": "https://open.spotify.com/artist/7fKNYbN8RoEoPyi6FoGMLf"
+        }
+      ],
+      "duration_ms": 269191,
+      "name": "El Santo Cachon",
+      "url": "https://open.spotify.com/track/5MDeca8IiesNdQsOZC894q"
+    },
+    {
+      "added_at": "2023-12-20 18:46:33",
+      "album": {
         "name": "\u00a1Para Bailar!",
         "url": "https://open.spotify.com/album/371uwra4kQVB4GyUxSSHGs"
       },
@@ -819,22 +835,6 @@
       "duration_ms": 204604,
       "name": "Sobre las Olas",
       "url": "https://open.spotify.com/track/2ldG5rONyzUeVGIjzqbHOI"
-    },
-    {
-      "added_at": "2023-12-20 18:46:33",
-      "album": {
-        "name": "Grandes Exitos",
-        "url": "https://open.spotify.com/album/7kV3KWcCEPi4HeDVFzSh0L"
-      },
-      "artists": [
-        {
-          "name": "Los Embajadores Vallenatos",
-          "url": "https://open.spotify.com/artist/7fKNYbN8RoEoPyi6FoGMLf"
-        }
-      ],
-      "duration_ms": 269191,
-      "name": "El Santo Cachon",
-      "url": "https://open.spotify.com/track/5MDeca8IiesNdQsOZC894q"
     },
     {
       "added_at": "2023-12-20 18:46:33",
@@ -887,22 +887,6 @@
     {
       "added_at": "2023-12-20 18:46:33",
       "album": {
-        "name": "Pasado y Presente: 14 A\u00f1os de \u00c9xitos",
-        "url": "https://open.spotify.com/album/2sFskvgiMamk6Uhgowq12F"
-      },
-      "artists": [
-        {
-          "name": "Los 50 De Joselito",
-          "url": "https://open.spotify.com/artist/0FTkvpgQfrCz3ku0oSbrYU"
-        }
-      ],
-      "duration_ms": 156467,
-      "name": "Mar\u00eda Teresa",
-      "url": "https://open.spotify.com/track/6lWukOjF9fOuvP54733WbK"
-    },
-    {
-      "added_at": "2023-12-20 18:46:33",
-      "album": {
         "name": "Qu\u00e9 Ch\u00e9vere, Vol. 2",
         "url": "https://open.spotify.com/album/7kwDYvYAr3mh2HjR00DCDU"
       },
@@ -919,6 +903,22 @@
       "duration_ms": 219426,
       "name": "Que No Quede Huella",
       "url": "https://open.spotify.com/track/28EWM0qJ09oupIAhNEeLlK"
+    },
+    {
+      "added_at": "2023-12-20 18:46:33",
+      "album": {
+        "name": "Pasado y Presente: 14 A\u00f1os de \u00c9xitos",
+        "url": "https://open.spotify.com/album/2sFskvgiMamk6Uhgowq12F"
+      },
+      "artists": [
+        {
+          "name": "Los 50 De Joselito",
+          "url": "https://open.spotify.com/artist/0FTkvpgQfrCz3ku0oSbrYU"
+        }
+      ],
+      "duration_ms": 156467,
+      "name": "Mar\u00eda Teresa",
+      "url": "https://open.spotify.com/track/6lWukOjF9fOuvP54733WbK"
     },
     {
       "added_at": "2023-12-20 18:46:33",
@@ -1095,22 +1095,6 @@
     {
       "added_at": "2023-12-20 18:46:33",
       "album": {
-        "name": "El Sonido Original",
-        "url": "https://open.spotify.com/album/79xdwYb46OpWG5PhaIbwi2"
-      },
-      "artists": [
-        {
-          "name": "Emir Bosc\u00e1n y los Tomasinos",
-          "url": "https://open.spotify.com/artist/15Phddkrtt00KTVrq1WkR4"
-        }
-      ],
-      "duration_ms": 143917,
-      "name": "Cubita La Bella",
-      "url": "https://open.spotify.com/track/6Nc7VYYybev1B7fS9XEWeF"
-    },
-    {
-      "added_at": "2023-12-20 18:46:33",
-      "album": {
         "name": "M\u00fasica Tropical de Colombia, Vol. 17",
         "url": "https://open.spotify.com/album/2l2CiNWyegCBfXad25fAJT"
       },
@@ -1127,6 +1111,22 @@
       "duration_ms": 235880,
       "name": "La Suavecita",
       "url": "https://open.spotify.com/track/5s2OhbqW2GN75afWXmwC9C"
+    },
+    {
+      "added_at": "2023-12-20 18:46:33",
+      "album": {
+        "name": "El Sonido Original",
+        "url": "https://open.spotify.com/album/79xdwYb46OpWG5PhaIbwi2"
+      },
+      "artists": [
+        {
+          "name": "Emir Bosc\u00e1n y los Tomasinos",
+          "url": "https://open.spotify.com/artist/15Phddkrtt00KTVrq1WkR4"
+        }
+      ],
+      "duration_ms": 143917,
+      "name": "Cubita La Bella",
+      "url": "https://open.spotify.com/track/6Nc7VYYybev1B7fS9XEWeF"
     },
     {
       "added_at": "2023-12-20 18:46:33",
@@ -1183,26 +1183,6 @@
     {
       "added_at": "2023-12-20 18:46:33",
       "album": {
-        "name": "Las Que Faltaban",
-        "url": "https://open.spotify.com/album/6pbYCrwIfYWmp0Tz4V7CRw"
-      },
-      "artists": [
-        {
-          "name": "Diomedes Diaz",
-          "url": "https://open.spotify.com/artist/66NweiA3nU84k1S3SZdTSG"
-        },
-        {
-          "name": "Juancho Rois",
-          "url": "https://open.spotify.com/artist/0ZDAU5BLvLXTYqlrjW6KF1"
-        }
-      ],
-      "duration_ms": 274546,
-      "name": "Las Cuatro Fiestas",
-      "url": "https://open.spotify.com/track/6saaz6xf1KVaSWT4Geb5L6"
-    },
-    {
-      "added_at": "2023-12-20 18:46:33",
-      "album": {
         "name": "Historia M\u00fasical - 30 \u00c9xitos",
         "url": "https://open.spotify.com/album/1xNSKvjq7Te0taB7oyocdj"
       },
@@ -1219,6 +1199,26 @@
       "duration_ms": 280880,
       "name": "Buscandote",
       "url": "https://open.spotify.com/track/2FtjaDTZOsJCjFWuNXqJUl"
+    },
+    {
+      "added_at": "2023-12-20 18:46:33",
+      "album": {
+        "name": "Las Que Faltaban",
+        "url": "https://open.spotify.com/album/6pbYCrwIfYWmp0Tz4V7CRw"
+      },
+      "artists": [
+        {
+          "name": "Diomedes Diaz",
+          "url": "https://open.spotify.com/artist/66NweiA3nU84k1S3SZdTSG"
+        },
+        {
+          "name": "Juancho Rois",
+          "url": "https://open.spotify.com/artist/0ZDAU5BLvLXTYqlrjW6KF1"
+        }
+      ],
+      "duration_ms": 274546,
+      "name": "Las Cuatro Fiestas",
+      "url": "https://open.spotify.com/track/6saaz6xf1KVaSWT4Geb5L6"
     },
     {
       "added_at": "2023-12-20 18:46:33",
@@ -1343,22 +1343,6 @@
     {
       "added_at": "2023-12-20 18:46:33",
       "album": {
-        "name": "Historia M\u00fasical - 40 \u00c9xitos",
-        "url": "https://open.spotify.com/album/08HcNFrvSVdG8h1zOJj7nO"
-      },
-      "artists": [
-        {
-          "name": "Afrosound",
-          "url": "https://open.spotify.com/artist/0i4Qda0k4nf7jnNHmSNpYv"
-        }
-      ],
-      "duration_ms": 214360,
-      "name": "Mar de Emociones",
-      "url": "https://open.spotify.com/track/5Ocn6dZ3BJFPWh4ylwFXtn"
-    },
-    {
-      "added_at": "2023-12-20 18:46:33",
-      "album": {
         "name": "Los Relajos del Arriero",
         "url": "https://open.spotify.com/album/5Z8e6tnjGvPulTFqddGxG8"
       },
@@ -1371,6 +1355,22 @@
       "duration_ms": 128560,
       "name": "Con Verraquera",
       "url": "https://open.spotify.com/track/1zbFphPJy50PP88eIpMvMc"
+    },
+    {
+      "added_at": "2023-12-20 18:46:33",
+      "album": {
+        "name": "Historia M\u00fasical - 40 \u00c9xitos",
+        "url": "https://open.spotify.com/album/08HcNFrvSVdG8h1zOJj7nO"
+      },
+      "artists": [
+        {
+          "name": "Afrosound",
+          "url": "https://open.spotify.com/artist/0i4Qda0k4nf7jnNHmSNpYv"
+        }
+      ],
+      "duration_ms": 214360,
+      "name": "Mar de Emociones",
+      "url": "https://open.spotify.com/track/5Ocn6dZ3BJFPWh4ylwFXtn"
     },
     {
       "added_at": "2023-12-20 18:46:33",

@@ -1,12 +1,12 @@
 {
   "description": "layan je",
-  "num_followers": 109197,
+  "num_followers": 109282,
   "original_name": "galau rabak",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2NmQ2NjZjOWQ3NGI4ZWRjMzc1OTdiZmM0NGM2Y2JhNjEwOWQ0OGM5",
+  "snapshot_id": "MCw1N2JmMDVjY2RlMmIyYWVmYWRkOWVkN2I0OTFlZGE0MjhmNWY0NGUw",
   "tracks": [
     {
       "added_at": "2024-03-07 16:00:00",
@@ -179,22 +179,6 @@
     {
       "added_at": "2024-03-07 16:00:00",
       "album": {
-        "name": "Jiwa Yang Bersedih",
-        "url": "https://open.spotify.com/album/1qZmwFxHsdCTrwkzXI69oL"
-      },
-      "artists": [
-        {
-          "name": "Ghea Indrawari",
-          "url": "https://open.spotify.com/artist/3qL7BzwJOXq3EzAio36aLX"
-        }
-      ],
-      "duration_ms": 278219,
-      "name": "Jiwa Yang Bersedih",
-      "url": "https://open.spotify.com/track/6XsFgTG4dY768oIB4Dmeu0"
-    },
-    {
-      "added_at": "2024-03-07 16:00:00",
-      "album": {
         "name": "Duka",
         "url": "https://open.spotify.com/album/6RUEyCnpcBsm3uSv08NY8q"
       },
@@ -231,18 +215,18 @@
     {
       "added_at": "2024-03-07 16:00:00",
       "album": {
-        "name": "Nanti Kita Seperti Ini",
-        "url": "https://open.spotify.com/album/2UF7W9r1nqberWW2Bkx4ZT"
+        "name": "Jiwa Yang Bersedih",
+        "url": "https://open.spotify.com/album/1qZmwFxHsdCTrwkzXI69oL"
       },
       "artists": [
         {
-          "name": "Batas Senja",
-          "url": "https://open.spotify.com/artist/4AhHkaGz7W2bKKJK90IaV2"
+          "name": "Ghea Indrawari",
+          "url": "https://open.spotify.com/artist/3qL7BzwJOXq3EzAio36aLX"
         }
       ],
-      "duration_ms": 209647,
-      "name": "Nanti Kita Seperti Ini",
-      "url": "https://open.spotify.com/track/2NjbJR8y083mOV59255QSe"
+      "duration_ms": 278219,
+      "name": "Jiwa Yang Bersedih",
+      "url": "https://open.spotify.com/track/6XsFgTG4dY768oIB4Dmeu0"
     },
     {
       "added_at": "2024-03-07 16:00:00",
@@ -259,6 +243,22 @@
       "duration_ms": 235335,
       "name": "Ku Ingin Pisah",
       "url": "https://open.spotify.com/track/1uy2DsaTtdBO9jBo7KBLWE"
+    },
+    {
+      "added_at": "2024-03-07 16:00:00",
+      "album": {
+        "name": "Nanti Kita Seperti Ini",
+        "url": "https://open.spotify.com/album/2UF7W9r1nqberWW2Bkx4ZT"
+      },
+      "artists": [
+        {
+          "name": "Batas Senja",
+          "url": "https://open.spotify.com/artist/4AhHkaGz7W2bKKJK90IaV2"
+        }
+      ],
+      "duration_ms": 209647,
+      "name": "Nanti Kita Seperti Ini",
+      "url": "https://open.spotify.com/track/2NjbJR8y083mOV59255QSe"
     },
     {
       "added_at": "2024-03-07 16:00:00",
@@ -431,6 +431,22 @@
     {
       "added_at": "2024-03-07 16:00:00",
       "album": {
+        "name": "Tak Kan Hilang",
+        "url": "https://open.spotify.com/album/6JmBf13wUd3kJEdoXgbZy5"
+      },
+      "artists": [
+        {
+          "name": "Budi Doremi",
+          "url": "https://open.spotify.com/artist/6Ifk2cbxyVzT41jLexYCas"
+        }
+      ],
+      "duration_ms": 241714,
+      "name": "Tak Kan Hilang",
+      "url": "https://open.spotify.com/track/1USA6DXJ1qsucoKnDu4vnu"
+    },
+    {
+      "added_at": "2024-03-07 16:00:00",
+      "album": {
         "name": "Trauma",
         "url": "https://open.spotify.com/album/6H3lJJCLJjrKAKfm7KaE3Z"
       },
@@ -447,22 +463,6 @@
       "duration_ms": 218073,
       "name": "Trauma",
       "url": "https://open.spotify.com/track/6SITe0StjnWHjyNOVzyJTX"
-    },
-    {
-      "added_at": "2024-03-07 16:00:00",
-      "album": {
-        "name": "Tak Kan Hilang",
-        "url": "https://open.spotify.com/album/6JmBf13wUd3kJEdoXgbZy5"
-      },
-      "artists": [
-        {
-          "name": "Budi Doremi",
-          "url": "https://open.spotify.com/artist/6Ifk2cbxyVzT41jLexYCas"
-        }
-      ],
-      "duration_ms": 241714,
-      "name": "Tak Kan Hilang",
-      "url": "https://open.spotify.com/track/1USA6DXJ1qsucoKnDu4vnu"
     },
     {
       "added_at": "2024-03-07 16:00:00",
@@ -679,22 +679,6 @@
     {
       "added_at": "2024-03-07 16:00:00",
       "album": {
-        "name": "Seperti Seharusnya",
-        "url": "https://open.spotify.com/album/0OJ20fKyVlmZKAMF8q1LAL"
-      },
-      "artists": [
-        {
-          "name": "Noah",
-          "url": "https://open.spotify.com/artist/31aMmlq8isIAgojvmIwiS4"
-        }
-      ],
-      "duration_ms": 266306,
-      "name": "Separuh Aku",
-      "url": "https://open.spotify.com/track/4BDA2HN9dQtrXjk8b6zaTq"
-    },
-    {
-      "added_at": "2024-03-07 16:00:00",
-      "album": {
         "name": "Masih Hatiku",
         "url": "https://open.spotify.com/album/6uwl5luJhAy6CLqoU8ExTY"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 262341,
       "name": "Masih Hatiku",
       "url": "https://open.spotify.com/track/6L1jkVbb331DNvK89C3L8u"
+    },
+    {
+      "added_at": "2024-03-07 16:00:00",
+      "album": {
+        "name": "Seperti Seharusnya",
+        "url": "https://open.spotify.com/album/0OJ20fKyVlmZKAMF8q1LAL"
+      },
+      "artists": [
+        {
+          "name": "Noah",
+          "url": "https://open.spotify.com/artist/31aMmlq8isIAgojvmIwiS4"
+        }
+      ],
+      "duration_ms": 266306,
+      "name": "Separuh Aku",
+      "url": "https://open.spotify.com/track/4BDA2HN9dQtrXjk8b6zaTq"
     },
     {
       "added_at": "2024-03-07 16:00:00",
@@ -827,22 +827,6 @@
     {
       "added_at": "2024-03-07 16:00:00",
       "album": {
-        "name": "Mencintaimu",
-        "url": "https://open.spotify.com/album/6sGKwCYtM7MlRkVYFWbNQY"
-      },
-      "artists": [
-        {
-          "name": "Sal Priadi",
-          "url": "https://open.spotify.com/artist/1NjxFrpEGZTV2Ny0OJxeWu"
-        }
-      ],
-      "duration_ms": 274041,
-      "name": "Mencintaimu",
-      "url": "https://open.spotify.com/track/26aNjbOgTVrFZEx7was69A"
-    },
-    {
-      "added_at": "2024-03-07 16:00:00",
-      "album": {
         "name": "Setengah Mati Merindu",
         "url": "https://open.spotify.com/album/5rCDvtR73a8KsViwOZz2PF"
       },
@@ -855,6 +839,22 @@
       "duration_ms": 242640,
       "name": "Aku Yang Tersakiti",
       "url": "https://open.spotify.com/track/5pzblRSSo6YWd2dQR3sp2m"
+    },
+    {
+      "added_at": "2024-03-07 16:00:00",
+      "album": {
+        "name": "Mencintaimu",
+        "url": "https://open.spotify.com/album/6sGKwCYtM7MlRkVYFWbNQY"
+      },
+      "artists": [
+        {
+          "name": "Sal Priadi",
+          "url": "https://open.spotify.com/artist/1NjxFrpEGZTV2Ny0OJxeWu"
+        }
+      ],
+      "duration_ms": 274041,
+      "name": "Mencintaimu",
+      "url": "https://open.spotify.com/track/26aNjbOgTVrFZEx7was69A"
     }
   ],
   "unique_name": "galau rabak",

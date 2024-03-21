@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFA0CfcznYLLB.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3QX3YzE51B2iuT5ol1U6BC">Murda Beatz</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,946 likes - 315 songs - 16 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,947 likes - 315 songs - 16 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -227,8 +227,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFA0CfcznYLLB.md) - [plain]
 | 217 | [Big Dog](https://open.spotify.com/track/7FRMyc0lIplQaI3hdDvA61) | [Moe](https://open.spotify.com/artist/4s03DfC6cLxCYirblvaKlO) | [Big Dog](https://open.spotify.com/album/0rLpjEZaIvtqY1kqfK5ylv) | 2:30 |
 | 218 | [Bend Ya Knees](https://open.spotify.com/track/0kvL0N0jZWOg98jE7FLzIn) | [Rae Sremmurd](https://open.spotify.com/artist/7iZtZyCzp3LItcw1wtPI3D) | [Sremm 4 Life](https://open.spotify.com/album/4tFqnaGkCBUjraLUw07Q67) | 2:57 |
 | 219 | [Ride With Shordie](https://open.spotify.com/track/1naMgvsd1NQQFXjY3UlrZz) | [Shordie Shordie](https://open.spotify.com/artist/5fyvTyetDr7gvLafBsEEhU), [Murda Beatz](https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC) | [Memory Lane](https://open.spotify.com/album/6m30knOGvtlQGoN4qMqtbp) | 1:01 |
-| 220 | [Die In It](https://open.spotify.com/track/7l0ZJgT7qivX45J0D9fgKf) | [Kid Ink](https://open.spotify.com/artist/6KZDXtSj0SzGOV705nNeh3) | [RSS2](https://open.spotify.com/album/2IfA1yfK7cw3nEOGsadYGd) | 2:40 |
-| 221 | [Birds](https://open.spotify.com/track/3J07OCYrIQuSuWLQbeFzZa) | [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [Tha Fix Before Tha VI](https://open.spotify.com/album/7aWNHIpUIFnlu2UhOWqooG) | 2:45 |
+| 220 | [Birds](https://open.spotify.com/track/3J07OCYrIQuSuWLQbeFzZa) | [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [Tha Fix Before Tha VI](https://open.spotify.com/album/7aWNHIpUIFnlu2UhOWqooG) | 2:45 |
+| 221 | [Die In It](https://open.spotify.com/track/7l0ZJgT7qivX45J0D9fgKf) | [Kid Ink](https://open.spotify.com/artist/6KZDXtSj0SzGOV705nNeh3) | [RSS2](https://open.spotify.com/album/2IfA1yfK7cw3nEOGsadYGd) | 2:40 |
 | 222 | [No Jewelry](https://open.spotify.com/track/6HOttKB0jFwrrcwdOIDXQc) | [Shordie Shordie](https://open.spotify.com/artist/5fyvTyetDr7gvLafBsEEhU), [Murda Beatz](https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC) | [Memory Lane](https://open.spotify.com/album/6m30knOGvtlQGoN4qMqtbp) | 2:36 |
 | 223 | [Making of a Murderer](https://open.spotify.com/track/0TiwfeDAJOO0t5xOtugG7b) | [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo) | [Delusions of Grandeur](https://open.spotify.com/album/2FDYcU1NTibzvrv4XDJofN) | 2:46 |
 | 224 | [Move \(feat\. Young Thug\)](https://open.spotify.com/track/3n8VER5Z8oDQphwUG0VG1n) | [Skippa Da Flippa](https://open.spotify.com/artist/4YWK3hXt1QRAw2rNBao55d), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [Move \(feat\. Young Thug\)](https://open.spotify.com/album/0nns3QBjWoIs4cFXlrdUH8) | 3:25 |
@@ -300,8 +300,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFA0CfcznYLLB.md) - [plain]
 | 290 | [WYO \(feat\. BlakeIANA\)](https://open.spotify.com/track/1bh0NqcTg6oaqpSEMWSWW4) | [Shordie Shordie](https://open.spotify.com/artist/5fyvTyetDr7gvLafBsEEhU), [Murda Beatz](https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC), [BlakeIANA](https://open.spotify.com/artist/7gq41QBlN40T3GDQ0wEbYS) | [Memory Lane 2](https://open.spotify.com/album/53UEhZvzn3wSJQlhZKY4Cd) | 3:36 |
 | 291 | [Promises](https://open.spotify.com/track/77EvGL5sPisf8KFGtDZcMR) | [Adam Halliday](https://open.spotify.com/artist/4Jd67PsMBBh5YEZlToYLAh), [Murda Beatz](https://open.spotify.com/artist/781KgQAVIOdvM4yE2DnylS) | [About a Girl](https://open.spotify.com/album/2HHwfUxbEu8pbOeaqm0vvk) | 2:44 |
 | 292 | [No Money No Funny](https://open.spotify.com/track/6BN6XvKuYIsjidk90dLZ28) | [Donnie](https://open.spotify.com/artist/6bIrrMZ8IPwjG1zD0XBCLS) | [No Money No Funny](https://open.spotify.com/album/5DVFcnvG5uaSoKmYV7azh3) | 3:04 |
-| 293 | [Digital Money](https://open.spotify.com/track/5d4KkVNzXg93hXqNlkKo5g) | [Jimmy Prime](https://open.spotify.com/artist/4FtU90cHXNvErDdCM5ibqi) | [Bleeding Bull](https://open.spotify.com/album/1oT7uPFXaGwaB0kFSWpqhe) | 2:06 |
-| 294 | [This Is For](https://open.spotify.com/track/5GNHz3LiAsNs4tBrFzP4wq) | [Puffy L'z](https://open.spotify.com/artist/2XD4u7kuN3tfhR1mNdEFIy) | [Take No L'z](https://open.spotify.com/album/0DDnNXaiiSgUqcYOMWYVek) | 2:32 |
+| 293 | [This Is For](https://open.spotify.com/track/5GNHz3LiAsNs4tBrFzP4wq) | [Puffy L'z](https://open.spotify.com/artist/2XD4u7kuN3tfhR1mNdEFIy) | [Take No L'z](https://open.spotify.com/album/0DDnNXaiiSgUqcYOMWYVek) | 2:32 |
+| 294 | [Digital Money](https://open.spotify.com/track/5d4KkVNzXg93hXqNlkKo5g) | [Jimmy Prime](https://open.spotify.com/artist/4FtU90cHXNvErDdCM5ibqi) | [Bleeding Bull](https://open.spotify.com/album/1oT7uPFXaGwaB0kFSWpqhe) | 2:06 |
 | 295 | [Don't Change On Me](https://open.spotify.com/track/1QyyH8aqLkAaWC5TttfETb) | [Jay Whiss](https://open.spotify.com/artist/6VjhXIUhvRNYB3Oplrv03R) | [Peace Of Mind](https://open.spotify.com/album/6flW5TSFgPg4ffDtzf2SxR) | 3:45 |
 | 296 | [Go Hard](https://open.spotify.com/track/4VLDrl5Rnvd9e8885YX4Jq) | [Booggz](https://open.spotify.com/artist/17LWRPvDAiIUUPECIakeBu) | [Go Hard](https://open.spotify.com/album/310iGUoykPmp1otabSaUKC) | 2:58 |
 | 297 | [Pray](https://open.spotify.com/track/4s98hENRdjWanrZNDolBjP) | [FGFC820](https://open.spotify.com/artist/32raKeUHkfUVqgGHbIPD2u) | [Urban Audio Warfare](https://open.spotify.com/album/5CIMb1rasSmnOpAcmlqHpm) | 5:28 |
@@ -324,4 +324,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFA0CfcznYLLB.md) - [plain]
 | 314 | [Body Parts](https://open.spotify.com/track/0PRldWb2v0PVYHHmK3ammB) | [Bomshot](https://open.spotify.com/artist/3SSMWOv4oxoSrm1lJP5kfc) | [Abomination](https://open.spotify.com/album/32eTpy2grvmPhZ7WjPXtBD) | 3:22 |
 | 315 | [On God](https://open.spotify.com/track/1rmWQqmKWRtm9bks6Lr0Sp) | [Majin Murda](https://open.spotify.com/artist/7LLv3nfvIIYTqBAV8XjlO9) | [3K](https://open.spotify.com/album/7zjBIckQRALycP2MCWEYUg) | 3:27 |
 
-Snapshot ID: `Mjg1MTUwMTAsMDAwMDAwMDA0YTYxNDcyMzAzMWQxZjAyYjQ1MjI2NjhjZWNhOWNkMQ==`
+Snapshot ID: `Mjg1MTY0NTAsMDAwMDAwMDBjMmRlNzJmY2Y3YWZjZDNiNWI0MGViNjk4NTM0ZGQ2ZA==`

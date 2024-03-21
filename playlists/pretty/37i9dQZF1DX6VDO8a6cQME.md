@@ -4,15 +4,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6VDO8a6cQME.md) - [plain]
 
 > The most essential R&B songs from the '90s\. Cover: TLC
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,549,027 likes - 75 songs - 5 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,549,748 likes - 75 songs - 5 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [No Scrubs](https://open.spotify.com/track/3NpsJc5SOINskuK3z08Q9C) | [TLC](https://open.spotify.com/artist/0TImkz4nPqjegtVSMZnMRq) | [Fanmail](https://open.spotify.com/album/04LFXnEBkVE6mZfxGeCLbM) | 3:34 |
 | 2 | [Say My Name](https://open.spotify.com/track/7H6ev70Weq6DdpZyyTmUXk) | [Destiny's Child](https://open.spotify.com/artist/1Y8cdNmUJH7yBTd9yOvr5i) | [The Writing's On The Wall](https://open.spotify.com/album/283NWqNsCA9GwVHrJk59CG) | 4:31 |
 | 3 | [Fantasy](https://open.spotify.com/track/6xkryXuiZU360Lngd4sx13) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Daydream](https://open.spotify.com/album/1ibYM4abQtSVQFQWvDSo4J) | 4:03 |
-| 4 | [No Diggity](https://open.spotify.com/track/6MdqqkQ8sSC0WB4i8PyRuQ) | [Blackstreet](https://open.spotify.com/artist/2P3cjUru4H3fhSXXNxE9kA), [Dr\. Dre](https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7), [Queen Pen](https://open.spotify.com/artist/0VbIlorLz3I5SEtIsc5vAr) | [Another Level](https://open.spotify.com/album/2zGZLQiFl9UubtrVmtIkbi) | 5:04 |
-| 5 | [Doo Wop \(That Thing\)](https://open.spotify.com/track/0uEp9E98JB5awlA084uaIg) | [Ms\. Lauryn Hill](https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl) | [The Miseducation of Lauryn Hill](https://open.spotify.com/album/1BZoqf8Zje5nGdwZhOjAtD) | 5:20 |
+| 4 | [Doo Wop \(That Thing\)](https://open.spotify.com/track/0uEp9E98JB5awlA084uaIg) | [Ms\. Lauryn Hill](https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl) | [The Miseducation of Lauryn Hill](https://open.spotify.com/album/1BZoqf8Zje5nGdwZhOjAtD) | 5:20 |
+| 5 | [No Diggity](https://open.spotify.com/track/6MdqqkQ8sSC0WB4i8PyRuQ) | [Blackstreet](https://open.spotify.com/artist/2P3cjUru4H3fhSXXNxE9kA), [Dr\. Dre](https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7), [Queen Pen](https://open.spotify.com/artist/0VbIlorLz3I5SEtIsc5vAr) | [Another Level](https://open.spotify.com/album/2zGZLQiFl9UubtrVmtIkbi) | 5:04 |
 | 6 | [Return of the Mack](https://open.spotify.com/track/3jDdpx9PMlfMBS5tOBHFm9) | [Mark Morrison](https://open.spotify.com/artist/6V3F8MZrOKdT9fU686ybE9) | [Return of the Mack](https://open.spotify.com/album/6plavTFCGXv5vpy0jZVtOV) | 3:33 |
 | 7 | [Like a Tattoo](https://open.spotify.com/track/4PEGwWH4tL6H7dGl4uVSPg) | [Sade](https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx) | [Love Deluxe](https://open.spotify.com/album/2PfGKHtqEX58bHtkQxJnWG) | 3:38 |
 | 8 | [Maria Maria \(feat\. The Product G&B\)](https://open.spotify.com/track/3XKIUb7HzIF1Vu9usunMzc) | [Santana](https://open.spotify.com/artist/6GI52t8N5F02MxU0g5U69P), [The Product G&B](https://open.spotify.com/artist/782IpIScTpnDhYb9hyxOu1) | [Supernatural \(Remastered\)](https://open.spotify.com/album/10aiDpdFGyfCFEcqpx6XTq) | 4:21 |
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6VDO8a6cQME.md) - [plain]
 | 25 | [Too Close](https://open.spotify.com/track/5IFCyWplye09HytIP80RCF) | [Next](https://open.spotify.com/artist/2MGT7CYlixSPxAnnkhLpaA) | [Rated Next](https://open.spotify.com/album/3Pmonb2UZ9zckdh5S5ibVm) | 4:19 |
 | 26 | [So Anxious](https://open.spotify.com/track/2zbjlcLi1VQWqDNYdhyx1l) | [Ginuwine](https://open.spotify.com/artist/7r8RF1tN2A4CiGEplkp1oP) | [100% Ginuwine](https://open.spotify.com/album/0yfC7hiO3iAaVvNCVcwjVY) | 4:36 |
 | 27 | [My Love Is Your Love](https://open.spotify.com/track/1ckU1EhAO0Nr73QYw24SWJ) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP) | [My Love Is Your Love](https://open.spotify.com/album/00NABajpGsPCObfcl4LJsM) | 4:21 |
-| 28 | [Creep](https://open.spotify.com/track/1aWV3uY3SIEZVbmv45oFWS) | [TLC](https://open.spotify.com/artist/0TImkz4nPqjegtVSMZnMRq) | [Crazysexycool](https://open.spotify.com/album/5eg56dCpFn32neJak2vk0f) | 4:28 |
-| 29 | [Twisted](https://open.spotify.com/track/69QIVIjPMnI1ABLBqh9P1b) | [Keith Sweat](https://open.spotify.com/artist/2r09Inibex3C4ZNTUVSG3m) | [Keith Sweat](https://open.spotify.com/album/0BzXvdpUKDEk612hLc6rZV) | 4:20 |
+| 28 | [Twisted](https://open.spotify.com/track/69QIVIjPMnI1ABLBqh9P1b) | [Keith Sweat](https://open.spotify.com/artist/2r09Inibex3C4ZNTUVSG3m) | [Keith Sweat](https://open.spotify.com/album/0BzXvdpUKDEk612hLc6rZV) | 4:20 |
+| 29 | [Creep](https://open.spotify.com/track/1aWV3uY3SIEZVbmv45oFWS) | [TLC](https://open.spotify.com/artist/0TImkz4nPqjegtVSMZnMRq) | [Crazysexycool](https://open.spotify.com/album/5eg56dCpFn32neJak2vk0f) | 4:28 |
 | 30 | [You Got Me](https://open.spotify.com/track/4pdLZsxq0y5oJDb6Cxlokw) | [The Roots](https://open.spotify.com/artist/78xUyw6FkVZrRAtziFdtdu), [Tariq Trotter](https://open.spotify.com/artist/7i3os1iEWOn5UpaylRiMw5), [Erykah Badu](https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX), [Eve](https://open.spotify.com/artist/4d3yvTptO48nOYTPBcPFZC) | [Things Fall Apart](https://open.spotify.com/album/0qbl8aNaCUOvX8HGsZYLfh) | 4:19 |
 | 31 | [Love Like This](https://open.spotify.com/track/7MQywXGHEev7JmwwIzMcao) | [Faith Evans](https://open.spotify.com/artist/5NDMothbpdpq2xHqSjrrWn) | [Keep the Faith](https://open.spotify.com/album/2jQdDSxc2T21OFC72lAMYL) | 4:35 |
 | 32 | [That's The Way Love Goes](https://open.spotify.com/track/29rQJydAlO0uMyWvRIZxQg) | [Janet Jackson](https://open.spotify.com/artist/4qwGe91Bz9K2T8jXTZ815W) | [Janet](https://open.spotify.com/album/7qIuZgsMkRuh7rzi4qVcpg) | 4:25 |
@@ -82,6 +82,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6VDO8a6cQME.md) - [plain]
 | 72 | [Still Not a Player \(feat\. Joe\)](https://open.spotify.com/track/5PG3h38oiQLEJlOuOvIs80) | [Big Pun](https://open.spotify.com/artist/2Xu7q46Hf02xOoEIm4E1Qs), [Joe](https://open.spotify.com/artist/3zTOe1BtyTkwNvYZOxXktX) | [Greatest Hits](https://open.spotify.com/album/2hwM2z7y5OWRkCZ9cPaOLq) | 3:56 |
 | 73 | [Can't You See](https://open.spotify.com/track/0coGyBNQcxxqkOOT2UhT4v) | [Total](https://open.spotify.com/artist/1urjDGTd4iBze91Z1W1gu7), [The Notorious B.I.G.](https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb) | [BAD BOY CELEBRATES DIDDY: The Executive](https://open.spotify.com/album/7yTl88MTPG3O9MSgkro9UR) | 4:41 |
 | 74 | [Faded Pictures](https://open.spotify.com/track/1CAw3ethNuSDPf3E7luSFF) | [Case](https://open.spotify.com/artist/5aEWnrN8h3MhuFUPRfaVuy), [Joe](https://open.spotify.com/artist/3zTOe1BtyTkwNvYZOxXktX) | [Personal Conversation](https://open.spotify.com/album/3UuOV0067Agbr3L9bE1D9K) | 3:49 |
-| 75 | [Freak Me](https://open.spotify.com/track/5CdJveJgiGXoGwDFqF6afp) | [Silk](https://open.spotify.com/artist/2etWSM1cPeITq5E2bEK8PW) | [Lose Control](https://open.spotify.com/album/1ujRHjYVLKXK7do7CnahUQ) | 4:34 |
+| 75 | [If Your Girl Only Knew](https://open.spotify.com/track/1WKz2dJbsK0S56zvpnhFWU) | [Aaliyah](https://open.spotify.com/artist/0urTpYCsixqZwgNTkPJOJ4) | [One In A Million](https://open.spotify.com/album/79EIRdmpPSIWfRlxaZdJbG) | 4:50 |
 
-Snapshot ID: `MCxkNTE2YWIxMDIxYzRjODY3YzBiY2VhYTdjM2U0NWM5NGJiMGNmZDQ2`
+Snapshot ID: `MCxiODk2MmViZGMwMTdjMTZkZmY5YWIwYjkwZDEyNTI2MzhiZDQxZjc3`

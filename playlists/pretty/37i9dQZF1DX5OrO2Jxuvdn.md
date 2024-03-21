@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5OrO2Jxuvdn.md) - [plain]
 
 > Sweat it out with your favorite country workout songs\. Cover: Lainey Wilson
 
-[Spotify](https://open.spotify.com/user/spotify) - 97,048 likes - 100 songs - 5 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 97,068 likes - 100 songs - 5 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,9 +46,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5OrO2Jxuvdn.md) - [plain]
 | 36 | [Beer Can’t Fix](https://open.spotify.com/track/7idmHTAQQPUFqdjXkoooXD) | [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8), [Jon Pardi](https://open.spotify.com/artist/4MoAOfV4ROWofLG3a3hhBN) | [Center Point Road](https://open.spotify.com/album/5gnWhEFNbtCn0RLG2cp90g) | 3:29 |
 | 37 | [How Country Feels](https://open.spotify.com/track/26t3KexbqzF3sRWgczYyja) | [Randy Houser](https://open.spotify.com/artist/56x8mYvS3cyDGAi8N2FxbB) | [How Country Feels](https://open.spotify.com/album/6p9LqWLWDOuW2WiUt9YKUZ) | 3:05 |
 | 38 | [5 Foot 9](https://open.spotify.com/track/6AqwH2Y9FJwhUE2dCSkw1u) | [Tyler Hubbard](https://open.spotify.com/artist/3BEV5FcxOtkQJ7lLRKMh3V) | [5 Foot 9](https://open.spotify.com/album/5CTNA7y4WYhLcCd8ijsnRr) | 3:09 |
-| 39 | [Cold As You](https://open.spotify.com/track/7IWV29mryrqtO0JVgnPtfv) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [What You See Ain't Always What You Get \(Deluxe Edition\)](https://open.spotify.com/album/25TJxI6ZH6XjT8geRQAFz5) | 3:06 |
+| 39 | [Me On You](https://open.spotify.com/track/1wwjfgCUXaupR7q3tv6ZXN) | [Muscadine Bloodline](https://open.spotify.com/artist/0EyZDKtc41e4A3a3v69MxD) | [Teenage Dixie](https://open.spotify.com/album/34Pt5YlloNLomVuV97GbAY) | 2:47 |
 | 40 | [Body Like A Back Road](https://open.spotify.com/track/7mldq42yDuxiUNn08nvzHO) | [Sam Hunt](https://open.spotify.com/artist/2kucQ9jQwuD8jWdtR9Ef38) | [Body Like A Back Road](https://open.spotify.com/album/2N7kidh1wA9EoLdf16QWrz) | 2:45 |
-| 41 | [Me On You](https://open.spotify.com/track/1wwjfgCUXaupR7q3tv6ZXN) | [Muscadine Bloodline](https://open.spotify.com/artist/0EyZDKtc41e4A3a3v69MxD) | [Teenage Dixie](https://open.spotify.com/album/34Pt5YlloNLomVuV97GbAY) | 2:47 |
+| 41 | [Cold As You](https://open.spotify.com/track/7IWV29mryrqtO0JVgnPtfv) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [What You See Ain't Always What You Get \(Deluxe Edition\)](https://open.spotify.com/album/25TJxI6ZH6XjT8geRQAFz5) | 3:06 |
 | 42 | [Take A Back Road](https://open.spotify.com/track/7B6m8tHAYZsOKOKMU5SR2n) | [Rodney Atkins](https://open.spotify.com/artist/2qgvmDsc4jrqbAbjq1HGM2) | [Take A Back Road](https://open.spotify.com/album/2qLz69eIC6A7GggjGvxEMp) | 3:29 |
 | 43 | [Drunk \(And I Don't Wanna Go Home\)](https://open.spotify.com/track/0QULNNd9z5s35entfiiXoa) | [Elle King](https://open.spotify.com/artist/3bhu7P5PfngueRHiB9hjcx), [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [Drunk \(And I Don't Wanna Go Home\)](https://open.spotify.com/album/6F6ZYE96lTFgzWotepEDhZ) | 4:05 |
 | 44 | [WWDD](https://open.spotify.com/track/7AXmVQNJ93e9k2TLLU3ybl) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Sayin’ What I’m Thinkin’](https://open.spotify.com/album/2WBvIseHSAwsPP4YbNgZXR) | 2:20 |
@@ -62,8 +62,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5OrO2Jxuvdn.md) - [plain]
 | 52 | [One Thing At A Time](https://open.spotify.com/track/6KGtAlYvgm4W9PoYabFAYE) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [One Thing At A Time \(Sampler\)](https://open.spotify.com/album/04VpyPCr9PQRWRRp1ecOs1) | 3:26 |
 | 53 | [Ready Set Roll](https://open.spotify.com/track/1pbjOhmFwYC09EYU5EwB5L) | [Chase Rice](https://open.spotify.com/artist/6pBNfggcZZDCmb0p92OnGn) | [Ignite the Night \(Party Edition\)](https://open.spotify.com/album/5lkRYpePZze7eng9Spx1Gq) | 3:10 |
 | 54 | [Boys 'Round Here \(feat\. Pistol Annies & Friends\)](https://open.spotify.com/track/39FwE8edwuyiaa4PrGBkP7) | [Blake Shelton](https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw), [Pistol Annies](https://open.spotify.com/artist/2wSgVsgLUZeDJwoLcPO7ny) | [Based on a True Story..\. \(Deluxe Edition\)](https://open.spotify.com/album/6MzrSTAQdDR92tHLLAhYp0) | 4:48 |
-| 55 | [Kick The Dust Up](https://open.spotify.com/track/5g15o2Sm55Hn9ShK5yEXgp) | [Luke Bryan](https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I) | [Kill The Lights \(Deluxe\)](https://open.spotify.com/album/0WtCqmpVN7rRGfDMSWSXBA) | 3:10 |
-| 56 | [It Ain't My Fault](https://open.spotify.com/track/08wJ1B9yu9sPeoRa5fbpr3) | [Brothers Osborne](https://open.spotify.com/artist/39NR3AUhpbbqKM33vWn2fp) | [Pawn Shop](https://open.spotify.com/album/6BId6JLmkyr9QC81RdUWqT) | 3:36 |
+| 55 | [It Ain't My Fault](https://open.spotify.com/track/08wJ1B9yu9sPeoRa5fbpr3) | [Brothers Osborne](https://open.spotify.com/artist/39NR3AUhpbbqKM33vWn2fp) | [Pawn Shop](https://open.spotify.com/album/6BId6JLmkyr9QC81RdUWqT) | 3:36 |
+| 56 | [Kick The Dust Up](https://open.spotify.com/track/5g15o2Sm55Hn9ShK5yEXgp) | [Luke Bryan](https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I) | [Kill The Lights \(Deluxe\)](https://open.spotify.com/album/0WtCqmpVN7rRGfDMSWSXBA) | 3:10 |
 | 57 | [Bartender](https://open.spotify.com/track/6olKv2HP3XgBpvVxAswowe) | [Lady A](https://open.spotify.com/artist/32WkQRZEVKSzVAAYqukAEA) | [747](https://open.spotify.com/album/1JHNRou038CfCC0RZztDz8) | 3:18 |
 | 58 | [Redneck Yacht Club](https://open.spotify.com/track/19TKY0KksXTyTGhAImxwQ1) | [Craig Morgan](https://open.spotify.com/artist/6ktyNEnEukKzskQEiXgCFD) | [My Kind Of Livin'](https://open.spotify.com/album/3TQGJlrqggOeyVWF6wDIPn) | 3:50 |
 | 59 | [Wine, Beer, Whiskey](https://open.spotify.com/track/5avVDmK9FVJpd3MDO8I3Zl) | [Little Big Town](https://open.spotify.com/artist/3CygdxquGHurS7f9LjNLkv) | [Nightfall](https://open.spotify.com/album/4qs02AtQxPiPkklCBD7y8q) | 3:16 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5OrO2Jxuvdn.md) - [plain]
 | 99 | [Throw It Back \(feat\. Keith Urban\)](https://open.spotify.com/track/4BLiRJdtn8jwUVtvbHIv2T) | [BRELAND](https://open.spotify.com/artist/0C86lmpnwiyLDUiyo4d0P1), [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [Throw It Back \(feat\. Keith Urban\)](https://open.spotify.com/album/56rScV2lFznLUGxqYYwUpo) | 3:08 |
 | 100 | [Dancin' In The Moonlight \(feat\. Lauren Alaina\)](https://open.spotify.com/track/0pnKcAh5binHOP9HexWwnZ) | [Chris Lane](https://open.spotify.com/artist/68abRTdO4meYReMWHvBYb0), [Lauren Alaina](https://open.spotify.com/artist/1v3tdpIdBSW14rHUfiEVOv) | [Dancin' In The Moonlight \(feat\. Lauren Alaina\)](https://open.spotify.com/album/0UsGyt84mXODfb3IteNHdr) | 3:19 |
 
-Snapshot ID: `MCxhYWE4ZTU0Njg3NjFlMTUyMDM3NWE1M2U5NzliNDZkM2E5MzMxNWU4`
+Snapshot ID: `MCw2OWRjMDFhMTI5NDE5YTNlM2YwNDlmNWExMDdmNjYyMTUyOWZiNTMy`

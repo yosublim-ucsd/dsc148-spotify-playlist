@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX84kJlLdo9vT.md) - [plain]
 
 > Relive the good ol' days with these 60s and 70s classics.
 
-[Spotify](https://open.spotify.com/user/spotify) - 661,807 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 661,876 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,8 +23,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX84kJlLdo9vT.md) - [plain]
 | 13 | [Mamma Mia](https://open.spotify.com/track/2TxCwUlqaOH3TIyJqGgR91) | [ABBA](https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV) | [Abba](https://open.spotify.com/album/1kM6xcSYO5ASJaWgygznL7) | 3:33 |
 | 14 | [Stand By Me](https://open.spotify.com/track/3SdTKo2uVsxFblQjpScoHy) | [Ben E\. King](https://open.spotify.com/artist/3plJVWt88EqjvtuB4ZDRV3) | [Don't Play That Song \(Mono\)](https://open.spotify.com/album/18Fj7coTfyMi7mEPXIweN7) | 3:00 |
 | 15 | [Twist And Shout \- Remastered 2009](https://open.spotify.com/track/5ZBeML7Lf3FMEVviTyvi8l) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Please Please Me \(Remastered\)](https://open.spotify.com/album/3KzAvEXcqJKBF97HrXwlgf) | 2:35 |
-| 16 | [Lovely Day](https://open.spotify.com/track/0bRXwKfigvpKZUurwqAlEh) | [Bill Withers](https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj) | [Menagerie](https://open.spotify.com/album/3QjPTUI6UcPr5m9RujkO3c) | 4:14 |
-| 17 | [I Want You Back](https://open.spotify.com/track/5LxvwujISqiB8vpRYv887S) | [The Jackson 5](https://open.spotify.com/artist/2iE18Oxc8YSumAU232n4rW) | [Diana Ross Presents The Jackson 5](https://open.spotify.com/album/51uoKRa8vT5SULrlF8s2t1) | 2:56 |
+| 16 | [I Want You Back](https://open.spotify.com/track/5LxvwujISqiB8vpRYv887S) | [The Jackson 5](https://open.spotify.com/artist/2iE18Oxc8YSumAU232n4rW) | [Diana Ross Presents The Jackson 5](https://open.spotify.com/album/51uoKRa8vT5SULrlF8s2t1) | 2:56 |
+| 17 | [Lovely Day](https://open.spotify.com/track/0bRXwKfigvpKZUurwqAlEh) | [Bill Withers](https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj) | [Menagerie](https://open.spotify.com/album/3QjPTUI6UcPr5m9RujkO3c) | 4:14 |
 | 18 | [More Than A Woman](https://open.spotify.com/track/49OMJ1prsRA7ZYgrAjz70c) | [Bee Gees](https://open.spotify.com/artist/1LZEQNv7sE11VDY3SdxQeN) | [Greatest](https://open.spotify.com/album/5YHZaCxCuuK81h4Fimb9rT) | 3:17 |
 | 19 | [I Can't Help Myself \(Sugar Pie, Honey Bunch\)](https://open.spotify.com/track/6b6IMqP565TbtFFZg9iFf3) | [Four Tops](https://open.spotify.com/artist/7fIvjotigTGWqjIz6EP1i4) | [Four Tops Second Album](https://open.spotify.com/album/2jvkMPydCpLWwRothqJU1O) | 2:40 |
 | 20 | [What A Wonderful World](https://open.spotify.com/track/29U7stRjqHU6rMiS8BfaI9) | [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek) | [What A Wonderful World](https://open.spotify.com/album/6mmv0gwumlFGWDGJXF4yEv) | 2:19 |
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX84kJlLdo9vT.md) - [plain]
 | 28 | [Mrs\. Robinson \- From "The Graduate" Soundtrack](https://open.spotify.com/track/0iOZM63lendWRTTeKhZBSC) | [Simon & Garfunkel](https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE) | [Bookends](https://open.spotify.com/album/3bzgbgiytguTDnwzflAZr2) | 4:04 |
 | 29 | [Dream A Little Dream Of Me](https://open.spotify.com/track/27hhIs2fp6w06N5zx4Eaa5) | [The Mamas & The Papas](https://open.spotify.com/artist/1bs7HoMkSyQwcobCpE9KpN) | [The Papas & The Mamas](https://open.spotify.com/album/0JJMI060q086v9ul5gHdey) | 3:14 |
 | 30 | [Can't Take My Eyes off You](https://open.spotify.com/track/0bfvHnWWOeU1U5XeKyVLbW) | [Frankie Valli](https://open.spotify.com/artist/3CDKmzJu6uwEGnPLLZffpD) | [Solo](https://open.spotify.com/album/4Sr5ckiFddtONS3KewaXyb) | 3:23 |
-| 31 | [December, 1963 \(Oh What a Night!\)](https://open.spotify.com/track/1hQFF33xi8ruavZNyovtUN) | [Frankie Valli & The Four Seasons](https://open.spotify.com/artist/6mcrZQmgzFGRWf7C0SObou) | [Who Loves You](https://open.spotify.com/album/7fbHVufa1ZvEWWpDppEXHU) | 3:17 |
-| 32 | [Take Me Home, Country Roads](https://open.spotify.com/track/1QbOvACeYanja5pbnJbAmk) | [John Denver](https://open.spotify.com/artist/7EK1bQADBoqbYXnT4Cqv9w) | [The John Denver Collection, Vol 1: Take Me Home Country Roads](https://open.spotify.com/album/7M3cxHsH8qYoVtD50ABfvU) | 3:17 |
+| 31 | [Take Me Home, Country Roads](https://open.spotify.com/track/1QbOvACeYanja5pbnJbAmk) | [John Denver](https://open.spotify.com/artist/7EK1bQADBoqbYXnT4Cqv9w) | [The John Denver Collection, Vol 1: Take Me Home Country Roads](https://open.spotify.com/album/7M3cxHsH8qYoVtD50ABfvU) | 3:17 |
+| 32 | [December, 1963 \(Oh What a Night!\)](https://open.spotify.com/track/1hQFF33xi8ruavZNyovtUN) | [Frankie Valli & The Four Seasons](https://open.spotify.com/artist/6mcrZQmgzFGRWf7C0SObou) | [Who Loves You](https://open.spotify.com/album/7fbHVufa1ZvEWWpDppEXHU) | 3:17 |
 | 33 | [Crocodile Rock](https://open.spotify.com/track/6WCeFNVAXUtNczb7lqLiZU) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Don't Shoot Me I'm Only The Piano Player](https://open.spotify.com/album/1reJ8DttK5EGwdyf7y9FBR) | 3:55 |
 | 34 | [You Can't Hurry Love](https://open.spotify.com/track/1OppEieGNdItZbE14gLBEv) | [The Supremes](https://open.spotify.com/artist/57bUPid8xztkieZfS7OlEV) | [The Supremes A' Go\-Go \(Expanded Edition\)](https://open.spotify.com/album/5fpOmAuZaVyEXPlQ4oOqJ6) | 2:47 |
 | 35 | [Dancing in the Moonlight](https://open.spotify.com/track/0q21FNwES2bbtcduB6kjEU) | [King Harvest](https://open.spotify.com/artist/5FHwr1FymaS5kutIEK6e2y) | [Dancing in the Moonlight](https://open.spotify.com/album/2W5SVDEBlGqHYqt5sa9PnA) | 3:01 |
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX84kJlLdo9vT.md) - [plain]
 | 37 | [Cecilia](https://open.spotify.com/track/6QhXQOpyYvbpdbyjgAqKdY) | [Simon & Garfunkel](https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE) | [Bridge Over Troubled Water](https://open.spotify.com/album/0JwHz5SSvpYWuuCNbtYZoV) | 2:54 |
 | 38 | [Hold On, I'm Comin'](https://open.spotify.com/track/6PgVDY8GTkxF3GmhVGPzoB) | [Sam & Dave](https://open.spotify.com/artist/2BVYdY4PyfCF9z4NrkhEB2) | [Hold On, I'm Comin'](https://open.spotify.com/album/2PBsbww0MYw9F1JzyYWIEO) | 2:35 |
 | 39 | [Hooked On A Feeling](https://open.spotify.com/track/6Ac4NVYYl2U73QiTt11ZKd) | [Blue Swede](https://open.spotify.com/artist/0UpuH5U4nZ3UGGUJi0Zfbp), [Björn Skifs](https://open.spotify.com/artist/1Ek3VdZ8EPmcvgRIqnHlrF) | [Hooked On A Feeling](https://open.spotify.com/album/6fBMaH0IiymemwFKmn18Ze) | 2:52 |
-| 40 | [You Got It](https://open.spotify.com/track/6r20M5DWYdIoCDmDViBxuz) | [Roy Orbison](https://open.spotify.com/artist/0JDkhL4rjiPNEp92jAgJnS) | [Mystery Girl](https://open.spotify.com/album/1UPcuqLY9PC99fQAqWgrSU) | 3:30 |
-| 41 | [Surfin' U.S.A\. \- Remastered 2001](https://open.spotify.com/track/0wz1LjDb9ZNEYwOmDJ3Q4b) | [The Beach Boys](https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV) | [Surfin' USA \(Remastered\)](https://open.spotify.com/album/6u5tGarzvESDsQiIpC4SlI) | 2:29 |
+| 40 | [Surfin' U.S.A\. \- Remastered 2001](https://open.spotify.com/track/0wz1LjDb9ZNEYwOmDJ3Q4b) | [The Beach Boys](https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV) | [Surfin' USA \(Remastered\)](https://open.spotify.com/album/6u5tGarzvESDsQiIpC4SlI) | 2:29 |
+| 41 | [You Got It](https://open.spotify.com/track/6r20M5DWYdIoCDmDViBxuz) | [Roy Orbison](https://open.spotify.com/artist/0JDkhL4rjiPNEp92jAgJnS) | [Mystery Girl](https://open.spotify.com/album/1UPcuqLY9PC99fQAqWgrSU) | 3:30 |
 | 42 | [Lean on Me](https://open.spotify.com/track/3M8FzayQWtkvOhqMn2V4T2) | [Bill Withers](https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj) | [Still Bill](https://open.spotify.com/album/0sFuW4rH5mFZUjNKnckO3v) | 4:18 |
 | 43 | [Sunny](https://open.spotify.com/track/4vju55Ag7apDL2CfotuE7Q) | [Bobby Hebb](https://open.spotify.com/artist/2uNpV18izVIP7DNusoWbT5) | [Sunny](https://open.spotify.com/album/6pJkF95sYsVg3FJtTvTuEG) | 2:45 |
 | 44 | [Don't Worry Be Happy](https://open.spotify.com/track/4hObp5bmIJ3PP3cKA9K9GY) | [Bobby McFerrin](https://open.spotify.com/artist/2FjkZT851ez950cyPjeYid) | [Simple Pleasures](https://open.spotify.com/album/4zhRkgoZKC2xCPPys1gK4b) | 4:54 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX84kJlLdo9vT.md) - [plain]
 | 49 | [Do You Believe in Magic?](https://open.spotify.com/track/1udKn1oNKYQSQ9OmiIWCMu) | [The Lovin' Spoonful](https://open.spotify.com/artist/7CCn4PFRRRZF127jtCBAUe) | [Do you Believe In Magic](https://open.spotify.com/album/5bx2ZHa0KUDMD5T0r9V030) | 2:05 |
 | 50 | [Daydream Believer](https://open.spotify.com/track/7uEcCGtM1FBBGIhPozhJjv) | [The Monkees](https://open.spotify.com/artist/320EPCSEezHt1rtbfwH6Ck) | [The Birds, The Bees, & The Monkees](https://open.spotify.com/album/2Ov6zb7NfgDh3EXSIIWrb2) | 2:59 |
 
-Snapshot ID: `MCwwN2UwNDY0MzM4MzUyMDhjZmNkOWYzNjAxMDQxYjk1MTBmZDdmY2Ri`
+Snapshot ID: `MCxjZjM0Njg3ZmQ2MjFlYTFhMWY1Y2FlZGJmNzE4NGJhNTExNzcwOGQ5`

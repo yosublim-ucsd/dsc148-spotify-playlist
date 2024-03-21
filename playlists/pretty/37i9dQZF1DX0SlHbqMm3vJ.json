@@ -1,12 +1,12 @@
 {
   "description": "A collection R&B and Afropop cuts from West Africa\u2019s finest artists. Cover: Bagetti",
-  "num_followers": 225075,
+  "num_followers": 225123,
   "original_name": "Ginger Me",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3YWYwZDcwMjcwMDFlZjM3MGZkNWQ3ZDZlYmE5NjM1NjUzMzY1ZDZj",
+  "snapshot_id": "MCxlNmI3ZDMxMDE2NWY5OGYwMjU1ZGIzNTE4ZTFiMzQyOTdiMWMwNTcw",
   "tracks": [
     {
       "added_at": "2024-03-08 00:01:00",
@@ -303,26 +303,6 @@
     {
       "added_at": "2024-03-08 00:01:00",
       "album": {
-        "name": "Makila : Wabl\u00e9",
-        "url": "https://open.spotify.com/album/1RCo2Oha1mmxXBebMYwAap"
-      },
-      "artists": [
-        {
-          "name": "Dadju",
-          "url": "https://open.spotify.com/artist/4sbXXFzEWJY2zsZjelerjX"
-        },
-        {
-          "name": "Tayc",
-          "url": "https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60"
-        }
-      ],
-      "duration_ms": 225903,
-      "name": "Makila : Wabl\u00e9",
-      "url": "https://open.spotify.com/track/1YQNuvUhIjaYbNi7FV2SVN"
-    },
-    {
-      "added_at": "2024-03-08 00:01:00",
-      "album": {
         "name": "Stamina",
         "url": "https://open.spotify.com/album/1hfN3p0gt7f6kW8UUyehWm"
       },
@@ -343,6 +323,26 @@
       "duration_ms": 166956,
       "name": "Stamina",
       "url": "https://open.spotify.com/track/1tOp1bXhT9tvydSAGDHdQy"
+    },
+    {
+      "added_at": "2024-03-08 00:01:00",
+      "album": {
+        "name": "Makila : Wabl\u00e9",
+        "url": "https://open.spotify.com/album/1RCo2Oha1mmxXBebMYwAap"
+      },
+      "artists": [
+        {
+          "name": "Dadju",
+          "url": "https://open.spotify.com/artist/4sbXXFzEWJY2zsZjelerjX"
+        },
+        {
+          "name": "Tayc",
+          "url": "https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60"
+        }
+      ],
+      "duration_ms": 225903,
+      "name": "Makila : Wabl\u00e9",
+      "url": "https://open.spotify.com/track/1YQNuvUhIjaYbNi7FV2SVN"
     },
     {
       "added_at": "2024-03-08 00:01:00",
@@ -775,22 +775,6 @@
     {
       "added_at": "2024-03-08 00:01:00",
       "album": {
-        "name": "All I Want",
-        "url": "https://open.spotify.com/album/61hib8ajgCzIBhNoNsJvUe"
-      },
-      "artists": [
-        {
-          "name": "Simi",
-          "url": "https://open.spotify.com/artist/4Ns55iOSe1Im2WU2e1Eym0"
-        }
-      ],
-      "duration_ms": 175187,
-      "name": "All I Want",
-      "url": "https://open.spotify.com/track/34oVCWxvzVR1sJNbCEMoEC"
-    },
-    {
-      "added_at": "2024-03-08 00:01:00",
-      "album": {
         "name": "POLO",
         "url": "https://open.spotify.com/album/4P1mq78i4HKC7ytF3dIl2B"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 146548,
       "name": "POLO",
       "url": "https://open.spotify.com/track/3hO7VuXuBbDHOTFTY5g6L5"
+    },
+    {
+      "added_at": "2024-03-08 00:01:00",
+      "album": {
+        "name": "All I Want",
+        "url": "https://open.spotify.com/album/61hib8ajgCzIBhNoNsJvUe"
+      },
+      "artists": [
+        {
+          "name": "Simi",
+          "url": "https://open.spotify.com/artist/4Ns55iOSe1Im2WU2e1Eym0"
+        }
+      ],
+      "duration_ms": 175187,
+      "name": "All I Want",
+      "url": "https://open.spotify.com/track/34oVCWxvzVR1sJNbCEMoEC"
     },
     {
       "added_at": "2024-03-08 00:01:00",
@@ -1223,6 +1223,22 @@
     {
       "added_at": "2024-03-08 00:01:00",
       "album": {
+        "name": "Don't Let Me Down",
+        "url": "https://open.spotify.com/album/46gG6qQ1sqqBIGdRDPE3FG"
+      },
+      "artists": [
+        {
+          "name": "Marvel",
+          "url": "https://open.spotify.com/artist/4XFX57d2XQp1omSDgl6biL"
+        }
+      ],
+      "duration_ms": 184421,
+      "name": "Don't Let Me Down",
+      "url": "https://open.spotify.com/track/60MtVesSSqlEdtEgBWex6F"
+    },
+    {
+      "added_at": "2024-03-08 00:01:00",
+      "album": {
         "name": "If They Are Real",
         "url": "https://open.spotify.com/album/3mlV93Na9JR8MeusKzDwEF"
       },
@@ -1239,22 +1255,6 @@
       "duration_ms": 222000,
       "name": "If They Are Real",
       "url": "https://open.spotify.com/track/4nlA1i2haXMOxCHBRAVx2j"
-    },
-    {
-      "added_at": "2024-03-08 00:01:00",
-      "album": {
-        "name": "Don't Let Me Down",
-        "url": "https://open.spotify.com/album/46gG6qQ1sqqBIGdRDPE3FG"
-      },
-      "artists": [
-        {
-          "name": "Marvel",
-          "url": "https://open.spotify.com/artist/4XFX57d2XQp1omSDgl6biL"
-        }
-      ],
-      "duration_ms": 184421,
-      "name": "Don't Let Me Down",
-      "url": "https://open.spotify.com/track/60MtVesSSqlEdtEgBWex6F"
     },
     {
       "added_at": "2024-03-08 00:01:00",
@@ -1323,22 +1323,6 @@
     {
       "added_at": "2024-03-08 00:01:00",
       "album": {
-        "name": "ALL MY LIFE",
-        "url": "https://open.spotify.com/album/2bf2Ru2MkVeF8sFFBvrIvS"
-      },
-      "artists": [
-        {
-          "name": "Tomi Ow\u00f3",
-          "url": "https://open.spotify.com/artist/21EqvfrgEecTOZtKffQ82k"
-        }
-      ],
-      "duration_ms": 156000,
-      "name": "ALL MY LIFE",
-      "url": "https://open.spotify.com/track/4WoPXUWnmeNlxLLbvfxhx9"
-    },
-    {
-      "added_at": "2024-03-08 00:01:00",
-      "album": {
         "name": "Icon",
         "url": "https://open.spotify.com/album/4FK2UosgBV0LytX5ZPNbEp"
       },
@@ -1351,6 +1335,22 @@
       "duration_ms": 140050,
       "name": "Icon",
       "url": "https://open.spotify.com/track/7F1PAapg2rEEHl5SOkOxVZ"
+    },
+    {
+      "added_at": "2024-03-08 00:01:00",
+      "album": {
+        "name": "ALL MY LIFE",
+        "url": "https://open.spotify.com/album/2bf2Ru2MkVeF8sFFBvrIvS"
+      },
+      "artists": [
+        {
+          "name": "Tomi Ow\u00f3",
+          "url": "https://open.spotify.com/artist/21EqvfrgEecTOZtKffQ82k"
+        }
+      ],
+      "duration_ms": 156000,
+      "name": "ALL MY LIFE",
+      "url": "https://open.spotify.com/track/4WoPXUWnmeNlxLLbvfxhx9"
     },
     {
       "added_at": "2024-03-08 00:01:00",
@@ -1375,22 +1375,6 @@
     {
       "added_at": "2024-03-08 00:01:00",
       "album": {
-        "name": "Alone",
-        "url": "https://open.spotify.com/album/3QNMOgAZ3fezFohWtYRMaw"
-      },
-      "artists": [
-        {
-          "name": "Kemuel",
-          "url": "https://open.spotify.com/artist/0ixmjHuzMTxPyps7w28tnH"
-        }
-      ],
-      "duration_ms": 157570,
-      "name": "Alone",
-      "url": "https://open.spotify.com/track/4qqXRH8qhmNA31oy1ADAN7"
-    },
-    {
-      "added_at": "2024-03-08 00:01:00",
-      "album": {
         "name": "Eyes on You",
         "url": "https://open.spotify.com/album/5YzJpnr4nVbCBwCvcY4Flr"
       },
@@ -1411,22 +1395,18 @@
     {
       "added_at": "2024-03-08 00:01:00",
       "album": {
-        "name": "Summer Breeze",
-        "url": "https://open.spotify.com/album/53xFvK9UHs6TujEwY2NZhb"
+        "name": "Alone",
+        "url": "https://open.spotify.com/album/3QNMOgAZ3fezFohWtYRMaw"
       },
       "artists": [
         {
-          "name": "Tay Iwar",
-          "url": "https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo"
-        },
-        {
-          "name": "Juls",
-          "url": "https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic"
+          "name": "Kemuel",
+          "url": "https://open.spotify.com/artist/0ixmjHuzMTxPyps7w28tnH"
         }
       ],
-      "duration_ms": 238917,
-      "name": "Summer Breeze",
-      "url": "https://open.spotify.com/track/3Xp7M0XASUptb61H0mLAcQ"
+      "duration_ms": 157570,
+      "name": "Alone",
+      "url": "https://open.spotify.com/track/4qqXRH8qhmNA31oy1ADAN7"
     },
     {
       "added_at": "2024-03-08 00:01:00",
@@ -1447,6 +1427,26 @@
       "duration_ms": 186666,
       "name": "Lockdown 2.0",
       "url": "https://open.spotify.com/track/3y2MvkCMnjBHDj55Aygezw"
+    },
+    {
+      "added_at": "2024-03-08 00:01:00",
+      "album": {
+        "name": "Summer Breeze",
+        "url": "https://open.spotify.com/album/53xFvK9UHs6TujEwY2NZhb"
+      },
+      "artists": [
+        {
+          "name": "Tay Iwar",
+          "url": "https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo"
+        },
+        {
+          "name": "Juls",
+          "url": "https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic"
+        }
+      ],
+      "duration_ms": 238917,
+      "name": "Summer Breeze",
+      "url": "https://open.spotify.com/track/3Xp7M0XASUptb61H0mLAcQ"
     },
     {
       "added_at": "2024-03-08 00:01:00",

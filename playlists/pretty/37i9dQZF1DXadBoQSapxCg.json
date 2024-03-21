@@ -1,12 +1,12 @@
 {
   "description": "Apaga a luz e deixa rolar.",
-  "num_followers": 309651,
+  "num_followers": 309692,
   "original_name": "Rala e Rola",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwNGZhZmNkOGM1ZDUxMzUxNjY0NTE1MjRmNTc4N2UxMTkyYzE4NzI4",
+  "snapshot_id": "MCxkY2Y5MGMxNWYyODgwNzRmNmE2M2IxODU4ODY1OWE2ZjJlNjNiNGU4",
   "tracks": [
     {
       "added_at": "2024-03-08 03:01:00",
@@ -671,6 +671,22 @@
     {
       "added_at": "2024-03-08 03:01:00",
       "album": {
+        "name": "Dona de mim",
+        "url": "https://open.spotify.com/album/6suxiZXNF0F1NC8nPCJG5C"
+      },
+      "artists": [
+        {
+          "name": "IZA",
+          "url": "https://open.spotify.com/artist/3zgnrYIltMkgeejmvMCnes"
+        }
+      ],
+      "duration_ms": 178181,
+      "name": "Saudade daquilo",
+      "url": "https://open.spotify.com/track/0A3aV8YiLBoHkxyHgkCVBl"
+    },
+    {
+      "added_at": "2024-03-08 03:01:00",
+      "album": {
         "name": "S\u00e3o Paulo",
         "url": "https://open.spotify.com/album/1zfb69TVle95DrRItAr9vq"
       },
@@ -687,22 +703,6 @@
       "duration_ms": 232110,
       "name": "S\u00e3o Paulo",
       "url": "https://open.spotify.com/track/0UVNwFoQioR960YIHd5f2D"
-    },
-    {
-      "added_at": "2024-03-08 03:01:00",
-      "album": {
-        "name": "Dona de mim",
-        "url": "https://open.spotify.com/album/6suxiZXNF0F1NC8nPCJG5C"
-      },
-      "artists": [
-        {
-          "name": "IZA",
-          "url": "https://open.spotify.com/artist/3zgnrYIltMkgeejmvMCnes"
-        }
-      ],
-      "duration_ms": 178181,
-      "name": "Saudade daquilo",
-      "url": "https://open.spotify.com/track/0A3aV8YiLBoHkxyHgkCVBl"
     },
     {
       "added_at": "2024-03-08 03:01:00",
@@ -939,6 +939,30 @@
     {
       "added_at": "2024-03-08 03:01:00",
       "album": {
+        "name": "Pode Ficar",
+        "url": "https://open.spotify.com/album/5l2i37UIL7h6gjipBKUNS8"
+      },
+      "artists": [
+        {
+          "name": "Kiaz",
+          "url": "https://open.spotify.com/artist/6Ae0wz09vBFYZXJ2bJAKUl"
+        },
+        {
+          "name": "L7NNON",
+          "url": "https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C"
+        },
+        {
+          "name": "Fresh Mind Co.",
+          "url": "https://open.spotify.com/artist/3shBNuvo8XyNthoiWNaCYc"
+        }
+      ],
+      "duration_ms": 196176,
+      "name": "Pode Ficar",
+      "url": "https://open.spotify.com/track/29XgcktAmOQTG62vI9UveQ"
+    },
+    {
+      "added_at": "2024-03-08 03:01:00",
+      "album": {
         "name": "Espelho",
         "url": "https://open.spotify.com/album/0mr29hP4Qls88f2ImXd3s6"
       },
@@ -1107,6 +1131,22 @@
     {
       "added_at": "2024-03-08 03:01:00",
       "album": {
+        "name": "VemK",
+        "url": "https://open.spotify.com/album/60XOOFfjxGj3k09wS5rF3N"
+      },
+      "artists": [
+        {
+          "name": "Clau",
+          "url": "https://open.spotify.com/artist/13A9x5VINTOaVnYxK4rbNQ"
+        }
+      ],
+      "duration_ms": 185099,
+      "name": "Meia Noite",
+      "url": "https://open.spotify.com/track/2ZkY7Gt9jWppQRrhDsWmf8"
+    },
+    {
+      "added_at": "2024-03-08 03:01:00",
+      "album": {
         "name": "Dona de mim",
         "url": "https://open.spotify.com/album/6suxiZXNF0F1NC8nPCJG5C"
       },
@@ -1167,22 +1207,6 @@
     {
       "added_at": "2024-03-08 03:01:00",
       "album": {
-        "name": "VemK",
-        "url": "https://open.spotify.com/album/60XOOFfjxGj3k09wS5rF3N"
-      },
-      "artists": [
-        {
-          "name": "Clau",
-          "url": "https://open.spotify.com/artist/13A9x5VINTOaVnYxK4rbNQ"
-        }
-      ],
-      "duration_ms": 185099,
-      "name": "Meia Noite",
-      "url": "https://open.spotify.com/track/2ZkY7Gt9jWppQRrhDsWmf8"
-    },
-    {
-      "added_at": "2024-03-08 03:01:00",
-      "album": {
         "name": "Apela\u00e7\u00e3o",
         "url": "https://open.spotify.com/album/1dFNG3V6K51mOWtwZAPO4v"
       },
@@ -1203,22 +1227,6 @@
       "duration_ms": 137333,
       "name": "Apela\u00e7\u00e3o",
       "url": "https://open.spotify.com/track/0IN3WGJIqcwnypFHtGpoZJ"
-    },
-    {
-      "added_at": "2024-03-08 03:01:00",
-      "album": {
-        "name": "1 em 100",
-        "url": "https://open.spotify.com/album/0KoCTcxxhSOwdrqD6j5hnq"
-      },
-      "artists": [
-        {
-          "name": "Cammie",
-          "url": "https://open.spotify.com/artist/2je97RYlhed6uedJgINvY5"
-        }
-      ],
-      "duration_ms": 189071,
-      "name": "1 em 100",
-      "url": "https://open.spotify.com/track/78rRWqZIwDD7f9yjsEHpD1"
     }
   ],
   "unique_name": "Rala e Rola",

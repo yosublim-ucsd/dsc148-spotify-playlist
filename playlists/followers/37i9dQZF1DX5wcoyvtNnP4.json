@@ -1,5 +1,5 @@
 {
-  "2024-03-20": 491883,
+  "2024-03-21": 491871,
   "date_first_scraped": "2023-09-07",
   "description": "Entspannung pur oder viel los? Hier findest du die passenden Beats f\u00fcr deine Pl\u00e4ne!",
   "name": "Wochenende",
@@ -267,7 +267,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-20",
       "duration_ms": 170928,
       "name": "Angel Eyes",
       "url": "https://open.spotify.com/track/5NId2tRxupzFAOPsRDfCxY"
@@ -880,6 +880,28 @@
     },
     {
       "album": {
+        "name": "Disco Cone (Take It High) [ft. WENZL]",
+        "url": "https://open.spotify.com/album/60S00zDlfsP8UPGjMmTSH2"
+      },
+      "artists": [
+        {
+          "name": "Enisa",
+          "url": "https://open.spotify.com/artist/19mMHUyLK5uYyg9D14yJP6"
+        },
+        {
+          "name": "WENZL",
+          "url": "https://open.spotify.com/artist/20TzJXkB1BHRDiazEqsf8r"
+        }
+      ],
+      "date_added": "2024-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131367,
+      "name": "Disco Cone (Take It High) [ft. WENZL]",
+      "url": "https://open.spotify.com/track/59IA01UnxFiJhxWXpG24mM"
+    },
+    {
+      "album": {
         "name": "Dive",
         "url": "https://open.spotify.com/album/4kdsVtA4bh3j0E2H0rdUTI"
       },
@@ -1363,7 +1385,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-20",
       "duration_ms": 172500,
       "name": "Holding On",
       "url": "https://open.spotify.com/track/6YexWyp9s0V0w1uGhtITsd"
@@ -2471,6 +2493,28 @@
       "duration_ms": 149374,
       "name": "Through the Fire",
       "url": "https://open.spotify.com/track/0pJT9XkLwjXnYBi84DTKeL"
+    },
+    {
+      "album": {
+        "name": "Waking Up",
+        "url": "https://open.spotify.com/album/1QZ1DFVR4DNchZMURegY1H"
+      },
+      "artists": [
+        {
+          "name": "Felix Jaehn",
+          "url": "https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG"
+        },
+        {
+          "name": "Leony",
+          "url": "https://open.spotify.com/artist/2NpPlwwDVYR5dIj0F31EcC"
+        }
+      ],
+      "date_added": "2024-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154083,
+      "name": "Waking Up",
+      "url": "https://open.spotify.com/track/2eYw2v771lwzFUQ9sSBGpK"
     },
     {
       "album": {

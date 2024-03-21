@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYC7hFn0j2HC.md) - [plain]
 
 > ¡Lo mejor de los charros cantores! Vicente Fernández en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 206,784 likes - 70 songs - 3 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 206,862 likes - 70 songs - 3 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,8 +51,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYC7hFn0j2HC.md) - [plain]
 | 41 | [A Quién Vas a Amar Más Que a Mí](https://open.spotify.com/track/1IV8PlSxx5PUiaxKwVrlg9) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [Vicente Fernandez Para Siempre](https://open.spotify.com/album/3o98FgxhuEuR7PrLRIA203) | 2:47 |
 | 42 | [Lástima Que Seas Ajena](https://open.spotify.com/track/5knj5DnKoHo30GHlHbvkyt) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [Lastima Que Seas Ajena](https://open.spotify.com/album/1C4HOslKRQixKHC1Qzf2OX) | 4:17 |
 | 43 | [Cuando Sale la Luna](https://open.spotify.com/track/2vDaSr8NzCzG2rFtqup2Kq) | [José Alfredo Jimenez](https://open.spotify.com/artist/2T06whb4s6UiufL1j5Qtz9) | [Que Te Vaya Bonito](https://open.spotify.com/album/3RUeLZqvyBYGvqk8qROre6) | 3:05 |
-| 44 | [De un Rancho a Otro](https://open.spotify.com/track/2ffhBUWXoCpRFSzXkPbGEC) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [De Un Rancho A Otro](https://open.spotify.com/album/6MEQvpznWiaqUWsScLArVb) | 2:20 |
-| 45 | [Pa' Todo el Año](https://open.spotify.com/track/3O8QuZZrZF9aDYlmmClMO6) | [José Alfredo Jimenez](https://open.spotify.com/artist/2T06whb4s6UiufL1j5Qtz9) | [Las 100 Clasicas Vol\. 2](https://open.spotify.com/album/0A7PWw6nPn5DztmUhIICiG) | 3:07 |
+| 44 | [Pa' Todo el Año](https://open.spotify.com/track/3O8QuZZrZF9aDYlmmClMO6) | [José Alfredo Jimenez](https://open.spotify.com/artist/2T06whb4s6UiufL1j5Qtz9) | [Las 100 Clasicas Vol\. 2](https://open.spotify.com/album/0A7PWw6nPn5DztmUhIICiG) | 3:07 |
+| 45 | [De un Rancho a Otro](https://open.spotify.com/track/2ffhBUWXoCpRFSzXkPbGEC) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [De Un Rancho A Otro](https://open.spotify.com/album/6MEQvpznWiaqUWsScLArVb) | 2:20 |
 | 46 | [Amorcito corazón](https://open.spotify.com/track/73WX2V6JVfyQYYIG3K76i8) | [Pedro Infante](https://open.spotify.com/artist/7y33enVLfDvft6HGNmcxdV) | [15 Inmortales de Pedro Infante](https://open.spotify.com/album/0EUGqkj07wWx27XADAq3Ba) | 3:01 |
 | 47 | [Media Vuelta](https://open.spotify.com/track/0QvxVQaOUIMgqxyvk9GpFE) | [José Alfredo Jimenez](https://open.spotify.com/artist/2T06whb4s6UiufL1j5Qtz9) | [La Malagradecida](https://open.spotify.com/album/47G10Sm0a5KsorzrGoeLWR) | 2:38 |
 | 48 | [No Volveré](https://open.spotify.com/track/4Ny3BGfhqH2XOkOMuR2A4Y) | [Pedro Infante](https://open.spotify.com/artist/7y33enVLfDvft6HGNmcxdV) | [Mexico Gran Colección Ranchera: Pedro Infante](https://open.spotify.com/album/4ZiRfUT3xPgjse6CzPGRYC) | 4:27 |
@@ -68,15 +68,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYC7hFn0j2HC.md) - [plain]
 | 58 | [Tu enamorado](https://open.spotify.com/track/0s9KS4SRdpSuDBulhroP9V) | [Pedro Infante](https://open.spotify.com/artist/7y33enVLfDvft6HGNmcxdV) | [15 Inmortales de Pedro Infante](https://open.spotify.com/album/0EUGqkj07wWx27XADAq3Ba) | 3:09 |
 | 59 | [Payaso](https://open.spotify.com/track/4bvgQHmxuwOt251YF0FrUa) | [Javier Solís](https://open.spotify.com/artist/7jerD1mbWgyDukHAmCvdCj) | [Payaso](https://open.spotify.com/album/1t1tLeEvAthN8QnMpB69QN) | 3:01 |
 | 60 | [Qué de Raro Tiene](https://open.spotify.com/track/3S1ksI8qYpwxFy8yPcSlte) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [Qué De Raro Tiene](https://open.spotify.com/album/5N1xXRWtsVFU5exJhdYZdd) | 3:21 |
-| 61 | [Amigo Organillero](https://open.spotify.com/track/0wAvcx3s0npmQdQRkBnUso) | [Javier Solís](https://open.spotify.com/artist/7jerD1mbWgyDukHAmCvdCj) | [Amigo Organillero](https://open.spotify.com/album/2Rv1ejNPg23IdQQhlZxdOQ) | 3:09 |
-| 62 | [Tata Dios](https://open.spotify.com/track/3hk6MLu7MCPDGQJPL6SY9s) | [Miguel Aceves Mejia](https://open.spotify.com/artist/23XJNT1Hb35h3ZCDl7lpWY) | [Lo Mejor De Lo Mejor De RCA Victor](https://open.spotify.com/album/2PactlWmapDE3PmauHBEPo) | 3:29 |
+| 61 | [Tata Dios](https://open.spotify.com/track/3hk6MLu7MCPDGQJPL6SY9s) | [Miguel Aceves Mejia](https://open.spotify.com/artist/23XJNT1Hb35h3ZCDl7lpWY) | [Lo Mejor De Lo Mejor De RCA Victor](https://open.spotify.com/album/2PactlWmapDE3PmauHBEPo) | 3:29 |
+| 62 | [Amigo Organillero](https://open.spotify.com/track/0wAvcx3s0npmQdQRkBnUso) | [Javier Solís](https://open.spotify.com/artist/7jerD1mbWgyDukHAmCvdCj) | [Amigo Organillero](https://open.spotify.com/album/2Rv1ejNPg23IdQQhlZxdOQ) | 3:09 |
 | 63 | [Y Ándale](https://open.spotify.com/track/4wCF8sJr4J3rkLO2fjlswA) | [Antonio Aguilar](https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm) | [Antonio Aguilar con Mariachi](https://open.spotify.com/album/1avd5vgMRyfa6YD4LuZh2n) | 3:09 |
 | 64 | [Sombras Nada Más](https://open.spotify.com/track/6lTpm4j7o24t3aQGo3uZLc) | [Javier Solís](https://open.spotify.com/artist/7jerD1mbWgyDukHAmCvdCj) | [Sombras](https://open.spotify.com/album/38BNQJvYJ4KPOmAT9dEq9B) | 2:56 |
 | 65 | [La cama de piedra](https://open.spotify.com/track/21dyD7LnH9NNRha9v0rjGL) | [Miguel Aceves Mejia](https://open.spotify.com/artist/23XJNT1Hb35h3ZCDl7lpWY) | [35 Exitos](https://open.spotify.com/album/4LprcUZtNvYJZTSdX2Dhim) | 2:05 |
-| 66 | [Esclavo y Amo](https://open.spotify.com/track/3iwRXRVCaxXJYP9E2mEesX) | [Javier Solís](https://open.spotify.com/artist/7jerD1mbWgyDukHAmCvdCj) | [Amigo Organillero](https://open.spotify.com/album/2Rv1ejNPg23IdQQhlZxdOQ) | 2:59 |
-| 67 | [Ella](https://open.spotify.com/track/2STwUtOKrzqmNF23NSS0ey) | [Pedro Infante](https://open.spotify.com/artist/7y33enVLfDvft6HGNmcxdV) | [60 Rancheras Inmortales](https://open.spotify.com/album/7r20ZE4dXhmE7Ldc9sGeok) | 2:49 |
+| 66 | [Ella](https://open.spotify.com/track/2STwUtOKrzqmNF23NSS0ey) | [Pedro Infante](https://open.spotify.com/artist/7y33enVLfDvft6HGNmcxdV) | [60 Rancheras Inmortales](https://open.spotify.com/album/7r20ZE4dXhmE7Ldc9sGeok) | 2:49 |
+| 67 | [Esclavo y Amo](https://open.spotify.com/track/3iwRXRVCaxXJYP9E2mEesX) | [Javier Solís](https://open.spotify.com/artist/7jerD1mbWgyDukHAmCvdCj) | [Amigo Organillero](https://open.spotify.com/album/2Rv1ejNPg23IdQQhlZxdOQ) | 2:59 |
 | 68 | [Ay Jalisco No Te Rajes](https://open.spotify.com/track/4euwnQbnoDNtXQ5LKNb07t) | [Jorge Negrete](https://open.spotify.com/artist/4W5RbLZybsLfAzE7QqdibE) | [Jorge Negrete, Trio Calaveras y Silvestre Vargas](https://open.spotify.com/album/2QV8SOTtZ3APYWXwBjpNy8) | 2:25 |
 | 69 | [Retirada](https://open.spotify.com/track/6kYxWFXzSkvwYBcdrHSFSD) | [Javier Solís](https://open.spotify.com/artist/7jerD1mbWgyDukHAmCvdCj) | [Sombras](https://open.spotify.com/album/38BNQJvYJ4KPOmAT9dEq9B) | 2:52 |
 | 70 | [Juan Charrasqueado](https://open.spotify.com/track/6N4N27KYUdgz7Ku1ZRTF4p) | [Jorge Negrete](https://open.spotify.com/artist/4W5RbLZybsLfAzE7QqdibE) | [Yo Soy Mexicano](https://open.spotify.com/album/5VZBNCZlegrwEBbmgWryRE) | 3:28 |
 
-Snapshot ID: `MCxkYTFiNmY5ZGRkYmQ2YzhlY2E0MjA5YzdlODEwMjA2OWY5NDYxNWRl`
+Snapshot ID: `MCxkZTE2NDg0Mjk5NTc1ZmJlOTQ1ZWE2ZDQzOGE0YWY3NDU2YTMxN2Fh`

@@ -6,7 +6,7 @@
     {
       "album": {
         "name": "melanchole (remaster)",
-        "url": "https://open.spotify.com/album/1CU4dfIskXlgz5vSssB7IT"
+        "url": "https://open.spotify.com/album/6guj24pIFwXE2rDi2LAWko"
       },
       "artists": [
         {
@@ -17,6 +17,24 @@
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 84500,
+      "name": "(dream) - Remaster",
+      "url": "https://open.spotify.com/track/0rHu5eGXkeTh4vSHpO1saS"
+    },
+    {
+      "album": {
+        "name": "melanchole (remaster)",
+        "url": "https://open.spotify.com/album/1CU4dfIskXlgz5vSssB7IT"
+      },
+      "artists": [
+        {
+          "name": "salvia palth",
+          "url": "https://open.spotify.com/artist/0pg0Zm8FsGAYy5kdHuBnSo"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": "2024-03-21",
       "duration_ms": 84500,
       "name": "(dream) - remaster",
       "url": "https://open.spotify.com/track/6DjNn3yQ53XwGyDTJBKBEz"
@@ -1434,6 +1452,24 @@
     {
       "album": {
         "name": "melanchole",
+        "url": "https://open.spotify.com/album/10WzRaNWnFUQNrW2FpqQSQ"
+      },
+      "artists": [
+        {
+          "name": "salvia palth",
+          "url": "https://open.spotify.com/artist/0pg0Zm8FsGAYy5kdHuBnSo"
+        }
+      ],
+      "date_added": "2023-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161422,
+      "name": "i was all over her",
+      "url": "https://open.spotify.com/track/6mSnSuOhgHHohqeBw76jRV"
+    },
+    {
+      "album": {
+        "name": "melanchole",
         "url": "https://open.spotify.com/album/23KJrzHF1IBfjzpRgTtaJx"
       },
       "artists": [
@@ -1444,7 +1480,7 @@
       ],
       "date_added": "2023-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-21",
       "duration_ms": 161462,
       "name": "i was all over her",
       "url": "https://open.spotify.com/track/7svpAkwc6xaSxlbZ7V7JiS"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUEbH7oMQunS.md) - [plain]
 
 > Enjoy this deep and meditative list  alone or with a friend and a good cup of coffee.
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,256 likes - 100 songs - 7 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 60,271 likes - 100 songs - 7 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,19 +94,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUEbH7oMQunS.md) - [plain]
 | 84 | [A Dream Familiar](https://open.spotify.com/track/0yFZ87wdLgoe0EtIh0BlgD) | [Daniel Jorgensen](https://open.spotify.com/artist/7ICe7sy78x2x8RhIfjj6kJ) | [A Search for Somewhere Else](https://open.spotify.com/album/0yqsLV1ezlAjFwXmvZ5tHs) | 2:32 |
 | 85 | [Weight of Heaven](https://open.spotify.com/track/32VNyf4R5Ed5ijLMpBAKGv) | [Mezzo Piano](https://open.spotify.com/artist/5DD8fdenQJ9zgVLaQVYdPQ) | [Love Has a Name](https://open.spotify.com/album/5hoVbdPfcDCKAisfnOyE3c) | 4:30 |
 | 86 | [Reverie](https://open.spotify.com/track/1ap1u1rzIpmJu9bRwyxYLa) | [In Cathedrals](https://open.spotify.com/artist/2a3Z1GLgmyfTgeK4r5Zu3n) | [Reverie](https://open.spotify.com/album/0dtL3GrsD3XfJA9YMBDhN1) | 4:12 |
-| 87 | [Beckon](https://open.spotify.com/track/4do1jPPpGVUbOCEgMH2sB3) | [The Church Vessel](https://open.spotify.com/artist/56kazKXQjQT2Xy9k8HM5so) | [Rekindle](https://open.spotify.com/album/64qrjQnePZQS6tASw3qiVQ) | 6:34 |
-| 88 | [Undress My Heart](https://open.spotify.com/track/0xxMI6zUsRDCGz0D5mcmcI) | [Calah Mikal](https://open.spotify.com/artist/2c2Y05pVIabK1AT1zfsH0h), [Taylor Armstrong](https://open.spotify.com/artist/3CVk2LzA3zH6FBAXuPbnhc) | [Undress My Heart](https://open.spotify.com/album/0itCxwUR1vUV06qJhjf6Jo) | 3:45 |
+| 87 | [Undress My Heart](https://open.spotify.com/track/0xxMI6zUsRDCGz0D5mcmcI) | [Calah Mikal](https://open.spotify.com/artist/2c2Y05pVIabK1AT1zfsH0h), [Taylor Armstrong](https://open.spotify.com/artist/3CVk2LzA3zH6FBAXuPbnhc) | [Undress My Heart](https://open.spotify.com/album/0itCxwUR1vUV06qJhjf6Jo) | 3:45 |
+| 88 | [Beckon](https://open.spotify.com/track/4do1jPPpGVUbOCEgMH2sB3) | [The Church Vessel](https://open.spotify.com/artist/56kazKXQjQT2Xy9k8HM5so) | [Rekindle](https://open.spotify.com/album/64qrjQnePZQS6tASw3qiVQ) | 6:34 |
 | 89 | [Psalm 108](https://open.spotify.com/track/5c3sp0t9RDc6J5IYMmQyw0) | [Poor Bishop Hooper](https://open.spotify.com/artist/7AgYdpiGbObyY3WVJXxhi0) | [Psalm 108](https://open.spotify.com/album/608zPXiewlMUalrQ3ZcyiA) | 4:37 |
 | 90 | [Velveteen](https://open.spotify.com/track/4EqMffOPYDDgXlwPgYgbUy) | [Christa Wells](https://open.spotify.com/artist/3gCNiuPNPiAA5UQSgb8Uby) | [Velveteen](https://open.spotify.com/album/5VjY0h9wEbhKYaYuk3QXnO) | 3:57 |
 | 91 | [Anchor](https://open.spotify.com/track/2kDS6kwrjR2QDOj5RF52xj) | [The War Within](https://open.spotify.com/artist/0OYG29hioeFTMAf8rYSJPh), [Madison Nightingale](https://open.spotify.com/artist/7rtM8hShcn3uvAJrXapFSq) | [Anchor](https://open.spotify.com/album/2SIHwdpJ51catH3G1vNLGG) | 5:01 |
 | 92 | [Freedom Fighter \(Jimmy James Remix\)](https://open.spotify.com/track/1xSVf7fLxIf6rcDD0haXIb) | [NIRVA](https://open.spotify.com/artist/23DewEfMpPcVZ9epSTpy1U), [Jimmy James](https://open.spotify.com/artist/3wBTuRBjr25nNlyRKNn81D) | [Freedom Fighter \(Jimmy James Remix\)](https://open.spotify.com/album/0JmfJGFs74Q3FH8pLH7vtb) | 3:30 |
 | 93 | [Suddenly](https://open.spotify.com/track/5hcTf54Yvz9DKpshg3DGnL) | [Young Oceans](https://open.spotify.com/artist/41crVXG3GeS8TmyWEaPZVr) | [Suddenly \- EP](https://open.spotify.com/album/34CL0SBwvESZpXED6Xy3vN) | 4:49 |
 | 94 | [Higher Ways](https://open.spotify.com/track/1dXPUD8g74o7nAf9dxksPA) | [Olu Meduoye](https://open.spotify.com/artist/5xqhFZdZvx6TXidSCzqPj0) | [Higher Ways](https://open.spotify.com/album/6FcRqLpn1eas7Mu76WCRgh) | 5:33 |
-| 95 | [A Reason to Hide](https://open.spotify.com/track/4pffZgndhbmArERQwcVYSk) | [Caves](https://open.spotify.com/artist/2tzzfW0A5ktHkQ8W2JcBxD) | [Caves \(Deluxe Edition\)](https://open.spotify.com/album/7mIWBTJ3wBaYOtLiL0zwtJ) | 5:31 |
-| 96 | [Spoken](https://open.spotify.com/track/6ShGxxZtve3jGLNtKhW9Um) | [The Church Vessel](https://open.spotify.com/artist/56kazKXQjQT2Xy9k8HM5so) | [Rekindle](https://open.spotify.com/album/64qrjQnePZQS6tASw3qiVQ) | 5:27 |
+| 95 | [Spoken](https://open.spotify.com/track/6ShGxxZtve3jGLNtKhW9Um) | [The Church Vessel](https://open.spotify.com/artist/56kazKXQjQT2Xy9k8HM5so) | [Rekindle](https://open.spotify.com/album/64qrjQnePZQS6tASw3qiVQ) | 5:27 |
+| 96 | [A Reason to Hide](https://open.spotify.com/track/4pffZgndhbmArERQwcVYSk) | [Caves](https://open.spotify.com/artist/2tzzfW0A5ktHkQ8W2JcBxD) | [Caves \(Deluxe Edition\)](https://open.spotify.com/album/7mIWBTJ3wBaYOtLiL0zwtJ) | 5:31 |
 | 97 | [dust to dust/lose myself \(undone\)](https://open.spotify.com/track/6itrh3ZUUSgKkJdTWu5wyD) | [The War Within](https://open.spotify.com/artist/0OYG29hioeFTMAf8rYSJPh) | [undone](https://open.spotify.com/album/62cc9ZKmqWzwiUQ0vRJ41Z) | 4:51 |
 | 98 | [Faith Fall \- pensive piano](https://open.spotify.com/track/3sZtzuWSGkOBvr8n8XGGTP) | [LOVKN](https://open.spotify.com/artist/2bEFxVGVlzEIEdDAaQZCrc) | [Faith Fall](https://open.spotify.com/album/2vJsF3qyoL0wqmyrAZsVZ8) | 4:18 |
 | 99 | [Smile](https://open.spotify.com/track/0w5nj3eNbOWsvbKpzbuVju) | [Sarah Hawkyard](https://open.spotify.com/artist/3CgmDph153yB1nP3meLZkr) | [Smile](https://open.spotify.com/album/0i2YjFJvFKKBD05cA0Omar) | 3:39 |
 | 100 | [How To Love](https://open.spotify.com/track/1IC9zHtLv9Kmsqnsj4RLsB) | [Levi Mitchell](https://open.spotify.com/artist/2lm3ISdfvGLIqhp9roRcdr) | [How To Love](https://open.spotify.com/album/5GimHqufYnL4RwURn1kiMB) | 2:00 |
 
-Snapshot ID: `MCwxOTljMzU2YjA4MGRhYWQ1NTAyZjc0NjFlNDkxN2ZjMjM1MGE4MDU0`
+Snapshot ID: `MCw0OWExMjY0MzQ2ZWZjODRkYTRlYWRhMzAyM2ExMmIyZThlYTk4ZTY1`

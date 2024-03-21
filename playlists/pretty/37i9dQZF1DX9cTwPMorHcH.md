@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9cTwPMorHcH.md) - [plain]
 
 > Blues \- new and old \- to accompany your drive\. Cover: B.B\. King
 
-[Spotify](https://open.spotify.com/user/spotify) - 84,670 likes - 100 songs - 7 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 84,707 likes - 100 songs - 7 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,10 +26,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9cTwPMorHcH.md) - [plain]
 | 16 | [Texas Flood](https://open.spotify.com/track/5MtN38MGEWJt60LwtBmFNP) | [Stevie Ray Vaughan](https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1) | [Texas Flood \(Legacy Edition\)](https://open.spotify.com/album/1AL5oXZRtTc8PyhcTwg4xQ) | 5:20 |
 | 17 | [Spoonful](https://open.spotify.com/track/7j02rdE5RVtNcNMuLGY5SS) | [Howlin' Wolf](https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR) | [Howlin' Wolf](https://open.spotify.com/album/26TtzBrPdUkHMSTPSbctbl) | 2:50 |
 | 18 | [One Bourbon, One Scotch, One Beer](https://open.spotify.com/track/2dp14VWbIxOVNmaWKkVB1r) | [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x) | [The Real Folk Blues](https://open.spotify.com/album/6AToTGNfNIiOSMcl6xGJTY) | 3:04 |
-| 19 | [Midnight in Harlem](https://open.spotify.com/track/1ncSAZD0bzvU3cu0uPLbWd) | [Tedeschi Trucks Band](https://open.spotify.com/artist/2gFsmDBM0hkoZPmrO5EdyO) | [Revelator](https://open.spotify.com/album/3nvebrk47Qs9bTipgUgup7) | 5:52 |
-| 20 | [Hound Dog](https://open.spotify.com/track/5Oc0vLGWdEWeCqIU8zyELt) | [Big Mama Thornton](https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO) | [Ball n' Chain](https://open.spotify.com/album/6U60FpmscwzTJjc9gmZcKl) | 3:01 |
-| 21 | [Riding With the King](https://open.spotify.com/track/0U6wNkZaQUTBrCLbhbbRgS) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD), [B.B\. King](https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U) | [Riding With The King](https://open.spotify.com/album/7w0uQiYScm3ApS8cWXmf4c) | 4:24 |
-| 22 | [I'm A Man](https://open.spotify.com/track/760clbeDBWmBsBLbszWuNZ) | [Bo Diddley](https://open.spotify.com/artist/2bmixwMZXlkl2sbIbOfviq) | [Bo Diddley](https://open.spotify.com/album/1cbtDEwxCjMhglb49OgNBR) | 2:44 |
+| 19 | [Hound Dog](https://open.spotify.com/track/5Oc0vLGWdEWeCqIU8zyELt) | [Big Mama Thornton](https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO) | [Ball n' Chain](https://open.spotify.com/album/6U60FpmscwzTJjc9gmZcKl) | 3:01 |
+| 20 | [Midnight in Harlem](https://open.spotify.com/track/1ncSAZD0bzvU3cu0uPLbWd) | [Tedeschi Trucks Band](https://open.spotify.com/artist/2gFsmDBM0hkoZPmrO5EdyO) | [Revelator](https://open.spotify.com/album/3nvebrk47Qs9bTipgUgup7) | 5:52 |
+| 21 | [I'm A Man](https://open.spotify.com/track/760clbeDBWmBsBLbszWuNZ) | [Bo Diddley](https://open.spotify.com/artist/2bmixwMZXlkl2sbIbOfviq) | [Bo Diddley](https://open.spotify.com/album/1cbtDEwxCjMhglb49OgNBR) | 2:44 |
+| 22 | [Riding With the King](https://open.spotify.com/track/0U6wNkZaQUTBrCLbhbbRgS) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD), [B.B\. King](https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U) | [Riding With The King](https://open.spotify.com/album/7w0uQiYScm3ApS8cWXmf4c) | 4:24 |
 | 23 | [Feels Like Rain \(feat\. Bonnie Raitt\)](https://open.spotify.com/track/5MTsZG10E0hTvAkdioyPnw) | [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0), [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY) | [Feels Like Rain](https://open.spotify.com/album/2GXqcjyaSAMRnmFuvHM2Bd) | 4:35 |
 | 24 | [Chains And Things](https://open.spotify.com/track/5x7Oxaa9EEIx9nw17CC5yW) | [B.B\. King](https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U) | [Indianola Mississippi Seeds](https://open.spotify.com/album/1NgGj5ECcDELHjoQRX2P1l) | 4:53 |
 | 25 | [Bell Bottom Blues](https://open.spotify.com/track/2YJgM8lj4u5YEZRSHSfL60) | [Derek & The Dominos](https://open.spotify.com/artist/2rc78XDH9zuJP6bm78lU8Z) | [Layla And Other Assorted Love Songs \(Remastered 2010\)](https://open.spotify.com/album/5iIWnMgvSM8uEBwXKsPcXM) | 5:01 |
@@ -61,9 +61,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9cTwPMorHcH.md) - [plain]
 | 51 | [Bad News Is Coming](https://open.spotify.com/track/1TRIYxcVJYPki5AX2hZzZT) | [Luther Allison](https://open.spotify.com/artist/7EynH3keqfKUmauyaeZoxv) | [Bad News Is Coming](https://open.spotify.com/album/7wTiVd5wU0aFVXxceOsvHT) | 7:25 |
 | 52 | [Voodoo Child \(Slight Return\)](https://open.spotify.com/track/1kY6OOTBmRNzhYmu9xSH3a) | [Stevie Ray Vaughan](https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1) | [Couldn't Stand The Weather \(Legacy Edition\)](https://open.spotify.com/album/5vxBOzakDbJleNA1rbA7FQ) | 7:58 |
 | 53 | [Just a Game](https://open.spotify.com/track/2HCG5XvSejkjtGnUx0A8Sb) | [Jimmie Vaughan](https://open.spotify.com/artist/4gPGI1vW8TOypARV9Ykzae) | [Baby, Please Come Home \(Bonus Version\)](https://open.spotify.com/album/4dcO5CmDykJdNP9CTOPKYD) | 2:57 |
-| 54 | [Stumble](https://open.spotify.com/track/0RTjFVHvqjTdpX2NawwyXI) | [Freddie King](https://open.spotify.com/artist/5dCuFngSPyOOnTAvrC7v2s) | [My Feeling For the Blues](https://open.spotify.com/album/1Usun6ssY8Yq6GqRKWsSFz) | 3:36 |
+| 54 | [All Your Love](https://open.spotify.com/track/1tPZlhOHo1GOZRrJR3hGOx) | [John Mayall & The Bluesbreakers](https://open.spotify.com/artist/2ScuQMRWThcifBRIvNDFDC) | [Blues Breakers](https://open.spotify.com/album/3W45Tazulh4zb48uL1RV8H) | 3:36 |
 | 55 | [Bright Lights](https://open.spotify.com/track/7aO35V27YDi4hKOL9odSya) | [Gary Clark Jr.](https://open.spotify.com/artist/01aC2ikO4Xgb2LUpf9JfKp) | [Blak and Blu \(Deluxe Edition\)](https://open.spotify.com/album/0YaeFHEYGpdzdFIxDRFvCv) | 5:24 |
-| 56 | [All Your Love](https://open.spotify.com/track/1tPZlhOHo1GOZRrJR3hGOx) | [John Mayall & The Bluesbreakers](https://open.spotify.com/artist/2ScuQMRWThcifBRIvNDFDC) | [Blues Breakers](https://open.spotify.com/album/3W45Tazulh4zb48uL1RV8H) | 3:36 |
+| 56 | [Stumble](https://open.spotify.com/track/0RTjFVHvqjTdpX2NawwyXI) | [Freddie King](https://open.spotify.com/artist/5dCuFngSPyOOnTAvrC7v2s) | [My Feeling For the Blues](https://open.spotify.com/album/1Usun6ssY8Yq6GqRKWsSFz) | 3:36 |
 | 57 | [Wang Dang Doodle](https://open.spotify.com/track/1cXc92MX9kFjMrrDsvdf9w) | [Koko Taylor](https://open.spotify.com/artist/04qIJRFjTmvW5I1DMyGE1R) | [Koko Taylor](https://open.spotify.com/album/4kUcacQmakJzzQ0UppaBTy) | 3:02 |
 | 58 | [Carry You](https://open.spotify.com/track/3CQuCLPRRf5cD9Xubjcrf2) | [The Teskey Brothers](https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh) | [Run Home Slow](https://open.spotify.com/album/1kAEI20bjSPsByL6LNIyCT) | 4:32 |
 | 59 | [An Honest Man](https://open.spotify.com/track/01Cr7MlISmoh8gMlZBjpko) | [Fantastic Negrito](https://open.spotify.com/artist/5QXLMdpKeByOo5ypH9gT13) | [An Honest Man](https://open.spotify.com/album/6YqoghPHyDIIgSsAp7QFdj) | 4:06 |
@@ -79,8 +79,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9cTwPMorHcH.md) - [plain]
 | 69 | [Ain't Got Nobody](https://open.spotify.com/track/4lbqUtqgX3dITgYJMBjCDS) | [Hound Dog Taylor](https://open.spotify.com/artist/737qPoiQQkeuIzuJy54aK4) | [Genuine Houserocking Music](https://open.spotify.com/album/0QYVlYhJlKUteRXnfqZwhe) | 3:30 |
 | 70 | [Albert's Shuffle](https://open.spotify.com/track/1ekio2Gk6WycLArAUJZfxM) | [Mike Bloomfield](https://open.spotify.com/artist/0yT9vbP1EOnCpl2McnF9nH) | [Bloomfield\-A Retrospective](https://open.spotify.com/album/5ZkaY6CcFUidEuWc41o9b2) | 6:54 |
 | 71 | [Been Here Before](https://open.spotify.com/track/1R95piP4AI1kIzq9PRJfyF) | [Christone "Kingfish" Ingram](https://open.spotify.com/artist/5jMGnqJkgPaiJzwy5bOcYX) | [Kingfish](https://open.spotify.com/album/6fCDiY92JVAorr6HrKStRH) | 5:54 |
-| 72 | [Going Down South](https://open.spotify.com/track/3PeDt4Q8YIFDRph5UhxAaA) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Delta Kream](https://open.spotify.com/album/682pJqnx8hcrCfSjvyNBki) | 3:48 |
-| 73 | [Move It On Over](https://open.spotify.com/track/2bgsFbiStgVqxOtQ4UK3Uf) | [George Thorogood & The Destroyers](https://open.spotify.com/artist/4n31svBA9GGIYxGxgrQaRK) | [The Baddest Of George Thorogood And The Destroyers](https://open.spotify.com/album/5vliZHMdEeEHpTOZC2XcBw) | 4:18 |
+| 72 | [Move It On Over](https://open.spotify.com/track/2bgsFbiStgVqxOtQ4UK3Uf) | [George Thorogood & The Destroyers](https://open.spotify.com/artist/4n31svBA9GGIYxGxgrQaRK) | [The Baddest Of George Thorogood And The Destroyers](https://open.spotify.com/album/5vliZHMdEeEHpTOZC2XcBw) | 4:18 |
+| 73 | [Going Down South](https://open.spotify.com/track/3PeDt4Q8YIFDRph5UhxAaA) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Delta Kream](https://open.spotify.com/album/682pJqnx8hcrCfSjvyNBki) | 3:48 |
 | 74 | [Honey, Hush aka Talking Woman Blues](https://open.spotify.com/track/5qPJSWhuZpD79C3CloJvDA) | [Albert Collins](https://open.spotify.com/artist/1uFixbBAduJkFAeRKznkvW) | [Ice Pickin'](https://open.spotify.com/album/7K0AX1jtXt1iLCtPLM3dab) | 4:28 |
 | 75 | [You Can't Teach An Old Dog New Tricks](https://open.spotify.com/track/2YXJSAmQ6teroFJLAkYI7f) | [Seasick Steve](https://open.spotify.com/artist/6OVkHZQP8QoBYqr1ejCGDv) | [You Can't Teach An Old Dog New Tricks](https://open.spotify.com/album/19NWR3uhtr9uIMIms0alvr) | 3:34 |
 | 76 | [Mean Mistreater](https://open.spotify.com/track/0tYJ6uY0ETQOtOM8KySMSp) | [Johnny Winter](https://open.spotify.com/artist/2ODUxmFxJSyvGiimNhMHbO) | [Johnny Winter](https://open.spotify.com/album/5RNAJslV8AaTq2gM5JJ9Ch) | 3:52 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9cTwPMorHcH.md) - [plain]
 | 99 | [Holy Ghost Fire](https://open.spotify.com/track/59wQXbDYHOHYUbLRySohsP) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Self Made Man](https://open.spotify.com/album/50aq2p3SeGo4aKtihf81Wf) | 3:22 |
 | 100 | [Hard Case](https://open.spotify.com/track/4jKUZXZuhKH2YI277OnFol) | [Tedeschi Trucks Band](https://open.spotify.com/artist/2gFsmDBM0hkoZPmrO5EdyO) | [Signs](https://open.spotify.com/album/2SWcIu27vvZHPxEHU3FDck) | 3:22 |
 
-Snapshot ID: `MCw1ZTc2ZDg4ZDExNGRhNDcyMWIzMjljYmI0Mzk3MDYyZjJkMTc2YzFk`
+Snapshot ID: `MCw1ODdiNDUyOWZhNDZkMWMxMmQ3YTc1Y2Y4ZjdmNWVjOTQwMDAwZTBi`

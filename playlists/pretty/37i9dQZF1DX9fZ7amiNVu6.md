@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9fZ7amiNVu6.md) - [plain]
 
 > Kick back and enjoy these classic summer songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 395,212 likes - 100 songs - 5 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 395,283 likes - 100 songs - 5 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,8 +16,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9fZ7amiNVu6.md) - [plain]
 | 6 | [Could You Be Loved](https://open.spotify.com/track/5O4erNlJ74PIF6kGol1ZrC) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Uprising](https://open.spotify.com/album/321q9p7PELvzcFAWxml7VX) | 3:57 |
 | 7 | [Ain't No Mountain High Enough](https://open.spotify.com/track/7tqhbajSfrz2F7E1Z75ASX) | [Marvin Gaye](https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA), [Tammi Terrell](https://open.spotify.com/artist/75jNCko3SnEMI5gwGqrbb8) | [United](https://open.spotify.com/album/5LqviduT0g0J0ypFrFSwCE) | 2:31 |
 | 8 | [Hotel California \- 2013 Remaster](https://open.spotify.com/track/40riOy7x9W7GXjyGp4pjAv) | [Eagles](https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL) | [Hotel California \(2013 Remaster\)](https://open.spotify.com/album/2widuo17g5CEC66IbzveRu) | 6:31 |
-| 9 | [Brown Eyed Girl](https://open.spotify.com/track/3yrSvpt2l1xhsV9Em88Pul) | [Van Morrison](https://open.spotify.com/artist/44NX2ffIYHr6D4n7RaZF7A) | [Blowin' Your Mind!](https://open.spotify.com/album/7dsWupQRlFuhG8FGiQAUjC) | 3:03 |
-| 10 | [Uptown Girl](https://open.spotify.com/track/5zA8vzDGqPl2AzZkEYQGKh) | [Billy Joel](https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e) | [An Innocent Man](https://open.spotify.com/album/3R3x4zIabsvpD3yxqLaUpc) | 3:17 |
+| 9 | [Uptown Girl](https://open.spotify.com/track/5zA8vzDGqPl2AzZkEYQGKh) | [Billy Joel](https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e) | [An Innocent Man](https://open.spotify.com/album/3R3x4zIabsvpD3yxqLaUpc) | 3:17 |
+| 10 | [Brown Eyed Girl](https://open.spotify.com/track/3yrSvpt2l1xhsV9Em88Pul) | [Van Morrison](https://open.spotify.com/artist/44NX2ffIYHr6D4n7RaZF7A) | [Blowin' Your Mind!](https://open.spotify.com/album/7dsWupQRlFuhG8FGiQAUjC) | 3:03 |
 | 11 | [Summer Of '69](https://open.spotify.com/track/0GONea6G2XdnHWjNZd6zt3) | [Bryan Adams](https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc) | [Reckless \(30th Anniversary / Deluxe Edition\)](https://open.spotify.com/album/2o2G49EPi4lua5zgxUKhLL) | 3:36 |
 | 12 | [You Make My Dreams \(Come True\)](https://open.spotify.com/track/4o6BgsqLIBViaGVbx5rbRk) | [Daryl Hall & John Oates](https://open.spotify.com/artist/77tT1kLj6mCWtFNqiOmP9H) | [Voices](https://open.spotify.com/album/4LniALl9S6YedTFdiZWOMS) | 3:10 |
 | 13 | [Sweet Home Alabama](https://open.spotify.com/track/7e89621JPkKaeDSTQ3avtg) | [Lynyrd Skynyrd](https://open.spotify.com/artist/4MVyzYMgTwdP7Z49wAZHx0) | [Second Helping \(Expanded Edition\)](https://open.spotify.com/album/54V1ljNtyzAm053oJqi0SH) | 4:43 |
@@ -60,9 +60,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9fZ7amiNVu6.md) - [plain]
 | 50 | [Sunny](https://open.spotify.com/track/4vju55Ag7apDL2CfotuE7Q) | [Bobby Hebb](https://open.spotify.com/artist/2uNpV18izVIP7DNusoWbT5) | [Sunny](https://open.spotify.com/album/6pJkF95sYsVg3FJtTvTuEG) | 2:45 |
 | 51 | [In the Summertime](https://open.spotify.com/track/2uzlv8PjqsVvF1DhEahyhy) | [Mungo Jerry](https://open.spotify.com/artist/2mbvqMGpwLsakeH45p1Jrb) | [In the Summertime](https://open.spotify.com/album/17JTrT5dXyWYs0xmsnunp7) | 3:31 |
 | 52 | [Sundown](https://open.spotify.com/track/0SjnBEHZVXgCKvOrpvzL2k) | [Gordon Lightfoot](https://open.spotify.com/artist/23rleGXVOVVgTk3xgtmfE4) | [Sundown](https://open.spotify.com/album/2IPD9EcNjUmsHvqULDMU9Y) | 3:33 |
-| 53 | [I've Got a Woman](https://open.spotify.com/track/2xar08Fq5xra2KKZs5Bw9j) | [Ray Charles](https://open.spotify.com/artist/1eYhYunlNJlDoQhtYBvPsi) | [Ray Charles \(aka: Hallelujah, I Love Her So\)](https://open.spotify.com/album/0cw6Sv7IwZ87aLPPvNPSd0) | 2:51 |
+| 53 | [Be My Baby](https://open.spotify.com/track/2G2YzndIA6jeWFPBXhUjh5) | [The Ronettes](https://open.spotify.com/artist/7CyeXFnOrfC1N6z4naIpgo) | [Be My Baby: The Very Best of The Ronettes](https://open.spotify.com/album/3vLFWR3fLqfY82WGvaLuyV) | 2:40 |
 | 54 | [Good Vibrations \- Remastered 2001](https://open.spotify.com/track/5t9KYe0Fhd5cW6UYT4qP8f) | [The Beach Boys](https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV) | [Smiley Smile \(Remastered\)](https://open.spotify.com/album/37rNuexqEXWeSIOiJtn3A9) | 3:39 |
-| 55 | [Be My Baby](https://open.spotify.com/track/2G2YzndIA6jeWFPBXhUjh5) | [The Ronettes](https://open.spotify.com/artist/7CyeXFnOrfC1N6z4naIpgo) | [Be My Baby: The Very Best of The Ronettes](https://open.spotify.com/album/3vLFWR3fLqfY82WGvaLuyV) | 2:40 |
+| 55 | [I've Got a Woman](https://open.spotify.com/track/2xar08Fq5xra2KKZs5Bw9j) | [Ray Charles](https://open.spotify.com/artist/1eYhYunlNJlDoQhtYBvPsi) | [Ray Charles \(aka: Hallelujah, I Love Her So\)](https://open.spotify.com/album/0cw6Sv7IwZ87aLPPvNPSd0) | 2:51 |
 | 56 | [Baby Love](https://open.spotify.com/track/5uES1C2NgkdrNHiCwf9jRr) | [The Supremes](https://open.spotify.com/artist/57bUPid8xztkieZfS7OlEV) | [Where Did Our Love Go](https://open.spotify.com/album/05pI1Rx1HQ4KA0a0e3PJlV) | 2:38 |
 | 57 | [Do You Believe in Magic?](https://open.spotify.com/track/1udKn1oNKYQSQ9OmiIWCMu) | [The Lovin' Spoonful](https://open.spotify.com/artist/7CCn4PFRRRZF127jtCBAUe) | [Do you Believe In Magic](https://open.spotify.com/album/5bx2ZHa0KUDMD5T0r9V030) | 2:05 |
 | 58 | [ABC](https://open.spotify.com/track/6D8kc7RO0rqBLSo2YPflJ5) | [The Jackson 5](https://open.spotify.com/artist/2iE18Oxc8YSumAU232n4rW) | [ABC](https://open.spotify.com/album/2tukc7pH4qTuXcfaHjLIBc) | 2:54 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9fZ7amiNVu6.md) - [plain]
 | 99 | [I Can See Clearly Now](https://open.spotify.com/track/7aJZxI6TVdIvQSuWxQ4rqp) | [Jimmy Cliff](https://open.spotify.com/artist/3rJ3m1tM6vUgiWLjfV8sRf) | [We All Are One: The Best Of Jimmy Cliff](https://open.spotify.com/album/0g0F1l0hQ1nZTelBbmlmB5) | 3:16 |
 | 100 | [One Fine Day](https://open.spotify.com/track/6vcG9EgeqJUSmmF65lxUm6) | [The Chiffons](https://open.spotify.com/artist/05sIdEkXAYDbDDdv3T56Oj) | [The Chiffons Absolutely The Best!](https://open.spotify.com/album/1WvYZcG9v3WzzNNkwpreGq) | 2:08 |
 
-Snapshot ID: `MCwyODEyODI3OWU4MTlhMjAwOWI3YTk0YTE3MzllNTkwOWM5ZTE0Nzcz`
+Snapshot ID: `MCw5MDVmODljMTY3ZWYzNTM0NDA2N2ExYTEyZjkxMTQzYmQ1NzA2MjY0`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Q5wA1hY6bS.md) - [plain]
 
 > the best things in life can't be contained.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,461,216 likes - 100 songs - 6 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,461,215 likes - 100 songs - 6 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,10 +41,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Q5wA1hY6bS.md) - [plain]
 | 31 | [Lost in My Mind](https://open.spotify.com/track/3n263SWk3jGYfGMxHIRukn) | [The Head And The Heart](https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg) | [The Head And The Heart](https://open.spotify.com/album/4wM8y2tEaXEfGewxGPFzyu) | 4:19 |
 | 32 | [Wolf](https://open.spotify.com/track/3pMUTmKGA5hWOWpzf82xn0) | [First Aid Kit](https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1) | [Wolf](https://open.spotify.com/album/0rWBMz1deEBd4l2TAsW7dq) | 3:40 |
 | 33 | [Our Remains](https://open.spotify.com/track/3GLMvFjzOgJ3XGphEEVEPv) | [Beta Radio](https://open.spotify.com/artist/0syIRg9MPSpJIC0QCPUaHB) | [Ancient Transition](https://open.spotify.com/album/1ybYkyaTa4UKK38JnMXAJl) | 4:04 |
-| 34 | [Weekend](https://open.spotify.com/track/2TEZu0Rk7Rr6aEARBCMmhj) | [Sumbuck](https://open.spotify.com/artist/6T4OrfxxOTkAUKAe2gg9fZ), [Savannah Conley](https://open.spotify.com/artist/4iyGL0YdGnDUVbmuca9e2G) | [Weekend](https://open.spotify.com/album/7CfX9MI3qgRHch1OgWL6mz) | 2:27 |
-| 35 | [Sword from the Stone](https://open.spotify.com/track/1Fc2Gqn9bTuoeSHfhl1net) | [Passenger](https://open.spotify.com/artist/0gadJ2b9A4SKsB1RFkBb66) | [Songs for the Drunk and Broken Hearted](https://open.spotify.com/album/6OGJr5I1SVTn9cla4JPiO1) | 3:21 |
-| 36 | [A Trick of the Light](https://open.spotify.com/track/1rCPg5GOtes0FIo1BzgvUi) | [Villagers](https://open.spotify.com/artist/2m1l9MLSslzup4vvokKgvQ) | [The Art Of Pretending To Swim](https://open.spotify.com/album/5qhqqenkgCAp3mCKczvvNU) | 4:08 |
-| 37 | [Stella](https://open.spotify.com/track/0xMap5BgUlVMGJLa1d7x5P) | [Cereus Bright](https://open.spotify.com/artist/3zt4I5TLIb0Z9RigaiHe5G) | [Happier Than Me](https://open.spotify.com/album/37Zn2PTvO7PWLyI9oAAghf) | 2:52 |
+| 34 | [Sword from the Stone](https://open.spotify.com/track/1Fc2Gqn9bTuoeSHfhl1net) | [Passenger](https://open.spotify.com/artist/0gadJ2b9A4SKsB1RFkBb66) | [Songs for the Drunk and Broken Hearted](https://open.spotify.com/album/6OGJr5I1SVTn9cla4JPiO1) | 3:21 |
+| 35 | [Weekend](https://open.spotify.com/track/2TEZu0Rk7Rr6aEARBCMmhj) | [Sumbuck](https://open.spotify.com/artist/6T4OrfxxOTkAUKAe2gg9fZ), [Savannah Conley](https://open.spotify.com/artist/4iyGL0YdGnDUVbmuca9e2G) | [Weekend](https://open.spotify.com/album/7CfX9MI3qgRHch1OgWL6mz) | 2:27 |
+| 36 | [Stella](https://open.spotify.com/track/0xMap5BgUlVMGJLa1d7x5P) | [Cereus Bright](https://open.spotify.com/artist/3zt4I5TLIb0Z9RigaiHe5G) | [Happier Than Me](https://open.spotify.com/album/37Zn2PTvO7PWLyI9oAAghf) | 2:52 |
+| 37 | [A Trick of the Light](https://open.spotify.com/track/1rCPg5GOtes0FIo1BzgvUi) | [Villagers](https://open.spotify.com/artist/2m1l9MLSslzup4vvokKgvQ) | [The Art Of Pretending To Swim](https://open.spotify.com/album/5qhqqenkgCAp3mCKczvvNU) | 4:08 |
 | 38 | [Thirteen Sad Farewells](https://open.spotify.com/track/4hcEsAXv3vAcUsRT4Tgd1H) | [Stu Larsen](https://open.spotify.com/artist/44M8i4BCwuBbmcQWwMaOfH) | [Vagabond](https://open.spotify.com/album/3uphRkVItHVdeK9EVStwiM) | 2:45 |
 | 39 | [Shake](https://open.spotify.com/track/7CtViMh5EgoE8krmPPuOhi) | [The Head And The Heart](https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg) | [Let's Be Still](https://open.spotify.com/album/6KE9bPdNZqkYvXebow0i42) | 4:01 |
 | 40 | [Amadeus](https://open.spotify.com/track/4F9jpNQDKRFoyM4Ebpni6S) | [Family and Friends](https://open.spotify.com/artist/2AmW5LU0vqfHoN2qvghRFe) | [XOXO](https://open.spotify.com/album/1SX20zgyjlyqjHSzOTmqxf) | 3:27 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Q5wA1hY6bS.md) - [plain]
 | 45 | [As We Ran](https://open.spotify.com/track/2VDKSRDTpqWgczc33Lk9h5) | [The National Parks](https://open.spotify.com/artist/2JMtxA2S9SNUlqBlkDtXm6) | [As We Ran](https://open.spotify.com/album/5n3pUUjhGl3ZrKiQeBB7qi) | 3:20 |
 | 46 | [Celeste](https://open.spotify.com/track/23cj0rlc0UtTBaCg60VCkm) | [Ezra Vine](https://open.spotify.com/artist/2gJqa0PdfSuLpoQlWAIAzn) | [Celeste EP](https://open.spotify.com/album/3W0K6QezWMLCYcZlJitqHt) | 3:23 |
 | 47 | [Lemon Tree](https://open.spotify.com/track/0SnCZci0wyVj0RZXknNaWq) | [Mt\. Joy](https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI) | [Lemon Tree](https://open.spotify.com/album/4ibM2rJfsOdr0d72AlOI2G) | 4:08 |
-| 48 | [Grow into Love](https://open.spotify.com/track/52AthVA2opex8NcLSwtO8n) | [Half Moon Run](https://open.spotify.com/artist/3ceQN2NVlLg1hgTzljDE4n) | [Seasons of Change](https://open.spotify.com/album/74fRgN21qhhAQv43mbCJFq) | 2:42 |
-| 49 | [I Keep Ticking On](https://open.spotify.com/track/1Etp6DlUsn2P5im8f7J9HP) | [The Harmaleighs](https://open.spotify.com/artist/0JpiOyzO3e8FYCsDe8EaUN) | [Pretty Picture, Dirty Brush](https://open.spotify.com/album/6gRMw9HleQT2CGc7gIPPdj) | 2:36 |
+| 48 | [I Keep Ticking On](https://open.spotify.com/track/1Etp6DlUsn2P5im8f7J9HP) | [The Harmaleighs](https://open.spotify.com/artist/0JpiOyzO3e8FYCsDe8EaUN) | [Pretty Picture, Dirty Brush](https://open.spotify.com/album/6gRMw9HleQT2CGc7gIPPdj) | 2:36 |
+| 49 | [Grow into Love](https://open.spotify.com/track/52AthVA2opex8NcLSwtO8n) | [Half Moon Run](https://open.spotify.com/artist/3ceQN2NVlLg1hgTzljDE4n) | [Seasons of Change](https://open.spotify.com/album/74fRgN21qhhAQv43mbCJFq) | 2:42 |
 | 50 | [Horse to Water](https://open.spotify.com/track/0szmjOw9XbtbQYWz0GvXSp) | [Tall Heights](https://open.spotify.com/artist/1OVaGC0CDZaxjcPxclSNmp) | [Neptune](https://open.spotify.com/album/2PaNkZV2WVwOMoRWR7V9cS) | 4:04 |
 | 51 | [People Need A Melody](https://open.spotify.com/track/5tlu2nA8GxkDx8UTKG1rLV) | [The Head And The Heart](https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg) | [Living Mirage](https://open.spotify.com/album/27LNgTSAGxE2fitrsCukmT) | 4:12 |
 | 52 | [Strong Enough](https://open.spotify.com/track/1M1xjg2N1i5EKosEPtx2T7) | [Ray LaMontagne](https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj) | [MONOVISION](https://open.spotify.com/album/4yzBq7tSsGjnQS0GPmbWcE) | 3:34 |
@@ -105,8 +105,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Q5wA1hY6bS.md) - [plain]
 | 95 | [Ebb and Flow](https://open.spotify.com/track/699xuBhcbpIoXHzMRQbI8j) | [The Dead Tongues](https://open.spotify.com/artist/5nM5pj6cEIkzCkwBJZibHK) | [Unsung Passage](https://open.spotify.com/album/6M0S7WdKAWPcXU3lrEpEJW) | 3:17 |
 | 96 | [Hand Over My Heart](https://open.spotify.com/track/0aZWB3kDIqotHPJcUZZkvC) | [The Secret Sisters](https://open.spotify.com/artist/5fIZHCg2de8322HZodBDWL) | [Saturn Return](https://open.spotify.com/album/3grv66GSazERZLzTlS8LrA) | 4:17 |
 | 97 | [Love All Night \(Work All Day\)](https://open.spotify.com/track/5hU65O4zB6ZadLcFWApNf8) | [Yola](https://open.spotify.com/artist/2gqMBdyddvN82dzZt4ZF14) | [Walk Through Fire \(Deluxe Edition\)](https://open.spotify.com/album/0XOpyZAAkGomyeXBSQcFiL) | 3:33 |
-| 98 | [Peach Fuzz](https://open.spotify.com/track/2UFtUjo3UebrpxbAFvSdRz) | [Caamp](https://open.spotify.com/artist/0wyMPXGfOuQzNR54ujR9Ix) | [Peach Fuzz](https://open.spotify.com/album/3SBXtpxz4noPeQg4MqD7RP) | 3:44 |
-| 99 | [Boardwalks \- Sonny Alven Remix](https://open.spotify.com/track/5z16txnOAgiPxxV2Qb8YlO) | [Little May](https://open.spotify.com/artist/0TjAAwE04BeoSeOpJIakYH), [Sonny Alven](https://open.spotify.com/artist/2zHHEU3t9cutZFyG0fHdOR) | [Boardwalks \(Sonny Alven Remix\)](https://open.spotify.com/album/2fkBdOnfmX6XgMyISZIBOY) | 4:24 |
+| 98 | [Boardwalks \- Sonny Alven Remix](https://open.spotify.com/track/5z16txnOAgiPxxV2Qb8YlO) | [Little May](https://open.spotify.com/artist/0TjAAwE04BeoSeOpJIakYH), [Sonny Alven](https://open.spotify.com/artist/2zHHEU3t9cutZFyG0fHdOR) | [Boardwalks \(Sonny Alven Remix\)](https://open.spotify.com/album/2fkBdOnfmX6XgMyISZIBOY) | 4:24 |
+| 99 | [Peach Fuzz](https://open.spotify.com/track/2UFtUjo3UebrpxbAFvSdRz) | [Caamp](https://open.spotify.com/artist/0wyMPXGfOuQzNR54ujR9Ix) | [Peach Fuzz](https://open.spotify.com/album/3SBXtpxz4noPeQg4MqD7RP) | 3:44 |
 | 100 | [Fancy Drones \(Fracture Me\)](https://open.spotify.com/track/1l9LNsjdOQ3Wfkmnsjetxj) | [Amythyst Kiah](https://open.spotify.com/artist/1lhaaKpTyXOnjp79M3xYBl) | [Wary + Strange](https://open.spotify.com/album/75g27i85SR6XYAXKRRfOda) | 3:37 |
 
-Snapshot ID: `MCxkOWY3NTdjZWIyMTFmMmEwMzgwYjRhYjFhYzk0NDI4MTU3Mjc0MDcz`
+Snapshot ID: `MCxjOTU1OTkyYjMyMWI3ZmJlZjcxMTk4NDkxN2VkYzVhZjUzNjNlZWEw`

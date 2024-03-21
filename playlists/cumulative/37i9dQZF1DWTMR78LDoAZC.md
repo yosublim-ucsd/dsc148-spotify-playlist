@@ -4,7 +4,7 @@
 
 > Left of center indie/alternative LGBTQIA+ artists\. Cover: The Japanese House
 
-230 songs - 12 hr 59 min
+231 songs - 13 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -151,7 +151,8 @@
 | [Pegasus \(ft\. Phoebe Bridgers\)](https://open.spotify.com/track/2oZH5jrlSr0sFWoiIymVHh) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Pegasus \(ft\. Phoebe Bridgers\)](https://open.spotify.com/album/0gsw4flnfCrEqGr16ACAoQ) | 3:06 | 2023-06-01 |  |
 | [Phanta](https://open.spotify.com/track/6agThDCDlPNwJL6lvU5iYX) | [Le Tigre](https://open.spotify.com/artist/2n6FviARgtjjimZXu18uRM) | [Le Tigre](https://open.spotify.com/album/5k3SJlcTe5aDF7gDkcBnOL) | 3:14 | 2022-06-01 | 2023-06-02 |
 | [Pick Me](https://open.spotify.com/track/1MDRc141FqtXbIP0UPrdiO) | [Wafia](https://open.spotify.com/artist/0FL2d6iFFNAV3yBUbXjZ1U) | [Pick Me](https://open.spotify.com/album/1RxckMhTl9KU5SqyhsHv58) | 2:58 | 2021-06-22 | 2022-06-01 |
-| [Plastic Envelope](https://open.spotify.com/track/7oud5ro5Y5yKS38JwYdYoy) | [The Drums](https://open.spotify.com/artist/0p5axeJsbtTCXBrRVoKjwu) | [Plastic Envelope / Protect Him Always](https://open.spotify.com/album/7rmLFKfDkqSUmBOAfJUWTa) | 3:17 | 2023-06-01 |  |
+| [Plastic Envelope](https://open.spotify.com/track/3eiVhoqOuP5iSgnCzLvUU1) | [The Drums](https://open.spotify.com/artist/0p5axeJsbtTCXBrRVoKjwu) | [Jonny](https://open.spotify.com/album/2yyDNz8lkP0igqZfZzEgv0) | 3:17 | 2023-06-01 |  |
+| [Plastic Envelope](https://open.spotify.com/track/7oud5ro5Y5yKS38JwYdYoy) | [The Drums](https://open.spotify.com/artist/0p5axeJsbtTCXBrRVoKjwu) | [Plastic Envelope / Protect Him Always](https://open.spotify.com/album/7rmLFKfDkqSUmBOAfJUWTa) | 3:17 | 2023-06-01 | 2024-03-21 |
 | [Power Of Two](https://open.spotify.com/track/4peEqwtnP8CoTZRFkDUqnC) | [Indigo Girls](https://open.spotify.com/artist/4wM29TDTr3HI0qFY3KoSFG) | [Swamp Ophelia](https://open.spotify.com/album/1X0bc0O18Dj5eqh0owcw21) | 5:22 | 2022-06-01 | 2023-06-02 |
 | [Pretty Girl hi!](https://open.spotify.com/track/2Mee0OQcf0X2059JwUd4Vj) | [UMI](https://open.spotify.com/artist/4ClziihVpBeFXNyDH83Lde) | [Pretty Girl hi!](https://open.spotify.com/album/0MUA9dXULszXctZbOqYCUV) | 1:52 | 2021-06-22 | 2023-06-02 |
 | [Pretty Girl Lie](https://open.spotify.com/track/0dY5UKCKuwW3s2aotWZjhj) | [Baby Queen](https://open.spotify.com/artist/4VqlewwKZJoIcA88PYHUDd) | [Pretty Girl Lie](https://open.spotify.com/album/2VwUdcAzTC6u26foSS1eiC) | 3:38 | 2021-06-22 | 2022-06-01 |

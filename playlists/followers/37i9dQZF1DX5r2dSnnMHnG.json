@@ -1,5 +1,5 @@
 {
-  "2024-03-20": 6187,
+  "2024-03-21": 6197,
   "date_first_scraped": "2022-05-30",
   "description": "\ubc9a\uaf43\uc774 \ud769\ub0a0\ub9ac\uace0 \uc0c8\uc2f9\uc774 \ud53c\uc5b4\uc624\ub974\ub294 \ubd04\uc758 \uc124\ub808\uc784\uc744 \ub9cc\ub07d\ud558\uc138\uc694.",
   "name": "\ubd04\uac19\uc740 \uc124\ub808\uc784",
@@ -2020,6 +2020,24 @@
     },
     {
       "album": {
+        "name": "Spring",
+        "url": "https://open.spotify.com/album/1wGIkXzSpJd7VfoGJBkVbs"
+      },
+      "artists": [
+        {
+          "name": "Joob A",
+          "url": "https://open.spotify.com/artist/4fiMU9JbjPoMn7PVtYPRWP"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173880,
+      "name": "Spring",
+      "url": "https://open.spotify.com/track/2jqFUiYryAqZRbCNA5D1oM"
+    },
+    {
+      "album": {
         "name": "Song of spring",
         "url": "https://open.spotify.com/album/6wSoAwQbrwKlOn4yroa1CP"
       },
@@ -2884,6 +2902,24 @@
     },
     {
       "album": {
+        "name": "What The Spring??",
+        "url": "https://open.spotify.com/album/44HJerzPLHbGr8G2eC1bIv"
+      },
+      "artists": [
+        {
+          "name": "10CM",
+          "url": "https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp"
+        }
+      ],
+      "date_added": "2022-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205751,
+      "name": "What The Spring??",
+      "url": "https://open.spotify.com/track/1fr9b1MIyas7cpt1QY3h9d"
+    },
+    {
+      "album": {
         "name": "When I'm With You",
         "url": "https://open.spotify.com/album/08tAEJdZVHvS1I9RzZZaxp"
       },
@@ -3131,42 +3167,6 @@
       "duration_ms": 224240,
       "name": "\ub450\uadfc\uac70\ub824 (Beautiful)",
       "url": "https://open.spotify.com/track/7rxnGhTlqU3FRUzd8F4R3d"
-    },
-    {
-      "album": {
-        "name": "\ubd04 Spring",
-        "url": "https://open.spotify.com/album/1wGIkXzSpJd7VfoGJBkVbs"
-      },
-      "artists": [
-        {
-          "name": "Joob A",
-          "url": "https://open.spotify.com/artist/4fiMU9JbjPoMn7PVtYPRWP"
-        }
-      ],
-      "date_added": "2022-06-09",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 173880,
-      "name": "\ubd04 Spring",
-      "url": "https://open.spotify.com/track/2jqFUiYryAqZRbCNA5D1oM"
-    },
-    {
-      "album": {
-        "name": "3.2 What The Spring??",
-        "url": "https://open.spotify.com/album/44HJerzPLHbGr8G2eC1bIv"
-      },
-      "artists": [
-        {
-          "name": "10CM",
-          "url": "https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp"
-        }
-      ],
-      "date_added": "2022-09-05",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 205751,
-      "name": "\ubd04\uc774 \uc88b\ub0d0?? What The Spring??",
-      "url": "https://open.spotify.com/track/1fr9b1MIyas7cpt1QY3h9d"
     },
     {
       "album": {

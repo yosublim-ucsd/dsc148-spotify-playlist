@@ -4,7 +4,7 @@
 
 > Maren Morris is taking over to celebrate Women's History Month on EQUAL US!
 
-1,293 songs - 2 day 20 hr 59 min
+1,295 songs - 2 day 21 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -92,7 +92,8 @@
 | [Astrovan](https://open.spotify.com/track/6dzv7MDq3nNNFNn1d2pyDa) | [Anna Tivel](https://open.spotify.com/artist/112l2WmZaTlJcl13f4iFAs) | [Outsiders](https://open.spotify.com/album/6ppiuzhxXpSTw1LDNDG5Nc) | 4:13 | 2023-02-01 | 2023-03-02 |
 | [At Your Best \(You Are Love\) \- Spotify Singles](https://open.spotify.com/track/5OFoInHe162W9I97oVDzY8) | [Alex Isley](https://open.spotify.com/artist/7E2ioKxoxI2J94tUkIx6As) | [At Your Best \(You Are Love\) \- Spotify Singles](https://open.spotify.com/album/5hRR7gwAw1b7XbJ3HCZHIn) | 5:17 | 2022-01-05 | 2022-02-03 |
 | [Attention](https://open.spotify.com/track/11xC6P3iKYpFThT6Ce1KdG) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Attention](https://open.spotify.com/album/38xgBOLAcKoYWMSXWUDH1E) | 4:37 | 2023-07-05 | 2024-01-27 |
-| [Austin](https://open.spotify.com/track/4NJqhmkGN042BrvHoMKUrJ) | [Dasha](https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I) | [Austin](https://open.spotify.com/album/4JtlZzYJEa7bejLF0ASnk0) | 2:51 | 2024-03-01 |  |
+| [Austin](https://open.spotify.com/track/4NJqhmkGN042BrvHoMKUrJ) | [Dasha](https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I) | [Austin](https://open.spotify.com/album/4JtlZzYJEa7bejLF0ASnk0) | 2:51 | 2024-03-01 | 2024-03-21 |
+| [Austin](https://open.spotify.com/track/6b81dy3WjbozXK6b7C1gu5) | [Dasha](https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I) | [What Happens Now?](https://open.spotify.com/album/0rQRrrZPPv6XXsxilJ1wFz) | 2:51 | 2024-03-14 |  |
 | [Awkward](https://open.spotify.com/track/2xZ0zfuDTv5LxLhEgD82PG) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Ctrl \(Deluxe\)](https://open.spotify.com/album/6FKP2O0oOvZlDkF0gyTjiJ) | 2:58 | 2022-10-05 | 2022-11-03 |
 | [Aye Aye](https://open.spotify.com/track/3ZnHoSCItVMbFU8FhdjS7B) | [BLOND:ISH](https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR), [Cameron Jack](https://open.spotify.com/artist/3ZziXomLvLKvBpTDzxcypH) | [Aye Aye](https://open.spotify.com/album/5RK1I6kgXh0Hkkl034kltc) | 4:00 | 2022-09-07 | 2022-10-06 |
 | [BABYDOLL \(Speed\)](https://open.spotify.com/track/5K3SJuYEkvvrLbzOjPyRi1) | [Ari Abdul](https://open.spotify.com/artist/25jJ6vyXwTRa0e6XCcdR6U) | [BABYDOLL \(Speed\)](https://open.spotify.com/album/0qMwROWsV0fT5hBqkH1per) | 2:36 | 2022-04-19 | 2022-05-05 |
@@ -1150,7 +1151,8 @@
 | [Told Ya](https://open.spotify.com/track/0yMAkO3xc2KwtVcFYQITcy) | [Chlöe](https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR), [Missy Elliott](https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk) | [In Pieces](https://open.spotify.com/album/57eOzR6RxyfJLC3ggBQfRI) | 3:24 | 2023-04-05 | 2023-05-04 |
 | [Tomorrow 2 \(with Cardi B\)](https://open.spotify.com/track/7KXVIAuw3m2hxZanrpSXS3) | [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG), [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Tomorrow 2 \(with Cardi B\)](https://open.spotify.com/album/5o1xUBd8aM7qFhjlBXiIpb) | 3:29 | 2022-11-02 | 2022-12-01 |
 | [Too Close / Too Late](https://open.spotify.com/track/4hvCxgioUiT85MCgfIhDP3) | [Spiritbox](https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW) | [The Fear of Fear](https://open.spotify.com/album/3UCGVgftlIKV8uOB92cqkk) | 4:41 | 2024-01-26 | 2024-03-02 |
-| [Too Good to be True](https://open.spotify.com/track/4vIiVs5JoNfqqRi5o7jAIb) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Too Good to be True](https://open.spotify.com/album/57y7NpfTINlnrNitu8vwft) | 2:40 | 2024-03-01 |  |
+| [Too Good to be True](https://open.spotify.com/track/27RDQ0TfxzWMlQFuKrPT11) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Deeper Well](https://open.spotify.com/album/5SxZmGwc4eJuPp6PcO4JgJ) | 2:40 | 2024-03-14 |  |
+| [Too Good to be True](https://open.spotify.com/track/4vIiVs5JoNfqqRi5o7jAIb) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Too Good to be True](https://open.spotify.com/album/57y7NpfTINlnrNitu8vwft) | 2:40 | 2024-03-01 | 2024-03-21 |
 | [TOO LITTLE TOO LATE](https://open.spotify.com/track/0MwSfAZoYz6xNDwsRovPkr) | [LUNA AURA](https://open.spotify.com/artist/18UrIT17pqz5fG7J85iwSh) | [TOO LITTLE TOO LATE](https://open.spotify.com/album/2sDEfTzMHcVjVnB9RGXMUw) | 2:30 | 2021-12-01 | 2022-01-06 |
 | [Top Dog](https://open.spotify.com/track/2hGchv7KYaINz9Z1qzufNm) | [Magdalena Bay](https://open.spotify.com/artist/1oPRcJUkloHaRLYx0olBLJ) | [mini mix vol\. 3](https://open.spotify.com/album/09FqVvj8EwzFjYQhiT1LUM) | 2:17 | 2023-05-03 | 2023-06-08 |
 | [touch tank](https://open.spotify.com/track/1S3ZeV4CEdqbzBYwu0pxE7) | [quinnie](https://open.spotify.com/artist/4aEuFytRb43SAgjchJDk5e) | [touch tank](https://open.spotify.com/album/4XsixtHgUzRfUd9zrhX5eh) | 2:59 | 2022-11-30 | 2023-01-05 |

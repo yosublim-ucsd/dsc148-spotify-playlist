@@ -4,7 +4,7 @@
 
 > 日本の女性アーティストの歌を特集。cover: 鈴木愛理
 
-2,295 songs - 6 day 3 hr 51 min
+2,297 songs - 6 day 4 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -551,7 +551,8 @@
 | [INITIATION](https://open.spotify.com/track/5wzSHUwSxNHXWrQCOvs6xo) | [Arche](https://open.spotify.com/artist/3jDlhNVDWv8mLSdTekLgZI) | [INITIATION](https://open.spotify.com/album/1NjRAk9pB0q4rZWEkWOZS6) | 3:09 | 2023-02-21 | 2023-03-01 |
 | [Inner Child](https://open.spotify.com/track/10JesZvJINLb1xwmklMTgy) | [Maika Loubté](https://open.spotify.com/artist/0wMkBz97F3SE4yNz0y2OOz) | [Inner Child](https://open.spotify.com/album/09payJ3X6HTXAWgacnzDT1) | 4:18 | 2023-08-01 | 2023-08-16 |
 | [Inner Dawn](https://open.spotify.com/track/3Xfdon5FixW4PRlAqx5heR) | [YUP YUP](https://open.spotify.com/artist/7p8umPyCh6ymaJCphOxbLE) | [Inner Dawn](https://open.spotify.com/album/0pJmPMF68RYWRsw36g7KLa) | 3:34 | 2022-07-14 | 2022-07-20 |
-| [Inner Voice](https://open.spotify.com/track/3I79tvxIA7ujjHPWTSJChO) | [S.O.H.B](https://open.spotify.com/artist/5NS5sPLW7SVGYC9IU7QAMe) | [Inner Voice](https://open.spotify.com/album/1CBzcLkVMXyisWfRDVUc2e) | 3:33 | 2024-03-19 |  |
+| [Inner Voice](https://open.spotify.com/track/17DKGZrorsU5DVhj82TlWJ) | [S.O.H.B](https://open.spotify.com/artist/5NS5sPLW7SVGYC9IU7QAMe) | [Inner Voice](https://open.spotify.com/album/6awfKOxXzL2jFJoYOmGHHd) | 3:33 | 2024-03-19 |  |
+| [Inner Voice](https://open.spotify.com/track/3I79tvxIA7ujjHPWTSJChO) | [S.O.H.B](https://open.spotify.com/artist/5NS5sPLW7SVGYC9IU7QAMe) | [Inner Voice](https://open.spotify.com/album/1CBzcLkVMXyisWfRDVUc2e) | 3:33 | 2024-03-19 | 2024-03-21 |
 | [Innocent Prisoner](https://open.spotify.com/track/3Gs85wo5AHz5y5PC9EwWgM) | [Kaoru Tominaga](https://open.spotify.com/artist/7h8VFlFvY1tPKovx1mKTGE) | [Innocent Prisoner](https://open.spotify.com/album/1qbhu1nB8o0fSei5sgJ95C) | 3:46 | 2022-06-07 | 2022-06-14 |
 | [Inori](https://open.spotify.com/track/45RVt1QEw92zIv7pFwYJ7j) | [Ai Higuchi](https://open.spotify.com/artist/0KZzmjrOQumJVVnoGRbXCu) | [Inori](https://open.spotify.com/album/4owR8s4kYTyqTM995UaXOf) | 3:35 | 2023-04-18 | 2023-06-21 |
 | [Inori Dake Ga Aru \(déconstructed\)](https://open.spotify.com/track/199dDPGhId0gplcl7Q674g) | [HARU NEMURI](https://open.spotify.com/artist/3cn7Ujrlj3rdyuqmOYhBJT) | [Inori Dake Ga Aru \(déconstructed\)](https://open.spotify.com/album/7JHoUlbzIjUq9eGvldUBe3) | 4:50 | 2022-11-10 | 2022-11-16 |
@@ -1351,6 +1352,7 @@
 | [Yume wa Sametemo](https://open.spotify.com/track/2rqgyouAVrWeRjGvFKnqLm) | [TOMOO](https://open.spotify.com/artist/6rm1uaZjykvKCobTzRPs35) | [Yume wa Sametemo](https://open.spotify.com/album/6Ohpoh84DNmZLaW6aTGuhP) | 3:41 | 2023-04-04 | 2023-09-30 |
 | [Yume wa Sametemo](https://open.spotify.com/track/2YIISGXzK1r2SaY7Hr0GYW) | [TOMOO](https://open.spotify.com/artist/6rm1uaZjykvKCobTzRPs35) | [Two Moon](https://open.spotify.com/album/4nyNnOXb8GtIei89Y88HWa) | 3:42 | 2023-09-28 | 2023-10-11 |
 | [Yumemirudakenara](https://open.spotify.com/track/4E0sHNrQxoP7LHBMdGCToR) | [フジタ カコ](https://open.spotify.com/artist/7zickYqNm26rlWgRWS7wtg) | [Yumemirudakenara](https://open.spotify.com/album/0KpYB0bKXN0YQXdxnfAOxB) | 3:32 | 2023-05-09 | 2023-05-17 |
+| [Yutori](https://open.spotify.com/track/1ND2hHk3Bj9p2lor1XFbfi) | [Kayoko Yoshizawa](https://open.spotify.com/artist/7tBabqiwVyDG4VNrijrhE0) | [Rikka](https://open.spotify.com/album/5Z6IpQ3YYZLEGGhuveWqh2) | 5:00 | 2024-03-19 |  |
 | [Y☺u & I](https://open.spotify.com/track/657ejjdXyOZakkC1S1cgKV) | [Mai Kuraki](https://open.spotify.com/artist/4x3GOic9xXFOoOBrEMuvN9) | [Y☺u & I](https://open.spotify.com/album/6rTLAKWlNYHIDTdJW7lgdO) | 3:29 | 2023-12-21 | 2023-12-27 |
 | [Y字路](https://open.spotify.com/track/1Bdco5s8iglJYo0zHFVcMF) | [ナカムラマユ](https://open.spotify.com/artist/0SEwHBIuSqJzE4b8OrOlKz) | [Y字路](https://open.spotify.com/album/29qj5rbigArk4Z6jdj5PiN) | 3:49 | 2022-06-21 | 2022-06-29 |
 | [zoo](https://open.spotify.com/track/1lWajrL6NoG6ZDEtdWdhBN) | [Kei Sugawara](https://open.spotify.com/artist/7xlTOxmnztZVNgoPlMV6YS) | [zoo](https://open.spotify.com/album/5B5PoyeYH7Tep7UFdKik1a) | 2:39 | 2023-12-05 | 2024-01-09 |
@@ -1508,7 +1510,7 @@
 | [やさしいキスをして（feat.JiLL\-Decoy association\)](https://open.spotify.com/track/5QJXjK1ge5Tb7lV3u5rc0d) | [JDs](https://open.spotify.com/artist/3UnNWmqsxvHKssjtCzq9Ne), [JiLL\-Decoy association](https://open.spotify.com/artist/4j0lMBCAWtaFqEboLZp8Xe) | [00's J\-pop Jazz Cover vol.1](https://open.spotify.com/album/3QX4f8vgWxo1EDyFEj1LmX) | 4:10 | 2023-10-19 | 2023-10-25 |
 | [やさしい怪物 feat\. 泣き虫](https://open.spotify.com/track/57RVe3PQDsOZHAIzVmwB3G) | [黒子首](https://open.spotify.com/artist/56pKIRNnzK6xCW508ohOo3), [Nakimushi](https://open.spotify.com/artist/2zv25U5N7QyNcn8I9kzZVn) | [やさしい怪物 feat\. 泣き虫](https://open.spotify.com/album/3vggBvyxFXRR6xCnkRxmRR) | 3:05 | 2022-05-29 | 2022-08-11 |
 | [やめるなら今](https://open.spotify.com/track/1jKDdlEu3xQoNm6dZ8eX3O) | [Higuchi Ai](https://open.spotify.com/artist/4GxWcui9BlMJH9VOOK5wav) | [やめるなら今](https://open.spotify.com/album/4yPch6BRH8JItqLLixuUk7) | 4:48 | 2022-05-31 | 2022-07-14 |
-| [ゆとり](https://open.spotify.com/track/5CtJTb1bCPosQ71tHumoWt) | [Kayoko Yoshizawa](https://open.spotify.com/artist/7tBabqiwVyDG4VNrijrhE0) | [六花](https://open.spotify.com/album/474FUwICSQNdsbRN0hr9GM) | 5:00 | 2024-03-19 |  |
+| [ゆとり](https://open.spotify.com/track/5CtJTb1bCPosQ71tHumoWt) | [Kayoko Yoshizawa](https://open.spotify.com/artist/7tBabqiwVyDG4VNrijrhE0) | [六花](https://open.spotify.com/album/474FUwICSQNdsbRN0hr9GM) | 5:00 | 2024-03-19 | 2024-03-21 |
 | [ゆびきりげんまん](https://open.spotify.com/track/6H3vayURW6eFc8S2PR29qz) | [Koresawa](https://open.spotify.com/artist/6sX1XKgDIiAcVZof0SgWUe) | [ゆびきりげんまん](https://open.spotify.com/album/7d7Ia3PzUgAb9x54OeGrcF) | 3:03 | 2022-06-07 | 2022-07-28 |
 | [ゆらぎ](https://open.spotify.com/track/5AbIvNLDrz3zA82dVhngQ3) | [Yuga](https://open.spotify.com/artist/2QPqMxppznwSxghh3R8WrT) | [言葉のない夜に](https://open.spotify.com/album/5u8OhRFA6M1eUi9497iQnj) | 2:56 | 2022-05-31 | 2022-07-14 |
 | [ゆるり](https://open.spotify.com/track/1FU9vclbtQZGm5kkykkYUY) | [果歩](https://open.spotify.com/artist/3eFJ5DLTrkKw1kpb8gz2TS) | [ゆるり](https://open.spotify.com/album/08o1s4irye1tK3zvFkElZE) | 3:37 | 2023-10-10 | 2023-10-18 |

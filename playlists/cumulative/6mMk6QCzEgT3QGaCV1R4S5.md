@@ -2,7 +2,7 @@
 
 ### [Dancefloor Beats](https://open.spotify.com/playlist/6mMk6QCzEgT3QGaCV1R4S5)
 
-> Get moving on the dancefloor with some big room beats! Cover: Frank Walker &amp; Nate Smith
+> Get moving on the dancefloor with some big room beats! Cover: Young Bombs
 
 90 songs - 4 hr 27 min
 

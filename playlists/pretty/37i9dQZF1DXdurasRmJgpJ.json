@@ -1,12 +1,12 @@
 {
   "description": "2019\u5e74\u306b\u5e55\u3092\u958b\u3051\u305f\u4ee4\u548c\u3002\u30b9\u30c8\u30ea\u30fc\u30df\u30f3\u30b0\u3084\u52d5\u753b\u30b5\u30a4\u30c8\u3067\u306e\u30d0\u30a4\u30e9\u30eb\u304c\u5f71\u97ff\u529b\u3092\u5897\u3057\u3001\u793e\u4f1a\u60c5\u52e2\u3084\u4fa1\u5024\u89b3\u304c\u6fc0\u52d5\u3057\u3066\u3044\u308b\"\u30cb\u30e5\u30fc\u30ce\u30fc\u30de\u30eb\"\u306a\u6642\u4ee3\u306e\u30dd\u30c3\u30d7\u30df\u30e5\u30fc\u30b8\u30c3\u30af\u3002",
-  "num_followers": 284944,
+  "num_followers": 285125,
   "original_name": "\u4ee4\u548c\u30dd\u30c3\u30d7\u30b9",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyZDBiMTEyZWZlYzUxNDQwMDY0ZDJhY2QyODc4MzZiY2U3NWMyNGEw",
+  "snapshot_id": "MCw1NjVlNTExOWNmYzViZGJmODcyYjg3MjIzODA5NjU5OTAzZmEyZTBl",
   "tracks": [
     {
       "added_at": "2024-03-14 15:14:52",
@@ -699,18 +699,18 @@
     {
       "added_at": "2024-03-14 15:14:52",
       "album": {
-        "name": "Kaikai Kitan / Ao No Waltz",
-        "url": "https://open.spotify.com/album/6BZjN6j79mjz7PJfGmvCR1"
+        "name": "I NEVER DIE",
+        "url": "https://open.spotify.com/album/1T2W9vDajFreUuycPDjUXk"
       },
       "artists": [
         {
-          "name": "Eve",
-          "url": "https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf"
+          "name": "(G)I-DLE",
+          "url": "https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx"
         }
       ],
-      "duration_ms": 221426,
-      "name": "Kaikai Kitan",
-      "url": "https://open.spotify.com/track/6y4GYuZszeXNOXuBFsJlos"
+      "duration_ms": 174386,
+      "name": "TOMBOY",
+      "url": "https://open.spotify.com/track/0IGUXY4JbK18bu9oD4mPIm"
     },
     {
       "added_at": "2024-03-14 15:14:52",
@@ -739,18 +739,18 @@
     {
       "added_at": "2024-03-14 15:14:52",
       "album": {
-        "name": "I NEVER DIE",
-        "url": "https://open.spotify.com/album/1T2W9vDajFreUuycPDjUXk"
+        "name": "Kaikai Kitan / Ao No Waltz",
+        "url": "https://open.spotify.com/album/6BZjN6j79mjz7PJfGmvCR1"
       },
       "artists": [
         {
-          "name": "(G)I-DLE",
-          "url": "https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx"
+          "name": "Eve",
+          "url": "https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf"
         }
       ],
-      "duration_ms": 174386,
-      "name": "TOMBOY",
-      "url": "https://open.spotify.com/track/0IGUXY4JbK18bu9oD4mPIm"
+      "duration_ms": 221426,
+      "name": "Kaikai Kitan",
+      "url": "https://open.spotify.com/track/6y4GYuZszeXNOXuBFsJlos"
     },
     {
       "added_at": "2024-03-14 15:14:52",
@@ -851,6 +851,22 @@
     {
       "added_at": "2024-03-14 15:14:52",
       "album": {
+        "name": "BORN PINK",
+        "url": "https://open.spotify.com/album/0kbZ4ZNRs76sSFeGUEErFM"
+      },
+      "artists": [
+        {
+          "name": "BLACKPINK",
+          "url": "https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF"
+        }
+      ],
+      "duration_ms": 186964,
+      "name": "Pink Venom",
+      "url": "https://open.spotify.com/track/5zwwW9Oq7ubSxoCGyW1nbY"
+    },
+    {
+      "added_at": "2024-03-14 15:14:52",
+      "album": {
         "name": "GOAT",
         "url": "https://open.spotify.com/album/7FMZzj19H20lmScSIZvUFO"
       },
@@ -879,22 +895,6 @@
       "duration_ms": 173134,
       "name": "FLOWER",
       "url": "https://open.spotify.com/track/69CrOS7vEHIrhC2ILyEi0s"
-    },
-    {
-      "added_at": "2024-03-14 15:14:52",
-      "album": {
-        "name": "BORN PINK",
-        "url": "https://open.spotify.com/album/0kbZ4ZNRs76sSFeGUEErFM"
-      },
-      "artists": [
-        {
-          "name": "BLACKPINK",
-          "url": "https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF"
-        }
-      ],
-      "duration_ms": 186964,
-      "name": "Pink Venom",
-      "url": "https://open.spotify.com/track/5zwwW9Oq7ubSxoCGyW1nbY"
     },
     {
       "added_at": "2024-03-14 15:14:52",
@@ -1035,6 +1035,22 @@
     {
       "added_at": "2024-03-14 15:14:52",
       "album": {
+        "name": "THE WORLD EP.2 : OUTLAW",
+        "url": "https://open.spotify.com/album/5DxixnuklLg28S7UMeGC9H"
+      },
+      "artists": [
+        {
+          "name": "ATEEZ",
+          "url": "https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L"
+        }
+      ],
+      "duration_ms": 187310,
+      "name": "BOUNCY (K-HOT CHILLI PEPPERS)",
+      "url": "https://open.spotify.com/track/5KyOUICJIvO0z71MBdPGiX"
+    },
+    {
+      "added_at": "2024-03-14 15:14:52",
+      "album": {
         "name": "\u9752\u3068\u590f",
         "url": "https://open.spotify.com/album/5enxwo7c4D5mhXp5f56OLy"
       },
@@ -1051,22 +1067,6 @@
       "duration_ms": 307066,
       "name": "\u70b9\u63cf\u306e\u5504",
       "url": "https://open.spotify.com/track/1sIIlVrnPhrvmTrHtzM7tV"
-    },
-    {
-      "added_at": "2024-03-14 15:14:52",
-      "album": {
-        "name": "THE WORLD EP.2 : OUTLAW",
-        "url": "https://open.spotify.com/album/5DxixnuklLg28S7UMeGC9H"
-      },
-      "artists": [
-        {
-          "name": "ATEEZ",
-          "url": "https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L"
-        }
-      ],
-      "duration_ms": 187310,
-      "name": "BOUNCY (K-HOT CHILLI PEPPERS)",
-      "url": "https://open.spotify.com/track/5KyOUICJIvO0z71MBdPGiX"
     },
     {
       "added_at": "2024-03-14 15:14:52",
@@ -1151,18 +1151,18 @@
     {
       "added_at": "2024-03-14 15:14:52",
       "album": {
-        "name": "CRAZY IN LOVE",
-        "url": "https://open.spotify.com/album/4U7rGOkJgtxs27H9L93Xli"
+        "name": "Beatbox - The 2nd Album Repackage",
+        "url": "https://open.spotify.com/album/4sM1qNxjzxOvoH6jeFHx3W"
       },
       "artists": [
         {
-          "name": "ITZY",
-          "url": "https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3"
+          "name": "NCT DREAM",
+          "url": "https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02"
         }
       ],
-      "duration_ms": 191462,
-      "name": "LOCO",
-      "url": "https://open.spotify.com/track/56Yxkm62GtEpnPyG7TvwLY"
+      "duration_ms": 205133,
+      "name": "Beatbox",
+      "url": "https://open.spotify.com/track/0CatzXH85XWyBqqdB6qPMB"
     },
     {
       "added_at": "2024-03-14 15:14:52",
@@ -1183,6 +1183,22 @@
     {
       "added_at": "2024-03-14 15:14:52",
       "album": {
+        "name": "CRAZY IN LOVE",
+        "url": "https://open.spotify.com/album/4U7rGOkJgtxs27H9L93Xli"
+      },
+      "artists": [
+        {
+          "name": "ITZY",
+          "url": "https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3"
+        }
+      ],
+      "duration_ms": 191462,
+      "name": "LOCO",
+      "url": "https://open.spotify.com/track/56Yxkm62GtEpnPyG7TvwLY"
+    },
+    {
+      "added_at": "2024-03-14 15:14:52",
+      "album": {
         "name": "ZONE",
         "url": "https://open.spotify.com/album/1GIkapvyAw5lwdNw66hI44"
       },
@@ -1195,22 +1211,6 @@
       "duration_ms": 185920,
       "name": "Killin\u2019 Me Good",
       "url": "https://open.spotify.com/track/4Cyf87ul1le0xTWRFBoYd7"
-    },
-    {
-      "added_at": "2024-03-14 15:14:52",
-      "album": {
-        "name": "replica",
-        "url": "https://open.spotify.com/album/4LWbfv8uvEF3oz7YBFxmzn"
-      },
-      "artists": [
-        {
-          "name": "Vaundy",
-          "url": "https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru"
-        }
-      ],
-      "duration_ms": 229328,
-      "name": "\u8e0a\u308a\u5b50",
-      "url": "https://open.spotify.com/track/1YXot2MLAG9sttepCtBRM7"
     },
     {
       "added_at": "2024-03-14 15:14:52",
@@ -1231,6 +1231,22 @@
     {
       "added_at": "2024-03-14 15:14:52",
       "album": {
+        "name": "replica",
+        "url": "https://open.spotify.com/album/4LWbfv8uvEF3oz7YBFxmzn"
+      },
+      "artists": [
+        {
+          "name": "Vaundy",
+          "url": "https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru"
+        }
+      ],
+      "duration_ms": 229328,
+      "name": "\u8e0a\u308a\u5b50",
+      "url": "https://open.spotify.com/track/1YXot2MLAG9sttepCtBRM7"
+    },
+    {
+      "added_at": "2024-03-14 15:14:52",
+      "album": {
         "name": "\u52c7\u8005",
         "url": "https://open.spotify.com/album/6L7pjBfP49dh1WYDmHngOO"
       },
@@ -1243,22 +1259,6 @@
       "duration_ms": 194164,
       "name": "\u52c7\u8005",
       "url": "https://open.spotify.com/track/4LjIQmt1t6NjpM0tpttzjo"
-    },
-    {
-      "added_at": "2024-03-14 15:14:52",
-      "album": {
-        "name": "Beatbox - The 2nd Album Repackage",
-        "url": "https://open.spotify.com/album/4sM1qNxjzxOvoH6jeFHx3W"
-      },
-      "artists": [
-        {
-          "name": "NCT DREAM",
-          "url": "https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02"
-        }
-      ],
-      "duration_ms": 205133,
-      "name": "Beatbox",
-      "url": "https://open.spotify.com/track/0CatzXH85XWyBqqdB6qPMB"
     },
     {
       "added_at": "2024-03-14 15:14:52",
@@ -1583,22 +1583,6 @@
     {
       "added_at": "2024-03-14 15:14:52",
       "album": {
-        "name": "CHESHIRE",
-        "url": "https://open.spotify.com/album/2a1ezg7hE6Dyuymv1aCnkm"
-      },
-      "artists": [
-        {
-          "name": "ITZY",
-          "url": "https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3"
-        }
-      ],
-      "duration_ms": 182453,
-      "name": "Cheshire",
-      "url": "https://open.spotify.com/track/7ixVW7RobslvMrvlzHYLha"
-    },
-    {
-      "added_at": "2024-03-14 15:14:52",
-      "album": {
         "name": "AD MARE",
         "url": "https://open.spotify.com/album/2QbA97qjlAs81t6kVS6zBk"
       },
@@ -1611,6 +1595,22 @@
       "duration_ms": 172936,
       "name": "O.O",
       "url": "https://open.spotify.com/track/44zfpg3ndtGESsgpTbWeyE"
+    },
+    {
+      "added_at": "2024-03-14 15:14:52",
+      "album": {
+        "name": "CHESHIRE",
+        "url": "https://open.spotify.com/album/2a1ezg7hE6Dyuymv1aCnkm"
+      },
+      "artists": [
+        {
+          "name": "ITZY",
+          "url": "https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3"
+        }
+      ],
+      "duration_ms": 182453,
+      "name": "Cheshire",
+      "url": "https://open.spotify.com/track/7ixVW7RobslvMrvlzHYLha"
     },
     {
       "added_at": "2024-03-14 15:14:52",

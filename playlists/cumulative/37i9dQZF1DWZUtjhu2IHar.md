@@ -4,14 +4,15 @@
 
 > Our editor’s picks for best songs from The Locker in 2023\. Cover: NOAHFINNCE
 
-173 songs - 8 hr 27 min
+174 songs - 8 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [2 BEST FRIENDS](https://open.spotify.com/track/0LEs4bUrJXJuNB7j24AB1V) | [Waterparks](https://open.spotify.com/artist/3QaxveoTiMetZCMp1sftiu) | [INTELLECTUAL PROPERTY](https://open.spotify.com/album/6FxkiRw25b3z8CqqFE8pSm) | 2:18 | 2023-11-29 |  |
 | [abcdefu \(angrier\)](https://open.spotify.com/track/1EQFOouqdKYdpbNoOHRVO2) | [GAYLE](https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9) | [abcdefu \(angrier\)](https://open.spotify.com/album/23M1xUF2RoRSvXtpwQP4rJ) | 2:39 | 2022-11-30 | 2023-11-30 |
 | [Again](https://open.spotify.com/track/14gw6qQSrs9pEf8ADJuHo1) | [Casper The Ghost](https://open.spotify.com/artist/2FympPk5bcBe37Sp4VIs4L) | [Again](https://open.spotify.com/album/0dCsvVuNZ9yudIkRsHfSmV) | 2:38 | 2021-12-01 | 2022-12-01 |
-| [Airhead](https://open.spotify.com/track/3Gsn1htwAx5KGY8SRjtIfs) | [Honey Revenge](https://open.spotify.com/artist/1DHMgO3IIYSYPJ6CFyDYnK) | [Retrovision](https://open.spotify.com/album/4IiWkF0yCGFHGudJ98hV7f) | 2:43 | 2023-11-29 |  |
+| [Airhead](https://open.spotify.com/track/3Gsn1htwAx5KGY8SRjtIfs) | [Honey Revenge](https://open.spotify.com/artist/1DHMgO3IIYSYPJ6CFyDYnK) | [Retrovision](https://open.spotify.com/album/4IiWkF0yCGFHGudJ98hV7f) | 2:43 | 2023-11-29 | 2024-03-21 |
+| [Airhead](https://open.spotify.com/track/7juaMHv1j8EAmEVEAlo1iT) | [Honey Revenge](https://open.spotify.com/artist/1DHMgO3IIYSYPJ6CFyDYnK) | [Retrovision](https://open.spotify.com/album/1BOoOLLNUPLQNTuObi2PRh) | 2:43 | 2023-11-29 |  |
 | [All the Things I Hate About You](https://open.spotify.com/track/2HbuhhxdEVbqdaJlLxOCfW) | [Huddy](https://open.spotify.com/artist/3BxsweDMcgp9gNWmG40u6f) | [All the Things I Hate About You](https://open.spotify.com/album/5BHOsQ5SYyLezRwfYN1non) | 3:15 | 2022-11-30 | 2023-11-30 |
 | [Alright](https://open.spotify.com/track/6ZBr8E9XczoqgMRXyXUe6b) | [Charlotte Sands](https://open.spotify.com/artist/2cAXhrWAztXGwk6r15ibW2) | [Alright](https://open.spotify.com/album/2xawjrCCEKSTSxOg6VkPe9) | 3:22 | 2023-11-29 |  |
 | [BABY SAID](https://open.spotify.com/track/2KReCz1L5XkGIBhDncQ5VZ) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [RUSH!](https://open.spotify.com/album/2KUaR4K36tSliwAoUA1gcs) | 2:44 | 2023-11-29 |  |

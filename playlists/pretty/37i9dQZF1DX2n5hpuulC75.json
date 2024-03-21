@@ -1,12 +1,12 @@
 {
   "description": "Chill tunes for mellow moods.",
-  "num_followers": 259402,
+  "num_followers": 259408,
   "original_name": "Mellow Mood",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkYjRhYWIwOGE3MzllM2I3NTlkMjU2ZThhNjkyZTliOGY5ZTNkYWIy",
+  "snapshot_id": "MCw4YTU5YmQ1ZjZhNWRjODZhOGY3MjI0YzY2NzNiNjM0ZjZjMzEyOTFj",
   "tracks": [
     {
       "added_at": "2018-12-11 21:12:31",
@@ -713,22 +713,6 @@
       "url": "https://open.spotify.com/track/4aBSowf9IG9wauVq8tddRz"
     },
     {
-      "added_at": "2018-12-11 21:12:31",
-      "album": {
-        "name": "Cycle",
-        "url": "https://open.spotify.com/album/6CtjNeLtxpPZ2y7vHZMtVS"
-      },
-      "artists": [
-        {
-          "name": "Su Na",
-          "url": "https://open.spotify.com/artist/3GZowazH5ZdOUanJadDd4s"
-        }
-      ],
-      "duration_ms": 188573,
-      "name": "Cycle",
-      "url": "https://open.spotify.com/track/2rbA1YZpRnpCWRIk3oF6wR"
-    },
-    {
       "added_at": "2019-09-16 15:44:25",
       "album": {
         "name": "Baby You Can Free Your Mind",
@@ -747,6 +731,22 @@
     {
       "added_at": "2018-12-11 21:12:31",
       "album": {
+        "name": "Cycle",
+        "url": "https://open.spotify.com/album/6CtjNeLtxpPZ2y7vHZMtVS"
+      },
+      "artists": [
+        {
+          "name": "Su Na",
+          "url": "https://open.spotify.com/artist/3GZowazH5ZdOUanJadDd4s"
+        }
+      ],
+      "duration_ms": 188573,
+      "name": "Cycle",
+      "url": "https://open.spotify.com/track/2rbA1YZpRnpCWRIk3oF6wR"
+    },
+    {
+      "added_at": "2018-12-11 21:12:31",
+      "album": {
         "name": "Island -EP",
         "url": "https://open.spotify.com/album/6iIWUNhbE9TbbLqDyMfh6W"
       },
@@ -759,22 +759,6 @@
       "duration_ms": 185758,
       "name": "Together Alone",
       "url": "https://open.spotify.com/track/2WgDeHNKHm2pjk9ee9eHzB"
-    },
-    {
-      "added_at": "2019-05-24 08:01:00",
-      "album": {
-        "name": "Your Own Truth",
-        "url": "https://open.spotify.com/album/4vwKFcNLE0kUe8tsb7M4I7"
-      },
-      "artists": [
-        {
-          "name": "James Forest",
-          "url": "https://open.spotify.com/artist/6TWuwqkarDY2IXyFaGAQd4"
-        }
-      ],
-      "duration_ms": 293613,
-      "name": "Your Own Truth",
-      "url": "https://open.spotify.com/track/2wfqHxQtKQxHrsscsJRNrM"
     },
     {
       "added_at": "2018-12-11 21:12:31",
@@ -791,6 +775,22 @@
       "duration_ms": 232312,
       "name": "Yellow Dust",
       "url": "https://open.spotify.com/track/01JqaZsSE7IaIdxtI1FSvM"
+    },
+    {
+      "added_at": "2019-05-24 08:01:00",
+      "album": {
+        "name": "Your Own Truth",
+        "url": "https://open.spotify.com/album/4vwKFcNLE0kUe8tsb7M4I7"
+      },
+      "artists": [
+        {
+          "name": "James Forest",
+          "url": "https://open.spotify.com/artist/6TWuwqkarDY2IXyFaGAQd4"
+        }
+      ],
+      "duration_ms": 293613,
+      "name": "Your Own Truth",
+      "url": "https://open.spotify.com/track/2wfqHxQtKQxHrsscsJRNrM"
     },
     {
       "added_at": "2018-12-11 21:12:31",
@@ -849,6 +849,26 @@
       "url": "https://open.spotify.com/track/6gtZgL7jUHYUQa3JvFJT90"
     },
     {
+      "added_at": "2019-05-24 08:01:00",
+      "album": {
+        "name": "Holiday (Kyson Remix)",
+        "url": "https://open.spotify.com/album/47zoz7TyC4OsXUTOSZiMRx"
+      },
+      "artists": [
+        {
+          "name": "Drinker",
+          "url": "https://open.spotify.com/artist/2BfQmbIWtDNKSSHNAEOQur"
+        },
+        {
+          "name": "Kyson",
+          "url": "https://open.spotify.com/artist/1ysHnRqLx1sIFxUlahQftx"
+        }
+      ],
+      "duration_ms": 281727,
+      "name": "Holiday - Kyson Remix",
+      "url": "https://open.spotify.com/track/4k9izZqQMgE5nSGYFXQSHZ"
+    },
+    {
       "added_at": "2018-12-11 21:12:31",
       "album": {
         "name": "Home (feat. LEES)",
@@ -899,26 +919,6 @@
       "duration_ms": 182857,
       "name": "Glow",
       "url": "https://open.spotify.com/track/4B7XzgVjcNfoF8tIKgYhXE"
-    },
-    {
-      "added_at": "2019-05-24 08:01:00",
-      "album": {
-        "name": "Holiday (Kyson Remix)",
-        "url": "https://open.spotify.com/album/47zoz7TyC4OsXUTOSZiMRx"
-      },
-      "artists": [
-        {
-          "name": "Drinker",
-          "url": "https://open.spotify.com/artist/2BfQmbIWtDNKSSHNAEOQur"
-        },
-        {
-          "name": "Kyson",
-          "url": "https://open.spotify.com/artist/1ysHnRqLx1sIFxUlahQftx"
-        }
-      ],
-      "duration_ms": 281727,
-      "name": "Holiday - Kyson Remix",
-      "url": "https://open.spotify.com/track/4k9izZqQMgE5nSGYFXQSHZ"
     },
     {
       "added_at": "2018-12-11 21:12:31",

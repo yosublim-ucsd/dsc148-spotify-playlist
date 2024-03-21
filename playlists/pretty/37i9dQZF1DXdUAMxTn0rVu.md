@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdUAMxTn0rVu.md) - [plain]
 
 > Essential songs from the late '90s, early 2000s underground hip\-hop scene\. Cover: Madvillain
 
-[Spotify](https://open.spotify.com/user/spotify) - 484,401 likes - 50 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 484,737 likes - 50 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdUAMxTn0rVu.md) - [plain]
 | 30 | [Mastermind](https://open.spotify.com/track/0uMn8WKu3qtQLaUyal1bsz) | [Deltron 3030](https://open.spotify.com/artist/2efzHZrUGhawnSOTpyAHOQ), [Del The Funky Homosapien](https://open.spotify.com/artist/0YsLR3SQd5QTXAhGIGX7cl), [Dan The Automator](https://open.spotify.com/artist/4fv5w0LJib9OMbXQegqZ01), [Kid Koala](https://open.spotify.com/artist/2s0438sn0pYL2OuukcFqPN) | [Deltron 3030](https://open.spotify.com/album/04uhhcjGVCHodMgZjXOlye) | 3:34 |
 | 31 | [The Look of Love, Pt\. 1](https://open.spotify.com/track/3gTTDjDha02XJ4xuS2KF0e) | [Slum Village](https://open.spotify.com/artist/1020a42xVklY6c56imNcaa) | [J\-88](https://open.spotify.com/album/50235H1xQYRg7OaeEUc4ta) | 3:38 |
 | 32 | [Forest Whitiker](https://open.spotify.com/track/42uXDKUhyAt5Exe1G5pKWJ) | [Brother Ali](https://open.spotify.com/artist/6CsleyOZtyt16saX8WhzDx) | [Shadows On The Sun](https://open.spotify.com/album/5ol06hytR08p6SokJkQA5K) | 3:00 |
-| 33 | [This Way](https://open.spotify.com/track/1unbLw4cvR8za4YpHFWcN7) | [Dilated Peoples](https://open.spotify.com/artist/56OMwqr8qaLIRH4ZrvvdXq) | [Neighborhood Watch](https://open.spotify.com/album/267Oyc2f4oyawPYto13f2S) | 4:05 |
-| 34 | [Boom \- Explicit Album Version](https://open.spotify.com/track/6k39WGLrbuNYpdcNDjWTJt) | [Royce Da 5'9"](https://open.spotify.com/artist/6DVipHzYsPlIoA0DW8Gmns) | [Rock City](https://open.spotify.com/album/6q26ntqqVMWmBsXqYO6sGT) | 3:53 |
+| 33 | [Boom \- Explicit Album Version](https://open.spotify.com/track/6k39WGLrbuNYpdcNDjWTJt) | [Royce Da 5'9"](https://open.spotify.com/artist/6DVipHzYsPlIoA0DW8Gmns) | [Rock City](https://open.spotify.com/album/6q26ntqqVMWmBsXqYO6sGT) | 3:53 |
+| 34 | [This Way](https://open.spotify.com/track/1unbLw4cvR8za4YpHFWcN7) | [Dilated Peoples](https://open.spotify.com/artist/56OMwqr8qaLIRH4ZrvvdXq) | [Neighborhood Watch](https://open.spotify.com/album/267Oyc2f4oyawPYto13f2S) | 4:05 |
 | 35 | [B\-Boy Document '99](https://open.spotify.com/track/5WF9Ih0si21Anj48dD9FFN) | [The High & Mighty](https://open.spotify.com/artist/4hJpETVqz3jIrAH1WUzGEj), [Mad Skillz](https://open.spotify.com/artist/4FUYJaV3EXmjoyBK7tC6ZF), [Mos Def](https://open.spotify.com/artist/0Mz5XE0kb1GBnbLQm2VbcO) | [Home Field Advantage](https://open.spotify.com/album/05d5zAD9KAdaJf7yQ98jxF) | 3:54 |
 | 36 | [Brown Skin Lady](https://open.spotify.com/track/3Mz4AoWIedMfzCib1LYwMZ) | [Black Star](https://open.spotify.com/artist/67ei8ib6PLT1w3OkhIb4fB) | [Mos Def & Talib Kweli Are Black Star](https://open.spotify.com/album/6GRzmk9UGL7odxprOPop1Q) | 5:46 |
 | 37 | [Workinonit](https://open.spotify.com/track/33T6ABvdB3P2iYOWJnBjsQ) | [J Dilla](https://open.spotify.com/artist/0IVcLMMbm05VIjnzPkGCyp) | [Donuts](https://open.spotify.com/album/5fMlysqhFE0itGn4KezMBW) | 2:57 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdUAMxTn0rVu.md) - [plain]
 | 49 | [Little Brother](https://open.spotify.com/track/5WHsa2d0VhV4Dog4vhIYUH) | [Black Star](https://open.spotify.com/artist/67ei8ib6PLT1w3OkhIb4fB) | [The Hurricane \(Music From And Inspired By The Motion Picture\)](https://open.spotify.com/album/5ozerhrq5BPSXI3xwl9lGs) | 4:01 |
 | 50 | [Never Fallin'](https://open.spotify.com/track/37xInDwVQ0Z01t0a5ETb8z) | [Living Legends](https://open.spotify.com/artist/0E4UA1bttJjSFNgAkLyQuo) | [Classic](https://open.spotify.com/album/04f4Sfsw4vRlH2zATZ4WRt) | 5:22 |
 
-Snapshot ID: `MCxkNmJjNTI0MjE2ODhjZWMxMTFhMjg2ZTdkYTkzMGY1ZDlhMDNlODNl`
+Snapshot ID: `MCxjOWFhYmE5YTlmNDI3NjE0MDE5OGE4MDg2ZDFhZmY0ZmZjNTE5NWNk`

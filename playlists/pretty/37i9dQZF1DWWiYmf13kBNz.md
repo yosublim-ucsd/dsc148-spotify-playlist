@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWiYmf13kBNz.md) - [plain]
 
 > Feels like falling in love in the 50s
 
-[Spotify](https://open.spotify.com/user/spotify) - 138,872 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 138,937 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWiYmf13kBNz.md) - [plain]
 | 47 | [In The Still of the Night](https://open.spotify.com/track/0GVvRmCoiLkhxJvlZy9bLk) | [The Five Satins](https://open.spotify.com/artist/2YP02JRa1JLejrg3XTssJS) | [For Collectors Only](https://open.spotify.com/album/2ITzRNAK93yj5T5I7zB0I6) | 3:07 |
 | 48 | [Cry Me A River](https://open.spotify.com/track/7f6AAixCrVar1ZY7RPHDfM) | [Julie London](https://open.spotify.com/artist/3qUMmh5biaB5hqpF4LqS3m) | [Julie Is Her Name](https://open.spotify.com/album/6hDZjN3iWJ95RIXnxbiG1P) | 2:58 |
 | 49 | [Moonlight Serenade](https://open.spotify.com/track/3ziJFd6JeioC8Xfct0UXpJ) | [Glenn Miller](https://open.spotify.com/artist/2aAHdB5HweT3mFcRzm0swc) | [Ultimate Big Band Collection: Glenn Miller](https://open.spotify.com/album/4dkdsQFiMF2Ok0AczTiVBR) | 3:22 |
-| 50 | [Danke Schoen](https://open.spotify.com/track/3H8Sn0mYsZMPPlMCbebOJ5) | [Wayne Newton](https://open.spotify.com/artist/5NX29TmuYrENlpvz6IgYMJ) | [Danke Schoen](https://open.spotify.com/album/3UGH64Cfac6rQQQvqiDZrT) | 2:35 |
+| 50 | [Misty](https://open.spotify.com/track/1f0Wfl3eLCLKv72SdkpviC) | [Sarah Vaughan](https://open.spotify.com/artist/1bgyxtWjZwA5PQlDsvs9b8) | [Vaughan And Violins](https://open.spotify.com/album/2AF2R3VOH6dSunwgKXdnHl) | 3:02 |
 
-Snapshot ID: `MCw4ZTA0NDE5NjU1MTNlMTRmZjBlNDZlZDQ0YTkyZTgzNzFjNWVkZDhl`
+Snapshot ID: `MCxmM2MxMzg4NjU4ZTk2YmZlODhkYTk4NGIwYjU1YzJiY2MzMjQxYWJh`

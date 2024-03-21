@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVYHdtUb7Wil.md) - [plain]
 
 > Kick back to these chilled out essentials.
 
-[Spotify](https://open.spotify.com/user/spotify) - 529,305 likes - 80 songs - 4 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 529,359 likes - 80 songs - 4 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVYHdtUb7Wil.md) - [plain]
 | 24 | [The Other Side](https://open.spotify.com/track/7hVZJGsh5fxFtwaqgJq1nf) | [Michael Marcagi](https://open.spotify.com/artist/4j96cMcT8GRi11qbvo1cLQ) | [The Other Side](https://open.spotify.com/album/5hJtcqGwi9lmFElCqPRnlS) | 2:44 |
 | 25 | [Andrew](https://open.spotify.com/track/0tjVLOoRskePkqXGyP43Y5) | [Ben Platt](https://open.spotify.com/artist/6qGkLCMQkNGOJ079iEcC5k) | [Andrew](https://open.spotify.com/album/303DcpyTMUuP6Nv4sopaRv) | 4:00 |
 | 26 | [Quiet Hour](https://open.spotify.com/track/7EWeN4imXxSIJo9HfWJXG3) | [Ben Hazlewood](https://open.spotify.com/artist/3DWjEOfsm596u6OdskLe4t) | [Quiet Hour](https://open.spotify.com/album/5doX0j2jQFvwiw3W2DOUoT) | 4:15 |
-| 27 | [Too Good to be True](https://open.spotify.com/track/4vIiVs5JoNfqqRi5o7jAIb) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Too Good to be True](https://open.spotify.com/album/57y7NpfTINlnrNitu8vwft) | 2:40 |
+| 27 | [Too Good to be True](https://open.spotify.com/track/27RDQ0TfxzWMlQFuKrPT11) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Deeper Well](https://open.spotify.com/album/5SxZmGwc4eJuPp6PcO4JgJ) | 2:40 |
 | 28 | [Beautiful Eyes](https://open.spotify.com/track/6kBIuwSSt72PeCSMIYwQw6) | [Amy Shark](https://open.spotify.com/artist/2DORQjKJVYZMx9uu82UGtT) | [Beautiful Eyes](https://open.spotify.com/album/3udwcj1SRGUKxWCgYPanR4) | 2:49 |
 | 29 | [Don't Forget Me](https://open.spotify.com/track/0DFldA3ySuV2dblrOAWq1f) | [Maggie Rogers](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe) | [Don't Forget Me](https://open.spotify.com/album/2bSJsOM3hBoBBF4MaxJKyQ) | 4:25 |
 | 30 | [Nothing to Lose](https://open.spotify.com/track/434io34sIbKCD3KzuoJCg5) | [Hollow Coves](https://open.spotify.com/artist/7IAFAOtc9kTYNTizhLSWM6) | [Nothing to Lose](https://open.spotify.com/album/3MLs9OSTBURXZ87o8ItJSp) | 3:57 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVYHdtUb7Wil.md) - [plain]
 | 79 | [Every Side Of You](https://open.spotify.com/track/731oIHe1EeEyTEwdtY0lRj) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [Every Side Of You](https://open.spotify.com/album/6xLceFaewP4juAD4GjBd45) | 3:24 |
 | 80 | [Love You Anyway](https://open.spotify.com/track/3qXsX3mYSsD1DmAvc3PE3N) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [Love You Anyway](https://open.spotify.com/album/4ettM87GR2TdBLDTTBdfeF) | 3:49 |
 
-Snapshot ID: `MCw1NTY0Yzc0NjUwMjQ0YzM1ZjBjNmUyNGEwMjNlMTAyMTE1ZTRhN2Ux`
+Snapshot ID: `MCxhMzRjZjZmNzk5NDFlNWM2YTU5ZDdkNjE2N2VmOTY2NDZmNjU2M2Uw`

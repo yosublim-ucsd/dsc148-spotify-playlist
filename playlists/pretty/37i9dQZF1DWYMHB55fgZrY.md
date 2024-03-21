@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYMHB55fgZrY.md) - [plain]
 
 > Los próceres de la historia del rock nacional\. El Novio de México en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 531,156 likes - 100 songs - 6 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 531,249 likes - 100 songs - 6 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,9 +42,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYMHB55fgZrY.md) - [plain]
 | 32 | [Monitor](https://open.spotify.com/track/7on4qNO1Iu5EX61mD80Cgv) | [Volován](https://open.spotify.com/artist/0htSEnHjTcKdNapBwIsEaA) | [Monitor](https://open.spotify.com/album/4HTEL3Aof6nEnNLGrnUtdB) | 3:57 |
 | 33 | [Samba Pa Ti](https://open.spotify.com/track/35fC3Wq3slX4OBfyvBVmHm) | [Santana](https://open.spotify.com/artist/6GI52t8N5F02MxU0g5U69P) | [Abraxas](https://open.spotify.com/album/1CHUXwuge9A7L2KiA3vnR6) | 4:44 |
 | 34 | [Poli](https://open.spotify.com/track/5WsHtvVnbfY17VNF93rQ7w) | [Zoé](https://open.spotify.com/artist/6IdtcAwaNVAggwd6sCKgTI) | [Reptilectric](https://open.spotify.com/album/6Tqp8Twmyl9xRhePhKS668) | 3:20 |
-| 35 | [Pobre de Ti](https://open.spotify.com/track/17ASXCVH7zxBHC8P1dThon) | [Tijuana No!](https://open.spotify.com/artist/2mkMNs2mphrkggZ7me38j1) | [Rock En Español \- Lo Mejor De Tijuana No!](https://open.spotify.com/album/53yl7Z1s91Fyq3Y69La68g) | 4:42 |
-| 36 | [Brillas](https://open.spotify.com/track/6OKmGZASRCmiKQKz4hCNrs) | [León Larregui](https://open.spotify.com/artist/4ClsVDy2g7RKSSlvq8cF6d) | [Solstis \- De León Larregui](https://open.spotify.com/album/0UwCZ5d7AFISyHxrpHjbqZ) | 3:44 |
-| 37 | [Cámara De Faltas](https://open.spotify.com/track/6O3D5ai8UmEHwyicBq07pk) | [Enjambre](https://open.spotify.com/artist/1ZdhAl62G6ZlEKqIwUAfZR) | [Enjambre Y Los Huéspedes Del Orbe](https://open.spotify.com/album/2wvZoVfLcQeDdErfx6jHiP) | 3:43 |
+| 35 | [Cámara De Faltas](https://open.spotify.com/track/6O3D5ai8UmEHwyicBq07pk) | [Enjambre](https://open.spotify.com/artist/1ZdhAl62G6ZlEKqIwUAfZR) | [Enjambre Y Los Huéspedes Del Orbe](https://open.spotify.com/album/2wvZoVfLcQeDdErfx6jHiP) | 3:43 |
+| 36 | [Pobre de Ti](https://open.spotify.com/track/17ASXCVH7zxBHC8P1dThon) | [Tijuana No!](https://open.spotify.com/artist/2mkMNs2mphrkggZ7me38j1) | [Rock En Español \- Lo Mejor De Tijuana No!](https://open.spotify.com/album/53yl7Z1s91Fyq3Y69La68g) | 4:42 |
+| 37 | [Brillas](https://open.spotify.com/track/6OKmGZASRCmiKQKz4hCNrs) | [León Larregui](https://open.spotify.com/artist/4ClsVDy2g7RKSSlvq8cF6d) | [Solstis \- De León Larregui](https://open.spotify.com/album/0UwCZ5d7AFISyHxrpHjbqZ) | 3:44 |
 | 38 | [El baile y el salón](https://open.spotify.com/track/63QpuNHIZ8APaK37LkV8Xd) | [Café Tacvba](https://open.spotify.com/artist/09xj0S68Y1OU1vHMCZAIvz) | [Re](https://open.spotify.com/album/7EJ5pXrSqqfybKyfbvlz84) | 5:08 |
 | 39 | [Nubes](https://open.spotify.com/track/7w4ojcH8NJ4LBmJZhSBTcT) | [Caifanes](https://open.spotify.com/artist/1GImnM7WYVp95431ypofy9) | [El Silencio](https://open.spotify.com/album/1WrK98KVZxkTgMD3a9Kpnl) | 4:34 |
 | 40 | [Y Que](https://open.spotify.com/track/5YRhQ7h8w2cMCY2teyjax6) | [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA) | [Inspector](https://open.spotify.com/album/3q5bV5Fq3XEzbW5a0mAfcB) | 3:45 |
@@ -104,9 +104,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYMHB55fgZrY.md) - [plain]
 | 94 | [Maldito](https://open.spotify.com/track/4AuYIbNIESLMG3h5gTLXho) | [Jessy Bulbo](https://open.spotify.com/artist/2icB5yGi569VGjYogZtSvT) | [Saga Mama](https://open.spotify.com/album/7rWjUHoF1VDRseBSYNLWjE) | 2:55 |
 | 95 | [La Flotadera](https://open.spotify.com/track/0ZEsdBqaPVsfdmdn6SR0WJ) | [Hello Seahorse!](https://open.spotify.com/artist/3vKxuOGRkXJWpCZPf01Nj8) | [Arunima](https://open.spotify.com/album/5niZ3fPZnNq0HELNUqmvqT) | 4:25 |
 | 96 | [Botas Negras](https://open.spotify.com/track/33gx6JR9By6ahTupIh2kCT) | [Radio Kaos](https://open.spotify.com/artist/2kS6fJbWluJG8ay4WDRUIc) | [Botas Negras](https://open.spotify.com/album/7bcjqAbck3cO5Pv1dcrVox) | 5:43 |
-| 97 | [Mas \- Remastered](https://open.spotify.com/track/3BoIHWjO48jLcdFby2P8D3) | [Kinky](https://open.spotify.com/artist/4WOIfFwyvx22jM0eg2fpKv) | [Kinky \(Remastered\)](https://open.spotify.com/album/0EuvehvpSxGl1Q3GJ0p6pI) | 4:20 |
-| 98 | [Olvidate De Mí](https://open.spotify.com/track/4mM8PZRIR1tLNrIMTFuIjo) | [San Pascualito Rey](https://open.spotify.com/artist/3y4u1V2WmArOAws2yjRVi6) | [Deshabitado](https://open.spotify.com/album/36TB8UO22yzNsVgGxaQxwh) | 3:43 |
+| 97 | [Olvidate De Mí](https://open.spotify.com/track/4mM8PZRIR1tLNrIMTFuIjo) | [San Pascualito Rey](https://open.spotify.com/artist/3y4u1V2WmArOAws2yjRVi6) | [Deshabitado](https://open.spotify.com/album/36TB8UO22yzNsVgGxaQxwh) | 3:43 |
+| 98 | [Mas \- Remastered](https://open.spotify.com/track/3BoIHWjO48jLcdFby2P8D3) | [Kinky](https://open.spotify.com/artist/4WOIfFwyvx22jM0eg2fpKv) | [Kinky \(Remastered\)](https://open.spotify.com/album/0EuvehvpSxGl1Q3GJ0p6pI) | 4:20 |
 | 99 | [Camila](https://open.spotify.com/track/7kdpwk3Y1LbE592bwtpgwj) | [Fobia](https://open.spotify.com/artist/3SqzxvGCKGJ9PYKXXPwjQS) | [Mundo Feliz](https://open.spotify.com/album/0K1gJZEM3OPo9hnxUDZBW6) | 3:51 |
 | 100 | [Voto Latino](https://open.spotify.com/track/3w8eRp9mjGY48zpmIJ920R) | [Molotov](https://open.spotify.com/artist/27Owkm4TGlMqb0BqaEt3PW) | [Donde Jugaran Las Niñas](https://open.spotify.com/album/7h9NpO38NZFD8vcEHw4lkZ) | 2:58 |
 
-Snapshot ID: `MCw5NThiYjkxMjUxMGQwZTZlOWQ1NzNhNmQxNjE1ZTkyNzM4MjM4YTdl`
+Snapshot ID: `MCxmODNmMGQ4YzY3MDQ1ZGJmYjBkZTEyYWI1NTQ2NjUzMjkyYWFkMDM5`

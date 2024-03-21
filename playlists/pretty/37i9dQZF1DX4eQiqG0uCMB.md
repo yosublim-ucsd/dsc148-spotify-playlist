@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4eQiqG0uCMB.md) - [plain]
 
 > Chill afro music to study with.
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,957 likes - 50 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,987 likes - 50 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,8 +20,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4eQiqG0uCMB.md) - [plain]
 | 10 | [Not An Angel](https://open.spotify.com/track/4hbadZZrbM08KZIQZomWaI) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [Not An Angel](https://open.spotify.com/album/0rWWei7R5XHkr9X4mui55k) | 3:05 |
 | 11 | [i'm a mess](https://open.spotify.com/track/65v99AWZyNz3aRmfrT2I7N) | [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [Boy Alone](https://open.spotify.com/album/5NLjxx8nRy9ooUmgpOvfem) | 2:33 |
 | 12 | [Fever](https://open.spotify.com/track/3GAu2fSg9deV207noxMKl0) | [Soundz](https://open.spotify.com/artist/6xjZjxAxA1nxvIBPbOpAa0), [Fave](https://open.spotify.com/artist/4wAqlYtTaaHELEgyCh9KjG) | [Fever](https://open.spotify.com/album/1YDZJz0EVdKuusZojxdTPL) | 3:06 |
-| 13 | [Jaga Jaga \(with Babyboy AV\)](https://open.spotify.com/track/3qH7uGwlgr7tmoL4ksRhPi) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG), [Babyboy AV](https://open.spotify.com/artist/5p1CMGIDFgalZneW5P1EwX) | [Jaga Jaga \(with Babyboy AV\)](https://open.spotify.com/album/0Fk776T5l13Djn3clViXxp) | 3:46 |
-| 14 | [Toxic Love Story](https://open.spotify.com/track/2y4FCaPrKtYXF7akDEXYRQ) | [Jontae](https://open.spotify.com/artist/3oa7E2NEUzTPobUVRuitV8) | [Toxic Love Story](https://open.spotify.com/album/0dvQXAB64oTEAXWjQRBwaY) | 2:20 |
+| 13 | [Toxic Love Story](https://open.spotify.com/track/2y4FCaPrKtYXF7akDEXYRQ) | [Jontae](https://open.spotify.com/artist/3oa7E2NEUzTPobUVRuitV8) | [Toxic Love Story](https://open.spotify.com/album/0dvQXAB64oTEAXWjQRBwaY) | 2:20 |
+| 14 | [Jaga Jaga \(with Babyboy AV\)](https://open.spotify.com/track/3qH7uGwlgr7tmoL4ksRhPi) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG), [Babyboy AV](https://open.spotify.com/artist/5p1CMGIDFgalZneW5P1EwX) | [Jaga Jaga \(with Babyboy AV\)](https://open.spotify.com/album/0Fk776T5l13Djn3clViXxp) | 3:46 |
 | 15 | [Be Easy](https://open.spotify.com/track/3w2PO4US2zMxFDxEjWT9yB) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh), [brazy](https://open.spotify.com/artist/5qdXUxsjbP0UAig0CtqO5b) | [Be Easy](https://open.spotify.com/album/5colQfMZet7a2Myxiz0XYl) | 2:12 |
 | 16 | [Hide & Seek](https://open.spotify.com/track/7cFPWLFiE60sdgzPsyydUJ) | [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd) | [Hide & Seek](https://open.spotify.com/album/1PTZnwfkh9YQUJLSdBOvFe) | 3:28 |
 | 17 | [Damages](https://open.spotify.com/track/3Xfwu3xtPqmJ4nM4jpBm8O) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [For Broken Ears](https://open.spotify.com/album/2sU8ByeYc5BOBFNDr58CGV) | 2:49 |
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4eQiqG0uCMB.md) - [plain]
 | 22 | [Rising](https://open.spotify.com/track/0RjIsyAX2Cjrhs22Dpfxyn) | [David Docade](https://open.spotify.com/artist/0lFRX34C3tyfJ1XtR1p6MF), [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W) | [Rising](https://open.spotify.com/album/7ilXy7MALlKATu0LlvrKQq) | 3:15 |
 | 23 | [Jolie](https://open.spotify.com/track/7wMYtt3SEquaep8sWCdQqp) | [Khaid](https://open.spotify.com/artist/2mM6BxFQCd6BHzW4W7VhQP) | [Jolie](https://open.spotify.com/album/1KyvLDpjRbcHFKXFEvq0bZ) | 3:29 |
 | 24 | [To Last](https://open.spotify.com/track/10aCY2jJFNYGf9qpiN2LZy) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [To Last](https://open.spotify.com/album/00RMnS3psKLla6O7sYp8mB) | 2:56 |
-| 25 | [SOMETHING](https://open.spotify.com/track/1s2FsIDYlX6nhQ6UXF4V2w) | [Gyakie](https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ) | [SOMETHING](https://open.spotify.com/album/3Qmuuv3vABDE0tTJ1vUO8D) | 3:08 |
-| 26 | [Many Man \- A COLORS SHOW](https://open.spotify.com/track/4nwtkUjULEbhp5VJItUWbV) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [Many Man \- A COLORS SHOW](https://open.spotify.com/album/7j3undJfNrbm3uOboIvpNI) | 3:10 |
+| 25 | [Many Man \- A COLORS SHOW](https://open.spotify.com/track/4nwtkUjULEbhp5VJItUWbV) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [Many Man \- A COLORS SHOW](https://open.spotify.com/album/7j3undJfNrbm3uOboIvpNI) | 3:10 |
+| 26 | [SOMETHING](https://open.spotify.com/track/1s2FsIDYlX6nhQ6UXF4V2w) | [Gyakie](https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ) | [SOMETHING](https://open.spotify.com/album/3Qmuuv3vABDE0tTJ1vUO8D) | 3:08 |
 | 27 | [Common Person](https://open.spotify.com/track/6hyTI3In7vu6fqFRoypcuz) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Love, Damini](https://open.spotify.com/album/6kgDkAupBVRSqbJPUaTJwQ) | 3:30 |
 | 28 | [These Days](https://open.spotify.com/track/42KrZrk0IG0zFPzVkRNqh0) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [These Days](https://open.spotify.com/album/08qRQYikLvDOV16LBxcRTL) | 2:52 |
 | 29 | [Black Car](https://open.spotify.com/track/14mxkRSXKwq5vsx1xPUdau) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [Proof Of Life \(Deluxe\)](https://open.spotify.com/album/30lZLey3bIVaqxlkAnKrg4) | 2:51 |
@@ -46,17 +46,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4eQiqG0uCMB.md) - [plain]
 | 36 | [Water](https://open.spotify.com/track/5mH230vvkLSBJJZIftBttH) | [Chop Daily](https://open.spotify.com/artist/36cvcz2WaGMpYLeFaeWZUG), [Soundz](https://open.spotify.com/artist/6xjZjxAxA1nxvIBPbOpAa0), [Eugy Official](https://open.spotify.com/artist/6BhoGzrwRr9eELLBJ55ldo) | [Water](https://open.spotify.com/album/1BiQOEEHtZyvkY8gpjbxml) | 2:29 |
 | 37 | [In Love](https://open.spotify.com/track/78LJK1nCgnYprkhLK0JriD) | [Ajebo Hustlers](https://open.spotify.com/artist/7oVwzvvrXEC8LbXhaNjTi4), [Fave](https://open.spotify.com/artist/4wAqlYtTaaHELEgyCh9KjG) | [Bad Boy Etiquette 101](https://open.spotify.com/album/4MPDBst1efOusd0rI4jlFp) | 3:20 |
 | 38 | [Steady](https://open.spotify.com/track/6mAdcIFP25eb37HjkzglSh) | [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Made In Lagos: Deluxe Edition](https://open.spotify.com/album/6bCs4XCCkm9cTwlswlu0VD) | 3:23 |
-| 39 | [DKT](https://open.spotify.com/track/48DoYs5rIX1PbsbCBYpYfB) | [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT) | [DKT](https://open.spotify.com/album/3zu38j0czgA5doZyGPnfMd) | 2:18 |
+| 39 | [Folake](https://open.spotify.com/track/611y0fYELYaLtjiMKbxO4N) | [taves](https://open.spotify.com/artist/0wrGpASMlUo7TK5v61ArjA) | [Bodija / Folake](https://open.spotify.com/album/727mYtqwlNLWyE95SaEEzF) | 2:35 |
 | 40 | [Come Over](https://open.spotify.com/track/6iFmLbyDLJxe9TFum9ofug) | [melvitto](https://open.spotify.com/artist/4Xj0nxVO4r7PLEaw7LRiBa), [Gabzy](https://open.spotify.com/artist/2sEUjEtnqBphiYquoNfV62) | [Summers](https://open.spotify.com/album/3DGeD2ap8hARpbFZZpmwVb) | 4:08 |
-| 41 | [Folake](https://open.spotify.com/track/611y0fYELYaLtjiMKbxO4N) | [taves](https://open.spotify.com/artist/0wrGpASMlUo7TK5v61ArjA) | [Bodija / Folake](https://open.spotify.com/album/727mYtqwlNLWyE95SaEEzF) | 2:35 |
+| 41 | [DKT](https://open.spotify.com/track/48DoYs5rIX1PbsbCBYpYfB) | [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT) | [DKT](https://open.spotify.com/album/3zu38j0czgA5doZyGPnfMd) | 2:18 |
 | 42 | [Trumpet](https://open.spotify.com/track/3BwAHuQhZyL4tOkf36DuQv) | [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr), [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [Trumpet](https://open.spotify.com/album/3qNYHdPzFdsGWZqV52859m) | 3:08 |
 | 43 | [WITH YOU](https://open.spotify.com/track/3Q78lDuzWs50Gry1eQA7NX) | [Khaid](https://open.spotify.com/artist/2mM6BxFQCd6BHzW4W7VhQP) | [WITH YOU](https://open.spotify.com/album/2ujmNlnvMQfnWJBBv3TE5u) | 3:12 |
-| 44 | [Want You](https://open.spotify.com/track/0vyg6EqfMiu45hQzFmi0YF) | [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT) | [Want You](https://open.spotify.com/album/7I2CUrd8gtIBHVXXhFbCuX) | 3:25 |
+| 44 | [FYN](https://open.spotify.com/track/0kmVNMFtYuiN3vjyxsyZZS) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS), [AJ Tracey](https://open.spotify.com/artist/4Xi6LSfFqv26XgP9NKN26U) | [Rave & Roses](https://open.spotify.com/album/0xrTH9uvOL1BoFAOR61zTG) | 3:27 |
 | 45 | [For Days](https://open.spotify.com/track/7sSpKoxxtecQry1wxVmpIz) | [Bnxn](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [For Days](https://open.spotify.com/album/0B2ciZrwX6zv2ADSniu4i2) | 2:44 |
-| 46 | [FYN](https://open.spotify.com/track/0kmVNMFtYuiN3vjyxsyZZS) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS), [AJ Tracey](https://open.spotify.com/artist/4Xi6LSfFqv26XgP9NKN26U) | [Rave & Roses](https://open.spotify.com/album/0xrTH9uvOL1BoFAOR61zTG) | 3:27 |
-| 47 | [Airplane Mode](https://open.spotify.com/track/3wrlAsyyrqVoC9fuDWyziG) | [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY) | [APOLLO](https://open.spotify.com/album/6HdrMYu33mRMYPEDB8MbPq) | 2:57 |
+| 46 | [Airplane Mode](https://open.spotify.com/track/3wrlAsyyrqVoC9fuDWyziG) | [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY) | [APOLLO](https://open.spotify.com/album/6HdrMYu33mRMYPEDB8MbPq) | 2:57 |
+| 47 | [Want You](https://open.spotify.com/track/0vyg6EqfMiu45hQzFmi0YF) | [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT) | [Want You](https://open.spotify.com/album/7I2CUrd8gtIBHVXXhFbCuX) | 3:25 |
 | 48 | [MOTO](https://open.spotify.com/track/1b83195i03SMUa1VWto8Z5) | [Lojay](https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL) | [MOTO](https://open.spotify.com/album/3MXt0hRNSIulLZy7x1XpAg) | 2:58 |
 | 49 | [Felony](https://open.spotify.com/track/0Jq7lotJVDHAvNfef6ehcJ) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [Boyfriend](https://open.spotify.com/album/3emQmkPrhepRzfm4eR7D8D) | 2:25 |
-| 50 | [Loyalty](https://open.spotify.com/track/64jt46zpWwImMcxRIj8GVY) | [Ajebo Hustlers](https://open.spotify.com/artist/7oVwzvvrXEC8LbXhaNjTi4) | [Bad Boy Etiquette 101](https://open.spotify.com/album/4MPDBst1efOusd0rI4jlFp) | 2:47 |
+| 50 | [Know You](https://open.spotify.com/track/2ruXXt5eDmdm35hTCnGy0s) | [LADIPOE](https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu), [Simi](https://open.spotify.com/artist/4Ns55iOSe1Im2WU2e1Eym0) | [Know You](https://open.spotify.com/album/7Lx1a9NN4ns7NIEvVCzzWu) | 3:50 |
 
-Snapshot ID: `MCwxZGIwYzNhZTIxZjJkNjc0ZDgzNTU2Yjg1OTMwN2FkOGNkYTc2ZjY5`
+Snapshot ID: `MCwyODQ1ZDM2NWI5NzQ0NTNkMWUxNmFjMjYxNmViMmUxNjEzYjhlMTcw`

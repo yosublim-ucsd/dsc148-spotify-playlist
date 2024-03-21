@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9oh43oAzkyx.md) - [plain]
 
 > Energy tracks to get your beast mode on.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,580,184 likes - 76 songs - 3 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,582,518 likes - 76 songs - 3 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,12 +77,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9oh43oAzkyx.md) - [plain]
 | 67 | [CMON FREESTYLE](https://open.spotify.com/track/7vNwsXLLZIZfJifJxzuqXU) | [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ) | [CMON FREESTYLE](https://open.spotify.com/album/2H8nRvoykSWLqr94sL9IRU) | 2:41 |
 | 68 | [Hanging With Wolves](https://open.spotify.com/track/1a7tOEheXeaSNathZW4Gzk) | [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [Hanging With Wolves](https://open.spotify.com/album/31ItlZnLUC9S5wChTbE8Ew) | 3:25 |
 | 69 | [Bla Bla \(feat\. Fivio Foreign\)](https://open.spotify.com/track/1xHcIJHIHwr2PUyTmFTWTy) | [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR), [Fivio Foreign](https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM) | [222](https://open.spotify.com/album/3KRqTwjYtuR11MnyM3X2xL) | 2:26 |
-| 70 | [Shoot It Myself \(feat\. Future\)](https://open.spotify.com/track/6Md6lyVVoKWcOaSg8u1tDn) | [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [I Never Felt Nun](https://open.spotify.com/album/0A4xJz6OAedAQGriJH7pjn) | 3:07 |
-| 71 | [Straightenin](https://open.spotify.com/track/3X2r2CnHOJeV5YekPTgBnK) | [Migos](https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG) | [Straightenin](https://open.spotify.com/album/7MFj8Fxl8OrEAOyOBSMz51) | 4:15 |
+| 70 | [Straightenin](https://open.spotify.com/track/3X2r2CnHOJeV5YekPTgBnK) | [Migos](https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG) | [Straightenin](https://open.spotify.com/album/7MFj8Fxl8OrEAOyOBSMz51) | 4:15 |
+| 71 | [Shoot It Myself \(feat\. Future\)](https://open.spotify.com/track/6Md6lyVVoKWcOaSg8u1tDn) | [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [I Never Felt Nun](https://open.spotify.com/album/0A4xJz6OAedAQGriJH7pjn) | 3:07 |
 | 72 | [Wow\. \- Remix](https://open.spotify.com/track/0fcq51a3gOI6gPvzc0YLsk) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60), [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB), [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) | [Wow\. \(Remix\)](https://open.spotify.com/album/1Id3Zj9GMvi7dPj3u6cMNs) | 2:50 |
 | 73 | [See Wat I’m Sayin](https://open.spotify.com/track/30vAfL9Wyu2fu07vdbZ1Xt) | [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f), [CMG The Label](https://open.spotify.com/artist/3rO1KMi81CCLjSjkImNtrA) | [See Wat I’m Sayin](https://open.spotify.com/album/3busrWaOS06nIDLDdIro3R) | 2:26 |
 | 74 | [Kat Food](https://open.spotify.com/track/6WYo4HDHHvMJZU1lNebB3V) | [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [Kat Food](https://open.spotify.com/album/0hyOMHe8ZFK0oCZhb2xnks) | 4:46 |
 | 75 | [Scared Money \(feat\. J\. Cole and Moneybagg Yo\)](https://open.spotify.com/track/4heBcjj4Lw3X2sQVFNbLbz) | [YG](https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5), [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f) | [Scared Money](https://open.spotify.com/album/3TsYjPFN8qCxcYWHL3DtL8) | 3:24 |
 | 76 | [Blackout](https://open.spotify.com/track/0B0Xu2ih8fWpcwyxAt1c7m) | [Joyner Lucas](https://open.spotify.com/artist/6C1ohJrd5VydigQtaGy5Wa), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Blackout](https://open.spotify.com/album/55ZLjifyJc6wpZ07D2DcLV) | 3:16 |
 
-Snapshot ID: `MCwzNWFhYmM1YTI0MjZkMzY0MGM3YmZiYzBlZjZlYTA0MTUzYjg5ZmI2`
+Snapshot ID: `MCw3ZGIyMWRiOTAwYzc0YzMxZDc0ZGE3ODVjZDM3OWVmZTkxMjUwMzNj`

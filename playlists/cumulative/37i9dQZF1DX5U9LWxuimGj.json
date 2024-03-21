@@ -1152,10 +1152,32 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-21",
       "duration_ms": 183157,
       "name": "Hoodie (feat. Ollie Joseph) - Spanglish",
       "url": "https://open.spotify.com/track/5Yw4ZbzNPr7WINRb9HQvFD"
+    },
+    {
+      "album": {
+        "name": "Boots x Beats",
+        "url": "https://open.spotify.com/album/7KcPa7EJTnMn3ftNlYK2eP"
+      },
+      "artists": [
+        {
+          "name": "Sammy Arriaga",
+          "url": "https://open.spotify.com/artist/3FKSNTDo480gbDePzxc3y3"
+        },
+        {
+          "name": "Ollie Joseph",
+          "url": "https://open.spotify.com/artist/6BZKGQf9EnToQ6F7KdMd1m"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183157,
+      "name": "Hoodie - Spanglish",
+      "url": "https://open.spotify.com/track/0Emd9eMZrtIArfS3Uh4xcS"
     },
     {
       "album": {

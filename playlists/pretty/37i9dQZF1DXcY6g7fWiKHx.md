@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcY6g7fWiKHx.md) - [plain]
 
 > <a href="spotify:artist:3QFiymmbJlVBPpnrOatEAkq">Myd</a>'s favourite tracks\. Updated regularly\. Curated by Myd\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,432 likes - 228 songs - 18 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,452 likes - 228 songs - 18 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -237,4 +237,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcY6g7fWiKHx.md) - [plain]
 | 227 | [000 Baby](https://open.spotify.com/track/5euJ2q8Kk1p4nDux0JaBsD) | [Mr\. Ho](https://open.spotify.com/artist/44LzZsFXgy7Ft4EsT3WlI8) | [Homeboys](https://open.spotify.com/album/0j4SjQNKeymCwADe5Ju83C) | 6:36 |
 | 228 | [Together We Stand \- Chambord Remix](https://open.spotify.com/track/6HmUobqcMJAYAZUIiUdtNF) | [Myd](https://open.spotify.com/artist/3QFiymmbJlVBPpnrOatEAk), [Chambord](https://open.spotify.com/artist/5S5jGEkiJMWHt6XYasZOLJ) | [Together We Stand \(Chambord Remix\)](https://open.spotify.com/album/1XUl9gl3vigwmepOxjTBml) | 6:59 |
 
-Snapshot ID: `MCw5ZDc2ZTk5MGE5MmRlNTlkYTRmOGI3YmYwNDVkMDNkNzAxNDJlNDMw`
+Snapshot ID: `MCwxMmI3YjU5Y2MxMTQ0NDMyMDcyZTdmODRjMDI0MWYyMzk4OWFjMDg2`

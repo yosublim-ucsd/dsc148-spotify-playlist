@@ -1,12 +1,12 @@
 {
   "description": "A dose of high-energy rock & alt songs for your workout.",
-  "num_followers": 613533,
+  "num_followers": 613571,
   "original_name": "Rock Me Up",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2ZjY1YTg3Yzc4NDJjNDY5NWE5NDg3Mzg0MzE4NzllMWNmMTY5NjY1",
+  "snapshot_id": "MCw1Mjk2NjNlYWE4YjJiYzkxYmY5ZTBjZWVmMWMwYTI0OTAwNjhjMTI4",
   "tracks": [
     {
       "added_at": "2024-03-06 15:41:44",
@@ -323,22 +323,6 @@
     {
       "added_at": "2024-03-06 15:41:44",
       "album": {
-        "name": "Already Over",
-        "url": "https://open.spotify.com/album/3c2fbU1EH35iSMWlTRqLih"
-      },
-      "artists": [
-        {
-          "name": "Mike Shinoda",
-          "url": "https://open.spotify.com/artist/6xBZgSMsnKVmaAxzWEwMSD"
-        }
-      ],
-      "duration_ms": 160640,
-      "name": "Already Over",
-      "url": "https://open.spotify.com/track/4Akq61SpQYUE8IuE7hHNH8"
-    },
-    {
-      "added_at": "2024-03-06 15:41:44",
-      "album": {
         "name": "Dropout Boogie",
         "url": "https://open.spotify.com/album/7LLyQJzyD56Avzk3uFzKUk"
       },
@@ -351,6 +335,22 @@
       "duration_ms": 164866,
       "name": "Wild Child",
       "url": "https://open.spotify.com/track/02bJ6uGeHKfNOhIc9qyA8e"
+    },
+    {
+      "added_at": "2024-03-06 15:41:44",
+      "album": {
+        "name": "Already Over",
+        "url": "https://open.spotify.com/album/3c2fbU1EH35iSMWlTRqLih"
+      },
+      "artists": [
+        {
+          "name": "Mike Shinoda",
+          "url": "https://open.spotify.com/artist/6xBZgSMsnKVmaAxzWEwMSD"
+        }
+      ],
+      "duration_ms": 160640,
+      "name": "Already Over",
+      "url": "https://open.spotify.com/track/4Akq61SpQYUE8IuE7hHNH8"
     },
     {
       "added_at": "2024-03-06 15:41:44",
@@ -491,22 +491,6 @@
     {
       "added_at": "2024-03-06 15:41:44",
       "album": {
-        "name": "Normal People Things",
-        "url": "https://open.spotify.com/album/2fzxvtlp5mqgJktyPAt5UC"
-      },
-      "artists": [
-        {
-          "name": "Lovejoy",
-          "url": "https://open.spotify.com/artist/33tFkBLsl6f8TjKkV0uF0C"
-        }
-      ],
-      "duration_ms": 164844,
-      "name": "Normal People Things",
-      "url": "https://open.spotify.com/track/1vJmd8YIIAz6XQ9GHlUr5p"
-    },
-    {
-      "added_at": "2024-03-06 15:41:44",
-      "album": {
         "name": "With Teeth",
         "url": "https://open.spotify.com/album/56Us3Q6UIM4jKJZlWhqddL"
       },
@@ -519,6 +503,22 @@
       "duration_ms": 211680,
       "name": "The Hand That Feeds",
       "url": "https://open.spotify.com/track/5ugzDiilhy6ILKmKfhEzd7"
+    },
+    {
+      "added_at": "2024-03-06 15:41:44",
+      "album": {
+        "name": "Normal People Things",
+        "url": "https://open.spotify.com/album/2fzxvtlp5mqgJktyPAt5UC"
+      },
+      "artists": [
+        {
+          "name": "Lovejoy",
+          "url": "https://open.spotify.com/artist/33tFkBLsl6f8TjKkV0uF0C"
+        }
+      ],
+      "duration_ms": 164844,
+      "name": "Normal People Things",
+      "url": "https://open.spotify.com/track/1vJmd8YIIAz6XQ9GHlUr5p"
     },
     {
       "added_at": "2024-03-06 15:41:44",
@@ -587,22 +587,6 @@
     {
       "added_at": "2024-03-06 15:41:44",
       "album": {
-        "name": "Wake Up & It's Over",
-        "url": "https://open.spotify.com/album/5LHuQr88XpvvuGpqgsu2gr"
-      },
-      "artists": [
-        {
-          "name": "Lovejoy",
-          "url": "https://open.spotify.com/artist/33tFkBLsl6f8TjKkV0uF0C"
-        }
-      ],
-      "duration_ms": 227546,
-      "name": "Portrait of a Blank Slate",
-      "url": "https://open.spotify.com/track/7505qe0xzCuDPaILCURnOC"
-    },
-    {
-      "added_at": "2024-03-06 15:41:44",
-      "album": {
         "name": "Costello Music",
         "url": "https://open.spotify.com/album/6R6pjR9ocMYuqSuNx5e4mg"
       },
@@ -635,18 +619,18 @@
     {
       "added_at": "2024-03-06 15:41:44",
       "album": {
-        "name": "The Surface",
-        "url": "https://open.spotify.com/album/5WmbnLQhy8ndx8S7puEolG"
+        "name": "Wake Up & It's Over",
+        "url": "https://open.spotify.com/album/5LHuQr88XpvvuGpqgsu2gr"
       },
       "artists": [
         {
-          "name": "Beartooth",
-          "url": "https://open.spotify.com/artist/6vwjIs0tbIiseJMR3pqwiL"
+          "name": "Lovejoy",
+          "url": "https://open.spotify.com/artist/33tFkBLsl6f8TjKkV0uF0C"
         }
       ],
-      "duration_ms": 211119,
-      "name": "Riptide",
-      "url": "https://open.spotify.com/track/4Xgono4pmRbojXlCIYh8or"
+      "duration_ms": 227546,
+      "name": "Portrait of a Blank Slate",
+      "url": "https://open.spotify.com/track/7505qe0xzCuDPaILCURnOC"
     },
     {
       "added_at": "2024-03-06 15:41:44",
@@ -663,6 +647,22 @@
       "duration_ms": 222146,
       "name": "Run For Cover",
       "url": "https://open.spotify.com/track/5NAiPIEzxAexFE3ucV18Q8"
+    },
+    {
+      "added_at": "2024-03-06 15:41:44",
+      "album": {
+        "name": "The Surface",
+        "url": "https://open.spotify.com/album/5WmbnLQhy8ndx8S7puEolG"
+      },
+      "artists": [
+        {
+          "name": "Beartooth",
+          "url": "https://open.spotify.com/artist/6vwjIs0tbIiseJMR3pqwiL"
+        }
+      ],
+      "duration_ms": 211119,
+      "name": "Riptide",
+      "url": "https://open.spotify.com/track/4Xgono4pmRbojXlCIYh8or"
     },
     {
       "added_at": "2024-03-06 15:41:44",
@@ -943,6 +943,22 @@
     {
       "added_at": "2024-03-06 15:41:44",
       "album": {
+        "name": "Dilemma",
+        "url": "https://open.spotify.com/album/0yYaqnTfyp9wlwJxRw1JFk"
+      },
+      "artists": [
+        {
+          "name": "Green Day",
+          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
+        }
+      ],
+      "duration_ms": 198324,
+      "name": "Dilemma",
+      "url": "https://open.spotify.com/track/6Gn1Gi5zfCgSiTHikrDjni"
+    },
+    {
+      "added_at": "2024-03-06 15:41:44",
+      "album": {
         "name": "Dancer",
         "url": "https://open.spotify.com/album/6AGtvMucIA2IRrLpVIP6ZR"
       },
@@ -959,22 +975,6 @@
       "duration_ms": 189493,
       "name": "Dancer",
       "url": "https://open.spotify.com/track/2F7dO7OCqrxff66epaNPEU"
-    },
-    {
-      "added_at": "2024-03-06 15:41:44",
-      "album": {
-        "name": "Dilemma",
-        "url": "https://open.spotify.com/album/0yYaqnTfyp9wlwJxRw1JFk"
-      },
-      "artists": [
-        {
-          "name": "Green Day",
-          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
-        }
-      ],
-      "duration_ms": 198324,
-      "name": "Dilemma",
-      "url": "https://open.spotify.com/track/6Gn1Gi5zfCgSiTHikrDjni"
     },
     {
       "added_at": "2024-03-06 15:41:44",
@@ -1023,6 +1023,22 @@
       "duration_ms": 244400,
       "name": "My Body",
       "url": "https://open.spotify.com/track/1KDYN3odJHnj9pqGHN3FVs"
+    },
+    {
+      "added_at": "2024-03-06 15:41:44",
+      "album": {
+        "name": "Revolution Radio",
+        "url": "https://open.spotify.com/album/5a3LqvNt2nv1B4aRKXmgOV"
+      },
+      "artists": [
+        {
+          "name": "Green Day",
+          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
+        }
+      ],
+      "duration_ms": 205440,
+      "name": "Bang Bang",
+      "url": "https://open.spotify.com/track/278Ao6KQDxWGGszv24uvhI"
     },
     {
       "added_at": "2024-03-06 15:41:44",
@@ -1079,18 +1095,18 @@
     {
       "added_at": "2024-03-06 15:41:44",
       "album": {
-        "name": "Revolution Radio",
-        "url": "https://open.spotify.com/album/5a3LqvNt2nv1B4aRKXmgOV"
+        "name": "Not The 1975",
+        "url": "https://open.spotify.com/album/1HVxIc8XOtdFhuIQZdTPx9"
       },
       "artists": [
         {
-          "name": "Green Day",
-          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
+          "name": "Knox",
+          "url": "https://open.spotify.com/artist/61S5H9Lxn1PDUvu1TV0kCX"
         }
       ],
-      "duration_ms": 205440,
-      "name": "Bang Bang",
-      "url": "https://open.spotify.com/track/278Ao6KQDxWGGszv24uvhI"
+      "duration_ms": 198022,
+      "name": "Not The 1975",
+      "url": "https://open.spotify.com/track/0tireFhMGfLWtbelX0EBqd"
     },
     {
       "added_at": "2024-03-06 15:41:44",
@@ -1123,22 +1139,6 @@
       "duration_ms": 164138,
       "name": "FUNERAL GREY",
       "url": "https://open.spotify.com/track/6Rebnr2UDaxxg3VNe6CBg2"
-    },
-    {
-      "added_at": "2024-03-06 15:41:44",
-      "album": {
-        "name": "Not The 1975",
-        "url": "https://open.spotify.com/album/1HVxIc8XOtdFhuIQZdTPx9"
-      },
-      "artists": [
-        {
-          "name": "Knox",
-          "url": "https://open.spotify.com/artist/61S5H9Lxn1PDUvu1TV0kCX"
-        }
-      ],
-      "duration_ms": 198022,
-      "name": "Not The 1975",
-      "url": "https://open.spotify.com/track/0tireFhMGfLWtbelX0EBqd"
     },
     {
       "added_at": "2024-03-06 15:41:44",
@@ -1307,22 +1307,6 @@
     {
       "added_at": "2024-03-06 15:41:44",
       "album": {
-        "name": "The Dark",
-        "url": "https://open.spotify.com/album/6S2FI6xzGq3INs2WnlB9ou"
-      },
-      "artists": [
-        {
-          "name": "The Band CAMINO",
-          "url": "https://open.spotify.com/artist/6d4jrmreCmsenscuieJERc"
-        }
-      ],
-      "duration_ms": 172714,
-      "name": "What Am I Missing?",
-      "url": "https://open.spotify.com/track/61noMxtCbfnzewtJmUIQ13"
-    },
-    {
-      "added_at": "2024-03-06 15:41:44",
-      "album": {
         "name": "Angel Miners & The Lightning Riders",
         "url": "https://open.spotify.com/album/1rS0FYRCKha4gPkFCVY56j"
       },
@@ -1335,6 +1319,22 @@
       "duration_ms": 223320,
       "name": "The Best",
       "url": "https://open.spotify.com/track/6RSVgjjYRtKg4FDyx2Lj1u"
+    },
+    {
+      "added_at": "2024-03-06 15:41:44",
+      "album": {
+        "name": "The Dark",
+        "url": "https://open.spotify.com/album/6S2FI6xzGq3INs2WnlB9ou"
+      },
+      "artists": [
+        {
+          "name": "The Band CAMINO",
+          "url": "https://open.spotify.com/artist/6d4jrmreCmsenscuieJERc"
+        }
+      ],
+      "duration_ms": 172714,
+      "name": "What Am I Missing?",
+      "url": "https://open.spotify.com/track/61noMxtCbfnzewtJmUIQ13"
     },
     {
       "added_at": "2024-03-06 15:41:44",
@@ -1459,22 +1459,6 @@
     {
       "added_at": "2024-03-06 15:41:44",
       "album": {
-        "name": "Welcome To My House",
-        "url": "https://open.spotify.com/album/0ImZVp5Lh6vnyMUkQtnQIw"
-      },
-      "artists": [
-        {
-          "name": "YONAKA",
-          "url": "https://open.spotify.com/artist/3Wcyta3gkOdQ4TfY0WyZpu"
-        }
-      ],
-      "duration_ms": 190611,
-      "name": "By The Time You're Reading This",
-      "url": "https://open.spotify.com/track/0uuxAXS1X7kH0WjC0nD6q9"
-    },
-    {
-      "added_at": "2024-03-06 15:41:44",
-      "album": {
         "name": "Pretty Monster",
         "url": "https://open.spotify.com/album/1ZSM06t6wMNeIaNMXxCuL6"
       },
@@ -1487,6 +1471,22 @@
       "duration_ms": 187666,
       "name": "Don't Miss",
       "url": "https://open.spotify.com/track/1ggbqc7jhg454UpFfSmdam"
+    },
+    {
+      "added_at": "2024-03-06 15:41:44",
+      "album": {
+        "name": "Welcome To My House",
+        "url": "https://open.spotify.com/album/0ImZVp5Lh6vnyMUkQtnQIw"
+      },
+      "artists": [
+        {
+          "name": "YONAKA",
+          "url": "https://open.spotify.com/artist/3Wcyta3gkOdQ4TfY0WyZpu"
+        }
+      ],
+      "duration_ms": 190611,
+      "name": "By The Time You're Reading This",
+      "url": "https://open.spotify.com/track/0uuxAXS1X7kH0WjC0nD6q9"
     },
     {
       "added_at": "2024-03-06 15:41:44",

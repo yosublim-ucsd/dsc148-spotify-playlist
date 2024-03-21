@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Uruguay.
 
-732 songs - 1 day 14 hr 55 min
+733 songs - 1 day 14 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -382,7 +382,8 @@
 | [Mamichula \- con Nicki Nicole](https://open.spotify.com/track/0TUW9faHNaBmi89wsYGp9y) | [Trueno](https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz), [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y), [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [Taiu](https://open.spotify.com/artist/5szJHKg5xeUlQ9pTqzdpic), [TATOOL](https://open.spotify.com/artist/0shHIQr8VamXbzM66kwGQo) | [Atrevido](https://open.spotify.com/album/1xBoZOfcOsqd77V6AENKYC) | 3:39 | 2024-02-18 |  |
 | [MAMIII](https://open.spotify.com/track/1ri9ZUkBJVFUdgwzCnfcYs) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3), [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [MAMIII](https://open.spotify.com/album/6GHUywBU0u92lg0Dhrt40R) | 3:46 | 2022-02-13 | 2022-05-15 |
 | [MAMIII](https://open.spotify.com/track/7FlQk2gJ6TBrHHiidvdR2O) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3), [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [ESQUEMAS](https://open.spotify.com/album/7eC4wtMG1I2Jtk4FDWbkKC) | 3:46 | 2022-05-14 | 2022-10-16 |
-| [Maquillaje](https://open.spotify.com/track/4eMgCEivrlABjwo0ZiY95d) | [Renn](https://open.spotify.com/artist/25HXdVQcRMRgDKWbk5cn0G), [Yexel](https://open.spotify.com/artist/1PeS3QND0gDk8tLtyQg4NL) | [Maquillaje](https://open.spotify.com/album/0L16XNlcuTsjZutD11ixsz) | 3:31 | 2024-03-19 |  |
+| [Maquillaje](https://open.spotify.com/track/16flcJEZHzqoSRv7Ku5gjJ) | [Renn](https://open.spotify.com/artist/25HXdVQcRMRgDKWbk5cn0G), [Yexel](https://open.spotify.com/artist/1PeS3QND0gDk8tLtyQg4NL) | [Maquillaje](https://open.spotify.com/album/0CLVKodSfi7SSMDFQutIhy) | 3:31 | 2024-03-20 |  |
+| [Maquillaje](https://open.spotify.com/track/4eMgCEivrlABjwo0ZiY95d) | [Renn](https://open.spotify.com/artist/25HXdVQcRMRgDKWbk5cn0G), [Yexel](https://open.spotify.com/artist/1PeS3QND0gDk8tLtyQg4NL) | [Maquillaje](https://open.spotify.com/album/0L16XNlcuTsjZutD11ixsz) | 3:31 | 2024-03-19 | 2024-03-21 |
 | [Marisola](https://open.spotify.com/track/2pR6bipXfJySBhje19SW02) | [Stars Music Chile](https://open.spotify.com/artist/2NZD6Gqfk60GEcAAnJKVsR), [Cris Mj](https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE), [Standly](https://open.spotify.com/artist/0rjms710nwQTdrQheXHJfz) | [Marisola](https://open.spotify.com/album/6pEq0eQ4Jk0C7plPyyyXDp) | 3:04 | 2022-09-02 | 2022-12-25 |
 | [Marisola \- Remix](https://open.spotify.com/track/0NO2zL0kw8sGGnaMvHKAZF) | [Cris Mj](https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE), [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg), [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y), [Standly](https://open.spotify.com/artist/0rjms710nwQTdrQheXHJfz), [Stars Music Chile](https://open.spotify.com/artist/2NZD6Gqfk60GEcAAnJKVsR) | [Marisola \(Remix\)](https://open.spotify.com/album/262bymaji1sJPAldR7YyaH) | 3:57 | 2022-12-17 | 2023-06-25 |
 | [Maroon](https://open.spotify.com/track/3eX0NZfLtGzoLUxPNvRfqm) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Midnights](https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3) | 3:38 | 2022-10-22 | 2022-10-27 |

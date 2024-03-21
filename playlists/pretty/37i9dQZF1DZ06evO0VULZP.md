@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0VULZP.md) - [plain]
 
 > This is Descendents\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,526 likes - 42 songs - 1 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,533 likes - 42 songs - 1 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,11 +12,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0VULZP.md) - [plain]
 | 2 | ['Merican](https://open.spotify.com/track/2BY2O9OybmxpND0DqNgx97) | [Descendents](https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5) | [Cool to Be You](https://open.spotify.com/album/52RKlgHaL9hv8VjlVa3YkB) | 1:51 |
 | 3 | [I'm The One](https://open.spotify.com/track/5XXiK8GZjjmCHpBpUEm9z5) | [Descendents](https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5) | [Everything Sucks](https://open.spotify.com/album/2jUjrmnCfEEwvC4H2twuTI) | 2:15 |
 | 4 | [Good Good Things](https://open.spotify.com/track/5d7WzaCFCmgwAwZML8uXmp) | [Descendents](https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5) | [I Don't Want to Grow Up](https://open.spotify.com/album/7pjDCKTmSaK6t1vRA6e0wA) | 2:22 |
-| 5 | [I Wanna Be a Bear](https://open.spotify.com/track/2VSiXZhIe5sikKG233RQZE) | [Descendents](https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5) | [Milo Goes to College](https://open.spotify.com/album/7ap2sARnQnkhfbUxYIEcu8) | 0:42 |
+| 5 | [Hope](https://open.spotify.com/track/5Jd6yfhjjmDxODdvYTjscz) | [Descendents](https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5) | [Milo Goes to College](https://open.spotify.com/album/7ap2sARnQnkhfbUxYIEcu8) | 2:00 |
 | 6 | [Cool to Be You](https://open.spotify.com/track/1eopOIsxS1lrGkEvGwFe1P) | [Descendents](https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5) | [Cool to Be You](https://open.spotify.com/album/52RKlgHaL9hv8VjlVa3YkB) | 2:24 |
 | 7 | [Everything Sux](https://open.spotify.com/track/0LDAMbrDwcMlH94AG9VYwW) | [Descendents](https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5) | [Everything Sucks](https://open.spotify.com/album/2jUjrmnCfEEwvC4H2twuTI) | 1:30 |
 | 8 | [Silly Girl](https://open.spotify.com/track/6B9hQU3z8L6u8Yd3qHLuhe) | [Descendents](https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5) | [I Don't Want to Grow Up](https://open.spotify.com/album/7pjDCKTmSaK6t1vRA6e0wA) | 2:25 |
-| 9 | [Hope](https://open.spotify.com/track/5Jd6yfhjjmDxODdvYTjscz) | [Descendents](https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5) | [Milo Goes to College](https://open.spotify.com/album/7ap2sARnQnkhfbUxYIEcu8) | 2:00 |
+| 9 | [I Wanna Be a Bear](https://open.spotify.com/track/2VSiXZhIe5sikKG233RQZE) | [Descendents](https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5) | [Milo Goes to College](https://open.spotify.com/album/7ap2sARnQnkhfbUxYIEcu8) | 0:42 |
 | 10 | [Nothing with You](https://open.spotify.com/track/55CdJt5NnG07dKs3wrdduv) | [Descendents](https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5) | [Cool to Be You](https://open.spotify.com/album/52RKlgHaL9hv8VjlVa3YkB) | 2:29 |
 | 11 | [Coffee Mug](https://open.spotify.com/track/6u52PVls4czt3mp2GnyGxe) | [Descendents](https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5) | [Everything Sucks](https://open.spotify.com/album/2jUjrmnCfEEwvC4H2twuTI) | 0:34 |
 | 12 | [Coolidge](https://open.spotify.com/track/1sYjTUX8Fc9bhPdH44gC3i) | [Descendents](https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5) | [All](https://open.spotify.com/album/0nWME5ZFE3jGnJ1gylIOoR) | 2:47 |
@@ -51,4 +51,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0VULZP.md) - [plain]
 | 41 | [Like the Way I Know](https://open.spotify.com/track/7sAvo8h2WuM87WeVrQxMLA) | [Descendents](https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5) | [9th & Walnut](https://open.spotify.com/album/2nWhDLqVYsmlsiw1K2PkFs) | 0:56 |
 | 42 | [Sailor's Choice](https://open.spotify.com/track/0HfSlRenXUSBpouR8DNQ8V) | [Descendents](https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5) | [9th & Walnut](https://open.spotify.com/album/2nWhDLqVYsmlsiw1K2PkFs) | 1:14 |
 
-Snapshot ID: `Mjg1MTQxOTUsMDAwMDAwMDA5YWZiOGFkNzI1ZWYzZTZkYWRjMDBlZTcyN2QwNDhlOA==`
+Snapshot ID: `Mjg1MTU2NjEsMDAwMDAwMDA0NmEyNDI5NjY5MjkzMjVhMDg2OTAzZTgxODM1ZTJmMw==`

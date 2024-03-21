@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX50KNyX4Fc9O.md) - [plain]
 
 > Keep your finger on the pulse of pop\. Gretta Ray
 
-[Spotify](https://open.spotify.com/user/spotify) - 120,981 likes - 99 songs - 5 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 121,031 likes - 99 songs - 5 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX50KNyX4Fc9O.md) - [plain]
 | 27 | [Goddess](https://open.spotify.com/track/4R3AU2pjv8ge2siX1fVbZs) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Goddess](https://open.spotify.com/album/6iud55ph203oHsmq9VQBRQ) | 4:27 |
 | 28 | [Fancy \- Spotify Singles](https://open.spotify.com/track/0y0uzuB1HxljAY2j0tLETp) | [STAYC](https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0) | [Fancy \- Spotify Singles](https://open.spotify.com/album/23EfZLPRMwseUucHSXCCTq) | 3:13 |
 | 29 | [how to change a tire](https://open.spotify.com/track/6ZlwbgqfMALnnwi8zVJTyr) | [Zach Hood](https://open.spotify.com/artist/5aHlyw2WWqZW0HLICBuv7U) | [how to change a tire](https://open.spotify.com/album/09oYcPRYGDwOZcP7XkO6Mr) | 3:00 |
-| 30 | [Austin](https://open.spotify.com/track/4NJqhmkGN042BrvHoMKUrJ) | [Dasha](https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I) | [Austin](https://open.spotify.com/album/4JtlZzYJEa7bejLF0ASnk0) | 2:51 |
+| 30 | [Austin](https://open.spotify.com/track/6b81dy3WjbozXK6b7C1gu5) | [Dasha](https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I) | [What Happens Now?](https://open.spotify.com/album/0rQRrrZPPv6XXsxilJ1wFz) | 2:51 |
 | 31 | [Dog House](https://open.spotify.com/track/6IkdHPacNBeOdGkePazW1D) | [24kGoldn](https://open.spotify.com/artist/6fWVd57NKTalqvmjRd2t8Z) | [Growing Pains](https://open.spotify.com/album/3VJPWZfdKv6BALZ0b9TxRr) | 3:32 |
 | 32 | [The Loneliest I Ever Was](https://open.spotify.com/track/0y7hOVuGBLrlttFeQ3NsgU) | [Jessica Mauboy](https://open.spotify.com/artist/6rHWAH6F4mr2AViSxMV673) | [Yours Forever](https://open.spotify.com/album/2dpE9xtpAn2WneiRfxWEN9) | 2:49 |
 | 33 | [Backseat Drive](https://open.spotify.com/track/4EyuypzKLIPYlx4RV3KgH7) | [Selfish Sons](https://open.spotify.com/artist/5Fqu2dYwt7GFleLcxCEYKE) | [Backseat Drive](https://open.spotify.com/album/5pikwmaYxnJWN7N3rSxZoK) | 3:24 |
@@ -68,7 +68,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX50KNyX4Fc9O.md) - [plain]
 | 58 | [Care About Me](https://open.spotify.com/track/1xTzqBRcbLtLhJSiTjTifH) | [JESSIA](https://open.spotify.com/artist/6DdbeAeBlrYj8bNToZv4TY) | [Care About Me](https://open.spotify.com/album/3OMKHw3QWlhKqEd1aRxH5S) | 2:45 |
 | 59 | [confessions](https://open.spotify.com/track/1qu6whtoKkt2q4KPX8Zvoa) | [Arden Jones](https://open.spotify.com/artist/3mMogqf2JyBUQZxFZlC79w) | [age tape 12](https://open.spotify.com/album/0alLVuUOnDoOUpELioQNoF) | 3:12 |
 | 60 | [Sunday Drive](https://open.spotify.com/track/29rSZsoPBCCUBvb23jIsVi) | [Eves Karydas](https://open.spotify.com/artist/7MbSdIkdgkwmVxObpCg87e) | [Sunday Drive](https://open.spotify.com/album/0VnoSaYylh44lc9j8ro85Z) | 4:08 |
-| 61 | [Too Good to be True](https://open.spotify.com/track/4vIiVs5JoNfqqRi5o7jAIb) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Too Good to be True](https://open.spotify.com/album/57y7NpfTINlnrNitu8vwft) | 2:40 |
+| 61 | [Too Good to be True](https://open.spotify.com/track/27RDQ0TfxzWMlQFuKrPT11) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Deeper Well](https://open.spotify.com/album/5SxZmGwc4eJuPp6PcO4JgJ) | 2:40 |
 | 62 | [Drown](https://open.spotify.com/track/5qxOeTyWa0JAst5fqdrqgu) | [Justin Timberlake](https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7) | [Drown](https://open.spotify.com/album/5PpH5XpQ59g6CB399oKkVA) | 4:20 |
 | 63 | [Trouble](https://open.spotify.com/track/1tuAG0SRJUvRCUEU3O7c3j) | [Flight Facilities](https://open.spotify.com/artist/1lc8mnyGrCLtPhCoWjRxjM), [Owl Eyes](https://open.spotify.com/artist/3it7AeHVfXdby9tbwEwE3f) | [Trouble](https://open.spotify.com/album/7rmPhckC8SMZBnA12dbAWz) | 3:20 |
 | 64 | [GRAVITY](https://open.spotify.com/track/7jK1u0cB8KMCFQEkLqPjnu) | [Matt Hansen](https://open.spotify.com/artist/6wlhqnATSJIc0NQ64VxOVJ) | [GRAVITY](https://open.spotify.com/album/3q9bGy6VBdN5wwY0oLpydI) | 2:54 |
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX50KNyX4Fc9O.md) - [plain]
 | 98 | [Faults](https://open.spotify.com/track/432StTtnmOSsPsoD4asdVo) | [Keenan Te](https://open.spotify.com/artist/6Ge3YISmUWPCUcSVx8VGor) | [Faults](https://open.spotify.com/album/5Sd5dlgkHYCTbZ0HTCe1do) | 2:42 |
 | 99 | [Drums \(Feat\. Kim Petras\)](https://open.spotify.com/track/4AFlChQQJbB1MOCgOiiyYc) | [James Hype](https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v), [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Drums \(Feat\. Kim Petras\)](https://open.spotify.com/album/5Xs1g4UOOm6NBk4cSxyl2M) | 2:32 |
 
-Snapshot ID: `MCw0ODEyY2I1MjdiMjhlZDUzYWM3MWU0NzdiNjU0YWQ3OTU4ZTY1Yjkz`
+Snapshot ID: `MCwyMDA1MzdlY2E1MGQzNjU0MmMxZDA5ZDM3MTUzNDY1NzUzMWZlMDBj`

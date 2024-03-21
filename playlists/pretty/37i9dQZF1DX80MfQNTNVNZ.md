@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX80MfQNTNVNZ.md) - [plain]
 
 > Groove\-heavy, soothing tunes for the soul and R&B
 
-[Spotify](https://open.spotify.com/user/spotify) - 176,580 likes - 60 songs - 3 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 176,684 likes - 60 songs - 3 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX80MfQNTNVNZ.md) - [plain]
 | 59 | [4EVA \(feat\. Pharrell Williams\)](https://open.spotify.com/track/3CblJq8QQQ0bb7vwJu8c3v) | [KAYTRAMINÉ](https://open.spotify.com/artist/5oifjQw72WO7Jut07fVWMy), [Aminé](https://open.spotify.com/artist/3Gm5F95VdRxW3mqCn8RPBJ), [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [4EVA \(feat\. Pharrell Williams\)](https://open.spotify.com/album/3unS7dpXcZ0MmNBDkp5Hqx) | 3:10 |
 | 60 | [Charge It Remix \(feat\. Smino\)](https://open.spotify.com/track/4GKzznETPVyGoBe6vHr2lS) | [ENNY](https://open.spotify.com/artist/3qEnCAnX23lvoxZYtBiPgL), [Smino](https://open.spotify.com/artist/1ybINI1qPiFbwDXamRtwxD) | [Charge It Remix \(feat\. Smino\)](https://open.spotify.com/album/3HC2Rgx0wIcXQNzkVlZOue) | 3:22 |
 
-Snapshot ID: `MCxmMzM1ODlmNjUyM2MzMDZmOTI5ZTJmOGVhYjI1NDU5ZTdkMDdjOTMy`
+Snapshot ID: `MCxiM2MxMTQ2NzBiNzg3OWVlOGQzMjBhMTIwNTViNTdmYjcxNTNmMTM4`

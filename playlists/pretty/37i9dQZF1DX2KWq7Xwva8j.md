@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2KWq7Xwva8j.md) - [plain]
 
 > El futuro está aquí\. Foto: Samuraï
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,936 likes - 35 songs - 1 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,952 likes - 35 songs - 1 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2KWq7Xwva8j.md) - [plain]
 | 7 | [oh boi](https://open.spotify.com/track/2BkSglj7a3gYYm25lNNUjf) | [shego](https://open.spotify.com/artist/1DiDa1DfTjldKJQeonyP33) | [oh boi](https://open.spotify.com/album/6PJNpyvjXzbPyYAYvSPJlM) | 2:40 |
 | 8 | [Me da igual](https://open.spotify.com/track/1KzO88hc8I7InCz4IM0u3J) | [Charlie USG](https://open.spotify.com/artist/6SQxxV1mB4oLifst53eQpw) | [Me da igual](https://open.spotify.com/album/0bQhmz2Ii5ju99yHsbKdZ8) | 2:51 |
 | 9 | [En Sueños](https://open.spotify.com/track/3YFfdub6AUsrzdcBTeWIQL) | [Luis Cortés](https://open.spotify.com/artist/49wxwtIqjRKbj0d3eHDMRJ), [Zaira](https://open.spotify.com/artist/2Tr0LY0zF1a6wvOYP42zg5) | [En Sueños](https://open.spotify.com/album/3KcJkq3hVSWymkMUKMkv97) | 3:12 |
-| 10 | [Otra Vida](https://open.spotify.com/track/3YPC9AqtPc28og6HGczvZ3) | [pablopablo](https://open.spotify.com/artist/4jbtfb5mOGveUu9bTYIvEZ) | [Otra Vida](https://open.spotify.com/album/3zPvKGXs9G0lJHMvvUIxbj) | 3:38 |
+| 10 | [Azul Zafiro](https://open.spotify.com/track/4BjZ8aS0Z69GQrknhlgYBO) | [pablopablo](https://open.spotify.com/artist/4jbtfb5mOGveUu9bTYIvEZ) | [pablopablo](https://open.spotify.com/album/38EtfKgkkMlr936UGUKadp) | 1:37 |
 | 11 | [Tirando Balas](https://open.spotify.com/track/15I8CL9krCHIiwZvac61yl) | [Samuraï](https://open.spotify.com/artist/0BovidHLtM9n55WXWkApK9) | [Tirando Balas](https://open.spotify.com/album/1LZ1gCEC2vlZa1BwL96S5P) | 2:53 |
 | 12 | [Mala Vida](https://open.spotify.com/track/3IT1XT70SguZjuUiKiUu89) | [Luis Cortés](https://open.spotify.com/artist/49wxwtIqjRKbj0d3eHDMRJ) | [Mala Vida](https://open.spotify.com/album/6CFyn8eC91dy858L9aYFY7) | 2:49 |
 | 13 | [Vicente Amor](https://open.spotify.com/track/6cT3lvZsX1QOqo5LPgQSHJ) | [shego](https://open.spotify.com/artist/1DiDa1DfTjldKJQeonyP33) | [Vicente Amor](https://open.spotify.com/album/4kDXE9CEGdB3CcoroleDP4) | 1:52 |
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2KWq7Xwva8j.md) - [plain]
 | 15 | [Mama](https://open.spotify.com/track/7nvrvtHojMocJiGVwoaZHs) | [Luis Cortés](https://open.spotify.com/artist/49wxwtIqjRKbj0d3eHDMRJ) | [Mama](https://open.spotify.com/album/15hzdim2ConPEvRyrNLeh3) | 3:06 |
 | 16 | [De Charco En Charco](https://open.spotify.com/track/72nJMBop58qf4xbNwZD0qO) | [Samuraï](https://open.spotify.com/artist/0BovidHLtM9n55WXWkApK9), [Belén Aguilera](https://open.spotify.com/artist/5fmYDIdgEkSgLdL6esxgfp) | [De Charco En Charco](https://open.spotify.com/album/3FTwA6nTjoLwzGzVtuJkqN) | 2:40 |
 | 17 | [Estamos a un beso](https://open.spotify.com/track/4bRg5nJCS7OcyJUMPgRAqH) | [Charlie USG](https://open.spotify.com/artist/6SQxxV1mB4oLifst53eQpw) | [Estamos a un beso](https://open.spotify.com/album/7Gf9kJXYIaRwbgnbG0vHxM) | 3:12 |
-| 18 | [Azul Zafiro](https://open.spotify.com/track/4BjZ8aS0Z69GQrknhlgYBO) | [pablopablo](https://open.spotify.com/artist/4jbtfb5mOGveUu9bTYIvEZ) | [pablopablo](https://open.spotify.com/album/38EtfKgkkMlr936UGUKadp) | 1:37 |
+| 18 | [Otra Vida](https://open.spotify.com/track/3YPC9AqtPc28og6HGczvZ3) | [pablopablo](https://open.spotify.com/artist/4jbtfb5mOGveUu9bTYIvEZ) | [Otra Vida](https://open.spotify.com/album/3zPvKGXs9G0lJHMvvUIxbj) | 3:38 |
 | 19 | [habibi](https://open.spotify.com/track/2jd8SrFiK2arEPZHxlE0ys) | [Mushkaa](https://open.spotify.com/artist/3jU5LKRsimuyZjA0lSkdPp), [Bexnil](https://open.spotify.com/artist/1TYjm48WP4AXoXMModkcNg) | [SexySensible](https://open.spotify.com/album/4GNiikXX4KQZ3lSm0cdgm1) | 2:40 |
 | 20 | [Tiro Al Aire](https://open.spotify.com/track/1GTqOaoThQ64CQyk4MfiWy) | [Samuraï](https://open.spotify.com/artist/0BovidHLtM9n55WXWkApK9) | [Tiro Al Aire](https://open.spotify.com/album/0EDo43ixdWe188OqliIIVk) | 3:20 |
 | 21 | [La Última](https://open.spotify.com/track/2jGTk6Id9zdIonBH9H18rW) | [Charlie USG](https://open.spotify.com/artist/6SQxxV1mB4oLifst53eQpw) | [La Última](https://open.spotify.com/album/0dnIzmTItQnjqmG4CNpbuU) | 3:23 |
@@ -44,4 +44,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2KWq7Xwva8j.md) - [plain]
 | 34 | [Mandela Place](https://open.spotify.com/track/1d3LnbVCbpcAZGdOCw7PlQ) | [pablopablo](https://open.spotify.com/artist/4jbtfb5mOGveUu9bTYIvEZ) | [pablopablo](https://open.spotify.com/album/38EtfKgkkMlr936UGUKadp) | 3:33 |
 | 35 | [Duerme](https://open.spotify.com/track/5C8N8ZWHsvLj49NChGmQGn) | [Luis Cortés](https://open.spotify.com/artist/49wxwtIqjRKbj0d3eHDMRJ), [Demarco Flamenco](https://open.spotify.com/artist/4hFZibFsoIxictRvkZDjIc) | [Flamenco Flamenquito](https://open.spotify.com/album/51xUtTgInOpm7fhGin9JqW) | 2:37 |
 
-Snapshot ID: `MCwyM2NlMGExMzhjNjFiYTQ5NzNkYTQyOTVjMjE4ZDJlNWFkYjE3MDNi`
+Snapshot ID: `MCw1YzI0MmY5MTEyYzk5ZWMzYmVmN2Y1MDY4NjdlZDczZjViNWUzOGU5`

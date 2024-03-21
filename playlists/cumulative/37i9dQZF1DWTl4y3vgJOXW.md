@@ -2,7 +2,7 @@
 
 ### [Locked In](https://open.spotify.com/playlist/37i9dQZF1DWTl4y3vgJOXW)
 
-> Fourth quarter, two minutes left .\. get locked in\. Cover: Donovan Clingan and Tristen Newton
+> Fourth quarter, two minutes left .\. get locked in\. Cover: Jamal Shead and L.J\. Cryer
 
 578 songs - 1 day 5 hr 25 min
 

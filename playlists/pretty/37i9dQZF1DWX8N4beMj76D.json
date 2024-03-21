@@ -1,12 +1,12 @@
 {
   "description": "Speaking to us sweetly from a window in the Tower of Song, this collection includes the legend's own tributes. Cover: <a href=\"spotify:artist:5l8VQNuIg0turYE1VtM9zV\">Leonard Cohen</a>",
-  "num_followers": 10566,
+  "num_followers": 10567,
   "original_name": "Leonard Cohen: Covered",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiNTk0ZWRlZjc5NGFkYTUxYTZkMzRkMWRlNmEwZWZjYjMyMGFhNmVk",
+  "snapshot_id": "MCw5ZDhmZWRiM2I4NjcxNGM5NjRjMGY0MjAyNDU2ZmYzM2EwMWRlYzA0",
   "tracks": [
     {
       "added_at": "2018-12-06 19:29:22",
@@ -207,6 +207,22 @@
     {
       "added_at": "2018-12-06 19:29:22",
       "album": {
+        "name": "Live Songs",
+        "url": "https://open.spotify.com/album/2E0441zcodrrkrNiffdEiC"
+      },
+      "artists": [
+        {
+          "name": "Leonard Cohen",
+          "url": "https://open.spotify.com/artist/5l8VQNuIg0turYE1VtM9zV"
+        }
+      ],
+      "duration_ms": 245493,
+      "name": "Passing Through - Live",
+      "url": "https://open.spotify.com/track/28ToQqj0nuWMDPvGhCTL0I"
+    },
+    {
+      "added_at": "2018-12-06 19:29:22",
+      "album": {
         "name": "Live In London",
         "url": "https://open.spotify.com/album/4rgYbbaJOr9fv0MdEcIkIY"
       },
@@ -223,22 +239,6 @@
       "duration_ms": 322600,
       "name": "If It Be Your Will (feat. Leonard Cohen) - Live in London",
       "url": "https://open.spotify.com/track/6MgxI462nuWQkMowINdZkw"
-    },
-    {
-      "added_at": "2018-12-06 19:29:22",
-      "album": {
-        "name": "Live Songs",
-        "url": "https://open.spotify.com/album/2E0441zcodrrkrNiffdEiC"
-      },
-      "artists": [
-        {
-          "name": "Leonard Cohen",
-          "url": "https://open.spotify.com/artist/5l8VQNuIg0turYE1VtM9zV"
-        }
-      ],
-      "duration_ms": 245493,
-      "name": "Passing Through - Live",
-      "url": "https://open.spotify.com/track/28ToQqj0nuWMDPvGhCTL0I"
     },
     {
       "added_at": "2018-12-06 19:29:22",
@@ -339,22 +339,6 @@
     {
       "added_at": "2018-12-06 19:29:22",
       "album": {
-        "name": "The Future",
-        "url": "https://open.spotify.com/album/7E4FRoU4Pk0WuO1SQMV1Bo"
-      },
-      "artists": [
-        {
-          "name": "Leonard Cohen",
-          "url": "https://open.spotify.com/artist/5l8VQNuIg0turYE1VtM9zV"
-        }
-      ],
-      "duration_ms": 268853,
-      "name": "Be for Real",
-      "url": "https://open.spotify.com/track/2BxtgFJxhmYFyIwo5vaejz"
-    },
-    {
-      "added_at": "2018-12-06 19:29:22",
-      "album": {
         "name": "Tower Of Song - The Songs Of Leonard Cohen",
         "url": "https://open.spotify.com/album/2Gh98Zgs0pR0ZF5VuUOsXC"
       },
@@ -367,6 +351,22 @@
       "duration_ms": 337920,
       "name": "Famous Blue Raincoat",
       "url": "https://open.spotify.com/track/7dU7EHElNeLOCkNnQXQtZs"
+    },
+    {
+      "added_at": "2018-12-06 19:29:22",
+      "album": {
+        "name": "The Future",
+        "url": "https://open.spotify.com/album/7E4FRoU4Pk0WuO1SQMV1Bo"
+      },
+      "artists": [
+        {
+          "name": "Leonard Cohen",
+          "url": "https://open.spotify.com/artist/5l8VQNuIg0turYE1VtM9zV"
+        }
+      ],
+      "duration_ms": 268853,
+      "name": "Be for Real",
+      "url": "https://open.spotify.com/track/2BxtgFJxhmYFyIwo5vaejz"
     },
     {
       "added_at": "2018-12-06 19:29:22",
@@ -453,22 +453,6 @@
       "url": "https://open.spotify.com/track/5YPLDqX401aAcjPONWMmui"
     },
     {
-      "added_at": "2018-12-06 19:29:22",
-      "album": {
-        "name": "The Future",
-        "url": "https://open.spotify.com/album/7E4FRoU4Pk0WuO1SQMV1Bo"
-      },
-      "artists": [
-        {
-          "name": "Leonard Cohen",
-          "url": "https://open.spotify.com/artist/5l8VQNuIg0turYE1VtM9zV"
-        }
-      ],
-      "duration_ms": 482493,
-      "name": "Always",
-      "url": "https://open.spotify.com/track/2gVIZoOxoTwSbkMwWkd2x8"
-    },
-    {
       "added_at": "2022-10-14 04:00:00",
       "album": {
         "name": "Here It Is: A Tribute to Leonard Cohen",
@@ -491,6 +475,22 @@
     {
       "added_at": "2018-12-06 19:29:22",
       "album": {
+        "name": "Just Like A Woman: Nina Simone Sings Classic Songs Of The '60s",
+        "url": "https://open.spotify.com/album/5iFgWpYe8TI36apXgwlJlR"
+      },
+      "artists": [
+        {
+          "name": "Nina Simone",
+          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
+        }
+      ],
+      "duration_ms": 259546,
+      "name": "Suzanne",
+      "url": "https://open.spotify.com/track/73Nr0OjKNWybcYvJXeO9nN"
+    },
+    {
+      "added_at": "2018-12-06 19:29:22",
+      "album": {
         "name": "Is Your Love Big Enough? (Deluxe Edition)",
         "url": "https://open.spotify.com/album/3S7PPQijoPQ8ASlHl6LsJ9"
       },
@@ -507,18 +507,18 @@
     {
       "added_at": "2018-12-06 19:29:22",
       "album": {
-        "name": "Just Like A Woman: Nina Simone Sings Classic Songs Of The '60s",
-        "url": "https://open.spotify.com/album/5iFgWpYe8TI36apXgwlJlR"
+        "name": "The Future",
+        "url": "https://open.spotify.com/album/7E4FRoU4Pk0WuO1SQMV1Bo"
       },
       "artists": [
         {
-          "name": "Nina Simone",
-          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
+          "name": "Leonard Cohen",
+          "url": "https://open.spotify.com/artist/5l8VQNuIg0turYE1VtM9zV"
         }
       ],
-      "duration_ms": 259546,
-      "name": "Suzanne",
-      "url": "https://open.spotify.com/track/73Nr0OjKNWybcYvJXeO9nN"
+      "duration_ms": 482493,
+      "name": "Always",
+      "url": "https://open.spotify.com/track/2gVIZoOxoTwSbkMwWkd2x8"
     },
     {
       "added_at": "2018-12-06 19:29:22",
@@ -617,22 +617,6 @@
       "url": "https://open.spotify.com/track/0wWuIseAsESzPDFPBYwkRs"
     },
     {
-      "added_at": "2018-12-06 19:29:22",
-      "album": {
-        "name": "Dear Heather",
-        "url": "https://open.spotify.com/album/2A2w7NSKKyAfDvwx6GEHEg"
-      },
-      "artists": [
-        {
-          "name": "Leonard Cohen",
-          "url": "https://open.spotify.com/artist/5l8VQNuIg0turYE1VtM9zV"
-        }
-      ],
-      "duration_ms": 245040,
-      "name": "Tennessee Waltz - Live at Montreux Jazz Festival",
-      "url": "https://open.spotify.com/track/2BhsSiyQdtY9xZt4Yq137J"
-    },
-    {
       "added_at": "2022-10-07 04:00:00",
       "album": {
         "name": "You Want It Darker",
@@ -667,6 +651,22 @@
       "duration_ms": 263466,
       "name": "In My Secret Life",
       "url": "https://open.spotify.com/track/6qwLJ7MfY235DPBO9PbGQL"
+    },
+    {
+      "added_at": "2018-12-06 19:29:22",
+      "album": {
+        "name": "Dear Heather",
+        "url": "https://open.spotify.com/album/2A2w7NSKKyAfDvwx6GEHEg"
+      },
+      "artists": [
+        {
+          "name": "Leonard Cohen",
+          "url": "https://open.spotify.com/artist/5l8VQNuIg0turYE1VtM9zV"
+        }
+      ],
+      "duration_ms": 245040,
+      "name": "Tennessee Waltz - Live at Montreux Jazz Festival",
+      "url": "https://open.spotify.com/track/2BhsSiyQdtY9xZt4Yq137J"
     }
   ],
   "unique_name": "Leonard Cohen: Covered",

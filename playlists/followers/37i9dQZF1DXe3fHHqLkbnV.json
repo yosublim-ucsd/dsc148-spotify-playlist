@@ -1,5 +1,5 @@
 {
-  "2024-03-20": 345409,
+  "2024-03-21": 345605,
   "date_first_scraped": "2022-04-22",
   "description": "The best easy rock from the 1990s. Cover: Bryan Adams.",
   "name": "90s Easy Rock",
@@ -287,7 +287,7 @@
       ],
       "date_added": "2020-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-20",
       "duration_ms": 225573,
       "name": "Cloud Number Nine",
       "url": "https://open.spotify.com/track/1sdz3nsrkX4Yo42KLPrmYV"
@@ -1119,7 +1119,7 @@
       ],
       "date_added": "2020-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-20",
       "duration_ms": 293586,
       "name": "Lucky Man",
       "url": "https://open.spotify.com/track/0bw1li9y32rw40HGodRShs"
@@ -1825,7 +1825,7 @@
       ],
       "date_added": "2020-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-19",
+      "date_removed": null,
       "duration_ms": 187849,
       "name": "Twenty One",
       "url": "https://open.spotify.com/track/3ZTO8o61SH2xmdVACrGaUk"
@@ -2041,7 +2041,7 @@
       ],
       "date_added": "2020-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 215533,
       "name": "You And Me",
       "url": "https://open.spotify.com/track/6jEcFhllWB0clBHFylomJZ"

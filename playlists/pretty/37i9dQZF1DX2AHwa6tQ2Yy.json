@@ -1,12 +1,12 @@
 {
   "description": "Let the music flow through you...",
-  "num_followers": 46933,
+  "num_followers": 46941,
   "original_name": "Soulful",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkYzc1NTBiZGVlZTY1MTNkOWY3ZGI2NGE0NDU2MmVlZjIyMzY0NDEx",
+  "snapshot_id": "MCxjNDczZjE5NjIxNmFkOTJkZDVhYmMyYWIxZDIyMTFiZGU5NGUxNDIw",
   "tracks": [
     {
       "added_at": "2024-03-14 20:40:35",
@@ -443,26 +443,6 @@
     {
       "added_at": "2024-03-14 20:40:35",
       "album": {
-        "name": "Free (feat. Tom Misch)",
-        "url": "https://open.spotify.com/album/4eoxzgxqIHsMd44siCY4lg"
-      },
-      "artists": [
-        {
-          "name": "Joel Culpepper",
-          "url": "https://open.spotify.com/artist/2PEsLlEk8HIw0NFPSENdQs"
-        },
-        {
-          "name": "Tom Misch",
-          "url": "https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye"
-        }
-      ],
-      "duration_ms": 234771,
-      "name": "Free (feat. Tom Misch)",
-      "url": "https://open.spotify.com/track/01wXY7C3ywHBMKmj3f31EB"
-    },
-    {
-      "added_at": "2024-03-14 20:40:35",
-      "album": {
         "name": "Summer Moon (feat. Kevin Kaarl)",
         "url": "https://open.spotify.com/album/3kdPIjFwMkIBCIsUqt3SrV"
       },
@@ -495,6 +475,26 @@
       "duration_ms": 255800,
       "name": "Distance",
       "url": "https://open.spotify.com/track/08W9Md8HXeJrx3omSQE2NF"
+    },
+    {
+      "added_at": "2024-03-14 20:40:35",
+      "album": {
+        "name": "Free (feat. Tom Misch)",
+        "url": "https://open.spotify.com/album/4eoxzgxqIHsMd44siCY4lg"
+      },
+      "artists": [
+        {
+          "name": "Joel Culpepper",
+          "url": "https://open.spotify.com/artist/2PEsLlEk8HIw0NFPSENdQs"
+        },
+        {
+          "name": "Tom Misch",
+          "url": "https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye"
+        }
+      ],
+      "duration_ms": 234771,
+      "name": "Free (feat. Tom Misch)",
+      "url": "https://open.spotify.com/track/01wXY7C3ywHBMKmj3f31EB"
     },
     {
       "added_at": "2024-03-14 20:40:35",
@@ -1067,22 +1067,6 @@
     {
       "added_at": "2024-03-14 20:40:35",
       "album": {
-        "name": "Tomorrow's Gonna Come",
-        "url": "https://open.spotify.com/album/7v8VvueBjcukRvpMU0wxF0"
-      },
-      "artists": [
-        {
-          "name": "Dojo Cuts",
-          "url": "https://open.spotify.com/artist/0Vd8YQz8TYk2vSKEYVvIgL"
-        }
-      ],
-      "duration_ms": 230920,
-      "name": "Falling in Love Again",
-      "url": "https://open.spotify.com/track/6N0ViJHgMFaUt5TGXQizmn"
-    },
-    {
-      "added_at": "2024-03-14 20:40:35",
-      "album": {
         "name": "Just Fine",
         "url": "https://open.spotify.com/album/3i18iObygAdcU1eRyYgK0A"
       },
@@ -1099,6 +1083,22 @@
     {
       "added_at": "2024-03-14 20:40:35",
       "album": {
+        "name": "Tomorrow's Gonna Come",
+        "url": "https://open.spotify.com/album/7v8VvueBjcukRvpMU0wxF0"
+      },
+      "artists": [
+        {
+          "name": "Dojo Cuts",
+          "url": "https://open.spotify.com/artist/0Vd8YQz8TYk2vSKEYVvIgL"
+        }
+      ],
+      "duration_ms": 230920,
+      "name": "Falling in Love Again",
+      "url": "https://open.spotify.com/track/6N0ViJHgMFaUt5TGXQizmn"
+    },
+    {
+      "added_at": "2024-03-14 20:40:35",
+      "album": {
         "name": "Soul,PRESENT",
         "url": "https://open.spotify.com/album/2s8DZtGWeWaLFLvBI38MM6"
       },
@@ -1111,6 +1111,22 @@
       "duration_ms": 186053,
       "name": "SOW",
       "url": "https://open.spotify.com/track/65zlOAreDi0nexSq6G33E2"
+    },
+    {
+      "added_at": "2024-03-14 20:40:35",
+      "album": {
+        "name": "Hold On",
+        "url": "https://open.spotify.com/album/3WWfApLKg76DOgntZABET6"
+      },
+      "artists": [
+        {
+          "name": "H.E.R.",
+          "url": "https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os"
+        }
+      ],
+      "duration_ms": 203214,
+      "name": "Hold On",
+      "url": "https://open.spotify.com/track/0zcRUprLKw7LtndkBurb3S"
     },
     {
       "added_at": "2024-03-14 20:40:35",
@@ -1147,22 +1163,6 @@
     {
       "added_at": "2024-03-14 20:40:35",
       "album": {
-        "name": "Hold On",
-        "url": "https://open.spotify.com/album/3WWfApLKg76DOgntZABET6"
-      },
-      "artists": [
-        {
-          "name": "H.E.R.",
-          "url": "https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os"
-        }
-      ],
-      "duration_ms": 203214,
-      "name": "Hold On",
-      "url": "https://open.spotify.com/track/0zcRUprLKw7LtndkBurb3S"
-    },
-    {
-      "added_at": "2024-03-14 20:40:35",
-      "album": {
         "name": "Spider",
         "url": "https://open.spotify.com/album/3AKp3KdtVVT0rwkfejvkj7"
       },
@@ -1179,22 +1179,18 @@
     {
       "added_at": "2024-03-14 20:40:35",
       "album": {
-        "name": "Most Wanted (Deluxe)",
-        "url": "https://open.spotify.com/album/46fxxm1oHMPzR51GElXrAt"
+        "name": "Til My Song Is Done",
+        "url": "https://open.spotify.com/album/6CmtgWsHIyzLaY6HOH7u4X"
       },
       "artists": [
         {
-          "name": "Jean Deaux",
-          "url": "https://open.spotify.com/artist/4JqpJeNOhP6bAkolNMLwFg"
-        },
-        {
-          "name": "Masego",
-          "url": "https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig"
+          "name": "Emma Donovan",
+          "url": "https://open.spotify.com/artist/1zq7VkmDHaXYNCqnNeJvLs"
         }
       ],
-      "duration_ms": 221538,
-      "name": "Ease Up",
-      "url": "https://open.spotify.com/track/4ykxlLzlR2B7OhpkPBMhUW"
+      "duration_ms": 274600,
+      "name": "Til My Song is Done",
+      "url": "https://open.spotify.com/track/6gC01enBKZMxtuJQiVi0eG"
     },
     {
       "added_at": "2024-03-14 20:40:35",

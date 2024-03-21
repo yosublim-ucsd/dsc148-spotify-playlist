@@ -4,7 +4,7 @@
 
 > beber gin em casa, nada melhor
 
-229 songs - 14 hr 11 min
+230 songs - 14 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -148,7 +148,8 @@
 | [love funk](https://open.spotify.com/track/4eZ1dhDAtpnWiSLGbcNQlY) | [fika](https://open.spotify.com/artist/4nJPiUgLhO1HcK13jBkAqX) | [love funk](https://open.spotify.com/album/1cLaSV0iENyHw5Glkfh7IB) | 3:57 | 2022-02-18 | 2022-07-29 |
 | [Love Me Right](https://open.spotify.com/track/2xWVD6aecDSHroyPVVcPpa) | [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu) | [Conexão \- EP](https://open.spotify.com/album/7ETN1PBhrsMl5U96fCCCvn) | 4:51 | 2022-03-25 | 2022-04-17 |
 | [Love Song \(feat\. Glasses\)](https://open.spotify.com/track/0fD6vPYWty2Jy4VVozWzfp) | [Kazy Lambist](https://open.spotify.com/artist/41Ue54Vb6iWx2dcdRCM6oH), [Glasses](https://open.spotify.com/artist/1aZqKXeEfZFRR4QvKvqi1g) | [33 000 FT.](https://open.spotify.com/album/1DP1CM6GndWiLkYKMudhek) | 2:50 | 2022-02-18 |  |
-| [Love's Train](https://open.spotify.com/track/60gTdTwaNtGAzIxKfeGVfJ) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [Silk Sonic](https://open.spotify.com/artist/6PvvGcCY2XtUcSRld1Wilr) | [Love's Train](https://open.spotify.com/album/6QKXGIgwWmWBMmIktMOchR) | 5:07 | 2022-02-18 |  |
+| [Love's Train](https://open.spotify.com/track/2JUQ7mV1AHk2owXLydmN4Z) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [Silk Sonic](https://open.spotify.com/artist/6PvvGcCY2XtUcSRld1Wilr) | [An Evening With Silk Sonic](https://open.spotify.com/album/1YgekJJTEueWDaMr7BYqPk) | 5:07 | 2023-12-08 |  |
+| [Love's Train](https://open.spotify.com/track/60gTdTwaNtGAzIxKfeGVfJ) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [Silk Sonic](https://open.spotify.com/artist/6PvvGcCY2XtUcSRld1Wilr) | [Love's Train](https://open.spotify.com/album/6QKXGIgwWmWBMmIktMOchR) | 5:07 | 2022-02-18 | 2024-03-21 |
 | [Loving You More](https://open.spotify.com/track/4nC2OKKEaCp6WsUaZETISE) | [Saux](https://open.spotify.com/artist/14bYCWgayimiNVMbO2HSrN), [Jeffrey James](https://open.spotify.com/artist/0Bm5cFUEv8FGx1wEekHj0D) | [Loving You More](https://open.spotify.com/album/5wPiZ36WbvnLmq2FhXmzSp) | 3:33 | 2022-02-18 | 2022-07-29 |
 | [Magia](https://open.spotify.com/track/4jMHWmtD14blSqbRhq2gjp) | [Monogem](https://open.spotify.com/artist/4rNzwpjkFq8A7SeCMKBkEV) | [Magia](https://open.spotify.com/album/2cs1QNUdl1o7r9wsZjWtf7) | 3:19 | 2022-03-25 | 2022-05-31 |
 | [Make It Better \(feat\. Smokey Robinson\)](https://open.spotify.com/track/4SBVWkRIMJ6WBCYPvr5Bwr) | [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [Smokey Robinson](https://open.spotify.com/artist/0h9smro0z3HqUbD94jotU8) | [Ventura](https://open.spotify.com/album/0YF8PfcGbsKg5IaFyPnlyY) | 3:39 | 2022-03-25 |  |

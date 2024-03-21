@@ -4,7 +4,7 @@
 
 > Modern heavenly sounds\. Cover: Caroline Polachek
 
-574 songs - 1 day 12 hr 0 min
+575 songs - 1 day 12 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -224,6 +224,7 @@
 | [Godspeed](https://open.spotify.com/track/34xTFwjPQ1dC6uJmleno7x) | [Frank Ocean](https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM) | [Blonde](https://open.spotify.com/album/3mH6qwIy9crq0I9YQbOuDf) | 2:57 | 2021-11-15 |  |
 | [Good As I Wanted](https://open.spotify.com/track/21M8SUR7G2U12TzGjsTOHZ) | [Art School Girlfriend](https://open.spotify.com/artist/3rtvvt1kuQ4luEWq8epaHD) | [Good As I Wanted](https://open.spotify.com/album/0w0s32RFHTDvL9nm9PZ0QD) | 4:42 | 2021-09-10 | 2022-07-26 |
 | [Good Days](https://open.spotify.com/track/3YJJjQPAbDT7mGpX3WtQ9A) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Good Days](https://open.spotify.com/album/781cKhbTPwLnPmo9BALQl7) | 4:39 | 2021-06-03 | 2023-09-30 |
+| [Good Torture \(with Elyanna\)](https://open.spotify.com/track/3s29qreJr2KU7BFSiDtw0U) | [Sevdaliza](https://open.spotify.com/artist/5MraexJKZDrQYzS98kNwie), [Elyanna](https://open.spotify.com/artist/0jIWKlfmD4Ew7HeVVrq03g) | [Good Torture \(with Elyanna\)](https://open.spotify.com/album/5xhbojvUylmbWTsaCgISZr) | 3:20 | 2024-03-15 |  |
 | [Gospel For A New Century](https://open.spotify.com/track/46LX0sSwIU4GFLcj23ZfMA) | [Yves Tumor](https://open.spotify.com/artist/0qu422H5MOoQxGjd4IzHbS) | [Heaven To A Tortured Mind](https://open.spotify.com/album/5wnCTZtzIZxasRSHzI1JeW) | 3:18 | 2021-06-03 | 2022-04-23 |
 | [Greatest Hits](https://open.spotify.com/track/5eWKybWrLV0JyI2rU0NfA1) | [Jockstrap](https://open.spotify.com/artist/6S3Z6Me30mtdm526H17v8k) | [I Love You Jennifer B](https://open.spotify.com/album/4YFlC5Abaj48ERwaOPfpu8) | 4:27 | 2022-09-09 | 2022-10-23 |
 | [GRIP](https://open.spotify.com/track/4FN724DOM2qlNd28eTeKPe) | [Tei Shi](https://open.spotify.com/artist/1xcMOgFUM1IYZE22YjCvsL) | [GRIP](https://open.spotify.com/album/2u8F8TMe4NRvNltYFjgMFI) | 3:25 | 2022-07-15 | 2022-07-26 |
@@ -347,7 +348,7 @@
 | [moment](https://open.spotify.com/track/5K9tfeoiztw94dyWzF39jq) | [Vierre Cloud](https://open.spotify.com/artist/31ijgiurmIPTNojkYQXdnl) | [moment](https://open.spotify.com/album/4FehFP4tVEFyT75LCTHl7m) | 2:09 | 2021-06-03 | 2022-04-20 |
 | [Moon](https://open.spotify.com/track/7CC6UbCs4iGsePSzFxYxNn) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Donda](https://open.spotify.com/album/5CnpZV3q5BcESefcB3WJmz) | 2:36 | 2021-11-15 | 2022-11-19 |
 | [Morning Dew](https://open.spotify.com/track/4IU9uyvBToh2mtFEyiAdGk) | [Kelsey Lu](https://open.spotify.com/artist/0fEfMW5bypHZ0A8eLnhwj5) | [Morning Dew](https://open.spotify.com/album/5kCdO1hqtUSmO1LFFw3izp) | 4:34 | 2021-06-03 | 2022-07-29 |
-| [Movies](https://open.spotify.com/track/6f4itfvWzS59Qu7JWorhxn) | [Weyes Blood](https://open.spotify.com/artist/3Uqu1mEdkUJxPe7s31n1M9) | [Titanic Rising](https://open.spotify.com/album/0Cuqhgy8vm96JEkBY3polk) | 5:53 | 2021-06-03 |  |
+| [Movies](https://open.spotify.com/track/6f4itfvWzS59Qu7JWorhxn) | [Weyes Blood](https://open.spotify.com/artist/3Uqu1mEdkUJxPe7s31n1M9) | [Titanic Rising](https://open.spotify.com/album/0Cuqhgy8vm96JEkBY3polk) | 5:53 | 2021-06-03 | 2024-03-21 |
 | [Multiply](https://open.spotify.com/track/0snbwXpGlnIFHbUogLZUsP) | [Dora Jar](https://open.spotify.com/artist/4V30Q8ACPdJCcAmAYibfrH) | [Multiply](https://open.spotify.com/album/4RFqKxDDXCOukzy2RzTmDZ) | 2:16 | 2021-06-03 | 2022-04-23 |
 | [Multiply](https://open.spotify.com/track/7epHw01JrUjS1kKdxdENTE) | [Dora Jar](https://open.spotify.com/artist/4V30Q8ACPdJCcAmAYibfrH) | [Digital Meadow](https://open.spotify.com/album/1Hs5SAioUMz5JA1qw8zrmZ) | 2:16 | 2022-06-03 | 2022-07-29 |
 | [My Friend](https://open.spotify.com/track/1HaiuKlLZqB1J1od7sqGhc) | [kelz](https://open.spotify.com/artist/5hb3nmzCwPz0GRlLQuAJJw) | [5am and I Can't Sleep](https://open.spotify.com/album/6J6UNR6FsyzDamCimQC9W6) | 5:27 | 2022-05-20 | 2022-06-19 |

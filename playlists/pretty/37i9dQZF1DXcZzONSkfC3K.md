@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcZzONSkfC3K.md) - [plain]
 
 > Salsa que representa Puerto Rico\. Portada: El Gran Combo De Puerto Rico
 
-[Spotify](https://open.spotify.com/user/spotify) - 148,221 likes - 50 songs - 4 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 148,262 likes - 50 songs - 4 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcZzONSkfC3K.md) - [plain]
 | 29 | [Aparentemente \- En Vivo](https://open.spotify.com/track/07gAN8AX9sxHolRg9MtFqW) | [Tony Vega](https://open.spotify.com/artist/3Yg61bt7pZYX1bbMXEj8oY) | [En Concierto](https://open.spotify.com/album/3Gdp5KnCKrIDAfbgvM7N2b) | 7:29 |
 | 30 | [El Menú](https://open.spotify.com/track/734AX6t02v4SNG1bkhNxT9) | [El Gran Combo De Puerto Rico](https://open.spotify.com/artist/6nnspeopmJAG07xOxHmqTu) | [20th Anniversary](https://open.spotify.com/album/3pYgBhT551TztQNYbXqB26) | 4:12 |
 | 31 | [Que Se Sepa](https://open.spotify.com/track/2mNLwOxMnm0TxXJBF1y5Ln) | [Roberto Roena Y Su Apollo Sound](https://open.spotify.com/artist/0KdPDmQhHxBKsHNsQuh5ry) | [Apollo Sound 5](https://open.spotify.com/album/2wI2dJforjcPADfSye1yhS) | 3:16 |
-| 32 | [Esta Vida \(Salsa Version\)](https://open.spotify.com/track/0n8VlY0qW2PfB1Zhqzqivv) | [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO), [Marlon](https://open.spotify.com/artist/5GY60Dz06uzkjHJmBmktDZ) | [Esta Vida \(Salsa Version\)](https://open.spotify.com/album/4qGv61V2lP2vTKuWisVcGY) | 3:43 |
-| 33 | [El Rey de la Puntualidad](https://open.spotify.com/track/1nO0s5M8vA6qY70XHZcgmY) | [Fania All Stars](https://open.spotify.com/artist/1OdyhpUABf8avaZ9r8nI1u) | [A Band And Their Music: Campeones](https://open.spotify.com/album/4qKhAuom2JYxGkVw8fzFbp) | 6:45 |
+| 32 | [El Rey de la Puntualidad](https://open.spotify.com/track/1nO0s5M8vA6qY70XHZcgmY) | [Fania All Stars](https://open.spotify.com/artist/1OdyhpUABf8avaZ9r8nI1u) | [A Band And Their Music: Campeones](https://open.spotify.com/album/4qKhAuom2JYxGkVw8fzFbp) | 6:45 |
+| 33 | [Esta Vida \(Salsa Version\)](https://open.spotify.com/track/0n8VlY0qW2PfB1Zhqzqivv) | [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO), [Marlon](https://open.spotify.com/artist/5GY60Dz06uzkjHJmBmktDZ) | [Esta Vida \(Salsa Version\)](https://open.spotify.com/album/4qGv61V2lP2vTKuWisVcGY) | 3:43 |
 | 34 | [Tengo Ganas](https://open.spotify.com/track/0gVmUkRX09cY5uNPSI74JC) | [Víctor Manuelle](https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2) | [Historia De Un Sonero](https://open.spotify.com/album/1v1eJiZh9virmkSaMeMwi4) | 4:26 |
 | 35 | [Mi Ritmo Es Bueno](https://open.spotify.com/track/5hSGXZRFbpKLbxyBXRKoye) | [Bobby Valentin](https://open.spotify.com/artist/7nJ3uKCT4lPwDJSRZzBlss) | [Rey del Bajo](https://open.spotify.com/album/5I1FDwQtq5bG1QXcRJBsb6) | 5:46 |
 | 36 | [Fuego A La Jicotea](https://open.spotify.com/track/4Q0uMeNsbChj1IbETdMQZ7) | [Marvin Santiago](https://open.spotify.com/artist/76h2ycGFYaAFYQgqdoOvVE) | [Serie Sensacional: Marvin Santiago](https://open.spotify.com/album/12zr5m4jJdGQuRubJNeaGN) | 3:21 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcZzONSkfC3K.md) - [plain]
 | 49 | [Desnúdate](https://open.spotify.com/track/3lAPRVmezONEzjHgzOvh5m) | [Zion & Lennox](https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1) | [Desnúdate](https://open.spotify.com/album/5uLpJ330k49clXLzxyhHrf) | 3:51 |
 | 50 | [Ese Hombre](https://open.spotify.com/track/3vFxhY2ejPkBPPI8tTFB1V) | [LA INDIA](https://open.spotify.com/artist/3NIZFmehJM8YiGpCdihlck) | [Serie Cinco Estrellas](https://open.spotify.com/album/0ks7E1ySIVQfx0Gle8zqqb) | 4:39 |
 
-Snapshot ID: `MCw5OWQ3NDhhOGFkMWQxMGZiZThjYjhmNDc2Yjc0MDYxZTJhYjU3ZWVk`
+Snapshot ID: `MCwxMDYzOGEwNGQ5YzkwNGNkNzgzMTYyM2Y3NDc2NTJhOWQ4YTk3ZWEz`

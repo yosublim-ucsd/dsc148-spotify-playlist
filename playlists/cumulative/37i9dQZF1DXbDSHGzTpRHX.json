@@ -164,7 +164,7 @@
       ],
       "date_added": "2019-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-21",
       "duration_ms": 157867,
       "name": "Breathe",
       "url": "https://open.spotify.com/track/1VvsPJMas06GEwf5NLV1vw"
@@ -186,6 +186,24 @@
       "duration_ms": 157867,
       "name": "Breathe",
       "url": "https://open.spotify.com/track/5kLIYCtwwjG2ykmF1DbZxY"
+    },
+    {
+      "album": {
+        "name": "Pop for Sleep",
+        "url": "https://open.spotify.com/album/697rD6oNMNcsssZsAv9qmu"
+      },
+      "artists": [
+        {
+          "name": "Catie Turner",
+          "url": "https://open.spotify.com/artist/3nYYI90ObxhjLjdxaoXGSa"
+        }
+      ],
+      "date_added": "2019-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157867,
+      "name": "Breathe",
+      "url": "https://open.spotify.com/track/6EsaVcJjTUOTbXou9L2XGu"
     },
     {
       "album": {

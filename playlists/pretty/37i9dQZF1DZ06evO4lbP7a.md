@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4lbP7a.md) - [plain]
 
 > This is yama\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,784 likes - 50 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,796 likes - 50 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,11 +34,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4lbP7a.md) - [plain]
 | 24 | [真っ白](https://open.spotify.com/track/1m0RfmsLgUUf0AB1zyObXc) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [真っ白](https://open.spotify.com/album/1X3vFDKaJJjQxQ2i21dBh8) | 4:47 |
 | 25 | [パレットは透明](https://open.spotify.com/track/25e3Pxxt0G1KGvMbYelQMG) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [パレットは透明](https://open.spotify.com/album/23xlWGbhuph9wClaYZqbPg) | 3:17 |
 | 26 | [クリーム](https://open.spotify.com/track/6q2anED2iLMVW1XvdZx5pQ) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [クリーム](https://open.spotify.com/album/4JX57Yo9ACKXP8v1ZW2KRo) | 3:38 |
-| 27 | [希望論](https://open.spotify.com/track/4ivrdKOEXXGiRIApiD7rII) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [the meaning of life](https://open.spotify.com/album/0d6nIBB385TVBIcsa5x4ZD) | 4:34 |
+| 27 | [Sleepless Night](https://open.spotify.com/track/4QudMialF8Y73NNyCdDD0G) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [the meaning of life](https://open.spotify.com/album/0d6nIBB385TVBIcsa5x4ZD) | 4:18 |
 | 28 | [日々](https://open.spotify.com/track/6jyICrPc6z8U3boQyQdPoE) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [awake＆build](https://open.spotify.com/album/5NUmKoBd8311WrvDx3UFLT) | 3:21 |
 | 29 | [桃源郷](https://open.spotify.com/track/3XpV0yCZRizTsCMEIkxZVm) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [桃源郷](https://open.spotify.com/album/6aO1Ot1JoA9TPH73qX7ejE) | 3:48 |
 | 30 | [モンスター \(feat\. yama\)](https://open.spotify.com/track/09gBx310Z7KnMI5LdB3fDl) | [Genie High](https://open.spotify.com/artist/1NdpjvRYsY6cwAVX9YWzAB), [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [モンスター \(feat\. yama\)](https://open.spotify.com/album/4EQUcmmhgMy6Aolbr4UdPL) | 4:23 |
-| 31 | [Sleepless Night](https://open.spotify.com/track/4QudMialF8Y73NNyCdDD0G) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [the meaning of life](https://open.spotify.com/album/0d6nIBB385TVBIcsa5x4ZD) | 4:18 |
+| 31 | [希望論](https://open.spotify.com/track/4ivrdKOEXXGiRIApiD7rII) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [the meaning of life](https://open.spotify.com/album/0d6nIBB385TVBIcsa5x4ZD) | 4:34 |
 | 32 | [あるいは映画のような](https://open.spotify.com/track/76XAwMxmnJexw1NJXOyjsg) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [あるいは映画のような](https://open.spotify.com/album/5w0yCWXWP4nT7AwvHltBE9) | 4:01 |
 | 33 | [世界は美しいはずなんだ](https://open.spotify.com/track/5eOEqeLIkfbj6lFQ7a4mmZ) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [Oz\. / 世界は美しいはずなんだ / スモーキーヒロイン](https://open.spotify.com/album/4fMCXT5qH5jgPmYTpPVSIf) | 3:46 |
 | 34 | [灰炎](https://open.spotify.com/track/48glzmmGamFQ5qZeTdWrGb) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv), [cinema staff](https://open.spotify.com/artist/5upXI71QNPjLwir1YZgKEx) | [awake＆build](https://open.spotify.com/album/5NUmKoBd8311WrvDx3UFLT) | 3:26 |
@@ -46,17 +46,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4lbP7a.md) - [plain]
 | 36 | [ライカ](https://open.spotify.com/track/5uUB3W0R5M3dh3iXLPsiK7) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [Versus the night](https://open.spotify.com/album/4R8cMdxOUDbHaHvwjEluEq) | 3:25 |
 | 37 | [名前のない日々へ](https://open.spotify.com/track/50Bpk00qoU0kibpHNWgPjP) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [名前のない日々へ](https://open.spotify.com/album/3JdoGesd5RkeiraCoNgroP) | 3:36 |
 | 38 | [Downtown](https://open.spotify.com/track/3nQ0KEIfiXpO7CaawPcMrL) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [Downtown](https://open.spotify.com/album/2rbYW032hNHIaUuVfMSnMD) | 3:28 |
-| 39 | [陽だまり](https://open.spotify.com/track/6AE3QlMBz7KcoQKG8LXfIh) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [awake＆build](https://open.spotify.com/album/5NUmKoBd8311WrvDx3UFLT) | 5:13 |
+| 39 | [春を告げる \- From THE FIRST TAKE](https://open.spotify.com/track/0QDjYBER1ZqISxA2Gc0cJe) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [春を告げる \- From THE FIRST TAKE](https://open.spotify.com/album/61OTGf8KiylPy39lihGoUs) | 5:00 |
 | 40 | [ないの。](https://open.spotify.com/track/3Q54nMCZWAZnw0sxff9oVh) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [Versus the night](https://open.spotify.com/album/4R8cMdxOUDbHaHvwjEluEq) | 4:00 |
-| 41 | [春を告げる \- From THE FIRST TAKE](https://open.spotify.com/track/0QDjYBER1ZqISxA2Gc0cJe) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [春を告げる \- From THE FIRST TAKE](https://open.spotify.com/album/61OTGf8KiylPy39lihGoUs) | 5:00 |
+| 41 | [陽だまり](https://open.spotify.com/track/6AE3QlMBz7KcoQKG8LXfIh) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [awake＆build](https://open.spotify.com/album/5NUmKoBd8311WrvDx3UFLT) | 5:13 |
 | 42 | [新星](https://open.spotify.com/track/4dwRjaD0ttkelpv5eoE6RT) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [色彩](https://open.spotify.com/album/4PKAlSU3CWtWeTsPwo9wQ9) | 3:16 |
-| 43 | [イノセント](https://open.spotify.com/track/76gLNwSDLHSq0KdpOC86SS) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [awake＆build](https://open.spotify.com/album/5NUmKoBd8311WrvDx3UFLT) | 4:02 |
-| 44 | [天色](https://open.spotify.com/track/2ug8mDoQnwu4EaU7wVSd6W) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [the meaning of life](https://open.spotify.com/album/0d6nIBB385TVBIcsa5x4ZD) | 4:00 |
-| 45 | [タルト](https://open.spotify.com/track/130eybbEhnHRlKBJK9N4TR) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [麻痺](https://open.spotify.com/album/2xrjmxY15z5drRavtSB07f) | 3:12 |
+| 43 | [天色](https://open.spotify.com/track/2ug8mDoQnwu4EaU7wVSd6W) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [the meaning of life](https://open.spotify.com/album/0d6nIBB385TVBIcsa5x4ZD) | 4:00 |
+| 44 | [タルト](https://open.spotify.com/track/130eybbEhnHRlKBJK9N4TR) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [麻痺](https://open.spotify.com/album/2xrjmxY15z5drRavtSB07f) | 3:12 |
+| 45 | [イノセント](https://open.spotify.com/track/76gLNwSDLHSq0KdpOC86SS) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [awake＆build](https://open.spotify.com/album/5NUmKoBd8311WrvDx3UFLT) | 4:02 |
 | 46 | [ランニングアウト](https://open.spotify.com/track/2O69Nb7qeYxaJFtZNuTZsR) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [ランニングアウト](https://open.spotify.com/album/0Dku1OpQxwAbV7SJFeSn0w) | 4:03 |
-| 47 | [独白](https://open.spotify.com/track/07AGBVcxuI8hSTvBEtvWou) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [awake＆build](https://open.spotify.com/album/5NUmKoBd8311WrvDx3UFLT) | 3:54 |
-| 48 | [スモーキーヒロイン](https://open.spotify.com/track/7pSYlsa0hdDwDoB8thZj8q) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [Oz\. / 世界は美しいはずなんだ / スモーキーヒロイン](https://open.spotify.com/album/4fMCXT5qH5jgPmYTpPVSIf) | 4:16 |
-| 49 | [slash（Anime Ver.）](https://open.spotify.com/track/6caEpxe0Pqu0z1dmuxH4VG) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [slash](https://open.spotify.com/album/3X5gMAOWqzq4Aouj3Dy1FO) | 1:32 |
+| 47 | [スモーキーヒロイン](https://open.spotify.com/track/7pSYlsa0hdDwDoB8thZj8q) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [Oz\. / 世界は美しいはずなんだ / スモーキーヒロイン](https://open.spotify.com/album/4fMCXT5qH5jgPmYTpPVSIf) | 4:16 |
+| 48 | [slash（Anime Ver.）](https://open.spotify.com/track/6caEpxe0Pqu0z1dmuxH4VG) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [slash](https://open.spotify.com/album/3X5gMAOWqzq4Aouj3Dy1FO) | 1:32 |
+| 49 | [独白](https://open.spotify.com/track/07AGBVcxuI8hSTvBEtvWou) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [awake＆build](https://open.spotify.com/album/5NUmKoBd8311WrvDx3UFLT) | 3:54 |
 | 50 | [寝れない夜に](https://open.spotify.com/track/2CuTFXDSN9xke0mS2ezywb) | [whaledontsleep](https://open.spotify.com/artist/5lEzAveEBteB85UVvKTanp), [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [寝れない夜にカーテンをあけて](https://open.spotify.com/album/4b7w62nMDJVeJs9AgffFgB) | 5:20 |
 
-Snapshot ID: `Mjg1MTQxOTUsMDAwMDAwMDA2OTI1M2VkOTFkOWFjYTZmYWJjZDlhNDliZDNmOWNkNg==`
+Snapshot ID: `Mjg1MTU2NjEsMDAwMDAwMDA0YzQ3ZjA1OWQ5YjU2Y2RmNWE3ODBhMTJiYzgyMDY5MQ==`

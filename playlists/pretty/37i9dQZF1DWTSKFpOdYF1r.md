@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTSKFpOdYF1r.md) - [plain]
 
 > The songs that defined the other side of the 80s\. Cover: Kate Bush
 
-[Spotify](https://open.spotify.com/user/spotify) - 954,641 likes - 80 songs - 5 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 954,780 likes - 80 songs - 5 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,9 +25,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTSKFpOdYF1r.md) - [plain]
 | 15 | [Love Will Tear Us Apart \- 2020 Remaster](https://open.spotify.com/track/34iOH7LY3vme5rQxsVILZ4) | [Joy Division](https://open.spotify.com/artist/432R46LaYsJZV2Gmc4jUV5) | [Love Will Tear Us Apart](https://open.spotify.com/album/0u0CJa9zwFbGSU8JWQYS5G) | 3:28 |
 | 16 | [Sea, Swallow Me](https://open.spotify.com/track/7vPHiwgCOAjSBRjAirbMvS) | [Cocteau Twins](https://open.spotify.com/artist/5Wabl1lPdNOeIn0SQ5A1mp), [Harold Budd](https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl) | [The Moon and the Melodies](https://open.spotify.com/album/5v2I3i4RPD8T1XV0pjvPNo) | 3:09 |
 | 17 | [Love Buzz](https://open.spotify.com/track/5muVpPu8Fj9fXfDbbqDdrZ) | [Nirvana](https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh) | [Bleach](https://open.spotify.com/album/1KVGLuPtrMrLlyy4Je6df7) | 3:35 |
-| 18 | [It's My Life \- 1997 Remaster](https://open.spotify.com/track/4jhsuQCUCJKA5f0bXb6XdJ) | [Talk Talk](https://open.spotify.com/artist/7Fo8TAyGJr4VmhE68QamMf) | [It's My Life](https://open.spotify.com/album/152Hw6E0tNz3EQNq9c1CDf) | 3:52 |
+| 18 | [Modern Love \- 2018 Remaster](https://open.spotify.com/track/3gxEZXUjrNbl3TlSrTGbR5) | [David Bowie](https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy) | [Let's Dance \(2018 Remaster\)](https://open.spotify.com/album/4NwG11AsDJluT732lSjMrV) | 4:48 |
 | 19 | [Bigmouth Strikes Again \- 2011 Remaster](https://open.spotify.com/track/2OErSh4oVVAUll0vHxdr6p) | [The Smiths](https://open.spotify.com/artist/3yY2gUcIsjMr8hjo51PoJ8) | [The Queen Is Dead](https://open.spotify.com/album/5Y0p2XCgRRIjna91aQE8q7) | 3:13 |
-| 20 | [Modern Love \- 2018 Remaster](https://open.spotify.com/track/3gxEZXUjrNbl3TlSrTGbR5) | [David Bowie](https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy) | [Let's Dance \(2018 Remaster\)](https://open.spotify.com/album/4NwG11AsDJluT732lSjMrV) | 4:48 |
+| 20 | [It's My Life \- 1997 Remaster](https://open.spotify.com/track/4jhsuQCUCJKA5f0bXb6XdJ) | [Talk Talk](https://open.spotify.com/artist/7Fo8TAyGJr4VmhE68QamMf) | [It's My Life](https://open.spotify.com/album/152Hw6E0tNz3EQNq9c1CDf) | 3:52 |
 | 21 | [Call Me](https://open.spotify.com/track/7HKxTNVlkHsfMLhigmhC0I) | [Blondie](https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB) | [Call Me](https://open.spotify.com/album/18fOLsMG8Msf1DEaW0E71K) | 3:32 |
 | 22 | [Just like Heaven](https://open.spotify.com/track/76GlO5H5RT6g7y0gev86Nk) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Kiss Me, Kiss Me, Kiss Me](https://open.spotify.com/album/37Q22g0n9PzBLX6lNddrIa) | 3:32 |
 | 23 | [Golden Brown](https://open.spotify.com/track/2AX5E86cn9n2dgioZEjirI) | [The Stranglers](https://open.spotify.com/artist/0RUEHcBiENFEqxgicqS2ig) | [La Folie](https://open.spotify.com/album/3bosyDPGOYmLnwMNhU06Rx) | 3:26 |
@@ -66,8 +66,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTSKFpOdYF1r.md) - [plain]
 | 56 | [The Killing Moon](https://open.spotify.com/track/15049rGLXHwrWtE4euUb5C) | [Echo & the Bunnymen](https://open.spotify.com/artist/0fgYKF9Avljex0L9Wt5b8Z) | [Songs to Learn & Sing](https://open.spotify.com/album/0VYyqjM5H2sXj6z8ocAyjb) | 5:46 |
 | 57 | [Voices Carry](https://open.spotify.com/track/0ZYf6N5eBeXStMri0mf3DZ) | ['Til Tuesday](https://open.spotify.com/artist/1L0y9srZMyh9XUnYGv37IP) | [Voices Carry \(Expanded Edition\)](https://open.spotify.com/album/1y4s0JN8CQMRwPTJ64jCUp) | 4:23 |
 | 58 | [A Forest \- 2006 Remaster](https://open.spotify.com/track/3O4TPMOgChXOerSdB5WENH) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Seventeen Seconds \(Deluxe Edition\)](https://open.spotify.com/album/1T7A6Dt7KktX7pOw4I4Jzj) | 5:54 |
-| 59 | [I Will Follow \- Remastered 2008](https://open.spotify.com/track/0T702y9ndzZTnPq1bqiAM2) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [Boy \(Deluxe Edition Remastered\)](https://open.spotify.com/album/4YCjEFs1aDmcilTMbqMwjY) | 3:37 |
-| 60 | [And We Danced](https://open.spotify.com/track/5xkNd7kCRmjT2DxSAYVVyC) | [The Hooters](https://open.spotify.com/artist/7uhvDINTTiD0XBrP9fquN1) | [Super Hits](https://open.spotify.com/album/5Sh5gjCOggbEb2kMIFKHHo) | 3:47 |
+| 59 | [And We Danced](https://open.spotify.com/track/5xkNd7kCRmjT2DxSAYVVyC) | [The Hooters](https://open.spotify.com/artist/7uhvDINTTiD0XBrP9fquN1) | [Super Hits](https://open.spotify.com/album/5Sh5gjCOggbEb2kMIFKHHo) | 3:47 |
+| 60 | [I Will Follow \- Remastered 2008](https://open.spotify.com/track/0T702y9ndzZTnPq1bqiAM2) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [Boy \(Deluxe Edition Remastered\)](https://open.spotify.com/album/4YCjEFs1aDmcilTMbqMwjY) | 3:37 |
 | 61 | [Gigantic \- Remastered](https://open.spotify.com/track/5G2g1EbEtFSMkMbAnhl7FV) | [Pixies](https://open.spotify.com/artist/6zvul52xwTWzilBZl6BUbT) | [Surfer Rosa](https://open.spotify.com/album/50j4Wm1b9hLpSpPIA39Vp9) | 3:55 |
 | 62 | [Rip It Up](https://open.spotify.com/track/7y4CtoXHFbs8VgcqbaYb9P) | [Orange Juice](https://open.spotify.com/artist/2u7xZP39dtED9EuRX9MUwu) | [Rip It Up](https://open.spotify.com/album/0kyKdRPKFDn8cATzWkFAsO) | 5:20 |
 | 63 | [Hounds Of Love](https://open.spotify.com/track/6jWx7mD5oblxybTaWpiPZN) | [Kate Bush](https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL) | [Hounds Of Love](https://open.spotify.com/album/5G5UwqPsxDKpxJLX4xsyuh) | 3:03 |
@@ -82,11 +82,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTSKFpOdYF1r.md) - [plain]
 | 72 | [Are 'Friends' Electric? \- 1998 Remaster](https://open.spotify.com/track/3xfOF1wyjUZocifZ5WLeFx) | [Tubeway Army](https://open.spotify.com/artist/6SXZyMIzYNNfZ3NFQc3vtv) | [Replicas \(1998 Remaster\)](https://open.spotify.com/album/14chsctrt7Rx38fQUbfqFz) | 5:23 |
 | 73 | [Blue Monday '88 \- 2015 Remaster](https://open.spotify.com/track/3PQEaRs2JEwtk79IqbQYt1) | [New Order](https://open.spotify.com/artist/0yNLKJebCb8Aueb54LYya3) | [Singles \(2016 Remaster\)](https://open.spotify.com/album/2ODAEaYlqS88SU4ZZu1bI6) | 4:11 |
 | 74 | [Love Action \(I Believe In Love\)](https://open.spotify.com/track/5RBPXlIiZVrr8hab7LpRJB) | [The Human League](https://open.spotify.com/artist/1aX2dmV8XoHYCOQRxjPESG) | [Dare!](https://open.spotify.com/album/3ls7tE9D2SIvjTmRuEtsQY) | 5:01 |
-| 75 | [Just Like Honey](https://open.spotify.com/track/1CapNlKgeOWlBEE54CRamd) | [The Jesus and Mary Chain](https://open.spotify.com/artist/4rjlerN21ygkIhmUv55irs) | [Psychocandy](https://open.spotify.com/album/0PnzJO3D4i85ALVJPaDpru) | 3:01 |
-| 76 | [Dear God \- Remastered 2001](https://open.spotify.com/track/6nFdjV1Ko66O111x74K2kn) | [XTC](https://open.spotify.com/artist/2qT62DYO8Ajb276vUJmvhz) | [Skylarking](https://open.spotify.com/album/3FVsJiQMI7dp0RfTBdWtMW) | 3:39 |
+| 75 | [Dear God \- Remastered 2001](https://open.spotify.com/track/6nFdjV1Ko66O111x74K2kn) | [XTC](https://open.spotify.com/artist/2qT62DYO8Ajb276vUJmvhz) | [Skylarking](https://open.spotify.com/album/3FVsJiQMI7dp0RfTBdWtMW) | 3:39 |
+| 76 | [Just Like Honey](https://open.spotify.com/track/1CapNlKgeOWlBEE54CRamd) | [The Jesus and Mary Chain](https://open.spotify.com/artist/4rjlerN21ygkIhmUv55irs) | [Psychocandy](https://open.spotify.com/album/0PnzJO3D4i85ALVJPaDpru) | 3:01 |
 | 77 | [Crash](https://open.spotify.com/track/4tPHC7YsU3LInUYcIe2UIi) | [The Primitives](https://open.spotify.com/artist/4FPmAi3p4T3p0AsthfqHMA) | [Lovely](https://open.spotify.com/album/7dkhewp2B3L7YNsUp9u5GR) | 2:31 |
 | 78 | [Alternative Ulster](https://open.spotify.com/track/2yE3bwbhqypdsuhmv48Svn) | [Stiff Little Fingers](https://open.spotify.com/artist/2bt3I0VkmYuPvP57sxokab) | [Inflammable Material](https://open.spotify.com/album/2uXYm7SqdQlOgrx2FEWlkD) | 2:43 |
 | 79 | [Everyday Is Like Sunday \- 2011 Remaster](https://open.spotify.com/track/0lVdukU9ejbFQwZIhg47hx) | [Morrissey](https://open.spotify.com/artist/3iTsJGG39nMg9YiolUgLMQ) | [Viva Hate \(2014 Remaster\)](https://open.spotify.com/album/0s5wo4mTZ5bJAgqiPBO3ou) | 3:35 |
 | 80 | [99 Red Balloons](https://open.spotify.com/track/2bdcFXS61ey6x6Y1andx0F) | [Nena](https://open.spotify.com/artist/6Tz0QRoe083BcOo2YbG9lV) | [99 Luftballons](https://open.spotify.com/album/37XWs0ueFzqSRLeNV9zZMC) | 3:50 |
 
-Snapshot ID: `MCwxZWU4MDEzMGNiZWUzY2FhZTMxZDRhMWY5NDg3YTlkOTAyMGRkYTUy`
+Snapshot ID: `MCxhNzVkYTkyZThkZDY4ZWFkNjhmNDMwZjFiZTczMWJkOGI3NzEyNzQy`

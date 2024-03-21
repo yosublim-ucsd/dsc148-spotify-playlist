@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2AHwa6tQ2Yy.md) - [plain]
 
 > Let the music flow through you...
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,933 likes - 70 songs - 4 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,941 likes - 70 songs - 4 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,9 +33,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2AHwa6tQ2Yy.md) - [plain]
 | 23 | [Ride or Die](https://open.spotify.com/track/6KNV6L3b7beomEUnzWgw0X) | [Durand Jones & The Indications](https://open.spotify.com/artist/6TVVIyd0fsRDGg6WzHKyTP), [Aaron Frazer](https://open.spotify.com/artist/4dwDVC6lrMINxVBxETE1AB) | [Private Space](https://open.spotify.com/album/3nZHH9trTO9xrV1XrW18cW) | 4:14 |
 | 24 | [The Hardest Part](https://open.spotify.com/track/0pNj0uRTx5mhi7kID26oiH) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [The Hardest Part](https://open.spotify.com/album/588h8UhIeAqmWsN7zo9mtA) | 2:56 |
 | 25 | [When We Were Younger \(feat\. Cavetown\)](https://open.spotify.com/track/7dlkFdNPITZL1OAWQ1fqOm) | [grentperez](https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe), [Cavetown](https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8) | [When We Were Younger \(feat\. Cavetown\)](https://open.spotify.com/album/0nYhWc5ZvFPrfHAq6a08yh) | 3:54 |
-| 26 | [Free \(feat\. Tom Misch\)](https://open.spotify.com/track/01wXY7C3ywHBMKmj3f31EB) | [Joel Culpepper](https://open.spotify.com/artist/2PEsLlEk8HIw0NFPSENdQs), [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye) | [Free \(feat\. Tom Misch\)](https://open.spotify.com/album/4eoxzgxqIHsMd44siCY4lg) | 3:54 |
-| 27 | [Summer Moon \(feat\. Kevin Kaarl\)](https://open.spotify.com/track/2dNGIZvZF71AR72OHpo3CE) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x), [Kevin Kaarl](https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE) | [Summer Moon \(feat\. Kevin Kaarl\)](https://open.spotify.com/album/3kdPIjFwMkIBCIsUqt3SrV) | 2:57 |
-| 28 | [Distance](https://open.spotify.com/track/08W9Md8HXeJrx3omSQE2NF) | [Yebba](https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F) | [Distance](https://open.spotify.com/album/5CMAmUz6cXCAyOutxsyYXC) | 4:15 |
+| 26 | [Summer Moon \(feat\. Kevin Kaarl\)](https://open.spotify.com/track/2dNGIZvZF71AR72OHpo3CE) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x), [Kevin Kaarl](https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE) | [Summer Moon \(feat\. Kevin Kaarl\)](https://open.spotify.com/album/3kdPIjFwMkIBCIsUqt3SrV) | 2:57 |
+| 27 | [Distance](https://open.spotify.com/track/08W9Md8HXeJrx3omSQE2NF) | [Yebba](https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F) | [Distance](https://open.spotify.com/album/5CMAmUz6cXCAyOutxsyYXC) | 4:15 |
+| 28 | [Free \(feat\. Tom Misch\)](https://open.spotify.com/track/01wXY7C3ywHBMKmj3f31EB) | [Joel Culpepper](https://open.spotify.com/artist/2PEsLlEk8HIw0NFPSENdQs), [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye) | [Free \(feat\. Tom Misch\)](https://open.spotify.com/album/4eoxzgxqIHsMd44siCY4lg) | 3:54 |
 | 29 | [So Done \(feat\. Khalid\)](https://open.spotify.com/track/0DC6yJLAPwIEeZh6EZpn1f) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [ALICIA](https://open.spotify.com/album/1168pCxg0HeTRqyutFf4o1) | 3:54 |
 | 30 | [Dollar $hort](https://open.spotify.com/track/6UYLv08EVHZsmMP4SrgZVw) | [DRAMA](https://open.spotify.com/artist/7LvvNoUPwTZpgXDWBRrfHg), [Flight Facilities](https://open.spotify.com/artist/1lc8mnyGrCLtPhCoWjRxjM) | [Dollar $hort](https://open.spotify.com/album/5AlNt9tbo2tP4KcHP1xIcG) | 3:15 |
 | 31 | [Let's Stay Together](https://open.spotify.com/track/3spYJ0xnfApOUDuV3dkf5n) | [Joesef](https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ) | [Let's Stay Together](https://open.spotify.com/album/3SXhmpjNlep1yKcBU8Wk6i) | 3:38 |
@@ -69,14 +69,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2AHwa6tQ2Yy.md) - [plain]
 | 59 | [My Phone Can Die](https://open.spotify.com/track/4RYsLFK1VLPtrwipmcAWoo) | [Rory](https://open.spotify.com/artist/5XJa2DE4NkXH5m4aHzM0i9), [Ari Lennox](https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom), [James Fauntleroy](https://open.spotify.com/artist/5ooSG9S0glqP5ZrqqaHBvT) | [My Phone Can Die](https://open.spotify.com/album/6KvYRCl4xHiFbTDb3ql8Aa) | 2:59 |
 | 60 | [I'm Leaving](https://open.spotify.com/track/33mKFTO1V2QNyhuUBneHDZ) | [The Teskey Brothers](https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh) | [The Winding Way](https://open.spotify.com/album/4JvUEoioE4Am9JKyoQrlXH) | 4:21 |
 | 61 | [Naomi](https://open.spotify.com/track/5wO44FhJyX7wWUgwRjqSK1) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Good Thing \(Deluxe\)](https://open.spotify.com/album/15UQ2i9tFgP1VL24O3aBvM) | 3:50 |
-| 62 | [Falling in Love Again](https://open.spotify.com/track/6N0ViJHgMFaUt5TGXQizmn) | [Dojo Cuts](https://open.spotify.com/artist/0Vd8YQz8TYk2vSKEYVvIgL) | [Tomorrow's Gonna Come](https://open.spotify.com/album/7v8VvueBjcukRvpMU0wxF0) | 3:50 |
-| 63 | [Just Fine](https://open.spotify.com/track/49NvEjTPk04A5bUGOYfti4) | [Dallas Tamaira](https://open.spotify.com/artist/7kA1tgOWHU6o4KedxlOStt) | [Just Fine](https://open.spotify.com/album/3i18iObygAdcU1eRyYgK0A) | 2:54 |
+| 62 | [Just Fine](https://open.spotify.com/track/49NvEjTPk04A5bUGOYfti4) | [Dallas Tamaira](https://open.spotify.com/artist/7kA1tgOWHU6o4KedxlOStt) | [Just Fine](https://open.spotify.com/album/3i18iObygAdcU1eRyYgK0A) | 2:54 |
+| 63 | [Falling in Love Again](https://open.spotify.com/track/6N0ViJHgMFaUt5TGXQizmn) | [Dojo Cuts](https://open.spotify.com/artist/0Vd8YQz8TYk2vSKEYVvIgL) | [Tomorrow's Gonna Come](https://open.spotify.com/album/7v8VvueBjcukRvpMU0wxF0) | 3:50 |
 | 64 | [SOW](https://open.spotify.com/track/65zlOAreDi0nexSq6G33E2) | [Q](https://open.spotify.com/artist/22vqVhfPJab5kkU9txDGX3) | [Soul,PRESENT](https://open.spotify.com/album/2s8DZtGWeWaLFLvBI38MM6) | 3:06 |
-| 65 | [Overthinking](https://open.spotify.com/track/6LD2ci6kqsJGNRuTHKwCHp) | [HALES](https://open.spotify.com/artist/0SgD0ob1dliSxZWHc4Dp1K) | [Overthinking](https://open.spotify.com/album/6nFzKTyOYyjxFmyzONBmSX) | 3:01 |
-| 66 | [Find You](https://open.spotify.com/track/0xj5upFN9assCNNS01X3PR) | [Charlotte Day Wilson](https://open.spotify.com/artist/3GQboECxDT1xqPPWC30p7v) | [CDW](https://open.spotify.com/album/6gCycQSo1Yp503MXyvzSF9) | 5:03 |
-| 67 | [Hold On](https://open.spotify.com/track/0zcRUprLKw7LtndkBurb3S) | [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [Hold On](https://open.spotify.com/album/3WWfApLKg76DOgntZABET6) | 3:23 |
+| 65 | [Hold On](https://open.spotify.com/track/0zcRUprLKw7LtndkBurb3S) | [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [Hold On](https://open.spotify.com/album/3WWfApLKg76DOgntZABET6) | 3:23 |
+| 66 | [Overthinking](https://open.spotify.com/track/6LD2ci6kqsJGNRuTHKwCHp) | [HALES](https://open.spotify.com/artist/0SgD0ob1dliSxZWHc4Dp1K) | [Overthinking](https://open.spotify.com/album/6nFzKTyOYyjxFmyzONBmSX) | 3:01 |
+| 67 | [Find You](https://open.spotify.com/track/0xj5upFN9assCNNS01X3PR) | [Charlotte Day Wilson](https://open.spotify.com/artist/3GQboECxDT1xqPPWC30p7v) | [CDW](https://open.spotify.com/album/6gCycQSo1Yp503MXyvzSF9) | 5:03 |
 | 68 | [Spider](https://open.spotify.com/track/2mmffn8SKL7XMeccLOXSgY) | [Dallas Tamaira](https://open.spotify.com/artist/7kA1tgOWHU6o4KedxlOStt) | [Spider](https://open.spotify.com/album/3AKp3KdtVVT0rwkfejvkj7) | 2:54 |
-| 69 | [Ease Up](https://open.spotify.com/track/4ykxlLzlR2B7OhpkPBMhUW) | [Jean Deaux](https://open.spotify.com/artist/4JqpJeNOhP6bAkolNMLwFg), [Masego](https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig) | [Most Wanted \(Deluxe\)](https://open.spotify.com/album/46fxxm1oHMPzR51GElXrAt) | 3:41 |
+| 69 | [Til My Song is Done](https://open.spotify.com/track/6gC01enBKZMxtuJQiVi0eG) | [Emma Donovan](https://open.spotify.com/artist/1zq7VkmDHaXYNCqnNeJvLs) | [Til My Song Is Done](https://open.spotify.com/album/6CmtgWsHIyzLaY6HOH7u4X) | 4:34 |
 | 70 | [This Will Be Our Year](https://open.spotify.com/track/71KtVFmu7lY2AsKgdG1cZl) | [The Teskey Brothers](https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh) | [The Winding Way](https://open.spotify.com/album/4JvUEoioE4Am9JKyoQrlXH) | 2:37 |
 
-Snapshot ID: `MCxkYzc1NTBiZGVlZTY1MTNkOWY3ZGI2NGE0NDU2MmVlZjIyMzY0NDEx`
+Snapshot ID: `MCxjNDczZjE5NjIxNmFkOTJkZDVhYmMyYWIxZDIyMTFiZGU5NGUxNDIw`

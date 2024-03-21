@@ -4,7 +4,7 @@
 
 > La playlist idéale pour se détendre en musique.
 
-224 songs - 14 hr 1 min
+225 songs - 14 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,7 +60,8 @@
 | [Crosses](https://open.spotify.com/track/0ByKWq0hsuYriK5avSMJ5r) | [José González](https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI) | [Veneer](https://open.spotify.com/album/2e0BYdQ7VJlzSNHafdmfrl) | 2:42 | 2023-02-21 | 2023-12-14 |
 | [Daydream](https://open.spotify.com/track/3c06k9x6MHHdPQi3ix68yF) | [The Lovin' Spoonful](https://open.spotify.com/artist/7CCn4PFRRRZF127jtCBAUe) | [Daydream](https://open.spotify.com/album/678WzpMIeszIatLVnczSnS) | 2:19 | 2022-11-25 | 2023-09-09 |
 | [death bed \(coffee for your head\)](https://open.spotify.com/track/7eJMfftS33KTjuF7lTsMCx) | [Powfu](https://open.spotify.com/artist/6bmlMHgSheBauioMgKv2tn), [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [death bed \(coffee for your head\)](https://open.spotify.com/album/2p9gK2BcdrloHNJwarc9gc) | 2:53 | 2023-09-08 | 2023-09-29 |
-| [Deeper Well](https://open.spotify.com/track/2lJn77IeZAP9cmv6DPXOrL) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Deeper Well](https://open.spotify.com/album/2NXiMKrwmPrqU8epp20pW8) | 3:52 | 2024-02-08 |  |
+| [Deeper Well](https://open.spotify.com/track/2lJn77IeZAP9cmv6DPXOrL) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Deeper Well](https://open.spotify.com/album/2NXiMKrwmPrqU8epp20pW8) | 3:52 | 2024-02-08 | 2024-03-21 |
+| [Deeper Well](https://open.spotify.com/track/333XFHKsHU0pOocFzBgrJi) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Deeper Well](https://open.spotify.com/album/5SxZmGwc4eJuPp6PcO4JgJ) | 3:52 | 2024-02-15 |  |
 | [Diamonds And Rust](https://open.spotify.com/track/4O0sGJdqpHMaWz7KoVd7tb) | [Joan Baez](https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm) | [Diamonds & Rust](https://open.spotify.com/album/3O9LYeSXXEypjdptHMghUg) | 4:46 | 2022-11-25 |  |
 | [Dis\-moi que tu m'aimes](https://open.spotify.com/track/0bXcmXR5cotPsrFdWF1Rs9) | [Zaho de Sagazan](https://open.spotify.com/artist/38GSybQjdc6sxptciOkxMq) | [La symphonie des éclairs](https://open.spotify.com/album/5GoDO8a03bxSSxMCeYKfaW) | 4:26 | 2023-11-24 |  |
 | [Dis\-moi que tu m'aimes](https://open.spotify.com/track/3ow5CelrJnKuAmzzbOtOJ7) | [Zaho de Sagazan](https://open.spotify.com/artist/38GSybQjdc6sxptciOkxMq) | [La symphonie des éclairs](https://open.spotify.com/album/1Vg18m8cCSPsTrGSoe0gpH) | 4:26 | 2023-05-12 | 2023-11-08 |

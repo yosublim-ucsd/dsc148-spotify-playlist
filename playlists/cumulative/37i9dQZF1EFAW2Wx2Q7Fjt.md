@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1YH0NMJEWHxG6AoyYZivZX">Amy Allen</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-113 songs - 5 hr 50 min
+115 songs - 5 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,6 +28,7 @@
 | [Curfew](https://open.spotify.com/track/7tN842Ohxq58i3CzaJUMlA) | [Jacob Sartorius](https://open.spotify.com/artist/6czdbISBoxGckbBX8F4m8L) | [Better With You](https://open.spotify.com/album/5B6tCFDLdMHbd1P3p8ApL5) | 2:34 | 2024-02-07 |  |
 | [Cut Me Down \(feat\. Mallrat\)](https://open.spotify.com/track/5YcaoDErGAsdGwCmFvRicq) | [Blu DeTiger](https://open.spotify.com/artist/5NyCIBCeU080ynEj33S4hC), [Mallrat](https://open.spotify.com/artist/4OSArit7O2Jaj4mgf3YN7A) | [Cut Me Down \(feat\. Mallrat\)](https://open.spotify.com/album/3H2sRRy1oPWojDvXPjMruV) | 2:58 | 2024-02-07 |  |
 | [cut my hair](https://open.spotify.com/track/3YUHxgPuHedoZGt9KfGlqB) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [THINK LATER](https://open.spotify.com/album/5YxG0ULdAixTrnzfo60HX4) | 2:55 | 2024-02-07 |  |
+| [Damn Near Normal](https://open.spotify.com/track/56eB13MUQGCQhsKn8tNP9x) | [Koe Wetzel](https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ) | [Damn Near Normal](https://open.spotify.com/album/3lhyhLiN82xxpLH85BCGz7) | 3:44 | 2024-03-20 |  |
 | [Dance \(‘Til You Love Someone Else\)](https://open.spotify.com/track/7ngTmzqa1PylqWUtMWfCgl) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [Love Goes](https://open.spotify.com/album/5XCBX16KNYsAe7V5hQV9mC) | 3:45 | 2024-02-07 |  |
 | [Dance Till We Die \(From the Movie ANTHEM of a Teenage Prophet\)](https://open.spotify.com/track/1PZ7VJ7abOVWjzWl19KKnd) | [Peyton List](https://open.spotify.com/artist/3nL1vFhHR6iRgKxadxCQjh) | [Dance Till We Die \(From the Movie ANTHEM of a Teenage Prophet\)](https://open.spotify.com/album/0ewiIwbteCs1p0EjwX2Q7U) | 3:26 | 2024-02-07 |  |
 | [Dangerous Levels of Introspection](https://open.spotify.com/track/4iT46O2cYu63Rlv09Fpxch) | [JP Saxe](https://open.spotify.com/artist/66W9LaWS0DPdL7Sz8iYGYe) | [Dangerous Levels of Introspection](https://open.spotify.com/album/538BxdI7oOQykSkEtyjhUD) | 3:54 | 2024-02-07 |  |
@@ -107,6 +108,7 @@
 | [The Hardest Part](https://open.spotify.com/track/1ODRbz1jZsSrTkpTVcYElX) | [Alexander 23](https://open.spotify.com/artist/6sFHvCyqklnJpXC9Nh1aag) | [Aftershock](https://open.spotify.com/album/7wAw42D9HsIAFRy47jo4Vw) | 3:23 | 2024-02-07 |  |
 | [The Rope](https://open.spotify.com/track/7tCTdByZk73LFnicVAr08k) | [Semisonic](https://open.spotify.com/artist/1TqQi97nqeiuOJrIFv5Sw0) | [Little Bit of Sun](https://open.spotify.com/album/2IIZUA4Ey5voQpvhhrOw71) | 2:29 | 2024-02-07 |  |
 | [The Wedding Song](https://open.spotify.com/track/3UNTCTqSGhVaaMQvBty1q6) | [Reneé Rapp](https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn) | [Snow Angel](https://open.spotify.com/album/3RqO05jxT9YYgNtMdQmo8Z) | 3:03 | 2024-02-07 |  |
+| [think later](https://open.spotify.com/track/44c9MsAwxoAdAYpCVRBAG1) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [THINK LATER](https://open.spotify.com/album/0OUOx6rJXtL66AzTnP9KUE) | 2:13 | 2024-03-20 |  |
 | [Thrill of the Chase \(feat\. R.I.Pablo\)](https://open.spotify.com/track/5iIGjnYdSOa1K0EcFTTxqk) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [R.I.Pablo](https://open.spotify.com/artist/7KGkYFExwTNpryurLNxdwb) | [Thrill Of The Chase](https://open.spotify.com/album/2lVpgsdtPiXE01gL5mApyn) | 3:18 | 2024-02-07 |  |
 | [Tom Brady](https://open.spotify.com/track/0QAX1RS572BeBITLfC0NBA) | [Amy Allen](https://open.spotify.com/artist/4Ebm2DC4Spo173X85D1n5x) | [AWW!](https://open.spotify.com/album/12I0nO2QVc1NMLvKqZp3W8) | 3:16 | 2024-02-07 |  |
 | [Too Bad](https://open.spotify.com/track/3bFUSbKteIXulMNkwywOQI) | [King Princess](https://open.spotify.com/artist/6beUvFUlKliUYJdLOXNj9C) | [Hold On Baby](https://open.spotify.com/album/3Q998ztjKK3ybjToj0QL9c) | 2:53 | 2024-02-07 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX89XXHpIgTCJ.md) - [plain]
 
 > When Rock meets Rap: covers, collabs, mashups and everything that rhymes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 302,142 likes - 60 songs - 3 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 302,187 likes - 60 songs - 3 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX89XXHpIgTCJ.md) - [plain]
 | 59 | [King of Rock](https://open.spotify.com/track/7112WRQXlBGe4Os43yw8gV) | [Run–D.M.C.](https://open.spotify.com/artist/3CQIn7N5CuRDP8wEI7FiDA) | [King Of Rock \(Expanded Edition\)](https://open.spotify.com/album/57FQTvThrTFPrGPAvZCjw6) | 5:14 |
 | 60 | [Wretches and Kings](https://open.spotify.com/track/4uqacT1xJ7UhPJAMAcb25A) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [A Thousand Suns](https://open.spotify.com/album/113yjuFZEqkkbuLi4sEBxo) | 4:10 |
 
-Snapshot ID: `MCw2N2M1ZGFhZWVhNjc3YmYxY2VkZDJjOWQ2MjY1YmM1M2Q3Yjk4NTRl`
+Snapshot ID: `MCxlMmNiMDBmN2IxMWZhOTcwYmY4ZmZmMTA3ODg2NDdmMWJhYzgzMDRk`

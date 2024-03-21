@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdMR9DIC5ADT.md) - [plain]
 
 > フェス関係者の皆様、Let's book them! いま聴きたい、注目の洋楽アーティストを特集！ cover: Justin Timberlake
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,452 likes - 50 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,462 likes - 50 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdMR9DIC5ADT.md) - [plain]
 | 49 | [A Night To Remember](https://open.spotify.com/track/180AbZduI6bYQIzwCHRwu9) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB), [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [A Night To Remember](https://open.spotify.com/album/73wBVA41AulgjGiL3rBwfe) | 3:53 |
 | 50 | [Glimpse of Us](https://open.spotify.com/track/4ewazQLXFTDC8XvCbhvtXs) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [SMITHEREENS](https://open.spotify.com/album/2hEnymoejldpuxSdTnkard) | 3:53 |
 
-Snapshot ID: `MCwyMTFhN2M1MGNkNTAwNzViODg4YTQ0MWQxYmQ2ZjRiMGFjODg5Mzhi`
+Snapshot ID: `MCw0YmZkZDE1ZTMxNThjY2I1ZmJiYzJjZTc4ZGFjMTk1MWUwM2YyNDAz`

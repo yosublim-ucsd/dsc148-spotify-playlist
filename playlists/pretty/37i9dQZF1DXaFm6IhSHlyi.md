@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaFm6IhSHlyi.md) - [plain]
 
 > A collection of the world's best emotional songs\. Cover: <a href="https://open.spotify.com/artist/75opyvDai90a20RL9VSa7D?si=X4txR82FSGuMTgat6fyXQw&dl\_branch=1">Djouher</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 143,517 likes - 150 songs - 9 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 143,524 likes - 150 songs - 9 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaFm6IhSHlyi.md) - [plain]
 | 36 | [En Guerra](https://open.spotify.com/track/6dJPqP0gHP6iAZuIk1njBs) | [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW), [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N) | [FANTASÍA](https://open.spotify.com/album/5Zyj0zwOksGYLbLAZOaC31) | 3:41 |
 | 37 | [ILYSB \- STRIPPED](https://open.spotify.com/track/3Dkvp3L4w0uJFYfIPa8E9H) | [LANY](https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF) | [Make Out](https://open.spotify.com/album/4sldmS76FbpIaO2sEsZlBh) | 4:04 |
 | 38 | [Albi Ya Albi](https://open.spotify.com/track/63qG3TrMt8RPXrIPr0qw8Q) | [Nancy Ajram](https://open.spotify.com/artist/0LnHdW6HMPoOlNdhG3DHjE) | [Albi Ya Albi](https://open.spotify.com/album/0AK5Lys4eQEXuRJvpn89Nj) | 3:26 |
-| 39 | [Is That Alright?](https://open.spotify.com/track/172e82oK9vGoBPvc6SqMm5) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [A Star Is Born Soundtrack](https://open.spotify.com/album/4sLtOBOzn4s3GDUv3c5oJD) | 3:11 |
-| 40 | [Hindi Tayo Pwede](https://open.spotify.com/track/64G8ywuyGGQl4S7U2a6XJf) | [The Juans](https://open.spotify.com/artist/1YlibpAvhJBbMZMBwN1KGv) | [Kidnap for Romance \(Original Movie Soundtrack\)](https://open.spotify.com/album/70YCM7kgIwLvCGRxkQl9BJ) | 5:03 |
+| 39 | [Hindi Tayo Pwede](https://open.spotify.com/track/64G8ywuyGGQl4S7U2a6XJf) | [The Juans](https://open.spotify.com/artist/1YlibpAvhJBbMZMBwN1KGv) | [Kidnap for Romance \(Original Movie Soundtrack\)](https://open.spotify.com/album/70YCM7kgIwLvCGRxkQl9BJ) | 5:03 |
+| 40 | [Is That Alright?](https://open.spotify.com/track/172e82oK9vGoBPvc6SqMm5) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [A Star Is Born Soundtrack](https://open.spotify.com/album/4sLtOBOzn4s3GDUv3c5oJD) | 3:11 |
 | 41 | [Binalewala \- Original Version](https://open.spotify.com/track/2tR5liucorXRwduxr0qEx6) | [Michael Dutchi Libranda](https://open.spotify.com/artist/6ZdzYE3CEgY0Umgi3Dsgv8) | [Binalewala](https://open.spotify.com/album/1793zMKn7sOceKYWdN7yQX) | 4:28 |
 | 42 | [A Little Bit Yours](https://open.spotify.com/track/00cBcYOlnHoXX9ver3cmdE) | [JP Saxe](https://open.spotify.com/artist/66W9LaWS0DPdL7Sz8iYGYe) | [A Little Bit Yours](https://open.spotify.com/album/4s3G7RcXGNmjZeqVnqwhLM) | 3:45 |
 | 43 | [Here I Am Again](https://open.spotify.com/track/1uZ5Ulb2qfle3HbqB12vNQ) | [Yerin Baek](https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK) | [Crash Landing on You \(Original Television Soundtrack\), Pt\. 4](https://open.spotify.com/album/2qCB3BnsOtq3Rja6nPslrk) | 3:54 |
@@ -114,8 +114,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaFm6IhSHlyi.md) - [plain]
 | 104 | [Al Kawn Janni Maak](https://open.spotify.com/track/0s6Vv5wPxRCsrBMjTSyrcg) | [Elyanna](https://open.spotify.com/artist/0jIWKlfmD4Ew7HeVVrq03g) | [Al Kawn Janni Maak](https://open.spotify.com/album/5WfAjtVWyItvqpfEYfoZIG) | 2:15 |
 | 105 | [Media Tinta](https://open.spotify.com/track/28dvkrXcMae3QMOp4UgfrC) | [Sofia Ellar](https://open.spotify.com/artist/0zuqz96cs1dQcxc2FpLPcR) | [Media Tinta](https://open.spotify.com/album/76AGXqcL7vYqzkxn7lwfkx) | 3:54 |
 | 106 | [Ll Abad](https://open.spotify.com/track/062PjBRVYxZAinFwcS8Lyq) | [Lina Makoul](https://open.spotify.com/artist/5jWJzXicyDE4CwlOR3omk7) | [Ll Abad](https://open.spotify.com/album/1a9uW1qEYbl2RWu9Pezxbr) | 3:32 |
-| 107 | [Sajni](https://open.spotify.com/track/1PvMhEinxD26qgSbyzdsh9) | [The Yellow Diary](https://open.spotify.com/artist/6xlrAAgxcRlgCXnbg2hcFc) | [Sajni](https://open.spotify.com/album/41YV2heM2DxkpqNZQKBiar) | 4:58 |
-| 108 | [Primera Cita \- Recorded at Electric Lady Studios NYC](https://open.spotify.com/track/1kw5VKLs2JFpg3FjY1RwCL) | [CNCO](https://open.spotify.com/artist/0eecdvMrqBftK0M1VKhaF4) | [Spotify Singles](https://open.spotify.com/album/3xKhnVSlIEGG4MFnackt9M) | 4:18 |
+| 107 | [Primera Cita \- Recorded at Electric Lady Studios NYC](https://open.spotify.com/track/1kw5VKLs2JFpg3FjY1RwCL) | [CNCO](https://open.spotify.com/artist/0eecdvMrqBftK0M1VKhaF4) | [Spotify Singles](https://open.spotify.com/album/3xKhnVSlIEGG4MFnackt9M) | 4:18 |
+| 108 | [Sajni](https://open.spotify.com/track/1PvMhEinxD26qgSbyzdsh9) | [The Yellow Diary](https://open.spotify.com/artist/6xlrAAgxcRlgCXnbg2hcFc) | [Sajni](https://open.spotify.com/album/41YV2heM2DxkpqNZQKBiar) | 4:58 |
 | 109 | [Bloom](https://open.spotify.com/track/4iRgN2h6iRkFVHareKcL14) | [Superfly](https://open.spotify.com/artist/5M8AXrOifBT8elkLKbGPQZ) | [0](https://open.spotify.com/album/6Oa8tjPIVfB0LgO1hwVw61) | 3:58 |
 | 110 | [Te Quiero \- Versión 2019](https://open.spotify.com/track/4tHfu14rSYrdODVeJIGJ4r) | [José Luis Perales](https://open.spotify.com/artist/5RwfJb8wxN1fuodcPORVxP) | [Te quiero \(Versión 2019\)](https://open.spotify.com/album/1xg3IvcDs8TmF05ZdKyNQJ) | 3:50 |
 | 111 | [Sikasih](https://open.spotify.com/track/7zaC2Jn1jOpB2tdGLP8nG2) | [Abam](https://open.spotify.com/artist/3P0M8eyVyFJQBOStOpSdBL) | [Sikasih](https://open.spotify.com/album/69fxXPadVVtaMhEcz7DMaq) | 3:06 |
@@ -142,9 +142,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaFm6IhSHlyi.md) - [plain]
 | 132 | [111](https://open.spotify.com/track/6nbl8mfvdmnhtlbexXu6J9) | [Djouher](https://open.spotify.com/artist/75opyvDai90a20RL9VSa7D), [Red Farrow](https://open.spotify.com/artist/38jIIsC2d3Waiv8LovBEQ8), [Lead Major](https://open.spotify.com/artist/0HePV5MBPoi502FIKslcBO) | [111](https://open.spotify.com/album/3DlFiBv8uC3GjtaY0l9bhU) | 3:50 |
 | 133 | [Ana Mesh Magroha](https://open.spotify.com/track/4vJUFvVTdyLTeA9ANFCF1H) | [Shaimaa ElShayeb](https://open.spotify.com/artist/2hEKer00BCTbnluLPC0Mbr) | [Ana Mesh Magroha](https://open.spotify.com/album/3hw0hBILtvaXlRWeygmDbI) | 2:35 |
 | 134 | [I mecht nur wissn wo du bist \- I.U.E.](https://open.spotify.com/track/2NFS0NEUZwJD7jmjOl9sGP) | [Popwal](https://open.spotify.com/artist/3MZS307A4x1ZFtD9MAeZhx) | [I mecht nur wissn wo du bist \(I.U.E.\)](https://open.spotify.com/album/0UBZIrwAvTOqVty6DaeNR1) | 3:27 |
-| 135 | [Maghihintay](https://open.spotify.com/track/4LgccgKkSa1zOVGcvnQPhn) | [Ruru Madrid](https://open.spotify.com/artist/1iRxi2v6ePrnmwbFGp0iKf) | [Maghihintay](https://open.spotify.com/album/1lKuKFWKWlMfhNYjsRJAhK) | 4:35 |
-| 136 | [Düştüğüm Gibi Kalkarım \- Akustikhane](https://open.spotify.com/track/1e3PlxTrIEnveO663T7lYP) | [Kahraman Deniz](https://open.spotify.com/artist/3nF0yXDatdq9xV279nEs5X) | [Akustikhane](https://open.spotify.com/album/5wHc78rsbGRHHetgyT7zsk) | 5:31 |
-| 137 | [Cardamom Tea](https://open.spotify.com/track/66ny3dMX2VHExd8qX9KaTh) | [Dania](https://open.spotify.com/artist/0LXNaYz7jAXD5V4C0FWGEx) | [Cardamom Tea](https://open.spotify.com/album/0O1cH9xGBP2R9op3r2p3bq) | 3:41 |
+| 135 | [Düştüğüm Gibi Kalkarım \- Akustikhane](https://open.spotify.com/track/1e3PlxTrIEnveO663T7lYP) | [Kahraman Deniz](https://open.spotify.com/artist/3nF0yXDatdq9xV279nEs5X) | [Akustikhane](https://open.spotify.com/album/5wHc78rsbGRHHetgyT7zsk) | 5:31 |
+| 136 | [Cardamom Tea](https://open.spotify.com/track/66ny3dMX2VHExd8qX9KaTh) | [Dania](https://open.spotify.com/artist/0LXNaYz7jAXD5V4C0FWGEx) | [Cardamom Tea](https://open.spotify.com/album/0O1cH9xGBP2R9op3r2p3bq) | 3:41 |
+| 137 | [Maghihintay](https://open.spotify.com/track/4LgccgKkSa1zOVGcvnQPhn) | [Ruru Madrid](https://open.spotify.com/artist/1iRxi2v6ePrnmwbFGp0iKf) | [Maghihintay](https://open.spotify.com/album/1lKuKFWKWlMfhNYjsRJAhK) | 4:35 |
 | 138 | [Forever & Always](https://open.spotify.com/track/4KquFfHpi3VsdMxr5uBfXa) | [Abe](https://open.spotify.com/artist/2Bv3me5y2XnscjPGreroh4) | [Forever & Always](https://open.spotify.com/album/7L3zuixj5Tq29IwlZZ7hgq) | 3:42 |
 | 139 | [I Miss You](https://open.spotify.com/track/7AiZFV9YQFHGNXhajy0eFB) | [Hansol](https://open.spotify.com/artist/3lfv9X5P62DboYv1TBhGek) | [I Miss You](https://open.spotify.com/album/5tnHRJxTgH9mPdCThZFF5P) | 4:11 |
 | 140 | [Tum Jaisi Ho](https://open.spotify.com/track/2ArTK3KizSrijvTlRzGtSs) | [Tony Kakkar](https://open.spotify.com/artist/0NZtn1Kyq08alpHCTRf3dv) | [Tum Jaisi Ho](https://open.spotify.com/album/05vRHIg3ZhYkO8Wlpb5yRk) | 2:25 |
@@ -156,7 +156,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaFm6IhSHlyi.md) - [plain]
 | 146 | [Taal \(\#YOM 10\)](https://open.spotify.com/track/3xy6zmlJbmFvTkn3P87TCC) | [Lina Makoul](https://open.spotify.com/artist/5jWJzXicyDE4CwlOR3omk7) | [\#YOM](https://open.spotify.com/album/1XrRhkgWkLoajrI8NyltAE) | 2:23 |
 | 147 | [You Are](https://open.spotify.com/track/02Mn57DbulnTiXU2B1jmZn) | [Malak](https://open.spotify.com/artist/6YH2dyVtlgxfdQEkIYL6uf) | [You Are](https://open.spotify.com/album/6Rk6fBhF9OygBVeQ0lue2D) | 3:48 |
 | 148 | [Stories](https://open.spotify.com/track/5bwb4M1BhqVfjLmR3N1n6B) | [Djouher](https://open.spotify.com/artist/75opyvDai90a20RL9VSa7D), [Belfa](https://open.spotify.com/artist/6sBNAhdkb34YfSofjjZf9L) | [Stories](https://open.spotify.com/album/2bnab6jju2LE7NyFGjykqI) | 2:58 |
-| 149 | [17h](https://open.spotify.com/track/24SBLKhtIv7wEAlXct7mNu) | [Malket](https://open.spotify.com/artist/4SniWApo3km8jt2PVMnyEK) | [17h](https://open.spotify.com/album/0groCpwC87L58ocN0SsLh9) | 3:38 |
+| 149 | [How We Love](https://open.spotify.com/track/41GBbgJmNrCRXOmLezn0sP) | [Hana Malhas](https://open.spotify.com/artist/0EQjOxeqpT2ebzA1NvT9Cu) | [How We Love](https://open.spotify.com/album/2KGBrH9IX58DG3jubYV6xd) | 3:50 |
 | 150 | [Между нами \- Ice Lyrical Version](https://open.spotify.com/track/5wPlVVTPeRnVjwPyX79UL9) | [Nyusha](https://open.spotify.com/artist/4GieO2JjiJOxc7m53YFjza), [Artem Kacher](https://open.spotify.com/artist/2XaHngr3ql0L2nrJC8PSwY) | [Между нами \(Ice Lyrical Version\)](https://open.spotify.com/album/0ztRJunw2tGm9inc8zaO1y) | 3:43 |
 
-Snapshot ID: `MCw4ZmM5MDc3OTY3YWYyOTJkNDZiOThkYmVhNmNiNDA5Nzk1ZDgzYzJi`
+Snapshot ID: `MCxmZmUyZTI1MjQ4ZWNlM2M2MmY3ZmZmZWRkYTk0MDlmNzQzNWE2MTgy`

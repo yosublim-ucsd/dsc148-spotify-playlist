@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lrJMke0u5G.md) - [plain]
 
 > ¡Vuelve el Cosquín Rock! 12 y 13 de Febrero, Aeródromo Santa María de Punilla, Córdoba.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,029 likes - 100 songs - 6 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,020 likes - 100 songs - 6 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,8 +19,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lrJMke0u5G.md) - [plain]
 | 9 | [Sos Todo Lo Que Está Bien](https://open.spotify.com/track/4pL01X6Og8L9kJRTB65Hsz) | [Silvestre y La Naranja](https://open.spotify.com/artist/1hE5imhaIrCEKoHLHW9aCO) | [ANIM4LES](https://open.spotify.com/album/2h48DpjjNc111ug7zH2aXl) | 1:55 |
 | 10 | [Pijamas](https://open.spotify.com/track/1AYgMuI3cgL5EjnfhnZVoq) | [Babasónicos](https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2) | [Mucho](https://open.spotify.com/album/0DUCdIMPrlfPFPPKsNyzx3) | 3:29 |
 | 11 | [Hola](https://open.spotify.com/track/1nZJhX71HCQuyaCIyojXNG) | [Miranda!](https://open.spotify.com/artist/2eEmsgWmUFMbtU7agJpnjY) | [El Disco de Tu Corazón](https://open.spotify.com/album/23sglTmI7lQhVogpoa5TXe) | 3:05 |
-| 12 | [Personalmente](https://open.spotify.com/track/7q7XFO9av9VpNJSXKJwJxD) | [Las Pelotas](https://open.spotify.com/artist/1Qv4E1VgZOGnOYd99Kp5Bs) | [Despierta](https://open.spotify.com/album/0289kJfdXVBPSDJfQ1fPJz) | 4:10 |
-| 13 | [Zafar](https://open.spotify.com/track/1wIUWGdTdhVk5gIPd0ULxX) | [La Vela Puerca](https://open.spotify.com/artist/6nVcjUJemqpJjc1WevwTvL) | [A Contraluz](https://open.spotify.com/album/7LMidzEe6utRLx7hPiq2AL) | 4:22 |
+| 12 | [Zafar](https://open.spotify.com/track/1wIUWGdTdhVk5gIPd0ULxX) | [La Vela Puerca](https://open.spotify.com/artist/6nVcjUJemqpJjc1WevwTvL) | [A Contraluz](https://open.spotify.com/album/7LMidzEe6utRLx7hPiq2AL) | 4:22 |
+| 13 | [Personalmente](https://open.spotify.com/track/7q7XFO9av9VpNJSXKJwJxD) | [Las Pelotas](https://open.spotify.com/artist/1Qv4E1VgZOGnOYd99Kp5Bs) | [Despierta](https://open.spotify.com/album/0289kJfdXVBPSDJfQ1fPJz) | 4:10 |
 | 14 | [OPA](https://open.spotify.com/track/2Z4FBa6hAEh7VTHYCqXy7P) | [Dillom](https://open.spotify.com/artist/4cJD9t5QBFTUQcd3xfbOb2) | [POST MORTEM](https://open.spotify.com/album/39g3CsFBc9YK9Z6AbvvkgF) | 2:49 |
 | 15 | [Oda a la Sin Nombre](https://open.spotify.com/track/5l6HQ03qnofn7Us7cADWQg) | [Skay Beilinson](https://open.spotify.com/artist/4K8Mrjr9IvA8QU0Vjj4BED) | [A Través del Mar de los Sargazos](https://open.spotify.com/album/3eES9LlGLw5o7ZNbOfmscZ) | 4:32 |
 | 16 | [Carismático](https://open.spotify.com/track/0JEoezwc786AUMKs2CBQRI) | [Babasónicos](https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2) | [Anoche](https://open.spotify.com/album/5uBA88xQSrGS8sfVru3bWC) | 2:35 |
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lrJMke0u5G.md) - [plain]
 | 27 | [Mi Debilidad](https://open.spotify.com/track/4it6vaFbkGRUaQlwWUMg3v) | [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [Animal](https://open.spotify.com/album/2OXeXtTp8KR8TO21LbBIWP) | 2:45 |
 | 28 | [Un Bossa +](https://open.spotify.com/track/3uz2tyLRgSzSlhOIXCz0DB) | [Zoe Gotusso](https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS) | [Un Bossa +](https://open.spotify.com/album/0E9Yu1or2WPe82OTuFv51o) | 1:26 |
 | 29 | [Esperanza](https://open.spotify.com/track/7MXNsAVPAK4pb0AeWvvPFc) | [Bardero$](https://open.spotify.com/artist/5Q2fyL2TcdUY9IqKTkGk5G) | [Esperanza](https://open.spotify.com/album/2pMJmuVitL0aZ1FdLp6jvg) | 2:56 |
-| 30 | [PELOTUDA](https://open.spotify.com/track/65zh1W9YBpgGlS4G98mI0v) | [Dillom](https://open.spotify.com/artist/4cJD9t5QBFTUQcd3xfbOb2) | [POST MORTEM](https://open.spotify.com/album/39g3CsFBc9YK9Z6AbvvkgF) | 3:05 |
-| 31 | [El Presente \(Unplugged\) \(En Vivo\)](https://open.spotify.com/track/713yeila63kevWr0gqwTxO) | [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [Julieta Venegas \- MTV Unplugged](https://open.spotify.com/album/4oR1OWQqwZmNWzpTIBYe97) | 3:40 |
+| 30 | [El Presente \(Unplugged\) \(En Vivo\)](https://open.spotify.com/track/713yeila63kevWr0gqwTxO) | [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [Julieta Venegas \- MTV Unplugged](https://open.spotify.com/album/4oR1OWQqwZmNWzpTIBYe97) | 3:40 |
+| 31 | [PELOTUDA](https://open.spotify.com/track/65zh1W9YBpgGlS4G98mI0v) | [Dillom](https://open.spotify.com/artist/4cJD9t5QBFTUQcd3xfbOb2) | [POST MORTEM](https://open.spotify.com/album/39g3CsFBc9YK9Z6AbvvkgF) | 3:05 |
 | 32 | [El Riesgo](https://open.spotify.com/track/7E6ljIUVDjlka1cNGnVg1F) | [El Plan De La Mariposa](https://open.spotify.com/artist/3LY3yBRRL9yxCZxaxkdUir) | [Devorando Intensidad](https://open.spotify.com/album/16ycW7h7bErtyFt9CI5BN8) | 4:28 |
 | 33 | [Dejame Tranki](https://open.spotify.com/track/3STO1ZJi4EBbYCWY6qC8rv) | [LIT killah](https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq), [KHEA](https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR) | [MAWZ](https://open.spotify.com/album/1SBHFu8QLBlhsqLL7WQtlR) | 3:42 |
 | 34 | [LUZ DELITO](https://open.spotify.com/track/13VEtVCYfLTVsq5STs3SlW) | [WOS](https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK) | [CARAVANA](https://open.spotify.com/album/7L6gLnSJBTU0tOneX0Ol91) | 2:35 |
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lrJMke0u5G.md) - [plain]
 | 38 | [La Flor](https://open.spotify.com/track/2x9kIjm8AejYJCunY9yKOA) | [Nonpalidece](https://open.spotify.com/artist/0W1EfnztQTHuv03MuMzWPe) | [Nonpalidesenchufado](https://open.spotify.com/album/20yi48fX2JcQ9JnIlo29bV) | 5:14 |
 | 39 | [En Avenidas](https://open.spotify.com/track/5GgmtaUrV9qk6aBTbcupcd) | [El Kuelgue](https://open.spotify.com/artist/6jRUKVZllu1wtgXHbqvUmT) | [Ruli](https://open.spotify.com/album/3V7wGsYWEcD97RsKgIFZJq) | 3:15 |
 | 40 | [Allí donde solíamos gritar](https://open.spotify.com/track/29tVNOmg85qDLh2wVnJxpv) | [Love of Lesbian](https://open.spotify.com/artist/6VCoG3MG7ZKRxDjaYOvtrF) | [1999 \(o como generar incendios de nieve con una lupa enfocando la luna\)](https://open.spotify.com/album/1vvfLVVcU1o8sPMq25CxpF) | 5:37 |
-| 41 | [Potra](https://open.spotify.com/track/1DIBkKqsREnKgxpZ5RJjRf) | [NAFTA](https://open.spotify.com/artist/5pg9cOudU7ezj3FnUABgu6) | [Nafta](https://open.spotify.com/album/4yl3UNCVcTf287qlknLxVl) | 4:17 |
-| 42 | [Aves Migratorias](https://open.spotify.com/track/5Y7Lt08Xc885tzG5kKTZ4u) | [Skay Beilinson](https://open.spotify.com/artist/4K8Mrjr9IvA8QU0Vjj4BED) | [¿Dónde Vas?](https://open.spotify.com/album/05R00CcrMgbTSOh8HZYcnZ) | 3:22 |
+| 41 | [Aves Migratorias](https://open.spotify.com/track/5Y7Lt08Xc885tzG5kKTZ4u) | [Skay Beilinson](https://open.spotify.com/artist/4K8Mrjr9IvA8QU0Vjj4BED) | [¿Dónde Vas?](https://open.spotify.com/album/05R00CcrMgbTSOh8HZYcnZ) | 3:22 |
+| 42 | [Potra](https://open.spotify.com/track/1DIBkKqsREnKgxpZ5RJjRf) | [NAFTA](https://open.spotify.com/artist/5pg9cOudU7ezj3FnUABgu6) | [Nafta](https://open.spotify.com/album/4yl3UNCVcTf287qlknLxVl) | 4:17 |
 | 43 | [Perdido](https://open.spotify.com/track/5S7k88yKKQe2sPPvpZnH3R) | [Airbag](https://open.spotify.com/artist/1wKDGglKV4FsFS85r2Dmpr) | [Al Parecer Todo Ha Sido una Trampa](https://open.spotify.com/album/25wv6eU2tDQDPLAYTyuj2Q) | 4:07 |
 | 44 | [NIÑO GORDO FLACO](https://open.spotify.com/track/0Wz6TToEPwxzH482fuGEwO) | [WOS](https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK), [CA7RIEL](https://open.spotify.com/artist/348pk4o3EhKmsSahzuClSf) | [OSCURO ÉXTASIS](https://open.spotify.com/album/0fYhjxeRFdXp6s8R9hUXKt) | 2:24 |
 | 45 | [Ganas](https://open.spotify.com/track/54JWFISolUGIbtNeANGp2B) | [Zoe Gotusso](https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS) | [Mi Primer Día Triste](https://open.spotify.com/album/7IT0jjgh94QCM7Uyfn5Oyo) | 4:14 |
@@ -101,12 +101,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lrJMke0u5G.md) - [plain]
 | 91 | [Aguas Turbulentas](https://open.spotify.com/track/7GXEbrbXdBi3v3KHFzZYc3) | [Juanse](https://open.spotify.com/artist/5AQlQBU9LCmQwReukeom2I) | [222 BIOGRAMA](https://open.spotify.com/album/6R8WKBSETdBft1jXtbvBmo) | 3:30 |
 | 92 | [Picante](https://open.spotify.com/track/5VB2lmH2J2tnJBjMURSN6r) | [Connie Isla](https://open.spotify.com/artist/3rRWzsERkCNBl27Nih029a) | [Picante](https://open.spotify.com/album/2vM4XgkyBTi7kKpxFvrpdl) | 3:07 |
 | 93 | [Habladurías](https://open.spotify.com/track/2NrbopmQukNS8fOp5n8QkO) | [Ficción](https://open.spotify.com/artist/2JpGzW7UoWhl2OSlSM2GJD) | [Habladurías](https://open.spotify.com/album/2mPMj1gsZUH85grueUV75W) | 3:09 |
-| 94 | [Tengo Todo](https://open.spotify.com/track/6x9PGO5Dijv5BfqfLRuKDS) | [Los Mentidores](https://open.spotify.com/artist/1o17CAvZHduKv8DzVs1UXT), [Ricardo Tapia](https://open.spotify.com/artist/3NONwjxJLj1yc4GjBdBeUY) | [Tipos Serios](https://open.spotify.com/album/3zNyBEZmtuO1FKmuGWV5Vh) | 2:30 |
-| 95 | [14:14](https://open.spotify.com/track/6By9CmyvJ1LHf5vxMQPMho) | [MOY](https://open.spotify.com/artist/2yTkC3PLhJN8QHqNIz8w1V) | [14:14](https://open.spotify.com/album/3687TLG5RfZ7BT8bFBYZhk) | 3:11 |
+| 94 | [14:14](https://open.spotify.com/track/6By9CmyvJ1LHf5vxMQPMho) | [MOY](https://open.spotify.com/artist/2yTkC3PLhJN8QHqNIz8w1V) | [14:14](https://open.spotify.com/album/3687TLG5RfZ7BT8bFBYZhk) | 3:11 |
+| 95 | [Tengo Todo](https://open.spotify.com/track/6x9PGO5Dijv5BfqfLRuKDS) | [Los Mentidores](https://open.spotify.com/artist/1o17CAvZHduKv8DzVs1UXT), [Ricardo Tapia](https://open.spotify.com/artist/3NONwjxJLj1yc4GjBdBeUY) | [Tipos Serios](https://open.spotify.com/album/3zNyBEZmtuO1FKmuGWV5Vh) | 2:30 |
 | 96 | [Paisano De Hurlingham](https://open.spotify.com/track/76Ljrd2GAJsHi7CHvZQS26) | [Divididos](https://open.spotify.com/artist/6ZIgPKHzpcswB8zh7sRIhx) | [Serie Oro](https://open.spotify.com/album/0wys34onwdNHLCTZWLjLt8) | 3:58 |
 | 97 | [Fijate](https://open.spotify.com/track/07o3nk0mDAspJ2qgU0qOtn) | [Micky Rodriguez](https://open.spotify.com/artist/0QXzxmIHIeQEYvRCOmJ0vB) | [Fijate](https://open.spotify.com/album/3E6wu3CunRtERaWHh3klj8) | 3:54 |
 | 98 | [Detox](https://open.spotify.com/track/2ttUrgPFiyWOHxbauXSVRo) | [Natalie Perez](https://open.spotify.com/artist/1Y99HOeRzRc27my6NJE3rE) | [Detox](https://open.spotify.com/album/2G9ADFNXJROkdiV8faSYQb) | 2:47 |
 | 99 | [El Marginal](https://open.spotify.com/track/0R2271joKqIt1utuHQbQ4w) | [Sara Hebe](https://open.spotify.com/artist/4pFUriuYqqAmBCvqF9o6LW) | [El Marginal](https://open.spotify.com/album/1SrbhByvhomAAURiA7MLRa) | 3:08 |
 | 100 | [Banda de Garage \- Antes \- Ferro 2014 en Vivo](https://open.spotify.com/track/6VeDyMhky3csClQ1jABaCB) | [Ciro y los Persas](https://open.spotify.com/artist/2Eo4Yaukt9d6dnZrY5hQKi) | [Qué Placer Verte Otra Vez \(Ferro 2014 En Vivo\)](https://open.spotify.com/album/2ZyM4nbcyK6UlPZfxdqQ0m) | 4:26 |
 
-Snapshot ID: `MCxlOTJhZGYxNWI2MDFkMWIwNTRhMmY0OWNjNmQyMjVlZWJjZjgwYzg1`
+Snapshot ID: `MCwxYWRlNjAyZTA3MGFjZTAxYjdhNmM5ZTMzMTI4NzA5OWIxY2RmNDlm`

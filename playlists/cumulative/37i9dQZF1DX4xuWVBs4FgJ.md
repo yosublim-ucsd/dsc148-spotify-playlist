@@ -4,7 +4,7 @@
 
 > The perfect soundtrack to those long nights over dinner
 
-394 songs - 23 hr 19 min
+395 songs - 23 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -350,7 +350,8 @@
 | [Till Forever Falls Apart](https://open.spotify.com/track/4x5YzxjrF9wvIIXJV7TveC) | [Ashe](https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM), [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX) | [Ashlyn](https://open.spotify.com/album/5eCmZVM5Kspu2B1cyVdSqq) | 3:42 | 2023-06-30 |  |
 | [To Be With You \- 2021 Remastered](https://open.spotify.com/track/0eifvmNPHWaSh4IKNR4Xva) | [Mr\. Big](https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3) | [Lean Into It \(30th Anniversary Edition\)](https://open.spotify.com/album/2Y7fURPZCCr4iZIrM2S3dR) | 3:28 | 2022-07-22 |  |
 | [Tomorrow](https://open.spotify.com/track/728NYU4I8VfuQsySPd0i3S) | [Fly By Midnight](https://open.spotify.com/artist/4rQTEdG6hDVOlDUFKs9EjZ) | [Tomorrow](https://open.spotify.com/album/0r9RJfAp7wHOlNPXBp4BSn) | 3:05 | 2021-06-22 | 2022-07-29 |
-| [Too Good to be True](https://open.spotify.com/track/4vIiVs5JoNfqqRi5o7jAIb) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Too Good to be True](https://open.spotify.com/album/57y7NpfTINlnrNitu8vwft) | 2:40 | 2024-03-15 |  |
+| [Too Good to be True](https://open.spotify.com/track/27RDQ0TfxzWMlQFuKrPT11) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Deeper Well](https://open.spotify.com/album/5SxZmGwc4eJuPp6PcO4JgJ) | 2:40 | 2024-03-15 |  |
+| [Too Good to be True](https://open.spotify.com/track/4vIiVs5JoNfqqRi5o7jAIb) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Too Good to be True](https://open.spotify.com/album/57y7NpfTINlnrNitu8vwft) | 2:40 | 2024-03-15 | 2024-03-21 |
 | [Too Much To Ask](https://open.spotify.com/track/39jXnbACjiaiTwwhsr5sY5) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [Flicker \(Deluxe\)](https://open.spotify.com/album/7ahctQBwcSxDdP0fRAPo2p) | 3:43 | 2023-05-26 | 2023-07-22 |
 | [Too Much To H8](https://open.spotify.com/track/3jsZnIOR0xnPg9XB8Ah7RQ) | [Paige](https://open.spotify.com/artist/2hscsIIlxYGIUYsfarFCG7) | [Too Much To H8](https://open.spotify.com/album/45dRzNGb0feUCNe9WYgQ6g) | 2:52 | 2022-05-17 | 2022-05-22 |
 | [TV](https://open.spotify.com/track/3GYlZ7tbxLOxe6ewMNVTkw) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Guitar Songs](https://open.spotify.com/album/1YPWxMpQEC8kcOuefgXbhj) | 4:41 | 2022-07-22 | 2022-09-13 |

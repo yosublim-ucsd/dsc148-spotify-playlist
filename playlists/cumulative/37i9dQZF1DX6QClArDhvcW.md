@@ -4,7 +4,7 @@
 
 > Laid\-back beats for an easygoing morning.
 
-513 songs - 19 hr 27 min
+514 songs - 19 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -347,7 +347,8 @@
 | [positive](https://open.spotify.com/track/6EXzpGmH1gpvQclBz4GcfR) | [Slopoke](https://open.spotify.com/artist/1iJ5ZP2QithYEHlojjT3Dw) | [positive](https://open.spotify.com/album/4dmOhdd46ePy9uaCQXwIaz) | 2:33 | 2022-05-20 |  |
 | [punks n trunks](https://open.spotify.com/track/2FoNSgW2hRXRNrsAhQu7AW) | [meadowzz](https://open.spotify.com/artist/6iJBPhaUkwdsG9QPc6qcEz) | [subtopia](https://open.spotify.com/album/5MD8YF55ju64o9Cu0R5XCM) | 3:10 | 2022-05-20 |  |
 | [Rainy Day](https://open.spotify.com/track/6i0iAPYFh8Nbqvu3WqsH7h) | [iamalex](https://open.spotify.com/artist/6M6LWvHKgBle8SUtSpq6SU), [Felty](https://open.spotify.com/artist/5zNV6mtDd7Bo9ncZws9TFG), [Søren Søstrom](https://open.spotify.com/artist/2F5B5YgPDinjL9x35lkkke) | [Birch](https://open.spotify.com/album/3wCXdWhd3NYXyfHYGprgTw) | 2:03 | 2022-05-20 | 2023-09-22 |
-| [reading](https://open.spotify.com/track/5cnwPn0MKDPnu2rUamIRgb) | [herbstreit](https://open.spotify.com/artist/0xEjYcNKVqT5QQOpyas94i) | [reading](https://open.spotify.com/album/2YVst3ngUsry3PB4Gz3JWN) | 2:41 | 2024-01-12 |  |
+| [reading](https://open.spotify.com/track/5cnwPn0MKDPnu2rUamIRgb) | [herbstreit](https://open.spotify.com/artist/0xEjYcNKVqT5QQOpyas94i) | [reading](https://open.spotify.com/album/2YVst3ngUsry3PB4Gz3JWN) | 2:41 | 2024-01-12 | 2024-03-21 |
+| [reading](https://open.spotify.com/track/3w2Yi3R4KMv4XvYTbMDxgR) | [herbstreit](https://open.spotify.com/artist/0xEjYcNKVqT5QQOpyas94i) | [reading](https://open.spotify.com/album/6PVQb5IcN1NBMA3dTMflEL) | 2:41 | 2024-03-08 |  |
 | [ready set](https://open.spotify.com/track/2CgICrxMPfvQfnlfTXCSCA) | [olbejom](https://open.spotify.com/artist/6ZVFQS79wada5T9YGOqqfq) | [ready set](https://open.spotify.com/album/30pz6xSWNHZYeP7GPciVnq) | 1:48 | 2022-10-14 |  |
 | [Red Sea Haze](https://open.spotify.com/track/1Y3dBNQ5SoeD9wVEJD2G0z) | [Niklouds](https://open.spotify.com/artist/2Yb1xfZ2NpUdq7HStg8qtJ), [Billa Qause](https://open.spotify.com/artist/7aHDFeKOQ2mgSGb8DTQf8Y) | [Red Sea Haze](https://open.spotify.com/album/0GDv6ErfbXhcNXHfwlznMY) | 2:41 | 2023-04-20 | 2023-10-27 |
 | [renaissance](https://open.spotify.com/track/6av4O17fU0ID8EjrnxrVqf) | [DRWN.](https://open.spotify.com/artist/0h6JSIfoSSbXtaBWiUC4Wy), [dharā](https://open.spotify.com/artist/1M6OZtIOe8HhLXuGy8djF6) | [honey](https://open.spotify.com/album/5E0Lm49e56zbWMwzke8nTj) | 1:50 | 2022-05-20 | 2023-11-24 |

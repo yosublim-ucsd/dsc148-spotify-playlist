@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVnLMMF0vzrO.md) - [plain]
 
 > All the music from Narcos: Mexico, now on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,397 likes - 167 songs - 10 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,393 likes - 167 songs - 10 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVnLMMF0vzrO.md) - [plain]
 | 31 | [Lost In My World \(Perdido en Mi Mundo\)](https://open.spotify.com/track/7CsV5sRCCpayqPhmtJoNTU) | [Los Dug Dug's](https://open.spotify.com/artist/4NJDvfZdkJBPqecQ83THVT) | [15 Éxitos de los Dug Dug's Rock and Roll](https://open.spotify.com/album/5CtcJWRwRPZF0WkJ92ZspC) | 4:07 |
 | 32 | [Regulate](https://open.spotify.com/track/7nYvUtkQMx1v80S2FH2s9J) | [Warren G](https://open.spotify.com/artist/2B4ZHz4QDWJTXPFPgO5peE), [Nate Dogg](https://open.spotify.com/artist/1Oa0bMld0A3u5OTYfMzp5h) | [Regulate… G Funk Era](https://open.spotify.com/album/2VMGv3inRLPM4GOMXf37qu) | 4:08 |
 | 33 | [Inolvidable](https://open.spotify.com/track/3JJtV0X9UkseQeNq3ueGbM) | [Noro Morales](https://open.spotify.com/artist/2bfKvPIAQ9IEQQIKw6NPVn) | [His Piano and Rhythm](https://open.spotify.com/album/4aFcYglIkySzCUJNz2WxXo) | 2:39 |
-| 34 | [Oro Falso](https://open.spotify.com/track/4u0aRgrsSnYEKEko0AtsBm) | [La Sonora Matancera](https://open.spotify.com/artist/01p7Homi0d4XxZ06f2NYYD) | [Años Dorados Cubanos](https://open.spotify.com/album/4wsvL8UN69dVJHZ3rvQItJ) | 2:48 |
+| 34 | [Oro Falso](https://open.spotify.com/track/6WO2tX3R2aF6bomEowLqfQ) | [La Sonora Matancera](https://open.spotify.com/artist/01p7Homi0d4XxZ06f2NYYD) | [Años Dorados Cubanos](https://open.spotify.com/album/5OvQRqKSl9pJnXmaFH1aV9) | 2:48 |
 | 35 | [Perdoname](https://open.spotify.com/track/2XVYOgto4sMUCkUXzy5Iqc) | [Panchito](https://open.spotify.com/artist/3V7CfTui7f9B1SOF6kuiI6) | [La Gloria De Cuba \- Los Grandes Exitos Originales, Vol\. 2](https://open.spotify.com/album/3eijisr94V1y3LTDYdJw53) | 2:58 |
 | 36 | [La Cabrona](https://open.spotify.com/track/2lAjesTTFDN3QUUAVAe7W8) | [La Numero 1 Banda Jerez De Marco A\. Flores](https://open.spotify.com/artist/5KMVb0Y20BTIrobzI2YZUi) | [Corazón Ranchero](https://open.spotify.com/album/3ueilf7q7bssvTMRrQxwFc) | 3:23 |
 | 37 | [Caught In The Act](https://open.spotify.com/track/7pbAA6ndyEqTXVTIjsZwZq) | [Voice Of Destruction](https://open.spotify.com/artist/3CGHA2XZh75m83zpZLxsvg) | [Steamroller Tactics for Fun & Profit](https://open.spotify.com/album/30lya6wtNVQniyUCySjIU4) | 4:31 |
@@ -176,4 +176,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVnLMMF0vzrO.md) - [plain]
 | 166 | [Rock And Roll Never Forgets \- Live/Remastered](https://open.spotify.com/track/7wfMo45fLnq1fnmghB5388) | [Bob Seger](https://open.spotify.com/artist/485uL27bPomh29R4JmQehQ) | [Nine Tonight \(Live/Remastered\)](https://open.spotify.com/album/3IopzrrHrPPzEEp28YtP35) | 3:35 |
 | 167 | [Dejé la puerta abierta](https://open.spotify.com/track/3EfbEKy4d9yQu7N53pSdfa) | [Efraín Ríos](https://open.spotify.com/artist/1QFw9RTzNqQ66UEJoNfEZ4) | [Antologia de Cuba](https://open.spotify.com/album/3AFDWZtcXQbPOfnk9r6Bag) | 2:52 |
 
-Snapshot ID: `MCw0MzUzYmEzMGYyYmVmNjk0NDNkYTdmYzkyMThiNzFhMGUzMmIwMjcy`
+Snapshot ID: `MCwzNTRmNWU5OTYyNmQ4YjczNDQ3OGEzZjhiNmVlZjRhNDFjNmQzOWNj`

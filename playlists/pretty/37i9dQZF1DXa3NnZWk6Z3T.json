@@ -1,12 +1,12 @@
 {
   "description": "Keep calm and enjoy this musical cafecito.",
-  "num_followers": 597083,
+  "num_followers": 597133,
   "original_name": "Caf\u00e9 con Leche",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmNWVhZDljODU2Zjk3YzE4ODkxMzU5NmI0YjlkYTdiYjM4MTk3NzFj",
+  "snapshot_id": "MCwwZjc5NjRmYzcxZDRjZjFmM2EyMDQ0ZDE5YTkwMmE5MzNkZGNmMTVk",
   "tracks": [
     {
       "added_at": "2024-03-14 22:09:36",
@@ -1063,6 +1063,22 @@
     {
       "added_at": "2024-03-14 22:09:36",
       "album": {
+        "name": "Alguna Vez All\u00ed Algo Ardi\u00f3",
+        "url": "https://open.spotify.com/album/0Dh1uXVYiZ3TQs2KxmU3h3"
+      },
+      "artists": [
+        {
+          "name": "Mi Sobrino Memo",
+          "url": "https://open.spotify.com/artist/2ae7hwWgesyGJVI2vebofH"
+        }
+      ],
+      "duration_ms": 272130,
+      "name": "Alguna Vez All\u00ed Algo Ardi\u00f3",
+      "url": "https://open.spotify.com/track/1s0yEc9JnVtr23Ht8hlovv"
+    },
+    {
+      "added_at": "2024-03-14 22:09:36",
+      "album": {
         "name": "Bachata Rosa",
         "url": "https://open.spotify.com/album/572kD3xhAbww3C6eqh9mQV"
       },
@@ -1079,22 +1095,6 @@
       "duration_ms": 255000,
       "name": "Bachata Rosa",
       "url": "https://open.spotify.com/track/4kN3Q110F6hH9fSMNHlluH"
-    },
-    {
-      "added_at": "2024-03-14 22:09:36",
-      "album": {
-        "name": "Alguna Vez All\u00ed Algo Ardi\u00f3",
-        "url": "https://open.spotify.com/album/0Dh1uXVYiZ3TQs2KxmU3h3"
-      },
-      "artists": [
-        {
-          "name": "Mi Sobrino Memo",
-          "url": "https://open.spotify.com/artist/2ae7hwWgesyGJVI2vebofH"
-        }
-      ],
-      "duration_ms": 272130,
-      "name": "Alguna Vez All\u00ed Algo Ardi\u00f3",
-      "url": "https://open.spotify.com/track/1s0yEc9JnVtr23Ht8hlovv"
     },
     {
       "added_at": "2024-03-14 22:09:36",
@@ -1355,6 +1355,22 @@
     {
       "added_at": "2024-03-14 22:09:36",
       "album": {
+        "name": "Archivos Pt.1",
+        "url": "https://open.spotify.com/album/019VrJB8sbXd52dsdyUtqu"
+      },
+      "artists": [
+        {
+          "name": "Anthony Escand\u00f3n",
+          "url": "https://open.spotify.com/artist/2eaNtiW6LwYMhyGIxmJ90J"
+        }
+      ],
+      "duration_ms": 157522,
+      "name": "Tu Me Dijiste Que Venias",
+      "url": "https://open.spotify.com/track/5IPweAJxBcDyC7dDkcSyE1"
+    },
+    {
+      "added_at": "2024-03-14 22:09:36",
+      "album": {
         "name": "Juan de Dios",
         "url": "https://open.spotify.com/album/753t5Yiwkv1Mg89H4IolDm"
       },
@@ -1371,22 +1387,6 @@
       "duration_ms": 213644,
       "name": "Juan de Dios",
       "url": "https://open.spotify.com/track/4lAtI8c42fN4eICMJRwH6n"
-    },
-    {
-      "added_at": "2024-03-14 22:09:36",
-      "album": {
-        "name": "Archivos Pt.1",
-        "url": "https://open.spotify.com/album/019VrJB8sbXd52dsdyUtqu"
-      },
-      "artists": [
-        {
-          "name": "Anthony Escand\u00f3n",
-          "url": "https://open.spotify.com/artist/2eaNtiW6LwYMhyGIxmJ90J"
-        }
-      ],
-      "duration_ms": 157522,
-      "name": "Tu Me Dijiste Que Venias",
-      "url": "https://open.spotify.com/track/5IPweAJxBcDyC7dDkcSyE1"
     },
     {
       "added_at": "2024-03-14 22:09:36",
@@ -1423,22 +1423,6 @@
     {
       "added_at": "2024-03-14 22:09:36",
       "album": {
-        "name": "Tan Dif\u00edcil de Entender",
-        "url": "https://open.spotify.com/album/4llL1SDFfsIsbuBY0seqKd"
-      },
-      "artists": [
-        {
-          "name": "Pantoja",
-          "url": "https://open.spotify.com/artist/1sSMrejChoHWBnCe7w6fKc"
-        }
-      ],
-      "duration_ms": 234480,
-      "name": "Bebesina (Nada M\u00e1s Que Estar Contigo)",
-      "url": "https://open.spotify.com/track/2TFURBkXGWzxdf2OLMLtDq"
-    },
-    {
-      "added_at": "2024-03-14 22:09:36",
-      "album": {
         "name": "Hermanos",
         "url": "https://open.spotify.com/album/3Ym20zSH4IO3ts16Fbl4iK"
       },
@@ -1451,6 +1435,22 @@
       "duration_ms": 150000,
       "name": "Hermanos",
       "url": "https://open.spotify.com/track/7MUzu20kwvA0aY82nYVKtl"
+    },
+    {
+      "added_at": "2024-03-14 22:09:36",
+      "album": {
+        "name": "Tan Dif\u00edcil de Entender",
+        "url": "https://open.spotify.com/album/4llL1SDFfsIsbuBY0seqKd"
+      },
+      "artists": [
+        {
+          "name": "Pantoja",
+          "url": "https://open.spotify.com/artist/1sSMrejChoHWBnCe7w6fKc"
+        }
+      ],
+      "duration_ms": 234480,
+      "name": "Bebesina (Nada M\u00e1s Que Estar Contigo)",
+      "url": "https://open.spotify.com/track/2TFURBkXGWzxdf2OLMLtDq"
     },
     {
       "added_at": "2024-03-14 22:09:36",
@@ -1531,6 +1531,22 @@
     {
       "added_at": "2024-03-14 22:09:36",
       "album": {
+        "name": "Pasajera",
+        "url": "https://open.spotify.com/album/4te0ewSnaptgl1qYn7cZLy"
+      },
+      "artists": [
+        {
+          "name": "Debi Nova",
+          "url": "https://open.spotify.com/artist/5zaG384VZzAb6AMfEnSy2r"
+        }
+      ],
+      "duration_ms": 147120,
+      "name": "Pasajera",
+      "url": "https://open.spotify.com/track/5STIaMQXTQIpWyF3BLS40o"
+    },
+    {
+      "added_at": "2024-03-14 22:09:36",
+      "album": {
         "name": "H\u00e1blame",
         "url": "https://open.spotify.com/album/7w28fuy5R66v2JZK5TJ9oF"
       },
@@ -1547,22 +1563,6 @@
       "duration_ms": 203059,
       "name": "H\u00e1blame",
       "url": "https://open.spotify.com/track/065HDJH9bo6LUa6qMJbwfc"
-    },
-    {
-      "added_at": "2024-03-14 22:09:36",
-      "album": {
-        "name": "Pasajera",
-        "url": "https://open.spotify.com/album/4te0ewSnaptgl1qYn7cZLy"
-      },
-      "artists": [
-        {
-          "name": "Debi Nova",
-          "url": "https://open.spotify.com/artist/5zaG384VZzAb6AMfEnSy2r"
-        }
-      ],
-      "duration_ms": 147120,
-      "name": "Pasajera",
-      "url": "https://open.spotify.com/track/5STIaMQXTQIpWyF3BLS40o"
     },
     {
       "added_at": "2024-03-14 22:09:36",
@@ -1787,6 +1787,22 @@
     {
       "added_at": "2024-03-14 22:09:36",
       "album": {
+        "name": "Para Echar la Lloradita",
+        "url": "https://open.spotify.com/album/1JkjAUi5VkRPtiVbT273KR"
+      },
+      "artists": [
+        {
+          "name": "Arroba Nat",
+          "url": "https://open.spotify.com/artist/4Srl3qf5e1RfnXi5wBlIL4"
+        }
+      ],
+      "duration_ms": 234750,
+      "name": "Ausente",
+      "url": "https://open.spotify.com/track/7uR5yFqTHZYqPlO9zXTR2M"
+    },
+    {
+      "added_at": "2024-03-14 22:09:36",
+      "album": {
         "name": "Bajo el Mismo Cielo",
         "url": "https://open.spotify.com/album/3q6NKY1RkOtCY184qlBmMK"
       },
@@ -1799,6 +1815,26 @@
       "duration_ms": 198423,
       "name": "La Aventurera",
       "url": "https://open.spotify.com/track/2Gqu40SIdJcf1FfN5U8fVf"
+    },
+    {
+      "added_at": "2024-03-14 22:09:36",
+      "album": {
+        "name": "Herminia",
+        "url": "https://open.spotify.com/album/6dXTdgrtOhBIAK9QwLd2P5"
+      },
+      "artists": [
+        {
+          "name": "Silvina Moreno",
+          "url": "https://open.spotify.com/artist/2wMN1UAgISJA8yQusQL18G"
+        },
+        {
+          "name": "Agarrate Catalina",
+          "url": "https://open.spotify.com/artist/0Jo06O68y5JjVgiPbAR9Ox"
+        }
+      ],
+      "duration_ms": 226466,
+      "name": "Esperanza (feat. Agarrate Catalina)",
+      "url": "https://open.spotify.com/track/3yUylEQIeozYWNXv8MIGqJ"
     },
     {
       "added_at": "2024-03-14 22:09:36",
@@ -1835,42 +1871,6 @@
       "duration_ms": 224268,
       "name": "Clich\u00e9",
       "url": "https://open.spotify.com/track/76UUkIG3gQz3LZIDPywl4q"
-    },
-    {
-      "added_at": "2024-03-14 22:09:36",
-      "album": {
-        "name": "Herminia",
-        "url": "https://open.spotify.com/album/6dXTdgrtOhBIAK9QwLd2P5"
-      },
-      "artists": [
-        {
-          "name": "Silvina Moreno",
-          "url": "https://open.spotify.com/artist/2wMN1UAgISJA8yQusQL18G"
-        },
-        {
-          "name": "Agarrate Catalina",
-          "url": "https://open.spotify.com/artist/0Jo06O68y5JjVgiPbAR9Ox"
-        }
-      ],
-      "duration_ms": 226466,
-      "name": "Esperanza (feat. Agarrate Catalina)",
-      "url": "https://open.spotify.com/track/3yUylEQIeozYWNXv8MIGqJ"
-    },
-    {
-      "added_at": "2024-03-14 22:09:36",
-      "album": {
-        "name": "Para Echar la Lloradita",
-        "url": "https://open.spotify.com/album/1JkjAUi5VkRPtiVbT273KR"
-      },
-      "artists": [
-        {
-          "name": "Arroba Nat",
-          "url": "https://open.spotify.com/artist/4Srl3qf5e1RfnXi5wBlIL4"
-        }
-      ],
-      "duration_ms": 234750,
-      "name": "Ausente",
-      "url": "https://open.spotify.com/track/7uR5yFqTHZYqPlO9zXTR2M"
     },
     {
       "added_at": "2024-03-14 22:09:36",
@@ -1995,26 +1995,6 @@
     {
       "added_at": "2024-03-14 22:09:36",
       "album": {
-        "name": "Cartagena",
-        "url": "https://open.spotify.com/album/2moAPQ5wUo2OFVY6hGOKz9"
-      },
-      "artists": [
-        {
-          "name": "Rafael Pond\u00e9",
-          "url": "https://open.spotify.com/artist/63ONM3te92h07qo9t6OYzc"
-        },
-        {
-          "name": "Melo G\u00eda",
-          "url": "https://open.spotify.com/artist/1mBhm9EVdCyvCSS9ujhseU"
-        }
-      ],
-      "duration_ms": 221111,
-      "name": "Cartagena",
-      "url": "https://open.spotify.com/track/7nuAQwrVIe6ulWBaM1eR71"
-    },
-    {
-      "added_at": "2024-03-14 22:09:36",
-      "album": {
         "name": "Qu\u00e9 Dulce",
         "url": "https://open.spotify.com/album/0ne8odvK5xWK613ruve7X5"
       },
@@ -2031,6 +2011,26 @@
       "duration_ms": 133666,
       "name": "Qu\u00e9 Dulce",
       "url": "https://open.spotify.com/track/6xrBdJISdw3WTMtJVxll7W"
+    },
+    {
+      "added_at": "2024-03-14 22:09:36",
+      "album": {
+        "name": "Cartagena",
+        "url": "https://open.spotify.com/album/2moAPQ5wUo2OFVY6hGOKz9"
+      },
+      "artists": [
+        {
+          "name": "Rafael Pond\u00e9",
+          "url": "https://open.spotify.com/artist/63ONM3te92h07qo9t6OYzc"
+        },
+        {
+          "name": "Melo G\u00eda",
+          "url": "https://open.spotify.com/artist/1mBhm9EVdCyvCSS9ujhseU"
+        }
+      ],
+      "duration_ms": 221111,
+      "name": "Cartagena",
+      "url": "https://open.spotify.com/track/7nuAQwrVIe6ulWBaM1eR71"
     },
     {
       "added_at": "2024-03-14 22:09:36",
@@ -2071,22 +2071,6 @@
     {
       "added_at": "2024-03-14 22:09:36",
       "album": {
-        "name": "Morocha",
-        "url": "https://open.spotify.com/album/562Y2FlQlL1IorRt8XlZ6g"
-      },
-      "artists": [
-        {
-          "name": "Bautista Esandi",
-          "url": "https://open.spotify.com/artist/4izhjDz0ZcXxJ7QaUxoopy"
-        }
-      ],
-      "duration_ms": 178474,
-      "name": "Morocha",
-      "url": "https://open.spotify.com/track/0J5iKmHgIeFQPHXVzYl50l"
-    },
-    {
-      "added_at": "2024-03-14 22:09:36",
-      "album": {
         "name": "Sin Ti",
         "url": "https://open.spotify.com/album/0CCFzerylMGnuPxFaolglv"
       },
@@ -2099,6 +2083,22 @@
       "duration_ms": 190367,
       "name": "Sin Ti",
       "url": "https://open.spotify.com/track/1AsDi1YPkSy9ZuVBN4XHje"
+    },
+    {
+      "added_at": "2024-03-14 22:09:36",
+      "album": {
+        "name": "Morocha",
+        "url": "https://open.spotify.com/album/562Y2FlQlL1IorRt8XlZ6g"
+      },
+      "artists": [
+        {
+          "name": "Bautista Esandi",
+          "url": "https://open.spotify.com/artist/4izhjDz0ZcXxJ7QaUxoopy"
+        }
+      ],
+      "duration_ms": 178474,
+      "name": "Morocha",
+      "url": "https://open.spotify.com/track/0J5iKmHgIeFQPHXVzYl50l"
     },
     {
       "added_at": "2024-03-14 22:09:36",
@@ -2139,22 +2139,18 @@
     {
       "added_at": "2024-03-14 22:09:36",
       "album": {
-        "name": "Ri\u00e9ndose de M\u00ed",
-        "url": "https://open.spotify.com/album/5DZuc93pCvPra5ecaYgNKa"
+        "name": "Frontera / Fuji",
+        "url": "https://open.spotify.com/album/2Nyjvin6VFdxtRJGAgQ2yr"
       },
       "artists": [
         {
-          "name": "Los Rumberos",
-          "url": "https://open.spotify.com/artist/05k3uSz8dyKtbllIY988Ip"
-        },
-        {
-          "name": "Alex Cuba",
-          "url": "https://open.spotify.com/artist/7gZRUp2WL6r11PXTv309P1"
+          "name": "Loli Molina",
+          "url": "https://open.spotify.com/artist/4mStQ3gsuRt6YDkloBov32"
         }
       ],
-      "duration_ms": 201480,
-      "name": "Ri\u00e9ndose de M\u00ed",
-      "url": "https://open.spotify.com/track/0ZnmpuDFDqokEM0gget638"
+      "duration_ms": 278964,
+      "name": "Fuji",
+      "url": "https://open.spotify.com/track/6r4CEyVoLCE7oZ90pWut3Y"
     },
     {
       "added_at": "2024-03-14 22:09:36",
@@ -2175,18 +2171,22 @@
     {
       "added_at": "2024-03-14 22:09:36",
       "album": {
-        "name": "Frontera / Fuji",
-        "url": "https://open.spotify.com/album/2Nyjvin6VFdxtRJGAgQ2yr"
+        "name": "Ri\u00e9ndose de M\u00ed",
+        "url": "https://open.spotify.com/album/5DZuc93pCvPra5ecaYgNKa"
       },
       "artists": [
         {
-          "name": "Loli Molina",
-          "url": "https://open.spotify.com/artist/4mStQ3gsuRt6YDkloBov32"
+          "name": "Los Rumberos",
+          "url": "https://open.spotify.com/artist/05k3uSz8dyKtbllIY988Ip"
+        },
+        {
+          "name": "Alex Cuba",
+          "url": "https://open.spotify.com/artist/7gZRUp2WL6r11PXTv309P1"
         }
       ],
-      "duration_ms": 278964,
-      "name": "Fuji",
-      "url": "https://open.spotify.com/track/6r4CEyVoLCE7oZ90pWut3Y"
+      "duration_ms": 201480,
+      "name": "Ri\u00e9ndose de M\u00ed",
+      "url": "https://open.spotify.com/track/0ZnmpuDFDqokEM0gget638"
     },
     {
       "added_at": "2024-03-14 22:09:36",
@@ -2451,22 +2451,6 @@
     {
       "added_at": "2024-03-14 22:09:36",
       "album": {
-        "name": "Harta",
-        "url": "https://open.spotify.com/album/7xxEXEwifY6NE0sEmIybSg"
-      },
-      "artists": [
-        {
-          "name": "Mel Mu\u00f1iz",
-          "url": "https://open.spotify.com/artist/05NEGCiyDYaJtcPiagl46Y"
-        }
-      ],
-      "duration_ms": 185083,
-      "name": "Harta",
-      "url": "https://open.spotify.com/track/1J4xv5V5dzkA8UGtXSbCNU"
-    },
-    {
-      "added_at": "2024-03-14 22:09:36",
-      "album": {
         "name": "Eterno Verano",
         "url": "https://open.spotify.com/album/40LKXLc5JwGyVQ85mvdcEI"
       },
@@ -2483,6 +2467,22 @@
       "duration_ms": 238000,
       "name": "Eterno Verano",
       "url": "https://open.spotify.com/track/1LKZ4TNbzvhXypk8XSEVOR"
+    },
+    {
+      "added_at": "2024-03-14 22:09:36",
+      "album": {
+        "name": "Harta",
+        "url": "https://open.spotify.com/album/7xxEXEwifY6NE0sEmIybSg"
+      },
+      "artists": [
+        {
+          "name": "Mel Mu\u00f1iz",
+          "url": "https://open.spotify.com/artist/05NEGCiyDYaJtcPiagl46Y"
+        }
+      ],
+      "duration_ms": 185083,
+      "name": "Harta",
+      "url": "https://open.spotify.com/track/1J4xv5V5dzkA8UGtXSbCNU"
     },
     {
       "added_at": "2024-03-14 22:09:36",
@@ -2603,22 +2603,6 @@
     {
       "added_at": "2024-03-14 22:09:36",
       "album": {
-        "name": "Apasionadamente",
-        "url": "https://open.spotify.com/album/0xgN5G0w8qGlw1onYHHdks"
-      },
-      "artists": [
-        {
-          "name": "Mel Mu\u00f1iz",
-          "url": "https://open.spotify.com/artist/05NEGCiyDYaJtcPiagl46Y"
-        }
-      ],
-      "duration_ms": 180588,
-      "name": "Apasionadamente",
-      "url": "https://open.spotify.com/track/7a1Ftd97mqW58rBQmqwPel"
-    },
-    {
-      "added_at": "2024-03-14 22:09:36",
-      "album": {
         "name": "Elementales",
         "url": "https://open.spotify.com/album/1dydo5mIdwoV2cvacOzcWo"
       },
@@ -2651,6 +2635,22 @@
       "duration_ms": 191474,
       "name": "Cenizas y Miel",
       "url": "https://open.spotify.com/track/7j5n02hf4Biqj1rA6AhFiJ"
+    },
+    {
+      "added_at": "2024-03-14 22:09:36",
+      "album": {
+        "name": "Apasionadamente",
+        "url": "https://open.spotify.com/album/0xgN5G0w8qGlw1onYHHdks"
+      },
+      "artists": [
+        {
+          "name": "Mel Mu\u00f1iz",
+          "url": "https://open.spotify.com/artist/05NEGCiyDYaJtcPiagl46Y"
+        }
+      ],
+      "duration_ms": 180588,
+      "name": "Apasionadamente",
+      "url": "https://open.spotify.com/track/7a1Ftd97mqW58rBQmqwPel"
     },
     {
       "added_at": "2024-03-14 22:09:36",

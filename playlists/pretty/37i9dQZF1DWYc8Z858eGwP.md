@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYc8Z858eGwP.md) - [plain]
 
 > The most exciting new artists on the rise from the African continent & diaspora\. Cover: <a href="https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE?si=bWfP8oYHRI6Scnl72IzCZA">Tyla</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 91,307 likes - 70 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 91,318 likes - 70 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYc8Z858eGwP.md) - [plain]
 | 6 | [Mistaken](https://open.spotify.com/track/46oTVNwE53JTMCfydvCEo3) | [Libianca](https://open.spotify.com/artist/7kjSuFGKhLm8b5qXoMhRkJ), [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT), [Chlöe](https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR) | [Walk Away](https://open.spotify.com/album/43KVGBDB2ZcuLZy8ousRcc) | 3:41 |
 | 7 | [MOTO](https://open.spotify.com/track/1b83195i03SMUa1VWto8Z5) | [Lojay](https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL) | [MOTO](https://open.spotify.com/album/3MXt0hRNSIulLZy7x1XpAg) | 2:58 |
 | 8 | [People \(feat\. Ayra Starr & Omah Lay\)](https://open.spotify.com/track/4AxG1T6UJJ4xCX4Wz6JDLG) | [Libianca](https://open.spotify.com/artist/7kjSuFGKhLm8b5qXoMhRkJ), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq), [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [People \(Remixes\)](https://open.spotify.com/album/2Ebc4HsLcB4fXrTA5oNE5G) | 3:04 |
-| 9 | [DND](https://open.spotify.com/track/0BVVrZ3UL7b3VU3jE234fr) | [Dunnie](https://open.spotify.com/artist/5q1uxBdFXCDZDdNOw2rzD2) | [DND](https://open.spotify.com/album/0WENkwbQAil9puByD0fKZd) | 2:48 |
+| 9 | [DND](https://open.spotify.com/track/7mlVW46eMu9RKcfJqwXeQq) | [Dunnie](https://open.spotify.com/artist/5q1uxBdFXCDZDdNOw2rzD2) | [DND](https://open.spotify.com/album/5UkWI3kyfKfp8zKL8JeZGf) | 2:48 |
 | 10 | [Relationship](https://open.spotify.com/track/6CypiZh1I7VSPE9tyzvEK4) | [Boy Spyce](https://open.spotify.com/artist/6DUbLg2GQ7Dd7G9v6uwoPT) | [Relationship](https://open.spotify.com/album/6O0aLo7VWNZPkkBC4TfQ8F) | 2:52 |
 | 11 | [Wetin](https://open.spotify.com/track/3yu5otkADG1ldufrPxABoo) | [Yarden](https://open.spotify.com/artist/1nN9bKS2bD4OHNrKkS0Djd) | [Wetin](https://open.spotify.com/album/1tjrFRf90MQuWg9Vgv6Iwb) | 1:18 |
 | 12 | [Jara](https://open.spotify.com/track/4Kp8RzMUbGSEkjrElCRgww) | [Khaid](https://open.spotify.com/artist/2mM6BxFQCd6BHzW4W7VhQP) | [Jara](https://open.spotify.com/album/6vda4JDcL24Ango61D6jGU) | 2:40 |
@@ -54,7 +54,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYc8Z858eGwP.md) - [plain]
 | 44 | [Lazizi \- Spotify Singles \- Cover](https://open.spotify.com/track/4rutxh0KdzzxPNR75CCgJR) | [Xenia Manasseh](https://open.spotify.com/artist/2J4IvVbi2h1wB2A0p5kd86) | [Lazizi \- Spotify Singles \(Cover\)](https://open.spotify.com/album/3sKcmVnqk37Sgsdg9GBfce) | 4:40 |
 | 45 | [Not God \- Remix](https://open.spotify.com/track/3WOjwhAJopm0H1d7Z804JP) | [Fameye](https://open.spotify.com/artist/3qzyWumjTf8agsBgNTkx7L), [Stonebwoy](https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq) | [Not God \(Remix\)](https://open.spotify.com/album/05ruDWqO8oNBoz4L66xzG2) | 3:35 |
 | 46 | [Cheers To Life](https://open.spotify.com/track/35APZC4TisJJihjSDtgn3C) | [Majeeed](https://open.spotify.com/artist/3xBgAZIqiYzRh0Du0uXFAk) | [Cheers To Life.](https://open.spotify.com/album/2fZCPTAas21v7AF9pVytgj) | 2:22 |
-| 47 | [Tighter](https://open.spotify.com/track/2WRnCb0v84HQ8ZzGavDrXX) | [Tim Lyre](https://open.spotify.com/artist/4iYJ88IcQS4GFqLqWGE5yx), [Minz](https://open.spotify.com/artist/2XNwtpu314ZSFziTt0ZqZT) | [Tighter](https://open.spotify.com/album/2bVycA3gdEqU51o5rILZUI) | 3:30 |
+| 47 | [Tighter](https://open.spotify.com/track/6mDGTjuEKhX8TtcLD4NMpA) | [Tim Lyre](https://open.spotify.com/artist/4iYJ88IcQS4GFqLqWGE5yx), [Minz](https://open.spotify.com/artist/2XNwtpu314ZSFziTt0ZqZT) | [MASTA](https://open.spotify.com/album/2iP4ZuUASwpZUVW0IMYIIw) | 3:30 |
 | 48 | [Carry Me Go](https://open.spotify.com/track/7qxtOyjZ2zSaxBPH8fLyNi) | [Khaid](https://open.spotify.com/artist/2mM6BxFQCd6BHzW4W7VhQP), [Boy Spyce](https://open.spotify.com/artist/6DUbLg2GQ7Dd7G9v6uwoPT) | [Carry Me Go](https://open.spotify.com/album/7hAXzkLo3J1tLMMO3H74do) | 2:16 |
 | 49 | [Man of The Year](https://open.spotify.com/track/6OhEAnxF6FzPoUU3KxH44F) | [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [Thy Kingdom Come](https://open.spotify.com/album/1SsFGuWTEBgvDd50NZzGfn) | 2:24 |
 | 50 | [DOG EAT DOG II \(feat\. Cruel Santino and Bella Shmurda\)](https://open.spotify.com/track/3EfMWIEGQB24dQv5x4Hwvx) | [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy), [Cruel Santino](https://open.spotify.com/artist/15GgEOJiFyjQm4tZ4D7qih), [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM) | [EZIOKWU](https://open.spotify.com/album/6e1McsPwHgiySHVlpZRhFx) | 4:00 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYc8Z858eGwP.md) - [plain]
 | 69 | [NO SLEEP $$$ \(feat\. Young Jonn\)](https://open.spotify.com/track/7ydy7ryXw7XM5QtE3bNYaW) | [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W), [Young Jonn](https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI) | [Emeka Must Shine](https://open.spotify.com/album/0PhhdE2E1kmaCWIvomj6Fj) | 3:07 |
 | 70 | [Next to Me](https://open.spotify.com/track/1dRcJH6gdBPnXKcvVU8SiB) | [Runda](https://open.spotify.com/artist/1ECPisHdyXxJzBSPaHCk0x), [Cheque](https://open.spotify.com/artist/4oQyXxDBq8FBhsjjS7MbcM), [PsychoYP](https://open.spotify.com/artist/4Hyl7QROvzELSzMO7OXdjr) | [Beautiful Lies](https://open.spotify.com/album/2mPFn6vASk3VVP1M3nTeCM) | 3:16 |
 
-Snapshot ID: `MCw5ODQyYzhlYjQ3MjNkYjAxYTY0YTI1ZTQzNWYzNTZiMTRiYzQyZGFl`
+Snapshot ID: `MCwyMjk0Mjc4NzZhNTJhMjA3MzYzNDA5ODcxYzI1YzA2NDNkZjVlNzRl`

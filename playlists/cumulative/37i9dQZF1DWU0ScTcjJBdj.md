@@ -4,7 +4,7 @@
 
 > Let your worries and cares slip away.
 
-305 songs - 19 hr 42 min
+306 songs - 19 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -66,7 +66,8 @@
 | [Coming Down the Mountain](https://open.spotify.com/track/43bkejyRlzXjVGKvXYLHzg) | [Mipso](https://open.spotify.com/artist/5Bcrb5qQMVTEbJ43fdIS4A) | [Coming Down the Mountain](https://open.spotify.com/album/0bDioLSH5nZjXpJLE9ZaUU) | 4:33 | 2019-05-26\* | 2022-01-08 |
 | [Crack The Case](https://open.spotify.com/track/2JtC5mhcW0RoTJGoVkfgB7) | [Dawes](https://open.spotify.com/artist/0CDUUM6KNRvgBFYIbWxJwV) | [Passwords](https://open.spotify.com/album/1EPqf0Bfgbm2iMnne0WLVx) | 5:54 | 2022-06-24 |  |
 | [Crack The Case](https://open.spotify.com/track/4MKTyMpljQlY0KQWLR8194) | [Dawes](https://open.spotify.com/artist/0CDUUM6KNRvgBFYIbWxJwV) | [Living In The Future / Crack The Case](https://open.spotify.com/album/7EoeiW6dthY3YdsWPd941G) | 5:54 | 2019-05-26\* | 2022-07-29 |
-| [Deeper Well](https://open.spotify.com/track/2lJn77IeZAP9cmv6DPXOrL) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Deeper Well](https://open.spotify.com/album/2NXiMKrwmPrqU8epp20pW8) | 3:52 | 2024-03-15 |  |
+| [Deeper Well](https://open.spotify.com/track/2lJn77IeZAP9cmv6DPXOrL) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Deeper Well](https://open.spotify.com/album/2NXiMKrwmPrqU8epp20pW8) | 3:52 | 2024-03-15 | 2024-03-21 |
+| [Deeper Well](https://open.spotify.com/track/333XFHKsHU0pOocFzBgrJi) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Deeper Well](https://open.spotify.com/album/5SxZmGwc4eJuPp6PcO4JgJ) | 3:52 | 2024-03-15 |  |
 | [Dirty Old Town](https://open.spotify.com/track/3sPpEYjRGQYV0XOjy4pYqh) | [Craig Cardiff](https://open.spotify.com/artist/2VMxEtyyo7Jg3jmVDQPHwx) | [Goodnight \(Go Home\)](https://open.spotify.com/album/4VWuOzRhYZQ2Qo2upiTcbd) | 4:06 | 2022-06-24 |  |
 | [Dirty Old Town](https://open.spotify.com/track/567EmmCbOtpEuaVC2zznU6) | [Craig Cardiff](https://open.spotify.com/artist/2VMxEtyyo7Jg3jmVDQPHwx) | [Goodnight \(Go Home\) \- CC010](https://open.spotify.com/album/6n3RGLF30GoCCubzH6WtVQ) | 4:06 | 2019-05-26\* | 2022-07-29 |
 | [Dirty Old Town](https://open.spotify.com/track/5dU2v8n4eAiAgQ6SAAkBnX) | [Craig Cardiff](https://open.spotify.com/artist/2VMxEtyyo7Jg3jmVDQPHwx) | [This is Craig Cardiff: Collected Works](https://open.spotify.com/album/2vB4XmPm6j2eO3nvcKnmkC) | 4:06 | 2022-06-24 | 2022-11-13 |

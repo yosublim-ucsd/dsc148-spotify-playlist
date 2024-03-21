@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT7oUl2XAhgF.md) - [plain]
 
 > A new take on a classic sound\. Cover: Britti
 
-[Spotify](https://open.spotify.com/user/spotify) - 210,654 likes - 100 songs - 5 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 210,730 likes - 100 songs - 5 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT7oUl2XAhgF.md) - [plain]
 | 24 | [Back to your Place](https://open.spotify.com/track/0uWOQHOICf6RfBDXQW0Iv9) | [October London](https://open.spotify.com/artist/1eNO1DUCOtZgCzlwtjtb1t) | [Back to your Place](https://open.spotify.com/album/53IEOx1fqwy7HEVpfElZv3) | 3:22 |
 | 25 | [Self Revolution](https://open.spotify.com/track/6xq246xhPP6sxsXrMyB8en) | [Gary Beals](https://open.spotify.com/artist/5PXsenJUe92Lu12xrQfPes) | [The Melody Within](https://open.spotify.com/album/0lNVrrcLt81D6u8G6Jn3EV) | 3:14 |
 | 26 | [I'm Comin' Home To You](https://open.spotify.com/track/2RHV6ehfb8JnyXugVy7D4E) | [Cookin' On 3 Burners](https://open.spotify.com/artist/726MxZBpkxnnoKl6aN7mmj), [Stella Angelico](https://open.spotify.com/artist/3qZl6vkduvtusEc6dnSwGz) | [I'm Comin' Home To You](https://open.spotify.com/album/1J5DfEBCaIxpDRBZl0Slwm) | 3:31 |
-| 27 | [Love's Train](https://open.spotify.com/track/60gTdTwaNtGAzIxKfeGVfJ) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [Silk Sonic](https://open.spotify.com/artist/6PvvGcCY2XtUcSRld1Wilr) | [Love's Train](https://open.spotify.com/album/6QKXGIgwWmWBMmIktMOchR) | 5:07 |
+| 27 | [Love's Train](https://open.spotify.com/track/2JUQ7mV1AHk2owXLydmN4Z) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [Silk Sonic](https://open.spotify.com/artist/6PvvGcCY2XtUcSRld1Wilr) | [An Evening With Silk Sonic](https://open.spotify.com/album/1YgekJJTEueWDaMr7BYqPk) | 5:07 |
 | 28 | [Nobody But You](https://open.spotify.com/track/6Oao4bGYFGXppmlI0cjIiS) | [Brainstory](https://open.spotify.com/artist/0EqBE2VOwsHgSOrjsQCs5j) | [Nobody But You](https://open.spotify.com/album/64vGv9opFtK75WRyjPRFnP) | 2:15 |
 | 29 | [Heaven On Earth](https://open.spotify.com/track/6JXizpl5Kd1VJiFv1VM58D) | [Baby Bash](https://open.spotify.com/artist/12PSlydMSjEHzSCj9X5qv7), [Mikey Jimenez](https://open.spotify.com/artist/0DgdXuxVB3yXP5U54WZvSL) | [Heaven On Earth](https://open.spotify.com/album/7cxrsAsuhamOFXS0tY1EPr) | 2:44 |
 | 30 | [Call Me](https://open.spotify.com/track/4vVEXX53H6SD1PHX8lCDIv) | [Allie Dunn](https://open.spotify.com/artist/1lx72xxuyFIbssxER4orMy) | [Call Me](https://open.spotify.com/album/5NjIbGFj7Wrvbmg3aMHWHO) | 4:13 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT7oUl2XAhgF.md) - [plain]
 | 99 | [You](https://open.spotify.com/track/7y8xMbDt5a5XlcRUAyov8N) | [Les Imprimés](https://open.spotify.com/artist/6pCq758EGVhfbiUIeuHTcf) | [Rêverie](https://open.spotify.com/album/0BjNFjGQwlPziWfwDzBUWO) | 3:00 |
 | 100 | [My Dirty Desire](https://open.spotify.com/track/6LghA3bvjS9btadUaJt4Io) | [Pale Jay](https://open.spotify.com/artist/7H3z77VbkJcCcFilmKqKNM) | [Bewilderment](https://open.spotify.com/album/5uKC6k1EIwQ6mDSDKuQgBu) | 3:26 |
 
-Snapshot ID: `MCw5MDI0OGQwNzFjMTZmMDAwNzY4N2NhMGIyMmQ0YzJjZTM1OGJiMjYz`
+Snapshot ID: `MCxlYzBmZjNiYzAyYmI2YmU1NTNmMjU4OGVhNTNhNDkxMTQ2MGRhYmRl`

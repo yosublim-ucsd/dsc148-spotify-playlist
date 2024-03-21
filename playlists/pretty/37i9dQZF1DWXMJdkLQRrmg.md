@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXMJdkLQRrmg.md) - [plain]
 
 > Rock unplugged.
 
-[Spotify](https://open.spotify.com/user/spotify) - 331,768 likes - 50 songs - 3 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 331,829 likes - 50 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,13 +36,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXMJdkLQRrmg.md) - [plain]
 | 26 | [Patience](https://open.spotify.com/track/7n3u7RrzdXGVcclBEp9aSa) | [Chris Cornell](https://open.spotify.com/artist/0XHiH53dHrvbwfjYM7en7I) | [Patience](https://open.spotify.com/album/6EEv3516e4dH7sAPPUq9oo) | 4:13 |
 | 27 | [Coming Home \(Ballad of the Shire\)](https://open.spotify.com/track/5InVe6JzeFjGaKOW9ggU7J) | [Dirty Honey](https://open.spotify.com/artist/0XBRd3N11rCbh0s8qHf41m) | [Can't Find The Brakes](https://open.spotify.com/album/3FyROXteyMjOunh3L3gEly) | 3:14 |
 | 28 | [Anthem](https://open.spotify.com/track/2KN0Kgfb15aNLR0p2J4pkr) | [Greta Van Fleet](https://open.spotify.com/artist/4NpFxQe2UvRCAjto3JqlSl) | [Anthem Of The Peaceful Army](https://open.spotify.com/album/7zeCZY6rQRufc8IHGKyXGX) | 4:41 |
-| 29 | [Billie Jean](https://open.spotify.com/track/4YKhIH7BhFErLoV9dgHupm) | [The Civil Wars](https://open.spotify.com/artist/6J7rw7NELJUCThPbAfyLIE) | [Between the Bars](https://open.spotify.com/album/64Z8bWSUBB1Vhox2K5EdBe) | 4:20 |
-| 30 | [Sorry \- Acoustic](https://open.spotify.com/track/0Akytll1e5KvwNKvhqIZFn) | [Nothing But Thieves](https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp) | [Broken Machine \(Deluxe\)](https://open.spotify.com/album/0r7wrRVD77lNrD9t2QgZrq) | 3:34 |
+| 29 | [Sorry \- Acoustic](https://open.spotify.com/track/0Akytll1e5KvwNKvhqIZFn) | [Nothing But Thieves](https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp) | [Broken Machine \(Deluxe\)](https://open.spotify.com/album/0r7wrRVD77lNrD9t2QgZrq) | 3:34 |
+| 30 | [Billie Jean](https://open.spotify.com/track/4YKhIH7BhFErLoV9dgHupm) | [The Civil Wars](https://open.spotify.com/artist/6J7rw7NELJUCThPbAfyLIE) | [Between the Bars](https://open.spotify.com/album/64Z8bWSUBB1Vhox2K5EdBe) | 4:20 |
 | 31 | [Backbone](https://open.spotify.com/track/2mVblJ1gaLw0TZz822Oy31) | [KALEO](https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc) | [Surface Sounds](https://open.spotify.com/album/1ZuNUNl8jvYmW4w1lR2CW3) | 3:52 |
 | 32 | [The Messenger](https://open.spotify.com/track/45CFyww2OsnABfrBg6FzRY) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [A Thousand Suns](https://open.spotify.com/album/113yjuFZEqkkbuLi4sEBxo) | 3:01 |
 | 33 | [Stay With Me \- Acoustic Version](https://open.spotify.com/track/39IX2P1yPA5opcTaHXLPlW) | [You Me At Six](https://open.spotify.com/artist/1kNQXvepPjaPgUfeDAF2h6) | [Stay With Me](https://open.spotify.com/album/0fsWxXjjgHAnFLCEAGWHS5) | 3:18 |
-| 34 | [How Did You Love \- Acoustic](https://open.spotify.com/track/4bUbgl5yiMEfGFy8CQNnXB) | [Shinedown](https://open.spotify.com/artist/70BYFdaZbEKbeauJ670ysI) | [How Did You Love](https://open.spotify.com/album/0PFYjO7SxBpUUtwR91gvJP) | 3:05 |
-| 35 | [Waves](https://open.spotify.com/track/0hNOP5epEjX8Zj5aSGr6JU) | [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y) | [Same Kind Of Different](https://open.spotify.com/album/0xm7ZjtMsPLjqjIP39H8bt) | 4:01 |
+| 34 | [Waves](https://open.spotify.com/track/0hNOP5epEjX8Zj5aSGr6JU) | [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y) | [Same Kind Of Different](https://open.spotify.com/album/0xm7ZjtMsPLjqjIP39H8bt) | 4:01 |
+| 35 | [How Did You Love \- Acoustic](https://open.spotify.com/track/4bUbgl5yiMEfGFy8CQNnXB) | [Shinedown](https://open.spotify.com/artist/70BYFdaZbEKbeauJ670ysI) | [How Did You Love](https://open.spotify.com/album/0PFYjO7SxBpUUtwR91gvJP) | 3:05 |
 | 36 | [maybe \(feat\. Bring Me The Horizon\) \- acoustic version](https://open.spotify.com/track/42zvj6KEuxB5ZSa5ea0Lyh) | [mgk](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX), [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [mainstream sellout \(life in pink deluxe\)](https://open.spotify.com/album/5mj5NblnMMm5G3n1cugGH7) | 2:54 |
 | 37 | [Glycerine \- Acoustic](https://open.spotify.com/track/3ZoAB9gq2RGW5KdHnRvH75) | [Bush](https://open.spotify.com/artist/78SHxLdtysAXgywQ4vE0Oa) | [Zen X Four](https://open.spotify.com/album/1JifpVW1p2sb6tuzifgFmV) | 3:32 |
 | 38 | [Against The Wall \- Acoustic Version](https://open.spotify.com/track/7iHpX7m9owsqawBy008yvF) | [Seether](https://open.spotify.com/artist/6B5c4sch27tWHAGdarpPaW) | [Against The Wall \(Acoustic Version\)](https://open.spotify.com/album/52Luu2iy2mBDEyHWfLpzWf) | 3:26 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXMJdkLQRrmg.md) - [plain]
 | 49 | [Bite Me \- Acoustic](https://open.spotify.com/track/0tooLMhjLCJ4Cmb8cDdraJ) | [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j) | [Love Sux \(Deluxe\)](https://open.spotify.com/album/6RmbogR9qpWasS4ZNa7cuK) | 3:09 |
 | 50 | [Scumbag \- Acoustic](https://open.spotify.com/track/37Eb16TFeVB2dxkoEnzW4W) | [Goody Grace](https://open.spotify.com/artist/1iH2Yx2Ea0kZ0zKI3Nlk30) | [Scumbag \(Acoustic\)](https://open.spotify.com/album/3bauwJBwUAGFxVCoajMIKv) | 3:29 |
 
-Snapshot ID: `MCwxYzEzNmNlZGQzYWYzMjE3Y2Y1MzM3NDhlODg5YTJmMTQ5YWQ2ZTY5`
+Snapshot ID: `MCw1OWExNWU3NzBiN2UzZWY5ZjFhMzA3MDllNzkxNDVlZDQ4OTNlZWQ3`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVhQ5d3I6DeF.md) - [plain]
 
 > Catchy pop music to keep those legs going.
 
-[Spotify](https://open.spotify.com/user/spotify) - 451,279 likes - 50 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 452,294 likes - 50 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVhQ5d3I6DeF.md) - [plain]
 | 24 | [4 Minutes \(feat\. Justin Timberlake & Timbaland\)](https://open.spotify.com/track/1oHClQEgDmmbcEx12Kc5nZ) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW), [Justin Timberlake](https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7), [Timbaland](https://open.spotify.com/artist/5Y5TRrQiqgUO4S36tzjIRZ) | [Celebration \(double disc version\)](https://open.spotify.com/album/43lok9zd7BW5CoYkXZs7S0) | 3:09 |
 | 25 | [Rain On Me \(with Ariana Grande\)](https://open.spotify.com/track/7ju97lgwC2rKQ6wwsf9no9) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms), [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Chromatica](https://open.spotify.com/album/05c49JgPmL4Uz2ZeqRx5SP) | 3:02 |
 | 26 | [Rockabye \(feat\. Sean Paul & Anne\-Marie\)](https://open.spotify.com/track/5knuzwU65gJK7IF5yJsuaW) | [Clean Bandit](https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM), [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9), [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX) | [Rockabye \(feat\. Sean Paul & Anne\-Marie\)](https://open.spotify.com/album/3meZFplbMmji648oWUNEfQ) | 4:11 |
-| 27 | [My Head & My Heart](https://open.spotify.com/track/1KixkQVDUHggZMU9dUobgm) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Heaven & Hell](https://open.spotify.com/album/26c7MmQ4w8EAvVLb4jilaM) | 2:54 |
-| 28 | [About Damn Time](https://open.spotify.com/track/1PckUlxKqWQs3RlWXVBLw3) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [About Damn Time](https://open.spotify.com/album/4JApkbiesQxv5drdEZRlZC) | 3:11 |
+| 27 | [About Damn Time](https://open.spotify.com/track/1PckUlxKqWQs3RlWXVBLw3) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [About Damn Time](https://open.spotify.com/album/4JApkbiesQxv5drdEZRlZC) | 3:11 |
+| 28 | [My Head & My Heart](https://open.spotify.com/track/1KixkQVDUHggZMU9dUobgm) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Heaven & Hell](https://open.spotify.com/album/26c7MmQ4w8EAvVLb4jilaM) | 2:54 |
 | 29 | [Geronimo](https://open.spotify.com/track/0qt5f5EL92o8Snzopsv0en) | [Sheppard](https://open.spotify.com/artist/6VxCmtR7S3yz4vnzsJqhSV) | [Bombs Away](https://open.spotify.com/album/0ecUmBX4469DFW5iWkuHia) | 3:38 |
 | 30 | [Five More Hours](https://open.spotify.com/track/3MOECVkNshqHYTPt5DZcdN) | [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Good Evening](https://open.spotify.com/album/1J6b7W1nSHH7BObK8zIoEY) | 3:31 |
 | 31 | [My Way](https://open.spotify.com/track/1vvNmPOiUuyCbgWmtc6yfm) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY) | [My Way](https://open.spotify.com/album/0dzeoQhVNzKkwM5ieOJC54) | 3:39 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVhQ5d3I6DeF.md) - [plain]
 | 49 | [Dance with Me Tonight](https://open.spotify.com/track/1FSWSs9CL01RCYxXtm08Rf) | [Olly Murs](https://open.spotify.com/artist/3whuHq0yGx60atvA2RCVRW) | [In Case You Didn't Know](https://open.spotify.com/album/2OvZ8JCShhvxNkptwoGjve) | 3:22 |
 | 50 | [You Don't Know Me \(feat\. RAYE\)](https://open.spotify.com/track/4DJORZgsbqnEJ4f4B9TBGV) | [Jax Jones](https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr), [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [Snacks](https://open.spotify.com/album/16H9XbDP9IxeyOohsXkKXb) | 3:32 |
 
-Snapshot ID: `MCw1MjY0YzMwZjdmNDFhOGU2NzFkYjM3NjRkYzdlOGU4ZGEwMzg2YjI2`
+Snapshot ID: `MCwxZTYwYTFiZTk0OTU2Y2U1NGY4OTJkZjk0MjhmYmZkNjRhMzVjZGZj`

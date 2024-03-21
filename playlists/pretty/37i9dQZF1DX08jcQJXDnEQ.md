@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX08jcQJXDnEQ.md) - [plain]
 
 > The best metal songs of the 90s\. Cover: Metallica
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,010,103 likes - 100 songs - 7 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,010,831 likes - 100 songs - 7 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX08jcQJXDnEQ.md) - [plain]
 | 21 | [Falling Away from Me](https://open.spotify.com/track/2F6FfZ4w8z3eJpSxPotVO5) | [Korn](https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD) | [Issues](https://open.spotify.com/album/5U0pevIOTrPoDsN8YsBCBh) | 4:30 |
 | 22 | [No More Tears](https://open.spotify.com/track/7w6PJe5KBPyvuRYxFkPssC) | [Ozzy Osbourne](https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY) | [No More Tears \(Expanded Edition\)](https://open.spotify.com/album/6eh82ojicL8RSJF7GkYTh7) | 7:23 |
 | 23 | [Cowboys from Hell](https://open.spotify.com/track/2SgbR6ttzoNlCRGQOKjrop) | [Pantera](https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18) | [Cowboys from Hell](https://open.spotify.com/album/5szY4sBOSD6IFjFN1RtWTe) | 4:03 |
-| 24 | [Living Dead Girl](https://open.spotify.com/track/10V8XpuyMoEcSMfM79WDET) | [Rob Zombie](https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5) | [Hellbilly Deluxe](https://open.spotify.com/album/2B4lHoTCpWbxQPTZmCOjnH) | 3:21 |
-| 25 | [Nookie](https://open.spotify.com/track/1TEZWG1FdjzDdercCguTwj) | [Limp Bizkit](https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb) | [Significant Other](https://open.spotify.com/album/3HCCUaRSjHSFOe4fqE0BiP) | 4:49 |
+| 24 | [Nookie](https://open.spotify.com/track/1TEZWG1FdjzDdercCguTwj) | [Limp Bizkit](https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb) | [Significant Other](https://open.spotify.com/album/3HCCUaRSjHSFOe4fqE0BiP) | 4:49 |
+| 25 | [Living Dead Girl](https://open.spotify.com/track/10V8XpuyMoEcSMfM79WDET) | [Rob Zombie](https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5) | [Hellbilly Deluxe](https://open.spotify.com/album/2B4lHoTCpWbxQPTZmCOjnH) | 3:21 |
 | 26 | [Engel](https://open.spotify.com/track/5Zuboc3Cj9Ldnc8HyUnNUK) | [Rammstein](https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP) | [Sehnsucht \(Anniversary Edition \- Remastered\)](https://open.spotify.com/album/6hh5ax5BomINXGoi4q7FDP) | 4:24 |
 | 27 | [You Could Be Mine](https://open.spotify.com/track/0dlTGl67UFWcKupzkxZYOn) | [Guns N' Roses](https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC) | [Use Your Illusion II](https://open.spotify.com/album/00eiw4KOJZ7eC3NBEpmH4C) | 5:43 |
 | 28 | [Them Bones \(2022 Remaster\)](https://open.spotify.com/track/4A065x9kJt955eGVqf813g) | [Alice In Chains](https://open.spotify.com/artist/64tNsm6TnZe2zpcMVMOoHL) | [Dirt \(2022 Remaster\)](https://open.spotify.com/album/58NXIEYqmq5dQHg9nV9duM) | 2:29 |
@@ -63,8 +63,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX08jcQJXDnEQ.md) - [plain]
 | 53 | [Refuse / Resist](https://open.spotify.com/track/2OoS1aZFAFscH1cUiKlazH) | [Sepultura](https://open.spotify.com/artist/6JW8wliOEwaDZ231ZY7cf4) | [Chaos A.D.](https://open.spotify.com/album/5r4qa5AIQUVypFRXQzjaiu) | 3:19 |
 | 54 | [Wherever I May Roam \(Remastered\)](https://open.spotify.com/track/745sNpjWbAxo2MA2zSYbyD) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Metallica \(Remastered\)](https://open.spotify.com/album/55fq75UfkYbGMq4CncCtOH) | 6:44 |
 | 55 | [Seasons In The Abyss](https://open.spotify.com/track/3Ky8IzV8IVSwijtaTWB2SK) | [Slayer](https://open.spotify.com/artist/1IQ2e1buppatiN1bxUVkrk) | [Seasons In The Abyss](https://open.spotify.com/album/49QJ9TAWNqZGbFUvadXPgT) | 6:37 |
-| 56 | [Loco](https://open.spotify.com/track/1aiHmIlCiiHUTqS1CYzuTM) | [Coal Chamber](https://open.spotify.com/artist/69k6uTSZMPLpSnhmLCiKxQ) | [Coal Chamber](https://open.spotify.com/album/7FsGGAksuLOCvI2ivXh4Jd) | 4:14 |
-| 57 | [Bück dich](https://open.spotify.com/track/3pi5DteeniOsDzonEx5qpg) | [Rammstein](https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP) | [Sehnsucht \(Anniversary Edition \- Remastered\)](https://open.spotify.com/album/6hh5ax5BomINXGoi4q7FDP) | 3:23 |
+| 56 | [Bück dich](https://open.spotify.com/track/3pi5DteeniOsDzonEx5qpg) | [Rammstein](https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP) | [Sehnsucht \(Anniversary Edition \- Remastered\)](https://open.spotify.com/album/6hh5ax5BomINXGoi4q7FDP) | 3:23 |
+| 57 | [Loco](https://open.spotify.com/track/1aiHmIlCiiHUTqS1CYzuTM) | [Coal Chamber](https://open.spotify.com/artist/69k6uTSZMPLpSnhmLCiKxQ) | [Coal Chamber](https://open.spotify.com/album/7FsGGAksuLOCvI2ivXh4Jd) | 4:14 |
 | 58 | [Tears of the Dragon \(2001 Remaster\)](https://open.spotify.com/track/3EiQGaaHMHFk5ykD1a7vYt) | [Bruce Dickinson](https://open.spotify.com/artist/7Iffw1nP3NjCWkRIx3Ily9) | [Balls to Picasso \(2001 Remaster\)](https://open.spotify.com/album/2AKNnewiklMkna3HbigH5X) | 6:24 |
 | 59 | [Counterfeit](https://open.spotify.com/track/2nMN06ZdkOyGrhSDt9CKah) | [Limp Bizkit](https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb) | [Three Dollar Bill, Y'all $](https://open.spotify.com/album/3I34EprFC0rlAO4pKNeX1t) | 5:08 |
 | 60 | [Territory](https://open.spotify.com/track/0QRxtcxL31dRAeiUUuENPu) | [Sepultura](https://open.spotify.com/artist/6JW8wliOEwaDZ231ZY7cf4) | [Chaos A.D.](https://open.spotify.com/album/5r4qa5AIQUVypFRXQzjaiu) | 4:47 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX08jcQJXDnEQ.md) - [plain]
 | 99 | [War?](https://open.spotify.com/track/0vCzjgcBEujkrqizp2LYdq) | [System Of A Down](https://open.spotify.com/artist/5eAWCfyUhZtHHtBdNk56l1) | [System Of A Down](https://open.spotify.com/album/7p5mnxLTjbvs4kInkK8za9) | 2:40 |
 | 100 | [The Gentle Art of Making Enemies \- 2016 Remaster](https://open.spotify.com/track/66uYWEw9gJxkPw6STqNcKl) | [Faith No More](https://open.spotify.com/artist/6GbCJZrI318Ybm8mY36Of5) | [King for a Day, Fool for a Lifetime \(2016 Remaster; Deluxe Edition\)](https://open.spotify.com/album/6KHnSZsn0E2OzcVChd8UUW) | 3:28 |
 
-Snapshot ID: `MCxmMjU5MGRiNjM1ODllOGQ1NDk1ZWY0YTA1MGZjMzNlZjk4YWZmNTlk`
+Snapshot ID: `MCwxZDk0M2YyOGViM2M2NGE1NzZiYjNkNmY3NzcxZDI1ZTAwZThjMWY1`

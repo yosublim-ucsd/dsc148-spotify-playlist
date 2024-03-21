@@ -886,10 +886,28 @@
       ],
       "date_added": "2023-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-21",
       "duration_ms": 189138,
       "name": "Hasta La Raiz",
       "url": "https://open.spotify.com/track/2UxrJ7WmHl2OHRD4oO0sVw"
+    },
+    {
+      "album": {
+        "name": "20 Exitos El Remake Vol. 2",
+        "url": "https://open.spotify.com/album/2fwP7Mg9m39YWJ8WfQptLv"
+      },
+      "artists": [
+        {
+          "name": "La Zenda Norte\u00f1a",
+          "url": "https://open.spotify.com/artist/01brs471Oes6kMnkVJBfGG"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189138,
+      "name": "Hasta La Ra\u00edz (Rerecorded)",
+      "url": "https://open.spotify.com/track/5N38p7yaY399gNdglLlftf"
     },
     {
       "album": {

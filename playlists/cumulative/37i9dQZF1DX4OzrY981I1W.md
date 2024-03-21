@@ -4,7 +4,7 @@
 
 > every main character needs their soundtrack.
 
-443 songs - 1 day 3 hr 15 min
+444 songs - 1 day 3 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -182,7 +182,7 @@
 | [Home](https://open.spotify.com/track/7w5cxTEzp1rfV3KCy0Bd5N) | [Edward Sharpe & The Magnetic Zeros](https://open.spotify.com/artist/7giUHu5pv6YTZgSkxxCcgh) | [Up from Below](https://open.spotify.com/album/39xrkt8RILtwa9DMyLkv32) | 5:03 | 2021-03-26 | 2022-12-02 |
 | [Home](https://open.spotify.com/track/68mOSKT4uBkKddEAhlMO61) | [Good Neighbours](https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE) | [Home](https://open.spotify.com/album/140NIeh2n6kSX9BHAsvlwy) | 2:37 | 2024-01-18 | 2024-02-08 |
 | [Home](https://open.spotify.com/track/6dpLxbF7lfCAnC9QRTjNLK) | [Good Neighbours](https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE) | [Home](https://open.spotify.com/album/50ca61DooG00KrVCwMLVRl) | 2:37 | 2024-01-18 |  |
-| [Home \(2019 Remaster\)](https://open.spotify.com/track/5uGXVcOINWmyUzpz0lKq7m) | [Edward Sharpe & The Magnetic Zeros](https://open.spotify.com/artist/7giUHu5pv6YTZgSkxxCcgh) | [Up From Below \- 10th Anniversary Edition](https://open.spotify.com/album/2nqKKUI6G3YGYNyjqBxjmd) | 5:06 | 2024-01-08 |  |
+| [Home \(2019 Remaster\)](https://open.spotify.com/track/5uGXVcOINWmyUzpz0lKq7m) | [Edward Sharpe & The Magnetic Zeros](https://open.spotify.com/artist/7giUHu5pv6YTZgSkxxCcgh) | [Up From Below \- 10th Anniversary Edition](https://open.spotify.com/album/2nqKKUI6G3YGYNyjqBxjmd) | 5:06 | 2024-01-08 | 2024-03-21 |
 | [Honey](https://open.spotify.com/track/658qcSLPvoU4IZJhjxPHRo) | [Rook Monroe](https://open.spotify.com/artist/0xwMjJn29gSNkQYNxc5IED) | [Honey](https://open.spotify.com/album/2erYmQSfrlmfOdktVdUcE3) | 2:28 | 2021-03-26 | 2022-07-29 |
 | [Hot & Heavy](https://open.spotify.com/track/2HqJI083DX9UDxNYGGAImf) | [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [Hot & Heavy](https://open.spotify.com/album/3oInRchbCmQzKxmDdozxwu) | 4:10 | 2021-04-16 | 2022-07-29 |
 | [House Of Cards](https://open.spotify.com/track/48X4D1FYOShPz2VF3YdfCF) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [In Rainbows](https://open.spotify.com/album/5vkqYmiPBYLaalcmjujWxK) | 5:28 | 2022-01-26 | 2022-04-21 |
@@ -352,6 +352,7 @@
 | [So You Are Tired](https://open.spotify.com/track/6LbFM8wbTe7XZwbm7C5qZ5) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [So You Are Tired](https://open.spotify.com/album/4lEHaKYeQFwCR9fpbcjVzB) | 4:49 | 2023-08-17 | 2023-09-19 |
 | [Somebody To Love \- Remastered 2011](https://open.spotify.com/track/3vCHmbyOgc6pgwLUWfU4pF) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [A Day At The Races \(2011 Remaster\)](https://open.spotify.com/album/0QRlYlrBuP7eGpEMZvZiaQ) | 4:56 | 2021-06-18 | 2022-04-21 |
 | [Someday](https://open.spotify.com/track/7hm4HTk9encxT0LYC0J6oI) | [The Strokes](https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V) | [Is This It](https://open.spotify.com/album/2k8KgmDp9oHrmu0MIj4XDE) | 3:03 | 2021-08-20 | 2022-04-20 |
+| [someday i'll get it](https://open.spotify.com/track/1lb0KfG9EyfSBsEifTUtXY) | [Alek Olsen](https://open.spotify.com/artist/27sdgIaFiz55vkR68fBiy8) | [someday i'll get it](https://open.spotify.com/album/2YXww1viuuKZPi458rdopk) | 1:34 | 2024-03-20 |  |
 | [Someone To Spend Time With](https://open.spotify.com/track/0qQ9VcVPkWDTnff6HIhISU) | [Los Retros](https://open.spotify.com/artist/0qraFJK6boYSp4ZMMX4PzG) | [Someone To Spend Time With](https://open.spotify.com/album/7MNOeNJ9RJgDJ2EPEbsIRv) | 2:53 | 2021-03-26 | 2022-04-20 |
 | [Someone To Spend Time With](https://open.spotify.com/track/6SE4JAo7T8C7XkFka5bbga) | [Los Retros](https://open.spotify.com/artist/0qraFJK6boYSp4ZMMX4PzG) | [Someone To Spend Time With](https://open.spotify.com/album/0DyyOMpwfB5KS6OFNiUV1m) | 2:53 | 2021-03-26 | 2023-05-01 |
 | [Someone To You](https://open.spotify.com/track/14BH4qO7pgCmIe6mgLKOK3) | [BANNERS](https://open.spotify.com/artist/4qWnlmXWuGv2TtuxtIWlJX) | [Empires On Fire](https://open.spotify.com/album/6ErxPYc0KcJgLzQnpMGsth) | 3:39 | 2021-03-26 | 2023-04-02 |

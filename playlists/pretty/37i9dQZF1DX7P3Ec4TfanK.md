@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7P3Ec4TfanK.md) - [plain]
 
 > Inizia la giornata con la tua dose di caffè e buonumore!
 
-[Spotify](https://open.spotify.com/user/spotify) - 417,367 likes - 80 songs - 4 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 417,359 likes - 80 songs - 4 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,15 +73,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7P3Ec4TfanK.md) - [plain]
 | 63 | [BED](https://open.spotify.com/track/0siYMEsGrzzzlWLXK5zJfS) | [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp), [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [BED](https://open.spotify.com/album/36tML2tWjDrbLW4FgrX17U) | 2:58 |
 | 64 | [Paradise \(feat\. Dermot Kennedy\)](https://open.spotify.com/track/6ft4hAq6yde8jPZY2i5zLr) | [MEDUZA](https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu), [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Paradise](https://open.spotify.com/album/15sy3XQFShOFiDpKoxByyA) | 2:47 |
 | 65 | [This City](https://open.spotify.com/track/3H3r2nKWa3Yk5gt8xgmsEt) | [Sam Fischer](https://open.spotify.com/artist/6L1XC7NrmgWRlwAeLJvVtA) | [This City](https://open.spotify.com/album/5waiE6DS2ntWF3Q0yekJUm) | 3:14 |
-| 66 | [Che t'o dico a fa'](https://open.spotify.com/track/20qlAd6sHAYjc7TrrM5VeY) | [Angelina Mango](https://open.spotify.com/artist/1A6HBLulvBFzNtlMb7b08f) | [Che t'o dico a fa'](https://open.spotify.com/album/7kILSxiEN9pJrFyr7Bs8OE) | 3:07 |
-| 67 | [SUPERMODEL](https://open.spotify.com/track/63WuQOXohQIxOxIFA2K7bR) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [SUPERMODEL](https://open.spotify.com/album/5jhbLeXH1a3SRSOg84GSUn) | 2:28 |
+| 66 | [SUPERMODEL](https://open.spotify.com/track/63WuQOXohQIxOxIFA2K7bR) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [SUPERMODEL](https://open.spotify.com/album/5jhbLeXH1a3SRSOg84GSUn) | 2:28 |
+| 67 | [Che t'o dico a fa'](https://open.spotify.com/track/20qlAd6sHAYjc7TrrM5VeY) | [Angelina Mango](https://open.spotify.com/artist/1A6HBLulvBFzNtlMb7b08f) | [Che t'o dico a fa'](https://open.spotify.com/album/7kILSxiEN9pJrFyr7Bs8OE) | 3:07 |
 | 68 | [2 Be Loved \(Am I Ready\)](https://open.spotify.com/track/2rmwqU7yzTvzkiaRV53DpT) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Special](https://open.spotify.com/album/1NgFBv1PxMG1zhFDW1OrRr) | 3:07 |
 | 69 | [Iko Iko \(My Bestie\)](https://open.spotify.com/track/7MC4XR9M9amdmKQr2iDF7i) | [Justin Wellington](https://open.spotify.com/artist/5lTjv8Ag00qHSGhvK4JbeF), [Small Jam](https://open.spotify.com/artist/6c8akjSeJQw2NYemV6qVT8) | [Iko Iko \(My Bestie\)](https://open.spotify.com/album/0IVeq4oFSUAAXmdQqXFTrU) | 3:02 |
 | 70 | [Afterglow](https://open.spotify.com/track/0E4Y1XIbs8GrAT1YqVy6dq) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Afterglow](https://open.spotify.com/album/5bb2Sf8jps2DTyI2urMThV) | 3:05 |
 | 71 | [Run](https://open.spotify.com/track/2UbVnbE5FH6008mAm6Mmgw) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Run](https://open.spotify.com/album/4d0a5uamW9NWRc1KXFeErI) | 2:49 |
 | 72 | [Makeba](https://open.spotify.com/track/4TNFLwe6DhtR3Wn1JKMqMJ) | [Jain](https://open.spotify.com/artist/2HHmvvSQ44ePDH7IKVzgK0) | [Zanaka \(Deluxe\)](https://open.spotify.com/album/2rb6C1wUwk7hFOVmfgt19k) | 4:08 |
-| 73 | [Higher Power](https://open.spotify.com/track/0939D7aT18uBDS2MTjWzct) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Higher Power](https://open.spotify.com/album/6wiPmk3powmcz3G7zr6krg) | 3:31 |
-| 74 | [UN DIA \(ONE DAY\) \(Feat\. Tainy\)](https://open.spotify.com/track/0EhpEsp4L0oRGM0vmeaN5e) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Tainy](https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB) | [UN DIA \(ONE DAY\) \(Feat\. Tainy\)](https://open.spotify.com/album/6aqSlutLYNpzSsK4dV5jTr) | 3:52 |
+| 73 | [UN DIA \(ONE DAY\) \(Feat\. Tainy\)](https://open.spotify.com/track/0EhpEsp4L0oRGM0vmeaN5e) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Tainy](https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB) | [UN DIA \(ONE DAY\) \(Feat\. Tainy\)](https://open.spotify.com/album/6aqSlutLYNpzSsK4dV5jTr) | 3:52 |
+| 74 | [Higher Power](https://open.spotify.com/track/0939D7aT18uBDS2MTjWzct) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Higher Power](https://open.spotify.com/album/6wiPmk3powmcz3G7zr6krg) | 3:31 |
 | 75 | [Skate](https://open.spotify.com/track/7jvCeWOSnJs2N3spqobWnO) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [Silk Sonic](https://open.spotify.com/artist/6PvvGcCY2XtUcSRld1Wilr) | [An Evening With Silk Sonic](https://open.spotify.com/album/1YgekJJTEueWDaMr7BYqPk) | 3:23 |
 | 76 | [Following the Sun](https://open.spotify.com/track/5A5bLKdL5I3k3FTEQlAUw7) | [SUPER\-Hi](https://open.spotify.com/artist/2lJ6K4PTrrweXhRiqh1CZE), [NEEKA](https://open.spotify.com/artist/1JPZHb1qziDJ05n0a1OvfW) | [Following the Sun](https://open.spotify.com/album/140Jok6j3tn10bqgUqcUVG) | 3:25 |
 | 77 | [Mercy \(feat\. Jacob Lusk\)](https://open.spotify.com/track/4ejCsNXh66YasBUiwfBhDg) | [The Blessed Madonna](https://open.spotify.com/artist/4TvhRzxIL1le2PWCeUqxQw), [Jacob Lusk](https://open.spotify.com/artist/6dm2qCTCfqv1fqrow7UOcj), [Gabriels](https://open.spotify.com/artist/5tHs3fthucNRGAFpdE9rmz) | [Mercy \(feat\. Jacob Lusk\)](https://open.spotify.com/album/0fUKZB6bCIkamKICaWy2t2) | 2:58 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7P3Ec4TfanK.md) - [plain]
 | 79 | [Esta Vida](https://open.spotify.com/track/5OSGdSxtulzlzdPdK2MQJC) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO) | [Esta Vida](https://open.spotify.com/album/5C82uAeAwABjDB7lsLL9iL) | 3:29 |
 | 80 | [Overpass Graffiti](https://open.spotify.com/track/4btFHqumCO31GksfuBLLv3) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [=](https://open.spotify.com/album/32iAEBstCjauDhyKpGjTuq) | 3:56 |
 
-Snapshot ID: `MCw3NThlMGMxYzVlODU0YWM1MGYwZDZjNjI0OTMwMzY4MmU4ZTBhYTJi`
+Snapshot ID: `MCwyYmQwNGQwNDZmMmFlYjAwY2VjNTI0YjAyYzg3YWRiNDFmMGUzODVj`

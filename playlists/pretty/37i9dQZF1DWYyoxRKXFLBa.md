@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYyoxRKXFLBa.md) - [plain]
 
 > pura morra rifada\. The Warning en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,341 likes - 80 songs - 4 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,351 likes - 80 songs - 4 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,9 +31,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYyoxRKXFLBa.md) - [plain]
 | 21 | [Padam Padam](https://open.spotify.com/track/44MuEHdlociG8KjhPhOVw5) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Tension \(Deluxe\)](https://open.spotify.com/album/4VNaEhdswqNiEMAcfSav9g) | 2:46 |
 | 22 | [Genesis](https://open.spotify.com/track/3cjvqsvvU80g7WJPMVh8iq) | [Grimes](https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab) | [Visions](https://open.spotify.com/album/3HED2IUaNSnbOe88a7ZdwM) | 4:15 |
 | 23 | [Nunca Es Suficiente](https://open.spotify.com/track/2niUiaoJDCzNldW0pV66zb) | [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [Hasta la Raíz \(Edición Especial\)](https://open.spotify.com/album/0Kww7Dpo0uSxtOiiFTvyCv) | 3:57 |
-| 24 | [Diosa](https://open.spotify.com/track/3RleMgz4iO0BNezGdSxDnY) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [ORQUÍDEAS](https://open.spotify.com/album/5U20AVSsUvycGtWip4XQfo) | 2:36 |
+| 24 | [Run Your Mouth](https://open.spotify.com/track/7lw4J2RfcPs2hEJgPY44lC) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Run Your Mouth](https://open.spotify.com/album/1CffBsDXjxsZH53y29UuiP) | 2:40 |
 | 25 | [Loba](https://open.spotify.com/track/1fPCGREltHJuV3axEPydLp) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [She Wolf \(Expanded Edition\)](https://open.spotify.com/album/5u0OuxRnf3FzvZR07xAxL2) | 3:09 |
-| 26 | [Run Your Mouth](https://open.spotify.com/track/7lw4J2RfcPs2hEJgPY44lC) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Run Your Mouth](https://open.spotify.com/album/1CffBsDXjxsZH53y29UuiP) | 2:40 |
+| 26 | [Diosa](https://open.spotify.com/track/3RleMgz4iO0BNezGdSxDnY) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [ORQUÍDEAS](https://open.spotify.com/album/5U20AVSsUvycGtWip4XQfo) | 2:36 |
 | 27 | [Hasta la Piel](https://open.spotify.com/track/5zu4MAEQblGCaTrbXtfpb8) | [Carla Morrison](https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe) | [Déjenme Llorar](https://open.spotify.com/album/6BZkhYCGp75O2R4oX25nve) | 4:01 |
 | 28 | [Maps](https://open.spotify.com/track/0hDQV9X1Da5JrwhK8gu86p) | [Yeah Yeah Yeahs](https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2) | [Fever To Tell \(Deluxe Remastered\)](https://open.spotify.com/album/44ePwTuWK88vnalqutqJEG) | 3:39 |
 | 29 | [XT4S1S](https://open.spotify.com/track/7dMTCS9BLzBqYTlAuHP8TM) | [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [XT4S1S](https://open.spotify.com/album/2SGONYwprYHZruYFhQYiFC) | 3:39 |
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYyoxRKXFLBa.md) - [plain]
 | 31 | [Vogue](https://open.spotify.com/track/27QvYgBk0CHOVHthWnkuWt) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Celebration \(double disc version\)](https://open.spotify.com/album/43lok9zd7BW5CoYkXZs7S0) | 5:16 |
 | 32 | [Me Pregunto](https://open.spotify.com/track/49EAN1FCYDbxfEHS3xJvby) | [Belanova](https://open.spotify.com/artist/3oNy8cjBtJzLC07I70sklp) | [Dulce Beat](https://open.spotify.com/album/5aamU0jIrX7bsjUsPCFVAK) | 3:07 |
 | 33 | [Bolero Falaz](https://open.spotify.com/track/5yMXpZhVnUAFT154F3MQ8G) | [Aterciopelados](https://open.spotify.com/artist/3MqjsWDLhq8SyY6N3PE8yW) | [Originales \- 20 Exitos](https://open.spotify.com/album/5KSmyxLneU9PjuBZQguAnf) | 3:45 |
-| 34 | [Amor Prohibido](https://open.spotify.com/track/1eKvXRg5ntWvQoHZnGCKh3) | [Selena](https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch) | [Dreaming Of You](https://open.spotify.com/album/2IevUWpkZ9KUcr6ZhtklE0) | 2:55 |
-| 35 | [VIVIR ASÍ ES MORIR DE AMOR](https://open.spotify.com/track/75HnDKDqsmEzdOKFWe5FZS) | [NATHY PELUSO](https://open.spotify.com/artist/3VHAySZQPlfGlNLslzXYpN) | [VIVIR ASÍ ES MORIR DE AMOR](https://open.spotify.com/album/3jHBdwS3nCuPC6lThrFJba) | 4:17 |
+| 34 | [VIVIR ASÍ ES MORIR DE AMOR](https://open.spotify.com/track/75HnDKDqsmEzdOKFWe5FZS) | [NATHY PELUSO](https://open.spotify.com/artist/3VHAySZQPlfGlNLslzXYpN) | [VIVIR ASÍ ES MORIR DE AMOR](https://open.spotify.com/album/3jHBdwS3nCuPC6lThrFJba) | 4:17 |
+| 35 | [Amor Prohibido](https://open.spotify.com/track/1eKvXRg5ntWvQoHZnGCKh3) | [Selena](https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch) | [Dreaming Of You](https://open.spotify.com/album/2IevUWpkZ9KUcr6ZhtklE0) | 2:55 |
 | 36 | [Bailar Contigo](https://open.spotify.com/track/4hi9OTFKomNUlAIhp1fmap) | [Monsieur Periné](https://open.spotify.com/artist/36KsCCwgI0Dep97yVJWmkK) | [Encanto Tropical](https://open.spotify.com/album/65dDJHiGH66LQPEiLHKDma) | 3:38 |
 | 37 | [Hell You Call A Dream](https://open.spotify.com/track/3LwBBAvEa9qhajKoHlJi4z) | [The Warning](https://open.spotify.com/artist/2SmW1lFlBJn4IfBzBZDlSh) | [Hell You Call A Dream / Qué Más Quieres](https://open.spotify.com/album/0tkvYVQovNWfCE5tf1Viir) | 2:56 |
 | 38 | [Rebel Girl](https://open.spotify.com/track/0XyjtybwqSdqMAFfBEkmZf) | [Bikini Kill](https://open.spotify.com/artist/0gvHPdYxlU94W7V5MSIlFe) | [The Punk Singer \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7DoTlKAupC8rNAdb0tNmZ2) | 2:37 |
@@ -73,8 +73,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYyoxRKXFLBa.md) - [plain]
 | 63 | [La Casa de la Esquina](https://open.spotify.com/track/20WdW4UdJHtYcaQEyEktaa) | [Vivir Quintana](https://open.spotify.com/artist/3Z3OTfxYdBnJKMXFbRjmU2) | [Te mereces un amor](https://open.spotify.com/album/4pZWUWPYGu8tglUI2e8pVF) | 3:44 |
 | 64 | [Fuega](https://open.spotify.com/track/4xspJCCiPHDCu5lgJOXJjR) | [Karina Galicia](https://open.spotify.com/artist/0syMDHmkYbx5dG8bOnZ60z), [Alaíde](https://open.spotify.com/artist/2htg8Ya9Fbuy2zGKeL5q9i), [Hieva](https://open.spotify.com/artist/3vLNmRETMGAOugcWZ8AhFI) | [Cancionero del Nuevo Milenio](https://open.spotify.com/album/1soI4NhDklGb6M7hv31bLA) | 2:52 |
 | 65 | [Mio Gladiatore](https://open.spotify.com/track/3sx2amfdadccDQLOAx3IIf) | [Zemmoa](https://open.spotify.com/artist/3QxmgpgW3C6Bfwm8ajcUJP) | [Mio Gladiatore](https://open.spotify.com/album/4OHHVQ4t5fuNtwJGuJSYV3) | 3:18 |
-| 66 | [Algo De Verdad](https://open.spotify.com/track/1v7TEaSKfwkfJmmpAPhqF5) | [María Centeno](https://open.spotify.com/artist/4YJQjp0wW8B5luWzPOcHrG) | [Algo De Verdad](https://open.spotify.com/album/7CqpPvnqNYpAXsGI9YkdkV) | 2:27 |
-| 67 | [Ya No Es Lo Mismo](https://open.spotify.com/track/3TNEAG1g4e32EyEzy7FqqC) | [Bratty](https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn) | [Ya No Es Lo Mismo](https://open.spotify.com/album/60ks7eHWtmz6Wvbdx8k7DG) | 3:49 |
+| 66 | [Ya No Es Lo Mismo](https://open.spotify.com/track/3TNEAG1g4e32EyEzy7FqqC) | [Bratty](https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn) | [Ya No Es Lo Mismo](https://open.spotify.com/album/60ks7eHWtmz6Wvbdx8k7DG) | 3:49 |
+| 67 | [Algo De Verdad](https://open.spotify.com/track/1v7TEaSKfwkfJmmpAPhqF5) | [María Centeno](https://open.spotify.com/artist/4YJQjp0wW8B5luWzPOcHrG) | [Algo De Verdad](https://open.spotify.com/album/7CqpPvnqNYpAXsGI9YkdkV) | 2:27 |
 | 68 | [Voy en Auto](https://open.spotify.com/track/0kVHMFM0cLUU3LVxP3Ps4F) | [Andru](https://open.spotify.com/artist/3oOQ670Uw0UyVnmj9XM58W), [Bratty](https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn) | [Voy en Auto](https://open.spotify.com/album/45VXxqHvTgdEicrCiIBXnu) | 2:58 |
 | 69 | [Astros Prohibidos](https://open.spotify.com/track/6RjsCyrZ1HH5T9I2Tn5NBt) | [CoolestAndie](https://open.spotify.com/artist/2TBvQNXLncWIE3ZcuRHSUr) | [Astros Prohibidos](https://open.spotify.com/album/0vldS5AY8rsDiSIbf7eMaD) | 3:14 |
 | 70 | [tu liga del pelo](https://open.spotify.com/track/3tX4hFG4uCVgGVUWdZzK5z) | [babas tutsipop](https://open.spotify.com/artist/0AkKSLTBRMdJBQU3olOlMv) | [tu liga del pelo](https://open.spotify.com/album/33UOUfdOGdD3BJgU5u4NaD) | 3:36 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYyoxRKXFLBa.md) - [plain]
 | 79 | [Cerca](https://open.spotify.com/track/2qZ146aMtXEx3mQ4qLijol) | [Silver Rose](https://open.spotify.com/artist/2JGwyKMo0j1SIbEcbA0QBP) | [Cerca](https://open.spotify.com/album/7H9c1oaTs6DRLoRM1SR3it) | 4:43 |
 | 80 | [Invisible](https://open.spotify.com/track/3kQBxC4xCNGLDjI8LZXmN3) | [RPLK](https://open.spotify.com/artist/1tuzO0TeRF6KAKsSbHD46g) | [Me gusto de noche](https://open.spotify.com/album/1EM2CEGR5bz4yrgDj5VoxC) | 2:24 |
 
-Snapshot ID: `MCw0N2RiMTc2MWM0NjJkNmJjOWViYzE1ODk2MTE5ZDFjNDExOGNiNWI5`
+Snapshot ID: `MCw1MDMxMmI2OWQ4NzExZjlmYTc2NjZiYmI4MjRjNjk4MGIxMzM2OWRj`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcC6YLqj8ET8.md) - [plain]
 
 > Electronic Trap House with Arab spices\. Cover: DJ KABOO.
 
-[Spotify](https://open.spotify.com/user/spotify) - 206,164 likes - 55 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 206,191 likes - 55 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,9 +43,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcC6YLqj8ET8.md) - [plain]
 | 33 | [Mirage](https://open.spotify.com/track/4oY2lR2vLjNGn3ltjHZQGK) | [NextRO](https://open.spotify.com/artist/6Y63ciwphfXsHoWQOur7gq) | [Exxxtra Pack](https://open.spotify.com/album/4HPPW1pl0kBnnpDHtpoPs8) | 3:07 |
 | 34 | [Fidaa](https://open.spotify.com/track/6AyqrV9DSKFmEqZxjjnh7E) | [VFM Style](https://open.spotify.com/artist/4ulXFvFK1pjsKvk61NQtPF) | [Arabic Trap, Pt\. 2](https://open.spotify.com/album/3ssgRjMtcAE8F2pJhZ8MGk) | 3:03 |
 | 35 | [Morocco](https://open.spotify.com/track/035yjtwaCzcMskSYzIqcAA) | [Cris Taylor](https://open.spotify.com/artist/35IHRUK5Kx426lQ2KeIB0o) | [Morocco](https://open.spotify.com/album/5K6dP7u7Gxdt1kGXexYfvD) | 2:43 |
-| 36 | [Cataclysm جائحة](https://open.spotify.com/track/55DEy5jBZJcm75JpGZTlyC) | [Gillionaire](https://open.spotify.com/artist/74rsMLFnDYIf54HLWuKAty) | [Cataclysm جائحة](https://open.spotify.com/album/5cO6vLIAow8tq0YX4NiD4I) | 2:19 |
+| 36 | [Token Baashi](https://open.spotify.com/track/7h9VoaEs3hH1nzgZPIw7lN) | [CryJaxx](https://open.spotify.com/artist/4FidvjA9dxE6bhpHGC6ns9), [TH3 DARP](https://open.spotify.com/artist/10W6SIbkGGVlY8yYrUxwmw) | [Token Baashi](https://open.spotify.com/album/3F5ICoYWkN5wbpMy2AICde) | 3:41 |
 | 37 | [After Life](https://open.spotify.com/track/6f3C47PALxUOq7VjRSyx7M) | [NIN9](https://open.spotify.com/artist/0DJeag58upLxC4iA5Ju7MO) | [After Life](https://open.spotify.com/album/3mibBHWq5uBgzJnWGWtXgZ) | 3:37 |
-| 38 | [Token Baashi](https://open.spotify.com/track/7h9VoaEs3hH1nzgZPIw7lN) | [CryJaxx](https://open.spotify.com/artist/4FidvjA9dxE6bhpHGC6ns9), [TH3 DARP](https://open.spotify.com/artist/10W6SIbkGGVlY8yYrUxwmw) | [Token Baashi](https://open.spotify.com/album/3F5ICoYWkN5wbpMy2AICde) | 3:41 |
+| 38 | [Cataclysm جائحة](https://open.spotify.com/track/55DEy5jBZJcm75JpGZTlyC) | [Gillionaire](https://open.spotify.com/artist/74rsMLFnDYIf54HLWuKAty) | [Cataclysm جائحة](https://open.spotify.com/album/5cO6vLIAow8tq0YX4NiD4I) | 2:19 |
 | 39 | [Tribe](https://open.spotify.com/track/6WPF6CtkciFI5O33xTpnkO) | [Dav the Ninja](https://open.spotify.com/artist/0Ddd55lzvz41th2dA7Limg) | [In Peace](https://open.spotify.com/album/5YjWQeUmO2KIFI9zAwPbvK) | 3:39 |
 | 40 | [INVASION](https://open.spotify.com/track/32ab08QJ6UyJKqtCZNqiTh) | [Dj Khalid Music](https://open.spotify.com/artist/5iu1vM00YZHexw3A8dCdkt), [Hassan Hajila](https://open.spotify.com/artist/5HOFVs3MrexrlD9Vgapn54) | [INVASION](https://open.spotify.com/album/2zua6hf4PwprRmsUaS1ooj) | 3:33 |
 | 41 | [Oblivion](https://open.spotify.com/track/03Rac7rITePpSgheEsFoMz) | [Naffar](https://open.spotify.com/artist/3QIEbSFF0qzlYo0EDcr7r9) | [Oblivion](https://open.spotify.com/album/396e5sssz75hqSyu6lg2BH) | 3:49 |
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcC6YLqj8ET8.md) - [plain]
 | 54 | [Lights Out](https://open.spotify.com/track/7DKBMH4BQ18GAWYtqpjGhE) | [Naffar](https://open.spotify.com/artist/3QIEbSFF0qzlYo0EDcr7r9) | [Lights Out](https://open.spotify.com/album/0y2PgWYSdanYnwxSmIW64U) | 3:05 |
 | 55 | [Sargon](https://open.spotify.com/track/4BLFw6EbBWHvKe7uTokPe5) | [AxLi](https://open.spotify.com/artist/2C0w7wd8qZseBpEtfYPL56) | [Sargon](https://open.spotify.com/album/1UmnrooK6HERWjfZsPbSDl) | 3:04 |
 
-Snapshot ID: `MCxmY2E1OTM0NTBhMzNjYmU1M2JiNGUyMjRiN2FjMDg1ZDA5ZDVjNzVh`
+Snapshot ID: `MCw4YTM2ZmJmMWY4MzgwZTkxYWE4MjkyZWM1MjQ2MTI0YTQ4OGI2MjIx`

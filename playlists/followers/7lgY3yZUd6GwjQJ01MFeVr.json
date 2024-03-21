@@ -1,5 +1,5 @@
 {
-  "2024-03-20": 34888,
+  "2024-03-21": 34883,
   "date_first_scraped": "2023-12-14",
   "description": "All your favourite Country songs in one place! Featuring: <a href=\"https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2?si=hGObFgbfQnOQ75_EbuOhDg\"> Zach Bryan</a>, The Castellows, Bailey Zimmerman, Warren Zeiders, Cody Johnson, Dan + Shay,  Cole Swindell, Kenny Chesney &amp; many more",
   "name": "Complete Country",
@@ -57,6 +57,24 @@
       "duration_ms": 160680,
       "name": "Ain't Doin' Jack",
       "url": "https://open.spotify.com/track/1cF5gDFBHOprIKwzFORNjH"
+    },
+    {
+      "album": {
+        "name": "Austin",
+        "url": "https://open.spotify.com/album/0VzAK7qF5GcvFbNlCmt0YL"
+      },
+      "artists": [
+        {
+          "name": "Dasha",
+          "url": "https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I"
+        }
+      ],
+      "date_added": "2024-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171782,
+      "name": "Austin",
+      "url": "https://open.spotify.com/track/1i07MlxQIuFSqNX3x3LkJH"
     },
     {
       "album": {
@@ -1899,7 +1917,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-20",
       "duration_ms": 166386,
       "name": "Women Ain\u2019t Whiskey",
       "url": "https://open.spotify.com/track/3axBDZmJLbGw61413B8XIS"

@@ -1,5 +1,5 @@
 {
-  "2024-03-20": 5944,
+  "2024-03-21": 5950,
   "date_first_scraped": "2022-02-25",
   "description": "New England music breaking waves. Cover: <a href=\"spotify:artist:1DN9Pgv4fiAaRSSgiisj5G\">Felix!</a>",
   "name": "Ripple Effect: New England",
@@ -42,6 +42,28 @@
     },
     {
       "album": {
+        "name": "Mookie Blaylock",
+        "url": "https://open.spotify.com/album/3GjXhr9C7CW7BmB1uKVJ4z"
+      },
+      "artists": [
+        {
+          "name": "Jiles",
+          "url": "https://open.spotify.com/artist/7pnz0G9l89KK5iC6Beevcx"
+        },
+        {
+          "name": "Vinyl Villain",
+          "url": "https://open.spotify.com/artist/37OfAXhSGfjxrODZr2fNX4"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172031,
+      "name": "10pc",
+      "url": "https://open.spotify.com/track/1PgBPDa8rxfsao5FkfMWP4"
+    },
+    {
+      "album": {
         "name": "10pc",
         "url": "https://open.spotify.com/album/4aY4pGLmHiMmYzWvUZgeDo"
       },
@@ -57,7 +79,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-20",
       "duration_ms": 172031,
       "name": "10pc",
       "url": "https://open.spotify.com/track/4qVackkH4lFR8n0TZs6R0s"

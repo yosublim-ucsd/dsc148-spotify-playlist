@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1DHoaY.md) - [plain]
 
 > This is Bob Marley & The Wailers\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,001,738 likes - 50 songs - 3 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,002,150 likes - 50 songs - 3 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1DHoaY.md) - [plain]
 | 49 | [Kinky Reggae \- Jamaican Version](https://open.spotify.com/track/3nVveBWPxK3A65Wj6caJ1W) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Catch A Fire](https://open.spotify.com/album/39kLAVdcgW7jbMcTEaY2qy) | 3:42 |
 | 50 | [Chant Down Babylon](https://open.spotify.com/track/2HJZDha9V8OMf4n2HFUXf5) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Confrontation](https://open.spotify.com/album/5Rg4ZSwf1LPCuAMr0msdun) | 2:36 |
 
-Snapshot ID: `Mjg1MTQxOTUsMDAwMDAwMDA0ZjJlMjlmYWNmODcyOWU0MjU4NjRiZTlmNDZmYTM4Zg==`
+Snapshot ID: `Mjg1MTU2NjAsMDAwMDAwMDBhMDhiYTZlMjdhODE5ZTA0OTMwYjMzMTczODNmMDZlNw==`

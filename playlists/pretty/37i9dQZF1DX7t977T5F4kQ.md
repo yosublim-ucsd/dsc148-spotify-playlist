@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7t977T5F4kQ.md) - [plain]
 
 > The hottest hip\-life and highlife bangers from Ghana right now\.  Cover: Ghetto Boy
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,286 likes - 80 songs - 4 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,294 likes - 80 songs - 4 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7t977T5F4kQ.md) - [plain]
 | 12 | [Masesa](https://open.spotify.com/track/0h6KxX4VJVRUL2lQhCmMFE) | [Jay Bahd](https://open.spotify.com/artist/0Q7yvULFrthrEzwtn5hRcw), [Skyface SDW](https://open.spotify.com/artist/4R4KEZSjfEuuLyyqTiTVtG), [Kwaku DMC](https://open.spotify.com/artist/4gP93834jVbocef9R42gQz) | [Masesa](https://open.spotify.com/album/3F2RjwQ9FAkP8gs6eGos0S) | 2:52 |
 | 13 | [Broken Heart \(feat\. Kuami Eugene\)](https://open.spotify.com/track/3CTLElO2jgzX3pUU571Nfk) | [DJ Vyrusky](https://open.spotify.com/artist/20uZPZ6EXItffkdLevoEdV), [Kuami Eugene](https://open.spotify.com/artist/0GGKrcPOlBkmBzQDf2Ogkl) | [Broken Heart \(feat\. Kuami Eugene\)](https://open.spotify.com/album/2wP11FwHQj4zg9x9XBo1r4) | 2:58 |
 | 14 | [Till We Die \(feat\. Ruger\)](https://open.spotify.com/track/0tdbVxn9Qewgtv2lUgD8aD) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Ruger](https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H) | [Till We Die \(feat\. Ruger\)](https://open.spotify.com/album/75BdyAVpJgWI6Dmz9qc9zY) | 3:03 |
-| 15 | [People Pleaser](https://open.spotify.com/track/4sS3l0GDiJ3ZwLIIiuWMFi) | [G\-West](https://open.spotify.com/artist/39utnMndFEvTgT6ldinEaJ) | [People Pleaser](https://open.spotify.com/album/1WhgmvuCmr1J2o8zPqNFGt) | 3:17 |
+| 15 | [People Pleaser](https://open.spotify.com/track/4sS3l0GDiJ3ZwLIIiuWMFi) | [G\-West](https://open.spotify.com/artist/39utnMndFEvTgT6ldinEaJ), [Ghanaian Stallion](https://open.spotify.com/artist/1rrYX4LEdujuVhl43MTpZF) | [People Pleaser](https://open.spotify.com/album/1WhgmvuCmr1J2o8zPqNFGt) | 3:17 |
 | 16 | [Danger](https://open.spotify.com/track/3Kc2ZkX5CjmoaOSIi1kyh2) | [KiDi](https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V) | [Danger](https://open.spotify.com/album/7INuTkjRWZjmsTF2GvfSKh) | 2:28 |
 | 17 | [Odo Bi Ye Bad](https://open.spotify.com/track/0vKCeI0yetwp5BfBNihg3o) | [Rap Fada](https://open.spotify.com/artist/2B2GXzW2b4x6pohKQ5C40a), [King Paluta](https://open.spotify.com/artist/7b6IvXftHBf6fYfFRsEhQT) | [Odo Bi Ye Bad](https://open.spotify.com/album/2thtAFmA3VQWLZfuMi3LbV) | 3:56 |
 | 18 | [Our Day](https://open.spotify.com/track/2mqHJQs6OXsllIjNmffAWn) | [Kweku Flick](https://open.spotify.com/artist/2lSLuh2H1mtsxFBNm9ZbKF) | [Our Day](https://open.spotify.com/album/6XWLKjabihhtUqkff8Ts9l) | 2:58 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7t977T5F4kQ.md) - [plain]
 | 79 | [J.O.K.](https://open.spotify.com/track/31F9gmsnEaeGwN2kmjwCzg) | [Deon Boakye](https://open.spotify.com/artist/7uJxdfNB1wzMC3UQ1SyBfi) | [J.O.K.](https://open.spotify.com/album/3Pf1SWY9syKZwWvdr2sW3S) | 2:28 |
 | 80 | [Holy Father](https://open.spotify.com/track/2wSk1MHN01QkgGEundIT0y) | [Wendy Shay](https://open.spotify.com/artist/5yrRN6GxtTSHbcw7qxPg4S), [Ras Kuuku](https://open.spotify.com/artist/24Lo1cdnRz69FYSaX7m44S) | [Holy Father](https://open.spotify.com/album/1AYw6sAIeqlefgpeNqjVjo) | 3:50 |
 
-Snapshot ID: `MCw3N2MxYjIyZWRlMTg1OTJkODA3YmU4MmIyNmY5NGJiZjk1NWFjZmQ3`
+Snapshot ID: `MCw2NGFkOWE3ZTA4YWJmNjBhODQ0ZjYwOTgyOTc5OWJjMTA4MmQzNmQ4`

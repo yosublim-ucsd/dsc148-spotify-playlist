@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCDLlreQRnS3.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3t8IlEzZBcgzaM2IhupjLR">Molly Irvine</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 28 likes - 96 songs - 5 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 29 likes - 96 songs - 5 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,8 +56,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCDLlreQRnS3.md) - [plain]
 | 46 | [Show You](https://open.spotify.com/track/2pi50lnTL4suF9KMOQRgcp) | [Kasper G](https://open.spotify.com/artist/1KCbJUJMBMWPE0n3jskSz8), [Moli](https://open.spotify.com/artist/1UytzAp8ZnC60ZAMBROqW6) | [Show You](https://open.spotify.com/album/5ho9hNw0hocm8XGvLt4F85) | 3:26 |
 | 47 | [Fade](https://open.spotify.com/track/3lVct0FG5GjLm1lALTpyPc) | [J\. Worra](https://open.spotify.com/artist/4q0N3EI67tVnAeeaXbNQIj) | [Fade](https://open.spotify.com/album/1wUc9z7N5GRsfEDJVX7D91) | 2:58 |
 | 48 | [Addicted to Losing You](https://open.spotify.com/track/3F6PjG0vjxhCLWl2tJ8tod) | [French Original](https://open.spotify.com/artist/4ynyV1CHYxbAfyoJgYOc17) | [Addicted to Losing You](https://open.spotify.com/album/7N2wLmM86ATroyuk7EZ4PU) | 2:29 |
-| 49 | [Modern Melancholia](https://open.spotify.com/track/2pt2yUMaj7mggKCSJ3Ttei) | [FIL BO RIVA](https://open.spotify.com/artist/3JE0uoggWwwYG6rSSJk0HN) | [Modern Melancholia](https://open.spotify.com/album/6vkr8DGARtN8y3nsKRBu4E) | 4:13 |
-| 50 | [Over the Moon](https://open.spotify.com/track/7iAhVWVoVBWtRrtF2Ol67k) | [SRTW](https://open.spotify.com/artist/7vHAcPVlEDksRsCfkez2CD) | [Over the Moon](https://open.spotify.com/album/08WoQ66LbWZg4A7hltBv5z) | 2:02 |
+| 49 | [Over the Moon](https://open.spotify.com/track/7iAhVWVoVBWtRrtF2Ol67k) | [SRTW](https://open.spotify.com/artist/7vHAcPVlEDksRsCfkez2CD) | [Over the Moon](https://open.spotify.com/album/08WoQ66LbWZg4A7hltBv5z) | 2:02 |
+| 50 | [Modern Melancholia](https://open.spotify.com/track/2pt2yUMaj7mggKCSJ3Ttei) | [FIL BO RIVA](https://open.spotify.com/artist/3JE0uoggWwwYG6rSSJk0HN) | [Modern Melancholia](https://open.spotify.com/album/6vkr8DGARtN8y3nsKRBu4E) | 4:13 |
 | 51 | [Dizzy](https://open.spotify.com/track/64LUjD3YocS7RTVKH9cryO) | [MOTi](https://open.spotify.com/artist/1vo8zHmO1KzkuU9Xxh6J7W) | [Dizzy](https://open.spotify.com/album/5vgiAIFtHN4DRQjBG5wf5F) | 2:28 |
 | 52 | [On the Weekend \- Phantoms Remix](https://open.spotify.com/track/0yfUO4Z7ERcVIoCisyHeiX) | [Moli](https://open.spotify.com/artist/1UytzAp8ZnC60ZAMBROqW6), [Phantoms](https://open.spotify.com/artist/1bJJlRHoc1UVeqzxcrPLIw) | [On the Weekend](https://open.spotify.com/album/3Is1jufEUK7Nb3yeJ09i85) | 3:47 |
 | 53 | [21](https://open.spotify.com/track/6XnBxunhT15siJYMdXwcIm) | [Luke Noa](https://open.spotify.com/artist/6I0GEFnsmFxBdyolt4KlJe), [Thala](https://open.spotify.com/artist/5JkWwSezW4KRFNy0ru3aZU) | [21](https://open.spotify.com/album/3UngvNb7RYdv9OlQCqChLM) | 3:57 |
@@ -66,9 +66,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCDLlreQRnS3.md) - [plain]
 | 56 | [Crying in the Swimming Pool](https://open.spotify.com/track/1TBtBOCF94xbvzM4Xtc4zY) | [Moli](https://open.spotify.com/artist/1UytzAp8ZnC60ZAMBROqW6) | [Crying in the Swimming Pool](https://open.spotify.com/album/0Y8zDzAD669zCOi5vur5kE) | 3:12 |
 | 57 | [LEGGO](https://open.spotify.com/track/3GeDEcWeEkTewqtgk5RXTn) | [EXID](https://open.spotify.com/artist/1xs6WFotNQSXweo0GXrS0O) | [X](https://open.spotify.com/album/5DbZBWJtKZnwCKDkMvC45q) | 3:24 |
 | 58 | [On the Weekend](https://open.spotify.com/track/381RY9KEvhEZi88XDDvi0d) | [Moli](https://open.spotify.com/artist/1UytzAp8ZnC60ZAMBROqW6) | [On the Weekend](https://open.spotify.com/album/3Is1jufEUK7Nb3yeJ09i85) | 4:01 |
-| 59 | [Cloud No9 \- Montmartre Remix](https://open.spotify.com/track/0xYDcgc6HWVKkIumcDPzaV) | [Moli](https://open.spotify.com/artist/1UytzAp8ZnC60ZAMBROqW6), [MONTMARTRE](https://open.spotify.com/artist/4n3V7bHjjPqb11n7d0WAVo) | [Préface](https://open.spotify.com/album/3rl3hmwkjUzD3S6CRnubvv) | 3:41 |
-| 60 | [Back to Sleep](https://open.spotify.com/track/38cJb1QguOMMr4uUzFzPx0) | [Kirsty Grant](https://open.spotify.com/artist/4UjMmexJsVYtV8BguV7h1e) | [Back to Sleep](https://open.spotify.com/album/4cbTRBS6JOHESGiz3ugMID) | 3:24 |
-| 61 | [Bad Town](https://open.spotify.com/track/6UoFZEFRgy19CsQOfCJQmp) | [Lucas Estrada](https://open.spotify.com/artist/2tndYCXQneCV4jtoWRwVpz), [Frank Walker](https://open.spotify.com/artist/6rcE30MaP92XafelMNZ2Sq) | [Bad Town](https://open.spotify.com/album/2KggVcAY0RMidWcqJoEF5U) | 2:35 |
+| 59 | [Bad Town](https://open.spotify.com/track/6UoFZEFRgy19CsQOfCJQmp) | [Lucas Estrada](https://open.spotify.com/artist/2tndYCXQneCV4jtoWRwVpz), [Frank Walker](https://open.spotify.com/artist/6rcE30MaP92XafelMNZ2Sq) | [Bad Town](https://open.spotify.com/album/2KggVcAY0RMidWcqJoEF5U) | 2:35 |
+| 60 | [Cloud No9 \- Montmartre Remix](https://open.spotify.com/track/0xYDcgc6HWVKkIumcDPzaV) | [Moli](https://open.spotify.com/artist/1UytzAp8ZnC60ZAMBROqW6), [MONTMARTRE](https://open.spotify.com/artist/4n3V7bHjjPqb11n7d0WAVo) | [Préface](https://open.spotify.com/album/3rl3hmwkjUzD3S6CRnubvv) | 3:41 |
+| 61 | [Back to Sleep](https://open.spotify.com/track/38cJb1QguOMMr4uUzFzPx0) | [Kirsty Grant](https://open.spotify.com/artist/4UjMmexJsVYtV8BguV7h1e) | [Back to Sleep](https://open.spotify.com/album/4cbTRBS6JOHESGiz3ugMID) | 3:24 |
 | 62 | [Easy 4 U](https://open.spotify.com/track/4QkvtJ1oZBDtZnM3dM4zyJ) | [Moli](https://open.spotify.com/artist/1UytzAp8ZnC60ZAMBROqW6) | [Résumé](https://open.spotify.com/album/1LdMSrbrbw2Gabc5na3mcO) | 3:30 |
 | 63 | [Jacuzzi \- Jean Tonique Remix](https://open.spotify.com/track/0zk11BkmpJhaOqGtUhUpOJ) | [Moli](https://open.spotify.com/artist/1UytzAp8ZnC60ZAMBROqW6), [Jean Tonique](https://open.spotify.com/artist/6BVLQfvzlvlNZ43WjbFgbI) | [Préface](https://open.spotify.com/album/3rl3hmwkjUzD3S6CRnubvv) | 2:57 |
 | 64 | [PARIS](https://open.spotify.com/track/0NfeAyYr0WWnV33gYfKOFY) | [Harina](https://open.spotify.com/artist/3G20t9ua4kf5JEsuqSTdJG) | [PARIS](https://open.spotify.com/album/7mFz9BHV1E6VDp9DLMll1q) | 2:25 |
@@ -105,4 +105,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCDLlreQRnS3.md) - [plain]
 | 95 | [Touchdown](https://open.spotify.com/track/6mxyJwExRllxWVEYZJl3C8) | [Moli](https://open.spotify.com/artist/1UytzAp8ZnC60ZAMBROqW6) | [Préface](https://open.spotify.com/album/3rl3hmwkjUzD3S6CRnubvv) | 3:22 |
 | 96 | [Hold the Line](https://open.spotify.com/track/0qwgb18YE8VGKjmkclutuH) | [Moli](https://open.spotify.com/artist/1UytzAp8ZnC60ZAMBROqW6) | [Préface](https://open.spotify.com/album/3rl3hmwkjUzD3S6CRnubvv) | 4:15 |
 
-Snapshot ID: `Mjg1MTUwMTAsMDAwMDAwMDA3NTM0ZjZmNDgxMGZiYTcyMWQ0NTEyYjg2Yjc4MTQ3NA==`
+Snapshot ID: `Mjg1MTY0NDAsMDAwMDAwMDAzYjlkYjQ0N2M0OTEzMGU5MWQwZDMyMDUxZDFhMThlNg==`

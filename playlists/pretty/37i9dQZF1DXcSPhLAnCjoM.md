@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcSPhLAnCjoM.md) - [plain]
 
 > Héléna au top des 50 hits de variété française du moment.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,009,832 likes - 50 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,009,948 likes - 50 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Aimée pour de vrai \(Héléna\)](https://open.spotify.com/track/5peFNKKLZUaOYE0c3qZNE1) | [Star Academy](https://open.spotify.com/artist/0SkR0pnP9oQ3ghG9juH9hy) | [L'album de la promo 2023](https://open.spotify.com/album/7nwA9NO0wjD68jgpeimgcC) | 3:08 |
+| 1 | [Aimée pour de vrai](https://open.spotify.com/track/5peFNKKLZUaOYE0c3qZNE1) | [Helena](https://open.spotify.com/artist/6M0dlWzmJ9Z81JM2WpHbsC), [Star Academy](https://open.spotify.com/artist/0SkR0pnP9oQ3ghG9juH9hy) | [L'album de la promo 2023](https://open.spotify.com/album/7nwA9NO0wjD68jgpeimgcC) | 3:08 |
 | 2 | [Je suis fou](https://open.spotify.com/track/2u6z1c1TruNQeNVv0xw1HT) | [Vianney](https://open.spotify.com/artist/4Nrd0CtP8txoQhnnlRA6V6), [Kendji Girac](https://open.spotify.com/artist/4IS4EyXNmiI2w5SRCjMtEF), [Soprano](https://open.spotify.com/artist/2RJBv9wXbW6m539q9NOfW1) | [à 2 à 3](https://open.spotify.com/album/4cuSo5bm0er72EcqLcJZ9d) | 3:46 |
 | 3 | [La symphonie des éclairs](https://open.spotify.com/track/4QIH0XYnCLoCl1WZIV08Pn) | [Zaho de Sagazan](https://open.spotify.com/artist/38GSybQjdc6sxptciOkxMq) | [La symphonie des éclairs](https://open.spotify.com/album/5GoDO8a03bxSSxMCeYKfaW) | 3:18 |
 | 4 | [Ceux qu'on était](https://open.spotify.com/track/5Pzh42xn3oAXHh4U7tVHMr) | [Pierre Garnier](https://open.spotify.com/artist/07UyhXWf7aDbvCZKhTKCpr) | [Ceux qu'on était](https://open.spotify.com/album/0s4v36LmZVmcutSEXwt3uD) | 2:54 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcSPhLAnCjoM.md) - [plain]
 | 49 | [Tout ce que l'on dit mais qu'on ne fait pas](https://open.spotify.com/track/3RKi6R7lFvPjLgIkdCGLiU) | [Grégoire](https://open.spotify.com/artist/1WycOcJCIRAH5xyzHXtp1E) | [Vivre](https://open.spotify.com/album/59u95OSY4puzu4a5Jmymfl) | 3:20 |
 | 50 | [Bravo](https://open.spotify.com/track/36FUspAqaG0UBBRrOXpnsF) | [Barbara Pravi](https://open.spotify.com/artist/3L4wiBOSDLkJ18OISXZDA8) | [Bravo](https://open.spotify.com/album/4hjUdsAbOJlVTvPjTuWdKu) | 3:11 |
 
-Snapshot ID: `MCw5NDAzNzAyMjY2OThkY2Y2ZGViODdiZmE4NmExNTllYjQ1OTY3YTcz`
+Snapshot ID: `MCwxZDJmMmQ4MGI1ODZlYzRlMzg1YWUwNjkzNWU1ZWZmOGMxNWNhODNj`

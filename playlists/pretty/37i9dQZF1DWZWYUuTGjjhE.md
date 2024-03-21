@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZWYUuTGjjhE.md) - [plain]
 
 > Timeless easy listening from the sixties...
 
-[Spotify](https://open.spotify.com/user/spotify) - 354,841 likes - 80 songs - 3 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 354,879 likes - 80 songs - 3 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,8 +26,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZWYUuTGjjhE.md) - [plain]
 | 16 | [The Weight \- Remastered 2000](https://open.spotify.com/track/0P7DoyGrr4Wp9w5TotEtUC) | [The Band](https://open.spotify.com/artist/4vpDg7Y7fU982Ds30zawDA) | [Music From Big Pink \(Remastered\)](https://open.spotify.com/album/0ky5kdvfPxSmSpj03hpSAE) | 4:34 |
 | 17 | [Be My Baby](https://open.spotify.com/track/2G2YzndIA6jeWFPBXhUjh5) | [The Ronettes](https://open.spotify.com/artist/7CyeXFnOrfC1N6z4naIpgo) | [Be My Baby: The Very Best of The Ronettes](https://open.spotify.com/album/3vLFWR3fLqfY82WGvaLuyV) | 2:40 |
 | 18 | [Do You Believe in Magic?](https://open.spotify.com/track/1udKn1oNKYQSQ9OmiIWCMu) | [The Lovin' Spoonful](https://open.spotify.com/artist/7CCn4PFRRRZF127jtCBAUe) | [Do you Believe In Magic](https://open.spotify.com/album/5bx2ZHa0KUDMD5T0r9V030) | 2:05 |
-| 19 | [When a Man Loves a Woman](https://open.spotify.com/track/51FpzuGkRYXFgsE2zXt9av) | [Percy Sledge](https://open.spotify.com/artist/3rRmDmzPcAFwcUDvG5gBqO) | [When a Man Loves a Woman](https://open.spotify.com/album/0lj5tDBUt1i1b1Llobu23M) | 2:53 |
-| 20 | [A Change Is Gonna Come](https://open.spotify.com/track/0KOE1hat4SIer491XKk4Pa) | [Sam Cooke](https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC) | [Ain't That Good News](https://open.spotify.com/album/2NFd4ApYFitFtJhGTSfDdP) | 3:11 |
+| 19 | [A Change Is Gonna Come](https://open.spotify.com/track/0KOE1hat4SIer491XKk4Pa) | [Sam Cooke](https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC) | [Ain't That Good News](https://open.spotify.com/album/2NFd4ApYFitFtJhGTSfDdP) | 3:11 |
+| 20 | [When a Man Loves a Woman](https://open.spotify.com/track/51FpzuGkRYXFgsE2zXt9av) | [Percy Sledge](https://open.spotify.com/artist/3rRmDmzPcAFwcUDvG5gBqO) | [When a Man Loves a Woman](https://open.spotify.com/album/0lj5tDBUt1i1b1Llobu23M) | 2:53 |
 | 21 | [Love Me Do \- Remastered 2009](https://open.spotify.com/track/3VbGCXWRiouAq8VyMYN2MI) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Please Please Me \(Remastered\)](https://open.spotify.com/album/3KzAvEXcqJKBF97HrXwlgf) | 2:21 |
 | 22 | [My Cherie Amour](https://open.spotify.com/track/5ZoDwIP1ntHwciLjydJ8X2) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [My Cherie Amour](https://open.spotify.com/album/51DUbu4v2tjYXxgy4I8vrG) | 2:53 |
 | 23 | [This Old Heart Of Mine \(Is Weak For You\)](https://open.spotify.com/track/5c33j1xFVOL4G24zxYhssB) | [The Isley Brothers](https://open.spotify.com/artist/53QzNeFpzAaXYnrDBbDrIp) | [This Old Heart Of Mine](https://open.spotify.com/album/6iIk47TPgtfIxzL2ALdBSN) | 2:52 |
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZWYUuTGjjhE.md) - [plain]
 | 32 | [Dancing In The Street](https://open.spotify.com/track/6rLqjzGV5VMLDWEnuUqi8q) | [Martha Reeves & The Vandellas](https://open.spotify.com/artist/1Pe5hlKMCTULjosqZ6KanP) | [Dance Party](https://open.spotify.com/album/3lFGAL3WruNTdBXfct7ZbZ) | 2:45 |
 | 33 | [You've Lost That Lovin' Feelin' \- Single Version](https://open.spotify.com/track/6AeyHqzNHJthYJbn0tvJ4b) | [The Righteous Brothers](https://open.spotify.com/artist/4b0WsB47XCa9F83BmwQ7WX) | [You've Lost That Lovin' Feelin'](https://open.spotify.com/album/28FEznublcKslK88ehRrfy) | 3:46 |
 | 34 | [Save the Last Dance for Me](https://open.spotify.com/track/391TUcoPonqYykPkSZ5Z9U) | [The Drifters](https://open.spotify.com/artist/1FqqOl9itIUpXr4jZPIVoT) | [Save the Last Dance for Me](https://open.spotify.com/album/6sWL3HHXGkqlST0rfWXvBU) | 2:34 |
-| 35 | [In the Midnight Hour](https://open.spotify.com/track/4NRQwaks9r58tTDvr4iEyv) | [Wilson Pickett](https://open.spotify.com/artist/0N5PyKJzS3M1XNlaCL7bbE) | [In the Midnight Hour](https://open.spotify.com/album/1L6fHKTQAogglo3coyo8yU) | 2:37 |
-| 36 | [Sugar, Sugar](https://open.spotify.com/track/3iSws76HjaU7k49EqJVTfF) | [The Archies](https://open.spotify.com/artist/33QmoCkSqADuQEtMCysYLh) | [The Very Best Of "The Archies"](https://open.spotify.com/album/7spOTrIPTM8RrMIAhCjLJi) | 2:47 |
+| 35 | [Sugar, Sugar](https://open.spotify.com/track/3iSws76HjaU7k49EqJVTfF) | [The Archies](https://open.spotify.com/artist/33QmoCkSqADuQEtMCysYLh) | [The Very Best Of "The Archies"](https://open.spotify.com/album/7spOTrIPTM8RrMIAhCjLJi) | 2:47 |
+| 36 | [In the Midnight Hour](https://open.spotify.com/track/4NRQwaks9r58tTDvr4iEyv) | [Wilson Pickett](https://open.spotify.com/artist/0N5PyKJzS3M1XNlaCL7bbE) | [In the Midnight Hour](https://open.spotify.com/album/1L6fHKTQAogglo3coyo8yU) | 2:37 |
 | 37 | [Bring It On Home to Me](https://open.spotify.com/track/0WVTQp3SOCuMr08jh1jweV) | [Sam Cooke](https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC) | [The Man Who Invented Soul](https://open.spotify.com/album/3Seie4YIVLWtPw2hQrouNY) | 2:42 |
 | 38 | [Turn! Turn! Turn! \(To Everything There Is a Season\)](https://open.spotify.com/track/5qBqBdfTEIWJwAS0Jm2F5R) | [The Byrds](https://open.spotify.com/artist/1PCZpxHJz7WAMF8EEq8bfc) | [Turn! Turn! Turn!](https://open.spotify.com/album/3v0i9qyogPoQEQj2bG6Fmn) | 3:49 |
 | 39 | [Louie Louie](https://open.spotify.com/track/0iA3xXSkSCiJywKyo1UKjQ) | [The Kingsmen](https://open.spotify.com/artist/2iIn8H3l2NNBNHFpYKWbfo) | [The Best of The Kingsmen](https://open.spotify.com/album/2SMBIc9VqCmLvWAd9srlSx) | 2:45 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZWYUuTGjjhE.md) - [plain]
 | 79 | [To Sir with Love](https://open.spotify.com/track/0gBFr7N2D1GfhkXIIepIGG) | [Lulu](https://open.spotify.com/artist/0jYKX08u1XxmHrl5TdM2QZ) | [To Sir With Love](https://open.spotify.com/album/37J4FeONwmD1Gl3PzvZGv3) | 2:46 |
 | 80 | [Cathy's Clown](https://open.spotify.com/track/1MA9StLzlFftLbuqOmoWij) | [The Everly Brothers](https://open.spotify.com/artist/4ACplpEqD6JIVgKrafauzs) | [The Golden Hits of The Everly Brothers](https://open.spotify.com/album/3wWjXsqngYcPmd4hQzjNAD) | 2:24 |
 
-Snapshot ID: `MCw0YzU0ZTBhYjMwNGMzOGM2ZjEwYzg0NGU1ODcyYWQ3MjY3NTEwNGI1`
+Snapshot ID: `MCxkZDZjMzlkMjVhZTI0ZGM3NjMyNTcxNGQ5ZTBkMDY3NzEwMGRmMDM2`

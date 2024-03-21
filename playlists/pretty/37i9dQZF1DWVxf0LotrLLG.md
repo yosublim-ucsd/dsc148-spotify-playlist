@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxf0LotrLLG.md) - [plain]
 
 > Descubre los nuevos álbumes del 2024\. Hit shuffle for a mixed listening experience\. Cover: Ovy On The Drums & Myke Towers
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,124 likes - 141 songs - 7 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,126 likes - 141 songs - 7 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,7 +51,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxf0LotrLLG.md) - [plain]
 | 41 | [Wave](https://open.spotify.com/track/50XxipPJAmRmT0QwcqM82u) | [Ana Macho](https://open.spotify.com/artist/6LpPPlGAVJAaNqsp8n4vyu) | [Radio Sunshine](https://open.spotify.com/album/6EqV9d8O0KlLBRGMLwHa23) | 2:35 |
 | 42 | [After](https://open.spotify.com/track/1wqemF4W6m8ngByUudBNVM) | [Ana Macho](https://open.spotify.com/artist/6LpPPlGAVJAaNqsp8n4vyu) | [Radio Sunshine](https://open.spotify.com/album/6EqV9d8O0KlLBRGMLwHa23) | 2:52 |
 | 43 | [roadhead](https://open.spotify.com/track/3wNTgsllDN3WMqgCAxvGOw) | [RaiNao](https://open.spotify.com/artist/42LEQxfXLEuzdqorKBbUVN), [Tainy](https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB) | [roadhead](https://open.spotify.com/album/78gARamOGVuP4BfkPTfvx7) | 2:37 |
-| 44 | [STV](https://open.spotify.com/track/67tupqoO5N4ilmzrlDheD4) | [RaiNao](https://open.spotify.com/artist/42LEQxfXLEuzdqorKBbUVN), [Loui Santana](https://open.spotify.com/artist/14gqvFoD6evuSToao4D62z) | [CAPICÚ](https://open.spotify.com/album/14nxqQmgXadFt4KHCLxf4s) | 2:56 |
+| 44 | [STV](https://open.spotify.com/track/67tupqoO5N4ilmzrlDheD4) | [RaiNao](https://open.spotify.com/artist/42LEQxfXLEuzdqorKBbUVN), [Loui Santana](https://open.spotify.com/artist/6QoAK6MFPyiqmoTdFTsjlh) | [CAPICÚ](https://open.spotify.com/album/14nxqQmgXadFt4KHCLxf4s) | 2:56 |
 | 45 | [logout](https://open.spotify.com/track/5coctz0BOqnal0m5IKeN6K) | [RaiNao](https://open.spotify.com/artist/42LEQxfXLEuzdqorKBbUVN) | [CAPICÚ](https://open.spotify.com/album/14nxqQmgXadFt4KHCLxf4s) | 2:38 |
 | 46 | [313](https://open.spotify.com/track/0hvoZ7gp6eozfjVQe05asN) | [Residente](https://open.spotify.com/artist/5GcWBUX00IPuWVGMIRK1sS), [Sílvia Pérez Cruz](https://open.spotify.com/artist/7qJXYbBDibZ1Zixi89aUnw), [Penélope Cruz](https://open.spotify.com/artist/46gEDN82KLMrq4ekmL2YYx) | [313](https://open.spotify.com/album/00hrqWTuXfvZJtHkFLEuaz) | 6:07 |
 | 47 | [Estilo Libre](https://open.spotify.com/track/0ZM3I8ddNM1MVWtixIch0f) | [Residente](https://open.spotify.com/artist/5GcWBUX00IPuWVGMIRK1sS), [Vico C](https://open.spotify.com/artist/0ciTdf9bGl9L3JM1Z0nLCT), [Big Daddy Kane](https://open.spotify.com/artist/6futYSDVulYR2PktBjTB5W) | [LAS LETRAS YA NO IMPORTAN](https://open.spotify.com/album/2VqfdamIWfwbBVzOzHJWs3) | 3:36 |
@@ -150,4 +150,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxf0LotrLLG.md) - [plain]
 | 140 | [Aquellos Botones](https://open.spotify.com/track/7pK2omxNCdDHqWqjRPJPoN) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [Corridos Bélicos, Vol\. IV](https://open.spotify.com/album/6OOtv7bmTFpSBh1uubgyTb) | 3:04 |
 | 141 | [El Agujero](https://open.spotify.com/track/3nIbByNpERy2YQnBJLwVVl) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf) | [Corridos Bélicos, Vol\. IV](https://open.spotify.com/album/6OOtv7bmTFpSBh1uubgyTb) | 2:23 |
 
-Snapshot ID: `MCw1YzM5OWQxZTVhZTEyZWE4YTk5ZGU2Y2Q3NTllNzc2MWFmNGM2ZjVi`
+Snapshot ID: `MCw1OGExMGQyZjkxOWUyYTY0NGYxNTBiZmY1MDc0YjE0YWQ1YjI3ZGE2`

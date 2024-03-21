@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYgwF78otcGY.md) - [plain]
 
 > Fjäderboa, dansgolv, allsång och tonartshöjningar \- nu är det mellofest! 🪩✨💜
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,817 likes - 52 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,829 likes - 52 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,13 +52,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYgwF78otcGY.md) - [plain]
 | 42 | [Bailá Bailá](https://open.spotify.com/track/3MMJuk00QLVAjS6vwBZ67V) | [Alvaro Estrella](https://open.spotify.com/artist/6RYT3r4anXD8WAGOw6T8El) | [Bailá Bailá](https://open.spotify.com/album/3bcMrj2XzJl776OdDXmrnF) | 2:53 |
 | 43 | [Evighet](https://open.spotify.com/track/6XGIQNU8VmOBRIdL5OBYKp) | [Carola](https://open.spotify.com/artist/3uFum0NCM1PtmCO0MwsOAt) | [Från nu till evighet](https://open.spotify.com/album/6WFBm5Or8TVQPN78wD2wzH) | 3:01 |
 | 44 | [I Can´t Go On](https://open.spotify.com/track/715cD5vOTffsOR3MnNYveJ) | [Robin Bengtsson](https://open.spotify.com/artist/1CQLPgGkfHrxNMqrXt5oWS) | [I Can't Go On](https://open.spotify.com/album/22O77Vq7bj0khJd5Blhjp3) | 3:03 |
-| 45 | [Habibi](https://open.spotify.com/track/0PcnMWhIgWga5G7pck1Fhb) | [Dolly Style](https://open.spotify.com/artist/0D00AEI0IWmoBtdIH75zXs) | [Dolly Styles bästa](https://open.spotify.com/album/4UeSWAPwCYG0PUYXfTRMfE) | 2:51 |
-| 46 | [La Det Swinge](https://open.spotify.com/track/3IgpWvgCqZjqhsiKwzw1Q7) | [Bobbysocks](https://open.spotify.com/artist/7DNARXXVHkEPeSE1efUqfs) | [La Det Swinge](https://open.spotify.com/album/0R1rwfjIEAx03Pi41JZxRa) | 2:53 |
+| 45 | [La Det Swinge](https://open.spotify.com/track/3IgpWvgCqZjqhsiKwzw1Q7) | [Bobbysocks](https://open.spotify.com/artist/7DNARXXVHkEPeSE1efUqfs) | [La Det Swinge](https://open.spotify.com/album/0R1rwfjIEAx03Pi41JZxRa) | 2:53 |
+| 46 | [Habibi](https://open.spotify.com/track/0PcnMWhIgWga5G7pck1Fhb) | [Dolly Style](https://open.spotify.com/artist/0D00AEI0IWmoBtdIH75zXs) | [Dolly Styles bästa](https://open.spotify.com/album/4UeSWAPwCYG0PUYXfTRMfE) | 2:51 |
 | 47 | [Kom och ta mig](https://open.spotify.com/track/22T3LCFXjOfxkiq5JgJacE) | [Brandsta City Släckers](https://open.spotify.com/artist/10bzvni38ThO7h6KOaHO9l) | [Rök 'n Roll](https://open.spotify.com/album/3GjCjRj6hI2tzAeKs5nIKD) | 2:57 |
 | 48 | [Kizunguzungu](https://open.spotify.com/track/54xN08hKKJvg6p5vSXM26g) | [SaRaha](https://open.spotify.com/artist/5So3Ot8FgnAlkz4v02elso) | [Kizunguzungu](https://open.spotify.com/album/5p95oQuomBWw9kZqWFsQXj) | 3:04 |
 | 49 | [Mera mera mera](https://open.spotify.com/track/0dLe7y9Pil9ETtYuDWyrpP) | [EMIL HENROHN](https://open.spotify.com/artist/6EukzZB91A7PNphXSLEgZH) | [Mera mera mera](https://open.spotify.com/album/2sjbpLcx2MTRtq72RoytQw) | 2:58 |
 | 50 | [En dag](https://open.spotify.com/track/4y81ov9ojdBPu5eLhDKxS9) | [Tommy Nilsson](https://open.spotify.com/artist/0PnNyzP7CgoDXZHr6cWOyq) | [En Samling 1981 \- 2001](https://open.spotify.com/album/0TcAev3EcjkrvhP3BoHlj9) | 3:18 |
-| 51 | [La Dolce Vita](https://open.spotify.com/track/1b5yFVBwIbjKI2TULxtDoC) | [After Dark](https://open.spotify.com/artist/6IsSP3qzKVJziwtHkmKuRl) | [La Dolce Vita](https://open.spotify.com/album/7rELI4gV9vdWKbSDF7Jsmi) | 3:00 |
-| 52 | [Växeln hallå](https://open.spotify.com/track/61hgZt5HEewtSjxibp01Vy) | [Janne Lucas](https://open.spotify.com/artist/0Z8KU7sIq35JPkymHAuBwx) | [The Best Of](https://open.spotify.com/album/7g8VSftiiJllTZkOZUoSFe) | 2:54 |
+| 51 | [Växeln hallå](https://open.spotify.com/track/61hgZt5HEewtSjxibp01Vy) | [Janne Lucas](https://open.spotify.com/artist/0Z8KU7sIq35JPkymHAuBwx) | [The Best Of](https://open.spotify.com/album/7g8VSftiiJllTZkOZUoSFe) | 2:54 |
+| 52 | [La Dolce Vita](https://open.spotify.com/track/1b5yFVBwIbjKI2TULxtDoC) | [After Dark](https://open.spotify.com/artist/6IsSP3qzKVJziwtHkmKuRl) | [La Dolce Vita](https://open.spotify.com/album/7rELI4gV9vdWKbSDF7Jsmi) | 3:00 |
 
-Snapshot ID: `MCw5MDM4YTRkY2IzYjYyNjgwNDkzNzkzZjYxOTg0ZTJkZmYwNWM1OTEx`
+Snapshot ID: `MCw0NzVhODU5Mjk5OWRkMmFlMGE5MmM3OWRkZmZkZTZlOTQ4NzMwMTI4`

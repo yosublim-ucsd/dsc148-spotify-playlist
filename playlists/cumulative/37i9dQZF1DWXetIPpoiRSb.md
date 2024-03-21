@@ -4,7 +4,7 @@
 
 > The freshest pop sounds\. Cover: Dasha
 
-1,303 songs - 2 day 17 hr 36 min
+1,304 songs - 2 day 17 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -100,7 +100,8 @@
 | [as long as i have you](https://open.spotify.com/track/01TtrmZEiYitpwDUcPQ6dj) | [Foster](https://open.spotify.com/artist/6vCIRD06VaQwwaZS0TqiCz) | [as long as i have you](https://open.spotify.com/album/2cSD5WNOxWrEBzfTQUFsh9) | 2:42 | 2021-06-05 | 2021-07-10 |
 | [Astronomy](https://open.spotify.com/track/0KmgJyW4GDgonqsoyx0CZ3) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Astronomy](https://open.spotify.com/album/4vs2JiaS6RjyxMcl0MvxLk) | 4:03 | 2021-05-08 | 2021-07-17 |
 | [At My Worst](https://open.spotify.com/track/2tI4WyzqOOwC23S5m0kqcB) | [Pink Sweat$](https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t) | [At My Worst \(Joel Corry Remix\)](https://open.spotify.com/album/3dygrCny9zRwSODkRGXV8U) | 2:50 | 2021-01-09 | 2021-04-17 |
-| [Austin](https://open.spotify.com/track/4NJqhmkGN042BrvHoMKUrJ) | [Dasha](https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I) | [Austin](https://open.spotify.com/album/4JtlZzYJEa7bejLF0ASnk0) | 2:51 | 2024-03-04 |  |
+| [Austin](https://open.spotify.com/track/4NJqhmkGN042BrvHoMKUrJ) | [Dasha](https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I) | [Austin](https://open.spotify.com/album/4JtlZzYJEa7bejLF0ASnk0) | 2:51 | 2024-03-04 | 2024-03-21 |
+| [Austin](https://open.spotify.com/track/6b81dy3WjbozXK6b7C1gu5) | [Dasha](https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I) | [What Happens Now?](https://open.spotify.com/album/0rQRrrZPPv6XXsxilJ1wFz) | 2:51 | 2024-03-04 |  |
 | [AVA](https://open.spotify.com/track/7bdpStmJdlw9GKBPTOkDwT) | [Natalie Jane](https://open.spotify.com/artist/5bfglVyGJppmmNoC2rhBUG) | [AVA](https://open.spotify.com/album/63WPi0R6qTveHv31Djy7D1) | 2:39 | 2022-11-25 | 2023-04-15 |
 | [AVO TOAST](https://open.spotify.com/track/7B5EbapjMpLuK7A7PJUvxn) | [Clinton Kane](https://open.spotify.com/artist/7okSU80WTrn4LXlyXYbX3P) | [AVO TOAST](https://open.spotify.com/album/4gH45jls1Zx5TSREuO53x9) | 2:41 | 2022-12-16 | 2023-02-25 |
 | [BABYDOLL](https://open.spotify.com/track/5rPNVwYjVEgkq6YNPki4Zc) | [Ari Abdul](https://open.spotify.com/artist/25jJ6vyXwTRa0e6XCcdR6U) | [BABYDOLL](https://open.spotify.com/album/5lB0QAZik2r9T51pB5gG0u) | 3:16 | 2022-12-02 | 2023-05-13 |

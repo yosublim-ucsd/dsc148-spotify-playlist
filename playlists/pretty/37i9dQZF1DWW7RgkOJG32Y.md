@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW7RgkOJG32Y.md) - [plain]
 
 > Top trending country tracks from the last few months\. Cover: Gavin Adcock
 
-[Spotify](https://open.spotify.com/user/spotify) - 525,147 likes - 50 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 525,543 likes - 50 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Wine Into Whiskey](https://open.spotify.com/track/2DVHIJA2bLas9cGLmHmUsY) | [Tucker Wetmore](https://open.spotify.com/artist/4sCKpwwEsgReZxjtKFm2A0) | [Wine Into Whiskey](https://open.spotify.com/album/62gi4vmy1oTqnUxs0z4Vma) | 2:46 |
 | 2 | [A Cigarette](https://open.spotify.com/track/7kpCMD8iv4RC971CJRPZ3U) | [Gavin Adcock](https://open.spotify.com/artist/5jG6uRqinuI83luutMpW6y) | [A Cigarette](https://open.spotify.com/album/6e4TRkJXdQCdj8x5Oj0v9u) | 2:59 |
-| 3 | [Austin](https://open.spotify.com/track/4NJqhmkGN042BrvHoMKUrJ) | [Dasha](https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I) | [Austin](https://open.spotify.com/album/4JtlZzYJEa7bejLF0ASnk0) | 2:51 |
+| 3 | [Austin](https://open.spotify.com/track/6b81dy3WjbozXK6b7C1gu5) | [Dasha](https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I) | [What Happens Now?](https://open.spotify.com/album/0rQRrrZPPv6XXsxilJ1wFz) | 2:51 |
 | 4 | [TEXAS HOLD 'EM](https://open.spotify.com/track/7cPPeSxJ1VNAzUFH3Ms4Tm) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [TEXAS HOLD 'EM](https://open.spotify.com/album/0uDw0KPDEkrADYz4ouVSv3) | 3:55 |
 | 5 | [Bulletproof](https://open.spotify.com/track/6VpH2prT3NGiK5pnpG2L3J) | [Nate Smith](https://open.spotify.com/artist/4NYMUsIcUUsBHbV9DICa5x) | [Bulletproof](https://open.spotify.com/album/3ooWwlDKWfaVMx9kumptgg) | 3:03 |
 | 6 | [I Remember Everything \(feat\. Kacey Musgraves\)](https://open.spotify.com/track/58pTPJPBjw1xL9OcLcQczU) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2), [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [I Remember Everything \(feat\. Kacey Musgraves\)](https://open.spotify.com/album/6iiQFr91jK794wZRDMSXkp) | 3:47 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW7RgkOJG32Y.md) - [plain]
 | 49 | [Breakin' in Boots](https://open.spotify.com/track/4usnf7irdy9PrVsmb82BXI) | [Matt Stell](https://open.spotify.com/artist/7EekKnlf2HwNaLLpL9Cpgy) | [Breakin' in Boots](https://open.spotify.com/album/1sHuCLfs5sMWVneNgcCoqS) | 2:35 |
 | 50 | [The Painter](https://open.spotify.com/track/6UoKX6uLJwhsnyTp5k5StP) | [Cody Johnson](https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I) | [The Painter](https://open.spotify.com/album/5KxDhlSxJGEOcaTnqKwdYu) | 3:31 |
 
-Snapshot ID: `MCw4ZWU0NDUwMjcyOTEwZDRjNWI1YmVjNDM3YWUyZTA3OTY1YjViYjIw`
+Snapshot ID: `MCw3NmMxNmRiMzI5OTViNWRlYmY2ZmRkM2MwZThkOTlkNGFmOWRhNWNk`

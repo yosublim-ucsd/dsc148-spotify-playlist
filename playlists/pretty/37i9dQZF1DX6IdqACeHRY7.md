@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6IdqACeHRY7.md) - [plain]
 
 > Behagelig musik.
 
-[Spotify](https://open.spotify.com/user/spotify) - 152,776 likes - 114 songs - 6 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 152,780 likes - 114 songs - 6 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,8 +69,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6IdqACeHRY7.md) - [plain]
 | 59 | [Fade](https://open.spotify.com/track/6r2tV58enH9E8hj2oqoJNK) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Divinely Uninspired To A Hellish Extent](https://open.spotify.com/album/5658aM19fA3JVwTK6eQX70) | 4:06 |
 | 60 | [Love Her](https://open.spotify.com/track/2hgk8iKN9UdoM4ILlJ9F5N) | [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [Happiness Begins](https://open.spotify.com/album/1Uf67JAtkVWfdydzFFqNF2) | 3:13 |
 | 61 | [Slow Fade](https://open.spotify.com/track/3wnUCt4sWnK0C0XGQGHKo7) | [Ruth B.](https://open.spotify.com/artist/2WzaAvm2bBCf4pEhyuDgCY) | [Maybe I'll Find You Again](https://open.spotify.com/album/0sndNDx9a9z77Jx8MsULfw) | 3:31 |
-| 62 | [6 months](https://open.spotify.com/track/2LjeUVxf9m9ugARNcTlbHT) | [John K](https://open.spotify.com/artist/73eAAfRkS2Vi4hx68oTJJE) | [love + everything else](https://open.spotify.com/album/1LA3eirJ1NylPXjS1gbiD5) | 3:37 |
-| 63 | [Place We Were Made](https://open.spotify.com/track/7nZF59EvFUshBQfhHev64D) | [Maisie Peters](https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs) | [Place We Were Made](https://open.spotify.com/album/3lAphThw6i1jHzvXVGXJmE) | 3:05 |
+| 62 | [Place We Were Made](https://open.spotify.com/track/7nZF59EvFUshBQfhHev64D) | [Maisie Peters](https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs) | [Place We Were Made](https://open.spotify.com/album/3lAphThw6i1jHzvXVGXJmE) | 3:05 |
+| 63 | [6 months](https://open.spotify.com/track/2LjeUVxf9m9ugARNcTlbHT) | [John K](https://open.spotify.com/artist/73eAAfRkS2Vi4hx68oTJJE) | [love + everything else](https://open.spotify.com/album/1LA3eirJ1NylPXjS1gbiD5) | 3:37 |
 | 64 | [Warwick Avenue](https://open.spotify.com/track/2IMIbiJlbi0pIs3FBpKFhS) | [Duffy](https://open.spotify.com/artist/37NqXwtb6nIEqRt4EJSoIO) | [Rockferry](https://open.spotify.com/album/6freV6eqxuFjSr3E93Oqtz) | 3:46 |
 | 65 | [golden thing](https://open.spotify.com/track/5y2TuOFgwlpztHlqENHQOE) | [Cody Simpson](https://open.spotify.com/artist/79Xp2rRN7wdsaTJgttdX3K) | [golden thing](https://open.spotify.com/album/33MiMpGm7MU2UBggBqBIUz) | 3:39 |
 | 66 | [Fired Up](https://open.spotify.com/track/7gxW8RQnNQHAFi6aBVMCBL) | [Grace Carter](https://open.spotify.com/artist/2LuHL7im4aCEmfOlD4rxBC) | [Fired Up](https://open.spotify.com/album/5dIhYtKB5Q8FbsvfehueGP) | 3:21 |
@@ -79,13 +79,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6IdqACeHRY7.md) - [plain]
 | 69 | [Where the Heart Is](https://open.spotify.com/track/2cUQTQkvnpObuwX8VJEq9w) | [HAEVN](https://open.spotify.com/artist/65Tmt9uAPTYGl1ZhsOeEJ6) | [Eyes Closed](https://open.spotify.com/album/75oiBuTpJDC9XGUWwpSSbi) | 3:53 |
 | 70 | [Better Luck Next Time](https://open.spotify.com/track/7vejWqYK7NFsxbxQsAjTrC) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [Better Luck Next Time](https://open.spotify.com/album/7LmEKG3k6DaJXsKa89qBo6) | 2:52 |
 | 71 | [The Vow](https://open.spotify.com/track/299wMARBINf3S5Fo7WhsZ8) | [RuthAnne](https://open.spotify.com/artist/31rVRoX5ZG9ZyRbHvlEwjA) | [Matters of the Heart](https://open.spotify.com/album/3one8FvyVPWhjIwdFuS0kw) | 2:55 |
-| 72 | [Wild Enough](https://open.spotify.com/track/6oynBOei3VDaRYmBghTCOO) | [Elina](https://open.spotify.com/artist/4K9OTkRXEFL6NDXFTqVmq9) | [Wild Enough](https://open.spotify.com/album/4LZHURlrVLu6R45KooQYW4) | 3:06 |
-| 73 | [Runaway](https://open.spotify.com/track/7oHijHxh7cI40fNC4S619V) | [Sasha Alex Sloan](https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5) | [Runaway](https://open.spotify.com/album/4iioyYjn5y3TYGTdl7qdL5) | 3:38 |
+| 72 | [Runaway](https://open.spotify.com/track/7oHijHxh7cI40fNC4S619V) | [Sasha Alex Sloan](https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5) | [Runaway](https://open.spotify.com/album/4iioyYjn5y3TYGTdl7qdL5) | 3:38 |
+| 73 | [Wild Enough](https://open.spotify.com/track/6oynBOei3VDaRYmBghTCOO) | [Elina](https://open.spotify.com/artist/4K9OTkRXEFL6NDXFTqVmq9) | [Wild Enough](https://open.spotify.com/album/4LZHURlrVLu6R45KooQYW4) | 3:06 |
 | 74 | [Change \(feat\. James Taylor\)](https://open.spotify.com/track/17RMnDmv5CEo3s0tmipRyb) | [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7), [James Taylor](https://open.spotify.com/artist/0vn7UBvSQECKJm2817Yf1P) | [Voicenotes](https://open.spotify.com/album/0mZIUXje90JtHxPNzWsJNR) | 3:37 |
 | 75 | [Rhythm Inside \- Acoustic](https://open.spotify.com/track/7vO3KTA1YPgw6eb3NITrO3) | [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [Rhythm Inside \(Acoustic\)](https://open.spotify.com/album/3inDY0cd6WvOfZ59DGn3rx) | 3:32 |
 | 76 | [Get Here \- Recorded At RAK Studios, London](https://open.spotify.com/track/6hPlYSx7wsnDE48NypYeuT) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [Spotify Singles](https://open.spotify.com/album/0SRFjDXW0BUtk5yChaT7xn) | 2:49 |
-| 77 | [Things You Can't Change](https://open.spotify.com/track/4PBz2XQqKs9KICMO69iaiH) | [Rhys Lewis](https://open.spotify.com/artist/4T2k9bgIoC8bbqjqiEl9vZ) | [In Between Minds](https://open.spotify.com/album/5tsh7OJm1nTJeWpkbTA0sC) | 3:19 |
-| 78 | [Rose](https://open.spotify.com/track/5UDkdxN87TOPiL7cTNkh7l) | [Hans Philip](https://open.spotify.com/artist/6idjJt47PjFydVRrAlNw4C) | [\[β\]](https://open.spotify.com/album/6z0zPy2FVo3zhpcFoVwuWF) | 4:13 |
+| 77 | [Rose](https://open.spotify.com/track/5UDkdxN87TOPiL7cTNkh7l) | [Hans Philip](https://open.spotify.com/artist/6idjJt47PjFydVRrAlNw4C) | [\[β\]](https://open.spotify.com/album/6z0zPy2FVo3zhpcFoVwuWF) | 4:13 |
+| 78 | [Things You Can't Change](https://open.spotify.com/track/4PBz2XQqKs9KICMO69iaiH) | [Rhys Lewis](https://open.spotify.com/artist/4T2k9bgIoC8bbqjqiEl9vZ) | [In Between Minds](https://open.spotify.com/album/5tsh7OJm1nTJeWpkbTA0sC) | 3:19 |
 | 79 | [Back in the Water](https://open.spotify.com/track/1EpMvEVHU883c7m6PzcsAj) | [HAEVN](https://open.spotify.com/artist/65Tmt9uAPTYGl1ZhsOeEJ6) | [Eyes Closed](https://open.spotify.com/album/75oiBuTpJDC9XGUWwpSSbi) | 3:10 |
 | 80 | [Worst In Me](https://open.spotify.com/track/1FY8gDAydm8CfGYp7Lv9ce) | [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [Nervous System](https://open.spotify.com/album/1qyjZGIeeLJlXbYWuoloWj) | 3:22 |
 | 81 | [Wait](https://open.spotify.com/track/3hqJFkxeobh6Y9mOL37NLx) | [JP Cooper](https://open.spotify.com/artist/4kYGAK2zu9EAomwj3hXkXy) | [Raised Under Grey Skies \(Deluxe\)](https://open.spotify.com/album/3cS0qzNDjE5SjdAL1W98fo) | 3:51 |
@@ -123,4 +123,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6IdqACeHRY7.md) - [plain]
 | 113 | [What Happened to Perfect](https://open.spotify.com/track/67DNRQWjRLMFvekBRprYtW) | [Lukas Graham](https://open.spotify.com/artist/25u4wHJWxCA9vO0CzxAbK7) | [Lukas Graham](https://open.spotify.com/album/4rFrdkSWs0dtj0rWPzOk1v) | 3:56 |
 | 114 | [Wildfire \- Alternate Version](https://open.spotify.com/track/6rFdOZ5hKcyU4Zm74hokYs) | [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0) | [In My Body](https://open.spotify.com/album/3j4PehkkrV1KOF5ZvDtCxY) | 3:53 |
 
-Snapshot ID: `MCwzNjBjODM1MjIyYzBjNzhmNzk0ODJlNGNlNWY0MmI0NGExYTIwMzRi`
+Snapshot ID: `MCw0YjQ5NjcxZDczOTNiY2QxMzU5MTU1ZjE5OGM1YTBmNmI0YzZiMWFl`

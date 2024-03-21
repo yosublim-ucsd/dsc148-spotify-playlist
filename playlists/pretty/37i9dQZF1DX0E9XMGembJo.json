@@ -1,12 +1,12 @@
 {
   "description": "your daily dose of dopamine ",
-  "num_followers": 1131422,
+  "num_followers": 1131849,
   "original_name": "DOPAMINE",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiODdkNzczYmFkY2M1OTQ3YjNmMzRkOGMyZjBhY2U2ZTQyMDU5NTk1",
+  "snapshot_id": "MCxkZDM1NWM2ZmVhZjQ1ZmVmZDkwZmZhOTFlYzA5MGZhMGU1ODNiYzc4",
   "tracks": [
     {
       "added_at": "2024-03-08 05:01:00",
@@ -123,22 +123,18 @@
     {
       "added_at": "2024-03-08 05:01:00",
       "album": {
-        "name": "Calm Down (with Selena Gomez)",
-        "url": "https://open.spotify.com/album/2b2GHWESCWEuHiCZ2Skedp"
+        "name": "The Days / Nights",
+        "url": "https://open.spotify.com/album/0h2knr6qpiAq0tV5ri5JMF"
       },
       "artists": [
         {
-          "name": "Rema",
-          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
-        },
-        {
-          "name": "Selena Gomez",
-          "url": "https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx"
+          "name": "Avicii",
+          "url": "https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6"
         }
       ],
-      "duration_ms": 239317,
-      "name": "Calm Down (with Selena Gomez)",
-      "url": "https://open.spotify.com/track/0WtM2NBVQNNJLh6scP13H8"
+      "duration_ms": 176658,
+      "name": "The Nights",
+      "url": "https://open.spotify.com/track/0ct6r3EGTcMLPtrXHDvVjc"
     },
     {
       "added_at": "2024-03-08 05:01:00",
@@ -175,18 +171,22 @@
     {
       "added_at": "2024-03-08 05:01:00",
       "album": {
-        "name": "The Days / Nights",
-        "url": "https://open.spotify.com/album/0h2knr6qpiAq0tV5ri5JMF"
+        "name": "Calm Down (with Selena Gomez)",
+        "url": "https://open.spotify.com/album/2b2GHWESCWEuHiCZ2Skedp"
       },
       "artists": [
         {
-          "name": "Avicii",
-          "url": "https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6"
+          "name": "Rema",
+          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
+        },
+        {
+          "name": "Selena Gomez",
+          "url": "https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx"
         }
       ],
-      "duration_ms": 176658,
-      "name": "The Nights",
-      "url": "https://open.spotify.com/track/0ct6r3EGTcMLPtrXHDvVjc"
+      "duration_ms": 239317,
+      "name": "Calm Down (with Selena Gomez)",
+      "url": "https://open.spotify.com/track/0WtM2NBVQNNJLh6scP13H8"
     },
     {
       "added_at": "2024-03-08 05:01:00",
@@ -459,22 +459,6 @@
     {
       "added_at": "2024-03-08 05:01:00",
       "album": {
-        "name": "Sin Miedo (del Amor y Otros Demonios) \u221e",
-        "url": "https://open.spotify.com/album/00wSTrFxoSzA7eeS1UxHgd"
-      },
-      "artists": [
-        {
-          "name": "Kali Uchis",
-          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
-        }
-      ],
-      "duration_ms": 160191,
-      "name": "telepat\u00eda",
-      "url": "https://open.spotify.com/track/6tDDoYIxWvMLTdKpjFkc1B"
-    },
-    {
-      "added_at": "2024-03-08 05:01:00",
-      "album": {
         "name": "Motion",
         "url": "https://open.spotify.com/album/48zisMeiXniWLzOQghbPqS"
       },
@@ -487,6 +471,22 @@
       "duration_ms": 222533,
       "name": "Summer",
       "url": "https://open.spotify.com/track/6YUTL4dYpB9xZO5qExPf05"
+    },
+    {
+      "added_at": "2024-03-08 05:01:00",
+      "album": {
+        "name": "Sin Miedo (del Amor y Otros Demonios) \u221e",
+        "url": "https://open.spotify.com/album/00wSTrFxoSzA7eeS1UxHgd"
+      },
+      "artists": [
+        {
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+        }
+      ],
+      "duration_ms": 160191,
+      "name": "telepat\u00eda",
+      "url": "https://open.spotify.com/track/6tDDoYIxWvMLTdKpjFkc1B"
     },
     {
       "added_at": "2024-03-08 05:01:00",
@@ -1131,22 +1131,6 @@
     {
       "added_at": "2024-03-08 05:01:00",
       "album": {
-        "name": "Picture Show",
-        "url": "https://open.spotify.com/album/0uRFz92JmjwDbZbB7hEBIr"
-      },
-      "artists": [
-        {
-          "name": "Neon Trees",
-          "url": "https://open.spotify.com/artist/0RpddSzUHfncUWNJXKOsjy"
-        }
-      ],
-      "duration_ms": 177280,
-      "name": "Everybody Talks",
-      "url": "https://open.spotify.com/track/2iUmqdfGZcHIhS3b9E9EWq"
-    },
-    {
-      "added_at": "2024-03-08 05:01:00",
-      "album": {
         "name": "Lady Lady",
         "url": "https://open.spotify.com/album/2wqG59dVVQlJaxoO7N0LJt"
       },
@@ -1163,6 +1147,22 @@
       "duration_ms": 301893,
       "name": "Tadow",
       "url": "https://open.spotify.com/track/51rPRW8NjxZoWPPjnRGzHw"
+    },
+    {
+      "added_at": "2024-03-08 05:01:00",
+      "album": {
+        "name": "Picture Show",
+        "url": "https://open.spotify.com/album/0uRFz92JmjwDbZbB7hEBIr"
+      },
+      "artists": [
+        {
+          "name": "Neon Trees",
+          "url": "https://open.spotify.com/artist/0RpddSzUHfncUWNJXKOsjy"
+        }
+      ],
+      "duration_ms": 177280,
+      "name": "Everybody Talks",
+      "url": "https://open.spotify.com/track/2iUmqdfGZcHIhS3b9E9EWq"
     },
     {
       "added_at": "2024-03-08 05:01:00",

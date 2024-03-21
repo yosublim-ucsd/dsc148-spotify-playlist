@@ -4,7 +4,7 @@
 
 > Las grandes del Despecho y el Género Popular\. Foto: Los Dos Carnales & Yeison Jiménez
 
-213 songs - 10 hr 56 min
+214 songs - 10 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,6 +45,7 @@
 | [Como una Pelota](https://open.spotify.com/track/5iJBBQOi25f86NEurPAszB) | [Espinoza Paz](https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y), [Jhonny Rivera](https://open.spotify.com/artist/5TDSNRe3rVLJhxjIhxfcUx) | [Como una Pelota](https://open.spotify.com/album/306ib7yX5JegvImZ8VMrSF) | 2:55 | 2022-09-16 | 2023-11-25 |
 | [Como una Pelota \(feat\. Espinoza Paz\)](https://open.spotify.com/track/4wVmbrxbSos5XFSkxJgStl) | [Jhonny Rivera](https://open.spotify.com/artist/5TDSNRe3rVLJhxjIhxfcUx), [Espinoza Paz](https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y) | [Como una Pelota \(feat\. Espinoza Paz\)](https://open.spotify.com/album/3MIYSFtANScbsIejPwRZuP) | 2:55 | 2022-08-12 | 2022-10-03 |
 | [Consejos Gratis](https://open.spotify.com/track/2xTLTU2K901snq53FLWZKE) | [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [Consejos Gratis](https://open.spotify.com/album/10e10cYupx3U37Efv5691A) | 2:22 | 2023-04-28 | 2023-06-03 |
+| [Contentoso](https://open.spotify.com/track/2Pm3YD2PlePljgdzgBRr1h) | [Luis Alfonso](https://open.spotify.com/artist/0GchaVw5KfSVEm0xl0OXEe) | [Contentoso](https://open.spotify.com/album/2F96HODzvQI22dMNKLiEG6) | 2:49 | 2024-03-20 |  |
 | [Copita de Licor](https://open.spotify.com/track/6sBvUFDc0MmcAr4VFfp838) | [Alzate](https://open.spotify.com/artist/682qzOnGxexrwH41Cy51Hu) | [Maldita Traicion](https://open.spotify.com/album/5xYcQs87dQWn1hNYn0dc7h) | 3:47 | 2022-08-12 |  |
 | [Corazón Maleante](https://open.spotify.com/track/5RY2D7x6vmREBPQa3uq0sd) | [Andy Rivera](https://open.spotify.com/artist/7hIqJfRYGBWWT1Qxu6Cpd2) | [Corazón Maleante](https://open.spotify.com/album/6f0gQlCUlMQqPOdlWfOwqS) | 2:27 | 2023-03-03 | 2023-06-24 |
 | [Corro A Tus Brazos](https://open.spotify.com/track/77jXK0SAJO3QlJUPeVqJ3K) | [Alex Campos](https://open.spotify.com/artist/6slyJwua5e5GuhuP82sTHR), [Yeison Jimenez](https://open.spotify.com/artist/3SEztK9fNxg81qZ8qETGNT) | [Corro A Tus Brazos](https://open.spotify.com/album/31MyEJ9tC42clCwri2yMQG) | 3:44 | 2023-09-08 | 2023-10-19 |
@@ -126,7 +127,7 @@
 | [Mi Adicción](https://open.spotify.com/track/29hIEYdUegee9SPp9mWRyg) | [Jhon Alex Castaño](https://open.spotify.com/artist/5pbzj8JGUpUCMHESd1yHFv) | [Mi Adicción](https://open.spotify.com/album/307DczXlOZ7O1u5xFm256I) | 2:16 | 2024-03-08 |  |
 | [Mi Decisión \- Remix](https://open.spotify.com/track/1l8VIDA3SN6UyfSAnr2ytZ) | [Jhonny Rivera](https://open.spotify.com/artist/5TDSNRe3rVLJhxjIhxfcUx), [Sebastián Ayala](https://open.spotify.com/artist/2lMpNav4JbeQ3XuPp6yNPv), [Andy Rivera](https://open.spotify.com/artist/7hIqJfRYGBWWT1Qxu6Cpd2) | [Mi Decisión \(Remix\)](https://open.spotify.com/album/1JlFSRosgIw9PiLtEtxBZS) | 3:20 | 2022-08-12 |  |
 | [Mi Venganza](https://open.spotify.com/track/4MAGNMEAi6yUpC5w58eHLN) | [Alzate](https://open.spotify.com/artist/682qzOnGxexrwH41Cy51Hu), [Yeison Jimenez](https://open.spotify.com/artist/3SEztK9fNxg81qZ8qETGNT) | [Mi Venganza](https://open.spotify.com/album/0GfKEcyPtvzo7hNNJFCAfZ) | 3:11 | 2022-08-12 |  |
-| [Mi Versión](https://open.spotify.com/track/7BkUWGC6AACZxHzTul75SH) | [Joaquin Guiller](https://open.spotify.com/artist/2AHbxv3jnfIDz6BmPn979c) | [Mi Versión](https://open.spotify.com/album/3iile2EGSgnKX5sWiMKRUj) | 3:08 | 2024-03-08 |  |
+| [Mi Versión](https://open.spotify.com/track/7BkUWGC6AACZxHzTul75SH) | [Joaquin Guiller](https://open.spotify.com/artist/2AHbxv3jnfIDz6BmPn979c) | [Mi Versión](https://open.spotify.com/album/3iile2EGSgnKX5sWiMKRUj) | 3:08 | 2024-03-08 | 2024-03-21 |
 | [Mis Borracheras](https://open.spotify.com/track/3V9ZEYBGRNiogfBzY5kffn) | [Alzate](https://open.spotify.com/artist/682qzOnGxexrwH41Cy51Hu) | [Mis Borracheras](https://open.spotify.com/album/7gq0O9v34SWXIzggHHOZli) | 2:47 | 2022-08-12 |  |
 | [Mis Borracheras](https://open.spotify.com/track/5NSljTmp3TVnCxXw7Ru43B) | [Alzate](https://open.spotify.com/artist/682qzOnGxexrwH41Cy51Hu) | [YT Rocket Hits](https://open.spotify.com/album/5AHZY3HQTNVPpKYbRwj7gO) | 2:47 | 2022-11-04 | 2022-11-14 |
 | [MLP](https://open.spotify.com/track/0crUc5ee412RCaQH6ePBWt) | [Yeison Jimenez](https://open.spotify.com/artist/3SEztK9fNxg81qZ8qETGNT) | [MLP](https://open.spotify.com/album/1yD5svvZbyAeJ5RlrEpqGA) | 2:28 | 2024-01-26 |  |

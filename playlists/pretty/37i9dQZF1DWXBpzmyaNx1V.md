@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXBpzmyaNx1V.md) - [plain]
 
 > ¡Nos vemos del 6 al 10 de Marzo! Cinco días de música en recintos icónicos de la CDMX\. Compra tus boletos <a href="https://lnk.bio/pitchforkcdmx"> aquí</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,589 likes - 65 songs - 4 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,576 likes - 65 songs - 4 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXBpzmyaNx1V.md) - [plain]
 | 24 | [let u in](https://open.spotify.com/track/4baqpGz3NRtHZ8ye1T6Dhl) | [DEBBY FRIDAY](https://open.spotify.com/artist/5lofelrRCFBwzTF616hSx4) | [let u in](https://open.spotify.com/album/1KFa59MlWSYXHJnvtdQr5a) | 2:55 |
 | 25 | [Soundcheck](https://open.spotify.com/track/2l4VRzLQkfjdo4CGL9sh2V) | [billy woods](https://open.spotify.com/artist/39vtb2iiz3079nqfL5nfFc), [Kenny Segal](https://open.spotify.com/artist/13vr2QqzoWOWDyaAZDuEGO), [Quelle Chris](https://open.spotify.com/artist/2SlUrJAcTYbWR8GcmB9IEi) | [Maps](https://open.spotify.com/album/3VoX4iyvy7et6Qt47e2XwS) | 2:56 |
 | 26 | [Living Room](https://open.spotify.com/track/5XCyxMLMuakvS94W6iqLBw) | [Andy Shauf](https://open.spotify.com/artist/5mFKYdmiYwNJTDtSzgFyQx) | [The Neon Skyline](https://open.spotify.com/album/41M6R2mWLgqU9aKFUvZv8S) | 3:05 |
-| 27 | [Take Me Apart](https://open.spotify.com/track/1Oq9PmXtk8PVjbHzrwM79v) | [Kelela](https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60) | [Take Me Apart](https://open.spotify.com/album/4mQ6UTM71F02O1jMVi625N) | 4:02 |
-| 28 | [Bites on My Neck](https://open.spotify.com/track/3c8QXE2NQBVrtMSTXAofor) | [yeule](https://open.spotify.com/artist/1WZarnZpWEv7dDtjAETt4X) | [Glitch Princess](https://open.spotify.com/album/6jBRjtrgSlOvQvrSdtQa8Q) | 4:48 |
+| 27 | [Bites on My Neck](https://open.spotify.com/track/3c8QXE2NQBVrtMSTXAofor) | [yeule](https://open.spotify.com/artist/1WZarnZpWEv7dDtjAETt4X) | [Glitch Princess](https://open.spotify.com/album/6jBRjtrgSlOvQvrSdtQa8Q) | 4:48 |
+| 28 | [Take Me Apart](https://open.spotify.com/track/1Oq9PmXtk8PVjbHzrwM79v) | [Kelela](https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60) | [Take Me Apart](https://open.spotify.com/album/4mQ6UTM71F02O1jMVi625N) | 4:02 |
 | 29 | [Sol](https://open.spotify.com/track/2ep4KuxvHiQUXUZpmMzczS) | [Noa Sainz](https://open.spotify.com/artist/3kN2uYBnEM2IqRxa69sxkr) | [Sol](https://open.spotify.com/album/5shelU7wuKNdL7PUvNbqiF) | 3:08 |
 | 30 | [Anthem for No State, Pt\. II](https://open.spotify.com/track/60CD8gYJbH3VbsVWKA2jXB) | [Godspeed You! Black Emperor](https://open.spotify.com/artist/4svpOyfmQKuWpHLjgy4cdK) | [Luciferian Towers](https://open.spotify.com/album/6NeicP84ZRNL2yMlWS6XzH) | 2:55 |
 | 31 | [Make Way](https://open.spotify.com/track/48Yot7kQ20olfnkT3TZKqv) | [Protomartyr](https://open.spotify.com/artist/2YFBqMMiIIL4XyiEwqySUQ) | [Formal Growth In The Desert](https://open.spotify.com/album/4zvDpKZOVNq4m6OfsM6hbB) | 2:57 |
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXBpzmyaNx1V.md) - [plain]
 | 64 | [reveal yourself](https://open.spotify.com/track/0YjRE5ut3J4exRx40kLtg6) | [NOIA](https://open.spotify.com/artist/7ME5Ue2P7g1BP11FRWr7LA) | [gisela](https://open.spotify.com/album/2bAuw1nc2csrMfpTFeatCR) | 3:10 |
 | 65 | [Pantitlán](https://open.spotify.com/track/0d0HTxy6Exc4mzaDjdj8mh) | [Mengers](https://open.spotify.com/artist/2VbAt1al6lMiIM04IFZ90n) | [GOLLY](https://open.spotify.com/album/06QqjEJoq3YWDdG0FJXKU3) | 5:25 |
 
-Snapshot ID: `MCw3MDZhMTU3NGEwZTkyNTRmZjZiYTM5NzBiODMwMTE5ZjlkZTVjNGJh`
+Snapshot ID: `MCwyNjI0OTAyOWU4OWI1MTg4MTA0MmE4MDkxZmZlNmUzNzk3NjQwZGFi`

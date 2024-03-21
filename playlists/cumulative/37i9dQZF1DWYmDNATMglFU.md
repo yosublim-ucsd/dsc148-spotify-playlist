@@ -4,7 +4,7 @@
 
 > it's a generation ⛓ ft\. Twenty One Pilots
 
-745 songs - 1 day 13 hr 16 min
+746 songs - 1 day 13 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,8 +36,9 @@
 | [AFTER THERAPY \(feat\. Hot Mulligan\)](https://open.spotify.com/track/5xLv5i7u2e4uT3Ewgvkr8Z) | [NOAHFINNCE](https://open.spotify.com/artist/6y7T3BaNMGAYgRbATEq4cM), [Hot Mulligan](https://open.spotify.com/artist/1lKZzN2d4IqiEYxyECIEHI), [Extra Large Holiday Card](https://open.spotify.com/artist/2jfvYlfqx5eA71jqycOYUe) | [AFTER THERAPY \(feat\. Hot Mulligan\)](https://open.spotify.com/album/69miU2ZUNDbOpyqUziOHFS) | 2:21 | 2022-03-25 | 2022-05-13 |
 | [AHHHH!](https://open.spotify.com/track/6Pfma5baS7P2EIjn3Htj9q) | [Teen Jesus and the Jean Teasers](https://open.spotify.com/artist/3KrgUUwoRQ6OQp4IOmqnSF) | [AHHHH!](https://open.spotify.com/album/3c58AoCgrcGD0kF2PAxo1F) | 2:24 | 2022-01-07 | 2022-03-25 |
 | [AI \(Save Yourself\)](https://open.spotify.com/track/2MrnJVZSGAzz1IobfPEwHv) | [Kid Bookie](https://open.spotify.com/artist/7DiLiJ8nji6DslsFSzx0IV) | [AI \(Save Yourself\)](https://open.spotify.com/album/2PcWCQtSCQea2SDQbJmuqO) | 3:08 | 2023-11-24 |  |
-| [Airhead](https://open.spotify.com/track/3Gsn1htwAx5KGY8SRjtIfs) | [Honey Revenge](https://open.spotify.com/artist/1DHMgO3IIYSYPJ6CFyDYnK) | [Retrovision](https://open.spotify.com/album/4IiWkF0yCGFHGudJ98hV7f) | 2:43 | 2023-09-28 |  |
+| [Airhead](https://open.spotify.com/track/3Gsn1htwAx5KGY8SRjtIfs) | [Honey Revenge](https://open.spotify.com/artist/1DHMgO3IIYSYPJ6CFyDYnK) | [Retrovision](https://open.spotify.com/album/4IiWkF0yCGFHGudJ98hV7f) | 2:43 | 2023-09-28 | 2024-03-21 |
 | [Airhead](https://open.spotify.com/track/5inDa524Pc1x4NJmyrZ5pp) | [Honey Revenge](https://open.spotify.com/artist/1DHMgO3IIYSYPJ6CFyDYnK) | [Airhead](https://open.spotify.com/album/3FIv6ePul9uNwJ8Qs6iY45) | 2:43 | 2023-03-24 | 2023-10-05 |
+| [Airhead](https://open.spotify.com/track/7juaMHv1j8EAmEVEAlo1iT) | [Honey Revenge](https://open.spotify.com/artist/1DHMgO3IIYSYPJ6CFyDYnK) | [Retrovision](https://open.spotify.com/album/1BOoOLLNUPLQNTuObi2PRh) | 2:43 | 2024-03-15 |  |
 | [Alameda County Fair](https://open.spotify.com/track/4TH0Qoe9V6gtXMvr75SwKt) | [Mom Jeans.](https://open.spotify.com/artist/6PsktPFR0UZptKdSqmlS5h) | [Alameda County Fair](https://open.spotify.com/album/5w40aVPbA9bt9gQ4uYGh0P) | 2:27 | 2023-06-29 | 2023-08-04 |
 | [ALEXITHYMIA](https://open.spotify.com/track/5JCMJlSM7i2C39lSxu1HFe) | [NOAHFINNCE](https://open.spotify.com/artist/6y7T3BaNMGAYgRbATEq4cM) | [GROWING UP ON THE INTERNET](https://open.spotify.com/album/6aFJQtL04OsqLPKVzGjqC8) | 3:15 | 2024-03-09 |  |
 | [All I Want](https://open.spotify.com/track/4JsDHMv5PVO8N07DbDq33r) | [A Day To Remember](https://open.spotify.com/artist/4NiJW4q9ichVqL1aUsgGAN) | [What Separates Me From You](https://open.spotify.com/album/6I2SUr0MolRUiDEcZAbSWm) | 3:22 | 2021-12-31 | 2022-11-01 |

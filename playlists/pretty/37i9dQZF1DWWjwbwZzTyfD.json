@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmMTlhOTYzOWVmN2YzNTM4YThkMDFlYjg5M2E5ODg3NjAwOGQ2MzM4",
+  "snapshot_id": "MCwyM2YyNzcwZGE4NWE4ODE4MGI1YzBkNDc5ZGQ1M2ZhYWNmYzcyNDI4",
   "tracks": [
     {
       "added_at": "2023-06-27 06:48:40",
@@ -331,18 +331,18 @@
     {
       "added_at": "2023-06-27 06:48:40",
       "album": {
-        "name": "Doja",
-        "url": "https://open.spotify.com/album/6oECjagksATHu2UaclXrq1"
+        "name": "T R A P S O U L",
+        "url": "https://open.spotify.com/album/6eZdwrhB97A3EYx9QppGfl"
       },
       "artists": [
         {
-          "name": "Central Cee",
-          "url": "https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r"
+          "name": "Bryson Tiller",
+          "url": "https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs"
         }
       ],
-      "duration_ms": 97392,
-      "name": "Doja",
-      "url": "https://open.spotify.com/track/3LtpKP5abr2qqjunvjlX5i"
+      "duration_ms": 194613,
+      "name": "Exchange",
+      "url": "https://open.spotify.com/track/43PuMrRfbyyuz4QpZ3oAwN"
     },
     {
       "added_at": "2023-06-27 06:48:40",
@@ -371,18 +371,18 @@
     {
       "added_at": "2023-06-27 06:48:40",
       "album": {
-        "name": "T R A P S O U L",
-        "url": "https://open.spotify.com/album/6eZdwrhB97A3EYx9QppGfl"
+        "name": "Doja",
+        "url": "https://open.spotify.com/album/6oECjagksATHu2UaclXrq1"
       },
       "artists": [
         {
-          "name": "Bryson Tiller",
-          "url": "https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs"
+          "name": "Central Cee",
+          "url": "https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r"
         }
       ],
-      "duration_ms": 194613,
-      "name": "Exchange",
-      "url": "https://open.spotify.com/track/43PuMrRfbyyuz4QpZ3oAwN"
+      "duration_ms": 97392,
+      "name": "Doja",
+      "url": "https://open.spotify.com/track/3LtpKP5abr2qqjunvjlX5i"
     },
     {
       "added_at": "2023-06-27 06:48:40",
@@ -703,22 +703,6 @@
     {
       "added_at": "2023-06-27 06:48:40",
       "album": {
-        "name": "Artist",
-        "url": "https://open.spotify.com/album/2OQEAqShAl6SodrGhmYZ4Z"
-      },
-      "artists": [
-        {
-          "name": "A Boogie Wit da Hoodie",
-          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
-        }
-      ],
-      "duration_ms": 128156,
-      "name": "My Shit",
-      "url": "https://open.spotify.com/track/5uQOauh47VFt3B2kV9kRXw"
-    },
-    {
-      "added_at": "2023-06-27 06:48:40",
-      "album": {
         "name": "The Off-Season",
         "url": "https://open.spotify.com/album/4JAvwK4APPArjIsOdGoJXX"
       },
@@ -739,6 +723,22 @@
       "duration_ms": 218801,
       "name": "m y . l i f e (with 21 Savage & Morray)",
       "url": "https://open.spotify.com/track/1D3z6HTiQsNmZxjl7F7eoG"
+    },
+    {
+      "added_at": "2023-06-27 06:48:40",
+      "album": {
+        "name": "Artist",
+        "url": "https://open.spotify.com/album/2OQEAqShAl6SodrGhmYZ4Z"
+      },
+      "artists": [
+        {
+          "name": "A Boogie Wit da Hoodie",
+          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
+        }
+      ],
+      "duration_ms": 128156,
+      "name": "My Shit",
+      "url": "https://open.spotify.com/track/5uQOauh47VFt3B2kV9kRXw"
     },
     {
       "added_at": "2023-06-27 06:48:40",
@@ -859,22 +859,6 @@
     {
       "added_at": "2023-06-27 06:48:40",
       "album": {
-        "name": "Hoodie SZN",
-        "url": "https://open.spotify.com/album/3r5hf3Cj3EMh1C2saQ8jyt"
-      },
-      "artists": [
-        {
-          "name": "A Boogie Wit da Hoodie",
-          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
-        }
-      ],
-      "duration_ms": 179449,
-      "name": "Look Back at It",
-      "url": "https://open.spotify.com/track/3Ol2xnObFdKV9pmRD2t9x8"
-    },
-    {
-      "added_at": "2023-06-27 06:48:40",
-      "album": {
         "name": "2014 Forest Hills Drive",
         "url": "https://open.spotify.com/album/0UMMIkurRUmkruZ3KGBLtG"
       },
@@ -887,6 +871,22 @@
       "duration_ms": 211496,
       "name": "Love Yourz",
       "url": "https://open.spotify.com/track/2e3Ea0o24lReQFR4FA7yXH"
+    },
+    {
+      "added_at": "2023-06-27 06:48:40",
+      "album": {
+        "name": "Hoodie SZN",
+        "url": "https://open.spotify.com/album/3r5hf3Cj3EMh1C2saQ8jyt"
+      },
+      "artists": [
+        {
+          "name": "A Boogie Wit da Hoodie",
+          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
+        }
+      ],
+      "duration_ms": 179449,
+      "name": "Look Back at It",
+      "url": "https://open.spotify.com/track/3Ol2xnObFdKV9pmRD2t9x8"
     },
     {
       "added_at": "2023-06-27 06:48:40",
@@ -935,22 +935,6 @@
       "duration_ms": 148629,
       "name": "Make No Sense",
       "url": "https://open.spotify.com/track/6klLvorLoo1sxvZcjJIY8I"
-    },
-    {
-      "added_at": "2023-06-27 06:48:40",
-      "album": {
-        "name": "Artist 2.0 (Deluxe)",
-        "url": "https://open.spotify.com/album/4v0IxMbMN975IfxFHzgK9d"
-      },
-      "artists": [
-        {
-          "name": "A Boogie Wit da Hoodie",
-          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
-        }
-      ],
-      "duration_ms": 133331,
-      "name": "Secrets",
-      "url": "https://open.spotify.com/track/2xB46Bj9HZ4cr058yN4Pla"
     },
     {
       "added_at": "2023-06-27 06:48:40",
@@ -1019,22 +1003,6 @@
     {
       "added_at": "2023-06-27 06:48:40",
       "album": {
-        "name": "Die Lit",
-        "url": "https://open.spotify.com/album/7dAm8ShwJLFm9SaJ6Yc58O"
-      },
-      "artists": [
-        {
-          "name": "Playboi Carti",
-          "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
-        }
-      ],
-      "duration_ms": 211773,
-      "name": "Long Time - Intro",
-      "url": "https://open.spotify.com/track/4IO2X2YoXoUMv0M2rwomLC"
-    },
-    {
-      "added_at": "2023-06-27 06:48:40",
-      "album": {
         "name": "Just Cause Y'all Waited 2",
         "url": "https://open.spotify.com/album/3D4bwVn4Wp8Za0Amkyd5I5"
       },
@@ -1057,6 +1025,38 @@
       "url": "https://open.spotify.com/track/6Tguhaf2uAe6OjRLsR2Tql"
     },
     {
+      "added_at": "2023-06-27 06:48:40",
+      "album": {
+        "name": "Artist 2.0 (Deluxe)",
+        "url": "https://open.spotify.com/album/4v0IxMbMN975IfxFHzgK9d"
+      },
+      "artists": [
+        {
+          "name": "A Boogie Wit da Hoodie",
+          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
+        }
+      ],
+      "duration_ms": 133331,
+      "name": "Secrets",
+      "url": "https://open.spotify.com/track/2xB46Bj9HZ4cr058yN4Pla"
+    },
+    {
+      "added_at": "2023-06-27 06:48:40",
+      "album": {
+        "name": "Die Lit",
+        "url": "https://open.spotify.com/album/7dAm8ShwJLFm9SaJ6Yc58O"
+      },
+      "artists": [
+        {
+          "name": "Playboi Carti",
+          "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
+        }
+      ],
+      "duration_ms": 211773,
+      "name": "Long Time - Intro",
+      "url": "https://open.spotify.com/track/4IO2X2YoXoUMv0M2rwomLC"
+    },
+    {
       "added_at": "2023-07-10 21:55:04",
       "album": {
         "name": "BUSINESS IS BUSINESS",
@@ -1075,22 +1075,6 @@
       "duration_ms": 185333,
       "name": "Oh U Went (feat. Drake)",
       "url": "https://open.spotify.com/track/7qLr3HMApUbyDkUvgIvHnB"
-    },
-    {
-      "added_at": "2023-06-27 06:48:40",
-      "album": {
-        "name": "Artist",
-        "url": "https://open.spotify.com/album/2OQEAqShAl6SodrGhmYZ4Z"
-      },
-      "artists": [
-        {
-          "name": "A Boogie Wit da Hoodie",
-          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
-        }
-      ],
-      "duration_ms": 174192,
-      "name": "Jungle",
-      "url": "https://open.spotify.com/track/5uZm7EFtP5aoTJvx5gv9Xf"
     },
     {
       "added_at": "2023-06-27 06:48:40",
@@ -1167,6 +1151,22 @@
     {
       "added_at": "2023-06-27 06:48:40",
       "album": {
+        "name": "Artist",
+        "url": "https://open.spotify.com/album/2OQEAqShAl6SodrGhmYZ4Z"
+      },
+      "artists": [
+        {
+          "name": "A Boogie Wit da Hoodie",
+          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
+        }
+      ],
+      "duration_ms": 174192,
+      "name": "Jungle",
+      "url": "https://open.spotify.com/track/5uZm7EFtP5aoTJvx5gv9Xf"
+    },
+    {
+      "added_at": "2023-06-27 06:48:40",
+      "album": {
         "name": "Immortal",
         "url": "https://open.spotify.com/album/7xgzD7onYd1Pms93ZOtxxX"
       },
@@ -1179,26 +1179,6 @@
       "duration_ms": 254723,
       "name": "Immortal",
       "url": "https://open.spotify.com/track/4IO8X9W69dIQe0EC5ALXhq"
-    },
-    {
-      "added_at": "2023-06-27 06:48:40",
-      "album": {
-        "name": "Pink Friday",
-        "url": "https://open.spotify.com/album/3LJhoYn4nnHmvPRO3ppbsl"
-      },
-      "artists": [
-        {
-          "name": "Nicki Minaj",
-          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
-        },
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        }
-      ],
-      "duration_ms": 279306,
-      "name": "Moment 4 Life",
-      "url": "https://open.spotify.com/track/1ia019RqDK2o4QiANR1Dyn"
     },
     {
       "added_at": "2023-06-27 06:48:40",
@@ -1219,6 +1199,26 @@
       "duration_ms": 223878,
       "name": "All My Life (feat. J. Cole)",
       "url": "https://open.spotify.com/track/6T7FXSuXykeGktMLGp8WgE"
+    },
+    {
+      "added_at": "2023-06-27 06:48:40",
+      "album": {
+        "name": "Pink Friday",
+        "url": "https://open.spotify.com/album/3LJhoYn4nnHmvPRO3ppbsl"
+      },
+      "artists": [
+        {
+          "name": "Nicki Minaj",
+          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+        },
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "duration_ms": 279306,
+      "name": "Moment 4 Life",
+      "url": "https://open.spotify.com/track/1ia019RqDK2o4QiANR1Dyn"
     },
     {
       "added_at": "2023-06-27 06:48:40",
@@ -1675,18 +1675,18 @@
     {
       "added_at": "2023-06-27 06:48:40",
       "album": {
-        "name": "Red Ruby Da Sleeze",
-        "url": "https://open.spotify.com/album/0zCHOD0Z8yOrIP1fw7u1J6"
+        "name": "56 Nights",
+        "url": "https://open.spotify.com/album/4Mqt4zRLIwFtZyzh7tAUQE"
       },
       "artists": [
         {
-          "name": "Nicki Minaj",
-          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
         }
       ],
-      "duration_ms": 214445,
-      "name": "Red Ruby Da Sleeze",
-      "url": "https://open.spotify.com/track/4ZYAU4A2YBtlNdqOUtc7T2"
+      "duration_ms": 244511,
+      "name": "March Madness",
+      "url": "https://open.spotify.com/track/3WcC6NH9J77xPEvj1SOL7z"
     },
     {
       "added_at": "2023-06-27 06:48:40",
@@ -1711,18 +1711,18 @@
     {
       "added_at": "2023-06-27 06:48:40",
       "album": {
-        "name": "56 Nights",
-        "url": "https://open.spotify.com/album/4Mqt4zRLIwFtZyzh7tAUQE"
+        "name": "Red Ruby Da Sleeze",
+        "url": "https://open.spotify.com/album/0zCHOD0Z8yOrIP1fw7u1J6"
       },
       "artists": [
         {
-          "name": "Future",
-          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+          "name": "Nicki Minaj",
+          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
         }
       ],
-      "duration_ms": 244511,
-      "name": "March Madness",
-      "url": "https://open.spotify.com/track/3WcC6NH9J77xPEvj1SOL7z"
+      "duration_ms": 214445,
+      "name": "Red Ruby Da Sleeze",
+      "url": "https://open.spotify.com/track/4ZYAU4A2YBtlNdqOUtc7T2"
     },
     {
       "added_at": "2023-07-10 21:55:04",
@@ -1799,6 +1799,30 @@
     {
       "added_at": "2023-06-27 06:48:40",
       "album": {
+        "name": "Who is Nardo Wick?",
+        "url": "https://open.spotify.com/album/338LPt19lJ2GiGmxDSOAtR"
+      },
+      "artists": [
+        {
+          "name": "Nardo Wick",
+          "url": "https://open.spotify.com/artist/0Njy6yR9LykNKYg9yE23QN"
+        },
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        },
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        }
+      ],
+      "duration_ms": 225533,
+      "name": "Me or Sum (feat. Future & Lil Baby)",
+      "url": "https://open.spotify.com/track/2HHLfzE7PkljuqyYU4vwmh"
+    },
+    {
+      "added_at": "2023-06-27 06:48:40",
+      "album": {
         "name": "Resume",
         "url": "https://open.spotify.com/album/3AkeMkUB4TxgC0BRc2KsVw"
       },
@@ -1811,22 +1835,6 @@
       "duration_ms": 235023,
       "name": "Resume",
       "url": "https://open.spotify.com/track/3U3gHqRwjam6CxwW68m30z"
-    },
-    {
-      "added_at": "2023-06-27 06:48:40",
-      "album": {
-        "name": "Luv Is Rage",
-        "url": "https://open.spotify.com/album/5WrbKW1nRN4vSsu70uizxX"
-      },
-      "artists": [
-        {
-          "name": "Lil Uzi Vert",
-          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
-        }
-      ],
-      "duration_ms": 219712,
-      "name": "7AM",
-      "url": "https://open.spotify.com/track/4v1P7JCjehbg5TmLQo2mFy"
     }
   ],
   "unique_name": "NYvsNY",

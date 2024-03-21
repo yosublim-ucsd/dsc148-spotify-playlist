@@ -4,7 +4,7 @@
 
 > The perfectly brewed cup, the perfect songs to match\. Your happy place is right here.
 
-216 songs - 13 hr 21 min
+218 songs - 13 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,7 +42,8 @@
 | [Crater on the Moon](https://open.spotify.com/track/4t6CSU0uY8Z6bi32Ml78Vg) | [Ok Moon](https://open.spotify.com/artist/2YT2DEtRTNmUZkR53QaU20) | [Crater on the Moon](https://open.spotify.com/album/5kpzNyJMTgqA6ygjJUx6xx) | 4:10 | 2022-03-25 | 2022-06-17 |
 | [dark until september.](https://open.spotify.com/track/7n5LJO27QLW54MmCU8ok2e) | [will hyde](https://open.spotify.com/artist/3vNisYibo8wFyD4wxIbSbn) | [dark until september.](https://open.spotify.com/album/7B0QjSgkMYYWtfenh2Wz31) | 3:27 | 2022-03-25 |  |
 | [Dawns \(feat\. Maggie Rogers\)](https://open.spotify.com/track/42TtHTxWk782ZBiqyOi2d1) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2), [Maggie Rogers](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe) | [Dawns \(feat\. Maggie Rogers\)](https://open.spotify.com/album/2Wpz5Xzsbr7hJg5Wb13p4m) | 4:50 | 2023-01-27 | 2023-09-23 |
-| [Deeper Well](https://open.spotify.com/track/2lJn77IeZAP9cmv6DPXOrL) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Deeper Well](https://open.spotify.com/album/2NXiMKrwmPrqU8epp20pW8) | 3:52 | 2024-02-16 |  |
+| [Deeper Well](https://open.spotify.com/track/2lJn77IeZAP9cmv6DPXOrL) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Deeper Well](https://open.spotify.com/album/2NXiMKrwmPrqU8epp20pW8) | 3:52 | 2024-02-16 | 2024-03-21 |
+| [Deeper Well](https://open.spotify.com/track/333XFHKsHU0pOocFzBgrJi) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Deeper Well](https://open.spotify.com/album/5SxZmGwc4eJuPp6PcO4JgJ) | 3:52 | 2024-03-14 |  |
 | [Delusional](https://open.spotify.com/track/1ZuT3WXc8VkSxGTGY9Pm4g) | [Garrett Kato](https://open.spotify.com/artist/4S3VOqqGguEZu3vbJMig4t) | [Delusional](https://open.spotify.com/album/2WhyFL6JiegvEYGUasRomx) | 4:10 | 2022-06-17 | 2024-02-23 |
 | [Delusional](https://open.spotify.com/track/2LcsjEjWN5uZ4qC3IqmPCz) | [Garrett Kato](https://open.spotify.com/artist/4S3VOqqGguEZu3vbJMig4t) | [Best Indie Folk of 2021, Vol\. 4](https://open.spotify.com/album/1NHfwivYblR7DotRQN86AK) | 4:10 | 2022-10-10 | 2022-11-13 |
 | [Delusional](https://open.spotify.com/track/6jh10WQnBRJ0SCwEXLxgY2) | [Garrett Kato](https://open.spotify.com/artist/4S3VOqqGguEZu3vbJMig4t) | [Delusional](https://open.spotify.com/album/13q5886lEsp0lCMcHcnwSg) | 4:10 | 2022-03-25 | 2022-07-29 |
@@ -196,7 +197,8 @@
 | [Throw Your Arms Around Me](https://open.spotify.com/track/0XgymhdWuzA3mE8jJzf1Wo) | [Julia Wallace](https://open.spotify.com/artist/2bFY7vDLp0o5Kt6FHiwkAp) | [Across the Water](https://open.spotify.com/album/6QjDzyGbD4aQG3sPNShe4u) | 3:46 | 2024-02-16 |  |
 | [Till the Flame Turns Blue](https://open.spotify.com/track/3Zz37G6EggIIMiqgBnovnH) | [The Paper Kites](https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy) | [Till the Flame Turns Blue](https://open.spotify.com/album/7LLMYmgPN4YRHFqm3ipAjM) | 4:05 | 2023-05-09 | 2023-09-04 |
 | [Till the Flame Turns Blue](https://open.spotify.com/track/65ZLBQ0h2KKqNqqpnr76N0) | [The Paper Kites](https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy) | [At the Roadhouse](https://open.spotify.com/album/2UpcMYFkeMbmD1LiBjvYn9) | 4:05 | 2023-06-08 |  |
-| [Too Good to be True](https://open.spotify.com/track/4vIiVs5JoNfqqRi5o7jAIb) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Too Good to be True](https://open.spotify.com/album/57y7NpfTINlnrNitu8vwft) | 2:40 | 2024-02-29 |  |
+| [Too Good to be True](https://open.spotify.com/track/27RDQ0TfxzWMlQFuKrPT11) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Deeper Well](https://open.spotify.com/album/5SxZmGwc4eJuPp6PcO4JgJ) | 2:40 | 2024-03-14 |  |
+| [Too Good to be True](https://open.spotify.com/track/4vIiVs5JoNfqqRi5o7jAIb) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Too Good to be True](https://open.spotify.com/album/57y7NpfTINlnrNitu8vwft) | 2:40 | 2024-02-29 | 2024-03-21 |
 | [Tourniquet](https://open.spotify.com/track/3EvZ03hGAFwGZ2Ebcu86YH) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [Zach Bryan](https://open.spotify.com/album/6PbnGueEO6LGodPfvNldYf) | 3:09 | 2023-09-22 |  |
 | [Two Strong Hearts](https://open.spotify.com/track/1rMHsiaukDDW0mzwruHdQr) | [Ainslie Wills](https://open.spotify.com/artist/6pOtVlJugMBAdUU8OU1xDe) | [Two Strong Hearts](https://open.spotify.com/album/1v1oL1axOTr3tE615BHuMy) | 3:06 | 2022-10-10 | 2024-03-15 |
 | [Two Strong Hearts](https://open.spotify.com/track/31Y9yVkcT70JjKs3A2eR36) | [Ainslie Wills](https://open.spotify.com/artist/6pOtVlJugMBAdUU8OU1xDe) | [Two Strong Hearts](https://open.spotify.com/album/70dKYiUjXSV6tSq9psDuDI) | 3:06 | 2022-03-25 | 2022-10-13 |

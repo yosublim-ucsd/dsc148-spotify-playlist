@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- France.
 
-1,761 songs - 3 day 21 hr 10 min
+1,762 songs - 3 day 21 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -483,7 +483,7 @@
 | [DLB 13](https://open.spotify.com/track/64v5RSiSNrlLHRoynPHhQ3) | [Soso Maness](https://open.spotify.com/artist/0oeiA5U9u1U45Gos5cywUU) | [Avec le temps](https://open.spotify.com/album/5TE2SiYrwOUejoaU26rcs8) | 2:41 | 2021-06-06 | 2021-06-13 |
 | [Do It To It](https://open.spotify.com/track/20on25jryn53hWghthWWW3) | [ACRAZE](https://open.spotify.com/artist/4pnp4w9g30yLfVIAFnZMRd), [Cherish](https://open.spotify.com/artist/1c70yCa8sRgIiQxl3HOEFo) | [Do It To It](https://open.spotify.com/album/58cd90Jkrovggh556JPN9L) | 2:37 | 2021-12-15 | 2022-02-06 |
 | [Doja](https://open.spotify.com/track/3LtpKP5abr2qqjunvjlX5i) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Doja](https://open.spotify.com/album/6oECjagksATHu2UaclXrq1) | 1:37 | 2022-07-23 | 2023-01-21 |
-| [Dolce Camara](https://open.spotify.com/track/15vGti1ooNZFlDUdlLukX6) | [Booba](https://open.spotify.com/artist/58wXmynHaAWI5hwlPZP3qL), [SDM](https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB) | [AD VITAM ÆTERNAM](https://open.spotify.com/album/5nAPqNlNOBzQjLv3JK5zxM) | 2:58 | 2024-02-10 |  |
+| [Dolce Camara](https://open.spotify.com/track/15vGti1ooNZFlDUdlLukX6) | [Booba](https://open.spotify.com/artist/58wXmynHaAWI5hwlPZP3qL), [SDM](https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB) | [AD VITAM ÆTERNAM](https://open.spotify.com/album/5nAPqNlNOBzQjLv3JK5zxM) | 2:58 | 2024-02-10 | 2024-03-21 |
 | [Don't Go Yet](https://open.spotify.com/track/1058fW9H3fZA6QjYCdOBad) | [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF) | [Don't Go Yet](https://open.spotify.com/album/4gxhWdfO9qAogokjIc2bPZ) | 2:44 | 2021-09-25 | 2021-11-14 |
 | [Don't Stop The Music](https://open.spotify.com/track/1Jo0Zg7XlrA6z0mFTZVdkn) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [Good Girl Gone Bad](https://open.spotify.com/album/4OXnPSBtZo8PBFiTOfuumP) | 4:27 | 2022-01-01 | 2023-01-03 |
 | [Don't Wait Up](https://open.spotify.com/track/45PF1Y3RcW5MK0jxWvhc4D) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Don't Wait Up](https://open.spotify.com/album/5xEtia4eFu6W3Ql7xgR3Dp) | 3:24 | 2021-10-11 | 2021-10-12 |
@@ -1596,6 +1596,7 @@
 | [Time Time \(feat\. Squeezie, Myd & KronoMuzik\)](https://open.spotify.com/track/1MkN8pZzDBf1b2uzfYVOQp) | [Trei Degete](https://open.spotify.com/artist/1APMveRvLxWAB5AI0j11DD), [Squeezie](https://open.spotify.com/artist/0xECfhlRzRRIIe2Co5HX6n), [Myd](https://open.spotify.com/artist/3QFiymmbJlVBPpnrOatEAk), [KronoMuzik](https://open.spotify.com/artist/7B53Suqn5TsVu6S6gIgqeA) | [Time Time \(feat\. Squeezie, Myd & KronoMuzik\)](https://open.spotify.com/album/316PO6rRzzp3aysFMB0jNv) | 2:36 | 2021-12-24 | 2022-03-05 |
 | [TO THE MOON](https://open.spotify.com/track/5vUnjhBzRJJIAOJPde6zDx) | [Jnr Choi](https://open.spotify.com/artist/1Z25ZlGHqqlr3o1UGQOfNn), [Sam Tompkins](https://open.spotify.com/artist/04uu8U3I1h26Fp2NBkPTRZ) | [TO THE MOON](https://open.spotify.com/album/70uNWLPkbci5L1bZI1Mzp6) | 2:32 | 2022-02-14 | 2022-05-18 |
 | [Toda la noche](https://open.spotify.com/track/1Nht2kJWRqq6upZCOTKsSA) | [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy), [Naps](https://open.spotify.com/artist/6W5uA6CNMf3hd2j4a2XWCx), [Morad](https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9) | [Indépendance](https://open.spotify.com/album/0waAfKYTW2g5VAsmbPDbjP) | 5:15 | 2021-12-12 | 2021-12-13 |
+| [Toko dombi](https://open.spotify.com/track/4Hj36H5c7liPVqpDrGxTgJ) | [THEODORT](https://open.spotify.com/artist/6q87j1F6EtUxjlvkJNknFp) | [Toko dombi](https://open.spotify.com/album/75HvvhWytuljxPOc6Asj2i) | 2:40 | 2024-03-20 |  |
 | [Toko Toko](https://open.spotify.com/track/2cHQh4eyfAasH8AzkiFtJO) | [Dadju](https://open.spotify.com/artist/4sbXXFzEWJY2zsZjelerjX), [Ronisia](https://open.spotify.com/artist/4krMq8pXkLVTGplpYgHlnV) | [Cullinan](https://open.spotify.com/album/1veIu7aYgSIg5PXEEUdh8U) | 2:54 | 2022-05-15 | 2022-09-18 |
 | [Tomb Raider](https://open.spotify.com/track/7F7mrivCzAPYZ650y1eoeJ) | [Ziak](https://open.spotify.com/artist/2ubn2zwyYaLdHOCKnTouU2) | [Chrome](https://open.spotify.com/album/0FZwklnVBdxhcCQLhIgPU2) | 2:14 | 2023-02-25 | 2023-03-02 |
 | [TOPIA TWINS](https://open.spotify.com/track/0lodMO0qK83vfPiiD7FMEt) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [UTOPIA](https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ) | 3:43 | 2023-07-29 | 2023-07-31 |

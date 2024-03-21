@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-01-30",
-  "description": "Mga nangunguna sa mundo ng OPM. \nCover: Illest Morena",
+  "description": "Mga nangunguna sa mundo ng OPM. \nCover: mrld",
   "name": "Tatak Pinoy",
   "tracks": [
     {
@@ -88,7 +88,7 @@
       ],
       "date_added": "2024-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-21",
       "duration_ms": 252894,
       "name": "Anything",
       "url": "https://open.spotify.com/track/03WBX5gPyl2QR6t5J1XM6y"
@@ -364,7 +364,7 @@
       ],
       "date_added": "2024-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-21",
       "duration_ms": 243333,
       "name": "Eyes Only For Me",
       "url": "https://open.spotify.com/track/6ac9R5HvKZNCGZCXfJSjEx"
@@ -778,7 +778,7 @@
       ],
       "date_added": "2024-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-21",
       "duration_ms": 201529,
       "name": "Lahat Ng Bukas",
       "url": "https://open.spotify.com/track/3s39TR3Iarc2013cuvDGQ7"
@@ -1004,6 +1004,58 @@
       "duration_ms": 227262,
       "name": "Nahuhulog",
       "url": "https://open.spotify.com/track/1t2gvCG4jH1kYE9sX2PrRs"
+    },
+    {
+      "album": {
+        "name": "Namimiss Ko Na",
+        "url": "https://open.spotify.com/album/2RAnZVfNBkdjyysTuTq6rL"
+      },
+      "artists": [
+        {
+          "name": "Lola Amour",
+          "url": "https://open.spotify.com/artist/29zSTMejPhY0m7kwNQ9SPI"
+        }
+      ],
+      "date_added": "2024-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250445,
+      "name": "Namimiss Ko Na",
+      "url": "https://open.spotify.com/track/18wFxL02Zh3pqf3kFa1Dov"
+    },
+    {
+      "album": {
+        "name": "Nandiyan Pa Ba? (feat. Josh Villena of Autotelic, Bayang Barrios & 6cyclemind kids)",
+        "url": "https://open.spotify.com/album/4hLbshQ7nWrmE70fY1q7bp"
+      },
+      "artists": [
+        {
+          "name": "6cyclemind",
+          "url": "https://open.spotify.com/artist/3nZa8vRD64ueq3d0JNYTsl"
+        },
+        {
+          "name": "Gloc-9",
+          "url": "https://open.spotify.com/artist/7HJDRQAfEcFiARVehhM6qD"
+        },
+        {
+          "name": "Josh Villena of Autotelic",
+          "url": "https://open.spotify.com/artist/5kRyaBz2TvIqlr32fA0mV9"
+        },
+        {
+          "name": "Bayang Barrios",
+          "url": "https://open.spotify.com/artist/301vkLsUJgZZ05hWnT14YO"
+        },
+        {
+          "name": "6cyclemind kids",
+          "url": "https://open.spotify.com/artist/44D5K6Tw3FnnRHOtgBczWC"
+        }
+      ],
+      "date_added": "2024-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236571,
+      "name": "Nandiyan Pa Ba? (feat. Josh Villena of Autotelic, Bayang Barrios & 6cyclemind kids)",
+      "url": "https://open.spotify.com/track/38TWELRTS1gCaGY1FFmrWN"
     },
     {
       "album": {
@@ -1496,6 +1548,28 @@
       "duration_ms": 224163,
       "name": "Tayo Na Lang",
       "url": "https://open.spotify.com/track/0dAyWjeCEoj6LwEPTLxb3D"
+    },
+    {
+      "album": {
+        "name": "Tequila Rose",
+        "url": "https://open.spotify.com/album/02tMWeYI98izui099O7QDb"
+      },
+      "artists": [
+        {
+          "name": "HELLMERRY",
+          "url": "https://open.spotify.com/artist/4NsbfTEC3nOcc0vOpZ1rRc"
+        },
+        {
+          "name": "Al James",
+          "url": "https://open.spotify.com/artist/2G7VQ1kVhVfNagytlousgm"
+        }
+      ],
+      "date_added": "2024-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210000,
+      "name": "Tequila Rose",
+      "url": "https://open.spotify.com/track/5fGWamKtCGZXW04flUxXl0"
     },
     {
       "album": {

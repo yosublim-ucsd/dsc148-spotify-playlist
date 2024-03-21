@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "The best new music by independent artists and labels, featuring Valentina Moretti. Updates every Wednesday.",
+  "description": "The best new music by independent artists and labels, featuring Alexia Mariel. Updates every Wednesday.",
   "name": "Fresh Finds Latin",
   "tracks": [
     {
@@ -6105,6 +6105,24 @@
     },
     {
       "album": {
+        "name": "Chico de seda",
+        "url": "https://open.spotify.com/album/2raCveNZr2RbNivjfsLQSK"
+      },
+      "artists": [
+        {
+          "name": "Surfeando El Tambor",
+          "url": "https://open.spotify.com/artist/5IguaHGivs1lpm2Jm9Bpz9"
+        }
+      ],
+      "date_added": "2024-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175578,
+      "name": "Chico de seda",
+      "url": "https://open.spotify.com/track/5g83prQec7qUd2Lf58wH29"
+    },
+    {
+      "album": {
         "name": "Chicomiel",
         "url": "https://open.spotify.com/album/6X6DJXkpN2vkZRS6OMmalu"
       },
@@ -6514,6 +6532,24 @@
       "duration_ms": 270535,
       "name": "Coloreados",
       "url": "https://open.spotify.com/track/4xTRFvJjTUIP0dhpeAtlod"
+    },
+    {
+      "album": {
+        "name": "Come For Me",
+        "url": "https://open.spotify.com/album/3tE4Mi8vAhFSOolDqy1XS5"
+      },
+      "artists": [
+        {
+          "name": "Bu Cuaron",
+          "url": "https://open.spotify.com/artist/436VIztZC1jpD8Pzo5rvUj"
+        }
+      ],
+      "date_added": "2024-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217695,
+      "name": "Come For Me",
+      "url": "https://open.spotify.com/track/2I75NkTuPnHBHKzTrpnmPW"
     },
     {
       "album": {
@@ -9513,6 +9549,24 @@
     },
     {
       "album": {
+        "name": "DIME EL PLAN",
+        "url": "https://open.spotify.com/album/0HyXze7xeFBbhmEwzF3kDF"
+      },
+      "artists": [
+        {
+          "name": "Alexia Mariel",
+          "url": "https://open.spotify.com/artist/6SDSKrIIGibHeQGx8s9Yyn"
+        }
+      ],
+      "date_added": "2024-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195000,
+      "name": "DIME EL PLAN",
+      "url": "https://open.spotify.com/track/6htjYgjKenlA6NtEbJag5q"
+    },
+    {
+      "album": {
         "name": "Dime Por Qu\u00e9 Las Estrellas Brillan",
         "url": "https://open.spotify.com/album/0tmUW2qg65nUtNoR3AJZOl"
       },
@@ -11520,6 +11574,28 @@
       "duration_ms": 96315,
       "name": "En la Playa Con un Su\u00e9ter",
       "url": "https://open.spotify.com/track/14kNuRVtcIfPcwO0GPeDru"
+    },
+    {
+      "album": {
+        "name": "Calendario",
+        "url": "https://open.spotify.com/album/25yfGAtfakJoBCIKE0K7AZ"
+      },
+      "artists": [
+        {
+          "name": "Mizuki Amapola",
+          "url": "https://open.spotify.com/artist/1i1q599ea4CdgaVtomARti"
+        },
+        {
+          "name": "La Lauri Fire",
+          "url": "https://open.spotify.com/artist/7Ku8lMIIWZ2fGXSVdzbM84"
+        }
+      ],
+      "date_added": "2024-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132167,
+      "name": "En los Parques",
+      "url": "https://open.spotify.com/track/3IRj8U0Lt8bPdlW6GXBK5q"
     },
     {
       "album": {
@@ -15214,7 +15290,7 @@
       ],
       "date_added": "2024-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-21",
       "duration_ms": 221653,
       "name": "Indie Rockera",
       "url": "https://open.spotify.com/track/0Z0mKafgSAgy81bNKuMZNV"
@@ -15720,6 +15796,28 @@
       "duration_ms": 170920,
       "name": "Japon",
       "url": "https://open.spotify.com/track/3sRXcjvBl5L7vhaZyc1dj9"
+    },
+    {
+      "album": {
+        "name": "Jap\u00f3n",
+        "url": "https://open.spotify.com/album/0u6uiMaQTlMl1ThfCPzazH"
+      },
+      "artists": [
+        {
+          "name": "Moe Palau",
+          "url": "https://open.spotify.com/artist/1sGGwYZXhJwKsALpbOxpG0"
+        },
+        {
+          "name": "Cuarto Seis",
+          "url": "https://open.spotify.com/artist/0Pooj3CvcuFsPIzcoRsjOq"
+        }
+      ],
+      "date_added": "2024-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192744,
+      "name": "Jap\u00f3n",
+      "url": "https://open.spotify.com/track/0bwLjPKAwyLx21tt0b0DDW"
     },
     {
       "album": {
@@ -18834,7 +18932,7 @@
       ],
       "date_added": "2024-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-21",
       "duration_ms": 138500,
       "name": "maracuy\u00e1",
       "url": "https://open.spotify.com/track/47D4eR0SaFkuo6vXEqFI0h"
@@ -19714,7 +19812,7 @@
       ],
       "date_added": "2024-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-21",
       "duration_ms": 180453,
       "name": "Medusa",
       "url": "https://open.spotify.com/track/5u4WtYlz4AVrsVwu58mKbv"
@@ -20198,7 +20296,7 @@
       ],
       "date_added": "2024-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-21",
       "duration_ms": 189290,
       "name": "Mi Nombre",
       "url": "https://open.spotify.com/track/3zyGSfawvJiIYMH0Sgpowf"
@@ -23967,6 +24065,36 @@
     },
     {
       "album": {
+        "name": "Orilla del mar",
+        "url": "https://open.spotify.com/album/33oPvxHmM8kI6p2Xb6f4zM"
+      },
+      "artists": [
+        {
+          "name": "Giu Azul",
+          "url": "https://open.spotify.com/artist/2WeIvQUrTkrmwhB3ZmQwXf"
+        },
+        {
+          "name": "Maxi Prieto",
+          "url": "https://open.spotify.com/artist/7k4sBYY4ict7ilJdWo5DnW"
+        },
+        {
+          "name": "Facu Fiorentino",
+          "url": "https://open.spotify.com/artist/6XGfRKZnp6YVbllvMwa4xz"
+        },
+        {
+          "name": "Juanma Diaz",
+          "url": "https://open.spotify.com/artist/18VxkRNCdJHKRJcjLSPHJt"
+        }
+      ],
+      "date_added": "2024-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183686,
+      "name": "Orilla del mar",
+      "url": "https://open.spotify.com/track/7GL8h6amoC8UMOrWhBYbt1"
+    },
+    {
+      "album": {
         "name": "Oro",
         "url": "https://open.spotify.com/album/4hl6NYz3Rb8T9VEo86QOVO"
       },
@@ -24440,7 +24568,7 @@
       ],
       "date_added": "2024-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-21",
       "duration_ms": 141714,
       "name": "PALOMINO",
       "url": "https://open.spotify.com/track/3cqhuqp6N9D3XoAsL0kCC4"
@@ -26700,7 +26828,7 @@
       ],
       "date_added": "2024-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-21",
       "duration_ms": 154500,
       "name": "Qu\u00e9 M\u00e1s Da",
       "url": "https://open.spotify.com/track/2L7EazniDPDv5UZZdcCBcA"
@@ -27649,6 +27777,28 @@
     },
     {
       "album": {
+        "name": "Rompi\u00e9ndote, Rompi\u00e9ndome",
+        "url": "https://open.spotify.com/album/6kNrj3LeVhcdOjvOavtwpI"
+      },
+      "artists": [
+        {
+          "name": "CEDRES",
+          "url": "https://open.spotify.com/artist/3FNp84mDWIrpD60XAOVAot"
+        },
+        {
+          "name": "KOK\u00d4 CEC\u00ca",
+          "url": "https://open.spotify.com/artist/4MAPWlyF0tOgw8djPFLU9V"
+        }
+      ],
+      "date_added": "2024-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226211,
+      "name": "Rompi\u00e9ndote, Rompi\u00e9ndome",
+      "url": "https://open.spotify.com/track/4LOzRlIpNQZQDGVQ4QKzzk"
+    },
+    {
+      "album": {
         "name": "Roto",
         "url": "https://open.spotify.com/album/4KH36DomBkrUJC3MLHkZpw"
       },
@@ -28206,6 +28356,24 @@
       "duration_ms": 161840,
       "name": "SE DESVANECI\u00d3",
       "url": "https://open.spotify.com/track/4q0AvJnUh3y2ADKcaIUYgi"
+    },
+    {
+      "album": {
+        "name": "Se Me Van Las Ganas",
+        "url": "https://open.spotify.com/album/5BrWwaLxoHlsnDwUF2DINd"
+      },
+      "artists": [
+        {
+          "name": "Mimi Rose",
+          "url": "https://open.spotify.com/artist/0gm0s1Jbc0lIuzDLHH1SYB"
+        }
+      ],
+      "date_added": "2024-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183617,
+      "name": "Se Me Van Las Ganas",
+      "url": "https://open.spotify.com/track/35YA19taCbOzPWNf2O20Gy"
     },
     {
       "album": {
@@ -30163,6 +30331,24 @@
     },
     {
       "album": {
+        "name": "Lado B",
+        "url": "https://open.spotify.com/album/1ht1Jz9Ca1RyQRhzK4epeh"
+      },
+      "artists": [
+        {
+          "name": "Cuauh",
+          "url": "https://open.spotify.com/artist/3nVY2YFUkLFklG2qTfbPVc"
+        }
+      ],
+      "date_added": "2024-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 105495,
+      "name": "Sufrir",
+      "url": "https://open.spotify.com/track/7wNUVKb8PLMw7lS7AHEvtR"
+    },
+    {
+      "album": {
         "name": "Sugar Daddy",
         "url": "https://open.spotify.com/album/33NBwS2DrC7W0CO4lS8C9P"
       },
@@ -31632,7 +31818,7 @@
       ],
       "date_added": "2024-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-21",
       "duration_ms": 186566,
       "name": "Tiempo de Calidad",
       "url": "https://open.spotify.com/track/1a8fcQhu78zxUD4Y3Tqqz9"
@@ -32916,7 +33102,7 @@
       ],
       "date_added": "2024-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-21",
       "duration_ms": 173142,
       "name": "Tu Locura",
       "url": "https://open.spotify.com/track/6cKfpV2HpnZaCBpjODj07B"
@@ -34312,7 +34498,7 @@
       ],
       "date_added": "2024-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-21",
       "duration_ms": 210078,
       "name": "Ver Tus Ojos Mir\u00e1ndome",
       "url": "https://open.spotify.com/track/2Xxh2rUEtoEouNW8rxzEoT"

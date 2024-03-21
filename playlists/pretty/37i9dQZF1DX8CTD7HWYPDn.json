@@ -1,12 +1,12 @@
 {
   "description": "Tu karaoke personal para darlo todo cantando.",
-  "num_followers": 1733115,
+  "num_followers": 1733084,
   "original_name": "Karaoke 2024",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkOGYyNDAxNDY3MzRlNGZlMGEwNmM0OTU2MDc4ODJjMzFlNDBlOWJj",
+  "snapshot_id": "MCw5ODA0YWFjNGFjOTYyY2I3ZWM5NzkyYTAzOTRjN2EzNmEyZWFhM2I0",
   "tracks": [
     {
       "added_at": "2024-02-09 16:39:41",
@@ -399,22 +399,6 @@
     {
       "added_at": "2024-02-09 16:39:41",
       "album": {
-        "name": "Hotel California (2013 Remaster)",
-        "url": "https://open.spotify.com/album/2widuo17g5CEC66IbzveRu"
-      },
-      "artists": [
-        {
-          "name": "Eagles",
-          "url": "https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL"
-        }
-      ],
-      "duration_ms": 391376,
-      "name": "Hotel California - 2013 Remaster",
-      "url": "https://open.spotify.com/track/40riOy7x9W7GXjyGp4pjAv"
-    },
-    {
-      "added_at": "2024-02-09 16:39:41",
-      "album": {
         "name": "Uptown Special",
         "url": "https://open.spotify.com/album/3vLaOYCNCzngDf8QdBg2V1"
       },
@@ -451,6 +435,22 @@
     {
       "added_at": "2024-02-09 16:39:41",
       "album": {
+        "name": "Hotel California (2013 Remaster)",
+        "url": "https://open.spotify.com/album/2widuo17g5CEC66IbzveRu"
+      },
+      "artists": [
+        {
+          "name": "Eagles",
+          "url": "https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL"
+        }
+      ],
+      "duration_ms": 391376,
+      "name": "Hotel California - 2013 Remaster",
+      "url": "https://open.spotify.com/track/40riOy7x9W7GXjyGp4pjAv"
+    },
+    {
+      "added_at": "2024-02-09 16:39:41",
+      "album": {
         "name": "Out Of Time (25th Anniversary Edition)",
         "url": "https://open.spotify.com/album/6yEuIwTQpciH1qtj7mP5GK"
       },
@@ -479,22 +479,6 @@
       "duration_ms": 204600,
       "name": "Dile",
       "url": "https://open.spotify.com/track/69Ej1xrGjOcHvIMtMKxK0G"
-    },
-    {
-      "added_at": "2024-02-09 16:39:41",
-      "album": {
-        "name": "Tracy Chapman",
-        "url": "https://open.spotify.com/album/6hmmX5UP4rIvOpGSaPerV8"
-      },
-      "artists": [
-        {
-          "name": "Tracy Chapman",
-          "url": "https://open.spotify.com/artist/7oPgCQqMMXEXrNau5vxYZP"
-        }
-      ],
-      "duration_ms": 296800,
-      "name": "Fast Car",
-      "url": "https://open.spotify.com/track/2M9ro2krNb7nr7HSprkEgo"
     },
     {
       "added_at": "2024-02-09 16:39:41",
@@ -531,6 +515,22 @@
     {
       "added_at": "2024-02-09 16:39:41",
       "album": {
+        "name": "Tracy Chapman",
+        "url": "https://open.spotify.com/album/6hmmX5UP4rIvOpGSaPerV8"
+      },
+      "artists": [
+        {
+          "name": "Tracy Chapman",
+          "url": "https://open.spotify.com/artist/7oPgCQqMMXEXrNau5vxYZP"
+        }
+      ],
+      "duration_ms": 296800,
+      "name": "Fast Car",
+      "url": "https://open.spotify.com/track/2M9ro2krNb7nr7HSprkEgo"
+    },
+    {
+      "added_at": "2024-02-09 16:39:41",
+      "album": {
         "name": "Whitney",
         "url": "https://open.spotify.com/album/5Vdzprr5cOqXQo44eHeV7t"
       },
@@ -563,22 +563,6 @@
     {
       "added_at": "2024-02-09 16:39:41",
       "album": {
-        "name": "Slippery When Wet",
-        "url": "https://open.spotify.com/album/0kBfgEilUFCMIQY5IOjG4t"
-      },
-      "artists": [
-        {
-          "name": "Bon Jovi",
-          "url": "https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp"
-        }
-      ],
-      "duration_ms": 222706,
-      "name": "You Give Love A Bad Name",
-      "url": "https://open.spotify.com/track/0rmGAIH9LNJewFw7nKzZnc"
-    },
-    {
-      "added_at": "2024-02-09 16:39:41",
-      "album": {
         "name": "Reckless (30th Anniversary / Deluxe Edition)",
         "url": "https://open.spotify.com/album/2o2G49EPi4lua5zgxUKhLL"
       },
@@ -591,6 +575,22 @@
       "duration_ms": 216053,
       "name": "Summer Of '69",
       "url": "https://open.spotify.com/track/0GONea6G2XdnHWjNZd6zt3"
+    },
+    {
+      "added_at": "2024-02-09 16:39:41",
+      "album": {
+        "name": "Slippery When Wet",
+        "url": "https://open.spotify.com/album/0kBfgEilUFCMIQY5IOjG4t"
+      },
+      "artists": [
+        {
+          "name": "Bon Jovi",
+          "url": "https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp"
+        }
+      ],
+      "duration_ms": 222706,
+      "name": "You Give Love A Bad Name",
+      "url": "https://open.spotify.com/track/0rmGAIH9LNJewFw7nKzZnc"
     },
     {
       "added_at": "2024-02-09 16:39:41",
@@ -803,22 +803,6 @@
     {
       "added_at": "2024-02-09 16:39:41",
       "album": {
-        "name": "Thriller 25 Super Deluxe Edition",
-        "url": "https://open.spotify.com/album/1C2h7mLntPSeVYciMRTF4a"
-      },
-      "artists": [
-        {
-          "name": "Michael Jackson",
-          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
-        }
-      ],
-      "duration_ms": 293826,
-      "name": "Billie Jean",
-      "url": "https://open.spotify.com/track/5ChkMS8OtdzJeqyybCc9R5"
-    },
-    {
-      "added_at": "2024-02-09 16:39:41",
-      "album": {
         "name": "First Band On The Moon (Remastered)",
         "url": "https://open.spotify.com/album/56vFkneGivqQcoNQq362iZ"
       },
@@ -831,6 +815,22 @@
       "duration_ms": 193953,
       "name": "Lovefool",
       "url": "https://open.spotify.com/track/7aQjPecQdIuNd1sz3KCDhD"
+    },
+    {
+      "added_at": "2024-02-09 16:39:41",
+      "album": {
+        "name": "Thriller 25 Super Deluxe Edition",
+        "url": "https://open.spotify.com/album/1C2h7mLntPSeVYciMRTF4a"
+      },
+      "artists": [
+        {
+          "name": "Michael Jackson",
+          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
+        }
+      ],
+      "duration_ms": 293826,
+      "name": "Billie Jean",
+      "url": "https://open.spotify.com/track/5ChkMS8OtdzJeqyybCc9R5"
     },
     {
       "added_at": "2024-02-09 16:39:41",
@@ -999,22 +999,6 @@
     {
       "added_at": "2024-02-09 16:39:41",
       "album": {
-        "name": "Katrina & The Waves",
-        "url": "https://open.spotify.com/album/1UQG78YJjaBySRMh0A8Uw7"
-      },
-      "artists": [
-        {
-          "name": "Katrina & The Waves",
-          "url": "https://open.spotify.com/artist/2TzHIUhVpeeDxyJPpQfnV3"
-        }
-      ],
-      "duration_ms": 238733,
-      "name": "Walking On Sunshine",
-      "url": "https://open.spotify.com/track/05wIrZSwuaVWhcv5FfqeH0"
-    },
-    {
-      "added_at": "2024-02-09 16:39:41",
-      "album": {
         "name": "I Love Rock 'N' Roll (Expanded Edition)",
         "url": "https://open.spotify.com/album/555qwe1qUgLdee80TZ2CQt"
       },
@@ -1027,6 +1011,22 @@
       "duration_ms": 175173,
       "name": "I Love Rock 'N Roll",
       "url": "https://open.spotify.com/track/2Cdvbe2G4hZsnhNMKyGrie"
+    },
+    {
+      "added_at": "2024-02-09 16:39:41",
+      "album": {
+        "name": "Katrina & The Waves",
+        "url": "https://open.spotify.com/album/1UQG78YJjaBySRMh0A8Uw7"
+      },
+      "artists": [
+        {
+          "name": "Katrina & The Waves",
+          "url": "https://open.spotify.com/artist/2TzHIUhVpeeDxyJPpQfnV3"
+        }
+      ],
+      "duration_ms": 238733,
+      "name": "Walking On Sunshine",
+      "url": "https://open.spotify.com/track/05wIrZSwuaVWhcv5FfqeH0"
     },
     {
       "added_at": "2024-02-09 16:39:41",
@@ -1255,6 +1255,22 @@
     {
       "added_at": "2024-02-09 16:39:41",
       "album": {
+        "name": "The Album",
+        "url": "https://open.spotify.com/album/36TbZt4tWOO8eSNcefOXp6"
+      },
+      "artists": [
+        {
+          "name": "Haddaway",
+          "url": "https://open.spotify.com/artist/0Suv0tRrNrUlRzAy8aXjma"
+        }
+      ],
+      "duration_ms": 270373,
+      "name": "What Is Love - 7\" Mix",
+      "url": "https://open.spotify.com/track/2bNFbu5KHnK1qCl0iNQMfP"
+    },
+    {
+      "added_at": "2024-02-09 16:39:41",
+      "album": {
         "name": "Just Once In My Life",
         "url": "https://open.spotify.com/album/0oeMysdC6eeivvWbvQ9JNm"
       },
@@ -1287,18 +1303,18 @@
     {
       "added_at": "2024-02-09 16:39:41",
       "album": {
-        "name": "The Album",
-        "url": "https://open.spotify.com/album/36TbZt4tWOO8eSNcefOXp6"
+        "name": "Nevermind (Remastered)",
+        "url": "https://open.spotify.com/album/2guirTSEqLizK7j9i1MTTZ"
       },
       "artists": [
         {
-          "name": "Haddaway",
-          "url": "https://open.spotify.com/artist/0Suv0tRrNrUlRzAy8aXjma"
+          "name": "Nirvana",
+          "url": "https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh"
         }
       ],
-      "duration_ms": 270373,
-      "name": "What Is Love - 7\" Mix",
-      "url": "https://open.spotify.com/track/2bNFbu5KHnK1qCl0iNQMfP"
+      "duration_ms": 218920,
+      "name": "Come As You Are",
+      "url": "https://open.spotify.com/track/4P5KoWXOxwuobLmHXLMobV"
     },
     {
       "added_at": "2024-02-09 16:39:41",
@@ -1315,22 +1331,6 @@
       "duration_ms": 258786,
       "name": "It Must Have Been Love - From the Film \"Pretty Woman\"",
       "url": "https://open.spotify.com/track/6kvoHl80mfCVTv7XnZkjQn"
-    },
-    {
-      "added_at": "2024-02-09 16:39:41",
-      "album": {
-        "name": "Nevermind (Remastered)",
-        "url": "https://open.spotify.com/album/2guirTSEqLizK7j9i1MTTZ"
-      },
-      "artists": [
-        {
-          "name": "Nirvana",
-          "url": "https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh"
-        }
-      ],
-      "duration_ms": 218920,
-      "name": "Come As You Are",
-      "url": "https://open.spotify.com/track/4P5KoWXOxwuobLmHXLMobV"
     },
     {
       "added_at": "2024-02-09 16:39:41",
@@ -1515,22 +1515,6 @@
     {
       "added_at": "2024-02-09 16:39:41",
       "album": {
-        "name": "Faith",
-        "url": "https://open.spotify.com/album/34K1Kvskt9arWy8E1Gz3Lw"
-      },
-      "artists": [
-        {
-          "name": "George Michael",
-          "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
-        }
-      ],
-      "duration_ms": 193200,
-      "name": "Faith - Remastered",
-      "url": "https://open.spotify.com/track/0HEmnAUT8PHznIAAmVXqFJ"
-    },
-    {
-      "added_at": "2024-02-09 16:39:41",
-      "album": {
         "name": "Making Mirrors",
         "url": "https://open.spotify.com/album/1HjSyGjmLNjRAKgT9t1cna"
       },
@@ -1547,6 +1531,22 @@
       "duration_ms": 244973,
       "name": "Somebody That I Used To Know",
       "url": "https://open.spotify.com/track/4wCmqSrbyCgxEXROQE6vtV"
+    },
+    {
+      "added_at": "2024-02-09 16:39:41",
+      "album": {
+        "name": "Faith",
+        "url": "https://open.spotify.com/album/34K1Kvskt9arWy8E1Gz3Lw"
+      },
+      "artists": [
+        {
+          "name": "George Michael",
+          "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
+        }
+      ],
+      "duration_ms": 193200,
+      "name": "Faith - Remastered",
+      "url": "https://open.spotify.com/track/0HEmnAUT8PHznIAAmVXqFJ"
     },
     {
       "added_at": "2024-02-09 16:39:41",
@@ -1963,22 +1963,6 @@
     {
       "added_at": "2024-02-09 16:39:41",
       "album": {
-        "name": "Celebration (double disc version)",
-        "url": "https://open.spotify.com/album/43lok9zd7BW5CoYkXZs7S0"
-      },
-      "artists": [
-        {
-          "name": "Madonna",
-          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
-        }
-      ],
-      "duration_ms": 342680,
-      "name": "Like a Prayer",
-      "url": "https://open.spotify.com/track/1z3ugFmUKoCzGsI6jdY4Ci"
-    },
-    {
-      "added_at": "2024-02-09 16:39:41",
-      "album": {
         "name": "The Best Of Earth, Wind & Fire Vol. 1",
         "url": "https://open.spotify.com/album/2FW0uQ4WL25umm5p2VrZO7"
       },
@@ -1991,6 +1975,22 @@
       "duration_ms": 215093,
       "name": "September",
       "url": "https://open.spotify.com/track/2grjqo0Frpf2okIBiifQKs"
+    },
+    {
+      "added_at": "2024-02-09 16:39:41",
+      "album": {
+        "name": "Celebration (double disc version)",
+        "url": "https://open.spotify.com/album/43lok9zd7BW5CoYkXZs7S0"
+      },
+      "artists": [
+        {
+          "name": "Madonna",
+          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
+        }
+      ],
+      "duration_ms": 342680,
+      "name": "Like a Prayer",
+      "url": "https://open.spotify.com/track/1z3ugFmUKoCzGsI6jdY4Ci"
     },
     {
       "added_at": "2024-02-09 16:39:41",
@@ -2067,22 +2067,6 @@
     {
       "added_at": "2024-02-09 16:39:41",
       "album": {
-        "name": "M\u00e1s",
-        "url": "https://open.spotify.com/album/3MfNbOJuFb5H4CjrT49oiI"
-      },
-      "artists": [
-        {
-          "name": "Alejandro Sanz",
-          "url": "https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF"
-        }
-      ],
-      "duration_ms": 343413,
-      "name": "Coraz\u00f3n part\u00edo",
-      "url": "https://open.spotify.com/track/0wQCKR9OFjYu5Kzrk7WivJ"
-    },
-    {
-      "added_at": "2024-02-09 16:39:41",
-      "album": {
         "name": "The Sign",
         "url": "https://open.spotify.com/album/5UwIyIyFzkM7wKeGtRJPgB"
       },
@@ -2095,6 +2079,22 @@
       "duration_ms": 191240,
       "name": "The Sign",
       "url": "https://open.spotify.com/track/0hrBpAOgrt8RXigk83LLNE"
+    },
+    {
+      "added_at": "2024-02-09 16:39:41",
+      "album": {
+        "name": "M\u00e1s",
+        "url": "https://open.spotify.com/album/3MfNbOJuFb5H4CjrT49oiI"
+      },
+      "artists": [
+        {
+          "name": "Alejandro Sanz",
+          "url": "https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF"
+        }
+      ],
+      "duration_ms": 343413,
+      "name": "Coraz\u00f3n part\u00edo",
+      "url": "https://open.spotify.com/track/0wQCKR9OFjYu5Kzrk7WivJ"
     },
     {
       "added_at": "2024-02-09 16:39:41",
@@ -2179,6 +2179,22 @@
     {
       "added_at": "2024-02-09 16:39:41",
       "album": {
+        "name": "Top Gun - Motion Picture Soundtrack (Special Expanded Edition)",
+        "url": "https://open.spotify.com/album/6K8iDZW8jPaoiqSzFFebJA"
+      },
+      "artists": [
+        {
+          "name": "Berlin",
+          "url": "https://open.spotify.com/artist/2aS6jYh7ysTL1ZUsHneNgM"
+        }
+      ],
+      "duration_ms": 255733,
+      "name": "Take My Breath Away - Love Theme from \"Top Gun\"",
+      "url": "https://open.spotify.com/track/15MJ5NThPjj6xhPcts8MiY"
+    },
+    {
+      "added_at": "2024-02-09 16:39:41",
+      "album": {
         "name": "Good Girl Gone Bad",
         "url": "https://open.spotify.com/album/4OXnPSBtZo8PBFiTOfuumP"
       },
@@ -2195,22 +2211,6 @@
       "duration_ms": 275986,
       "name": "Umbrella",
       "url": "https://open.spotify.com/track/2yPoXCs7BSIUrucMdK5PzV"
-    },
-    {
-      "added_at": "2024-02-09 16:39:41",
-      "album": {
-        "name": "Top Gun - Motion Picture Soundtrack (Special Expanded Edition)",
-        "url": "https://open.spotify.com/album/6K8iDZW8jPaoiqSzFFebJA"
-      },
-      "artists": [
-        {
-          "name": "Berlin",
-          "url": "https://open.spotify.com/artist/2aS6jYh7ysTL1ZUsHneNgM"
-        }
-      ],
-      "duration_ms": 255733,
-      "name": "Take My Breath Away - Love Theme from \"Top Gun\"",
-      "url": "https://open.spotify.com/track/15MJ5NThPjj6xhPcts8MiY"
     },
     {
       "added_at": "2024-02-09 16:39:41",
@@ -2383,26 +2383,6 @@
     {
       "added_at": "2024-02-09 16:39:41",
       "album": {
-        "name": "Blue (Da Ba Dee)",
-        "url": "https://open.spotify.com/album/3j90eFnVFEYzOVt024QCTf"
-      },
-      "artists": [
-        {
-          "name": "Eiffel 65",
-          "url": "https://open.spotify.com/artist/64rxQRJsLgZwHHyWKB8fiF"
-        },
-        {
-          "name": "Gabry Ponte",
-          "url": "https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D"
-        }
-      ],
-      "duration_ms": 283747,
-      "name": "Blue (Da Ba Dee) - Gabry Ponte Ice Pop Radio",
-      "url": "https://open.spotify.com/track/5QRAfvKPyQpwt897Jc0glg"
-    },
-    {
-      "added_at": "2024-02-09 16:39:41",
-      "album": {
         "name": "Donde Estan Los Ladrones",
         "url": "https://open.spotify.com/album/5hcKSTqKOLuzJgYIQileAe"
       },
@@ -2467,22 +2447,6 @@
     {
       "added_at": "2024-02-09 16:39:41",
       "album": {
-        "name": "Desde Abajo",
-        "url": "https://open.spotify.com/album/7dhQWDiTlbp3Np8sdLMY3R"
-      },
-      "artists": [
-        {
-          "name": "Mach & Daddy",
-          "url": "https://open.spotify.com/artist/5Q1vijNjTVhQBoVrZVXms8"
-        }
-      ],
-      "duration_ms": 177293,
-      "name": "La Botella",
-      "url": "https://open.spotify.com/track/3dtGHZyEGmKSmQoAPcbvyb"
-    },
-    {
-      "added_at": "2024-02-09 16:39:41",
-      "album": {
         "name": "Nothing but the Beat 2.0",
         "url": "https://open.spotify.com/album/5aprcHwM1KJhaY9Kbxkfkn"
       },
@@ -2499,6 +2463,22 @@
       "duration_ms": 245040,
       "name": "Titanium (feat. Sia)",
       "url": "https://open.spotify.com/track/0lHAMNU8RGiIObScrsRgmP"
+    },
+    {
+      "added_at": "2024-02-09 16:39:41",
+      "album": {
+        "name": "Desde Abajo",
+        "url": "https://open.spotify.com/album/7dhQWDiTlbp3Np8sdLMY3R"
+      },
+      "artists": [
+        {
+          "name": "Mach & Daddy",
+          "url": "https://open.spotify.com/artist/5Q1vijNjTVhQBoVrZVXms8"
+        }
+      ],
+      "duration_ms": 177293,
+      "name": "La Botella",
+      "url": "https://open.spotify.com/track/3dtGHZyEGmKSmQoAPcbvyb"
     },
     {
       "added_at": "2024-02-09 16:39:41",
@@ -2675,6 +2655,22 @@
     {
       "added_at": "2024-02-09 16:39:41",
       "album": {
+        "name": "Que El Cielo Espere Sentao..",
+        "url": "https://open.spotify.com/album/1nRo70xzejpUW36UNp0ZF8"
+      },
+      "artists": [
+        {
+          "name": "Melendi",
+          "url": "https://open.spotify.com/artist/1EXjXQpDx2pROygh8zvHs4"
+        }
+      ],
+      "duration_ms": 211680,
+      "name": "Caminando por la vida",
+      "url": "https://open.spotify.com/track/3v1dCP3hk2djfWryqfp7sx"
+    },
+    {
+      "added_at": "2024-02-09 16:39:41",
+      "album": {
         "name": "I AM...SASHA FIERCE",
         "url": "https://open.spotify.com/album/39P7VD7qlg3Z0ltq60eHp7"
       },
@@ -2687,6 +2683,22 @@
       "duration_ms": 193213,
       "name": "Single Ladies (Put a Ring on It)",
       "url": "https://open.spotify.com/track/5R9a4t5t5O0IsznsrKPVro"
+    },
+    {
+      "added_at": "2024-02-09 16:39:41",
+      "album": {
+        "name": "Para La Eternidad",
+        "url": "https://open.spotify.com/album/2MSP1JG7KflqYqAHtk7wlB"
+      },
+      "artists": [
+        {
+          "name": "Celia Cruz",
+          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
+        }
+      ],
+      "duration_ms": 278866,
+      "name": "La Vida Es Un Carnaval",
+      "url": "https://open.spotify.com/track/1BwrMGGhPA6GarWIYaFrW8"
     },
     {
       "added_at": "2024-02-09 16:39:41",
@@ -2715,62 +2727,6 @@
       "duration_ms": 267960,
       "name": "Lady Marmalade - Single Edit",
       "url": "https://open.spotify.com/track/0PSZ9G584Ve27GK6ThlY6P"
-    },
-    {
-      "added_at": "2024-02-09 16:39:41",
-      "album": {
-        "name": "Que El Cielo Espere Sentao..",
-        "url": "https://open.spotify.com/album/1nRo70xzejpUW36UNp0ZF8"
-      },
-      "artists": [
-        {
-          "name": "Melendi",
-          "url": "https://open.spotify.com/artist/1EXjXQpDx2pROygh8zvHs4"
-        }
-      ],
-      "duration_ms": 211680,
-      "name": "Caminando por la vida",
-      "url": "https://open.spotify.com/track/3v1dCP3hk2djfWryqfp7sx"
-    },
-    {
-      "added_at": "2024-02-09 16:39:41",
-      "album": {
-        "name": "Para La Eternidad",
-        "url": "https://open.spotify.com/album/2MSP1JG7KflqYqAHtk7wlB"
-      },
-      "artists": [
-        {
-          "name": "Celia Cruz",
-          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
-        }
-      ],
-      "duration_ms": 278866,
-      "name": "La Vida Es Un Carnaval",
-      "url": "https://open.spotify.com/track/1BwrMGGhPA6GarWIYaFrW8"
-    },
-    {
-      "added_at": "2024-02-09 16:39:41",
-      "album": {
-        "name": "SEX AND LOVE (Deluxe)",
-        "url": "https://open.spotify.com/album/2kZkiVn1m00XcgaWlLb2LD"
-      },
-      "artists": [
-        {
-          "name": "Enrique Iglesias",
-          "url": "https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw"
-        },
-        {
-          "name": "Descemer Bueno",
-          "url": "https://open.spotify.com/artist/5luyt0SUvGkDMY4ILP6Qhl"
-        },
-        {
-          "name": "Gente De Zona",
-          "url": "https://open.spotify.com/artist/2cy1zPcrFcXAJTP0APWewL"
-        }
-      ],
-      "duration_ms": 243413,
-      "name": "Bailando - Spanish Version",
-      "url": "https://open.spotify.com/track/32lm3769IRfcnrQV11LO4E"
     },
     {
       "added_at": "2024-02-09 16:39:41",
@@ -2819,6 +2775,30 @@
       "duration_ms": 226880,
       "name": "What's Love Got to Do with It",
       "url": "https://open.spotify.com/track/4kOfxxnW1ukZdsNbCKY9br"
+    },
+    {
+      "added_at": "2024-02-09 16:39:41",
+      "album": {
+        "name": "SEX AND LOVE (Deluxe)",
+        "url": "https://open.spotify.com/album/2kZkiVn1m00XcgaWlLb2LD"
+      },
+      "artists": [
+        {
+          "name": "Enrique Iglesias",
+          "url": "https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw"
+        },
+        {
+          "name": "Descemer Bueno",
+          "url": "https://open.spotify.com/artist/5luyt0SUvGkDMY4ILP6Qhl"
+        },
+        {
+          "name": "Gente De Zona",
+          "url": "https://open.spotify.com/artist/2cy1zPcrFcXAJTP0APWewL"
+        }
+      ],
+      "duration_ms": 243413,
+      "name": "Bailando - Spanish Version",
+      "url": "https://open.spotify.com/track/32lm3769IRfcnrQV11LO4E"
     },
     {
       "added_at": "2024-02-09 16:39:41",
@@ -2907,22 +2887,6 @@
     {
       "added_at": "2024-02-09 16:39:41",
       "album": {
-        "name": "Live Is Life",
-        "url": "https://open.spotify.com/album/6QFG7oroyUrjT0LeXHt7CD"
-      },
-      "artists": [
-        {
-          "name": "Opus",
-          "url": "https://open.spotify.com/artist/5pf1217gT8zcjOFc7oMi47"
-        }
-      ],
-      "duration_ms": 249500,
-      "name": "Live Is Life (Digitally Remastered) (Single Version)",
-      "url": "https://open.spotify.com/track/5luOvrlnzfvJQdQjrScVj4"
-    },
-    {
-      "added_at": "2024-02-09 16:39:41",
-      "album": {
         "name": "Estopa",
         "url": "https://open.spotify.com/album/5EiebUqlX025HxiCvVTsNs"
       },
@@ -2935,6 +2899,22 @@
       "duration_ms": 190626,
       "name": "Tu Calorro",
       "url": "https://open.spotify.com/track/0DXI6c9tNWsI4tvUftkQN8"
+    },
+    {
+      "added_at": "2024-02-09 16:39:41",
+      "album": {
+        "name": "Live Is Life",
+        "url": "https://open.spotify.com/album/6QFG7oroyUrjT0LeXHt7CD"
+      },
+      "artists": [
+        {
+          "name": "Opus",
+          "url": "https://open.spotify.com/artist/5pf1217gT8zcjOFc7oMi47"
+        }
+      ],
+      "duration_ms": 249500,
+      "name": "Live Is Life (Digitally Remastered) (Single Version)",
+      "url": "https://open.spotify.com/track/5luOvrlnzfvJQdQjrScVj4"
     },
     {
       "added_at": "2024-02-09 16:39:41",
@@ -2967,22 +2947,6 @@
       "duration_ms": 256933,
       "name": "Oye Como Va",
       "url": "https://open.spotify.com/track/5u6y4u5EgDv0peILf60H5t"
-    },
-    {
-      "added_at": "2024-02-09 16:39:41",
-      "album": {
-        "name": "Por la boca vive el pez",
-        "url": "https://open.spotify.com/album/5iW5yzlJsGBIfsemMr8v8y"
-      },
-      "artists": [
-        {
-          "name": "Fito y Fitipaldis",
-          "url": "https://open.spotify.com/artist/1tZ99AnqyjgrmPwLfGU5eo"
-        }
-      ],
-      "duration_ms": 269373,
-      "name": "Por la boca vive el pez",
-      "url": "https://open.spotify.com/track/24UStI5AYA7g5ufFDh3LH0"
     },
     {
       "added_at": "2024-02-09 16:39:41",
@@ -3039,6 +3003,38 @@
     {
       "added_at": "2024-02-09 16:39:41",
       "album": {
+        "name": "Por la boca vive el pez",
+        "url": "https://open.spotify.com/album/5iW5yzlJsGBIfsemMr8v8y"
+      },
+      "artists": [
+        {
+          "name": "Fito y Fitipaldis",
+          "url": "https://open.spotify.com/artist/1tZ99AnqyjgrmPwLfGU5eo"
+        }
+      ],
+      "duration_ms": 269373,
+      "name": "Por la boca vive el pez",
+      "url": "https://open.spotify.com/track/24UStI5AYA7g5ufFDh3LH0"
+    },
+    {
+      "added_at": "2024-02-09 16:39:41",
+      "album": {
+        "name": "Estopa",
+        "url": "https://open.spotify.com/album/5EiebUqlX025HxiCvVTsNs"
+      },
+      "artists": [
+        {
+          "name": "Estopa",
+          "url": "https://open.spotify.com/artist/5ZqnEfVdEGmoPxtELhN7ai"
+        }
+      ],
+      "duration_ms": 202826,
+      "name": "Por la Raja de Tu Falda",
+      "url": "https://open.spotify.com/track/5OaqffbeQyVVqtnA71Ci7K"
+    },
+    {
+      "added_at": "2024-02-09 16:39:41",
+      "album": {
         "name": "Reload",
         "url": "https://open.spotify.com/album/4cFoiStUR2uBHKKZUWtaBG"
       },
@@ -3071,22 +3067,6 @@
       "duration_ms": 217000,
       "name": "Princesas",
       "url": "https://open.spotify.com/track/3hlWUNjAlbZ6nOjAbrivBv"
-    },
-    {
-      "added_at": "2024-02-09 16:39:41",
-      "album": {
-        "name": "Estopa",
-        "url": "https://open.spotify.com/album/5EiebUqlX025HxiCvVTsNs"
-      },
-      "artists": [
-        {
-          "name": "Estopa",
-          "url": "https://open.spotify.com/artist/5ZqnEfVdEGmoPxtELhN7ai"
-        }
-      ],
-      "duration_ms": 202826,
-      "name": "Por la Raja de Tu Falda",
-      "url": "https://open.spotify.com/track/5OaqffbeQyVVqtnA71Ci7K"
     },
     {
       "added_at": "2024-02-09 16:39:41",
@@ -3267,6 +3247,22 @@
     {
       "added_at": "2024-02-09 16:39:41",
       "album": {
+        "name": "Zapatillas",
+        "url": "https://open.spotify.com/album/3dToFs6qDSWkR1HttqgpnF"
+      },
+      "artists": [
+        {
+          "name": "El Canto Del Loco",
+          "url": "https://open.spotify.com/artist/5RK6c1tyaKpwcDpbgCGNgj"
+        }
+      ],
+      "duration_ms": 145826,
+      "name": "Besos",
+      "url": "https://open.spotify.com/track/7MKO7rUZzjw8p87zdZDgqa"
+    },
+    {
+      "added_at": "2024-02-09 16:39:41",
+      "album": {
         "name": "Lunas rotas",
         "url": "https://open.spotify.com/album/3iZk2FY3YtnSNjx06Ft8Xg"
       },
@@ -3299,22 +3295,6 @@
     {
       "added_at": "2024-02-09 16:39:41",
       "album": {
-        "name": "Zapatillas",
-        "url": "https://open.spotify.com/album/3dToFs6qDSWkR1HttqgpnF"
-      },
-      "artists": [
-        {
-          "name": "El Canto Del Loco",
-          "url": "https://open.spotify.com/artist/5RK6c1tyaKpwcDpbgCGNgj"
-        }
-      ],
-      "duration_ms": 145826,
-      "name": "Besos",
-      "url": "https://open.spotify.com/track/7MKO7rUZzjw8p87zdZDgqa"
-    },
-    {
-      "added_at": "2024-02-09 16:39:41",
-      "album": {
         "name": "Brothers in Arms",
         "url": "https://open.spotify.com/album/7jvcSnCnugLcisBCNBm60s"
       },
@@ -3343,6 +3323,22 @@
       "duration_ms": 223186,
       "name": "Marta, Sebas, Guille y los dem\u00e1s",
       "url": "https://open.spotify.com/track/30ddpolNHwXlrS5XO8MiiO"
+    },
+    {
+      "added_at": "2024-02-09 16:39:41",
+      "album": {
+        "name": "KC & the Sunshine Band",
+        "url": "https://open.spotify.com/album/6S2ZnQo8V7k7EQZZEK3WcR"
+      },
+      "artists": [
+        {
+          "name": "KC & The Sunshine Band",
+          "url": "https://open.spotify.com/artist/3mQBpAOMWYqAZyxtyeo4Lo"
+        }
+      ],
+      "duration_ms": 185106,
+      "name": "That's the Way (I Like It) - 2004 Remaster",
+      "url": "https://open.spotify.com/track/1qiQduM84A0VeH8Y2uAbqi"
     }
   ],
   "unique_name": "Karaoke 2024",

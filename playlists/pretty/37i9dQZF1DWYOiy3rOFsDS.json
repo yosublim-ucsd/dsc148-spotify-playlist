@@ -1,12 +1,12 @@
 {
   "description": "Romance a la antig\u00fcita con \u00c1ngela Aguilar en portada.",
-  "num_followers": 534328,
+  "num_followers": 534405,
   "original_name": "Boleros Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5ZmJmNDVhNjk3YjZlZjhlOWRmNjUzMWI1OGZhNmE1MDMyYjlkZjhk",
+  "snapshot_id": "MCxkN2NlZWJmYTI2YjZjMjE4ODIxMjgyMWY2YzQwM2Q4YzUwMTJhOTE5",
   "tracks": [
     {
       "added_at": "2024-02-16 06:00:00",
@@ -1535,6 +1535,22 @@
     {
       "added_at": "2024-02-16 06:00:00",
       "album": {
+        "name": "Laura Itandehui",
+        "url": "https://open.spotify.com/album/4LS3jrPzt2givh5P1n98Ot"
+      },
+      "artists": [
+        {
+          "name": "Laura Itandehui",
+          "url": "https://open.spotify.com/artist/3uxDXFazxpQa87VTMJAdcK"
+        }
+      ],
+      "duration_ms": 264440,
+      "name": "Tiempo al Tiempo",
+      "url": "https://open.spotify.com/track/3NItdQWWv3UkO0DPHrgFDl"
+    },
+    {
+      "added_at": "2024-02-16 06:00:00",
+      "album": {
         "name": "Keep\u00b4n Love",
         "url": "https://open.spotify.com/album/0N9RVBNuATxlMX1PCCK3dc"
       },
@@ -1551,18 +1567,22 @@
     {
       "added_at": "2024-02-16 06:00:00",
       "album": {
-        "name": "Laura Itandehui",
-        "url": "https://open.spotify.com/album/4LS3jrPzt2givh5P1n98Ot"
+        "name": "Tu Amor No Vale un Bolero",
+        "url": "https://open.spotify.com/album/66x0bo3TSXpCZLKMF4NjzQ"
       },
       "artists": [
         {
-          "name": "Laura Itandehui",
-          "url": "https://open.spotify.com/artist/3uxDXFazxpQa87VTMJAdcK"
+          "name": "Pilar Cabrera",
+          "url": "https://open.spotify.com/artist/5gutZJ2QQFov3bjvQftsva"
+        },
+        {
+          "name": "Lorena Jimenez",
+          "url": "https://open.spotify.com/artist/4DdnLfUESB3baPYYdT0sNu"
         }
       ],
-      "duration_ms": 264440,
-      "name": "Tiempo al Tiempo",
-      "url": "https://open.spotify.com/track/3NItdQWWv3UkO0DPHrgFDl"
+      "duration_ms": 206710,
+      "name": "Tu Amor No Vale un Bolero",
+      "url": "https://open.spotify.com/track/0hKJCsS3XUVEECfslnauKv"
     },
     {
       "added_at": "2024-02-16 06:00:00",
@@ -1587,22 +1607,22 @@
     {
       "added_at": "2024-02-16 06:00:00",
       "album": {
-        "name": "Tu Amor No Vale un Bolero",
-        "url": "https://open.spotify.com/album/66x0bo3TSXpCZLKMF4NjzQ"
+        "name": "Tu Camisa",
+        "url": "https://open.spotify.com/album/6fYQvDMkyLG4g0WruzRBbV"
       },
       "artists": [
         {
-          "name": "Pilar Cabrera",
-          "url": "https://open.spotify.com/artist/5gutZJ2QQFov3bjvQftsva"
+          "name": "Escarlata",
+          "url": "https://open.spotify.com/artist/6eDMcSQvrGt2zoVFSIwmgZ"
         },
         {
-          "name": "Lorena Jimenez",
-          "url": "https://open.spotify.com/artist/4DdnLfUESB3baPYYdT0sNu"
+          "name": "Shantty",
+          "url": "https://open.spotify.com/artist/0CkTbu5dfB2RWaQWzE2cDd"
         }
       ],
-      "duration_ms": 206710,
-      "name": "Tu Amor No Vale un Bolero",
-      "url": "https://open.spotify.com/track/0hKJCsS3XUVEECfslnauKv"
+      "duration_ms": 188139,
+      "name": "Tu Camisa",
+      "url": "https://open.spotify.com/track/6ZbiPemrNyXHLHLZ8Bf85y"
     },
     {
       "added_at": "2024-02-16 06:00:00",
@@ -1639,26 +1659,6 @@
       "duration_ms": 197000,
       "name": "Noche Sensacional",
       "url": "https://open.spotify.com/track/6L2rOHvZAwPCp2FqYmyvZ5"
-    },
-    {
-      "added_at": "2024-02-16 06:00:00",
-      "album": {
-        "name": "Tu Camisa",
-        "url": "https://open.spotify.com/album/6fYQvDMkyLG4g0WruzRBbV"
-      },
-      "artists": [
-        {
-          "name": "Escarlata",
-          "url": "https://open.spotify.com/artist/6eDMcSQvrGt2zoVFSIwmgZ"
-        },
-        {
-          "name": "Shantty",
-          "url": "https://open.spotify.com/artist/0CkTbu5dfB2RWaQWzE2cDd"
-        }
-      ],
-      "duration_ms": 188139,
-      "name": "Tu Camisa",
-      "url": "https://open.spotify.com/track/6ZbiPemrNyXHLHLZ8Bf85y"
     },
     {
       "added_at": "2024-02-16 06:00:00",
@@ -1779,22 +1779,6 @@
     {
       "added_at": "2024-02-16 06:00:00",
       "album": {
-        "name": "Apasionadamente",
-        "url": "https://open.spotify.com/album/0xgN5G0w8qGlw1onYHHdks"
-      },
-      "artists": [
-        {
-          "name": "Mel Mu\u00f1iz",
-          "url": "https://open.spotify.com/artist/05NEGCiyDYaJtcPiagl46Y"
-        }
-      ],
-      "duration_ms": 180588,
-      "name": "Apasionadamente",
-      "url": "https://open.spotify.com/track/7a1Ftd97mqW58rBQmqwPel"
-    },
-    {
-      "added_at": "2024-02-16 06:00:00",
-      "album": {
         "name": "En las Noches",
         "url": "https://open.spotify.com/album/2CPuqoB1XiRqOmmX6MUa5e"
       },
@@ -1807,6 +1791,22 @@
       "duration_ms": 239412,
       "name": "En las Noches",
       "url": "https://open.spotify.com/track/6rs3m0e1GYVFjLQaUXAiZ6"
+    },
+    {
+      "added_at": "2024-02-16 06:00:00",
+      "album": {
+        "name": "Apasionadamente",
+        "url": "https://open.spotify.com/album/0xgN5G0w8qGlw1onYHHdks"
+      },
+      "artists": [
+        {
+          "name": "Mel Mu\u00f1iz",
+          "url": "https://open.spotify.com/artist/05NEGCiyDYaJtcPiagl46Y"
+        }
+      ],
+      "duration_ms": 180588,
+      "name": "Apasionadamente",
+      "url": "https://open.spotify.com/track/7a1Ftd97mqW58rBQmqwPel"
     }
   ],
   "unique_name": "Boleros Pop",

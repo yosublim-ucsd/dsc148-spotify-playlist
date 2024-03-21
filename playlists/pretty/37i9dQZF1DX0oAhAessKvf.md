@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0oAhAessKvf.md) - [plain]
 
 > La calle temblaba con los primeros pasos del reggaetón\. Foto: El General
 
-[Spotify](https://open.spotify.com/user/spotify) - 115,266 likes - 75 songs - 4 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 115,315 likes - 75 songs - 4 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Muévelo](https://open.spotify.com/track/2oZLIxCH4U7a5uc307IFLp) | [El General](https://open.spotify.com/artist/1fqHLAKthJsVYcukjFrroK) | [Originales](https://open.spotify.com/album/3WjM6QkoJqU2VsVMfI05xJ) | 4:04 |
-| 2 | [Mis Ojos Lloran Por Ti](https://open.spotify.com/track/4fFgpzgSkmn3wajioLBPOr) | [Big Boy](https://open.spotify.com/artist/5bVQN1TENxjVjWXNHHpflG), [Angel Lopez](https://open.spotify.com/artist/0w57qOEVTcqs0bLyFJ7Q52) | [Mis Ojos Lloran Por Ti](https://open.spotify.com/album/5o36XrjVl3YdBYqt0p57Gc) | 4:55 |
-| 3 | [En La Cama \(feat\. Daddy Yankee\)](https://open.spotify.com/track/2Eg6dOam7cAe5turf2bnCg) | [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT), [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m) | [Exitos](https://open.spotify.com/album/2qSyMVTIKLArOx4GNcvutB) | 2:37 |
+| 2 | [En La Cama \(feat\. Daddy Yankee\)](https://open.spotify.com/track/2Eg6dOam7cAe5turf2bnCg) | [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT), [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m) | [Exitos](https://open.spotify.com/album/2qSyMVTIKLArOx4GNcvutB) | 2:37 |
+| 3 | [Mis Ojos Lloran Por Ti](https://open.spotify.com/track/4fFgpzgSkmn3wajioLBPOr) | [Big Boy](https://open.spotify.com/artist/5bVQN1TENxjVjWXNHHpflG), [Angel Lopez](https://open.spotify.com/artist/0w57qOEVTcqs0bLyFJ7Q52) | [Mis Ojos Lloran Por Ti](https://open.spotify.com/album/5o36XrjVl3YdBYqt0p57Gc) | 4:55 |
 | 4 | [Murder She Wrote](https://open.spotify.com/track/1HGyhNaRUFEDBiVLbvtbL6) | [Chaka Demus & Pliers](https://open.spotify.com/artist/6RQkaOWddQmiLLJqSgnTbm) | [Tease Me](https://open.spotify.com/album/6GTzBIyPe32G2mXBaYSqYY) | 4:05 |
 | 5 | [Dame Tu Cosita \(feat\. Cutty Ranks\)](https://open.spotify.com/track/09SNuR471zu5nVvC4IVG8j) | [El Chombo](https://open.spotify.com/artist/6iSZjc4kOoKZKiBXK5HbwD), [Cutty Ranks](https://open.spotify.com/artist/4qDGDPGMIJuIvPfUGe0Ngg) | [Dame Tu Cosita \(feat\. Cutty Ranks\)](https://open.spotify.com/album/4m7Sk8wXLo4bi8xVZQ6O22) | 2:32 |
 | 6 | [Rica y Apretadita \(feat\. Anayka\)](https://open.spotify.com/track/2XRqhe4lmCQVaUWawR5wRo) | [El General](https://open.spotify.com/artist/1fqHLAKthJsVYcukjFrroK), [Anayka](https://open.spotify.com/artist/2LxuBen9oGUGMy3UamvOQV) | [Originales](https://open.spotify.com/album/3WjM6QkoJqU2VsVMfI05xJ) | 4:21 |
@@ -51,8 +51,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0oAhAessKvf.md) - [plain]
 | 41 | [Playero Street Mix 2 Radio Version](https://open.spotify.com/track/1iyS2ur2NqtiwQTSWHZq5Q) | [Alberto Stylee](https://open.spotify.com/artist/5mgqYTU6dhKlEdi7DOy4uU), [Blanco](https://open.spotify.com/artist/2R2C8r0t9p98AnGzUnOLAe), [Chesina](https://open.spotify.com/artist/4drWsJ0fgeZ4fcMJ8MR8Zr), [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m), [Mexicano](https://open.spotify.com/artist/62U9TXZx2SxvIoxXHtHlzR), [Micol y Manuel](https://open.spotify.com/artist/7nuJDLQzYGL3L1OJiCw5qp), [Playero](https://open.spotify.com/artist/2YTyoyU90b3CF5x91YjVaQ) | [Underground Reggaeton "The Best Of Radio Version", Vol\. 1](https://open.spotify.com/album/0GHlZQPbwecsZ30EiAihMc) | 4:33 |
 | 42 | [Voltio \(Live\)](https://open.spotify.com/track/3DneCEkBhWz7Qy92mcNzW0) | [Voltio](https://open.spotify.com/artist/3Okcq0dqLVlEFHRZ5t22bA) | [No Fear Live](https://open.spotify.com/album/3Q682W4ilQpUfwbFJwap4f) | 3:01 |
 | 43 | [Donde Mi No Vengas](https://open.spotify.com/track/3dsbpGfTrORNIo1aVCyS1q) | [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m), [Playero](https://open.spotify.com/artist/2YTyoyU90b3CF5x91YjVaQ) | [Playero Dj Presenta Exitos '95 / 17Th Anniversary \(Underground Reggaeton Edition\)](https://open.spotify.com/album/1Sd1MeGVmcy4OHZq1svbdm) | 2:04 |
-| 44 | [Maniatica Sexual](https://open.spotify.com/track/2zzklcpDAS1ryizQj83uRy) | [Lito y Polaco](https://open.spotify.com/artist/1CLPoZyoqBo2z444JtmBAF) | [Sandunguero](https://open.spotify.com/album/1pfyZxMl8mNIxvJoz1E6sV) | 2:57 |
-| 45 | [Mujeres](https://open.spotify.com/track/0rLJYPOKXUe2TfngVgH0eB) | [Dj Joe](https://open.spotify.com/artist/3mOpXyQgTwyCxIjz9EEIFN) | [Fatal Fantassy](https://open.spotify.com/album/5KjlY2iLyL9qaexUbxTGeo) | 2:52 |
+| 44 | [Mujeres](https://open.spotify.com/track/0rLJYPOKXUe2TfngVgH0eB) | [Dj Joe](https://open.spotify.com/artist/3mOpXyQgTwyCxIjz9EEIFN) | [Fatal Fantassy](https://open.spotify.com/album/5KjlY2iLyL9qaexUbxTGeo) | 2:52 |
+| 45 | [Maniatica Sexual](https://open.spotify.com/track/2zzklcpDAS1ryizQj83uRy) | [Lito y Polaco](https://open.spotify.com/artist/1CLPoZyoqBo2z444JtmBAF) | [Sandunguero](https://open.spotify.com/album/1pfyZxMl8mNIxvJoz1E6sV) | 2:57 |
 | 46 | [Liza Love](https://open.spotify.com/track/3Ct22HVsc9BMni7XKUIaKR) | [Frankie Boy](https://open.spotify.com/artist/7qoo1AvP85FXmN8cEwnBqN) | [Playero Dj Live](https://open.spotify.com/album/0dGDiFO2IAhxCUGzN2nRig) | 1:41 |
 | 47 | [Luna y Estrellas](https://open.spotify.com/track/2srDyKCj9JJ0Iwvwdl8xj8) | [El Chombo](https://open.spotify.com/artist/6iSZjc4kOoKZKiBXK5HbwD), [Jimmy Bad Boy](https://open.spotify.com/artist/5KQIqm4ZbWSfcrWuzGBI9r) | [A Mover el Culo Con el Chombo](https://open.spotify.com/album/0dGcHWlzgWsN4bMc4DXq9Y) | 3:10 |
 | 48 | [A Mi Me Gusta](https://open.spotify.com/track/46aYwWPK8JEwhJJ9arlQM9) | [Alberto Stylee](https://open.spotify.com/artist/5mgqYTU6dhKlEdi7DOy4uU) | [Los Dueños De La Disco Clasico](https://open.spotify.com/album/4rVTwbTlIJsw4Gw9Y4bOZY) | 3:17 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0oAhAessKvf.md) - [plain]
 | 74 | [Encendio](https://open.spotify.com/track/4vxPk9bmTGfkNE8wV5annp) | [Falo](https://open.spotify.com/artist/5QfKUbR3EOkfzKoDNBV3xJ) | [Sandunguero](https://open.spotify.com/album/1pfyZxMl8mNIxvJoz1E6sV) | 2:46 |
 | 75 | [Alza la Mano Si Te Gusta Fumar](https://open.spotify.com/track/0m6giBF179ViIADfkXcLkQ) | [The Noise](https://open.spotify.com/artist/0xbdsXms9xTAtNmROodyy8), [Baby J](https://open.spotify.com/artist/0CXKthoKqF82onOw8RB6pA) | [The Beginning](https://open.spotify.com/album/3nqohzl5qqylbTrIu3PIB7) | 3:10 |
 
-Snapshot ID: `MCxmYWQ3ZDRjOTU1ZmM0NWYzM2I4ODU2OWJlZWZiNjg1OTYzNGVlNWZh`
+Snapshot ID: `MCw5ZmUxNjUwMjdmYWVkMWM4MDM2ZDk3MGVmZWU2YTU4OGFjYTI1YzFm`

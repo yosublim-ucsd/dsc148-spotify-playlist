@@ -4,7 +4,7 @@
 
 > Let's party & clubbing with your favorite K\-pop dance hits!! \(Cover: LE SSERAFIM\) \[지금 가장 핫한 댄스곡들을 만나보세요.\]
 
-660 songs - 1 day 11 hr 59 min
+661 songs - 1 day 12 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -263,7 +263,7 @@
 | [Good Boy Gone Bad](https://open.spotify.com/track/1HsSIPLTQT354yJcQGfEY3) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [minisode 2: Thursday's Child](https://open.spotify.com/album/1o8jYrnyZueTPIdhlHuTc8) | 3:11 | 2022-05-11 | 2023-06-20 |
 | [Good Morning](https://open.spotify.com/track/4zXbnTwqwQcRdDILZVKZSQ) | [YENA](https://open.spotify.com/artist/49muoiIu4uea4PO8vueUNN) | [GOOD MORNING](https://open.spotify.com/album/1kfvY0GjQJhhDNjTpy7xOs) | 3:04 | 2024-03-15 |  |
 | [Good To Be Alive](https://open.spotify.com/track/17o3AVR4saREMNmMYfD5h9) | [HYO](https://open.spotify.com/artist/3U7bOaJLuFkrmDQ1C1OqKl), [KEY](https://open.spotify.com/artist/6XXKPxRX2WWPPtfodzpc2v), [CHEN](https://open.spotify.com/artist/0UEP2XBR9aC5NBKcAKnBIq), [JOHNNY](https://open.spotify.com/artist/7Gt75izt6biWaQDeWN9jF2), [NINGNING](https://open.spotify.com/artist/5t1uryofgueHrjrryqX8vM), [GINJO](https://open.spotify.com/artist/75vTLAnhUDaUwzjPCKvaJM), [Raiden](https://open.spotify.com/artist/4YXNoMVTHRt01jYaKXTumJ), [IMLAY](https://open.spotify.com/artist/4b7ZEkk5uXPlwX2IPuV7Q2), [Mar Vista](https://open.spotify.com/artist/52jyvbzmj80qTr2NEWhczo) | [2022 Winter SMTOWN : SMCU PALACE](https://open.spotify.com/album/1HwnXJfZx8N8qDfzwUbxcw) | 3:22 | 2023-05-01 | 2023-05-10 |
-| [GOOD VIBES](https://open.spotify.com/track/2MpJ3KdQiwCw5NOIs5j0Rg) | [Chad Future](https://open.spotify.com/artist/7FOqtptgmy8wtpNrzXcYOT), [Kyung dasom](https://open.spotify.com/artist/6ye5C0aCtNApMSefJTzdj1) | [GOOD VIBES](https://open.spotify.com/album/75YhMYc4lGw8BN4AWcHoSj) | 2:59 | 2024-03-15 |  |
+| [GOOD VIBES](https://open.spotify.com/track/2MpJ3KdQiwCw5NOIs5j0Rg) | [Chad Future](https://open.spotify.com/artist/7FOqtptgmy8wtpNrzXcYOT), [Kyung dasom](https://open.spotify.com/artist/6ye5C0aCtNApMSefJTzdj1) | [GOOD VIBES](https://open.spotify.com/album/75YhMYc4lGw8BN4AWcHoSj) | 2:59 | 2024-03-15 | 2024-03-21 |
 | [Goosebumps](https://open.spotify.com/track/2pePK7PBUDcnmjhrNk26Gp) | [ONF](https://open.spotify.com/artist/0eEhOgZ2x6kv8kLz77WO7b) | [6TH MINI ALBUM \[Goosebumps\]](https://open.spotify.com/album/3vVDoPJZvuNXuyiyKRnUsV) | 3:05 | 2022-03-29 | 2022-04-12 |
 | [Got That Boom](https://open.spotify.com/track/0DeQ1opuBngW7CapWLfa2q) | [SECRET NUMBER](https://open.spotify.com/artist/7qxo9RTWfEoFKN7XGtNV6V) | [Got That Boom](https://open.spotify.com/album/4nm8wEyl4QruhHqvJRxZOo) | 3:25 | 2021-12-29 | 2022-04-18 |
 | [GOTTA GO](https://open.spotify.com/track/7Gb3K6a2YyJTf7j0UTf9jJ) | [SOYOU](https://open.spotify.com/artist/3b4kLCI0ZJW47TFsNRqgCb) | [GOTTA GO](https://open.spotify.com/album/5e8KAB3PANlikarQhJnLUu) | 3:26 | 2022-04-05 | 2022-04-17 |
@@ -631,6 +631,7 @@
 | [Waves \(feat\. Simon Dominic & Jamie\)](https://open.spotify.com/track/6fXesHsuCFf80vYzDP26J5) | [KANG DANIEL](https://open.spotify.com/artist/5vGoWnZO65NBgiZYBmi3iW), [Simon Dominic](https://open.spotify.com/artist/57W9ikVc6O2wLDtmclSjvN), [JAMIE](https://open.spotify.com/artist/2YXlVLKq3X3soXd2aXUtIT) | [Waves \(feat\. Simon Dominic & Jamie\)](https://open.spotify.com/album/5ZwfFVBuxVS2lbbDR8vtDk) | 2:44 | 2022-03-29 | 2022-04-14 |
 | [Way Back Home](https://open.spotify.com/track/3NxuezMdSLgt4OwHzBoUhL) | [SHAUN](https://open.spotify.com/artist/72nLe76yBFSlP6VBzME358) | [Take](https://open.spotify.com/album/1NgwpxtZFd1x4DbC74V9bO) | 3:34 | 2021-12-29 | 2022-07-23 |
 | [We DO](https://open.spotify.com/track/2y3RsLPUpPcMUdzluiJtNE) | [SuperM](https://open.spotify.com/artist/5BHFSMEjfLVx1JwRWjAOsE) | [We DO](https://open.spotify.com/album/2O4FwZ1cE8PHsP0PAf6Vtr) | 3:41 | 2021-12-29 | 2022-06-21 |
+| [We Don’t Stop](https://open.spotify.com/track/67ZvVtW278IHsAxnzglQt4) | [xikers](https://open.spotify.com/artist/6QHP8St0MzfNDqjKpwtMht) | [HOUSE OF TRICKY : Trial And Error](https://open.spotify.com/album/4JyXIbXVhgzCa7DU0K6V1O) | 3:09 | 2024-03-20 |  |
 | [WE GO](https://open.spotify.com/track/7oQqeRSV38YqkRv2UGvmbS) | [fromis\_9](https://open.spotify.com/artist/24nUVBIlCGi4twz4nYxJum) | [9 WAY TICKET](https://open.spotify.com/album/5DPggk2zBmJYqtaUyLOlVW) | 2:55 | 2022-01-25 | 2022-06-24 |
 | [We Go Up](https://open.spotify.com/track/26vOBLHS116a4WNUVlvAUW) | [NCT DREAM](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) | [We Go Up](https://open.spotify.com/album/0pIWpPef8UFx8iQ5KSZsYj) | 3:03 | 2022-01-25 | 2022-04-11 |
 | [We Ride](https://open.spotify.com/track/6kH1sKkvgN4Yikake52glq) | [Brave Girls](https://open.spotify.com/artist/7t5H3uQv0Zw6cQUnSTF5BB) | [We Ride](https://open.spotify.com/album/3iBrnwcIhtRrpRXirqxx8W) | 3:09 | 2022-03-24 | 2022-04-20 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1nqy6pUAoUv.md) - [plain]
 
 > New music and recent favorites from rising and iconic songsmiths and storytellers\. Cover: Rhiannon Giddens
 
-[Spotify](https://open.spotify.com/user/spotify) - 180,178 likes - 100 songs - 6 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 180,203 likes - 100 songs - 6 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1nqy6pUAoUv.md) - [plain]
 | 44 | [Transformation](https://open.spotify.com/track/6Be3lUnpeyCZTZZD8axsoM) | [Van Morrison](https://open.spotify.com/artist/44NX2ffIYHr6D4n7RaZF7A) | [Roll With The Punches](https://open.spotify.com/album/7iEgLiepZW1GHTfMuWumBG) | 3:31 |
 | 45 | [Save My Life \- Radio Edit](https://open.spotify.com/track/2s5QYW4Ls3GsxWKhEKGraJ) | [John Smith](https://open.spotify.com/artist/56GNqAFg9wJNTwcHsJhyS2) | [Save My Life \(Radio Edit\)](https://open.spotify.com/album/20BcK0UDu480rOworsrKLF) | 3:37 |
 | 46 | [Under the Concrete](https://open.spotify.com/track/0P3tGih9Q0WCRZObKwCujT) | [Joshua Burnside](https://open.spotify.com/artist/244AFgFclA9c1IcjWOAqoV) | [Into the Depths of Hell](https://open.spotify.com/album/7BMZsEBUvcUTxTjnhXbl9c) | 3:25 |
-| 47 | [Medicine Woman](https://open.spotify.com/track/3S9rZU1GDPhs8WNDv5HQSs) | [Robert Finley](https://open.spotify.com/artist/29mRqqZ15WaYjEsKNzcRkv) | [Goin' Platinum!](https://open.spotify.com/album/6M5DQTTp3zGaWOH6hXsYJV) | 2:37 |
-| 48 | [Love and Chains](https://open.spotify.com/track/5kQ69AMKeII7YLjdtTEmM9) | [Viv & Riley](https://open.spotify.com/artist/02eGekE35DrC5E0qH4kh3H) | [Vivian Leva & Riley Calcagno](https://open.spotify.com/album/3xwM9xDjO2nOTeC6VCwPUN) | 3:37 |
+| 47 | [Love and Chains](https://open.spotify.com/track/5kQ69AMKeII7YLjdtTEmM9) | [Viv & Riley](https://open.spotify.com/artist/02eGekE35DrC5E0qH4kh3H) | [Vivian Leva & Riley Calcagno](https://open.spotify.com/album/3xwM9xDjO2nOTeC6VCwPUN) | 3:37 |
+| 48 | [Medicine Woman](https://open.spotify.com/track/3S9rZU1GDPhs8WNDv5HQSs) | [Robert Finley](https://open.spotify.com/artist/29mRqqZ15WaYjEsKNzcRkv) | [Goin' Platinum!](https://open.spotify.com/album/6M5DQTTp3zGaWOH6hXsYJV) | 2:37 |
 | 49 | [Millennial](https://open.spotify.com/track/0UVjJZjlZiOB9pVd9wWABs) | [Aisha Badru](https://open.spotify.com/artist/3vsVCHUe68gqUMIZwaVUIK) | [Transcendence](https://open.spotify.com/album/4pJ1cAVfgvAIJLWLO0zpuQ) | 2:53 |
 | 50 | [Nightflyer](https://open.spotify.com/track/2Y6JBUc0T7EW2VAA1p9acN) | [Allison Russell](https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6) | [Nightflyer](https://open.spotify.com/album/0eINi61xfEo3l5Eeztkrzx) | 4:55 |
 | 51 | [Heart of Somebody](https://open.spotify.com/track/7jPSQZlOVALxgylW3ne4wH) | [Caroline Spence](https://open.spotify.com/artist/4De2r7QdHl1eZwnEnQ1IzE) | [Spades & Roses](https://open.spotify.com/album/4kMU5M6qBNCiw8Z5nVY4mq) | 3:32 |
@@ -82,14 +82,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1nqy6pUAoUv.md) - [plain]
 | 72 | [Too Late Babe](https://open.spotify.com/track/1WLsC1nDz2w78EpVRgLqWf) | [The Lowest Pair](https://open.spotify.com/artist/0q9jV5Ht9bBTX6pHgzRjRg) | [The Perfect Plan](https://open.spotify.com/album/2UeJbrZMJSAJ7qadAbEOuW) | 4:49 |
 | 73 | [Workin' Woman Blues](https://open.spotify.com/track/58KQWfgO3DEu4kHlsmQEXz) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [Pushin' Against A Stone](https://open.spotify.com/album/02ayfOwf2rHWQoQoP4PCwQ) | 3:05 |
 | 74 | [Wild Turkey](https://open.spotify.com/track/4aX4dqpYXTxRMTcjekxPyp) | [Amythyst Kiah](https://open.spotify.com/artist/1lhaaKpTyXOnjp79M3xYBl) | [Wild Turkey](https://open.spotify.com/album/7iaq4ZxNNKZl9v92lOxQ7N) | 4:32 |
-| 75 | [History Repeats](https://open.spotify.com/track/11rbkohh9XgnWneGQwROb7) | [Brittany Howard](https://open.spotify.com/artist/4XquDVA8pkg5Lx91No1JxB) | [Jaime](https://open.spotify.com/album/3eMBjJtKjZrTi0N9mg6IcR) | 3:04 |
-| 76 | [Believe](https://open.spotify.com/track/4nUXWGyJiovHzznNCQfqAW) | [Benjamin Booker](https://open.spotify.com/artist/7mZgBMpvaBziYQfc9TbJH5) | [Witness](https://open.spotify.com/album/3jkf9bFHemgq4Gt46DWBnY) | 3:54 |
+| 75 | [Believe](https://open.spotify.com/track/4nUXWGyJiovHzznNCQfqAW) | [Benjamin Booker](https://open.spotify.com/artist/7mZgBMpvaBziYQfc9TbJH5) | [Witness](https://open.spotify.com/album/3jkf9bFHemgq4Gt46DWBnY) | 3:54 |
+| 76 | [History Repeats](https://open.spotify.com/track/11rbkohh9XgnWneGQwROb7) | [Brittany Howard](https://open.spotify.com/artist/4XquDVA8pkg5Lx91No1JxB) | [Jaime](https://open.spotify.com/album/3eMBjJtKjZrTi0N9mg6IcR) | 3:04 |
 | 77 | [Lockdown On Date Night Tuesday](https://open.spotify.com/track/5l4KZmLaiImt906CJxl5nv) | [Ondara](https://open.spotify.com/artist/33saQZHi434TBuDAXbyU2W) | [Folk n’ Roll Vol\. 1: Tales Of Isolation](https://open.spotify.com/album/5rxYtc0dKFxROEin9UkD9d) | 5:03 |
 | 78 | [Freedom](https://open.spotify.com/track/32Eae9D5LH16lMQfsFVUaO) | [Rose Cousins](https://open.spotify.com/artist/3DIk8KcmVKTr4uGw3AuCtJ) | [Natural Conclusion](https://open.spotify.com/album/6gig8cKPfwtSWOSSbZxGS2) | 4:28 |
 | 79 | [The Morning Song](https://open.spotify.com/track/1idjvenidUlcO6e7rsqo9P) | [Drew Holcomb & The Neighbors](https://open.spotify.com/artist/4RwbDag6jWIYJnEGH6Wte9) | [Souvenir](https://open.spotify.com/album/2kDauY3LahKExPQgfdKGPY) | 4:38 |
 | 80 | [Black Sun](https://open.spotify.com/track/63UtBlg0KZZYueVi6r8DQp) | [Irma](https://open.spotify.com/artist/7KTLYKJhcUOMgNgayxBj9f) | [Black Sun](https://open.spotify.com/album/6b7USoPQHOlfaelSrPPVo9) | 3:26 |
-| 81 | [Blue Heron](https://open.spotify.com/track/4wtmy1jLQze3so4AYW7u0J) | [Sarah Jarosz](https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ) | [Blue Heron Suite](https://open.spotify.com/album/3FK0O5gu17HYHEtbelgZaV) | 4:28 |
-| 82 | [Broken Harvest](https://open.spotify.com/track/4RgMyZb1frf45zF2BSjMD4) | [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [Broken Harvest](https://open.spotify.com/album/3cw9LHQyTxAjwGbkJDewme) | 4:47 |
+| 81 | [Broken Harvest](https://open.spotify.com/track/4RgMyZb1frf45zF2BSjMD4) | [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [Broken Harvest](https://open.spotify.com/album/3cw9LHQyTxAjwGbkJDewme) | 4:47 |
+| 82 | [Blue Heron](https://open.spotify.com/track/4wtmy1jLQze3so4AYW7u0J) | [Sarah Jarosz](https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ) | [Blue Heron Suite](https://open.spotify.com/album/3FK0O5gu17HYHEtbelgZaV) | 4:28 |
 | 83 | [Calling Me Home \(with Francesco Turrisi\)](https://open.spotify.com/track/2C6qZqsYHMFuY0GopknQRr) | [Rhiannon Giddens](https://open.spotify.com/artist/1EI0NtLHoh9KBziYCeN1vM), [Francesco Turrisi](https://open.spotify.com/artist/4ds2NOrovBxUtTi29RWIBC) | [They're Calling Me Home \(with Francesco Turrisi\)](https://open.spotify.com/album/75qSKqLqEt7zOei7If7Lms) | 3:49 |
 | 84 | [Indigo](https://open.spotify.com/track/4dEShdbZOn5qXWXQbUyGh9) | [Katherine Priddy](https://open.spotify.com/artist/102dPAntS5rtgPwkSZPB41) | [The Eternal Rocks Beneath](https://open.spotify.com/album/75Q8BLDuURslpcTthbAcsS) | 4:14 |
 | 85 | [Lonely Time](https://open.spotify.com/track/23pqwMUUlCAgk5bc3I0wW1) | [Chris Smither](https://open.spotify.com/artist/4PM86aECDhcdwuJNZNrR22) | [More From the Levee](https://open.spotify.com/album/7gTpnJLwYoQYS4oIJtnnpv) | 3:22 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1nqy6pUAoUv.md) - [plain]
 | 99 | [Trouble so Hard](https://open.spotify.com/track/2natNmtgiB8GyASSHKdNA7) | [Amythyst Kiah & Her Chest of Glass](https://open.spotify.com/artist/03l8MKqtSTRh6MaKr0m4aQ) | [Amythyst Kiah and Her Chest of Glass](https://open.spotify.com/album/79JTpqZ22lkjS9g9VblMI5) | 6:02 |
 | 100 | [Hustlin' \[Feat\. Jerry Douglas & Chris Eldridge\]](https://open.spotify.com/track/69Sgn7yVDF59YyR9xCaTZE) | [The War And Treaty](https://open.spotify.com/artist/6HhV0jtMMK5HYnYgG0xgtz), [Jerry Douglas](https://open.spotify.com/artist/4YgACLaoEjPl4kVZ5WmBN9), [Chris Eldridge](https://open.spotify.com/artist/1jRZEQrI5lbt5SoBtMHmiW) | [Hearts Town](https://open.spotify.com/album/7JpS1MkDWu1bRS4b9VWeoY) | 3:39 |
 
-Snapshot ID: `MCwyNzA3MzA4ZjNkZGMwMGY5N2Q1MDA0YjllMmU2MjA5ODdiNjUyNWEx`
+Snapshot ID: `MCwxNmRmNzU3YzA3OGI5YzY1ZGZlMWUxMDc0YzU1NGYxZmRjOGNmOWFk`

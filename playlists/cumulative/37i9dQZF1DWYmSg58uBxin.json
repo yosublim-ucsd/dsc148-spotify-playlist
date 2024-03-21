@@ -59,6 +59,24 @@
     },
     {
       "album": {
+        "name": "A place of peace",
+        "url": "https://open.spotify.com/album/6cgDCpcdalyujS9oZjK7f4"
+      },
+      "artists": [
+        {
+          "name": "Thomas Perceval",
+          "url": "https://open.spotify.com/artist/42lfxltT65SVNLR6kypDU5"
+        }
+      ],
+      "date_added": "2024-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160250,
+      "name": "A place of peace",
+      "url": "https://open.spotify.com/track/1BhXzIRZGi3qdKoFUFfFfs"
+    },
+    {
+      "album": {
         "name": "A Soulful Journey",
         "url": "https://open.spotify.com/album/3nNSJxyQHDBzYOrWrtaP2q"
       },
@@ -536,6 +554,24 @@
       "duration_ms": 201734,
       "name": "Birdman",
       "url": "https://open.spotify.com/track/6baoHqXdPuEnkmBUazVpoO"
+    },
+    {
+      "album": {
+        "name": "Blessedness",
+        "url": "https://open.spotify.com/album/17HyaDaI7IB2II45VvAT2M"
+      },
+      "artists": [
+        {
+          "name": "Tom Kristiaan",
+          "url": "https://open.spotify.com/artist/1ZU9WJfipgna3ANBoomXYk"
+        }
+      ],
+      "date_added": "2024-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153493,
+      "name": "Blessedness",
+      "url": "https://open.spotify.com/track/1cM4gjiaQ8PS0rz1lv75LF"
     },
     {
       "album": {
@@ -1290,6 +1326,24 @@
       "duration_ms": 170029,
       "name": "Eternity",
       "url": "https://open.spotify.com/track/0ZTkd15cwmZiOmtb8Gg3q5"
+    },
+    {
+      "album": {
+        "name": "Evening Kiss",
+        "url": "https://open.spotify.com/album/1Np1NDLsb96CWB9xBnOHiR"
+      },
+      "artists": [
+        {
+          "name": "Tom Kristiaan",
+          "url": "https://open.spotify.com/artist/1ZU9WJfipgna3ANBoomXYk"
+        }
+      ],
+      "date_added": "2024-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196223,
+      "name": "Evening Kiss",
+      "url": "https://open.spotify.com/track/7oRhmSpKMqtKiwehArtSuV"
     },
     {
       "album": {
@@ -2385,6 +2439,24 @@
     },
     {
       "album": {
+        "name": "Making peace",
+        "url": "https://open.spotify.com/album/2EDyH9iFr81wOcIpj0PJ3Q"
+      },
+      "artists": [
+        {
+          "name": "Christian Janssen",
+          "url": "https://open.spotify.com/artist/42vzUzUtpdNGFYxqgVcXl1"
+        }
+      ],
+      "date_added": "2024-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143034,
+      "name": "Making peace",
+      "url": "https://open.spotify.com/track/1F0zXMBvMOK2MgpLWD1knU"
+    },
+    {
+      "album": {
         "name": "Center of Gravity",
         "url": "https://open.spotify.com/album/53A24jAS0pIuBHGINApD71"
       },
@@ -2418,6 +2490,24 @@
       "duration_ms": 150414,
       "name": "Marvel",
       "url": "https://open.spotify.com/track/0V018nZse7FAA1b6stcdmx"
+    },
+    {
+      "album": {
+        "name": "Memories Of Old",
+        "url": "https://open.spotify.com/album/7G6JxyiYWJIxbd0ZhvggFu"
+      },
+      "artists": [
+        {
+          "name": "Max Goethe",
+          "url": "https://open.spotify.com/artist/2nZU81jrG7xjPA8a3pZZmf"
+        }
+      ],
+      "date_added": "2024-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151816,
+      "name": "Memories Of Old",
+      "url": "https://open.spotify.com/track/2tnP5UgULN7l5f2qHM9vgc"
     },
     {
       "album": {
@@ -4031,6 +4121,24 @@
     },
     {
       "album": {
+        "name": "The Leaf",
+        "url": "https://open.spotify.com/album/098cZTzYQnnjgzghoLzX7R"
+      },
+      "artists": [
+        {
+          "name": "Frederiq",
+          "url": "https://open.spotify.com/artist/4WdIA6FvazMuJOCReHzRN1"
+        }
+      ],
+      "date_added": "2024-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163179,
+      "name": "The Leaf",
+      "url": "https://open.spotify.com/track/50w3ns6IRRfOChZbOMxC2W"
+    },
+    {
+      "album": {
         "name": "The Morning Sun",
         "url": "https://open.spotify.com/album/3Zd7Ds12F1kejK84x5yOP0"
       },
@@ -4602,6 +4710,24 @@
       "duration_ms": 227674,
       "name": "Woven Song \u2014 piano reworks",
       "url": "https://open.spotify.com/track/1wb6pRSvhekFyXO5j3fXol"
+    },
+    {
+      "album": {
+        "name": "Years Gone By",
+        "url": "https://open.spotify.com/album/0ms9pTEwVNrZ2lu3Cd1ago"
+      },
+      "artists": [
+        {
+          "name": "Gale Moore",
+          "url": "https://open.spotify.com/artist/7D4pGxfKDvTyt90fAAQXxw"
+        }
+      ],
+      "date_added": "2024-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156147,
+      "name": "Years Gone By",
+      "url": "https://open.spotify.com/track/4Wh4CEwY02vdiErroICrIS"
     },
     {
       "album": {

@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXamBAn43YNB9.md) - [plain]
 
 > Craving that crisp country air? These low\-key Country songs will take you there.
 
-[Spotify](https://open.spotify.com/user/spotify) - 91,810 likes - 85 songs - 4 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 91,864 likes - 85 songs - 4 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Mountains Of My Mind](https://open.spotify.com/track/4CUZSk2o1EGqIxdY8bPH4P) | [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [Higher](https://open.spotify.com/album/6kcZ35GY84A3FBIcIKVqTW) | 4:25 |
 | 2 | [I Remember Everything \(feat\. Kacey Musgraves\)](https://open.spotify.com/track/4KULAymBBJcPRpk1yO4dOG) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2), [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Zach Bryan](https://open.spotify.com/album/6PbnGueEO6LGodPfvNldYf) | 3:47 |
 | 3 | [Came The Closest](https://open.spotify.com/track/2fRqb3yoCI9cbRASkEMo3m) | [Sam Hunt](https://open.spotify.com/artist/2kucQ9jQwuD8jWdtR9Ef38) | [Came The Closest](https://open.spotify.com/album/6iRu1ih4G0bpKX8fPpOlhm) | 3:14 |
-| 4 | [Deeper Well](https://open.spotify.com/track/2lJn77IeZAP9cmv6DPXOrL) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Deeper Well](https://open.spotify.com/album/2NXiMKrwmPrqU8epp20pW8) | 3:52 |
+| 4 | [Deeper Well](https://open.spotify.com/track/333XFHKsHU0pOocFzBgrJi) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Deeper Well](https://open.spotify.com/album/5SxZmGwc4eJuPp6PcO4JgJ) | 3:52 |
 | 5 | [Religiously](https://open.spotify.com/track/0bILU0UiNDmA5Ff6whhb2R) | [Bailey Zimmerman](https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf) | [Religiously\. The Album.](https://open.spotify.com/album/19DGbjQW4oJmS1TLmr7OH3) | 2:58 |
 | 6 | [Little Things](https://open.spotify.com/track/66kteVJsCZO68LWbaBCXPW) | [Mackenzie May](https://open.spotify.com/artist/4l6QaibZhpm1elX3aMukRV) | [Little Things](https://open.spotify.com/album/51g8yJiadm5VLvGVQBldVx) | 2:57 |
 | 7 | [Coal](https://open.spotify.com/track/4dtIxANFBU6CfhI9c2hf2g) | [Dylan Gossett](https://open.spotify.com/artist/4H4M0Y4cN39zIVDHvdW53x) | [Coal](https://open.spotify.com/album/5c5a2dLd2qLVN5zlaOcKJQ) | 3:14 |
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXamBAn43YNB9.md) - [plain]
 | 84 | [Background Music](https://open.spotify.com/track/5PBQsqit9PJ4OS1KWkto3h) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [Background Music](https://open.spotify.com/album/3rIQuaqO6tdsgeScpFFumi) | 3:34 |
 | 85 | [Lake House \- Acoustic](https://open.spotify.com/track/2gxyxKWIHVy8DxWqyVHz2Y) | [Brad Cox](https://open.spotify.com/artist/3qmULKoT46nNsyXHZk6fbM) | [What's Your Favourite Country Song?](https://open.spotify.com/album/4eDslpbPN47t4gFYP3vTRI) | 3:43 |
 
-Snapshot ID: `MCwyM2Y1ZGRmOGU4NjM5NWEyMzEyODZiMDk5Y2VkZjJhM2ZkMTA0NmY0`
+Snapshot ID: `MCxiNmU5Y2JjMzAyOGJmZGEyZDg4MDJiZTNjYmJiYjFjODYyMTg1NmI1`

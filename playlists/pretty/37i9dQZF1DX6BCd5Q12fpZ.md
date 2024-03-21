@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6BCd5Q12fpZ.md) - [plain]
 
 > Floor fillers from the long, illustrious history of the show\. Cover: Verka Serduchka
 
-[Spotify](https://open.spotify.com/user/spotify) - 65,512 likes - 75 songs - 3 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 65,513 likes - 75 songs - 3 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,11 +35,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6BCd5Q12fpZ.md) - [plain]
 | 25 | [Rhythm Inside](https://open.spotify.com/track/3O2MsMZHCgSbRGEca5ML1N) | [Loïc Nottet](https://open.spotify.com/artist/5nAiCPenjjdpUJAmElxmuu) | [Rhythm Inside](https://open.spotify.com/album/5HftNbRtaTbdJljQtoMMOx) | 2:52 |
 | 26 | [Making Your Mind Up](https://open.spotify.com/track/0Azn2vpP3Sbs8qAG8e1KUc) | [Bucks Fizz](https://open.spotify.com/artist/5ZfzzHE7rxONfoksJsLXrX) | [Bucks Fizz](https://open.spotify.com/album/5HqRd9aYv1b0x8A6q2ljFb) | 2:38 |
 | 27 | [She Got Me \- Bonus Track](https://open.spotify.com/track/3icYE8PMsnBoEecm5Bbd4x) | [Luca Hänni](https://open.spotify.com/artist/5JbALDn35ZrLwVAle4xVqZ) | [110 Karat](https://open.spotify.com/album/60OhrSr6g93qE9RS5yJ3u7) | 3:00 |
-| 28 | [Jaja Ding Dong](https://open.spotify.com/track/4QWRvlXU8dRUobH9YCDrIY) | [Will Ferrell](https://open.spotify.com/artist/7xF6Psrf6yNOBkB9jpMRa0), [My Marianne](https://open.spotify.com/artist/26a4tbq9f4QZCHArsoQkWn) | [Eurovision Song Contest: The Story of Fire Saga \(Music from the Netflix Film\)](https://open.spotify.com/album/0u6ppFo3gWA3vTiGeDTWXl) | 1:37 |
-| 29 | [You are the only one](https://open.spotify.com/track/7ANprWfKB8UoNggroXtfUv) | [Sergey Lazarev](https://open.spotify.com/artist/69GGH3fqk8waBkpDJ5C2mK) | [THE ONE](https://open.spotify.com/album/1gKYilxh4go3gKDikTH1ZO) | 3:06 |
+| 28 | [You are the only one](https://open.spotify.com/track/7ANprWfKB8UoNggroXtfUv) | [Sergey Lazarev](https://open.spotify.com/artist/69GGH3fqk8waBkpDJ5C2mK) | [THE ONE](https://open.spotify.com/album/1gKYilxh4go3gKDikTH1ZO) | 3:06 |
+| 29 | [Jaja Ding Dong](https://open.spotify.com/track/4QWRvlXU8dRUobH9YCDrIY) | [Will Ferrell](https://open.spotify.com/artist/7xF6Psrf6yNOBkB9jpMRa0), [My Marianne](https://open.spotify.com/artist/26a4tbq9f4QZCHArsoQkWn) | [Eurovision Song Contest: The Story of Fire Saga \(Music from the Netflix Film\)](https://open.spotify.com/album/0u6ppFo3gWA3vTiGeDTWXl) | 1:37 |
 | 30 | [Fly on the Wings of Love](https://open.spotify.com/track/4v2RaPHSsTvNkggw3RqyeT) | [Brødrene Olsen](https://open.spotify.com/artist/4pM3DAhLOqMQT5z4pl0Sri) | [Wings Of Love](https://open.spotify.com/album/0dF4TpultM9Ch3jazO0cN5) | 3:05 |
-| 31 | [Rockefeller Street](https://open.spotify.com/track/4rvFyA7h88s8DehCOjqW9K) | [Getter Jaani](https://open.spotify.com/artist/10pMyCRhDkBpyuc38QOlKf) | [Rockefeller Street \- Single](https://open.spotify.com/album/4Prlk6ouh6SYDOa97Eyly4) | 3:12 |
-| 32 | [Poupée de cire, poupée de son](https://open.spotify.com/track/26tXIAnv90FCv1eJiCUusH) | [France Gall](https://open.spotify.com/artist/22HVxZPA6UhBp8wahxDA6I) | [Hits chanson française](https://open.spotify.com/album/3skN1JzAWSzzeeXe6Kxvna) | 2:33 |
+| 31 | [Poupée de cire, poupée de son](https://open.spotify.com/track/26tXIAnv90FCv1eJiCUusH) | [France Gall](https://open.spotify.com/artist/22HVxZPA6UhBp8wahxDA6I) | [Hits chanson française](https://open.spotify.com/album/3skN1JzAWSzzeeXe6Kxvna) | 2:33 |
+| 32 | [Rockefeller Street](https://open.spotify.com/track/4rvFyA7h88s8DehCOjqW9K) | [Getter Jaani](https://open.spotify.com/artist/10pMyCRhDkBpyuc38QOlKf) | [Rockefeller Street \- Single](https://open.spotify.com/album/4Prlk6ouh6SYDOa97Eyly4) | 3:12 |
 | 33 | [Sound of Silence](https://open.spotify.com/track/2b9czDPSLTI88694CIqCy3) | [Dami Im](https://open.spotify.com/artist/2wSrZOe6YVo6XoKma22sdY) | [Sound of Silence](https://open.spotify.com/album/4v6nXxsfpkBpUA9PEAh7nj) | 3:15 |
 | 34 | [Trenulețul \(cu Frații Advahov\)](https://open.spotify.com/track/63idiVcxkGB3hgH6n3qKqM) | [Zdob si Zdub](https://open.spotify.com/artist/21fmCv0mg9Xwnv3WE4mFKu), [Fratii Advahov](https://open.spotify.com/artist/6oOzBkBGHImHS8cdjO8AqC) | [Trenulețul](https://open.spotify.com/album/7fM5IQBccLOksJ96AMl0xv) | 3:00 |
 | 35 | [Golden Boy](https://open.spotify.com/track/76SQ1MeAThYnjO9U9v6zZp) | [Nadav Guedj](https://open.spotify.com/artist/0QmOR0TqxMPtZxtaIJ5klY) | [Nadav Guedj](https://open.spotify.com/album/6LKtYHQmNgH8woDwwG1dVE) | 3:00 |
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6BCd5Q12fpZ.md) - [plain]
 | 39 | [Spirit In The Sky](https://open.spotify.com/track/2C2BmWM90rql9SJjPZwAuy) | [KEiiNO](https://open.spotify.com/artist/0chh7dlaUzEreDTulHiOlm) | [OKTA](https://open.spotify.com/album/2gNZBa0K1b0MzWN0FBSWpT) | 3:05 |
 | 40 | [La La Love](https://open.spotify.com/track/3rhnT5RoN7bvPUpMHt1aM9) | [Ivi Adamou](https://open.spotify.com/artist/2arQ0lfcNGLrJOHoJksWOw) | [La La Love](https://open.spotify.com/album/6xJymtqqQWpwKmJzIies07) | 3:02 |
 | 41 | [Ooh Aah..\. Just A Little Bit \- Eurovision Version](https://open.spotify.com/track/5KsGeqTJgJMAWuyTZ5WmMn) | [Gina G](https://open.spotify.com/artist/25tu0d8Po5c4IVXsZnXUU8) | [Ooh Aah...Just a Little Bit \(Eurovision Version\)](https://open.spotify.com/album/4k2cMbg4lC05pS47zHnwc1) | 3:02 |
-| 42 | [Replay](https://open.spotify.com/track/2UOyQB26wSQzM0jiTcUg50) | [Tamta](https://open.spotify.com/artist/0VGybH10ziMPo99SYOwMoQ) | [Replay](https://open.spotify.com/album/4CfWfExyyIuTxTXd7jjmy7) | 2:53 |
-| 43 | [Save Your Kisses for Me \- Alternate Take](https://open.spotify.com/track/1biEfqHE3I6ttUqTjrJMwH) | [Brotherhood of Man](https://open.spotify.com/artist/4Cyr5aqgXza16isOrQNOvo) | [Presenting Brotherhood of Man](https://open.spotify.com/album/1soWUJdpSw74xbk3ILnwb7) | 2:58 |
+| 42 | [Save Your Kisses for Me \- Alternate Take](https://open.spotify.com/track/1biEfqHE3I6ttUqTjrJMwH) | [Brotherhood of Man](https://open.spotify.com/artist/4Cyr5aqgXza16isOrQNOvo) | [Presenting Brotherhood of Man](https://open.spotify.com/album/1soWUJdpSw74xbk3ILnwb7) | 2:58 |
+| 43 | [Replay](https://open.spotify.com/track/2UOyQB26wSQzM0jiTcUg50) | [Tamta](https://open.spotify.com/artist/0VGybH10ziMPo99SYOwMoQ) | [Replay](https://open.spotify.com/album/4CfWfExyyIuTxTXd7jjmy7) | 2:53 |
 | 44 | [Hold Me Closer \- Eurovision Version](https://open.spotify.com/track/6cTWJgNkmhATsI6RJgTPH4) | [Cornelia Jakobs](https://open.spotify.com/artist/7cYZ8F0N2jby95FsxU9hh4) | [Hold Me Closer \(Eurovision Version\)](https://open.spotify.com/album/1DUJ7u6fKeEkfVeTvE3FAq) | 3:00 |
 | 45 | [Adrenalina](https://open.spotify.com/track/5sckZhskSmeF8TFJ05oSCB) | [Senhit](https://open.spotify.com/artist/0kgOnYSaZeTf3ZnErgwkGT), [Flo Rida](https://open.spotify.com/artist/0jnsk9HBra6NMjO2oANoPY) | [Adrenalina](https://open.spotify.com/album/7aEMUNrcbMQtaVsBvJUGlO) | 2:59 |
 | 46 | [Secret Combination \- Eurovision 2008 Mix](https://open.spotify.com/track/4K97pvdLv1zmJy2bvYtEFG) | [Kalomira](https://open.spotify.com/artist/5duetVmlUhQnoJ3dhqChFH) | [Secret Combination](https://open.spotify.com/album/4neINSK3QUx2L5VGMBuE6a) | 3:02 |
@@ -62,9 +62,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6BCd5Q12fpZ.md) - [plain]
 | 52 | [Je t'adore \- Eurovision Mix](https://open.spotify.com/track/1YuXoPqkTQOXpFJtjf5GWd) | [Kate Ryan](https://open.spotify.com/artist/47BNWfpngeFHYvBlPPyraM) | [Essential](https://open.spotify.com/album/6itpfGpKsuAVBgtr5JUuS3) | 3:02 |
 | 53 | [Shake It \- Eurovision Version](https://open.spotify.com/track/2xagoLNhrbVA2fpOkxs2Ze) | [Sakis Rouvas](https://open.spotify.com/artist/0VuyN0xzSqykiDB2MxihTe) | [To Hrono Stamatao](https://open.spotify.com/album/7hiRylz4CAVyfLftuszLVJ) | 3:00 |
 | 54 | [Divine](https://open.spotify.com/track/6JYxLv2GGPaZDkyJaHSQJY) | [Sébastien Tellier](https://open.spotify.com/artist/23ymPLjbtAMzTJS2qRtQ8Z) | [Sexuality](https://open.spotify.com/album/5XKp5IjYVitTx6XIFIC6PA) | 3:08 |
-| 55 | [Cliche Love Song \- Another Version](https://open.spotify.com/track/3V9489pkfvGQyGUzerfI7B) | [Basim](https://open.spotify.com/artist/0AQTNnuQ6OZRjzy5MWuqfg) | [Cliche Love Song](https://open.spotify.com/album/3xCULyIXntwHXWgyt0JNVq) | 3:01 |
-| 56 | [Glorious \- Video Edit](https://open.spotify.com/track/1UqzLT0ZGWXD9K5npit5Nr) | [Cascada](https://open.spotify.com/artist/0N0d3kjwdY2h7UVuTdJGfp) | [Glorious](https://open.spotify.com/album/5kbxsF7LoGVuD6JivCLLtC) | 3:27 |
-| 57 | [J'ai cherché](https://open.spotify.com/track/1QJFNfsVQA7VfUJFKgQJzI) | [Amir](https://open.spotify.com/artist/6rl53MP8HSoiugpqzA50Zh) | [J'ai cherché](https://open.spotify.com/album/0YCltMp8QcXykcaXjAvZ1u) | 3:32 |
+| 55 | [Glorious \- Video Edit](https://open.spotify.com/track/1UqzLT0ZGWXD9K5npit5Nr) | [Cascada](https://open.spotify.com/artist/0N0d3kjwdY2h7UVuTdJGfp) | [Glorious](https://open.spotify.com/album/5kbxsF7LoGVuD6JivCLLtC) | 3:27 |
+| 56 | [J'ai cherché](https://open.spotify.com/track/1QJFNfsVQA7VfUJFKgQJzI) | [Amir](https://open.spotify.com/artist/6rl53MP8HSoiugpqzA50Zh) | [J'ai cherché](https://open.spotify.com/album/0YCltMp8QcXykcaXjAvZ1u) | 3:32 |
+| 57 | [Cliche Love Song \- Another Version](https://open.spotify.com/track/3V9489pkfvGQyGUzerfI7B) | [Basim](https://open.spotify.com/artist/0AQTNnuQ6OZRjzy5MWuqfg) | [Cliche Love Song](https://open.spotify.com/album/3xCULyIXntwHXWgyt0JNVq) | 3:01 |
 | 58 | [Every Way That I Can \- Philippe Laurent from Galleon Radio Edit](https://open.spotify.com/track/5Hi2aJQzS0U7u1wwo8WIFp) | [Sertab Erener](https://open.spotify.com/artist/4W31XN2JH8mC54NkHdh04s) | [No Boundaries](https://open.spotify.com/album/2olQK1JiXCvshFLlTV7UCu) | 2:46 |
 | 59 | [Moustache](https://open.spotify.com/track/6ILOO5bZA9x6zanAMO0hKr) | [Twin Twin](https://open.spotify.com/artist/2hJPfJfj1VpL2AJvelxxzx) | [Vive la vie \(Edition spéciale\)](https://open.spotify.com/album/64TJ7px9P7xSUXHB3604uf) | 2:49 |
 | 60 | [Yassou Maria](https://open.spotify.com/track/1t2zJs2ukKjrVNGQgot9bk) | [Sarbel](https://open.spotify.com/artist/50NpTshkrtjVH2ukLXMbjI) | [Sahara Euro Edition](https://open.spotify.com/album/6UcCRtBatKSwIjPX9Xqcqk) | 3:00 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6BCd5Q12fpZ.md) - [plain]
 | 74 | [Runaway \- Bonus Track](https://open.spotify.com/track/7uSeUTnMWH7CgEyl2rNtMC) | [Anna Sahlene](https://open.spotify.com/artist/4dNOj2smSK7guw4JeUW1uW) | [It's Been a While](https://open.spotify.com/album/1MfUDsswH0G8RK0TDvWo71) | 2:52 |
 | 75 | [J'aime la vie \- Eurovision 1986](https://open.spotify.com/track/6UKeMVzQeeOsjITXfX1cm4) | [Sandra Kim](https://open.spotify.com/artist/4dhrlsu6mKvOwJWOrwnkuV) | [Au top des années 80, vol\. 1 \(30 titres + 5 maxis\)](https://open.spotify.com/album/76YvIXe5aWujtislm12yVk) | 3:04 |
 
-Snapshot ID: `MCw1Njc4M2UzYTI4MzdiZTA2ZTgyYTIwOTUzMmJiMWFhY2ZhMzM0Yjk1`
+Snapshot ID: `MCw0NGU2YmY5N2RjYzY2NGZmOWMyZWM2ZDExNDY5ZTAwYjQyZDc4NjEy`

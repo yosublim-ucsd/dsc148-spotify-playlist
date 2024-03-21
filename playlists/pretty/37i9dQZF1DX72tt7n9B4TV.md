@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX72tt7n9B4TV.md) - [plain]
 
 > Hot noise for those summer days.
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,879 likes - 80 songs - 4 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,883 likes - 80 songs - 4 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,9 +65,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX72tt7n9B4TV.md) - [plain]
 | 55 | [By The Time You're Reading This](https://open.spotify.com/track/0uuxAXS1X7kH0WjC0nD6q9) | [YONAKA](https://open.spotify.com/artist/3Wcyta3gkOdQ4TfY0WyZpu) | [Welcome To My House](https://open.spotify.com/album/0ImZVp5Lh6vnyMUkQtnQIw) | 3:10 |
 | 56 | [Forever & Ever More](https://open.spotify.com/track/0GCENWl11MluqJbz1Dqm0i) | [Nothing But Thieves](https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp) | [What Did You Think When You Made Me This Way?](https://open.spotify.com/album/6qP4UnWRNlBMdsqanPhFuJ) | 3:28 |
 | 57 | [Bad Decisions](https://open.spotify.com/track/2uJvuMZVAfnWa3lTTxJW9q) | [RedHook](https://open.spotify.com/artist/6OVWDN6Ty6RfnhUJlrYBlI) | [Bad Decisions](https://open.spotify.com/album/5V3bFQnpSALvyDEyHsCHat) | 2:32 |
-| 58 | [Everything's Electric](https://open.spotify.com/track/63JU4kHsgytIKkSM4tedme) | [Liam Gallagher](https://open.spotify.com/artist/6sN51vEARnAAdBw1IKZ8Q9) | [Everything's Electric](https://open.spotify.com/album/2Dqayfhl6Eow6nsHBXTXM3) | 3:36 |
+| 58 | [Trouble’s Coming](https://open.spotify.com/track/5eR6OS3joTAHJToyzehKfu) | [Royal Blood](https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15) | [Trouble’s Coming](https://open.spotify.com/album/7HZqhu4pOZcTAv7ROHhZSj) | 3:48 |
 | 59 | [Just To Keep You Satisfied](https://open.spotify.com/track/06YDsNc6mrl60G2FZeUOmE) | [Inhaler](https://open.spotify.com/artist/6lyMYewq2SuTFIXgiv7OxH) | [Cuts & Bruises](https://open.spotify.com/album/2qZd7lp0lLRjeFe0O9Ou6S) | 3:35 |
-| 60 | [Trouble’s Coming](https://open.spotify.com/track/5eR6OS3joTAHJToyzehKfu) | [Royal Blood](https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15) | [Trouble’s Coming](https://open.spotify.com/album/7HZqhu4pOZcTAv7ROHhZSj) | 3:48 |
+| 60 | [Everything's Electric](https://open.spotify.com/track/63JU4kHsgytIKkSM4tedme) | [Liam Gallagher](https://open.spotify.com/artist/6sN51vEARnAAdBw1IKZ8Q9) | [Everything's Electric](https://open.spotify.com/album/2Dqayfhl6Eow6nsHBXTXM3) | 3:36 |
 | 61 | [Care](https://open.spotify.com/track/1aTf6n7MSd9z1LQYJEcmqF) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Fake It Flowers](https://open.spotify.com/album/3SGFxGF2loXeOFZtKvdmxo) | 3:14 |
 | 62 | [Visitor](https://open.spotify.com/track/0z3Sa7vtRfn4ywaHzZzBLK) | [Of Monsters and Men](https://open.spotify.com/artist/4dwdTW1Lfiq0cM8nBAqIIz) | [Visitor](https://open.spotify.com/album/41oni1NWTzN3lOrGU4JxYf) | 3:27 |
 | 63 | [This is Our Life](https://open.spotify.com/track/5PUTXDqo5aGHoGbAhYm5ZT) | [Des Rocs](https://open.spotify.com/artist/2kO6mP0olFJGGh6kvUdNC8) | [This is Our Life](https://open.spotify.com/album/3ACNAqePBWNG0zC20gRUNs) | 3:44 |
@@ -84,9 +84,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX72tt7n9B4TV.md) - [plain]
 | 74 | [Kids](https://open.spotify.com/track/7IpHgRSdnWqAID7CVZGXWo) | [PUP](https://open.spotify.com/artist/6A7uqgC2N1nUhrCLAytHxN) | [Morbid Stuff](https://open.spotify.com/album/5bVJC9KPcUvQPcibNpjAk9) | 3:30 |
 | 75 | [The Rush](https://open.spotify.com/track/6bZ97N6T4TigAwBignOJXp) | [JJ Wilde](https://open.spotify.com/artist/1pLZeUSXJwVVJSPhmBSwf6) | [Ruthless](https://open.spotify.com/album/4ioMd5NHk2AUHC7D4Wjl0n) | 3:07 |
 | 76 | [Giving Up](https://open.spotify.com/track/5XYoKiujAKGiHwnU2G0P7C) | [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL) | [Toxic Positivity](https://open.spotify.com/album/3eFVX7tq5tCU0uqol29fis) | 3:10 |
-| 77 | [Doubt](https://open.spotify.com/track/3s6sLTCG8QZmpIIRgIW4HS) | [Slow Pulp](https://open.spotify.com/artist/2JFTRDi5v7JtqoouVe1z5D) | [Yard](https://open.spotify.com/album/1KHEiLyeBq82jCqzllcXu9) | 2:35 |
+| 77 | [HONEY](https://open.spotify.com/track/7AVf3MdvwHM5CdOdquzu9c) | [LUNA AURA](https://open.spotify.com/artist/18UrIT17pqz5fG7J85iwSh) | [HONEY](https://open.spotify.com/album/5xaKQhMQZELvqDgxs8iLyQ) | 2:35 |
 | 78 | [estella//](https://open.spotify.com/track/4v2Bq0xDB7uNN73I5b44Du) | [KennyHoopla](https://open.spotify.com/artist/5ObBtv5VunwwhQaXXnUrsM), [Travis Barker](https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX) | [estella//](https://open.spotify.com/album/03q6OOInl2G0qYtmFlybqh) | 1:58 |
-| 79 | [HONEY](https://open.spotify.com/track/7AVf3MdvwHM5CdOdquzu9c) | [LUNA AURA](https://open.spotify.com/artist/18UrIT17pqz5fG7J85iwSh) | [HONEY](https://open.spotify.com/album/5xaKQhMQZELvqDgxs8iLyQ) | 2:35 |
+| 79 | [Doubt](https://open.spotify.com/track/3s6sLTCG8QZmpIIRgIW4HS) | [Slow Pulp](https://open.spotify.com/artist/2JFTRDi5v7JtqoouVe1z5D) | [Yard](https://open.spotify.com/album/1KHEiLyeBq82jCqzllcXu9) | 2:35 |
 | 80 | [Is Everybody Going Crazy?](https://open.spotify.com/track/3CauBZqN2EuHTJo4sSpjbS) | [Nothing But Thieves](https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp) | [Is Everybody Going Crazy?](https://open.spotify.com/album/5J2B0xzIbsFSqwLTLrlRe1) | 3:57 |
 
-Snapshot ID: `MCwwMzc0MTcwNzBlMzE3YzkyNGYzZTZlZTI4NDI3ZTRhNjJjNTUxNDI2`
+Snapshot ID: `MCwxZTdjMzlkMmU0MmI5Yzc4NDc5OTc4ZDcwN2M3MDMxNGRiNDA4YWQ0`

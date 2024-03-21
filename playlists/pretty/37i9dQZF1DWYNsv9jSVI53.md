@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYNsv9jSVI53.md) - [plain]
 
 > The official playlist for Russian Doll on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,088 likes - 26 songs - 2 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,137 likes - 26 songs - 2 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,4 +35,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYNsv9jSVI53.md) - [plain]
 | 25 | [Showtime](https://open.spotify.com/track/7ld59FzTeRSyR58BSOilTs) | [Joe Wong](https://open.spotify.com/artist/62TZuRSv7K8KK5BmL90K32) | [Russian Doll: Seasons 1 & 2 \(Music From The Netflix Original Series\)](https://open.spotify.com/album/0Dt08kWhZvV18tp4bALqWY) | 1:31 |
 | 26 | [Dream Mother](https://open.spotify.com/track/5SLfUZcKNs3Ab2F1BOjQXr) | [Joe Wong](https://open.spotify.com/artist/62TZuRSv7K8KK5BmL90K32) | [Russian Doll: Seasons 1 & 2 \(Music From The Netflix Original Series\)](https://open.spotify.com/album/0Dt08kWhZvV18tp4bALqWY) | 1:46 |
 
-Snapshot ID: `MCxmZDczNTk5M2U5MDhiNTg2ZWZhZTVjMTIyYWYwZGMzNTE0ZjJmNjc4`
+Snapshot ID: `MCwyY2NhOGM3ZDJiZDk3OGRjNjc2YmE4NWYzZTlhMzg4NDAzMzUzYzY4`

@@ -4,7 +4,7 @@
 
 > The stomping ground.
 
-843 songs - 2 day 16 hr 31 min
+844 songs - 2 day 16 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -715,7 +715,8 @@
 | [The Chant \- For Club Play Only, Pt\. 8](https://open.spotify.com/track/7xy9K0gpqzgUGGuxG5ZfuN) | [Duke Dumont](https://open.spotify.com/artist/61lyPtntblHJvA7FMMhi7E) | [The Chant \(For Club Play Only, Pt\. 8\)](https://open.spotify.com/album/4l12XOrKoqpy2skRc8Zi6Q) | 3:10 | 2023-05-25 | 2024-02-23 |
 | [The Connection](https://open.spotify.com/track/5lrT2jSuosa65iGM2UsrPx) | [Miss Monique](https://open.spotify.com/artist/29TpNOsTNYbLb6Xa10H0PR) | [Rebirth](https://open.spotify.com/album/5k27SCv9uikB2YqlMB9Ub2) | 4:22 | 2023-05-05 | 2023-05-26 |
 | [The Dream \(feat\. Martina Camargo\)](https://open.spotify.com/track/2dwU9cQumllxZFtXgautY4) | [Adam Port](https://open.spotify.com/artist/2loEsOijJ6XiGzWYFXMIRk), [Theus Mago](https://open.spotify.com/artist/5AmmljbTOeKJcfoTd6QCd3), [Keinemusik](https://open.spotify.com/artist/26WKgv73kRHD0gEDKD1i8j), [Martina Camargo](https://open.spotify.com/artist/2vGRgVlsY6BB9PyESPm6IH) | [The Dream \(feat\. Martina Camargo\)](https://open.spotify.com/album/3PUyvnJrykuLTnWyUhyrep) | 3:30 | 2023-07-28 | 2023-08-04 |
-| [The Fight Goes On](https://open.spotify.com/track/79MiPqQ3hKFXUHSur45kOI) | [Thabo Tonick](https://open.spotify.com/artist/154tqoSmvaZaRIgwJI1xgJ) | [The Fight Goes On](https://open.spotify.com/album/3i8j6ScRkL69iZo0K2r7yj) | 5:32 | 2024-01-11 |  |
+| [The Fight Goes On](https://open.spotify.com/track/5bXXNTlYJtwB4fYPPp4UCE) | [Thabo Thonick](https://open.spotify.com/artist/0otSY2i8HznRrkLmMVFxuF) | [The Fight Goes On](https://open.spotify.com/album/0AB3whNahBaJVynnZAgXcT) | 5:32 | 2024-03-14 |  |
+| [The Fight Goes On](https://open.spotify.com/track/79MiPqQ3hKFXUHSur45kOI) | [Thabo Tonick](https://open.spotify.com/artist/154tqoSmvaZaRIgwJI1xgJ) | [The Fight Goes On](https://open.spotify.com/album/3i8j6ScRkL69iZo0K2r7yj) | 5:32 | 2024-01-11 | 2024-03-21 |
 | [The Greatest Thing Alive](https://open.spotify.com/track/6As1zfxQHAgeQPBK2paaqh) | [Mark Knight](https://open.spotify.com/artist/3h11MHQeCrcsUgRRijI1zL), [Green Velvet](https://open.spotify.com/artist/3ABaec4jjl95VqmG1iD4k2), [James Hurr](https://open.spotify.com/artist/2g9i2kA0jUr6sfAT28l2vL) | [The Greatest Thing Alive](https://open.spotify.com/album/4pO9irtP1FElMi4HaIUct0) | 2:56 | 2023-10-12 | 2024-02-16 |
 | [The Last Goodbye \(feat\. Bettye LaVette\) \- DJ Seinfeld Remix](https://open.spotify.com/track/4DmUdGg9eXpOb48eDjOi1p) | [ODESZA](https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw), [Bettye LaVette](https://open.spotify.com/artist/55U998XxmxjicLMKDSz6R3), [DJ Seinfeld](https://open.spotify.com/artist/37YzpfBeFju8QRZ3g0Ha1Q) | [The Last Goodbye Remixes N°.1](https://open.spotify.com/album/0vt9IqflcQqkTa6ExJoccQ) | 3:56 | 2022-09-22 | 2023-01-27 |
 | [The Letter](https://open.spotify.com/track/4xknmQJg8EJuPi9b4oGMli) | [J Lauda](https://open.spotify.com/artist/5lKQ05oFwm17Qlsctpr1BL) | [Odd Ones, Vol\. 1](https://open.spotify.com/album/0pUstc1nIrxr3Ko8TSSVgg) | 4:21 | 2022-12-27 | 2023-01-02 |

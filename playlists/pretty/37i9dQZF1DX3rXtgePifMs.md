@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3rXtgePifMs.md) - [plain]
 
 > The official EA SPORTS FC 24 Soundtrack.
 
-[Spotify](https://open.spotify.com/user/spotify) - 88,036 likes - 109 songs - 5 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 88,103 likes - 109 songs - 5 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,8 +65,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3rXtgePifMs.md) - [plain]
 | 55 | [cracked screen](https://open.spotify.com/track/5tw5H51GeMaSBcD0CHKsBq) | [blackwave.](https://open.spotify.com/artist/0nvdwVbj7NT1WL9P8JowLD), [Lute](https://open.spotify.com/artist/75WcpJKWXBV3o3cfluWapK) | [no sleep in LA](https://open.spotify.com/album/0mc08RF9UX2beSMEYxmNEe) | 3:32 |
 | 56 | [Assumptions \- Jengi Remix](https://open.spotify.com/track/3NaLD1DZ4U2VMf4WXci3Rt) | [Sam Gellaitry](https://open.spotify.com/artist/07UJz804RJxqNvxFXC3h9H), [Jengi](https://open.spotify.com/artist/4lgrPvofm0IT605L9OrOTN) | [Assumptions \(Jengi Remix\)](https://open.spotify.com/album/2waZkaQGtcdGPWIkcUMxbQ) | 3:06 |
 | 57 | [What Comes Will Come](https://open.spotify.com/track/5U1MVqAfPoLPKllKr0WaRT) | [Genesis Owusu](https://open.spotify.com/artist/1HvH97rzvCH6lfnLlgyfke) | [STRUGGLER](https://open.spotify.com/album/1mzWBk8fzEEMumcy5IuVcf) | 3:51 |
-| 58 | [Amnesia](https://open.spotify.com/track/4ZyCS7eIVZBB4BIkF9UGfW) | [M83](https://open.spotify.com/artist/63MQldklfxkjYDoUE4Tppz) | [Fantasy](https://open.spotify.com/album/7B6lEObl7aYkMjX8M89IRQ) | 4:03 |
-| 59 | [We Can Be Anything](https://open.spotify.com/track/4AcRbBprPNxpzClRnl1je6) | [Baby Queen](https://open.spotify.com/artist/4VqlewwKZJoIcA88PYHUDd) | [We Can Be Anything](https://open.spotify.com/album/5TVcWdcTKLoXsFp8hYV5jp) | 3:21 |
+| 58 | [We Can Be Anything](https://open.spotify.com/track/4AcRbBprPNxpzClRnl1je6) | [Baby Queen](https://open.spotify.com/artist/4VqlewwKZJoIcA88PYHUDd) | [We Can Be Anything](https://open.spotify.com/album/5TVcWdcTKLoXsFp8hYV5jp) | 3:21 |
+| 59 | [Amnesia](https://open.spotify.com/track/4ZyCS7eIVZBB4BIkF9UGfW) | [M83](https://open.spotify.com/artist/63MQldklfxkjYDoUE4Tppz) | [Fantasy](https://open.spotify.com/album/7B6lEObl7aYkMjX8M89IRQ) | 4:03 |
 | 60 | [Lowkey](https://open.spotify.com/track/4FC7fcZ5RexxLbWNrOq6aq) | [P Money](https://open.spotify.com/artist/6WjX4pepHwXa85B9KMk0PY), [Whiney](https://open.spotify.com/artist/4YTBo7qadslqj8V8FMRuqK) | [Streets, Love & Other Stuff](https://open.spotify.com/album/0IRmR8wXEPXWsqy84EbKIh) | 3:21 |
 | 61 | [Why You Waiting?](https://open.spotify.com/track/4NS6mjfccw3m9fPYLCKa53) | [Doktor](https://open.spotify.com/artist/39Oq22GIYJKzgCbCDbOnRl), [Serum](https://open.spotify.com/artist/1OeYjH80o59axC1PYRV97m), [Agent Sasco \(Assassin\)](https://open.spotify.com/artist/0CiLVKp7LJTm0c8jdUmQNy) | [Why You Waiting?](https://open.spotify.com/album/3czLQ2sjzql5WJQg7degVt) | 2:35 |
 | 62 | [A STRANGER](https://open.spotify.com/track/6t26Su0fcxR2tbHzNfzE8I) | [DAMEDAME\*](https://open.spotify.com/artist/3X6c2uu6yXYP4XnprvDg11) | [A STRANGER](https://open.spotify.com/album/0o3v4DaaAydiFZLv9nsUeC) | 2:47 |
@@ -75,8 +75,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3rXtgePifMs.md) - [plain]
 | 65 | [Not Today](https://open.spotify.com/track/2iGu9F7QQXW8h7Er5c8Gq3) | [Matata](https://open.spotify.com/artist/7imj8fIllhgGJqvKUVrdgV), [Liam Bailey](https://open.spotify.com/artist/022EiWsch2zvty0qBUksDO) | [Not Today](https://open.spotify.com/album/1mnkQmiqItiPZVAu4jrk14) | 4:12 |
 | 66 | [Gan Ainm](https://open.spotify.com/track/1Wo9ZA41M0iru3vcjPJ53O) | [whenyoung](https://open.spotify.com/artist/6IcfYALmhjyW2kJwRNXHJp) | [Paragon Songs](https://open.spotify.com/album/0ugiYjbKYVSvM8AIwnR3DA) | 4:07 |
 | 67 | [The Hard Way](https://open.spotify.com/track/1QLMHSO8A6DXPRTxFGJEnG) | [Sid Sriram](https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN) | [The Hard Way](https://open.spotify.com/album/1pwQ5Oq7QvtT1QAIoZDRJM) | 3:32 |
-| 68 | [Shut It Down](https://open.spotify.com/track/6k1JXdWW1ZGAcTUtjao9d6) | [TroyBoi](https://open.spotify.com/artist/0tvpihdAsKiNnP6sWS3jUI), [Armani White](https://open.spotify.com/artist/2qAwMsiIjTzlmfAkXKvhVA) | [Shut It Down](https://open.spotify.com/album/50WI8N9WqWFJ13nfogGsQB) | 2:42 |
-| 69 | [FLATLINE](https://open.spotify.com/track/0i2RbagsiSkoYlyVyY06mj) | [Frost Children](https://open.spotify.com/artist/6R1kfr0GIWnwxY4zW11Vag) | [FLATLINE](https://open.spotify.com/album/68qY8pAl8uRX4XxzTJ64cf) | 3:45 |
+| 68 | [FLATLINE](https://open.spotify.com/track/0i2RbagsiSkoYlyVyY06mj) | [Frost Children](https://open.spotify.com/artist/6R1kfr0GIWnwxY4zW11Vag) | [FLATLINE](https://open.spotify.com/album/68qY8pAl8uRX4XxzTJ64cf) | 3:45 |
+| 69 | [Shut It Down](https://open.spotify.com/track/6k1JXdWW1ZGAcTUtjao9d6) | [TroyBoi](https://open.spotify.com/artist/0tvpihdAsKiNnP6sWS3jUI), [Armani White](https://open.spotify.com/artist/2qAwMsiIjTzlmfAkXKvhVA) | [Shut It Down](https://open.spotify.com/album/50WI8N9WqWFJ13nfogGsQB) | 2:42 |
 | 70 | [BORED](https://open.spotify.com/track/2npxF2SvUP0GNLpqgY0Hn1) | [swim school](https://open.spotify.com/artist/7hC74DRW4q3obXLB5lTq4F) | [BORED](https://open.spotify.com/album/5HYHaoxTH6iM4RqdVW0rsX) | 3:26 |
 | 71 | [Who Let Him In](https://open.spotify.com/track/3zKdTxoDlo5CT5HlqgUxJ3) | [Obongjayar](https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h) | [Who Let Him In](https://open.spotify.com/album/0TmS0p8Dvqk8ZnJ3ZqmQus) | 3:06 |
 | 72 | [FORMULA](https://open.spotify.com/track/6H8YEkzK8FziT1QWnu6fdl) | [Dumb Buoys Fishing Club](https://open.spotify.com/artist/5zq4xI3RwNWyVVSRHAwO0D), [Merlyn Wood](https://open.spotify.com/artist/5AqnZL03z5cuZJMPVTRj9Y), [joe unknown](https://open.spotify.com/artist/4worwwIR65GOR5LpY0YtcJ) | [WRECKED](https://open.spotify.com/album/2e36y4LFJxSObcZOvWrMBF) | 2:53 |
@@ -97,8 +97,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3rXtgePifMs.md) - [plain]
 | 87 | [Soul Capturer](https://open.spotify.com/track/5Rt1uhpnvrrXSf7HNX3mMi) | [Animal Collective](https://open.spotify.com/artist/4kwxTgCKMipBKhSnEstNKj) | [Isn’t It Now?](https://open.spotify.com/album/0J2TlWaut2IAlWdBRHLIHf) | 6:08 |
 | 88 | [My Way](https://open.spotify.com/track/7jNvkE2zWQeUqLJpy6tbyq) | [Charlotte Devaney](https://open.spotify.com/artist/58quCP7j2McEeEtRungVle) | [My Way](https://open.spotify.com/album/2HByMoy9KrW78HhZk1Jf6h) | 2:28 |
 | 89 | [THESE DISHES AIN'T GONNA DO THEMSELVES](https://open.spotify.com/track/5IHOTDXjEwmjzvbt7yldMZ) | [KABEAUSHÉ](https://open.spotify.com/artist/0NNG4hBbXRp6HQ2EMEkYlj) | [THESE DISHES AIN'T GONNA DO THEMSELVES](https://open.spotify.com/album/7taQKL7ALK6QeXr8pva6O4) | 2:54 |
-| 90 | [We Are The Ones \- FC24 Version](https://open.spotify.com/track/0e9puAKZblpFaZyEZ0ZcJ6) | [King](https://open.spotify.com/artist/5NHm4TU5Twz7owibYxJfFU) | [We Are The Ones \(FC24 Version\)](https://open.spotify.com/album/0PgSzrzBZiMHbOGQVFKUuO) | 2:15 |
-| 91 | [The World's Biggest Paving Slab](https://open.spotify.com/track/0BrPXLcu7IavDEzSU7YwSo) | [English Teacher](https://open.spotify.com/artist/5H9IFTRxSICj24uxO15ScU) | [The World’s Biggest Paving Slab](https://open.spotify.com/album/3ducN0Lrdg8qwP5xnoJ5X6) | 3:05 |
+| 90 | [The World's Biggest Paving Slab](https://open.spotify.com/track/0BrPXLcu7IavDEzSU7YwSo) | [English Teacher](https://open.spotify.com/artist/5H9IFTRxSICj24uxO15ScU) | [The World’s Biggest Paving Slab](https://open.spotify.com/album/3ducN0Lrdg8qwP5xnoJ5X6) | 3:05 |
+| 91 | [We Are The Ones \- FC24 Version](https://open.spotify.com/track/0e9puAKZblpFaZyEZ0ZcJ6) | [King](https://open.spotify.com/artist/5NHm4TU5Twz7owibYxJfFU) | [We Are The Ones \(FC24 Version\)](https://open.spotify.com/album/0PgSzrzBZiMHbOGQVFKUuO) | 2:15 |
 | 92 | [Pro Freak \(with Doechii, Fatman Scoop\)](https://open.spotify.com/track/2pDUb0DE5L5soxdQfyzDDc) | [Smino](https://open.spotify.com/artist/1ybINI1qPiFbwDXamRtwxD), [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB), [Fatman Scoop](https://open.spotify.com/artist/15GGbJKqC6w0VYyAJtjej6) | [Luv 4 Rent](https://open.spotify.com/album/1gIhUSOKHS9WoUCZeBR8Ao) | 4:28 |
 | 93 | [So Clear](https://open.spotify.com/track/33IXYq3ncfQfh5KRzXeleo) | [Fliptrix](https://open.spotify.com/artist/5Dm525w7dCfRzudUS4EeQE) | [Mantra No\. 9](https://open.spotify.com/album/2ZUa47nI8CFCIJhA94UGEj) | 3:32 |
 | 94 | [FIST IN THE SKY \(feat\. Jordan Mackampa\)](https://open.spotify.com/track/3yVz0LNJ7gdMsAfIAxlKJO) | [Jords](https://open.spotify.com/artist/7lhD6ETR0JNlpJWYycy3jx), [Jordan Mackampa](https://open.spotify.com/artist/24WPEGLYPvEsmk4GSDFyST) | [FIST IN THE SKY \(feat\. Jordan Mackampa\)](https://open.spotify.com/album/1KZV8Ywiz12q19o5rtFMoU) | 4:27 |
@@ -118,4 +118,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3rXtgePifMs.md) - [plain]
 | 108 | [MMM](https://open.spotify.com/track/5ubj4AhuTnQ5qzuhv4CP3P) | [Skinny Local](https://open.spotify.com/artist/2Qqm503Ng7iC2dMxEobQa1), [Cartel Madras](https://open.spotify.com/artist/3nwKi37CnuKq5BcPr267h3) | [MMM](https://open.spotify.com/album/0Fbc2gf82fyBWrpDQqxnco) | 2:24 |
 | 109 | [Follow the Cyborg](https://open.spotify.com/track/29Tr5faNVWpHHaN2JytX98) | [Miss Grit](https://open.spotify.com/artist/0kUsW40KML1SWGeOAvGtzD) | [Follow the Cyborg](https://open.spotify.com/album/1FzCOEjfRrJvwMWqEUCsNO) | 4:45 |
 
-Snapshot ID: `MCwxZjczOTViYzBiOGNhNzA0N2RkMWE0ZjZmZDdkOGU0ZWQ2ZjdjMjk5`
+Snapshot ID: `MCw3Y2I2ZGIyMTUwNjIwYjI3YzFhMzllNjMxOTBkYTM3YzJmZTAyY2Uy`

@@ -365,6 +365,24 @@
     },
     {
       "album": {
+        "name": "Malibu Babie SZN: Vol I",
+        "url": "https://open.spotify.com/album/0baOUkjYE0kLhwWaGwdu78"
+      },
+      "artists": [
+        {
+          "name": "Malibu Babie",
+          "url": "https://open.spotify.com/artist/30BzssruVp26rt8bIe6LcZ"
+        }
+      ],
+      "date_added": "2024-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144600,
+      "name": "Badonthebeat",
+      "url": "https://open.spotify.com/track/6CjgPFN7Y2Sly314epQUSi"
+    },
+    {
+      "album": {
         "name": "No Boys Allowed (Deluxe)",
         "url": "https://open.spotify.com/album/0YZJKknNK6ljtNIradoHin"
       },

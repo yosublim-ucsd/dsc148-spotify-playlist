@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVH0qr6kxbHI.md) - [plain]
 
 > Canciones inmortales, sentimientos a flor de piel y figuras gigantescas de nuestra música\. Foto: Rocío Jurado
 
-[Spotify](https://open.spotify.com/user/spotify) - 75,739 likes - 75 songs - 4 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 75,790 likes - 75 songs - 4 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,11 +77,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVH0qr6kxbHI.md) - [plain]
 | 67 | [Baladilla De Los Tres Ríos](https://open.spotify.com/track/4LExk9S2etjsOKYQnipaar) | [Pasión Vega](https://open.spotify.com/artist/1SP2KiLZvq07zY1KUoZ3ey) | [Baladilla De Los Tres Ríos](https://open.spotify.com/album/1i9rCl0H6r9v33Bo2LV5lh) | 3:12 |
 | 68 | [Quizas, Quizas, Quizas](https://open.spotify.com/track/1dbVT7RwxBekrWJ0UrPDZb) | [Sara Montiel](https://open.spotify.com/artist/4wQ4PEx8pDp2f0wpsvaSDF) | [The Ultimate Collection](https://open.spotify.com/album/3Sw6xkIaBH2eZtU727ONHX) | 2:43 |
 | 69 | [Lagrimas Negras \(with Diego "El Cigala"\)](https://open.spotify.com/track/6jBq3phksLooRylCPSxzGb) | [Maria Dolores Pradera](https://open.spotify.com/artist/58LNn3iNPmmHusH1EkyBm4), [Diego El Cigala](https://open.spotify.com/artist/7mLYMGXg84miYydKwi2aRi) | [La Colección Definitiva](https://open.spotify.com/album/62TrSoP03z7TiX3ZXGANGg) | 3:46 |
-| 70 | [La Violetera \- Remastered](https://open.spotify.com/track/7cUYlqeqJRM8OepKCQIRmL) | [Sara Montiel](https://open.spotify.com/artist/4wQ4PEx8pDp2f0wpsvaSDF) | [La Violetera \(Remastered\)](https://open.spotify.com/album/47V6DnBwIyOfoGKJRmfEMJ) | 3:42 |
-| 71 | [El relicario \- Remastered](https://open.spotify.com/track/2DM5vKnZNSepFa7Nn3jAMF) | [Sara Montiel](https://open.spotify.com/artist/4wQ4PEx8pDp2f0wpsvaSDF) | [El relicario \(Remastered\)](https://open.spotify.com/album/59DG8gbZHmbrQSdDk4AKwh) | 3:48 |
+| 70 | [La Violetera \- Remastered](https://open.spotify.com/track/1fnwF9jNQWIgFobVf57aF1) | [Sara Montiel](https://open.spotify.com/artist/4wQ4PEx8pDp2f0wpsvaSDF) | [La Violetera \(Remastered\)](https://open.spotify.com/album/0KvJBvbQuMYbFqjcof59iO) | 3:42 |
+| 71 | [El Relicario \- Remastered](https://open.spotify.com/track/5BZZiP3uW35X4g800Vlp5a) | [Sara Montiel](https://open.spotify.com/artist/4wQ4PEx8pDp2f0wpsvaSDF) | [El Relicario \(Remastered\)](https://open.spotify.com/album/6zNaiEgo4rTgCkzdteNsJb) | 3:48 |
 | 72 | [Punto De Partida \(with Monica Naranjo\)](https://open.spotify.com/track/75cWbqIqhfEfX8uOHlgWZV) | [Rocío Jurado](https://open.spotify.com/artist/1FlYevYLENR3IMgMlnMvf9), [Monica Naranjo](https://open.spotify.com/artist/0zGM73sadbAOBLev02P8LO) | [Rocio Siempre](https://open.spotify.com/album/74YcUbPOS42uQJGpWTo9bn) | 7:35 |
 | 73 | [Se Me Enamora el Alma](https://open.spotify.com/track/6FG8TkQCTo5TfOQ6bG5Fxf) | [Isabel Pantoja](https://open.spotify.com/artist/0G2qO3Wbj6WmCTFgcsJ1Eo) | [Pasion Y Deseo \(Sus Grandes Exitos De La Copla Y De La Balada Romantica\)](https://open.spotify.com/album/0RZu47C1vhpUs4QbWJunyg) | 5:05 |
 | 74 | [Se Nos Rompio el Amor \(with Malú\)](https://open.spotify.com/track/2Wp7kX7Kj38MgIBe3p0MBE) | [Rocío Jurado](https://open.spotify.com/artist/1FlYevYLENR3IMgMlnMvf9), [Malú](https://open.spotify.com/artist/3TLGNOdp1UWYMnV5XG9HkR) | [Rocio Siempre](https://open.spotify.com/album/74YcUbPOS42uQJGpWTo9bn) | 4:39 |
 | 75 | [Dejandonos La Piel \(with Lolita\)](https://open.spotify.com/track/7FjpkYUDZhR66hR1Us8PrW) | [Rocío Jurado](https://open.spotify.com/artist/1FlYevYLENR3IMgMlnMvf9), [Lolita](https://open.spotify.com/artist/1Jl0XzEt7csnco2FUybCrK) | [Rocio Siempre](https://open.spotify.com/album/74YcUbPOS42uQJGpWTo9bn) | 4:42 |
 
-Snapshot ID: `MCwwNmUxOWQzNzE5YjUwZjljMDQyZGIzNzBhZTc1Zjc0NTdhZTlkMGI5`
+Snapshot ID: `MCw0YzM3ZTBkYTdmZTU2YjgyMjkyOTY0OWNlMzRhMzEwYTRkZjcyMGZi`

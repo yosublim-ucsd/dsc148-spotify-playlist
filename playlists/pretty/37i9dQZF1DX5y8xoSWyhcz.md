@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5y8xoSWyhcz.md) - [plain]
 
 > it's a vibe \(◡ ‿ ◡ ✿\).
 
-[Spotify](https://open.spotify.com/user/spotify) - 226,326 likes - 125 songs - 6 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 226,355 likes - 125 songs - 6 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5y8xoSWyhcz.md) - [plain]
 | 124 | [Have It In You](https://open.spotify.com/track/0sHou6HBAx8c7ipaOnab6r) | [Stefani Kimber](https://open.spotify.com/artist/4ePVAZ2pFMlU0aFbPc3qgF) | [Have It In You](https://open.spotify.com/album/3Xe1osfRtpz1aIlyxv8Zq4) | 3:22 |
 | 125 | [Stayed at the Party](https://open.spotify.com/track/4oBGba0gIMq5AKc6tTywwX) | [Hope Tala](https://open.spotify.com/artist/74CcYmmNeHKe5PrZaISk8e) | [Stayed at the Party](https://open.spotify.com/album/3fNOwnasCq1Aw0Y4M3Pstq) | 3:33 |
 
-Snapshot ID: `MCxlZmExODM0ODVkZWI4NmFiYmYwZTI3OGE4YTI4NzhjYTg4NmRjMzcx`
+Snapshot ID: `MCw4NDg4Zjk1ZGJmNDJmYzZhNzY1NTFkMzg1NTlkMDk5YWY0ZjE3NDk5`

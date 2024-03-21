@@ -358,7 +358,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-21",
       "duration_ms": 171072,
       "name": "Before I Wake Up",
       "url": "https://open.spotify.com/track/1xGlmw5v4POLlk4NbifkWC"
@@ -779,6 +779,24 @@
     },
     {
       "album": {
+        "name": "Empathy Through Nature",
+        "url": "https://open.spotify.com/album/7LN049499H3XRYnDdcAG6t"
+      },
+      "artists": [
+        {
+          "name": "Echoes and Frequencies",
+          "url": "https://open.spotify.com/artist/4GiTtneqRxV5TqUD5KjgeJ"
+        }
+      ],
+      "date_added": "2024-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195500,
+      "name": "Empathy Through Nature",
+      "url": "https://open.spotify.com/track/4rZKmona0FutPWsrRZt00l"
+    },
+    {
+      "album": {
         "name": "Eosphoros T.Merula",
         "url": "https://open.spotify.com/album/5gpgkGsWmiKDrBl6m5WVwC"
       },
@@ -956,6 +974,24 @@
       "duration_ms": 174000,
       "name": "Grave",
       "url": "https://open.spotify.com/track/4GiPnXSuZCJbnxrZBvRW41"
+    },
+    {
+      "album": {
+        "name": "Hands In The Sky",
+        "url": "https://open.spotify.com/album/56bBodScnFrZTDX0PfpeHW"
+      },
+      "artists": [
+        {
+          "name": "Deepest Minds",
+          "url": "https://open.spotify.com/artist/52ErOF8aEknX03YCwcj6Vp"
+        }
+      ],
+      "date_added": "2024-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164112,
+      "name": "Hands In The Sky",
+      "url": "https://open.spotify.com/track/70ObLIVk41IfOm3ijjifgg"
     },
     {
       "album": {
@@ -1258,7 +1294,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-21",
       "duration_ms": 217619,
       "name": "Luna Nueva",
       "url": "https://open.spotify.com/track/6GLKRIk8YSDDi3BnJIVr4C"
@@ -1582,7 +1618,7 @@
       ],
       "date_added": "2024-02-06",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-17",
+      "date_removed": null,
       "duration_ms": 147786,
       "name": "Nova",
       "url": "https://open.spotify.com/track/1GryGrQ72Nc5xczICPws4E"
@@ -2158,7 +2194,7 @@
       ],
       "date_added": "2024-02-06",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-10",
+      "date_removed": null,
       "duration_ms": 271384,
       "name": "Serene Dream",
       "url": "https://open.spotify.com/track/3phLyMjkzsEK6nXfIsFp7I"
@@ -2230,7 +2266,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-21",
       "duration_ms": 135144,
       "name": "Song from the meadow",
       "url": "https://open.spotify.com/track/74QU8h22gboUmVHpjZAPYg"
@@ -2252,6 +2288,24 @@
       "duration_ms": 138139,
       "name": "Song Of The Willow",
       "url": "https://open.spotify.com/track/2qauTYzfcc16QprcwV8put"
+    },
+    {
+      "album": {
+        "name": "Stolen Stream Moments",
+        "url": "https://open.spotify.com/album/2qy2vMSHgIfGtaxoGjbFPD"
+      },
+      "artists": [
+        {
+          "name": "Soul Pursuit",
+          "url": "https://open.spotify.com/artist/3w48oa6N62cxzWfJQYcGpX"
+        }
+      ],
+      "date_added": "2024-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188500,
+      "name": "Stolen Stream Moments",
+      "url": "https://open.spotify.com/track/7hnw4JKqdaiGhEch2TWoVR"
     },
     {
       "album": {
@@ -2302,7 +2356,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-21",
       "duration_ms": 219643,
       "name": "The Blue Dragon",
       "url": "https://open.spotify.com/track/6oNdphvzPO37XFCLtZMKVC"
@@ -2356,7 +2410,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-21",
       "duration_ms": 229000,
       "name": "The Long Way Home",
       "url": "https://open.spotify.com/track/7waW8AXCVZvytfmgxdKuNf"

@@ -1,12 +1,12 @@
 {
   "description": "Strings and pianos to accompany your latest great read.",
-  "num_followers": 160639,
+  "num_followers": 160722,
   "original_name": "Instrumental Reading",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5YzQyNWNiODQ4ZWRmMjEwM2MwMTA0MGUwNjQxODk1OWIxOGJiZDI0",
+  "snapshot_id": "MCw5Mjc3MzdmMDVmMjMyMGIxMTVlODY1NzEzODZlMzY2Nzk5Mjg5OGY2",
   "tracks": [
     {
       "added_at": "2023-06-27 16:12:39",
@@ -343,6 +343,26 @@
     {
       "added_at": "2023-06-27 16:12:39",
       "album": {
+        "name": "Low Sun",
+        "url": "https://open.spotify.com/album/2rZV82DIS8DASudAIoBEHK"
+      },
+      "artists": [
+        {
+          "name": "Cephas Azariah",
+          "url": "https://open.spotify.com/artist/2QgmTlO54CWmrzQyXLbtRG"
+        },
+        {
+          "name": "Hristo Dunev",
+          "url": "https://open.spotify.com/artist/4MLvUhJnm30eDAF8ZfC6UF"
+        }
+      ],
+      "duration_ms": 196537,
+      "name": "Low Sun",
+      "url": "https://open.spotify.com/track/4CLkN6PDHrMkYbiQIigVz3"
+    },
+    {
+      "added_at": "2023-06-27 16:12:39",
+      "album": {
         "name": "No Time But Eternity",
         "url": "https://open.spotify.com/album/22vYfRDKZAS9Z0r1mH0tsY"
       },
@@ -371,26 +391,6 @@
       "duration_ms": 203546,
       "name": "Ash",
       "url": "https://open.spotify.com/track/6SHUHXfhBf2q8UrmSrTvGH"
-    },
-    {
-      "added_at": "2023-06-27 16:12:39",
-      "album": {
-        "name": "Low Sun",
-        "url": "https://open.spotify.com/album/2rZV82DIS8DASudAIoBEHK"
-      },
-      "artists": [
-        {
-          "name": "Cephas Azariah",
-          "url": "https://open.spotify.com/artist/2QgmTlO54CWmrzQyXLbtRG"
-        },
-        {
-          "name": "Hristo Dunev",
-          "url": "https://open.spotify.com/artist/4MLvUhJnm30eDAF8ZfC6UF"
-        }
-      ],
-      "duration_ms": 196537,
-      "name": "Low Sun",
-      "url": "https://open.spotify.com/track/4CLkN6PDHrMkYbiQIigVz3"
     },
     {
       "added_at": "2023-06-27 16:12:39",
@@ -475,22 +475,6 @@
       "duration_ms": 281841,
       "name": "Everything Is Everything Else",
       "url": "https://open.spotify.com/track/4RKYTpwYHjrriplUOlae20"
-    },
-    {
-      "added_at": "2023-06-27 16:12:39",
-      "album": {
-        "name": "Altair",
-        "url": "https://open.spotify.com/album/2YQBt88g1dxueykouWGrUw"
-      },
-      "artists": [
-        {
-          "name": "Sebastian Zawadzki",
-          "url": "https://open.spotify.com/artist/5UYaW3kkkyj483LiCOleBH"
-        }
-      ],
-      "duration_ms": 186000,
-      "name": "Procyon",
-      "url": "https://open.spotify.com/track/1yzKGJupThHxhezhxAgkEy"
     },
     {
       "added_at": "2023-06-27 16:12:39",
@@ -631,26 +615,6 @@
     {
       "added_at": "2023-06-27 16:12:39",
       "album": {
-        "name": "The Last Gate",
-        "url": "https://open.spotify.com/album/3WOxjZRkOEgzzrK2wjibIy"
-      },
-      "artists": [
-        {
-          "name": "Cesare Picco",
-          "url": "https://open.spotify.com/artist/1yxGwA4z1LaJR0UuQQEKYq"
-        },
-        {
-          "name": "Leonardo Sapere",
-          "url": "https://open.spotify.com/artist/3t5VwuXNi91PtEFW3iLhgP"
-        }
-      ],
-      "duration_ms": 408791,
-      "name": "Inside Me",
-      "url": "https://open.spotify.com/track/0W9q5K8mYvwOU8tc8m7XmJ"
-    },
-    {
-      "added_at": "2023-06-27 16:12:39",
-      "album": {
         "name": "You Will Never Walk Alone (Glowworm Rework)",
         "url": "https://open.spotify.com/album/1KGcUdZHX9AQV7WpfcEwtM"
       },
@@ -671,6 +635,26 @@
     {
       "added_at": "2023-06-27 16:12:39",
       "album": {
+        "name": "The Last Gate",
+        "url": "https://open.spotify.com/album/3WOxjZRkOEgzzrK2wjibIy"
+      },
+      "artists": [
+        {
+          "name": "Cesare Picco",
+          "url": "https://open.spotify.com/artist/1yxGwA4z1LaJR0UuQQEKYq"
+        },
+        {
+          "name": "Leonardo Sapere",
+          "url": "https://open.spotify.com/artist/3t5VwuXNi91PtEFW3iLhgP"
+        }
+      ],
+      "duration_ms": 408791,
+      "name": "Inside Me",
+      "url": "https://open.spotify.com/track/0W9q5K8mYvwOU8tc8m7XmJ"
+    },
+    {
+      "added_at": "2023-06-27 16:12:39",
+      "album": {
         "name": "Transcend",
         "url": "https://open.spotify.com/album/48TZuG4b6WDgNJgvM2IEI1"
       },
@@ -687,22 +671,6 @@
     {
       "added_at": "2023-06-27 16:12:39",
       "album": {
-        "name": "Joshua Tree",
-        "url": "https://open.spotify.com/album/0QOvM8uZd9MukqMjJZZqaw"
-      },
-      "artists": [
-        {
-          "name": "Rolig",
-          "url": "https://open.spotify.com/artist/2ixZdtBEVIZUWLsoPvDQMz"
-        }
-      ],
-      "duration_ms": 157500,
-      "name": "Joshua Tree",
-      "url": "https://open.spotify.com/track/2lhwDrrTEQFiuveT3D2goS"
-    },
-    {
-      "added_at": "2023-06-27 16:12:39",
-      "album": {
         "name": "K\u00e4rlek",
         "url": "https://open.spotify.com/album/5zlFzaQwZqdmwEJuFkVzX8"
       },
@@ -715,6 +683,22 @@
       "duration_ms": 148672,
       "name": "K\u00e4rlek",
       "url": "https://open.spotify.com/track/3biDlhK0lzErVCKW1Yoafk"
+    },
+    {
+      "added_at": "2023-06-27 16:12:39",
+      "album": {
+        "name": "Joshua Tree",
+        "url": "https://open.spotify.com/album/0QOvM8uZd9MukqMjJZZqaw"
+      },
+      "artists": [
+        {
+          "name": "Rolig",
+          "url": "https://open.spotify.com/artist/2ixZdtBEVIZUWLsoPvDQMz"
+        }
+      ],
+      "duration_ms": 157500,
+      "name": "Joshua Tree",
+      "url": "https://open.spotify.com/track/2lhwDrrTEQFiuveT3D2goS"
     },
     {
       "added_at": "2023-06-27 16:12:39",
@@ -847,22 +831,6 @@
     {
       "added_at": "2023-06-27 16:12:39",
       "album": {
-        "name": "Be Here Now",
-        "url": "https://open.spotify.com/album/5uXs3lwuibE9vUFisIoGmH"
-      },
-      "artists": [
-        {
-          "name": "Norman D\u00fcck",
-          "url": "https://open.spotify.com/artist/5v5UYx58FiFAcbWIjZ4kPB"
-        }
-      ],
-      "duration_ms": 136932,
-      "name": "Be Here Now",
-      "url": "https://open.spotify.com/track/6FC7o2qC7oU1Aa6qJAnptQ"
-    },
-    {
-      "added_at": "2023-06-27 16:12:39",
-      "album": {
         "name": "S\u00f3liton",
         "url": "https://open.spotify.com/album/0971hkOs6jrivjyQaAgdqE"
       },
@@ -875,6 +843,22 @@
       "duration_ms": 122347,
       "name": "S\u00f3liton",
       "url": "https://open.spotify.com/track/5WstJ13vyaoD8EqpVbKB8v"
+    },
+    {
+      "added_at": "2023-06-27 16:12:39",
+      "album": {
+        "name": "Be Here Now",
+        "url": "https://open.spotify.com/album/5uXs3lwuibE9vUFisIoGmH"
+      },
+      "artists": [
+        {
+          "name": "Norman D\u00fcck",
+          "url": "https://open.spotify.com/artist/5v5UYx58FiFAcbWIjZ4kPB"
+        }
+      ],
+      "duration_ms": 136932,
+      "name": "Be Here Now",
+      "url": "https://open.spotify.com/track/6FC7o2qC7oU1Aa6qJAnptQ"
     },
     {
       "added_at": "2023-06-27 16:12:39",
@@ -1083,6 +1067,22 @@
       "duration_ms": 258000,
       "name": "Gravegarden",
       "url": "https://open.spotify.com/track/1tvcVyI7ltFhP3LEK2ThKa"
+    },
+    {
+      "added_at": "2023-06-27 16:12:39",
+      "album": {
+        "name": "Altair",
+        "url": "https://open.spotify.com/album/26LhooOyV1xLfqTZxkqSkB"
+      },
+      "artists": [
+        {
+          "name": "Sebastian Zawadzki",
+          "url": "https://open.spotify.com/artist/5UYaW3kkkyj483LiCOleBH"
+        }
+      ],
+      "duration_ms": 186000,
+      "name": "Procyon",
+      "url": "https://open.spotify.com/track/2dURcygV26MUOQuztCjBwX"
     }
   ],
   "unique_name": "Instrumental Reading",

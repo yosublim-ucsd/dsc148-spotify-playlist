@@ -1,12 +1,12 @@
 {
   "description": "Throw your lighters in the air and wave them like you don't care. Cover: Guns N' Roses",
-  "num_followers": 1341524,
+  "num_followers": 1341868,
   "original_name": "Heavy Ballads",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiOTNlMDk4ZjM4MzZlZTczYWJkY2Q0NmVlNDA1NTNiMDAwZmY0NmEw",
+  "snapshot_id": "MCw5NDY3ZTczOTk4ODA5M2ZjNWQ2NDA3NjVlZDZhODJlYjIwNWJkYzI1",
   "tracks": [
     {
       "added_at": "2024-01-02 10:36:29",
@@ -1151,18 +1151,18 @@
     {
       "added_at": "2024-01-02 10:36:29",
       "album": {
-        "name": "Stay Hungry",
-        "url": "https://open.spotify.com/album/0dzqapIToiOhULGvzDKpXm"
+        "name": "And Justice for None",
+        "url": "https://open.spotify.com/album/1hMjINqA3UZ1ITb47wizsC"
       },
       "artists": [
         {
-          "name": "Twisted Sister",
-          "url": "https://open.spotify.com/artist/7b85ve82Sh36a3UAx74wut"
+          "name": "Five Finger Death Punch",
+          "url": "https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM"
         }
       ],
-      "duration_ms": 229493,
-      "name": "The Price",
-      "url": "https://open.spotify.com/track/5iF683hJagzos663BxLns9"
+      "duration_ms": 274615,
+      "name": "Blue on Black",
+      "url": "https://open.spotify.com/track/0buT7DERYwcKnNanKwbrUc"
     },
     {
       "added_at": "2024-01-02 10:36:29",
@@ -1183,18 +1183,18 @@
     {
       "added_at": "2024-01-02 10:36:29",
       "album": {
-        "name": "And Justice for None",
-        "url": "https://open.spotify.com/album/1hMjINqA3UZ1ITb47wizsC"
+        "name": "Stay Hungry",
+        "url": "https://open.spotify.com/album/0dzqapIToiOhULGvzDKpXm"
       },
       "artists": [
         {
-          "name": "Five Finger Death Punch",
-          "url": "https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM"
+          "name": "Twisted Sister",
+          "url": "https://open.spotify.com/artist/7b85ve82Sh36a3UAx74wut"
         }
       ],
-      "duration_ms": 274615,
-      "name": "Blue on Black",
-      "url": "https://open.spotify.com/track/0buT7DERYwcKnNanKwbrUc"
+      "duration_ms": 229493,
+      "name": "The Price",
+      "url": "https://open.spotify.com/track/5iF683hJagzos663BxLns9"
     },
     {
       "added_at": "2024-01-02 10:36:29",
@@ -1571,6 +1571,22 @@
     {
       "added_at": "2024-01-02 10:36:29",
       "album": {
+        "name": "In The Heart Of The Young",
+        "url": "https://open.spotify.com/album/1ww9dziy6w0U2uS88aX6zN"
+      },
+      "artists": [
+        {
+          "name": "Winger",
+          "url": "https://open.spotify.com/artist/2qQeKHrQJHLLbvDAOSO874"
+        }
+      ],
+      "duration_ms": 255333,
+      "name": "Miles Away",
+      "url": "https://open.spotify.com/track/6Hp98J9Z9hRE100nivqg86"
+    },
+    {
+      "added_at": "2024-01-02 10:36:29",
+      "album": {
         "name": "Wings Of Tomorrow",
         "url": "https://open.spotify.com/album/0xvqPhWUfdiLly1cdR4WVx"
       },
@@ -1599,22 +1615,6 @@
       "duration_ms": 390800,
       "name": "Return to Serenity",
       "url": "https://open.spotify.com/track/5awljpWNO5TpXCyjpvCBbs"
-    },
-    {
-      "added_at": "2024-01-02 10:36:29",
-      "album": {
-        "name": "In The Heart Of The Young",
-        "url": "https://open.spotify.com/album/1ww9dziy6w0U2uS88aX6zN"
-      },
-      "artists": [
-        {
-          "name": "Winger",
-          "url": "https://open.spotify.com/artist/2qQeKHrQJHLLbvDAOSO874"
-        }
-      ],
-      "duration_ms": 255333,
-      "name": "Miles Away",
-      "url": "https://open.spotify.com/track/6Hp98J9Z9hRE100nivqg86"
     }
   ],
   "unique_name": "Heavy Ballads",

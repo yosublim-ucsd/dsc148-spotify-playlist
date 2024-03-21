@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Indonesia.
 
-500 songs - 1 day 6 hr 44 min
+501 songs - 1 day 6 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -138,7 +138,7 @@
 | [ELEVEN](https://open.spotify.com/track/7n2FZQsaLb7ZRfRPfEeIvr) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [ELEVEN](https://open.spotify.com/album/1XMYvsHRt52sMi6wittWqI) | 2:58 | 2021-12-05 | 2022-02-17 |
 | [End of Beginning](https://open.spotify.com/track/3qhlB30KknSejmIvZZLjOD) | [Djo](https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm) | [DECIDE](https://open.spotify.com/album/4JDXBZdRPId4devseaAOKH) | 2:39 | 2024-02-29 |  |
 | [enough for you](https://open.spotify.com/track/2TOzTqQXNmR2zDJXihjZ2e) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [SOUR](https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j) | 3:22 | 2021-05-25 | 2021-06-06 |
-| [Evaluasi](https://open.spotify.com/track/2dIBMHByUGcNPzmYBJ6OAj) | [Hindia](https://open.spotify.com/artist/51kyrUsAVqUBcoDEMFkX12) | [Menari Dengan Bayangan](https://open.spotify.com/album/1DAuVHMlBvIjzWZALSUXbn) | 3:14 | 2022-09-18 |  |
+| [Evaluasi](https://open.spotify.com/track/2dIBMHByUGcNPzmYBJ6OAj) | [Hindia](https://open.spotify.com/artist/51kyrUsAVqUBcoDEMFkX12) | [Menari Dengan Bayangan](https://open.spotify.com/album/1DAuVHMlBvIjzWZALSUXbn) | 3:14 | 2022-09-18 | 2024-03-21 |
 | [Every Summertime](https://open.spotify.com/track/68HocO7fx9z0MgDU0ZPHro) | [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [Every Summertime](https://open.spotify.com/album/2HPj0XZe9WduSsyKTQqgVa) | 3:35 | 2021-11-19 | 2022-08-25 |
 | [everything sucks](https://open.spotify.com/track/3z06k8YF9CqX0CGFrlekOK) | [vaultboy](https://open.spotify.com/artist/0K87f3owemzI8NUCoEIXOB) | [everything sucks](https://open.spotify.com/album/0VtWoMZIJp2kyJcbzBJxLO) | 1:55 | 2021-06-20 | 2021-08-08 |
 | [Fall In Love Alone](https://open.spotify.com/track/5xwBIieMMFUmLDgvG4DjFe) | [Stacey Ryan](https://open.spotify.com/artist/3sXwEUqxSzb11VpuFa5cvJ) | [Fall In Love Alone](https://open.spotify.com/album/0ASnNAycI0eu91gMm9Jfe4) | 3:25 | 2022-10-15 | 2023-07-03 |
@@ -207,6 +207,7 @@
 | [Ingkar](https://open.spotify.com/track/15h7bmfCBeJtfuaqAi14dU) | [Tulus](https://open.spotify.com/artist/2iDVt6mFbtbDEZG5ax0dTi) | [Ingkar](https://open.spotify.com/album/5dVK7Kth7ZGAxyZmHs6Nq9) | 4:14 | 2021-08-15 | 2021-08-17 |
 | [Interaksi](https://open.spotify.com/track/32Pdf9eyXDEMoClEJW6yYP) | [Tulus](https://open.spotify.com/artist/2iDVt6mFbtbDEZG5ax0dTi) | [Manusia](https://open.spotify.com/album/3R4IAF9ApqYeUQrv1ddyoR) | 2:50 | 2022-03-05 |  |
 | [Into Your Arms \(feat\. Ava Max\)](https://open.spotify.com/track/0b11D9D0hMOYCIMN3OKreM) | [Witt Lowry](https://open.spotify.com/artist/5ghnxpW47ojtLHHyTLdxdY), [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Into Your Arms \(feat\. Ava Max\)](https://open.spotify.com/album/0boA7GUGSxOMWwdnnTR0yI) | 3:06 | 2021-03-27\* | 2021-04-17 |
+| [intro \(end of the world\)](https://open.spotify.com/track/2o1pb13quMReXZqE7jWsgq) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [eternal sunshine](https://open.spotify.com/album/5EYKrEDnKhhcNxGedaRQeK) | 1:32 | 2024-03-20 |  |
 | [It Will Rain](https://open.spotify.com/track/0RUGuh2uSNFJpGMSsD1F5C) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [The Twilight Saga: Breaking Dawn \- Part 1 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1iGIqDBXm5HpTqHCvdc4QP) | 4:17 | 2023-10-15 | 2024-03-07 |
 | [It Will Rain](https://open.spotify.com/track/4rMNgxEwGWoPHIUcvB5BrB) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [It Will Rain](https://open.spotify.com/album/73pAZrAw8W3Ey9hBJYOVLt) | 4:17 | 2021-04-14 | 2021-08-18 |
 | [It's Only Me \- Studio Version](https://open.spotify.com/track/2CoxJRIhTKvHyFIq9FcDO5) | [Kaleb J](https://open.spotify.com/artist/3sMsWkApnc6yPyMUsNHQlb) | [It's Only Me \(Studio Version\)](https://open.spotify.com/album/2BQkplVABAVVOzvZzRkBQ4) | 3:23 | 2021-08-18 | 2022-08-19 |
@@ -239,7 +240,7 @@
 | [Know Me Too Well \(with Danna Paola\)](https://open.spotify.com/track/2zI9NSx3dncJHCw0QClcx0) | [New Hope Club](https://open.spotify.com/artist/2WuKU0SYZOQyY3MmE4vtez), [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [New Hope Club](https://open.spotify.com/album/1FOu259qTT1V4pFwjR8MXn) | 3:20 | 2021-06-08 | 2021-12-16 |
 | [Komang](https://open.spotify.com/track/19GVttbvglsRrRB8FGGM05) | [Raim Laode](https://open.spotify.com/artist/5LcNPa8f8bRmZqELgoRFkN) | [Komang](https://open.spotify.com/album/6qNAh30wzA0xwInyRza9XD) | 3:42 | 2023-02-23 | 2023-02-26 |
 | [Komang](https://open.spotify.com/track/2AaaE0qvFWtyT8srKNfRhH) | [Raim Laode](https://open.spotify.com/artist/5LcNPa8f8bRmZqELgoRFkN) | [Komang](https://open.spotify.com/album/2N8JUijzZsT2IJnplY4vAE) | 3:42 | 2023-02-15 | 2023-12-03 |
-| [Komang](https://open.spotify.com/track/654ZF6YNWjQS2NhwR3QnX7) | [Raim Laode](https://open.spotify.com/artist/5LcNPa8f8bRmZqELgoRFkN) | [Komang](https://open.spotify.com/album/7F3BUHlrZdaKrtSQ0LEpLm) | 3:42 | 2023-12-02 |  |
+| [Komang](https://open.spotify.com/track/654ZF6YNWjQS2NhwR3QnX7) | [Raim Laode](https://open.spotify.com/artist/5LcNPa8f8bRmZqELgoRFkN) | [Komang](https://open.spotify.com/album/7F3BUHlrZdaKrtSQ0LEpLm) | 3:42 | 2023-12-02 | 2024-03-21 |
 | [Komang](https://open.spotify.com/track/6w5b3VYbq3kp0Nv4iZkAMz) | [Raim Laode](https://open.spotify.com/artist/5LcNPa8f8bRmZqELgoRFkN) | [Komang](https://open.spotify.com/album/63Gd7z1HEDrSr3w2KO55ns) | 3:42 | 2023-02-14 | 2023-02-16 |
 | [Kota](https://open.spotify.com/track/0SeBJ2sAl8CV58kBfpd5va) | [Dere](https://open.spotify.com/artist/3IvlMYb5AvKRfNt7vR8PNP) | [Kota](https://open.spotify.com/album/6kn7hqy1xP6XsYD6rSIhZW) | 3:18 | 2021-03-27\* | 2021-12-26 |
 | [Ku Ingin Pisah](https://open.spotify.com/track/1uy2DsaTtdBO9jBo7KBLWE) | [Nabila Taqiyyah](https://open.spotify.com/artist/0sLoVTeBT6akDY7ecDxKYe) | [Ku Ingin Pisah](https://open.spotify.com/album/3ngxVN1TATHxEYzefJPTQO) | 3:55 | 2023-12-30 |  |
@@ -252,7 +253,7 @@
 | [Lampu Merah](https://open.spotify.com/track/6E7DsxwI4eOcMHLYRUDCaw) | [The Lantis](https://open.spotify.com/artist/1REvGGP2H7cFLGZgK2sStO) | [Pilot](https://open.spotify.com/album/2Ykep6jay9dIiAB9eJq7vo) | 4:58 | 2024-01-31 | 2024-02-14 |
 | [Lampu Merah](https://open.spotify.com/track/7uwo3VQxUlRtKudAjluuTr) | [The Lantis](https://open.spotify.com/artist/1REvGGP2H7cFLGZgK2sStO) | [Pilot](https://open.spotify.com/album/2fm5dfglCcyJ4yVxjIP0qU) | 4:58 | 2023-11-27 | 2024-02-01 |
 | [Langit Abu\-Abu](https://open.spotify.com/track/2FaquTc3FYvNm7RuO1gD6O) | [Tulus](https://open.spotify.com/artist/2iDVt6mFbtbDEZG5ax0dTi) | [Monokrom](https://open.spotify.com/album/4szhn3xPmOJklFAcqNvTnQ) | 3:22 | 2022-03-11 | 2023-02-20 |
-| [Lantas](https://open.spotify.com/track/1ZPVEo8RfmrEz8YAD5n6rW) | [Juicy Luicy](https://open.spotify.com/artist/3tMTXQyRrPmMyHv5SoC0TV) | [Sentimental](https://open.spotify.com/album/17vUW6koeUkV58uYfkK6G3) | 3:54 | 2021-03-27\* | 2024-03-18 |
+| [Lantas](https://open.spotify.com/track/1ZPVEo8RfmrEz8YAD5n6rW) | [Juicy Luicy](https://open.spotify.com/artist/3tMTXQyRrPmMyHv5SoC0TV) | [Sentimental](https://open.spotify.com/album/17vUW6koeUkV58uYfkK6G3) | 3:54 | 2021-03-27\* |  |
 | [Lavender Haze](https://open.spotify.com/track/5jQI2r1RdgtuT8S3iG8zFC) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Midnights](https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3) | 3:22 | 2022-10-22 | 2022-10-24 |
 | [Leave The Door Open](https://open.spotify.com/track/7MAibcTli4IisCtbHKrGMh) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [Silk Sonic](https://open.spotify.com/artist/6PvvGcCY2XtUcSRld1Wilr) | [Leave The Door Open](https://open.spotify.com/album/7dfPqXck6BB9wpThrVYBss) | 4:02 | 2021-03-27\* | 2021-09-19 |
 | [Left and Right \(Feat\. Jung Kook of BTS\)](https://open.spotify.com/track/0mBP9X2gPCuapvpZ7TGDk3) | [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7), [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc), [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Left and Right \(Feat\. Jung Kook of BTS\)](https://open.spotify.com/album/4LyiYe4wZ6XwzUne79hidF) | 2:34 | 2022-06-25 | 2022-10-09 |

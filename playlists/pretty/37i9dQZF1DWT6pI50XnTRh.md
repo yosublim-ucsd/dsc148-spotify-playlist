@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT6pI50XnTRh.md) - [plain]
 
 > Nostalgic '70\-ies and '80\-ies Funk, Disco, Boogie and Afropop music which lit up night clubs across Africa\. Get your boogie on!
 
-[Spotify](https://open.spotify.com/user/spotify) - 185,752 likes - 50 songs - 4 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 185,791 likes - 50 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT6pI50XnTRh.md) - [plain]
 | 34 | [I Like Your Style](https://open.spotify.com/track/7b0bir8Z4KyyBwQfBIjmYY) | [Tony Wilson](https://open.spotify.com/artist/3nwZKsmOiJjn7x0fS3L5ZR) | [I Like Your Style](https://open.spotify.com/album/3N9BeN0UCTwyHADo59PI0g) | 3:05 |
 | 35 | [Living Music](https://open.spotify.com/track/2e8OoF7KghSpQ1MdsX7sJd) | [Onyeka Onwenu](https://open.spotify.com/artist/0AsoglRr6rQ8DZEKWnBPz7) | [Ivory Music Classics, Vol\. 2](https://open.spotify.com/album/0Vhl9WUTA5hBUWy6L6MsmQ) | 6:04 |
 | 36 | [Ma Jaiye Oni](https://open.spotify.com/track/47ZKAaOco4DebMlGRzcvUn) | [King Sunny Ade](https://open.spotify.com/artist/0eatcjNWvGuDEPNnjgPNn1) | [Juju Music](https://open.spotify.com/album/4BsMW0J2DUx9R9fP5TAEYs) | 5:07 |
-| 37 | [Say I Love You](https://open.spotify.com/track/6NkDS793oPRpIAjrAsKNAa) | [Eddy Grant](https://open.spotify.com/artist/6j2HWcd7z61iTLbi8eD0hA) | [This Is Eddy Grant](https://open.spotify.com/album/1GDajHPyvYM4YEUgKNusNX) | 3:55 |
-| 38 | [Don't Let My Rainbow Pass Me By](https://open.spotify.com/track/5F030QnPpy1nMh8UmlHdKD) | [Cloud One](https://open.spotify.com/artist/2B9FE4FTPCJ7W8DrF5wkve), [Margo Williams](https://open.spotify.com/artist/1EzQ066WkkULCd4TByuEqd) | [Spaced Out: The Very Best of Cloud One](https://open.spotify.com/album/3rPJAH1VcOILbQIwfy7Rfz) | 4:40 |
+| 37 | [Don't Let My Rainbow Pass Me By](https://open.spotify.com/track/5F030QnPpy1nMh8UmlHdKD) | [Cloud One](https://open.spotify.com/artist/2B9FE4FTPCJ7W8DrF5wkve), [Margo Williams](https://open.spotify.com/artist/1EzQ066WkkULCd4TByuEqd) | [Spaced Out: The Very Best of Cloud One](https://open.spotify.com/album/3rPJAH1VcOILbQIwfy7Rfz) | 4:40 |
+| 38 | [Say I Love You](https://open.spotify.com/track/6NkDS793oPRpIAjrAsKNAa) | [Eddy Grant](https://open.spotify.com/artist/6j2HWcd7z61iTLbi8eD0hA) | [This Is Eddy Grant](https://open.spotify.com/album/1GDajHPyvYM4YEUgKNusNX) | 3:55 |
 | 39 | [Sugar Cane Baby](https://open.spotify.com/track/5kFPItOjyYqGrNnqsROU42) | [Harry Mosco](https://open.spotify.com/artist/5xRUMq2gshg8BfuXR7QFWl) | [Ivory Music Classics, Vol\. 2](https://open.spotify.com/album/0Vhl9WUTA5hBUWy6L6MsmQ) | 5:31 |
 | 40 | [The Warrior](https://open.spotify.com/track/5wY3a0tPSmZvdAxi9JfrRK) | [Osibisa](https://open.spotify.com/artist/12X85dtebfc7JTZ8iMBT2o) | [Ojah Awake](https://open.spotify.com/album/4jklZxOxbnLsIdCCSTdn63) | 3:46 |
 | 41 | [Baby Kilode](https://open.spotify.com/track/0PYDivZavH4ndRJB6E5iUu) | [Dizzy K Falola](https://open.spotify.com/artist/4QebwA96fgRFgzeXzx9dmj) | [Ivory Music Classics, Vol\. 2](https://open.spotify.com/album/0Vhl9WUTA5hBUWy6L6MsmQ) | 4:25 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT6pI50XnTRh.md) - [plain]
 | 49 | [Love for the Sake of Love](https://open.spotify.com/track/3XfO4iKlM7fdoiJ4uz1wku) | [Claudia Barry](https://open.spotify.com/artist/5Y4hAdGj1mciEktS39vJYN) | [Discomania: Hits Dance 70\-80, Vol\. 6](https://open.spotify.com/album/2lEVsqT80Q3vnYlRkUEZ1d) | 4:27 |
 | 50 | [Trinidad \- Special Disco Mix](https://open.spotify.com/track/4Qb0va1gzVonFxU7vghCfp) | [John Gibbs](https://open.spotify.com/artist/0sByuZOX52ihgJcBMs4i0a), [U.S\. Steel Orchestra](https://open.spotify.com/artist/3Rd64MZkwo6mAbERZVt1aR) | [Joey Negro and Sean P present The Best of Disco Spectrum](https://open.spotify.com/album/4U62xyQiPH0CcBc5INVDK2) | 5:04 |
 
-Snapshot ID: `MCwwNWVjYTc3OTA5NzEzOTUxMTIwZTRiNGIzNGFjNjAxYjkzOWM1NTI1`
+Snapshot ID: `MCwwMTA1YTM4ZDNiZGI0YmNiY2YzYjg5ZmNmNmQ0OTVkNTFmMjdlM2Qw`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX47rExFRJv8.md) - [plain]
 
 > The biggest songs in Latin America in 2018\. Cover: Bad Bunny
 
-[Spotify](https://open.spotify.com/user/spotify) - 79,746 likes - 50 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 79,795 likes - 50 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX47rExFRJv8.md) - [plain]
 | 18 | [La Forma en Que Me Miras](https://open.spotify.com/track/6t94PGXYAuo9GbJEnMpPcW) | [Super Yei](https://open.spotify.com/artist/6HqgxkTt9KGyt27zYrwVan), [Sammy](https://open.spotify.com/artist/2raERfjzsdnUUQeZSge5eZ), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W), [Lenny Tavárez](https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd), [Rafa Pabön](https://open.spotify.com/artist/11YLRSsZA3YVuQQtHXKTlz) | [La Forma en Que Me Miras](https://open.spotify.com/album/4C1RvpT7vJ7H8j21larWQU) | 5:07 |
 | 19 | [Me Niego \(feat\. Ozuna & Wisin\)](https://open.spotify.com/track/4ggiDYAkJ7Yk8d5xOr7Xjo) | [Reik](https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [Wisin](https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz) | [Ahora](https://open.spotify.com/album/4BvD9caT3ZohqNQFcR8dVD) | 3:41 |
 | 20 | [Calma \- Remix](https://open.spotify.com/track/5iwz1NiezX7WWjnCgY5TH4) | [Pedro Capó](https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy), [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO) | [Calma \(Remix\)](https://open.spotify.com/album/1tFnP9PwIMeMIuj92mfswZ) | 3:58 |
-| 21 | [Toda Remix \- Remix](https://open.spotify.com/track/47ZS1OjnJpJVfGN9yHXfMn) | [Alex Rose](https://open.spotify.com/artist/2DspEsT7UXGKd2VaaedgG4), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Lenny Tavárez](https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd), [Cazzu](https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y), [Lyanno](https://open.spotify.com/artist/1Ts9of7VPZElwPQnqnDSfW) | [Toda Remix](https://open.spotify.com/album/49BbDxaXZIPz4sZE6G7618) | 6:07 |
+| 21 | [Toda \(Remix\)](https://open.spotify.com/track/47ZS1OjnJpJVfGN9yHXfMn) | [Alex Rose](https://open.spotify.com/artist/2DspEsT7UXGKd2VaaedgG4), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Lenny Tavárez](https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd), [Cazzu](https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y), [Lyanno](https://open.spotify.com/artist/1Ts9of7VPZElwPQnqnDSfW) | [Toda \(Remix\)](https://open.spotify.com/album/49BbDxaXZIPz4sZE6G7618) | 6:07 |
 | 22 | [Asesina](https://open.spotify.com/track/5lZaM4985p0t3YfizlQWUz) | [Brytiago](https://open.spotify.com/artist/00XhexlJEXQstHimpZN910), [Darell](https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf) | [Asesina](https://open.spotify.com/album/5HfLVrLABowoW9EoCavQld) | 3:07 |
 | 23 | [Te Amo](https://open.spotify.com/track/2RVrdr062uLFxXwIxwdXPH) | [Piso 21](https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd), [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z) | [Te Amo](https://open.spotify.com/album/0sF2dhoiBLVMvuv6qRIpYI) | 3:21 |
 | 24 | [La player \(Bandolera\)](https://open.spotify.com/track/0VKkyBKCXyR99navhVRqcP) | [Zion & Lennox](https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1) | [La Player \(Bandolera\)](https://open.spotify.com/album/57BGq6lpz8RK1cqr2fPVIi) | 4:09 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX47rExFRJv8.md) - [plain]
 | 49 | [Reggaeton](https://open.spotify.com/track/2D3z17LBMJ2HEHeBFFjTLi) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [Reggaeton](https://open.spotify.com/album/5FMJB2xKTMGdM3w6DmC6L5) | 2:38 |
 | 50 | [Celoso](https://open.spotify.com/track/33zcmmElV1YbRZe57biUjg) | [Lele Pons](https://open.spotify.com/artist/6i3DxIlAqnDkwELLw4aVrx) | [Celoso](https://open.spotify.com/album/0gXUZc4bTQzNqLvIyeObHm) | 2:59 |
 
-Snapshot ID: `MCw0MmQzZjBmMWU5NDg2OWIxZDQ1NGY0ZGQ1OWY2YzE2NDEzZTBiN2M5`
+Snapshot ID: `MCw1NDU3NzFkOWQyNDk1MzIxMjNjMWIzZThlMzMwOGU2Yjc3M2ZmOWY5`

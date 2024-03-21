@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX90ssyl6mXB2.md) - [plain]
 
 > late night vibes – notifications off.
 
-[Spotify](https://open.spotify.com/user/spotify) - 72,051 likes - 73 songs - 3 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 72,298 likes - 73 songs - 3 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX90ssyl6mXB2.md) - [plain]
 | 35 | [Belong to the City](https://open.spotify.com/track/5c3luoCub1Z1Gg74NdNtuq) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [PARTYNEXTDOOR TWO](https://open.spotify.com/album/1xwhNJCfTwuRia7Cpo7IbJ) | 1:38 |
 | 36 | [DEAD MAN WALKING](https://open.spotify.com/track/2c2tlXfEmLgUNvxngIi1qL) | [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG) | [WASTELAND](https://open.spotify.com/album/0PHMNbcgHfzSUALlfk7wGg) | 4:07 |
 | 37 | [Unsettling \(feat\. Vory\)](https://open.spotify.com/track/2OpZBsCyLn9jTulj8vURFh) | [Roy Woods](https://open.spotify.com/artist/7mDU6nMUJnOSY2Hkjz5oqM), [Vory](https://open.spotify.com/artist/0GeeIVcvGA8GSlWsoY1dkG) | [Mixed Emotions](https://open.spotify.com/album/4UADm8zx1jjPisT4Gnn0NJ) | 2:44 |
-| 38 | [Sinner](https://open.spotify.com/track/4xiQIdWJI5uT6772AxDe9g) | [Kelz2busy](https://open.spotify.com/artist/7rk80kubaj220eDZQvFYU6) | [Sinner](https://open.spotify.com/album/1uUYrt95TGLSNkjrdjvoOt) | 1:39 |
+| 38 | [Sinner](https://open.spotify.com/track/7fuDGYEbVcW9fJUhrDeOXV) | [Kelz2busy](https://open.spotify.com/artist/7rk80kubaj220eDZQvFYU6) | [Sinner](https://open.spotify.com/album/1legD3bkAr8HutjWGJ2ZS3) | 1:39 |
 | 39 | [act i: stickerz "99"](https://open.spotify.com/track/24A1MxM364lveyyDomwIYq) | [4batz](https://open.spotify.com/artist/5fi7lIgJGH3RgUpJYcffQ7) | [act i: stickerz "99"](https://open.spotify.com/album/7zvLQaWpLG4rZSXgpTsfi9) | 1:44 |
 | 40 | [FWM](https://open.spotify.com/track/1Pfc9dT3gduTVoqzRYXITy) | [alan vuong](https://open.spotify.com/artist/6y1PHaUMkFXcJNhIAmjAk8) | [FWM](https://open.spotify.com/album/76T6f7E3ZovruteP4vnK10) | 2:10 |
 | 41 | [pendulum](https://open.spotify.com/track/5nElZ3cKIdVolDx0YoHJUl) | [Pino](https://open.spotify.com/artist/58DUKFTIbamsxqTHfoofpu) | [memento](https://open.spotify.com/album/54LzVgzLACc6oe6Uv6lbV2) | 3:57 |
@@ -82,4 +82,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX90ssyl6mXB2.md) - [plain]
 | 72 | [sink or swim](https://open.spotify.com/track/7cSzfId9hyN4CjdFKKKojm) | [Chase Shakur](https://open.spotify.com/artist/1gW1Q6W7d3a9dDXk1KlbG8) | [sink or swim](https://open.spotify.com/album/5dk6DPvWnVfKNBhJQBXcsx) | 3:12 |
 | 73 | [Trust](https://open.spotify.com/track/0oufSLnKQDoBFX5mgkDCgR) | [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG) | [Lost](https://open.spotify.com/album/03nFfkhtHqQZZqprep3G6r) | 2:38 |
 
-Snapshot ID: `MCwyOWI1MzI2OTU4MjcwYWMwY2U4Yzk3OWRhZmI3NmRkNmM5ZjE1Y2Iz`
+Snapshot ID: `MCwxOTkwMTg3N2UwZDE5ZDkxODA2ODQ2MjQ4MjY0YTM2OWU4MTc5YmE5`

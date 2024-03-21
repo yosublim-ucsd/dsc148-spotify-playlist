@@ -2,15 +2,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1gjl24GAQC0.md) - [plain]
 
 ### [Hallyu Boy Bands](https://open.spotify.com/playlist/37i9dQZF1DX1gjl24GAQC0)
 
-> Is it your favorite oppa or dongsaeng? \(Cover: HIGHLIGHT\) \[당신의 최애 아이돌 보이 그룹은 어떤 그룹인가요?\]
+> Is it your favorite oppa or dongsaeng? \(Cover: xikers\(싸이커스\)\) \[당신의 최애 아이돌 보이 그룹은 어떤 그룹인가요?\]
 
-[Spotify](https://open.spotify.com/user/spotify) - 820,916 likes - 50 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 820,899 likes - 50 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [BODY](https://open.spotify.com/track/3jH1IMkaF2I1sDgNDbegq5) | [HIGHLIGHT](https://open.spotify.com/artist/3T0fMfxYBU3q9oAUAdPIsr) | [Switch On](https://open.spotify.com/album/1TxNDPYLlpyErnOHazzBrN) | 3:12 |
+| 1 | [We Don’t Stop](https://open.spotify.com/track/67ZvVtW278IHsAxnzglQt4) | [xikers](https://open.spotify.com/artist/6QHP8St0MzfNDqjKpwtMht) | [HOUSE OF TRICKY : Trial And Error](https://open.spotify.com/album/4JyXIbXVhgzCa7DU0K6V1O) | 3:09 |
 | 2 | [WAY 4 LUV](https://open.spotify.com/track/1T6xi2QrnmwaebXGvWAjLg) | [PLAVE](https://open.spotify.com/artist/0k2zyzGq6HX383VlMBOvRG) | [ASTERUM : 134\-1](https://open.spotify.com/album/6uDZ4HPxwnOMpykpzpylDS) | 3:39 |
-| 3 | [We Don’t Stop](https://open.spotify.com/track/67ZvVtW278IHsAxnzglQt4) | [xikers](https://open.spotify.com/artist/6QHP8St0MzfNDqjKpwtMht) | [HOUSE OF TRICKY : Trial And Error](https://open.spotify.com/album/4JyXIbXVhgzCa7DU0K6V1O) | 3:09 |
+| 3 | [BODY](https://open.spotify.com/track/3jH1IMkaF2I1sDgNDbegq5) | [HIGHLIGHT](https://open.spotify.com/artist/3T0fMfxYBU3q9oAUAdPIsr) | [Switch On](https://open.spotify.com/album/1TxNDPYLlpyErnOHazzBrN) | 3:12 |
 | 4 | [I Hate You \(2024\) \- Spotify Singles](https://open.spotify.com/track/2AZhHsWsunXGXKIWioeM6Y) | [SHOWNU X HYUNGWON \(MONSTA X\)](https://open.spotify.com/artist/3AFqxSVdKDJD9qPx3K8tKg) | [I Hate You \(2024\) \- Spotify Singles](https://open.spotify.com/album/1aF8lItq2Esu8pBHJoxXMA) | 2:44 |
 | 5 | [Love or Die](https://open.spotify.com/track/4mNYuIZVcHy6TUBoaCnGpF) | [CRAVITY](https://open.spotify.com/artist/6FkhUhUwSPl3mGB6mmE8wn) | [EVERSHINE](https://open.spotify.com/album/6Vann84OY36Th0qtrewvKJ) | 2:47 |
 | 6 | [I NEED U \- Spotify Singles](https://open.spotify.com/track/3MOa6IKagO2lT9n0sI8fZQ) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [I NEED U \- Spotify Singles](https://open.spotify.com/album/2eUqvZveGueUYsQBRd4NVi) | 3:01 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1gjl24GAQC0.md) - [plain]
 | 49 | [Get A Guitar](https://open.spotify.com/track/3Dah48XTdzVtbIl4dUn6l4) | [RIIZE](https://open.spotify.com/artist/2jOm3cYujQx6o1dxuiuqaX) | [Get A Guitar](https://open.spotify.com/album/4QzCT76QtPCyLinchwVt8l) | 2:40 |
 | 50 | [Fall In Love Again](https://open.spotify.com/track/7e2t41hCiR0sV4Lgv555v3) | [P1Harmony](https://open.spotify.com/artist/3JjvsPeGMbDJqsphe2z8xU) | [Fall In Love Again](https://open.spotify.com/album/7e1u6dK7lvs0JiCLuz83Wj) | 3:28 |
 
-Snapshot ID: `MCwzYjA5ZTA1MWZiZTE2ZjBjN2UwNjVjNDMwM2ZmNjRlNjhhYzhlOTlm`
+Snapshot ID: `MCxjODExYzNhNTBhY2YzYTc2M2ZkNjVmOTg0YzFlMzg1MjZmMjMxNjEw`

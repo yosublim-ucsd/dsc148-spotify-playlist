@@ -4,7 +4,7 @@
 
 > centuries\-old sailor songs gone viral \- it's sea shanty season, baby.
 
-91 songs - 4 hr 45 min
+93 songs - 4 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,9 +51,11 @@
 | [One More Pull](https://open.spotify.com/track/1Auv8vgYeK52K3bIY7Hre6) | [The Wellermen](https://open.spotify.com/artist/20q3NJtmeKSi3BTnmUFK16), [The Longest Johns](https://open.spotify.com/artist/5k979N1TnPncUyqlXlaRSv) | [One More Pull](https://open.spotify.com/album/3XupCY5A1tESidUJpih7ii) | 3:58 | 2022-03-10 | 2022-09-05 |
 | [One More Pull](https://open.spotify.com/track/6gDpLHPrId2edxNY0sLK4z) | [The Wellermen](https://open.spotify.com/artist/20q3NJtmeKSi3BTnmUFK16), [The Longest Johns](https://open.spotify.com/artist/5k979N1TnPncUyqlXlaRSv) | [The Wellermen](https://open.spotify.com/album/5mp34jvXpdx6dJeagEkMkL) | 3:58 | 2022-06-29 |  |
 | [One More Pull](https://open.spotify.com/track/778rEa0Y7vuaP1B10676JW) | [The Wellermen](https://open.spotify.com/artist/20q3NJtmeKSi3BTnmUFK16), [The Longest Johns](https://open.spotify.com/artist/5k979N1TnPncUyqlXlaRSv) | [Wellerman](https://open.spotify.com/album/6laLzUc8vCtgKZEYojvCmF) | 3:58 | 2022-06-29 | 2023-02-13 |
-| [Pump Shanty](https://open.spotify.com/track/7EJGWpYxtTOrJSEA09ihGZ) | [The Sheringham Shantymen](https://open.spotify.com/artist/06bi895n8wIOUi35sk65gJ) | [Songs For Seafarers](https://open.spotify.com/album/4PEk6CidXOxiJOPrKPOuEg) | 3:02 | 2022-03-10 |  |
+| [Pump Shanty](https://open.spotify.com/track/5QP1nI049L2YHHWs13tX3O) | [The Sheringham Shantymen](https://open.spotify.com/artist/06bi895n8wIOUi35sk65gJ) | [Songs for Seafarers](https://open.spotify.com/album/4ISf1TuRToSjy5edec9IBu) | 3:02 | 2023-12-24 |  |
+| [Pump Shanty](https://open.spotify.com/track/7EJGWpYxtTOrJSEA09ihGZ) | [The Sheringham Shantymen](https://open.spotify.com/artist/06bi895n8wIOUi35sk65gJ) | [Songs For Seafarers](https://open.spotify.com/album/4PEk6CidXOxiJOPrKPOuEg) | 3:02 | 2022-03-10 | 2024-03-21 |
 | [Randy Dandy Oh](https://open.spotify.com/track/6Fv0O8eHNcWO1DmF0EMrRc) | [Sean Dagher](https://open.spotify.com/artist/5JgxqXmh1TrVDZn7gAgqLw), [Nils Brown](https://open.spotify.com/artist/42cM14lDAB0KzoBWQ86TWu), [Michiel Schrey](https://open.spotify.com/artist/2KgIhGBEJK4W6Uw5WVeoaV), [Assassin's Creed](https://open.spotify.com/artist/5ct8AlcDgWMp4O25vbcjpC) | [Assassin's Creed 4: Black Flag \(Sea Shanty Edition\) \[Original Game Soundtrack\]](https://open.spotify.com/album/2lMgz2BBwwzkc9ZfNB9zYi) | 1:35 | 2022-03-10 |  |
-| [Rattle Them Winches](https://open.spotify.com/track/4jll6lOP06Ok5xmpBjDt0a) | [The Sheringham Shantymen](https://open.spotify.com/artist/06bi895n8wIOUi35sk65gJ) | [All At Sea](https://open.spotify.com/album/1ATiIHg3nrNSmboxsAk5tm) | 2:39 | 2022-03-10 |  |
+| [Rattle Them Winches](https://open.spotify.com/track/4jll6lOP06Ok5xmpBjDt0a) | [The Sheringham Shantymen](https://open.spotify.com/artist/06bi895n8wIOUi35sk65gJ) | [All At Sea](https://open.spotify.com/album/1ATiIHg3nrNSmboxsAk5tm) | 2:39 | 2022-03-10 | 2024-03-21 |
+| [Rattle Them Winches](https://open.spotify.com/track/7eCs7xhn9nMsCuynTeGIoq) | [The Sheringham Shantymen](https://open.spotify.com/artist/06bi895n8wIOUi35sk65gJ) | [All at Sea](https://open.spotify.com/album/0LYx9LQ3dm7e1fVtR5oNEd) | 2:39 | 2023-12-24 |  |
 | [Ring Down Below](https://open.spotify.com/track/0mPYN69Ko3N8HeaZwZv1am) | [Storm Weather Shanty Choir](https://open.spotify.com/artist/0okdQDzOszSXXqigrEv6wF) | [A Drop of Nelson\`s Blood](https://open.spotify.com/album/0Oe9AaM9QqMoMf63o05qmi) | 1:54 | 2022-03-10 |  |
 | [Rockstar Sea Shanty](https://open.spotify.com/track/7k2t5SM7IsgEtKtRK8V2sm) | [Nickelback](https://open.spotify.com/artist/6deZN1bslXzeGvOLaLMOIF), [The Lottery Winners](https://open.spotify.com/artist/0LLilNa5TUAaUwJwLyOf2b) | [Rockstar Sea Shanty](https://open.spotify.com/album/3sgAfBeKIJA0D7fxkKQzcH) | 2:42 | 2022-03-10 |  |
 | [Roll Alabama, Roll](https://open.spotify.com/track/57L0Dz5MohSeTwdgVS8HO0) | [Duck Pond Sailors](https://open.spotify.com/artist/0nT8N9mfTSaziIrYYBzVSx) | [Sea Songs and Shanties](https://open.spotify.com/album/7cpRahHPnwTIekoIlX7tVV) | 3:44 | 2022-03-10 |  |

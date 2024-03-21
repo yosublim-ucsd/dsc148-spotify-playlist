@@ -1,12 +1,12 @@
 {
   "description": "Nh\u1eefng ca kh\u00fac \u0111\u1ec3 \u0111\u1eddi c\u1ee7a d\u00f2ng nh\u1ea1c v\u00e0ng. \u1ea2nh b\u00eca: L\u1ec7 Quy\u00ean",
-  "num_followers": 35677,
+  "num_followers": 35692,
   "original_name": "Bolero Tuy\u1ec7t Ph\u1ea9m",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0ZmQ0YTVjMjYxY2JjMzFmNTI2MWM4N2JhYzEwOThjZDZmOWQ4ZDZm",
+  "snapshot_id": "MCw2NWNjMmMzNTkzNTlmNDkwOTFlNjJmZmI0YzdmNTNkODljOTFjMTA2",
   "tracks": [
     {
       "added_at": "2024-03-12 05:56:26",
@@ -291,18 +291,18 @@
     {
       "added_at": "2024-03-12 05:56:26",
       "album": {
-        "name": "Xu\u00e2n \u0110i L\u1ec5 Ch\u00f9a",
-        "url": "https://open.spotify.com/album/18i2NFATMQPG1f09I2eAwc"
+        "name": "Chi\u1ec1u Cu\u1ed1i Tu\u1ea7n",
+        "url": "https://open.spotify.com/album/133qaaT0iDJWj8WSrYSMh8"
       },
       "artists": [
         {
-          "name": "Duy Kh\u00e1nh",
-          "url": "https://open.spotify.com/artist/36Ltp1cc3ExQQJ8h9GCT4O"
+          "name": "Ph\u01b0\u01a1ng Anh",
+          "url": "https://open.spotify.com/artist/7cJyqnwFpBTzP1eO1cgPhk"
         }
       ],
-      "duration_ms": 305920,
-      "name": "Xu\u00e2n N\u00e0y Con Kh\u00f4ng V\u1ec1",
-      "url": "https://open.spotify.com/track/7rQUKFLXPOIYpvFKNddRcS"
+      "duration_ms": 354455,
+      "name": "Hoa N\u1edf V\u1ec1 \u0110\u00eam",
+      "url": "https://open.spotify.com/track/66cuTRLlp6GUD06TzELKnj"
     },
     {
       "added_at": "2024-03-12 05:56:26",
@@ -327,18 +327,18 @@
     {
       "added_at": "2024-03-12 05:56:26",
       "album": {
-        "name": "Chi\u1ec1u Cu\u1ed1i Tu\u1ea7n",
-        "url": "https://open.spotify.com/album/133qaaT0iDJWj8WSrYSMh8"
+        "name": "Xu\u00e2n \u0110i L\u1ec5 Ch\u00f9a",
+        "url": "https://open.spotify.com/album/18i2NFATMQPG1f09I2eAwc"
       },
       "artists": [
         {
-          "name": "Ph\u01b0\u01a1ng Anh",
-          "url": "https://open.spotify.com/artist/7cJyqnwFpBTzP1eO1cgPhk"
+          "name": "Duy Kh\u00e1nh",
+          "url": "https://open.spotify.com/artist/36Ltp1cc3ExQQJ8h9GCT4O"
         }
       ],
-      "duration_ms": 354455,
-      "name": "Hoa N\u1edf V\u1ec1 \u0110\u00eam",
-      "url": "https://open.spotify.com/track/66cuTRLlp6GUD06TzELKnj"
+      "duration_ms": 305920,
+      "name": "Xu\u00e2n N\u00e0y Con Kh\u00f4ng V\u1ec1",
+      "url": "https://open.spotify.com/track/7rQUKFLXPOIYpvFKNddRcS"
     },
     {
       "added_at": "2024-03-12 05:56:26",
@@ -531,22 +531,6 @@
     {
       "added_at": "2024-03-12 05:56:26",
       "album": {
-        "name": "Bolero Edition",
-        "url": "https://open.spotify.com/album/7veulXKjGs1XbnMECXrtzL"
-      },
-      "artists": [
-        {
-          "name": "M\u1ef9 T\u00e2m",
-          "url": "https://open.spotify.com/artist/1CWwyDPjCowRTO4p6A7r6g"
-        }
-      ],
-      "duration_ms": 359039,
-      "name": "Hoa Trinh N\u1eef",
-      "url": "https://open.spotify.com/track/1e3XVECaKioH2FdzNM83Fk"
-    },
-    {
-      "added_at": "2024-03-12 05:56:26",
-      "album": {
         "name": "M\u1ed9t Mai Gi\u00e3 T\u1eeb V\u0169 Kh\u00ed",
         "url": "https://open.spotify.com/album/5Mwa2pqo8DKUNvOBhaRdie"
       },
@@ -559,6 +543,22 @@
       "duration_ms": 303893,
       "name": "Qua C\u01a1n M\u00ea",
       "url": "https://open.spotify.com/track/0bjODEyw6tUCWIP7uDZ7Gt"
+    },
+    {
+      "added_at": "2024-03-12 05:56:26",
+      "album": {
+        "name": "Bolero Edition",
+        "url": "https://open.spotify.com/album/7veulXKjGs1XbnMECXrtzL"
+      },
+      "artists": [
+        {
+          "name": "M\u1ef9 T\u00e2m",
+          "url": "https://open.spotify.com/artist/1CWwyDPjCowRTO4p6A7r6g"
+        }
+      ],
+      "duration_ms": 359039,
+      "name": "Hoa Trinh N\u1eef",
+      "url": "https://open.spotify.com/track/1e3XVECaKioH2FdzNM83Fk"
     },
     {
       "added_at": "2024-03-12 05:56:26",
@@ -599,18 +599,22 @@
     {
       "added_at": "2024-03-12 05:56:26",
       "album": {
-        "name": "Tuy\u1ec3n T\u1eadp C\u00e1c Ca Kh\u00fac Tr\u1eef T\u00ecnh D\u01b0\u01a1ng H\u1ed3ng Loan",
-        "url": "https://open.spotify.com/album/1geEbghr8ji6MxvCgQdSaL"
+        "name": "\u0110am m\u00ea - Tuy\u1ec7t Ph\u1ea9m song ca - Phi Nhung M\u1ea1nh Qu\u1ef3nh",
+        "url": "https://open.spotify.com/album/4t5fjzVYhATmyirOztHScw"
       },
       "artists": [
         {
-          "name": "D\u01b0\u01a1ng H\u1ed3ng Loan",
-          "url": "https://open.spotify.com/artist/0HCHCbu99MF7kfRudGZceI"
+          "name": "M\u1ea1nh Qu\u1ef3nh",
+          "url": "https://open.spotify.com/artist/3KTUDQL8OV9Sv6mvLJpS5W"
+        },
+        {
+          "name": "Phi Nhung",
+          "url": "https://open.spotify.com/artist/6MddNz1oXWvuY1ZWrsRqQF"
         }
       ],
-      "duration_ms": 262623,
-      "name": "V\u00f9ng L\u00e1 Me Bay",
-      "url": "https://open.spotify.com/track/5xG5J77DVCO4Kln8UCllJD"
+      "duration_ms": 310200,
+      "name": "\u0110\u1eebng n\u00f3i xa nhau",
+      "url": "https://open.spotify.com/track/1REpQma5LaPQrWAStGy1Hk"
     },
     {
       "added_at": "2024-03-12 05:56:26",
@@ -651,22 +655,18 @@
     {
       "added_at": "2024-03-12 05:56:26",
       "album": {
-        "name": "\u0110am m\u00ea - Tuy\u1ec7t Ph\u1ea9m song ca - Phi Nhung M\u1ea1nh Qu\u1ef3nh",
-        "url": "https://open.spotify.com/album/4t5fjzVYhATmyirOztHScw"
+        "name": "Tuy\u1ec3n T\u1eadp C\u00e1c Ca Kh\u00fac Tr\u1eef T\u00ecnh D\u01b0\u01a1ng H\u1ed3ng Loan",
+        "url": "https://open.spotify.com/album/1geEbghr8ji6MxvCgQdSaL"
       },
       "artists": [
         {
-          "name": "M\u1ea1nh Qu\u1ef3nh",
-          "url": "https://open.spotify.com/artist/3KTUDQL8OV9Sv6mvLJpS5W"
-        },
-        {
-          "name": "Phi Nhung",
-          "url": "https://open.spotify.com/artist/6MddNz1oXWvuY1ZWrsRqQF"
+          "name": "D\u01b0\u01a1ng H\u1ed3ng Loan",
+          "url": "https://open.spotify.com/artist/0HCHCbu99MF7kfRudGZceI"
         }
       ],
-      "duration_ms": 310200,
-      "name": "\u0110\u1eebng n\u00f3i xa nhau",
-      "url": "https://open.spotify.com/track/1REpQma5LaPQrWAStGy1Hk"
+      "duration_ms": 262623,
+      "name": "V\u00f9ng L\u00e1 Me Bay",
+      "url": "https://open.spotify.com/track/5xG5J77DVCO4Kln8UCllJD"
     },
     {
       "added_at": "2024-03-12 05:56:26",

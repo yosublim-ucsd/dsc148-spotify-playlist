@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5CdVP4rz81C.md) - [plain]
 
 > Discover your favorite new chill pop songs\. Cover: Caleb Hearn
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,337,853 likes - 100 songs - 5 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,337,885 likes - 100 songs - 5 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5CdVP4rz81C.md) - [plain]
 | 20 | [Down Swinging](https://open.spotify.com/track/5NCNm0wqVcmeG0JBiEYR72) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [work in progress](https://open.spotify.com/album/2dBv8d4WbvtT4ZUxlri7A5) | 2:56 |
 | 21 | [lucky to lose you \- 24 hour song](https://open.spotify.com/track/7pJ4Wcv3i4q7GCyioXaxLk) | [Michael Gerow](https://open.spotify.com/artist/3Wbs390oASVP3AFZz937tl) | [lucky to lose you \(24 hour song\)](https://open.spotify.com/album/7wW0LjHGhNyeNJ0OjdCYyw) | 3:12 |
 | 22 | [Seriously](https://open.spotify.com/track/2tZydIqc9WGEXu7CMQDvWO) | [Brooke Alexx](https://open.spotify.com/artist/76OGIUhWyFyKOvhRuueDa7) | [Seriously](https://open.spotify.com/album/49mC0ME53Low2Uw4EbzPuq) | 2:50 |
-| 23 | [Too Good to be True](https://open.spotify.com/track/4vIiVs5JoNfqqRi5o7jAIb) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Too Good to be True](https://open.spotify.com/album/57y7NpfTINlnrNitu8vwft) | 2:40 |
+| 23 | [Too Good to be True](https://open.spotify.com/track/27RDQ0TfxzWMlQFuKrPT11) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Deeper Well](https://open.spotify.com/album/5SxZmGwc4eJuPp6PcO4JgJ) | 2:40 |
 | 24 | [if you only knew](https://open.spotify.com/track/2w5iEdgKsFms9vAFq2n3Yy) | [Alexander Stewart](https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT) | [if you only knew](https://open.spotify.com/album/4b2PgBQEZbvwkKwNPlqrBy) | 2:42 |
 | 25 | [Good to Know](https://open.spotify.com/track/2Kf3UJ8g930JLTv66X4Lr6) | [Sadie Jean](https://open.spotify.com/artist/0sMAHzxguan2KpnKFZPW2d) | [Simple Like 17](https://open.spotify.com/album/7kER2cVpZWvqXlds3fJzmU) | 2:42 |
 | 26 | [Lilly](https://open.spotify.com/track/7AmQQNY6A0v1uWxx46hcD3) | [LOVA](https://open.spotify.com/artist/1l2NYhptmHjo64MDOcej1x) | [Hey mom, don’t worry I’m fine](https://open.spotify.com/album/4xfrjscotnULSQSFfjamgr) | 3:10 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5CdVP4rz81C.md) - [plain]
 | 99 | [last girl](https://open.spotify.com/track/1clbhXTQHTCnhAHx4efjXx) | [elijah woods](https://open.spotify.com/artist/3IR6DvP0x2a6oUSist9UMu) | [bright orange everglow](https://open.spotify.com/album/6VyR17Yjzo1zHMpWgT7oNC) | 3:20 |
 | 100 | [Bare Minimum](https://open.spotify.com/track/3ak6UeDAv7Jsao5RCvpUPL) | [Jillian Rossi](https://open.spotify.com/artist/2u2MvYsk6gZY0Khn9SAMeO) | [Bare Minimum](https://open.spotify.com/album/6rQGIOS6BCED2QBALZYw4q) | 3:12 |
 
-Snapshot ID: `MCxmNjlhMGU1ODBiODI2MDNlYzM0MTZmZGI4ZDZlZTk0ODQ0OGVkZGFm`
+Snapshot ID: `MCwyNjcyY2E5ZjIxZWJkNjdjODgzYWUzY2I2ZTQyYmQ3OGQ3ZjBmYTk4`

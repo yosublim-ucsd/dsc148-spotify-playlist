@@ -4,7 +4,7 @@
 
 > The full collection of Spotify Singles recordings\. Cover: Sabrina Carpenter
 
-1,167 songs - 2 day 22 hr 58 min
+1,169 songs - 2 day 23 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -767,6 +767,7 @@
 | [O Mundo Dá Voltas \- Spotify Singles](https://open.spotify.com/track/1yz7wQVh2A3cCED0QPpfGU) | [Grupo Menos É Mais](https://open.spotify.com/artist/6vTqEFbTtTRJsuIpzZgjxi) | [O Mundo Dá Voltas \(Spotify Singles\)](https://open.spotify.com/album/59kSwQ4mkGJ5YVmVgmQv3s) | 3:06 | 2022-02-09 |  |
 | [Obsession \- Recorded At Sound Stage Nashville](https://open.spotify.com/track/5sA2geKL9Ocm79kmNjiHz7) | [Hillsong Worship](https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24) | [Spotify Singles](https://open.spotify.com/album/32tGEI5vhc1FfmDO3JBG1n) | 5:56 | 2022-01-19 |  |
 | [ocean eyes \- Recorded Live at Jungle City Studios](https://open.spotify.com/track/7rLokcIMP9p8fl0iROdVfC) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [Spotify Singles](https://open.spotify.com/album/5AS789PRyPv5B6l17kLfAW) | 3:04 | 2022-01-19 |  |
+| [Ode To The Mets \- Spotify Singles](https://open.spotify.com/track/0Yg8GLyRPafmqNcgY9Pjnd) | [Daria Zawiałow](https://open.spotify.com/artist/0tdKRrbItnLj40yUFi23jx), [Albert Hammond Jr](https://open.spotify.com/artist/1Li0eIWeMeWcOOWpImcG9H) | [Spotify Singles](https://open.spotify.com/album/6fj664eI7LI2Ngcu76YVWq) | 4:50 | 2024-03-20 |  |
 | [Oh Sorry Ya](https://open.spotify.com/track/03HYOtfzbzx0HPHMcfLFOe) | [SUNMI](https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6) | [Oh Sorry Ya](https://open.spotify.com/album/4LKKDcLPX4aZXGfnlpFPi7) | 2:35 | 2022-03-08 |  |
 | [OMOGE WA JO](https://open.spotify.com/track/1r2aKropSpSFb37Nmtp8WT) | [Cruel Santino](https://open.spotify.com/artist/15GgEOJiFyjQm4tZ4D7qih), [L0LA](https://open.spotify.com/artist/5LkJ2e1N1SuXrUIWkw1r0o) | [OMOGE WA JO](https://open.spotify.com/album/6PyyxJkmIZbybiMrOjpPNh) | 2:25 | 2023-05-31 |  |
 | [OMOGE WA JO](https://open.spotify.com/track/3ra7ztUfRIwxw0sO8PhmMC) | [Cruel Santino](https://open.spotify.com/artist/15GgEOJiFyjQm4tZ4D7qih), [L0LA](https://open.spotify.com/artist/5LkJ2e1N1SuXrUIWkw1r0o) | [OMOGE WA JO](https://open.spotify.com/album/0gZF6kUZ77XxQA23NkNp5K) | 2:25 | 2022-10-28 | 2023-07-16 |
@@ -1174,6 +1175,7 @@
 | [Young Blood \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/5IIytiriguJDtDUyGFEkTV) | [The Naked And Famous](https://open.spotify.com/artist/0oeUpvxWsC8bWS6SnpU8b9) | [Spotify Singles](https://open.spotify.com/album/13scWMWL4kcdSX4yFLF0x5) | 3:34 | 2022-10-12 |  |
 | [Young Dumb & Broke \- Recorded At The Colosseum, Caesars Palace, Las Vegas](https://open.spotify.com/track/28rT3OwXdw4VF1MPYIk1P6) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [Spotify Singles](https://open.spotify.com/album/7HNrFnh0uwG7DuXdgGEY0z) | 3:49 | 2022-01-19 |  |
 | [Yours If You Want It \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/7IEKsQr25onXLLYaOyD27n) | [Rascal Flatts](https://open.spotify.com/artist/0a1gHP0HAqALbEyxaD5Ngn) | [Spotify Singles](https://open.spotify.com/album/45zKHbhnFK7yWhr3PvCwlC) | 3:25 | 2022-01-19 |  |
+| [Złamane serce jest OK \- Spotify Singles](https://open.spotify.com/track/2XQ874bVqTfbXeValJPV4Z) | [Daria Zawiałow](https://open.spotify.com/artist/0tdKRrbItnLj40yUFi23jx), [Albert Hammond Jr](https://open.spotify.com/artist/1Li0eIWeMeWcOOWpImcG9H) | [Spotify Singles](https://open.spotify.com/album/6fj664eI7LI2Ngcu76YVWq) | 3:34 | 2024-03-20 |  |
 | [腦海中 \- Spotify Singles](https://open.spotify.com/track/0IIKkSAxQhi8Kd2vKsC2qo) | [落日飛車 Sunset Rollercoaster](https://open.spotify.com/artist/7BqRcZsHYYQeqMAOp7e532) | [Spotify Singles](https://open.spotify.com/album/7ChLJ2d4pLNKIrLSuGl8Df) | 3:46 | 2023-07-25 |  |
 
 \*This playlist was first scraped on 2022-01-25. Prior content cannot be recovered.

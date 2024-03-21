@@ -4,7 +4,7 @@
 
 > Music from TV Anime "ONE PIECE" /TVアニメ「ONE PIECE」の楽曲を1つのプレイリストで。©️尾田栄一郎／集英社・フジテレビ・東映アニメーション
 
-58 songs - 3 hr 21 min
+59 songs - 3 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,7 +64,8 @@
 | [行け行け!麦わらの一味!!](https://open.spotify.com/track/3sJfHZoWQkP7uFPH0VLY70) | [Kohei Tanaka](https://open.spotify.com/artist/74ov6NjGYL0LHHyDD2Dy2b) | [ONE PIECE MUSIC MATERIAL \(Vol.1\)](https://open.spotify.com/album/3e3bVLPrES1o1X0rN4Oiyu) | 1:45 | 2023-08-23 |  |
 | [覚醒したルフィの活躍](https://open.spotify.com/track/1XIw0Vp05DHkOcp0Rzkpii) | [Kohei Tanaka](https://open.spotify.com/artist/74ov6NjGYL0LHHyDD2Dy2b) | [ONE PIECE オリジナルサウンドトラック"WANOKUNI"](https://open.spotify.com/album/0DyIQWyWWthQ3f9xRP1hXa) | 1:44 | 2023-08-23 |  |
 | [頂上戦争](https://open.spotify.com/track/36m8jgxuYk5A6QWUJaUez0) | [Kohei Tanaka](https://open.spotify.com/artist/74ov6NjGYL0LHHyDD2Dy2b) | [ONE PIECE MUSIC MATERIAL \(Vol.2\)](https://open.spotify.com/album/4ws5nZWlUQ50f3wt2zho95) | 1:28 | 2023-08-23 | 2024-01-08 |
-| [風をさがして](https://open.spotify.com/track/6IePUG4Jy9dKA0zp3VAMeo) | [Mari Yaguchi](https://open.spotify.com/artist/1MCUIn9Um8kgMIdfgsFl1d), [ストローハット](https://open.spotify.com/artist/122cdkCJMnlTpK8RVdA7Ht) | [風をさがして](https://open.spotify.com/album/3Y9UDMo90lvIwaEp2aAQlZ) | 4:05 | 2023-08-23 |  |
+| [風をさがして](https://open.spotify.com/track/48Upc2XlJ66ckHn43e7Uet) | [Mari Yaguchi](https://open.spotify.com/artist/1MCUIn9Um8kgMIdfgsFl1d) | [風をさがして](https://open.spotify.com/album/2EsJtDNBtiJgSjYiKAwk7W) | 4:05 | 2024-02-28 |  |
+| [風をさがして](https://open.spotify.com/track/6IePUG4Jy9dKA0zp3VAMeo) | [Mari Yaguchi](https://open.spotify.com/artist/1MCUIn9Um8kgMIdfgsFl1d), [ストローハット](https://open.spotify.com/artist/122cdkCJMnlTpK8RVdA7Ht) | [風をさがして](https://open.spotify.com/album/3Y9UDMo90lvIwaEp2aAQlZ) | 4:05 | 2023-08-23 | 2024-03-21 |
 | [麦わらの一味VSマッドトレジャー一味](https://open.spotify.com/track/78Xn7fcliybiDG8zwK9Uqz) | [Kohei Tanaka](https://open.spotify.com/artist/74ov6NjGYL0LHHyDD2Dy2b) | [ONE PIECE MUSIC MATERIAL \(Vol.2\)](https://open.spotify.com/album/4ws5nZWlUQ50f3wt2zho95) | 2:58 | 2023-08-23 | 2024-01-26 |
 
 \*This playlist was first scraped on 2023-08-24. Prior content cannot be recovered.

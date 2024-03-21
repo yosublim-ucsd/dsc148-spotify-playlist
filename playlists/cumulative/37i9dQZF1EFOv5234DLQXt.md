@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/625Qzz0OJmeDpIbOZwjf8G">Gustavo Cerati</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-115 songs - 8 hr 0 min
+116 songs - 8 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -100,7 +100,8 @@
 | [Sobredosis De T.V.](https://open.spotify.com/track/07J7TC2stMffmg5FM3lGQC) | [Soda Stereo](https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp) | [Originales \- 20 Exitos](https://open.spotify.com/album/75LbseLsPdTkMO9oUD9J8n) | 4:10 | 2024-01-29 |  |
 | [Sueles Dejarme Solo](https://open.spotify.com/track/7qz2gGwfzqREato14g4tk4) | [Soda Stereo](https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp) | [Originales \- 20 Exitos](https://open.spotify.com/album/75LbseLsPdTkMO9oUD9J8n) | 3:48 | 2024-01-29 |  |
 | [Sweet Sahumerio \- Remasterizado 2007](https://open.spotify.com/track/0GcU3ZhlnF5k3vKjqPRifa) | [Soda Stereo](https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp) | [Dynamo \(Remastered\)](https://open.spotify.com/album/4bfwXuecOmNVlPM5RStAiQ) | 6:03 | 2024-01-29 |  |
-| [Tabú \(feat\. Ely Guerra\)](https://open.spotify.com/track/5yEz5u9lfLHDO1s7aMcq8s) | [Twanguero](https://open.spotify.com/artist/1qupsn74dUofcXCZCBEwMS) | [Argentina Songbook](https://open.spotify.com/album/5FNdQV7A2U2tSAfDuHFhdu) | 4:39 | 2024-01-29 |  |
+| [Tabu](https://open.spotify.com/track/5NHyNFYxLRifc2kI1FqDUP) | [Gustavo Cerati](https://open.spotify.com/artist/1QOmebWGB6FdFtW7Bo3F0W) | [Bocanada](https://open.spotify.com/album/2rIdWbXPjcq8K7BCccBhhC) | 4:48 | 2024-03-20 |  |
+| [Tabú \(feat\. Ely Guerra\)](https://open.spotify.com/track/5yEz5u9lfLHDO1s7aMcq8s) | [Twanguero](https://open.spotify.com/artist/1qupsn74dUofcXCZCBEwMS) | [Argentina Songbook](https://open.spotify.com/album/5FNdQV7A2U2tSAfDuHFhdu) | 4:39 | 2024-01-29 | 2024-03-21 |
 | [Te Hacen Falta Vitaminas](https://open.spotify.com/track/0RlpuslAJMOhXHsuyhEpvn) | [Soda Stereo](https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp) | [Originales \- 20 Exitos](https://open.spotify.com/album/75LbseLsPdTkMO9oUD9J8n) | 2:38 | 2024-01-29 |  |
 | [Te Hacen Falta Vitaminas](https://open.spotify.com/track/22KA3JofMEiB0rvD7z5Kbg) | [Soda Stereo](https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp) | [Te Hacen Falta Vitaminas \(Official Video\)](https://open.spotify.com/album/64lxmlDJgzblBcty8oCEBJ) | 2:39 | 2024-01-30 | 2024-02-01 |
 | [Te Llevo para Que Me Lleves](https://open.spotify.com/track/5rGphVLnbPdyBQ5X3rjb2X) | [Gustavo Cerati](https://open.spotify.com/artist/1QOmebWGB6FdFtW7Bo3F0W) | [Amor Amarillo](https://open.spotify.com/album/75onhE4ne52iMHlVcpHUKR) | 3:44 | 2024-01-29 |  |

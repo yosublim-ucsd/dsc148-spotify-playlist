@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTTHy0vndijk.md) - [plain]
 
 > Max out your sugar content with these pure and aegyo tracks from our favorite ladies\. Cover: Kim Namjoo \(상큼하고 발랄, 청순한 여아이돌의 세계에 빠져보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 526,148 likes - 57 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 526,133 likes - 57 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,8 +24,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTTHy0vndijk.md) - [plain]
 | 14 | [Love Me Back](https://open.spotify.com/track/2IMPPA9UZpqTnnVIy9lDHU) | [fromis\_9](https://open.spotify.com/artist/24nUVBIlCGi4twz4nYxJum) | [Love Me Back \(From "Operation: True Love"\)](https://open.spotify.com/album/27pVj89kJGZkJfgNbGqGY9) | 3:06 |
 | 15 | [Ditto](https://open.spotify.com/track/3r8RuvgbX9s7ammBn07D3W) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [Ditto](https://open.spotify.com/album/7bnqo1fdJU9nSfXQd3bSMe) | 3:05 |
 | 16 | [After School](https://open.spotify.com/track/52CBUrIdyf8tbZaUY9iawE) | [Weeekly](https://open.spotify.com/artist/73B9bjqS2Z5KLXNGqXf64m) | [We play](https://open.spotify.com/album/4kU6DFVgZKoDYQPZk1OZp9) | 3:25 |
-| 17 | [Either Way](https://open.spotify.com/track/6ezYHltHYhuJckdCsYsRJI) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [Either Way](https://open.spotify.com/album/31ZO3EEc4JPomzMGed9BEV) | 2:46 |
-| 18 | [ASAP](https://open.spotify.com/track/5BXr7hYZQOeRttkeWYTq5S) | [STAYC](https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0) | [STAYDOM](https://open.spotify.com/album/71hjsg660uio3Z8bnbB6fS) | 3:14 |
+| 17 | [ASAP](https://open.spotify.com/track/5BXr7hYZQOeRttkeWYTq5S) | [STAYC](https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0) | [STAYDOM](https://open.spotify.com/album/71hjsg660uio3Z8bnbB6fS) | 3:14 |
+| 18 | [Either Way](https://open.spotify.com/track/6ezYHltHYhuJckdCsYsRJI) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [Either Way](https://open.spotify.com/album/31ZO3EEc4JPomzMGed9BEV) | 2:46 |
 | 19 | [Better Things](https://open.spotify.com/track/6zZWoHlF2zNSLUNLvx4GUl) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Better Things](https://open.spotify.com/album/1SHLOv0DDdRecK60z86Lth) | 3:23 |
 | 20 | [Cupid](https://open.spotify.com/track/36ylDwMUz1EqrdbfBF8vC7) | [FIFTY FIFTY](https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6) | [The Beginning](https://open.spotify.com/album/5If2zLk3mlHXuhIS7rQF90) | 2:54 |
 | 21 | [Panorama](https://open.spotify.com/track/0CnpSTdL9l5vQM4YnzXtyo) | [IZ\*ONE](https://open.spotify.com/artist/5r1tUTxVSgvBHnoDuDODPH) | [One\-reeler / Act IV](https://open.spotify.com/album/3gfl9D7cMW3K87YiMbqsWK) | 3:42 |
@@ -66,4 +66,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTTHy0vndijk.md) - [plain]
 | 56 | [Power Up](https://open.spotify.com/track/381g0b6QZxC13SzA2HRMIc) | [Red Velvet](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) | [Summer Magic \- Summer Mini Album](https://open.spotify.com/album/5zWa1ZEUBctbKqvwXbFawo) | 3:22 |
 | 57 | [Good Morning](https://open.spotify.com/track/4zXbnTwqwQcRdDILZVKZSQ) | [YENA](https://open.spotify.com/artist/49muoiIu4uea4PO8vueUNN) | [GOOD MORNING](https://open.spotify.com/album/1kfvY0GjQJhhDNjTpy7xOs) | 3:04 |
 
-Snapshot ID: `MCwxMDI0OTY4YmY4MTY1YjBhZTQyNDEwZjQ2NzNkMDVlMzMxNzFjNmUy`
+Snapshot ID: `MCxlMzAyMzI2ZTI3YTFhNWU5M2I3MzU0ZWFlZThjZWQzOTVhMzQ2MGUw`

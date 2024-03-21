@@ -4,7 +4,7 @@
 
 > 
 
-1,873 songs - 4 day 5 hr 8 min
+1,874 songs - 4 day 5 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1730,6 +1730,7 @@
 | [U,U,D,D,L,R,L,R,A,B,Select,Start](https://open.spotify.com/track/7br4LajZITrs7eNPbwll9R) | [Deftones](https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH) | [Saturday Night Wrist](https://open.spotify.com/album/4o1KnoVpzXZceJxyjELEQB) | 4:12 | 2022-04-03 |  |
 | [Uber Everywhere](https://open.spotify.com/track/7zBPzAjKAqQpcv8F8GCq5s) | [MadeinTYO](https://open.spotify.com/artist/5SyGEPymt1G2uto47tVWvZ) | [Uber Everywhere](https://open.spotify.com/album/7asvyIMzbsyAJpbC47wjBV) | 2:33 | 2021-08-05 |  |
 | [Ugliest](https://open.spotify.com/track/2Q9nA56DKKJhj4cHMbHlAS) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0) | [Long Term Effects of SUFFERING](https://open.spotify.com/album/3dgsCZMswt6TWbsKcMgoO2) | 2:58 | 2023-12-26 |  |
+| [Ugly](https://open.spotify.com/track/3qDbBtbRv6eBls6q51pAL7) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0) | [High Tide in the Snake's Nest](https://open.spotify.com/album/7gMzKwKAsbooGeKgDlX2TL) | 2:35 | 2024-03-20 |  |
 | [UNBREAKABLE](https://open.spotify.com/track/3rcW5osqGbwP1KUdAhtkBF) | [AViVA](https://open.spotify.com/artist/50tDsT4wwq8FCMJNkn1D67) | [UNBREAKABLE](https://open.spotify.com/album/48PMOYTHYgM6vuiy0JiJQb) | 2:55 | 2021-11-14 |  |
 | [Undercover Agents](https://open.spotify.com/track/7Mr7iSIDm5CnZ5b3DIPQO5) | [Enter Shikari](https://open.spotify.com/artist/31jvzuB4ikftPQZJwrYfCF) | [The Spark](https://open.spotify.com/album/6i96oOlC1X5vz2XBE5fL3V) | 4:30 | 2021-08-05 |  |
 | [Undress](https://open.spotify.com/track/3vHTp0PSVjgnqocdLHCk19) | [Pretty Sick](https://open.spotify.com/artist/5JUGL6ec4eULQ5eVEbOC7e) | [Deep Divine](https://open.spotify.com/album/5eS6gZNJGVUix4rp2WyUyQ) | 3:59 | 2022-10-01 |  |

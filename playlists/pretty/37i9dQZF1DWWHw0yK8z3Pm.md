@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWHw0yK8z3Pm.md) - [plain]
 
 > Fearless sounds at the crossroads of country and folk\. Cover: Kacey Musgraves
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,308 likes - 100 songs - 6 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,333 likes - 100 songs - 6 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Too Good to be True](https://open.spotify.com/track/4vIiVs5JoNfqqRi5o7jAIb) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Too Good to be True](https://open.spotify.com/album/57y7NpfTINlnrNitu8vwft) | 2:40 |
+| 1 | [Too Good to be True](https://open.spotify.com/track/27RDQ0TfxzWMlQFuKrPT11) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Deeper Well](https://open.spotify.com/album/5SxZmGwc4eJuPp6PcO4JgJ) | 2:40 |
 | 2 | [Bitter Winds](https://open.spotify.com/track/4X9UTklC74F5hnlVjrPbnN) | [Dylan Gossett](https://open.spotify.com/artist/4H4M0Y4cN39zIVDHvdW53x) | [Bitter Winds](https://open.spotify.com/album/3IMFjhO4GoOADq0tFXhvGg) | 4:21 |
 | 3 | [Find Your People](https://open.spotify.com/track/6GuyIXoGIaTw1Pg6Ug9enJ) | [Drew Holcomb & The Neighbors](https://open.spotify.com/artist/4RwbDag6jWIYJnEGH6Wte9) | [Find Your People](https://open.spotify.com/album/1a2RJNW9AkEtgK4Pt3hUlY) | 3:14 |
 | 4 | [Completely, Sweetly](https://open.spotify.com/track/2mXVXW1UWO1m4hFuqg4sRO) | [The Dead South](https://open.spotify.com/artist/3HR1xtIsUefdFnkI1XHgeA) | [Chains & Stakes](https://open.spotify.com/album/7y1TBs8QPwekErm9r0YZy7) | 3:51 |
@@ -71,12 +71,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWHw0yK8z3Pm.md) - [plain]
 | 61 | [Don't Do Me Good](https://open.spotify.com/track/0oiiE9xAEoq7Pk49LtDc9W) | [Madi Diaz](https://open.spotify.com/artist/7E1o9IcnpiFQDlAUk2H7Az), [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Don't Do Me Good](https://open.spotify.com/album/26sIa4onZCyC8VWiKLSwuB) | 4:13 |
 | 62 | [Underground](https://open.spotify.com/track/6bpoSwD4xu2WWIVQH07LMa) | [City and Colour](https://open.spotify.com/artist/74gcBzlQza1bSfob90yRhR) | [The Love Still Held Me Near](https://open.spotify.com/album/57arSTDRPVYZRm6uIuR1ym) | 3:56 |
 | 63 | [Tom Barrett](https://open.spotify.com/track/6YbQXUNroKs9qofA8gttor) | [Ian Noe](https://open.spotify.com/artist/2TEpPi5SFalflhpcQHq3lB) | [River Fools & Mountain Saints](https://open.spotify.com/album/6OsF7JfA48kcvWcV4auWIl) | 3:13 |
-| 64 | [Wolves](https://open.spotify.com/track/48WgsmbLBu9emLSodjG0O5) | [Ryan Bingham](https://open.spotify.com/artist/31z9f9AyPawiq0qlBO1M3i) | [American Love Song](https://open.spotify.com/album/6MiafQveSkts5v397zarWq) | 4:32 |
-| 65 | [C'mon Baby, Cry](https://open.spotify.com/track/67swXHVknS142T5tIcNFkl) | [Orville Peck](https://open.spotify.com/artist/46auOkH1pk28rWrSoUNhLo) | [Bronco](https://open.spotify.com/album/2hCcPHWTbvF81CiXPUrM6I) | 3:30 |
-| 66 | [Mountain Song](https://open.spotify.com/track/2V7pN4tpheOfsPd7JkUQ22) | [Flatland Cavalry](https://open.spotify.com/artist/4SfGzWmeoNPKIOmiyc7Pav) | [Songs To Keep You Warm](https://open.spotify.com/album/5Kh73PeLCIOd88y9ouZc08) | 4:09 |
+| 64 | [Mountain Song](https://open.spotify.com/track/2V7pN4tpheOfsPd7JkUQ22) | [Flatland Cavalry](https://open.spotify.com/artist/4SfGzWmeoNPKIOmiyc7Pav) | [Songs To Keep You Warm](https://open.spotify.com/album/5Kh73PeLCIOd88y9ouZc08) | 4:09 |
+| 65 | [Wolves](https://open.spotify.com/track/48WgsmbLBu9emLSodjG0O5) | [Ryan Bingham](https://open.spotify.com/artist/31z9f9AyPawiq0qlBO1M3i) | [American Love Song](https://open.spotify.com/album/6MiafQveSkts5v397zarWq) | 4:32 |
+| 66 | [C'mon Baby, Cry](https://open.spotify.com/track/67swXHVknS142T5tIcNFkl) | [Orville Peck](https://open.spotify.com/artist/46auOkH1pk28rWrSoUNhLo) | [Bronco](https://open.spotify.com/album/2hCcPHWTbvF81CiXPUrM6I) | 3:30 |
 | 67 | [Right on Time](https://open.spotify.com/track/5i4WgW0TL9VSosy73Q3Ttv) | [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [In These Silent Days](https://open.spotify.com/album/5mIT7iw9w64DMP2vxP9L1f) | 3:05 |
-| 68 | [Golden Embers](https://open.spotify.com/track/4OkKz8LhKo846kN3nncNZs) | [Watchhouse](https://open.spotify.com/artist/675tsBPpaZtqyiBwEf3ZEP) | [Tides of a Teardrop](https://open.spotify.com/album/2SWy4Nbpw77DzLkwXba7Hk) | 4:45 |
-| 69 | [Bluebird Singing](https://open.spotify.com/track/7LlmSAqvcpjheDytACHfDu) | [John Vincent III](https://open.spotify.com/artist/1sgVcCMCarG7yWGmkP9wMb) | [Songs For The Canyon](https://open.spotify.com/album/1k7iymTuRK6I4tvn0SX38I) | 4:00 |
+| 68 | [Bluebird Singing](https://open.spotify.com/track/7LlmSAqvcpjheDytACHfDu) | [John Vincent III](https://open.spotify.com/artist/1sgVcCMCarG7yWGmkP9wMb) | [Songs For The Canyon](https://open.spotify.com/album/1k7iymTuRK6I4tvn0SX38I) | 4:00 |
+| 69 | [Golden Embers](https://open.spotify.com/track/4OkKz8LhKo846kN3nncNZs) | [Watchhouse](https://open.spotify.com/artist/675tsBPpaZtqyiBwEf3ZEP) | [Tides of a Teardrop](https://open.spotify.com/album/2SWy4Nbpw77DzLkwXba7Hk) | 4:45 |
 | 70 | [Broadview](https://open.spotify.com/track/1hTbH1tGOQ2sqVav7iDHfQ) | [Slow Pulp](https://open.spotify.com/artist/2JFTRDi5v7JtqoouVe1z5D) | [Yard](https://open.spotify.com/album/1KHEiLyeBq82jCqzllcXu9) | 4:05 |
 | 71 | [Snakes and Waterfalls](https://open.spotify.com/track/6f3lNzsCCWKFWfAG4uuqpC) | [Nick Shoulders](https://open.spotify.com/artist/4Vydw38lzh6aKIGqzZdwRS) | [Lonely Like Me](https://open.spotify.com/album/2apvtGe2jSNLqT0vOJvwmf) | 4:02 |
 | 72 | [Mean Old Sun](https://open.spotify.com/track/4kXeBpZekIq5f6I6hFcNk5) | [Turnpike Troubadours](https://open.spotify.com/artist/1YSA4byX5AL1zoTsSTlB03) | [Mean Old Sun](https://open.spotify.com/album/3iQR8qK9tsam26456UNnmk) | 4:08 |
@@ -101,12 +101,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWHw0yK8z3Pm.md) - [plain]
 | 91 | [Into The Unknown](https://open.spotify.com/track/2CsTLX6go5L9CGnaoLmB2a) | [Bahamas](https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt) | [BOOTCUT](https://open.spotify.com/album/5vnnhrkeLqHWuM7cuqgHCK) | 2:48 |
 | 92 | [Death Valley Honeymoon \(feat\. Cat Clyde\)](https://open.spotify.com/track/7DlI8czdypGakdmOp0Xv2S) | [Dustin Kensrue](https://open.spotify.com/artist/0SuWOa14KQ9jBIwvqFbzo5), [Cat Clyde](https://open.spotify.com/artist/7oRT0oC3vhUGQJCL6CYYzk) | [Death Valley Honeymoon \(feat\. Cat Clyde\)](https://open.spotify.com/album/2auQZXqoFzba9G30DCKCq1) | 3:36 |
 | 93 | [Cuero Dudes](https://open.spotify.com/track/4z3zFBYGC4x4esUbnjqsva) | [Buck Meek](https://open.spotify.com/artist/4mYY0UqYdvgdz60psupYBR) | [Cuero Dudes / Beauty Opens Doors](https://open.spotify.com/album/08zvbZIUq3mHkIF7uDVgVr) | 4:58 |
-| 94 | [Funny Black Lines](https://open.spotify.com/track/6X6Znaazqzi1EHrGKPz2n2) | [Kieran Campbell](https://open.spotify.com/artist/0x1TEBrFldjKRcch1M7mjK) | [Funny Black Lines](https://open.spotify.com/album/6JaQdJcEU4rzdq3NjWDo7N) | 2:58 |
-| 95 | [Two Wolves](https://open.spotify.com/track/1AbzihR3bhDonO8mNidgEb) | [Jesse Roper](https://open.spotify.com/artist/0YnrslYN9hfy5ZRCQUjMMt) | [Horizons](https://open.spotify.com/album/1FOyCt7ibwzAUlfvQYh28l) | 4:04 |
+| 94 | [Two Wolves](https://open.spotify.com/track/1AbzihR3bhDonO8mNidgEb) | [Jesse Roper](https://open.spotify.com/artist/0YnrslYN9hfy5ZRCQUjMMt) | [Horizons](https://open.spotify.com/album/1FOyCt7ibwzAUlfvQYh28l) | 4:04 |
+| 95 | [Funny Black Lines](https://open.spotify.com/track/6X6Znaazqzi1EHrGKPz2n2) | [Kieran Campbell](https://open.spotify.com/artist/0x1TEBrFldjKRcch1M7mjK) | [Funny Black Lines](https://open.spotify.com/album/6JaQdJcEU4rzdq3NjWDo7N) | 2:58 |
 | 96 | [Little Songs](https://open.spotify.com/track/1SvFlRSYQRAkhigT0yoo8k) | [Colter Wall](https://open.spotify.com/artist/3xYXYzm9H3RzyQgBrYwIcx) | [Little Songs](https://open.spotify.com/album/7aLyCKBgtyqjC1r8K8b8iT) | 2:25 |
 | 97 | [Easy as Hello](https://open.spotify.com/track/5hVBphaDDDa8AOnBPy5z4w) | [Sunny Sweeney](https://open.spotify.com/artist/3uBMhKEXqr2UtRlx7Jn9LL) | [Easy as Hello](https://open.spotify.com/album/0mkGw6UuI4b9Co1SUewxFm) | 4:39 |
 | 98 | [Numbers](https://open.spotify.com/track/1IcMEQNw8ZuXZtfLGnrKcq) | [Bella White](https://open.spotify.com/artist/7Bk7ojRJfkv48w69JNF66V) | [Among Other Things](https://open.spotify.com/album/3xFMep9WfDGEqDveIQQf1V) | 4:28 |
 | 99 | [This Distance](https://open.spotify.com/track/2BqSw3roc6RFuwoVAw9aud) | [John Muirhead](https://open.spotify.com/artist/5LbFyIkuT9CraXUmsARWX0) | [Traveller](https://open.spotify.com/album/2wIEh2fmEXXcpHoW0MeOpn) | 4:02 |
 | 100 | [Kingdom For A Fool](https://open.spotify.com/track/6WxeGuCYRAXijpeLGPGx62) | [The White Buffalo](https://open.spotify.com/artist/3ohcHMuUq1717s8AH17hfT) | [Year Of The Dark Horse](https://open.spotify.com/album/4cKn5nMheAisLgzM4gOwaA) | 3:28 |
 
-Snapshot ID: `MCxiYzAzNmNlMDc2ODc1ZDU3MDNlNWRiNzA5YzI1ZTBkNDNjYWRiYjU4`
+Snapshot ID: `MCxhYTQ0ZmU1NmM1YzE3OWRhYzY4NmQ1MjE0NWQ0MzhjNmRiMzJjZWE0`

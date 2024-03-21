@@ -1,12 +1,12 @@
 {
   "description": "Dvorak was deeply passionate about his homeland, traditional folk music, pigeons and train spotting; immerse yourself in his extraordinary world with this essential playlist.",
-  "num_followers": 66744,
+  "num_followers": 66762,
   "original_name": "This Is Dvo\u0159\u00e1k",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiYzBjYTA4ZmRmNWNiNDY5NjQ3NTE2OWEzNTkxZjZiOWE4ODI3Y2Uz",
+  "snapshot_id": "MCw3ZGRiNWRkNjQwMWQ4MDgxY2YzYjAxNzQ0MzA2MzczYWQwOGFhZDFi",
   "tracks": [
     {
       "added_at": "2022-09-30 04:01:00",
@@ -1207,30 +1207,6 @@
     {
       "added_at": "2022-09-30 04:01:00",
       "album": {
-        "name": "Dvorak: Symphony No. 2 / Legends Op. 59, Nos. 6-10",
-        "url": "https://open.spotify.com/album/5lDLmncNSYAtwEn88Z1JIF"
-      },
-      "artists": [
-        {
-          "name": "Anton\u00edn Dvo\u0159\u00e1k",
-          "url": "https://open.spotify.com/artist/6n7nd5iceYpXVwcx8VPpxF"
-        },
-        {
-          "name": "Slovak Radio Symphony Orchestra",
-          "url": "https://open.spotify.com/artist/428GNN7qZnTsMaK3SfPo6D"
-        },
-        {
-          "name": "Stephen Gunzenhauser",
-          "url": "https://open.spotify.com/artist/0Do8lkxP8HHqyl7IgHjO45"
-        }
-      ],
-      "duration_ms": 161000,
-      "name": "10 Legends, Op. 59, B. 122: No. 9. Andante con moto",
-      "url": "https://open.spotify.com/track/7u9qp5LFn7ScCdNFATA03Y"
-    },
-    {
-      "added_at": "2022-09-30 04:01:00",
-      "album": {
         "name": "Dvorak: Works for Violin and Piano",
         "url": "https://open.spotify.com/album/6XRwmIpDUcIu1csSLvGyQf"
       },
@@ -1251,6 +1227,30 @@
       "duration_ms": 424360,
       "name": "Ballad in D Minor, Op. 15, No. 1",
       "url": "https://open.spotify.com/track/6aM8YzCl0UNvcLPbUwXReu"
+    },
+    {
+      "added_at": "2022-09-30 04:01:00",
+      "album": {
+        "name": "Dvorak: Symphony No. 2 / Legends Op. 59, Nos. 6-10",
+        "url": "https://open.spotify.com/album/5lDLmncNSYAtwEn88Z1JIF"
+      },
+      "artists": [
+        {
+          "name": "Anton\u00edn Dvo\u0159\u00e1k",
+          "url": "https://open.spotify.com/artist/6n7nd5iceYpXVwcx8VPpxF"
+        },
+        {
+          "name": "Slovak Radio Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/428GNN7qZnTsMaK3SfPo6D"
+        },
+        {
+          "name": "Stephen Gunzenhauser",
+          "url": "https://open.spotify.com/artist/0Do8lkxP8HHqyl7IgHjO45"
+        }
+      ],
+      "duration_ms": 161000,
+      "name": "10 Legends, Op. 59, B. 122: No. 9. Andante con moto",
+      "url": "https://open.spotify.com/track/7u9qp5LFn7ScCdNFATA03Y"
     },
     {
       "added_at": "2022-09-30 04:01:00",
@@ -1331,26 +1331,6 @@
     {
       "added_at": "2022-09-30 04:01:00",
       "album": {
-        "name": "Dvorak, A.: String Quartets, Vol. 5 (Vlach Quartet) - Cypresses / String Quartet Movement in F Major / 2 Waltzes / Gavotte",
-        "url": "https://open.spotify.com/album/4YPrPKSMgfiwKO8XFwCpHu"
-      },
-      "artists": [
-        {
-          "name": "Anton\u00edn Dvo\u0159\u00e1k",
-          "url": "https://open.spotify.com/artist/6n7nd5iceYpXVwcx8VPpxF"
-        },
-        {
-          "name": "Vlach Quartet Prague",
-          "url": "https://open.spotify.com/artist/0Apnbohc6st5hulSIdnJsQ"
-        }
-      ],
-      "duration_ms": 136906,
-      "name": "Ohlas pisni (Echo of Songs), B. 152 (arr. of Cypresses, B. 11 for string quartet): There Stands an Ancient Rock",
-      "url": "https://open.spotify.com/track/6WXwLD6h1cnAh52qSUL7Cs"
-    },
-    {
-      "added_at": "2022-09-30 04:01:00",
-      "album": {
         "name": "Dvorak: Hero's Song (A) / Czech Suite / Hussite Overture",
         "url": "https://open.spotify.com/album/2eQogw6VNKBLM1SrXnDCGN"
       },
@@ -1371,6 +1351,46 @@
       "duration_ms": 292826,
       "name": "Festival March, B. 88, Op. 54",
       "url": "https://open.spotify.com/track/1pKKRXBf19qjm1cVZGu8ho"
+    },
+    {
+      "added_at": "2022-09-30 04:01:00",
+      "album": {
+        "name": "Dvorak, A.: String Quartets, Vol. 5 (Vlach Quartet) - Cypresses / String Quartet Movement in F Major / 2 Waltzes / Gavotte",
+        "url": "https://open.spotify.com/album/4YPrPKSMgfiwKO8XFwCpHu"
+      },
+      "artists": [
+        {
+          "name": "Anton\u00edn Dvo\u0159\u00e1k",
+          "url": "https://open.spotify.com/artist/6n7nd5iceYpXVwcx8VPpxF"
+        },
+        {
+          "name": "Vlach Quartet Prague",
+          "url": "https://open.spotify.com/artist/0Apnbohc6st5hulSIdnJsQ"
+        }
+      ],
+      "duration_ms": 179240,
+      "name": "Ohlas pisni (Echo of Songs), B. 152 (arr. of Cypresses, B. 11 for string quartet): In Deepest Forest Glade",
+      "url": "https://open.spotify.com/track/4ZPW1M9NzWWYyeZI55yOk8"
+    },
+    {
+      "added_at": "2022-09-30 04:01:00",
+      "album": {
+        "name": "Dvorak, A.: String Quartets, Vol. 5 (Vlach Quartet) - Cypresses / String Quartet Movement in F Major / 2 Waltzes / Gavotte",
+        "url": "https://open.spotify.com/album/4YPrPKSMgfiwKO8XFwCpHu"
+      },
+      "artists": [
+        {
+          "name": "Anton\u00edn Dvo\u0159\u00e1k",
+          "url": "https://open.spotify.com/artist/6n7nd5iceYpXVwcx8VPpxF"
+        },
+        {
+          "name": "Vlach Quartet Prague",
+          "url": "https://open.spotify.com/artist/0Apnbohc6st5hulSIdnJsQ"
+        }
+      ],
+      "duration_ms": 136906,
+      "name": "Ohlas pisni (Echo of Songs), B. 152 (arr. of Cypresses, B. 11 for string quartet): There Stands an Ancient Rock",
+      "url": "https://open.spotify.com/track/6WXwLD6h1cnAh52qSUL7Cs"
     },
     {
       "added_at": "2022-09-30 04:01:00",
@@ -1415,26 +1435,6 @@
       "duration_ms": 1159933,
       "name": "Stabat mater dolorosa",
       "url": "https://open.spotify.com/track/0IurYjy73I9NziDzdjAZSD"
-    },
-    {
-      "added_at": "2022-09-30 04:01:00",
-      "album": {
-        "name": "Dvorak, A.: String Quartets, Vol. 5 (Vlach Quartet) - Cypresses / String Quartet Movement in F Major / 2 Waltzes / Gavotte",
-        "url": "https://open.spotify.com/album/4YPrPKSMgfiwKO8XFwCpHu"
-      },
-      "artists": [
-        {
-          "name": "Anton\u00edn Dvo\u0159\u00e1k",
-          "url": "https://open.spotify.com/artist/6n7nd5iceYpXVwcx8VPpxF"
-        },
-        {
-          "name": "Vlach Quartet Prague",
-          "url": "https://open.spotify.com/artist/0Apnbohc6st5hulSIdnJsQ"
-        }
-      ],
-      "duration_ms": 179240,
-      "name": "Ohlas pisni (Echo of Songs), B. 152 (arr. of Cypresses, B. 11 for string quartet): In Deepest Forest Glade",
-      "url": "https://open.spotify.com/track/4ZPW1M9NzWWYyeZI55yOk8"
     },
     {
       "added_at": "2022-09-30 04:01:00",
@@ -1811,8 +1811,8 @@
     {
       "added_at": "2022-09-30 04:01:00",
       "album": {
-        "name": "Dvorak : Slavonic Dances",
-        "url": "https://open.spotify.com/album/03WlnckxEQxcM46jrd3mMZ"
+        "name": "Dvor\u00e1k: The Symphonies/Overtures",
+        "url": "https://open.spotify.com/album/6ECe5dUoLAX7LCyYArKemo"
       },
       "artists": [
         {
@@ -1820,17 +1820,17 @@
           "url": "https://open.spotify.com/artist/6n7nd5iceYpXVwcx8VPpxF"
         },
         {
-          "name": "Slovak Philharmonic",
-          "url": "https://open.spotify.com/artist/2rfkmr5WzRN9D9gAfb2ycd"
+          "name": "London Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc"
         },
         {
-          "name": "Zden\u011bk Ko\u0161ler",
-          "url": "https://open.spotify.com/artist/2IpitDGspEKl8VaB3qd4ya"
+          "name": "Istv\u00e1n Kert\u00e9sz",
+          "url": "https://open.spotify.com/artist/6QcRHYSvrGdLCS5L7SV4WL"
         }
       ],
-      "duration_ms": 825240,
-      "name": "3 Slavonic Rhapsodies, Op. 45, B. 86: No. 3",
-      "url": "https://open.spotify.com/track/25fx6WswOqJVX4rpOZOSUr"
+      "duration_ms": 380266,
+      "name": "Symphony No. 4 in D Minor, Op. 13, B.41: 3. Scherzo (Allegro feroce)",
+      "url": "https://open.spotify.com/track/0Gj5yqrQd6amLrsvd0f9IK"
     }
   ],
   "unique_name": "This Is Dvo\u0159\u00e1k",

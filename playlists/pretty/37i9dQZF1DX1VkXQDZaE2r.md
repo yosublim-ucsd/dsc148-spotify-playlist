@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1VkXQDZaE2r.md) - [plain]
 
 > Be welcome to the secret society of the midnight movie\-dwellers...
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,775 likes - 50 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,782 likes - 50 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,9 +34,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1VkXQDZaE2r.md) - [plain]
 | 24 | [Dark World \(from "Inner Space"\)](https://open.spotify.com/track/3upYNAXYSxGZhnXUBFOGHx) | [Sven Libaek](https://open.spotify.com/artist/5mfMhhHDACKNJbXdrsbrm2) | [Inner Space: The Lost Film Music of Sven Libaek](https://open.spotify.com/album/5HF5en6DJ1Z9xhvRJKwkCq) | 4:32 |
 | 25 | [High Street Spasm](https://open.spotify.com/track/1mrUQ4GZo03bWOlEIQELO3) | [Cavern of Anti\-Matter](https://open.spotify.com/artist/71th4FPdhGaAHVeng0LfRt) | [In Fabric OST](https://open.spotify.com/album/56h30DA2RokyYVDobT2U5a) | 1:46 |
 | 26 | [The Equestrian Vortex](https://open.spotify.com/track/16DATD29xLIGtVkwntavkI) | [Broadcast](https://open.spotify.com/artist/0WtTGUjbur1R1cNzBvbsMU) | [Berberian Sound Studio](https://open.spotify.com/album/4uYqcc2NK0s0Zfieyt3w7C) | 1:21 |
-| 27 | [Pescatrici, perle e pescecani](https://open.spotify.com/track/2IMnYZE783q62C4r93ptTb) | [Piero Umiliani](https://open.spotify.com/artist/5sD7Cf3SaTVcrg81GQi1Xk) | [Il paradiso dell'uomo \(Man's Paradise\) \[Original movie soundtrack\]](https://open.spotify.com/album/4PO1I7Vp3RdlQwGbN6Hc7g) | 2:19 |
-| 28 | [Suspiria \- Celesta and Bells](https://open.spotify.com/track/64zHqQC4frJys9pw84ZoMd) | [Goblin](https://open.spotify.com/artist/7H92g6n1BvyzvQwaERZKZl) | [Suspiria \(40th Anniversary\) \[Original Motion Picture Soundtrack\]](https://open.spotify.com/album/0yvW9oE4d270lA5paJ1umZ) | 1:36 |
-| 29 | [Dekalog IV \- part 2](https://open.spotify.com/track/2Ll2SZLhRTJxrgI8rIQKab) | [Zbigniew Preisner](https://open.spotify.com/artist/3gGbSXSwHWmrUBIG9IUAau) | [Dekalog \(Original Film Soundtrack\)](https://open.spotify.com/album/00Bbgcg6EsYuXLbgQiXF9x) | 2:29 |
+| 27 | [Dekalog IV \- part 2](https://open.spotify.com/track/2Ll2SZLhRTJxrgI8rIQKab) | [Zbigniew Preisner](https://open.spotify.com/artist/3gGbSXSwHWmrUBIG9IUAau) | [Dekalog \(Original Film Soundtrack\)](https://open.spotify.com/album/00Bbgcg6EsYuXLbgQiXF9x) | 2:29 |
+| 28 | [Pescatrici, perle e pescecani](https://open.spotify.com/track/2IMnYZE783q62C4r93ptTb) | [Piero Umiliani](https://open.spotify.com/artist/5sD7Cf3SaTVcrg81GQi1Xk) | [Il paradiso dell'uomo \(Man's Paradise\) \[Original movie soundtrack\]](https://open.spotify.com/album/4PO1I7Vp3RdlQwGbN6Hc7g) | 2:19 |
+| 29 | [Suspiria \- Celesta and Bells](https://open.spotify.com/track/64zHqQC4frJys9pw84ZoMd) | [Goblin](https://open.spotify.com/artist/7H92g6n1BvyzvQwaERZKZl) | [Suspiria \(40th Anniversary\) \[Original Motion Picture Soundtrack\]](https://open.spotify.com/album/0yvW9oE4d270lA5paJ1umZ) | 1:36 |
 | 30 | [Vertigo Suite: I\. Prelude](https://open.spotify.com/track/5GlDE78tSSpULJ7x7eTX5Q) | [Bernard Herrmann](https://open.spotify.com/artist/5bUj39bg0zEbRzjUEISMG9), [Danish National Symphony Orchestra](https://open.spotify.com/artist/6kClxEibflIbA231B95OYX), [John Mauceri](https://open.spotify.com/artist/0aBCjuDMg4Bh7SU0ayu4ov) | [Music for Alfred Hitchcock](https://open.spotify.com/album/7fEaWe8sexwUG70CGdsadf) | 3:00 |
 | 31 | [My Lips, Nose, Lungs, Ears, Eyes, Legs, Toes...](https://open.spotify.com/track/7JkKRFFdBGLG7LAJRwjlIh) | [Angélica Negrón](https://open.spotify.com/artist/0z4hzKxAywZeshbUc1C8fY) | [Memories of a Penitent Heart \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4G93AOAawafgeWULln5uhU) | 1:08 |
 | 32 | [Song for Francoise](https://open.spotify.com/track/6A1gadsV2bJ7JWRLcUXfGQ) | [Pierre Raph](https://open.spotify.com/artist/5mvn4QDfC0rOICm4VKY3o7) | [Le Rose De Fer / Intiaani Kesa¨](https://open.spotify.com/album/72T9jAmp8fduL1V7dQk4nz) | 1:46 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1VkXQDZaE2r.md) - [plain]
 | 49 | [The Innocents Suite: I\. O Willow Waly \- Main Titles](https://open.spotify.com/track/04cdIzF30V7Yb5Q5r0MUkG) | [Georges Auric](https://open.spotify.com/artist/1OWxt3WxCvMwyOwfdQ20RK), [Rumon Gamba](https://open.spotify.com/artist/0WXSfWdvqdhG76X1icKUVy), [BBC Philharmonic Orchestra](https://open.spotify.com/artist/2os8ZaeBvYxyVgTKrHtnvK) | [The Film Music of Georges Auric](https://open.spotify.com/album/3u5Q5iuOy5BWTK8xA1B7zg) | 3:23 |
 | 50 | [Ambroseli](https://open.spotify.com/track/0qoncpjquF5UILqO4aZtdR) | [Giuliano Sorgini](https://open.spotify.com/artist/7Kmplk6Rgd6m2JgwUoESRX) | [Zoo folle \(Original Television Soundtrack\)](https://open.spotify.com/album/54AO4l9TAqEH2ogpcUKdDi) | 6:49 |
 
-Snapshot ID: `MCw4ZTNlY2NlYmM2MTQxYWUwNzZhOWQxYzRjNjEyMjcxOTA0OTQ2NzNl`
+Snapshot ID: `MCw2ZWJhNmVjZjVmNjAxMDg5MTE1NWY0ZjE5YTI5M2M5M2EwNTNhOGE2`

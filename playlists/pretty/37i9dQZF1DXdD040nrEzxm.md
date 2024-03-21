@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdD040nrEzxm.md) - [plain]
 
 > Our editor’s picks for best Afro songs of the year.<br/> Cover: <a href="https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh?si=W7\_\-S51jTRChnzEEFX68bQ">Davido</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 77,932 likes - 75 songs - 4 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 77,988 likes - 75 songs - 4 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdD040nrEzxm.md) - [plain]
 | 21 | [Who Is Your Guy?](https://open.spotify.com/track/1kyYCsP2NRZEKkBg9wcF2c) | [Spyro](https://open.spotify.com/artist/5ZJQWu95i72nZXLD8VC5ys) | [Who Is Your Guy?](https://open.spotify.com/album/48L6IyMWELE0HIz5JdhW34) | 2:40 |
 | 22 | [GoodSin](https://open.spotify.com/track/4lkI6BidQ1dC19KaCb0SUn) | [Olivetheboy](https://open.spotify.com/artist/6yCYm86uDrfUteHNs6zcg1) | [Avana](https://open.spotify.com/album/1ZinBC6aI5Ck8CEa64GShC) | 2:20 |
 | 23 | [Yahyuppiyah \(feat\. Pcee, EeQue & Chley\)](https://open.spotify.com/track/6L1UdBhj6v8Ol9qKHBtvLN) | [Uncle Waffles](https://open.spotify.com/artist/68McnNC9twEtiynOAJRRgZ), [Tony Duardo](https://open.spotify.com/artist/6qF0eiWwQF073J1MuVFs5z), [Justin99](https://open.spotify.com/artist/2sMoqBE60rnLVDF6zhFKBI), [Pcee](https://open.spotify.com/artist/22Bl1QCNEZvpqVwRPYscE4), [EeQue](https://open.spotify.com/artist/4VqCBSJ9fvJ1XDQUd7K2Ft), [Chley](https://open.spotify.com/artist/7HpriU9gAJThxAfPfXpZ6N) | [Yahyuppiyah \(feat\. Pcee, EeQue, & Chley\)](https://open.spotify.com/album/1o4qQoueKYWmGiSrKFoB3C) | 4:56 |
-| 24 | [Enjoy](https://open.spotify.com/track/3osydJRsRqgVFKYTC04QfT) | [Jux](https://open.spotify.com/artist/2ZLAPSgdMTOcovno5mGBZW), [Diamond Platnumz](https://open.spotify.com/artist/3cAisWS37sGCCtRgWfvrod) | [Enjoy](https://open.spotify.com/album/3uY2fylWZaffBO94cxXQ15) | 3:36 |
+| 24 | [Enjoy](https://open.spotify.com/track/1qiHxdihSes6DA9hkAKFyg) | [Jux](https://open.spotify.com/artist/2ZLAPSgdMTOcovno5mGBZW), [Diamond Platnumz](https://open.spotify.com/artist/3cAisWS37sGCCtRgWfvrod) | [Enjoy](https://open.spotify.com/album/2r2GgPbTjjPB8OclFfiFGY) | 3:36 |
 | 25 | [Into The Future](https://open.spotify.com/track/6zF39FfmenMgLFBuzc7Qi1) | [Stonebwoy](https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq) | [5th Dimension](https://open.spotify.com/album/1stg00x6atjTH6w2MN4KZb) | 2:30 |
 | 26 | [Soweto \(with Don Toliver, Rema & Tempoe\)](https://open.spotify.com/track/25Kyv5SeEenT0EETpP2hYn) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG), [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS), [Tempoe](https://open.spotify.com/artist/1X7glgDhqNq1qn0Qv9g3K4), [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [Soweto \(with Don Toliver, Rema and Tempoe\)](https://open.spotify.com/album/6VZ6icUuxAtSKVxPWlQvug) | 3:39 |
 | 27 | [No Body \(feat\. Bien\)](https://open.spotify.com/track/3h8WG1R3M5bWYiRkCB1xYQ) | [Darassa](https://open.spotify.com/artist/34iDTihXiyRsnPa8dCF05a), [Bien](https://open.spotify.com/artist/2zhossaaVN2pXg5p8o101X) | [No Body \(feat\. Bien\)](https://open.spotify.com/album/1Ak0wGHeJQaTQJKoVrid6d) | 3:23 |
@@ -66,7 +66,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdD040nrEzxm.md) - [plain]
 | 56 | [Ojapiano](https://open.spotify.com/track/6WZVnqQ9OZRSGZmXyHHlV3) | [KCee](https://open.spotify.com/artist/7KiINhQdLAupkwvJ0EelGG) | [Ojapiano](https://open.spotify.com/album/1j2D58Awo2MGDL1nAwdF3e) | 2:48 |
 | 57 | [Big 7](https://open.spotify.com/track/3A17uQFJab0NDpyIeZAavF) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [I Told Them...](https://open.spotify.com/album/1JzjwUKkPsdHg1SQ7qa5hc) | 2:23 |
 | 58 | [DECLAN RICE](https://open.spotify.com/track/0QdQh3umB7stVOExuHlWvl) | [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [EZIOKWU](https://open.spotify.com/album/6e1McsPwHgiySHVlpZRhFx) | 2:04 |
-| 59 | [Too Easy](https://open.spotify.com/track/4Tx9rp5TpujLUwmoqKVjcs) | [Bien](https://open.spotify.com/artist/2zhossaaVN2pXg5p8o101X), [DJ Edu](https://open.spotify.com/artist/282qczsRq0zgXtdnnrfrgX) | [Too Easy](https://open.spotify.com/album/6RkyrlOiwSFAKd01Y2yAvL) | 3:00 |
+| 59 | [Too Easy](https://open.spotify.com/track/2RrrsbDAHJWqfHC1L7hp7O) | [Bien](https://open.spotify.com/artist/2zhossaaVN2pXg5p8o101X), [DJ Edu](https://open.spotify.com/artist/282qczsRq0zgXtdnnrfrgX) | [Alusa Why Are You Topless?](https://open.spotify.com/album/6AB8x99F5MUrnSHSbUdLBD) | 3:00 |
 | 60 | [Oh Ma Linda](https://open.spotify.com/track/28aDl6G202ZZeynzYIZRDb) | [reggie](https://open.spotify.com/artist/08gM7TMuG3DTBmWUuH0w8T), [Kwaku DMC](https://open.spotify.com/artist/4gP93834jVbocef9R42gQz), [Jay Bahd](https://open.spotify.com/artist/0Q7yvULFrthrEzwtn5hRcw), [O'Kenneth](https://open.spotify.com/artist/3EyOT8FSuINDoWYHfm8TIM) | [Most High](https://open.spotify.com/album/505XBFuhnlK4GBsGq7old5) | 2:56 |
 | 61 | [Awukhuzeki](https://open.spotify.com/track/4J1H4EuucGhhYfcPpYCBRr) | [DJ Stokie](https://open.spotify.com/artist/1lDWyPzSZOqP5jfZNm5lLI), [Omit ST](https://open.spotify.com/artist/7MxpcTTd4OWKT6cLrsYknl), [Sobzeen](https://open.spotify.com/artist/15NUCBzkuF0VbkybGMUTPw), [Zee\_nhle](https://open.spotify.com/artist/2zCe5zvuLDUr9BfD4NMDQc) | [My Journey Continues](https://open.spotify.com/album/6w8xkQa7VVqWynKA1jfpVI) | 8:12 |
 | 62 | [Meridian](https://open.spotify.com/track/09FcXaLu1BdrRNgxyBi6p5) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK), [Tiakola](https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh) | [Meridian & Special](https://open.spotify.com/album/2iz7b9HLy5aQ81tsMyedNn) | 4:15 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdD040nrEzxm.md) - [plain]
 | 74 | [Ex Convict](https://open.spotify.com/track/5WAFaje0Cs3hHhNqjUIfY6) | [Shallipopi](https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU) | [Ex Convict](https://open.spotify.com/album/5Y0FIl4JX5S1vvm5Kc8OHh) | 3:22 |
 | 75 | [Yoga](https://open.spotify.com/track/03eJdvT499w8U80bTRWfAR) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [Work Of Art](https://open.spotify.com/album/2O9VJaLSnwjZ2HPpMaVoPU) | 2:16 |
 
-Snapshot ID: `MCw3NDY1MjQyNDQ1OGM2OTc3NTRkNmYwZTI2ZTEwMzA4Y2M4MTBlY2Y0`
+Snapshot ID: `MCxhNDVhMWUwMDhjNDg2MzBlM2EyOTMyMDFmNWMyZjQ3YmQ1ODM4Mzlj`

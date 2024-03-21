@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVV27DiNWxkR.md) - [plain]
 
 > The premier alternative melancholia playlist, featuring Billie Eilish.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,739,383 likes - 120 songs - 7 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,739,955 likes - 120 songs - 7 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVV27DiNWxkR.md) - [plain]
 | 23 | [Lover, You Should’ve Come Over](https://open.spotify.com/track/3pmZMUdxIKSu4YBVqGlyLe) | [Elmiene](https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL) | [Lover, You Should’ve Come Over](https://open.spotify.com/album/3vOfCeKyiRZBkpoSoHmcbm) | 6:01 |
 | 24 | [I Don't Love You](https://open.spotify.com/track/2okP2LbGxMLQWqmkptMAIX) | [Charlotte Day Wilson](https://open.spotify.com/artist/3GQboECxDT1xqPPWC30p7v) | [I Don't Love You](https://open.spotify.com/album/3YRDP6zsko8EJm9xjgVo4n) | 4:11 |
 | 25 | [Glimpse of Us](https://open.spotify.com/track/6xGruZOHLs39ZbVccQTuPZ) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [Glimpse of Us](https://open.spotify.com/album/6ZZvx0aefZV3LKa053fn71) | 3:53 |
-| 26 | [i was all over her](https://open.spotify.com/track/7svpAkwc6xaSxlbZ7V7JiS) | [salvia palth](https://open.spotify.com/artist/0pg0Zm8FsGAYy5kdHuBnSo) | [melanchole](https://open.spotify.com/album/23KJrzHF1IBfjzpRgTtaJx) | 2:41 |
+| 26 | [i was all over her](https://open.spotify.com/track/6mSnSuOhgHHohqeBw76jRV) | [salvia palth](https://open.spotify.com/artist/0pg0Zm8FsGAYy5kdHuBnSo) | [melanchole](https://open.spotify.com/album/10WzRaNWnFUQNrW2FpqQSQ) | 2:41 |
 | 27 | [Romantic Homicide](https://open.spotify.com/track/1xK59OXxi2TAAAbmZK0kBL) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Romantic Homicide](https://open.spotify.com/album/4B3FsNFguOEJ4TWEsct83B) | 2:12 |
 | 28 | [Hide and Seek](https://open.spotify.com/track/7mMlbJlXXo2mRtQ4R9sIzD) | [Imogen Heap](https://open.spotify.com/artist/6Xb4ezwoAQC4516kI89nWz) | [Speak for Yourself](https://open.spotify.com/album/0t0Cr8jA63wlm8nWj7qfvJ) | 4:28 |
 | 29 | [House Song](https://open.spotify.com/track/1kr0XkYcWe2HTuCFN3BuGA) | [Searows](https://open.spotify.com/artist/0nugNBwdWaptgIAsEtx1It) | [House Song](https://open.spotify.com/album/7oOTLwRSrfnGY1yFjBZYL2) | 4:54 |
@@ -129,4 +129,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVV27DiNWxkR.md) - [plain]
 | 119 | [Used To Be Lonely](https://open.spotify.com/track/2ya75bvL17SgjKvytJrBAm) | [Whitney](https://open.spotify.com/artist/32aUoW94mJ7xTJI7fG0V1G) | [Forever Turned Around](https://open.spotify.com/album/7dfINEAt70CVc3kaPvgoyQ) | 3:48 |
 | 120 | [I Know The End](https://open.spotify.com/track/0pJW1Xw3aY4Eh6k5iuBkfI) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Punisher](https://open.spotify.com/album/6Pp6qGEywDdofgFC1oFbSH) | 5:44 |
 
-Snapshot ID: `MCxkMWI1OTExOTUxMjk4ZDlmMTU3YTU4YWU2ZGUwOTAxYTMwZTk1YTRm`
+Snapshot ID: `MCw3MDRhMjY5ZTYwYTliOGNjNTE0ZWVkOTg0ODBlZmJlYjZiNzMzMTc3`

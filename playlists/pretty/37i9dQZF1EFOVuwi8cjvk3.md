@@ -111,8 +111,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFOVuwi8cjvk3.md) - [plain]
 | 101 | [Slave](https://open.spotify.com/track/3SrUV8pxnW1QhMbbwegpwG) | [Logic](https://open.spotify.com/artist/4xRYI6VqpkE3UwrDrAZL8L) | [Bobby Tarantino](https://open.spotify.com/album/0WMr3ulx5Mzi1B3C8LsHVA) | 2:59 |
 | 102 | [IDWK](https://open.spotify.com/track/3awnZSyvKdi7rBLttHk36K) | [347aidan](https://open.spotify.com/artist/0bBz5bRBkExaej2HxtVfCw), [Kenny Beats](https://open.spotify.com/artist/1rHOtdmGNr5vcYNw5v7QGC) | [IDWK](https://open.spotify.com/album/6s7fnQZkQ6ZqmRxpJ22OjF) | 2:03 |
 | 103 | [Growing Pains III](https://open.spotify.com/track/4OMKQBq51PnjZz042AghkR) | [Logic](https://open.spotify.com/artist/4xRYI6VqpkE3UwrDrAZL8L) | [Under Pressure \(Deluxe\)](https://open.spotify.com/album/1Mk7Lei0Ra3hawezqmad5V) | 4:06 |
-| 104 | [Intro](https://open.spotify.com/track/138oQeapLds5IeJrdRfeUd) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [Wonder](https://open.spotify.com/album/3Lp4JKk2ZgNkybMRS3eZR5) | 1:02 |
-| 105 | [West](https://open.spotify.com/track/2R5GzHdM4xdA8HNLIF8lOY) | [River Tiber](https://open.spotify.com/artist/1FHDMgGdmIP4IsoFkAwbS0), [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [Indigo](https://open.spotify.com/album/7H23XdhKb4H4mSCRd6gpwU) | 2:32 |
+| 104 | [West](https://open.spotify.com/track/2R5GzHdM4xdA8HNLIF8lOY) | [River Tiber](https://open.spotify.com/artist/1FHDMgGdmIP4IsoFkAwbS0), [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [Indigo](https://open.spotify.com/album/7H23XdhKb4H4mSCRd6gpwU) | 2:32 |
+| 105 | [Intro](https://open.spotify.com/track/138oQeapLds5IeJrdRfeUd) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [Wonder](https://open.spotify.com/album/3Lp4JKk2ZgNkybMRS3eZR5) | 1:02 |
 | 106 | [Never Enough](https://open.spotify.com/track/3s7SAlA1NPlgddOxZEwmm6) | [Logic](https://open.spotify.com/artist/4xRYI6VqpkE3UwrDrAZL8L) | [Under Pressure \(Deluxe\)](https://open.spotify.com/album/1Mk7Lei0Ra3hawezqmad5V) | 4:22 |
 | 107 | [Into You](https://open.spotify.com/track/1wkHhcUnVOMhLtA79dQaQx) | [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [Inner Monologue Part 1](https://open.spotify.com/album/1xJ7jIK1tT0aVoJw1fPE6r) | 3:12 |
 | 108 | [Feel It Twice](https://open.spotify.com/track/39jcp8zJH7nHWbB7Hr3sFJ) | [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF) | [Romance](https://open.spotify.com/album/3Vsbl0diFGw8HNSjG8ue9m) | 3:08 |
@@ -236,4 +236,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFOVuwi8cjvk3.md) - [plain]
 | 226 | [The Grand Design](https://open.spotify.com/track/3pVOogOInku8irJgvk91yh) | [Saukrates](https://open.spotify.com/artist/4xvUHg4mIFbXo2caP0PO73) | [Season 2](https://open.spotify.com/album/0kWlgwwcyciyZcNe0JXqqy) | 2:41 |
 | 227 | [Lost](https://open.spotify.com/track/6agJafc27z0MwdEDyaVGPN) | [Kateel](https://open.spotify.com/artist/4egOVLqYZVVI4gwzMAcRlT) | [Lost](https://open.spotify.com/album/7xkfLCegBO0SnTIJ1qzChA) | 2:07 |
 
-Snapshot ID: `Mjg1MTUwMDAsMDAwMDAwMDAwNzU3NzVlOWUyOGMwMmYxYmYwMWRkOWUzYjQwZDdjYg==`
+Snapshot ID: `Mjg1MTY0NDAsMDAwMDAwMDA1YjhjMjAxOTk4YTBiYjIzNDhhOTIxMzUxODU1MTMzNQ==`

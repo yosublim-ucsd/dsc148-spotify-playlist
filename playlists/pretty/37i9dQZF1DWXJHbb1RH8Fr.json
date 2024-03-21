@@ -1,12 +1,12 @@
 {
   "description": "Ruhunu dinlendirece\u011fin bu kutsal ayda yolculu\u011funa e\u015flik edecek ney ezgileri. G\u00f6rsel: Sultanahmet Camii",
-  "num_followers": 11254,
+  "num_followers": 11298,
   "original_name": "Ramazan",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzMDgwYTRlMzc5OTFlMWNmMTgzY2Y3NDZkZmFjMzJiZmNiZjcyMWU2",
+  "snapshot_id": "MCxmYmJlMzQxMTZkZTRlMjhmNGY1YjE3MGExYzBjMzAyOTRmZTM0ZjYw",
   "tracks": [
     {
       "added_at": "2024-03-05 11:27:00",
@@ -500,9 +500,9 @@
           "url": "https://open.spotify.com/artist/5597pcDzVHJa1wUmVt6Vtr"
         }
       ],
-      "duration_ms": 269871,
-      "name": "Hakikat",
-      "url": "https://open.spotify.com/track/12Uxmwn0kopbL8ejceA5sz"
+      "duration_ms": 219898,
+      "name": "Huzur",
+      "url": "https://open.spotify.com/track/0KeejjurbY9OjXu8espe8s"
     },
     {
       "added_at": "2024-03-05 11:27:00",
@@ -568,9 +568,9 @@
           "url": "https://open.spotify.com/artist/10vB42Xbs9WZ5fNx1dfy41"
         }
       ],
-      "duration_ms": 154040,
-      "name": "Allah Allah",
-      "url": "https://open.spotify.com/track/7npbwzobukODB7UqYeZ2P8"
+      "duration_ms": 133960,
+      "name": "Seyreyle G\u00fczel",
+      "url": "https://open.spotify.com/track/12bK0tHPQ1ul6gaClY0ToT"
     },
     {
       "added_at": "2024-03-05 11:27:00",
@@ -660,9 +660,9 @@
           "url": "https://open.spotify.com/artist/10vB42Xbs9WZ5fNx1dfy41"
         }
       ],
-      "duration_ms": 133960,
-      "name": "Seyreyle G\u00fczel",
-      "url": "https://open.spotify.com/track/12bK0tHPQ1ul6gaClY0ToT"
+      "duration_ms": 154040,
+      "name": "Allah Allah",
+      "url": "https://open.spotify.com/track/7npbwzobukODB7UqYeZ2P8"
     },
     {
       "added_at": "2024-03-05 11:27:00",
@@ -792,25 +792,9 @@
           "url": "https://open.spotify.com/artist/5597pcDzVHJa1wUmVt6Vtr"
         }
       ],
-      "duration_ms": 219898,
-      "name": "Huzur",
-      "url": "https://open.spotify.com/track/0KeejjurbY9OjXu8espe8s"
-    },
-    {
-      "added_at": "2024-03-05 11:27:00",
-      "album": {
-        "name": "Neyzen",
-        "url": "https://open.spotify.com/album/2DkjUP7kajtpgvsLvyRx0L"
-      },
-      "artists": [
-        {
-          "name": "Volkan Ka\u00e7ak",
-          "url": "https://open.spotify.com/artist/2HkYkLLd6ks449Rbvp2Hip"
-        }
-      ],
-      "duration_ms": 202866,
-      "name": "Segah Taksim",
-      "url": "https://open.spotify.com/track/3wZBsMEqukQMMGgJOZ9kMe"
+      "duration_ms": 269871,
+      "name": "Hakikat",
+      "url": "https://open.spotify.com/track/12Uxmwn0kopbL8ejceA5sz"
     },
     {
       "added_at": "2024-03-05 11:27:00",
@@ -835,6 +819,22 @@
       "duration_ms": 445133,
       "name": "\u015eevkefza Saz Semai",
       "url": "https://open.spotify.com/track/4NpVLnHTQXL3vOb7LdE1Ah"
+    },
+    {
+      "added_at": "2024-03-05 11:27:00",
+      "album": {
+        "name": "Neyzen",
+        "url": "https://open.spotify.com/album/2DkjUP7kajtpgvsLvyRx0L"
+      },
+      "artists": [
+        {
+          "name": "Volkan Ka\u00e7ak",
+          "url": "https://open.spotify.com/artist/2HkYkLLd6ks449Rbvp2Hip"
+        }
+      ],
+      "duration_ms": 202866,
+      "name": "Segah Taksim",
+      "url": "https://open.spotify.com/track/3wZBsMEqukQMMGgJOZ9kMe"
     },
     {
       "added_at": "2024-03-05 11:27:00",

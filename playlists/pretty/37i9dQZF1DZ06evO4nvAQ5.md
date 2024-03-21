@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4nvAQ5.md) - [plain]
 
 > This is J Boog\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,740 likes - 50 songs - 3 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,744 likes - 50 songs - 3 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4nvAQ5.md) - [plain]
 | 27 | [Waiting On The Rain](https://open.spotify.com/track/7paHl6UuZR7drEyw8M7gI9) | [J Boog](https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4) | [J Boog \- EP](https://open.spotify.com/album/1mBSbSCwjpqInxijkFk06d) | 3:27 |
 | 28 | [Raggamuffin](https://open.spotify.com/track/5fCAt9wpOMHR0NB2WjLjQ5) | [Common Kings](https://open.spotify.com/artist/4j0qbafzqnGf4ARF8tY4VL), [J Boog](https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4) | [CELEBRATION](https://open.spotify.com/album/4eBp5HfKr28qzlcpmYIdjy) | 3:25 |
 | 29 | [Replay](https://open.spotify.com/track/5HoQXfTZSnjoXsyJ2HU6Qp) | [J Boog](https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4), [Million Stylez](https://open.spotify.com/artist/2TF8gIfNvlOCCEgAoOUz2L) | [Backyard Boogie](https://open.spotify.com/album/7oyBRhMZuVDSdDk7uQOGzI) | 3:17 |
-| 30 | [Brighter Days](https://open.spotify.com/track/1Wol1mtEGmrb178XVxJdpu) | [J Boog](https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4) | [Wash House Ting](https://open.spotify.com/album/1vvWNmE4sucY3u3xd25SbK) | 4:36 |
-| 31 | [Mama Roots](https://open.spotify.com/track/24FUGFUy6nMxwonEI3wtvj) | [The Green](https://open.spotify.com/artist/5RkXaPxdZ8L7ERNgDZXlKh), [J Boog](https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4) | [Marching Orders](https://open.spotify.com/album/1mTwtUHI9TLq3b0hk4DrFO) | 3:50 |
+| 30 | [Mama Roots](https://open.spotify.com/track/24FUGFUy6nMxwonEI3wtvj) | [The Green](https://open.spotify.com/artist/5RkXaPxdZ8L7ERNgDZXlKh), [J Boog](https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4) | [Marching Orders](https://open.spotify.com/album/1mTwtUHI9TLq3b0hk4DrFO) | 3:50 |
+| 31 | [Brighter Days](https://open.spotify.com/track/1Wol1mtEGmrb178XVxJdpu) | [J Boog](https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4) | [Wash House Ting](https://open.spotify.com/album/1vvWNmE4sucY3u3xd25SbK) | 4:36 |
 | 32 | [Ain't No Love Like](https://open.spotify.com/track/7nuwek79ffqWbe5AtsAuAA) | [J Boog](https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4) | [Ain't No Love Like](https://open.spotify.com/album/17d9ZUcHb8xLP6se8seQSZ) | 4:03 |
 | 33 | [Hawaiian Pakalolo](https://open.spotify.com/track/33wJTyMde69nSAreVisHlk) | [J Boog](https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4), [Spawnbreezie](https://open.spotify.com/artist/0BvwGBAFqNeDqjkeoxRlm6), [Jah Maoli](https://open.spotify.com/artist/1xr92u8uPinpRXsjZbgGKw) | [Backyard Boogie](https://open.spotify.com/album/7oyBRhMZuVDSdDk7uQOGzI) | 4:01 |
 | 34 | [No Pressure \(feat\. Snoop Dogg\) \- Bonus Track](https://open.spotify.com/track/5PAsypzNOpxEOuhgxjqWaI) | [J Boog](https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) | [Rose Petals](https://open.spotify.com/album/0c5o3uiLOPdmDTjcDOPnnu) | 3:34 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4nvAQ5.md) - [plain]
 | 49 | [This Is Love](https://open.spotify.com/track/6kT2DiTbDomd5UJtBJb5Jv) | [Monsta Ganjah](https://open.spotify.com/artist/1S66TJhuIfLtz0yEfpv1BL), [J Boog](https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4) | [Pacific Coast Highway](https://open.spotify.com/album/2tVLaJCNrTTEWRqGDtxDiH) | 4:03 |
 | 50 | [Danger](https://open.spotify.com/track/3XT9HuM3PYlkGOLKTyeStN) | [Iration](https://open.spotify.com/artist/0q9lPhJHW5R9J7RXIJRbTk), [J Boog](https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4), [Tyrone's Jacket](https://open.spotify.com/artist/5dxrfWzDmhPO4LJ3ESS70U) | [Iration](https://open.spotify.com/album/6XBN7JbqWczCIST7mmdkAx) | 3:59 |
 
-Snapshot ID: `Mjg1MTQxOTUsMDAwMDAwMDAzYmI2YzBiYWE4YTJjMzVlZmFmNjgxODRkM2UxZDA1OQ==`
+Snapshot ID: `Mjg1MTU2NjEsMDAwMDAwMDA1OWVhNjE2NzY2YmY2YmViMzJjZDhjNTI5ZjdiM2YwMQ==`

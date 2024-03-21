@@ -1,12 +1,12 @@
 {
   "description": "The biggest party hits of the 1950s.",
-  "num_followers": 249789,
+  "num_followers": 249923,
   "original_name": "50s Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxYTAwNTZiNmJlNGE1YTRkMjcxNTNlNGFlYzAwN2E4MTQxOTZkZjM0",
+  "snapshot_id": "MCwyYjg3ZWFlN2MwODQwM2YwNmFiMjI2MTJjMmI0ZTZkMDNjYTUzOGI0",
   "tracks": [
     {
       "added_at": "2022-06-07 05:25:13",
@@ -371,22 +371,6 @@
     {
       "added_at": "2022-06-07 05:25:13",
       "album": {
-        "name": "The Collection",
-        "url": "https://open.spotify.com/album/0ZjG7lMUm7k920ZgEL2pmi"
-      },
-      "artists": [
-        {
-          "name": "Barrett Strong",
-          "url": "https://open.spotify.com/artist/3MKwHkhEjcvzva2rasZeWD"
-        }
-      ],
-      "duration_ms": 158493,
-      "name": "Money (That's What I Want) - Single Version / Mono",
-      "url": "https://open.spotify.com/track/6OsefWNJtsWqO7myze1HEX"
-    },
-    {
-      "added_at": "2022-06-07 05:25:13",
-      "album": {
         "name": "Little Bitty Pretty One",
         "url": "https://open.spotify.com/album/4nYxAqSN5IKtwX1E1wJtTO"
       },
@@ -403,6 +387,22 @@
       "duration_ms": 142453,
       "name": "Little Bitty Pretty One",
       "url": "https://open.spotify.com/track/6FMGHBZaYQY7oFS7vyZx8a"
+    },
+    {
+      "added_at": "2022-06-07 05:25:13",
+      "album": {
+        "name": "The Collection",
+        "url": "https://open.spotify.com/album/0ZjG7lMUm7k920ZgEL2pmi"
+      },
+      "artists": [
+        {
+          "name": "Barrett Strong",
+          "url": "https://open.spotify.com/artist/3MKwHkhEjcvzva2rasZeWD"
+        }
+      ],
+      "duration_ms": 158493,
+      "name": "Money (That's What I Want) - Single Version / Mono",
+      "url": "https://open.spotify.com/track/6OsefWNJtsWqO7myze1HEX"
     },
     {
       "added_at": "2022-06-07 05:25:13",
@@ -519,22 +519,6 @@
     {
       "added_at": "2022-06-07 05:25:13",
       "album": {
-        "name": "What'd I Say",
-        "url": "https://open.spotify.com/album/4tfWxufmH725XmTcQFAuXn"
-      },
-      "artists": [
-        {
-          "name": "Ray Charles",
-          "url": "https://open.spotify.com/artist/1eYhYunlNJlDoQhtYBvPsi"
-        }
-      ],
-      "duration_ms": 307053,
-      "name": "What'd I Say, Pt. 1 & 2",
-      "url": "https://open.spotify.com/track/5yQ9iMZXGcr5rlO4hoLsP4"
-    },
-    {
-      "added_at": "2022-06-07 05:25:13",
-      "album": {
         "name": "12 Of His Biggest Hits",
         "url": "https://open.spotify.com/album/2Hr6il1ZLPbeLnKUzhWkF6"
       },
@@ -547,6 +531,22 @@
       "duration_ms": 118226,
       "name": "C\u2019Mon Everybody",
       "url": "https://open.spotify.com/track/7ItZM6DMZE2m1X7yIaRxjq"
+    },
+    {
+      "added_at": "2022-06-07 05:25:13",
+      "album": {
+        "name": "What'd I Say",
+        "url": "https://open.spotify.com/album/4tfWxufmH725XmTcQFAuXn"
+      },
+      "artists": [
+        {
+          "name": "Ray Charles",
+          "url": "https://open.spotify.com/artist/1eYhYunlNJlDoQhtYBvPsi"
+        }
+      ],
+      "duration_ms": 307053,
+      "name": "What'd I Say, Pt. 1 & 2",
+      "url": "https://open.spotify.com/track/5yQ9iMZXGcr5rlO4hoLsP4"
     },
     {
       "added_at": "2022-06-07 05:25:13",
@@ -595,22 +595,6 @@
       "duration_ms": 150706,
       "name": "Dream Lover",
       "url": "https://open.spotify.com/track/1KLpjQFgubHI3GkAICCNH3"
-    },
-    {
-      "added_at": "2022-06-07 05:25:13",
-      "album": {
-        "name": "Ray Charles (aka: Hallelujah, I Love Her So)",
-        "url": "https://open.spotify.com/album/0cw6Sv7IwZ87aLPPvNPSd0"
-      },
-      "artists": [
-        {
-          "name": "Ray Charles",
-          "url": "https://open.spotify.com/artist/1eYhYunlNJlDoQhtYBvPsi"
-        }
-      ],
-      "duration_ms": 160226,
-      "name": "Mess Around",
-      "url": "https://open.spotify.com/track/7DJsL4jyXA39GDiHFQYQ0t"
     },
     {
       "added_at": "2022-06-07 05:25:13",
@@ -679,6 +663,22 @@
     {
       "added_at": "2022-06-07 05:25:13",
       "album": {
+        "name": "Rockin' Robin",
+        "url": "https://open.spotify.com/album/4T6nhb9QQpGzLiWkC6bG7y"
+      },
+      "artists": [
+        {
+          "name": "Bobby Day",
+          "url": "https://open.spotify.com/artist/4SLfKHcufUqU46DiTAHIsj"
+        }
+      ],
+      "duration_ms": 160080,
+      "name": "Rockin' Robin",
+      "url": "https://open.spotify.com/track/4FlYcJnfkeBpowEHJ72Bmt"
+    },
+    {
+      "added_at": "2022-06-07 05:25:13",
+      "album": {
         "name": "Bobby Darin",
         "url": "https://open.spotify.com/album/5VNyvQC8KIM2jnahEhN4nB"
       },
@@ -695,18 +695,18 @@
     {
       "added_at": "2022-06-07 05:25:13",
       "album": {
-        "name": "Rockin' Robin",
-        "url": "https://open.spotify.com/album/4T6nhb9QQpGzLiWkC6bG7y"
+        "name": "Ray Charles (aka: Hallelujah, I Love Her So)",
+        "url": "https://open.spotify.com/album/0cw6Sv7IwZ87aLPPvNPSd0"
       },
       "artists": [
         {
-          "name": "Bobby Day",
-          "url": "https://open.spotify.com/artist/4SLfKHcufUqU46DiTAHIsj"
+          "name": "Ray Charles",
+          "url": "https://open.spotify.com/artist/1eYhYunlNJlDoQhtYBvPsi"
         }
       ],
-      "duration_ms": 160080,
-      "name": "Rockin' Robin",
-      "url": "https://open.spotify.com/track/4FlYcJnfkeBpowEHJ72Bmt"
+      "duration_ms": 160226,
+      "name": "Mess Around",
+      "url": "https://open.spotify.com/track/7DJsL4jyXA39GDiHFQYQ0t"
     },
     {
       "added_at": "2022-06-07 05:25:13",
@@ -831,22 +831,6 @@
     {
       "added_at": "2022-06-07 05:25:13",
       "album": {
-        "name": "Platinum",
-        "url": "https://open.spotify.com/album/7CDx7wRXHEOVPREC1CiYXj"
-      },
-      "artists": [
-        {
-          "name": "Frank Sinatra",
-          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
-        }
-      ],
-      "duration_ms": 128399,
-      "name": "I've Got The World On A String",
-      "url": "https://open.spotify.com/track/13apJo5WpOSe3qmfIYOCp2"
-    },
-    {
-      "added_at": "2022-06-07 05:25:13",
-      "album": {
         "name": "There's A Riot Goin' On: The Coasters On Atco",
         "url": "https://open.spotify.com/album/1oi6aLPgSAwv3352Jtmjku"
       },
@@ -859,6 +843,22 @@
       "duration_ms": 116026,
       "name": "Yakety Yak - 2007 Remaster",
       "url": "https://open.spotify.com/track/3Lbxie6whOW4eMt4jtI32k"
+    },
+    {
+      "added_at": "2022-06-07 05:25:13",
+      "album": {
+        "name": "Platinum",
+        "url": "https://open.spotify.com/album/7CDx7wRXHEOVPREC1CiYXj"
+      },
+      "artists": [
+        {
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+        }
+      ],
+      "duration_ms": 128399,
+      "name": "I've Got The World On A String",
+      "url": "https://open.spotify.com/track/13apJo5WpOSe3qmfIYOCp2"
     },
     {
       "added_at": "2022-06-07 05:25:13",
@@ -927,22 +927,6 @@
     {
       "added_at": "2022-06-07 05:25:13",
       "album": {
-        "name": "Sinatra And Swingin' Brass",
-        "url": "https://open.spotify.com/album/7B45fvRtEecfSqKqUYXh6X"
-      },
-      "artists": [
-        {
-          "name": "Frank Sinatra",
-          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
-        }
-      ],
-      "duration_ms": 194093,
-      "name": "I Get A Kick Out Of You",
-      "url": "https://open.spotify.com/track/3mKdw0slI6wmnb1FBrvwn2"
-    },
-    {
-      "added_at": "2022-06-07 05:25:13",
-      "album": {
         "name": "The Best Of Frankie Lymon & The Teenagers",
         "url": "https://open.spotify.com/album/0vMlyH3qNCkun2rIFVU5Gm"
       },
@@ -959,6 +943,22 @@
       "duration_ms": 139666,
       "name": "Why Do Fools Fall in Love",
       "url": "https://open.spotify.com/track/2xKfXRhw5xaUXfevJJspZf"
+    },
+    {
+      "added_at": "2022-06-07 05:25:13",
+      "album": {
+        "name": "Sinatra And Swingin' Brass",
+        "url": "https://open.spotify.com/album/7B45fvRtEecfSqKqUYXh6X"
+      },
+      "artists": [
+        {
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+        }
+      ],
+      "duration_ms": 194093,
+      "name": "I Get A Kick Out Of You",
+      "url": "https://open.spotify.com/track/3mKdw0slI6wmnb1FBrvwn2"
     },
     {
       "added_at": "2022-06-07 05:25:13",
@@ -1339,22 +1339,6 @@
     {
       "added_at": "2022-06-07 05:25:13",
       "album": {
-        "name": "Rock N' Roll Million Sellers (Expanded Edition)",
-        "url": "https://open.spotify.com/album/4ZCdD24gksJsgFX3QzOuXG"
-      },
-      "artists": [
-        {
-          "name": "Connie Francis",
-          "url": "https://open.spotify.com/artist/3EY5DxGdy7x4GelivOjS2Q"
-        }
-      ],
-      "duration_ms": 139613,
-      "name": "Lipstick On Your Collar",
-      "url": "https://open.spotify.com/track/6k9j9Fn10bsv107KJtDJnh"
-    },
-    {
-      "added_at": "2022-06-07 05:25:13",
-      "album": {
         "name": "12 Of His Biggest Hits",
         "url": "https://open.spotify.com/album/2Hr6il1ZLPbeLnKUzhWkF6"
       },
@@ -1367,6 +1351,22 @@
       "duration_ms": 130066,
       "name": "Somethin' Else",
       "url": "https://open.spotify.com/track/58Genya9wsQXqfiCYdd5qT"
+    },
+    {
+      "added_at": "2022-06-07 05:25:13",
+      "album": {
+        "name": "Rock N' Roll Million Sellers (Expanded Edition)",
+        "url": "https://open.spotify.com/album/4ZCdD24gksJsgFX3QzOuXG"
+      },
+      "artists": [
+        {
+          "name": "Connie Francis",
+          "url": "https://open.spotify.com/artist/3EY5DxGdy7x4GelivOjS2Q"
+        }
+      ],
+      "duration_ms": 139613,
+      "name": "Lipstick On Your Collar",
+      "url": "https://open.spotify.com/track/6k9j9Fn10bsv107KJtDJnh"
     },
     {
       "added_at": "2022-06-07 05:25:13",
@@ -1863,22 +1863,6 @@
     {
       "added_at": "2022-06-07 05:25:13",
       "album": {
-        "name": "Sun Records - The Rhythm and The Blues",
-        "url": "https://open.spotify.com/album/1m0yihEeollqE6iTvH7caR"
-      },
-      "artists": [
-        {
-          "name": "Earl Hooker",
-          "url": "https://open.spotify.com/artist/3Ev1WS21x5Jav9j214A19O"
-        }
-      ],
-      "duration_ms": 188673,
-      "name": "The Hucklebuck",
-      "url": "https://open.spotify.com/track/3Ma5W48ynycNlKFgWt3k3j"
-    },
-    {
-      "added_at": "2022-06-07 05:25:13",
-      "album": {
         "name": "Sun Records Recording Artist - Rosco Gordon",
         "url": "https://open.spotify.com/album/1yVVmzSJ8XucF6wYCO2jzH"
       },
@@ -1891,6 +1875,22 @@
       "duration_ms": 156088,
       "name": "Bop With Me Baby",
       "url": "https://open.spotify.com/track/11RM5sMsQ5UZEtLIJa3m2w"
+    },
+    {
+      "added_at": "2022-06-07 05:25:13",
+      "album": {
+        "name": "Sun Records - The Rhythm and The Blues",
+        "url": "https://open.spotify.com/album/1m0yihEeollqE6iTvH7caR"
+      },
+      "artists": [
+        {
+          "name": "Earl Hooker",
+          "url": "https://open.spotify.com/artist/3Ev1WS21x5Jav9j214A19O"
+        }
+      ],
+      "duration_ms": 188673,
+      "name": "The Hucklebuck",
+      "url": "https://open.spotify.com/track/3Ma5W48ynycNlKFgWt3k3j"
     },
     {
       "added_at": "2022-06-07 05:25:13",
@@ -1915,22 +1915,6 @@
     {
       "added_at": "2022-06-07 05:25:13",
       "album": {
-        "name": "Bear Cat / Walkin' in the Rain",
-        "url": "https://open.spotify.com/album/6gLOb8YSLT611wsgLZ9E7X"
-      },
-      "artists": [
-        {
-          "name": "Rufus Thomas",
-          "url": "https://open.spotify.com/artist/3iRSHS3b4NUdjNbnw3Opg8"
-        }
-      ],
-      "duration_ms": 170057,
-      "name": "Bear Cat",
-      "url": "https://open.spotify.com/track/3gAYM7PfYIfLvpMTFXfbAM"
-    },
-    {
-      "added_at": "2022-06-07 05:25:13",
-      "album": {
         "name": "If You Love Me / Alone and Blue",
         "url": "https://open.spotify.com/album/0JHPQ6s7moBE5G4dySdGgQ"
       },
@@ -1943,6 +1927,22 @@
       "duration_ms": 150307,
       "name": "If You Love Me",
       "url": "https://open.spotify.com/track/0YxKuFIjpXQelVTKNqIj9d"
+    },
+    {
+      "added_at": "2022-06-07 05:25:13",
+      "album": {
+        "name": "Bear Cat / Walkin' in the Rain",
+        "url": "https://open.spotify.com/album/6gLOb8YSLT611wsgLZ9E7X"
+      },
+      "artists": [
+        {
+          "name": "Rufus Thomas",
+          "url": "https://open.spotify.com/artist/3iRSHS3b4NUdjNbnw3Opg8"
+        }
+      ],
+      "duration_ms": 170057,
+      "name": "Bear Cat",
+      "url": "https://open.spotify.com/track/3gAYM7PfYIfLvpMTFXfbAM"
     },
     {
       "added_at": "2022-06-07 05:25:13",
@@ -2107,22 +2107,6 @@
     {
       "added_at": "2022-06-07 05:25:13",
       "album": {
-        "name": "I Dig You Baby / Sweetie Pie",
-        "url": "https://open.spotify.com/album/36eFyxEy9tCTvlyZ4PeIJf"
-      },
-      "artists": [
-        {
-          "name": "Tommy Blake",
-          "url": "https://open.spotify.com/artist/2x9rXRL308BFyy1Ubrk9pS"
-        }
-      ],
-      "duration_ms": 124363,
-      "name": "Sweetie Pie",
-      "url": "https://open.spotify.com/track/15Z8moPRfShAyP9EkrKked"
-    },
-    {
-      "added_at": "2022-06-07 05:25:13",
-      "album": {
         "name": "Sun Records - 60 Years, 60 Singles Box Set",
         "url": "https://open.spotify.com/album/3O2SUQ0VEHYYU1BKwsNV0O"
       },
@@ -2135,6 +2119,22 @@
       "duration_ms": 141785,
       "name": "My Baby",
       "url": "https://open.spotify.com/track/0X8ggfrvgUqrzR4mnQU5YP"
+    },
+    {
+      "added_at": "2022-06-07 05:25:13",
+      "album": {
+        "name": "I Dig You Baby / Sweetie Pie",
+        "url": "https://open.spotify.com/album/36eFyxEy9tCTvlyZ4PeIJf"
+      },
+      "artists": [
+        {
+          "name": "Tommy Blake",
+          "url": "https://open.spotify.com/artist/2x9rXRL308BFyy1Ubrk9pS"
+        }
+      ],
+      "duration_ms": 124363,
+      "name": "Sweetie Pie",
+      "url": "https://open.spotify.com/track/15Z8moPRfShAyP9EkrKked"
     },
     {
       "added_at": "2022-06-07 05:25:13",

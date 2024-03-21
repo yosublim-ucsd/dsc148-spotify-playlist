@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JPdPsQxLCG.md) - [plain]
 
 > Classic tunes for the open road.
 
-[Spotify](https://open.spotify.com/user/spotify) - 82,006 likes - 75 songs - 4 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 82,045 likes - 75 songs - 4 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JPdPsQxLCG.md) - [plain]
 | 32 | [Sleeping Sickness](https://open.spotify.com/track/5y2H3YMH4BcIVMYaqr7NPB) | [City and Colour](https://open.spotify.com/artist/74gcBzlQza1bSfob90yRhR) | [Bring Me Your Love](https://open.spotify.com/album/2GQBFqddL3YTmdNmt8Su0r) | 4:08 |
 | 33 | [Born To Be Wild \- Single Version](https://open.spotify.com/track/3lN8PP6R2IxbLP05QpYXng) | [Steppenwolf](https://open.spotify.com/artist/1WRM9i067hd2ujxxi8FI3m) | [Steppenwolf](https://open.spotify.com/album/64q58AfjSrrX9Egp7Zryw8) | 3:32 |
 | 34 | [Magic Carpet Ride](https://open.spotify.com/track/4c4jJJoaiY21t2TyRZgdWS) | [Steppenwolf](https://open.spotify.com/artist/1WRM9i067hd2ujxxi8FI3m) | [The Second](https://open.spotify.com/album/2Y5GORWYwVAZ8msuEuh5FN) | 4:31 |
-| 35 | [You Oughta Know \- 2015 Remaster](https://open.spotify.com/track/3jS7bB0oXVOwGFZn3aE5NV) | [Alanis Morissette](https://open.spotify.com/artist/6ogn9necmbUdCppmNnGOdi) | [Jagged Little Pill \(2015 Remaster\)](https://open.spotify.com/album/5Ap3F8CxjjsQKZGASDcHNA) | 4:09 |
-| 36 | [One Week](https://open.spotify.com/track/29hBRadFZf9QTGRHZmxm65) | [Barenaked Ladies](https://open.spotify.com/artist/0dEvJpkqhrcn64d3oI8v79) | [Stunt \(20th Anniversary Edition\)](https://open.spotify.com/album/0DuFDnZcj7B4R0Jik1aDmY) | 2:49 |
+| 35 | [One Week](https://open.spotify.com/track/29hBRadFZf9QTGRHZmxm65) | [Barenaked Ladies](https://open.spotify.com/artist/0dEvJpkqhrcn64d3oI8v79) | [Stunt \(20th Anniversary Edition\)](https://open.spotify.com/album/0DuFDnZcj7B4R0Jik1aDmY) | 2:49 |
+| 36 | [You Oughta Know \- 2015 Remaster](https://open.spotify.com/track/3jS7bB0oXVOwGFZn3aE5NV) | [Alanis Morissette](https://open.spotify.com/artist/6ogn9necmbUdCppmNnGOdi) | [Jagged Little Pill \(2015 Remaster\)](https://open.spotify.com/album/5Ap3F8CxjjsQKZGASDcHNA) | 4:09 |
 | 37 | [Working for the Weekend](https://open.spotify.com/track/35k31HZI4z9PbBOioaI4dZ) | [Loverboy](https://open.spotify.com/artist/2CLVPk9FcywjClBcTvWPkT) | [Get Lucky](https://open.spotify.com/album/6oZb0svo8JG9mVxZmHjPxE) | 3:41 |
 | 38 | [Landmines](https://open.spotify.com/track/1O7hVfI7ETQvQmPC0EqfY7) | [Sum 41](https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT) | [Landmines](https://open.spotify.com/album/6GcuTn1GfyA7uwTTJj3XgV) | 2:55 |
 | 39 | [Takin' Care Of Business](https://open.spotify.com/track/0lzNXoZINVBLHWNIxKxWOo) | [Bachman\-Turner Overdrive](https://open.spotify.com/artist/5q4AzEtCoYJyXjMMoEkSU5) | [Bachman\-Turner Overdrive II](https://open.spotify.com/album/1p2tbwfEfN8kZNOi4F3bGH) | 4:49 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JPdPsQxLCG.md) - [plain]
 | 74 | [I Don't Know \- EP Version](https://open.spotify.com/track/4A4DPAyhXSTzehnBstdAnt) | [The Sheepdogs](https://open.spotify.com/artist/4U33udokhmKATsu8UoqUEN) | [Five Easy Pieces](https://open.spotify.com/album/7nTSvte842Pv7j5x5pyyqr) | 3:10 |
 | 75 | [Echo Beach](https://open.spotify.com/track/08gcSzRD66Dc7z3x6yigol) | [Martha and the Muffins](https://open.spotify.com/artist/5nWbdgU2jcFSbrPV7EAoLK) | [80\-Regine del Pop](https://open.spotify.com/album/69POGM6ZPfBNMNvxgUys87) | 3:34 |
 
-Snapshot ID: `MCw1MDQ2ODI3OTUzZGM2ZThkOGE2ZDU0ZTA4ZTFmNWRiNjgzNzEzMTg5`
+Snapshot ID: `MCxkMzBjNmE4YjBmZjRhN2Y5OTFhYmQzMGRmOWM2ODM3OWIwZDliODhi`

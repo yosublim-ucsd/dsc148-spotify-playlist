@@ -3724,6 +3724,28 @@
     {
       "album": {
         "name": "Love Song",
+        "url": "https://open.spotify.com/album/4yKIBcOMs0m8JQv1ZbDJHt"
+      },
+      "artists": [
+        {
+          "name": "Marioo",
+          "url": "https://open.spotify.com/artist/4ZTqTkO2kj1doQrbqQ5KEe"
+        },
+        {
+          "name": "Alikiba",
+          "url": "https://open.spotify.com/artist/2nGoKcLdXktxEXvMdTDsIT"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208721,
+      "name": "Love Song",
+      "url": "https://open.spotify.com/track/2wmyzZUVCXLQTgJvFsh5ef"
+    },
+    {
+      "album": {
+        "name": "Love Song",
         "url": "https://open.spotify.com/album/3AJ5ucxVHyDDjYRf7fAeHE"
       },
       "artists": [
@@ -3738,7 +3760,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-21",
       "duration_ms": 208721,
       "name": "Love Song",
       "url": "https://open.spotify.com/track/57dxObrS7BrzycOrKK9Z3k"
@@ -5392,6 +5414,24 @@
     {
       "album": {
         "name": "Sarafina",
+        "url": "https://open.spotify.com/album/3YvcYmGDwqLY5wujoDDuzF"
+      },
+      "artists": [
+        {
+          "name": "WurlD",
+          "url": "https://open.spotify.com/artist/5x2vmU3Hj2Y66luW7c7vIn"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190344,
+      "name": "Sarafina",
+      "url": "https://open.spotify.com/track/0ihzl8eB3WzXt0dJm00iwN"
+    },
+    {
+      "album": {
+        "name": "Sarafina",
         "url": "https://open.spotify.com/album/3NvXYPow2aoFAW48f3CCYe"
       },
       "artists": [
@@ -5402,7 +5442,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-21",
       "duration_ms": 190344,
       "name": "Sarafina",
       "url": "https://open.spotify.com/track/2yPDSFXa5vQqWuzp2Zhhp3"

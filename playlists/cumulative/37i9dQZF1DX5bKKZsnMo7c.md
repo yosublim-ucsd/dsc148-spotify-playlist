@@ -4,7 +4,7 @@
 
 > Feeling dramatic? All eyes on you\. Cover: Jagwar Twin
 
-342 songs - 18 hr 24 min
+343 songs - 18 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -79,7 +79,8 @@
 | [Cheater \(Original\)](https://open.spotify.com/track/0dhSUoBbHS34DsO2zexW89) | [Alex Diab](https://open.spotify.com/artist/3RKRICpUG70f1MN4J1hhxX) | [Cheater \(Original\)](https://open.spotify.com/album/4X41xqxzdWmUJqm2ITEAkL) | 2:33 | 2022-05-17 | 2022-08-09 |
 | [Chinese New Year](https://open.spotify.com/track/0SIAFU49FFHwR3QnT5Jx0k) | [SALES](https://open.spotify.com/artist/6vVztIuqdDHvYWxOEXCzjN) | [Chinese New Year](https://open.spotify.com/album/4x41gTsgkdYoEZvBPPeVhi) | 2:40 | 2022-05-17 | 2022-07-14 |
 | [Choke](https://open.spotify.com/track/37mfTcSlX60JtAvAETytGs) | [I DONT KNOW HOW BUT THEY FOUND ME](https://open.spotify.com/artist/0Raaw7kr1Vzat4ZvHzjsJR) | [Choke](https://open.spotify.com/album/2KwVOjuUAYp2qtdBcFDfCn) | 3:15 | 2022-05-17 | 2023-01-28 |
-| [Christmas Kids](https://open.spotify.com/track/40gk32E7YaTFoQwDIWv2SY) | [Roar](https://open.spotify.com/artist/7dIpKWlEeAljA20vFJ82RD) | [I Can't Handle Change](https://open.spotify.com/album/42vd9Cgr89pjb0Jipvaj5d) | 2:15 | 2023-03-15 |  |
+| [Christmas Kids](https://open.spotify.com/track/40gk32E7YaTFoQwDIWv2SY) | [Roar](https://open.spotify.com/artist/7dIpKWlEeAljA20vFJ82RD) | [I Can't Handle Change](https://open.spotify.com/album/42vd9Cgr89pjb0Jipvaj5d) | 2:15 | 2023-03-15 | 2024-03-21 |
+| [Christmas Kids](https://open.spotify.com/track/7KV7xwHTJbzbwGQEHLIzR8) | [Roar](https://open.spotify.com/artist/7dIpKWlEeAljA20vFJ82RD) | [I Can't Handle Change](https://open.spotify.com/album/0YjOnBY0FRufcmNBTzWTgX) | 2:15 | 2024-03-19 |  |
 | [Cicada Days](https://open.spotify.com/track/2s3SwhbFhymLPDm4GGhDKl) | [Will Wood](https://open.spotify.com/artist/1VQ8riQ31zVHtlxiCC9EZE) | [Cicada Days](https://open.spotify.com/album/7rN0PYbcQ7quewRhtqvLGK) | 4:10 | 2022-06-03 | 2022-10-12 |
 | [Coffee](https://open.spotify.com/track/2zmo93xTzKTP0lztR9iy9H) | [Jack Stauber's Micropop](https://open.spotify.com/artist/1yNIb413Bmfs2ZBVuPp9kC) | [Shop: A Pop Opera](https://open.spotify.com/album/1PzQlma9FcRRGwMDmJIUyX) | 0:58 | 2023-01-18 | 2024-02-24 |
 | [cold weather](https://open.spotify.com/track/50u2y4zgROMZq2db8Qx94B) | [glass beach](https://open.spotify.com/artist/4gHs8pWsgZpndQZKs6QVRH) | [the first glass beach album](https://open.spotify.com/album/5GOoswCqZQiq9gbjSHkzMq) | 2:18 | 2022-07-07 | 2023-01-14 |

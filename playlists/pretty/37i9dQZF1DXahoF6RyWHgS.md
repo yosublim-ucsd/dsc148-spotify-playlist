@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXahoF6RyWHgS.md) - [plain]
 
 > ¡A preparar la comida con la sazón de música rica y antigüita!
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,821 likes - 100 songs - 6 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,836 likes - 100 songs - 6 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,13 +72,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXahoF6RyWHgS.md) - [plain]
 | 62 | [Corazon](https://open.spotify.com/track/0Q3A6yU7aufWsTbiNoUmgb) | [Los Lobos](https://open.spotify.com/artist/6OWapcJm9xd55ci9CYbAuT) | [This Time](https://open.spotify.com/album/4aF8NocABna0fkGr6kSBZ9) | 4:05 |
 | 63 | [A Su Merced](https://open.spotify.com/track/6IFbs21O6l5wkvdqeWfagJ) | [Liliana Felipe](https://open.spotify.com/artist/4SBHg3uVTZ3UNBDSh96tcV) | [Elotitos Tiernos](https://open.spotify.com/album/3CHxiCxnVaMvLNr94eXJbt) | 6:32 |
 | 64 | [Guantanamera](https://open.spotify.com/track/0wNoE4ph2njLnF1txfeLVJ) | [La Sonora Matancera](https://open.spotify.com/artist/01p7Homi0d4XxZ06f2NYYD) | [Coleccion de Oro](https://open.spotify.com/album/4hB9LGTtBc6H29pjkTagzo) | 2:43 |
-| 65 | [Batazo Batero](https://open.spotify.com/track/2sLMPlRSLlDBUiu6bECQjr) | [Los Propios Bateros](https://open.spotify.com/artist/27lsT9bLRBVy2lNW7DwmeC) | [Batazo Batero](https://open.spotify.com/album/5ajMRxW6NnJUUl3tq0WzFM) | 4:58 |
-| 66 | [Ay Mexicanita](https://open.spotify.com/track/15Aju7YDD1m8LEwyoJGxTX) | [Banda de los Muertos](https://open.spotify.com/artist/51oqYJcrhViS7t0O8ibl5g) | [Banda de los Muertos](https://open.spotify.com/album/2zkMyaGBpT2swb6k90jmO1) | 3:07 |
+| 65 | [Ay Mexicanita](https://open.spotify.com/track/15Aju7YDD1m8LEwyoJGxTX) | [Banda de los Muertos](https://open.spotify.com/artist/51oqYJcrhViS7t0O8ibl5g) | [Banda de los Muertos](https://open.spotify.com/album/2zkMyaGBpT2swb6k90jmO1) | 3:07 |
+| 66 | [Batazo Batero](https://open.spotify.com/track/2sLMPlRSLlDBUiu6bECQjr) | [Los Propios Bateros](https://open.spotify.com/artist/27lsT9bLRBVy2lNW7DwmeC) | [Batazo Batero](https://open.spotify.com/album/5ajMRxW6NnJUUl3tq0WzFM) | 4:58 |
 | 67 | [Tengo una debilidad](https://open.spotify.com/track/52ZaEmQXC9AtnZb4xUNNoC) | [Antonio Machín](https://open.spotify.com/artist/30iuQTTr3l7QihN6KKgJrG) | [Las 50 Mejores Grabaciones De Antonio Machín En Discophon \(1903\-1977\)](https://open.spotify.com/album/7A0ccfjjDyCG3HdU5avaf5) | 2:37 |
 | 68 | [Luna Negra \- Live](https://open.spotify.com/track/2tVkvdgt2Gnf4kTp6bbn7Y) | [Los Cojolites](https://open.spotify.com/artist/6SFpEAywC3u4kjE00wHMoO) | [Live At The First Annual San Francisco Son Jarocho Festival](https://open.spotify.com/album/5OFT3JolZgTwmIRLTEXtDN) | 9:05 |
 | 69 | [Limón](https://open.spotify.com/track/0CFM8F4yHB33K2XOXurdwe) | [Salomón Beda](https://open.spotify.com/artist/76oqoGaknr9WGOegYTjxdh) | [Pa'lante](https://open.spotify.com/album/3pyH3BOeU7s9iezM5pFU0E) | 4:32 |
-| 70 | [Maria Cristina](https://open.spotify.com/track/3hqjYthxFa5f21ISWn9xdN) | [Ñico Saquito](https://open.spotify.com/artist/0OThc8JLqTb1ThkLfsIGUi) | [Presentando a Ñico Saquito](https://open.spotify.com/album/78R0uTkfDNPDKVypJ3zI4S) | 2:38 |
-| 71 | [Frida Kahlo aka Mamasita](https://open.spotify.com/track/0kVOs0kuxFduJQSGA3YA3x) | [Latin Soul Syndicate](https://open.spotify.com/artist/7hxIk7Xc5inSXA4uXHUSps) | [Latin Soul Syndicate](https://open.spotify.com/album/4RX2MCsif63EAl7nM8JBiO) | 3:59 |
+| 70 | [Frida Kahlo aka Mamasita](https://open.spotify.com/track/0kVOs0kuxFduJQSGA3YA3x) | [Latin Soul Syndicate](https://open.spotify.com/artist/7hxIk7Xc5inSXA4uXHUSps) | [Latin Soul Syndicate](https://open.spotify.com/album/4RX2MCsif63EAl7nM8JBiO) | 3:59 |
+| 71 | [Maria Cristina](https://open.spotify.com/track/3hqjYthxFa5f21ISWn9xdN) | [Ñico Saquito](https://open.spotify.com/artist/0OThc8JLqTb1ThkLfsIGUi) | [Presentando a Ñico Saquito](https://open.spotify.com/album/78R0uTkfDNPDKVypJ3zI4S) | 2:38 |
 | 72 | [Hot Tamales \(Los Tamalitos De Olga\)](https://open.spotify.com/track/1CcbfkoHGIQvQfVOTmXFvl) | [Tito Puente](https://open.spotify.com/artist/6SPpCqM8gOzrtICAxN5NuX) | [The Complete 78's, Vol\. 4 \(1949 \- 1955\)](https://open.spotify.com/album/0vDk1Sn8iteUfKmoSqWPYL) | 2:33 |
 | 73 | [Moliendo Café \- Ritmo Orquidea](https://open.spotify.com/track/2hAZYHPp6JLzLNRMdC3lPP) | [Hernán Gamboa](https://open.spotify.com/artist/1X4pmZhaFxmit30AOxFpaL) | [La Fiesta](https://open.spotify.com/album/1QN51TxHmv1PzCnBKm90HM) | 3:07 |
 | 74 | [Arroz Con Frijoles](https://open.spotify.com/track/1Y7JDqUVbaHRPsLJtSY8ie) | [Grupo Fantasma](https://open.spotify.com/artist/1EJ0KSMkpoQJHChu5AyTHE) | [Sonidos Gold](https://open.spotify.com/album/2lBRiANHPb6WCzlwjWDF1f) | 4:01 |
@@ -89,8 +89,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXahoF6RyWHgS.md) - [plain]
 | 79 | [Regi Bugalú \(Bugalu\)](https://open.spotify.com/track/68Rb4XkOch4lhKtlD4fHHq) | [The Quantic Soul Orchestra](https://open.spotify.com/artist/12ZOHgIYkZiwd9w9F7I83e) | [Tropidélico](https://open.spotify.com/album/2VBt7XqrvUKqKGDtxEoghS) | 4:17 |
 | 80 | [Apocalypso](https://open.spotify.com/track/6hgDFkV8ZAFFI6F9kvUFns) | [Kevin Johansen](https://open.spotify.com/artist/7qjoG7bwhAjSd7nJTcjgAk) | [Bi](https://open.spotify.com/album/5Rnk0JczvdBVg123Mpd483) | 4:27 |
 | 81 | [Paletero](https://open.spotify.com/track/7g0zc1QNXmrg44wpki6C6n) | [Las Cafeteras](https://open.spotify.com/artist/2AeRVFWlYSW9zMUGULjPpz) | [Tastes Like L.A.](https://open.spotify.com/album/1PbmMKMsXwEC9S0I6YrMG6) | 3:55 |
-| 82 | [Fina Estampa](https://open.spotify.com/track/108bZCxgGxeHFQb14rJC1H) | [Eva Ayllón](https://open.spotify.com/artist/6AQFORISOneOZkh6r1sGS2) | [Mujeres con Cajones](https://open.spotify.com/album/50lzMlXqpRzP1qcdZJ7KGz) | 2:51 |
-| 83 | [La Sitiera](https://open.spotify.com/track/0B0xMZtJkAgGlYhayJhYcK) | [Lobo](https://open.spotify.com/artist/1KfWU6b8CeeGutVLWFF34Y) | [15 Super Exitos De Lobo Y Melon \- Versiones Originales](https://open.spotify.com/album/0xzsqNsEpcTJtcFl5xqakO) | 2:56 |
+| 82 | [La Sitiera](https://open.spotify.com/track/0B0xMZtJkAgGlYhayJhYcK) | [Lobo](https://open.spotify.com/artist/1KfWU6b8CeeGutVLWFF34Y) | [15 Super Exitos De Lobo Y Melon \- Versiones Originales](https://open.spotify.com/album/0xzsqNsEpcTJtcFl5xqakO) | 2:56 |
+| 83 | [Fina Estampa](https://open.spotify.com/track/108bZCxgGxeHFQb14rJC1H) | [Eva Ayllón](https://open.spotify.com/artist/6AQFORISOneOZkh6r1sGS2) | [Mujeres con Cajones](https://open.spotify.com/album/50lzMlXqpRzP1qcdZJ7KGz) | 2:51 |
 | 84 | [Caramelos](https://open.spotify.com/track/2xirjKVetY5wxvw3hAuELH) | [Celia Cruz y La Sonora Matancera](https://open.spotify.com/artist/3WaTkjZxpbGDryRuQTtj1g) | [Los Originales Vol\. 3](https://open.spotify.com/album/39Xoa9wbneSzbysFRzkVmw) | 2:37 |
 | 85 | [Jacarandosa \- Remastered](https://open.spotify.com/track/43gIa4GPVqRnI7xEon9P6j) | [Los Panchos](https://open.spotify.com/artist/3Ker27Wbb9OcUHGs54JIAz) | [Por siempre Los Panchos, Vol\. 1 \- Noche de ronda y otros éxitos \(Remastered\)](https://open.spotify.com/album/5Z5H3W0jLUyhzY8Fr1CDe8) | 3:06 |
 | 86 | [Paleta](https://open.spotify.com/track/4UGMFGzGdq4H6nIM82d7mP) | [Orkesta Mendoza](https://open.spotify.com/artist/3VkYgHMyt5EYPd7qfzE3CT) | [Curandero](https://open.spotify.com/album/3hbeW1sJ4F6IT5bV5qquM4) | 2:38 |
@@ -103,10 +103,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXahoF6RyWHgS.md) - [plain]
 | 93 | [Limon En La Cabeza](https://open.spotify.com/track/3NLbpJkkXWoThhEe4RB9t5) | [Gecko Turner](https://open.spotify.com/artist/3vGEIjEdCD0TeZDOMkoaFg) | [Guapapasea!](https://open.spotify.com/album/1YjFIHAJ5SGF1x724MoFYP) | 5:31 |
 | 94 | [Afro Blue \- Koop Remix](https://open.spotify.com/track/04gJ1TgFN1OTisN8Z2H9p4) | [Susana Baca](https://open.spotify.com/artist/1DiaZsjdOzFCdk7Dw9KIs0) | [Luaka Bop Remix](https://open.spotify.com/album/73nm7pKg0LAgLYXM4Ux85O) | 2:46 |
 | 95 | [Bossa Cubana](https://open.spotify.com/track/4v4dF3Kfz2gbWEOL7eu92k) | [Los Zafiros](https://open.spotify.com/artist/20hjMyNIdXmSMFau9ZkmU6) | [15 Éxitos de los Zafiros](https://open.spotify.com/album/2h6wPeAK8c5vr6nCHxHtFj) | 2:32 |
-| 96 | [Allo Mambo](https://open.spotify.com/track/2ZGtVz8et8UW3pdP8Hg4Qx) | [Karl Zéro](https://open.spotify.com/artist/21hW4GIKTshnE6ZQgiB79M) | [Songs for Moonlight Swim and Otros Tipos de Ocupaciones](https://open.spotify.com/album/3g6U2KUU7oi8Fog3bGX3ni) | 2:45 |
-| 97 | [María Cristina \- Remastered](https://open.spotify.com/track/5zimrebZIVCXRfcFuVbSqd) | [Pérez Prado](https://open.spotify.com/artist/1ZKhPkCXXgtiGgALn4OYtT) | [Los 22 Grandes Éxitos de Pérez Prado \(Remastered\)](https://open.spotify.com/album/4NT0vaw4EP7hApFQCXqmoo) | 2:27 |
+| 96 | [María Cristina \- Remastered](https://open.spotify.com/track/5zimrebZIVCXRfcFuVbSqd) | [Pérez Prado](https://open.spotify.com/artist/1ZKhPkCXXgtiGgALn4OYtT) | [Los 22 Grandes Éxitos de Pérez Prado \(Remastered\)](https://open.spotify.com/album/4NT0vaw4EP7hApFQCXqmoo) | 2:27 |
+| 97 | [Allo Mambo](https://open.spotify.com/track/2ZGtVz8et8UW3pdP8Hg4Qx) | [Karl Zéro](https://open.spotify.com/artist/21hW4GIKTshnE6ZQgiB79M) | [Songs for Moonlight Swim and Otros Tipos de Ocupaciones](https://open.spotify.com/album/3g6U2KUU7oi8Fog3bGX3ni) | 2:45 |
 | 98 | [Los Sabores Del Porro](https://open.spotify.com/track/7mJ2WDNjByJ1Ncqa8NjRJH) | [Totó La Momposina](https://open.spotify.com/artist/26BL0aeVS96sje8JfCNfUk) | [Maremagnum](https://open.spotify.com/album/6G4MYxWPCyBbWsQ1cPh6ul) | 4:19 |
 | 99 | [Los tamalitos de Olga \- Remastered](https://open.spotify.com/track/5kQcTgQ7TKzOvgslid4Qv2) | [Abelardo Barroso](https://open.spotify.com/artist/54Cvt1RK4llutqZIBDZAVk) | [Guajira Guantanamera \(Remastered\)](https://open.spotify.com/album/53nYU70GFZo0FvmWPjOoID) | 2:17 |
 | 100 | [Oracion Caribe](https://open.spotify.com/track/7EEgaEck35oVTzXGFOm7Kr) | [Toña La Negra](https://open.spotify.com/artist/2NRvtXR7xPvvJGoWov1YJ3) | [La Reina de Veracruz](https://open.spotify.com/album/6iObzhLiuOraH0mEabqrdo) | 3:01 |
 
-Snapshot ID: `MCw4ZTA2MDc4ZTliZmU2YTE2NjNmMWJhNTJlYjhiZmMxMDMxZjQyOTE2`
+Snapshot ID: `MCwzYmI5MzVlODU2Njg0ZDQ1ZGVkNGVhNWYyYjUxN2EwOGI3YmU2ZmY5`

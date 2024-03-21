@@ -1,12 +1,12 @@
 {
   "description": "Kick back to the best new and recent chill hits.",
-  "num_followers": 9000727,
+  "num_followers": 9001669,
   "original_name": "Chill Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwMzZkM2M1YjE3OGQ0ZTFkNzZhNWM1ODk0NjkwYmFlY2E4MDQwMDU0",
+  "snapshot_id": "MCwzY2Q5ZWIzZWQxZGRhNjk3MWFhODE5NGJlN2IyZWM5ZGZiYTQ2M2E5",
   "tracks": [
     {
       "added_at": "2024-02-15 23:00:00",
@@ -759,6 +759,22 @@
     {
       "added_at": "2024-02-15 23:00:00",
       "album": {
+        "name": "Ghost Town",
+        "url": "https://open.spotify.com/album/4NTDxbwbo2rMGMm6U9UAEP"
+      },
+      "artists": [
+        {
+          "name": "Benson Boone",
+          "url": "https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET"
+        }
+      ],
+      "duration_ms": 193733,
+      "name": "Ghost Town",
+      "url": "https://open.spotify.com/track/135Lf4Q0CzlMNfOxbEUsLH"
+    },
+    {
+      "added_at": "2024-02-15 23:00:00",
+      "album": {
         "name": "Z-Sides",
         "url": "https://open.spotify.com/album/6wOJyevNYXevqTZCn6Xk5T"
       },
@@ -771,22 +787,6 @@
       "duration_ms": 193749,
       "name": "Lights Are On",
       "url": "https://open.spotify.com/track/4IhTXiZLKATmwhMZIb1GQN"
-    },
-    {
-      "added_at": "2024-02-15 23:00:00",
-      "album": {
-        "name": "GHOST TOWN",
-        "url": "https://open.spotify.com/album/4NTDxbwbo2rMGMm6U9UAEP"
-      },
-      "artists": [
-        {
-          "name": "Benson Boone",
-          "url": "https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET"
-        }
-      ],
-      "duration_ms": 193733,
-      "name": "GHOST TOWN",
-      "url": "https://open.spotify.com/track/135Lf4Q0CzlMNfOxbEUsLH"
     },
     {
       "added_at": "2024-02-15 23:00:00",
@@ -963,22 +963,6 @@
       "duration_ms": 211666,
       "name": "Die For You",
       "url": "https://open.spotify.com/track/26hOm7dTtBi0TdpDGl141t"
-    },
-    {
-      "added_at": "2024-02-15 23:00:00",
-      "album": {
-        "name": "Deeper Well",
-        "url": "https://open.spotify.com/album/2NXiMKrwmPrqU8epp20pW8"
-      },
-      "artists": [
-        {
-          "name": "Kacey Musgraves",
-          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
-        }
-      ],
-      "duration_ms": 232133,
-      "name": "Deeper Well",
-      "url": "https://open.spotify.com/track/2lJn77IeZAP9cmv6DPXOrL"
     },
     {
       "added_at": "2024-02-15 23:00:00",
@@ -1431,6 +1415,22 @@
     {
       "added_at": "2024-02-15 23:00:00",
       "album": {
+        "name": "TRUSTFALL (Tour Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4hgincUyDza4A228fFQRiK"
+      },
+      "artists": [
+        {
+          "name": "P!nk",
+          "url": "https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR"
+        }
+      ],
+      "duration_ms": 212306,
+      "name": "All Out Of Fight",
+      "url": "https://open.spotify.com/track/0ZtWVho1KKMD9w55XYoDPl"
+    },
+    {
+      "added_at": "2024-02-15 23:00:00",
+      "album": {
         "name": "Be Kind (with Halsey)",
         "url": "https://open.spotify.com/album/1eleCBhP2R8TXEDquvybwC"
       },
@@ -1447,22 +1447,6 @@
       "duration_ms": 172761,
       "name": "Be Kind (with Halsey)",
       "url": "https://open.spotify.com/track/3Z8FwOEN59mRMxDCtb8N0A"
-    },
-    {
-      "added_at": "2024-02-15 23:00:00",
-      "album": {
-        "name": "TRUSTFALL (Tour Deluxe Edition)",
-        "url": "https://open.spotify.com/album/4hgincUyDza4A228fFQRiK"
-      },
-      "artists": [
-        {
-          "name": "P!nk",
-          "url": "https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR"
-        }
-      ],
-      "duration_ms": 212306,
-      "name": "All Out Of Fight",
-      "url": "https://open.spotify.com/track/0ZtWVho1KKMD9w55XYoDPl"
     },
     {
       "added_at": "2024-02-15 23:00:00",
@@ -1515,22 +1499,6 @@
     {
       "added_at": "2024-02-15 23:00:00",
       "album": {
-        "name": "Lift Me Up (From Black Panther: Wakanda Forever - Music From and Inspired By)",
-        "url": "https://open.spotify.com/album/3Zzv75PyROH6AMeXN1Yr1h"
-      },
-      "artists": [
-        {
-          "name": "Rihanna",
-          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
-        }
-      ],
-      "duration_ms": 196519,
-      "name": "Lift Me Up - From Black Panther: Wakanda Forever - Music From and Inspired By",
-      "url": "https://open.spotify.com/track/35ovElsgyAtQwYPYnZJECg"
-    },
-    {
-      "added_at": "2024-02-15 23:00:00",
-      "album": {
         "name": "Donda",
         "url": "https://open.spotify.com/album/5CnpZV3q5BcESefcB3WJmz"
       },
@@ -1543,6 +1511,22 @@
       "duration_ms": 156091,
       "name": "Moon",
       "url": "https://open.spotify.com/track/7CC6UbCs4iGsePSzFxYxNn"
+    },
+    {
+      "added_at": "2024-02-15 23:00:00",
+      "album": {
+        "name": "Lift Me Up (From Black Panther: Wakanda Forever - Music From and Inspired By)",
+        "url": "https://open.spotify.com/album/3Zzv75PyROH6AMeXN1Yr1h"
+      },
+      "artists": [
+        {
+          "name": "Rihanna",
+          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+        }
+      ],
+      "duration_ms": 196519,
+      "name": "Lift Me Up - From Black Panther: Wakanda Forever - Music From and Inspired By",
+      "url": "https://open.spotify.com/track/35ovElsgyAtQwYPYnZJECg"
     },
     {
       "added_at": "2024-02-15 23:00:00",
@@ -1575,6 +1559,22 @@
       "duration_ms": 164781,
       "name": "Thousand Miles",
       "url": "https://open.spotify.com/track/1r8ZCjfrQxoy2wVaBUbpwg"
+    },
+    {
+      "added_at": "2024-02-15 23:00:00",
+      "album": {
+        "name": "Everything To Everyone",
+        "url": "https://open.spotify.com/album/4Kk5hoolfW8UN6cTSo5fXJ"
+      },
+      "artists": [
+        {
+          "name": "Rene\u00e9 Rapp",
+          "url": "https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn"
+        }
+      ],
+      "duration_ms": 227749,
+      "name": "In The Kitchen",
+      "url": "https://open.spotify.com/track/2VFetGqLYq0Pc8ZtRYCaeL"
     },
     {
       "added_at": "2024-02-15 23:00:00",
@@ -1627,22 +1627,6 @@
       "duration_ms": 215106,
       "name": "Before You Go",
       "url": "https://open.spotify.com/track/7ce20yLkzuXXLUhzIDoZih"
-    },
-    {
-      "added_at": "2024-02-15 23:00:00",
-      "album": {
-        "name": "Everything To Everyone",
-        "url": "https://open.spotify.com/album/4Kk5hoolfW8UN6cTSo5fXJ"
-      },
-      "artists": [
-        {
-          "name": "Rene\u00e9 Rapp",
-          "url": "https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn"
-        }
-      ],
-      "duration_ms": 227749,
-      "name": "In The Kitchen",
-      "url": "https://open.spotify.com/track/2VFetGqLYq0Pc8ZtRYCaeL"
     },
     {
       "added_at": "2024-02-15 23:00:00",
@@ -1727,6 +1711,22 @@
     {
       "added_at": "2024-02-15 23:00:00",
       "album": {
+        "name": "birthday cake",
+        "url": "https://open.spotify.com/album/6Z2I7RVroN2B24d7mms0tT"
+      },
+      "artists": [
+        {
+          "name": "Dylan Conrique",
+          "url": "https://open.spotify.com/artist/2S054G7qnCK45KY0XzpX30"
+        }
+      ],
+      "duration_ms": 205280,
+      "name": "birthday cake",
+      "url": "https://open.spotify.com/track/7dDrR6vMK1JAwZZ5MIWgme"
+    },
+    {
+      "added_at": "2024-02-15 23:00:00",
+      "album": {
         "name": "Music Of The Spheres",
         "url": "https://open.spotify.com/album/06mXfvDsRZNfnsGZvX2zpb"
       },
@@ -1759,22 +1759,6 @@
       "duration_ms": 146266,
       "name": "Pray",
       "url": "https://open.spotify.com/track/7MOCaEUbfGyq1K96umNVwJ"
-    },
-    {
-      "added_at": "2024-02-15 23:00:00",
-      "album": {
-        "name": "birthday cake",
-        "url": "https://open.spotify.com/album/6Z2I7RVroN2B24d7mms0tT"
-      },
-      "artists": [
-        {
-          "name": "Dylan Conrique",
-          "url": "https://open.spotify.com/artist/2S054G7qnCK45KY0XzpX30"
-        }
-      ],
-      "duration_ms": 205280,
-      "name": "birthday cake",
-      "url": "https://open.spotify.com/track/7dDrR6vMK1JAwZZ5MIWgme"
     },
     {
       "added_at": "2024-02-15 23:00:00",
@@ -1851,22 +1835,6 @@
     {
       "added_at": "2024-02-15 23:00:00",
       "album": {
-        "name": "Ends & Begins",
-        "url": "https://open.spotify.com/album/5kGUy2eONqGocT26fvKo9v"
-      },
-      "artists": [
-        {
-          "name": "Labrinth",
-          "url": "https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7"
-        }
-      ],
-      "duration_ms": 197465,
-      "name": "The Feels",
-      "url": "https://open.spotify.com/track/3l3iCfpZsxbxWJhYoiQNkD"
-    },
-    {
-      "added_at": "2024-02-15 23:00:00",
-      "album": {
         "name": "I Quit Drinking",
         "url": "https://open.spotify.com/album/5c5S9cyjHKBQRm1DGU1E8J"
       },
@@ -1883,6 +1851,22 @@
       "duration_ms": 171200,
       "name": "I Quit Drinking",
       "url": "https://open.spotify.com/track/6OcCk1dbAb7XNHsC098oEM"
+    },
+    {
+      "added_at": "2024-02-15 23:00:00",
+      "album": {
+        "name": "Ends & Begins",
+        "url": "https://open.spotify.com/album/5kGUy2eONqGocT26fvKo9v"
+      },
+      "artists": [
+        {
+          "name": "Labrinth",
+          "url": "https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7"
+        }
+      ],
+      "duration_ms": 197465,
+      "name": "The Feels",
+      "url": "https://open.spotify.com/track/3l3iCfpZsxbxWJhYoiQNkD"
     },
     {
       "added_at": "2024-02-15 23:00:00",
@@ -2127,6 +2111,22 @@
     {
       "added_at": "2024-02-15 23:00:00",
       "album": {
+        "name": "Deeper Well",
+        "url": "https://open.spotify.com/album/5SxZmGwc4eJuPp6PcO4JgJ"
+      },
+      "artists": [
+        {
+          "name": "Kacey Musgraves",
+          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
+        }
+      ],
+      "duration_ms": 232133,
+      "name": "Deeper Well",
+      "url": "https://open.spotify.com/track/333XFHKsHU0pOocFzBgrJi"
+    },
+    {
+      "added_at": "2024-02-15 23:00:00",
+      "album": {
         "name": "go",
         "url": "https://open.spotify.com/album/7KfrkeW0bJx9w3Wak4PGX2"
       },
@@ -2219,22 +2219,18 @@
     {
       "added_at": "2024-02-15 23:00:00",
       "album": {
-        "name": "The Joker And The Queen (feat. Taylor Swift)",
-        "url": "https://open.spotify.com/album/0vkAczpFKCazPKaoLtnBr0"
+        "name": "closer to closure",
+        "url": "https://open.spotify.com/album/6CfZkq2gT8JmDKJGgHOIf1"
       },
       "artists": [
         {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-        },
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+          "name": "Lexi Jayde",
+          "url": "https://open.spotify.com/artist/69761NObDw2KwmmFgZmxzC"
         }
       ],
-      "duration_ms": 185422,
-      "name": "The Joker And The Queen (feat. Taylor Swift)",
-      "url": "https://open.spotify.com/track/6N1K5OVVCopBjGViHs2IvP"
+      "duration_ms": 213133,
+      "name": "drunk text me",
+      "url": "https://open.spotify.com/track/5gukv8x9eP58gFy2OcZEBQ"
     }
   ],
   "unique_name": "Chill Hits",

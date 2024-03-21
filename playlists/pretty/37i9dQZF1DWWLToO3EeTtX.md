@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWLToO3EeTtX.md) - [plain]
 
 > Get away from the maddening crowds with this peaceful pop mix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,101,657 likes - 50 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,101,648 likes - 50 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWLToO3EeTtX.md) - [plain]
 | 49 | [Stuck with U \(with Justin Bieber\)](https://open.spotify.com/track/4HBZA5flZLE435QTztThqH) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Stuck with U](https://open.spotify.com/album/5mUdh6YWnUvf0MfklEk1oi) | 3:48 |
 | 50 | [MIDDLE OF THE NIGHT](https://open.spotify.com/track/58HvfVOeJY7lUuCqF0m3ly) | [Elley Duhé](https://open.spotify.com/artist/67MNhiAICFY6Pwc2YxCO0K) | [MIDDLE OF THE NIGHT](https://open.spotify.com/album/4hYYpUC8Ewb74tP23Y1lmM) | 3:04 |
 
-Snapshot ID: `MCw0MDliYTQwMDZhYTY5MjYzMzJjMWUxOThlNTJiN2UyNDliNjA4NWRh`
+Snapshot ID: `MCxkMzY0MWQzMzAzMWJmOTZhMmI3YjhmMmViYzMwMDIzYjdkZTFkYWM0`

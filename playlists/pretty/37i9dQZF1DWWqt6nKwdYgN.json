@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Lo m\u00e1s fresco del hip-hop en espa\u00f1ol! SFDK en portada. ",
-  "num_followers": 13414,
+  "num_followers": 13413,
   "original_name": "Rimas Frescas ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhZjEwMDQxMGIxYjhmN2JiNWFhNzI3M2NlNjcxZDU0NDdjOTllN2Fm",
+  "snapshot_id": "MCw4MTdiZWQzOGZhYjEyY2QwOGZjZWZmNDQ0NDExMzMzMTNiZDAxZmFm",
   "tracks": [
     {
       "added_at": "2024-03-15 06:00:00",
@@ -415,26 +415,22 @@
     {
       "added_at": "2024-03-15 06:00:00",
       "album": {
-        "name": "Cypher MND #16: DUKI",
-        "url": "https://open.spotify.com/album/3iHcY5LYKnGIdNqA9kXH3C"
+        "name": "Por La Familia",
+        "url": "https://open.spotify.com/album/7D7a4qJmKNXAdDnHvHNJ2T"
       },
       "artists": [
         {
-          "name": "Mundialista Crew",
-          "url": "https://open.spotify.com/artist/6EcQO0oH1Bk27HMRlRNwYv"
+          "name": "Carin Leon",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
         },
         {
-          "name": "Duki",
-          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
-        },
-        {
-          "name": "Shigant-G",
-          "url": "https://open.spotify.com/artist/16zBWpyiDMtWDpGIueLZbC"
+          "name": "BorderKid",
+          "url": "https://open.spotify.com/artist/7ygIMSIwRfGk8Ro6AOEuu3"
         }
       ],
-      "duration_ms": 177902,
-      "name": "Cypher MND #16 v.1 : Duki",
-      "url": "https://open.spotify.com/track/2AxzQded8FgpiikNxP2dDc"
+      "duration_ms": 153536,
+      "name": "Por La Familia",
+      "url": "https://open.spotify.com/track/03uEJDEIXtm3FAV4iXcs68"
     },
     {
       "added_at": "2024-03-15 06:00:00",
@@ -459,22 +455,26 @@
     {
       "added_at": "2024-03-15 06:00:00",
       "album": {
-        "name": "Por La Familia",
-        "url": "https://open.spotify.com/album/7D7a4qJmKNXAdDnHvHNJ2T"
+        "name": "Cypher MND #16: DUKI",
+        "url": "https://open.spotify.com/album/3iHcY5LYKnGIdNqA9kXH3C"
       },
       "artists": [
         {
-          "name": "Carin Leon",
-          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+          "name": "Mundialista Crew",
+          "url": "https://open.spotify.com/artist/6EcQO0oH1Bk27HMRlRNwYv"
         },
         {
-          "name": "BorderKid",
-          "url": "https://open.spotify.com/artist/7ygIMSIwRfGk8Ro6AOEuu3"
+          "name": "Duki",
+          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
+        },
+        {
+          "name": "Shigant-G",
+          "url": "https://open.spotify.com/artist/16zBWpyiDMtWDpGIueLZbC"
         }
       ],
-      "duration_ms": 153536,
-      "name": "Por La Familia",
-      "url": "https://open.spotify.com/track/03uEJDEIXtm3FAV4iXcs68"
+      "duration_ms": 177902,
+      "name": "Cypher MND #16 v.1 : Duki",
+      "url": "https://open.spotify.com/track/2AxzQded8FgpiikNxP2dDc"
     },
     {
       "added_at": "2024-03-15 06:00:00",
@@ -855,26 +855,6 @@
     {
       "added_at": "2024-03-15 06:00:00",
       "album": {
-        "name": "Ni\u00f1os",
-        "url": "https://open.spotify.com/album/6eebAfJJZEyLxe2CS770W9"
-      },
-      "artists": [
-        {
-          "name": "Aczino",
-          "url": "https://open.spotify.com/artist/4r1ZDYKzPt3iIjuq8LbT6X"
-        },
-        {
-          "name": "Xzibit",
-          "url": "https://open.spotify.com/artist/4tujQJicOnuZRLiBFdp3Ou"
-        }
-      ],
-      "duration_ms": 254186,
-      "name": "Ni\u00f1os",
-      "url": "https://open.spotify.com/track/3VMJCXtKX7bJMqU8PZrE7s"
-    },
-    {
-      "added_at": "2024-03-15 06:00:00",
-      "album": {
         "name": "No la Cuajan",
         "url": "https://open.spotify.com/album/0ZocA4gh4Md892U4yfffV5"
       },
@@ -915,6 +895,26 @@
       "duration_ms": 144414,
       "name": "Barrio (with Lefty Sm)",
       "url": "https://open.spotify.com/track/4oxKEbn3OLrNCW5JciZKvn"
+    },
+    {
+      "added_at": "2024-03-15 06:00:00",
+      "album": {
+        "name": "Ni\u00f1os",
+        "url": "https://open.spotify.com/album/6eebAfJJZEyLxe2CS770W9"
+      },
+      "artists": [
+        {
+          "name": "Aczino",
+          "url": "https://open.spotify.com/artist/4r1ZDYKzPt3iIjuq8LbT6X"
+        },
+        {
+          "name": "Xzibit",
+          "url": "https://open.spotify.com/artist/4tujQJicOnuZRLiBFdp3Ou"
+        }
+      ],
+      "duration_ms": 254186,
+      "name": "Ni\u00f1os",
+      "url": "https://open.spotify.com/track/3VMJCXtKX7bJMqU8PZrE7s"
     },
     {
       "added_at": "2024-03-15 06:00:00",
@@ -1343,22 +1343,6 @@
     {
       "added_at": "2024-03-15 06:00:00",
       "album": {
-        "name": "Luna",
-        "url": "https://open.spotify.com/album/4gajuf08d8JcGjWuroGCTb"
-      },
-      "artists": [
-        {
-          "name": "Toser One",
-          "url": "https://open.spotify.com/artist/1oHPSeQJBwNmpq0J52Wjn1"
-        }
-      ],
-      "duration_ms": 283909,
-      "name": "Luna",
-      "url": "https://open.spotify.com/track/3gwBWDL8qR3Vz4rUbj7RAK"
-    },
-    {
-      "added_at": "2024-03-15 06:00:00",
-      "album": {
         "name": "Veneno",
         "url": "https://open.spotify.com/album/24ttO41p2XG2NO5LH6sSGy"
       },
@@ -1375,6 +1359,22 @@
       "duration_ms": 179142,
       "name": "Veneno",
       "url": "https://open.spotify.com/track/089EXhoDJmwSAJFfel3Lwd"
+    },
+    {
+      "added_at": "2024-03-15 06:00:00",
+      "album": {
+        "name": "Luna",
+        "url": "https://open.spotify.com/album/4gajuf08d8JcGjWuroGCTb"
+      },
+      "artists": [
+        {
+          "name": "Toser One",
+          "url": "https://open.spotify.com/artist/1oHPSeQJBwNmpq0J52Wjn1"
+        }
+      ],
+      "duration_ms": 283909,
+      "name": "Luna",
+      "url": "https://open.spotify.com/track/3gwBWDL8qR3Vz4rUbj7RAK"
     },
     {
       "added_at": "2024-03-15 06:00:00",
@@ -1407,6 +1407,30 @@
     {
       "added_at": "2024-03-15 06:00:00",
       "album": {
+        "name": "Intento Tras Intento",
+        "url": "https://open.spotify.com/album/2LglQCv5q8IgsDCjEeADuZ"
+      },
+      "artists": [
+        {
+          "name": "El Muisca",
+          "url": "https://open.spotify.com/artist/4x8wZfPrrPnfariwleEnr5"
+        },
+        {
+          "name": "Penyair",
+          "url": "https://open.spotify.com/artist/0hKJVChUaok3RN4noo7G3c"
+        },
+        {
+          "name": "Arion",
+          "url": "https://open.spotify.com/artist/1KNW0yA92QHGP5wyLXvT2c"
+        }
+      ],
+      "duration_ms": 184000,
+      "name": "Intento Tras Intento",
+      "url": "https://open.spotify.com/track/7L5mJIafA9H5p7HCQdpPPN"
+    },
+    {
+      "added_at": "2024-03-15 06:00:00",
+      "album": {
         "name": "Easy To Hate",
         "url": "https://open.spotify.com/album/0ZF33hMiwMqDHu8IadpggZ"
       },
@@ -1419,6 +1443,30 @@
       "duration_ms": 168000,
       "name": "Avi\u00f3n",
       "url": "https://open.spotify.com/track/4jCJxfd0kMhL0LFdP7sYMV"
+    },
+    {
+      "added_at": "2024-03-15 06:00:00",
+      "album": {
+        "name": "DE POR VIDA",
+        "url": "https://open.spotify.com/album/5imAOsZHY1dRpPkezBf1ml"
+      },
+      "artists": [
+        {
+          "name": "Doble Porcion",
+          "url": "https://open.spotify.com/artist/4PLGokgPkAapRsKDwXq408"
+        },
+        {
+          "name": "Ma\u00f1as Ru-Fino",
+          "url": "https://open.spotify.com/artist/78rkeQAvjl85yNyLAqEMVe"
+        },
+        {
+          "name": "M\u00e9tricas Fr\u00edas",
+          "url": "https://open.spotify.com/artist/10MeG72hSqEKGbUdBowf9k"
+        }
+      ],
+      "duration_ms": 184665,
+      "name": "De Por Vida",
+      "url": "https://open.spotify.com/track/3zWgcYQdN7dC6jj0zrHbpG"
     },
     {
       "added_at": "2024-03-15 06:00:00",
@@ -1491,26 +1539,6 @@
       "duration_ms": 169875,
       "name": "La Pelicula",
       "url": "https://open.spotify.com/track/79LlVFfy8g6x5dzL2jayvT"
-    },
-    {
-      "added_at": "2024-03-15 06:00:00",
-      "album": {
-        "name": "Intento Tras Intento",
-        "url": "https://open.spotify.com/album/2LglQCv5q8IgsDCjEeADuZ"
-      },
-      "artists": [
-        {
-          "name": "El Muisca",
-          "url": "https://open.spotify.com/artist/4x8wZfPrrPnfariwleEnr5"
-        },
-        {
-          "name": "Penyair",
-          "url": "https://open.spotify.com/artist/0hKJVChUaok3RN4noo7G3c"
-        }
-      ],
-      "duration_ms": 184000,
-      "name": "Intento Tras Intento",
-      "url": "https://open.spotify.com/track/7L5mJIafA9H5p7HCQdpPPN"
     },
     {
       "added_at": "2024-03-15 06:00:00",
@@ -1591,30 +1619,6 @@
     {
       "added_at": "2024-03-15 06:00:00",
       "album": {
-        "name": "DE POR VIDA",
-        "url": "https://open.spotify.com/album/5imAOsZHY1dRpPkezBf1ml"
-      },
-      "artists": [
-        {
-          "name": "Doble Porcion",
-          "url": "https://open.spotify.com/artist/4PLGokgPkAapRsKDwXq408"
-        },
-        {
-          "name": "Ma\u00f1as Ru-Fino",
-          "url": "https://open.spotify.com/artist/78rkeQAvjl85yNyLAqEMVe"
-        },
-        {
-          "name": "M\u00e9tricas Fr\u00edas",
-          "url": "https://open.spotify.com/artist/10MeG72hSqEKGbUdBowf9k"
-        }
-      ],
-      "duration_ms": 184665,
-      "name": "De Por Vida",
-      "url": "https://open.spotify.com/track/3zWgcYQdN7dC6jj0zrHbpG"
-    },
-    {
-      "added_at": "2024-03-15 06:00:00",
-      "album": {
         "name": "Tantas Veces",
         "url": "https://open.spotify.com/album/0CYK2EbQOcDwGopjlqcPRM"
       },
@@ -1679,18 +1683,18 @@
     {
       "added_at": "2024-03-15 06:00:00",
       "album": {
-        "name": "Bendecida Y Afortunada",
-        "url": "https://open.spotify.com/album/0dY4wGJFYDPrqDE7Yq3oID"
+        "name": "Cuando Ya Est\u00e9 Muerto",
+        "url": "https://open.spotify.com/album/5wlBPVzU5PyNNhNqhR5L3v"
       },
       "artists": [
         {
-          "name": "Kei Linch",
-          "url": "https://open.spotify.com/artist/343DJXR8dV27YepfAS5uGf"
+          "name": "Penyair",
+          "url": "https://open.spotify.com/artist/0hKJVChUaok3RN4noo7G3c"
         }
       ],
-      "duration_ms": 159836,
-      "name": "Bendecida Y Afortunada",
-      "url": "https://open.spotify.com/track/2sWhuwbONrY9CVRlGyhYQ2"
+      "duration_ms": 208810,
+      "name": "Cuando Ya Est\u00e9 Muerto",
+      "url": "https://open.spotify.com/track/0uMRnml5GQX5NtYDh1YlDd"
     },
     {
       "added_at": "2024-03-15 06:00:00",
@@ -1715,18 +1719,18 @@
     {
       "added_at": "2024-03-15 06:00:00",
       "album": {
-        "name": "Cuando Ya Est\u00e9 Muerto",
-        "url": "https://open.spotify.com/album/5wlBPVzU5PyNNhNqhR5L3v"
+        "name": "Bendecida Y Afortunada",
+        "url": "https://open.spotify.com/album/0dY4wGJFYDPrqDE7Yq3oID"
       },
       "artists": [
         {
-          "name": "Penyair",
-          "url": "https://open.spotify.com/artist/0hKJVChUaok3RN4noo7G3c"
+          "name": "Kei Linch",
+          "url": "https://open.spotify.com/artist/343DJXR8dV27YepfAS5uGf"
         }
       ],
-      "duration_ms": 208810,
-      "name": "Cuando Ya Est\u00e9 Muerto",
-      "url": "https://open.spotify.com/track/0uMRnml5GQX5NtYDh1YlDd"
+      "duration_ms": 159836,
+      "name": "Bendecida Y Afortunada",
+      "url": "https://open.spotify.com/track/2sWhuwbONrY9CVRlGyhYQ2"
     },
     {
       "added_at": "2024-03-15 06:00:00",
@@ -1771,6 +1775,22 @@
     {
       "added_at": "2024-03-15 06:00:00",
       "album": {
+        "name": "El Poder y la Traici\u00f3n",
+        "url": "https://open.spotify.com/album/0gGM7uNxX6x3oIL4spNSwe"
+      },
+      "artists": [
+        {
+          "name": "Tiro Loko",
+          "url": "https://open.spotify.com/artist/4Y5HJP3oFOJ8UVBXHYWBgx"
+        }
+      ],
+      "duration_ms": 244904,
+      "name": "El Poder y la Traici\u00f3n",
+      "url": "https://open.spotify.com/track/4PwxizEGS3MSfP0vvvucVI"
+    },
+    {
+      "added_at": "2024-03-15 06:00:00",
+      "album": {
         "name": "Hip Hop Sh*t",
         "url": "https://open.spotify.com/album/71D1qHdaXdfmGyvjX3Cr0Y"
       },
@@ -1791,42 +1811,6 @@
       "duration_ms": 195113,
       "name": "Hip Hop Sh*t",
       "url": "https://open.spotify.com/track/3lQPizdfzljCNbtKfkvOMT"
-    },
-    {
-      "added_at": "2024-03-15 06:00:00",
-      "album": {
-        "name": "El Poder y la Traici\u00f3n",
-        "url": "https://open.spotify.com/album/0gGM7uNxX6x3oIL4spNSwe"
-      },
-      "artists": [
-        {
-          "name": "Tiro Loko",
-          "url": "https://open.spotify.com/artist/4Y5HJP3oFOJ8UVBXHYWBgx"
-        }
-      ],
-      "duration_ms": 244904,
-      "name": "El Poder y la Traici\u00f3n",
-      "url": "https://open.spotify.com/track/4PwxizEGS3MSfP0vvvucVI"
-    },
-    {
-      "added_at": "2024-03-15 06:00:00",
-      "album": {
-        "name": "Booty Bang Bang",
-        "url": "https://open.spotify.com/album/75ggrmbV5iht00LL2DOu87"
-      },
-      "artists": [
-        {
-          "name": "ILUMINATIK BUFFON",
-          "url": "https://open.spotify.com/artist/7CvKsTEWv1BS3LydN8HgG6"
-        },
-        {
-          "name": "Remik Gonzalez",
-          "url": "https://open.spotify.com/artist/4Hzj6dfl1y5x5TzCSsvLB6"
-        }
-      ],
-      "duration_ms": 188232,
-      "name": "Booty Bang Bang",
-      "url": "https://open.spotify.com/track/0u4oKIXxl0geFS2fuWiVXh"
     },
     {
       "added_at": "2024-03-15 06:00:00",
@@ -1855,6 +1839,26 @@
     {
       "added_at": "2024-03-15 06:00:00",
       "album": {
+        "name": "Booty Bang Bang",
+        "url": "https://open.spotify.com/album/75ggrmbV5iht00LL2DOu87"
+      },
+      "artists": [
+        {
+          "name": "ILUMINATIK BUFFON",
+          "url": "https://open.spotify.com/artist/7CvKsTEWv1BS3LydN8HgG6"
+        },
+        {
+          "name": "Remik Gonzalez",
+          "url": "https://open.spotify.com/artist/4Hzj6dfl1y5x5TzCSsvLB6"
+        }
+      ],
+      "duration_ms": 188232,
+      "name": "Booty Bang Bang",
+      "url": "https://open.spotify.com/track/0u4oKIXxl0geFS2fuWiVXh"
+    },
+    {
+      "added_at": "2024-03-15 06:00:00",
+      "album": {
         "name": "LA VIDA ES TAN DURA",
         "url": "https://open.spotify.com/album/7lmYMSoJZ252EmcVmRrjrP"
       },
@@ -1871,6 +1875,30 @@
       "duration_ms": 160000,
       "name": "LA VIDA ES TAN DURA",
       "url": "https://open.spotify.com/track/4B8pr92VVnxeN4rkPUQETn"
+    },
+    {
+      "added_at": "2024-03-15 06:00:00",
+      "album": {
+        "name": "Gloriax",
+        "url": "https://open.spotify.com/album/6T6V6xEQwiN7G2CoJchfi7"
+      },
+      "artists": [
+        {
+          "name": "Zeballos",
+          "url": "https://open.spotify.com/artist/5ayyPSqoObeTOj1UGtM79C"
+        },
+        {
+          "name": "Knak",
+          "url": "https://open.spotify.com/artist/3IYKcXI1sFqT1ZtfyoW55C"
+        },
+        {
+          "name": "Tadu V\u00e1zquez",
+          "url": "https://open.spotify.com/artist/71scL1K5Nu1Z7FgBkg3Gjk"
+        }
+      ],
+      "duration_ms": 206000,
+      "name": "Gloriax",
+      "url": "https://open.spotify.com/track/7IYjpcFbkycuU16e7dXT4V"
     },
     {
       "added_at": "2024-03-15 06:00:00",
@@ -1903,30 +1931,6 @@
       "duration_ms": 270897,
       "name": "La Gracia De Dios",
       "url": "https://open.spotify.com/track/08mntOthYaS6L1TClH3oYR"
-    },
-    {
-      "added_at": "2024-03-15 06:00:00",
-      "album": {
-        "name": "Gloriax",
-        "url": "https://open.spotify.com/album/6T6V6xEQwiN7G2CoJchfi7"
-      },
-      "artists": [
-        {
-          "name": "Zeballos",
-          "url": "https://open.spotify.com/artist/5ayyPSqoObeTOj1UGtM79C"
-        },
-        {
-          "name": "Knak",
-          "url": "https://open.spotify.com/artist/3IYKcXI1sFqT1ZtfyoW55C"
-        },
-        {
-          "name": "Tadu V\u00e1zquez",
-          "url": "https://open.spotify.com/artist/71scL1K5Nu1Z7FgBkg3Gjk"
-        }
-      ],
-      "duration_ms": 206000,
-      "name": "Gloriax",
-      "url": "https://open.spotify.com/track/7IYjpcFbkycuU16e7dXT4V"
     },
     {
       "added_at": "2024-03-15 06:00:00",
@@ -2087,6 +2091,26 @@
     {
       "added_at": "2024-03-15 06:00:00",
       "album": {
+        "name": "F\u00e9 De M\u00e1s",
+        "url": "https://open.spotify.com/album/4HkoruhVfuBqZB7k0w7dgx"
+      },
+      "artists": [
+        {
+          "name": "La Potter",
+          "url": "https://open.spotify.com/artist/77MeU6c9Jk51GTy2D5GgDu"
+        },
+        {
+          "name": "D\u00edmelo Seven",
+          "url": "https://open.spotify.com/artist/07vf4pTHRfVOm6rS88dugW"
+        }
+      ],
+      "duration_ms": 140930,
+      "name": "F\u00e9 De M\u00e1s",
+      "url": "https://open.spotify.com/track/23fBJOOeJXnc1URyRjDLju"
+    },
+    {
+      "added_at": "2024-03-15 06:00:00",
+      "album": {
         "name": "De Oro",
         "url": "https://open.spotify.com/album/0UYD1YeqrWOe2aSx1vvgsk"
       },
@@ -2099,22 +2123,6 @@
       "duration_ms": 167441,
       "name": "De Oro",
       "url": "https://open.spotify.com/track/39vbXhdllt7Npz6Ym9ekfB"
-    },
-    {
-      "added_at": "2024-03-15 06:00:00",
-      "album": {
-        "name": "Imaginando Voy",
-        "url": "https://open.spotify.com/album/2LrxtY5hsCCZFKIq5VmNbh"
-      },
-      "artists": [
-        {
-          "name": "Sandro Malandro",
-          "url": "https://open.spotify.com/artist/40FmJcZFhzbd6P9w4eXqgS"
-        }
-      ],
-      "duration_ms": 162866,
-      "name": "Imaginando Voy",
-      "url": "https://open.spotify.com/track/2woVDlN4GzCB2LUQSd4QAA"
     }
   ],
   "unique_name": "Rimas Frescas ",

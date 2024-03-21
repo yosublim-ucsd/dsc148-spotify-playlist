@@ -1,12 +1,12 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/jharden13/\">James Harden</a>",
-  "num_followers": 47264,
+  "num_followers": 47311,
   "original_name": "James Harden's Taste",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlN2MyZDc0MWQxZjliOTQ0NWI2NThhZDRjZmNiMzQyZmJjZDhmZjFm",
+  "snapshot_id": "MCwwZjlhMTgzYWVkMmNiNmYwZjNhODk1ZjcwNTRmMmE5NDVjYWI5ZDll",
   "tracks": [
     {
       "added_at": "2022-10-01 20:14:07",
@@ -379,22 +379,6 @@
     {
       "added_at": "2022-10-01 20:14:07",
       "album": {
-        "name": "late at night",
-        "url": "https://open.spotify.com/album/2WFC0XUBROo4X2vxLwtB4u"
-      },
-      "artists": [
-        {
-          "name": "Roddy Ricch",
-          "url": "https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB"
-        }
-      ],
-      "duration_ms": 174682,
-      "name": "late at night",
-      "url": "https://open.spotify.com/track/1fxYz1s15pyZLsJT0Hdh1m"
-    },
-    {
-      "added_at": "2022-10-01 20:14:07",
-      "album": {
         "name": "Views",
         "url": "https://open.spotify.com/album/40GMAhriYJRO1rsY4YdrZb"
       },
@@ -407,6 +391,22 @@
       "duration_ms": 253533,
       "name": "Weston Road Flows",
       "url": "https://open.spotify.com/track/4PA16FAl8LPmFmOhARawdV"
+    },
+    {
+      "added_at": "2022-10-01 20:14:07",
+      "album": {
+        "name": "late at night",
+        "url": "https://open.spotify.com/album/2WFC0XUBROo4X2vxLwtB4u"
+      },
+      "artists": [
+        {
+          "name": "Roddy Ricch",
+          "url": "https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB"
+        }
+      ],
+      "duration_ms": 174682,
+      "name": "late at night",
+      "url": "https://open.spotify.com/track/1fxYz1s15pyZLsJT0Hdh1m"
     },
     {
       "added_at": "2022-10-01 20:14:07",
@@ -439,22 +439,6 @@
     {
       "added_at": "2022-10-01 20:14:07",
       "album": {
-        "name": "Wins & Losses",
-        "url": "https://open.spotify.com/album/2SCQAZZ5pc90l9SPBsWCIQ"
-      },
-      "artists": [
-        {
-          "name": "Meek Mill",
-          "url": "https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc"
-        }
-      ],
-      "duration_ms": 282666,
-      "name": "1942 Flows",
-      "url": "https://open.spotify.com/track/7sLDnUauivS2vN6Z9EfUJT"
-    },
-    {
-      "added_at": "2022-10-01 20:14:07",
-      "album": {
         "name": "Victory Lap",
         "url": "https://open.spotify.com/album/6rcbbhcm8Os7EiVRHP9Aef"
       },
@@ -467,6 +451,22 @@
       "duration_ms": 250920,
       "name": "Blue Laces 2",
       "url": "https://open.spotify.com/track/7yB6GF5kgPEoeGE4EAWiJU"
+    },
+    {
+      "added_at": "2022-10-01 20:14:07",
+      "album": {
+        "name": "Wins & Losses",
+        "url": "https://open.spotify.com/album/2SCQAZZ5pc90l9SPBsWCIQ"
+      },
+      "artists": [
+        {
+          "name": "Meek Mill",
+          "url": "https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc"
+        }
+      ],
+      "duration_ms": 282666,
+      "name": "1942 Flows",
+      "url": "https://open.spotify.com/track/7sLDnUauivS2vN6Z9EfUJT"
     },
     {
       "added_at": "2022-10-01 20:14:07",
@@ -535,22 +535,6 @@
     {
       "added_at": "2022-10-01 20:14:07",
       "album": {
-        "name": "The Voice",
-        "url": "https://open.spotify.com/album/33lOYXjswrDuzTqTNJYSWy"
-      },
-      "artists": [
-        {
-          "name": "Lil Durk",
-          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
-        }
-      ],
-      "duration_ms": 200000,
-      "name": "Backdoor",
-      "url": "https://open.spotify.com/track/3xUoEjDFhHCWlIeLRoTabt"
-    },
-    {
-      "added_at": "2022-10-01 20:14:07",
-      "album": {
         "name": "What A Time To Be Alive",
         "url": "https://open.spotify.com/album/1ozpmkWcCHwsQ4QTnxOOdT"
       },
@@ -563,6 +547,22 @@
       "duration_ms": 253934,
       "name": "30 for 30 Freestyle",
       "url": "https://open.spotify.com/track/1DmnEYXa4WfbdhAPwNzgD8"
+    },
+    {
+      "added_at": "2022-10-01 20:14:07",
+      "album": {
+        "name": "The Voice",
+        "url": "https://open.spotify.com/album/33lOYXjswrDuzTqTNJYSWy"
+      },
+      "artists": [
+        {
+          "name": "Lil Durk",
+          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
+        }
+      ],
+      "duration_ms": 200000,
+      "name": "Backdoor",
+      "url": "https://open.spotify.com/track/3xUoEjDFhHCWlIeLRoTabt"
     },
     {
       "added_at": "2022-10-01 20:14:07",

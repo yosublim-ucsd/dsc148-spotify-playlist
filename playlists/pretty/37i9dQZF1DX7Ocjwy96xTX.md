@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Ocjwy96xTX.md) - [plain]
 
 > back up in the sky
 
-[Spotify](https://open.spotify.com/user/spotify) - 224,060 likes - 105 songs - 6 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 224,188 likes - 105 songs - 6 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Ocjwy96xTX.md) - [plain]
 | 20 | [My Own Summer \(Shove It\)](https://open.spotify.com/track/1158ckiB5S4cpsdYHDB9IF) | [Deftones](https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH) | [Around the Fur](https://open.spotify.com/album/7o4UsmV37Sg5It2Eb7vHzu) | 3:34 |
 | 21 | [Meet you at the Graveyard](https://open.spotify.com/track/2vXSHAPCNpWZ7DNFDkEDMz) | [Cleffy](https://open.spotify.com/artist/0Dd84sfPxs6Aj0PjlCM1P7) | [Clean Sheets, dirty walls](https://open.spotify.com/album/4KvNYZHRuNDQ3Xx6ZxkePp) | 2:52 |
 | 22 | [Rebel Girl](https://open.spotify.com/track/0XyjtybwqSdqMAFfBEkmZf) | [Bikini Kill](https://open.spotify.com/artist/0gvHPdYxlU94W7V5MSIlFe) | [The Punk Singer \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7DoTlKAupC8rNAdb0tNmZ2) | 2:37 |
-| 23 | [i was all over her](https://open.spotify.com/track/7svpAkwc6xaSxlbZ7V7JiS) | [salvia palth](https://open.spotify.com/artist/0pg0Zm8FsGAYy5kdHuBnSo) | [melanchole](https://open.spotify.com/album/23KJrzHF1IBfjzpRgTtaJx) | 2:41 |
+| 23 | [i was all over her](https://open.spotify.com/track/6mSnSuOhgHHohqeBw76jRV) | [salvia palth](https://open.spotify.com/artist/0pg0Zm8FsGAYy5kdHuBnSo) | [melanchole](https://open.spotify.com/album/10WzRaNWnFUQNrW2FpqQSQ) | 2:41 |
 | 24 | [theres this girl](https://open.spotify.com/track/6whOApl6TgeCGRwMM52tkl) | [sign crushes motorist](https://open.spotify.com/artist/02vrwnrNEeDRV96o9iPSYP) | [i'll be okay](https://open.spotify.com/album/3yLxcdaNKhpogNECAju75d) | 4:57 |
 | 25 | [My Time As a Ghostly Someone Else](https://open.spotify.com/track/5YV2ZcrB3Ck69RkFFXpmCl) | [R\. Missing](https://open.spotify.com/artist/4EVSMYb2zBDoSHSGEqeztu) | [My Time As a Ghostly Someone Else](https://open.spotify.com/album/2XRwNGOkqLRrUYnC9AdDDO) | 4:20 |
 | 26 | [Forgotten, Fossilized, Archaic](https://open.spotify.com/track/61YVCATCLSWCAh7xDNN7Kw) | [Autumn's Grey Solace](https://open.spotify.com/artist/0f00mZvxmxeuhmxEot8LlP) | [Within The Depths Of A Darkened Forest](https://open.spotify.com/album/5Gk1Trdz04ixib0LV4LIdy) | 4:43 |
@@ -54,7 +54,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Ocjwy96xTX.md) - [plain]
 | 44 | [MODERN FEAR](https://open.spotify.com/track/2zy5jtyDojdssT4w32XsAV) | [Mind’s Eye](https://open.spotify.com/artist/4o6dCIkmONTJL0ByDDUNYd) | [MODERN FEAR](https://open.spotify.com/album/6OlwT8dt60p6qgvGUfAnEE) | 3:45 |
 | 45 | [Too Late](https://open.spotify.com/track/6KYsdBZ0077Vf37ZL1ozrT) | [Lilts](https://open.spotify.com/artist/1FIiuU3QEVE9BolZFEL5FG) | [Waiting Around](https://open.spotify.com/album/1LO0pYpUdVmbRWESTKMx0d) | 3:20 |
 | 46 | [softscars](https://open.spotify.com/track/6qCzOLJmzAAsYF5xsz5ajF) | [yeule](https://open.spotify.com/artist/1WZarnZpWEv7dDtjAETt4X) | [softscars](https://open.spotify.com/album/6D1djmwpqsx5Y611ieEAXr) | 3:26 |
-| 47 | [\(dream\)](https://open.spotify.com/track/39iczvfNkZstM8KY8dNDFC) | [salvia palth](https://open.spotify.com/artist/0pg0Zm8FsGAYy5kdHuBnSo) | [melanchole](https://open.spotify.com/album/23KJrzHF1IBfjzpRgTtaJx) | 1:24 |
+| 47 | [\(dream\)](https://open.spotify.com/track/17YNmMy03QLPirmBzWxFa6) | [salvia palth](https://open.spotify.com/artist/0pg0Zm8FsGAYy5kdHuBnSo) | [melanchole](https://open.spotify.com/album/10WzRaNWnFUQNrW2FpqQSQ) | 1:24 |
 | 48 | [I Cry While You Sleep \- Dream, Ivory Version](https://open.spotify.com/track/1i54OpHUYRrjxxA8Cg6P9a) | [Pearly Drops](https://open.spotify.com/artist/2eMb96S1ZJ1YQ7FhWAzWJL), [Dream, Ivory](https://open.spotify.com/artist/0qZyvjwZauLmrobrpJmvib) | [I Cry While You Sleep \(Dream, Ivory Version\)](https://open.spotify.com/album/5nt93ckjegXoK5rJlLZJ22) | 3:10 |
 | 49 | [Lovers From The Past](https://open.spotify.com/track/69cGlmgNyMf2K6AvmLBuRD) | [Mareux](https://open.spotify.com/artist/7riQPkkGZBnTh9ve5qIhYo) | [Lovers From The Past](https://open.spotify.com/album/6Z4eMptTUBwtdJHQeNV91N) | 3:19 |
 | 50 | [EPHEMERAL](https://open.spotify.com/track/7x3dssNFWZtubSlXqRYGxl) | [Babebee](https://open.spotify.com/artist/719aYkabpmAmY7DAQamb8h) | [EPHEMERAL](https://open.spotify.com/album/6Fdahq7wVU3h4NuukBRAIx) | 2:29 |
@@ -114,4 +114,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Ocjwy96xTX.md) - [plain]
 | 104 | [f my haterz anthem](https://open.spotify.com/track/6N0mSXLOh1j3agMiCxQlCo) | [Beach Bums](https://open.spotify.com/artist/28uoxZaXCXirkQDIZFaVbJ), [Loverboyrando](https://open.spotify.com/artist/4mnSgKEkGtu1IBN2r2bM77), [Sweatcult](https://open.spotify.com/artist/31412uPiG5Il6jKLs4u2C4) | [f my haterz anthem](https://open.spotify.com/album/0s3ocpYpZlUtQmfnL6t1u2) | 3:56 |
 | 105 | [shutting me out](https://open.spotify.com/track/69vQ28ksF23utGYgq4YhxD) | [EKKSTACY](https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH) | [EKKSTACY](https://open.spotify.com/album/5kBHoINYa2WwRaOK3vA7LC) | 2:26 |
 
-Snapshot ID: `MCwwZWIxN2Y4ZDU4ZDFjNWI2MTEwYzg4YTEzNjc0M2U0MDY5NWQ0ZWFk`
+Snapshot ID: `MCwwNDAwOTE3MjkzMmYzNzgyNTU5NjExODc2YzVlMDdiYTJmNGE4ZmM0`

@@ -1,12 +1,12 @@
 {
   "description": "The best of Christian Hip Hop today.  Cover:  <a href=\"spotify:artist:4c6lhwoOrmgNWvl0GxHlW1\">Tedashii</a>",
-  "num_followers": 151175,
+  "num_followers": 151264,
   "original_name": "The Flow",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyNWMxYzNjN2RmMzE0N2I5YzU2OTcwZjMxODVkNjc4ZDY1YzgwY2Jh",
+  "snapshot_id": "MCxhZjZiZTZjNzllMzhjMWUyMzE2ZGFhN2EyOTY2MTRjNzIyOGNkZDli",
   "tracks": [
     {
       "added_at": "2024-03-15 12:07:36",
@@ -101,7 +101,7 @@
         },
         {
           "name": "E.G.R",
-          "url": "https://open.spotify.com/artist/4pTnESKYabHGdAbSkoWswo"
+          "url": "https://open.spotify.com/artist/4EJIkbig1thbV3C3B68c56"
         }
       ],
       "duration_ms": 157714,
@@ -531,26 +531,6 @@
     {
       "added_at": "2024-03-15 12:07:36",
       "album": {
-        "name": "NOPE",
-        "url": "https://open.spotify.com/album/5RwiHu9QOCzjyoCjBeH4fR"
-      },
-      "artists": [
-        {
-          "name": "Marty",
-          "url": "https://open.spotify.com/artist/5BfKKSmpGmj2moMNlaWeJK"
-        },
-        {
-          "name": "Derek Minor",
-          "url": "https://open.spotify.com/artist/3fn8lZLy7Q61AXCWWPYC4B"
-        }
-      ],
-      "duration_ms": 148000,
-      "name": "NOPE",
-      "url": "https://open.spotify.com/track/1xpUpmKZsGwQWYFV0XkH8u"
-    },
-    {
-      "added_at": "2024-03-15 12:07:36",
-      "album": {
         "name": "YOU KNOW WHAT I MEAN",
         "url": "https://open.spotify.com/album/1QZUAkjbqzDudg78GJ87Up"
       },
@@ -567,6 +547,26 @@
       "duration_ms": 142221,
       "name": "YOU KNOW WHAT I MEAN",
       "url": "https://open.spotify.com/track/7uomhQZto3zjn7LuUGjfBP"
+    },
+    {
+      "added_at": "2024-03-15 12:07:36",
+      "album": {
+        "name": "NOPE",
+        "url": "https://open.spotify.com/album/5RwiHu9QOCzjyoCjBeH4fR"
+      },
+      "artists": [
+        {
+          "name": "Marty",
+          "url": "https://open.spotify.com/artist/5BfKKSmpGmj2moMNlaWeJK"
+        },
+        {
+          "name": "Derek Minor",
+          "url": "https://open.spotify.com/artist/3fn8lZLy7Q61AXCWWPYC4B"
+        }
+      ],
+      "duration_ms": 148000,
+      "name": "NOPE",
+      "url": "https://open.spotify.com/track/1xpUpmKZsGwQWYFV0XkH8u"
     },
     {
       "added_at": "2024-03-15 12:07:36",
@@ -671,22 +671,6 @@
     {
       "added_at": "2024-03-15 12:07:36",
       "album": {
-        "name": "Cardio",
-        "url": "https://open.spotify.com/album/5jDsJJZqCnGBoYC5lCv0yU"
-      },
-      "artists": [
-        {
-          "name": "Steven Malcolm",
-          "url": "https://open.spotify.com/artist/5yqWHaDl8ZrYgeKANLyIv8"
-        }
-      ],
-      "duration_ms": 216000,
-      "name": "Cardio",
-      "url": "https://open.spotify.com/track/3TFqmSj8f86nCBTTF0GjB6"
-    },
-    {
-      "added_at": "2024-03-15 12:07:36",
-      "album": {
         "name": "High Noon",
         "url": "https://open.spotify.com/album/2h5y0B45wGR7hJ69hO554J"
       },
@@ -699,6 +683,22 @@
       "duration_ms": 130679,
       "name": "High Noon",
       "url": "https://open.spotify.com/track/34X5s4UGB6fhtQDNAhMpQD"
+    },
+    {
+      "added_at": "2024-03-15 12:07:36",
+      "album": {
+        "name": "Cardio",
+        "url": "https://open.spotify.com/album/5jDsJJZqCnGBoYC5lCv0yU"
+      },
+      "artists": [
+        {
+          "name": "Steven Malcolm",
+          "url": "https://open.spotify.com/artist/5yqWHaDl8ZrYgeKANLyIv8"
+        }
+      ],
+      "duration_ms": 216000,
+      "name": "Cardio",
+      "url": "https://open.spotify.com/track/3TFqmSj8f86nCBTTF0GjB6"
     },
     {
       "added_at": "2024-03-15 12:07:36",
@@ -791,18 +791,18 @@
     {
       "added_at": "2024-03-15 12:07:36",
       "album": {
-        "name": "BOATS",
-        "url": "https://open.spotify.com/album/7dJ4Rpe2fpcxEl5kGdUDpZ"
+        "name": "MAN DOWN",
+        "url": "https://open.spotify.com/album/1Pqo50wK8molwXT0fEye3h"
       },
       "artists": [
         {
-          "name": "Steven Malcolm",
-          "url": "https://open.spotify.com/artist/5yqWHaDl8ZrYgeKANLyIv8"
+          "name": "Jon Keith",
+          "url": "https://open.spotify.com/artist/0PUc1lwaZpPJaMr0v4Gdvo"
         }
       ],
-      "duration_ms": 144294,
-      "name": "Nothing Into Something",
-      "url": "https://open.spotify.com/track/5eYJPYS5sUGDIjcghrSeaC"
+      "duration_ms": 151663,
+      "name": "MAN DOWN",
+      "url": "https://open.spotify.com/track/4J5YUxG50J9LrQ3Twv9jY9"
     },
     {
       "added_at": "2024-03-15 12:07:36",
@@ -843,6 +843,22 @@
     {
       "added_at": "2024-03-15 12:07:36",
       "album": {
+        "name": "BOATS",
+        "url": "https://open.spotify.com/album/7dJ4Rpe2fpcxEl5kGdUDpZ"
+      },
+      "artists": [
+        {
+          "name": "Steven Malcolm",
+          "url": "https://open.spotify.com/artist/5yqWHaDl8ZrYgeKANLyIv8"
+        }
+      ],
+      "duration_ms": 144294,
+      "name": "Nothing Into Something",
+      "url": "https://open.spotify.com/track/5eYJPYS5sUGDIjcghrSeaC"
+    },
+    {
+      "added_at": "2024-03-15 12:07:36",
+      "album": {
         "name": "Squabble",
         "url": "https://open.spotify.com/album/0AjZUQHbdaC7QtxbOZO0xQ"
       },
@@ -863,18 +879,18 @@
     {
       "added_at": "2024-03-15 12:07:36",
       "album": {
-        "name": "MAN DOWN",
-        "url": "https://open.spotify.com/album/1Pqo50wK8molwXT0fEye3h"
+        "name": "The Way You Act",
+        "url": "https://open.spotify.com/album/3ablPjEIGCXEKAD9Y03GK9"
       },
       "artists": [
         {
-          "name": "Jon Keith",
-          "url": "https://open.spotify.com/artist/0PUc1lwaZpPJaMr0v4Gdvo"
+          "name": "Red Tips",
+          "url": "https://open.spotify.com/artist/0e6JPJ634Hw3I95aKMEaD7"
         }
       ],
-      "duration_ms": 151663,
-      "name": "MAN DOWN",
-      "url": "https://open.spotify.com/track/4J5YUxG50J9LrQ3Twv9jY9"
+      "duration_ms": 130627,
+      "name": "The Way You Act",
+      "url": "https://open.spotify.com/track/1WYAz2ZtyyAFL4NyFpIx2c"
     },
     {
       "added_at": "2024-03-15 12:07:36",
@@ -895,22 +911,6 @@
       "duration_ms": 200097,
       "name": "Real Talk",
       "url": "https://open.spotify.com/track/7kGpEg4HAFNDOwXBslAxzL"
-    },
-    {
-      "added_at": "2024-03-15 12:07:36",
-      "album": {
-        "name": "The Way You Act",
-        "url": "https://open.spotify.com/album/3ablPjEIGCXEKAD9Y03GK9"
-      },
-      "artists": [
-        {
-          "name": "Red Tips",
-          "url": "https://open.spotify.com/artist/0e6JPJ634Hw3I95aKMEaD7"
-        }
-      ],
-      "duration_ms": 130627,
-      "name": "The Way You Act",
-      "url": "https://open.spotify.com/track/1WYAz2ZtyyAFL4NyFpIx2c"
     },
     {
       "added_at": "2024-03-15 12:07:36",
@@ -1043,6 +1043,22 @@
     {
       "added_at": "2024-03-15 12:07:36",
       "album": {
+        "name": "I REMEMBER",
+        "url": "https://open.spotify.com/album/0Iy7mzJgjUgLxR5kRnc8KA"
+      },
+      "artists": [
+        {
+          "name": "Christopher Syncere",
+          "url": "https://open.spotify.com/artist/6oTjD6G08PuR7EjE0AjL5u"
+        }
+      ],
+      "duration_ms": 109730,
+      "name": "I REMEMBER",
+      "url": "https://open.spotify.com/track/7y0EHJhDC5ZOxA6Nx6the1"
+    },
+    {
+      "added_at": "2024-03-15 12:07:36",
+      "album": {
         "name": "yall need GOD",
         "url": "https://open.spotify.com/album/21pmy9nQjAEl1dmWjUS9oT"
       },
@@ -1059,22 +1075,6 @@
       "duration_ms": 170666,
       "name": "yall need GOD",
       "url": "https://open.spotify.com/track/763bzzQDRW8pSYg7iPXMRZ"
-    },
-    {
-      "added_at": "2024-03-15 12:07:36",
-      "album": {
-        "name": "I REMEMBER",
-        "url": "https://open.spotify.com/album/0Iy7mzJgjUgLxR5kRnc8KA"
-      },
-      "artists": [
-        {
-          "name": "Christopher Syncere",
-          "url": "https://open.spotify.com/artist/6oTjD6G08PuR7EjE0AjL5u"
-        }
-      ],
-      "duration_ms": 109730,
-      "name": "I REMEMBER",
-      "url": "https://open.spotify.com/track/7y0EHJhDC5ZOxA6Nx6the1"
     },
     {
       "added_at": "2024-03-15 12:07:36",
@@ -1223,6 +1223,26 @@
     {
       "added_at": "2024-03-15 12:07:36",
       "album": {
+        "name": "HELLO FRESH",
+        "url": "https://open.spotify.com/album/24FsLyzVjChuv5k2BWT9qB"
+      },
+      "artists": [
+        {
+          "name": "808 BEEZY",
+          "url": "https://open.spotify.com/artist/3CltJZLndpJKtpUyRVBB1k"
+        },
+        {
+          "name": "BigBreeze",
+          "url": "https://open.spotify.com/artist/7wrWSJHfACjw7s7gYXOXTt"
+        }
+      ],
+      "duration_ms": 122826,
+      "name": "HELLO FRESH",
+      "url": "https://open.spotify.com/track/6qemUQ1s9e5HX9D66G8IVi"
+    },
+    {
+      "added_at": "2024-03-15 12:07:36",
+      "album": {
         "name": "Love It Here (Remix)",
         "url": "https://open.spotify.com/album/6pvzr08QDOVVdVE4fbZK87"
       },
@@ -1247,22 +1267,6 @@
     {
       "added_at": "2024-03-15 12:07:36",
       "album": {
-        "name": "Diamond",
-        "url": "https://open.spotify.com/album/2PwgtkiIRxcTvOAxngjbcV"
-      },
-      "artists": [
-        {
-          "name": "Xay Hill",
-          "url": "https://open.spotify.com/artist/6e7kIHb5oTfOJY5IzLyzR6"
-        }
-      ],
-      "duration_ms": 163862,
-      "name": "Diamond",
-      "url": "https://open.spotify.com/track/3w3GpeDVdLb5c7XnTQ3Ktw"
-    },
-    {
-      "added_at": "2024-03-15 12:07:36",
-      "album": {
         "name": "Highs & Lows",
         "url": "https://open.spotify.com/album/79B83HeSJzAsL8QbmglfxY"
       },
@@ -1275,6 +1279,22 @@
       "duration_ms": 162000,
       "name": "Highs & Lows",
       "url": "https://open.spotify.com/track/5Hd5YudVgjRcIEcIrAaCPn"
+    },
+    {
+      "added_at": "2024-03-15 12:07:36",
+      "album": {
+        "name": "Diamond",
+        "url": "https://open.spotify.com/album/2PwgtkiIRxcTvOAxngjbcV"
+      },
+      "artists": [
+        {
+          "name": "Xay Hill",
+          "url": "https://open.spotify.com/artist/6e7kIHb5oTfOJY5IzLyzR6"
+        }
+      ],
+      "duration_ms": 163862,
+      "name": "Diamond",
+      "url": "https://open.spotify.com/track/3w3GpeDVdLb5c7XnTQ3Ktw"
     },
     {
       "added_at": "2024-03-15 12:07:36",
@@ -1315,26 +1335,6 @@
     {
       "added_at": "2024-03-15 12:07:36",
       "album": {
-        "name": "HELLO FRESH",
-        "url": "https://open.spotify.com/album/24FsLyzVjChuv5k2BWT9qB"
-      },
-      "artists": [
-        {
-          "name": "808 BEEZY",
-          "url": "https://open.spotify.com/artist/3CltJZLndpJKtpUyRVBB1k"
-        },
-        {
-          "name": "BigBreeze",
-          "url": "https://open.spotify.com/artist/7wrWSJHfACjw7s7gYXOXTt"
-        }
-      ],
-      "duration_ms": 122826,
-      "name": "HELLO FRESH",
-      "url": "https://open.spotify.com/track/6qemUQ1s9e5HX9D66G8IVi"
-    },
-    {
-      "added_at": "2024-03-15 12:07:36",
-      "album": {
         "name": "Check Me Out",
         "url": "https://open.spotify.com/album/6Izr5b1DXvk9JDfQDjuAmQ"
       },
@@ -1351,22 +1351,6 @@
     {
       "added_at": "2024-03-15 12:07:36",
       "album": {
-        "name": "TIL ITS DONE",
-        "url": "https://open.spotify.com/album/1EEEPWRPz54SSH63Ne8HB9"
-      },
-      "artists": [
-        {
-          "name": "Tylynn",
-          "url": "https://open.spotify.com/artist/3WYqnlpg5qWHujbvTFqUMg"
-        }
-      ],
-      "duration_ms": 172205,
-      "name": "TIL ITS DONE",
-      "url": "https://open.spotify.com/track/3uy9kZWx2YLve3bYHXZ6NF"
-    },
-    {
-      "added_at": "2024-03-15 12:07:36",
-      "album": {
         "name": "That Feel",
         "url": "https://open.spotify.com/album/6P2NFEDWyjEDhj91jjKs8Z"
       },
@@ -1379,6 +1363,22 @@
       "duration_ms": 163657,
       "name": "That Feel",
       "url": "https://open.spotify.com/track/5ujNb0DzpT1oP5M5oyyTmr"
+    },
+    {
+      "added_at": "2024-03-15 12:07:36",
+      "album": {
+        "name": "TIL ITS DONE",
+        "url": "https://open.spotify.com/album/1EEEPWRPz54SSH63Ne8HB9"
+      },
+      "artists": [
+        {
+          "name": "Tylynn",
+          "url": "https://open.spotify.com/artist/3WYqnlpg5qWHujbvTFqUMg"
+        }
+      ],
+      "duration_ms": 172205,
+      "name": "TIL ITS DONE",
+      "url": "https://open.spotify.com/track/3uy9kZWx2YLve3bYHXZ6NF"
     },
     {
       "added_at": "2024-03-15 12:07:36",
@@ -1475,6 +1475,26 @@
     {
       "added_at": "2024-03-15 12:07:36",
       "album": {
+        "name": "VICIOUS CYCLE",
+        "url": "https://open.spotify.com/album/0CtRrHjzbmN7FdYC0r5iZv"
+      },
+      "artists": [
+        {
+          "name": "EmanuelDaProphet",
+          "url": "https://open.spotify.com/artist/5P0vV6Fw0YTdumAPZSkkuC"
+        },
+        {
+          "name": "Rylo Rodriguez",
+          "url": "https://open.spotify.com/artist/0gg11prPP6OqtUvBcKnPpq"
+        }
+      ],
+      "duration_ms": 208979,
+      "name": "VICIOUS CYCLE",
+      "url": "https://open.spotify.com/track/1VbIQFz8NZevPwK8tZXD8H"
+    },
+    {
+      "added_at": "2024-03-15 12:07:36",
+      "album": {
         "name": "All Yours",
         "url": "https://open.spotify.com/album/5EVL8WwIapteEq99UjlJnj"
       },
@@ -1491,6 +1511,22 @@
       "duration_ms": 168000,
       "name": "All Yours",
       "url": "https://open.spotify.com/track/0wKC7y3mxlZf4JQv3mOIqg"
+    },
+    {
+      "added_at": "2024-03-15 12:07:36",
+      "album": {
+        "name": "STOP WHAT YOU DIDNT START (SWYDS)",
+        "url": "https://open.spotify.com/album/1Mgaje2RAFEIv4USFrid6J"
+      },
+      "artists": [
+        {
+          "name": "Childlike CiCi",
+          "url": "https://open.spotify.com/artist/1cgfDToH1viXSfFzd5WOz1"
+        }
+      ],
+      "duration_ms": 102857,
+      "name": "STOP WHAT YOU DIDNT START (SWYDS)",
+      "url": "https://open.spotify.com/track/6T3FKJKjSsiisj3Hc6zr8v"
     },
     {
       "added_at": "2024-03-15 12:07:36",
@@ -1527,22 +1563,6 @@
     {
       "added_at": "2024-03-15 12:07:36",
       "album": {
-        "name": "STOP WHAT YOU DIDNT START (SWYDS)",
-        "url": "https://open.spotify.com/album/1Mgaje2RAFEIv4USFrid6J"
-      },
-      "artists": [
-        {
-          "name": "Childlike CiCi",
-          "url": "https://open.spotify.com/artist/1cgfDToH1viXSfFzd5WOz1"
-        }
-      ],
-      "duration_ms": 102857,
-      "name": "STOP WHAT YOU DIDNT START (SWYDS)",
-      "url": "https://open.spotify.com/track/6T3FKJKjSsiisj3Hc6zr8v"
-    },
-    {
-      "added_at": "2024-03-15 12:07:36",
-      "album": {
         "name": "Believer",
         "url": "https://open.spotify.com/album/05EE4iCaUFejExwC1xY7gr"
       },
@@ -1559,22 +1579,6 @@
       "duration_ms": 175558,
       "name": "Believer",
       "url": "https://open.spotify.com/track/0kXufwWYE2M1qB2xWalZRv"
-    },
-    {
-      "added_at": "2024-03-15 12:07:36",
-      "album": {
-        "name": "Problematic",
-        "url": "https://open.spotify.com/album/30OUjNnqVA6L3Gx9AbkRi4"
-      },
-      "artists": [
-        {
-          "name": "Larell",
-          "url": "https://open.spotify.com/artist/46GtWnG0MVdRyU86tvB2zw"
-        }
-      ],
-      "duration_ms": 174421,
-      "name": "Problematic",
-      "url": "https://open.spotify.com/track/3hR8annMZySBYsETZ54FJ5"
     },
     {
       "added_at": "2024-03-15 12:07:36",
@@ -1599,6 +1603,22 @@
     {
       "added_at": "2024-03-15 12:07:36",
       "album": {
+        "name": "Problematic",
+        "url": "https://open.spotify.com/album/30OUjNnqVA6L3Gx9AbkRi4"
+      },
+      "artists": [
+        {
+          "name": "Larell",
+          "url": "https://open.spotify.com/artist/46GtWnG0MVdRyU86tvB2zw"
+        }
+      ],
+      "duration_ms": 174421,
+      "name": "Problematic",
+      "url": "https://open.spotify.com/track/3hR8annMZySBYsETZ54FJ5"
+    },
+    {
+      "added_at": "2024-03-15 12:07:36",
+      "album": {
         "name": "Young",
         "url": "https://open.spotify.com/album/3kupPWUXoqmgnw0TmFYtXZ"
       },
@@ -1615,6 +1635,22 @@
       "duration_ms": 135254,
       "name": "Young",
       "url": "https://open.spotify.com/track/0btKdBYx71IgwCTVAg8v3E"
+    },
+    {
+      "added_at": "2024-03-15 12:07:36",
+      "album": {
+        "name": "REASON",
+        "url": "https://open.spotify.com/album/2QC30uOXwPkSpt2QyN4Kt0"
+      },
+      "artists": [
+        {
+          "name": "J Vessel",
+          "url": "https://open.spotify.com/artist/2jWuaPjpJpIwXhWY6y0JQp"
+        }
+      ],
+      "duration_ms": 193596,
+      "name": "REASON",
+      "url": "https://open.spotify.com/track/0KtITVpLZZGJyUxeJRYxzT"
     },
     {
       "added_at": "2024-03-15 12:07:36",
@@ -1639,38 +1675,18 @@
     {
       "added_at": "2024-03-15 12:07:36",
       "album": {
-        "name": "REASON",
-        "url": "https://open.spotify.com/album/2QC30uOXwPkSpt2QyN4Kt0"
+        "name": "PANDEMONIUM",
+        "url": "https://open.spotify.com/album/0BYK4uW9rxHnZRH4BE0GJo"
       },
       "artists": [
         {
-          "name": "J Vessel",
-          "url": "https://open.spotify.com/artist/2jWuaPjpJpIwXhWY6y0JQp"
+          "name": "International Show",
+          "url": "https://open.spotify.com/artist/6iqUZDrDngJ6LIHlJm5BpT"
         }
       ],
-      "duration_ms": 193596,
-      "name": "REASON",
-      "url": "https://open.spotify.com/track/0KtITVpLZZGJyUxeJRYxzT"
-    },
-    {
-      "added_at": "2024-03-15 12:07:36",
-      "album": {
-        "name": "VICIOUS CYCLE",
-        "url": "https://open.spotify.com/album/0CtRrHjzbmN7FdYC0r5iZv"
-      },
-      "artists": [
-        {
-          "name": "EmanuelDaProphet",
-          "url": "https://open.spotify.com/artist/5P0vV6Fw0YTdumAPZSkkuC"
-        },
-        {
-          "name": "Rylo Rodriguez",
-          "url": "https://open.spotify.com/artist/0gg11prPP6OqtUvBcKnPpq"
-        }
-      ],
-      "duration_ms": 208979,
-      "name": "VICIOUS CYCLE",
-      "url": "https://open.spotify.com/track/1VbIQFz8NZevPwK8tZXD8H"
+      "duration_ms": 185615,
+      "name": "PANDEMONIUM",
+      "url": "https://open.spotify.com/track/69QUsdXXMl0m3K15efY2nV"
     },
     {
       "added_at": "2024-03-15 12:07:36",
@@ -1699,18 +1715,34 @@
     {
       "added_at": "2024-03-15 12:07:36",
       "album": {
-        "name": "PANDEMONIUM",
-        "url": "https://open.spotify.com/album/0BYK4uW9rxHnZRH4BE0GJo"
+        "name": "Optimistic",
+        "url": "https://open.spotify.com/album/4owoEaptnmB47H4gzz9VUr"
       },
       "artists": [
         {
-          "name": "International Show",
-          "url": "https://open.spotify.com/artist/6iqUZDrDngJ6LIHlJm5BpT"
+          "name": "Eugy Official",
+          "url": "https://open.spotify.com/artist/6BhoGzrwRr9eELLBJ55ldo"
         }
       ],
-      "duration_ms": 185615,
-      "name": "PANDEMONIUM",
-      "url": "https://open.spotify.com/track/69QUsdXXMl0m3K15efY2nV"
+      "duration_ms": 186713,
+      "name": "Optimistic",
+      "url": "https://open.spotify.com/track/6N1Ckp6rRovph3WuIqVtPx"
+    },
+    {
+      "added_at": "2024-03-15 12:07:36",
+      "album": {
+        "name": "4am",
+        "url": "https://open.spotify.com/album/1kiAcreVmVDyfgjHIQeXt6"
+      },
+      "artists": [
+        {
+          "name": "V.I.C",
+          "url": "https://open.spotify.com/artist/5fCJ5gYcUcJeDkrsCevigg"
+        }
+      ],
+      "duration_ms": 197154,
+      "name": "4am",
+      "url": "https://open.spotify.com/track/0Yfa0j7bW7KsUaxtqTjdNd"
     },
     {
       "added_at": "2024-03-15 12:07:36",
@@ -1731,22 +1763,6 @@
       "duration_ms": 120000,
       "name": "BPM",
       "url": "https://open.spotify.com/track/3tx5dzl1U3v73aqvRLQVlf"
-    },
-    {
-      "added_at": "2024-03-15 12:07:36",
-      "album": {
-        "name": "Optimistic",
-        "url": "https://open.spotify.com/album/4owoEaptnmB47H4gzz9VUr"
-      },
-      "artists": [
-        {
-          "name": "Eugy Official",
-          "url": "https://open.spotify.com/artist/6BhoGzrwRr9eELLBJ55ldo"
-        }
-      ],
-      "duration_ms": 186713,
-      "name": "Optimistic",
-      "url": "https://open.spotify.com/track/6N1Ckp6rRovph3WuIqVtPx"
     },
     {
       "added_at": "2024-03-15 12:07:36",
@@ -1783,22 +1799,6 @@
       "duration_ms": 126956,
       "name": "Too Much",
       "url": "https://open.spotify.com/track/5ZpNrG5qK5ve7uNHMx1IG8"
-    },
-    {
-      "added_at": "2024-03-15 12:07:36",
-      "album": {
-        "name": "4am",
-        "url": "https://open.spotify.com/album/1kiAcreVmVDyfgjHIQeXt6"
-      },
-      "artists": [
-        {
-          "name": "V.I.C",
-          "url": "https://open.spotify.com/artist/5fCJ5gYcUcJeDkrsCevigg"
-        }
-      ],
-      "duration_ms": 197154,
-      "name": "4am",
-      "url": "https://open.spotify.com/track/0Yfa0j7bW7KsUaxtqTjdNd"
     },
     {
       "added_at": "2024-03-15 12:07:36",
@@ -1843,18 +1843,22 @@
     {
       "added_at": "2024-03-15 12:07:36",
       "album": {
-        "name": "Feminine Era",
-        "url": "https://open.spotify.com/album/6QYkK2Jl18mAGCB58s244k"
+        "name": "Long Time Coming",
+        "url": "https://open.spotify.com/album/1ShR3yKA7APIg2YwKDKlb7"
       },
       "artists": [
         {
-          "name": "Petrina DeLacey",
-          "url": "https://open.spotify.com/artist/00iDXs6D2a9UZCtqnDMGnY"
+          "name": "Canon",
+          "url": "https://open.spotify.com/artist/1dIjbaW9JTTQQ7ufrQnGsq"
+        },
+        {
+          "name": "Derek Minor",
+          "url": "https://open.spotify.com/artist/3fn8lZLy7Q61AXCWWPYC4B"
         }
       ],
-      "duration_ms": 137948,
-      "name": "Feminine Era",
-      "url": "https://open.spotify.com/track/2QWGt7a0ITp3etViRp3I02"
+      "duration_ms": 173322,
+      "name": "Long Time Coming",
+      "url": "https://open.spotify.com/track/33XcqFjd71BJv7I4k1u17X"
     }
   ],
   "unique_name": "The Flow",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdjpubZsBTg5.md) - [plain]
 
 > Revive a la generación que transformó el rock en español para siempre\. En portada: Soda Stereo
 
-[Spotify](https://open.spotify.com/user/spotify) - 190,797 likes - 60 songs - 4 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 190,951 likes - 60 songs - 4 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdjpubZsBTg5.md) - [plain]
 | 40 | [Pobre de Ti](https://open.spotify.com/track/17ASXCVH7zxBHC8P1dThon) | [Tijuana No!](https://open.spotify.com/artist/2mkMNs2mphrkggZ7me38j1) | [Rock En Español \- Lo Mejor De Tijuana No!](https://open.spotify.com/album/53yl7Z1s91Fyq3Y69La68g) | 4:42 |
 | 41 | [Aún](https://open.spotify.com/track/1JTewgSxH7jQjolSwCn69u) | [Coda](https://open.spotify.com/artist/3qX79XCeQcRJdmlrcZZVIy) | [Veinte Para Las Doce](https://open.spotify.com/album/4hiYI3znWcf5uPUxfKVKeI) | 4:54 |
 | 42 | [Guitarras Blancas](https://open.spotify.com/track/4g6BF5KhQDIpwJuevv7bFa) | [Los Enanitos Verdes](https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR) | [Carrousel](https://open.spotify.com/album/7kbzQFUUaR7IRFLT40k4cT) | 4:26 |
-| 43 | [Es Por Amor](https://open.spotify.com/track/7cwtDwkH0PHHQmfbkZM8Ox) | [GIT](https://open.spotify.com/artist/21o0KNjooi1XjygW6V70NM) | [GIT, El Album](https://open.spotify.com/album/7Hg6EdwBShAdwAfUy4fFDN) | 5:13 |
-| 44 | [Veneno Vil](https://open.spotify.com/track/7lBKa0oQnv6w2AgFiBqRW2) | [Fobia](https://open.spotify.com/artist/3SqzxvGCKGJ9PYKXXPwjQS) | [Amor Chiquito](https://open.spotify.com/album/1oNccmu6KxWyQnGi9P7g5u) | 4:57 |
+| 43 | [Veneno Vil](https://open.spotify.com/track/7lBKa0oQnv6w2AgFiBqRW2) | [Fobia](https://open.spotify.com/artist/3SqzxvGCKGJ9PYKXXPwjQS) | [Amor Chiquito](https://open.spotify.com/album/1oNccmu6KxWyQnGi9P7g5u) | 4:57 |
+| 44 | [Es Por Amor](https://open.spotify.com/track/7cwtDwkH0PHHQmfbkZM8Ox) | [GIT](https://open.spotify.com/artist/21o0KNjooi1XjygW6V70NM) | [GIT, El Album](https://open.spotify.com/album/7Hg6EdwBShAdwAfUy4fFDN) | 5:13 |
 | 45 | [A.D.O.](https://open.spotify.com/track/1zP1eEWNTrTJxDeGNv0XjH) | [El Tri](https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne) | [40 Años Vol\. 1](https://open.spotify.com/album/2XxGkIvhq9F2eHxSifNpu1) | 4:54 |
 | 46 | [Mi Agüita Amarilla](https://open.spotify.com/track/2fYRXoal0ysbJJBUddCGDb) | [Los Toreros Muertos](https://open.spotify.com/artist/6o3v1RDHCgICZ7I4y1BtJI) | [30 Años de Éxitos](https://open.spotify.com/album/2LiQiHqbqGuzxXYYnfcySo) | 5:39 |
 | 47 | [Pero a tu lado](https://open.spotify.com/track/3JOXwHPhtdRU3kYKcf64Gj) | [Los Secretos](https://open.spotify.com/artist/2KEDbpUlz9nwtGywHT4gyf) | [Dos Caras Distintas](https://open.spotify.com/album/5J74XM1KLvoz4KgdNZczcm) | 3:15 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdjpubZsBTg5.md) - [plain]
 | 59 | [Vistete](https://open.spotify.com/track/5ZrtHP3Kzdgw8tzELrmKqA) | [Nacha Pop](https://open.spotify.com/artist/1CdLG4i1rTEOsex2UE0jCH) | [El Momento](https://open.spotify.com/album/5Vi36yUkwFN0QhdoIItpCR) | 3:57 |
 | 60 | [Bienvenidos \- Live](https://open.spotify.com/track/4ckZyAOFKfMti3H8aI60f5) | [Miguel Ríos](https://open.spotify.com/artist/1dpnxi6xgoB2kaRYnnoatZ) | [Rock & Rios](https://open.spotify.com/album/5KvWPBtUDsGhQJ2f3tgLrY) | 4:00 |
 
-Snapshot ID: `MCw0ZWY5MTY1YzQwNTkyYzUyOGVkYTdhNTU1ZTQ2NWEyYzBhZDJhOTll`
+Snapshot ID: `MCw3MjU2ZTM4ODUwZWRkOTc0MTcxZmUxNjViMDMyYWVjYjNiODVhNDBm`

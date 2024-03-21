@@ -1,13 +1,29 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 126679,
+  "num_followers": 126674,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "NDYxNiwyNGFmZGE4MWM5MzM5MWM0MDJiMDVhMzM3MmNhYWYyYzNjODNjZTdi",
+  "snapshot_id": "NDYxOCxmYjZiMTBhNTg4MmJjODY2NDAwNWZhMjI5MWYxNzM3YmJhNDhlMDdj",
   "tracks": [
+    {
+      "added_at": "2024-03-20 17:07:04",
+      "album": {
+        "name": "BEAMS",
+        "url": "https://open.spotify.com/album/5AYrW1k2Y0f3gpN3BlWmQS"
+      },
+      "artists": [
+        {
+          "name": "INFEKT",
+          "url": "https://open.spotify.com/artist/3I6KMDdmPiLE5UQ4XF8Kpl"
+        }
+      ],
+      "duration_ms": 178758,
+      "name": "BEAMS",
+      "url": "https://open.spotify.com/track/081pPUtsdE1iBqvyjw4kCS"
+    },
     {
       "added_at": "2024-03-19 16:52:14",
       "album": {
@@ -1151,30 +1167,6 @@
       "duration_ms": 238344,
       "name": "Turn It Up - Slushii & Afinity VIP",
       "url": "https://open.spotify.com/track/1Z0sPQusIl7lmuIcee9HYa"
-    },
-    {
-      "added_at": "2023-12-07 15:05:13",
-      "album": {
-        "name": "N\u00e3o Sei Parar (Mojjo Remix)",
-        "url": "https://open.spotify.com/album/1OUJtYZFBjqViGP0WPHXPl"
-      },
-      "artists": [
-        {
-          "name": "Bhaskar",
-          "url": "https://open.spotify.com/artist/6kT18gnkVrCz8xJQcrib7L"
-        },
-        {
-          "name": "Afterclapp",
-          "url": "https://open.spotify.com/artist/6SOIDTPmPScMiJYBm75gRC"
-        },
-        {
-          "name": "Mojjo",
-          "url": "https://open.spotify.com/artist/6AVyGjQ7gNzSkGlBldHS1j"
-        }
-      ],
-      "duration_ms": 171093,
-      "name": "N\u00e3o Sei Parar - Mojjo Remix",
-      "url": "https://open.spotify.com/track/6j45uOIAiHWIEEaSiCRi4L"
     }
   ],
   "unique_name": "New Music Weekly | Monstercat",

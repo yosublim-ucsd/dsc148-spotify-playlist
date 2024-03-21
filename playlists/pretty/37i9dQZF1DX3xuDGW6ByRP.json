@@ -1,12 +1,12 @@
 {
   "description": "as novas de pop rock br / Foto: TINN",
-  "num_followers": 48025,
+  "num_followers": 48035,
   "original_name": "rockers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyNWI5MTIzZjNlMDFkYmFiZWEzZTBiNGU5ZjJmMDQ1YzcyNjdkNjY5",
+  "snapshot_id": "MCw0M2I2YmYwYmNlMDc2YmZlYzA1MDY1ODk1Mzc2MDMyOGIzN2MzNTcw",
   "tracks": [
     {
       "added_at": "2024-02-22 17:25:15",
@@ -851,22 +851,6 @@
     {
       "added_at": "2024-02-22 17:25:15",
       "album": {
-        "name": "Hoje eu n\u00e3o vim falar de Amor",
-        "url": "https://open.spotify.com/album/4oc0QwQpt6HcT0TAArIwH7"
-      },
-      "artists": [
-        {
-          "name": "Hotelo",
-          "url": "https://open.spotify.com/artist/11LYUBREaqNaJcruqe26lH"
-        }
-      ],
-      "duration_ms": 228920,
-      "name": "Hoje eu n\u00e3o vim falar de Amor",
-      "url": "https://open.spotify.com/track/6anYWyiQuRfLFrVWP5Gc8R"
-    },
-    {
-      "added_at": "2024-02-22 17:25:15",
-      "album": {
         "name": "Obscuro",
         "url": "https://open.spotify.com/album/5Aj7XX2oSqwb5ZrxrntSb6"
       },
@@ -879,6 +863,22 @@
       "duration_ms": 218161,
       "name": "Obscuro",
       "url": "https://open.spotify.com/track/2Rh1qXTvyZ6u00yVS1kzhS"
+    },
+    {
+      "added_at": "2024-02-22 17:25:15",
+      "album": {
+        "name": "Hoje eu n\u00e3o vim falar de Amor",
+        "url": "https://open.spotify.com/album/4oc0QwQpt6HcT0TAArIwH7"
+      },
+      "artists": [
+        {
+          "name": "Hotelo",
+          "url": "https://open.spotify.com/artist/11LYUBREaqNaJcruqe26lH"
+        }
+      ],
+      "duration_ms": 228920,
+      "name": "Hoje eu n\u00e3o vim falar de Amor",
+      "url": "https://open.spotify.com/track/6anYWyiQuRfLFrVWP5Gc8R"
     },
     {
       "added_at": "2024-02-22 17:25:15",
@@ -1199,18 +1199,18 @@
     {
       "added_at": "2024-02-22 17:25:15",
       "album": {
-        "name": "ANTISSOCIAL",
-        "url": "https://open.spotify.com/album/3VQBBPFAWLwpMtiEurj5sW"
+        "name": "EMO NAS BAHAMAS",
+        "url": "https://open.spotify.com/album/4bxAIoM4FOEzDDROUyYEX7"
       },
       "artists": [
         {
-          "name": "Carol & Vitoria",
-          "url": "https://open.spotify.com/artist/5zA07XrRPmMYEAdwtfRtSD"
+          "name": "BAKA",
+          "url": "https://open.spotify.com/artist/5LTxdV6qfcrjaJfjKkZu3o"
         }
       ],
-      "duration_ms": 146643,
-      "name": "ANTISSOCIAL",
-      "url": "https://open.spotify.com/track/5vkLsYCrNiD56XifYnIBo9"
+      "duration_ms": 148880,
+      "name": "VOU ALI DORMIR",
+      "url": "https://open.spotify.com/track/1Lppb1QwW9QtASjtJqkTZB"
     },
     {
       "added_at": "2024-02-22 17:25:15",
@@ -1231,18 +1231,18 @@
     {
       "added_at": "2024-02-22 17:25:15",
       "album": {
-        "name": "EMO NAS BAHAMAS",
-        "url": "https://open.spotify.com/album/4bxAIoM4FOEzDDROUyYEX7"
+        "name": "ANTISSOCIAL",
+        "url": "https://open.spotify.com/album/3VQBBPFAWLwpMtiEurj5sW"
       },
       "artists": [
         {
-          "name": "BAKA",
-          "url": "https://open.spotify.com/artist/5LTxdV6qfcrjaJfjKkZu3o"
+          "name": "Carol & Vitoria",
+          "url": "https://open.spotify.com/artist/5zA07XrRPmMYEAdwtfRtSD"
         }
       ],
-      "duration_ms": 148880,
-      "name": "VOU ALI DORMIR",
-      "url": "https://open.spotify.com/track/1Lppb1QwW9QtASjtJqkTZB"
+      "duration_ms": 146643,
+      "name": "ANTISSOCIAL",
+      "url": "https://open.spotify.com/track/5vkLsYCrNiD56XifYnIBo9"
     },
     {
       "added_at": "2024-02-22 17:25:15",

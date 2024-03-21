@@ -1288,7 +1288,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-21",
       "duration_ms": 310012,
       "name": "La casita de mis viejos - Remastered",
       "url": "https://open.spotify.com/track/780oI6gpWrr8ds9gzx98B0"
@@ -2137,6 +2137,24 @@
     },
     {
       "album": {
+        "name": "Presentando a Julio Sosa",
+        "url": "https://open.spotify.com/album/6xYIlPpJXfz74SvviVPm5G"
+      },
+      "artists": [
+        {
+          "name": "Julio Sosa",
+          "url": "https://open.spotify.com/artist/7Cg2eqV6oHNE0P54WfajIX"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192826,
+      "name": "Qu\u00e9 Me Van a Hablar de Amor",
+      "url": "https://open.spotify.com/track/4YIZvmqOxkKSfb2WSX6dcN"
+    },
+    {
+      "album": {
         "name": "Var\u00f3n (Remastered)",
         "url": "https://open.spotify.com/album/1mIJOhB8422u9D6b7Fjow9"
       },
@@ -2148,7 +2166,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-21",
       "duration_ms": 192815,
       "name": "Qu\u00e9 me van a hablar de amor - Remastered",
       "url": "https://open.spotify.com/track/3FfcNuVn1yyNkikUxm6qwW"
@@ -2606,7 +2624,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-19",
+      "date_removed": null,
       "duration_ms": 221500,
       "name": "Tarde",
       "url": "https://open.spotify.com/track/3NBK1KYBB7K278yKrWugnY"

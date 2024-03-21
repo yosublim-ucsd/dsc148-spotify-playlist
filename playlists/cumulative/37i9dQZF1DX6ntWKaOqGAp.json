@@ -3050,7 +3050,7 @@
     {
       "album": {
         "name": "DUNE",
-        "url": "https://open.spotify.com/album/1RjdQlC4Cj2w6awwm17t2Y"
+        "url": "https://open.spotify.com/album/6ZK3tzbIjcVkdWqBNYMdmv"
       },
       "artists": [
         {
@@ -3061,6 +3061,24 @@
       "date_added": "2024-03-19",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 266428,
+      "name": "DUNE",
+      "url": "https://open.spotify.com/track/1w3YQYNtn2SsJuhkQlDFcz"
+    },
+    {
+      "album": {
+        "name": "DUNE",
+        "url": "https://open.spotify.com/album/1RjdQlC4Cj2w6awwm17t2Y"
+      },
+      "artists": [
+        {
+          "name": "Billyrrom",
+          "url": "https://open.spotify.com/artist/7our8lu1Vk9CLnFEu3JEbc"
+        }
+      ],
+      "date_added": "2024-03-19",
+      "date_added_asterisk": false,
+      "date_removed": "2024-03-21",
       "duration_ms": 266428,
       "name": "DUNE",
       "url": "https://open.spotify.com/track/6XFstFaEHAF4nq7B1NYy0o"
@@ -3776,6 +3794,24 @@
       "duration_ms": 221463,
       "name": "FRESH",
       "url": "https://open.spotify.com/track/2fo7LTsIyhYkhpLC7KStNg"
+    },
+    {
+      "album": {
+        "name": "Fukan Romance",
+        "url": "https://open.spotify.com/album/4BZryJ7vxw9BkS1lIfwXZy"
+      },
+      "artists": [
+        {
+          "name": "bokula.",
+          "url": "https://open.spotify.com/artist/03d8apfHOy2uV3oLL9lsFG"
+        }
+      ],
+      "date_added": "2024-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210602,
+      "name": "Fukan Romance",
+      "url": "https://open.spotify.com/track/4qUBjqmstuHK8DfdfKpkWk"
     },
     {
       "album": {
@@ -6872,10 +6908,28 @@
       ],
       "date_added": "2024-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-21",
       "duration_ms": 278733,
       "name": "long good-bye",
       "url": "https://open.spotify.com/track/1bmg5GeIX2HhOOB1TrzWKF"
+    },
+    {
+      "album": {
+        "name": "Terminal",
+        "url": "https://open.spotify.com/album/2eYXYU8WPrnucyQsfAqpgr"
+      },
+      "artists": [
+        {
+          "name": "Ryukku to Soine Gohan",
+          "url": "https://open.spotify.com/artist/5LRYFq7w1jFGA4TGd0bB9D"
+        }
+      ],
+      "date_added": "2024-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278733,
+      "name": "long good-bye",
+      "url": "https://open.spotify.com/track/4SahYiM0uX40YnDt5jTLDZ"
     },
     {
       "album": {
@@ -12978,7 +13032,7 @@
     {
       "album": {
         "name": "Water Carrier",
-        "url": "https://open.spotify.com/album/0LkdcehFEz0i0RALwIp9V7"
+        "url": "https://open.spotify.com/album/3sNzrdLqdVxbPmHAu9Iuav"
       },
       "artists": [
         {
@@ -12989,6 +13043,24 @@
       "date_added": "2024-03-19",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 242470,
+      "name": "Water Carrier",
+      "url": "https://open.spotify.com/track/4l8jSXhZ3apqimhbzhiabB"
+    },
+    {
+      "album": {
+        "name": "Water Carrier",
+        "url": "https://open.spotify.com/album/0LkdcehFEz0i0RALwIp9V7"
+      },
+      "artists": [
+        {
+          "name": "Kroi",
+          "url": "https://open.spotify.com/artist/4S8J8Nct8lHsbzAeNJXcJa"
+        }
+      ],
+      "date_added": "2024-03-19",
+      "date_added_asterisk": false,
+      "date_removed": "2024-03-21",
       "duration_ms": 242470,
       "name": "Water Carrier",
       "url": "https://open.spotify.com/track/675sPQdIf74UzpPrPR4tLZ"
@@ -18120,7 +18192,7 @@
     {
       "album": {
         "name": "LUMINOUS",
-        "url": "https://open.spotify.com/album/3Z4uX6UeTkCl4g2g0XqXsh"
+        "url": "https://open.spotify.com/album/7aJkW9YMx2gzLTMQcEqeR0"
       },
       "artists": [
         {
@@ -18131,6 +18203,24 @@
       "date_added": "2024-03-19",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 228533,
+      "name": "\u30d5\u30a1\u30f3\u30d5\u30a1\u30fc\u30ec",
+      "url": "https://open.spotify.com/track/42IZvenX9kmevVWxjZLNwV"
+    },
+    {
+      "album": {
+        "name": "LUMINOUS",
+        "url": "https://open.spotify.com/album/3Z4uX6UeTkCl4g2g0XqXsh"
+      },
+      "artists": [
+        {
+          "name": "SCANDAL",
+          "url": "https://open.spotify.com/artist/7hTZwqQILVH4bAbN67CeEz"
+        }
+      ],
+      "date_added": "2024-03-19",
+      "date_added_asterisk": false,
+      "date_removed": "2024-03-21",
       "duration_ms": 228533,
       "name": "\u30d5\u30a1\u30f3\u30d5\u30a1\u30fc\u30ec",
       "url": "https://open.spotify.com/track/4nq80DMRmRZRBW12tN3rmS"
@@ -19540,7 +19630,7 @@
       ],
       "date_added": "2024-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-21",
       "duration_ms": 210602,
       "name": "\u4e0d\u5b8c\u30ed\u30de\u30f3\u30b9",
       "url": "https://open.spotify.com/track/6GeiPhDFSxzta6J1YCjaIB"

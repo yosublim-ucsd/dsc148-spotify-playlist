@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6TIU4D13lOY.md) - [plain]
 
 > Classic soft rock for a nice and easy drive.
 
-[Spotify](https://open.spotify.com/user/spotify) - 250,357 likes - 80 songs - 5 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 250,427 likes - 80 songs - 5 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,17 +33,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6TIU4D13lOY.md) - [plain]
 | 23 | [The Things We Do For Love](https://open.spotify.com/track/6KEWtSOGKpIXGw6l1uJgsR) | [10cc](https://open.spotify.com/artist/6i6WlGzQtXtz7GcC5H5st5) | [Deceptive Bends](https://open.spotify.com/album/6D3RQD5AQZ4P2aDzsZmBI4) | 3:27 |
 | 24 | [Guitar Man](https://open.spotify.com/track/0gZXockVcE7rEhSf4mcGLO) | [Bread](https://open.spotify.com/artist/70ZTdbPEcEugBNay4MvxfL) | [Guitar Man](https://open.spotify.com/album/38mhQ9p2BiHpz60gthzEVy) | 3:46 |
 | 25 | [How Sweet It Is \(To Be Loved By You\) \- 2019 Remaster](https://open.spotify.com/track/75Nlnd9AJ4CYrLXgWGsuTF) | [James Taylor](https://open.spotify.com/artist/0vn7UBvSQECKJm2817Yf1P) | [Gorilla \(2019 Remaster\)](https://open.spotify.com/album/0x491s63vRDvG25x2Fzrny) | 3:36 |
-| 26 | [Sharing The Night Together](https://open.spotify.com/track/4M0m4FUdc4wD2guhUHogLF) | [Dr\. Hook](https://open.spotify.com/artist/2Mhi3jfuRSdbVZPdjqsnnN) | [Pleasure & Pain](https://open.spotify.com/album/35XG1sovYmuWPpYCJsEX6F) | 2:54 |
-| 27 | [Biggest Part of Me](https://open.spotify.com/track/6JHXiRD1QjMK1N6AQEnL04) | [Ambrosia](https://open.spotify.com/artist/0J2Ej2rMQyqaUX3G6MUISw) | [One Eighty](https://open.spotify.com/album/4WsQBaO2DLvDZ5VRmsXbUH) | 5:24 |
-| 28 | [Sometimes When We Touch](https://open.spotify.com/track/1nAexCn3dPoFSmE7h6P5S7) | [Dan Hill](https://open.spotify.com/artist/5rOhfAsK4uxq9OdREiQRKa) | [Longer Fuse](https://open.spotify.com/album/0dQK7dydGZY4UPL87P3YhW) | 4:12 |
-| 29 | [Ride Like the Wind](https://open.spotify.com/track/6Rd36fAvK6klQPYgx3534I) | [Christopher Cross](https://open.spotify.com/artist/695W5F2Ih8dYahLdjVOIoH) | [Christopher Cross](https://open.spotify.com/album/43L4t2oVmuJsudEls5C6Gh) | 4:35 |
+| 26 | [Biggest Part of Me](https://open.spotify.com/track/6JHXiRD1QjMK1N6AQEnL04) | [Ambrosia](https://open.spotify.com/artist/0J2Ej2rMQyqaUX3G6MUISw) | [One Eighty](https://open.spotify.com/album/4WsQBaO2DLvDZ5VRmsXbUH) | 5:24 |
+| 27 | [Sharing The Night Together](https://open.spotify.com/track/4M0m4FUdc4wD2guhUHogLF) | [Dr\. Hook](https://open.spotify.com/artist/2Mhi3jfuRSdbVZPdjqsnnN) | [Pleasure & Pain](https://open.spotify.com/album/35XG1sovYmuWPpYCJsEX6F) | 2:54 |
+| 28 | [Ride Like the Wind](https://open.spotify.com/track/6Rd36fAvK6klQPYgx3534I) | [Christopher Cross](https://open.spotify.com/artist/695W5F2Ih8dYahLdjVOIoH) | [Christopher Cross](https://open.spotify.com/album/43L4t2oVmuJsudEls5C6Gh) | 4:35 |
+| 29 | [Sometimes When We Touch](https://open.spotify.com/track/1nAexCn3dPoFSmE7h6P5S7) | [Dan Hill](https://open.spotify.com/artist/5rOhfAsK4uxq9OdREiQRKa) | [Longer Fuse](https://open.spotify.com/album/0dQK7dydGZY4UPL87P3YhW) | 4:12 |
 | 30 | [Kiss on My List](https://open.spotify.com/track/7cDzJyC95jtGO9zAeZsWOg) | [Daryl Hall & John Oates](https://open.spotify.com/artist/77tT1kLj6mCWtFNqiOmP9H) | [Voices](https://open.spotify.com/album/4LniALl9S6YedTFdiZWOMS) | 4:24 |
 | 31 | [I Just Want To Be Your Everything](https://open.spotify.com/track/5EdlwzcgIAYs2HGvOnczPN) | [Andy Gibb](https://open.spotify.com/artist/4YPqbAiLzBg5DIfsgQZ8QK) | [Flowing Rivers](https://open.spotify.com/album/3yBKvLLgqZfNTNtoUnq0Uf) | 3:45 |
-| 32 | [How Much I Feel](https://open.spotify.com/track/3GVhCuS4BRxCTvVj4Cmc8w) | [Ambrosia](https://open.spotify.com/artist/0J2Ej2rMQyqaUX3G6MUISw) | [Life Beyond L.A.](https://open.spotify.com/album/5CyhDBUqDk2XMptRFsj7c2) | 4:43 |
-| 33 | [You're No Good](https://open.spotify.com/track/23DZLSxCK6kM8FF2RlzKDl) | [Linda Ronstadt](https://open.spotify.com/artist/1sXbwvCQLGZnaH0Jp2HTVc) | [Heart Like A Wheel](https://open.spotify.com/album/7upKDUGJUjsvfIe6vuVB0b) | 3:44 |
-| 34 | [Lowdown \(2023 Remaster\)](https://open.spotify.com/track/5QhikAUv91oMAaFnfKz22u) | [Boz Scaggs](https://open.spotify.com/artist/46njgd2Rq9tZc4ZjeQMgbh) | [Silk Degrees \(2023 Remaster\)](https://open.spotify.com/album/1iIyo1JkpnNz83Mf4I9AiI) | 5:17 |
-| 35 | [The Best of My Love \- 2013 Remaster](https://open.spotify.com/track/5MLLuLqPdUlx8bfKtdkLwO) | [Eagles](https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL) | [On the Border \(2013 Remaster\)](https://open.spotify.com/album/2iCHyD9XHtA3vJFJIuXzqu) | 4:34 |
-| 36 | [How Long](https://open.spotify.com/track/6Wgst4P9SOnc6WGLtfTb1z) | [Ace](https://open.spotify.com/artist/6QNkSI0c63lCTNXpHDBiqP) | [Five\-A\-Side](https://open.spotify.com/album/0Co0NZP0lt2Qi7rHZDngxh) | 3:24 |
+| 32 | [You're No Good](https://open.spotify.com/track/23DZLSxCK6kM8FF2RlzKDl) | [Linda Ronstadt](https://open.spotify.com/artist/1sXbwvCQLGZnaH0Jp2HTVc) | [Heart Like A Wheel](https://open.spotify.com/album/7upKDUGJUjsvfIe6vuVB0b) | 3:44 |
+| 33 | [Lowdown \(2023 Remaster\)](https://open.spotify.com/track/5QhikAUv91oMAaFnfKz22u) | [Boz Scaggs](https://open.spotify.com/artist/46njgd2Rq9tZc4ZjeQMgbh) | [Silk Degrees \(2023 Remaster\)](https://open.spotify.com/album/1iIyo1JkpnNz83Mf4I9AiI) | 5:17 |
+| 34 | [The Best of My Love \- 2013 Remaster](https://open.spotify.com/track/5MLLuLqPdUlx8bfKtdkLwO) | [Eagles](https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL) | [On the Border \(2013 Remaster\)](https://open.spotify.com/album/2iCHyD9XHtA3vJFJIuXzqu) | 4:34 |
+| 35 | [How Long](https://open.spotify.com/track/6Wgst4P9SOnc6WGLtfTb1z) | [Ace](https://open.spotify.com/artist/6QNkSI0c63lCTNXpHDBiqP) | [Five\-A\-Side](https://open.spotify.com/album/0Co0NZP0lt2Qi7rHZDngxh) | 3:24 |
+| 36 | [How Much I Feel](https://open.spotify.com/track/3GVhCuS4BRxCTvVj4Cmc8w) | [Ambrosia](https://open.spotify.com/artist/0J2Ej2rMQyqaUX3G6MUISw) | [Life Beyond L.A.](https://open.spotify.com/album/5CyhDBUqDk2XMptRFsj7c2) | 4:43 |
 | 37 | [Your Smiling Face](https://open.spotify.com/track/1Q34tAtTWI6RdW1qzFQiPb) | [James Taylor](https://open.spotify.com/artist/0vn7UBvSQECKJm2817Yf1P) | [JT](https://open.spotify.com/album/0Pbc9Jq12a47mQ1z9yIuhn) | 2:45 |
 | 38 | [Big Love \- 2017 Remaster](https://open.spotify.com/track/0hOA8SoraNo2ZP1amtVYnY) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Tango In the Night \(Deluxe Edition\)](https://open.spotify.com/album/4AsXQ17Arq1cUVoa9dKJ3F) | 3:43 |
 | 39 | [On And On](https://open.spotify.com/track/0Vth3l4XAo8hNYmxjzhr2y) | [Stephen Bishop](https://open.spotify.com/artist/3JhRHqCi8HEzkJVWt19LtN) | [Careless](https://open.spotify.com/album/08zWo4xb7GZ5e3dyUOUAmm) | 3:01 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6TIU4D13lOY.md) - [plain]
 | 79 | [Shadow Captain](https://open.spotify.com/track/7yw2UnCNLPTlPOQaaPHYCN) | [Crosby, Stills & Nash](https://open.spotify.com/artist/2pdvghEHZJtgSXZ7cvNLou) | [CSN](https://open.spotify.com/album/63AF6wD9Mt1vQgKPNZaAXx) | 4:34 |
 | 80 | [Ace of Hearts](https://open.spotify.com/track/72wERbZ4yx2cNaoEj5jYnl) | [Chris Rea](https://open.spotify.com/artist/5KEG7G8LDYlHgFDqZyEEs2) | [The Works](https://open.spotify.com/album/1FFugUhUxnLxYb4eqqDwGn) | 4:30 |
 
-Snapshot ID: `MCw1YzRjOGJhNDIwNmY4YzZlNTBiMzEyNzM2YjQ5MTYzZDZiYTY1NjA3`
+Snapshot ID: `MCwxOGMwMmNlZmU1OWU2YzBhZjE3MjQyZGVlNzFmZjViOWE2YTE0YTdm`

@@ -11769,6 +11769,28 @@
     },
     {
       "album": {
+        "name": "Prosthetic Boombox",
+        "url": "https://open.spotify.com/album/1K7jPoakaKuGPdwDfnL8fk"
+      },
+      "artists": [
+        {
+          "name": "Cola Boyy",
+          "url": "https://open.spotify.com/artist/6CZN3MHeeEXh5PxKZivIa8"
+        },
+        {
+          "name": "The Avalanches",
+          "url": "https://open.spotify.com/artist/3C8RpaI3Go0yFF9whvKoED"
+        }
+      ],
+      "date_added": "2024-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 294413,
+      "name": "Don't Forget Your Neighborhood",
+      "url": "https://open.spotify.com/track/0HvKM4Q1Rp987XaQm6ljlS"
+    },
+    {
+      "album": {
         "name": "Don't Judge Me",
         "url": "https://open.spotify.com/album/12xYnvNkZWg4yPn2edO0cm"
       },

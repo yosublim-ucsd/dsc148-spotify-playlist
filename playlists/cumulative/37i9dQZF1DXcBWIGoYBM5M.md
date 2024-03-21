@@ -4,7 +4,7 @@
 
 > Teddy Swims is on top of the Hottest 50!
 
-1,043 songs - 2 day 7 hr 56 min
+1,044 songs - 2 day 7 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,7 +65,8 @@
 | [At My Worst](https://open.spotify.com/track/0ri0Han4IRJhzvERHOZTMr) | [Pink Sweat$](https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t) | [The Prelude](https://open.spotify.com/album/3Qj2vsFzmaB8jcH6Q60WIG) | 2:50 | 2020-10-23 | 2021-04-10 |
 | [Attention](https://open.spotify.com/track/11xC6P3iKYpFThT6Ce1KdG) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Attention](https://open.spotify.com/album/38xgBOLAcKoYWMSXWUDH1E) | 4:37 | 2023-06-16 | 2023-07-29 |
 | [Attention](https://open.spotify.com/track/2pIUpMhHL6L9Z5lnKxJJr9) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [NewJeans 1st EP 'New Jeans'](https://open.spotify.com/album/1HMLpmZAnNyl9pxvOnTovV) | 3:00 | 2022-08-26 | 2022-10-15 |
-| [Austin](https://open.spotify.com/track/4NJqhmkGN042BrvHoMKUrJ) | [Dasha](https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I) | [Austin](https://open.spotify.com/album/4JtlZzYJEa7bejLF0ASnk0) | 2:51 | 2024-03-15 |  |
+| [Austin](https://open.spotify.com/track/4NJqhmkGN042BrvHoMKUrJ) | [Dasha](https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I) | [Austin](https://open.spotify.com/album/4JtlZzYJEa7bejLF0ASnk0) | 2:51 | 2024-03-15 | 2024-03-21 |
+| [Austin](https://open.spotify.com/track/6b81dy3WjbozXK6b7C1gu5) | [Dasha](https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I) | [What Happens Now?](https://open.spotify.com/album/0rQRrrZPPv6XXsxilJ1wFz) | 2:51 | 2024-03-15 |  |
 | [Ay, DiOs Mío!](https://open.spotify.com/track/7x4ASXYEKfQBCewcZhK776) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [Ay, DiOs Mío!](https://open.spotify.com/album/1mMUBQXa70gHyUjK0Q0u63) | 3:09 | 2020-08-30 | 2020-09-25 |
 | [Ayy Macarena](https://open.spotify.com/track/6LcauUZjF1eXQrgqMUecHX) | [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) | [Ayy Macarena](https://open.spotify.com/album/3Cse4lihKX7ww99QnZGQAh) | 2:11 | 2020-01-03 | 2020-02-13 |
 | [B.O.T.A\. \(Baddest Of Them All\) \- Edit](https://open.spotify.com/track/39JofJHEtg8I4fSyo7Imft) | [Eliza Rose](https://open.spotify.com/artist/4XC335ouK6pXyq4QiIb8bP), [Interplanetary Criminal](https://open.spotify.com/artist/6uJ51uV5rYzu1MJkC4CceI) | [B.O.T.A\. \(Baddest Of Them All\)](https://open.spotify.com/album/2lQgd3Svp1ZWAzZPLobAPK) | 3:46 | 2022-09-16 | 2022-12-03 |

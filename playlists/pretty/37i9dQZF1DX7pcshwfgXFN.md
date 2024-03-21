@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7pcshwfgXFN.md) - [plain]
 
 > A selection of Islamic Duaa.
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,447 likes - 35 songs - 1 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,518 likes - 35 songs - 1 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,4 +44,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7pcshwfgXFN.md) - [plain]
 | 34 | [\( Live \) ربنا تقبل منا](https://open.spotify.com/track/6mTU4E7wnvMH2q7dEc9NvN) | [الشيخ عبد الباسط عبد الصمد](https://open.spotify.com/artist/5FfOEBsqp3x1bpsNr73KLa) | [أدعية شهر رمضان](https://open.spotify.com/album/2tOnxcvLJkNfE0uh5ADKbj) | 0:56 |
 | 35 | [\( Live \) اللهم إنا نسألك خير ما نأتي](https://open.spotify.com/track/0rWxaewxRQ2NXCJbiv8I49) | [الشيخ عبد الباسط عبد الصمد](https://open.spotify.com/artist/5FfOEBsqp3x1bpsNr73KLa) | [أدعية شهر رمضان](https://open.spotify.com/album/2tOnxcvLJkNfE0uh5ADKbj) | 1:00 |
 
-Snapshot ID: `MCwwZmM2YjczZWFiZDEwOTczYjc1YTY1NzBkMzE5NzY0MGI3MGJjYjU5`
+Snapshot ID: `MCxjYTYwY2M4NDQ0NjFhMzAzMmQ5MmIyZDE5ZWM4ZjY5NTUzNzMyOTBj`

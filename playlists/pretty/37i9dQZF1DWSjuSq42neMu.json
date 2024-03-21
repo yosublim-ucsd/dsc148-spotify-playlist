@@ -1,12 +1,12 @@
 {
   "description": "todo un mood. ",
-  "num_followers": 693703,
+  "num_followers": 693830,
   "original_name": "suave",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyZGRiZWQ1MzAyOWQxMDE2Y2RhOTAzZTQ1YzRkNGFlNDMwYTEzZmQx",
+  "snapshot_id": "MCwzY2MzZjQ4Mzc0ZTEzOTRiYjYyMzViYzEyN2JlYjI4ZWY3NmRkNTk1",
   "tracks": [
     {
       "added_at": "2024-03-13 15:47:00",
@@ -71,26 +71,6 @@
     {
       "added_at": "2024-03-13 15:47:00",
       "album": {
-        "name": "nadie sabe lo que va a pasar ma\u00f1ana",
-        "url": "https://open.spotify.com/album/4FftCsAcXXD1nFO9RFUNFO"
-      },
-      "artists": [
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        },
-        {
-          "name": "Young Miko",
-          "url": "https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB"
-        }
-      ],
-      "duration_ms": 216327,
-      "name": "FINA",
-      "url": "https://open.spotify.com/track/3nNmRE0DxHC6ZaKkrpUumS"
-    },
-    {
-      "added_at": "2024-03-13 15:47:00",
-      "album": {
         "name": "EMPELOTICA",
         "url": "https://open.spotify.com/album/1Cf5ZIMxdIYC60Cz7Q4GZg"
       },
@@ -107,6 +87,26 @@
       "duration_ms": 190322,
       "name": "EMPELOTICA",
       "url": "https://open.spotify.com/track/0dKsNKiWmqkoz8YAUzfigC"
+    },
+    {
+      "added_at": "2024-03-13 15:47:00",
+      "album": {
+        "name": "nadie sabe lo que va a pasar ma\u00f1ana",
+        "url": "https://open.spotify.com/album/4FftCsAcXXD1nFO9RFUNFO"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        },
+        {
+          "name": "Young Miko",
+          "url": "https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB"
+        }
+      ],
+      "duration_ms": 216327,
+      "name": "FINA",
+      "url": "https://open.spotify.com/track/3nNmRE0DxHC6ZaKkrpUumS"
     },
     {
       "added_at": "2024-03-13 15:47:00",
@@ -247,6 +247,22 @@
     {
       "added_at": "2024-03-13 15:47:00",
       "album": {
+        "name": "X 100PRE",
+        "url": "https://open.spotify.com/album/7CjJb2mikwAWA1V6kewFBF"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "duration_ms": 169247,
+      "name": "Si Estuvi\u00e9semos Juntos",
+      "url": "https://open.spotify.com/track/35wvL50xvKpCHEJPxLOLPI"
+    },
+    {
+      "added_at": "2024-03-13 15:47:00",
+      "album": {
         "name": "CLASSY 101",
         "url": "https://open.spotify.com/album/4jtQUtS4ABgER3DnGfKJCv"
       },
@@ -263,22 +279,6 @@
       "duration_ms": 195986,
       "name": "CLASSY 101",
       "url": "https://open.spotify.com/track/6XSqqQIy7Lm7SnwxS4NrGx"
-    },
-    {
-      "added_at": "2024-03-13 15:47:00",
-      "album": {
-        "name": "X 100PRE",
-        "url": "https://open.spotify.com/album/7CjJb2mikwAWA1V6kewFBF"
-      },
-      "artists": [
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        }
-      ],
-      "duration_ms": 169247,
-      "name": "Si Estuvi\u00e9semos Juntos",
-      "url": "https://open.spotify.com/track/35wvL50xvKpCHEJPxLOLPI"
     },
     {
       "added_at": "2024-03-13 15:47:00",
@@ -355,22 +355,18 @@
     {
       "added_at": "2024-03-13 15:47:00",
       "album": {
-        "name": "BUBALU",
-        "url": "https://open.spotify.com/album/0RjxDLuy3YP0zLuo8VB0JX"
+        "name": "Yonaguni",
+        "url": "https://open.spotify.com/album/6VSOIs13DaSG2IPilNviX5"
       },
       "artists": [
         {
-          "name": "Feid",
-          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
-        },
-        {
-          "name": "Rema",
-          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
         }
       ],
-      "duration_ms": 228253,
-      "name": "BUBALU",
-      "url": "https://open.spotify.com/track/36FTXlmbiV2diZdZukzLDm"
+      "duration_ms": 206710,
+      "name": "Yonaguni",
+      "url": "https://open.spotify.com/track/2JPLbjOn0wPCngEot2STUS"
     },
     {
       "added_at": "2024-03-13 15:47:00",
@@ -435,8 +431,28 @@
     {
       "added_at": "2024-03-13 15:47:00",
       "album": {
-        "name": "Yonaguni",
-        "url": "https://open.spotify.com/album/6VSOIs13DaSG2IPilNviX5"
+        "name": "BUBALU",
+        "url": "https://open.spotify.com/album/0RjxDLuy3YP0zLuo8VB0JX"
+      },
+      "artists": [
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        },
+        {
+          "name": "Rema",
+          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
+        }
+      ],
+      "duration_ms": 228253,
+      "name": "BUBALU",
+      "url": "https://open.spotify.com/track/36FTXlmbiV2diZdZukzLDm"
+    },
+    {
+      "added_at": "2024-03-13 15:47:00",
+      "album": {
+        "name": "EL \u00daLTIMO TOUR DEL MUNDO",
+        "url": "https://open.spotify.com/album/2d9BCZeAAhiZWPpbX9aPCW"
       },
       "artists": [
         {
@@ -444,9 +460,9 @@
           "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
         }
       ],
-      "duration_ms": 206710,
-      "name": "Yonaguni",
-      "url": "https://open.spotify.com/track/2JPLbjOn0wPCngEot2STUS"
+      "duration_ms": 130013,
+      "name": "TE MUDASTE",
+      "url": "https://open.spotify.com/track/5RubKOuDoPn5Kj5TLVxSxY"
     },
     {
       "added_at": "2024-03-13 15:47:00",
@@ -575,22 +591,6 @@
     {
       "added_at": "2024-03-13 15:47:00",
       "album": {
-        "name": "PARA\u00cdSO",
-        "url": "https://open.spotify.com/album/7b3PrkHcWx17AQwlI2M1Uc"
-      },
-      "artists": [
-        {
-          "name": "Mora",
-          "url": "https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S"
-        }
-      ],
-      "duration_ms": 127333,
-      "name": "COMO HAS ESTAU?",
-      "url": "https://open.spotify.com/track/5S7FewmYYyLNdMOfeEcB6P"
-    },
-    {
-      "added_at": "2024-03-13 15:47:00",
-      "album": {
         "name": "Sol Mar\u00eda",
         "url": "https://open.spotify.com/album/2zE9RJSh5sMV0NJ8Oc8k5s"
       },
@@ -611,6 +611,22 @@
     {
       "added_at": "2024-03-13 15:47:00",
       "album": {
+        "name": "PARA\u00cdSO",
+        "url": "https://open.spotify.com/album/7b3PrkHcWx17AQwlI2M1Uc"
+      },
+      "artists": [
+        {
+          "name": "Mora",
+          "url": "https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S"
+        }
+      ],
+      "duration_ms": 127333,
+      "name": "COMO HAS ESTAU?",
+      "url": "https://open.spotify.com/track/5S7FewmYYyLNdMOfeEcB6P"
+    },
+    {
+      "added_at": "2024-03-13 15:47:00",
+      "album": {
         "name": "EL \u00daLTIMO TOUR DEL MUNDO",
         "url": "https://open.spotify.com/album/2d9BCZeAAhiZWPpbX9aPCW"
       },
@@ -618,11 +634,15 @@
         {
           "name": "Bad Bunny",
           "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        },
+        {
+          "name": "ROSAL\u00cdA",
+          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
         }
       ],
-      "duration_ms": 130013,
-      "name": "TE MUDASTE",
-      "url": "https://open.spotify.com/track/5RubKOuDoPn5Kj5TLVxSxY"
+      "duration_ms": 203200,
+      "name": "LA NOCHE DE ANOCHE",
+      "url": "https://open.spotify.com/track/2XIc1pqjXV3Cr2BQUGNBck"
     },
     {
       "added_at": "2024-03-13 15:47:00",
@@ -723,6 +743,26 @@
     {
       "added_at": "2024-03-13 15:47:00",
       "album": {
+        "name": "CRUSH",
+        "url": "https://open.spotify.com/album/7DMu62yuKkrM8IYUUrwkhf"
+      },
+      "artists": [
+        {
+          "name": "Sky Rompiendo",
+          "url": "https://open.spotify.com/artist/51XrH5fQP2oIQynuKxSWcW"
+        },
+        {
+          "name": "Dei V",
+          "url": "https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP"
+        }
+      ],
+      "duration_ms": 233333,
+      "name": "CRUSH",
+      "url": "https://open.spotify.com/track/1mAUVEQWn2PRxWnRhQreBo"
+    },
+    {
+      "added_at": "2024-03-13 15:47:00",
+      "album": {
         "name": "La Forma en Que Me Miras",
         "url": "https://open.spotify.com/album/4C1RvpT7vJ7H8j21larWQU"
       },
@@ -751,26 +791,6 @@
       "duration_ms": 307435,
       "name": "La Forma en Que Me Miras",
       "url": "https://open.spotify.com/track/6t94PGXYAuo9GbJEnMpPcW"
-    },
-    {
-      "added_at": "2024-03-13 15:47:00",
-      "album": {
-        "name": "CRUSH",
-        "url": "https://open.spotify.com/album/7DMu62yuKkrM8IYUUrwkhf"
-      },
-      "artists": [
-        {
-          "name": "Sky Rompiendo",
-          "url": "https://open.spotify.com/artist/51XrH5fQP2oIQynuKxSWcW"
-        },
-        {
-          "name": "Dei V",
-          "url": "https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP"
-        }
-      ],
-      "duration_ms": 233333,
-      "name": "CRUSH",
-      "url": "https://open.spotify.com/track/1mAUVEQWn2PRxWnRhQreBo"
     },
     {
       "added_at": "2024-03-13 15:47:00",
@@ -855,26 +875,6 @@
     {
       "added_at": "2024-03-13 15:47:00",
       "album": {
-        "name": "EL \u00daLTIMO TOUR DEL MUNDO",
-        "url": "https://open.spotify.com/album/2d9BCZeAAhiZWPpbX9aPCW"
-      },
-      "artists": [
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        },
-        {
-          "name": "ROSAL\u00cdA",
-          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
-        }
-      ],
-      "duration_ms": 203200,
-      "name": "LA NOCHE DE ANOCHE",
-      "url": "https://open.spotify.com/track/2XIc1pqjXV3Cr2BQUGNBck"
-    },
-    {
-      "added_at": "2024-03-13 15:47:00",
-      "album": {
         "name": "23 Preguntas",
         "url": "https://open.spotify.com/album/0iLhDl4hlkoBXLtsfhUg56"
       },
@@ -923,7 +923,7 @@
     {
       "added_at": "2024-03-13 15:47:00",
       "album": {
-        "name": "Toda Remix",
+        "name": "Toda (Remix)",
         "url": "https://open.spotify.com/album/49BbDxaXZIPz4sZE6G7618"
       },
       "artists": [
@@ -949,7 +949,7 @@
         }
       ],
       "duration_ms": 367680,
-      "name": "Toda Remix - Remix",
+      "name": "Toda (Remix)",
       "url": "https://open.spotify.com/track/47ZS1OjnJpJVfGN9yHXfMn"
     },
     {
@@ -1035,46 +1035,6 @@
     {
       "added_at": "2024-03-13 15:47:00",
       "album": {
-        "name": "7 L\u00e1grimas (Remix)",
-        "url": "https://open.spotify.com/album/3SPDYewQ7iwqYuLVoDOTQl"
-      },
-      "artists": [
-        {
-          "name": "Soge Culebra",
-          "url": "https://open.spotify.com/artist/2SNfNJDsahTSVFwgxposF5"
-        },
-        {
-          "name": "Mora",
-          "url": "https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S"
-        },
-        {
-          "name": "GARABATTO",
-          "url": "https://open.spotify.com/artist/6JaOGIlSvYswVLPmGUheOO"
-        }
-      ],
-      "duration_ms": 202894,
-      "name": "7 L\u00e1grimas - Remix",
-      "url": "https://open.spotify.com/track/3wlX0yg6NRMDPwOvdPmuLn"
-    },
-    {
-      "added_at": "2024-03-13 15:47:00",
-      "album": {
-        "name": "Happy Birthday Flakko",
-        "url": "https://open.spotify.com/album/5aQdVDQFVq43QFPPdSmUO4"
-      },
-      "artists": [
-        {
-          "name": "Rels B",
-          "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "SIN MIRAR LAS SE\u00d1ALES",
-      "url": "https://open.spotify.com/track/7fM24rKaYCTGf85Lj8U2pk"
-    },
-    {
-      "added_at": "2024-03-13 15:47:00",
-      "album": {
         "name": "Climaxxx",
         "url": "https://open.spotify.com/album/6stPNzjz40FWTiwlOR98Lp"
       },
@@ -1111,6 +1071,46 @@
       "duration_ms": 286506,
       "name": "Cuaderno",
       "url": "https://open.spotify.com/track/7anSoGdgtmJTAPZBzcPhO6"
+    },
+    {
+      "added_at": "2024-03-13 15:47:00",
+      "album": {
+        "name": "Happy Birthday Flakko",
+        "url": "https://open.spotify.com/album/5aQdVDQFVq43QFPPdSmUO4"
+      },
+      "artists": [
+        {
+          "name": "Rels B",
+          "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "SIN MIRAR LAS SE\u00d1ALES",
+      "url": "https://open.spotify.com/track/7fM24rKaYCTGf85Lj8U2pk"
+    },
+    {
+      "added_at": "2024-03-13 15:47:00",
+      "album": {
+        "name": "7 L\u00e1grimas (Remix)",
+        "url": "https://open.spotify.com/album/3SPDYewQ7iwqYuLVoDOTQl"
+      },
+      "artists": [
+        {
+          "name": "Soge Culebra",
+          "url": "https://open.spotify.com/artist/2SNfNJDsahTSVFwgxposF5"
+        },
+        {
+          "name": "Mora",
+          "url": "https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S"
+        },
+        {
+          "name": "GARABATTO",
+          "url": "https://open.spotify.com/artist/6JaOGIlSvYswVLPmGUheOO"
+        }
+      ],
+      "duration_ms": 202894,
+      "name": "7 L\u00e1grimas - Remix",
+      "url": "https://open.spotify.com/track/3wlX0yg6NRMDPwOvdPmuLn"
     },
     {
       "added_at": "2024-03-13 15:47:00",

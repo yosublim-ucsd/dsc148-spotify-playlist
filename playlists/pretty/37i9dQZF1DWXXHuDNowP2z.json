@@ -1,12 +1,12 @@
 {
   "description": "\u00a1A levantar polvadera!",
-  "num_followers": 225217,
+  "num_followers": 225313,
   "original_name": "Cumbias, Huapangos & Zapateados",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiMjhmYTllZGU5ZTMwZjUyYmVjZmQ1N2FmZDAzNjAyYjgwYjFkNjJk",
+  "snapshot_id": "MCw5ODQ3OThkODAyOGNlMTFiNGFmMzAzMWNhYTk2M2E2NGZhYmY5YjFi",
   "tracks": [
     {
       "added_at": "2024-03-15 06:00:00",
@@ -495,6 +495,26 @@
     {
       "added_at": "2024-03-15 06:00:00",
       "album": {
+        "name": "Existo",
+        "url": "https://open.spotify.com/album/0aBkLzScGffWKy1Gz0qHwJ"
+      },
+      "artists": [
+        {
+          "name": "Pedro Cap\u00f3",
+          "url": "https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy"
+        },
+        {
+          "name": "Carin Leon",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        }
+      ],
+      "duration_ms": 175355,
+      "name": "Existo",
+      "url": "https://open.spotify.com/track/7ITHQze4eUbzMRJyi40dLN"
+    },
+    {
+      "added_at": "2024-03-15 06:00:00",
+      "album": {
         "name": "Cumbia Pa' Bailar",
         "url": "https://open.spotify.com/album/27C8UtTl6p01IZFQ9QRKcv"
       },
@@ -539,6 +559,22 @@
     {
       "added_at": "2024-03-15 06:00:00",
       "album": {
+        "name": "Cumbias Sin Control",
+        "url": "https://open.spotify.com/album/4WA8OOdFDDoYUoCDnde5UX"
+      },
+      "artists": [
+        {
+          "name": "Control",
+          "url": "https://open.spotify.com/artist/69BX3Y0Y9rzA039eZX2hdx"
+        }
+      ],
+      "duration_ms": 172706,
+      "name": "Tao, Tao",
+      "url": "https://open.spotify.com/track/71J3ktUHU5n0EWAfD7VVFX"
+    },
+    {
+      "added_at": "2024-03-15 06:00:00",
+      "album": {
         "name": "La Cumbia De La Baliniza",
         "url": "https://open.spotify.com/album/0rrk5OiasAkClqvriMUPwc"
       },
@@ -555,22 +591,6 @@
       "duration_ms": 167235,
       "name": "La Cumbia De La Baliniza",
       "url": "https://open.spotify.com/track/4sNnFf3VjtL0biCWSiI6BF"
-    },
-    {
-      "added_at": "2024-03-15 06:00:00",
-      "album": {
-        "name": "Cumbias Sin Control",
-        "url": "https://open.spotify.com/album/4WA8OOdFDDoYUoCDnde5UX"
-      },
-      "artists": [
-        {
-          "name": "Control",
-          "url": "https://open.spotify.com/artist/69BX3Y0Y9rzA039eZX2hdx"
-        }
-      ],
-      "duration_ms": 172706,
-      "name": "Tao, Tao",
-      "url": "https://open.spotify.com/track/71J3ktUHU5n0EWAfD7VVFX"
     },
     {
       "added_at": "2024-03-15 06:00:00",
@@ -607,38 +627,18 @@
     {
       "added_at": "2024-03-15 06:00:00",
       "album": {
-        "name": "Existo",
-        "url": "https://open.spotify.com/album/0aBkLzScGffWKy1Gz0qHwJ"
+        "name": "El Aferrafter",
+        "url": "https://open.spotify.com/album/0CneLezycb7bQwm9E4ZHWo"
       },
       "artists": [
         {
-          "name": "Pedro Cap\u00f3",
-          "url": "https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy"
-        },
-        {
-          "name": "Carin Leon",
-          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+          "name": "Yahir Saldivar",
+          "url": "https://open.spotify.com/artist/19NGyg3ucHFhAP3mwPsggJ"
         }
       ],
-      "duration_ms": 175355,
-      "name": "Existo",
-      "url": "https://open.spotify.com/track/7ITHQze4eUbzMRJyi40dLN"
-    },
-    {
-      "added_at": "2024-03-15 06:00:00",
-      "album": {
-        "name": "Vive",
-        "url": "https://open.spotify.com/album/4v2fdmkaVrrT0eYhy2ix3a"
-      },
-      "artists": [
-        {
-          "name": "Bobby Pulido",
-          "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
-        }
-      ],
-      "duration_ms": 180560,
-      "name": "Ojal\u00e1 Te Animes",
-      "url": "https://open.spotify.com/track/1tg7ZzCAkjDNENdWL7WuIr"
+      "duration_ms": 205647,
+      "name": "El Aferrafter",
+      "url": "https://open.spotify.com/track/4UflFP15sPu8HdABGEwEpV"
     },
     {
       "added_at": "2024-03-15 06:00:00",
@@ -659,6 +659,22 @@
     {
       "added_at": "2024-03-15 06:00:00",
       "album": {
+        "name": "Vive",
+        "url": "https://open.spotify.com/album/4v2fdmkaVrrT0eYhy2ix3a"
+      },
+      "artists": [
+        {
+          "name": "Bobby Pulido",
+          "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
+        }
+      ],
+      "duration_ms": 180560,
+      "name": "Ojal\u00e1 Te Animes",
+      "url": "https://open.spotify.com/track/1tg7ZzCAkjDNENdWL7WuIr"
+    },
+    {
+      "added_at": "2024-03-15 06:00:00",
+      "album": {
         "name": "En Vivo, Vol.1",
         "url": "https://open.spotify.com/album/6IowhUMQKAxWr2V7qyPbcM"
       },
@@ -675,22 +691,6 @@
       "duration_ms": 254339,
       "name": "La Pareja Ideal - En Vivo",
       "url": "https://open.spotify.com/track/2gpgzhumYabZNyrsyvdAat"
-    },
-    {
-      "added_at": "2024-03-15 06:00:00",
-      "album": {
-        "name": "El Aferrafter",
-        "url": "https://open.spotify.com/album/0CneLezycb7bQwm9E4ZHWo"
-      },
-      "artists": [
-        {
-          "name": "Yahir Saldivar",
-          "url": "https://open.spotify.com/artist/19NGyg3ucHFhAP3mwPsggJ"
-        }
-      ],
-      "duration_ms": 205647,
-      "name": "El Aferrafter",
-      "url": "https://open.spotify.com/track/4UflFP15sPu8HdABGEwEpV"
     },
     {
       "added_at": "2024-03-15 06:00:00",
@@ -727,38 +727,6 @@
     {
       "added_at": "2024-03-15 06:00:00",
       "album": {
-        "name": "Cumbias con Garra Vol. IV *",
-        "url": "https://open.spotify.com/album/6sCg6I963xNmg9qo8xbwqp"
-      },
-      "artists": [
-        {
-          "name": "Los Tigrillos",
-          "url": "https://open.spotify.com/artist/5kuxm06ltfO1Rj9j5UQewf"
-        }
-      ],
-      "duration_ms": 202253,
-      "name": "Mira oye",
-      "url": "https://open.spotify.com/track/4l3SD9S0EOaBAPejqNti6E"
-    },
-    {
-      "added_at": "2024-03-15 06:00:00",
-      "album": {
-        "name": "24/7",
-        "url": "https://open.spotify.com/album/352LrVMlDficyblK9e7Olr"
-      },
-      "artists": [
-        {
-          "name": "De Parranda",
-          "url": "https://open.spotify.com/artist/0OTHm6AFLxgeTm0gHNOuWi"
-        }
-      ],
-      "duration_ms": 210932,
-      "name": "24/7",
-      "url": "https://open.spotify.com/track/02hdaX3rWzdjZL6uqBZNhG"
-    },
-    {
-      "added_at": "2024-03-15 06:00:00",
-      "album": {
         "name": "Lives Pa' La Raza (En Vivo)",
         "url": "https://open.spotify.com/album/5p50bUpy7JxrzPkAs2XS1q"
       },
@@ -771,6 +739,22 @@
       "duration_ms": 134234,
       "name": "La Flechita - En Vivo",
       "url": "https://open.spotify.com/track/1MKJ9FCBXbavUvd3hvpdTg"
+    },
+    {
+      "added_at": "2024-03-15 06:00:00",
+      "album": {
+        "name": "Cumbias con Garra Vol. IV *",
+        "url": "https://open.spotify.com/album/6sCg6I963xNmg9qo8xbwqp"
+      },
+      "artists": [
+        {
+          "name": "Los Tigrillos",
+          "url": "https://open.spotify.com/artist/5kuxm06ltfO1Rj9j5UQewf"
+        }
+      ],
+      "duration_ms": 202253,
+      "name": "Mira oye",
+      "url": "https://open.spotify.com/track/4l3SD9S0EOaBAPejqNti6E"
     },
     {
       "added_at": "2024-03-15 06:00:00",
@@ -791,6 +775,22 @@
     {
       "added_at": "2024-03-15 06:00:00",
       "album": {
+        "name": "24/7",
+        "url": "https://open.spotify.com/album/352LrVMlDficyblK9e7Olr"
+      },
+      "artists": [
+        {
+          "name": "De Parranda",
+          "url": "https://open.spotify.com/artist/0OTHm6AFLxgeTm0gHNOuWi"
+        }
+      ],
+      "duration_ms": 210932,
+      "name": "24/7",
+      "url": "https://open.spotify.com/track/02hdaX3rWzdjZL6uqBZNhG"
+    },
+    {
+      "added_at": "2024-03-15 06:00:00",
+      "album": {
         "name": "La Estrella De Los Bailes",
         "url": "https://open.spotify.com/album/2TKiDd5rUQRwq7yjCChfOj"
       },
@@ -807,22 +807,6 @@
     {
       "added_at": "2024-03-15 06:00:00",
       "album": {
-        "name": "Tu Regalo",
-        "url": "https://open.spotify.com/album/6hUQFOztpF095UsEhq7QlR"
-      },
-      "artists": [
-        {
-          "name": "Chuy Lizarraga y Su Banda Tierra Sinaloense",
-          "url": "https://open.spotify.com/artist/1DA8SLXtp8MMVpgaOWzMQr"
-        }
-      ],
-      "duration_ms": 204640,
-      "name": "La Peinada (La Peinadita)",
-      "url": "https://open.spotify.com/track/1Lp14SCjlGEvGSC4uDwrpD"
-    },
-    {
-      "added_at": "2024-03-15 06:00:00",
-      "album": {
         "name": "Gold Collection, Vol.1",
         "url": "https://open.spotify.com/album/7bMQ7sSTPUqNPMZhX0kG9O"
       },
@@ -835,6 +819,22 @@
       "duration_ms": 181968,
       "name": "Sal con Lim\u00f3n",
       "url": "https://open.spotify.com/track/6arEdpIPcdyAPtvPcwZ9YD"
+    },
+    {
+      "added_at": "2024-03-15 06:00:00",
+      "album": {
+        "name": "Tu Regalo",
+        "url": "https://open.spotify.com/album/6hUQFOztpF095UsEhq7QlR"
+      },
+      "artists": [
+        {
+          "name": "Chuy Lizarraga y Su Banda Tierra Sinaloense",
+          "url": "https://open.spotify.com/artist/1DA8SLXtp8MMVpgaOWzMQr"
+        }
+      ],
+      "duration_ms": 204640,
+      "name": "La Peinada (La Peinadita)",
+      "url": "https://open.spotify.com/track/1Lp14SCjlGEvGSC4uDwrpD"
     },
     {
       "added_at": "2024-03-15 06:00:00",
@@ -1167,22 +1167,6 @@
     {
       "added_at": "2024-03-15 06:00:00",
       "album": {
-        "name": "Celoso",
-        "url": "https://open.spotify.com/album/1OPUq6gkZ41e3x9zhxGPwR"
-      },
-      "artists": [
-        {
-          "name": "Secretto",
-          "url": "https://open.spotify.com/artist/70d5BThK07cjuaJPChIUkD"
-        }
-      ],
-      "duration_ms": 201084,
-      "name": "Celoso",
-      "url": "https://open.spotify.com/track/2Yfs6lzl14H9Q09FB7qSKN"
-    },
-    {
-      "added_at": "2024-03-15 06:00:00",
-      "album": {
         "name": "Nuestra Historia y Algo Mas...",
         "url": "https://open.spotify.com/album/6UNzhVQkHybofoYY39AsMD"
       },
@@ -1195,6 +1179,22 @@
       "duration_ms": 188800,
       "name": "Zapateado Encabronado, El Sinaloense, La Loba del Mal, Los Coconitos",
       "url": "https://open.spotify.com/track/0xiMvJNupbRsbRu8Ox6XUS"
+    },
+    {
+      "added_at": "2024-03-15 06:00:00",
+      "album": {
+        "name": "Celoso",
+        "url": "https://open.spotify.com/album/1OPUq6gkZ41e3x9zhxGPwR"
+      },
+      "artists": [
+        {
+          "name": "Secretto",
+          "url": "https://open.spotify.com/artist/70d5BThK07cjuaJPChIUkD"
+        }
+      ],
+      "duration_ms": 201084,
+      "name": "Celoso",
+      "url": "https://open.spotify.com/track/2Yfs6lzl14H9Q09FB7qSKN"
     },
     {
       "added_at": "2024-03-15 06:00:00",
@@ -1279,22 +1279,6 @@
     {
       "added_at": "2024-03-15 06:00:00",
       "album": {
-        "name": "Cuando Nadie Ve",
-        "url": "https://open.spotify.com/album/1wxJ9ISQB4tUBWulQzZsTV"
-      },
-      "artists": [
-        {
-          "name": "Impostores De Nuevo Leon",
-          "url": "https://open.spotify.com/artist/74bsa1JfHvX7B7TrX7aAzI"
-        }
-      ],
-      "duration_ms": 232533,
-      "name": "Cuando Nadie Ve",
-      "url": "https://open.spotify.com/track/52ZdW6oH0pi1oJq39SeH1z"
-    },
-    {
-      "added_at": "2024-03-15 06:00:00",
-      "album": {
         "name": "Linda Mujer",
         "url": "https://open.spotify.com/album/2r0krjD8TrFD7wtdoLzNbc"
       },
@@ -1307,6 +1291,22 @@
       "duration_ms": 169471,
       "name": "Linda Mujer",
       "url": "https://open.spotify.com/track/01brpGFr1KB1gK7H14OO5p"
+    },
+    {
+      "added_at": "2024-03-15 06:00:00",
+      "album": {
+        "name": "Cuando Nadie Ve",
+        "url": "https://open.spotify.com/album/1wxJ9ISQB4tUBWulQzZsTV"
+      },
+      "artists": [
+        {
+          "name": "Impostores De Nuevo Leon",
+          "url": "https://open.spotify.com/artist/74bsa1JfHvX7B7TrX7aAzI"
+        }
+      ],
+      "duration_ms": 232533,
+      "name": "Cuando Nadie Ve",
+      "url": "https://open.spotify.com/track/52ZdW6oH0pi1oJq39SeH1z"
     },
     {
       "added_at": "2024-03-15 06:00:00",
@@ -1823,22 +1823,6 @@
     {
       "added_at": "2024-03-15 06:00:00",
       "album": {
-        "name": "De Parranda Lives Vol. 2/3",
-        "url": "https://open.spotify.com/album/2qI4lRalMMAEAY7vOkd9Q1"
-      },
-      "artists": [
-        {
-          "name": "De Parranda",
-          "url": "https://open.spotify.com/artist/0OTHm6AFLxgeTm0gHNOuWi"
-        }
-      ],
-      "duration_ms": 208049,
-      "name": "Ojala y te animes",
-      "url": "https://open.spotify.com/track/0gdHT6RFfRvrjnnFbKzfL1"
-    },
-    {
-      "added_at": "2024-03-15 06:00:00",
-      "album": {
         "name": "Es Parte Del Show",
         "url": "https://open.spotify.com/album/5bCWc6JMufwJSVjwLwYlwx"
       },
@@ -1851,6 +1835,22 @@
       "duration_ms": 173378,
       "name": "Es Parte Del Show",
       "url": "https://open.spotify.com/track/4AlLi2xehkaTJmQSI3ISvW"
+    },
+    {
+      "added_at": "2024-03-15 06:00:00",
+      "album": {
+        "name": "De Parranda Lives Vol. 2/3",
+        "url": "https://open.spotify.com/album/2qI4lRalMMAEAY7vOkd9Q1"
+      },
+      "artists": [
+        {
+          "name": "De Parranda",
+          "url": "https://open.spotify.com/artist/0OTHm6AFLxgeTm0gHNOuWi"
+        }
+      ],
+      "duration_ms": 208049,
+      "name": "Ojala y te animes",
+      "url": "https://open.spotify.com/track/0gdHT6RFfRvrjnnFbKzfL1"
     },
     {
       "added_at": "2024-03-15 06:00:00",
@@ -1887,22 +1887,6 @@
     {
       "added_at": "2024-03-15 06:00:00",
       "album": {
-        "name": "Solo Un Dia\u2026",
-        "url": "https://open.spotify.com/album/6CpCo3owrPMEiQjREEFuk0"
-      },
-      "artists": [
-        {
-          "name": "Adan Romero",
-          "url": "https://open.spotify.com/artist/1gkGKzeXQYnVPI76yDlOqz"
-        }
-      ],
-      "duration_ms": 250826,
-      "name": "La Cara Sucia",
-      "url": "https://open.spotify.com/track/5ztf8zS3mOOibAOEc6jhuA"
-    },
-    {
-      "added_at": "2024-03-15 06:00:00",
-      "album": {
         "name": "Los Reyes Del Baile",
         "url": "https://open.spotify.com/album/7DL853qsnorJL4jKap209q"
       },
@@ -1919,18 +1903,34 @@
     {
       "added_at": "2024-03-15 06:00:00",
       "album": {
-        "name": "Nuestra Historia Musical (Volumen 1)",
-        "url": "https://open.spotify.com/album/1k9LWM4YJYsRLUK3okmr8r"
+        "name": "Solo Un Dia\u2026",
+        "url": "https://open.spotify.com/album/6CpCo3owrPMEiQjREEFuk0"
       },
       "artists": [
         {
-          "name": "Banda Ola Azul de Zirahuen",
-          "url": "https://open.spotify.com/artist/5GwsVzB4N0FIiILYzLuszR"
+          "name": "Adan Romero",
+          "url": "https://open.spotify.com/artist/1gkGKzeXQYnVPI76yDlOqz"
         }
       ],
-      "duration_ms": 193053,
-      "name": "Un Angel No Debe Llorar",
-      "url": "https://open.spotify.com/track/55owFYkdLsQ0W9BORZ3C84"
+      "duration_ms": 250826,
+      "name": "La Cara Sucia",
+      "url": "https://open.spotify.com/track/5ztf8zS3mOOibAOEc6jhuA"
+    },
+    {
+      "added_at": "2024-03-15 06:00:00",
+      "album": {
+        "name": "Salvaje Y Tierno",
+        "url": "https://open.spotify.com/album/3le90qgKpBzXiW1qigS89K"
+      },
+      "artists": [
+        {
+          "name": "Bronco",
+          "url": "https://open.spotify.com/artist/0VKh7CQDi9MkUvaBMoK1V0"
+        }
+      ],
+      "duration_ms": 174680,
+      "name": "Con Zapatos De Tac\u00f3n",
+      "url": "https://open.spotify.com/track/3bCgm8HYZ3IrL7X0EcSRLs"
     },
     {
       "added_at": "2024-03-15 06:00:00",
@@ -1951,18 +1951,18 @@
     {
       "added_at": "2024-03-15 06:00:00",
       "album": {
-        "name": "Salvaje Y Tierno",
-        "url": "https://open.spotify.com/album/3le90qgKpBzXiW1qigS89K"
+        "name": "Nuestra Historia Musical (Volumen 1)",
+        "url": "https://open.spotify.com/album/1k9LWM4YJYsRLUK3okmr8r"
       },
       "artists": [
         {
-          "name": "Bronco",
-          "url": "https://open.spotify.com/artist/0VKh7CQDi9MkUvaBMoK1V0"
+          "name": "Banda Ola Azul de Zirahuen",
+          "url": "https://open.spotify.com/artist/5GwsVzB4N0FIiILYzLuszR"
         }
       ],
-      "duration_ms": 174680,
-      "name": "Con Zapatos De Tac\u00f3n",
-      "url": "https://open.spotify.com/track/3bCgm8HYZ3IrL7X0EcSRLs"
+      "duration_ms": 193053,
+      "name": "Un Angel No Debe Llorar",
+      "url": "https://open.spotify.com/track/55owFYkdLsQ0W9BORZ3C84"
     },
     {
       "added_at": "2024-03-15 06:00:00",
@@ -2015,6 +2015,22 @@
     {
       "added_at": "2024-03-15 06:00:00",
       "album": {
+        "name": "El wiri wiri",
+        "url": "https://open.spotify.com/album/1s5YwH3eSuRbLufdF9LHdc"
+      },
+      "artists": [
+        {
+          "name": "Clave Suprema",
+          "url": "https://open.spotify.com/artist/6qJpXwgejXZxqmYIQJB7AK"
+        }
+      ],
+      "duration_ms": 158165,
+      "name": "El wiri wiri",
+      "url": "https://open.spotify.com/track/5qwtpyavx0oyGlKAQDiRll"
+    },
+    {
+      "added_at": "2024-03-15 06:00:00",
+      "album": {
         "name": "Qu\u00e9 Pensaste",
         "url": "https://open.spotify.com/album/1375E6oaMeXeSJM7Y0zWes"
       },
@@ -2035,22 +2051,6 @@
       "duration_ms": 200232,
       "name": "Qu\u00e9 Pensaste",
       "url": "https://open.spotify.com/track/1qde1NqHQno17MdNziaYmN"
-    },
-    {
-      "added_at": "2024-03-15 06:00:00",
-      "album": {
-        "name": "El wiri wiri",
-        "url": "https://open.spotify.com/album/1s5YwH3eSuRbLufdF9LHdc"
-      },
-      "artists": [
-        {
-          "name": "Clave Suprema",
-          "url": "https://open.spotify.com/artist/6qJpXwgejXZxqmYIQJB7AK"
-        }
-      ],
-      "duration_ms": 158165,
-      "name": "El wiri wiri",
-      "url": "https://open.spotify.com/track/5qwtpyavx0oyGlKAQDiRll"
     },
     {
       "added_at": "2024-03-15 06:00:00",
@@ -2103,6 +2103,22 @@
     {
       "added_at": "2024-03-15 06:00:00",
       "album": {
+        "name": "Mujer Interesada",
+        "url": "https://open.spotify.com/album/61bBUzkom2CEA555x0dF8a"
+      },
+      "artists": [
+        {
+          "name": "Los Infinitos Puro Zirahuen",
+          "url": "https://open.spotify.com/artist/1CUhdRw7cr3alXldvYkuH9"
+        }
+      ],
+      "duration_ms": 160011,
+      "name": "Mujer Interesada",
+      "url": "https://open.spotify.com/track/04CFuPjz3XcbbrWAMsi55V"
+    },
+    {
+      "added_at": "2024-03-15 06:00:00",
+      "album": {
         "name": "Es Viernes",
         "url": "https://open.spotify.com/album/6wxNV1UqQ5r80Dee8C1QOJ"
       },
@@ -2119,22 +2135,6 @@
       "duration_ms": 216550,
       "name": "Es Viernes",
       "url": "https://open.spotify.com/track/6SXlVEDXV7bMS4A3kbAGlc"
-    },
-    {
-      "added_at": "2024-03-15 06:00:00",
-      "album": {
-        "name": "Mujer Interesada",
-        "url": "https://open.spotify.com/album/61bBUzkom2CEA555x0dF8a"
-      },
-      "artists": [
-        {
-          "name": "Los Infinitos Puro Zirahuen",
-          "url": "https://open.spotify.com/artist/1CUhdRw7cr3alXldvYkuH9"
-        }
-      ],
-      "duration_ms": 160011,
-      "name": "Mujer Interesada",
-      "url": "https://open.spotify.com/track/04CFuPjz3XcbbrWAMsi55V"
     },
     {
       "added_at": "2024-03-15 06:00:00",

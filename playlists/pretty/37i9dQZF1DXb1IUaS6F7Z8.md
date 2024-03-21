@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb1IUaS6F7Z8.md) - [plain]
 
 > All of the Celtic punk essentials.\. Cover: Dropkick Murphys
 
-[Spotify](https://open.spotify.com/user/spotify) - 422,001 likes - 50 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 422,169 likes - 50 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,8 +20,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb1IUaS6F7Z8.md) - [plain]
 | 10 | [Devil's Dance Floor](https://open.spotify.com/track/1QxiAWrrZ2uFrjyzsC5jFg) | [Flogging Molly](https://open.spotify.com/artist/5kQGFREO5FzMBMsAO3cEtj) | [Swagger](https://open.spotify.com/album/16aGG0N50n3KeXLqSxWkyN) | 3:59 |
 | 11 | [If I Should Fall from Grace with God](https://open.spotify.com/track/1Z5rTFsClLFgsIGuZ7Ymt2) | [The Pogues](https://open.spotify.com/artist/2wzMOQwNT6ZvVB4amvhFAH) | [If I Should Fall from Grace with God \(Expanded Edition\)](https://open.spotify.com/album/4V92Puney9WxGPecKtLG4L) | 2:20 |
 | 12 | [Botany Bay](https://open.spotify.com/track/0EjrmUYfo0bo787mvveLLi) | [Blaggards](https://open.spotify.com/artist/0IlUKxz8kZ4EpKrZjlvFr1) | [Standards](https://open.spotify.com/album/54rl8J9TynN3Qah4u9Eph4) | 3:30 |
-| 13 | [Johnny Jump Up/Morrison's Jig](https://open.spotify.com/track/4fNKdk1uTtSOqjf1Ehb3f6) | [Gaelic Storm](https://open.spotify.com/artist/5dlzTgw97q5k5ws89Ww1UK) | [Gaelic Storm](https://open.spotify.com/album/6rZVgcQIQdAJWBMQTQCkip) | 5:00 |
-| 14 | [The Foggy Dew](https://open.spotify.com/track/5wXGCPZNAuz0nOOQHGlvKp) | [Young Dubliners](https://open.spotify.com/artist/6goa2f1QVVT8aqSxKWnsVj) | [With All Due Respect: The Irish Sessions](https://open.spotify.com/album/291LYTwbCHyPWBrD12eD3B) | 3:11 |
+| 13 | [The Foggy Dew](https://open.spotify.com/track/5wXGCPZNAuz0nOOQHGlvKp) | [Young Dubliners](https://open.spotify.com/artist/6goa2f1QVVT8aqSxKWnsVj) | [With All Due Respect: The Irish Sessions](https://open.spotify.com/album/291LYTwbCHyPWBrD12eD3B) | 3:11 |
+| 14 | [Johnny Jump Up/Morrison's Jig](https://open.spotify.com/track/4fNKdk1uTtSOqjf1Ehb3f6) | [Gaelic Storm](https://open.spotify.com/artist/5dlzTgw97q5k5ws89Ww1UK) | [Gaelic Storm](https://open.spotify.com/album/6rZVgcQIQdAJWBMQTQCkip) | 5:00 |
 | 15 | [A Fistful O' Roses](https://open.spotify.com/track/34m9v482iwNV9QHWfzNFq0) | [The Rumjacks](https://open.spotify.com/artist/0w2KUuMj7dvP8dV4tzoltd) | [Sleepin' Rough](https://open.spotify.com/album/11gXkG9RdZCEuJwIOZ7OPW) | 4:47 |
 | 16 | [The Cruel Wars](https://open.spotify.com/track/6BadR8UdEijDv01ZafyO62) | [The Dreadnoughts](https://open.spotify.com/artist/0tfnDOJ5a2ib3mHAI4qGyD) | [Uncle Touchy Goes to College](https://open.spotify.com/album/3AtaamrqosM5VdORJN2WR9) | 3:07 |
 | 17 | [Drunken Sailor](https://open.spotify.com/track/4CkIURmNRubxc12llcAiuh) | [Blaggards](https://open.spotify.com/artist/0IlUKxz8kZ4EpKrZjlvFr1) | [Standards](https://open.spotify.com/album/54rl8J9TynN3Qah4u9Eph4) | 2:38 |
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb1IUaS6F7Z8.md) - [plain]
 | 43 | [Fuck You, I'm Drunk](https://open.spotify.com/track/5h5F15pdoLR3jhiC3JInsf) | [Paddy And The Rats](https://open.spotify.com/artist/3XquRQYlB1gXQkYdOV7S2x) | [Rats on Board](https://open.spotify.com/album/25N5DFrbDiyYepxO38maDT) | 2:46 |
 | 44 | [The Foreman O'rourke](https://open.spotify.com/track/5His2KyaJt6tuKCdeXCtcn) | [The Rumjacks](https://open.spotify.com/artist/0w2KUuMj7dvP8dV4tzoltd) | [Saints Preserve Us](https://open.spotify.com/album/0WcoMbjC7kzJJpqP488gTc) | 4:31 |
 | 45 | [Orange and the Green](https://open.spotify.com/track/3Czlbc2EbEiaIjSrWY5zKA) | [The Kreellers](https://open.spotify.com/artist/39ljFcdvjH7BB9OsVJwnBn) | [Sixth and Porter](https://open.spotify.com/album/7tn0ug4ECBWSrNSBxGVVo8) | 2:53 |
-| 46 | [Follow Me Up To Carlow](https://open.spotify.com/track/0FDTn9eV0JeoRYBcVP0Pdp) | [Young Dubliners](https://open.spotify.com/artist/6goa2f1QVVT8aqSxKWnsVj) | [With All Due Respect: The Irish Sessions](https://open.spotify.com/album/291LYTwbCHyPWBrD12eD3B) | 3:37 |
-| 47 | [I'll Fly Away](https://open.spotify.com/track/7b1C6mz6egDlaZWavyKJv6) | [Flatfoot 56](https://open.spotify.com/artist/7eQrNqwmiIvFKEMvHRvPLB) | [Toil](https://open.spotify.com/album/301aLfcteHHAyyJUyC6ysY) | 2:44 |
+| 46 | [I'll Fly Away](https://open.spotify.com/track/7b1C6mz6egDlaZWavyKJv6) | [Flatfoot 56](https://open.spotify.com/artist/7eQrNqwmiIvFKEMvHRvPLB) | [Toil](https://open.spotify.com/album/301aLfcteHHAyyJUyC6ysY) | 2:44 |
+| 47 | [Follow Me Up To Carlow](https://open.spotify.com/track/0FDTn9eV0JeoRYBcVP0Pdp) | [Young Dubliners](https://open.spotify.com/artist/6goa2f1QVVT8aqSxKWnsVj) | [With All Due Respect: The Irish Sessions](https://open.spotify.com/album/291LYTwbCHyPWBrD12eD3B) | 3:37 |
 | 48 | [Freedom](https://open.spotify.com/track/20ZPFGWFDdCehIlCRBSene) | [Paddy And The Rats](https://open.spotify.com/artist/3XquRQYlB1gXQkYdOV7S2x) | [Rats On Board](https://open.spotify.com/album/6UrU8iv81fRiywK0IlVsQw) | 3:44 |
 | 49 | [Uncle Tommy](https://open.spotify.com/track/5UqIk0AUqq3AMrdk2cYiCJ) | [The Rumjacks](https://open.spotify.com/artist/0w2KUuMj7dvP8dV4tzoltd) | [Gangs of New Holland](https://open.spotify.com/album/0oiIhaKjX4opdyHTEEM8dm) | 2:34 |
 | 50 | [The Beer Song](https://open.spotify.com/track/6ei9tbLjSdYpZatWSQfzQd) | [Seamus Kennedy](https://open.spotify.com/artist/0mOdLsbUeEcEy7ADN3Hhuf) | [On the Rocks](https://open.spotify.com/album/2aIBq4cJweU84E0PZuXa05) | 1:54 |
 
-Snapshot ID: `MCxkNTMzOWY5MGNlMjZhOGJmY2ZjNWE4Y2QxNzVmN2NkODU3ZGYxMzA3`
+Snapshot ID: `MCxkMDE2ZTdiZDNiYWQ4OWZhZGZhZmRiMjE2ODU1Y2YwNTIyOGVmNjgw`

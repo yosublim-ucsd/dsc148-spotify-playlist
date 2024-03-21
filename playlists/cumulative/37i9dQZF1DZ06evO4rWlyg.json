@@ -386,10 +386,28 @@
       ],
       "date_added": "2024-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-21",
       "duration_ms": 236640,
       "name": "Big Time Sensuality",
       "url": "https://open.spotify.com/track/0X0LTI0MQG9S3FLSUvjrj5"
+    },
+    {
+      "album": {
+        "name": "Debut",
+        "url": "https://open.spotify.com/album/7qopDhMKBIfoIM2gJcecbr"
+      },
+      "artists": [
+        {
+          "name": "Bj\u00f6rk",
+          "url": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
+        }
+      ],
+      "date_added": "2024-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236640,
+      "name": "Big Time Sensuality",
+      "url": "https://open.spotify.com/track/5diiEB0edX69v9x3e96NyO"
     },
     {
       "album": {
@@ -1604,10 +1622,28 @@
       ],
       "date_added": "2024-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-21",
       "duration_ms": 314866,
       "name": "Pagan Poetry",
       "url": "https://open.spotify.com/track/0mc51xomEC6CZUZdB8xgQU"
+    },
+    {
+      "album": {
+        "name": "Vespertine",
+        "url": "https://open.spotify.com/album/7sScYIMy44GyOll7TpWcak"
+      },
+      "artists": [
+        {
+          "name": "Bj\u00f6rk",
+          "url": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
+        }
+      ],
+      "date_added": "2024-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 314866,
+      "name": "Pagan Poetry",
+      "url": "https://open.spotify.com/track/2uMm657euPoE7Vgaukuupl"
     },
     {
       "album": {

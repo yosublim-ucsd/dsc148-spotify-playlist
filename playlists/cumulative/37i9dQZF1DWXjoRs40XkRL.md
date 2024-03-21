@@ -4,7 +4,7 @@
 
 > Unwind to the best Indian classical sounds out there.
 
-260 songs - 22 hr 41 min
+261 songs - 22 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -147,7 +147,7 @@
 | [Mehki](https://open.spotify.com/track/3s7HqsfITsd6mc42L98RBx) | [Benny Dayal](https://open.spotify.com/artist/61if35zz1W11GejEkxTLEQ), [Hashbass](https://open.spotify.com/artist/0SFvkCtMeB2DSxgIPX6lzO), [1080g](https://open.spotify.com/artist/7apQmu6veMYstFKoQ1ALRG) | [Mehki](https://open.spotify.com/album/3be5Wwmsm1z3pXzDQnmFzQ) | 3:01 | 2023-02-20 | 2023-10-07 |
 | [Milan](https://open.spotify.com/track/0AFauuw4BMnqScJljkqWzd) | [Karsh Kale](https://open.spotify.com/artist/5KNQvpxpsSUsL8Mon7SjYn) | [Liberation](https://open.spotify.com/album/7F44heEFeNbL5dj7EUbgCL) | 8:54 | 2022-05-17 | 2023-05-24 |
 | [Miliha](https://open.spotify.com/track/5VOCIsiHepzYDaE5V1Qv6H) | [Advaita](https://open.spotify.com/artist/4FMduZvsMYM69TKN3i0YRp) | [Top 25 Fusion Ringtunes Vol\. 2](https://open.spotify.com/album/4atesUt90zJdViXSVetFda) | 1:01 | 2022-05-17 | 2023-03-31 |
-| [MITWA](https://open.spotify.com/track/3JYUtN0G6gTxOO6P0dzBPG) | [Rashid Khan](https://open.spotify.com/artist/1cw8NspBF8JctQm5rpn3pv), [Anuradha Juju](https://open.spotify.com/artist/6BhqYI7FqiLWOCgkMtdxXY) | [MITWA](https://open.spotify.com/album/1gw8F1qxpfV0wkcxZDIukP) | 4:02 | 2024-02-26 |  |
+| [MITWA](https://open.spotify.com/track/3JYUtN0G6gTxOO6P0dzBPG) | [Rashid Khan](https://open.spotify.com/artist/1cw8NspBF8JctQm5rpn3pv), [Anuradha Juju](https://open.spotify.com/artist/6BhqYI7FqiLWOCgkMtdxXY) | [MITWA](https://open.spotify.com/album/1gw8F1qxpfV0wkcxZDIukP) | 4:02 | 2024-02-26 | 2024-03-21 |
 | [Mohanam](https://open.spotify.com/track/3QZfNbGGwSoh6dEcJyhXAs) | [Shankar Mahadevan](https://open.spotify.com/artist/1SJOL9HJ08YOn92lFcYf8a), [Zakir Hussain](https://open.spotify.com/artist/6DDCjHWtL6jTl1B5wG8tF6), [John McLaughlin](https://open.spotify.com/artist/4v0R1feRiuCDch7aAheVhY) | [Mohanam](https://open.spotify.com/album/1piZvuK9Rmli3wiCk3VETp) | 5:59 | 2023-01-20 | 2023-10-28 |
 | [More Piya](https://open.spotify.com/track/4ezMFxUzwg5BDTBWZdZvMu) | [Devdutta Manisha Baji](https://open.spotify.com/artist/2JWAqfpZpVmQ5nfYHVFn76), [Aanandi Joshi](https://open.spotify.com/artist/7qj8b5tuzeSkb4ff01h5rJ), [Asad Khan](https://open.spotify.com/artist/39AzrdG8LxPfPzS6DtFD8Q) | [More Piya](https://open.spotify.com/album/5mILpkQZVdrUhtLFFj6gsU) | 4:18 | 2022-05-17 | 2023-09-15 |
 | [More Piya](https://open.spotify.com/track/26BbW2LGSJpGcI2uwUWf8j) | [Yugm](https://open.spotify.com/artist/43uEANXUn0eOJrYKfjq2DL) | [More Piya](https://open.spotify.com/album/6Ii2FMwdKqzhrFEONfC8w1) | 5:34 | 2023-03-22 |  |
@@ -211,6 +211,7 @@
 | [Raga Shyam Kalyan \(Feat\. Keerthan Holla, Madhusoodan Bhat, Kaushik Bhat\)](https://open.spotify.com/track/3XrktIs9yT571rKQYs7DJg) | [Keerthan Holla](https://open.spotify.com/artist/0JUE21KiqvbX8TMujY92Re), [Madhusoodan Bhat](https://open.spotify.com/artist/2jNFfClZQVti5q4mJD0CLP), [Kaushik Bhat](https://open.spotify.com/artist/3wZb1u73qOW2jUcatWkt8f) | [Namma Classical Vol 3](https://open.spotify.com/album/7y6F9TOumHwynqFGhh6CP6) | 26:00 | 2022-12-30 | 2023-05-15 |
 | [Raina Na Biti Jaye](https://open.spotify.com/track/3ojBuM4WnkEJI4hcch11qo) | [Riaan Tambat](https://open.spotify.com/artist/4tLuCIQP78tqCexwEMsgrs), [Chandana Bala Kalyan](https://open.spotify.com/artist/229U8W2owEe3012apvgbwb) | [Raina Na Biti Jaye](https://open.spotify.com/album/0GDMHtdy2vUIFlGfCH3edH) | 4:18 | 2023-12-15 |  |
 | [Raina Na Biti Jaye](https://open.spotify.com/track/6Rqt5TMC21YcmXNuhL53P2) | [Riaan Tambat](https://open.spotify.com/artist/4tLuCIQP78tqCexwEMsgrs), [Chandana Bala Kalyan](https://open.spotify.com/artist/229U8W2owEe3012apvgbwb) | [Raina Na Biti Jaye](https://open.spotify.com/album/6coCzjKmAA5piWkHWEtetv) | 4:18 | 2023-02-21 | 2024-01-04 |
+| [Rang Darungi](https://open.spotify.com/track/4MfhrarwjjfTT5MlA8tsm2) | [Pamela Jain](https://open.spotify.com/artist/4BBdp811wrWrr1zk9dENUE) | [Rang Darungi](https://open.spotify.com/album/6FY0i2rc5WRpB2z3eZDeB2) | 4:31 | 2024-03-20 |  |
 | [Ranjhnaa](https://open.spotify.com/track/3lmGH67zH9xnmppBySuC2X) | [Shlok Chiplunkar](https://open.spotify.com/artist/6nJfc8VBAp8v30xEKDZfgR), [Aishwarya Anand](https://open.spotify.com/artist/0TSQQywcuIDd2T7fQ0oJ0U), [Jatin Devna](https://open.spotify.com/artist/0U05hikmO4LkZGkg6CumRp) | [Ranjhnaa](https://open.spotify.com/album/6NMhke7C0mrHKLqYPsZmnE) | 3:32 | 2023-04-21 | 2023-05-24 |
 | [Ras Batiya](https://open.spotify.com/track/2SdZ4JbsMSdOY67T9pIjkf) | [Imran Khan Sitar](https://open.spotify.com/artist/1UrxT8kr1FXLymiN3SWpEP) | [Song Craft Season 1](https://open.spotify.com/album/6cyCyVWsO3y369yadNqbmA) | 5:04 | 2024-02-23 |  |
 | [Ras Ke Bhare](https://open.spotify.com/track/00Z4zBOh25NUzsUGffMrZS) | [Sona Mohapatra](https://open.spotify.com/artist/5bv6NvAYNuvd2Vq13nHdG3), [Sparsh Agrawal](https://open.spotify.com/artist/0HAi6wzZPabkO4T93W2b9U) | [Ras Ke Bhare](https://open.spotify.com/album/2zFQCsirZmXXl4qNNO55D9) | 3:53 | 2022-12-01 | 2024-03-09 |

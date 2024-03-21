@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX42rTd7wQPNO.md) - [plain]
 
 > put a little yee haw in your laid back
 
-[Spotify](https://open.spotify.com/user/spotify) - 117,345 likes - 113 songs - 6 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 117,706 likes - 113 songs - 6 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Fast Car](https://open.spotify.com/track/2M9ro2krNb7nr7HSprkEgo) | [Tracy Chapman](https://open.spotify.com/artist/7oPgCQqMMXEXrNau5vxYZP) | [Tracy Chapman](https://open.spotify.com/album/6hmmX5UP4rIvOpGSaPerV8) | 4:56 |
 | 2 | [Tennessee Whiskey](https://open.spotify.com/track/3fqwjXwUGN6vbzIwvyFMhx) | [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [Traveller](https://open.spotify.com/album/7lxHnls3yQNl8B9bILmHj7) | 4:53 |
-| 3 | [Deeper Well](https://open.spotify.com/track/2lJn77IeZAP9cmv6DPXOrL) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Deeper Well](https://open.spotify.com/album/2NXiMKrwmPrqU8epp20pW8) | 3:52 |
+| 3 | [Deeper Well](https://open.spotify.com/track/333XFHKsHU0pOocFzBgrJi) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Deeper Well](https://open.spotify.com/album/5SxZmGwc4eJuPp6PcO4JgJ) | 3:52 |
 | 4 | [Texas Sun](https://open.spotify.com/track/24ntSW3QVJzR79lHAAOTaY) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk), [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Texas Sun](https://open.spotify.com/album/4HFO9PDRxsdbcegkcNhxgz) | 4:12 |
 | 5 | [Malibu](https://open.spotify.com/track/1UZOjK1BwmwWU14Erba9CZ) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Younger Now](https://open.spotify.com/album/5xG9gJcs9ut3qDWezHUlsX) | 3:51 |
 | 6 | [I Remember Everything \(feat\. Kacey Musgraves\)](https://open.spotify.com/track/4KULAymBBJcPRpk1yO4dOG) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2), [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Zach Bryan](https://open.spotify.com/album/6PbnGueEO6LGodPfvNldYf) | 3:47 |
@@ -105,7 +105,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX42rTd7wQPNO.md) - [plain]
 | 95 | [Sun to Me](https://open.spotify.com/track/1SjsVdSXpwm1kTdYEHoPIT) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [American Heartbreak](https://open.spotify.com/album/7IouDrXPdAZwT1NzVV3vef) | 2:43 |
 | 96 | [Midnight](https://open.spotify.com/track/7pnVHbcqbmP7LA1ey3ydvu) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk), [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Texas Sun](https://open.spotify.com/album/4HFO9PDRxsdbcegkcNhxgz) | 5:14 |
 | 97 | [Somewhere With You](https://open.spotify.com/track/3pkzJjJXfdDjhpXx639MIH) | [Kenny Chesney](https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O) | [Hemingway's Whiskey](https://open.spotify.com/album/0EJVUQGqNRxYBBCS0OLqY7) | 4:03 |
-| 98 | [Soak Up The Sun](https://open.spotify.com/track/215JYyyUnrJ98NK3KEwu6d) | [Sheryl Crow](https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD) | [C'Mon C'Mon](https://open.spotify.com/album/5NYcTXrRZHxNyRKVOd0vs1) | 4:52 |
+| 98 | [Soak Up The Sun](https://open.spotify.com/track/215JYyyUnrJ98NK3KEwu6d) | [Sheryl Crow](https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD) | [C'Mon, C'Mon](https://open.spotify.com/album/5NYcTXrRZHxNyRKVOd0vs1) | 4:52 |
 | 99 | [All Your'n](https://open.spotify.com/track/0fCwTrRNfoNk962ati8n2K) | [Tyler Childers](https://open.spotify.com/artist/13ZEDW6vyBF12HYcZRr4EV) | [Country Squire](https://open.spotify.com/album/2T9P5dSm786uuxA5tkI1Xb) | 3:38 |
 | 100 | [Greener Pasture](https://open.spotify.com/track/3fA0FKdkPmBa62MSxwewKE) | [Carter Faith](https://open.spotify.com/artist/4X5CTYQmx1NNyz9S1IpNko) | [Greener Pasture](https://open.spotify.com/album/2ua2VjahAuE1LsjiGIQWu3) | 3:09 |
 | 101 | [Honey And The Moon](https://open.spotify.com/track/7qlfcOvjn5jjFw35y2lEWv) | [Joseph Arthur](https://open.spotify.com/artist/5aD0uh1BpYTN7AzhiSDgaO) | [Redemption's Son](https://open.spotify.com/album/37Y8k1sfSMSGnCcLhkuYcV) | 4:43 |
@@ -122,4 +122,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX42rTd7wQPNO.md) - [plain]
 | 112 | [Long Haul](https://open.spotify.com/track/7nERlpaH7QghaO7jC60Xtu) | [Ian Munsick](https://open.spotify.com/artist/7HjGPPtdNuHcK8crc7iNkn) | [Coyote Cry](https://open.spotify.com/album/5uQt9PVJIZvYjOL43EkOId) | 3:51 |
 | 113 | [Leaning On You](https://open.spotify.com/track/1BsEKaermhlrzSQpouxlmM) | [HAIM](https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE) | [Women In Music Pt\. III](https://open.spotify.com/album/396EJBtUzseofX2YCBJVvM) | 3:21 |
 
-Snapshot ID: `MCwxMWI2MmM0MDg2MTQ2ZGI2M2UxMjA5NDNiNzVhYzgzN2I4NGQ4ODI1`
+Snapshot ID: `MCw1NmY5OWIzN2QzOTMyZWVhMWRhOWNjOTI4ZThhMmIyZjBhY2M3MmNk`

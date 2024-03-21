@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1uG5byNIgDA.md) - [plain]
 
 > Everyday should be a happy day when you listen to this fun K\-Pop playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 218,913 likes - 50 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 218,909 likes - 50 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1uG5byNIgDA.md) - [plain]
 | 21 | [Cupid](https://open.spotify.com/track/5mg3VB3Qh7jcR5kAAC4DSV) | [FIFTY FIFTY](https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6) | [The Beginning: Cupid](https://open.spotify.com/album/5letLUZIFsQikJYShfGNs4) | 2:54 |
 | 22 | [Tamed\-Dashed](https://open.spotify.com/track/1zoyteFQmeUUqyOl2Xznpy) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [DIMENSION : DILEMMA](https://open.spotify.com/album/5jGRqioNCSWZGBl3QmyuFI) | 3:16 |
 | 23 | [In the morning](https://open.spotify.com/track/1Wcr8zrKqbUX0zwN8Dbr16) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [GUESS WHO](https://open.spotify.com/album/4lS8nhX8cplsYPzKjvhw6G) | 2:52 |
-| 24 | [INVU](https://open.spotify.com/track/7rXcCpIAoOUCydkVDMcoPV) | [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) | [INVU \- The 3rd Album](https://open.spotify.com/album/7i2YLTVQ0dyngRuUqtGmr9) | 3:24 |
-| 25 | [BBIBBI](https://open.spotify.com/track/4as4XEOR03oGm1STUKl6pa) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [BBIBBI](https://open.spotify.com/album/4ghBzVOTFoeKPPmyNKjVtI) | 3:14 |
+| 24 | [BBIBBI](https://open.spotify.com/track/4as4XEOR03oGm1STUKl6pa) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [BBIBBI](https://open.spotify.com/album/4ghBzVOTFoeKPPmyNKjVtI) | 3:14 |
+| 25 | [INVU](https://open.spotify.com/track/7rXcCpIAoOUCydkVDMcoPV) | [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) | [INVU \- The 3rd Album](https://open.spotify.com/album/7i2YLTVQ0dyngRuUqtGmr9) | 3:24 |
 | 26 | [Euphoria](https://open.spotify.com/track/5YMXGBD6vcYP7IolemyLtK) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Love Yourself 結 'Answer'](https://open.spotify.com/album/43wFM1HquliY3iwKWzPN4y) | 3:48 |
 | 27 | [SCIENTIST](https://open.spotify.com/track/0BJMgVrnWIvgYsjq8KaPeh) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Formula of Love: O+T=<3](https://open.spotify.com/album/5052Ip89wdW8EGdpjEpNeq) | 3:14 |
 | 28 | [She's In The Rain](https://open.spotify.com/track/5Xp6Bx4Fy8LGoTX8xzBi00) | [The Rose](https://open.spotify.com/artist/5na1LmEmK2VzNLje9snJYW) | [Dawn](https://open.spotify.com/album/1OWmGjBN7jiZK6OCgyxGTV) | 3:57 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1uG5byNIgDA.md) - [plain]
 | 49 | [See U Later](https://open.spotify.com/track/2REoTZjaB3jyAt5dgkV5GK) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [SQUARE UP](https://open.spotify.com/album/0wOiWrujRbxlKEGWRQpKYc) | 3:18 |
 | 50 | [\#menow](https://open.spotify.com/track/4lIAPwAU6R8PAy2WhykC4i) | [fromis\_9](https://open.spotify.com/artist/24nUVBIlCGi4twz4nYxJum) | [Unlock My World](https://open.spotify.com/album/48DcB4A9LV3DugLTILN1D9) | 2:49 |
 
-Snapshot ID: `MCxjNjk5OWM5NmI1ZjI0YzUyMDUxNzg5YmE4ODRkMjY4MmVjZGQzZDkw`
+Snapshot ID: `MCxjZWUzZGI3MTY2NzE2ODRlY2VlMThiMzZkOWIyOTY3ZWNkNmU4Y2Ji`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY5zqHqQrusq.md) - [plain]
 
 > Chill, take a long walk and clear your mind
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,976 likes - 50 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,982 likes - 50 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,14 +49,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY5zqHqQrusq.md) - [plain]
 | 39 | [So Tired](https://open.spotify.com/track/2qt8hSdiYKD33C7zZcrxPB) | [Janice Iche](https://open.spotify.com/artist/0WKolZ2vjyVVJtGEGNBpeJ) | [So Tired](https://open.spotify.com/album/2ZbOkKbtmqC84BC1wzxfTR) | 3:35 |
 | 40 | [Ambia](https://open.spotify.com/track/5DTLXU7HQ9PhNm6w7l8eZa) | [Billy Black](https://open.spotify.com/artist/6znLUPGYNDVG3VoMH5UXUU) | [Ambia](https://open.spotify.com/album/6Wg6JpSlFn2VdeFFQj5xzn) | 2:16 |
 | 41 | [Asali](https://open.spotify.com/track/0RDjgKJuFxZVUk93ov59o6) | [Ethan](https://open.spotify.com/artist/16VZMbA7y5gwrxNG0q3wC1), [Watendawili](https://open.spotify.com/artist/0q5lwUUiJEjoNVtHQv1jdn) | [Love Language](https://open.spotify.com/album/1vF0nqkfedSTlQrXh0Feoa) | 3:03 |
-| 42 | [Aibu](https://open.spotify.com/track/0Jq1RbXxclz844TLHUUi0E) | [Bensoul](https://open.spotify.com/artist/09vo12hHajgG2cZzq0rGmE), [Bien](https://open.spotify.com/artist/2zhossaaVN2pXg5p8o101X) | [Aibu](https://open.spotify.com/album/0Y0he9QG0p0jFWcM9ZahzC) | 2:17 |
+| 42 | [Aibu \(feat\. Bien\)](https://open.spotify.com/track/1cBRn1Gp5RbFi4sVDN3v1A) | [Bensoul](https://open.spotify.com/artist/09vo12hHajgG2cZzq0rGmE), [Bien](https://open.spotify.com/artist/2zhossaaVN2pXg5p8o101X) | [Aibu \(feat\. Bien\)](https://open.spotify.com/album/6W4ZbKDYOh7ZPB4KGm5iZ0) | 2:17 |
 | 43 | [The Oasis on Mbaazi Street](https://open.spotify.com/track/7oqKrDdrY5BvaNOTJ0wO7l) | [Lisa Oduor\-Noah](https://open.spotify.com/artist/2lzhfTv334wDq7W7tFyJHa) | [Lisa Oduor Noah](https://open.spotify.com/album/1j6atBlfWPYRhbhkOsKr0V) | 2:53 |
-| 44 | [Mae Wendi](https://open.spotify.com/track/6YPaq5MbxQDKxnODtg4CKy) | [Nviiri The Storyteller](https://open.spotify.com/artist/7xPDTxQrpZPvvI0LzuO73p) | [Kitenge](https://open.spotify.com/album/0s9GBxIYoI56h8XlNbY4ke) | 3:43 |
-| 45 | [Sugar Rush](https://open.spotify.com/track/5v8bHru9HBHysftNF2orLb) | [Bensoul](https://open.spotify.com/artist/09vo12hHajgG2cZzq0rGmE) | [Medicine](https://open.spotify.com/album/4URmrv5RB7dI5VKHiCI0FV) | 3:49 |
+| 44 | [Mae Wendi](https://open.spotify.com/track/4hbmPkeauQBw3RnxH45udP) | [Nviiri The Storyteller](https://open.spotify.com/artist/7xPDTxQrpZPvvI0LzuO73p) | [Kitenge](https://open.spotify.com/album/68ZCghHJcYTcaQ7vuxxFyP) | 3:43 |
+| 45 | [Sugar Rush](https://open.spotify.com/track/3JJ6IAPfrrJPV2fOGQZYGl) | [Bensoul](https://open.spotify.com/artist/09vo12hHajgG2cZzq0rGmE) | [Medicine](https://open.spotify.com/album/1UqJeAHLAQh2g5M8QCdei5) | 3:49 |
 | 46 | [Purple](https://open.spotify.com/track/2smULwfhqWK1ovV6SmzwVa) | [KALI](https://open.spotify.com/artist/5uzHXxPGMAnDqKnBLLO0AI) | [Different Definitions of Love: Part 1](https://open.spotify.com/album/3xBNNkmdc2ioXJk8mfyZSS) | 3:23 |
 | 47 | [Njia Moja](https://open.spotify.com/track/0G1vjYaNDUtntJF0hCq5YL) | [Rafiiki](https://open.spotify.com/artist/3RQugbKSKDSg8oHS1MdMXn) | [Njia Moja](https://open.spotify.com/album/0DhkCfovACaJcz26OjNtwp) | 3:32 |
 | 48 | [Lock me](https://open.spotify.com/track/69Pv8rfP3biRUE6HZvy4A4) | [X.O](https://open.spotify.com/artist/2zu7sut23i4vR8OZPAxWyJ) | [Lock me](https://open.spotify.com/album/4xPEootVjy1AmsVr6vYZkL) | 2:56 |
 | 49 | [Moonlight](https://open.spotify.com/track/3o89M98TILkeQHc6ZqJ934) | [Jinku](https://open.spotify.com/artist/3gkk18CqFxsmkZkGyYZKqo), [See Through Solomon](https://open.spotify.com/artist/5ViXrpkJCiKJxiv4rfd4r7), [KHAN KHALII](https://open.spotify.com/artist/4mBzJ4dZWEdhB7BK3OBqIN) | [Moonlight](https://open.spotify.com/album/3ngn7z6qYJxVIsUu9PgPiE) | 2:55 |
 | 50 | [Home](https://open.spotify.com/track/10xrx94SPkwD7Kf3ynXCED) | [Amara Tari](https://open.spotify.com/artist/03cHERVYQ8yOTu6Pu4DCxd), [Colossal Music](https://open.spotify.com/artist/6jlzMtFLWK4oUNyAeYu520) | [Home](https://open.spotify.com/album/2Xt2Uq1c96N7rRKfmWQPNW) | 4:12 |
 
-Snapshot ID: `MCw5YTUwODkxNmE2YTdjZDM5NWViNjliMDkwNWJhMTM5MWU4MGVjYzAz`
+Snapshot ID: `MCxlNmJkY2Y0MmMxODhkOGFmMGI4ZTIyNmNhYTkyZWZiMzJiOTBlMWU4`

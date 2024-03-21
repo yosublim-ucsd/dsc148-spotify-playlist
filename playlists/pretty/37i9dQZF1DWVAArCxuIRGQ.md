@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVAArCxuIRGQ.md) - [plain]
 
 > A sizzling hot soundtrack for your sunshine social.
 
-[Spotify](https://open.spotify.com/user/spotify) - 632,235 likes - 75 songs - 4 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 632,222 likes - 75 songs - 4 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,8 +19,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVAArCxuIRGQ.md) - [plain]
 | 9 | [Walking On Sunshine](https://open.spotify.com/track/05wIrZSwuaVWhcv5FfqeH0) | [Katrina & The Waves](https://open.spotify.com/artist/2TzHIUhVpeeDxyJPpQfnV3) | [Katrina & The Waves](https://open.spotify.com/album/1UQG78YJjaBySRMh0A8Uw7) | 3:58 |
 | 10 | [Stuck In The Middle With You](https://open.spotify.com/track/3Vby4nGmtbDo7HDJamOWkT) | [Stealers Wheel](https://open.spotify.com/artist/7bPU7cvfoD20ixGD9Qnqki) | [Stealers Wheel](https://open.spotify.com/album/5ApN9lqru1t3Xh1IaEGTll) | 3:28 |
 | 11 | [This Girl \(Kungs Vs\. Cookin' On 3 Burners\)](https://open.spotify.com/track/1A8j067qyiNwQnZT0bzUpZ) | [Kungs](https://open.spotify.com/artist/7keGfmQR4X5w0two1xKZ7d), [Cookin' On 3 Burners](https://open.spotify.com/artist/726MxZBpkxnnoKl6aN7mmj) | [Layers](https://open.spotify.com/album/66KCBRiOFSs9bki2A15WlB) | 3:15 |
-| 12 | [Lovely Day](https://open.spotify.com/track/0bRXwKfigvpKZUurwqAlEh) | [Bill Withers](https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj) | [Menagerie](https://open.spotify.com/album/3QjPTUI6UcPr5m9RujkO3c) | 4:14 |
-| 13 | [I Want You Back](https://open.spotify.com/track/5LxvwujISqiB8vpRYv887S) | [The Jackson 5](https://open.spotify.com/artist/2iE18Oxc8YSumAU232n4rW) | [Diana Ross Presents The Jackson 5](https://open.spotify.com/album/51uoKRa8vT5SULrlF8s2t1) | 2:56 |
+| 12 | [I Want You Back](https://open.spotify.com/track/5LxvwujISqiB8vpRYv887S) | [The Jackson 5](https://open.spotify.com/artist/2iE18Oxc8YSumAU232n4rW) | [Diana Ross Presents The Jackson 5](https://open.spotify.com/album/51uoKRa8vT5SULrlF8s2t1) | 2:56 |
+| 13 | [Lovely Day](https://open.spotify.com/track/0bRXwKfigvpKZUurwqAlEh) | [Bill Withers](https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj) | [Menagerie](https://open.spotify.com/album/3QjPTUI6UcPr5m9RujkO3c) | 4:14 |
 | 14 | [No Diggity](https://open.spotify.com/track/6MdqqkQ8sSC0WB4i8PyRuQ) | [Blackstreet](https://open.spotify.com/artist/2P3cjUru4H3fhSXXNxE9kA), [Dr\. Dre](https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7), [Queen Pen](https://open.spotify.com/artist/0VbIlorLz3I5SEtIsc5vAr) | [Another Level](https://open.spotify.com/album/2zGZLQiFl9UubtrVmtIkbi) | 5:04 |
 | 15 | [Jamming](https://open.spotify.com/track/3GIChxHmuLmBm5PTNZGDtj) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Exodus](https://open.spotify.com/album/655KljKIXl42fiNDMKivbY) | 3:31 |
 | 16 | [Am I Wrong](https://open.spotify.com/track/1fidCEsYlaVE3pHwKCvpFZ) | [Nico & Vinz](https://open.spotify.com/artist/0awl5piYwO0CDTHEkCjUhn) | [Black Star Elephant](https://open.spotify.com/album/6zXb9FQMzawvY2Au8Kxky3) | 4:05 |
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVAArCxuIRGQ.md) - [plain]
 | 39 | [Good Vibrations \- Remastered 2001](https://open.spotify.com/track/5t9KYe0Fhd5cW6UYT4qP8f) | [The Beach Boys](https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV) | [Smiley Smile \(Remastered\)](https://open.spotify.com/album/37rNuexqEXWeSIOiJtn3A9) | 3:39 |
 | 40 | [Miami](https://open.spotify.com/track/6e8Ou0wiqAzIpWb2eSxll8) | [Will Smith](https://open.spotify.com/artist/41qil2VaGbD194gaEcmmyx) | [Big Willie Style](https://open.spotify.com/album/2esWeP8Ln1sXA0jbDmi3Zq) | 3:17 |
 | 41 | [Murder She Wrote](https://open.spotify.com/track/1HGyhNaRUFEDBiVLbvtbL6) | [Chaka Demus & Pliers](https://open.spotify.com/artist/6RQkaOWddQmiLLJqSgnTbm) | [Tease Me](https://open.spotify.com/album/6GTzBIyPe32G2mXBaYSqYY) | 4:05 |
-| 42 | [Me and Julio Down by the Schoolyard](https://open.spotify.com/track/6vxHp3CDNo0afgKGp2yi1E) | [Paul Simon](https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI) | [Paul Simon](https://open.spotify.com/album/7npBPiCHjPj8PVIGPuHXep) | 2:44 |
-| 43 | [Low Rider](https://open.spotify.com/track/7Bz8yww6UMbTgTVLG6zbI4) | [War](https://open.spotify.com/artist/3ICyfoySNDZqtBVmaBT84I) | [Why Can't We Be Friends?](https://open.spotify.com/album/59euB5Ns7yGbS06OYHwxRN) | 3:10 |
+| 42 | [Low Rider](https://open.spotify.com/track/7Bz8yww6UMbTgTVLG6zbI4) | [War](https://open.spotify.com/artist/3ICyfoySNDZqtBVmaBT84I) | [Why Can't We Be Friends?](https://open.spotify.com/album/59euB5Ns7yGbS06OYHwxRN) | 3:10 |
+| 43 | [Me and Julio Down by the Schoolyard](https://open.spotify.com/track/6vxHp3CDNo0afgKGp2yi1E) | [Paul Simon](https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI) | [Paul Simon](https://open.spotify.com/album/7npBPiCHjPj8PVIGPuHXep) | 2:44 |
 | 44 | [Groove Is in the Heart](https://open.spotify.com/track/2He3NOyqtLNE3RQPpeDdSb) | [Deee\-Lite](https://open.spotify.com/artist/4eQJIXFEujzhTVVS1gIfu5) | [World Clique](https://open.spotify.com/album/4sTAgYLZy5zwqR3kT1g0oh) | 3:51 |
 | 45 | [Bam Bam](https://open.spotify.com/track/7ixiCZEHWHc8FxaQXQh2P4) | [Sister Nancy](https://open.spotify.com/artist/21pMSs2JHWwwy2kp1QIIVB) | [One Two](https://open.spotify.com/album/3Il1CWXA64e8gukuJZoj0e) | 3:16 |
 | 46 | [Hypnotize \- 2007 Remaster](https://open.spotify.com/track/6Tsu3OsuMz4KEGKbOYd6A0) | [The Notorious B.I.G.](https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb) | [Greatest Hits](https://open.spotify.com/album/5XqEf16OrHdmMoNS1b6WDg) | 3:50 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVAArCxuIRGQ.md) - [plain]
 | 74 | [Everyday People](https://open.spotify.com/track/4ZVZBc5xvMyV3WzWktn8i7) | [Sly & The Family Stone](https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD) | [Stand](https://open.spotify.com/album/7iwS1r6JHYJe9xpPjzmWqD) | 2:21 |
 | 75 | [Pass The Dutchie](https://open.spotify.com/track/4qsHN0A1uiS4stUbDjlUbe) | [Musical Youth](https://open.spotify.com/artist/2CuzDPkRD6BJBvdWqCrt2I) | [The Youth Of Today](https://open.spotify.com/album/2fzSaL01wmGVH2W1moTcCs) | 3:24 |
 
-Snapshot ID: `MCw3ZDNmM2YxZTViNjNlZGUwYTNhNTMzMmM0MWUyZWY3MjU3NDU3YTI1`
+Snapshot ID: `MCxkMjQyOTQyNDljNTRkMzRkYmE3ODM3OGUyYTE5M2E3NWRkMzg4MWQ4`

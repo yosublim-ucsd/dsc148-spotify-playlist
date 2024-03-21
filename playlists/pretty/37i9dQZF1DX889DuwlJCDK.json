@@ -1,18 +1,18 @@
 {
   "description": "\u65b0\u9032\u6c17\u92ed\u306e\u90a6\u30ed\u30c3\u30af\u30b5\u30a6\u30f3\u30c9\u3092\u3072\u3068\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u306b\u3002Cover: \u30ea\u30e5\u30c3\u30af\u3068\u6dfb\u3044\u5bdd\u3054\u306f\u3093",
-  "num_followers": 12494,
+  "num_followers": 12509,
   "original_name": "\u9752\u6625\u3068\u4e00\u77ac",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0MGY0YTczMzljYTIzNGM4M2UzM2MwOGYwMTk1MTM0ZGVlMmU3ZGZj",
+  "snapshot_id": "MCw1YTlhN2YzN2FlMTFlYzI2N2VjZWJlOTU4Y2NmOTU2NTVhOTg5NjQ5",
   "tracks": [
     {
       "added_at": "2024-03-19 17:17:21",
       "album": {
         "name": "Terminal",
-        "url": "https://open.spotify.com/album/3jkN1x44uOSBYsg5JbLTUa"
+        "url": "https://open.spotify.com/album/2eYXYU8WPrnucyQsfAqpgr"
       },
       "artists": [
         {
@@ -22,7 +22,7 @@
       ],
       "duration_ms": 278733,
       "name": "long good-bye",
-      "url": "https://open.spotify.com/track/1bmg5GeIX2HhOOB1TrzWKF"
+      "url": "https://open.spotify.com/track/4SahYiM0uX40YnDt5jTLDZ"
     },
     {
       "added_at": "2024-03-19 17:17:21",
@@ -91,8 +91,8 @@
     {
       "added_at": "2024-03-19 17:17:21",
       "album": {
-        "name": "\u4e0d\u5b8c\u30ed\u30de\u30f3\u30b9",
-        "url": "https://open.spotify.com/album/3cDwYqsC8SXdDQ6zeFvAd0"
+        "name": "Fukan Romance",
+        "url": "https://open.spotify.com/album/4BZryJ7vxw9BkS1lIfwXZy"
       },
       "artists": [
         {
@@ -101,8 +101,8 @@
         }
       ],
       "duration_ms": 210602,
-      "name": "\u4e0d\u5b8c\u30ed\u30de\u30f3\u30b9",
-      "url": "https://open.spotify.com/track/6GeiPhDFSxzta6J1YCjaIB"
+      "name": "Fukan Romance",
+      "url": "https://open.spotify.com/track/4qUBjqmstuHK8DfdfKpkWk"
     },
     {
       "added_at": "2024-03-19 17:17:21",
@@ -219,8 +219,8 @@
     {
       "added_at": "2024-03-19 17:17:21",
       "album": {
-        "name": "bouquet",
-        "url": "https://open.spotify.com/album/5orOfKlTjdQExk741M0MKb"
+        "name": "Bouquet",
+        "url": "https://open.spotify.com/album/5LwY4RUulbgXXYcrptzNBn"
       },
       "artists": [
         {
@@ -229,8 +229,8 @@
         }
       ],
       "duration_ms": 235885,
-      "name": "\u30d7\u30e9\u30cd\u30bf\u30ea\u30a6\u30e0",
-      "url": "https://open.spotify.com/track/115wUJPzuzOPybG6iMYxJZ"
+      "name": "Planetarium",
+      "url": "https://open.spotify.com/track/3gzZcJWNg8b6tXTEyGUkhG"
     },
     {
       "added_at": "2024-03-19 17:17:21",
@@ -252,7 +252,7 @@
       "added_at": "2024-03-19 17:17:21",
       "album": {
         "name": "DUNE",
-        "url": "https://open.spotify.com/album/1RjdQlC4Cj2w6awwm17t2Y"
+        "url": "https://open.spotify.com/album/6ZK3tzbIjcVkdWqBNYMdmv"
       },
       "artists": [
         {
@@ -262,7 +262,7 @@
       ],
       "duration_ms": 266428,
       "name": "DUNE",
-      "url": "https://open.spotify.com/track/6XFstFaEHAF4nq7B1NYy0o"
+      "url": "https://open.spotify.com/track/1w3YQYNtn2SsJuhkQlDFcz"
     },
     {
       "added_at": "2024-03-19 17:17:21",
@@ -1323,6 +1323,22 @@
     {
       "added_at": "2024-03-19 17:17:21",
       "album": {
+        "name": "\u559c\u6012\u54c0\u697d",
+        "url": "https://open.spotify.com/album/7oXS72ywdPr7Vgs1ZrRWuq"
+      },
+      "artists": [
+        {
+          "name": "\u30c8\u30f3\u30dc\u30b3\u30fc\u30d7",
+          "url": "https://open.spotify.com/artist/1UzaXdXRtXgtPrdjzW5Og3"
+        }
+      ],
+      "duration_ms": 277800,
+      "name": "\u559c\u6012\u54c0\u697d",
+      "url": "https://open.spotify.com/track/3jRp2IETgPfv44mIUUEiKf"
+    },
+    {
+      "added_at": "2024-03-19 17:17:21",
+      "album": {
         "name": "Shake",
         "url": "https://open.spotify.com/album/1SfH4Io6Q518rAV3rmqoU1"
       },
@@ -1335,22 +1351,6 @@
       "duration_ms": 239970,
       "name": "Shake",
       "url": "https://open.spotify.com/track/10sPBoUKctG07bmRmhgcr6"
-    },
-    {
-      "added_at": "2024-03-19 17:17:21",
-      "album": {
-        "name": "\u30c0\u30f3\u30b9\u30fb\u30c7\u30ab\u30c0\u30f3\u30b9",
-        "url": "https://open.spotify.com/album/3h5YMuHYruQ5w2t1KYhE37"
-      },
-      "artists": [
-        {
-          "name": "Chevon",
-          "url": "https://open.spotify.com/artist/5eOzdoFyAe6ugv5bhf1wQr"
-        }
-      ],
-      "duration_ms": 194813,
-      "name": "\u30c0\u30f3\u30b9\u30fb\u30c7\u30ab\u30c0\u30f3\u30b9",
-      "url": "https://open.spotify.com/track/3MuPlYnGnFXvQEeBvMy365"
     },
     {
       "added_at": "2024-03-19 17:17:21",
@@ -1387,18 +1387,18 @@
     {
       "added_at": "2024-03-19 17:17:21",
       "album": {
-        "name": "\u559c\u6012\u54c0\u697d",
-        "url": "https://open.spotify.com/album/7oXS72ywdPr7Vgs1ZrRWuq"
+        "name": "\u30c0\u30f3\u30b9\u30fb\u30c7\u30ab\u30c0\u30f3\u30b9",
+        "url": "https://open.spotify.com/album/3h5YMuHYruQ5w2t1KYhE37"
       },
       "artists": [
         {
-          "name": "\u30c8\u30f3\u30dc\u30b3\u30fc\u30d7",
-          "url": "https://open.spotify.com/artist/1UzaXdXRtXgtPrdjzW5Og3"
+          "name": "Chevon",
+          "url": "https://open.spotify.com/artist/5eOzdoFyAe6ugv5bhf1wQr"
         }
       ],
-      "duration_ms": 277800,
-      "name": "\u559c\u6012\u54c0\u697d",
-      "url": "https://open.spotify.com/track/3jRp2IETgPfv44mIUUEiKf"
+      "duration_ms": 194813,
+      "name": "\u30c0\u30f3\u30b9\u30fb\u30c7\u30ab\u30c0\u30f3\u30b9",
+      "url": "https://open.spotify.com/track/3MuPlYnGnFXvQEeBvMy365"
     },
     {
       "added_at": "2024-03-19 17:17:21",
@@ -1451,22 +1451,6 @@
     {
       "added_at": "2024-03-19 17:17:21",
       "album": {
-        "name": "50%",
-        "url": "https://open.spotify.com/album/7CusFsKBwVfBIUKN1dZsni"
-      },
-      "artists": [
-        {
-          "name": "35.7",
-          "url": "https://open.spotify.com/artist/0r2fuN8lNQF4p6KRgxCVnP"
-        }
-      ],
-      "duration_ms": 246666,
-      "name": "50%",
-      "url": "https://open.spotify.com/track/5RtvjcgyI2NfATzDmExssD"
-    },
-    {
-      "added_at": "2024-03-19 17:17:21",
-      "album": {
         "name": "\u7fbd\u5316",
         "url": "https://open.spotify.com/album/2AbNjfO01Yyyeew0oYsHNR"
       },
@@ -1479,6 +1463,22 @@
       "duration_ms": 145500,
       "name": "\u904e\u547c\u5438\u611b",
       "url": "https://open.spotify.com/track/2JPnyNJbfwBac5ij3jHaj2"
+    },
+    {
+      "added_at": "2024-03-19 17:17:21",
+      "album": {
+        "name": "50%",
+        "url": "https://open.spotify.com/album/7CusFsKBwVfBIUKN1dZsni"
+      },
+      "artists": [
+        {
+          "name": "35.7",
+          "url": "https://open.spotify.com/artist/0r2fuN8lNQF4p6KRgxCVnP"
+        }
+      ],
+      "duration_ms": 246666,
+      "name": "50%",
+      "url": "https://open.spotify.com/track/5RtvjcgyI2NfATzDmExssD"
     },
     {
       "added_at": "2024-03-19 17:17:21",
@@ -1595,18 +1595,18 @@
     {
       "added_at": "2024-03-19 17:17:21",
       "album": {
-        "name": "\u30b0\u30fc",
-        "url": "https://open.spotify.com/album/7bJTY9YcJUryx9FOk1TT9U"
+        "name": "\u30d0\u30c3\u30c9\u30ea\u30d4\u30fc\u30c8\u30a8\u30f3\u30c9",
+        "url": "https://open.spotify.com/album/2PflW869EJaNYuPaHgK6gq"
       },
       "artists": [
         {
-          "name": "Humbreaders",
-          "url": "https://open.spotify.com/artist/32k7rSC70F3C7qif9Pgavi"
+          "name": "35.7",
+          "url": "https://open.spotify.com/artist/0r2fuN8lNQF4p6KRgxCVnP"
         }
       ],
-      "duration_ms": 235761,
-      "name": "\u30b0\u30fc",
-      "url": "https://open.spotify.com/track/1NVlQpepRIU5itGF4r5Yv8"
+      "duration_ms": 197604,
+      "name": "\u30d0\u30c3\u30c9\u30ea\u30d4\u30fc\u30c8\u30a8\u30f3\u30c9",
+      "url": "https://open.spotify.com/track/0647L6JfnQWufikSR6AabW"
     }
   ],
   "unique_name": "\u9752\u6625\u3068\u4e00\u77ac",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcQRnVXaCXYk.md) - [plain]
 
 > Neem plaats in je eigen Pop Lounge, thuis, onderweg of op het werk.
 
-[Spotify](https://open.spotify.com/user/spotify) - 44,124 likes - 70 songs - 3 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 44,128 likes - 70 songs - 3 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcQRnVXaCXYk.md) - [plain]
 | 38 | [Paint My Bedroom Black](https://open.spotify.com/track/3gA9Y5RsXBUKkr1IP6v4g3) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [Paint My Bedroom Black](https://open.spotify.com/album/7xpV6gsna8TzskCRjmSxLE) | 3:49 |
 | 39 | [Little Did I Know](https://open.spotify.com/track/4hkSiyO1zy1scfc4HWMGR4) | [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [Not In Chronological Order](https://open.spotify.com/album/59Zhv6U3Zge8ZFdBvkSpcI) | 3:16 |
 | 40 | [when words fail](https://open.spotify.com/track/0gxdJ21QgsITEllamSwEXA) | [Lara Samira](https://open.spotify.com/artist/6bzG909aYBHPSo8DVqvJK3) | [when words fail](https://open.spotify.com/album/2NU3pJ1McxMPwuVL2udxWU) | 2:56 |
-| 41 | [30](https://open.spotify.com/track/6xUlSA4dVkxCeSOb2GeYIt) | [Richard Cejer](https://open.spotify.com/artist/2s1dVWuPyOdBkHOFU59v14), [m\. demian](https://open.spotify.com/artist/70p3C65pwNTbiyKUAJ4EAo) | [30](https://open.spotify.com/album/1gpYbPQu0GEuvimuN4guEn) | 4:03 |
-| 42 | [Lifetime](https://open.spotify.com/track/4bmRJGOIegqYIBQrOga05Q) | [SG Lewis](https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG) | [Lifetime](https://open.spotify.com/album/6VBb4fvOomicHpUsSoi5fR) | 4:46 |
+| 41 | [Lifetime](https://open.spotify.com/track/4bmRJGOIegqYIBQrOga05Q) | [SG Lewis](https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG) | [Lifetime](https://open.spotify.com/album/6VBb4fvOomicHpUsSoi5fR) | 4:46 |
+| 42 | [30](https://open.spotify.com/track/6xUlSA4dVkxCeSOb2GeYIt) | [Richard Cejer](https://open.spotify.com/artist/2s1dVWuPyOdBkHOFU59v14), [m\. demian](https://open.spotify.com/artist/70p3C65pwNTbiyKUAJ4EAo) | [30](https://open.spotify.com/album/1gpYbPQu0GEuvimuN4guEn) | 4:03 |
 | 43 | [Kite in a Hurricane](https://open.spotify.com/track/07zuDFfCjjxjr6xve7rKDI) | [HAEVN](https://open.spotify.com/artist/65Tmt9uAPTYGl1ZhsOeEJ6) | [Holy Ground](https://open.spotify.com/album/0Hq69eXXaoGvrVUSOLJrPb) | 3:19 |
 | 44 | [Whirlwind](https://open.spotify.com/track/4FdlrVG63Nsx9I7dBtsh6J) | [Sam Ryder](https://open.spotify.com/artist/1rvnJJghrxl1xakJZct08m) | [Whirlwind](https://open.spotify.com/album/419Peyo7a60OWSj0M03YQY) | 3:28 |
 | 45 | [Sometimes… \(with Daya & Earthgang\)](https://open.spotify.com/track/09MduMD14OZjmAxd6u1Qfi) | [Snakehips](https://open.spotify.com/artist/2FwJwEswyIUAljqgjNSHgP), [Daya](https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH), [EARTHGANG](https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V) | [never worry](https://open.spotify.com/album/1ZXC6ylnVeo9H0jAu5ri4r) | 3:42 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcQRnVXaCXYk.md) - [plain]
 | 69 | [good](https://open.spotify.com/track/6kuR6cGKmGoplhELslv6Fw) | [Wrabel](https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII) | [these words are all for you](https://open.spotify.com/album/2N9lFXoevPmnTNr8KhK5PS) | 3:28 |
 | 70 | [Next To You](https://open.spotify.com/track/3UZqOA4wSDFnauAP63sRZO) | [Wild Youth](https://open.spotify.com/artist/4wZxKygv7GA7oGYzk6bpid) | [Next To You](https://open.spotify.com/album/4Y9sJ6dLSRR8EQHn6mXPDA) | 2:59 |
 
-Snapshot ID: `MCwxNjE0ZWNhM2JmNmYyZWQ2NDg2NTdjMWFkOTMzMmVlZGQ5ZjlkYWYw`
+Snapshot ID: `MCxmY2NkZDZhN2EzZmQzYTQ2NDUzZjgyODQxMzJlOTdlMDY0YTI2NjY2`

@@ -4,7 +4,7 @@
 
 > The most intense local drill music firing up the continent\. Cover:  Beeztrap KOTM
 
-157 songs - 7 hr 59 min
+158 songs - 8 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,7 +29,8 @@
 | [ANADWO](https://open.spotify.com/track/5w7jfLrHkTNPT0X8WqvD39) | [Kwame Yesu](https://open.spotify.com/artist/2Wj6QDzfwiv0Px83nDFTRf), [Black Sherif](https://open.spotify.com/artist/7vUqrkIW1S62gRXf3lGhdc), [Kimilist](https://open.spotify.com/artist/2o0JWJBhIb9uopM3YEecpP) | [ANADWO](https://open.spotify.com/album/7MzcMtFt7MIxdGNdEKA2Bw) | 2:43 | 2022-06-09 | 2022-12-25 |
 | [ANADWO](https://open.spotify.com/track/0yJwoXiQgvWGRI0zC4fBkc) | [Kwame Yesu](https://open.spotify.com/artist/2Wj6QDzfwiv0Px83nDFTRf), [Black Sheriff](https://open.spotify.com/artist/1zNmTgU8HEjyvdD1UDpOi9), [Kimilist](https://open.spotify.com/artist/2o0JWJBhIb9uopM3YEecpP) | [ANADWO](https://open.spotify.com/album/1zBWBi9V1zJ1wU6yKCMC8b) | 2:43 | 2022-11-04 |  |
 | [Anadwo](https://open.spotify.com/track/5yqluqBQfM3QyBYy42kXT4) | [Xnaiq](https://open.spotify.com/artist/4lCUv4U30YkkIAmVPfcTXR), [Jay Bahd](https://open.spotify.com/artist/0Q7yvULFrthrEzwtn5hRcw), [Sammy Black](https://open.spotify.com/artist/0ul8oqTNdGYbWRpbxBXgjs), [Braabenk](https://open.spotify.com/artist/0TUUFSxsiNUDliSybMOI7I) | [Anadwo](https://open.spotify.com/album/1Y2DCQ9x2wVGYwjy7MkwGp) | 4:21 | 2022-09-19 | 2022-11-05 |
-| [Asakaa](https://open.spotify.com/track/3XxJT2dwsorTsI1rBZ0fy0) | [Kweku Smoke](https://open.spotify.com/artist/7AP5AMBQvTzTBB7IUSVLzO), [Hordzi](https://open.spotify.com/artist/4kxmAzzMfSOiZZlb9517Ot) | [Eye Red](https://open.spotify.com/album/43AXknA94hSHEdLYRJYmNc) | 2:46 | 2022-12-08 |  |
+| [Asakaa](https://open.spotify.com/track/3XxJT2dwsorTsI1rBZ0fy0) | [Kweku Smoke](https://open.spotify.com/artist/7AP5AMBQvTzTBB7IUSVLzO), [Hordzi](https://open.spotify.com/artist/4kxmAzzMfSOiZZlb9517Ot) | [Eye Red](https://open.spotify.com/album/43AXknA94hSHEdLYRJYmNc) | 2:46 | 2022-12-08 | 2024-03-21 |
+| [Asakaa](https://open.spotify.com/track/3nV1r3UjnHn0X7fyoqIRwi) | [Kweku Smoke](https://open.spotify.com/artist/7AP5AMBQvTzTBB7IUSVLzO), [Hordzi](https://open.spotify.com/artist/4kxmAzzMfSOiZZlb9517Ot) | [Eye Red](https://open.spotify.com/album/5Vf5qrT7sHWM1SkCsH4g84) | 2:46 | 2024-03-15 |  |
 | [Asamando](https://open.spotify.com/track/6UlH5Nx7C3rpvTvNr0QUgU) | [Kawabanga](https://open.spotify.com/artist/5VcDYvRgsmMRpklUZarFEh), [Ink Boy](https://open.spotify.com/artist/5h08861M7tKrIOmO3aZnCt), [Blvck Jezuz](https://open.spotify.com/artist/3zoHfYJnBN0au3YeRQci5a) | [Asamando](https://open.spotify.com/album/2wqWOTyzaHP4ZmwlygXt0w) | 3:37 | 2023-12-08 | 2024-01-19 |
 | [Aso\)den](https://open.spotify.com/track/7oqQRSdepSrX1z0YmMA6Ky) | [Yaw Tog](https://open.spotify.com/artist/2Dqt6WjEca8WcZuGiUcYDd) | [Aso\)den](https://open.spotify.com/album/55WQAIPqeYwBSrutMaXiRK) | 3:15 | 2022-11-04 | 2023-01-28 |
 | [Awoyo Sofo](https://open.spotify.com/track/0AYl4k8cN3YXxVb88azE9K) | [Kwaw Kese](https://open.spotify.com/artist/5orboL2SUTJGDKfMVgCCBt), [Kofi Mole](https://open.spotify.com/artist/7zB3I7PBh39rcwg2haB5Ac) | [Awoyo Sofo](https://open.spotify.com/album/0GvruFtY50oHOTlsixNnah) | 3:15 | 2024-02-23 |  |

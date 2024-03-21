@@ -1,12 +1,12 @@
 {
   "description": "Warm indie dance vibes, the music you need at golden hour.",
-  "num_followers": 516053,
+  "num_followers": 516225,
   "original_name": "golden hour",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4ZjFhZTljYjFmYWJmM2I4NDkyMjNmMDRmMjNmNTc1NDlhY2MxYWIx",
+  "snapshot_id": "MCxmYzYwODkyYjVhY2NkOTA0OGM4ZWE1MWY5NzViMzUwODg3ZDQ2N2Uy",
   "tracks": [
     {
       "added_at": "2024-03-15 14:06:44",
@@ -1263,22 +1263,6 @@
     {
       "added_at": "2024-03-15 14:06:44",
       "album": {
-        "name": "Together Forever",
-        "url": "https://open.spotify.com/album/4DR3YxUK7YUuPuLBfYrQX7"
-      },
-      "artists": [
-        {
-          "name": "STRFKR",
-          "url": "https://open.spotify.com/artist/2Tz1DTzVJ5Gyh8ZwVr6ekU"
-        }
-      ],
-      "duration_ms": 277561,
-      "name": "Together Forever",
-      "url": "https://open.spotify.com/track/4NvAaATU1bX5ITqGBIxB5b"
-    },
-    {
-      "added_at": "2024-03-15 14:06:44",
-      "album": {
         "name": "MOVIES! WORLDWIDE: PART I",
         "url": "https://open.spotify.com/album/7hXTfD7rkqM78jsnBMT0md"
       },
@@ -1311,6 +1295,22 @@
       "duration_ms": 265758,
       "name": "We Stayed Up All Night",
       "url": "https://open.spotify.com/track/4Tq3QocH9Okvn4wDgTlkR5"
+    },
+    {
+      "added_at": "2024-03-15 14:06:44",
+      "album": {
+        "name": "Together Forever",
+        "url": "https://open.spotify.com/album/4DR3YxUK7YUuPuLBfYrQX7"
+      },
+      "artists": [
+        {
+          "name": "STRFKR",
+          "url": "https://open.spotify.com/artist/2Tz1DTzVJ5Gyh8ZwVr6ekU"
+        }
+      ],
+      "duration_ms": 277561,
+      "name": "Together Forever",
+      "url": "https://open.spotify.com/track/4NvAaATU1bX5ITqGBIxB5b"
     },
     {
       "added_at": "2024-03-15 14:06:44",
@@ -1403,22 +1403,22 @@
     {
       "added_at": "2024-03-15 14:06:44",
       "album": {
-        "name": "Love Will Save Me",
-        "url": "https://open.spotify.com/album/2QNFtpX9BzNTrzRF0A4tbe"
+        "name": "In Colour",
+        "url": "https://open.spotify.com/album/04Duapg2mNlVykd895xcfZ"
       },
       "artists": [
         {
-          "name": "WhoMadeWho",
-          "url": "https://open.spotify.com/artist/50Lr1puweM1hFsF1LpIZLM"
+          "name": "Jamie xx",
+          "url": "https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ"
         },
         {
-          "name": "RY X",
-          "url": "https://open.spotify.com/artist/2KjAo6wVc9d2WcxdxSArpV"
+          "name": "Romy",
+          "url": "https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb"
         }
       ],
-      "duration_ms": 277561,
-      "name": "Love Will Save Me",
-      "url": "https://open.spotify.com/track/2YjXImhg2zXDmWcVy1oSDw"
+      "duration_ms": 283066,
+      "name": "Loud Places",
+      "url": "https://open.spotify.com/track/7lPgKA5mLFNmGPMdb07OlM"
     },
     {
       "added_at": "2024-03-15 14:06:44",
@@ -1443,22 +1443,22 @@
     {
       "added_at": "2024-03-15 14:06:44",
       "album": {
-        "name": "In Colour",
-        "url": "https://open.spotify.com/album/04Duapg2mNlVykd895xcfZ"
+        "name": "Love Will Save Me",
+        "url": "https://open.spotify.com/album/2QNFtpX9BzNTrzRF0A4tbe"
       },
       "artists": [
         {
-          "name": "Jamie xx",
-          "url": "https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ"
+          "name": "WhoMadeWho",
+          "url": "https://open.spotify.com/artist/50Lr1puweM1hFsF1LpIZLM"
         },
         {
-          "name": "Romy",
-          "url": "https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb"
+          "name": "RY X",
+          "url": "https://open.spotify.com/artist/2KjAo6wVc9d2WcxdxSArpV"
         }
       ],
-      "duration_ms": 283066,
-      "name": "Loud Places",
-      "url": "https://open.spotify.com/track/7lPgKA5mLFNmGPMdb07OlM"
+      "duration_ms": 277561,
+      "name": "Love Will Save Me",
+      "url": "https://open.spotify.com/track/2YjXImhg2zXDmWcVy1oSDw"
     },
     {
       "added_at": "2024-03-15 14:06:44",
@@ -1499,22 +1499,18 @@
     {
       "added_at": "2024-03-15 14:06:44",
       "album": {
-        "name": "Borrowed Time (feat. Forest Claudette)",
-        "url": "https://open.spotify.com/album/576sDjTd5pNXrfFpT6TFi5"
+        "name": "Must Be Nice",
+        "url": "https://open.spotify.com/album/6OofM4R1bZLZXrU1Pwr09L"
       },
       "artists": [
         {
-          "name": "Cosmo's Midnight",
-          "url": "https://open.spotify.com/artist/4VivsO1n4n2Mi2Btyb5gfL"
-        },
-        {
-          "name": "Forest Claudette",
-          "url": "https://open.spotify.com/artist/4d26k6BPR9MhZyTj3g5yEM"
+          "name": "49th & Main",
+          "url": "https://open.spotify.com/artist/0nnF48t4C8uqGS5HPnCN3F"
         }
       ],
-      "duration_ms": 193687,
-      "name": "Borrowed Time (feat. Forest Claudette)",
-      "url": "https://open.spotify.com/track/0QUmJ32lHLSMfAfjKgQake"
+      "duration_ms": 212346,
+      "name": "Up To Something",
+      "url": "https://open.spotify.com/track/2YgO4Laiw37ILWYaueb023"
     },
     {
       "added_at": "2024-03-15 14:06:44",
@@ -1531,22 +1527,6 @@
       "duration_ms": 263418,
       "name": "Tunnel of You",
       "url": "https://open.spotify.com/track/1KX30hHDvpBRvm3JXxtYEY"
-    },
-    {
-      "added_at": "2024-03-15 14:06:44",
-      "album": {
-        "name": "Must Be Nice",
-        "url": "https://open.spotify.com/album/6OofM4R1bZLZXrU1Pwr09L"
-      },
-      "artists": [
-        {
-          "name": "49th & Main",
-          "url": "https://open.spotify.com/artist/0nnF48t4C8uqGS5HPnCN3F"
-        }
-      ],
-      "duration_ms": 212346,
-      "name": "Up To Something",
-      "url": "https://open.spotify.com/track/2YgO4Laiw37ILWYaueb023"
     },
     {
       "added_at": "2024-03-15 14:06:44",
@@ -1571,6 +1551,26 @@
       "duration_ms": 310340,
       "name": "Fever Dreamer (feat. Charlotte Day Wilson & Channel Tres)",
       "url": "https://open.spotify.com/track/2TfHuXx68GAVR71kUQttvJ"
+    },
+    {
+      "added_at": "2024-03-15 14:06:44",
+      "album": {
+        "name": "Borrowed Time (feat. Forest Claudette)",
+        "url": "https://open.spotify.com/album/576sDjTd5pNXrfFpT6TFi5"
+      },
+      "artists": [
+        {
+          "name": "Cosmo's Midnight",
+          "url": "https://open.spotify.com/artist/4VivsO1n4n2Mi2Btyb5gfL"
+        },
+        {
+          "name": "Forest Claudette",
+          "url": "https://open.spotify.com/artist/4d26k6BPR9MhZyTj3g5yEM"
+        }
+      ],
+      "duration_ms": 193687,
+      "name": "Borrowed Time (feat. Forest Claudette)",
+      "url": "https://open.spotify.com/track/0QUmJ32lHLSMfAfjKgQake"
     },
     {
       "added_at": "2024-03-15 14:06:44",

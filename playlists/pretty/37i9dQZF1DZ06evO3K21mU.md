@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3K21mU.md) - [plain]
 
 > This is J\. Cole\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 867,270 likes - 50 songs - 3 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 867,468 likes - 50 songs - 3 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,8 +23,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3K21mU.md) - [plain]
 | 13 | [All I Want Is You \(feat\. J\. Cole\)](https://open.spotify.com/track/5VA4Ispp52EA1sOqzMz3Av) | [Miguel](https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [All I Want Is You](https://open.spotify.com/album/493HYe7N5pleudEZRyhE7R) | 4:55 |
 | 14 | [a m a r i](https://open.spotify.com/track/2cnKST6T9qUo2i907lm8zX) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [The Off\-Season](https://open.spotify.com/album/4JAvwK4APPArjIsOdGoJXX) | 2:28 |
 | 15 | [Pretty Little Fears \(feat\. J\. Cole\)](https://open.spotify.com/track/4at3d5QWnlibMVN75ECDrp) | [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [East Atlanta Love Letter](https://open.spotify.com/album/3fc97ZWLIMc1xawhxbKrh2) | 4:00 |
-| 16 | [Under The Sun \(with J\. Cole & Lute feat\. DaBaby\)](https://open.spotify.com/track/6MF4tRr5lU8qok8IKaFOBE) | [Dreamville](https://open.spotify.com/artist/1iNqsUDUraNWrj00bqssQG), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5), [Lute](https://open.spotify.com/artist/75WcpJKWXBV3o3cfluWapK), [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk) | [Revenge Of The Dreamers III](https://open.spotify.com/album/2n3quCZ0anEa46j2IveacI) | 3:22 |
-| 17 | [Neighbors](https://open.spotify.com/track/0utlOiJy2weVl9WTkcEWHy) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [4 Your Eyez Only](https://open.spotify.com/album/3CCnGldVQ90c26aFATC1PW) | 3:36 |
+| 16 | [Neighbors](https://open.spotify.com/track/0utlOiJy2weVl9WTkcEWHy) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [4 Your Eyez Only](https://open.spotify.com/album/3CCnGldVQ90c26aFATC1PW) | 3:36 |
+| 17 | [Under The Sun \(with J\. Cole & Lute feat\. DaBaby\)](https://open.spotify.com/track/6MF4tRr5lU8qok8IKaFOBE) | [Dreamville](https://open.spotify.com/artist/1iNqsUDUraNWrj00bqssQG), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5), [Lute](https://open.spotify.com/artist/75WcpJKWXBV3o3cfluWapK), [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk) | [Revenge Of The Dreamers III](https://open.spotify.com/album/2n3quCZ0anEa46j2IveacI) | 3:22 |
 | 18 | [p r i d e \. i s \. t h e \. d e v i l \(with Lil Baby\)](https://open.spotify.com/track/5W8jRrZ6tWrTrqnKRtIQBf) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [The Off\-Season](https://open.spotify.com/album/4JAvwK4APPArjIsOdGoJXX) | 3:38 |
 | 19 | [She Knows \(feat\. Amber Coffman & Cults\)](https://open.spotify.com/track/0Fs9cdPDhptWEDJmiCbkEW) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5), [Cults](https://open.spotify.com/artist/3Oim8XBPbznAa8Jj8QzNc8), [Amber Coffman](https://open.spotify.com/artist/4vpGVGgxSDcCTmqYbsOnsn) | [Born Sinner \(Deluxe Version\)](https://open.spotify.com/album/5FP9keIJnlSCKnkdVOf623) | 4:56 |
 | 20 | [Can't Get Enough](https://open.spotify.com/track/3mTpegrOwRn0oJjv4TSbEE) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5), [Trey Songz](https://open.spotify.com/artist/2iojnBLj0qIMiKPvVhLnsH) | [Cole World: The Sideline Story](https://open.spotify.com/album/0fhmJYVhW0e4i33pCLPA5i) | 3:45 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3K21mU.md) - [plain]
 | 49 | [Home Alone \(with J\. Cole\)](https://open.spotify.com/track/0Fg88OWOdERXLMDcTWYwjf) | [Bas](https://open.spotify.com/artist/70gP6Ry4Uo0Yx6uzPIdaiJ), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [We Only Talk About Real Shit When We're Fucked Up](https://open.spotify.com/album/3kXP7albhNo2neJAivDwxk) | 3:29 |
 | 50 | [KOD](https://open.spotify.com/track/7yotKA30dwTKNEGomV9ZsI) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [KOD](https://open.spotify.com/album/4Wv5UAieM1LDEYVq5WmqDd) | 3:11 |
 
-Snapshot ID: `Mjg1MTQxOTUsMDAwMDAwMDBhNDBjNWJlMDI4NjMxOTA2MzI0ZWE1OTczNjc0NjA5MQ==`
+Snapshot ID: `Mjg1MTU2NjAsMDAwMDAwMDBhYTQ1M2Q4NTk5YzA0ZmQxOWUyYTI3NzM1ZGVhMzAxMQ==`

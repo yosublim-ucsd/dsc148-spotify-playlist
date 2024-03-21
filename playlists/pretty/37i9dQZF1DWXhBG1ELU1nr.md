@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXhBG1ELU1nr.md) - [plain]
 
 > Uma seleção de hits pra te acompanhar no home office.
 
-[Spotify](https://open.spotify.com/user/spotify) - 232,171 likes - 100 songs - 7 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 232,197 likes - 100 songs - 7 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,9 +27,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXhBG1ELU1nr.md) - [plain]
 | 17 | [Don't Speak](https://open.spotify.com/track/6urCAbunOQI4bLhmGpX7iS) | [No Doubt](https://open.spotify.com/artist/0cQbJU1aAzvbEmTuljWLlF) | [Tragic Kingdom](https://open.spotify.com/album/3VekjWskUut57hx6W9wqL8) | 4:23 |
 | 18 | [Stairway to Heaven \- Remaster](https://open.spotify.com/track/5CQ30WqJwcep0pYcV4AMNc) | [Led Zeppelin](https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp) | [Led Zeppelin IV \(Deluxe Edition\)](https://open.spotify.com/album/44Ig8dzqOkvkGDzaUof9lK) | 8:02 |
 | 19 | [Somewhere Only We Know](https://open.spotify.com/track/0ll8uFnc0nANY35E0Lfxvg) | [Keane](https://open.spotify.com/artist/53A0W3U0s8diEn9RhXQhVz) | [Hopes And Fears](https://open.spotify.com/album/0qsT8HLvlWaSWIq8Rc95BI) | 3:56 |
-| 20 | [Starman \- 2012 Remaster](https://open.spotify.com/track/0pQskrTITgmCMyr85tb9qq) | [David Bowie](https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy) | [The Rise and Fall of Ziggy Stardust and the Spiders from Mars \(2012 Remaster\)](https://open.spotify.com/album/48D1hRORqJq52qsnUYZX56) | 4:14 |
+| 20 | [Like a Stone](https://open.spotify.com/track/3YuaBvuZqcwN3CEAyyoaei) | [Audioslave](https://open.spotify.com/artist/2ziB7fzrXBoh1HUPS6sVFn) | [Audioslave](https://open.spotify.com/album/78guAsers0klWl6RwzgDLd) | 4:53 |
 | 21 | [Listen to the Music](https://open.spotify.com/track/7Ar4G7Ci11gpt6sfH9Cgz5) | [The Doobie Brothers](https://open.spotify.com/artist/39T6qqI0jDtSWWioX8eGJz) | [Toulouse Street](https://open.spotify.com/album/2x1Yi30lsWJUoBj1kmovnm) | 3:47 |
-| 22 | [Like a Stone](https://open.spotify.com/track/3YuaBvuZqcwN3CEAyyoaei) | [Audioslave](https://open.spotify.com/artist/2ziB7fzrXBoh1HUPS6sVFn) | [Audioslave](https://open.spotify.com/album/78guAsers0klWl6RwzgDLd) | 4:53 |
+| 22 | [Starman \- 2012 Remaster](https://open.spotify.com/track/0pQskrTITgmCMyr85tb9qq) | [David Bowie](https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy) | [The Rise and Fall of Ziggy Stardust and the Spiders from Mars \(2012 Remaster\)](https://open.spotify.com/album/48D1hRORqJq52qsnUYZX56) | 4:14 |
 | 23 | [Eyes Without A Face](https://open.spotify.com/track/0pUVeEgZuNyFzIMKp67RbS) | [Billy Idol](https://open.spotify.com/artist/7lzordPuZEXxwt9aoVZYmG) | [Rebel Yell](https://open.spotify.com/album/2FZNWUmgRoP8uJZBaHJdfj) | 4:59 |
 | 24 | [1979 \- Remastered 2012](https://open.spotify.com/track/5QLHGv0DfpeXLNFo7SFEy1) | [The Smashing Pumpkins](https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i) | [Mellon Collie And The Infinite Sadness \(Deluxe Edition\)](https://open.spotify.com/album/55RhFRyQFihIyGf61MgcfV) | 4:26 |
 | 25 | [It Ain't Over 'Til It's Over](https://open.spotify.com/track/6VnpKLtfNH4Dk09YSGPSyR) | [Lenny Kravitz](https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7) | [Mama Said](https://open.spotify.com/album/7A3LlV59lh4KljWa7I6Tks) | 4:02 |
@@ -74,11 +74,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXhBG1ELU1nr.md) - [plain]
 | 64 | [Open Your Eyes](https://open.spotify.com/track/5HPj0yTUFEFNia8SWgjq46) | [Snow Patrol](https://open.spotify.com/artist/3rIZMv9rysU7JkLzEaC5Jp) | [Eyes Open](https://open.spotify.com/album/3k7bXPw2u0C0SBKPMsgMS3) | 5:41 |
 | 65 | [Easy](https://open.spotify.com/track/4Y3WqmBWmG23thvU9xEhMv) | [Faith No More](https://open.spotify.com/artist/6GbCJZrI318Ybm8mY36Of5) | [Angel Dust \(Deluxe Edition\)](https://open.spotify.com/album/4cg5GrTMewtbntkO84uE2k) | 3:06 |
 | 66 | [Never Tear Us Apart](https://open.spotify.com/track/1qQSRy9DjrGh3jtsSCU6B1) | [INXS](https://open.spotify.com/artist/1eClJfHLoDI4rZe5HxzBFv) | [Kick](https://open.spotify.com/album/7cuwWzS0oiApEt2fpKafkX) | 3:05 |
-| 67 | [If It Makes You Happy](https://open.spotify.com/track/5XrfFo0JFOnWD9ZMNXGkQh) | [Sheryl Crow](https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD) | [Sheryl Crow](https://open.spotify.com/album/3w7TTi80vZApF0rQE5DMYb) | 5:23 |
-| 68 | [Codinome Beija\-Flor](https://open.spotify.com/track/5yFI0Vs3x4EbeIDerT0ck1) | [Cazuza](https://open.spotify.com/artist/1PwOU6fFbmaGkK3wkbb8fU) | [Exagerado](https://open.spotify.com/album/6WvN5lJoLYNXc8HYLuxjeX) | 2:31 |
+| 67 | [Codinome Beija\-Flor](https://open.spotify.com/track/5yFI0Vs3x4EbeIDerT0ck1) | [Cazuza](https://open.spotify.com/artist/1PwOU6fFbmaGkK3wkbb8fU) | [Exagerado](https://open.spotify.com/album/6WvN5lJoLYNXc8HYLuxjeX) | 2:31 |
+| 68 | [If It Makes You Happy](https://open.spotify.com/track/5XrfFo0JFOnWD9ZMNXGkQh) | [Sheryl Crow](https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD) | [Sheryl Crow](https://open.spotify.com/album/3w7TTi80vZApF0rQE5DMYb) | 5:23 |
 | 69 | [Por você](https://open.spotify.com/track/59ONqMEvrUq2iaiQbfRc3q) | [Barão Vermelho](https://open.spotify.com/artist/5zq0SGWxrmzpTSXkBEQzMj) | [Balada MTV](https://open.spotify.com/album/7fLEv3V5H8p1cKB9Uq0Exc) | 3:32 |
-| 70 | [Frozen](https://open.spotify.com/track/2II03llydk4YnkBBvoYB3B) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Ray of Light](https://open.spotify.com/album/6cuNyrSmRjBeekioLdLkvI) | 6:07 |
-| 71 | [Vapor barato](https://open.spotify.com/track/2FHHmwpksVebKcquX3QMdF) | [O Rappa](https://open.spotify.com/artist/1A5QJAC1vdhbhPE25Q0x0f) | [Rappa\-Mundi](https://open.spotify.com/album/49Wb8WyRUtoyKKO01HkRzI) | 4:23 |
+| 70 | [Vapor barato](https://open.spotify.com/track/2FHHmwpksVebKcquX3QMdF) | [O Rappa](https://open.spotify.com/artist/1A5QJAC1vdhbhPE25Q0x0f) | [Rappa\-Mundi](https://open.spotify.com/album/49Wb8WyRUtoyKKO01HkRzI) | 4:23 |
+| 71 | [Frozen](https://open.spotify.com/track/2II03llydk4YnkBBvoYB3B) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Ray of Light](https://open.spotify.com/album/6cuNyrSmRjBeekioLdLkvI) | 6:07 |
 | 72 | [Close to Me \- 2006 Remaster](https://open.spotify.com/track/7ABE6G4uQxbNtYgVrpBBPA) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [The Head on the Door](https://open.spotify.com/album/6HhpmJekzDCRu2K64ZbWqw) | 3:23 |
 | 73 | [God Only Knows \- Mono](https://open.spotify.com/track/6iGU74CwXuT4XVepjc9Emf) | [The Beach Boys](https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV) | [Pet Sounds \(Original Mono & Stereo Mix\)](https://open.spotify.com/album/6GphKx2QAPRoVGWE9D7ou8) | 2:53 |
 | 74 | [Plush \- Acoustic](https://open.spotify.com/track/3ftHrCjsTUPLgI48m67byk) | [Stone Temple Pilots](https://open.spotify.com/artist/2UazAtjfzqBF0Nho2awK4z) | [Thank You](https://open.spotify.com/album/1fyLNx6wxgDA59wFInnyup) | 3:50 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXhBG1ELU1nr.md) - [plain]
 | 99 | [The Reason](https://open.spotify.com/track/5B5eTk7DF8KVp1zpQoY1XY) | [Hoobastank](https://open.spotify.com/artist/2MqhkhX4npxDZ62ObR5ELO) | [The Reason \(20th Anniversary\)](https://open.spotify.com/album/3pCVjmRGVZ2mYuJN2R1wi8) | 3:52 |
 | 100 | [Wonderful Tonight](https://open.spotify.com/track/6zC0mpGYwbNTpk9SKwh08f) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [Slowhand 35th Anniversary \(Super Deluxe\)](https://open.spotify.com/album/5MAL7e4EnKXW1hFg6NbFqP) | 3:45 |
 
-Snapshot ID: `MCw0YWUxNDE4YTlhZTgyNjUxMmE3ZDliZjY3N2RlNjllN2Q3NDA2ZWJj`
+Snapshot ID: `MCxiMjZiNjkwN2ViY2YxMDY0YTU0ZWRjZDliMTJkYmQyNmUyNzA2NWE4`

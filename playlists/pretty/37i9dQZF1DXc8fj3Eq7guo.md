@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc8fj3Eq7guo.md) - [plain]
 
 > Tag your location, we shall pass by as we go around Africa
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,246 likes - 50 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,263 likes - 50 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc8fj3Eq7guo.md) - [plain]
 | 2 | [Jinja](https://open.spotify.com/track/5dVJTSZhL2n81ZkT4PZu0x) | [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr) | [Unruly](https://open.spotify.com/album/51mowf1u3WaEYvqalsbP7M) | 2:35 |
 | 3 | [Arizona](https://open.spotify.com/track/3SA6Rfor4ghxWbyxxdpV3c) | [Lojay](https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL), [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr) | [Arizona](https://open.spotify.com/album/0qiVeOmNPdZy5ky2j74Cga) | 2:19 |
 | 4 | [Paris](https://open.spotify.com/track/3varTiHGif7hoPSflFz0pQ) | [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf) | [Paris](https://open.spotify.com/album/2AxhvJ6KOZtmegupnK94No) | 2:20 |
-| 5 | [Tanzania](https://open.spotify.com/track/5z6oqX6l6kTSPB9gSRnLzE) | [Uncle Waffles](https://open.spotify.com/artist/68McnNC9twEtiynOAJRRgZ), [Tony Duardo](https://open.spotify.com/artist/6qF0eiWwQF073J1MuVFs5z), [Sino Msolo](https://open.spotify.com/artist/5zvuXUYTvZczhbPG9HZRYI), [BoiBizza](https://open.spotify.com/artist/1eEtFWkyKW60yUyVwvAeuR) | [Tanzania](https://open.spotify.com/album/3line3IHxaBqcjloHs4ZKN) | 6:16 |
+| 5 | [Tanzania \(feat\. Sino Msolo and Boibizza\)](https://open.spotify.com/track/4qm0rzVQA3kqQ0yA7LkuFK) | [Uncle Waffles](https://open.spotify.com/artist/68McnNC9twEtiynOAJRRgZ), [Tony Duardo](https://open.spotify.com/artist/6qF0eiWwQF073J1MuVFs5z), [BoiBizza](https://open.spotify.com/artist/1eEtFWkyKW60yUyVwvAeuR), [Sino Msolo](https://open.spotify.com/artist/5zvuXUYTvZczhbPG9HZRYI) | [Tanzania \(feat\. Sino Msolo and Boibizza\)](https://open.spotify.com/album/4Clh4Zi1rvftlZsgXa0FSF) | 6:16 |
 | 6 | [Soweto \(with Don Toliver, Rema & Tempoe\)](https://open.spotify.com/track/25Kyv5SeEenT0EETpP2hYn) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG), [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS), [Tempoe](https://open.spotify.com/artist/1X7glgDhqNq1qn0Qv9g3K4), [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [Soweto \(with Don Toliver, Rema and Tempoe\)](https://open.spotify.com/album/6VZ6icUuxAtSKVxPWlQvug) | 3:39 |
 | 7 | [Morocco](https://open.spotify.com/track/2ljF7c0hX2YU2K5BOzC5LU) | [Cruel Santino](https://open.spotify.com/artist/15GgEOJiFyjQm4tZ4D7qih) | [Mandy & The Jungle](https://open.spotify.com/album/4IMFZY59ree679oXQS36xM) | 3:06 |
 | 8 | [Khartoum](https://open.spotify.com/track/1Kuz7MiQz9rUPVt5ggCMJ7) | [Caleb Awiti](https://open.spotify.com/artist/18QJYkUruunLIMqRIC1ljN) | [Khartoum](https://open.spotify.com/album/1YOKyxfaTIT5rFF8uooQS1) | 3:31 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc8fj3Eq7guo.md) - [plain]
 | 49 | [Mzansi](https://open.spotify.com/track/6h6lRoxhGgkfLw6pVMvPHN) | [Stonebwoy](https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq), [Eindo](https://open.spotify.com/artist/6kHkTLWCtE88wnK3XKXFFr), [Turaz](https://open.spotify.com/artist/6G0KGHioY6sCFMNozFUQRC) | [Necessary Evil](https://open.spotify.com/album/5DAnRaWABIjjFFNdMFOPrc) | 3:49 |
 | 50 | [Kigali](https://open.spotify.com/track/5aKtS7Z8gdWmYH1BBbECiv) | [Kitoko Sound](https://open.spotify.com/artist/7DqZ1E3qLhl3dXPc7jiVOb), [Afro Zen](https://open.spotify.com/artist/31VvRi0goQyK22zqEqAboz), [Arándano](https://open.spotify.com/artist/4vFS1RK96haxCYFEOEtv69), [D.i.n BEATS](https://open.spotify.com/artist/01jkpVYZa78YgI61h3gZbO) | [Kigali](https://open.spotify.com/album/07emJhY6FQilkGBhHhsveQ) | 2:53 |
 
-Snapshot ID: `MCw1MjZkYjJjODIzZmUyYjA2MzU4MjgxOTZjN2M4NzQ0MTlkNWQxNTY2`
+Snapshot ID: `MCxmMWViNTJiNjVmMzk3MWExYmJkNWFjODBhYTcyZTgyNjQ2Yjk5YTRk`

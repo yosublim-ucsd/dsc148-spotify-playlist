@@ -1,12 +1,12 @@
 {
   "description": "\u65e5\u672c\u306e\u5973\u6027\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u306e\u6b4c\u3092\u7279\u96c6\u3002cover: \u9234\u6728\u611b\u7406",
-  "num_followers": 110541,
+  "num_followers": 110646,
   "original_name": "Women's Voice",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiZTY5OTFjZTI4ZjIzM2Y2ODIyZDAxNDZhYjM3MGUwMmYzMzAyMTli",
+  "snapshot_id": "MCw1NjA4N2U2MWY2MTI4ZDdlMTQ4MDdiMTY4MzdlZWUyMGU2MTFhMmE1",
   "tracks": [
     {
       "added_at": "2024-03-19 15:00:00",
@@ -447,8 +447,8 @@
     {
       "added_at": "2024-03-19 15:00:00",
       "album": {
-        "name": "\u516d\u82b1",
-        "url": "https://open.spotify.com/album/474FUwICSQNdsbRN0hr9GM"
+        "name": "Rikka",
+        "url": "https://open.spotify.com/album/5Z6IpQ3YYZLEGGhuveWqh2"
       },
       "artists": [
         {
@@ -457,8 +457,8 @@
         }
       ],
       "duration_ms": 300880,
-      "name": "\u3086\u3068\u308a",
-      "url": "https://open.spotify.com/track/5CtJTb1bCPosQ71tHumoWt"
+      "name": "Yutori",
+      "url": "https://open.spotify.com/track/1ND2hHk3Bj9p2lor1XFbfi"
     },
     {
       "added_at": "2024-03-19 15:00:00",
@@ -640,7 +640,7 @@
       "added_at": "2024-03-19 15:00:00",
       "album": {
         "name": "Inner Voice",
-        "url": "https://open.spotify.com/album/1CBzcLkVMXyisWfRDVUc2e"
+        "url": "https://open.spotify.com/album/6awfKOxXzL2jFJoYOmGHHd"
       },
       "artists": [
         {
@@ -650,7 +650,7 @@
       ],
       "duration_ms": 213061,
       "name": "Inner Voice",
-      "url": "https://open.spotify.com/track/3I79tvxIA7ujjHPWTSJChO"
+      "url": "https://open.spotify.com/track/17DKGZrorsU5DVhj82TlWJ"
     },
     {
       "added_at": "2024-03-19 15:00:00",
@@ -803,22 +803,6 @@
     {
       "added_at": "2024-03-19 15:00:00",
       "album": {
-        "name": "HEART BEAT",
-        "url": "https://open.spotify.com/album/2af8DYGcIT3jG1aC0sC2sF"
-      },
-      "artists": [
-        {
-          "name": "YOASOBI",
-          "url": "https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj"
-        }
-      ],
-      "duration_ms": 335465,
-      "name": "HEART BEAT",
-      "url": "https://open.spotify.com/track/3J99JXowSczha1Cp0LtFoc"
-    },
-    {
-      "added_at": "2024-03-19 15:00:00",
-      "album": {
         "name": "\u30b5\u30af\u30e9\u30ad\u30df\u30ef\u30bf\u30b7",
         "url": "https://open.spotify.com/album/4gOlBkqSeyF4uZPey6aZAd"
       },
@@ -831,6 +815,22 @@
       "duration_ms": 202533,
       "name": "\u30b5\u30af\u30e9\u30ad\u30df\u30ef\u30bf\u30b7",
       "url": "https://open.spotify.com/track/4bM9itWEyMkLUSd2VeROAd"
+    },
+    {
+      "added_at": "2024-03-19 15:00:00",
+      "album": {
+        "name": "HEART BEAT",
+        "url": "https://open.spotify.com/album/2af8DYGcIT3jG1aC0sC2sF"
+      },
+      "artists": [
+        {
+          "name": "YOASOBI",
+          "url": "https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj"
+        }
+      ],
+      "duration_ms": 335465,
+      "name": "HEART BEAT",
+      "url": "https://open.spotify.com/track/3J99JXowSczha1Cp0LtFoc"
     },
     {
       "added_at": "2024-03-19 15:00:00",
@@ -883,18 +883,18 @@
     {
       "added_at": "2024-03-19 15:00:00",
       "album": {
-        "name": "Tokyo Calling",
-        "url": "https://open.spotify.com/album/3utC1QAo17IiIIkQZe7XO6"
+        "name": "\u4e00\u8f2a\u82b1",
+        "url": "https://open.spotify.com/album/2ozJ1C7HXquEWd8Fv8azgY"
       },
       "artists": [
         {
-          "name": "ATARASHII GAKKO!",
-          "url": "https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ"
+          "name": "tuki.",
+          "url": "https://open.spotify.com/artist/1Y5vJqABeI6QI6R95EDV6o"
         }
       ],
-      "duration_ms": 191180,
-      "name": "Tokyo Calling",
-      "url": "https://open.spotify.com/track/2WNjQidYVQO0oFFlTuF8fo"
+      "duration_ms": 224866,
+      "name": "\u4e00\u8f2a\u82b1",
+      "url": "https://open.spotify.com/track/456rgV2smcOpAhhSlQVPK8"
     },
     {
       "added_at": "2024-03-19 15:00:00",
@@ -911,6 +911,22 @@
       "duration_ms": 201764,
       "name": "\u661f\u3081\u3050\u308b\u8a69",
       "url": "https://open.spotify.com/track/30aPCMAtkH6Cf5ejzY4cE4"
+    },
+    {
+      "added_at": "2024-03-19 15:00:00",
+      "album": {
+        "name": "Tokyo Calling",
+        "url": "https://open.spotify.com/album/3utC1QAo17IiIIkQZe7XO6"
+      },
+      "artists": [
+        {
+          "name": "ATARASHII GAKKO!",
+          "url": "https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ"
+        }
+      ],
+      "duration_ms": 191180,
+      "name": "Tokyo Calling",
+      "url": "https://open.spotify.com/track/2WNjQidYVQO0oFFlTuF8fo"
     },
     {
       "added_at": "2024-03-19 15:00:00",
@@ -983,22 +999,6 @@
       "duration_ms": 127925,
       "name": "Any angle",
       "url": "https://open.spotify.com/track/4KiY8v1cM2S8BS8ob2IGVg"
-    },
-    {
-      "added_at": "2024-03-19 15:00:00",
-      "album": {
-        "name": "\u4e00\u8f2a\u82b1",
-        "url": "https://open.spotify.com/album/2ozJ1C7HXquEWd8Fv8azgY"
-      },
-      "artists": [
-        {
-          "name": "tuki.",
-          "url": "https://open.spotify.com/artist/1Y5vJqABeI6QI6R95EDV6o"
-        }
-      ],
-      "duration_ms": 224866,
-      "name": "\u4e00\u8f2a\u82b1",
-      "url": "https://open.spotify.com/track/456rgV2smcOpAhhSlQVPK8"
     },
     {
       "added_at": "2024-03-19 15:00:00",
@@ -1083,22 +1083,6 @@
     {
       "added_at": "2024-03-19 15:00:00",
       "album": {
-        "name": "Ashes",
-        "url": "https://open.spotify.com/album/3UZBxSPfJQumL14kCOzJJo"
-      },
-      "artists": [
-        {
-          "name": "Superfly",
-          "url": "https://open.spotify.com/artist/5M8AXrOifBT8elkLKbGPQZ"
-        }
-      ],
-      "duration_ms": 200366,
-      "name": "Ashes",
-      "url": "https://open.spotify.com/track/2hWYqb2PHlUZKXOdK2rfFA"
-    },
-    {
-      "added_at": "2024-03-19 15:00:00",
-      "album": {
         "name": "Toryanse",
         "url": "https://open.spotify.com/album/5tHcuKjRQIAwAvm1eoQIqI"
       },
@@ -1111,6 +1095,22 @@
       "duration_ms": 156556,
       "name": "Toryanse",
       "url": "https://open.spotify.com/track/6Zdy0Snyt41k4Bg8Imtq7r"
+    },
+    {
+      "added_at": "2024-03-19 15:00:00",
+      "album": {
+        "name": "Ashes",
+        "url": "https://open.spotify.com/album/3UZBxSPfJQumL14kCOzJJo"
+      },
+      "artists": [
+        {
+          "name": "Superfly",
+          "url": "https://open.spotify.com/artist/5M8AXrOifBT8elkLKbGPQZ"
+        }
+      ],
+      "duration_ms": 200366,
+      "name": "Ashes",
+      "url": "https://open.spotify.com/track/2hWYqb2PHlUZKXOdK2rfFA"
     },
     {
       "added_at": "2024-03-19 15:00:00",
@@ -1279,22 +1279,6 @@
     {
       "added_at": "2024-03-19 15:00:00",
       "album": {
-        "name": "This Wish (From \"Wish\")",
-        "url": "https://open.spotify.com/album/2pHrb0sDgNX8wihQAATykv"
-      },
-      "artists": [
-        {
-          "name": "Erika Ikuta",
-          "url": "https://open.spotify.com/artist/1oFBCL5yLMgZBoXHsiE4JR"
-        }
-      ],
-      "duration_ms": 205480,
-      "name": "This Wish - From \"Wish\"",
-      "url": "https://open.spotify.com/track/6uWdq2JkWm76yNBeigEnSb"
-    },
-    {
-      "added_at": "2024-03-19 15:00:00",
-      "album": {
         "name": "\u7070\u304b\u3076\u308a",
         "url": "https://open.spotify.com/album/5CltyRkCnztzDYVvi79WDW"
       },
@@ -1323,6 +1307,22 @@
       "duration_ms": 141974,
       "name": "L7 Blues",
       "url": "https://open.spotify.com/track/3jlz3hv1rjQZSrrAtoRlXR"
+    },
+    {
+      "added_at": "2024-03-19 15:00:00",
+      "album": {
+        "name": "This Wish (From \"Wish\")",
+        "url": "https://open.spotify.com/album/2pHrb0sDgNX8wihQAATykv"
+      },
+      "artists": [
+        {
+          "name": "Erika Ikuta",
+          "url": "https://open.spotify.com/artist/1oFBCL5yLMgZBoXHsiE4JR"
+        }
+      ],
+      "duration_ms": 205480,
+      "name": "This Wish - From \"Wish\"",
+      "url": "https://open.spotify.com/track/6uWdq2JkWm76yNBeigEnSb"
     },
     {
       "added_at": "2024-03-19 15:00:00",
@@ -1387,22 +1387,6 @@
     {
       "added_at": "2024-03-19 15:00:00",
       "album": {
-        "name": "\u7d14\u611b\u30af\u30ed\u30fc\u30bc\u30c3\u30c8",
-        "url": "https://open.spotify.com/album/5sZ9pXCCxfRLpVJ6QLrMw9"
-      },
-      "artists": [
-        {
-          "name": "Koresawa",
-          "url": "https://open.spotify.com/artist/6sX1XKgDIiAcVZof0SgWUe"
-        }
-      ],
-      "duration_ms": 277453,
-      "name": "\u3042\u305f\u3057\u304c\u6b7b\u3093\u3067\u3082",
-      "url": "https://open.spotify.com/track/3bJUYzp2dq4ZPz448hCmzm"
-    },
-    {
-      "added_at": "2024-03-19 15:00:00",
-      "album": {
         "name": "The Flower of Love",
         "url": "https://open.spotify.com/album/7n2ZUQwPFVI1duDelTWD3p"
       },
@@ -1415,6 +1399,38 @@
       "duration_ms": 199333,
       "name": "The Flame of Love",
       "url": "https://open.spotify.com/track/0uNmOW9ock1EUkbBzjTk0L"
+    },
+    {
+      "added_at": "2024-03-19 15:00:00",
+      "album": {
+        "name": "ICHIJIKIKOKU",
+        "url": "https://open.spotify.com/album/6Ah0YGqpd7Dg6zB35ojUQz"
+      },
+      "artists": [
+        {
+          "name": "ATARASHII GAKKO!",
+          "url": "https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ"
+        }
+      ],
+      "duration_ms": 195013,
+      "name": "Suki Lie",
+      "url": "https://open.spotify.com/track/45h7ZIjSfrPbhbl7EgwKwh"
+    },
+    {
+      "added_at": "2024-03-19 15:00:00",
+      "album": {
+        "name": "\u7d14\u611b\u30af\u30ed\u30fc\u30bc\u30c3\u30c8",
+        "url": "https://open.spotify.com/album/5sZ9pXCCxfRLpVJ6QLrMw9"
+      },
+      "artists": [
+        {
+          "name": "Koresawa",
+          "url": "https://open.spotify.com/artist/6sX1XKgDIiAcVZof0SgWUe"
+        }
+      ],
+      "duration_ms": 277453,
+      "name": "\u3042\u305f\u3057\u304c\u6b7b\u3093\u3067\u3082",
+      "url": "https://open.spotify.com/track/3bJUYzp2dq4ZPz448hCmzm"
     },
     {
       "added_at": "2024-03-19 15:00:00",
@@ -1447,22 +1463,6 @@
       "duration_ms": 227906,
       "name": "With",
       "url": "https://open.spotify.com/track/3yYu68P1WYsGCevgip6w2G"
-    },
-    {
-      "added_at": "2024-03-19 15:00:00",
-      "album": {
-        "name": "ICHIJIKIKOKU",
-        "url": "https://open.spotify.com/album/6Ah0YGqpd7Dg6zB35ojUQz"
-      },
-      "artists": [
-        {
-          "name": "ATARASHII GAKKO!",
-          "url": "https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ"
-        }
-      ],
-      "duration_ms": 195013,
-      "name": "Suki Lie",
-      "url": "https://open.spotify.com/track/45h7ZIjSfrPbhbl7EgwKwh"
     },
     {
       "added_at": "2024-03-19 15:00:00",
@@ -1531,6 +1531,22 @@
     {
       "added_at": "2024-03-19 15:00:00",
       "album": {
+        "name": "The Flower of Love",
+        "url": "https://open.spotify.com/album/7n2ZUQwPFVI1duDelTWD3p"
+      },
+      "artists": [
+        {
+          "name": "\u30ed\u30af\u30c7\u30ca\u30b7",
+          "url": "https://open.spotify.com/artist/4kpQdAU7yPjqtiJsFcBTBb"
+        }
+      ],
+      "duration_ms": 190066,
+      "name": "Starry Silent Night",
+      "url": "https://open.spotify.com/track/3qsTo8WALGZWSe0KNxv3ZA"
+    },
+    {
+      "added_at": "2024-03-19 15:00:00",
+      "album": {
         "name": "\u967d\u306f\u307e\u305f\u6607\u308b\u304b\u3089",
         "url": "https://open.spotify.com/album/7AIde6PYcdVe8iPF5Jp08h"
       },
@@ -1559,22 +1575,6 @@
       "duration_ms": 309200,
       "name": "\u30ce\u30b9\u30bf\u30eb\u30b8\u30a2",
       "url": "https://open.spotify.com/track/5LcDuMPZLDdrTPRWyiCQZC"
-    },
-    {
-      "added_at": "2024-03-19 15:00:00",
-      "album": {
-        "name": "The Flower of Love",
-        "url": "https://open.spotify.com/album/7n2ZUQwPFVI1duDelTWD3p"
-      },
-      "artists": [
-        {
-          "name": "\u30ed\u30af\u30c7\u30ca\u30b7",
-          "url": "https://open.spotify.com/artist/4kpQdAU7yPjqtiJsFcBTBb"
-        }
-      ],
-      "duration_ms": 190066,
-      "name": "Starry Silent Night",
-      "url": "https://open.spotify.com/track/3qsTo8WALGZWSe0KNxv3ZA"
     },
     {
       "added_at": "2024-03-19 15:00:00",

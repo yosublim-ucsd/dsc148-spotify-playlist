@@ -1,12 +1,12 @@
 {
   "description": "Winners \u2014 past and present \u2014 from the 96th annual event celebrating Hollywood's brightest stars.",
-  "num_followers": 261339,
+  "num_followers": 261329,
   "original_name": "Hollywood's Big Night",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0ZGE5NTNhYTIxYWZhZTA1MmNiYjA5ZGM0NTkyMTNiMDIzODY4MGMw",
+  "snapshot_id": "MCwxYTRhYjZjYTI4ZDhiNDAxZGI4MGM5OTI2MjdjOWIwNGIyNDZlYTUy",
   "tracks": [
     {
       "added_at": "2024-01-23 19:55:12",
@@ -319,42 +319,6 @@
     {
       "added_at": "2024-01-23 19:55:12",
       "album": {
-        "name": "Beauty And The Beast (Special Edition)",
-        "url": "https://open.spotify.com/album/5CXS5K2wldOxL8bweRXBrq"
-      },
-      "artists": [
-        {
-          "name": "Angela Lansbury",
-          "url": "https://open.spotify.com/artist/0LtVJXnPR8msCJiE2DjHxy"
-        },
-        {
-          "name": "Disney",
-          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
-        }
-      ],
-      "duration_ms": 165186,
-      "name": "Beauty and the Beast",
-      "url": "https://open.spotify.com/track/4dhPM05Kr49JbsvPwGROnJ"
-    },
-    {
-      "added_at": "2024-01-23 19:55:12",
-      "album": {
-        "name": "I\u2019m Just Ken (From Barbie The Album)",
-        "url": "https://open.spotify.com/album/6OvDrWqXGbPBTyovcFmQO5"
-      },
-      "artists": [
-        {
-          "name": "Ryan Gosling",
-          "url": "https://open.spotify.com/artist/6kXm2YCtdUOpRYNKeKhfue"
-        }
-      ],
-      "duration_ms": 222633,
-      "name": "I'm Just Ken (From Barbie The Album)",
-      "url": "https://open.spotify.com/track/7jPdqwZug0ovtDZsY5uK4T"
-    },
-    {
-      "added_at": "2024-01-23 19:55:12",
-      "album": {
         "name": "Monsters, Inc. (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/7hguux6E8wOGlNsKnZB6Sz"
       },
@@ -375,6 +339,22 @@
     {
       "added_at": "2024-01-23 19:55:12",
       "album": {
+        "name": "I\u2019m Just Ken (From Barbie The Album)",
+        "url": "https://open.spotify.com/album/6OvDrWqXGbPBTyovcFmQO5"
+      },
+      "artists": [
+        {
+          "name": "Ryan Gosling",
+          "url": "https://open.spotify.com/artist/6kXm2YCtdUOpRYNKeKhfue"
+        }
+      ],
+      "duration_ms": 222633,
+      "name": "I'm Just Ken (From Barbie The Album)",
+      "url": "https://open.spotify.com/track/7jPdqwZug0ovtDZsY5uK4T"
+    },
+    {
+      "added_at": "2024-01-23 19:55:12",
+      "album": {
         "name": "Love Songs",
         "url": "https://open.spotify.com/album/1bnoqPJyaxMCtYuSprcBTD"
       },
@@ -387,6 +367,26 @@
       "duration_ms": 240000,
       "name": "Can You Feel The Love Tonight",
       "url": "https://open.spotify.com/track/67HKtdqchK0rmODxsBeWT8"
+    },
+    {
+      "added_at": "2024-01-23 19:55:12",
+      "album": {
+        "name": "Beauty And The Beast (Special Edition)",
+        "url": "https://open.spotify.com/album/5CXS5K2wldOxL8bweRXBrq"
+      },
+      "artists": [
+        {
+          "name": "Angela Lansbury",
+          "url": "https://open.spotify.com/artist/0LtVJXnPR8msCJiE2DjHxy"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "duration_ms": 165186,
+      "name": "Beauty and the Beast",
+      "url": "https://open.spotify.com/track/4dhPM05Kr49JbsvPwGROnJ"
     },
     {
       "added_at": "2024-01-23 19:55:12",
@@ -591,6 +591,22 @@
     {
       "added_at": "2024-01-23 19:55:12",
       "album": {
+        "name": "Gravity (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/74wV2lmFaeLdSny2CU7EQw"
+      },
+      "artists": [
+        {
+          "name": "Steven Price",
+          "url": "https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK"
+        }
+      ],
+      "duration_ms": 275320,
+      "name": "Gravity",
+      "url": "https://open.spotify.com/track/2mFea4DOhY3iShay4BQ0se"
+    },
+    {
+      "added_at": "2024-01-23 19:55:12",
+      "album": {
         "name": "Fight For You (From the Original Motion Picture \"Judas and the Black Messiah\")",
         "url": "https://open.spotify.com/album/1K2PS79KFV29pQe7zfyoyP"
       },
@@ -607,22 +623,6 @@
       "duration_ms": 270710,
       "name": "Fight For You - From the Original Motion Picture \"Judas and the Black Messiah\"",
       "url": "https://open.spotify.com/track/2UJsKjM595pEyWUcd8JEIR"
-    },
-    {
-      "added_at": "2024-01-23 19:55:12",
-      "album": {
-        "name": "Gravity (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/74wV2lmFaeLdSny2CU7EQw"
-      },
-      "artists": [
-        {
-          "name": "Steven Price",
-          "url": "https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK"
-        }
-      ],
-      "duration_ms": 275320,
-      "name": "Gravity",
-      "url": "https://open.spotify.com/track/2mFea4DOhY3iShay4BQ0se"
     },
     {
       "added_at": "2024-01-23 19:55:12",

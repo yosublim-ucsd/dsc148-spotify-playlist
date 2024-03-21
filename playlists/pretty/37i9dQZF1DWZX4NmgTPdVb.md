@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZX4NmgTPdVb.md) - [plain]
 
 > The songs of the 1970s that will make you dance all summer long!
 
-[Spotify](https://open.spotify.com/user/spotify) - 203,957 likes - 75 songs - 5 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 204,217 likes - 75 songs - 5 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZX4NmgTPdVb.md) - [plain]
 | 23 | [\(Don't Fear\) The Reaper](https://open.spotify.com/track/5QTxFnGygVM4jFQiBovmRo) | [Blue Öyster Cult](https://open.spotify.com/artist/00tVTdpEhQQw1bqdu8RCx2) | [Agents Of Fortune](https://open.spotify.com/album/6C9WzlQANeoD0GW5B41YJt) | 5:08 |
 | 24 | [The Logical Song \- Remastered 2010](https://open.spotify.com/track/6mHOcVtsHLMuesJkswc0GZ) | [Supertramp](https://open.spotify.com/artist/3JsMj0DEzyWc0VDlHuy9Bx) | [Breakfast In America \(Deluxe Edition\)](https://open.spotify.com/album/1zcm3UvHNHpseYOUfd0pna) | 4:11 |
 | 25 | [Old Time Rock & Roll](https://open.spotify.com/track/5EOoMWIB9iK4ZpcSex9Ec7) | [Bob Seger](https://open.spotify.com/artist/485uL27bPomh29R4JmQehQ) | [Stranger In Town](https://open.spotify.com/album/1vhib5WLHRVdOpRjiTHk15) | 3:14 |
-| 26 | [The Joker](https://open.spotify.com/track/1bp2IO61zbQrbWNmKKxg3f) | [Steve Miller Band](https://open.spotify.com/artist/6QtGlUje9TIkLrgPZrESuk) | [The Joker](https://open.spotify.com/album/5uYNj1HkZrWKAkhEYcGmJr) | 4:24 |
-| 27 | [Waterloo](https://open.spotify.com/track/3Dy4REq8O09IlgiwuHQ3sk) | [ABBA](https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV) | [Waterloo](https://open.spotify.com/album/5gSBDA6ufk8UZejT4XR7av) | 2:48 |
+| 26 | [Waterloo](https://open.spotify.com/track/3Dy4REq8O09IlgiwuHQ3sk) | [ABBA](https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV) | [Waterloo](https://open.spotify.com/album/5gSBDA6ufk8UZejT4XR7av) | 2:48 |
+| 27 | [The Joker](https://open.spotify.com/track/1bp2IO61zbQrbWNmKKxg3f) | [Steve Miller Band](https://open.spotify.com/artist/6QtGlUje9TIkLrgPZrESuk) | [The Joker](https://open.spotify.com/album/5uYNj1HkZrWKAkhEYcGmJr) | 4:24 |
 | 28 | [Take Me Home, Country Roads \- Original Version](https://open.spotify.com/track/1YYhDizHx7PnDhAhko6cDS) | [John Denver](https://open.spotify.com/artist/7EK1bQADBoqbYXnT4Cqv9w) | [Poems, Prayers and Promises](https://open.spotify.com/album/78FZXQkBGm2IOPrE9f64sU) | 3:10 |
 | 29 | [The Gambler](https://open.spotify.com/track/5KqldkCunQ2rWxruMEtGh0) | [Kenny Rogers](https://open.spotify.com/artist/4tw2Lmn9tTPUv7Gy7mVPI4) | [The Gambler](https://open.spotify.com/album/3XdvQjIMjdwxRivZrg1ziJ) | 3:34 |
 | 30 | [December, 1963 \(Oh What a Night!\)](https://open.spotify.com/track/1hQFF33xi8ruavZNyovtUN) | [Frankie Valli & The Four Seasons](https://open.spotify.com/artist/6mcrZQmgzFGRWf7C0SObou) | [Who Loves You](https://open.spotify.com/album/7fbHVufa1ZvEWWpDppEXHU) | 3:17 |
@@ -57,9 +57,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZX4NmgTPdVb.md) - [plain]
 | 47 | [Best of My Love](https://open.spotify.com/track/2M2WJ7gBlcKNxdhyfPp9zY) | [The Emotions](https://open.spotify.com/artist/64CuUOOirKmdAYLQSfaOyr) | [Rejoice](https://open.spotify.com/album/7iJCy3T66FJmXT7LGVd3QA) | 3:40 |
 | 48 | [Play That Funky Music](https://open.spotify.com/track/5uuJruktM9fMdN9Va0DUMl) | [Wild Cherry](https://open.spotify.com/artist/4apX9tIeHb85yPyy4F6FJG) | [Wild Cherry](https://open.spotify.com/album/27ompw8zlrCkWMacS21ysX) | 5:00 |
 | 49 | [American Girl](https://open.spotify.com/track/7MRyJPksH3G2cXHN8UKYzP) | [Tom Petty and the Heartbreakers](https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e) | [Tom Petty & The Heartbreakers](https://open.spotify.com/album/6TLTd0P2CUI0Q29AQ1LyFi) | 3:34 |
-| 50 | [We Are Family \- 1995 Remaster](https://open.spotify.com/track/5IKLwqBQG6KU6MP2zP80Nu) | [Sister Sledge](https://open.spotify.com/artist/6gkWznnJkdkwRPVcmnrays) | [We Are Family \(1995 Remaster\)](https://open.spotify.com/album/4GSidaoqyGNwaG5mNKmuLT) | 3:36 |
-| 51 | [Love Really Hurts Without You](https://open.spotify.com/track/4GhtDORJiSRYxj6M1bv0vX) | [Billy Ocean](https://open.spotify.com/artist/5IDs1CK15HegSAhGEbSYXo) | [Billy Ocean \(Expanded Edition\)](https://open.spotify.com/album/6o3pySsbnUSjfJvLFSMZgz) | 2:59 |
-| 52 | [It's Too Late](https://open.spotify.com/track/12q3V8ShACq2PSWINMc2rC) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Tapestry](https://open.spotify.com/album/12n11cgnpjXKLeqrnIERoS) | 3:53 |
+| 50 | [Love Really Hurts Without You](https://open.spotify.com/track/4GhtDORJiSRYxj6M1bv0vX) | [Billy Ocean](https://open.spotify.com/artist/5IDs1CK15HegSAhGEbSYXo) | [Billy Ocean \(Expanded Edition\)](https://open.spotify.com/album/6o3pySsbnUSjfJvLFSMZgz) | 2:59 |
+| 51 | [It's Too Late](https://open.spotify.com/track/12q3V8ShACq2PSWINMc2rC) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Tapestry](https://open.spotify.com/album/12n11cgnpjXKLeqrnIERoS) | 3:53 |
+| 52 | [We Are Family \- 1995 Remaster](https://open.spotify.com/track/5IKLwqBQG6KU6MP2zP80Nu) | [Sister Sledge](https://open.spotify.com/artist/6gkWznnJkdkwRPVcmnrays) | [We Are Family \(1995 Remaster\)](https://open.spotify.com/album/4GSidaoqyGNwaG5mNKmuLT) | 3:36 |
 | 53 | [Me and Julio Down by the Schoolyard](https://open.spotify.com/track/6vxHp3CDNo0afgKGp2yi1E) | [Paul Simon](https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI) | [Paul Simon](https://open.spotify.com/album/7npBPiCHjPj8PVIGPuHXep) | 2:44 |
 | 54 | [Summer Nights \- From “Grease”](https://open.spotify.com/track/2AVkArcfALVk2X8sfPRzya) | [John Travolta](https://open.spotify.com/artist/4hKkEHkaqCsyxNxXEsszVH), [Olivia Newton\-John](https://open.spotify.com/artist/4BoRxUdrcgbbq1rxJvvhg9) | [Grease \(The Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5n47Dui0H3pGpZSOxITmoq) | 3:36 |
 | 55 | [Long Cool Woman \(In a Black Dress\) \- 1999 Remaster](https://open.spotify.com/track/5UwbnHhjnbinJH8TefuQfN) | [The Hollies](https://open.spotify.com/artist/6waa8mKu91GjzD4NlONlNJ) | [Distant Light \(1999 Remaster\)](https://open.spotify.com/album/6b5osVLAcVTBvnqwDaPV4w) | 3:19 |
@@ -76,12 +76,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZX4NmgTPdVb.md) - [plain]
 | 66 | [School's Out](https://open.spotify.com/track/5Z8EDau8uNcP1E8JvmfkZe) | [Alice Cooper](https://open.spotify.com/artist/3EhbVgyfGd7HkpsagwL9GS) | [School's Out](https://open.spotify.com/album/0zKjnOsXxs63unPR6TWoHq) | 3:30 |
 | 67 | [Let Your Love Flow](https://open.spotify.com/track/064SVQsmWl5EF0zahmzkQk) | [The Bellamy Brothers](https://open.spotify.com/artist/5iB5AWIa7qreioi0AF3Bxa) | [Bellamy Brothers](https://open.spotify.com/album/77EM0wkGevYQcBo1AJt7B0) | 3:16 |
 | 68 | [You've Got a Friend \- 2019 Remaster](https://open.spotify.com/track/6zV8IpLvw0tkRSVCFQJB1y) | [James Taylor](https://open.spotify.com/artist/0vn7UBvSQECKJm2817Yf1P) | [Mud Slide Slim and the Blue Horizon \(2019 Remaster\)](https://open.spotify.com/album/3ahHxtwRwMIdHcAo0MEXxX) | 4:28 |
-| 69 | [Surrender](https://open.spotify.com/track/2ccUQnjjNWT0rsNnsBpsCA) | [Cheap Trick](https://open.spotify.com/artist/1LB8qB5BPb3MHQrfkvifXU) | [Heaven Tonight](https://open.spotify.com/album/5w20U3G3GyWiPvvDeVzkhN) | 4:13 |
-| 70 | [Love Her Madly](https://open.spotify.com/track/3MFFDRC4wTN9JNGtzXsZlN) | [The Doors](https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt) | [L.A\. Woman](https://open.spotify.com/album/7IKUTIc9UWuVngyGPtqNHS) | 3:18 |
+| 69 | [Love Her Madly](https://open.spotify.com/track/3MFFDRC4wTN9JNGtzXsZlN) | [The Doors](https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt) | [L.A\. Woman](https://open.spotify.com/album/7IKUTIc9UWuVngyGPtqNHS) | 3:18 |
+| 70 | [Surrender](https://open.spotify.com/track/2ccUQnjjNWT0rsNnsBpsCA) | [Cheap Trick](https://open.spotify.com/artist/1LB8qB5BPb3MHQrfkvifXU) | [Heaven Tonight](https://open.spotify.com/album/5w20U3G3GyWiPvvDeVzkhN) | 4:13 |
 | 71 | [Margaritaville](https://open.spotify.com/track/4EEjMyQub6tgFVshlM9j1M) | [Jimmy Buffett](https://open.spotify.com/artist/28AyklUmMECPwdfo8NEsV0) | [Changes In Latitudes, Changes In Attitudes](https://open.spotify.com/album/3JWlQzyse21gwhqu2D6UQD) | 4:10 |
 | 72 | [Fat Bottomed Girls \- Remastered 2011](https://open.spotify.com/track/4igIYHF3B5VBxEafHauVo3) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Jazz \(Deluxe Remastered Version\)](https://open.spotify.com/album/21HMAUrbbYSj9NiPPlGumy) | 4:15 |
 | 73 | [Jet Airliner](https://open.spotify.com/track/2zI3bUYn2pcF27of6i2oqK) | [Steve Miller Band](https://open.spotify.com/artist/6QtGlUje9TIkLrgPZrESuk) | [Greatest Hits 1974\-78](https://open.spotify.com/album/5hLazW5a3Ysgy3dncwGgUn) | 3:35 |
 | 74 | [Use Me](https://open.spotify.com/track/4gRA0i5sxx3jAhHaVjPnUN) | [Bill Withers](https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj) | [Still Bill](https://open.spotify.com/album/0sFuW4rH5mFZUjNKnckO3v) | 3:48 |
 | 75 | [Go Your Own Way \- 2004 Remaster](https://open.spotify.com/track/4xh7W7tlNMIczFhupCPniY) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Rumours \(Super Deluxe\)](https://open.spotify.com/album/0BwWUstDMUbgq2NYONRqlu) | 3:43 |
 
-Snapshot ID: `MCw3ODRkZThhZjI0MDQyZmM4MDkyYTVkMmRkNTkxNzkxYjU0ZmE1OTJi`
+Snapshot ID: `MCwzM2QyOTIwN2I1YmQ0ZTA5MWM3MmVjMTM3NmZiMzEzNGZkNjRlN2Iw`

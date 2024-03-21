@@ -1,12 +1,12 @@
 {
   "description": "M\u00fasica para acompa\u00f1ar esas rondas interminables de mate.",
-  "num_followers": 748140,
+  "num_followers": 761838,
   "original_name": "Mates y M\u00fasica",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjMTNiMTZkZTIzYzg3OGEzMGFjZDhiMWU5Y2YyNzkxNzVkNDhlNDE5",
+  "snapshot_id": "MCxhYmQ4NTYwMjVhODNhMzRhNGU4YThmM2JlOTJiMWQ1NjQ4NjNlYTU4",
   "tracks": [
     {
       "added_at": "2024-03-11 15:22:11",
@@ -839,22 +839,6 @@
     {
       "added_at": "2024-03-11 15:22:11",
       "album": {
-        "name": "Narig\u00f3n del Siglo, Yo Te Dejo Perfumado en la Esquina para Siempre",
-        "url": "https://open.spotify.com/album/4GkZExYLfegidZaO1BgpvU"
-      },
-      "artists": [
-        {
-          "name": "Divididos",
-          "url": "https://open.spotify.com/artist/6ZIgPKHzpcswB8zh7sRIhx"
-        }
-      ],
-      "duration_ms": 212880,
-      "name": "Spaghetti del Rock",
-      "url": "https://open.spotify.com/track/6rg1MBZqggsQ5olFGTw0rr"
-    },
-    {
-      "added_at": "2024-03-11 15:22:11",
-      "album": {
         "name": "Con la Misma Moneda",
         "url": "https://open.spotify.com/album/0uHMJhys3A6ZexbwOQj0Hc"
       },
@@ -867,6 +851,22 @@
       "duration_ms": 202440,
       "name": "D\u00edganle",
       "url": "https://open.spotify.com/track/7Gc9iCkANNOlw32jQCemjz"
+    },
+    {
+      "added_at": "2024-03-11 15:22:11",
+      "album": {
+        "name": "Narig\u00f3n del Siglo, Yo Te Dejo Perfumado en la Esquina para Siempre",
+        "url": "https://open.spotify.com/album/4GkZExYLfegidZaO1BgpvU"
+      },
+      "artists": [
+        {
+          "name": "Divididos",
+          "url": "https://open.spotify.com/artist/6ZIgPKHzpcswB8zh7sRIhx"
+        }
+      ],
+      "duration_ms": 212880,
+      "name": "Spaghetti del Rock",
+      "url": "https://open.spotify.com/track/6rg1MBZqggsQ5olFGTw0rr"
     },
     {
       "added_at": "2024-03-11 15:22:11",
@@ -887,22 +887,6 @@
     {
       "added_at": "2024-03-11 15:22:11",
       "album": {
-        "name": "MORFEO",
-        "url": "https://open.spotify.com/album/2EQEyysFgYJwR1H2XpJDr3"
-      },
-      "artists": [
-        {
-          "name": "WOS",
-          "url": "https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK"
-        }
-      ],
-      "duration_ms": 233046,
-      "name": "MORFEO",
-      "url": "https://open.spotify.com/track/44fsHeGMWo6WgucLYeyONa"
-    },
-    {
-      "added_at": "2024-03-11 15:22:11",
-      "album": {
         "name": "Nunca Lo Olvides",
         "url": "https://open.spotify.com/album/6ZDbOUt4FRdFgQEbhJyFui"
       },
@@ -915,6 +899,22 @@
       "duration_ms": 299810,
       "name": "Nunca Lo Olvides",
       "url": "https://open.spotify.com/track/1qAMb1y3o7Olwm8pYTuzyV"
+    },
+    {
+      "added_at": "2024-03-11 15:22:11",
+      "album": {
+        "name": "MORFEO",
+        "url": "https://open.spotify.com/album/2EQEyysFgYJwR1H2XpJDr3"
+      },
+      "artists": [
+        {
+          "name": "WOS",
+          "url": "https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK"
+        }
+      ],
+      "duration_ms": 233046,
+      "name": "MORFEO",
+      "url": "https://open.spotify.com/track/44fsHeGMWo6WgucLYeyONa"
     },
     {
       "added_at": "2024-03-11 15:22:11",
@@ -951,6 +951,22 @@
     {
       "added_at": "2024-03-11 15:22:11",
       "album": {
+        "name": "GUAU!",
+        "url": "https://open.spotify.com/album/1b0s5a9iIWIH5nEpzWSjHG"
+      },
+      "artists": [
+        {
+          "name": "\u00c1rbol",
+          "url": "https://open.spotify.com/artist/6OO01j5rLKCyPg4i3FuzIT"
+        }
+      ],
+      "duration_ms": 237800,
+      "name": "El Fantasma",
+      "url": "https://open.spotify.com/track/0N361WhEqVunVl5ZBkfd70"
+    },
+    {
+      "added_at": "2024-03-11 15:22:11",
+      "album": {
         "name": "BANDIDO",
         "url": "https://open.spotify.com/album/4Uxwy5W4okv49Oe7qXI2Wq"
       },
@@ -979,38 +995,6 @@
     {
       "added_at": "2024-03-11 15:22:11",
       "album": {
-        "name": "GUAU!",
-        "url": "https://open.spotify.com/album/1b0s5a9iIWIH5nEpzWSjHG"
-      },
-      "artists": [
-        {
-          "name": "\u00c1rbol",
-          "url": "https://open.spotify.com/artist/6OO01j5rLKCyPg4i3FuzIT"
-        }
-      ],
-      "duration_ms": 237800,
-      "name": "El Fantasma",
-      "url": "https://open.spotify.com/track/0N361WhEqVunVl5ZBkfd70"
-    },
-    {
-      "added_at": "2024-03-11 15:22:11",
-      "album": {
-        "name": "Buscando un Amor",
-        "url": "https://open.spotify.com/album/4AMgSDaOROvCGSNSz3rfYw"
-      },
-      "artists": [
-        {
-          "name": "Pappo",
-          "url": "https://open.spotify.com/artist/1db5TWniHR7iqwXer7AiQ2"
-        }
-      ],
-      "duration_ms": 161133,
-      "name": "Juntos a la Par",
-      "url": "https://open.spotify.com/track/1Ig4pCPanhzXl7C86MmBUc"
-    },
-    {
-      "added_at": "2024-03-11 15:22:11",
-      "album": {
         "name": "Sistema Nervioso Central",
         "url": "https://open.spotify.com/album/6IbJShCtiqesFKNWnNfZp4"
       },
@@ -1027,6 +1011,22 @@
       "duration_ms": 284531,
       "name": "Ella Dijo",
       "url": "https://open.spotify.com/track/6cFf4Jfy7ThUwGzbqFcZsx"
+    },
+    {
+      "added_at": "2024-03-11 15:22:11",
+      "album": {
+        "name": "Buscando un Amor",
+        "url": "https://open.spotify.com/album/4AMgSDaOROvCGSNSz3rfYw"
+      },
+      "artists": [
+        {
+          "name": "Pappo",
+          "url": "https://open.spotify.com/artist/1db5TWniHR7iqwXer7AiQ2"
+        }
+      ],
+      "duration_ms": 161133,
+      "name": "Juntos a la Par",
+      "url": "https://open.spotify.com/track/1Ig4pCPanhzXl7C86MmBUc"
     },
     {
       "added_at": "2024-03-11 15:22:11",
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2024-03-11 15:22:11",
       "album": {
-        "name": "La Argentinidad Al Palo",
-        "url": "https://open.spotify.com/album/2jc4dbkhewS896fajyR7hZ"
-      },
-      "artists": [
-        {
-          "name": "Bersuit Vergarabat",
-          "url": "https://open.spotify.com/artist/6MxyNXnnmwQwdW2PD0gXYO"
-        }
-      ],
-      "duration_ms": 263933,
-      "name": "La Soledad",
-      "url": "https://open.spotify.com/track/56mbNpJVn5WQhOlsOvb2A0"
-    },
-    {
-      "added_at": "2024-03-11 15:22:11",
-      "album": {
         "name": "Otras Canciones",
         "url": "https://open.spotify.com/album/72SqrtijWJKq6ukitktd1D"
       },
@@ -1147,6 +1131,22 @@
       "duration_ms": 202063,
       "name": "A Las Nueve",
       "url": "https://open.spotify.com/track/68cko9zdsKwaxgb98sF36S"
+    },
+    {
+      "added_at": "2024-03-11 15:22:11",
+      "album": {
+        "name": "La Argentinidad Al Palo",
+        "url": "https://open.spotify.com/album/2jc4dbkhewS896fajyR7hZ"
+      },
+      "artists": [
+        {
+          "name": "Bersuit Vergarabat",
+          "url": "https://open.spotify.com/artist/6MxyNXnnmwQwdW2PD0gXYO"
+        }
+      ],
+      "duration_ms": 263933,
+      "name": "La Soledad",
+      "url": "https://open.spotify.com/track/56mbNpJVn5WQhOlsOvb2A0"
     },
     {
       "added_at": "2024-03-11 15:22:11",
@@ -1499,22 +1499,6 @@
     {
       "added_at": "2024-03-11 15:22:11",
       "album": {
-        "name": "Toro Rojo",
-        "url": "https://open.spotify.com/album/5RQqvJeGRUrvVbvKGlMceO"
-      },
-      "artists": [
-        {
-          "name": "Guasones",
-          "url": "https://open.spotify.com/artist/2wjmZuSHtRx96Qxb8HiP2o"
-        }
-      ],
-      "duration_ms": 250173,
-      "name": "Reyes de la Noche",
-      "url": "https://open.spotify.com/track/3nnDwYz3dEd4p2ESdpS1G0"
-    },
-    {
-      "added_at": "2024-03-11 15:22:11",
-      "album": {
         "name": "Con la Misma Moneda",
         "url": "https://open.spotify.com/album/0uHMJhys3A6ZexbwOQj0Hc"
       },
@@ -1527,6 +1511,22 @@
       "duration_ms": 266760,
       "name": "Con la Misma Moneda",
       "url": "https://open.spotify.com/track/6HIZ8QjtS1jGxAfTEYFyi4"
+    },
+    {
+      "added_at": "2024-03-11 15:22:11",
+      "album": {
+        "name": "Toro Rojo",
+        "url": "https://open.spotify.com/album/5RQqvJeGRUrvVbvKGlMceO"
+      },
+      "artists": [
+        {
+          "name": "Guasones",
+          "url": "https://open.spotify.com/artist/2wjmZuSHtRx96Qxb8HiP2o"
+        }
+      ],
+      "duration_ms": 250173,
+      "name": "Reyes de la Noche",
+      "url": "https://open.spotify.com/track/3nnDwYz3dEd4p2ESdpS1G0"
     },
     {
       "added_at": "2024-03-11 15:22:11",

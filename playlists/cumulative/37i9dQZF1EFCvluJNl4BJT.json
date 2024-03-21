@@ -533,6 +533,24 @@
     },
     {
       "album": {
+        "name": "i love you but this is goodbye",
+        "url": "https://open.spotify.com/album/6gGk1hChE1H2vZpat7dw15"
+      },
+      "artists": [
+        {
+          "name": "Princess Nokia",
+          "url": "https://open.spotify.com/artist/6lay1nwbE6hTx1jivysUAL"
+        }
+      ],
+      "date_added": "2024-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200000,
+      "name": "happy",
+      "url": "https://open.spotify.com/track/1uMkOqwGtVFZLihwXe7WC6"
+    },
+    {
+      "album": {
         "name": "Timbaland\u2019s Beat Saber Music Pack by BeatClub",
         "url": "https://open.spotify.com/album/0huZW5ISjHtFKTGHhxkJwm"
       },

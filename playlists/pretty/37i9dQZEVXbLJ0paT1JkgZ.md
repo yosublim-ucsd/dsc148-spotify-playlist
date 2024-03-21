@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbLJ0paT1JkgZ.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Chile.
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,490 likes - 50 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,498 likes - 50 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbLJ0paT1JkgZ.md) - [plain]
 | 49 | [we can't be friends \(wait for your love\)](https://open.spotify.com/track/51ZQ1vr10ffzbwIjDCwqm4) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [eternal sunshine](https://open.spotify.com/album/5EYKrEDnKhhcNxGedaRQeK) | 3:48 |
 | 50 | [Young Miko: Bzrp Music Sessions, Vol\. 58](https://open.spotify.com/track/6VciS3dRMpZhJiDxT8ArFi) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB) | [Young Miko: Bzrp Music Sessions, Vol\. 58](https://open.spotify.com/album/0HMTQPl6rJmP7sQEaRYHRo) | 3:07 |
 
-Snapshot ID: `NzY0MjEyODAwLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=`
+Snapshot ID: `NzY0Mjk5MjAwLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=`

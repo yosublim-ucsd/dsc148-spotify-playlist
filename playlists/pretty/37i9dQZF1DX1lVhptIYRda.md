@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lVhptIYRda.md) - [plain]
 
 > Today's top country hits\. Cover: Kacey Musgraves
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,502,019 likes - 50 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,502,416 likes - 50 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Deeper Well](https://open.spotify.com/track/2lJn77IeZAP9cmv6DPXOrL) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Deeper Well](https://open.spotify.com/album/2NXiMKrwmPrqU8epp20pW8) | 3:52 |
+| 1 | [Deeper Well](https://open.spotify.com/track/333XFHKsHU0pOocFzBgrJi) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Deeper Well](https://open.spotify.com/album/5SxZmGwc4eJuPp6PcO4JgJ) | 3:52 |
 | 2 | [Think I'm In Love With You](https://open.spotify.com/track/65M92JpTbAdHmTQm4jGaDa) | [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [Think I’m In Love With You](https://open.spotify.com/album/52lLryGmbfkDOayypXEhhR) | 3:42 |
 | 3 | [Tucson Too Late](https://open.spotify.com/track/2hNQDbZcN3vqRAuwiz7poI) | [Jordan Davis](https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI) | [Bluebird Days](https://open.spotify.com/album/6izHNYgyKzGdRpYwtYFaaG) | 2:52 |
 | 4 | [your place](https://open.spotify.com/track/2z5t8IRRtt5vwkSzP9umJo) | [Ashley Cooke](https://open.spotify.com/artist/2qwXeRk8VBAegbUnf3xdyi) | [shot in the dark](https://open.spotify.com/album/2mb9T1V9feTNeGUNvXycfJ) | 3:02 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lVhptIYRda.md) - [plain]
 | 49 | [Save Me \(with Lainey Wilson\)](https://open.spotify.com/track/30LZU3ReFIndjHLfaahreM) | [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Whitsitt Chapel](https://open.spotify.com/album/2v1Lb9hidHkvvlIXYzSmeZ) | 3:57 |
 | 50 | [Things I Take For Granted](https://open.spotify.com/track/2d3KkBpDlOCLT5Wlhrwhfd) | [Larry Fleet](https://open.spotify.com/artist/6MWr1SmTaCU5BJzOZxwJEw) | [Earned It](https://open.spotify.com/album/182iKgpkS0r9XZDsjojCTP) | 3:26 |
 
-Snapshot ID: `MCw2MzEzNWFjZTA1ZTQ5MTIxOTgzZWRjYjY4MTk4YjdkZjkwYjBkMTNl`
+Snapshot ID: `MCw2NmY3NmFlZjAwOTViYTMzM2VjMDQxOGRmY2E4OTExYjgzMDY0NTJi`

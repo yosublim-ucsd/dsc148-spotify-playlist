@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Q8nvtZqrFa.md) - [plain]
 
 > 綺麗事は聞きたくない。本音でつづられた唄。Illustration by <a href="https://twitter.com/hoshieri7">北村英理</a>\(Eri Kitamura\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,271 likes - 50 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,291 likes - 50 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Q8nvtZqrFa.md) - [plain]
 | 49 | [私が明日死ぬなら](https://open.spotify.com/track/29KOSOrduu8U6Pz6ZZtuEj) | [Tatsuya Kitani](https://open.spotify.com/artist/7mvhRvEAHiCTQHUnH7fgnv) | [ROUNDABOUT](https://open.spotify.com/album/1N3qm3w4YsYgXh6XxBjkay) | 4:13 |
 | 50 | [クロノスタシス](https://open.spotify.com/track/6Pd73yNBtoVpTRM6xLwOGp) | [BUMP OF CHICKEN](https://open.spotify.com/artist/0hSFeqPehe7FtCNWuQ6Bsy) | [クロノスタシス](https://open.spotify.com/album/4upctURy2F1F2rVfltc2P6) | 5:39 |
 
-Snapshot ID: `MCwwNWJmYmJkODU1NWI1ZTljMzYyMWQyNmJmOWNhZDA1MjhjNGMzZTQ1`
+Snapshot ID: `MCw2OWQ5ZDI1ZWE4Y2JkOTNiNWVjOGQwYjU2NmI2YzUyNWJmYmZkODFk`

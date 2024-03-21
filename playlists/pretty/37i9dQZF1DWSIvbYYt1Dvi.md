@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSIvbYYt1Dvi.md) - [plain]
 
 > poetisas no topo \(com ctz\) é AULAS
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,208,166 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,208,205 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSIvbYYt1Dvi.md) - [plain]
 | 49 | [Ascensão do Cisne Negro](https://open.spotify.com/track/7IcoaHpCLutnfMmZQuqzbx) | [Major RD](https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5), [Rock Danger](https://open.spotify.com/artist/1mjuRRMumbLmGmHmYvMDcb), [El Lif Beatz](https://open.spotify.com/artist/0HBQtIkqXtoKagoPOgxK8k) | [Ascensão do Cisne Negro](https://open.spotify.com/album/5F6uYU6Gf5sFNDLEd17dpZ) | 2:48 |
 | 50 | [Documentário](https://open.spotify.com/track/2ndTkGWb7m80kMNNfQUq1e) | [Kamau](https://open.spotify.com/artist/2oB7m9exCPwJ8jwDgKWjho) | [Documentário](https://open.spotify.com/album/4bAbUUH5bndP2unEm1lwed) | 1:26 |
 
-Snapshot ID: `MCwwZmJkMTAzZWU4NDc2ODE1YTRjMDc3MmIwZjRkZDJlYmJlMGMyNDE1`
+Snapshot ID: `MCw0YTE3NGJkZWRiZDBjOThjYmM1YzRkYzk4MTNhZjcwZGYzYjViNGVl`

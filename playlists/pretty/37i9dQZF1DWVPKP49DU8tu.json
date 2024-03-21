@@ -1,12 +1,12 @@
 {
   "description": "Solo hit da cantare (anche fuori dalla doccia).",
-  "num_followers": 356402,
+  "num_followers": 356417,
   "original_name": "Canta Sotto La Doccia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0NGFkNjAyMGQ1YWM5NjRhODM2ZTU4ODE5MjRhZGEwZjQyOGUwMmFl",
+  "snapshot_id": "MCxmZjA1ZTgxNmI3YmUwZmUzNDcyN2RiMWQ3MTI4NjcwY2EwMmFhYzk4",
   "tracks": [
     {
       "added_at": "2024-01-30 14:04:15",
@@ -903,22 +903,6 @@
     {
       "added_at": "2024-01-30 14:04:15",
       "album": {
-        "name": "Beautiful Trauma",
-        "url": "https://open.spotify.com/album/7hwhuEQT4Fp5bzwLlYZtiz"
-      },
-      "artists": [
-        {
-          "name": "P!nk",
-          "url": "https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR"
-        }
-      ],
-      "duration_ms": 269600,
-      "name": "What About Us",
-      "url": "https://open.spotify.com/track/0Qh38w01QRXK6KHIv0e3hb"
-    },
-    {
-      "added_at": "2024-01-30 14:04:15",
-      "album": {
         "name": "Where Did You Go (feat. MNEK)",
         "url": "https://open.spotify.com/album/5vSLX6JljaSXuRY2Wqi6xL"
       },
@@ -935,6 +919,22 @@
       "duration_ms": 177689,
       "name": "Where Did You Go? (feat. MNEK)",
       "url": "https://open.spotify.com/track/3sa06xVNmLLYIxdNNmVQN8"
+    },
+    {
+      "added_at": "2024-01-30 14:04:15",
+      "album": {
+        "name": "Beautiful Trauma",
+        "url": "https://open.spotify.com/album/7hwhuEQT4Fp5bzwLlYZtiz"
+      },
+      "artists": [
+        {
+          "name": "P!nk",
+          "url": "https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR"
+        }
+      ],
+      "duration_ms": 269600,
+      "name": "What About Us",
+      "url": "https://open.spotify.com/track/0Qh38w01QRXK6KHIv0e3hb"
     },
     {
       "added_at": "2024-01-30 14:04:15",
@@ -1543,22 +1543,6 @@
     {
       "added_at": "2024-01-30 14:04:15",
       "album": {
-        "name": "Diamond Dogs (2016 Remaster)",
-        "url": "https://open.spotify.com/album/72mfhbEsMtXR6s7v9UhKe3"
-      },
-      "artists": [
-        {
-          "name": "David Bowie",
-          "url": "https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy"
-        }
-      ],
-      "duration_ms": 274746,
-      "name": "Rebel Rebel - 2016 Remaster",
-      "url": "https://open.spotify.com/track/2EC9IJj7g0mN1Q5VrZkiYY"
-    },
-    {
-      "added_at": "2024-01-30 14:04:15",
-      "album": {
         "name": "Cuz I Love You",
         "url": "https://open.spotify.com/album/6dFFcYQ8VhifgdKgYY5LYL"
       },
@@ -1575,18 +1559,18 @@
     {
       "added_at": "2024-01-30 14:04:15",
       "album": {
-        "name": "1 (Remastered)",
-        "url": "https://open.spotify.com/album/7vEJAtP3KgKSpOHVgwm3Eh"
+        "name": "Diamond Dogs (2016 Remaster)",
+        "url": "https://open.spotify.com/album/72mfhbEsMtXR6s7v9UhKe3"
       },
       "artists": [
         {
-          "name": "The Beatles",
-          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
+          "name": "David Bowie",
+          "url": "https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy"
         }
       ],
-      "duration_ms": 425653,
-      "name": "Hey Jude - Remastered 2015",
-      "url": "https://open.spotify.com/track/0aym2LBJBk9DAYuHHutrIl"
+      "duration_ms": 274746,
+      "name": "Rebel Rebel - 2016 Remaster",
+      "url": "https://open.spotify.com/track/2EC9IJj7g0mN1Q5VrZkiYY"
     },
     {
       "added_at": "2024-01-30 14:04:15",
@@ -1603,6 +1587,22 @@
       "duration_ms": 429760,
       "name": "Light My Fire",
       "url": "https://open.spotify.com/track/5uvosCdMlFdTXhoazkTI5R"
+    },
+    {
+      "added_at": "2024-01-30 14:04:15",
+      "album": {
+        "name": "1 (Remastered)",
+        "url": "https://open.spotify.com/album/7vEJAtP3KgKSpOHVgwm3Eh"
+      },
+      "artists": [
+        {
+          "name": "The Beatles",
+          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
+        }
+      ],
+      "duration_ms": 425653,
+      "name": "Hey Jude - Remastered 2015",
+      "url": "https://open.spotify.com/track/0aym2LBJBk9DAYuHHutrIl"
     },
     {
       "added_at": "2024-01-30 14:04:15",

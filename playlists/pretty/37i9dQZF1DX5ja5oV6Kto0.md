@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5ja5oV6Kto0.md) - [plain]
 
 > The contemporary new wave of alternative, genre\-bending and creative afro\-fusion music\. Cover: Odunsi \(The Engine\) x Leather Park
 
-[Spotify](https://open.spotify.com/user/spotify) - 90,708 likes - 88 songs - 3 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 90,762 likes - 88 songs - 3 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -97,4 +97,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5ja5oV6Kto0.md) - [plain]
 | 87 | [LAGOS](https://open.spotify.com/track/0Yg8MfD8PBMTd0FhWWXrqK) | [DEELA](https://open.spotify.com/artist/10yLOgKTy2iAtvIqkow5l4), [Somadina](https://open.spotify.com/artist/4C9EX8d2FnWMV2yQZqeG8U) | [LAGOS](https://open.spotify.com/album/3PdhofyZlNFvqv3I9UMnef) | 2:41 |
 | 88 | [JUST LIKE DETO](https://open.spotify.com/track/5vxETGyeKhT0atQECpWcMt) | [DETO BLACK](https://open.spotify.com/artist/2Hgj50QKDLwDTRjb42hRIT) | [JUST LIKE DETO](https://open.spotify.com/album/1aLAoQ1BZMQMIh2IxVaHxL) | 2:11 |
 
-Snapshot ID: `MCw2NDUzYjY4MmQzNzI0ZjNhMjYwNDJkMjY2YzE2MWJlMmJkOTg2M2Zl`
+Snapshot ID: `MCw0MzBlMjc2MjA2YjgzODFiYWRjYWI2ZThlODUzNzM1NGViYTRjYjVh`

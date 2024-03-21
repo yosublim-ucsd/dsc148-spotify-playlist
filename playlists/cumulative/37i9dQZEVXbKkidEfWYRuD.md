@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Ukraine.
 
-1,424 songs - 2 day 17 hr 55 min
+1,425 songs - 2 day 17 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -167,7 +167,7 @@
 | [DAVID BECKHAM](https://open.spotify.com/track/6i1wYW9aYzrPTbqYfjamS8) | [OBLADAET](https://open.spotify.com/artist/1hwKCeSXpLrh4OQND6iQHw) | [PLAYERS CLUB](https://open.spotify.com/album/5sw0ehyM0UI5NX7BwPQlXI) | 2:51 | 2021-03-27 | 2021-04-02 |
 | [Dayang](https://open.spotify.com/track/5oJICQvO6ZkPPZPwsvPLBs) | [Big Baby Tape](https://open.spotify.com/artist/5NMwoStnfHT4LdETlJSwDT) | [VARSKVA](https://open.spotify.com/album/1Qk2lItE5KiD5DqKZpd31w) | 2:47 | 2024-01-03 | 2024-02-02 |
 | [Daylight](https://open.spotify.com/track/7rbjz4itTy3a6c6nBhKOh0) | [BERKO CHAMP](https://open.spotify.com/artist/5kwaY7ov1Oy6CU2XyoJYCI), [LEXMENDY](https://open.spotify.com/artist/4EMIl7p2d0SddxeHyzB6Xt), [citosxd](https://open.spotify.com/artist/0Whs6LUh8PF4j8OHaRDmNK) | [Daylight](https://open.spotify.com/album/7hLE5RWzjEdZe1dwYp0LNz) | 3:31 | 2024-01-21 | 2024-01-23 |
-| [Daylight](https://open.spotify.com/track/1odExI7RdWc4BT515LTAwj) | [David Kushner](https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY) | [Daylight](https://open.spotify.com/album/6NcI39WPu4kY6Tul11nhSv) | 3:32 | 2023-04-15 |  |
+| [Daylight](https://open.spotify.com/track/1odExI7RdWc4BT515LTAwj) | [David Kushner](https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY) | [Daylight](https://open.spotify.com/album/6NcI39WPu4kY6Tul11nhSv) | 3:32 | 2023-04-15 | 2024-03-21 |
 | [De Diepte](https://open.spotify.com/track/7uQ7e7nzbtyX87eIYHpj6Z) | [S10](https://open.spotify.com/artist/1zT9SWCzN45r7oVhy0VYLK) | [De Diepte](https://open.spotify.com/album/6XAKVt3CT7r1Zf0uiMWt7o) | 2:56 | 2022-05-16 | 2022-05-29 |
 | [Dead Inside](https://open.spotify.com/track/0EPK3XVvgbe8q0KrS7nEiY) | [АДЛИН](https://open.spotify.com/artist/3vw4wtxW7yv7yJSDqkIuUz) | [Dead Inside](https://open.spotify.com/album/5HwVMu4cxjViVqtg1wSYIN) | 2:04 | 2022-09-27 | 2022-11-16 |
 | [Deck The Halls](https://open.spotify.com/track/0rHToGels2lt8Y0mCYoF90) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [The Christmas Song \(Expanded Edition\)](https://open.spotify.com/album/6vBGI5522jvPi0ZZuGQNp4) | 1:08 | 2023-01-01 | 2023-01-03 |
@@ -246,7 +246,7 @@
 | [FRACTAL HORNS](https://open.spotify.com/track/3hP3mM1xQGKY8ac0KAwaJj) | [zxcursed](https://open.spotify.com/artist/53fwP60M1QNPDiXALVMeOs), [TORONTOKYO](https://open.spotify.com/artist/6uKgiFPbU9nJC2CMXd3zYi) | [FRACTAL HORNS](https://open.spotify.com/album/3N6mTQiddCwtUB4pcbu2kW) | 1:52 | 2023-09-09 | 2023-09-11 |
 | [Freaks](https://open.spotify.com/track/0HUTL8i4y4MiGCPId7M7wb) | [Surf Curse](https://open.spotify.com/artist/1gl0S9pS0Zw0qfa14rDD3D) | [Buds](https://open.spotify.com/album/4cAEWgTGIU7kL1sgbivyGY) | 2:27 | 2021-05-03 | 2021-05-16 |
 | [Freaks](https://open.spotify.com/track/7EkWXAI1wn8Ii883ecd9xr) | [Surf Curse](https://open.spotify.com/artist/1gl0S9pS0Zw0qfa14rDD3D) | [Freaks](https://open.spotify.com/album/5WjaIWthUR3AjA0UYG3jR5) | 2:27 | 2021-05-18 | 2021-05-20 |
-| [FRI\(END\)S](https://open.spotify.com/track/0PBTlQ84CBJF0tBnKGmQa6) | [V](https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK) | [FRI\(END\)S](https://open.spotify.com/album/7v4sqd0NZ9Fm8HnwCcCGIs) | 2:28 | 2024-03-16 |  |
+| [FRI\(END\)S](https://open.spotify.com/track/0PBTlQ84CBJF0tBnKGmQa6) | [V](https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK) | [FRI\(END\)S](https://open.spotify.com/album/7v4sqd0NZ9Fm8HnwCcCGIs) | 2:28 | 2024-03-16 | 2024-03-21 |
 | [Friesenjung](https://open.spotify.com/track/6tAKikIvnoWfUeZrfkopLL) | [Ski Aggu](https://open.spotify.com/artist/6CP5wWvO8oIxedESJNCN4H), [Joost](https://open.spotify.com/artist/6s5ubAp65wXoTZefE01RNR), [Otto Waalkes](https://open.spotify.com/artist/1T6DQ853AlyL47W8a2jC0f) | [Friesenjung](https://open.spotify.com/album/4yavemUxS14K84SLwsHNmn) | 2:26 | 2023-08-12 | 2023-10-04 |
 | [FUK SUMN](https://open.spotify.com/track/5rlXuCLnMdfo85079qXHoz) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [VULTURES 1](https://open.spotify.com/album/0k7ALIqqds5oGFtpMsaHLK) | 3:29 | 2024-02-12 | 2024-02-16 |
 | [fukumean](https://open.spotify.com/track/4rXLjWdF2ZZpXCVTfWcshS) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [a Gift & a Curse](https://open.spotify.com/album/5qmZefgh78fN3jsyPPlvuw) | 2:05 | 2023-08-29 | 2023-09-26 |
@@ -323,6 +323,7 @@
 | [HYAENA](https://open.spotify.com/track/0hL9gOw6XBWsygEUcVjxEc) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [UTOPIA](https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ) | 3:42 | 2023-07-29 | 2023-08-01 |
 | [HYPNOTIC DATA](https://open.spotify.com/track/26wxtmoH4uPUF1n5VlPxMc) | [Odetari](https://open.spotify.com/artist/7ITMCzIU9uII8gwRg8JAhc) | [XIII SORROWS](https://open.spotify.com/album/7dfODAnexuCQljq6ewTjtB) | 2:08 | 2023-10-09 | 2023-10-14 |
 | [i dont wna cry \(haste\)](https://open.spotify.com/track/6RKeESxpM58GCfR5eRdfzY) | [kurffew](https://open.spotify.com/artist/7rxyD0KDWwZ86aQNWfkJhz) | [i dont wna cry](https://open.spotify.com/album/5AIZKUZZW9RE3xhTf64h39) | 2:01 | 2023-05-25 | 2023-07-02 |
+| [i like the way you kiss me](https://open.spotify.com/track/2GxrNKugF82CnoRFbQfzPf) | [Artemas](https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2) | [i like the way you kiss me](https://open.spotify.com/album/5HIWDdg3g9CTOtnevKDl1z) | 2:22 | 2024-03-20 |  |
 | [I LOVE YOU HOE \(w/ 9lives\)](https://open.spotify.com/track/0NaUT74rJ0NHS62fewzatU) | [Odetari](https://open.spotify.com/artist/7ITMCzIU9uII8gwRg8JAhc), [9lives](https://open.spotify.com/artist/2MQN1o9W3ULxdT38vj8g4Q) | [3x3](https://open.spotify.com/album/32BvlHf3nCW7cOTH970V7t) | 2:06 | 2023-08-17 | 2023-09-02 |
 | [I Really Want to Stay at Your House](https://open.spotify.com/track/7mykoq6R3BArsSpNDjFQTm) | [Rosa Walton](https://open.spotify.com/artist/1X0HaTcdkHW7LviblBiEeq), [Hallie Coggins](https://open.spotify.com/artist/5JNkPX6dYGLeEm4cUjHNGc) | [Cyberpunk 2077: Radio, Vol\. 2 \(Original Soundtrack\)](https://open.spotify.com/album/1VGVJdmvOSRK2w9RKXk18A) | 4:06 | 2022-09-23 | 2022-10-14 |
 | [I WANNA BE YOUR SLAVE](https://open.spotify.com/track/4pt5fDVTg5GhEvEtlz9dKk) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [Teatro d'ira \- Vol\. I](https://open.spotify.com/album/7KF1Ain9mYYlg5M46g0i4A) | 2:53 | 2021-05-25 | 2021-11-03 |
@@ -1179,7 +1180,7 @@
 | [плачь](https://open.spotify.com/track/3yCKABoZU3FVFuyVBc5VlM) | [rizza](https://open.spotify.com/artist/3zgn9mSaWsqdpcKo94Z5oi), [Sqwore](https://open.spotify.com/artist/2IGZnq5Ot1NquCpks3zO4o) | [плачь](https://open.spotify.com/album/5mmGfb74RHeHg2042MXq5A) | 1:56 | 2021-10-19 | 2022-07-17 |
 | [Плохая Сука](https://open.spotify.com/track/37H0CwLD3FGeHoEjlY4LAO) | [GONE.Fludd](https://open.spotify.com/artist/0ohUvVskERzK18bvWXFEqi) | [Плохая Сука](https://open.spotify.com/album/7Fej6nFF9KSCC6cJybCnsX) | 2:08 | 2021-06-06 | 2021-06-13 |
 | [По Глазам](https://open.spotify.com/track/53bbEINuw0ez3ntLcqYCu2) | [SLAVA MARLOW](https://open.spotify.com/artist/55jryyk7RhvMbrvoF0ndBh) | [АРТЁМ](https://open.spotify.com/album/41uurV69BIoO6FwaRdXkWo) | 2:00 | 2021-03-27\* | 2021-05-05 |
-| [Повільно](https://open.spotify.com/track/0NYvacFqoJdJggiOynzbur) | [Adam](https://open.spotify.com/artist/19JYV5zLhGkyqClNjdSfdb) | [Повільно](https://open.spotify.com/album/6vfaWDp5UB2a6zxs7ZwBDv) | 2:46 | 2023-12-01 | 2024-03-20 |
+| [Повільно](https://open.spotify.com/track/0NYvacFqoJdJggiOynzbur) | [Adam](https://open.spotify.com/artist/19JYV5zLhGkyqClNjdSfdb) | [Повільно](https://open.spotify.com/album/6vfaWDp5UB2a6zxs7ZwBDv) | 2:46 | 2023-12-01 |  |
 | [Погані сусіди](https://open.spotify.com/track/16buytNF31fLKzDP9q7ZEg) | [SKOFKA](https://open.spotify.com/artist/0Aj4ZvDgwd9DSs7E2nrox0) | [Погані сусіди](https://open.spotify.com/album/4cag70AzB98J6JePUV9pqv) | 2:53 | 2023-05-07 | 2023-06-27 |
 | [Погляд](https://open.spotify.com/track/66Xj2OpnDALdW0G509b9yY) | [YAKTAK](https://open.spotify.com/artist/5zjgy7grnZbt2L12meuxog), [SOBOL'](https://open.spotify.com/artist/2tzrAdVhSe0qIQBpedBCHh) | [Погляд](https://open.spotify.com/album/2U3ecGQPqMwXz4vSOps8Td) | 2:56 | 2023-03-08 | 2024-03-20 |
 | [Погоди](https://open.spotify.com/track/5sJt5rmSaKTQyAymKx6e1W) | [DSPRITE](https://open.spotify.com/artist/69PhufCTrndjECAUsBPFtw) | [Погоди](https://open.spotify.com/album/4yNMRTBvOZvRDLGSNLMOtQ) | 1:52 | 2021-11-26 | 2021-12-19 |

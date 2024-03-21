@@ -4,7 +4,7 @@
 
 > Ritmo latino!
 
-188 songs - 10 hr 39 min
+189 songs - 10 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -141,7 +141,7 @@
 | [Otra vez \(feat\. J Balvin\)](https://open.spotify.com/track/3QwBODjSEzelZyVjxPOHdq) | [Zion & Lennox](https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [Motivan2](https://open.spotify.com/album/22lEQJ7khtB2yvsq84FDQb) | 3:29 | 2022-11-07 |  |
 | [Pa' Que Retozen](https://open.spotify.com/track/5YJ4BVvTFmVCxUyhKejHfR) | [Tego Calderón](https://open.spotify.com/artist/3SUT1jjM5hzZj9TLfLZGIP) | [El Abayarde](https://open.spotify.com/album/6Q1kiSijkaHwoCwZUHW6IY) | 2:31 | 2022-07-25 |  |
 | [PANTIES Y BRASIERES](https://open.spotify.com/track/0fADaWdT3obxk7zvHS18VY) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m) | [PANTIES Y BRASIERES](https://open.spotify.com/album/5I66RzytH4VwOHZiowdsXf) | 3:17 | 2023-02-24 | 2023-07-29 |
-| [Pareja Del Año](https://open.spotify.com/track/2rCbl9naJYhaxjLsfx88uM) | [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [Pareja Del Año](https://open.spotify.com/album/202FLmfHxcvLHPiqmAjWyJ) | 3:15 | 2022-06-22 |  |
+| [Pareja Del Año](https://open.spotify.com/track/2rCbl9naJYhaxjLsfx88uM) | [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [Pareja Del Año](https://open.spotify.com/album/202FLmfHxcvLHPiqmAjWyJ) | 3:15 | 2022-06-22 | 2024-03-21 |
 | [París](https://open.spotify.com/track/4bF2y8rR7GUjrd5LNEvej3) | [Ingratax](https://open.spotify.com/artist/62YF0FglEltB3CnVIjoko8) | [París](https://open.spotify.com/album/6Ktv94u6eUIZBiUiBwOADD) | 2:31 | 2022-06-22 | 2023-01-15 |
 | [Pegao](https://open.spotify.com/track/7Dk8r4VR5NoveUvTiCKEXC) | [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N) | [Pegao](https://open.spotify.com/album/2BzQoZdHURkzdFErSQ2Qll) | 2:40 | 2022-06-22 | 2022-10-19 |
 | [PENDEJO](https://open.spotify.com/track/5cy2dREJqJAyf3CNr509W7) | [Enrique Iglesias](https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw) | [FINAL \(Vol.1\)](https://open.spotify.com/album/61a4XyIj98CGrUnKy8Hu4Z) | 2:45 | 2022-06-22 | 2022-07-29 |
@@ -159,6 +159,7 @@
 | [Rauw Alejandro: Bzrp Music Sessions, Vol\. 56](https://open.spotify.com/track/2NFadq6pUeiVEihLvUlOSr) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [Rauw Alejandro: Bzrp Music Sessions, Vol\. 56](https://open.spotify.com/album/6N4eyhCAqaGoT3lcEpzBmf) | 3:11 | 2023-06-22 |  |
 | [Reggaetón Lento \(Bailemos\)](https://open.spotify.com/track/3AEZUABDXNtecAOSC1qTfo) | [CNCO](https://open.spotify.com/artist/0eecdvMrqBftK0M1VKhaF4) | [Primera Cita](https://open.spotify.com/album/0YLrAWUbY0nyM7PFtqnYld) | 3:42 | 2022-12-19 |  |
 | [Relación \- Remix](https://open.spotify.com/track/35UUpTmrcFXNIVIN26ujXl) | [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht), [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1), [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO) | [Relación \(Remix\)](https://open.spotify.com/album/2O985DZAb4i6M6iu4HWqSX) | 4:07 | 2022-06-22 | 2023-03-31 |
+| [Reloj](https://open.spotify.com/track/4loQgPwJHocL3dFwLfjb1J) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) | [Afrodisíaco](https://open.spotify.com/album/3fq06DDIkadDRB9RuBb22v) | 3:51 | 2024-03-14 |  |
 | [RITMO \(Bad Boys For Life\)](https://open.spotify.com/track/6cy3ki60hLwimwIje7tALf) | [Black Eyed Peas](https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [RITMO \(Bad Boys For Life\)](https://open.spotify.com/album/6EobpC5SDFy5DF50dWNVGF) | 3:41 | 2022-07-25 | 2023-07-13 |
 | [Rumba \(Puro Oro Anthem\)](https://open.spotify.com/track/2KNcIEF7mHjChtXSPddVmu) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [Rumba \(Puro Oro Anthem\)](https://open.spotify.com/album/6sblDQAma9Lh8GdUYFTCak) | 2:54 | 2022-06-22 | 2022-07-29 |
 | [Se Te Nota \(with Guaynaa\)](https://open.spotify.com/track/11EnQRgRMJwMAesfkB5pnu) | [Lele Pons](https://open.spotify.com/artist/6i3DxIlAqnDkwELLw4aVrx), [Guaynaa](https://open.spotify.com/artist/0BqURncJM5B1BBu7UM51eq) | [Se Te Nota \(with Guaynaa\)](https://open.spotify.com/album/4XiHCUNnGgnnN5xkGue4RF) | 2:35 | 2022-06-22 | 2022-07-29 |

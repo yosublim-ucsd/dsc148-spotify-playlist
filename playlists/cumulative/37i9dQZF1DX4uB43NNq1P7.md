@@ -4,7 +4,7 @@
 
 > The sounds of rain outside, while you're cozy inside with some relaxing piano music in the background.
 
-101 songs - 4 hr 33 min
+104 songs - 4 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,6 +51,7 @@
 | [May We Meet Again](https://open.spotify.com/track/7zn6XN9BFYtjLm730WuDov) | [Konstantin Rotärmel](https://open.spotify.com/artist/73x7dsM3ThlOaumf63iiyT) | [Echoes of Rain](https://open.spotify.com/album/5MhZf2tjvfGklglbYHiPH3) | 2:03 | 2023-03-13 | 2023-11-05 |
 | [Melusina Alba](https://open.spotify.com/track/2ndnjV4KpneBCYRHALd8Ro) | [Thomas Perceval](https://open.spotify.com/artist/42lfxltT65SVNLR6kypDU5) | [Melusina Alba](https://open.spotify.com/album/4HYOInJP0f608sH2178lN9) | 2:13 | 2023-03-13 |  |
 | [Micelle](https://open.spotify.com/track/6B93bHTKbd7Tv4F3U267ga) | [Vuelto Ciego](https://open.spotify.com/artist/2aGcZFlseymIvZzsg8H4yl) | [Micelle](https://open.spotify.com/album/2ZuVz9Mjtohq1taNses5ym) | 2:07 | 2023-03-13 |  |
+| [Midnight Moon \(Rain\)](https://open.spotify.com/track/1ZncqbnwCe7myD7JvsypVb) | [Óskar Ólafsson](https://open.spotify.com/artist/6f58NPwECwG3DfnbQmYhf8) | [Midnight Moon \(Rain\)](https://open.spotify.com/album/0VML9T2n1CMZ5428r8MUMV) | 2:18 | 2024-03-20 |  |
 | [miru \(with rain\)](https://open.spotify.com/track/10tpukUJbtWxgHjNVCXSTD) | [Klaüs](https://open.spotify.com/artist/3252lQrYqRgAFw2xXuNdVZ) | [mar](https://open.spotify.com/album/636T4AzmCWkvbzEIHmuCFj) | 2:17 | 2023-08-18 | 2024-01-10 |
 | [Mitternacht \(Rain\)](https://open.spotify.com/track/2iRGKPnnIdjAet42QjwXdN) | [Teide](https://open.spotify.com/artist/31JZooajAUmQZAX2j6fPZ5) | [Filtered Light \(Rain\)](https://open.spotify.com/album/49nE3LTRvdivTulr4oenOs) | 2:50 | 2023-03-13 |  |
 | [Miyazaki's rain](https://open.spotify.com/track/4HtAAcEvxbv28AOoHC2fDw) | [Fredrik Lundberg](https://open.spotify.com/artist/1WFoHIANaCtKQ1jrzPl3C3) | [Miyazaki's rain](https://open.spotify.com/album/42sr6wwHVuwmAJHREXpK4x) | 2:46 | 2023-09-12 |  |
@@ -78,6 +79,7 @@
 | [Rainy Sunday at the Cottage](https://open.spotify.com/track/1nyzEH2nN9UfL3PNVsxQZz) | [Miss Brooke's Cottage](https://open.spotify.com/artist/6wYWLz4TZvuTTtSI2HCcsj) | [Rainy Sunday at the Cottage](https://open.spotify.com/album/75xGNJ1qnFvoJdx8JtS3WI) | 3:45 | 2023-03-13 |  |
 | [Returning Home](https://open.spotify.com/track/1ClUmEEJYoDemcIPQQIODw) | [A Long Story](https://open.spotify.com/artist/1RFdkmm7AtmHeZTrdoJOFI) | [Returning Home](https://open.spotify.com/album/7xgg2hiwbvf5ZTXLfbxP1L) | 2:28 | 2023-03-13 |  |
 | [Safety Blanket](https://open.spotify.com/track/3MRIF4BQ3Oq6T84mGZxkLe) | [Dennis Shaw](https://open.spotify.com/artist/0nj9xF9necCK5vtX9WaRyA) | [Sara's Dream](https://open.spotify.com/album/7F6h50htukYIIbflsJs9TF) | 3:18 | 2023-03-13 | 2023-10-20 |
+| [Saudade \(rain\)](https://open.spotify.com/track/50B2aIF9naQZcULzikaTyi) | [Noella Russo](https://open.spotify.com/artist/2zgddkOsrXf0cnPquq6N59) | [Saudade \(rain\)](https://open.spotify.com/album/0istZOKM7NdEcAPqgCQf93) | 3:04 | 2024-03-20 |  |
 | [Shoganai \- Rain version](https://open.spotify.com/track/1GNOoyUXt6Cthxd4JlOLx2) | [Marlon Guild](https://open.spotify.com/artist/37H3UX4jTV7ZjH5yL6l3Yl) | [Shoganai \- Rain version](https://open.spotify.com/album/3edIRkiUxDKsY0IxoU2ZQy) | 3:14 | 2023-04-24 |  |
 | [Soft Piano In Light Rain](https://open.spotify.com/track/2t5rleV4AUS329uPShiEQ6) | [Wonderful Escape](https://open.spotify.com/artist/0PJ6I5TXDRK4pmLuSfh33T) | [Rain & Piano](https://open.spotify.com/album/4Hxom43QXe8rjoiw1uxyFB) | 3:20 | 2023-03-13 |  |
 | [Solitude \(rain\)](https://open.spotify.com/track/7rJ7Zhxvd04reQjatzKhCg) | [Ren Lockhart](https://open.spotify.com/artist/2o6Pj478mXZrEZbEFnAbXp) | [Tjörnin \(rain\)](https://open.spotify.com/album/2KAYvmo41twqasnKkDigBs) | 3:36 | 2023-09-01 |  |
@@ -104,6 +106,7 @@
 | [Trail through the Rain](https://open.spotify.com/track/4H488lqoJRCr6DjQn2VsvB) | [Linda Stephenson](https://open.spotify.com/artist/0BIkcSmX3Ghgcz8TADTocv) | [Trail through the Rain](https://open.spotify.com/album/25ckC8W9Eah8xd7fLYSWnx) | 2:51 | 2023-08-02 |  |
 | [Turquoise rain](https://open.spotify.com/track/28wzOAQIs9IhZuv4I0zLH6) | [Sven Grimm](https://open.spotify.com/artist/0Yg8xlGiBpP2gdXx24nTlj) | [Turquoise rain](https://open.spotify.com/album/7IFBS8UoAIbNmaAftKkCXY) | 2:05 | 2023-03-13 |  |
 | [Twilight \(Rain\)](https://open.spotify.com/track/6A8BVf7yLDPwbGJ1xFuKyw) | [Greg Bevis](https://open.spotify.com/artist/4ngLyEjORduhTNduB1I3Hu), [Óskar Ólafsson](https://open.spotify.com/artist/6f58NPwECwG3DfnbQmYhf8) | [Friluftsliv](https://open.spotify.com/album/0AatQyqxu4MbOEJYbfPH6t) | 2:08 | 2024-01-09 |  |
+| [Under A Rainy Sky](https://open.spotify.com/track/6SAwDsaihJKZhUZo3O6Zcl) | [Paul Ellier](https://open.spotify.com/artist/2ffr4kDekHfqOgMV0fhlSu) | [Under A Rainy Sky](https://open.spotify.com/album/2BFZI8pTJnYiACcUfWIv2t) | 2:00 | 2024-03-20 |  |
 | [Under The Oak](https://open.spotify.com/track/0TBeVsPId87STJeWjD4jrb) | [Emil Bodén](https://open.spotify.com/artist/1BFjNsvyM2EWLPwcHoNBUn) | [Under The Oak](https://open.spotify.com/album/4qfl4P8MTH2y5W5rMfDMHJ) | 3:09 | 2023-07-06 |  |
 | [Welcome Home](https://open.spotify.com/track/6hB3TsUZUwOC6QUxHIhFgg) | [En Sollozos](https://open.spotify.com/artist/3aGdDLCXYoZixmZbIriJoE) | [Welcome Home](https://open.spotify.com/album/0OREKsFFaKODKuVoAHtqrr) | 2:15 | 2023-03-13 | 2024-01-10 |
 | [Windbreaker \(Rain\)](https://open.spotify.com/track/1bqD3jJD72M3vzc9ruQnxo) | [Loulaz](https://open.spotify.com/artist/7MGPD7xEYrAipWB1xaoiZz) | [Windbreaker \(Rain\)](https://open.spotify.com/album/1ZbhnNqhMIgQLwyCUJWpqd) | 3:20 | 2024-02-05 |  |

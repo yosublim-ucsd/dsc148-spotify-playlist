@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbLehMNdssDG.md) - [plain]
 
 > Affirmations and meditation music for a mindful start of the day.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,776 likes - 50 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,854 likes - 50 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbLehMNdssDG.md) - [plain]
 | 35 | [Spiritual Echoes](https://open.spotify.com/track/5TGrXaVmrNlJoeaCcuyGhc) | [Bernie Longo](https://open.spotify.com/artist/7N3bLImLosoZTt8HJTmLw1) | [Spiritual Echoes](https://open.spotify.com/album/20ztVU1HJ6YJSVCVruojPu) | 2:44 |
 | 36 | [Samadhi](https://open.spotify.com/track/5Y6ViOdg0C8ZOxNk6TnGyL) | [Aitana Bayá](https://open.spotify.com/artist/0RLYYYs6bcyvH5eqzbKHq2) | [Samadhi](https://open.spotify.com/album/7h1IDbqzA8gS3vv5FgLPjy) | 2:24 |
 | 37 | [432 Hz Delta](https://open.spotify.com/track/1N4hq8aaeNpp6f6Q2MPwb4) | [Dreamlike States](https://open.spotify.com/artist/2dkyQx6iyFrb0ye8iGFz8L) | [Delta Binaural Waves](https://open.spotify.com/album/7ocLgwnXM4M2ugl89K9Rxj) | 2:40 |
-| 38 | [Night Bells \(432 Hz\)](https://open.spotify.com/track/4fW7JLrMCSkPHKg6QmxfGc) | [Tsuchida Kasumi](https://open.spotify.com/artist/5tzjFM5pLsDc4Z6udd1zUT) | [Night Bells \(432 Hz\)](https://open.spotify.com/album/3awJzQg6vbV9tckTaY9apr) | 2:55 |
-| 39 | [528 Hz \- Recovery](https://open.spotify.com/track/6J66keH0Zr1IMUszboqzJ8) | [Sienna Meadows](https://open.spotify.com/artist/2ZDLubEeEfuvABC6vzMMFm) | [528 Hz \- Recovery](https://open.spotify.com/album/1osmKaEGvZH6PdNqz5AAp2) | 2:42 |
+| 38 | [528 Hz \- Recovery](https://open.spotify.com/track/6J66keH0Zr1IMUszboqzJ8) | [Sienna Meadows](https://open.spotify.com/artist/2ZDLubEeEfuvABC6vzMMFm) | [528 Hz \- Recovery](https://open.spotify.com/album/1osmKaEGvZH6PdNqz5AAp2) | 2:42 |
+| 39 | [Night Bells \(432 Hz\)](https://open.spotify.com/track/4fW7JLrMCSkPHKg6QmxfGc) | [Tsuchida Kasumi](https://open.spotify.com/artist/5tzjFM5pLsDc4Z6udd1zUT) | [Night Bells \(432 Hz\)](https://open.spotify.com/album/3awJzQg6vbV9tckTaY9apr) | 2:55 |
 | 40 | [Star Above Parvati](https://open.spotify.com/track/1v6wDVHNEhAWgQ2ccBHjqg) | [Peyote Level](https://open.spotify.com/artist/4pYUORZCLABNwtzn9kezVd) | [Star Above Parvati](https://open.spotify.com/album/2O7c5JeLgSUTCj3Z403M4k) | 3:04 |
 | 41 | [432 Hz Foreverness](https://open.spotify.com/track/5r9GeLzmAvxVi8kUrYeIWN) | [Altered Source](https://open.spotify.com/artist/2iRhuolbUq4A4UP0Pz9SVI) | [432 Hz New Horizon](https://open.spotify.com/album/5rx3l1qJDAajbBzNv2A833) | 3:19 |
 | 42 | [Morning ‘I am’ Affirmations](https://open.spotify.com/track/5djRWx3GupMvfbbBRJORjn) | [Kinder Records](https://open.spotify.com/artist/0PlHsnMe5h7xUJG1kA87Xo) | [Morning Affirmations](https://open.spotify.com/album/3ov2t8Tjj4KuQLiAsG1fl7) | 2:32 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbLehMNdssDG.md) - [plain]
 | 49 | [Blue Skies \(174 Hz\)](https://open.spotify.com/track/2gXD7eSRbKOQgwggkcSsuB) | [Endemoniada](https://open.spotify.com/artist/5yBQew0Dy7qPue4XoyHkO2) | [Blue Skies \(174 Hz\)](https://open.spotify.com/album/4EVCcEzQekL26my2vfBuis) | 3:03 |
 | 50 | [Revitalizing Frequencies \- 285 Hz](https://open.spotify.com/track/3mmo00VwW1NzRcK6QsfsF9) | [Savasana](https://open.spotify.com/artist/5EvA844VMdq61U5M4Ds0Fk) | [Revitalizing Frequencies \- 285 Hz](https://open.spotify.com/album/4uEYqgYfHUab4CsoioqaAn) | 2:50 |
 
-Snapshot ID: `MCw0OTUxODM4MzI3MTQ2Njg5MjM0N2I3ODdjMzQ4NjkyZmVmMzFkZmQz`
+Snapshot ID: `MCw3MzIxYjdmYmIyNjUwOWYwOTYwODU3ZjNmOTEyZTE1ZWRkZWVkNWNk`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2LPGy4.md) - [plain]
 
 > This is Gerardo Ortiz\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 423,025 likes - 50 songs - 2 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 423,092 likes - 50 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2LPGy4.md) - [plain]
 | 20 | [Andamos Recio](https://open.spotify.com/track/4x02u1dxnmoeR4GHOAmuXG) | [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [Andamos Recio](https://open.spotify.com/album/5OU2nDge99Voto4N4Vl6yS) | 2:32 |
 | 21 | [Y Me Besa](https://open.spotify.com/track/4z5vBmCnm4NxaOGOwT72dk) | [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO) | [Archivos de Mi Vida](https://open.spotify.com/album/3XPV75rmAKWAeVJtXuERzz) | 2:41 |
 | 22 | [El Mundo Es Tuyo \(En Vivo\)](https://open.spotify.com/track/0N9sBJBig8ToeFflB5KdsB) | [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO) | [Morir y Existir En Vivo](https://open.spotify.com/album/3fFAsEBYDHC89w3Unkk9fY) | 3:07 |
-| 23 | [Hola Corazón \- En Vivo](https://open.spotify.com/track/0rXTfXgC4OIWytvMsq8Ls2) | [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO), [Régulo Caro](https://open.spotify.com/artist/0YRwUbRxrawmnBdixwJi5W), [Wil Caro](https://open.spotify.com/artist/0WmxPSzE2yXAEpVw1yA1A4) | [Hola Corazón \(En Vivo\)](https://open.spotify.com/album/5Ivz9kr0rUtT7o3pQN1jq8) | 3:05 |
-| 24 | [Tal Como Eres](https://open.spotify.com/track/5iDnp09ecAvbywcRBkabXg) | [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO), [Kevin Ortiz](https://open.spotify.com/artist/5Pb066owdc1LPXDf6Xs8Rm) | [Tal Como Eres](https://open.spotify.com/album/7l5DIHz7uYdBHFjX7VlLNa) | 3:50 |
+| 23 | [Tal Como Eres](https://open.spotify.com/track/5iDnp09ecAvbywcRBkabXg) | [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO), [Kevin Ortiz](https://open.spotify.com/artist/5Pb066owdc1LPXDf6Xs8Rm) | [Tal Como Eres](https://open.spotify.com/album/7l5DIHz7uYdBHFjX7VlLNa) | 3:50 |
+| 24 | [Hola Corazón \- En Vivo](https://open.spotify.com/track/0rXTfXgC4OIWytvMsq8Ls2) | [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO), [Régulo Caro](https://open.spotify.com/artist/0YRwUbRxrawmnBdixwJi5W), [Wil Caro](https://open.spotify.com/artist/0WmxPSzE2yXAEpVw1yA1A4) | [Hola Corazón \(En Vivo\)](https://open.spotify.com/album/5Ivz9kr0rUtT7o3pQN1jq8) | 3:05 |
 | 25 | [El Trokero Lokochon](https://open.spotify.com/track/6wMYwA7VyjkvTFUPj2LgyB) | [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO) | [Ni Hoy Ni Manana](https://open.spotify.com/album/7jyBbVcnqfV8vtmyyPJarL) | 2:34 |
 | 26 | [Palma Salazar](https://open.spotify.com/track/4UhPBzZ2yHMsedsRxfH40T) | [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO) | [Comeré Callado, Vol\. 1](https://open.spotify.com/album/4IeW4TAoqfbRYzQNAKxk91) | 3:00 |
 | 27 | [El Cholo](https://open.spotify.com/track/6z4awm3ZfXQjXGF5loOUAi) | [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO) | [Hoy Más Fuerte](https://open.spotify.com/album/2OAr7CKU64w3VzHkSsdC46) | 2:13 |
@@ -52,11 +52,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2LPGy4.md) - [plain]
 | 42 | [El Muletas \(En Vivo\)](https://open.spotify.com/track/24S2rcxfPv2hWwILSBMF3x) | [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO) | [Morir y Existir En Vivo](https://open.spotify.com/album/3fFAsEBYDHC89w3Unkk9fY) | 2:49 |
 | 43 | [El Primer Ministro](https://open.spotify.com/track/33fgAYNJAmbNoT76SLiOL1) | [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO) | [El Primer Ministro](https://open.spotify.com/album/1fLCJYEq0kv87PSPdCB0dC) | 1:54 |
 | 44 | [M En El Radar](https://open.spotify.com/track/0MtDgKq4LQwyQxwTDVhCUw) | [La Adictiva](https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM), [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO) | [M En El Radar](https://open.spotify.com/album/6WjorFCymLlEUdC1bFs3Nc) | 2:20 |
-| 45 | [El Pelo Chino](https://open.spotify.com/track/5aEB9XqxVvaYZMtjVL9n9q) | [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [El Pelo Chino](https://open.spotify.com/album/4lbTVQ0Lntlp4uoIQEX9v7) | 3:00 |
+| 45 | [Archivos de Mi Vida](https://open.spotify.com/track/3Gq82NBEBkmd8l3OKiGJX7) | [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO) | [Archivos de Mi Vida](https://open.spotify.com/album/3XPV75rmAKWAeVJtXuERzz) | 2:56 |
 | 46 | [Morir Y Existir](https://open.spotify.com/track/12cT1bEwXxg42o2AOwFF2q) | [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO) | [Morir y Existir En Vivo](https://open.spotify.com/album/3fFAsEBYDHC89w3Unkk9fY) | 3:05 |
-| 47 | [Archivos de Mi Vida](https://open.spotify.com/track/3Gq82NBEBkmd8l3OKiGJX7) | [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO) | [Archivos de Mi Vida](https://open.spotify.com/album/3XPV75rmAKWAeVJtXuERzz) | 2:56 |
+| 47 | [El Pelo Chino](https://open.spotify.com/track/5aEB9XqxVvaYZMtjVL9n9q) | [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [El Pelo Chino](https://open.spotify.com/album/4lbTVQ0Lntlp4uoIQEX9v7) | 3:00 |
 | 48 | [El Comando del Diablo \- En Vivo](https://open.spotify.com/track/4ttaps59yHeuSYKhMitFjJ) | [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [El Comando del Diablo \(En Vivo\)](https://open.spotify.com/album/7hMQTRIaeXlCAaVxBX4pNx) | 2:53 |
-| 49 | [El Coach \(En Vivo\)](https://open.spotify.com/track/3QS5Z1l9keZLelGpmnsSBl) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO) | [El Coach \(En Vivo\)](https://open.spotify.com/album/5GrA7aAr5CK4BjIKybsShe) | 3:31 |
+| 49 | [Fuiste Mía](https://open.spotify.com/track/2NiABj6NgG9T9p7Yzckd7D) | [Natalia Jiménez](https://open.spotify.com/artist/0j8QSBQZ9MNSGjHr1Vll1R), [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO) | [México de Mi Corazón, Vol\. 2](https://open.spotify.com/album/1Me7BNQom5WrqVsZE2igCY) | 2:08 |
 | 50 | [14 Guerras \(En Vivo\)](https://open.spotify.com/track/6FMBC8EazlnY5qias6mItl) | [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO) | [Morir y Existir En Vivo](https://open.spotify.com/album/3fFAsEBYDHC89w3Unkk9fY) | 2:44 |
 
-Snapshot ID: `Mjg1MTQxOTUsMDAwMDAwMDA5ZDljMWNlN2NkNzUxOWJiY2Q3Nzk0MWUzMGJhMjlkZA==`
+Snapshot ID: `Mjg1MTU2NjEsMDAwMDAwMDBkNmU4YmNkN2QxZWQ5MWZiMTk0YjE0ZTFhZTdmYWRmNg==`

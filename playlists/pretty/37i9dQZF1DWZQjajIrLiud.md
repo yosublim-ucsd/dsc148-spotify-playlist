@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZQjajIrLiud.md) - [plain]
 
 > Songs to enjoy while cooking.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,407 likes - 40 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,497 likes - 40 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZQjajIrLiud.md) - [plain]
 | 18 | [Rasmek Fe Khayali](https://open.spotify.com/track/7oS4BmoRm4mLuf793aqml0) | [Mohamed Hamaki](https://open.spotify.com/artist/6bb9VI1PpPTEmdgcgjTppX) | [Kol Yom Men Dah](https://open.spotify.com/album/5jLCYOiVF1KkRjDJl10r4f) | 3:42 |
 | 19 | [بالهدى](https://open.spotify.com/track/0aDZlrKCeRuZSSg6SXDXMF) | [Ta Ha](https://open.spotify.com/artist/63gB2Rrr0fOcwBa4zEspU4) | [بالهدى](https://open.spotify.com/album/5k3Z3I40E3EXZSoVJgRZpc) | 3:57 |
 | 20 | [يوم جديد](https://open.spotify.com/track/6sTUXelD4CIOSpyxDBD37D) | [Amir Eid](https://open.spotify.com/artist/1dYkjdBHkbyolcShgkh2Vp) | [لما بنتولد](https://open.spotify.com/album/5xWWNgZyd88PlUVRBReVaf) | 0:49 |
-| 21 | [أسيب نفسي وأغنى](https://open.spotify.com/track/2vPWM7HRQqv54d34itTpTS) | [Donia Samir Ghanem](https://open.spotify.com/artist/1ieloBuwzXdMn9VPOufDvB) | [أسيب نفسي وأغنى](https://open.spotify.com/album/0kg0psLhvJNYNSowHPiti6) | 4:43 |
-| 22 | [Ya Rayah](https://open.spotify.com/track/57vLKSsU2gUirCUpUttlX2) | [Rachid Taha](https://open.spotify.com/artist/2URqJkDiySO0FRiAUq75FV) | [Carte Blanche](https://open.spotify.com/album/7focbr8gdZ0kgWDueX6rrF) | 6:14 |
+| 21 | [Ya Rayah](https://open.spotify.com/track/57vLKSsU2gUirCUpUttlX2) | [Rachid Taha](https://open.spotify.com/artist/2URqJkDiySO0FRiAUq75FV) | [Carte Blanche](https://open.spotify.com/album/7focbr8gdZ0kgWDueX6rrF) | 6:14 |
+| 22 | [أسيب نفسي وأغنى](https://open.spotify.com/track/2vPWM7HRQqv54d34itTpTS) | [Donia Samir Ghanem](https://open.spotify.com/artist/1ieloBuwzXdMn9VPOufDvB) | [أسيب نفسي وأغنى](https://open.spotify.com/album/0kg0psLhvJNYNSowHPiti6) | 4:43 |
 | 23 | [Mehtag L Wogodk](https://open.spotify.com/track/1FwHKyVHjlKUpAB2v69whe) | [Mohammed Saeed](https://open.spotify.com/artist/1ZpCdBZ3rL0mXxMhzhOBvi) | [Mehtag L Wogodk](https://open.spotify.com/album/25PmJy5QxLri5ehTxtWvkf) | 3:00 |
 | 24 | [Awel Mara Etabelna](https://open.spotify.com/track/1ifVT3ZS6GZEmOhJI050Sq) | [Hani Adel](https://open.spotify.com/artist/2mqNN3AwsqhYMAGDlCwjOS), [Amir Eid](https://open.spotify.com/artist/1dYkjdBHkbyolcShgkh2Vp) | [Awel Mara Etabelna](https://open.spotify.com/album/67TRGAtN2Sh2F6DuAeknju) | 3:38 |
 | 25 | [Kan Ya Ma Kan](https://open.spotify.com/track/7pSIxWwue7kcqomsmaltbT) | [Rawan Bin Hussain](https://open.spotify.com/artist/2EwH8s2tM7Oxp45dIW6oNQ) | [Kan Ya Ma Kan](https://open.spotify.com/album/6pOn8wrzid7Vjj2SwWT0Lv) | 4:36 |
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZQjajIrLiud.md) - [plain]
 | 39 | [Leila](https://open.spotify.com/track/33u0Y2MhCf5G2NW1UY3T6A) | [Ali Loka](https://open.spotify.com/artist/2llLuXpn4BLMUltSxkkcJ1) | [Leila](https://open.spotify.com/album/0ShTnsYxPSo8zOhyglIrB4) | 3:23 |
 | 40 | [حفرة \(مع أبيوسف\)](https://open.spotify.com/track/0PALOEtgrC1qil1iTjiFYZ) | [Hala](https://open.spotify.com/artist/30cNtjePd99qoDYYbjHG4k), [أبيوسف](https://open.spotify.com/artist/32nrhle1blySznEmk9OxMG) | [قلبي فين](https://open.spotify.com/album/5hkMZttd8VOaYjT9tKqzls) | 3:35 |
 
-Snapshot ID: `MCxmNmM0NzVlZmNmNjJmMGZjNDgwOGM3YmY4MTdkYjliZmVhMWRjYTJl`
+Snapshot ID: `MCw3NzgzMDYxYTFkYTJiMGZmZDdhNzI5ZGI4YTAzZGFkOTVjMGRkYmJh`

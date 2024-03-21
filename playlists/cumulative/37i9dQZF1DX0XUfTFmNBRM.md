@@ -4,7 +4,7 @@
 
 > Hottest Hindi music served here\. Cover \- Animal
 
-320 songs - 21 hr 4 min
+321 songs - 21 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -62,7 +62,8 @@
 | [Chidiya](https://open.spotify.com/track/7mNZUnDWUDidWBFaUpVtOC) | [Vilen](https://open.spotify.com/artist/5gVozagAcRKYCeAVnlC3Nk) | [Chidiya](https://open.spotify.com/album/38J3178QtYOM7qQZLjQiIs) | 4:13 | 2021-01-25\* | 2021-04-06 |
 | [Chitta](https://open.spotify.com/track/6JUQViD0hLXlvWXCV4uUF8) | [Manan Bhardwaj](https://open.spotify.com/artist/3pQ4aA7dkolyjUAMrVScgh) | [Shiddat](https://open.spotify.com/album/2ifXB65SLpF97vWZjKGpQ9) | 3:48 | 2021-10-26 | 2022-05-20 |
 | [Chor](https://open.spotify.com/track/0FCe2NhPWKiSTAipf0lOAT) | [Justh](https://open.spotify.com/artist/6gxRXj2KUJ02vfIgkNUq5b) | [Chor](https://open.spotify.com/album/41cYr6R4rPiKExcTvQTnmR) | 3:28 | 2024-02-15 | 2024-02-28 |
-| [Chor](https://open.spotify.com/track/53gdHIMmv3XubECRLL6R62) | [Justh](https://open.spotify.com/artist/6gxRXj2KUJ02vfIgkNUq5b) | [Chor](https://open.spotify.com/album/39noVgiQirYCWfBIrBzP30) | 3:28 | 2024-02-22 |  |
+| [Chor](https://open.spotify.com/track/53gdHIMmv3XubECRLL6R62) | [Justh](https://open.spotify.com/artist/6gxRXj2KUJ02vfIgkNUq5b) | [Chor](https://open.spotify.com/album/39noVgiQirYCWfBIrBzP30) | 3:28 | 2024-02-22 | 2024-03-21 |
+| [Chor](https://open.spotify.com/track/6YewfSA18qq5xl1KlJQkpY) | [Justh](https://open.spotify.com/artist/6gxRXj2KUJ02vfIgkNUq5b) | [Chor](https://open.spotify.com/album/1wBSOR9eFqfkDFyJtwPm7V) | 3:28 | 2024-03-19 |  |
 | [Daaku](https://open.spotify.com/track/1uCBFWAcZOJGAj1CFQHZDj) | [Badshah](https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1), [Sharvi Yadav](https://open.spotify.com/artist/30DC0uyycct5LGcqhzE6a3), [Hiten](https://open.spotify.com/artist/597A6e3D22Vq4gxyh4mUjh) | [Daaku](https://open.spotify.com/album/2tpXdOI6g9KNdQIXFWB1kW) | 2:40 | 2024-03-07 |  |
 | [Dance Ka Bhoot \(From "Brahmastra"\)](https://open.spotify.com/track/5OcGETO7eEKjKme4gm0r7y) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Amitabh Bhattacharya](https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx) | [Dance Ka Bhoot \(From "Brahmastra"\)](https://open.spotify.com/album/4vOdoBnuF9sXjpRsofpJAv) | 4:05 | 2022-08-30 | 2023-02-16 |
 | [Dance Meri Rani](https://open.spotify.com/track/2Og3TvRiujRDfgnkmgaOhW) | [Tanishk Bagchi](https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt), [Guru Randhawa](https://open.spotify.com/artist/5rQoBDKFnd1n6BkdbgVaRL), [Zahrah S Khan](https://open.spotify.com/artist/7C5xVXoqim1TICnCMZ9A6P) | [Dance Meri Rani](https://open.spotify.com/album/6IxNw3TC6ZD4dKiwTsAUQq) | 3:43 | 2022-01-03 | 2023-07-04 |

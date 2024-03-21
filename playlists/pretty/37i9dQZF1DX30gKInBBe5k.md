@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX30gKInBBe5k.md) - [plain]
 
 > a hardcore home for slowcore fans.
 
-[Spotify](https://open.spotify.com/user/spotify) - 185,831 likes - 85 songs - 7 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 185,920 likes - 85 songs - 7 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,7 +57,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX30gKInBBe5k.md) - [plain]
 | 47 | [Topical Solution](https://open.spotify.com/track/0uwEur2c1HaD1r87plrUbD) | [Duster](https://open.spotify.com/artist/5AyEXCtu3xnnsTGCo4RVZh) | [Stratosphere](https://open.spotify.com/album/2S3289mypNw2zP0OpFexMb) | 5:00 |
 | 48 | [Didn't It Rain](https://open.spotify.com/track/4wCO1K82DldGl4tAYgZcgx) | [Songs: Ohia](https://open.spotify.com/artist/3uQ5cxFHxXddqPL58egs1z) | [Didn't It Rain \(Deluxe Edition\)](https://open.spotify.com/album/5Q3CKS0VEKKJXpGbXvOrLa) | 7:52 |
 | 49 | [Headache](https://open.spotify.com/track/4EDj8GXOlI45vG4SOfswK3) | [Grouper](https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i) | [Paradise Valley](https://open.spotify.com/album/5e5MtmjBRnh3eI5g5C0Tyv) | 5:04 |
-| 50 | [i was all over her](https://open.spotify.com/track/7svpAkwc6xaSxlbZ7V7JiS) | [salvia palth](https://open.spotify.com/artist/0pg0Zm8FsGAYy5kdHuBnSo) | [melanchole](https://open.spotify.com/album/23KJrzHF1IBfjzpRgTtaJx) | 2:41 |
+| 50 | [i was all over her](https://open.spotify.com/track/6mSnSuOhgHHohqeBw76jRV) | [salvia palth](https://open.spotify.com/artist/0pg0Zm8FsGAYy5kdHuBnSo) | [melanchole](https://open.spotify.com/album/10WzRaNWnFUQNrW2FpqQSQ) | 2:41 |
 | 51 | [No Sense](https://open.spotify.com/track/7hqgpJchv39sfIWLTXkMMe) | [Cat Power](https://open.spotify.com/artist/6G7OerKc3eBO9sVkRNopFC) | [Moon Pix](https://open.spotify.com/album/6AoSTHrd6oEaeUYBEGdLTb) | 4:50 |
 | 52 | [Ugly Brunette](https://open.spotify.com/track/0fUV4Y51wN8lnG75rkDDwg) | [Horse Jumper of Love](https://open.spotify.com/artist/6U1lmwvy3I9dIYu9RalJi6) | [Horse Jumper of Love](https://open.spotify.com/album/6deqa9Ep8kRZA1xiKbj1jc) | 2:56 |
 | 53 | [Words](https://open.spotify.com/track/01OXa5tVuCssU6j8TY7kxr) | [Low](https://open.spotify.com/artist/0wz0jO9anccPzH04N7FLBH) | [I Could Live In Hope](https://open.spotify.com/album/61dByu8oBt4qdym9Rkz39w) | 5:48 |
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX30gKInBBe5k.md) - [plain]
 | 84 | [nail i couldn't bite](https://open.spotify.com/track/4ab7TT8m06fhTVN17wPXik) | [SPIRIT OF THE BEEHIVE](https://open.spotify.com/artist/25CgccXK9hJBTuaMF44zeR) | [Hypnic Jerks](https://open.spotify.com/album/6YaOkSQMqAc3ZIK9s5YzEM) | 5:15 |
 | 85 | [Lullaby](https://open.spotify.com/track/1De66xUavye2fNqhCwtgyo) | [Low](https://open.spotify.com/artist/0wz0jO9anccPzH04N7FLBH) | [I Could Live In Hope](https://open.spotify.com/album/61dByu8oBt4qdym9Rkz39w) | 9:49 |
 
-Snapshot ID: `MCw1N2M1NjY4MTIxYzFlOGY4ZDgxMjdkOWY0MjhmOTI4ZGZmNGIzNzJi`
+Snapshot ID: `MCw3NTdiYzI2ZGUyYTFlZDg2YmM2Yzk4ZGVkMDMwZWFmOTYwNWQ1N2Rk`

@@ -1,12 +1,12 @@
 {
   "description": "B\u0105d\u017a sob\u0105 \u2728 Pos\u0142uchaj g\u0142osu polskich artyst\u00f3w LGBTQIA+. Cover: <a href=\"spotify:artist:6iz52ADwFl483ghAI7NuS1\">god.wifi</a>",
-  "num_followers": 8405,
+  "num_followers": 8404,
   "original_name": "GLOW Polska",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmN2M0YjMwY2NjZWEyMDI0Y2U2ZmJjMzIzZTQ1YmJiYWE1YjI5MWRj",
+  "snapshot_id": "MCxmMDEyZmYwY2I4NGQzYmZhMjVkOGE5ZjJiZmZmY2ZiZTg3YzZhYzli",
   "tracks": [
     {
       "added_at": "2024-03-11 23:01:00",
@@ -539,22 +539,6 @@
     {
       "added_at": "2024-03-11 23:01:00",
       "album": {
-        "name": "po m\u0119sku",
-        "url": "https://open.spotify.com/album/7nvX0MECWua6K4t0FYssd4"
-      },
-      "artists": [
-        {
-          "name": "Kamil Kowalski",
-          "url": "https://open.spotify.com/artist/0e06gUDSCntc3X6v8mL6kk"
-        }
-      ],
-      "duration_ms": 226893,
-      "name": "po m\u0119sku",
-      "url": "https://open.spotify.com/track/0RIhsQxxndz7XQJSGW9C6H"
-    },
-    {
-      "added_at": "2024-03-11 23:01:00",
-      "album": {
         "name": "Can't Stand",
         "url": "https://open.spotify.com/album/4Xfcjaz36C9tkHq3COjWml"
       },
@@ -571,6 +555,34 @@
       "duration_ms": 326769,
       "name": "Can't Stand feat. ZensoFly",
       "url": "https://open.spotify.com/track/7t5E6WC2HIeAAAKWUymNzs"
+    },
+    {
+      "added_at": "2024-03-11 23:01:00",
+      "album": {
+        "name": "Spicy (Lulu x Uaziuk Remix)",
+        "url": "https://open.spotify.com/album/2clwWQQcD6CTDJK6wSm94L"
+      },
+      "artists": [
+        {
+          "name": "Sylvia Baudelaire",
+          "url": "https://open.spotify.com/artist/2aAx96PFuLYY2cpRXE5buF"
+        },
+        {
+          "name": "susk",
+          "url": "https://open.spotify.com/artist/0b2xjUWoDTDaDbr4fNqGtc"
+        },
+        {
+          "name": "Aljas",
+          "url": "https://open.spotify.com/artist/6Vkhs9MXgzLQ88k1rMay1a"
+        },
+        {
+          "name": "Lulu x Uaziuk",
+          "url": "https://open.spotify.com/artist/24J0nOvhaahlqmH5vugN3O"
+        }
+      ],
+      "duration_ms": 202727,
+      "name": "Spicy (Lulu x Uaziuk Remix)",
+      "url": "https://open.spotify.com/track/4wz4d6QxhgN4GfiN3bFjfA"
     },
     {
       "added_at": "2024-03-11 23:01:00",
@@ -611,8 +623,8 @@
     {
       "added_at": "2024-03-11 23:01:00",
       "album": {
-        "name": "Sabota\u017cysta",
-        "url": "https://open.spotify.com/album/6nuJ48Ekc0n7wfGi2TyJDv"
+        "name": "Red Flag",
+        "url": "https://open.spotify.com/album/5ogmBRaKh9KkVRZycRnP1u"
       },
       "artists": [
         {
@@ -620,37 +632,25 @@
           "url": "https://open.spotify.com/artist/4GUR4UKtbNQiAV2h5qV2df"
         }
       ],
-      "duration_ms": 224100,
-      "name": "Poduszka",
-      "url": "https://open.spotify.com/track/4qjzaRVu6vEBi8iZ5hZdNk"
+      "duration_ms": 168224,
+      "name": "Red Flag",
+      "url": "https://open.spotify.com/track/7CaxmQCb4APvMLQaVJhCTR"
     },
     {
       "added_at": "2024-03-11 23:01:00",
       "album": {
-        "name": "Spicy (Lulu x Uaziuk Remix)",
-        "url": "https://open.spotify.com/album/2clwWQQcD6CTDJK6wSm94L"
+        "name": "po m\u0119sku",
+        "url": "https://open.spotify.com/album/7nvX0MECWua6K4t0FYssd4"
       },
       "artists": [
         {
-          "name": "Sylvia Baudelaire",
-          "url": "https://open.spotify.com/artist/2aAx96PFuLYY2cpRXE5buF"
-        },
-        {
-          "name": "susk",
-          "url": "https://open.spotify.com/artist/0b2xjUWoDTDaDbr4fNqGtc"
-        },
-        {
-          "name": "Aljas",
-          "url": "https://open.spotify.com/artist/6Vkhs9MXgzLQ88k1rMay1a"
-        },
-        {
-          "name": "Lulu x Uaziuk",
-          "url": "https://open.spotify.com/artist/24J0nOvhaahlqmH5vugN3O"
+          "name": "Kamil Kowalski",
+          "url": "https://open.spotify.com/artist/0e06gUDSCntc3X6v8mL6kk"
         }
       ],
-      "duration_ms": 202727,
-      "name": "Spicy (Lulu x Uaziuk Remix)",
-      "url": "https://open.spotify.com/track/4wz4d6QxhgN4GfiN3bFjfA"
+      "duration_ms": 226893,
+      "name": "po m\u0119sku",
+      "url": "https://open.spotify.com/track/0RIhsQxxndz7XQJSGW9C6H"
     },
     {
       "added_at": "2024-03-11 23:01:00",
@@ -727,8 +727,8 @@
     {
       "added_at": "2024-03-11 23:01:00",
       "album": {
-        "name": "Red Flag",
-        "url": "https://open.spotify.com/album/5ogmBRaKh9KkVRZycRnP1u"
+        "name": "Sabota\u017cysta",
+        "url": "https://open.spotify.com/album/6nuJ48Ekc0n7wfGi2TyJDv"
       },
       "artists": [
         {
@@ -736,9 +736,9 @@
           "url": "https://open.spotify.com/artist/4GUR4UKtbNQiAV2h5qV2df"
         }
       ],
-      "duration_ms": 168224,
-      "name": "Red Flag",
-      "url": "https://open.spotify.com/track/7CaxmQCb4APvMLQaVJhCTR"
+      "duration_ms": 224100,
+      "name": "Poduszka",
+      "url": "https://open.spotify.com/track/4qjzaRVu6vEBi8iZ5hZdNk"
     },
     {
       "added_at": "2024-03-11 23:01:00",
@@ -891,18 +891,22 @@
     {
       "added_at": "2024-03-11 23:01:00",
       "album": {
-        "name": "$WAG (lepi si\u0119 w ch*j)",
-        "url": "https://open.spotify.com/album/2MV4hphFIybyLf6cGts90z"
+        "name": "Dolce Vita",
+        "url": "https://open.spotify.com/album/1m0XMvYDp5d19yxvs4NblQ"
       },
       "artists": [
         {
-          "name": "susk",
-          "url": "https://open.spotify.com/artist/0b2xjUWoDTDaDbr4fNqGtc"
+          "name": "Lulu x Uaziuk",
+          "url": "https://open.spotify.com/artist/24J0nOvhaahlqmH5vugN3O"
+        },
+        {
+          "name": "NIEB\u00d8",
+          "url": "https://open.spotify.com/artist/3jLSR7Z9iOyhSFBwQeS7es"
         }
       ],
-      "duration_ms": 158787,
-      "name": "$WAG (lepi si\u0119 w ch*j)",
-      "url": "https://open.spotify.com/track/5YfwxLj7jzNM38zLWse9Oi"
+      "duration_ms": 234246,
+      "name": "Dolce Vita",
+      "url": "https://open.spotify.com/track/2IfNpjacG5irElu8VbHU9r"
     },
     {
       "added_at": "2024-03-11 23:01:00",
@@ -955,22 +959,34 @@
     {
       "added_at": "2024-03-11 23:01:00",
       "album": {
-        "name": "Dolce Vita",
-        "url": "https://open.spotify.com/album/1m0XMvYDp5d19yxvs4NblQ"
+        "name": "$WAG (lepi si\u0119 w ch*j)",
+        "url": "https://open.spotify.com/album/2MV4hphFIybyLf6cGts90z"
       },
       "artists": [
         {
-          "name": "Lulu x Uaziuk",
-          "url": "https://open.spotify.com/artist/24J0nOvhaahlqmH5vugN3O"
-        },
-        {
-          "name": "NIEB\u00d8",
-          "url": "https://open.spotify.com/artist/3jLSR7Z9iOyhSFBwQeS7es"
+          "name": "susk",
+          "url": "https://open.spotify.com/artist/0b2xjUWoDTDaDbr4fNqGtc"
         }
       ],
-      "duration_ms": 234246,
-      "name": "Dolce Vita",
-      "url": "https://open.spotify.com/track/2IfNpjacG5irElu8VbHU9r"
+      "duration_ms": 158787,
+      "name": "$WAG (lepi si\u0119 w ch*j)",
+      "url": "https://open.spotify.com/track/5YfwxLj7jzNM38zLWse9Oi"
+    },
+    {
+      "added_at": "2024-03-11 23:01:00",
+      "album": {
+        "name": "Let Me Know",
+        "url": "https://open.spotify.com/album/3WKj4kBRl4OSuxuSTe9H9Y"
+      },
+      "artists": [
+        {
+          "name": "Filip Sterne",
+          "url": "https://open.spotify.com/artist/1UIsVRTEON2C0CmFKGnmOw"
+        }
+      ],
+      "duration_ms": 179111,
+      "name": "Let Me Know",
+      "url": "https://open.spotify.com/track/5LthNLCUbAMNMAHhiBVyZE"
     },
     {
       "added_at": "2024-03-11 23:01:00",
@@ -995,22 +1011,6 @@
     {
       "added_at": "2024-03-11 23:01:00",
       "album": {
-        "name": "Let Me Know",
-        "url": "https://open.spotify.com/album/3WKj4kBRl4OSuxuSTe9H9Y"
-      },
-      "artists": [
-        {
-          "name": "Filip Sterne",
-          "url": "https://open.spotify.com/artist/1UIsVRTEON2C0CmFKGnmOw"
-        }
-      ],
-      "duration_ms": 179111,
-      "name": "Let Me Know",
-      "url": "https://open.spotify.com/track/5LthNLCUbAMNMAHhiBVyZE"
-    },
-    {
-      "added_at": "2024-03-11 23:01:00",
-      "album": {
         "name": "miss u",
         "url": "https://open.spotify.com/album/0TIjkkDpIOiOmdc3el92Uz"
       },
@@ -1023,54 +1023,6 @@
       "duration_ms": 150001,
       "name": "miss u",
       "url": "https://open.spotify.com/track/6264KCYuGN6YncMjaGbiRH"
-    },
-    {
-      "added_at": "2024-03-11 23:01:00",
-      "album": {
-        "name": "Przed siebie",
-        "url": "https://open.spotify.com/album/08met7OFAeiVa1eiwRUiHi"
-      },
-      "artists": [
-        {
-          "name": "Oskar Kucmann",
-          "url": "https://open.spotify.com/artist/6QCsE5n2rSQiqzKS2DSQJK"
-        }
-      ],
-      "duration_ms": 183178,
-      "name": "Przed siebie",
-      "url": "https://open.spotify.com/track/5hqohFoXOJt3KO05HqBhy7"
-    },
-    {
-      "added_at": "2024-03-11 23:01:00",
-      "album": {
-        "name": "Straty",
-        "url": "https://open.spotify.com/album/3nx2oHLmlr03XkXdJ71wBb"
-      },
-      "artists": [
-        {
-          "name": "MAS",
-          "url": "https://open.spotify.com/artist/7nMyiwlK2JwXR9FXBrOiuH"
-        }
-      ],
-      "duration_ms": 194250,
-      "name": "Dok\u0105d biegn\u0119",
-      "url": "https://open.spotify.com/track/72fif1k16rwOEMH8l8MLVM"
-    },
-    {
-      "added_at": "2024-03-11 23:01:00",
-      "album": {
-        "name": "SLAY",
-        "url": "https://open.spotify.com/album/09pZiA20YaLGEHkqGqzC9m"
-      },
-      "artists": [
-        {
-          "name": "Shady Lady",
-          "url": "https://open.spotify.com/artist/1g0MOYlsQFn7If1Vp7o5L0"
-        }
-      ],
-      "duration_ms": 179000,
-      "name": "SLAY",
-      "url": "https://open.spotify.com/track/5inHdBzp49cEZ96hvpRug4"
     },
     {
       "added_at": "2024-03-11 23:01:00",
@@ -1091,6 +1043,54 @@
       "duration_ms": 179910,
       "name": "Podziemny Slam",
       "url": "https://open.spotify.com/track/38y5b9wZNqA6odUnbpfs8s"
+    },
+    {
+      "added_at": "2024-03-11 23:01:00",
+      "album": {
+        "name": "Straty",
+        "url": "https://open.spotify.com/album/3nx2oHLmlr03XkXdJ71wBb"
+      },
+      "artists": [
+        {
+          "name": "MAS",
+          "url": "https://open.spotify.com/artist/7nMyiwlK2JwXR9FXBrOiuH"
+        }
+      ],
+      "duration_ms": 194250,
+      "name": "Dok\u0105d biegn\u0119",
+      "url": "https://open.spotify.com/track/72fif1k16rwOEMH8l8MLVM"
+    },
+    {
+      "added_at": "2024-03-11 23:01:00",
+      "album": {
+        "name": "Przed siebie",
+        "url": "https://open.spotify.com/album/08met7OFAeiVa1eiwRUiHi"
+      },
+      "artists": [
+        {
+          "name": "Oskar Kucmann",
+          "url": "https://open.spotify.com/artist/6QCsE5n2rSQiqzKS2DSQJK"
+        }
+      ],
+      "duration_ms": 183178,
+      "name": "Przed siebie",
+      "url": "https://open.spotify.com/track/5hqohFoXOJt3KO05HqBhy7"
+    },
+    {
+      "added_at": "2024-03-11 23:01:00",
+      "album": {
+        "name": "SLAY",
+        "url": "https://open.spotify.com/album/09pZiA20YaLGEHkqGqzC9m"
+      },
+      "artists": [
+        {
+          "name": "Shady Lady",
+          "url": "https://open.spotify.com/artist/1g0MOYlsQFn7If1Vp7o5L0"
+        }
+      ],
+      "duration_ms": 179000,
+      "name": "SLAY",
+      "url": "https://open.spotify.com/track/5inHdBzp49cEZ96hvpRug4"
     },
     {
       "added_at": "2024-03-11 23:01:00",
@@ -1195,24 +1195,8 @@
     {
       "added_at": "2024-03-11 23:01:00",
       "album": {
-        "name": "J\u0119zyk",
-        "url": "https://open.spotify.com/album/4jXACqJX7PjEVuHV8SvEJn"
-      },
-      "artists": [
-        {
-          "name": "sedguy",
-          "url": "https://open.spotify.com/artist/0dKVhjeQK0F1tqd32emoPf"
-        }
-      ],
-      "duration_ms": 186468,
-      "name": "J\u0119zyk",
-      "url": "https://open.spotify.com/track/5h5TrSLkar8aMAyVx07bi6"
-    },
-    {
-      "added_at": "2024-03-11 23:01:00",
-      "album": {
-        "name": "OH WOW",
-        "url": "https://open.spotify.com/album/0Z9kjE77CEY7cBz3oZ69hI"
+        "name": "Pokussa Na Parkiecie",
+        "url": "https://open.spotify.com/album/0rlVEb3I0UMhMGhPCmc0dv"
       },
       "artists": [
         {
@@ -1220,13 +1204,13 @@
           "url": "https://open.spotify.com/artist/1g0MOYlsQFn7If1Vp7o5L0"
         },
         {
-          "name": "Nick Sinckler",
-          "url": "https://open.spotify.com/artist/3ioPp5l6NUnHUryHBoJHEK"
+          "name": "thekayetan",
+          "url": "https://open.spotify.com/artist/66XpA1oaejl7wkkhTJ1GbP"
         }
       ],
-      "duration_ms": 174000,
-      "name": "OH WOW",
-      "url": "https://open.spotify.com/track/0Qplt3hpXfEIUFPwoBiv4K"
+      "duration_ms": 176000,
+      "name": "POKUSSA",
+      "url": "https://open.spotify.com/track/3TCmVPkceNFsAWWKiKzGRB"
     },
     {
       "added_at": "2024-03-11 23:01:00",
@@ -1259,6 +1243,22 @@
       "duration_ms": 213921,
       "name": "Spina",
       "url": "https://open.spotify.com/track/7C0wMSnBrPRZbemrJnU0mX"
+    },
+    {
+      "added_at": "2024-03-11 23:01:00",
+      "album": {
+        "name": "J\u0119zyk",
+        "url": "https://open.spotify.com/album/4jXACqJX7PjEVuHV8SvEJn"
+      },
+      "artists": [
+        {
+          "name": "sedguy",
+          "url": "https://open.spotify.com/artist/0dKVhjeQK0F1tqd32emoPf"
+        }
+      ],
+      "duration_ms": 186468,
+      "name": "J\u0119zyk",
+      "url": "https://open.spotify.com/track/5h5TrSLkar8aMAyVx07bi6"
     },
     {
       "added_at": "2024-03-11 23:01:00",
@@ -1311,6 +1311,26 @@
     {
       "added_at": "2024-03-11 23:01:00",
       "album": {
+        "name": "OH WOW",
+        "url": "https://open.spotify.com/album/0Z9kjE77CEY7cBz3oZ69hI"
+      },
+      "artists": [
+        {
+          "name": "Shady Lady",
+          "url": "https://open.spotify.com/artist/1g0MOYlsQFn7If1Vp7o5L0"
+        },
+        {
+          "name": "Nick Sinckler",
+          "url": "https://open.spotify.com/artist/3ioPp5l6NUnHUryHBoJHEK"
+        }
+      ],
+      "duration_ms": 174000,
+      "name": "OH WOW",
+      "url": "https://open.spotify.com/track/0Qplt3hpXfEIUFPwoBiv4K"
+    },
+    {
+      "added_at": "2024-03-11 23:01:00",
+      "album": {
         "name": "Girls, Gays, People",
         "url": "https://open.spotify.com/album/4Chm1IYsC21b9Zevy8Vbr9"
       },
@@ -1343,18 +1363,22 @@
     {
       "added_at": "2024-03-11 23:01:00",
       "album": {
-        "name": "Diego M.",
-        "url": "https://open.spotify.com/album/0nSbH99Z1jWuqolGkPsvqM"
+        "name": "Dziewczyna z NASA",
+        "url": "https://open.spotify.com/album/1Ght8K533HO0VfaltfaFdX"
       },
       "artists": [
         {
-          "name": "sedguy",
-          "url": "https://open.spotify.com/artist/0dKVhjeQK0F1tqd32emoPf"
+          "name": "MICU\u0141A",
+          "url": "https://open.spotify.com/artist/7GHCUyKOaUg7OE6l4pOpai"
+        },
+        {
+          "name": "Panilas",
+          "url": "https://open.spotify.com/artist/50v7wSqTiWk0lHxax89jRa"
         }
       ],
-      "duration_ms": 165991,
-      "name": "Diego M.",
-      "url": "https://open.spotify.com/track/0kEuKb2kutWzCbh4bi1h1U"
+      "duration_ms": 220000,
+      "name": "Dziewczyna z NASA",
+      "url": "https://open.spotify.com/track/253Y585hav2OJuy2gNp0vK"
     },
     {
       "added_at": "2024-03-11 23:01:00",
@@ -1375,42 +1399,18 @@
     {
       "added_at": "2024-03-11 23:01:00",
       "album": {
-        "name": "Pokussa Na Parkiecie",
-        "url": "https://open.spotify.com/album/0rlVEb3I0UMhMGhPCmc0dv"
+        "name": "Diego M.",
+        "url": "https://open.spotify.com/album/0nSbH99Z1jWuqolGkPsvqM"
       },
       "artists": [
         {
-          "name": "Shady Lady",
-          "url": "https://open.spotify.com/artist/1g0MOYlsQFn7If1Vp7o5L0"
-        },
-        {
-          "name": "thekayetan",
-          "url": "https://open.spotify.com/artist/66XpA1oaejl7wkkhTJ1GbP"
+          "name": "sedguy",
+          "url": "https://open.spotify.com/artist/0dKVhjeQK0F1tqd32emoPf"
         }
       ],
-      "duration_ms": 176000,
-      "name": "POKUSSA",
-      "url": "https://open.spotify.com/track/3TCmVPkceNFsAWWKiKzGRB"
-    },
-    {
-      "added_at": "2024-03-11 23:01:00",
-      "album": {
-        "name": "Dziewczyna z NASA",
-        "url": "https://open.spotify.com/album/1Ght8K533HO0VfaltfaFdX"
-      },
-      "artists": [
-        {
-          "name": "MICU\u0141A",
-          "url": "https://open.spotify.com/artist/7GHCUyKOaUg7OE6l4pOpai"
-        },
-        {
-          "name": "Panilas",
-          "url": "https://open.spotify.com/artist/50v7wSqTiWk0lHxax89jRa"
-        }
-      ],
-      "duration_ms": 220000,
-      "name": "Dziewczyna z NASA",
-      "url": "https://open.spotify.com/track/253Y585hav2OJuy2gNp0vK"
+      "duration_ms": 165991,
+      "name": "Diego M.",
+      "url": "https://open.spotify.com/track/0kEuKb2kutWzCbh4bi1h1U"
     },
     {
       "added_at": "2024-03-11 23:01:00",
@@ -1443,22 +1443,6 @@
       "duration_ms": 179400,
       "name": "Palo Santo",
       "url": "https://open.spotify.com/track/4KPgzeIwciL6boNbMUfHwu"
-    },
-    {
-      "added_at": "2024-03-11 23:01:00",
-      "album": {
-        "name": "FOMO",
-        "url": "https://open.spotify.com/album/0cP9ZrJM3O7XSUdJVRXoLJ"
-      },
-      "artists": [
-        {
-          "name": "Shyness!",
-          "url": "https://open.spotify.com/artist/4qAVYs7aD1BMBRPn9dAKym"
-        }
-      ],
-      "duration_ms": 224706,
-      "name": "FOMO",
-      "url": "https://open.spotify.com/track/0N1JQHZEUbVqcgMryK9NpL"
     },
     {
       "added_at": "2024-03-11 23:01:00",
@@ -1503,6 +1487,42 @@
     {
       "added_at": "2024-03-11 23:01:00",
       "album": {
+        "name": "FOMO",
+        "url": "https://open.spotify.com/album/0cP9ZrJM3O7XSUdJVRXoLJ"
+      },
+      "artists": [
+        {
+          "name": "Shyness!",
+          "url": "https://open.spotify.com/artist/4qAVYs7aD1BMBRPn9dAKym"
+        }
+      ],
+      "duration_ms": 224706,
+      "name": "FOMO",
+      "url": "https://open.spotify.com/track/0N1JQHZEUbVqcgMryK9NpL"
+    },
+    {
+      "added_at": "2024-03-11 23:01:00",
+      "album": {
+        "name": "Don't Collapse",
+        "url": "https://open.spotify.com/album/1FXhql6RzeIEdk790tOYBm"
+      },
+      "artists": [
+        {
+          "name": "Didi Lez",
+          "url": "https://open.spotify.com/artist/6e37ehXKRAloIRP7cW8w0v"
+        },
+        {
+          "name": "Julia Bossque",
+          "url": "https://open.spotify.com/artist/6mhPM4qRPEoFIz6AAZKj51"
+        }
+      ],
+      "duration_ms": 261818,
+      "name": "Don't Collapse",
+      "url": "https://open.spotify.com/track/11ZmWCdq4Jlvx7b5OVTmmP"
+    },
+    {
+      "added_at": "2024-03-11 23:01:00",
+      "album": {
         "name": "Maski",
         "url": "https://open.spotify.com/album/2ySVc9A0CxOUm65gOsYFCK"
       },
@@ -1535,26 +1555,6 @@
     {
       "added_at": "2024-03-11 23:01:00",
       "album": {
-        "name": "Don't Collapse",
-        "url": "https://open.spotify.com/album/1FXhql6RzeIEdk790tOYBm"
-      },
-      "artists": [
-        {
-          "name": "Didi Lez",
-          "url": "https://open.spotify.com/artist/6e37ehXKRAloIRP7cW8w0v"
-        },
-        {
-          "name": "Julia Bossque",
-          "url": "https://open.spotify.com/artist/6mhPM4qRPEoFIz6AAZKj51"
-        }
-      ],
-      "duration_ms": 261818,
-      "name": "Don't Collapse",
-      "url": "https://open.spotify.com/track/11ZmWCdq4Jlvx7b5OVTmmP"
-    },
-    {
-      "added_at": "2024-03-11 23:01:00",
-      "album": {
         "name": "POT\u0118\u017bNE LESBIJKI Z MIECZAMI",
         "url": "https://open.spotify.com/album/47jrlicjC5poOuxmBtgBZ7"
       },
@@ -1583,6 +1583,38 @@
       "duration_ms": 182219,
       "name": "Bezpowrotnie",
       "url": "https://open.spotify.com/track/1tbfKxKjznTSgwR8PX0WSc"
+    },
+    {
+      "added_at": "2024-03-11 23:01:00",
+      "album": {
+        "name": "Tak\u0105 Polsk\u0119 lubi\u0119 nawet",
+        "url": "https://open.spotify.com/album/72jTsjvMjNn2xH1Ye9T3ER"
+      },
+      "artists": [
+        {
+          "name": "Cudowne Lata",
+          "url": "https://open.spotify.com/artist/0e3JhHef9mrLSetLvdbJxf"
+        }
+      ],
+      "duration_ms": 248202,
+      "name": "Tak\u0105 Polsk\u0119 lubi\u0119 nawet",
+      "url": "https://open.spotify.com/track/6sQG5iHLckuLzX1unBIRD1"
+    },
+    {
+      "added_at": "2024-03-11 23:01:00",
+      "album": {
+        "name": "Lesbijski Groove",
+        "url": "https://open.spotify.com/album/6uSRonTg1ktm1KxXdvdVMK"
+      },
+      "artists": [
+        {
+          "name": "Lesbijski Groove",
+          "url": "https://open.spotify.com/artist/0dN7WMen8j3aHyHRrUh8eC"
+        }
+      ],
+      "duration_ms": 261818,
+      "name": "Lesbijski Groove",
+      "url": "https://open.spotify.com/track/0ZbfT8bgWR81cepTeCirfN"
     },
     {
       "added_at": "2024-03-11 23:01:00",
@@ -1663,66 +1695,18 @@
     {
       "added_at": "2024-03-11 23:01:00",
       "album": {
-        "name": "Lesbijski Groove",
-        "url": "https://open.spotify.com/album/6uSRonTg1ktm1KxXdvdVMK"
+        "name": "Parlez Vous Francais",
+        "url": "https://open.spotify.com/album/2M8QV57i0i2GKoWe8ziAXA"
       },
       "artists": [
         {
-          "name": "Lesbijski Groove",
-          "url": "https://open.spotify.com/artist/0dN7WMen8j3aHyHRrUh8eC"
+          "name": "Julia Bosski",
+          "url": "https://open.spotify.com/artist/38qVvJz4fyKJhg08RqHhL2"
         }
       ],
-      "duration_ms": 261818,
-      "name": "Lesbijski Groove",
-      "url": "https://open.spotify.com/track/0ZbfT8bgWR81cepTeCirfN"
-    },
-    {
-      "added_at": "2024-03-11 23:01:00",
-      "album": {
-        "name": "Tak\u0105 Polsk\u0119 lubi\u0119 nawet",
-        "url": "https://open.spotify.com/album/72jTsjvMjNn2xH1Ye9T3ER"
-      },
-      "artists": [
-        {
-          "name": "Cudowne Lata",
-          "url": "https://open.spotify.com/artist/0e3JhHef9mrLSetLvdbJxf"
-        }
-      ],
-      "duration_ms": 248202,
-      "name": "Tak\u0105 Polsk\u0119 lubi\u0119 nawet",
-      "url": "https://open.spotify.com/track/6sQG5iHLckuLzX1unBIRD1"
-    },
-    {
-      "added_at": "2024-03-11 23:01:00",
-      "album": {
-        "name": "Gus\u0142a (Human Rites)",
-        "url": "https://open.spotify.com/album/7LL8vd2QrpFTKSmnOe0DVX"
-      },
-      "artists": [
-        {
-          "name": "Avtomat",
-          "url": "https://open.spotify.com/artist/2WtjfyhUnUtXa6xB2cHAnj"
-        }
-      ],
-      "duration_ms": 305869,
-      "name": "Nieludzie (Ignorance Ha)",
-      "url": "https://open.spotify.com/track/0jS1ZL03A6dSpdhUz0T683"
-    },
-    {
-      "added_at": "2024-03-11 23:01:00",
-      "album": {
-        "name": "Organic Love",
-        "url": "https://open.spotify.com/album/7wiEOdACTzjmwGtG8hIWWX"
-      },
-      "artists": [
-        {
-          "name": "MICU\u0141A",
-          "url": "https://open.spotify.com/artist/7GHCUyKOaUg7OE6l4pOpai"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "Organic Love",
-      "url": "https://open.spotify.com/track/6X4IRCLajdsOARXdefbv4m"
+      "duration_ms": 202666,
+      "name": "Parlez Vous Francais",
+      "url": "https://open.spotify.com/track/1xQkNNDv2MpPpVDNcnFx32"
     },
     {
       "added_at": "2024-03-11 23:01:00",
@@ -1743,18 +1727,34 @@
     {
       "added_at": "2024-03-11 23:01:00",
       "album": {
-        "name": "Parlez Vous Francais",
-        "url": "https://open.spotify.com/album/2M8QV57i0i2GKoWe8ziAXA"
+        "name": "Organic Love",
+        "url": "https://open.spotify.com/album/7wiEOdACTzjmwGtG8hIWWX"
       },
       "artists": [
         {
-          "name": "Julia Bosski",
-          "url": "https://open.spotify.com/artist/38qVvJz4fyKJhg08RqHhL2"
+          "name": "MICU\u0141A",
+          "url": "https://open.spotify.com/artist/7GHCUyKOaUg7OE6l4pOpai"
         }
       ],
-      "duration_ms": 202666,
-      "name": "Parlez Vous Francais",
-      "url": "https://open.spotify.com/track/1xQkNNDv2MpPpVDNcnFx32"
+      "duration_ms": 192000,
+      "name": "Organic Love",
+      "url": "https://open.spotify.com/track/6X4IRCLajdsOARXdefbv4m"
+    },
+    {
+      "added_at": "2024-03-11 23:01:00",
+      "album": {
+        "name": "Gus\u0142a (Human Rites)",
+        "url": "https://open.spotify.com/album/7LL8vd2QrpFTKSmnOe0DVX"
+      },
+      "artists": [
+        {
+          "name": "Avtomat",
+          "url": "https://open.spotify.com/artist/2WtjfyhUnUtXa6xB2cHAnj"
+        }
+      ],
+      "duration_ms": 305869,
+      "name": "Nieludzie (Ignorance Ha)",
+      "url": "https://open.spotify.com/track/0jS1ZL03A6dSpdhUz0T683"
     },
     {
       "added_at": "2024-03-11 23:01:00",

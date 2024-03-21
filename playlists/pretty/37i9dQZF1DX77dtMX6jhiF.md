@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX77dtMX6jhiF.md) - [plain]
 
 > Sophisticated palates only\. Curated by: <a href="https://www.instagram.com/damsonidris/">Damson Idris</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,663 likes - 50 songs - 3 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,677 likes - 50 songs - 3 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,8 +21,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX77dtMX6jhiF.md) - [plain]
 | 11 | [Turn Your Lights Down Low](https://open.spotify.com/track/7I1fHMDNlHobS8SBUJAUDt) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD), [Ms\. Lauryn Hill](https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl) | [Chant Down Babylon](https://open.spotify.com/album/4hV6TxaUkzEi4wUN6Fd0s7) | 5:46 |
 | 12 | [On The Way \(feat\. Mila J\)](https://open.spotify.com/track/423NhOTzoqgeaIJbrUzSoo) | [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk), [Mila J](https://open.spotify.com/artist/6cN9XwPMj9bWzJ32GC6V7v) | [Chilombo \(Deluxe\)](https://open.spotify.com/album/1JsySWOa2RchsBB2N4313v) | 3:42 |
 | 13 | [The Blacker The Berry](https://open.spotify.com/track/5Mtt6tZSZA9cXTHGSGpyh0) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [To Pimp A Butterfly](https://open.spotify.com/album/7ycBtnsMtyVbbwTfJwRjSP) | 5:28 |
-| 14 | [Last Time That I Checc'd \(feat\. YG\)](https://open.spotify.com/track/39xWBHPM4E9MwzEy5gbM7p) | [Nipsey Hussle](https://open.spotify.com/artist/0EeQBlQJFiAfJeVN2vT9s0), [YG](https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY) | [Victory Lap](https://open.spotify.com/album/6rcbbhcm8Os7EiVRHP9Aef) | 3:45 |
-| 15 | [Ojuelegba](https://open.spotify.com/track/1AtBzcUzKLh4BGwXhFA9K6) | [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Ayo](https://open.spotify.com/album/3K4CaKaEcLuJkJZ3lATzrq) | 3:36 |
+| 14 | [Ojuelegba](https://open.spotify.com/track/1AtBzcUzKLh4BGwXhFA9K6) | [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Ayo](https://open.spotify.com/album/3K4CaKaEcLuJkJZ3lATzrq) | 3:36 |
+| 15 | [Last Time That I Checc'd \(feat\. YG\)](https://open.spotify.com/track/39xWBHPM4E9MwzEy5gbM7p) | [Nipsey Hussle](https://open.spotify.com/artist/0EeQBlQJFiAfJeVN2vT9s0), [YG](https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY) | [Victory Lap](https://open.spotify.com/album/6rcbbhcm8Os7EiVRHP9Aef) | 3:45 |
 | 16 | [Liberian Girl \- 2012 Remastered Version](https://open.spotify.com/track/5OoRmdDfAiDztSwrhe7wuE) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [Bad 25th Anniversary](https://open.spotify.com/album/24TAupSNVWSAHL0R7n71vm) | 3:52 |
 | 17 | [Sky's the Limit \(feat\. 112\) \- 2014 Remaster](https://open.spotify.com/track/0xdYzkbBBfTevSyOJqWUSX) | [The Notorious B.I.G.](https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb), [112](https://open.spotify.com/artist/7urq0VfqxEYEEiZUkebXT4) | [Life After Death \(2014 Remastered Edition\)](https://open.spotify.com/album/7dRdaGSxgcBdJnrOviQRuB) | 5:29 |
 | 18 | [Use This Gospel](https://open.spotify.com/track/0oPOuDmmkVp3h6puekhs6P) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Clipse](https://open.spotify.com/artist/2J257euzcjnDLipsyJH3F2), [Kenny G](https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB) | [JESUS IS KING](https://open.spotify.com/album/0FgZKfoU2Br5sHOfvZKTI9) | 3:33 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX77dtMX6jhiF.md) - [plain]
 | 49 | [California Dreaming](https://open.spotify.com/track/2F7dvdHfSM5cZxrkkptddA) | [Eddie Hazel](https://open.spotify.com/artist/3JVF9a4IJrL7sTSdjXxIqJ) | [AT HOME](https://open.spotify.com/album/4v5hIeJhusFcKFXyRHRBoy) | 3:41 |
 | 50 | [You Raised Me](https://open.spotify.com/track/7p9nphST7ntwp2oNGPm7JI) | [Giggs](https://open.spotify.com/artist/3S0tlB4fE7ChxI2pWz8Xip) | [Walk in Da Park](https://open.spotify.com/album/2UAWSIueBxqi7bXSoKxQ7v) | 2:50 |
 
-Snapshot ID: `MCxjZTBjM2M0MDk4NDUyODljODFkOTA1MThiMjhkNzBlNjg2OGI1MjRk`
+Snapshot ID: `MCxiNGYzZDcxZDQyOTYxOWEzOWNkYmZiZWNmZmI1NzExMTNhOTE2Y2My`

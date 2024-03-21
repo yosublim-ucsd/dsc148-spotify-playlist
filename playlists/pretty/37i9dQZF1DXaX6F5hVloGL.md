@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaX6F5hVloGL.md) - [plain]
 
 > Music from ”TEKKEN” series!  鉄拳シリーズの楽曲を1つのプレイリストで。　TEKKEN™8 & ©Bandai Namco Entertainment Inc.
 
-[Spotify](https://open.spotify.com/user/spotify) - 268 likes - 79 songs - 4 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 299 likes - 79 songs - 4 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -88,4 +88,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaX6F5hVloGL.md) - [plain]
 | 78 | [Game Changer](https://open.spotify.com/track/5xXrG0Bb6tglPA0qGYLCIc) | [TEKKEN Project](https://open.spotify.com/artist/4jBUhTlqlLZtan3C1PCJSs), [Bandai Namco Game Music](https://open.spotify.com/artist/79TdUM8JBfntiLVLJVTS98) | [TEKKEN 8 \(Original Soundtrack\)](https://open.spotify.com/album/6rPirl2YGHtO4J5xJemEpn) | 4:13 |
 | 79 | [Deep Space \- Normal](https://open.spotify.com/track/4mafWr2jj7t0fmwdnSEyF4) | [TEKKEN Project](https://open.spotify.com/artist/4jBUhTlqlLZtan3C1PCJSs), [Bandai Namco Game Music](https://open.spotify.com/artist/79TdUM8JBfntiLVLJVTS98) | [TEKKEN 8 \(Original Soundtrack\)](https://open.spotify.com/album/6rPirl2YGHtO4J5xJemEpn) | 4:22 |
 
-Snapshot ID: `MCxhZDQzYjdlN2I0MWM4ODBkNDNjMTAzYTAxYjYyZTBmMDhjZGQwNTRk`
+Snapshot ID: `MCxmNzU4YWIxODg0ZTI2MGRhZTY3NzgxZjlmOTllYjEyNGQ4N2U1OTc2`

@@ -8,7 +8,7 @@
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [1989 at the bustop](https://open.spotify.com/track/4cWaEVuXUs1kRbfHhnlXmO) | [heroku](https://open.spotify.com/artist/376UjXiYKUUjXatPRQoWSC) | [deconstruct](https://open.spotify.com/album/2nICjIzW2n6fMUaFPP4bnb) | 1:41 | 2024-01-05 | 2024-03-13 |
+| [1989 at the bustop](https://open.spotify.com/track/4cWaEVuXUs1kRbfHhnlXmO) | [heroku](https://open.spotify.com/artist/376UjXiYKUUjXatPRQoWSC) | [deconstruct](https://open.spotify.com/album/2nICjIzW2n6fMUaFPP4bnb) | 1:41 | 2024-01-05 |  |
 | [4you to just love](https://open.spotify.com/track/2u7BaomZDkHMx1xfth3d5s) | [The Easy Breeze](https://open.spotify.com/artist/5MpwtWtFfapulpKEjAeU81) | [4you to just love](https://open.spotify.com/album/7yMLFLuzDknKgARBtrIQqq) | 2:34 | 2024-01-05 |  |
 | [6pm Freedom](https://open.spotify.com/track/78wa13XBguLAx0c5pzqZDI) | [Arlos](https://open.spotify.com/artist/5PU5cwPems7pVldrGo4Bs5) | [Easy Breathing & 6pm Freedom](https://open.spotify.com/album/3jO0ts2BPgfBWKms1D5H2x) | 3:00 | 2024-01-05 |  |
 | [A Good Evening](https://open.spotify.com/track/2JJG2VeY1SMNS9ZqVnVZoV) | [Secret Corner](https://open.spotify.com/artist/7a40ZaJBGkEnOqrZyBCwQU) | [A Good Evening](https://open.spotify.com/album/6euHSUaffo1PSTtmRF1lNx) | 2:12 | 2024-01-05 |  |
@@ -216,7 +216,7 @@
 | [Happy Camper](https://open.spotify.com/track/65Aih3UTZ71FYy1IFX9yai) | [Dasunny](https://open.spotify.com/artist/0GRMQfjpndi6Maj7lvYOza) | [Happy Camper](https://open.spotify.com/album/0dGweGrhJHrI7b2aZzrlbP) | 2:00 | 2024-03-01 | 2024-03-10 |
 | [Harpiness](https://open.spotify.com/track/73EllKCl8YXhxV1dEXxF0U) | [LILCHI](https://open.spotify.com/artist/55rKNBzTkThc5PPCc1kbRn) | [Harpiness](https://open.spotify.com/album/6znqVk3rBkqkouCbLH8wLV) | 2:09 | 2024-01-05 |  |
 | [Hash with 2,8](https://open.spotify.com/track/3OruYgXvTvTVVSKwSY71VD) | [Krims Krams](https://open.spotify.com/artist/2h9Xl98MO21fGnWbheeKuu) | [Hash with 2,8](https://open.spotify.com/album/1tt6e06BzChloRVr08jC2K) | 2:13 | 2024-01-05 |  |
-| [hatten](https://open.spotify.com/track/0nPa8iAD5XHvwAuh7dND32) | [archipelago beats](https://open.spotify.com/artist/7kv4vSxfaAfdzaq6Ogd272) | [hatten](https://open.spotify.com/album/00xZabDtZSUmnM8ODVHA7e) | 2:35 | 2024-01-05 |  |
+| [hatten](https://open.spotify.com/track/0nPa8iAD5XHvwAuh7dND32) | [archipelago beats](https://open.spotify.com/artist/7kv4vSxfaAfdzaq6Ogd272) | [hatten](https://open.spotify.com/album/00xZabDtZSUmnM8ODVHA7e) | 2:35 | 2024-01-05 | 2024-03-21 |
 | [Hauga](https://open.spotify.com/track/4Zt4YhDZ0SoMIR8lzXZw7I) | [J Mariou](https://open.spotify.com/artist/0EtOuwnEN1iBz6miiq5NfW) | [Hauga](https://open.spotify.com/album/08Hy3qIJEDIvUDw1oaoT7g) | 2:01 | 2024-01-05 |  |
 | [head in the clouds](https://open.spotify.com/track/0GdZ6vlb3nC8t5B5MP6TqP) | [drewbee](https://open.spotify.com/artist/0bRyibPzrRlfTwKe7oUXzR) | [head in the clouds](https://open.spotify.com/album/341MeGEteHymZVwmd0xspK) | 2:14 | 2024-03-08 |  |
 | [Hello](https://open.spotify.com/track/55kBQKbWwzMmEafQYjvhQe) | [Mr Argyle](https://open.spotify.com/artist/3uXwEhmJJ8hkRJS7nE07sw) | [Hello](https://open.spotify.com/album/6NtOlKsDjrApcJtdH4T6jn) | 1:51 | 2024-01-05 |  |

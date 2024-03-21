@@ -1,12 +1,12 @@
 {
   "description": "Hardcore and uptempo to get you pumped",
-  "num_followers": 71469,
+  "num_followers": 71509,
   "original_name": "Hardcore Rage 2024",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlYTM0ZDBkNTgzMjlmYjRkYjlhODE2ZDVhOGNkNWMzZGE0ODliYzcw",
+  "snapshot_id": "MCxhODViOTgzODQxOGEwMTViYjdlN2EzNDIyODMyNzkxNmQzODkwYzY3",
   "tracks": [
     {
       "added_at": "2024-03-19 15:36:32",
@@ -483,22 +483,18 @@
     {
       "added_at": "2024-03-19 15:36:32",
       "album": {
-        "name": "Trippie naar de klote",
-        "url": "https://open.spotify.com/album/3yey7HNNhu0asuLy02BWuh"
+        "name": "Thunder In Paradise",
+        "url": "https://open.spotify.com/album/3UVOwqbr7xDioziembhjfF"
       },
       "artists": [
         {
-          "name": "Dr. Peacock",
-          "url": "https://open.spotify.com/artist/4RbUYWWjEBb4umwqakOEd3"
-        },
-        {
-          "name": "Steen",
-          "url": "https://open.spotify.com/artist/4sf0XtUsKwVtg6YK72Dx2C"
+          "name": "Deadly Guns",
+          "url": "https://open.spotify.com/artist/1RsU9zuGACUb1NGShiFpcP"
         }
       ],
-      "duration_ms": 192000,
-      "name": "Trippie naar de klote",
-      "url": "https://open.spotify.com/track/4Tz5h4M9dEVTJPk1x2kImp"
+      "duration_ms": 159600,
+      "name": "Shark Attack",
+      "url": "https://open.spotify.com/track/1TwUqMISFgw9jU2c8cSOQI"
     },
     {
       "added_at": "2024-03-19 15:36:32",
@@ -523,18 +519,22 @@
     {
       "added_at": "2024-03-19 15:36:32",
       "album": {
-        "name": "Thunder In Paradise",
-        "url": "https://open.spotify.com/album/3UVOwqbr7xDioziembhjfF"
+        "name": "Trippie naar de klote",
+        "url": "https://open.spotify.com/album/3yey7HNNhu0asuLy02BWuh"
       },
       "artists": [
         {
-          "name": "Deadly Guns",
-          "url": "https://open.spotify.com/artist/1RsU9zuGACUb1NGShiFpcP"
+          "name": "Dr. Peacock",
+          "url": "https://open.spotify.com/artist/4RbUYWWjEBb4umwqakOEd3"
+        },
+        {
+          "name": "Steen",
+          "url": "https://open.spotify.com/artist/4sf0XtUsKwVtg6YK72Dx2C"
         }
       ],
-      "duration_ms": 159600,
-      "name": "Shark Attack",
-      "url": "https://open.spotify.com/track/1TwUqMISFgw9jU2c8cSOQI"
+      "duration_ms": 192000,
+      "name": "Trippie naar de klote",
+      "url": "https://open.spotify.com/track/4Tz5h4M9dEVTJPk1x2kImp"
     },
     {
       "added_at": "2024-03-19 15:36:32",
@@ -1215,26 +1215,6 @@
     {
       "added_at": "2024-03-19 15:36:32",
       "album": {
-        "name": "The Boogeyman",
-        "url": "https://open.spotify.com/album/1WCQ5o2QcQOrhcLwZljLvP"
-      },
-      "artists": [
-        {
-          "name": "Partyraiser",
-          "url": "https://open.spotify.com/artist/39cgo5SPJygKIlIcrwkd73"
-        },
-        {
-          "name": "S-KILL",
-          "url": "https://open.spotify.com/artist/6UPQ041bqYr2Oftpv3hLLq"
-        }
-      ],
-      "duration_ms": 180857,
-      "name": "The Boogeyman",
-      "url": "https://open.spotify.com/track/4SGwV4zIwcdGYybJvAj2kz"
-    },
-    {
-      "added_at": "2024-03-19 15:36:32",
-      "album": {
         "name": "PURSUIT",
         "url": "https://open.spotify.com/album/4U28LlMnvG8KdHRm05Dodt"
       },
@@ -1251,6 +1231,26 @@
       "duration_ms": 120000,
       "name": "PURSUIT",
       "url": "https://open.spotify.com/track/0kBjy2MP0fx0gqHfIDSy23"
+    },
+    {
+      "added_at": "2024-03-19 15:36:32",
+      "album": {
+        "name": "The Boogeyman",
+        "url": "https://open.spotify.com/album/1WCQ5o2QcQOrhcLwZljLvP"
+      },
+      "artists": [
+        {
+          "name": "Partyraiser",
+          "url": "https://open.spotify.com/artist/39cgo5SPJygKIlIcrwkd73"
+        },
+        {
+          "name": "S-KILL",
+          "url": "https://open.spotify.com/artist/6UPQ041bqYr2Oftpv3hLLq"
+        }
+      ],
+      "duration_ms": 180857,
+      "name": "The Boogeyman",
+      "url": "https://open.spotify.com/track/4SGwV4zIwcdGYybJvAj2kz"
     },
     {
       "added_at": "2024-03-19 15:36:32",
@@ -1435,6 +1435,22 @@
     {
       "added_at": "2024-03-19 15:36:32",
       "album": {
+        "name": "Force Of Salvation (Official Masters of Hardcore Austria 2023 Anthem)",
+        "url": "https://open.spotify.com/album/3frDN1XwkMYXIB504jjoKY"
+      },
+      "artists": [
+        {
+          "name": "GridKiller",
+          "url": "https://open.spotify.com/artist/7njBiH1Uy0qNA8VvPPtEG7"
+        }
+      ],
+      "duration_ms": 322666,
+      "name": "Force Of Salvation - Official Masters of Hardcore Austria 2023 Anthem",
+      "url": "https://open.spotify.com/track/56tEduBCyWPZ3gVAWONJCu"
+    },
+    {
+      "added_at": "2024-03-19 15:36:32",
+      "album": {
         "name": "Fvcking One",
         "url": "https://open.spotify.com/album/26DXvklEuDelfT7fLjyRCj"
       },
@@ -1455,22 +1471,6 @@
     {
       "added_at": "2024-03-19 15:36:32",
       "album": {
-        "name": "Force Of Salvation (Official Masters of Hardcore Austria 2023 Anthem)",
-        "url": "https://open.spotify.com/album/3frDN1XwkMYXIB504jjoKY"
-      },
-      "artists": [
-        {
-          "name": "GridKiller",
-          "url": "https://open.spotify.com/artist/7njBiH1Uy0qNA8VvPPtEG7"
-        }
-      ],
-      "duration_ms": 322666,
-      "name": "Force Of Salvation - Official Masters of Hardcore Austria 2023 Anthem",
-      "url": "https://open.spotify.com/track/56tEduBCyWPZ3gVAWONJCu"
-    },
-    {
-      "added_at": "2024-03-19 15:36:32",
-      "album": {
         "name": "Mysteries of Creation",
         "url": "https://open.spotify.com/album/0GBa0Z1qbfRGpQrNxcXpna"
       },
@@ -1483,22 +1483,6 @@
       "duration_ms": 197379,
       "name": "Mysteries of Creation",
       "url": "https://open.spotify.com/track/2fW70pWLS91PeHFp6BvsEk"
-    },
-    {
-      "added_at": "2024-03-19 15:36:32",
-      "album": {
-        "name": "HIT IT",
-        "url": "https://open.spotify.com/album/41iCih8VDmQCezbRHH8U95"
-      },
-      "artists": [
-        {
-          "name": "Irradiate",
-          "url": "https://open.spotify.com/artist/3iVpZjQNb6mpiV5KY2xY9I"
-        }
-      ],
-      "duration_ms": 164210,
-      "name": "HIT IT",
-      "url": "https://open.spotify.com/track/4ucb4VSNPP6zctQqnnubpb"
     },
     {
       "added_at": "2024-03-19 15:36:32",
@@ -1519,6 +1503,22 @@
       "duration_ms": 245373,
       "name": "Story of My Life",
       "url": "https://open.spotify.com/track/59X0xMrPXXexh70B8unJpc"
+    },
+    {
+      "added_at": "2024-03-19 15:36:32",
+      "album": {
+        "name": "HIT IT",
+        "url": "https://open.spotify.com/album/41iCih8VDmQCezbRHH8U95"
+      },
+      "artists": [
+        {
+          "name": "Irradiate",
+          "url": "https://open.spotify.com/artist/3iVpZjQNb6mpiV5KY2xY9I"
+        }
+      ],
+      "duration_ms": 164210,
+      "name": "HIT IT",
+      "url": "https://open.spotify.com/track/4ucb4VSNPP6zctQqnnubpb"
     },
     {
       "added_at": "2024-03-19 15:36:32",

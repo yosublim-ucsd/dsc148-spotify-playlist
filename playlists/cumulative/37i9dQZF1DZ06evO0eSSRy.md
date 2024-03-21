@@ -4,7 +4,7 @@
 
 > This is PÆRISH\. The essential tracks, all in one playlist.
 
-35 songs - 2 hr 7 min
+36 songs - 2 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,9 +30,10 @@
 | [My Every Step](https://open.spotify.com/track/17AB8UiKW3MO4euoJQEofd) | [PÆRISH](https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL) | [You're in both dreams \(and you're scared\)](https://open.spotify.com/album/642yaHJxAHfVyzu7IBlglo) | 2:16 | 2023-08-19 | 2023-11-11 |
 | [Party's over, Biff](https://open.spotify.com/track/07eiHw5s87pBGVrLlXyV2n) | [PÆRISH](https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL) | [Semi Finalists](https://open.spotify.com/album/16LfAB0rsKN5dbcYEGLhTb) | 3:48 | 2022-09-16 |  |
 | [Sailplane](https://open.spotify.com/track/4haNqJZCLgJxxTVDhZroKi) | [PÆRISH](https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL) | [Semi Finalists](https://open.spotify.com/album/16LfAB0rsKN5dbcYEGLhTb) | 2:34 | 2022-09-18 |  |
-| [Semi Finalists](https://open.spotify.com/track/1NnJQSLLWRdHvWu3ZrwRel) | [PÆRISH](https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL) | [Semi Finalists](https://open.spotify.com/album/16LfAB0rsKN5dbcYEGLhTb) | 3:43 | 2022-11-12 |  |
+| [Semi Finalists](https://open.spotify.com/track/1NnJQSLLWRdHvWu3ZrwRel) | [PÆRISH](https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL) | [Semi Finalists](https://open.spotify.com/album/16LfAB0rsKN5dbcYEGLhTb) | 3:43 | 2022-11-12 | 2024-03-21 |
 | [Sequoia](https://open.spotify.com/track/52sgHE6V4gTMYE97K6m2tm) | [PÆRISH](https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL) | [You're in both dreams \(and you're scared\)](https://open.spotify.com/album/642yaHJxAHfVyzu7IBlglo) | 4:36 | 2023-08-19 |  |
 | [ShaqFu](https://open.spotify.com/track/5myvfocYHmjLdbIvHhExo5) | [PÆRISH](https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL) | [Semi Finalists](https://open.spotify.com/album/16LfAB0rsKN5dbcYEGLhTb) | 3:25 | 2022-12-12 | 2023-09-02 |
+| [Start out With Differences](https://open.spotify.com/track/5fITXhJcP55MMRlst8B8lY) | [PÆRISH](https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL) | [Semi Finalists](https://open.spotify.com/album/16LfAB0rsKN5dbcYEGLhTb) | 3:49 | 2024-03-20 |  |
 | [Stick to Silence](https://open.spotify.com/track/0a0tGgTGDmo2ChpB7IWTbc) | [PÆRISH](https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL) | [Stick to Silence](https://open.spotify.com/album/0yAfmA16uaH56VfgXuhjuu) | 3:46 | 2022-09-16 |  |
 | [Still There](https://open.spotify.com/track/6nE6Ays1vUQugTCUiUpi6z) | [PÆRISH](https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL) | [You're in both dreams \(and you're scared\)](https://open.spotify.com/album/642yaHJxAHfVyzu7IBlglo) | 3:09 | 2023-11-10 | 2024-02-14 |
 | [Still There](https://open.spotify.com/track/7uUCmwEwG2OAo1Q9rXis7E) | [PÆRISH](https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL) | [Still There](https://open.spotify.com/album/6hfCNvEvJYM2ZVsLp0KTfq) | 3:09 | 2023-07-22 |  |

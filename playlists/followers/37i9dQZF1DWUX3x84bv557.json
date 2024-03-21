@@ -1,5 +1,5 @@
 {
-  "2024-03-20": 161803,
+  "2024-03-21": 161812,
   "date_first_scraped": "2023-02-25",
   "description": "De nieuwste Nederlandse pop! Cover: Jaap Reesema & Gavin DeGraw",
   "name": "Je Moerstaal",
@@ -4309,10 +4309,28 @@
       ],
       "date_added": "2023-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-20",
       "duration_ms": 183941,
       "name": "Iemand Anders",
       "url": "https://open.spotify.com/track/00Gy9pxJXHzCoRwXi5CUeJ"
+    },
+    {
+      "album": {
+        "name": "Vrouw Van De Wereld",
+        "url": "https://open.spotify.com/album/5kOYsrWUtHR6QL0MzuyJFh"
+      },
+      "artists": [
+        {
+          "name": "Zo\u00eb Livay",
+          "url": "https://open.spotify.com/artist/2avtvk1ZeiEf3wZ8dE8JfE"
+        }
+      ],
+      "date_added": "2024-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183941,
+      "name": "Iemand Anders",
+      "url": "https://open.spotify.com/track/25l6XW7akaVC2gldkJmTd4"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4dhOKA.md) - [plain]
 
 > This is Lalo Mora\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,246 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,265 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,21 +26,21 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4dhOKA.md) - [plain]
 | 16 | [Mi Casa Nueva](https://open.spotify.com/track/7hurP5YckvI4lJaWPUdTHR) | [Lalo Mora](https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ) | [Visión 20.20 Éxitos](https://open.spotify.com/album/3bPCyFWI060W7Z0VEFEFH1) | 2:41 |
 | 17 | [Me Refiero A Ti](https://open.spotify.com/track/7ImEnjGpUS77pquZ1IeZnH) | [Lalo Mora](https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ) | [20 Memorias Norteñas](https://open.spotify.com/album/1BnTwu2JNvBuSAWnfDwBn4) | 3:13 |
 | 18 | [Corrido De Los Pérez](https://open.spotify.com/track/2uIFOZHlMfbFNVh00f2LB3) | [Lalo Mora](https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ) | [Corridos De Jefes](https://open.spotify.com/album/661ltDGlqi9spo8kJRNRNV) | 3:41 |
-| 19 | [Cielo](https://open.spotify.com/track/3FnIgHwe3tD6LyAlW1CYlz) | [Lalo Mora](https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ) | [Una Historia Más](https://open.spotify.com/album/4Bmn8tRWto8DrTaCFfOjSc) | 2:45 |
-| 20 | [Baraja de Oro](https://open.spotify.com/track/2PmneeqjoT03FwVSBeSX16) | [Lalo Mora](https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ) | [Las Norteñas Consentidas en la Voz de Lalo Mora](https://open.spotify.com/album/2OHxP5VMnZyUkuAOWh3haU) | 3:13 |
+| 19 | [Quiero Que Sepas](https://open.spotify.com/track/5IiLxdInZYk2ZfU5d0EqHD) | [Lalo Mora](https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ), [Banda Aramburos](https://open.spotify.com/artist/4jeNSKdfP0pmDMJYIFktjb) | [Quiero Que Sepas](https://open.spotify.com/album/2VvUxTRxFdK8biTfOWyprZ) | 2:21 |
+| 20 | [Cielo](https://open.spotify.com/track/3FnIgHwe3tD6LyAlW1CYlz) | [Lalo Mora](https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ) | [Una Historia Más](https://open.spotify.com/album/4Bmn8tRWto8DrTaCFfOjSc) | 2:45 |
 | 21 | [En Eso No Quedamos](https://open.spotify.com/track/6hZFTHGFwLWWiaGq73Z3p8) | [Lalo Mora](https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ) | [20 Memorias Norteñas](https://open.spotify.com/album/1BnTwu2JNvBuSAWnfDwBn4) | 2:57 |
-| 22 | [Quiero Que Sepas](https://open.spotify.com/track/5IiLxdInZYk2ZfU5d0EqHD) | [Lalo Mora](https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ), [Banda Aramburos](https://open.spotify.com/artist/4jeNSKdfP0pmDMJYIFktjb) | [Quiero Que Sepas](https://open.spotify.com/album/2VvUxTRxFdK8biTfOWyprZ) | 2:21 |
+| 22 | [Baraja de Oro](https://open.spotify.com/track/2PmneeqjoT03FwVSBeSX16) | [Lalo Mora](https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ) | [Las Norteñas Consentidas en la Voz de Lalo Mora](https://open.spotify.com/album/2OHxP5VMnZyUkuAOWh3haU) | 3:13 |
 | 23 | [Ojitos a Mi Gusto](https://open.spotify.com/track/3RzxBoY4JgYKTQwiGlpctO) | [Lalo Mora](https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ) | [El Rey de Mil Coronas](https://open.spotify.com/album/4GfA6yDRCYTj3qLeRqPbSy) | 2:40 |
 | 24 | [Bonita \- Norteña Version](https://open.spotify.com/track/0B6rjFyCQZvxUk58juuk00) | [Lalo Mora](https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ) | [Visión 20.20 Éxitos](https://open.spotify.com/album/3bPCyFWI060W7Z0VEFEFH1) | 2:55 |
 | 25 | [El Pavido Navido](https://open.spotify.com/track/1xBF8Vx4S94Pvtbm3l71z7) | [Lalo Mora](https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ) | [Éxitos Con Sax, Vol\. 2](https://open.spotify.com/album/3FvDzyXAOh5eCkXFs7LBht) | 2:57 |
 | 26 | [Regalo Caro](https://open.spotify.com/track/3gpI8YBhKnhngpL7GaE08B) | [Lalo Mora](https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ) | [20 Corridos Bien Perrones](https://open.spotify.com/album/1fGux6tD9bRqucPsd1MJGi) | 3:16 |
 | 27 | [A Punto de Marcharme](https://open.spotify.com/track/6Hz8Ai2vWn1xSeapeSr8Sm) | [Lalo Mora](https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ) | [El Rey de Mil Coronas](https://open.spotify.com/album/4GfA6yDRCYTj3qLeRqPbSy) | 2:45 |
-| 28 | [Trono Caído](https://open.spotify.com/track/5viFunfUBvCz96uXWy2wTn) | [Lalo Mora](https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ) | [Mis 20 Éxitos Con Banda](https://open.spotify.com/album/3EvAjWpMqijcCmHGy0sLHG) | 2:41 |
-| 29 | [La Carga Ladeada](https://open.spotify.com/track/1RhGBWA0En6KadlMY0a9rh) | [Lalo Mora](https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ) | [Corridos De Jefes](https://open.spotify.com/album/661ltDGlqi9spo8kJRNRNV) | 3:43 |
+| 28 | [La Carga Ladeada](https://open.spotify.com/track/1RhGBWA0En6KadlMY0a9rh) | [Lalo Mora](https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ) | [Corridos De Jefes](https://open.spotify.com/album/661ltDGlqi9spo8kJRNRNV) | 3:43 |
+| 29 | [Trono Caído](https://open.spotify.com/track/5viFunfUBvCz96uXWy2wTn) | [Lalo Mora](https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ) | [Mis 20 Éxitos Con Banda](https://open.spotify.com/album/3EvAjWpMqijcCmHGy0sLHG) | 2:41 |
 | 30 | [En Mil Pedazos](https://open.spotify.com/track/7116C8O8cYYI5opbMRDyZu) | [Lalo Mora](https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ) | [También De Los Ranchos Bajan](https://open.spotify.com/album/54fEpvwsWS9F4ziKNrjgWj) | 3:14 |
 | 31 | [De Nada Sirvió](https://open.spotify.com/track/26utHjizl63E8fLaTYtWf5) | [Lalo Mora](https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ) | [El Rey de Mil Coronas](https://open.spotify.com/album/4GfA6yDRCYTj3qLeRqPbSy) | 2:58 |
-| 32 | [Yo Te Amo María](https://open.spotify.com/track/0MhXyLHLkVA2PjT7rqhMX8) | [Lalo Mora](https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ) | [Éxitos Con Sax, Vol\. 2](https://open.spotify.com/album/3FvDzyXAOh5eCkXFs7LBht) | 3:39 |
-| 33 | [Lucio Peña](https://open.spotify.com/track/4Jj72fzYOa4fHWAI4VQLCc) | [Lalo Mora](https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ) | [Corridos De Jefes](https://open.spotify.com/album/661ltDGlqi9spo8kJRNRNV) | 3:19 |
+| 32 | [Lucio Peña](https://open.spotify.com/track/4Jj72fzYOa4fHWAI4VQLCc) | [Lalo Mora](https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ) | [Corridos De Jefes](https://open.spotify.com/album/661ltDGlqi9spo8kJRNRNV) | 3:19 |
+| 33 | [Yo Te Amo María](https://open.spotify.com/track/0MhXyLHLkVA2PjT7rqhMX8) | [Lalo Mora](https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ) | [Éxitos Con Sax, Vol\. 2](https://open.spotify.com/album/3FvDzyXAOh5eCkXFs7LBht) | 3:39 |
 | 34 | [Se Vale Llorar](https://open.spotify.com/track/18OIUIhJegQ6KiMcekvBLo) | [Los Herederos De Nuevo León](https://open.spotify.com/artist/0F7PO1xYy0DIFrHq3DxFbI), [Lalo Mora](https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ) | [X Aniversario](https://open.spotify.com/album/10KZI5H0ZTDzM69n8gYUe9) | 3:16 |
 | 35 | [Los Sauces Llorones](https://open.spotify.com/track/1gQKLdg3OAADtn3H0Bu9J1) | [Lalo Mora](https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ) | [El Rey de Mil Coronas](https://open.spotify.com/album/4GfA6yDRCYTj3qLeRqPbSy) | 3:19 |
 | 36 | [Mi Caballo El Invasor](https://open.spotify.com/track/6bZ1tCffmw6Vj4JxecOPxB) | [Lalo Mora](https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ) | [El Hombre Que Más Te Amo](https://open.spotify.com/album/4yMQaCuTxMGgLeiZ4qCkZE) | 2:34 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4dhOKA.md) - [plain]
 | 49 | [La Casita De Adobe](https://open.spotify.com/track/2OCEVBnAtKJlwFqnOhPolb) | [Lalo Mora](https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ) | [La Casita De Adobe](https://open.spotify.com/album/6wU7pHjRDZGa4sRVawB1aZ) | 3:11 |
 | 50 | [Amigo Mío \- Dueto Con Lalo Mora](https://open.spotify.com/track/5lJCiAk7S2WNglqzEVS3JE) | [Liberación](https://open.spotify.com/artist/5xwugJ4uudppmOCCZateE5), [Lalo Mora](https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ) | [30 Aniversario Duetos](https://open.spotify.com/album/5BhAjPF7nbVtq2pvz7nbVm) | 4:00 |
 
-Snapshot ID: `Mjg1MTQxOTUsMDAwMDAwMDA0MDA4ZGEwNjY2MmNhOTc1NTlkOTFkYmQ5NGNiOTJhZQ==`
+Snapshot ID: `Mjg1MTU2NjEsMDAwMDAwMDA3YjhiYWRmNDRkYjM2ZmNlZGE4N2IzNTA2MTNiZTM2Mw==`

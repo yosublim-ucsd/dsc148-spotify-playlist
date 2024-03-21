@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWL9d6xr614O.md) - [plain]
 
 > Be inspired and let the music heal your soul and uplift your spirits.
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,826 likes - 150 songs - 11 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,845 likes - 150 songs - 11 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -105,7 +105,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWL9d6xr614O.md) - [plain]
 | 95 | [Let Go and Let God](https://open.spotify.com/track/2yjDIpMlli8JJZINM7qgSo) | [Siso](https://open.spotify.com/artist/0BaEB7y6wk1YJVhbnoV2rf) | [Let Go and Let God](https://open.spotify.com/album/1K7msly7UcnICxvHCcEDkW) | 4:09 |
 | 96 | [AIK](https://open.spotify.com/track/00ByIMCGwbb50bOaZNwjQQ) | [JC Ronato](https://open.spotify.com/artist/4cgXg3h3kODZFxAnCW11vq) | [AIK](https://open.spotify.com/album/1w1vPLFbFyaSOh2dyzdzS0) | 4:39 |
 | 97 | [Sa Krus Iyong Tinapos](https://open.spotify.com/track/5WTLqKYllbZjKBdISllks9) | [Soulution Worship](https://open.spotify.com/artist/4BC2CPGkM5dwH7sqiaoXmi) | [Sa Krus Iyong Tinapos](https://open.spotify.com/album/6mOIQKIfRHNXZJLgMGa25Q) | 5:38 |
-| 98 | [More of You](https://open.spotify.com/track/2FBg070EGrNodMbX3sWIVE) | [Zac Adams](https://open.spotify.com/artist/5nwgX2zapxFBc0d3a4kH4W), [Rachel Mills](https://open.spotify.com/artist/4CFJDpfKLzcK4HPTM1b17g) | [More of You](https://open.spotify.com/album/1ZuRlofCPYnkEWpq8DPWf9) | 4:45 |
+| 98 | [More of You](https://open.spotify.com/track/2FBg070EGrNodMbX3sWIVE) | [Zac Adams](https://open.spotify.com/artist/5nwgX2zapxFBc0d3a4kH4W), [Rachel Mills](https://open.spotify.com/artist/1CIh8FGuabQfVJPzESOaYf) | [More of You](https://open.spotify.com/album/1ZuRlofCPYnkEWpq8DPWf9) | 4:45 |
 | 99 | [Dakilang Kaloob](https://open.spotify.com/track/7fTbQWBsJvShgg1wc3L7ta) | [Biyaya at Papuri](https://open.spotify.com/artist/4xNRdJlHZCcaZPevXMVNdS) | [Dakilang Kaloob](https://open.spotify.com/album/52JCoJKm2RHU6NnUysVoj8) | 3:55 |
 | 100 | [Ako’y Lumalapit](https://open.spotify.com/track/2C9bqXVvshKjjlUznCM2Ex) | [Avenue of Grace Worship](https://open.spotify.com/artist/2NwMDlv8xyqpptsuasQswC), [Jeanne Columbine Rodriguez](https://open.spotify.com/artist/36hIhBw88ScawVgplXcMYk) | [Ako’y Lumalapit](https://open.spotify.com/album/1SNoHk5XjONoBFhFaOBpjp) | 5:17 |
 | 101 | [Sa'yo O Diyos](https://open.spotify.com/track/5HFUszHdfrPTPyJfhPcFvS) | [Carlosjay](https://open.spotify.com/artist/4Fe6PXZjB4jAD33Kg4wXVG), [Charlie](https://open.spotify.com/artist/6ArLLVlZXo8uCmRv2vyRbV) | [Sa'yo O Diyos](https://open.spotify.com/album/74X0rxvPSb0hk01Jj5hL9R) | 2:49 |
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWL9d6xr614O.md) - [plain]
 | 149 | [Where Would I Be](https://open.spotify.com/track/6oAlchGEsM9sqbpEeVrIxA) | [gloryfall](https://open.spotify.com/artist/7dQz7ghhjBL8DifbsUpRMk) | [Where Would I Be](https://open.spotify.com/album/3TsuS8ao3G2Q3HdNF16Iq5) | 4:04 |
 | 150 | [Remember Me My Lord](https://open.spotify.com/track/0TmWgjV5ipkl906KUPw1UL) | [Cocoy Claravall](https://open.spotify.com/artist/7or90S16MNx8VogdeOqlKq), [Paul Tagle](https://open.spotify.com/artist/2mElsd377gxOFa8sDNYK93) | [Remember Me My Lord](https://open.spotify.com/album/6yvfzk36IpK6sujZy4OGY8) | 5:09 |
 
-Snapshot ID: `MCxmZGVhZDEyNDNkODJlZDViZDA5MmVmMGQwNDY4NDk2MDI4NTUxOGU5`
+Snapshot ID: `MCxkZGQ2ODFhYWJjYjJmZGFiM2IyZjM3ZjUxMTA2NDc4NjcyNTc1NWE0`

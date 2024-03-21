@@ -1,5 +1,5 @@
 {
-  "2024-03-20": 12380,
+  "2024-03-21": 12379,
   "date_first_scraped": "2024-01-30",
   "description": "Your daily update of the most viral tracks right now - Austria.",
   "name": "Viral 50 - Austria",
@@ -35,7 +35,7 @@
       ],
       "date_added": "2024-02-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-20",
       "duration_ms": 145800,
       "name": "Acid Cry",
       "url": "https://open.spotify.com/track/6cP6IST6zj0sPIDOjmA1JZ"
@@ -655,7 +655,7 @@
       ],
       "date_added": "2024-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-20",
       "duration_ms": 150000,
       "name": "Buscando Money",
       "url": "https://open.spotify.com/track/6vsKOJPjdxlYgRs8McgtCQ"
@@ -827,6 +827,28 @@
       "duration_ms": 264324,
       "name": "CARNIVAL",
       "url": "https://open.spotify.com/track/3w0w2T288dec0mgeZZqoNN"
+    },
+    {
+      "album": {
+        "name": "Carnival x Fein",
+        "url": "https://open.spotify.com/album/1YCnrW19PcbQ6hMrkXwi01"
+      },
+      "artists": [
+        {
+          "name": "offtopic",
+          "url": "https://open.spotify.com/artist/6fhVncKweuRwp1oucBCjj9"
+        },
+        {
+          "name": "afex",
+          "url": "https://open.spotify.com/artist/5qsOlAmrk4gDtJYlDzEbuG"
+        }
+      ],
+      "date_added": "2024-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127640,
+      "name": "Carnival x Fein",
+      "url": "https://open.spotify.com/track/6ebisdLbW0S0nFTxY0LO0X"
     },
     {
       "album": {
@@ -1139,10 +1161,28 @@
       ],
       "date_added": "2024-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-20",
       "duration_ms": 151409,
       "name": "Erinner mich",
       "url": "https://open.spotify.com/track/4lArhqEySHQwMKkWkPXQEK"
+    },
+    {
+      "album": {
+        "name": "Europapa",
+        "url": "https://open.spotify.com/album/3v1pSXwPFLvjQWbcN1iwKS"
+      },
+      "artists": [
+        {
+          "name": "Joost",
+          "url": "https://open.spotify.com/artist/6s5ubAp65wXoTZefE01RNR"
+        }
+      ],
+      "date_added": "2024-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160218,
+      "name": "Europapa",
+      "url": "https://open.spotify.com/track/0uHrMbMv3c78398pIANDqR"
     },
     {
       "album": {
@@ -1165,6 +1205,24 @@
       "duration_ms": 144335,
       "name": "Fantazija",
       "url": "https://open.spotify.com/track/1wRvvl4diSD8ajCDHWnn1c"
+    },
+    {
+      "album": {
+        "name": "Faster n Harder",
+        "url": "https://open.spotify.com/album/60Ip03ili2ml9zed9hmQ9W"
+      },
+      "artists": [
+        {
+          "name": "6arelyhuman",
+          "url": "https://open.spotify.com/artist/1oYXEVbGh1L7EWGm9C68cN"
+        }
+      ],
+      "date_added": "2024-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123428,
+      "name": "Faster n Harder",
+      "url": "https://open.spotify.com/track/3qaMprRWLGggArD14diXYz"
     },
     {
       "album": {
@@ -1670,6 +1728,24 @@
     },
     {
       "album": {
+        "name": "Heroes Are Calling",
+        "url": "https://open.spotify.com/album/5vTfNc6mJuhXr2O3UIER3e"
+      },
+      "artists": [
+        {
+          "name": "Smash Into Pieces",
+          "url": "https://open.spotify.com/artist/2vhrwzjf9H3icunkVFi9tq"
+        }
+      ],
+      "date_added": "2024-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179976,
+      "name": "Heroes Are Calling",
+      "url": "https://open.spotify.com/track/0QOEWQEowuJUz7LRIe3F6b"
+    },
+    {
+      "album": {
         "name": "HERZ MACHT BAMM",
         "url": "https://open.spotify.com/album/43hhHQjezxykYy1yf5CG11"
       },
@@ -1739,7 +1815,7 @@
       ],
       "date_added": "2024-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-20",
       "duration_ms": 157485,
       "name": "Home",
       "url": "https://open.spotify.com/track/6dpLxbF7lfCAnC9QRTjNLK"
@@ -1757,7 +1833,7 @@
       ],
       "date_added": "2024-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-20",
       "duration_ms": 119200,
       "name": "I Wouldn't Mind",
       "url": "https://open.spotify.com/track/3XB10votaPOcmrFS1dM59j"
@@ -2103,7 +2179,7 @@
       ],
       "date_added": "2024-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-20",
       "duration_ms": 183021,
       "name": "Last Man Standing",
       "url": "https://open.spotify.com/track/1ZZGkKS8MPMIlYQzQA92Va"
@@ -2283,7 +2359,7 @@
       ],
       "date_added": "2024-03-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-19",
+      "date_removed": null,
       "duration_ms": 227625,
       "name": "Little Bit Better",
       "url": "https://open.spotify.com/track/0GMs3jq70wmCo12pavj4st"
@@ -2471,6 +2547,24 @@
       "duration_ms": 221709,
       "name": "Make You Mine",
       "url": "https://open.spotify.com/track/48vIfHaK7by6x0T6ucpODL"
+    },
+    {
+      "album": {
+        "name": "maria mag nur kaviar",
+        "url": "https://open.spotify.com/album/2OUvZEpZ16DEVbeGpLj9BL"
+      },
+      "artists": [
+        {
+          "name": "Tiavo",
+          "url": "https://open.spotify.com/artist/13XOdftLPuWTn5iH2bUq2B"
+        }
+      ],
+      "date_added": "2024-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141245,
+      "name": "maria mag nur kaviar",
+      "url": "https://open.spotify.com/track/4fmSdDMyrWjWKaB1VlCiyu"
     },
     {
       "album": {
@@ -2691,7 +2785,7 @@
       ],
       "date_added": "2024-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-20",
       "duration_ms": 180872,
       "name": "Murder on the Dance Floor - triple j Like A Version",
       "url": "https://open.spotify.com/track/1swz9stsbG1p34SJHJqiww"
@@ -2756,6 +2850,28 @@
     },
     {
       "album": {
+        "name": "Eden",
+        "url": "https://open.spotify.com/album/69KS6jRys3grdwKdl4IXqm"
+      },
+      "artists": [
+        {
+          "name": "Tua",
+          "url": "https://open.spotify.com/artist/1GXnXJCevXK2b7qDAwdU5u"
+        },
+        {
+          "name": "Tarek K.I.Z",
+          "url": "https://open.spotify.com/artist/0HXAyc6kXXdnrE8wdVwS5E"
+        }
+      ],
+      "date_added": "2024-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155933,
+      "name": "Niederlande",
+      "url": "https://open.spotify.com/track/5qtI2pF851E1aHW0miWNSv"
+    },
+    {
+      "album": {
         "name": "No Fear",
         "url": "https://open.spotify.com/album/35uDNZkjmhAEnV3sz9A7jI"
       },
@@ -2807,6 +2923,50 @@
       "duration_ms": 182623,
       "name": "Nothing Matters",
       "url": "https://open.spotify.com/track/5crY7axm3GejOxy5PsnnPk"
+    },
+    {
+      "album": {
+        "name": "For Keeps",
+        "url": "https://open.spotify.com/album/2vhDs4vI5ngRZCLW0a82yj"
+      },
+      "artists": [
+        {
+          "name": "Too Close To Touch",
+          "url": "https://open.spotify.com/artist/2XziUthG3Ug3eiWuE5KRsp"
+        },
+        {
+          "name": "Bad Omens",
+          "url": "https://open.spotify.com/artist/3Ri4H12KFyu98LMjSoij5V"
+        }
+      ],
+      "date_added": "2024-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 295775,
+      "name": "Novocaine",
+      "url": "https://open.spotify.com/track/4JJpEYYamr363Kbc4zdw1h"
+    },
+    {
+      "album": {
+        "name": "NuR Du :/",
+        "url": "https://open.spotify.com/album/2ri0pX0fz7FEQSW9xyKURZ"
+      },
+      "artists": [
+        {
+          "name": "Lune",
+          "url": "https://open.spotify.com/artist/3pMYJHAY5ErzmJQVWb8VX6"
+        },
+        {
+          "name": "SHABAB",
+          "url": "https://open.spotify.com/artist/1pOuPivcxEwA8lnpMYYVsO"
+        }
+      ],
+      "date_added": "2024-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206085,
+      "name": "NuR Du :/",
+      "url": "https://open.spotify.com/track/3DYJ9tHSIhZqCVT8l5QAd0"
     },
     {
       "album": {
@@ -2969,6 +3129,24 @@
       "duration_ms": 224835,
       "name": "Patadas de Ahogado",
       "url": "https://open.spotify.com/track/4WefXOf8I4gMjdj2kBJgkl"
+    },
+    {
+      "album": {
+        "name": "Patadas de Ahogado / LATIN MAFIA (Rework)",
+        "url": "https://open.spotify.com/album/4XNpw8KZFcml3E0wz4ZyYx"
+      },
+      "artists": [
+        {
+          "name": "HUGEL",
+          "url": "https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By"
+        }
+      ],
+      "date_added": "2024-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186341,
+      "name": "Patadas de Ahogado / LATIN MAFIA - Rework",
+      "url": "https://open.spotify.com/track/14S2VMZRhekYGluotZ4pqg"
     },
     {
       "album": {
@@ -3412,6 +3590,28 @@
     },
     {
       "album": {
+        "name": "She Know What She Wanted (Jersey Club Remix Slowed)",
+        "url": "https://open.spotify.com/album/3ZdBBKZ7ExFWy1SsXTybEb"
+      },
+      "artists": [
+        {
+          "name": "Godard",
+          "url": "https://open.spotify.com/artist/4n1rqkv1XAMV9cnTSm07pY"
+        },
+        {
+          "name": "Ziahfyah",
+          "url": "https://open.spotify.com/artist/53kUGCuekuXoSYPISirZpl"
+        }
+      ],
+      "date_added": "2024-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133722,
+      "name": "She Know What She Wanted - Jersey Club Remix Slowed",
+      "url": "https://open.spotify.com/track/4ZTYSM6nsWjVAqf9BOY7qU"
+    },
+    {
+      "album": {
         "name": "She Likes a Boy",
         "url": "https://open.spotify.com/album/79GumpEw4n1qXIahUOrdNv"
       },
@@ -3448,6 +3648,24 @@
     },
     {
       "album": {
+        "name": "Slow Dancing",
+        "url": "https://open.spotify.com/album/57sBpryLVCsYI9HyQuuSEd"
+      },
+      "artists": [
+        {
+          "name": "BOY LOCO",
+          "url": "https://open.spotify.com/artist/6VemVOal7ebbuYJZSSCPvX"
+        }
+      ],
+      "date_added": "2024-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200309,
+      "name": "Slow Dancing",
+      "url": "https://open.spotify.com/track/1PEwRh4WQ3R1SvbxMNRAz6"
+    },
+    {
+      "album": {
         "name": "Soaked",
         "url": "https://open.spotify.com/album/3KlEcBtJhRhsqC13wbASjd"
       },
@@ -3477,7 +3695,7 @@
       ],
       "date_added": "2024-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-20",
       "duration_ms": 179449,
       "name": "Soaked",
       "url": "https://open.spotify.com/track/65zIby9Z03d1bhGvLNJNrA"
@@ -3713,7 +3931,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-20",
       "duration_ms": 145371,
       "name": "Tekk \u0421\u0442\u0438\u043b\u044c 175",
       "url": "https://open.spotify.com/track/1UNnuTemNJp1ejfSuWFmm1"
@@ -3739,7 +3957,7 @@
       ],
       "date_added": "2024-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-20",
       "duration_ms": 164745,
       "name": "tempo",
       "url": "https://open.spotify.com/track/2sTXJinZQxl58tFCTYtEqa"
@@ -3824,6 +4042,24 @@
     },
     {
       "album": {
+        "name": "The Code",
+        "url": "https://open.spotify.com/album/30euLVaktPWmngBsGDUYdA"
+      },
+      "artists": [
+        {
+          "name": "Nemo",
+          "url": "https://open.spotify.com/artist/5Wg72TowYBWIcSo3K2r84N"
+        }
+      ],
+      "date_added": "2024-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180141,
+      "name": "The Code",
+      "url": "https://open.spotify.com/track/1EjIXKhNHI00ZLMRpS8iz8"
+    },
+    {
+      "album": {
         "name": "The Sound Of Silence",
         "url": "https://open.spotify.com/album/2mG2BCrq18dPuqyXluFAD5"
       },
@@ -3875,7 +4111,7 @@
       ],
       "date_added": "2024-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-20",
       "duration_ms": 180689,
       "name": "Unterwegs",
       "url": "https://open.spotify.com/track/2IXYCofJeVgh5r2y0JXOMN"
@@ -3933,7 +4169,7 @@
       ],
       "date_added": "2024-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-20",
       "duration_ms": 116426,
       "name": "Verliebt",
       "url": "https://open.spotify.com/track/0k0LF4jnMrZKIVdnmduOei"
@@ -4031,10 +4267,28 @@
       ],
       "date_added": "2024-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-20",
       "duration_ms": 155480,
       "name": "We Fell Apart - Slowed",
       "url": "https://open.spotify.com/track/4oExAGoqR0JWK628dYaQ2f"
+    },
+    {
+      "album": {
+        "name": "We Will Rave",
+        "url": "https://open.spotify.com/album/4nNMa36op8YViMSJQXgWLl"
+      },
+      "artists": [
+        {
+          "name": "Kaleen",
+          "url": "https://open.spotify.com/artist/6c2Y3AYl05QMPbLMCGag6P"
+        }
+      ],
+      "date_added": "2024-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185066,
+      "name": "We Will Rave",
+      "url": "https://open.spotify.com/track/1QpWQMKfQ44QUN1dEg65T8"
     },
     {
       "album": {
@@ -4219,7 +4473,7 @@
       ],
       "date_added": "2024-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-20",
       "duration_ms": 164005,
       "name": "\u201egl\u00fccklich\u201c",
       "url": "https://open.spotify.com/track/4WC4kyZnG7TxklAKBKUaK1"

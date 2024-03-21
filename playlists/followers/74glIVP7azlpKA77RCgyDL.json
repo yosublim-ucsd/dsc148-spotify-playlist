@@ -1,5 +1,5 @@
 {
-  "2024-03-20": 8442,
+  "2024-03-21": 8444,
   "date_first_scraped": "2022-11-16",
   "description": "Every week badass heavy-music artists drop badass new cuts, and every week we&#x27;ll add those tracks to this evolving list for your headbanging pleasure. Cover artist: Terminal Nation",
   "name": "Best New Songs Right Now",
@@ -60,7 +60,7 @@
     },
     {
       "album": {
-        "name": "24 Thorns",
+        "name": "24 Thorns (feat. Kane Gelaznik)",
         "url": "https://open.spotify.com/album/4bfvIJJyrUPTR0sZuwcS7Y"
       },
       "artists": [
@@ -69,15 +69,15 @@
           "url": "https://open.spotify.com/artist/0EVz5xkkf68l8QXvlmKDYB"
         },
         {
-          "name": "Vomit Forth",
-          "url": "https://open.spotify.com/artist/7FauDKMDbUkCa6SuNfI0GP"
+          "name": "Kane Gelaznik",
+          "url": "https://open.spotify.com/artist/6tEcSUj4wC1th01MEOTelB"
         }
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 184356,
-      "name": "24 Thorns",
+      "name": "24 Thorns (feat. Kane Gelaznik)",
       "url": "https://open.spotify.com/track/1X2Jxm71xUnqWOXEfOPBFB"
     },
     {
@@ -11691,10 +11691,6 @@
         {
           "name": "Todd Jones",
           "url": "https://open.spotify.com/artist/3SkjTMFOdjH9BNwgNwJFRR"
-        },
-        {
-          "name": "Nails",
-          "url": "https://open.spotify.com/artist/69a2GzMCkrrTrN9iVmP8Ys"
         }
       ],
       "date_added": "2024-03-15",

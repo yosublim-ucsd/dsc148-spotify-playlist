@@ -4,7 +4,7 @@
 
 > New music discovery is what we're about\. Try it on for size\. Cover: Kassi Ashton
 
-1,995 songs - 4 day 12 hr 6 min
+1,996 songs - 4 day 12 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1737,7 +1737,8 @@
 | [To Get to You \(feat\. Jess Moskaluke\)](https://open.spotify.com/track/5peKbOjcAqDij7MrXqSBxm) | [Gord Bamford](https://open.spotify.com/artist/1w9VjfHGE5qPLJQy3dKups), [Jess Moskaluke](https://open.spotify.com/artist/5wCYmeBtrQWxKmOBsXx3et) | [To Get To You \(feat\. Jess Moskaluke\)](https://open.spotify.com/album/7b1OmlpnfVnM9ycoJhTdwd) | 3:06 | 2019-11-09 | 2020-02-08 |
 | [To Us It Did](https://open.spotify.com/track/35v4CE7o8XHvXPDjGPsp15) | [Mitchell Tenpenny](https://open.spotify.com/artist/1p6CdzJRoicjRcSdWoB9Qc) | [To Us It Did](https://open.spotify.com/album/3DMERTbdgd3MG3lLTonBrZ) | 2:45 | 2021-04-30 | 2021-07-10 |
 | [Tomorrow Me](https://open.spotify.com/track/52GuoXJUOFAwmPMtH3V9W4) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [Tomorrow Me](https://open.spotify.com/album/2LI2YMMEAYwSzlVRNGJMNE) | 3:28 | 2022-04-22 | 2022-06-25 |
-| [Too Good to be True](https://open.spotify.com/track/4vIiVs5JoNfqqRi5o7jAIb) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Too Good to be True](https://open.spotify.com/album/57y7NpfTINlnrNitu8vwft) | 2:40 | 2024-03-01 |  |
+| [Too Good to be True](https://open.spotify.com/track/27RDQ0TfxzWMlQFuKrPT11) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Deeper Well](https://open.spotify.com/album/5SxZmGwc4eJuPp6PcO4JgJ) | 2:40 | 2024-03-15 |  |
+| [Too Good to be True](https://open.spotify.com/track/4vIiVs5JoNfqqRi5o7jAIb) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Too Good to be True](https://open.spotify.com/album/57y7NpfTINlnrNitu8vwft) | 2:40 | 2024-03-01 | 2024-03-21 |
 | [Too Much And Not Enough](https://open.spotify.com/track/6UL8AQO0xpwUKx4Tt4Onx8) | [Hannah Ellis](https://open.spotify.com/artist/6jHWWttC33OQdEDnUXtYrq) | [Too Much And Not Enough](https://open.spotify.com/album/7digMEty8FrKfhF1O4364r) | 3:00 | 2024-01-12 |  |
 | [Tourist](https://open.spotify.com/track/5JyuDFjH9PjB1FHbkIdT8m) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [Palomino](https://open.spotify.com/album/69z5d2iu6PdaRZWvx8YVUl) | 3:35 | 2022-04-29 | 2022-05-14 |
 | [Town Ain't Big Enough](https://open.spotify.com/track/5DrmJ25aHuPBImk1kLp5Of) | [Chris Young](https://open.spotify.com/artist/4BYxqVkZyFjtik7crYLg5Q), [Lauren Alaina](https://open.spotify.com/artist/1v3tdpIdBSW14rHUfiEVOv) | [Town Ain't Big Enough](https://open.spotify.com/album/3blwrJARQNnrhivBk8wRa7) | 2:51 | 2019-07-13 | 2019-08-31 |

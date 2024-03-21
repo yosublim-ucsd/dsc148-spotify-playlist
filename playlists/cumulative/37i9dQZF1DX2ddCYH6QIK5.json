@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "The best new music by independent artists and labels, updated every Wednesday. Cover: Ivery, Artwork: Isu Kim.\n",
+  "description": "The best new music by independent artists and labels, updated every Wednesday. Cover: BILLOTIN, Artwork: Isu Kim.\n",
   "name": "Fresh Finds GSA",
   "tracks": [
     {
@@ -2108,7 +2108,7 @@
       ],
       "date_added": "2024-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-21",
       "duration_ms": 130104,
       "name": "Bleib",
       "url": "https://open.spotify.com/track/4rkVwAB0x56ggtGOedzAIE"
@@ -2336,7 +2336,7 @@
       ],
       "date_added": "2023-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-21",
       "duration_ms": 267813,
       "name": "Blunts Rolled",
       "url": "https://open.spotify.com/track/3vm1jM6fXaWPXoNaLq8tH6"
@@ -2654,7 +2654,7 @@
       ],
       "date_added": "2023-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-21",
       "duration_ms": 209784,
       "name": "Breathe",
       "url": "https://open.spotify.com/track/05v0olACA2jHcfwLdeLo4k"
@@ -3102,6 +3102,24 @@
       "duration_ms": 205544,
       "name": "Chaleur",
       "url": "https://open.spotify.com/track/643wr9gOqXlFxFSUi2YKgk"
+    },
+    {
+      "album": {
+        "name": "Chamomile Tea",
+        "url": "https://open.spotify.com/album/53gsBULwZPiX2eRJSBXWgO"
+      },
+      "artists": [
+        {
+          "name": "Annie Bloch",
+          "url": "https://open.spotify.com/artist/22YsZ3Lp8VNBXySgxKVIXd"
+        }
+      ],
+      "date_added": "2024-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189448,
+      "name": "Chamomile Tea",
+      "url": "https://open.spotify.com/track/5fXuh8rmnw1xYajexsmvhV"
     },
     {
       "album": {
@@ -3618,6 +3636,24 @@
       "duration_ms": 272511,
       "name": "Creeper Deeper",
       "url": "https://open.spotify.com/track/3Nx8BjUdk3hRUSxVpKU8xY"
+    },
+    {
+      "album": {
+        "name": "Cruisen",
+        "url": "https://open.spotify.com/album/456CPopRAisSeK6XfI4fy0"
+      },
+      "artists": [
+        {
+          "name": "Felix Herbst",
+          "url": "https://open.spotify.com/artist/5FjvjkbSAOddYcOeOvZh2d"
+        }
+      ],
+      "date_added": "2024-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184000,
+      "name": "Cruisen",
+      "url": "https://open.spotify.com/track/75wcLZXc1mHsGcDABxuIFv"
     },
     {
       "album": {
@@ -4668,7 +4704,7 @@
       ],
       "date_added": "2023-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-21",
       "duration_ms": 175500,
       "name": "Dreiklang",
       "url": "https://open.spotify.com/track/5gJmyxlQ5lq1iToOTKDHyu"
@@ -5564,7 +5600,7 @@
       ],
       "date_added": "2023-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-21",
       "duration_ms": 229849,
       "name": "Ewig",
       "url": "https://open.spotify.com/track/5Pm3jG82QgY278W4OcScKi"
@@ -5629,6 +5665,24 @@
     },
     {
       "album": {
+        "name": "Extreme",
+        "url": "https://open.spotify.com/album/2wSL1vaLpGmD4Fl3EnQIPs"
+      },
+      "artists": [
+        {
+          "name": "Blake Harley",
+          "url": "https://open.spotify.com/artist/0QLKEJIWFE4TSLUUHskwwB"
+        }
+      ],
+      "date_added": "2024-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198171,
+      "name": "Extreme",
+      "url": "https://open.spotify.com/track/7IiyVCnv2pLgKB0RJPM3k4"
+    },
+    {
+      "album": {
         "name": "eye to eye",
         "url": "https://open.spotify.com/album/40OD1XXC6HSpcEJyDwZj5G"
       },
@@ -5658,7 +5712,7 @@
       ],
       "date_added": "2024-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-21",
       "duration_ms": 224640,
       "name": "F_ck Doch",
       "url": "https://open.spotify.com/track/6rVnm3qBxXvp5rhEyr2O8T"
@@ -6088,7 +6142,7 @@
       ],
       "date_added": "2024-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-21",
       "duration_ms": 218528,
       "name": "Flieder",
       "url": "https://open.spotify.com/track/5QvPSsFupS4T1Hp6CFOk6W"
@@ -6236,6 +6290,24 @@
       "duration_ms": 166750,
       "name": "For You",
       "url": "https://open.spotify.com/track/5L8h6Jh8e4fT1akcTTYKFP"
+    },
+    {
+      "album": {
+        "name": "Foto",
+        "url": "https://open.spotify.com/album/12iaD5P6uYb4FvwcNp6kQh"
+      },
+      "artists": [
+        {
+          "name": "emil.",
+          "url": "https://open.spotify.com/artist/75AKf1zT7pUvLnGYY1zmr9"
+        }
+      ],
+      "date_added": "2024-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114656,
+      "name": "Foto",
+      "url": "https://open.spotify.com/track/5VZrMq2PbEnByhDc3LJqoO"
     },
     {
       "album": {
@@ -11623,6 +11695,24 @@
     },
     {
       "album": {
+        "name": "Nackt",
+        "url": "https://open.spotify.com/album/4POvRBp81VkaFK6NzASPvI"
+      },
+      "artists": [
+        {
+          "name": "BILLOTIN",
+          "url": "https://open.spotify.com/artist/0PH6tPNzTIfP53d3mJH5bj"
+        }
+      ],
+      "date_added": "2024-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181261,
+      "name": "Nackt",
+      "url": "https://open.spotify.com/track/45maojumiVwkfhwzxoPj4M"
+    },
+    {
+      "album": {
         "name": "Nah sein",
         "url": "https://open.spotify.com/album/4m0ELbtIuypQ9Fod3GV8Zd"
       },
@@ -12166,6 +12256,24 @@
       "duration_ms": 325161,
       "name": "Nunc",
       "url": "https://open.spotify.com/track/3VXiFyqU64Vi1On5GQo5CG"
+    },
+    {
+      "album": {
+        "name": "Nur mein Herz",
+        "url": "https://open.spotify.com/album/0d8xSaYsKAVIJbBV5RInw0"
+      },
+      "artists": [
+        {
+          "name": "ALLESS.",
+          "url": "https://open.spotify.com/artist/0XfxzDkOJ7NkZG46mTsnxl"
+        }
+      ],
+      "date_added": "2024-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194770,
+      "name": "Nur mein Herz",
+      "url": "https://open.spotify.com/track/7aePXYBDPT6uwnlFLnw2TU"
     },
     {
       "album": {
@@ -12722,7 +12830,7 @@
       ],
       "date_added": "2024-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-21",
       "duration_ms": 157226,
       "name": "Over And Over Again",
       "url": "https://open.spotify.com/track/1r0KKV2i7fw7pkHNCMaews"
@@ -12762,6 +12870,46 @@
       "duration_ms": 233799,
       "name": "Pacemaker",
       "url": "https://open.spotify.com/track/4is1qAjhTeOD4bKV0aZ304"
+    },
+    {
+      "album": {
+        "name": "Panda Bianca",
+        "url": "https://open.spotify.com/album/2zRVXUaOoRbQkaBaeHf5F5"
+      },
+      "artists": [
+        {
+          "name": "Ostia",
+          "url": "https://open.spotify.com/artist/7kbtjkMOxWHN9FHSCO65xH"
+        },
+        {
+          "name": "Itaca",
+          "url": "https://open.spotify.com/artist/6O5sPQoYe0jRuQ8krLbYL3"
+        }
+      ],
+      "date_added": "2024-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237241,
+      "name": "Panda Bianca",
+      "url": "https://open.spotify.com/track/0SNjNyk1LesvSrbTmNdXV4"
+    },
+    {
+      "album": {
+        "name": "Dip In",
+        "url": "https://open.spotify.com/album/2KCI1jqUU2CqBjlfyFk78t"
+      },
+      "artists": [
+        {
+          "name": "Potato Beach",
+          "url": "https://open.spotify.com/artist/4lKJZchjK4Br82GwnsodLP"
+        }
+      ],
+      "date_added": "2024-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211149,
+      "name": "Pandora",
+      "url": "https://open.spotify.com/track/4M9MBDb4Ty4MTVleaZ5312"
     },
     {
       "album": {
@@ -14147,6 +14295,24 @@
     },
     {
       "album": {
+        "name": "Roter Panda",
+        "url": "https://open.spotify.com/album/7m98nn7oSdKbFUdKaflITi"
+      },
+      "artists": [
+        {
+          "name": "puni.",
+          "url": "https://open.spotify.com/artist/7HdTH40abg8Vzc6b1paN6a"
+        }
+      ],
+      "date_added": "2024-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141293,
+      "name": "Roter Panda",
+      "url": "https://open.spotify.com/track/5o0eyaSST2DOLTklv4wbi1"
+    },
+    {
+      "album": {
         "name": "Round Around",
         "url": "https://open.spotify.com/album/5zimKf9QPGPHWY6bpz4CDp"
       },
@@ -15222,7 +15388,7 @@
       ],
       "date_added": "2023-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-21",
       "duration_ms": 219162,
       "name": "so drunk",
       "url": "https://open.spotify.com/track/3AVrRviYQWsZW7j2tt4FsN"

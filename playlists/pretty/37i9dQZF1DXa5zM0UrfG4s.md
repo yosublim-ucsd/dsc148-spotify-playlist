@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa5zM0UrfG4s.md) - [plain]
 
 > bøgdebangers du kan spelle i kjerra!
 
-[Spotify](https://open.spotify.com/user/spotify) - 107,983 likes - 70 songs - 3 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 107,985 likes - 70 songs - 3 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa5zM0UrfG4s.md) - [plain]
 | 36 | [En Siste Gang](https://open.spotify.com/track/6tt3Na8Vjw1H2fCUcUivi5) | [Staysman & Lazz](https://open.spotify.com/artist/2dViR9WphpDpMB3oUiDblq), [Staysman](https://open.spotify.com/artist/5J10DHSs5nFktP4DNYncwj), [Plumbo](https://open.spotify.com/artist/6EokhXVfuwkt5542gzakJ9) | [Helt Sykt VOL2](https://open.spotify.com/album/6JsrkSrKeMMpnUpq5tTLtA) | 3:05 |
 | 37 | [Livet Er Herlig](https://open.spotify.com/track/1cb0J9fgwlnQtESfcRV0XJ) | [TIX](https://open.spotify.com/artist/6CawoDDP1IZUSGl4wSJGC9), [El Papi](https://open.spotify.com/artist/54CixfaGAPcjkP7Dx5PjvV) | [Livet Er Herlig](https://open.spotify.com/album/2TWTHZ6Qv0O9UqIqrTn8HG) | 2:23 |
 | 38 | [Levva Livet](https://open.spotify.com/track/56C8jz11WNH1PM677aq6ez) | [Åge Aleksandersen](https://open.spotify.com/artist/08H8B226x5IRKwbm8TD8bz) | [Levva Livet!](https://open.spotify.com/album/00m8339CymX4adXiATrT7e) | 4:34 |
-| 39 | [Hardanger](https://open.spotify.com/track/40ZhguqieJZ0AJTHKQY6Q4) | [Gunslingers](https://open.spotify.com/artist/22qynacaVX8ZxSwS2uTJkX) | [Hardanger](https://open.spotify.com/album/02ryizgagnxpEPbjcRuplt) | 3:56 |
-| 40 | [Lyst på dæ](https://open.spotify.com/track/0pAaQWTrmbKEVPL0mlB9Sx) | [Carina Dahl](https://open.spotify.com/artist/3nuhBdXXO0mnjugdrDxkmt) | [Lyst på dæ](https://open.spotify.com/album/04zK7xAmi8Mx3A2OVUtT3i) | 2:41 |
+| 39 | [Lyst på dæ](https://open.spotify.com/track/0pAaQWTrmbKEVPL0mlB9Sx) | [Carina Dahl](https://open.spotify.com/artist/3nuhBdXXO0mnjugdrDxkmt) | [Lyst på dæ](https://open.spotify.com/album/04zK7xAmi8Mx3A2OVUtT3i) | 2:41 |
+| 40 | [Hardanger](https://open.spotify.com/track/40ZhguqieJZ0AJTHKQY6Q4) | [Gunslingers](https://open.spotify.com/artist/22qynacaVX8ZxSwS2uTJkX) | [Hardanger](https://open.spotify.com/album/02ryizgagnxpEPbjcRuplt) | 3:56 |
 | 41 | [Ei runde til](https://open.spotify.com/track/0xjKyw8MYQY33BlY9bvqCS) | [Rotlaus](https://open.spotify.com/artist/4ivFOCSoFSwxPXQawDqylT) | [På vei](https://open.spotify.com/album/3hMvFCykxO3CCOlk0stETD) | 3:56 |
 | 42 | [Hytta Mi](https://open.spotify.com/track/6gyGtshjMiOrtqXJp553FZ) | [Staysman](https://open.spotify.com/artist/5J10DHSs5nFktP4DNYncwj), [Halva Priset](https://open.spotify.com/artist/05XcYmdt6oIP0URKWYnyWk) | [Norge rundt med Staysman](https://open.spotify.com/album/6sqoMds60LzzOc39td4hA3) | 2:18 |
 | 43 | [Eventyr](https://open.spotify.com/track/2Fo7dvlTHm2wRVeddiY5vV) | [JONE](https://open.spotify.com/artist/6w3Rnp6LwJ0BdWgHBiMlqN), [Daskeladden](https://open.spotify.com/artist/0rTmZkZxtp2Kzsh3yRjTZb) | [Eventyr](https://open.spotify.com/album/3k1qxu2Poumv9vMlu3toNt) | 2:27 |
@@ -68,8 +68,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa5zM0UrfG4s.md) - [plain]
 | 58 | [Kainn Æ Få Lov](https://open.spotify.com/track/5lBh7KByI6qrCk0u8whPyB) | [Too Far Gone](https://open.spotify.com/artist/6lrVaoOsYaOwqsG0whjurP) | [Bæst I Test](https://open.spotify.com/album/3uk4DtG5e9pMRXodwV3pxk) | 2:52 |
 | 59 | [Vårrull](https://open.spotify.com/track/4tE2ySKkRFJtT36q5ie1fv) | [Halva Priset](https://open.spotify.com/artist/05XcYmdt6oIP0URKWYnyWk) | [Vårrull](https://open.spotify.com/album/3weP2oF0T3NhFCDJqXGIbx) | 2:17 |
 | 60 | [29 tonn](https://open.spotify.com/track/1pSEXjBnrgZiHHs45k6pEI) | [Plumbo](https://open.spotify.com/artist/6EokhXVfuwkt5542gzakJ9) | [29 tonn](https://open.spotify.com/album/5xURrIcRE2TPM5BNmNoYcv) | 3:18 |
-| 61 | [Siste Kveld](https://open.spotify.com/track/3qLNHejkuopLaI0HaLl081) | [Sandra Lyng](https://open.spotify.com/artist/6OS2jyNVjuVsvA63jsw3Rf), [Staysman](https://open.spotify.com/artist/5J10DHSs5nFktP4DNYncwj) | [Siste Kveld](https://open.spotify.com/album/57e4YYv5JDQULceiS7x0my) | 2:39 |
-| 62 | [Livet på bøgda](https://open.spotify.com/track/5W1Aap840SZeiSyU2rK912) | [JONE](https://open.spotify.com/artist/6w3Rnp6LwJ0BdWgHBiMlqN), [Daskeladden](https://open.spotify.com/artist/0rTmZkZxtp2Kzsh3yRjTZb) | [Livet på bøgda](https://open.spotify.com/album/0ZOlf5ki6keYctTeoxR5tv) | 2:33 |
+| 61 | [Livet på bøgda](https://open.spotify.com/track/5W1Aap840SZeiSyU2rK912) | [JONE](https://open.spotify.com/artist/6w3Rnp6LwJ0BdWgHBiMlqN), [Daskeladden](https://open.spotify.com/artist/0rTmZkZxtp2Kzsh3yRjTZb) | [Livet på bøgda](https://open.spotify.com/album/0ZOlf5ki6keYctTeoxR5tv) | 2:33 |
+| 62 | [Siste Kveld](https://open.spotify.com/track/3qLNHejkuopLaI0HaLl081) | [Sandra Lyng](https://open.spotify.com/artist/6OS2jyNVjuVsvA63jsw3Rf), [Staysman](https://open.spotify.com/artist/5J10DHSs5nFktP4DNYncwj) | [Siste Kveld](https://open.spotify.com/album/57e4YYv5JDQULceiS7x0my) | 2:39 |
 | 63 | [Är det kärlek du behöver \- N!NE EPA Bass Boosted Remix](https://open.spotify.com/track/45MJ4bysE50sOo2AXrk3tj) | [Lasse Stefanz](https://open.spotify.com/artist/0ntVZReCfBFQctUiiaTaeu), [N!NE](https://open.spotify.com/artist/0RF3teBjUzbf1SDpnuR8Ro) | [Är det kärlek du behöver \(EPA Remixes\)](https://open.spotify.com/album/1iIvpW6StpS5bwdYl5hbjp) | 2:53 |
 | 64 | [Fjellrypa](https://open.spotify.com/track/6QuPjdfyg00PzmuyHu3NHd) | [Sie Gubba](https://open.spotify.com/artist/7ftlSYcmPae1pZ0q7eaGo6) | [Sånn e livet \- Live 10 år](https://open.spotify.com/album/5ddmdS7xuwOgpsD8FiJHB6) | 4:26 |
 | 65 | [Flammer og Bensin](https://open.spotify.com/track/6OxAgEwnw2mWW2e3HS7Mkz) | [Plumbo](https://open.spotify.com/artist/6EokhXVfuwkt5542gzakJ9) | [Flammer og Bensin](https://open.spotify.com/album/4gv90AccBv0Awh2ARD1WpK) | 3:32 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa5zM0UrfG4s.md) - [plain]
 | 69 | [Der Jeg Hører Te \(Bygda\)](https://open.spotify.com/track/3ZtqqLjlfr5GOPxezSaFwX) | [Ole Hartz](https://open.spotify.com/artist/7J8OsnJjGfG1uHd348LZPI) | [Der Jeg Hører Te \(Bygda\)](https://open.spotify.com/album/6tqJgkJ5ap9ooOxd0TsTW3) | 2:17 |
 | 70 | [Jeg fortjener en øl](https://open.spotify.com/track/12MOqhpW8IsWO5xiCqjJdU) | [Erik Og Kriss](https://open.spotify.com/artist/2rCu8D8ST7i3lUILyB3yQR), [Staysman](https://open.spotify.com/artist/5J10DHSs5nFktP4DNYncwj) | [Jeg fortjener en øl](https://open.spotify.com/album/45biKF9vMhEpCJxrBROwjG) | 2:32 |
 
-Snapshot ID: `MCw2NmI5MTYzOWExMGQ0YzgxN2MyOTRhNjc4ZWIyYjkzNGI2NjUxY2I3`
+Snapshot ID: `MCw3MDBiMmFhODE2YjM2NTg1OWM5ZGNhNjVkMzNjMDJjMjgyNzIwYTNk`

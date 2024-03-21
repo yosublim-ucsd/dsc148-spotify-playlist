@@ -4,7 +4,7 @@
 
 > Good vibes for good times!
 
-143 songs - 8 hr 44 min
+144 songs - 8 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -123,7 +123,8 @@
 | [Show Me](https://open.spotify.com/track/0ERGzuyTquZmQwOmeZLZpr) | [Nesian N.I.N.E.](https://open.spotify.com/artist/7DUqqw1aXnOYoiB7ebj4ra) | [Press Play](https://open.spotify.com/album/2EOopSh7XEMhVLrUlwHv6I) | 4:22 | 2021-08-24 |  |
 | [SLOW DOWN](https://open.spotify.com/track/5nL0ef2YGMhGgG97LGkTj6) | [SUB\-TRIBE](https://open.spotify.com/artist/4NRBNfnAtQXxVxevBvlXe2) | [SLOW DOWN](https://open.spotify.com/album/16BvudaA1gjBFeVl7HxYvp) | 4:14 | 2024-01-17 |  |
 | [Smokin' Love \(with Collie Buddz\)](https://open.spotify.com/track/3D7cUXDEKLAFsoD10QRoiR) | [Stick Figure](https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R), [Collie Buddz](https://open.spotify.com/artist/5Ayl2bJtN5mdCsxZoxs9n1) | [Set in Stone](https://open.spotify.com/album/28S63tpbApp3AhWZZYN6l9) | 3:34 | 2021-08-24 |  |
-| [Soldiers of Fire](https://open.spotify.com/track/5nF92ePaTss9lGEzZhhiYb) | [Tiki Taane](https://open.spotify.com/artist/31ACkQCBFwLQGxN8MwfSrO), [Tali](https://open.spotify.com/artist/2IzewUY71zuiCmfPZWahxv), [Pdigsss](https://open.spotify.com/artist/596zbRjlzKiJ71goKlAJ01), [Dub FX](https://open.spotify.com/artist/4ucW1LE5T7y7X4jlaKCeVo) | [Soldiers of Fire](https://open.spotify.com/album/2XoWy9j7qBcw9SwLDsHAEd) | 4:45 | 2023-11-23 |  |
+| [Soldiers of Fire](https://open.spotify.com/track/5nF92ePaTss9lGEzZhhiYb) | [Tiki Taane](https://open.spotify.com/artist/31ACkQCBFwLQGxN8MwfSrO), [Tali](https://open.spotify.com/artist/2IzewUY71zuiCmfPZWahxv), [Pdigsss](https://open.spotify.com/artist/596zbRjlzKiJ71goKlAJ01), [Dub FX](https://open.spotify.com/artist/4ucW1LE5T7y7X4jlaKCeVo) | [Soldiers of Fire](https://open.spotify.com/album/2XoWy9j7qBcw9SwLDsHAEd) | 4:45 | 2023-11-23 | 2024-03-21 |
+| [Soldiers of Fire](https://open.spotify.com/track/7lkmiT9V30w6O5AjrmqyFA) | [Tiki Taane](https://open.spotify.com/artist/31ACkQCBFwLQGxN8MwfSrO), [Tali](https://open.spotify.com/artist/2IzewUY71zuiCmfPZWahxv), [Pdigsss](https://open.spotify.com/artist/596zbRjlzKiJ71goKlAJ01), [Dub FX](https://open.spotify.com/artist/4ucW1LE5T7y7X4jlaKCeVo) | [Soldiers of Fire](https://open.spotify.com/album/2RQkTKEuDT0IAAr7QIXtf3) | 4:45 | 2024-02-08 |  |
 | [Something To Believe In](https://open.spotify.com/track/0UHYr05v9I6rljiBfeZP1F) | [SOJA](https://open.spotify.com/artist/2vaWvC8suCFkRXejDOK7EE), [Stick Figure](https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R) | [Something To Believe In](https://open.spotify.com/album/0vZ52duMCADKJjjOPCA0QO) | 3:28 | 2022-08-07 | 2022-11-13 |
 | [Something To Believe In](https://open.spotify.com/track/2s3tLDYxfvr7Uy9JWcbHNX) | [SOJA](https://open.spotify.com/artist/2vaWvC8suCFkRXejDOK7EE), [Stick Figure](https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R) | [Something To Believe In](https://open.spotify.com/album/67sulKuGrHcgUHLY2OIG8y) | 3:28 | 2021-08-24 | 2022-07-29 |
 | [Something To Believe In](https://open.spotify.com/track/7K7qeICBpEwhkdJUcy6pMh) | [SOJA](https://open.spotify.com/artist/2vaWvC8suCFkRXejDOK7EE), [Stick Figure](https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R) | [Beauty In The Silence](https://open.spotify.com/album/2DD5DNaMlATeJozoi2aWI9) | 3:29 | 2022-06-09 | 2023-07-16 |

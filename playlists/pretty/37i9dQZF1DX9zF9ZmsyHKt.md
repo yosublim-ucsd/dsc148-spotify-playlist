@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9zF9ZmsyHKt.md) - [plain]
 
 > Grandes vozes da música brasileira de hoje e de ontem reunidas em uma única playlist\. Foto: Gal Costa
 
-[Spotify](https://open.spotify.com/user/spotify) - 330,085 likes - 100 songs - 5 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 330,126 likes - 100 songs - 5 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,8 +17,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9zF9ZmsyHKt.md) - [plain]
 | 7 | [BRABA](https://open.spotify.com/track/2WlZuBDgLfT7Kc0admhFdg) | [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d) | [BRABA](https://open.spotify.com/album/3FVlwNpia9WZoRlsRKS4Z4) | 2:09 |
 | 8 | [Medo Bobo \- Ao Vivo](https://open.spotify.com/track/2CW04trIoYMbroZWDzPAjs) | [Maiara & Maraisa](https://open.spotify.com/artist/59jlthNnbmim5l9tmNA7se) | [Ao Vivo Em Goiânia](https://open.spotify.com/album/61KUhWve8zR7CreNCWZcha) | 2:54 |
 | 9 | [Ai, Amor](https://open.spotify.com/track/3bR8wBqLky6b61ROJlaBEF) | [ANAVITÓRIA](https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe) | [O Tempo É Agora](https://open.spotify.com/album/0yiQu0POzXcfjEB6qBuhtj) | 3:40 |
-| 10 | [Viva Voz \- Ao Vivo Em São Paulo / 2019](https://open.spotify.com/track/1jomN1tLiPE5eGd9siFJYE) | [Lauana Prado](https://open.spotify.com/artist/6TYimByryGphZCtwYopH0y) | [Livre \(Ao Vivo / Deluxe\)](https://open.spotify.com/album/5XzBQMo9WMrpRlgoBaeTIf) | 2:44 |
-| 11 | [Ainda Bem](https://open.spotify.com/track/43BCxznTSBLcXzu4lJ8KW5) | [Marisa Monte](https://open.spotify.com/artist/0rSTXALHu0EKAawPLBdODH) | [O Que Você Quer Saber de Verdade](https://open.spotify.com/album/0NW6Z4aNFiaj2pN83d1fyg) | 3:35 |
+| 10 | [Ainda Bem](https://open.spotify.com/track/43BCxznTSBLcXzu4lJ8KW5) | [Marisa Monte](https://open.spotify.com/artist/0rSTXALHu0EKAawPLBdODH) | [O Que Você Quer Saber de Verdade](https://open.spotify.com/album/0NW6Z4aNFiaj2pN83d1fyg) | 3:35 |
+| 11 | [Viva Voz \- Ao Vivo Em São Paulo / 2019](https://open.spotify.com/track/1jomN1tLiPE5eGd9siFJYE) | [Lauana Prado](https://open.spotify.com/artist/6TYimByryGphZCtwYopH0y) | [Livre \(Ao Vivo / Deluxe\)](https://open.spotify.com/album/5XzBQMo9WMrpRlgoBaeTIf) | 2:44 |
 | 12 | [Mania De Você](https://open.spotify.com/track/6owwZC8gUvrBuygvOHaYXb) | [Rita Lee](https://open.spotify.com/artist/7dnT2FUXhjirperXaH22IJ), [Roberto De Carvalho](https://open.spotify.com/artist/4w4ll81d0dR8gz989jjko1) | [Rita Lee](https://open.spotify.com/album/1WN3eZOVfULIjZfxdsfoMO) | 4:55 |
 | 13 | [Minha Felicidade](https://open.spotify.com/track/6vARbzVXg90V8fYmgks5u3) | [Roberta Campos](https://open.spotify.com/artist/5CC2At3k0Xnyc5s9yHdyax) | [Todo Caminho É Sorte \(álbum Comentado\)](https://open.spotify.com/album/1M3RZvnxDHr86aXG0eXIZS) | 3:49 |
 | 14 | [Regime Fechado \- Ao Vivo](https://open.spotify.com/track/3laDGpbCmdrGOhjrcYIBYB) | [Simone & Simaria](https://open.spotify.com/artist/0MInKJqZscEeNc5K3K0mkE) | [Simone & Simaria \(Ao Vivo\)](https://open.spotify.com/album/3bPPe3v10wYVuUw10f8uUM) | 3:52 |
@@ -54,13 +54,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9zF9ZmsyHKt.md) - [plain]
 | 44 | [Te Faço um Cafuné](https://open.spotify.com/track/2PxakiZUhHmFdp5G3sBiXD) | [Mariana Aydar](https://open.spotify.com/artist/3rE82NMVBb5C5tQ83o8u8N) | [Te Faço um Cafuné](https://open.spotify.com/album/1k35AKHHe1G9pnmIRsAJf0) | 3:47 |
 | 45 | [X](https://open.spotify.com/track/0yxu73Lfmnu96II1VxvpfQ) | [Ana Gabriela](https://open.spotify.com/artist/6a9WLQ5NsIV7U2qB16uFWD) | [Ana](https://open.spotify.com/album/03EODNJC2L3f9Yq6QrgEJX) | 3:46 |
 | 46 | [Olhos Coloridos](https://open.spotify.com/track/45XopGhwYSgooiewaZNsSd) | [Sandra De Sá](https://open.spotify.com/artist/5Rxz1EE4Jj08mu40vlrqHv) | [Sandra de Sá \- 1982](https://open.spotify.com/album/7wB73SnTyYvV1PV0XNP9ol) | 4:27 |
-| 47 | [Frevo Mulher](https://open.spotify.com/track/1ePuI28sGPx7ROzKZBRbqS) | [Amelinha](https://open.spotify.com/artist/5hzHutt6DLPzctqvnS6Fdv) | [Frevo Mulher](https://open.spotify.com/album/48nwSoJS9YsQ1f8OotMNUg) | 4:01 |
-| 48 | [As Mais Braba](https://open.spotify.com/track/6GxrQBMEu0q9HsAH21uFCJ) | [Tasha & Tracie](https://open.spotify.com/artist/5Gv1C1LY8pWiYcfcdjSNMT), [Ashira](https://open.spotify.com/artist/3bwb5u6i1DM7nDxnBSDDCa) | [Rouff](https://open.spotify.com/album/3WCqEEZX2B01fJh6MUQxvQ) | 4:40 |
+| 47 | [As Mais Braba](https://open.spotify.com/track/6GxrQBMEu0q9HsAH21uFCJ) | [Tasha & Tracie](https://open.spotify.com/artist/5Gv1C1LY8pWiYcfcdjSNMT), [Ashira](https://open.spotify.com/artist/3bwb5u6i1DM7nDxnBSDDCa) | [Rouff](https://open.spotify.com/album/3WCqEEZX2B01fJh6MUQxvQ) | 4:40 |
+| 48 | [Frevo Mulher](https://open.spotify.com/track/1ePuI28sGPx7ROzKZBRbqS) | [Amelinha](https://open.spotify.com/artist/5hzHutt6DLPzctqvnS6Fdv) | [Frevo Mulher](https://open.spotify.com/album/48nwSoJS9YsQ1f8OotMNUg) | 4:01 |
 | 49 | [Céu Azul](https://open.spotify.com/track/4VRGyVtzKZWEIw87TSoinl) | [Paula Toller](https://open.spotify.com/artist/5BQveHScm6btG6jfbxwyfs) | [Céu Azul](https://open.spotify.com/album/4d8qHcNLN7LUC6dogWwKvD) | 3:24 |
 | 50 | [Bom Mesmo É Estar Debaixo D'Água](https://open.spotify.com/track/5nBrdTO6k3DJZJdB6IRp1c) | [Luedji Luna](https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc) | [Bom Mesmo É Estar Debaixo D'Água](https://open.spotify.com/album/72RsVQVhqVjyBfsTCThFpq) | 4:31 |
 | 51 | [Sorriso Aberto](https://open.spotify.com/track/01XyRFxUKPLVOWglamSV2K) | [Jovelina Perola Negra](https://open.spotify.com/artist/7AicXtLi5qHsZLArE6V9EP) | [Sorriso Aberto](https://open.spotify.com/album/46XHYYtuUy3EjtJLSWcgwc) | 4:36 |
-| 52 | [Primeira Vez](https://open.spotify.com/track/1AlHn9GTOYVrY21RaHGyDG) | [Clau](https://open.spotify.com/artist/13A9x5VINTOaVnYxK4rbNQ) | [Primeira Vez](https://open.spotify.com/album/3TwEiVQN9lxBZ98rCdnpt6) | 3:13 |
-| 53 | [Eu](https://open.spotify.com/track/5SChoGCJUCjTdIi8JM28zf) | [Mariana Froes](https://open.spotify.com/artist/60oAQJsBmykZP3GwjbSL6S) | [Eu](https://open.spotify.com/album/3GPW2lcCmRQSz0IFTDF1WH) | 5:01 |
+| 52 | [Eu](https://open.spotify.com/track/5SChoGCJUCjTdIi8JM28zf) | [Mariana Froes](https://open.spotify.com/artist/60oAQJsBmykZP3GwjbSL6S) | [Eu](https://open.spotify.com/album/3GPW2lcCmRQSz0IFTDF1WH) | 5:01 |
+| 53 | [Primeira Vez](https://open.spotify.com/track/1AlHn9GTOYVrY21RaHGyDG) | [Clau](https://open.spotify.com/artist/13A9x5VINTOaVnYxK4rbNQ) | [Primeira Vez](https://open.spotify.com/album/3TwEiVQN9lxBZ98rCdnpt6) | 3:13 |
 | 54 | [JBL](https://open.spotify.com/track/6THoM5F4gvHguHHyLfxGjU) | [Solange Almeida](https://open.spotify.com/artist/3Hew3AuvrbKxCbehT4Rorq), [Márcia Fellipe](https://open.spotify.com/artist/3OxZ4asD88P1lJJmLcXz4K) | [Sol e Mar, Vol\. 2](https://open.spotify.com/album/6IufTTOJqfnjPv9JURerlY) | 3:13 |
 | 55 | [Só o Amor](https://open.spotify.com/track/3lXeWqRVz2NctBJL5kW00Z) | [Preta Gil](https://open.spotify.com/artist/1i2xi8v7H0aXgMNZcOaYzB), [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw) | [Só o Amor](https://open.spotify.com/album/2gZUcyRw3gKqRGuFdY2deZ) | 2:58 |
 | 56 | [E Nós Tem um Charme Que É da Hora](https://open.spotify.com/track/4koUrXFuoId1b6wrMF3laS) | [Mc Dricka](https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q), [Novo Império](https://open.spotify.com/artist/5AWdsNtZ3cFCrvGQovuPzu) | [E Nós Tem um Charme Que É da Hora](https://open.spotify.com/album/3G1gxfsqkeaQmsf0eSp9jy) | 3:17 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9zF9ZmsyHKt.md) - [plain]
 | 99 | [Menina, Amanhã de Manhã](https://open.spotify.com/track/264Jze0mvGjOzxNG8fLEuO) | [Mônica Salmaso](https://open.spotify.com/artist/6m9OlwfRBWVyiazPouhBGx) | [Iaiá](https://open.spotify.com/album/0AsxslSEmzuqJhZPT1DVGA) | 5:29 |
 | 100 | [Delírio](https://open.spotify.com/track/6xljIkWM1sM84RPw4coZWZ) | [Roberta Sá](https://open.spotify.com/artist/4vKCAkbdulcqatglgbi5CG) | [Delírio](https://open.spotify.com/album/6xOlwAGA7rxAzBfOzkWLhU) | 2:54 |
 
-Snapshot ID: `MCw3YWFmMzFiM2EyODRiMTU3YWE3ZGVkMjkzZGU4NmZjZWJmZDlkODM0`
+Snapshot ID: `MCw0ZDU1ZmQ5NDcwY2JlYzkzMjA5YzMyNTZkZGU3N2U3NjgwNDVhMjlh`

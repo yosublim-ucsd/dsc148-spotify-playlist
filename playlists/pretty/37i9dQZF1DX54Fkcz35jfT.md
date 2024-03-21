@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX54Fkcz35jfT.md) - [plain]
 
 > 国内外の様々なシーンと共鳴する日本のラウド・ロックを特集。Cover: F.HERO x BODYSLAM x BABYMETAL
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,960 likes - 100 songs - 5 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 44,049 likes - 100 songs - 5 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,13 +34,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX54Fkcz35jfT.md) - [plain]
 | 24 | [ジターバグ](https://open.spotify.com/track/78ooUd8wbjp22IzEPGxlRg) | [ELLEGARDEN](https://open.spotify.com/artist/3cbd5GWGOknxmFAe77MDbk) | [BRING YOUR BOARD!!](https://open.spotify.com/album/2WdPiPEVjeDLeOr5sMpT4k) | 3:19 |
 | 25 | [Cure](https://open.spotify.com/track/4WP75fmmfAP4lPEC6eCFJB) | [waterweed](https://open.spotify.com/artist/3xo2d6Mjw5Gkb14HFOwFkQ) | [Cure](https://open.spotify.com/album/1HwSii3IuxWnn2X3TgEPYg) | 2:50 |
 | 26 | [STARS](https://open.spotify.com/track/0mMikRupn84z6woeMHccz1) | [w.o.d.](https://open.spotify.com/artist/06sqnZl2EzpyIamhM1u3eO) | [STARS](https://open.spotify.com/album/758HaOSUUneTb9qVyurf3x) | 3:33 |
-| 27 | [swim](https://open.spotify.com/track/4fT8isC75wJe9CCsJdnNdI) | [04 Limited Sazabys](https://open.spotify.com/artist/6Gem5Nh6gd9PCtWdzR7Odh) | [CAVU](https://open.spotify.com/album/5ZGyjBoHMJb8M2diIt9af8) | 3:27 |
-| 28 | [STAY GOLD](https://open.spotify.com/track/6Q9bwEB5lN6m1DGkqz9XP6) | [Hi\-STANDARD](https://open.spotify.com/artist/5bqCpmhZzNzRzzKSbbDkeH) | [MAKING THE ROAD](https://open.spotify.com/album/7GNdH1UwNo78P5gtB4ZJvD) | 2:00 |
+| 27 | [STAY GOLD](https://open.spotify.com/track/6Q9bwEB5lN6m1DGkqz9XP6) | [Hi\-STANDARD](https://open.spotify.com/artist/5bqCpmhZzNzRzzKSbbDkeH) | [MAKING THE ROAD](https://open.spotify.com/album/7GNdH1UwNo78P5gtB4ZJvD) | 2:00 |
+| 28 | [swim](https://open.spotify.com/track/4fT8isC75wJe9CCsJdnNdI) | [04 Limited Sazabys](https://open.spotify.com/artist/6Gem5Nh6gd9PCtWdzR7Odh) | [CAVU](https://open.spotify.com/album/5ZGyjBoHMJb8M2diIt9af8) | 3:27 |
 | 29 | [Missing You](https://open.spotify.com/track/4MzdrjWuEShth6tyABlzYo) | [MY FIRST STORY](https://open.spotify.com/artist/6cutt8thPFUICMfxaYerWd) | [ANTITHESE](https://open.spotify.com/album/1brsSK66B0UZYqyLjvG9kK) | 4:20 |
 | 30 | [Kanzen kankaku Dreamer](https://open.spotify.com/track/1XT0cpl9g0GuRQJao2nqXd) | [ONE OK ROCK](https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO) | [Niche Syndrome](https://open.spotify.com/album/4OKBuE9F8MTCV7nnsBRcsK) | 4:12 |
-| 31 | [刃渡り2億センチ\(TV edit\)](https://open.spotify.com/track/2rTmZHTXWo9YfIRAxbdkpG) | [マキシマム ザ ホルモン 一部のアニメテーマ専用仮設チャンネル](https://open.spotify.com/artist/7ipRKwjoASGW04QLVsDg3g) | [刃渡り2億センチ\(TV edit\)](https://open.spotify.com/album/04tV0O6qn5cXheBUTHmeKv) | 1:29 |
+| 31 | [Monochrome](https://open.spotify.com/track/2Rw6wkd0q3LXx5xsdjLs1P) | [BABYMETAL](https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq) | [Monochrome](https://open.spotify.com/album/6IoOqdEHdwLgfUONXeYvoI) | 3:57 |
 | 32 | [Flower Bed](https://open.spotify.com/track/04qHub06DBGakVjjIYq5Bd) | [Some Life](https://open.spotify.com/artist/3cO9bp3Hqyrk2Icc9ONk0J) | [Flower Bed](https://open.spotify.com/album/5CTmcgYjdFdRR7tAhKLnCZ) | 3:34 |
-| 33 | [Monochrome](https://open.spotify.com/track/2Rw6wkd0q3LXx5xsdjLs1P) | [BABYMETAL](https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq) | [Monochrome](https://open.spotify.com/album/6IoOqdEHdwLgfUONXeYvoI) | 3:57 |
+| 33 | [刃渡り2億センチ\(TV edit\)](https://open.spotify.com/track/2rTmZHTXWo9YfIRAxbdkpG) | [マキシマム ザ ホルモン 一部のアニメテーマ専用仮設チャンネル](https://open.spotify.com/artist/7ipRKwjoASGW04QLVsDg3g) | [刃渡り2億センチ\(TV edit\)](https://open.spotify.com/album/04tV0O6qn5cXheBUTHmeKv) | 1:29 |
 | 34 | [東京ミッドナイト](https://open.spotify.com/track/6yOsud5tOWwu4Hj43cW7Vc) | [MY FIRST STORY](https://open.spotify.com/artist/6cutt8thPFUICMfxaYerWd) | [東京ミッドナイト](https://open.spotify.com/album/30LuOfT2yzjCCL8LNFrUUr) | 3:46 |
 | 35 | [風の日](https://open.spotify.com/track/0ui9eFDmG2V9vW794v8CEp) | [ELLEGARDEN](https://open.spotify.com/artist/3cbd5GWGOknxmFAe77MDbk) | [ELLEGARDEN BEST 1999\-2008](https://open.spotify.com/album/1UnNvMfNPmPQlsedObGRIK) | 4:12 |
 | 36 | [Vandalize](https://open.spotify.com/track/0zmOnwMT92MMZxfE04TbKt) | [ONE OK ROCK](https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO) | [Luxury Disease](https://open.spotify.com/album/7bR908SDBENoC7rqC0k4h4) | 3:14 |
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX54Fkcz35jfT.md) - [plain]
 | 39 | [SONGS](https://open.spotify.com/track/0l93cYkJLTiSgHSBGful5p) | [Age Factory](https://open.spotify.com/artist/7pgRyTH4nTH4KoruoGuAQo) | [Songs](https://open.spotify.com/album/5KCNofx4mr0Blk7WXGiPXU) | 2:47 |
 | 40 | [The Autumn Song](https://open.spotify.com/track/6UzbqphdFT8m90bUJVtJHY) | [ELLEGARDEN](https://open.spotify.com/artist/3cbd5GWGOknxmFAe77MDbk) | [Missing](https://open.spotify.com/album/6mGi2j1maFymgzAoiiQVoY) | 3:01 |
 | 41 | [曖昧](https://open.spotify.com/track/46LzUNQbhoNBTcBNp0dtsH) | [WANIMA](https://open.spotify.com/artist/6YqdtpUutxodni6lUD4stM) | [曖昧](https://open.spotify.com/album/3BRmcqCvRvH8QVFfiAU5bY) | 3:42 |
-| 42 | [Say My Name](https://open.spotify.com/track/1tCiCPvZYVdR5rIxokcqbj) | [HEY\-SMITH](https://open.spotify.com/artist/180SgP7FcRAhmrgwuNTvhL) | [Rest in Punk](https://open.spotify.com/album/4FhRess5TiGML7doG1wP2e) | 1:48 |
-| 43 | [NEW DAWN](https://open.spotify.com/track/71H3UvIlZRSifs0LNF2HKG) | [coldrain](https://open.spotify.com/artist/4pCVGaLWxDe4d8bsjsnmUM) | [NEW DAWN](https://open.spotify.com/album/4IT98wMgoHu9O2Jx1EZIZ8) | 3:32 |
+| 42 | [NEW DAWN](https://open.spotify.com/track/71H3UvIlZRSifs0LNF2HKG) | [coldrain](https://open.spotify.com/artist/4pCVGaLWxDe4d8bsjsnmUM) | [NEW DAWN](https://open.spotify.com/album/4IT98wMgoHu9O2Jx1EZIZ8) | 3:32 |
+| 43 | [Say My Name](https://open.spotify.com/track/1tCiCPvZYVdR5rIxokcqbj) | [HEY\-SMITH](https://open.spotify.com/artist/180SgP7FcRAhmrgwuNTvhL) | [Rest in Punk](https://open.spotify.com/album/4FhRess5TiGML7doG1wP2e) | 1:48 |
 | 44 | [厄災](https://open.spotify.com/track/0IAJ4414Gaan0R3Eq6dtBm) | [Knosis](https://open.spotify.com/artist/5o1BN92ZEG8TucPzj6czCh) | [THE ETERNAL DOOM](https://open.spotify.com/album/35kPTUOLmfdvLb7IyrTInP) | 3:00 |
 | 45 | [ハローフィクサー](https://open.spotify.com/track/5Dv0DjR4PlyGgUZhnBEpkh) | [10\-FEET](https://open.spotify.com/artist/0QZqdhoRQkn1VphAa5eX8h) | [10\-FEET入り口の10曲 2](https://open.spotify.com/album/3aTZAzTcYFO4fl35mqwdLw) | 3:23 |
 | 46 | [狐独の才望](https://open.spotify.com/track/5mFKFCT5LXuxTLcrcpoCvp) | [Ling tosite sigure](https://open.spotify.com/artist/00DuPiLri3mNomvvM3nZvU) | [狐独の才望](https://open.spotify.com/album/2w7en8SKXZXiZRVXmGZQG5) | 3:32 |
@@ -80,8 +80,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX54Fkcz35jfT.md) - [plain]
 | 70 | [Mountain Top](https://open.spotify.com/track/2VZsN0yEEVmEsohRi56wEm) | [ELLEGARDEN](https://open.spotify.com/artist/3cbd5GWGOknxmFAe77MDbk) | [Mountain Top](https://open.spotify.com/album/02S7xatuIOTEWNgLAfKh34) | 4:06 |
 | 71 | [6or9](https://open.spotify.com/track/5b2AjbOnzdOEQvbap9ZQdF) | [HYDE](https://open.spotify.com/artist/0ZXSQd2JNOfwJcLNbX0jpN) | [6or9](https://open.spotify.com/album/37YSueAOHDxEEDW2SKmmBW) | 3:35 |
 | 72 | [A Little Bit Of Your Love](https://open.spotify.com/track/45i63OHmiclVbkmM3piK3B) | [Ken Yokoyama](https://open.spotify.com/artist/4pPZ7nNH108ax8A1sjxfpX) | [Indian Burn](https://open.spotify.com/album/0IChffToKdKcuJTlz5H7AI) | 3:15 |
-| 73 | [me, myself & I.](https://open.spotify.com/track/5GgcrApeRYdvBxupHHhoUP) | [CVLTE](https://open.spotify.com/artist/3IVZ4DbJgnhOtXQruNdomA) | [me, myself & I.](https://open.spotify.com/album/7APsZI60jzYxEdmEWc0Cdj) | 3:08 |
-| 74 | [Drain Water](https://open.spotify.com/track/0zSJONiunE3g3fGjq7W4kv) | [SHANK](https://open.spotify.com/artist/7xx0gYr6iMecpDbSynNzWF) | [STEADY](https://open.spotify.com/album/6a3SLIQtIoOTAUSRXRGq8w) | 2:11 |
+| 73 | [Drain Water](https://open.spotify.com/track/0zSJONiunE3g3fGjq7W4kv) | [SHANK](https://open.spotify.com/artist/7xx0gYr6iMecpDbSynNzWF) | [STEADY](https://open.spotify.com/album/6a3SLIQtIoOTAUSRXRGq8w) | 2:11 |
+| 74 | [me, myself & I.](https://open.spotify.com/track/5GgcrApeRYdvBxupHHhoUP) | [CVLTE](https://open.spotify.com/artist/3IVZ4DbJgnhOtXQruNdomA) | [me, myself & I.](https://open.spotify.com/album/7APsZI60jzYxEdmEWc0Cdj) | 3:08 |
 | 75 | [RISE](https://open.spotify.com/track/7IOWVbArUAldsxLamaQt8R) | [NEMOPHILA](https://open.spotify.com/artist/1ijXMkMWUj8mJrW2SnIvpp) | [RISE](https://open.spotify.com/album/6aigT9ZhKsG8bBVEx75JzH) | 3:21 |
 | 76 | [小さな恋のうた](https://open.spotify.com/track/39JQojOZro8C3Kt8Mhj42X) | [WANIMA](https://open.spotify.com/artist/6YqdtpUutxodni6lUD4stM) | [800TRIBUTE\-champloo is the BEST!!2\-](https://open.spotify.com/album/5jKI97DMyoiLeKEN4VSMOD) | 4:20 |
 | 77 | [NAME](https://open.spotify.com/track/38b2nMKtd1qiVBkULMQti2) | [NOISEMAKER](https://open.spotify.com/artist/02usiGXga5g4aQteRySLXQ) | [RARA](https://open.spotify.com/album/6vV4OJGtCjvJD6OdaoCQ9c) | 3:55 |
@@ -104,9 +104,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX54Fkcz35jfT.md) - [plain]
 | 94 | [of course](https://open.spotify.com/track/2FFf4WFv4oj0R8yenXXaNF) | [Mr.FanTastiC](https://open.spotify.com/artist/42Z74v9b8xkEsOe6zkhsdA) | [of course](https://open.spotify.com/album/68hagxENiIaUNAprO75WGC) | 2:55 |
 | 95 | [扉の向こう](https://open.spotify.com/track/5EMnOE5ZsMDWl6eQRCj2zY) | [WANIMA](https://open.spotify.com/artist/6YqdtpUutxodni6lUD4stM) | [Catch Up](https://open.spotify.com/album/7xmycezoMiRbUKwZ50B3CH) | 3:56 |
 | 96 | [Sad Song](https://open.spotify.com/track/5exqWbhEoSxjx8S6YgVGF1) | [SiM](https://open.spotify.com/artist/2BM933ADIluGGrPBOhPgIt) | [PLAYDEAD](https://open.spotify.com/album/2KyzFbwIJu1JBkcZsdXbl0) | 3:23 |
-| 97 | [living dead!!](https://open.spotify.com/track/3oamfw1nAipiBdqnnaIMHL) | [\(sic\)boy](https://open.spotify.com/artist/19FI3bwyW062xAmEy3rzsk), [KM](https://open.spotify.com/artist/2Nz5XwOa02deTyyS2vw5Wa) | [living dead!!](https://open.spotify.com/album/01wPQIcyuFaHT5OzqKjIVI) | 2:27 |
-| 98 | [Better Left Unsaid](https://open.spotify.com/track/1q8Gyk65YWMormJV6SuSJZ) | [Ken Yokoyama](https://open.spotify.com/artist/4pPZ7nNH108ax8A1sjxfpX) | [Indian Burn](https://open.spotify.com/album/0IChffToKdKcuJTlz5H7AI) | 3:24 |
+| 97 | [Better Left Unsaid](https://open.spotify.com/track/1q8Gyk65YWMormJV6SuSJZ) | [Ken Yokoyama](https://open.spotify.com/artist/4pPZ7nNH108ax8A1sjxfpX) | [Indian Burn](https://open.spotify.com/album/0IChffToKdKcuJTlz5H7AI) | 3:24 |
+| 98 | [living dead!!](https://open.spotify.com/track/3oamfw1nAipiBdqnnaIMHL) | [\(sic\)boy](https://open.spotify.com/artist/19FI3bwyW062xAmEy3rzsk), [KM](https://open.spotify.com/artist/2Nz5XwOa02deTyyS2vw5Wa) | [living dead!!](https://open.spotify.com/album/01wPQIcyuFaHT5OzqKjIVI) | 2:27 |
 | 99 | [All We Need Is Summer Day](https://open.spotify.com/track/18lXaewmQrOOCMZDAv0QYM) | [9mm Parabellum Bullet](https://open.spotify.com/artist/3v0nHmnUcf9GAhjQOTctQu) | [TIGHTROPE](https://open.spotify.com/album/4KpSEm7faORT0XUFZRTAJc) | 2:42 |
 | 100 | [ユエニ](https://open.spotify.com/track/7hZQgHQ1NH8WYs5UBtjRET) | [Mr.FanTastiC](https://open.spotify.com/artist/42Z74v9b8xkEsOe6zkhsdA) | [ユエニ](https://open.spotify.com/album/1ZuPsCdjOY2hJyM3Y6KO84) | 4:00 |
 
-Snapshot ID: `MCw1YTdkN2FmNDRhYzBjODY2MTQxMzBkNGEyMDdhZDJmOWM1MDY2NzQy`
+Snapshot ID: `MCwzNGE0YWQzZmYyZGI0NTRmZjkwN2Y4ZjA5NjEyYWY0ODU1MzkyNmU0`

@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Pa' toda la raza carnavalera!",
-  "num_followers": 34996,
+  "num_followers": 35039,
   "original_name": "Banda Carnavalera",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2ZWNiZmEyNzAzNTRhMWI2MzI2YjM0MWE0ODMxNDcyM2JjZTkzNDA0",
+  "snapshot_id": "MCw3ZjcyYTdlZWVhYzY4ODZiOWM5ZjFmOWJkNjgwODQzYmFhODNhN2U3",
   "tracks": [
     {
       "added_at": "2022-08-02 22:31:47",
@@ -227,18 +227,18 @@
     {
       "added_at": "2022-08-02 22:31:47",
       "album": {
-        "name": "Nuestra Historia Musical (Volumen 1)",
-        "url": "https://open.spotify.com/album/1k9LWM4YJYsRLUK3okmr8r"
+        "name": "Una No Es Ninguna",
+        "url": "https://open.spotify.com/album/2EeImPwr3AOR36TWNECKAw"
       },
       "artists": [
         {
-          "name": "Banda Ola Azul de Zirahuen",
-          "url": "https://open.spotify.com/artist/5GwsVzB4N0FIiILYzLuszR"
+          "name": "Banda La Fregona",
+          "url": "https://open.spotify.com/artist/5QjGlm1dx35Pgsg5S1hVf7"
         }
       ],
-      "duration_ms": 193053,
-      "name": "Un Angel No Debe Llorar",
-      "url": "https://open.spotify.com/track/55owFYkdLsQ0W9BORZ3C84"
+      "duration_ms": 251933,
+      "name": "Popurri Fregon: Carnaval, El Buey De La Barranca, Serian Las Dos, La Mariguana",
+      "url": "https://open.spotify.com/track/5Kv8b5skMVvucgC4Ca6lHD"
     },
     {
       "added_at": "2022-08-02 22:31:47",
@@ -259,18 +259,18 @@
     {
       "added_at": "2022-08-02 22:31:47",
       "album": {
-        "name": "Una No Es Ninguna",
-        "url": "https://open.spotify.com/album/2EeImPwr3AOR36TWNECKAw"
+        "name": "Nuestra Historia Musical (Volumen 1)",
+        "url": "https://open.spotify.com/album/1k9LWM4YJYsRLUK3okmr8r"
       },
       "artists": [
         {
-          "name": "Banda La Fregona",
-          "url": "https://open.spotify.com/artist/5QjGlm1dx35Pgsg5S1hVf7"
+          "name": "Banda Ola Azul de Zirahuen",
+          "url": "https://open.spotify.com/artist/5GwsVzB4N0FIiILYzLuszR"
         }
       ],
-      "duration_ms": 251933,
-      "name": "Popurri Fregon: Carnaval, El Buey De La Barranca, Serian Las Dos, La Mariguana",
-      "url": "https://open.spotify.com/track/5Kv8b5skMVvucgC4Ca6lHD"
+      "duration_ms": 193053,
+      "name": "Un Angel No Debe Llorar",
+      "url": "https://open.spotify.com/track/55owFYkdLsQ0W9BORZ3C84"
     },
     {
       "added_at": "2022-08-02 22:31:47",
@@ -339,22 +339,6 @@
     {
       "added_at": "2022-08-02 22:31:47",
       "album": {
-        "name": "De la Ciudad pal' Rancho (Puro A\u00f1uuu Weiii)",
-        "url": "https://open.spotify.com/album/2JN6smXOqkzHF0dXAtCFcJ"
-      },
-      "artists": [
-        {
-          "name": "Banda La Fregona",
-          "url": "https://open.spotify.com/artist/5QjGlm1dx35Pgsg5S1hVf7"
-        }
-      ],
-      "duration_ms": 264693,
-      "name": "Al Estilo Potos\u00ed: El Pistolero / Orde\u00f1ando la Vaca / Cuando los Frijoles Bailan",
-      "url": "https://open.spotify.com/track/1nyMsdNsF6t7Ar88vnudFE"
-    },
-    {
-      "added_at": "2022-08-02 22:31:47",
-      "album": {
         "name": "Puras Carnavaleras, Vol. 2",
         "url": "https://open.spotify.com/album/332rbeyvixuVxaVsNoS02G"
       },
@@ -371,6 +355,22 @@
       "duration_ms": 226306,
       "name": "Chinelo Carnavalero",
       "url": "https://open.spotify.com/track/03RZNxQS4tgclnqCpRf3uv"
+    },
+    {
+      "added_at": "2022-08-02 22:31:47",
+      "album": {
+        "name": "De la Ciudad pal' Rancho (Puro A\u00f1uuu Weiii)",
+        "url": "https://open.spotify.com/album/2JN6smXOqkzHF0dXAtCFcJ"
+      },
+      "artists": [
+        {
+          "name": "Banda La Fregona",
+          "url": "https://open.spotify.com/artist/5QjGlm1dx35Pgsg5S1hVf7"
+        }
+      ],
+      "duration_ms": 264693,
+      "name": "Al Estilo Potos\u00ed: El Pistolero / Orde\u00f1ando la Vaca / Cuando los Frijoles Bailan",
+      "url": "https://open.spotify.com/track/1nyMsdNsF6t7Ar88vnudFE"
     },
     {
       "added_at": "2022-08-02 22:31:47",
@@ -455,6 +455,22 @@
     {
       "added_at": "2022-08-02 22:31:47",
       "album": {
+        "name": "Contra Viento y Marea",
+        "url": "https://open.spotify.com/album/3UeYQORMpoP5hGyn0udUBo"
+      },
+      "artists": [
+        {
+          "name": "Banda Bucanera",
+          "url": "https://open.spotify.com/artist/2sudy981RKHBlYmb5ByWSy"
+        }
+      ],
+      "duration_ms": 261573,
+      "name": "Chineleando",
+      "url": "https://open.spotify.com/track/1VlgSW0BissXc660YW5Yi4"
+    },
+    {
+      "added_at": "2022-08-02 22:31:47",
+      "album": {
         "name": "Mujer Alegre",
         "url": "https://open.spotify.com/album/5l1c87A41VA7IZijmFfdat"
       },
@@ -495,18 +511,18 @@
     {
       "added_at": "2022-08-02 22:31:47",
       "album": {
-        "name": "Contra Viento y Marea",
-        "url": "https://open.spotify.com/album/3UeYQORMpoP5hGyn0udUBo"
+        "name": "El Toro Meko (Serie Titanium)",
+        "url": "https://open.spotify.com/album/2sNtqcgzWpdOthyYrpCsbo"
       },
       "artists": [
         {
-          "name": "Banda Bucanera",
-          "url": "https://open.spotify.com/artist/2sudy981RKHBlYmb5ByWSy"
+          "name": "La Super Banda de Chilacachapa, Gro",
+          "url": "https://open.spotify.com/artist/35GQObtpaiadJsJDq4BhLf"
         }
       ],
-      "duration_ms": 261573,
-      "name": "Chineleando",
-      "url": "https://open.spotify.com/track/1VlgSW0BissXc660YW5Yi4"
+      "duration_ms": 187680,
+      "name": "El Huitzuque\u00f1o",
+      "url": "https://open.spotify.com/track/1VUAqtSRzjiJ5jRne66ERd"
     },
     {
       "added_at": "2022-08-02 22:31:47",
@@ -523,22 +539,6 @@
       "duration_ms": 138640,
       "name": "El Tiliche",
       "url": "https://open.spotify.com/track/1Nzjgrrt5viVSG8ZSVS4WJ"
-    },
-    {
-      "added_at": "2022-08-02 22:31:47",
-      "album": {
-        "name": "El Toro Meko (Serie Titanium)",
-        "url": "https://open.spotify.com/album/2sNtqcgzWpdOthyYrpCsbo"
-      },
-      "artists": [
-        {
-          "name": "La Super Banda de Chilacachapa, Gro",
-          "url": "https://open.spotify.com/artist/35GQObtpaiadJsJDq4BhLf"
-        }
-      ],
-      "duration_ms": 187680,
-      "name": "El Huitzuque\u00f1o",
-      "url": "https://open.spotify.com/track/1VUAqtSRzjiJ5jRne66ERd"
     },
     {
       "added_at": "2022-08-02 22:31:47",
@@ -607,22 +607,6 @@
     {
       "added_at": "2022-08-02 22:31:47",
       "album": {
-        "name": "Las Alegres de los Infinitos",
-        "url": "https://open.spotify.com/album/2i5ASZlby3bDtfMaAMAr3d"
-      },
-      "artists": [
-        {
-          "name": "Los Infinitos Puro Zirahuen",
-          "url": "https://open.spotify.com/artist/1CUhdRw7cr3alXldvYkuH9"
-        }
-      ],
-      "duration_ms": 253015,
-      "name": "El Carretero",
-      "url": "https://open.spotify.com/track/5Li8aTVHhTJgAfocGruRpw"
-    },
-    {
-      "added_at": "2022-08-02 22:31:47",
-      "album": {
         "name": "Y Seguimos Loqueando!",
         "url": "https://open.spotify.com/album/03RRx4Txfj8Q151lsqoJAq"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 196736,
       "name": "Pelea De Gallos - En Vivo",
       "url": "https://open.spotify.com/track/0Ytws5SI0vLt2uPWvkgsj0"
+    },
+    {
+      "added_at": "2022-08-02 22:31:47",
+      "album": {
+        "name": "Las Alegres de los Infinitos",
+        "url": "https://open.spotify.com/album/2i5ASZlby3bDtfMaAMAr3d"
+      },
+      "artists": [
+        {
+          "name": "Los Infinitos Puro Zirahuen",
+          "url": "https://open.spotify.com/artist/1CUhdRw7cr3alXldvYkuH9"
+        }
+      ],
+      "duration_ms": 253015,
+      "name": "El Carretero",
+      "url": "https://open.spotify.com/track/5Li8aTVHhTJgAfocGruRpw"
     },
     {
       "added_at": "2022-08-02 22:31:47",
@@ -1039,6 +1039,22 @@
     {
       "added_at": "2022-08-02 22:31:47",
       "album": {
+        "name": "Puros Popurris De Sones",
+        "url": "https://open.spotify.com/album/2DbxbOYecqfAD3alfKSSXJ"
+      },
+      "artists": [
+        {
+          "name": "La Razza del Compa Edgar",
+          "url": "https://open.spotify.com/artist/4yfxTpIJDOaXGPLta4K99K"
+        }
+      ],
+      "duration_ms": 288072,
+      "name": "Homenaje a Un Barbaro ... Son Del Muerto / Juan Colorado / Toro De Once / Arriba Pichataro /Son De Los Chinelos /Flor De Pi\u00f1a",
+      "url": "https://open.spotify.com/track/28cM4koCwfkUIprAMLHNRd"
+    },
+    {
+      "added_at": "2022-08-02 22:31:47",
+      "album": {
         "name": "En Vivo",
         "url": "https://open.spotify.com/album/4XNAcJHIkjMeV634pBtTY5"
       },
@@ -1067,22 +1083,6 @@
       "duration_ms": 325346,
       "name": "El Pato Asado, El Ahualulco - En Vivo",
       "url": "https://open.spotify.com/track/2Nat0Cc2ddJVkkRqKlRN0M"
-    },
-    {
-      "added_at": "2022-08-02 22:31:47",
-      "album": {
-        "name": "Puros Popurris De Sones",
-        "url": "https://open.spotify.com/album/2DbxbOYecqfAD3alfKSSXJ"
-      },
-      "artists": [
-        {
-          "name": "La Razza del Compa Edgar",
-          "url": "https://open.spotify.com/artist/4yfxTpIJDOaXGPLta4K99K"
-        }
-      ],
-      "duration_ms": 288072,
-      "name": "Homenaje a Un Barbaro ... Son Del Muerto / Juan Colorado / Toro De Once / Arriba Pichataro /Son De Los Chinelos /Flor De Pi\u00f1a",
-      "url": "https://open.spotify.com/track/28cM4koCwfkUIprAMLHNRd"
     },
     {
       "added_at": "2022-08-02 22:31:47",
@@ -1151,22 +1151,6 @@
     {
       "added_at": "2022-08-02 22:31:47",
       "album": {
-        "name": "Vamos Pa' Los Toros",
-        "url": "https://open.spotify.com/album/09zNtJ7OrP7eZNieO2qk8F"
-      },
-      "artists": [
-        {
-          "name": "La Super Banda De Chilacachapa",
-          "url": "https://open.spotify.com/artist/60WAscKOtR4uzuKWqjnHn4"
-        }
-      ],
-      "duration_ms": 167746,
-      "name": "Son de la Cotorra",
-      "url": "https://open.spotify.com/track/58Giumsuoa58XMfSUca4pF"
-    },
-    {
-      "added_at": "2022-08-02 22:31:47",
-      "album": {
         "name": "Sin Miedo Al Toro",
         "url": "https://open.spotify.com/album/2X4uzJ9nJhpjwRyB795jar"
       },
@@ -1179,6 +1163,22 @@
       "duration_ms": 199420,
       "name": "Sin Miedo Al Toro",
       "url": "https://open.spotify.com/track/5B1R4vTA5UdFDPpcy0PckR"
+    },
+    {
+      "added_at": "2022-08-02 22:31:47",
+      "album": {
+        "name": "Vamos Pa' Los Toros",
+        "url": "https://open.spotify.com/album/09zNtJ7OrP7eZNieO2qk8F"
+      },
+      "artists": [
+        {
+          "name": "La Super Banda De Chilacachapa",
+          "url": "https://open.spotify.com/artist/60WAscKOtR4uzuKWqjnHn4"
+        }
+      ],
+      "duration_ms": 167746,
+      "name": "Son de la Cotorra",
+      "url": "https://open.spotify.com/track/58Giumsuoa58XMfSUca4pF"
     },
     {
       "added_at": "2022-08-02 22:31:47",

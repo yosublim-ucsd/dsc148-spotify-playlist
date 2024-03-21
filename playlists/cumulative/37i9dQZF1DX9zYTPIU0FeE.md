@@ -4,7 +4,7 @@
 
 > Journey through the exciting and innovative sounds of South African Jazz\. Cover: <a href="https://open.spotify.com/artist/3I5CBcpfValsWh6o5ciuWH?si=Z52XHplwRquA59MW7gc2dA">Tutu Puoane</a>
 
-200 songs - 21 hr 31 min
+201 songs - 21 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -98,7 +98,8 @@
 | [Kucheza](https://open.spotify.com/track/6xSE8mjOiwe0qrIpd8YTvc) | [Shane Cooper](https://open.spotify.com/artist/2NFkaT0OaYcQiY1UsW9JtZ), [MABUTA](https://open.spotify.com/artist/4Z6IP9yKpOBbitoDKeMIFI) | [Finish The Sun](https://open.spotify.com/album/2aDnrY3VewxtdyuMCuDAAD) | 4:32 | 2022-04-28 | 2023-11-25 |
 | [Kunzima Madoda](https://open.spotify.com/track/0hLqS3gWMiVvANb5HvndhP) | [Linda Tshabalala](https://open.spotify.com/artist/2owcGskTifdgn9Tw7sK9p7) | [Convergence Bekezela Siyeza](https://open.spotify.com/album/3tmmJjesjQuWYgA2qvafpe) | 6:02 | 2023-11-23 |  |
 | [Kwa Thula](https://open.spotify.com/track/08Gj2NwZwtrhbwqiCEVSUb) | [Dudu Pukwana](https://open.spotify.com/artist/6bW73aNRCae7jPJF1Dxy9F) | [Dudu Phukwana and the "Spears"](https://open.spotify.com/album/60DdSYk9ZM6YdHQL4NiZVF) | 3:41 | 2023-11-01 | 2023-11-17 |
-| [Kwetu](https://open.spotify.com/track/6Veo9O8iD7ewhA5ZzB3fRh) | [Aaron Rimbui \| Ayanda Sikade \| Herbie Tsoaeli](https://open.spotify.com/artist/1MyMTjHltmrJ1A4Z79vpSo) | [Kwetu](https://open.spotify.com/album/2hNj1dmL0kfOlMUtOpcFcJ) | 5:26 | 2022-04-28 |  |
+| [Kwetu](https://open.spotify.com/track/6Veo9O8iD7ewhA5ZzB3fRh) | [Aaron Rimbui \| Ayanda Sikade \| Herbie Tsoaeli](https://open.spotify.com/artist/1MyMTjHltmrJ1A4Z79vpSo) | [Kwetu](https://open.spotify.com/album/2hNj1dmL0kfOlMUtOpcFcJ) | 5:26 | 2022-04-28 | 2024-03-21 |
+| [Kwetu](https://open.spotify.com/track/6ydtxqMaxXbLlBUVvlDuRU) | [Aaron Rimbui \| Ayanda Sikade \| Herbie Tsoaeli](https://open.spotify.com/artist/1MyMTjHltmrJ1A4Z79vpSo) | [Kwetu](https://open.spotify.com/album/1cfKpuS4Nb9aGIa99MxRf0) | 5:26 | 2024-03-15 |  |
 | [Lesedi](https://open.spotify.com/track/0nL1LtNr9zcl0wgGOK6HJm) | [Kujenga](https://open.spotify.com/artist/46zBMWkU58KyXCD5WuS3ha) | [Lesedi](https://open.spotify.com/album/1Sukgz3b5erT1h2RdaAmlY) | 10:02 | 2024-02-22 |  |
 | [Life Esidimeni](https://open.spotify.com/track/6R6JexV8l3fhKCfRPrTaI6) | [Malcolm Jiyane Tree\-O](https://open.spotify.com/artist/4OKERbN3Zv7ZLU8XfINKBH) | [UMDALI](https://open.spotify.com/album/6P9Zd5TpULDQd28yr50MlY) | 11:06 | 2023-11-01 | 2023-11-17 |
 | [Light Cycle / Vang Gou Die Strandloper](https://open.spotify.com/track/2Qr7PCmshXAAOUvP3bwotE) | [Skyjack](https://open.spotify.com/artist/6gSBRCbcqIIaD7slbHymwa) | [Light Cycle / Vang Gou Die Strandloper](https://open.spotify.com/album/0AbupBIps2UaQWWQjIWmTt) | 8:40 | 2024-01-25 |  |

@@ -1713,6 +1713,24 @@
     },
     {
       "album": {
+        "name": "Babylon",
+        "url": "https://open.spotify.com/album/6nDSrdXMDzutmKsDPCif4h"
+      },
+      "artists": [
+        {
+          "name": "Alexander Grandjean",
+          "url": "https://open.spotify.com/artist/4ltZplYXzDwJi1uFva2PEp"
+        }
+      ],
+      "date_added": "2024-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220632,
+      "name": "Babylon",
+      "url": "https://open.spotify.com/track/6zlwcDw4sY6FOIfUhQ1alu"
+    },
+    {
+      "album": {
         "name": "Back On My Feet / Addicted To Love",
         "url": "https://open.spotify.com/album/4ztly9uAqCzneeKPNId3oe"
       },
@@ -4521,6 +4539,24 @@
     },
     {
       "album": {
+        "name": "Dawn",
+        "url": "https://open.spotify.com/album/22i1EuwuPIc25Z5E8zKdzB"
+      },
+      "artists": [
+        {
+          "name": "h. pruz",
+          "url": "https://open.spotify.com/artist/3WWEKLW1zn4gtBSljQ8HQN"
+        }
+      ],
+      "date_added": "2024-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253000,
+      "name": "Dawn",
+      "url": "https://open.spotify.com/track/1E1m6vWbDvApleEu9H2oVT"
+    },
+    {
+      "album": {
         "name": "Earthling on the Road to Self Love",
         "url": "https://open.spotify.com/album/4sRPrF3Ev4HPurzyxcbpdr"
       },
@@ -5804,7 +5840,7 @@
       ],
       "date_added": "2024-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-21",
       "duration_ms": 189092,
       "name": "End Of The World",
       "url": "https://open.spotify.com/track/3trrueLt7FceiknriMTt4m"
@@ -6918,7 +6954,7 @@
       ],
       "date_added": "2024-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-21",
       "duration_ms": 274106,
       "name": "For The Both of Us",
       "url": "https://open.spotify.com/track/6CLfnHnMwLfAtd1rqJsbCs"
@@ -7231,6 +7267,24 @@
     },
     {
       "album": {
+        "name": "Garden In The Sky",
+        "url": "https://open.spotify.com/album/2rz4IeiRzPpl9j2U7gtETg"
+      },
+      "artists": [
+        {
+          "name": "KATYA",
+          "url": "https://open.spotify.com/artist/6ARtMKoXQvZclVIxRqMFBQ"
+        }
+      ],
+      "date_added": "2024-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216306,
+      "name": "Garden In The Sky",
+      "url": "https://open.spotify.com/track/2DNIxbixiKsHDEll7nBnbD"
+    },
+    {
+      "album": {
         "name": "Gardens",
         "url": "https://open.spotify.com/album/2nEOjgrISBV0p1xI6qlY73"
       },
@@ -7246,6 +7300,24 @@
       "duration_ms": 248280,
       "name": "Gardens",
       "url": "https://open.spotify.com/track/7uXbGBpQgl1TkK9mHdRs2V"
+    },
+    {
+      "album": {
+        "name": "Gears",
+        "url": "https://open.spotify.com/album/0lK9saFbfDfxZHQVuImkLQ"
+      },
+      "artists": [
+        {
+          "name": "Divorce",
+          "url": "https://open.spotify.com/artist/0YMVzWF9HWGbV4DZHfCyKo"
+        }
+      ],
+      "date_added": "2024-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155874,
+      "name": "Gears",
+      "url": "https://open.spotify.com/track/6n9oYc4iYuBJf95UFNY4Ky"
     },
     {
       "album": {
@@ -10106,7 +10178,7 @@
       ],
       "date_added": "2024-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-21",
       "duration_ms": 304396,
       "name": "Jessie's Blues",
       "url": "https://open.spotify.com/track/0q9WJFr9bDnQXqr4WmvE4G"
@@ -11276,7 +11348,7 @@
       ],
       "date_added": "2023-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-21",
       "duration_ms": 238613,
       "name": "Lonely Island",
       "url": "https://open.spotify.com/track/5csv5CTvlDnhEoXMsg7Wld"
@@ -12182,6 +12254,24 @@
       "duration_ms": 240840,
       "name": "Middle of a Heart",
       "url": "https://open.spotify.com/track/1bNPHWCDOGQMrzKHja2927"
+    },
+    {
+      "album": {
+        "name": "Middle Of Your Mess",
+        "url": "https://open.spotify.com/album/4L5hA1zCrXygF3wF40hy5R"
+      },
+      "artists": [
+        {
+          "name": "Charm of Finches",
+          "url": "https://open.spotify.com/artist/2vfDwM6xqZbOjg5h6VLoke"
+        }
+      ],
+      "date_added": "2024-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201986,
+      "name": "Middle Of Your Mess",
+      "url": "https://open.spotify.com/track/0HUkutrgF90j7Lok80vPKL"
     },
     {
       "album": {
@@ -13148,7 +13238,7 @@
       ],
       "date_added": "2024-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-21",
       "duration_ms": 211102,
       "name": "Northern Lights",
       "url": "https://open.spotify.com/track/3QJxQ3CnVwpRNHF3ANKWTr"
@@ -14286,7 +14376,7 @@
       ],
       "date_added": "2024-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-21",
       "duration_ms": 224337,
       "name": "Point of View",
       "url": "https://open.spotify.com/track/3ltHC2cPucDcc9NKbupJsC"
@@ -14862,7 +14952,7 @@
       ],
       "date_added": "2024-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-21",
       "duration_ms": 288826,
       "name": "Rewind",
       "url": "https://open.spotify.com/track/4cE5VRcJURYP6hIyFF29N4"
@@ -15078,7 +15168,7 @@
       ],
       "date_added": "2024-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-21",
       "duration_ms": 198031,
       "name": "rose sunglasses",
       "url": "https://open.spotify.com/track/1CwOAKzBt8nKosLa3nP70p"
@@ -17018,7 +17108,7 @@
       ],
       "date_added": "2024-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-21",
       "duration_ms": 250747,
       "name": "Sun and Time",
       "url": "https://open.spotify.com/track/1f6je5fzqQuQMKCcbWHc35"
@@ -17559,6 +17649,24 @@
     },
     {
       "album": {
+        "name": "THE CITY NEVER SLEEPS",
+        "url": "https://open.spotify.com/album/23moFrYISKXivaLiNPT8ai"
+      },
+      "artists": [
+        {
+          "name": "Jo Hill",
+          "url": "https://open.spotify.com/artist/1AbLfK2cwcwDcmiqyHQVF8"
+        }
+      ],
+      "date_added": "2024-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250341,
+      "name": "THE CITY NEVER SLEEPS",
+      "url": "https://open.spotify.com/track/3iWEE0xx3HFmVjFjsAyxzk"
+    },
+    {
+      "album": {
         "name": "The Coals",
         "url": "https://open.spotify.com/album/1o5ZDtGxKvNFwObC36W4J4"
       },
@@ -17812,6 +17920,24 @@
       "duration_ms": 489199,
       "name": "The King Of Western Swing",
       "url": "https://open.spotify.com/track/4bnQLzOF7YE7zW9OXI1A61"
+    },
+    {
+      "album": {
+        "name": "the machine",
+        "url": "https://open.spotify.com/album/2WBSe1gcZOCGSreDKc8rCA"
+      },
+      "artists": [
+        {
+          "name": "Son of the Challenger",
+          "url": "https://open.spotify.com/artist/5ArUOljpeiuePVYkK6KFmG"
+        }
+      ],
+      "date_added": "2024-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185034,
+      "name": "the machine",
+      "url": "https://open.spotify.com/track/4AhZ3OCy7lG0aMoEztWVGR"
     },
     {
       "album": {
@@ -18777,6 +18903,24 @@
     },
     {
       "album": {
+        "name": "Twin Flame",
+        "url": "https://open.spotify.com/album/7oisAmmg9BaaTHsdzvO3oq"
+      },
+      "artists": [
+        {
+          "name": "Georgia Parker",
+          "url": "https://open.spotify.com/artist/4OGodtGAXXUvXC4mmJzZNf"
+        }
+      ],
+      "date_added": "2024-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230329,
+      "name": "Twin Flame",
+      "url": "https://open.spotify.com/track/2BQR4wX9e6kZXnIqPXUtUK"
+    },
+    {
+      "album": {
         "name": "Two Circles",
         "url": "https://open.spotify.com/album/041hzrgkFdh4qw2Sp9eR2l"
       },
@@ -18954,6 +19098,24 @@
       "duration_ms": 242065,
       "name": "Unglow The",
       "url": "https://open.spotify.com/track/4UeVFX3DVDTRrqfAOL2dTa"
+    },
+    {
+      "album": {
+        "name": "Unravel Myself",
+        "url": "https://open.spotify.com/album/1BppxhXRwlhItsVZEaq9t9"
+      },
+      "artists": [
+        {
+          "name": "Ivy James",
+          "url": "https://open.spotify.com/artist/1WoddWoiAejGKl7zIoyNl7"
+        }
+      ],
+      "date_added": "2024-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "Unravel Myself",
+      "url": "https://open.spotify.com/track/2Xr2Lim9QmzDruk6sPhzmH"
     },
     {
       "album": {
@@ -20468,7 +20630,7 @@
       ],
       "date_added": "2024-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-21",
       "duration_ms": 291825,
       "name": "Your House",
       "url": "https://open.spotify.com/track/1JHCAvJkUgAnjMUbsBmLsf"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFPHCzPqDlCiW.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1c2S9zEjadnB6Mt2aOOLWn">Ollie Green</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 213 likes - 120 songs - 6 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 214 likes - 120 songs - 6 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,8 +20,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFPHCzPqDlCiW.md) - [plain]
 | 10 | [Cigarette Break](https://open.spotify.com/track/6N4giKsqtwFjeEc1alG68f) | [Gavin James](https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE) | [Only Ticket Home](https://open.spotify.com/album/4xsgJS74UkFgI1DE71lnXX) | 4:05 |
 | 11 | [Boxes](https://open.spotify.com/track/4OtGu9O6vHOOsDECNqBMw3) | [Gavin James](https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE) | [Boxes](https://open.spotify.com/album/59v1IdVMmmHv1ul3FOC5JR) | 2:48 |
 | 12 | [Blackout](https://open.spotify.com/track/4G9riegFbyX3uBZhCACDQh) | [Freya Ridings](https://open.spotify.com/artist/5pDjmC5mRl7vDJhsjVwNfk) | [Freya Ridings](https://open.spotify.com/album/3dcenoRctm8OAnqoCrQrLd) | 2:54 |
-| 13 | [How Does It Feel](https://open.spotify.com/track/5Ol2D00LPrwnDT23RzQGPH) | [Tom Grennan](https://open.spotify.com/artist/5SHxzwjek1Pipl1Yk11UHv) | [What Ifs & Maybes](https://open.spotify.com/album/3CWP6u3BR6KmyodkIoyE6F) | 2:23 |
-| 14 | [Deep In Your Love](https://open.spotify.com/track/0sftzYE0YgPHXrvJyUyGjB) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [Deep In Your Love](https://open.spotify.com/album/3QkffLjHLnGMUgMAvrOgrs) | 2:24 |
+| 13 | [Deep In Your Love](https://open.spotify.com/track/0sftzYE0YgPHXrvJyUyGjB) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [Deep In Your Love](https://open.spotify.com/album/3QkffLjHLnGMUgMAvrOgrs) | 2:24 |
+| 14 | [How Does It Feel](https://open.spotify.com/track/5Ol2D00LPrwnDT23RzQGPH) | [Tom Grennan](https://open.spotify.com/artist/5SHxzwjek1Pipl1Yk11UHv) | [What Ifs & Maybes](https://open.spotify.com/album/3CWP6u3BR6KmyodkIoyE6F) | 2:23 |
 | 15 | [All For You \(with Ella Henderson\)](https://open.spotify.com/track/37kbXJxueyVRhwHr3b6Zhp) | [Cian Ducrot](https://open.spotify.com/artist/49jTY62Cpw3RYo4dLuG43W), [Ella Henderson](https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1) | [All For You \(with Ella Henderson\)](https://open.spotify.com/album/2KNo5bN8EamrzVLk7bw9n0) | 3:41 |
 | 16 | [Endless Summer](https://open.spotify.com/track/17B2JRnNp9qrYvkc1kdQbF) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Zak Abel](https://open.spotify.com/artist/6Gk5hoM7eW8NSCYhICMDHw) | [Walkerworld](https://open.spotify.com/album/3bKcoHSsmTEWHAGXqwOneo) | 3:07 |
 | 17 | [Glow](https://open.spotify.com/track/3mwiwIozeFMcyayHReAXyE) | [Gavin James](https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE) | [Only Ticket Home](https://open.spotify.com/album/4xsgJS74UkFgI1DE71lnXX) | 3:50 |
@@ -129,4 +129,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFPHCzPqDlCiW.md) - [plain]
 | 119 | [Cry Baby](https://open.spotify.com/track/6CUhst2FN306kgbPZRDMlX) | [Vize Verza](https://open.spotify.com/artist/7866WqAIb0XvXRlRPTUCir) | [Cry Baby](https://open.spotify.com/album/3qw9vLNZSZVp0nspvfnYMQ) | 2:54 |
 | 120 | [Mother](https://open.spotify.com/track/6w0UT19dw0IRWtLMQyn1Sq) | [Chelcee Grimes](https://open.spotify.com/artist/1YQf1satVqyqSOp5FUvDKx) | [Mother](https://open.spotify.com/album/3PzaUA5NnjrDsDECx5tcSe) | 3:19 |
 
-Snapshot ID: `Mjg1MTUwMTAsMDAwMDAwMDBkNTQ5ZTA1MGMyNGU5YzlhMzRmZmVmMDIyZjJiOGFmMQ==`
+Snapshot ID: `Mjg1MTY0NTAsMDAwMDAwMDA5ZmRmOWU0YzZjMjkyNjRkZDA4Nzg1NWE3MTczMWY3Zg==`

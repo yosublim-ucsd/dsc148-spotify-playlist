@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1IUF5q4IvkjylMhd9P0urE.md) - [plain]
 
 > Our favourite new music, updated monthly by the XL team.
 
-[XL Recordings](https://open.spotify.com/user/xlrecordings) - 15,657 likes - 116 songs - 6 hr 59 min
+[XL Recordings](https://open.spotify.com/user/xlrecordings) - 15,660 likes - 116 songs - 6 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -125,4 +125,4 @@ pretty - [cumulative](/playlists/cumulative/1IUF5q4IvkjylMhd9P0urE.md) - [plain]
 | 115 | [candy reign \(!\)](https://open.spotify.com/track/4fX5F00lmUGW1tnM4DHvzd) | [Jim Legxacy](https://open.spotify.com/artist/7IrBqZo6diq3hV3GpUhrs2) | [homeless n\*gga pop music](https://open.spotify.com/album/5j9zothL0paSMkfcdjCdHA) | 2:18 |
 | 116 | [Friendly](https://open.spotify.com/track/4ikACoSiRRLZo6gX5JnRjV) | [Slew](https://open.spotify.com/artist/0kkFzERMQHK5WcWnACLby3) | [Face Value](https://open.spotify.com/album/3cSSOPFzD1Bo12hWXWjRGf) | 2:11 |
 
-Snapshot ID: `NjIxOCxlMDFiZGE2OTM5NjgxYjI4N2JiOGU3MTdkZDM5ZTYyZjNjM2UyYzEz`
+Snapshot ID: `NjIyMCxhNWU4OThkMjIwOGRhNDRmOTk5Yjk3MDdmZmFmY2U4NTAzZWFhMWIw`

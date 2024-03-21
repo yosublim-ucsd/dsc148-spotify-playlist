@@ -1,12 +1,12 @@
 {
   "description": "",
-  "num_followers": 332576,
+  "num_followers": 332663,
   "original_name": "Soultronic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4YjRmMWNhZDJjNTg0MjBhMGM2MzhlNzVmMjZiYzQwYWFjZTExZWZj",
+  "snapshot_id": "MCw0YzZhNGI5Yjg2ODcwZjI5Yjg2MzAxMWI0ZDYwNzczYTI0MzViZTU3",
   "tracks": [
     {
       "added_at": "2024-03-01 00:01:00",
@@ -591,6 +591,26 @@
     {
       "added_at": "2024-03-01 00:01:00",
       "album": {
+        "name": "Black Magic Woman",
+        "url": "https://open.spotify.com/album/4tWsyDsJaSDp0Z0PTa0vLP"
+      },
+      "artists": [
+        {
+          "name": "Ginton",
+          "url": "https://open.spotify.com/artist/4Fx9JQTrRogacwiF4Drhoy"
+        },
+        {
+          "name": "Kaylan Arnold",
+          "url": "https://open.spotify.com/artist/30Umdbc6mDkhyrfyPw2quC"
+        }
+      ],
+      "duration_ms": 218625,
+      "name": "Black Magic Woman",
+      "url": "https://open.spotify.com/track/6Y1szSzgBTj39XorUpxGXV"
+    },
+    {
+      "added_at": "2024-03-01 00:01:00",
+      "album": {
         "name": "soulboy (IZCO Remix)",
         "url": "https://open.spotify.com/album/63sYFrw1yLHU0k3IkCPUdX"
       },
@@ -611,26 +631,6 @@
       "duration_ms": 229320,
       "name": "soulboy - IZCO Remix",
       "url": "https://open.spotify.com/track/3G1YAm52YxIp0jlxalE0hK"
-    },
-    {
-      "added_at": "2024-03-01 00:01:00",
-      "album": {
-        "name": "Black Magic Woman",
-        "url": "https://open.spotify.com/album/4tWsyDsJaSDp0Z0PTa0vLP"
-      },
-      "artists": [
-        {
-          "name": "Ginton",
-          "url": "https://open.spotify.com/artist/4Fx9JQTrRogacwiF4Drhoy"
-        },
-        {
-          "name": "Kaylan Arnold",
-          "url": "https://open.spotify.com/artist/30Umdbc6mDkhyrfyPw2quC"
-        }
-      ],
-      "duration_ms": 218625,
-      "name": "Black Magic Woman",
-      "url": "https://open.spotify.com/track/6Y1szSzgBTj39XorUpxGXV"
     },
     {
       "added_at": "2024-03-01 00:01:00",
@@ -1139,22 +1139,6 @@
     {
       "added_at": "2024-03-01 00:01:00",
       "album": {
-        "name": "Heart-Shaped Box",
-        "url": "https://open.spotify.com/album/3WPDRb3GzyeFL2a08MqGZz"
-      },
-      "artists": [
-        {
-          "name": "Amber Mark",
-          "url": "https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu"
-        }
-      ],
-      "duration_ms": 169626,
-      "name": "Heart-Shaped Box",
-      "url": "https://open.spotify.com/track/3t9UffGSsulotQbSLrQTWY"
-    },
-    {
-      "added_at": "2024-03-01 00:01:00",
-      "album": {
         "name": "We Are",
         "url": "https://open.spotify.com/album/5d272VxHzFg8In4h3OzbGQ"
       },
@@ -1171,6 +1155,22 @@
       "duration_ms": 255500,
       "name": "We Are",
       "url": "https://open.spotify.com/track/1duCNrSCe2xVNYAT5H7G76"
+    },
+    {
+      "added_at": "2024-03-01 00:01:00",
+      "album": {
+        "name": "Heart-Shaped Box",
+        "url": "https://open.spotify.com/album/3WPDRb3GzyeFL2a08MqGZz"
+      },
+      "artists": [
+        {
+          "name": "Amber Mark",
+          "url": "https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu"
+        }
+      ],
+      "duration_ms": 169626,
+      "name": "Heart-Shaped Box",
+      "url": "https://open.spotify.com/track/3t9UffGSsulotQbSLrQTWY"
     },
     {
       "added_at": "2024-03-01 00:01:00",
@@ -1327,6 +1327,26 @@
     {
       "added_at": "2024-03-01 00:01:00",
       "album": {
+        "name": "do you feel it too?",
+        "url": "https://open.spotify.com/album/3BrTI93IecTgOSLqyn4SId"
+      },
+      "artists": [
+        {
+          "name": "Seb Wildblood",
+          "url": "https://open.spotify.com/artist/51Rlwvwkj8L3zakIRr6dUV"
+        },
+        {
+          "name": "Ouri",
+          "url": "https://open.spotify.com/artist/41gxyJbzbAaChEyrZ9j3rv"
+        }
+      ],
+      "duration_ms": 218308,
+      "name": "Keep On",
+      "url": "https://open.spotify.com/track/1ruhhrEi0Co4bkUe0ak1bT"
+    },
+    {
+      "added_at": "2024-03-01 00:01:00",
+      "album": {
         "name": "Pain & Pleasure (feat. VANYFOX & F\u00e9d\u00e9ration Internationale du Bruit)",
         "url": "https://open.spotify.com/album/4Jz3pVofJLIfyyslzejjqo"
       },
@@ -1355,26 +1375,6 @@
       "duration_ms": 243205,
       "name": "Pain & Pleasure (feat. VANYFOX & F\u00e9d\u00e9ration Internationale du Bruit)",
       "url": "https://open.spotify.com/track/1NHZzHDim0aiS8fhJLPdqk"
-    },
-    {
-      "added_at": "2024-03-01 00:01:00",
-      "album": {
-        "name": "do you feel it too?",
-        "url": "https://open.spotify.com/album/3BrTI93IecTgOSLqyn4SId"
-      },
-      "artists": [
-        {
-          "name": "Seb Wildblood",
-          "url": "https://open.spotify.com/artist/51Rlwvwkj8L3zakIRr6dUV"
-        },
-        {
-          "name": "Ouri",
-          "url": "https://open.spotify.com/artist/41gxyJbzbAaChEyrZ9j3rv"
-        }
-      ],
-      "duration_ms": 218308,
-      "name": "Keep On",
-      "url": "https://open.spotify.com/track/1ruhhrEi0Co4bkUe0ak1bT"
     }
   ],
   "unique_name": "Soultronic",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0sf2VCrbIti.md) - [plain]
 
 > Que no falte la música, la familia y los amigos\. ¡Felices fiestas!
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,054 likes - 75 songs - 5 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,053 likes - 75 songs - 5 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0sf2VCrbIti.md) - [plain]
 | 36 | [Es Mentiroso](https://open.spotify.com/track/2AR6gN4QVBdJ8iw2KSG7fQ) | [Olga Tañón](https://open.spotify.com/artist/4pv1Jo4PbYI8LMADJoTWjE) | [Siente El Amor](https://open.spotify.com/album/4IlAVoLQ0uqWQaY4DaAL6R) | 4:02 |
 | 37 | [Me Liberé](https://open.spotify.com/track/1IcnHHfeAkdc88LybFWwb9) | [El Gran Combo De Puerto Rico](https://open.spotify.com/artist/6nnspeopmJAG07xOxHmqTu) | [Nuevo Milenio \- El Mismo Sabor](https://open.spotify.com/album/4VjDEGwmMTP7hOn2Afmbkn) | 4:23 |
 | 38 | [Una Vida Buena](https://open.spotify.com/track/6eMKYBh6GKb8QTjVmbpJJC) | [Kany García](https://open.spotify.com/artist/69UypehHabb68utzfjAVlV) | [Una Vida Buena](https://open.spotify.com/album/5Ol57xPflnNabnALfZehpW) | 2:10 |
-| 39 | [La Bilirrubina \- En Vivo Estadio Olímpico De República Dominicana/2012](https://open.spotify.com/track/1GT0Q2ZTeKtIBueYKr4vhr) | [Juan Luis Guerra 4.40](https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559) | [Asondeguerra Tour \(En Vivo Estadio Olímpico De República Dominicana/2012\)](https://open.spotify.com/album/43lcnoRo7YBAYHEztiDRrG) | 3:52 |
-| 40 | [Pegame Tu Vicio](https://open.spotify.com/track/0FcgB8l69nXBOmvhvEXm8o) | [Eddy Herrera](https://open.spotify.com/artist/4yNdrUaF54csrLixVTnqzC) | [Pegame Tu Vicio](https://open.spotify.com/album/4lboawyI2xBP52DPWPjk87) | 5:03 |
+| 39 | [Pegame Tu Vicio](https://open.spotify.com/track/0FcgB8l69nXBOmvhvEXm8o) | [Eddy Herrera](https://open.spotify.com/artist/4yNdrUaF54csrLixVTnqzC) | [Pegame Tu Vicio](https://open.spotify.com/album/4lboawyI2xBP52DPWPjk87) | 5:03 |
+| 40 | [La Bilirrubina \- En Vivo Estadio Olímpico De República Dominicana/2012](https://open.spotify.com/track/1GT0Q2ZTeKtIBueYKr4vhr) | [Juan Luis Guerra 4.40](https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559) | [Asondeguerra Tour \(En Vivo Estadio Olímpico De República Dominicana/2012\)](https://open.spotify.com/album/43lcnoRo7YBAYHEztiDRrG) | 3:52 |
 | 41 | [En Barranquilla Me Quedo](https://open.spotify.com/track/3WXfQDsASfXrSojk9WB3aR) | [Joe Arroyo](https://open.spotify.com/artist/7BFnoFhJjLWcsqmN3Hizqg), [La Verdad](https://open.spotify.com/artist/54h3j85gGrqCsfK8D0RuUM) | [32 Cañonazos](https://open.spotify.com/album/6ubTK1qVLWQSblspjFxtZn) | 5:12 |
 | 42 | [La Ventanita](https://open.spotify.com/track/30RgZM0hngr1UOy4rs7WYf) | [Sergio Vargas](https://open.spotify.com/artist/4EzD52bDFGZTEeEucKHtDs) | [Coleccion de Oro](https://open.spotify.com/album/3fKpYMR0aoC3t8GqdnpL4u) | 4:46 |
 | 43 | [Vivir Lo Nuestro](https://open.spotify.com/track/4qAknKWl2aMvWn4r1nzWAa) | [LA INDIA](https://open.spotify.com/artist/3NIZFmehJM8YiGpCdihlck), [Marc Anthony](https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6) | [Dicen Que Soy](https://open.spotify.com/album/5Bj8dRzPK5F1ozrV5IPb4u) | 6:07 |
@@ -65,8 +65,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0sf2VCrbIti.md) - [plain]
 | 55 | [La Fiesta de Pilito](https://open.spotify.com/track/0GppZBPxqJ70c3kYFX4AQm) | [El Gran Combo De Puerto Rico](https://open.spotify.com/artist/6nnspeopmJAG07xOxHmqTu) | [30th Anniversary](https://open.spotify.com/album/0MSAzzmVUM8w8sAVey6Nud) | 3:57 |
 | 56 | [Arranca en Fá](https://open.spotify.com/track/4IQeMjVi0BzCeTyP280ZGx) | [Sonora Carruseles](https://open.spotify.com/artist/34qU0b0yRjEzRJtknerEDS) | [The Best](https://open.spotify.com/album/6HTMGKWidJzcm9IHP4iolu) | 3:36 |
 | 57 | [Volveré](https://open.spotify.com/track/6THn83A87GCDaDZp9UQsPl) | [Wilfrido Vargas](https://open.spotify.com/artist/5LCDv4TvYRQD5ehflOBEh4) | [Los Años Dorados](https://open.spotify.com/album/58FR55u0pbPYIZr1x7M5Qg) | 4:19 |
-| 58 | [El Merecumbe](https://open.spotify.com/track/6Ni5cSEp0cNutVN0w2578Y) | [Los Melódicos](https://open.spotify.com/artist/4LdArZAC1QPQdyz8JNOYVW), [La Billo's y Los Melodicos](https://open.spotify.com/artist/62okGmZQ0Yr2lQhBUL6h86) | [La Billo's y Los Melodicos de coleccion, vol.1](https://open.spotify.com/album/4oI9hX7GLmynB3iscdKhfY) | 2:37 |
-| 59 | [Buscandote](https://open.spotify.com/track/2FtjaDTZOsJCjFWuNXqJUl) | [The Latin Brothers](https://open.spotify.com/artist/2AiZXMqpVlCDnz3trZbWaK), [Piper Pimienta Diaz](https://open.spotify.com/artist/35HTycyWifnoCzK2EQ3KUX) | [Historia Músical \- 30 Éxitos](https://open.spotify.com/album/1xNSKvjq7Te0taB7oyocdj) | 4:40 |
+| 58 | [Buscandote](https://open.spotify.com/track/2FtjaDTZOsJCjFWuNXqJUl) | [The Latin Brothers](https://open.spotify.com/artist/2AiZXMqpVlCDnz3trZbWaK), [Piper Pimienta Diaz](https://open.spotify.com/artist/35HTycyWifnoCzK2EQ3KUX) | [Historia Músical \- 30 Éxitos](https://open.spotify.com/album/1xNSKvjq7Te0taB7oyocdj) | 4:40 |
+| 59 | [El Merecumbe](https://open.spotify.com/track/6Ni5cSEp0cNutVN0w2578Y) | [Los Melódicos](https://open.spotify.com/artist/4LdArZAC1QPQdyz8JNOYVW), [La Billo's y Los Melodicos](https://open.spotify.com/artist/62okGmZQ0Yr2lQhBUL6h86) | [La Billo's y Los Melodicos de coleccion, vol.1](https://open.spotify.com/album/4oI9hX7GLmynB3iscdKhfY) | 2:37 |
 | 60 | [La Vida Es Un Carnaval](https://open.spotify.com/track/22YrEL6IbDx4axzr8Wpw9M) | [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U) | [Amores Perros \(Soundtrack\)](https://open.spotify.com/album/4ERQo3lv0nHNBZtJjW0doY) | 4:36 |
 | 61 | [Año Nuevo](https://open.spotify.com/track/32LOpPngSkY8V0sIVCVjPb) | [Billo's Caracas Boys](https://open.spotify.com/artist/38zyliF0xdJKS7k1BIEuL6), [Cheo Garcia](https://open.spotify.com/artist/4qmK4DVyKkbpKe2VRanvTR) | [Billos Caracas Boys Fin de Año](https://open.spotify.com/album/4vdoIChGSZtQnOAPnEGe9R) | 2:51 |
 | 62 | [Amparito](https://open.spotify.com/track/7JROzRIIqOlXCLeqKUMhb2) | [Maracaibo 15](https://open.spotify.com/artist/1V6FooKFiokndcPHKJ4Tmz) | [Super Éxitos Maracaibo 15](https://open.spotify.com/album/2eosHIm0MBOnhvbiBANIH5) | 3:12 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0sf2VCrbIti.md) - [plain]
 | 74 | [Cantares de Navidad](https://open.spotify.com/track/0TXwWlwoe7MtGYPHtyDyvi) | [Billo's Caracas Boys](https://open.spotify.com/artist/38zyliF0xdJKS7k1BIEuL6), [Cheo Garcia](https://open.spotify.com/artist/4qmK4DVyKkbpKe2VRanvTR) | [Billos Caracas Boys Fin de Año](https://open.spotify.com/album/4vdoIChGSZtQnOAPnEGe9R) | 2:53 |
 | 75 | [Blanca Navidad](https://open.spotify.com/track/5wGw97pjNm9kdtv9DbpvYF) | [st\. Pedro](https://open.spotify.com/artist/6jbd3DVthY6pIVjjCnNDRK) | [st\. Pedro's Christmas Special](https://open.spotify.com/album/0EtuT9P5H53CHMbfSFB49O) | 3:18 |
 
-Snapshot ID: `MCw1ODc2MDc3Mjk3ZjQ1ZGJmMWQ1ZTQyNjkxNzhiMjMyN2I1NTIzMjJh`
+Snapshot ID: `MCwyMTNjZDA1YTZkYWNiMDc5OWI4MjA2NDM1ZGJhM2Q5MDczMTUyYTYy`

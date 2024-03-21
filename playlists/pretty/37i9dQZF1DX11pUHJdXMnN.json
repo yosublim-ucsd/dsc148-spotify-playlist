@@ -1,12 +1,12 @@
 {
   "description": "House and disco jams with an 80s-infused retro flavour.",
-  "num_followers": 63622,
+  "num_followers": 63638,
   "original_name": "Laser Disco",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4OWFjZDU3NzgwYjk2MWVmNTBmNjMxNmNiNjBkY2VhMjIzMTA4ZjVl",
+  "snapshot_id": "MCwwZTAxMDI5Y2E5NDMxYjg3YjI1MzEwYmVlZWVjYWFkMTkxYWViZTI0",
   "tracks": [
     {
       "added_at": "2021-08-27 15:45:01",
@@ -51,26 +51,6 @@
     {
       "added_at": "2021-08-27 15:45:01",
       "album": {
-        "name": "Modern Romance",
-        "url": "https://open.spotify.com/album/5JPxDmfJuWSErtOyRTeYuz"
-      },
-      "artists": [
-        {
-          "name": "Catz 'n Dogz",
-          "url": "https://open.spotify.com/artist/5tYqFEuFELxnJZgGmmsfSh"
-        },
-        {
-          "name": "Gerd Janson",
-          "url": "https://open.spotify.com/artist/4jLpm91Tyk2TRgv43bMfZO"
-        }
-      ],
-      "duration_ms": 214049,
-      "name": "Modern Romance",
-      "url": "https://open.spotify.com/track/4CL7IheP2ryGEcMVOoAOUZ"
-    },
-    {
-      "added_at": "2021-08-27 15:45:01",
-      "album": {
         "name": "Picture: Adana Twins",
         "url": "https://open.spotify.com/album/7LeRETJbVIV65oGiA4I398"
       },
@@ -87,6 +67,26 @@
       "duration_ms": 515086,
       "name": "My Computer",
       "url": "https://open.spotify.com/track/1gOXDP9vNetHU8O9wUxVEN"
+    },
+    {
+      "added_at": "2021-08-27 15:45:01",
+      "album": {
+        "name": "Modern Romance",
+        "url": "https://open.spotify.com/album/5JPxDmfJuWSErtOyRTeYuz"
+      },
+      "artists": [
+        {
+          "name": "Catz 'n Dogz",
+          "url": "https://open.spotify.com/artist/5tYqFEuFELxnJZgGmmsfSh"
+        },
+        {
+          "name": "Gerd Janson",
+          "url": "https://open.spotify.com/artist/4jLpm91Tyk2TRgv43bMfZO"
+        }
+      ],
+      "duration_ms": 214049,
+      "name": "Modern Romance",
+      "url": "https://open.spotify.com/track/4CL7IheP2ryGEcMVOoAOUZ"
     },
     {
       "added_at": "2021-08-27 15:45:01",
@@ -207,26 +207,6 @@
     {
       "added_at": "2021-08-27 15:45:01",
       "album": {
-        "name": "Mixmag Presents Teddy Pendergrass: The Remixes - EP",
-        "url": "https://open.spotify.com/album/1pwd4Ug25kzaZbdHDhT1Ho"
-      },
-      "artists": [
-        {
-          "name": "Teddy Pendergrass",
-          "url": "https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ"
-        },
-        {
-          "name": "Jamie Jones",
-          "url": "https://open.spotify.com/artist/4admDxmnri5Zco0xYrJ0ji"
-        }
-      ],
-      "duration_ms": 527986,
-      "name": "Life Is A Song Worth Singing - Jamie Jones Remix",
-      "url": "https://open.spotify.com/track/3MN8hmy8vFs0GcZhVxWLlh"
-    },
-    {
-      "added_at": "2021-08-27 15:45:01",
-      "album": {
         "name": "Floppy Drive EP",
         "url": "https://open.spotify.com/album/0ErgbkothTs8lmPXfQ9jh0"
       },
@@ -243,6 +223,26 @@
       "duration_ms": 342032,
       "name": "Floppy - Marlon Hoffstadt's Energy Bells Mix",
       "url": "https://open.spotify.com/track/05oMU1d1NpzI2JgOUZgbc9"
+    },
+    {
+      "added_at": "2021-08-27 15:45:01",
+      "album": {
+        "name": "Mixmag Presents Teddy Pendergrass: The Remixes - EP",
+        "url": "https://open.spotify.com/album/1pwd4Ug25kzaZbdHDhT1Ho"
+      },
+      "artists": [
+        {
+          "name": "Teddy Pendergrass",
+          "url": "https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ"
+        },
+        {
+          "name": "Jamie Jones",
+          "url": "https://open.spotify.com/artist/4admDxmnri5Zco0xYrJ0ji"
+        }
+      ],
+      "duration_ms": 527986,
+      "name": "Life Is A Song Worth Singing - Jamie Jones Remix",
+      "url": "https://open.spotify.com/track/3MN8hmy8vFs0GcZhVxWLlh"
     },
     {
       "added_at": "2021-08-27 15:45:01",
@@ -523,22 +523,6 @@
     {
       "added_at": "2021-08-27 15:45:01",
       "album": {
-        "name": "Know You",
-        "url": "https://open.spotify.com/album/4sKMxklSRDAv0IKuyoBDbm"
-      },
-      "artists": [
-        {
-          "name": "Lauer",
-          "url": "https://open.spotify.com/artist/36rey1TxHa81Az8CqZpsJ4"
-        }
-      ],
-      "duration_ms": 224262,
-      "name": "Know You",
-      "url": "https://open.spotify.com/track/08udjG9UxRjd2kdxCGCmUk"
-    },
-    {
-      "added_at": "2021-08-27 15:45:01",
-      "album": {
         "name": "Forgive Me",
         "url": "https://open.spotify.com/album/1pZQjsbqDLVwlXOp8SU7RQ"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 339391,
       "name": "Forgive Me",
       "url": "https://open.spotify.com/track/1Mua8IC1yJW6buvktiTQHH"
+    },
+    {
+      "added_at": "2021-08-27 15:45:01",
+      "album": {
+        "name": "Know You",
+        "url": "https://open.spotify.com/album/4sKMxklSRDAv0IKuyoBDbm"
+      },
+      "artists": [
+        {
+          "name": "Lauer",
+          "url": "https://open.spotify.com/artist/36rey1TxHa81Az8CqZpsJ4"
+        }
+      ],
+      "duration_ms": 224262,
+      "name": "Know You",
+      "url": "https://open.spotify.com/track/08udjG9UxRjd2kdxCGCmUk"
     },
     {
       "added_at": "2021-08-27 15:45:01",

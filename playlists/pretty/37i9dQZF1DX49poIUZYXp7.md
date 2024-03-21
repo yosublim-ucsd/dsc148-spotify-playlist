@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX49poIUZYXp7.md) - [plain]
 
 > The extraordinary women making great country music today\. Cover: MacKenzie Porter
 
-[Spotify](https://open.spotify.com/user/spotify) - 485,355 likes - 100 songs - 5 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 485,443 likes - 100 songs - 5 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,16 +73,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX49poIUZYXp7.md) - [plain]
 | 63 | [Why Johnny](https://open.spotify.com/track/3yCcJIX6VbB1DKXrIsm0BE) | [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0) | [Lucky](https://open.spotify.com/album/5DFed53ADZwnPOYuqoZJHK) | 4:01 |
 | 64 | [I’m In Love](https://open.spotify.com/track/5uTQC24DoCTc287oH8Xpp4) | [Hailey Whitters](https://open.spotify.com/artist/4e9TBaTlI3LVQz3tkTYC0I) | [I'm In Love](https://open.spotify.com/album/3lZesmHhJf50RFYGvocRsM) | 2:26 |
 | 65 | [I'm A Survivor](https://open.spotify.com/track/7DNp5wliOrg01iwvUnL3Tn) | [Reba McEntire](https://open.spotify.com/artist/02rd0anEWfMtF7iMku9uor) | [Greatest Hits Volume III \- I'm A Survivor](https://open.spotify.com/album/6VQsBmCjBblHpGHDG2wjFj) | 3:07 |
-| 66 | [hole in the bottle \(with Shania Twain\)](https://open.spotify.com/track/2bV4NwncWMnVvcWyU2yxwB) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF), [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [hole in the bottle \(with Shania Twain\)](https://open.spotify.com/album/16by1M7adOE6AeoyLzQZVc) | 2:36 |
-| 67 | [Should’ve Known Better](https://open.spotify.com/track/6ihxXxSjslaVYd3oaAHCMT) | [Carly Pearce](https://open.spotify.com/artist/4sIl4BTo9l9KqEi0Y3RE72) | [29](https://open.spotify.com/album/4d9k0jS5GUloTE0JRqncyn) | 3:01 |
-| 68 | [Love Triangle](https://open.spotify.com/track/3YM0vEH7taFj7OLW3dWfiu) | [RaeLynn](https://open.spotify.com/artist/5dMnvpYEfXvSexjwnSRH5n) | [WildHorse](https://open.spotify.com/album/12TcV1G3QfZ48XweN8kyp4) | 3:45 |
+| 66 | [Should’ve Known Better](https://open.spotify.com/track/6ihxXxSjslaVYd3oaAHCMT) | [Carly Pearce](https://open.spotify.com/artist/4sIl4BTo9l9KqEi0Y3RE72) | [29](https://open.spotify.com/album/4d9k0jS5GUloTE0JRqncyn) | 3:01 |
+| 67 | [hole in the bottle \(with Shania Twain\)](https://open.spotify.com/track/2bV4NwncWMnVvcWyU2yxwB) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF), [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [hole in the bottle \(with Shania Twain\)](https://open.spotify.com/album/16by1M7adOE6AeoyLzQZVc) | 2:36 |
+| 68 | [Who I Am](https://open.spotify.com/track/0rK4HCKzv2r1IXqKX3DKpq) | [Jessica Andrews](https://open.spotify.com/artist/5rNhVm2CnqiO5Lv4Dt2lck) | [Who I Am](https://open.spotify.com/album/2jv2pSKJiOhmmol92202Vy) | 4:15 |
 | 69 | [The Bones](https://open.spotify.com/track/7yFhA2fUsL2oIMWlw5DaHQ) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [GIRL](https://open.spotify.com/album/3XpxioqzCTiqOSuHTXuaGf) | 3:17 |
 | 70 | [Sober & Skinny](https://open.spotify.com/track/4HQesVjCWOSKvzqirkvuP9) | [Brittney Spencer](https://open.spotify.com/artist/6YM5gRpMJkP0kUWRcvlHT3) | [Sober & Skinny](https://open.spotify.com/album/59FsWHitAiywqK2AFSqci0) | 3:18 |
-| 71 | [Who I Am](https://open.spotify.com/track/0rK4HCKzv2r1IXqKX3DKpq) | [Jessica Andrews](https://open.spotify.com/artist/5rNhVm2CnqiO5Lv4Dt2lck) | [Who I Am](https://open.spotify.com/album/2jv2pSKJiOhmmol92202Vy) | 4:15 |
+| 71 | [Love Triangle](https://open.spotify.com/track/3YM0vEH7taFj7OLW3dWfiu) | [RaeLynn](https://open.spotify.com/artist/5dMnvpYEfXvSexjwnSRH5n) | [WildHorse](https://open.spotify.com/album/12TcV1G3QfZ48XweN8kyp4) | 3:45 |
 | 72 | [Giddy Up!](https://open.spotify.com/track/4NdJlsPyvXz15LySCNoL2W) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Giddy Up!](https://open.spotify.com/album/55ur1fpimHIf1A63SP2Xwy) | 2:42 |
 | 73 | [Thicc As Thieves \(feat\. Lainey Wilson\)](https://open.spotify.com/track/0NgdKtJy6pKBvWhcVuQbxd) | [Lauren Alaina](https://open.spotify.com/artist/1v3tdpIdBSW14rHUfiEVOv), [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Unlocked](https://open.spotify.com/album/4fR3GxUk6IUdNtcCOtKhIq) | 2:59 |
-| 74 | [I'm Not Pretty](https://open.spotify.com/track/7Fh8xCGwV1QHuhBPKu1i4m) | [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0) | [I'm Not Pretty](https://open.spotify.com/album/5MeMW5FhAjGpX9uoe3XAFW) | 3:01 |
-| 75 | [Lady Like](https://open.spotify.com/track/7c3Y6INQrmNXDAOquinyw4) | [Ingrid Andress](https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii) | [Lady Like](https://open.spotify.com/album/6qon3hv0lhwK8o57PvVWZl) | 3:14 |
+| 74 | [Lady Like](https://open.spotify.com/track/7c3Y6INQrmNXDAOquinyw4) | [Ingrid Andress](https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii) | [Lady Like](https://open.spotify.com/album/6qon3hv0lhwK8o57PvVWZl) | 3:14 |
+| 75 | [I'm Not Pretty](https://open.spotify.com/track/7Fh8xCGwV1QHuhBPKu1i4m) | [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0) | [I'm Not Pretty](https://open.spotify.com/album/5MeMW5FhAjGpX9uoe3XAFW) | 3:01 |
 | 76 | [Shoot Tequila](https://open.spotify.com/track/6nTul7GTW3DInboBkJvvHw) | [Tigirlily Gold](https://open.spotify.com/artist/0z4vOhwPxS2J5ULMg8edzb) | [Shoot Tequila](https://open.spotify.com/album/6qm6WlvE5XIrFEoYTcKT2Q) | 3:13 |
 | 77 | [Sayin’ What I’m Thinkin’](https://open.spotify.com/track/5AzFlhzijKM7xFPY5b1taP) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Sayin’ What I’m Thinkin’](https://open.spotify.com/album/2WBvIseHSAwsPP4YbNgZXR) | 3:21 |
 | 78 | [Just Drive](https://open.spotify.com/track/6JSH36hKFusIabTu1egYO5) | [Erin Kinsey](https://open.spotify.com/artist/5TtSGhhCPt56x4ZPfg7DFq) | [Just Drive](https://open.spotify.com/album/0qI3s1Bbvq8En1KWpJ4qVy) | 2:27 |
@@ -93,8 +93,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX49poIUZYXp7.md) - [plain]
 | 83 | [YOU'RE DRUNK, GO HOME](https://open.spotify.com/track/0XVBahLtPyfg5m1LxPxRTd) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF), [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX), [Carly Pearce](https://open.spotify.com/artist/4sIl4BTo9l9KqEi0Y3RE72) | [SUBJECT TO CHANGE](https://open.spotify.com/album/6twfTQ122kNcHAUXjFbe8a) | 2:55 |
 | 84 | [Greener Pasture](https://open.spotify.com/track/3fA0FKdkPmBa62MSxwewKE) | [Carter Faith](https://open.spotify.com/artist/4X5CTYQmx1NNyz9S1IpNko) | [Greener Pasture](https://open.spotify.com/album/2ua2VjahAuE1LsjiGIQWu3) | 3:09 |
 | 85 | [Villain](https://open.spotify.com/track/0Fu3jq4NeOLatOXiLWVLO3) | [Lily Rose](https://open.spotify.com/artist/3lkwNhvm2fbh4q8CIe47n3) | [Stronger Than I Am](https://open.spotify.com/album/1nBPIUJHyWiD0bvhQ8lGIg) | 2:56 |
-| 86 | [Love You a Little Bit](https://open.spotify.com/track/5U8jzduwcqML3oi3yY1wDP) | [Tanner Adell](https://open.spotify.com/artist/5xKVALj2MSqOHmQhburCM8) | [BUCKLE BUNNY \(DELUXE\)](https://open.spotify.com/album/2GBaNzYtAW6NgOW4VHxnlq) | 3:30 |
-| 87 | [Martha Divine](https://open.spotify.com/track/7cokvE1fABqkJL8FgUiBcS) | [Ashley McBryde](https://open.spotify.com/artist/371jpyGdoChzUASOIG2ECV) | [Never Will](https://open.spotify.com/album/0GETdJ0C2pHIqCFLoUa0rP) | 3:37 |
+| 86 | [Martha Divine](https://open.spotify.com/track/7cokvE1fABqkJL8FgUiBcS) | [Ashley McBryde](https://open.spotify.com/artist/371jpyGdoChzUASOIG2ECV) | [Never Will](https://open.spotify.com/album/0GETdJ0C2pHIqCFLoUa0rP) | 3:37 |
+| 87 | [Love You a Little Bit](https://open.spotify.com/track/5U8jzduwcqML3oi3yY1wDP) | [Tanner Adell](https://open.spotify.com/artist/5xKVALj2MSqOHmQhburCM8) | [BUCKLE BUNNY \(DELUXE\)](https://open.spotify.com/album/2GBaNzYtAW6NgOW4VHxnlq) | 3:30 |
 | 88 | [Back Then, Right Now](https://open.spotify.com/track/3wgo9ePs5s7OMO6yHQJB1T) | [Tenille Arts](https://open.spotify.com/artist/0gSAxSvAApQc71cTpoXDFu) | [Girl to Girl](https://open.spotify.com/album/4KOYQ5wkg84yhv2klrUNGN) | 3:02 |
 | 89 | [You Can Have Him Jolene](https://open.spotify.com/track/1A4sU22TOu9GUqQeZYqqoa) | [Chapel Hart](https://open.spotify.com/artist/1Xc3WbacoW8ISqReb7Hjpj) | [The Girls Are Back in Town](https://open.spotify.com/album/2AVfLcUhMj7QZ1sBgH8tPK) | 3:12 |
 | 90 | [The Girl I Was](https://open.spotify.com/track/7gtrZllO63cTGVeFsy8da0) | [Jenna Paulette](https://open.spotify.com/artist/6wCypaPtud9fC2djKw9PDX) | [The Girl I Was](https://open.spotify.com/album/2T16hAVVFc1j9YzSjaBdcs) | 3:38 |
@@ -102,11 +102,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX49poIUZYXp7.md) - [plain]
 | 92 | [HEARTFIRST](https://open.spotify.com/track/1S55d7hhptRt8PS6nC1fSY) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [HEARTFIRST](https://open.spotify.com/album/34lEWEkrMZmB2WTzMXsk2s) | 3:07 |
 | 93 | [Lucky](https://open.spotify.com/track/6DE1vkPkMn2I77360IBb8t) | [Elle King](https://open.spotify.com/artist/3bhu7P5PfngueRHiB9hjcx) | [Come Get Your Wife](https://open.spotify.com/album/5vpynwbpUceBDNOkh9TMR5) | 3:14 |
 | 94 | [Pickup](https://open.spotify.com/track/2kEhQe0BVtY8IIaFE5ALA0) | [MacKenzie Porter](https://open.spotify.com/artist/6nXco5Q3cJJ0ZutnBOsSpq) | [Pickup](https://open.spotify.com/album/75yTVtHRGlobA0IvgGG59X) | 2:48 |
-| 95 | [heels over head](https://open.spotify.com/track/4QShZHQERrTVI2IDzWmbzJ) | [Carly Pearce](https://open.spotify.com/artist/4sIl4BTo9l9KqEi0Y3RE72) | [heels over head](https://open.spotify.com/album/79CHHS2PirPGS6zHSgHogt) | 3:14 |
-| 96 | [Worth It](https://open.spotify.com/track/1squCbXxHkHAO0VYRjTl2S) | [Colbie Caillat](https://open.spotify.com/artist/6aZyMrc4doVtZyKNilOmwu) | [Worth It](https://open.spotify.com/album/3cA8ijJVzxkCtV9CePO8If) | 3:03 |
+| 95 | [Worth It](https://open.spotify.com/track/1squCbXxHkHAO0VYRjTl2S) | [Colbie Caillat](https://open.spotify.com/artist/6aZyMrc4doVtZyKNilOmwu) | [Worth It](https://open.spotify.com/album/3cA8ijJVzxkCtV9CePO8If) | 3:03 |
+| 96 | [heels over head](https://open.spotify.com/track/4QShZHQERrTVI2IDzWmbzJ) | [Carly Pearce](https://open.spotify.com/artist/4sIl4BTo9l9KqEi0Y3RE72) | [heels over head](https://open.spotify.com/album/79CHHS2PirPGS6zHSgHogt) | 3:14 |
 | 97 | [Fix You Too](https://open.spotify.com/track/5omVNcqZuJUeAP6WUOMaXA) | [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0) | [Pistol Made of Roses](https://open.spotify.com/album/2r8MHSTtnErtLRIhwR2P9E) | 3:07 |
 | 98 | [Too Much And Not Enough](https://open.spotify.com/track/6UL8AQO0xpwUKx4Tt4Onx8) | [Hannah Ellis](https://open.spotify.com/artist/6jHWWttC33OQdEDnUXtYrq) | [Too Much And Not Enough](https://open.spotify.com/album/7digMEty8FrKfhF1O4364r) | 3:00 |
 | 99 | [Circles Around This Town](https://open.spotify.com/track/13G5xv1wUKvJYbK0wYmioN) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [Circles Around This Town](https://open.spotify.com/album/2MeNs8IOs7udC2CuiFKmlZ) | 3:15 |
 | 100 | [Bridesmaids](https://open.spotify.com/track/6qrJ2kxNvGey8ZEWii5teB) | [Kylie Morgan](https://open.spotify.com/artist/3g2yaL04Uapb5fxmwsUZgV) | [Bridesmaids](https://open.spotify.com/album/0VdFcNM19RTRUlX59heg5A) | 2:50 |
 
-Snapshot ID: `MCxhNzAzOGNiY2Q3ZTYyNmVhNGU4YWM3NmE5Yjk5YWY5NGNhOTZkMDVm`
+Snapshot ID: `MCwzMGExNzczYjA2YmU4NTRhMmYyNDg3NzQ4MTgzNjBiODQ4N2U0YjJi`

@@ -1,12 +1,12 @@
 {
   "description": "Various sounds, various decades, but with one thing in common: pure rock & roll.",
-  "num_followers": 1571590,
+  "num_followers": 1571723,
   "original_name": "Pure Rock & Roll",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkODk5NWE5NTA5MWQ3MjQ2MDVjYzg3NmJiOTYzYWUzMzQxMWEwMjky",
+  "snapshot_id": "MCw1M2FlNjRjMWIyMjk1MzI0OTUwYWI5ZjkwMGJiYTYxMGFiZDg2MzY2",
   "tracks": [
     {
       "added_at": "2024-02-16 17:18:12",
@@ -1259,18 +1259,18 @@
     {
       "added_at": "2024-02-16 17:18:12",
       "album": {
-        "name": "The Best Of Everything - The Definitive Career Spanning Hits Collection 1976-2016",
-        "url": "https://open.spotify.com/album/32OhZ2CWxc259H9w52JMTH"
+        "name": "Permanent Vacation",
+        "url": "https://open.spotify.com/album/3XYqOJI1YlX40kJTdzFEzp"
       },
       "artists": [
         {
-          "name": "Tom Petty",
-          "url": "https://open.spotify.com/artist/2UZMlIwnkgAEDBsw1Rejkn"
+          "name": "Aerosmith",
+          "url": "https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH"
         }
       ],
-      "duration_ms": 261812,
-      "name": "Runnin' Down A Dream",
-      "url": "https://open.spotify.com/track/5yAu4njFSdM47dfsTkQPZ2"
+      "duration_ms": 265773,
+      "name": "Dude (Looks Like A Lady)",
+      "url": "https://open.spotify.com/track/6gQUbFwwdYXlKdmqRoWKJe"
     },
     {
       "added_at": "2024-02-16 17:18:12",
@@ -1291,18 +1291,18 @@
     {
       "added_at": "2024-02-16 17:18:12",
       "album": {
-        "name": "Permanent Vacation",
-        "url": "https://open.spotify.com/album/3XYqOJI1YlX40kJTdzFEzp"
+        "name": "The Best Of Everything - The Definitive Career Spanning Hits Collection 1976-2016",
+        "url": "https://open.spotify.com/album/32OhZ2CWxc259H9w52JMTH"
       },
       "artists": [
         {
-          "name": "Aerosmith",
-          "url": "https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH"
+          "name": "Tom Petty",
+          "url": "https://open.spotify.com/artist/2UZMlIwnkgAEDBsw1Rejkn"
         }
       ],
-      "duration_ms": 265773,
-      "name": "Dude (Looks Like A Lady)",
-      "url": "https://open.spotify.com/track/6gQUbFwwdYXlKdmqRoWKJe"
+      "duration_ms": 261812,
+      "name": "Runnin' Down A Dream",
+      "url": "https://open.spotify.com/track/5yAu4njFSdM47dfsTkQPZ2"
     },
     {
       "added_at": "2024-02-16 17:18:12",
@@ -1467,22 +1467,6 @@
     {
       "added_at": "2024-02-16 17:18:12",
       "album": {
-        "name": "Up Your Alley",
-        "url": "https://open.spotify.com/album/2pkv3nrNrwtUdT8VNWwt5U"
-      },
-      "artists": [
-        {
-          "name": "Joan Jett & the Blackhearts",
-          "url": "https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K"
-        }
-      ],
-      "duration_ms": 246800,
-      "name": "I Hate Myself for Loving You",
-      "url": "https://open.spotify.com/track/2HXixVqzzm9rEUIMAWzshl"
-    },
-    {
-      "added_at": "2024-02-16 17:18:12",
-      "album": {
         "name": "Drones",
         "url": "https://open.spotify.com/album/2wart5Qjnvx1fd7LPdQxgJ"
       },
@@ -1495,6 +1479,22 @@
       "duration_ms": 316717,
       "name": "Psycho",
       "url": "https://open.spotify.com/track/383QXk8nb2YrARMUwDdjQS"
+    },
+    {
+      "added_at": "2024-02-16 17:18:12",
+      "album": {
+        "name": "Up Your Alley",
+        "url": "https://open.spotify.com/album/2pkv3nrNrwtUdT8VNWwt5U"
+      },
+      "artists": [
+        {
+          "name": "Joan Jett & the Blackhearts",
+          "url": "https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K"
+        }
+      ],
+      "duration_ms": 246800,
+      "name": "I Hate Myself for Loving You",
+      "url": "https://open.spotify.com/track/2HXixVqzzm9rEUIMAWzshl"
     },
     {
       "added_at": "2024-02-16 17:18:12",

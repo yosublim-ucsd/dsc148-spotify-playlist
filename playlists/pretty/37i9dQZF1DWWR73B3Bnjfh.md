@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWR73B3Bnjfh.md) - [plain]
 
 > The melancholic and soft sound of Jazz.
 
-[Spotify](https://open.spotify.com/user/spotify) - 170,986 likes - 75 songs - 7 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 171,166 likes - 75 songs - 7 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,10 +45,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWR73B3Bnjfh.md) - [plain]
 | 35 | [Violets For Your Furs \- Rudy Van Gelder Remaster](https://open.spotify.com/track/1Rw4pwzS1yBPlncFAuIGlU) | [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf) | [Coltrane \[Rudy Van Gelder Remaster\]](https://open.spotify.com/album/012Zmc4xCOiJaR4wlnbtWg) | 6:15 |
 | 36 | [What's The Rush](https://open.spotify.com/track/7yRMYF0BqrqPjinbG9Ja3Z) | [Johnny Hodges](https://open.spotify.com/artist/7lRFrrINQTY35g8hq0kXY5), [Gerry Mulligan](https://open.spotify.com/artist/6l40OFJhuTbHQ9V12evc9K) | [Keep Calm with Jazz](https://open.spotify.com/album/6Id96zESyjAKNBGB427Tfo) | 3:42 |
 | 37 | [Old Folks \(feat\. Hank Mobley, Wynton Kelly, Paul Chambers & Jimmy Cobb\)](https://open.spotify.com/track/4mh17mzDplLjImZg1I3ivP) | [Miles Davis](https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4), [Hank Mobley](https://open.spotify.com/artist/5cbutZUQE7SUCA6MsEMbBv), [Wynton Kelly](https://open.spotify.com/artist/5ncBRFyyylFng7kQJaRXN0), [Paul Chambers](https://open.spotify.com/artist/0M1UOBJZ9tcKJbrbnVlHZG), [Jimmy Cobb](https://open.spotify.com/artist/7KLg0R9RSUabK2CG2MTbBJ) | [Someday My Prince Will Come](https://open.spotify.com/album/68A4o4tkirJRFYbO9Ag0YZ) | 5:14 |
-| 38 | [I Can't Get Started](https://open.spotify.com/track/5GdBh0ggpl7pIXNFecn1zk) | [Lee Konitz](https://open.spotify.com/artist/4YNvbaOaqp5pzC5US5t48k), [Warne Marsh](https://open.spotify.com/artist/1yVmVSKnpfLDIAbghFMN3D) | [Lee Konitz with Warne Marsh](https://open.spotify.com/album/1O14t3H4XZuiJb8LKImB1c) | 3:55 |
+| 38 | [Don't Blame Me \- Remastered 2023](https://open.spotify.com/track/47qMNoveAg2Ek9LtURD3mt) | [Yusef Lateef](https://open.spotify.com/artist/33XkS6h90eeK7e6OJHw0mq) | [Eastern Sounds \(Remastered 2023\)](https://open.spotify.com/album/7Dd9kbH46vk4fIA9esp3rf) | 4:57 |
 | 39 | [Something I Dreamed Last Night](https://open.spotify.com/track/1ve0606S2phkNq4AoTRS3V) | [Miles Davis Quintet](https://open.spotify.com/artist/71Ur25Abq58vksqJINpGdx) | [Steamin' \[Rudy Van Gelder edition\]](https://open.spotify.com/album/6KJgxZYve2dbchVjw3MxBQ) | 6:11 |
-| 40 | [I Should Care](https://open.spotify.com/track/7tDQECVWJrDYkwzdJMWkEK) | [Hank Mobley](https://open.spotify.com/artist/5cbutZUQE7SUCA6MsEMbBv) | [Music For Lovers](https://open.spotify.com/album/0DNcDpKHbwG5lBz8sZnWga) | 7:42 |
-| 41 | [Don't Blame Me \- Remastered 2023](https://open.spotify.com/track/47qMNoveAg2Ek9LtURD3mt) | [Yusef Lateef](https://open.spotify.com/artist/33XkS6h90eeK7e6OJHw0mq) | [Eastern Sounds \(Remastered 2023\)](https://open.spotify.com/album/7Dd9kbH46vk4fIA9esp3rf) | 4:57 |
+| 40 | [I Can't Get Started](https://open.spotify.com/track/5GdBh0ggpl7pIXNFecn1zk) | [Lee Konitz](https://open.spotify.com/artist/4YNvbaOaqp5pzC5US5t48k), [Warne Marsh](https://open.spotify.com/artist/1yVmVSKnpfLDIAbghFMN3D) | [Lee Konitz with Warne Marsh](https://open.spotify.com/album/1O14t3H4XZuiJb8LKImB1c) | 3:55 |
+| 41 | [I Should Care](https://open.spotify.com/track/7tDQECVWJrDYkwzdJMWkEK) | [Hank Mobley](https://open.spotify.com/artist/5cbutZUQE7SUCA6MsEMbBv) | [Music For Lovers](https://open.spotify.com/album/0DNcDpKHbwG5lBz8sZnWga) | 7:42 |
 | 42 | [I Guess I'll Hang My Tears Out To Dry](https://open.spotify.com/track/3uPR8dQXnM4DhBFfiBEDmh) | [Cannonball Adderley Quartet](https://open.spotify.com/artist/7F2B7VhQySTBRaqJqv4NDR) | [Cannonball Takes Charge](https://open.spotify.com/album/2nrR6HvGvjglD7umMvdj66) | 5:34 |
 | 43 | [Prisoner Of Love](https://open.spotify.com/track/6lO3wImM4oMAhOzDptCqa6) | [Coleman Hawkins](https://open.spotify.com/artist/0JM134st8VY7Ld9T2wQiH0), [Ben Webster](https://open.spotify.com/artist/34W7ZCX0LZeJd8q6boKGOk) | [Coleman Hawkins Encounters Ben Webster \(Expanded Edition\)](https://open.spotify.com/album/5AmT3edRjRxnDR2ZVW3QJZ) | 4:12 |
 | 44 | [Spring Is Here](https://open.spotify.com/track/6NVHxwaBkfTIINMCmZ1JUl) | [Bill Evans](https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF), [Scott LaFaro](https://open.spotify.com/artist/4g7uUySyORXh2KgDEhgxXa), [Paul Motian](https://open.spotify.com/artist/4VIPZJwfn4EGbJxYVHJ0WX) | [Portrait In Jazz \[Keepnews Collection\]](https://open.spotify.com/album/7dlYNvbD4QYDL3sSkTCjxi) | 5:09 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWR73B3Bnjfh.md) - [plain]
 | 74 | [Round Midnight](https://open.spotify.com/track/0f8yEumFr2Wvzq0rIDiVxy) | [Joe Henderson](https://open.spotify.com/artist/3BG0nwVh3Gc7cuT4XdsLtt), [Al Foster](https://open.spotify.com/artist/4PqV4TEgVltnn4N47ODKV6), [Rufus Reid](https://open.spotify.com/artist/7mcseJPsc7KCQrITzrOrWg) | [The Standard Joe](https://open.spotify.com/album/3sVNad4AWMQvwIpAa8dUzK) | 8:50 |
 | 75 | [When Joanna Loved Me](https://open.spotify.com/track/2rxK2vd9P8QM1TEbyGFjoY) | [Paul Desmond](https://open.spotify.com/artist/68l2i6GeNtwQlhKS59u5bu), [Jim Hall](https://open.spotify.com/artist/5pMmqpG3HsoJ6EDDoXGXEr), [Eugene Wright](https://open.spotify.com/artist/3Bx84JkzpCnEzS2bTIHI53), [Connie Kay](https://open.spotify.com/artist/7txdgV9R0IGjkZ8R6rPake) | [Falling In Love With Paul Desmond](https://open.spotify.com/album/38SK483XET4r7jzPXaz8rc) | 5:43 |
 
-Snapshot ID: `MCxkZGQxMWFlZDYwMTUzNGM3ZjMyYmQ1MGVkYTQ4ZjVhZWJkNDE2YTdl`
+Snapshot ID: `MCwzMGU3OWVjYTU2M2M2Mjc4YWFiYTYzZGJkNDVmZGY2NDExM2U4MWY3`

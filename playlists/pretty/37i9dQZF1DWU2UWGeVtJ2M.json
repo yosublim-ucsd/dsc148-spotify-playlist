@@ -1,12 +1,12 @@
 {
   "description": "\u8a66\u8457\u62cb\u958b\u6240\u6709\u7169\u60f1\uff0c\u914d\u4e0a\u4e00\u9ede\u7279\u610f\u7684\u5c0f\u78ba\u5e78\uff0c\u9019\u4e00\u523b\u53ea\u5c6c\u65bc\u4f60...",
-  "num_followers": 158607,
+  "num_followers": 158639,
   "original_name": "\u6211\u7684\u5fae\u91ba\u591c",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3NjVlNjhiMzRhMzY5ZjI2MjJlMjhkZWFiNTNiMjFhMGU2YzE1NGY2",
+  "snapshot_id": "MCw2MDNhY2VlM2YxZjVkMzlmYjc2YjE5MGQ3NTM2YTZlNmNhODQ2ZTNj",
   "tracks": [
     {
       "added_at": "2024-03-18 03:01:56",
@@ -883,6 +883,22 @@
     {
       "added_at": "2024-03-18 03:01:56",
       "album": {
+        "name": "GRADIENT",
+        "url": "https://open.spotify.com/album/57nzYauMih1wJFVYtIXQ5g"
+      },
+      "artists": [
+        {
+          "name": "Josh Makazo",
+          "url": "https://open.spotify.com/artist/6xx5onyQzBbqxee5Ogqouv"
+        }
+      ],
+      "duration_ms": 177777,
+      "name": "Human Nature",
+      "url": "https://open.spotify.com/track/3t52A63M852sUyVOYWPheG"
+    },
+    {
+      "added_at": "2024-03-18 03:01:56",
+      "album": {
         "name": "Broken Hearts Club",
         "url": "https://open.spotify.com/album/04xudYiCT2xyEVfF5Ov14Y"
       },
@@ -899,22 +915,6 @@
       "duration_ms": 203036,
       "name": "Out Loud (feat. Kehlani)",
       "url": "https://open.spotify.com/track/0P11qKeHWhUy0rDPeY8dyB"
-    },
-    {
-      "added_at": "2024-03-18 03:01:56",
-      "album": {
-        "name": "GRADIENT",
-        "url": "https://open.spotify.com/album/57nzYauMih1wJFVYtIXQ5g"
-      },
-      "artists": [
-        {
-          "name": "Josh Makazo",
-          "url": "https://open.spotify.com/artist/6xx5onyQzBbqxee5Ogqouv"
-        }
-      ],
-      "duration_ms": 177777,
-      "name": "Human Nature",
-      "url": "https://open.spotify.com/track/3t52A63M852sUyVOYWPheG"
     },
     {
       "added_at": "2024-03-18 03:01:56",
@@ -1175,22 +1175,6 @@
     {
       "added_at": "2024-03-18 03:01:56",
       "album": {
-        "name": "So Sunshine",
-        "url": "https://open.spotify.com/album/3tw7ZPvVJo1DqIZvdE6cos"
-      },
-      "artists": [
-        {
-          "name": "HNNY",
-          "url": "https://open.spotify.com/artist/6Yae9Ia1nq6JLLojBzwN1r"
-        }
-      ],
-      "duration_ms": 136007,
-      "name": "So",
-      "url": "https://open.spotify.com/track/3fDHHkOEw2Fr8km3T4ixYQ"
-    },
-    {
-      "added_at": "2024-03-18 03:01:56",
-      "album": {
         "name": "Simple Things",
         "url": "https://open.spotify.com/album/1VRBB9iu84o3g16CczH9iH"
       },
@@ -1203,6 +1187,22 @@
       "duration_ms": 317400,
       "name": "Give It Away",
       "url": "https://open.spotify.com/track/2dYexYOVMItMNUvGXl4gtR"
+    },
+    {
+      "added_at": "2024-03-18 03:01:56",
+      "album": {
+        "name": "So Sunshine",
+        "url": "https://open.spotify.com/album/3tw7ZPvVJo1DqIZvdE6cos"
+      },
+      "artists": [
+        {
+          "name": "HNNY",
+          "url": "https://open.spotify.com/artist/6Yae9Ia1nq6JLLojBzwN1r"
+        }
+      ],
+      "duration_ms": 136007,
+      "name": "So",
+      "url": "https://open.spotify.com/track/3fDHHkOEw2Fr8km3T4ixYQ"
     },
     {
       "added_at": "2024-03-18 03:01:56",
@@ -1447,6 +1447,22 @@
     {
       "added_at": "2024-03-18 03:01:56",
       "album": {
+        "name": "at least i look cool",
+        "url": "https://open.spotify.com/album/3DrwGrEPG3Rq9mIsZVuklB"
+      },
+      "artists": [
+        {
+          "name": "Sasha Alex Sloan",
+          "url": "https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5"
+        }
+      ],
+      "duration_ms": 171695,
+      "name": "at least i look cool",
+      "url": "https://open.spotify.com/track/2eLDUK7EkpENZkDL9O5yhz"
+    },
+    {
+      "added_at": "2024-03-18 03:01:56",
+      "album": {
         "name": "Creature Dreams",
         "url": "https://open.spotify.com/album/2n2lsJowrhccWUuDU66cmm"
       },
@@ -1467,18 +1483,18 @@
     {
       "added_at": "2024-03-18 03:01:56",
       "album": {
-        "name": "at least i look cool",
-        "url": "https://open.spotify.com/album/3DrwGrEPG3Rq9mIsZVuklB"
+        "name": "The Juice: Vol. I",
+        "url": "https://open.spotify.com/album/3No5rGRQefAlVJgWusDEwQ"
       },
       "artists": [
         {
-          "name": "Sasha Alex Sloan",
-          "url": "https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5"
+          "name": "Emotional Oranges",
+          "url": "https://open.spotify.com/artist/12trz2INGglrKMzLmg0y2C"
         }
       ],
-      "duration_ms": 171695,
-      "name": "at least i look cool",
-      "url": "https://open.spotify.com/track/2eLDUK7EkpENZkDL9O5yhz"
+      "duration_ms": 199040,
+      "name": "Built That Way",
+      "url": "https://open.spotify.com/track/1KFRlrRRuvyrIwgjcSr1Qr"
     },
     {
       "added_at": "2024-03-18 03:01:56",
@@ -1495,22 +1511,6 @@
       "duration_ms": 188478,
       "name": "Holding the Gun",
       "url": "https://open.spotify.com/track/4Hs7FS8jNNReipDe6SDpwz"
-    },
-    {
-      "added_at": "2024-03-18 03:01:56",
-      "album": {
-        "name": "The Juice: Vol. I",
-        "url": "https://open.spotify.com/album/3No5rGRQefAlVJgWusDEwQ"
-      },
-      "artists": [
-        {
-          "name": "Emotional Oranges",
-          "url": "https://open.spotify.com/artist/12trz2INGglrKMzLmg0y2C"
-        }
-      ],
-      "duration_ms": 199040,
-      "name": "Built That Way",
-      "url": "https://open.spotify.com/track/1KFRlrRRuvyrIwgjcSr1Qr"
     },
     {
       "added_at": "2024-03-18 03:01:56",
@@ -1651,18 +1651,18 @@
     {
       "added_at": "2024-03-18 03:01:56",
       "album": {
-        "name": "Time",
-        "url": "https://open.spotify.com/album/769w0FnPuehiePv6Mve1Cz"
+        "name": "Home Tapes",
+        "url": "https://open.spotify.com/album/6ZGs1cTdS7wvHa10DicJuw"
       },
       "artists": [
         {
-          "name": "lullaboy",
-          "url": "https://open.spotify.com/artist/7zrkFhYAp6dBxsydmJkouN"
+          "name": "Oh Wonder",
+          "url": "https://open.spotify.com/artist/5cIc3SBFuBLVxJz58W2tU9"
         }
       ],
-      "duration_ms": 200000,
-      "name": "Time",
-      "url": "https://open.spotify.com/track/3Ths3AX8KIMrVGXJRrkBDy"
+      "duration_ms": 223160,
+      "name": "Oceansize",
+      "url": "https://open.spotify.com/track/37oz0tZXDhBDOzPSAvxX9W"
     },
     {
       "added_at": "2024-03-18 03:01:56",
@@ -1687,18 +1687,18 @@
     {
       "added_at": "2024-03-18 03:01:56",
       "album": {
-        "name": "Home Tapes",
-        "url": "https://open.spotify.com/album/6ZGs1cTdS7wvHa10DicJuw"
+        "name": "Time",
+        "url": "https://open.spotify.com/album/769w0FnPuehiePv6Mve1Cz"
       },
       "artists": [
         {
-          "name": "Oh Wonder",
-          "url": "https://open.spotify.com/artist/5cIc3SBFuBLVxJz58W2tU9"
+          "name": "lullaboy",
+          "url": "https://open.spotify.com/artist/7zrkFhYAp6dBxsydmJkouN"
         }
       ],
-      "duration_ms": 223160,
-      "name": "Oceansize",
-      "url": "https://open.spotify.com/track/37oz0tZXDhBDOzPSAvxX9W"
+      "duration_ms": 200000,
+      "name": "Time",
+      "url": "https://open.spotify.com/track/3Ths3AX8KIMrVGXJRrkBDy"
     },
     {
       "added_at": "2024-03-18 03:01:56",

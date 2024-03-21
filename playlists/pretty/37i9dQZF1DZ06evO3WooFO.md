@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3WooFO.md) - [plain]
 
 > This is blink\-182\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 567,095 likes - 48 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 567,362 likes - 48 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,17 +35,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3WooFO.md) - [plain]
 | 25 | [Down](https://open.spotify.com/track/4nXKO951m6TdWQQbH1KJH3) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [blink\-182](https://open.spotify.com/album/4hBTxv4QRPePXCFcEI7Vjp) | 3:03 |
 | 26 | [Darkside](https://open.spotify.com/track/39n1y2JqVOPIdfUeLqzgfl) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [NINE](https://open.spotify.com/album/4gARZz9eV7zbGbtOjhVTPF) | 3:00 |
 | 27 | [CUT ME OFF](https://open.spotify.com/track/2Zs1T1OXwcm6XgrIRvAfwH) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [ONE MORE TIME...](https://open.spotify.com/album/00txDYFrU4LjWqwKE8iQJA) | 2:06 |
-| 28 | [After Midnight](https://open.spotify.com/track/29bWDkf8qtCmsvDWOW55CJ) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [Neighborhoods \(Deluxe Explicit Version\)](https://open.spotify.com/album/0KjLbdlJYvtzXjGTwPy3lv) | 3:26 |
+| 28 | [Brohemian Rhapsody](https://open.spotify.com/track/6ml7RDzHmKKT4MQJt69tjq) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [California \(Deluxe Edition\)](https://open.spotify.com/album/0fmq1b2T3bjRyTsigDWUP6) | 0:30 |
 | 29 | [Violence](https://open.spotify.com/track/6oRvk7PJW3PDKFZkEvJNkq) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [blink\-182](https://open.spotify.com/album/4hBTxv4QRPePXCFcEI7Vjp) | 3:39 |
 | 30 | [I Really Wish I Hated You](https://open.spotify.com/track/6KWcq5p0wsz97N3eoRUSH6) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [NINE](https://open.spotify.com/album/4gARZz9eV7zbGbtOjhVTPF) | 3:11 |
-| 31 | [Brohemian Rhapsody](https://open.spotify.com/track/6ml7RDzHmKKT4MQJt69tjq) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [California \(Deluxe Edition\)](https://open.spotify.com/album/0fmq1b2T3bjRyTsigDWUP6) | 0:30 |
-| 32 | [Up All Night](https://open.spotify.com/track/1bvbL0HbprbpwmzwaZczr2) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [Neighborhoods \(Deluxe Explicit Version\)](https://open.spotify.com/album/0KjLbdlJYvtzXjGTwPy3lv) | 3:19 |
+| 31 | [After Midnight](https://open.spotify.com/track/29bWDkf8qtCmsvDWOW55CJ) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [Neighborhoods \(Deluxe Explicit Version\)](https://open.spotify.com/album/0KjLbdlJYvtzXjGTwPy3lv) | 3:26 |
+| 32 | [Not Now](https://open.spotify.com/track/28yCMEplHbodvR19Aipah8) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [Greatest Hits](https://open.spotify.com/album/31mnNcl6CzIcX8j9n75vYZ) | 4:23 |
 | 33 | [Obvious](https://open.spotify.com/track/1KcmugpUozu6Llj3p5Qboa) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [blink\-182](https://open.spotify.com/album/4hBTxv4QRPePXCFcEI7Vjp) | 2:43 |
-| 34 | [Not Now](https://open.spotify.com/track/28yCMEplHbodvR19Aipah8) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [Greatest Hits](https://open.spotify.com/album/31mnNcl6CzIcX8j9n75vYZ) | 4:23 |
-| 35 | [Josie](https://open.spotify.com/track/5IKqS0Kmme9uVOVjulysEV) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [Dude Ranch](https://open.spotify.com/album/0RADUK8yTUBidzBke6Eszq) | 3:19 |
+| 34 | [Josie](https://open.spotify.com/track/5IKqS0Kmme9uVOVjulysEV) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [Dude Ranch](https://open.spotify.com/album/0RADUK8yTUBidzBke6Eszq) | 3:19 |
+| 35 | [Up All Night](https://open.spotify.com/track/1bvbL0HbprbpwmzwaZczr2) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [Neighborhoods \(Deluxe Explicit Version\)](https://open.spotify.com/album/0KjLbdlJYvtzXjGTwPy3lv) | 3:19 |
 | 36 | [Pretty Little Girl](https://open.spotify.com/track/6rJKRar5Jf3Ec2FIhiog7Y) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [Dogs Eating Dogs](https://open.spotify.com/album/3Jpdv1X5cweLrcebtM1tar) | 4:20 |
-| 37 | [Cynical](https://open.spotify.com/track/7qLTXx7crEEtkbI2TAflqd) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [California \(Deluxe Edition\)](https://open.spotify.com/album/0fmq1b2T3bjRyTsigDWUP6) | 1:55 |
-| 38 | [Family Reunion \- Live/1999](https://open.spotify.com/track/5TyHeZpXFaweWQxaihvmwH) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [The Mark, Tom And Travis Show \(The Enema Strikes Back!\) \[Live\]](https://open.spotify.com/album/1rkcABZWlix3sYH6XLUSAz) | 0:51 |
+| 37 | [Family Reunion \- Live/1999](https://open.spotify.com/track/5TyHeZpXFaweWQxaihvmwH) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [The Mark, Tom And Travis Show \(The Enema Strikes Back!\) \[Live\]](https://open.spotify.com/album/1rkcABZWlix3sYH6XLUSAz) | 0:51 |
+| 38 | [Cynical](https://open.spotify.com/track/7qLTXx7crEEtkbI2TAflqd) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [California \(Deluxe Edition\)](https://open.spotify.com/album/0fmq1b2T3bjRyTsigDWUP6) | 1:55 |
 | 39 | [Carousel](https://open.spotify.com/track/3gVXAW2pduBl7tzjAGUVRb) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [Cheshire Cat](https://open.spotify.com/album/6uTjljlshthbtA2U7V6u83) | 3:14 |
 | 40 | [Dogs Eating Dogs](https://open.spotify.com/track/5uqOdeWBd2gFKUAJPoy1q6) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [Dogs Eating Dogs](https://open.spotify.com/album/3Jpdv1X5cweLrcebtM1tar) | 3:30 |
 | 41 | [Ghost On The Dance Floor](https://open.spotify.com/track/0LC3SKxY9PteyLLxhfFY5d) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [Neighborhoods \(Deluxe Explicit Version\)](https://open.spotify.com/album/0KjLbdlJYvtzXjGTwPy3lv) | 4:17 |
@@ -57,4 +57,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3WooFO.md) - [plain]
 | 47 | [The First Time](https://open.spotify.com/track/4VwvwlbNZavsDkRdIKFGBi) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [NINE](https://open.spotify.com/album/4gARZz9eV7zbGbtOjhVTPF) | 2:26 |
 | 48 | [Pin the Grenade](https://open.spotify.com/track/330cmrgtnIj4NtPTYdDOZv) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [NINE](https://open.spotify.com/album/4gARZz9eV7zbGbtOjhVTPF) | 2:59 |
 
-Snapshot ID: `Mjg1MTQxOTUsMDAwMDAwMDA0ZDc2Mjg5ZTM4MmEyOGMxNGI2YjFmZjA1ZWZkM2QwOQ==`
+Snapshot ID: `Mjg1MTU2NjEsMDAwMDAwMDBjNmIwNDJmNzE3NDg0ZDFlOWMxNDFhYmI3ZDcyOGRjOA==`

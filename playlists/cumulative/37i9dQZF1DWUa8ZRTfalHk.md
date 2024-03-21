@@ -4,7 +4,7 @@
 
 > Who's now and next in pop\. Cover: Mark Ambor
 
-2,072 songs - 4 day 11 hr 6 min
+2,075 songs - 4 day 11 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -147,7 +147,8 @@
 | [Attention](https://open.spotify.com/track/11xC6P3iKYpFThT6Ce1KdG) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Attention](https://open.spotify.com/album/38xgBOLAcKoYWMSXWUDH1E) | 4:37 | 2023-06-16 | 2023-08-05 |
 | [Attention](https://open.spotify.com/track/2pIUpMhHL6L9Z5lnKxJJr9) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [NewJeans 1st EP 'New Jeans'](https://open.spotify.com/album/1HMLpmZAnNyl9pxvOnTovV) | 3:00 | 2022-08-19 | 2022-10-01 |
 | [Attention](https://open.spotify.com/track/6tTeRmhhuwDl5Y4UiJdHuO) | [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Attention](https://open.spotify.com/album/0fGPQwybhz88QkKXZpfkwj) | 3:00 | 2022-03-04 | 2022-04-29 |
-| [Austin](https://open.spotify.com/track/4NJqhmkGN042BrvHoMKUrJ) | [Dasha](https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I) | [Austin](https://open.spotify.com/album/4JtlZzYJEa7bejLF0ASnk0) | 2:51 | 2024-02-23 |  |
+| [Austin](https://open.spotify.com/track/4NJqhmkGN042BrvHoMKUrJ) | [Dasha](https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I) | [Austin](https://open.spotify.com/album/4JtlZzYJEa7bejLF0ASnk0) | 2:51 | 2024-02-23 | 2024-03-21 |
+| [Austin](https://open.spotify.com/track/6b81dy3WjbozXK6b7C1gu5) | [Dasha](https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I) | [What Happens Now?](https://open.spotify.com/album/0rQRrrZPPv6XXsxilJ1wFz) | 2:51 | 2024-02-23 |  |
 | [AVA](https://open.spotify.com/track/7bdpStmJdlw9GKBPTOkDwT) | [Natalie Jane](https://open.spotify.com/artist/5bfglVyGJppmmNoC2rhBUG) | [AVA](https://open.spotify.com/album/63WPi0R6qTveHv31Djy7D1) | 2:39 | 2022-11-18 | 2023-02-22 |
 | [Avalanche](https://open.spotify.com/track/2zYze9NpKgmpwq58hmgDkL) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [Avalanche](https://open.spotify.com/album/1SoeCpLaSPZBJ5o4PDSHVy) | 3:47 | 2021-08-14 | 2021-09-04 |
 | [ay! \(feat\. Lil Wayne\)](https://open.spotify.com/track/374EllG6WyKdKvklfanNZT) | [Machine Gun Kelly](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [ay! \(feat\. Lil Wayne\)](https://open.spotify.com/album/1e9CbSWMgie8riYCSvqNs3) | 2:04 | 2022-03-04 | 2022-03-26 |
@@ -445,7 +446,8 @@
 | [Deep End](https://open.spotify.com/track/6HlE9t71z9DjGi7KqSyEpA) | [Fousheé](https://open.spotify.com/artist/6trIghKwHRUyxwvm66HLHH) | [Deep End](https://open.spotify.com/album/2HICqd0ltMKNrkhfmWSuKy) | 2:21 | 2020-10-13\* | 2020-11-20 |
 | [Deep end](https://open.spotify.com/track/1hmcogF6Lz6QqiibEZqXjQ) | [Jeremy Zucker](https://open.spotify.com/artist/3gIRvgZssIb9aiirIg0nI3) | [CRUSHER](https://open.spotify.com/album/6pEz5WCvDGB8ved9AcouQ5) | 2:03 | 2021-10-02 | 2021-10-30 |
 | [Deep In Your Love](https://open.spotify.com/track/0sftzYE0YgPHXrvJyUyGjB) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [Deep In Your Love](https://open.spotify.com/album/3QkffLjHLnGMUgMAvrOgrs) | 2:24 | 2024-01-12 |  |
-| [Deeper Well](https://open.spotify.com/track/2lJn77IeZAP9cmv6DPXOrL) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Deeper Well](https://open.spotify.com/album/2NXiMKrwmPrqU8epp20pW8) | 3:52 | 2024-02-09 |  |
+| [Deeper Well](https://open.spotify.com/track/2lJn77IeZAP9cmv6DPXOrL) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Deeper Well](https://open.spotify.com/album/2NXiMKrwmPrqU8epp20pW8) | 3:52 | 2024-02-09 | 2024-03-21 |
+| [Deeper Well](https://open.spotify.com/track/333XFHKsHU0pOocFzBgrJi) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Deeper Well](https://open.spotify.com/album/5SxZmGwc4eJuPp6PcO4JgJ) | 3:52 | 2024-02-09 |  |
 | [Deja Vu](https://open.spotify.com/track/12e5rUktNoga7mdtziCw33) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [It'll All Make Sense In The End](https://open.spotify.com/album/0P4xzdUBgd8cMncwM7okcd) | 3:03 | 2021-11-06 | 2021-12-04 |
 | [deja vu](https://open.spotify.com/track/61KpQadow081I2AsbeLcsb) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [deja vu](https://open.spotify.com/album/3lwHyR4joA1xB7Nun21EP6) | 3:35 | 2021-04-02 | 2021-05-22 |
 | [Delilah \(pull me out of this\)](https://open.spotify.com/track/67uX1e9gIoumz0U8ayaOiO) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Actual Life 3 \(January 1 \- September 9 2022\)](https://open.spotify.com/album/6vN8o7jyIAJvFPqC0vxxmm) | 4:10 | 2022-10-28 | 2022-11-17 |
@@ -1849,7 +1851,8 @@
 | [Tomboy](https://open.spotify.com/track/5Ti3fqGTfjUsSdylFNy0Ng) | [Destiny Rogers](https://open.spotify.com/artist/6gezkje7GoJlQbHBgLXHuu) | [Tomboy](https://open.spotify.com/album/2uDZBeyyQ7mfwF9mUJeYUG) | 3:23 | 2021-02-26 | 2021-05-22 |
 | [Tonight \(feat\. iann dior\)](https://open.spotify.com/track/6Tsro9u5bnTJxFjuzuNA7R) | [jxdn](https://open.spotify.com/artist/6Y64EaNqpqcZYTgs4c76gF), [iann dior](https://open.spotify.com/artist/6ASri4ePR7RlsvIQgWPJpS) | [Tonight \(feat\. iann dior\)](https://open.spotify.com/album/53jX1nt0x4HeHwOGRbQWQR) | 2:15 | 2020-10-23 | 2020-12-18 |
 | [Tonight Tonight](https://open.spotify.com/track/1lk1AQ4NL2F5INzLcCWa1u) | [Celeste](https://open.spotify.com/artist/49HlOY4gkHqsYG9GCuhkcc) | [Not Your Muse \(Deluxe\)](https://open.spotify.com/album/3bqEvlGHE4amqPGZtdMnep) | 3:39 | 2021-01-29 | 2021-02-12 |
-| [Too Good to be True](https://open.spotify.com/track/4vIiVs5JoNfqqRi5o7jAIb) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Too Good to be True](https://open.spotify.com/album/57y7NpfTINlnrNitu8vwft) | 2:40 | 2024-03-01 |  |
+| [Too Good to be True](https://open.spotify.com/track/27RDQ0TfxzWMlQFuKrPT11) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Deeper Well](https://open.spotify.com/album/5SxZmGwc4eJuPp6PcO4JgJ) | 2:40 | 2024-03-01 |  |
+| [Too Good to be True](https://open.spotify.com/track/4vIiVs5JoNfqqRi5o7jAIb) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Too Good to be True](https://open.spotify.com/album/57y7NpfTINlnrNitu8vwft) | 2:40 | 2024-03-01 | 2024-03-21 |
 | [Too Late \(feat\. Wiz Khalifa & Lukas Graham\)](https://open.spotify.com/track/6Q0cy1jCa8EpvT6hd9rrs9) | [Cash Cash](https://open.spotify.com/artist/1LOB7jTeEV14pHai6EXSzF), [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop), [Lukas Graham](https://open.spotify.com/artist/25u4wHJWxCA9vO0CzxAbK7) | [Too Late \(feat\. Wiz Khalifa & Lukas Graham\)](https://open.spotify.com/album/6wOICOAKDg5iHCyINokKDD) | 3:13 | 2021-02-19 | 2021-03-26 |
 | [Too Late \(with AJR\)](https://open.spotify.com/track/1FNpMhXQtpIfN0BXwEvIWS) | [Quinn XCII](https://open.spotify.com/artist/3ApUX1o6oSz321MMECyIYd), [AJR](https://open.spotify.com/artist/6s22t5Y3prQHyaHWUN1R1C) | [The People's Champ](https://open.spotify.com/album/3plm9depNQ4MWerYdN0vaq) | 2:55 | 2023-01-27 | 2023-04-01 |
 | [too many feelings](https://open.spotify.com/track/3tb3sGsGLnSsyUxue8Aetd) | [Ruel](https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn) | [too many feelings](https://open.spotify.com/album/2XJb3KWRBjAarZvPf6Rqwu) | 3:06 | 2021-02-12 | 2021-03-19 |

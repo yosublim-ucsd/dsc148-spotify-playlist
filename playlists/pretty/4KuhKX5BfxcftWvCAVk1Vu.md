@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4KuhKX5BfxcftWvCAVk1Vu.md) - [plain]
 
 > I love my girlfriend
 
-[ella <3](https://open.spotify.com/user/x_schmidt_x) - 1 like - 62 songs - 3 hr 25 min
+[ella <3](https://open.spotify.com/user/x_schmidt_x) - 1 like - 65 songs - 3 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,5 +70,8 @@ pretty - [cumulative](/playlists/cumulative/4KuhKX5BfxcftWvCAVk1Vu.md) - [plain]
 | 60 | [Shoe](https://open.spotify.com/track/37IMOr92pqfixF3XH87YS8) | [Matt Maltese](https://open.spotify.com/artist/12j6dJrPXanCBwY599pZxf) | [Good Morning It's Now Tomorrow](https://open.spotify.com/album/4eyBviSES0CZjUaipdnHku) | 3:37 |
 | 61 | [Slow Dancing](https://open.spotify.com/track/6EXCQbPhpBf5RTQZ4F1raZ) | [Aly & AJ](https://open.spotify.com/artist/5wugb0kaq0J6nyQ5Xgd17i) | [a touch of the beat gets you up on your feet gets you out and then into the sun](https://open.spotify.com/album/00NPJAyth7IDd3jgZDCMdT) | 4:27 |
 | 62 | [Dusk](https://open.spotify.com/track/6PUPRb62MyZo6MRlEQZKFq) | [Alice Phoebe Lou](https://open.spotify.com/artist/03uMw43UVu9MsQCcHVSGjX) | [Glow](https://open.spotify.com/album/17bMGqdO2UxbHHgiE9mX6X) | 2:51 |
+| 63 | [little person](https://open.spotify.com/track/1VrUeEmCs6wGwPkWuEFr09) | [Matt Maltese](https://open.spotify.com/artist/12j6dJrPXanCBwY599pZxf) | [madhouse](https://open.spotify.com/album/3C7TLQLW8cXiDoogT7Hrlj) | 3:21 |
+| 64 | [Give It All to Me](https://open.spotify.com/track/4f1MOhX1eEls7hVsEEPKIO) | [Black Pool](https://open.spotify.com/artist/4lglBegCfNnjzAqs9DBQXm) | [Here for Now](https://open.spotify.com/album/48SqeF1Cfirl9st6jO5Yck) | 4:26 |
+| 65 | [Sagittarius Superstar](https://open.spotify.com/track/4E3JYij2hnEDDP0Rgwikq6) | [COIN](https://open.spotify.com/artist/0ZxZlO7oWCSYMXhehpyMvE), [Faye Webster](https://open.spotify.com/artist/5szilpXHcwOqnyKLqGco5j) | [Rainbow Mixtape](https://open.spotify.com/album/613bOWrR3cRPNC3fDwhXQL) | 2:53 |
 
-Snapshot ID: `OTAsMTIyMWY3NTg0MTI3MjUxZWY5ZDNhZDhmMGQ3ODA1MDkwODI1MDA5YQ==`
+Snapshot ID: `OTMsMjQxOTQyYzcyMTU1NmRkM2Y4NDMxOTFmMWM1MjQ2MjZhZmEzNjExNw==`

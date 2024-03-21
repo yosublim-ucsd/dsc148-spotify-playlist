@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5KJJSIYaNvs.md) - [plain]
 
 > Listen to women at full volume\. Cover \- Sunidhi Chauhan
 
-[Spotify](https://open.spotify.com/user/spotify) - 64,533 likes - 50 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 64,540 likes - 50 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5KJJSIYaNvs.md) - [plain]
 | 15 | [Aadat](https://open.spotify.com/track/5tqjJD5fD85iNMFxuLTaoN) | [Lisa Mishra](https://open.spotify.com/artist/418X5slNWlJwym4x3Oq3Cs), [bebhumika](https://open.spotify.com/artist/6ze415xN4HqPmAhj1P4pRl) | [Aadat](https://open.spotify.com/album/2QGgqhrl1kWtxhkqYN0BaJ) | 2:56 |
 | 16 | [Nayee Nazar](https://open.spotify.com/track/7LdsTDp3eAzgc91qBULH2V) | [Utsavi Jha](https://open.spotify.com/artist/51pcy004juIDA1mruOZJCX) | [Nayee Nazar](https://open.spotify.com/album/0jvFIM8gENIZg3Rlj4ewVg) | 3:58 |
 | 17 | [Gori Tharo](https://open.spotify.com/track/7LBhKgLXTiUBc37fiqOlzk) | [Imran Khan Sitar](https://open.spotify.com/artist/1UrxT8kr1FXLymiN3SWpEP), [Rekha Bhardwaj](https://open.spotify.com/artist/3cqeO3muWIW5uSmUDNCmyT) | [Song Craft Season 1](https://open.spotify.com/album/6cyCyVWsO3y369yadNqbmA) | 6:21 |
-| 18 | [Vidai](https://open.spotify.com/track/77Yun8NJpZjcogPS07s1ld) | [Jaspinder Narula](https://open.spotify.com/artist/4qf5iWCSqeCW9TlbwO58bo) | [Vidai](https://open.spotify.com/album/502Nurn66BXWd2mdd3gLV2) | 8:03 |
+| 18 | [Vidai](https://open.spotify.com/track/77Yun8NJpZjcogPS07s1ld) | [Jaspinder Narula](https://open.spotify.com/artist/4qf5iWCSqeCW9TlbwO58bo), [Sankalp Srivastava](https://open.spotify.com/artist/4trF7fdqGlCFTd2UIDE9U0) | [Vidai](https://open.spotify.com/album/502Nurn66BXWd2mdd3gLV2) | 8:03 |
 | 19 | [Main Tujhe Phir Miloongi](https://open.spotify.com/track/7qnflfkgOUMbVQ7YjlkOT7) | [Vibha Saraf](https://open.spotify.com/artist/4aL6PYF766njiW0WELvEzj), [Shashwat Sachdev](https://open.spotify.com/artist/465OXuCU8YZNmVG1leLwQ9), [Kumaar](https://open.spotify.com/artist/0m3D4grap8VFSzbJMqgNVk) | [Article 370 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0ZyTpDwvVbYT5QHm1hPRCO) | 5:32 |
 | 20 | [Nirmohi](https://open.spotify.com/track/2aOUEwMJ3AjE0iiv81AUkx) | [Himani Kapoor](https://open.spotify.com/artist/6G2dxtT1uVQuzErBZsw7Ur), [Durgesh R Rajbhatt](https://open.spotify.com/artist/7sE4BlKQa4zVmZm0YTiL4R), [Manoj Yadav](https://open.spotify.com/artist/0qSfAhYhb7KWEuiLuooBaE) | [Nirmohi](https://open.spotify.com/album/5aqS3ihrdzcgOvIfHIHAe9) | 3:12 |
 | 21 | [Beda Paar](https://open.spotify.com/track/4efU3uJn1mLTFNGXBVHuHR) | [Sona Mohapatra](https://open.spotify.com/artist/5bv6NvAYNuvd2Vq13nHdG3), [Ram Sampath](https://open.spotify.com/artist/3PpjqSKBer3obW6lDflOBx), [Prashant Pandey](https://open.spotify.com/artist/7vCsTTACb2iT4fvBMnwp5w) | [Laapataa Ladies](https://open.spotify.com/album/6RRszKfdIZFMYabAL8vDGB) | 2:26 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5KJJSIYaNvs.md) - [plain]
 | 49 | [Rait Zara Si](https://open.spotify.com/track/3gOXq3FPPesm7VLPKmef6j) | [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Shashaa Tirupati](https://open.spotify.com/artist/12CpR4SNDzVIlDoPSeNFeW) | [Atrangi Re](https://open.spotify.com/album/3UkMnMdm9Jq7eXIfv0YMXm) | 4:51 |
 | 50 | [Mehabooba](https://open.spotify.com/track/4hcIkSjuNMYd2bREG38xgH) | [Ravi Basrur](https://open.spotify.com/artist/2q1LRGJHpFxovU8Tz6OgRn), [Ananya Bhat](https://open.spotify.com/artist/4JczWHls9n9VpTHnqO2IG8) | [KGF Chapter 2 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2qOmNuXm9SoGIaTb6px0j1) | 3:33 |
 
-Snapshot ID: `MCwyMDE3M2Q3YzIzNDNmYmViMzVjN2E0YWM0MjVkZGM1YWM4ZjZjY2E5`
+Snapshot ID: `MCwyNGI2YTk4YzY0MTIwZTUwZTJmMGE5Y2YyMzNiYzhlYTRiMmQ5ZGQy`

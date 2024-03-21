@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWRktbhJiuqL.md) - [plain]
 
 > Various sounds, various decades, but with one thing in common: pure rock & roll.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,571,590 likes - 100 songs - 6 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,571,723 likes - 100 songs - 6 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,9 +85,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWRktbhJiuqL.md) - [plain]
 | 75 | [White Room](https://open.spotify.com/track/3Xls4cNOwy01dtrNXb1inG) | [Cream](https://open.spotify.com/artist/74oJ4qxwOZvX6oSsu1DGnw) | [Wheels Of Fire](https://open.spotify.com/album/0zrtTZC7yY2TOEhnbJzSb9) | 4:58 |
 | 76 | [Cum on Feel the Noize](https://open.spotify.com/track/3vV3cr2TpPqFk07zxYUbla) | [Quiet Riot](https://open.spotify.com/artist/1dLWg6m8RRhizsdqJbhyj3) | [Metal Health](https://open.spotify.com/album/3Q3rQ8FK1e9Fd9Gv9xm3CK) | 4:50 |
 | 77 | [American Woman](https://open.spotify.com/track/3X6iIrFuQoCshIWBseEKPl) | [Lenny Kravitz](https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7) | [5](https://open.spotify.com/album/6MCNMOCRsh6nxs7PNzc0zN) | 4:24 |
-| 78 | [Runnin' Down A Dream](https://open.spotify.com/track/5yAu4njFSdM47dfsTkQPZ2) | [Tom Petty](https://open.spotify.com/artist/2UZMlIwnkgAEDBsw1Rejkn) | [The Best Of Everything \- The Definitive Career Spanning Hits Collection 1976\-2016](https://open.spotify.com/album/32OhZ2CWxc259H9w52JMTH) | 4:21 |
+| 78 | [Dude \(Looks Like A Lady\)](https://open.spotify.com/track/6gQUbFwwdYXlKdmqRoWKJe) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Permanent Vacation](https://open.spotify.com/album/3XYqOJI1YlX40kJTdzFEzp) | 4:25 |
 | 79 | [American Girl](https://open.spotify.com/track/7MRyJPksH3G2cXHN8UKYzP) | [Tom Petty and the Heartbreakers](https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e) | [Tom Petty & The Heartbreakers](https://open.spotify.com/album/6TLTd0P2CUI0Q29AQ1LyFi) | 3:34 |
-| 80 | [Dude \(Looks Like A Lady\)](https://open.spotify.com/track/6gQUbFwwdYXlKdmqRoWKJe) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Permanent Vacation](https://open.spotify.com/album/3XYqOJI1YlX40kJTdzFEzp) | 4:25 |
+| 80 | [Runnin' Down A Dream](https://open.spotify.com/track/5yAu4njFSdM47dfsTkQPZ2) | [Tom Petty](https://open.spotify.com/artist/2UZMlIwnkgAEDBsw1Rejkn) | [The Best Of Everything \- The Definitive Career Spanning Hits Collection 1976\-2016](https://open.spotify.com/album/32OhZ2CWxc259H9w52JMTH) | 4:21 |
 | 81 | [Spoonman](https://open.spotify.com/track/1jMaB19DiVR8OihLSuYFOt) | [Soundgarden](https://open.spotify.com/artist/5xUf6j4upBrXZPg6AI4MRK) | [Superunknown \(20th Anniversary\)](https://open.spotify.com/album/4K8bxkPDa5HENw0TK7WxJh) | 4:06 |
 | 82 | [Show Me How to Live](https://open.spotify.com/track/1Qdnvn4XlmZANCVy3XjrQo) | [Audioslave](https://open.spotify.com/artist/2ziB7fzrXBoh1HUPS6sVFn) | [Audioslave](https://open.spotify.com/album/78guAsers0klWl6RwzgDLd) | 4:37 |
 | 83 | [Mississippi Queen](https://open.spotify.com/track/4vO9dmzNRqDhFY3jD1a3P7) | [Mountain](https://open.spotify.com/artist/7LCp4MN0SOIVWlssid9KyE) | [Climbing!](https://open.spotify.com/album/2tWvZmP9EVRYqmWyJPLzjP) | 2:31 |
@@ -98,8 +98,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWRktbhJiuqL.md) - [plain]
 | 88 | [Since You Been Gone](https://open.spotify.com/track/6xq5DxZWGgdStAxGAil0yw) | [Rainbow](https://open.spotify.com/artist/6SLAMfhOi7UJI0fMztaK0m) | [Down To Earth](https://open.spotify.com/album/1xlTRhgWQSEvu9DPHVn8uJ) | 3:17 |
 | 89 | [Come with Me Now](https://open.spotify.com/track/2kWowW0k4oFymhkr7LmvzO) | [KONGOS](https://open.spotify.com/artist/58R5LHkK3vkmEyGUPOR5kS) | [Lunatic](https://open.spotify.com/album/71C65HI7THrlkpHHa24YJX) | 3:31 |
 | 90 | [Jet Airliner](https://open.spotify.com/track/2zI3bUYn2pcF27of6i2oqK) | [Steve Miller Band](https://open.spotify.com/artist/6QtGlUje9TIkLrgPZrESuk) | [Greatest Hits 1974\-78](https://open.spotify.com/album/5hLazW5a3Ysgy3dncwGgUn) | 3:35 |
-| 91 | [I Hate Myself for Loving You](https://open.spotify.com/track/2HXixVqzzm9rEUIMAWzshl) | [Joan Jett & the Blackhearts](https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K) | [Up Your Alley](https://open.spotify.com/album/2pkv3nrNrwtUdT8VNWwt5U) | 4:06 |
-| 92 | [Psycho](https://open.spotify.com/track/383QXk8nb2YrARMUwDdjQS) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Drones](https://open.spotify.com/album/2wart5Qjnvx1fd7LPdQxgJ) | 5:16 |
+| 91 | [Psycho](https://open.spotify.com/track/383QXk8nb2YrARMUwDdjQS) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Drones](https://open.spotify.com/album/2wart5Qjnvx1fd7LPdQxgJ) | 5:16 |
+| 92 | [I Hate Myself for Loving You](https://open.spotify.com/track/2HXixVqzzm9rEUIMAWzshl) | [Joan Jett & the Blackhearts](https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K) | [Up Your Alley](https://open.spotify.com/album/2pkv3nrNrwtUdT8VNWwt5U) | 4:06 |
 | 93 | [Magic Carpet Ride](https://open.spotify.com/track/4c4jJJoaiY21t2TyRZgdWS) | [Steppenwolf](https://open.spotify.com/artist/1WRM9i067hd2ujxxi8FI3m) | [The Second](https://open.spotify.com/album/2Y5GORWYwVAZ8msuEuh5FN) | 4:31 |
 | 94 | [Need You Tonight](https://open.spotify.com/track/5eU8qMd0TpaLqTGDZJaLDs) | [INXS](https://open.spotify.com/artist/1eClJfHLoDI4rZe5HxzBFv) | [Kick](https://open.spotify.com/album/7cuwWzS0oiApEt2fpKafkX) | 3:00 |
 | 95 | [Fire](https://open.spotify.com/track/5w6B0sAH7XauCvMOAtplQj) | [Barns Courtney](https://open.spotify.com/artist/5tFRohaO5yEsuJxmMnlCO9) | [The Attractions Of Youth](https://open.spotify.com/album/2pWDyiJFya59ue0391kzSl) | 3:17 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWRktbhJiuqL.md) - [plain]
 | 99 | [Cocaine](https://open.spotify.com/track/3ykSdTGmYPFl8pDBXer1zG) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [Slowhand 35th Anniversary \(Super Deluxe\)](https://open.spotify.com/album/5MAL7e4EnKXW1hFg6NbFqP) | 3:41 |
 | 100 | [Safari Song](https://open.spotify.com/track/1BfR5GMOgW0peHkPxrwf11) | [Greta Van Fleet](https://open.spotify.com/artist/4NpFxQe2UvRCAjto3JqlSl) | [From The Fires](https://open.spotify.com/album/6uSnHSIBGKUiW1uKQLYZ7w) | 3:54 |
 
-Snapshot ID: `MCxkODk5NWE5NTA5MWQ3MjQ2MDVjYzg3NmJiOTYzYWUzMzQxMWEwMjky`
+Snapshot ID: `MCw1M2FlNjRjMWIyMjk1MzI0OTUwYWI5ZjkwMGJiYTYxMGFiZDg2MzY2`

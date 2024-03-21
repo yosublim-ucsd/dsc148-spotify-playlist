@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUf3j9Rl2IUG.md) - [plain]
 
 > Afrobeats' hottest singles\. Cover: Pheelz
 
-[Spotify](https://open.spotify.com/user/spotify) - 99,089 likes - 80 songs - 3 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 99,179 likes - 80 songs - 3 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUf3j9Rl2IUG.md) - [plain]
 | 20 | [Ta Ta Ta](https://open.spotify.com/track/3rmqNsOiGqqvFNTmGlzl4R) | [Bayanni](https://open.spotify.com/artist/6FbCERtE2CKqEWihHMYjcG) | [Bayanni](https://open.spotify.com/album/0XIgw74GKfTD6MCOHzhovL) | 2:39 |
 | 21 | [Everything](https://open.spotify.com/track/4zqRu31aWCiHeYMw9GptOO) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [Everything](https://open.spotify.com/album/1WxjIKagr1Vgwk6XTxYh7X) | 2:46 |
 | 22 | [Different Pattern](https://open.spotify.com/track/7FB5261Iv3MRbSz13HYP5l) | [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [NAHAMciaga](https://open.spotify.com/album/25W5Z67RX9uv82fijyx9Yk) | 2:03 |
-| 23 | [Basquiat](https://open.spotify.com/track/2H0w7oYDjUvgsFlNQ5swIg) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [Work Of Art](https://open.spotify.com/album/2O9VJaLSnwjZ2HPpMaVoPU) | 2:14 |
-| 24 | [YAWA](https://open.spotify.com/track/5tM3Fo4qBqDAwWJ9ZY5AtX) | [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY) | [YAWA](https://open.spotify.com/album/3x4uU6LegVMe04Dn5fLiLw) | 3:00 |
+| 23 | [YAWA](https://open.spotify.com/track/5tM3Fo4qBqDAwWJ9ZY5AtX) | [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY) | [YAWA](https://open.spotify.com/album/3x4uU6LegVMe04Dn5fLiLw) | 3:00 |
+| 24 | [Basquiat](https://open.spotify.com/track/2H0w7oYDjUvgsFlNQ5swIg) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [Work Of Art](https://open.spotify.com/album/2O9VJaLSnwjZ2HPpMaVoPU) | 2:14 |
 | 25 | [BLOOD ON THE DANCE FLOOR \(feat\. Bloody Civilian and Wale\)](https://open.spotify.com/track/35MU2MEhQMw0NhXZztAP9m) | [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy), [Bloody Civilian](https://open.spotify.com/artist/59gzAeE63TMTxOdjU3Ew0K), [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE) | [EZIOKWU](https://open.spotify.com/album/6e1McsPwHgiySHVlpZRhFx) | 3:53 |
 | 26 | [Aquafina](https://open.spotify.com/track/59sAr7NvZDeH7oYrkiyZcQ) | [Young Jonn](https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI) | [Aquafina](https://open.spotify.com/album/3mMVoC6HJ8mqcq9qd5GmUC) | 2:48 |
 | 27 | [American Love](https://open.spotify.com/track/5c1rWQAa8GX8LgCC9h3d1N) | [Qing Madi](https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh) | [Qing Madi](https://open.spotify.com/album/03pDzWfMzVVQL3BRVIutJn) | 3:09 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUf3j9Rl2IUG.md) - [plain]
 | 79 | [Traboski](https://open.spotify.com/track/2woGTVY8Vx46aYuXfMmwwE) | [Bnxn](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [Traboski](https://open.spotify.com/album/7A0qUYFzVQZGI6IcFebIiN) | 2:35 |
 | 80 | [Do I](https://open.spotify.com/track/3sKWRWuDKm0NODw7kB8xUD) | [Phyno](https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl) | [Do I](https://open.spotify.com/album/7GaMQzXKnDyCk5dcXUb7Dk) | 2:35 |
 
-Snapshot ID: `MCw0OWE3YTRjODkzZTY2NWMwNjc2OGJhMWExOWY3ZWEwNzc1OTQwNjU1`
+Snapshot ID: `MCw4MTllNjgzZTlkNDBiZDRhMzBiYjViM2VlYTk5YzM2NzY3ZTkwZTM2`

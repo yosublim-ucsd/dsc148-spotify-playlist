@@ -1,12 +1,12 @@
 {
   "description": "Vintage easy listening from the fifties...",
-  "num_followers": 165473,
+  "num_followers": 165509,
   "original_name": "Easy 50s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkZjBiNjY2NjgwYTI0YTYzZDRmMjE3NTgyZmRiYzc3Y2FlNjM1ZDg3",
+  "snapshot_id": "MCwxOTExMmIxZWM4OGFkZmY5YzcwN2RlYmZiNTVhOTIyYjc1NDE1OWQx",
   "tracks": [
     {
       "added_at": "2023-10-17 16:18:55",
@@ -543,22 +543,6 @@
     {
       "added_at": "2023-10-17 16:18:55",
       "album": {
-        "name": "The Ultimate",
-        "url": "https://open.spotify.com/album/7FAu65eXZrds9zcezKtYhl"
-      },
-      "artists": [
-        {
-          "name": "Jo Stafford",
-          "url": "https://open.spotify.com/artist/1Jqk46QvzUn7SnwmTGX6Cw"
-        }
-      ],
-      "duration_ms": 193666,
-      "name": "You Belong To Me",
-      "url": "https://open.spotify.com/track/2NDMLabAjx4oL7ezx2PNxS"
-    },
-    {
-      "added_at": "2023-10-17 16:18:55",
-      "album": {
         "name": "The Definitive Collection",
         "url": "https://open.spotify.com/album/1tTTDe47X0rTO4q7RidIan"
       },
@@ -575,6 +559,22 @@
       "duration_ms": 123346,
       "name": "It Doesn't Matter Anymore",
       "url": "https://open.spotify.com/track/38s1KAGSzopcquTCeN6jnj"
+    },
+    {
+      "added_at": "2023-10-17 16:18:55",
+      "album": {
+        "name": "The Ultimate",
+        "url": "https://open.spotify.com/album/7FAu65eXZrds9zcezKtYhl"
+      },
+      "artists": [
+        {
+          "name": "Jo Stafford",
+          "url": "https://open.spotify.com/artist/1Jqk46QvzUn7SnwmTGX6Cw"
+        }
+      ],
+      "duration_ms": 193666,
+      "name": "You Belong To Me",
+      "url": "https://open.spotify.com/track/2NDMLabAjx4oL7ezx2PNxS"
     },
     {
       "added_at": "2023-10-17 16:18:55",
@@ -1083,22 +1083,6 @@
     {
       "added_at": "2023-10-17 16:18:55",
       "album": {
-        "name": "Sound Of Christmas",
-        "url": "https://open.spotify.com/album/0YjxIUhLMpx8AitREvQxKl"
-      },
-      "artists": [
-        {
-          "name": "Ramsey Lewis Trio",
-          "url": "https://open.spotify.com/artist/4jZOiPysIzYxbDcDEOZmhu"
-        }
-      ],
-      "duration_ms": 158933,
-      "name": "Here Comes Santa Claus",
-      "url": "https://open.spotify.com/track/3D2uwNConeiGJmzopkVkCU"
-    },
-    {
-      "added_at": "2023-10-17 16:18:55",
-      "album": {
         "name": "Kitty Kallen's Coloring Book",
         "url": "https://open.spotify.com/album/3mITeLc78nl4VsvfQ3QhIU"
       },
@@ -1131,6 +1115,38 @@
     {
       "added_at": "2023-10-17 16:18:55",
       "album": {
+        "name": "Sound Of Christmas",
+        "url": "https://open.spotify.com/album/0YjxIUhLMpx8AitREvQxKl"
+      },
+      "artists": [
+        {
+          "name": "Ramsey Lewis Trio",
+          "url": "https://open.spotify.com/artist/4jZOiPysIzYxbDcDEOZmhu"
+        }
+      ],
+      "duration_ms": 158933,
+      "name": "Here Comes Santa Claus",
+      "url": "https://open.spotify.com/track/3D2uwNConeiGJmzopkVkCU"
+    },
+    {
+      "added_at": "2023-10-17 16:18:55",
+      "album": {
+        "name": "Gold",
+        "url": "https://open.spotify.com/album/5LzeNR0ssOIfaUpNQbthH9"
+      },
+      "artists": [
+        {
+          "name": "Connie Francis",
+          "url": "https://open.spotify.com/artist/3EY5DxGdy7x4GelivOjS2Q"
+        }
+      ],
+      "duration_ms": 147706,
+      "name": "I'm Sorry I Made You Cry",
+      "url": "https://open.spotify.com/track/7Fcm36e5Ov907Zf7C1DCZr"
+    },
+    {
+      "added_at": "2023-10-17 16:18:55",
+      "album": {
         "name": "16 Most Requested Songs",
         "url": "https://open.spotify.com/album/1MqnaRP5Mi9yN8mOis4YUM"
       },
@@ -1159,22 +1175,6 @@
       "duration_ms": 107333,
       "name": "Dreamboat",
       "url": "https://open.spotify.com/track/5KpECOf7hoR234q8fJcphk"
-    },
-    {
-      "added_at": "2023-10-17 16:18:55",
-      "album": {
-        "name": "Gold",
-        "url": "https://open.spotify.com/album/5LzeNR0ssOIfaUpNQbthH9"
-      },
-      "artists": [
-        {
-          "name": "Connie Francis",
-          "url": "https://open.spotify.com/artist/3EY5DxGdy7x4GelivOjS2Q"
-        }
-      ],
-      "duration_ms": 147706,
-      "name": "I'm Sorry I Made You Cry",
-      "url": "https://open.spotify.com/track/7Fcm36e5Ov907Zf7C1DCZr"
     },
     {
       "added_at": "2023-10-17 16:18:55",
@@ -1279,22 +1279,6 @@
     {
       "added_at": "2023-10-17 16:18:55",
       "album": {
-        "name": "16 Most Requested Songs",
-        "url": "https://open.spotify.com/album/1MqnaRP5Mi9yN8mOis4YUM"
-      },
-      "artists": [
-        {
-          "name": "Johnnie Ray",
-          "url": "https://open.spotify.com/artist/6SQKNCUKIWjR1pQ1U3PZZq"
-        }
-      ],
-      "duration_ms": 172440,
-      "name": "Hey There - from The \"Pajama Game\"",
-      "url": "https://open.spotify.com/track/6bXBU7A1e6oVoMCYNPzXoN"
-    },
-    {
-      "added_at": "2023-10-17 16:18:55",
-      "album": {
         "name": "The Magic Of Ruby Murray",
         "url": "https://open.spotify.com/album/4XYAC3gtaaKrfO6LJtwkue"
       },
@@ -1307,6 +1291,22 @@
       "duration_ms": 149333,
       "name": "Softly Softly",
       "url": "https://open.spotify.com/track/2qLFfXmrhJJME5mfjCVuNG"
+    },
+    {
+      "added_at": "2023-10-17 16:18:55",
+      "album": {
+        "name": "16 Most Requested Songs",
+        "url": "https://open.spotify.com/album/1MqnaRP5Mi9yN8mOis4YUM"
+      },
+      "artists": [
+        {
+          "name": "Johnnie Ray",
+          "url": "https://open.spotify.com/artist/6SQKNCUKIWjR1pQ1U3PZZq"
+        }
+      ],
+      "duration_ms": 172440,
+      "name": "Hey There - from The \"Pajama Game\"",
+      "url": "https://open.spotify.com/track/6bXBU7A1e6oVoMCYNPzXoN"
     },
     {
       "added_at": "2023-10-17 16:18:55",

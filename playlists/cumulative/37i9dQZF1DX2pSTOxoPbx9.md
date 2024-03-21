@@ -4,7 +4,7 @@
 
 > Beautifully dark, dramatic tracks.
 
-221 songs - 14 hr 51 min
+222 songs - 14 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -77,7 +77,7 @@
 | [Everything We Do Is Wrong](https://open.spotify.com/track/46RSHHcMv3BhuXobfFfAAT) | [Tuvaband](https://open.spotify.com/artist/1PELQpIrHccFmlReFjINVT) | [Everything We Do Is Wrong](https://open.spotify.com/album/28U4nmmCWwmJstiNkjKxMy) | 4:07 | 2021-10-22 | 2022-11-13 |
 | [Fake Love](https://open.spotify.com/track/05Z4IreB9RR7ckA77xhoEK) | [SkyeChristy](https://open.spotify.com/artist/1gs7KrnlCg03ctwSwLuLND) | [Fake Love](https://open.spotify.com/album/7ETHMfLKCuyBc0m0LbkdHT) | 2:28 | 2023-05-26 | 2023-11-21 |
 | [Farm](https://open.spotify.com/track/0XYOOO2116SufLpAN4XYoC) | [Skullcrusher](https://open.spotify.com/artist/1GUaQ6GpaxFPKZ0SCSsnwD) | [Farm b/w Lift](https://open.spotify.com/album/532dE80TPKy26bmbG0B7cv) | 4:43 | 2021-10-22 | 2022-07-29 |
-| [Farm](https://open.spotify.com/track/2C4ESQIc6lROCWKMwffsU6) | [Skullcrusher](https://open.spotify.com/artist/1GUaQ6GpaxFPKZ0SCSsnwD) | [Farm b/w Lift](https://open.spotify.com/album/7L0CdrL4wrljsZvpIB3yVK) | 4:43 | 2022-07-11 |  |
+| [Farm](https://open.spotify.com/track/2C4ESQIc6lROCWKMwffsU6) | [Skullcrusher](https://open.spotify.com/artist/1GUaQ6GpaxFPKZ0SCSsnwD) | [Farm b/w Lift](https://open.spotify.com/album/7L0CdrL4wrljsZvpIB3yVK) | 4:43 | 2022-07-11 | 2024-03-21 |
 | [Fight For Life](https://open.spotify.com/track/3Hd8w9C1pU2zBFohcndEfw) | [El Perro del Mar](https://open.spotify.com/artist/0bnwha8WPTU2sf4Q4P6vE0) | [Fight For Life](https://open.spotify.com/album/05TrqScxJZ8iWLgQWGPsEB) | 4:10 | 2021-10-22 | 2022-07-29 |
 | [Fire of Love](https://open.spotify.com/track/4lnAR9AH0WZoRUNsOgwHXd) | [Jesse Jo Stark](https://open.spotify.com/artist/1VmIiQ7VHrqHg90igSWrB0) | [Fire of Love](https://open.spotify.com/album/2FXiYzdQcU5btMt1BfK9UL) | 4:40 | 2022-07-11 |  |
 | [Fire of Love](https://open.spotify.com/track/58Wk9WXpOiObwEC9yHTQkp) | [Jesse Jo Stark](https://open.spotify.com/artist/1VmIiQ7VHrqHg90igSWrB0) | [A Pretty Place to Fall Apart](https://open.spotify.com/album/277q9Arz8WB6wq9b1vRuxD) | 4:40 | 2021-10-22 | 2022-07-28 |
@@ -128,6 +128,7 @@
 | [Loose Change for the Boatman](https://open.spotify.com/track/63Se4AtqR6HSdkfsMS3mDl) | [King Charles](https://open.spotify.com/artist/6QKDcdjtwqu4E7rztEUQu5) | [Gamble for a Rose](https://open.spotify.com/album/7ovzIYq8ot5vOlyiOOeLzA) | 4:02 | 2022-07-11 | 2024-03-19 |
 | [Lost It All](https://open.spotify.com/track/0HrhMgGtRk6wOxUUCqvf4i) | [Jill Andrews](https://open.spotify.com/artist/35VpsbV6V2NdfTeNZEbKfc) | [Lost It All](https://open.spotify.com/album/26TDhagwH7yap92e04ObFu) | 3:43 | 2021-10-22 |  |
 | [Loving, Loving](https://open.spotify.com/track/1QIzSLVBQA2GBrF2IDBSPK) | [Vera Sola](https://open.spotify.com/artist/6QZsje9QjfKHObQDmX6k0y) | [Shades](https://open.spotify.com/album/4ImXMfAqGuVbbRtEoQAIAP) | 3:20 | 2021-10-22 | 2022-10-16 |
+| [Loving, Loving](https://open.spotify.com/track/630pFe0xdR8ljvl31EUgJo) | [Vera Sola](https://open.spotify.com/artist/6QZsje9QjfKHObQDmX6k0y) | [Shades](https://open.spotify.com/album/7L34N3XXZnO92a5xxn6zox) | 3:20 | 2024-02-07 |  |
 | [Loving, Loving](https://open.spotify.com/track/74PqdCEXhh29g5a8UGIez8) | [Vera Sola](https://open.spotify.com/artist/6QZsje9QjfKHObQDmX6k0y) | [Shades](https://open.spotify.com/album/6jKRogMVb2zVkd0RvpxCS2) | 3:20 | 2022-07-11 | 2023-07-18 |
 | [Magnolia Blues](https://open.spotify.com/track/7piCuE6DVjnko9oTNTqVAO) | [Adia Victoria](https://open.spotify.com/artist/1HKGjRPwI0gaFyv4aSWPPl) | [Magnolia Blues](https://open.spotify.com/album/23lmCOZk4vEMiaCMKTiZMr) | 3:28 | 2021-10-22 | 2023-12-12 |
 | [Marked for Death](https://open.spotify.com/track/1fLOvLE1XRpvHpLkRHzSym) | [Emma Ruth Rundle](https://open.spotify.com/artist/34gLicNdz493863yZTanvC) | [Marked for Death](https://open.spotify.com/album/6e5Hr71kvlsrTaNoiuqWu4) | 3:39 | 2021-10-22 |  |

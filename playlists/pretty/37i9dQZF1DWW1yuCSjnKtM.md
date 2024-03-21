@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW1yuCSjnKtM.md) - [plain]
 
 > These ones are taking off 🚀🚀🚀 Cover: Ariana Grande
 
-[Spotify](https://open.spotify.com/user/spotify) - 146,601 likes - 50 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 146,811 likes - 50 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW1yuCSjnKtM.md) - [plain]
 | 49 | [Miss Me Too](https://open.spotify.com/track/1sfg5AQ5NFecKm6GO7dkdo) | [Griff](https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff) | [Miss Me Too](https://open.spotify.com/album/3rS947KA8g4uIG5zd5JH7N) | 3:02 |
 | 50 | [Bloom](https://open.spotify.com/track/5utUZ5nv6y6dR8irsnOQEj) | [Aqyila](https://open.spotify.com/artist/4cXLEhsZ1W4T6qBiDYVih4) | [Bloom](https://open.spotify.com/album/7eSHhMZCCvJvubQ3plHlYZ) | 2:55 |
 
-Snapshot ID: `MCw5YjM5MjNiMDA4ZGZjOWQ5MTYyMjA3ZDA2OWNjOTg2YzBlYTlmNTVl`
+Snapshot ID: `MCwxZmQ5Zjc1MTU4MTY4NTRkMTRjZmMzZDBjYTYwZjBhOWRiNGYyYzI5`

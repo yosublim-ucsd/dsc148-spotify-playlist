@@ -1,12 +1,12 @@
 {
   "description": "Aqui o ver\u00e3o dura 365 dias! Passe o protetor solar, aumente o som e aperte o play!",
-  "num_followers": 2052,
+  "num_followers": 2053,
   "original_name": "Ver\u00e3o Forever",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzYTBmZjk2OWUwYTdmYTcxZDg0ZTc3ZWQzZjQzMDk4YzA1OTMyMjRj",
+  "snapshot_id": "MCxlMWMxMzYzZjAzYWJlMmFmY2Q4YjFkODZhNTg3ODEwMTU3NWQ3ODcy",
   "tracks": [
     {
       "added_at": "2024-02-27 17:20:18",
@@ -447,6 +447,30 @@
     {
       "added_at": "2024-02-27 17:20:18",
       "album": {
+        "name": "Summer Days (feat. Macklemore & Patrick Stump of Fall Out Boy)",
+        "url": "https://open.spotify.com/album/0xbuJLlb5afBcmCpdOaszR"
+      },
+      "artists": [
+        {
+          "name": "Martin Garrix",
+          "url": "https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ"
+        },
+        {
+          "name": "Macklemore",
+          "url": "https://open.spotify.com/artist/3JhNCzhSMTxs9WLGJJxWOY"
+        },
+        {
+          "name": "Fall Out Boy",
+          "url": "https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX"
+        }
+      ],
+      "duration_ms": 163804,
+      "name": "Summer Days (feat. Macklemore & Patrick Stump of Fall Out Boy)",
+      "url": "https://open.spotify.com/track/7Feaw9WAEREY0DUOSXJLOM"
+    },
+    {
+      "added_at": "2024-02-27 17:20:18",
+      "album": {
         "name": "These Days (feat. Jess Glynne, Macklemore & Dan Caplen)",
         "url": "https://open.spotify.com/album/2sjjFDjZSCYD5eBCsi0fDW"
       },
@@ -475,26 +499,30 @@
     {
       "added_at": "2024-02-27 17:20:18",
       "album": {
-        "name": "Summer Days (feat. Macklemore & Patrick Stump of Fall Out Boy)",
-        "url": "https://open.spotify.com/album/0xbuJLlb5afBcmCpdOaszR"
+        "name": "Electricity (with Dua Lipa)",
+        "url": "https://open.spotify.com/album/429B3se6xtZuvblNnS2iy7"
       },
       "artists": [
         {
-          "name": "Martin Garrix",
-          "url": "https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ"
+          "name": "Silk City",
+          "url": "https://open.spotify.com/artist/2X97ZAqRKRMYFIDqtvGgGc"
         },
         {
-          "name": "Macklemore",
-          "url": "https://open.spotify.com/artist/3JhNCzhSMTxs9WLGJJxWOY"
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
         },
         {
-          "name": "Fall Out Boy",
-          "url": "https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX"
+          "name": "Diplo",
+          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
+        },
+        {
+          "name": "Mark Ronson",
+          "url": "https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp"
         }
       ],
-      "duration_ms": 163804,
-      "name": "Summer Days (feat. Macklemore & Patrick Stump of Fall Out Boy)",
-      "url": "https://open.spotify.com/track/7Feaw9WAEREY0DUOSXJLOM"
+      "duration_ms": 238173,
+      "name": "Electricity (with Dua Lipa)",
+      "url": "https://open.spotify.com/track/5N4erncE7kuUccm7zEmwzk"
     },
     {
       "added_at": "2024-02-27 17:20:18",
@@ -531,34 +559,6 @@
       "duration_ms": 267500,
       "name": "Verte Ir",
       "url": "https://open.spotify.com/track/4lzxJ4jCuFDXXGkE1LmpKR"
-    },
-    {
-      "added_at": "2024-02-27 17:20:18",
-      "album": {
-        "name": "Electricity (with Dua Lipa)",
-        "url": "https://open.spotify.com/album/429B3se6xtZuvblNnS2iy7"
-      },
-      "artists": [
-        {
-          "name": "Silk City",
-          "url": "https://open.spotify.com/artist/2X97ZAqRKRMYFIDqtvGgGc"
-        },
-        {
-          "name": "Dua Lipa",
-          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
-        },
-        {
-          "name": "Diplo",
-          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
-        },
-        {
-          "name": "Mark Ronson",
-          "url": "https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp"
-        }
-      ],
-      "duration_ms": 238173,
-      "name": "Electricity (with Dua Lipa)",
-      "url": "https://open.spotify.com/track/5N4erncE7kuUccm7zEmwzk"
     },
     {
       "added_at": "2024-02-27 17:20:18",

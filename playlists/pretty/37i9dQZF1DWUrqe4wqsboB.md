@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUrqe4wqsboB.md) - [plain]
 
 > Indie, pop, alternativo..\. y un poco más allá\. Cover: Ana Macho
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,213 likes - 50 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,221 likes - 50 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUrqe4wqsboB.md) - [plain]
 | 4 | [Amor Artificial](https://open.spotify.com/track/7z0BLN6gAnrpBypnMR54r7) | [Pj Sin Suela](https://open.spotify.com/artist/0AdjzZxHJ4MfbImx2rD0Df) | [Amor Artificial](https://open.spotify.com/album/3C1E4Cy9MfI9X3prAsym42) | 3:39 |
 | 5 | [Ya No Tengo Tu Love](https://open.spotify.com/track/1koXGzfqMnrnb4M8FxOpWg) | [Sie7e](https://open.spotify.com/artist/11wOrJLuakmQqTuhXXW2xz) | [Origami](https://open.spotify.com/album/5dBzqiqxBT3dOlNlBjx07x) | 3:57 |
 | 6 | [Ta Que Tiembla](https://open.spotify.com/track/608EJ9ZzAa7eAeLwt3O3tw) | [Buscabulla](https://open.spotify.com/artist/0MoaBi6dSquXp6rrlqlF8R) | [Regresa](https://open.spotify.com/album/18xOW1VhQWVgnQH9CGi9Rp) | 2:48 |
-| 7 | [roadhead](https://open.spotify.com/track/22e6zQqBcv68ZZnRNklZAf) | [RaiNao](https://open.spotify.com/artist/42LEQxfXLEuzdqorKBbUVN), [Tainy](https://open.spotify.com/artist/11IhHAEDYq3PL9CewvfWM4) | [CAPICÚ](https://open.spotify.com/album/14nxqQmgXadFt4KHCLxf4s) | 2:37 |
+| 7 | [roadhead](https://open.spotify.com/track/22e6zQqBcv68ZZnRNklZAf) | [RaiNao](https://open.spotify.com/artist/42LEQxfXLEuzdqorKBbUVN), [Tainy](https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB) | [CAPICÚ](https://open.spotify.com/album/14nxqQmgXadFt4KHCLxf4s) | 2:37 |
 | 8 | [Un Millón](https://open.spotify.com/track/5dFG12OQz10CbUFZIYH0gv) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [CINEMA](https://open.spotify.com/album/5TkaDC4mYSLBvdG6UrIB0v) | 2:47 |
 | 9 | [YOKO](https://open.spotify.com/track/6dlZryuz7NIz20faRoZV4k) | [Alvaro Diaz](https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr) | [YOKO](https://open.spotify.com/album/4hIrXHdSBr4iXJAsyq3Fd0) | 3:27 |
 | 10 | [Solo Un Eco](https://open.spotify.com/track/4hWmuhICX1vxZOL1y8vYe4) | [Cultura Profética](https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi) | [Solo Un Eco](https://open.spotify.com/album/5gZfKeS7i3RaNBrjn5Dbl0) | 4:45 |
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUrqe4wqsboB.md) - [plain]
 | 31 | [Días Negros](https://open.spotify.com/track/7GggClJIZhrWpNYfFt5RAQ) | [Chango Menas](https://open.spotify.com/artist/02JOH3JikydGzqOEI7WzA9) | [Días Negros](https://open.spotify.com/album/5aAukLeOUD7CH1qE36t7mt) | 3:02 |
 | 32 | [La Mitad](https://open.spotify.com/track/2NoqbmRul942IxBxlE0IDE) | [GALE](https://open.spotify.com/artist/04pH6pkJugHJ7g3DTCQBVM) | [Lo Que No Te Dije](https://open.spotify.com/album/0KrPRk1FK1ToydnMvBZ315) | 2:56 |
 | 33 | [Otra Noche en L.A.](https://open.spotify.com/track/2CqqG67J2dUvM6BmlZKWiD) | [Ricky Martin](https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ) | [PLAY](https://open.spotify.com/album/5HUZHRFykvKm9v6Bf3alDC) | 3:31 |
-| 34 | [Hot Pants](https://open.spotify.com/track/6ru8BeXJfqD2IGYlu4K18N) | [Los Rivera Destino](https://open.spotify.com/artist/7LQaY9LGXHzoJY8DvwpSid) | [Memes del Futuro](https://open.spotify.com/album/2BngW4gizvgN5Xzda1ypkW) | 2:57 |
-| 35 | [Vibra](https://open.spotify.com/track/41dHSGLC4FJl8iQFU60PEp) | [Calma Carmona](https://open.spotify.com/artist/3cwyykLjgXZ09CV661ZO8q) | [Vibra](https://open.spotify.com/album/6CEienBDgxTIWPx5VxJV3g) | 2:54 |
+| 34 | [Vibra](https://open.spotify.com/track/41dHSGLC4FJl8iQFU60PEp) | [Calma Carmona](https://open.spotify.com/artist/3cwyykLjgXZ09CV661ZO8q) | [Vibra](https://open.spotify.com/album/6CEienBDgxTIWPx5VxJV3g) | 2:54 |
+| 35 | [Hot Pants](https://open.spotify.com/track/6ru8BeXJfqD2IGYlu4K18N) | [Los Rivera Destino](https://open.spotify.com/artist/7LQaY9LGXHzoJY8DvwpSid) | [Memes del Futuro](https://open.spotify.com/album/2BngW4gizvgN5Xzda1ypkW) | 2:57 |
 | 36 | [Tommy Bahama](https://open.spotify.com/track/0rAzw6N1msr3fNzqmOLLU9) | [Sebimor](https://open.spotify.com/artist/6p1OHsaiF7V8qCu80f9ROH) | [Tommy Bahama](https://open.spotify.com/album/28rGVwaeWzeUOlwaew40FW) | 3:49 |
 | 37 | [Desastre Comunal](https://open.spotify.com/track/4zT2HDqXcnXDfHZpNWgq1T) | [Los Wálters](https://open.spotify.com/artist/0joND3Z9boBeX6EOu66rAY) | [Miss Universos](https://open.spotify.com/album/1Ss9TprLiCLzubn8S549gl) | 3:05 |
 | 38 | [Aguadilla](https://open.spotify.com/track/22tVNm19WbKR7F8tLZcaIg) | [Mola Mola](https://open.spotify.com/artist/0GvoilgXudnVgLkkxYCttN), [Manu Durán](https://open.spotify.com/artist/2KK7N3eQQiPWi7GRVJwxZL) | [Liberado](https://open.spotify.com/album/6oxa4q3xwgjHngcjVXUgbJ) | 3:19 |
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUrqe4wqsboB.md) - [plain]
 | 40 | [Circuito por Milán](https://open.spotify.com/track/6zLtJnwoiiNJ6vAF4a0KYF) | [Epilogio](https://open.spotify.com/artist/3VbATB9xUq0UsLkb9tXKaA) | [Circuito por Milán](https://open.spotify.com/album/7alsag6KDYqx8cF6QyDPbG) | 3:14 |
 | 41 | [Que Te Vaya Bien](https://open.spotify.com/track/0B96PPohQ9YmlvHFkGEfob) | [Chesca](https://open.spotify.com/artist/7DgpPXntG6DkNR4hCi4PjP) | [Que Te Vaya Bien](https://open.spotify.com/album/6C5Q7Ot0hYpCuIeV6v9jgB) | 2:50 |
 | 42 | [Girasoles](https://open.spotify.com/track/5yDDG59RvEYqJzX032Q3dx) | [Baby City Club](https://open.spotify.com/artist/0C0N9lnbb1PTCOU7Rltx6h) | [Girasoles](https://open.spotify.com/album/6gmZ7hycaLVJlFBusgpDzo) | 5:08 |
-| 43 | [TQD](https://open.spotify.com/track/2AQVo81C3slum4RinFZWkM) | [Mola Mola](https://open.spotify.com/artist/0GvoilgXudnVgLkkxYCttN) | [Liberado](https://open.spotify.com/album/6oxa4q3xwgjHngcjVXUgbJ) | 3:20 |
-| 44 | [Dama](https://open.spotify.com/track/0Tmi4OKz5CTFnWNjeR2j1G) | [Los Wálters](https://open.spotify.com/artist/0joND3Z9boBeX6EOu66rAY) | [Dama](https://open.spotify.com/album/5YsBGBAtUA1GsQqaVXyyru) | 3:46 |
+| 43 | [Dama](https://open.spotify.com/track/0Tmi4OKz5CTFnWNjeR2j1G) | [Los Wálters](https://open.spotify.com/artist/0joND3Z9boBeX6EOu66rAY) | [Dama](https://open.spotify.com/album/5YsBGBAtUA1GsQqaVXyyru) | 3:46 |
+| 44 | [TQD](https://open.spotify.com/track/2AQVo81C3slum4RinFZWkM) | [Mola Mola](https://open.spotify.com/artist/0GvoilgXudnVgLkkxYCttN) | [Liberado](https://open.spotify.com/album/6oxa4q3xwgjHngcjVXUgbJ) | 3:20 |
 | 45 | [Duermo con frío](https://open.spotify.com/track/5oMNZjZUe6paIem7RWoIQA) | [Cita](https://open.spotify.com/artist/0ePPxl04qm9B08uPnbBmpC) | [El Cuento de Cita](https://open.spotify.com/album/38d0eTAxlf9Vckm2MVOkqX) | 3:14 |
 | 46 | [Me Saben a Miel](https://open.spotify.com/track/4Ju1mQFxj2kRBAzzv0WaVh) | [Circo](https://open.spotify.com/artist/5f4yA5jDkv5z75thk9ZNTc), [iLe](https://open.spotify.com/artist/1CztIa6fCQ0WmVPidXuwSs) | [Me Saben a Miel](https://open.spotify.com/album/3vXjrJIzXJUNCdwTXLlebb) | 3:43 |
 | 47 | [Tu Nunca Has Sentido](https://open.spotify.com/track/0ztfWr6DIlLJKJwGY3pDz6) | [Los Rarxs](https://open.spotify.com/artist/2beQ1TGXLrS93qlmzzbXMR) | [La Rareza](https://open.spotify.com/album/4JsDF0xy6ROvnIK4VN4YYh) | 2:41 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUrqe4wqsboB.md) - [plain]
 | 49 | [Rockstar](https://open.spotify.com/track/6ieljkNQsuSVof3XWD8box) | [Baby City Club](https://open.spotify.com/artist/0C0N9lnbb1PTCOU7Rltx6h) | [Rockstar](https://open.spotify.com/album/0u1cF6vEOT9XMoJGZJJDWw) | 3:20 |
 | 50 | [Los Perros Van Al Cielo](https://open.spotify.com/track/4UlNyXwdUC2r5YSdOYB0Bt) | [Epilogio](https://open.spotify.com/artist/3VbATB9xUq0UsLkb9tXKaA) | [Los Perros Van Al Cielo](https://open.spotify.com/album/78zM7Jt21cfSI2s95Me58N) | 3:15 |
 
-Snapshot ID: `MCw5NjYxNjRjZDNlODdlM2RiMjc3MzMzMzJjMTg2MzVhYzAzMjVhMTYz`
+Snapshot ID: `MCxiNWFmYjViMTQ5YTRhMzkyMDUwMjFhNDNjOGE2NGUzYjNhNmNmM2I5`

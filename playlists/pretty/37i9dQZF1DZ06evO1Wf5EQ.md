@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Wf5EQ.md) - [plain]
 
 > This is Carlos Rafael Rivera\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 448 likes - 25 songs - 40 min 31 sec
+[Spotify](https://open.spotify.com/user/spotify) - 449 likes - 24 songs - 39 min 13 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,6 +32,5 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Wf5EQ.md) - [plain]
 | 22 | [Saint Luke's](https://open.spotify.com/track/4LgoROt9rZS81HR1rlCjZd) | [Carlos Rafael Rivera](https://open.spotify.com/artist/3lh6JVXJU1mcXuI7ctT4gh) | [Lessons In Chemistry: Season 1 \(Apple Original Series Soundtrack\)](https://open.spotify.com/album/23xn7eZgOf41WYCfKj2LjP) | 1:43 |
 | 23 | [Mcnue Leaves](https://open.spotify.com/track/7st5nMW9QlnCq7j5Ygt1rw) | [Carlos Rafael Rivera](https://open.spotify.com/artist/3lh6JVXJU1mcXuI7ctT4gh) | [Godless \(Original Music from the Netflix Series\)](https://open.spotify.com/album/4S2jmig5eJzSEqTKDQwdkv) | 3:04 |
 | 24 | [Quinn Persiste](https://open.spotify.com/track/1VzTxjZoXavQIzjt299tQE) | [Carlos Rafael Rivera](https://open.spotify.com/artist/3lh6JVXJU1mcXuI7ctT4gh) | [Chupa \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/6GGqqXXRUwPfbkLaUD65mm) | 1:03 |
-| 25 | [Arrival to School](https://open.spotify.com/track/0uyHHhKlmYgwmUiEFi0Puk) | [Carlos Rafael Rivera](https://open.spotify.com/artist/3lh6JVXJU1mcXuI7ctT4gh) | [Just Beyond \(Original Soundtrack\)](https://open.spotify.com/album/4KXlP5OHXybdqq7ul913r1) | 1:18 |
 
-Snapshot ID: `Mjg1MTQxOTUsMDAwMDAwMDBmNGRjNTYyMmZhZGNhYjU1NzZiMDExODIzYjFmNDliYw==`
+Snapshot ID: `Mjg1MTU2NjEsMDAwMDAwMDBjZmZiYjA0NDBjZTg0ZTI0OGU0NjRmZWMyMjkzMmZmOA==`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1rBMR2.md) - [plain]
 
 > This is Los Huracanes del Norte\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 109,786 likes - 50 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 109,828 likes - 50 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1rBMR2.md) - [plain]
 | 49 | [Mis Ultimos Deseos](https://open.spotify.com/track/4tGq64xafUkjBPP0m8ruVx) | [Los Huracanes del Norte](https://open.spotify.com/artist/2wmwGWrqRizLaSEYrm5dzZ) | [Con Experiencia Y Juventud](https://open.spotify.com/album/5kkoAGv1jXUSf7qTUsUbbe) | 3:00 |
 | 50 | [El Corrido De Los Perez](https://open.spotify.com/track/4BLxjH7MYEcnf8UuI739mq) | [Los Huracanes del Norte](https://open.spotify.com/artist/2wmwGWrqRizLaSEYrm5dzZ) | [Los Huracanes del Norte \- 40 Aniversario](https://open.spotify.com/album/2j5szS1qydIXtQl79I6TPW) | 3:25 |
 
-Snapshot ID: `Mjg1MTQxOTUsMDAwMDAwMDAxOTQ0NDVmMDBiYzA5Yjc4ZWRlYmE3OTMwOTVjZjFlZA==`
+Snapshot ID: `Mjg1MTU2NjEsMDAwMDAwMDAxNTJhNDAyOGFmNzRiMTY1MTIyNGI5YTdiNWQxZTkyOQ==`

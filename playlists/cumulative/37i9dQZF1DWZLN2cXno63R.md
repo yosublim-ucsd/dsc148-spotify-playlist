@@ -4,7 +4,7 @@
 
 > Take yourself to Havana with some Cuban Salsa and Café favourites.
 
-127 songs - 8 hr 43 min
+128 songs - 8 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,7 +47,8 @@
 | [El Gallo De Moron](https://open.spotify.com/track/4u9ncLvMpp4mEyoE9ZC3Gh) | [Pío Leiva](https://open.spotify.com/artist/7vf3cusT4A12yB9wu0714H), [Septeto Nacional de Ignacio Piñeiro](https://open.spotify.com/artist/5qiN4a3Vf62zWPlq68ZVhj) | [Esta Es Mi Rumba](https://open.spotify.com/album/08goQFOlOClDPtGQZl7d2o) | 4:14 | 2022-03-30 |  |
 | [El gallo de morón](https://open.spotify.com/track/3iwtsEbsxyqWSWlL1tCMwj) | [Pio Leyva](https://open.spotify.com/artist/13yIrDY8fitx2qJr7UjfAc) | [Best of Buena Vista, Vol\. 2](https://open.spotify.com/album/4HFvzoHzObNjG6NQjXXnST) | 4:12 | 2021-12-10 | 2022-07-29 |
 | [El Gallo de Morón](https://open.spotify.com/track/3wS4LArgjvAsfM6EyiLx3J) | [Pío Leiva](https://open.spotify.com/artist/7vf3cusT4A12yB9wu0714H), [Septeto Nacional Ignacio Piñeiro](https://open.spotify.com/artist/67yMeHb5yvyDRabVSMZu8Z) | [Esta es mi Rumba](https://open.spotify.com/album/2WkdKPVgqZMYniBLn7waS9) | 4:12 | 2022-08-05 | 2022-11-14 |
-| [El guao](https://open.spotify.com/track/1j9ZiTEd1x7cmvbfiLAIrS) | [Los Jubilados](https://open.spotify.com/artist/2fYr0OC9ENysJE3pnRuEJH) | [Échate pa 'llá](https://open.spotify.com/album/286Y8F1d57W21ADMQVugMr) | 4:47 | 2021-12-10 |  |
+| [El guao](https://open.spotify.com/track/1j9ZiTEd1x7cmvbfiLAIrS) | [Los Jubilados](https://open.spotify.com/artist/2fYr0OC9ENysJE3pnRuEJH) | [Échate pa 'llá](https://open.spotify.com/album/286Y8F1d57W21ADMQVugMr) | 4:47 | 2021-12-10 | 2024-03-21 |
+| [El Guao](https://open.spotify.com/track/5MMkuLmdhrsMYyfS18qOnt) | [Los Jubilados](https://open.spotify.com/artist/2fYr0OC9ENysJE3pnRuEJH) | [Cero Farandulero](https://open.spotify.com/album/6DV1RCgPHvFq7gcmplESeT) | 4:47 | 2022-08-05 |  |
 | [El Guayo De Catania](https://open.spotify.com/track/2ZqXKLuGQRQtH9gE9yNaLM) | [Los Gardenias](https://open.spotify.com/artist/1Z3e3MP52dQjW6Vhdj2FGz) | [Café Cuba](https://open.spotify.com/album/0oMN5tFErJAZRwuvp6tY4z) | 3:15 | 2021-12-10 |  |
 | [El Guayo de Catilina](https://open.spotify.com/track/0YMHpQZ6FYqS4V6J6xOVqL) | [Havana Club](https://open.spotify.com/artist/3OVEfqUmt746LvlpP2rKK2) | [Cafè de Cuba \(Latin Music, Cuba\)](https://open.spotify.com/album/1hPlkjUn6C9cRVVN3VEfhu) | 3:17 | 2021-12-10 |  |
 | [El manisero](https://open.spotify.com/track/5Us6WiDjBOTyabRsOeKafH) | [Jorge Anibal Mendoza](https://open.spotify.com/artist/56YAAzaH2jKV3F2vlBODKt), [Teresa Gonzáles Feldmann](https://open.spotify.com/artist/3FTIC0VPS6p22gX0Mh7Wc4), [Pablo Carcamo](https://open.spotify.com/artist/6Nxv0zr9DVeusjZpewzriS) | [World Dance: Cuba](https://open.spotify.com/album/7bUTs0Sq3rDoCy2UZ9bZtP) | 3:42 | 2022-03-30 |  |

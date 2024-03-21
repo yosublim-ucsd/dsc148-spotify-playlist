@@ -1,5 +1,5 @@
 {
-  "2024-03-20": 3088,
+  "2024-03-21": 3092,
   "date_first_scraped": "2023-06-08",
   "description": "This is Kaliii. The essential tracks, all in one playlist.",
   "name": "This Is Kaliii",
@@ -548,6 +548,24 @@
     },
     {
       "album": {
+        "name": "Groovy Psychedelic Downtempo & Chill out V7",
+        "url": "https://open.spotify.com/album/3sw4MuCG3Uc2NYQBYZEn7q"
+      },
+      "artists": [
+        {
+          "name": "Kaliii",
+          "url": "https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL"
+        }
+      ],
+      "date_added": "2024-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 566333,
+      "name": "Gelatin Coated - Original Mix",
+      "url": "https://open.spotify.com/track/2UyDM4ZkCAThoYz6Uxz1yW"
+    },
+    {
+      "album": {
         "name": "Keep It Playa",
         "url": "https://open.spotify.com/album/1CIY3PA833LK8TVJpsSOvS"
       },
@@ -939,7 +957,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-20",
       "duration_ms": 178714,
       "name": "Rockers Step Like Kelly",
       "url": "https://open.spotify.com/track/2d18QIOZ9d90BzbndmW01N"

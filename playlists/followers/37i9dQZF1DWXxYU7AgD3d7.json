@@ -1,5 +1,5 @@
 {
-  "2024-03-20": 5706,
+  "2024-03-21": 5752,
   "date_first_scraped": "2023-10-18",
   "description": "<a href=\"https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et?si=l_E1EUSFQy6mw967zlio3Q\"> Disclosure</a>'s favourite tracks. Updated regularly. Curated by Disclosure. More track IDs <a href=\"spotify:genre:track_id\">here</a>.",
   "name": "Disclosure's track ID's",
@@ -118,6 +118,24 @@
     },
     {
       "album": {
+        "name": "Bottomless Brunch",
+        "url": "https://open.spotify.com/album/1xorIZ4EwvxN1ZUmXqNcEz"
+      },
+      "artists": [
+        {
+          "name": "Fold",
+          "url": "https://open.spotify.com/artist/2BRIfQ1ys3QiaQTD3uIjf8"
+        }
+      ],
+      "date_added": "2024-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 312541,
+      "name": "Bottomless Brunch",
+      "url": "https://open.spotify.com/track/2mAPMuXFMx9qJwsE1E0wtc"
+    },
+    {
+      "album": {
         "name": "Changing Channels / Hole Away",
         "url": "https://open.spotify.com/album/19Lb00gXUDQJH3WPtvuLl0"
       },
@@ -133,6 +151,32 @@
       "duration_ms": 434796,
       "name": "Changing Channels",
       "url": "https://open.spotify.com/track/1wKGelyxxXFwqvc2kTl3sw"
+    },
+    {
+      "album": {
+        "name": "Walking Wounded (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4wGUmFfJaJksaMCzGnRWL5"
+      },
+      "artists": [
+        {
+          "name": "Everything But The Girl",
+          "url": "https://open.spotify.com/artist/13ccXrK7AmXb4TddMkE7jy"
+        },
+        {
+          "name": "Ben Watt",
+          "url": "https://open.spotify.com/artist/4RIOH6XCUt1Xr8NLUj2u66"
+        },
+        {
+          "name": "Knee Deep",
+          "url": "https://open.spotify.com/artist/2RTq0CujB3hkMrklOCYgJ1"
+        }
+      ],
+      "date_added": "2024-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 379693,
+      "name": "Corovado - Knee Deep Classic Club Mix",
+      "url": "https://open.spotify.com/track/3t6D0NzCmatM0vipFwtXt4"
     },
     {
       "album": {
@@ -252,6 +296,28 @@
     },
     {
       "album": {
+        "name": "Get Me",
+        "url": "https://open.spotify.com/album/2wpIozbP9fxGC0aBYk8yZV"
+      },
+      "artists": [
+        {
+          "name": "Sia",
+          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
+        },
+        {
+          "name": "groove chronicles",
+          "url": "https://open.spotify.com/artist/6sPampdUXc2lkdkGAm9kKm"
+        }
+      ],
+      "date_added": "2024-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 317920,
+      "name": "Get Me - Groove Chronicles Mix",
+      "url": "https://open.spotify.com/track/1qh3Bq0KLVJSJ9oebNgqVS"
+    },
+    {
+      "album": {
         "name": "Get Up, Get Out",
         "url": "https://open.spotify.com/album/4OSsGrfHerg5NI6VGr8mZI"
       },
@@ -271,6 +337,24 @@
       "duration_ms": 354524,
       "name": "Get Up, Get Out - Extended Version",
       "url": "https://open.spotify.com/track/6JOMfjd2N86cgRq9n1BKFT"
+    },
+    {
+      "album": {
+        "name": "Gimme The $",
+        "url": "https://open.spotify.com/album/0Psjut0VFPV0IsKRUgkIIJ"
+      },
+      "artists": [
+        {
+          "name": "Davide T",
+          "url": "https://open.spotify.com/artist/1pd2mIBKC4uzLtAEP8qpgw"
+        }
+      ],
+      "date_added": "2024-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 370252,
+      "name": "Gimme The $",
+      "url": "https://open.spotify.com/track/2AoQEc3N6MSLQVTEDIVysD"
     },
     {
       "album": {
@@ -520,6 +604,24 @@
     },
     {
       "album": {
+        "name": "I Move, You Move",
+        "url": "https://open.spotify.com/album/3ZqXUYoGMl7tVntIRm4XKh"
+      },
+      "artists": [
+        {
+          "name": "Golden Lambo",
+          "url": "https://open.spotify.com/artist/41KnTYjQMWmLmzwFXS5lum"
+        }
+      ],
+      "date_added": "2024-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170909,
+      "name": "I Move, You Move",
+      "url": "https://open.spotify.com/track/5jVOR9leZjED30YJxjtmoF"
+    },
+    {
+      "album": {
         "name": "Shake / In The Mood",
         "url": "https://open.spotify.com/album/6He6laSFhDHETaQaxulrtp"
       },
@@ -715,7 +817,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-20",
       "duration_ms": 384000,
       "name": "Moxy Edits 001",
       "url": "https://open.spotify.com/track/17ZXjB3BbIPjbTQB3PfAK6"
@@ -868,6 +970,24 @@
     },
     {
       "album": {
+        "name": "Revolution",
+        "url": "https://open.spotify.com/album/59PxGPbXMHwjHGSwGqEsZJ"
+      },
+      "artists": [
+        {
+          "name": "BK",
+          "url": "https://open.spotify.com/artist/5zFtqMfPtmGuKZEjepbVDW"
+        }
+      ],
+      "date_added": "2024-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 383764,
+      "name": "Revolution - Extended Edit",
+      "url": "https://open.spotify.com/track/4unUOKwutErndW1B36Yy1s"
+    },
+    {
+      "album": {
         "name": "Right On!",
         "url": "https://open.spotify.com/album/0gV5ayfJseJfnK0Uze56J6"
       },
@@ -941,7 +1061,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-20",
       "duration_ms": 318506,
       "name": "Searchin' For My Rizla",
       "url": "https://open.spotify.com/track/2Bh3GpDX493m8gb9xvOkLa"
@@ -1116,6 +1236,24 @@
     },
     {
       "album": {
+        "name": "system",
+        "url": "https://open.spotify.com/album/6Tb7xosGis8X86XpTn8bx9"
+      },
+      "artists": [
+        {
+          "name": "salute",
+          "url": "https://open.spotify.com/artist/1np8xozf7ATJZDi9JX8Dx5"
+        }
+      ],
+      "date_added": "2024-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232239,
+      "name": "system",
+      "url": "https://open.spotify.com/track/0Tc7p0cKE8078NVGRDcDOX"
+    },
+    {
+      "album": {
         "name": "The Answer",
         "url": "https://open.spotify.com/album/7Gs1tiTXsvcplzn15xDkKF"
       },
@@ -1250,6 +1388,32 @@
     },
     {
       "album": {
+        "name": "Work",
+        "url": "https://open.spotify.com/album/7lSWiTwdASu9fmdv38vNWu"
+      },
+      "artists": [
+        {
+          "name": "Kevin McKay",
+          "url": "https://open.spotify.com/artist/07VdEUK5mf0rifGeNqs0Wg"
+        },
+        {
+          "name": "Denise Belfon",
+          "url": "https://open.spotify.com/artist/20rSjugHQ6CwKR44JnteQf"
+        },
+        {
+          "name": "Pupa Nas T",
+          "url": "https://open.spotify.com/artist/4vm90zckXYAA2AZGFStkmy"
+        }
+      ],
+      "date_added": "2024-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 348750,
+      "name": "Work - Extended Mix",
+      "url": "https://open.spotify.com/track/7kfLkUokpLF5okgeIkjMLO"
+    },
+    {
+      "album": {
         "name": "Total Eclipse",
         "url": "https://open.spotify.com/album/6PPO7q95rqHmKjXC3IJafZ"
       },
@@ -1339,6 +1503,24 @@
       "duration_ms": 197197,
       "name": "You Are In My System - Faster Horses Sport Mix",
       "url": "https://open.spotify.com/track/4cxpgHXbVh4sGwb1C7TAG2"
+    },
+    {
+      "album": {
+        "name": "The Eastside Story EP",
+        "url": "https://open.spotify.com/album/7fM0yUgxQ6NRA6nF7TNNSS"
+      },
+      "artists": [
+        {
+          "name": "Marcellus Pittman",
+          "url": "https://open.spotify.com/artist/6Qlqa7riHCznxb8ppwxsOF"
+        }
+      ],
+      "date_added": "2024-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 455695,
+      "name": "You Want Me (Never)",
+      "url": "https://open.spotify.com/track/5QfiuwqeI1Hshv9lltSMBL"
     },
     {
       "album": {

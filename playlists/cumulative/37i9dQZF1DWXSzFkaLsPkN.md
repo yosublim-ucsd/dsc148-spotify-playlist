@@ -4,7 +4,7 @@
 
 > Hindi hai, Indie hai! Cover\- Utsavi Jha
 
-179 songs - 9 hr 59 min
+180 songs - 10 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,7 +12,7 @@
 | [Aaj Na](https://open.spotify.com/track/322TxW77VZdX9gHynK5Xue) | [Ritviz](https://open.spotify.com/artist/72beYOeW2sb2yfcS4JsRvb) | [Mimmi](https://open.spotify.com/album/1AproDt63gOfSf7AhNzlmG) | 3:13 | 2023-05-02 |  |
 | [Aaja](https://open.spotify.com/track/6fauGspZOfBb5REA6GBsLZ) | [Shubham Kabra](https://open.spotify.com/artist/2gxw2IBkHbDFpzqLqx3AQy) | [Aaja](https://open.spotify.com/album/15oUhgmxpbbIVt3M2t3tAP) | 4:13 | 2023-06-26 | 2023-07-01 |
 | [Aasmaan Jaley](https://open.spotify.com/track/2dEvh4AAZvD8qwq0VGTAe6) | [Abhay Jodhpurkar](https://open.spotify.com/artist/27rK4pP0VMqWiRe7pamKe5), [Abhijeet Srivastava](https://open.spotify.com/artist/4FJhE5ToBQGzOGf0D5Xd1C) | [Aasmaan Jaley](https://open.spotify.com/album/5XydWzMA9SpDyHVi7Z2H6u) | 2:46 | 2023-12-15 |  |
-| [Aise Ho Tum](https://open.spotify.com/track/4wgDpX6DPzCjsAX6XK5KV0) | [Twin Strings](https://open.spotify.com/artist/0cPN6x5LmDIZjp6gFmAkqw) | [Aise Ho Tum](https://open.spotify.com/album/5YXNlo7YoApvoyvLDBETlA) | 4:12 | 2023-05-02 | 2024-03-09 |
+| [Aise Ho Tum](https://open.spotify.com/track/4wgDpX6DPzCjsAX6XK5KV0) | [Twin Strings](https://open.spotify.com/artist/0cPN6x5LmDIZjp6gFmAkqw) | [Aise Ho Tum](https://open.spotify.com/album/5YXNlo7YoApvoyvLDBETlA) | 4:12 | 2023-05-02 |  |
 | [Aisi Raaton](https://open.spotify.com/track/0RSGPiykniIg8m7JhiAVv7) | [Anupam Roy](https://open.spotify.com/artist/5LZ894xYE9MG1sal0gjt5L) | [Aisi Raaton](https://open.spotify.com/album/1m45OoirgSzgEF5sLT8i2R) | 3:38 | 2023-05-02 |  |
 | [Alfaazo](https://open.spotify.com/track/6KvXpACADAz73IPrCgXobL) | [Mitraz](https://open.spotify.com/artist/3iGhlvzpXc0UHBQ7klAItX) | [Alfaazo](https://open.spotify.com/album/6xy5HvqMaDhB1EGlqE5iju) | 2:38 | 2023-05-02 |  |
 | [Awaara Ho](https://open.spotify.com/track/1wYzvT6Ek0rJSyVu848CzN) | [Shashwat Sachdev](https://open.spotify.com/artist/465OXuCU8YZNmVG1leLwQ9) | [Awaara Ho](https://open.spotify.com/album/5S42rvQq7Ix5LvUZNCu1Qu) | 3:29 | 2023-05-02 |  |
@@ -28,7 +28,8 @@
 | [Chandamama](https://open.spotify.com/track/3VEOc7GOcyFuovS2JRL2Lo) | [Ritviz](https://open.spotify.com/artist/72beYOeW2sb2yfcS4JsRvb) | [Mimmi](https://open.spotify.com/album/1AproDt63gOfSf7AhNzlmG) | 2:46 | 2023-05-02 | 2023-06-02 |
 | [Chaubaare](https://open.spotify.com/track/4l5Of6D0Gno1dxSFvoiii4) | [Sunny M.R.](https://open.spotify.com/artist/4bOqW6xGi7n9315ErmJ2Um) | [Unsung Verses \(2020\)](https://open.spotify.com/album/5qWmIzOFBluiMaCWh337Yt) | 3:24 | 2023-05-26 | 2023-05-30 |
 | [Chor](https://open.spotify.com/track/0FCe2NhPWKiSTAipf0lOAT) | [Justh](https://open.spotify.com/artist/6gxRXj2KUJ02vfIgkNUq5b) | [Chor](https://open.spotify.com/album/41cYr6R4rPiKExcTvQTnmR) | 3:28 | 2024-01-29 | 2024-02-28 |
-| [Chor](https://open.spotify.com/track/53gdHIMmv3XubECRLL6R62) | [Justh](https://open.spotify.com/artist/6gxRXj2KUJ02vfIgkNUq5b) | [Chor](https://open.spotify.com/album/39noVgiQirYCWfBIrBzP30) | 3:28 | 2024-02-19 |  |
+| [Chor](https://open.spotify.com/track/53gdHIMmv3XubECRLL6R62) | [Justh](https://open.spotify.com/artist/6gxRXj2KUJ02vfIgkNUq5b) | [Chor](https://open.spotify.com/album/39noVgiQirYCWfBIrBzP30) | 3:28 | 2024-02-19 | 2024-03-21 |
+| [Chor](https://open.spotify.com/track/6YewfSA18qq5xl1KlJQkpY) | [Justh](https://open.spotify.com/artist/6gxRXj2KUJ02vfIgkNUq5b) | [Chor](https://open.spotify.com/album/1wBSOR9eFqfkDFyJtwPm7V) | 3:28 | 2024-02-19 |  |
 | [Dariya](https://open.spotify.com/track/6pvpFQ2jaI6oXAswo3GSUW) | [Vismay Patel](https://open.spotify.com/artist/43jHbOAD9UtOEO1la8CVHs) | [Dariya](https://open.spotify.com/album/5waD3IDJagOpwrRfGggHBV) | 3:36 | 2023-05-02 |  |
 | [Dastan\-E\-Dil \(Shine Your Light\)](https://open.spotify.com/track/1YQxlAnSeIaKb7POP2y6Vm) | [Antariksh](https://open.spotify.com/artist/4RzIOJu74yNYeSHL3ri60l) | [Dastan\-E\-Dil \(Shine Your Light\)](https://open.spotify.com/album/6LFKjm1ZB7fimHjcQ4nmBr) | 3:58 | 2023-08-08 | 2023-08-25 |
 | [Dhaaga](https://open.spotify.com/track/4yrsSQgfXaHuPQ4prMPvzV) | [SickLot](https://open.spotify.com/artist/2NYWuAn8LPsebNkudbSLA6), [Big Scratch](https://open.spotify.com/artist/5YlvUMiPPR0aT4pfeGlq6u) | [Khaali Panne](https://open.spotify.com/album/6rq6XwTPgShV3wlGkVciqy) | 3:41 | 2023-11-06 |  |
@@ -160,7 +161,7 @@
 | [Sunday](https://open.spotify.com/track/1GMFeGQBppaepcx6NsR7qB) | [Aditya A](https://open.spotify.com/artist/4wwYGgSpeBtvk5WX6HBqzw), [NAALAYAK](https://open.spotify.com/artist/6BWd8VpOoODhMOPks4sI6R) | [Sunday](https://open.spotify.com/album/34YGRvUlSxeevZHXZ7fl9m) | 2:24 | 2023-11-23 |  |
 | [Taj](https://open.spotify.com/track/3cbSwpMhYwcwijm3d0J1uJ) | [Ritviz](https://open.spotify.com/artist/72beYOeW2sb2yfcS4JsRvb) | [Mimmi](https://open.spotify.com/album/1AproDt63gOfSf7AhNzlmG) | 2:49 | 2023-05-02 | 2023-05-27 |
 | [Tasveer](https://open.spotify.com/track/2TCraSsTU9q8vZeEvKuluW) | [Marshall Robinson](https://open.spotify.com/artist/4ApGv767BWZI3MojIwGt0H), [Romy](https://open.spotify.com/artist/0bRPtPZQkWHeG7MGk9eWlh), [Kabul Bukhari](https://open.spotify.com/artist/14KvoiphLvP8UmalvMqT49) | [Tasveer](https://open.spotify.com/album/3rfKeoZXddrUBF0dS64vpC) | 4:18 | 2023-05-29 | 2023-06-02 |
-| [Tera Mera Aasmaan](https://open.spotify.com/track/6mOqFm4X4tdcraFWQibZSA) | [Shreya Jain](https://open.spotify.com/artist/4kf4NJ3U6oSZ423DycBpMD) | [Tera Mera Aasmaan](https://open.spotify.com/album/5vbcq7UU1ezZ0uKs7SWXwX) | 2:38 | 2023-05-02 |  |
+| [Tera Mera Aasmaan](https://open.spotify.com/track/6mOqFm4X4tdcraFWQibZSA) | [Shreya Jain](https://open.spotify.com/artist/4kf4NJ3U6oSZ423DycBpMD) | [Tera Mera Aasmaan](https://open.spotify.com/album/5vbcq7UU1ezZ0uKs7SWXwX) | 2:38 | 2023-05-02 | 2024-03-21 |
 | [Tera Nishaan](https://open.spotify.com/track/23gBGYYQcA8ivnVDj2eZxD) | [Pina Colada Blues](https://open.spotify.com/artist/1pSV6wx1cZQB3l7c2wY3mE), [Anumita Nadesan](https://open.spotify.com/artist/1nmKYy6efdYl8sIcT0gCLJ) | [Tera Nishaan](https://open.spotify.com/album/1FsGhpy3Br29xgbS1PJB4I) | 2:47 | 2023-05-02 |  |
 | [Tere Hi Hum](https://open.spotify.com/track/1TkyDEdjiUuYhoMkxdZCiO) | [Prateek Kuhad](https://open.spotify.com/artist/0tC995Rfn9k2l7nqgCZsV7) | [Tere Hi Hum](https://open.spotify.com/album/4xOZZmHAlau3WBiH4OPpKD) | 2:57 | 2023-05-02 |  |
 | [Tere Saath](https://open.spotify.com/track/0WhyIEgQhdkZnZou94QK8e) | [Rito Riba](https://open.spotify.com/artist/63QHbwCDdJ50C72D4ojeo1), [Rajat Nagpal](https://open.spotify.com/artist/4yxICw7joYAxRI2sTRldLB), [Kashi Kashyap](https://open.spotify.com/artist/0QbL0Gj9Jbt9UrLUdhPDP9) | [Tere Saath](https://open.spotify.com/album/38b70GkMOWK3d8AYDmVO1Q) | 3:06 | 2023-08-08 |  |

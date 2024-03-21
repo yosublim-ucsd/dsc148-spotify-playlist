@@ -4,7 +4,7 @@
 
 > This is Björk\. The essential tracks, all in one playlist.
 
-113 songs - 8 hr 7 min
+115 songs - 8 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,7 +27,8 @@
 | [Batabid](https://open.spotify.com/track/1h2JfIHKYy1zE4oztaWt0M) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Pagan Poetry](https://open.spotify.com/album/6y8qmVF6G3lVjTDztWrNWb) | 2:26 | 2024-02-02 | 2024-03-10 |
 | [Batabid](https://open.spotify.com/track/4mMqCZWbXNqY3xkJfjta0g) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Pagan Poetry](https://open.spotify.com/album/4t4iAqOiWQpjxiKDHb56eZ) | 2:26 | 2024-03-16 |  |
 | [Beautiful Mother](https://open.spotify.com/track/3shbvAgUyh9nhJa53JN8mB) | [Dirty Projectors](https://open.spotify.com/artist/5VF0YkVLeVD4ytyiyVSIiF), [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Mount Wittenberg Orca \(Expanded Edition\)](https://open.spotify.com/album/14xINYt1omt6jlxv8AFbly) | 2:16 | 2023-11-10 |  |
-| [Big Time Sensuality](https://open.spotify.com/track/0X0LTI0MQG9S3FLSUvjrj5) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Debut](https://open.spotify.com/album/3icT9XGrBfhlV8BKK4WEGX) | 3:56 | 2024-03-13 |  |
+| [Big Time Sensuality](https://open.spotify.com/track/0X0LTI0MQG9S3FLSUvjrj5) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Debut](https://open.spotify.com/album/3icT9XGrBfhlV8BKK4WEGX) | 3:56 | 2024-03-13 | 2024-03-21 |
+| [Big Time Sensuality](https://open.spotify.com/track/5diiEB0edX69v9x3e96NyO) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Debut](https://open.spotify.com/album/7qopDhMKBIfoIM2gJcecbr) | 3:56 | 2024-03-20 |  |
 | [Big Time Sensuality](https://open.spotify.com/track/6K0g7J6sKHwvDF6b2KGN3t) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Debut](https://open.spotify.com/album/2Fb37JsRMVPASJcl3wwDOa) | 3:56 | 2023-11-10 | 2024-03-14 |
 | [Black Lake](https://open.spotify.com/track/7McqTkJc3laznwCoQXKxFe) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Vulnicura](https://open.spotify.com/album/6sJTyQHzjefi0GgknYCgBf) | 10:08 | 2024-01-14 | 2024-03-12 |
 | [Blissing Me](https://open.spotify.com/track/0QEwFjt0hX1aQqrJY20HCz) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA), [Arca](https://open.spotify.com/artist/4SQdUpG4f7UbkJG3cJ2Iyj) | [Utopia](https://open.spotify.com/album/2i0mqPNTcaLcmKWSMsE3c8) | 5:05 | 2023-11-10 | 2024-03-15 |
@@ -92,7 +93,8 @@
 | [Oral](https://open.spotify.com/track/3re91K41XNVsViNbCPumTw) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA), [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [Oral](https://open.spotify.com/album/4JQVXceKAkVXlkCxh1CY0f) | 3:42 | 2023-12-13 |  |
 | [Ovule \(feat\. Shygirl\) \[Sega Bodega Remix\]](https://open.spotify.com/track/2WMS4GaMShMxX5yl7VVFK0) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA), [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy), [Sega Bodega](https://open.spotify.com/artist/1ZvF4Sgnre3Rk2CpiNy077) | [Ovule \(feat\. Shygirl\) \[Sega Bodega Remix\]](https://open.spotify.com/album/45HMht7xfaJqcFgS3o6g1m) | 3:44 | 2024-02-01 |  |
 | [Ovule \(feat\. Shygirl\) \[Sega Bodega Remix\]](https://open.spotify.com/track/6wfnKqy0C9xUrxZVgzHz8C) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA), [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy), [Sega Bodega](https://open.spotify.com/artist/1ZvF4Sgnre3Rk2CpiNy077) | [Ovule \(feat\. Shygirl\) \[Sega Bodega Remix\]](https://open.spotify.com/album/1ljK6QlQ1cFgK46R5QIMVV) | 3:44 | 2023-11-10 | 2024-02-01 |
-| [Pagan Poetry](https://open.spotify.com/track/0mc51xomEC6CZUZdB8xgQU) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Vespertine](https://open.spotify.com/album/5vBpIxm8ws6pWyVmTWiGE1) | 5:14 | 2024-03-12 |  |
+| [Pagan Poetry](https://open.spotify.com/track/0mc51xomEC6CZUZdB8xgQU) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Vespertine](https://open.spotify.com/album/5vBpIxm8ws6pWyVmTWiGE1) | 5:14 | 2024-03-12 | 2024-03-21 |
+| [Pagan Poetry](https://open.spotify.com/track/2uMm657euPoE7Vgaukuupl) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Vespertine](https://open.spotify.com/album/7sScYIMy44GyOll7TpWcak) | 5:14 | 2024-03-20 |  |
 | [Pagan Poetry](https://open.spotify.com/track/3Te7GWFEecCGPpkWVTjJ1h) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Vespertine](https://open.spotify.com/album/4u3MPfHM60rFFULJebZIay) | 5:14 | 2023-11-10 | 2024-03-13 |
 | [Play Dead](https://open.spotify.com/track/0OwMBaWRYmAAN48DcLZSeS) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA), [David Arnold](https://open.spotify.com/artist/0mCdmt2O8dd8jJWv7m24EE) | [Greatest Hits](https://open.spotify.com/album/04xnEWQgojFB2It1mXwel1) | 3:57 | 2024-03-17 |  |
 | [Play Dead \- Tim Simenon 7" Remix](https://open.spotify.com/track/0Yf5QZuSwH3LUlzEWGdP1x) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA), [David Arnold](https://open.spotify.com/artist/0mCdmt2O8dd8jJWv7m24EE), [Tim Simenon](https://open.spotify.com/artist/2yzxPcfb8JjrKKCIiLGWQW) | [Debut](https://open.spotify.com/album/4ORsCg1x8p80RfW0vXA35N) | 3:56 | 2023-11-10 | 2024-03-18 |

@@ -151,7 +151,7 @@
     },
     {
       "album": {
-        "name": "AKA47",
+        "name": "AK47",
         "url": "https://open.spotify.com/album/1wTgLKtxcYjrUmp8PqOpgT"
       },
       "artists": [
@@ -172,7 +172,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 377130,
-      "name": "AKA47",
+      "name": "AK47",
       "url": "https://open.spotify.com/track/1kHFCXvlQxPraGQZSJjiu6"
     },
     {
@@ -1822,6 +1822,24 @@
     {
       "album": {
         "name": "Holy Father",
+        "url": "https://open.spotify.com/album/0kljfz9uC9F0cbWIVvwnQ4"
+      },
+      "artists": [
+        {
+          "name": "Mayten",
+          "url": "https://open.spotify.com/artist/2sSEXOWzN8oX21V0m7pSk5"
+        }
+      ],
+      "date_added": "2024-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237866,
+      "name": "Holy Father",
+      "url": "https://open.spotify.com/track/59iCcjlrj25sslexuin6HU"
+    },
+    {
+      "album": {
+        "name": "Holy Father",
         "url": "https://open.spotify.com/album/3oEoSA8yhoE8VZopXjceyr"
       },
       "artists": [
@@ -1836,7 +1854,7 @@
       ],
       "date_added": "2024-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-21",
       "duration_ms": 240005,
       "name": "Holy Father",
       "url": "https://open.spotify.com/track/3b3EBj7XhtJ5YhMpr7eXL4"
@@ -2872,10 +2890,32 @@
       ],
       "date_added": "2023-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-21",
       "duration_ms": 480000,
       "name": "Narcos",
       "url": "https://open.spotify.com/track/0bXnjLwjvFJqQE1MB4Wd1M"
+    },
+    {
+      "album": {
+        "name": "Narcos (feat. J Slayz)",
+        "url": "https://open.spotify.com/album/04S8TIvnPg34Sj4RXHA3Q6"
+      },
+      "artists": [
+        {
+          "name": "DJ Kwamzy",
+          "url": "https://open.spotify.com/artist/3hiqYAXIosBBDG9Uqxt37h"
+        },
+        {
+          "name": "J Slayz",
+          "url": "https://open.spotify.com/artist/0NV4GLGLjuLWL7Il9IOOdj"
+        }
+      ],
+      "date_added": "2024-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 480000,
+      "name": "Narcos (feat. J Slayz)",
+      "url": "https://open.spotify.com/track/3gbDq9fLBXr6GZS1rle02N"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ67NucVVTxV.md) - [plain]
 
 > Grind day motivation
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,909 likes - 95 songs - 4 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,961 likes - 95 songs - 4 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ67NucVVTxV.md) - [plain]
 | 14 | [AWAY](https://open.spotify.com/track/14gQ7SmMZeeEC3YAPB5vFw) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [Timeless](https://open.spotify.com/album/6lI21W76LD0S3vC55GrfSS) | 2:33 |
 | 15 | [WOTOWOTO SEASONING \(feat\. Black Sherif\)](https://open.spotify.com/track/2LP8KwtvzUx1onvXKQCoKR) | [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy), [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ) | [EZIOKWU \(UNCUT\)](https://open.spotify.com/album/59oUX928TvSEtKvCPREKVW) | 2:51 |
 | 16 | [Currency](https://open.spotify.com/track/59VpttBOjuFDpOOdqeTDiI) | [Young Jonn](https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI), [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr) | [Currency](https://open.spotify.com/album/1yqoT8UTNOYyLHc8mIVjIT) | 2:58 |
-| 17 | [Try](https://open.spotify.com/track/5p8e2CxX9frZepKoc8E9Z4) | [T.I BLAZE](https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC) | [Try](https://open.spotify.com/album/5dfCER3jaE7kbvSZNUOnCS) | 2:13 |
+| 17 | [Try](https://open.spotify.com/track/2P8GdpevIzNxDQWRtGgmYq) | [T.I BLAZE](https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC) | [Try](https://open.spotify.com/album/6CPueje2KqooPG806INnOW) | 2:13 |
 | 18 | [Bust Down](https://open.spotify.com/track/3eWpfsYgd5OL2QdwcVcF6Q) | [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep), [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [Bust Down](https://open.spotify.com/album/5WBwh4xPACk0mfi5J5vw1G) | 3:16 |
 | 19 | [Normally](https://open.spotify.com/track/4cPKw3rzgmaU4zixJe6wge) | [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF), [Bnxn](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x), [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [Body & Soul](https://open.spotify.com/album/1TGcgugu0CxUp5rhS7SyCW) | 3:24 |
 | 20 | [Money](https://open.spotify.com/track/4Keazb2IMSuk05NiI2D2qE) | [Jaido P](https://open.spotify.com/artist/5xdkKmWYZOF6IlzJWcs97q) | [Money](https://open.spotify.com/album/5IIpueCw1R42hUMXesOxXS) | 2:45 |
@@ -104,4 +104,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ67NucVVTxV.md) - [plain]
 | 94 | [Ghetto Boy](https://open.spotify.com/track/6CwHDTafcWyYD26W6H8V3Z) | [Lemon Adisa](https://open.spotify.com/artist/12rRvGu4TetZ3pcPLBZQz3) | [YEEBO](https://open.spotify.com/album/2qeaO3fagOUndhz27vNyaF) | 2:31 |
 | 95 | [Trap](https://open.spotify.com/track/6Lss25OMzPLTx8czIC8Wr4) | [KWESI AMEWUGA](https://open.spotify.com/artist/2CdvQgo8DCIOyScP9GDkDA), [Yaw Tog](https://open.spotify.com/artist/2Dqt6WjEca8WcZuGiUcYDd) | [Trap](https://open.spotify.com/album/46zsXuCelHvSbq1wtawF59) | 2:58 |
 
-Snapshot ID: `MCwwYWVhNWYwZmZlYTBmZjYxMDI4Mjk3MzljMzU5N2QwY2JiMjRkNTlm`
+Snapshot ID: `MCwzMTlhOGZiOTg3ZjJlZTVkNGQ3ZmJhOTA3NmRiM2IzZDEyZDMyMmI0`

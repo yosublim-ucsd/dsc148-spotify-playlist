@@ -4,7 +4,7 @@
 
 > Our editor’s picks for best Afro songs of the year.<br/> Cover: <a href="https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh?si=W7\_\-S51jTRChnzEEFX68bQ">Davido</a>
 
-244 songs - 14 hr 22 min
+246 songs - 14 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -74,7 +74,8 @@
 | [Electricity](https://open.spotify.com/track/6McBvfxgkVfREmQPwTKBUn) | [Pheelz](https://open.spotify.com/artist/5Jv1MsZBh0sqokFq7pU8Xg), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [Electricity](https://open.spotify.com/album/5vOpDVowekdCylaDIiV5We) | 2:12 | 2022-11-30 | 2023-12-09 |
 | [emiliana](https://open.spotify.com/track/6lZ5p6VTbZ2ZvnsdTlLv7I) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [Emiliana](https://open.spotify.com/album/4LTckGxBOI0fEkliC3zbIp) | 2:44 | 2022-11-30 | 2023-12-09 |
 | [emiliana](https://open.spotify.com/track/6bW7YnPQQffit1iwule5Vv) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [Sad Romance](https://open.spotify.com/album/0Tm2AxwlhkZ234TRIe7IoY) | 2:46 | 2023-11-29 |  |
-| [Enjoy](https://open.spotify.com/track/3osydJRsRqgVFKYTC04QfT) | [Jux](https://open.spotify.com/artist/2ZLAPSgdMTOcovno5mGBZW), [Diamond Platnumz](https://open.spotify.com/artist/3cAisWS37sGCCtRgWfvrod) | [Enjoy](https://open.spotify.com/album/3uY2fylWZaffBO94cxXQ15) | 3:36 | 2023-11-29 |  |
+| [Enjoy](https://open.spotify.com/track/1qiHxdihSes6DA9hkAKFyg) | [Jux](https://open.spotify.com/artist/2ZLAPSgdMTOcovno5mGBZW), [Diamond Platnumz](https://open.spotify.com/artist/3cAisWS37sGCCtRgWfvrod) | [Enjoy](https://open.spotify.com/album/2r2GgPbTjjPB8OclFfiFGY) | 3:36 | 2023-11-29 |  |
+| [Enjoy](https://open.spotify.com/track/3osydJRsRqgVFKYTC04QfT) | [Jux](https://open.spotify.com/artist/2ZLAPSgdMTOcovno5mGBZW), [Diamond Platnumz](https://open.spotify.com/artist/3cAisWS37sGCCtRgWfvrod) | [Enjoy](https://open.spotify.com/album/3uY2fylWZaffBO94cxXQ15) | 3:36 | 2023-11-29 | 2024-03-21 |
 | [Essence \(feat\. Justin Bieber & Tems\)](https://open.spotify.com/track/1mSdbey7RstGLY2udgXv74) | [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [Essence \(feat\. Justin Bieber & Tems\)](https://open.spotify.com/album/0Rn8NAh8NnoaCOt8r8Tc3e) | 4:23 | 2021-12-01 | 2022-12-01 |
 | [Essence \(feat\. Tems\)](https://open.spotify.com/track/5FG7Tl93LdH117jEKYl3Cm) | [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [Made In Lagos](https://open.spotify.com/album/6HpMdN52TfJAwVbmkrFeBN) | 4:08 | 2021-12-01 | 2022-12-01 |
 | [Ex](https://open.spotify.com/track/352jbBYOtwkzJEMC2KkuiG) | [Nikita Kering'](https://open.spotify.com/artist/1yQKzWOHXJQSEnOXrHDl4X) | [A Side Of Me](https://open.spotify.com/album/6A66i8kXtfeQqrFpRyW7Em) | 3:24 | 2021-12-01 | 2022-12-01 |
@@ -232,7 +233,8 @@
 | [Terminator](https://open.spotify.com/track/1oq33HJBs0rDmjjZ2rVFyG) | [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf) | [Terminator](https://open.spotify.com/album/27KnOMqnTWsnfBMXZ4YEuZ) | 3:54 | 2023-11-29 |  |
 | [Testimony](https://open.spotify.com/track/5L845uQOeyOSSAhGPFEmLc) | [BNXN fka Buju](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [Testimony](https://open.spotify.com/album/6s2ae4utKXWlRMahAvuaaY) | 2:26 | 2021-12-01 | 2022-12-01 |
 | [This Your Body](https://open.spotify.com/track/2cJesgQwggcf3ciGuD6Z1I) | [Skales](https://open.spotify.com/artist/1ixqGowpDM21RwyJmJ7hpv), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [This Your Body](https://open.spotify.com/album/0Zfc7116wUQI37sJxIVPTI) | 3:32 | 2021-12-01 | 2022-12-01 |
-| [Too Easy](https://open.spotify.com/track/4Tx9rp5TpujLUwmoqKVjcs) | [Bien](https://open.spotify.com/artist/2zhossaaVN2pXg5p8o101X), [DJ Edu](https://open.spotify.com/artist/282qczsRq0zgXtdnnrfrgX) | [Too Easy](https://open.spotify.com/album/6RkyrlOiwSFAKd01Y2yAvL) | 3:00 | 2023-11-29 |  |
+| [Too Easy](https://open.spotify.com/track/2RrrsbDAHJWqfHC1L7hp7O) | [Bien](https://open.spotify.com/artist/2zhossaaVN2pXg5p8o101X), [DJ Edu](https://open.spotify.com/artist/282qczsRq0zgXtdnnrfrgX) | [Alusa Why Are You Topless?](https://open.spotify.com/album/6AB8x99F5MUrnSHSbUdLBD) | 3:00 | 2023-11-29 |  |
+| [Too Easy](https://open.spotify.com/track/4Tx9rp5TpujLUwmoqKVjcs) | [Bien](https://open.spotify.com/artist/2zhossaaVN2pXg5p8o101X), [DJ Edu](https://open.spotify.com/artist/282qczsRq0zgXtdnnrfrgX) | [Too Easy](https://open.spotify.com/album/6RkyrlOiwSFAKd01Y2yAvL) | 3:00 | 2023-11-29 | 2024-03-21 |
 | [Touch It](https://open.spotify.com/track/3h3xeg5OGNYVM0U9rOAc6j) | [KiDi](https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V) | [Touch It](https://open.spotify.com/album/3VDgHI9zYEzSeH1dv8ij1c) | 2:45 | 2021-12-01 | 2022-12-01 |
 | [UNAVAILABLE \(feat\. Musa Keys\)](https://open.spotify.com/track/2kaH2Z8ezDUKf6fNw250rZ) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [Musa Keys](https://open.spotify.com/artist/414pDI8Y502owCbg7U6Skf) | [Timeless](https://open.spotify.com/album/6lI21W76LD0S3vC55GrfSS) | 2:49 | 2023-11-29 |  |
 | [understand](https://open.spotify.com/track/37AvkhxjJKcjjgHsrrGaom) | [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [Boy Alone](https://open.spotify.com/album/673wWns8iuEBeBLRAQU68A) | 2:54 | 2021-12-01 | 2022-11-13 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ALfRKlHn1t.md) - [plain]
 
 > the soundtrack for your vitamin d fix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,049,438 likes - 75 songs - 4 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,049,483 likes - 75 songs - 4 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ALfRKlHn1t.md) - [plain]
 | 36 | [Blame Brett](https://open.spotify.com/track/7Az7rVogNu6XpLnykVI5fA) | [The Beaches](https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy) | [Blame Brett](https://open.spotify.com/album/4FJuBUAQv20qh8LAxDdzjN) | 2:56 |
 | 37 | [World on Fire \(feat\. Slightly Stoopid\)](https://open.spotify.com/track/35cWnQKyLjmzkq81M51D9n) | [Stick Figure](https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R), [Slightly Stoopid](https://open.spotify.com/artist/6MxlVTY6PmY8Nyn16fvxtb) | [World on Fire](https://open.spotify.com/album/3nKRWuZAz6LwYgOauD2qKB) | 3:58 |
 | 38 | [Flashed Junk Mind](https://open.spotify.com/track/2UAWVtEwFLJqdJsT8FCzKX) | [Milky Chance](https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs) | [Sadnecessary \(Bonus Track Version\)](https://open.spotify.com/album/3AWjk0oVV9YAY9r9boiffN) | 4:21 |
-| 39 | [Sober Up \(feat\. Rivers Cuomo\)](https://open.spotify.com/track/5tf8NV1rHghYymjIqeKMus) | [AJR](https://open.spotify.com/artist/6s22t5Y3prQHyaHWUN1R1C), [Rivers Cuomo](https://open.spotify.com/artist/4LAz9VRX8Nat9kvIzgkg2v) | [The Click](https://open.spotify.com/album/1nOOYWt0s8RGKgKDTMA77h) | 3:38 |
-| 40 | [I Can't Help But Feel](https://open.spotify.com/track/4zgGNKt9YQGUQHRu9FgZPM) | [Surfaces](https://open.spotify.com/artist/4ETSs924pXMzjIeD6E9b4u) | [Hidden Youth](https://open.spotify.com/album/0p6lFaFEpTcukkXu793jXB) | 2:58 |
+| 39 | [I Can't Help But Feel](https://open.spotify.com/track/4zgGNKt9YQGUQHRu9FgZPM) | [Surfaces](https://open.spotify.com/artist/4ETSs924pXMzjIeD6E9b4u) | [Hidden Youth](https://open.spotify.com/album/0p6lFaFEpTcukkXu793jXB) | 2:58 |
+| 40 | [Sober Up \(feat\. Rivers Cuomo\)](https://open.spotify.com/track/5tf8NV1rHghYymjIqeKMus) | [AJR](https://open.spotify.com/artist/6s22t5Y3prQHyaHWUN1R1C), [Rivers Cuomo](https://open.spotify.com/artist/4LAz9VRX8Nat9kvIzgkg2v) | [The Click](https://open.spotify.com/album/1nOOYWt0s8RGKgKDTMA77h) | 3:38 |
 | 41 | [Black Summer](https://open.spotify.com/track/3a94TbZOxhkI9xuNwYL53b) | [Red Hot Chili Peppers](https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5) | [Black Summer](https://open.spotify.com/album/4a6LkeTXHKjMQgf42wQnbH) | 3:52 |
 | 42 | [Dummy](https://open.spotify.com/track/2Fa9ea7JFK1gyYFs9sFrtM) | [Portugal\. The Man](https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T) | [Chris Black Changed My Life](https://open.spotify.com/album/6A7Q0GFiU2ckojqk5QsXWX) | 2:25 |
 | 43 | [Stone Love](https://open.spotify.com/track/1AO26gK1sI6PoFY9eUF8yV) | [Pepper](https://open.spotify.com/artist/1YK8JdPbiaMSnf4hrlBkGT) | [Kona Town](https://open.spotify.com/album/37ijUtHcOrsDCIQRsa5sB4) | 4:14 |
@@ -63,8 +63,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ALfRKlHn1t.md) - [plain]
 | 53 | [Next Exit](https://open.spotify.com/track/0xkSfBYxRMTLgrinRJlzfz) | [Vacations](https://open.spotify.com/artist/0U7iI0Dk4Ojvi17nZboNO4) | [Next Exit](https://open.spotify.com/album/4UfayZRNyvNRmayWpf2z7H) | 3:21 |
 | 54 | [One That Got Away](https://open.spotify.com/track/55RszydvrfNlZ2BQdF1c4q) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [One That Got Away](https://open.spotify.com/album/2FAHnRUhqr0Scl92hrAond) | 3:52 |
 | 55 | [Walking On A Dream](https://open.spotify.com/track/0mBkoM8r7KAQzZij5swTUL) | [Empire Of The Sun](https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c) | [Walking On A Dream](https://open.spotify.com/album/04gYcIojJt78nYnN5oOrKt) | 3:18 |
-| 56 | [Colorado](https://open.spotify.com/track/35iR1qzexmbcUSgA01S4gI) | [Milky Chance](https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs) | [Trip Tape](https://open.spotify.com/album/707cK3j40hIquI15sOcYXP) | 2:54 |
-| 57 | [Do You Wanna Talk](https://open.spotify.com/track/0fjEEHg3EVDBBbL7Vqy2O6) | [Circa Waves](https://open.spotify.com/artist/6hl5k4gLl1p3sjhHcb57t2) | [Never Going Under](https://open.spotify.com/album/4qx3TNl48aPu76YRCNZ4pj) | 2:26 |
+| 56 | [Do You Wanna Talk](https://open.spotify.com/track/0fjEEHg3EVDBBbL7Vqy2O6) | [Circa Waves](https://open.spotify.com/artist/6hl5k4gLl1p3sjhHcb57t2) | [Never Going Under](https://open.spotify.com/album/4qx3TNl48aPu76YRCNZ4pj) | 2:26 |
+| 57 | [Colorado](https://open.spotify.com/track/35iR1qzexmbcUSgA01S4gI) | [Milky Chance](https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs) | [Trip Tape](https://open.spotify.com/album/707cK3j40hIquI15sOcYXP) | 2:54 |
 | 58 | [Little Secrets](https://open.spotify.com/track/3kb38wezoUA8ki5jPYy3t5) | [Passion Pit](https://open.spotify.com/artist/7gjAu1qr5C2grXeQFFOGeh) | [Manners](https://open.spotify.com/album/6H51jH1SuzV6ca1VxW2Tmv) | 3:58 |
 | 59 | [Talk](https://open.spotify.com/track/1upVvXlWQUwAPuLN3oh8lk) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Talk](https://open.spotify.com/album/2UqdKTiPEdLx7IqEeZ7CWV) | 2:38 |
 | 60 | [FUNERAL GREY](https://open.spotify.com/track/6Rebnr2UDaxxg3VNe6CBg2) | [Waterparks](https://open.spotify.com/artist/3QaxveoTiMetZCMp1sftiu) | [INTELLECTUAL PROPERTY](https://open.spotify.com/album/6FxkiRw25b3z8CqqFE8pSm) | 2:44 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ALfRKlHn1t.md) - [plain]
 | 74 | [Dancing In The Courthouse](https://open.spotify.com/track/4ZwgD4frTwoDdOUsjyoqAJ) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Dancing In The Courthouse](https://open.spotify.com/album/6y1x1MUnhsqTIRkp6KpYkq) | 2:37 |
 | 75 | [Out Of My League](https://open.spotify.com/track/7vAMRzLhIxvRGwmyKm3tlk) | [Aidan Bissett](https://open.spotify.com/artist/4XQI4hyuy5xun1ou3SM8Oe) | [Out Of My League](https://open.spotify.com/album/5FeObPU0SlSJqrFcwjmIP9) | 3:01 |
 
-Snapshot ID: `MCw4NWViYWFhZmMxNzFiMGYwMDQyNjZlMGU3Y2Y4MDJjNjBhZThmNTcx`
+Snapshot ID: `MCxlNWM1YWNkMGY2MmM5Zjk1NzI2MWQ5MWZiOWQ4MjEwOGUxNzQ5MzZi`

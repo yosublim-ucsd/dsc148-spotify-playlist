@@ -4,23 +4,23 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9osbRRf6xSX.md) - [plain]
 
 > Dos de los más grandes, frente a frente.
 
-[Spotify](https://open.spotify.com/user/spotify) - 64,959 likes - 100 songs - 6 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 65,106 likes - 100 songs - 6 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Me Olvide De Vivir](https://open.spotify.com/track/0kVOor973ijVqOBhYqvaE8) | [Julio Iglesias](https://open.spotify.com/artist/4etuCZVdP8yiNPn4xf0ie5) | [Begin the Beguine](https://open.spotify.com/album/5siSTOhozc4kGQxQgbFhvS) | 4:52 |
+| 1 | [Hey \- Spanish](https://open.spotify.com/track/3X8buu765D59qlQ6z78I8A) | [Julio Iglesias](https://open.spotify.com/artist/4etuCZVdP8yiNPn4xf0ie5) | [Begin the Beguine](https://open.spotify.com/album/5siSTOhozc4kGQxQgbFhvS) | 5:00 |
 | 2 | [Como yo te amo](https://open.spotify.com/track/2N1u2w7dbHt058hi7pIFjW) | [Raphael](https://open.spotify.com/artist/796OSRuB0E9Hq55uTFL9U8) | [Y..\. sigo mi camino](https://open.spotify.com/album/1IWaci4FAbXR9OXmwQFMz3) | 4:39 |
-| 3 | [Hey \- Spanish](https://open.spotify.com/track/3X8buu765D59qlQ6z78I8A) | [Julio Iglesias](https://open.spotify.com/artist/4etuCZVdP8yiNPn4xf0ie5) | [Begin the Beguine](https://open.spotify.com/album/5siSTOhozc4kGQxQgbFhvS) | 5:00 |
-| 4 | [Estar enamorado](https://open.spotify.com/track/2vh3jeYAeR50YuigR7mGwo) | [Raphael](https://open.spotify.com/artist/796OSRuB0E9Hq55uTFL9U8) | [En carne viva](https://open.spotify.com/album/18duCh9suTyPY4xB85bFao) | 4:54 |
+| 3 | [Me Olvide De Vivir](https://open.spotify.com/track/0kVOor973ijVqOBhYqvaE8) | [Julio Iglesias](https://open.spotify.com/artist/4etuCZVdP8yiNPn4xf0ie5) | [Begin the Beguine](https://open.spotify.com/album/5siSTOhozc4kGQxQgbFhvS) | 4:52 |
+| 4 | [Mi gran noche](https://open.spotify.com/track/6Tnnk7MAnZiDx67DJN2hnx) | [Raphael](https://open.spotify.com/artist/796OSRuB0E9Hq55uTFL9U8) | [Digan Lo Que Digan: Banda Sonora Original De La Pe](https://open.spotify.com/album/1JrwqW8FRXsKH8GqS19uhJ) | 3:00 |
 | 5 | [Soy un Truhán, Soy un Señor](https://open.spotify.com/track/07nrFSbS6ht0jMNpTpMfsg) | [Julio Iglesias](https://open.spotify.com/artist/4etuCZVdP8yiNPn4xf0ie5) | [My Life: The Greatest Hits](https://open.spotify.com/album/21GSy4UKShEpEfrojAEK9U) | 3:00 |
-| 6 | [Mi gran noche](https://open.spotify.com/track/6Tnnk7MAnZiDx67DJN2hnx) | [Raphael](https://open.spotify.com/artist/796OSRuB0E9Hq55uTFL9U8) | [Digan Lo Que Digan: Banda Sonora Original De La Pe](https://open.spotify.com/album/1JrwqW8FRXsKH8GqS19uhJ) | 3:00 |
+| 6 | [Estar enamorado](https://open.spotify.com/track/2vh3jeYAeR50YuigR7mGwo) | [Raphael](https://open.spotify.com/artist/796OSRuB0E9Hq55uTFL9U8) | [En carne viva](https://open.spotify.com/album/18duCh9suTyPY4xB85bFao) | 4:54 |
 | 7 | [Lo Mejor De Tu Vida](https://open.spotify.com/track/3La01jjk5XfvpdyOCMlV1A) | [Julio Iglesias](https://open.spotify.com/artist/4etuCZVdP8yiNPn4xf0ie5) | [Un Hombre Solo](https://open.spotify.com/album/1ILCxlTPOkNcrgXxWz6zGj) | 4:16 |
-| 8 | [A mi manera \- 2000 Remastered Version](https://open.spotify.com/track/5uyDA5kB1J3CDJgk0Rwfap) | [Raphael](https://open.spotify.com/artist/796OSRuB0E9Hq55uTFL9U8) | [Yo soy aquél \(Sus éxitos remasterizados\)](https://open.spotify.com/album/09QWbjZOQQw15lnxjvguK8) | 4:21 |
+| 8 | [Yo soy aquél](https://open.spotify.com/track/4H71d1kJ8DB8J4atO8fbBl) | [Raphael](https://open.spotify.com/artist/796OSRuB0E9Hq55uTFL9U8) | [Canta...Raphael](https://open.spotify.com/album/0cm8e4rwLQq30D5Yvzdy0g) | 2:39 |
 | 9 | [Me Va, Me Va](https://open.spotify.com/track/0PXlAASjColqngGNNbzoA5) | [Julio Iglesias](https://open.spotify.com/artist/4etuCZVdP8yiNPn4xf0ie5) | [1100 Bel Air Place](https://open.spotify.com/album/6DfzQpFxFMI7JXS23ctnWE) | 6:00 |
-| 10 | [Yo soy aquél](https://open.spotify.com/track/4H71d1kJ8DB8J4atO8fbBl) | [Raphael](https://open.spotify.com/artist/796OSRuB0E9Hq55uTFL9U8) | [Canta...Raphael](https://open.spotify.com/album/0cm8e4rwLQq30D5Yvzdy0g) | 2:39 |
-| 11 | [La Carretera](https://open.spotify.com/track/1e0bRYxNURnvAcXutJOP2u) | [Julio Iglesias](https://open.spotify.com/artist/4etuCZVdP8yiNPn4xf0ie5) | [La Carretera](https://open.spotify.com/album/4Qu6joqv4Ne2tMBmXXBN9A) | 4:41 |
+| 10 | [A mi manera \- 2000 Remastered Version](https://open.spotify.com/track/5uyDA5kB1J3CDJgk0Rwfap) | [Raphael](https://open.spotify.com/artist/796OSRuB0E9Hq55uTFL9U8) | [Yo soy aquél \(Sus éxitos remasterizados\)](https://open.spotify.com/album/09QWbjZOQQw15lnxjvguK8) | 4:21 |
+| 11 | [Baila Morena](https://open.spotify.com/track/2qghLLpWNLzZqtq9I0t6hT) | [Julio Iglesias](https://open.spotify.com/artist/4etuCZVdP8yiNPn4xf0ie5) | [La Carretera](https://open.spotify.com/album/4Qu6joqv4Ne2tMBmXXBN9A) | 3:50 |
 | 12 | [Escándalo](https://open.spotify.com/track/3xbymP6jIcdN0O2PB420bz) | [Raphael](https://open.spotify.com/artist/796OSRuB0E9Hq55uTFL9U8) | [Ave Fénix](https://open.spotify.com/album/4aStIaNBxADfhovPLw7LUO) | 5:04 |
-| 13 | [Baila Morena](https://open.spotify.com/track/2qghLLpWNLzZqtq9I0t6hT) | [Julio Iglesias](https://open.spotify.com/artist/4etuCZVdP8yiNPn4xf0ie5) | [La Carretera](https://open.spotify.com/album/4Qu6joqv4Ne2tMBmXXBN9A) | 3:50 |
+| 13 | [La Carretera](https://open.spotify.com/track/1e0bRYxNURnvAcXutJOP2u) | [Julio Iglesias](https://open.spotify.com/artist/4etuCZVdP8yiNPn4xf0ie5) | [La Carretera](https://open.spotify.com/album/4Qu6joqv4Ne2tMBmXXBN9A) | 4:41 |
 | 14 | [Qué sabe nadie](https://open.spotify.com/track/6k9IY8ZUD0wihrL4Ch7Upn) | [Raphael](https://open.spotify.com/artist/796OSRuB0E9Hq55uTFL9U8) | [En carne viva](https://open.spotify.com/album/18duCh9suTyPY4xB85bFao) | 5:14 |
 | 15 | [Por El Amor De Una Mujer](https://open.spotify.com/track/7010oiDHpfwrZoYNxqgfoI) | [Julio Iglesias](https://open.spotify.com/artist/4etuCZVdP8yiNPn4xf0ie5) | [A Flor De Piel](https://open.spotify.com/album/3YAtD5obf0a1E2NHjZ8A8K) | 3:49 |
 | 16 | [Digan lo que digan](https://open.spotify.com/track/3JclUL96MU6SWZCPb1wzih) | [Raphael](https://open.spotify.com/artist/796OSRuB0E9Hq55uTFL9U8) | [Digan Lo Que Digan: Banda Sonora Original De La Pe](https://open.spotify.com/album/1JrwqW8FRXsKH8GqS19uhJ) | 2:42 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9osbRRf6xSX.md) - [plain]
 | 99 | [Abrazame](https://open.spotify.com/track/4nqRbvEeGuV9jLCzC5OrMf) | [Julio Iglesias](https://open.spotify.com/artist/4etuCZVdP8yiNPn4xf0ie5) | [El Amor](https://open.spotify.com/album/5vejevOSlt0V2LUyliPM0w) | 3:31 |
 | 100 | [Quiero Abrazarte Tanto \- Remastered](https://open.spotify.com/track/4PMo1Vf79zlwrQSTqWwJZ6) | [Raphael](https://open.spotify.com/artist/796OSRuB0E9Hq55uTFL9U8), [Ana Belén](https://open.spotify.com/artist/4NOZW7dBOmBMMAG9EGQd4t), [Víctor Manuel](https://open.spotify.com/artist/6cFqY5mkBqKqaIYunDg1k8) | [50 Años Después \(Remastered\)](https://open.spotify.com/album/48Yvne1x8AANcjxZvuPirC) | 3:35 |
 
-Snapshot ID: `MCxjNzVmOTI2M2ExYzliYTQ5NDI0MjczNzNjNTRiMDc1M2ExODUxMTgw`
+Snapshot ID: `MCw1ZDlmZTNjNTMzNWM1M2Y1ZGNjMTkxNjNhYTUzNmVmMzQ4Yzc5ZDBm`

@@ -1,5 +1,5 @@
 {
-  "2024-03-20": 774693,
+  "2024-03-21": 774762,
   "date_first_scraped": "2022-04-22",
   "description": "Grandes temas del rock de ayer y de hoy.",
   "name": "Radio Rock",
@@ -359,7 +359,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-20",
       "duration_ms": 145866,
       "name": "Break on Through (To the Other Side)",
       "url": "https://open.spotify.com/track/6ToM0uwxtPKo9CMpbPGYvM"
@@ -867,7 +867,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-19",
+      "date_removed": null,
       "duration_ms": 221332,
       "name": "Fly Away",
       "url": "https://open.spotify.com/track/1OxcIUqVmVYxT6427tbhDW"

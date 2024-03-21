@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7xNd2fNATsx.md) - [plain]
 
 > Quand l'indie et l'electro ne font qu'un.
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,122 likes - 50 songs - 3 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,160 likes - 50 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7xNd2fNATsx.md) - [plain]
 | 49 | [Loud Places](https://open.spotify.com/track/7lPgKA5mLFNmGPMdb07OlM) | [Jamie xx](https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ), [Romy](https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb) | [In Colour](https://open.spotify.com/album/04Duapg2mNlVykd895xcfZ) | 4:43 |
 | 50 | [My Girls](https://open.spotify.com/track/7jZBPuJmkOsfPkwFD30dAA) | [Animal Collective](https://open.spotify.com/artist/4kwxTgCKMipBKhSnEstNKj) | [Merriweather Post Pavilion](https://open.spotify.com/album/6BRq5g6CWiFgN3NrjLGAYq) | 5:40 |
 
-Snapshot ID: `MCw4MjUyMzU4YzM3NzdmMzcyYzNkMGVjMjJjZDQ4NzY1NDQ3OTYxNzAx`
+Snapshot ID: `MCxlZTA3NWRkOTViNGNmYzdmZDI5MmNlMDU3MzRiOWY0ZWVkZjM5MTRk`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbcgQ8d7s0A0.md) - [plain]
 
 > Chill out to the sweetest soul songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,273,568 likes - 65 songs - 4 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,273,758 likes - 65 songs - 4 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbcgQ8d7s0A0.md) - [plain]
 | 32 | [Son of a Preacher Man](https://open.spotify.com/track/7odHgoLFi3GQ90E9PeraI3) | [Dusty Springfield](https://open.spotify.com/artist/5zaXYwewAXedKNCff45U5l) | [Dusty In Memphis \[Deluxe Edition\]](https://open.spotify.com/album/6SNMenG3NjZyqgI5p4Hcmg) | 2:29 |
 | 33 | [What's Going On](https://open.spotify.com/track/3Um9toULmYFGCpvaIPFw7l) | [Marvin Gaye](https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA) | [What's Going On](https://open.spotify.com/album/2v6ANhWhZBUKkg6pJJBs3B) | 3:53 |
 | 34 | [Me and Mrs\. Jones](https://open.spotify.com/track/6Ro2z4RtAUew9Kz2HZWZUi) | [Billy Paul](https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE) | [360 Degrees of Billy Paul \(Expanded Edition\)](https://open.spotify.com/album/2t3e2RCx9fmVO7jmhrOm3a) | 4:44 |
-| 35 | [Walk on By](https://open.spotify.com/track/3xsOtNxtBW0oTI1OWKAzTm) | [Dionne Warwick](https://open.spotify.com/artist/2JSjCHK79gdaiPWdKiNUNp) | [Make Way for Dionne Warwick](https://open.spotify.com/album/6edKvdyBPyTPPWCOcTdrhr) | 2:58 |
-| 36 | [Give Me the Night](https://open.spotify.com/track/62GYoGszQfROZswLee6W3O) | [George Benson](https://open.spotify.com/artist/4N8BwYTEC6XqykGvXXlmfv) | [The George Benson Collection](https://open.spotify.com/album/1IcNxT9zu74BfNhuHD9MBN) | 3:42 |
+| 35 | [Give Me the Night](https://open.spotify.com/track/62GYoGszQfROZswLee6W3O) | [George Benson](https://open.spotify.com/artist/4N8BwYTEC6XqykGvXXlmfv) | [The George Benson Collection](https://open.spotify.com/album/1IcNxT9zu74BfNhuHD9MBN) | 3:42 |
+| 36 | [Walk on By](https://open.spotify.com/track/3xsOtNxtBW0oTI1OWKAzTm) | [Dionne Warwick](https://open.spotify.com/artist/2JSjCHK79gdaiPWdKiNUNp) | [Make Way for Dionne Warwick](https://open.spotify.com/album/6edKvdyBPyTPPWCOcTdrhr) | 2:58 |
 | 37 | [Cherish \- Single Version](https://open.spotify.com/track/2yCAGizViD7HZXwNYxJToQ) | [Kool & The Gang](https://open.spotify.com/artist/3VNITwohbvU5Wuy5PC6dsI) | [Collected](https://open.spotify.com/album/2vBpHUDhVTInqSLxkw9Kx2) | 3:58 |
 | 38 | [Mr\. Big Stuff](https://open.spotify.com/track/2Bls0igCm79XQQ95IoUbhq) | [Jean Knight](https://open.spotify.com/artist/2Tk0pWxTuQgnE5nsUexrLr) | [Mr\. Big Stuff](https://open.spotify.com/album/0p86nom1q9716gzstS4Y5e) | 2:44 |
 | 39 | [Fantasy](https://open.spotify.com/track/0Eq4BMgsdV6DkLSJfX8eBt) | [Earth, Wind & Fire](https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg) | [The Best Of Earth, Wind & Fire Vol\. 1](https://open.spotify.com/album/2FW0uQ4WL25umm5p2VrZO7) | 3:46 |
@@ -68,10 +68,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbcgQ8d7s0A0.md) - [plain]
 | 58 | [Strawberry Letter 23](https://open.spotify.com/track/00kvKlIvfzQLSi6T2zwXuS) | [The Brothers Johnson](https://open.spotify.com/artist/6h3rSZ8VLK7a5vXjEmhfuD) | [Right On Time](https://open.spotify.com/album/5B1f1QwqbRhjWAExB1sofe) | 4:59 |
 | 59 | [Feel Like Makin' Love](https://open.spotify.com/track/7gkboYtvhuXNS4EUwmFPcw) | [Roberta Flack](https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA) | [Feel Like Makin' Love](https://open.spotify.com/album/3eOdBKYQ2w2eCvz2FxEmBA) | 2:55 |
 | 60 | [Could It Be I'm Falling in Love](https://open.spotify.com/track/5i0urffBRKl09GSX2Jhdeh) | [The Spinners](https://open.spotify.com/artist/5fbhwqYYh4YwUoEs582mq5) | [Spinners](https://open.spotify.com/album/6QVemXFGMR4OLvlXvtQVjg) | 4:09 |
-| 61 | [Save Room](https://open.spotify.com/track/3sTc75CCyIw4FPs6cXkOe7) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [Once Again](https://open.spotify.com/album/1ZWwFwSKaREGLWxpGiPAoF) | 3:55 |
-| 62 | [On My Own](https://open.spotify.com/track/5HrVgmO1govSOrPUehW1VV) | [Patti LaBelle](https://open.spotify.com/artist/0ty0xha1dbprYIUAQufkFn) | [Winner In You](https://open.spotify.com/album/5wESpjGUZ1QKY2DziNM5fN) | 4:50 |
+| 61 | [On My Own](https://open.spotify.com/track/5HrVgmO1govSOrPUehW1VV) | [Patti LaBelle](https://open.spotify.com/artist/0ty0xha1dbprYIUAQufkFn) | [Winner In You](https://open.spotify.com/album/5wESpjGUZ1QKY2DziNM5fN) | 4:50 |
+| 62 | [Save Room](https://open.spotify.com/track/3sTc75CCyIw4FPs6cXkOe7) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [Once Again](https://open.spotify.com/album/1ZWwFwSKaREGLWxpGiPAoF) | 3:55 |
 | 63 | [Let The Music Play \- Single Version](https://open.spotify.com/track/75pBjCi8cxfkp4xd68uo6O) | [Barry White](https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt) | [Let The Music Play \(Expanded Edition\)](https://open.spotify.com/album/2DQOfMwyvGxAd964nKx1it) | 3:30 |
 | 64 | [Between the Sheets](https://open.spotify.com/track/3ApIYu95WxjzpQCnsLBbrv) | [The Isley Brothers](https://open.spotify.com/artist/53QzNeFpzAaXYnrDBbDrIp) | [Between the Sheets](https://open.spotify.com/album/35EP5dBkQWS0Lta6GE2VOu) | 5:40 |
 | 65 | [As](https://open.spotify.com/track/13toFl1UwJPsRxDiD9jgtn) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [Songs In The Key Of Life](https://open.spotify.com/album/6YUCc2RiXcEKS9ibuZxjt0) | 7:08 |
 
-Snapshot ID: `MCwxYWEyYzU0MTRmYTRmODdmOGQzNjk0MjcxMzU1M2I5ZjI0OTkwNTc4`
+Snapshot ID: `MCw2NDBhMTM5OThkNjZmMWRhNjI1YjhhYjhmMjM1ZWFjZjY5NzU1YWVj`

@@ -1,12 +1,12 @@
 {
   "description": "Disfruta esta fina selecci\u00f3n de los mejores Tangos argentinos.",
-  "num_followers": 238997,
+  "num_followers": 239032,
   "original_name": "Tangos y Milongas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzYzU1YTU3ZjA4NmI5ZmEzYTU4Mzg3OGZlMzBlODJhN2MxYTBmMDE5",
+  "snapshot_id": "MCxmN2FmYTcyNDFmNGRiMDAzODhhODJiYTRlODcwMmU0MzQ0ZTk4M2Nj",
   "tracks": [
     {
       "added_at": "2023-12-01 03:00:00",
@@ -255,22 +255,6 @@
     {
       "added_at": "2023-12-01 03:00:00",
       "album": {
-        "name": "Milonga de mis amores",
-        "url": "https://open.spotify.com/album/5NZALaO88l6G50M9IpVwA9"
-      },
-      "artists": [
-        {
-          "name": "SEXTETO VISCERAL",
-          "url": "https://open.spotify.com/artist/5OyqRQZbRb8r3TGDGf6X8C"
-        }
-      ],
-      "duration_ms": 142133,
-      "name": "Milonga de mis amores - Estilo Pedro Laurenz",
-      "url": "https://open.spotify.com/track/15tGcGuT4MaynEctZBLaNK"
-    },
-    {
-      "added_at": "2023-12-01 03:00:00",
-      "album": {
         "name": "Astor Piazzolla/ Roberto Goyeneche",
         "url": "https://open.spotify.com/album/5kDCvZPwvMMLZvHmGWo8dr"
       },
@@ -287,6 +271,22 @@
       "duration_ms": 240306,
       "name": "El Gordo Triste - En Vivo Teatro Regina 1982",
       "url": "https://open.spotify.com/track/4NCwFtSg0LkfOvqZ0pLIco"
+    },
+    {
+      "added_at": "2023-12-01 03:00:00",
+      "album": {
+        "name": "Milonga de mis amores",
+        "url": "https://open.spotify.com/album/5NZALaO88l6G50M9IpVwA9"
+      },
+      "artists": [
+        {
+          "name": "SEXTETO VISCERAL",
+          "url": "https://open.spotify.com/artist/5OyqRQZbRb8r3TGDGf6X8C"
+        }
+      ],
+      "duration_ms": 142133,
+      "name": "Milonga de mis amores - Estilo Pedro Laurenz",
+      "url": "https://open.spotify.com/track/15tGcGuT4MaynEctZBLaNK"
     },
     {
       "added_at": "2023-12-01 03:00:00",
@@ -511,8 +511,8 @@
     {
       "added_at": "2023-12-01 03:00:00",
       "album": {
-        "name": "Var\u00f3n (Remastered)",
-        "url": "https://open.spotify.com/album/1mIJOhB8422u9D6b7Fjow9"
+        "name": "Presentando a Julio Sosa",
+        "url": "https://open.spotify.com/album/6xYIlPpJXfz74SvviVPm5G"
       },
       "artists": [
         {
@@ -520,9 +520,9 @@
           "url": "https://open.spotify.com/artist/7Cg2eqV6oHNE0P54WfajIX"
         }
       ],
-      "duration_ms": 192815,
-      "name": "Qu\u00e9 me van a hablar de amor - Remastered",
-      "url": "https://open.spotify.com/track/3FfcNuVn1yyNkikUxm6qwW"
+      "duration_ms": 192826,
+      "name": "Qu\u00e9 Me Van a Hablar de Amor",
+      "url": "https://open.spotify.com/track/4YIZvmqOxkKSfb2WSX6dcN"
     },
     {
       "added_at": "2023-12-01 03:00:00",
@@ -599,22 +599,6 @@
     {
       "added_at": "2023-12-01 03:00:00",
       "album": {
-        "name": "Pucherito de gallina",
-        "url": "https://open.spotify.com/album/6531ccbkg5uE09HQ7KSBsm"
-      },
-      "artists": [
-        {
-          "name": "Rodrigo de la Serna y El Yotivenco",
-          "url": "https://open.spotify.com/artist/7aIqwTieeHhRsxuZbzqv8A"
-        }
-      ],
-      "duration_ms": 147173,
-      "name": "Pucherito de gallina",
-      "url": "https://open.spotify.com/track/5MAM9qZtv56hTZUA5881LR"
-    },
-    {
-      "added_at": "2023-12-01 03:00:00",
-      "album": {
         "name": "El Nuevo Rumbo",
         "url": "https://open.spotify.com/album/0PNFCx0M4ol1VFWMOUuErM"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 154951,
       "name": "Ser\u00eda Facil Decir",
       "url": "https://open.spotify.com/track/51j44z3Qr2HnSnBhrEwpvm"
+    },
+    {
+      "added_at": "2023-12-01 03:00:00",
+      "album": {
+        "name": "Pucherito de gallina",
+        "url": "https://open.spotify.com/album/6531ccbkg5uE09HQ7KSBsm"
+      },
+      "artists": [
+        {
+          "name": "Rodrigo de la Serna y El Yotivenco",
+          "url": "https://open.spotify.com/artist/7aIqwTieeHhRsxuZbzqv8A"
+        }
+      ],
+      "duration_ms": 147173,
+      "name": "Pucherito de gallina",
+      "url": "https://open.spotify.com/track/5MAM9qZtv56hTZUA5881LR"
     },
     {
       "added_at": "2023-12-01 03:00:00",
@@ -1063,6 +1063,22 @@
     {
       "added_at": "2023-12-01 03:00:00",
       "album": {
+        "name": "Presentando a Charlo",
+        "url": "https://open.spotify.com/album/0eZJ7lKZF1MpL2u4wy4bzm"
+      },
+      "artists": [
+        {
+          "name": "Charlo",
+          "url": "https://open.spotify.com/artist/3Ry0Bx0jq7Z6nbzTfcsvkL"
+        }
+      ],
+      "duration_ms": 191320,
+      "name": "Ave de Paso",
+      "url": "https://open.spotify.com/track/3hkKjn76alBHAkN3rKESOk"
+    },
+    {
+      "added_at": "2023-12-01 03:00:00",
+      "album": {
         "name": "Doce Milongas de Amor y un Tango Desesperado",
         "url": "https://open.spotify.com/album/4vwBzO3iFLn3JWTyW1lvy3"
       },
@@ -1079,22 +1095,6 @@
       "duration_ms": 190438,
       "name": "Barrio de Tango",
       "url": "https://open.spotify.com/track/5eCCfVLbsR9dX93NV4sw5j"
-    },
-    {
-      "added_at": "2023-12-01 03:00:00",
-      "album": {
-        "name": "Presentando a Charlo",
-        "url": "https://open.spotify.com/album/0eZJ7lKZF1MpL2u4wy4bzm"
-      },
-      "artists": [
-        {
-          "name": "Charlo",
-          "url": "https://open.spotify.com/artist/3Ry0Bx0jq7Z6nbzTfcsvkL"
-        }
-      ],
-      "duration_ms": 191320,
-      "name": "Ave de Paso",
-      "url": "https://open.spotify.com/track/3hkKjn76alBHAkN3rKESOk"
     },
     {
       "added_at": "2023-12-01 03:00:00",
@@ -1139,22 +1139,30 @@
     {
       "added_at": "2023-12-01 03:00:00",
       "album": {
-        "name": "Sur (Remastered)",
-        "url": "https://open.spotify.com/album/4tNFXEyh7O6YxUVDB1ULz6"
+        "name": "Piazzolla: Bandon\u00e9on Concerto; Tangos",
+        "url": "https://open.spotify.com/album/5vnrz99hncA1GHJ9sAt4AN"
       },
       "artists": [
         {
-          "name": "Edmundo Rivero",
-          "url": "https://open.spotify.com/artist/6ULt24uY5oov72S2fY1qoi"
+          "name": "Pablo Mainetti",
+          "url": "https://open.spotify.com/artist/15lQ51CRGD5wu2f8Pmw9sZ"
         },
         {
-          "name": "Horacio Salg\u00e1n",
-          "url": "https://open.spotify.com/artist/2Bh9iQTtKB9vzl6iLtwZ9W"
+          "name": "Llu\u00eds Vidal",
+          "url": "https://open.spotify.com/artist/0vVVbsITxDW6vAYpb6AqYH"
+        },
+        {
+          "name": "Orquestra De Cambra Teatre Lliure",
+          "url": "https://open.spotify.com/artist/6Fn7bZEbHf7dwH8sEn54Tr"
+        },
+        {
+          "name": "Josep Pons",
+          "url": "https://open.spotify.com/artist/1TlFTSPL1hXKUTjHIqqFvV"
         }
       ],
-      "duration_ms": 310012,
-      "name": "La casita de mis viejos - Remastered",
-      "url": "https://open.spotify.com/track/780oI6gpWrr8ds9gzx98B0"
+      "duration_ms": 163333,
+      "name": "Tangos (Arr. Vidal): Decar\u00edssimo",
+      "url": "https://open.spotify.com/track/05YK08skpEuov8RyVmMMPM"
     },
     {
       "added_at": "2023-12-01 03:00:00",
@@ -1191,34 +1199,6 @@
       "duration_ms": 233732,
       "name": "Cualquiera de Estas Noches",
       "url": "https://open.spotify.com/track/73AB5izFOtarOahEB7oHpJ"
-    },
-    {
-      "added_at": "2023-12-01 03:00:00",
-      "album": {
-        "name": "Piazzolla: Bandon\u00e9on Concerto; Tangos",
-        "url": "https://open.spotify.com/album/5vnrz99hncA1GHJ9sAt4AN"
-      },
-      "artists": [
-        {
-          "name": "Pablo Mainetti",
-          "url": "https://open.spotify.com/artist/15lQ51CRGD5wu2f8Pmw9sZ"
-        },
-        {
-          "name": "Llu\u00eds Vidal",
-          "url": "https://open.spotify.com/artist/0vVVbsITxDW6vAYpb6AqYH"
-        },
-        {
-          "name": "Orquestra De Cambra Teatre Lliure",
-          "url": "https://open.spotify.com/artist/6Fn7bZEbHf7dwH8sEn54Tr"
-        },
-        {
-          "name": "Josep Pons",
-          "url": "https://open.spotify.com/artist/1TlFTSPL1hXKUTjHIqqFvV"
-        }
-      ],
-      "duration_ms": 163333,
-      "name": "Tangos (Arr. Vidal): Decar\u00edssimo",
-      "url": "https://open.spotify.com/track/05YK08skpEuov8RyVmMMPM"
     },
     {
       "added_at": "2023-12-01 03:00:00",
@@ -1375,6 +1355,26 @@
     {
       "added_at": "2023-12-01 03:00:00",
       "album": {
+        "name": "El Tango",
+        "url": "https://open.spotify.com/album/7akIfhOcL4nMi4vwILqXsX"
+      },
+      "artists": [
+        {
+          "name": "Chino Laborde",
+          "url": "https://open.spotify.com/artist/5OrKrSqxhTFrtScoJhqLrP"
+        },
+        {
+          "name": "Federico Mizrahi",
+          "url": "https://open.spotify.com/artist/0RcujGrIDwI6n6f9PfWhFt"
+        }
+      ],
+      "duration_ms": 221500,
+      "name": "Tarde",
+      "url": "https://open.spotify.com/track/3NBK1KYBB7K278yKrWugnY"
+    },
+    {
+      "added_at": "2023-12-01 03:00:00",
+      "album": {
         "name": "A Las Orquestas",
         "url": "https://open.spotify.com/album/4p7RAcYL71hf4k4RBXGYUF"
       },
@@ -1387,6 +1387,22 @@
       "duration_ms": 251472,
       "name": "El Andariego",
       "url": "https://open.spotify.com/track/4j3uxMq69ROiwQpSCI2g2l"
+    },
+    {
+      "added_at": "2023-12-01 03:00:00",
+      "album": {
+        "name": "Gran Hotel Victoria",
+        "url": "https://open.spotify.com/album/5MmEA4C0cMFqrjdXPDB0X9"
+      },
+      "artists": [
+        {
+          "name": "Pablo Mainetti",
+          "url": "https://open.spotify.com/artist/15lQ51CRGD5wu2f8Pmw9sZ"
+        }
+      ],
+      "duration_ms": 171773,
+      "name": "Gran Hotel Victoria",
+      "url": "https://open.spotify.com/track/1rxRxnOfJIVcXVG1TY0yhi"
     },
     {
       "added_at": "2023-12-01 03:00:00",
@@ -1407,22 +1423,6 @@
       "duration_ms": 262706,
       "name": "Tal vez sera su voz",
       "url": "https://open.spotify.com/track/72grNDm7LBvqrcrRkm33ix"
-    },
-    {
-      "added_at": "2023-12-01 03:00:00",
-      "album": {
-        "name": "Gran Hotel Victoria",
-        "url": "https://open.spotify.com/album/5MmEA4C0cMFqrjdXPDB0X9"
-      },
-      "artists": [
-        {
-          "name": "Pablo Mainetti",
-          "url": "https://open.spotify.com/artist/15lQ51CRGD5wu2f8Pmw9sZ"
-        }
-      ],
-      "duration_ms": 171773,
-      "name": "Gran Hotel Victoria",
-      "url": "https://open.spotify.com/track/1rxRxnOfJIVcXVG1TY0yhi"
     }
   ],
   "unique_name": "Tangos y Milongas",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0xLQsW8b5Zx.md) - [plain]
 
 > Live fast, die awesome! A great mix of the best rockabilly tracks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 531,516 likes - 60 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 531,531 likes - 60 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,8 +16,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0xLQsW8b5Zx.md) - [plain]
 | 6 | [That'll Be The Day](https://open.spotify.com/track/50RwvvEKX5Q7AZt8FTAwIF) | [Buddy Holly](https://open.spotify.com/artist/3wYyutjgII8LJVVOLrGI0D) | [That'll Be The Day](https://open.spotify.com/album/0KHc3cD7pAOAieo9lPWXkY) | 2:30 |
 | 7 | [At The Hop](https://open.spotify.com/track/4LcrHUkRmXG3c0YD5VYutn) | [Danny & The Juniors](https://open.spotify.com/artist/6Ahm6X9wSKXitavOvu0XzY) | [Rockin' With Danny And The Juniors \(Expanded Edition\)](https://open.spotify.com/album/0AL8t9Dy1L9nf1ZnBlLeLq) | 2:30 |
 | 8 | [Let's Have A Party](https://open.spotify.com/track/4BdwYhbBITL4fytlFSwv9o) | [Wanda Jackson](https://open.spotify.com/artist/5ZKMPRDHc7qElVJFh3uRqB) | [The Ultimate Collection](https://open.spotify.com/album/3v3FXV9RhFK08541hD2DJI) | 2:07 |
-| 9 | [Get Rhythm](https://open.spotify.com/track/2aq1oBnP7Q176mZw5P6eUk) | [Johnny Cash](https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x), [The Tennessee Two](https://open.spotify.com/artist/3iGdenNgbzOak86BHrx0Nt) | [Greatest](https://open.spotify.com/album/1tfvwgjJHU9zYWy4qIHZsV) | 2:12 |
-| 10 | [Baby Did A Bad Bad Thing](https://open.spotify.com/track/116Qy7Q95zaZgVUc5Z03wp) | [Chris Isaak](https://open.spotify.com/artist/7290H8m1Dwt8G7jm1y9CQx) | [Forever Blue](https://open.spotify.com/album/5j0gG8sv3zqZhpW5e4HlvY) | 2:54 |
+| 9 | [Baby Did A Bad Bad Thing](https://open.spotify.com/track/116Qy7Q95zaZgVUc5Z03wp) | [Chris Isaak](https://open.spotify.com/artist/7290H8m1Dwt8G7jm1y9CQx) | [Forever Blue](https://open.spotify.com/album/5j0gG8sv3zqZhpW5e4HlvY) | 2:54 |
+| 10 | [Get Rhythm](https://open.spotify.com/track/2aq1oBnP7Q176mZw5P6eUk) | [Johnny Cash](https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x), [The Tennessee Two](https://open.spotify.com/artist/3iGdenNgbzOak86BHrx0Nt) | [Greatest](https://open.spotify.com/album/1tfvwgjJHU9zYWy4qIHZsV) | 2:12 |
 | 11 | [Hillbilly Rock'n'Roll](https://open.spotify.com/track/6bzf1xi9QFsdMkFLLZCUCO) | [Voodoo Swing](https://open.spotify.com/artist/4cq3Pl3yrAtFgDE0RUhUaA) | [Keep On Rollin'](https://open.spotify.com/album/1Drg0VNBBK7IEsDXyMMpKE) | 2:30 |
 | 12 | [Right Now](https://open.spotify.com/track/10dIfQHkyn2SuJ6rtD7qrh) | [Fatboy](https://open.spotify.com/artist/5vK6yZH3E1wOYY93NHZwJT) | [Right Now](https://open.spotify.com/album/4aLW5xX8O4tuPi5E7T4494) | 2:19 |
 | 13 | [Long Tall Sally \(The Thing\)](https://open.spotify.com/track/507IFqPuG8mBQoKebfGG9t) | [Little Richard](https://open.spotify.com/artist/4xls23Ye9WR9yy3yYMpAMm) | [Here's Little Richard \(Deluxe Edition\)](https://open.spotify.com/album/18tV6PLXYvVjsdOVk0S7M8) | 2:07 |
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0xLQsW8b5Zx.md) - [plain]
 | 25 | [Rip It Up](https://open.spotify.com/track/242E7zj2wWWegVlurGpaVz) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [Elvis](https://open.spotify.com/album/4BxOdLUpWYFL0mfdYiukyQ) | 1:52 |
 | 26 | [Party Doll](https://open.spotify.com/track/3SNEFR9U8CCEUN3iZfkVgW) | [Buddy Knox](https://open.spotify.com/artist/0b5Tz3szM4KK8esFKV2Zsb) | [Buddy Knox](https://open.spotify.com/album/3ouDZeOVznhaMMOvZcukTc) | 2:15 |
 | 27 | [Red Hot \- Remastered 2022](https://open.spotify.com/track/4xDt9STUARW0vyDbPCI9Yi) | [Billy Lee Riley](https://open.spotify.com/artist/0a85EJEd3a9RGM9ops09rZ) | [Sun Records Originals: Flyin' Saucers Rock & Roll](https://open.spotify.com/album/0bj7M9oajGqNlBM7H3CHIS) | 2:29 |
-| 28 | [Matchbox](https://open.spotify.com/track/3qz0e03PIaalwcCGwaJHMs) | [Carl Perkins](https://open.spotify.com/artist/5hIClg6noTaCzMu2s5wp4f) | [The Dance Album](https://open.spotify.com/album/2mDKmUu61YwkVAJfvD81HK) | 2:07 |
-| 29 | [Frankie Please](https://open.spotify.com/track/6jDm8LTMY13EzzIu5FNzYq) | [Rodney Crowell](https://open.spotify.com/artist/4QIJ2i8I6urte2scKgkVoY) | [Tarpaper Sky](https://open.spotify.com/album/5ZLE1zSmmqjOaurNc191uw) | 2:43 |
+| 28 | [Frankie Please](https://open.spotify.com/track/6jDm8LTMY13EzzIu5FNzYq) | [Rodney Crowell](https://open.spotify.com/artist/4QIJ2i8I6urte2scKgkVoY) | [Tarpaper Sky](https://open.spotify.com/album/5ZLE1zSmmqjOaurNc191uw) | 2:43 |
+| 29 | [Matchbox](https://open.spotify.com/track/3qz0e03PIaalwcCGwaJHMs) | [Carl Perkins](https://open.spotify.com/artist/5hIClg6noTaCzMu2s5wp4f) | [The Dance Album](https://open.spotify.com/album/2mDKmUu61YwkVAJfvD81HK) | 2:07 |
 | 30 | [Johnny Got A Boom Boom](https://open.spotify.com/track/5v66oIlY1prS2Q4KUQgiwV) | [Imelda May](https://open.spotify.com/artist/6AnjHMqEAps8VJdHU8RykH) | [Drive Home](https://open.spotify.com/album/0JNiNGzzLk4EREarCIASpz) | 2:59 |
 | 31 | [59 Ford](https://open.spotify.com/track/08m7pwirwY6h90JE8dZ3D3) | [The Firebirds](https://open.spotify.com/artist/0nhl9XQYR0RLk6PWCvGd75) | [Too Hot to Handle](https://open.spotify.com/album/0LUOLIMXEqzJ8Bt3ulTd6H) | 2:06 |
 | 32 | [New Rock The Joint](https://open.spotify.com/track/2msqQpB7YcypMKIx6W5qG5) | [Bill Haley & His Comets](https://open.spotify.com/artist/3MFp4cYuYtTZe3d3xkLLbr) | [Rockin' The Joint](https://open.spotify.com/album/0N5EMEMyYN6BW9R3PjCxxz) | 2:18 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0xLQsW8b5Zx.md) - [plain]
 | 59 | [Rockabilly Guy](https://open.spotify.com/track/3vrRAugNjfi7UkW4Ktxxyl) | [The Polecats](https://open.spotify.com/artist/0ySLj2XiEOFtixInK1GAD4) | [Rockabilly Cats](https://open.spotify.com/album/2FYlqHuVW1L4jnyU8eYJO2) | 2:32 |
 | 60 | [Rockabilly Blues \(Texas 1955\)](https://open.spotify.com/track/5rjJzse6JQDei4q2mOxrum) | [Johnny Cash](https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x) | [Rockabilly Blues](https://open.spotify.com/album/37bIqXYLpE11IpMIBLPLD1) | 3:20 |
 
-Snapshot ID: `MCxmZjI3MWYyMDlhMGExNDI0ZDg4NGJhZGM5YWU1OGYwMzFkOTA1MTFm`
+Snapshot ID: `MCwyYzUyY2IxNGNjNzUzNWExNjJiOTM5OGNlZTVmMjg4MGU4ODdlOTg3`

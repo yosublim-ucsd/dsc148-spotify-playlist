@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0uU8Yv4kOhJ.md) - [plain]
 
 > Concentrate con el aire de la cordillera de los Andes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 127,469 likes - 50 songs - 3 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 127,480 likes - 50 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0uU8Yv4kOhJ.md) - [plain]
 | 30 | [El Condor Pasa](https://open.spotify.com/track/4QPnKgaAx3vQJ05LGfIu2h) | [Raul Olarte](https://open.spotify.com/artist/7MMG0wFNM3j9ZPzFwJAOvU) | [Quena De Los Andes](https://open.spotify.com/album/5uzYC0tdg1kxzzbNzNq7t1) | 3:42 |
 | 31 | [Solo](https://open.spotify.com/track/2nHbYehgkMWR4fmqswEvD9) | [Esteman](https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R) | [Solo](https://open.spotify.com/album/4BQafZfyveBiMv3FDJ6wAU) | 3:44 |
 | 32 | [Munaspaqa Suyaykuway](https://open.spotify.com/track/0RiWhE2d4F8QMKcorZsDh9) | [Jaime Guardia](https://open.spotify.com/artist/3AxPEg0Jy5U5GvgEHsI43X) | [Charango Peruano](https://open.spotify.com/album/4HVoQalB9EVdBsbeOt4Wxx) | 3:02 |
-| 33 | [Religar](https://open.spotify.com/track/2wjx4ZP54RfWN479QH5UCK) | [Mateo Kingman](https://open.spotify.com/artist/223se9o877Y4jHzwlDcGNx) | [Astro](https://open.spotify.com/album/79WFnNXKctYYSwJxas6AI8) | 3:36 |
-| 34 | [Sajsahuaman](https://open.spotify.com/track/4kRLMCyV87XE573Iocaqpp) | [Proyección](https://open.spotify.com/artist/119DPASXtwEkIiAoRSOUR8), [Yuri Ortuño León](https://open.spotify.com/artist/1Tez0X3Wh9zSosZpCyoeLw), [Rafael Arias Paz](https://open.spotify.com/artist/6byGBND3MbJ7xGjDwU0LaZ), [Orlando Jiménez](https://open.spotify.com/artist/09rYyheZjqeOn8sXUfk8Yh), [Raúl Muriel](https://open.spotify.com/artist/2sHM5euYwk4aMqhiT8MZCM) | [No Vuelvo a Amar \(feat\. Yuri Ortuño León, Rafael Arias Paz, Orlando Jiménez, Raúl Muriel\) \[Bolivia y Su Folklore\]](https://open.spotify.com/album/0HHmdi8uP0V82pxE8leycY) | 2:42 |
+| 33 | [Sajsahuaman](https://open.spotify.com/track/4kRLMCyV87XE573Iocaqpp) | [Proyección](https://open.spotify.com/artist/119DPASXtwEkIiAoRSOUR8), [Yuri Ortuño León](https://open.spotify.com/artist/1Tez0X3Wh9zSosZpCyoeLw), [Rafael Arias Paz](https://open.spotify.com/artist/6byGBND3MbJ7xGjDwU0LaZ), [Orlando Jiménez](https://open.spotify.com/artist/09rYyheZjqeOn8sXUfk8Yh), [Raúl Muriel](https://open.spotify.com/artist/2sHM5euYwk4aMqhiT8MZCM) | [No Vuelvo a Amar \(feat\. Yuri Ortuño León, Rafael Arias Paz, Orlando Jiménez, Raúl Muriel\) \[Bolivia y Su Folklore\]](https://open.spotify.com/album/0HHmdi8uP0V82pxE8leycY) | 2:42 |
+| 34 | [Religar](https://open.spotify.com/track/2wjx4ZP54RfWN479QH5UCK) | [Mateo Kingman](https://open.spotify.com/artist/223se9o877Y4jHzwlDcGNx) | [Astro](https://open.spotify.com/album/79WFnNXKctYYSwJxas6AI8) | 3:36 |
 | 35 | [Gemas](https://open.spotify.com/track/2mBvyVRiv8hJBsSmZTNE8X) | [TELEBIT](https://open.spotify.com/artist/1IppeXcGxXcEec0znuY7bI) | [Manglares \(B\-Sides\) \- EP](https://open.spotify.com/album/7kug1J54BtHHJ8iJXagHnE) | 3:38 |
 | 36 | [Montañas](https://open.spotify.com/track/2x0jS1pcwWxzWOd3eRSrzu) | [Cristina Valentina](https://open.spotify.com/artist/3pC5RVO04pJTFcp5xxdXaV) | [Montañas](https://open.spotify.com/album/1IeFuOpz4yMp2zE8e0IWqp) | 4:48 |
 | 37 | [Hoja de Coca](https://open.spotify.com/track/5sYYIgpT03k1EKGBSb77pa) | [Rumillajta](https://open.spotify.com/artist/6Y2Lacqni5uPW6SROD6Jlx) | [Hoja de Coca](https://open.spotify.com/album/4dDnvsVaGbiwhVVkbve4Xe) | 4:26 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0uU8Yv4kOhJ.md) - [plain]
 | 49 | [Vírgenes del Sol](https://open.spotify.com/track/48TL83NPwQdSvaFATmjKPn) | [Inkaquenas](https://open.spotify.com/artist/1CY0y4SPtpah9aHkA1yog3) | [Viento en los Andes](https://open.spotify.com/album/4irQteHtIYmZJ8dVlPHCIF) | 3:38 |
 | 50 | [Viaje Andino](https://open.spotify.com/track/6LFPiralbg4KhoGBCC8V4M) | [Paulopulus](https://open.spotify.com/artist/1IWXmmObccEzvcNxa9Dtvo), [Juan Luis Pereira](https://open.spotify.com/artist/4svRjaFMW12wuoZ0PJqj40) | [Viaje de Mixturas](https://open.spotify.com/album/5UDyoz7X5WktqJadjWvmVA) | 4:06 |
 
-Snapshot ID: `MCwwZTdlZjIwOTE1NDEyYmEzOGZlMjc0NTJmN2QwMjg4YjYwOTBhZmQ5`
+Snapshot ID: `MCxkNWY5YWE0YWZjNmUxMmY5NmVjMTg1MTk4ZDE5YmMwODdmOWU0MTM2`

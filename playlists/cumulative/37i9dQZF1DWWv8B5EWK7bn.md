@@ -4,7 +4,7 @@
 
 > Oblique: Angular\. Asymmetrical\. Experimental.
 
-379 songs - 1 day 3 hr 3 min
+381 songs - 1 day 3 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -94,6 +94,7 @@
 | [Dumb Guitar](https://open.spotify.com/track/50UWt4jx8Y1t8EoV0ODKDL) | [Mount Kimbie](https://open.spotify.com/artist/3NUtpWpGDoffm3RCGhSHtl) | [Dumb Guitar](https://open.spotify.com/album/0oPbGSY87GRUH60Owh8Yql) | 5:10 | 2024-01-04 |  |
 | [Dust It Off](https://open.spotify.com/track/34eeJ4JoXWqe6wmOHmgsCe) | [The Dø](https://open.spotify.com/artist/2mcNCn1qbZUQ3J9KHapUxj) | [Both Ways Open Jaws](https://open.spotify.com/album/49MmHVGK4koPoJYz64Roja) | 3:42 | 2022-08-03 | 2023-03-18 |
 | [Edge of the Edge](https://open.spotify.com/track/4NbOlTgtufOpRVd7h1fsyA) | [Panda Bear](https://open.spotify.com/artist/1R84VlXnFFULOsWWV8IrCQ), [Sonic Boom](https://open.spotify.com/artist/4lBmxg4Z1e9NTDD05a2mhI) | [Reset](https://open.spotify.com/album/20NAtKWWeyYn9QIzOejT0Y) | 4:48 | 2023-01-07 | 2023-08-25 |
+| [Empty And Silent \(feat\. King Krule\)](https://open.spotify.com/track/1SFUxSbBQbJqjN9rFOmYGk) | [Mount Kimbie](https://open.spotify.com/artist/3NUtpWpGDoffm3RCGhSHtl), [King Krule](https://open.spotify.com/artist/4wyNyxs74Ux8UIDopNjIai) | [Empty And Silent \(feat\. King Krule\)](https://open.spotify.com/album/0AeSOw3HZgMJepZRDj2YR0) | 6:07 | 2024-03-20 |  |
 | [Encaix](https://open.spotify.com/track/7jkZx2Ye8l2zONmWv9RQw6) | [Renaldo & Clara](https://open.spotify.com/artist/29eGrPvxOuFDGOyOUi3RLq) | [La boca aigua](https://open.spotify.com/album/4O89ZOWZTSBnHErFVYGWPI) | 1:59 | 2024-01-03 |  |
 | [Escultura Misterio](https://open.spotify.com/track/110XHKXij8NsQYcDiZk0cD) | [Tarik Rahim](https://open.spotify.com/artist/6G8dH1AvGAD1TOldBpAolN) | [Escultura Misterio](https://open.spotify.com/album/0JZld6b73MsZUKI1bg8KSc) | 2:53 | 2022-08-13 | 2023-01-04 |
 | [Estrés](https://open.spotify.com/track/3LuEubnZA02nAjYPZYOKMW) | [La Texana](https://open.spotify.com/artist/7KXPjNDl2wveAmMIEZHQhB) | [Morro](https://open.spotify.com/album/2bGPirzXyUp4MrYozkRDeE) | 2:44 | 2023-03-16 | 2023-06-08 |
@@ -191,7 +192,8 @@
 | [Log In Your Fire](https://open.spotify.com/track/7txXo9E9GS7ioSX1g3RNSv) | [Kaitlyn Aurelia Smith](https://open.spotify.com/artist/6P86FLVAK4sxu8OhyQJBvH), [Emile Mosseri](https://open.spotify.com/artist/0BNz24TKUn8Ov1ApFkLzA1) | [I Could Be Your Dog \(Prequel\)](https://open.spotify.com/album/010kVtJGaVvJPmMyAHscKD) | 2:51 | 2022-02-04 | 2022-07-29 |
 | [Lonely One](https://open.spotify.com/track/35b2N9gDlR3LPSKaXTGOmu) | [Sure Sure](https://open.spotify.com/artist/1anAI9P9iSzc9qzLv6AtHZ) | [Lonely One](https://open.spotify.com/album/1qDhZO24bweGR7zKze2xMZ) | 2:47 | 2022-09-29 | 2022-10-30 |
 | [Lonely One](https://open.spotify.com/track/7dW6aiHZG0A8xApW0Xg40G) | [Sure Sure](https://open.spotify.com/artist/1anAI9P9iSzc9qzLv6AtHZ) | [Spirit Mission](https://open.spotify.com/album/31t6VcIOZ3WqsSH2F9Zcy0) | 2:47 | 2022-09-29 | 2023-05-13 |
-| [Lose](https://open.spotify.com/track/729EJVbWkITU4vAc690cFE) | [Boeckner](https://open.spotify.com/artist/1SdWYxZBt4RjvyXcMbtxyE) | [Lose](https://open.spotify.com/album/4ddL8UW6YILIWxd0g185KP) | 4:51 | 2024-01-30 |  |
+| [Lose](https://open.spotify.com/track/5fSUc2h13lsyCcGLhzfTED) | [Boeckner](https://open.spotify.com/artist/1SdWYxZBt4RjvyXcMbtxyE) | [Boeckner!](https://open.spotify.com/album/1we8POeAomGmp8hTzGFdaW) | 4:51 | 2024-01-30 |  |
+| [Lose](https://open.spotify.com/track/729EJVbWkITU4vAc690cFE) | [Boeckner](https://open.spotify.com/artist/1SdWYxZBt4RjvyXcMbtxyE) | [Lose](https://open.spotify.com/album/4ddL8UW6YILIWxd0g185KP) | 4:51 | 2024-01-30 | 2024-03-21 |
 | [Lost](https://open.spotify.com/track/5NIrChwN4QRg8sGrFalgMU) | [Zola Jesus](https://open.spotify.com/artist/78OKNrjc3BvniYTqvpOp6P) | [Arkhon](https://open.spotify.com/album/4fAgGEM3LIMho5Brx5Gio9) | 3:24 | 2022-07-15 |  |
 | [Lost Heads](https://open.spotify.com/track/3UweSSZc1r6z0DPQYEymb4) | [Moon Duo](https://open.spotify.com/artist/4ipKeGoyPCcpEblETS4qLu) | [Stars Are the Light](https://open.spotify.com/album/70nGjFdZKPyoYCtDhTlbqQ) | 6:26 | 2021-10-06 | 2022-07-29 |
 | [Lost Heads](https://open.spotify.com/track/6f8wIpMdNnL7CZ8zsfmh6v) | [Moon Duo](https://open.spotify.com/artist/4ipKeGoyPCcpEblETS4qLu) | [Stars Are the Light](https://open.spotify.com/album/1sHQuaIevYqota2y67KzK5) | 6:26 | 2021-10-06 | 2022-08-04 |
@@ -252,7 +254,7 @@
 | [Portraits](https://open.spotify.com/track/6PypMXsV8zmifuFPMnWE4W) | [Panchiko](https://open.spotify.com/artist/4KEHIUSoWCcqrk8AddTE1O) | [Failed at Math\(s\)](https://open.spotify.com/album/0xCCtljPkA65lyDP3CXFgr) | 3:42 | 2023-04-13 | 2023-07-25 |
 | [Processional](https://open.spotify.com/track/4M8Wki6etujAJFSRau8OWC) | [@](https://open.spotify.com/artist/5HMQ8Ndq4fhuLwhealQFO3) | [Are You There God? It’s Me, @](https://open.spotify.com/album/6hPdOR9ap5zByvKiKV6XRp) | 3:14 | 2024-03-05 |  |
 | [Quirk](https://open.spotify.com/track/326iKm66vm3bhCXAOxh3xK) | [Really From](https://open.spotify.com/artist/1qTmg9Vib3GHabe1ygHW9y) | [Really From](https://open.spotify.com/album/06jgHnFcljRkBImNYTddpB) | 4:12 | 2021-10-06 | 2022-07-15 |
-| [r\(EMOTE\)](https://open.spotify.com/track/3iOMiZlt4gEeQsEgnW0MeQ) | [L'Rain](https://open.spotify.com/artist/68BVYIej5jGdIh8au5qELn) | [r\(EMOTE\)](https://open.spotify.com/album/4gYQKBqHDABqdmJuTnSjvS) | 3:41 | 2023-10-19 |  |
+| [r\(EMOTE\)](https://open.spotify.com/track/3iOMiZlt4gEeQsEgnW0MeQ) | [L'Rain](https://open.spotify.com/artist/68BVYIej5jGdIh8au5qELn) | [r\(EMOTE\)](https://open.spotify.com/album/4gYQKBqHDABqdmJuTnSjvS) | 3:41 | 2023-10-19 | 2024-03-21 |
 | [Rain Take Me Back Himalaya](https://open.spotify.com/track/4S2be7DT90dt19piW7wj8O) | [Efterklang](https://open.spotify.com/artist/3DL71JYSG6VREkmLSzfWhU) | [Plexiglass](https://open.spotify.com/album/34vLOdj6NXH9oESFFJa9F1) | 4:27 | 2022-07-04 | 2022-09-23 |
 | [Ready To Ball](https://open.spotify.com/track/7AN04wyG4AnzJN3cR20CQT) | [Kassa Overall](https://open.spotify.com/artist/7qzzcFzliEAHMlDA9qaRVf) | [Ready To Ball](https://open.spotify.com/album/0oKYfLeymlC92TAHzSDzRp) | 3:27 | 2023-03-23 | 2024-03-06 |
 | [Reverie](https://open.spotify.com/track/3SliuInyApsQsaDwCDbbvY) | [Beautify Junkyards](https://open.spotify.com/artist/2Rrf9CkzPdPihESHDo5KZl) | [Cosmorama](https://open.spotify.com/album/51huDw05lsbbpDcR1MuIfq) | 4:18 | 2021-10-06 | 2023-09-26 |

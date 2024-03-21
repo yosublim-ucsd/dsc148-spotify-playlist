@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3qfKi1la1B1.md) - [plain]
 
 > 深夜の読書、お酒を飲みながらネットサーフィン ....そんなリラックスタイムのお供に。
 
-[Spotify](https://open.spotify.com/user/spotify) - 119,178 likes - 60 songs - 3 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 119,204 likes - 60 songs - 3 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,8 +58,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3qfKi1la1B1.md) - [plain]
 | 48 | [Butterflies \(feat\. AURORA\)](https://open.spotify.com/track/1dWUBCoztAMZcqec1CAE6z) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX), [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N) | [Butterflies \(feat\. AURORA\)](https://open.spotify.com/album/3399XMtHgSm7F0DClLiSsU) | 2:10 |
 | 49 | [Jungle](https://open.spotify.com/track/31B7wLv4yvtjDoTTmbnxeE) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Jungle](https://open.spotify.com/album/3iDLGLmecmdkmdxYmuol5d) | 3:18 |
 | 50 | [Karma](https://open.spotify.com/track/5gc1YUM7XMyvzjJtNLXprG) | [SiR](https://open.spotify.com/artist/3QTDHixorJelOLxoxcjqGx), [Isaiah Rashad](https://open.spotify.com/artist/6aaMZ3fcfLv4tEbmY7bjRM) | [Karma](https://open.spotify.com/album/0ahMBglX3zpyTxcD3NwZR5) | 3:07 |
-| 51 | [Bug Like an Angel](https://open.spotify.com/track/45KMdPDdZTxcXW3lw10R70) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [The Land Is Inhospitable and So Are We](https://open.spotify.com/album/2Cn1d2KgbkAqbZCJ1RzdkA) | 3:32 |
-| 52 | [Dominoes](https://open.spotify.com/track/59rkTkputMqoxunf9IRzOc) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [Volcano](https://open.spotify.com/album/5xnXOCf5aZgZ43DgGN4EDv) | 2:57 |
+| 51 | [Dominoes](https://open.spotify.com/track/59rkTkputMqoxunf9IRzOc) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [Volcano](https://open.spotify.com/album/5xnXOCf5aZgZ43DgGN4EDv) | 2:57 |
+| 52 | [Bug Like an Angel](https://open.spotify.com/track/45KMdPDdZTxcXW3lw10R70) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [The Land Is Inhospitable and So Are We](https://open.spotify.com/album/2Cn1d2KgbkAqbZCJ1RzdkA) | 3:32 |
 | 53 | [Lookalike](https://open.spotify.com/track/4K3gM7kzX4POAfrs71HomN) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Sunset Season](https://open.spotify.com/album/16pubXUlqRziVWRsT6lLNz) | 3:40 |
 | 54 | [Charge It](https://open.spotify.com/track/2YIIDMcF9zWJ2xcFSA99lH) | [ENNY](https://open.spotify.com/artist/3qEnCAnX23lvoxZYtBiPgL) | [We Go Again](https://open.spotify.com/album/4vdQXcHcAGcVSBA7956EMq) | 3:05 |
 | 55 | [Bubblegum](https://open.spotify.com/track/7oEQMrBcT9kvJF1mJpk5IP) | [Cigarettes After Sex](https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj) | [Bubblegum](https://open.spotify.com/album/6EIC2a6khsh1h1DfG8WlBW) | 4:39 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3qfKi1la1B1.md) - [plain]
 | 59 | [The Grants](https://open.spotify.com/track/3KbOflJ5JqHWtmco4PiO3h) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Did you know that there's a tunnel under Ocean Blvd](https://open.spotify.com/album/5HOHne1wzItQlIYmLXLYfZ) | 4:55 |
 | 60 | [Placebo Effect](https://open.spotify.com/track/6m3T4RHAMaSIKUDsxko43y) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Placebo Effect](https://open.spotify.com/album/3dFr6Li35Nik82qwIMrSYa) | 3:11 |
 
-Snapshot ID: `MCwyMWJjMTA3YmRhNDYwYTgzYTFkMjdmZTFmZWVkNjRmMTc1ZTA5ZTg0`
+Snapshot ID: `MCwyNmVmMDRkYjc4MTI5MTRjZmYwMTIzYzU0YmZjYzI5YTYyZTM2Y2E2`

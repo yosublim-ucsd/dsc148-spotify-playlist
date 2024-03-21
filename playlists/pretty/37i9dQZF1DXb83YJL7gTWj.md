@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb83YJL7gTWj.md) - [plain]
 
 > Press play and enjoy a relaxing meal\. Easy!
 
-[Spotify](https://open.spotify.com/user/spotify) - 259,810 likes - 100 songs - 6 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 259,815 likes - 100 songs - 6 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb83YJL7gTWj.md) - [plain]
 | 27 | [Glue Song](https://open.spotify.com/track/3iBgrkexCzVuPy4O9vx7Mf) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Glue Song](https://open.spotify.com/album/3KmSMUwyrakryureTNI4U8) | 2:15 |
 | 28 | [If You Love Her](https://open.spotify.com/track/727Z2S2mtNH46CbP9EWPwY) | [Forest Blakk](https://open.spotify.com/artist/7q7IUe2AqtifSZ2q52kHFc) | [If You Love Her](https://open.spotify.com/album/5hgwPA78vCrhEDaTazNMyR) | 3:37 |
 | 29 | [Sunrise](https://open.spotify.com/track/7zkLpY72g6lKQbiHDqri1S) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N) | [Feels Like Home](https://open.spotify.com/album/7GaAXgbFSpcJOiLlFGYyOL) | 3:20 |
-| 30 | [Texas Sun](https://open.spotify.com/track/24ntSW3QVJzR79lHAAOTaY) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk), [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Texas Sun](https://open.spotify.com/album/4HFO9PDRxsdbcegkcNhxgz) | 4:12 |
-| 31 | [IDK You Yet](https://open.spotify.com/track/0j1Ia2lQWrcXrQZI4AdJlk) | [Alexander 23](https://open.spotify.com/artist/6sFHvCyqklnJpXC9Nh1aag) | [IDK You Yet \(Live on Piano\)](https://open.spotify.com/album/2MV7PrKdCcislKUAPMyEA2) | 3:04 |
+| 30 | [IDK You Yet](https://open.spotify.com/track/0j1Ia2lQWrcXrQZI4AdJlk) | [Alexander 23](https://open.spotify.com/artist/6sFHvCyqklnJpXC9Nh1aag) | [IDK You Yet \(Live on Piano\)](https://open.spotify.com/album/2MV7PrKdCcislKUAPMyEA2) | 3:04 |
+| 31 | [Texas Sun](https://open.spotify.com/track/24ntSW3QVJzR79lHAAOTaY) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk), [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Texas Sun](https://open.spotify.com/album/4HFO9PDRxsdbcegkcNhxgz) | 4:12 |
 | 32 | [Cold Little Heart \- Radio Edit](https://open.spotify.com/track/7KX65PC1UZuImsUInThbav) | [Michael Kiwanuka](https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj) | [Cold Little Heart \(Radio Edit\)](https://open.spotify.com/album/55A6d8TOuiAs6zDiKj2c3A) | 3:30 |
 | 33 | [Almost \(Sweet Music\)](https://open.spotify.com/track/5Apvsk0suoivI1H8CmBglv) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Wasteland, Baby!](https://open.spotify.com/album/2c7gFThUYyo2t6ogAgIYNw) | 3:37 |
 | 34 | [July \(feat\. Leon Bridges\)](https://open.spotify.com/track/3V0nnQhqvbE3JmiDdnzQFQ) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW), [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [July \(feat\. Leon Bridges\)](https://open.spotify.com/album/3tRmxSQyoyXXwcVDcUFQic) | 2:32 |
@@ -52,8 +52,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb83YJL7gTWj.md) - [plain]
 | 42 | [Before You Go](https://open.spotify.com/track/7ce20yLkzuXXLUhzIDoZih) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Before You Go](https://open.spotify.com/album/0488X5veBK6t3vSmIiTDJY) | 3:35 |
 | 43 | [You're Still The One](https://open.spotify.com/track/4guQztGKAETkvuTekNeqBe) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [You're Still The One](https://open.spotify.com/album/5AVgN2eYblXYC4881DA9Dc) | 3:16 |
 | 44 | [sun and moon](https://open.spotify.com/track/7m4BsKrYkOFy3VNmAMu5bO) | [anees](https://open.spotify.com/artist/2HPqVfdPh9JkBSlFG5hK6h) | [summer camp](https://open.spotify.com/album/4mO5hcuCZYh8TyVgUjkIvi) | 2:31 |
-| 45 | [Stick Season](https://open.spotify.com/track/0GNVXNz7Jkicfk2mp5OyG5) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Stick Season](https://open.spotify.com/album/1fMRg0CNLKdnrXD0WPc2Ju) | 3:02 |
-| 46 | [The Bones](https://open.spotify.com/track/7yFhA2fUsL2oIMWlw5DaHQ) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [GIRL](https://open.spotify.com/album/3XpxioqzCTiqOSuHTXuaGf) | 3:17 |
+| 45 | [The Bones](https://open.spotify.com/track/7yFhA2fUsL2oIMWlw5DaHQ) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [GIRL](https://open.spotify.com/album/3XpxioqzCTiqOSuHTXuaGf) | 3:17 |
+| 46 | [Stick Season](https://open.spotify.com/track/0GNVXNz7Jkicfk2mp5OyG5) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Stick Season](https://open.spotify.com/album/1fMRg0CNLKdnrXD0WPc2Ju) | 3:02 |
 | 47 | [Coming Home](https://open.spotify.com/track/65GbQI9VDTs7vo6MJL2iJA) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Coming Home \(Deluxe\)](https://open.spotify.com/album/21KIagsx1ZvYcv0sVkEAWv) | 3:26 |
 | 48 | [Put A Little Love On Me](https://open.spotify.com/track/7LyBwug9tJgbaEzRCqtY78) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [Heartbreak Weather](https://open.spotify.com/album/5gdoRB1AUsGnScCuZ8gmPp) | 3:44 |
 | 49 | [Slow Burn](https://open.spotify.com/track/6ET9kf9riLETWs9lePUEAI) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Golden Hour](https://open.spotify.com/album/7f6xPqyaolTiziKf5R5Z0c) | 4:06 |
@@ -106,7 +106,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb83YJL7gTWj.md) - [plain]
 | 96 | [Be Okay](https://open.spotify.com/track/717CKNCKUdDL17beOjQQEi) | [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [Lauren Daigle](https://open.spotify.com/album/2XzIFrXnYFapaT2sNJ1LQQ) | 3:28 |
 | 97 | [Small Talk](https://open.spotify.com/track/1HkB10b5D1tb0fSb1QsOvD) | [Wild Rivers](https://open.spotify.com/artist/59sBwR0jPSTrbMtuTkRPN5) | [Songs to Break Up To](https://open.spotify.com/album/5OVxLrOoXXD2HSKkQNqhQW) | 2:46 |
 | 98 | [Grow as We Go \(feat\. Sara Bareilles\)](https://open.spotify.com/track/1xscBC6UV21t0sMCgu0mLi) | [Ben Platt](https://open.spotify.com/artist/6qGkLCMQkNGOJ079iEcC5k), [Sara Bareilles](https://open.spotify.com/artist/2Sqr0DXoaYABbjBo9HaMkM) | [Grow As We Go \(feat\. Sara Bareilles\)](https://open.spotify.com/album/3BEJQtuowUpkfO9ducuC0M) | 4:09 |
-| 99 | [Believer](https://open.spotify.com/track/0rwrb7euyHuIUMhrsQ7A1b) | [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0) | [The Day My Father Died](https://open.spotify.com/album/6012ywIYPi6nTdh3mu18ht) | 4:23 |
-| 100 | [The Only Exception](https://open.spotify.com/track/6yBVp6DFh899CRaKww95Hr) | [Katelyn Tarver](https://open.spotify.com/artist/6i8Tae6takoQos2JZ4vdRn) | [The Only Exception](https://open.spotify.com/album/6ssR342wWYZwPjYG35AWbG) | 4:22 |
+| 99 | [The Only Exception](https://open.spotify.com/track/6yBVp6DFh899CRaKww95Hr) | [Katelyn Tarver](https://open.spotify.com/artist/6i8Tae6takoQos2JZ4vdRn) | [The Only Exception](https://open.spotify.com/album/6ssR342wWYZwPjYG35AWbG) | 4:22 |
+| 100 | [Believer](https://open.spotify.com/track/0rwrb7euyHuIUMhrsQ7A1b) | [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0) | [The Day My Father Died](https://open.spotify.com/album/6012ywIYPi6nTdh3mu18ht) | 4:23 |
 
-Snapshot ID: `MCxkMjkzM2ExZTY5ZTMyOThjODJlMzc4N2Q2NTkxMmEwMWUxMmRhY2Ux`
+Snapshot ID: `MCw1ZDVhYWRmZDljYzVmOTI4NWRjNWI1N2EyYzdjZGEyODQ0MzU1Zjkx`

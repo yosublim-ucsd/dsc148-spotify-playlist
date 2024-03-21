@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1xnOx2.md) - [plain]
 
 > This is Hozier\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 454,848 likes - 34 songs - 2 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 455,357 likes - 34 songs - 2 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,20 +27,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1xnOx2.md) - [plain]
 | 17 | [Talk](https://open.spotify.com/track/6ctlpLPyLH3R1V16fxoOWE) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Wasteland, Baby!](https://open.spotify.com/album/2c7gFThUYyo2t6ogAgIYNw) | 3:26 |
 | 18 | [First Time](https://open.spotify.com/track/4LesrBswFnLcHmwDslst1q) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Unreal Unearth](https://open.spotify.com/album/3gF9KIynrJaC80HbVayPMx) | 3:53 |
 | 19 | [From Eden](https://open.spotify.com/track/5aRZk9oWIYUB5alrTs8TTV) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Hozier \(Expanded Edition\)](https://open.spotify.com/album/4Pv7m8D82A1Xun7xNCKZjJ) | 4:43 |
-| 20 | [Swan Upon Leda](https://open.spotify.com/track/3JtVtwLYCy9WXcHLQyzRnl) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Swan Upon Leda](https://open.spotify.com/album/5aO7IZl8KxtyCeke37Jvk4) | 3:42 |
+| 20 | [Arsonist's Lullabye](https://open.spotify.com/track/1UWhx0pFZccP4jdCIZsj7U) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [From Eden EP](https://open.spotify.com/album/0FubRTC6GUFPUg4y2Xuxs0) | 4:26 |
 | 21 | [Shrike](https://open.spotify.com/track/083PU4XnYAOMAGVruma3vb) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Wasteland, Baby!](https://open.spotify.com/album/2c7gFThUYyo2t6ogAgIYNw) | 4:58 |
 | 22 | [Francesca](https://open.spotify.com/track/6QnfsyzifAJJrNHYTO6j9J) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Unreal Unearth](https://open.spotify.com/album/3gF9KIynrJaC80HbVayPMx) | 4:30 |
 | 23 | [Angel of Small Death and the Codeine Scene](https://open.spotify.com/track/6JmSfynzr6E0QllQZNEXEb) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Hozier \(Expanded Edition\)](https://open.spotify.com/album/4Pv7m8D82A1Xun7xNCKZjJ) | 3:39 |
-| 24 | [Blood Upon the Snow](https://open.spotify.com/track/5cgacDGTfR9sm4W03syTyX) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS), [Bear McCreary](https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG) | [God of War Ragnarök \(Original Soundtrack\)](https://open.spotify.com/album/7LmeRZOi905AochW9J9FAA) | 4:31 |
-| 25 | [Nobody](https://open.spotify.com/track/69WkwzVjQS4Dc8QQtpz0qM) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Wasteland, Baby!](https://open.spotify.com/album/2c7gFThUYyo2t6ogAgIYNw) | 3:30 |
+| 24 | [Swan Upon Leda](https://open.spotify.com/track/3JtVtwLYCy9WXcHLQyzRnl) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Swan Upon Leda](https://open.spotify.com/album/5aO7IZl8KxtyCeke37Jvk4) | 3:42 |
+| 25 | [Wasteland, Baby!](https://open.spotify.com/track/1HYnjKqSSHh1tdl2Hi57zH) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Wasteland, Baby!](https://open.spotify.com/album/2c7gFThUYyo2t6ogAgIYNw) | 4:26 |
 | 26 | [I, Carrion \(Icarian\)](https://open.spotify.com/track/3EN1l4uUvFBOy3pD9we2jf) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Unreal Unearth](https://open.spotify.com/album/3gF9KIynrJaC80HbVayPMx) | 3:16 |
 | 27 | [Sedated](https://open.spotify.com/track/3Ub5gDJTOGWr2AlDcScUIr) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Hozier \(Expanded Edition\)](https://open.spotify.com/album/4Pv7m8D82A1Xun7xNCKZjJ) | 3:27 |
-| 28 | [Arsonist's Lullabye](https://open.spotify.com/track/1UWhx0pFZccP4jdCIZsj7U) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [From Eden EP](https://open.spotify.com/album/0FubRTC6GUFPUg4y2Xuxs0) | 4:26 |
-| 29 | [Sunlight](https://open.spotify.com/track/4zvvvHm0b5CBl37tocxm7n) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Wasteland, Baby!](https://open.spotify.com/album/2c7gFThUYyo2t6ogAgIYNw) | 4:17 |
+| 28 | [Blood Upon the Snow](https://open.spotify.com/track/5cgacDGTfR9sm4W03syTyX) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS), [Bear McCreary](https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG) | [God of War Ragnarök \(Original Soundtrack\)](https://open.spotify.com/album/7LmeRZOi905AochW9J9FAA) | 4:31 |
+| 29 | [Nobody](https://open.spotify.com/track/69WkwzVjQS4Dc8QQtpz0qM) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Wasteland, Baby!](https://open.spotify.com/album/2c7gFThUYyo2t6ogAgIYNw) | 3:30 |
 | 30 | [Damage Gets Done \(feat\. Brandi Carlile\)](https://open.spotify.com/track/2OLaeJRrRjFgLfTsccnzlM) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS), [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [Unreal Unearth](https://open.spotify.com/album/3gF9KIynrJaC80HbVayPMx) | 4:28 |
 | 31 | [NFWMB](https://open.spotify.com/track/2iQYqdalv245vrCEM4W9N9) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Nina Cried Power \- EP](https://open.spotify.com/album/78o6vcPIRwoph8a3StqaTU) | 4:19 |
 | 32 | [Say My Name \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/2xbuycY0MolcTZGENc4PuK) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Spotify Singles](https://open.spotify.com/album/7LDRKBdy3nivZDXnwUrgAE) | 4:27 |
 | 33 | [Through Me \(The Flood\)](https://open.spotify.com/track/7KPx2ijBup2MQHMrz6EVSV) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Eat Your Young](https://open.spotify.com/album/1GOa0Bsm7eeVIJglLcoLWX) | 3:47 |
 | 34 | [Moment's Silence \(Common Tongue\)](https://open.spotify.com/track/6F980QL4axcqjJDMaV7Ew8) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Nina Cried Power \- EP](https://open.spotify.com/album/78o6vcPIRwoph8a3StqaTU) | 4:14 |
 
-Snapshot ID: `Mjg1MTQxOTUsMDAwMDAwMDBhZDJmMTFlY2I1NzlhMmI5OTcwZTMzN2U3NjNmY2VlNg==`
+Snapshot ID: `Mjg1MTU2NjEsMDAwMDAwMDBlNDk5MmVlNzdmNDY2ZTU5OWM4NDM1N2VlYmE4NmFmOQ==`

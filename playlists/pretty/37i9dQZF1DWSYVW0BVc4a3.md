@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSYVW0BVc4a3.md) - [plain]
 
 > The stomping ground.
 
-[Spotify](https://open.spotify.com/user/spotify) - 129,072 likes - 156 songs - 10 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 129,245 likes - 156 songs - 10 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -87,7 +87,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSYVW0BVc4a3.md) - [plain]
 | 77 | [Noreaga](https://open.spotify.com/track/0qKPsIpJdCEUSeoB3JZddK) | [Jeremy Olander](https://open.spotify.com/artist/5vdjF79d5d2m12FOkJhxHB) | [Noreaga](https://open.spotify.com/album/43ZR2HJop5IZAboipHGbc1) | 8:07 |
 | 78 | [Stop That](https://open.spotify.com/track/4kCobKvqHOPEa5GOCz3oR3) | [Maceo Plex](https://open.spotify.com/artist/3TXQ1ddouwQAI78hV4hXDj) | ['93](https://open.spotify.com/album/3UJOuk02GRRQoskeaCFwbG) | 5:35 |
 | 79 | [what a place](https://open.spotify.com/track/3UhHRrNxPY3NKzsRDdN90T) | [altrice](https://open.spotify.com/artist/44lQJ512fu8nW7pa1FRmDF) | [what a place](https://open.spotify.com/album/1sHRW6142tlZ9ksG2GyanA) | 4:11 |
-| 80 | [The Fight Goes On](https://open.spotify.com/track/79MiPqQ3hKFXUHSur45kOI) | [Thabo Tonick](https://open.spotify.com/artist/154tqoSmvaZaRIgwJI1xgJ) | [The Fight Goes On](https://open.spotify.com/album/3i8j6ScRkL69iZo0K2r7yj) | 5:32 |
+| 80 | [The Fight Goes On](https://open.spotify.com/track/5bXXNTlYJtwB4fYPPp4UCE) | [Thabo Thonick](https://open.spotify.com/artist/0otSY2i8HznRrkLmMVFxuF) | [The Fight Goes On](https://open.spotify.com/album/0AB3whNahBaJVynnZAgXcT) | 5:32 |
 | 81 | [I Talk To Water \(With Perry Farrell\) \- CamelPhat Remix](https://open.spotify.com/track/0VMY3ugy98OkCzk8U3q2C7) | [Kölsch](https://open.spotify.com/artist/2D9Oe8R9UhbMvFAsMJpXj0), [CamelPhat](https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W), [Perry Farrell](https://open.spotify.com/artist/2DS5RPK5A2GQTucYlgsQdE) | [I Talk To Water \(With Perry Farrell\) \(CamelPhat Remix\)](https://open.spotify.com/album/6tIe9eiRP3pUXY2f2DMMpe) | 3:00 |
 | 82 | [The Signal \- Day Mix](https://open.spotify.com/track/3arUvQCkg6Q3lYpVmgANsU) | [Adam Beyer](https://open.spotify.com/artist/1btv9qmIpbp7q1ixCYNdHu), [Raxon](https://open.spotify.com/artist/6gp9WP1OleU89x2gF9w2ID) | [The Signal](https://open.spotify.com/album/3XYEajNB6c3VizK2MSaH2C) | 6:44 |
 | 83 | [Simulation](https://open.spotify.com/track/5166Ws58cqwtQE2YR7Nyal) | [Anyma](https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN), [Chris Avantgarde](https://open.spotify.com/artist/715OI7hiv58daVlEDXM47U) | [Simulation](https://open.spotify.com/album/08D0nW5tIE8sRDIZruTU2V) | 3:15 |
@@ -165,4 +165,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSYVW0BVc4a3.md) - [plain]
 | 155 | [Hot Night](https://open.spotify.com/track/5xcmBLG9VO1ILZtUjNP4q8) | [Durante](https://open.spotify.com/artist/1BqIPGrEhdjdLFpUzce2dh), [HANA](https://open.spotify.com/artist/224Zsim3dmWXWYUXFuHv0o) | [Hot Night](https://open.spotify.com/album/1TsV2l0AtV32o8nQCjsnlv) | 3:58 |
 | 156 | [Only You](https://open.spotify.com/track/6xAGaIRVA3rddnDzzjsb5u) | [Max Kaluza](https://open.spotify.com/artist/6lNLgymfWudNsbC0Vio7Qi) | [Picture Perfect EP](https://open.spotify.com/album/0C6LlsjVraJSPkdLZAsMhf) | 2:40 |
 
-Snapshot ID: `MCxiYzdhYjBhN2M1YTdiMDgxNWViOTM2N2Q1MTcwMTg0ZWM4NTc2OWFk`
+Snapshot ID: `MCw1YzJjNTgzMGE0Mzc1MWJkYzhmNDBmYjY4ZDI5MTc0MWZhNTdjY2Ji`

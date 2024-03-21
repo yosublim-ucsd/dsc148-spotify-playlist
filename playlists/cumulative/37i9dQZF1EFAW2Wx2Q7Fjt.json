@@ -389,6 +389,24 @@
     },
     {
       "album": {
+        "name": "Damn Near Normal",
+        "url": "https://open.spotify.com/album/3lhyhLiN82xxpLH85BCGz7"
+      },
+      "artists": [
+        {
+          "name": "Koe Wetzel",
+          "url": "https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ"
+        }
+      ],
+      "date_added": "2024-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224695,
+      "name": "Damn Near Normal",
+      "url": "https://open.spotify.com/track/56eB13MUQGCQhsKn8tNP9x"
+    },
+    {
+      "album": {
         "name": "Love Goes",
         "url": "https://open.spotify.com/album/5XCBX16KNYsAe7V5hQV9mC"
       },
@@ -1872,6 +1890,24 @@
       "duration_ms": 183339,
       "name": "The Wedding Song",
       "url": "https://open.spotify.com/track/3UNTCTqSGhVaaMQvBty1q6"
+    },
+    {
+      "album": {
+        "name": "THINK LATER",
+        "url": "https://open.spotify.com/album/0OUOx6rJXtL66AzTnP9KUE"
+      },
+      "artists": [
+        {
+          "name": "Tate McRae",
+          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
+        }
+      ],
+      "date_added": "2024-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133562,
+      "name": "think later",
+      "url": "https://open.spotify.com/track/44c9MsAwxoAdAYpCVRBAG1"
     },
     {
       "album": {

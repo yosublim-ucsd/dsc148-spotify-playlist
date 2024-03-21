@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0DyosUBZQ7.md) - [plain]
 
 > The most beautiful love songs of the 2000s
 
-[Spotify](https://open.spotify.com/user/spotify) - 573,729 likes - 75 songs - 4 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 574,047 likes - 75 songs - 4 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,8 +56,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0DyosUBZQ7.md) - [plain]
 | 46 | [Let Me Love You](https://open.spotify.com/track/5WphWTUIfRe7x8NZss79cY) | [Mario](https://open.spotify.com/artist/20s0P9QLxGqKuCsGwFsp7w) | [Turning Point](https://open.spotify.com/album/4qqrq2LYJYvKOV5Xrcajvp) | 4:09 |
 | 47 | [Because of You](https://open.spotify.com/track/3f3omU8n47Mqyab5nCaGyT) | [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) | [Breakaway](https://open.spotify.com/album/5gDAEao3VxFdbm8vS0koQq) | 3:39 |
 | 48 | [Halo](https://open.spotify.com/track/3ERa3mEeOnrh2Mc47qM6T1) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [I AM...SASHA FIERCE](https://open.spotify.com/album/23Y5wdyP5byMFktZf8AcWU) | 4:21 |
-| 49 | [Out Of Reach](https://open.spotify.com/track/0HKD13PLq2WicViBBhSrOl) | [GABRIELLE](https://open.spotify.com/artist/7rftfGIYEeZ79sLb58ZBDi) | [Rise](https://open.spotify.com/album/2KOwfgyufhsAO3Qaycw7sX) | 3:16 |
-| 50 | [Superman \(It's Not Easy\)](https://open.spotify.com/track/3TwtrR1yNLY1PMPsrGQpOp) | [Five For Fighting](https://open.spotify.com/artist/7FgMLbnZVrEnir95O0YujA) | [America Town](https://open.spotify.com/album/5MqEXYwwyJYjOb3g7vJ9ZY) | 3:41 |
+| 49 | [Superman \(It's Not Easy\)](https://open.spotify.com/track/3TwtrR1yNLY1PMPsrGQpOp) | [Five For Fighting](https://open.spotify.com/artist/7FgMLbnZVrEnir95O0YujA) | [America Town](https://open.spotify.com/album/5MqEXYwwyJYjOb3g7vJ9ZY) | 3:41 |
+| 50 | [Out Of Reach](https://open.spotify.com/track/0HKD13PLq2WicViBBhSrOl) | [GABRIELLE](https://open.spotify.com/artist/7rftfGIYEeZ79sLb58ZBDi) | [Rise](https://open.spotify.com/album/2KOwfgyufhsAO3Qaycw7sX) | 3:16 |
 | 51 | [Somethin' Stupid](https://open.spotify.com/track/4kSKacywUJHdhyst4PL6pl) | [Robbie Williams](https://open.spotify.com/artist/2HcwFjNelS49kFbfvMxQYw), [Nicole Kidman](https://open.spotify.com/artist/0ExYzTb7raTAfsXPtiI5vq) | [Swing When You're Winning](https://open.spotify.com/album/3eWoVPAUtBO8JpwOkWpvnw) | 2:50 |
 | 52 | [Everytime](https://open.spotify.com/track/0dRhSF9LV0HR8Jwd3MMMKJ) | [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [In The Zone](https://open.spotify.com/album/0z7pVBGOD7HCIB7S8eLkLI) | 3:50 |
 | 53 | [This I Promise You](https://open.spotify.com/track/46n2EGFnPC3tzWCN1Aqe26) | [\*NSYNC](https://open.spotify.com/artist/6Ff53KvcvAj5U7Z1vojB5o) | [No Strings Attached](https://open.spotify.com/album/20RMokVwJ2wjQ0s8FOdOFC) | 4:44 |
@@ -74,8 +74,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0DyosUBZQ7.md) - [plain]
 | 64 | [Won't Go Home Without You](https://open.spotify.com/track/0tuyEYTaqLxE41yGHSsXjy) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP) | [It Won't Be Soon Before Long.](https://open.spotify.com/album/29hJ8AFYZU98OzenrMr6iU) | 3:51 |
 | 65 | [When I Look At You](https://open.spotify.com/track/7ywzEdEuVG1lsjsRCGJfLy) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [The Time Of Our Lives](https://open.spotify.com/album/64aKkqxc3Ur2LYIKeS5osS) | 4:08 |
 | 66 | [All or Nothing](https://open.spotify.com/track/7pbNNVcFePJV3Wani6zH8q) | [O\-Town](https://open.spotify.com/artist/4zKhX6hYCQPNs406umP9Fx) | [O\-Town 2](https://open.spotify.com/album/1MmcmLfKCDfdMKkv9VzftG) | 4:10 |
-| 67 | [Hero](https://open.spotify.com/track/24Gxm7Eh7tO83E26LG0CsY) | [Enrique Iglesias](https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw) | [Escape](https://open.spotify.com/album/6whfi6LNFoQnkvrQAWwZix) | 4:24 |
-| 68 | [Pretty Boy](https://open.spotify.com/track/5pgdZyYh16sAUkDjrqGPej) | [M2M](https://open.spotify.com/artist/0ZzYDST6Dib7iYd8hmcLcH) | [Shades of Purple](https://open.spotify.com/album/64qpmVqrwUlBihBMhZDyJj) | 4:39 |
+| 67 | [Pretty Boy](https://open.spotify.com/track/5pgdZyYh16sAUkDjrqGPej) | [M2M](https://open.spotify.com/artist/0ZzYDST6Dib7iYd8hmcLcH) | [Shades of Purple](https://open.spotify.com/album/64qpmVqrwUlBihBMhZDyJj) | 4:39 |
+| 68 | [Hero](https://open.spotify.com/track/24Gxm7Eh7tO83E26LG0CsY) | [Enrique Iglesias](https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw) | [Escape](https://open.spotify.com/album/6whfi6LNFoQnkvrQAWwZix) | 4:24 |
 | 69 | [True](https://open.spotify.com/track/0jdeV5dSB3kUBRqe1xQJbh) | [Ryan Cabrera](https://open.spotify.com/artist/3C4t1usFGoKHCSRdujm2GN) | [Take It All Away \(U.S\. Version\)](https://open.spotify.com/album/78IbgGcKueK33SETMOQfaj) | 3:24 |
 | 70 | [No Promises](https://open.spotify.com/track/2GdGb6bdMYoq7EHkmWvb5D) | [Shayne Ward](https://open.spotify.com/artist/6H4lieipng8aGu3Hbd1UeJ) | [Shayne Ward \(Expanded Edition\)](https://open.spotify.com/album/5OVa321qfDoIKRFaYxjZNC) | 3:42 |
 | 71 | [Have You Ever](https://open.spotify.com/track/4Xm0G6DRlWUjCgpKh5OPyv) | [S Club](https://open.spotify.com/artist/0HNGrIbq1ZNO2mTp3tMW4L) | [Sunshine](https://open.spotify.com/album/4j6ruq2Htor6TsgbqEUhl0) | 3:21 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0DyosUBZQ7.md) - [plain]
 | 74 | [If You're Not The One](https://open.spotify.com/track/4gJoAvFpDvaeqm2EKYGmhb) | [Daniel Bedingfield](https://open.spotify.com/artist/11hIqBsGRPztdjBHCSLClX) | [Gotta Get Thru This](https://open.spotify.com/album/2EdZjwEgBXjtdkwkZ73fFA) | 4:17 |
 | 75 | [Thinking Of You](https://open.spotify.com/track/3c9LVPh3MpeFoaAL5DBDK5) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [One Of The Boys](https://open.spotify.com/album/0r2BUyPTmpbfuz4rR39mLl) | 4:06 |
 
-Snapshot ID: `MCxkN2Y4NTBiZjY2MWVhMGE3YzRkZjVmZWY5ZTY4Yjk1OGQ1MWYwNGJh`
+Snapshot ID: `MCwxZDk3NTU2MzNlZWUyZGMyNDU0YmJmMjg2MWU0OTY4NjY0YTEyMDYz`

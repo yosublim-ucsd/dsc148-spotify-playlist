@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYs2pvwxWA7l.md) - [plain]
 
 > The hottest Afropop records on the planet\.  Cover:  King Promise
 
-[Spotify](https://open.spotify.com/user/spotify) - 550,085 likes - 70 songs - 3 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 550,223 likes - 70 songs - 3 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,8 +56,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYs2pvwxWA7l.md) - [plain]
 | 46 | [Pick Up](https://open.spotify.com/track/1deimiQlzca70jziGDtTsm) | [Tiwa Savage](https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc) | [Pick Up](https://open.spotify.com/album/17Q3HSD6YVtEGWuhN4HrPU) | 2:36 |
 | 47 | [Soro](https://open.spotify.com/track/5bYTh2T6OCVtwnQmwWBUis) | [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s) | [Tequila Ever After](https://open.spotify.com/album/2ZWPLY75DaydQvoeVMHfh3) | 2:42 |
 | 48 | [Rent Free](https://open.spotify.com/track/320cXn7htYGuAzNyxLDs3M) | [Gyakie](https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ) | [Rent Free](https://open.spotify.com/album/6cryLTyBj54kNA59giEvbA) | 2:16 |
-| 49 | [Arizona](https://open.spotify.com/track/3SA6Rfor4ghxWbyxxdpV3c) | [Lojay](https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL), [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr) | [Arizona](https://open.spotify.com/album/0qiVeOmNPdZy5ky2j74Cga) | 2:19 |
-| 50 | [Best Of Me](https://open.spotify.com/track/3Z19t8pNaAHqlLmz2LuwNa) | [Bnxn](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [Sincerely, Benson](https://open.spotify.com/album/3dctFKCiGPizmylLp0SN0a) | 3:51 |
+| 49 | [Best Of Me](https://open.spotify.com/track/3Z19t8pNaAHqlLmz2LuwNa) | [Bnxn](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [Sincerely, Benson](https://open.spotify.com/album/3dctFKCiGPizmylLp0SN0a) | 3:51 |
+| 50 | [Arizona](https://open.spotify.com/track/3SA6Rfor4ghxWbyxxdpV3c) | [Lojay](https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL), [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr) | [Arizona](https://open.spotify.com/album/0qiVeOmNPdZy5ky2j74Cga) | 2:19 |
 | 51 | [January 9th](https://open.spotify.com/track/5JL5FbKStegRpZc7OCeRnc) | [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ) | [January 9th](https://open.spotify.com/album/3luZFzOLzCaNC4bNPb5r28) | 3:42 |
 | 52 | [Oh My](https://open.spotify.com/track/5ms1yX1DJXb0TT2Z5cbgSq) | [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY) | [Oh My](https://open.spotify.com/album/5udTHcnbnYDVv6ltR4mfP1) | 3:02 |
 | 53 | [Fallen Angel](https://open.spotify.com/track/3XFc1Q32ssmKglaZKI5iTI) | [Smallgod](https://open.spotify.com/artist/4qgwPhVCW359a62QYueaVP), [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ) | [Fallen Angel](https://open.spotify.com/album/3O8VIa31ZtEh5DKRhMzp2m) | 3:20 |
@@ -77,6 +77,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYs2pvwxWA7l.md) - [plain]
 | 67 | [Single Again](https://open.spotify.com/track/0h9NbR0ozxlNVnTXOX8xjk) | [Harmonize](https://open.spotify.com/artist/1eCaedusgydlcn69blHOvL) | [Single Again](https://open.spotify.com/album/77o4SRMv2fNVXHxwcTO6DI) | 3:44 |
 | 68 | [Danger](https://open.spotify.com/track/3Kc2ZkX5CjmoaOSIi1kyh2) | [KiDi](https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V) | [Danger](https://open.spotify.com/album/7INuTkjRWZjmsTF2GvfSKh) | 2:28 |
 | 69 | [Feel Different](https://open.spotify.com/track/0nTgtjFQzLhvU3VLciMPlN) | [Reekado Banks](https://open.spotify.com/artist/3bxZkzk0PLHcetO9o4oxXn), [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s), [Maleek Berry](https://open.spotify.com/artist/520qA5VGL9iI0SbmEnTVNg) | [Feel Different](https://open.spotify.com/album/3WkYJGUSNOTvGoe4YkIVjM) | 2:59 |
-| 70 | [Party No Dey Stop \(with JayO & Byron Messia\) \- JayO & Byron Messia Remix](https://open.spotify.com/track/6qOGmElVBG9ERlgN88TxjQ) | [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s), [JayO](https://open.spotify.com/artist/1IMENE2OCzsrXuu62aW1mD), [Byron Messia](https://open.spotify.com/artist/3IDfJpj4YVkaBl7Dd52Pxv) | [Party No Dey Stop \(JayO & Byron Messia Remix\)](https://open.spotify.com/album/0wg0yuzwpRpdRwKNzDd7Wk) | 2:32 |
+| 70 | [Sweet Tea \(Aduke\)](https://open.spotify.com/track/1L7mOi50c91uzwkmeUhClS) | [Bnxn](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [Sweet Tea \(Aduke\)](https://open.spotify.com/album/419GRX5ILJgc9uIMlxFWBB) | 2:29 |
 
-Snapshot ID: `MCw2NDAyYWRlY2U4ZmRkYmQ5ZDRjOTQ4OTFmMDBlNDVlZTY3MjNlNjdj`
+Snapshot ID: `MCw4ZmIxOWQ5NzM0NzIyNjY3OTNiN2Q0NWIwODhlZWFmZjZkOGYzNDg4`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX70Gho9vXY44.md) - [plain]
 
 > Desde la Sierra hasta el mar, Perú es una tierra de rimas y rap\. Foto: Jaze
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,543 likes - 80 songs - 4 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,565 likes - 80 songs - 4 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX70Gho9vXY44.md) - [plain]
 | 79 | [Kaykunapi](https://open.spotify.com/track/5GPMzrfc5U7kU7qCB0kzt2) | [Hip Hop Peruano Mas Na](https://open.spotify.com/artist/2Tr0mJ3E4bL4CqVb4lHoUH), [Liberato Kani](https://open.spotify.com/artist/36gANGyQxxQagGCqYlQnqb) | [Hip Hop Peruano Mas Na : Mixtape, Vol\. 2](https://open.spotify.com/album/2mFYlXBO09xr1f14S4XZUn) | 2:42 |
 | 80 | [Tranqui](https://open.spotify.com/track/3x8wYCHXsuCiDrlBynclp1) | [Jaze](https://open.spotify.com/artist/5HUVDs80ZZCRRB9grwWzZc) | [Tranqui](https://open.spotify.com/album/6P9dhAgXWrEgMQbwHxJUFZ) | 3:51 |
 
-Snapshot ID: `MCwzYjI0YmViMTEwMTAzNTMzM2U2YWU2ZGM3MGU1YjY1NzRkY2VhNTEz`
+Snapshot ID: `MCw5YzIxNjBlYjVkOTY4YWI4M2VkOWEyYmVhODlhMzRjMWQwZGM3ZmE5`

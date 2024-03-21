@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXccljMjoDjBT.md) - [plain]
 
 > The best soft rock from the 1980s\. Cover: Tina Turner
 
-[Spotify](https://open.spotify.com/user/spotify) - 277,830 likes - 75 songs - 5 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 277,903 likes - 75 songs - 5 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,7 +81,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXccljMjoDjBT.md) - [plain]
 | 71 | [Once In a Lifetime](https://open.spotify.com/track/5mfSMt0ns1tUbqvgrPTweE) | [Michael Ruff](https://open.spotify.com/artist/5skgtnwVGfdVqnPnTBF6ZI) | [Once In a Lifetime](https://open.spotify.com/album/43jipQPPOtUEs0v6LlxmAf) | 4:24 |
 | 72 | [Bix](https://open.spotify.com/track/4BmqJhzuilRz2zHsSpILyq) | [Airplay](https://open.spotify.com/artist/0yci1UcbunmiExfI7U0jGw) | [Airplay](https://open.spotify.com/album/3uxLkATnYOuXXIkUb2d04n) | 4:15 |
 | 73 | [Never Stop Believing](https://open.spotify.com/track/5FtsMjfhsP5rz7VdQwJlzX) | [Christopher Cross](https://open.spotify.com/artist/695W5F2Ih8dYahLdjVOIoH) | [Back of My Mind](https://open.spotify.com/album/4vBQzW7PH3ZbGPNnmwwzhu) | 4:00 |
-| 74 | [Brooklyn Girls \- Remastered](https://open.spotify.com/track/2yzzxCBnrIq9etWnMsJi27) | [Robbie Dupree](https://open.spotify.com/artist/3jrgftS3TYbNxcPt5itKhz) | [Street Corner Heroes](https://open.spotify.com/album/6PUJ57r2I7YinhkfZ6iV6t) | 3:25 |
+| 74 | [Free Fallin' \- Remastered](https://open.spotify.com/track/1G74Lm4hwR8bkUXTwKKbBb) | [Robbie Dupree](https://open.spotify.com/artist/3jrgftS3TYbNxcPt5itKhz) | [Street Corner Heroes](https://open.spotify.com/album/6PUJ57r2I7YinhkfZ6iV6t) | 5:00 |
 | 75 | [Heart \(Stop Beating In Time\)](https://open.spotify.com/track/7oQbMamRwupYuFvcYk5ntm) | [Leo Sayer](https://open.spotify.com/artist/04LIHk1SobiQwt2tlupoAV) | [World Radio](https://open.spotify.com/album/1iB6NP7ZJjzG7unciVIbCx) | 4:40 |
 
-Snapshot ID: `MCxlMTNkMTI4OTE1MWIzYzUxMzI3YzcxYjBiNDExMmNjMjUxOGVhNmY3`
+Snapshot ID: `MCw3OTliZGFmOTYxYjc1YTgwNWMxMDY1MDY4NGEwMGQwZjY1NDdkMzc0`

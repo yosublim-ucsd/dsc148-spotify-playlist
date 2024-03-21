@@ -1,12 +1,12 @@
 {
   "description": "Ingenting peppar en under ett tr\u00e4ningspass som riktigt bra musik.",
-  "num_followers": 10817,
+  "num_followers": 10950,
   "original_name": "Peppl\u00e5tar till tr\u00e4ningspasset",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4OTRiMDcwNjMxMGM5YjE4OWI2MGNkY2ZmODViMTZiMDI4Y2NkZWIx",
+  "snapshot_id": "MCw5ZGRkMTAxMmQ3MDIyNjE2NTVhMjI1NmJiYzM1N2NmNTgyYWUyNDNj",
   "tracks": [
     {
       "added_at": "2024-03-14 23:00:00",
@@ -879,26 +879,6 @@
     {
       "added_at": "2024-03-14 23:00:00",
       "album": {
-        "name": "Goodbye",
-        "url": "https://open.spotify.com/album/2wUKHXscUlHKW0tEVVYqRs"
-      },
-      "artists": [
-        {
-          "name": "Imanbek",
-          "url": "https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj"
-        },
-        {
-          "name": "Goodboys",
-          "url": "https://open.spotify.com/artist/2nm38smINjms1LtczR0Cei"
-        }
-      ],
-      "duration_ms": 144000,
-      "name": "Goodbye",
-      "url": "https://open.spotify.com/track/4crczEC1PpoD8TsDsmoWNI"
-    },
-    {
-      "added_at": "2024-03-14 23:00:00",
-      "album": {
         "name": "Monster (with Alok)",
         "url": "https://open.spotify.com/album/58KYzcUrRpFM6ycYZLKBFX"
       },
@@ -915,6 +895,26 @@
       "duration_ms": 175562,
       "name": "Monster (with Alok)",
       "url": "https://open.spotify.com/track/3qAqbbNRC9ce1fqb7EcZed"
+    },
+    {
+      "added_at": "2024-03-14 23:00:00",
+      "album": {
+        "name": "Goodbye",
+        "url": "https://open.spotify.com/album/2wUKHXscUlHKW0tEVVYqRs"
+      },
+      "artists": [
+        {
+          "name": "Imanbek",
+          "url": "https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj"
+        },
+        {
+          "name": "Goodboys",
+          "url": "https://open.spotify.com/artist/2nm38smINjms1LtczR0Cei"
+        }
+      ],
+      "duration_ms": 144000,
+      "name": "Goodbye",
+      "url": "https://open.spotify.com/track/4crczEC1PpoD8TsDsmoWNI"
     },
     {
       "added_at": "2024-03-14 23:00:00",
@@ -1079,22 +1079,18 @@
     {
       "added_at": "2024-03-14 23:00:00",
       "album": {
-        "name": "Body Talk",
-        "url": "https://open.spotify.com/album/4Q8dLRUpvVFqK1uosJv6zp"
+        "name": "The Confession",
+        "url": "https://open.spotify.com/album/0xCBjfaeK0phUn47yMHHyP"
       },
       "artists": [
         {
-          "name": "Ofenbach",
-          "url": "https://open.spotify.com/artist/4AKwRarlmsUlLjIwt38NLw"
-        },
-        {
-          "name": "SVEA",
-          "url": "https://open.spotify.com/artist/4XtfY4CBieEfqF3CSiPrRx"
+          "name": "Sam Feldt",
+          "url": "https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf"
         }
       ],
-      "duration_ms": 139422,
-      "name": "Body Talk",
-      "url": "https://open.spotify.com/track/7nZUNopZZQX1PhfuvrXTWN"
+      "duration_ms": 138398,
+      "name": "The Confession",
+      "url": "https://open.spotify.com/track/0k63pQiWvEeyYdV3XJKwCg"
     },
     {
       "added_at": "2024-03-14 23:00:00",
@@ -1123,18 +1119,22 @@
     {
       "added_at": "2024-03-14 23:00:00",
       "album": {
-        "name": "The Confession",
-        "url": "https://open.spotify.com/album/0xCBjfaeK0phUn47yMHHyP"
+        "name": "Body Talk",
+        "url": "https://open.spotify.com/album/4Q8dLRUpvVFqK1uosJv6zp"
       },
       "artists": [
         {
-          "name": "Sam Feldt",
-          "url": "https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf"
+          "name": "Ofenbach",
+          "url": "https://open.spotify.com/artist/4AKwRarlmsUlLjIwt38NLw"
+        },
+        {
+          "name": "SVEA",
+          "url": "https://open.spotify.com/artist/4XtfY4CBieEfqF3CSiPrRx"
         }
       ],
-      "duration_ms": 138398,
-      "name": "The Confession",
-      "url": "https://open.spotify.com/track/0k63pQiWvEeyYdV3XJKwCg"
+      "duration_ms": 139422,
+      "name": "Body Talk",
+      "url": "https://open.spotify.com/track/7nZUNopZZQX1PhfuvrXTWN"
     },
     {
       "added_at": "2024-03-14 23:00:00",
@@ -1159,6 +1159,30 @@
     {
       "added_at": "2024-03-14 23:00:00",
       "album": {
+        "name": "Let You Down (with Gabry Ponte)",
+        "url": "https://open.spotify.com/album/5q9af3Svt28pk3shfKA9qX"
+      },
+      "artists": [
+        {
+          "name": "DVBBS",
+          "url": "https://open.spotify.com/artist/5X4LWwbUFNzPkEas04uU82"
+        },
+        {
+          "name": "Gabry Ponte",
+          "url": "https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D"
+        },
+        {
+          "name": "Sofiloud",
+          "url": "https://open.spotify.com/artist/6pGgP4CDlYMumihpD3CAwm"
+        }
+      ],
+      "duration_ms": 149000,
+      "name": "Let You Down (with Gabry Ponte)",
+      "url": "https://open.spotify.com/track/57BlL9l7O9JmUcD4cFnCH8"
+    },
+    {
+      "added_at": "2024-03-14 23:00:00",
+      "album": {
         "name": "Dola re Dola",
         "url": "https://open.spotify.com/album/4Ih0jp3d02bw3BlhzoS1le"
       },
@@ -1179,26 +1203,6 @@
     {
       "added_at": "2024-03-14 23:00:00",
       "album": {
-        "name": "All We Got (feat. KIDDO)",
-        "url": "https://open.spotify.com/album/7wzcIKvtXDWs1VA2BMHuaY"
-      },
-      "artists": [
-        {
-          "name": "Robin Schulz",
-          "url": "https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S"
-        },
-        {
-          "name": "KIDDO",
-          "url": "https://open.spotify.com/artist/5pXe6yFchq1oyYK3rq2A8i"
-        }
-      ],
-      "duration_ms": 190218,
-      "name": "All We Got (feat. KIDDO)",
-      "url": "https://open.spotify.com/track/1FP9s72rDYty6mfoOEYKnE"
-    },
-    {
-      "added_at": "2024-03-14 23:00:00",
-      "album": {
         "name": "Meet Her (Ti\u00ebsto vs. Da Hool)",
         "url": "https://open.spotify.com/album/3FkgnEt5ecJiAGlFvPNZQT"
       },
@@ -1215,6 +1219,26 @@
       "duration_ms": 132000,
       "name": "Meet Her - Ti\u00ebsto vs. Da Hool",
       "url": "https://open.spotify.com/track/2ObP6OLXWzrmdVvgIFjjc2"
+    },
+    {
+      "added_at": "2024-03-14 23:00:00",
+      "album": {
+        "name": "All We Got (feat. KIDDO)",
+        "url": "https://open.spotify.com/album/7wzcIKvtXDWs1VA2BMHuaY"
+      },
+      "artists": [
+        {
+          "name": "Robin Schulz",
+          "url": "https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S"
+        },
+        {
+          "name": "KIDDO",
+          "url": "https://open.spotify.com/artist/5pXe6yFchq1oyYK3rq2A8i"
+        }
+      ],
+      "duration_ms": 190218,
+      "name": "All We Got (feat. KIDDO)",
+      "url": "https://open.spotify.com/track/1FP9s72rDYty6mfoOEYKnE"
     },
     {
       "added_at": "2024-03-14 23:00:00",
@@ -1275,30 +1299,6 @@
     {
       "added_at": "2024-03-14 23:00:00",
       "album": {
-        "name": "Let You Down (with Gabry Ponte)",
-        "url": "https://open.spotify.com/album/5q9af3Svt28pk3shfKA9qX"
-      },
-      "artists": [
-        {
-          "name": "DVBBS",
-          "url": "https://open.spotify.com/artist/5X4LWwbUFNzPkEas04uU82"
-        },
-        {
-          "name": "Gabry Ponte",
-          "url": "https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D"
-        },
-        {
-          "name": "Sofiloud",
-          "url": "https://open.spotify.com/artist/6pGgP4CDlYMumihpD3CAwm"
-        }
-      ],
-      "duration_ms": 149000,
-      "name": "Let You Down (with Gabry Ponte)",
-      "url": "https://open.spotify.com/track/57BlL9l7O9JmUcD4cFnCH8"
-    },
-    {
-      "added_at": "2024-03-14 23:00:00",
-      "album": {
         "name": "Weekend (feat. Emelie Cyr\u00e9us)",
         "url": "https://open.spotify.com/album/3z7i4GvlZ92wwB06ZAGzqm"
       },
@@ -1339,26 +1339,6 @@
     {
       "added_at": "2024-03-14 23:00:00",
       "album": {
-        "name": "Nostalgia",
-        "url": "https://open.spotify.com/album/6hVYf2R4nHBorsLM6Oj2cN"
-      },
-      "artists": [
-        {
-          "name": "NOTD",
-          "url": "https://open.spotify.com/artist/5jAMCwdNHWr7JThxtMuEyy"
-        },
-        {
-          "name": "Georgia Ku",
-          "url": "https://open.spotify.com/artist/5mYakBbBzPMQTfkVMIgiDM"
-        }
-      ],
-      "duration_ms": 199408,
-      "name": "Nostalgia",
-      "url": "https://open.spotify.com/track/73W9I0EIOcw8IW8zEIiyN4"
-    },
-    {
-      "added_at": "2024-03-14 23:00:00",
-      "album": {
         "name": "Freedom",
         "url": "https://open.spotify.com/album/34JUh6M6Bvy2Dvo13bWfu4"
       },
@@ -1379,26 +1359,42 @@
     {
       "added_at": "2024-03-14 23:00:00",
       "album": {
-        "name": "Desire",
-        "url": "https://open.spotify.com/album/0iveF55RhHxTp2IB8vxoTH"
+        "name": "Nostalgia",
+        "url": "https://open.spotify.com/album/6hVYf2R4nHBorsLM6Oj2cN"
       },
       "artists": [
         {
-          "name": "Joel Corry",
-          "url": "https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp"
+          "name": "NOTD",
+          "url": "https://open.spotify.com/artist/5jAMCwdNHWr7JThxtMuEyy"
         },
+        {
+          "name": "Georgia Ku",
+          "url": "https://open.spotify.com/artist/5mYakBbBzPMQTfkVMIgiDM"
+        }
+      ],
+      "duration_ms": 199408,
+      "name": "Nostalgia",
+      "url": "https://open.spotify.com/track/73W9I0EIOcw8IW8zEIiyN4"
+    },
+    {
+      "added_at": "2024-03-14 23:00:00",
+      "album": {
+        "name": "Club Romantech",
+        "url": "https://open.spotify.com/album/29aOgoHgr7C2J27gGfJdEz"
+      },
+      "artists": [
         {
           "name": "Icona Pop",
           "url": "https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw"
         },
         {
-          "name": "Rain Radio",
-          "url": "https://open.spotify.com/artist/2T8o1YNgbgsE41xb62AlRY"
+          "name": "VIZE",
+          "url": "https://open.spotify.com/artist/09agIJMxCD2k87ys9Al0f0"
         }
       ],
-      "duration_ms": 159375,
-      "name": "Desire",
-      "url": "https://open.spotify.com/track/1g2D7SpGbRPPXKLCly1mPc"
+      "duration_ms": 164739,
+      "name": "Off Of My Mind",
+      "url": "https://open.spotify.com/track/3NbX45R3yipn5PHlimaUme"
     },
     {
       "added_at": "2024-03-14 23:00:00",
@@ -1431,22 +1427,26 @@
     {
       "added_at": "2024-03-14 23:00:00",
       "album": {
-        "name": "Club Romantech",
-        "url": "https://open.spotify.com/album/29aOgoHgr7C2J27gGfJdEz"
+        "name": "Desire",
+        "url": "https://open.spotify.com/album/0iveF55RhHxTp2IB8vxoTH"
       },
       "artists": [
+        {
+          "name": "Joel Corry",
+          "url": "https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp"
+        },
         {
           "name": "Icona Pop",
           "url": "https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw"
         },
         {
-          "name": "VIZE",
-          "url": "https://open.spotify.com/artist/09agIJMxCD2k87ys9Al0f0"
+          "name": "Rain Radio",
+          "url": "https://open.spotify.com/artist/2T8o1YNgbgsE41xb62AlRY"
         }
       ],
-      "duration_ms": 164739,
-      "name": "Off Of My Mind",
-      "url": "https://open.spotify.com/track/3NbX45R3yipn5PHlimaUme"
+      "duration_ms": 159375,
+      "name": "Desire",
+      "url": "https://open.spotify.com/track/1g2D7SpGbRPPXKLCly1mPc"
     },
     {
       "added_at": "2024-03-14 23:00:00",
@@ -1491,22 +1491,6 @@
     {
       "added_at": "2024-03-14 23:00:00",
       "album": {
-        "name": "ME",
-        "url": "https://open.spotify.com/album/2ABIweWTmeRmUBc73DNiqq"
-      },
-      "artists": [
-        {
-          "name": "Steve Angello",
-          "url": "https://open.spotify.com/artist/4FqPRilb0Ja0TKG3RS3y4s"
-        }
-      ],
-      "duration_ms": 214174,
-      "name": "ME",
-      "url": "https://open.spotify.com/track/7dyJugljupi044oQfkrzlc"
-    },
-    {
-      "added_at": "2024-03-14 23:00:00",
-      "album": {
         "name": "The Logical Song (feat. Julia Hallasen)",
         "url": "https://open.spotify.com/album/5JLQ1THp53UVka5E7xt30M"
       },
@@ -1531,6 +1515,22 @@
       "duration_ms": 141387,
       "name": "The Logical Song (feat. Julia Hallasen)",
       "url": "https://open.spotify.com/track/29kDU3QBj31gIGZqjnZKvF"
+    },
+    {
+      "added_at": "2024-03-14 23:00:00",
+      "album": {
+        "name": "ME",
+        "url": "https://open.spotify.com/album/2ABIweWTmeRmUBc73DNiqq"
+      },
+      "artists": [
+        {
+          "name": "Steve Angello",
+          "url": "https://open.spotify.com/artist/4FqPRilb0Ja0TKG3RS3y4s"
+        }
+      ],
+      "duration_ms": 214174,
+      "name": "ME",
+      "url": "https://open.spotify.com/track/7dyJugljupi044oQfkrzlc"
     },
     {
       "added_at": "2024-03-14 23:00:00",
@@ -1575,22 +1575,6 @@
     {
       "added_at": "2024-03-14 23:00:00",
       "album": {
-        "name": "One, Two, & 3",
-        "url": "https://open.spotify.com/album/1vQWQX4pHIp1c1QSntHZrn"
-      },
-      "artists": [
-        {
-          "name": "Galantis",
-          "url": "https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu"
-        }
-      ],
-      "duration_ms": 206007,
-      "name": "One, Two, & 3",
-      "url": "https://open.spotify.com/track/1Yu1fJCwqEWlacl4ofyeUg"
-    },
-    {
-      "added_at": "2024-03-14 23:00:00",
-      "album": {
         "name": "Beautiful Life",
         "url": "https://open.spotify.com/album/0AgbVdeMvkEsl3Bmv26r6A"
       },
@@ -1615,6 +1599,22 @@
       "duration_ms": 129914,
       "name": "Beautiful Life",
       "url": "https://open.spotify.com/track/4DuupjFrV6MOEB6cG70LM8"
+    },
+    {
+      "added_at": "2024-03-14 23:00:00",
+      "album": {
+        "name": "One, Two, & 3",
+        "url": "https://open.spotify.com/album/1vQWQX4pHIp1c1QSntHZrn"
+      },
+      "artists": [
+        {
+          "name": "Galantis",
+          "url": "https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu"
+        }
+      ],
+      "duration_ms": 206007,
+      "name": "One, Two, & 3",
+      "url": "https://open.spotify.com/track/1Yu1fJCwqEWlacl4ofyeUg"
     },
     {
       "added_at": "2024-03-14 23:00:00",

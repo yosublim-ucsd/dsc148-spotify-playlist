@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2WtjAdkiMga.md) - [plain]
 
 > Soft piano lullaby versions of Jazz classics to lull your baby to sleep.
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,482 likes - 76 songs - 4 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,491 likes - 75 songs - 3 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,22 +67,21 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2WtjAdkiMga.md) - [plain]
 | 57 | [some other time](https://open.spotify.com/track/4LgRqskD0OohOTxfZRqV8E) | [Bruno Sanders](https://open.spotify.com/artist/4gsIYNl0tbPrqyHBwvGcDe) | [ballads by midnight](https://open.spotify.com/album/07J4OkfknpIgmcVducHkbk) | 5:14 |
 | 58 | [Georgia On My Mind](https://open.spotify.com/track/6KGqqJais6l3hxsn0D0U5d) | [Ben Hubert](https://open.spotify.com/artist/7mO22cSGmVX8WKUcfj1Evz) | [Georgia On My Mind](https://open.spotify.com/album/28eTmi4KQYJ3iu3pRqT27u) | 3:30 |
 | 59 | [When I Fall In Love](https://open.spotify.com/track/2vl0caBQsMuH4bqvDhj8Ub) | [Janine Armstrong](https://open.spotify.com/artist/41t6NJqycI6qMpqTQkzybq) | [When I Fall in Love](https://open.spotify.com/album/1u9AjdFUJ82xNT7JwUVKR0) | 3:30 |
-| 60 | [I Loves You Porgy](https://open.spotify.com/track/6NvpzvvoILZTttsq8Fzam7) | [Jim Jensen](https://open.spotify.com/artist/1mzZZuAmYl9ZyBmrI0beiJ) | [I Loves You Porgy](https://open.spotify.com/album/1wqYxQO7panIKBjUMRbMkQ) | 4:40 |
-| 61 | [Someone To Watch Over Me](https://open.spotify.com/track/7i7I5cr7kXAzxUGicjfyJY) | [Hamilton Jones](https://open.spotify.com/artist/77WfIGS6cIrZqtz5kUdOLo) | [Someone To Watch Over Me](https://open.spotify.com/album/3GNORDPunT2olont9mcX97) | 3:58 |
-| 62 | [Emily](https://open.spotify.com/track/16EA5VBBsTJmrkyGw6mvfj) | [Simon Parrish](https://open.spotify.com/artist/7CJ8E44Q0ShDRlMUojPQ3q) | [Just Friends](https://open.spotify.com/album/6aHQy26R8FbK2bMPGzEion) | 2:00 |
-| 63 | [I Thought About You](https://open.spotify.com/track/14wxDY2TOvVXXuWpRDDJ8f) | [Thierry Marchal](https://open.spotify.com/artist/5AENpX9I8MY8ptOAihBszp) | [I Thought About You](https://open.spotify.com/album/5SSTz0UA3HPFZxJVcmIlka) | 3:38 |
-| 64 | [The Song Is You](https://open.spotify.com/track/25lDslLJo5psoMvb2y1tfJ) | [Simone Bergenson](https://open.spotify.com/artist/2Te2jrf7Kk0rShhNq3Dcyz) | [The Song Is You](https://open.spotify.com/album/55IjhkZDjtWNC181obRV0a) | 4:56 |
-| 65 | [You Are Too Beautiful](https://open.spotify.com/track/4t85eFNgqV0nqtImOix3X5) | [Madeleine West](https://open.spotify.com/artist/2bucqt2BrsK6W5p1H4Edu4) | [You Are Too Beautiful](https://open.spotify.com/album/2uG5Jnbvge8kWBxar1TTad) | 3:32 |
-| 66 | [Polka Dots and Moonbeams](https://open.spotify.com/track/1wmi5br5223auUruMIWE1t) | [Lisbeth Rayner](https://open.spotify.com/artist/7KXBo2SSWy680ZGle8Zc6d) | [On A Clear Day](https://open.spotify.com/album/6Cya7dOUQMiirrjpbzDZsC) | 3:12 |
-| 67 | [Darn That Dream](https://open.spotify.com/track/7wyqQSiefHCrYQ3xqAqfwJ) | [Ray Royston](https://open.spotify.com/artist/4Z8ZqLJlYjb7gGt3eFWfFG) | [Darn That Dream](https://open.spotify.com/album/1Hs8Ia3HjN1JzaXNEwJ6Y3) | 3:52 |
-| 68 | [Stars Fell on Alabama](https://open.spotify.com/track/6mG6evp0jrLbDSpRz0i405) | [Amanda Chester](https://open.spotify.com/artist/64y33HAj5EF7iLCVWnJS4I) | [September Song](https://open.spotify.com/album/3tUxImd8BSgKFS8VTnEbYg) | 5:14 |
-| 69 | [Where Oceans Meet](https://open.spotify.com/track/41ng9ZQDM3SPKMDT2OdZlq) | [Lee Bendroth](https://open.spotify.com/artist/1asg7ElYSc6LhJ7b9fMaFF) | [Where Oceans Meet](https://open.spotify.com/album/0DSaYTJggLCfKJnomLgKWY) | 2:26 |
-| 70 | [Once I Had A secret Love](https://open.spotify.com/track/7kvwOnTBlrIAkScJkjIPUR) | [Jeff Robins](https://open.spotify.com/artist/74TmlbkJzQhvG8Jurm01cE) | [Once I Had A secret Love](https://open.spotify.com/album/0cBqA8iqJvj72zbk5etg5b) | 5:46 |
-| 71 | [God Bless the Child](https://open.spotify.com/track/5YNSyvsUOruOLD5mYCcBGZ) | [Gerald McCarthy](https://open.spotify.com/artist/3cw2WUJF88MB3xRS3VHU9a) | [It Might as Well Be Spring](https://open.spotify.com/album/6WO4r82T9taAjZsIC0b3q2) | 3:54 |
-| 72 | [Dedicated To You](https://open.spotify.com/track/47k5XrHgnwF7yMRUALGOyt) | [Bill Walton](https://open.spotify.com/artist/7fHixSSo2DvBypEXNKjgBl) | [Dedicated To You](https://open.spotify.com/album/1d7Uj2w97J6ctIoXXAWxnP) | 4:45 |
-| 73 | [I Left My Heart In San Francisco](https://open.spotify.com/track/0qMhdJjFV0VVu7atzy3VXd) | [Jim Jensen](https://open.spotify.com/artist/1mzZZuAmYl9ZyBmrI0beiJ) | [I Left My Heart In San Francisco](https://open.spotify.com/album/7Cti2pokVA6FYhZmYBzBZY) | 4:33 |
-| 74 | [Why try to change me now](https://open.spotify.com/track/6eGpLVtbSxsiOLXT47AcIe) | [Herman Anderson](https://open.spotify.com/artist/3SoWeHWTQIqJhegPfsR5Wp) | [Why try to change me now](https://open.spotify.com/album/5uCLR0oUrQISjDJpZyqvpi) | 5:19 |
-| 75 | [It Never Entered My Mind](https://open.spotify.com/track/0t4r5IuT6FzrNGEEpCJmf9) | [William Adams](https://open.spotify.com/artist/777n5UE3XVeaTgguSTisX9) | [It Never Entered My Mind](https://open.spotify.com/album/1wyMm8UqtOocJahYqDXThd) | 4:46 |
-| 76 | [Alfie](https://open.spotify.com/track/0hM1KJAmxzankL3lgogyxf) | [Dennis Riley\-Jones](https://open.spotify.com/artist/5x35NpbnjiEoY5sntHQLgr) | [Alfie](https://open.spotify.com/album/5Utoepi0mubUEicgDq7WnY) | 2:43 |
+| 60 | [Someone To Watch Over Me](https://open.spotify.com/track/7i7I5cr7kXAzxUGicjfyJY) | [Hamilton Jones](https://open.spotify.com/artist/77WfIGS6cIrZqtz5kUdOLo) | [Someone To Watch Over Me](https://open.spotify.com/album/3GNORDPunT2olont9mcX97) | 3:58 |
+| 61 | [Emily](https://open.spotify.com/track/16EA5VBBsTJmrkyGw6mvfj) | [Simon Parrish](https://open.spotify.com/artist/7CJ8E44Q0ShDRlMUojPQ3q) | [Just Friends](https://open.spotify.com/album/6aHQy26R8FbK2bMPGzEion) | 2:00 |
+| 62 | [I Thought About You](https://open.spotify.com/track/14wxDY2TOvVXXuWpRDDJ8f) | [Thierry Marchal](https://open.spotify.com/artist/5AENpX9I8MY8ptOAihBszp) | [I Thought About You](https://open.spotify.com/album/5SSTz0UA3HPFZxJVcmIlka) | 3:38 |
+| 63 | [The Song Is You](https://open.spotify.com/track/25lDslLJo5psoMvb2y1tfJ) | [Simone Bergenson](https://open.spotify.com/artist/2Te2jrf7Kk0rShhNq3Dcyz) | [The Song Is You](https://open.spotify.com/album/55IjhkZDjtWNC181obRV0a) | 4:56 |
+| 64 | [You Are Too Beautiful](https://open.spotify.com/track/4t85eFNgqV0nqtImOix3X5) | [Madeleine West](https://open.spotify.com/artist/2bucqt2BrsK6W5p1H4Edu4) | [You Are Too Beautiful](https://open.spotify.com/album/2uG5Jnbvge8kWBxar1TTad) | 3:32 |
+| 65 | [Polka Dots and Moonbeams](https://open.spotify.com/track/1wmi5br5223auUruMIWE1t) | [Lisbeth Rayner](https://open.spotify.com/artist/7KXBo2SSWy680ZGle8Zc6d) | [On A Clear Day](https://open.spotify.com/album/6Cya7dOUQMiirrjpbzDZsC) | 3:12 |
+| 66 | [Darn That Dream](https://open.spotify.com/track/7wyqQSiefHCrYQ3xqAqfwJ) | [Ray Royston](https://open.spotify.com/artist/4Z8ZqLJlYjb7gGt3eFWfFG) | [Darn That Dream](https://open.spotify.com/album/1Hs8Ia3HjN1JzaXNEwJ6Y3) | 3:52 |
+| 67 | [Stars Fell on Alabama](https://open.spotify.com/track/6mG6evp0jrLbDSpRz0i405) | [Amanda Chester](https://open.spotify.com/artist/64y33HAj5EF7iLCVWnJS4I) | [September Song](https://open.spotify.com/album/3tUxImd8BSgKFS8VTnEbYg) | 5:14 |
+| 68 | [Where Oceans Meet](https://open.spotify.com/track/41ng9ZQDM3SPKMDT2OdZlq) | [Lee Bendroth](https://open.spotify.com/artist/1asg7ElYSc6LhJ7b9fMaFF) | [Where Oceans Meet](https://open.spotify.com/album/0DSaYTJggLCfKJnomLgKWY) | 2:26 |
+| 69 | [Once I Had A secret Love](https://open.spotify.com/track/7kvwOnTBlrIAkScJkjIPUR) | [Jeff Robins](https://open.spotify.com/artist/74TmlbkJzQhvG8Jurm01cE) | [Once I Had A secret Love](https://open.spotify.com/album/0cBqA8iqJvj72zbk5etg5b) | 5:46 |
+| 70 | [God Bless the Child](https://open.spotify.com/track/5YNSyvsUOruOLD5mYCcBGZ) | [Gerald McCarthy](https://open.spotify.com/artist/3cw2WUJF88MB3xRS3VHU9a) | [It Might as Well Be Spring](https://open.spotify.com/album/6WO4r82T9taAjZsIC0b3q2) | 3:54 |
+| 71 | [Dedicated To You](https://open.spotify.com/track/47k5XrHgnwF7yMRUALGOyt) | [Bill Walton](https://open.spotify.com/artist/7fHixSSo2DvBypEXNKjgBl) | [Dedicated To You](https://open.spotify.com/album/1d7Uj2w97J6ctIoXXAWxnP) | 4:45 |
+| 72 | [I Left My Heart In San Francisco](https://open.spotify.com/track/0qMhdJjFV0VVu7atzy3VXd) | [Jim Jensen](https://open.spotify.com/artist/1mzZZuAmYl9ZyBmrI0beiJ) | [I Left My Heart In San Francisco](https://open.spotify.com/album/7Cti2pokVA6FYhZmYBzBZY) | 4:33 |
+| 73 | [Why try to change me now](https://open.spotify.com/track/6eGpLVtbSxsiOLXT47AcIe) | [Herman Anderson](https://open.spotify.com/artist/3SoWeHWTQIqJhegPfsR5Wp) | [Why try to change me now](https://open.spotify.com/album/5uCLR0oUrQISjDJpZyqvpi) | 5:19 |
+| 74 | [It Never Entered My Mind](https://open.spotify.com/track/0t4r5IuT6FzrNGEEpCJmf9) | [William Adams](https://open.spotify.com/artist/777n5UE3XVeaTgguSTisX9) | [It Never Entered My Mind](https://open.spotify.com/album/1wyMm8UqtOocJahYqDXThd) | 4:46 |
+| 75 | [Alfie](https://open.spotify.com/track/0hM1KJAmxzankL3lgogyxf) | [Dennis Riley\-Jones](https://open.spotify.com/artist/5x35NpbnjiEoY5sntHQLgr) | [Alfie](https://open.spotify.com/album/5Utoepi0mubUEicgDq7WnY) | 2:43 |
 
-Snapshot ID: `MCwwYTBhZmFhZjg5MTZiNGU1MjZhYWI4ZDMwZTI2OWI2YTRhMzMzNzNm`
+Snapshot ID: `MCwwNzkxYzRjMjRlNDkyNWVhMzAyYmQ1MzBkOWNmODkxNDNjYTVlMzRl`

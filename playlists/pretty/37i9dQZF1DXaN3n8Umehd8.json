@@ -1,12 +1,12 @@
 {
   "description": "Canciones para emocionarnos, reflexionar y celebrar, elegidas por <a href=\"spotify:show:5GfRxX2kl2BJVB1e7AgcDh\"> Marco Antonio Regil</a>",
-  "num_followers": 16581,
+  "num_followers": 16577,
   "original_name": "Insp\u00edrate con Marco Antonio Regil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlY2ZkYmJjNzMxNWE1Mzc1ZTcxNTA1ZTQ0NmFmZGM4MDcyN2M5NGUz",
+  "snapshot_id": "MCw2YjQwNDBjNTdlYWJhYTJjYjRmNGZhYjZiMTg1NzhhMzI0ZDI4YWJl",
   "tracks": [
     {
       "added_at": "2024-01-16 19:35:43",
@@ -543,22 +543,6 @@
     {
       "added_at": "2024-01-16 19:35:43",
       "album": {
-        "name": "Elvis 30 #1 Hits",
-        "url": "https://open.spotify.com/album/0QVoYzGd1p8Z3ohEaM0lsc"
-      },
-      "artists": [
-        {
-          "name": "Elvis Presley",
-          "url": "https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE"
-        }
-      ],
-      "duration_ms": 177840,
-      "name": "Can't Help Falling In Love",
-      "url": "https://open.spotify.com/track/4hAUynwghvrqDXs1ejKNEq"
-    },
-    {
-      "added_at": "2024-01-16 19:35:43",
-      "album": {
         "name": "True Blue",
         "url": "https://open.spotify.com/album/6fmnT17jc2Sc69q3nza1eD"
       },
@@ -571,6 +555,22 @@
       "duration_ms": 268533,
       "name": "Papa Don't Preach",
       "url": "https://open.spotify.com/track/6A8OnjnpShshNpcqWtZRjr"
+    },
+    {
+      "added_at": "2024-01-16 19:35:43",
+      "album": {
+        "name": "Elvis 30 #1 Hits",
+        "url": "https://open.spotify.com/album/0QVoYzGd1p8Z3ohEaM0lsc"
+      },
+      "artists": [
+        {
+          "name": "Elvis Presley",
+          "url": "https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE"
+        }
+      ],
+      "duration_ms": 177840,
+      "name": "Can't Help Falling In Love",
+      "url": "https://open.spotify.com/track/4hAUynwghvrqDXs1ejKNEq"
     },
     {
       "added_at": "2024-01-16 19:35:43",

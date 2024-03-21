@@ -4,7 +4,7 @@
 
 > Proudly South African gospel goodness\. Cover: <a href="https://open.spotify.com/artist/3kSRqsGHRSxw2jBJ6DffE4?si=whZJO1ivT4WfdtWxhKIjBw">Xolly Mncwango</a>
 
-205 songs - 20 hr 31 min
+206 songs - 20 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,7 +27,8 @@
 | [Bow Down and Worship \- Live](https://open.spotify.com/track/3Iw1xzERcMPz1zAN8O3O7C) | [Benjamin Dube](https://open.spotify.com/artist/2Bjh5lfBvG5Oy6gCtpSGy2) | [Glory in His Presence \(Live\)](https://open.spotify.com/album/61dyXejpR6WO0w4gBfHKcR) | 10:54 | 2019-09-26 | 2023-03-12 |
 | [Bow Down and Worship \- Live](https://open.spotify.com/track/4pwIlf5w1m2gZJ97o49fpJ) | [Benjamin Dube](https://open.spotify.com/artist/2Bjh5lfBvG5Oy6gCtpSGy2) | [Glory in His Presence](https://open.spotify.com/album/4H0LkLQqfqbryyNUmzDvoq) | 10:55 | 2023-03-17 |  |
 | [Dumelang \(Tribute To Barorisi Ba Morena\)](https://open.spotify.com/track/2aYF7mVCVVRdYkLsPCkzyV) | [OKAY GOD](https://open.spotify.com/artist/2hFJOQgC6LBgvQKudZBXFH), [Zito Mowa](https://open.spotify.com/artist/3Dk9FD41zSgiSrJYgmhmRj) | [GAE](https://open.spotify.com/album/65D9hOUlBpFFfpqo6o3lbs) | 5:32 | 2022-09-15 | 2023-03-18 |
-| [Ebenezer](https://open.spotify.com/track/7f9S6zqIN62gFphKylbd6F) | [Sipho Makhabane](https://open.spotify.com/artist/5sFc16mtmgH8IiVYtJ2rF2) | [Africa For Jesus](https://open.spotify.com/album/0fTvvmaFCgpExHxRz4sAkt) | 8:51 | 2022-02-17 |  |
+| [Ebenezer](https://open.spotify.com/track/6i4kz0kfnBYlA0HkU015tk) | [Sipho Makhabane](https://open.spotify.com/artist/5sFc16mtmgH8IiVYtJ2rF2) | [Africa For Jesus](https://open.spotify.com/album/3h727k2IPGhHzsRtTsrC4i) | 8:51 | 2023-05-05 |  |
+| [Ebenezer](https://open.spotify.com/track/7f9S6zqIN62gFphKylbd6F) | [Sipho Makhabane](https://open.spotify.com/artist/5sFc16mtmgH8IiVYtJ2rF2) | [Africa For Jesus](https://open.spotify.com/album/0fTvvmaFCgpExHxRz4sAkt) | 8:51 | 2022-02-17 | 2024-03-21 |
 | [Ekugcineni \- Live](https://open.spotify.com/track/73TDScJYYrLlUBjuve3fQc) | [Spirit Of Praise](https://open.spotify.com/artist/4WN1JAeUnvBiLteTeFSwUa), [Thinah Zungu](https://open.spotify.com/artist/0gqiNXIGbyBCBsbQ4TWJlg) | [Spirit of Praise, Vol\. 7 \(Live\)](https://open.spotify.com/album/50TvIUjsR7nVUcvuK9CyrE) | 5:31 | 2018-10-08 |  |
 | [Ekugcineni \- Live](https://open.spotify.com/track/3qvS5d00o5xkhAe1xUT3tg) | [Spirit Of Praise](https://open.spotify.com/artist/4WN1JAeUnvBiLteTeFSwUa), [Thinah Zungu](https://open.spotify.com/artist/0gqiNXIGbyBCBsbQ4TWJlg) | [Men of Gospel \(Live\)](https://open.spotify.com/album/2BSsdCjhHphW8YU4C0OzJ7) | 5:31 | 2018-10-08 | 2022-11-14 |
 | [Elshadai Adonai Medley \(Live\)](https://open.spotify.com/track/6Cu35kyDyoWUioEWyiYTpS) | [Spirit Of Praise](https://open.spotify.com/artist/4WN1JAeUnvBiLteTeFSwUa), [Benjamin Dube](https://open.spotify.com/artist/2Bjh5lfBvG5Oy6gCtpSGy2), [Precious Mosotho](https://open.spotify.com/artist/2vQTWpv2T7PVBVomihqmwF) | [Spirit of Praise, Vol\. 5 \(Live\)](https://open.spotify.com/album/5Et0R7qd6D6SupvR8TScaD) | 7:00 | 2020-09-07 |  |

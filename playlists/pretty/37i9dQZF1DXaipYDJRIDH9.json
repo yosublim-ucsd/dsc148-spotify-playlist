@@ -1,12 +1,12 @@
 {
   "description": "Piano instrumental para ajudar sua concentra\u00e7\u00e3o na hora de ler e estudar.",
-  "num_followers": 217872,
+  "num_followers": 217907,
   "original_name": "Foco no Estudo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1NjNmYmE1MWRhMmQ4M2I5OWE1ZTNhNGRmYWY3OTZiZTQ2MGRlZmE5",
+  "snapshot_id": "MCxlOTk2NjRhMjE4MTc1ZDkxYTYyY2FkZWQ0OTI0MzA4OGFlNWQwNmU1",
   "tracks": [
     {
       "added_at": "2024-03-15 11:34:24",
@@ -155,6 +155,22 @@
     {
       "added_at": "2024-03-15 11:34:24",
       "album": {
+        "name": "Other Side of The Moon",
+        "url": "https://open.spotify.com/album/1pGyYoSDbFxJ2r91ZQiLqb"
+      },
+      "artists": [
+        {
+          "name": "Val\u00e9rie Val\u00e9rie",
+          "url": "https://open.spotify.com/artist/5anUigfub4hjAuAgrZHS25"
+        }
+      ],
+      "duration_ms": 128914,
+      "name": "Other Side of The Moon",
+      "url": "https://open.spotify.com/track/1qrvZZeUyb4a5knmgTM9v1"
+    },
+    {
+      "added_at": "2024-03-15 11:34:24",
+      "album": {
         "name": "Irenic",
         "url": "https://open.spotify.com/album/3bFSZrJMYMzAh62F1ujuhx"
       },
@@ -187,22 +203,6 @@
     {
       "added_at": "2024-03-15 11:34:24",
       "album": {
-        "name": "Bird of Passage",
-        "url": "https://open.spotify.com/album/7y8UGL1WYh2YkErlNvqrBO"
-      },
-      "artists": [
-        {
-          "name": "Carmelito",
-          "url": "https://open.spotify.com/artist/7GDVEcdwoNfZlN6sRYrjwZ"
-        }
-      ],
-      "duration_ms": 127313,
-      "name": "Bird of Passage",
-      "url": "https://open.spotify.com/track/79XrQYbxrhehKlaT70VfxN"
-    },
-    {
-      "added_at": "2024-03-15 11:34:24",
-      "album": {
         "name": "Emerald",
         "url": "https://open.spotify.com/album/68F0SS9ueRjE4NUhAReYDE"
       },
@@ -215,6 +215,22 @@
       "duration_ms": 137000,
       "name": "Emerald",
       "url": "https://open.spotify.com/track/0OpKRZqOmoSCtjfpkOa6Ew"
+    },
+    {
+      "added_at": "2024-03-15 11:34:24",
+      "album": {
+        "name": "Bird of Passage",
+        "url": "https://open.spotify.com/album/7y8UGL1WYh2YkErlNvqrBO"
+      },
+      "artists": [
+        {
+          "name": "Carmelito",
+          "url": "https://open.spotify.com/artist/7GDVEcdwoNfZlN6sRYrjwZ"
+        }
+      ],
+      "duration_ms": 127313,
+      "name": "Bird of Passage",
+      "url": "https://open.spotify.com/track/79XrQYbxrhehKlaT70VfxN"
     },
     {
       "added_at": "2024-03-15 11:34:24",
@@ -247,22 +263,6 @@
       "duration_ms": 192000,
       "name": "Daffodils",
       "url": "https://open.spotify.com/track/4JHlWtvac2EIxLMa8mMyQc"
-    },
-    {
-      "added_at": "2024-03-15 11:34:24",
-      "album": {
-        "name": "Other Side of The Moon",
-        "url": "https://open.spotify.com/album/1pGyYoSDbFxJ2r91ZQiLqb"
-      },
-      "artists": [
-        {
-          "name": "Val\u00e9rie Val\u00e9rie",
-          "url": "https://open.spotify.com/artist/5anUigfub4hjAuAgrZHS25"
-        }
-      ],
-      "duration_ms": 128914,
-      "name": "Other Side of The Moon",
-      "url": "https://open.spotify.com/track/1qrvZZeUyb4a5knmgTM9v1"
     },
     {
       "added_at": "2024-03-15 11:34:24",
@@ -379,6 +379,22 @@
     {
       "added_at": "2024-03-15 11:34:24",
       "album": {
+        "name": "The Old Chapel",
+        "url": "https://open.spotify.com/album/4WdLOyBKFk1KV6lANVXvOL"
+      },
+      "artists": [
+        {
+          "name": "Max Goethe",
+          "url": "https://open.spotify.com/artist/2nZU81jrG7xjPA8a3pZZmf"
+        }
+      ],
+      "duration_ms": 129410,
+      "name": "The Old Chapel",
+      "url": "https://open.spotify.com/track/47tqkzmEb9HmxGYXA0HERN"
+    },
+    {
+      "added_at": "2024-03-15 11:34:24",
+      "album": {
         "name": "Smile in the wind",
         "url": "https://open.spotify.com/album/0uQE309NUZTFs9jfLV4KSp"
       },
@@ -407,22 +423,6 @@
       "duration_ms": 200843,
       "name": "Elevation",
       "url": "https://open.spotify.com/track/741SePkge5anOObH5JLG5r"
-    },
-    {
-      "added_at": "2024-03-15 11:34:24",
-      "album": {
-        "name": "The Old Chapel",
-        "url": "https://open.spotify.com/album/4WdLOyBKFk1KV6lANVXvOL"
-      },
-      "artists": [
-        {
-          "name": "Max Goethe",
-          "url": "https://open.spotify.com/artist/2nZU81jrG7xjPA8a3pZZmf"
-        }
-      ],
-      "duration_ms": 129410,
-      "name": "The Old Chapel",
-      "url": "https://open.spotify.com/track/47tqkzmEb9HmxGYXA0HERN"
     },
     {
       "added_at": "2024-03-15 11:34:24",
@@ -523,22 +523,6 @@
     {
       "added_at": "2024-03-15 11:34:24",
       "album": {
-        "name": "Garden Of Dreams",
-        "url": "https://open.spotify.com/album/30qBdTgHf1pJI54TyiLv7B"
-      },
-      "artists": [
-        {
-          "name": "Fl\u00f3ki",
-          "url": "https://open.spotify.com/artist/6IEWnUlDDKygVlZVX8iLHT"
-        }
-      ],
-      "duration_ms": 169000,
-      "name": "Garden Of Dreams",
-      "url": "https://open.spotify.com/track/7ywZFL0EYH5UFjDbmIGYUp"
-    },
-    {
-      "added_at": "2024-03-15 11:34:24",
-      "album": {
         "name": "Rest",
         "url": "https://open.spotify.com/album/5PyoVVil8AmVxpN8Gxzitj"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 123628,
       "name": "Chanson Pour Un Amour Perdu",
       "url": "https://open.spotify.com/track/0Wycng7AsIXY48TYFgEtYr"
+    },
+    {
+      "added_at": "2024-03-15 11:34:24",
+      "album": {
+        "name": "Garden Of Dreams",
+        "url": "https://open.spotify.com/album/30qBdTgHf1pJI54TyiLv7B"
+      },
+      "artists": [
+        {
+          "name": "Fl\u00f3ki",
+          "url": "https://open.spotify.com/artist/6IEWnUlDDKygVlZVX8iLHT"
+        }
+      ],
+      "duration_ms": 169000,
+      "name": "Garden Of Dreams",
+      "url": "https://open.spotify.com/track/7ywZFL0EYH5UFjDbmIGYUp"
     },
     {
       "added_at": "2024-03-15 11:34:24",
@@ -603,6 +603,22 @@
     {
       "added_at": "2024-03-15 11:34:24",
       "album": {
+        "name": "Prati",
+        "url": "https://open.spotify.com/album/0Z9iN9qKmgZe3c5RemXZBU"
+      },
+      "artists": [
+        {
+          "name": "Carluccio",
+          "url": "https://open.spotify.com/artist/06bxyT4bXPZaKsInaJ75UL"
+        }
+      ],
+      "duration_ms": 145566,
+      "name": "Prati",
+      "url": "https://open.spotify.com/track/7rXBrWGuXfc64IG5gD7Kee"
+    },
+    {
+      "added_at": "2024-03-15 11:34:24",
+      "album": {
         "name": "Healing",
         "url": "https://open.spotify.com/album/2DrvBABoXgq25yR3hNIFBP"
       },
@@ -619,18 +635,18 @@
     {
       "added_at": "2024-03-15 11:34:24",
       "album": {
-        "name": "Prati",
-        "url": "https://open.spotify.com/album/0Z9iN9qKmgZe3c5RemXZBU"
+        "name": "The Last Goodbye",
+        "url": "https://open.spotify.com/album/2iY03z9xsWzIeLkLiJ5iB7"
       },
       "artists": [
         {
-          "name": "Carluccio",
-          "url": "https://open.spotify.com/artist/06bxyT4bXPZaKsInaJ75UL"
+          "name": "Aquilegia",
+          "url": "https://open.spotify.com/artist/4XF98HJsL7ue3NksOvebiJ"
         }
       ],
-      "duration_ms": 145566,
-      "name": "Prati",
-      "url": "https://open.spotify.com/track/7rXBrWGuXfc64IG5gD7Kee"
+      "duration_ms": 170986,
+      "name": "The Last Goodbye",
+      "url": "https://open.spotify.com/track/0CFHCZ9LKhFA1DqExQHkf9"
     },
     {
       "added_at": "2024-03-15 11:34:24",
@@ -679,22 +695,6 @@
       "duration_ms": 162925,
       "name": "Unexpected Journey",
       "url": "https://open.spotify.com/track/6HgXeN1ZnCxTJshHSK73z9"
-    },
-    {
-      "added_at": "2024-03-15 11:34:24",
-      "album": {
-        "name": "The Last Goodbye",
-        "url": "https://open.spotify.com/album/2iY03z9xsWzIeLkLiJ5iB7"
-      },
-      "artists": [
-        {
-          "name": "Aquilegia",
-          "url": "https://open.spotify.com/artist/4XF98HJsL7ue3NksOvebiJ"
-        }
-      ],
-      "duration_ms": 170986,
-      "name": "The Last Goodbye",
-      "url": "https://open.spotify.com/track/0CFHCZ9LKhFA1DqExQHkf9"
     },
     {
       "added_at": "2024-03-15 11:34:24",
@@ -827,22 +827,6 @@
     {
       "added_at": "2024-03-15 11:34:24",
       "album": {
-        "name": "Forbidden Chords",
-        "url": "https://open.spotify.com/album/5qG5zlXidasaBblysEBt4A"
-      },
-      "artists": [
-        {
-          "name": "Eugenius R. Malmgren",
-          "url": "https://open.spotify.com/artist/2uODFqBJo1WlHbFBSuyLW9"
-        }
-      ],
-      "duration_ms": 139263,
-      "name": "Forbidden Chords",
-      "url": "https://open.spotify.com/track/22MdrHbM2paKQswcbjHEsR"
-    },
-    {
-      "added_at": "2024-03-15 11:34:24",
-      "album": {
         "name": "Au matin du magicien",
         "url": "https://open.spotify.com/album/67HlY6TafwpL0BDXMpvjfQ"
       },
@@ -855,6 +839,22 @@
       "duration_ms": 122560,
       "name": "Au matin du magicien",
       "url": "https://open.spotify.com/track/0P6bBjhwWbNhAC20n03PzW"
+    },
+    {
+      "added_at": "2024-03-15 11:34:24",
+      "album": {
+        "name": "Forbidden Chords",
+        "url": "https://open.spotify.com/album/5qG5zlXidasaBblysEBt4A"
+      },
+      "artists": [
+        {
+          "name": "Eugenius R. Malmgren",
+          "url": "https://open.spotify.com/artist/2uODFqBJo1WlHbFBSuyLW9"
+        }
+      ],
+      "duration_ms": 139263,
+      "name": "Forbidden Chords",
+      "url": "https://open.spotify.com/track/22MdrHbM2paKQswcbjHEsR"
     },
     {
       "added_at": "2024-03-15 11:34:24",
@@ -939,22 +939,6 @@
     {
       "added_at": "2024-03-15 11:34:24",
       "album": {
-        "name": "The Curtain Rises",
-        "url": "https://open.spotify.com/album/2KvuhRj0uIOlmVZdaiO5lo"
-      },
-      "artists": [
-        {
-          "name": "Casimir Roux",
-          "url": "https://open.spotify.com/artist/1IOFwDA1p2w7uEVaKXvHXW"
-        }
-      ],
-      "duration_ms": 125394,
-      "name": "The Curtain Rises",
-      "url": "https://open.spotify.com/track/3AQim00WRlCfqWgwhSEVXe"
-    },
-    {
-      "added_at": "2024-03-15 11:34:24",
-      "album": {
         "name": "Toivoa",
         "url": "https://open.spotify.com/album/0hMgtsmdSuDVDsk3W5Q2ug"
       },
@@ -987,6 +971,22 @@
       "duration_ms": 162921,
       "name": "Sunday Morning",
       "url": "https://open.spotify.com/track/1KkOMxw7qpYrwdY9ll2HCC"
+    },
+    {
+      "added_at": "2024-03-15 11:34:24",
+      "album": {
+        "name": "The Curtain Rises",
+        "url": "https://open.spotify.com/album/2KvuhRj0uIOlmVZdaiO5lo"
+      },
+      "artists": [
+        {
+          "name": "Casimir Roux",
+          "url": "https://open.spotify.com/artist/1IOFwDA1p2w7uEVaKXvHXW"
+        }
+      ],
+      "duration_ms": 125394,
+      "name": "The Curtain Rises",
+      "url": "https://open.spotify.com/track/3AQim00WRlCfqWgwhSEVXe"
     },
     {
       "added_at": "2024-03-15 11:34:24",
@@ -1071,22 +1071,6 @@
     {
       "added_at": "2024-03-15 11:34:24",
       "album": {
-        "name": "Coming Home",
-        "url": "https://open.spotify.com/album/3Gi20dWoDXkD68d73yiM6S"
-      },
-      "artists": [
-        {
-          "name": "Catherine Peterson",
-          "url": "https://open.spotify.com/artist/4w0JSW4wf4K5yYsruCZEbV"
-        }
-      ],
-      "duration_ms": 155750,
-      "name": "Coming Home",
-      "url": "https://open.spotify.com/track/71m2wUi0w4bQHDqloMQg5c"
-    },
-    {
-      "added_at": "2024-03-15 11:34:24",
-      "album": {
         "name": "85mm",
         "url": "https://open.spotify.com/album/2WBVYJgZDu0sU46CakgquV"
       },
@@ -1103,18 +1087,18 @@
     {
       "added_at": "2024-03-15 11:34:24",
       "album": {
-        "name": "Chasing lights",
-        "url": "https://open.spotify.com/album/2hD5lpDeL7dOU3EQGxkfGX"
+        "name": "Coming Home",
+        "url": "https://open.spotify.com/album/3Gi20dWoDXkD68d73yiM6S"
       },
       "artists": [
         {
-          "name": "Giles Garnier",
-          "url": "https://open.spotify.com/artist/7kROE0Pp2o1NqMVIWLX3Vg"
+          "name": "Catherine Peterson",
+          "url": "https://open.spotify.com/artist/4w0JSW4wf4K5yYsruCZEbV"
         }
       ],
-      "duration_ms": 134109,
-      "name": "Chasing lights",
-      "url": "https://open.spotify.com/track/1oxnn6zzA7x9p8o46JetXm"
+      "duration_ms": 155750,
+      "name": "Coming Home",
+      "url": "https://open.spotify.com/track/71m2wUi0w4bQHDqloMQg5c"
     },
     {
       "added_at": "2024-03-15 11:34:24",
@@ -1131,6 +1115,22 @@
       "duration_ms": 160694,
       "name": "Zephyr",
       "url": "https://open.spotify.com/track/0CNhH6mjashU1e7z0j1LXl"
+    },
+    {
+      "added_at": "2024-03-15 11:34:24",
+      "album": {
+        "name": "Chasing lights",
+        "url": "https://open.spotify.com/album/2hD5lpDeL7dOU3EQGxkfGX"
+      },
+      "artists": [
+        {
+          "name": "Giles Garnier",
+          "url": "https://open.spotify.com/artist/7kROE0Pp2o1NqMVIWLX3Vg"
+        }
+      ],
+      "duration_ms": 134109,
+      "name": "Chasing lights",
+      "url": "https://open.spotify.com/track/1oxnn6zzA7x9p8o46JetXm"
     },
     {
       "added_at": "2024-03-15 11:34:24",
@@ -1247,6 +1247,22 @@
     {
       "added_at": "2024-03-15 11:34:24",
       "album": {
+        "name": "Relief",
+        "url": "https://open.spotify.com/album/1COrB0wOkh7xmX4DLAJYiQ"
+      },
+      "artists": [
+        {
+          "name": "Ever So Blue",
+          "url": "https://open.spotify.com/artist/6LwcYWG1molG0KW2xwnPd2"
+        }
+      ],
+      "duration_ms": 158519,
+      "name": "Relief",
+      "url": "https://open.spotify.com/track/21Z5allNDVFrsznZvpdIl0"
+    },
+    {
+      "added_at": "2024-03-15 11:34:24",
+      "album": {
         "name": "Flickering Flame",
         "url": "https://open.spotify.com/album/3ndLiNJW5n7J0oFshWnThj"
       },
@@ -1263,18 +1279,18 @@
     {
       "added_at": "2024-03-15 11:34:24",
       "album": {
-        "name": "Relief",
-        "url": "https://open.spotify.com/album/1COrB0wOkh7xmX4DLAJYiQ"
+        "name": "Find The Light Behind The Clouds",
+        "url": "https://open.spotify.com/album/3nfBykXL4VSjn141KAOKQq"
       },
       "artists": [
         {
-          "name": "Ever So Blue",
-          "url": "https://open.spotify.com/artist/6LwcYWG1molG0KW2xwnPd2"
+          "name": "Muri\u00ebl Bostdorp",
+          "url": "https://open.spotify.com/artist/0X98pXmiqyxLXGiLjkj4rq"
         }
       ],
-      "duration_ms": 158519,
-      "name": "Relief",
-      "url": "https://open.spotify.com/track/21Z5allNDVFrsznZvpdIl0"
+      "duration_ms": 139884,
+      "name": "Find The Light Behind The Clouds",
+      "url": "https://open.spotify.com/track/6lO855y2athPU69GEgmFnV"
     },
     {
       "added_at": "2024-03-15 11:34:24",
@@ -1311,22 +1327,6 @@
     {
       "added_at": "2024-03-15 11:34:24",
       "album": {
-        "name": "The Beginning",
-        "url": "https://open.spotify.com/album/4Y5btjkWzLtRnCvZZxxaDA"
-      },
-      "artists": [
-        {
-          "name": "Lexi Bradley",
-          "url": "https://open.spotify.com/artist/1CvuYflvQR5lwg1WzrhKAm"
-        }
-      ],
-      "duration_ms": 124500,
-      "name": "The Beginning",
-      "url": "https://open.spotify.com/track/29cTQB5qtEyaazYqjfVIt3"
-    },
-    {
-      "added_at": "2024-03-15 11:34:24",
-      "album": {
         "name": "When the leaves start to fall",
         "url": "https://open.spotify.com/album/65pB6B1PKVYEZ41xxkpHdn"
       },
@@ -1339,6 +1339,22 @@
       "duration_ms": 140000,
       "name": "When the leaves start to fall",
       "url": "https://open.spotify.com/track/70vSsnVESDO3ASOxKlgRkI"
+    },
+    {
+      "added_at": "2024-03-15 11:34:24",
+      "album": {
+        "name": "The Beginning",
+        "url": "https://open.spotify.com/album/4Y5btjkWzLtRnCvZZxxaDA"
+      },
+      "artists": [
+        {
+          "name": "Lexi Bradley",
+          "url": "https://open.spotify.com/artist/1CvuYflvQR5lwg1WzrhKAm"
+        }
+      ],
+      "duration_ms": 124500,
+      "name": "The Beginning",
+      "url": "https://open.spotify.com/track/29cTQB5qtEyaazYqjfVIt3"
     },
     {
       "added_at": "2024-03-15 11:34:24",
@@ -1407,6 +1423,22 @@
     {
       "added_at": "2024-03-15 11:34:24",
       "album": {
+        "name": "The round",
+        "url": "https://open.spotify.com/album/58H4jQ4WViq58tku5lRwiK"
+      },
+      "artists": [
+        {
+          "name": "Redd Mae",
+          "url": "https://open.spotify.com/artist/06HnYHIlkitCKyiMel4rWp"
+        }
+      ],
+      "duration_ms": 148941,
+      "name": "The round",
+      "url": "https://open.spotify.com/track/6YD98m2CsK814hbBVQz9yS"
+    },
+    {
+      "added_at": "2024-03-15 11:34:24",
+      "album": {
         "name": "Autumnal",
         "url": "https://open.spotify.com/album/7a7f6qmks202aOFuAfomMM"
       },
@@ -1435,22 +1467,6 @@
       "duration_ms": 126396,
       "name": "Woman traveling alone",
       "url": "https://open.spotify.com/track/2bgfzRKACqBoOWoXYJGJdb"
-    },
-    {
-      "added_at": "2024-03-15 11:34:24",
-      "album": {
-        "name": "Find The Light Behind The Clouds",
-        "url": "https://open.spotify.com/album/3nfBykXL4VSjn141KAOKQq"
-      },
-      "artists": [
-        {
-          "name": "Muri\u00ebl Bostdorp",
-          "url": "https://open.spotify.com/artist/0X98pXmiqyxLXGiLjkj4rq"
-        }
-      ],
-      "duration_ms": 139884,
-      "name": "Find The Light Behind The Clouds",
-      "url": "https://open.spotify.com/track/6lO855y2athPU69GEgmFnV"
     },
     {
       "added_at": "2024-03-15 11:34:24",
@@ -1503,22 +1519,6 @@
     {
       "added_at": "2024-03-15 11:34:24",
       "album": {
-        "name": "Fallen Leaves",
-        "url": "https://open.spotify.com/album/4zsGlA5IklmOnQNmf7jmPb"
-      },
-      "artists": [
-        {
-          "name": "V\u00edgi Seaghdh",
-          "url": "https://open.spotify.com/artist/1fuodmtnFQEX05Pbf3rPBm"
-        }
-      ],
-      "duration_ms": 157626,
-      "name": "Fallen Leaves",
-      "url": "https://open.spotify.com/track/7sLmX8Xykhu6LXWHU3Srpe"
-    },
-    {
-      "added_at": "2024-03-15 11:34:24",
-      "album": {
         "name": "Del Mar",
         "url": "https://open.spotify.com/album/2IYjVks9RJ8lVKMp1FCvsQ"
       },
@@ -1551,18 +1551,18 @@
     {
       "added_at": "2024-03-15 11:34:24",
       "album": {
-        "name": "Into the unknown",
-        "url": "https://open.spotify.com/album/5YO98Sw6iNFqkabJMSWCo4"
+        "name": "Fallen Leaves",
+        "url": "https://open.spotify.com/album/4zsGlA5IklmOnQNmf7jmPb"
       },
       "artists": [
         {
-          "name": "Yuko Kimura",
-          "url": "https://open.spotify.com/artist/4sVQyVPaGQ1MzslDmkf8nn"
+          "name": "V\u00edgi Seaghdh",
+          "url": "https://open.spotify.com/artist/1fuodmtnFQEX05Pbf3rPBm"
         }
       ],
-      "duration_ms": 128022,
-      "name": "Into the unknown",
-      "url": "https://open.spotify.com/track/5NNEawn7c5bOVf2hveDZnr"
+      "duration_ms": 157626,
+      "name": "Fallen Leaves",
+      "url": "https://open.spotify.com/track/7sLmX8Xykhu6LXWHU3Srpe"
     },
     {
       "added_at": "2024-03-15 11:34:24",
@@ -1583,6 +1583,22 @@
     {
       "added_at": "2024-03-15 11:34:24",
       "album": {
+        "name": "Into the unknown",
+        "url": "https://open.spotify.com/album/5YO98Sw6iNFqkabJMSWCo4"
+      },
+      "artists": [
+        {
+          "name": "Yuko Kimura",
+          "url": "https://open.spotify.com/artist/4sVQyVPaGQ1MzslDmkf8nn"
+        }
+      ],
+      "duration_ms": 128022,
+      "name": "Into the unknown",
+      "url": "https://open.spotify.com/track/5NNEawn7c5bOVf2hveDZnr"
+    },
+    {
+      "added_at": "2024-03-15 11:34:24",
+      "album": {
         "name": "Night Solace",
         "url": "https://open.spotify.com/album/3XBvc453nHdxoK0PYyOouF"
       },
@@ -1595,22 +1611,6 @@
       "duration_ms": 161469,
       "name": "Night Solace",
       "url": "https://open.spotify.com/track/4Z94Nth1RThACL5ohW5xpy"
-    },
-    {
-      "added_at": "2024-03-15 11:34:24",
-      "album": {
-        "name": "The round",
-        "url": "https://open.spotify.com/album/58H4jQ4WViq58tku5lRwiK"
-      },
-      "artists": [
-        {
-          "name": "Redd Mae",
-          "url": "https://open.spotify.com/artist/06HnYHIlkitCKyiMel4rWp"
-        }
-      ],
-      "duration_ms": 148941,
-      "name": "The round",
-      "url": "https://open.spotify.com/track/6YD98m2CsK814hbBVQz9yS"
     }
   ],
   "unique_name": "Foco no Estudo",

@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzML3sgXnWTr.md) - [plain]
 | 35 | [CORALLO \(feat\. chiamamifaro\)](https://open.spotify.com/track/4Ug7Xin5w20S5iI8lH2a1R) | [Lortex](https://open.spotify.com/artist/0ItmqfCN0IYX9N8LcDHj45), [chiamamifaro](https://open.spotify.com/artist/7IkCnJuIFuZyvZb60a5DEe) | [CHIAMO](https://open.spotify.com/album/4Kfp3DudUiFoQamrhT4c44) | 3:23 |
 | 36 | [La Storia Più Bella Di Sempre](https://open.spotify.com/track/4QkNTRmPGMyubxV3PL3mT5) | [Will](https://open.spotify.com/artist/7qIrqNF6i1kRLkGLgGXuZq) | [Manchester](https://open.spotify.com/album/2ruotvPgxJcb8DMbzQ5XFz) | 2:49 |
 | 37 | [Cero](https://open.spotify.com/track/0T3HDSk6LqhMND9mgHoBdb) | [Laura Pausini](https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH) | [Almas paralelas](https://open.spotify.com/album/3SYt2GZIfI8DGz8VlipVqb) | 3:21 |
-| 38 | [parolacce](https://open.spotify.com/track/61zba7lHT4kUUXrGXLWjjj) | [sangiovanni](https://open.spotify.com/artist/7dL0nOHwnSAsNAwpkPSGWP) | [CADERE VOLARE](https://open.spotify.com/album/5IQdzZjqyRJ9oVIRX6LXPD) | 3:02 |
-| 39 | [Zero](https://open.spotify.com/track/6PlfN1EXFyXvh7D87Fe4hb) | [Laura Pausini](https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH) | [Anime parallele](https://open.spotify.com/album/3hM5S9Gfx0ihdizWu5dgWF) | 3:21 |
+| 38 | [Zero](https://open.spotify.com/track/6PlfN1EXFyXvh7D87Fe4hb) | [Laura Pausini](https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH) | [Anime parallele](https://open.spotify.com/album/3hM5S9Gfx0ihdizWu5dgWF) | 3:21 |
+| 39 | [parolacce](https://open.spotify.com/track/61zba7lHT4kUUXrGXLWjjj) | [sangiovanni](https://open.spotify.com/artist/7dL0nOHwnSAsNAwpkPSGWP) | [CADERE VOLARE](https://open.spotify.com/album/5IQdzZjqyRJ9oVIRX6LXPD) | 3:02 |
 | 40 | [Non cambia mai](https://open.spotify.com/track/6gmB182UrCJnMHZTrxqUNv) | [Luigi Strangis](https://open.spotify.com/artist/7kuB7tieHx2PaQwRTNFcnZ) | [Voglio la gonna](https://open.spotify.com/album/70SXCWuJY7sw8EIblrp3iq) | 3:10 |
 | 41 | [La Meglio Gioventù](https://open.spotify.com/track/1KRTSDtOVwd4oTZ1gfzluB) | [Margherita Vicario](https://open.spotify.com/artist/2UUqj8yIpJGSjEJgkL4IIY) | [La Meglio Gioventù](https://open.spotify.com/album/27YISdUuV8GRGMRuAvMdVz) | 3:10 |
 | 42 | [Cos'è](https://open.spotify.com/track/61lqeoXo5yzoYm2WBkAYEf) | [Laura Pausini](https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH) | [Anime parallele](https://open.spotify.com/album/3hM5S9Gfx0ihdizWu5dgWF) | 3:20 |
@@ -57,4 +57,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzML3sgXnWTr.md) - [plain]
 | 47 | [Fili Del Tram](https://open.spotify.com/track/5jJnKCA8bSdNtSGa1VL5jY) | [Beba](https://open.spotify.com/artist/6ZpOQK1OKdCybuOgMkdbUh) | [Crisalide](https://open.spotify.com/album/5291vGtKdgVQco8wobFIAA) | 2:52 |
 | 48 | [Luccica](https://open.spotify.com/track/2MRNpRQLaErjmGBk6c9OQJ) | [Matteo Bocelli](https://open.spotify.com/artist/3SzmIPVTtVc0AzbR8kwk0w) | [Matteo](https://open.spotify.com/album/5VeLRPwjs2yLnNklcluzlc) | 2:47 |
 
-Snapshot ID: `Mjg1MTUwMDAsMDAwMDAwMDBkZDhkOTJiNjNhMjBjYWM5YzE1MzNlYmZmYjc1YmE3ZQ==`
+Snapshot ID: `Mjg1MTY0NDAsMDAwMDAwMDA4ZDQ0NWIzNjAwOWNiNjkyNDJkNGYyZjliMjA1MzZlOA==`

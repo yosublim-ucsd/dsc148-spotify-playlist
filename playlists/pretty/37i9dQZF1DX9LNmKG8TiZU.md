@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9LNmKG8TiZU.md) - [plain]
 
 > Des titres pop, tout en douceur\. Photo : ZAYN
 
-[Spotify](https://open.spotify.com/user/spotify) - 113,911 likes - 50 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 113,920 likes - 50 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [What I Am](https://open.spotify.com/track/7qZuRt0v6zox5gMAMCls5M) | [ZAYN](https://open.spotify.com/artist/5ZsFI1h6hIdQRw2ti0hz81) | [What I Am](https://open.spotify.com/album/3Q9nQTbbZovRJQfY62oXR0) | 3:31 |
 | 2 | [What Was I Made For? \[From The Motion Picture "Barbie"\]](https://open.spotify.com/track/6wf7Yu7cxBSPrRlWeSeK0Q) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [What Was I Made For? \[From The Motion Picture "Barbie"\]](https://open.spotify.com/album/3AafSrFIbJPH6BJHiJm1Cd) | 3:42 |
 | 3 | [Free Falling](https://open.spotify.com/track/13d25rq5AA5ppzekwPwtUz) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [Bitter Sweet Love](https://open.spotify.com/album/02muSEofPSAk276DCafUPb) | 2:53 |
-| 4 | [Too Good to be True](https://open.spotify.com/track/4vIiVs5JoNfqqRi5o7jAIb) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Too Good to be True](https://open.spotify.com/album/57y7NpfTINlnrNitu8vwft) | 2:40 |
+| 4 | [Too Good to be True](https://open.spotify.com/track/27RDQ0TfxzWMlQFuKrPT11) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Deeper Well](https://open.spotify.com/album/5SxZmGwc4eJuPp6PcO4JgJ) | 2:40 |
 | 5 | [Pages](https://open.spotify.com/track/0pLnDuoc1Ddg9KHgvBdjVP) | [Nina Nesbitt](https://open.spotify.com/artist/7AzjETXRUKNRSJHMW9GIqd) | [Pages](https://open.spotify.com/album/3kGscDtpreWkmSCrKb5aia) | 3:14 |
 | 6 | [Keep Running](https://open.spotify.com/track/5jwJJMMLMqfyMXHnKrzJNu) | [Yodelice](https://open.spotify.com/artist/167abweXl3demO9x0VMMeJ) | [Keep Running](https://open.spotify.com/album/5YehPZ7FEOVHF28GMuqj2a) | 2:54 |
 | 7 | [All Out Of Fight](https://open.spotify.com/track/0ZtWVho1KKMD9w55XYoDPl) | [P!nk](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR) | [TRUSTFALL \(Tour Deluxe Edition\)](https://open.spotify.com/album/4hgincUyDza4A228fFQRiK) | 3:32 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9LNmKG8TiZU.md) - [plain]
 | 49 | [I Don't Wanna Lose Myself](https://open.spotify.com/track/5qnkypfRNlDzQB9tZgsw8E) | [ANIKK](https://open.spotify.com/artist/2wvznrRx5MZ2qwqRJPYNmN) | [I Don't Wanna Lose Myself](https://open.spotify.com/album/5UqNEcubHPHBYSRC3ZvbL4) | 3:02 |
 | 50 | [Am I Enough](https://open.spotify.com/track/3Rk34rntbN3CdrBodGA9CY) | [Loi](https://open.spotify.com/artist/574qIjE9UTvfSvtnIrdLaE) | [Am I Enough](https://open.spotify.com/album/07IrU6rEh8La5R8GSJwoQ8) | 2:47 |
 
-Snapshot ID: `MCwxOTg2N2RhNTMxNDE2NjQ2MGNhYzlmNTk3YzE1NGU2NDg2YTk2Nzky`
+Snapshot ID: `MCxmNjMxZjI2ODVhMjMyM2FlZDRjNjFkMmYxY2JmZDJjMTEwNGM4N2Nk`

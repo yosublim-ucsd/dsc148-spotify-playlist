@@ -4,7 +4,7 @@
 
 > Gospel songs to get you in the spirit\. Whether you are happy or need company to feel better, this is the right one!
 
-316 songs - 1 day 9 hr 35 min
+317 songs - 1 day 9 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -93,7 +93,7 @@
 | [FIRE](https://open.spotify.com/track/0NuZcPidCtDipRPciaL6lA) | [Frank Edwards](https://open.spotify.com/artist/5gOBGZay8Nt5orlQI8UDDg) | [Overflow](https://open.spotify.com/album/4YKBwt7dPjkXJYrnGaWoqM) | 4:50 | 2022-06-09 | 2023-04-14 |
 | [Firm Foundation \(He Won't\)](https://open.spotify.com/track/16UFXi7IGVGG1mUSBMHfh2) | [Maverick City Music](https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV), [Chandler Moore](https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk), [Cody Carnes](https://open.spotify.com/artist/7apN8bBgl19E0Ona9pvPq0) | [Firm Foundation \(He Won't\)](https://open.spotify.com/album/0CbOOeE8abk2so7RnDF6ao) | 8:44 | 2023-12-05 | 2023-12-11 |
 | [Fix My Eyes on You](https://open.spotify.com/track/1kpwm7MhD1TXAG7Sd9CNNN) | [Ada Ehi](https://open.spotify.com/artist/27aJyju2K5sLLiCgZKemnt), [Sinach](https://open.spotify.com/artist/05Ukp4CghkfNxqCdw8LolI) | [Born of God](https://open.spotify.com/album/1IkGtT3gU6fHxhqRVL6inf) | 5:32 | 2022-06-09 | 2024-01-13 |
-| [Fix My Eyes on You](https://open.spotify.com/track/2PlOjHpNAsXL8is3aNcs3F) | [Ada Ehi](https://open.spotify.com/artist/27aJyju2K5sLLiCgZKemnt), [Sinach](https://open.spotify.com/artist/6hKHFC67DZJNw9tg1l0lIe) | [Born of God](https://open.spotify.com/album/27grzoIl35MGO7EpQFkZZA) | 5:32 | 2023-12-15 |  |
+| [Fix My Eyes on You](https://open.spotify.com/track/2PlOjHpNAsXL8is3aNcs3F) | [Ada Ehi](https://open.spotify.com/artist/27aJyju2K5sLLiCgZKemnt), [Sinach](https://open.spotify.com/artist/6hKHFC67DZJNw9tg1l0lIe) | [Born of God](https://open.spotify.com/album/27grzoIl35MGO7EpQFkZZA) | 5:32 | 2023-12-15 | 2024-03-21 |
 | [For Your Glory \- Live](https://open.spotify.com/track/0ruqgF5YjYjQPr0uwQsvYQ) | [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx) | [Grace \(Live/Deluxe\)](https://open.spotify.com/album/1x6hrh2j50CCOozAmvc9I5) | 6:46 | 2022-06-09 |  |
 | [Forever It Is Done](https://open.spotify.com/track/5cavGaWguVUsTiOrWE7sgX) | [Onos](https://open.spotify.com/artist/1xzshfPnhdGrVKze5zCcl0) | [Forever It Is Done](https://open.spotify.com/album/7ll7f71ilVwO1TPVa8LAJ7) | 5:15 | 2024-02-02 | 2024-02-16 |
 | [Forever You Are God](https://open.spotify.com/track/1STQoJfd8xcqv0tKMhf1Ri) | [Onos](https://open.spotify.com/artist/1xzshfPnhdGrVKze5zCcl0) | [Breathe](https://open.spotify.com/album/254N1MBygkKvBoWrKToJ0K) | 4:04 | 2023-12-05 | 2023-12-11 |
@@ -171,6 +171,7 @@
 | [Mensuro](https://open.spotify.com/track/1cM5uGt3561vmeY5wHQBnY) | [Joe Mettle](https://open.spotify.com/artist/1An6gOOlZ9NITlQs2ZtBCb) | [The Encounter](https://open.spotify.com/album/1fTYtYwjX4neKImb9Xle2x) | 6:48 | 2022-06-09 | 2023-06-16 |
 | [Merciful](https://open.spotify.com/track/4pcdrkqwBw8wY6XR1Np81G) | [Benita Okojie](https://open.spotify.com/artist/0PboSSy527dayDLBcSl10a) | [Merciful](https://open.spotify.com/album/3TZZ526YDnpc7JU5gdFREZ) | 3:04 | 2022-06-09 | 2023-04-05 |
 | [Mercy](https://open.spotify.com/track/1n2kZ1iuGpuxj8sr4NY8RL) | [Moses Bliss](https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM), [Sunmisola Agbebi](https://open.spotify.com/artist/7fJd7w897ouOZzDc6e3oyU), [Pastor Jerry Eze](https://open.spotify.com/artist/5UpWOLAQgVUxzukbqKX3hn) | [Mercy](https://open.spotify.com/album/65dVjDK6IVyThRsk4S6Yxu) | 16:45 | 2023-08-11 |  |
+| [Mercy \(Hlabelela\)](https://open.spotify.com/track/03ex4OAmmBM2ci5W0q2kHm) | [Brenden Praise](https://open.spotify.com/artist/3jzpHftM6t86BxqayyUWiU), [Free 2 Wrshp](https://open.spotify.com/artist/6xu5vAyJJMPc6u2XdxOuAt) | [The Gift, Vol\. 1](https://open.spotify.com/album/2YCDh7g2M3KWcDZUKKRUH1) | 3:06 | 2024-03-01 |  |
 | [Mess into a Message](https://open.spotify.com/track/76aJBXDHpUhWS3xOeqKlSw) | [Chidiya Ohiagu](https://open.spotify.com/artist/7H9pyCCQxjzJb9aaIsrSgp) | [Mess into a Message](https://open.spotify.com/album/1adkr7tTpDZWRAmDHoQhLz) | 3:17 | 2024-02-23 | 2024-03-12 |
 | [Messengers](https://open.spotify.com/track/16QyjYsEnTcPhmpjqTg1Ad) | [Chidiya Ohiagu](https://open.spotify.com/artist/7H9pyCCQxjzJb9aaIsrSgp) | [Messengers](https://open.spotify.com/album/0upBIxCFfX69fL1uB0NhTO) | 4:48 | 2022-06-09 | 2023-01-02 |
 | [Mighty God \- Live At Kairos Night](https://open.spotify.com/track/5ZkJihnxkWNFJA6l7NCpQt) | [Steve Crown](https://open.spotify.com/artist/6ssJ7jGUrvWN8XZjggRBF3) | [Mighty God \(Live At Kairos Night\)](https://open.spotify.com/album/4em67UPd4Q701rGceqOClt) | 7:04 | 2023-03-30 | 2023-04-25 |

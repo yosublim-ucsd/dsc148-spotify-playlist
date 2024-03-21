@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbFR6m9YbAYz.md) - [plain]
 
 > Country tracks to pump up your gaming.
 
-[Spotify](https://open.spotify.com/user/spotify) - 71,279 likes - 75 songs - 4 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 71,394 likes - 75 songs - 4 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,8 +57,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbFR6m9YbAYz.md) - [plain]
 | 47 | [My Bar](https://open.spotify.com/track/3rvEUrjnl3eXXmKiKLkzRN) | [Priscilla Block](https://open.spotify.com/artist/6BpvASijzSWj7gnZD4Dvf1) | [My Bar](https://open.spotify.com/album/5SaPpj7mUr3Yin6oaBSnEP) | 3:13 |
 | 48 | [Cruise](https://open.spotify.com/track/0i5el041vd6nxrGEU8QRxy) | [Florida Georgia Line](https://open.spotify.com/artist/3b8QkneNDz4JHKKKlLgYZg) | [Here's To The Good Times](https://open.spotify.com/album/5MH765pytbQasmDxXArTah) | 3:28 |
 | 49 | [ONE BEER \(feat\. Lauren Alaina & Devin Dawson\)](https://open.spotify.com/track/5Y05LYM8LhnQN78GqfjSeK) | [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy), [Lauren Alaina](https://open.spotify.com/artist/1v3tdpIdBSW14rHUfiEVOv), [Devin Dawson](https://open.spotify.com/artist/2ySHS7UojGu20XfUPaBlyu) | [A ROCK](https://open.spotify.com/album/6j6uNK4vsfLXqVwWXwvqYQ) | 2:53 |
-| 50 | [What Was I Thinkin'](https://open.spotify.com/track/0r8iDf65NHgFgZOGLwj5r8) | [Dierks Bentley](https://open.spotify.com/artist/7x8nK0m0cP2ksQf0mjWdPS) | [Dierks Bentley](https://open.spotify.com/album/2yeODPn8igz9qQiitOZRyJ) | 4:20 |
-| 51 | [This Damn Song](https://open.spotify.com/track/7hSdspr7RBzq8VYOSVwALb) | [Pecos & the Rooftops](https://open.spotify.com/artist/5KbiLoVLLIHM5vZ0RM9WMU) | [Pecos & the Rooftops](https://open.spotify.com/album/16iK92ILyZrvxH3HuDDgtH) | 4:40 |
+| 50 | [This Damn Song](https://open.spotify.com/track/7hSdspr7RBzq8VYOSVwALb) | [Pecos & the Rooftops](https://open.spotify.com/artist/5KbiLoVLLIHM5vZ0RM9WMU) | [Pecos & the Rooftops](https://open.spotify.com/album/16iK92ILyZrvxH3HuDDgtH) | 4:40 |
+| 51 | [What Was I Thinkin'](https://open.spotify.com/track/0r8iDf65NHgFgZOGLwj5r8) | [Dierks Bentley](https://open.spotify.com/artist/7x8nK0m0cP2ksQf0mjWdPS) | [Dierks Bentley](https://open.spotify.com/album/2yeODPn8igz9qQiitOZRyJ) | 4:20 |
 | 52 | [Country Boy's Dream Girl](https://open.spotify.com/track/1UlwFwRrb4Kth3TwnjBAJV) | [Ella Langley](https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8) | [Country Boy's Dream Girl](https://open.spotify.com/album/6M7Cnkdd1zqazDkHJxHxPJ) | 3:03 |
 | 53 | [Homegrown](https://open.spotify.com/track/2kR18wsL3gvXRXdNE4dCGc) | [Zac Brown Band](https://open.spotify.com/artist/6yJCxee7QumYr820xdIsjo) | [JEKYLL + HYDE](https://open.spotify.com/album/12WhHcWieyHNLP0RGbRtrr) | 3:25 |
 | 54 | [Loud and Heavy](https://open.spotify.com/track/1ppTqTBXqnlVGPxlluGHRE) | [Cody Jinks](https://open.spotify.com/artist/2v7wIbCkIzxOfT3GnqCexD) | [Adobe Sessions](https://open.spotify.com/album/0XwvWmuegqeWhDpg2FZaXW) | 3:50 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbFR6m9YbAYz.md) - [plain]
 | 74 | [Flower Shops \(feat\. Morgan Wallen\)](https://open.spotify.com/track/2ccuOtUjIyx3tPcsnpeBzJ) | [ERNEST](https://open.spotify.com/artist/4GGfAshSkqoxpZdoaHm7ky), [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [Flower Shops \(feat\. Morgan Wallen\)](https://open.spotify.com/album/5gdgH8d7W2KwkK03Ea0vpi) | 3:34 |
 | 75 | [The Git Up](https://open.spotify.com/track/01tA4XmJ4fGQNwti6b2hPm) | [Blanco Brown](https://open.spotify.com/artist/3yzRiNMZdTsSUgplcyYZ4i) | [Honeysuckle & Lightning Bugs](https://open.spotify.com/album/2oxv6Q0GYUkYqz2dhUKo12) | 3:20 |
 
-Snapshot ID: `MCxkYmVlMzJmNWU1OWE3MmUzMjlhMGYxYzJjY2UyY2RkNTU5N2ViY2Zj`
+Snapshot ID: `MCw0Mjc2MTIwNTkzMWEyMzI5NDhmMzNhZmU0NzIwNWNjMWQ1ODg0Y2Qw`

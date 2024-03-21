@@ -4,7 +4,7 @@
 
 > Country gone wild! You never know what you're gonna get\. Cover: Chase Matthew
 
-441 songs - 22 hr 0 min
+442 songs - 22 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,7 +34,8 @@
 | [Anything Cold](https://open.spotify.com/track/5wzzdPCvXvd7caNx6l5izX) | [Greylan James](https://open.spotify.com/artist/0obiwW8UEpyliJ4xhXqrra) | [Anything Cold](https://open.spotify.com/album/4Y6rVW06iicinF8IVZqGM4) | 2:54 | 2023-02-10 |  |
 | [Around You](https://open.spotify.com/track/3LWhbpStRiRnTM3FrdmqOB) | [Skeez](https://open.spotify.com/artist/2VWRwW6HEugI8FWTDv9exG), [mike.](https://open.spotify.com/artist/5G9kmDLg3OeUyj8KVBLzbu) | [Around You](https://open.spotify.com/album/4xiADjut6p4Q6JaoZZ01tp) | 3:02 | 2022-05-20 |  |
 | [As You Leave](https://open.spotify.com/track/218NK60dJvyf7mIsowogA3) | [Canaan Cox](https://open.spotify.com/artist/6LcdklijxllKGfl4FWiv3D) | [As You Leave](https://open.spotify.com/album/10mMsHExUCFJEcILYH3wZt) | 2:06 | 2022-02-18 |  |
-| [Austin](https://open.spotify.com/track/4NJqhmkGN042BrvHoMKUrJ) | [Dasha](https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I) | [Austin](https://open.spotify.com/album/4JtlZzYJEa7bejLF0ASnk0) | 2:51 | 2024-03-01 |  |
+| [Austin](https://open.spotify.com/track/4NJqhmkGN042BrvHoMKUrJ) | [Dasha](https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I) | [Austin](https://open.spotify.com/album/4JtlZzYJEa7bejLF0ASnk0) | 2:51 | 2024-03-01 | 2024-03-21 |
+| [Austin](https://open.spotify.com/track/6b81dy3WjbozXK6b7C1gu5) | [Dasha](https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I) | [What Happens Now?](https://open.spotify.com/album/0rQRrrZPPv6XXsxilJ1wFz) | 2:51 | 2024-03-08 |  |
 | [B.Y.O.B.](https://open.spotify.com/track/0eV8jHjIz5mC4hrDcARzur) | [Norman North](https://open.spotify.com/artist/3qKHegS8r4Q08xagEIJwez) | [B.Y.O.B.](https://open.spotify.com/album/5ax0ni9GqPz5ClUlFGw3bR) | 1:48 | 2021-12-10 | 2023-01-04 |
 | [Background Music](https://open.spotify.com/track/5PBQsqit9PJ4OS1KWkto3h) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [Background Music](https://open.spotify.com/album/3rIQuaqO6tdsgeScpFFumi) | 3:34 | 2022-02-11 | 2022-06-11 |
 | [Backroad](https://open.spotify.com/track/1ZUCZo5YNf1VEfvrr4vTk4) | [LECADE](https://open.spotify.com/artist/5KfgJTNwvEbzMtJREyq9Jt) | [Backroad](https://open.spotify.com/album/0k9LG65CwVXehlFulZu34v) | 2:37 | 2023-03-31 |  |

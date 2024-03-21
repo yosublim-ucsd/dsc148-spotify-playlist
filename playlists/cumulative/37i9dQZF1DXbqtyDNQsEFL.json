@@ -1814,7 +1814,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-21",
       "duration_ms": 332573,
       "name": "Fix My Eyes on You",
       "url": "https://open.spotify.com/track/2PlOjHpNAsXL8is3aNcs3F"
@@ -3388,6 +3388,28 @@
       "duration_ms": 1005517,
       "name": "Mercy",
       "url": "https://open.spotify.com/track/1n2kZ1iuGpuxj8sr4NY8RL"
+    },
+    {
+      "album": {
+        "name": "The Gift, Vol. 1",
+        "url": "https://open.spotify.com/album/2YCDh7g2M3KWcDZUKKRUH1"
+      },
+      "artists": [
+        {
+          "name": "Brenden Praise",
+          "url": "https://open.spotify.com/artist/3jzpHftM6t86BxqayyUWiU"
+        },
+        {
+          "name": "Free 2 Wrshp",
+          "url": "https://open.spotify.com/artist/6xu5vAyJJMPc6u2XdxOuAt"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186239,
+      "name": "Mercy (Hlabelela)",
+      "url": "https://open.spotify.com/track/03ex4OAmmBM2ci5W0q2kHm"
     },
     {
       "album": {

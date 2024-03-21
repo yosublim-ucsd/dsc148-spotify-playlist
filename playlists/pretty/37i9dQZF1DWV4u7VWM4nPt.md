@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV4u7VWM4nPt.md) - [plain]
 
 > The biggest songs in Latin America in 2000\. Cover: Joan Sebastian
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,450 likes - 50 songs - 3 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,482 likes - 50 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,8 +14,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV4u7VWM4nPt.md) - [plain]
 | 4 | [Tu Cariñito](https://open.spotify.com/track/5uRd1tmUAvfFGSPR5266Xp) | [Luisito Ayala Y La Puerto Rican Power](https://open.spotify.com/artist/2UoLlLFDkqewHH7EzaZcl7) | [Men in Salsa](https://open.spotify.com/album/1yyEE7SQcJDHfFU8LtYfx4) | 4:11 |
 | 5 | [Fiesta Pagana](https://open.spotify.com/track/02dphTJYUQ9pmdNC52iyOz) | [Mägo de Oz](https://open.spotify.com/artist/5ZNxiPcbKgaNcBrERMpqeu) | [Finisterra](https://open.spotify.com/album/3Eubo97y5NcXWz7PsCzHIT) | 4:56 |
 | 6 | [Lobo\-hombre en París](https://open.spotify.com/track/3M1H1CWjrSq7nxABHc8EXv) | [La Unión](https://open.spotify.com/artist/2Ax9wZpdlg4r2zkc3pcI8U) | [Grandes Exitos](https://open.spotify.com/album/7bYD4tCxzQOzGZmKBKtT3m) | 3:53 |
-| 7 | [Tabaco y Chanel](https://open.spotify.com/track/48svUiwMMYQRPyesVEnof1) | [Bacilos](https://open.spotify.com/artist/1mux8L6xg2Cmrc7k0wQczl) | [Bacilos \(Re\-Issue\)](https://open.spotify.com/album/3oCkAeDln8FVoGIOvf9TNl) | 5:12 |
-| 8 | [Apenas Mais uma de Amor](https://open.spotify.com/track/6YNCE5qtrTa7YcnAOAEsDQ) | [Lulu Santos](https://open.spotify.com/artist/0A1oy7PC7fdzURgaLaWkL1) | [Lulu Acústico](https://open.spotify.com/album/14xCfgcBE9uCrwwR36NoVB) | 3:38 |
+| 7 | [Apenas Mais uma de Amor](https://open.spotify.com/track/6YNCE5qtrTa7YcnAOAEsDQ) | [Lulu Santos](https://open.spotify.com/artist/0A1oy7PC7fdzURgaLaWkL1) | [Lulu Acústico](https://open.spotify.com/album/14xCfgcBE9uCrwwR36NoVB) | 3:38 |
+| 8 | [Tabaco y Chanel](https://open.spotify.com/track/48svUiwMMYQRPyesVEnof1) | [Bacilos](https://open.spotify.com/artist/1mux8L6xg2Cmrc7k0wQczl) | [Bacilos \(Re\-Issue\)](https://open.spotify.com/album/3oCkAeDln8FVoGIOvf9TNl) | 5:12 |
 | 9 | [Yo No Soy Esa Mujer](https://open.spotify.com/track/0JAGODD5w6MeYQzA9lV6Zm) | [Paulina Rubio](https://open.spotify.com/artist/1d6dwipPrsFSJVmFTTdFSS) | [Paulina](https://open.spotify.com/album/64M45unRUhuzlOYth6w5HB) | 3:44 |
 | 10 | [Entre tú y mil mares](https://open.spotify.com/track/3reCcj2BzaDnnrlnZ0aq2X) | [Laura Pausini](https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH) | [Entre tú y mil mares](https://open.spotify.com/album/6YZ8BnXi5PavXdw8XmOmUj) | 3:48 |
 | 11 | [Cuídate](https://open.spotify.com/track/7gqIqyeCaV2xNtfZWxEphD) | [La Oreja de Van Gogh](https://open.spotify.com/artist/4U7lXyKdSf1JbM1aXvsodC) | [El Viaje de Copperpot](https://open.spotify.com/album/3HnSOodhuufrSTBnGZQ3fu) | 2:49 |
@@ -37,9 +37,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV4u7VWM4nPt.md) - [plain]
 | 27 | [Que Vuelva](https://open.spotify.com/track/0ndYI8UT0PMaJzKLJbFr35) | [Alex Bueno](https://open.spotify.com/artist/7esCoLcCoCK7FPa9casAH4) | [Corazón Duro](https://open.spotify.com/album/3C5eb62kdgXXv8ZLzfGkiB) | 4:47 |
 | 28 | [Cuándo](https://open.spotify.com/track/40RI3qFVisaEy0HC49LMkz) | [Ricardo Arjona](https://open.spotify.com/artist/0h1zs4CTlU9D2QtgPxptUD) | [Galeria Caribe](https://open.spotify.com/album/3Pido82I7SgITS8LDABA7y) | 4:34 |
 | 29 | [Samba De Verão](https://open.spotify.com/track/1vt0n3GcAYrsSMue1C6OtC) | [Caetano Veloso](https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ) | [A Bossa De Caetano](https://open.spotify.com/album/2YE1G8rqX7FPwixLn3N5sv) | 3:07 |
-| 30 | [Tramposa y Mentirosa](https://open.spotify.com/track/6QmChI3qnlVSMHihZPzCTf) | [Leo Mattioli](https://open.spotify.com/artist/2Mu8h5sFkOziL0Rfn7FXIA) | [Un Homenaje al Cielo](https://open.spotify.com/album/1ZlJYrZ68YhJevmEAaQBdL) | 3:32 |
+| 30 | [Amor I Love You / Citação: Trecho da Obra Intitulada "Primo Basilio" De Eça de Queiroz Declamado por Arnaldo Antunes](https://open.spotify.com/track/5nwT95l5rMdQPaydjGh32q) | [Marisa Monte](https://open.spotify.com/artist/0rSTXALHu0EKAawPLBdODH) | [Memórias, Crônicas e Declarações de Amor](https://open.spotify.com/album/349Z96WB2lmLLATHQT2wyL) | 3:11 |
 | 31 | [El Ultimo Adios](https://open.spotify.com/track/7lnun6viJADQCvZnE0w9q8) | [Paulina Rubio](https://open.spotify.com/artist/1d6dwipPrsFSJVmFTTdFSS) | [Paulina](https://open.spotify.com/album/64M45unRUhuzlOYth6w5HB) | 4:45 |
-| 32 | [Amor I Love You / Citação: Trecho da Obra Intitulada "Primo Basilio" De Eça de Queiroz Declamado por Arnaldo Antunes](https://open.spotify.com/track/5nwT95l5rMdQPaydjGh32q) | [Marisa Monte](https://open.spotify.com/artist/0rSTXALHu0EKAawPLBdODH) | [Memórias, Crônicas e Declarações de Amor](https://open.spotify.com/album/349Z96WB2lmLLATHQT2wyL) | 3:11 |
+| 32 | [Tramposa y Mentirosa](https://open.spotify.com/track/6QmChI3qnlVSMHihZPzCTf) | [Leo Mattioli](https://open.spotify.com/artist/2Mu8h5sFkOziL0Rfn7FXIA) | [Un Homenaje al Cielo](https://open.spotify.com/album/1ZlJYrZ68YhJevmEAaQBdL) | 3:32 |
 | 33 | [Amorcito Mío](https://open.spotify.com/track/07synGEtMdfRfwY3wNmedn) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [Secreto De Amor](https://open.spotify.com/album/2OivwIlbg7qwTg8SLGB0rV) | 2:57 |
 | 34 | [Tonta](https://open.spotify.com/track/1A1yn53ZypVPUcV4W54j8A) | [Grupo Mojado](https://open.spotify.com/artist/28NFZuZbEm7yzMpv1q1Rb7) | [25 Exitos Vol\. 1 \(USA\)](https://open.spotify.com/album/0dgNt6D4pz86nn0ZTRYoVQ) | 3:10 |
 | 35 | [Sin Ti](https://open.spotify.com/track/1mmaywWRQzNE5dt0eUISBd) | [King Chango](https://open.spotify.com/artist/5nZlhgO7iNedGlO0gKu9us) | [The Return of El Santo](https://open.spotify.com/album/5cOccFEax9P6EPRJc4xPx9) | 4:47 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV4u7VWM4nPt.md) - [plain]
 | 49 | [Imagina](https://open.spotify.com/track/5rTpWh5T1yPhIAV9mbmYEW) | [Genitallica](https://open.spotify.com/artist/5Bk3LL5WujH6UG9iqpDaxA) | [Originales \- 20 Exitos](https://open.spotify.com/album/3mHTWntPW5EGMkb54cn1PK) | 3:01 |
 | 50 | [Digno](https://open.spotify.com/track/0UqzSQKlgsGXxhsZK00SfL) | [Marco Barrientos](https://open.spotify.com/artist/4VYSLPSI9yb8qkUpKyVQSJ) | [Amanece \(Deluxe Edition\)](https://open.spotify.com/album/5iI8Rm9RDdCBRAKD8Lyk8J) | 7:24 |
 
-Snapshot ID: `MCw5YzFmODBhOTg4MzNjMjVhNThlZTkwNDNjNGQxMDQ0ZDEwYmFmYTBi`
+Snapshot ID: `MCxjNzE0ZDc2NWQ4OTcyMTBiMGQ0ZjY2ZDljYTA3YTU2MzEzOTlhYWMw`

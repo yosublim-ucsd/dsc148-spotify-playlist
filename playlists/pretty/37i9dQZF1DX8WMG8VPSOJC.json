@@ -1,12 +1,12 @@
 {
   "description": "Nothing but beautiful country love songs. ",
-  "num_followers": 1709257,
+  "num_followers": 1709461,
   "original_name": "Country Kind of Love",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiNmVmYTM4NWQwNjA1NTkzZjg1MjQzMWNhNDU3N2Q2YTQzOTZiODcy",
+  "snapshot_id": "MCw3Y2Y0ZDFmZmNhMGYxMjc2MzNhZWEyY2Y0Zjc1OTAxZjQxYjg1NGMy",
   "tracks": [
     {
       "added_at": "2024-02-23 05:00:00",
@@ -243,22 +243,6 @@
     {
       "added_at": "2024-02-23 05:00:00",
       "album": {
-        "name": "Rearview Town",
-        "url": "https://open.spotify.com/album/0m3ZCK4dSvyq6KUzEWdMhE"
-      },
-      "artists": [
-        {
-          "name": "Jason Aldean",
-          "url": "https://open.spotify.com/artist/3FfvYsEGaIb52QPXhg4DcH"
-        }
-      ],
-      "duration_ms": 193226,
-      "name": "You Make It Easy",
-      "url": "https://open.spotify.com/track/2TXtN9MoV308Y0z1HvyTfV"
-    },
-    {
-      "added_at": "2024-02-23 05:00:00",
-      "album": {
         "name": "Kane Brown (Deluxe Edition)",
         "url": "https://open.spotify.com/album/4UoCJkoqgUmaWMiWifq4vp"
       },
@@ -271,6 +255,22 @@
       "duration_ms": 179506,
       "name": "Heaven",
       "url": "https://open.spotify.com/track/1HXy5I3HTWq8OvxCn0z7G7"
+    },
+    {
+      "added_at": "2024-02-23 05:00:00",
+      "album": {
+        "name": "Rearview Town",
+        "url": "https://open.spotify.com/album/0m3ZCK4dSvyq6KUzEWdMhE"
+      },
+      "artists": [
+        {
+          "name": "Jason Aldean",
+          "url": "https://open.spotify.com/artist/3FfvYsEGaIb52QPXhg4DcH"
+        }
+      ],
+      "duration_ms": 193226,
+      "name": "You Make It Easy",
+      "url": "https://open.spotify.com/track/2TXtN9MoV308Y0z1HvyTfV"
     },
     {
       "added_at": "2024-02-23 05:00:00",
@@ -389,7 +389,7 @@
         }
       ],
       "duration_ms": 173533,
-      "name": "Never Til Now (feat. Brett Young)",
+      "name": "never til now",
       "url": "https://open.spotify.com/track/4232gJU5ljjFmKaPh0cKds"
     },
     {
@@ -623,22 +623,6 @@
     {
       "added_at": "2024-02-23 05:00:00",
       "album": {
-        "name": "Faith",
-        "url": "https://open.spotify.com/album/2lKDDrmx5aqyBRkho5ljn5"
-      },
-      "artists": [
-        {
-          "name": "Faith Hill",
-          "url": "https://open.spotify.com/artist/25NQNriVT2YbSW80ILRWJa"
-        }
-      ],
-      "duration_ms": 194306,
-      "name": "This Kiss",
-      "url": "https://open.spotify.com/track/5EYWGM3Ns3iYew8ws0FatB"
-    },
-    {
-      "added_at": "2024-02-23 05:00:00",
-      "album": {
         "name": "5 Foot 9",
         "url": "https://open.spotify.com/album/5CTNA7y4WYhLcCd8ijsnRr"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 189780,
       "name": "5 Foot 9",
       "url": "https://open.spotify.com/track/6AqwH2Y9FJwhUE2dCSkw1u"
+    },
+    {
+      "added_at": "2024-02-23 05:00:00",
+      "album": {
+        "name": "Faith",
+        "url": "https://open.spotify.com/album/2lKDDrmx5aqyBRkho5ljn5"
+      },
+      "artists": [
+        {
+          "name": "Faith Hill",
+          "url": "https://open.spotify.com/artist/25NQNriVT2YbSW80ILRWJa"
+        }
+      ],
+      "duration_ms": 194306,
+      "name": "This Kiss",
+      "url": "https://open.spotify.com/track/5EYWGM3Ns3iYew8ws0FatB"
     },
     {
       "added_at": "2024-02-23 05:00:00",
@@ -835,22 +835,6 @@
     {
       "added_at": "2024-02-23 05:00:00",
       "album": {
-        "name": "Glory Days",
-        "url": "https://open.spotify.com/album/0aRxuDLQsKlZMgz61rb3t8"
-      },
-      "artists": [
-        {
-          "name": "Gabby Barrett",
-          "url": "https://open.spotify.com/artist/6Iz3eq2aQGFf7TbGT2iahL"
-        }
-      ],
-      "duration_ms": 162733,
-      "name": "Glory Days",
-      "url": "https://open.spotify.com/track/7qaMlLPdwNiiU1Uiy1oAdO"
-    },
-    {
-      "added_at": "2024-02-23 05:00:00",
-      "album": {
         "name": "Love,Heartbreak, & Everything in Between",
         "url": "https://open.spotify.com/album/478FbS6cYoaEYreO0H4YOx"
       },
@@ -863,6 +847,22 @@
       "duration_ms": 198208,
       "name": "Somebody Like That",
       "url": "https://open.spotify.com/track/4K7wet87HnlWKi0CXWvg1i"
+    },
+    {
+      "added_at": "2024-02-23 05:00:00",
+      "album": {
+        "name": "Glory Days",
+        "url": "https://open.spotify.com/album/0aRxuDLQsKlZMgz61rb3t8"
+      },
+      "artists": [
+        {
+          "name": "Gabby Barrett",
+          "url": "https://open.spotify.com/artist/6Iz3eq2aQGFf7TbGT2iahL"
+        }
+      ],
+      "duration_ms": 162733,
+      "name": "Glory Days",
+      "url": "https://open.spotify.com/track/7qaMlLPdwNiiU1Uiy1oAdO"
     },
     {
       "added_at": "2024-02-23 05:00:00",

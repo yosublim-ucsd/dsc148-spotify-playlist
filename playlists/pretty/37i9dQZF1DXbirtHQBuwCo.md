@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbirtHQBuwCo.md) - [plain]
 
 > Enjoy trendy & chill Korean R&B music\. \(Cover: V\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 995,445 likes - 75 songs - 4 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 996,188 likes - 75 songs - 4 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,16 +72,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbirtHQBuwCo.md) - [plain]
 | 62 | [Horizon](https://open.spotify.com/track/2HfAb3qB9w3t9x5e7ZjX5T) | [JAEHYUN](https://open.spotify.com/artist/0qQI2kmsvSe2ex9k94T5vu) | [Horizon \- NCT LAB](https://open.spotify.com/album/6zArn0lGt7ZZTCRYvbNcFf) | 3:42 |
 | 63 | [Mood](https://open.spotify.com/track/0nEsLR5KTySCO9CfyC2yjg) | [DPR IAN](https://open.spotify.com/artist/2o8gT0fQmFxGNbowbdgeZe) | [Moodswings In To Order](https://open.spotify.com/album/7vp2iMEQzhNX4sEIUbHpiJ) | 3:02 |
 | 64 | [MOVIE](https://open.spotify.com/track/51kQvG4aghW17VSZKkfxTp) | [JUNNY](https://open.spotify.com/artist/0lgENJQUkqkDbpsTYEayOr) | [MOVIE](https://open.spotify.com/album/2yqOMxorfrYXbnVkjcaq5y) | 3:03 |
-| 65 | [Restless](https://open.spotify.com/track/4AHNi316rl3KI3hKIsdxZe) | [BIBI](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) | [LISTEN 035 Restless](https://open.spotify.com/album/5xDX8Uv4ojXg0ONDEcAMra) | 4:27 |
-| 66 | [HOLO](https://open.spotify.com/track/4BSluGpjdLQihMmKgHXMxp) | [LeeHi](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu) | [HOLO](https://open.spotify.com/album/5xq9sm0jGMMDu5LifpBBo1) | 2:58 |
+| 65 | [HOLO](https://open.spotify.com/track/4BSluGpjdLQihMmKgHXMxp) | [LeeHi](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu) | [HOLO](https://open.spotify.com/album/5xq9sm0jGMMDu5LifpBBo1) | 2:58 |
+| 66 | [Restless](https://open.spotify.com/track/4AHNi316rl3KI3hKIsdxZe) | [BIBI](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) | [LISTEN 035 Restless](https://open.spotify.com/album/5xDX8Uv4ojXg0ONDEcAMra) | 4:27 |
 | 67 | [Last](https://open.spotify.com/track/41r2Q4UEDdU9cktfgQETnx) | [Dvwn](https://open.spotify.com/artist/6WWUJGBY4ETAE22tRmgJ8b) | [Dawn Defibrillation, Vol.1](https://open.spotify.com/album/2RLFOTUVkm6hCb933QRvm7) | 3:55 |
 | 68 | [Know me](https://open.spotify.com/track/5bvVA6idKl1R38C5G4tuxC) | [GEMINI](https://open.spotify.com/artist/67IWlRdLy3UcfY3q968euj) | [Know me](https://open.spotify.com/album/4iV5wZtnTcuKrdhxb8wLVN) | 3:34 |
 | 69 | [Winter blossom \(feat\. Ashley Alisha & nobody likes you pat\)](https://open.spotify.com/track/5fTjaxacUujHQzT8qPHKoq) | [Dept](https://open.spotify.com/artist/48JtfAggQQpfUXQNxkGm5U), [Ashley Alisha](https://open.spotify.com/artist/63P6hjn73jNbnEFT0gKWKk), [nobody likes you pat](https://open.spotify.com/artist/7pxMZWBZWMMRH3USeGtu1I) | [Spring in Winter](https://open.spotify.com/album/6P7fxKRc6pVe7Ae21s0Re9) | 2:48 |
 | 70 | [Love Again](https://open.spotify.com/track/4dYODiAYvJHWQJtNganYCY) | [BAEKHYUN](https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl) | [Delight \- The 2nd Mini Album](https://open.spotify.com/album/75sPv82oaDKYjtuuS4l3Vc) | 3:25 |
 | 71 | [Wishing On You](https://open.spotify.com/track/6ulJY8ia7SDCPO4Lnge1Pu) | [JIHYO](https://open.spotify.com/artist/7F1iAHRYxR3MY7yAEuFqgL) | [ZONE](https://open.spotify.com/album/1GIkapvyAw5lwdNw66hI44) | 3:14 |
-| 72 | [Click Like \(Prod\. Crush\) \(Feat\. Paul Blanco\)](https://open.spotify.com/track/3uzUBVCNTdVnmJMumFA4Ce) | [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g), [Paul Blanco](https://open.spotify.com/artist/2fiGm496AG7ePURQiSSJIw) | [Street Woman Fighter2 \(SWF2\) Class Mission](https://open.spotify.com/album/3fifgTm6PcVhHE9v72nlCb) | 2:45 |
-| 73 | [Make Up \(Feat\. Crush\)](https://open.spotify.com/track/19zsSUEuJNzNA6eqInqyF9) | [Sam Kim](https://open.spotify.com/artist/4BBN286rBKyCWsSPq2cxYO), [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g) | [Sun And Moon](https://open.spotify.com/album/0AsQlY5YENtlvd8SLnrSxX) | 3:27 |
+| 72 | [Make Up \(Feat\. Crush\)](https://open.spotify.com/track/19zsSUEuJNzNA6eqInqyF9) | [Sam Kim](https://open.spotify.com/artist/4BBN286rBKyCWsSPq2cxYO), [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g) | [Sun And Moon](https://open.spotify.com/album/0AsQlY5YENtlvd8SLnrSxX) | 3:27 |
+| 73 | [Click Like \(Prod\. Crush\) \(Feat\. Paul Blanco\)](https://open.spotify.com/track/3uzUBVCNTdVnmJMumFA4Ce) | [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g), [Paul Blanco](https://open.spotify.com/artist/2fiGm496AG7ePURQiSSJIw) | [Street Woman Fighter2 \(SWF2\) Class Mission](https://open.spotify.com/album/3fifgTm6PcVhHE9v72nlCb) | 2:45 |
 | 74 | [Whenever it rains \(feat\. Nason & amin\)](https://open.spotify.com/track/6eQtDU7frMlvQp3jSUqInu) | [Dept](https://open.spotify.com/artist/48JtfAggQQpfUXQNxkGm5U), [Nason](https://open.spotify.com/artist/23pbSN0bdhuK8cpCg3dOQX), [amin](https://open.spotify.com/artist/05FbaV2QkbVQoHri4l491N) | [whenever it rains](https://open.spotify.com/album/7wq0JJCwDr7PlyPHv7Qgvq) | 3:05 |
 | 75 | [Your Dog Loves You \(Feat\. Crush\)](https://open.spotify.com/track/72cq3rZCIEYaq1TM8y5LBQ) | [Colde](https://open.spotify.com/artist/3VQDqjQ4wJyw8PzpGdlZpB), [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g) | [Your Dog Loves You](https://open.spotify.com/album/1oi1SJqMKp4jKrt3Paw6Tq) | 4:33 |
 
-Snapshot ID: `MCxiNGM1ZGQ4MDRhN2E2Y2U4NzFlNDQyZWYzOWI4NTQxNjAwNmFlMjA1`
+Snapshot ID: `MCwwYjRjMjRmMzhjNDNlMzY1MDJiNThmY2U4ZDAyNGMxYTM5YTdhNWUz`

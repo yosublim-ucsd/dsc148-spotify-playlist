@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbyFdjcWCZEI.md) - [plain]
 
 > Viento en la cara, pies en el agua y canciones tranqui para disfrutar del paseo.
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,265 likes - 50 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,559 likes - 50 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbyFdjcWCZEI.md) - [plain]
 | 35 | [Nena, dime algo.](https://open.spotify.com/track/3McO6jC6I8FT8wd5EJAHCA) | [Usted Señalemelo](https://open.spotify.com/artist/1a1v0OJC5GqtsLwzoqJm7j) | [Tripolar](https://open.spotify.com/album/6ud8dLSruWnM0i6qdIBHjS) | 2:36 |
 | 36 | [Pinta Nomá'](https://open.spotify.com/track/7hKeOkbGPGwek3SNY4NOZu) | [Jaze](https://open.spotify.com/artist/5HUVDs80ZZCRRB9grwWzZc) | [Pinta Nomá'](https://open.spotify.com/album/52BF3ZiODAxxGheAXWbx9E) | 2:32 |
 | 37 | [Soltar](https://open.spotify.com/track/7jVYyduhdu9cOGIISdxgVq) | [Dante Spinetta](https://open.spotify.com/artist/4Dcz7srpGyeBFxFpQTxlvC) | [Puñal](https://open.spotify.com/album/2g6dGngFLZpfAigXheqNiI) | 3:38 |
-| 38 | [Susurrito](https://open.spotify.com/track/7btTCfo8fyFOhqFXFdMi7b) | [Feli Colina](https://open.spotify.com/artist/4EmjPNMuvvKSEAyx7ibGrs) | [Feroza](https://open.spotify.com/album/3Ear2Vze1ZV4JDk4ZfWp2A) | 2:58 |
-| 39 | [Besos, Limón y Miel](https://open.spotify.com/track/1HKQJgGPPmRYUjMiLyV3Uo) | [Santi Muk](https://open.spotify.com/artist/0IaiZRhsEDKT58KYfU5isz) | [Besos, Limón y Miel](https://open.spotify.com/album/7yp09zLBnvbOMaC41E3McT) | 3:47 |
+| 38 | [Besos, Limón y Miel](https://open.spotify.com/track/1HKQJgGPPmRYUjMiLyV3Uo) | [Santi Muk](https://open.spotify.com/artist/0IaiZRhsEDKT58KYfU5isz) | [Besos, Limón y Miel](https://open.spotify.com/album/7yp09zLBnvbOMaC41E3McT) | 3:47 |
+| 39 | [Susurrito](https://open.spotify.com/track/7btTCfo8fyFOhqFXFdMi7b) | [Feli Colina](https://open.spotify.com/artist/4EmjPNMuvvKSEAyx7ibGrs) | [Feroza](https://open.spotify.com/album/3Ear2Vze1ZV4JDk4ZfWp2A) | 2:58 |
 | 40 | [Pa La Playita](https://open.spotify.com/track/4kAL6Cp1rKIQjZ6iGUpanE) | [Lauta](https://open.spotify.com/artist/5ELYwDwhy00ecTXhfsKWci), [Yami Safdie](https://open.spotify.com/artist/4RWJOoYwgF978LOn8Fainp), [Los Palmeras](https://open.spotify.com/artist/2Htm0q72SjGSmsy8EOIhRG), [Benja Torres](https://open.spotify.com/artist/2oYfJFUmjFi67Fn6sBIUY4) | [Pa La Playita](https://open.spotify.com/album/1bDDpIDQCKSB9J46d5fpcP) | 3:16 |
 | 41 | [Nunca Quise](https://open.spotify.com/track/4FcFl5vL9Sr5UiU0Qv39Kx) | [Ainda](https://open.spotify.com/artist/3eZXi1et2XpXPD7PoUDDzE) | [Animal](https://open.spotify.com/album/5mpZvqI6GZFC38N266RXqg) | 3:16 |
 | 42 | [yen3](https://open.spotify.com/track/4OjtJ3VuA51RYAFcr4O8vV) | [lisandro skar](https://open.spotify.com/artist/1lapQeH8MRBluX1sSUEgeg) | [yen3](https://open.spotify.com/album/2V3ZN5QG0b5TLBaP9sBmBy) | 3:06 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbyFdjcWCZEI.md) - [plain]
 | 49 | [Mírenla \(Acústico\)](https://open.spotify.com/track/3adqew32aN0DuInXYwwAzA) | [Ciro y los Persas](https://open.spotify.com/artist/2Eo4Yaukt9d6dnZrY5hQKi) | [Guerras \(Un Viaje en el Tiempo\)](https://open.spotify.com/album/7n628eTRFQ2E1Bp6hBjZYR) | 4:25 |
 | 50 | [Nuevo mundo \(feat\. Juancho Marqués\)](https://open.spotify.com/track/4hklliK34BQpPNsoag1JmL) | [Fuel Fandango](https://open.spotify.com/artist/1MbqzxZvHtdClX1cBKU2OG), [Juancho Marqués](https://open.spotify.com/artist/5JcO3FHEBbWTQMUHmWtU2g) | [Nuevo mundo \(feat\. Juancho Marqués\)](https://open.spotify.com/album/7vDANBArJLs5XXsgMoYnvC) | 3:20 |
 
-Snapshot ID: `MCwwOTM5YjZjNTg4NWE4ZWZkMDE2YmY3NDAyMmVkZDc1YjlhNWM0OGY4`
+Snapshot ID: `MCxjZTc4NzhiNDMzNzk4MDg3NDUwOWY0ZjI2OWUyZjgzM2NmZmFiN2Yz`

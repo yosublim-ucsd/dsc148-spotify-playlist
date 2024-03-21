@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7oMO417tEZs.md) - [plain]
 
 > gems by artists carving their own lane\. cover: KROY
 
-[Spotify](https://open.spotify.com/user/spotify) - 147,747 likes - 100 songs - 5 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 147,778 likes - 100 songs - 5 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7oMO417tEZs.md) - [plain]
 | 99 | [BANGUK](https://open.spotify.com/track/1GWaIEbioQsRV6Yaq8VwmO) | [KABEAUSHÉ](https://open.spotify.com/artist/0NNG4hBbXRp6HQ2EMEkYlj) | [BANGUK](https://open.spotify.com/album/4XCuAOqmIZOkmVd6izgCAu) | 3:06 |
 | 100 | [limbo](https://open.spotify.com/track/0JFUAuI5jrh7xHaY0kRFW1) | [ivri](https://open.spotify.com/artist/5EjK7aUvQ9LMNqc2zXiWLS) | [the star factory](https://open.spotify.com/album/3uOmDnsAd5bFVaOx6nsUTB) | 3:02 |
 
-Snapshot ID: `MCw3MTkxYzI4YmM0NDc2Mjg0ZDJiMWFjM2IyZTJmNmZiMDA1ZTI3NzZm`
+Snapshot ID: `MCw5NzI1NzdlMjY2MjM4YzU3NTdmNDQ3YTUzMjAxY2EyYzRhODUwODkw`

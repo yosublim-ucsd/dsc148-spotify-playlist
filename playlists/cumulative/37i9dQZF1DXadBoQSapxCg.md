@@ -4,11 +4,11 @@
 
 > Apaga a luz e deixa rolar.
 
-66 songs - 3 hr 40 min
+67 songs - 3 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [1 em 100](https://open.spotify.com/track/78rRWqZIwDD7f9yjsEHpD1) | [Cammie](https://open.spotify.com/artist/2je97RYlhed6uedJgINvY5) | [1 em 100](https://open.spotify.com/album/0KoCTcxxhSOwdrqD6j5hnq) | 3:09 | 2023-10-20 |  |
+| [1 em 100](https://open.spotify.com/track/78rRWqZIwDD7f9yjsEHpD1) | [Cammie](https://open.spotify.com/artist/2je97RYlhed6uedJgINvY5) | [1 em 100](https://open.spotify.com/album/0KoCTcxxhSOwdrqD6j5hnq) | 3:09 | 2023-10-20 | 2024-03-21 |
 | [100 por Hora](https://open.spotify.com/track/6UKVh2rVOOTcMI9Hsh8jX2) | [Bagua Records](https://open.spotify.com/artist/2450WxbFxHjnttFAv31zGk), [Agnes Nunes](https://open.spotify.com/artist/0OVOH98bZTn0lsdL7MclGw), [CMK](https://open.spotify.com/artist/6QmnOxsr8M6iD5Zqpb2src) | [100 por Hora](https://open.spotify.com/album/60ipg4FiWce9Deo68OWZsA) | 3:16 | 2023-06-16 |  |
 | [20 Ligações](https://open.spotify.com/track/6MvaRZ6JZgJuXz9b1CMB1y) | [Baco Exu do Blues](https://open.spotify.com/artist/78nr1pVnDR7qZH6QbVMYZf) | [QVVJFA?](https://open.spotify.com/album/5HE9DhP8b3m3LmShTreEvq) | 3:13 | 2023-06-16 |  |
 | [Aladdin](https://open.spotify.com/track/0Bb8wTRAiaiZYuYYELvVJA) | [Delacruz](https://open.spotify.com/artist/1MzXJ8AaHdidMAnjgcahS4), [JOK3R](https://open.spotify.com/artist/2YvHMMn0rYDvE3rs6dqzhq) | [Aladdin](https://open.spotify.com/album/2OX5dCrbWu0Yorv9vO2jZk) | 2:34 | 2023-10-20 |  |
@@ -51,6 +51,7 @@
 | [People](https://open.spotify.com/track/26b3oVLrRUaaybJulow9kz) | [Libianca](https://open.spotify.com/artist/7kjSuFGKhLm8b5qXoMhRkJ) | [People](https://open.spotify.com/album/5Hmh6N8oisrcuZKa8EY5dn) | 3:04 | 2023-06-16 |  |
 | [Planos](https://open.spotify.com/track/7eYEQnY6Lzh3Y8jSOt3xEF) | [BK](https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo), [Luccas Carlos](https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy), [Arit](https://open.spotify.com/artist/4y2z9wsKIMNWZQXt343ZZS) | [Gigantes](https://open.spotify.com/album/4W2IL1NXpcbsYmGdAjeJGg) | 3:39 | 2023-06-16 |  |
 | [Playlist Transante](https://open.spotify.com/track/2qCps28vIziXwOKmici1g7) | [Lary](https://open.spotify.com/artist/4qn9aKmT3CaRVPWnlTQCwX), [Choice](https://open.spotify.com/artist/4kqedTxyE5EDJWLLplYXpu) | [Playlist Transante](https://open.spotify.com/album/5kU7Es6oEU01pfXhkG9YBS) | 3:17 | 2023-06-16 |  |
+| [Pode Ficar](https://open.spotify.com/track/29XgcktAmOQTG62vI9UveQ) | [Kiaz](https://open.spotify.com/artist/6Ae0wz09vBFYZXJ2bJAKUl), [L7NNON](https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C), [Fresh Mind Co.](https://open.spotify.com/artist/3shBNuvo8XyNthoiWNaCYc) | [Pode Ficar](https://open.spotify.com/album/5l2i37UIL7h6gjipBKUNS8) | 3:16 | 2024-03-08 |  |
 | [Pode Ficar](https://open.spotify.com/track/6SIo6ZNtDG2Rq3aXuKZRtf) | [Kiaz](https://open.spotify.com/artist/6Ae0wz09vBFYZXJ2bJAKUl), [L7NNON](https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C), [Fresh Mind Co.](https://open.spotify.com/artist/3shBNuvo8XyNthoiWNaCYc) | [Pode Ficar](https://open.spotify.com/album/5FmcsJ7dZwLBbYPdYNhyMM) | 3:16 | 2023-06-16 | 2024-03-20 |
 | [Primeira Vez](https://open.spotify.com/track/1AlHn9GTOYVrY21RaHGyDG) | [Clau](https://open.spotify.com/artist/13A9x5VINTOaVnYxK4rbNQ) | [Primeira Vez](https://open.spotify.com/album/3TwEiVQN9lxBZ98rCdnpt6) | 3:13 | 2023-06-16 |  |
 | [Quero Mais](https://open.spotify.com/track/7tDghG79gNiQzE1wgLI8Fp) | [Altamira](https://open.spotify.com/artist/12xPPAGu03vdZR3AmWNIxZ), [Scarlett Wolf](https://open.spotify.com/artist/5hiwoYrfML1abtDBW5EG2p), [CJota](https://open.spotify.com/artist/5qvphJwi72TG198xn5VVYH) | [Quero Mais](https://open.spotify.com/album/46fGZIUMxdnL93QP6DJZCY) | 2:45 | 2023-11-24 |  |

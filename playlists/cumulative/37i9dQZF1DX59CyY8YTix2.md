@@ -4,7 +4,7 @@
 
 > 国内ロックシーンで活躍する女性アーティストたちを特集。Japanese women rock icons\. Cover: SCANDAL
 
-1,560 songs - 4 day 1 hr 14 min
+1,562 songs - 4 day 1 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -105,6 +105,7 @@
 | [Bleachers](https://open.spotify.com/track/1Iw0F6t71sem5PWGhPnKoN) | [For Tracy Hyde](https://open.spotify.com/artist/6D4CyQKY5fDsjK5qKNfqDy) | [Hotel Insomnia](https://open.spotify.com/album/5gUvrb0y7rmxfjnhhGDZKh) | 2:14 | 2022-12-13 | 2023-01-27 |
 | [Bloody Mary](https://open.spotify.com/track/1MQ2qrtlL8rByi9PlecX0H) | [Maica\_n](https://open.spotify.com/artist/5MDud7grDjx8ISAmWjLFeM) | [Bloody Mary](https://open.spotify.com/album/2w0SXIVuRUC3P5leDHdGDQ) | 4:36 | 2022-06-02 | 2022-07-29 |
 | [bloom](https://open.spotify.com/track/1f37xjUqPlrDvA6MdQoAis) | [ネクライトーキー](https://open.spotify.com/artist/45ew0KWgCA7evVgCydrZws) | [bloom](https://open.spotify.com/album/3M1wHslRzr0CVK4oYyCV0K) | 3:17 | 2023-11-21 |  |
+| [Blue](https://open.spotify.com/track/05nERL83gmtoNchjEfLkTf) | [mukeikaku](https://open.spotify.com/artist/13EKu7UHAU6sAqlIoRFQJw) | [Blue](https://open.spotify.com/album/43LFKJvugeh2QDqWMxbPqI) | 4:21 | 2024-03-19 |  |
 | [Blue boat](https://open.spotify.com/track/3zMeD36TpLGKtRlXvNLR4G) | [好芻](https://open.spotify.com/artist/2qeDcLCQcUBQWkit80w0aK) | [Blue boat](https://open.spotify.com/album/0xk0DCPK1OzikB6cMKX9Ja) | 3:48 | 2022-07-14 | 2022-07-20 |
 | [Blue Hawaii](https://open.spotify.com/track/72ElUNJsPAoVPBzaJ1sDKF) | [Tota](https://open.spotify.com/artist/6RptmPevPKd4YVK1VRpK3F) | [Blue Hawaii](https://open.spotify.com/album/2q3X7QPG8bwJH6PWTnkYR6) | 3:38 | 2022-08-04 | 2022-08-10 |
 | [Blue Hole](https://open.spotify.com/track/0nQu8qwZKAhfrbnGidJTDR) | [p/asma](https://open.spotify.com/artist/6Q1YKEC7u7P5Oc2ElTecR1) | [Color of Water](https://open.spotify.com/album/0jiePMk8x0QuV3q3tWJPig) | 4:59 | 2023-12-12 | 2024-01-10 |
@@ -1088,13 +1089,14 @@
 | [ファジーネーブル](https://open.spotify.com/track/09zZj5NDYmUP00XByabgwS) | [Conton Candy](https://open.spotify.com/artist/6FuFgQvi3GNYr4yDuh4Fxq) | [charm](https://open.spotify.com/album/4dw6Vqh0YknvgzKcfyKbIZ) | 3:57 | 2023-09-20 | 2023-12-06 |
 | [ファジーネーブル](https://open.spotify.com/track/7gUuCeZLFynSj28GCjoiGG) | [Conton Candy](https://open.spotify.com/artist/6FuFgQvi3GNYr4yDuh4Fxq) | [ファジーネーブル](https://open.spotify.com/album/4XCDzm6lz0QvcTVozUmNHe) | 3:57 | 2023-05-09 | 2023-09-21 |
 | [ファンタジー](https://open.spotify.com/track/2jhVNef2cwn9fWaltdNUIx) | [Cocco](https://open.spotify.com/artist/3SBG08XwrIxXSPTxsbM0b6) | [ファンタジー](https://open.spotify.com/album/5M8u7W7hux33amwQ8ltxii) | 4:50 | 2023-06-27 | 2023-06-29 |
-| [ファンファーレ](https://open.spotify.com/track/4nq80DMRmRZRBW12tN3rmS) | [SCANDAL](https://open.spotify.com/artist/7hTZwqQILVH4bAbN67CeEz) | [LUMINOUS](https://open.spotify.com/album/3Z4uX6UeTkCl4g2g0XqXsh) | 3:48 | 2024-03-19 |  |
+| [ファンファーレ](https://open.spotify.com/track/42IZvenX9kmevVWxjZLNwV) | [SCANDAL](https://open.spotify.com/artist/7hTZwqQILVH4bAbN67CeEz) | [LUMINOUS](https://open.spotify.com/album/7aJkW9YMx2gzLTMQcEqeR0) | 3:48 | 2024-03-19 |  |
+| [ファンファーレ](https://open.spotify.com/track/4nq80DMRmRZRBW12tN3rmS) | [SCANDAL](https://open.spotify.com/artist/7hTZwqQILVH4bAbN67CeEz) | [LUMINOUS](https://open.spotify.com/album/3Z4uX6UeTkCl4g2g0XqXsh) | 3:48 | 2024-03-19 | 2024-03-21 |
 | [フィルムカメラ](https://open.spotify.com/track/1hYutnGc0XBiUoMlzipK1p) | [Blooming Bungei](https://open.spotify.com/artist/2IPuwNd2QsC2AXZ9gBW7d1) | [破壊的価値創造](https://open.spotify.com/album/7AlXmLUiPhn3vK6XCwyapY) | 4:41 | 2023-09-19 | 2023-09-21 |
 | [フェイバリットボーイ](https://open.spotify.com/track/0phleiL5NgESnjM2Ch0frb) | [SHISHAMO](https://open.spotify.com/artist/6MGHit7sV38BhpChZYByFv) | [SHISHAMO 6](https://open.spotify.com/album/4WWffNfS89ASWOPRbJErja) | 4:27 | 2023-02-03 | 2023-02-05 |
 | [フェイバリットボーイ](https://open.spotify.com/track/4S5zxn5xMQsNjnDNLGIWuD) | [SHISHAMO](https://open.spotify.com/artist/6MGHit7sV38BhpChZYByFv) | [恋を知っているすべてのあなたへ](https://open.spotify.com/album/6KE5rQedfMgEGFShffAQDd) | 4:29 | 2023-02-03 | 2023-03-03 |
 | [フランボワーズ・パルフェのために \- For Tracy Hyde ver.](https://open.spotify.com/track/4l262bR6NZZNI85OoL2sBL) | [For Tracy Hyde](https://open.spotify.com/artist/6D4CyQKY5fDsjK5qKNfqDy) | [フランボワーズ・パルフェのために](https://open.spotify.com/album/7dYn1Qg44ssT772rhVjlKz) | 3:31 | 2022-06-14 | 2022-06-29 |
 | [フランボワーズ・パルフェのために \- RAY ver.](https://open.spotify.com/track/02Tws9cin3ysmqFNzERZvQ) | [For Tracy Hyde](https://open.spotify.com/artist/6D4CyQKY5fDsjK5qKNfqDy), [RAY](https://open.spotify.com/artist/11XXERdBUPHGsCBbpyaMwz) | [フランボワーズ・パルフェのために](https://open.spotify.com/album/7coHxqWdl3yZsAwxWworPL) | 3:31 | 2022-06-30 | 2022-07-02 |
-| [ブルー](https://open.spotify.com/track/797vLBTS5VWXKbqz3LLTcA) | [mukeikaku](https://open.spotify.com/artist/13EKu7UHAU6sAqlIoRFQJw) | [ブルー](https://open.spotify.com/album/5AzlrPPAqQAkrmhtRGq2I9) | 4:21 | 2024-03-19 |  |
+| [ブルー](https://open.spotify.com/track/797vLBTS5VWXKbqz3LLTcA) | [mukeikaku](https://open.spotify.com/artist/13EKu7UHAU6sAqlIoRFQJw) | [ブルー](https://open.spotify.com/album/5AzlrPPAqQAkrmhtRGq2I9) | 4:21 | 2024-03-19 | 2024-03-21 |
 | [ブルーボネット](https://open.spotify.com/track/6TY5b9l9HaUGgfJhtTwQWR) | [湯冷めラジオ](https://open.spotify.com/artist/1Pjvr24b1tkJjyMRcyzF92) | [ブルーボネット](https://open.spotify.com/album/1VOZ1mcQ6aSlyAZeetVhgA) | 3:45 | 2023-12-19 | 2024-01-10 |
 | [ブーツを鳴らして](https://open.spotify.com/track/4W2KhLs5rhIbo73x1hw48L) | [SHISHAMO](https://open.spotify.com/artist/6MGHit7sV38BhpChZYByFv) | [ブーツを鳴らして \- EP](https://open.spotify.com/album/7jdLRIgpAKYnDJjuR6vkFX) | 5:57 | 2022-05-26 | 2022-07-11 |
 | [プラズマクラシックミュージック](https://open.spotify.com/track/48cFdkt692jgYl01sKFjDY) | [\(yoru to\)SAMPO](https://open.spotify.com/artist/3LAWK80zCJtDxXGBa0BB1n) | [プラズマクラシックミュージック](https://open.spotify.com/album/1pqo0amavweAPnPr93EnDO) | 3:34 | 2024-01-09 | 2024-01-17 |
@@ -1245,7 +1247,7 @@
 | [君はいなせなガール](https://open.spotify.com/track/3QFzoUHBlSLAA7RMR4umgU) | [ネクライトーキー](https://open.spotify.com/artist/45ew0KWgCA7evVgCydrZws), [日本松 ひとみ](https://open.spotify.com/artist/2HewoxIYwiA5DoOk4rFgNc) | [君はいなせなガール](https://open.spotify.com/album/0a8wJacfTpSenRSb4TCrNC) | 4:22 | 2022-06-07 | 2022-07-24 |
 | [吸って、吐いて](https://open.spotify.com/track/1jDkBxbUhmgQ0MJ8N2Sjcy) | [PEDRO](https://open.spotify.com/artist/3lIKnWNb3Z1Q71eZszY3p0) | [後日改めて伺います](https://open.spotify.com/album/5j9v6cG9gytC1hmNj0Zmmb) | 3:44 | 2022-06-16 | 2022-07-16 |
 | [命短し食せよオコメ](https://open.spotify.com/track/330cZ4f0wqRsYY4Wfj7w8O) | [輪廻](https://open.spotify.com/artist/3KePD29FOQughZmXqHlt0v) | [命短し食せよオコメ](https://open.spotify.com/album/2rsLQl4wiTNoRJNNcnMIHI) | 3:43 | 2023-02-16 | 2023-02-22 |
-| [嘘つき](https://open.spotify.com/track/73gJibteNALC9uRzG2BQcT) | [名無し之太郎](https://open.spotify.com/artist/2EYH8GbUJkqIhNdR1EcjsI) | [嘘つき](https://open.spotify.com/album/3pLLHOC633736VHNrPZyUu) | 3:46 | 2024-03-19 |  |
+| [嘘つき](https://open.spotify.com/track/73gJibteNALC9uRzG2BQcT) | [Nanashi no Taro](https://open.spotify.com/artist/32xxJA5U8ot0QZPDllZ1po) | [嘘つき](https://open.spotify.com/album/3pLLHOC633736VHNrPZyUu) | 3:46 | 2024-03-19 |  |
 | [嘘つきパンダ](https://open.spotify.com/track/5lAMp0Hi8sWr1uLsBaYWXO) | [Grape Record](https://open.spotify.com/artist/0LYnBypni53fNQwSqkMfll) | [嘘つきパンダ](https://open.spotify.com/album/1r0KOMCGbyPcMNOATw7UT5) | 3:53 | 2022-06-07 | 2022-07-12 |
 | [四月](https://open.spotify.com/track/20K0Ga3WiWrtL0XMsu64I8) | [可愛い連中](https://open.spotify.com/artist/7BGAnJBBk0Qgd8vQFwTgaY) | [四月](https://open.spotify.com/album/62htq33Qcy4DJ7TBPurZ5S) | 3:48 | 2022-06-30 | 2022-07-02 |
 | [回転してから考える](https://open.spotify.com/track/7w69JQtytnNBDltP8LBqgl) | [Haku.](https://open.spotify.com/artist/5qJEtz7aC2nwA9LsjfkGVM) | [僕らじゃなきゃダメになって](https://open.spotify.com/album/0FNYLT5Un2W0XpLx3YQ86s) | 4:13 | 2023-08-08 | 2023-08-18 |

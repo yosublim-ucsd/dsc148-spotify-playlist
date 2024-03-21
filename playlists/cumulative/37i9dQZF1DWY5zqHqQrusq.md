@@ -4,11 +4,12 @@
 
 > Chill, take a long walk and clear your mind
 
-77 songs - 4 hr 20 min
+80 songs - 4 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [Aibu](https://open.spotify.com/track/0Jq1RbXxclz844TLHUUi0E) | [Bensoul](https://open.spotify.com/artist/09vo12hHajgG2cZzq0rGmE), [Bien](https://open.spotify.com/artist/2zhossaaVN2pXg5p8o101X) | [Aibu](https://open.spotify.com/album/0Y0he9QG0p0jFWcM9ZahzC) | 2:17 | 2024-01-11 |  |
+| [Aibu](https://open.spotify.com/track/0Jq1RbXxclz844TLHUUi0E) | [Bensoul](https://open.spotify.com/artist/09vo12hHajgG2cZzq0rGmE), [Bien](https://open.spotify.com/artist/2zhossaaVN2pXg5p8o101X) | [Aibu](https://open.spotify.com/album/0Y0he9QG0p0jFWcM9ZahzC) | 2:17 | 2024-01-11 | 2024-03-21 |
+| [Aibu \(feat\. Bien\)](https://open.spotify.com/track/1cBRn1Gp5RbFi4sVDN3v1A) | [Bensoul](https://open.spotify.com/artist/09vo12hHajgG2cZzq0rGmE), [Bien](https://open.spotify.com/artist/2zhossaaVN2pXg5p8o101X) | [Aibu \(feat\. Bien\)](https://open.spotify.com/album/6W4ZbKDYOh7ZPB4KGm5iZ0) | 2:17 | 2024-03-08 |  |
 | [Alive Again](https://open.spotify.com/track/3wrUpaoR6jm1Z99kxuUyGk) | [Sandra Solit](https://open.spotify.com/artist/040yz8zntFdRJqeOynxEBl) | [Alive Again](https://open.spotify.com/album/6q4Lu34c463AMK6sV4IgPG) | 3:36 | 2022-11-11 | 2023-10-21 |
 | [Ambia](https://open.spotify.com/track/5DTLXU7HQ9PhNm6w7l8eZa) | [Billy Black](https://open.spotify.com/artist/6znLUPGYNDVG3VoMH5UXUU) | [Ambia](https://open.spotify.com/album/6Wg6JpSlFn2VdeFFQj5xzn) | 2:16 | 2022-11-11 |  |
 | [Asali](https://open.spotify.com/track/0RDjgKJuFxZVUk93ov59o6) | [Ethan](https://open.spotify.com/artist/16VZMbA7y5gwrxNG0q3wC1), [Watendawili](https://open.spotify.com/artist/0q5lwUUiJEjoNVtHQv1jdn) | [Love Language](https://open.spotify.com/album/1vF0nqkfedSTlQrXh0Feoa) | 3:03 | 2022-11-11 |  |
@@ -43,7 +44,8 @@
 | [Like You](https://open.spotify.com/track/5H3ej9j2jqgGEN6qIXTnEq) | [Ochiko](https://open.spotify.com/artist/33hRHDCTA20GjDaJaCIEXi), [Kinoti](https://open.spotify.com/artist/45KLKfGTZLK4BUZAv2l5sm) | [Wuodh Hera](https://open.spotify.com/album/4n8DWVD48VkPBhcbZ4mU1U) | 3:43 | 2022-11-11 |  |
 | [Lock me](https://open.spotify.com/track/69Pv8rfP3biRUE6HZvy4A4) | [X.O](https://open.spotify.com/artist/2zu7sut23i4vR8OZPAxWyJ) | [Lock me](https://open.spotify.com/album/4xPEootVjy1AmsVr6vYZkL) | 2:56 | 2022-11-11 |  |
 | [Love Letters](https://open.spotify.com/track/6OM5yjhSYR68YwS4fADK3O) | [Maya Amolo](https://open.spotify.com/artist/6e6TdjEmxMCM5CFNrEfX3H), [Xenia Manasseh](https://open.spotify.com/artist/2J4IvVbi2h1wB2A0p5kd86) | [Asali \(Sweeter\)](https://open.spotify.com/album/0aReDNKvPUMsV5OchEnX4R) | 2:38 | 2023-10-20 |  |
-| [Mae Wendi](https://open.spotify.com/track/6YPaq5MbxQDKxnODtg4CKy) | [Nviiri The Storyteller](https://open.spotify.com/artist/7xPDTxQrpZPvvI0LzuO73p) | [Kitenge](https://open.spotify.com/album/0s9GBxIYoI56h8XlNbY4ke) | 3:43 | 2022-11-11 |  |
+| [Mae Wendi](https://open.spotify.com/track/4hbmPkeauQBw3RnxH45udP) | [Nviiri The Storyteller](https://open.spotify.com/artist/7xPDTxQrpZPvvI0LzuO73p) | [Kitenge](https://open.spotify.com/album/68ZCghHJcYTcaQ7vuxxFyP) | 3:43 | 2024-03-08 |  |
+| [Mae Wendi](https://open.spotify.com/track/6YPaq5MbxQDKxnODtg4CKy) | [Nviiri The Storyteller](https://open.spotify.com/artist/7xPDTxQrpZPvvI0LzuO73p) | [Kitenge](https://open.spotify.com/album/0s9GBxIYoI56h8XlNbY4ke) | 3:43 | 2022-11-11 | 2024-03-21 |
 | [Moonlight](https://open.spotify.com/track/3o89M98TILkeQHc6ZqJ934) | [Jinku](https://open.spotify.com/artist/3gkk18CqFxsmkZkGyYZKqo), [See Through Solomon](https://open.spotify.com/artist/5ViXrpkJCiKJxiv4rfd4r7), [KHAN KHALII](https://open.spotify.com/artist/4mBzJ4dZWEdhB7BK3OBqIN) | [Moonlight](https://open.spotify.com/album/3ngn7z6qYJxVIsUu9PgPiE) | 2:55 | 2022-11-11 |  |
 | [Nipende](https://open.spotify.com/track/6DgMQzle107AN4oBX5Uhcz) | [Zaituni Wambui](https://open.spotify.com/artist/5SFfPUY3JPgaOzSiqdm4Me) | [Nipende](https://open.spotify.com/album/06DbgiBmUM7eSQiAk2cx55) | 5:15 | 2024-01-11 |  |
 | [Nitangoja](https://open.spotify.com/track/21eRcBcsRtuHjL2jSeMu7A) | [Kinoti](https://open.spotify.com/artist/45KLKfGTZLK4BUZAv2l5sm) | [Nitangoja](https://open.spotify.com/album/1gKLgM7RsLrCf3rx3Vh2ex) | 2:38 | 2022-11-11 |  |
@@ -70,7 +72,8 @@
 | [Sometimes](https://open.spotify.com/track/1qOVb7IpU5Mp0vM7HVVA5V) | [Njoki Karu](https://open.spotify.com/artist/0pGewSIX8FwwBqZLsbDk7F) | [Tawasifu Ya Moyo](https://open.spotify.com/album/0BPwyOsMg7lQrdxWoy4YLv) | 3:52 | 2022-11-11 |  |
 | [Sometimes \- slowed+reverb remix](https://open.spotify.com/track/1Wai4S6wD7jE9vjrZW9Ydw) | [Mist'riii](https://open.spotify.com/artist/2ET4fikSmaataNBz8cJM4e) | [Sometimes \(slowed+reverb remix\)](https://open.spotify.com/album/05Lhrlmn5toScqQhr4pRXc) | 4:23 | 2022-11-11 |  |
 | [Southwards](https://open.spotify.com/track/0ufIj2swMeqQksU75dVSUJ) | [Xenia Manasseh](https://open.spotify.com/artist/2J4IvVbi2h1wB2A0p5kd86), [Tay Iwar](https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo) | [LOVE / HATE Pt\. 1](https://open.spotify.com/album/1Fv4ReFcbmh4P1tGe96lvC) | 2:24 | 2023-09-15 |  |
-| [Sugar Rush](https://open.spotify.com/track/5v8bHru9HBHysftNF2orLb) | [Bensoul](https://open.spotify.com/artist/09vo12hHajgG2cZzq0rGmE) | [Medicine](https://open.spotify.com/album/4URmrv5RB7dI5VKHiCI0FV) | 3:49 | 2022-11-11 |  |
+| [Sugar Rush](https://open.spotify.com/track/3JJ6IAPfrrJPV2fOGQZYGl) | [Bensoul](https://open.spotify.com/artist/09vo12hHajgG2cZzq0rGmE) | [Medicine](https://open.spotify.com/album/1UqJeAHLAQh2g5M8QCdei5) | 3:49 | 2024-03-08 |  |
+| [Sugar Rush](https://open.spotify.com/track/5v8bHru9HBHysftNF2orLb) | [Bensoul](https://open.spotify.com/artist/09vo12hHajgG2cZzq0rGmE) | [Medicine](https://open.spotify.com/album/4URmrv5RB7dI5VKHiCI0FV) | 3:49 | 2022-11-11 | 2024-03-21 |
 | [Sunshine](https://open.spotify.com/track/47jeYgNLyaN1pBLQrVE6x0) | [Muthaka](https://open.spotify.com/artist/1y2NzUCGrOaUPBZhhyUPcQ) | [Sunshine](https://open.spotify.com/album/3abCYOOplfgQSvt5vrOF29) | 3:28 | 2022-11-11 | 2023-04-29 |
 | [Tamu](https://open.spotify.com/track/4xu6oHkvaV57HvAP8Zdhf5) | [Zaituni Wambui](https://open.spotify.com/artist/5SFfPUY3JPgaOzSiqdm4Me) | [Tamu](https://open.spotify.com/album/4PDq2lzF6SAZL6ebC99mUg) | 3:01 | 2024-02-01 |  |
 | [The Oasis on Mbaazi Street](https://open.spotify.com/track/6ncAWPMP3cxAmiwN6SI8ca) | [Lisa Oduor\-Noah](https://open.spotify.com/artist/2lzhfTv334wDq7W7tFyJHa) | [Lisa Oduor\-Noah](https://open.spotify.com/album/01OpRABjuFQgRtj4DdT55m) | 2:53 | 2022-11-11 | 2023-07-05 |

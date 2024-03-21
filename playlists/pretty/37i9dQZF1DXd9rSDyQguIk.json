@@ -1,12 +1,12 @@
 {
   "description": "Nothing but classic blues tracks",
-  "num_followers": 1239523,
+  "num_followers": 1239932,
   "original_name": "Blues Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyM2JmZWQ1ZTU1ZThhOWM5OWJiYzkzNDdhOTBlODMyYjExZWJmMTUx",
+  "snapshot_id": "MCxkODdjZWE2MTdkMDAzZTU5OTMzMjJkNmRhOTQ0YTZlNzY2OWVlMjNl",
   "tracks": [
     {
       "added_at": "2020-01-15 21:29:46",
@@ -887,22 +887,6 @@
     {
       "added_at": "2020-01-15 21:29:46",
       "album": {
-        "name": "Genuine Houserocking Music",
-        "url": "https://open.spotify.com/album/0QYVlYhJlKUteRXnfqZwhe"
-      },
-      "artists": [
-        {
-          "name": "Hound Dog Taylor",
-          "url": "https://open.spotify.com/artist/737qPoiQQkeuIzuJy54aK4"
-        }
-      ],
-      "duration_ms": 210493,
-      "name": "Ain't Got Nobody",
-      "url": "https://open.spotify.com/track/4lbqUtqgX3dITgYJMBjCDS"
-    },
-    {
-      "added_at": "2020-01-15 21:29:46",
-      "album": {
         "name": "The Essential Magic Sam: The Cobra and Chief Recordings 1957-1961",
         "url": "https://open.spotify.com/album/5pwsqaIx7UFtjXU3HiF1Nv"
       },
@@ -915,6 +899,22 @@
       "duration_ms": 176186,
       "name": "All Your Love",
       "url": "https://open.spotify.com/track/73GEVn1tqk9bn0KbtWsiqj"
+    },
+    {
+      "added_at": "2020-01-15 21:29:46",
+      "album": {
+        "name": "Genuine Houserocking Music",
+        "url": "https://open.spotify.com/album/0QYVlYhJlKUteRXnfqZwhe"
+      },
+      "artists": [
+        {
+          "name": "Hound Dog Taylor",
+          "url": "https://open.spotify.com/artist/737qPoiQQkeuIzuJy54aK4"
+        }
+      ],
+      "duration_ms": 210493,
+      "name": "Ain't Got Nobody",
+      "url": "https://open.spotify.com/track/4lbqUtqgX3dITgYJMBjCDS"
     },
     {
       "added_at": "2020-01-15 21:29:46",
@@ -999,22 +999,6 @@
     {
       "added_at": "2020-01-15 21:29:46",
       "album": {
-        "name": "Two Bugs and a Roach",
-        "url": "https://open.spotify.com/album/4IWaRuc8RGDetpOm5Bv4Ho"
-      },
-      "artists": [
-        {
-          "name": "Earl Hooker",
-          "url": "https://open.spotify.com/artist/3Ev1WS21x5Jav9j214A19O"
-        }
-      ],
-      "duration_ms": 259760,
-      "name": "Two Bugs and a Roach",
-      "url": "https://open.spotify.com/track/79lwbvYgFFw3eNbBx4bBRw"
-    },
-    {
-      "added_at": "2020-01-15 21:29:46",
-      "album": {
         "name": "The Essential Otis Rush",
         "url": "https://open.spotify.com/album/2xRWG3ikjf8O1tiQxJCW68"
       },
@@ -1027,6 +1011,22 @@
       "duration_ms": 163440,
       "name": "Double Trouble",
       "url": "https://open.spotify.com/track/7pzDaHQx6WFWtdx9PLPxcx"
+    },
+    {
+      "added_at": "2020-01-15 21:29:46",
+      "album": {
+        "name": "Two Bugs and a Roach",
+        "url": "https://open.spotify.com/album/4IWaRuc8RGDetpOm5Bv4Ho"
+      },
+      "artists": [
+        {
+          "name": "Earl Hooker",
+          "url": "https://open.spotify.com/artist/3Ev1WS21x5Jav9j214A19O"
+        }
+      ],
+      "duration_ms": 259760,
+      "name": "Two Bugs and a Roach",
+      "url": "https://open.spotify.com/track/79lwbvYgFFw3eNbBx4bBRw"
     },
     {
       "added_at": "2018-03-29 19:44:07",

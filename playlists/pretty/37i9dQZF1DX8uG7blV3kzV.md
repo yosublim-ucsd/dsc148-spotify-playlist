@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8uG7blV3kzV.md) - [plain]
 
 > The hottest in hip\-hop, R&B and Afrobeats\. Cover: Burna Boy
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,374 likes - 50 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,375 likes - 50 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8uG7blV3kzV.md) - [plain]
 | 49 | [You Wish](https://open.spotify.com/track/0aoLgGE9S9qMjIGtTgpnNd) | [Flyana Boss](https://open.spotify.com/artist/0CLW5934vy2XusynS1px1S) | [You Wish + Trashboi](https://open.spotify.com/album/04xgq5VLo2p35E09kdKCWv) | 2:00 |
 | 50 | [This Is](https://open.spotify.com/track/2zuDMKJ2rSgCMtJknUJBZ9) | [Ella Mai](https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap) | [Heart On My Sleeve \(Deluxe Edition\)](https://open.spotify.com/album/5PSR9tquibfWRiWVSkn6qD) | 3:26 |
 
-Snapshot ID: `MCw5MDkzYTRhNTgyYTFjZDc0M2ViYmQyNjA4ZmI0ZjkzNGY4MjI4MzM1`
+Snapshot ID: `MCw4ZDVkNWU0NTNiNmQ1ZGMxMGIwZWVmNzA5Yjk1ZWQ5OTJjODZjZDM2`

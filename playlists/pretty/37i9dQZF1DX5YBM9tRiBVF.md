@@ -10,7 +10,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5YBM9tRiBVF.md) - [plain]
 |---|---|---|---|---|
 | 1 | [lavender salt](https://open.spotify.com/track/2zK2DTRbhHUYc7YpOlTZbk) | [Emma Bale](https://open.spotify.com/artist/1vlR56ECqMAOA2mUTcTgPV) | [3.1](https://open.spotify.com/album/1MiGKANNh5p67l9C8dRMh9) | 4:01 |
 | 2 | [Make You Stay](https://open.spotify.com/track/5sSn9nZvBBGCdFDdqu8AgJ) | [Archie X](https://open.spotify.com/artist/7iHfb5ODaqKyprp2DBEXvU) | [Make You Stay](https://open.spotify.com/album/3EDaystjZEdlidJk6dvkmU) | 3:29 |
-| 3 | [Aimée pour de vrai \(Héléna\)](https://open.spotify.com/track/5peFNKKLZUaOYE0c3qZNE1) | [Star Academy](https://open.spotify.com/artist/0SkR0pnP9oQ3ghG9juH9hy) | [L'album de la promo 2023](https://open.spotify.com/album/7nwA9NO0wjD68jgpeimgcC) | 3:08 |
+| 3 | [Aimée pour de vrai](https://open.spotify.com/track/5peFNKKLZUaOYE0c3qZNE1) | [Helena](https://open.spotify.com/artist/6M0dlWzmJ9Z81JM2WpHbsC), [Star Academy](https://open.spotify.com/artist/0SkR0pnP9oQ3ghG9juH9hy) | [L'album de la promo 2023](https://open.spotify.com/album/7nwA9NO0wjD68jgpeimgcC) | 3:08 |
 | 4 | [Say You Won't Let Go](https://open.spotify.com/track/7jy2xnBUlqmMGKjN4WC8Eg) | [Jessica Bouhez](https://open.spotify.com/artist/4ezdzoGzyeBw0tekkqSyQM) | [Letters To Lovers](https://open.spotify.com/album/1BE2VEWmKmjhyOeEzmLYYh) | 3:32 |
 | 5 | [Het Beste Moet Nog Komen](https://open.spotify.com/track/3asgBPpl4Oeo9GRpFeo8ML) | [Pommelien Thijs](https://open.spotify.com/artist/3zGV7t4BDmYZBLVA24487b) | [Het Beste Moet Nog Komen](https://open.spotify.com/album/5Qol9Gz8U7q6VXMvoYUXDI) | 3:05 |
 | 6 | [Night & Day](https://open.spotify.com/track/5j041p2jGJrjPNm8k94Ngn) | [Margo Raats](https://open.spotify.com/artist/52XA4Ccc0k7wMeLkdEsju9) | [Night & Day](https://open.spotify.com/album/0bHfEkKRZTYDu2kaLzNcA0) | 3:29 |
@@ -44,4 +44,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5YBM9tRiBVF.md) - [plain]
 | 34 | [Love Is Blind](https://open.spotify.com/track/5BapW8rupZnFZVr1LbXOwN) | [ZITA](https://open.spotify.com/artist/05QNFSNYfQhYxUJUoFtEEk) | [Love Is Blind](https://open.spotify.com/album/7u84uWtWk896JeSn4KgHZR) | 3:10 |
 | 35 | [The Right Words](https://open.spotify.com/track/6kHeWaJ0nSpOIwOx2HNg7R) | [Alice on the roof](https://open.spotify.com/artist/4M07FSqpxgqLfCOaX1WUei) | [The Right Words](https://open.spotify.com/album/42QpFcdpPNsaFUc2kvOseG) | 3:22 |
 
-Snapshot ID: `MCw0MTJiNzFmMjMwYzk2NjczNGIzNjE2ZDI0NGM0OGE5OTk4ZTlhMjNk`
+Snapshot ID: `MCw2MjRiZGI5OTZiMWMzODVhZDIyYTYyYjQ0MzlmYWFhYThhMjEyNzlk`

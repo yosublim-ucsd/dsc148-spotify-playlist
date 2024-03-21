@@ -1,7 +1,7 @@
 {
-  "2024-03-20": 35570,
+  "2024-03-21": 35581,
   "date_first_scraped": "2022-03-28",
-  "description": "Top English songs from Asia. Cover: Kamakshi Khanna",
+  "description": "Top English songs from Asia. Cover: Derek & The Cats, Frizzell D'souza",
   "name": "IndiEnglish",
   "tracks": [
     {
@@ -1221,6 +1221,28 @@
       "duration_ms": 197007,
       "name": "DFWM",
       "url": "https://open.spotify.com/track/6356OPdyCg97sRoBnYyTwe"
+    },
+    {
+      "album": {
+        "name": "Diana",
+        "url": "https://open.spotify.com/album/4V59Ls4Cy5H2UvWEjxnhv0"
+      },
+      "artists": [
+        {
+          "name": "Derek & The Cats",
+          "url": "https://open.spotify.com/artist/1c05tPqGrM6uVvYTzYySW2"
+        },
+        {
+          "name": "Frizzell D'souza",
+          "url": "https://open.spotify.com/artist/17j8WfojaUlIDrnDG7IfIQ"
+        }
+      ],
+      "date_added": "2024-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246022,
+      "name": "Diana",
+      "url": "https://open.spotify.com/track/2EBvWkB4H1BIqiAfbiPnWX"
     },
     {
       "album": {
@@ -4981,7 +5003,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-20",
       "duration_ms": 151531,
       "name": "Unicorn and the Sheep",
       "url": "https://open.spotify.com/track/4YWeZa7AfJArkijVVq8ayc"

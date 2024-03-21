@@ -4,7 +4,7 @@
 
 > Most exciting artists from the Indian Indie scene\. Cover: Swastik The Band
 
-288 songs - 16 hr 49 min
+291 songs - 16 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,7 +53,8 @@
 | [Chaand Baaliyan](https://open.spotify.com/track/0vaPHw608M1jHif7kO2TSc) | [Aditya A](https://open.spotify.com/artist/4wwYGgSpeBtvk5WX6HBqzw) | [Chaand Baaliyan](https://open.spotify.com/album/0Q40XX2V1XxzMSyFi95J7h) | 1:43 | 2022-01-31 | 2022-02-25 |
 | [Chhodo Kalaiya](https://open.spotify.com/track/6pkR6jHUCqZY1rkjDiXLTR) | [Aditya A](https://open.spotify.com/artist/4wwYGgSpeBtvk5WX6HBqzw), [Saiwariya](https://open.spotify.com/artist/34Bsd6kohYGNWw1zvqkVd5) | [Chhodo Kalaiya](https://open.spotify.com/album/7BkrpzKAfxtLlhqEfKJadQ) | 3:13 | 2022-06-10 | 2022-12-01 |
 | [Chor](https://open.spotify.com/track/0FCe2NhPWKiSTAipf0lOAT) | [Justh](https://open.spotify.com/artist/6gxRXj2KUJ02vfIgkNUq5b) | [Chor](https://open.spotify.com/album/41cYr6R4rPiKExcTvQTnmR) | 3:28 | 2024-02-20 | 2024-02-28 |
-| [Chor](https://open.spotify.com/track/53gdHIMmv3XubECRLL6R62) | [Justh](https://open.spotify.com/artist/6gxRXj2KUJ02vfIgkNUq5b) | [Chor](https://open.spotify.com/album/39noVgiQirYCWfBIrBzP30) | 3:28 | 2024-02-26 |  |
+| [Chor](https://open.spotify.com/track/53gdHIMmv3XubECRLL6R62) | [Justh](https://open.spotify.com/artist/6gxRXj2KUJ02vfIgkNUq5b) | [Chor](https://open.spotify.com/album/39noVgiQirYCWfBIrBzP30) | 3:28 | 2024-02-26 | 2024-03-21 |
+| [Chor](https://open.spotify.com/track/6YewfSA18qq5xl1KlJQkpY) | [Justh](https://open.spotify.com/artist/6gxRXj2KUJ02vfIgkNUq5b) | [Chor](https://open.spotify.com/album/1wBSOR9eFqfkDFyJtwPm7V) | 3:28 | 2024-03-20 |  |
 | [Closer](https://open.spotify.com/track/392cXa8zAoEa0KjUid1FQZ) | [Khanvict](https://open.spotify.com/artist/3XjXhRHZjamOXeraqTWff7) | [Closer](https://open.spotify.com/album/25MOAn9V64TwKpBoB4VIF3) | 3:20 | 2021-12-06 | 2022-08-14 |
 | [Closer](https://open.spotify.com/track/57UD8zx3Y6wH7ALm1eII9A) | [Khanvict](https://open.spotify.com/artist/3XjXhRHZjamOXeraqTWff7) | [Closer](https://open.spotify.com/album/61ynBy8B1gL46nyEZdx39d) | 3:20 | 2022-08-13 | 2022-08-30 |
 | [Cold Cold Night](https://open.spotify.com/track/4pR2qfbLapOQ5fNeVWfGnH) | [Raghav Meattle](https://open.spotify.com/artist/7lTlD9L3QhfOH13Z0n1ibN) | [Cold Cold Night](https://open.spotify.com/album/76YdfYn53GNmFJRcyO036X) | 3:21 | 2022-11-30 | 2023-01-11 |
@@ -260,7 +261,8 @@
 | [Tabeer](https://open.spotify.com/track/2kzWtBlO7DiTuyEfD6MoYO) | [NAALAYAK](https://open.spotify.com/artist/6BWd8VpOoODhMOPks4sI6R) | [SEXY BHAIJI](https://open.spotify.com/album/54dzNdVRCXNSQhVCbJjkTw) | 3:24 | 2023-11-29 | 2024-01-11 |
 | [Tabeer](https://open.spotify.com/track/3BOWG0zibD5qZ1tcBwS65J) | [NAALAYAK](https://open.spotify.com/artist/6BWd8VpOoODhMOPks4sI6R) | [Tabeer](https://open.spotify.com/album/4Eifi8cHvf7QNRrs9kld20) | 3:24 | 2023-01-11 | 2023-11-07 |
 | [Tanha Rahun Main](https://open.spotify.com/track/0nJptnLo28LIFeZzcUlYG7) | [Pratsofficial](https://open.spotify.com/artist/29ggvWc5EMcSk5RLQ5aXHr), [Jahnavi Rao](https://open.spotify.com/artist/2OjHId4Ml8WRQL40hRj1Z6) | [Tanha Rahun Main](https://open.spotify.com/album/1wdykphFC8ZpQMDx7znwdx) | 4:50 | 2022-01-10 | 2023-01-11 |
-| [Tera Mera Aasmaan](https://open.spotify.com/track/6mOqFm4X4tdcraFWQibZSA) | [Shreya Jain](https://open.spotify.com/artist/4kf4NJ3U6oSZ423DycBpMD) | [Tera Mera Aasmaan](https://open.spotify.com/album/5vbcq7UU1ezZ0uKs7SWXwX) | 2:38 | 2023-02-24 |  |
+| [Tera Mera Aasmaan](https://open.spotify.com/track/0piDZppLG8sJdE9Ieg5DnJ) | [Shreya Jain](https://open.spotify.com/artist/4kf4NJ3U6oSZ423DycBpMD) | [Tera Mera Aasmaan](https://open.spotify.com/album/3o2xo3PpTDvtbhVmTwbfqR) | 2:38 | 2024-03-20 |  |
+| [Tera Mera Aasmaan](https://open.spotify.com/track/6mOqFm4X4tdcraFWQibZSA) | [Shreya Jain](https://open.spotify.com/artist/4kf4NJ3U6oSZ423DycBpMD) | [Tera Mera Aasmaan](https://open.spotify.com/album/5vbcq7UU1ezZ0uKs7SWXwX) | 2:38 | 2023-02-24 | 2024-03-21 |
 | [Tera Nishaan](https://open.spotify.com/track/23gBGYYQcA8ivnVDj2eZxD) | [Pina Colada Blues](https://open.spotify.com/artist/1pSV6wx1cZQB3l7c2wY3mE), [Anumita Nadesan](https://open.spotify.com/artist/1nmKYy6efdYl8sIcT0gCLJ) | [Tera Nishaan](https://open.spotify.com/album/1FsGhpy3Br29xgbS1PJB4I) | 2:47 | 2022-07-22 |  |
 | [Tere Bina](https://open.spotify.com/track/6k1hBhDbcwyh1KuSFAoLTJ) | [KASYAP](https://open.spotify.com/artist/4p4ILwTCyu0exslJsiQzZP) | [Tere Bina](https://open.spotify.com/album/3oqzq7uP6IgsI8o8ZTUENB) | 2:52 | 2023-02-10 |  |
 | [Tere Bina](https://open.spotify.com/track/7im7el3l35lOejnrYCjKVO) | [Zephyrtone](https://open.spotify.com/artist/57GVEttnzshGnLYIJCFeKo), [Vasu Raina](https://open.spotify.com/artist/5wwyvQQMsmzSUZo6FBoWJL) | [Tere Bina](https://open.spotify.com/album/0ghHOc0zCmHZn93zGlhuNs) | 2:32 | 2022-01-10 | 2023-01-11 |
@@ -289,7 +291,8 @@
 | [Ye Teri Meri Kahani](https://open.spotify.com/track/1IsMTMT8ASvZqApzGKkAG9) | [Keshuv Huria](https://open.spotify.com/artist/43uO9cJvNgdhonRDXdRjsa), [Sumedha Karmahe](https://open.spotify.com/artist/4MEdY6uFLSNWHq4kKrDx4j) | [Ye Teri Meri Kahani](https://open.spotify.com/album/0iW00NWqfNMXBxfAfJ9TDg) | 3:21 | 2022-08-08 | 2024-02-01 |
 | [Ye Teri Meri Kahani](https://open.spotify.com/track/5c8xIMIlYXLQSDe9d6mspG) | [Keshuv Huria](https://open.spotify.com/artist/43uO9cJvNgdhonRDXdRjsa), [Sumedha Karmahe](https://open.spotify.com/artist/4MEdY6uFLSNWHq4kKrDx4j) | [Ye Teri Meri Kahani](https://open.spotify.com/album/0gtYx8U7lO414NoJPk70aQ) | 3:21 | 2024-01-24 |  |
 | [Ye Zindagi](https://open.spotify.com/track/76WGQlitFCuX9m4IsChzsq) | [Ramil Ganjoo](https://open.spotify.com/artist/2tQF5y205UlqIPUB4kSsDg) | [Ye Zindagi](https://open.spotify.com/album/1Tib7ORYuc7K9nEMADj6ME) | 2:47 | 2024-01-10 |  |
-| [Yeah Yeah](https://open.spotify.com/track/2HbzLM4zea2POE8Zd1mSNq) | [Shreya Jain](https://open.spotify.com/artist/4kf4NJ3U6oSZ423DycBpMD) | [Yeah Yeah](https://open.spotify.com/album/6fikjsCSauJ6iiz0mqXdwm) | 2:41 | 2023-04-10 |  |
+| [Yeah Yeah](https://open.spotify.com/track/2HbzLM4zea2POE8Zd1mSNq) | [Shreya Jain](https://open.spotify.com/artist/4kf4NJ3U6oSZ423DycBpMD) | [Yeah Yeah](https://open.spotify.com/album/6fikjsCSauJ6iiz0mqXdwm) | 2:41 | 2023-04-10 | 2024-03-21 |
+| [Yeah Yeah](https://open.spotify.com/track/6HYNj3EIDAgTkC5U1bcpHi) | [Shreya Jain](https://open.spotify.com/artist/4kf4NJ3U6oSZ423DycBpMD) | [Yeah Yeah](https://open.spotify.com/album/2SbDB0NqbbPX3YRMF8BOaN) | 2:41 | 2024-03-20 |  |
 | [Yeh Shaam](https://open.spotify.com/track/44e6LWMz011gq6QU45nw2P) | [Shubham Kabra](https://open.spotify.com/artist/2gxw2IBkHbDFpzqLqx3AQy) | [Yeh Shaam](https://open.spotify.com/album/1OsdoncZf5VeLCSw1tOF7w) | 3:54 | 2021-12-06 | 2023-01-11 |
 | [Yellow Paper Daisy](https://open.spotify.com/track/5aQe0faFOjeskrHwpleXLJ) | [When Chai Met Toast](https://open.spotify.com/artist/04hYGGSjYtLekuuJXEGrIl) | [Yellow Paper Daisy](https://open.spotify.com/album/13ATYLc7i4HuNbQrAEawOH) | 3:19 | 2021-12-06 | 2022-11-16 |
 | [Yun](https://open.spotify.com/track/6MXxjUljZHV2qsCJg9a9iL) | [Siddhant Bhosle](https://open.spotify.com/artist/72FQZIJkOLdKV0YKqS024h), [Sanah Moidutty](https://open.spotify.com/artist/5PRw7B1MlnXte2taK1ePlC) | [Yun](https://open.spotify.com/album/4XJjKeDY2C7dBez6rezqqS) | 2:32 | 2023-01-10 | 2023-02-25 |

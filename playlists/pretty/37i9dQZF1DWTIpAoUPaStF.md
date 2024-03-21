@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTIpAoUPaStF.md) - [plain]
 
 > Música para ver llover, con buen cobijo y una taza de té entre las manos.
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,284 likes - 50 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,288 likes - 50 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,10 +16,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTIpAoUPaStF.md) - [plain]
 | 6 | [Maybe October](https://open.spotify.com/track/2ou8EQgoiqk73toLQrEIsc) | [Dekker](https://open.spotify.com/artist/2Udd2jgFaz8tXG1w3PyMtN) | [I Won't Be Your Foe](https://open.spotify.com/album/6OhfRDchySkjM7GEUtrBFV) | 2:44 |
 | 7 | [Place To Be](https://open.spotify.com/track/5QUeSXjTMHbq1fW5da2waF) | [Nick Drake](https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y) | [Pink Moon](https://open.spotify.com/album/5mwOo1zikswhmfHvtqVSXg) | 2:40 |
 | 8 | [Light Years](https://open.spotify.com/track/2GNj9KRwpxBWgEiPQc3jEj) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB) | [I Am Easy to Find](https://open.spotify.com/album/5M5LPGsAR9mxbBa22GOp5h) | 3:33 |
-| 9 | [cardigan \- cabin in candlelight version](https://open.spotify.com/track/2hmafYGj1CXYKIYcMnX4lj) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [cardigan \(cabin in candlelight version\)](https://open.spotify.com/album/3kqqalY92DENp7FiztDOjH) | 3:48 |
+| 9 | [Yards / Gardens](https://open.spotify.com/track/3PphHkiVdhRaO1EWH6ZWqZ) | [Kate Bollinger](https://open.spotify.com/artist/4eArh1v6UwBbKkjdgHCned) | [Look at it in the Light](https://open.spotify.com/album/3MKaD7aYasZcnBvv8g2XKO) | 2:21 |
 | 10 | [\(You Look\) So Funny](https://open.spotify.com/track/5F4RB2LvrszWVTZ2dGZ7Lq) | [Rogér Fakhr](https://open.spotify.com/artist/6UFqtFCNxhYqsQ1QRF6HRd) | [East of Any Place \(Habibi Funk 025\)](https://open.spotify.com/album/7sTew04rtXKxlXg87MgS6e) | 1:48 |
 | 11 | [Pistol](https://open.spotify.com/track/2nD9CUfMMUVxL0UyFs8fGG) | [Cigarettes After Sex](https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj) | [Pistol](https://open.spotify.com/album/3pvGm1n0cKAfHpGKbZhKi5) | 3:54 |
-| 12 | [Yards / Gardens](https://open.spotify.com/track/3PphHkiVdhRaO1EWH6ZWqZ) | [Kate Bollinger](https://open.spotify.com/artist/4eArh1v6UwBbKkjdgHCned) | [Look at it in the Light](https://open.spotify.com/album/3MKaD7aYasZcnBvv8g2XKO) | 2:21 |
+| 12 | [cardigan \- cabin in candlelight version](https://open.spotify.com/track/2hmafYGj1CXYKIYcMnX4lj) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [cardigan \(cabin in candlelight version\)](https://open.spotify.com/album/3kqqalY92DENp7FiztDOjH) | 3:48 |
 | 13 | [soleil soleil](https://open.spotify.com/track/6m3ObG4d6M92hJWYplJfnb) | [Pomme](https://open.spotify.com/artist/6e3pZKXUxrPfnUPJ960Hd9) | [les failles](https://open.spotify.com/album/3Iq43NGfIN8tc8AVJ9Konz) | 2:37 |
 | 14 | [Organon](https://open.spotify.com/track/4akPmp6IWf02FdXXXJi3lX) | [Men I Trust](https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT) | [Untourable Album](https://open.spotify.com/album/1vYB8mYSGiKxE5C2RGjfDP) | 2:30 |
 | 15 | [Catholic Country](https://open.spotify.com/track/6RJq7ki5vvDnLfn8E6EJVV) | [Kings of Convenience](https://open.spotify.com/artist/41AbNVba2ccpmcc9QtOJE7), [Feist](https://open.spotify.com/artist/6CWTBjOJK75cTE8Xv8u1kj) | [Peace Or Love](https://open.spotify.com/album/1jyVgS78GWmR0EjkFst9YC) | 3:01 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTIpAoUPaStF.md) - [plain]
 | 49 | [Doesn't Matter](https://open.spotify.com/track/0NVxFntUSEYwPn27lX2J7r) | [BENEE](https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4) | [Doesn't Matter](https://open.spotify.com/album/25JTMiXU4RhSWbcRDr5uLV) | 3:23 |
 | 50 | [Nothing Else Matters](https://open.spotify.com/track/1guCON9841cQwAlbNplLsY) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Nothing Else Matters](https://open.spotify.com/album/5cGlNs3L4C2mzMQiAfox41) | 4:34 |
 
-Snapshot ID: `MCxmYWMwZTBhNGRkMjhjMDgwN2Q0NTRhNzdiMGNkN2UzZGQ2YWNkNTgx`
+Snapshot ID: `MCwyNGQ1ZjM1MTk5NDgwZjg4MDgyMDU1OGNmODVlYTA3MGZlN2QyZmZl`

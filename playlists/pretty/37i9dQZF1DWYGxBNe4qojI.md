@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYGxBNe4qojI.md) - [plain]
 
 > Where it all started\. Cover: The Roots
 
-[Spotify](https://open.spotify.com/user/spotify) - 375,785 likes - 50 songs - 3 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 375,882 likes - 50 songs - 3 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYGxBNe4qojI.md) - [plain]
 | 49 | [Magic Stick](https://open.spotify.com/track/0aULRU35N9kTj6O1xMULRR) | [Lil' Kim](https://open.spotify.com/artist/5tth2a3v0sWwV1C7bApBdX) | [La Bella Mafia](https://open.spotify.com/album/6UlNLXBFLqRDiKnyrF4oDE) | 5:59 |
 | 50 | [Flava in Ya Ear Remix \(feat\. The Notorious B.I.G., LL Cool J, Busta Rhymes, Rampage\)](https://open.spotify.com/track/4JYUDRtPZuVNi7FAnbHyux) | [Craig Mack](https://open.spotify.com/artist/4akj4uteQQrrGxhX9Rjuyf), [Busta Rhymes](https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK), [LL COOL J](https://open.spotify.com/artist/1P8IfcNKwrkQP5xJWuhaOC), [Rampage](https://open.spotify.com/artist/6edzoyx2aOvZpdFeCCWU1t), [The Notorious B.I.G.](https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb) | [Flava In Ya Ear Remix](https://open.spotify.com/album/7mYcq3B0faiA5IvhDCdypL) | 5:02 |
 
-Snapshot ID: `MCxjOWY1MDQ0YzYzMWJiMzQ4YjIxMTEzMjI3ODRkNjM1MDVhYWMxOTkz`
+Snapshot ID: `MCwyMjYyNTg2YzhjZjJlNWQ1MzdiNzgwNTIyOTljNjgxM2MxY2MyNDQy`

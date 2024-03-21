@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- UAE.
 
-1,325 songs - 3 day 3 hr 12 min
+1,326 songs - 3 day 3 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -364,7 +364,7 @@
 | [Essence \(feat\. Justin Bieber & Tems\)](https://open.spotify.com/track/1mSdbey7RstGLY2udgXv74) | [WizKid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [Essence \(feat\. Justin Bieber & Tems\)](https://open.spotify.com/album/0Rn8NAh8NnoaCOt8r8Tc3e) | 4:23 | 2021-08-22 | 2021-08-25 |
 | [ETA](https://open.spotify.com/track/56v8WEnGzLByGsDAXDiv4d) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [NewJeans 2nd EP 'Get Up'](https://open.spotify.com/album/4N1fROq2oeyLGAlQ1C1j18) | 2:31 | 2023-07-22 | 2023-07-27 |
 | [eternal sunshine](https://open.spotify.com/track/2waUyWiimcCeA8DbJH8BtT) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [eternal sunshine](https://open.spotify.com/album/71PfP4E9roOXAudea1aPGw) | 3:30 | 2024-03-09 | 2024-03-11 |
-| [eternal sunshine](https://open.spotify.com/track/3RwWW7KeVhHGayYJgUL5eZ) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [eternal sunshine](https://open.spotify.com/album/5EYKrEDnKhhcNxGedaRQeK) | 3:30 | 2024-03-10 |  |
+| [eternal sunshine](https://open.spotify.com/track/3RwWW7KeVhHGayYJgUL5eZ) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [eternal sunshine](https://open.spotify.com/album/5EYKrEDnKhhcNxGedaRQeK) | 3:30 | 2024-03-10 | 2024-03-21 |
 | [Every Angel is Terrifying](https://open.spotify.com/track/3vJcz8exedHCjQ9ed95NqU) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Dawn FM](https://open.spotify.com/album/2nLOHgzXzwFEpl62zAgCEC) | 2:47 | 2022-01-08 | 2022-01-13 |
 | [Every Summertime](https://open.spotify.com/track/68HocO7fx9z0MgDU0ZPHro) | [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [Every Summertime](https://open.spotify.com/album/2HPj0XZe9WduSsyKTQqgVa) | 3:35 | 2022-01-25 | 2022-02-12 |
 | [Everything Has Changed \(feat\. Ed Sheeran\) \(Taylor’s Version\)](https://open.spotify.com/track/5uQQcvcXoCwKPK5sYvarzO) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02), [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Red \(Taylor's Version\)](https://open.spotify.com/album/6x9s2ObPdpATZgrwxsk9c0) | 4:05 | 2021-11-14 | 2021-11-14 |
@@ -992,6 +992,7 @@
 | [SAY MY GRACE \(feat\. Travis Scott\)](https://open.spotify.com/track/2Gk6fi0dqt91NKvlzGsmm7) | [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [SET IT OFF](https://open.spotify.com/album/1D1hLipjrdB6pnxurMtC3E) | 2:53 | 2023-10-14 | 2023-10-20 |
 | [Say Yes To Heaven](https://open.spotify.com/track/03wOsqNRdFZAgwo708sjw2) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Say Yes To Heaven \(sim0ne & Melo Nada Remix\)](https://open.spotify.com/album/7xIg7rC6R80DJqV0001u2J) | 3:29 | 2023-06-08 | 2023-06-11 |
 | [Say Yes To Heaven](https://open.spotify.com/track/6GGtHZgBycCgGBUhZo81xe) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Say Yes To Heaven](https://open.spotify.com/album/6jVg0POvGYH1Pt6lISl3ok) | 3:29 | 2023-05-20 | 2023-06-18 |
+| [Say You Won't Let Go](https://open.spotify.com/track/5uCax9HTNlzGybIStD3vDh) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [Back from the Edge](https://open.spotify.com/album/7oiJYvEJHsmYtrgviAVIBD) | 3:31 | 2024-03-20 |  |
 | [SCOOP \(feat\. Doja Cat\)](https://open.spotify.com/track/6bpq1jGkVz66Q3LYeoXdjZ) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq), [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [MONTERO](https://open.spotify.com/album/6pOiDiuDQqrmo5DbG0ZubR) | 2:54 | 2021-09-19 | 2021-09-21 |
 | [Screw The World \- Interlude](https://open.spotify.com/track/0ArVfVP8B5svkfj8clHNzB) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [For All The Dogs](https://open.spotify.com/album/4czdORdCWP9umpbhFXK2fW) | 1:52 | 2023-10-07 | 2023-10-09 |
 | [Search & Rescue](https://open.spotify.com/track/7aRCf5cLOFN1U7kvtChY1G) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Search & Rescue](https://open.spotify.com/album/67WUCOjyl44d8fAFzHONjW) | 4:32 | 2023-04-08 | 2023-05-18 |

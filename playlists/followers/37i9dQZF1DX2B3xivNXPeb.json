@@ -1,5 +1,5 @@
 {
-  "2024-03-20": 38422,
+  "2024-03-21": 38424,
   "date_first_scraped": "2022-07-19",
   "description": "Whether you're cooking or pottering about, here's an all-day soundtrack to enjoy in the comfort of your own home.",
   "name": "Your Kitchen Stereo",
@@ -1665,7 +1665,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-20",
       "duration_ms": 210008,
       "name": "For You",
       "url": "https://open.spotify.com/track/5mfl2mpVEyZLXk2E52rpp4"
@@ -3787,6 +3787,24 @@
       "duration_ms": 183611,
       "name": "Other Way",
       "url": "https://open.spotify.com/track/4mX17Zw9I9FSkGabznOonn"
+    },
+    {
+      "album": {
+        "name": "Selfishly Inclined",
+        "url": "https://open.spotify.com/album/4HHcKYbeDmOFaY0R0xHJge"
+      },
+      "artists": [
+        {
+          "name": "Elle Coves",
+          "url": "https://open.spotify.com/artist/3Hey7RF0bxnjPP8IEXmPRa"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176250,
+      "name": "Outrun This Feeling",
+      "url": "https://open.spotify.com/track/5pI9tVNPYhWrxBwV1IlfV8"
     },
     {
       "album": {

@@ -96,7 +96,7 @@
     {
       "album": {
         "name": "Resident Evil 3 Special Soundtrack",
-        "url": "https://open.spotify.com/album/7pQYu8IdEDcvmlhCTCSsaP"
+        "url": "https://open.spotify.com/album/7ruGj7abeKNiq1nROX0uC7"
       },
       "artists": [
         {
@@ -115,6 +115,32 @@
       "date_added": "2021-08-18",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 105840,
+      "name": "A New Threat is Born",
+      "url": "https://open.spotify.com/track/0U96Yte9CsFYT5Yu9N2ukg"
+    },
+    {
+      "album": {
+        "name": "Resident Evil 3 Special Soundtrack",
+        "url": "https://open.spotify.com/album/7pQYu8IdEDcvmlhCTCSsaP"
+      },
+      "artists": [
+        {
+          "name": "Kota Suzuki",
+          "url": "https://open.spotify.com/artist/6Bcj2CNhoJ3MHBPNKWlh0y"
+        },
+        {
+          "name": "Azusa Kato",
+          "url": "https://open.spotify.com/artist/2OSqAuomSNFFFPRhA2x3Yc"
+        },
+        {
+          "name": "Ryo Koike",
+          "url": "https://open.spotify.com/artist/3m2uZ2rZi0u4cCoeWiwazF"
+        }
+      ],
+      "date_added": "2021-08-18",
+      "date_added_asterisk": false,
+      "date_removed": "2024-03-21",
       "duration_ms": 105840,
       "name": "A New Threat is Born",
       "url": "https://open.spotify.com/track/4jBRUF5dpOV24Kr9PfQsVB"
@@ -662,10 +688,28 @@
       ],
       "date_added": "2021-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-21",
       "duration_ms": 126280,
       "name": "Free From Fear",
       "url": "https://open.spotify.com/track/2Y0NNG4Ty5LCgYNeICfqNq"
+    },
+    {
+      "album": {
+        "name": "Resident Evil 3 Special Soundtrack",
+        "url": "https://open.spotify.com/album/7ruGj7abeKNiq1nROX0uC7"
+      },
+      "artists": [
+        {
+          "name": "Saori Maeda",
+          "url": "https://open.spotify.com/artist/3Ud7woLRk2efj0q3D2lCzm"
+        }
+      ],
+      "date_added": "2021-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126280,
+      "name": "Free From Fear",
+      "url": "https://open.spotify.com/track/2oaGI3bHKl9kXaBLfcIJwi"
     },
     {
       "album": {
@@ -1780,7 +1824,7 @@
     {
       "album": {
         "name": "Resident Evil 3 Special Soundtrack",
-        "url": "https://open.spotify.com/album/7pQYu8IdEDcvmlhCTCSsaP"
+        "url": "https://open.spotify.com/album/7ruGj7abeKNiq1nROX0uC7"
       },
       "artists": [
         {
@@ -1791,6 +1835,24 @@
       "date_added": "2021-08-18",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 209973,
+      "name": "Save Room",
+      "url": "https://open.spotify.com/track/4W9XzY6DlOVLTCYFActtdt"
+    },
+    {
+      "album": {
+        "name": "Resident Evil 3 Special Soundtrack",
+        "url": "https://open.spotify.com/album/7pQYu8IdEDcvmlhCTCSsaP"
+      },
+      "artists": [
+        {
+          "name": "Masami Ueda",
+          "url": "https://open.spotify.com/artist/4Zc9ID5YsCSgTf2l00RmiU"
+        }
+      ],
+      "date_added": "2021-08-18",
+      "date_added_asterisk": false,
+      "date_removed": "2024-03-21",
       "duration_ms": 209973,
       "name": "Save Room",
       "url": "https://open.spotify.com/track/6fFaDbmXtuScWnLi7BlMf6"

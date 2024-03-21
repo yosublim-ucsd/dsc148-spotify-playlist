@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5NXVhu59GCz.md) - [plain]
 
 > Acid blues, psy\-blues and the early pioneers of psychedelic rock.
 
-[Spotify](https://open.spotify.com/user/spotify) - 116,020 likes - 50 songs - 3 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 116,023 likes - 50 songs - 3 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,8 +21,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5NXVhu59GCz.md) - [plain]
 | 11 | [A Child of a Few Hours Is Burning to Death](https://open.spotify.com/track/1U0JgQRSufNmWPvD9aklZt) | [The West Coast Pop Art Experimental Band](https://open.spotify.com/artist/2z4eiJkDaXYCR9kv2UuSgz) | [A Child's Guide To Good And Evil](https://open.spotify.com/album/7wieiJFEfvS2tWCxv8IBhF) | 2:41 |
 | 12 | [\(BALLAD OF\) THE HIP DEATH GODDESS](https://open.spotify.com/track/1IQmZ2Hz0HEtb8rwXNci4i) | [Ultimate Spinach](https://open.spotify.com/artist/38ULknnQK6G4oLJtTtPkkM) | [Ultimate Spinach](https://open.spotify.com/album/3g1Dzj83jWRcQMCtmLHTka) | 8:14 |
 | 13 | [The Train Kept A\-Rollin'](https://open.spotify.com/track/6pW2lKORQaIC6JR4qBNG9e) | [The Yardbirds](https://open.spotify.com/artist/2lxX1ivRYp26soIavdG9bX) | [The Yardbirds Story \- Pt\. 3 \- 1965/66 \- Big Hits & America Calling](https://open.spotify.com/album/0lYmtEuL0fLXPP4XKr5O8K) | 3:28 |
-| 14 | [Gold And Silver](https://open.spotify.com/track/6qwwAbxSYq9MTEIn0UMFNA) | [Quicksilver Messenger Service](https://open.spotify.com/artist/7DCnwoFMqGN6eZULdcLZeL) | [Quicksilver Messenger Service](https://open.spotify.com/album/2jQEpak8oXYb6dh9sCZqqY) | 6:43 |
-| 15 | [Death Sound](https://open.spotify.com/track/0H0g1bov9Zf2Ebqgod7R9R) | [Country Joe & The Fish](https://open.spotify.com/artist/0a63dfrxBQKqh160P8iUNL) | [Electric Music For The Mind And Body](https://open.spotify.com/album/1PdqT2EZfFkWTsN18x1SZk) | 4:26 |
+| 14 | [Death Sound](https://open.spotify.com/track/0H0g1bov9Zf2Ebqgod7R9R) | [Country Joe & The Fish](https://open.spotify.com/artist/0a63dfrxBQKqh160P8iUNL) | [Electric Music For The Mind And Body](https://open.spotify.com/album/1PdqT2EZfFkWTsN18x1SZk) | 4:26 |
+| 15 | [Gold And Silver](https://open.spotify.com/track/6qwwAbxSYq9MTEIn0UMFNA) | [Quicksilver Messenger Service](https://open.spotify.com/artist/7DCnwoFMqGN6eZULdcLZeL) | [Quicksilver Messenger Service](https://open.spotify.com/album/2jQEpak8oXYb6dh9sCZqqY) | 6:43 |
 | 16 | [We Ain't Got Nothin' yet](https://open.spotify.com/track/7xwf45gey53Ftmo3duaAei) | [The Blues Magoos](https://open.spotify.com/artist/7peASGSN6FkIFQ3XjLfBtB) | [Psychedelic Resurrection](https://open.spotify.com/album/1FzOC8f2m4Gc5vFQkufqwJ) | 2:17 |
 | 17 | [The World](https://open.spotify.com/track/6URPlvJyBNQfASywtcLKKj) | [Count Five](https://open.spotify.com/artist/57WXdjUf5Vlq3klNZegeTP) | [Psychotic Reaction](https://open.spotify.com/album/7Mccdl5xR9mfqo00lgDVDA) | 2:13 |
 | 18 | [Codine](https://open.spotify.com/track/77508QPMrHixHl0ORGZWTA) | [The Litter](https://open.spotify.com/artist/6wvtyGNtNtLlkHONVzOocm) | [Distortions](https://open.spotify.com/album/1jNPpX5H1F1xJNQR8Xe2CF) | 4:32 |
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5NXVhu59GCz.md) - [plain]
 | 20 | [Leavin' Trunk](https://open.spotify.com/track/4SoICrZ3Gf9Dlv8XdJ166H) | [Sleepy John Estes](https://open.spotify.com/artist/00UuF3fAevVz8L0f1WfiQ6), [Keef Hartley Band](https://open.spotify.com/artist/2CPDvRMU1VZcPlwoCyKWZ2) | [Halfbreed](https://open.spotify.com/album/0jB7KRF2763gFcrl11luHi) | 5:56 |
 | 21 | [3 O'Clock Blues \- 1999 RemasterStereo](https://open.spotify.com/track/41849X1PrqMv0elH2prPWp) | [Love Sculpture](https://open.spotify.com/artist/4D1hYdWKVKyQQQNxNHlYtq) | [Blues Helping](https://open.spotify.com/album/08ihWWd9zFaUBPjF7Hs8PB) | 5:10 |
 | 22 | [Contemporary Chick Con Song \- Remastered](https://open.spotify.com/track/0ejMOOcG8JLEum6LfoPVtl) | [Steamhammer](https://open.spotify.com/artist/78sxSGdMQas5prtm6LZXyj) | [Mk\. II \(Remastered\)](https://open.spotify.com/album/1BSUQlD675LWJVS4owvcQn) | 4:55 |
-| 23 | [Crimson & Clover](https://open.spotify.com/track/67kP4RjiGxSggSO5YniuLC) | [Aguaturbia](https://open.spotify.com/artist/1GGnADQvJeAIqtrjWc0CFc) | [Psychedelic Drugstore \- Remastered](https://open.spotify.com/album/6TrlKpZSlcw3qzdHc42QzP) | 10:35 |
-| 24 | [Never Had A Girl](https://open.spotify.com/track/0KwbZlIbKH0ntZjrvPsxXU) | [The Misunderstood](https://open.spotify.com/artist/4UuXO2W0oFIBZMArMPDXev) | [The Legendary Goldstar Album & Golden Glass](https://open.spotify.com/album/06mZtBRnJeufBaT0TFkqLf) | 4:31 |
+| 23 | [Never Had A Girl](https://open.spotify.com/track/0KwbZlIbKH0ntZjrvPsxXU) | [The Misunderstood](https://open.spotify.com/artist/4UuXO2W0oFIBZMArMPDXev) | [The Legendary Goldstar Album & Golden Glass](https://open.spotify.com/album/06mZtBRnJeufBaT0TFkqLf) | 4:31 |
+| 24 | [Crimson & Clover](https://open.spotify.com/track/67kP4RjiGxSggSO5YniuLC) | [Aguaturbia](https://open.spotify.com/artist/1GGnADQvJeAIqtrjWc0CFc) | [Psychedelic Drugstore \- Remastered](https://open.spotify.com/album/6TrlKpZSlcw3qzdHc42QzP) | 10:35 |
 | 25 | [Good Times Are So Hard To Find](https://open.spotify.com/track/1RCaB8ZclzAsuw9jRi0SIx) | [Blue Cheer](https://open.spotify.com/artist/4PI5IHRvANLL76O5gRmGKL) | [The History Of Blue Cheer: Good Times Are So Hard To Find](https://open.spotify.com/album/7ecNoSQ9aRZnxAHwTCpVt9) | 3:18 |
 | 26 | [Sometimes I Think About](https://open.spotify.com/track/23fMtT3EAnM0Nz3DPVKQxL) | [The Blues Magoos](https://open.spotify.com/artist/7peASGSN6FkIFQ3XjLfBtB) | [Psychedelic Lollipop](https://open.spotify.com/album/5WSiEiH8BtgVil5xR2pYEX) | 4:10 |
 | 27 | [Starvation](https://open.spotify.com/track/77LqKLpqMUiXqqrnrZx7hX) | [The Golden Dawn](https://open.spotify.com/artist/5zATwJgFNdxKRj3xxLtdAx) | [Power Plant](https://open.spotify.com/album/77sNTMqrlhhqfo1fOcbjBb) | 2:52 |
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5NXVhu59GCz.md) - [plain]
 | 30 | [Sally Go 'Round the Roses](https://open.spotify.com/track/1w7Gu4ohc5YLkgJMdRwin1) | [Grace Slick](https://open.spotify.com/artist/3wNX7r7t4Vaahrx9XzyYIY), [The Great Society](https://open.spotify.com/artist/2ukLYCAJW8XDlyobhmWQ8x) | [Grace Slick & The Great Society](https://open.spotify.com/album/74cJP3XQnuylRJDguGCRyY) | 6:32 |
 | 31 | [A "B" Side](https://open.spotify.com/track/32j6XpAsQ47PFtSyXHTMuI) | [Manfred Mann](https://open.spotify.com/artist/5670CyWrIOA7702gNjsGMZ) | [Ragamuffin Man / A ‘B’ Side](https://open.spotify.com/album/0x7WEKNnRKa9Du2PzXyBP0) | 5:13 |
 | 32 | [Crystal Blues](https://open.spotify.com/track/3dHhbraAAG40gNtVUkn0uf) | [Country Joe & The Fish](https://open.spotify.com/artist/0a63dfrxBQKqh160P8iUNL) | [Here We Are Again](https://open.spotify.com/album/0WXiQbXXPlYw5STWA7ucPH) | 6:23 |
-| 33 | [Too Many Do](https://open.spotify.com/track/68dutymBmCsq2jVjPe4Jek) | [The Peanut Butter Conspiracy](https://open.spotify.com/artist/1mUgTcokhM7BSqp8mXhy8U) | [The Great Conspiracy \(Bonus Track Version\)](https://open.spotify.com/album/676LQ4bm6IMzPIhndDVQM8) | 6:32 |
-| 34 | [Mr\. Blues](https://open.spotify.com/track/2ENMAIS4aSOHzqaPIXCHiI) | [Moby Grape](https://open.spotify.com/artist/0NHSh9S0VQiFfsEFbvhRXN) | [Listen My Friends! The Best Of Moby Grape](https://open.spotify.com/album/5J7SaPEpEp91QraSb8WkRV) | 1:58 |
+| 33 | [Mr\. Blues](https://open.spotify.com/track/2ENMAIS4aSOHzqaPIXCHiI) | [Moby Grape](https://open.spotify.com/artist/0NHSh9S0VQiFfsEFbvhRXN) | [Listen My Friends! The Best Of Moby Grape](https://open.spotify.com/album/5J7SaPEpEp91QraSb8WkRV) | 1:58 |
+| 34 | [Too Many Do](https://open.spotify.com/track/68dutymBmCsq2jVjPe4Jek) | [The Peanut Butter Conspiracy](https://open.spotify.com/artist/1mUgTcokhM7BSqp8mXhy8U) | [The Great Conspiracy \(Bonus Track Version\)](https://open.spotify.com/album/676LQ4bm6IMzPIhndDVQM8) | 6:32 |
 | 35 | [Fox Is Sick](https://open.spotify.com/track/7uEw55wwByGZnEUTX0MaEI) | [The Savage Resurrection](https://open.spotify.com/artist/16dZsYfKoAqmnt1tyhAPkE) | [The Savage Resurrection](https://open.spotify.com/album/2Tzvkt45C7PLlLICWYNslu) | 2:42 |
 | 36 | [a\) Take Me For A Little While b\) RYFI \(Illusions Of My Childhood\-Part Three\)](https://open.spotify.com/track/2AXigUpz4ycfVS550RH8wI) | [Vanilla Fudge](https://open.spotify.com/artist/0vIMq3W8V63uR4Ymgm2pF1) | [Vanilla Fudge](https://open.spotify.com/album/4rvXyAx9phjxiU4cQS1AJh) | 3:55 |
 | 37 | [Don't Call Us, We'll Call You \(Re\-Recorded / Remastered\)](https://open.spotify.com/track/6Hrik94vQpSpxSjMfFKGfC) | [Sugarloaf](https://open.spotify.com/artist/1T3RPiMH711kvoXymKUTYH) | [Don't Call Us, We'll Call You \(Re\-Recorded\)](https://open.spotify.com/album/6uQESzHRJ2UBK9EEK5Hvic) | 3:22 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5NXVhu59GCz.md) - [plain]
 | 49 | [I Can't Dance](https://open.spotify.com/track/4MT7JJWn6AOcUHvakxSbpN) | [Barry Melton](https://open.spotify.com/artist/1ugWCcIaInMcgJN2ghXfXi) | [Level with Me](https://open.spotify.com/album/0hURuklitZ9QZFg6OBnWCM) | 2:39 |
 | 50 | [Trials of a City](https://open.spotify.com/track/3b5jvjpB3Uf88uilq0aGLF) | [Mighty Baby](https://open.spotify.com/artist/0OCbY2Rzt59ilutteUnG8I) | [Mighty Baby](https://open.spotify.com/album/32ZtQafs8OxDkFTOFvprN7) | 6:01 |
 
-Snapshot ID: `MCxlYWFjY2ZlOTllYjg2NTAxOTM5ZTBkOTUyZjJiNTFhZDA0NGExYTRj`
+Snapshot ID: `MCwxNGQ2ODYwYmMzZTY3ZjZjNjk3MmMxYTU4OTBkOWU4MzkzOTAwYWVm`

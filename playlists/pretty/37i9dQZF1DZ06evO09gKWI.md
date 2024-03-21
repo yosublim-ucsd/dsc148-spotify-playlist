@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO09gKWI.md) - [plain]
 
 > This is Bivolt\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 325 likes - 40 songs - 2 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 326 likes - 40 songs - 2 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO09gKWI.md) - [plain]
 | 23 | [Olha pra Mim](https://open.spotify.com/track/5sR1xWyEayjOvtbHING1Pp) | [Bivolt](https://open.spotify.com/artist/0mQoWD18BxzhN8kr1cNwgQ) | [Olha pra Mim](https://open.spotify.com/album/5kMOd6mjawcIVx33mQpkOl) | 3:51 |
 | 24 | [Tira Uma Foto](https://open.spotify.com/track/0ISIcAK9wIUs76bS8vPxK7) | [Bivolt](https://open.spotify.com/artist/0mQoWD18BxzhN8kr1cNwgQ), [Nave](https://open.spotify.com/artist/2Xpiwporhsl8LXdC96Xs8J) | [Tira Uma Foto](https://open.spotify.com/album/7Bvg4IJIBa2ewWmOEHe7X1) | 2:09 |
 | 25 | [Me Salva](https://open.spotify.com/track/52zfI6y5NF7mnxu7wg9gmv) | [Bivolt](https://open.spotify.com/artist/0mQoWD18BxzhN8kr1cNwgQ) | [Bivolt](https://open.spotify.com/album/2FCX8kUCCLy6I5GlX8k88R) | 3:26 |
-| 26 | [Luiza Mel](https://open.spotify.com/track/5GYUVMxUKKgPBBR18iFFci) | [Bivolt](https://open.spotify.com/artist/0mQoWD18BxzhN8kr1cNwgQ), [Nave](https://open.spotify.com/artist/2Xpiwporhsl8LXdC96Xs8J) | [Chave](https://open.spotify.com/album/6SqzpkCbDN3FjdNvISmWcB) | 2:36 |
+| 26 | [Malandrinha](https://open.spotify.com/track/6xoqFcFzy4GV5U84j5g2uI) | [Bivolt](https://open.spotify.com/artist/0mQoWD18BxzhN8kr1cNwgQ), [Nave](https://open.spotify.com/artist/2Xpiwporhsl8LXdC96Xs8J) | [Chave](https://open.spotify.com/album/6SqzpkCbDN3FjdNvISmWcB) | 2:11 |
 | 27 | [Pense Bem](https://open.spotify.com/track/0LjgRlaDaXcdinRJyGkpIS) | [Edi Rock](https://open.spotify.com/artist/2fYAyTS2erZgqEHKHYqgi2), [Bivolt](https://open.spotify.com/artist/0mQoWD18BxzhN8kr1cNwgQ) | [Origens](https://open.spotify.com/album/5HZSxTHV1Okqedi83jpnbG) | 3:15 |
 | 28 | [Chef, Chef, Chef](https://open.spotify.com/track/5iZKBDWwIBTddYMgm4BXhz) | [Bivolt](https://open.spotify.com/artist/0mQoWD18BxzhN8kr1cNwgQ), [Nagalli](https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk) | [Nitro](https://open.spotify.com/album/4yDw1NdadwEr9WRHp3f41y) | 2:46 |
 | 29 | [Nome e Sobrenome](https://open.spotify.com/track/4PYHWK4Z301z9jPFwojK5Z) | [Bivolt](https://open.spotify.com/artist/0mQoWD18BxzhN8kr1cNwgQ), [Xênia França](https://open.spotify.com/artist/1v0rEJk9ZuCrCQDvCXbO3D) | [Bivolt](https://open.spotify.com/album/2FCX8kUCCLy6I5GlX8k88R) | 3:41 |
@@ -47,6 +47,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO09gKWI.md) - [plain]
 | 37 | [Imaginei](https://open.spotify.com/track/2JKAtEvUOHmtfEjgSbVRAL) | [Iza Sabino](https://open.spotify.com/artist/3bgFgu57tkJSn1ONpK9Gs3), [Coyote Beatz](https://open.spotify.com/artist/2PhFsxtwCQLS3e9SJwDN3j), [Bivolt](https://open.spotify.com/artist/0mQoWD18BxzhN8kr1cNwgQ) | [Glória](https://open.spotify.com/album/5CzkyEDf1muZQdpv3Lvc5q) | 3:05 |
 | 38 | [Ela Joga](https://open.spotify.com/track/4jCo34kC8FqJrpmgpNAJIY) | [Carolzinha](https://open.spotify.com/artist/2WzEl95SxpS2aXye4njjwN), [Carol & Vitoria](https://open.spotify.com/artist/5zA07XrRPmMYEAdwtfRtSD), [Bivolt](https://open.spotify.com/artist/0mQoWD18BxzhN8kr1cNwgQ), [Nith](https://open.spotify.com/artist/3OZbEO1ofELMzNrleV5Umb) | [Ela Joga](https://open.spotify.com/album/5AvbEHe8F554m3drljPLrK) | 2:44 |
 | 39 | [Dose Dupla](https://open.spotify.com/track/6Fc0wumF5xRJ3OZDavWk1d) | [Fanieh](https://open.spotify.com/artist/2ervTUezJd1gGsYHZaNXfN), [Ecologyk](https://open.spotify.com/artist/1mohmQWtxDNZcBGkfxG4eW), [Bivolt](https://open.spotify.com/artist/0mQoWD18BxzhN8kr1cNwgQ) | [Dose Dupla](https://open.spotify.com/album/1Y8ohMLIYUy5Vr0SlxFX5N) | 3:14 |
-| 40 | [Anjo](https://open.spotify.com/track/0ANO7mhTiJZE77U7J7pXqB) | [Bivolt](https://open.spotify.com/artist/0mQoWD18BxzhN8kr1cNwgQ) | [Nitro](https://open.spotify.com/album/4yDw1NdadwEr9WRHp3f41y) | 1:59 |
+| 40 | [Melhor da Vida](https://open.spotify.com/track/2yU6aVrosiFWiLj2VfzrEn) | [Bivolt](https://open.spotify.com/artist/0mQoWD18BxzhN8kr1cNwgQ), [Nave](https://open.spotify.com/artist/2Xpiwporhsl8LXdC96Xs8J) | [Nitro](https://open.spotify.com/album/4yDw1NdadwEr9WRHp3f41y) | 2:23 |
 
-Snapshot ID: `Mjg1MTQxOTUsMDAwMDAwMDAyOGZiNDU4OTVkMDhiNzA2MzUwNzdkNzIyMzE1NjMyMw==`
+Snapshot ID: `Mjg1MTU2NjEsMDAwMDAwMDBkYjIwZmQ5MTVjZWUzZTRmYTg5MDE5Nzk0ZTQ4Mzc1NQ==`

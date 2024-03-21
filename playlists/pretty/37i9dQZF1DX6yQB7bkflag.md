@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6yQB7bkflag.md) - [plain]
 
 > Lagu\-lagu teranyar yang akan menjadi favoritmu selanjutnya\. Cover: ZAYN
 
-[Spotify](https://open.spotify.com/user/spotify) - 117,012 likes - 100 songs - 6 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 117,022 likes - 100 songs - 6 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6yQB7bkflag.md) - [plain]
 | 99 | [Numb](https://open.spotify.com/track/7pLUMN0EExPXxan8pCOYBa) | [After Nourway](https://open.spotify.com/artist/1db4VIGVnfIOdVnQv5hQfH) | [Undelivered](https://open.spotify.com/album/2ahZl7AMUbRB0asDAxCJaZ) | 4:14 |
 | 100 | [I'm Blessed](https://open.spotify.com/track/0U8JJXyvA1ufQd1CJLTl1E) | [HYBS](https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI), [SIRUP](https://open.spotify.com/artist/1HzcHe0WFm4koBalCEOkVh) | [I'm Blessed](https://open.spotify.com/album/5EWpB07ahlO57i3zRRaIsK) | 3:38 |
 
-Snapshot ID: `MCwzYTU3MzEwZWNmN2E2MWU4NjMwYTBhY2M5ZTcwYjI5ZjNkNzhjMzAw`
+Snapshot ID: `MCw3ODU1ZjA2MzI4NmJmMzFhNTE4NWFiNzY5NWQ3NjE1MGMzMTNjODVj`

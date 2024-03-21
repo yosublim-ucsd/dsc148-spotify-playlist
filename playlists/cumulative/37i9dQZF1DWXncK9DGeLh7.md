@@ -4,7 +4,7 @@
 
 > 100% soul et funk ! Photo : Silk Sonic
 
-65 songs - 4 hr 16 min
+66 songs - 4 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,7 +23,7 @@
 | [Dancing On The Ceiling](https://open.spotify.com/track/0snPJPxkk0MbTc0xeUvAPt) | [Lionel Richie](https://open.spotify.com/artist/3gMaNLQm7D9MornNILzdSl) | [Dancing On The Ceiling \(Expanded Edition\)](https://open.spotify.com/album/5IvqScO5vIXQ2zrxtpCVHf) | 4:30 | 2023-07-11 |  |
 | [Easy](https://open.spotify.com/track/1JQ6Xm1JrvHfvAqhl5pwaA) | [Commodores](https://open.spotify.com/artist/6twIAGnYuIT1pncMAsXnEm) | [Commodores](https://open.spotify.com/album/2tzbNCAUTmW4MIM2Ulvrwl) | 4:16 | 2023-07-11 |  |
 | [Easy Lover](https://open.spotify.com/track/5LYJ631w9ps5h9tdvac7yP) | [Philip Bailey](https://open.spotify.com/artist/6ZNeppgfBLPUyugks9Yn1u), [Phil Collins](https://open.spotify.com/artist/4lxfqrEsLX6N1N4OCSkILp) | [Chinese Wall \(Expanded Edition\)](https://open.spotify.com/album/59RsiGLQVyFHiFn2K5VNvX) | 5:05 | 2023-07-11 |  |
-| [Everyday People](https://open.spotify.com/track/4ZVZBc5xvMyV3WzWktn8i7) | [Sly & The Family Stone](https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD) | [Stand](https://open.spotify.com/album/7iwS1r6JHYJe9xpPjzmWqD) | 2:21 | 2023-07-11 |  |
+| [Everyday People](https://open.spotify.com/track/4ZVZBc5xvMyV3WzWktn8i7) | [Sly & The Family Stone](https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD) | [Stand](https://open.spotify.com/album/7iwS1r6JHYJe9xpPjzmWqD) | 2:21 | 2023-07-11 | 2024-03-21 |
 | [Fantasy](https://open.spotify.com/track/0Eq4BMgsdV6DkLSJfX8eBt) | [Earth, Wind & Fire](https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg) | [The Best Of Earth, Wind & Fire Vol\. 1](https://open.spotify.com/album/2FW0uQ4WL25umm5p2VrZO7) | 3:46 | 2023-07-11 |  |
 | [Forget Me Nots \- Remastered](https://open.spotify.com/track/5ERZGchTi6sysVmA913Ryx) | [Patrice Rushen](https://open.spotify.com/artist/1mNnxxnPfHQDOkFjnZmdkc) | [Straight from the Heart \(Remastered\)](https://open.spotify.com/album/2tc6ZlzJS56yiVvo40R03g) | 4:44 | 2023-07-11 |  |
 | [Get Down On It](https://open.spotify.com/track/4Cv6ongCvJy9JfSkWVnb5D) | [Kool & The Gang](https://open.spotify.com/artist/3VNITwohbvU5Wuy5PC6dsI) | [Something Special](https://open.spotify.com/album/1kNUVRC3LbnhjrBruBwvUN) | 4:53 | 2023-07-11 |  |
@@ -55,6 +55,7 @@
 | [Nightshift](https://open.spotify.com/track/23IK8TF2MSiLnuEjaYPfVV) | [Commodores](https://open.spotify.com/artist/6twIAGnYuIT1pncMAsXnEm) | [Nightshift](https://open.spotify.com/album/6QRiOSB53KZEe22LfWr6EP) | 5:06 | 2023-07-11 |  |
 | [Off the Wall](https://open.spotify.com/track/3zYpRGnnoegSpt3SguSo3W) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [Off the Wall](https://open.spotify.com/album/2ZytN2cY4Zjrr9ukb2rqTP) | 4:06 | 2023-07-11 |  |
 | [Papa Was A Rollin' Stone \- Single Version](https://open.spotify.com/track/7MiLmLbwNoyf47xQ4TCVYp) | [The Temptations](https://open.spotify.com/artist/3RwQ26hR2tJtA8F9p2n7jG) | [20th Century Masters: The Millennium Collection: Best Of The Temptations, Vol\. 2 \- The '70s, '80s, '90s](https://open.spotify.com/album/2kzUxFepw1uLjbgqV537eP) | 6:59 | 2023-07-11 |  |
+| [Raspberry Beret](https://open.spotify.com/track/2I1W3hcSsPIsEJfD69pHrW) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [Around The World In A Day](https://open.spotify.com/album/27SA4Pkelh2pbwbVEORPOM) | 3:35 | 2023-07-11 |  |
 | [Reach Out I'll Be There](https://open.spotify.com/track/6Pkj4nv5K53i64cLVgkVyY) | [Four Tops](https://open.spotify.com/artist/7fIvjotigTGWqjIz6EP1i4) | [Reach Out](https://open.spotify.com/album/4Jw0RycAqlXeAoymbc0CYp) | 2:58 | 2023-07-11 | 2024-02-08 |
 | [Respect](https://open.spotify.com/track/7s25THrKz86DM225dOYwnr) | [Aretha Franklin](https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok) | [I Never Loved a Man the Way I Love You](https://open.spotify.com/album/5WndWfzGwCkHzAbQXVkg2V) | 2:27 | 2023-07-11 |  |
 | [Rhythm Of The Night](https://open.spotify.com/track/5yGTQzYbEdY6B9RFZJypgt) | [DeBarge](https://open.spotify.com/artist/6is2U7I1jlI8PjxNZOHIMV) | [Rhythm Of The Night](https://open.spotify.com/album/13xiHt25Hn4WZ6OLzhK1n8) | 3:49 | 2023-07-11 | 2023-12-30 |

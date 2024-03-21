@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY7UuaejrQg4.md) - [plain]
 
 > 2018 highlights from the home of indie music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 82,033 likes - 100 songs - 6 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 82,078 likes - 100 songs - 6 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY7UuaejrQg4.md) - [plain]
 | 36 | [Lookalike](https://open.spotify.com/track/4K3gM7kzX4POAfrs71HomN) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Sunset Season](https://open.spotify.com/album/16pubXUlqRziVWRsT6lLNz) | 3:40 |
 | 37 | [I'm with You](https://open.spotify.com/track/6Qwuw0eOeszVlewLpu24gR) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [Nation of Two](https://open.spotify.com/album/5f6Eu9QtujgGggq5qbbycV) | 3:59 |
 | 38 | [When You Die](https://open.spotify.com/track/3td69vL9Py7Ai9wfXYnvji) | [MGMT](https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE) | [Little Dark Age](https://open.spotify.com/album/7GjVWG39IOj4viyWplJV4H) | 4:23 |
-| 39 | [Tranz](https://open.spotify.com/track/7jYUaoOfdcYgUvkK8NnFfx) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ) | [The Now Now](https://open.spotify.com/album/1amYhlukNF8WdaQC3gKkgL) | 2:42 |
-| 40 | [Underwater](https://open.spotify.com/track/5ZvHcR4OSwvEV5IhigbTOT) | [RÜFÜS DU SOL](https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj) | [SOLACE](https://open.spotify.com/album/5Jazpq8mEgSgQs06mdwkQd) | 5:49 |
+| 39 | [Underwater](https://open.spotify.com/track/5ZvHcR4OSwvEV5IhigbTOT) | [RÜFÜS DU SOL](https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj) | [SOLACE](https://open.spotify.com/album/5Jazpq8mEgSgQs06mdwkQd) | 5:49 |
+| 40 | [Tranz](https://open.spotify.com/track/7jYUaoOfdcYgUvkK8NnFfx) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ) | [The Now Now](https://open.spotify.com/album/1amYhlukNF8WdaQC3gKkgL) | 2:42 |
 | 41 | [Lemon Boy](https://open.spotify.com/track/3Yvk0ZLxMlt6ioasvdN6vB) | [Cavetown](https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8) | [Lemon Boy](https://open.spotify.com/album/5rvA7Pth9X8PFp5jHqFl3V) | 4:32 |
 | 42 | [still feel.](https://open.spotify.com/track/48XkVAagIoQHCsOlJtXUd5) | [half•alive](https://open.spotify.com/artist/7sOR7gk6XUlGnxj3p9F54k) | [Now, Not Yet](https://open.spotify.com/album/2KSWrd22LGc0Hmqs2Z5i7z) | 4:07 |
 | 43 | [Lucy](https://open.spotify.com/track/5RxpYHVbGJPOvSEATQyg9P) | [Still Woozy](https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y), [ODIE](https://open.spotify.com/artist/5aMIbwZQvP2MHPMVC5zCGj) | [Lucy](https://open.spotify.com/album/4VPzKudemKpbuuyEHIhFSU) | 2:22 |
@@ -64,14 +64,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY7UuaejrQg4.md) - [plain]
 | 54 | [Heavy, California](https://open.spotify.com/track/34wcz4mpAActEc6gtqX3wz) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [For Ever](https://open.spotify.com/album/5gYCZgmXzzWXxOCb9fMfBm) | 3:04 |
 | 55 | [Skin](https://open.spotify.com/track/467t3218y3yihFcyDGWjr0) | [Dijon](https://open.spotify.com/artist/0knGpCTbmG4ctl1wzYRZs4) | [Skin](https://open.spotify.com/album/1E3Dc94QXnqiQcGVgij0iW) | 3:50 |
 | 56 | [Humility \(feat\. George Benson\)](https://open.spotify.com/track/3NeiYiBn3rQBgurfVk92Zm) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ), [George Benson](https://open.spotify.com/artist/4N8BwYTEC6XqykGvXXlmfv) | [The Now Now](https://open.spotify.com/album/1amYhlukNF8WdaQC3gKkgL) | 3:17 |
-| 57 | [Turn](https://open.spotify.com/track/2PL9IBLQvJjE7hqCQyJl2g) | [The Wombats](https://open.spotify.com/artist/0Ya43ZKWHTKkAbkoJJkwIB) | [Beautiful People Will Ruin Your Life](https://open.spotify.com/album/6APrFw7uAsqi0vXaQTtSYi) | 3:27 |
+| 57 | [Narcissist \(feat\. The 1975\)](https://open.spotify.com/track/4qjLvvBh5ZeKEPyShKRf06) | [No Rome](https://open.spotify.com/artist/6auWB5YAlcKaHyrbTH66nd), [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [RIP Indo Hisashi](https://open.spotify.com/album/5l156gMmHiFQKaAqCWRkI4) | 3:15 |
 | 58 | [Dontmakemefallinlove](https://open.spotify.com/track/4Ooq4tmYpe3nZP1BnCtsWM) | [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP) | [Chiquito](https://open.spotify.com/album/4gjhrTin1WwrEHd8GslZ7O) | 3:27 |
-| 59 | [Narcissist \(feat\. The 1975\)](https://open.spotify.com/track/4qjLvvBh5ZeKEPyShKRf06) | [No Rome](https://open.spotify.com/artist/6auWB5YAlcKaHyrbTH66nd), [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [RIP Indo Hisashi](https://open.spotify.com/album/5l156gMmHiFQKaAqCWRkI4) | 3:15 |
+| 59 | [Turn](https://open.spotify.com/track/2PL9IBLQvJjE7hqCQyJl2g) | [The Wombats](https://open.spotify.com/artist/0Ya43ZKWHTKkAbkoJJkwIB) | [Beautiful People Will Ruin Your Life](https://open.spotify.com/album/6APrFw7uAsqi0vXaQTtSYi) | 3:27 |
 | 60 | [Arms](https://open.spotify.com/track/4EXvl9cypQrKVYwabqd1EY) | [The Paper Kites](https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy) | [On the Train Ride Home](https://open.spotify.com/album/4amdDYo23aSOrv7hSZrCMT) | 3:23 |
 | 61 | [Generation Why](https://open.spotify.com/track/79e2GU4RLPjAqnijfvsXYr) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Sunset Season](https://open.spotify.com/album/16pubXUlqRziVWRsT6lLNz) | 3:39 |
 | 62 | [Lover Boy](https://open.spotify.com/track/2rd4FH1cSaWGc0ZiUaMbX9) | [Phum Viphurit](https://open.spotify.com/artist/5mqguTgtaoCMNMZD6txCh6) | [Lover Boy](https://open.spotify.com/album/6q6pANmFQbMk7KzlzNeBep) | 3:56 |
-| 63 | [We're Going Home](https://open.spotify.com/track/5J7zqPpQkN9JZiaELHNKSL) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [Nation of Two](https://open.spotify.com/album/5f6Eu9QtujgGggq5qbbycV) | 3:26 |
-| 64 | [Give Yourself A Try](https://open.spotify.com/track/4rmIfFUZhhi9sS5IYtpkXw) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [A Brief Inquiry Into Online Relationships](https://open.spotify.com/album/6PWXKiakqhI17mTYM4y6oY) | 3:16 |
+| 63 | [Give Yourself A Try](https://open.spotify.com/track/4rmIfFUZhhi9sS5IYtpkXw) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [A Brief Inquiry Into Online Relationships](https://open.spotify.com/album/6PWXKiakqhI17mTYM4y6oY) | 3:16 |
+| 64 | [We're Going Home](https://open.spotify.com/track/5J7zqPpQkN9JZiaELHNKSL) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [Nation of Two](https://open.spotify.com/album/5f6Eu9QtujgGggq5qbbycV) | 3:26 |
 | 65 | [Say, Can You Hear](https://open.spotify.com/track/16Ky4KZFBlAnFzsgQOn5MT) | [Men I Trust](https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT) | [Say, Can You Hear](https://open.spotify.com/album/1nCD1xKA9swhdJaoKFFngO) | 3:09 |
 | 66 | [Feeling Lonely](https://open.spotify.com/track/5uIRujGRZv5t4fGKkUTv4n) | [boy pablo](https://open.spotify.com/artist/7wbkl3zgDZEoZer357mVIw) | [Soy Pablo](https://open.spotify.com/album/1lESM5Y1VAvrCLEgLmyfOw) | 3:17 |
 | 67 | [Greek God](https://open.spotify.com/track/7KJXiuMXQu723ODChoxENp) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Sunset Season](https://open.spotify.com/album/16pubXUlqRziVWRsT6lLNz) | 3:56 |
@@ -99,8 +99,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY7UuaejrQg4.md) - [plain]
 | 89 | [Quarter Past Midnight](https://open.spotify.com/track/1etiUDkISHELzQGMY79ryt) | [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [Quarter Past Midnight](https://open.spotify.com/album/70p5NvBOkvaxU1UeIxhE1Z) | 3:21 |
 | 90 | [I Can't Stand It](https://open.spotify.com/track/16nIdWPjwoNTkADzm6nwBb) | [Blossoms](https://open.spotify.com/artist/22RISwgVJyZu9lpqAcv1F5) | [Cool Like You \(Deluxe\)](https://open.spotify.com/album/0yO5Mwu2oDdGbeRFpAaBGa) | 2:57 |
 | 91 | [Cool Again](https://open.spotify.com/track/4CFJuKGq5CiGF95M2Jrw3S) | [Shoffy](https://open.spotify.com/artist/4wO0kHiOwf8l9VMJJN9HmG) | [Lenses](https://open.spotify.com/album/1RTm973fIk4zlqW69bqXOU) | 3:11 |
-| 92 | [Rose Petals](https://open.spotify.com/track/2qWuegI1pmesQPRvzgnokk) | [S\. Carey](https://open.spotify.com/artist/2LSJrlndCuTpdEluvYHc2E) | [Hundred Acres](https://open.spotify.com/album/4H1xbaXxVDmHnFQ5ifzyM4) | 3:33 |
-| 93 | [Drunk In LA](https://open.spotify.com/track/76XDNJIQpP9WGO5XASGBww) | [Beach House](https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY) | [7](https://open.spotify.com/album/1zN85Ep8w2JORfCe0RHLDP) | 3:59 |
+| 92 | [Drunk In LA](https://open.spotify.com/track/76XDNJIQpP9WGO5XASGBww) | [Beach House](https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY) | [7](https://open.spotify.com/album/1zN85Ep8w2JORfCe0RHLDP) | 3:59 |
+| 93 | [Rose Petals](https://open.spotify.com/track/2qWuegI1pmesQPRvzgnokk) | [S\. Carey](https://open.spotify.com/artist/2LSJrlndCuTpdEluvYHc2E) | [Hundred Acres](https://open.spotify.com/album/4H1xbaXxVDmHnFQ5ifzyM4) | 3:33 |
 | 94 | [Forever](https://open.spotify.com/track/5VJJE6CH2Re3GCcOuubmIB) | [CHVRCHES](https://open.spotify.com/artist/3CjlHNtplJyTf9npxaPl5w) | [Love Is Dead](https://open.spotify.com/album/4ePbJdHu99l50AwUnG1baG) | 3:44 |
 | 95 | [Ride or Die \(feat\. Foster the People\)](https://open.spotify.com/track/3uJsg8xIH7OpWHxuJaMLJX) | [The Knocks](https://open.spotify.com/artist/2x7EATekOPhFGRx3syMGEC), [Foster The People](https://open.spotify.com/artist/7gP3bB2nilZXLfPHJhMdvc) | [Ride or Die \(feat\. Foster the People\)](https://open.spotify.com/album/4NSPREWQ2t8VdRGqK45UkD) | 4:02 |
 | 96 | [Heat Wave](https://open.spotify.com/track/7B0uWqVjMySfDKhtZghBkO) | [Snail Mail](https://open.spotify.com/artist/4QkSD9TRUnMtI8Fq1jXJJe) | [Lush](https://open.spotify.com/album/2ZlrWJ4Ev4DhG6mRo5h1AP) | 5:08 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY7UuaejrQg4.md) - [plain]
 | 99 | [Cheetah Tongue](https://open.spotify.com/track/0Pa1cE18FyJqPNQZSeCl0c) | [The Wombats](https://open.spotify.com/artist/0Ya43ZKWHTKkAbkoJJkwIB) | [Beautiful People Will Ruin Your Life](https://open.spotify.com/album/6APrFw7uAsqi0vXaQTtSYi) | 3:39 |
 | 100 | [The Reason](https://open.spotify.com/track/41nihGw6vE5iB5SjdyzadQ) | [Chelsea Cutler](https://open.spotify.com/artist/5JMLG56F1X5mFmWNmS0iAp) | [Sleeping with Roses](https://open.spotify.com/album/1wgg1RCgP9dCaCKnnwpQOW) | 3:04 |
 
-Snapshot ID: `MCw0YTg3YzcxNzZhN2I5NTBjYWJjY2RlMmRmMzk4MjU4NTg1OWMwNDkw`
+Snapshot ID: `MCxlZWM4NjU5NDEyZjkzODc3OTljOGVjMzU3MDMzNTUzNzA0NGFmMWQ2`

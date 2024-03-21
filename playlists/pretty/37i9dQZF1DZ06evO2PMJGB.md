@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2PMJGB.md) - [plain]
 
 > This is Luísa Sonza\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 221,256 likes - 39 songs - 1 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 221,350 likes - 38 songs - 1 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,6 +46,5 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2PMJGB.md) - [plain]
 | 36 | [Século 21](https://open.spotify.com/track/7jiGFTWeO3MmMN9dpHRjUZ) | [Leo Santana](https://open.spotify.com/artist/7KVJCU4z5L4EUHILL8aMxR), [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d) | [Século 21](https://open.spotify.com/album/5k9YDvQ6t8iHsfWGyJVox7) | 2:47 |
 | 37 | [Garupa](https://open.spotify.com/track/6nmYC5NZrRjRMhyR4aHLoF) | [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d), [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV) | [Pandora](https://open.spotify.com/album/1eHsHKConMfzho7k48pomW) | 2:08 |
 | 38 | [Não Vai Embora \- Acústico](https://open.spotify.com/track/3lIuIcigjcZnQipCpaI6fh) | [Malibu](https://open.spotify.com/artist/0PMk31f9Log4ixwUUY40p6), [Dilsinho](https://open.spotify.com/artist/4NUePmzDvCYqilXBFa91Hg), [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d) | [Não Vai Embora \(Acústico\)](https://open.spotify.com/album/4bH36H3ghOHKihdYY0kNWf) | 3:47 |
-| 39 | [Friend De Semana](https://open.spotify.com/track/3VxQC3iXh0rDVy5jhv8j71) | [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB), [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d), [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25) | [K.O.](https://open.spotify.com/album/5y5Qud31YIPnxbVjzojvmK) | 3:28 |
 
-Snapshot ID: `Mjg1MTQxOTUsMDAwMDAwMDA5N2YwMzc1Y2MyZjQ3NWVmZjBiNGE1ZjQxNGY4MTc1NQ==`
+Snapshot ID: `Mjg1MTU2NjEsMDAwMDAwMDBiMTQxNzg2NjU1ZWU2NjgxMzdjZTNiNzRkNmY4NmVlYg==`

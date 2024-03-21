@@ -4,7 +4,7 @@
 
 > Our editor’s picks for best metal and hard rock songs of the year\. Cover: Spiritbox
 
-220 songs - 14 hr 40 min
+221 songs - 14 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -141,7 +141,8 @@
 | [Nobody](https://open.spotify.com/track/4Rs2N7ewIjanXUNYtMKK3j) | [Avenged Sevenfold](https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs) | [Life Is But a Dream…](https://open.spotify.com/album/50YNY0xy9uJ0U9eFQBdLJa) | 5:53 | 2023-11-29 |  |
 | [Omens](https://open.spotify.com/track/3MI4le4jkC6ulWLzupdDae) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [Omens](https://open.spotify.com/album/6GCmzQESAIPAXbPsIMic3x) | 3:47 | 2022-11-30 | 2023-11-30 |
 | [on the verge](https://open.spotify.com/track/75dS4i4yFu4R4WBrneLXIC) | [thrown](https://open.spotify.com/artist/5eBCPtU2iPbzuMRre9BePt) | [on the verge](https://open.spotify.com/album/4jrVOK9sQX5PmGeASmN230) | 2:14 | 2023-11-29 |  |
-| [One Of Us](https://open.spotify.com/track/33jSdWZrZmhQt2MYQBJgm9) | [The Word Alive](https://open.spotify.com/artist/1CF8aEN939swnuIZGFI7Hk), [Bad Omens](https://open.spotify.com/artist/3Ri4H12KFyu98LMjSoij5V) | [Hard Reset](https://open.spotify.com/album/5H49CClHBLpUgyKN8ZCour) | 3:43 | 2023-11-29 |  |
+| [One Of Us](https://open.spotify.com/track/2Os6Vp6QlErl2E5hwfdrUh) | [The Word Alive](https://open.spotify.com/artist/1CF8aEN939swnuIZGFI7Hk), [Bad Omens](https://open.spotify.com/artist/3Ri4H12KFyu98LMjSoij5V) | [Hard Reset](https://open.spotify.com/album/17cbasTWOvRFtMoHb7aiHm) | 3:43 | 2023-11-29 |  |
+| [One Of Us](https://open.spotify.com/track/33jSdWZrZmhQt2MYQBJgm9) | [The Word Alive](https://open.spotify.com/artist/1CF8aEN939swnuIZGFI7Hk), [Bad Omens](https://open.spotify.com/artist/3Ri4H12KFyu98LMjSoij5V) | [Hard Reset](https://open.spotify.com/album/5H49CClHBLpUgyKN8ZCour) | 3:43 | 2023-11-29 | 2024-03-21 |
 | [Oportunista](https://open.spotify.com/track/5j6GKJumEweQIpE91QZcby) | [Calva Louise](https://open.spotify.com/artist/02nZLQtQ4vL5iHyp6atBrh) | [Oportunista](https://open.spotify.com/album/0bcLhYRcisUhImKFtAxxEh) | 3:08 | 2023-11-29 |  |
 | [Pain Remains I: Dancing Like Flames](https://open.spotify.com/track/227jOVNY1MrE5MkUcQRhsk) | [Lorna Shore](https://open.spotify.com/artist/6vXYoy8ouRVib302zxaxFF) | [Pain Remains](https://open.spotify.com/album/1WuqlDJb7Z2ipBhM6ww7QI) | 5:52 | 2022-11-30 | 2023-11-30 |
 | [Panic Attack](https://open.spotify.com/track/1yEz9RflAoVrjAbCLnEI35) | [Judas Priest](https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I) | [Panic Attack](https://open.spotify.com/album/02DtysqFzSbWAfptGA7mec) | 5:25 | 2023-11-29 |  |

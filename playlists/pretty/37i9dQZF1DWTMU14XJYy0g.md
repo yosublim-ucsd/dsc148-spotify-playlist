@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTMU14XJYy0g.md) - [plain]
 
 > Lo más potente del rock argentino, y algunos invitados de lujo\. Foto: El Plan de la Mariposa
 
-[Spotify](https://open.spotify.com/user/spotify) - 509,140 likes - 70 songs - 4 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 509,168 likes - 70 songs - 4 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTMU14XJYy0g.md) - [plain]
 | 69 | [La Rueda Mágica \- EADDA9223 \(feat\. Andrés Calamaro & Conociendo Rusia\)](https://open.spotify.com/track/050rSCLSxQfqh0M9y9dID7) | [Fito Paez](https://open.spotify.com/artist/1bZNv4q3OxYq7mmnLha7Tu), [Andrés Calamaro](https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU), [Conociendo Rusia](https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2) | [EADDA9223](https://open.spotify.com/album/4VdWh8m5cYm3XI6dhayGIg) | 4:08 |
 | 70 | [¿Cuál es tu norte?](https://open.spotify.com/track/3rXelz3OropaCqcftAvS0d) | [Piti Fernández](https://open.spotify.com/artist/4PJtMqmJX54aKaztYQfFYb) | [¿Cuál es tu norte?](https://open.spotify.com/album/4jB9UpCufTpKqCKdhzliPz) | 4:24 |
 
-Snapshot ID: `MCw5YzlhYzc3NzBlYzYwZjEwZmFmMWE4OGRiYTE5MTZhOGFmNDNiMmQ2`
+Snapshot ID: `MCwwZmRhYmE0YTJhYTE2MDUzYmVkNTk4Y2M0MzMyNDA1YTM1NTg4NTVl`

@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Kz7jBbxgYQ.md) - [plain]
 
 > Home to the best of South Asian Indie scene\. Cover: Aashir Wajahat
 
-[Spotify](https://open.spotify.com/user/spotify) - 147,902 likes - 95 songs - 5 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 148,036 likes - 95 songs - 5 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Sadqay](https://open.spotify.com/track/2lX53kXvYnvpV8Vqfe4S7s) | [Aashir Wajahat](https://open.spotify.com/artist/4Kd6rJWBl4KpwRYct9PFMo), [NAYEL](https://open.spotify.com/artist/7B0H8l9inK2UBRm5Xsc9zO), [Nehaal Naseem](https://open.spotify.com/artist/6YSVUxXGsQQD2cWSJhN8re) | [Sadqay](https://open.spotify.com/album/6DCDw6OlKLmVlVrp9J6YWD) | 2:34 |
-| 2 | [Chor](https://open.spotify.com/track/53gdHIMmv3XubECRLL6R62) | [Justh](https://open.spotify.com/artist/6gxRXj2KUJ02vfIgkNUq5b) | [Chor](https://open.spotify.com/album/39noVgiQirYCWfBIrBzP30) | 3:28 |
+| 2 | [Chor](https://open.spotify.com/track/6YewfSA18qq5xl1KlJQkpY) | [Justh](https://open.spotify.com/artist/6gxRXj2KUJ02vfIgkNUq5b) | [Chor](https://open.spotify.com/album/1wBSOR9eFqfkDFyJtwPm7V) | 3:28 |
 | 3 | [Katchi Sera \- From "Think Indie"](https://open.spotify.com/track/1zzejMGRYKP5XOa3FmzXfa) | [Sai Abhyankkar](https://open.spotify.com/artist/5jJrJU7VVmxQQLcLAmmxXc) | [Katchi Sera \(From "Think Indie"\)](https://open.spotify.com/album/1kqsloJJsGKKKiWhinel6F) | 3:01 |
 | 4 | [Mulaqat](https://open.spotify.com/track/7uZLUFqPgGqwzD5rzOl8Sa) | [Prateek Kuhad](https://open.spotify.com/artist/0tC995Rfn9k2l7nqgCZsV7) | [Mulaqat](https://open.spotify.com/album/2LBQG9vBtXEL7RD4FUTJTa) | 4:06 |
 | 5 | [5 am](https://open.spotify.com/track/2Wn4C2J3naPghLX3pDSJra) | [Zaeden](https://open.spotify.com/artist/5lMNphVhMLvhFmTWiKiLA2) | [5 am](https://open.spotify.com/album/4imUPyjxCSeNdAUs6ZjQcR) | 2:27 |
@@ -104,4 +104,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Kz7jBbxgYQ.md) - [plain]
 | 94 | [Laut Aao Na](https://open.spotify.com/track/4ByPoS1tU7Gvbimkj29GQu) | [Hansika Pareek](https://open.spotify.com/artist/0RVfcqug2nB820dxIGycIW) | [Laut Aao Na](https://open.spotify.com/album/6zNjyPHHO10rc7L1Yxr41O) | 3:47 |
 | 95 | [Mazaak](https://open.spotify.com/track/0uBo93xl23O60oErtKvSAg) | [Anuv Jain](https://open.spotify.com/artist/4gdMJYnopf2nEUcanAwstx) | [Mazaak](https://open.spotify.com/album/2Uewap1o2Ic2XmN4wb9isV) | 3:32 |
 
-Snapshot ID: `MCw4OWFjODU2ZTY1YmU2NmJkOTM5NTIwMjVkNTE0Mjg5MTU1MmJlZjM2`
+Snapshot ID: `MCxkMzk5YjUwNGY2N2I5Y2M4MTc4ZmM0MDUxNjg4YjJhZTQ3ZDJiZWIz`

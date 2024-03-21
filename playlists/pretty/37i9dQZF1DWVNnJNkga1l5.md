@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVNnJNkga1l5.md) - [plain]
 
 > Canciones inolvidables para darle un toque dulce a tus comidas.
 
-[Spotify](https://open.spotify.com/user/spotify) - 144,208 likes - 60 songs - 3 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 144,268 likes - 60 songs - 3 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,8 +18,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVNnJNkga1l5.md) - [plain]
 | 8 | [Nada de Nada](https://open.spotify.com/track/3PaBUPtwqvybnUNWyLZVQr) | [Valentina Rico](https://open.spotify.com/artist/1VqjlTkCPuK6amNOlkM18d) | [Nada de Nada](https://open.spotify.com/album/0v2GwxgQ2cSoiQd8ZXiAPt) | 3:37 |
 | 9 | [La Incondicional](https://open.spotify.com/track/6F9yAYUaNbUhdlQyt5uZ3b) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [Busca Una Mujer](https://open.spotify.com/album/6JSqwckfTYWbJj4R1fdOOo) | 4:17 |
 | 10 | [Algo Contigo](https://open.spotify.com/track/4zsDA31stWMtLveU61hejd) | [Vicentico](https://open.spotify.com/artist/25THA9HUHoxpCT4LBp7UsZ) | [Vicentico](https://open.spotify.com/album/6Qt9Yiol5QcAEeKPyIQafo) | 3:38 |
-| 11 | [Ciega, Sordomuda](https://open.spotify.com/track/7jxHeJLVpnP7S08JFF4GBi) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Donde Estan Los Ladrones](https://open.spotify.com/album/5hcKSTqKOLuzJgYIQileAe) | 4:27 |
-| 12 | [Te Mando Flores](https://open.spotify.com/track/2in1gSZtv2lRbcZUmN9aAl) | [Fonseca](https://open.spotify.com/artist/53KTldaJ8tHSkYU3nigfwP) | [Corazón](https://open.spotify.com/album/6O0WvW7JA4B02y8D9Kd3Bx) | 3:48 |
+| 11 | [Te Mando Flores](https://open.spotify.com/track/2in1gSZtv2lRbcZUmN9aAl) | [Fonseca](https://open.spotify.com/artist/53KTldaJ8tHSkYU3nigfwP) | [Corazón](https://open.spotify.com/album/6O0WvW7JA4B02y8D9Kd3Bx) | 3:48 |
+| 12 | [Ciega, Sordomuda](https://open.spotify.com/track/7jxHeJLVpnP7S08JFF4GBi) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Donde Estan Los Ladrones](https://open.spotify.com/album/5hcKSTqKOLuzJgYIQileAe) | 4:27 |
 | 13 | [Mi Historia Entre Tus Dedos \- Remastered 2020](https://open.spotify.com/track/3UgduSS2bCMmatRox69u3g) | [Gianluca Grignani](https://open.spotify.com/artist/0H1InhXaXQPL1aj0mvHemU) | [Destino Paraiso \- 25th Anniversary Edition \(Remastered\)](https://open.spotify.com/album/2gOsQbi07TN9EkLv0kybkt) | 5:08 |
 | 14 | [Un nuevo amor](https://open.spotify.com/track/5SxqIG4rs9hxt0FO8gX5ig) | [Tranzas](https://open.spotify.com/artist/1GfaAWKfZE9hrYS8IqkWKB) | [Por Siempre](https://open.spotify.com/album/6GFfLFXNbp690VCpEgYigS) | 3:50 |
 | 15 | [A Dios Le Pido](https://open.spotify.com/track/129lYDVKnWtlJc2PZJviuA) | [Juanes](https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7) | [Un Día Normal](https://open.spotify.com/album/2UJCnSqpR3AIuTvWYZLCp1) | 3:25 |
@@ -34,12 +34,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVNnJNkga1l5.md) - [plain]
 | 24 | [El Problema](https://open.spotify.com/track/5UJsYyBi0CdSJl0ul5aTgO) | [Ricardo Arjona](https://open.spotify.com/artist/0h1zs4CTlU9D2QtgPxptUD) | [Santo Pecado](https://open.spotify.com/album/7jlpMHgMoGjy2mc0CwzCjf) | 5:30 |
 | 25 | [No\_se\_ve.mp3](https://open.spotify.com/track/2iIBpwP4FyQ95xgVail3yr) | [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9), [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi), [ZECCA](https://open.spotify.com/artist/2Yia9CwtgcrsN5kVOQ0qRA) | [No\_se\_ve.mp3](https://open.spotify.com/album/7sAPapzxqBhYuDe7OxldCN) | 3:23 |
 | 26 | [¿Y Cómo Es Él?](https://open.spotify.com/track/7aSxNjoVoAwNL7HDAKwGtC) | [José Luis Perales](https://open.spotify.com/artist/5RwfJb8wxN1fuodcPORVxP) | [Entre El Agua Y El Fuego](https://open.spotify.com/album/2D6nGOEEyp7GZCyWlO99GI) | 4:08 |
-| 27 | [Me Muero](https://open.spotify.com/track/3ri9fLG89OdSpjxheYxU7S) | [La Quinta Estacion](https://open.spotify.com/artist/7FZj349hdLfD6qzXkJLuAh) | [El Mundo Se Equivoca](https://open.spotify.com/album/6C0am1pBvF0viIFsa0FZnp) | 3:09 |
-| 28 | [Te quiero](https://open.spotify.com/track/6tu2FHuKL9C8pwNrityweQ) | [Hombres G](https://open.spotify.com/artist/60uh2KYYSCqAgJNxcU4DA0) | [Las baladas \(Los singles vol II\)](https://open.spotify.com/album/2lsc9HZQaNf3gT7lIys2vN) | 3:45 |
+| 27 | [Te quiero](https://open.spotify.com/track/6tu2FHuKL9C8pwNrityweQ) | [Hombres G](https://open.spotify.com/artist/60uh2KYYSCqAgJNxcU4DA0) | [Las baladas \(Los singles vol II\)](https://open.spotify.com/album/2lsc9HZQaNf3gT7lIys2vN) | 3:45 |
+| 28 | [Me Muero](https://open.spotify.com/track/3ri9fLG89OdSpjxheYxU7S) | [La Quinta Estacion](https://open.spotify.com/artist/7FZj349hdLfD6qzXkJLuAh) | [El Mundo Se Equivoca](https://open.spotify.com/album/6C0am1pBvF0viIFsa0FZnp) | 3:09 |
 | 29 | [No Me Doy Por Vencido](https://open.spotify.com/track/4lerOTNr2tFWJCAmmhymhi) | [Luis Fonsi](https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG) | [Palabras Del Silencio \(Edición Aniversario \- Un Año Despues\)](https://open.spotify.com/album/5gCxcHCAA50nboku1ks180) | 3:59 |
 | 30 | [CORAZÓN VACÍO](https://open.spotify.com/track/3oNnzH6hmqIGIhJ1NcHlrh) | [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [CORAZÓN VACÍO](https://open.spotify.com/album/3YBQyY0Bj7bpxj0VHAse0P) | 2:40 |
-| 31 | [Tu Cárcel](https://open.spotify.com/track/0LNn2O06dvsZqvWaS870xJ) | [Los Bukis](https://open.spotify.com/artist/16kOCiqZ1auY4sokSeZuKf) | [Me Volvi A Acordar De Ti](https://open.spotify.com/album/5UDp9amJcdxcM86mM0Hwiy) | 3:32 |
-| 32 | [¿A Dónde Vamos A Parar?](https://open.spotify.com/track/1Agu4u8a8Qm28zq5JtwaVv) | [Marco Antonio Solís](https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd) | [En Total Plenitud](https://open.spotify.com/album/6RXfdbB8YWgmE6LjXs6RHg) | 3:48 |
+| 31 | [¿A Dónde Vamos A Parar?](https://open.spotify.com/track/1Agu4u8a8Qm28zq5JtwaVv) | [Marco Antonio Solís](https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd) | [En Total Plenitud](https://open.spotify.com/album/6RXfdbB8YWgmE6LjXs6RHg) | 3:48 |
+| 32 | [Tu Cárcel](https://open.spotify.com/track/0LNn2O06dvsZqvWaS870xJ) | [Los Bukis](https://open.spotify.com/artist/16kOCiqZ1auY4sokSeZuKf) | [Me Volvi A Acordar De Ti](https://open.spotify.com/album/5UDp9amJcdxcM86mM0Hwiy) | 3:32 |
 | 33 | [Me Gustas](https://open.spotify.com/track/7jtbRKtXtGtsJOBMaBo72W) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [Secreto De Amor](https://open.spotify.com/album/2OivwIlbg7qwTg8SLGB0rV) | 3:27 |
 | 34 | [Así No Te Amará Jamás](https://open.spotify.com/track/0hTao6s03MkTStWfxAmnGk) | [Amanda Miguel](https://open.spotify.com/artist/3v8mFhjLFa50QK8zDvAMYN) | [El Sonido Vol\. 1](https://open.spotify.com/album/4pikNCtnVpJMebAIS5tuYS) | 2:51 |
 | 35 | [Nuez](https://open.spotify.com/track/6Pt1SXtWsjL8tEKV94F5VX) | [Valentina Rico](https://open.spotify.com/artist/1VqjlTkCPuK6amNOlkM18d) | [Nuez](https://open.spotify.com/album/05UGoDqdTiORAjyrt5wtlT) | 3:32 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVNnJNkga1l5.md) - [plain]
 | 59 | [Si Me Dejas Ahora](https://open.spotify.com/track/4Ffrs6kqh1cyNC1gdRWI38) | [José José](https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV) | [Si Me Dejas Ahora](https://open.spotify.com/album/67vQGGmJo6HWohZswCAnXc) | 4:32 |
 | 60 | [Azúcar Amargo](https://open.spotify.com/track/4Gf68vwxa69hCiXmJ1jvgj) | [Fey](https://open.spotify.com/artist/3uC20p2EoNm5LYtzSVWdkL) | [Tierna La Noche](https://open.spotify.com/album/6okRyANFqFxUmxBcGwRp9Y) | 4:41 |
 
-Snapshot ID: `MCwxMzBhMmQ0ZDMwNjNlZDE5MjQ5OGVjYzUyNjA3ZTY4ZDI2ZjlkODYx`
+Snapshot ID: `MCw5ZWRmOTcyZDIwZTkwMDVlYWZlNWI1ODZmMGUyNjNjZWY5NTVhM2Nm`

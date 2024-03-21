@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUNIrSzKgQbP.md) - [plain]
 
 > Dreamy springtime melodies to watch the flowers bloom 🌷
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,653,250 likes - 90 songs - 5 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,653,323 likes - 90 songs - 5 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Deeper Well](https://open.spotify.com/track/2lJn77IeZAP9cmv6DPXOrL) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Deeper Well](https://open.spotify.com/album/2NXiMKrwmPrqU8epp20pW8) | 3:52 |
+| 1 | [Deeper Well](https://open.spotify.com/track/333XFHKsHU0pOocFzBgrJi) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Deeper Well](https://open.spotify.com/album/5SxZmGwc4eJuPp6PcO4JgJ) | 3:52 |
 | 2 | [I Guess](https://open.spotify.com/track/0rkKuNq4U8E8KTLq7RRl1Z) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [I Guess](https://open.spotify.com/album/0vfrwv3RvGaby6W4gMfh2E) | 3:44 |
 | 3 | [Visions Of You](https://open.spotify.com/track/22D1DwiWzLVfIodVEG5XtA) | [Steinza](https://open.spotify.com/artist/6Q868mSv5AUeLn44rc77sD) | [Visions Of You](https://open.spotify.com/album/22ERssxXyl2G0RYOVNjnHV) | 3:56 |
 | 4 | [Woodland](https://open.spotify.com/track/2dm13KtTfScU9ObCzYzGyS) | [The Paper Kites](https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy) | [Woodland](https://open.spotify.com/album/1lq6KMHFACcE6GQZysxnSZ) | 3:51 |
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUNIrSzKgQbP.md) - [plain]
 | 89 | [House Song](https://open.spotify.com/track/1kr0XkYcWe2HTuCFN3BuGA) | [Searows](https://open.spotify.com/artist/0nugNBwdWaptgIAsEtx1It) | [House Song](https://open.spotify.com/album/7oOTLwRSrfnGY1yFjBZYL2) | 4:54 |
 | 90 | [Sea Of Love](https://open.spotify.com/track/3ASn2iE7F4HvA8XyRbJ4tS) | [Langhorne Slim](https://open.spotify.com/artist/099toTcKJoywTosZr2hHjy), [Jill Andrews](https://open.spotify.com/artist/35VpsbV6V2NdfTeNZEbKfc) | [Sea Of Love](https://open.spotify.com/album/4YUMtMthxfpapIqkk2caJg) | 3:23 |
 
-Snapshot ID: `MCw1MTJjNjRjYTMxMjRhYTNkYWNhZjE0NWM0ODYwMWZjN2NmNDZkNmQ5`
+Snapshot ID: `MCxkYWVmYzI1ZjI1OTlmYTYyZmVlMTZlZTIwYmYwNzdkZDZhMDZiMGJi`

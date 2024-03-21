@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdDIhtzn7T2e.md) - [plain]
 
 > Let these country tunes light up your day
 
-[Spotify](https://open.spotify.com/user/spotify) - 82,387 likes - 64 songs - 4 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 82,431 likes - 64 songs - 4 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Might As Well Get Stoned](https://open.spotify.com/track/0DBYW9lHjTTz55gIt63IB9) | [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [Traveller](https://open.spotify.com/album/7lxHnls3yQNl8B9bILmHj7) | 4:37 |
 | 2 | [All My Favorite People \(feat\. Brothers Osborne\)](https://open.spotify.com/track/0tEPv5fuzMhtm6NM5GvQiF) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI), [Brothers Osborne](https://open.spotify.com/artist/39NR3AUhpbbqKM33vWn2fp) | [GIRL](https://open.spotify.com/album/3XpxioqzCTiqOSuHTXuaGf) | 3:19 |
-| 3 | [Deeper Well](https://open.spotify.com/track/2lJn77IeZAP9cmv6DPXOrL) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Deeper Well](https://open.spotify.com/album/2NXiMKrwmPrqU8epp20pW8) | 3:52 |
+| 3 | [Deeper Well](https://open.spotify.com/track/333XFHKsHU0pOocFzBgrJi) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Deeper Well](https://open.spotify.com/album/5SxZmGwc4eJuPp6PcO4JgJ) | 3:52 |
 | 4 | [Roll Me Up](https://open.spotify.com/track/4FphdrrHaX3vXpT1eOrTHR) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG), [Kris Kristofferson](https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX), [Jamey Johnson](https://open.spotify.com/artist/5yhxqYI0JBwUKfXpSEjiM8) | [Heroes](https://open.spotify.com/album/4pwOr5WCJyqrFxwYLFB2nT) | 3:25 |
 | 5 | [Whitehouse Road](https://open.spotify.com/track/0fbR95FEaJUxiQYaqZZukv) | [Tyler Childers](https://open.spotify.com/artist/13ZEDW6vyBF12HYcZRr4EV) | [Purgatory](https://open.spotify.com/album/35LcGAeeMwVeIJrDpB3Gkz) | 4:40 |
 | 6 | [High Note](https://open.spotify.com/track/6kzRcQ73LtwfTMwHm1vJT7) | [Dierks Bentley](https://open.spotify.com/artist/7x8nK0m0cP2ksQf0mjWdPS), [Billy Strings](https://open.spotify.com/artist/1ZN1c1qWEGZNX1pGeKCPpf) | [High Note](https://open.spotify.com/album/1iwbuKHLtUyZj27h3LfOgy) | 5:33 |
@@ -73,4 +73,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdDIhtzn7T2e.md) - [plain]
 | 63 | [High Feeling](https://open.spotify.com/track/5DgME3ZeZB78H4vJdX8Esd) | [Cordovas](https://open.spotify.com/artist/1wWSNOst6HSnNNUtH4RekE) | [Destiny Hotel](https://open.spotify.com/album/5GkRuglfNZXJBzEBOwGQGU) | 2:57 |
 | 64 | [Down to Seeds and Stems Again Blues](https://open.spotify.com/track/5lo3R8FXLTjtDPRwrPvZl1) | [Commander Cody And His Lost Planet Airman](https://open.spotify.com/artist/5EuQzrjffQlDTKObrN5tbY) | [Hot to Trot](https://open.spotify.com/album/4PcDJDCi5hMiH7l7v4T1qh) | 4:03 |
 
-Snapshot ID: `MCxiNmZiMjA2NWMxODk4NmYzZThhODMyZWRhMGNmNzhhM2QzMThmYTVk`
+Snapshot ID: `MCwyYzIzYzZjMGRkMjcyNzQ4N2Y2ODNlMDg5NmMxOThmOTZkMDkxZDBk`

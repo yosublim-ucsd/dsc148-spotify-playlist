@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4ICTqceOnSJ.md) - [plain]
 
 > Las canciones esenciales de la escena alternativa en español\. Con Leiva en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 399,690 likes - 100 songs - 6 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 399,751 likes - 100 songs - 6 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,17 +35,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4ICTqceOnSJ.md) - [plain]
 | 25 | [Soy Yo](https://open.spotify.com/track/4Egb5xP6cniUx0kgZd5zLB) | [Bomba Estéreo](https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2) | [Amanecer](https://open.spotify.com/album/7GQzUp6R1CtA9CmsVZg090) | 2:39 |
 | 26 | [Respiro \(Cap\. 8\)](https://open.spotify.com/track/5O612Iau2nHDR3yv8jAFXs) | [Siddhartha](https://open.spotify.com/artist/2aqFBHOpM9uIgBpUsdq09x), [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [MEMORIA FUTURO](https://open.spotify.com/album/4XFeZO8Do9fdappVKRzbcH) | 3:41 |
 | 27 | [Emborracharme](https://open.spotify.com/track/67DveIUUjToBiKJwMnFZiJ) | [Lori Meyers](https://open.spotify.com/artist/3mOsjj1MhocRVwOejIZlTi) | [Impronta](https://open.spotify.com/album/7cQBUtJwVAKluOLttrga9m) | 3:32 |
-| 28 | [Copenhague](https://open.spotify.com/track/4bZEZhCq2kqUxnMacXVl5x) | [Vetusta Morla](https://open.spotify.com/artist/6J6yx1t3nwIDyPXk5xa7O8) | [Un Día en el Mundo](https://open.spotify.com/album/7ozOQXEfKskKDTtDpmTnuh) | 5:03 |
+| 28 | [Pervert Pop Song \(Castigame\)](https://open.spotify.com/track/1ZzXHQ5ZAq46qZl5ifvMnn) | [Plastilina Mosh](https://open.spotify.com/artist/4PtVXWSOmF4Tox1jj6ctSq) | [All U Need Is Mosh](https://open.spotify.com/album/4rVRjklAbBsRF2rOJEL8nA) | 4:04 |
 | 29 | [Mi Fiesta](https://open.spotify.com/track/1h1ryRXPpMLgXeYdq9qylK) | [Bandalos Chinos](https://open.spotify.com/artist/0wn2qDKzeFlhjRUtJAwJjp) | [El Big Blue](https://open.spotify.com/album/1K6DMhbzgcx1T8e4HPnOX4) | 3:12 |
-| 30 | [Pervert Pop Song \(Castigame\)](https://open.spotify.com/track/1ZzXHQ5ZAq46qZl5ifvMnn) | [Plastilina Mosh](https://open.spotify.com/artist/4PtVXWSOmF4Tox1jj6ctSq) | [All U Need Is Mosh](https://open.spotify.com/album/4rVRjklAbBsRF2rOJEL8nA) | 4:04 |
+| 30 | [Copenhague](https://open.spotify.com/track/4bZEZhCq2kqUxnMacXVl5x) | [Vetusta Morla](https://open.spotify.com/artist/6J6yx1t3nwIDyPXk5xa7O8) | [Un Día en el Mundo](https://open.spotify.com/album/7ozOQXEfKskKDTtDpmTnuh) | 5:03 |
 | 31 | [Palmar](https://open.spotify.com/track/1INtYY3PE2RP7NrhHOsBaz) | [Caloncho](https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA) | [Fruta \(Vol\. II\)](https://open.spotify.com/album/1CKiIYZCELUISFQOsKt2DP) | 3:13 |
 | 32 | [Qué Bien](https://open.spotify.com/track/3iaj0MtII6VPVhwQa4eeX3) | [IZAL](https://open.spotify.com/artist/2hazSY4Ef3aB9ATXW7F5w3) | [Magia & Efectos Especiales](https://open.spotify.com/album/1H0Kzu6QdUAuUDMGOIe271) | 4:33 |
 | 33 | [Encendedor](https://open.spotify.com/track/6xbdHf8KK2htPJWcPaI1QW) | [Gauchito Club](https://open.spotify.com/artist/58gIcdW6E0jd0846aI1sVj) | [El camino de la libertad](https://open.spotify.com/album/45kxaX47xoKq4Pnlth6fU1) | 3:40 |
 | 34 | [A la Vez](https://open.spotify.com/track/5C9IeDOtfwkDUGd9aF2ELI) | [Conociendo Rusia](https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2) | [A la Vez](https://open.spotify.com/album/7MUsxK6X6NkL21K3yrjuQs) | 3:02 |
 | 35 | [La Declaración](https://open.spotify.com/track/0MArhYeFvgi8V2Pj3ecwBs) | [El Zar](https://open.spotify.com/artist/1cj1ov4uZ0Htsx9PWDpNvi) | [La Declaración](https://open.spotify.com/album/40t4vhHKFGfCg0ef2ALiqn) | 4:37 |
 | 36 | [Fruta y Té](https://open.spotify.com/track/140oPNZsqzYQ0bUcG1y3U9) | [Gepe](https://open.spotify.com/artist/1fHGzTSloWCtrlKfbLNVhM) | [GP](https://open.spotify.com/album/6f6ZV6dYzZVJTvvxhd1Y0t) | 2:54 |
-| 37 | [Agua Marfil](https://open.spotify.com/track/4lOP4BFzkPCECQTcVJgZPL) | [Usted Señalemelo](https://open.spotify.com/artist/1a1v0OJC5GqtsLwzoqJm7j) | [Usted Señalemelo](https://open.spotify.com/album/3xHEcjPRuQwvkkG1EogH8S) | 4:11 |
-| 38 | [Fuma](https://open.spotify.com/track/1AYFgqbN7PuAFQ9gBf6DFx) | [Technicolor Fabrics](https://open.spotify.com/artist/2GtdjV9W8RmiI4W2AUl4Pl), [Siddhartha](https://open.spotify.com/artist/2aqFBHOpM9uIgBpUsdq09x) | [Bahía Santiago](https://open.spotify.com/album/7p6sqvNdTInCL3bAAUoDlY) | 3:12 |
+| 37 | [Fuma](https://open.spotify.com/track/1AYFgqbN7PuAFQ9gBf6DFx) | [Technicolor Fabrics](https://open.spotify.com/artist/2GtdjV9W8RmiI4W2AUl4Pl), [Siddhartha](https://open.spotify.com/artist/2aqFBHOpM9uIgBpUsdq09x) | [Bahía Santiago](https://open.spotify.com/album/7p6sqvNdTInCL3bAAUoDlY) | 3:12 |
+| 38 | [Agua Marfil](https://open.spotify.com/track/4lOP4BFzkPCECQTcVJgZPL) | [Usted Señalemelo](https://open.spotify.com/artist/1a1v0OJC5GqtsLwzoqJm7j) | [Usted Señalemelo](https://open.spotify.com/album/3xHEcjPRuQwvkkG1EogH8S) | 4:11 |
 | 39 | [Copacabana](https://open.spotify.com/track/4hTXeWayUVMwoz6v1CviSN) | [IZAL](https://open.spotify.com/artist/2hazSY4Ef3aB9ATXW7F5w3) | [Copacabana](https://open.spotify.com/album/0ToW0tbb8o88G6Wd2A4LFH) | 3:36 |
 | 40 | [Un Bossa +](https://open.spotify.com/track/3uz2tyLRgSzSlhOIXCz0DB) | [Zoe Gotusso](https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS) | [Un Bossa +](https://open.spotify.com/album/0E9Yu1or2WPe82OTuFv51o) | 1:26 |
 | 41 | [Días De Fuego](https://open.spotify.com/track/0llXG2KrSGVjW3fVJrrmcE) | [Odisseo](https://open.spotify.com/artist/7GkhznErka8OWEHJS05Dpd) | [Días De Fuego](https://open.spotify.com/album/0DZPvNS2UafM6bBPMm3QEX) | 3:05 |
@@ -81,8 +81,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4ICTqceOnSJ.md) - [plain]
 | 71 | [Fuego y Pasión](https://open.spotify.com/track/42LDgGB2Eio9wX13fZkV7w) | [Juan Ingaramo](https://open.spotify.com/artist/2XVoz4hoXgQ3C2BTGxl9V2), [Elsa y Elmar](https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy) | [Best Seller](https://open.spotify.com/album/1hrLS52s2jGGvFN2tEIVf7) | 3:44 |
 | 72 | [Tu Nombre y el Mío](https://open.spotify.com/track/5cIdcROWU4Ko8FLilbEqPI) | [Lisandro Aristimuño](https://open.spotify.com/artist/0ovfSEcDqepf0vqJc811zQ) | [Azules Turquesas](https://open.spotify.com/album/0hJvlZtFQ8kTFpxKvewqmd) | 2:42 |
 | 73 | [Primavera](https://open.spotify.com/track/5Fganr8l64dNUWpk2622uD) | [Ainda](https://open.spotify.com/artist/3eZXi1et2XpXPD7PoUDDzE), [Jorge Drexler](https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt) | [MILLONES](https://open.spotify.com/album/0LuHp5vuF8zABveZHjoGgH) | 3:52 |
-| 74 | [Carreteras Infinitas](https://open.spotify.com/track/2Q6qD1YTFn7NHuy2WmMGPG) | [Sidonie](https://open.spotify.com/artist/2pMVWkucVS130nJx59uAEa) | [El Peor Grupo del Mundo](https://open.spotify.com/album/2JQ398pv4WeQPslHlFzrtP) | 4:26 |
-| 75 | [Si Me Voy](https://open.spotify.com/track/39PaCcsOLhJx3U9To1Qxak) | [Salvapantallas](https://open.spotify.com/artist/1VZQhmsaBc4voNvRGvFUgK) | [Si Me Voy](https://open.spotify.com/album/1IucviBb2OOIZsrb49NJEq) | 3:06 |
+| 74 | [Si Me Voy](https://open.spotify.com/track/39PaCcsOLhJx3U9To1Qxak) | [Salvapantallas](https://open.spotify.com/artist/1VZQhmsaBc4voNvRGvFUgK) | [Si Me Voy](https://open.spotify.com/album/1IucviBb2OOIZsrb49NJEq) | 3:06 |
+| 75 | [Carreteras Infinitas](https://open.spotify.com/track/2Q6qD1YTFn7NHuy2WmMGPG) | [Sidonie](https://open.spotify.com/artist/2pMVWkucVS130nJx59uAEa) | [El Peor Grupo del Mundo](https://open.spotify.com/album/2JQ398pv4WeQPslHlFzrtP) | 4:26 |
 | 76 | [Selva Negra](https://open.spotify.com/track/4abXKMf3IsIe3gQaCsiiHx) | [La Lá](https://open.spotify.com/artist/7nZ3e67Mo4DLU1RC81KX8H) | [Rosa](https://open.spotify.com/album/2hEqB0JliRzhmxRhyN9IEH) | 3:01 |
 | 77 | [Sexo en la playa](https://open.spotify.com/track/4hdq0AASkxYPua4kKwQ4jy) | [Alizzz](https://open.spotify.com/artist/23herDudxPBB3S81GB5uG3), [Amaia](https://open.spotify.com/artist/1WLEfsQjvgtFSGkrHonzFX) | [Sexo en la playa](https://open.spotify.com/album/0ncQYd7wRzoLdM4MFG6UGd) | 3:45 |
 | 78 | [Pana](https://open.spotify.com/track/3y8hTrsyarUNzZhgZlwG84) | [Usted Señalemelo](https://open.spotify.com/artist/1a1v0OJC5GqtsLwzoqJm7j) | [II](https://open.spotify.com/album/1p57rF4jF9evU5rrmpzSaG) | 3:22 |
@@ -105,8 +105,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4ICTqceOnSJ.md) - [plain]
 | 95 | [Nada Personal](https://open.spotify.com/track/3BCayFOh2xF0AuYjcWgSVd) | [Juan Pablo Vega](https://open.spotify.com/artist/2PfyKA4qhjkxUVkerTCxz0), [Catalina García](https://open.spotify.com/artist/2eWiATMtcOCS8vAjRJp9iY) | [Nada Personal](https://open.spotify.com/album/4Wjgz8zUKQ7m2raLlSdsp1) | 4:41 |
 | 96 | [Amar en el Campo](https://open.spotify.com/track/3Dnn4G9z0VqWksQye13Cqe) | [Teleradio Donoso](https://open.spotify.com/artist/6SwRy6PTx8ehNGCdcDp3mt) | [Bailar y Llorar](https://open.spotify.com/album/4vgLqKLiIcGGVpEpHomfa0) | 3:57 |
 | 97 | [Mar \(Lo Que Siento\)](https://open.spotify.com/track/2K1meYaIxerapOrEief7JH) | [Bomba Estéreo](https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2) | [Amanecer](https://open.spotify.com/album/7GQzUp6R1CtA9CmsVZg090) | 3:49 |
-| 98 | [Azúcar del Estero](https://open.spotify.com/track/7Ku6mTfNvQYzDyFt4LBpVC) | [Lisandro Aristimuño](https://open.spotify.com/artist/0ovfSEcDqepf0vqJc811zQ) | [Las Crónicas del Viento](https://open.spotify.com/album/3mx0knIvUHGl7OwaCcFb3T) | 3:36 |
-| 99 | [Por la Ventana](https://open.spotify.com/track/0Opu86ApGccAwYL02yOEsj) | [Gepe](https://open.spotify.com/artist/1fHGzTSloWCtrlKfbLNVhM) | [Audiovisión](https://open.spotify.com/album/3gbz7K4IwEupgQ1ZgLhzNQ) | 3:12 |
+| 98 | [Por la Ventana](https://open.spotify.com/track/0Opu86ApGccAwYL02yOEsj) | [Gepe](https://open.spotify.com/artist/1fHGzTSloWCtrlKfbLNVhM) | [Audiovisión](https://open.spotify.com/album/3gbz7K4IwEupgQ1ZgLhzNQ) | 3:12 |
+| 99 | [Azúcar del Estero](https://open.spotify.com/track/7Ku6mTfNvQYzDyFt4LBpVC) | [Lisandro Aristimuño](https://open.spotify.com/artist/0ovfSEcDqepf0vqJc811zQ) | [Las Crónicas del Viento](https://open.spotify.com/album/3mx0knIvUHGl7OwaCcFb3T) | 3:36 |
 | 100 | [Otra Era](https://open.spotify.com/track/0D8qIsQZvrXmClkyp19Lsl) | [Javiera Mena](https://open.spotify.com/artist/6c0qylj1D1gqcUUN2P8Ofp) | [Otra Era](https://open.spotify.com/album/1Ag7xE38iyJ4NzzbRSpvah) | 4:04 |
 
-Snapshot ID: `MCxkMzJmYWM5ODk4YTg1ZjcwYjU1ZmYzYjlhZDRjMmUwZTM0YTlhOWMx`
+Snapshot ID: `MCw4ZmY2ZjBiZDk1ZGEzOWJjM2M3MDY5NDlkYWJlYmEzNWE4NWVmYTBm`

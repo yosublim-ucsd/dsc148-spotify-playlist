@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4V5eXk4NKqu.md) - [plain]
 
 > The best Latin Indie tracks of today, featuring Elsa y Elmar.
 
-[Spotify](https://open.spotify.com/user/spotify) - 156,051 likes - 75 songs - 4 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 156,057 likes - 75 songs - 4 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,8 +60,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4V5eXk4NKqu.md) - [plain]
 | 50 | [LA RUTA NATURAL](https://open.spotify.com/track/1BAc6iqnXXilFBKDaxXpSY) | [Rubytates](https://open.spotify.com/artist/2Mk7yrY8Dt93tvVhyxh8Zj), [Solo Fernández](https://open.spotify.com/artist/0bvP91QlkYvAFP71Cw6PkM) | [LA RUTA NATURAL](https://open.spotify.com/album/3JgA2PPl6TmIWEC4C3f1sF) | 3:17 |
 | 51 | [Eutanasia](https://open.spotify.com/track/1FHMIhcJlNY3ecpKjd7FIj) | [Bruses](https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y) | [Cuando Ella me Besó Probé a Dios](https://open.spotify.com/album/5J0TN8kwiPmJBAQKIYkx8V) | 2:34 |
 | 52 | [Mexico](https://open.spotify.com/track/4ix1Sthfg7xwrDwM0Zj53k) | [Andrea Bejar](https://open.spotify.com/artist/5l3g6Xp8KQE4prw9hk6rQ8) | [Mexico](https://open.spotify.com/album/7CgEURpwKsDNDDQ5NuFZgp) | 3:40 |
-| 53 | [MI NIÑA \(RubyRose\_Am\_98BPM\)](https://open.spotify.com/track/2RRq4PrIGH6XCqMz4URWNh) | [ARIA VEGA](https://open.spotify.com/artist/3e9aKKEgSOjIQS9gv2Nr1X) | [MI NIÑA \(RubyRose\_Am\_98BPM\)](https://open.spotify.com/album/0NdnCSGS68KynP5IOlaiGL) | 2:01 |
-| 54 | [Mi Historia Entre Tus Dedos](https://open.spotify.com/track/7ns39yx54DOHmmqWetPV6v) | [Isla de Caras](https://open.spotify.com/artist/0GUxqzAYRCveTfqBLhojnF) | [Mi Historia Entre Tus Dedos](https://open.spotify.com/album/7r6vkoLXv4y7aCJOns15NG) | 4:10 |
+| 53 | [Mi Historia Entre Tus Dedos](https://open.spotify.com/track/7ns39yx54DOHmmqWetPV6v) | [Isla de Caras](https://open.spotify.com/artist/0GUxqzAYRCveTfqBLhojnF) | [Mi Historia Entre Tus Dedos](https://open.spotify.com/album/7r6vkoLXv4y7aCJOns15NG) | 4:10 |
+| 54 | [MI NIÑA \(RubyRose\_Am\_98BPM\)](https://open.spotify.com/track/2RRq4PrIGH6XCqMz4URWNh) | [ARIA VEGA](https://open.spotify.com/artist/3e9aKKEgSOjIQS9gv2Nr1X) | [MI NIÑA \(RubyRose\_Am\_98BPM\)](https://open.spotify.com/album/0NdnCSGS68KynP5IOlaiGL) | 2:01 |
 | 55 | [Sol](https://open.spotify.com/track/1LcmVpTjXy7fy34m0Jyayq) | [Usted Señalemelo](https://open.spotify.com/artist/1a1v0OJC5GqtsLwzoqJm7j) | [Tripolar](https://open.spotify.com/album/6ud8dLSruWnM0i6qdIBHjS) | 3:02 |
 | 56 | [Otros Ritmos](https://open.spotify.com/track/090MzGykdRx3XjeQAuUOlE) | [Adrian Bello](https://open.spotify.com/artist/0ZwjmGhps2YvUMzB7ihFV8) | [Otros Ritmos](https://open.spotify.com/album/04s9wRdnHcOxBsz2swbiNc) | 3:42 |
 | 57 | [A carta cabal](https://open.spotify.com/track/3asOJIkC0NT24zR2S20azY) | [Guitarricadelafuente](https://open.spotify.com/artist/0oBiYchunKTMDesVICwrvL) | [La Cantera](https://open.spotify.com/album/3BDwyojdwMAmBEsXZlyQjW) | 4:29 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4V5eXk4NKqu.md) - [plain]
 | 74 | [en la ciudad](https://open.spotify.com/track/5smdosXwKG5czbMDXqRtc7) | [Mario Puglia](https://open.spotify.com/artist/3TTSyoNDmtiQ8jSpELHinT), [dóntia](https://open.spotify.com/artist/6otFL2m5sOProVKidtkpyx) | [en la ciudad](https://open.spotify.com/album/6FC9OVa2vFyot2dp23GdiM) | 3:31 |
 | 75 | [Muerta de Frío](https://open.spotify.com/track/4jXfJMb6rEDc86zMC115pc) | [K!ngdom](https://open.spotify.com/artist/7awzJ795ZYRCpQktKCKgW4), [Playa Limbo](https://open.spotify.com/artist/6XmHtVhgpE33VHFEp2V1P8) | [Muerta de Frío](https://open.spotify.com/album/1gbqdDkwfvEWirx6po0YtY) | 4:18 |
 
-Snapshot ID: `MCwzMzA2Mzg4MzI5YjQwOGVkYzM3NGVmMzg1OTM1MzY4YTRlYTlmZTMw`
+Snapshot ID: `MCw3NTgzYzk5ODExNjIzY2FmMTRjODRjNTAzNTgxZTNiNDFhZmU2NjIz`

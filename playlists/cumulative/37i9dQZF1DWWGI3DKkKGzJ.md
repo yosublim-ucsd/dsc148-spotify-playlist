@@ -4,7 +4,7 @@
 
 > Le meilleur des années 90 en 90 titres.
 
-110 songs - 7 hr 40 min
+111 songs - 7 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,7 +22,8 @@
 | [Believe](https://open.spotify.com/track/2goLsvvODILDzeeiT4dAoR) | [Cher](https://open.spotify.com/artist/72OaDtakiy6yFqkt4TsiFt) | [Believe](https://open.spotify.com/album/0jZfbz0dNfDjPSg0hYJNth) | 3:59 | 2023-07-26 |  |
 | [Bitter Sweet Symphony \- Remastered 2016](https://open.spotify.com/track/57iDDD9N9tTWe75x6qhStw) | [The Verve](https://open.spotify.com/artist/2cGwlqi3k18jFpUyTrsR84) | [Urban Hymns \(Remastered 2016\)](https://open.spotify.com/album/52AeC4gwbxDfFlLHgK1ByD) | 5:57 | 2023-07-26 | 2024-01-13 |
 | [Blue \(Da Ba Dee\) \- Gabry Ponte Ice Pop Radio](https://open.spotify.com/track/2yAVzRiEQooPEJ9SYx11L3) | [Eiffel 65](https://open.spotify.com/artist/64rxQRJsLgZwHHyWKB8fiF), [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D) | [Europop](https://open.spotify.com/album/54vbD17F1t5q3yHkj1cX37) | 4:43 | 2024-01-12 | 2024-03-08 |
-| [Blue \(Da Ba Dee\) \- Gabry Ponte Ice Pop Radio](https://open.spotify.com/track/5QRAfvKPyQpwt897Jc0glg) | [Eiffel 65](https://open.spotify.com/artist/64rxQRJsLgZwHHyWKB8fiF), [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D) | [Blue \(Da Ba Dee\)](https://open.spotify.com/album/3j90eFnVFEYzOVt024QCTf) | 4:43 | 2024-01-12 |  |
+| [Blue \(Da Ba Dee\) \- Gabry Ponte Ice Pop Radio](https://open.spotify.com/track/4GewRLEiI4BDTQsoH8BRVV) | [Eiffel 65](https://open.spotify.com/artist/64rxQRJsLgZwHHyWKB8fiF), [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D) | [Europop](https://open.spotify.com/album/65jtw2LL6r3aVvDD7PSXtV) | 4:43 | 2024-01-12 |  |
+| [Blue \(Da Ba Dee\) \- Gabry Ponte Ice Pop Radio](https://open.spotify.com/track/5QRAfvKPyQpwt897Jc0glg) | [Eiffel 65](https://open.spotify.com/artist/64rxQRJsLgZwHHyWKB8fiF), [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D) | [Blue \(Da Ba Dee\)](https://open.spotify.com/album/3j90eFnVFEYzOVt024QCTf) | 4:43 | 2024-01-12 | 2024-03-21 |
 | [Bye Bye \- Refugee Camp Band Remix](https://open.spotify.com/track/6YLqn80B9AoFnUFUBG1JId) | [Ménélik](https://open.spotify.com/artist/3msewJ0hXf2THwcdYjGeOA) | [Je me souviens](https://open.spotify.com/album/7pdSRW28eg63tKiCyyOUFo) | 3:59 | 2023-07-26 |  |
 | [Caroline](https://open.spotify.com/track/7esR7jO5Fyl78B6CwwhZJy) | [MC Solaar](https://open.spotify.com/artist/3nU8TSIICYDbUqRpJISTRE) | [Qui sème le vent récolte le tempo](https://open.spotify.com/album/5hM61fBUA5OIMJUUuMrzyH) | 4:43 | 2023-07-26 |  |
 | [Children](https://open.spotify.com/track/4wtR6HB3XekEengMX17cpc) | [Robert Miles](https://open.spotify.com/artist/2YVF0Ou5zIc4mpgtLIlGN0) | [Children \(Dance Vault Mixes\)](https://open.spotify.com/album/5vwm8dEf7xGTqUAas8zGdC) | 4:03 | 2023-07-26 |  |

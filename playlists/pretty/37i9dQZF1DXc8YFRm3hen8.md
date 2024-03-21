@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc8YFRm3hen8.md) - [plain]
 
 > La banda de sonido de tu día.
 
-[Spotify](https://open.spotify.com/user/spotify) - 170,855 likes - 80 songs - 5 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 170,913 likes - 80 songs - 5 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,14 +79,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc8YFRm3hen8.md) - [plain]
 | 69 | [Mi Caramelo \- Live In Buenos Aires / 2001](https://open.spotify.com/track/2pC6LUWFEf2S6BIuBjrWWF) | [Bersuit Vergarabat](https://open.spotify.com/artist/6MxyNXnnmwQwdW2PD0gXYO) | [De La Cabeza Con Bersuit Vergarabat \(Live In Buenos Aires / 2001\)](https://open.spotify.com/album/7xdsaV2y15dItFMlsoWTqu) | 3:29 |
 | 70 | [DOCTORA II](https://open.spotify.com/track/0ei64Ivi3kxqHaQuYByc79) | [Piti Fernández](https://open.spotify.com/artist/4PJtMqmJX54aKaztYQfFYb) | [Caminos Bríos](https://open.spotify.com/album/3TX9rPF9ruJb5Ntk7wAOrF) | 5:37 |
 | 71 | [Fue Tan Bueno](https://open.spotify.com/track/0i2elQQdEZwsDX5icf0Co8) | [La Franela](https://open.spotify.com/artist/5P57GCRyvU7ln5GwNXU8ku), [EMI](https://open.spotify.com/artist/6ITLgutvUhAIXVBbdr7FB1) | [Nada Es Tarde](https://open.spotify.com/album/4N2vqVDcAjDpe44wYdDrKU) | 4:55 |
-| 72 | [Tan Distintos](https://open.spotify.com/track/5lVxdKsJkQClhBLK7lfurE) | [Guasones](https://open.spotify.com/artist/2wjmZuSHtRx96Qxb8HiP2o), [Carlos Tarque](https://open.spotify.com/artist/3RIiNnFu9LhnhUqIXtJatR) | [Locales Calientes](https://open.spotify.com/album/13d9lMGw8xFgzoWEZhIaLC) | 4:07 |
-| 73 | [Soy](https://open.spotify.com/track/2qlNflXsO7plqVz0vuC75H) | [Cruzando El Charco](https://open.spotify.com/artist/4STEdt6oH8RopaxpfWrO5Z) | [Lo Que Somos](https://open.spotify.com/album/5WyV76Ch7CH1oqDCt8VrNJ) | 3:11 |
+| 72 | [Soy](https://open.spotify.com/track/2qlNflXsO7plqVz0vuC75H) | [Cruzando El Charco](https://open.spotify.com/artist/4STEdt6oH8RopaxpfWrO5Z) | [Lo Que Somos](https://open.spotify.com/album/5WyV76Ch7CH1oqDCt8VrNJ) | 3:11 |
+| 73 | [Tan Distintos](https://open.spotify.com/track/5lVxdKsJkQClhBLK7lfurE) | [Guasones](https://open.spotify.com/artist/2wjmZuSHtRx96Qxb8HiP2o), [Carlos Tarque](https://open.spotify.com/artist/3RIiNnFu9LhnhUqIXtJatR) | [Locales Calientes](https://open.spotify.com/album/13d9lMGw8xFgzoWEZhIaLC) | 4:07 |
 | 74 | [La Rubia Tarada](https://open.spotify.com/track/0RaRyvHA4z1VWq9BJhA65s) | [Sumo](https://open.spotify.com/artist/10AzTrYMPVVmpKoBP5bX9W) | [Divididos Por La Felicidad](https://open.spotify.com/album/0iMPnRq7PL82Zrah0gTQBR) | 3:42 |
 | 75 | [En Redondel](https://open.spotify.com/track/2bvP9MboEyUadosZOYC93K) | [Ella Es Tan Cargosa](https://open.spotify.com/artist/2fGM1BtKeCWjnriro6BaPS) | [Polos](https://open.spotify.com/album/4zd88TW1Vxi35LLUOWjKZ4) | 4:27 |
 | 76 | [El Tesoro de los Inocentes](https://open.spotify.com/track/6RZZtPtwZdiYmqRGZhRlW8) | [Indio Solari](https://open.spotify.com/artist/0nUGkxUncFeXt0Dr0hhrc4), [Los Fundamentalistas del Aire Acondicionado](https://open.spotify.com/artist/1SKA2QwV2fwGgoMlx16FXO) | [El Tesoro de los Inocentes \(Bingo Fuel\)](https://open.spotify.com/album/03jnJ4DNoOPKYe1H3eW6Fz) | 4:18 |
 | 77 | [Tu Encanto](https://open.spotify.com/track/0zRCH3vyASd7BEQ6bFdbol) | [Conociendo Rusia](https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2), [Fito Paez](https://open.spotify.com/artist/1bZNv4q3OxYq7mmnLha7Tu) | [Tu Encanto](https://open.spotify.com/album/5sNubtE2kol6DLs6o9y0K0) | 3:31 |
 | 78 | [El Tiempo No Para \- Live In Buenos Aires / 2001](https://open.spotify.com/track/1PBFuWxDnAj0iRkPaePboA) | [Bersuit Vergarabat](https://open.spotify.com/artist/6MxyNXnnmwQwdW2PD0gXYO) | [De La Cabeza Con Bersuit Vergarabat \(Live In Buenos Aires / 2001\)](https://open.spotify.com/album/7xdsaV2y15dItFMlsoWTqu) | 5:21 |
-| 79 | [Las cosas que no se tocan](https://open.spotify.com/track/5Y3T9zncw2XDAcn9pFliKT) | [Intoxicados](https://open.spotify.com/artist/4VgvR7eu3k2T20mo6mXhXF) | [Otro Día en el Planeta Tierra](https://open.spotify.com/album/4Q2jY2HQPZxGimNjoKFKaC) | 3:34 |
-| 80 | [Nada Es Igual](https://open.spotify.com/track/3YLIsu2NZxqfEPj4ADA7WX) | [La Portuaria](https://open.spotify.com/artist/0Q7HmY08qjZ6SrCb9DYji7) | [Devorador De Corazones](https://open.spotify.com/album/7nJFHb7cLQNlv710wRjbvH) | 2:58 |
+| 79 | [Nada Es Igual](https://open.spotify.com/track/3YLIsu2NZxqfEPj4ADA7WX) | [La Portuaria](https://open.spotify.com/artist/0Q7HmY08qjZ6SrCb9DYji7) | [Devorador De Corazones](https://open.spotify.com/album/7nJFHb7cLQNlv710wRjbvH) | 2:58 |
+| 80 | [Las cosas que no se tocan](https://open.spotify.com/track/5Y3T9zncw2XDAcn9pFliKT) | [Intoxicados](https://open.spotify.com/artist/4VgvR7eu3k2T20mo6mXhXF) | [Otro Día en el Planeta Tierra](https://open.spotify.com/album/4Q2jY2HQPZxGimNjoKFKaC) | 3:34 |
 
-Snapshot ID: `MCw1OThmMzc0MmRhMjY5ODdjMjU4YzdmMWFjNzhiYmUyZTZjNTBhNGQz`
+Snapshot ID: `MCwyMzI2MzJhYzQyNzcwOWRlNDhlZGExODZkMDBmNTI3MjU5MTM2NTM5`

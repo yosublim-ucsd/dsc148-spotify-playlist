@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQaB5AfW9Oa.md) - [plain]
 
 > Soul classics to keep you company in the kitchen.
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,222 likes - 50 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,236 likes - 50 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQaB5AfW9Oa.md) - [plain]
 | 27 | [How Sweet It Is \(To Be Loved By You\)](https://open.spotify.com/track/2zF8ro2hX0aEYaqXQdEKW1) | [Marvin Gaye](https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA) | [How Sweet It Is To Be Loved By You](https://open.spotify.com/album/1kYeM6oy6I8tK7668jM7Hw) | 2:57 |
 | 28 | [Sweet Soul Music](https://open.spotify.com/track/2YuIyYri67bgUXKQW5V9XW) | [Arthur Conley](https://open.spotify.com/artist/10TSIJnyUcowWhpjj59gHB) | [Sweet Soul Music](https://open.spotify.com/album/2fZ5TzqZjIWEAP5T9ktlBC) | 2:21 |
 | 29 | [Knock on Wood](https://open.spotify.com/track/3YJx77Xx8JSwEoxqrkQO5c) | [Eddie Floyd](https://open.spotify.com/artist/6Bfy6QzadCXS92y0T8dDZF) | [Knock On Wood](https://open.spotify.com/album/07ojYfe9B08p7nmOL2kgNF) | 3:09 |
-| 30 | [What'd I Say, Pt\. 1 & 2](https://open.spotify.com/track/5yQ9iMZXGcr5rlO4hoLsP4) | [Ray Charles](https://open.spotify.com/artist/1eYhYunlNJlDoQhtYBvPsi) | [What'd I Say](https://open.spotify.com/album/4tfWxufmH725XmTcQFAuXn) | 5:07 |
-| 31 | [Try Me](https://open.spotify.com/track/7bFfjakySYhojqSPrAPtc3) | [James Brown & The Famous Flames](https://open.spotify.com/artist/32r72WOqqRO1DtSznId7Lr) | [Please, Please, Please](https://open.spotify.com/album/3LtxQmfIb10p6xKrPObqgv) | 2:33 |
+| 30 | [Try Me](https://open.spotify.com/track/7bFfjakySYhojqSPrAPtc3) | [James Brown & The Famous Flames](https://open.spotify.com/artist/32r72WOqqRO1DtSznId7Lr) | [Please, Please, Please](https://open.spotify.com/album/3LtxQmfIb10p6xKrPObqgv) | 2:33 |
+| 31 | [What'd I Say, Pt\. 1 & 2](https://open.spotify.com/track/5yQ9iMZXGcr5rlO4hoLsP4) | [Ray Charles](https://open.spotify.com/artist/1eYhYunlNJlDoQhtYBvPsi) | [What'd I Say](https://open.spotify.com/album/4tfWxufmH725XmTcQFAuXn) | 5:07 |
 | 32 | [B\-A\-B\-Y](https://open.spotify.com/track/35w6fQ0Wnuv7aIryRx7gTq) | [Carla Thomas](https://open.spotify.com/artist/1QAGLCom3FHTTiuRFsjzOj) | [Carla](https://open.spotify.com/album/5WyS0kooTM6uriZwmXjLLY) | 2:57 |
 | 33 | [Papa's Got A Brand New Bag](https://open.spotify.com/track/00pGV4EInVd77cnOIwPTCv) | [James Brown](https://open.spotify.com/artist/7GaxyUddsPok8BuhxN6OUW) | [Star Time](https://open.spotify.com/album/2yuTyv0L51qvYuI5RIktlA) | 2:08 |
 | 34 | [Mama Said](https://open.spotify.com/track/1SN5fcUZyWFktGbEoHdHOm) | [The Shirelles](https://open.spotify.com/artist/0x83OBqixqdCHnStP5VMcn) | [Remember When](https://open.spotify.com/album/6m8QVjXat9WFfyZPBSe0y8) | 2:04 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQaB5AfW9Oa.md) - [plain]
 | 49 | [Keep On Loving You](https://open.spotify.com/track/1uU8KgP0ny5yxRzYuKaz3i) | [Four Mints](https://open.spotify.com/artist/5weBoY03qqqq9uFG136tti) | [Gently Down Your Stream](https://open.spotify.com/album/6G1wOj0Gkby9CMZOz2bGy1) | 3:26 |
 | 50 | [Lawdy Miss Clawdy](https://open.spotify.com/track/0Xwr2EmFyn4hPTnU4lBvRH) | [Lloyd Price](https://open.spotify.com/artist/3iOE5ItEv5xr9fmKi7GNh2) | [Lloyd Price Greatest Hits: The Original ABC\-Paramount Recordings](https://open.spotify.com/album/5qYhWkc4dKbKuevLza5rlh) | 1:51 |
 
-Snapshot ID: `MCxkODBjMjA0MjU5NGFlMTM4ZTgzNWIyMWQ3MzYyZDdhNmFjODQ5ZTM0`
+Snapshot ID: `MCw3OGRkN2UzNzYwYjcyMzRiODllZGVmZWNjZWVlYTdmZDE1ZmNlMmNi`

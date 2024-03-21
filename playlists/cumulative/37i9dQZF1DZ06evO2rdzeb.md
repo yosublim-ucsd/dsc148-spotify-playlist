@@ -4,7 +4,7 @@
 
 > This is Adrianne Lenker\. The essential tracks, all in one playlist.
 
-45 songs - 2 hr 58 min
+46 songs - 3 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,6 +22,7 @@
 | [dragon eyes](https://open.spotify.com/track/2u0vK4Gf1IaEdcI7MtRWP5) | [Adrianne Lenker](https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY) | [songs](https://open.spotify.com/album/2Qt8Z1LB3Fsrf6nhBNsvUJ) | 3:26 | 2022-09-22 | 2022-09-25 |
 | [Fool](https://open.spotify.com/track/2T0NGoXh9FT1kCjQA5Phto) | [Adrianne Lenker](https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY) | [Fool](https://open.spotify.com/album/7w9GLsCdyuS7uwdixV90vb) | 2:54 | 2024-02-21 |  |
 | [forwards beckon rebound](https://open.spotify.com/track/6PBanBy8L1K2Ry4UN186XH) | [Adrianne Lenker](https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY) | [songs](https://open.spotify.com/album/2Qt8Z1LB3Fsrf6nhBNsvUJ) | 3:09 | 2022-09-18 |  |
+| [Free Treasure](https://open.spotify.com/track/6CtdnPhSHyoRfOexN7oRyc) | [Adrianne Lenker](https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY) | [Free Treasure](https://open.spotify.com/album/6tDK8iQZuTZ5bjbxhpALPP) | 3:35 | 2024-03-20 |  |
 | [from](https://open.spotify.com/track/23gGydKm31irm5Bly0W2V7) | [Adrianne Lenker](https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY) | [abysskiss](https://open.spotify.com/album/1Bff8eaWt2o058OQIq2OPa) | 3:38 | 2022-09-16 | 2022-10-12 |
 | [Gone](https://open.spotify.com/track/2kpXDkEoZOebZmiQXPCBdO) | [Adrianne Lenker](https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY) | [Hours Were the Birds](https://open.spotify.com/album/3ZQoTj4ttmoO45QUE6StBW) | 4:06 | 2022-09-16 | 2022-10-12 |
 | [half return](https://open.spotify.com/track/1i8dJGpKO0xQiKGCVslJqB) | [Adrianne Lenker](https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY) | [songs](https://open.spotify.com/album/2Qt8Z1LB3Fsrf6nhBNsvUJ) | 2:08 | 2022-09-16 |  |

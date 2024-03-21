@@ -1,12 +1,12 @@
 {
   "description": "Press play and enjoy a relaxing meal. Easy!",
-  "num_followers": 259810,
+  "num_followers": 259815,
   "original_name": "Chill Dinner",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkMjkzM2ExZTY5ZTMyOThjODJlMzc4N2Q2NTkxMmEwMWUxMmRhY2Ux",
+  "snapshot_id": "MCw1ZDVhYWRmZDljYzVmOTI4NWRjNWI1N2EyYzdjZGEyODQ0MzU1Zjkx",
   "tracks": [
     {
       "added_at": "2024-03-08 05:01:00",
@@ -487,6 +487,22 @@
     {
       "added_at": "2024-03-08 05:01:00",
       "album": {
+        "name": "IDK You Yet (Live on Piano)",
+        "url": "https://open.spotify.com/album/2MV7PrKdCcislKUAPMyEA2"
+      },
+      "artists": [
+        {
+          "name": "Alexander 23",
+          "url": "https://open.spotify.com/artist/6sFHvCyqklnJpXC9Nh1aag"
+        }
+      ],
+      "duration_ms": 184638,
+      "name": "IDK You Yet",
+      "url": "https://open.spotify.com/track/0j1Ia2lQWrcXrQZI4AdJlk"
+    },
+    {
+      "added_at": "2024-03-08 05:01:00",
+      "album": {
         "name": "Texas Sun",
         "url": "https://open.spotify.com/album/4HFO9PDRxsdbcegkcNhxgz"
       },
@@ -503,22 +519,6 @@
       "duration_ms": 252811,
       "name": "Texas Sun",
       "url": "https://open.spotify.com/track/24ntSW3QVJzR79lHAAOTaY"
-    },
-    {
-      "added_at": "2024-03-08 05:01:00",
-      "album": {
-        "name": "IDK You Yet (Live on Piano)",
-        "url": "https://open.spotify.com/album/2MV7PrKdCcislKUAPMyEA2"
-      },
-      "artists": [
-        {
-          "name": "Alexander 23",
-          "url": "https://open.spotify.com/artist/6sFHvCyqklnJpXC9Nh1aag"
-        }
-      ],
-      "duration_ms": 184638,
-      "name": "IDK You Yet",
-      "url": "https://open.spotify.com/track/0j1Ia2lQWrcXrQZI4AdJlk"
     },
     {
       "added_at": "2024-03-08 05:01:00",
@@ -739,22 +739,6 @@
     {
       "added_at": "2024-03-08 05:01:00",
       "album": {
-        "name": "Stick Season",
-        "url": "https://open.spotify.com/album/1fMRg0CNLKdnrXD0WPc2Ju"
-      },
-      "artists": [
-        {
-          "name": "Noah Kahan",
-          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
-        }
-      ],
-      "duration_ms": 182346,
-      "name": "Stick Season",
-      "url": "https://open.spotify.com/track/0GNVXNz7Jkicfk2mp5OyG5"
-    },
-    {
-      "added_at": "2024-03-08 05:01:00",
-      "album": {
         "name": "GIRL",
         "url": "https://open.spotify.com/album/3XpxioqzCTiqOSuHTXuaGf"
       },
@@ -767,6 +751,22 @@
       "duration_ms": 197293,
       "name": "The Bones",
       "url": "https://open.spotify.com/track/7yFhA2fUsL2oIMWlw5DaHQ"
+    },
+    {
+      "added_at": "2024-03-08 05:01:00",
+      "album": {
+        "name": "Stick Season",
+        "url": "https://open.spotify.com/album/1fMRg0CNLKdnrXD0WPc2Ju"
+      },
+      "artists": [
+        {
+          "name": "Noah Kahan",
+          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
+        }
+      ],
+      "duration_ms": 182346,
+      "name": "Stick Season",
+      "url": "https://open.spotify.com/track/0GNVXNz7Jkicfk2mp5OyG5"
     },
     {
       "added_at": "2024-03-08 05:01:00",
@@ -1643,22 +1643,6 @@
     {
       "added_at": "2024-03-08 05:01:00",
       "album": {
-        "name": "The Day My Father Died",
-        "url": "https://open.spotify.com/album/6012ywIYPi6nTdh3mu18ht"
-      },
-      "artists": [
-        {
-          "name": "SYML",
-          "url": "https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0"
-        }
-      ],
-      "duration_ms": 263253,
-      "name": "Believer",
-      "url": "https://open.spotify.com/track/0rwrb7euyHuIUMhrsQ7A1b"
-    },
-    {
-      "added_at": "2024-03-08 05:01:00",
-      "album": {
         "name": "The Only Exception",
         "url": "https://open.spotify.com/album/6ssR342wWYZwPjYG35AWbG"
       },
@@ -1671,6 +1655,22 @@
       "duration_ms": 262066,
       "name": "The Only Exception",
       "url": "https://open.spotify.com/track/6yBVp6DFh899CRaKww95Hr"
+    },
+    {
+      "added_at": "2024-03-08 05:01:00",
+      "album": {
+        "name": "The Day My Father Died",
+        "url": "https://open.spotify.com/album/6012ywIYPi6nTdh3mu18ht"
+      },
+      "artists": [
+        {
+          "name": "SYML",
+          "url": "https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0"
+        }
+      ],
+      "duration_ms": 263253,
+      "name": "Believer",
+      "url": "https://open.spotify.com/track/0rwrb7euyHuIUMhrsQ7A1b"
     }
   ],
   "unique_name": "Chill Dinner",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7TZic46Z9vh.md) - [plain]
 
 > Celebrando el Festival de Avándaro, hito del rock mexicano\. ¡Paz y amor! Portada: Los Dug Dug's.
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,403 likes - 50 songs - 3 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,407 likes - 50 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,13 +50,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7TZic46Z9vh.md) - [plain]
 | 40 | [Roaming](https://open.spotify.com/track/7qbSUZaGP6FyvadcKT59WF) | [La Fachada De Piedra](https://open.spotify.com/artist/4alM2y1QDZQ9NkVgdmO0f9) | [Rock en Avándaro Valle de Bravo](https://open.spotify.com/album/4YeKgMdvtyH6pLC0g4uqMT) | 3:07 |
 | 41 | [Satanás](https://open.spotify.com/track/6hG2T8xkFaCTscKbAIPYYm) | [EL RITUAL](https://open.spotify.com/artist/5892Xxyev45o73ZrqlmMGT) | [Colección Avandaro](https://open.spotify.com/album/52secMI8PGxRR44sNXPkcP) | 8:02 |
 | 42 | [Acapulco Dorado](https://open.spotify.com/track/5ytsmoEtQMsPYfFfxgZCd2) | [Grupo Ciruela](https://open.spotify.com/artist/1xPdPBhKemqYuJUlaLTR9S) | [Regreso al Origen](https://open.spotify.com/album/54FzvnC07SZN2QpZ1yF0Jn) | 3:00 |
-| 43 | [Cambia, Cambia](https://open.spotify.com/track/5naHaIvjo1Cw1O4ASdktgG) | [Los Dug Dug's](https://open.spotify.com/artist/4NJDvfZdkJBPqecQ83THVT) | [15 Éxitos de los Dug Dug's Rock and Roll](https://open.spotify.com/album/5CtcJWRwRPZF0WkJ92ZspC) | 3:18 |
-| 44 | [Pobre Nina](https://open.spotify.com/track/7B9yavzlfIDl1rxyiicNQY) | [Los Monjes](https://open.spotify.com/artist/6PjH1bMbi3GPcgur2egQMO) | [Los Nuggetz \- 60's Punk, Pop and Psychedelic From Latin America](https://open.spotify.com/album/3Wmj1OJev6LrgjS9SIPBk7) | 1:53 |
+| 43 | [Pobre Nina](https://open.spotify.com/track/7B9yavzlfIDl1rxyiicNQY) | [Los Monjes](https://open.spotify.com/artist/6PjH1bMbi3GPcgur2egQMO) | [Los Nuggetz \- 60's Punk, Pop and Psychedelic From Latin America](https://open.spotify.com/album/3Wmj1OJev6LrgjS9SIPBk7) | 1:53 |
+| 44 | [Cambia, Cambia](https://open.spotify.com/track/5naHaIvjo1Cw1O4ASdktgG) | [Los Dug Dug's](https://open.spotify.com/artist/4NJDvfZdkJBPqecQ83THVT) | [15 Éxitos de los Dug Dug's Rock and Roll](https://open.spotify.com/album/5CtcJWRwRPZF0WkJ92ZspC) | 3:18 |
 | 45 | [Mony Mony](https://open.spotify.com/track/4roB2QW6dbmd799xB21dQX) | [Las Moskas](https://open.spotify.com/artist/5tqciiCyuTvqWLNGE7MvpY) | [Rock Sound](https://open.spotify.com/album/3O3bm3NTe7IRZHPmbm2dMZ) | 2:43 |
 | 46 | [Boom! Boom! Boom!](https://open.spotify.com/track/4BuMxDprV7PhLj5ykVwA9I) | [The Spiders](https://open.spotify.com/artist/5mrfwFGMT56yGbirhVdInL) | [Slitherama: Teen Trash From Psychedelic Tokyo '66 \- '69 \(Volume 3\)](https://open.spotify.com/album/3sV1mS552317G9XyVhkQOb) | 2:34 |
 | 47 | [Libertad](https://open.spotify.com/track/3oCXeYBiZODvdaXHranRHd) | [Los Soul Master's](https://open.spotify.com/artist/4dlWy5TRLwDd04nALLTWfe) | [Rock en Avándaro Valle de Bravo](https://open.spotify.com/album/4YeKgMdvtyH6pLC0g4uqMT) | 2:49 |
-| 48 | [Tal Vez](https://open.spotify.com/track/5DYUNEs6WLl5PRdTzZX0GC) | [The Love Army](https://open.spotify.com/artist/3exRYG9uxjbexEWepSOt1S) | [Rock en Avándaro Valle de Bravo](https://open.spotify.com/album/4YeKgMdvtyH6pLC0g4uqMT) | 3:49 |
-| 49 | [Buscando Alrededor](https://open.spotify.com/track/2DCkcms3GQKZLrefroSjWR) | [Free Minds](https://open.spotify.com/artist/0kGveKppn8AMtl7Jmt5scY) | [Rock en Avándaro Valle de Bravo](https://open.spotify.com/album/4YeKgMdvtyH6pLC0g4uqMT) | 3:29 |
+| 48 | [Buscando Alrededor](https://open.spotify.com/track/2DCkcms3GQKZLrefroSjWR) | [Free Minds](https://open.spotify.com/artist/0kGveKppn8AMtl7Jmt5scY) | [Rock en Avándaro Valle de Bravo](https://open.spotify.com/album/4YeKgMdvtyH6pLC0g4uqMT) | 3:29 |
+| 49 | [Tal Vez](https://open.spotify.com/track/5DYUNEs6WLl5PRdTzZX0GC) | [The Love Army](https://open.spotify.com/artist/3exRYG9uxjbexEWepSOt1S) | [Rock en Avándaro Valle de Bravo](https://open.spotify.com/album/4YeKgMdvtyH6pLC0g4uqMT) | 3:49 |
 | 50 | [Groupie](https://open.spotify.com/track/5CNo2B3LgMJgheq3ikhVir) | [EL RITUAL](https://open.spotify.com/artist/5892Xxyev45o73ZrqlmMGT) | [El Ritual](https://open.spotify.com/album/5BUdMrFRo924docI7JKqmo) | 3:54 |
 
-Snapshot ID: `MCwxYTI5OTgyZmRiZmE5ZWY3NzE1ZWE1ZTMzY2NlMzE5ZGE0Y2JiOGM3`
+Snapshot ID: `MCwxMjVhYWQ5ZjQxOTlhYTcxMDVjZDNlY2MzYTczOTFjYTA3ZmQ0MGIy`

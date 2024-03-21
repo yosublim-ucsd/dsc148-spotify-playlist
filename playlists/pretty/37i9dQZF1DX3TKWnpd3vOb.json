@@ -1,12 +1,12 @@
 {
   "description": "Encuentra un mix de cl\u00e1sicos y nuevos talentos. Foto: Los Tres",
-  "num_followers": 195027,
+  "num_followers": 195029,
   "original_name": "Rock Chileno",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3NjIwNGNmMmJlOTFhMDVkMTg0YTkxMDI0N2U5NGJmMDI1NmI5ZmU4",
+  "snapshot_id": "MCwxZmM4YmM0OTczMmYyYTYwMGMwN2NhM2IxYTViZTZkZWNiMmM4ODAz",
   "tracks": [
     {
       "added_at": "2024-03-08 03:00:00",
@@ -875,6 +875,22 @@
     {
       "added_at": "2024-03-08 03:00:00",
       "album": {
+        "name": "Pol\u00edticamente Incorrectos (Soeces y Anacr\u00f3nicos)",
+        "url": "https://open.spotify.com/album/2CTSh87S7pObaadO2HGovU"
+      },
+      "artists": [
+        {
+          "name": "Los Miserables",
+          "url": "https://open.spotify.com/artist/7EP6QHjz7FSJZBVjDuAmas"
+        }
+      ],
+      "duration_ms": 161101,
+      "name": "Los Ni\u00f1os Cuicos No Saben Rockear",
+      "url": "https://open.spotify.com/track/556pT1Sm2jwHJ8bLaXJEoR"
+    },
+    {
+      "added_at": "2024-03-08 03:00:00",
+      "album": {
         "name": "Un Pedazo M\u00e1s de Tu Coraz\u00f3n",
         "url": "https://open.spotify.com/album/3gk4kujnDIt6T27Panenvo"
       },
@@ -903,22 +919,6 @@
       "duration_ms": 255000,
       "name": "Nuestro Amor",
       "url": "https://open.spotify.com/track/1qV8Z8nwhEwH7Z5J0u1VCU"
-    },
-    {
-      "added_at": "2024-03-08 03:00:00",
-      "album": {
-        "name": "Pol\u00edticamente Incorrectos (Soeces y Anacr\u00f3nicos)",
-        "url": "https://open.spotify.com/album/2CTSh87S7pObaadO2HGovU"
-      },
-      "artists": [
-        {
-          "name": "Los Miserables",
-          "url": "https://open.spotify.com/artist/7EP6QHjz7FSJZBVjDuAmas"
-        }
-      ],
-      "duration_ms": 161101,
-      "name": "Los Ni\u00f1os Cuicos No Saben Rockear",
-      "url": "https://open.spotify.com/track/556pT1Sm2jwHJ8bLaXJEoR"
     },
     {
       "added_at": "2024-03-08 03:00:00",
@@ -1027,6 +1027,22 @@
     {
       "added_at": "2024-03-08 03:00:00",
       "album": {
+        "name": "T\u00da",
+        "url": "https://open.spotify.com/album/3utOqxCghBqv4aIryvCCwJ"
+      },
+      "artists": [
+        {
+          "name": "Upa!",
+          "url": "https://open.spotify.com/artist/3SQwqIl6r35rkAXPw7cm9n"
+        }
+      ],
+      "duration_ms": 235626,
+      "name": "T\u00da",
+      "url": "https://open.spotify.com/track/6gbu92nXkeh6Fdhgw0iqez"
+    },
+    {
+      "added_at": "2024-03-08 03:00:00",
+      "album": {
         "name": "Viajar",
         "url": "https://open.spotify.com/album/7bnqsPENupVaK25z382mq9"
       },
@@ -1059,22 +1075,6 @@
       "duration_ms": 243566,
       "name": "Lo Que Dicen",
       "url": "https://open.spotify.com/track/79m8b7VCjH56yHG4ZdpPio"
-    },
-    {
-      "added_at": "2024-03-08 03:00:00",
-      "album": {
-        "name": "T\u00da",
-        "url": "https://open.spotify.com/album/3utOqxCghBqv4aIryvCCwJ"
-      },
-      "artists": [
-        {
-          "name": "Upa!",
-          "url": "https://open.spotify.com/artist/3SQwqIl6r35rkAXPw7cm9n"
-        }
-      ],
-      "duration_ms": 235626,
-      "name": "T\u00da",
-      "url": "https://open.spotify.com/track/6gbu92nXkeh6Fdhgw0iqez"
     },
     {
       "added_at": "2024-03-08 03:00:00",
@@ -1319,6 +1319,22 @@
     {
       "added_at": "2024-03-08 03:00:00",
       "album": {
+        "name": "Blue Dalom",
+        "url": "https://open.spotify.com/album/7rrdkE6Jr2xkS2H0wiATV8"
+      },
+      "artists": [
+        {
+          "name": "Cigarbox Man",
+          "url": "https://open.spotify.com/artist/6KvYkMetRUoKfIjEt9A0QV"
+        }
+      ],
+      "duration_ms": 215699,
+      "name": "Hollywood",
+      "url": "https://open.spotify.com/track/7drgoOz9TjniNAP79jB7Us"
+    },
+    {
+      "added_at": "2024-03-08 03:00:00",
+      "album": {
         "name": "Vaso de agua",
         "url": "https://open.spotify.com/album/3J5DPUm1L0l2aW28N4K5Bh"
       },
@@ -1347,22 +1363,6 @@
       "duration_ms": 246820,
       "name": "Hay Fuego en Los Andes",
       "url": "https://open.spotify.com/track/7s18XNjnKPqcGSzKThyChu"
-    },
-    {
-      "added_at": "2024-03-08 03:00:00",
-      "album": {
-        "name": "Blue Dalom",
-        "url": "https://open.spotify.com/album/7rrdkE6Jr2xkS2H0wiATV8"
-      },
-      "artists": [
-        {
-          "name": "Cigarbox Man",
-          "url": "https://open.spotify.com/artist/6KvYkMetRUoKfIjEt9A0QV"
-        }
-      ],
-      "duration_ms": 215699,
-      "name": "Hollywood",
-      "url": "https://open.spotify.com/track/7drgoOz9TjniNAP79jB7Us"
     },
     {
       "added_at": "2024-03-08 03:00:00",
@@ -1415,6 +1415,22 @@
     {
       "added_at": "2024-03-08 03:00:00",
       "album": {
+        "name": "Shawarma Love",
+        "url": "https://open.spotify.com/album/43aSsiOqPkg2R2CCX3ufQx"
+      },
+      "artists": [
+        {
+          "name": "Pez Pl\u00e1tano",
+          "url": "https://open.spotify.com/artist/2QSolWRaQ4qyykIQwVe3IT"
+        }
+      ],
+      "duration_ms": 231750,
+      "name": "Shawarma Love",
+      "url": "https://open.spotify.com/track/6Vi9Cf1rg1KSM7Vlnp1Wgn"
+    },
+    {
+      "added_at": "2024-03-08 03:00:00",
+      "album": {
         "name": "Baladas del Fin del Mundo",
         "url": "https://open.spotify.com/album/0WPzYjeKd2clBUAgdZv6yw"
       },
@@ -1427,22 +1443,6 @@
       "duration_ms": 248593,
       "name": "Revelando, Develando",
       "url": "https://open.spotify.com/track/7vjVFkNHk3nq6OiuzaoQck"
-    },
-    {
-      "added_at": "2024-03-08 03:00:00",
-      "album": {
-        "name": "No Me Esperes M\u00e1s",
-        "url": "https://open.spotify.com/album/4hlgFJaB91vmosuy65XQDV"
-      },
-      "artists": [
-        {
-          "name": "Los Insolentes",
-          "url": "https://open.spotify.com/artist/5PSALJaFvns883BaOLR6Vc"
-        }
-      ],
-      "duration_ms": 191658,
-      "name": "No Me Esperes M\u00e1s",
-      "url": "https://open.spotify.com/track/1y9EiwTaAhZgZ6pPneVNKH"
     },
     {
       "added_at": "2024-03-08 03:00:00",
@@ -1467,34 +1467,34 @@
     {
       "added_at": "2024-03-08 03:00:00",
       "album": {
-        "name": "Lo Que Es Real",
-        "url": "https://open.spotify.com/album/4EhoOmnnr75ndHqBbsT7CA"
+        "name": "No Me Esperes M\u00e1s",
+        "url": "https://open.spotify.com/album/4hlgFJaB91vmosuy65XQDV"
       },
       "artists": [
         {
-          "name": "El Otro Astronauta",
-          "url": "https://open.spotify.com/artist/0XgIpxvQkRLs1IbbCkNcFa"
+          "name": "Los Insolentes",
+          "url": "https://open.spotify.com/artist/5PSALJaFvns883BaOLR6Vc"
         }
       ],
-      "duration_ms": 223593,
-      "name": "Lo Que Es Real",
-      "url": "https://open.spotify.com/track/0BWlOb5MiXGRhVcCpeRwrF"
+      "duration_ms": 191658,
+      "name": "No Me Esperes M\u00e1s",
+      "url": "https://open.spotify.com/track/1y9EiwTaAhZgZ6pPneVNKH"
     },
     {
       "added_at": "2024-03-08 03:00:00",
       "album": {
-        "name": "Shawarma Love",
-        "url": "https://open.spotify.com/album/43aSsiOqPkg2R2CCX3ufQx"
+        "name": "Eclipse",
+        "url": "https://open.spotify.com/album/1vcXzG08KpYWIKU6QVGp6I"
       },
       "artists": [
         {
-          "name": "Pez Pl\u00e1tano",
-          "url": "https://open.spotify.com/artist/2QSolWRaQ4qyykIQwVe3IT"
+          "name": "Aut\u00f3ctonos de Ninguna Parte",
+          "url": "https://open.spotify.com/artist/7pqtHCx8vGUbM5sVb45peN"
         }
       ],
-      "duration_ms": 231750,
-      "name": "Shawarma Love",
-      "url": "https://open.spotify.com/track/6Vi9Cf1rg1KSM7Vlnp1Wgn"
+      "duration_ms": 319903,
+      "name": "Eclipse",
+      "url": "https://open.spotify.com/track/5oWhkOd58YO5LzNvIwCSG3"
     }
   ],
   "unique_name": "Rock Chileno",

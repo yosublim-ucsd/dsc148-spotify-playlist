@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9E1mLvTvD1f.md) - [plain]
 
 > 90s rock to fuel your ride\. Cover: The Smashing Pumpkins
 
-[Spotify](https://open.spotify.com/user/spotify) - 276,850 likes - 60 songs - 3 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 277,080 likes - 60 songs - 3 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9E1mLvTvD1f.md) - [plain]
 | 20 | [Daughter \- Remastered](https://open.spotify.com/track/53eJFr4Mfbw5PXJ01K6cFw) | [Pearl Jam](https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56) | [Vs.](https://open.spotify.com/album/3BSOiAas8BpJOii3kCPyjV) | 3:54 |
 | 21 | [Take A Picture](https://open.spotify.com/track/6q4aoWgTQ8td2AvqQXuFqm) | [Filter](https://open.spotify.com/artist/01WjpKiWVNurV5hjIadB8C) | [Title Of Record \(Expanded Edition\)](https://open.spotify.com/album/0PtuV98eVpJkCORoCH2uCu) | 6:03 |
 | 22 | [Cherub Rock \- 2011 Remaster](https://open.spotify.com/track/3ow0TQVttXQF8rLckmXgRx) | [The Smashing Pumpkins](https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i) | [Siamese Dream \(Deluxe Edition\)](https://open.spotify.com/album/0bQglEvsHphrS19FGODEGo) | 4:58 |
-| 23 | [Beautiful Disaster](https://open.spotify.com/track/0LtsuNRz3IMRrHCYO9fKRk) | [311](https://open.spotify.com/artist/41Q0HrwWBtuUkJc7C1Rp6K) | [Transistor](https://open.spotify.com/album/66MztQRqLYgND6LTeIpRFx) | 3:58 |
-| 24 | [My Name Is Jonas](https://open.spotify.com/track/4nzyOwogJuWn1s6QuGFZ6w) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Weezer](https://open.spotify.com/album/1xpGyKyV26uPstk1Elgp9Q) | 3:24 |
+| 23 | [My Name Is Jonas](https://open.spotify.com/track/4nzyOwogJuWn1s6QuGFZ6w) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Weezer](https://open.spotify.com/album/1xpGyKyV26uPstk1Elgp9Q) | 3:24 |
+| 24 | [Beautiful Disaster](https://open.spotify.com/track/0LtsuNRz3IMRrHCYO9fKRk) | [311](https://open.spotify.com/artist/41Q0HrwWBtuUkJc7C1Rp6K) | [Transistor](https://open.spotify.com/album/66MztQRqLYgND6LTeIpRFx) | 3:58 |
 | 25 | [Fell On Black Days](https://open.spotify.com/track/21HWc9gFZKNdkGzGqHLq3A) | [Soundgarden](https://open.spotify.com/artist/5xUf6j4upBrXZPg6AI4MRK) | [Superunknown \(20th Anniversary\)](https://open.spotify.com/album/4K8bxkPDa5HENw0TK7WxJh) | 4:43 |
 | 26 | [Bound For The Floor](https://open.spotify.com/track/3cbTV3IZZvSBYVcl0xuZbY) | [Local H](https://open.spotify.com/artist/415JrPfN7ukaTu8JV8BLE8) | [As Good As Dead](https://open.spotify.com/album/4DY4LZwEjx7zZ3tYtJG5Pl) | 3:42 |
 | 27 | [Never There](https://open.spotify.com/track/7aKWgpecgLEqisWcXPElDl) | [CAKE](https://open.spotify.com/artist/6A43Djmhbe9100UwnI7epV) | [Prolonging the Magic](https://open.spotify.com/album/1vbpW28Od2ATmVyAZ0QZ3j) | 2:44 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9E1mLvTvD1f.md) - [plain]
 | 59 | [I'm Above](https://open.spotify.com/track/6NQZtrzKlUkY81Bw00avaI) | [Mad Season](https://open.spotify.com/artist/0T7JQxpy1Li93vLNirbv0Z) | [Above \(Deluxe Edition\)](https://open.spotify.com/album/1cqta2uSKVYdom7CRMGDwn) | 5:44 |
 | 60 | [Homebrew](https://open.spotify.com/track/4Uq5TL72LsfsbThygdCHyT) | [311](https://open.spotify.com/artist/41Q0HrwWBtuUkJc7C1Rp6K) | [Grassroots](https://open.spotify.com/album/7K7QZZ3oPeqQ3Gg1K9fqmZ) | 3:04 |
 
-Snapshot ID: `MCw3YzI3Y2VhYWUwMmQ0Y2EzN2Y1YWJmZTAyMjdiMzFiOWUwOWJjNDUw`
+Snapshot ID: `MCwxMjMxYTI3NGM0MTgxZWZmNWRlY2FjZGEwNjI0NjVjMjE0ZDllNzEx`

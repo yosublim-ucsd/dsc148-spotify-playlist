@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV01pw5Lcxuv.md) - [plain]
 
 > Disfruta con mamá la era dorada de los 80's.
 
-[Spotify](https://open.spotify.com/user/spotify) - 597,353 likes - 75 songs - 5 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 597,444 likes - 75 songs - 5 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,15 +62,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV01pw5Lcxuv.md) - [plain]
 | 52 | [Vuela, Vuela \(Voyage, Voyage\)](https://open.spotify.com/track/6nz1ojKuYx5HO7Vh0wmuWp) | [Magneto](https://open.spotify.com/artist/5v287QKYZ7Dyuw4CNzv89p) | [La Historia De Magneto](https://open.spotify.com/album/3KDmJHv55zR0H9lnS0NFtu) | 4:25 |
 | 53 | [El Muchacho de los Ojos Tristes](https://open.spotify.com/track/41JBXtssxYuLMyiBwwlnY6) | [Jeanette](https://open.spotify.com/artist/2Asr5Otk5aKK272pK4ocG2) | [Originales \- 20 Exitos](https://open.spotify.com/album/5xaZwiFGYT273Zk40sen9o) | 3:27 |
 | 54 | [Holiday](https://open.spotify.com/track/3ibAzRj9JnowdoLkyllk3n) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Madonna](https://open.spotify.com/album/5lrlWKjNY0eTDXp9Bd3LpW) | 3:51 |
-| 55 | [Hagamos Un Trato](https://open.spotify.com/track/7sj71Y12St8KlvMpBt4K27) | [Amanda Miguel](https://open.spotify.com/artist/3v8mFhjLFa50QK8zDvAMYN) | [El Sonido Vol\. 1](https://open.spotify.com/album/4pikNCtnVpJMebAIS5tuYS) | 2:46 |
+| 55 | [Castillos](https://open.spotify.com/track/1Wv08uEqny4IZk45kPH6rx) | [Amanda Miguel](https://open.spotify.com/artist/3v8mFhjLFa50QK8zDvAMYN) | [El Sonido Vol\. 2](https://open.spotify.com/album/2FR08dbmd2F3NNSwx92jzO) | 4:21 |
 | 56 | [Maquillaje](https://open.spotify.com/track/3EvQORwO3na9m9nPKK403y) | [Mecano](https://open.spotify.com/artist/5BMgsAFg8rZQc3tqs5BB8G) | [Ana, José, Nacho](https://open.spotify.com/album/0LDQpQYKdqjOHjkxLkWAoO) | 2:33 |
 | 57 | [Karma Chameleon](https://open.spotify.com/track/48O0GrGJWml3DzHhC5sJ7a) | [Culture Club](https://open.spotify.com/artist/6kz53iCdBSqhQCZ21CoLcc) | [At Worst...The Best Of Boy George And Culture Club](https://open.spotify.com/album/7gdwk8zdee8ghIq94Z9ck3) | 4:01 |
 | 58 | [Debut Y Despedida](https://open.spotify.com/track/1Ab8M5xfQ0nUTGSldQzAA2) | [Los Angeles Negros](https://open.spotify.com/artist/1NiC1V6xc8OR1ERiIoCvtx) | [Serie De Oro](https://open.spotify.com/album/1vdwYgTjF9jklmR0RbRR0d) | 2:54 |
 | 59 | [Manic Monday](https://open.spotify.com/track/00vYs0qZA40Z8AAaN7xmMO) | [The Bangles](https://open.spotify.com/artist/51l0uqRxGaczYr4271pVIC) | [Different Light \(Expanded Edition\)](https://open.spotify.com/album/7qEP3i0f0zfk6JUFW3SyeN) | 3:04 |
 | 60 | [Este Terco Corazon](https://open.spotify.com/track/1iN1knAnE9tgY3FipGocKX) | [Emmanuel](https://open.spotify.com/artist/2DmYtFBKcxb3ajwWWgA576) | [Diez Años Cantandole Al Amor](https://open.spotify.com/album/7m0U4kGO3H4QUw5W75HsQ8) | 3:42 |
-| 61 | [Castillos](https://open.spotify.com/track/1Wv08uEqny4IZk45kPH6rx) | [Amanda Miguel](https://open.spotify.com/artist/3v8mFhjLFa50QK8zDvAMYN) | [El Sonido Vol\. 2](https://open.spotify.com/album/2FR08dbmd2F3NNSwx92jzO) | 4:21 |
-| 62 | [Conga](https://open.spotify.com/track/53pZ8y3yMYUNpclGwIufu0) | [Gloria Estefan And Miami Sound Machine](https://open.spotify.com/artist/2Gop8SbSVt5SaJzuaRFa7D) | [Greatest Hits](https://open.spotify.com/album/5wkQo9u8qrKOdfGqoizWPo) | 4:15 |
-| 63 | [Mudanzas](https://open.spotify.com/track/1UPPpJhqQW34QGEjRx32jF) | [Lupita D'Alessio](https://open.spotify.com/artist/3mGyF5kXDjEkLlFypJ93en) | [Mudanzas](https://open.spotify.com/album/3iQaYoL4kryRUEHChDAm54) | 3:51 |
+| 61 | [Hagamos Un Trato](https://open.spotify.com/track/7sj71Y12St8KlvMpBt4K27) | [Amanda Miguel](https://open.spotify.com/artist/3v8mFhjLFa50QK8zDvAMYN) | [El Sonido Vol\. 1](https://open.spotify.com/album/4pikNCtnVpJMebAIS5tuYS) | 2:46 |
+| 62 | [Mudanzas](https://open.spotify.com/track/1UPPpJhqQW34QGEjRx32jF) | [Lupita D'Alessio](https://open.spotify.com/artist/3mGyF5kXDjEkLlFypJ93en) | [Mudanzas](https://open.spotify.com/album/3iQaYoL4kryRUEHChDAm54) | 3:51 |
+| 63 | [Conga](https://open.spotify.com/track/53pZ8y3yMYUNpclGwIufu0) | [Gloria Estefan And Miami Sound Machine](https://open.spotify.com/artist/2Gop8SbSVt5SaJzuaRFa7D) | [Greatest Hits](https://open.spotify.com/album/5wkQo9u8qrKOdfGqoizWPo) | 4:15 |
 | 64 | [Chiquitita \- Spanish Version](https://open.spotify.com/track/0Fuc8WMl8xSXjb8d4M6Xqo) | [ABBA](https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV) | [Gracias Por La Musica \(Deluxe Edition\)](https://open.spotify.com/album/1ZVourNSOich8buZk5ILdZ) | 5:33 |
 | 65 | [She Works Hard For The Money](https://open.spotify.com/track/3FlOciKDqFlTMPeC7t92Qy) | [Donna Summer](https://open.spotify.com/artist/2eogQKWWoohI3BSnoG7E2U) | [She Works Hard For The Money](https://open.spotify.com/album/0x3qYJCMrhJPgi7hTqxEl2) | 5:20 |
 | 66 | [No Vale la Pena \(En Vivo\) \- En el Palacio de Bellas Artes](https://open.spotify.com/track/1ZwK7tvuYHoQQju0LBnqWk) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [Todo](https://open.spotify.com/album/6X4xZK2oV8ydJDnIMpL5TX) | 2:34 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV01pw5Lcxuv.md) - [plain]
 | 74 | [Fotografia](https://open.spotify.com/track/2ZZNEhPfLbc4sxhDwUwyk3) | [Oscar Athie](https://open.spotify.com/artist/5wk7LFJizWvjj1m7ybEA3J) | [Fotografia](https://open.spotify.com/album/0psZmb1gOGoFm1iCFhOM3T) | 3:45 |
 | 75 | [Barco a Venus](https://open.spotify.com/track/11glwadtd8zwDamSDOX5cJ) | [Mecano](https://open.spotify.com/artist/5BMgsAFg8rZQc3tqs5BB8G) | [¿Dónde Está el Pais de las Hadas? \(Bonus Tracks Edition\)](https://open.spotify.com/album/395Ts8cMrWtmDHxrlYcTxz) | 3:21 |
 
-Snapshot ID: `MCw2ZjhmOTEzZWMzOTI2YTlhMjRmZGQ3MDFkYjNjM2E1YTU3NTZmZGI2`
+Snapshot ID: `MCw4YmE1MDk0ZGZiOTdjOTk5YTY2ZmUxYmZjYmIzNzJkNzdlYzQzNmRk`

@@ -4,15 +4,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU5RJFUyAPLw.md) - [plain]
 
 > Island life vibes ✨ Relajados y disfrutando la vida con musiquita linda de fondo.
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,244 likes - 75 songs - 4 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,271 likes - 75 songs - 4 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Cerca De Ti](https://open.spotify.com/track/4LY7VZhDLlRpsUlBIOZ7Ew) | [Hermanos Gutiérrez](https://open.spotify.com/artist/73mSg0dykFyhvU96tb5xQV) | [Hoy Como Ayer](https://open.spotify.com/album/28NDhMP2u9FUfp7grF1LhM) | 1:48 |
 | 2 | [Lo Hice, Te Dejé](https://open.spotify.com/track/3PKhRDUCDckxRypmC5RhO6) | [Daniel, Me Estás Matando](https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE) | [Grandes Éxitos del Boleroglam, Vol\. 2](https://open.spotify.com/album/49k8bx6FKOeKocIRppwnYE) | 3:06 |
 | 3 | [Cama de Papel](https://open.spotify.com/track/1k4EMd4OzpawfGTFvxkRg7) | [Javypablo](https://open.spotify.com/artist/6M3xYeqwhquYOjf96D2mYq), [Khotton](https://open.spotify.com/artist/3nJV4WKGZ6rh9LqpdwCOnS) | [SOMOS JAVYPABLO](https://open.spotify.com/album/57ry9jXPJLWl5tDNwdxlDq) | 3:16 |
-| 4 | [Algo contigo](https://open.spotify.com/track/3HMuJG1y7pyjg7Rrk17Rsb) | [Rita Payés](https://open.spotify.com/artist/1XSmez9xyCCPpOZp0uImwM), [Elisabeth Roma](https://open.spotify.com/artist/4YU7oWQY1EZzkkMVK4dJHm) | [Imagina](https://open.spotify.com/album/4mWMKw1bTjskg9KXg7rFwc) | 4:57 |
-| 5 | [Pruébame a Ti](https://open.spotify.com/track/10rzSpg3kTFSr5e5tFy60A) | [Jósean Log](https://open.spotify.com/artist/1LMyTeRhjaitILs98h3MaF) | [El Tiempo Locura Todo](https://open.spotify.com/album/2dlQczNA78nEuIY8KOWfrp) | 3:13 |
+| 4 | [Pruébame a Ti](https://open.spotify.com/track/10rzSpg3kTFSr5e5tFy60A) | [Jósean Log](https://open.spotify.com/artist/1LMyTeRhjaitILs98h3MaF) | [El Tiempo Locura Todo](https://open.spotify.com/album/2dlQczNA78nEuIY8KOWfrp) | 3:13 |
+| 5 | [Algo contigo](https://open.spotify.com/track/3HMuJG1y7pyjg7Rrk17Rsb) | [Rita Payés](https://open.spotify.com/artist/1XSmez9xyCCPpOZp0uImwM), [Elisabeth Roma](https://open.spotify.com/artist/4YU7oWQY1EZzkkMVK4dJHm) | [Imagina](https://open.spotify.com/album/4mWMKw1bTjskg9KXg7rFwc) | 4:57 |
 | 6 | [Grecia](https://open.spotify.com/track/6OTGRlCpPGMpPM96g62d2R) | [Elsa y Elmar](https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy), [Jósean Log](https://open.spotify.com/artist/1LMyTeRhjaitILs98h3MaF), [Daniel, Me Estás Matando](https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE) | [Grecia](https://open.spotify.com/album/0NDZTKw6MgExSektZolu8S) | 3:20 |
 | 7 | [¿Qué Se Siente Que Me Gustes Tanto?](https://open.spotify.com/track/2BWao7MNRld2ucMxswvxaU) | [Daniel, Me Estás Matando](https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE) | [Suspiros](https://open.spotify.com/album/2dU3JOkZlSKu7WdqIGvCcK) | 3:04 |
 | 8 | [Tú](https://open.spotify.com/track/1jecO8NeYLsVWVptITz4c1) | [maye](https://open.spotify.com/artist/5ti5FPHgtaSf15KcUisZMt) | [Tú](https://open.spotify.com/album/41OfyTxfB3ou95Ib24VlV2) | 3:26 |
@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU5RJFUyAPLw.md) - [plain]
 | 18 | [Tan Difícil de Entender](https://open.spotify.com/track/2KkQ9qiUzA7SHwCadQtI8u) | [Pantoja](https://open.spotify.com/artist/1sSMrejChoHWBnCe7w6fKc) | [Tan Difícil de Entender](https://open.spotify.com/album/4llL1SDFfsIsbuBY0seqKd) | 2:05 |
 | 19 | [Amuleto](https://open.spotify.com/track/5ymVw92LI7QlVPLHc6NM6R) | [Maréh](https://open.spotify.com/artist/2SIZkgqao1WVQAuliN0PN4) | [Amuleto](https://open.spotify.com/album/0inXRfr6USJ8rsLfAKvWbw) | 3:49 |
 | 20 | [desde que estas en mi vida](https://open.spotify.com/track/0e43i8zcjJrAPUztNJro3X) | [Gonza Silva](https://open.spotify.com/artist/4DUULlizAy9zRrfsfG5ttn) | [desde que estas en mi vida](https://open.spotify.com/album/0YV5IL1vIj4oxqY7EJb7hX) | 3:22 |
-| 21 | [Como Antes](https://open.spotify.com/track/1rgTPhfIsygO4HjDafOVzR) | [Llane](https://open.spotify.com/artist/7A02nc5WKMBLqSKXxGZ4o8) | [Como Antes](https://open.spotify.com/album/0jXsX7bYf7FQE0CLGug86V) | 3:16 |
-| 22 | [Hace Tiempo](https://open.spotify.com/track/5ZIAGLaxIMK8FnNdtZQpkw) | [La Isla Centeno](https://open.spotify.com/artist/7EnLmrL4jTZKjeseaZyA0L) | [Los Náufragos](https://open.spotify.com/album/1ZuTAeqMLd53krA4g6Riqh) | 4:12 |
+| 21 | [Hace Tiempo](https://open.spotify.com/track/5ZIAGLaxIMK8FnNdtZQpkw) | [La Isla Centeno](https://open.spotify.com/artist/7EnLmrL4jTZKjeseaZyA0L) | [Los Náufragos](https://open.spotify.com/album/1ZuTAeqMLd53krA4g6Riqh) | 4:12 |
+| 22 | [Como Antes](https://open.spotify.com/track/1rgTPhfIsygO4HjDafOVzR) | [Llane](https://open.spotify.com/artist/7A02nc5WKMBLqSKXxGZ4o8) | [Como Antes](https://open.spotify.com/album/0jXsX7bYf7FQE0CLGug86V) | 3:16 |
 | 23 | [Perreo Bonito](https://open.spotify.com/track/7EGWnAJSDIfJRRsE78n7ea) | [Carlos Sadness](https://open.spotify.com/artist/2LCcy9CZWwZ7Vvykt8IVVq), [La Bien Querida](https://open.spotify.com/artist/0Wn7tfH4rhaWTn8aMqSgh6) | [Perreo Bonito](https://open.spotify.com/album/36mS7QJlFRmi3Pcw0yikxc) | 3:07 |
 | 24 | [TOSCANA](https://open.spotify.com/track/6ejAYAdo08qbPLrH4FEfYe) | [Cardellino](https://open.spotify.com/artist/7HFja6X48hWE58m3pQnGV0) | [Cardellino](https://open.spotify.com/album/43ngUKpEMUdgNv3cHaWGKC) | 2:49 |
 | 25 | [Juanita la Chismosa](https://open.spotify.com/track/155XcCEwMrHE3YcJciCnvi) | [El Caribefunk](https://open.spotify.com/artist/25UVM4HwATaXX6M7SXT1JI) | [El Caribefunk](https://open.spotify.com/album/1L3nJbcVnDFhy1EGMjlEur) | 4:58 |
@@ -75,8 +75,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU5RJFUyAPLw.md) - [plain]
 | 65 | [Libre](https://open.spotify.com/track/6zmlvhQshwFBAIpOOAEVfb) | [Cheo](https://open.spotify.com/artist/2sshGYdyr1ZEl4Np76RRxG), [Nella](https://open.spotify.com/artist/6hgiVWraSMs9mbUrhPq8Oh) | [Libre](https://open.spotify.com/album/7oBjTSSK15OF6X5kFJJugd) | 4:39 |
 | 66 | [Despierta](https://open.spotify.com/track/2bPr8EZng6sAPnjp2qoPEV) | [Esotérica Tropical](https://open.spotify.com/artist/6XMptgUrnAltqp1lXz7vCs) | [Despierta](https://open.spotify.com/album/5XT45gWLliUZ1HjnQaZfS3) | 3:00 |
 | 67 | [Miel <3](https://open.spotify.com/track/4DjuqRQQIBLkOz9S6MN28t) | [Valeria Jasso](https://open.spotify.com/artist/4JTbF9feswVonYL7fHSVCh) | [Suspiros](https://open.spotify.com/album/67kgDdEZm4L3H1O67WYLXg) | 3:23 |
-| 68 | [Michelada](https://open.spotify.com/track/5B30BvpxWapuepoVA0yRB6) | [Salomón Beda](https://open.spotify.com/artist/76oqoGaknr9WGOegYTjxdh) | [Michelada](https://open.spotify.com/album/3c03dbml6ykc5shqtuMq49) | 3:03 |
-| 69 | [Quiero Quedarme](https://open.spotify.com/track/62NQL85GaZA7FE1ejQQgkE) | [Alex Cuba](https://open.spotify.com/artist/7gZRUp2WL6r11PXTv309P1) | [Quiero Quedarme](https://open.spotify.com/album/7JMcgEmmRUXb7cunOvi0In) | 3:48 |
+| 68 | [Quiero Quedarme](https://open.spotify.com/track/62NQL85GaZA7FE1ejQQgkE) | [Alex Cuba](https://open.spotify.com/artist/7gZRUp2WL6r11PXTv309P1) | [Quiero Quedarme](https://open.spotify.com/album/7JMcgEmmRUXb7cunOvi0In) | 3:48 |
+| 69 | [Michelada](https://open.spotify.com/track/5B30BvpxWapuepoVA0yRB6) | [Salomón Beda](https://open.spotify.com/artist/76oqoGaknr9WGOegYTjxdh) | [Michelada](https://open.spotify.com/album/3c03dbml6ykc5shqtuMq49) | 3:03 |
 | 70 | [Niña de Mis Ojos](https://open.spotify.com/track/4hjxm4OOqQcwB0Oi8wDV2N) | [La Isla Centeno](https://open.spotify.com/artist/7EnLmrL4jTZKjeseaZyA0L) | [Niña de Mis Ojos](https://open.spotify.com/album/4qx9aRb19XNXAkmKU4QJj6) | 3:13 |
 | 71 | [Sin Yolanda](https://open.spotify.com/track/2P8lowDRQsyXnPryS7s20o) | [Zuaraz](https://open.spotify.com/artist/4TtZLRWNlqoLHQXJLIU8Ch), [Gutinho](https://open.spotify.com/artist/5xneBcnKxnlHnspytUfcyE) | [Últimamente me acuerdo mucho de tu casa](https://open.spotify.com/album/5KwvQO1gEvFXclsDYCegXf) | 3:50 |
 | 72 | [Quiero Enamorarte](https://open.spotify.com/track/1piCERW239XDrsdsyXxXwd) | [Grecia Vallejo](https://open.spotify.com/artist/4jdvzT28t4eW1bk61DqKPI) | [Quiero Enamorarte](https://open.spotify.com/album/0szu8Z1zY73sybd8CCyZdA) | 3:08 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU5RJFUyAPLw.md) - [plain]
 | 74 | [estamos bien](https://open.spotify.com/track/1VvnmpJBpaJ6LOObkwOg7C) | [Marco Mares](https://open.spotify.com/artist/5Eg5ZoZgXAa1Eit48sxoKQ) | [estamos bien](https://open.spotify.com/album/1kCf3v2NqFFTmQwRwlRe3G) | 2:40 |
 | 75 | [Instantes y Aullidos](https://open.spotify.com/track/5RMNO57A2o5QYj7amonXVE) | [Tomás del Real](https://open.spotify.com/artist/0LhgYcyninijD4GAKXPa3v) | [Instantes y Aullidos](https://open.spotify.com/album/7FHSfjRkiYxyZ9keRX0r2Q) | 5:00 |
 
-Snapshot ID: `MCw0OWU0ZmUwMzc4NTk5NDYyMWJjODBmNjNiOTRmMWE5NjQ2MzAwODRj`
+Snapshot ID: `MCxhMmRiMThhYTJhMjFiZjljYjBmYzVlYzdlNmIwMDgwMjY0MmJkZDhj`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbGmeKvsEvzt.md) - [plain]
 
 > Post club ride home
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,329 likes - 50 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,331 likes - 50 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbGmeKvsEvzt.md) - [plain]
 | 2 | [Body to Body \#Ycd](https://open.spotify.com/track/0UF970jvIUBs02GoWDVObi) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Redemption](https://open.spotify.com/album/0iFm8vnIeZcrxqAHIBsj6H) | 3:14 |
 | 3 | [Maria I'm Drunk \(feat\. Justin Bieber & Young Thug\)](https://open.spotify.com/track/6Yqmv7XJLCrQEauMbPGZSw) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [Rodeo](https://open.spotify.com/album/4PWBTB6NYSKQwfo79I3prg) | 5:49 |
 | 4 | [Tonongo](https://open.spotify.com/track/5sjK2PoEh0AxtJdKynjDRd) | [Lojay](https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL), [Sarz](https://open.spotify.com/artist/408vMm7y1227ASq7GmWygZ) | [Tonongo](https://open.spotify.com/album/2xIrPm8RWasyXeFgO8D5eR) | 2:29 |
-| 5 | [Tempted](https://open.spotify.com/track/4V9v5ehAQpFyZ3GQQhCGT7) | [Rhedi](https://open.spotify.com/artist/6i90MGejsqG2b8XgqDlTUI), [Balloranking](https://open.spotify.com/artist/0GCgnG9YEbz5i9ASbvZNTP), [Kashcoming](https://open.spotify.com/artist/5yJLqKU6LRfzliSQIVnJMI), [Lyta](https://open.spotify.com/artist/5Vok15YfAjyyCbUg5YBRGE) | [Tempted](https://open.spotify.com/album/5KefTVJlpmOtVTp9xnp1Yi) | 2:43 |
+| 5 | [Tempted](https://open.spotify.com/track/48wm8IuVNplvwACI68UYK5) | [Rhedi](https://open.spotify.com/artist/6i90MGejsqG2b8XgqDlTUI), [Balloranking](https://open.spotify.com/artist/0GCgnG9YEbz5i9ASbvZNTP), [Kashcoming](https://open.spotify.com/artist/5yJLqKU6LRfzliSQIVnJMI), [Lyta](https://open.spotify.com/artist/5Vok15YfAjyyCbUg5YBRGE) | [Tempted](https://open.spotify.com/album/6kxcdsI6oyAMy33mrDtpYr) | 2:43 |
 | 6 | [Come Over](https://open.spotify.com/track/6iFmLbyDLJxe9TFum9ofug) | [melvitto](https://open.spotify.com/artist/4Xj0nxVO4r7PLEaw7LRiBa), [Gabzy](https://open.spotify.com/artist/2sEUjEtnqBphiYquoNfV62) | [Summers](https://open.spotify.com/album/3DGeD2ap8hARpbFZZpmwVb) | 4:08 |
 | 7 | [EARFQUAKE](https://open.spotify.com/track/5hVghJ4KaYES3BFUATCYn0) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [IGOR](https://open.spotify.com/album/5zi7WsKlIiUXv09tbGLKsE) | 3:10 |
 | 8 | [4AM](https://open.spotify.com/track/1b6seOTvtPREZUKqjhUtl5) | [Manny Norté](https://open.spotify.com/artist/5IZXhE6DcoszTt30hAeJuw), [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83), [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS), [Tion Wayne](https://open.spotify.com/artist/7b79bQFziJFedJb75k6hFt), [Love Renaissance \(LVRN\)](https://open.spotify.com/artist/5f3peNznKH0RaAYeJtDWnf) | [4AM](https://open.spotify.com/album/1lOAu6ugGCM0WVXfmdwEnO) | 3:45 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbGmeKvsEvzt.md) - [plain]
 | 49 | [4 Nothin'](https://open.spotify.com/track/4MNoQpjih78o8s5RYhhUrL) | [melvitto](https://open.spotify.com/artist/4Xj0nxVO4r7PLEaw7LRiBa), [Gabzy](https://open.spotify.com/artist/2sEUjEtnqBphiYquoNfV62) | [Summers](https://open.spotify.com/album/3DGeD2ap8hARpbFZZpmwVb) | 3:29 |
 | 50 | [Tungba](https://open.spotify.com/track/4fA1ca0O5tOOYDWt1n0z2d) | [Ajebutter22](https://open.spotify.com/artist/36gl2NBJNRaQakdS4fTKGW), [Boj](https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW) | [Make E No Cause Fight](https://open.spotify.com/album/6MpKNL8E3hEPnsN1u2Y9Ik) | 3:08 |
 
-Snapshot ID: `MCwxYjIxODJmZjM4MzZmNTM5YTdjZWEyOTVkNWE5Nzc0MjQ5OWY0ZDdm`
+Snapshot ID: `MCw1YmE1NjQxNDI3MDIwMzY2M2Y0ZjcyOGQ5ZThiZGZmMjVlYmY2M2Uz`

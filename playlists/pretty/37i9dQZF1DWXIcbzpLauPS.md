@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXIcbzpLauPS.md) - [plain]
 
 > Metalcore at its finest\. Cover: The Ghost Inside
 
-[Spotify](https://open.spotify.com/user/spotify) - 923,359 likes - 115 songs - 7 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 923,583 likes - 115 songs - 7 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXIcbzpLauPS.md) - [plain]
 | 31 | [Killshot](https://open.spotify.com/track/3F8Bjx90CZMEWADfHSImPN) | [Upon A Burning Body](https://open.spotify.com/artist/1bPBx2qbpWzEoLujeHC3G7) | [Killshot](https://open.spotify.com/album/6RLzKueY42p7BlSIRgOpVC) | 2:32 |
 | 32 | [Misery \(feat\. Atreyu\)](https://open.spotify.com/track/6fkc33TnVtVRGEgGBWRY09) | [Memphis May Fire](https://open.spotify.com/artist/7cNNNhdJDrt3vgQjwSavNf), [Atreyu](https://open.spotify.com/artist/3LkSiHbjqOHCKCqBfEZOTv) | [Misery \(feat\. Atreyu\)](https://open.spotify.com/album/6cB7t1q4PrgmDmAyuJFW4j) | 3:12 |
 | 33 | [House of Cards](https://open.spotify.com/track/5hV45IS5XiCf1HPhmss5wu) | [Awaken I Am](https://open.spotify.com/artist/3BwbgahlwovSpRfctWi8zY) | [House of Cards](https://open.spotify.com/album/1MqezT0MiTKKIsysfrYT8C) | 3:59 |
-| 34 | [21 Gun Salute](https://open.spotify.com/track/33GEGdCuSpbt3x6B33Jd82) | [Catch Your Breath](https://open.spotify.com/artist/2fqPOGxG12nEERj8YG7p22) | [Shame On Me](https://open.spotify.com/album/4EcSKM9PjQiXywZ3ItofZG) | 3:46 |
+| 34 | [21 Gun Salute](https://open.spotify.com/track/20Ov4hI7Z5xh9NkLMMf0db) | [Catch Your Breath](https://open.spotify.com/artist/2fqPOGxG12nEERj8YG7p22) | [Shame On Me](https://open.spotify.com/album/4Rs8FkCMRVYg9CtpKODlVN) | 3:46 |
 | 35 | [Cure](https://open.spotify.com/track/5zV1FnszuSKBo7EdUEQx3G) | [ERRA](https://open.spotify.com/artist/2UoOdQyBGyzrEfxcY77ce0) | [Cure](https://open.spotify.com/album/6Ab9ahxlOgEur1mr1EpZH0) | 3:45 |
 | 36 | [Gone](https://open.spotify.com/track/63dgFqper9Sv4cnWXouzHf) | [Atreyu](https://open.spotify.com/artist/3LkSiHbjqOHCKCqBfEZOTv) | [Gone](https://open.spotify.com/album/2N5wjyb8XCGAIRlwqAg98S) | 3:43 |
 | 37 | [Ghost Of Me](https://open.spotify.com/track/25Yfk4XBeglz1QoXhDqJ2w) | [Make Them Suffer](https://open.spotify.com/artist/0FZcPgWI3BsFQl4rOAGSHT) | [Ghost Of Me](https://open.spotify.com/album/6XHoTtC0sNkJbnKXkCC4ov) | 3:51 |
@@ -124,4 +124,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXIcbzpLauPS.md) - [plain]
 | 114 | [Lockdown](https://open.spotify.com/track/1sRlEiwjCS0swVrNVnPNd0) | [Defects](https://open.spotify.com/artist/1GcIqiLEyWGgVdglxShjZ3) | [Lockdown](https://open.spotify.com/album/0S1HfNJJZeAQfLywooIxpT) | 3:41 |
 | 115 | [Soul Chasm](https://open.spotify.com/track/66fCFGrX5XQD69VumC1sZA) | [Heriot](https://open.spotify.com/artist/49O77SKrEk1b9sNjhI0kM4) | [Soul Chasm](https://open.spotify.com/album/4zkhWlE1kPQbgd4qJPxOUA) | 3:24 |
 
-Snapshot ID: `MCwwYmZlZDBkYTM1YzU5YjA0ZmUwMmQ4MmE1ZTA3NTJmZDA0NWRhMzg1`
+Snapshot ID: `MCw5MjU2NTM2NjFiOTQ4ZDA5NjRiMTQ0NmExZjQwZWMwNWEyNmJlZDM2`

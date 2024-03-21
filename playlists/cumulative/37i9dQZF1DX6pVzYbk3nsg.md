@@ -4,7 +4,7 @@
 
 > Los sonidos tradicionales de la Isla del Encanto.
 
-69 songs - 4 hr 57 min
+70 songs - 5 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,6 +36,7 @@
 | [La Marejá de los Muertos](https://open.spotify.com/track/0bObIC8XTOqsOdEoo7A3ys) | [Viento De Agua](https://open.spotify.com/artist/42veAQPAg36vBaE3WVh8CE) | [Opus IV](https://open.spotify.com/album/5RD5NmumoA8pStfZpQcHb7) | 5:10 | 2023-02-22 |  |
 | [La Negra Pancha](https://open.spotify.com/track/1IncQD0Q84IO6Hjun80mbZ) | [Hermanos Ayala](https://open.spotify.com/artist/11sGNsoAafVYuvbsXre9BE) | [Bomba De Loiza](https://open.spotify.com/album/3vGGMqUHgOQv3aOsom3plI) | 4:03 | 2023-06-13 |  |
 | [LA NOVIA NUEVA](https://open.spotify.com/track/5Vtfkf7rTwelnekLAthIwu) | [Plenealo](https://open.spotify.com/artist/0X0JZd4gZGYs1MdZUwHgMg) | [LA NOVIA NUEVA](https://open.spotify.com/album/40zLbTGwHTcbdm7BmZpzCH) | 4:32 | 2023-06-13 | 2024-03-14 |
+| [La Novia Nueva](https://open.spotify.com/track/5Vupj8e4AJaAhRiJaZaEmU) | [Plenealo](https://open.spotify.com/artist/0X0JZd4gZGYs1MdZUwHgMg) | [Soy Yo](https://open.spotify.com/album/7nUSFQ1J57De7mOlgMB7nW) | 4:32 | 2023-06-13 |  |
 | [La Novia Nueva](https://open.spotify.com/track/7CE1mVhaUL86nLwkBFrIxy) | [Plenealo](https://open.spotify.com/artist/0X0JZd4gZGYs1MdZUwHgMg) | [Soy Yo](https://open.spotify.com/album/4RBgUnnRFooYqK6Ft7uGEw) | 4:32 | 2023-02-22 | 2024-01-21 |
 | [La Revolución \(A la Calle Plenero\)](https://open.spotify.com/track/2cgM9f7eupk28w9skPjEKA) | [Totin Agosto Arará y la Liga Rumbera](https://open.spotify.com/artist/2dJK73cxBsmcCYh3t089J7) | [Orgánico y Medicinal](https://open.spotify.com/album/76iolqxBkeTjzGlC7gw1lE) | 5:00 | 2023-02-22 |  |
 | [Lamento Borincano](https://open.spotify.com/track/2cAVI7mFlCPPGBYnKoknWQ) | [Grupo Afro Boriqua, Director William Cepeda](https://open.spotify.com/artist/3WtjPwL9iHJCBCjqxDJ1QM) | [Bombazo](https://open.spotify.com/album/57x4LW3rXa6OUutg6UALTf) | 6:23 | 2023-02-22 | 2023-10-02 |
@@ -56,7 +57,7 @@
 | [Plena De San Anton](https://open.spotify.com/track/6bSNlhadeU2eW6MWQN1Kq0) | [Los Pleneros de la 21](https://open.spotify.com/artist/0t8zL6r1pfqXi0XSJMUhgy) | [Somos Boricuas: Bomba Y Plena En Nueva York](https://open.spotify.com/album/3RTj6IuypsPsWoGUsiUTwB) | 3:43 | 2023-02-22 |  |
 | [Plena y Bomba \(feat\. Calle 13\)](https://open.spotify.com/track/5hd2KQbzlMF1hmAlBTNCgi) | [Susana Baca](https://open.spotify.com/artist/1DiaZsjdOzFCdk7Dw9KIs0), [Calle 13](https://open.spotify.com/artist/0yNSzH5nZmHzeE2xn6Xshb) | [Afrodiaspora](https://open.spotify.com/album/33P899lSs20h8BEWTKskCv) | 4:38 | 2023-02-22 |  |
 | [Plenazo Callejero 1](https://open.spotify.com/track/2sKuQbRejG9hxdDfPXVJ0Y) | [Plenealo](https://open.spotify.com/artist/0X0JZd4gZGYs1MdZUwHgMg) | [Distinto Y Diferente](https://open.spotify.com/album/2gKfS4zd0LONEuh3fEv40W) | 5:31 | 2023-02-22 |  |
-| [Plenazo Callejero 2](https://open.spotify.com/track/5WIC5dyHF3rJwsa2UhdElr) | [Plenealo](https://open.spotify.com/artist/0X0JZd4gZGYs1MdZUwHgMg) | [Distinto Y Diferente](https://open.spotify.com/album/2gKfS4zd0LONEuh3fEv40W) | 7:31 | 2023-02-22 |  |
+| [Plenazo Callejero 2](https://open.spotify.com/track/5WIC5dyHF3rJwsa2UhdElr) | [Plenealo](https://open.spotify.com/artist/0X0JZd4gZGYs1MdZUwHgMg) | [Distinto Y Diferente](https://open.spotify.com/album/2gKfS4zd0LONEuh3fEv40W) | 7:31 | 2023-02-22 | 2024-03-21 |
 | [Posturas](https://open.spotify.com/track/3t8Qm6EMW3BXw00ebAA4ba) | [Los Pleneros de la Cresta](https://open.spotify.com/artist/1uZVxckdGGKhFMpCnupXmP) | [Mucho Gusto, Soy de la Isla](https://open.spotify.com/album/57coD2LmRoquYPveKBYGtq) | 6:39 | 2023-02-22 | 2023-06-14 |
 | [Preparate Reparada \(Guembe\) \[Live\]](https://open.spotify.com/track/66Z8gMxXEOXhubR79KlTu5) | [Buya](https://open.spotify.com/artist/29u8U8MD9gvMcxkkJxikna) | [Buya \(Live\)](https://open.spotify.com/album/3CN7dh6Ov68yvDzIwl2udq) | 4:21 | 2023-02-22 |  |
 | [Que Bonita Bandera](https://open.spotify.com/track/3fJNRrNLljNuejgcDFDNGD) | [Plena Libre](https://open.spotify.com/artist/7jZRvnCRPh2cJZ4DW5WrD9) | [Corazón](https://open.spotify.com/album/3biwM3ygTmnyyi98Fw2oH5) | 4:50 | 2023-02-22 |  |

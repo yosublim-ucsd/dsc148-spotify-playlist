@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2VXwwgu0PzV.md) - [plain]
 
 > Music for when you've got your Jesus on and your swag up \. <br/>Cover: <a href="https://open.spotify.com/artist/31XHZpkBidKYdb27RBePrr?si=TjiqtRNhRhm6qLz1jpIOTQ">Naffymar</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,975 likes - 100 songs - 6 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,010 likes - 100 songs - 6 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,13 +60,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2VXwwgu0PzV.md) - [plain]
 | 50 | [GOOD DAY](https://open.spotify.com/track/5KXXi90Q4pjVxEapZjRC9O) | [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ) | [GOOD DAY](https://open.spotify.com/album/3EdKL10Hos74yj7rGqoS2e) | 2:50 |
 | 51 | [Who Goes That Man](https://open.spotify.com/track/0tMKAOXphAtH2qia9Nm9C7) | [Prinx Emmanuel](https://open.spotify.com/artist/4HzpHfHz3EznjI4icnTvRz) | [Who Goes That Man](https://open.spotify.com/album/1WJhzMVowg8Em1ovKBMnpC) | 2:59 |
 | 52 | [Jesus Christ is seen](https://open.spotify.com/track/00gyuAURGNyLuXoIxQZemF) | [Ebuka Songs](https://open.spotify.com/artist/1voWj2pMS3ApzUroyIcHXM) | [Jesus Christ is seen](https://open.spotify.com/album/1qDNSYOrkkthADtJNHV5S3) | 3:03 |
-| 53 | [Ikechi \(Power of God\)](https://open.spotify.com/track/2qhu3cRVoq4aW30mbPAo5y) | [Minister GUC](https://open.spotify.com/artist/5F9NFQsix9CwLRFKUbyCEL) | [Ikechi \(Power of God\)](https://open.spotify.com/album/6n6e6Z1cnuMVWMQ9CBeInr) | 2:57 |
+| 53 | [Ikechi \(Power of God\)](https://open.spotify.com/track/0oLkR9vqXhvBuneYvYcxiA) | [Minister GUC](https://open.spotify.com/artist/5F9NFQsix9CwLRFKUbyCEL) | [Ikechi \(Power of God\)](https://open.spotify.com/album/1c5oifFnPegiQreaOY5wju) | 2:57 |
 | 54 | [Look what you've done](https://open.spotify.com/track/7KuXYbVO5fi6Re3q0iJTEN) | [Greatman Takit](https://open.spotify.com/artist/47oK1JYR8A9TABs010suzH) | [Look what you've done](https://open.spotify.com/album/1VwL7Cjd9Bs7gDIKAQPbv9) | 8:48 |
 | 55 | [Praise \- Afrobeat Remix](https://open.spotify.com/track/5S0eyHsGZID1X2rgfkWpVK) | [LAMB CULTURE.](https://open.spotify.com/artist/7ekDyLis0zh78DffR8wjW9), [Johay](https://open.spotify.com/artist/5AMZQzbWtj39A4bRoObz9e), [Holy drill](https://open.spotify.com/artist/3SN6XTw03dI5Cn49oeqz6j) | [Praise \(Afrobeat Remix\)](https://open.spotify.com/album/5eRNBhZeflHdRq4HmtmX1Y) | 1:31 |
 | 56 | [By Design \- Special Version](https://open.spotify.com/track/6TM4mOFIb7aWShC3teaDlr) | [Echow Clay](https://open.spotify.com/artist/6L3FtVc42qiH1J9PUtdUDu), [Rehmahz](https://open.spotify.com/artist/2n4Cjxgsst568zKdsmsEnY) | [By Design \(Special Version\)](https://open.spotify.com/album/1UnPCa8col9OvdoAK0X2UX) | 2:26 |
 | 57 | [Oxygen](https://open.spotify.com/track/5z03AJFP8wWeEeo5NFKeZX) | [Quiz Tha Great](https://open.spotify.com/artist/7nFhhSgJh6V2fvLGByut8v), [Spillz Ochai](https://open.spotify.com/artist/0ASeFVBo2nXByjUoyp1A5q), [Tobi Toun](https://open.spotify.com/artist/6hZdbBNTnqujBRgVzROQ22) | [Oxygen](https://open.spotify.com/album/6rxN1MEOw89MH0maJjeBs7) | 3:01 |
 | 58 | [Blow My Mind](https://open.spotify.com/track/10RuroVXArDIANiXftdakT) | [Amichael Genre](https://open.spotify.com/artist/7H7H3UJWKu4ZG4skm9R8MW), [Dj Horphuray](https://open.spotify.com/artist/0VQxKhG5uvT0gIDqAuyl4L) | [Blow My Mind](https://open.spotify.com/album/54Kx9glG1kj3iH8mmqgDFl) | 2:32 |
-| 59 | [Jehovah 'Meliwo \- Live](https://open.spotify.com/track/6SCnE9KZ0Ts9Vhn4v1el7r) | [Judikay](https://open.spotify.com/artist/5Ja8vZu9RqunrDS0uIFL5x), [121 Selah](https://open.spotify.com/artist/0FjCYT4l6k77uJhK7arnh5) | [Jehovah 'Meliwo \(Live\)](https://open.spotify.com/album/34tawuuWHPRWc1kjVG2n3u) | 4:59 |
+| 59 | [Jehovah 'Meliwo \(feat\. 121 Selah\) \- Live](https://open.spotify.com/track/0WWIMPvI6lvaAVRUf2N2lO) | [Judikay](https://open.spotify.com/artist/5Ja8vZu9RqunrDS0uIFL5x), [121 Selah](https://open.spotify.com/artist/0FjCYT4l6k77uJhK7arnh5) | [Jehovah 'Meliwo \(feat\. 121 Selah\) \[Live\]](https://open.spotify.com/album/7KTg30fPTIjgdlMlWPens6) | 4:59 |
 | 60 | [A Good Night](https://open.spotify.com/track/5CsaayPJ1IXb6hMvU4aQhJ) | [Peter Bishut](https://open.spotify.com/artist/10NHAEuLyuKOOETSgDfEVu), [Ur Flames](https://open.spotify.com/artist/47DUzSmetavSyS5Ukxt9lR), [ELI\-J](https://open.spotify.com/artist/6iwUw4yXwoW4ULEb2izFqV) | [A Good Night](https://open.spotify.com/album/72duXRZWMjSSTWeegomX6m) | 3:16 |
 | 61 | [Jericho](https://open.spotify.com/track/3iIMEwQrwEBgZPQcWq4uv8) | [Niyispeak](https://open.spotify.com/artist/1t2cYkpzE36VcFiGpFB0zJ), [Phrv](https://open.spotify.com/artist/3VDmwdOKUkkNK5hrKv8ucq) | [Jericho](https://open.spotify.com/album/4UWpeIxTS2yoaj7Ah00ixo) | 2:29 |
 | 62 | [Gold](https://open.spotify.com/track/3hlQG5mVjjR5MupseJXkid) | [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT), [Ada Ehi](https://open.spotify.com/artist/27aJyju2K5sLLiCgZKemnt) | [Gold](https://open.spotify.com/album/6ogAwvxSzjwnaolFyQBpAf) | 2:54 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2VXwwgu0PzV.md) - [plain]
 | 99 | [Not One Time](https://open.spotify.com/track/6BHr2BD9BAIitzL9fPbZjo) | [K3ndrick](https://open.spotify.com/artist/0ULEmCfIKnFCdZfZsTmxG5) | [Not One Time](https://open.spotify.com/album/5pHa72PcJQiwEANhpYYlm0) | 2:50 |
 | 100 | [Belongs to you](https://open.spotify.com/track/2XNFPtWAxuNuO3vJ0IdaLA) | [Noël Mio](https://open.spotify.com/artist/7JzZd8sCTmIpJW62zNS0ta) | [Belongs to you](https://open.spotify.com/album/2M91mM7OZJtNaeiH8pqa7O) | 2:13 |
 
-Snapshot ID: `MCwwNDNhZTM5YzA3OThkMGVlNThlMmJmNTNiMWM5MzdhNWMxY2UwNDBh`
+Snapshot ID: `MCwyNDM4Yzg0OTJkMTA2ZjA3MWU5ZTI0ODY4MTVmYTU0N2ViNGE1ZTlj`

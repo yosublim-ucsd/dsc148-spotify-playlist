@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3mvx0imueXo.md) - [plain]
 
 > Let the music lift your soul\. Vibes from the different islands in the Caribbean
 
-[Spotify](https://open.spotify.com/user/spotify) - 404,878 likes - 50 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 404,966 likes - 50 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3mvx0imueXo.md) - [plain]
 | 36 | [La famille](https://open.spotify.com/track/7x5vP5y7h9Rwzcm5s6ZcZ5) | [Danakil](https://open.spotify.com/artist/52MTyKpEJBAnWj1oVNYGTj) | [La famille](https://open.spotify.com/album/0BJBR7bKD0h5vRTX6nE1Jd) | 3:41 |
 | 37 | [Incient Stepping](https://open.spotify.com/track/2ZMrQpLGv3H10PeNDEL1UF) | [Protoje](https://open.spotify.com/artist/7BGR8y1VZAWK2oR4zD9COr) | [Incient Stepping](https://open.spotify.com/album/6ibpBLrRUvcEaMX66fvDD4) | 3:49 |
 | 38 | [Life Is Everything](https://open.spotify.com/track/6iCfgbzPaftZ61hybTBVWJ) | [Kabaka Pyramid](https://open.spotify.com/artist/10p1CDVyRIkR2ybAu7SbVH), [Answele](https://open.spotify.com/artist/4BNLKMUYLjGRqScTT38xvA) | [The Kalling](https://open.spotify.com/album/2IL0ko13l6DhK4gUebZXd9) | 3:33 |
-| 39 | [Magic](https://open.spotify.com/track/2md0a0rA0bpwS45hy6suj4) | [Kes](https://open.spotify.com/artist/7E6r9S8qCRfZVCjF1A8do6), [KES the Band](https://open.spotify.com/artist/1dghdU4VhWh2b4BMf3scHH), [Jimmy October](https://open.spotify.com/artist/7ymbjgoFo1FSdcVCKjxQUn), [Etienne Charles](https://open.spotify.com/artist/4JykHd21q5YnsKDekqnqD3) | [Hello](https://open.spotify.com/album/3pIpTzmFJulw4vtUQ3oEQA) | 4:10 |
-| 40 | [Push Time](https://open.spotify.com/track/4qeMtlPANjhEHKWm3VhmyK) | [Salaam Remi](https://open.spotify.com/artist/0rlS0SzVFk8BoiAW0fGBbN), [Super Cat](https://open.spotify.com/artist/7hHDN8REbPLpv46ROortOM) | [Push Time](https://open.spotify.com/album/0hG4yN1bfY9KhQcnUTQSDG) | 3:01 |
+| 39 | [Push Time](https://open.spotify.com/track/4qeMtlPANjhEHKWm3VhmyK) | [Salaam Remi](https://open.spotify.com/artist/0rlS0SzVFk8BoiAW0fGBbN), [Super Cat](https://open.spotify.com/artist/7hHDN8REbPLpv46ROortOM) | [Push Time](https://open.spotify.com/album/0hG4yN1bfY9KhQcnUTQSDG) | 3:01 |
+| 40 | [Magic](https://open.spotify.com/track/2md0a0rA0bpwS45hy6suj4) | [Kes](https://open.spotify.com/artist/7E6r9S8qCRfZVCjF1A8do6), [KES the Band](https://open.spotify.com/artist/1dghdU4VhWh2b4BMf3scHH), [Jimmy October](https://open.spotify.com/artist/7ymbjgoFo1FSdcVCKjxQUn), [Etienne Charles](https://open.spotify.com/artist/4JykHd21q5YnsKDekqnqD3) | [Hello](https://open.spotify.com/album/3pIpTzmFJulw4vtUQ3oEQA) | 4:10 |
 | 41 | [Election Time](https://open.spotify.com/track/5wBauhWmIU3IbThhEl05zg) | [Beenie Man](https://open.spotify.com/artist/4L3GTE04bW5N7azA9QPhjA), [808 Delavega](https://open.spotify.com/artist/3dPuXCO7uQLHphYgFzUXCJ) | [Election Time](https://open.spotify.com/album/3QyJ6rtQyRluGQKo8a6lRS) | 2:31 |
 | 42 | [Mr\. Global \(with Kabaka Pyramid\)](https://open.spotify.com/track/45wzZ9CfGX8dDw1qbJTvEp) | [Mellow Mood](https://open.spotify.com/artist/0DoxfbAxoISNySf35oVCN5), [Kabaka Pyramid](https://open.spotify.com/artist/10p1CDVyRIkR2ybAu7SbVH) | [Mr\. Global \(with Kabaka Pyramid\)](https://open.spotify.com/album/1zXR7PaPj9fKIOC1XAXb2o) | 3:28 |
 | 43 | [Honey \(feat\. Hollie Cook\)](https://open.spotify.com/track/1mXRyHsVvA3EVIRMcFPiuC) | [Gentleman's Dub Club](https://open.spotify.com/artist/6AGZSUNP6AVZ2BTxUsbJsr), [Hollie Cook](https://open.spotify.com/artist/1fwuUuFbqXJx3B17PUhFCE) | [Down to Earth](https://open.spotify.com/album/1ZILnlUmwWbgFRyQMc1bj6) | 4:29 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3mvx0imueXo.md) - [plain]
 | 49 | [Chosen People](https://open.spotify.com/track/6syjfmKZUlo6IAPJqGDvR2) | [Capleton](https://open.spotify.com/artist/21J3YJTyq1biE3SvSNjzuf), [Yami Bolo](https://open.spotify.com/artist/6K4qT7qjaR6q5SqwQ1oA3o) | [Set up Shop, Vol\. 4](https://open.spotify.com/album/5HRCRgKHqMjnnWmE3VisB0) | 3:12 |
 | 50 | [Same Ole Song \(feat\. Teejay\)](https://open.spotify.com/track/3WuV9z3uVDZ3nbWFCYasdL) | [Dre Island](https://open.spotify.com/artist/0TS9FVfPz9X4ijxno3KBi8), [Teejay](https://open.spotify.com/artist/0TBQhPUEj1c5PlmTu3Hq5q) | [Now I Rise \(Deluxe Edition\)](https://open.spotify.com/album/2JEKU9fLF96votapKBB4cZ) | 3:57 |
 
-Snapshot ID: `MCwwMDk3NjI4NWVkMGU1ODI2ODNhY2FkNTlhNDI1M2E2ODJlYjVmMGY3`
+Snapshot ID: `MCxkMDBkYTNmNjA3NWEzMDAzNTNkOGI1NzMzYzI5MDI2NjRhMjcxZjU2`

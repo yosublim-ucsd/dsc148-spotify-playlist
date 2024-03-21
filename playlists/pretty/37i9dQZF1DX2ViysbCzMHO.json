@@ -1,12 +1,12 @@
 {
   "description": "Acoustic country songs from the heart of Nashville - stripped down to the basics.",
-  "num_followers": 148883,
+  "num_followers": 148944,
   "original_name": "Nashville Stripped",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmMWEzNDAxNTI2MTRmNmYxYTU4ZWYwZmM4MmVmYWJiY2M0MjFjYWI2",
+  "snapshot_id": "MCxkNDQ5YzAyMThhN2E0Mzg5N2VkMjljMjk0MTIxNDhiZWRiZjMxM2Ux",
   "tracks": [
     {
       "added_at": "2024-03-15 04:00:00",
@@ -307,18 +307,18 @@
     {
       "added_at": "2024-03-15 04:00:00",
       "album": {
-        "name": "The Comeback",
-        "url": "https://open.spotify.com/album/3HAqDprp8YxHEguHkCcfOC"
+        "name": "Heartbreaker (Piano Version)",
+        "url": "https://open.spotify.com/album/6SPhlQgLyYrpVhZ8AvcylB"
       },
       "artists": [
         {
-          "name": "Zac Brown Band",
-          "url": "https://open.spotify.com/artist/6yJCxee7QumYr820xdIsjo"
+          "name": "Warren Zeiders",
+          "url": "https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi"
         }
       ],
-      "duration_ms": 198722,
-      "name": "Wild Palomino",
-      "url": "https://open.spotify.com/track/25Pnn7yc213pC2sFUaaINZ"
+      "duration_ms": 222466,
+      "name": "Heartbreaker - Piano Version",
+      "url": "https://open.spotify.com/track/5w1q62Vqr4kLCEaHV9HrXS"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -339,18 +339,18 @@
     {
       "added_at": "2024-03-15 04:00:00",
       "album": {
-        "name": "Heartbreaker (Piano Version)",
-        "url": "https://open.spotify.com/album/6SPhlQgLyYrpVhZ8AvcylB"
+        "name": "The Comeback",
+        "url": "https://open.spotify.com/album/3HAqDprp8YxHEguHkCcfOC"
       },
       "artists": [
         {
-          "name": "Warren Zeiders",
-          "url": "https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi"
+          "name": "Zac Brown Band",
+          "url": "https://open.spotify.com/artist/6yJCxee7QumYr820xdIsjo"
         }
       ],
-      "duration_ms": 222466,
-      "name": "Heartbreaker - Piano Version",
-      "url": "https://open.spotify.com/track/5w1q62Vqr4kLCEaHV9HrXS"
+      "duration_ms": 198722,
+      "name": "Wild Palomino",
+      "url": "https://open.spotify.com/track/25Pnn7yc213pC2sFUaaINZ"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -619,18 +619,22 @@
     {
       "added_at": "2024-03-15 04:00:00",
       "album": {
-        "name": "You (Acoustic)",
-        "url": "https://open.spotify.com/album/3irBIIu1tZxxRjIrb4G3n6"
+        "name": "This City Remix (feat. Kane Brown)",
+        "url": "https://open.spotify.com/album/0WWpkBplmouutZQWMlq0vF"
       },
       "artists": [
         {
-          "name": "Dan + Shay",
-          "url": "https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T"
+          "name": "Sam Fischer",
+          "url": "https://open.spotify.com/artist/6L1XC7NrmgWRlwAeLJvVtA"
+        },
+        {
+          "name": "Kane Brown",
+          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
         }
       ],
-      "duration_ms": 203373,
-      "name": "You - Acoustic",
-      "url": "https://open.spotify.com/track/5vMYHzU676heeOTgLhssKJ"
+      "duration_ms": 194837,
+      "name": "This City Remix (feat. Kane Brown)",
+      "url": "https://open.spotify.com/track/3GPvHSNPWlzDu5rLu4PztC"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -651,22 +655,18 @@
     {
       "added_at": "2024-03-15 04:00:00",
       "album": {
-        "name": "This City Remix (feat. Kane Brown)",
-        "url": "https://open.spotify.com/album/0WWpkBplmouutZQWMlq0vF"
+        "name": "You (Acoustic)",
+        "url": "https://open.spotify.com/album/3irBIIu1tZxxRjIrb4G3n6"
       },
       "artists": [
         {
-          "name": "Sam Fischer",
-          "url": "https://open.spotify.com/artist/6L1XC7NrmgWRlwAeLJvVtA"
-        },
-        {
-          "name": "Kane Brown",
-          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
+          "name": "Dan + Shay",
+          "url": "https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T"
         }
       ],
-      "duration_ms": 194837,
-      "name": "This City Remix (feat. Kane Brown)",
-      "url": "https://open.spotify.com/track/3GPvHSNPWlzDu5rLu4PztC"
+      "duration_ms": 203373,
+      "name": "You - Acoustic",
+      "url": "https://open.spotify.com/track/5vMYHzU676heeOTgLhssKJ"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -1115,22 +1115,6 @@
     {
       "added_at": "2024-03-15 04:00:00",
       "album": {
-        "name": "Trouble (Piano Version)",
-        "url": "https://open.spotify.com/album/21mY8GTvLZrjy3GT8HlazU"
-      },
-      "artists": [
-        {
-          "name": "Josh Ross",
-          "url": "https://open.spotify.com/artist/1ZGTSMjK1D2HrpPTOh916U"
-        }
-      ],
-      "duration_ms": 214640,
-      "name": "Trouble - Piano Version",
-      "url": "https://open.spotify.com/track/42TvKuLe8AtI0MKyvtnzz8"
-    },
-    {
-      "added_at": "2024-03-15 04:00:00",
-      "album": {
         "name": "Best Shot (Acoustic)",
         "url": "https://open.spotify.com/album/6RKktqrvsQlht15wzaeWR2"
       },
@@ -1143,6 +1127,22 @@
       "duration_ms": 193293,
       "name": "Best Shot (Acoustic)",
       "url": "https://open.spotify.com/track/1i3koBIHigtGkhFSKEW3Gn"
+    },
+    {
+      "added_at": "2024-03-15 04:00:00",
+      "album": {
+        "name": "Trouble (Piano Version)",
+        "url": "https://open.spotify.com/album/21mY8GTvLZrjy3GT8HlazU"
+      },
+      "artists": [
+        {
+          "name": "Josh Ross",
+          "url": "https://open.spotify.com/artist/1ZGTSMjK1D2HrpPTOh916U"
+        }
+      ],
+      "duration_ms": 214640,
+      "name": "Trouble - Piano Version",
+      "url": "https://open.spotify.com/track/42TvKuLe8AtI0MKyvtnzz8"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -1307,22 +1307,6 @@
     {
       "added_at": "2024-03-15 04:00:00",
       "album": {
-        "name": "Cowboy Forever (Acoustic Version)",
-        "url": "https://open.spotify.com/album/06oFPRkliY6amtTA188tk8"
-      },
-      "artists": [
-        {
-          "name": "Carter Faith",
-          "url": "https://open.spotify.com/artist/4X5CTYQmx1NNyz9S1IpNko"
-        }
-      ],
-      "duration_ms": 170242,
-      "name": "Cowboy Forever (Acoustic Version)",
-      "url": "https://open.spotify.com/track/0NWLt71QlmsCPEgLF2NSMS"
-    },
-    {
-      "added_at": "2024-03-15 04:00:00",
-      "album": {
         "name": "I Hate Cowboys & All Dogs Go To Hell",
         "url": "https://open.spotify.com/album/7rW017JpJNMTKoGXFTvini"
       },
@@ -1335,6 +1319,22 @@
       "duration_ms": 167000,
       "name": "For A Day",
       "url": "https://open.spotify.com/track/29LtoylY7DDpmY2hMdEVkx"
+    },
+    {
+      "added_at": "2024-03-15 04:00:00",
+      "album": {
+        "name": "Cowboy Forever (Acoustic Version)",
+        "url": "https://open.spotify.com/album/06oFPRkliY6amtTA188tk8"
+      },
+      "artists": [
+        {
+          "name": "Carter Faith",
+          "url": "https://open.spotify.com/artist/4X5CTYQmx1NNyz9S1IpNko"
+        }
+      ],
+      "duration_ms": 170242,
+      "name": "Cowboy Forever (Acoustic Version)",
+      "url": "https://open.spotify.com/track/0NWLt71QlmsCPEgLF2NSMS"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -1355,22 +1355,6 @@
     {
       "added_at": "2024-03-15 04:00:00",
       "album": {
-        "name": "Pretty Little Poison (Piano Version)",
-        "url": "https://open.spotify.com/album/00q0IXrfOMAKRrOg8iBEzb"
-      },
-      "artists": [
-        {
-          "name": "Warren Zeiders",
-          "url": "https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi"
-        }
-      ],
-      "duration_ms": 216866,
-      "name": "Pretty Little Poison - Piano Version",
-      "url": "https://open.spotify.com/track/7Cch8QA1FTnFcCijMkrM8E"
-    },
-    {
-      "added_at": "2024-03-15 04:00:00",
-      "album": {
         "name": "I'm Not Prettier",
         "url": "https://open.spotify.com/album/4t0FJTBU1w5TrB9iTLiCcy"
       },
@@ -1383,6 +1367,22 @@
       "duration_ms": 178191,
       "name": "I'm Not Pretty - Acoustic",
       "url": "https://open.spotify.com/track/13xZ7hQo7LEIFKMRJ2DsHz"
+    },
+    {
+      "added_at": "2024-03-15 04:00:00",
+      "album": {
+        "name": "Pretty Little Poison (Piano Version)",
+        "url": "https://open.spotify.com/album/00q0IXrfOMAKRrOg8iBEzb"
+      },
+      "artists": [
+        {
+          "name": "Warren Zeiders",
+          "url": "https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi"
+        }
+      ],
+      "duration_ms": 216866,
+      "name": "Pretty Little Poison - Piano Version",
+      "url": "https://open.spotify.com/track/7Cch8QA1FTnFcCijMkrM8E"
     },
     {
       "added_at": "2024-03-15 04:00:00",

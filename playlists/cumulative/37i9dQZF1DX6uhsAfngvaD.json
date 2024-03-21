@@ -2916,10 +2916,28 @@
       ],
       "date_added": "2021-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-21",
       "duration_ms": 145634,
       "name": "i walk this earth all by myself",
       "url": "https://open.spotify.com/track/5a8QUc4ubHJqQm7vzs2YhA"
+    },
+    {
+      "album": {
+        "name": "NEGATIVE",
+        "url": "https://open.spotify.com/album/2momrvUqAMigmBoOOKuavE"
+      },
+      "artists": [
+        {
+          "name": "EKKSTACY",
+          "url": "https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145634,
+      "name": "i walk this earth all by myself",
+      "url": "https://open.spotify.com/track/6oofvZ4K8vBHnCT1oKERcd"
     },
     {
       "album": {

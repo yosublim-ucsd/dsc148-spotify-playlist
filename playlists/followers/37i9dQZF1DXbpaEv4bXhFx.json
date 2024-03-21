@@ -1,5 +1,5 @@
 {
-  "2024-03-20": 13566,
+  "2024-03-21": 13564,
   "date_first_scraped": "2022-06-22",
   "description": "\ube57\ubc29\uc6b8\ub300\uc2e0 \uac10\uc131\uc744 \ub9de\ub294 \uc2dc\uac04. (Listen to K-Pop rainy day songs.)",
   "name": "\uc6b0\uc0b0 \uc544\ub798 (Under the Umbrella)",
@@ -885,6 +885,24 @@
       "duration_ms": 210850,
       "name": "Don't be sad",
       "url": "https://open.spotify.com/track/1f26mzPoBLP8OO67XDmwv8"
+    },
+    {
+      "album": {
+        "name": "Don't be sad",
+        "url": "https://open.spotify.com/album/3a3bUbDgnFcZPHz6Fj4P5D"
+      },
+      "artists": [
+        {
+          "name": "Ku One Chan",
+          "url": "https://open.spotify.com/artist/6ClAFFqc8VEOKSGTrvy8V5"
+        }
+      ],
+      "date_added": "2023-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210850,
+      "name": "Don't be sad",
+      "url": "https://open.spotify.com/track/6SU5PLvEAozLFwKRCI26NT"
     },
     {
       "album": {
@@ -4171,24 +4189,6 @@
       "duration_ms": 216373,
       "name": "\ube44\uc624\ub294 \uc555\uad6c\uc815",
       "url": "https://open.spotify.com/track/1WKoaRdUQGSoo8qfiWc1dT"
-    },
-    {
-      "album": {
-        "name": "\uc2ac\ud37c\ud558\uc9c0\ub9c8 Don't be sad",
-        "url": "https://open.spotify.com/album/3a3bUbDgnFcZPHz6Fj4P5D"
-      },
-      "artists": [
-        {
-          "name": "Ku One Chan",
-          "url": "https://open.spotify.com/artist/6ClAFFqc8VEOKSGTrvy8V5"
-        }
-      ],
-      "date_added": "2023-10-16",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 210850,
-      "name": "\uc2ac\ud37c\ud558\uc9c0\ub9c8 Don't be sad",
-      "url": "https://open.spotify.com/track/6SU5PLvEAozLFwKRCI26NT"
     },
     {
       "album": {

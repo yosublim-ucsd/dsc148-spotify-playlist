@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXxauMBOQPxX.md) - [plain]
 
 > Heartbroken? These songs might just help.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,003,948 likes - 50 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,003,943 likes - 50 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXxauMBOQPxX.md) - [plain]
 | 25 | [traitor](https://open.spotify.com/track/5CZ40GBx1sQ9agT82CLQCT) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [SOUR](https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j) | 3:49 |
 | 26 | [When I Was Your Man](https://open.spotify.com/track/0nJW01T7XtvILxQgC5J7Wh) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [Unorthodox Jukebox](https://open.spotify.com/album/58ufpQsJ1DS5kq4hhzQDiI) | 3:33 |
 | 27 | [When We Were Young](https://open.spotify.com/track/7GgWAITsYJaRM3r50rfh5w) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [25](https://open.spotify.com/album/3AvPX1B1HiFROvYjLb5Qwi) | 4:50 |
-| 28 | [GHOST TOWN](https://open.spotify.com/track/135Lf4Q0CzlMNfOxbEUsLH) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [GHOST TOWN](https://open.spotify.com/album/4NTDxbwbo2rMGMm6U9UAEP) | 3:13 |
+| 28 | [Ghost Town](https://open.spotify.com/track/135Lf4Q0CzlMNfOxbEUsLH) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [Ghost Town](https://open.spotify.com/album/4NTDxbwbo2rMGMm6U9UAEP) | 3:13 |
 | 29 | [It's Over](https://open.spotify.com/track/2DEuwLFHWl96sJWf2CavPS) | [Cat Burns](https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn) | [It's Over](https://open.spotify.com/album/0ygKnSCZS4GmTJV2sn0kC1) | 3:01 |
 | 30 | [Dancing With A Stranger \(with Normani\)](https://open.spotify.com/track/6Qs4SXO9dwPj5GKvVOv8Ki) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI), [Normani](https://open.spotify.com/artist/2cWZOOzeOm4WmBJRnD5R7I) | [Dancing With A Stranger \(with Normani\)](https://open.spotify.com/album/1V9oE8bVilClrk5naqyyvL) | 2:51 |
 | 31 | [Skinny Love](https://open.spotify.com/track/4RL77hMWUq35NYnPLXBpih) | [Birdy](https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP) | [Birdy](https://open.spotify.com/album/1WGjSVIw0TVfbp5KrOFiP0) | 3:21 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXxauMBOQPxX.md) - [plain]
 | 49 | [The Best You Had](https://open.spotify.com/track/3i0VfLdOUCks9DmAht65XI) | [Nina Nesbitt](https://open.spotify.com/artist/7AzjETXRUKNRSJHMW9GIqd) | [The Sun Will Come up, The Seasons Will Change](https://open.spotify.com/album/5XsBQrYhmDWyYfXGlfsZJU) | 2:56 |
 | 50 | [Dreams \- 2004 Remaster](https://open.spotify.com/track/5TDZyWDfbQFQJabbPwImVY) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Rumours](https://open.spotify.com/album/1bt6q2SruMsBtcerNVtpZB) | 4:17 |
 
-Snapshot ID: `MCwzNDU2N2YyZWE3YjNmOTQyOWNkOGNhMzJhYzQ1NDAyOWExYjg5ZTVl`
+Snapshot ID: `MCw1M2E3YjkzMTc3NjlkMDM5N2YyN2U4MWJlZGRmNjdjMjNjNGVhODk5`

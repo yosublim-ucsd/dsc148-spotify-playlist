@@ -4,7 +4,7 @@
 
 > Proudly South African Afropop gems\. Cover: <a href="https://open.spotify.com/artist/5BggJAW7Ubyk8FR87MpGvc?si=eCija\_NbSf27lALhE5IZXw">Siya Ntuli</a>
 
-533 songs - 1 day 14 hr 18 min
+535 songs - 1 day 14 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -247,7 +247,8 @@
 | [Love Is For Mahala](https://open.spotify.com/track/6jWoYTUJvady3HWMmz9Eb3) | [Amanda Black](https://open.spotify.com/artist/4tyWwKFEbho8Vh4qczqbIo) | [Love Is For Mahala](https://open.spotify.com/album/4DYJI8KG4BUmaQGexySaCK) | 3:05 | 2023-10-27 |  |
 | [Loving You](https://open.spotify.com/track/3wnvVFi4YQrMQBar9mjr2x) | [Elaine](https://open.spotify.com/artist/5ZkuGe2wkDbeL8JmmhvMOx), [Blxckie](https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL) | [Loving You](https://open.spotify.com/album/5t6XKWbdoGqCAKNrkSXN63) | 4:18 | 2023-03-17 | 2023-04-28 |
 | [Lu Strong \(feat\. Nomfundo Moh\)](https://open.spotify.com/track/1S0jaKCrwizqPz2V9Vrn0k) | [Nontokozo Mkhize](https://open.spotify.com/artist/2xYE0LYxFRGK9CQxLlkE7H), [Nomfundo Moh](https://open.spotify.com/artist/6brKi6i5SusNnoKcSlKAan) | [Lu Strong \(feat\. Nomfundo Moh\)](https://open.spotify.com/album/4xybecbwND04LPIPz2o2rO) | 3:51 | 2023-05-25 | 2023-08-04 |
-| [Lufana Nolwandle](https://open.spotify.com/track/6cgO4fRCk50vakbdTycVOC) | [Nue\_Sam](https://open.spotify.com/artist/2mQ1WAgOTUQDBsJpt7tGTY) | [Nokhanyisa](https://open.spotify.com/album/4n4EF2LRTgAsykDUVxclkH) | 3:09 | 2023-11-30 |  |
+| [Lufana Nolwandle](https://open.spotify.com/track/66jiH5IOcPDgaMipu6yuNX) | [Nue\_Sam](https://open.spotify.com/artist/2mQ1WAgOTUQDBsJpt7tGTY) | [Nokhanyisa](https://open.spotify.com/album/23GvatjZSXfa8jmkwj2uLc) | 3:09 | 2024-03-15 |  |
+| [Lufana Nolwandle](https://open.spotify.com/track/6cgO4fRCk50vakbdTycVOC) | [Nue\_Sam](https://open.spotify.com/artist/2mQ1WAgOTUQDBsJpt7tGTY) | [Nokhanyisa](https://open.spotify.com/album/4n4EF2LRTgAsykDUVxclkH) | 3:09 | 2023-11-30 | 2024-03-21 |
 | [Luthando](https://open.spotify.com/track/4AsLvBX0FwCBvaN5GDGz42) | [Vico da sporo](https://open.spotify.com/artist/2EkWKzVuqZfkSOZv6l8yXd), [Sandile](https://open.spotify.com/artist/5mApcr740y6tGusKPPNkb4) | [Bandlase](https://open.spotify.com/album/0pjabAOKogpe019KUyPiSe) | 4:46 | 2023-08-31 | 2023-10-13 |
 | [Lyf Styl \- Live](https://open.spotify.com/track/6xRcLQ9MHuR6XLK8bX4xzs) | [Aymos](https://open.spotify.com/artist/3xXIOO328Ieh0PWOcxivjL), [Mas Musiq](https://open.spotify.com/artist/3fdFRgy3GmfiWQqeKbmFS8) | [Yimi Lo Live](https://open.spotify.com/album/3kOSJO0cPX3xNIkKq4Ruyj) | 5:05 | 2022-04-08 | 2022-10-14 |
 | [Madlamini](https://open.spotify.com/track/7xL81mAMW6zMBy9cj5Yzoh) | [Volume](https://open.spotify.com/artist/6oYSngKte6LsILQs3XddKi), [Laliboi](https://open.spotify.com/artist/7LgOsk5bA3mGavMffSjPOZ) | [Xam Deluxe](https://open.spotify.com/album/3B0fhhjBs3WFi8WFC0hp84) | 3:42 | 2021-12-02 | 2022-01-14 |
@@ -336,7 +337,8 @@
 | [Njalo](https://open.spotify.com/track/7n1OBXJqXbBjCxRBDHIZmM) | [Makhadzi](https://open.spotify.com/artist/2aIcnnHTA16VbmhNJGLrGs), [Blaq Diamond](https://open.spotify.com/artist/7hdf9DSpgCpqVh03Ql1LKe) | [African Queen 2.0](https://open.spotify.com/album/57d2o9ABnFTKWX3xuYGFe9) | 3:20 | 2022-11-17 | 2023-04-28 |
 | [Njalo](https://open.spotify.com/track/3oyrlumXA15HTQQ3dwBGVe) | [Mduduzi Ncube](https://open.spotify.com/artist/5jvlsVxfcbRVuHJ2Uv8WOh), [Mafikizolo](https://open.spotify.com/artist/04Hrgux8cIaNJKUAX7WwJN) | [Njalo](https://open.spotify.com/album/4z7nzQ247jp025EVzZMXyF) | 4:14 | 2023-08-31 |  |
 | [Njalo Njalo](https://open.spotify.com/track/31OnQUIe0Ue1Wbd3MhFGC6) | [De Mogul SA](https://open.spotify.com/artist/0QkYGHzYrh3PM5EjcvHfqC), [Khanya De Vocalist](https://open.spotify.com/artist/2CtrdOqCvIGCN4W26IUHoU) | [Njalo Njalo](https://open.spotify.com/album/0v9F0YNKx4vfjzaw0krND3) | 3:42 | 2023-07-07 | 2023-08-25 |
-| [Nje](https://open.spotify.com/track/5b7WFIRAFAHjqnbeYCdxTH) | [Nue\_Sam](https://open.spotify.com/artist/2mQ1WAgOTUQDBsJpt7tGTY), [Just Bheki](https://open.spotify.com/artist/4FOfnMPuibRUgSBHBwvoPz) | [Nje](https://open.spotify.com/album/2M13T1EgIMlDtA1EtwD490) | 3:42 | 2023-10-12 |  |
+| [Nje](https://open.spotify.com/track/5b7WFIRAFAHjqnbeYCdxTH) | [Nue\_Sam](https://open.spotify.com/artist/2mQ1WAgOTUQDBsJpt7tGTY), [Just Bheki](https://open.spotify.com/artist/4FOfnMPuibRUgSBHBwvoPz) | [Nje](https://open.spotify.com/album/2M13T1EgIMlDtA1EtwD490) | 3:42 | 2023-10-12 | 2024-03-21 |
+| [Nje \(feat\. Just Bheki\)](https://open.spotify.com/track/06viTbnwNomeFvy7GWu0IQ) | [Nue\_Sam](https://open.spotify.com/artist/2mQ1WAgOTUQDBsJpt7tGTY), [Just Bheki](https://open.spotify.com/artist/4FOfnMPuibRUgSBHBwvoPz) | [Nokhanyisa](https://open.spotify.com/album/23GvatjZSXfa8jmkwj2uLc) | 3:42 | 2024-03-15 |  |
 | [Nkanyezi](https://open.spotify.com/track/0R9fRzSlKzmao4gXbwbII5) | [The Soil](https://open.spotify.com/artist/3UhCf5Cu963oXz9DseciIU), [Bokani Dyer](https://open.spotify.com/artist/1BEfHN0wvVGDXaQCWDqIyy), [Joel Klein](https://open.spotify.com/artist/27ipT5Ret9cjr56Q3ClT5t) | [Reimagined](https://open.spotify.com/album/6jn3OJRk0KHymgyXMhVUv7) | 4:59 | 2024-02-23 |  |
 | [Nobody](https://open.spotify.com/track/2f0qeOpJ552XhyyMcDnSgM) | [Malome Vector](https://open.spotify.com/artist/6AeHcNxdFsYI8WQE1f0YVw) | [Karabo](https://open.spotify.com/album/4ro6ViOnBmGwVdkuwIvOZc) | 3:33 | 2021-03-01 | 2022-08-12 |
 | [Nobody](https://open.spotify.com/track/6UK501alfX7lkqdcgpfbtA) | [Malome Vector](https://open.spotify.com/artist/6AeHcNxdFsYI8WQE1f0YVw) | [Nobody](https://open.spotify.com/album/2cKQHqidrsJc6xo3ukVJrp) | 3:35 | 2021-03-01 | 2022-07-29 |

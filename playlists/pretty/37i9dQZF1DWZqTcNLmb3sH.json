@@ -1,12 +1,12 @@
 {
   "description": "Check out the latest hits from Sandalwood!\nCover : Karataka Damanaka\n",
-  "num_followers": 57298,
+  "num_followers": 57313,
   "original_name": "Latest Kannada",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjMGM3M2NhNWY5OWQwOTczMTliNDc0ZTMzNTU4MGE1NTgyZDJmOWYz",
+  "snapshot_id": "MCxjOGEwYTdmMmI2NmE4YzUxOGIzMmVhNzViMzllNmYzYjQ2MTg5YTZi",
   "tracks": [
     {
       "added_at": "2024-01-30 12:16:19",
@@ -67,6 +67,50 @@
       "duration_ms": 234038,
       "name": "Obbane Shiva Obbane Yuva( From \"Yuva\" )",
       "url": "https://open.spotify.com/track/1DdnaIa2iSUlSl5oXk7sG3"
+    },
+    {
+      "added_at": "2024-03-20 11:25:36",
+      "album": {
+        "name": "Madve Byada (From \" Lineman\")",
+        "url": "https://open.spotify.com/album/2oYFarnfApQYF5uG0Odg8Q"
+      },
+      "artists": [
+        {
+          "name": "Guru Kiran",
+          "url": "https://open.spotify.com/artist/3xSxDireyobIryR5nIaHa0"
+        },
+        {
+          "name": "Kadri Manikanth",
+          "url": "https://open.spotify.com/artist/0CTZkrzz9PYo5m9MvTymA0"
+        },
+        {
+          "name": "V Raghu Shastry",
+          "url": "https://open.spotify.com/artist/4HIXKu2NIlPwjhDVj9l4LA"
+        }
+      ],
+      "duration_ms": 219636,
+      "name": "Madve Byada (From \" Lineman\")",
+      "url": "https://open.spotify.com/track/4rWiqybyUvZNZvDj12HJLP"
+    },
+    {
+      "added_at": "2024-03-20 08:34:23",
+      "album": {
+        "name": "Appuge (From \"Yuva\")",
+        "url": "https://open.spotify.com/album/6q8rBmPf3THYNmjTfV7BY6"
+      },
+      "artists": [
+        {
+          "name": "Vijay Prakash",
+          "url": "https://open.spotify.com/artist/4iA6bUhiZyvRKJf4FNVX39"
+        },
+        {
+          "name": "B. Ajaneesh Loknath",
+          "url": "https://open.spotify.com/artist/3PjvC3vaZ6wh5FK6PZ4Dd5"
+        }
+      ],
+      "duration_ms": 181514,
+      "name": "Appuge (From \"Yuva\")",
+      "url": "https://open.spotify.com/track/0P58lwa0D9Kg5pbXSsGvFA"
     },
     {
       "added_at": "2024-03-07 11:44:21",
@@ -1377,30 +1421,6 @@
       "url": "https://open.spotify.com/track/04FxjbgwogKiMyVzgkOjDt"
     },
     {
-      "added_at": "2024-01-30 06:53:54",
-      "album": {
-        "name": "Urige Ure Kaaneru (From \"Schoool Ramayana\")",
-        "url": "https://open.spotify.com/album/2kRChi9lJgEIhglZ7ObbP3"
-      },
-      "artists": [
-        {
-          "name": "Aarohan Karthik Venkatesh",
-          "url": "https://open.spotify.com/artist/1guoPhvtL06vVIvtKxDVtg"
-        },
-        {
-          "name": "N. B. Loki (Local Loki)",
-          "url": "https://open.spotify.com/artist/3f0BN0DhUxpJFUPUNiSi8t"
-        },
-        {
-          "name": "Mehboob Saab",
-          "url": "https://open.spotify.com/artist/6HetSWGemJe8nirwDZa8nl"
-        }
-      ],
-      "duration_ms": 264477,
-      "name": "Urige Ure Kaaneru (From \"Schoool Ramayana\")",
-      "url": "https://open.spotify.com/track/31xtN1TYHOFoNsjco8nNWF"
-    },
-    {
       "added_at": "2024-01-22 08:39:08",
       "album": {
         "name": "Haadada Haadu (From \"Mehbooba\")",
@@ -1479,30 +1499,6 @@
       "duration_ms": 203714,
       "name": "Romanchana (From \"Juni\")",
       "url": "https://open.spotify.com/track/7rtkNIEoWbE6l1pS4G7gXX"
-    },
-    {
-      "added_at": "2024-01-29 06:18:40",
-      "album": {
-        "name": "Ayayyo (From \"KTM\")",
-        "url": "https://open.spotify.com/album/2b7NeR1MrXgNsXzzE85oUC"
-      },
-      "artists": [
-        {
-          "name": "Chetan Rao",
-          "url": "https://open.spotify.com/artist/1BqAWpvIAKLMISzajmSS6P"
-        },
-        {
-          "name": "Anthony Daasan",
-          "url": "https://open.spotify.com/artist/1lDx24tVvy8JVKOVjnlJfv"
-        },
-        {
-          "name": "Abhinandan Dhesh Priya",
-          "url": "https://open.spotify.com/artist/2wQm6uHvdSktkVEadt9wxX"
-        }
-      ],
-      "duration_ms": 184144,
-      "name": "Ayayyo - From \"KTM\"",
-      "url": "https://open.spotify.com/track/0EWt9twxI5Jp5W1mpJ0tBt"
     },
     {
       "added_at": "2024-01-25 15:08:32",
@@ -1667,26 +1663,6 @@
       "duration_ms": 223823,
       "name": "Kreyologix Engineers (From \"Switch { case n:\")",
       "url": "https://open.spotify.com/track/63Tr4IY7GMKUieflLjsWCM"
-    },
-    {
-      "added_at": "2024-01-15 07:13:20",
-      "album": {
-        "name": "Dava Dava (From \"Anshu\" )",
-        "url": "https://open.spotify.com/album/0v4yVI1RH1jy3rLnftVj4B"
-      },
-      "artists": [
-        {
-          "name": "Aishwarya Rangarajan",
-          "url": "https://open.spotify.com/artist/3qVTevOjwQnsH1AcCsp0jO"
-        },
-        {
-          "name": "K C Balasarangan",
-          "url": "https://open.spotify.com/artist/7b5pJ3sqgxxD2BYEQKl9eQ"
-        }
-      ],
-      "duration_ms": 152484,
-      "name": "Dava Dava (From \"Anshu\" )",
-      "url": "https://open.spotify.com/track/56hNssGHtrjE5DwaLRvaDK"
     },
     {
       "added_at": "2024-01-03 06:16:48",

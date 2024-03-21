@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 
 > All\-new releases by Latin artists! Cover: Becky G
 
-[Spotify](https://open.spotify.com/user/spotify) - 584,957 likes - 54 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 585,021 likes - 54 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,4 +63,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 | 53 | [7 Meses](https://open.spotify.com/track/00q4uzpZiCOExi2JdDOcvc) | [Lizzy Parra](https://open.spotify.com/artist/1Cm5r6LqrFQDuA0F4KUIQz) | [7 Meses](https://open.spotify.com/album/3q81z0sKzdh4MeQjUVn0VR) | 2:55 |
 | 54 | [la historia de coco y cereza](https://open.spotify.com/track/3DRKtV4OufuX99nE1UIK2f) | [Mario Puglia](https://open.spotify.com/artist/3TTSyoNDmtiQ8jSpELHinT) | [la historia de coco y cereza](https://open.spotify.com/album/6e9ts0FCDgKq1CGQzFSDlO) | 2:54 |
 
-Snapshot ID: `MCwzOGFkNjQ5OTI3MDZmZTAzMzI1MWI1YjIxNDRjMGZkZWYwZDVkMjg0`
+Snapshot ID: `MCxlNTYyNjYxMjk1MWE3NmU4ZjY5YmI1MWYwYjBlNTM4MmFmNDc5NWQy`

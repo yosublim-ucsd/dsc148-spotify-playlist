@@ -1,12 +1,12 @@
 {
   "description": "Shake up your wake up with a selection of feel good songs that will get you bouncing out the door. ",
-  "num_followers": 1245659,
+  "num_followers": 1245740,
   "original_name": "Morning Motivation",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5NTRmMDU0NzQ2NzIyMzU0ZTYxNzRmNjM1NDFmMjYxMmVhOTY3NTll",
+  "snapshot_id": "MCw5MzZkZTk5NzVhNzRmNzkyN2I0YzE2MGU1MDVhNDlmYzljNjM4MzAz",
   "tracks": [
     {
       "added_at": "2023-12-15 01:04:58",
@@ -107,22 +107,6 @@
     {
       "added_at": "2023-12-15 01:04:58",
       "album": {
-        "name": "Dance The Night (From Barbie The Album)",
-        "url": "https://open.spotify.com/album/5cH7FqB7JD5q1tJXJ7FHYu"
-      },
-      "artists": [
-        {
-          "name": "Dua Lipa",
-          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
-        }
-      ],
-      "duration_ms": 176579,
-      "name": "Dance The Night - From Barbie The Album",
-      "url": "https://open.spotify.com/track/1vYXt7VSjH9JIM5oRRo7vA"
-    },
-    {
-      "added_at": "2023-12-15 01:04:58",
-      "album": {
         "name": "I Ain\u2019t Worried (Music From The Motion Picture \"Top Gun: Maverick\")",
         "url": "https://open.spotify.com/album/04PEOM6kIEeq9lRp1asNP2"
       },
@@ -135,6 +119,22 @@
       "duration_ms": 148485,
       "name": "I Ain't Worried",
       "url": "https://open.spotify.com/track/4h9wh7iOZ0GGn8QVp4RAOB"
+    },
+    {
+      "added_at": "2023-12-15 01:04:58",
+      "album": {
+        "name": "Dance The Night (From Barbie The Album)",
+        "url": "https://open.spotify.com/album/5cH7FqB7JD5q1tJXJ7FHYu"
+      },
+      "artists": [
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        }
+      ],
+      "duration_ms": 176579,
+      "name": "Dance The Night - From Barbie The Album",
+      "url": "https://open.spotify.com/track/1vYXt7VSjH9JIM5oRRo7vA"
     },
     {
       "added_at": "2023-12-15 01:04:58",
@@ -187,22 +187,6 @@
     {
       "added_at": "2023-12-15 01:04:58",
       "album": {
-        "name": "Hot Fuss",
-        "url": "https://open.spotify.com/album/4piJq7R3gjUOxnYs6lDCTg"
-      },
-      "artists": [
-        {
-          "name": "The Killers",
-          "url": "https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu"
-        }
-      ],
-      "duration_ms": 222973,
-      "name": "Mr. Brightside",
-      "url": "https://open.spotify.com/track/003vvx7Niy0yvhvHt4a68B"
-    },
-    {
-      "added_at": "2023-12-15 01:04:58",
-      "album": {
         "name": "Memories...Do Not Open",
         "url": "https://open.spotify.com/album/4JPguzRps3kuWDD5GS6oXr"
       },
@@ -223,22 +207,18 @@
     {
       "added_at": "2023-12-15 01:04:58",
       "album": {
-        "name": "Black Panther The Album Music From And Inspired By",
-        "url": "https://open.spotify.com/album/3pLdWdkj83EYfDN6H2N8MR"
+        "name": "Hot Fuss",
+        "url": "https://open.spotify.com/album/4piJq7R3gjUOxnYs6lDCTg"
       },
       "artists": [
         {
-          "name": "Kendrick Lamar",
-          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
-        },
-        {
-          "name": "SZA",
-          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+          "name": "The Killers",
+          "url": "https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu"
         }
       ],
-      "duration_ms": 232186,
-      "name": "All The Stars (with SZA)",
-      "url": "https://open.spotify.com/track/3GCdLUSnKSMJhs4Tj6CV3s"
+      "duration_ms": 222973,
+      "name": "Mr. Brightside",
+      "url": "https://open.spotify.com/track/003vvx7Niy0yvhvHt4a68B"
     },
     {
       "added_at": "2023-12-15 01:04:58",
@@ -255,6 +235,26 @@
       "duration_ms": 257265,
       "name": "Counting Stars",
       "url": "https://open.spotify.com/track/2tpWsVSb9UEmDRxAl1zhX1"
+    },
+    {
+      "added_at": "2023-12-15 01:04:58",
+      "album": {
+        "name": "Black Panther The Album Music From And Inspired By",
+        "url": "https://open.spotify.com/album/3pLdWdkj83EYfDN6H2N8MR"
+      },
+      "artists": [
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        },
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        }
+      ],
+      "duration_ms": 232186,
+      "name": "All The Stars (with SZA)",
+      "url": "https://open.spotify.com/track/3GCdLUSnKSMJhs4Tj6CV3s"
     },
     {
       "added_at": "2023-12-15 01:04:58",
@@ -411,6 +411,22 @@
     {
       "added_at": "2023-12-15 01:04:58",
       "album": {
+        "name": "JORDI (Deluxe)",
+        "url": "https://open.spotify.com/album/1pCA38N6MkLlthXtAOvZTU"
+      },
+      "artists": [
+        {
+          "name": "Maroon 5",
+          "url": "https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP"
+        }
+      ],
+      "duration_ms": 189486,
+      "name": "Memories",
+      "url": "https://open.spotify.com/track/4cktbXiXOapiLBMprHFErI"
+    },
+    {
+      "added_at": "2023-12-15 01:04:58",
+      "album": {
         "name": "Loose",
         "url": "https://open.spotify.com/album/2yboV2QBcVGEhcRlYuPpDT"
       },
@@ -427,22 +443,6 @@
       "duration_ms": 242293,
       "name": "Promiscuous",
       "url": "https://open.spotify.com/track/2gam98EZKrF9XuOkU13ApN"
-    },
-    {
-      "added_at": "2023-12-15 01:04:58",
-      "album": {
-        "name": "JORDI (Deluxe)",
-        "url": "https://open.spotify.com/album/1pCA38N6MkLlthXtAOvZTU"
-      },
-      "artists": [
-        {
-          "name": "Maroon 5",
-          "url": "https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP"
-        }
-      ],
-      "duration_ms": 189486,
-      "name": "Memories",
-      "url": "https://open.spotify.com/track/4cktbXiXOapiLBMprHFErI"
     },
     {
       "added_at": "2023-12-15 01:04:58",
@@ -579,6 +579,22 @@
     {
       "added_at": "2023-12-15 01:04:58",
       "album": {
+        "name": "Takin' It Back",
+        "url": "https://open.spotify.com/album/4LVa9bljQRvLYpWr8qyaXs"
+      },
+      "artists": [
+        {
+          "name": "Meghan Trainor",
+          "url": "https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz"
+        }
+      ],
+      "duration_ms": 134256,
+      "name": "Made You Look",
+      "url": "https://open.spotify.com/track/0QHEIqNKsMoOY5urbzN48u"
+    },
+    {
+      "added_at": "2023-12-15 01:04:58",
+      "album": {
         "name": "Cold Heart (PNAU Remix)",
         "url": "https://open.spotify.com/album/5D8Rdb09BkmHscEGSWAlA6"
       },
@@ -599,22 +615,6 @@
       "duration_ms": 202735,
       "name": "Cold Heart - PNAU Remix",
       "url": "https://open.spotify.com/track/6zSpb8dQRaw0M1dK8PBwQz"
-    },
-    {
-      "added_at": "2023-12-15 01:04:58",
-      "album": {
-        "name": "Takin' It Back",
-        "url": "https://open.spotify.com/album/4LVa9bljQRvLYpWr8qyaXs"
-      },
-      "artists": [
-        {
-          "name": "Meghan Trainor",
-          "url": "https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz"
-        }
-      ],
-      "duration_ms": 134256,
-      "name": "Made You Look",
-      "url": "https://open.spotify.com/track/0QHEIqNKsMoOY5urbzN48u"
     },
     {
       "added_at": "2023-12-15 01:04:58",
@@ -687,22 +687,6 @@
     {
       "added_at": "2023-12-15 01:04:58",
       "album": {
-        "name": "DNCE",
-        "url": "https://open.spotify.com/album/3Wv4X8OA65pGpFzBkuUgAh"
-      },
-      "artists": [
-        {
-          "name": "DNCE",
-          "url": "https://open.spotify.com/artist/6T5tfhQCknKG4UnH90qGnz"
-        }
-      ],
-      "duration_ms": 219146,
-      "name": "Cake By The Ocean",
-      "url": "https://open.spotify.com/track/76hfruVvmfQbw0eYn1nmeC"
-    },
-    {
-      "added_at": "2023-12-15 01:04:58",
-      "album": {
         "name": "My Everything (Deluxe)",
         "url": "https://open.spotify.com/album/6EVYTRG1drKdO8OnIQBeEj"
       },
@@ -735,22 +719,18 @@
     {
       "added_at": "2023-12-15 01:04:58",
       "album": {
-        "name": "STAY (with Justin Bieber)",
-        "url": "https://open.spotify.com/album/4QLAtpLNUsHEYrcHXmMIZZ"
+        "name": "DNCE",
+        "url": "https://open.spotify.com/album/3Wv4X8OA65pGpFzBkuUgAh"
       },
       "artists": [
         {
-          "name": "The Kid LAROI",
-          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
-        },
-        {
-          "name": "Justin Bieber",
-          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+          "name": "DNCE",
+          "url": "https://open.spotify.com/artist/6T5tfhQCknKG4UnH90qGnz"
         }
       ],
-      "duration_ms": 141805,
-      "name": "STAY (with Justin Bieber)",
-      "url": "https://open.spotify.com/track/5HCyWlXZPP0y6Gqq8TgA20"
+      "duration_ms": 219146,
+      "name": "Cake By The Ocean",
+      "url": "https://open.spotify.com/track/76hfruVvmfQbw0eYn1nmeC"
     },
     {
       "added_at": "2023-12-15 01:04:58",
@@ -771,18 +751,22 @@
     {
       "added_at": "2023-12-15 01:04:58",
       "album": {
-        "name": "Graduation",
-        "url": "https://open.spotify.com/album/4SZko61aMnmgvNhfhgTuD3"
+        "name": "STAY (with Justin Bieber)",
+        "url": "https://open.spotify.com/album/4QLAtpLNUsHEYrcHXmMIZZ"
       },
       "artists": [
         {
-          "name": "Kanye West",
-          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+          "name": "The Kid LAROI",
+          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
+        },
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
         }
       ],
-      "duration_ms": 311866,
-      "name": "Stronger",
-      "url": "https://open.spotify.com/track/0j2T0R9dR9qdJYsB7ciXhf"
+      "duration_ms": 141805,
+      "name": "STAY (with Justin Bieber)",
+      "url": "https://open.spotify.com/track/5HCyWlXZPP0y6Gqq8TgA20"
     },
     {
       "added_at": "2023-12-15 01:04:58",
@@ -803,6 +787,22 @@
       "duration_ms": 154983,
       "name": "Leave Before You Love Me (with Jonas Brothers)",
       "url": "https://open.spotify.com/track/4qu63nuBpdn0qHUHuObEj1"
+    },
+    {
+      "added_at": "2023-12-15 01:04:58",
+      "album": {
+        "name": "Graduation",
+        "url": "https://open.spotify.com/album/4SZko61aMnmgvNhfhgTuD3"
+      },
+      "artists": [
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        }
+      ],
+      "duration_ms": 311866,
+      "name": "Stronger",
+      "url": "https://open.spotify.com/track/0j2T0R9dR9qdJYsB7ciXhf"
     },
     {
       "added_at": "2023-12-15 01:04:58",
@@ -963,22 +963,6 @@
     {
       "added_at": "2023-12-15 01:04:58",
       "album": {
-        "name": "G I R L",
-        "url": "https://open.spotify.com/album/0lrmy4pJINsFzycJvttX2W"
-      },
-      "artists": [
-        {
-          "name": "Pharrell Williams",
-          "url": "https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8"
-        }
-      ],
-      "duration_ms": 232720,
-      "name": "Happy - From \"Despicable Me 2\"",
-      "url": "https://open.spotify.com/track/60nZcImufyMA1MKQY3dcCH"
-    },
-    {
-      "added_at": "2023-12-15 01:04:58",
-      "album": {
         "name": "September (sped up + slowed)",
         "url": "https://open.spotify.com/album/3p90GIjEg4gXpnLmwGGvzI"
       },
@@ -991,6 +975,22 @@
       "duration_ms": 216022,
       "name": "September",
       "url": "https://open.spotify.com/track/3kXoKlD84c6OmIcOLfrfEs"
+    },
+    {
+      "added_at": "2023-12-15 01:04:58",
+      "album": {
+        "name": "G I R L",
+        "url": "https://open.spotify.com/album/0lrmy4pJINsFzycJvttX2W"
+      },
+      "artists": [
+        {
+          "name": "Pharrell Williams",
+          "url": "https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8"
+        }
+      ],
+      "duration_ms": 232720,
+      "name": "Happy - From \"Despicable Me 2\"",
+      "url": "https://open.spotify.com/track/60nZcImufyMA1MKQY3dcCH"
     },
     {
       "added_at": "2023-12-15 01:04:58",
@@ -1063,22 +1063,6 @@
     {
       "added_at": "2023-12-15 01:04:58",
       "album": {
-        "name": "Speak Your Mind (Deluxe)",
-        "url": "https://open.spotify.com/album/7lPoGKpCGgdKFAxpudhAH5"
-      },
-      "artists": [
-        {
-          "name": "Anne-Marie",
-          "url": "https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX"
-        }
-      ],
-      "duration_ms": 186986,
-      "name": "2002",
-      "url": "https://open.spotify.com/track/2BgEsaKNfHUdlh97KmvFyo"
-    },
-    {
-      "added_at": "2023-12-15 01:04:58",
-      "album": {
         "name": "Astro Lounge",
         "url": "https://open.spotify.com/album/2kyTLcEZe6nc1s6ve0zW9P"
       },
@@ -1091,6 +1075,22 @@
       "duration_ms": 200373,
       "name": "All Star",
       "url": "https://open.spotify.com/track/3cfOd4CMv2snFaKAnMdnvK"
+    },
+    {
+      "added_at": "2023-12-15 01:04:58",
+      "album": {
+        "name": "Speak Your Mind (Deluxe)",
+        "url": "https://open.spotify.com/album/7lPoGKpCGgdKFAxpudhAH5"
+      },
+      "artists": [
+        {
+          "name": "Anne-Marie",
+          "url": "https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX"
+        }
+      ],
+      "duration_ms": 186986,
+      "name": "2002",
+      "url": "https://open.spotify.com/track/2BgEsaKNfHUdlh97KmvFyo"
     },
     {
       "added_at": "2023-12-15 01:04:58",
@@ -1251,6 +1251,22 @@
     {
       "added_at": "2023-12-15 01:04:58",
       "album": {
+        "name": "Bangerz (Deluxe Version)",
+        "url": "https://open.spotify.com/album/3RDqXDc1bAETps54MSSOW0"
+      },
+      "artists": [
+        {
+          "name": "Miley Cyrus",
+          "url": "https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6"
+        }
+      ],
+      "duration_ms": 231240,
+      "name": "We Can't Stop",
+      "url": "https://open.spotify.com/track/2y4lAQpi5VTNLu2ldeTdUH"
+    },
+    {
+      "added_at": "2023-12-15 01:04:58",
+      "album": {
         "name": "Dangerously In Love",
         "url": "https://open.spotify.com/album/6oxVabMIqCMJRYN1GqR3Vf"
       },
@@ -1271,22 +1287,6 @@
     {
       "added_at": "2023-12-15 01:04:58",
       "album": {
-        "name": "Heaven & Hell",
-        "url": "https://open.spotify.com/album/26c7MmQ4w8EAvVLb4jilaM"
-      },
-      "artists": [
-        {
-          "name": "Ava Max",
-          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
-        }
-      ],
-      "duration_ms": 162398,
-      "name": "Kings & Queens",
-      "url": "https://open.spotify.com/track/7a53HqqArd4b9NF4XAmlbI"
-    },
-    {
-      "added_at": "2023-12-15 01:04:58",
-      "album": {
         "name": "Make It Big",
         "url": "https://open.spotify.com/album/02f3y3NTsddjdUMoNiBppI"
       },
@@ -1303,18 +1303,18 @@
     {
       "added_at": "2023-12-15 01:04:58",
       "album": {
-        "name": "Bangerz (Deluxe Version)",
-        "url": "https://open.spotify.com/album/3RDqXDc1bAETps54MSSOW0"
+        "name": "Heaven & Hell",
+        "url": "https://open.spotify.com/album/26c7MmQ4w8EAvVLb4jilaM"
       },
       "artists": [
         {
-          "name": "Miley Cyrus",
-          "url": "https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6"
+          "name": "Ava Max",
+          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
         }
       ],
-      "duration_ms": 231240,
-      "name": "We Can't Stop",
-      "url": "https://open.spotify.com/track/2y4lAQpi5VTNLu2ldeTdUH"
+      "duration_ms": 162398,
+      "name": "Kings & Queens",
+      "url": "https://open.spotify.com/track/7a53HqqArd4b9NF4XAmlbI"
     },
     {
       "added_at": "2023-12-15 01:04:58",

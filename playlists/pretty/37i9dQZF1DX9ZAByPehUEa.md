@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ZAByPehUEa.md) - [plain]
 
 > A happy place.
 
-[Spotify](https://open.spotify.com/user/spotify) - 98,367 likes - 75 songs - 4 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 98,435 likes - 75 songs - 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,8 +69,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ZAByPehUEa.md) - [plain]
 | 59 | [All 4 Love \(feat\. Tasty Lopez\)](https://open.spotify.com/track/2DJjMZfgND6WARNaxVCkI3) | [Mark Knight](https://open.spotify.com/artist/3h11MHQeCrcsUgRRijI1zL), [Rene Amesz](https://open.spotify.com/artist/0s122QsNac4WSqoVsFD60m), [Tasty Lopez](https://open.spotify.com/artist/6bGjAU1yRMvrVDQsN9Awc0) | [Untold Business](https://open.spotify.com/album/186HTycU1jAk9PociChcpO) | 3:25 |
 | 60 | [Tutto va bene quando facciamo l'amore](https://open.spotify.com/track/2XtLmRzZSkNOXGRPgae8MA) | [Alex Rossi](https://open.spotify.com/artist/080yEA10cGjDwnuXHFy1SU), [Jo Wedin](https://open.spotify.com/artist/1uxYQkewWEjKxKtmTukyKB) | [Tutto va bene quando facciamo l'amore \(Remixes\)](https://open.spotify.com/album/4jnSxvi6GEjXFPGXUly9vj) | 3:25 |
 | 61 | [Heaven \(feat\. Andreya Triana\)](https://open.spotify.com/track/1L6ZbPR2kIzguE0EjVEsLw) | [The Vision](https://open.spotify.com/artist/33nwA09TKiO0nWmUrI3E1I), [Ben Westbeech](https://open.spotify.com/artist/0qP3Irw4a8UFvXv6KQf3XM), [Kon](https://open.spotify.com/artist/4JbrK7cFQmSZ7tKBUbV3zi), [Andreya Triana](https://open.spotify.com/artist/6SKEuFZYhaTytrhtJjgnO2) | [The Vision](https://open.spotify.com/album/7G3RYP4Wc2vtFHihpR8HXN) | 4:58 |
-| 62 | [Ordinary Love \- Folamour Remix](https://open.spotify.com/track/7i0d5gmak7nHrBAZJG3eSW) | [Roosevelt](https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7), [Folamour](https://open.spotify.com/artist/6pJY5At9SiMpAOBrw9YosS) | [Ordinary Love \(Folamour Remix\)](https://open.spotify.com/album/1bZe6bclEpMPDiCWOgpxKk) | 5:25 |
-| 63 | [Way to Go \- Club Soda Mix](https://open.spotify.com/track/2kXcKyonAMXWjW0iWTnm2P) | [Soda State](https://open.spotify.com/artist/7kGtb0FtMVu0YfEFwLjTBH) | [Way to Go \(Club Soda Mix\)](https://open.spotify.com/album/7F8R0maiBdTe0Ey5qkqZet) | 3:44 |
+| 62 | [Way to Go \- Club Soda Mix](https://open.spotify.com/track/2kXcKyonAMXWjW0iWTnm2P) | [Soda State](https://open.spotify.com/artist/7kGtb0FtMVu0YfEFwLjTBH) | [Way to Go \(Club Soda Mix\)](https://open.spotify.com/album/7F8R0maiBdTe0Ey5qkqZet) | 3:44 |
+| 63 | [Ordinary Love \- Folamour Remix](https://open.spotify.com/track/7i0d5gmak7nHrBAZJG3eSW) | [Roosevelt](https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7), [Folamour](https://open.spotify.com/artist/6pJY5At9SiMpAOBrw9YosS) | [Ordinary Love \(Folamour Remix\)](https://open.spotify.com/album/1bZe6bclEpMPDiCWOgpxKk) | 5:25 |
 | 64 | [Seventies](https://open.spotify.com/track/4k0vs6zgt0NYq6tmDum4nP) | [Theo Kottis](https://open.spotify.com/artist/3qEwwb8O7MSkGRohGYEzkO) | [Seventies](https://open.spotify.com/album/5X6J5NTJIWPCJzcRwIKXmb) | 3:16 |
 | 65 | [Must Be Love](https://open.spotify.com/track/5bIcHT2jjWqm9UVpIJwIId) | [Tseba](https://open.spotify.com/artist/5GDVlpxmmh7VMNQMVpxRjf), [Electric Fields](https://open.spotify.com/artist/06SobozDGSP0TMCYgMW0M5) | [Must Be Love](https://open.spotify.com/album/3KZrksMVrTZVqKu2qIJ0G4) | 4:30 |
 | 66 | [Losing Touch](https://open.spotify.com/track/6EshmnAdZGBCA2LYCCX2Uy) | [Franc Moody](https://open.spotify.com/artist/10GT4yz8c6xjjnPGtGPI1l) | [House of FM](https://open.spotify.com/album/4WilCpAY0oHk9Gxmki8wOI) | 3:55 |
@@ -81,7 +81,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ZAByPehUEa.md) - [plain]
 | 71 | [All I Need \(DJ\-Kicks\) \- Edit](https://open.spotify.com/track/1K4Pm198Uqbb5L6KTpq9t2) | [Jayda G](https://open.spotify.com/artist/3NKVm2Jedcf6ibJr6pMUVx) | [All I Need \(DJ\-Kicks\)](https://open.spotify.com/album/4eMhrXXUCKHXIaG2xZGjjO) | 3:39 |
 | 72 | [I Miss Having Someone To Talk To](https://open.spotify.com/track/0y5D6gtFl3WNx06rOXLWJ6) | [Folamour](https://open.spotify.com/artist/6pJY5At9SiMpAOBrw9YosS), [Liv East](https://open.spotify.com/artist/12Yeojvul63OHxXXI6Z5x7) | [I Miss Having Someone To Talk To](https://open.spotify.com/album/17PBUuvBGmmwD0L6CtKtPR) | 3:43 |
 | 73 | [Love You Better](https://open.spotify.com/track/1TvazP1ZwXFtJnkO3FcGsD) | [Alex Preston](https://open.spotify.com/artist/0f8HuVIxsHG6bnEZsz0RuD) | [Love You Better](https://open.spotify.com/album/38ra4cHiMOZQRLZQrrTFp1) | 3:14 |
-| 74 | [Je Vulesse](https://open.spotify.com/track/7FPtdpiBHIFyiUoFTEDfRd) | [Nu Genea](https://open.spotify.com/artist/77J3V0V7sEOf5ifCDBSNaJ) | [Nuova Napoli](https://open.spotify.com/album/1NuMP2jrBeyxR3MqwengWD) | 4:48 |
-| 75 | [Sky's the Limit \- Edit](https://open.spotify.com/track/1CXE6v4j5TkObA01MtchbP) | [Full Intention](https://open.spotify.com/artist/1tayOcNuoYWnrXeuh1HhXB) | [Sky's the Limit \(Edit\)](https://open.spotify.com/album/5pQwvmqU1IU8VdvqBGuSl1) | 2:43 |
+| 74 | [Sky's the Limit \- Edit](https://open.spotify.com/track/1CXE6v4j5TkObA01MtchbP) | [Full Intention](https://open.spotify.com/artist/1tayOcNuoYWnrXeuh1HhXB) | [Sky's the Limit \(Edit\)](https://open.spotify.com/album/5pQwvmqU1IU8VdvqBGuSl1) | 2:43 |
+| 75 | [Je Vulesse](https://open.spotify.com/track/7FPtdpiBHIFyiUoFTEDfRd) | [Nu Genea](https://open.spotify.com/artist/77J3V0V7sEOf5ifCDBSNaJ) | [Nuova Napoli](https://open.spotify.com/album/1NuMP2jrBeyxR3MqwengWD) | 4:48 |
 
-Snapshot ID: `MCw1YzgwNDk0NzlkNzVmNzZmMmYzMGNmOWExN2FhOWNlNTc4MTVkZjU0`
+Snapshot ID: `MCw0MzA5MGVmZjM3YWUyYzgwNTJkYTAwMTNkYmEyZTM5NmUzNTRiMmVl`

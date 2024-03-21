@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7fvgalTu2lg.md) - [plain]
 
 > Don't worry, be happy :\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 125,647 likes - 80 songs - 4 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 125,770 likes - 80 songs - 4 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7fvgalTu2lg.md) - [plain]
 | 79 | [You Can Get It If You Really Want](https://open.spotify.com/track/1Vwvlg5av6Bfp9yjmu05yJ) | [Desmond Dekker](https://open.spotify.com/artist/1FcB6xMihhP9Hb6AdGVbWe) | [You Can Get It If You Really Want](https://open.spotify.com/album/2Vp41y8ITDPQv4lEDlc8Gw) | 2:38 |
 | 80 | [Move on Up \- Single Edit](https://open.spotify.com/track/1DxjLSO8tQHRzfgrZB8Ggi) | [Curtis Mayfield](https://open.spotify.com/artist/2AV6XDIs32ofIJhkkDevjm) | [Playlist: The Best of Curtis Mayfield](https://open.spotify.com/album/0wZH0vyxgzyGmlc8JDfRvH) | 2:45 |
 
-Snapshot ID: `MCxlODZmYjk2Y2M5NTcwODVhYzYyNDFkYjZiZGE3Y2I3MDM1NjJkMmQ0`
+Snapshot ID: `MCwxNzY2NzMxNWRjN2I1MWFmNDZkZWQwNjVkMWZhNmVjYjMwMjE5ZWRl`

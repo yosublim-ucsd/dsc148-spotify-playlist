@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX06VUQ1GoKge.md) - [plain]
 
 > Don’t Sweat It!
 
-[Spotify](https://open.spotify.com/user/spotify) - 558,851 likes - 100 songs - 6 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 558,888 likes - 100 songs - 6 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,9 +72,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX06VUQ1GoKge.md) - [plain]
 | 62 | [Overkill](https://open.spotify.com/track/4XvvR8F6qOcnzgChO1uTIO) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [Overkill \(Expanded Edition\)](https://open.spotify.com/album/6rfGeD9P5kyZTSwif5tOJb) | 5:13 |
 | 63 | [Teardrops](https://open.spotify.com/track/3aniWcwiiYKHpm3F5TdeKD) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [Teardrops](https://open.spotify.com/album/4U4nKoTy4lsQlUoaGqg8U4) | 3:35 |
 | 64 | [Angel Of Death](https://open.spotify.com/track/61dTqhd46yMkSWmC5LAh5F) | [Slayer](https://open.spotify.com/artist/1IQ2e1buppatiN1bxUVkrk) | [Reign In Blood](https://open.spotify.com/album/2DumvqHl78bNXuvU9kQfPN) | 4:51 |
-| 65 | [Sun Doesn't Rise](https://open.spotify.com/track/24CeaRaJHiMKFAVZTCu8Y0) | [Mushroomhead](https://open.spotify.com/artist/18absyD7lQaXUDBXnyzU8M) | [XIII](https://open.spotify.com/album/3N1Ehmz49Lavsi23cKFWDv) | 3:13 |
+| 65 | [You Only Live Once](https://open.spotify.com/track/4Ku3OOZWR4tpKNCVFXILY8) | [Suicide Silence](https://open.spotify.com/artist/6HZr7Fs2VfV1PYHIwo8Ylc) | [The Black Crown](https://open.spotify.com/album/3oJKuFPVZTSeNc8G4UYV4L) | 3:12 |
 | 66 | [Glitch](https://open.spotify.com/track/1jKH10ufuA4EzUCdobVxu0) | [Parkway Drive](https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo) | [Darker Still](https://open.spotify.com/album/36McCMdCRYn5j6iSMiqdG4) | 4:21 |
-| 67 | [You Only Live Once](https://open.spotify.com/track/4Ku3OOZWR4tpKNCVFXILY8) | [Suicide Silence](https://open.spotify.com/artist/6HZr7Fs2VfV1PYHIwo8Ylc) | [The Black Crown](https://open.spotify.com/album/3oJKuFPVZTSeNc8G4UYV4L) | 3:12 |
+| 67 | [Sun Doesn't Rise](https://open.spotify.com/track/24CeaRaJHiMKFAVZTCu8Y0) | [Mushroomhead](https://open.spotify.com/artist/18absyD7lQaXUDBXnyzU8M) | [XIII](https://open.spotify.com/album/3N1Ehmz49Lavsi23cKFWDv) | 3:13 |
 | 68 | [Choke](https://open.spotify.com/track/2KGCOtaTbNIbwrxS0a2UMv) | [Bury Tomorrow](https://open.spotify.com/artist/6BD4lgmnh4vy6kkCaZRDWt) | [Cannibal](https://open.spotify.com/album/4K15hOxya1ZF9lkWg9Dmja) | 3:47 |
 | 69 | [Tornado Of Souls](https://open.spotify.com/track/4GMQOjbWshf4Mzphkjg0DJ) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [Rust In Peace](https://open.spotify.com/album/4e6ML9RBhDyyKTaTwbiRZv) | 5:22 |
 | 70 | [Genocidal Humanoidz](https://open.spotify.com/track/3Sg3bOiD0kE4D5DcXk48Ds) | [System Of A Down](https://open.spotify.com/artist/5eAWCfyUhZtHHtBdNk56l1) | [Protect The Land / Genocidal Humanoidz](https://open.spotify.com/album/00OQIrRjQgZmacSnjK8L7M) | 2:35 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX06VUQ1GoKge.md) - [plain]
 | 99 | [As Above, So Below](https://open.spotify.com/track/4pj2L6WbBAlevdxx6jgm32) | [In This Moment](https://open.spotify.com/artist/6tbLPxj1uQ6vsRQZI2YFCT) | [Mother](https://open.spotify.com/album/28IlwCwIt69Xh627BwUC8F) | 4:09 |
 | 100 | [Moth Into Flame](https://open.spotify.com/track/5sEcwMeC3QDnSOWlyQyQ3E) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Hardwired…To Self\-Destruct](https://open.spotify.com/album/4kizef5du9TgAGfNhWbKmt) | 5:50 |
 
-Snapshot ID: `MCw3Y2VjMzJhNjQ5N2NjNDg4NzFiNDFhNWI0MzU2NTgzNTM2OTg5ZmI5`
+Snapshot ID: `MCw5OGMzYjg5YmI5ZjE0ZjI0MWU5NjQ5ZWU0YjI1NGEyYjk0N2RjZjU0`

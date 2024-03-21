@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd6QWbEewZmM.md) - [plain]
 
 > \#SadCuhHour gems 🥀🥹
 
-[Spotify](https://open.spotify.com/user/spotify) - 270,174 likes - 100 songs - 5 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 270,260 likes - 100 songs - 5 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,11 +25,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd6QWbEewZmM.md) - [plain]
 | 15 | [Amor Fugaz](https://open.spotify.com/track/4O2bxKTnK9En7OPw8kGDDF) | [Los Del Limit](https://open.spotify.com/artist/4pQxRQ2bUyVpk89wzztCLw) | [The Life in Your Eyes](https://open.spotify.com/album/7hnH4pDgMDP4veSuZ7Uxlz) | 2:55 |
 | 16 | [Y Cambió Mi Suerte](https://open.spotify.com/track/6O66RxXRZOfQSpgLEo65GO) | [Virlan Garcia](https://open.spotify.com/artist/0vjeBgTzYTwmYoVySJzXGD) | [Y Cambió Mi Suerte](https://open.spotify.com/album/3CQHB0ViD8q0O385StFTq2) | 3:05 |
 | 17 | [Ya Acabo](https://open.spotify.com/track/4H3t8C59tXjKf1R2iKtc5M) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa) | [DEV, Vol\. 2](https://open.spotify.com/album/07TMPBekE9j6Q1ae126ysU) | 3:09 |
-| 18 | [Te Metiste](https://open.spotify.com/track/4KrXsgZHi1yLZLB1Wlgcbt) | [Ariel Camacho y Los Plebes Del Rancho](https://open.spotify.com/artist/2Lxa3SFNEW0alfRvtdXOul) | [El Karma \(Deluxe Version\)](https://open.spotify.com/album/2ReeGlHU8J7gkxsMGlpNhY) | 3:29 |
+| 18 | [Por Las Noches](https://open.spotify.com/track/6YWME4xCa5Lm6X1exVMQIC) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [Por Las Noches](https://open.spotify.com/album/2Pksd4k88XH1QENsu2vqeZ) | 3:58 |
 | 19 | [J.](https://open.spotify.com/track/4lUsBLTAiufWocWtg4H0my) | [Ivan Cornejo](https://open.spotify.com/artist/6PH3FLQAxtqYy46Zv08bpV) | [Dañado](https://open.spotify.com/album/1i5VsPI1sXn847oHyXyZCh) | 3:54 |
 | 20 | [HASTA LA MUERTE](https://open.spotify.com/track/3qAJAUr7yc9bPDx4ESt6ND) | [Eslabon Armado](https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR), [Ivan Cornejo](https://open.spotify.com/artist/6PH3FLQAxtqYy46Zv08bpV) | [NOSTALGIA](https://open.spotify.com/album/72rN7YPXX4BxMQ3nNmipAd) | 3:29 |
 | 21 | [$AD BOYZ II](https://open.spotify.com/track/68cUJFq7aAbgeurngTmngL) | [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [$AD BOYZ 4 LIFE II](https://open.spotify.com/album/7Lv6VzSqIz1sAssK2JUskG) | 3:28 |
-| 22 | [Por Las Noches](https://open.spotify.com/track/6YWME4xCa5Lm6X1exVMQIC) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [Por Las Noches](https://open.spotify.com/album/2Pksd4k88XH1QENsu2vqeZ) | 3:58 |
+| 22 | [Te Metiste](https://open.spotify.com/track/4KrXsgZHi1yLZLB1Wlgcbt) | [Ariel Camacho y Los Plebes Del Rancho](https://open.spotify.com/artist/2Lxa3SFNEW0alfRvtdXOul) | [El Karma \(Deluxe Version\)](https://open.spotify.com/album/2ReeGlHU8J7gkxsMGlpNhY) | 3:29 |
 | 23 | [Ninguna Como Ella](https://open.spotify.com/track/14m4h509A1JJojv3eDxUDe) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P) | [A Mis 20](https://open.spotify.com/album/4TATXEH2tnZVTqlyURoWUR) | 3:20 |
 | 24 | [No Eres La Oficial](https://open.spotify.com/track/7qWvY6pXosRyh86pGKhXr5) | [David Santos](https://open.spotify.com/artist/3sc9qeCcbKwYiiBspwVUzU) | [No Eres La Oficial](https://open.spotify.com/album/7AjLQs5QZBduKDXxb8lYwh) | 3:20 |
 | 25 | [Siempre Te Voy A Querer](https://open.spotify.com/track/3VK8copXwqvAueMPhnBe6K) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [Desde El Rancho](https://open.spotify.com/album/3JGd3lmLv4Z7pQUZPu6EnH) | 3:54 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd6QWbEewZmM.md) - [plain]
 | 99 | [Que Me Fallo](https://open.spotify.com/track/1Np9UBGF8Mjhr6UqdhxMLX) | [Nivel](https://open.spotify.com/artist/5aHKxMwIrPVwy4m6FTOiXK) | [Que Me Fallo](https://open.spotify.com/album/3mIMczwXK7jgzsCTUhmUi0) | 4:02 |
 | 100 | [Piensa En Mi](https://open.spotify.com/track/2JSmFHR2FpruHXgF5udA1l) | [Los Del Limit](https://open.spotify.com/artist/4pQxRQ2bUyVpk89wzztCLw) | [Piensa En Mi](https://open.spotify.com/album/3QvltqphdmNGv93YoM310C) | 3:24 |
 
-Snapshot ID: `MCw4YjdiNGM1MjZmNzNmZTM3ZjkzM2FiNjhiZjQxYmI3N2Y1NmE1NGVj`
+Snapshot ID: `MCxjNTIxZWRhYjE4Mjg2ODhhZDY3ZmI3OTg1MmYxMGNkOGQyMzhjODRj`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8HtC0bZzINB.md) - [plain]
 
 > Yerli Afro, Latin ve trap ritimleri ile yazın en hareketli hali.
 
-[Spotify](https://open.spotify.com/user/spotify) - 86,769 likes - 50 songs - 2 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 86,781 likes - 50 songs - 2 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,8 +24,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8HtC0bZzINB.md) - [plain]
 | 14 | [EVA & MIA](https://open.spotify.com/track/2FuWptjK1pc0rkVpF5O0CG) | [GOKO!](https://open.spotify.com/artist/2XsT1ReJB0oZykMLN0bEun) | [EVA & MIA](https://open.spotify.com/album/2PAswF8uCkTTTPyThWEXRE) | 2:54 |
 | 15 | [Veda Saati](https://open.spotify.com/track/5W8XrqcmPo6DtyDdPNahkn) | [Sefo](https://open.spotify.com/artist/1ITjgqpqMDJlqZGAK3mlPQ) | [Veda Saati](https://open.spotify.com/album/5ChVdKYddqHDsgUtwzlxln) | 2:27 |
 | 16 | [Nerdesin](https://open.spotify.com/track/2SwQShWjZsxoGviEyaEMOX) | [Ezhel](https://open.spotify.com/artist/6LnJKrtFnTEGdbWQ2riWCL) | [Nerdesin](https://open.spotify.com/album/56FIQvpIezTtGm1j8yjX9q) | 2:56 |
-| 17 | [Dünya'm](https://open.spotify.com/track/7104DHFH8m0Kmd8FqdPx1h) | [Ozbi](https://open.spotify.com/artist/4DG2pTwQBor7a6wtoEABau) | [Dünya'm 20:24](https://open.spotify.com/album/5gCQa39xnnalOJhO6kFv0t) | 2:59 |
-| 18 | [Savaştım Harbiden](https://open.spotify.com/track/082Z8aWrikvq4JA8qpgcgX) | [Zeynep Bastık](https://open.spotify.com/artist/1mpOD8ZwHnbsryIuXWq0R1), [Kozmos](https://open.spotify.com/artist/0qERHMCWkMoZvWZMngc1A6) | [Savaştım Harbiden](https://open.spotify.com/album/5uLpCvsEo70kqh0fUD1u2w) | 2:31 |
+| 17 | [Savaştım Harbiden](https://open.spotify.com/track/082Z8aWrikvq4JA8qpgcgX) | [Zeynep Bastık](https://open.spotify.com/artist/1mpOD8ZwHnbsryIuXWq0R1), [Kozmos](https://open.spotify.com/artist/0qERHMCWkMoZvWZMngc1A6) | [Savaştım Harbiden](https://open.spotify.com/album/5uLpCvsEo70kqh0fUD1u2w) | 2:31 |
+| 18 | [Dünya'm](https://open.spotify.com/track/7104DHFH8m0Kmd8FqdPx1h) | [Ozbi](https://open.spotify.com/artist/4DG2pTwQBor7a6wtoEABau) | [Dünya'm 20:24](https://open.spotify.com/album/5gCQa39xnnalOJhO6kFv0t) | 2:59 |
 | 19 | [Melek](https://open.spotify.com/track/6XbuJHhqugUVdJbTdshUEL) | [Reynmen](https://open.spotify.com/artist/1Fg19vpUJpAAPFjnKaVYVW) | [Melek](https://open.spotify.com/album/2ARaqMe0AxH8vfYSNMCxJF) | 2:34 |
 | 20 | [Favela](https://open.spotify.com/track/0OSmjU2982agUzLQ08Wqkl) | [UZI](https://open.spotify.com/artist/51DevdOxIJin6DB1FXJpD1) | [Favela](https://open.spotify.com/album/3HPYQBXJg7qGD51sBOfqRm) | 3:41 |
 | 21 | [Bul Beni](https://open.spotify.com/track/1riBwVUqVsk5RGJ9iLN8cG) | [Ezhel](https://open.spotify.com/artist/6LnJKrtFnTEGdbWQ2riWCL) | [Bul Beni](https://open.spotify.com/album/79oroEdFGvT0h2a3QH9KEk) | 2:34 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8HtC0bZzINB.md) - [plain]
 | 49 | [bu gece dağıtıcam..](https://open.spotify.com/track/4hqipk4YpAV3tXlsZ3usQE) | [Kozmos](https://open.spotify.com/artist/0qERHMCWkMoZvWZMngc1A6) | [bu gece dağıtıcam..](https://open.spotify.com/album/7af93QWDFzJliE8Y67CIhX) | 2:19 |
 | 50 | [BABY BİRTANEM](https://open.spotify.com/track/1aPqj5kIol0lpGiBpWOflL) | [Zen\-G](https://open.spotify.com/artist/4HSiNCPhdU2snKaVJytlUM) | [BABY BİRTANEM](https://open.spotify.com/album/6fyc11DLRRgRZOMVm7PKNL) | 2:47 |
 
-Snapshot ID: `MCxiYTM4NWQ0ZDMxYTU5ZjE0YzAzZGU3MjU5YWZmODNkY2Q5YzdlYjlh`
+Snapshot ID: `MCxhMmI4OTI2OTAwYzA3M2E1MGUzYmMzNDhiNzgzYTgxMTRjNjY5NTY5`

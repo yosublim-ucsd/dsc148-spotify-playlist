@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZLN2cXno63R.md) - [plain]
 
 > Take yourself to Havana with some Cuban Salsa and Café favourites.
 
-[Spotify](https://open.spotify.com/user/spotify) - 225,013 likes - 62 songs - 4 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 225,133 likes - 62 songs - 4 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,7 +59,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZLN2cXno63R.md) - [plain]
 | 49 | [Pedacito de cielo](https://open.spotify.com/track/1C86PVpk5idxXMZguaAIaF) | [Buenos Aires Tango Trio](https://open.spotify.com/artist/1d9y4HTvix06VscldAQANr) | [Famous Tangos](https://open.spotify.com/album/2gBy9Gnnzm04KjetvCQHYM) | 3:01 |
 | 50 | [El Guayo De Catania](https://open.spotify.com/track/2ZqXKLuGQRQtH9gE9yNaLM) | [Los Gardenias](https://open.spotify.com/artist/1Z3e3MP52dQjW6Vhdj2FGz) | [Café Cuba](https://open.spotify.com/album/0oMN5tFErJAZRwuvp6tY4z) | 3:15 |
 | 51 | [A Toda Cuba Le Gusta](https://open.spotify.com/track/52GMsGM4KgEsIH0w1IrGZn) | [Grupo Cubanissimo](https://open.spotify.com/artist/4IxM9uSjSfajUXJzXLKR3a) | [Cuba Mi Amor](https://open.spotify.com/album/40i4maiOo4R6GbXzec8aBE) | 5:48 |
-| 52 | [El guao](https://open.spotify.com/track/1j9ZiTEd1x7cmvbfiLAIrS) | [Los Jubilados](https://open.spotify.com/artist/2fYr0OC9ENysJE3pnRuEJH) | [Échate pa 'llá](https://open.spotify.com/album/286Y8F1d57W21ADMQVugMr) | 4:47 |
+| 52 | [El Guao](https://open.spotify.com/track/5MMkuLmdhrsMYyfS18qOnt) | [Los Jubilados](https://open.spotify.com/artist/2fYr0OC9ENysJE3pnRuEJH) | [Cero Farandulero](https://open.spotify.com/album/6DV1RCgPHvFq7gcmplESeT) | 4:47 |
 | 53 | [El Que Quiera Bailar](https://open.spotify.com/track/2g8q0NiIjKu16JX9k2hhNo) | [Manolito Simonet y su Trabuco](https://open.spotify.com/artist/0Wd6h9C5ZYMexAYGM7BKwR) | [Tumbao Pal Bailador](https://open.spotify.com/album/5iNUuJE3uttpA3kjiO2Mcs) | 4:22 |
 | 54 | [Moliendo café](https://open.spotify.com/track/4jM0v4ReOQh5RntXfiG3NN) | [Vieja Trova Santiaguera](https://open.spotify.com/artist/2t7ndReOwR0bTqTaDxYa9G) | [El Balcon Del Adios](https://open.spotify.com/album/6RrE499bQ4sEOT81yuqUIM) | 4:55 |
 | 55 | [Mia Cuerpo](https://open.spotify.com/track/6rD5yozx6t3Okeh1YABSjK) | [El Inspector De La Salsa](https://open.spotify.com/artist/3jakCpqlxelvHkdvhPWl2p) | [Cuba Libre Vol\. 1](https://open.spotify.com/album/6qEaoYEsuLjSvOhb6EARZr) | 4:41 |
@@ -71,4 +71,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZLN2cXno63R.md) - [plain]
 | 61 | [Habanera](https://open.spotify.com/track/5fJ59hC02dd43Ej9I1Zyyp) | [Cuba Cafe Express](https://open.spotify.com/artist/5suSWbd4Oy5ZBnwvk2ruCt) | [What About Cuba](https://open.spotify.com/album/2PpQzhiPBQl6cbWvmgNhTn) | 3:42 |
 | 62 | [El Guayo de Catilina](https://open.spotify.com/track/0YMHpQZ6FYqS4V6J6xOVqL) | [Havana Club](https://open.spotify.com/artist/3OVEfqUmt746LvlpP2rKK2) | [Cafè de Cuba \(Latin Music, Cuba\)](https://open.spotify.com/album/1hPlkjUn6C9cRVVN3VEfhu) | 3:17 |
 
-Snapshot ID: `MCxiYTNkYzRhZjNjMzEwMjA2YzIzM2ZkNzU1YTcwOGRmYjQwZjBhNTU0`
+Snapshot ID: `MCw2YjM2MTcxMmVhMDU0MDQ1YzE0Mjg3NWJhYTQ4ZWU5ODUwNjVjYjJj`

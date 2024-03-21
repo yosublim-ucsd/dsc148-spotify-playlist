@@ -356,6 +356,10 @@
       },
       "artists": [
         {
+          "name": "Helena",
+          "url": "https://open.spotify.com/artist/6M0dlWzmJ9Z81JM2WpHbsC"
+        },
+        {
           "name": "Star Academy",
           "url": "https://open.spotify.com/artist/0SkR0pnP9oQ3ghG9juH9hy"
         }
@@ -364,7 +368,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 188960,
-      "name": "Aim\u00e9e pour de vrai (H\u00e9l\u00e9na)",
+      "name": "Aim\u00e9e pour de vrai",
       "url": "https://open.spotify.com/track/5peFNKKLZUaOYE0c3qZNE1"
     },
     {

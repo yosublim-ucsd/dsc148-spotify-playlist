@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8sGALGjOrTu.md) - [plain]
 
 > Back to the golden age of the scene\. Cover: Underoath
 
-[Spotify](https://open.spotify.com/user/spotify) - 467,071 likes - 75 songs - 4 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 467,306 likes - 75 songs - 4 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,9 +64,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8sGALGjOrTu.md) - [plain]
 | 54 | [The Difference Between Medicine And Poison Is In The Dose](https://open.spotify.com/track/3SizB9Beb0HZHww3PjoXbQ) | [Circa Survive](https://open.spotify.com/artist/11FY888Qctoy6YueCpFkXT) | [On Letting Go](https://open.spotify.com/album/4Chn7XF8fzngf9GPfTMXLz) | 4:17 |
 | 55 | [And I Told Them I Invented Times New Roman](https://open.spotify.com/track/53AwkyeKxTEj7sYaaOQbsd) | [Dance Gavin Dance](https://open.spotify.com/artist/6guC9FqvlVboSKTI77NG2k) | [Downtown Battle Mountain](https://open.spotify.com/album/1jVppF8Y8tpYfDSG1WSXga) | 4:48 |
 | 56 | [The Past Should Stay Dead](https://open.spotify.com/track/1WPoATdYDxAmso3K6OpsaY) | [Emarosa](https://open.spotify.com/artist/68tKVjVvcqUfKFFLr2j0Ek) | [Relativity](https://open.spotify.com/album/3XHoQliF0J7p6q6taBVvc6) | 4:33 |
-| 57 | [Letters To You](https://open.spotify.com/track/1lldOhIq1tf0XyQUBWDeOc) | [Finch](https://open.spotify.com/artist/528t5c0zyuG9beehtth4Za) | [What It Is To Burn](https://open.spotify.com/album/28DROCResQvsdO6Hjmb32x) | 3:19 |
+| 57 | [Roses for the Dead](https://open.spotify.com/track/6MVhQjz1SNN8IDTBlZwvwG) | [Funeral For A Friend](https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik) | [Hours](https://open.spotify.com/album/6ehpQ6J2cx9nlge4GlJcJ7) | 4:07 |
 | 58 | [The Thespian](https://open.spotify.com/track/2JPe6EP1iDsVwiPHwvhik0) | [Alesana](https://open.spotify.com/artist/1fnDlUNi67FQtHHqBl4Yfg) | [The Emptiness](https://open.spotify.com/album/4HOobzcnXNTNaKxP2MIBrg) | 3:57 |
-| 59 | [Roses for the Dead](https://open.spotify.com/track/6MVhQjz1SNN8IDTBlZwvwG) | [Funeral For A Friend](https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik) | [Hours](https://open.spotify.com/album/6ehpQ6J2cx9nlge4GlJcJ7) | 4:07 |
+| 59 | [Letters To You](https://open.spotify.com/track/1lldOhIq1tf0XyQUBWDeOc) | [Finch](https://open.spotify.com/artist/528t5c0zyuG9beehtth4Za) | [What It Is To Burn](https://open.spotify.com/album/28DROCResQvsdO6Hjmb32x) | 3:19 |
 | 60 | [Accidents](https://open.spotify.com/track/1FuZJZqUWbwpqwbT8eESfR) | [Alexisonfire](https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2) | ["Watch out!"](https://open.spotify.com/album/4ttDpnKRfaMdwCt6Zp9qJd) | 4:09 |
 | 61 | [Car Underwater](https://open.spotify.com/track/4CilIy3dA3P9Tq2NFqKEOX) | [Armor For Sleep](https://open.spotify.com/artist/7eSbps3Uha3MMBNWhMYa2H) | [What To Do When You Are Dead](https://open.spotify.com/album/6kYEwpX4miUeuyPLyvq7lK) | 3:48 |
 | 62 | [Things That Rhyme With Orange](https://open.spotify.com/track/77vNp4OsXJdDt3OwlQW0HS) | [I Set My Friends On Fire](https://open.spotify.com/artist/2QF7jwUc5zgjSbOTYh1xV0) | [You Can't Spell Slaughter Without Laughter](https://open.spotify.com/album/3OuA2gHFQ0GwXMw0FSI9Ra) | 3:24 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8sGALGjOrTu.md) - [plain]
 | 74 | [Capricorn \(A Brand New Name\)](https://open.spotify.com/track/1e714xkChvo3z1s9hNxkK5) | [Thirty Seconds To Mars](https://open.spotify.com/artist/0RqtSIYZmd4fiBKVFqyIqD) | [30 Seconds To Mars](https://open.spotify.com/album/5zUm6nApm20NjtX913O6Nz) | 3:53 |
 | 75 | [Error Operator](https://open.spotify.com/track/3Zcx8pEo36dcrdppEmLVjs) | [Taking Back Sunday](https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1) | [Louder Now \(Deluxe Edition\)](https://open.spotify.com/album/3t5ZnNa4NdyldNHZcFhETb) | 2:51 |
 
-Snapshot ID: `MCxkMTU2Mjg3OGEzOTY1NGM0MjFkMTIyM2Y0MWQ5MTJlMGFkMDU3YjQ4`
+Snapshot ID: `MCxkYzIzNjJlYTY4NWMxYjA2NjI2NWJkMDdmNzlkYzI3Y2IzZDI2OTY0`

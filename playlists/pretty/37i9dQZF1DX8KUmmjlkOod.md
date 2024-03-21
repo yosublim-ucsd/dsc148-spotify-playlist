@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8KUmmjlkOod.md) - [plain]
 
 > Aquí no hay nostalgia, ¡se vino la pachanga!, y el <a href="spotify:user:spotify:playlist:37i9dQZF1DWT0pl0yubzJM">Rock Sónico</a> también!
 
-[Spotify](https://open.spotify.com/user/spotify) - 375,925 likes - 80 songs - 5 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 375,987 likes - 80 songs - 5 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8KUmmjlkOod.md) - [plain]
 | 79 | [Muévelo](https://open.spotify.com/track/4xkQxDPC6RBV1Yfx6vkLsO) | [Los Piojos](https://open.spotify.com/artist/0SnyKkoyBaB2fG8IJH4xmU) | [3er Arco](https://open.spotify.com/album/2tqxwMkehDRiz4gErUNZ0Q) | 4:21 |
 | 80 | [Espadas y Serpientes](https://open.spotify.com/track/6DcmC2JG5bvJ0x2VvhUcKx) | [Attaque 77](https://open.spotify.com/artist/5rI6C5mJm6GYXbGHhpHTu9) | [El Cielo Puede Esperar](https://open.spotify.com/album/2Hq8YjDCJfynzmTgLGVkxJ) | 4:27 |
 
-Snapshot ID: `MCw0ZDYwM2VmMTQwNzZlNjg0MDIxYmU2ODU5YjljOTE0NDMxZTc0YThm`
+Snapshot ID: `MCw0NjZkOGE3NDFiMjYyMmZiZjZmNjM0MzkzYjNjODUzZmVhZDgyYzkx`

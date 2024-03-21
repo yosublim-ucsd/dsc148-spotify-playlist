@@ -4,7 +4,7 @@
 
 > Blissful indie for dreamers.
 
-389 songs - 1 day 0 hr 32 min
+390 songs - 1 day 0 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -166,7 +166,8 @@
 | [I Don't Live Here Anymore \(feat\. Lucius\)](https://open.spotify.com/track/5Uou8idst1XJc0F6MRAk5S) | [The War On Drugs](https://open.spotify.com/artist/6g0mn3tzAds6aVeUYRsryU), [Lucius](https://open.spotify.com/artist/1WrqUPWlHN5FXCRcQgrkas) | [I Don’t Live Here Anymore](https://open.spotify.com/album/69jQsPvJzMvcb2fGqI2qaB) | 5:27 | 2022-07-06 |  |
 | [I Don't Want to Be Alone](https://open.spotify.com/track/3TJJmh4u2wHIZdYbImGyeM) | [Llovers](https://open.spotify.com/artist/0MGqjWWotQzv4HkaNAiWn5) | [I Don't Want to Be Alone](https://open.spotify.com/album/3jNjCCdOzAP9J4Szb8vuJ6) | 3:22 | 2020-08-09 | 2022-04-21 |
 | [I Feel It](https://open.spotify.com/track/2iaFl4QUYV75nGVb2Eic8o) | [Jaguar Sun](https://open.spotify.com/artist/4WQwU51LUtrVrw0K8BMpAC) | [I Feel It](https://open.spotify.com/album/379yDlK37waTY9OTYkixcR) | 3:05 | 2023-09-29 | 2024-03-13 |
-| [i walk this earth all by myself](https://open.spotify.com/track/5a8QUc4ubHJqQm7vzs2YhA) | [EKKSTACY](https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH) | [i walk this earth all by myself](https://open.spotify.com/album/6tdl27ojBwZ5ZexzZOP4mG) | 2:25 | 2021-03-06 |  |
+| [i walk this earth all by myself](https://open.spotify.com/track/5a8QUc4ubHJqQm7vzs2YhA) | [EKKSTACY](https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH) | [i walk this earth all by myself](https://open.spotify.com/album/6tdl27ojBwZ5ZexzZOP4mG) | 2:25 | 2021-03-06 | 2024-03-21 |
+| [i walk this earth all by myself](https://open.spotify.com/track/6oofvZ4K8vBHnCT1oKERcd) | [EKKSTACY](https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH) | [NEGATIVE](https://open.spotify.com/album/2momrvUqAMigmBoOOKuavE) | 2:25 | 2023-07-21 |  |
 | [I'm Found](https://open.spotify.com/track/6lDydBw1co0u11hP3kMAgj) | [Katrina Ford](https://open.spotify.com/artist/0m1QOHroy845vm0zq28eIA) | [I'm Found](https://open.spotify.com/album/3Eh7jOuBuUZO5eq66WVANC) | 4:03 | 2022-07-06 | 2022-07-29 |
 | [I'm lost in a fishbowl](https://open.spotify.com/track/2UInBM4KnSCz1bqb0NNO3q) | [Hitch Von Cassen](https://open.spotify.com/artist/4GFY0t6jiCfYgWDxTfCK4p), [Ana Ora](https://open.spotify.com/artist/009y7OLLaB8PkJL8bUywC1) | [Humpty Dumpty](https://open.spotify.com/album/1F68Q7RXXElRqb1nlklYKH) | 4:14 | 2022-02-24 | 2023-12-06 |
 | [If I Come Home](https://open.spotify.com/track/1pqrOSuEubjirB4OyBNHPm) | [rozey](https://open.spotify.com/artist/20fOKcudXS3Yyl6ifwXf2u) | [If I Come Home](https://open.spotify.com/album/7l2qDkPU22dXV5mylQTj45) | 3:36 | 2023-03-24 |  |

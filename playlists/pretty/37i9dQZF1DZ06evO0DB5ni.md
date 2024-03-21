@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0DB5ni.md) - [plain]
 
 > This is Julión Álvarez y su Norteño Banda\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 662,529 likes - 47 songs - 2 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 662,955 likes - 47 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0DB5ni.md) - [plain]
 | 32 | [Márchate](https://open.spotify.com/track/7ywyOW3ugVzVBIU3TFO9af) | [Julión Álvarez y su Norteño Banda](https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC) | [Márchate Y Olvídame](https://open.spotify.com/album/1laTU2tuhmcjEaZHCgwOiP) | 2:54 |
 | 33 | [No Se Ocupa Más](https://open.spotify.com/track/52joCc2An6laDcTOLc852J) | [Julión Álvarez y su Norteño Banda](https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC) | [De Hoy En Adelante, Que Te Vaya Bien](https://open.spotify.com/album/7GMOWbeeTcIQrI8StlVDqh) | 2:25 |
 | 34 | [Capítulo Triste](https://open.spotify.com/track/5Uyke0zF2O32vMcETnuByX) | [Julión Álvarez y su Norteño Banda](https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC) | [PRESENTE](https://open.spotify.com/album/0JoUcdNtc8iAKHGFj7Ppf9) | 2:57 |
-| 35 | [Perdón Porque?](https://open.spotify.com/track/5hPLduAGq6QIKhId97NzcP) | [Julión Álvarez y su Norteño Banda](https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC) | [Ni Lo Intentes](https://open.spotify.com/album/07A8pAHXqkucbE1KkZwfC0) | 2:30 |
-| 36 | [Yo Te Advertí](https://open.spotify.com/track/7DkMuqgqec2USytmjs5uXl) | [Julión Álvarez y su Norteño Banda](https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC) | [Soy Lo Que Quiero..\. Indispensable \(Edición Especial\)](https://open.spotify.com/album/4kWF9XKqqLONgYtUQ4alvb) | 2:07 |
+| 35 | [Yo Te Advertí](https://open.spotify.com/track/7DkMuqgqec2USytmjs5uXl) | [Julión Álvarez y su Norteño Banda](https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC) | [Soy Lo Que Quiero..\. Indispensable \(Edición Especial\)](https://open.spotify.com/album/4kWF9XKqqLONgYtUQ4alvb) | 2:07 |
+| 36 | [Perdón Porque?](https://open.spotify.com/track/5hPLduAGq6QIKhId97NzcP) | [Julión Álvarez y su Norteño Banda](https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC) | [Ni Lo Intentes](https://open.spotify.com/album/07A8pAHXqkucbE1KkZwfC0) | 2:30 |
 | 37 | [Lección Aprendida](https://open.spotify.com/track/3TKcpYPqR5Z2H4c5PhXcce) | [Julión Álvarez y su Norteño Banda](https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC) | [De Hoy En Adelante, Que Te Vaya Bien](https://open.spotify.com/album/7GMOWbeeTcIQrI8StlVDqh) | 3:54 |
 | 38 | [Tú Me Cambiaste](https://open.spotify.com/track/4Gl6nmZqSU6F9w7uqQB2FU) | [Julión Álvarez y su Norteño Banda](https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC) | [PRESENTE](https://open.spotify.com/album/0JoUcdNtc8iAKHGFj7Ppf9) | 2:35 |
 | 39 | [Eres Todo Todo \- Bolero](https://open.spotify.com/track/5dY20YYRIPCUd3YUDNGQz8) | [Julión Álvarez y su Norteño Banda](https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC) | [Con Banda](https://open.spotify.com/album/2525QjTlcuO1zaYoBCl1Z9) | 3:30 |
@@ -56,4 +56,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0DB5ni.md) - [plain]
 | 46 | [25 De Diciembre](https://open.spotify.com/track/2ZyPDr61OhPbnLp8L9rAjW) | [Julión Álvarez y su Norteño Banda](https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC) | [Ni Lo Intentes](https://open.spotify.com/album/07A8pAHXqkucbE1KkZwfC0) | 2:54 |
 | 47 | [La María](https://open.spotify.com/track/5jPprrmhOMek0GlcMMHkda) | [Julión Álvarez y su Norteño Banda](https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC) | [Ni Lo Intentes](https://open.spotify.com/album/07A8pAHXqkucbE1KkZwfC0) | 2:26 |
 
-Snapshot ID: `Mjg1MTQxOTUsMDAwMDAwMDA0NmIyZjE4OWI5YTFkYzk2OGM2YTI2Nzg5NmJhYjc1MQ==`
+Snapshot ID: `Mjg1MTU2NjEsMDAwMDAwMDAyMTY0NmEzNzJiMjAxNTE0N2U1NjJiYjE2MzFhOTM3Mg==`

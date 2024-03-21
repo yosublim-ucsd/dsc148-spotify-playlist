@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZSDaI0ox0Nq.md) - [plain]
 
 > Mujeres que escriben la historia del Tango\. Foto: Julieta Laso.
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,718 likes - 55 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,721 likes - 55 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,8 +52,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZSDaI0ox0Nq.md) - [plain]
 | 42 | [Malena](https://open.spotify.com/track/24Reh2d2WR4lwweVsA1xxf) | [Susana Rinaldi](https://open.spotify.com/artist/44gwyR0NL3dALyIGaL9NFE), [Leopoldo Federico](https://open.spotify.com/artist/3RibY876FBPC7kuqm4YqzJ) | [Vos y yo](https://open.spotify.com/album/7I5aFjFeNdfqWyISjPI2sw) | 3:58 |
 | 43 | [Confidencias](https://open.spotify.com/track/5clL06dw4iPrD3w6MIDYtf) | [Mirta Uguet](https://open.spotify.com/artist/7LM8yuLYabmwwol7zh7T0O) | [Un sueño de barrio](https://open.spotify.com/album/5GbLnADafneDEQM3qK9rfa) | 3:28 |
 | 44 | [Caserón de Tejas \(feat\. Jorge Calandrelli\)](https://open.spotify.com/track/0Elfdj2gQ0Ib0h49kCKb2R) | [Maria Graña](https://open.spotify.com/artist/1Yr19zGBA3JmVYOcE4JwRG), [Jorge Calandrelli](https://open.spotify.com/artist/3cjxn6Z8XrhJuuEcxxQHmm) | [María](https://open.spotify.com/album/7jdQvnUjX988oU3jauUUmU) | 4:10 |
-| 45 | [Soledad](https://open.spotify.com/track/1BlKIFOIPRWYoaZaVM1GRC) | [Carolina Winograd](https://open.spotify.com/artist/1gQrpbtcrPfYpDB0LrZdWO) | [Soledad](https://open.spotify.com/album/0tXKqVJN1KMDjzcWW7dgQj) | 3:51 |
-| 46 | [Milonga del Desocupado](https://open.spotify.com/track/4drrlcTdFPZhbKoaZSCoMo) | [Quinteto Bataraz](https://open.spotify.com/artist/5wExxTg18OJstdwHUQDrAs), [Liliana Herrero](https://open.spotify.com/artist/6iqeypk1XRa2zQVRcIVmlF) | [Milonga del Desocupado](https://open.spotify.com/album/3VvEy3CFcgyMe1iMt4bQ2X) | 3:52 |
+| 45 | [Milonga del Desocupado](https://open.spotify.com/track/4drrlcTdFPZhbKoaZSCoMo) | [Quinteto Bataraz](https://open.spotify.com/artist/5wExxTg18OJstdwHUQDrAs), [Liliana Herrero](https://open.spotify.com/artist/6iqeypk1XRa2zQVRcIVmlF) | [Milonga del Desocupado](https://open.spotify.com/album/3VvEy3CFcgyMe1iMt4bQ2X) | 3:52 |
+| 46 | [Soledad](https://open.spotify.com/track/1BlKIFOIPRWYoaZaVM1GRC) | [Carolina Winograd](https://open.spotify.com/artist/1gQrpbtcrPfYpDB0LrZdWO) | [Soledad](https://open.spotify.com/album/0tXKqVJN1KMDjzcWW7dgQj) | 3:51 |
 | 47 | [Rosas de Otoño](https://open.spotify.com/track/6CAz0sn2HaHSpSiQ0EMkJx) | [Nelly Omar](https://open.spotify.com/artist/6IyGH3tMgXudiE41XE6Y8f), [Francisco Canaro Y Su Orquesta Tipica](https://open.spotify.com/artist/66vYcFTYX0PoYsOOURFaGf) | [Ofrenda Gaucha: Valsecito Amigo](https://open.spotify.com/album/6jUZzfW2CkpEULtaFOegAk) | 2:45 |
 | 48 | [La Morocha](https://open.spotify.com/track/1wgpDmWmiFO8m7ZBWCaQDF) | [Virginia Luque](https://open.spotify.com/artist/3l9sNbRTss6iqUdZq6R8Wc) | [Virginia Luque Cronología \- La Estrella de Buenos Aires \(1968\)](https://open.spotify.com/album/0gF8PydJV7gZYrHKVwZZi2) | 2:35 |
 | 49 | [Trenzas](https://open.spotify.com/track/7jBfhA6e93EKL1BaoghORb) | [Lidia Borda](https://open.spotify.com/artist/1SkyJrTK7wUmLxV9H7ekBt), [Brian Chambouleyron](https://open.spotify.com/artist/4ItsXJStGq1NA4LkKSV6WJ), [Esteban Morgado](https://open.spotify.com/artist/1pL3N36WdUgF8sdmLG8OMl), [Damian Bolotin](https://open.spotify.com/artist/6K2DK1fVzvbY5oSx3xPajp), [Walter Castro](https://open.spotify.com/artist/163oQfMweTcJsoOdYdDjNG), [Mono Hurtado](https://open.spotify.com/artist/2SKGUiZZSPBgQ9ZgdBiUTL) | [Patio De Tango](https://open.spotify.com/album/1kOUXHJMkKuXur3xTBoKmS) | 4:30 |
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZSDaI0ox0Nq.md) - [plain]
 | 54 | [Tal vez será su voz](https://open.spotify.com/track/2n3xDZaKxi6ntTB8IdX5mZ) | [Lidia Borda](https://open.spotify.com/artist/1SkyJrTK7wUmLxV9H7ekBt), [Orquesta El Arranque](https://open.spotify.com/artist/5EsRO0Vumc48k4pMoC4MWV) | [Tal Vez Será Su Voz](https://open.spotify.com/album/21lhlABIcVCeYgPTGLLbnW) | 4:25 |
 | 55 | [Sur](https://open.spotify.com/track/0I0bZlt1lW3HMCDiTBkbt3) | [Susana Rinaldi](https://open.spotify.com/artist/44gwyR0NL3dALyIGaL9NFE) | [Tangos Famosos Cantados](https://open.spotify.com/album/6e0npZfXXOvdAY8YulsfLo) | 3:18 |
 
-Snapshot ID: `MCxmZmI1NmE0YzE4MjBjNDJmZmZlMmVkMTFmMjk4M2NlZWMxODk4YTQz`
+Snapshot ID: `MCxjNTM5MTE4NmZjNWFhNzNjNGM1ZjYxMTIzNTgzYzU1M2MzMWU5ODY3`

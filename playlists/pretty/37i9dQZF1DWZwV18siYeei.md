@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZwV18siYeei.md) - [plain]
 
 > Summer classics from yesteryear!
 
-[Spotify](https://open.spotify.com/user/spotify) - 99,884 likes - 80 songs - 5 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 99,891 likes - 80 songs - 5 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,7 +53,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZwV18siYeei.md) - [plain]
 | 43 | [Murder On The Dancefloor](https://open.spotify.com/track/4tKGFmENO69tZR9ahgZu48) | [Sophie Ellis\-Bextor](https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE) | [Read My Lips](https://open.spotify.com/album/68ishLKwqH5oH79kUteEHG) | 3:50 |
 | 44 | [Dancing in the Moonlight](https://open.spotify.com/track/3Fzlg5r1IjhLk2qRw667od) | [Toploader](https://open.spotify.com/artist/6xeFne1rkxMhKSW3ipvkdV) | [Onka's Big Moka](https://open.spotify.com/album/2ww2PXKiHk7rNv26rjVJ5z) | 3:52 |
 | 45 | [Dreams](https://open.spotify.com/track/1lbXEepatjRVjoG8pZMtdp) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Greatest Hits](https://open.spotify.com/album/0LfM3PGkXE6KvJEE1HkOnz) | 4:14 |
-| 46 | [Soak Up The Sun](https://open.spotify.com/track/215JYyyUnrJ98NK3KEwu6d) | [Sheryl Crow](https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD) | [C'Mon C'Mon](https://open.spotify.com/album/5NYcTXrRZHxNyRKVOd0vs1) | 4:52 |
+| 46 | [Soak Up The Sun](https://open.spotify.com/track/215JYyyUnrJ98NK3KEwu6d) | [Sheryl Crow](https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD) | [C'Mon, C'Mon](https://open.spotify.com/album/5NYcTXrRZHxNyRKVOd0vs1) | 4:52 |
 | 47 | [Malibu](https://open.spotify.com/track/5bVOX6eyHsML2sB4aMlZEi) | [Hole](https://open.spotify.com/artist/5SHQUMAmEK5KmuSb0aDvsn) | [Celebrity Skin](https://open.spotify.com/album/2KE8WCHtD8qnAxXeIzNEId) | 3:50 |
 | 48 | [Little L](https://open.spotify.com/track/7hhclvecTpNxNNRCk7NUoc) | [Jamiroquai](https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid) | [A Funk Odyssey](https://open.spotify.com/album/6cLYs4e403jQk6PJ8PG9rs) | 4:55 |
 | 49 | [Innerbloom](https://open.spotify.com/track/6CGMZijOAZvTXG21T8t6R0) | [RÜFÜS DU SOL](https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj) | [Bloom](https://open.spotify.com/album/4EAehCii5lZgeewct1LA5p) | 9:38 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZwV18siYeei.md) - [plain]
 | 79 | [That Word \(L.O.V.E.\)](https://open.spotify.com/track/6EEhP8TSpMTuIJ3jxPnBTx) | [Rockmelons](https://open.spotify.com/artist/4a8lth8CeT9IQYFWAwXJCx) | [Form One Planet](https://open.spotify.com/album/0Hr5pYpc4oW2drfD62oqMr) | 4:09 |
 | 80 | [Steal My Sunshine](https://open.spotify.com/track/2GRnDQCkcN6BoujfUgywOW) | [LEN](https://open.spotify.com/artist/0nyc9SZGLITSOJASmTZsnZ) | [GO Music From The Motion Picture](https://open.spotify.com/album/2jDYpkR8306SzqpZzzNVZr) | 4:08 |
 
-Snapshot ID: `MCw2MjYyMWFhMTM3NzIyNTk3ZTY3NTllNjgwNDkxYTdiNzk2YmNmMmMw`
+Snapshot ID: `MCw0OWRhNjU2MmJkMDg4ZGY2NTgwYmExZjBiMzBlN2UwMTY0NGIyMGY4`

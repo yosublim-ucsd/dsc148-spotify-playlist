@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX37T6O68lz4o.md) - [plain]
 
 > New England music breaking waves\. Cover: <a href="spotify:artist:1DN9Pgv4fiAaRSSgiisj5G">Felix!</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,944 likes - 49 songs - 2 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,950 likes - 49 songs - 2 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX37T6O68lz4o.md) - [plain]
 | 20 | [24 hours to live](https://open.spotify.com/track/5ia8VbDkfzWBjC6f3bOTt1) | [Joyner Lucas](https://open.spotify.com/artist/6C1ohJrd5VydigQtaGy5Wa) | [24 hours to live](https://open.spotify.com/album/73djAmtght7e1sfNLior3P) | 3:28 |
 | 21 | [GOAT FARM](https://open.spotify.com/track/7jUMcoiaQRJVPi9Fo4kL3Q) | [Clark D](https://open.spotify.com/artist/7DruDtmm0jIP34WP7PeuF4), [Noah Scharf](https://open.spotify.com/artist/2s7KEZJf3T50dgaQoJBFZ7) | [WHY THE F\*\*\* NOT?!](https://open.spotify.com/album/4mUyFtM2e9KRaWIyB2ajoS) | 2:49 |
 | 22 | [Never Enough](https://open.spotify.com/track/6zRJ4zXxZ5S8P1XMURRm7k) | [Cousin Stizz](https://open.spotify.com/artist/0KpCz7V5XRkqKuM1JDf56O) | [Never Enough](https://open.spotify.com/album/2OZFvjpnidmupRRZGYjNZM) | 2:26 |
-| 23 | [WAHALA!](https://open.spotify.com/track/18Cnb8cok5JQeG8qU3ObVF) | [JELEEL!](https://open.spotify.com/artist/1FX1BFU0DbHRYgKP83pA0d) | [WAHALA!](https://open.spotify.com/album/0h1JIu4n6aAaTwEjYiSPC8) | 2:06 |
+| 23 | [WAHALA!](https://open.spotify.com/track/7Ei5tXp7sCjXjkWUWePMwq) | [JELEEL!](https://open.spotify.com/artist/1FX1BFU0DbHRYgKP83pA0d) | [WAHALA!](https://open.spotify.com/album/3P6dJzfnnXUKzNzL5kX5Tg) | 2:06 |
 | 24 | [Bout You](https://open.spotify.com/track/7hkTsGWqvfYoc5LGcKzLdu) | [Nino Francis](https://open.spotify.com/artist/3V6C0b6qW61rD8dNhBgKdr), [Olu Vibez](https://open.spotify.com/artist/4gWss5WLhs76gUsFACX7Rz) | [Bout You](https://open.spotify.com/album/2xrQFyNLYn09awM1tRoifh) | 2:41 |
 | 25 | [After Life](https://open.spotify.com/track/36UCQkdr0UO7YtF3jRAUAv) | [Gogo.](https://open.spotify.com/artist/2ZjHsrsF4aC1SpaVf9ZEhp) | [After Life](https://open.spotify.com/album/2pmN9CUGtz2ws2xzB95ofU) | 3:37 |
 | 26 | [WK](https://open.spotify.com/track/27tAN7i2rDioRsKIi0U8ze) | [Uche Malik](https://open.spotify.com/artist/2X4iiazskAL90U3e1QHVsG), [Jaey London](https://open.spotify.com/artist/4pOIfGaOomMfhsdni39IpL) | [WK](https://open.spotify.com/album/6u62QnlXBHRDrEQvnQS46l) | 2:43 |
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX37T6O68lz4o.md) - [plain]
 | 48 | [3 Am](https://open.spotify.com/track/7s2akMKHmx4C283JgZVYTN) | [C\. Wells](https://open.spotify.com/artist/4gfQutFlhH2GGtixg1ItOw), [Deon Chase](https://open.spotify.com/artist/0cAaXrP84y4CSfmJ5A7oKU) | [Keisha Blue](https://open.spotify.com/album/2EG5F7Cx65j5BXgVjim7QH) | 4:13 |
 | 49 | [Tex Winter](https://open.spotify.com/track/1OThgI6OIvuSR69zloLAvV) | [Sensei Sol](https://open.spotify.com/artist/1ZLJtRLhwdamkS2UddAexN), [T Clipse](https://open.spotify.com/artist/2VUOGUpWy8Ckg92h8EjBIW) | [Tex Winter](https://open.spotify.com/album/5Y2cAh4NajtDUXCJnrBtJE) | 2:54 |
 
-Snapshot ID: `MCwxM2RmMmM2MGVmYjVjMDhiZTViM2U1M2Y0OWM2YTRiNWM0ZmZjMTA4`
+Snapshot ID: `MCw2YmM3NDJiY2EwOTYwOGU1ODY4MzBmNzhiYjUwNGMxZjFiMGQ4Yzkx`

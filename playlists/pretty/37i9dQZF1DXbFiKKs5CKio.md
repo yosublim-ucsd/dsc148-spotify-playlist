@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbFiKKs5CKio.md) - [plain]
 
 > Muito romance, groove suave e R&B feitos no Brasil.
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,812 likes - 50 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,826 likes - 50 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,11 +35,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbFiKKs5CKio.md) - [plain]
 | 25 | [Se Foi](https://open.spotify.com/track/4vmSWLtbmDu1jGG13EeCis) | [Leo Gandelman](https://open.spotify.com/artist/7q1dPac1mIOp9NZX12ApbW), [Machine Series](https://open.spotify.com/artist/1xu1L93nrtesFrEuWRTqJG), [YOÙN](https://open.spotify.com/artist/42nEiwAAE2ypWbygM9iyJi) | [Hip Hop Machine \#18](https://open.spotify.com/album/0piuFU4SnOxlIQ6izGufoS) | 5:57 |
 | 26 | [SHAWTY](https://open.spotify.com/track/27WkGbGW5pZ03Gm8Ly4r4b) | [Diego Amani](https://open.spotify.com/artist/7C4JFPMFLycKlz7m7KKfgu) | [SHAWTY](https://open.spotify.com/album/3iXjMKLo5yW4siR1I69G5k) | 2:53 |
 | 27 | [Ondina](https://open.spotify.com/track/2SahXyHV5pmsJD94jzmQ9n) | [Jadidi](https://open.spotify.com/artist/7yPkvzo4E7WYddcfECrK7f) | [Ondina](https://open.spotify.com/album/4Qoxe36lExqIFHvtVkFASK) | 4:04 |
-| 28 | [Aurora](https://open.spotify.com/track/1IurzB42M5kCAuk0Otp36V) | [Doug O.](https://open.spotify.com/artist/1mj6W331lVCliU08OYyMg0) | [Aurora](https://open.spotify.com/album/7lyl9H9Dz6pSqZ7do5UNOL) | 2:31 |
-| 29 | [PFP \(para fazer pretinhos\)](https://open.spotify.com/track/29T145ELh9ZkHSJusrhilh) | [Aysha Lima](https://open.spotify.com/artist/2PIknYaeoCcwkNQ8leGQ7U), [André Miquelotti](https://open.spotify.com/artist/7DWlmonBAqM6AoN0m0lr54), [DG Prod](https://open.spotify.com/artist/5yRNIQrZSfIpSKXjDQ1qif) | [Ín.ti.mo](https://open.spotify.com/album/1H39nmz1c0ai9HaEhJWaGU) | 3:07 |
+| 28 | [PFP \(para fazer pretinhos\)](https://open.spotify.com/track/29T145ELh9ZkHSJusrhilh) | [Aysha Lima](https://open.spotify.com/artist/2PIknYaeoCcwkNQ8leGQ7U), [André Miquelotti](https://open.spotify.com/artist/7DWlmonBAqM6AoN0m0lr54), [DG Prod](https://open.spotify.com/artist/5yRNIQrZSfIpSKXjDQ1qif) | [Ín.ti.mo](https://open.spotify.com/album/1H39nmz1c0ai9HaEhJWaGU) | 3:07 |
+| 29 | [Aurora](https://open.spotify.com/track/1IurzB42M5kCAuk0Otp36V) | [Doug O.](https://open.spotify.com/artist/1mj6W331lVCliU08OYyMg0) | [Aurora](https://open.spotify.com/album/7lyl9H9Dz6pSqZ7do5UNOL) | 2:31 |
 | 30 | [Sinto a Sua Falta](https://open.spotify.com/track/2dZqnl4olWllAOzQRmdO4n) | [Kain](https://open.spotify.com/artist/2FayqmwmL9Zxd4vErhPNgN) | [Sinto a Sua Falta](https://open.spotify.com/album/0RLUPsZSe4d88a1LZUShQL) | 3:21 |
-| 31 | [Me Curar](https://open.spotify.com/track/0cS24SOojuYiP5OIP3ikxO) | [Kynnie](https://open.spotify.com/artist/20JcWtWgwyxcfUg8SyKwjy) | [93](https://open.spotify.com/album/2sbYShIsSsFnm62JKjTqUJ) | 3:46 |
-| 32 | [DESLIGA O TELEFONE](https://open.spotify.com/track/3rDOCyEn7PKiq2gykUphR9) | [N9NE](https://open.spotify.com/artist/15alwx15s1tZ2Gl9zF6Abv) | [DEJAVU PRIMAVERA](https://open.spotify.com/album/7wqRDsVsoKn8UNtr1nClFs) | 2:51 |
+| 31 | [DESLIGA O TELEFONE](https://open.spotify.com/track/3rDOCyEn7PKiq2gykUphR9) | [N9NE](https://open.spotify.com/artist/15alwx15s1tZ2Gl9zF6Abv) | [DEJAVU PRIMAVERA](https://open.spotify.com/album/7wqRDsVsoKn8UNtr1nClFs) | 2:51 |
+| 32 | [Me Curar](https://open.spotify.com/track/0cS24SOojuYiP5OIP3ikxO) | [Kynnie](https://open.spotify.com/artist/20JcWtWgwyxcfUg8SyKwjy) | [93](https://open.spotify.com/album/2sbYShIsSsFnm62JKjTqUJ) | 3:46 |
 | 33 | [Candeia](https://open.spotify.com/track/7v1TZLX1Xvwv3TtkiQBQ7v) | [Mericia](https://open.spotify.com/artist/2rbsGwF4WD9SlCqjo0Q2LS) | [Candeia](https://open.spotify.com/album/3gqDDktxBdBRdZVEPTHqq9) | 3:19 |
 | 34 | [PORTAIS](https://open.spotify.com/track/2XzZ08u2wNL6TjTWGKa70q) | [2:22](https://open.spotify.com/artist/4f8nHS4E6JwdMsn0YJSjU4), [Amanda Magno](https://open.spotify.com/artist/3oJrSk88w8dtDFRKjcMH0R) | [30ºC](https://open.spotify.com/album/2iDk6lzRhjYuJNt8sKO0yE) | 2:40 |
 | 35 | [That's Why I Love You](https://open.spotify.com/track/48cZ0Fo1zfYjBUPw5m8xjv) | [idontcare](https://open.spotify.com/artist/3sXDqkz0u2n7NXAPb3H7jV), [Juniper](https://open.spotify.com/artist/3h55d9cBydMk3jlDfMu1rN) | [That's Why I Love You](https://open.spotify.com/album/0ClBTyGt24uEfusn603KEV) | 3:38 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbFiKKs5CKio.md) - [plain]
 | 49 | [Filho do Soul](https://open.spotify.com/track/0GyYORKftax285LSmzF2oA) | [Augus7o](https://open.spotify.com/artist/78iJtzui4jnlK1KsDnlykz), [Lovro](https://open.spotify.com/artist/7roNMW0hJ2WwFhrXyKZRwF) | [Filho do Soul](https://open.spotify.com/album/11CfMBbIFivVBOerau2ZFI) | 4:00 |
 | 50 | [Flor](https://open.spotify.com/track/6rJv6Yb3XR9JLSjaCIFxbK) | [DROKI](https://open.spotify.com/artist/3XQEA55qckI5NVM65Dq2Op) | [Flor](https://open.spotify.com/album/5uNnbYqGQfKjc4dYlOrQ5N) | 2:34 |
 
-Snapshot ID: `MCxkODYyYzZjNGY0MDQ0NmNjYzgzZjcwYTBlYjkxYzQ5ZWM2Mzk1MjNj`
+Snapshot ID: `MCxlNWRkYzYyMmNiM2ZjMjIzNDk3MjQ3YmViOWQzYWRhZDY1MGZkZDQx`

@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Lleva el folclore de M\u00e9xico a donde sea!",
-  "num_followers": 131343,
+  "num_followers": 131355,
   "original_name": "Tradici\u00f3n Mexicana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyNjIyOGFiYzFiMWVkMjkzNGJiY2NhYjhjNGFiOWI5ZWM4MTYwYWFl",
+  "snapshot_id": "MCw1Y2VmOWYyYmU1MWVlOWMzNmI5MGJmOTQxYzZmYmQ3YjFlZWEyOWIz",
   "tracks": [
     {
       "added_at": "2023-05-09 18:01:28",
@@ -527,22 +527,18 @@
     {
       "added_at": "2023-05-09 18:01:28",
       "album": {
-        "name": "Sones Jarochos - Los Nacionales De Jacinto Gatica - Feria Mexicana",
-        "url": "https://open.spotify.com/album/5I2AhtiDpEUVWjeYn2DpyS"
+        "name": "Caf\u00e9 Caf\u00e9",
+        "url": "https://open.spotify.com/album/099AV8DpZlxt2y1qKhWv1S"
       },
       "artists": [
         {
-          "name": "Sones Jarochos",
-          "url": "https://open.spotify.com/artist/19wDbhvttV6xZQWf8pmxux"
-        },
-        {
-          "name": "Los Nacionales De Jacinto Gatica",
-          "url": "https://open.spotify.com/artist/03evbzgK4Uoo1IpSm551pr"
+          "name": "Radio Jarocho",
+          "url": "https://open.spotify.com/artist/5E2MtBNRzM4FzQWyLvkvXx"
         }
       ],
-      "duration_ms": 130493,
-      "name": "El Siquisiri",
-      "url": "https://open.spotify.com/track/5AaFV9x2mCYc0xOaOq2t8a"
+      "duration_ms": 238586,
+      "name": "Caf\u00e9 Caf\u00e9",
+      "url": "https://open.spotify.com/track/7pOrjaSlEgPsWZhrIar1zf"
     },
     {
       "added_at": "2023-05-09 18:01:28",
@@ -563,18 +559,22 @@
     {
       "added_at": "2023-05-09 18:01:28",
       "album": {
-        "name": "Caf\u00e9 Caf\u00e9",
-        "url": "https://open.spotify.com/album/099AV8DpZlxt2y1qKhWv1S"
+        "name": "Sones Jarochos - Los Nacionales De Jacinto Gatica - Feria Mexicana",
+        "url": "https://open.spotify.com/album/5I2AhtiDpEUVWjeYn2DpyS"
       },
       "artists": [
         {
-          "name": "Radio Jarocho",
-          "url": "https://open.spotify.com/artist/5E2MtBNRzM4FzQWyLvkvXx"
+          "name": "Sones Jarochos",
+          "url": "https://open.spotify.com/artist/19wDbhvttV6xZQWf8pmxux"
+        },
+        {
+          "name": "Los Nacionales De Jacinto Gatica",
+          "url": "https://open.spotify.com/artist/03evbzgK4Uoo1IpSm551pr"
         }
       ],
-      "duration_ms": 238586,
-      "name": "Caf\u00e9 Caf\u00e9",
-      "url": "https://open.spotify.com/track/7pOrjaSlEgPsWZhrIar1zf"
+      "duration_ms": 130493,
+      "name": "El Siquisiri",
+      "url": "https://open.spotify.com/track/5AaFV9x2mCYc0xOaOq2t8a"
     },
     {
       "added_at": "2023-05-09 18:01:28",
@@ -811,22 +811,6 @@
     {
       "added_at": "2023-05-09 18:01:28",
       "album": {
-        "name": "La Belle Epoque",
-        "url": "https://open.spotify.com/album/6yfkDfG0OCtjIVVgjSx03g"
-      },
-      "artists": [
-        {
-          "name": "Salterio y Quinteto de Anta\u00f1o",
-          "url": "https://open.spotify.com/artist/2g7uqSdLoBuzN2MAiHlfGQ"
-        }
-      ],
-      "duration_ms": 152093,
-      "name": "Chapultepec",
-      "url": "https://open.spotify.com/track/14jYjGfprvRyvSBq13pAn9"
-    },
-    {
-      "added_at": "2023-05-09 18:01:28",
-      "album": {
         "name": "The Best of Mexico",
         "url": "https://open.spotify.com/album/53ovjfvOTKp9wfeI0J35TM"
       },
@@ -839,6 +823,22 @@
       "duration_ms": 185600,
       "name": "El tilingo",
       "url": "https://open.spotify.com/track/24qvEa0HyeHRQar9p8cHr3"
+    },
+    {
+      "added_at": "2023-05-09 18:01:28",
+      "album": {
+        "name": "La Belle Epoque",
+        "url": "https://open.spotify.com/album/6yfkDfG0OCtjIVVgjSx03g"
+      },
+      "artists": [
+        {
+          "name": "Salterio y Quinteto de Anta\u00f1o",
+          "url": "https://open.spotify.com/artist/2g7uqSdLoBuzN2MAiHlfGQ"
+        }
+      ],
+      "duration_ms": 152093,
+      "name": "Chapultepec",
+      "url": "https://open.spotify.com/track/14jYjGfprvRyvSBq13pAn9"
     },
     {
       "added_at": "2023-05-09 18:01:28",
@@ -959,6 +959,42 @@
     {
       "added_at": "2023-05-09 18:01:28",
       "album": {
+        "name": "Por Los Caminos Del Sur",
+        "url": "https://open.spotify.com/album/3mRRUTh4dFWac0WLajq689"
+      },
+      "artists": [
+        {
+          "name": "Costa M\u00eda Orquesta",
+          "url": "https://open.spotify.com/artist/5gr6ZjgBXbZAcIjsHJgwoL"
+        },
+        {
+          "name": "Vania Fortuna",
+          "url": "https://open.spotify.com/artist/573vmSNtAqa0P3uvg4NqzF"
+        }
+      ],
+      "duration_ms": 158000,
+      "name": "Por Los Caminos Del Sur",
+      "url": "https://open.spotify.com/track/7lxSrgCOFBcTlcB6bSjXBS"
+    },
+    {
+      "added_at": "2023-05-09 18:01:28",
+      "album": {
+        "name": "The Best of Mexico",
+        "url": "https://open.spotify.com/album/53ovjfvOTKp9wfeI0J35TM"
+      },
+      "artists": [
+        {
+          "name": "Trio Azteca",
+          "url": "https://open.spotify.com/artist/2TQbB9wIlP0BRpwdUBq0dY"
+        }
+      ],
+      "duration_ms": 148240,
+      "name": "El colas",
+      "url": "https://open.spotify.com/track/2RbzXNmT3oryvvlMbgt8Ji"
+    },
+    {
+      "added_at": "2023-05-09 18:01:28",
+      "album": {
         "name": "El Salterio",
         "url": "https://open.spotify.com/album/057lLhyTreLeqRN9k1s1q8"
       },
@@ -987,42 +1023,6 @@
       "duration_ms": 213573,
       "name": "El Trompo (Son Jarocho) [Veracruz]",
       "url": "https://open.spotify.com/track/5Ms36eSpJQfc1VWnaZdjo7"
-    },
-    {
-      "added_at": "2023-05-09 18:01:28",
-      "album": {
-        "name": "The Best of Mexico",
-        "url": "https://open.spotify.com/album/53ovjfvOTKp9wfeI0J35TM"
-      },
-      "artists": [
-        {
-          "name": "Trio Azteca",
-          "url": "https://open.spotify.com/artist/2TQbB9wIlP0BRpwdUBq0dY"
-        }
-      ],
-      "duration_ms": 148240,
-      "name": "El colas",
-      "url": "https://open.spotify.com/track/2RbzXNmT3oryvvlMbgt8Ji"
-    },
-    {
-      "added_at": "2023-05-09 18:01:28",
-      "album": {
-        "name": "Por Los Caminos Del Sur",
-        "url": "https://open.spotify.com/album/3mRRUTh4dFWac0WLajq689"
-      },
-      "artists": [
-        {
-          "name": "Costa M\u00eda Orquesta",
-          "url": "https://open.spotify.com/artist/5gr6ZjgBXbZAcIjsHJgwoL"
-        },
-        {
-          "name": "Vania Fortuna",
-          "url": "https://open.spotify.com/artist/573vmSNtAqa0P3uvg4NqzF"
-        }
-      ],
-      "duration_ms": 158000,
-      "name": "Por Los Caminos Del Sur",
-      "url": "https://open.spotify.com/track/7lxSrgCOFBcTlcB6bSjXBS"
     },
     {
       "added_at": "2023-05-09 18:01:28",
@@ -1111,22 +1111,6 @@
     {
       "added_at": "2023-05-09 18:01:28",
       "album": {
-        "name": "Pasi\u00f3n Huasteca",
-        "url": "https://open.spotify.com/album/1IxTROEf8eB8IRsa910pYa"
-      },
-      "artists": [
-        {
-          "name": "Macuilxochitl",
-          "url": "https://open.spotify.com/artist/4VrEalhZopVFHXtqnwAZTu"
-        }
-      ],
-      "duration_ms": 170493,
-      "name": "El Borracho",
-      "url": "https://open.spotify.com/track/1whNjZlL6zjuvTWg2tekxI"
-    },
-    {
-      "added_at": "2023-05-09 18:01:28",
-      "album": {
         "name": "Mariachi: Mi Nombre Es M\u00e9xico",
         "url": "https://open.spotify.com/album/6kdd6Z3nAvWbxPZVpZlBgV"
       },
@@ -1171,6 +1155,22 @@
       "duration_ms": 192200,
       "name": "M\u00e9xico Lindo y Querido",
       "url": "https://open.spotify.com/track/0OOdn5YA4H5oqNpar9hxFm"
+    },
+    {
+      "added_at": "2023-05-09 18:01:28",
+      "album": {
+        "name": "Pasi\u00f3n Huasteca",
+        "url": "https://open.spotify.com/album/1IxTROEf8eB8IRsa910pYa"
+      },
+      "artists": [
+        {
+          "name": "Macuilxochitl",
+          "url": "https://open.spotify.com/artist/4VrEalhZopVFHXtqnwAZTu"
+        }
+      ],
+      "duration_ms": 170493,
+      "name": "El Borracho",
+      "url": "https://open.spotify.com/track/1whNjZlL6zjuvTWg2tekxI"
     },
     {
       "added_at": "2023-05-09 18:01:28",

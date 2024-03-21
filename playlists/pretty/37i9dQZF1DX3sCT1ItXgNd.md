@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3sCT1ItXgNd.md) - [plain]
 
 > Lo mejor del pop en español\. Foto: Manuel Turizo, Lola Indigo
 
-[Spotify](https://open.spotify.com/user/spotify) - 974,642 likes - 52 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 974,704 likes - 52 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,9 +33,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3sCT1ItXgNd.md) - [plain]
 | 23 | [tequiero](https://open.spotify.com/track/5K7cuVLC8T88DYb9kCLROK) | [Vicco](https://open.spotify.com/artist/2z1MpPojFcvxYcEAx0lT6w), [Abraham Mateo](https://open.spotify.com/artist/2bxxlINUlcMQQb39K7IopR) | [tequiero](https://open.spotify.com/album/02zhFLX1EJtzhZMIEwKipN) | 3:05 |
 | 24 | [Algo Sencillito](https://open.spotify.com/track/2mlccfOj0SdzAoOQRca7vn) | [Marta Santos](https://open.spotify.com/artist/2NeFajzkAQ4UfviWdzf0pK) | [Algo Sencillito](https://open.spotify.com/album/5KD3zAPmFm1uiTXDHTBDZm) | 2:57 |
 | 25 | [Ester Expósito](https://open.spotify.com/track/4GKjSwmowWO082NGn11wNj) | [Dani Martín](https://open.spotify.com/artist/3AIPhNgeF9S1Kyg9Yy3UQW) | [Ester Expósito](https://open.spotify.com/album/0iVOSSLoiNqlqnaMAqe4Co) | 3:33 |
-| 26 | [BLACK OPIUM](https://open.spotify.com/track/09778gErBvUNDu4hCBiwPX) | [Funzo & Baby Loud](https://open.spotify.com/artist/1nwjHzOUQZsNYX8xoWiGVC) | [PALANTE](https://open.spotify.com/album/0Ts13cnp7kgWyaSfemKGkA) | 2:36 |
-| 27 | [amor de verano](https://open.spotify.com/track/3ACVz5PwPN9P1PC6869Jn6) | [MARLENA](https://open.spotify.com/artist/1IAwO3v7hVP9ryTQtlzc9y) | [amor de verano](https://open.spotify.com/album/0fQ4D10TqLArXAxdPRq1RG) | 2:56 |
-| 28 | [boomerang](https://open.spotify.com/track/1bcXs0KpBkBW2FGSbmhJGl) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [boomerang](https://open.spotify.com/album/29cuKsKKlPn4HJ2Keh3jwD) | 2:18 |
+| 26 | [boomerang](https://open.spotify.com/track/1bcXs0KpBkBW2FGSbmhJGl) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [boomerang](https://open.spotify.com/album/29cuKsKKlPn4HJ2Keh3jwD) | 2:18 |
+| 27 | [BLACK OPIUM](https://open.spotify.com/track/09778gErBvUNDu4hCBiwPX) | [Funzo & Baby Loud](https://open.spotify.com/artist/1nwjHzOUQZsNYX8xoWiGVC) | [PALANTE](https://open.spotify.com/album/0Ts13cnp7kgWyaSfemKGkA) | 2:36 |
+| 28 | [amor de verano](https://open.spotify.com/track/3ACVz5PwPN9P1PC6869Jn6) | [MARLENA](https://open.spotify.com/artist/1IAwO3v7hVP9ryTQtlzc9y) | [amor de verano](https://open.spotify.com/album/0fQ4D10TqLArXAxdPRq1RG) | 2:56 |
 | 29 | [COBARDE](https://open.spotify.com/track/2IEhUsa1s1seGFAySt3zh7) | [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2), [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7) | [COBARDE](https://open.spotify.com/album/5OZzcXlWpCUFz5sNa09zy6) | 2:46 |
 | 30 | [Rotos](https://open.spotify.com/track/5XT6pcum5po3KqmQ9Rwg7Y) | [Pole.](https://open.spotify.com/artist/7D62OQfwvslnxJn9DkZm2F), [mafalda cardenal](https://open.spotify.com/artist/1AsstJ8Cf7uQX92weRmZRz) | [Rotos](https://open.spotify.com/album/1OGl64dIotP5N5tIvamqvO) | 3:51 |
 | 31 | [Palabra Prohibida](https://open.spotify.com/track/4sRulaggpSTT3mLCZsaJ5v) | [Samuraï](https://open.spotify.com/artist/0BovidHLtM9n55WXWkApK9) | [Palabra Prohibida](https://open.spotify.com/album/0SL3CXA1AkeE9i8mlaCCRZ) | 2:56 |
@@ -45,20 +45,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3sCT1ItXgNd.md) - [plain]
 | 35 | [Ella](https://open.spotify.com/track/1DPtfQYOFB9IAEk1o4qBmS) | [Cali Y El Dandee](https://open.spotify.com/artist/5DUlefCLzVRzNWaNURTFpK) | [ÁNGEL](https://open.spotify.com/album/3g5VwrXN4bKoU9UKux5k5N) | 3:07 |
 | 36 | [Puerta del Sol](https://open.spotify.com/track/13Cpy3Cl5f1K0VlNw0xPaT) | [Mar Lucas](https://open.spotify.com/artist/7K5OqI5GnphpZMfIRs2UsI), [Juan Magán](https://open.spotify.com/artist/1ackd5XprZEkH3McKbQD51), [Cali Y El Dandee](https://open.spotify.com/artist/5DUlefCLzVRzNWaNURTFpK) | [Puerta del Sol](https://open.spotify.com/album/0Feep6LUA5614f0kBIgLtU) | 3:13 |
 | 37 | [Te echo de \-](https://open.spotify.com/track/6bo5SaAuPbRA70oTA3MIRj) | [Noan](https://open.spotify.com/artist/5FTh7whdpVYqv00Gi0w5GM) | [Te echo de \-](https://open.spotify.com/album/2ZidbiN9jxUipofcnQohLN) | 2:56 |
-| 38 | [Astronauta](https://open.spotify.com/track/1J59EJh3hbGZDJD7KfONLz) | [Lérica](https://open.spotify.com/artist/4d3kmfoZBTuUPSUjgP45uo) | [Astronauta](https://open.spotify.com/album/5gHA0EkrBT7yANOSd9AFL6) | 2:49 |
-| 39 | [Polonia](https://open.spotify.com/track/3UNrrmmtFQlDx075B8JEBp) | [Charlie USG](https://open.spotify.com/artist/6SQxxV1mB4oLifst53eQpw) | [Polonia](https://open.spotify.com/album/4h5qALHn8Hf6JdntCluoJJ) | 2:45 |
-| 40 | [PETER PAN](https://open.spotify.com/track/4JF5WLz8y7hfTsy5Tpnwwj) | [Enol](https://open.spotify.com/artist/5f7z2thkqWrA4vp5Hh476O) | [PETER PAN](https://open.spotify.com/album/7hsGz3VuHhKW7tBRrQRLFK) | 2:49 |
+| 38 | [Polonia](https://open.spotify.com/track/3UNrrmmtFQlDx075B8JEBp) | [Charlie USG](https://open.spotify.com/artist/6SQxxV1mB4oLifst53eQpw) | [Polonia](https://open.spotify.com/album/4h5qALHn8Hf6JdntCluoJJ) | 2:45 |
+| 39 | [PETER PAN](https://open.spotify.com/track/4JF5WLz8y7hfTsy5Tpnwwj) | [Enol](https://open.spotify.com/artist/5f7z2thkqWrA4vp5Hh476O) | [PETER PAN](https://open.spotify.com/album/7hsGz3VuHhKW7tBRrQRLFK) | 2:49 |
+| 40 | [Astronauta](https://open.spotify.com/track/1J59EJh3hbGZDJD7KfONLz) | [Lérica](https://open.spotify.com/artist/4d3kmfoZBTuUPSUjgP45uo) | [Astronauta](https://open.spotify.com/album/5gHA0EkrBT7yANOSd9AFL6) | 2:49 |
 | 41 | [GOOD DAY \(feat\. Camidoh\)](https://open.spotify.com/track/17EHmaus2XNoMdCIw4bZmf) | [Nil Moliner](https://open.spotify.com/artist/6X8uzem5Dbl4l2so4CeexD), [Camidoh](https://open.spotify.com/artist/6Z9Xe5mjocmPOhz2TLNrAi) | [GOOD DAY \(feat\. Camidoh\)](https://open.spotify.com/album/3skW3RfH9HhEhkmfLscAwk) | 2:44 |
 | 42 | [Desconocidos](https://open.spotify.com/track/4ENTAdTmgoZ2pID2eciubD) | [Álvaro De Luna](https://open.spotify.com/artist/5N3YDBGT2gUzXgLDTwPRi5), [Asan](https://open.spotify.com/artist/6Nl4VXcX86fBMO4YE6oYfN) | [Desconocidos](https://open.spotify.com/album/5EmUUyhdmQw3hc8cTTDcF0) | 2:30 |
 | 43 | [Copita Champagne](https://open.spotify.com/track/3xvnCTCFA6Ntd5gKLfKnmW) | [Mireya Rivas](https://open.spotify.com/artist/2eYwxBc6FsGFC45eWrEgps), [Chema Rivas](https://open.spotify.com/artist/1tMWkquIkQtVD6vaZlDbSQ) | [Copita Champagne](https://open.spotify.com/album/6u333hTQgleC2pzoNvBKcU) | 2:43 |
 | 44 | [Te conozco desde siempre](https://open.spotify.com/track/0mPFXn6ZBitDfpb6X1JiWF) | [Bombai](https://open.spotify.com/artist/4sbKCRFKQ8sAUn1pWR5iKZ), [Paula Mattheus](https://open.spotify.com/artist/7BL2ojuqTfVuPSD6ViSmHR) | [Te conozco desde siempre](https://open.spotify.com/album/0VVKagAo5uNYBZP68lVHbW) | 2:52 |
 | 45 | [EL FORASTERO](https://open.spotify.com/track/1W4IXAf9YN7FOsdycfu7j8) | [Marmi](https://open.spotify.com/artist/4ckWVaYN8j0EZrNFRHmxZx) | [EL FORASTERO](https://open.spotify.com/album/3L8AXncbQzk35NwewM00X7) | 2:43 |
 | 46 | [Frenesí](https://open.spotify.com/track/3XTmOwWk9zGehWbMzvOnex) | [Danny Romero](https://open.spotify.com/artist/30HlKUFTsqlFQsPfyv2yuM), [Fabbio](https://open.spotify.com/artist/0qKIWMnkTnpE06eoKG7Pf4), [Mozart La Para](https://open.spotify.com/artist/0odliLZMTk45CEVzF3Zocl) | [Frenesí](https://open.spotify.com/album/3LkkwtFWAINR8sxBuADadZ) | 3:24 |
-| 47 | [COMO TE QUIERO YO](https://open.spotify.com/track/5ElBS8iZQYjScNJCtwLXKO) | [Enol](https://open.spotify.com/artist/5f7z2thkqWrA4vp5Hh476O) | [TE TRAJE FLORES](https://open.spotify.com/album/4TFyBwPFFulgy4cPKfeuxA) | 2:57 |
-| 48 | [Pirata](https://open.spotify.com/track/4QE2lll1AHZw20DOnkGmZD) | [Marlon](https://open.spotify.com/artist/1RTZXV2Txeij9hW1C88mfs) | [Pirata](https://open.spotify.com/album/0qNBlTwJDx8h3gfTSBJzYf) | 3:13 |
-| 49 | [Menamorao \(demo\)](https://open.spotify.com/track/1rknipvLh4fVNjrKvwb47B) | [Paul Alone](https://open.spotify.com/artist/6bdtalFIKenjGPCQVI2gtE) | [Menamorao \(demo\)](https://open.spotify.com/album/6FH3E3d1GYsCSvNglmlkzh) | 2:43 |
+| 47 | [Pirata](https://open.spotify.com/track/4QE2lll1AHZw20DOnkGmZD) | [Marlon](https://open.spotify.com/artist/1RTZXV2Txeij9hW1C88mfs) | [Pirata](https://open.spotify.com/album/0qNBlTwJDx8h3gfTSBJzYf) | 3:13 |
+| 48 | [Menamorao \(demo\)](https://open.spotify.com/track/1rknipvLh4fVNjrKvwb47B) | [Paul Alone](https://open.spotify.com/artist/6bdtalFIKenjGPCQVI2gtE) | [Menamorao \(demo\)](https://open.spotify.com/album/6FH3E3d1GYsCSvNglmlkzh) | 2:43 |
+| 49 | [COMO TE QUIERO YO](https://open.spotify.com/track/5ElBS8iZQYjScNJCtwLXKO) | [Enol](https://open.spotify.com/artist/5f7z2thkqWrA4vp5Hh476O) | [TE TRAJE FLORES](https://open.spotify.com/album/4TFyBwPFFulgy4cPKfeuxA) | 2:57 |
 | 50 | [Especial](https://open.spotify.com/track/6WbNx5PkzvfYr2qHOg2TZ6) | [Noan](https://open.spotify.com/artist/5FTh7whdpVYqv00Gi0w5GM) | [Especial](https://open.spotify.com/album/1qYYKmUgYaoMcEvScUhpLS) | 2:44 |
-| 51 | [La buena vida](https://open.spotify.com/track/6izsmJLjlJQF4fYlY5wTih) | [Andrés Koi](https://open.spotify.com/artist/52nf6FtXCWlUMJP1GVhiN2) | [La buena vida](https://open.spotify.com/album/15UKPNMN0uDIOAPYcx9sYi) | 2:58 |
-| 52 | [Allá Donde Voy](https://open.spotify.com/track/0cAixujNFVV5stYiJwjo0g) | [MARLENA](https://open.spotify.com/artist/1IAwO3v7hVP9ryTQtlzc9y) | [Allá Donde Voy](https://open.spotify.com/album/0szbVCjmV0XYSgxyjV72uu) | 2:29 |
+| 51 | [Allá Donde Voy](https://open.spotify.com/track/0cAixujNFVV5stYiJwjo0g) | [MARLENA](https://open.spotify.com/artist/1IAwO3v7hVP9ryTQtlzc9y) | [Allá Donde Voy](https://open.spotify.com/album/0szbVCjmV0XYSgxyjV72uu) | 2:29 |
+| 52 | [La buena vida](https://open.spotify.com/track/6izsmJLjlJQF4fYlY5wTih) | [Andrés Koi](https://open.spotify.com/artist/52nf6FtXCWlUMJP1GVhiN2) | [La buena vida](https://open.spotify.com/album/15UKPNMN0uDIOAPYcx9sYi) | 2:58 |
 
-Snapshot ID: `MCxmMTgzZGJmZDk5ZDNhMWVlYmY4MDg3M2M5MGU0YmI0ZTVjOWI3OGY4`
+Snapshot ID: `MCw2ZDY0ZTMwNWU0MWRjYzVjNzU5NjVkMDA2NzhhY2IzOWM1YjBlNmZj`

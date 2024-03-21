@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTVIaV4KJYuq.md) - [plain]
 
 > All the classic songs you love—covered\. Cover: Brandi Carlile
 
-[Spotify](https://open.spotify.com/user/spotify) - 684,938 likes - 110 songs - 6 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 684,994 likes - 110 songs - 6 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,9 +58,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTVIaV4KJYuq.md) - [plain]
 | 48 | [America](https://open.spotify.com/track/228IDYsx1EAHiuh9xLktmj) | [First Aid Kit](https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1) | [America](https://open.spotify.com/album/1LbsN7ZwjjnafolKPbnDZK) | 3:38 |
 | 49 | [Billie Jean](https://open.spotify.com/track/4YKhIH7BhFErLoV9dgHupm) | [The Civil Wars](https://open.spotify.com/artist/6J7rw7NELJUCThPbAfyLIE) | [Between the Bars](https://open.spotify.com/album/64Z8bWSUBB1Vhox2K5EdBe) | 4:20 |
 | 50 | [In Your Eyes](https://open.spotify.com/track/5c0z1ccAIoZl1okUhiqNOc) | [Ben Abraham](https://open.spotify.com/artist/3FfbgiZhcCkoiI7IzOwXlI) | [In Your Eyes](https://open.spotify.com/album/6rMXObFQHowLksaLis6GXA) | 5:29 |
-| 51 | [I Can Help](https://open.spotify.com/track/6jA2i54oeB8cq1c3YF2YQG) | [Charley Crockett](https://open.spotify.com/artist/3BJX1nYizKvWpZTY5HOAr4) | [I Can Help](https://open.spotify.com/album/5pDNnHHXe81EWs39cvhSjk) | 3:38 |
+| 51 | [Somewhere Only We know \- Live from Spotify, London](https://open.spotify.com/track/7FnHpKPgVC6GE0RRCJNB2T) | [Lily Allen](https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f) | [Spotify Sessions](https://open.spotify.com/album/5cNnduB4QgrxQzaJvEuC8z) | 3:47 |
 | 52 | [Heart of Gold \(Cover\)](https://open.spotify.com/track/05INcg3T8eXcDiCxANH3fR) | [Passenger](https://open.spotify.com/artist/0gadJ2b9A4SKsB1RFkBb66) | [Sunday Night Sessions](https://open.spotify.com/album/2G0bWocjlwYUOkO57TwrIs) | 2:46 |
-| 53 | [Somewhere Only We know \- Live from Spotify, London](https://open.spotify.com/track/7FnHpKPgVC6GE0RRCJNB2T) | [Lily Allen](https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f) | [Spotify Sessions](https://open.spotify.com/album/5cNnduB4QgrxQzaJvEuC8z) | 3:47 |
+| 53 | [I Can Help](https://open.spotify.com/track/6jA2i54oeB8cq1c3YF2YQG) | [Charley Crockett](https://open.spotify.com/artist/3BJX1nYizKvWpZTY5HOAr4) | [I Can Help](https://open.spotify.com/album/5pDNnHHXe81EWs39cvhSjk) | 3:38 |
 | 54 | [Landslide](https://open.spotify.com/track/65nCVhtlWYUzNvcM1MYp4l) | [The Chicks](https://open.spotify.com/artist/25IG9fa7cbdmCIy3OnuH57) | [The Essential The Chicks](https://open.spotify.com/album/31St5diPbTZoCjOwWXSMWD) | 3:48 |
 | 55 | [This Must Be the Place \(Naive Melody\) \[by Talking Heads\]](https://open.spotify.com/track/7nSomK5Wrh8KWUCJbluEgo) | [Kishi Bashi](https://open.spotify.com/artist/3LVPGE5jPPwtbGslx07YR0) | [7" Singles](https://open.spotify.com/album/46QQwFMdIzeLyBfIeQrqYp) | 3:26 |
 | 56 | [Wicked Game](https://open.spotify.com/track/7aVUPpEb9j2sSmgb4AdFWD) | [Widowspeak](https://open.spotify.com/artist/5ZW7HlSuZz8ng2X21cXbdP) | [Gun Shy](https://open.spotify.com/album/49s4gydDx5gPMsr7a7qoh6) | 4:11 |
@@ -73,8 +73,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTVIaV4KJYuq.md) - [plain]
 | 63 | [Wouldn't It Be Nice](https://open.spotify.com/track/0p9iW5SZgKuxF2Tnodh316) | [Trousdale](https://open.spotify.com/artist/26DvqLYszG0oIOeelTF5kE) | [Wouldn't It Be Nice](https://open.spotify.com/album/1PT5g9fRMIqfpwPzRkAmFy) | 2:47 |
 | 64 | [Don't Worry Baby](https://open.spotify.com/track/0nR0ejXiTIg57q07kTL5ZL) | [The Brook & The Bluff](https://open.spotify.com/artist/4dWtsQvuME6tCWFycaTvO7) | [Don't Worry Baby](https://open.spotify.com/album/5I1YyRxt5Gy6hptZI4fcVw) | 3:00 |
 | 65 | [Dance Me to the End of Love \(Bonus\)](https://open.spotify.com/track/6WoJzSRQeROe5MNpf7cPDu) | [The Civil Wars](https://open.spotify.com/artist/6J7rw7NELJUCThPbAfyLIE) | [Barton Hollow](https://open.spotify.com/album/4uWgDFxGAp7XlVSHuVBv4E) | 3:05 |
-| 66 | [It's Only Rock 'N' Roll \(But I Like It\)](https://open.spotify.com/track/001c1daR1pFdqfpe1vAWzh) | [Brothers Osborne](https://open.spotify.com/artist/39NR3AUhpbbqKM33vWn2fp), [The War And Treaty](https://open.spotify.com/artist/6HhV0jtMMK5HYnYgG0xgtz) | [It's Only Rock 'N' Roll \(But I Like It\)](https://open.spotify.com/album/1GCjwU2CejKwooZG68QBqb) | 5:22 |
-| 67 | [If It Makes You Happy](https://open.spotify.com/track/7ia7SaMGhr00G8EX5DMiFq) | [Wesley Schultz](https://open.spotify.com/artist/2wi1WuV2YwenP09E5iBZjX) | [Vignettes](https://open.spotify.com/album/3q2dNzIenzJnFyDmV7cY3M) | 4:15 |
+| 66 | [If It Makes You Happy](https://open.spotify.com/track/7ia7SaMGhr00G8EX5DMiFq) | [Wesley Schultz](https://open.spotify.com/artist/2wi1WuV2YwenP09E5iBZjX) | [Vignettes](https://open.spotify.com/album/3q2dNzIenzJnFyDmV7cY3M) | 4:15 |
+| 67 | [It's Only Rock 'N' Roll \(But I Like It\)](https://open.spotify.com/track/001c1daR1pFdqfpe1vAWzh) | [Brothers Osborne](https://open.spotify.com/artist/39NR3AUhpbbqKM33vWn2fp), [The War And Treaty](https://open.spotify.com/artist/6HhV0jtMMK5HYnYgG0xgtz) | [It's Only Rock 'N' Roll \(But I Like It\)](https://open.spotify.com/album/1GCjwU2CejKwooZG68QBqb) | 5:22 |
 | 68 | [Hallelujah](https://open.spotify.com/track/0wDRNOFe1nzWFDQc5FoKk1) | [Tenille Townes](https://open.spotify.com/artist/3TyeX0lk4B7k56ukfzEE0z) | [Hallelujah](https://open.spotify.com/album/0s4mjch2kYLFQQNbgPNbuE) | 3:49 |
 | 69 | [Believe](https://open.spotify.com/track/1ty3N197je3o1dN0F6Fu1G) | [Madilyn Bailey](https://open.spotify.com/artist/0NxhAEPOSeCg6vypFr7yjU) | [Believe](https://open.spotify.com/album/2fEYL3YBVILeEuiKJL7S2n) | 3:56 |
 | 70 | [Let’s Dance](https://open.spotify.com/track/2GeeOvZ02vgWehu9Sl8tX8) | [M\. Ward](https://open.spotify.com/artist/6nXSnNEdLuKTzAQozRtqiI) | [Transfiguration of Vincent](https://open.spotify.com/album/4teFdvjZVz0nud7aGZ8jjS) | 5:00 |
@@ -115,8 +115,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTVIaV4KJYuq.md) - [plain]
 | 105 | [Anthem](https://open.spotify.com/track/2oubpFgSp6kOuL4XeBIHe9) | [Father John Misty](https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT) | [Anthem +3](https://open.spotify.com/album/6QjbX8JjvSfG5daXAeQKEU) | 5:45 |
 | 106 | [Unchained Melody \(feat\. The Chapin Sisters\)](https://open.spotify.com/track/6FRePTC2w57kLtE4rg20N1) | [She & Him](https://open.spotify.com/artist/3CIRif6ZAedT7kZSPvj2A4), [The Chapin Sisters](https://open.spotify.com/artist/6t28TiXfX7V14H4hAxBarM) | [Classics](https://open.spotify.com/album/5TAVRgiAR2E79dQ1HrljqX) | 3:50 |
 | 107 | [Pink Moon](https://open.spotify.com/track/5SW6BhWTAJenEneGruiijj) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [The Moon And Stars: Prescriptions For Dreamers \(Deluxe Edition\)](https://open.spotify.com/album/1zShXPlRJNXANZolct3VzL) | 2:25 |
-| 108 | [You'll Never Walk Alone](https://open.spotify.com/track/1x8Wm6urdzbDZcWpjtIUTK) | [Brittany Howard](https://open.spotify.com/artist/4XquDVA8pkg5Lx91No1JxB) | [You'll Never Walk Alone](https://open.spotify.com/album/7CAxZhdr8hiyDQYJrF8UnM) | 1:58 |
-| 109 | [Home](https://open.spotify.com/track/0xi6e2yX8GxvygU2g4noDc) | [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [Home](https://open.spotify.com/album/7HJujLCjpNW735tY2vhgmc) | 3:32 |
+| 108 | [Home](https://open.spotify.com/track/0xi6e2yX8GxvygU2g4noDc) | [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [Home](https://open.spotify.com/album/7HJujLCjpNW735tY2vhgmc) | 3:32 |
+| 109 | [You'll Never Walk Alone](https://open.spotify.com/track/1x8Wm6urdzbDZcWpjtIUTK) | [Brittany Howard](https://open.spotify.com/artist/4XquDVA8pkg5Lx91No1JxB) | [You'll Never Walk Alone](https://open.spotify.com/album/7CAxZhdr8hiyDQYJrF8UnM) | 1:58 |
 | 110 | [Twelve\-Thirty \(Young Girls Are Coming To The Canyon\) \(feat\. Susanna Hoffs, Chris Stills & Sheryl Crow\)](https://open.spotify.com/track/19Hwwg9WvG4jQaMtpOUkRI) | [Rufus Wainwright](https://open.spotify.com/artist/2PfBzriIMRsCXPDtSy9vg8), [Susanna Hoffs](https://open.spotify.com/artist/2Sc4ukCRllIu02LZfHF0RL), [Chris Stills](https://open.spotify.com/artist/73BKaGq96QFgdnRXU3v0t7), [Sheryl Crow](https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD) | [Folkocracy](https://open.spotify.com/album/4FYVErCjwVvkO3XpDFtOQ2) | 3:42 |
 
-Snapshot ID: `MCw4NDE5MzBiZTZjZTBjYTBjZTY5MTRiZjQzN2MwZDU0MDhhMWIxNTUw`
+Snapshot ID: `MCw5NzJiZTViNDM2ZjkwZmMxMzE0MjM2N2MwYTA4YTk3NWNmZjlmOGZj`

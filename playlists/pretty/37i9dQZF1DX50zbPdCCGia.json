@@ -1,12 +1,12 @@
 {
   "description": "The best soft rock from the 1970s. Cover: Styx",
-  "num_followers": 238686,
+  "num_followers": 238771,
   "original_name": "70s Soft Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkMTFkZWM0MWJiMTkyMjFkZDVjMWMzMDk0YzY1NjViYWRmNGU3YjMz",
+  "snapshot_id": "MCwzZTA4YWZmNDU3Yjk2MmRkZDVmMmVmMDQ3NGE4ODA3NWQxNzE5MGVl",
   "tracks": [
     {
       "added_at": "2023-03-29 17:34:27",
@@ -1039,8 +1039,8 @@
     {
       "added_at": "2023-03-29 17:34:27",
       "album": {
-        "name": "Turnstiles",
-        "url": "https://open.spotify.com/album/7GiLfxL1su3MSqz7pmKMZi"
+        "name": "The Stranger",
+        "url": "https://open.spotify.com/album/3IILMjMMnoN2sKzgesX8KV"
       },
       "artists": [
         {
@@ -1048,9 +1048,9 @@
           "url": "https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e"
         }
       ],
-      "duration_ms": 199960,
-      "name": "Summer, Highland Falls",
-      "url": "https://open.spotify.com/track/4850v7DuT7raVYAWc1ODPv"
+      "duration_ms": 214240,
+      "name": "Vienna",
+      "url": "https://open.spotify.com/track/7gREIuHognJFspylIDJ94p"
     },
     {
       "added_at": "2023-03-29 17:34:27",
@@ -1199,8 +1199,8 @@
     {
       "added_at": "2023-03-29 17:34:27",
       "album": {
-        "name": "The Stranger",
-        "url": "https://open.spotify.com/album/3IILMjMMnoN2sKzgesX8KV"
+        "name": "Turnstiles",
+        "url": "https://open.spotify.com/album/7GiLfxL1su3MSqz7pmKMZi"
       },
       "artists": [
         {
@@ -1208,9 +1208,9 @@
           "url": "https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e"
         }
       ],
-      "duration_ms": 214240,
-      "name": "Vienna",
-      "url": "https://open.spotify.com/track/7gREIuHognJFspylIDJ94p"
+      "duration_ms": 199960,
+      "name": "Summer, Highland Falls",
+      "url": "https://open.spotify.com/track/4850v7DuT7raVYAWc1ODPv"
     }
   ],
   "unique_name": "70s Soft Rock",

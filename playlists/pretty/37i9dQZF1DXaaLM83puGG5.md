@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaaLM83puGG5.md) - [plain]
 
 > Keeping the party going with <a href="https://www.instagram.com/sweetone.jpg/">Sweet One!</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 446,175 likes - 50 songs - 3 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 446,303 likes - 50 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaaLM83puGG5.md) - [plain]
 | 17 | [Tell Me It's Over \(feat\. Summer Walker & 6LACK\)](https://open.spotify.com/track/2cue4DdCwO7himRLESpWk5) | [Jacquees](https://open.spotify.com/artist/4tMm1dU6Gn04VAZ9ClHcIZ), [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS), [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83) | [Sincerely For You](https://open.spotify.com/album/6KqdU8DuBJiho89Rjznzze) | 4:41 |
 | 18 | [Me & U](https://open.spotify.com/track/4nFrcGM7MY1mpoQCC7Kefj) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [Me & U](https://open.spotify.com/album/0D1Qm49Hq9cwYbRDeC1HGa) | 3:12 |
 | 19 | [Over](https://open.spotify.com/track/1DOgkaR5Gqa8JtPEIbQORC) | [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [Over](https://open.spotify.com/album/5AnJbiMebwoHI7mwgbhv2H) | 3:25 |
-| 20 | [Sinner](https://open.spotify.com/track/4xiQIdWJI5uT6772AxDe9g) | [Kelz2busy](https://open.spotify.com/artist/7rk80kubaj220eDZQvFYU6) | [Sinner](https://open.spotify.com/album/1uUYrt95TGLSNkjrdjvoOt) | 1:39 |
+| 20 | [Sinner](https://open.spotify.com/track/7fuDGYEbVcW9fJUhrDeOXV) | [Kelz2busy](https://open.spotify.com/artist/7rk80kubaj220eDZQvFYU6) | [Sinner](https://open.spotify.com/album/1legD3bkAr8HutjWGJ2ZS3) | 1:39 |
 | 21 | [Clouded](https://open.spotify.com/track/2J6OF7CkpdQGSfm1wdclqn) | [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG) | [Fuck The World](https://open.spotify.com/album/3vi20DRHkqv4HyVg9Rt9wC) | 1:50 |
 | 22 | [U Already Know](https://open.spotify.com/track/0ahRDzkKq0KEi7FRoHb0qk) | [112](https://open.spotify.com/artist/7urq0VfqxEYEEiZUkebXT4) | [Pleasure & Pain](https://open.spotify.com/album/3gY1qUrGzKNQnorPC9Lu72) | 3:18 |
 | 23 | [All Night Long \- from Waiting to Exhale \- Original Soundtrack](https://open.spotify.com/track/7wuiuKc2Bd5xLPPggdkxLr) | [SWV](https://open.spotify.com/artist/2NmK5FyrQ18HOPXq1UBzqa) | [Waiting To Exhale](https://open.spotify.com/album/2EHFZkzTbRFDt1tomCBToM) | 4:31 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaaLM83puGG5.md) - [plain]
 | 49 | [Getting Late](https://open.spotify.com/track/0khnsS3vcqT6qngEhZCk4c) | [Floetry](https://open.spotify.com/artist/0un6YenPxWZ2VW4aFGMupM) | [Floetic](https://open.spotify.com/album/37dLqaW3KP18Aeqesq0Exi) | 6:46 |
 | 50 | [Falsetto](https://open.spotify.com/track/2P1e3xpjDhYFqOFeu8IWzS) | [The\-Dream](https://open.spotify.com/artist/1W3FSF1BLpY3hlVIgvenLz) | [Love/Hate](https://open.spotify.com/album/5yZReyaWQzR6jvaw4OBxzV) | 4:31 |
 
-Snapshot ID: `MCw3ZTQxOGY2MjU1NDFlNjc4N2JkOTBhNmM3NTkyZTUxNjZmYmEzZTQy`
+Snapshot ID: `MCxiNzgyMjIyMzRhYTQwMDgzN2JiNTQyMDA4YzAwNWMwMTNiMTExMDcz`

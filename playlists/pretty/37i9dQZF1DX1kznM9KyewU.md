@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1kznM9KyewU.md) - [plain]
 
 > Rock that was on repeat during the summers of the 1990s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 74,614 likes - 90 songs - 6 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 74,616 likes - 90 songs - 6 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1kznM9KyewU.md) - [plain]
 | 34 | [All I Wanna Do](https://open.spotify.com/track/3ZpQiJ78LKINrW9SQTgbXd) | [Sheryl Crow](https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD) | [Tuesday Night Music Club](https://open.spotify.com/album/7dC6axVAeBDpRMmNtRbpwU) | 4:32 |
 | 35 | [Lithium](https://open.spotify.com/track/2YodwKJnbPyNKe8XXSE9V7) | [Nirvana](https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh) | [Nevermind \(Remastered\)](https://open.spotify.com/album/2guirTSEqLizK7j9i1MTTZ) | 4:17 |
 | 36 | [Nookie](https://open.spotify.com/track/1TEZWG1FdjzDdercCguTwj) | [Limp Bizkit](https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb) | [Significant Other](https://open.spotify.com/album/3HCCUaRSjHSFOe4fqE0BiP) | 4:49 |
-| 37 | [Smooth \(feat\. Rob Thomas\)](https://open.spotify.com/track/0n2SEXB2qoRQg171q7XqeW) | [Santana](https://open.spotify.com/artist/6GI52t8N5F02MxU0g5U69P), [Rob Thomas](https://open.spotify.com/artist/3aBkeBhwadnWMWoVJ2CxJC) | [Supernatural \(Remastered\)](https://open.spotify.com/album/10aiDpdFGyfCFEcqpx6XTq) | 4:54 |
-| 38 | [You Could Be Mine](https://open.spotify.com/track/0dlTGl67UFWcKupzkxZYOn) | [Guns N' Roses](https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC) | [Use Your Illusion II](https://open.spotify.com/album/00eiw4KOJZ7eC3NBEpmH4C) | 5:43 |
+| 37 | [You Could Be Mine](https://open.spotify.com/track/0dlTGl67UFWcKupzkxZYOn) | [Guns N' Roses](https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC) | [Use Your Illusion II](https://open.spotify.com/album/00eiw4KOJZ7eC3NBEpmH4C) | 5:43 |
+| 38 | [Smooth \(feat\. Rob Thomas\)](https://open.spotify.com/track/0n2SEXB2qoRQg171q7XqeW) | [Santana](https://open.spotify.com/artist/6GI52t8N5F02MxU0g5U69P), [Rob Thomas](https://open.spotify.com/artist/3aBkeBhwadnWMWoVJ2CxJC) | [Supernatural \(Remastered\)](https://open.spotify.com/album/10aiDpdFGyfCFEcqpx6XTq) | 4:54 |
 | 39 | [Runaway Train \(2022 Remaster\)](https://open.spotify.com/track/3TW48DvQ7ChwY1Yy1tkMaP) | [Soul Asylum](https://open.spotify.com/artist/02da1vDJ2hWqfK7aJL6SJm) | [Grave Dancers Union \(2022 Remaster\)](https://open.spotify.com/album/3EFhsxrJoH3yE3r8bHheE6) | 4:26 |
 | 40 | [Two Princes](https://open.spotify.com/track/4ePP9So5xRzspjLFVVbj90) | [Spin Doctors](https://open.spotify.com/artist/2PSiyldxmJze7xiqbz658m) | [Pocket Full Of Kryptonite](https://open.spotify.com/album/2TWdmpnFNCMlZDQROleupK) | 4:16 |
 | 41 | [Girls & Boys](https://open.spotify.com/track/5CeL9C3bsoe4yzYS1Qz8cw) | [Blur](https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS) | [Blur: The Best Of](https://open.spotify.com/album/1bgkxe4t0HNeLn9rhrx79x) | 4:19 |
@@ -62,15 +62,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1kznM9KyewU.md) - [plain]
 | 52 | [Unbelievable](https://open.spotify.com/track/5VYTKiOnHw4iTrB9pG3yum) | [EMF](https://open.spotify.com/artist/39oSLGo3HkaeYXzUEGgAGQ) | [Schubert Dip](https://open.spotify.com/album/475PE6J6LTBGBpt26rRrHe) | 3:29 |
 | 53 | [Wherever I May Roam \(Remastered\)](https://open.spotify.com/track/745sNpjWbAxo2MA2zSYbyD) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Metallica \(Remastered\)](https://open.spotify.com/album/55fq75UfkYbGMq4CncCtOH) | 6:44 |
 | 54 | [Coffee & TV](https://open.spotify.com/track/5eSllZgRWCIJsDTAqFRwQw) | [Blur](https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS) | [13](https://open.spotify.com/album/5YuZ4DjvtZBywtIbHIqtGJ) | 5:58 |
-| 55 | [Let Her Cry](https://open.spotify.com/track/6NGi23FFKq9tH5NR1NcTw2) | [Hootie & The Blowfish](https://open.spotify.com/artist/08ct2eZF5lUPdJpHwNKWof) | [Cracked Rear View](https://open.spotify.com/album/5AYmpTfdv1OoASUJ5rZB7K) | 5:18 |
-| 56 | [American Woman](https://open.spotify.com/track/3X6iIrFuQoCshIWBseEKPl) | [Lenny Kravitz](https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7) | [5](https://open.spotify.com/album/6MCNMOCRsh6nxs7PNzc0zN) | 4:24 |
+| 55 | [American Woman](https://open.spotify.com/track/3X6iIrFuQoCshIWBseEKPl) | [Lenny Kravitz](https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7) | [5](https://open.spotify.com/album/6MCNMOCRsh6nxs7PNzc0zN) | 4:24 |
+| 56 | [Let Her Cry](https://open.spotify.com/track/6NGi23FFKq9tH5NR1NcTw2) | [Hootie & The Blowfish](https://open.spotify.com/artist/08ct2eZF5lUPdJpHwNKWof) | [Cracked Rear View](https://open.spotify.com/album/5AYmpTfdv1OoASUJ5rZB7K) | 5:18 |
 | 57 | [Machinehead](https://open.spotify.com/track/6dJODklApmve5IzgKWUqV2) | [Bush](https://open.spotify.com/artist/78SHxLdtysAXgywQ4vE0Oa) | [Sixteen Stone \(Remastered\)](https://open.spotify.com/album/5IJm0boSQuEBLiYNZJKV2Y) | 4:16 |
 | 58 | [Life Is A Highway](https://open.spotify.com/track/7jIFGkTBIK1UwWaEXMW2Nh) | [Tom Cochrane](https://open.spotify.com/artist/5Jj4mqGYiplyowPLKkJLHt) | [Mad Mad World \(Deluxe\)](https://open.spotify.com/album/1Jn0dHH6ztd0CD7lstrIR8) | 4:26 |
 | 59 | [Pink](https://open.spotify.com/track/0Xl2pAlIRE6ANULPdEI7fx) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Nine Lives](https://open.spotify.com/album/1WEfOTItaPIa0dVxxLJqlI) | 3:55 |
 | 60 | [The Freshmen](https://open.spotify.com/track/21jEuMn2lf37715rwjow2M) | [The Verve Pipe](https://open.spotify.com/artist/242iqFnwNhlidVBMI9GYKp) | [Villains](https://open.spotify.com/album/3sV3CL42DZ8C11MuQwVUEi) | 4:29 |
 | 61 | [Unskinny Bop](https://open.spotify.com/track/1Z6lKdYhwp8WYoBqGCKxlM) | [Poison](https://open.spotify.com/artist/1fBCIkoPOPCDLUxGuWNvyo) | [Flesh & Blood](https://open.spotify.com/album/7alngtync76VqYWSKxcBhB) | 3:48 |
-| 62 | [Love of a Lifetime \(2024 Remaster\)](https://open.spotify.com/track/2kDH08boXJyhKMl5hnZbrE) | [Firehouse](https://open.spotify.com/artist/28pS8WVbFstY0o1SrqCf8I) | [Firehouse \(2024 Remaster\)](https://open.spotify.com/album/1qO6xwjpMSZ5qLexoXs43T) | 4:45 |
-| 63 | [You Learn \- 2015 Remaster](https://open.spotify.com/track/4l7YIni9bAiGwWMqK5wvgV) | [Alanis Morissette](https://open.spotify.com/artist/6ogn9necmbUdCppmNnGOdi) | [Jagged Little Pill \(2015 Remaster\)](https://open.spotify.com/album/5Ap3F8CxjjsQKZGASDcHNA) | 3:59 |
+| 62 | [You Learn \- 2015 Remaster](https://open.spotify.com/track/4l7YIni9bAiGwWMqK5wvgV) | [Alanis Morissette](https://open.spotify.com/artist/6ogn9necmbUdCppmNnGOdi) | [Jagged Little Pill \(2015 Remaster\)](https://open.spotify.com/album/5Ap3F8CxjjsQKZGASDcHNA) | 3:59 |
+| 63 | [Love of a Lifetime \(2024 Remaster\)](https://open.spotify.com/track/2kDH08boXJyhKMl5hnZbrE) | [Firehouse](https://open.spotify.com/artist/28pS8WVbFstY0o1SrqCf8I) | [Firehouse \(2024 Remaster\)](https://open.spotify.com/album/1qO6xwjpMSZ5qLexoXs43T) | 4:45 |
 | 64 | [Ava Adore](https://open.spotify.com/track/6bVB2MGR7LcotAIB1vfpw6) | [The Smashing Pumpkins](https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i) | [Adore \(Super Deluxe\)](https://open.spotify.com/album/7ysKTnHt4ve0MvIWm3vPdz) | 4:30 |
 | 65 | [Livin' On The Edge](https://open.spotify.com/track/6OZAcgTPxmjUTuiatU0Viq) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Big Ones](https://open.spotify.com/album/2uT123xlHuqvz14JR0KQSs) | 6:21 |
 | 66 | [Wishlist](https://open.spotify.com/track/7hObovvcbBpXgZHQ9if4WU) | [Pearl Jam](https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56) | [Yield](https://open.spotify.com/album/5zsDtoSrXK4usJ4MB1tCh2) | 3:26 |
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1kznM9KyewU.md) - [plain]
 | 89 | [Secretly](https://open.spotify.com/track/0dw3ZgJ3h4ICWxGsoaz4dm) | [Skunk Anansie](https://open.spotify.com/artist/5HlXA01kcjssYDT7EoqUJF) | [Post Orgasmic Chill](https://open.spotify.com/album/4WznTvC9d1Oino7gLS8XHq) | 4:45 |
 | 90 | [Doubleback](https://open.spotify.com/track/5do2NQzjriskVEaFM2z4ge) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [Recycler](https://open.spotify.com/album/4ItwdwD5kWC4Wa9tIl0eEq) | 3:56 |
 
-Snapshot ID: `MCxmM2Y4YWEzMWY3NjE5ODdlODAzN2E4MjU0MDM2YTNmNTQzMTBjZjM3`
+Snapshot ID: `MCw1MjUyYmExYTZhMTk5NTdhYzcxZDE5NjkyMTljZWQ1N2ZlNjlkNzZh`

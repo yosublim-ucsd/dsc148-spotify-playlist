@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUuQG5KIiBcn.md) - [plain]
 
 > Corridos viejitos que cuentan los hechos reales de nuestro pueblo\. Chalino Sánchez en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 594,111 likes - 75 songs - 3 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 594,537 likes - 75 songs - 3 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,13 +33,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUuQG5KIiBcn.md) - [plain]
 | 23 | [Carrera A Muerte](https://open.spotify.com/track/2rJBndq82AOiGEEE84im02) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [Joan Sebastian Con Tambora](https://open.spotify.com/album/3gue1ilvSw4e4wyPANg8vJ) | 3:39 |
 | 24 | [Catarino y Los Rurales](https://open.spotify.com/track/33JJG2BO1r1u57K2XpwfmK) | [El As De La Sierra](https://open.spotify.com/artist/6uQMkB156uIN27tFar9qQl) | [El Heredero Del Cartel](https://open.spotify.com/album/4bq24Gh63VIRn6v41VJVhs) | 2:54 |
 | 25 | [Hermanos Mata](https://open.spotify.com/track/65FVNeobrosMmZPQDMo185) | [Chalino Sanchez](https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq), [Los Amables Del Norte](https://open.spotify.com/artist/7r1Ecc2TAxhyLeGac53N6K) | [Nieves de Enero](https://open.spotify.com/album/69CnGWLFrxlYAl5ku4q5XV) | 3:48 |
-| 26 | [El Profeta](https://open.spotify.com/track/5z6eExs1VVrcaYQfXxO0Ty) | [Grupo Laberinto](https://open.spotify.com/artist/24z2EWgF5nVUKnbJHd9ku2) | [El Profeta Y Otros Caballos Famosos](https://open.spotify.com/album/6Iu29SjR3LXC83oi01126g) | 3:24 |
+| 26 | [El Panamá West](https://open.spotify.com/track/2ifRNH5dVcY2wW5Z3YDiUd) | [Grupo Laberinto](https://open.spotify.com/artist/24z2EWgF5nVUKnbJHd9ku2) | [Me Traes de un Ala](https://open.spotify.com/album/3us0ln0heM9tVS0EGihj1y) | 2:31 |
 | 27 | [Se Les Pelo Baltazar](https://open.spotify.com/track/6WuJdz1dLYTK9sTgl4gXxg) | [Los Cachorros de Juan Villarreal](https://open.spotify.com/artist/0GOXTf63jIMlOB5Y587SJp) | [Corridos De Oro](https://open.spotify.com/album/077RnVapHLO1Zf6p4RMN14) | 2:33 |
 | 28 | [La Cheyene del Año](https://open.spotify.com/track/1k1kg1xFTxodz5bhh1WIG3) | [Banda El Recodo](https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC) | [De Mexico para el Mundo](https://open.spotify.com/album/32TIJn1x8SCsHVCswGnQZQ) | 3:00 |
 | 29 | [La Camioneta Gris](https://open.spotify.com/track/7e9vWIQWNE6r74PBC7ixdS) | [Los Tigres Del Norte](https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy) | [Corridos Prohibidos](https://open.spotify.com/album/6ur3OZ3UXA4Y4IgLpMW5Rw) | 3:15 |
 | 30 | [Cruz De Madera](https://open.spotify.com/track/4FcYptmG7nIfAH9XW8R4YA) | [Miguel Y Miguel](https://open.spotify.com/artist/7fmQXLCgx5q0vkGArvS6mm) | [Cruz De Madera](https://open.spotify.com/album/6D9a2VeAyvMqcCN27uzi4V) | 2:52 |
 | 31 | [Mario Peralta](https://open.spotify.com/track/6HRpgUqFOM2qHJv0jgygu8) | [Chalino Sanchez](https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq), [Los Amables Del Norte](https://open.spotify.com/artist/7r1Ecc2TAxhyLeGac53N6K) | [Adiós A Chalino](https://open.spotify.com/album/1bNgOfg4GnCmHoF52wdVVF) | 3:10 |
-| 32 | [El Panamá West](https://open.spotify.com/track/2ifRNH5dVcY2wW5Z3YDiUd) | [Grupo Laberinto](https://open.spotify.com/artist/24z2EWgF5nVUKnbJHd9ku2) | [Me Traes de un Ala](https://open.spotify.com/album/3us0ln0heM9tVS0EGihj1y) | 2:31 |
+| 32 | [El Profeta](https://open.spotify.com/track/5z6eExs1VVrcaYQfXxO0Ty) | [Grupo Laberinto](https://open.spotify.com/artist/24z2EWgF5nVUKnbJHd9ku2) | [El Profeta Y Otros Caballos Famosos](https://open.spotify.com/album/6Iu29SjR3LXC83oi01126g) | 3:24 |
 | 33 | [Veinte Mujeres De Negro](https://open.spotify.com/track/6dSDh142ee5UPeMnwh14pm) | [Los Huracanes del Norte](https://open.spotify.com/artist/2wmwGWrqRizLaSEYrm5dzZ) | [Norteño 2000](https://open.spotify.com/album/7tOJ88Jeuo8aOOwKMrsHdv) | 2:43 |
 | 34 | [Soy Albañil](https://open.spotify.com/track/5dBBdICmRbmr3k49A5Je1i) | [Carlos Y Jose](https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb) | [15 Éxitos](https://open.spotify.com/album/0JhXGPB09fcgetkpyy7p6R) | 2:45 |
 | 35 | [La Mesera](https://open.spotify.com/track/2QWPE9utfwQQdUc7YlLmiY) | [Luis y Julian](https://open.spotify.com/artist/5lcjVQ4c220HJHr0AuZXdl) | [El Hijo Del Viejo](https://open.spotify.com/album/7twG1hwEyyfh4EAnH0FaLP) | 3:22 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUuQG5KIiBcn.md) - [plain]
 | 74 | [El Barzon](https://open.spotify.com/track/3QwBIH2IqujOVmZmnymHFa) | [Luis Pérez Meza](https://open.spotify.com/artist/1njDUvTLxvzE1QO8wN39eT) | [Sus Mas Grandes Exitos](https://open.spotify.com/album/4KKB85ZOmzv68N5UELFUpS) | 2:44 |
 | 75 | [Kilómetro 1160](https://open.spotify.com/track/1vxxC9RJh9BHfKpnh4vKTs) | [Luis y Julian](https://open.spotify.com/artist/5lcjVQ4c220HJHr0AuZXdl) | [20 Corridos Valientes](https://open.spotify.com/album/7zCFxesPCL1RysW5h2UFNE) | 3:12 |
 
-Snapshot ID: `MCwzOWFhZmRjZGY1MzFjNWY2YjExMmEyMDQ2MWQzODk5MzA1ZTQzYzBj`
+Snapshot ID: `MCw2MjU4NWJiNmI3ODc3OGUxZTU0NzQzMDViYmYwODVmMjRmZmU5NjRm`

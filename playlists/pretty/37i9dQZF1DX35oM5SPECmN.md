@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35oM5SPECmN.md) - [plain]
 
 > Uplifting and uptempo indie folk and roots rock, guaranteed to open your stride.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,336,318 likes - 75 songs - 4 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,336,458 likes - 75 songs - 4 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35oM5SPECmN.md) - [plain]
 | 37 | [Not Dead Yet](https://open.spotify.com/track/5NRbNXwXHM9mYgxMhzVWTP) | [Lord Huron](https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25) | [Not Dead Yet](https://open.spotify.com/album/044x9ycjGCrCHA6TcjaK8w) | 2:57 |
 | 38 | [Morning Light](https://open.spotify.com/track/65LAG4XH7Oq0mZhFdPYqO4) | [Wilderado](https://open.spotify.com/artist/1Tp7C6LzxZe9Mix6rn4zbI) | [Latigo EP](https://open.spotify.com/album/62C9L1UCLOvvlu7Jb2FRRE) | 3:40 |
 | 39 | [See the World](https://open.spotify.com/track/0YPX6ztcWM4QTbR9tpnHNB) | [Brett Dennen](https://open.spotify.com/artist/0FC1LIeQXKib0jOwZqeIwT) | [See the World](https://open.spotify.com/album/4mWXndqtN0KU5ndYussdyK) | 4:17 |
-| 40 | [Ain't No Grave](https://open.spotify.com/track/0ymhUnNSuTEdKCRYEVpWOS) | [Crooked Still](https://open.spotify.com/artist/7LOJ56d8VmOebynlV01KfU) | [Shaken By A Low Sound](https://open.spotify.com/album/1MXfI5PVHDjkZJrlM9aFkp) | 3:21 |
-| 41 | [Uh Huh](https://open.spotify.com/track/5sRyU2xqnQvCzL6L0OMD37) | [Jade Bird](https://open.spotify.com/artist/7D8LuVnlyu91ndcPe70j7S) | [Jade Bird](https://open.spotify.com/album/0uM13moSmPXlIV41oSA6U8) | 2:22 |
+| 40 | [Uh Huh](https://open.spotify.com/track/5sRyU2xqnQvCzL6L0OMD37) | [Jade Bird](https://open.spotify.com/artist/7D8LuVnlyu91ndcPe70j7S) | [Jade Bird](https://open.spotify.com/album/0uM13moSmPXlIV41oSA6U8) | 2:22 |
+| 41 | [Ain't No Grave](https://open.spotify.com/track/0ymhUnNSuTEdKCRYEVpWOS) | [Crooked Still](https://open.spotify.com/artist/7LOJ56d8VmOebynlV01KfU) | [Shaken By A Low Sound](https://open.spotify.com/album/1MXfI5PVHDjkZJrlM9aFkp) | 3:21 |
 | 42 | [Barton Hollow](https://open.spotify.com/track/6ZOBY9RG2tcxXX0ohKtfRc) | [The Civil Wars](https://open.spotify.com/artist/6J7rw7NELJUCThPbAfyLIE) | [Barton Hollow](https://open.spotify.com/album/4uWgDFxGAp7XlVSHuVBv4E) | 3:25 |
 | 43 | [Survivor](https://open.spotify.com/track/2565zrwkcli0D88IVw2rCg) | [Nathaniel Rateliff & The Night Sweats](https://open.spotify.com/artist/02seUFsFQP7TH4hLrTj77o) | [The Future](https://open.spotify.com/album/48KAdMIRvmqIq7py0qw3rh) | 4:01 |
 | 44 | [I Need a Teacher](https://open.spotify.com/track/7nvAdiuXhFeHICyy2OzOcS) | [Hiss Golden Messenger](https://open.spotify.com/artist/37eqxl8DyLd5sQN54wYJbE) | [Terms of Surrender](https://open.spotify.com/album/4eKRqA554vK2k4khe190Yu) | 3:17 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35oM5SPECmN.md) - [plain]
 | 74 | [Grace](https://open.spotify.com/track/4i4gcJSMofr3Pe9YWThzRp) | [Marcus Mumford](https://open.spotify.com/artist/3bYcjbVAN3rAuU3TMzw2mB) | [\(self\-titled\)](https://open.spotify.com/album/1vTQ7l9DHERJJYPMsKGpxE) | 4:13 |
 | 75 | [Own Alone](https://open.spotify.com/track/2wSJmOCCeO3Nvq1eRqJuTD) | [Bahamas](https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt) | [Sad Hunk](https://open.spotify.com/album/0vWNWn7PcEotOycEtBC7br) | 3:15 |
 
-Snapshot ID: `MCwyMzdmZmRiYWIyM2Y0MTFlNTdhNmIxOGY0MDY2MjNlYWQ3N2UyYjI0`
+Snapshot ID: `MCxmMjRiOGQ2YTA4ZmVlOTM5OTIyNzUzNTljMzhlMTFmN2ZjY2RkNDdh`

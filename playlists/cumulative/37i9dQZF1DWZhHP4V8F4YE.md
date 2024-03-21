@@ -4,7 +4,7 @@
 
 > All the vibes, enjoyment and future hits right here
 
-593 songs - 1 day 11 hr 55 min
+594 songs - 1 day 11 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,7 +55,8 @@
 | [Attack of the Killer Beast \(Phonk\)](https://open.spotify.com/track/1nJOtOQJqzHaxh8kzuudxR) | [SXCREDMANE](https://open.spotify.com/artist/7MLzeghYGtox25YcP078j9) | [Attack of the Killer Beast \(Phonk\)](https://open.spotify.com/album/2Co4pvEvpsBHIGXufGc3p3) | 2:16 | 2023-03-07 | 2023-03-21 |
 | [Attends](https://open.spotify.com/track/1rMnlh7YO6lb9dGZiasVwt) | [brazy](https://open.spotify.com/artist/5qdXUxsjbP0UAig0CtqO5b) | [Attends](https://open.spotify.com/album/6rRwP9eQqtS03jtLomkFvB) | 2:25 | 2023-02-28 | 2023-03-08 |
 | [Attention](https://open.spotify.com/track/1VxjsBmtDT2Vmhr6YpW9G2) | [Soundz](https://open.spotify.com/artist/6xjZjxAxA1nxvIBPbOpAa0) | [In The Rough](https://open.spotify.com/album/7kUONXoXGQCZg93xSJph4x) | 2:45 | 2022-11-01 | 2022-11-23 |
-| [Austin](https://open.spotify.com/track/4NJqhmkGN042BrvHoMKUrJ) | [Dasha](https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I) | [Austin](https://open.spotify.com/album/4JtlZzYJEa7bejLF0ASnk0) | 2:51 | 2024-02-19 |  |
+| [Austin](https://open.spotify.com/track/4NJqhmkGN042BrvHoMKUrJ) | [Dasha](https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I) | [Austin](https://open.spotify.com/album/4JtlZzYJEa7bejLF0ASnk0) | 2:51 | 2024-02-19 | 2024-03-21 |
+| [Austin](https://open.spotify.com/track/6b81dy3WjbozXK6b7C1gu5) | [Dasha](https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I) | [What Happens Now?](https://open.spotify.com/album/0rQRrrZPPv6XXsxilJ1wFz) | 2:51 | 2024-03-19 |  |
 | [Automatic](https://open.spotify.com/track/1yz6NJ6hXpVvaRbllgXQpI) | [Smallgod](https://open.spotify.com/artist/4qgwPhVCW359a62QYueaVP), [Lojay](https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL) | [Automatic](https://open.spotify.com/album/3y0yjUEuag7X0HQSc4aqDF) | 2:56 | 2023-01-31 | 2023-03-01 |
 | [Automotivo Bibi Fogosa](https://open.spotify.com/track/4kRLRWnn5u9wO2wOKAAdEN) | [Bibi Babydoll](https://open.spotify.com/artist/6R26kGib2ubbZJMh7kKVGV), [Dj Brunin XM](https://open.spotify.com/artist/6MSMZkBlZT4vhQmjO5Ynv3) | [Automotivo Bibi Fogosa](https://open.spotify.com/album/0Hj2X0CQBjpWapFzNQGbk2) | 2:09 | 2023-08-14 | 2023-08-29 |
 | [Awesome God](https://open.spotify.com/track/6C7nSPxsenSQwNidnvfnOO) | [Artwork Sounds](https://open.spotify.com/artist/0OxQiJ0uuDuuQ3dqkIbjwR), [Bee bar](https://open.spotify.com/artist/0kgsc7QLVxGwl8wd2eS3om), [Kabza De Small](https://open.spotify.com/artist/1bNjWBFWsAAzZSR59lRdpR) | [The Gospel According To Artwork Sounds Chapter II](https://open.spotify.com/album/29GVpaBSSetPQ38LohweSs) | 7:18 | 2023-06-12 | 2023-06-20 |

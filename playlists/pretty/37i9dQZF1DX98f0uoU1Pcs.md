@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX98f0uoU1Pcs.md) - [plain]
 
 > The perfect mix of Punk, Rock, Alt & Indie\. Cover: Dehd
 
-[Spotify](https://open.spotify.com/user/spotify) - 271,554 likes - 125 songs - 7 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 271,633 likes - 125 songs - 7 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -107,7 +107,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX98f0uoU1Pcs.md) - [plain]
 | 97 | [The Talker](https://open.spotify.com/track/1I8ZMHV00ELiUPlARDCX1M) | [Whispering Sons](https://open.spotify.com/artist/2iIBcGbTd24FtVwuP9o2OT) | [The Talker](https://open.spotify.com/album/5BXR50ykahvMIalgUfzYmD) | 3:07 |
 | 98 | [Default Parody](https://open.spotify.com/track/1H92yQ4R0sreZR0kDvTE2s) | [Drahla](https://open.spotify.com/artist/1HHyE1TCzui5Lay0gwS6bR) | [Default Parody](https://open.spotify.com/album/2zHGFKgsqN5tYmpPGoxWK8) | 3:27 |
 | 99 | [It's The Magic](https://open.spotify.com/track/4Y66dc6AG2eWQNUOzpKqtK) | [Lip Critic](https://open.spotify.com/artist/4ABuKdLlVyzLztIFR8ETX9) | [It's The Magic](https://open.spotify.com/album/1SuoXeP6CNGV78FIY2hO4v) | 4:26 |
-| 100 | [Lose](https://open.spotify.com/track/729EJVbWkITU4vAc690cFE) | [Boeckner](https://open.spotify.com/artist/1SdWYxZBt4RjvyXcMbtxyE) | [Lose](https://open.spotify.com/album/4ddL8UW6YILIWxd0g185KP) | 4:51 |
+| 100 | [Lose](https://open.spotify.com/track/5fSUc2h13lsyCcGLhzfTED) | [Boeckner](https://open.spotify.com/artist/1SdWYxZBt4RjvyXcMbtxyE) | [Boeckner!](https://open.spotify.com/album/1we8POeAomGmp8hTzGFdaW) | 4:51 |
 | 101 | [Song 01](https://open.spotify.com/track/5S0f0luti3eyDSg6AUG43R) | [No Windows](https://open.spotify.com/artist/2UgDlLTqaZiPL107iNQSOr) | [Song 01](https://open.spotify.com/album/6pUCCBvaNVVzpK5KSLZYFV) | 3:54 |
 | 102 | [London](https://open.spotify.com/track/729YjD3jEppSHMZ8cya2v9) | [Pynch](https://open.spotify.com/artist/6R1b13BgmP15f21dQZpFz9) | [London](https://open.spotify.com/album/6SyduDDcnQD27aApxjogtX) | 4:59 |
 | 103 | [All The Same](https://open.spotify.com/track/6gRfg5GBGJukXcYWm9Wpwl) | [Fat Dog](https://open.spotify.com/artist/4DLjEphXbW7qIhX4iwmNEe) | [All The Same](https://open.spotify.com/album/2vUQi2E2j9QTU8NSRWxSjt) | 2:55 |
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX98f0uoU1Pcs.md) - [plain]
 | 124 | [Cows](https://open.spotify.com/track/5MudCy3oMWOFMrq1QoMUBu) | [Silicone Prairie](https://open.spotify.com/artist/41Cb0AUOB1YtrPLiDffzb0) | [Cows](https://open.spotify.com/album/2feSGjusLrnBAxWTO67Cio) | 3:41 |
 | 125 | [Rosita](https://open.spotify.com/track/7tCrArweMQhmc2s8ad0d53) | [The Manikins](https://open.spotify.com/artist/7GW07MfbJzyhaXH4q8rJsu) | [Rosita](https://open.spotify.com/album/4ub7wQzeA0WWwstboakvmg) | 3:10 |
 
-Snapshot ID: `MCxjZWUxZDFiY2ZhYWI4MzQzZWY1YTZhYTkxNjczZTA4YmNjMDcwNzU0`
+Snapshot ID: `MCxhNWJiMzA3NjhkZDRlMzNjNGIxOWRlYWNlOTVlZTg3NTgwZjk4YTQ2`

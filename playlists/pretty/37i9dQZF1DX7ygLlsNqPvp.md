@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ygLlsNqPvp.md) - [plain]
 
 > The most intense local drill music firing up the continent\. Cover:  Beeztrap KOTM
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,933 likes - 50 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,974 likes - 50 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ygLlsNqPvp.md) - [plain]
 | 29 | [Kusuu](https://open.spotify.com/track/0BXG6kR9D7ZjXtjBwvPiKy) | [Smallgod](https://open.spotify.com/artist/4qgwPhVCW359a62QYueaVP), [Kweku Flick](https://open.spotify.com/artist/2lSLuh2H1mtsxFBNm9ZbKF), [Young Lunya](https://open.spotify.com/artist/0xfpc94rTYCThCWDR5h3Ni) | [Fallen Angel](https://open.spotify.com/album/3O8VIa31ZtEh5DKRhMzp2m) | 3:25 |
 | 30 | [Goldigga](https://open.spotify.com/track/3pPxul1nGW600lvqFdBcLg) | [Samsney](https://open.spotify.com/artist/1RaVe8wzZ1DnL6fcAf1x2g), [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ) | [Goldigga](https://open.spotify.com/album/4MUkSTaa9xxyeXdAB6geiO) | 3:02 |
 | 31 | [Radio](https://open.spotify.com/track/3OJTZiHmdYT2USRnRglgnm) | [Beeztrap KOTM](https://open.spotify.com/artist/39IXXExWT64CmkWwkO2ANn), [reggie](https://open.spotify.com/artist/08gM7TMuG3DTBmWUuH0w8T) | [Radio](https://open.spotify.com/album/23XvGYaFe7fU1bRteOPIVj) | 2:52 |
-| 32 | [Asakaa](https://open.spotify.com/track/3XxJT2dwsorTsI1rBZ0fy0) | [Kweku Smoke](https://open.spotify.com/artist/7AP5AMBQvTzTBB7IUSVLzO), [Hordzi](https://open.spotify.com/artist/4kxmAzzMfSOiZZlb9517Ot) | [Eye Red](https://open.spotify.com/album/43AXknA94hSHEdLYRJYmNc) | 2:46 |
+| 32 | [Asakaa](https://open.spotify.com/track/3nV1r3UjnHn0X7fyoqIRwi) | [Kweku Smoke](https://open.spotify.com/artist/7AP5AMBQvTzTBB7IUSVLzO), [Hordzi](https://open.spotify.com/artist/4kxmAzzMfSOiZZlb9517Ot) | [Eye Red](https://open.spotify.com/album/5Vf5qrT7sHWM1SkCsH4g84) | 2:46 |
 | 33 | [AKOBAM](https://open.spotify.com/track/0swMLKHRsRTnt9Nd5WwxFa) | [Joey B](https://open.spotify.com/artist/7ACLUXo71FsLZaKMOPDnEJ), [Kofi Mole](https://open.spotify.com/artist/0xhGPeT5o5Jt2xdywtD5by), [Medikal](https://open.spotify.com/artist/0pPz4oYqGp2Co2Sx7ORiYL) | [AKOBAM](https://open.spotify.com/album/28jWq9AwZF1UpwWfnDjpR4) | 3:09 |
 | 34 | [Konongo Zongo](https://open.spotify.com/track/3F6xtKBO2YixpP8lFJTiGo) | [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ) | [The Villain I Never Was](https://open.spotify.com/album/7mnGUuvsSbUHZdKkJYdmOg) | 2:41 |
 | 35 | [Sinner](https://open.spotify.com/track/6miftk872yxPKve9CdKaQO) | [Smallgod](https://open.spotify.com/artist/4qgwPhVCW359a62QYueaVP), [Headie One](https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh), [O'Kenneth](https://open.spotify.com/artist/3EyOT8FSuINDoWYHfm8TIM), [Kwaku DMC](https://open.spotify.com/artist/4gP93834jVbocef9R42gQz), [Lp2loose](https://open.spotify.com/artist/6PvcxssrQ0QaJVaBWHD07l) | [Sinner](https://open.spotify.com/album/1sODnxd2EWcvRsMkfeBL3z) | 3:52 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ygLlsNqPvp.md) - [plain]
 | 49 | [COLD](https://open.spotify.com/track/3GWjL519XWevcfq8cd2dHR) | [Joey B](https://open.spotify.com/artist/7ACLUXo71FsLZaKMOPDnEJ), [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8) | [COLD](https://open.spotify.com/album/17D5HFmFoB15edwDAS7nt0) | 2:09 |
 | 50 | [GENG GENG \(feat\. City Boy, O'Kenneth, Jay Bahd & Sean Lifer\)](https://open.spotify.com/track/1O8u2QYMb4fDdQFQYKFeaI) | [reggie](https://open.spotify.com/artist/08gM7TMuG3DTBmWUuH0w8T), [City Boy](https://open.spotify.com/artist/2ppps0iwSdww4cfepGnscr), [O'Kenneth](https://open.spotify.com/artist/3EyOT8FSuINDoWYHfm8TIM), [Jay Bahd](https://open.spotify.com/artist/0Q7yvULFrthrEzwtn5hRcw), [Sean Lifer](https://open.spotify.com/artist/6rREDWo14PH0s8L1GEeZZ9) | [GENG GENG \(feat\. City Boy, O'Kenneth, Jay Bahd & Sean Lifer\)](https://open.spotify.com/album/0Km1oJSuuHnhZMpbpTPdO9) | 2:36 |
 
-Snapshot ID: `MCwzYzUwOTQ2ZDE5YTg3YThmYjZjNTM0MTlkZTMwYzQ0ZDE1ODllOWNh`
+Snapshot ID: `MCw4NjUzOGU0N2Y0YTRmMzNjYjhiMGJiMDM0YWE1MGUyOWEyOTYzNjQy`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2h2FURikZpd.md) - [plain]
 
 > Latin gems you absolutely need to hear\. Save them before they're gone!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,921 likes - 30 songs - 1 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,937 likes - 30 songs - 1 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,8 +19,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2h2FURikZpd.md) - [plain]
 | 9 | [Perdió Este Culo](https://open.spotify.com/track/1bmIRafMOhUKsnZE7haw2u) | [Bad Gyal](https://open.spotify.com/artist/4F4pp8NUW08JuXwnoxglpN) | [La Joia](https://open.spotify.com/album/14IBdTrbCCeHRZgTATdgRd) | 2:39 |
 | 10 | [AMOR](https://open.spotify.com/track/6UUzG7YB1pmDBNbSRVzYSX) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [AMOR](https://open.spotify.com/album/0fX4euR7RfVsuoa9wewXyj) | 3:00 |
 | 11 | [Patadas de Ahogado / LATIN MAFIA \- Rework](https://open.spotify.com/track/14S2VMZRhekYGluotZ4pqg) | [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By) | [Patadas de Ahogado / LATIN MAFIA \(Rework\)](https://open.spotify.com/album/4XNpw8KZFcml3E0wz4ZyYx) | 3:06 |
-| 12 | [REM](https://open.spotify.com/track/2rLHjGObK4sfhIatgR6l6h) | [Humbe](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [REM](https://open.spotify.com/album/5fW2F8q05MQh5jxCYpVgTX) | 3:39 |
-| 13 | [¿Cómo Pasó?](https://open.spotify.com/track/7slBlaUuSCgADZBuTQDYBB) | [Ela Taubert](https://open.spotify.com/artist/5xS8cfsAaFyy188dNJGDbM) | [¿Cómo Pasó?](https://open.spotify.com/album/60ljXbrvvWXfuvPen2K319) | 2:54 |
+| 12 | [¿Cómo Pasó?](https://open.spotify.com/track/7slBlaUuSCgADZBuTQDYBB) | [Ela Taubert](https://open.spotify.com/artist/5xS8cfsAaFyy188dNJGDbM) | [¿Cómo Pasó?](https://open.spotify.com/album/60ljXbrvvWXfuvPen2K319) | 2:54 |
+| 13 | [REM](https://open.spotify.com/track/2rLHjGObK4sfhIatgR6l6h) | [Humbe](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [REM](https://open.spotify.com/album/5fW2F8q05MQh5jxCYpVgTX) | 3:39 |
 | 14 | [Sigo Enamorau'](https://open.spotify.com/track/6v9Sbtpt6par16uCnlvm98) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e), [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD) | [Sol María](https://open.spotify.com/album/2zE9RJSh5sMV0NJ8Oc8k5s) | 3:14 |
 | 15 | [lady madrizZz](https://open.spotify.com/track/1f3oAGS76ZIzOrsxcD2P36) | [céro](https://open.spotify.com/artist/5AiFFE0KopBkOzEZeDbSaH) | [lady madrizZz](https://open.spotify.com/album/6GCckrVHubDC4DRoCWIONI) | 2:11 |
 | 16 | [Gordo](https://open.spotify.com/track/0KcyU1JCY5W8WGuILa8MDv) | [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N) | [un](https://open.spotify.com/album/69qvzyO2jAil3U6DZpckxr) | 3:40 |
@@ -39,4 +39,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2h2FURikZpd.md) - [plain]
 | 29 | [Que putas le pasa al destino](https://open.spotify.com/track/2f845lg1LiI25lAGWRLbwr) | [Sebas Barcenas](https://open.spotify.com/artist/5RqAWnmZhPvkC2zZgpfczk) | [Que putas le pasa al destino](https://open.spotify.com/album/0WBzU8hZCmc1WI1pSLdCsd) | 3:09 |
 | 30 | [Cositas Sucias](https://open.spotify.com/track/5OkBhZHRMKGpoFTc5WXw50) | [Mariah Angeliq](https://open.spotify.com/artist/0KKUc4amZyvswV2YL6WTar) | [Cositas Sucias](https://open.spotify.com/album/4ByfJ3lfQLg8TTklHTewbj) | 2:21 |
 
-Snapshot ID: `MCw2MGU2NGNkZGE5ZjA4NjQ3NTdiMDZjMDdkMTUyY2E4YmUyZTAzOWQ0`
+Snapshot ID: `MCw2MjcyZjkwODRkNTUxZDJhZjM1YWI3YmM2OTU5MGQ1ODFkOWJmYWIx`

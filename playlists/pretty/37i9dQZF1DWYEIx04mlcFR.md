@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYEIx04mlcFR.md) - [plain]
 
 > la nueva ola de artistas con Elsa y Elmar en portada\. 🌊✨
 
-[Spotify](https://open.spotify.com/user/spotify) - 79,463 likes - 75 songs - 3 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 79,473 likes - 75 songs - 3 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,8 +65,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYEIx04mlcFR.md) - [plain]
 | 55 | [Próximo Diciembre](https://open.spotify.com/track/0UYS2UvtAXi0oygPGA0Wmq) | [Robot95](https://open.spotify.com/artist/30CTTIqrcr82nS6B40j975), [Bruses](https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y), [Javier Blake](https://open.spotify.com/artist/7rWuyGabaLQSmsHpZJkMzx) | [Próximo Diciembre](https://open.spotify.com/album/009pkQIFctOi2Js6ipx6T1) | 3:44 |
 | 56 | [Más Que Amigas](https://open.spotify.com/track/7vKgCQQc1gjudgVX4SALki) | [Bruses](https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y) | [Más Que Amigas](https://open.spotify.com/album/2tgiIMkITUGSyQaUVjtMpf) | 2:41 |
 | 57 | [hoy no me encuentro para nadie](https://open.spotify.com/track/0TN8m2EibHpzRTTGXvw69R) | [Caztro](https://open.spotify.com/artist/1YvkzmaJLVRHSJ8J5YzoaW) | [hoy no me encuentro para nadie](https://open.spotify.com/album/7xyX3t55ZvkJMCOa8fofhw) | 2:44 |
-| 58 | [oggy](https://open.spotify.com/track/0v9ujRJ4jHLOdENX8n4Jft) | [Girl Ultra](https://open.spotify.com/artist/7i1CyQ1fogh4bkj3EPj3ls) | [oggy](https://open.spotify.com/album/72w1hO2b0fLm1yJnBwahAN) | 2:08 |
-| 59 | [Desconocernos](https://open.spotify.com/track/4S4Q9yocHzKUI2Ws4Ir4lC) | [Vera Pedro](https://open.spotify.com/artist/2agXYMhipkDXIGmy5C158S), [María Centeno](https://open.spotify.com/artist/4YJQjp0wW8B5luWzPOcHrG) | [Desconocernos](https://open.spotify.com/album/2sjbd7CdcKMOFQuLZwAz9K) | 2:57 |
+| 58 | [Desconocernos](https://open.spotify.com/track/4S4Q9yocHzKUI2Ws4Ir4lC) | [Vera Pedro](https://open.spotify.com/artist/2agXYMhipkDXIGmy5C158S), [María Centeno](https://open.spotify.com/artist/4YJQjp0wW8B5luWzPOcHrG) | [Desconocernos](https://open.spotify.com/album/2sjbd7CdcKMOFQuLZwAz9K) | 2:57 |
+| 59 | [oggy](https://open.spotify.com/track/0v9ujRJ4jHLOdENX8n4Jft) | [Girl Ultra](https://open.spotify.com/artist/7i1CyQ1fogh4bkj3EPj3ls) | [oggy](https://open.spotify.com/album/72w1hO2b0fLm1yJnBwahAN) | 2:08 |
 | 60 | [odio esta casa \(cuando te vas\)](https://open.spotify.com/track/2gz0jf6QA7EhF8P29AUYbE) | [Carlos Colosio](https://open.spotify.com/artist/2kAfu4SJeTLKbvAnjbT2Au) | [odio esta casa \(cuando te vas\)](https://open.spotify.com/album/13BfMjOrCPVMQsaz89js8b) | 3:14 |
 | 61 | [AHORA O NUNCA](https://open.spotify.com/track/1XYiRky7xG3HRAks3edgco) | [Chicocurlyhead](https://open.spotify.com/artist/4EzUsFLITcQxDuuDeADaV1), [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [AHORA O NUNCA](https://open.spotify.com/album/1nDeZFMZNqKmUZmjzT9AKn) | 2:36 |
 | 62 | [Radio](https://open.spotify.com/track/1o5Ba27NcfTUJU60aBwkjQ) | [Bratty](https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn) | [Radio](https://open.spotify.com/album/7ijwAMN2xZzIk8k7Arl4VR) | 3:08 |
@@ -76,12 +76,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYEIx04mlcFR.md) - [plain]
 | 66 | [Linda](https://open.spotify.com/track/48t9xmVgtxXlfEPoKvD4rP) | [Alan Wittels](https://open.spotify.com/artist/5JZYv0z6YzsztblsEpst8g) | [Linda](https://open.spotify.com/album/0d6X2ScN5dJVEmQSNlZHVx) | 2:21 |
 | 67 | [Palabras De Papel \(Veneno\)](https://open.spotify.com/track/37nE3DnKSFMyYIsUngPjjI) | [Urbøi](https://open.spotify.com/artist/4THv7qQa82UNW5DTtEqNOy) | [Felicidad y Otros Mitos](https://open.spotify.com/album/5sNU3aUBHNEo1Y1pjHOdFI) | 3:21 |
 | 68 | [Ya No Es Lo Mismo](https://open.spotify.com/track/3TNEAG1g4e32EyEzy7FqqC) | [Bratty](https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn) | [Ya No Es Lo Mismo](https://open.spotify.com/album/60ks7eHWtmz6Wvbdx8k7DG) | 3:49 |
-| 69 | [odiarte](https://open.spotify.com/track/7ljgbvaKZi1W4rhXWMfsxU) | [Ivana](https://open.spotify.com/artist/5AXxk4cxkMNsTb4TtwLAQJ) | [odiarte](https://open.spotify.com/album/4MfTBFDwxb1Hz0uUxrswPA) | 3:10 |
-| 70 | [La Lista](https://open.spotify.com/track/0AtNOujrNexbsOjJkD7NEF) | [Bruses](https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y) | [La Lista](https://open.spotify.com/album/6vF9qaVzcUaOh9A0fuA7PP) | 3:44 |
+| 69 | [La Lista](https://open.spotify.com/track/0AtNOujrNexbsOjJkD7NEF) | [Bruses](https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y) | [La Lista](https://open.spotify.com/album/6vF9qaVzcUaOh9A0fuA7PP) | 3:44 |
+| 70 | [odiarte](https://open.spotify.com/track/7ljgbvaKZi1W4rhXWMfsxU) | [Ivana](https://open.spotify.com/artist/5AXxk4cxkMNsTb4TtwLAQJ) | [odiarte](https://open.spotify.com/album/4MfTBFDwxb1Hz0uUxrswPA) | 3:10 |
 | 71 | [BITCH3](https://open.spotify.com/track/5f1hwdxzqdomOHHe40ju1f) | [Nicole Horts](https://open.spotify.com/artist/1PdyY069YiAkmKdnx6odux) | [BITCH3](https://open.spotify.com/album/5KYA9DUntV71ML54hncirY) | 2:24 |
 | 72 | [YNQNP](https://open.spotify.com/track/4MYfbMGI7KgUzkYDN1lpnD) | [Ruth de las Plantas](https://open.spotify.com/artist/7xtkne3Y9293zwMXsJp0QP), [RPLK](https://open.spotify.com/artist/1tuzO0TeRF6KAKsSbHD46g) | [YNQNP](https://open.spotify.com/album/6MHJtcjTccqn6F5fYKr7Sa) | 2:30 |
 | 73 | [Inhabitable](https://open.spotify.com/track/3n5RLxFo7FMPJN4AcF6oEz) | [MiSHNRZ](https://open.spotify.com/artist/3tbJ4v64S8EcwVSkoFIwvl) | [Inhabitable](https://open.spotify.com/album/3YjjoBMjNDO9yxYjrSciXo) | 2:47 |
 | 74 | [todo pasa](https://open.spotify.com/track/2z8zcvzuYWU5aFtUEwq2W4) | [Arroba Nat](https://open.spotify.com/artist/4Srl3qf5e1RfnXi5wBlIL4) | [todo pasa](https://open.spotify.com/album/6i2mon8JnyWaNIFXzg4AjE) | 3:34 |
 | 75 | [Yo Sé \(Aceptación\)](https://open.spotify.com/track/0P0WYN6UXKIKs3JRidiXEW) | [Donovan Morales](https://open.spotify.com/artist/7tOfNTrIJaAxfedyY5Xyax) | [Yo Sé \(Aceptación\)](https://open.spotify.com/album/0bIoDg1vbxAO6MqGKcbbmV) | 3:02 |
 
-Snapshot ID: `MCwwMjUwNDdjYTU5YmRjNWQzODExMWJjZjMxMWFkOTQ4MTU2MTg4NzVk`
+Snapshot ID: `MCxhODllZmYzNTNlODFhODRlNWJjOTdmMTdjOGVjNjA3MWZlM2NiZTA1`

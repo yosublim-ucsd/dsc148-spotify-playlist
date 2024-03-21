@@ -1,12 +1,12 @@
 {
   "description": "Instant classics from over the years loaded into one sweet mix.",
-  "num_followers": 3945310,
+  "num_followers": 3945357,
   "original_name": "Acoustic Hits: Oldies but Goodies",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4NzY3YjExZTI1YmVmZDcxMzcxNWMwNWNjNjZlYmI5NGYyMjJkMGQ1",
+  "snapshot_id": "MCwxMjJmMWI1N2JmZjU1YjIwYjM1Njc5YmY3NDQ2YzZhZjlhOTA4N2Ey",
   "tracks": [
     {
       "added_at": "2023-10-23 17:16:25",
@@ -139,22 +139,6 @@
     {
       "added_at": "2023-10-23 17:16:25",
       "album": {
-        "name": "Wanted on Voyage (Expanded Edition)",
-        "url": "https://open.spotify.com/album/6mcMKGEgukjyiR5IKElQ2E"
-      },
-      "artists": [
-        {
-          "name": "George Ezra",
-          "url": "https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j"
-        }
-      ],
-      "duration_ms": 200733,
-      "name": "Budapest",
-      "url": "https://open.spotify.com/track/2ixsaeFioXJmMgkkbd4uj1"
-    },
-    {
-      "added_at": "2023-10-23 17:16:25",
-      "album": {
         "name": "The Reason (20th Anniversary)",
         "url": "https://open.spotify.com/album/3pCVjmRGVZ2mYuJN2R1wi8"
       },
@@ -167,6 +151,22 @@
       "duration_ms": 232800,
       "name": "The Reason",
       "url": "https://open.spotify.com/track/5B5eTk7DF8KVp1zpQoY1XY"
+    },
+    {
+      "added_at": "2023-10-23 17:16:25",
+      "album": {
+        "name": "Wanted on Voyage (Expanded Edition)",
+        "url": "https://open.spotify.com/album/6mcMKGEgukjyiR5IKElQ2E"
+      },
+      "artists": [
+        {
+          "name": "George Ezra",
+          "url": "https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j"
+        }
+      ],
+      "duration_ms": 200733,
+      "name": "Budapest",
+      "url": "https://open.spotify.com/track/2ixsaeFioXJmMgkkbd4uj1"
     },
     {
       "added_at": "2023-10-23 17:16:25",
@@ -743,22 +743,6 @@
     {
       "added_at": "2023-10-23 17:16:25",
       "album": {
-        "name": "+",
-        "url": "https://open.spotify.com/album/02pi98kE0nra0yBqCStzbC"
-      },
-      "artists": [
-        {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-        }
-      ],
-      "duration_ms": 258373,
-      "name": "The A Team",
-      "url": "https://open.spotify.com/track/1XpYodsD36XN7ygcdF7mJJ"
-    },
-    {
-      "added_at": "2023-10-23 17:16:25",
-      "album": {
         "name": "Dream Your Life Away (Special Edition)",
         "url": "https://open.spotify.com/album/5S9b8euumqMhQbMk0zzQdH"
       },
@@ -771,6 +755,22 @@
       "duration_ms": 230506,
       "name": "Georgia",
       "url": "https://open.spotify.com/track/429EttO8gs0bDo2SQfUNSm"
+    },
+    {
+      "added_at": "2023-10-23 17:16:25",
+      "album": {
+        "name": "+",
+        "url": "https://open.spotify.com/album/02pi98kE0nra0yBqCStzbC"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "duration_ms": 258373,
+      "name": "The A Team",
+      "url": "https://open.spotify.com/track/1XpYodsD36XN7ygcdF7mJJ"
     },
     {
       "added_at": "2023-10-23 17:16:25",

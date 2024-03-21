@@ -4,7 +4,7 @@
 
 > Laid back sounds to see you through your day.
 
-628 songs - 1 day 11 hr 12 min
+630 songs - 1 day 11 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -440,11 +440,12 @@
 | [Perfect Personality](https://open.spotify.com/track/7DPSPzx5RQP5VRFA1f1X7G) | [WORRYWORRY](https://open.spotify.com/artist/5fObbgUTn2cNrVTQwQfZYT) | [Perfect Personality](https://open.spotify.com/album/5Y3ykdFFbu4xHnX5OJnIuN) | 3:01 | 2022-04-04 | 2022-04-21 |
 | [permanent +1](https://open.spotify.com/track/3ofgZx7BX3AdkFc6usUtnT) | [Luz](https://open.spotify.com/artist/3cdI6SvJ24KsOcvYyBwH9c) | [permanent +1](https://open.spotify.com/album/2a7rGaQNh4ZXPvYJIbNDj1) | 3:32 | 2021-12-16 | 2022-03-26 |
 | [phones in heaven](https://open.spotify.com/track/18xwBmM2Xa8gJzaU0fYoiX) | [Sam Tompkins](https://open.spotify.com/artist/04uu8U3I1h26Fp2NBkPTRZ) | [phones in heaven](https://open.spotify.com/album/2v7JtVCBL54vchN6JkYyTv) | 2:17 | 2024-02-09 | 2024-02-24 |
+| [pick up the phone](https://open.spotify.com/track/6Z1IBgysq1FfSzhQWUdvAc) | [Henry Moodie](https://open.spotify.com/artist/7hr9W3IjXcm3UlLY7guLk5) | [in all of my lonely nights](https://open.spotify.com/album/19zU4YKQ8Gdn8QYQvXumhO) | 2:25 | 2024-03-15 |  |
 | [pick up the phone](https://open.spotify.com/track/6xtW6EBqnClqaLfsxKyh3u) | [Henry Moodie](https://open.spotify.com/artist/7hr9W3IjXcm3UlLY7guLk5) | [pick up the phone](https://open.spotify.com/album/4bafhNct8QkzoNEye8WFgf) | 2:25 | 2023-06-30 | 2024-03-19 |
 | [PICK YOUR POISON \(feat\. Stormzy\)](https://open.spotify.com/track/5Yhj7ln3iSqZziEwYNbv6Y) | [Bree Runway](https://open.spotify.com/artist/58hqTaCiqGrMsNmmm3qL7w), [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd) | [WOAH, WHAT A BLUR!](https://open.spotify.com/album/4Bu8CaTOWByWSfmhQ4Rmzy) | 2:44 | 2022-12-20 | 2023-09-13 |
 | [Pick Your Tears Up](https://open.spotify.com/track/5wlZ4PZGrRR2feOTA862m2) | [Grace Carter](https://open.spotify.com/artist/2LuHL7im4aCEmfOlD4rxBC) | [Pick Your Tears Up](https://open.spotify.com/album/4XHdogqYIFfgdW3qwIkVlI) | 2:48 | 2023-03-07 | 2023-05-09 |
 | [Pinnacle](https://open.spotify.com/track/4qIQ8zMxvCX2r7GxZuzyAM) | [Nathan Grisdale](https://open.spotify.com/artist/2CxdgVG8zBFMBPZb4NCb9l) | [Pinnacle](https://open.spotify.com/album/5KRmA2e4skldOdwB6iHLfw) | 3:03 | 2022-05-31 | 2022-07-17 |
-| [Planet](https://open.spotify.com/track/2t6drKARdGJAAEzx9PTlo3) | [Aidan Bissett](https://open.spotify.com/artist/4XQI4hyuy5xun1ou3SM8Oe) | [Supernova \(Extended\)](https://open.spotify.com/album/7cdmvQ2BpZNtxcsClyFgIu) | 3:06 | 2024-02-23 |  |
+| [Planet](https://open.spotify.com/track/2t6drKARdGJAAEzx9PTlo3) | [Aidan Bissett](https://open.spotify.com/artist/4XQI4hyuy5xun1ou3SM8Oe) | [Supernova \(Extended\)](https://open.spotify.com/album/7cdmvQ2BpZNtxcsClyFgIu) | 3:06 | 2024-02-23 | 2024-03-21 |
 | [Pointless](https://open.spotify.com/track/4JBiO7wRnE6ueszEUpo347) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Pointless](https://open.spotify.com/album/7DA9v7969Er1YXEb0z41E7) | 3:48 | 2022-12-02 | 2023-05-24 |
 | [Pointless](https://open.spotify.com/track/44G9fSM6qI8zRoG6Qwn3eq) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Broken By Desire To Be Heavenly Sent](https://open.spotify.com/album/0ECSyPejfD7oL95dD3jgoi) | 3:51 | 2023-05-16 | 2024-01-27 |
 | [Pray](https://open.spotify.com/track/2gbRKKSyW7e7vAkyvrJkte) | [Jessie Murph](https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7) | [Pray](https://open.spotify.com/album/0bIr7aFjLBuAkMbsUsWY3I) | 2:26 | 2022-02-21 | 2023-03-03 |
@@ -568,7 +569,8 @@
 | [To Love A Man](https://open.spotify.com/track/659179UI47crJGFp0RrCwU) | [Celeste](https://open.spotify.com/artist/49HlOY4gkHqsYG9GCuhkcc) | [To Love A Man](https://open.spotify.com/album/2irkzjkPar5WAwxtoraDRU) | 2:41 | 2022-03-29 | 2023-03-22 |
 | [Tomorrow](https://open.spotify.com/track/6Wzdn7uAFO9NU0SElyAvNZ) | [Paddy Keyes](https://open.spotify.com/artist/35yS9RQrpgVRsvPmIz1sGm) | [Tomorrow](https://open.spotify.com/album/1IfGMGxi8pA9obGmr5XTsN) | 4:15 | 2022-04-04 | 2022-07-09 |
 | [Tonsillitis](https://open.spotify.com/track/2TzV4l4LaElGyOdYGnJA7B) | [Michael Aldag](https://open.spotify.com/artist/2e1NO2tyaMZajNoWe71ZiJ) | [Tonsillitis](https://open.spotify.com/album/6S3kKtrp7v2TvEqz2FJ1Nd) | 3:45 | 2022-02-21 | 2022-03-01 |
-| [Too Good to be True](https://open.spotify.com/track/4vIiVs5JoNfqqRi5o7jAIb) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Too Good to be True](https://open.spotify.com/album/57y7NpfTINlnrNitu8vwft) | 2:40 | 2024-03-08 |  |
+| [Too Good to be True](https://open.spotify.com/track/27RDQ0TfxzWMlQFuKrPT11) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Deeper Well](https://open.spotify.com/album/5SxZmGwc4eJuPp6PcO4JgJ) | 2:40 | 2024-03-15 |  |
+| [Too Good to be True](https://open.spotify.com/track/4vIiVs5JoNfqqRi5o7jAIb) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Too Good to be True](https://open.spotify.com/album/57y7NpfTINlnrNitu8vwft) | 2:40 | 2024-03-08 | 2024-03-21 |
 | [Tourniquet](https://open.spotify.com/track/3EvZ03hGAFwGZ2Ebcu86YH) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [Zach Bryan](https://open.spotify.com/album/6PbnGueEO6LGodPfvNldYf) | 3:09 | 2023-09-12 |  |
 | [Tractor](https://open.spotify.com/track/6N1Nrd9oHFRAHsrEZPkxAR) | [Tom Rosenthal](https://open.spotify.com/artist/1AgxgADPuRIW1wyaA4OKcB) | [Tractor](https://open.spotify.com/album/1p0cwpoCTRfDYEvE5hoaRs) | 3:26 | 2022-03-25 | 2022-10-10 |
 | [Trouble \- from ‘Three Months’](https://open.spotify.com/track/4lM46UnoFn4FP074aYWGxS) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP), [Jay Som](https://open.spotify.com/artist/1wmiQ6ytATiGnJs6uFluKO) | [Trouble \(from ‘Three Months’\)](https://open.spotify.com/album/4CVZnoqlaAEqSX6c1QQUI8) | 3:23 | 2022-02-21 | 2023-03-29 |

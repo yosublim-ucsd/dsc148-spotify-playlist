@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0ERdy9Swdy5.md) - [plain]
 
 > Los mejor de los 90s\. The Best of the 90s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 710,112 likes - 100 songs - 8 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 710,347 likes - 100 songs - 8 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0ERdy9Swdy5.md) - [plain]
 | 35 | [Vivir Lo Nuestro](https://open.spotify.com/track/0LIZVQBQtDi4lLhB83qJIp) | [LA INDIA](https://open.spotify.com/artist/3NIZFmehJM8YiGpCdihlck), [Marc Anthony](https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6) | [Desde Un Principio / From The Beginning](https://open.spotify.com/album/5d7Tr9DguGh9z9oByKWYoI) | 6:06 |
 | 36 | [Amores como el nuestro \(Salsa\)](https://open.spotify.com/track/0r8RjrJjZ9U3OxZpGsn3v8) | [Jerry Rivera](https://open.spotify.com/artist/7wOZy3KdFVVINgNFFxkxwO) | [Un poquito de' to \(Salsa \- Merengue \- Bachata & Reggaeton\)](https://open.spotify.com/album/2b4nbJCVka7rbb5B7D4QON) | 5:05 |
 | 37 | [Se Me Sigue Olvidando](https://open.spotify.com/track/2wHtuxkW4dFAlwGkbnwa7l) | [Marc Anthony](https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6) | [Todo A Su Tiempo](https://open.spotify.com/album/69lnF2K07sZMRbyGSuggFk) | 4:53 |
-| 38 | [Caradura](https://open.spotify.com/track/1AAx4NAWkHhvYBwXXwcpkJ) | [David Pabon](https://open.spotify.com/artist/3L3YHYkS8b2vgAbnqBTXrE) | [Mejor Que Ayer](https://open.spotify.com/album/2zf6kWIBrE5NOGLmy9vjCr) | 5:17 |
-| 39 | [Salsa Con Coco](https://open.spotify.com/track/3Xy4svERcnUuFcOaBI0539) | [Pochy Y Su Cocoband](https://open.spotify.com/artist/5AWKC0rd625VHM69d7X2tu) | [El Arrollador](https://open.spotify.com/album/2JWLAvJiDRdUJfrr2Xhfju) | 4:54 |
+| 38 | [Salsa Con Coco](https://open.spotify.com/track/3Xy4svERcnUuFcOaBI0539) | [Pochy Y Su Cocoband](https://open.spotify.com/artist/5AWKC0rd625VHM69d7X2tu) | [El Arrollador](https://open.spotify.com/album/2JWLAvJiDRdUJfrr2Xhfju) | 4:54 |
+| 39 | [Caradura](https://open.spotify.com/track/1AAx4NAWkHhvYBwXXwcpkJ) | [David Pabon](https://open.spotify.com/artist/3L3YHYkS8b2vgAbnqBTXrE) | [Mejor Que Ayer](https://open.spotify.com/album/2zf6kWIBrE5NOGLmy9vjCr) | 5:17 |
 | 40 | [Luna Negra](https://open.spotify.com/track/09Prj3ivNAC9Y80cP4eKnm) | [Rey Ruiz](https://open.spotify.com/artist/1S0uvW1rgvtkNGma9su3fJ) | [Oro Salsero](https://open.spotify.com/album/5X1QYXR9eQO3cYZrqeoIYE) | 4:44 |
 | 41 | [Sobredosis](https://open.spotify.com/track/0Ncmfi9ff3wTC87zGHAAKE) | [Los Titanes](https://open.spotify.com/artist/4dboOLuCgBpq31GG6xov2S) | [Grandes Exitos de Salsa](https://open.spotify.com/album/5YrlCDihTCk8ubcTapuc8E) | 4:12 |
 | 42 | [Busca Por Dentro](https://open.spotify.com/track/2canuqE41S1yUstx6qnLFc) | [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8) | [Siempre Una Aventura](https://open.spotify.com/album/2yAheDQ4qgtbVfHVOhKDNF) | 5:54 |
@@ -75,8 +75,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0ERdy9Swdy5.md) - [plain]
 | 65 | [Te Amo, Te Extraño](https://open.spotify.com/track/6P6CwLaI6bEkPGlbDI0MXW) | [Guayacán Orquesta](https://open.spotify.com/artist/2pZ81eCkqxemIjqqfE1fhE) | [14 Éxitos Duros Como Guayacan](https://open.spotify.com/album/36uyTCJM4iwiMY9OJ0kFI9) | 5:34 |
 | 66 | [Me Mata La Soledad](https://open.spotify.com/track/3EKsRQDRXgXHmNxQZ76MFc) | [Tito Rojas](https://open.spotify.com/artist/2kgCV0fFS0wt3q6M5B39nH) | [Sensual](https://open.spotify.com/album/6UN6viB3vjqwZM1rMZGS1A) | 4:37 |
 | 67 | [He Tratado](https://open.spotify.com/track/2gdstZk4Jgqng7bDB4TsZ5) | [Víctor Manuelle](https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2) | [A Pesar De Todo](https://open.spotify.com/album/5kRD3WwNuUNVk2ig8PIw5t) | 5:03 |
-| 68 | [Cuando Parará La Lluvia](https://open.spotify.com/track/6eQUjx96Gob2WwetawPBMQ) | [Johnny Rivera](https://open.spotify.com/artist/6IcML1o1dzmMwBim7hyirf) | [Cuando Parará La Lluvia](https://open.spotify.com/album/7wPHaKaBhYBlruGndq64gJ) | 4:46 |
-| 69 | [Porque Te Amo](https://open.spotify.com/track/2mjcSFZm71YuqETWajjWFj) | [Nino Segarra](https://open.spotify.com/artist/7titF03HCJwxZeJ98nMWbK) | [Con La Musica Por Dentro](https://open.spotify.com/album/7Cy84J50vfGKkeJFr2vFqx) | 5:06 |
+| 68 | [Porque Te Amo](https://open.spotify.com/track/2mjcSFZm71YuqETWajjWFj) | [Nino Segarra](https://open.spotify.com/artist/7titF03HCJwxZeJ98nMWbK) | [Con La Musica Por Dentro](https://open.spotify.com/album/7Cy84J50vfGKkeJFr2vFqx) | 5:06 |
+| 69 | [Cuando Parará La Lluvia](https://open.spotify.com/track/6eQUjx96Gob2WwetawPBMQ) | [Johnny Rivera](https://open.spotify.com/artist/6IcML1o1dzmMwBim7hyirf) | [Cuando Parará La Lluvia](https://open.spotify.com/album/7wPHaKaBhYBlruGndq64gJ) | 4:46 |
 | 70 | [Mirandote](https://open.spotify.com/track/3JbPsz4vSiFDJ64PLODktv) | [Frankie Ruiz](https://open.spotify.com/artist/4dLvccxeQIM5u80Ri0u9OV) | [Nacimiento Y Recuerdos](https://open.spotify.com/album/6ImC1UjhzfhbhSD1ya55tl) | 5:07 |
 | 71 | [Amiga](https://open.spotify.com/track/59Fg7F5Azwd3oDSJ3vemne) | [Rey Ruiz](https://open.spotify.com/artist/1S0uvW1rgvtkNGma9su3fJ) | [Oro Salsero](https://open.spotify.com/album/5X1QYXR9eQO3cYZrqeoIYE) | 4:39 |
 | 72 | [Amor Mío No Te Vayas \- En Vivo Desde El Carnegie Hall Version](https://open.spotify.com/track/4d6AEuczMXLXDIbUYevHSp) | [Gilberto Santa Rosa](https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1) | [En Vivo Desde El Carnegie Hall](https://open.spotify.com/album/3ASsv46z8jp15gwRTOjy22) | 7:26 |
@@ -106,7 +106,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0ERdy9Swdy5.md) - [plain]
 | 96 | [No Puedo Prescindir De Ti](https://open.spotify.com/track/7LDZh6bVrES7Z9RuD4HMTC) | [Luisito Ayala Y La Puerto Rican Power](https://open.spotify.com/artist/2UoLlLFDkqewHH7EzaZcl7) | [Super Exitos](https://open.spotify.com/album/4ny39fXV8NndHMSBu1V0bT) | 4:10 |
 | 97 | [Me Voy a Acostumbrar \- Versión Salsa](https://open.spotify.com/track/1s3ynbEWHKyMj2O7Gf9FmS) | [LA INDIA](https://open.spotify.com/artist/3NIZFmehJM8YiGpCdihlck), [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [Intensamente Con Canciones de Juan Gabriel](https://open.spotify.com/album/1fyKXw8qgXeXwzVbgP17oV) | 3:59 |
 | 98 | [Ojos Chinos](https://open.spotify.com/track/6V6vxDi68N7hDDxm3SwIJO) | [El Gran Combo De Puerto Rico](https://open.spotify.com/artist/6nnspeopmJAG07xOxHmqTu) | [30th Anniversary](https://open.spotify.com/album/0MSAzzmVUM8w8sAVey6Nud) | 4:21 |
-| 99 | [Date un Chance](https://open.spotify.com/track/0mW2TeZmav4gTBzsMcy811) | [Luis Enrique](https://open.spotify.com/artist/2mUI4K6csTQd3jieswcmiI) | [20th Anniversary](https://open.spotify.com/album/6T8WrnfmEISgQiDThcNGwW) | 4:46 |
-| 100 | [Mi Libertad](https://open.spotify.com/track/5aoiZpjbWrDkWAaGDARn2q) | [Frankie Ruiz](https://open.spotify.com/artist/4dLvccxeQIM5u80Ri0u9OV) | [Frankie Ruiz La Leyenda](https://open.spotify.com/album/1R8Tr9GPJZS6XGEvnOn8sJ) | 4:28 |
+| 99 | [Mi Libertad](https://open.spotify.com/track/5aoiZpjbWrDkWAaGDARn2q) | [Frankie Ruiz](https://open.spotify.com/artist/4dLvccxeQIM5u80Ri0u9OV) | [Frankie Ruiz La Leyenda](https://open.spotify.com/album/1R8Tr9GPJZS6XGEvnOn8sJ) | 4:28 |
+| 100 | [Date un Chance](https://open.spotify.com/track/0mW2TeZmav4gTBzsMcy811) | [Luis Enrique](https://open.spotify.com/artist/2mUI4K6csTQd3jieswcmiI) | [20th Anniversary](https://open.spotify.com/album/6T8WrnfmEISgQiDThcNGwW) | 4:46 |
 
-Snapshot ID: `MCw4ZTYzODU4MjVlZGMwNDA3ZWUyMDBmMmM2NzYzNjE0NmJlNjJhZjA5`
+Snapshot ID: `MCw5NWVlYmNhMDU5ZTE3NmJjYjFiZTUzYmY0MWZiYjExMWE1M2RkNGQ3`

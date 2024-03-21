@@ -1,12 +1,12 @@
 {
   "description": "Viaja al M\u00e9xico tradicional con la expresi\u00f3n de sus guitarras.",
-  "num_followers": 125215,
+  "num_followers": 125246,
   "original_name": "Guitarra Mexicana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjNTdjNDI2NjkxNjIwMWI5MzBhNjM3MzY0OTBmMDkzM2Y0MTM2Zjhl",
+  "snapshot_id": "MCw5NjJiNTQ0OWQxOTk0YWU2NWQ2MDY5YzBhMjY0YTcxYjI4MmM4YjM0",
   "tracks": [
     {
       "added_at": "2023-01-23 22:55:31",
@@ -547,22 +547,6 @@
     {
       "added_at": "2023-01-23 22:55:31",
       "album": {
-        "name": "Toda Esta Gente",
-        "url": "https://open.spotify.com/album/5e5DyxOEoKX6ZwKGTAuls1"
-      },
-      "artists": [
-        {
-          "name": "Los Viajantes",
-          "url": "https://open.spotify.com/artist/4YAXYtBeaRHUxQ8R3TKheZ"
-        }
-      ],
-      "duration_ms": 151250,
-      "name": "Toda Esta Gente",
-      "url": "https://open.spotify.com/track/2VdZRaMy0ZmuLfbJhcOWvb"
-    },
-    {
-      "added_at": "2023-01-23 22:55:31",
-      "album": {
         "name": "Lo Mejor en Guitarras",
         "url": "https://open.spotify.com/album/7nl5EG8xfTaQ4WVyB9dsc3"
       },
@@ -575,38 +559,6 @@
       "duration_ms": 147133,
       "name": "La Bikina",
       "url": "https://open.spotify.com/track/4uzsdjd5zer4uurbqIuEu6"
-    },
-    {
-      "added_at": "2023-01-23 22:55:31",
-      "album": {
-        "name": "Te Extra\u00f1o",
-        "url": "https://open.spotify.com/album/3pQMIIjRDqiDrZroTXUACT"
-      },
-      "artists": [
-        {
-          "name": "Las Penas",
-          "url": "https://open.spotify.com/artist/2v5fDmNadBqRCk7r6u9nFS"
-        }
-      ],
-      "duration_ms": 152874,
-      "name": "Te Extran\u0303o",
-      "url": "https://open.spotify.com/track/7l6KxjV7Sk6y9iLOBSqTw6"
-    },
-    {
-      "added_at": "2023-01-23 22:55:31",
-      "album": {
-        "name": "Ya Te Olvide",
-        "url": "https://open.spotify.com/album/6mlUaXGzLm5RPoQDP0o4mZ"
-      },
-      "artists": [
-        {
-          "name": "Los Amores Recientes",
-          "url": "https://open.spotify.com/artist/4gGcw7smf466EwjJwxp9VG"
-        }
-      ],
-      "duration_ms": 148500,
-      "name": "Ya Te Olvide",
-      "url": "https://open.spotify.com/track/1TM1jRGtkF18D4VnRqlpKu"
     },
     {
       "added_at": "2023-01-23 22:55:31",
@@ -627,6 +579,54 @@
     {
       "added_at": "2023-01-23 22:55:31",
       "album": {
+        "name": "Te Extra\u00f1o",
+        "url": "https://open.spotify.com/album/3pQMIIjRDqiDrZroTXUACT"
+      },
+      "artists": [
+        {
+          "name": "Las Penas",
+          "url": "https://open.spotify.com/artist/2v5fDmNadBqRCk7r6u9nFS"
+        }
+      ],
+      "duration_ms": 152874,
+      "name": "Te Extran\u0303o",
+      "url": "https://open.spotify.com/track/7l6KxjV7Sk6y9iLOBSqTw6"
+    },
+    {
+      "added_at": "2023-01-23 22:55:31",
+      "album": {
+        "name": "Toda Esta Gente",
+        "url": "https://open.spotify.com/album/5e5DyxOEoKX6ZwKGTAuls1"
+      },
+      "artists": [
+        {
+          "name": "Los Viajantes",
+          "url": "https://open.spotify.com/artist/4YAXYtBeaRHUxQ8R3TKheZ"
+        }
+      ],
+      "duration_ms": 151250,
+      "name": "Toda Esta Gente",
+      "url": "https://open.spotify.com/track/2VdZRaMy0ZmuLfbJhcOWvb"
+    },
+    {
+      "added_at": "2023-01-23 22:55:31",
+      "album": {
+        "name": "Ya Te Olvide",
+        "url": "https://open.spotify.com/album/6mlUaXGzLm5RPoQDP0o4mZ"
+      },
+      "artists": [
+        {
+          "name": "Los Amores Recientes",
+          "url": "https://open.spotify.com/artist/4gGcw7smf466EwjJwxp9VG"
+        }
+      ],
+      "duration_ms": 148500,
+      "name": "Ya Te Olvide",
+      "url": "https://open.spotify.com/track/1TM1jRGtkF18D4VnRqlpKu"
+    },
+    {
+      "added_at": "2023-01-23 22:55:31",
+      "album": {
         "name": "\u00c9xitos Vol. 2",
         "url": "https://open.spotify.com/album/6DG898DOEIdqpKyK2nB72v"
       },
@@ -643,22 +643,6 @@
     {
       "added_at": "2023-01-23 22:55:31",
       "album": {
-        "name": "Pensamiento",
-        "url": "https://open.spotify.com/album/1uuYnEN87b3BkbQlQmbf0F"
-      },
-      "artists": [
-        {
-          "name": "Las Almas Nuevas",
-          "url": "https://open.spotify.com/artist/5LSP2iBRUfSpFUY7xOislt"
-        }
-      ],
-      "duration_ms": 136000,
-      "name": "Pensamiento",
-      "url": "https://open.spotify.com/track/7GxIlqOjYpmh080KhtOrtE"
-    },
-    {
-      "added_at": "2023-01-23 22:55:31",
-      "album": {
         "name": "25 Exitos",
         "url": "https://open.spotify.com/album/6rmBa08mpIj55kcE4AdSBS"
       },
@@ -671,6 +655,22 @@
       "duration_ms": 261399,
       "name": "Besame Mucho",
       "url": "https://open.spotify.com/track/3OQBWVESLIsq4h0M2U1WN4"
+    },
+    {
+      "added_at": "2023-01-23 22:55:31",
+      "album": {
+        "name": "Pensamiento",
+        "url": "https://open.spotify.com/album/1uuYnEN87b3BkbQlQmbf0F"
+      },
+      "artists": [
+        {
+          "name": "Las Almas Nuevas",
+          "url": "https://open.spotify.com/artist/5LSP2iBRUfSpFUY7xOislt"
+        }
+      ],
+      "duration_ms": 136000,
+      "name": "Pensamiento",
+      "url": "https://open.spotify.com/track/7GxIlqOjYpmh080KhtOrtE"
     },
     {
       "added_at": "2023-01-23 22:55:31",
@@ -771,6 +771,22 @@
     {
       "added_at": "2023-01-23 22:55:31",
       "album": {
+        "name": "Juan Gabriel Instrumental",
+        "url": "https://open.spotify.com/album/0gwnj5oFg6mpXSCHdu87Fg"
+      },
+      "artists": [
+        {
+          "name": "Chamin Madero",
+          "url": "https://open.spotify.com/artist/2i6crsrnfZnUu1hdEEa1Z4"
+        }
+      ],
+      "duration_ms": 246746,
+      "name": "Costumbres",
+      "url": "https://open.spotify.com/track/7pK8jqZaln51RmaCKcvNr6"
+    },
+    {
+      "added_at": "2023-01-23 22:55:31",
+      "album": {
         "name": "Luna Lunera",
         "url": "https://open.spotify.com/album/1LHSs9qU9O6bu2OIvav6pr"
       },
@@ -803,6 +819,38 @@
     {
       "added_at": "2023-01-23 22:55:31",
       "album": {
+        "name": "Guitarra Mexicana",
+        "url": "https://open.spotify.com/album/4E9JVN15xAQeBCtFuxnafP"
+      },
+      "artists": [
+        {
+          "name": "Roberto Rojas",
+          "url": "https://open.spotify.com/artist/6h8HM5jSn1QjXgOiZzfm0p"
+        }
+      ],
+      "duration_ms": 140817,
+      "name": "Dos Arbolitos",
+      "url": "https://open.spotify.com/track/79asYQZENI08hJ8dbQxnAu"
+    },
+    {
+      "added_at": "2023-01-23 22:55:31",
+      "album": {
+        "name": "25 Exitos",
+        "url": "https://open.spotify.com/album/6rmBa08mpIj55kcE4AdSBS"
+      },
+      "artists": [
+        {
+          "name": "Guitarras M\u00e1gicas",
+          "url": "https://open.spotify.com/artist/20lOJusSoLyiJR1CYQH4a0"
+        }
+      ],
+      "duration_ms": 197773,
+      "name": "Piel Canela",
+      "url": "https://open.spotify.com/track/5jgDyBwJ9MT6r1L8LsJXhJ"
+    },
+    {
+      "added_at": "2023-01-23 22:55:31",
+      "album": {
         "name": "Guitarras Latinas",
         "url": "https://open.spotify.com/album/6z1QMvoOBwozy4CvEqNPsD"
       },
@@ -823,38 +871,6 @@
     {
       "added_at": "2023-01-23 22:55:31",
       "album": {
-        "name": "Juan Gabriel Instrumental",
-        "url": "https://open.spotify.com/album/0gwnj5oFg6mpXSCHdu87Fg"
-      },
-      "artists": [
-        {
-          "name": "Chamin Madero",
-          "url": "https://open.spotify.com/artist/2i6crsrnfZnUu1hdEEa1Z4"
-        }
-      ],
-      "duration_ms": 246746,
-      "name": "Costumbres",
-      "url": "https://open.spotify.com/track/7pK8jqZaln51RmaCKcvNr6"
-    },
-    {
-      "added_at": "2023-01-23 22:55:31",
-      "album": {
-        "name": "Guitarra Mexicana",
-        "url": "https://open.spotify.com/album/4E9JVN15xAQeBCtFuxnafP"
-      },
-      "artists": [
-        {
-          "name": "Roberto Rojas",
-          "url": "https://open.spotify.com/artist/6h8HM5jSn1QjXgOiZzfm0p"
-        }
-      ],
-      "duration_ms": 140817,
-      "name": "Dos Arbolitos",
-      "url": "https://open.spotify.com/track/79asYQZENI08hJ8dbQxnAu"
-    },
-    {
-      "added_at": "2023-01-23 22:55:31",
-      "album": {
         "name": "Perdoname",
         "url": "https://open.spotify.com/album/2UXJz6qh5y44uiHxlP8k6M"
       },
@@ -867,22 +883,6 @@
       "duration_ms": 144194,
       "name": "Perdoname",
       "url": "https://open.spotify.com/track/5GN4KcUMREkJAV3Cuhp5oY"
-    },
-    {
-      "added_at": "2023-01-23 22:55:31",
-      "album": {
-        "name": "25 Exitos",
-        "url": "https://open.spotify.com/album/6rmBa08mpIj55kcE4AdSBS"
-      },
-      "artists": [
-        {
-          "name": "Guitarras M\u00e1gicas",
-          "url": "https://open.spotify.com/artist/20lOJusSoLyiJR1CYQH4a0"
-        }
-      ],
-      "duration_ms": 197773,
-      "name": "Piel Canela",
-      "url": "https://open.spotify.com/track/5jgDyBwJ9MT6r1L8LsJXhJ"
     },
     {
       "added_at": "2023-01-23 22:55:31",
@@ -919,22 +919,18 @@
     {
       "added_at": "2023-01-23 22:55:31",
       "album": {
-        "name": "Presentimiento",
-        "url": "https://open.spotify.com/album/0nWb8ZW4xynOxjNR0L3yEr"
+        "name": "25 Exitos",
+        "url": "https://open.spotify.com/album/6rmBa08mpIj55kcE4AdSBS"
       },
       "artists": [
         {
-          "name": "Jos\u00e9 Isidoro",
-          "url": "https://open.spotify.com/artist/3nbcGaD8jhAuRC6SLuB2Hz"
-        },
-        {
-          "name": "Mauricio Hernandez Monterrubio",
-          "url": "https://open.spotify.com/artist/5K5WYuWrH1riDA7600TlE6"
+          "name": "Guitarras M\u00e1gicas",
+          "url": "https://open.spotify.com/artist/20lOJusSoLyiJR1CYQH4a0"
         }
       ],
-      "duration_ms": 180400,
-      "name": "Presentimiento",
-      "url": "https://open.spotify.com/track/4i5oTNy1YUFjKDPyeRgSPQ"
+      "duration_ms": 195000,
+      "name": "Costumbres",
+      "url": "https://open.spotify.com/track/6RGcyQM6Jt2VJ7OBHuVvT4"
     },
     {
       "added_at": "2023-01-23 22:55:31",
@@ -951,6 +947,26 @@
       "duration_ms": 221000,
       "name": "Amor Eterno",
       "url": "https://open.spotify.com/track/5k7l6Sl8lmLfxqbFg2kLgk"
+    },
+    {
+      "added_at": "2023-01-23 22:55:31",
+      "album": {
+        "name": "Presentimiento",
+        "url": "https://open.spotify.com/album/0nWb8ZW4xynOxjNR0L3yEr"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 Isidoro",
+          "url": "https://open.spotify.com/artist/3nbcGaD8jhAuRC6SLuB2Hz"
+        },
+        {
+          "name": "Mauricio Hernandez Monterrubio",
+          "url": "https://open.spotify.com/artist/5K5WYuWrH1riDA7600TlE6"
+        }
+      ],
+      "duration_ms": 180400,
+      "name": "Presentimiento",
+      "url": "https://open.spotify.com/track/4i5oTNy1YUFjKDPyeRgSPQ"
     },
     {
       "added_at": "2023-01-23 22:55:31",
@@ -1035,22 +1051,6 @@
     {
       "added_at": "2023-01-23 22:55:31",
       "album": {
-        "name": "25 Exitos",
-        "url": "https://open.spotify.com/album/6rmBa08mpIj55kcE4AdSBS"
-      },
-      "artists": [
-        {
-          "name": "Guitarras M\u00e1gicas",
-          "url": "https://open.spotify.com/artist/20lOJusSoLyiJR1CYQH4a0"
-        }
-      ],
-      "duration_ms": 195000,
-      "name": "Costumbres",
-      "url": "https://open.spotify.com/track/6RGcyQM6Jt2VJ7OBHuVvT4"
-    },
-    {
-      "added_at": "2023-01-23 22:55:31",
-      "album": {
         "name": "Llorando Estoy Por Ti",
         "url": "https://open.spotify.com/album/5uQXjOkNlz31i1Uz5h7QH1"
       },
@@ -1079,6 +1079,22 @@
       "duration_ms": 117748,
       "name": "La Borrachita",
       "url": "https://open.spotify.com/track/5reZsy6MsXxZ3qD5VNOQye"
+    },
+    {
+      "added_at": "2023-01-23 22:55:31",
+      "album": {
+        "name": "25 Exitos",
+        "url": "https://open.spotify.com/album/6rmBa08mpIj55kcE4AdSBS"
+      },
+      "artists": [
+        {
+          "name": "Guitarras M\u00e1gicas",
+          "url": "https://open.spotify.com/artist/20lOJusSoLyiJR1CYQH4a0"
+        }
+      ],
+      "duration_ms": 233000,
+      "name": "Concierto de Mariachi - Morena de Mi Corazon",
+      "url": "https://open.spotify.com/track/3QtDxwOY5Xyc26mXQfLViu"
     },
     {
       "added_at": "2023-01-23 22:55:31",
@@ -1143,22 +1159,6 @@
       "duration_ms": 173440,
       "name": "Mar\u00eda Elena",
       "url": "https://open.spotify.com/track/6dF9JTzb2B1rArAlU5pdcx"
-    },
-    {
-      "added_at": "2023-01-23 22:55:31",
-      "album": {
-        "name": "25 Exitos",
-        "url": "https://open.spotify.com/album/6rmBa08mpIj55kcE4AdSBS"
-      },
-      "artists": [
-        {
-          "name": "Guitarras M\u00e1gicas",
-          "url": "https://open.spotify.com/artist/20lOJusSoLyiJR1CYQH4a0"
-        }
-      ],
-      "duration_ms": 233000,
-      "name": "Concierto de Mariachi - Morena de Mi Corazon",
-      "url": "https://open.spotify.com/track/3QtDxwOY5Xyc26mXQfLViu"
     },
     {
       "added_at": "2023-01-23 22:55:31",

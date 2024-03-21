@@ -4,7 +4,7 @@
 
 > late night vibes – notifications off.
 
-75 songs - 3 hr 36 min
+76 songs - 3 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,7 +61,8 @@
 | [Right My Wrongs](https://open.spotify.com/track/5rgrBsAFYMun6yhtnLKRPz) | [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs) | [T R A P S O U L](https://open.spotify.com/album/6eZdwrhB97A3EYx9QppGfl) | 4:09 | 2024-02-02 |  |
 | [Sin on Purpose](https://open.spotify.com/track/49kfmYktbmzmjrZ6dhiVo8) | [Isaiah Falls](https://open.spotify.com/artist/0ocxWXtgr9tJW60xV5ZufT) | [Sin on Purpose](https://open.spotify.com/album/0pX2PQOd7EWLwLvFYMuR9G) | 2:23 | 2024-02-02 |  |
 | [sink or swim](https://open.spotify.com/track/7cSzfId9hyN4CjdFKKKojm) | [Chase Shakur](https://open.spotify.com/artist/1gW1Q6W7d3a9dDXk1KlbG8) | [sink or swim](https://open.spotify.com/album/5dk6DPvWnVfKNBhJQBXcsx) | 3:12 | 2024-02-02 |  |
-| [Sinner](https://open.spotify.com/track/4xiQIdWJI5uT6772AxDe9g) | [Kelz2busy](https://open.spotify.com/artist/7rk80kubaj220eDZQvFYU6) | [Sinner](https://open.spotify.com/album/1uUYrt95TGLSNkjrdjvoOt) | 1:39 | 2024-02-02 |  |
+| [Sinner](https://open.spotify.com/track/4xiQIdWJI5uT6772AxDe9g) | [Kelz2busy](https://open.spotify.com/artist/7rk80kubaj220eDZQvFYU6) | [Sinner](https://open.spotify.com/album/1uUYrt95TGLSNkjrdjvoOt) | 1:39 | 2024-02-02 | 2024-03-21 |
+| [Sinner](https://open.spotify.com/track/7fuDGYEbVcW9fJUhrDeOXV) | [Kelz2busy](https://open.spotify.com/artist/7rk80kubaj220eDZQvFYU6) | [Sinner](https://open.spotify.com/album/1legD3bkAr8HutjWGJ2ZS3) | 1:39 | 2024-02-02 |  |
 | [Superficial](https://open.spotify.com/track/3qGpf4fDQxXl8rPQ52LtB9) | [SAFE](https://open.spotify.com/artist/3bnpcWBcvlfq4hPFJjNPbz) | [Superficial](https://open.spotify.com/album/1kuIqGJ1FD8GF8oJgTI2zK) | 2:14 | 2024-02-02 |  |
 | [THATS MY BABY](https://open.spotify.com/track/4JwYLiyUMUDtvOG5w6AnRq) | [Che Ecru](https://open.spotify.com/artist/45AMD9qU0ERQY5RvR7deHR) | [Ghosts Need Love 2](https://open.spotify.com/album/7pqfjSqeoEdlaZbcu1vmzq) | 4:32 | 2024-02-02 |  |
 | [Too Deep](https://open.spotify.com/track/27SWMXDonOi2apKXgj5EYM) | [Kodie Shane](https://open.spotify.com/artist/1CUeN4GnHAGUk9nAXPorF4) | [Too Deep](https://open.spotify.com/album/0HfOaaQirIIiwkcJWkLfBN) | 2:19 | 2024-03-15 |  |

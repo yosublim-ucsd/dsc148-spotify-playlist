@@ -1,12 +1,12 @@
 {
   "description": "Pinches cumbiones bien locos para bailar.",
-  "num_followers": 148484,
+  "num_followers": 148536,
   "original_name": "50 Cumbiones Bien Locos",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkODE2MGE0MmQxYmFlNWRmN2Q1N2NmZDYyNzFjNTIwN2I1NDVkZGNj",
+  "snapshot_id": "MCwwNTdjMTVjNWI3MmE3YWY5OWNiZTIwNmUxMGUzZjNhZmE5ZWQ0Yjcx",
   "tracks": [
     {
       "added_at": "2023-01-17 14:46:17",
@@ -243,18 +243,18 @@
     {
       "added_at": "2023-01-17 14:46:17",
       "album": {
-        "name": "No Se Va (EN VIVO)",
-        "url": "https://open.spotify.com/album/5jgCL0iatyi00rPPXjmYS3"
+        "name": "Intimidades",
+        "url": "https://open.spotify.com/album/40EJlz5pez7U5J6CwlUu39"
       },
       "artists": [
         {
-          "name": "Grupo Frontera",
-          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
+          "name": "Los Acosta",
+          "url": "https://open.spotify.com/artist/1sxekzjeHJaqkZbpaaGR9x"
         }
       ],
-      "duration_ms": 194019,
-      "name": "No Se Va - EN VIVO",
-      "url": "https://open.spotify.com/track/23Lyy7ZXRvzfgH4JtDkKrX"
+      "duration_ms": 226280,
+      "name": "Como Una Novela",
+      "url": "https://open.spotify.com/track/43Z6YxVTYyr5ewyo2uepdy"
     },
     {
       "added_at": "2023-01-17 14:46:17",
@@ -283,18 +283,18 @@
     {
       "added_at": "2023-01-17 14:46:17",
       "album": {
-        "name": "Intimidades",
-        "url": "https://open.spotify.com/album/40EJlz5pez7U5J6CwlUu39"
+        "name": "No Se Va (EN VIVO)",
+        "url": "https://open.spotify.com/album/5jgCL0iatyi00rPPXjmYS3"
       },
       "artists": [
         {
-          "name": "Los Acosta",
-          "url": "https://open.spotify.com/artist/1sxekzjeHJaqkZbpaaGR9x"
+          "name": "Grupo Frontera",
+          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
         }
       ],
-      "duration_ms": 226280,
-      "name": "Como Una Novela",
-      "url": "https://open.spotify.com/track/43Z6YxVTYyr5ewyo2uepdy"
+      "duration_ms": 194019,
+      "name": "No Se Va - EN VIVO",
+      "url": "https://open.spotify.com/track/23Lyy7ZXRvzfgH4JtDkKrX"
     },
     {
       "added_at": "2023-01-17 14:46:17",
@@ -363,6 +363,22 @@
     {
       "added_at": "2023-01-17 14:46:17",
       "album": {
+        "name": "Que Te Vaya Bien",
+        "url": "https://open.spotify.com/album/40Dl0QnoNEuO3tsbftHtIS"
+      },
+      "artists": [
+        {
+          "name": "Grupo Jalado",
+          "url": "https://open.spotify.com/artist/71mQj8OrRgy3smRMjnFioM"
+        }
+      ],
+      "duration_ms": 217586,
+      "name": "Que Te Vaya Bien",
+      "url": "https://open.spotify.com/track/5IdaVuUzEDF3T56U5vS5ck"
+    },
+    {
+      "added_at": "2023-01-17 14:46:17",
+      "album": {
         "name": "Si Me Tomo una Cerveza",
         "url": "https://open.spotify.com/album/5TXzXK8XclNSvQccVUiCf2"
       },
@@ -383,22 +399,6 @@
     {
       "added_at": "2023-01-17 14:46:17",
       "album": {
-        "name": "Que Te Vaya Bien",
-        "url": "https://open.spotify.com/album/40Dl0QnoNEuO3tsbftHtIS"
-      },
-      "artists": [
-        {
-          "name": "Grupo Jalado",
-          "url": "https://open.spotify.com/artist/71mQj8OrRgy3smRMjnFioM"
-        }
-      ],
-      "duration_ms": 217586,
-      "name": "Que Te Vaya Bien",
-      "url": "https://open.spotify.com/track/5IdaVuUzEDF3T56U5vS5ck"
-    },
-    {
-      "added_at": "2023-01-17 14:46:17",
-      "album": {
         "name": "La Bachata",
         "url": "https://open.spotify.com/album/7cY7BkHL3u4QmvfWSNF1as"
       },
@@ -415,22 +415,6 @@
     {
       "added_at": "2023-01-17 14:46:17",
       "album": {
-        "name": "C\u00f3mo est\u00e1s",
-        "url": "https://open.spotify.com/album/30wGCjJRi0wRjdKu12PQcd"
-      },
-      "artists": [
-        {
-          "name": "Ke Personajes",
-          "url": "https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM"
-        }
-      ],
-      "duration_ms": 227395,
-      "name": "C\u00f3mo est\u00e1s",
-      "url": "https://open.spotify.com/track/6bLvfGI2XeU5DTl8feuNrk"
-    },
-    {
-      "added_at": "2023-01-17 14:46:17",
-      "album": {
         "name": "Donde Estaras",
         "url": "https://open.spotify.com/album/6XOIE8I44BYpa7bqctENqu"
       },
@@ -443,6 +427,22 @@
       "duration_ms": 223503,
       "name": "Donde Estaras",
       "url": "https://open.spotify.com/track/3734uAibGyPgZEABdWFVtM"
+    },
+    {
+      "added_at": "2023-01-17 14:46:17",
+      "album": {
+        "name": "C\u00f3mo est\u00e1s",
+        "url": "https://open.spotify.com/album/30wGCjJRi0wRjdKu12PQcd"
+      },
+      "artists": [
+        {
+          "name": "Ke Personajes",
+          "url": "https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM"
+        }
+      ],
+      "duration_ms": 227395,
+      "name": "C\u00f3mo est\u00e1s",
+      "url": "https://open.spotify.com/track/6bLvfGI2XeU5DTl8feuNrk"
     },
     {
       "added_at": "2023-01-17 14:46:17",
@@ -827,18 +827,18 @@
     {
       "added_at": "2023-01-17 14:46:17",
       "album": {
-        "name": "El Angel Del Amor",
-        "url": "https://open.spotify.com/album/2Seyfb2z21MPHZs4As75ba"
+        "name": "Mu\u00e9vete",
+        "url": "https://open.spotify.com/album/2wlGJHKt8joZ35jI0nfzF1"
       },
       "artists": [
         {
-          "name": "Los Tepoz",
-          "url": "https://open.spotify.com/artist/1yu6r3vgWWDpQLOVHtM8pW"
+          "name": "Los Telez",
+          "url": "https://open.spotify.com/artist/4KZzz3Ri83L1aE5rNK9q3A"
         }
       ],
-      "duration_ms": 236518,
-      "name": "El Angel Del Amor",
-      "url": "https://open.spotify.com/track/2q5YyxChGazXIMIsTKUrdU"
+      "duration_ms": 276880,
+      "name": "Yo Soy Tu Maestro",
+      "url": "https://open.spotify.com/track/23EzYG5WcweDqh5RX9nFaW"
     },
     {
       "added_at": "2023-01-17 14:46:17",
@@ -859,18 +859,18 @@
     {
       "added_at": "2023-01-17 14:46:17",
       "album": {
-        "name": "Mu\u00e9vete",
-        "url": "https://open.spotify.com/album/2wlGJHKt8joZ35jI0nfzF1"
+        "name": "El Angel Del Amor",
+        "url": "https://open.spotify.com/album/2Seyfb2z21MPHZs4As75ba"
       },
       "artists": [
         {
-          "name": "Los Telez",
-          "url": "https://open.spotify.com/artist/4KZzz3Ri83L1aE5rNK9q3A"
+          "name": "Los Tepoz",
+          "url": "https://open.spotify.com/artist/1yu6r3vgWWDpQLOVHtM8pW"
         }
       ],
-      "duration_ms": 276880,
-      "name": "Yo Soy Tu Maestro",
-      "url": "https://open.spotify.com/track/23EzYG5WcweDqh5RX9nFaW"
+      "duration_ms": 236518,
+      "name": "El Angel Del Amor",
+      "url": "https://open.spotify.com/track/2q5YyxChGazXIMIsTKUrdU"
     },
     {
       "added_at": "2023-01-17 14:46:17",
@@ -967,22 +967,6 @@
     {
       "added_at": "2023-01-17 14:46:17",
       "album": {
-        "name": "El Angel Del Amor",
-        "url": "https://open.spotify.com/album/2Seyfb2z21MPHZs4As75ba"
-      },
-      "artists": [
-        {
-          "name": "Los Tepoz",
-          "url": "https://open.spotify.com/artist/1yu6r3vgWWDpQLOVHtM8pW"
-        }
-      ],
-      "duration_ms": 281861,
-      "name": "Te Vas Con El O Te Vas Conmigo",
-      "url": "https://open.spotify.com/track/1dPss1wm3YbdRMuYinPrqq"
-    },
-    {
-      "added_at": "2023-01-17 14:46:17",
-      "album": {
         "name": "Lo Intentamos",
         "url": "https://open.spotify.com/album/2Sm5w6stIMeYwnjaE8nuV5"
       },
@@ -1035,6 +1019,22 @@
       "duration_ms": 233933,
       "name": "No Me Enga\u00f1es Nunca",
       "url": "https://open.spotify.com/track/061AptiQT6XhEkTViCMHWx"
+    },
+    {
+      "added_at": "2023-01-17 14:46:17",
+      "album": {
+        "name": "El Angel Del Amor",
+        "url": "https://open.spotify.com/album/2Seyfb2z21MPHZs4As75ba"
+      },
+      "artists": [
+        {
+          "name": "Los Tepoz",
+          "url": "https://open.spotify.com/artist/1yu6r3vgWWDpQLOVHtM8pW"
+        }
+      ],
+      "duration_ms": 281861,
+      "name": "Te Vas Con El O Te Vas Conmigo",
+      "url": "https://open.spotify.com/track/1dPss1wm3YbdRMuYinPrqq"
     },
     {
       "added_at": "2023-01-17 14:46:17",
@@ -1239,6 +1239,22 @@
     {
       "added_at": "2023-01-17 14:46:17",
       "album": {
+        "name": "Rompiendo las Reglas de la Cumbia",
+        "url": "https://open.spotify.com/album/57D5brwOIybIORt38FflIh"
+      },
+      "artists": [
+        {
+          "name": "ICC",
+          "url": "https://open.spotify.com/artist/66UyAOM9ECEDzsfUm9UXeF"
+        }
+      ],
+      "duration_ms": 266396,
+      "name": "Te Tengo Que Olvidar",
+      "url": "https://open.spotify.com/track/1cFTuzXLHT6XS4PlT9wvZR"
+    },
+    {
+      "added_at": "2023-01-17 14:46:17",
+      "album": {
         "name": "Yendo No, Llegando",
         "url": "https://open.spotify.com/album/3b9MJ9krpxzCmggrlOpIyP"
       },
@@ -1267,22 +1283,6 @@
       "duration_ms": 211875,
       "name": "Yendo No, Llegando",
       "url": "https://open.spotify.com/track/166qsYi2wR3u6qfg7wrh1r"
-    },
-    {
-      "added_at": "2023-01-17 14:46:17",
-      "album": {
-        "name": "Rompiendo las Reglas de la Cumbia",
-        "url": "https://open.spotify.com/album/57D5brwOIybIORt38FflIh"
-      },
-      "artists": [
-        {
-          "name": "ICC",
-          "url": "https://open.spotify.com/artist/66UyAOM9ECEDzsfUm9UXeF"
-        }
-      ],
-      "duration_ms": 266396,
-      "name": "Te Tengo Que Olvidar",
-      "url": "https://open.spotify.com/track/1cFTuzXLHT6XS4PlT9wvZR"
     },
     {
       "added_at": "2023-01-17 14:46:17",
@@ -1351,6 +1351,30 @@
     {
       "added_at": "2023-01-17 14:46:17",
       "album": {
+        "name": "Nuestra Historia Termino",
+        "url": "https://open.spotify.com/album/1iFOgtTfccrwup6iq06dvf"
+      },
+      "artists": [
+        {
+          "name": "ICC",
+          "url": "https://open.spotify.com/artist/66UyAOM9ECEDzsfUm9UXeF"
+        },
+        {
+          "name": "Grupo Quintanna",
+          "url": "https://open.spotify.com/artist/17jlmfAaFHbfrauHk2HiNc"
+        },
+        {
+          "name": "Los Tepoz",
+          "url": "https://open.spotify.com/artist/1yu6r3vgWWDpQLOVHtM8pW"
+        }
+      ],
+      "duration_ms": 234140,
+      "name": "Nuestra Historia Termino",
+      "url": "https://open.spotify.com/track/3BrU3r6HIJI9zmk1rZ7ucg"
+    },
+    {
+      "added_at": "2023-01-17 14:46:17",
+      "album": {
         "name": "M\u00e1s Negro Que la Noche",
         "url": "https://open.spotify.com/album/0BKMSvhWTL8DOoiW0MEpt4"
       },
@@ -1415,26 +1439,22 @@
     {
       "added_at": "2023-01-17 14:46:17",
       "album": {
-        "name": "Nuestra Historia Termino",
-        "url": "https://open.spotify.com/album/1iFOgtTfccrwup6iq06dvf"
+        "name": "No Puedo Olvidarte Cumbia Rosa",
+        "url": "https://open.spotify.com/album/5PV24BwsDo7SxdKpgJUn5n"
       },
       "artists": [
         {
-          "name": "ICC",
-          "url": "https://open.spotify.com/artist/66UyAOM9ECEDzsfUm9UXeF"
+          "name": "Amantes del Futuro",
+          "url": "https://open.spotify.com/artist/6dFvUQyg4lryyquleOuUO0"
         },
         {
-          "name": "Grupo Quintanna",
-          "url": "https://open.spotify.com/artist/17jlmfAaFHbfrauHk2HiNc"
-        },
-        {
-          "name": "Los Tepoz",
-          "url": "https://open.spotify.com/artist/1yu6r3vgWWDpQLOVHtM8pW"
+          "name": "Lisette Martell",
+          "url": "https://open.spotify.com/artist/19i3sTDlrM1RmYGKc9qGx6"
         }
       ],
-      "duration_ms": 234140,
-      "name": "Nuestra Historia Termino",
-      "url": "https://open.spotify.com/track/3BrU3r6HIJI9zmk1rZ7ucg"
+      "duration_ms": 285799,
+      "name": "No Puedo Olvidarte Cumbia Rosa",
+      "url": "https://open.spotify.com/track/5LU3NW5RIL1k2OCXwGNTrd"
     },
     {
       "added_at": "2023-01-17 14:46:17",
@@ -1455,26 +1475,6 @@
       "duration_ms": 124133,
       "name": "Te Hubieras Ido Antes",
       "url": "https://open.spotify.com/track/4HeQYAeIq5lyHcR5JIh6I7"
-    },
-    {
-      "added_at": "2023-01-17 14:46:17",
-      "album": {
-        "name": "No Puedo Olvidarte Cumbia Rosa",
-        "url": "https://open.spotify.com/album/5PV24BwsDo7SxdKpgJUn5n"
-      },
-      "artists": [
-        {
-          "name": "Amantes del Futuro",
-          "url": "https://open.spotify.com/artist/6dFvUQyg4lryyquleOuUO0"
-        },
-        {
-          "name": "Lisette Martell",
-          "url": "https://open.spotify.com/artist/19i3sTDlrM1RmYGKc9qGx6"
-        }
-      ],
-      "duration_ms": 285799,
-      "name": "No Puedo Olvidarte Cumbia Rosa",
-      "url": "https://open.spotify.com/track/5LU3NW5RIL1k2OCXwGNTrd"
     },
     {
       "added_at": "2023-01-17 14:46:17",
@@ -1559,6 +1559,26 @@
     {
       "added_at": "2023-01-17 14:46:17",
       "album": {
+        "name": "Messirve mix 5",
+        "url": "https://open.spotify.com/album/7pw9Do4aXAbWamX4ZcKLoF"
+      },
+      "artists": [
+        {
+          "name": "La T y La M",
+          "url": "https://open.spotify.com/artist/1FxPMQ9A0882eNDx3ZkD6B"
+        },
+        {
+          "name": "Ke Personajes",
+          "url": "https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM"
+        }
+      ],
+      "duration_ms": 312737,
+      "name": "Messirve mix 5",
+      "url": "https://open.spotify.com/track/5piFBPcOsr6OWbBvNjJRuF"
+    },
+    {
+      "added_at": "2023-01-17 14:46:17",
+      "album": {
         "name": "Tirate un paso",
         "url": "https://open.spotify.com/album/5zoumKpJSJKb9efipfFxPm"
       },
@@ -1587,26 +1607,6 @@
       "duration_ms": 177815,
       "name": "Chetos y Cumbieros",
       "url": "https://open.spotify.com/track/6EsuTkSB0cLNfeHnzxBUJS"
-    },
-    {
-      "added_at": "2023-01-17 14:46:17",
-      "album": {
-        "name": "Messirve mix 5",
-        "url": "https://open.spotify.com/album/7pw9Do4aXAbWamX4ZcKLoF"
-      },
-      "artists": [
-        {
-          "name": "La T y La M",
-          "url": "https://open.spotify.com/artist/1FxPMQ9A0882eNDx3ZkD6B"
-        },
-        {
-          "name": "Ke Personajes",
-          "url": "https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM"
-        }
-      ],
-      "duration_ms": 312737,
-      "name": "Messirve mix 5",
-      "url": "https://open.spotify.com/track/5piFBPcOsr6OWbBvNjJRuF"
     },
     {
       "added_at": "2023-01-17 14:46:17",

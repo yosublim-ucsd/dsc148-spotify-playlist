@@ -59,6 +59,24 @@
     },
     {
       "album": {
+        "name": "EL 3ARAB",
+        "url": "https://open.spotify.com/album/5sgTY990OE2XMzxrn3Ob5I"
+      },
+      "artists": [
+        {
+          "name": "Tommy Gun",
+          "url": "https://open.spotify.com/artist/40zCGXzhrnG6Lz4hQ7XK0l"
+        }
+      ],
+      "date_added": "2024-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129700,
+      "name": "3arabawy",
+      "url": "https://open.spotify.com/track/08b9YG42AnVIh70EwEeLpX"
+    },
+    {
+      "album": {
         "name": "Wa7ed Wa7ed",
         "url": "https://open.spotify.com/album/72ZPz1ikH0Ub2Sjtx78S4u"
       },
@@ -644,7 +662,7 @@
       ],
       "date_added": "2024-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-21",
       "duration_ms": 149418,
       "name": "asly-ya-asly",
       "url": "https://open.spotify.com/track/0uWrjKg5mJrFS8ElKWXi2D"

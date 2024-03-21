@@ -1,5 +1,5 @@
 {
-  "2024-03-20": 226152,
+  "2024-03-21": 226159,
   "date_first_scraped": "2020-08-14",
   "description": "Concentra\u00e7\u00e3o no m\u00e1ximo, sem distra\u00e7\u00f5es.",
   "name": "Concentra\u00e7\u00e3o Perfeita",
@@ -2793,7 +2793,7 @@
       ],
       "date_added": "2020-08-14",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2024-03-20",
       "duration_ms": 155500,
       "name": "Con el tiempo todo se consigue",
       "url": "https://open.spotify.com/track/7iw3S9vmaQYrdp9fUh4gzC"
@@ -4651,6 +4651,24 @@
       "duration_ms": 134125,
       "name": "Final Thoughts",
       "url": "https://open.spotify.com/track/33N2hGEswrt2owzlW5PAsX"
+    },
+    {
+      "album": {
+        "name": "Find The Light Behind The Clouds",
+        "url": "https://open.spotify.com/album/3nfBykXL4VSjn141KAOKQq"
+      },
+      "artists": [
+        {
+          "name": "Muri\u00ebl Bostdorp",
+          "url": "https://open.spotify.com/artist/0X98pXmiqyxLXGiLjkj4rq"
+        }
+      ],
+      "date_added": "2024-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139884,
+      "name": "Find The Light Behind The Clouds",
+      "url": "https://open.spotify.com/track/6lO855y2athPU69GEgmFnV"
     },
     {
       "album": {
@@ -9297,6 +9315,24 @@
       "duration_ms": 118974,
       "name": "Mi Nonna",
       "url": "https://open.spotify.com/track/09KFAleSLR5SDyvm55YjjH"
+    },
+    {
+      "album": {
+        "name": "Minor Fable",
+        "url": "https://open.spotify.com/album/4yq1sWpFO7LgofgmmPEEVC"
+      },
+      "artists": [
+        {
+          "name": "Luis Berra",
+          "url": "https://open.spotify.com/artist/7JfQ6KThQOrDXIBDJgSFLk"
+        }
+      ],
+      "date_added": "2024-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121308,
+      "name": "Minor Fable",
+      "url": "https://open.spotify.com/track/6IJ5eCQNpXifW7OqRK9pQc"
     },
     {
       "album": {
@@ -14179,7 +14215,7 @@
       ],
       "date_added": "2022-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-20",
       "duration_ms": 145818,
       "name": "Sunday",
       "url": "https://open.spotify.com/track/4jOQwNjLa0oejVoopzY7Gx"

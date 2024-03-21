@@ -4,16 +4,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0bwPeF.md) - [plain]
 
 > This is Helmet\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,734 likes - 41 songs - 2 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,731 likes - 41 songs - 2 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Unsung](https://open.spotify.com/track/0z25tUQgEI4cIyNZ1TgWig) | [Helmet](https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0) | [Meantime](https://open.spotify.com/album/0U7asaf4jS8EORTjHEWNcJ) | 3:56 |
-| 2 | [Biscuits For Smut](https://open.spotify.com/track/18hQBshq6PncOwt4LRCA05) | [Helmet](https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0) | [Betty](https://open.spotify.com/album/3RmEvRS56AW6bkVihyMK0q) | 2:53 |
+| 2 | [Milquetoast](https://open.spotify.com/track/6IsnrcSZvmmd5db8QpQb91) | [Helmet](https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0) | [Betty](https://open.spotify.com/album/3RmEvRS56AW6bkVihyMK0q) | 3:53 |
 | 3 | [Crashing Foreign Cars](https://open.spotify.com/track/5aAr5Y5wXiUMHVEtvaCXkt) | [Helmet](https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0) | [Size Matters](https://open.spotify.com/album/5SNYP4jdPEGAc7rs5uS9Er) | 2:31 |
 | 4 | [Just Another Victim](https://open.spotify.com/track/4RLIujooyQaBKKLXPB5LnQ) | [Helmet](https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0), [House Of Pain](https://open.spotify.com/artist/0AuW7OCyKfFrsMbtHrYgIV) | [Unsung: The Best Of Helmet 1991\-1997](https://open.spotify.com/album/4bIeWZAXDv7oiFftbioHIO) | 4:22 |
 | 5 | [In The Meantime](https://open.spotify.com/track/6mHgOGBDLM71YzKcwAyiXi) | [Helmet](https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0) | [Meantime](https://open.spotify.com/album/0U7asaf4jS8EORTjHEWNcJ) | 3:08 |
-| 6 | [Milquetoast](https://open.spotify.com/track/6IsnrcSZvmmd5db8QpQb91) | [Helmet](https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0) | [Betty](https://open.spotify.com/album/3RmEvRS56AW6bkVihyMK0q) | 3:53 |
+| 6 | [Biscuits For Smut](https://open.spotify.com/track/18hQBshq6PncOwt4LRCA05) | [Helmet](https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0) | [Betty](https://open.spotify.com/album/3RmEvRS56AW6bkVihyMK0q) | 2:53 |
 | 7 | [Like I Care](https://open.spotify.com/track/1UOkTycAtWGz5rgQxo1E9M) | [Helmet](https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0) | [Aftertaste](https://open.spotify.com/album/1JdPCcQirTIcxXIDIQZtUQ) | 3:19 |
 | 8 | [Milktoast](https://open.spotify.com/track/0EV6881kagOULo42517dMX) | [Helmet](https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0) | [The Crow Original Motion Picture Soundtrack](https://open.spotify.com/album/3y7Mwv7UqhABQqsGlzSL6n) | 3:58 |
 | 9 | [Iron Head](https://open.spotify.com/track/2FhUbI3O3YQ3N5eGSUDwbX) | [Helmet](https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0) | [Meantime](https://open.spotify.com/album/0U7asaf4jS8EORTjHEWNcJ) | 3:22 |
@@ -48,6 +48,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0bwPeF.md) - [plain]
 | 38 | [Make Room](https://open.spotify.com/track/047rc63FPRYjXWq7iLhrzg) | [Helmet](https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0) | [Strap It On](https://open.spotify.com/album/4qx48hhn0A2Xqbv5E9drWl) | 3:26 |
 | 39 | [Holiday](https://open.spotify.com/track/1K5zgKbnR0iGCLTJeev95k) | [Helmet](https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0) | [Left](https://open.spotify.com/album/4ejmUTypA9eTi4kAGNH9nL) | 3:22 |
 | 40 | [Gun Fluf](https://open.spotify.com/track/3d3s4k7Si5iF1Zr3qosz6r) | [Helmet](https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0) | [LEFT](https://open.spotify.com/album/5pHjmGCNpDjFcpGFXSTngH) | 3:29 |
-| 41 | [Tell Me Again](https://open.spotify.com/track/5e5X4a7JK1wUVivxxMZB0G) | [Helmet](https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0) | [Left](https://open.spotify.com/album/4ejmUTypA9eTi4kAGNH9nL) | 2:43 |
+| 41 | [Powder Puff](https://open.spotify.com/track/2o1sbJtl8qV6a9FGpOAQ6g) | [Helmet](https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0) | [Left](https://open.spotify.com/album/4ejmUTypA9eTi4kAGNH9nL) | 3:41 |
 
-Snapshot ID: `Mjg1MTQxOTUsMDAwMDAwMDBiMTI1Njc2MzhjNDljZjliODcyMDIzNjJkZjkyZjJmMA==`
+Snapshot ID: `Mjg1MTU2NjEsMDAwMDAwMDBkMmNjMjc5NjAyYzcxNWU2ZTU1NDA2MWJiYzJhNzI3MQ==`

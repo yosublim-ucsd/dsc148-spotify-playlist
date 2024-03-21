@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbCdb6frP71o.md) - [plain]
 
 > Devotional tracks for an immersive Ramadan.
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,205 likes - 59 songs - 5 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,399 likes - 59 songs - 5 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,7 +48,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbCdb6frP71o.md) - [plain]
 | 38 | [Ya Muhammad \(PBUH\)](https://open.spotify.com/track/3renu7MJv6JUAVVduvgbNM) | [Nabeel Shaukat Ali](https://open.spotify.com/artist/1NkQbSzN7LhkURNg2ChZMp) | [Ya Muhammad \(PBUH\)](https://open.spotify.com/album/1NY6DnrflgT7865M9eEkuZ) | 4:02 |
 | 39 | [Ae Sabz Gunbad Wale](https://open.spotify.com/track/6Qi10QOpDN5KnqH2b5e52G) | [Alhajj Muhammad Owais Raza Qadri](https://open.spotify.com/artist/52UAPLpDG9yHAp9ezBPpoE) | [Ali Haq Ali Ali, Vol\. 114](https://open.spotify.com/album/2JYEGipJuUvKnCdnhINNfH) | 7:02 |
 | 40 | [Hum Faqiron Ko Madeene Ki Gali](https://open.spotify.com/track/29JNkJaRxIDO5cj2jnH0my) | [Fasihuddin Soharwardi](https://open.spotify.com/artist/25U46Cnfd5sKZ5QpVGsXiX) | [Naghmat\-E\-Rasool \- Naat Khawan: Fasih Uddin Soharwardi](https://open.spotify.com/album/3fPZX2PZXE52duQGJGtlZn) | 5:45 |
-| 41 | [SALLALLAH ALA MUHAMMAD](https://open.spotify.com/track/4B4QZzjH5vln4m6jPj8m0J) | [Abdullah Qureshi](https://open.spotify.com/artist/6WKmWnj8GuxXXx1bB0QFw8) | [SALLALLAH ALA MUHAMMAD](https://open.spotify.com/album/7CVRkqzxupkRBI9anDzcIn) | 3:19 |
+| 41 | [SALLALLAH ALA MUHAMMAD](https://open.spotify.com/track/5GHDwlQAQNpHanxWhd9SXC) | [Abdullah Qureshi](https://open.spotify.com/artist/6WKmWnj8GuxXXx1bB0QFw8) | [SALLALLAH ALA MUHAMMAD](https://open.spotify.com/album/23lrrT1uc39FZOM2ijR13a) | 3:19 |
 | 42 | [Qasida Burda Sharif](https://open.spotify.com/track/2zsQKhZhWNUxY5YCKSxjoS) | [Qari Waheed Zafar Qasmi](https://open.spotify.com/artist/2NkEXPNPJyiuIRnO9oTvnY) | [Gulzar e Madina, Vol\. 2](https://open.spotify.com/album/7kQP5I9bMRI24rA3NPm3aX) | 6:08 |
 | 43 | [Mustafa Jan\-E\-Rehmat Pe Lakhon Salam](https://open.spotify.com/track/0FHYFkdMV1xqzMaF7N4MGc) | [Aala Hazrat Ahmad Raza Khan Berailvi](https://open.spotify.com/artist/2Cdo6DrhGs8irR1F0fkWge), [Fasihuddin Soharwardi](https://open.spotify.com/artist/25U46Cnfd5sKZ5QpVGsXiX) | [Naat\-E\-Rasool \- Naat Khawan: Fasih Uddin Soharwardi](https://open.spotify.com/album/0JZbt1Jiq9PJptJitBan5h) | 8:46 |
 | 44 | [Ae Nabi Pyare Nabi](https://open.spotify.com/track/5Zu33OzMbHfJPCjCD5i7mE) | [Junaid Jamshed](https://open.spotify.com/artist/2DmMcw1UxHSzAEFrMY3r2D) | [Rabbi Zidni Ilma \- Islamic Nasheeds](https://open.spotify.com/album/3sOO4LYumKqFpNMwLXYZdz) | 4:48 |
@@ -68,4 +68,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbCdb6frP71o.md) - [plain]
 | 58 | [Mujhe Dar Pe Phir Bulana Madni](https://open.spotify.com/track/2rQ670BWcjcZTZL67pS1W4) | [Alhajj Muhammad Owais Raza Qadri](https://open.spotify.com/artist/52UAPLpDG9yHAp9ezBPpoE) | [Best Of Muhammad Owais Raza Qadri](https://open.spotify.com/album/4l0gR0xHaK9bi6rWZ2P7rF) | 5:34 |
 | 59 | [Lam Yat Nazeeron](https://open.spotify.com/track/3gp2g2nzSPY2I8eNlNND9Y) | [Abdul Rauf Roofi](https://open.spotify.com/artist/3TQzauPaIXPAY3IdstJw5y) | [Rehmat Hi Rehmat](https://open.spotify.com/album/1LAj70hIY2tDMo2m7UtXlu) | 7:07 |
 
-Snapshot ID: `MCw4ZWE5ZTBjZGQ4MzJjYWQ4ZTdjNThkMzk4MWRjNmI5Mzg3OTlhMjlk`
+Snapshot ID: `MCw1MzBiYTNiODVhYWFhZjMyZDgyYjFiYjQ3ZjU5N2U5ZGVlMzVlZTA1`

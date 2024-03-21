@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdxcBWuJkbcy.md) - [plain]
 
 > Pumping tracks for pumping iron!
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,692,190 likes - 80 songs - 3 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,694,087 likes - 80 songs - 3 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdxcBWuJkbcy.md) - [plain]
 | 79 | [Hurricane](https://open.spotify.com/track/5RfVafaeEEiqC0Z3LsBaZw) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [Sentinel](https://open.spotify.com/artist/2GPNLOJ6KU8G9VyrLsz1Sw), [Bonn](https://open.spotify.com/artist/7Io0XduXk7aOHFHA7sLru2) | [Hurricane](https://open.spotify.com/album/4cgBeHPgTibGZe8JW4c0lD) | 3:18 |
 | 80 | [BOTH \- David Guetta & Seth Hills Remix](https://open.spotify.com/track/6b7Z5ICFy6TbQwshMr9ORO) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Seth Hills](https://open.spotify.com/artist/5nFt7a5Du2MkdAr1KniXh7) | [BOTH \(David Guetta & Seth Hills Remix\)](https://open.spotify.com/album/0a37PLxAStKKjYghd2E7lX) | 2:41 |
 
-Snapshot ID: `MCw2M2M0NGQxZWYzMGVhYWFlZTgxMGUxNDY4YzdmYzRjNzI0OGRmNzdi`
+Snapshot ID: `MCxhMzc3MjNjZDdjNzc0YjExNDJjOWU2ZWYzN2I4YTZjYTQ3ZWYxNmRi`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1z7Tel.md) - [plain]
 
 > This is Carlos Y Jose\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,074 likes - 50 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,089 likes - 50 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1z7Tel.md) - [plain]
 | 45 | [La Cosecha](https://open.spotify.com/track/1E1jCVbLh580fnsy6f9qO2) | [Carlos Y Jose](https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb) | [15 Éxitos De \(Vol\. 2\)](https://open.spotify.com/album/7LDBCeInFVYwylBAC3mqpW) | 3:14 |
 | 46 | [Al Pie De Un Arbol](https://open.spotify.com/track/4h0sJQXfkAHy2ldLVLFBL2) | [Carlos Y Jose](https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb) | [Tesoros Musicales](https://open.spotify.com/album/4IxKA1cMz3SCYZiWlFrOZz) | 3:07 |
 | 47 | [Cada Copa](https://open.spotify.com/track/2Zlf3gGvkONYYEnayQkXX6) | [Carlos Y Jose](https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb) | [El Chubasco](https://open.spotify.com/album/3fsQl4XE4ipfkqKico1xnh) | 2:41 |
-| 48 | [Pancho Treviño](https://open.spotify.com/track/3TNrUd7umaRyh0RPjXbtep) | [Carlos Y Jose](https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb) | [Corridos Con](https://open.spotify.com/album/2XJszaQU3ezbZyYn9JUhKR) | 2:41 |
-| 49 | [El Siete Leguas](https://open.spotify.com/track/20Vf0wHEus0qRMg7pxbA4n) | [Carlos Y Jose](https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb) | [Corridos De Caballos Famosos Con](https://open.spotify.com/album/6z3guGK2jlvhj4SlZufhe0) | 3:39 |
+| 48 | [El Siete Leguas](https://open.spotify.com/track/20Vf0wHEus0qRMg7pxbA4n) | [Carlos Y Jose](https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb) | [Corridos De Caballos Famosos Con](https://open.spotify.com/album/6z3guGK2jlvhj4SlZufhe0) | 3:39 |
+| 49 | [Pancho Treviño](https://open.spotify.com/track/3TNrUd7umaRyh0RPjXbtep) | [Carlos Y Jose](https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb) | [Corridos Con](https://open.spotify.com/album/2XJszaQU3ezbZyYn9JUhKR) | 2:41 |
 | 50 | [Modesta Ayala](https://open.spotify.com/track/4StR1lNQoe9ngAUFjbi2dk) | [Carlos Y Jose](https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb) | [Puros Exitos](https://open.spotify.com/album/1YCdH8G9ELHRzfmpJ7c0pl) | 3:03 |
 
-Snapshot ID: `Mjg1MTQxOTUsMDAwMDAwMDAyM2QyZTZlYjY5MTI0NGNjOGVhMDMxNjY4N2QzOWIwNg==`
+Snapshot ID: `Mjg1MTU2NjEsMDAwMDAwMDAyM2YyNWQzNTFkYjhlMWIwMTgxMTBmMzNhYWJkZmYyZg==`

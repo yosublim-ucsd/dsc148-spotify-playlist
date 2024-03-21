@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2CLoLFwNFP1.md) - [plain]
 
 > 
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,342 likes - 100 songs - 6 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,388 likes - 100 songs - 6 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,8 +84,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2CLoLFwNFP1.md) - [plain]
 | 74 | [Sex Trip](https://open.spotify.com/track/6dJ4jLQMM8SXGYrM0eRCNm) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [MOMMAE](https://open.spotify.com/album/1kgzGqeJbY7gwiheabVk1L) | 3:46 |
 | 75 | [My Last \(Feat\. Loco & GRAY\)](https://open.spotify.com/track/2LTLUWY6bTkBZD5OAqhkuI) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI), [Loco](https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm), [GRAY](https://open.spotify.com/artist/3kPEBSt7qgVoRZSbIXMr7W) | [WORLDWIDE](https://open.spotify.com/album/5vESroqrGYDxDPAwUceQxf) | 3:57 |
 | 76 | [Turn Off Your Phone \(Feat\. ELO\) \- Remix](https://open.spotify.com/track/4AtDiqnMxDt8crflZWgZG5) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI), [ELO](https://open.spotify.com/artist/33fY1P5TsAeEK2VgATvz1A) | [EVERYTHING YOU WANTED](https://open.spotify.com/album/0c4LKBzh0ufU36AyuzZRc2) | 4:03 |
-| 77 | [SUMMERIDE](https://open.spotify.com/track/4M9NbNJnOpVCN5jbNln2TJ) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [SUMMERIDE](https://open.spotify.com/album/5mZSzANMkDsJlbTTxugNNo) | 3:38 |
-| 78 | [Limousine \(Feat\. KRNFX\)](https://open.spotify.com/track/2UVSOzDpUyZraoQ3Jf6lF6) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI), [KRNFX](https://open.spotify.com/artist/00190FC20vIUv0wXpeTf8S) | [EVERYTHING YOU WANTED](https://open.spotify.com/album/0c4LKBzh0ufU36AyuzZRc2) | 4:03 |
+| 77 | [Limousine \(Feat\. KRNFX\)](https://open.spotify.com/track/2UVSOzDpUyZraoQ3Jf6lF6) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI), [KRNFX](https://open.spotify.com/artist/00190FC20vIUv0wXpeTf8S) | [EVERYTHING YOU WANTED](https://open.spotify.com/album/0c4LKBzh0ufU36AyuzZRc2) | 4:03 |
+| 78 | [SUMMERIDE](https://open.spotify.com/track/4M9NbNJnOpVCN5jbNln2TJ) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [SUMMERIDE](https://open.spotify.com/album/5mZSzANMkDsJlbTTxugNNo) | 3:38 |
 | 79 | [AQUAMAN](https://open.spotify.com/track/39L0cwuHe0RIgOehPJuQu0) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [EVERYTHING YOU WANTED](https://open.spotify.com/album/0c4LKBzh0ufU36AyuzZRc2) | 4:12 |
 | 80 | [K\-TOWN](https://open.spotify.com/track/4PBYhNbFFXPcwXYUCMUTeF) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI), [Hit\-Boy](https://open.spotify.com/artist/6q3p11nP1p80Ey6LrOOSed) | [K\-TOWN](https://open.spotify.com/album/0djg1pfwluHDX41m0NLmdF) | 2:03 |
 | 81 | [MOMMAE \(Feat\. Crush, Simon Dominic & Honey Cocaine\) \- Remix](https://open.spotify.com/track/4D7itKLDptW3QjL32Uaa6F) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI), [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g), [Simon Dominic](https://open.spotify.com/artist/57W9ikVc6O2wLDtmclSjvN), [Honey C](https://open.spotify.com/artist/7C4fslVznRj1BAu6A0iQ5L) | [WORLDWIDE](https://open.spotify.com/album/5vESroqrGYDxDPAwUceQxf) | 4:18 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2CLoLFwNFP1.md) - [plain]
 | 99 | [World Domination](https://open.spotify.com/track/20QRiEt3H04E5vHJG4LDlG) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI), [HAON](https://open.spotify.com/artist/2krUNMgFZYm5s4Nn0g91W9), [Sik\-K](https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn), [pH\-1](https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W) | [H1GHR : RED TAPE](https://open.spotify.com/album/3KqpbZ7sjKTV6liKowq2MT) | 3:42 |
 | 100 | [I Got This](https://open.spotify.com/track/5IQhpdzUUxk3WngtnrXv2P) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [EVERYTHING YOU WANTED](https://open.spotify.com/album/0c4LKBzh0ufU36AyuzZRc2) | 3:46 |
 
-Snapshot ID: `MCwyY2YwZjkyNjllZWMzYjBlYmFjZDA2Mzc0ZDc4MjFmYTcyMjA2ZDYz`
+Snapshot ID: `MCw3ZDZkNTRhMzIyMzQ1Zjg5NmYzOWIwZjNjNzQwMGVjMzQ0NzA4MTQz`

@@ -1,12 +1,12 @@
 {
   "description": "Get your beast mode on!",
-  "num_followers": 10587273,
+  "num_followers": 10598359,
   "original_name": "Beast Mode",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0MmIxMWE0MDg1ZjViODIxNzY0ZGNjN2U0NGUwNGZlODAzMjdiYWVm",
+  "snapshot_id": "MCxiYmE1MGVkNTAyMTliMjg3OTUxMjQ3MjdjZmZmYTAwMzNmNWZmYWFm",
   "tracks": [
     {
       "added_at": "2024-03-04 16:13:28",
@@ -371,22 +371,6 @@
     {
       "added_at": "2024-03-04 16:13:28",
       "album": {
-        "name": "Pink Friday 2",
-        "url": "https://open.spotify.com/album/2bYCNZfxZrTUv1CHXkz2d2"
-      },
-      "artists": [
-        {
-          "name": "Nicki Minaj",
-          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
-        }
-      ],
-      "duration_ms": 172137,
-      "name": "FTCU",
-      "url": "https://open.spotify.com/track/1a73gcEg6h6Re6hHXoVltJ"
-    },
-    {
-      "added_at": "2024-03-04 16:13:28",
-      "album": {
         "name": "Please Excuse Me for Being Antisocial",
         "url": "https://open.spotify.com/album/52u4anZbHd6UInnmHRFzba"
       },
@@ -399,6 +383,22 @@
       "duration_ms": 196652,
       "name": "The Box",
       "url": "https://open.spotify.com/track/0nbXyq5TXYPCO7pr3N8S4I"
+    },
+    {
+      "added_at": "2024-03-04 16:13:28",
+      "album": {
+        "name": "Pink Friday 2",
+        "url": "https://open.spotify.com/album/2bYCNZfxZrTUv1CHXkz2d2"
+      },
+      "artists": [
+        {
+          "name": "Nicki Minaj",
+          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+        }
+      ],
+      "duration_ms": 172137,
+      "name": "FTCU",
+      "url": "https://open.spotify.com/track/1a73gcEg6h6Re6hHXoVltJ"
     },
     {
       "added_at": "2024-03-04 16:13:28",
@@ -1131,6 +1131,22 @@
     {
       "added_at": "2024-03-04 16:13:28",
       "album": {
+        "name": "MONTERO",
+        "url": "https://open.spotify.com/album/6pOiDiuDQqrmo5DbG0ZubR"
+      },
+      "artists": [
+        {
+          "name": "Lil Nas X",
+          "url": "https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq"
+        }
+      ],
+      "duration_ms": 137704,
+      "name": "MONTERO (Call Me By Your Name)",
+      "url": "https://open.spotify.com/track/1SC5rEoYDGUK4NfG82494W"
+    },
+    {
+      "added_at": "2024-03-04 16:13:28",
+      "album": {
         "name": "Baddadan (feat. IRAH, Flowdan, Trigga & Takura)",
         "url": "https://open.spotify.com/album/2xV74PLdZg5gwA65xGF8cF"
       },
@@ -1163,22 +1179,6 @@
       "duration_ms": 177291,
       "name": "Baddadan (feat. IRAH, Flowdan, Trigga & Takura)",
       "url": "https://open.spotify.com/track/2ZWmmrWUgDBcPSLihBMvhg"
-    },
-    {
-      "added_at": "2024-03-04 16:13:28",
-      "album": {
-        "name": "MONTERO",
-        "url": "https://open.spotify.com/album/6pOiDiuDQqrmo5DbG0ZubR"
-      },
-      "artists": [
-        {
-          "name": "Lil Nas X",
-          "url": "https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq"
-        }
-      ],
-      "duration_ms": 137704,
-      "name": "MONTERO (Call Me By Your Name)",
-      "url": "https://open.spotify.com/track/1SC5rEoYDGUK4NfG82494W"
     },
     {
       "added_at": "2024-03-04 16:13:28",
@@ -1283,18 +1283,22 @@
     {
       "added_at": "2024-03-04 16:13:28",
       "album": {
-        "name": "Just Wanna Rock",
-        "url": "https://open.spotify.com/album/2FD6g8bXEn2uQMYbeqqoCg"
+        "name": "INDUSTRY BABY (feat. Jack Harlow)",
+        "url": "https://open.spotify.com/album/622NFw5Yk0OReMJ2XWcXUh"
       },
       "artists": [
         {
-          "name": "Lil Uzi Vert",
-          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
+          "name": "Lil Nas X",
+          "url": "https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq"
+        },
+        {
+          "name": "Jack Harlow",
+          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
         }
       ],
-      "duration_ms": 123890,
-      "name": "Just Wanna Rock",
-      "url": "https://open.spotify.com/track/4FyesJzVpA39hbYvcseO2d"
+      "duration_ms": 212000,
+      "name": "INDUSTRY BABY (feat. Jack Harlow)",
+      "url": "https://open.spotify.com/track/27NovPIUIRrOZoCHxABJwK"
     },
     {
       "added_at": "2024-03-04 16:13:28",
@@ -1319,22 +1323,18 @@
     {
       "added_at": "2024-03-04 16:13:28",
       "album": {
-        "name": "INDUSTRY BABY (feat. Jack Harlow)",
-        "url": "https://open.spotify.com/album/622NFw5Yk0OReMJ2XWcXUh"
+        "name": "Just Wanna Rock",
+        "url": "https://open.spotify.com/album/2FD6g8bXEn2uQMYbeqqoCg"
       },
       "artists": [
         {
-          "name": "Lil Nas X",
-          "url": "https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq"
-        },
-        {
-          "name": "Jack Harlow",
-          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
+          "name": "Lil Uzi Vert",
+          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
         }
       ],
-      "duration_ms": 212000,
-      "name": "INDUSTRY BABY (feat. Jack Harlow)",
-      "url": "https://open.spotify.com/track/27NovPIUIRrOZoCHxABJwK"
+      "duration_ms": 123890,
+      "name": "Just Wanna Rock",
+      "url": "https://open.spotify.com/track/4FyesJzVpA39hbYvcseO2d"
     },
     {
       "added_at": "2024-03-04 16:13:28",
@@ -1547,6 +1547,26 @@
     {
       "added_at": "2024-03-04 16:13:28",
       "album": {
+        "name": "Where You Are",
+        "url": "https://open.spotify.com/album/4bIEy1wDeaEklS1BanbsmR"
+      },
+      "artists": [
+        {
+          "name": "John Summit",
+          "url": "https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205"
+        },
+        {
+          "name": "Hayla",
+          "url": "https://open.spotify.com/artist/4yX6mpMyBGf9UfvBB8JJrc"
+        }
+      ],
+      "duration_ms": 236000,
+      "name": "Where You Are",
+      "url": "https://open.spotify.com/track/4qDpLaFGf5ampf2DXD2TMA"
+    },
+    {
+      "added_at": "2024-03-04 16:13:28",
+      "album": {
         "name": "american dream",
         "url": "https://open.spotify.com/album/2RRYaYHY7fIIdvFlvgb5vq"
       },
@@ -1571,42 +1591,22 @@
     {
       "added_at": "2024-03-04 16:13:28",
       "album": {
-        "name": "Where You Are",
-        "url": "https://open.spotify.com/album/4bIEy1wDeaEklS1BanbsmR"
+        "name": "One in a Million",
+        "url": "https://open.spotify.com/album/65L5VcKGKe6sOJIPNFc0Q1"
       },
       "artists": [
         {
-          "name": "John Summit",
-          "url": "https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205"
+          "name": "Bebe Rexha",
+          "url": "https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb"
         },
         {
-          "name": "Hayla",
-          "url": "https://open.spotify.com/artist/4yX6mpMyBGf9UfvBB8JJrc"
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
         }
       ],
-      "duration_ms": 236000,
-      "name": "Where You Are",
-      "url": "https://open.spotify.com/track/4qDpLaFGf5ampf2DXD2TMA"
-    },
-    {
-      "added_at": "2024-03-04 16:13:28",
-      "album": {
-        "name": "Princess Diana (with Nicki Minaj)",
-        "url": "https://open.spotify.com/album/2Q7WBQ794rA9ISPLfqdKjK"
-      },
-      "artists": [
-        {
-          "name": "Ice Spice",
-          "url": "https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf"
-        },
-        {
-          "name": "Nicki Minaj",
-          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
-        }
-      ],
-      "duration_ms": 172125,
-      "name": "Princess Diana (with Nicki Minaj)",
-      "url": "https://open.spotify.com/track/0ZxhtATQ0a6EvQNZ0z6NKV"
+      "duration_ms": 160529,
+      "name": "One in a Million",
+      "url": "https://open.spotify.com/track/3YfGTvsTAWGC2lgoDOikUz"
     },
     {
       "added_at": "2024-03-04 16:13:28",
@@ -1627,22 +1627,22 @@
     {
       "added_at": "2024-03-04 16:13:28",
       "album": {
-        "name": "One in a Million",
-        "url": "https://open.spotify.com/album/65L5VcKGKe6sOJIPNFc0Q1"
+        "name": "Princess Diana (with Nicki Minaj)",
+        "url": "https://open.spotify.com/album/2Q7WBQ794rA9ISPLfqdKjK"
       },
       "artists": [
         {
-          "name": "Bebe Rexha",
-          "url": "https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb"
+          "name": "Ice Spice",
+          "url": "https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf"
         },
         {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+          "name": "Nicki Minaj",
+          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
         }
       ],
-      "duration_ms": 160529,
-      "name": "One in a Million",
-      "url": "https://open.spotify.com/track/3YfGTvsTAWGC2lgoDOikUz"
+      "duration_ms": 172125,
+      "name": "Princess Diana (with Nicki Minaj)",
+      "url": "https://open.spotify.com/track/0ZxhtATQ0a6EvQNZ0z6NKV"
     },
     {
       "added_at": "2024-03-04 16:13:28",
@@ -1915,6 +1915,26 @@
     {
       "added_at": "2024-03-04 16:13:28",
       "album": {
+        "name": "Remember",
+        "url": "https://open.spotify.com/album/6DHfD3rZapWFmEKX1FNNZF"
+      },
+      "artists": [
+        {
+          "name": "Becky Hill",
+          "url": "https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK"
+        },
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        }
+      ],
+      "duration_ms": 160766,
+      "name": "Remember",
+      "url": "https://open.spotify.com/track/4laAKIq9ZxBCwf99rauPYb"
+    },
+    {
+      "added_at": "2024-03-04 16:13:28",
+      "album": {
         "name": "Another Love (Ti\u00ebsto Remix)",
         "url": "https://open.spotify.com/album/1QltVGlNGbK94CKgUsYZGa"
       },
@@ -1955,26 +1975,6 @@
       "duration_ms": 188000,
       "name": "BOTH",
       "url": "https://open.spotify.com/track/7mobUfp1aL8A6CdugCMWft"
-    },
-    {
-      "added_at": "2024-03-04 16:13:28",
-      "album": {
-        "name": "Remember",
-        "url": "https://open.spotify.com/album/6DHfD3rZapWFmEKX1FNNZF"
-      },
-      "artists": [
-        {
-          "name": "Becky Hill",
-          "url": "https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK"
-        },
-        {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
-        }
-      ],
-      "duration_ms": 160766,
-      "name": "Remember",
-      "url": "https://open.spotify.com/track/4laAKIq9ZxBCwf99rauPYb"
     },
     {
       "added_at": "2024-03-04 16:13:28",
@@ -2099,22 +2099,6 @@
     {
       "added_at": "2024-03-04 16:13:28",
       "album": {
-        "name": "In Ha Mood",
-        "url": "https://open.spotify.com/album/0CQzO0dUktGpymhtvrIXqW"
-      },
-      "artists": [
-        {
-          "name": "Ice Spice",
-          "url": "https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf"
-        }
-      ],
-      "duration_ms": 129360,
-      "name": "In Ha Mood",
-      "url": "https://open.spotify.com/track/0yUaLqhsVsguBpoOPL4cO7"
-    },
-    {
-      "added_at": "2024-03-04 16:13:28",
-      "album": {
         "name": "DS4EVER",
         "url": "https://open.spotify.com/album/02uWB8Kekadkl3yGBoOOcx"
       },
@@ -2135,6 +2119,22 @@
       "duration_ms": 136266,
       "name": "pushin P (feat. Young Thug)",
       "url": "https://open.spotify.com/track/3XOalgusokruzA5ZBA2Qcb"
+    },
+    {
+      "added_at": "2024-03-04 16:13:28",
+      "album": {
+        "name": "In Ha Mood",
+        "url": "https://open.spotify.com/album/0CQzO0dUktGpymhtvrIXqW"
+      },
+      "artists": [
+        {
+          "name": "Ice Spice",
+          "url": "https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf"
+        }
+      ],
+      "duration_ms": 129360,
+      "name": "In Ha Mood",
+      "url": "https://open.spotify.com/track/0yUaLqhsVsguBpoOPL4cO7"
     },
     {
       "added_at": "2024-03-04 16:13:28",
@@ -2355,34 +2355,6 @@
     {
       "added_at": "2024-03-04 16:13:28",
       "album": {
-        "name": "WHATS POPPIN (feat. DaBaby, Tory Lanez & Lil Wayne) [Remix]",
-        "url": "https://open.spotify.com/album/36jrqYRpGVpJqztuqCii22"
-      },
-      "artists": [
-        {
-          "name": "Jack Harlow",
-          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
-        },
-        {
-          "name": "Tory Lanez",
-          "url": "https://open.spotify.com/artist/2jku7tDXc6XoB6MO2hFuqg"
-        },
-        {
-          "name": "DaBaby",
-          "url": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk"
-        },
-        {
-          "name": "Lil Wayne",
-          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
-        }
-      ],
-      "duration_ms": 227478,
-      "name": "WHATS POPPIN (feat. DaBaby, Tory Lanez & Lil Wayne) - Remix",
-      "url": "https://open.spotify.com/track/2MbdDtCv5LUVjYy9RuGTgC"
-    },
-    {
-      "added_at": "2024-03-04 16:13:28",
-      "album": {
         "name": "Run",
         "url": "https://open.spotify.com/album/4d0a5uamW9NWRc1KXFeErI"
       },
@@ -2419,6 +2391,34 @@
     {
       "added_at": "2024-03-04 16:13:28",
       "album": {
+        "name": "WHATS POPPIN (feat. DaBaby, Tory Lanez & Lil Wayne) [Remix]",
+        "url": "https://open.spotify.com/album/36jrqYRpGVpJqztuqCii22"
+      },
+      "artists": [
+        {
+          "name": "Jack Harlow",
+          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
+        },
+        {
+          "name": "Tory Lanez",
+          "url": "https://open.spotify.com/artist/2jku7tDXc6XoB6MO2hFuqg"
+        },
+        {
+          "name": "DaBaby",
+          "url": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk"
+        },
+        {
+          "name": "Lil Wayne",
+          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+        }
+      ],
+      "duration_ms": 227478,
+      "name": "WHATS POPPIN (feat. DaBaby, Tory Lanez & Lil Wayne) - Remix",
+      "url": "https://open.spotify.com/track/2MbdDtCv5LUVjYy9RuGTgC"
+    },
+    {
+      "added_at": "2024-03-04 16:13:28",
+      "album": {
         "name": "Sunshine (My Girl)",
         "url": "https://open.spotify.com/album/7AE0HaidGUaRBSmIZmJ8As"
       },
@@ -2431,6 +2431,22 @@
       "duration_ms": 131250,
       "name": "Sunshine (My Girl)",
       "url": "https://open.spotify.com/track/2bI6KAUqXeIXGAEEvup8ri"
+    },
+    {
+      "added_at": "2024-03-04 16:13:28",
+      "album": {
+        "name": "Pink Venom",
+        "url": "https://open.spotify.com/album/3dZBZnDa3z20uEVnxR38M1"
+      },
+      "artists": [
+        {
+          "name": "BLACKPINK",
+          "url": "https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF"
+        }
+      ],
+      "duration_ms": 186964,
+      "name": "Pink Venom",
+      "url": "https://open.spotify.com/track/0skYUMpS0AcbpjcGsAbRGj"
     },
     {
       "added_at": "2024-03-04 16:13:28",
@@ -2467,22 +2483,6 @@
       "duration_ms": 99280,
       "name": "BILLIE EILISH.",
       "url": "https://open.spotify.com/track/2tDOCMuKSX9IEo9TJ4pBBk"
-    },
-    {
-      "added_at": "2024-03-04 16:13:28",
-      "album": {
-        "name": "Pink Venom",
-        "url": "https://open.spotify.com/album/3dZBZnDa3z20uEVnxR38M1"
-      },
-      "artists": [
-        {
-          "name": "BLACKPINK",
-          "url": "https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF"
-        }
-      ],
-      "duration_ms": 186964,
-      "name": "Pink Venom",
-      "url": "https://open.spotify.com/track/0skYUMpS0AcbpjcGsAbRGj"
     },
     {
       "added_at": "2024-03-04 16:13:28",
@@ -2663,22 +2663,6 @@
     {
       "added_at": "2024-03-04 16:13:28",
       "album": {
-        "name": "CALL DA FIREMAN",
-        "url": "https://open.spotify.com/album/3oDobVNZ3U9BpxOdokk0fL"
-      },
-      "artists": [
-        {
-          "name": "DaBaby",
-          "url": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk"
-        }
-      ],
-      "duration_ms": 124805,
-      "name": "SHAKE SUMN",
-      "url": "https://open.spotify.com/track/3FhZPYvMGSjFc6boVYKlCv"
-    },
-    {
-      "added_at": "2024-03-04 16:13:28",
-      "album": {
         "name": "Esta Vida",
         "url": "https://open.spotify.com/album/5C82uAeAwABjDB7lsLL9iL"
       },
@@ -2695,6 +2679,22 @@
       "duration_ms": 209135,
       "name": "Esta Vida",
       "url": "https://open.spotify.com/track/5OSGdSxtulzlzdPdK2MQJC"
+    },
+    {
+      "added_at": "2024-03-04 16:13:28",
+      "album": {
+        "name": "CALL DA FIREMAN",
+        "url": "https://open.spotify.com/album/3oDobVNZ3U9BpxOdokk0fL"
+      },
+      "artists": [
+        {
+          "name": "DaBaby",
+          "url": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk"
+        }
+      ],
+      "duration_ms": 124805,
+      "name": "SHAKE SUMN",
+      "url": "https://open.spotify.com/track/3FhZPYvMGSjFc6boVYKlCv"
     },
     {
       "added_at": "2024-03-04 16:13:28",

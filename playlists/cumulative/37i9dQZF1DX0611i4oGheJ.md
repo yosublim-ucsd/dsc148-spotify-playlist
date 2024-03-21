@@ -4,7 +4,7 @@
 
 > Sweet gems to help you slow down and savor your day.
 
-342 songs - 21 hr 44 min
+343 songs - 21 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,7 +56,8 @@
 | [Coming Down the Mountain](https://open.spotify.com/track/1aFwSu8VwCuOKQoJuZIzEN) | [Mipso](https://open.spotify.com/artist/5Bcrb5qQMVTEbJ43fdIS4A) | [Coming Down the Mountain](https://open.spotify.com/album/3mOA2HAKbLdbPMypDGYDkO) | 4:33 | 2021-10-22 | 2022-07-29 |
 | [Cool About It](https://open.spotify.com/track/5PJH1U5Iie893v48Fl9yaC) | [boygenius](https://open.spotify.com/artist/1hLiboQ98IQWhpKeP9vRFw), [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG), [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [the record](https://open.spotify.com/album/0e9GjrztzBw8oMC6n2CDeI) | 3:00 | 2023-03-31 |  |
 | [Cover Me Up](https://open.spotify.com/track/5qW6ZYct54PhKliCntyxRX) | [Jason Isbell](https://open.spotify.com/artist/3Q8wgwyVVv0z4UEh1HB0KY) | [Southeastern](https://open.spotify.com/album/1bg476ZQn7hmcXaU05SHV4) | 4:53 | 2021-10-22 |  |
-| [Deeper Well](https://open.spotify.com/track/2lJn77IeZAP9cmv6DPXOrL) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Deeper Well](https://open.spotify.com/album/2NXiMKrwmPrqU8epp20pW8) | 3:52 | 2024-02-16 |  |
+| [Deeper Well](https://open.spotify.com/track/2lJn77IeZAP9cmv6DPXOrL) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Deeper Well](https://open.spotify.com/album/2NXiMKrwmPrqU8epp20pW8) | 3:52 | 2024-02-16 | 2024-03-21 |
+| [Deeper Well](https://open.spotify.com/track/333XFHKsHU0pOocFzBgrJi) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Deeper Well](https://open.spotify.com/album/5SxZmGwc4eJuPp6PcO4JgJ) | 3:52 | 2024-03-15 |  |
 | [Desert Song](https://open.spotify.com/track/1j800qQ0uge8cVdw9BQ3dp) | [säje](https://open.spotify.com/artist/7iitvSs52z6e7UvIo2LCYi) | [Desert Song](https://open.spotify.com/album/01Wmlp4OQ36xv48lqBmDm2) | 3:55 | 2021-10-22 | 2023-03-10 |
 | [Desert Wine \(Acoustic\)](https://open.spotify.com/track/0q15u75SrhGbo1w4BgyAuK) | [Joshua Burnside](https://open.spotify.com/artist/244AFgFclA9c1IcjWOAqoV) | [Wear Bluebells in Your Hat If You're Goin' That Way](https://open.spotify.com/album/7K9v9aLQChb5PGEbloNrh2) | 3:08 | 2021-10-22 | 2022-07-11 |
 | [Dirty Rain](https://open.spotify.com/track/6hNZ5O5riDfxd2wWNgkjVn) | [Andrew Combs](https://open.spotify.com/artist/4ONwFcI8RGvYMG1vEIdS11) | [Dirty Rain](https://open.spotify.com/album/03OHMyiBTEOe4TPtpa0ISr) | 3:12 | 2021-10-22 | 2022-07-29 |

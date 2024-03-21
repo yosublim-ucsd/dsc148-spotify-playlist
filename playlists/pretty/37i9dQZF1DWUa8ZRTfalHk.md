@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUa8ZRTfalHk.md) - [plain]
 
 > Who's now and next in pop\. Cover: Mark Ambor
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,179,921 likes - 100 songs - 5 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,180,258 likes - 100 songs - 5 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUa8ZRTfalHk.md) - [plain]
 | 11 | [My House Is Not A Home](https://open.spotify.com/track/0ssxoYXlw70MY4lh3JsI9q) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [My House Is Not A Home](https://open.spotify.com/album/2vx0QJQQAIkQFJJpdlD3u1) | 3:59 |
 | 12 | [Andrew](https://open.spotify.com/track/0tjVLOoRskePkqXGyP43Y5) | [Ben Platt](https://open.spotify.com/artist/6qGkLCMQkNGOJ079iEcC5k) | [Andrew](https://open.spotify.com/album/303DcpyTMUuP6Nv4sopaRv) | 4:00 |
 | 13 | [the boy is mine](https://open.spotify.com/track/0Lmbke3KNVFXtoH2mMSHCw) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [eternal sunshine](https://open.spotify.com/album/5EYKrEDnKhhcNxGedaRQeK) | 2:53 |
-| 14 | [Austin](https://open.spotify.com/track/4NJqhmkGN042BrvHoMKUrJ) | [Dasha](https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I) | [Austin](https://open.spotify.com/album/4JtlZzYJEa7bejLF0ASnk0) | 2:51 |
+| 14 | [Austin](https://open.spotify.com/track/6b81dy3WjbozXK6b7C1gu5) | [Dasha](https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I) | [What Happens Now?](https://open.spotify.com/album/0rQRrrZPPv6XXsxilJ1wFz) | 2:51 |
 | 15 | [Make You Mine](https://open.spotify.com/track/48vIfHaK7by6x0T6ucpODL) | [Madison Beer](https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q) | [Make You Mine](https://open.spotify.com/album/62g7jm7YqkuQOhfhFpDQXC) | 3:41 |
 | 16 | [Never Lose Me \(feat\. SZA & Cardi B\)](https://open.spotify.com/track/0i1bokCJ95evU1gb5HcXFy) | [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP), [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Fine Ho, Stay](https://open.spotify.com/album/4tNtjyBBXMhGRwqOQTbh6i) | 2:45 |
 | 17 | [WET DREAM](https://open.spotify.com/track/4B2ZFUncmZK3HjL0gDmUms) | [SNOW WIFE](https://open.spotify.com/artist/7CV3dQkhJB2dEqb85ICD33) | [WET DREAM](https://open.spotify.com/album/4m7bDTiTwfiJFotfmEyEkb) | 2:30 |
@@ -50,7 +50,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUa8ZRTfalHk.md) - [plain]
 | 40 | [Let The Light In \(feat\. Father John Misty\)](https://open.spotify.com/track/4qG7hWhljsqqENL5PaLA2z) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa), [Father John Misty](https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT) | [Did you know that there's a tunnel under Ocean Blvd](https://open.spotify.com/album/5HOHne1wzItQlIYmLXLYfZ) | 4:38 |
 | 41 | [Doctor \(Work It Out\) \[feat\. Miley Cyrus\]](https://open.spotify.com/track/4f9wNNZET9wH7eMBgONd3d) | [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8), [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Doctor \(Work It Out\) \[feat\. Miley Cyrus\]](https://open.spotify.com/album/2kJunH6dfHcjJa0lxZbRKr) | 3:02 |
 | 42 | [Son of a Bitch](https://open.spotify.com/track/5EyxR5yEN3mohQ5EycOpII) | [Jessie Murph](https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7) | [Son of a Bitch](https://open.spotify.com/album/4QBpgWspmECfxr201lGim4) | 2:35 |
-| 43 | [Too Good to be True](https://open.spotify.com/track/4vIiVs5JoNfqqRi5o7jAIb) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Too Good to be True](https://open.spotify.com/album/57y7NpfTINlnrNitu8vwft) | 2:40 |
+| 43 | [Too Good to be True](https://open.spotify.com/track/27RDQ0TfxzWMlQFuKrPT11) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Deeper Well](https://open.spotify.com/album/5SxZmGwc4eJuPp6PcO4JgJ) | 2:40 |
 | 44 | [Doing Better](https://open.spotify.com/track/6sMEb3eNrQiW2mxrvURMGc) | [FLETCHER](https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg) | [Doing Better](https://open.spotify.com/album/64WbXlIjvrqkf5AI019x0L) | 2:33 |
 | 45 | [Drown](https://open.spotify.com/track/5qxOeTyWa0JAst5fqdrqgu) | [Justin Timberlake](https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7) | [Drown](https://open.spotify.com/album/5PpH5XpQ59g6CB399oKkVA) | 4:20 |
 | 46 | [I Don't Wanna Dance](https://open.spotify.com/track/330ssf1QuLQjoaoyZbyrPI) | [Charlotte Lawrence](https://open.spotify.com/artist/7LImGq5KnzQobZciDJpeJb) | [I Don't Wanna Dance](https://open.spotify.com/album/6vEl3ZGvpUT8acpCHHxKkS) | 3:02 |
@@ -63,7 +63,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUa8ZRTfalHk.md) - [plain]
 | 53 | [Little Bit Better](https://open.spotify.com/track/0GMs3jq70wmCo12pavj4st) | [Caleb Hearn](https://open.spotify.com/artist/0EiNdCUwM4B5GkTInLAyuj), [ROSIE](https://open.spotify.com/artist/2bp65KnFOIsIosBoqPzvNL) | [Little Bit Better](https://open.spotify.com/album/4cJHTRsxDkQpMPnLwFcgkV) | 3:47 |
 | 54 | [GRAVITY](https://open.spotify.com/track/7jK1u0cB8KMCFQEkLqPjnu) | [Matt Hansen](https://open.spotify.com/artist/6wlhqnATSJIc0NQ64VxOVJ) | [GRAVITY](https://open.spotify.com/album/3q9bGy6VBdN5wwY0oLpydI) | 2:54 |
 | 55 | [supernatural \(with Troye Sivan\)](https://open.spotify.com/track/3iJOkxYP59kFJ5OLgHo4Tp) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR), [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [eternal sunshine \(slightly deluxe\)](https://open.spotify.com/album/5Csjy4XeA7KnizkhIvI7y2) | 2:43 |
-| 56 | [Deeper Well](https://open.spotify.com/track/2lJn77IeZAP9cmv6DPXOrL) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Deeper Well](https://open.spotify.com/album/2NXiMKrwmPrqU8epp20pW8) | 3:52 |
+| 56 | [Deeper Well](https://open.spotify.com/track/333XFHKsHU0pOocFzBgrJi) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Deeper Well](https://open.spotify.com/album/5SxZmGwc4eJuPp6PcO4JgJ) | 3:52 |
 | 57 | [Love On](https://open.spotify.com/track/2fB5YRuD88drKpCXQOAk03) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [Love On](https://open.spotify.com/album/7I7rbWQoLZ7PrTMsRfocpL) | 3:01 |
 | 58 | [End of Beginning](https://open.spotify.com/track/3qhlB30KknSejmIvZZLjOD) | [Djo](https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm) | [DECIDE](https://open.spotify.com/album/4JDXBZdRPId4devseaAOKH) | 2:39 |
 | 59 | [Igual Que Un Ángel \(with Peso Pluma\)](https://open.spotify.com/track/6XaJfhwof7qIgbbXO5tIQI) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [ORQUÍDEAS](https://open.spotify.com/album/5U20AVSsUvycGtWip4XQfo) | 4:20 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUa8ZRTfalHk.md) - [plain]
 | 99 | [Maybe Life Is Good](https://open.spotify.com/track/1Yg1vxpbL10eBFoKXHrFMn) | [Em Beihold](https://open.spotify.com/artist/7o2ZQYM7nTsaVdkXY38UAA) | [Maybe Life Is Good](https://open.spotify.com/album/3JrelA49G1d8BdKIaJ64YO) | 3:10 |
 | 100 | [What If We Met?](https://open.spotify.com/track/4QL02RjuuotlfggAqQeNwy) | [Ali Gatie](https://open.spotify.com/artist/4rTv3Ejc7hKMtmoBOK1B4T) | [all the things i wish i said](https://open.spotify.com/album/5S2eLJTOI1sxhAKkMpbrqM) | 2:23 |
 
-Snapshot ID: `MCwwMDdlZWRkODdhNjlkNTUyZGI5MWNmZDI0OGNlY2MyMzEzNmRhMzk0`
+Snapshot ID: `MCw0ZGRjM2ZlZDAyMjMxNzZmZDMxN2ZiMDU3MjBiNjVhNjdjZmZjY2Fh`

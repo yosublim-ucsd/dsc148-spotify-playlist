@@ -4,7 +4,7 @@
 
 > ¡Deja que la música te inspire para acabar con tu tarea!
 
-255 songs - 13 hr 57 min
+256 songs - 14 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -147,7 +147,8 @@
 | [Love Me More](https://open.spotify.com/track/2OnrjKShafw7qtoyLkKNR2) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Love Me More](https://open.spotify.com/album/6A6pDjKLE4beMgQZzLJ2Qp) | 3:32 | 2022-02-18 | 2022-03-21 |
 | [Love Me More](https://open.spotify.com/track/16MQETUgqXwY4lZcyRafU3) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [Love Me More](https://open.spotify.com/album/59NkDiHvjWqXHHIxzoWAUe) | 3:10 | 2022-05-16 |  |
 | [Love Somebody](https://open.spotify.com/track/50wetCP0Nsx5sIaFHCYlCe) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [Without You](https://open.spotify.com/album/3UqBoqEP6JTeAGdrAQdEHD) | 2:22 | 2022-02-01 | 2022-06-08 |
-| [Love's Train](https://open.spotify.com/track/60gTdTwaNtGAzIxKfeGVfJ) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [Silk Sonic](https://open.spotify.com/artist/6PvvGcCY2XtUcSRld1Wilr) | [Love's Train](https://open.spotify.com/album/6QKXGIgwWmWBMmIktMOchR) | 5:07 | 2022-02-18 |  |
+| [Love's Train](https://open.spotify.com/track/2JUQ7mV1AHk2owXLydmN4Z) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [Silk Sonic](https://open.spotify.com/artist/6PvvGcCY2XtUcSRld1Wilr) | [An Evening With Silk Sonic](https://open.spotify.com/album/1YgekJJTEueWDaMr7BYqPk) | 5:07 | 2023-01-13 |  |
+| [Love's Train](https://open.spotify.com/track/60gTdTwaNtGAzIxKfeGVfJ) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [Silk Sonic](https://open.spotify.com/artist/6PvvGcCY2XtUcSRld1Wilr) | [Love's Train](https://open.spotify.com/album/6QKXGIgwWmWBMmIktMOchR) | 5:07 | 2022-02-18 | 2024-03-21 |
 | [Lover \(Remix\) \[feat\. Shawn Mendes\]](https://open.spotify.com/track/3i9UVldZOE0aD0JnyfAZZ0) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02), [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [Lover \(Remix\) \[feat\. Shawn Mendes\]](https://open.spotify.com/album/2UfvnX1YYeC2cExMQTMbXC) | 3:41 | 2022-02-01 | 2022-04-19 |
 | [Made You Look](https://open.spotify.com/track/0QHEIqNKsMoOY5urbzN48u) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Takin' It Back](https://open.spotify.com/album/4LVa9bljQRvLYpWr8qyaXs) | 2:14 | 2022-11-25 | 2023-01-14 |
 | [Mariposa](https://open.spotify.com/track/4ja2gzrNh9VNigzoXfmbwD) | [Peach Tree Rascals](https://open.spotify.com/artist/0imE3buPhAowREqCrr4CYe) | [Mariposa](https://open.spotify.com/album/0vpGo2ef7QNOKQHtd7qZeh) | 3:30 | 2022-02-01 | 2022-02-19 |

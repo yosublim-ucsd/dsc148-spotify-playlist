@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTlKxC5XMcbx.md) - [plain]
 
 > 即興而自在、優雅而舒緩，這形容是不是像個好夢的感覺呢？就讓美妙的爵士樂助你入眠吧！
 
-[Spotify](https://open.spotify.com/user/spotify) - 62,025 likes - 75 songs - 6 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 62,023 likes - 75 songs - 6 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,8 +67,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTlKxC5XMcbx.md) - [plain]
 | 57 | [Doubts 2](https://open.spotify.com/track/1ohoaGnztWcfczuRDceRdn) | [Ibrahim Maalouf](https://open.spotify.com/artist/0NSO0g40h9CTj13hKPskeb) | [Wind](https://open.spotify.com/album/1zRFuPnqjBckEoOFliJyaI) | 4:54 |
 | 58 | [Good Morning.Goodbye](https://open.spotify.com/track/1PMlAs24OBYlwXF7OeiVYg) | [Dan Cray Trio](https://open.spotify.com/artist/5OrAzdkis91EndJhMLu42l) | [Save US](https://open.spotify.com/album/1FwITvBoG0Fq2FLNFLq9Ze) | 5:36 |
 | 59 | [After You've Gone](https://open.spotify.com/track/1gl8PiCrspI8S4psbqjDgy) | [Eddie Henderson](https://open.spotify.com/artist/4LMsUGCTzMsLYcL90zb8sF) | [Be Cool](https://open.spotify.com/album/1mZiyKK7JnEeisBpPWvk7D) | 7:04 |
-| 60 | [When Your Lover Has Gone](https://open.spotify.com/track/7m4OEcDjdVPVKRhXmnQko5) | [Ben Webster](https://open.spotify.com/artist/34W7ZCX0LZeJd8q6boKGOk), [Oscar Peterson](https://open.spotify.com/artist/6zkX5fhrSD4tdVOmimR9wB) | [Ben Webster Meets Oscar Peterson](https://open.spotify.com/album/52vxvueV32JO6tZHaSojRZ) | 3:56 |
-| 61 | [All The Way](https://open.spotify.com/track/6rUGbjo3y0MbeQNaPfytXe) | [Bob Berg](https://open.spotify.com/artist/1gqL9JWgVW2O87KbYWPNbC) | [Another Standard](https://open.spotify.com/album/5uQeyBHwBYFsxAFqyjjY9Z) | 5:35 |
+| 60 | [All The Way](https://open.spotify.com/track/6rUGbjo3y0MbeQNaPfytXe) | [Bob Berg](https://open.spotify.com/artist/1gqL9JWgVW2O87KbYWPNbC) | [Another Standard](https://open.spotify.com/album/5uQeyBHwBYFsxAFqyjjY9Z) | 5:35 |
+| 61 | [When Your Lover Has Gone](https://open.spotify.com/track/7m4OEcDjdVPVKRhXmnQko5) | [Ben Webster](https://open.spotify.com/artist/34W7ZCX0LZeJd8q6boKGOk), [Oscar Peterson](https://open.spotify.com/artist/6zkX5fhrSD4tdVOmimR9wB) | [Ben Webster Meets Oscar Peterson](https://open.spotify.com/album/52vxvueV32JO6tZHaSojRZ) | 3:56 |
 | 62 | [Alone And I \- Remastered 2007](https://open.spotify.com/track/4IXZjNVYILadTUH7AaF32o) | [Herbie Hancock](https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW) | [Takin' Off \(Expanded Edition\)](https://open.spotify.com/album/61bXefFZqGbVkmb7qzIIOl) | 6:29 |
 | 63 | [Wisteria](https://open.spotify.com/track/4lKiH7lACKR3hAdd1bONzp) | [Steve Kuhn](https://open.spotify.com/artist/6KEBRNgSvb95hjK9Nh0tzt), [Steve Swallow](https://open.spotify.com/artist/6mrjnfLYDl91oh10EIeKPV), [Joey Baron](https://open.spotify.com/artist/0sQXx1Ji0yvldYg6cuEAOW) | [Wisteria](https://open.spotify.com/album/5Ok4cskcyAERwTnaKjEA8s) | 5:47 |
 | 64 | [Emily](https://open.spotify.com/track/6joG9hvPqUH0Bm4Zff7Nru) | [Paul Desmond](https://open.spotify.com/artist/68l2i6GeNtwQlhKS59u5bu) | [Summertime](https://open.spotify.com/album/0yjSeaa1BvDU2nlFB0E6j7) | 4:47 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTlKxC5XMcbx.md) - [plain]
 | 74 | [Sleep Away](https://open.spotify.com/track/5YHPH0wpc5IMqNNrbN3JMm) | [Bob Acri](https://open.spotify.com/artist/5LgnVUVYlM9jqiyYMgNMMB) | [Bob Acri](https://open.spotify.com/album/1HghYCAJpIIZrqad27tp1s) | 3:21 |
 | 75 | [Stardust \- Remastered](https://open.spotify.com/track/5AVd7JsN8ts3xiiU3MPpQM) | [Ben Webster](https://open.spotify.com/artist/34W7ZCX0LZeJd8q6boKGOk) | [Ben Webster Plays Ballads Remastered](https://open.spotify.com/album/5RfiNZQf0WbnR5q4rxOebG) | 6:18 |
 
-Snapshot ID: `MCxiYTMxOWRlOWZmMjNhNzdjYjZlY2QzZWU2MzUxYjZjOTNlZjQ2NDVj`
+Snapshot ID: `MCxlNmQ5ZTk5MjI4YjFjNGZiN2QwNmMwNjcxZWVhNmQ3MDllNGE5YTg5`

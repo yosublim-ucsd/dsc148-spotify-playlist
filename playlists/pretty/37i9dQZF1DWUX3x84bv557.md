@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUX3x84bv557.md) - [plain]
 
 > De nieuwste Nederlandse pop! Cover: Jaap Reesema & Gavin DeGraw
 
-[Spotify](https://open.spotify.com/user/spotify) - 161,803 likes - 60 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 161,812 likes - 60 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUX3x84bv557.md) - [plain]
 | 23 | [Zuinig](https://open.spotify.com/track/1443g2sOZtwR7NjDXlSsBv) | [Vlins](https://open.spotify.com/artist/3qV1LDx1ZWWJVdnLuVXAB5), [Laura Yasmin](https://open.spotify.com/artist/2ifdw2Mu8P2fCey9VLhuu2) | [Zuinig](https://open.spotify.com/album/0ocZWxeSCHRdeh5ogUbrdA) | 2:52 |
 | 24 | [Astronaut](https://open.spotify.com/track/3b5o2I34qbat7ky0PMnhvt) | [Keizer](https://open.spotify.com/artist/2CiOpBO55td0YHJVZYT2KW) | [Astronaut](https://open.spotify.com/album/25MGuw8tGf580C2kI1g28C) | 3:03 |
 | 25 | [Warme Herinneringen](https://open.spotify.com/track/2zzI148jQvqo4zm2m3h2X7) | [Amina](https://open.spotify.com/artist/3xCILTJGZGNKQt4vaYUAAc) | [Warme Herinneringen](https://open.spotify.com/album/5hLlVXaIizLyalqdzTkOF5) | 2:34 |
-| 26 | [Kompas \(feat\. Big2\) \- Remix](https://open.spotify.com/track/2wlpAUC0iE1oHzhg53TS1r) | [Joël Domingos](https://open.spotify.com/artist/5LzkF8ZUuxdSg8BCEwrosb), [Big2](https://open.spotify.com/artist/3B1Z5CuKo6kA4NzitgWwWV) | [Kompas \(Remix\)](https://open.spotify.com/album/29m3Yx0KifqeneeAsJhL0t) | 4:20 |
+| 26 | [Kompas \(feat\. Big2\) \- Remix](https://open.spotify.com/track/5MVQPed9JWDb9m9to3GB0d) | [Joël Domingos](https://open.spotify.com/artist/5LzkF8ZUuxdSg8BCEwrosb), [Big2](https://open.spotify.com/artist/3B1Z5CuKo6kA4NzitgWwWV) | [Dromers Slapen Niet](https://open.spotify.com/album/7hD0o6qizBV3vivCFNHvqD) | 4:20 |
 | 27 | [Alles Op Gevoel](https://open.spotify.com/track/2hCc09htDSAQobdmbYWryY) | [FLEMMING](https://open.spotify.com/artist/0YLlTW9rW7ZCy2cA2u3RYk), [Zoë Tauran](https://open.spotify.com/artist/5fg02ZNJViLdPyxJnRdcsi), [Ronnie Flex](https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl) | [Alles Op Gevoel](https://open.spotify.com/album/0NSk5echypu0j5gJ8x2MNp) | 2:49 |
 | 28 | [Wat Blijft Er Over](https://open.spotify.com/track/6PdJ3PohDI313zycwdczFX) | [Marc Floor](https://open.spotify.com/artist/68Y9QV4i004HBLR6AI5TBc) | [Wat Blijft Er Over](https://open.spotify.com/album/4Vm0qRP5yCDn8DdKF1Mf2j) | 2:37 |
 | 29 | [Struikelen](https://open.spotify.com/track/5dRjmLzrU2qN2uc7uViQBt) | [Birgit Schuurman](https://open.spotify.com/artist/3t8YK94jSx9SebLHxsrAba) | [Struikelen](https://open.spotify.com/album/5kfTrFYrZ4oKWRDJ8tt5lF) | 3:13 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUX3x84bv557.md) - [plain]
 | 59 | [23](https://open.spotify.com/track/0z6xrWWeOlsxCwfvDbTuE0) | [Mick Spek](https://open.spotify.com/artist/23mbvDIZJjSK4y4KhwlnHi) | [23](https://open.spotify.com/album/16H5lY5PLYapy2BXLRQae2) | 2:50 |
 | 60 | [Thuis Thuis](https://open.spotify.com/track/6WHIHaHkbYUCuik1j9KnFP) | [FAY](https://open.spotify.com/artist/2rYvyXWazKzVHanTL5GyCE) | [Thuis Thuis](https://open.spotify.com/album/33rVHZAjT2mWHpJBdVBwyb) | 3:08 |
 
-Snapshot ID: `MCwxZjUzYWYyNDE0OWI4OWE5NTU4MGVlN2M1NTI4NjQwMDZhNTlkZGQ0`
+Snapshot ID: `MCxhY2E4MWVjN2M2YmI2NzZkY2VhNjRlZjBjOGQ4MTMwMzUzN2YwNWQ4`

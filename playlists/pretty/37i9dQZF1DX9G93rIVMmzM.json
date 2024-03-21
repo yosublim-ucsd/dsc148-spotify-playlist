@@ -1,45 +1,13 @@
 {
   "description": "for the baddies.",
-  "num_followers": 119615,
+  "num_followers": 120116,
   "original_name": "ALLURE",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0OGJlNGZlYWY4YTAzNWI2YWRhZDJiNzg4Y2JkMTY5ZDAwZTFkODEy",
+  "snapshot_id": "MCxkY2JlODlmMmUzZmZkYzkxYjIwMmYxZjdkODRiODRlNDJkMjM4NzEz",
   "tracks": [
-    {
-      "added_at": "2024-03-15 04:01:00",
-      "album": {
-        "name": "Be Quiet and Drive (Far Away) \u2013 Spotify Singles",
-        "url": "https://open.spotify.com/album/6jAdEVjL2cnwhhywkdmIzr"
-      },
-      "artists": [
-        {
-          "name": "HEALTH",
-          "url": "https://open.spotify.com/artist/6FfjnGXMhxSsJTuGLWBDth"
-        }
-      ],
-      "duration_ms": 187189,
-      "name": "Be Quiet and Drive (Far Away) \u2013 Spotify Singles",
-      "url": "https://open.spotify.com/track/2SprbOeFdglaLgZoCcytuu"
-    },
-    {
-      "added_at": "2024-03-15 04:01:00",
-      "album": {
-        "name": "Lonely Day - Spotify Singles",
-        "url": "https://open.spotify.com/album/2GUhX1GveJBRtgpyUQhTSY"
-      },
-      "artists": [
-        {
-          "name": "Amira Elfeky",
-          "url": "https://open.spotify.com/artist/6Z4kwq0LOaYQW2CqudoOIk"
-        }
-      ],
-      "duration_ms": 156000,
-      "name": "Lonely Day - Spotify Singles",
-      "url": "https://open.spotify.com/track/2bmGjqYsvXVTt1CRfUicIH"
-    },
     {
       "added_at": "2024-03-15 04:01:00",
       "album": {
@@ -55,22 +23,6 @@
       "duration_ms": 299533,
       "name": "Change (In the House of Flies)",
       "url": "https://open.spotify.com/track/51c94ac31swyDQj9B3Lzs3"
-    },
-    {
-      "added_at": "2024-03-15 04:01:00",
-      "album": {
-        "name": "Take A Look In The Mirror",
-        "url": "https://open.spotify.com/album/3487OYBtnRl82qA6tfyWco"
-      },
-      "artists": [
-        {
-          "name": "Korn",
-          "url": "https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD"
-        }
-      ],
-      "duration_ms": 197906,
-      "name": "Y'all Want a Single",
-      "url": "https://open.spotify.com/track/2WSWm0zlL3CJRACHS5KXbB"
     },
     {
       "added_at": "2024-03-15 04:01:00",
@@ -91,22 +43,6 @@
     {
       "added_at": "2024-03-15 04:01:00",
       "album": {
-        "name": ".5: The Gray Chapter (Special Edition)",
-        "url": "https://open.spotify.com/album/0ApKaazNHf0gzjAYZauexq"
-      },
-      "artists": [
-        {
-          "name": "Slipknot",
-          "url": "https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8"
-        }
-      ],
-      "duration_ms": 254466,
-      "name": "Custer",
-      "url": "https://open.spotify.com/track/3GiJq4AQK7324mfIQbpiTf"
-    },
-    {
-      "added_at": "2024-03-15 04:01:00",
-      "album": {
         "name": "Eternal Blue",
         "url": "https://open.spotify.com/album/4OXoBlapQygTdzAifJm8BL"
       },
@@ -119,6 +55,38 @@
       "duration_ms": 227477,
       "name": "Sun Killer",
       "url": "https://open.spotify.com/track/0qZ03ABKZsGbGhvh1zbbil"
+    },
+    {
+      "added_at": "2024-03-15 04:01:00",
+      "album": {
+        "name": "Obsession",
+        "url": "https://open.spotify.com/album/41L4CSoalacuVSYkfEK2RY"
+      },
+      "artists": [
+        {
+          "name": "Thornhill",
+          "url": "https://open.spotify.com/artist/2dE5audbkV3o5cKxvM7lBD"
+        }
+      ],
+      "duration_ms": 197674,
+      "name": "Obsession",
+      "url": "https://open.spotify.com/track/4OCcKzbevqDQlNdOmXSjAK"
+    },
+    {
+      "added_at": "2024-03-15 04:01:00",
+      "album": {
+        "name": "Be Quiet and Drive (Far Away) \u2013 Spotify Singles",
+        "url": "https://open.spotify.com/album/6jAdEVjL2cnwhhywkdmIzr"
+      },
+      "artists": [
+        {
+          "name": "HEALTH",
+          "url": "https://open.spotify.com/artist/6FfjnGXMhxSsJTuGLWBDth"
+        }
+      ],
+      "duration_ms": 187189,
+      "name": "Be Quiet and Drive (Far Away) \u2013 Spotify Singles",
+      "url": "https://open.spotify.com/track/2SprbOeFdglaLgZoCcytuu"
     },
     {
       "added_at": "2024-03-15 04:01:00",
@@ -139,6 +107,22 @@
     {
       "added_at": "2024-03-15 04:01:00",
       "album": {
+        "name": "The Downward Spiral",
+        "url": "https://open.spotify.com/album/3nJnyDV8fwFpffo0EyHQto"
+      },
+      "artists": [
+        {
+          "name": "Nine Inch Nails",
+          "url": "https://open.spotify.com/artist/0X380XXQSNBYuleKzav5UO"
+        }
+      ],
+      "duration_ms": 373000,
+      "name": "Closer",
+      "url": "https://open.spotify.com/track/2oDqmfa2g8W893LlwJG1qu"
+    },
+    {
+      "added_at": "2024-03-15 04:01:00",
+      "album": {
         "name": "Jar",
         "url": "https://open.spotify.com/album/6JLO3HVtVEKLHqbgs6ujdw"
       },
@@ -151,22 +135,6 @@
       "duration_ms": 249514,
       "name": "Youngest Daughter",
       "url": "https://open.spotify.com/track/3tYxhPqkioZEV5el3DJxLQ"
-    },
-    {
-      "added_at": "2024-03-15 04:01:00",
-      "album": {
-        "name": "Wonder What's Next (Expanded Edition)",
-        "url": "https://open.spotify.com/album/481JiVXZYUlTtqlv9ewJXV"
-      },
-      "artists": [
-        {
-          "name": "Chevelle",
-          "url": "https://open.spotify.com/artist/56dO9zeHKuU5Gvfc2kxHNw"
-        }
-      ],
-      "duration_ms": 238400,
-      "name": "The Red",
-      "url": "https://open.spotify.com/track/1gyee1JuFFiP476LQpRMYU"
     },
     {
       "added_at": "2024-03-15 04:01:00",
@@ -187,102 +155,66 @@
     {
       "added_at": "2024-03-15 04:01:00",
       "album": {
-        "name": "girls like drugs",
-        "url": "https://open.spotify.com/album/2xowbFbsPQ5UY05US7AJS9"
+        "name": "Take A Look In The Mirror",
+        "url": "https://open.spotify.com/album/3487OYBtnRl82qA6tfyWco"
       },
       "artists": [
         {
-          "name": "Paris Texas",
-          "url": "https://open.spotify.com/artist/1SCrMreNPJYSRZIlRe9SUq"
+          "name": "Korn",
+          "url": "https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD"
         }
       ],
-      "duration_ms": 174434,
-      "name": "girls like drugs",
-      "url": "https://open.spotify.com/track/0eXkUXr4wJ3Orruk8S1cpW"
+      "duration_ms": 197906,
+      "name": "Y'all Want a Single",
+      "url": "https://open.spotify.com/track/2WSWm0zlL3CJRACHS5KXbB"
     },
     {
       "added_at": "2024-03-15 04:01:00",
       "album": {
-        "name": "System Of A Down",
-        "url": "https://open.spotify.com/album/3sSfjX4fhZonjyZ10x0l0f"
+        "name": "Lonely Day - Spotify Singles",
+        "url": "https://open.spotify.com/album/2GUhX1GveJBRtgpyUQhTSY"
       },
       "artists": [
         {
-          "name": "System Of A Down",
-          "url": "https://open.spotify.com/artist/5eAWCfyUhZtHHtBdNk56l1"
+          "name": "Amira Elfeky",
+          "url": "https://open.spotify.com/artist/6Z4kwq0LOaYQW2CqudoOIk"
         }
       ],
-      "duration_ms": 215440,
-      "name": "Spiders",
-      "url": "https://open.spotify.com/track/4vAHXnJ5YWLq5hbIVzZS1h"
+      "duration_ms": 156000,
+      "name": "Lonely Day - Spotify Singles",
+      "url": "https://open.spotify.com/track/2bmGjqYsvXVTt1CRfUicIH"
     },
     {
       "added_at": "2024-03-15 04:01:00",
       "album": {
-        "name": "Remnants of the Vessel",
-        "url": "https://open.spotify.com/album/0LniiF1MjvYW8br5Eg7saD"
+        "name": ".5: The Gray Chapter (Special Edition)",
+        "url": "https://open.spotify.com/album/0ApKaazNHf0gzjAYZauexq"
       },
       "artists": [
         {
-          "name": "Faetooth",
-          "url": "https://open.spotify.com/artist/6bAM7jeIX4pI5lZ0QoSZjt"
+          "name": "Slipknot",
+          "url": "https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8"
         }
       ],
-      "duration_ms": 306782,
-      "name": "Echolalia",
-      "url": "https://open.spotify.com/track/0cXHEFaNtrgXuoBtOiaZDo"
+      "duration_ms": 254466,
+      "name": "Custer",
+      "url": "https://open.spotify.com/track/3GiJq4AQK7324mfIQbpiTf"
     },
     {
       "added_at": "2024-03-15 04:01:00",
       "album": {
-        "name": "V.A.N",
-        "url": "https://open.spotify.com/album/6MjPsfdd67Pm1CIi36YvJM"
+        "name": "Wonder What's Next (Expanded Edition)",
+        "url": "https://open.spotify.com/album/481JiVXZYUlTtqlv9ewJXV"
       },
       "artists": [
         {
-          "name": "Bad Omens",
-          "url": "https://open.spotify.com/artist/3Ri4H12KFyu98LMjSoij5V"
-        },
-        {
-          "name": "Poppy",
-          "url": "https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv"
+          "name": "Chevelle",
+          "url": "https://open.spotify.com/artist/56dO9zeHKuU5Gvfc2kxHNw"
         }
       ],
-      "duration_ms": 274098,
-      "name": "V.A.N",
-      "url": "https://open.spotify.com/track/1M31zIMamohkItOjLaBbtx"
-    },
-    {
-      "added_at": "2024-03-15 04:01:00",
-      "album": {
-        "name": "The Downward Spiral",
-        "url": "https://open.spotify.com/album/3nJnyDV8fwFpffo0EyHQto"
-      },
-      "artists": [
-        {
-          "name": "Nine Inch Nails",
-          "url": "https://open.spotify.com/artist/0X380XXQSNBYuleKzav5UO"
-        }
-      ],
-      "duration_ms": 373000,
-      "name": "Closer",
-      "url": "https://open.spotify.com/track/2oDqmfa2g8W893LlwJG1qu"
-    },
-    {
-      "added_at": "2024-03-15 04:01:00",
-      "album": {
-        "name": "Thirteenth Step",
-        "url": "https://open.spotify.com/album/49K6hYDEr5M3GxIBBxlPf9"
-      },
-      "artists": [
-        {
-          "name": "A Perfect Circle",
-          "url": "https://open.spotify.com/artist/4DFhHyjvGYa9wxdHUjtDkc"
-        }
-      ],
-      "duration_ms": 195133,
-      "name": "Weak And Powerless",
-      "url": "https://open.spotify.com/track/7gDVjl5fEw2OPAtjbW4LzR"
+      "duration_ms": 238400,
+      "name": "The Red",
+      "url": "https://open.spotify.com/track/1gyee1JuFFiP476LQpRMYU"
     },
     {
       "added_at": "2024-03-15 04:01:00",
@@ -315,6 +247,90 @@
       "duration_ms": 202207,
       "name": "Drain",
       "url": "https://open.spotify.com/track/3k8ptnrHJn8LzQnvh413c5"
+    },
+    {
+      "added_at": "2024-03-15 04:01:00",
+      "album": {
+        "name": "Remnants of the Vessel",
+        "url": "https://open.spotify.com/album/0LniiF1MjvYW8br5Eg7saD"
+      },
+      "artists": [
+        {
+          "name": "Faetooth",
+          "url": "https://open.spotify.com/artist/6bAM7jeIX4pI5lZ0QoSZjt"
+        }
+      ],
+      "duration_ms": 306782,
+      "name": "Echolalia",
+      "url": "https://open.spotify.com/track/0cXHEFaNtrgXuoBtOiaZDo"
+    },
+    {
+      "added_at": "2024-03-15 04:01:00",
+      "album": {
+        "name": "System Of A Down",
+        "url": "https://open.spotify.com/album/3sSfjX4fhZonjyZ10x0l0f"
+      },
+      "artists": [
+        {
+          "name": "System Of A Down",
+          "url": "https://open.spotify.com/artist/5eAWCfyUhZtHHtBdNk56l1"
+        }
+      ],
+      "duration_ms": 215440,
+      "name": "Spiders",
+      "url": "https://open.spotify.com/track/4vAHXnJ5YWLq5hbIVzZS1h"
+    },
+    {
+      "added_at": "2024-03-15 04:01:00",
+      "album": {
+        "name": "Thirteenth Step",
+        "url": "https://open.spotify.com/album/49K6hYDEr5M3GxIBBxlPf9"
+      },
+      "artists": [
+        {
+          "name": "A Perfect Circle",
+          "url": "https://open.spotify.com/artist/4DFhHyjvGYa9wxdHUjtDkc"
+        }
+      ],
+      "duration_ms": 195133,
+      "name": "Weak And Powerless",
+      "url": "https://open.spotify.com/track/7gDVjl5fEw2OPAtjbW4LzR"
+    },
+    {
+      "added_at": "2024-03-15 04:01:00",
+      "album": {
+        "name": "girls like drugs",
+        "url": "https://open.spotify.com/album/2xowbFbsPQ5UY05US7AJS9"
+      },
+      "artists": [
+        {
+          "name": "Paris Texas",
+          "url": "https://open.spotify.com/artist/1SCrMreNPJYSRZIlRe9SUq"
+        }
+      ],
+      "duration_ms": 174434,
+      "name": "girls like drugs",
+      "url": "https://open.spotify.com/track/0eXkUXr4wJ3Orruk8S1cpW"
+    },
+    {
+      "added_at": "2024-03-15 04:01:00",
+      "album": {
+        "name": "V.A.N",
+        "url": "https://open.spotify.com/album/6MjPsfdd67Pm1CIi36YvJM"
+      },
+      "artists": [
+        {
+          "name": "Bad Omens",
+          "url": "https://open.spotify.com/artist/3Ri4H12KFyu98LMjSoij5V"
+        },
+        {
+          "name": "Poppy",
+          "url": "https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv"
+        }
+      ],
+      "duration_ms": 274098,
+      "name": "V.A.N",
+      "url": "https://open.spotify.com/track/1M31zIMamohkItOjLaBbtx"
     },
     {
       "added_at": "2024-03-15 04:01:00",
@@ -491,22 +507,6 @@
       "duration_ms": 225293,
       "name": "Mascara",
       "url": "https://open.spotify.com/track/4cLdpErILMO8Db8pQVAVcZ"
-    },
-    {
-      "added_at": "2024-03-15 04:01:00",
-      "album": {
-        "name": "Obsession",
-        "url": "https://open.spotify.com/album/41L4CSoalacuVSYkfEK2RY"
-      },
-      "artists": [
-        {
-          "name": "Thornhill",
-          "url": "https://open.spotify.com/artist/2dE5audbkV3o5cKxvM7lBD"
-        }
-      ],
-      "duration_ms": 197674,
-      "name": "Obsession",
-      "url": "https://open.spotify.com/track/4OCcKzbevqDQlNdOmXSjAK"
     },
     {
       "added_at": "2024-03-15 04:01:00",

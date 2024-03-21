@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9YKAGFxiVFe.md) - [plain]
 
 > temas que repetirías más que a tu ex\. <a href=https://spotify.com/descubretuflow>Descubre tu Flow</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 575,535 likes - 40 songs - 2 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 575,401 likes - 40 songs - 2 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,8 +21,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9YKAGFxiVFe.md) - [plain]
 | 11 | [WHERE SHE GOES](https://open.spotify.com/track/7ro0hRteUMfnOioTFI5TG1) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [WHERE SHE GOES](https://open.spotify.com/album/5gCcb5fsSb6w5K8SyJrgtB) | 3:51 |
 | 12 | [Hasta Que Dios Diga](https://open.spotify.com/track/06s3QtMJVXw1AJX3UfvZG1) | [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Emmanuel](https://open.spotify.com/album/7JtT7OyWM8BnIS5FXXPMKg) | 4:06 |
 | 13 | [Shorty Party](https://open.spotify.com/track/55ZATsjPlTeSTNJOuW90pW) | [Cartel De Santa](https://open.spotify.com/artist/07PdYoE4jVRF6Ut40GgVSP), [La Kelly](https://open.spotify.com/artist/4yEIQ0lJDgUEfsuYx3Gsmr) | [Shorty Party](https://open.spotify.com/album/4eoF8b15EaosNzpn2N3Rt9) | 4:25 |
-| 14 | [Solo](https://open.spotify.com/track/6kTMnty169llVx9sGHb6LD) | [Amenazzy](https://open.spotify.com/artist/6kq4GHwUcUojGIu0ziSNXf), [Lary Over](https://open.spotify.com/artist/1jSjfSgDjedJdi5MoyRu78) | [Solo](https://open.spotify.com/album/7gnUxSrGT4npGYuFXwQTO4) | 3:51 |
-| 15 | [Marisola \- Remix](https://open.spotify.com/track/0NO2zL0kw8sGGnaMvHKAZF) | [Cris Mj](https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE), [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg), [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y), [Standly](https://open.spotify.com/artist/0rjms710nwQTdrQheXHJfz), [Stars Music Chile](https://open.spotify.com/artist/2NZD6Gqfk60GEcAAnJKVsR) | [Marisola \(Remix\)](https://open.spotify.com/album/262bymaji1sJPAldR7YyaH) | 3:57 |
+| 14 | [Marisola \- Remix](https://open.spotify.com/track/0NO2zL0kw8sGGnaMvHKAZF) | [Cris Mj](https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE), [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg), [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y), [Standly](https://open.spotify.com/artist/0rjms710nwQTdrQheXHJfz), [Stars Music Chile](https://open.spotify.com/artist/2NZD6Gqfk60GEcAAnJKVsR) | [Marisola \(Remix\)](https://open.spotify.com/album/262bymaji1sJPAldR7YyaH) | 3:57 |
+| 15 | [Solo](https://open.spotify.com/track/6kTMnty169llVx9sGHb6LD) | [Amenazzy](https://open.spotify.com/artist/6kq4GHwUcUojGIu0ziSNXf), [Lary Over](https://open.spotify.com/artist/1jSjfSgDjedJdi5MoyRu78) | [Solo](https://open.spotify.com/album/7gnUxSrGT4npGYuFXwQTO4) | 3:51 |
 | 16 | [Corazón Roto \- Remix](https://open.spotify.com/track/6k5wiT5l9DK8iZmhvEvoqo) | [Brray](https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ), [Jhayco](https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1), [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz) | [Corazón Roto \(Remix\)](https://open.spotify.com/album/6tt4TtcglWQFVSI0AGUvEF) | 4:35 |
 | 17 | [CLASSY 101](https://open.spotify.com/track/6XSqqQIy7Lm7SnwxS4NrGx) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB) | [CLASSY 101](https://open.spotify.com/album/4jtQUtS4ABgER3DnGfKJCv) | 3:15 |
 | 18 | [Neverita](https://open.spotify.com/track/31i56LZnwE6uSu3exoHjtB) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Un Verano Sin Ti](https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5) | 2:53 |
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9YKAGFxiVFe.md) - [plain]
 | 39 | [Tuenti \- Remix](https://open.spotify.com/track/1ZkIxbmM3ZUhn2OayBdwe5) | [Raul Clyde](https://open.spotify.com/artist/2PAyYzUdafG4mFFp6Rynsk), [SAIKO](https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u) | [Tuenti \(Remix\)](https://open.spotify.com/album/5tvMf5MkyB97XVuVLa4xSd) | 3:04 |
 | 40 | [Mini Mini](https://open.spotify.com/track/3KI4rfS7kRC58Dd4ToY7P3) | [Punto40](https://open.spotify.com/artist/2C1Pj5TMq8QjqbwQ4tmDtO), [Marcianeke](https://open.spotify.com/artist/5XQWXnMwsvuvCPMneXUbsy) | [Mini Mini](https://open.spotify.com/album/4zeYzXnl5RwCm4riSOuvOE) | 3:17 |
 
-Snapshot ID: `MCwxZDQ3NmQ2Nzk4MWZiMDkzNTQyZmEwZWU5MGNmOTk5ZWM0M2NhOWFi`
+Snapshot ID: `MCwyMmE1YzkyM2U1YmViMTFmNGZjODkzOGIyZjRmNzQwODU4NTJjZGQ3`

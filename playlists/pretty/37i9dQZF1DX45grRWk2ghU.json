@@ -1,12 +1,12 @@
 {
   "description": "\u2728 life in plastic is fantastic \u2728",
-  "num_followers": 427838,
+  "num_followers": 428831,
   "original_name": "Hot Pink",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxNzE2MjI1ZmQ5ZWU2YzRmNTkwMTQ1YjY3Y2Y1YWM0NjBmM2YxZDVm",
+  "snapshot_id": "MCwwYjBmODUyNTcxZDVhMDViYTBhMzQ5ZTNiZjI5MjQ0ZjBjMzRjMWZl",
   "tracks": [
     {
       "added_at": "2024-03-17 18:21:24",
@@ -359,22 +359,6 @@
     {
       "added_at": "2024-03-17 18:21:24",
       "album": {
-        "name": "LALISA",
-        "url": "https://open.spotify.com/album/66OYt73mqan1hWa78BhfPd"
-      },
-      "artists": [
-        {
-          "name": "LISA",
-          "url": "https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT"
-        }
-      ],
-      "duration_ms": 168227,
-      "name": "MONEY",
-      "url": "https://open.spotify.com/track/7hU3IHwjX150XLoTVmjD0q"
-    },
-    {
-      "added_at": "2024-03-17 18:21:24",
-      "album": {
         "name": "Celebration (double disc version)",
         "url": "https://open.spotify.com/album/43lok9zd7BW5CoYkXZs7S0"
       },
@@ -387,6 +371,22 @@
       "duration_ms": 240280,
       "name": "Material Girl",
       "url": "https://open.spotify.com/track/22sLuJYcvZOSoLLRYev1s5"
+    },
+    {
+      "added_at": "2024-03-17 18:21:24",
+      "album": {
+        "name": "LALISA",
+        "url": "https://open.spotify.com/album/66OYt73mqan1hWa78BhfPd"
+      },
+      "artists": [
+        {
+          "name": "LISA",
+          "url": "https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT"
+        }
+      ],
+      "duration_ms": 168227,
+      "name": "MONEY",
+      "url": "https://open.spotify.com/track/7hU3IHwjX150XLoTVmjD0q"
     },
     {
       "added_at": "2024-03-17 18:21:24",
@@ -535,22 +535,6 @@
     {
       "added_at": "2024-03-17 18:21:24",
       "album": {
-        "name": "Circus (Deluxe Version)",
-        "url": "https://open.spotify.com/album/2tve5DGwub1TtbX1khPX5j"
-      },
-      "artists": [
-        {
-          "name": "Britney Spears",
-          "url": "https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4"
-        }
-      ],
-      "duration_ms": 216520,
-      "name": "If U Seek Amy",
-      "url": "https://open.spotify.com/track/2hdy9Wt9qp7M7d0U3ossu2"
-    },
-    {
-      "added_at": "2024-03-17 18:21:24",
-      "album": {
         "name": "Dangerous Woman",
         "url": "https://open.spotify.com/album/3pdKKSqqLVIKmRTGw0x2N7"
       },
@@ -563,6 +547,22 @@
       "duration_ms": 244453,
       "name": "Into You",
       "url": "https://open.spotify.com/track/63y6xWR4gXz7bnUGOk8iI6"
+    },
+    {
+      "added_at": "2024-03-17 18:21:24",
+      "album": {
+        "name": "Circus (Deluxe Version)",
+        "url": "https://open.spotify.com/album/2tve5DGwub1TtbX1khPX5j"
+      },
+      "artists": [
+        {
+          "name": "Britney Spears",
+          "url": "https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4"
+        }
+      ],
+      "duration_ms": 216520,
+      "name": "If U Seek Amy",
+      "url": "https://open.spotify.com/track/2hdy9Wt9qp7M7d0U3ossu2"
     },
     {
       "added_at": "2024-03-17 18:21:24",
@@ -687,6 +687,46 @@
     {
       "added_at": "2024-03-17 18:21:24",
       "album": {
+        "name": "Tortura",
+        "url": "https://open.spotify.com/album/6etfz9ZOgLi6EMY7O5LxDg"
+      },
+      "artists": [
+        {
+          "name": "Kenia OS",
+          "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
+        }
+      ],
+      "duration_ms": 132400,
+      "name": "Tortura",
+      "url": "https://open.spotify.com/track/5sgXFYthNSatpAyZ64QVs2"
+    },
+    {
+      "added_at": "2024-03-17 18:21:24",
+      "album": {
+        "name": "Charlie's Angels (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/4NBuascXb3uK0mFUYuJ63f"
+      },
+      "artists": [
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        },
+        {
+          "name": "Miley Cyrus",
+          "url": "https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6"
+        },
+        {
+          "name": "Lana Del Rey",
+          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
+        }
+      ],
+      "duration_ms": 190066,
+      "name": "Don\u2019t Call Me Angel (Charlie\u2019s Angels) (with Miley Cyrus & Lana Del Rey)",
+      "url": "https://open.spotify.com/track/6zegtH6XXd2PDPLvy1Y0n2"
+    },
+    {
+      "added_at": "2024-03-17 18:21:24",
+      "album": {
         "name": "Special",
         "url": "https://open.spotify.com/album/1KtDsGsSRGbnmH07v5hB1I"
       },
@@ -723,30 +763,6 @@
     {
       "added_at": "2024-03-17 18:21:24",
       "album": {
-        "name": "Charlie's Angels (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/4NBuascXb3uK0mFUYuJ63f"
-      },
-      "artists": [
-        {
-          "name": "Ariana Grande",
-          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
-        },
-        {
-          "name": "Miley Cyrus",
-          "url": "https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6"
-        },
-        {
-          "name": "Lana Del Rey",
-          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
-        }
-      ],
-      "duration_ms": 190066,
-      "name": "Don\u2019t Call Me Angel (Charlie\u2019s Angels) (with Miley Cyrus & Lana Del Rey)",
-      "url": "https://open.spotify.com/track/6zegtH6XXd2PDPLvy1Y0n2"
-    },
-    {
-      "added_at": "2024-03-17 18:21:24",
-      "album": {
         "name": "Singled Out",
         "url": "https://open.spotify.com/album/4nLyl2aEgi2qQrcPiFlmD7"
       },
@@ -763,22 +779,6 @@
       "duration_ms": 151983,
       "name": "Let Me Think About It",
       "url": "https://open.spotify.com/track/4LjfIjS8iweFCPdKxLnEoV"
-    },
-    {
-      "added_at": "2024-03-17 18:21:24",
-      "album": {
-        "name": "Tortura",
-        "url": "https://open.spotify.com/album/6etfz9ZOgLi6EMY7O5LxDg"
-      },
-      "artists": [
-        {
-          "name": "Kenia OS",
-          "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
-        }
-      ],
-      "duration_ms": 132400,
-      "name": "Tortura",
-      "url": "https://open.spotify.com/track/5sgXFYthNSatpAyZ64QVs2"
     },
     {
       "added_at": "2024-03-17 18:21:24",
@@ -883,6 +883,22 @@
     {
       "added_at": "2024-03-17 18:21:24",
       "album": {
+        "name": "The Rise and Fall of a Midwest Princess",
+        "url": "https://open.spotify.com/album/0EiI8ylL0FmWWpgHVTsZjZ"
+      },
+      "artists": [
+        {
+          "name": "Chappell Roan",
+          "url": "https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN"
+        }
+      ],
+      "duration_ms": 258034,
+      "name": "Pink Pony Club",
+      "url": "https://open.spotify.com/track/1k2pQc5i348DCHwbn5KTdc"
+    },
+    {
+      "added_at": "2024-03-17 18:21:24",
+      "album": {
         "name": "Love Angel Music Baby (Deluxe Version)",
         "url": "https://open.spotify.com/album/3Lqn8M0QxPLIPRJ4nUKTGN"
       },
@@ -903,22 +919,6 @@
     {
       "added_at": "2024-03-17 18:21:24",
       "album": {
-        "name": "The Rise and Fall of a Midwest Princess",
-        "url": "https://open.spotify.com/album/0EiI8ylL0FmWWpgHVTsZjZ"
-      },
-      "artists": [
-        {
-          "name": "Chappell Roan",
-          "url": "https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN"
-        }
-      ],
-      "duration_ms": 258034,
-      "name": "Pink Pony Club",
-      "url": "https://open.spotify.com/track/1k2pQc5i348DCHwbn5KTdc"
-    },
-    {
-      "added_at": "2024-03-17 18:21:24",
-      "album": {
         "name": "Slut Pop",
         "url": "https://open.spotify.com/album/4rs52z8T5zPbsa5HM75tua"
       },
@@ -931,6 +931,22 @@
       "duration_ms": 118153,
       "name": "Treat Me Like A Slut",
       "url": "https://open.spotify.com/track/0dlP9SnqQa5k1A9mReybFb"
+    },
+    {
+      "added_at": "2024-03-17 18:21:24",
+      "album": {
+        "name": "You Still Here, Ho ?",
+        "url": "https://open.spotify.com/album/42C76ZnwdWqEu6zs6NFW1A"
+      },
+      "artists": [
+        {
+          "name": "Flo Milli",
+          "url": "https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd"
+        }
+      ],
+      "duration_ms": 146854,
+      "name": "Conceited",
+      "url": "https://open.spotify.com/track/3qKunud9sySc8qvQ3i84og"
     },
     {
       "added_at": "2024-03-17 18:21:24",
@@ -951,22 +967,6 @@
       "duration_ms": 177813,
       "name": "Ice Cream (with Selena Gomez)",
       "url": "https://open.spotify.com/track/4JUPEh2DVSXFGExu4Uxevz"
-    },
-    {
-      "added_at": "2024-03-17 18:21:24",
-      "album": {
-        "name": "You Still Here, Ho ?",
-        "url": "https://open.spotify.com/album/42C76ZnwdWqEu6zs6NFW1A"
-      },
-      "artists": [
-        {
-          "name": "Flo Milli",
-          "url": "https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd"
-        }
-      ],
-      "duration_ms": 146854,
-      "name": "Conceited",
-      "url": "https://open.spotify.com/track/3qKunud9sySc8qvQ3i84og"
     },
     {
       "added_at": "2024-03-17 18:21:24",

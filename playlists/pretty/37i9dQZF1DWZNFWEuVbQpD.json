@@ -1,12 +1,12 @@
 {
   "description": "It\u2019s Only Rock 'n' Roll (But We Like It)! \ud83d\udd25 Cover: The Beatles",
-  "num_followers": 366624,
+  "num_followers": 366649,
   "original_name": "Rock: i Classici",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxZDIwMWM5ODBjMjkxNzM2NWRlZjVmOGE4MjM2YjdiYmVhNGJjYTA4",
+  "snapshot_id": "MCxkMDc1ZTAxZmFhZTAwMGUyYTY1ZDM4Y2QwMzYxMjg2MGNiMjFiODU2",
   "tracks": [
     {
       "added_at": "2023-11-15 15:49:24",
@@ -479,22 +479,6 @@
     {
       "added_at": "2023-10-19 22:01:00",
       "album": {
-        "name": "Slippery When Wet",
-        "url": "https://open.spotify.com/album/0kBfgEilUFCMIQY5IOjG4t"
-      },
-      "artists": [
-        {
-          "name": "Bon Jovi",
-          "url": "https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp"
-        }
-      ],
-      "duration_ms": 222706,
-      "name": "You Give Love A Bad Name",
-      "url": "https://open.spotify.com/track/0rmGAIH9LNJewFw7nKzZnc"
-    },
-    {
-      "added_at": "2023-10-19 22:01:00",
-      "album": {
         "name": "Reckless (30th Anniversary / Deluxe Edition)",
         "url": "https://open.spotify.com/album/2o2G49EPi4lua5zgxUKhLL"
       },
@@ -507,6 +491,22 @@
       "duration_ms": 216053,
       "name": "Summer Of '69",
       "url": "https://open.spotify.com/track/0GONea6G2XdnHWjNZd6zt3"
+    },
+    {
+      "added_at": "2023-10-19 22:01:00",
+      "album": {
+        "name": "Slippery When Wet",
+        "url": "https://open.spotify.com/album/0kBfgEilUFCMIQY5IOjG4t"
+      },
+      "artists": [
+        {
+          "name": "Bon Jovi",
+          "url": "https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp"
+        }
+      ],
+      "duration_ms": 222706,
+      "name": "You Give Love A Bad Name",
+      "url": "https://open.spotify.com/track/0rmGAIH9LNJewFw7nKzZnc"
     },
     {
       "added_at": "2023-10-19 22:01:00",
@@ -911,22 +911,6 @@
     {
       "added_at": "2023-10-19 22:01:00",
       "album": {
-        "name": "Nevermind (Remastered)",
-        "url": "https://open.spotify.com/album/2guirTSEqLizK7j9i1MTTZ"
-      },
-      "artists": [
-        {
-          "name": "Nirvana",
-          "url": "https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh"
-        }
-      ],
-      "duration_ms": 301920,
-      "name": "Smells Like Teen Spirit",
-      "url": "https://open.spotify.com/track/5ghIJDpPoe3CfHMGu71E6T"
-    },
-    {
-      "added_at": "2023-10-19 22:01:00",
-      "album": {
         "name": "El Camino",
         "url": "https://open.spotify.com/album/5DLhV9yOvZ7IxVmljMXtNm"
       },
@@ -943,22 +927,6 @@
     {
       "added_at": "2023-10-19 22:01:00",
       "album": {
-        "name": "Superunknown (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/29sTacnS0qA9xri6YS8xLA"
-      },
-      "artists": [
-        {
-          "name": "Soundgarden",
-          "url": "https://open.spotify.com/artist/5xUf6j4upBrXZPg6AI4MRK"
-        }
-      ],
-      "duration_ms": 318586,
-      "name": "Black Hole Sun",
-      "url": "https://open.spotify.com/track/2EoOZnxNgtmZaD8uUmz2nD"
-    },
-    {
-      "added_at": "2023-10-19 22:01:00",
-      "album": {
         "name": "Make Yourself",
         "url": "https://open.spotify.com/album/2i6nd4FV6y7K9fln6eelmR"
       },
@@ -971,6 +939,38 @@
       "duration_ms": 232453,
       "name": "Drive",
       "url": "https://open.spotify.com/track/7nnWIPM5hwE3DaUBkvOIpy"
+    },
+    {
+      "added_at": "2023-10-19 22:01:00",
+      "album": {
+        "name": "Nevermind (Remastered)",
+        "url": "https://open.spotify.com/album/2guirTSEqLizK7j9i1MTTZ"
+      },
+      "artists": [
+        {
+          "name": "Nirvana",
+          "url": "https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh"
+        }
+      ],
+      "duration_ms": 301920,
+      "name": "Smells Like Teen Spirit",
+      "url": "https://open.spotify.com/track/5ghIJDpPoe3CfHMGu71E6T"
+    },
+    {
+      "added_at": "2023-10-19 22:01:00",
+      "album": {
+        "name": "Superunknown (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/29sTacnS0qA9xri6YS8xLA"
+      },
+      "artists": [
+        {
+          "name": "Soundgarden",
+          "url": "https://open.spotify.com/artist/5xUf6j4upBrXZPg6AI4MRK"
+        }
+      ],
+      "duration_ms": 318586,
+      "name": "Black Hole Sun",
+      "url": "https://open.spotify.com/track/2EoOZnxNgtmZaD8uUmz2nD"
     },
     {
       "added_at": "2023-10-19 22:01:00",
@@ -1235,22 +1235,6 @@
     {
       "added_at": "2023-10-19 22:01:00",
       "album": {
-        "name": "The Bends",
-        "url": "https://open.spotify.com/album/35UJLpClj5EDrhpNIi4DFg"
-      },
-      "artists": [
-        {
-          "name": "Radiohead",
-          "url": "https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb"
-        }
-      ],
-      "duration_ms": 257480,
-      "name": "High and Dry",
-      "url": "https://open.spotify.com/track/2a1iMaoWQ5MnvLFBDv4qkf"
-    },
-    {
-      "added_at": "2023-10-19 22:01:00",
-      "album": {
         "name": "Once Upon A Time (Super Deluxe)",
         "url": "https://open.spotify.com/album/4YimfceN1R0nOS9CefIFhm"
       },
@@ -1263,6 +1247,22 @@
       "duration_ms": 263040,
       "name": "Don't You (Forget About Me)",
       "url": "https://open.spotify.com/track/3fH4KjXFYMmljxrcGrbPj9"
+    },
+    {
+      "added_at": "2023-10-19 22:01:00",
+      "album": {
+        "name": "The Bends",
+        "url": "https://open.spotify.com/album/35UJLpClj5EDrhpNIi4DFg"
+      },
+      "artists": [
+        {
+          "name": "Radiohead",
+          "url": "https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb"
+        }
+      ],
+      "duration_ms": 257480,
+      "name": "High and Dry",
+      "url": "https://open.spotify.com/track/2a1iMaoWQ5MnvLFBDv4qkf"
     },
     {
       "added_at": "2023-10-19 22:01:00",
@@ -1411,22 +1411,6 @@
     {
       "added_at": "2023-10-19 22:01:00",
       "album": {
-        "name": "Talking Heads '77 (Deluxe Version)",
-        "url": "https://open.spotify.com/album/5eqcF7pWzHgWpGdEmHgeSN"
-      },
-      "artists": [
-        {
-          "name": "Talking Heads",
-          "url": "https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC"
-        }
-      ],
-      "duration_ms": 261413,
-      "name": "Psycho Killer - 2005 Remaster",
-      "url": "https://open.spotify.com/track/1i6N76fftMZhijOzFQ5ZtL"
-    },
-    {
-      "added_at": "2023-10-19 22:01:00",
-      "album": {
         "name": "American Pie",
         "url": "https://open.spotify.com/album/10jsW2NYd9blCrDITMh2zS"
       },
@@ -1439,6 +1423,22 @@
       "duration_ms": 516893,
       "name": "American Pie",
       "url": "https://open.spotify.com/track/1fDsrQ23eTAVFElUMaf38X"
+    },
+    {
+      "added_at": "2023-10-19 22:01:00",
+      "album": {
+        "name": "Talking Heads '77 (Deluxe Version)",
+        "url": "https://open.spotify.com/album/5eqcF7pWzHgWpGdEmHgeSN"
+      },
+      "artists": [
+        {
+          "name": "Talking Heads",
+          "url": "https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC"
+        }
+      ],
+      "duration_ms": 261413,
+      "name": "Psycho Killer - 2005 Remaster",
+      "url": "https://open.spotify.com/track/1i6N76fftMZhijOzFQ5ZtL"
     },
     {
       "added_at": "2023-10-19 22:01:00",
@@ -1571,38 +1571,6 @@
     {
       "added_at": "2023-10-19 22:01:00",
       "album": {
-        "name": "Stranger In Town",
-        "url": "https://open.spotify.com/album/1vhib5WLHRVdOpRjiTHk15"
-      },
-      "artists": [
-        {
-          "name": "Bob Seger",
-          "url": "https://open.spotify.com/artist/485uL27bPomh29R4JmQehQ"
-        }
-      ],
-      "duration_ms": 194146,
-      "name": "Old Time Rock & Roll",
-      "url": "https://open.spotify.com/track/5EOoMWIB9iK4ZpcSex9Ec7"
-    },
-    {
-      "added_at": "2023-10-19 22:01:00",
-      "album": {
-        "name": "Even In The Quietest Moments",
-        "url": "https://open.spotify.com/album/4X87hQ57jTYQTcYTaJWK5w"
-      },
-      "artists": [
-        {
-          "name": "Supertramp",
-          "url": "https://open.spotify.com/artist/3JsMj0DEzyWc0VDlHuy9Bx"
-        }
-      ],
-      "duration_ms": 248173,
-      "name": "Give A Little Bit",
-      "url": "https://open.spotify.com/track/6XUHsYE38CEbYunT983O9G"
-    },
-    {
-      "added_at": "2023-10-19 22:01:00",
-      "album": {
         "name": "Toys In The Attic",
         "url": "https://open.spotify.com/album/6As5aOEQjfxLIChIB3fQRD"
       },
@@ -1615,6 +1583,38 @@
       "duration_ms": 220310,
       "name": "Walk This Way",
       "url": "https://open.spotify.com/track/4JfuiOWlWCkjP6OKurHjSn"
+    },
+    {
+      "added_at": "2023-10-19 22:01:00",
+      "album": {
+        "name": "Willy And The Poor Boys (Expanded Edition)",
+        "url": "https://open.spotify.com/album/31q47gQszFt0CddSyMksgO"
+      },
+      "artists": [
+        {
+          "name": "Creedence Clearwater Revival",
+          "url": "https://open.spotify.com/artist/3IYUhFvPQItj6xySrBmZkd"
+        }
+      ],
+      "duration_ms": 166280,
+      "name": "Down On The Corner",
+      "url": "https://open.spotify.com/track/2gE95JskwQ1pCACTpGe1Db"
+    },
+    {
+      "added_at": "2023-10-19 22:01:00",
+      "album": {
+        "name": "Stranger In Town",
+        "url": "https://open.spotify.com/album/1vhib5WLHRVdOpRjiTHk15"
+      },
+      "artists": [
+        {
+          "name": "Bob Seger",
+          "url": "https://open.spotify.com/artist/485uL27bPomh29R4JmQehQ"
+        }
+      ],
+      "duration_ms": 194146,
+      "name": "Old Time Rock & Roll",
+      "url": "https://open.spotify.com/track/5EOoMWIB9iK4ZpcSex9Ec7"
     }
   ],
   "unique_name": "Rock: i Classici",

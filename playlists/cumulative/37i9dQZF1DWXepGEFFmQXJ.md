@@ -4,7 +4,7 @@
 
 > The cream of today's Country crop\. Cover: Lainey Wilson
 
-576 songs - 1 day 7 hr 37 min
+577 songs - 1 day 7 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -516,7 +516,8 @@
 | [Tokyo](https://open.spotify.com/track/7gEzofK3SW8xsccVa5R30v) | [Abby Christo](https://open.spotify.com/artist/0aE69mf1NjsaqZzXsoo4qH) | [Tokyo](https://open.spotify.com/album/4MqS9aaFo8l3Y9CBLUS7Vb) | 3:09 | 2022-05-06 | 2022-08-12 |
 | [Tomorrow Me](https://open.spotify.com/track/52GuoXJUOFAwmPMtH3V9W4) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [Tomorrow Me](https://open.spotify.com/album/2LI2YMMEAYwSzlVRNGJMNE) | 3:28 | 2022-04-21 | 2022-09-16 |
 | [Too Far Gone](https://open.spotify.com/track/0yJbmeXPDK1dXsCEshUuMC) | [Zac Cross Band](https://open.spotify.com/artist/6l91CwKtYnZKbKbGS0CRIw) | [Too Far Gone](https://open.spotify.com/album/1WLgw88p4v0I3MYoA3L1ze) | 3:12 | 2023-10-26 | 2023-12-20 |
-| [Too Good to be True](https://open.spotify.com/track/4vIiVs5JoNfqqRi5o7jAIb) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Too Good to be True](https://open.spotify.com/album/57y7NpfTINlnrNitu8vwft) | 2:40 | 2024-02-29 |  |
+| [Too Good to be True](https://open.spotify.com/track/27RDQ0TfxzWMlQFuKrPT11) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Deeper Well](https://open.spotify.com/album/5SxZmGwc4eJuPp6PcO4JgJ) | 2:40 | 2024-03-18 |  |
+| [Too Good to be True](https://open.spotify.com/track/4vIiVs5JoNfqqRi5o7jAIb) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Too Good to be True](https://open.spotify.com/album/57y7NpfTINlnrNitu8vwft) | 2:40 | 2024-02-29 | 2024-03-21 |
 | [Traitor Joe](https://open.spotify.com/track/4EU5ykgudDvqTMhMzTSaAp) | [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0) | [Lucky](https://open.spotify.com/album/5DFed53ADZwnPOYuqoZJHK) | 2:33 | 2023-05-04 | 2023-10-06 |
 | [Trouble](https://open.spotify.com/track/7cRggVoZ18mmvIN2EcSQ3J) | [Josh Ross](https://open.spotify.com/artist/1ZGTSMjK1D2HrpPTOh916U) | [Trouble](https://open.spotify.com/album/3svJ9Mv1JKL7R4CBZLtCfp) | 3:34 | 2023-01-05 | 2023-06-23 |
 | [Trouble With A Heartbreak](https://open.spotify.com/track/3HO30hRbkOLU6ZWERayfQO) | [Jason Aldean](https://open.spotify.com/artist/3FfvYsEGaIb52QPXhg4DcH) | [GEORGIA](https://open.spotify.com/album/4ZaUIMUNymqD3koXtYev2P) | 3:16 | 2022-07-28 | 2022-09-24 |

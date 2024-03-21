@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ttEdg9VJHO.md) - [plain]
 
 > Für ein bisschen mehr Leichtigkeit.
 
-[Spotify](https://open.spotify.com/user/spotify) - 351,338 likes - 70 songs - 3 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 351,395 likes - 70 songs - 3 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ttEdg9VJHO.md) - [plain]
 | 21 | [Sink](https://open.spotify.com/track/3lTxG17fsMrjrNkTNJ9NaZ) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Busyhead](https://open.spotify.com/album/3DNQrMjvVGiueVrj1qquJd) | 3:45 |
 | 22 | [All I Know So Far](https://open.spotify.com/track/4LmN3eU1R1vVEdKuDELpGk) | [P!nk](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR) | [All I Know So Far](https://open.spotify.com/album/0uVOhoZbkmOIM4kxJFT2IH) | 4:37 |
 | 23 | [Good Without](https://open.spotify.com/track/15OCqNPYoLziEAsbVnqRj5) | [Mimi Webb](https://open.spotify.com/artist/3GxKJzJK4LpsYGXQrw77wz) | [Good Without](https://open.spotify.com/album/1TushXSMlKucNp0KziSAU4) | 3:02 |
-| 24 | [If Anything's Left](https://open.spotify.com/track/1CViD4tJqNMF4jjgP5Ug62) | [Jamie Fine](https://open.spotify.com/artist/4uwJ3NRArTb8VlKbuAFyFG) | [If Anything's Left](https://open.spotify.com/album/6A49EyetnYOdFfM8IWKCqY) | 2:54 |
-| 25 | [Our Song](https://open.spotify.com/track/5zqObw7wjBgL9TDiAymxPn) | [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX), [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [Our Song](https://open.spotify.com/album/0zocAVUSizQ74Cn8nCsN3a) | 2:43 |
+| 24 | [Our Song](https://open.spotify.com/track/5zqObw7wjBgL9TDiAymxPn) | [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX), [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [Our Song](https://open.spotify.com/album/0zocAVUSizQ74Cn8nCsN3a) | 2:43 |
+| 25 | [If Anything's Left](https://open.spotify.com/track/1CViD4tJqNMF4jjgP5Ug62) | [Jamie Fine](https://open.spotify.com/artist/4uwJ3NRArTb8VlKbuAFyFG) | [If Anything's Left](https://open.spotify.com/album/6A49EyetnYOdFfM8IWKCqY) | 2:54 |
 | 26 | [Over](https://open.spotify.com/track/0OtftDTXLb5Ziq4Goq0nJS) | [ClockClock](https://open.spotify.com/artist/4NSzuIc0eGOftqr0tEOhJk) | [Over](https://open.spotify.com/album/2VQy0vBC1uPz4HRncOjUV2) | 2:49 |
 | 27 | [Walk](https://open.spotify.com/track/6tHISnh1biy5luSS9cvaNc) | [Griff](https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff) | [One Foot In Front Of The Other](https://open.spotify.com/album/6CR4ozv4yOdaA3f6PPQepA) | 2:32 |
 | 28 | [Better Days](https://open.spotify.com/track/48USW4aYqrylYWJmFPbC8A) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Better Days](https://open.spotify.com/album/7jQ8LzeqwAKCXnHEIbp9VR) | 3:18 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ttEdg9VJHO.md) - [plain]
 | 69 | [Let’s Go Home Together](https://open.spotify.com/track/4CH0dVylkeBPydRM7AaG8g) | [Ella Henderson](https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1), [Tom Grennan](https://open.spotify.com/artist/5SHxzwjek1Pipl1Yk11UHv) | [Let’s Go Home Together \(Luca Schreiner Remix\)](https://open.spotify.com/album/1bywIoMIeyI0OtOnxq0aZy) | 3:28 |
 | 70 | [Year of the Young](https://open.spotify.com/track/6J7U49QGecWb3WqIqfSYc0) | [Smith & Thell](https://open.spotify.com/artist/1ZrBGJWLL8NiAjgNifCy90) | [Year of the Young](https://open.spotify.com/album/0WNXPe1PeWAhFMfsXj1iPi) | 2:44 |
 
-Snapshot ID: `MCxiNzY5Y2Y1MmUwYTRkODkwYTU1NzBmOGI4YTM2MjE4OTZiMTAxMThh`
+Snapshot ID: `MCw1OTc0ZDRjZWE5MzQ1NWFkYTc5NTlhNTBmZTUzN2NhNzU1NTBkMWJi`

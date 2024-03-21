@@ -1,12 +1,12 @@
 {
   "description": "Feel the warmth of the spa, treat your body and mind to a wellness experience. ",
-  "num_followers": 29998,
+  "num_followers": 30062,
   "original_name": "Wellness",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5MzE5ZWIyZTAxZDQ4YWZhMWY2OTI4YWEyNzVmMjU4MzhkNmVkOTU1",
+  "snapshot_id": "MCw5NjIyYTlkZjg1M2NjN2I1NzY1OTk2ZjE1NzJlMzNkYWMxMGYyMjI4",
   "tracks": [
     {
       "added_at": "2023-12-15 11:35:26",
@@ -923,22 +923,6 @@
     {
       "added_at": "2023-12-15 11:35:26",
       "album": {
-        "name": "Cestrum Nocturnum",
-        "url": "https://open.spotify.com/album/3MTWyyJcXocHso45ooi1LZ"
-      },
-      "artists": [
-        {
-          "name": "De Moi",
-          "url": "https://open.spotify.com/artist/1DCmbXFQ1MufTW5IZG3etK"
-        }
-      ],
-      "duration_ms": 195171,
-      "name": "Cestrum Nocturnum",
-      "url": "https://open.spotify.com/track/6GeOp6CpYlSQEE3vYdCn9y"
-    },
-    {
-      "added_at": "2023-12-15 11:35:26",
-      "album": {
         "name": "Lotus Garden & Healing Serenade",
         "url": "https://open.spotify.com/album/7KoiOv415asddhMDXYYOlQ"
       },
@@ -951,6 +935,22 @@
       "duration_ms": 182068,
       "name": "Healing Serenade",
       "url": "https://open.spotify.com/track/3RVyOL4WiLVUAw5s0M1M2K"
+    },
+    {
+      "added_at": "2023-12-15 11:35:26",
+      "album": {
+        "name": "Cestrum Nocturnum",
+        "url": "https://open.spotify.com/album/3MTWyyJcXocHso45ooi1LZ"
+      },
+      "artists": [
+        {
+          "name": "De Moi",
+          "url": "https://open.spotify.com/artist/1DCmbXFQ1MufTW5IZG3etK"
+        }
+      ],
+      "duration_ms": 195171,
+      "name": "Cestrum Nocturnum",
+      "url": "https://open.spotify.com/track/6GeOp6CpYlSQEE3vYdCn9y"
     },
     {
       "added_at": "2023-12-15 11:35:26",
@@ -1147,22 +1147,6 @@
     {
       "added_at": "2023-12-15 11:35:26",
       "album": {
-        "name": "Soulful Serenity",
-        "url": "https://open.spotify.com/album/692iI5bmgzIOAdpkD6zMvj"
-      },
-      "artists": [
-        {
-          "name": "Neoterikoi",
-          "url": "https://open.spotify.com/artist/003GvxsE75RdUGOB36UElA"
-        }
-      ],
-      "duration_ms": 184251,
-      "name": "Soulful Serenity",
-      "url": "https://open.spotify.com/track/7z49f0uSg5zzR0M7c2WuVB"
-    },
-    {
-      "added_at": "2023-12-15 11:35:26",
-      "album": {
         "name": "Dreamlike",
         "url": "https://open.spotify.com/album/4NBNmYGPv5YK3a8paxryDu"
       },
@@ -1175,6 +1159,22 @@
       "duration_ms": 195643,
       "name": "Dreamlike",
       "url": "https://open.spotify.com/track/1wBtIlZCG7Y40MNKaklcxe"
+    },
+    {
+      "added_at": "2023-12-15 11:35:26",
+      "album": {
+        "name": "Soulful Serenity",
+        "url": "https://open.spotify.com/album/692iI5bmgzIOAdpkD6zMvj"
+      },
+      "artists": [
+        {
+          "name": "Neoterikoi",
+          "url": "https://open.spotify.com/artist/003GvxsE75RdUGOB36UElA"
+        }
+      ],
+      "duration_ms": 184251,
+      "name": "Soulful Serenity",
+      "url": "https://open.spotify.com/track/7z49f0uSg5zzR0M7c2WuVB"
     },
     {
       "added_at": "2023-12-15 11:35:26",
@@ -1355,22 +1355,6 @@
     {
       "added_at": "2023-12-15 11:35:26",
       "album": {
-        "name": "Pyaar",
-        "url": "https://open.spotify.com/album/6cDfieJqr3qa0bx7mTGL7C"
-      },
-      "artists": [
-        {
-          "name": "Ashia Kashyap",
-          "url": "https://open.spotify.com/artist/0ZsjZX7yAwB3UhNT9cWonV"
-        }
-      ],
-      "duration_ms": 139805,
-      "name": "Pyaar",
-      "url": "https://open.spotify.com/track/3WEiy40dTlBu9OU4JkzzAt"
-    },
-    {
-      "added_at": "2023-12-15 11:35:26",
-      "album": {
         "name": "Night Bells (432 Hz)",
         "url": "https://open.spotify.com/album/3awJzQg6vbV9tckTaY9apr"
       },
@@ -1383,6 +1367,22 @@
       "duration_ms": 175500,
       "name": "Night Bells (432 Hz)",
       "url": "https://open.spotify.com/track/4fW7JLrMCSkPHKg6QmxfGc"
+    },
+    {
+      "added_at": "2023-12-15 11:35:26",
+      "album": {
+        "name": "Pyaar",
+        "url": "https://open.spotify.com/album/6cDfieJqr3qa0bx7mTGL7C"
+      },
+      "artists": [
+        {
+          "name": "Ashia Kashyap",
+          "url": "https://open.spotify.com/artist/0ZsjZX7yAwB3UhNT9cWonV"
+        }
+      ],
+      "duration_ms": 139805,
+      "name": "Pyaar",
+      "url": "https://open.spotify.com/track/3WEiy40dTlBu9OU4JkzzAt"
     },
     {
       "added_at": "2023-12-15 11:35:26",
@@ -1643,22 +1643,6 @@
     {
       "added_at": "2023-12-15 11:35:26",
       "album": {
-        "name": "Ancient Prayer",
-        "url": "https://open.spotify.com/album/3LE4gWyOF5hlKHKDaVJUTA"
-      },
-      "artists": [
-        {
-          "name": "Aura Lynx",
-          "url": "https://open.spotify.com/artist/44mPTx3kx8S0Qj5SyliYIK"
-        }
-      ],
-      "duration_ms": 176796,
-      "name": "Ancient Prayer",
-      "url": "https://open.spotify.com/track/23c2OduSVIcipPMd9q00Fi"
-    },
-    {
-      "added_at": "2023-12-15 11:35:26",
-      "album": {
         "name": "Rishis",
         "url": "https://open.spotify.com/album/4wsw80EuYCSMlsPy4xT2L2"
       },
@@ -1671,6 +1655,22 @@
       "duration_ms": 203310,
       "name": "Rishis",
       "url": "https://open.spotify.com/track/7G2xLyRHac8eH0qhMPDnl0"
+    },
+    {
+      "added_at": "2023-12-15 11:35:26",
+      "album": {
+        "name": "Ancient Prayer",
+        "url": "https://open.spotify.com/album/3LE4gWyOF5hlKHKDaVJUTA"
+      },
+      "artists": [
+        {
+          "name": "Aura Lynx",
+          "url": "https://open.spotify.com/artist/44mPTx3kx8S0Qj5SyliYIK"
+        }
+      ],
+      "duration_ms": 176796,
+      "name": "Ancient Prayer",
+      "url": "https://open.spotify.com/track/23c2OduSVIcipPMd9q00Fi"
     },
     {
       "added_at": "2023-12-15 11:35:26",
@@ -1819,6 +1819,22 @@
     {
       "added_at": "2023-12-15 11:35:26",
       "album": {
+        "name": "peaceful year calling",
+        "url": "https://open.spotify.com/album/0zoMuyHG3z5aMtCFzjeXsf"
+      },
+      "artists": [
+        {
+          "name": "our distant worlds",
+          "url": "https://open.spotify.com/artist/4fMFhhP8Sqi3WWiaoOm5QT"
+        }
+      ],
+      "duration_ms": 188000,
+      "name": "peaceful year calling",
+      "url": "https://open.spotify.com/track/2zyeQDY1Jg7DUHhmZyyUAn"
+    },
+    {
+      "added_at": "2023-12-15 11:35:26",
+      "album": {
         "name": "Flute Meditation",
         "url": "https://open.spotify.com/album/6aUDq4zL1OTaaSS2m2oWOb"
       },
@@ -1847,22 +1863,6 @@
       "duration_ms": 130354,
       "name": "Chakra",
       "url": "https://open.spotify.com/track/0SfDJE8Q0RhjgriKxSEXSN"
-    },
-    {
-      "added_at": "2023-12-15 11:35:26",
-      "album": {
-        "name": "peaceful year calling",
-        "url": "https://open.spotify.com/album/0zoMuyHG3z5aMtCFzjeXsf"
-      },
-      "artists": [
-        {
-          "name": "our distant worlds",
-          "url": "https://open.spotify.com/artist/4fMFhhP8Sqi3WWiaoOm5QT"
-        }
-      ],
-      "duration_ms": 188000,
-      "name": "peaceful year calling",
-      "url": "https://open.spotify.com/track/2zyeQDY1Jg7DUHhmZyyUAn"
     },
     {
       "added_at": "2023-12-15 11:35:26",
@@ -1915,22 +1915,6 @@
     {
       "added_at": "2023-12-15 11:35:26",
       "album": {
-        "name": "Search For The Light",
-        "url": "https://open.spotify.com/album/1kEaxsfCNg0V0FQRBRQQt7"
-      },
-      "artists": [
-        {
-          "name": "Wings Of Silk",
-          "url": "https://open.spotify.com/artist/5cRPBrgj3kzFukDUej9Rny"
-        }
-      ],
-      "duration_ms": 183414,
-      "name": "Search For The Light",
-      "url": "https://open.spotify.com/track/1Lj1XtFYEzTb7IHBMarBbp"
-    },
-    {
-      "added_at": "2023-12-15 11:35:26",
-      "album": {
         "name": "Landscapes",
         "url": "https://open.spotify.com/album/0IEo9mRSBnvqSzoY8cOSPp"
       },
@@ -1943,6 +1927,22 @@
       "duration_ms": 177101,
       "name": "Lemon Balm",
       "url": "https://open.spotify.com/track/2j7Ahvb0XYHv31vLRrlwTi"
+    },
+    {
+      "added_at": "2023-12-15 11:35:26",
+      "album": {
+        "name": "Search For The Light",
+        "url": "https://open.spotify.com/album/1kEaxsfCNg0V0FQRBRQQt7"
+      },
+      "artists": [
+        {
+          "name": "Wings Of Silk",
+          "url": "https://open.spotify.com/artist/5cRPBrgj3kzFukDUej9Rny"
+        }
+      ],
+      "duration_ms": 183414,
+      "name": "Search For The Light",
+      "url": "https://open.spotify.com/track/1Lj1XtFYEzTb7IHBMarBbp"
     },
     {
       "added_at": "2023-12-15 11:35:26",
@@ -2011,22 +2011,6 @@
     {
       "added_at": "2023-12-15 11:35:26",
       "album": {
-        "name": "Fond Memories",
-        "url": "https://open.spotify.com/album/3QAXPjqvqrS1A3StFuOvn1"
-      },
-      "artists": [
-        {
-          "name": "Seeking Balance",
-          "url": "https://open.spotify.com/artist/2fVulWueuvC49fDnLuzX6C"
-        }
-      ],
-      "duration_ms": 226206,
-      "name": "Fond Memories",
-      "url": "https://open.spotify.com/track/41pSl4mg6Xwb2bzC9M0WLl"
-    },
-    {
-      "added_at": "2023-12-15 11:35:26",
-      "album": {
         "name": "A\u00fan",
         "url": "https://open.spotify.com/album/6vMZ7NEoCkORl8R20IXYGq"
       },
@@ -2039,6 +2023,22 @@
       "duration_ms": 184000,
       "name": "A\u00fan",
       "url": "https://open.spotify.com/track/45o1tTvcokwroBi9TR5qfv"
+    },
+    {
+      "added_at": "2023-12-15 11:35:26",
+      "album": {
+        "name": "Fond Memories",
+        "url": "https://open.spotify.com/album/3QAXPjqvqrS1A3StFuOvn1"
+      },
+      "artists": [
+        {
+          "name": "Seeking Balance",
+          "url": "https://open.spotify.com/artist/2fVulWueuvC49fDnLuzX6C"
+        }
+      ],
+      "duration_ms": 226206,
+      "name": "Fond Memories",
+      "url": "https://open.spotify.com/track/41pSl4mg6Xwb2bzC9M0WLl"
     },
     {
       "added_at": "2023-12-15 11:35:26",
@@ -2059,22 +2059,6 @@
     {
       "added_at": "2023-12-15 11:35:26",
       "album": {
-        "name": "Sounds Of The Earth",
-        "url": "https://open.spotify.com/album/6pqqZL1majgeW7H17H9Wlw"
-      },
-      "artists": [
-        {
-          "name": "Soliaga",
-          "url": "https://open.spotify.com/artist/7LIerH0gT1AvTtmxx7xQp8"
-        }
-      ],
-      "duration_ms": 148485,
-      "name": "Sounds Of The Earth",
-      "url": "https://open.spotify.com/track/1BwGOA5hAFxJSsCxMzofhC"
-    },
-    {
-      "added_at": "2023-12-15 11:35:26",
-      "album": {
         "name": "Asana",
         "url": "https://open.spotify.com/album/5jKt8AOgsOYMaEdIykJ3bo"
       },
@@ -2087,6 +2071,22 @@
       "duration_ms": 151666,
       "name": "Asana",
       "url": "https://open.spotify.com/track/5JrPeUYpXnIXFAA1YLM8kc"
+    },
+    {
+      "added_at": "2023-12-15 11:35:26",
+      "album": {
+        "name": "Sounds Of The Earth",
+        "url": "https://open.spotify.com/album/6pqqZL1majgeW7H17H9Wlw"
+      },
+      "artists": [
+        {
+          "name": "Soliaga",
+          "url": "https://open.spotify.com/artist/7LIerH0gT1AvTtmxx7xQp8"
+        }
+      ],
+      "duration_ms": 148485,
+      "name": "Sounds Of The Earth",
+      "url": "https://open.spotify.com/track/1BwGOA5hAFxJSsCxMzofhC"
     },
     {
       "added_at": "2023-12-15 11:35:26",
@@ -2123,22 +2123,6 @@
     {
       "added_at": "2023-12-15 11:35:26",
       "album": {
-        "name": "Testanaadee",
-        "url": "https://open.spotify.com/album/2r1IdCCzou6ux9MdcOj20X"
-      },
-      "artists": [
-        {
-          "name": "Shikha Chadha",
-          "url": "https://open.spotify.com/artist/2vVK4gTQuqvtqWHX8GiIDc"
-        }
-      ],
-      "duration_ms": 184512,
-      "name": "Testanaadee",
-      "url": "https://open.spotify.com/track/0dKEL8IL3Wgz6vEIAL3P4J"
-    },
-    {
-      "added_at": "2023-12-15 11:35:26",
-      "album": {
         "name": "Forgiving the Night",
         "url": "https://open.spotify.com/album/6aS6f7Tib2fgnu9WcHHpOD"
       },
@@ -2151,6 +2135,22 @@
       "duration_ms": 188571,
       "name": "Forgiving the Night",
       "url": "https://open.spotify.com/track/52pCSrRxEVGLhFo1aCX3Yv"
+    },
+    {
+      "added_at": "2023-12-15 11:35:26",
+      "album": {
+        "name": "Testanaadee",
+        "url": "https://open.spotify.com/album/2r1IdCCzou6ux9MdcOj20X"
+      },
+      "artists": [
+        {
+          "name": "Shikha Chadha",
+          "url": "https://open.spotify.com/artist/2vVK4gTQuqvtqWHX8GiIDc"
+        }
+      ],
+      "duration_ms": 184512,
+      "name": "Testanaadee",
+      "url": "https://open.spotify.com/track/0dKEL8IL3Wgz6vEIAL3P4J"
     },
     {
       "added_at": "2023-12-15 11:35:26",
@@ -2315,22 +2315,6 @@
     {
       "added_at": "2023-12-15 11:35:26",
       "album": {
-        "name": "Essence of Mind",
-        "url": "https://open.spotify.com/album/2kXPGbbn7SVW9YCDFYbx1Y"
-      },
-      "artists": [
-        {
-          "name": "Mindful Measures",
-          "url": "https://open.spotify.com/artist/4DYgl2qzOphoG3p9gZNluF"
-        }
-      ],
-      "duration_ms": 240000,
-      "name": "Sparrow Cloud",
-      "url": "https://open.spotify.com/track/0ScOpQ7ZnaFE1wjkuZ5pIX"
-    },
-    {
-      "added_at": "2023-12-15 11:35:26",
-      "album": {
         "name": "Arrivals",
         "url": "https://open.spotify.com/album/2wzLZcooRdJ6LYtIGTSDA8"
       },
@@ -2343,6 +2327,22 @@
       "duration_ms": 162375,
       "name": "Arrivals",
       "url": "https://open.spotify.com/track/6ebuQW1JklhK6vrS02nS8w"
+    },
+    {
+      "added_at": "2023-12-15 11:35:26",
+      "album": {
+        "name": "Essence of Mind",
+        "url": "https://open.spotify.com/album/2kXPGbbn7SVW9YCDFYbx1Y"
+      },
+      "artists": [
+        {
+          "name": "Mindful Measures",
+          "url": "https://open.spotify.com/artist/4DYgl2qzOphoG3p9gZNluF"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "Sparrow Cloud",
+      "url": "https://open.spotify.com/track/0ScOpQ7ZnaFE1wjkuZ5pIX"
     },
     {
       "added_at": "2023-12-15 11:35:26",
@@ -2523,22 +2523,6 @@
     {
       "added_at": "2023-12-15 11:35:26",
       "album": {
-        "name": "Temple of the Heart",
-        "url": "https://open.spotify.com/album/5yuklwSxgyuIPtHU0nkGXQ"
-      },
-      "artists": [
-        {
-          "name": "re:inhabit",
-          "url": "https://open.spotify.com/artist/0qt1gcU5wu2XCs6PyPD7aL"
-        }
-      ],
-      "duration_ms": 216672,
-      "name": "Temple of the Heart",
-      "url": "https://open.spotify.com/track/2jpdJofQjOI2qCF2A5Fj4M"
-    },
-    {
-      "added_at": "2023-12-15 11:35:26",
-      "album": {
         "name": "Dream for me",
         "url": "https://open.spotify.com/album/16xkhJ4gPdifxksHPjsO1a"
       },
@@ -2551,6 +2535,22 @@
       "duration_ms": 152440,
       "name": "Dream for me",
       "url": "https://open.spotify.com/track/0Ev8yzzWg7n6WIFeTrup5Q"
+    },
+    {
+      "added_at": "2023-12-15 11:35:26",
+      "album": {
+        "name": "Temple of the Heart",
+        "url": "https://open.spotify.com/album/5yuklwSxgyuIPtHU0nkGXQ"
+      },
+      "artists": [
+        {
+          "name": "re:inhabit",
+          "url": "https://open.spotify.com/artist/0qt1gcU5wu2XCs6PyPD7aL"
+        }
+      ],
+      "duration_ms": 216672,
+      "name": "Temple of the Heart",
+      "url": "https://open.spotify.com/track/2jpdJofQjOI2qCF2A5Fj4M"
     },
     {
       "added_at": "2023-12-15 11:35:26",
@@ -2667,22 +2667,6 @@
     {
       "added_at": "2023-12-15 11:35:26",
       "album": {
-        "name": "Comfortable Ease",
-        "url": "https://open.spotify.com/album/2C6fwWe4cy1meGy8m8nof0"
-      },
-      "artists": [
-        {
-          "name": "Leigh Erin",
-          "url": "https://open.spotify.com/artist/3Ee9xlGbXKadjo3ccCNfrg"
-        }
-      ],
-      "duration_ms": 116363,
-      "name": "Comfortable Ease",
-      "url": "https://open.spotify.com/track/4bjaDDWTwOAEL7kFAnpy4R"
-    },
-    {
-      "added_at": "2023-12-15 11:35:26",
-      "album": {
         "name": "Blissful Pulses",
         "url": "https://open.spotify.com/album/6ix5Or8Zc4ins5o7AYcAkY"
       },
@@ -2695,6 +2679,22 @@
       "duration_ms": 200000,
       "name": "Blissful Pulses",
       "url": "https://open.spotify.com/track/05lZVhGjLi84vuGB4pa4QF"
+    },
+    {
+      "added_at": "2023-12-15 11:35:26",
+      "album": {
+        "name": "Comfortable Ease",
+        "url": "https://open.spotify.com/album/2C6fwWe4cy1meGy8m8nof0"
+      },
+      "artists": [
+        {
+          "name": "Leigh Erin",
+          "url": "https://open.spotify.com/artist/3Ee9xlGbXKadjo3ccCNfrg"
+        }
+      ],
+      "duration_ms": 116363,
+      "name": "Comfortable Ease",
+      "url": "https://open.spotify.com/track/4bjaDDWTwOAEL7kFAnpy4R"
     },
     {
       "added_at": "2023-12-15 11:35:26",

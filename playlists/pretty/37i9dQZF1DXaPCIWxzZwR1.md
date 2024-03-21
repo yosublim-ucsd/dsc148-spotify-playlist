@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaPCIWxzZwR1.md) - [plain]
 
 > next gen pop Cover: Madison Beer
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,309,031 likes - 100 songs - 5 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,309,177 likes - 100 songs - 5 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -103,10 +103,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaPCIWxzZwR1.md) - [plain]
 | 93 | [Problematic](https://open.spotify.com/track/0I2BCIvlzrb6Iix9hAbQFF) | [BoyWithUke](https://open.spotify.com/artist/1Cd373x8qzC7SNUg5IToqp) | [Lucid Dreams](https://open.spotify.com/album/4KAtLRVIfB0bKnRY01dveY) | 2:44 |
 | 94 | [face to face](https://open.spotify.com/track/1nBwBd3W4tE9FEOUcrsv83) | [kenzie](https://open.spotify.com/artist/5pWUVnrc1y0FpWZ6VCy0Hg) | [face to face](https://open.spotify.com/album/60URYT9rYS0qh5HrZREBf2) | 2:50 |
 | 95 | [everything hits me at once](https://open.spotify.com/track/77hDNIRbK41SsEthQ04Nwb) | [vaultboy](https://open.spotify.com/artist/0K87f3owemzI8NUCoEIXOB) | [everything hits me at once](https://open.spotify.com/album/1KEfhUPBUnf56x7Rh8KoG0) | 2:32 |
-| 96 | [Austin](https://open.spotify.com/track/4NJqhmkGN042BrvHoMKUrJ) | [Dasha](https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I) | [Austin](https://open.spotify.com/album/4JtlZzYJEa7bejLF0ASnk0) | 2:51 |
+| 96 | [Austin](https://open.spotify.com/track/6b81dy3WjbozXK6b7C1gu5) | [Dasha](https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I) | [What Happens Now?](https://open.spotify.com/album/0rQRrrZPPv6XXsxilJ1wFz) | 2:51 |
 | 97 | [Migraine](https://open.spotify.com/track/6T7DCQh0h7yPvoKtCMDKVb) | [BoyWithUke](https://open.spotify.com/artist/1Cd373x8qzC7SNUg5IToqp) | [Migraine](https://open.spotify.com/album/2ciW2sBC9n41YdliEdBxbl) | 3:26 |
 | 98 | [Eras Of Us](https://open.spotify.com/track/3rhwM4lLOCrtx1Sk62QjKi) | [FLETCHER](https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg) | [Eras Of Us](https://open.spotify.com/album/1pDZPFcXoRyVxRsIgziIVX) | 2:48 |
 | 99 | [Only for a Moment](https://open.spotify.com/track/42B4Es8RTR5Owcfy3GHAQs) | [Eric Nam](https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM) | [House on a Hill](https://open.spotify.com/album/5pIMKGoVmopQvVjsQF7NAQ) | 3:59 |
 | 100 | [Two Hands](https://open.spotify.com/track/523F1pQJh1P4JKvbVOgDU7) | [Astrid S](https://open.spotify.com/artist/3AVfmawzu83sp94QW7CEGm) | [Two Hands](https://open.spotify.com/album/14ISDS5Xh5QsS8NZN6H20l) | 3:02 |
 
-Snapshot ID: `MCxkNDZmZjllZTdiMjg4MzU0NjI0YjliYzk5ZDExYzkzODBmMzNiZmIw`
+Snapshot ID: `MCwxNTVjYTFkMGQ3N2EyZDU2NGViMjc2MDI2MjRhMWJlNmE3MWRiZTU4`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZA4G4jVRXy.md) - [plain]
 
 > Pour yourself a mai tai and festoon youself with lei, welcome to the Hawaiian party!
 
-[Spotify](https://open.spotify.com/user/spotify) - 128,149 likes - 76 songs - 3 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 128,167 likes - 76 songs - 3 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,9 +16,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZA4G4jVRXy.md) - [plain]
 | 6 | [Serenade to Nalani](https://open.spotify.com/track/3YEMdmxkrM7XQKxexD9oK9) | [Jerry Byrd](https://open.spotify.com/artist/5PGYCViqsPlum357lDLBpm) | [Hawaiian Style Guitars](https://open.spotify.com/album/0AgeEriHiY3FsJe8ufUMWb) | 2:52 |
 | 7 | [When It's Time to Go](https://open.spotify.com/track/06bgtOwOTqbDLf1n1eqjji) | [Buddy Fo & His Group](https://open.spotify.com/artist/66ExVD8110Lx5DbCVoJcNI) | [When It's Time to Go](https://open.spotify.com/album/0pEYDo499hzgCpBLzcpVpl) | 2:43 |
 | 8 | [I Kona](https://open.spotify.com/track/0lDQYpyEmJETEUgszTP6Ns) | [Dennis Pavao](https://open.spotify.com/artist/0cjSMcAplLjxMqkXD6xWSX) | [The Golden Voice of Hawai'i, Vol\. 1](https://open.spotify.com/album/25lpHzBnWxYSxdcBYFrGXp) | 3:35 |
-| 9 | [Hii Lawe](https://open.spotify.com/track/2pSRXkk8gdoePrCaNHT8rX) | [Arthur Lyman](https://open.spotify.com/artist/4UAjW7ABQfMm5F88xCtQln) | [Hawaiian Sunset](https://open.spotify.com/album/61l4XfiMZCVWGdCwLxj6Mg) | 1:11 |
+| 9 | [A Man And A Woman \- Remastered](https://open.spotify.com/track/5VwssP9QyvfoKLt9FkI0aR) | [Sir Julian Gould](https://open.spotify.com/artist/4gj1oBNysZZ7lb6sqnRivp) | [Ultra\-Lounge: Organs In Orbit](https://open.spotify.com/album/3g94MSXd9bCi28DBn0SqCU) | 2:32 |
 | 10 | [Misirlou \- 1995 Digital Remaster](https://open.spotify.com/track/4XEthz8GA0yZ6hPwwSqwQg) | [Martin Denny](https://open.spotify.com/artist/3D9J9nPNW1cBktx5apJq4V) | [Best Of Martin Denny's Exotica](https://open.spotify.com/album/2mdidQxbJ3iT8TDNbV5OJ5) | 2:38 |
-| 11 | [A Man And A Woman \- Remastered](https://open.spotify.com/track/5VwssP9QyvfoKLt9FkI0aR) | [Sir Julian Gould](https://open.spotify.com/artist/4gj1oBNysZZ7lb6sqnRivp) | [Ultra\-Lounge: Organs In Orbit](https://open.spotify.com/album/3g94MSXd9bCi28DBn0SqCU) | 2:32 |
+| 11 | [Hii Lawe](https://open.spotify.com/track/2pSRXkk8gdoePrCaNHT8rX) | [Arthur Lyman](https://open.spotify.com/artist/4UAjW7ABQfMm5F88xCtQln) | [Hawaiian Sunset](https://open.spotify.com/album/61l4XfiMZCVWGdCwLxj6Mg) | 1:11 |
 | 12 | [Alika \- Digitally Remastered 1996](https://open.spotify.com/track/49Zp8RpkMIHa0Pf7A1kcce) | [Webley Edwards](https://open.spotify.com/artist/7zRuASTSFAwiC9wo3moUnS) | [Ultra\-Lounge/Mondo Exotica: Volume One](https://open.spotify.com/album/2NuOkgVt9mmGOGVG0YsVtm) | 2:28 |
 | 13 | [Fruit Of Dreams](https://open.spotify.com/track/67hlixuKYLcIbUAge2iVqe) | [Les Baxter](https://open.spotify.com/artist/35pV6EUbherudlvAftoueR) | [The Sacred Idol](https://open.spotify.com/album/3hkdLz234t91jRZrwCo55M) | 2:31 |
 | 14 | [Sunset on the Kona Kai](https://open.spotify.com/track/60YSnSjVaDXc1QmGzMtbEu) | [The Tikiyaki Orchestra](https://open.spotify.com/artist/7kJPKUUnHCennOOEBxjidx) | [Swingin' sounds for the Jungle Jetset !](https://open.spotify.com/album/4gI81mkI8rD1z4zjW5RENc) | 3:40 |
@@ -61,14 +61,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZA4G4jVRXy.md) - [plain]
 | 51 | [Shells \- Live from Hawaii](https://open.spotify.com/track/2ldP7FrJwm1fArAMZY9iXr) | [Don Ho](https://open.spotify.com/artist/3Ew1ynSmASX9Uec5FzBYrL) | [The Don Ho Show! \(Live\)](https://open.spotify.com/album/33Z6fdrkppcWL3a6y7hel4) | 4:04 |
 | 52 | [Slow And Easy](https://open.spotify.com/track/7nECUIlHzm7iDkC1zlCyVS) | [Henry Mancini](https://open.spotify.com/artist/2EExdpjU4SK3xnJHO5paJf) | [The Days Of Wine And Roses](https://open.spotify.com/album/2JSXijbVwjxZTb7bsAWYpx) | 3:05 |
 | 53 | [Hawaiian Wedding Song](https://open.spotify.com/track/6c3nHwUXBRVJxF2tLRj16w) | [The Surfmen](https://open.spotify.com/artist/5DZTIpbNQehcLsiQYRQQPV) | [Chill Out Hawaiian Music](https://open.spotify.com/album/0eirWmh8yL6BAJcyijggSJ) | 1:43 |
-| 54 | [Ipo Hula](https://open.spotify.com/track/6qyfgcmgYB7dY04v9dOzID) | [Genoa Keawe](https://open.spotify.com/artist/3TOhHfwiR2xQYQFph79xOy) | [Hana Hou! Vol\. 1](https://open.spotify.com/album/2LSvzyw8Xt2r11gsaSfPVt) | 1:50 |
-| 55 | [Lamento Borincano](https://open.spotify.com/track/2j0cJ0WWmdbV9kaDYsUMLZ) | [Esquivel!](https://open.spotify.com/artist/42kHi9ZIpRGtgjP8ZB4jsi) | [Esquivel! 1968](https://open.spotify.com/album/2g7l87w0dVuZPBRHzg9Iqv) | 3:37 |
+| 54 | [Lamento Borincano](https://open.spotify.com/track/2j0cJ0WWmdbV9kaDYsUMLZ) | [Esquivel!](https://open.spotify.com/artist/42kHi9ZIpRGtgjP8ZB4jsi) | [Esquivel! 1968](https://open.spotify.com/album/2g7l87w0dVuZPBRHzg9Iqv) | 3:37 |
+| 55 | [Ipo Hula](https://open.spotify.com/track/6qyfgcmgYB7dY04v9dOzID) | [Genoa Keawe](https://open.spotify.com/artist/3TOhHfwiR2xQYQFph79xOy) | [Hana Hou! Vol\. 1](https://open.spotify.com/album/2LSvzyw8Xt2r11gsaSfPVt) | 1:50 |
 | 56 | [Ke Kali Nei Au \- The Hawaiian Wedding Song](https://open.spotify.com/track/0eMTkns8etyZ1JJIJnYxzb) | [Hawaii Calls Orchestra](https://open.spotify.com/artist/3YGJZFuhB4CAX3QAWDvQ79) | [Hawaii's Favorite Music Vol\. II \- Instrumentals](https://open.spotify.com/album/2ZdSCDvLS7cVqPt28gpNcx) | 3:10 |
 | 57 | [Lust](https://open.spotify.com/track/0lF6dbEwpoXr0efP2p2Nsm) | [Les Baxter](https://open.spotify.com/artist/35pV6EUbherudlvAftoueR), [Bas Sheva](https://open.spotify.com/artist/2754ZKfUBzGnAsiA2gYoxP) | [Ultra\-Lounge/Mondo Exotica: Volume One](https://open.spotify.com/album/2NuOkgVt9mmGOGVG0YsVtm) | 2:59 |
 | 58 | [Jivaro](https://open.spotify.com/track/5uyBw0P31QMYmp4eK9Tpy2) | [Yma Sumac](https://open.spotify.com/artist/1HkQ4XrPffqcVW0TgTTw0d) | [Legend Of The Jivaro](https://open.spotify.com/album/3wTvOMPXV5M1bf7hgyx9o7) | 2:54 |
 | 59 | [Loads of Love](https://open.spotify.com/track/5rnHukUFZhfS69Cfbs4qyz) | [Joe Harnell His Piano And Orchestra](https://open.spotify.com/artist/3WhRGRPieFbdf9HKgyVHaM) | [Fly Me to the Moon and the Bossa Nova Pops](https://open.spotify.com/album/554YoVzdZW43JXVXl4E8gm) | 2:46 |
-| 60 | [My Three Sons \- Remastered](https://open.spotify.com/track/67OLtDm3jaMdhywCIxZNgP) | [Nelson Riddle](https://open.spotify.com/artist/6PyGlGbMoNqkofF14K4BWb) | [Ultra\-Lounge / Tiki Sampler](https://open.spotify.com/album/1M1KRm2CzwxzwJvQ3ZqzlU) | 2:22 |
-| 61 | [Mi Nei](https://open.spotify.com/track/1inCS7eh6vHSqftROoVKEL) | [Buddy Fo & His Group](https://open.spotify.com/artist/66ExVD8110Lx5DbCVoJcNI) | [Kiss Me Love](https://open.spotify.com/album/0N6oSzUcJjfdctbWbhn1ug) | 3:49 |
+| 60 | [Mi Nei](https://open.spotify.com/track/1inCS7eh6vHSqftROoVKEL) | [Buddy Fo & His Group](https://open.spotify.com/artist/66ExVD8110Lx5DbCVoJcNI) | [Kiss Me Love](https://open.spotify.com/album/0N6oSzUcJjfdctbWbhn1ug) | 3:49 |
+| 61 | [My Three Sons \- Remastered](https://open.spotify.com/track/67OLtDm3jaMdhywCIxZNgP) | [Nelson Riddle](https://open.spotify.com/artist/6PyGlGbMoNqkofF14K4BWb) | [Ultra\-Lounge / Tiki Sampler](https://open.spotify.com/album/1M1KRm2CzwxzwJvQ3ZqzlU) | 2:22 |
 | 62 | [I Get a Kick Out Of You](https://open.spotify.com/track/5PRJwmauBwcghrrNinFmC6) | [Esquivel Orquesta y Coros](https://open.spotify.com/artist/2sywuKSPUHekcJMmU628S6) | [Grandes Orquestas](https://open.spotify.com/album/2RpZChEkwGjahuihiJ0xWw) | 2:38 |
 | 63 | [Within The Temple Of Macuilizochitl](https://open.spotify.com/track/4YFXgIruiLlfzPFlwZ0Mf4) | [Elisabeth Waldo](https://open.spotify.com/artist/4HwvMosTwHSvJg7x8EjrlF) | [Sacred Rites \(Rites of the Pagan / Realm of the Incas\)](https://open.spotify.com/album/1THijjtDXy2uWJydVj4S7L) | 3:07 |
 | 64 | [Baía](https://open.spotify.com/track/2132EtRYeOiZFhWitl7QHx) | [Esquivel!](https://open.spotify.com/artist/42kHi9ZIpRGtgjP8ZB4jsi) | [Infinity in Sound, Vol\. 2](https://open.spotify.com/album/5NYl6kCABFF9snRkzlamzc) | 2:51 |
@@ -85,4 +85,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZA4G4jVRXy.md) - [plain]
 | 75 | [Hana Maui \- Digitally Remastered 1995](https://open.spotify.com/track/0XN9TYjtGswD7jsLsg6xU2) | [Chick Floyd](https://open.spotify.com/artist/404efVa1buWrjEeOfQKGdN) | [Ultra\-Lounge/Mondo Exotica: Volume One](https://open.spotify.com/album/2NuOkgVt9mmGOGVG0YsVtm) | 3:16 |
 | 76 | [Lust](https://open.spotify.com/track/65jpm2yvG0Fz67GkUCClQV) | [Les Baxter](https://open.spotify.com/artist/35pV6EUbherudlvAftoueR), [Bas Sheva](https://open.spotify.com/artist/2754ZKfUBzGnAsiA2gYoxP) | [The Passions](https://open.spotify.com/album/63VK8OhIxPTYmKK5zc3i6L) | 2:59 |
 
-Snapshot ID: `MCwyZWQ0MmFlYjRmMWU4Y2I0NmQzODM0NWY4NTM1NTdkODRmMmE5ZTE5`
+Snapshot ID: `MCwwMzViYmMzNDUyMjdjZTlhZGZiMDRmODgzZjg1MjZjYjUxOTBhNDhi`

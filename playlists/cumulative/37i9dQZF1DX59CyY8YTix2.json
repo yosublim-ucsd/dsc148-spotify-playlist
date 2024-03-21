@@ -1779,6 +1779,24 @@
     },
     {
       "album": {
+        "name": "Blue",
+        "url": "https://open.spotify.com/album/43LFKJvugeh2QDqWMxbPqI"
+      },
+      "artists": [
+        {
+          "name": "mukeikaku",
+          "url": "https://open.spotify.com/artist/13EKu7UHAU6sAqlIoRFQJw"
+        }
+      ],
+      "date_added": "2024-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261750,
+      "name": "Blue",
+      "url": "https://open.spotify.com/track/05nERL83gmtoNchjEfLkTf"
+    },
+    {
+      "album": {
         "name": "Blue boat",
         "url": "https://open.spotify.com/album/0xk0DCPK1OzikB6cMKX9Ja"
       },
@@ -19626,7 +19644,7 @@
     {
       "album": {
         "name": "LUMINOUS",
-        "url": "https://open.spotify.com/album/3Z4uX6UeTkCl4g2g0XqXsh"
+        "url": "https://open.spotify.com/album/7aJkW9YMx2gzLTMQcEqeR0"
       },
       "artists": [
         {
@@ -19637,6 +19655,24 @@
       "date_added": "2024-03-19",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 228533,
+      "name": "\u30d5\u30a1\u30f3\u30d5\u30a1\u30fc\u30ec",
+      "url": "https://open.spotify.com/track/42IZvenX9kmevVWxjZLNwV"
+    },
+    {
+      "album": {
+        "name": "LUMINOUS",
+        "url": "https://open.spotify.com/album/3Z4uX6UeTkCl4g2g0XqXsh"
+      },
+      "artists": [
+        {
+          "name": "SCANDAL",
+          "url": "https://open.spotify.com/artist/7hTZwqQILVH4bAbN67CeEz"
+        }
+      ],
+      "date_added": "2024-03-19",
+      "date_added_asterisk": false,
+      "date_removed": "2024-03-21",
       "duration_ms": 228533,
       "name": "\u30d5\u30a1\u30f3\u30d5\u30a1\u30fc\u30ec",
       "url": "https://open.spotify.com/track/4nq80DMRmRZRBW12tN3rmS"
@@ -19748,7 +19784,7 @@
       ],
       "date_added": "2024-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-21",
       "duration_ms": 261750,
       "name": "\u30d6\u30eb\u30fc",
       "url": "https://open.spotify.com/track/797vLBTS5VWXKbqz3LLTcA"
@@ -22472,8 +22508,8 @@
       },
       "artists": [
         {
-          "name": "\u540d\u7121\u3057\u4e4b\u592a\u90ce",
-          "url": "https://open.spotify.com/artist/2EYH8GbUJkqIhNdR1EcjsI"
+          "name": "Nanashi no Taro",
+          "url": "https://open.spotify.com/artist/32xxJA5U8ot0QZPDllZ1po"
         }
       ],
       "date_added": "2024-03-19",

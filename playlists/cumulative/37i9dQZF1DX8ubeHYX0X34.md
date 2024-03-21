@@ -4,7 +4,7 @@
 
 > Timeless Pakistani hits, all in one place\. Cover \- Junoon
 
-209 songs - 16 hr 57 min
+210 songs - 17 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,7 +40,8 @@
 | [Bichar Kai Bhee](https://open.spotify.com/track/4R0v5iueMuknx0V6YFChic) | [Call](https://open.spotify.com/artist/5QHScjNJhVCWz5VM3XMYZI) | [Jilawatan](https://open.spotify.com/album/6zT7xb9NQaZGnMJH1Bry8C) | 6:02 | 2021-08-16 | 2023-01-21 |
 | [Bikhra](https://open.spotify.com/track/0OdztoASgKBBNcAgtErk0X) | [Abdul Hannan](https://open.spotify.com/artist/5mWQT8CLTa4mAQAJdFjHb1), [Rovalio](https://open.spotify.com/artist/01pFDtbY3k5uOmy0Pbg93C) | [Bikhra](https://open.spotify.com/album/4yfjeaROize8h6IkgU5RBn) | 2:48 | 2023-01-20 |  |
 | [Bin Tere Kya Hai Jeena](https://open.spotify.com/track/5H37ud3obrc1uqRbpxIwJX) | [Jawad Ahmad](https://open.spotify.com/artist/2gXOOKY8mmJG6iwHrTq9gp) | [Bol Tujhe Kya Chahiye](https://open.spotify.com/album/4pF6gcm1SuGxeu3Ds9JU8Q) | 4:41 | 2021-08-16 |  |
-| [Bounce Billo](https://open.spotify.com/track/69hOb7pwui3mDVfe2OQPXi) | [Imran Khan](https://open.spotify.com/artist/24BYRlsS8uIO4jA71mJ4Js) | [Bounce Billo](https://open.spotify.com/album/1UduPCVI5EKnZhT4iKw5TS) | 4:07 | 2021-08-16 |  |
+| [Bounce Billo](https://open.spotify.com/track/69hOb7pwui3mDVfe2OQPXi) | [Imran Khan](https://open.spotify.com/artist/24BYRlsS8uIO4jA71mJ4Js) | [Bounce Billo](https://open.spotify.com/album/1UduPCVI5EKnZhT4iKw5TS) | 4:07 | 2021-08-16 | 2024-03-21 |
+| [Bounce Billo](https://open.spotify.com/track/7lvE6oydSI0lipLkUD1eoq) | [Imran Khan](https://open.spotify.com/artist/24BYRlsS8uIO4jA71mJ4Js) | [Unforgettable](https://open.spotify.com/album/4sOf4oPLCx7e73JOsRTZQ7) | 4:07 | 2023-05-10 |  |
 | [Chaand Taaray](https://open.spotify.com/track/5wCbDxiqPoupS0DKNMpVm4) | [Kaavish](https://open.spotify.com/artist/6znPk9JRNmg6uyB6h8nJu3) | [Gunkali](https://open.spotify.com/album/5joHir1GOCMuArukMLKVVJ) | 3:41 | 2021-08-16 | 2022-07-29 |
 | [Chaaye Chaaye](https://open.spotify.com/track/3sHBY3LxFISMtT0xpE0zUZ) | [Strings](https://open.spotify.com/artist/2fizRsm6KDWZvysU00yZrX) | [Dhaani](https://open.spotify.com/album/21luKloROzEZKHzgbhye2U) | 4:24 | 2021-08-16 | 2022-07-29 |
 | [Chal Bulleya](https://open.spotify.com/track/3P9j52oEkY8MRg9VaAlnP6) | [Mekaal Hasan Band](https://open.spotify.com/artist/2uU2C4SNKcHqBzPjRrBvVy) | [Saptak](https://open.spotify.com/album/7jsDOMK6ZlfSTZ6n8KefxP) | 4:30 | 2021-08-16 | 2022-07-29 |
@@ -113,7 +114,7 @@
 | [Koi Naheen](https://open.spotify.com/track/3zksuExIFRXTtQrSyx3kkU) | [Sajjad Ali](https://open.spotify.com/artist/5THsb9SGB89ZN6mj7ZYVSD) | [Rangeen](https://open.spotify.com/album/6SsjQ9XQlqpeKuOnayXHRq) | 6:03 | 2021-08-16 | 2022-07-29 |
 | [Laaree Chootee](https://open.spotify.com/track/5N0bIQTnSVrDCSlKydMt3E) | [Call](https://open.spotify.com/artist/5QHScjNJhVCWz5VM3XMYZI) | [Dhoom](https://open.spotify.com/album/57UJIr0RMO9VejwwJbGcog) | 3:57 | 2021-08-16 | 2022-07-29 |
 | [Laaree Chootee](https://open.spotify.com/track/3juoXpZ1CRCbWHnWk5rVbV) | [Call](https://open.spotify.com/artist/5QHScjNJhVCWz5VM3XMYZI) | [Dhoom](https://open.spotify.com/album/2UzCtYWLoRffW5x1Vg1B15) | 3:59 | 2021-08-16 |  |
-| [Laga Reh](https://open.spotify.com/track/2ZgW0BbaNtygHT43FEyHhR) | [Shehzad Roy](https://open.spotify.com/artist/2IoNBHUOfnf7hsUwBKr6l4) | [Qismat Apne Hath Mein](https://open.spotify.com/album/05nXs31CR4jvF7NtD8m7Ae) | 4:46 | 2021-08-16 |  |
+| [Laga Reh](https://open.spotify.com/track/2ZgW0BbaNtygHT43FEyHhR) | [Shehzad Roy](https://open.spotify.com/artist/2IoNBHUOfnf7hsUwBKr6l4) | [Qismat Apne Hath Mein](https://open.spotify.com/album/05nXs31CR4jvF7NtD8m7Ae) | 4:46 | 2021-08-16 | 2024-03-21 |
 | [Lamhay](https://open.spotify.com/track/2jU0vqjU22JCRXYLTcSrKs) | [Jal \-The Band](https://open.spotify.com/artist/3RVDaDaYaZH1Gem9iqOVs8) | [Aadat](https://open.spotify.com/album/5ANML1o1NBFwCzGaaeXdy5) | 5:24 | 2021-08-16 |  |
 | [Mahbooba](https://open.spotify.com/track/33QlB4QT6ch7weJkrziPzZ) | [Haroon](https://open.spotify.com/artist/4S0WPsBEcic5O5Dv2aAPvM) | [Lagan](https://open.spotify.com/album/0G3x2gvv9mln6cJvCdyML2) | 4:38 | 2022-10-04 |  |
 | [Mahi Ve](https://open.spotify.com/track/4tKCjAC5dojOLYQ1FPdXSI) | [Faakhir](https://open.spotify.com/artist/6ocVv3L8PefhnpANnoHLuj) | [Mantra](https://open.spotify.com/album/4K4NopAmxp3YcObr8Pewqc) | 4:44 | 2021-08-16 |  |
@@ -122,7 +123,7 @@
 | [Man Gagan](https://open.spotify.com/track/1l3Jn24cC7UsLDqNIbH33a) | [Ali Azmat](https://open.spotify.com/artist/38lgkItatcpCc0I9hV4nEr) | [Social Circus](https://open.spotify.com/album/4Nj2wbrQ8k2pzh4XQktP3K) | 6:18 | 2021-08-16 | 2022-07-29 |
 | [Manwa Re](https://open.spotify.com/track/61fzdZgmnQ2wg9vmHqwDgN) | [Noori](https://open.spotify.com/artist/2KRtcParcfvUYXcCAueULl) | [Suno Ke Mein Hun Jawan](https://open.spotify.com/album/4AyNpK9PCLWHbxIX5ezvJG) | 3:27 | 2021-08-16 |  |
 | [Marjawan](https://open.spotify.com/track/0Lg0m2Tb6IdDKiSKd5nwDI) | [Faakhir](https://open.spotify.com/artist/6ocVv3L8PefhnpANnoHLuj) | [Aatish](https://open.spotify.com/album/53blgdAq8q2N5ulBW86ABO) | 4:40 | 2021-08-16 | 2022-07-27 |
-| [Mausam](https://open.spotify.com/track/0WdKRv6PSPZmT5iftXT6eZ) | [JoSH the Band](https://open.spotify.com/artist/3bZPukLEVZlmVmNI2zkbLU), [Erin](https://open.spotify.com/artist/2qANjHXsCzStzefXrY1LC2) | [Mausam](https://open.spotify.com/album/758VIaUPNO3rY8nBxPTzv1) | 4:50 | 2021-08-16 | 2024-03-19 |
+| [Mausam](https://open.spotify.com/track/0WdKRv6PSPZmT5iftXT6eZ) | [JoSH the Band](https://open.spotify.com/artist/3bZPukLEVZlmVmNI2zkbLU), [Erin](https://open.spotify.com/artist/2qANjHXsCzStzefXrY1LC2) | [Mausam](https://open.spotify.com/album/758VIaUPNO3rY8nBxPTzv1) | 4:50 | 2021-08-16 |  |
 | [Mehndi](https://open.spotify.com/track/0hZezjFqU0H81Fq4UCYMv0) | [Jawad Ahmad](https://open.spotify.com/artist/2gXOOKY8mmJG6iwHrTq9gp) | [Jind Jan Sohniyie](https://open.spotify.com/album/4ZaLIwVcrgO7Cshf1rBkjh) | 5:35 | 2021-08-16 |  |
 | [Mela Kariyay](https://open.spotify.com/track/59Wesa7Iy1wmojlzybzl9e) | [Overload](https://open.spotify.com/artist/05PcXrC9rDpaibKcUQFQMb), [Meesha Shafi](https://open.spotify.com/artist/6gWwKC0laX7pTPjNgrwvQR) | [Pichal Pairee](https://open.spotify.com/album/4FSwIlAsY0IZ5alcSgRG2V) | 4:11 | 2021-08-16 | 2022-07-29 |
 | [Menu Tere Naal](https://open.spotify.com/track/2fobch5d1l4yJBAFPQEDnh) | [Najam Sheraz](https://open.spotify.com/artist/66SvSqaZI1DtUpbwxUHNhP) | [Menu Tere Naal](https://open.spotify.com/album/0s20HviKOwDOdPauXzpvrm) | 5:41 | 2021-08-16 | 2022-07-27 |

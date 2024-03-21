@@ -371,6 +371,24 @@
     },
     {
       "album": {
+        "name": "Believe Me",
+        "url": "https://open.spotify.com/album/4zG1SZyuLAzxwinmg9Z22F"
+      },
+      "artists": [
+        {
+          "name": "Johnny Drille",
+          "url": "https://open.spotify.com/artist/4f8vvLN5Rt3WszqOqVR9e9"
+        }
+      ],
+      "date_added": "2024-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211265,
+      "name": "Believe Me",
+      "url": "https://open.spotify.com/track/5wgbfoSDM7EuYVvbd3QWlG"
+    },
+    {
+      "album": {
         "name": "Sungura Na Fisi",
         "url": "https://open.spotify.com/album/6cTRrJGMTZmF1wAtGFVbah"
       },
@@ -480,7 +498,7 @@
       ],
       "date_added": "2024-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-21",
       "duration_ms": 173617,
       "name": "Chargie",
       "url": "https://open.spotify.com/track/3rcXrrfhDOe3kShu3uekeC"
@@ -614,7 +632,7 @@
       ],
       "date_added": "2024-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-21",
       "duration_ms": 276480,
       "name": "Donobi",
       "url": "https://open.spotify.com/track/1GBw2foMNXUBa2IelAtkSy"
@@ -730,7 +748,7 @@
       ],
       "date_added": "2024-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-21",
       "duration_ms": 204000,
       "name": "Ex",
       "url": "https://open.spotify.com/track/2r4GUjWmfz5xth28hb7a6G"
@@ -809,6 +827,32 @@
     },
     {
       "album": {
+        "name": "Fine Wine (feat. King Promise & Joeboy)",
+        "url": "https://open.spotify.com/album/3f6FbIilED8NakLgcWAhqi"
+      },
+      "artists": [
+        {
+          "name": "R2Bees",
+          "url": "https://open.spotify.com/artist/0LFsP7WPfu5inz9a1amcE4"
+        },
+        {
+          "name": "King Promise",
+          "url": "https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf"
+        },
+        {
+          "name": "Joeboy",
+          "url": "https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF"
+        }
+      ],
+      "date_added": "2024-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230400,
+      "name": "Fine Wine (feat. King Promise & Joeboy)",
+      "url": "https://open.spotify.com/track/3E3WIVDBt4rX4N2kRrwSah"
+    },
+    {
+      "album": {
         "name": "Folake",
         "url": "https://open.spotify.com/album/1zXxlkgp0TkifABiPujJ1i"
       },
@@ -842,6 +886,28 @@
       "duration_ms": 196162,
       "name": "Forever",
       "url": "https://open.spotify.com/track/6huU6cSsMC2ragy2ohSo3l"
+    },
+    {
+      "album": {
+        "name": "Forever (Remix)",
+        "url": "https://open.spotify.com/album/4aVhyknHZk1updZEHkwd0H"
+      },
+      "artists": [
+        {
+          "name": "Gyakie",
+          "url": "https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ"
+        },
+        {
+          "name": "Omah Lay",
+          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
+        }
+      ],
+      "date_added": "2024-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201600,
+      "name": "Forever (Remix)",
+      "url": "https://open.spotify.com/track/4vLY6fJQWgBzQYHzguDZme"
     },
     {
       "album": {
@@ -1465,6 +1531,28 @@
     },
     {
       "album": {
+        "name": "Gbagada Express Vol 2: Moving Mad",
+        "url": "https://open.spotify.com/album/7bFrLfofeujIbvs4WcHn3p"
+      },
+      "artists": [
+        {
+          "name": "Boj",
+          "url": "https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW"
+        },
+        {
+          "name": "Ayra Starr",
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
+        }
+      ],
+      "date_added": "2024-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255000,
+      "name": "Line Of Fire",
+      "url": "https://open.spotify.com/track/5PNiPY563OVES8nkdKZ516"
+    },
+    {
+      "album": {
         "name": "Zaneliza: How the Water Moves",
         "url": "https://open.spotify.com/album/4Dh0JLuYLhSeoZQ2fQ3Bdm"
       },
@@ -1476,7 +1564,7 @@
       ],
       "date_added": "2024-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-21",
       "duration_ms": 325433,
       "name": "Liwa Lentliziyo",
       "url": "https://open.spotify.com/track/0pI9v5qwiZnha3qd2VDS89"
@@ -1502,6 +1590,28 @@
       "duration_ms": 174178,
       "name": "Look What You Made Me Do (with Simi)",
       "url": "https://open.spotify.com/track/5a314dyLzz8YyFTFjd8X6w"
+    },
+    {
+      "album": {
+        "name": "Love Don't Cost A Dime (Re-Up)",
+        "url": "https://open.spotify.com/album/01N6IpG2OxaznUK60C81hT"
+      },
+      "artists": [
+        {
+          "name": "Magixx",
+          "url": "https://open.spotify.com/artist/0rskhjcLm5BxjwZDRs4142"
+        },
+        {
+          "name": "Ayra Starr",
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
+        }
+      ],
+      "date_added": "2024-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147600,
+      "name": "Love Don't Cost A Dime (Re-Up)",
+      "url": "https://open.spotify.com/track/0hW02S9ACVYANz1ica10jH"
     },
     {
       "album": {
@@ -1628,10 +1738,28 @@
       ],
       "date_added": "2024-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-21",
       "duration_ms": 261428,
       "name": "Malaika",
       "url": "https://open.spotify.com/track/5EDlZF1Aul8YYRidO2q68F"
+    },
+    {
+      "album": {
+        "name": "Break Through",
+        "url": "https://open.spotify.com/album/28sexcZHZO8Af5fg5rgwYL"
+      },
+      "artists": [
+        {
+          "name": "Bisa Kdei",
+          "url": "https://open.spotify.com/artist/4AN8jBgYwV1ieMsX1Ntxwc"
+        }
+      ],
+      "date_added": "2024-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246884,
+      "name": "Mansa",
+      "url": "https://open.spotify.com/track/3Aajl2Cw5V0KOIyIbHg6rT"
     },
     {
       "album": {
@@ -1780,7 +1908,7 @@
       ],
       "date_added": "2024-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-21",
       "duration_ms": 286511,
       "name": "Mfalme Wa Mapenzi",
       "url": "https://open.spotify.com/track/7hpbqHv9BMeGK7jDLEX58q"
@@ -1849,6 +1977,24 @@
     },
     {
       "album": {
+        "name": "More Of You",
+        "url": "https://open.spotify.com/album/4TLRQqrw55Rq7SFoA3OHic"
+      },
+      "artists": [
+        {
+          "name": "Stonebwoy",
+          "url": "https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq"
+        }
+      ],
+      "date_added": "2024-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "More Of You",
+      "url": "https://open.spotify.com/track/0bVugkWRfHhHLPfFFVkHpL"
+    },
+    {
+      "album": {
         "name": "Alfa",
         "url": "https://open.spotify.com/album/4FnMISjKBEp87QlLHW43dC"
       },
@@ -1904,10 +2050,50 @@
       ],
       "date_added": "2024-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-21",
       "duration_ms": 174000,
       "name": "Mukwano Gwo",
       "url": "https://open.spotify.com/track/0AiGL3SmHr50RTF5rFaHTN"
+    },
+    {
+      "album": {
+        "name": "Alusa Why Are You Topless?",
+        "url": "https://open.spotify.com/album/1tqKgXiDjsilZpv3aLaEGm"
+      },
+      "artists": [
+        {
+          "name": "Bien",
+          "url": "https://open.spotify.com/artist/2zhossaaVN2pXg5p8o101X"
+        },
+        {
+          "name": "Ayra Starr",
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
+        }
+      ],
+      "date_added": "2024-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190000,
+      "name": "My Baby (feat. Ayra Starr)",
+      "url": "https://open.spotify.com/track/3riCAuMBWoWzNdfToamrue"
+    },
+    {
+      "album": {
+        "name": "My Darling + Angelus",
+        "url": "https://open.spotify.com/album/0FLA39VyPgqIUGQg413ptJ"
+      },
+      "artists": [
+        {
+          "name": "Victony",
+          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
+        }
+      ],
+      "date_added": "2024-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193500,
+      "name": "My Darling",
+      "url": "https://open.spotify.com/track/1Lyo0G6hpTjWfWi8zjd9Wz"
     },
     {
       "album": {
@@ -2883,6 +3069,24 @@
     },
     {
       "album": {
+        "name": "The African Gentleman",
+        "url": "https://open.spotify.com/album/3eqKQSThIM4NZYeVdJFDnz"
+      },
+      "artists": [
+        {
+          "name": "Ric Hassani",
+          "url": "https://open.spotify.com/artist/5twTCOm58CXYCqCny4gYcQ"
+        }
+      ],
+      "date_added": "2024-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220505,
+      "name": "Only You",
+      "url": "https://open.spotify.com/track/4rjETY9SigSOwoIXYRQJUR"
+    },
+    {
+      "album": {
         "name": "Otoolege",
         "url": "https://open.spotify.com/album/3AinuC1JTj3edgaFFqTWvS"
       },
@@ -3036,7 +3240,7 @@
       ],
       "date_added": "2024-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-21",
       "duration_ms": 189813,
       "name": "Real Love",
       "url": "https://open.spotify.com/track/1de0B7PogPYdil6GbJNC5y"
@@ -3556,7 +3760,7 @@
       ],
       "date_added": "2024-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-21",
       "duration_ms": 229407,
       "name": "Take it Slow",
       "url": "https://open.spotify.com/track/6kOXoMSnQy63PNGn4Yp1zZ"
@@ -3694,7 +3898,7 @@
       ],
       "date_added": "2024-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-21",
       "duration_ms": 192706,
       "name": "The Blue Dress Song",
       "url": "https://open.spotify.com/track/613N6htjxF1BoqQUxcNuE0"

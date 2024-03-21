@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXadasIcsfbqh.md) - [plain]
 
 > Pop country hits of today and tomorrow\. Cover: Blake Shelton and Gwen Stefani
 
-[Spotify](https://open.spotify.com/user/spotify) - 181,809 likes - 100 songs - 5 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 181,880 likes - 100 songs - 5 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,9 +66,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXadasIcsfbqh.md) - [plain]
 | 56 | [Found It In You](https://open.spotify.com/track/35zkYE4siFuNCJgcbI1nlt) | [Tiera Kennedy](https://open.spotify.com/artist/26VEPCGAYB9OClQodb0OR1) | [Found It In You](https://open.spotify.com/album/2VFCN1WQ0qPZydQY2E2YnI) | 3:03 |
 | 57 | [ONE BEER \(feat\. Lauren Alaina & Devin Dawson\)](https://open.spotify.com/track/5FmvaZGd6fulojSToozLRD) | [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy), [Lauren Alaina](https://open.spotify.com/artist/1v3tdpIdBSW14rHUfiEVOv), [Devin Dawson](https://open.spotify.com/artist/2ySHS7UojGu20XfUPaBlyu) | [HIXTAPE: Vol\. 1](https://open.spotify.com/album/5e3Kjap4XBZ44dc36AqtEo) | 2:53 |
 | 58 | [Keith](https://open.spotify.com/track/7pcekwb2T8L4MIc29f9GXB) | [Kaylee Bell](https://open.spotify.com/artist/4J3TXBvAMckFbTxqxNYpDj) | [Keith](https://open.spotify.com/album/7dWCUs7VGjsopOEB6VoQYv) | 2:51 |
-| 59 | [Shape of Me \(feat\. Keith Urban\)](https://open.spotify.com/track/6xm5pE5LehFMPUaSDdxpDp) | [Rita Ora](https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr), [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [Shape of Me \(feat\. Keith Urban\)](https://open.spotify.com/album/297EN4H5vStS80LqMdG9pV) | 2:48 |
+| 59 | [One Mississippi](https://open.spotify.com/track/4FdPnT2cFrpWCmWZd7GXc3) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [One Mississippi](https://open.spotify.com/album/3VCaKLIlIDrfKvurZcTmBl) | 3:33 |
 | 60 | [Delusional](https://open.spotify.com/track/1bJiCUDgCPnufF4pL4fjP0) | [Georgia Webster](https://open.spotify.com/artist/0SBVbPO2gePQlaDiIfaKDl) | [Delusional](https://open.spotify.com/album/4Spp3ybedXNyxbDawEeWGq) | 2:51 |
-| 61 | [One Mississippi](https://open.spotify.com/track/4FdPnT2cFrpWCmWZd7GXc3) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [One Mississippi](https://open.spotify.com/album/3VCaKLIlIDrfKvurZcTmBl) | 3:33 |
+| 61 | [Shape of Me \(feat\. Keith Urban\)](https://open.spotify.com/track/6xm5pE5LehFMPUaSDdxpDp) | [Rita Ora](https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr), [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [Shape of Me \(feat\. Keith Urban\)](https://open.spotify.com/album/297EN4H5vStS80LqMdG9pV) | 2:48 |
 | 62 | [How Do I Do This](https://open.spotify.com/track/2I3LMMYVOZBsnAkHmKaSke) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [Rolling Up the Welcome Mat \(For Good\)](https://open.spotify.com/album/09eLFhImEeeEDKlaLznMOv) | 2:51 |
 | 63 | [breadwinner](https://open.spotify.com/track/2stbjvpFujerfDUuUUPX7o) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [star\-crossed](https://open.spotify.com/album/6y9LbrjY2TpaLvtbE7FTkc) | 3:20 |
 | 64 | [She Likes It \(feat\. Jake Scott\)](https://open.spotify.com/track/6VVqPBFZIbcmv14zNfOc13) | [Russell Dickerson](https://open.spotify.com/artist/1E2AEtxaFaJtH0lO7kgNKw), [Jake Scott](https://open.spotify.com/artist/0DxPHf2flBAcV2SnZPg3SV) | [She Likes It \(feat\. Jake Scott\)](https://open.spotify.com/album/6w0l7fLsiJTgVAgoxMzBIu) | 2:43 |
@@ -86,8 +86,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXadasIcsfbqh.md) - [plain]
 | 76 | [Tennessee Love Song](https://open.spotify.com/track/33LmQ3haOKfbw0FSdbS1dg) | [Anella Herim](https://open.spotify.com/artist/0aRXmCsqGxwpaBqY7WQOsN) | [Tennessee Love Song](https://open.spotify.com/album/2pWBzztGG1t2ZHs3aeqwS2) | 1:47 |
 | 77 | [Giving You Up](https://open.spotify.com/track/3f3VeiJIaWOZcmkJpTqxyj) | [Kameron Marlowe](https://open.spotify.com/artist/31n3CN1jSC5ALUJ9dwT8UI) | [Giving You Up](https://open.spotify.com/album/5kb55Z7no2v4AJjBGL2h6p) | 3:50 |
 | 78 | [Nobody](https://open.spotify.com/track/5TWAIHYaOnYg4txfmCgon5) | [Dylan Scott](https://open.spotify.com/artist/78YqeIji3mgAS2K1Maca6x) | [Nothing To Do Town](https://open.spotify.com/album/2du0g6QFWaA3uA5lhFGaQX) | 2:42 |
-| 79 | [Nothing Compares To You \(Feat\. Kane Brown\)](https://open.spotify.com/track/3bf3XBOxWYhspKjUNsmD8Q) | [Mickey Guyton](https://open.spotify.com/artist/6nfN5B7Jmi853SHa9106Hz), [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [Nothing Compares To You \(Feat\. Kane Brown\)](https://open.spotify.com/album/0BYlX788W98lKLXQ4RqKKG) | 3:27 |
-| 80 | [Make Me Want To](https://open.spotify.com/track/5h0JUxCAZBcEifuPrBPEQ7) | [Jimmie Allen](https://open.spotify.com/artist/147nKr9upHZSSxqCzh9j7c) | [Mercury Lane](https://open.spotify.com/album/0GM0DnvOD2WOztAB2WBwzo) | 2:52 |
+| 79 | [Make Me Want To](https://open.spotify.com/track/5h0JUxCAZBcEifuPrBPEQ7) | [Jimmie Allen](https://open.spotify.com/artist/147nKr9upHZSSxqCzh9j7c) | [Mercury Lane](https://open.spotify.com/album/0GM0DnvOD2WOztAB2WBwzo) | 2:52 |
+| 80 | [Nothing Compares To You \(Feat\. Kane Brown\)](https://open.spotify.com/track/3bf3XBOxWYhspKjUNsmD8Q) | [Mickey Guyton](https://open.spotify.com/artist/6nfN5B7Jmi853SHa9106Hz), [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [Nothing Compares To You \(Feat\. Kane Brown\)](https://open.spotify.com/album/0BYlX788W98lKLXQ4RqKKG) | 3:27 |
 | 81 | [Date Night \(feat\. Morgan Evans\)](https://open.spotify.com/track/4rainsOvZId6i9i9Ssl6Hb) | [Kita Alexander](https://open.spotify.com/artist/3CGuwWgoCYSO5Z72H5G2Ec), [Morgan Evans](https://open.spotify.com/artist/6fzQ81ouajOEFqCIB9VwrS) | [Date Night \(feat\. Morgan Evans\)](https://open.spotify.com/album/3bAFWQJ9npu4hqjxkpDRYN) | 2:51 |
 | 82 | [Giddy Up!](https://open.spotify.com/track/4NdJlsPyvXz15LySCNoL2W) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Giddy Up!](https://open.spotify.com/album/55ur1fpimHIf1A63SP2Xwy) | 2:42 |
 | 83 | [Fancy Like \(feat\. Kesha\)](https://open.spotify.com/track/2GgqnsIe9oNOfXN4YCI2eo) | [Walker Hayes](https://open.spotify.com/artist/7sKxqpSqbIzphAKAhrqvlf), [Kesha](https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX) | [Fancy Like \(feat\. Kesha\)](https://open.spotify.com/album/2Z6lVnDJpJPmFro7dOziHA) | 2:41 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXadasIcsfbqh.md) - [plain]
 | 99 | [No Bad Days \(featuring Jimmie Allen\)](https://open.spotify.com/track/0Z36IMMSzdvXlfBu8fwgmR) | [Flo Rida](https://open.spotify.com/artist/0jnsk9HBra6NMjO2oANoPY), [Jimmie Allen](https://open.spotify.com/artist/147nKr9upHZSSxqCzh9j7c) | [No Bad Days \(featuring Jimmie Allen\)](https://open.spotify.com/album/4iTNzA2KHqSKeO1xR46INx) | 2:25 |
 | 100 | [Good Beer](https://open.spotify.com/track/55M9eKCXJFCpid6WBVyEct) | [Seaforth](https://open.spotify.com/artist/1ryJB2bhfYjjIt8kqy4BoG), [Jordan Davis](https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI) | [Good Beer](https://open.spotify.com/album/3PuVtau24hELLklY6dcd3q) | 2:54 |
 
-Snapshot ID: `MCxjNWIzM2I5YzRkZGYxMTAzMWRlODIwNGZhN2YwNWVlMDkwZWY3N2Fl`
+Snapshot ID: `MCxiMzUwYzBlYTNlYWMxODdhMjAyZDQxZWM4OWRlNWIwZTM3NWUyZDFj`

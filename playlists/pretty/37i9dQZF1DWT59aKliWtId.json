@@ -1,12 +1,12 @@
 {
   "description": "a high-quality alternative blend ft. Mt. Joy",
-  "num_followers": 103492,
+  "num_followers": 103502,
   "original_name": "Grade A",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5NzUwNWJhZDBiODhlZjI1MjU5MDhkNmQwMDY2MDExYzZhMTFhMzI1",
+  "snapshot_id": "MCw3ZTBiZTdlNTgyYmMwMGIxNDVjMmVlNmY2ZWNjYzEwZDZlYTRmZDU3",
   "tracks": [
     {
       "added_at": "2024-03-18 22:34:47",
@@ -295,22 +295,6 @@
     {
       "added_at": "2024-03-18 22:34:47",
       "album": {
-        "name": "Deeper Well",
-        "url": "https://open.spotify.com/album/2NXiMKrwmPrqU8epp20pW8"
-      },
-      "artists": [
-        {
-          "name": "Kacey Musgraves",
-          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
-        }
-      ],
-      "duration_ms": 232133,
-      "name": "Deeper Well",
-      "url": "https://open.spotify.com/track/2lJn77IeZAP9cmv6DPXOrL"
-    },
-    {
-      "added_at": "2024-03-18 22:34:47",
-      "album": {
         "name": "White Horse",
         "url": "https://open.spotify.com/album/5yeOXz3vHyMv8ySLEcCya7"
       },
@@ -355,6 +339,22 @@
     {
       "added_at": "2024-03-18 22:34:47",
       "album": {
+        "name": "Nothing Matters",
+        "url": "https://open.spotify.com/album/2YSFu2hX0S6fnXlaeqLhP3"
+      },
+      "artists": [
+        {
+          "name": "The Last Dinner Party",
+          "url": "https://open.spotify.com/artist/5SHgclK1ZpTdfdAmXW7J6s"
+        }
+      ],
+      "duration_ms": 181750,
+      "name": "Nothing Matters",
+      "url": "https://open.spotify.com/track/3p84R45PM75ngq8XRoe45o"
+    },
+    {
+      "added_at": "2024-03-18 22:34:47",
+      "album": {
         "name": "Zach Bryan",
         "url": "https://open.spotify.com/album/6PbnGueEO6LGodPfvNldYf"
       },
@@ -371,22 +371,6 @@
       "duration_ms": 169467,
       "name": "Spotless (feat. The Lumineers)",
       "url": "https://open.spotify.com/track/0HEytGQM3bG1vKxER7IgVK"
-    },
-    {
-      "added_at": "2024-03-18 22:34:47",
-      "album": {
-        "name": "Nothing Matters",
-        "url": "https://open.spotify.com/album/2YSFu2hX0S6fnXlaeqLhP3"
-      },
-      "artists": [
-        {
-          "name": "The Last Dinner Party",
-          "url": "https://open.spotify.com/artist/5SHgclK1ZpTdfdAmXW7J6s"
-        }
-      ],
-      "duration_ms": 181750,
-      "name": "Nothing Matters",
-      "url": "https://open.spotify.com/track/3p84R45PM75ngq8XRoe45o"
     },
     {
       "added_at": "2024-03-18 22:34:47",
@@ -423,6 +407,22 @@
     {
       "added_at": "2024-03-18 22:34:47",
       "album": {
+        "name": "Deeper Well",
+        "url": "https://open.spotify.com/album/5SxZmGwc4eJuPp6PcO4JgJ"
+      },
+      "artists": [
+        {
+          "name": "Kacey Musgraves",
+          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
+        }
+      ],
+      "duration_ms": 191413,
+      "name": "Cardinal",
+      "url": "https://open.spotify.com/track/2rLq6QIfooAKsF8UZuoLsS"
+    },
+    {
+      "added_at": "2024-03-18 22:34:47",
+      "album": {
         "name": "Turn the Lights Back On",
         "url": "https://open.spotify.com/album/4csPGLYTb7kt85U377UCuC"
       },
@@ -455,38 +455,6 @@
     {
       "added_at": "2024-03-18 22:34:47",
       "album": {
-        "name": "Deeper Well",
-        "url": "https://open.spotify.com/album/5SxZmGwc4eJuPp6PcO4JgJ"
-      },
-      "artists": [
-        {
-          "name": "Kacey Musgraves",
-          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
-        }
-      ],
-      "duration_ms": 191413,
-      "name": "Cardinal",
-      "url": "https://open.spotify.com/track/2rLq6QIfooAKsF8UZuoLsS"
-    },
-    {
-      "added_at": "2024-03-18 22:34:47",
-      "album": {
-        "name": "Burning Down the House",
-        "url": "https://open.spotify.com/album/4zJNGGmaY5E5E5i1t2m2Ek"
-      },
-      "artists": [
-        {
-          "name": "Paramore",
-          "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
-        }
-      ],
-      "duration_ms": 218093,
-      "name": "Burning Down the House",
-      "url": "https://open.spotify.com/track/3pRCHHfwYNVCOjWSrkGNw1"
-    },
-    {
-      "added_at": "2024-03-18 22:34:47",
-      "album": {
         "name": "The Hardest Part (feat. Leon Bridges)",
         "url": "https://open.spotify.com/album/74vEZ35YylZD5SAxjLDsZz"
       },
@@ -507,6 +475,22 @@
     {
       "added_at": "2024-03-18 22:34:47",
       "album": {
+        "name": "Burning Down the House",
+        "url": "https://open.spotify.com/album/4zJNGGmaY5E5E5i1t2m2Ek"
+      },
+      "artists": [
+        {
+          "name": "Paramore",
+          "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
+        }
+      ],
+      "duration_ms": 218093,
+      "name": "Burning Down the House",
+      "url": "https://open.spotify.com/track/3pRCHHfwYNVCOjWSrkGNw1"
+    },
+    {
+      "added_at": "2024-03-18 22:34:47",
+      "album": {
         "name": "Capricorn / Gen-X Cops",
         "url": "https://open.spotify.com/album/3szHsSqtiYzj9UbJRgvqkv"
       },
@@ -523,22 +507,6 @@
     {
       "added_at": "2024-03-18 22:34:47",
       "album": {
-        "name": "Modern Girl",
-        "url": "https://open.spotify.com/album/4a6PlF2W6n5oZsKFyLqmP2"
-      },
-      "artists": [
-        {
-          "name": "Bleachers",
-          "url": "https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI"
-        }
-      ],
-      "duration_ms": 223100,
-      "name": "Modern Girl",
-      "url": "https://open.spotify.com/track/4TPgBDOEVwywalXHFUUUQY"
-    },
-    {
-      "added_at": "2024-03-18 22:34:47",
-      "album": {
         "name": "Highway Queen",
         "url": "https://open.spotify.com/album/5IDhjEAh7I0P8IXf5YIiiv"
       },
@@ -551,6 +519,38 @@
       "duration_ms": 212470,
       "name": "Highway Queen",
       "url": "https://open.spotify.com/track/3E7z1rLE9rR2rhTW3TeXGo"
+    },
+    {
+      "added_at": "2024-03-18 22:34:47",
+      "album": {
+        "name": "Deeper Well",
+        "url": "https://open.spotify.com/album/5SxZmGwc4eJuPp6PcO4JgJ"
+      },
+      "artists": [
+        {
+          "name": "Kacey Musgraves",
+          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
+        }
+      ],
+      "duration_ms": 232133,
+      "name": "Deeper Well",
+      "url": "https://open.spotify.com/track/333XFHKsHU0pOocFzBgrJi"
+    },
+    {
+      "added_at": "2024-03-18 22:34:47",
+      "album": {
+        "name": "Modern Girl",
+        "url": "https://open.spotify.com/album/4a6PlF2W6n5oZsKFyLqmP2"
+      },
+      "artists": [
+        {
+          "name": "Bleachers",
+          "url": "https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI"
+        }
+      ],
+      "duration_ms": 223100,
+      "name": "Modern Girl",
+      "url": "https://open.spotify.com/track/4TPgBDOEVwywalXHFUUUQY"
     },
     {
       "added_at": "2024-03-18 22:34:47",
@@ -759,22 +759,6 @@
     {
       "added_at": "2024-03-18 22:34:47",
       "album": {
-        "name": "No Strings",
-        "url": "https://open.spotify.com/album/4LDOFx1Km6O5vYbN5Z3iFb"
-      },
-      "artists": [
-        {
-          "name": "X Ambassadors",
-          "url": "https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB"
-        }
-      ],
-      "duration_ms": 213080,
-      "name": "No Strings",
-      "url": "https://open.spotify.com/track/2EVPJwUDXYldA6gAv00Tj6"
-    },
-    {
-      "added_at": "2024-03-18 22:34:47",
-      "album": {
         "name": "Bleachers",
         "url": "https://open.spotify.com/album/0nZy2z8sZsM5TIHzUpcq5E"
       },
@@ -787,6 +771,22 @@
       "duration_ms": 228381,
       "name": "Tiny Moves",
       "url": "https://open.spotify.com/track/4yTqr0F1vVAY2pUCRiRpr9"
+    },
+    {
+      "added_at": "2024-03-18 22:34:47",
+      "album": {
+        "name": "No Strings",
+        "url": "https://open.spotify.com/album/4LDOFx1Km6O5vYbN5Z3iFb"
+      },
+      "artists": [
+        {
+          "name": "X Ambassadors",
+          "url": "https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB"
+        }
+      ],
+      "duration_ms": 213080,
+      "name": "No Strings",
+      "url": "https://open.spotify.com/track/2EVPJwUDXYldA6gAv00Tj6"
     },
     {
       "added_at": "2024-03-18 22:34:47",
@@ -875,22 +875,6 @@
     {
       "added_at": "2024-03-18 22:34:47",
       "album": {
-        "name": "Find Your People",
-        "url": "https://open.spotify.com/album/1a2RJNW9AkEtgK4Pt3hUlY"
-      },
-      "artists": [
-        {
-          "name": "Drew Holcomb & The Neighbors",
-          "url": "https://open.spotify.com/artist/4RwbDag6jWIYJnEGH6Wte9"
-        }
-      ],
-      "duration_ms": 194093,
-      "name": "Find Your People",
-      "url": "https://open.spotify.com/track/6GuyIXoGIaTw1Pg6Ug9enJ"
-    },
-    {
-      "added_at": "2024-03-18 22:34:47",
-      "album": {
         "name": "Good Together",
         "url": "https://open.spotify.com/album/0h5oGdKMLQchyJljb7Q0Qk"
       },
@@ -907,18 +891,18 @@
     {
       "added_at": "2024-03-18 22:34:47",
       "album": {
-        "name": "Vampire Empire / Born For Loving You",
-        "url": "https://open.spotify.com/album/1JLHhSfD3K4gc3pSIyrvsf"
+        "name": "Find Your People",
+        "url": "https://open.spotify.com/album/1a2RJNW9AkEtgK4Pt3hUlY"
       },
       "artists": [
         {
-          "name": "Big Thief",
-          "url": "https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ"
+          "name": "Drew Holcomb & The Neighbors",
+          "url": "https://open.spotify.com/artist/4RwbDag6jWIYJnEGH6Wte9"
         }
       ],
-      "duration_ms": 214073,
-      "name": "Born For Loving You",
-      "url": "https://open.spotify.com/track/1kcwEVl9hYYg1JU0BFbzmc"
+      "duration_ms": 194093,
+      "name": "Find Your People",
+      "url": "https://open.spotify.com/track/6GuyIXoGIaTw1Pg6Ug9enJ"
     },
     {
       "added_at": "2024-03-18 22:34:47",
@@ -939,6 +923,22 @@
       "duration_ms": 193000,
       "name": "In Bloom",
       "url": "https://open.spotify.com/track/2TNhDjD4wb5XFO2Z7FFWve"
+    },
+    {
+      "added_at": "2024-03-18 22:34:47",
+      "album": {
+        "name": "Vampire Empire / Born For Loving You",
+        "url": "https://open.spotify.com/album/1JLHhSfD3K4gc3pSIyrvsf"
+      },
+      "artists": [
+        {
+          "name": "Big Thief",
+          "url": "https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ"
+        }
+      ],
+      "duration_ms": 214073,
+      "name": "Born For Loving You",
+      "url": "https://open.spotify.com/track/1kcwEVl9hYYg1JU0BFbzmc"
     },
     {
       "added_at": "2024-03-18 22:34:47",
@@ -1323,22 +1323,6 @@
     {
       "added_at": "2024-03-18 22:34:47",
       "album": {
-        "name": "Pretty Vicious",
-        "url": "https://open.spotify.com/album/6LaR18ZPjkJzY6TQse2lt8"
-      },
-      "artists": [
-        {
-          "name": "The Struts",
-          "url": "https://open.spotify.com/artist/3lDpdwM8KILepMHqBWUhIA"
-        }
-      ],
-      "duration_ms": 310300,
-      "name": "Pretty Vicious",
-      "url": "https://open.spotify.com/track/0qIOCd5RPUKObKu9FTWRaz"
-    },
-    {
-      "added_at": "2024-03-18 22:34:47",
-      "album": {
         "name": "Cutting Thru The Country",
         "url": "https://open.spotify.com/album/4OWv5Arr45FudqMP7zSUZf"
       },
@@ -1351,6 +1335,22 @@
       "duration_ms": 204276,
       "name": "Cutting Thru The Country",
       "url": "https://open.spotify.com/track/09eN4wtRH0cAAHQHAbOjvQ"
+    },
+    {
+      "added_at": "2024-03-18 22:34:47",
+      "album": {
+        "name": "Pretty Vicious",
+        "url": "https://open.spotify.com/album/6LaR18ZPjkJzY6TQse2lt8"
+      },
+      "artists": [
+        {
+          "name": "The Struts",
+          "url": "https://open.spotify.com/artist/3lDpdwM8KILepMHqBWUhIA"
+        }
+      ],
+      "duration_ms": 310300,
+      "name": "Pretty Vicious",
+      "url": "https://open.spotify.com/track/0qIOCd5RPUKObKu9FTWRaz"
     },
     {
       "added_at": "2024-03-18 22:34:47",
@@ -1555,22 +1555,6 @@
     {
       "added_at": "2024-03-18 22:34:47",
       "album": {
-        "name": "More Than a Love Song",
-        "url": "https://open.spotify.com/album/4mKa3XUlzWNoUub36qy9mX"
-      },
-      "artists": [
-        {
-          "name": "Black Pumas",
-          "url": "https://open.spotify.com/artist/6eU0jV2eEZ8XTM7EmlguK6"
-        }
-      ],
-      "duration_ms": 287000,
-      "name": "More Than a Love Song",
-      "url": "https://open.spotify.com/track/2LflS98n1TRQb0Fcj1910h"
-    },
-    {
-      "added_at": "2024-03-18 22:34:47",
-      "album": {
         "name": "No California",
         "url": "https://open.spotify.com/album/3MTWOgFgOmAQbqw49MKbaq"
       },
@@ -1583,6 +1567,22 @@
       "duration_ms": 215834,
       "name": "No California",
       "url": "https://open.spotify.com/track/1w21mLzlkcpKReMjbbUwpa"
+    },
+    {
+      "added_at": "2024-03-18 22:34:47",
+      "album": {
+        "name": "More Than a Love Song",
+        "url": "https://open.spotify.com/album/4mKa3XUlzWNoUub36qy9mX"
+      },
+      "artists": [
+        {
+          "name": "Black Pumas",
+          "url": "https://open.spotify.com/artist/6eU0jV2eEZ8XTM7EmlguK6"
+        }
+      ],
+      "duration_ms": 287000,
+      "name": "More Than a Love Song",
+      "url": "https://open.spotify.com/track/2LflS98n1TRQb0Fcj1910h"
     },
     {
       "added_at": "2024-03-18 22:34:47",
@@ -1719,22 +1719,6 @@
     {
       "added_at": "2024-03-18 22:34:47",
       "album": {
-        "name": "Fly",
-        "url": "https://open.spotify.com/album/4UBSEvuaR4v2zJkC0aroby"
-      },
-      "artists": [
-        {
-          "name": "Chicano Batman",
-          "url": "https://open.spotify.com/artist/0LklyUMMUhpIjMgYHlV0hN"
-        }
-      ],
-      "duration_ms": 206533,
-      "name": "Fly",
-      "url": "https://open.spotify.com/track/32sk0nAe4tnJxSjyGylWpj"
-    },
-    {
-      "added_at": "2024-03-18 22:34:47",
-      "album": {
         "name": "Halo",
         "url": "https://open.spotify.com/album/3xGVAgbCAxl2c40vRVRjoe"
       },
@@ -1747,6 +1731,22 @@
       "duration_ms": 232133,
       "name": "Alive!",
       "url": "https://open.spotify.com/track/4Yf2S4ArywzowFQZmesSI9"
+    },
+    {
+      "added_at": "2024-03-18 22:34:47",
+      "album": {
+        "name": "Fly",
+        "url": "https://open.spotify.com/album/4UBSEvuaR4v2zJkC0aroby"
+      },
+      "artists": [
+        {
+          "name": "Chicano Batman",
+          "url": "https://open.spotify.com/artist/0LklyUMMUhpIjMgYHlV0hN"
+        }
+      ],
+      "duration_ms": 206533,
+      "name": "Fly",
+      "url": "https://open.spotify.com/track/32sk0nAe4tnJxSjyGylWpj"
     },
     {
       "added_at": "2024-03-18 22:34:47",
@@ -1783,22 +1783,6 @@
     {
       "added_at": "2024-03-18 22:34:47",
       "album": {
-        "name": "An Arrow In The Wall",
-        "url": "https://open.spotify.com/album/3lpSUYsMgtrhNEjsPfCfsz"
-      },
-      "artists": [
-        {
-          "name": "Death Cab for Cutie",
-          "url": "https://open.spotify.com/artist/0YrtvWJMgSdVrk3SfNjTbx"
-        }
-      ],
-      "duration_ms": 289786,
-      "name": "An Arrow In The Wall",
-      "url": "https://open.spotify.com/track/4UZIlXnN3AXAqwd9PpFtiU"
-    },
-    {
-      "added_at": "2024-03-18 22:34:47",
-      "album": {
         "name": "Weird Faith",
         "url": "https://open.spotify.com/album/40hflv8qjnNzLA2ZrFA3yv"
       },
@@ -1811,6 +1795,22 @@
       "duration_ms": 208160,
       "name": "Same Risk",
       "url": "https://open.spotify.com/track/6llgRqUx6z43bpqNUfjAJQ"
+    },
+    {
+      "added_at": "2024-03-18 22:34:47",
+      "album": {
+        "name": "An Arrow In The Wall",
+        "url": "https://open.spotify.com/album/3lpSUYsMgtrhNEjsPfCfsz"
+      },
+      "artists": [
+        {
+          "name": "Death Cab for Cutie",
+          "url": "https://open.spotify.com/artist/0YrtvWJMgSdVrk3SfNjTbx"
+        }
+      ],
+      "duration_ms": 289786,
+      "name": "An Arrow In The Wall",
+      "url": "https://open.spotify.com/track/4UZIlXnN3AXAqwd9PpFtiU"
     },
     {
       "added_at": "2024-03-18 22:34:47",
@@ -1847,22 +1847,6 @@
     {
       "added_at": "2024-03-18 22:34:47",
       "album": {
-        "name": "White Lies, White Jesus And You",
-        "url": "https://open.spotify.com/album/4PxGWmuTtzAxkPCzmWQ5Al"
-      },
-      "artists": [
-        {
-          "name": "Katie Pruitt",
-          "url": "https://open.spotify.com/artist/1c5w8KrxGwq44fxM5lGB4s"
-        }
-      ],
-      "duration_ms": 264926,
-      "name": "White Lies, White Jesus And You",
-      "url": "https://open.spotify.com/track/6gWgHGxCrROeP19EzkD7rs"
-    },
-    {
-      "added_at": "2024-03-18 22:34:47",
-      "album": {
         "name": "Sweet Tooth",
         "url": "https://open.spotify.com/album/7p5JzjQqCDR84m0HlHsk9F"
       },
@@ -1875,6 +1859,22 @@
       "duration_ms": 239366,
       "name": "Sweet Tooth",
       "url": "https://open.spotify.com/track/64hxSQpLelfhMPF7cjVIUS"
+    },
+    {
+      "added_at": "2024-03-18 22:34:47",
+      "album": {
+        "name": "White Lies, White Jesus And You",
+        "url": "https://open.spotify.com/album/4PxGWmuTtzAxkPCzmWQ5Al"
+      },
+      "artists": [
+        {
+          "name": "Katie Pruitt",
+          "url": "https://open.spotify.com/artist/1c5w8KrxGwq44fxM5lGB4s"
+        }
+      ],
+      "duration_ms": 264926,
+      "name": "White Lies, White Jesus And You",
+      "url": "https://open.spotify.com/track/6gWgHGxCrROeP19EzkD7rs"
     },
     {
       "added_at": "2024-03-18 22:34:47",
@@ -1943,26 +1943,6 @@
     {
       "added_at": "2024-03-18 22:34:47",
       "album": {
-        "name": "Danzig With Myself",
-        "url": "https://open.spotify.com/album/5vlpxtN3xTFxPMI1y1Ly0u"
-      },
-      "artists": [
-        {
-          "name": "The Dandy Warhols",
-          "url": "https://open.spotify.com/artist/7siPLyFwRFYQkKgWKJ5Sod"
-        },
-        {
-          "name": "Frank Black",
-          "url": "https://open.spotify.com/artist/5Q8gM5SMBT2LAoZ5LzqAvH"
-        }
-      ],
-      "duration_ms": 235960,
-      "name": "Danzig With Myself",
-      "url": "https://open.spotify.com/track/6kgsE8vtnBj7z3gS1qo8Ni"
-    },
-    {
-      "added_at": "2024-03-18 22:34:47",
-      "album": {
         "name": "Someday, Someday",
         "url": "https://open.spotify.com/album/0cdiL4wlI4XSfYafHvvI0m"
       },
@@ -1979,18 +1959,22 @@
     {
       "added_at": "2024-03-18 22:34:47",
       "album": {
-        "name": "All My Friends",
-        "url": "https://open.spotify.com/album/52sZ3HakMMdOXPt8A2ZLM8"
+        "name": "Danzig With Myself",
+        "url": "https://open.spotify.com/album/5vlpxtN3xTFxPMI1y1Ly0u"
       },
       "artists": [
         {
-          "name": "Katie Pruitt",
-          "url": "https://open.spotify.com/artist/1c5w8KrxGwq44fxM5lGB4s"
+          "name": "The Dandy Warhols",
+          "url": "https://open.spotify.com/artist/7siPLyFwRFYQkKgWKJ5Sod"
+        },
+        {
+          "name": "Frank Black",
+          "url": "https://open.spotify.com/artist/5Q8gM5SMBT2LAoZ5LzqAvH"
         }
       ],
-      "duration_ms": 197465,
-      "name": "All My Friends",
-      "url": "https://open.spotify.com/track/7mfTeRK4k18u5IZ9Th4CrH"
+      "duration_ms": 235960,
+      "name": "Danzig With Myself",
+      "url": "https://open.spotify.com/track/6kgsE8vtnBj7z3gS1qo8Ni"
     },
     {
       "added_at": "2024-03-18 22:34:47",
@@ -2043,6 +2027,38 @@
     {
       "added_at": "2024-03-18 22:34:47",
       "album": {
+        "name": "All My Friends",
+        "url": "https://open.spotify.com/album/52sZ3HakMMdOXPt8A2ZLM8"
+      },
+      "artists": [
+        {
+          "name": "Katie Pruitt",
+          "url": "https://open.spotify.com/artist/1c5w8KrxGwq44fxM5lGB4s"
+        }
+      ],
+      "duration_ms": 197465,
+      "name": "All My Friends",
+      "url": "https://open.spotify.com/track/7mfTeRK4k18u5IZ9Th4CrH"
+    },
+    {
+      "added_at": "2024-03-18 22:34:47",
+      "album": {
+        "name": "Faith Crisis Pt 1",
+        "url": "https://open.spotify.com/album/0NxJjIo7cyOfhcW4Eh6j1z"
+      },
+      "artists": [
+        {
+          "name": "Middle Kids",
+          "url": "https://open.spotify.com/artist/6AawJaQO4i99Be2A3w7BTW"
+        }
+      ],
+      "duration_ms": 177473,
+      "name": "Dramamine",
+      "url": "https://open.spotify.com/track/0RKLSRK8BXvNJsWyxiAoYQ"
+    },
+    {
+      "added_at": "2024-03-18 22:34:47",
+      "album": {
         "name": "Tiny Garden",
         "url": "https://open.spotify.com/album/6auEC4yc0x3xoYv580Dbke"
       },
@@ -2075,22 +2091,6 @@
       "duration_ms": 207506,
       "name": "Night In",
       "url": "https://open.spotify.com/track/3Qt9dcvy6bNpbl6nmiioDd"
-    },
-    {
-      "added_at": "2024-03-18 22:34:47",
-      "album": {
-        "name": "Faith Crisis Pt 1",
-        "url": "https://open.spotify.com/album/0NxJjIo7cyOfhcW4Eh6j1z"
-      },
-      "artists": [
-        {
-          "name": "Middle Kids",
-          "url": "https://open.spotify.com/artist/6AawJaQO4i99Be2A3w7BTW"
-        }
-      ],
-      "duration_ms": 177473,
-      "name": "Dramamine",
-      "url": "https://open.spotify.com/track/0RKLSRK8BXvNJsWyxiAoYQ"
     },
     {
       "added_at": "2024-03-18 22:34:47",
@@ -2355,6 +2355,22 @@
     {
       "added_at": "2024-03-18 22:34:47",
       "album": {
+        "name": "Pull the Rope",
+        "url": "https://open.spotify.com/album/3Xc6YhaNwQ8CxdSGrpw80l"
+      },
+      "artists": [
+        {
+          "name": "Ibibio Sound Machine",
+          "url": "https://open.spotify.com/artist/4J6CnIqPEtWYn3la2YYj2c"
+        }
+      ],
+      "duration_ms": 209360,
+      "name": "Pull the Rope",
+      "url": "https://open.spotify.com/track/7CfIoH458ApkgA24pHNsED"
+    },
+    {
+      "added_at": "2024-03-18 22:34:47",
+      "album": {
         "name": "Feel Good",
         "url": "https://open.spotify.com/album/4OmmXsHm3IutzsXt5xGVvB"
       },
@@ -2383,22 +2399,6 @@
       "duration_ms": 264809,
       "name": "Jealous Moon",
       "url": "https://open.spotify.com/track/6hHTBOwgnAGOLcHFDlYknX"
-    },
-    {
-      "added_at": "2024-03-18 22:34:47",
-      "album": {
-        "name": "Pull the Rope",
-        "url": "https://open.spotify.com/album/3Xc6YhaNwQ8CxdSGrpw80l"
-      },
-      "artists": [
-        {
-          "name": "Ibibio Sound Machine",
-          "url": "https://open.spotify.com/artist/4J6CnIqPEtWYn3la2YYj2c"
-        }
-      ],
-      "duration_ms": 209360,
-      "name": "Pull the Rope",
-      "url": "https://open.spotify.com/track/7CfIoH458ApkgA24pHNsED"
     },
     {
       "added_at": "2024-03-18 22:34:47",

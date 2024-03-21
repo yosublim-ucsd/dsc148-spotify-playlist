@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXblYBkrEcpLK.md) - [plain]
 
 > アニメシーンを彩る女性アーティスト達を特集！ Celebrate the great female artists from anime culture\. Cover: ReoNa
 
-[Spotify](https://open.spotify.com/user/spotify) - 155,735 likes - 50 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 155,800 likes - 50 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,9 +41,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXblYBkrEcpLK.md) - [plain]
 | 31 | [snowspring](https://open.spotify.com/track/7tonj11VpAOhsOH7QgJPhq) | [チョーキューメイ](https://open.spotify.com/artist/5ZFxExn8YICZm9JFo9dqTq) | [snowspring](https://open.spotify.com/album/6097pqjwHjLkbbWj30WQmt) | 3:42 |
 | 32 | [ロックオン](https://open.spotify.com/track/6Ypn0bd1K7IFWPEWHUPk75) | [MAISONdes](https://open.spotify.com/artist/7LTiBdByoaUd329wCpmMcM), [はしメロ](https://open.spotify.com/artist/7Bokk7F8hq4P8wWwEO5mZy), [巡巡](https://open.spotify.com/artist/37gq7KFHsAIEuEuRFT8RNl) | [ロックオン](https://open.spotify.com/album/0J8A7J3iEm0umNxT38O7lx) | 2:47 |
 | 33 | [奇縁ロマンス](https://open.spotify.com/track/7HpRzCOpC0AgRJwkxrk5bH) | [NANAOAKARI](https://open.spotify.com/artist/06jSjpC81wzjoUoE61Fhdn) | [奇縁ロマンス](https://open.spotify.com/album/1YujqcEfWz2zenKQKtDJKT) | 3:41 |
-| 34 | [SARIGIWA NO ROMANTICS](https://open.spotify.com/track/6debKLiHxraxOhA37Mm1IH) | [See\-Saw](https://open.spotify.com/artist/7FVrkZcfwIc1ZwlQPatdUw) | [SARIGIWA NO ROMANTICS](https://open.spotify.com/album/6FBmyjYZ56DVmV6P1gQNdc) | 4:36 |
-| 35 | [SIGN IS B \- NEW ARRANGE SOLO VER.](https://open.spotify.com/track/7FhKL9ufaGBFz10O129ca1) | [B小町](https://open.spotify.com/artist/2iE1VTEN54FE9j7rIxbBHR), [ルビー\(CV:伊駒ゆりえ\)](https://open.spotify.com/artist/0NDjPCmjM76Dilt0dKT9gs), [有馬かな\(CV:潘めぐみ\)](https://open.spotify.com/artist/7HPTPwYB3g0RAmuUr2Xz7q), [MEMちょ\(CV:大久保瑠美\)](https://open.spotify.com/artist/1l8zX829EhW28MBxPLLugx) | [TV SERIES ”【OSHI NO KO】 ” \(Vol.2\)](https://open.spotify.com/album/4MLXH5rVUsSl0nbmuljoVv) | 3:41 |
-| 36 | [外道讃歌](https://open.spotify.com/track/5iPg9OCOa6Jv7Y9HLrtmxC) | [FantasticYouth](https://open.spotify.com/artist/5XnMEOCzuW5XCsqgqEek16) | [外道讃歌](https://open.spotify.com/album/5NmUuvyYyKSebmuitwqBsY) | 4:29 |
+| 34 | [外道讃歌](https://open.spotify.com/track/5iPg9OCOa6Jv7Y9HLrtmxC) | [FantasticYouth](https://open.spotify.com/artist/5XnMEOCzuW5XCsqgqEek16) | [外道讃歌](https://open.spotify.com/album/5NmUuvyYyKSebmuitwqBsY) | 4:29 |
+| 35 | [SARIGIWA NO ROMANTICS](https://open.spotify.com/track/6debKLiHxraxOhA37Mm1IH) | [See\-Saw](https://open.spotify.com/artist/7FVrkZcfwIc1ZwlQPatdUw) | [SARIGIWA NO ROMANTICS](https://open.spotify.com/album/6FBmyjYZ56DVmV6P1gQNdc) | 4:36 |
+| 36 | [SIGN IS B \- NEW ARRANGE SOLO VER.](https://open.spotify.com/track/7FhKL9ufaGBFz10O129ca1) | [B小町](https://open.spotify.com/artist/2iE1VTEN54FE9j7rIxbBHR), [ルビー\(CV:伊駒ゆりえ\)](https://open.spotify.com/artist/0NDjPCmjM76Dilt0dKT9gs), [有馬かな\(CV:潘めぐみ\)](https://open.spotify.com/artist/7HPTPwYB3g0RAmuUr2Xz7q), [MEMちょ\(CV:大久保瑠美\)](https://open.spotify.com/artist/1l8zX829EhW28MBxPLLugx) | [TV SERIES ”【OSHI NO KO】 ” \(Vol.2\)](https://open.spotify.com/album/4MLXH5rVUsSl0nbmuljoVv) | 3:41 |
 | 37 | [学級日誌](https://open.spotify.com/track/7ea6ouVJBX1qNlF4Bsbr14) | [紫 今](https://open.spotify.com/artist/0iWST9kIo1KHBRQ5mYAqmY) | [学級日誌](https://open.spotify.com/album/7JeY33oaNNWi7PJJHQtUfq) | 3:57 |
 | 38 | [数センチメンタル](https://open.spotify.com/track/3qujwlukYDnnW8YMhDuUMf) | [こはならむ](https://open.spotify.com/artist/1I24D95GZP1Nr9hVsiOLmw) | [数センチメンタル](https://open.spotify.com/album/6DrKTI77wgOlpMPcCKPAqY) | 3:06 |
 | 39 | [adrenaline!!!](https://open.spotify.com/track/10Yk9WbT2840l1NK5RWvkq) | [TrySail](https://open.spotify.com/artist/3YmAt9U9INQwxAwfgMVfKD) | [TAILWIND](https://open.spotify.com/album/6aQawPPAZQ83W5Iy5E702F) | 4:34 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXblYBkrEcpLK.md) - [plain]
 | 49 | [ハートはお手上げ](https://open.spotify.com/track/7JKJ7p6vz8ZMDdzzd3mww2) | [鈴木愛理](https://open.spotify.com/artist/5YnNfqofR6jjU2DDoGfh2h) | [ハートはお手上げ](https://open.spotify.com/album/3YzQqLy0QpodtniZBp4bT6) | 3:47 |
 | 50 | [ディア・パンタレイ](https://open.spotify.com/track/4nMTH2T9Cj4jxLCF8fLigp) | [Sumire Uesaka](https://open.spotify.com/artist/4hRg5l2hXQl3lAzffFF8P8) | [ディア・パンタレイ](https://open.spotify.com/album/3OnnSAL9s1IWt1vR622lyI) | 4:12 |
 
-Snapshot ID: `MCxlNWQ1YzQxNzMzMzg0MjE0YzFjYTkzODJlODIzYzdlYmJmZDliZjI3`
+Snapshot ID: `MCxjNDY3NjU2YzVkYTY5Njk5NWU4NzFjODg4NDZlZGE3MTdhZDI3NDE3`

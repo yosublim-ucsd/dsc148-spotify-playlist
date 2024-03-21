@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Xg4VQ.md) - [plain]
 
 > This is Lila Downs\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 68,680 likes - 50 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 68,679 likes - 50 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,8 +27,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Xg4VQ.md) - [plain]
 | 17 | [Naila](https://open.spotify.com/track/3doaeUZd2v2BbYTJLYUytI) | [Lila Downs](https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP) | [El Alma De Lila Downs](https://open.spotify.com/album/78cEKu2fMM5fo0TAsBHcRT) | 3:11 |
 | 18 | [No Me Amenaces \(feat\. Lila Downs\)](https://open.spotify.com/track/3wjHY9iOulWhaLmEfJNUTk) | [Aida Cuevas](https://open.spotify.com/artist/5BOm3jiZCxwCXXJ0Hstubr), [Mariachi Reyna De Los Angeles](https://open.spotify.com/artist/650nqeGBxByQo7gS6jNwDy), [Lila Downs](https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP) | [Pa' que Sientas Lo Que Siento](https://open.spotify.com/album/5zStXpEXkdFiKGVu0AR1Q3) | 3:10 |
 | 19 | [Calaveras](https://open.spotify.com/track/6PO6PjA5zvQ9gCAFjDAG8D) | [Benny](https://open.spotify.com/artist/3YHFRVdfHlJ98iAc50PIYk), [Lila Downs](https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP) | [La Marcha de la Vida](https://open.spotify.com/album/7cdhRB4dbNZJMn1OafvISD) | 4:29 |
-| 20 | [Lágrimas Negras \(feat\. Lila Downs\)](https://open.spotify.com/track/02DvKHO0xe6MukjF4Hr2Wk) | [Carlos Cuevas](https://open.spotify.com/artist/5oyTT8C73YIMhLyuXYLtiL), [Lila Downs](https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP) | [Los Boleros de Oro de la Música Tropical](https://open.spotify.com/album/2MCSHOk67yIocitxqMZAaJ) | 4:35 |
-| 21 | [El Yerbero Moderno \(feat\. Lila Downs\)](https://open.spotify.com/track/5xQDQ7VToiDyn7IQs3aqlS) | [La Sonora Santanera](https://open.spotify.com/artist/3CsPxFJGyNa9ep79CFWN77), [Lila Downs](https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP) | [La Fiesta Continúa](https://open.spotify.com/album/6ARm9afMHyzlG7zN20ECFQ) | 3:00 |
+| 20 | [El Yerbero Moderno \(feat\. Lila Downs\)](https://open.spotify.com/track/5xQDQ7VToiDyn7IQs3aqlS) | [La Sonora Santanera](https://open.spotify.com/artist/3CsPxFJGyNa9ep79CFWN77), [Lila Downs](https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP) | [La Fiesta Continúa](https://open.spotify.com/album/6ARm9afMHyzlG7zN20ECFQ) | 3:00 |
+| 21 | [Lágrimas Negras \(feat\. Lila Downs\)](https://open.spotify.com/track/02DvKHO0xe6MukjF4Hr2Wk) | [Carlos Cuevas](https://open.spotify.com/artist/5oyTT8C73YIMhLyuXYLtiL), [Lila Downs](https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP) | [Los Boleros de Oro de la Música Tropical](https://open.spotify.com/album/2MCSHOk67yIocitxqMZAaJ) | 4:35 |
 | 22 | [Dos Corazones](https://open.spotify.com/track/7m4kCkv68FyL1Sl1eAzSj6) | [Lila Downs](https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP) | [La Sánchez](https://open.spotify.com/album/4oG5SgcJ04vSuxUmpZO8Lf) | 3:34 |
 | 23 | [Paloma Negra](https://open.spotify.com/track/2iBs4Z7DsNAXsaY8XRobjT) | [Lila Downs](https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP) | [One Blood \(Una Sangre\)](https://open.spotify.com/album/417veGNmonVv9o0iGlFyjT) | 4:31 |
 | 24 | [Búscate Un Hombre Que Te Quiera](https://open.spotify.com/track/6LEg2KW6MfHZ4cFvPqaxnZ) | [Los Palmeras](https://open.spotify.com/artist/2Htm0q72SjGSmsy8EOIhRG), [Lila Downs](https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP) | [Búscate Un Hombre Que Te Quiera](https://open.spotify.com/album/2vTqXeZ4dNboPFqcc9StmO) | 3:01 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Xg4VQ.md) - [plain]
 | 49 | [Dignificada](https://open.spotify.com/track/5jRzAstjJuMwUP9P4Sj6Ng) | [Lila Downs](https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP) | [One Blood \(Una Sangre\)](https://open.spotify.com/album/417veGNmonVv9o0iGlFyjT) | 3:46 |
 | 50 | [Vas de Salida](https://open.spotify.com/track/1fAlzrqtkmH6GX9lJ5al9b) | [Lila Downs](https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP) | [La Sánchez](https://open.spotify.com/album/4oG5SgcJ04vSuxUmpZO8Lf) | 3:02 |
 
-Snapshot ID: `Mjg1MTQxOTUsMDAwMDAwMDAwMjhjM2NlNDFiMTIzODcwNDNmOTQ4ZjQ1OWM3NWM1MA==`
+Snapshot ID: `Mjg1MTU2NjEsMDAwMDAwMDA1MWQ3MTNiNTVjNmE0NGU4NWNlY2YxMDk2ZDUyNWUwMw==`

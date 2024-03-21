@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWNQEmXRHxVe.md) - [plain]
 
 > Music from the most memorable halftime shows\. Cover: Usher
 
-[Spotify](https://open.spotify.com/user/spotify) - 118,776 likes - 100 songs - 6 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 118,805 likes - 100 songs - 6 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWNQEmXRHxVe.md) - [plain]
 | 25 | [Still D.R.E.](https://open.spotify.com/track/503OTo2dSqe7qk76rgsbep) | [Dr\. Dre](https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) | [2001](https://open.spotify.com/album/7q2B4M5EiBkqrlsNW8lB7N) | 4:30 |
 | 26 | [My Girl](https://open.spotify.com/track/745H5CctFr12Mo7cqa1BMH) | [The Temptations](https://open.spotify.com/artist/3RwQ26hR2tJtA8F9p2n7jG) | [The Temptations Sing Smokey](https://open.spotify.com/album/45tweuKI0zdh8zgKo05cTw) | 2:45 |
 | 27 | [Billie Jean](https://open.spotify.com/track/5ChkMS8OtdzJeqyybCc9R5) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [Thriller 25 Super Deluxe Edition](https://open.spotify.com/album/1C2h7mLntPSeVYciMRTF4a) | 4:53 |
-| 28 | [California Love \- Original Version](https://open.spotify.com/track/3ia3dJETSOllPsv3LJkE35) | [2Pac](https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh), [Roger](https://open.spotify.com/artist/3GMoVpWJy4smKuxFuFTwXC), [Dr\. Dre](https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7) | [Greatest Hits](https://open.spotify.com/album/1WBZyULtlANBKed7Zf9cDP) | 4:44 |
-| 29 | [Alright](https://open.spotify.com/track/3iVcZ5G6tvkXZkZKlMpIUs) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [To Pimp A Butterfly](https://open.spotify.com/album/7ycBtnsMtyVbbwTfJwRjSP) | 3:39 |
+| 28 | [Alright](https://open.spotify.com/track/3iVcZ5G6tvkXZkZKlMpIUs) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [To Pimp A Butterfly](https://open.spotify.com/album/7ycBtnsMtyVbbwTfJwRjSP) | 3:39 |
+| 29 | [California Love \- Original Version](https://open.spotify.com/track/3ia3dJETSOllPsv3LJkE35) | [2Pac](https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh), [Roger](https://open.spotify.com/artist/3GMoVpWJy4smKuxFuFTwXC), [Dr\. Dre](https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7) | [Greatest Hits](https://open.spotify.com/album/1WBZyULtlANBKed7Zf9cDP) | 4:44 |
 | 30 | [Adventure of a Lifetime](https://open.spotify.com/track/69uxyAqqPIsUyTO8txoP2M) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [A Head Full of Dreams](https://open.spotify.com/album/3cfAM8b8KqJRoIzt3zLKqw) | 4:23 |
 | 31 | [Start Me Up \- Remastered 2009](https://open.spotify.com/track/7HKez549fwJQDzx3zLjHKC) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Tattoo You \(2009 Re\-Mastered\)](https://open.spotify.com/album/15XNBzVWARPMlu0sEbfBjJ) | 3:33 |
 | 32 | [She Will Be Loved \- Radio Mix](https://open.spotify.com/track/4llK75pXNWZz6KAho2Gp16) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP) | [Songs About Jane: 10th Anniversary Edition](https://open.spotify.com/album/5zClcGCSWj926AMjvBNSLc) | 4:19 |
@@ -58,10 +58,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWNQEmXRHxVe.md) - [plain]
 | 48 | [Baba O'Riley](https://open.spotify.com/track/3qiyyUfYe7CRYLucrPmulD) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [Who's Next \(Deluxe Edition\)](https://open.spotify.com/album/5MqyhhHbT13zsloD3uHhlQ) | 5:00 |
 | 49 | [Just A Girl](https://open.spotify.com/track/5lWRaa0fBxDE5yU91npPq7) | [No Doubt](https://open.spotify.com/artist/0cQbJU1aAzvbEmTuljWLlF) | [Tragic Kingdom](https://open.spotify.com/album/3VekjWskUut57hx6W9wqL8) | 3:29 |
 | 50 | [Halo](https://open.spotify.com/track/4JehYebiI9JE8sR8MisGVb) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [I AM...SASHA FIERCE](https://open.spotify.com/album/39P7VD7qlg3Z0ltq60eHp7) | 4:21 |
-| 51 | [In Da Club](https://open.spotify.com/track/4RY96Asd9IefaL3X4LOLZ8) | [50 Cent](https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh) | [Get Rich Or Die Tryin'](https://open.spotify.com/album/4ycNE7y1rp5215g1kkqk1P) | 3:13 |
+| 51 | [Teenage Dream](https://open.spotify.com/track/5jzKL4BDMClWqRguW5qZvh) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Teenage Dream](https://open.spotify.com/album/2eQMC9nJE3f3hCNKlYYHL1) | 3:47 |
 | 52 | [I Won't Back Down](https://open.spotify.com/track/7gSQv1OHpkIoAdUiRLdmI6) | [Tom Petty](https://open.spotify.com/artist/2UZMlIwnkgAEDBsw1Rejkn) | [Full Moon Fever](https://open.spotify.com/album/5d71Imt5CIb7LpQwDMQ093) | 2:58 |
 | 53 | [Waka Waka \(This Time for Africa\) \[The Official 2010 FIFA World Cup \(TM\) Song\] \(feat\. Freshlyground\)](https://open.spotify.com/track/1ZlHr9FYHT7YTbXCoxPq5C) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp), [Freshlyground](https://open.spotify.com/artist/7AcV1lk8Zrgo1691PDWEle) | [Summer Party Anthems](https://open.spotify.com/album/7oA3n7CRInntyXA0GQiJsm) | 3:21 |
-| 54 | [Teenage Dream](https://open.spotify.com/track/5jzKL4BDMClWqRguW5qZvh) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Teenage Dream](https://open.spotify.com/album/2eQMC9nJE3f3hCNKlYYHL1) | 3:47 |
+| 54 | [In Da Club](https://open.spotify.com/track/4RY96Asd9IefaL3X4LOLZ8) | [50 Cent](https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh) | [Get Rich Or Die Tryin'](https://open.spotify.com/album/4ycNE7y1rp5215g1kkqk1P) | 3:13 |
 | 55 | [CAN'T STOP THE FEELING! \(from DreamWorks Animation's "TROLLS"\)](https://open.spotify.com/track/1WkMMavIMc4JZ8cfMmxHkI) | [Justin Timberlake](https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7) | [TROLLS \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/65ayND23IInUPHJKsaAqe7) | 3:57 |
 | 56 | [Like a Prayer](https://open.spotify.com/track/1z3ugFmUKoCzGsI6jdY4Ci) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Celebration \(double disc version\)](https://open.spotify.com/album/43lok9zd7BW5CoYkXZs7S0) | 5:42 |
 | 57 | [On The Floor \- Radio Edit](https://open.spotify.com/track/0Oe49j06Bjrxs8PltuVeaW) | [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR), [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg) | [On The Floor](https://open.spotify.com/album/543NK5YT3RjGmP7nFzWJPm) | 3:50 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWNQEmXRHxVe.md) - [plain]
 | 99 | [Everybody Needs Somebody to Love](https://open.spotify.com/track/1CtKHwDqsH3ctcCCI18N0g) | [The Blues Brothers](https://open.spotify.com/artist/1cHFz6lrt7KAsBV8j2Ny1g) | [The Blues Brothers Original Motion Picture Soundtrack](https://open.spotify.com/album/4cO51KBYsdsbmSZleoNEGH) | 3:23 |
 | 100 | [Step by Step](https://open.spotify.com/track/6J6RWKCPN5RFKHUKEUFjxS) | [New Kids On The Block](https://open.spotify.com/artist/55qiaow2sDYtjqu1mwRua6) | [Step By Step](https://open.spotify.com/album/4dCdnfD0shXGuHtyTOtx8q) | 4:27 |
 
-Snapshot ID: `MCwyNWE1NTQwODBiNDliZjYzZjUyOGRhNWQxYjY0NWI1MzMzNzkyNzRh`
+Snapshot ID: `MCxmM2IwNmI5ZTFhZWNjMmNhMDY0NDE2ZWE2NmFjNWYxMjIzNjMyOWZm`

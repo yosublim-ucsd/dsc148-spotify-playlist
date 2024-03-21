@@ -4,7 +4,7 @@
 
 > Discover your favorite new chill pop songs\. Cover: Caleb Hearn
 
-1,584 songs - 3 day 11 hr 19 min
+1,585 songs - 3 day 11 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1422,7 +1422,8 @@
 | [To Love Someone](https://open.spotify.com/track/3PsHulD1zewglcTPcEPnlk) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [To Love Someone](https://open.spotify.com/album/2hOxnlaUHGvYa7pisKzVdC) | 3:16 | 2023-11-10 |  |
 | [To the Bone](https://open.spotify.com/track/3pCt2wRdBDa2kCisIdHWgF) | [Pamungkas](https://open.spotify.com/artist/7d86ERlvO5UG44j7Va0Y0C) | [Flying Solo](https://open.spotify.com/album/3QUGmEDo4oijL93sKzlsR4) | 5:44 | 2021-03-15 | 2021-04-03 |
 | [Too Fast](https://open.spotify.com/track/3d4PNHZ9nOuZzfvRrRaIWI) | [Sydney Rose](https://open.spotify.com/artist/5vx4pDmiFDyKMhuOIgpiRv) | [This Kind of Thing Doesn’t Last](https://open.spotify.com/album/0Dfe6jHESwMI9ldlb7ENn0) | 3:56 | 2022-11-11 | 2022-12-03 |
-| [Too Good to be True](https://open.spotify.com/track/4vIiVs5JoNfqqRi5o7jAIb) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Too Good to be True](https://open.spotify.com/album/57y7NpfTINlnrNitu8vwft) | 2:40 | 2024-03-08 |  |
+| [Too Good to be True](https://open.spotify.com/track/27RDQ0TfxzWMlQFuKrPT11) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Deeper Well](https://open.spotify.com/album/5SxZmGwc4eJuPp6PcO4JgJ) | 2:40 | 2024-03-08 |  |
+| [Too Good to be True](https://open.spotify.com/track/4vIiVs5JoNfqqRi5o7jAIb) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Too Good to be True](https://open.spotify.com/album/57y7NpfTINlnrNitu8vwft) | 2:40 | 2024-03-08 | 2024-03-21 |
 | [Too Late \(with AJR\)](https://open.spotify.com/track/1FNpMhXQtpIfN0BXwEvIWS) | [Quinn XCII](https://open.spotify.com/artist/3ApUX1o6oSz321MMECyIYd), [AJR](https://open.spotify.com/artist/6s22t5Y3prQHyaHWUN1R1C) | [The People's Champ](https://open.spotify.com/album/3plm9depNQ4MWerYdN0vaq) | 2:55 | 2023-01-27 | 2023-02-25 |
 | [too many feelings](https://open.spotify.com/track/3tb3sGsGLnSsyUxue8Aetd) | [Ruel](https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn) | [too many feelings](https://open.spotify.com/album/2XJb3KWRBjAarZvPf6Rqwu) | 3:06 | 2021-02-12 | 2021-05-08 |
 | [TOUCH](https://open.spotify.com/track/7mZ19pGoinaWwanIDq0JTY) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [TOUCH](https://open.spotify.com/album/58QltYKAAcCgYSoyzDsCP7) | 3:25 | 2022-02-04 | 2022-03-12 |

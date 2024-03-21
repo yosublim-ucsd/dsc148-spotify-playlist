@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSg3zkewD8tv.md) - [plain]
 
 > An all\-Australian soundtrack to snags, bread and tomato sauce!
 
-[Spotify](https://open.spotify.com/user/spotify) - 309,057 likes - 50 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 309,084 likes - 50 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,19 +21,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSg3zkewD8tv.md) - [plain]
 | 11 | [Let It Happen](https://open.spotify.com/track/2X485T9Z5Ly0xyaghN73ed) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Currents](https://open.spotify.com/album/79dL7FLiJFOO0EoehUHQBv) | 7:47 |
 | 12 | [Thunderstruck](https://open.spotify.com/track/57bgtoPSgt236HzfBOd8kj) | [AC/DC](https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un) | [The Razors Edge](https://open.spotify.com/album/4vu7F6h90Br1ZtYYaqfITy) | 4:52 |
 | 13 | [Walking On A Dream](https://open.spotify.com/track/5r5cp9IpziiIsR6b93vcnQ) | [Empire Of The Sun](https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c) | [Walking On A Dream \(10th Anniversary Edition\)](https://open.spotify.com/album/5B6XfyHHYawyLkEvNvhSPh) | 3:18 |
-| 14 | [Beds Are Burning \- Remastered](https://open.spotify.com/track/1CtAzw53AIXKjAemxy4b1j) | [Midnight Oil](https://open.spotify.com/artist/72KyoXzp0NOQij6OcmZUxk) | [Diesel And Dust](https://open.spotify.com/album/243XzHQegX82bPnUVQ0SPV) | 4:15 |
-| 15 | [Chandelier](https://open.spotify.com/track/2s1sdSqGcKxpPr5lCl7jAV) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [1000 Forms Of Fear \(Deluxe Version\)](https://open.spotify.com/album/6FdNvoO5sF4EKwCX9je1MH) | 3:36 |
+| 14 | [Chandelier](https://open.spotify.com/track/2s1sdSqGcKxpPr5lCl7jAV) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [1000 Forms Of Fear \(Deluxe Version\)](https://open.spotify.com/album/6FdNvoO5sF4EKwCX9je1MH) | 3:36 |
+| 15 | [Beds Are Burning \- Remastered](https://open.spotify.com/track/1CtAzw53AIXKjAemxy4b1j) | [Midnight Oil](https://open.spotify.com/artist/72KyoXzp0NOQij6OcmZUxk) | [Diesel And Dust](https://open.spotify.com/album/243XzHQegX82bPnUVQ0SPV) | 4:15 |
 | 16 | [Weather With You](https://open.spotify.com/track/6tXnRSvuNgOq4QcxpIN54r) | [Crowded House](https://open.spotify.com/artist/7ohlPA8dRBtCf92zaZCaaB) | [Woodface](https://open.spotify.com/album/1QSoW668F9DVj8Rk9azF7h) | 3:44 |
 | 17 | [How To Fly](https://open.spotify.com/track/6I3Evf3nNhxFA5lSM37Y0v) | [Sticky Fingers](https://open.spotify.com/artist/3ZGr7nQBXDU2WhyXgRVbt0) | [Caress Your Soul](https://open.spotify.com/album/2XiBbHgNjlt3JLz8j2S61k) | 3:22 |
-| 18 | [Back In Black](https://open.spotify.com/track/08mG3Y1vljYA6bvDt4Wqkj) | [AC/DC](https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un) | [Back In Black](https://open.spotify.com/album/6mUdeDZCsExyJLMdAfDuwh) | 4:15 |
+| 18 | [You Shook Me All Night Long](https://open.spotify.com/track/2SiXAy7TuUkycRVbbWDEpo) | [AC/DC](https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un) | [Back In Black](https://open.spotify.com/album/6mUdeDZCsExyJLMdAfDuwh) | 3:30 |
 | 19 | [Big Jet Plane](https://open.spotify.com/track/3WGsYiBXmaT8XyY4Fmry2v) | [Angus & Julia Stone](https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr) | [Down the Way](https://open.spotify.com/album/78BXB0tWspQKtatJK5DTXZ) | 3:59 |
 | 20 | [Feels Like We Only Go Backwards](https://open.spotify.com/track/0LtOwyZoSNZKJWHqjzADpW) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Lonerism](https://open.spotify.com/album/3C2MFZ2iHotUQOSBzdSvM7) | 3:12 |
 | 21 | [Marinade](https://open.spotify.com/track/2OFUamird9l49tMtwf8w3l) | [DOPE LEMON](https://open.spotify.com/artist/7oZLKL1GjYiaAgssXsLmW8) | [Honey Bones](https://open.spotify.com/album/6Eskc9vh8wniq95JXGFZ1V) | 3:57 |
 | 22 | [Drop The Game](https://open.spotify.com/track/3wFFW1B6WAmAFGOwdEOOZR) | [Flume](https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer), [Chet Faker](https://open.spotify.com/artist/6UcJxoeHWWWyT5HZP064om) | [Lockjaw](https://open.spotify.com/album/5I0kS30hvtI7a1LFEhaPve) | 3:41 |
 | 23 | [Black Betty \- Edit](https://open.spotify.com/track/7uSsHbBFFAnkRQR1rDwP3L) | [Spiderbait](https://open.spotify.com/artist/6P7kkhED6EPrfoZuxz20Fo) | [Tonight Alright](https://open.spotify.com/album/5WqHoLszhaCZHgtTebMx8X) | 3:25 |
-| 24 | [Reminiscing \- Remastered 2010](https://open.spotify.com/track/7i3xpu7SFWvzhGa9AZyySR) | [Little River Band](https://open.spotify.com/artist/6clbbhnIqpHnqxwtOWcilg) | [Sleeper Catcher \(Remastered 2022\)](https://open.spotify.com/album/5XXymqS9NunPlUbovZK8WJ) | 4:17 |
-| 25 | [Cheap Thrills](https://open.spotify.com/track/3S4px9f4lceWdKf0gWciFu) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [This Is Acting \(Deluxe Version\)](https://open.spotify.com/album/2eV6DIPDnGl1idcjww6xyX) | 3:31 |
-| 26 | [You Shook Me All Night Long](https://open.spotify.com/track/2SiXAy7TuUkycRVbbWDEpo) | [AC/DC](https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un) | [Back In Black](https://open.spotify.com/album/6mUdeDZCsExyJLMdAfDuwh) | 3:30 |
+| 24 | [Cheap Thrills](https://open.spotify.com/track/3S4px9f4lceWdKf0gWciFu) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [This Is Acting \(Deluxe Version\)](https://open.spotify.com/album/2eV6DIPDnGl1idcjww6xyX) | 3:31 |
+| 25 | [Reminiscing \- Remastered 2010](https://open.spotify.com/track/7i3xpu7SFWvzhGa9AZyySR) | [Little River Band](https://open.spotify.com/artist/6clbbhnIqpHnqxwtOWcilg) | [Sleeper Catcher \(Remastered 2022\)](https://open.spotify.com/album/5XXymqS9NunPlUbovZK8WJ) | 4:17 |
+| 26 | [Back In Black](https://open.spotify.com/track/08mG3Y1vljYA6bvDt4Wqkj) | [AC/DC](https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un) | [Back In Black](https://open.spotify.com/album/6mUdeDZCsExyJLMdAfDuwh) | 4:15 |
 | 27 | [Mess Is Mine](https://open.spotify.com/track/29jtZGdgpE2lWm2mkIt6HS) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [Dream Your Life Away \(Special Edition\)](https://open.spotify.com/album/5S9b8euumqMhQbMk0zzQdH) | 3:43 |
 | 28 | [Need You Tonight](https://open.spotify.com/track/5eU8qMd0TpaLqTGDZJaLDs) | [INXS](https://open.spotify.com/artist/1eClJfHLoDI4rZe5HxzBFv) | [Kick](https://open.spotify.com/album/7cuwWzS0oiApEt2fpKafkX) | 3:00 |
 | 29 | [Elephant](https://open.spotify.com/track/6qZjm61s6u8Ead9sWxCDro) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Lonerism](https://open.spotify.com/album/3C2MFZ2iHotUQOSBzdSvM7) | 3:31 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSg3zkewD8tv.md) - [plain]
 | 49 | [My Happiness](https://open.spotify.com/track/2pxxVkNhrRST8fpgA12ru8) | [Powderfinger](https://open.spotify.com/artist/6LBCQo20ri3tsvbsWWLmr6) | [Odyssey Number Five](https://open.spotify.com/album/1fgfp2op6DHKCrtWiMFiws) | 4:36 |
 | 50 | [Knees](https://open.spotify.com/track/7fE9r2qOJmjgruk3TdW4MD) | [Ocean Alley](https://open.spotify.com/artist/18lpwfiys4GtdHWNUu9qQr) | [Chiaroscuro](https://open.spotify.com/album/0MVMsDS0kofp6A8cbJ5kSH) | 4:46 |
 
-Snapshot ID: `MCw3MjIxZWQ4MDcwODdkMzlmMjEzZjhhNzRiNzlhMGE2MGNlZDgwMmJk`
+Snapshot ID: `MCw0MzZmY2U5MzM3ODQ4MjRhOGMzMTBhOTEzNjY2MDdlMWVmYmE2YzQ5`

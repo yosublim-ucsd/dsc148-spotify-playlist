@@ -1,5 +1,5 @@
 {
-  "2024-03-20": 1235733,
+  "2024-03-21": 1235737,
   "date_first_scraped": "2022-04-20",
   "description": "Ambient piano to help you stay focussed. ",
   "name": "Music for Concentration",
@@ -1248,6 +1248,24 @@
     },
     {
       "album": {
+        "name": "Catching the Wind",
+        "url": "https://open.spotify.com/album/7kYsXRcPUW3sckQsgySIUI"
+      },
+      "artists": [
+        {
+          "name": "B\u00f6rn Visor",
+          "url": "https://open.spotify.com/artist/6MWFWTJoRkiPVQzwvmrXai"
+        }
+      ],
+      "date_added": "2024-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121841,
+      "name": "Catching the Wind",
+      "url": "https://open.spotify.com/track/5F6eiRwJQyVl8TLtNhGL3k"
+    },
+    {
+      "album": {
         "name": "Chaque seconde",
         "url": "https://open.spotify.com/album/28jXOYo12w7BRvB9lA2q3V"
       },
@@ -1497,6 +1515,24 @@
       "duration_ms": 109294,
       "name": "Dawn",
       "url": "https://open.spotify.com/track/1E0RGmeX5QjPeWTdd99mAh"
+    },
+    {
+      "album": {
+        "name": "Dawn Chorus",
+        "url": "https://open.spotify.com/album/22WXVntCzS5veMXJ0H7Tj4"
+      },
+      "artists": [
+        {
+          "name": "Patrick Hamilton",
+          "url": "https://open.spotify.com/artist/5gxCZXXCHpwrqcCJxq0VhJ"
+        }
+      ],
+      "date_added": "2024-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172800,
+      "name": "Dawn Chorus",
+      "url": "https://open.spotify.com/track/26GqyIOVutV1Kcz9V708fn"
     },
     {
       "album": {
@@ -2868,6 +2904,46 @@
     },
     {
       "album": {
+        "name": "Little Boy",
+        "url": "https://open.spotify.com/album/22j6ckEXQqatndRT7AFLYT"
+      },
+      "artists": [
+        {
+          "name": "Haru Kitamura",
+          "url": "https://open.spotify.com/artist/6qjQ8iKIjHkc6x5wodNJiD"
+        }
+      ],
+      "date_added": "2024-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122000,
+      "name": "Little Boy",
+      "url": "https://open.spotify.com/track/4ugfH6l185E6ahXiWQdmdD"
+    },
+    {
+      "album": {
+        "name": "little plate",
+        "url": "https://open.spotify.com/album/0Djm9jXUNQV3yNos33h8lI"
+      },
+      "artists": [
+        {
+          "name": "Hiroko Murakami",
+          "url": "https://open.spotify.com/artist/2FPMZBH13ARkDrd37sIp13"
+        },
+        {
+          "name": "Hiroco.M",
+          "url": "https://open.spotify.com/artist/723sN2rn2hMtdiMbzAZ3Of"
+        }
+      ],
+      "date_added": "2024-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209000,
+      "name": "little plate",
+      "url": "https://open.spotify.com/track/1yqd5CxtQrretfwCvu6Cxk"
+    },
+    {
+      "album": {
         "name": "Lo Siento",
         "url": "https://open.spotify.com/album/4dTNDpTsYII6p7fkO8zWqc"
       },
@@ -3246,6 +3322,24 @@
     },
     {
       "album": {
+        "name": "Moonlit Waltz",
+        "url": "https://open.spotify.com/album/6xQzhd6Olos5emiENxcuOj"
+      },
+      "artists": [
+        {
+          "name": "Javier Escudero",
+          "url": "https://open.spotify.com/artist/6A92FyWQLVbUdIjQJjge6N"
+        }
+      ],
+      "date_added": "2024-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161443,
+      "name": "Moonlit Waltz",
+      "url": "https://open.spotify.com/track/4OhlV0mUJNXXSv6xHBn0bf"
+    },
+    {
+      "album": {
         "name": "Morning Frost",
         "url": "https://open.spotify.com/album/22tSnBD38TgaLWbMzbfNXM"
       },
@@ -3405,6 +3499,24 @@
       "duration_ms": 180666,
       "name": "Night Dive",
       "url": "https://open.spotify.com/track/11WOlDMShdSUaqgWY7g0aZ"
+    },
+    {
+      "album": {
+        "name": "Nightbloom",
+        "url": "https://open.spotify.com/album/3OXDiQnyOjR4Sl5g2beTBz"
+      },
+      "artists": [
+        {
+          "name": "Ren Lockhart",
+          "url": "https://open.spotify.com/artist/2o6Pj478mXZrEZbEFnAbXp"
+        }
+      ],
+      "date_added": "2024-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155132,
+      "name": "Nightbloom",
+      "url": "https://open.spotify.com/track/7s7Ls7wTmiyogFLL9q6xyj"
     },
     {
       "album": {
@@ -5033,6 +5145,24 @@
       "duration_ms": 172264,
       "name": "The hills",
       "url": "https://open.spotify.com/track/2wbG3Ma6mHGHI1cJv7r67u"
+    },
+    {
+      "album": {
+        "name": "The Last Goodbye",
+        "url": "https://open.spotify.com/album/2iY03z9xsWzIeLkLiJ5iB7"
+      },
+      "artists": [
+        {
+          "name": "Aquilegia",
+          "url": "https://open.spotify.com/artist/4XF98HJsL7ue3NksOvebiJ"
+        }
+      ],
+      "date_added": "2024-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170986,
+      "name": "The Last Goodbye",
+      "url": "https://open.spotify.com/track/0CFHCZ9LKhFA1DqExQHkf9"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "Blissful indie for dreamers.",
-  "num_followers": 303847,
+  "num_followers": 303887,
   "original_name": "Dreampop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlYmYwYTFkMjBmMjg5MDVjMTc1ZjNmYTQ3MWQ4OTkzNWFkZDZjODc1",
+  "snapshot_id": "MCwwOTBkYTNiYzY1ODY5ZTgzMDI3MDkyODM5NmVjZWIyZTc2NDhmZjYx",
   "tracks": [
     {
       "added_at": "2023-07-21 10:37:28",
@@ -59,6 +59,22 @@
     {
       "added_at": "2023-07-21 10:37:28",
       "album": {
+        "name": "NEGATIVE",
+        "url": "https://open.spotify.com/album/2momrvUqAMigmBoOOKuavE"
+      },
+      "artists": [
+        {
+          "name": "EKKSTACY",
+          "url": "https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH"
+        }
+      ],
+      "duration_ms": 145634,
+      "name": "i walk this earth all by myself",
+      "url": "https://open.spotify.com/track/6oofvZ4K8vBHnCT1oKERcd"
+    },
+    {
+      "added_at": "2023-07-21 10:37:28",
+      "album": {
         "name": "Jinx",
         "url": "https://open.spotify.com/album/6DxidEI7EhF8md8ev83iNY"
       },
@@ -71,22 +87,6 @@
       "duration_ms": 126120,
       "name": "Ghostride",
       "url": "https://open.spotify.com/track/0R3TWpoxAhT3HDXM7tpRzS"
-    },
-    {
-      "added_at": "2023-07-21 10:37:28",
-      "album": {
-        "name": "i walk this earth all by myself",
-        "url": "https://open.spotify.com/album/6tdl27ojBwZ5ZexzZOP4mG"
-      },
-      "artists": [
-        {
-          "name": "EKKSTACY",
-          "url": "https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH"
-        }
-      ],
-      "duration_ms": 145634,
-      "name": "i walk this earth all by myself",
-      "url": "https://open.spotify.com/track/5a8QUc4ubHJqQm7vzs2YhA"
     },
     {
       "added_at": "2023-07-21 10:37:28",
@@ -427,6 +427,22 @@
     {
       "added_at": "2023-07-21 10:37:28",
       "album": {
+        "name": "Running",
+        "url": "https://open.spotify.com/album/2dEf6lN5qYFQQy3Jd3ScHG"
+      },
+      "artists": [
+        {
+          "name": "Cafun\u00e9",
+          "url": "https://open.spotify.com/artist/581C5Qwl87TskfBEzuoisu"
+        }
+      ],
+      "duration_ms": 217149,
+      "name": "High",
+      "url": "https://open.spotify.com/track/3ZphrQX0N2mg16cwCYj7tM"
+    },
+    {
+      "added_at": "2023-07-21 10:37:28",
+      "album": {
         "name": "Lean Into Life",
         "url": "https://open.spotify.com/album/0bhNAmedySXmdR9xBhbpmZ"
       },
@@ -455,22 +471,6 @@
       "duration_ms": 241097,
       "name": "Tenderness",
       "url": "https://open.spotify.com/track/6xlO0KbxxktH6OnY56wkwF"
-    },
-    {
-      "added_at": "2023-07-21 10:37:28",
-      "album": {
-        "name": "Running",
-        "url": "https://open.spotify.com/album/2dEf6lN5qYFQQy3Jd3ScHG"
-      },
-      "artists": [
-        {
-          "name": "Cafun\u00e9",
-          "url": "https://open.spotify.com/artist/581C5Qwl87TskfBEzuoisu"
-        }
-      ],
-      "duration_ms": 217149,
-      "name": "High",
-      "url": "https://open.spotify.com/track/3ZphrQX0N2mg16cwCYj7tM"
     },
     {
       "added_at": "2023-09-29 10:51:04",

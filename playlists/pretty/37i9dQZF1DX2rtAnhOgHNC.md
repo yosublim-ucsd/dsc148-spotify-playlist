@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2rtAnhOgHNC.md) - [plain]
 
 > Los grandes éxitos de la década pasada, en México.
 
-[Spotify](https://open.spotify.com/user/spotify) - 232,095 likes - 50 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 232,147 likes - 50 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,9 +22,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2rtAnhOgHNC.md) - [plain]
 | 12 | [Adiós Amor](https://open.spotify.com/track/63bmZnBN1CiJ9sA4qTEe8y) | [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [Me Dejé Llevar](https://open.spotify.com/album/2XHw4PFHT6srg7dxA3yrKv) | 3:19 |
 | 13 | [Ya Te Olvidé](https://open.spotify.com/track/4FsVB8msXzmemjJdTKUoal) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2) | [Para Mí](https://open.spotify.com/album/0nN4sE3MnNnZQSCXcYFiF0) | 3:31 |
 | 14 | [¡Corre!](https://open.spotify.com/track/5kIcrM3QVD4BQPFMszQnU1) | [Jesse & Joy](https://open.spotify.com/artist/1mX1TWKpNxDSAH16LgDfiR) | [¿Con Quién Se Queda El Perro?](https://open.spotify.com/album/5koG6JeFEwcINyN1QuXyiq) | 4:48 |
-| 15 | [Bajo El Agua](https://open.spotify.com/track/5QSYWruQQ7kBCHScI4xJ9g) | [Manuel Medrano](https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM) | [Manuel Medrano](https://open.spotify.com/album/3XeEBV0owMhwHmyLfaMxwg) | 3:45 |
+| 15 | [Te Regalo](https://open.spotify.com/track/4brw4anhV4og38Rv6o1dBa) | [Carla Morrison](https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe) | [Amor Supremo \(Desnudo\)](https://open.spotify.com/album/3ChFP3YQevhl7lbTBtO0Yz) | 4:02 |
 | 16 | [Sé Que Te Duele](https://open.spotify.com/track/1OJkKHmXsZVKtWlECdpDAe) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9), [Morat](https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD) | [Rompiendo Fronteras](https://open.spotify.com/album/48XvYOTsoGV3Juk0OY7PDp) | 3:48 |
-| 17 | [Te Regalo](https://open.spotify.com/track/4brw4anhV4og38Rv6o1dBa) | [Carla Morrison](https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe) | [Amor Supremo \(Desnudo\)](https://open.spotify.com/album/3ChFP3YQevhl7lbTBtO0Yz) | 4:02 |
+| 17 | [Bajo El Agua](https://open.spotify.com/track/5QSYWruQQ7kBCHScI4xJ9g) | [Manuel Medrano](https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM) | [Manuel Medrano](https://open.spotify.com/album/3XeEBV0owMhwHmyLfaMxwg) | 3:45 |
 | 18 | [Ya Te Perdí La Fe](https://open.spotify.com/track/0KHDthR0XvPoeJaqBc7Sg5) | [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz) | [Ojos En Blanco](https://open.spotify.com/album/6KfwGFnaelkfX5KDET17Bb) | 2:27 |
 | 19 | [Amárrame](https://open.spotify.com/track/3EK4tGkSiO5xvvB5sM4tln) | [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr), [Juanes](https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7) | [La Trenza](https://open.spotify.com/album/7CgbWo8K9pQx823YTI17zE) | 3:27 |
 | 20 | [Creo en Ti](https://open.spotify.com/track/0xXhgLXfEHnWJHVgRvFvdn) | [Reik](https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2) | [Peligro](https://open.spotify.com/album/0zbw6YNuejcVp8XgDKO0yF) | 2:43 |
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2rtAnhOgHNC.md) - [plain]
 | 22 | [Aléjate de Mí](https://open.spotify.com/track/15AbuFJdFrbINydSMSqVhV) | [Camila](https://open.spotify.com/artist/2gRP1Ezbtj3qrERnd0XasU) | [Dejarte De Amar](https://open.spotify.com/album/0MPMiyavAbARflBlNGjIA6) | 4:18 |
 | 23 | [La De La Mala Suerte](https://open.spotify.com/track/40qGH4aiVeaFW7qIPCyTVa) | [Jesse & Joy](https://open.spotify.com/artist/1mX1TWKpNxDSAH16LgDfiR) | [¿Con Quién Se Queda El Perro?](https://open.spotify.com/album/5koG6JeFEwcINyN1QuXyiq) | 4:11 |
 | 24 | [¿A Dónde Vamos A Parar?](https://open.spotify.com/track/1Agu4u8a8Qm28zq5JtwaVv) | [Marco Antonio Solís](https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd) | [En Total Plenitud](https://open.spotify.com/album/6RXfdbB8YWgmE6LjXs6RHg) | 3:48 |
-| 25 | [Amigos Con Derechos](https://open.spotify.com/track/4yVO0wOhXsZC1RuPgHP524) | [Reik](https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2), [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [Ahora](https://open.spotify.com/album/4BvD9caT3ZohqNQFcR8dVD) | 3:47 |
-| 26 | [Soñé \- En Vivo](https://open.spotify.com/track/2VhJ4nrPorAbySEgO4V0BS) | [Zoé](https://open.spotify.com/artist/6IdtcAwaNVAggwd6sCKgTI) | [MTV Unplugged Música De Fondo \(Reissue/Live\)](https://open.spotify.com/album/5fl6q7SKOuaO2tHXeTaZeV) | 3:46 |
+| 25 | [Soñé \- En Vivo](https://open.spotify.com/track/2VhJ4nrPorAbySEgO4V0BS) | [Zoé](https://open.spotify.com/artist/6IdtcAwaNVAggwd6sCKgTI) | [MTV Unplugged Música De Fondo \(Reissue/Live\)](https://open.spotify.com/album/5fl6q7SKOuaO2tHXeTaZeV) | 3:46 |
+| 26 | [Amigos Con Derechos](https://open.spotify.com/track/4yVO0wOhXsZC1RuPgHP524) | [Reik](https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2), [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [Ahora](https://open.spotify.com/album/4BvD9caT3ZohqNQFcR8dVD) | 3:47 |
 | 27 | [Si Te Vienen a Contar](https://open.spotify.com/track/1qNUhmx3rGjiMRThz7Eruv) | [Cartel De Santa](https://open.spotify.com/artist/07PdYoE4jVRF6Ut40GgVSP) | [Golpe Avisa](https://open.spotify.com/album/2EexU9SdoDbgCGazUepCyL) | 3:39 |
 | 28 | [En Peligro de Extinción](https://open.spotify.com/track/4wZqjBJCs2tD7AV3c2UUh5) | [La Adictiva](https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM) | [30 Aniversario](https://open.spotify.com/album/6R0zUtsEyeLEPmWBhVmenf) | 3:54 |
 | 29 | [En Donde Esta Tu Amor](https://open.spotify.com/track/6qNrqyOQOgnNDozI8eDRsg) | [Virlan Garcia](https://open.spotify.com/artist/0vjeBgTzYTwmYoVySJzXGD) | [Mi Vida Eres Tú](https://open.spotify.com/album/3azaq42L9KN7ivVeETobzt) | 3:37 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2rtAnhOgHNC.md) - [plain]
 | 49 | [1, 2, 3 \(feat\. Jason Derulo & De La Ghetto\)](https://open.spotify.com/track/4QtiVmuA88tPQiCOHZuQ5b) | [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2), [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y), [De La Ghetto](https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb) | [1, 2, 3 \(feat\. Jason Derulo & De La Ghetto\)](https://open.spotify.com/album/1jHSAfCHKUFx5imuezI7HE) | 3:21 |
 | 50 | [Optimista](https://open.spotify.com/track/22LGgFochmXJw5vVr5knDl) | [Caloncho](https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA) | [Bálsamo](https://open.spotify.com/album/7av9VVRYT6rgVRshaVDEPQ) | 3:32 |
 
-Snapshot ID: `MCxlNGJmMGJjM2RiMWUyNTI5ZTdkNTlhMTRkZWMzYTE2ZGE4YzlhYzdk`
+Snapshot ID: `MCxlY2RhYTRlOGVkZGIzMzFkMzVkMTY5NzFiMjc2ZDY0MTQ5ODg0ZDgz`

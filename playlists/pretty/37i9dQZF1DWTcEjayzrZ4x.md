@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTcEjayzrZ4x.md) - [plain]
 
 > Relaxing instrumental Jazz with a cool and soft sound.
 
-[Spotify](https://open.spotify.com/user/spotify) - 245,889 likes - 566 songs - 1 day 8 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 245,907 likes - 566 songs - 1 day 8 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -575,4 +575,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTcEjayzrZ4x.md) - [plain]
 | 565 | [A Hero Lives Another Day](https://open.spotify.com/track/5R5fWpRXhe5YqmtZ2WPzw0) | [Claudia Torrek](https://open.spotify.com/artist/2vTJc7s0MUGFXfXVK8TypJ) | [A Hero Lives Another Day](https://open.spotify.com/album/15BIymmR9Y0raWZcbcFs6n) | 3:06 |
 | 566 | [Riverside](https://open.spotify.com/track/0vnsOSvEko26QNLxsnmYQk) | [Charlie James\-Walker](https://open.spotify.com/artist/7apm9TJQ66v5ykLahf9B3U) | [Riverside](https://open.spotify.com/album/3W4YoAdfpeaabxyutq36i2) | 3:58 |
 
-Snapshot ID: `MCw2Njg5MDA5YWNjOGQ3YzlkNTYyNjZhZDI5ZDJmNmVlMjcyY2NiMDFi`
+Snapshot ID: `MCw5MmIzZWNjZGE1MTg2MTNiZDRlMzFlZTUxNzY5ZDg4ZmUzMjA4NmRh`

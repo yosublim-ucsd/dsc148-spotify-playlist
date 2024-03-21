@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZRdj6RqDDMm.md) - [plain]
 
 > Just wanna Praise the Lord and chill\. Here is a perfect one! Cover: <a href="https://open.spotify.com/artist/22eqNziE8ta7JfDrEkUx8H?si=O\-4j6NxkS\-aYvon7eAoaHg">Malcolm Rue</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,356 likes - 105 songs - 6 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,416 likes - 105 songs - 6 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,7 +83,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZRdj6RqDDMm.md) - [plain]
 | 73 | [My Story](https://open.spotify.com/track/45Y0cUvEEOs1EBEdCnuMgz) | [Neeja](https://open.spotify.com/artist/2Q6hH4KzIrMYrpP601GUJi) | [My Story](https://open.spotify.com/album/23AQ5yGbDMNicVmjP885QD) | 2:49 |
 | 74 | [Elijah Level \(with Limoblaze\)](https://open.spotify.com/track/1yEuEyMs30kbMfyEWlEk8h) | [Gaise Baba](https://open.spotify.com/artist/5pFY8yo0PDefGs7laYnNwo), [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT) | [Elijah Level \(with Limoblaze\)](https://open.spotify.com/album/6FT3RodFpDNE4R4cAhb5O9) | 2:53 |
 | 75 | [Asante](https://open.spotify.com/track/1F2rGbWtuyZKdoCBTxWGLP) | [Khaligraph Jones](https://open.spotify.com/artist/1xxXRVpuEm3X3p1QEm61Az), [Kusah](https://open.spotify.com/artist/260q55nLIeMDgpXiUJYTRK) | [Asante](https://open.spotify.com/album/4aMXNnKrAnvfZjDgKGlwhC) | 4:07 |
-| 76 | [This Love](https://open.spotify.com/track/5RHUrCglxsMgs2xvo1wCh2) | [Chidinma](https://open.spotify.com/artist/3Wu4rnX6UKAMtTlUL2IAj4) | [This Love](https://open.spotify.com/album/5jF6a0WvJ8zzO9a00lbP6I) | 5:00 |
+| 76 | [This Love](https://open.spotify.com/track/2SueiZVtrxJCHgF1Y3KACe) | [Chidinma](https://open.spotify.com/artist/3Wu4rnX6UKAMtTlUL2IAj4) | [New Season](https://open.spotify.com/album/0xe2iTsZcYzMhzCSiZrQpk) | 5:00 |
 | 77 | [Master \- Special Version](https://open.spotify.com/track/4rRXj13pMwPz3ZAlN4KDpa) | [Elsammy](https://open.spotify.com/artist/0w5NXZhWTCSqsPQuuXbMPL), [JoeKings](https://open.spotify.com/artist/5nMmEYNTGHolTC9ViHFbAR) | [Master \(Special Version\)](https://open.spotify.com/album/0PM02QDsKXBpDl1WsVuLOM) | 2:59 |
 | 78 | [Mood](https://open.spotify.com/track/02hayZnsBdxsXdY1SZH1Ve) | [Izee Smith](https://open.spotify.com/artist/6GyPcrxlrvHEre7Rb63RHt) | [Mood](https://open.spotify.com/album/0BKHdObJ1b5mQqs207vJRn) | 2:49 |
 | 79 | [Surrender](https://open.spotify.com/track/5SCH6LHRQH3hfmqAlnU1yo) | [Jvson](https://open.spotify.com/artist/0CbUlmC1cMua8bl6aQvP6F) | [Surrender](https://open.spotify.com/album/1MXMfvad0zlEQscHvBZU9h) | 2:52 |
@@ -114,4 +114,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZRdj6RqDDMm.md) - [plain]
 | 104 | [Belongs to you](https://open.spotify.com/track/2XNFPtWAxuNuO3vJ0IdaLA) | [Noël Mio](https://open.spotify.com/artist/7JzZd8sCTmIpJW62zNS0ta) | [Belongs to you](https://open.spotify.com/album/2M91mM7OZJtNaeiH8pqa7O) | 2:13 |
 | 105 | [Trusted](https://open.spotify.com/track/2PRebsAfb6LBVYLr5mKMlt) | [Malcolm Rue](https://open.spotify.com/artist/22eqNziE8ta7JfDrEkUx8H) | [Trusted](https://open.spotify.com/album/7cZ7nXWQsrE2VoFXErZWVN) | 3:04 |
 
-Snapshot ID: `MCxkYTM5ZmZmNTYzZmE5NWYwZmFkOTdiNThjNjI1NjI4OGM1ZGJlNzRj`
+Snapshot ID: `MCxmMWEwOWZkZGJhN2E5MzAzYzBmZjU2MmJhMGQzYWM1ZTdiZGVlM2Iz`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4pw0pATEeBr.md) - [plain]
 
 > Versos y barras de alto poder, con un takeover por Faruz Feet.
 
-[Spotify](https://open.spotify.com/user/spotify) - 101,530 likes - 60 songs - 3 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 101,629 likes - 60 songs - 3 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4pw0pATEeBr.md) - [plain]
 | 26 | [THE SCOTTS](https://open.spotify.com/track/39Yp9wwQiSRIDOvrVg7mbk) | [THE SCOTTS](https://open.spotify.com/artist/2PaZWGu5T5nHjY2xxAkFsT), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [Kid Cudi](https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu) | [THE SCOTTS](https://open.spotify.com/album/7q6zjWaLw8bN5nYiBWjrus) | 2:45 |
 | 27 | [Astronaut In The Ocean](https://open.spotify.com/track/3Ofmpyhv5UAQ70mENzB277) | [Masked Wolf](https://open.spotify.com/artist/1uU7g3DNSbsu0QjSEqZtEd) | [Astronaut In The Ocean](https://open.spotify.com/album/7vus4Q8r5DS2Dl1JClxEsA) | 2:12 |
 | 28 | [Burbujas de Cristal](https://open.spotify.com/track/15yuvKhcoEtV5KwKxqHSwa) | [Cartel De Santa](https://open.spotify.com/artist/07PdYoE4jVRF6Ut40GgVSP), [Millonario](https://open.spotify.com/artist/2N2aJ1SXQxMkhHD8C6fhYD) | [Burbujas de Cristal](https://open.spotify.com/album/0UYbHFy4zdCF34CRebZmRQ) | 3:44 |
-| 29 | [Bad and Boujee \(feat\. Lil Uzi Vert\)](https://open.spotify.com/track/0M9ydKzuF3oZTfYYPfaGX1) | [Migos](https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG), [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [Culture](https://open.spotify.com/album/4JTOxuvM2jcSqAvEZtZsOO) | 5:43 |
-| 30 | [Can't Be Touched \(feat\. Mr\. Magic & Trouble\)](https://open.spotify.com/track/3zmduBNsQ6BPDTZAkXzG5K) | [Roy Jones Jr.](https://open.spotify.com/artist/5K6YsAKuRtcczPgxAdzc3B), [Mr Magic](https://open.spotify.com/artist/4e0Z9S1BolFuwPDnA8wOjF), [Trouble](https://open.spotify.com/artist/3OMd4I5GX8Hz51SLS0C2Fm) | [Body Head Bangerz, Vol\. 1](https://open.spotify.com/album/5VcOoSq5hMQb3bNa0sBKOe) | 3:34 |
+| 29 | [Can't Be Touched \(feat\. Mr\. Magic & Trouble\)](https://open.spotify.com/track/3zmduBNsQ6BPDTZAkXzG5K) | [Roy Jones Jr.](https://open.spotify.com/artist/5K6YsAKuRtcczPgxAdzc3B), [Mr Magic](https://open.spotify.com/artist/4e0Z9S1BolFuwPDnA8wOjF), [Trouble](https://open.spotify.com/artist/3OMd4I5GX8Hz51SLS0C2Fm) | [Body Head Bangerz, Vol\. 1](https://open.spotify.com/album/5VcOoSq5hMQb3bNa0sBKOe) | 3:34 |
+| 30 | [Bad and Boujee \(feat\. Lil Uzi Vert\)](https://open.spotify.com/track/0M9ydKzuF3oZTfYYPfaGX1) | [Migos](https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG), [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [Culture](https://open.spotify.com/album/4JTOxuvM2jcSqAvEZtZsOO) | 5:43 |
 | 31 | [pushin P \(feat\. Young Thug\)](https://open.spotify.com/track/3XOalgusokruzA5ZBA2Qcb) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [DS4EVER](https://open.spotify.com/album/02uWB8Kekadkl3yGBoOOcx) | 2:16 |
 | 32 | [Es Épico](https://open.spotify.com/track/2kd0T6zgABT8P0s2h9QU5O) | [Canserbero](https://open.spotify.com/artist/1wGIhYkKWSq4yACtTkCkSX) | [Muerte](https://open.spotify.com/album/27xqCLyTHom0wyjtw08K12) | 6:01 |
 | 33 | [Praise God](https://open.spotify.com/track/0WSEq9Ko4kFPt8yo3ICd6T) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Donda](https://open.spotify.com/album/5CnpZV3q5BcESefcB3WJmz) | 3:46 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4pw0pATEeBr.md) - [plain]
 | 59 | [Thot Shit](https://open.spotify.com/track/5zNW5ARjYhJQJz1AChP33n) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Thot Shit](https://open.spotify.com/album/7gEGuvkVs79hY4tG7OYnzx) | 3:04 |
 | 60 | [Why We Thugs](https://open.spotify.com/track/5880eYQmXx3c3oD22IljIt) | [Ice Cube](https://open.spotify.com/artist/3Mcii5XWf6E0lrY3Uky4cA) | [Laugh Now, Cry Later](https://open.spotify.com/album/6M1IwZsOOyBgmpKO75XPRj) | 3:44 |
 
-Snapshot ID: `MCw5YWQ0NjBiNmFkYjU1YjhmOGRhOTE0ODM2ZWUzODI0MjNmNzM0N2Fj`
+Snapshot ID: `MCxhZjJiNmQ5ZDRiMmQ4MDM3MWYzNDQxNGI4NDIxNWI0MjFkN2RkOGIz`

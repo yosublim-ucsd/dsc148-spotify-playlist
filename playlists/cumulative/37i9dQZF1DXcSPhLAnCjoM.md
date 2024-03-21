@@ -8,7 +8,7 @@
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [Aimée pour de vrai \(Héléna\)](https://open.spotify.com/track/5peFNKKLZUaOYE0c3qZNE1) | [Star Academy](https://open.spotify.com/artist/0SkR0pnP9oQ3ghG9juH9hy) | [L'album de la promo 2023](https://open.spotify.com/album/7nwA9NO0wjD68jgpeimgcC) | 3:08 | 2024-03-14 |  |
+| [Aimée pour de vrai](https://open.spotify.com/track/5peFNKKLZUaOYE0c3qZNE1) | [Helena](https://open.spotify.com/artist/6M0dlWzmJ9Z81JM2WpHbsC), [Star Academy](https://open.spotify.com/artist/0SkR0pnP9oQ3ghG9juH9hy) | [L'album de la promo 2023](https://open.spotify.com/album/7nwA9NO0wjD68jgpeimgcC) | 3:08 | 2024-03-14 |  |
 | [Aseptisé](https://open.spotify.com/track/2W5IVgVXNf3IcqRGWv5lr0) | [Superbus](https://open.spotify.com/artist/3Hog7RVQ1lAv1crdfiJPLq) | [Aseptisé](https://open.spotify.com/album/2qn28PdWCLjFQfydpVoNEP) | 3:01 | 2024-02-29 | 2024-03-08 |
 | [Au bord de la mer](https://open.spotify.com/track/4JRzne9QPdoRTipanGEqh3) | [Chiloo](https://open.spotify.com/artist/0DjR09NBgtZbkOnBZays9o) | [Au bord de la mer](https://open.spotify.com/album/68QdmvGYzprjbODlaItocj) | 3:13 | 2023-09-28 | 2024-02-16 |
 | [Au bout de mes rêves](https://open.spotify.com/track/0gtCHxyATWVLvcUhq8eL2f) | [Star Academy](https://open.spotify.com/artist/0SkR0pnP9oQ3ghG9juH9hy) | [Au bout de mes rêves](https://open.spotify.com/album/4T8LsKgQuZqucNNf7GbBw8) | 2:50 | 2023-12-07 |  |

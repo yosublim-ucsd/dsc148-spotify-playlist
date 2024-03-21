@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5T5XRP5VmUL.md) - [plain]
 
 > Dreaming of a white Christmas ✨❄️
 
-[Spotify](https://open.spotify.com/user/spotify) - 151,152 likes - 100 songs - 5 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 151,136 likes - 100 songs - 5 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,9 +31,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5T5XRP5VmUL.md) - [plain]
 | 21 | [Let It Snow! Let It Snow! Let It Snow! \(with The B\. Swanson Quartet\)](https://open.spotify.com/track/4kKdvXD0ez7jp1296JmAts) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0), [B\. Swanson Quartet](https://open.spotify.com/artist/0JXiS2FrAg3wQYJHcmZdrc) | [Christmas Songs by Sinatra](https://open.spotify.com/album/4XbPmVHP7EYBMoE7ZVjKCU) | 2:35 |
 | 22 | [Merry Christmas](https://open.spotify.com/track/3bH2Eu9A9ymI4UnGHRmoXg) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V), [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Merry Christmas](https://open.spotify.com/album/3pqY0b5nEKoWwSrrwMwqMK) | 3:28 |
 | 23 | [Please Come Home For Christmas](https://open.spotify.com/track/3cZRpCsi78sk2u4XW0vosp) | [Ryland James](https://open.spotify.com/artist/4WXIF211lYZfYEn0d13Ac0) | [Please Come Home For Christmas](https://open.spotify.com/album/08IMJctnRCU6sW75YKjbpw) | 3:17 |
-| 24 | [A Holly Jolly Christmas](https://open.spotify.com/track/77khP2fIVhSW23NwxrRluh) | [Burl Ives](https://open.spotify.com/artist/0MHgLfmQdutffmvWe5XBTN) | [Have A Holly Jolly Christmas](https://open.spotify.com/album/6MvKUOSuPdfH0WLeQjR3eR) | 2:15 |
+| 24 | [Wonderful Christmastime \- Edited Version / Remastered 2011](https://open.spotify.com/track/1SV1fxF65n9NhRHp3KlBuu) | [Paul McCartney](https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB) | [McCartney II \(Special Edition\)](https://open.spotify.com/album/48rypPDKdKiusMXKaYcEGV) | 3:47 |
 | 25 | [Last Christmas](https://open.spotify.com/track/5HWZjYN4MTNOHe9i4UcrIl) | [Cœur De Pirate](https://open.spotify.com/artist/2eRNMtoi82UZUuaL6naDjA) | [Chansons tristes pour Noël](https://open.spotify.com/album/0s238yyfkC4Jr1F7FBeeUI) | 3:33 |
-| 26 | [Wonderful Christmastime \- Edited Version / Remastered 2011](https://open.spotify.com/track/1SV1fxF65n9NhRHp3KlBuu) | [Paul McCartney](https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB) | [McCartney II \(Special Edition\)](https://open.spotify.com/album/48rypPDKdKiusMXKaYcEGV) | 3:47 |
+| 26 | [A Holly Jolly Christmas](https://open.spotify.com/track/77khP2fIVhSW23NwxrRluh) | [Burl Ives](https://open.spotify.com/artist/0MHgLfmQdutffmvWe5XBTN) | [Have A Holly Jolly Christmas](https://open.spotify.com/album/6MvKUOSuPdfH0WLeQjR3eR) | 2:15 |
 | 27 | [\*snow in berlin\*](https://open.spotify.com/track/6MgDPVjjEloarAofqPE4we) | [LØLØ](https://open.spotify.com/artist/5MjcGshMggPgIHinIUDaX0) | [\*snow in berlin\*](https://open.spotify.com/album/7K3Ig78OIzZBNlvFdtzAfk) | 2:39 |
 | 28 | [Sleigh Ride](https://open.spotify.com/track/5ASM6Qjiav2xPe7gRkQMsQ) | [The Ronettes](https://open.spotify.com/artist/7CyeXFnOrfC1N6z4naIpgo) | [A Christmas Gift For You From Phil Spector](https://open.spotify.com/album/2kzkwgOFAtRsDsas5Hi0Qu) | 3:01 |
 | 29 | [Blue Christmas](https://open.spotify.com/track/3QiAAp20rPC3dcAtKtMaqQ) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [Elvis' Christmas Album](https://open.spotify.com/album/6zk4RKl6JFlgLCV4Z7DQ7N) | 2:09 |
@@ -59,9 +59,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5T5XRP5VmUL.md) - [plain]
 | 49 | [Have Yourself A Merry Little Christmas](https://open.spotify.com/track/1Qi2wh8fFgDV7tl4Sj3f2K) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [Have Yourself A Merry Little Christmas](https://open.spotify.com/album/3nCpXy6LlyXWuFR08tMycK) | 2:50 |
 | 50 | [Christmas All Over Again](https://open.spotify.com/track/6zYDdWwGjEI6w8pRvQnkdn) | [Tyler Shaw](https://open.spotify.com/artist/3jERgGiTwNAPxNmDasAb31) | [Christmas All Over Again](https://open.spotify.com/album/7B3eH4HDNsYRZh8wzx6XMJ) | 2:43 |
 | 51 | [Christmas Without You](https://open.spotify.com/track/1QLZKzC2pjP4ySf4ALrNhm) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Christmas Without You](https://open.spotify.com/album/4vxk8Q78WLINHtJpDSuvq7) | 2:49 |
-| 52 | [Here Comes Santa Claus \(Right Down Santa Claus Lane\) \- 1947 Version](https://open.spotify.com/track/25leEEaz1gIpp7o21Fqyjo) | [Gene Autry](https://open.spotify.com/artist/5ixB75BQR3ADoWQkcHQJTs) | [Rudolph The Red Nosed Reindeer And Other Christmas Classics](https://open.spotify.com/album/3BPDSjoJlho8oiUPUNrShM) | 2:30 |
+| 52 | [DJ Play A Christmas Song](https://open.spotify.com/track/18uSfZqFBxQFi8CsXOIbhy) | [Cher](https://open.spotify.com/artist/72OaDtakiy6yFqkt4TsiFt) | [Christmas](https://open.spotify.com/album/4Eeeg4yMb5qtMEm0lk6lDM) | 3:29 |
 | 53 | [Please Come Home for Christmas](https://open.spotify.com/track/3GZwaCUpDIOtZxZF7AbQLz) | [Aqyila](https://open.spotify.com/artist/4cXLEhsZ1W4T6qBiDYVih4) | [Please Come Home for Christmas](https://open.spotify.com/album/6vRbT0SJ0jkIj66OT4yrs8) | 2:45 |
-| 54 | [DJ Play A Christmas Song](https://open.spotify.com/track/18uSfZqFBxQFi8CsXOIbhy) | [Cher](https://open.spotify.com/artist/72OaDtakiy6yFqkt4TsiFt) | [Christmas](https://open.spotify.com/album/4Eeeg4yMb5qtMEm0lk6lDM) | 3:29 |
+| 54 | [Here Comes Santa Claus \(Right Down Santa Claus Lane\) \- 1947 Version](https://open.spotify.com/track/25leEEaz1gIpp7o21Fqyjo) | [Gene Autry](https://open.spotify.com/artist/5ixB75BQR3ADoWQkcHQJTs) | [Rudolph The Red Nosed Reindeer And Other Christmas Classics](https://open.spotify.com/album/3BPDSjoJlho8oiUPUNrShM) | 2:30 |
 | 55 | [Jesus why do you hate me](https://open.spotify.com/track/5LvYYf5HlcZ7gkjMLTtCxl) | [laye](https://open.spotify.com/artist/0Ae6oW3ISslTTIL7lIcCkn) | [Jesus why do you hate me](https://open.spotify.com/album/0KZ59arAKx828YfvhpnLAf) | 3:34 |
 | 56 | [Rudolph The Red\-Nosed Reindeer](https://open.spotify.com/track/2L9QLAhrvtP4EYg1lY0Tnw) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [A Winter Romance](https://open.spotify.com/album/5I48ENiZiaZZSOpec6PdS5) | 2:15 |
 | 57 | [You Make It Feel Like Christmas \(feat\. Blake Shelton\)](https://open.spotify.com/track/2OQ6a4CfUeYskpTTgyawyJ) | [Gwen Stefani](https://open.spotify.com/artist/4yiQZ8tQPux8cPriYMWUFP), [Blake Shelton](https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw) | [You Make It Feel Like Christmas](https://open.spotify.com/album/58qdMDlJaZBYleY7Bf0gNc) | 2:36 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5T5XRP5VmUL.md) - [plain]
 | 99 | [Jolly Old Saint Nicholas](https://open.spotify.com/track/796k6Hy4NnPq2TSBieDIwH) | [Caveboy](https://open.spotify.com/artist/3B2czCg33JaJkntjWiCEO4) | [Jolly Old Saint Nicholas](https://open.spotify.com/album/2WvlljI2jFK7CuyXUpSghq) | 2:11 |
 | 100 | [Dance of the Sugar Plum Fairy](https://open.spotify.com/track/0P8cvxv29JhKScuB3mw8x0) | [Anomalie](https://open.spotify.com/artist/2ev6Cd0yJVCcpf2zezEQ8Z) | [Holidays](https://open.spotify.com/album/6VsWnIcWBZECia7pKtiuFK) | 1:44 |
 
-Snapshot ID: `MCwxN2JkNGI5NDRmMWNlNDMwNmQxMGY3NjY1MWYwY2YzZDIzYjdhMjhh`
+Snapshot ID: `MCxhYWZmZDE2ZWE0YTNlNjlkODczZjMyOTc2YTExODA4ZDNkMzRmNTQx`

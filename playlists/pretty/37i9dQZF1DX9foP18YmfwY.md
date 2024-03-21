@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9foP18YmfwY.md) - [plain]
 
 > Os padres e nomes que movem multidões pelo país\. Foto: Davidson Silva, Danúbia M.J
 
-[Spotify](https://open.spotify.com/user/spotify) - 322,709 likes - 70 songs - 5 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 322,796 likes - 70 songs - 5 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,9 +28,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9foP18YmfwY.md) - [plain]
 | 18 | [Tudo É do Pai](https://open.spotify.com/track/37DyD8BoLPQUEYZHBTPkxK) | [Eliana Ribeiro](https://open.spotify.com/artist/7ffqgUujPJ2BxcFc8BmG5y) | [Tudo É do Pai](https://open.spotify.com/album/68YZx0zsiGT4nK4qMVCN4X) | 6:36 |
 | 19 | [Decididamente](https://open.spotify.com/track/3wWu0QLfTDfNa7ZVH6pQs8) | [Cassiano Menke](https://open.spotify.com/artist/6XEVCyhWv960rTzOHTkcv1), [Walmir Alencar](https://open.spotify.com/artist/5dPToGb1vTTAf0ZiKqCpSN) | [Decididamente](https://open.spotify.com/album/0mAKA1AGk8xqP2i4bfBPeN) | 4:18 |
 | 20 | [Retrovisor](https://open.spotify.com/track/79Vqir1xW9gpTkZQDe1bje) | [Padre Fábio De Melo](https://open.spotify.com/artist/72G62rG7kmq4GFOzyjJV4q), [Ivete Sangalo](https://open.spotify.com/artist/7dzq55YG3wjViqexDwiycQ) | [Retrovisor](https://open.spotify.com/album/3k0k584H1fIbsaGfdET3Yi) | 3:38 |
-| 21 | [Romaria](https://open.spotify.com/track/2qBAmHKdaXpxAm63nPTPQO) | [Daniel](https://open.spotify.com/artist/2wwWukJBsCikjlj7vlbQkM), [Seu Jorge](https://open.spotify.com/artist/0i1s9WcIu0PrUvHzALgofo) | [Romaria](https://open.spotify.com/album/5PRPqe8TP4JPqklpWtVTne) | 4:41 |
+| 21 | [Não Vou Desisitir](https://open.spotify.com/track/5GF5wmkOro0Ldjlkmk5ofu) | [Fraternidade São João Paulo II](https://open.spotify.com/artist/3P2GN1O0yI6n84aDFOcvVt) | [Não Vou Desistir](https://open.spotify.com/album/3lIFxKUC9Ipe7pT1b3Ril0) | 4:27 |
 | 22 | [Aparecida](https://open.spotify.com/track/7vOHQz29ONEhBzd4bid09H) | [Colo de Deus](https://open.spotify.com/artist/1AY6YtpuVujP4Pa3ibD1M1) | [Aparecida](https://open.spotify.com/album/1PwZ4VdOiutXpHW36p3Ix8) | 4:53 |
-| 23 | [Não Vou Desisitir](https://open.spotify.com/track/5GF5wmkOro0Ldjlkmk5ofu) | [Fraternidade São João Paulo II](https://open.spotify.com/artist/3P2GN1O0yI6n84aDFOcvVt) | [Não Vou Desistir](https://open.spotify.com/album/3lIFxKUC9Ipe7pT1b3Ril0) | 4:27 |
+| 23 | [Romaria](https://open.spotify.com/track/2qBAmHKdaXpxAm63nPTPQO) | [Daniel](https://open.spotify.com/artist/2wwWukJBsCikjlj7vlbQkM), [Seu Jorge](https://open.spotify.com/artist/0i1s9WcIu0PrUvHzALgofo) | [Romaria](https://open.spotify.com/album/5PRPqe8TP4JPqklpWtVTne) | 4:41 |
 | 24 | [Sobre a Dúvida: In Concert \- Ao Vivo](https://open.spotify.com/track/72jnxMQFcHeAnPbPh9tBOM) | [Rosa de Saron](https://open.spotify.com/artist/7EBn9lIBKysikqbU2XDnoX), [Leonardo Gonçalves](https://open.spotify.com/artist/6AyvSIi2EyLOaMJCc6J5fZ) | [In Concert \(Ao Vivo\)](https://open.spotify.com/album/2UNw2qExlpT9cLwDz3Mr5q) | 5:03 |
 | 25 | [Faça Um Milagre \- Ao Vivo](https://open.spotify.com/track/2ToXwQGR8W74QBzhNLpFoV) | [Padre Reginaldo Manzotti](https://open.spotify.com/artist/7luES30fTO66nDk83NZCJV) | [Faça Um Milagre \(Ao Vivo\)](https://open.spotify.com/album/2wLjQBv56JdmwIojvlc7D6) | 4:22 |
 | 26 | [Gratidão](https://open.spotify.com/track/4qp1XuMdwpxxwsJGvYrU0x) | [Rafa Gomes](https://open.spotify.com/artist/7F9ZF1WVkJHsD8t4iNtDh2), [Padre Reginaldo Manzotti](https://open.spotify.com/artist/7luES30fTO66nDk83NZCJV) | [Gratidão](https://open.spotify.com/album/2mR8N7U8tl7ABErUql5XH8) | 4:22 |
@@ -56,8 +56,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9foP18YmfwY.md) - [plain]
 | 46 | [Acalma o Meu Coração](https://open.spotify.com/track/0bgYj6YkauDFia2BvgrL9M) | [Aline Brasil](https://open.spotify.com/artist/5hf4bo5iH59sca7oXhxKpS), [Adriana Arydes](https://open.spotify.com/artist/2ioFpX89d2o7lA806GBITN) | [Acalma o Meu Coração](https://open.spotify.com/album/4znUClTL2uqwqfIZG1lVw9) | 4:22 |
 | 47 | [Deus Vê](https://open.spotify.com/track/0eLoQIt14xSZqu9dfW7OWx) | [Evandro José](https://open.spotify.com/artist/16cPeOjEVbYqL3mmMA6m46) | [Deus Vê](https://open.spotify.com/album/1wTfC5xOPtGz4XTwaltG6Q) | 4:09 |
 | 48 | [Serei Tudo](https://open.spotify.com/track/7yUwb2VL5m2fhlZBCK0dOh) | [Comunidade Católica Shalom](https://open.spotify.com/artist/0t9f7kAQ1wKeHeLC25ZYin), [Laura Salvador](https://open.spotify.com/artist/61ebYZYHMe4kwhxnA3Evh3) | [Serei Tudo](https://open.spotify.com/album/2QnBj9TkGghi0M8ls9g2ms) | 4:24 |
-| 49 | [Se Eu Tocar](https://open.spotify.com/track/5xLXpAF0N21W3CuJSfJ39R) | [Tony Allysson](https://open.spotify.com/artist/44bBAyEUlfLwzAe6bXoKGU) | [Espírito da Verdade](https://open.spotify.com/album/4guZ7UXX6uK21iSRk0bV2P) | 4:47 |
-| 50 | [Maria, Mãe e Rainha](https://open.spotify.com/track/14GmPiDPsP4WMmeorXYDdX) | [Padre Alexandre Spena](https://open.spotify.com/artist/5TQRT5gGmuqswBjVBIrtMl), [Alvaro & Daniel](https://open.spotify.com/artist/72DDtEqR9o0XW2lla6tiW2) | [Maria, Mãe e Rainha](https://open.spotify.com/album/1IJ7RefzvJFgJO7NREVLtX) | 3:45 |
+| 49 | [Maria, Mãe e Rainha](https://open.spotify.com/track/14GmPiDPsP4WMmeorXYDdX) | [Padre Alexandre Spena](https://open.spotify.com/artist/5TQRT5gGmuqswBjVBIrtMl), [Alvaro & Daniel](https://open.spotify.com/artist/72DDtEqR9o0XW2lla6tiW2) | [Maria, Mãe e Rainha](https://open.spotify.com/album/1IJ7RefzvJFgJO7NREVLtX) | 3:45 |
+| 50 | [Se Eu Tocar](https://open.spotify.com/track/5xLXpAF0N21W3CuJSfJ39R) | [Tony Allysson](https://open.spotify.com/artist/44bBAyEUlfLwzAe6bXoKGU) | [Espírito da Verdade](https://open.spotify.com/album/4guZ7UXX6uK21iSRk0bV2P) | 4:47 |
 | 51 | [Inflama\-Me](https://open.spotify.com/track/6wHZw0DKzottADN8MenvdQ) | [Flavio Vitor Jr.](https://open.spotify.com/artist/4TnxVt3dBBta2xVx2WWwPF), [Eliana Ribeiro](https://open.spotify.com/artist/7ffqgUujPJ2BxcFc8BmG5y) | [Inflama\-Me](https://open.spotify.com/album/2GeYgCm9jZQn2aHJVAwmXR) | 6:41 |
 | 52 | [Quero Ouvir Tua Voz](https://open.spotify.com/track/74uwms1hqk7HUMPYrtTrgO) | [Cleiton Saraiva](https://open.spotify.com/artist/2xI0dIjtJhMNGA5NB8GgaO), [Missionário Shalom](https://open.spotify.com/artist/6TZ4wdzVOsMsc8YfeoI9LO) | [Quero Ouvir Tua Voz](https://open.spotify.com/album/4iFYsnXf0DfLQas8YlV42v) | 4:24 |
 | 53 | [Coração de Mãe](https://open.spotify.com/track/5Hr8lDepNg3g3Tx6OwpH5L) | [GBA Stage](https://open.spotify.com/artist/6s7YSVBs6f9Asf9UZydQ4s), [Davidson Silva](https://open.spotify.com/artist/1sWAcwfPuIuEdS4dSTd3HR) | [Gba Stage, Vol\. 5](https://open.spotify.com/album/1v17ZjkeyE1npyhdkdeFQd) | 2:57 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9foP18YmfwY.md) - [plain]
 | 69 | [Deixa Deus Sonhar em Ti](https://open.spotify.com/track/1xdjbJGbPih26RBuvyImI2) | [GBA Stage](https://open.spotify.com/artist/6s7YSVBs6f9Asf9UZydQ4s), [Padre Rodrigo Natal](https://open.spotify.com/artist/0GLzzNhSoCbwsXOCADMo07) | [Gba Stage, Vol\. 13](https://open.spotify.com/album/3V1ekSQMLF1h4b0TIz4o8l) | 4:54 |
 | 70 | [Não Há Deus Maior \- Ao Vivo](https://open.spotify.com/track/05P0v8aNAZxLImFQU6MVuq) | [Aline Brasil](https://open.spotify.com/artist/5hf4bo5iH59sca7oXhxKpS) | [Não Há Deus Maior](https://open.spotify.com/album/2iyvKC1ejRa0dfQRCNoh1y) | 5:41 |
 
-Snapshot ID: `MCxmYmE1NTBhOTViNmJhMTY5M2JjMTA5OWQ2NTAxYWRjZDY1ZTBjMzlm`
+Snapshot ID: `MCwwZDM2YmRjZjc4ZDI3MDU1ZDAwNmYwMTU0YTgzNGM3YjJlZGQzMWRh`

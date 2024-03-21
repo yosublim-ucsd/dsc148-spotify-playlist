@@ -4,7 +4,7 @@
 
 > High energy, club songs from around the world! Follow <a href="http://open.spotify.com/user/ultramusicofficial">our profile</a> for more playlists.
 
-241 songs - 12 hr 49 min
+242 songs - 12 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -160,6 +160,7 @@
 | [Payme](https://open.spotify.com/track/3cAOqVPiRV96vNrxdjq3ay) | [Samuele Guzzetti](https://open.spotify.com/artist/6uAPIvefVy6A04Br27SdgM), [Keivan Ghironi](https://open.spotify.com/artist/0t0B8AHU1PIouHXvavSxkj) | [Payme](https://open.spotify.com/album/5J0ZcgJXx94UpK5vn3jaOY) | 2:41 | 2023-10-13 | 2024-03-14 |
 | [Pilka](https://open.spotify.com/track/1sCrbHZXERRWE9jeuRzvWS) | [Friend Within](https://open.spotify.com/artist/4FJPplt1JOVw8Q7NiwFmLv) | [Pilka](https://open.spotify.com/album/6vcCrI7MtwIgGvrCxvIXQf) | 3:09 | 2023-06-02 | 2024-03-14 |
 | [Pink Powder](https://open.spotify.com/track/2VH4Xps9ZscLPjbh4l6L4G) | [GATTÜSO](https://open.spotify.com/artist/3PlRvQnVE3XAbtHUNc4nic) | [Pink Powder](https://open.spotify.com/album/08XXHyD1uLzDRnK9Csgdri) | 2:04 | 2023-12-01 |  |
+| [Poison](https://open.spotify.com/track/0CRzMSMY7oT9Uy7R7UpMiD) | [ATSUS](https://open.spotify.com/artist/3wsI6afBBm770enn4eYoiT), [909 Culture](https://open.spotify.com/artist/777Y5dS5ESjyPlxaqFrUN2) | [Poison](https://open.spotify.com/album/7KGsWMvm7WsELCPXzOWHj2) | 2:19 | 2024-03-20 |  |
 | [Pop That](https://open.spotify.com/track/7KJ5Q9dQP5qOQWDgDD96K8) | [DJ S.K.T](https://open.spotify.com/artist/05z4P0nQO00HG5WeErugd0), [Marvel Riot](https://open.spotify.com/artist/5cI4WAoXtZwW7uz55thjkZ) | [Pop That](https://open.spotify.com/album/5FqrXtmAYE31piTqc6MD6C) | 2:58 | 2023-12-12 |  |
 | [Potente](https://open.spotify.com/track/4MvCdK15VGFvmAYqG4PcQ8) | [Mr\. Pig](https://open.spotify.com/artist/4psozRvxjEJEOANLHTwA7J), [Andrew Mathers](https://open.spotify.com/artist/5rjFsTXq2iEMk09Pxtz2U0) | [Potente](https://open.spotify.com/album/3mMGZiXwqikBAkY3VXVy0Y) | 2:40 | 2023-08-08 | 2024-03-14 |
 | [Preacher](https://open.spotify.com/track/50JRY1L6rhIMfhvYBA9wQP) | [Öwnboss](https://open.spotify.com/artist/37czgDRfGMvgRiUKHvnnhj), [Outflux](https://open.spotify.com/artist/1aZrHGcyFNnEEE79aRU4jT), [No/Me](https://open.spotify.com/artist/4L0It80jhQQKMTU2r02nkL) | [The Reflection of Love Singles \- Brasil 2023](https://open.spotify.com/album/5B247hAMUaRHGMTyqKBJuJ) | 2:55 | 2023-10-30 | 2024-03-14 |

@@ -310,10 +310,28 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-21",
       "duration_ms": 135693,
       "name": "Christmas Kids",
       "url": "https://open.spotify.com/track/40gk32E7YaTFoQwDIWv2SY"
+    },
+    {
+      "album": {
+        "name": "I Can't Handle Change",
+        "url": "https://open.spotify.com/album/0YjOnBY0FRufcmNBTzWTgX"
+      },
+      "artists": [
+        {
+          "name": "Roar",
+          "url": "https://open.spotify.com/artist/7dIpKWlEeAljA20vFJ82RD"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135693,
+      "name": "Christmas Kids",
+      "url": "https://open.spotify.com/track/7KV7xwHTJbzbwGQEHLIzR8"
     },
     {
       "album": {

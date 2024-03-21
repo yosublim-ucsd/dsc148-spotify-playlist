@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4AYptQIdI2R.md) - [plain]
 
 > Ahgases! 7 or nothing.
 
-[Spotify](https://open.spotify.com/user/spotify) - 411,317 likes - 132 songs - 7 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 411,324 likes - 132 songs - 7 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -132,7 +132,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4AYptQIdI2R.md) - [plain]
 | 122 | [SEESAW](https://open.spotify.com/track/7Axxzd54bcm9ATCns93vhN) | [GOT7](https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df) | [I WON'T LET YOU GO \(Complete Edition\)](https://open.spotify.com/album/42GCdf2m9ogDdIsJCUgW8J) | 3:34 |
 | 123 | [Prove It](https://open.spotify.com/track/158rpsE6Sdru1Y11EUSIjs) | [GOT7](https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df) | [FLIGHT LOG : TURBULENCE](https://open.spotify.com/album/4VjN9G78z4A0gKFsBn3n3H) | 2:54 |
 | 124 | [THE New Era](https://open.spotify.com/track/2V8IitegdOtpbH1uB5M7bD) | [GOT7](https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df) | [THE New Era](https://open.spotify.com/album/5AP7jGeJR6GjMVBtsdIEuY) | 3:37 |
-| 125 | [Papillon](https://open.spotify.com/track/0sHZzinNs6zUXnxcwhFYES) | [Jackson Wang](https://open.spotify.com/artist/1kfWoWgCugPkyxQP8lkRlY) | [Papillon](https://open.spotify.com/album/4lME2s2UVffNWZQ905GoLg) | 3:15 |
+| 125 | [Papillon](https://open.spotify.com/track/7EFmA3zysrOPJNRqhYCOVd) | [Jackson Wang](https://open.spotify.com/artist/1kfWoWgCugPkyxQP8lkRlY), [BOYTOY](https://open.spotify.com/artist/06zgs9qixZMQVu8gthU5Du) | [Papillon](https://open.spotify.com/album/5SHO9TVA2RCjgBQsdiZGXt) | 3:15 |
 | 126 | [MY SWAGGER](https://open.spotify.com/track/7f7FSUQH5HDZBJRZoQJd5W) | [GOT7](https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df) | [MY SWAGGER](https://open.spotify.com/album/1O7vYLrpBkyZOXnh18MQhH) | 3:07 |
 | 127 | [Higher](https://open.spotify.com/track/4uKjiJsKXmQFgyYa4DWt7j) | [GOT7](https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df) | [&ME Edition](https://open.spotify.com/album/3fU27GNCldKKSE40oLZPlD) | 2:36 |
 | 128 | [Forever Young](https://open.spotify.com/track/4hbbD7L1h6Q1cHvnOfHm3c) | [GOT7](https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df) | [GOT♡](https://open.spotify.com/album/2KrRof53R397vP2TROZO6N) | 3:44 |
@@ -141,4 +141,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4AYptQIdI2R.md) - [plain]
 | 131 | [From Now](https://open.spotify.com/track/06aBqmxwpJU0mRuwvXHPpZ) | [GOT7](https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df) | [&ME Edition](https://open.spotify.com/album/3fU27GNCldKKSE40oLZPlD) | 3:19 |
 | 132 | [No One Else](https://open.spotify.com/track/5QBZXB121DgCLxT5PGsW6v) | [GOT7](https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df) | [Present : YOU](https://open.spotify.com/album/2Kkte1APGRFuPLmjRUgu4i) | 3:22 |
 
-Snapshot ID: `MCxkNzE2NzYzNGY5NjM5YTA3ZDg2NWFkMDdlNzVkNTVhNDhmNDhmMGYy`
+Snapshot ID: `MCwxNDk1OTc0ZTk3OTExZDc2ZDA2MDRlN2U5MTUzODc5M2JkOTIxN2Ux`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9MrAJRR2Zxk.md) - [plain]
 
 > Small Island artists taking over the world!
 
-[Spotify](https://open.spotify.com/user/spotify) - 261,487 likes - 50 songs - 3 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 261,562 likes - 50 songs - 3 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9MrAJRR2Zxk.md) - [plain]
 | 18 | [Three Little Birds](https://open.spotify.com/track/7yFvSYKk3g5g8e7Ffl16ws) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Exodus](https://open.spotify.com/album/655KljKIXl42fiNDMKivbY) | 3:00 |
 | 19 | [Swalla \(feat\. Nicki Minaj & Ty Dolla $ign\)](https://open.spotify.com/track/6kex4EBAj0WHXDKZMEJaaF) | [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [Swalla \(feat\. Nicki Minaj & Ty Dolla $ign\)](https://open.spotify.com/album/2e5CxfyEwBW115beiwh7Mc) | 3:36 |
 | 20 | [Ready or Not](https://open.spotify.com/track/3vZO25GdYuqFrR1kzZADnp) | [Fugees](https://open.spotify.com/artist/2WKdxPFRD7IqZvlIAvhMgY), [Ms\. Lauryn Hill](https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl), [Wyclef Jean](https://open.spotify.com/artist/7aBzpmFXB4WWpPl2F7RjBe), [Pras](https://open.spotify.com/artist/0kJMPTXq7h3ztpDukSx5iD) | [The Score \(Expanded Edition\)](https://open.spotify.com/album/18XFe4CPBgVezXkxZP6rTb) | 3:46 |
-| 21 | [Kung Fu Fighting](https://open.spotify.com/track/7K8QsHbmUpSX37oOCL4e2g) | [Carl Douglas](https://open.spotify.com/artist/5Pqx4mXYDGIDcg8E5FYjZ8) | [Kung Fu Fighter](https://open.spotify.com/album/53DDpuRxvNAUby9WODE3h2) | 3:17 |
-| 22 | [Wild Thoughts \(feat\. Rihanna & Bryson Tiller\)](https://open.spotify.com/track/45XhKYRRkyeqoW3teSOkCM) | [DJ Khaled](https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP), [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H), [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs) | [Grateful](https://open.spotify.com/album/3HhZbSJdhOqMSaRbEt3gtw) | 3:24 |
+| 21 | [Wild Thoughts \(feat\. Rihanna & Bryson Tiller\)](https://open.spotify.com/track/45XhKYRRkyeqoW3teSOkCM) | [DJ Khaled](https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP), [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H), [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs) | [Grateful](https://open.spotify.com/album/3HhZbSJdhOqMSaRbEt3gtw) | 3:24 |
+| 22 | [Kung Fu Fighting](https://open.spotify.com/track/7K8QsHbmUpSX37oOCL4e2g) | [Carl Douglas](https://open.spotify.com/artist/5Pqx4mXYDGIDcg8E5FYjZ8) | [Kung Fu Fighter](https://open.spotify.com/album/53DDpuRxvNAUby9WODE3h2) | 3:17 |
 | 23 | [Replay](https://open.spotify.com/track/5vlEg2fT4cFWAqU5QptIpQ) | [Iyaz](https://open.spotify.com/artist/5tKXB9uuebKE34yowVaU3C) | [Replay](https://open.spotify.com/album/698AdfGuOthKXXvvHla9bf) | 3:02 |
 | 24 | [Boombastic](https://open.spotify.com/track/4fxF8ljwryMZX5c9EKrLFE) | [Shaggy](https://open.spotify.com/artist/5EvFsr3kj42KNv97ZEnqij) | [Boombastic](https://open.spotify.com/album/40rtksAqnwebfPKWzSL6Iv) | 4:09 |
 | 25 | [Moment 4 Life](https://open.spotify.com/track/1ia019RqDK2o4QiANR1Dyn) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Pink Friday](https://open.spotify.com/album/3LJhoYn4nnHmvPRO3ppbsl) | 4:39 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9MrAJRR2Zxk.md) - [plain]
 | 49 | [Feeling Myself](https://open.spotify.com/track/5fyIGoaaKelzdyW8ELhYJZ) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh), [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [The Pinkprint \(Deluxe\)](https://open.spotify.com/album/5ooCuPIk58IwSo6DRr1JCu) | 3:57 |
 | 50 | [No Letting Go](https://open.spotify.com/track/5dWfl2PBpKHpBVdz95wxK1) | [Wayne Wonder](https://open.spotify.com/artist/3kc5AFnL1TQQdNaMdSW2UO) | [No Holding Back](https://open.spotify.com/album/3WH8Q7LS2p143e5PrKGLeA) | 3:22 |
 
-Snapshot ID: `MCw3YzczMmM3OTE4NTZlNDljNDIxNDczZTQ4MDE3ZDBhYWE4MTQwYmM1`
+Snapshot ID: `MCxkYjJlNDUxOTQyYWNkZjIzOGFkNDg2NGQ0ODNjYmMxYTUzODk2ZTg3`

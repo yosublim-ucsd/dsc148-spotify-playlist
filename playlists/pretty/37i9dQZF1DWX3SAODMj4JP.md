@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX3SAODMj4JP.md) - [plain]
 
 > Uma pausa no dia para tomar um chocolate quente e aproveitar seu momento com Deus.
 
-[Spotify](https://open.spotify.com/user/spotify) - 137,100 likes - 69 songs - 4 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 137,140 likes - 69 songs - 4 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,8 +57,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX3SAODMj4JP.md) - [plain]
 | 47 | [Infinito Amor](https://open.spotify.com/track/3x8ZWtrehlt4W1us1hhFzq) | [REVERE](https://open.spotify.com/artist/4O2WXMRRTS8XqmqSTcBnrb), [Central 3](https://open.spotify.com/artist/72Q3HybMPVhG3c9N4A7kTL) | [Infinito Amor](https://open.spotify.com/album/3kDwHwOF0WcZ7bUS6Rcrdv) | 4:03 |
 | 48 | [Estou Com Você \- Ao Vivo](https://open.spotify.com/track/3TFQbNmMPAFNHiNhHNuclS) | [Os Meireles](https://open.spotify.com/artist/4GvZo4MFJZPodaS1VXVEe1), [Pedro Valença](https://open.spotify.com/artist/2fBxIdkeMcxcjtBlPuWZl7) | [Estou Com Você \(Ao Vivo\)](https://open.spotify.com/album/49jQMSEkQCZzFtvTAzXHKB) | 4:31 |
 | 49 | [Qual É O Pensamento](https://open.spotify.com/track/4wh1XOO2e38YuTxex4NOGi) | [Trilo](https://open.spotify.com/artist/76bLMQAatDGLJ8yyuyVPjD) | [Qual É O Pensamento](https://open.spotify.com/album/48SFRBOf9TKjeNy8Penrj2) | 2:21 |
-| 50 | [Eu Quero Voltar](https://open.spotify.com/track/2RF5COhGA2at2zoJvlEbKB) | [Lancellote](https://open.spotify.com/artist/4LsKHWRuD6TlQPJrvVLD8K) | [Eu Quero Voltar](https://open.spotify.com/album/2BmAe3tRit49ajh1gHWMoW) | 3:33 |
-| 51 | [Tributo A Iehovah \- Ao Vivo](https://open.spotify.com/track/5cLo2Ovt9oCWq8mucuHfDi) | [Eli Soares](https://open.spotify.com/artist/5zblJYkCzvB51Jh29FB07V), [Adhemar De Campos](https://open.spotify.com/artist/03TpTPLRclj2iknzWXAXjP) | [Tributo A Iehovah \(Ao Vivo\)](https://open.spotify.com/album/4d6pzEk3gFbP4tJJFKrS62) | 6:07 |
+| 50 | [Tributo A Iehovah \- Ao Vivo](https://open.spotify.com/track/5cLo2Ovt9oCWq8mucuHfDi) | [Eli Soares](https://open.spotify.com/artist/5zblJYkCzvB51Jh29FB07V), [Adhemar De Campos](https://open.spotify.com/artist/03TpTPLRclj2iknzWXAXjP) | [Tributo A Iehovah \(Ao Vivo\)](https://open.spotify.com/album/4d6pzEk3gFbP4tJJFKrS62) | 6:07 |
+| 51 | [Eu Quero Voltar](https://open.spotify.com/track/2RF5COhGA2at2zoJvlEbKB) | [Lancellote](https://open.spotify.com/artist/4LsKHWRuD6TlQPJrvVLD8K) | [Eu Quero Voltar](https://open.spotify.com/album/2BmAe3tRit49ajh1gHWMoW) | 3:33 |
 | 52 | [Corpo I](https://open.spotify.com/track/7tU7sxEqyLoguEGbjiiiRl) | [O Bairro Novo](https://open.spotify.com/artist/03lFVbrzJauPmQwZpiJ4zD) | [O Banquete](https://open.spotify.com/album/3S5w5Tta9oQ6LN2PNoWJ5l) | 4:40 |
 | 53 | [Descansar em Ti](https://open.spotify.com/track/1lU9L6lPZkp4UAgdxbaJBQ) | [Talita Barreto](https://open.spotify.com/artist/6hCE1qcuALXMkltFGrEM6Y) | [Descansar em Ti](https://open.spotify.com/album/0IDeeWZrrYFZUXtSZergef) | 3:45 |
 | 54 | [Mão No Arado](https://open.spotify.com/track/5ugXpVjpBle03j9zWdl42w) | [Kauê Penna](https://open.spotify.com/artist/66gr6eacn8mru8PygKXLvj), [Eli Soares](https://open.spotify.com/artist/5zblJYkCzvB51Jh29FB07V) | [Mão No Arado](https://open.spotify.com/album/6RLHnVKEmEwjG2r5KRCIPx) | 3:30 |
@@ -78,4 +78,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX3SAODMj4JP.md) - [plain]
 | 68 | [Visita](https://open.spotify.com/track/657aCgepX1HRKoCNbFHWh6) | [Ana Tristão](https://open.spotify.com/artist/04sHHdilT7bBAzYRTtKLKC) | [Visita](https://open.spotify.com/album/78wHMwGlGTHNL70AxQYZGr) | 4:47 |
 | 69 | [Coração de Aprendiz](https://open.spotify.com/track/5Ua31J3jzDmyO9rP2FhtNy) | [Gabro](https://open.spotify.com/artist/3b1deiZvxBYGrkhWTIVddw) | [Coração de Aprendiz](https://open.spotify.com/album/7allOTOpfqAFglSPhZNnCz) | 5:03 |
 
-Snapshot ID: `MCw2MTkwMzk5NmMxMGUxZDMwNzFhZGU3NjIwNjZlNDljMWRhNzJmYzI5`
+Snapshot ID: `MCwyNjMxMTE4Y2E3OTFhMTMwMzg2YmU5Y2RmY2Q3NjllMWQzNzcxNmUw`

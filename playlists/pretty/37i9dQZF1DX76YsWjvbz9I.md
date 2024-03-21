@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX76YsWjvbz9I.md) - [plain]
 
 > The unforgettable romantic Jazz songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 279,503 likes - 100 songs - 5 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 279,591 likes - 100 songs - 5 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,9 +29,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX76YsWjvbz9I.md) - [plain]
 | 19 | [It's Always You \- Vocal Version](https://open.spotify.com/track/06UkYE0SZ3Y8zGRFOuWGAe) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [Chet Baker Sings](https://open.spotify.com/album/5JJ779nrbHx0KB2lBrMMa4) | 3:35 |
 | 20 | [They Can't Take That Away From Me](https://open.spotify.com/track/1V4NaFlrUCK49MXcdOcVeS) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz), [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek) | [The Complete Ella And Louis On Verve](https://open.spotify.com/album/2uqlkJu6vckJahCsp6Hfcn) | 4:40 |
 | 21 | [All Of You](https://open.spotify.com/track/3XOJhbofb4qTZdt0RLLrUq) | [Billie Holiday](https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp) | [Billie Holiday With Ray Ellis And His Orchestra](https://open.spotify.com/album/780YbUDX22mHli9KRZZwKu) | 2:32 |
-| 22 | [This Is Always](https://open.spotify.com/track/6Kr25pa3pTd4no3yA0EcW1) | [Betty Carter](https://open.spotify.com/artist/6HB1MchEEMg40EisSJuenZ) | [Inside Betty Carter](https://open.spotify.com/album/3rFnwsVrrSYZQsCGTkOT7W) | 3:11 |
+| 22 | [They Say It's Wonderful](https://open.spotify.com/track/6x8XKDM8Rnid4TyOUg9kj3) | [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf), [Johnny Hartman](https://open.spotify.com/artist/7qVvIFc9DktkAc0HKzRhNo) | [John Coltrane And Johnny Hartman](https://open.spotify.com/album/5e3mq4TT4RLn4VXfgKV6MU) | 5:20 |
 | 23 | [\(I Love You\) For Sentimental Reasons](https://open.spotify.com/track/5QnCtH7euld6R68UwcWrte) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [The Nat King Cole Story](https://open.spotify.com/album/3NoP1ifIejWkGSDsO9T2xH) | 3:04 |
-| 24 | [They Say It's Wonderful](https://open.spotify.com/track/6x8XKDM8Rnid4TyOUg9kj3) | [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf), [Johnny Hartman](https://open.spotify.com/artist/7qVvIFc9DktkAc0HKzRhNo) | [John Coltrane And Johnny Hartman](https://open.spotify.com/album/5e3mq4TT4RLn4VXfgKV6MU) | 5:20 |
+| 24 | [This Is Always](https://open.spotify.com/track/6Kr25pa3pTd4no3yA0EcW1) | [Betty Carter](https://open.spotify.com/artist/6HB1MchEEMg40EisSJuenZ) | [Inside Betty Carter](https://open.spotify.com/album/3rFnwsVrrSYZQsCGTkOT7W) | 3:11 |
 | 25 | [Like Someone In Love \- Vocal Version](https://open.spotify.com/track/7HqMu6Oa7jLQVDUuWiy6v2) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [Chet Baker Sings](https://open.spotify.com/album/5JJ779nrbHx0KB2lBrMMa4) | 2:26 |
 | 26 | [Fly Me To The Moon](https://open.spotify.com/track/6AjznBCgVaYESh8UHsHpDz) | [Tony Bennett](https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV) | [If I Ruled The World: Songs For The Jet Set](https://open.spotify.com/album/4bx05hDVTDSbFA9iFoG4FX) | 4:09 |
 | 27 | [The Man I Love](https://open.spotify.com/track/0rXZu998CXslEpwhxdHzeu) | [Etta James](https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb) | [Mystery Lady: Songs of Billie Holiday](https://open.spotify.com/album/73XbGVMidbd8XpuNmTVkOW) | 4:26 |
@@ -72,10 +72,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX76YsWjvbz9I.md) - [plain]
 | 62 | [Let's Do It \(Let's Fall In Love\)](https://open.spotify.com/track/5mRF9wpnR4j6QnRXJCNgoO) | [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek) | [Ella And Louis Again](https://open.spotify.com/album/4zWqQOob980K9drUrUGM8M) | 8:41 |
 | 63 | [You Better Go Now](https://open.spotify.com/track/5AkSRiCUdA4ozdXslHez1j) | [Jeri Southern](https://open.spotify.com/artist/53zwWZL3vLQ7fVfKrhrzaK) | [You Better Go Now](https://open.spotify.com/album/7jMUkrz9wcdHbW67l1gm8i) | 3:02 |
 | 64 | [We'll Be Together Again](https://open.spotify.com/track/3dn8g7gDYKEZxtcRQlEV67) | [Anita O'Day](https://open.spotify.com/artist/5QGnprJtpZmk3OiDqspPlB), [Oscar Peterson Quartet](https://open.spotify.com/artist/4NQPiiaJak2p93c2hl5rNQ) | [Anita Sings The Most](https://open.spotify.com/album/3kInD4ls57TJY4ATGDIqAS) | 3:40 |
-| 65 | [I Can't Believe That You're In Love With Me](https://open.spotify.com/track/1RcLTd97Z6CGEXuKxyornO) | [Dinah Washington](https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa) | [September In The Rain](https://open.spotify.com/album/1UMCHEE4nXBN2JLOgk7rQV) | 2:47 |
-| 66 | [Teach Me Tonight](https://open.spotify.com/track/4waAobn5tpdqVoH9R8oDqc) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0), [Quincy Jones](https://open.spotify.com/artist/3rxIQc9kWT6Ueg4BhnOwRK) | [L.A\. Is My Lady](https://open.spotify.com/album/4zvku3SSgsUaVRsvcCZ1aU) | 3:45 |
+| 65 | [Teach Me Tonight](https://open.spotify.com/track/4waAobn5tpdqVoH9R8oDqc) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0), [Quincy Jones](https://open.spotify.com/artist/3rxIQc9kWT6Ueg4BhnOwRK) | [L.A\. Is My Lady](https://open.spotify.com/album/4zvku3SSgsUaVRsvcCZ1aU) | 3:45 |
+| 66 | [Can't Help Lovin' That Man](https://open.spotify.com/track/2qf5Xr89ShgSu1up0xQmLt) | [Julie London](https://open.spotify.com/artist/3qUMmh5biaB5hqpF4LqS3m) | [Julie Is Her Name](https://open.spotify.com/album/6hDZjN3iWJ95RIXnxbiG1P) | 3:11 |
 | 67 | [Until The Real Thing Comes Along \- Remastered/1998](https://open.spotify.com/track/6rHGfH2SCBlwZSQTm2FfYD) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [This Time I'm Swingin'](https://open.spotify.com/album/6BzWacVGd1soCBPYzGRm2Y) | 3:02 |
-| 68 | [Can't Help Lovin' That Man](https://open.spotify.com/track/2qf5Xr89ShgSu1up0xQmLt) | [Julie London](https://open.spotify.com/artist/3qUMmh5biaB5hqpF4LqS3m) | [Julie Is Her Name](https://open.spotify.com/album/6hDZjN3iWJ95RIXnxbiG1P) | 3:11 |
+| 68 | [I Can't Believe That You're In Love With Me](https://open.spotify.com/track/1RcLTd97Z6CGEXuKxyornO) | [Dinah Washington](https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa) | [September In The Rain](https://open.spotify.com/album/1UMCHEE4nXBN2JLOgk7rQV) | 2:47 |
 | 69 | [April In Paris](https://open.spotify.com/track/4NHNztFS67GSpnU611l74v) | [Sarah Vaughan](https://open.spotify.com/artist/1bgyxtWjZwA5PQlDsvs9b8), [Clifford Brown](https://open.spotify.com/artist/1HJHwWck1EY096ea2iPAHO) | [Sarah Vaughan](https://open.spotify.com/album/7wX89EWCK8cNZeGnBS5bMG) | 6:18 |
 | 70 | [Angel Eyes](https://open.spotify.com/track/3JByavtrnBqKpNzl18SGNI) | [Anita O'Day](https://open.spotify.com/artist/5QGnprJtpZmk3OiDqspPlB) | [Waiter, Make Mine The Blues](https://open.spotify.com/album/77FW8dZ0Jrg54fKNl8fxA7) | 3:39 |
 | 71 | [But Beautiful](https://open.spotify.com/track/27pinS5wo39H0ShDd6CvkN) | [Lorez Alexandria](https://open.spotify.com/artist/5FxVAiCRSETyMMPV8MDaHY) | [More Of The Great](https://open.spotify.com/album/4tOYSnvlOdsUNvkJIZpUr0) | 4:15 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX76YsWjvbz9I.md) - [plain]
 | 99 | [Then I'll Be Tired Of You](https://open.spotify.com/track/5OTjnQB7ZtlT6LtSSgfIqN) | [Dinah Shore](https://open.spotify.com/artist/73xrrv4ZrlpLi1q0Q34wiK), [André Previn](https://open.spotify.com/artist/2tfWguHr2nj4e8KXLKciVq) | [Dinah Sings, Previn Plays](https://open.spotify.com/album/0WfnKepXKonBazvtxWVdLe) | 3:19 |
 | 100 | [Wait 'Til You See Her](https://open.spotify.com/track/4LXa7I51n7gzUf2TKu9vpM) | [Matt Dennis](https://open.spotify.com/artist/518N7qPrUx1WQJTl0IZC3I) | [Matt Dennis \- Four Complete Albums](https://open.spotify.com/album/3knF6YC5Rdeg8J7S7yu4vR) | 2:46 |
 
-Snapshot ID: `MCxhZjdkNjFmZDAyMDQ1Y2QxYzUzNTQ3NzA0OTQ5NmVlOTk3OWM2ZDZl`
+Snapshot ID: `MCxjYjJiNjkwMTJhZjdmMDY5YjFhNGIwNTA5ZDZjYmRhNzcxMGE0ZTkz`

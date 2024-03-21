@@ -4,7 +4,7 @@
 
 > Relive Southeast Asia's most adored pop hits from the 2000s.
 
-53 songs - 3 hr 27 min
+54 songs - 3 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,7 +41,8 @@
 | [My Boo](https://open.spotify.com/track/68vgtRHr7iZHpzGpon6Jlo) | [USHER](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj), [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [Confessions \(Expanded Edition\)](https://open.spotify.com/album/1RM6MGv6bcl6NrAG8PGoZk) | 3:43 | 2020-08-31 |  |
 | [Numb](https://open.spotify.com/track/2nLtzopw4rPReszdYBJU6h) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Meteora](https://open.spotify.com/album/4Gfnly5CzMJQqkUFfoHaP3) | 3:05 | 2020-08-31 |  |
 | [Oops!...I Did It Again](https://open.spotify.com/track/6naxalmIoLFWR0siv8dnQQ) | [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [Oops!..\. I Did It Again](https://open.spotify.com/album/5PmgtkodFl2Om3hMXONDll) | 3:31 | 2020-08-31 |  |
-| [Poker Face](https://open.spotify.com/track/5R8dQOPq8haW94K7mgERlO) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [The Fame](https://open.spotify.com/album/1jpUMnKpRlng1OJN7LJauV) | 3:57 | 2020-08-31 |  |
+| [Papercut](https://open.spotify.com/track/1Vej0qeQ3ioKwpI6FUbRv1) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Hybrid Theory \(Bonus Edition\)](https://open.spotify.com/album/6hPkbAV3ZXpGZBGUvL6jVM) | 3:04 | 2020-08-31 |  |
+| [Poker Face](https://open.spotify.com/track/5R8dQOPq8haW94K7mgERlO) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [The Fame](https://open.spotify.com/album/1jpUMnKpRlng1OJN7LJauV) | 3:57 | 2020-08-31 | 2024-03-21 |
 | [Promiscuous](https://open.spotify.com/track/2gam98EZKrF9XuOkU13ApN) | [Nelly Furtado](https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc), [Timbaland](https://open.spotify.com/artist/5Y5TRrQiqgUO4S36tzjIRZ) | [Loose](https://open.spotify.com/album/2yboV2QBcVGEhcRlYuPpDT) | 4:02 | 2020-08-31 |  |
 | [She Will Be Loved \- Radio Mix](https://open.spotify.com/track/4llK75pXNWZz6KAho2Gp16) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP) | [Songs About Jane: 10th Anniversary Edition](https://open.spotify.com/album/5zClcGCSWj926AMjvBNSLc) | 4:19 | 2020-08-31 |  |
 | [So Sick](https://open.spotify.com/track/6brl7bwOHmGFkNw3MBqssT) | [Ne\-Yo](https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj) | [In My Own Words](https://open.spotify.com/album/6gkwOLmk0ALMOjWs5WhAEr) | 3:27 | 2020-08-31 |  |

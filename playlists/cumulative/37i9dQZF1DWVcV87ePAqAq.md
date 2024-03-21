@@ -4,7 +4,7 @@
 
 > Den enda spellistan du behöver för en bra fest!
 
-434 songs - 1 day 0 hr 31 min
+435 songs - 1 day 0 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -81,7 +81,7 @@
 | [Crazy In Love \(feat\. Jay\-Z\)](https://open.spotify.com/track/5IVuqXILoxVWvWEPm82Jxr) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m), [JAY\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB) | [Dangerously In Love](https://open.spotify.com/album/6oxVabMIqCMJRYN1GqR3Vf) | 3:56 | 2022-01-03 | 2023-12-21 |
 | [Creepin' \(with The Weeknd & 21 Savage\)](https://open.spotify.com/track/2dHHgzDwk4BJdRwy9uXhTO) | [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [HEROES & VILLAINS](https://open.spotify.com/album/7txGsnDSqVMoRl6RQ9XyZP) | 3:41 | 2023-12-28 |  |
 | [Cruel Summer](https://open.spotify.com/track/1BxfuPKGuaTgP7aM0Bbdwr) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Lover](https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq) | 2:58 | 2023-12-28 |  |
-| [CUFF IT](https://open.spotify.com/track/1xzi1Jcr7mEi9K2RfzLOqS) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [RENAISSANCE](https://open.spotify.com/album/6FJxoadUE4JNVwWHghBwnb) | 3:45 | 2022-12-29 |  |
+| [CUFF IT](https://open.spotify.com/track/1xzi1Jcr7mEi9K2RfzLOqS) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [RENAISSANCE](https://open.spotify.com/album/6FJxoadUE4JNVwWHghBwnb) | 3:45 | 2022-12-29 | 2024-03-21 |
 | [Cupid \- Twin Ver.](https://open.spotify.com/track/739WUU1tPFLO4x4HJq561K) | [FIFTY FIFTY](https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6) | [The Beginning](https://open.spotify.com/album/5If2zLk3mlHXuhIS7rQF90) | 2:54 | 2023-12-20 | 2024-01-27 |
 | [DANCE](https://open.spotify.com/track/6TfeXwJihJRuBW3mFpib6J) | [CLMD](https://open.spotify.com/artist/7LiVklVR1325BIOqD9kykr), [Tungevaag](https://open.spotify.com/artist/49CE2ffZ6Z3zeYSDauSKck) | [DANCE](https://open.spotify.com/album/4YIOg7I2h6ISBGXijrVtLi) | 2:54 | 2020-12-31 | 2022-07-29 |
 | [Dance Monkey](https://open.spotify.com/track/2N8m6CYs74qQO4mjVcXO30) | [Tones And I](https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY) | [Welcome To The Madhouse \(Deluxe\)](https://open.spotify.com/album/1AZjTOqvw2ZogWZxnDlhEN) | 3:29 | 2022-01-03 | 2022-11-12 |
@@ -238,6 +238,7 @@
 | [Love You Like A Love Song](https://open.spotify.com/track/0laYHRpNTS6i8FXdupHkJ4) | [Selena Gomez & The Scene](https://open.spotify.com/artist/6dJeKm76NjfXBNTpHmOhfO) | [When The Sun Goes Down](https://open.spotify.com/album/49yHvRh1cOfLcEKukEP7Ox) | 3:08 | 2022-01-03 |  |
 | [Lovin On Me](https://open.spotify.com/track/4xhsWYTOGcal8zt0J161CU) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Lovin On Me](https://open.spotify.com/album/6VCO0fDBGbRW8mCEvV95af) | 2:18 | 2023-12-28 |  |
 | [Low \(feat\. T\-Pain\)](https://open.spotify.com/track/0CAfXk7DXMnon4gLudAp7J) | [Flo Rida](https://open.spotify.com/artist/0jnsk9HBra6NMjO2oANoPY), [T\-Pain](https://open.spotify.com/artist/3aQeKQSyrW4qWr35idm0cy) | [Mail on Sunday](https://open.spotify.com/album/5j1wrOAOm5KFd17pPiSvle) | 3:51 | 2023-12-20 |  |
+| [Lush Life](https://open.spotify.com/track/1rIKgCH4H52lrvDcz50hS8) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [So Good](https://open.spotify.com/album/5YLRVHDVRw3QqWbeTGpC5B) | 3:21 | 2023-12-28 |  |
 | [Mad Love](https://open.spotify.com/track/79JBjIq90BrQ8Ws0pUhlzD) | [Mabel](https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4) | [Mad Love](https://open.spotify.com/album/6fwNMnwzVoclK4zOwl3ou0) | 2:49 | 2020-12-31 | 2021-12-29 |
 | [Made For You](https://open.spotify.com/track/1bZCA8kaaYYIMpU3Mh7R7U) | [John De Sohn](https://open.spotify.com/artist/3TVjdmhfFoYJLgBEkkZTBm) | [Made For You](https://open.spotify.com/album/5wT9GG94G7Q4oiwBTF4RPJ) | 3:16 | 2020-12-31 | 2022-07-29 |
 | [Mambo No\. 5 \(a Little Bit of...\)](https://open.spotify.com/track/6x4tKaOzfNJpEJHySoiJcs) | [Lou Bega](https://open.spotify.com/artist/46lnlnlU0dXTDpoAUmH6Qx) | [A Little Bit of Mambo](https://open.spotify.com/album/13BmLGhVCLBn3XzKB8HIai) | 3:40 | 2022-01-03 | 2022-11-12 |

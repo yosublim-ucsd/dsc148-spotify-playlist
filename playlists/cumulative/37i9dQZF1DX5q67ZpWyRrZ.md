@@ -4,7 +4,7 @@
 
 > Best of the Indian Indie scene\. Cover \- Anuv Jain
 
-242 songs - 13 hr 44 min
+244 songs - 13 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,7 +50,8 @@
 | [Choo Lo](https://open.spotify.com/track/0rlLBWFFTQiOWi963SH9bb) | [The Local Train](https://open.spotify.com/artist/7b6Ui7JVaBDEfZB9k6nHL0) | [Aalas Ka Pedh](https://open.spotify.com/album/5xOkxpVDHdpWkI9mNfYXab) | 3:53 | 2023-12-05 |  |
 | [Choo Lo](https://open.spotify.com/track/2qgXrzJsry4KgYoJCpuaul) | [The Local Train](https://open.spotify.com/artist/7b6Ui7JVaBDEfZB9k6nHL0) | [Aalas Ka Pedh](https://open.spotify.com/album/4U2xdJPJfGo2HofVpSynwO) | 3:53 | 2021-12-06 | 2023-12-16 |
 | [Chor](https://open.spotify.com/track/0FCe2NhPWKiSTAipf0lOAT) | [Justh](https://open.spotify.com/artist/6gxRXj2KUJ02vfIgkNUq5b) | [Chor](https://open.spotify.com/album/41cYr6R4rPiKExcTvQTnmR) | 3:28 | 2024-02-26 | 2024-02-28 |
-| [Chor](https://open.spotify.com/track/53gdHIMmv3XubECRLL6R62) | [Justh](https://open.spotify.com/artist/6gxRXj2KUJ02vfIgkNUq5b) | [Chor](https://open.spotify.com/album/39noVgiQirYCWfBIrBzP30) | 3:28 | 2024-02-26 |  |
+| [Chor](https://open.spotify.com/track/53gdHIMmv3XubECRLL6R62) | [Justh](https://open.spotify.com/artist/6gxRXj2KUJ02vfIgkNUq5b) | [Chor](https://open.spotify.com/album/39noVgiQirYCWfBIrBzP30) | 3:28 | 2024-02-26 | 2024-03-21 |
+| [Chor](https://open.spotify.com/track/6YewfSA18qq5xl1KlJQkpY) | [Justh](https://open.spotify.com/artist/6gxRXj2KUJ02vfIgkNUq5b) | [Chor](https://open.spotify.com/album/1wBSOR9eFqfkDFyJtwPm7V) | 3:28 | 2024-03-11 |  |
 | [City Life](https://open.spotify.com/track/2jfLNlyUpxhFkoo1lJjiL3) | [Raghav Meattle](https://open.spotify.com/artist/7lTlD9L3QhfOH13Z0n1ibN) | [City Life \- Single](https://open.spotify.com/album/2q1dmnBWQqQAYxcXybUNAr) | 2:40 | 2021-12-06 | 2022-08-23 |
 | [Co2](https://open.spotify.com/track/3hB9lDLyAClYVZivMMl20N) | [Prateek Kuhad](https://open.spotify.com/artist/0tC995Rfn9k2l7nqgCZsV7) | [The Way That Lovers Do](https://open.spotify.com/album/4WLh56ZjwINYBNhaxLvEhA) | 2:43 | 2023-09-11 |  |
 | [cold/mess](https://open.spotify.com/track/2AoWWiMelowkStJoqPMDed) | [Prateek Kuhad](https://open.spotify.com/artist/0tC995Rfn9k2l7nqgCZsV7) | [cold / mess](https://open.spotify.com/album/668sak5iUcXZeaOwq3fERM) | 4:41 | 2022-01-05 | 2022-07-29 |
@@ -104,7 +105,7 @@
 | [Jab Tum Miley](https://open.spotify.com/track/1JelKGBph8gon106Wqjwu2) | [Abhilasha Sinha](https://open.spotify.com/artist/3FJ13syehmla1ybPZYHYHW) | [Jab Tum Miley](https://open.spotify.com/album/5cp5qCU35snnBanBl5khvN) | 4:06 | 2021-12-06 | 2023-03-09 |
 | [Jadoo](https://open.spotify.com/track/5MQLDkiEagOTLKpfa59a06) | [Akshath](https://open.spotify.com/artist/35XjIi7RK4ckjgBrE6CcQo) | [Jadoo](https://open.spotify.com/album/4rgE2Rxo1YshL8GlEJNNL1) | 3:10 | 2023-08-09 |  |
 | [Je Suis La Pomme Rouge](https://open.spotify.com/track/5HzPAB3IWjlH1KHDoTuv9P) | [Parekh & Singh](https://open.spotify.com/artist/5HyacDSdBkCTDOBoX49ayp) | [Je Suis La Pomme Rouge](https://open.spotify.com/album/071Ym9vm31HXWiF14VARnv) | 4:30 | 2022-01-12 | 2022-02-05 |
-| [Jhaag](https://open.spotify.com/track/7zwqxNGf7cJLPXgOkEkHHA) | [Chaar Diwaari](https://open.spotify.com/artist/2n4q8jLM4WLwlva1sZ2WRx) | [Jhaag](https://open.spotify.com/album/7jmDLNVORMzMHfyF0we05g) | 2:29 | 2024-01-03 |  |
+| [Jhaag](https://open.spotify.com/track/7zwqxNGf7cJLPXgOkEkHHA) | [Chaar Diwaari](https://open.spotify.com/artist/2n4q8jLM4WLwlva1sZ2WRx) | [Jhaag](https://open.spotify.com/album/7jmDLNVORMzMHfyF0we05g) | 2:29 | 2024-01-03 | 2024-03-21 |
 | [Jiyara](https://open.spotify.com/track/3wtUeVGw8hOlJCVRxtjtZY) | [Gautam Kale](https://open.spotify.com/artist/3u6Ygzg3VWXrHHIbgdp1CL) | [Jiyara](https://open.spotify.com/album/4jyfJKuTlSVfve70u1jUvv) | 2:36 | 2022-01-05 | 2022-04-05 |
 | [Junoon](https://open.spotify.com/track/1Y5treJOPB7WnAMZnsA5u8) | [Mitraz](https://open.spotify.com/artist/3iGhlvzpXc0UHBQ7klAItX) | [Junoon](https://open.spotify.com/album/5j7k8clw2nghIdjcn36Ixg) | 3:11 | 2023-03-28 | 2023-08-09 |
 | [Junoon](https://open.spotify.com/track/4roFMBSQp7W4fYVxKMmhA5) | [Mitraz](https://open.spotify.com/artist/3iGhlvzpXc0UHBQ7klAItX) | [Junoon](https://open.spotify.com/album/1sGWRNrgW1D1MTuBhz2mfs) | 3:11 | 2023-10-19 |  |
@@ -221,6 +222,7 @@
 | [Tera Mera Aasmaan](https://open.spotify.com/track/6mOqFm4X4tdcraFWQibZSA) | [Shreya Jain](https://open.spotify.com/artist/4kf4NJ3U6oSZ423DycBpMD) | [Tera Mera Aasmaan](https://open.spotify.com/album/5vbcq7UU1ezZ0uKs7SWXwX) | 2:38 | 2023-03-08 | 2024-03-20 |
 | [Tera Nishaan](https://open.spotify.com/track/23gBGYYQcA8ivnVDj2eZxD) | [Pina Colada Blues](https://open.spotify.com/artist/1pSV6wx1cZQB3l7c2wY3mE), [Anumita Nadesan](https://open.spotify.com/artist/1nmKYy6efdYl8sIcT0gCLJ) | [Tera Nishaan](https://open.spotify.com/album/1FsGhpy3Br29xgbS1PJB4I) | 2:47 | 2022-08-09 | 2023-09-19 |
 | [Tere Bina](https://open.spotify.com/track/6k1hBhDbcwyh1KuSFAoLTJ) | [KASYAP](https://open.spotify.com/artist/4p4ILwTCyu0exslJsiQzZP) | [Tere Bina](https://open.spotify.com/album/3oqzq7uP6IgsI8o8ZTUENB) | 2:52 | 2023-03-21 |  |
+| [Tere Bina](https://open.spotify.com/track/6vp8XQXRrZT2Df4DbOD8Bf) | [Shreea Kaul](https://open.spotify.com/artist/1c203LuoIFKuIn2X5Uz5lE) | [Tere Bina](https://open.spotify.com/album/3i5Smt37ADBsOoS593ELHQ) | 2:30 | 2024-03-20 |  |
 | [Tere Hi Hum](https://open.spotify.com/track/1TkyDEdjiUuYhoMkxdZCiO) | [Prateek Kuhad](https://open.spotify.com/artist/0tC995Rfn9k2l7nqgCZsV7) | [Tere Hi Hum](https://open.spotify.com/album/4xOZZmHAlau3WBiH4OPpKD) | 2:57 | 2022-01-05 |  |
 | [Thing About the Colour Blue](https://open.spotify.com/track/09XtL9fgoolH8jNRlX2AkD) | [Cinema of Excess](https://open.spotify.com/artist/3xA6t8yRi2XxiycBjSB9Ai) | [Bring Back the Sound](https://open.spotify.com/album/1KosGhCYNNvwy0f1n4EPEZ) | 2:35 | 2022-01-05 | 2022-02-26 |
 | [Through These Years](https://open.spotify.com/track/34OnHRNEwBUIzICP1FulTO) | [Semwal](https://open.spotify.com/artist/0uNhaTjKYwyBEKJoG7gPjq), [Sparsh Dangwal](https://open.spotify.com/artist/1SClATlfgXE2qlr4FcEhUS) | [Through These Years](https://open.spotify.com/album/2i4UWMCrYHyvV1pSllSDpu) | 3:43 | 2021-12-06 | 2022-01-06 |

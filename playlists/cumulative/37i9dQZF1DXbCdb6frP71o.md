@@ -4,7 +4,7 @@
 
 > Devotional tracks for an immersive Ramadan.
 
-76 songs - 7 hr 27 min
+77 songs - 7 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,7 +65,8 @@
 | [Qasida Burda Sharif](https://open.spotify.com/track/2zsQKhZhWNUxY5YCKSxjoS) | [Qari Waheed Zafar Qasmi](https://open.spotify.com/artist/2NkEXPNPJyiuIRnO9oTvnY) | [Gulzar e Madina, Vol\. 2](https://open.spotify.com/album/7kQP5I9bMRI24rA3NPm3aX) | 6:08 | 2024-02-21 |  |
 | [Rahmatun Lil'Alameen](https://open.spotify.com/track/4Ifu8HPmQGUnJwwaXcG2Mj) | [Maher Zain](https://open.spotify.com/artist/6PUZZX4GCzeFS0GaDWxVwz) | [Rahmatun Lil'Alameen](https://open.spotify.com/album/2SqCf5y1QVixgel87vaM2K) | 3:50 | 2024-03-18 |  |
 | [Rehmatul\-lil\-Alameen](https://open.spotify.com/track/3x3fja2hzDJNqjLxzGAuAd) | [Arslan Athar](https://open.spotify.com/artist/0aZGWj6ndC9eYk6HWVlKsT) | [Rehmatul\-lil\-Alameen](https://open.spotify.com/album/4pVCqrQfJTZrJXTfQwmj3P) | 5:21 | 2024-02-21 | 2024-03-15 |
-| [SALLALLAH ALA MUHAMMAD](https://open.spotify.com/track/4B4QZzjH5vln4m6jPj8m0J) | [Abdullah Qureshi](https://open.spotify.com/artist/6WKmWnj8GuxXXx1bB0QFw8) | [SALLALLAH ALA MUHAMMAD](https://open.spotify.com/album/7CVRkqzxupkRBI9anDzcIn) | 3:19 | 2024-02-21 |  |
+| [SALLALLAH ALA MUHAMMAD](https://open.spotify.com/track/4B4QZzjH5vln4m6jPj8m0J) | [Abdullah Qureshi](https://open.spotify.com/artist/6WKmWnj8GuxXXx1bB0QFw8) | [SALLALLAH ALA MUHAMMAD](https://open.spotify.com/album/7CVRkqzxupkRBI9anDzcIn) | 3:19 | 2024-02-21 | 2024-03-21 |
+| [SALLALLAH ALA MUHAMMAD](https://open.spotify.com/track/5GHDwlQAQNpHanxWhd9SXC) | [Abdullah Qureshi](https://open.spotify.com/artist/6WKmWnj8GuxXXx1bB0QFw8) | [SALLALLAH ALA MUHAMMAD](https://open.spotify.com/album/23lrrT1uc39FZOM2ijR13a) | 3:19 | 2024-03-18 |  |
 | [Sarkar Ki Baat](https://open.spotify.com/track/2g0hqVeUwrlisNxWDR4smw) | [Ahmod Abdullah](https://open.spotify.com/artist/5B0DgeDDQ607RvgyySEMD1) | [Sarkar Ki Baat](https://open.spotify.com/album/1OuXWxCzMLHshpqp5AyCvV) | 4:31 | 2024-03-14 |  |
 | [Shah\-e\-Madina \- with Daff](https://open.spotify.com/track/0E55xUsh5b58c1mGTqtUcc) | [Prof Abdul Rauf Roofi](https://open.spotify.com/artist/5PN3WZWkenPLwkoI47lGG0) | [Gaisoo\-e\-Rehmat, Vol\. 13](https://open.spotify.com/album/4HIeQ8RuYbDA8BsZGUsb6L) | 6:22 | 2024-02-21 | 2024-03-15 |
 | [Shan E Ramzan](https://open.spotify.com/track/4hylxbiNeIuj997IECSmqd) | [Junaid Jamshed](https://open.spotify.com/artist/2DmMcw1UxHSzAEFrMY3r2D), [Amjad Sabri](https://open.spotify.com/artist/5O8fzkJErOVKDvWgs7bBJ3) | [Shan\-E\-Ramzan \- Single](https://open.spotify.com/album/0L1lEgslkPfwzrJ4d7VVz3) | 4:35 | 2024-02-21 |  |

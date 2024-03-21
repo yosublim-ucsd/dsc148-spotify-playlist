@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6RCydf9ytsj.md) - [plain]
 
 > The decade when New Traditional artists like George Strait, Reba McEntire, and Randy Travis dominated the Country scene\. Cover: The Judds
 
-[Spotify](https://open.spotify.com/user/spotify) - 614,041 likes - 150 songs - 8 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 614,298 likes - 150 songs - 8 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6RCydf9ytsj.md) - [plain]
 | 38 | [The One I Loved Back Then \(The Corvette Song\)](https://open.spotify.com/track/0RbaD2rw0HmpfflXFH9DKu) | [George Jones](https://open.spotify.com/artist/2OpqcUtj10HHvGG6h9VYC5) | [Who's Gonna Fill Their Shoes](https://open.spotify.com/album/0SRwLRes0ubEsYsjM9F5uL) | 2:30 |
 | 39 | [On the Other Hand](https://open.spotify.com/track/5MkOctZG8LI9uHzpY7ncWj) | [Randy Travis](https://open.spotify.com/artist/1pTuR132U5b4Rizal2Pr7m) | [Storms of Life](https://open.spotify.com/album/6rOVPyzQ5s7cUUyHHplESf) | 3:06 |
 | 40 | [The Sweetest Thing \(I've Ever Known\)](https://open.spotify.com/track/3EFgVWb1TAYP3CF17BB4fU) | [Juice Newton](https://open.spotify.com/artist/4L1z1IcfK7lbqx8izGHaw5) | [Juice Newton's Greatest Hits](https://open.spotify.com/album/0fSvQOkU8rRgcsW6MerdVw) | 4:08 |
-| 41 | [Common Man](https://open.spotify.com/track/7qYQBg8ljLvLfWPOajfo6u) | [John Conlee](https://open.spotify.com/artist/4Wfq6fHhifS8MmQOcJ18TP) | [Classics](https://open.spotify.com/album/22qEaAJ03kdo8L2qge5Chc) | 2:43 |
-| 42 | [Guitar Town](https://open.spotify.com/track/62ZRHYSOIT9WeZnz18kTHS) | [Steve Earle](https://open.spotify.com/artist/2UBTfUoLI07iRqGeUrwhZh) | [Guitar Town](https://open.spotify.com/album/3bEnaGjQRqfoqNkAQtO1Uy) | 2:35 |
+| 41 | [Guitar Town](https://open.spotify.com/track/62ZRHYSOIT9WeZnz18kTHS) | [Steve Earle](https://open.spotify.com/artist/2UBTfUoLI07iRqGeUrwhZh) | [Guitar Town](https://open.spotify.com/album/3bEnaGjQRqfoqNkAQtO1Uy) | 2:35 |
+| 42 | [Common Man](https://open.spotify.com/track/7qYQBg8ljLvLfWPOajfo6u) | [John Conlee](https://open.spotify.com/artist/4Wfq6fHhifS8MmQOcJ18TP) | [Classics](https://open.spotify.com/album/22qEaAJ03kdo8L2qge5Chc) | 2:43 |
 | 43 | [I Wouldn't Have Missed It For The World](https://open.spotify.com/track/7sNKhnl4MZnHdMzvmC4jG5) | [Ronnie Milsap](https://open.spotify.com/artist/6Sb8EHpZvyjSTT5KD9DjUZ) | [There's No Gettin' Over Me](https://open.spotify.com/album/4rfNPJR54mFLPz6FzV2TI8) | 3:37 |
 | 44 | [When You Say Nothing at All](https://open.spotify.com/track/2lCGAGpqgQIolNfpnycIZk) | [Keith Whitley](https://open.spotify.com/artist/0bc7dhY6YXL35m1G0jVwuW) | [Greatest Hits](https://open.spotify.com/album/4oj3skAMdx0abpd3XtOrOo) | 3:42 |
 | 45 | [You Look So Good In Love](https://open.spotify.com/track/5BYOLEoFD1fWokKncxz7BQ) | [George Strait](https://open.spotify.com/artist/5vngPClqofybhPERIqQMYd) | [George Strait's Greatest Hits](https://open.spotify.com/album/7x8avOLIjaENw4csHfd40c) | 3:13 |
@@ -101,8 +101,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6RCydf9ytsj.md) - [plain]
 | 91 | [I Got Mexico](https://open.spotify.com/track/0BM8wPzuihqUE561Poj2b7) | [Eddy Raven](https://open.spotify.com/artist/23YxuG76RQvo4r7jChCwxK) | [Best Of Eddy Raven](https://open.spotify.com/album/4e9QmJZGdhtNjQVNsR183R) | 2:26 |
 | 92 | [Tight Fittin' Jeans](https://open.spotify.com/track/7A7gHOXvDJ12CRfiZ18Uro) | [Conway Twitty](https://open.spotify.com/artist/7gi3jmwpUpNWdswT8eEprF) | [20th Century Masters: The Millennium Collection: Best Of Conway Twitty](https://open.spotify.com/album/1Qj1C6YA9SQvuJsgsZdeTE) | 2:50 |
 | 93 | [To Know Him Is to Love Him \- 2015 Remaster](https://open.spotify.com/track/0gIhlWV243Z1K93QfCeJTM) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU), [Linda Ronstadt](https://open.spotify.com/artist/1sXbwvCQLGZnaH0Jp2HTVc), [Emmylou Harris](https://open.spotify.com/artist/5s6TJEuHTr9GR894wc6VfP) | [Trio \(2016 Remaster\)](https://open.spotify.com/album/4sQEu1QnbFvtYItC4mQSO4) | 3:47 |
-| 94 | [Jose Cuervo](https://open.spotify.com/track/3lrlZLY4RL816J0ersG63f) | [Shelly West](https://open.spotify.com/artist/4U9hcIjDmGDdnNlfc3ebbJ) | [West By West](https://open.spotify.com/album/5TxtoLv0Y7uvgjb14Bculc) | 2:40 |
-| 95 | [Roll On \(Eighteen Wheeler\)](https://open.spotify.com/track/31LOzuiEqzfMZ6f8nujDVd) | [Alabama](https://open.spotify.com/artist/6rJqqRce0Kvo2dJUXoHleC) | [Roll On](https://open.spotify.com/album/2wxMN8hgpUMTLpD8CilSPb) | 4:22 |
+| 94 | [Roll On \(Eighteen Wheeler\)](https://open.spotify.com/track/31LOzuiEqzfMZ6f8nujDVd) | [Alabama](https://open.spotify.com/artist/6rJqqRce0Kvo2dJUXoHleC) | [Roll On](https://open.spotify.com/album/2wxMN8hgpUMTLpD8CilSPb) | 4:22 |
+| 95 | [Jose Cuervo](https://open.spotify.com/track/3lrlZLY4RL816J0ersG63f) | [Shelly West](https://open.spotify.com/artist/4U9hcIjDmGDdnNlfc3ebbJ) | [West By West](https://open.spotify.com/album/5TxtoLv0Y7uvgjb14Bculc) | 2:40 |
 | 96 | [You're The Reason God Made Oklahoma](https://open.spotify.com/track/6h2uiSGYI1oLzYg0MvBs6v) | [David Frizzell](https://open.spotify.com/artist/2SmICejsbfW9xy1ZFt9C1q), [Shelly West](https://open.spotify.com/artist/4U9hcIjDmGDdnNlfc3ebbJ) | [The Very Best Of David Frizzell & Shelly West](https://open.spotify.com/album/2pVU6L8o7hWWLkRHyrTkbI) | 3:24 |
 | 97 | [What's Forever For?](https://open.spotify.com/track/5j2yIrnbgDW51GM95ZjqDj) | [Michael Martin Murphey](https://open.spotify.com/artist/4jL1usPiGDK8TD46zJP4gu) | [The Best Of Michael Martin Murphey](https://open.spotify.com/album/4oNkliPdTLg2FHIDp4PgDN) | 2:51 |
 | 98 | [Tennessee Flat Top Box](https://open.spotify.com/track/2m25daTa9vh2G3kR4ZnSSS) | [Rosanne Cash](https://open.spotify.com/artist/6lx6XS8umFqYRVbBErx9fE) | [King's Record Shop](https://open.spotify.com/album/2UKzyeTTIPTmhgMawl3iag) | 3:09 |
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6RCydf9ytsj.md) - [plain]
 | 149 | [Crackers \- Single Version](https://open.spotify.com/track/3VSkgyqT0jkV68t5QCX8iQ) | [Barbara Mandrell](https://open.spotify.com/artist/67BqBdApdbZ0onglFqRoTg) | [Love Is Fair](https://open.spotify.com/album/6sVMfY88I8a7xkmSaXCruy) | 2:34 |
 | 150 | [\(That's What You Do\) When You're in Love](https://open.spotify.com/track/0zd4IzrpBnA1giNE6KkYby) | [The Forester Sisters](https://open.spotify.com/artist/27Zy5YAD3Atf56oSRfrfis) | [The Forester Sisters](https://open.spotify.com/album/3LDzLEr1jGClFSMrdwdjcA) | 3:04 |
 
-Snapshot ID: `MCw5ZDFkZjFkMGUzNTFmM2UzMzRkNDIzOGM1MWIzNzBiNDY3YmQyYTYz`
+Snapshot ID: `MCwzMDZmZjA5NmVlY2Q1M2IwY2RlOGE4NTQ2YzFmZTQwOWRjNzgzMWI5`

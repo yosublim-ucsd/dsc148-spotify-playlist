@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1LU4UHKqdtg.md) - [plain]
 
 > The freshest K\-Pop of today!  //最先端のK\-Popをピックアップ！ Cover: THE BOYZ
 
-[Spotify](https://open.spotify.com/user/spotify) - 409,144 likes - 80 songs - 4 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 409,161 likes - 80 songs - 4 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1LU4UHKqdtg.md) - [plain]
 | 79 | [Seven \(feat\. Latto\)](https://open.spotify.com/track/7x9aauaA9cu6tyfpHnqDLo) | [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [Seven \(feat\. Latto\)](https://open.spotify.com/album/53985D8g3JcGBoULSOYYKX) | 3:04 |
 | 80 | [Fighting \(Feat\. Lee Young Ji\)](https://open.spotify.com/track/7eBpUuPnDTfbeP1P4P93CS) | [BSS](https://open.spotify.com/artist/1uAT5bTSp6dWbNmixIUP5t), [Lee Young Ji](https://open.spotify.com/artist/0Y2AcMPMpeuPXtPQGVvRBq) | [BSS 1st Single Album 'SECOND WIND'](https://open.spotify.com/album/4dHtpne5cAAGgDYFNHu7jW) | 3:24 |
 
-Snapshot ID: `MCwwN2E4MzI2M2RlNjllZDU0NGMyYjlkNWYzYWRkNWU3ZGE4M2U0YTIy`
+Snapshot ID: `MCwwZjk0OTc2NWRhOTFiMzljNjkzNjUyNDVhNjhiZTBjZWFlM2E3MGM3`

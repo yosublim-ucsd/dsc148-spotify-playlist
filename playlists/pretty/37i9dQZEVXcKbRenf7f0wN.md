@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXcKbRenf7f0wN.md) - [plain]
 | 20 | [Liberty](https://open.spotify.com/track/61Iw52obsDpnrvuu6vCHpI) | [Kitchen and the Plastic Spoons](https://open.spotify.com/artist/1ZjGTEqUY3WJ4Dr7t7ogJ8) | [Killed By Deathrock Vol.1](https://open.spotify.com/album/6o8U8R5F7ul5ufuAemxtqw) | 3:05 |
 | 21 | [Insect / Suspect](https://open.spotify.com/track/0px0VGMJcIIvJsW6Q12zCg) | [Pigface](https://open.spotify.com/artist/64mGp5QFpsekCRHe6RqDYz) | [Easy Listening](https://open.spotify.com/album/0kFD5uNnks1z9vEW4YInDd) | 3:53 |
 | 22 | [Bruja](https://open.spotify.com/track/64yUZfodDRe62ARWG5iV8V) | [Digital Drvgs](https://open.spotify.com/artist/03FGSJacyW0TvhESTfz70l) | [Bruja](https://open.spotify.com/album/2Z1FL774JDlSwV7s4xPzHI) | 3:22 |
-| 23 | [Machina \(feat\. Mariana Saldaña\)](https://open.spotify.com/track/4MEuU7MRGIWgFQKz6oNG5u) | [Boy Harsher](https://open.spotify.com/artist/4iom7VVRU6AHRIu1JUXpLG), [BOAN](https://open.spotify.com/artist/0Ju3YcuK3eL68zOIA1C8Te) | [The Runner \(Original Soundtrack\)](https://open.spotify.com/album/00ascaJUZ2aaXQiivvSxdv) | 4:16 |
+| 23 | [Machina \(Ft\. Mariana Saldaña\)](https://open.spotify.com/track/4MEuU7MRGIWgFQKz6oNG5u) | [Boy Harsher](https://open.spotify.com/artist/4iom7VVRU6AHRIu1JUXpLG), [BOAN](https://open.spotify.com/artist/0Ju3YcuK3eL68zOIA1C8Te) | [The Runner \(Original Soundtrack\)](https://open.spotify.com/album/00ascaJUZ2aaXQiivvSxdv) | 4:16 |
 | 24 | [Le Miroir Fantastique](https://open.spotify.com/track/5etaJW5AlBtN1OBntWAYDX) | [Galatée](https://open.spotify.com/artist/5oX1nHTiGbJywdggothJP1) | [The Last](https://open.spotify.com/album/3Akq8Kq2tfgiHEvdVPdLAx) | 2:00 |
 | 25 | [In My Side](https://open.spotify.com/track/1FgOjbd5YinVDboy7Ul5Jw) | [Vision Video](https://open.spotify.com/artist/4svQNinzRKM2BbuPjVXRJF) | [Inked in Red](https://open.spotify.com/album/4yvuv3ty49bbmWbkyHr0EG) | 3:45 |
 | 26 | [Candy](https://open.spotify.com/track/0QQtYBkrf5hyxJFej7n8WT) | [FrioLento](https://open.spotify.com/artist/7tNvegbTVfxN3p9q39ixcn) | [Candy](https://open.spotify.com/album/7dM9MuZU35g3k4Ow5YfQdM) | 2:47 |
@@ -39,4 +39,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXcKbRenf7f0wN.md) - [plain]
 | 29 | [Nonesuch River Chant](https://open.spotify.com/track/1XGYGXH11HAKjYtQv0SIuE) | [Falls of Rauros](https://open.spotify.com/artist/4Y5CKbAT8fHWEbpLGFNygB) | [The Light That Dwells in Rotten Wood](https://open.spotify.com/album/18tWx3v8aB0nxRIUy5VsUs) | 1:36 |
 | 30 | [Feuer](https://open.spotify.com/track/1BqwAsNXmpFDft0Yt1qm4i) | [Orange Sector](https://open.spotify.com/artist/0nxMaqbFU9W3dPV9TchWlc) | [Alarm](https://open.spotify.com/album/2s3tCnZkS78YDTMI41vJRP) | 2:39 |
 
-Snapshot ID: `MCwwMDAwMDAwMDc5MmJjOGFhNzFhYmZhYmM2NGU2NTZhYzEzODM0NWU0`
+Snapshot ID: `MCwwMDAwMDAwMGM2YWUyZGViMmY5NTVmYjYxODRhYTk3NWQwOWFmZGEx`

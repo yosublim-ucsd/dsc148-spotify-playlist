@@ -4,7 +4,7 @@
 
 > Keep your finger on the pulse of pop\. Gretta Ray
 
-788 songs - 1 day 16 hr 52 min
+790 songs - 1 day 16 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,7 +54,8 @@
 | [Atmosphere](https://open.spotify.com/track/5RLXorPT049PXrZhVUS7RK) | [Drax Project](https://open.spotify.com/artist/6S0IvKlvPMX1RtAYtVpUV8) | [Atmosphere](https://open.spotify.com/album/03fvTmdZAQc5UO9ddnLf82) | 3:14 | 2023-06-15 | 2023-07-14 |
 | [Atmosphere \(Kita’s Version\)](https://open.spotify.com/track/7I0EAjKngK6EZYw7YIPZ19) | [Kita Alexander](https://open.spotify.com/artist/3CGuwWgoCYSO5Z72H5G2Ec) | [Atmosphere \(Kita’s Version\)](https://open.spotify.com/album/5hlY3fgxoUM07aMjbt6BwT) | 2:55 | 2023-12-07 | 2024-02-02 |
 | [august](https://open.spotify.com/track/2J7IHrGRK9ciBgt7pi5po3) | [SANNIA](https://open.spotify.com/artist/2CdPFiGHFCyN5CufJ8tkGh) | [august](https://open.spotify.com/album/3ydmay15sgPLdbHxrmiGCs) | 4:07 | 2023-10-26 | 2023-12-08 |
-| [Austin](https://open.spotify.com/track/4NJqhmkGN042BrvHoMKUrJ) | [Dasha](https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I) | [Austin](https://open.spotify.com/album/4JtlZzYJEa7bejLF0ASnk0) | 2:51 | 2024-03-07 |  |
+| [Austin](https://open.spotify.com/track/4NJqhmkGN042BrvHoMKUrJ) | [Dasha](https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I) | [Austin](https://open.spotify.com/album/4JtlZzYJEa7bejLF0ASnk0) | 2:51 | 2024-03-07 | 2024-03-21 |
+| [Austin](https://open.spotify.com/track/6b81dy3WjbozXK6b7C1gu5) | [Dasha](https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I) | [What Happens Now?](https://open.spotify.com/album/0rQRrrZPPv6XXsxilJ1wFz) | 2:51 | 2024-03-14 |  |
 | [Baby Blue](https://open.spotify.com/track/5ZDdx332AQj2n6TOW0LlZU) | [Surfaces](https://open.spotify.com/artist/4ETSs924pXMzjIeD6E9b4u) | [Baby Blue](https://open.spotify.com/album/4SZISLudRb6XD44SO2NBtZ) | 2:04 | 2023-11-16 | 2023-12-22 |
 | [Back for More \(with Anitta\)](https://open.spotify.com/track/6uTPA1xlcsk6dbchB2dhzl) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Back for More \(with Anitta\)](https://open.spotify.com/album/5zhfCotijpaEJfQNVAC8mV) | 2:11 | 2023-09-14 | 2023-10-27 |
 | [Back To Your Heart](https://open.spotify.com/track/6t0HlyysZGmCCj1yNgZT7W) | [Delta Goodrem](https://open.spotify.com/artist/2g6fa86fL6oLcoDqanBbuR) | [Back To Your Heart](https://open.spotify.com/album/4melEKaCbMfBiFl22B2elc) | 3:15 | 2023-08-04 | 2023-10-06 |
@@ -705,7 +706,8 @@
 | [Tom Cruise](https://open.spotify.com/track/0cyVDjmAa72JNfv2B4HxfL) | [San Joseph](https://open.spotify.com/artist/59YOtpr5yzoCBLxAWeCAp5) | [Tom Cruise](https://open.spotify.com/album/0aDfWJBnQ5DeOmoi5Rckg2) | 2:39 | 2023-06-15 | 2023-06-23 |
 | [Tongue](https://open.spotify.com/track/476uLySrronSFdexjhUIiE) | [Foley](https://open.spotify.com/artist/776HGV4QHksTaUaawD9DnE) | [Tongue](https://open.spotify.com/album/7z2wzthRPOUmhrHeBUJSSN) | 3:09 | 2023-06-15 | 2023-07-14 |
 | [Tonic \(Edit\)](https://open.spotify.com/track/4b9disSqE7Yvxgpo4W7lB5) | [Shouse](https://open.spotify.com/artist/2TcGJdSOiOvITBzhvfX8XB) | [Tonic](https://open.spotify.com/album/4xbLjgXZNRWrMhWcWe7ww1) | 4:39 | 2024-01-18 | 2024-02-16 |
-| [Too Good to be True](https://open.spotify.com/track/4vIiVs5JoNfqqRi5o7jAIb) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Too Good to be True](https://open.spotify.com/album/57y7NpfTINlnrNitu8vwft) | 2:40 | 2024-02-29 |  |
+| [Too Good to be True](https://open.spotify.com/track/27RDQ0TfxzWMlQFuKrPT11) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Deeper Well](https://open.spotify.com/album/5SxZmGwc4eJuPp6PcO4JgJ) | 2:40 | 2024-03-14 |  |
+| [Too Good to be True](https://open.spotify.com/track/4vIiVs5JoNfqqRi5o7jAIb) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Too Good to be True](https://open.spotify.com/album/57y7NpfTINlnrNitu8vwft) | 2:40 | 2024-02-29 | 2024-03-21 |
 | [Too Late For Love](https://open.spotify.com/track/0FmQYXx0l2I82qtfN5WJQZ) | [Gin and Sonic](https://open.spotify.com/artist/4wclQmLzvBO42jPt3Hg3Fj) | [Too Late For Love](https://open.spotify.com/album/4wTOjz9tSbPPOTEawQsFGW) | 3:56 | 2024-02-01 | 2024-03-01 |
 | [TOO MUCH](https://open.spotify.com/track/0rKWJnmo6Q0ovoPOLoLm0t) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J), [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc), [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [TOO MUCH](https://open.spotify.com/album/7gCggwpSuqUmVzWniLdpKR) | 3:23 | 2023-10-19 | 2023-12-08 |
 | [Too Pretty To Be Sad](https://open.spotify.com/track/0zcHCug5x9pBjeGDcfEplO) | [RARIA](https://open.spotify.com/artist/1DKITSUPQAQIa2D0W6U8gY) | [Too Pretty To Be Sad](https://open.spotify.com/album/7oS1zIizfJ9Ua8v48hFXJ3) | 2:27 | 2024-02-08 | 2024-03-15 |

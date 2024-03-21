@@ -1,12 +1,12 @@
 {
   "description": "Potras, rancherxs y la \ud83e\uddc0",
-  "num_followers": 10735,
+  "num_followers": 10765,
   "original_name": "Sombrerudx y nimoderrimo   ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5ZmFjMDI2M2U1NTdiZWE3ZTU1MDJkNzkxMmNhZTdhYWJiMmQ4YTMz",
+  "snapshot_id": "MCw3OWZiMWE5ZGVhMDkyY2E1YjlhYTg3YWU1MDFiYTI1NWQ2MWY3Y2Ni",
   "tracks": [
     {
       "added_at": "2024-03-08 06:01:00",
@@ -179,6 +179,22 @@
     {
       "added_at": "2024-03-08 06:01:00",
       "album": {
+        "name": "ALFA & OMEGA",
+        "url": "https://open.spotify.com/album/63HJKqg9tMk2eJyQezaTes"
+      },
+      "artists": [
+        {
+          "name": "Alfredo Olivas",
+          "url": "https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8"
+        }
+      ],
+      "duration_ms": 202453,
+      "name": "Yo Todo Lo Doy",
+      "url": "https://open.spotify.com/track/2fQrrBtuNVMWOHqLyk4EfO"
+    },
+    {
+      "added_at": "2024-03-08 06:01:00",
+      "album": {
         "name": "CCC (Remix)",
         "url": "https://open.spotify.com/album/4omrnMxKG5Nf7wqFTni9Eo"
       },
@@ -199,22 +215,6 @@
       "duration_ms": 147877,
       "name": "CCC - Remix",
       "url": "https://open.spotify.com/track/1SlPNQ3vAF56AiHr6Ul6jM"
-    },
-    {
-      "added_at": "2024-03-08 06:01:00",
-      "album": {
-        "name": "ALFA & OMEGA",
-        "url": "https://open.spotify.com/album/63HJKqg9tMk2eJyQezaTes"
-      },
-      "artists": [
-        {
-          "name": "Alfredo Olivas",
-          "url": "https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8"
-        }
-      ],
-      "duration_ms": 202453,
-      "name": "Yo Todo Lo Doy",
-      "url": "https://open.spotify.com/track/2fQrrBtuNVMWOHqLyk4EfO"
     },
     {
       "added_at": "2024-03-08 06:01:00",
@@ -343,22 +343,6 @@
     {
       "added_at": "2024-03-08 06:01:00",
       "album": {
-        "name": "Desvelado",
-        "url": "https://open.spotify.com/album/2BCS2taG5BuYeL3QPCbcz2"
-      },
-      "artists": [
-        {
-          "name": "Bobby Pulido",
-          "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
-        }
-      ],
-      "duration_ms": 221226,
-      "name": "Desvelado",
-      "url": "https://open.spotify.com/track/2JJSGhPpATm8lXeYjD95fw"
-    },
-    {
-      "added_at": "2024-03-08 06:01:00",
-      "album": {
         "name": "CCC",
         "url": "https://open.spotify.com/album/0BdTCfBqngPThmKfdWaXll"
       },
@@ -375,6 +359,22 @@
       "duration_ms": 126081,
       "name": "CCC",
       "url": "https://open.spotify.com/track/7uuqrSuCjWxPTCVyOeGMyt"
+    },
+    {
+      "added_at": "2024-03-08 06:01:00",
+      "album": {
+        "name": "Desvelado",
+        "url": "https://open.spotify.com/album/2BCS2taG5BuYeL3QPCbcz2"
+      },
+      "artists": [
+        {
+          "name": "Bobby Pulido",
+          "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
+        }
+      ],
+      "duration_ms": 221226,
+      "name": "Desvelado",
+      "url": "https://open.spotify.com/track/2JJSGhPpATm8lXeYjD95fw"
     },
     {
       "added_at": "2024-03-08 06:01:00",
@@ -487,22 +487,6 @@
     {
       "added_at": "2024-03-08 06:01:00",
       "album": {
-        "name": "Ens\u00e9\u00f1ame",
-        "url": "https://open.spotify.com/album/6wrBXd8mUK0dp3yMM29kWK"
-      },
-      "artists": [
-        {
-          "name": "Bobby Pulido",
-          "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
-        }
-      ],
-      "duration_ms": 186280,
-      "name": "Se Muri\u00f3 De Amor",
-      "url": "https://open.spotify.com/track/5iuGn3RXvfvHIyIe8fyxBE"
-    },
-    {
-      "added_at": "2024-03-08 06:01:00",
-      "album": {
         "name": "Joan Sebastian Con Mariachi",
         "url": "https://open.spotify.com/album/7Ml2mSF97d0zz3mDCKdx9M"
       },
@@ -515,6 +499,22 @@
       "duration_ms": 211255,
       "name": "Tatuajes",
       "url": "https://open.spotify.com/track/57dG9il4j7Hi7G8Cqgi0Ts"
+    },
+    {
+      "added_at": "2024-03-08 06:01:00",
+      "album": {
+        "name": "Ens\u00e9\u00f1ame",
+        "url": "https://open.spotify.com/album/6wrBXd8mUK0dp3yMM29kWK"
+      },
+      "artists": [
+        {
+          "name": "Bobby Pulido",
+          "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
+        }
+      ],
+      "duration_ms": 186280,
+      "name": "Se Muri\u00f3 De Amor",
+      "url": "https://open.spotify.com/track/5iuGn3RXvfvHIyIe8fyxBE"
     },
     {
       "added_at": "2024-03-08 06:01:00",
@@ -1111,22 +1111,6 @@
     {
       "added_at": "2024-03-08 06:01:00",
       "album": {
-        "name": "Por Puro Amor",
-        "url": "https://open.spotify.com/album/4EHVcKOs6x6DyYqocO6rTe"
-      },
-      "artists": [
-        {
-          "name": "Grupo Limite",
-          "url": "https://open.spotify.com/artist/2qWNYueLfc979iEdLOIK2C"
-        }
-      ],
-      "duration_ms": 179533,
-      "name": "Yo Sin Tu Amor",
-      "url": "https://open.spotify.com/track/3zuiOe6mJQ2fNe67FyqcrT"
-    },
-    {
-      "added_at": "2024-03-08 06:01:00",
-      "album": {
         "name": "Salvaje Y Tierno",
         "url": "https://open.spotify.com/album/3le90qgKpBzXiW1qigS89K"
       },
@@ -1139,6 +1123,22 @@
       "duration_ms": 140493,
       "name": "Nunca Voy A Olvidarte",
       "url": "https://open.spotify.com/track/0Lowb1wBPXduf06FTGRI46"
+    },
+    {
+      "added_at": "2024-03-08 06:01:00",
+      "album": {
+        "name": "Por Puro Amor",
+        "url": "https://open.spotify.com/album/4EHVcKOs6x6DyYqocO6rTe"
+      },
+      "artists": [
+        {
+          "name": "Grupo Limite",
+          "url": "https://open.spotify.com/artist/2qWNYueLfc979iEdLOIK2C"
+        }
+      ],
+      "duration_ms": 179533,
+      "name": "Yo Sin Tu Amor",
+      "url": "https://open.spotify.com/track/3zuiOe6mJQ2fNe67FyqcrT"
     },
     {
       "added_at": "2024-03-08 06:01:00",
@@ -1211,6 +1211,22 @@
     {
       "added_at": "2024-03-08 06:01:00",
       "album": {
+        "name": "Salvaje Y Tierno",
+        "url": "https://open.spotify.com/album/3le90qgKpBzXiW1qigS89K"
+      },
+      "artists": [
+        {
+          "name": "Bronco",
+          "url": "https://open.spotify.com/artist/0VKh7CQDi9MkUvaBMoK1V0"
+        }
+      ],
+      "duration_ms": 190653,
+      "name": "Oro",
+      "url": "https://open.spotify.com/track/50QgKV8vabHHc7au535IqK"
+    },
+    {
+      "added_at": "2024-03-08 06:01:00",
+      "album": {
         "name": "Ya acab\u00f3 (Con Becky G)",
         "url": "https://open.spotify.com/album/6XZejfd76Y8JU23nnaVDTc"
       },
@@ -1259,22 +1275,6 @@
       "duration_ms": 242074,
       "name": "MALDITO ALCOHOL",
       "url": "https://open.spotify.com/track/1WJwXj50c0du75fIkeEMDY"
-    },
-    {
-      "added_at": "2024-03-08 06:01:00",
-      "album": {
-        "name": "Salvaje Y Tierno",
-        "url": "https://open.spotify.com/album/3le90qgKpBzXiW1qigS89K"
-      },
-      "artists": [
-        {
-          "name": "Bronco",
-          "url": "https://open.spotify.com/artist/0VKh7CQDi9MkUvaBMoK1V0"
-        }
-      ],
-      "duration_ms": 190653,
-      "name": "Oro",
-      "url": "https://open.spotify.com/track/50QgKV8vabHHc7au535IqK"
     },
     {
       "added_at": "2024-03-08 06:01:00",
@@ -1491,22 +1491,6 @@
     {
       "added_at": "2024-03-08 06:01:00",
       "album": {
-        "name": "YO QUISIERA",
-        "url": "https://open.spotify.com/album/0goX73Y7Or1v88yHSd247q"
-      },
-      "artists": [
-        {
-          "name": "Michelle Maciel",
-          "url": "https://open.spotify.com/artist/4WFwvZ4L8FZbt3qubbQJS6"
-        }
-      ],
-      "duration_ms": 213425,
-      "name": "YO QUISIERA",
-      "url": "https://open.spotify.com/track/6oUfleqHtxkXLIGBEZKA9n"
-    },
-    {
-      "added_at": "2024-03-08 06:01:00",
-      "album": {
         "name": "Diamantes y Amaranto",
         "url": "https://open.spotify.com/album/7KBsfhoXIXYBfp9fhZkOrV"
       },
@@ -1519,6 +1503,22 @@
       "duration_ms": 228493,
       "name": "Diamantes y Amaranto",
       "url": "https://open.spotify.com/track/0broc0xlsIJOBHFYEAOcS1"
+    },
+    {
+      "added_at": "2024-03-08 06:01:00",
+      "album": {
+        "name": "YO QUISIERA",
+        "url": "https://open.spotify.com/album/0goX73Y7Or1v88yHSd247q"
+      },
+      "artists": [
+        {
+          "name": "Michelle Maciel",
+          "url": "https://open.spotify.com/artist/4WFwvZ4L8FZbt3qubbQJS6"
+        }
+      ],
+      "duration_ms": 213425,
+      "name": "YO QUISIERA",
+      "url": "https://open.spotify.com/track/6oUfleqHtxkXLIGBEZKA9n"
     },
     {
       "added_at": "2024-03-08 06:01:00",
@@ -1555,6 +1555,22 @@
     {
       "added_at": "2024-03-08 06:01:00",
       "album": {
+        "name": "Menos Mal Que Me Quer\u00edas",
+        "url": "https://open.spotify.com/album/3YCAsPCW0YoyeXIghCfqVW"
+      },
+      "artists": [
+        {
+          "name": "Carolina Ross",
+          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
+        }
+      ],
+      "duration_ms": 157638,
+      "name": "Menos Mal Que Me Quer\u00edas",
+      "url": "https://open.spotify.com/track/0Y6mbQ5tc2w0wLVDwPH0t4"
+    },
+    {
+      "added_at": "2024-03-08 06:01:00",
+      "album": {
         "name": "Tu Maniqu\u00ed",
         "url": "https://open.spotify.com/album/7HkqbCqtwAFIbtgFyeIpRi"
       },
@@ -1571,22 +1587,6 @@
       "duration_ms": 154834,
       "name": "Tu Maniqu\u00ed",
       "url": "https://open.spotify.com/track/5XpvqqKEI3xWS4heKkXjb5"
-    },
-    {
-      "added_at": "2024-03-08 06:01:00",
-      "album": {
-        "name": "Menos Mal Que Me Quer\u00edas",
-        "url": "https://open.spotify.com/album/3YCAsPCW0YoyeXIghCfqVW"
-      },
-      "artists": [
-        {
-          "name": "Carolina Ross",
-          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
-        }
-      ],
-      "duration_ms": 157638,
-      "name": "Menos Mal Que Me Quer\u00edas",
-      "url": "https://open.spotify.com/track/0Y6mbQ5tc2w0wLVDwPH0t4"
     },
     {
       "added_at": "2024-03-08 06:01:00",

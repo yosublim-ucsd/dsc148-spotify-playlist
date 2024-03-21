@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2l1BM6ggRui.md) - [plain]
 
 > 듣고만 있어도 행복한 노래들과 더더욱 행복하세요 ;\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,502 likes - 60 songs - 3 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,503 likes - 60 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2l1BM6ggRui.md) - [plain]
 | 33 | [Thursday Night \(feat.Beenzino\)](https://open.spotify.com/track/6Qm8MRcsr9VlRIGf1AJ1W5) | [Urban Zakapa](https://open.spotify.com/artist/1dOMFM5wDNsENQQW0nl0K8), [Beenzino](https://open.spotify.com/artist/7IrDIIq3j04exsiF3Z7CPg) | [Thursday Night](https://open.spotify.com/album/7GVvjxihGZSqkUokJhSKtq) | 3:30 |
 | 34 | [wish you all to be happy](https://open.spotify.com/track/3vHAC5HrdyefPr5biodJGQ) | [Han All](https://open.spotify.com/artist/4y2MA188txnWeMIw9XwaJS) | [wish you all to be happy](https://open.spotify.com/album/4Z2heFJ5SRDyIyMJlK6TDm) | 3:52 |
 | 35 | [New Day](https://open.spotify.com/track/3TFGNIZDnYtX1biTkWvj9M) | [Paul Kim](https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv) | [Maum, Part\. 1](https://open.spotify.com/album/2qfIkB00pLxeS1KiOwpuVn) | 4:02 |
-| 36 | [At Night](https://open.spotify.com/track/4BiLpvhNDqeRPo065ZMCqB) | [GIRIBOY](https://open.spotify.com/artist/2MtHuR0W2idZdF7x4wddqq) | [Crash Course in Romance OST Part 4](https://open.spotify.com/album/460aXMPaEyerh9lPpwsxCn) | 2:52 |
-| 37 | [Girls](https://open.spotify.com/track/0jRA23cPBShrFIXPGfegQC) | [WENDY](https://open.spotify.com/artist/0FRUZvZNPzM3YJMABJxf2K) | [Seoul Check\-in OST Part 1](https://open.spotify.com/album/1lQLjWafvbyoQ9XUmAZI2L) | 4:36 |
+| 36 | [Girls](https://open.spotify.com/track/0jRA23cPBShrFIXPGfegQC) | [WENDY](https://open.spotify.com/artist/0FRUZvZNPzM3YJMABJxf2K) | [Seoul Check\-in OST Part 1](https://open.spotify.com/album/1lQLjWafvbyoQ9XUmAZI2L) | 4:36 |
+| 37 | [At Night](https://open.spotify.com/track/4BiLpvhNDqeRPo065ZMCqB) | [GIRIBOY](https://open.spotify.com/artist/2MtHuR0W2idZdF7x4wddqq) | [Crash Course in Romance OST Part 4](https://open.spotify.com/album/460aXMPaEyerh9lPpwsxCn) | 2:52 |
 | 38 | [A Day For Me](https://open.spotify.com/track/5bbGJRlU89huFWFR3GE42e) | [Shinae An](https://open.spotify.com/artist/5lt17V0z9fzfwRDFCZVWIQ) | [Doctor Cha \(Original Television Soundtrack\) Pt\. 5](https://open.spotify.com/album/3CGiV1dCJ0v7p2urd4vAuU) | 2:28 |
 | 39 | [Seoul Night \(feat\. Beenzino\)](https://open.spotify.com/track/2lWfyAvn4jbmGD0JWJ5DgL) | [Urban Zakapa](https://open.spotify.com/artist/1dOMFM5wDNsENQQW0nl0K8), [Beenzino](https://open.spotify.com/artist/7IrDIIq3j04exsiF3Z7CPg) | [Seoul Night \(feat\. Beenzino\)](https://open.spotify.com/album/5UStHDWClB34bZbajHTBJ3) | 3:25 |
 | 40 | [Come N Goes](https://open.spotify.com/track/0sFa0fKXoPn9yrNDYKqW4p) | [CHUNG HA](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y) | [Querencia](https://open.spotify.com/album/3ZifpmJjOEkpYCNSIq352p) | 3:31 |
@@ -65,8 +65,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2l1BM6ggRui.md) - [plain]
 | 55 | [Once In a Summer \(feat\. Ashley Alisha & Kelsey Kuan\)](https://open.spotify.com/track/5O0ug2pQVceJN72y7Flsbn) | [Dept](https://open.spotify.com/artist/48JtfAggQQpfUXQNxkGm5U), [Ashley Alisha](https://open.spotify.com/artist/63P6hjn73jNbnEFT0gKWKk), [Kelsey Kuan](https://open.spotify.com/artist/4aWzckAj2ZOeSBbLyYXtR9) | [Once In a Summer](https://open.spotify.com/album/7mieRQVDslmslEystozZ0t) | 3:20 |
 | 56 | [FREE SMILE](https://open.spotify.com/track/1TEv7OolmCRlF8TuZiNczt) | [Lee Hyori](https://open.spotify.com/artist/4FjoOJAndC0s9ZJUo6VGc5), [LEE CHANHYUK](https://open.spotify.com/artist/4RkTSLr5Qf79FfUkeaDKbl) | [Seoul Check\-in OST Part 10](https://open.spotify.com/album/7oCrCB3pOE6zMjHLqnr1r9) | 3:21 |
 | 57 | [For you, my sunshine](https://open.spotify.com/track/54oF8FdfIWO7p5F878iCsS) | [Jukjae](https://open.spotify.com/artist/7bWYN0sHvyH7yv1uefX07U), [Kwon Jin Ah](https://open.spotify.com/artist/0kRAVpQhUUArA8UnYwEdeZ) | [For you, my sunshine](https://open.spotify.com/album/3sHLvvjZeU64ialWeVXnOq) | 3:46 |
-| 58 | [Again](https://open.spotify.com/track/1ZcASz9kDktzYeA7WwnW7u) | [Sam Ock](https://open.spotify.com/artist/0823FxAYBXOeMTOWPeH9HH) | [Again](https://open.spotify.com/album/1qRN5xGg0m1KH0XZO4vN6j) | 3:37 |
-| 59 | [A Perfect Ending](https://open.spotify.com/track/15itaSEmDZt9PVygMrIpTN) | [OKDAL](https://open.spotify.com/artist/43qbEc59aqLydrvuWsrNoE) | [A Perfect Ending](https://open.spotify.com/album/1PLIADtea77VEx1FJEMMLm) | 3:34 |
-| 60 | [You and I in this hard day](https://open.spotify.com/track/6V8sFpmQd1NiK7mGxZiWW7) | [Kassy](https://open.spotify.com/artist/6pU8o91xAS0aWNjj06nQSU) | [Rewind](https://open.spotify.com/album/1JyUU9Ikh2GztSvChAYYdJ) | 3:34 |
+| 58 | [You and I in this hard day](https://open.spotify.com/track/6V8sFpmQd1NiK7mGxZiWW7) | [Kassy](https://open.spotify.com/artist/6pU8o91xAS0aWNjj06nQSU) | [Rewind](https://open.spotify.com/album/1JyUU9Ikh2GztSvChAYYdJ) | 3:34 |
+| 59 | [Again](https://open.spotify.com/track/1ZcASz9kDktzYeA7WwnW7u) | [Sam Ock](https://open.spotify.com/artist/0823FxAYBXOeMTOWPeH9HH) | [Again](https://open.spotify.com/album/1qRN5xGg0m1KH0XZO4vN6j) | 3:37 |
+| 60 | [A Perfect Ending](https://open.spotify.com/track/15itaSEmDZt9PVygMrIpTN) | [OKDAL](https://open.spotify.com/artist/43qbEc59aqLydrvuWsrNoE) | [A Perfect Ending](https://open.spotify.com/album/1PLIADtea77VEx1FJEMMLm) | 3:34 |
 
-Snapshot ID: `MCwxMjZlYzJhMTU1YTQwYTU5NWQxZmYyZGNkYzY5MGZmOTUwY2JkNGEx`
+Snapshot ID: `MCwyMGE0M2QyOGI2NjE3ZTkxMWYyN2IzYjA4ZWM4Y2JiZDFjYzE0ZjBi`

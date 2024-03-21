@@ -4,23 +4,23 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ2fb6SBrzTW.md) - [plain]
 
 > Your go to Afrobeats workout playlist
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,678 likes - 60 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,750 likes - 60 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [UNAVAILABLE \(feat\. Musa Keys\)](https://open.spotify.com/track/2kaH2Z8ezDUKf6fNw250rZ) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [Musa Keys](https://open.spotify.com/artist/414pDI8Y502owCbg7U6Skf) | [Timeless](https://open.spotify.com/album/6lI21W76LD0S3vC55GrfSS) | 2:49 |
 | 2 | [Twe Twe](https://open.spotify.com/track/2khv04F26pnJr4989Maowi) | [Kizz Daniel](https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [Twe Twe](https://open.spotify.com/album/0Cfw8M7pu4fdsYsKvUyFg7) | 2:23 |
-| 3 | [Basquiat](https://open.spotify.com/track/2H0w7oYDjUvgsFlNQ5swIg) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [Work Of Art](https://open.spotify.com/album/2O9VJaLSnwjZ2HPpMaVoPU) | 2:14 |
-| 4 | [YAWA](https://open.spotify.com/track/5tM3Fo4qBqDAwWJ9ZY5AtX) | [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY) | [YAWA](https://open.spotify.com/album/3x4uU6LegVMe04Dn5fLiLw) | 3:00 |
+| 3 | [YAWA](https://open.spotify.com/track/5tM3Fo4qBqDAwWJ9ZY5AtX) | [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY) | [YAWA](https://open.spotify.com/album/3x4uU6LegVMe04Dn5fLiLw) | 3:00 |
+| 4 | [Basquiat](https://open.spotify.com/track/2H0w7oYDjUvgsFlNQ5swIg) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [Work Of Art](https://open.spotify.com/album/2O9VJaLSnwjZ2HPpMaVoPU) | 2:14 |
 | 5 | [Aquafina](https://open.spotify.com/track/59sAr7NvZDeH7oYrkiyZcQ) | [Young Jonn](https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI) | [Aquafina](https://open.spotify.com/album/3mMVoC6HJ8mqcq9qd5GmUC) | 2:48 |
 | 6 | [Big Big Things \(feat\. Kizz Daniel & Seyi Vibez\)](https://open.spotify.com/track/7MaM9JVq1UXAGZQ4JFNXMg) | [Young Jonn](https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI), [Kizz Daniel](https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV), [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [Big Big Things \(feat\. Kizz Daniel & Seyi Vibez\)](https://open.spotify.com/album/2CcOmbLxQFIsm5aQu7VSuJ) | 3:00 |
 | 7 | [KANTE \(feat\. Fave\)](https://open.spotify.com/track/7vKXc90NT5WBm3UTT4iTVG) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [Fave](https://open.spotify.com/artist/4wAqlYtTaaHELEgyCh9KjG) | [Timeless](https://open.spotify.com/album/6lI21W76LD0S3vC55GrfSS) | 3:14 |
 | 8 | [Kolomental](https://open.spotify.com/track/3kqE7QmylUIJV3QXC6arrR) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [Outlaw](https://open.spotify.com/album/1oSN6MKvpXR5WOHnsPi05w) | 3:17 |
-| 9 | [Terminator](https://open.spotify.com/track/1oq33HJBs0rDmjjZ2rVFyG) | [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf) | [Terminator](https://open.spotify.com/album/27KnOMqnTWsnfBMXZ4YEuZ) | 3:54 |
-| 10 | [Ojapiano](https://open.spotify.com/track/6WZVnqQ9OZRSGZmXyHHlV3) | [KCee](https://open.spotify.com/artist/7KiINhQdLAupkwvJ0EelGG) | [Ojapiano](https://open.spotify.com/album/1j2D58Awo2MGDL1nAwdF3e) | 2:48 |
+| 9 | [Joha](https://open.spotify.com/track/5UwxpuGHkwiojKDaPC5ZNu) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [Mr\. Money With The Vibe](https://open.spotify.com/album/0lzPMIAYhhUSD2BPT0VQWI) | 2:28 |
+| 10 | [Terminator](https://open.spotify.com/track/1oq33HJBs0rDmjjZ2rVFyG) | [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf) | [Terminator](https://open.spotify.com/album/27KnOMqnTWsnfBMXZ4YEuZ) | 3:54 |
 | 11 | [Go Low](https://open.spotify.com/track/4XOdCFCCortagag6YCi7Qu) | [Pheelz](https://open.spotify.com/artist/5Jv1MsZBh0sqokFq7pU8Xg) | [Go Low](https://open.spotify.com/album/46qAo4a7iWazSa0jzHNa73) | 2:04 |
-| 12 | [DND](https://open.spotify.com/track/4E8EciYYzTKF4REO51XQiS) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [RAVAGE](https://open.spotify.com/album/53oOgXjjaTx42Sy2exYlH9) | 2:46 |
-| 13 | [Joha](https://open.spotify.com/track/5UwxpuGHkwiojKDaPC5ZNu) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [Mr\. Money With The Vibe](https://open.spotify.com/album/0lzPMIAYhhUSD2BPT0VQWI) | 2:28 |
+| 12 | [Ojapiano](https://open.spotify.com/track/6WZVnqQ9OZRSGZmXyHHlV3) | [KCee](https://open.spotify.com/artist/7KiINhQdLAupkwvJ0EelGG) | [Ojapiano](https://open.spotify.com/album/1j2D58Awo2MGDL1nAwdF3e) | 2:48 |
+| 13 | [DND](https://open.spotify.com/track/4E8EciYYzTKF4REO51XQiS) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [RAVAGE](https://open.spotify.com/album/53oOgXjjaTx42Sy2exYlH9) | 2:46 |
 | 14 | [Hot Topic](https://open.spotify.com/track/3MpNAvXaU9awyBXnVTJi5O) | [A\-Star](https://open.spotify.com/artist/1fPa3fXJDNiSCfF9U8uvaT), [Quamina Mp](https://open.spotify.com/artist/7lv12RUXorFKjX5hKtNwUw) | [Hot Topic](https://open.spotify.com/album/3naCf1TqximOxSi71EyBMc) | 3:09 |
 | 15 | [Apollo](https://open.spotify.com/track/1OGZU2zmK6x0UnM3yeZ4lR) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [Outlaw](https://open.spotify.com/album/1oSN6MKvpXR5WOHnsPi05w) | 2:50 |
 | 16 | [Xtra Cool](https://open.spotify.com/track/5F4OfeowSReF93KcH2eUcG) | [Young Jonn](https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI) | [Xtra Cool](https://open.spotify.com/album/0VCIXWb1BjfOfBOLJTOOUL) | 2:30 |
@@ -51,8 +51,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ2fb6SBrzTW.md) - [plain]
 | 41 | [Child's Play](https://open.spotify.com/track/7nr3wqDwJkiSDbcbct67Um) | [Tega Boi Dc](https://open.spotify.com/artist/16CdFOraHt0BYRkeB7gT5M), [Shallipopi](https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU) | [Child's Play](https://open.spotify.com/album/06kfG0SpfO1jgulBUQBLkD) | 2:31 |
 | 42 | [2:30](https://open.spotify.com/track/6upXA8xqJ5heoVw4nd5Zvs) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [2:30](https://open.spotify.com/album/7ASPbaFgWYjGlYIIOewA2L) | 2:18 |
 | 43 | [Ronaldo](https://open.spotify.com/track/5wRZwN6VCb0rWxG2HUbaUx) | [Mohbad](https://open.spotify.com/artist/0a8YNI8VHVPYKIPvCiJDxa) | [Ronaldo](https://open.spotify.com/album/60URysVADvw9jbvTJypX2N) | 2:49 |
-| 44 | [Away](https://open.spotify.com/track/1rZyZOkUjlbfaqTLVvMNqx) | [Tekno](https://open.spotify.com/artist/6IhG3Yxm3UW98jhyBvrIut) | [Away](https://open.spotify.com/album/4p3K0LdEHFQcpTJGeynS9w) | 2:17 |
-| 45 | [Duffel Bag](https://open.spotify.com/track/3d04OfVqip9ZQdvboUsPg3) | [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF) | [Duffel Bag](https://open.spotify.com/album/0SGMYduxnZ8jz9zb6eGnR0) | 2:07 |
+| 44 | [Duffel Bag](https://open.spotify.com/track/3d04OfVqip9ZQdvboUsPg3) | [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF) | [Duffel Bag](https://open.spotify.com/album/0SGMYduxnZ8jz9zb6eGnR0) | 2:07 |
+| 45 | [Away](https://open.spotify.com/track/1rZyZOkUjlbfaqTLVvMNqx) | [Tekno](https://open.spotify.com/artist/6IhG3Yxm3UW98jhyBvrIut) | [Away](https://open.spotify.com/album/4p3K0LdEHFQcpTJGeynS9w) | 2:17 |
 | 46 | [Walking Dead](https://open.spotify.com/track/18jFtQZUqk4n4lzmjweLq5) | [Ayox](https://open.spotify.com/artist/1lxw1eewbvAVmEwJrYUDEx), [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep) | [Walking Dead](https://open.spotify.com/album/2mNsSI2EXm4w1Nn5QkqJFq) | 2:30 |
 | 47 | [Abracadabra](https://open.spotify.com/track/5VcTNeY4BX9zw5SaYPP6jj) | [Rexxie](https://open.spotify.com/artist/5z207JpMeX1oCYVvMKReku), [Naira Marley](https://open.spotify.com/artist/5DfaMudUwkoz6TAPYifqkJ), [Skiibii](https://open.spotify.com/artist/72Z2AhMKpxZjLNnPMyinUE) | [Big Time](https://open.spotify.com/album/1Xx9FuRYRHnop8tqo9Xm7b) | 3:02 |
 | 48 | [For Daddy](https://open.spotify.com/track/3AqnDZV9TZJU6SfuXK90iT) | [Mayorkun](https://open.spotify.com/artist/3DNCUaKdMZcMVJIS7yTskd) | [For Daddy](https://open.spotify.com/album/3i534DhtsQpI3SVgoBH6mf) | 2:33 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ2fb6SBrzTW.md) - [plain]
 | 59 | [PALAZZO](https://open.spotify.com/track/2SaRkvUkzNzL39fBB2hLpt) | [SPINALL](https://open.spotify.com/artist/2NtQA3PY9chI8l65ejZLTP), [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [PALAZZO](https://open.spotify.com/album/2O2xKMqPSpnYYQMk5DPSTf) | 3:06 |
 | 60 | [Kpe Paso](https://open.spotify.com/track/4Mlgf7GD6bbx09N4uxqU3S) | [Wande Coal](https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla), [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr) | [Kpe Paso](https://open.spotify.com/album/4UwYrizY5gCAUZJugVF9DR) | 2:57 |
 
-Snapshot ID: `MCwyOWU0YjVlNzBlMDQ2NjYwNjdiYzFmMmFlNDlhZTQ1MmY2ZDUwZGZh`
+Snapshot ID: `MCw5YWViY2RlMmVhZjM3NTAzZTE3ZWRmMjA0ZDNjOTI2MjVhZWNjNjc5`

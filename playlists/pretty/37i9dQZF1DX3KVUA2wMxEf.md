@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3KVUA2wMxEf.md) - [plain]
 
 > Vibras rastafari para poner en sintonía el corazón.
 
-[Spotify](https://open.spotify.com/user/spotify) - 93,034 likes - 60 songs - 3 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 93,074 likes - 60 songs - 3 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,15 +38,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3KVUA2wMxEf.md) - [plain]
 | 28 | [Lo Más Sincero](https://open.spotify.com/track/6cHswTtZboQAcgZGmJZKWM) | [Dread Mar I](https://open.spotify.com/artist/1aw0Cdl1DIrtUrUA6fGbAR) | [YO](https://open.spotify.com/album/04NS8bfaOfqpH8UxeLFuJX) | 3:26 |
 | 29 | [Tú](https://open.spotify.com/track/0Y1WKjtTEJakcSy1QbKspx) | [Okills](https://open.spotify.com/artist/5byIHYV7DDUKtHPAMyf3lA), [Melissa Robles](https://open.spotify.com/artist/03Qx159jmT9mvmw5YjzvAs) | [Dimensión Caribe](https://open.spotify.com/album/1zsckcApfP5i2PGcGbJttW) | 3:56 |
 | 30 | [Cuando Pienso en Ti](https://open.spotify.com/track/6d49mKNcJT2426oYiC09gJ) | [Lion Reggae](https://open.spotify.com/artist/07RneuQafxLKe0gPYVd2Ko) | [Tierra](https://open.spotify.com/album/4mbl2aKs7pes6EKvInIsLL) | 5:19 |
-| 31 | [Te Robaste Mi Corazón](https://open.spotify.com/track/5fzXA437Mj45Tl5NgXeeq7) | [Fidel Nadal](https://open.spotify.com/artist/7l2wptrNdI4wEHxTlWa6SS) | [Forever Together !](https://open.spotify.com/album/2tmdMhMxeLkpn4X1LgNhht) | 4:03 |
-| 32 | [Pensando En Ti](https://open.spotify.com/track/5XORpyys9dvyjJWpTYeame) | [Quique Neira](https://open.spotify.com/artist/7BfDn0T1IbJiD0U8j27obe) | [Eleven](https://open.spotify.com/album/7fNhdRorm3P66FXPCa6GZt) | 4:09 |
+| 31 | [Pensando En Ti](https://open.spotify.com/track/5XORpyys9dvyjJWpTYeame) | [Quique Neira](https://open.spotify.com/artist/7BfDn0T1IbJiD0U8j27obe) | [Eleven](https://open.spotify.com/album/7fNhdRorm3P66FXPCa6GZt) | 4:09 |
+| 32 | [Te Robaste Mi Corazón](https://open.spotify.com/track/5fzXA437Mj45Tl5NgXeeq7) | [Fidel Nadal](https://open.spotify.com/artist/7l2wptrNdI4wEHxTlWa6SS) | [Forever Together !](https://open.spotify.com/album/2tmdMhMxeLkpn4X1LgNhht) | 4:03 |
 | 33 | [Ay, Ay](https://open.spotify.com/track/4MPPzIxQXworEyDIy0ffdd) | [Matisse](https://open.spotify.com/artist/77aLk6J8ofnVxa1eXK9jiU) | [Tres](https://open.spotify.com/album/0dpI4KeBTPdazVzW1paxqh) | 3:14 |
 | 34 | [Señorita](https://open.spotify.com/track/7gbNeM27pOcRrXOjl49ZyN) | [Temple Sour](https://open.spotify.com/artist/1s5qi7koTDNSvEC71Y3Jg3) | [Pasajeros](https://open.spotify.com/album/7wPX6dyFYxKhSpszngQfhJ) | 4:20 |
 | 35 | [Puedo esperarte](https://open.spotify.com/track/21noFdEzJUoFq2apeT3mXh) | [Riddim](https://open.spotify.com/artist/4nrP6H78NuKzQr9bQxAFVk) | [Buenas Noticias](https://open.spotify.com/album/4XtplkaYKyMzIiIekNBe2n) | 4:11 |
 | 36 | [Armonia de Amor](https://open.spotify.com/track/0FGiRaJJoao1C1pNrqpxQA) | [Gondwana](https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd) | [RAS Portraits](https://open.spotify.com/album/5vqr9fcTKswnFS7WJKPax9) | 3:55 |
 | 37 | [Conexión](https://open.spotify.com/track/526O830Od2gPgcXRyRJOX0) | [Juan Pablo Vega](https://open.spotify.com/artist/2PfyKA4qhjkxUVkerTCxz0) | [Conexión](https://open.spotify.com/album/58gzZSrrL0xaRWJlQ5C4w4) | 3:32 |
-| 38 | [Déjalo Fluir](https://open.spotify.com/track/32occ8ejTn4YM90KhPBAQA) | [Mamita Peyote](https://open.spotify.com/artist/241K0nllagXEonPEu1Yyo8) | [Runfla Calavera](https://open.spotify.com/album/7jSJ3aBEE9ENZrg5LJPAfc) | 3:25 |
-| 39 | [Galán de Combi](https://open.spotify.com/track/1tPs3eSeVINVi3CoQf3biD) | [Laguna Pai](https://open.spotify.com/artist/4NmvNRWDxYHYMKt4yiMljS) | [Atento](https://open.spotify.com/album/3VgzoPLs5aIr6Xk4K1IYOD) | 3:54 |
+| 38 | [Galán de Combi](https://open.spotify.com/track/1tPs3eSeVINVi3CoQf3biD) | [Laguna Pai](https://open.spotify.com/artist/4NmvNRWDxYHYMKt4yiMljS) | [Atento](https://open.spotify.com/album/3VgzoPLs5aIr6Xk4K1IYOD) | 3:54 |
+| 39 | [Déjalo Fluir](https://open.spotify.com/track/32occ8ejTn4YM90KhPBAQA) | [Mamita Peyote](https://open.spotify.com/artist/241K0nllagXEonPEu1Yyo8) | [Runfla Calavera](https://open.spotify.com/album/7jSJ3aBEE9ENZrg5LJPAfc) | 3:25 |
 | 40 | [Te Regalo una Promesa](https://open.spotify.com/track/0OEWFr9nOhfuHaeLcuQaHe) | [Sie7e](https://open.spotify.com/artist/11wOrJLuakmQqTuhXXW2xz) | [Mucha Cosa Buena](https://open.spotify.com/album/2Lvsyubptl5ITRCjy0FTmH) | 3:24 |
 | 41 | [Eres Tú](https://open.spotify.com/track/54PNVT1xT6FDtKUnR7zSsj) | [Raices y Cultura](https://open.spotify.com/artist/1atI7YjIWe7u50rp2CbkCd) | [Mística Raíz](https://open.spotify.com/album/4JStVeGijMSujCyhPs2vAb) | 3:35 |
 | 42 | [En Tus Manos](https://open.spotify.com/track/0IwS12JNt9V2Ur2eI09tpr) | [Riddim](https://open.spotify.com/artist/4nrP6H78NuKzQr9bQxAFVk) | [Donde Brilla el Sol](https://open.spotify.com/album/1zJ6d4lkzKbjSKdPW6CP4T) | 4:08 |
@@ -62,11 +62,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3KVUA2wMxEf.md) - [plain]
 | 52 | [Dicen](https://open.spotify.com/track/4lbUG41pBCWUc0gtc0ukTu) | [Alkilados](https://open.spotify.com/artist/2DP9xStkVVv753RBiEHXQB) | [Los Dueños De La Playa](https://open.spotify.com/album/2zVtWSTT0PPvpN1mSmVsAp) | 2:49 |
 | 53 | [Me cambiaste la vida](https://open.spotify.com/track/2WhlxYJTtXQHYWG6CcnBam) | [Melodycans](https://open.spotify.com/artist/1kjHfeJNTbCFiDwz0xJbNF) | [Una cosa es el ska y otra cosa es el rocksteady](https://open.spotify.com/album/2dhZbX2nJzVIFAKQgOz76C) | 3:29 |
 | 54 | [Placer](https://open.spotify.com/track/6VDVW9NnhfB0J9AzTdyyQq) | [Dos Garza](https://open.spotify.com/artist/7zsTwOXAbIeL7H8hJXgLt8) | [Placer](https://open.spotify.com/album/0e1ZAcg5owwo6xy9lOCiP7) | 2:53 |
-| 55 | [Así](https://open.spotify.com/track/1I2aoG0klUhom3xnQvz6IV) | [Mensajeros Reggae](https://open.spotify.com/artist/33gqwPfmv66I9QO0w5jXoE) | [Así](https://open.spotify.com/album/1Vnxc92RmrxMEoh3wyZFte) | 3:33 |
-| 56 | [Por Ti](https://open.spotify.com/track/6ZC7xd02NYawCQnAYLdLGt) | [Kalacawas](https://open.spotify.com/artist/3dEiQw6wbcXR3VaoYRNXc1) | [Todo Se Puede](https://open.spotify.com/album/5GZWJDXkfDLVRvYsUo0TlD) | 3:59 |
+| 55 | [Por Ti](https://open.spotify.com/track/6ZC7xd02NYawCQnAYLdLGt) | [Kalacawas](https://open.spotify.com/artist/3dEiQw6wbcXR3VaoYRNXc1) | [Todo Se Puede](https://open.spotify.com/album/5GZWJDXkfDLVRvYsUo0TlD) | 3:59 |
+| 56 | [Así](https://open.spotify.com/track/1I2aoG0klUhom3xnQvz6IV) | [Mensajeros Reggae](https://open.spotify.com/artist/33gqwPfmv66I9QO0w5jXoE) | [Así](https://open.spotify.com/album/1Vnxc92RmrxMEoh3wyZFte) | 3:33 |
 | 57 | [El Árbol](https://open.spotify.com/track/1q2GWueMnvjzYGksW2SBPJ) | [Olaya Sound System](https://open.spotify.com/artist/6sVCc3GjCgPU7Vk56h8Zi3) | [El Árbol](https://open.spotify.com/album/5K0vKNaWvRSNKf0EbgUhSu) | 3:31 |
 | 58 | [Cuando Estoy Con Vos](https://open.spotify.com/track/64ibxIzfWFYM2cUTaFyTRb) | [Rondamon](https://open.spotify.com/artist/3rFiEktiHH0wicgmF2HEMP) | [Con Permisito](https://open.spotify.com/album/2L83bqcJ6WfhoWK1zoThRF) | 5:17 |
 | 59 | [Prende](https://open.spotify.com/track/5SAPEts9WtHjBgsMUx51pq) | [Providencia](https://open.spotify.com/artist/5Jfv3Fh8E4Gb8AYLwl4OCv) | [Prende](https://open.spotify.com/album/04MfLrwrB2ts8uHInFBWS1) | 3:51 |
 | 60 | [Sensación](https://open.spotify.com/track/6LbMjdYpQvJxDTgAVqNM0T) | [Contravos](https://open.spotify.com/artist/0q6mxrr4ww5O7gewXHIFMC), [BlackDali](https://open.spotify.com/artist/6fQBCAmdaMg4d9WYOMW58B) | [Actor Espectador](https://open.spotify.com/album/1ZHhYDXil7KaimaJkRa3CF) | 3:49 |
 
-Snapshot ID: `MCw5N2U4YzIzYzc1NThiZDFiMzY1NTJiZDMwN2JhOTZlY2ZjYWZjZWQ5`
+Snapshot ID: `MCxlNGYxNTQ0YzkwMmE4Y2ZjNzVkZTcyMjExZWU2MjgzYTVhYjNlOWNj`

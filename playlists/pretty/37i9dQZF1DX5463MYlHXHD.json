@@ -1,12 +1,12 @@
 {
   "description": "Cumbia pa' volar la chapa con Los Pibes Chorros.",
-  "num_followers": 569013,
+  "num_followers": 569060,
   "original_name": "Cumbia de Barrio",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkMDc4NzkyOTY2ZTUxYzc2ODllODFmNzc0N2VkZjRjY2VmZjU0ODJm",
+  "snapshot_id": "MCxhZjYxZmI2MDI3NTllMDU3ZmIzZTliNDRkNjA4NjUxODQ2YzAyYjFh",
   "tracks": [
     {
       "added_at": "2024-03-15 03:00:00",
@@ -823,26 +823,6 @@
     {
       "added_at": "2024-03-15 03:00:00",
       "album": {
-        "name": "LA T Y LA M | DJ TAO Turreo Sessions #16",
-        "url": "https://open.spotify.com/album/4mvqMbo0qR6NJZV8oCapIm"
-      },
-      "artists": [
-        {
-          "name": "DJ Tao",
-          "url": "https://open.spotify.com/artist/5CA5IqbsFr4hpNLdjgO0BU"
-        },
-        {
-          "name": "La T y La M",
-          "url": "https://open.spotify.com/artist/1FxPMQ9A0882eNDx3ZkD6B"
-        }
-      ],
-      "duration_ms": 140109,
-      "name": "LA T Y LA M | DJ TAO Turreo Sessions #16",
-      "url": "https://open.spotify.com/track/06lBXefqaA4ZUhJCNKkhIv"
-    },
-    {
-      "added_at": "2024-03-15 03:00:00",
-      "album": {
         "name": "Yendo No, Llegando",
         "url": "https://open.spotify.com/album/3b9MJ9krpxzCmggrlOpIyP"
       },
@@ -871,6 +851,26 @@
       "duration_ms": 211875,
       "name": "Yendo No, Llegando",
       "url": "https://open.spotify.com/track/166qsYi2wR3u6qfg7wrh1r"
+    },
+    {
+      "added_at": "2024-03-15 03:00:00",
+      "album": {
+        "name": "LA T Y LA M | DJ TAO Turreo Sessions #16",
+        "url": "https://open.spotify.com/album/4mvqMbo0qR6NJZV8oCapIm"
+      },
+      "artists": [
+        {
+          "name": "DJ Tao",
+          "url": "https://open.spotify.com/artist/5CA5IqbsFr4hpNLdjgO0BU"
+        },
+        {
+          "name": "La T y La M",
+          "url": "https://open.spotify.com/artist/1FxPMQ9A0882eNDx3ZkD6B"
+        }
+      ],
+      "duration_ms": 140109,
+      "name": "LA T Y LA M | DJ TAO Turreo Sessions #16",
+      "url": "https://open.spotify.com/track/06lBXefqaA4ZUhJCNKkhIv"
     },
     {
       "added_at": "2024-03-15 03:00:00",
@@ -1495,26 +1495,6 @@
     {
       "added_at": "2024-03-15 03:00:00",
       "album": {
-        "name": "TEKA | E6",
-        "url": "https://open.spotify.com/album/7smhd2hrlFPI6KQ1A8MEay"
-      },
-      "artists": [
-        {
-          "name": "DJ Alex",
-          "url": "https://open.spotify.com/artist/7ygNQCdpQWW7iSWAxDhvhI"
-        },
-        {
-          "name": "EL NOBA",
-          "url": "https://open.spotify.com/artist/5MVcNHzaXuOnZSrOav2Kav"
-        }
-      ],
-      "duration_ms": 137500,
-      "name": "TEKA | E6",
-      "url": "https://open.spotify.com/track/1jl9TPNUehmS24N84LYuuT"
-    },
-    {
-      "added_at": "2024-03-15 03:00:00",
-      "album": {
         "name": "Pinta",
         "url": "https://open.spotify.com/album/3NuIVDa1eiDxLTciy5J4Ha"
       },
@@ -1535,6 +1515,26 @@
       "duration_ms": 177950,
       "name": "Pinta",
       "url": "https://open.spotify.com/track/7nXutPtu8epp2VJ300iN2A"
+    },
+    {
+      "added_at": "2024-03-15 03:00:00",
+      "album": {
+        "name": "TEKA | E6",
+        "url": "https://open.spotify.com/album/7smhd2hrlFPI6KQ1A8MEay"
+      },
+      "artists": [
+        {
+          "name": "DJ Alex",
+          "url": "https://open.spotify.com/artist/7ygNQCdpQWW7iSWAxDhvhI"
+        },
+        {
+          "name": "EL NOBA",
+          "url": "https://open.spotify.com/artist/5MVcNHzaXuOnZSrOav2Kav"
+        }
+      ],
+      "duration_ms": 137500,
+      "name": "TEKA | E6",
+      "url": "https://open.spotify.com/track/1jl9TPNUehmS24N84LYuuT"
     },
     {
       "added_at": "2024-03-15 03:00:00",
@@ -1639,6 +1639,22 @@
     {
       "added_at": "2024-03-15 03:00:00",
       "album": {
+        "name": "\u00danico en Su Especie",
+        "url": "https://open.spotify.com/album/1wU7LHfFlihSDZUJ6EU1Tf"
+      },
+      "artists": [
+        {
+          "name": "El Tecla",
+          "url": "https://open.spotify.com/artist/6TY0JuXMcvhCLtHYBJ4iXH"
+        }
+      ],
+      "duration_ms": 225280,
+      "name": "A Chillar a Otra Parte",
+      "url": "https://open.spotify.com/track/6rbRGG6KLfSCLW5EN4VlsI"
+    },
+    {
+      "added_at": "2024-03-15 03:00:00",
+      "album": {
         "name": "A Pura Magia",
         "url": "https://open.spotify.com/album/5nq0qwygH9AzxkSRZVzGWR"
       },
@@ -1691,22 +1707,6 @@
       "duration_ms": 338437,
       "name": "Tamo Chelo - Remix",
       "url": "https://open.spotify.com/track/0utOOrcBB24KZil9cgAwXB"
-    },
-    {
-      "added_at": "2024-03-15 03:00:00",
-      "album": {
-        "name": "\u00danico en Su Especie",
-        "url": "https://open.spotify.com/album/1wU7LHfFlihSDZUJ6EU1Tf"
-      },
-      "artists": [
-        {
-          "name": "El Tecla",
-          "url": "https://open.spotify.com/artist/6TY0JuXMcvhCLtHYBJ4iXH"
-        }
-      ],
-      "duration_ms": 225280,
-      "name": "A Chillar a Otra Parte",
-      "url": "https://open.spotify.com/track/6rbRGG6KLfSCLW5EN4VlsI"
     },
     {
       "added_at": "2024-03-15 03:00:00",
@@ -1827,22 +1827,6 @@
     {
       "added_at": "2024-03-15 03:00:00",
       "album": {
-        "name": "Homenaje a Colombia",
-        "url": "https://open.spotify.com/album/5QeijHM4iXhRVqrw9HBpg7"
-      },
-      "artists": [
-        {
-          "name": "Jimmy Y Su Combo Negro",
-          "url": "https://open.spotify.com/artist/2Kos2hpYxoC9itiKmODwNY"
-        }
-      ],
-      "duration_ms": 232760,
-      "name": "La Pollera de Jimmy",
-      "url": "https://open.spotify.com/track/0JMpgXpB4lGwRa8SCo9ADD"
-    },
-    {
-      "added_at": "2024-03-15 03:00:00",
-      "album": {
         "name": "Ritmo Sustancia",
         "url": "https://open.spotify.com/album/1MozmfW6obuEiUg2EqqQA1"
       },
@@ -1859,34 +1843,18 @@
     {
       "added_at": "2024-03-15 03:00:00",
       "album": {
-        "name": "Corriendo La Coneja",
-        "url": "https://open.spotify.com/album/1F5Q8ICEMk5MeAfDbyLM5m"
+        "name": "Homenaje a Colombia",
+        "url": "https://open.spotify.com/album/5QeijHM4iXhRVqrw9HBpg7"
       },
       "artists": [
         {
-          "name": "Yerba Brava",
-          "url": "https://open.spotify.com/artist/7JRxvyluWYJ3M3ssmZrVs6"
+          "name": "Jimmy Y Su Combo Negro",
+          "url": "https://open.spotify.com/artist/2Kos2hpYxoC9itiKmODwNY"
         }
       ],
-      "duration_ms": 267813,
-      "name": "Vamos A Bailar",
-      "url": "https://open.spotify.com/track/657aFPrDGW4f57rkoCG4lS"
-    },
-    {
-      "added_at": "2024-03-15 03:00:00",
-      "album": {
-        "name": "En Este Futuro Brillante, No Puedes Olvidar Tu Pasado",
-        "url": "https://open.spotify.com/album/2IjvMrgOdotCUq7lbWjt7H"
-      },
-      "artists": [
-        {
-          "name": "Los Turros",
-          "url": "https://open.spotify.com/artist/6QVEWdYtBkaJcboEtH5FeB"
-        }
-      ],
-      "duration_ms": 186644,
-      "name": "Loquita",
-      "url": "https://open.spotify.com/track/7F6i3fwkcbP0y853HwGFgU"
+      "duration_ms": 232760,
+      "name": "La Pollera de Jimmy",
+      "url": "https://open.spotify.com/track/0JMpgXpB4lGwRa8SCo9ADD"
     },
     {
       "added_at": "2024-03-15 03:00:00",
@@ -1907,58 +1875,34 @@
     {
       "added_at": "2024-03-15 03:00:00",
       "album": {
-        "name": "FUMAN TWO",
-        "url": "https://open.spotify.com/album/6qwax9ljt11tiPcoHo4IGy"
+        "name": "En Este Futuro Brillante, No Puedes Olvidar Tu Pasado",
+        "url": "https://open.spotify.com/album/2IjvMrgOdotCUq7lbWjt7H"
       },
       "artists": [
         {
-          "name": "DT.Bilardo",
-          "url": "https://open.spotify.com/artist/5kfMU816qY0ujqEt3xIHqR"
-        },
-        {
-          "name": "Perro Primo",
-          "url": "https://open.spotify.com/artist/4MUsDaGK0nPDJvYSoaoFUA"
+          "name": "Los Turros",
+          "url": "https://open.spotify.com/artist/6QVEWdYtBkaJcboEtH5FeB"
         }
       ],
-      "duration_ms": 114860,
-      "name": "FUMAN TWO",
-      "url": "https://open.spotify.com/track/2GhH5I2KqMwPMA0xdHsjog"
+      "duration_ms": 186644,
+      "name": "Loquita",
+      "url": "https://open.spotify.com/track/7F6i3fwkcbP0y853HwGFgU"
     },
     {
       "added_at": "2024-03-15 03:00:00",
       "album": {
-        "name": "Mi \u00danico Amor",
-        "url": "https://open.spotify.com/album/4hAN3ZyBVH5jvhjgW2ZAO8"
+        "name": "Corriendo La Coneja",
+        "url": "https://open.spotify.com/album/1F5Q8ICEMk5MeAfDbyLM5m"
       },
       "artists": [
         {
-          "name": "Nestor En Bloque",
-          "url": "https://open.spotify.com/artist/2to8xMgnoxHCXPF7eWJPvg"
+          "name": "Yerba Brava",
+          "url": "https://open.spotify.com/artist/7JRxvyluWYJ3M3ssmZrVs6"
         }
       ],
-      "duration_ms": 181054,
-      "name": "Mi \u00danico Amor",
-      "url": "https://open.spotify.com/track/5TULG1mm08mEfvJVfC8Zcv"
-    },
-    {
-      "added_at": "2024-03-15 03:00:00",
-      "album": {
-        "name": "Tranka",
-        "url": "https://open.spotify.com/album/6Bi393XdWKfAdxKDcHJqKU"
-      },
-      "artists": [
-        {
-          "name": "Lauty Gram",
-          "url": "https://open.spotify.com/artist/6WAnQfBWB7ddhujPsFQ0pG"
-        },
-        {
-          "name": "Omar Varela",
-          "url": "https://open.spotify.com/artist/5xIOUIBQhGFX7HIj8lhdyU"
-        }
-      ],
-      "duration_ms": 164323,
-      "name": "Tranka",
-      "url": "https://open.spotify.com/track/2pgRcDDZacxRdkPHxQy4ea"
+      "duration_ms": 267813,
+      "name": "Vamos A Bailar",
+      "url": "https://open.spotify.com/track/657aFPrDGW4f57rkoCG4lS"
     },
     {
       "added_at": "2024-03-15 03:00:00",
@@ -1975,6 +1919,22 @@
       "duration_ms": 263955,
       "name": "Entre Vos Yo y el Cielo",
       "url": "https://open.spotify.com/track/4YchG5vZOhKYTnZh5Lj5WB"
+    },
+    {
+      "added_at": "2024-03-15 03:00:00",
+      "album": {
+        "name": "Mi \u00danico Amor",
+        "url": "https://open.spotify.com/album/4hAN3ZyBVH5jvhjgW2ZAO8"
+      },
+      "artists": [
+        {
+          "name": "Nestor En Bloque",
+          "url": "https://open.spotify.com/artist/2to8xMgnoxHCXPF7eWJPvg"
+        }
+      ],
+      "duration_ms": 181054,
+      "name": "Mi \u00danico Amor",
+      "url": "https://open.spotify.com/track/5TULG1mm08mEfvJVfC8Zcv"
     },
     {
       "added_at": "2024-03-15 03:00:00",
@@ -1999,6 +1959,46 @@
       "duration_ms": 177340,
       "name": "Cumbia del Recuerdo",
       "url": "https://open.spotify.com/track/3c0laaLc9hCQy8TB79noyh"
+    },
+    {
+      "added_at": "2024-03-15 03:00:00",
+      "album": {
+        "name": "Tranka",
+        "url": "https://open.spotify.com/album/6Bi393XdWKfAdxKDcHJqKU"
+      },
+      "artists": [
+        {
+          "name": "Lauty Gram",
+          "url": "https://open.spotify.com/artist/6WAnQfBWB7ddhujPsFQ0pG"
+        },
+        {
+          "name": "Omar Varela",
+          "url": "https://open.spotify.com/artist/5xIOUIBQhGFX7HIj8lhdyU"
+        }
+      ],
+      "duration_ms": 164323,
+      "name": "Tranka",
+      "url": "https://open.spotify.com/track/2pgRcDDZacxRdkPHxQy4ea"
+    },
+    {
+      "added_at": "2024-03-15 03:00:00",
+      "album": {
+        "name": "FUMAN TWO",
+        "url": "https://open.spotify.com/album/6qwax9ljt11tiPcoHo4IGy"
+      },
+      "artists": [
+        {
+          "name": "DT.Bilardo",
+          "url": "https://open.spotify.com/artist/5kfMU816qY0ujqEt3xIHqR"
+        },
+        {
+          "name": "Perro Primo",
+          "url": "https://open.spotify.com/artist/4MUsDaGK0nPDJvYSoaoFUA"
+        }
+      ],
+      "duration_ms": 114860,
+      "name": "FUMAN TWO",
+      "url": "https://open.spotify.com/track/2GhH5I2KqMwPMA0xdHsjog"
     },
     {
       "added_at": "2024-03-15 03:00:00",
@@ -2155,22 +2155,6 @@
     {
       "added_at": "2024-03-15 03:00:00",
       "album": {
-        "name": "A Todo Remix",
-        "url": "https://open.spotify.com/album/35MkUNVLgqZFRxlXc3Tgod"
-      },
-      "artists": [
-        {
-          "name": "Puro Movimiento DJ",
-          "url": "https://open.spotify.com/artist/4iIPpaogGdOBKNikJTz04q"
-        }
-      ],
-      "duration_ms": 207121,
-      "name": "D\u00e9jala",
-      "url": "https://open.spotify.com/track/3LVOGJxNkd5b6nJoqLFpeT"
-    },
-    {
-      "added_at": "2024-03-15 03:00:00",
-      "album": {
         "name": "Por la V\u00eda R\u00e1pida",
         "url": "https://open.spotify.com/album/2flujZvgYJgwZQlcUh7WE3"
       },
@@ -2187,6 +2171,22 @@
     {
       "added_at": "2024-03-15 03:00:00",
       "album": {
+        "name": "A Todo Remix",
+        "url": "https://open.spotify.com/album/35MkUNVLgqZFRxlXc3Tgod"
+      },
+      "artists": [
+        {
+          "name": "Puro Movimiento DJ",
+          "url": "https://open.spotify.com/artist/4iIPpaogGdOBKNikJTz04q"
+        }
+      ],
+      "duration_ms": 207121,
+      "name": "D\u00e9jala",
+      "url": "https://open.spotify.com/track/3LVOGJxNkd5b6nJoqLFpeT"
+    },
+    {
+      "added_at": "2024-03-15 03:00:00",
+      "album": {
         "name": "Triste Palomita",
         "url": "https://open.spotify.com/album/2wyrgXe79p4vY4Y0QlyFB7"
       },
@@ -2199,38 +2199,6 @@
       "duration_ms": 256463,
       "name": "Quiero una chica",
       "url": "https://open.spotify.com/track/41sxeJzkP7TMCEDAvmaXBO"
-    },
-    {
-      "added_at": "2024-03-15 03:00:00",
-      "album": {
-        "name": "La 2da del Boxeador",
-        "url": "https://open.spotify.com/album/0qhvY5ilIjQJsQMw7Y4T2X"
-      },
-      "artists": [
-        {
-          "name": "Repiola",
-          "url": "https://open.spotify.com/artist/14rsSkmuSkij7q3SNsZSHQ"
-        }
-      ],
-      "duration_ms": 104973,
-      "name": "Vuelve a Mi Lado",
-      "url": "https://open.spotify.com/track/318gvXrsPsP1r3ocHcFIcH"
-    },
-    {
-      "added_at": "2024-03-15 03:00:00",
-      "album": {
-        "name": "La Humildad Es Sin\u00f3nimo de Grandeza",
-        "url": "https://open.spotify.com/album/4iba2EK9nj04oQkb8G3Cfk"
-      },
-      "artists": [
-        {
-          "name": "La Liga",
-          "url": "https://open.spotify.com/artist/0WG7v7wcDK5ZsUHjnZo9E6"
-        }
-      ],
-      "duration_ms": 208744,
-      "name": "Siguiendo la Luna",
-      "url": "https://open.spotify.com/track/6ubKrtwTufLEAWj65SqVUD"
     },
     {
       "added_at": "2024-03-15 03:00:00",
@@ -2259,6 +2227,22 @@
     {
       "added_at": "2024-03-15 03:00:00",
       "album": {
+        "name": "La Humildad Es Sin\u00f3nimo de Grandeza",
+        "url": "https://open.spotify.com/album/4iba2EK9nj04oQkb8G3Cfk"
+      },
+      "artists": [
+        {
+          "name": "La Liga",
+          "url": "https://open.spotify.com/artist/0WG7v7wcDK5ZsUHjnZo9E6"
+        }
+      ],
+      "duration_ms": 208744,
+      "name": "Siguiendo la Luna",
+      "url": "https://open.spotify.com/track/6ubKrtwTufLEAWj65SqVUD"
+    },
+    {
+      "added_at": "2024-03-15 03:00:00",
+      "album": {
         "name": "Moviendo la Cola",
         "url": "https://open.spotify.com/album/3eQBSHn1c0CBiDY1LrMs3O"
       },
@@ -2271,6 +2255,22 @@
       "duration_ms": 200373,
       "name": "Siempre Es la Misma Situaci\u00f3n",
       "url": "https://open.spotify.com/track/0m3IyXg5G0fjN7juaFihTv"
+    },
+    {
+      "added_at": "2024-03-15 03:00:00",
+      "album": {
+        "name": "La 2da del Boxeador",
+        "url": "https://open.spotify.com/album/0qhvY5ilIjQJsQMw7Y4T2X"
+      },
+      "artists": [
+        {
+          "name": "Repiola",
+          "url": "https://open.spotify.com/artist/14rsSkmuSkij7q3SNsZSHQ"
+        }
+      ],
+      "duration_ms": 104973,
+      "name": "Vuelve a Mi Lado",
+      "url": "https://open.spotify.com/track/318gvXrsPsP1r3ocHcFIcH"
     },
     {
       "added_at": "2024-03-15 03:00:00",

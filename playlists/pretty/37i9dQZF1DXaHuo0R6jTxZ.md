@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaHuo0R6jTxZ.md) - [plain]
 
 > Ya Wailee! Get ready for some serious 90s nostalgia\. Cover : Amr Diab
 
-[Spotify](https://open.spotify.com/user/spotify) - 102,619 likes - 40 songs - 3 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 102,639 likes - 40 songs - 3 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaHuo0R6jTxZ.md) - [plain]
 | 36 | [مالي صبر](https://open.spotify.com/track/65XBOq8w2igm2wqkMNSouA) | [Assi El Hallani](https://open.spotify.com/artist/7Awwm6soGOr1umJYw53xdT) | [احلى العيون](https://open.spotify.com/album/5hdgejTa41BMFTZwcB1h6d) | 5:22 |
 | 37 | [Ahl El Malama](https://open.spotify.com/track/5ROxylabINxB4l9Y6vxaBt) | [Mohamed Mohie](https://open.spotify.com/artist/0kx1MvP6InHp52v64yCRx4) | [Roh Alby](https://open.spotify.com/album/09iSw6kGLKGL65mTxXUHp9) | 4:37 |
 | 38 | [Ya Leila Disco](https://open.spotify.com/track/04IvZrvzumdtX3sH2AmHXG) | [Hisham Abbas](https://open.spotify.com/artist/6OQ7sfN0G1E2pZMhYW9wjG) | [Ya Leila](https://open.spotify.com/album/651XwngqHNHNhwEsvOUL10) | 4:20 |
-| 39 | [Nassam Alayna El Hawa](https://open.spotify.com/track/4d7DrWvGPobIFPRi84gjm0) | [Fairuz](https://open.spotify.com/artist/0dwFxqYkvZLSA6U6XfQcDV) | [Ya Reit](https://open.spotify.com/album/10Vt1wAg974t1k5A8Z1jwp) | 4:03 |
-| 40 | [Akli Tar](https://open.spotify.com/track/4FSa6KE2uao5dTcQJRaQQ5) | [Alaa Zalzali](https://open.spotify.com/artist/0fGQD0MLEXWiZgMamVcC11) | [Je Suis Malade](https://open.spotify.com/album/5RNaW8jDyrMC7llIQJximN) | 4:08 |
+| 39 | [Akli Tar](https://open.spotify.com/track/4FSa6KE2uao5dTcQJRaQQ5) | [Alaa Zalzali](https://open.spotify.com/artist/0fGQD0MLEXWiZgMamVcC11) | [Je Suis Malade](https://open.spotify.com/album/5RNaW8jDyrMC7llIQJximN) | 4:08 |
+| 40 | [Nassam Alayna El Hawa](https://open.spotify.com/track/4d7DrWvGPobIFPRi84gjm0) | [Fairuz](https://open.spotify.com/artist/0dwFxqYkvZLSA6U6XfQcDV) | [Ya Reit](https://open.spotify.com/album/10Vt1wAg974t1k5A8Z1jwp) | 4:03 |
 
-Snapshot ID: `MCwyNjJjYmFjMjEzMDkxYzI1NDFjYTg0Nzg2ZDM2OGViM2Y5NWIzYmIz`
+Snapshot ID: `MCxmYTdjNWJiMDdlODE3NDk3MDg2ZjExMDhjOWZkN2FlNjMzODczNGNj`

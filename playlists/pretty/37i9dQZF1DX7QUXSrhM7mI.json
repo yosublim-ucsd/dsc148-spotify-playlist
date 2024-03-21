@@ -1,12 +1,12 @@
 {
   "description": "The soundtrack to lazing around.",
-  "num_followers": 74743,
+  "num_followers": 74835,
   "original_name": "Lazy Afternoon",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3YzA4OGIyNDU0NWJlZjc5M2VhMzM4NTdmZWVmNTNhNWIxNTkyYzRk",
+  "snapshot_id": "MCxiOGYwMzdmODRjM2E2ODAxMmUzNmQ3YzQ1M2FkOTA5NTVjMjI5MDZl",
   "tracks": [
     {
       "added_at": "2024-03-15 04:00:00",
@@ -503,22 +503,6 @@
     {
       "added_at": "2024-03-15 04:00:00",
       "album": {
-        "name": "Too Good to be True",
-        "url": "https://open.spotify.com/album/57y7NpfTINlnrNitu8vwft"
-      },
-      "artists": [
-        {
-          "name": "Kacey Musgraves",
-          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
-        }
-      ],
-      "duration_ms": 160053,
-      "name": "Too Good to be True",
-      "url": "https://open.spotify.com/track/4vIiVs5JoNfqqRi5o7jAIb"
-    },
-    {
-      "added_at": "2024-03-15 04:00:00",
-      "album": {
         "name": "Now And Then",
         "url": "https://open.spotify.com/album/2qQP2NgOoH6HqknnbpJmIk"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 130666,
       "name": "Butterflies (feat. AURORA)",
       "url": "https://open.spotify.com/track/1dWUBCoztAMZcqec1CAE6z"
+    },
+    {
+      "added_at": "2024-03-15 04:00:00",
+      "album": {
+        "name": "Deeper Well",
+        "url": "https://open.spotify.com/album/5SxZmGwc4eJuPp6PcO4JgJ"
+      },
+      "artists": [
+        {
+          "name": "Kacey Musgraves",
+          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
+        }
+      ],
+      "duration_ms": 160053,
+      "name": "Too Good to be True",
+      "url": "https://open.spotify.com/track/27RDQ0TfxzWMlQFuKrPT11"
     },
     {
       "added_at": "2024-03-15 04:00:00",

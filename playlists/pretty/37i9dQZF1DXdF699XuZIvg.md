@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdF699XuZIvg.md) - [plain]
 
 > Hit the road and scream your heart out!
 
-[Spotify](https://open.spotify.com/user/spotify) - 698,248 likes - 75 songs - 4 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 698,222 likes - 75 songs - 4 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdF699XuZIvg.md) - [plain]
 | 40 | [Bulletproof](https://open.spotify.com/track/0baguYeIsl8FtArOv1jV5o) | [Godsmack](https://open.spotify.com/artist/6gZq1Q6bdOxsUPUG1TaFbF) | [When Legends Rise](https://open.spotify.com/album/2wOY4tZ3bcJecD5ypBPHg9) | 2:57 |
 | 41 | [Faith](https://open.spotify.com/track/5MYsvAONqcsIVOwu2HTQ3p) | [Limp Bizkit](https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb) | [Three Dollar Bill, Y'all $](https://open.spotify.com/album/3I34EprFC0rlAO4pKNeX1t) | 2:26 |
 | 42 | [Wild Side \(2021\- Remaster\)](https://open.spotify.com/track/3C7tm62iWcPuIbZRUp5AZU) | [Mötley Crüe](https://open.spotify.com/artist/0cc6vw3VN8YlIcvr1v7tBL) | [Girls, Girls, Girls \(40th Anniversary; 2021 \- Remaster\)](https://open.spotify.com/album/2nB8qIQjQyde3TIjCW2Hvx) | 4:41 |
-| 43 | [Go With The Flow](https://open.spotify.com/track/45DElIx0dXqUH4A88yQFdE) | [Queens of the Stone Age](https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn) | [Songs For The Deaf](https://open.spotify.com/album/58HZZpS0wxJKwGjoerg0mk) | 3:07 |
-| 44 | [Girls Got Rhythm](https://open.spotify.com/track/6Wn3pdFtAcnYJyJVITwt7N) | [AC/DC](https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un) | [Highway to Hell](https://open.spotify.com/album/10v912xgTZbjAtYfyKWJCS) | 3:23 |
+| 43 | [Girls Got Rhythm](https://open.spotify.com/track/6Wn3pdFtAcnYJyJVITwt7N) | [AC/DC](https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un) | [Highway to Hell](https://open.spotify.com/album/10v912xgTZbjAtYfyKWJCS) | 3:23 |
+| 44 | [Go With The Flow](https://open.spotify.com/track/45DElIx0dXqUH4A88yQFdE) | [Queens of the Stone Age](https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn) | [Songs For The Deaf](https://open.spotify.com/album/58HZZpS0wxJKwGjoerg0mk) | 3:07 |
 | 45 | [Lo/Hi](https://open.spotify.com/track/25YlltWXRb9k7KbrEBRuhJ) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | ["Let's Rock"](https://open.spotify.com/album/0aA9rYw8PEv9G7tVIJ9dKg) | 2:57 |
 | 46 | [Breed](https://open.spotify.com/track/5mJGLBNJM0GULqAoL5mb9C) | [Nirvana](https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh) | [Nevermind \(Remastered\)](https://open.spotify.com/album/2guirTSEqLizK7j9i1MTTZ) | 3:04 |
 | 47 | [We Die Young](https://open.spotify.com/track/5Ds35L9KpUDKgSxZ6whuoQ) | [Alice In Chains](https://open.spotify.com/artist/64tNsm6TnZe2zpcMVMOoHL) | [Facelift](https://open.spotify.com/album/5LbHbwejgZXRZAgzVAjkhj) | 2:32 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdF699XuZIvg.md) - [plain]
 | 74 | [Hunted](https://open.spotify.com/track/2o34ml66r7gmwmsIHcg6ym) | [Egypt Central](https://open.spotify.com/artist/1d5wNTZ8WZYE5WuXXjug9w) | [Hunted](https://open.spotify.com/album/6A0zg9omFxGDUqKLAC5Cog) | 2:53 |
 | 75 | [That's My Jam](https://open.spotify.com/track/5q8PArV4Tbt6efvP7qxp0u) | [Skindred](https://open.spotify.com/artist/3jTlKw98Ql1jGRPYqhqHap) | [Big Tings](https://open.spotify.com/album/3zzPgycVf0JRD1Fj6JdLam) | 3:16 |
 
-Snapshot ID: `MCxhNTVhZDhhMDNmMjliYTI0OTQzNmJiOWQyZTFhMTNmYzcxZGU2M2My`
+Snapshot ID: `MCwwNTkxZjQyOGE3YjZhZWRkMTcxMDE2YWJhMWUxMzE3YWZiNWE1NTYy`

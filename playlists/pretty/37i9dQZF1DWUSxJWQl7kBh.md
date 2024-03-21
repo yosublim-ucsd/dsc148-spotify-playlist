@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUSxJWQl7kBh.md) - [plain]
 
 > Los corridos más placosos y perrones del 2023\. Natanael Cano en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 86,321 likes - 50 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 86,460 likes - 50 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUSxJWQl7kBh.md) - [plain]
 | 49 | [El Pickles](https://open.spotify.com/track/24QFCrOqc9XKHO1gXBtQwG) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC), [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [Don't Stop The Magic](https://open.spotify.com/album/5I5DtMQDh1PnflVUtTLMN7) | 3:02 |
 | 50 | [En Corto](https://open.spotify.com/track/6PlLiHoRcjCgK5som2T3ph) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P), [Chino Pacas](https://open.spotify.com/artist/2rmkQLzj0k4nZdQehOUByO) | [Nata Montana](https://open.spotify.com/album/507VZINfvVEAyrcPbJuOVU) | 3:02 |
 
-Snapshot ID: `MCxlMTIyNTdlZWYzNDRhYzQ2MDY1NWFjZjllNTcyYzcxYWJhYWZkMTdk`
+Snapshot ID: `MCwwYjExYzY1NzgxMjNlOGJmYTI1MjJmZjVhZWRlNTAzOWE3YmY3OGQ4`

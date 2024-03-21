@@ -661,6 +661,24 @@
     },
     {
       "album": {
+        "name": "The Sidekicks/Tigers Jaw Split",
+        "url": "https://open.spotify.com/album/41AdVMruSzbCC6sFr4U9gV"
+      },
+      "artists": [
+        {
+          "name": "Tigers Jaw",
+          "url": "https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8"
+        }
+      ],
+      "date_added": "2024-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161560,
+      "name": "Jimmy Piersall",
+      "url": "https://open.spotify.com/track/3q7nHa859vyl6zYjvM02Be"
+    },
+    {
+      "album": {
         "name": "spin",
         "url": "https://open.spotify.com/album/2xSppFiPUTWqZ9cdF6CQnY"
       },

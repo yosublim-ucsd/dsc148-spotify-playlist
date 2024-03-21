@@ -1,5 +1,5 @@
 {
-  "2024-03-20": 14996,
+  "2024-03-21": 14981,
   "date_first_scraped": "2023-11-04",
   "description": "\ub2f9\uc2e0\uc758 \ud558\ub8e8. \uc624\ub298\ub3c4 \uc798\ud558\uace0 \uc788\uc5b4\uc694. (Listen to K-Pop comforting songs)",
   "name": "\uc798\ud588\uc5b4 \uc624\ub298\ub3c4 (You Did Well.)",
@@ -223,6 +223,24 @@
       "duration_ms": 216160,
       "name": "Deeper",
       "url": "https://open.spotify.com/track/6T2XxCNGgkbFvyyuJNN3fQ"
+    },
+    {
+      "album": {
+        "name": "Don't be sad",
+        "url": "https://open.spotify.com/album/3a3bUbDgnFcZPHz6Fj4P5D"
+      },
+      "artists": [
+        {
+          "name": "Ku One Chan",
+          "url": "https://open.spotify.com/artist/6ClAFFqc8VEOKSGTrvy8V5"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210850,
+      "name": "Don't be sad",
+      "url": "https://open.spotify.com/track/6SU5PLvEAozLFwKRCI26NT"
     },
     {
       "album": {
@@ -993,24 +1011,6 @@
       "duration_ms": 179026,
       "name": "\uc218\uace0\ud588\uc5b4, \uc624\ub298\ub3c4 Cheer Up",
       "url": "https://open.spotify.com/track/74S870utHcrils7QiOw0Jh"
-    },
-    {
-      "album": {
-        "name": "\uc2ac\ud37c\ud558\uc9c0\ub9c8 Don't be sad",
-        "url": "https://open.spotify.com/album/3a3bUbDgnFcZPHz6Fj4P5D"
-      },
-      "artists": [
-        {
-          "name": "Ku One Chan",
-          "url": "https://open.spotify.com/artist/6ClAFFqc8VEOKSGTrvy8V5"
-        }
-      ],
-      "date_added": "2023-11-03",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 210850,
-      "name": "\uc2ac\ud37c\ud558\uc9c0\ub9c8 Don't be sad",
-      "url": "https://open.spotify.com/track/6SU5PLvEAozLFwKRCI26NT"
     },
     {
       "album": {

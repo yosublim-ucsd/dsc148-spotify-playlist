@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJ0VqA3hnyRn.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/43ZED10qAFnfZZIy8nTgHy">Theron Thomas</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 280 likes - 248 songs - 14 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 281 likes - 249 songs - 14 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -111,8 +111,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJ0VqA3hnyRn.md) - [plain]
 | 101 | [Know You Better \(feat\. Fabolous & Pusha T\)](https://open.spotify.com/track/4on9QW1gRc1etKGIubQzWn) | [Omarion](https://open.spotify.com/artist/0f5nVCcR06GX8Qikz0COtT), [Fabolous](https://open.spotify.com/artist/0YWxKQj2Go9CGHCp77UOyy), [Pusha T](https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy) | [Know You Better \(feat\. Fabolous & Pusha T\)](https://open.spotify.com/album/0nmW7UfAZynPbnkff9gE9f) | 4:47 |
 | 102 | [Priceless](https://open.spotify.com/track/4Zw1r9tBYeD961hTGANm7v) | [Trey Songz](https://open.spotify.com/artist/2iojnBLj0qIMiKPvVhLnsH) | [Tremaine the Album](https://open.spotify.com/album/5gQtvMHA7yqdzKXrHpe63C) | 3:52 |
 | 103 | [Sexy Beaches \(feat\. Chloe Angelides\)](https://open.spotify.com/track/4QjPFQa2qSqn1GKHwb976V) | [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg), [Chloe Angelides](https://open.spotify.com/artist/79A4RmgwxYGIDkqQDUHLXK) | [Globalization](https://open.spotify.com/album/4EUf4YyNjuXypWY6W5wEDm) | 3:57 |
-| 104 | [Oh Africa](https://open.spotify.com/track/6Kz15VD322cOE7kE1vxO9M) | [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [Oh Africa \(Pepsi Version\)](https://open.spotify.com/album/3H1Lef1jjve7DIPBPTS7mP) | 3:21 |
-| 105 | [Birthday Girl](https://open.spotify.com/track/7IoLdpqB5igE13t12SKV8g) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Special](https://open.spotify.com/album/1NgFBv1PxMG1zhFDW1OrRr) | 3:07 |
+| 104 | [Birthday Girl](https://open.spotify.com/track/7IoLdpqB5igE13t12SKV8g) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Special](https://open.spotify.com/album/1NgFBv1PxMG1zhFDW1OrRr) | 3:07 |
+| 105 | [Oh Africa](https://open.spotify.com/track/6Kz15VD322cOE7kE1vxO9M) | [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [Oh Africa \(Pepsi Version\)](https://open.spotify.com/album/3H1Lef1jjve7DIPBPTS7mP) | 3:21 |
 | 106 | [Crazy](https://open.spotify.com/track/1nmypDEMIhxlgvZViMUmoZ) | [Kelly Rowland](https://open.spotify.com/artist/3AuMNF8rQAKOzjYppFNAoB) | [Crazy](https://open.spotify.com/album/6fyg81ZmARpHaxNte8X5NE) | 3:05 |
 | 107 | [My Life Your Entertainment](https://open.spotify.com/track/1uOLXjOFHCkkTZKlPFClsz) | [T.I.](https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT), [USHER](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj) | [Paper Trail](https://open.spotify.com/album/5PfepkNWgRR2DI02Y8AawC) | 4:56 |
 | 108 | [Can't Make This Up](https://open.spotify.com/track/1H78gtfbgSHZC3ENcded8O) | [Kevin Gates](https://open.spotify.com/artist/1gPhS1zisyXr5dHTYZyiMe) | [By Any Means](https://open.spotify.com/album/5ZzFFF7wSMmGaIWjAHElnW) | 3:29 |
@@ -255,6 +255,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJ0VqA3hnyRn.md) - [plain]
 | 245 | [Perfectionist](https://open.spotify.com/track/3LVOpdtSQ4hWAJX4MNzvlK) | [Asher Roth](https://open.spotify.com/artist/1wgY8huggK60P5nvYrwcYT), [R\. City](https://open.spotify.com/artist/4TH4BHy0LdBi3dpBW4P2UX), [Beanie Sigel](https://open.spotify.com/artist/0tCtGc5vt29zFZp6KXzN50) | [Asleep In The Bread Aisle \(Expanded Edition\)](https://open.spotify.com/album/6gNayQdn99Ga2g2UMma5Rc) | 3:56 |
 | 246 | [Fete You](https://open.spotify.com/track/21ILpXgkletL9kEvMZRknT) | [R\. City](https://open.spotify.com/artist/4TH4BHy0LdBi3dpBW4P2UX), [Deli Banger](https://open.spotify.com/artist/3SEStgS4TnJvgUjqGPvt5b) | [Follow Me](https://open.spotify.com/album/3cgAgfEmTg3z9P2FeJJXmG) | 4:20 |
 | 247 | [Treat](https://open.spotify.com/track/4ZiqVkjqQ5vgCWmMbo8wBM) | [Rice Krispies Treats](https://open.spotify.com/artist/7sypsCkKclWN3euFcaJIf6) | [Treat](https://open.spotify.com/album/2rzEqrSxpm9uQ2W6epyXre) | 2:46 |
-| 248 | [Closer](https://open.spotify.com/track/4Lar2nRAUCSGFNbw7995gi) | [Jah Patriot](https://open.spotify.com/artist/4W5RKsjBgeGJk5JgikxmZn) | [Blind Justice](https://open.spotify.com/album/5v24HOnEY07CArXQReEC84) | 3:56 |
+| 248 | [Badonthebeat](https://open.spotify.com/track/6CjgPFN7Y2Sly314epQUSi) | [Malibu Babie](https://open.spotify.com/artist/30BzssruVp26rt8bIe6LcZ) | [Malibu Babie SZN: Vol I](https://open.spotify.com/album/0baOUkjYE0kLhwWaGwdu78) | 2:24 |
+| 249 | [Closer](https://open.spotify.com/track/4Lar2nRAUCSGFNbw7995gi) | [Jah Patriot](https://open.spotify.com/artist/4W5RKsjBgeGJk5JgikxmZn) | [Blind Justice](https://open.spotify.com/album/5v24HOnEY07CArXQReEC84) | 3:56 |
 
-Snapshot ID: `Mjg1MTUwMjAsMDAwMDAwMDBmODljZWM0NzdkZWExNDhhOTE1MjQxZmVkOTYxYTQyZQ==`
+Snapshot ID: `Mjg1MTY0NjAsMDAwMDAwMDAzOTRjMGQ2YzZiZmY0OTdhMWJhZWEyMTgxZGViZjU0OA==`

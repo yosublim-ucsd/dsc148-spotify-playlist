@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8WMG8VPSOJC.md) - [plain]
 
 > Nothing but beautiful country love songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,709,257 likes - 85 songs - 4 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,709,461 likes - 85 songs - 4 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,15 +22,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8WMG8VPSOJC.md) - [plain]
 | 12 | [You're Still The One](https://open.spotify.com/track/1wb4P4F0sxAQ2KXrRvsx6n) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Come On Over](https://open.spotify.com/album/4UMe0Ods7kygK6OISasZe9) | 3:32 |
 | 13 | [Your Man](https://open.spotify.com/track/1WzAeadSKJhqykZFbJNmQv) | [Josh Turner](https://open.spotify.com/artist/7vCtweS8UVAXTyau2j0rDT) | [Your Man](https://open.spotify.com/album/5NATaOfEAcyQFATqWZRKLO) | 3:31 |
 | 14 | [Tennessee Orange](https://open.spotify.com/track/3fl4zil6HJ0N1FL3YIRwdC) | [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0) | [Tennessee Orange](https://open.spotify.com/album/1cdfMISICAlFDByLA2PYe3) | 3:43 |
-| 15 | [You Make It Easy](https://open.spotify.com/track/2TXtN9MoV308Y0z1HvyTfV) | [Jason Aldean](https://open.spotify.com/artist/3FfvYsEGaIb52QPXhg4DcH) | [Rearview Town](https://open.spotify.com/album/0m3ZCK4dSvyq6KUzEWdMhE) | 3:13 |
-| 16 | [Heaven](https://open.spotify.com/track/1HXy5I3HTWq8OvxCn0z7G7) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [Kane Brown \(Deluxe Edition\)](https://open.spotify.com/album/4UoCJkoqgUmaWMiWifq4vp) | 2:59 |
+| 15 | [Heaven](https://open.spotify.com/track/1HXy5I3HTWq8OvxCn0z7G7) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [Kane Brown \(Deluxe Edition\)](https://open.spotify.com/album/4UoCJkoqgUmaWMiWifq4vp) | 2:59 |
+| 16 | [You Make It Easy](https://open.spotify.com/track/2TXtN9MoV308Y0z1HvyTfV) | [Jason Aldean](https://open.spotify.com/artist/3FfvYsEGaIb52QPXhg4DcH) | [Rearview Town](https://open.spotify.com/album/0m3ZCK4dSvyq6KUzEWdMhE) | 3:13 |
 | 17 | [The Painter](https://open.spotify.com/track/6UoKX6uLJwhsnyTp5k5StP) | [Cody Johnson](https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I) | [The Painter](https://open.spotify.com/album/5KxDhlSxJGEOcaTnqKwdYu) | 3:31 |
 | 18 | [Watermelon Moonshine](https://open.spotify.com/track/3sYBFUXTv0STUoUINx9Qe8) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Bell Bottom Country](https://open.spotify.com/album/06q6BDUpP6OS8Xnx3YC2M0) | 3:28 |
 | 19 | [Forever After All](https://open.spotify.com/track/6IBcOGPsniK3Pso1wHIhew) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [What You See Ain't Always What You Get \(Deluxe Edition\)](https://open.spotify.com/album/25TJxI6ZH6XjT8geRQAFz5) | 3:52 |
 | 20 | [Forever and Ever, Amen](https://open.spotify.com/track/1ipcb9qXpSHWhSUvdxJhsx) | [Randy Travis](https://open.spotify.com/artist/1pTuR132U5b4Rizal2Pr7m) | [Always & Forever](https://open.spotify.com/album/28ZWOeiZ8l4Uydl3hZjvgv) | 3:32 |
 | 21 | [Millionaire](https://open.spotify.com/track/68JS5SFTnW5Yv9Vzw81Jf0) | [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [From A Room: Volume 2](https://open.spotify.com/album/24fkX2Gdqw4a6pR9BUYbE5) | 3:30 |
 | 22 | [Thinking 'Bout You \(feat\. MacKenzie Porter\)](https://open.spotify.com/track/5eUpUFdFaAeovPau6lQkqK) | [Dustin Lynch](https://open.spotify.com/artist/1dID9zgn0OV0Y8ud7Mh2tS), [MacKenzie Porter](https://open.spotify.com/artist/6nXco5Q3cJJ0ZutnBOsSpq) | [Blue In The Sky](https://open.spotify.com/album/2u0DD4sNHOcgbuJrJyMUu3) | 2:51 |
-| 23 | [Never Til Now \(feat\. Brett Young\)](https://open.spotify.com/track/4232gJU5ljjFmKaPh0cKds) | [Ashley Cooke](https://open.spotify.com/artist/2qwXeRk8VBAegbUnf3xdyi), [Brett Young](https://open.spotify.com/artist/0fiWOxhsBsQQvFDtxUQWo0) | [Already Drank That Beer](https://open.spotify.com/album/38kLDWmm1uaKAtvYTT3ZAI) | 2:53 |
+| 23 | [never til now](https://open.spotify.com/track/4232gJU5ljjFmKaPh0cKds) | [Ashley Cooke](https://open.spotify.com/artist/2qwXeRk8VBAegbUnf3xdyi), [Brett Young](https://open.spotify.com/artist/0fiWOxhsBsQQvFDtxUQWo0) | [Already Drank That Beer](https://open.spotify.com/album/38kLDWmm1uaKAtvYTT3ZAI) | 2:53 |
 | 24 | [Rumor](https://open.spotify.com/track/56eGOeSsqdg3FLxdo83TwV) | [Lee Brice](https://open.spotify.com/artist/5Zq7R5qmi58ByYyBQTlNuk) | [Lee Brice](https://open.spotify.com/album/3GyH4lUfzEkbxlaW5xTYYL) | 3:18 |
 | 25 | [Islands in the Stream](https://open.spotify.com/track/4mnOVRRXsaqg9Nb041xR8u) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU), [Kenny Rogers](https://open.spotify.com/artist/4tw2Lmn9tTPUv7Gy7mVPI4) | [Dolly](https://open.spotify.com/album/3QmIn4Ilj5fV1eRbYzt21P) | 4:09 |
 | 26 | [Would You Go With Me](https://open.spotify.com/track/1KhrAWvLIjRlQIJtSTgvsi) | [Josh Turner](https://open.spotify.com/artist/7vCtweS8UVAXTyau2j0rDT) | [Your Man](https://open.spotify.com/album/5NATaOfEAcyQFATqWZRKLO) | 3:48 |
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8WMG8VPSOJC.md) - [plain]
 | 35 | [Next Thing You Know](https://open.spotify.com/track/2lNTHWu2I5Tcz9ukWsV5Jj) | [Jordan Davis](https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI) | [Next Thing You Know](https://open.spotify.com/album/7Joe4M8FRFyVxmKUSndVqp) | 2:55 |
 | 36 | [Made For You](https://open.spotify.com/track/7vF3xkCMvZjAe2nTWY0uQZ) | [Jake Owen](https://open.spotify.com/artist/1n2pb9Tsfe4SwAjmUac6YT) | [Greetings From...Jake](https://open.spotify.com/album/6DcjgwmNJdsl2BODdwPOH6) | 3:58 |
 | 37 | [Every Night Every Morning](https://open.spotify.com/track/4qbibbQ1yK0rPl0JUJS0bz) | [Maddie & Tae](https://open.spotify.com/artist/34bhyY8jfKez7uKakMfy4y) | [Every Night Every Morning](https://open.spotify.com/album/5T5eTFklQfQHczrSfV7qej) | 3:16 |
-| 38 | [This Kiss](https://open.spotify.com/track/5EYWGM3Ns3iYew8ws0FatB) | [Faith Hill](https://open.spotify.com/artist/25NQNriVT2YbSW80ILRWJa) | [Faith](https://open.spotify.com/album/2lKDDrmx5aqyBRkho5ljn5) | 3:14 |
-| 39 | [5 Foot 9](https://open.spotify.com/track/6AqwH2Y9FJwhUE2dCSkw1u) | [Tyler Hubbard](https://open.spotify.com/artist/3BEV5FcxOtkQJ7lLRKMh3V) | [5 Foot 9](https://open.spotify.com/album/5CTNA7y4WYhLcCd8ijsnRr) | 3:09 |
+| 38 | [5 Foot 9](https://open.spotify.com/track/6AqwH2Y9FJwhUE2dCSkw1u) | [Tyler Hubbard](https://open.spotify.com/artist/3BEV5FcxOtkQJ7lLRKMh3V) | [5 Foot 9](https://open.spotify.com/album/5CTNA7y4WYhLcCd8ijsnRr) | 3:09 |
+| 39 | [This Kiss](https://open.spotify.com/track/5EYWGM3Ns3iYew8ws0FatB) | [Faith Hill](https://open.spotify.com/artist/25NQNriVT2YbSW80ILRWJa) | [Faith](https://open.spotify.com/album/2lKDDrmx5aqyBRkho5ljn5) | 3:14 |
 | 40 | [Thank God](https://open.spotify.com/track/1brnLTvarI9D1hLP6z2Ar8) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE), [Katelyn Brown](https://open.spotify.com/artist/2GB8NPGTvSHk3KwmxtVvaB) | [Different Man](https://open.spotify.com/album/7dfTBn7wtgKEchVmyipBl1) | 2:54 |
 | 41 | [Greatest Love Story](https://open.spotify.com/track/2yQZwi1P8AkkxxFhQ8rMEK) | [LANCO](https://open.spotify.com/artist/2lRH2dgU5Kk4Bc5phmII4T) | [Hallelujah Nights](https://open.spotify.com/album/3he0Uva3KD5aNSHpJm9H90) | 3:42 |
 | 42 | [My Girl](https://open.spotify.com/track/3izNaTiYdotdPL0Bs76JqO) | [Dylan Scott](https://open.spotify.com/artist/78YqeIji3mgAS2K1Maca6x) | [Dylan Scott \(Deluxe Edition\)](https://open.spotify.com/album/2zSuxzKE7PIi9LhCk3uL6o) | 3:17 |
@@ -58,8 +58,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8WMG8VPSOJC.md) - [plain]
 | 48 | [I Don't Dance](https://open.spotify.com/track/5aj0xPGiEUN3aI2oOYu14S) | [Lee Brice](https://open.spotify.com/artist/5Zq7R5qmi58ByYyBQTlNuk) | [I Don't Dance \(Deluxe Edition\)](https://open.spotify.com/album/2XIhZ9IjqoIN5V6dfKHzCn) | 3:41 |
 | 49 | [Yours](https://open.spotify.com/track/3I4WFddKpe2PGZWFh7f10J) | [Russell Dickerson](https://open.spotify.com/artist/1E2AEtxaFaJtH0lO7kgNKw) | [Yours](https://open.spotify.com/album/6NxQDh433Rl4EQXT6QiQCE) | 3:36 |
 | 50 | [Big, Big Plans](https://open.spotify.com/track/7yNJCsUH3tXlpQiHSsAc5l) | [Chris Lane](https://open.spotify.com/artist/68abRTdO4meYReMWHvBYb0) | [Big, Big Plans](https://open.spotify.com/album/7xVbpLEzt8IQn82IBSMPzu) | 3:07 |
-| 51 | [Glory Days](https://open.spotify.com/track/7qaMlLPdwNiiU1Uiy1oAdO) | [Gabby Barrett](https://open.spotify.com/artist/6Iz3eq2aQGFf7TbGT2iahL) | [Glory Days](https://open.spotify.com/album/0aRxuDLQsKlZMgz61rb3t8) | 2:42 |
-| 52 | [Somebody Like That](https://open.spotify.com/track/4K7wet87HnlWKi0CXWvg1i) | [Tenille Arts](https://open.spotify.com/artist/0gSAxSvAApQc71cTpoXDFu) | [Love,Heartbreak, & Everything in Between](https://open.spotify.com/album/478FbS6cYoaEYreO0H4YOx) | 3:18 |
+| 51 | [Somebody Like That](https://open.spotify.com/track/4K7wet87HnlWKi0CXWvg1i) | [Tenille Arts](https://open.spotify.com/artist/0gSAxSvAApQc71cTpoXDFu) | [Love,Heartbreak, & Everything in Between](https://open.spotify.com/album/478FbS6cYoaEYreO0H4YOx) | 3:18 |
+| 52 | [Glory Days](https://open.spotify.com/track/7qaMlLPdwNiiU1Uiy1oAdO) | [Gabby Barrett](https://open.spotify.com/artist/6Iz3eq2aQGFf7TbGT2iahL) | [Glory Days](https://open.spotify.com/album/0aRxuDLQsKlZMgz61rb3t8) | 2:42 |
 | 53 | [Mind On You](https://open.spotify.com/track/7rr3gguU3TcVnLZD9VzASE) | [George Birge](https://open.spotify.com/artist/27R1aBy7FfkYevfYen4sMp) | [Mind On You](https://open.spotify.com/album/0FVH9WJPHicjhOLfsPpnxL) | 2:57 |
 | 54 | [I Could Use a Love Song](https://open.spotify.com/track/09iyGiljLWRYXdRazFkdtJ) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [HERO \(Deluxe Edition\)](https://open.spotify.com/album/4sSXylKcBB3p47VfrBJlfK) | 3:16 |
 | 55 | [Dance With You](https://open.spotify.com/track/5SIb4S2seQAeCHPXxiNHBL) | [Brett Young](https://open.spotify.com/artist/0fiWOxhsBsQQvFDtxUQWo0) | [Dance With You](https://open.spotify.com/album/7rbVJCe9cnXniQ9cgJW7lp) | 3:03 |
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8WMG8VPSOJC.md) - [plain]
 | 84 | [How Do I Live](https://open.spotify.com/track/1PJ1JyZJg3aZgZQfg3ciWn) | [Trisha Yearwood](https://open.spotify.com/artist/3XlIhgydjvC4EniPFZT20j) | [Ballads](https://open.spotify.com/album/2C0OBNu8hYwn5vxWUainU5) | 4:02 |
 | 85 | [Love You Like I Used To](https://open.spotify.com/track/1D7cfiC5mxqHfTCcOiRBej) | [Russell Dickerson](https://open.spotify.com/artist/1E2AEtxaFaJtH0lO7kgNKw) | [Love You Like I Used To](https://open.spotify.com/album/7odU4foqIpRNmUSblazLBq) | 3:06 |
 
-Snapshot ID: `MCxiNmVmYTM4NWQwNjA1NTkzZjg1MjQzMWNhNDU3N2Q2YTQzOTZiODcy`
+Snapshot ID: `MCw3Y2Y0ZDFmZmNhMGYxMjc2MzNhZWEyY2Y0Zjc1OTAxZjQxYjg1NGMy`

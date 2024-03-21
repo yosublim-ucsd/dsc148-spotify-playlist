@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9c9fpd0lxJ5.md) - [plain]
 
 > indie tunes to make you shine bby :\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 447,126 likes - 100 songs - 5 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 447,140 likes - 100 songs - 5 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,8 +56,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9c9fpd0lxJ5.md) - [plain]
 | 46 | [Corolla 94](https://open.spotify.com/track/2n9rhvlYHPaMEFOmw5Y1QX) | [Simon Grossmann](https://open.spotify.com/artist/6t38N9HASTn9ca0PIxfReQ) | [Corolla 94](https://open.spotify.com/album/0ntx5OUeKXWlmEiXHh7jXN) | 3:21 |
 | 47 | [SIN MIRAR \- Midnight Generation Remix](https://open.spotify.com/track/51KDO4YS0RVlHRt0qaYj6h) | [Solo Fernández](https://open.spotify.com/artist/0bvP91QlkYvAFP71Cw6PkM), [CLUBZ](https://open.spotify.com/artist/6MoZZABXeQwEmzmcwICxwK), [Midnight Generation](https://open.spotify.com/artist/4CKIGHCZRzNoiNDSaW5eaq) | [SIN MIRAR \(Midnight Generation Remix\)](https://open.spotify.com/album/5SOIjOz7nVuNsix1KXBylg) | 4:52 |
 | 48 | [Locochona](https://open.spotify.com/track/63huxKkkuUPoMzOyYJnEkV) | [Cariño](https://open.spotify.com/artist/7fWD0BSDlixbj6YNQyHTLh), [Girl Ultra](https://open.spotify.com/artist/7i1CyQ1fogh4bkj3EPj3ls) | [Locochona](https://open.spotify.com/album/6BzRhIEFVhtaKekLzRnxlX) | 2:28 |
-| 49 | [Como Si Fuera La Primera Vez](https://open.spotify.com/track/0B5yal7lcwBap5UOyrSl96) | [Tufic](https://open.spotify.com/artist/5vtHlotcrr5pZQUgdnozWV), [Dstance](https://open.spotify.com/artist/1NxTfbylQiyMQ8yOFxG3x2) | [Como Si Fuera La Primera Vez](https://open.spotify.com/album/2ZWunVkn3GD7klxMoCZHLQ) | 2:56 |
-| 50 | [Disco de Oro](https://open.spotify.com/track/1Wm8HQmsWZr1JFqnNLdhMI) | [Little Jesus](https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit) | [Disco de Oro](https://open.spotify.com/album/1ywMOLYln5Df2bF70jtydj) | 4:21 |
+| 49 | [Disco de Oro](https://open.spotify.com/track/1Wm8HQmsWZr1JFqnNLdhMI) | [Little Jesus](https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit) | [Disco de Oro](https://open.spotify.com/album/1ywMOLYln5Df2bF70jtydj) | 4:21 |
+| 50 | [Como Si Fuera La Primera Vez](https://open.spotify.com/track/0B5yal7lcwBap5UOyrSl96) | [Tufic](https://open.spotify.com/artist/5vtHlotcrr5pZQUgdnozWV), [Dstance](https://open.spotify.com/artist/1NxTfbylQiyMQ8yOFxG3x2) | [Como Si Fuera La Primera Vez](https://open.spotify.com/album/2ZWunVkn3GD7klxMoCZHLQ) | 2:56 |
 | 51 | [maracuyá](https://open.spotify.com/track/47D4eR0SaFkuo6vXEqFI0h) | [Carlos Colosio](https://open.spotify.com/artist/2kAfu4SJeTLKbvAnjbT2Au) | [maracuyá](https://open.spotify.com/album/7Gpi18GWmvz5jalQ0GsZ07) | 2:18 |
 | 52 | [Si Tú No Vuelves](https://open.spotify.com/track/37jtZLmqnI6JMVXXIWboVH) | [Isla de Caras](https://open.spotify.com/artist/0GUxqzAYRCveTfqBLhojnF) | [Flores Robadas](https://open.spotify.com/album/1Lxh8VM5Q8fBA811bVKTPy) | 3:21 |
 | 53 | [Tu Forma](https://open.spotify.com/track/6SullLVOVzuWkaCCHJhQaS) | [Dromedarios Mágicos](https://open.spotify.com/artist/3UP83Ekm9Jse6j0dWZJlH9) | [Tu Forma](https://open.spotify.com/album/5C4E1kwoa7VWHEXIwdEOoK) | 2:34 |
@@ -76,8 +76,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9c9fpd0lxJ5.md) - [plain]
 | 66 | [Me Haces Bien](https://open.spotify.com/track/4atv9K7c3t74jl9H7ZSdcu) | [Ms\. Ambar](https://open.spotify.com/artist/0jgJv4J29BJiJu1luw2SdA), [Samtwenty](https://open.spotify.com/artist/0TlO93nJUFn6FAGj0YugEO), [Desert Niños](https://open.spotify.com/artist/2Ch5zHsrWSpgq7g0WI2UFD), [Castellano](https://open.spotify.com/artist/6UO0OmWRTSoZCTmbpHRf91) | [Me Haces Bien](https://open.spotify.com/album/6Ruqdzq72gVxv0cwv1zdqC) | 3:27 |
 | 67 | [Un día más](https://open.spotify.com/track/5mXYPoqiOCab0lTbHqbYTO) | [Paul Alone](https://open.spotify.com/artist/6bdtalFIKenjGPCQVI2gtE) | [Un día más](https://open.spotify.com/album/3JqQExIwMGkaMcitZoN2TT) | 3:22 |
 | 68 | [Mi vida en llamas \(feat\. Buscabulla\)](https://open.spotify.com/track/79kbKtYtvrxWq2Zig0gtBK) | [Alex Anwandter](https://open.spotify.com/artist/0M8uC0u1YRUGCieOKmQF02), [Buscabulla](https://open.spotify.com/artist/0MoaBi6dSquXp6rrlqlF8R) | [Mi vida en llamas \(feat\. Buscabulla\)](https://open.spotify.com/album/7q70ajI1NZeBm8FIpLACy5) | 4:48 |
-| 69 | [Eso Que Me Das](https://open.spotify.com/track/76Xv0phxmn6MyCxY3K00Wa) | [Juan Pablo Vega](https://open.spotify.com/artist/2PfyKA4qhjkxUVkerTCxz0), [Esteman](https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R) | [Eso Que Me Das](https://open.spotify.com/album/0WQ1ixBjLMPw4uK0vZnIh3) | 3:47 |
-| 70 | [Reconciliados](https://open.spotify.com/track/1udMSoGRgHpRvPMqCuc4m2) | [Samantha Sánchez](https://open.spotify.com/artist/1GhW0GVy12AcLQc5kA14PJ) | [Reconciliados](https://open.spotify.com/album/35XiSHghDUxUBzj7oXDau3) | 2:49 |
+| 69 | [Reconciliados](https://open.spotify.com/track/1udMSoGRgHpRvPMqCuc4m2) | [Samantha Sánchez](https://open.spotify.com/artist/1GhW0GVy12AcLQc5kA14PJ) | [Reconciliados](https://open.spotify.com/album/35XiSHghDUxUBzj7oXDau3) | 2:49 |
+| 70 | [Eso Que Me Das](https://open.spotify.com/track/76Xv0phxmn6MyCxY3K00Wa) | [Juan Pablo Vega](https://open.spotify.com/artist/2PfyKA4qhjkxUVkerTCxz0), [Esteman](https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R) | [Eso Que Me Das](https://open.spotify.com/album/0WQ1ixBjLMPw4uK0vZnIh3) | 3:47 |
 | 71 | [Nostalgia](https://open.spotify.com/track/3wwHxBjK4Y1IohNUVgwX31) | [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [Nostalgia](https://open.spotify.com/album/056KBSR2KBMankHXTbizsL) | 2:55 |
 | 72 | [Get Lost In The Music](https://open.spotify.com/track/09z2LpPORefMOJKYyJQShL) | [Ambar Lucid](https://open.spotify.com/artist/4nzV0hThyodYzrwksnS86G) | [Get Lost In The Music](https://open.spotify.com/album/5FBk0BFXqwMrtdrxxfa21B) | 3:49 |
 | 73 | [Volver A Empezar](https://open.spotify.com/track/2UuR56kahTzNGArpn3PWEF) | [Kaia Lana](https://open.spotify.com/artist/2w1kIJBDjYnpHHVLiTn3FJ) | [Volver A Empezar](https://open.spotify.com/album/2u7Y1Qyval9xBgqWo26ivN) | 2:55 |
@@ -88,13 +88,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9c9fpd0lxJ5.md) - [plain]
 | 78 | [tdbn](https://open.spotify.com/track/3fLmwbhdw0dgBYYSTvT3v5) | [Bratty](https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn) | [tdbn](https://open.spotify.com/album/6bdoqQybs5gW8m92VMwVPJ) | 3:19 |
 | 79 | [Por qué te quiero tanto?](https://open.spotify.com/track/5gTFFnnIds7moFhePvYToE) | [Paz Carrara](https://open.spotify.com/artist/09mGQqsZ1C5wVCsjycNaIg) | [Por qué te quiero tanto?](https://open.spotify.com/album/2zzOpbnXDcj9myQf76Fcih) | 3:51 |
 | 80 | [Rompecabezas](https://open.spotify.com/track/2pT8BGhoG1InTRD3LIjyB8) | [Solo Fernández](https://open.spotify.com/artist/0bvP91QlkYvAFP71Cw6PkM) | [Multicolor](https://open.spotify.com/album/3Q6G0bA46mkuuYWGXvaVAH) | 5:32 |
-| 81 | [Talk Too Much](https://open.spotify.com/track/1klV5fgwM7BJYN01s8WYAm) | [Luna Luna](https://open.spotify.com/artist/5TlEHNqVreukNnk4aj7mVr) | [Talk Too Much](https://open.spotify.com/album/2nCLBUPR0M5n5jX0vkWN66) | 3:17 |
-| 82 | [FLOTANDO](https://open.spotify.com/track/40OkDypNOibhDLHZ94bKQc) | [Angela Torres](https://open.spotify.com/artist/6LZA6PhNCwUfHzqfpN1nYL) | [FLOTANDO](https://open.spotify.com/album/2P2zEMA1YeWmLGNrxGvHBY) | 2:42 |
+| 81 | [FLOTANDO](https://open.spotify.com/track/40OkDypNOibhDLHZ94bKQc) | [Angela Torres](https://open.spotify.com/artist/6LZA6PhNCwUfHzqfpN1nYL) | [FLOTANDO](https://open.spotify.com/album/2P2zEMA1YeWmLGNrxGvHBY) | 2:42 |
+| 82 | [Talk Too Much](https://open.spotify.com/track/1klV5fgwM7BJYN01s8WYAm) | [Luna Luna](https://open.spotify.com/artist/5TlEHNqVreukNnk4aj7mVr) | [Talk Too Much](https://open.spotify.com/album/2nCLBUPR0M5n5jX0vkWN66) | 3:17 |
 | 83 | [Para No Verte Más](https://open.spotify.com/track/1gzbiNMJlLlMISFKaZc7yu) | [Planeta No](https://open.spotify.com/artist/47hetBUhKhfBmk8nXeriqN) | [Para No Verte Más](https://open.spotify.com/album/5pM0YNN8lzjKLlH8aeXhus) | 3:05 |
 | 84 | [Un Rayo de Luz](https://open.spotify.com/track/5U3PdgKSiB4mz5DRuhR4FK) | [Adrian Bello](https://open.spotify.com/artist/0ZwjmGhps2YvUMzB7ihFV8) | [Un Rayo de Luz](https://open.spotify.com/album/3A4HLW7VGA5Rm44QzEmGWr) | 3:42 |
-| 85 | [qué bueno!](https://open.spotify.com/track/5oxWWmZLJIH0y6v2isD7Lt) | [Noa Sainz](https://open.spotify.com/artist/3kN2uYBnEM2IqRxa69sxkr) | [qué bueno!](https://open.spotify.com/album/5NF8Q7vFhmT1RJ15czoEL7) | 2:37 |
+| 85 | [jardín de flores](https://open.spotify.com/track/4ZxcEHFfXkcC2KS29OVJKv) | [Simon Grossmann](https://open.spotify.com/artist/6t38N9HASTn9ca0PIxfReQ) | [jardín de flores](https://open.spotify.com/album/2idEQxQV3mza8cCtCZQbW2) | 3:19 |
 | 86 | [TBT 4 EVER 2.0 \(feat\. Jesse Baez\)](https://open.spotify.com/track/7EW1QpUaFRKwsMQvr6rJoC) | [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1), [Jesse Baez](https://open.spotify.com/artist/4rriNpL1lxpoysDDctWgl3) | [TBT 4 EVER 2.0 \(feat\. Jesse Baez\)](https://open.spotify.com/album/2HnrU7teXQDKv65s8OoWZY) | 2:47 |
-| 87 | [jardín de flores](https://open.spotify.com/track/4ZxcEHFfXkcC2KS29OVJKv) | [Simon Grossmann](https://open.spotify.com/artist/6t38N9HASTn9ca0PIxfReQ) | [jardín de flores](https://open.spotify.com/album/2idEQxQV3mza8cCtCZQbW2) | 3:19 |
+| 87 | [qué bueno!](https://open.spotify.com/track/5oxWWmZLJIH0y6v2isD7Lt) | [Noa Sainz](https://open.spotify.com/artist/3kN2uYBnEM2IqRxa69sxkr) | [qué bueno!](https://open.spotify.com/album/5NF8Q7vFhmT1RJ15czoEL7) | 2:37 |
 | 88 | [Vibras](https://open.spotify.com/track/2lavVNtQyc5hbMgaAmnQGU) | [RPLK](https://open.spotify.com/artist/1tuzO0TeRF6KAKsSbHD46g) | [Vibras](https://open.spotify.com/album/5pkran0HD0TArY7OqRGvsk) | 2:33 |
 | 89 | [Pasatiempo](https://open.spotify.com/track/5Zc09qHPIIo4vJkYeCfixc) | [Vale](https://open.spotify.com/artist/22p8vOZwMABvl5qt2nZHWD) | [Línea Recta](https://open.spotify.com/album/19Gt3qUgfakD1rVw82iyzL) | 3:02 |
 | 90 | [Pelo Negro](https://open.spotify.com/track/75VogSe1jiacHYuhJDPc9g) | [Jos Canela](https://open.spotify.com/artist/7KBNdHhiXF0KWCOjEAIBie) | [Pelo Negro](https://open.spotify.com/album/4SOHXDDVZCwBdnMOnuhPUD) | 3:12 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9c9fpd0lxJ5.md) - [plain]
 | 99 | [Puente](https://open.spotify.com/track/1KmEEVfPbIfOqXdVxr8gm2) | [Vale](https://open.spotify.com/artist/22p8vOZwMABvl5qt2nZHWD) | [Puente](https://open.spotify.com/album/3fFFuFzU8vpMbOhxDVCzBj) | 3:00 |
 | 100 | [Eres](https://open.spotify.com/track/2qKb3jyXEb4yqeZHlJaS3M) | [Planeta Tres](https://open.spotify.com/artist/2eATLFTN3YsqxXMa13faPq) | [Eres](https://open.spotify.com/album/5X4LwzmV4YI6ZgUSTrLzNs) | 3:24 |
 
-Snapshot ID: `MCw0OTViOWJmZDEyNTI3N2UxNWMwZWE0NjcxNzViNWUwZjVmOThjZThi`
+Snapshot ID: `MCxiMGRkOWZmOTU0NmIyZTE4YWM3NGVmZjYxYjIyMWYzMDA0ODE5NzMw`

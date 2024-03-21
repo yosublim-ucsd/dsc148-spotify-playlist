@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbG7ViYRnSvA.md) - [plain]
 
 > Sophisticated palates only\. Curated by: <a href="https://www.instagram.com/officialcoodieandchike/">Coodie & Chike</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,734 likes - 50 songs - 3 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,747 likes - 50 songs - 3 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,11 +52,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbG7ViYRnSvA.md) - [plain]
 | 42 | [What Do You Say \(Move It Baby\)](https://open.spotify.com/track/7tHvaEgvR0O5q1WKZtBrKF) | [Common](https://open.spotify.com/artist/2GHclqNVjqGuiE5mA7BEoc), [PJ](https://open.spotify.com/artist/4O36cq71Cq7NazopFLBMmb) | [A Beautiful Revolution Pt\. 1 & 2](https://open.spotify.com/album/1HhGNkLtbqBKJH9lISKQPH) | 4:02 |
 | 43 | [Serve This Royalty](https://open.spotify.com/track/2v2ewUZjfOTWtKops0508z) | [Cody Chesnutt](https://open.spotify.com/artist/3sO8muEXafy2NGwUZByrTr) | [The Headphone Masterpiece](https://open.spotify.com/album/4DO0EipTAYZYaUDSoEVK98) | 5:42 |
 | 44 | [IN TIME](https://open.spotify.com/track/0LUr9U2UgSkqgxC61aatTL) | [Tarrey Torae](https://open.spotify.com/artist/08oN3COhDNyZrCJv1hu4Pw) | [IN TIME](https://open.spotify.com/album/7GM6oFiUpW9pjWXfHKLZq3) | 3:45 |
-| 45 | [We Are One](https://open.spotify.com/track/6hBdjS3dx7kOqcW7y5B39T) | [Hot 8 Brass Band](https://open.spotify.com/artist/1lvVzEkQ4u72rrZ7bNUkcD) | [Rock With the Hot 8](https://open.spotify.com/album/4Wt275jWR86DOTn7zgVWFR) | 6:44 |
-| 46 | [Blackboard Jungle Dub \- Version 1](https://open.spotify.com/track/5AWkPGkHD15Yo9IAbliWc9) | [Lee "Scratch" Perry](https://open.spotify.com/artist/1TsG4AumsMt1Tcq2nHpov9) | [Scratch Attack!](https://open.spotify.com/album/4NhRUpUb0d6hh4T8h5peMk) | 4:38 |
+| 45 | [Blackboard Jungle Dub \- Version 1](https://open.spotify.com/track/5AWkPGkHD15Yo9IAbliWc9) | [Lee "Scratch" Perry](https://open.spotify.com/artist/1TsG4AumsMt1Tcq2nHpov9) | [Scratch Attack!](https://open.spotify.com/album/4NhRUpUb0d6hh4T8h5peMk) | 4:38 |
+| 46 | [We Are One](https://open.spotify.com/track/6hBdjS3dx7kOqcW7y5B39T) | [Hot 8 Brass Band](https://open.spotify.com/artist/1lvVzEkQ4u72rrZ7bNUkcD) | [Rock With the Hot 8](https://open.spotify.com/album/4Wt275jWR86DOTn7zgVWFR) | 6:44 |
 | 47 | [ALL NIGHT \(Goodlife\)](https://open.spotify.com/track/2P7NT61WshlyyVk6WKy0pk) | [Apryl Sashay](https://open.spotify.com/artist/4oqYiNYjquQyQbYShsS3lf) | [ALL NIGHT \(Goodlife\)](https://open.spotify.com/album/05baTh08zfxj1BbtZwKkYI) | 3:35 |
 | 48 | [Safe to Say](https://open.spotify.com/track/4Q9EQ3IOxSDbXyKWXGVPcF) | [Tree](https://open.spotify.com/artist/5ABlNXUNKppEgicfzWsaSQ) | [Sunday School II : When Church Lets Out](https://open.spotify.com/album/37RWnHRT1VjCvTqZsLpISj) | 3:36 |
 | 49 | [Finding Home in Rwanda](https://open.spotify.com/track/3B8VmjKKdmkT2XByRT6Kq4) | [J\. Ivy](https://open.spotify.com/artist/0hKpvarswO34Ks5iPNmEXn), [Munyakazi Deo](https://open.spotify.com/artist/7wndHqMTZ3IVrMpR0WKcMD), [1key](https://open.spotify.com/artist/2OnqtAUmwkWba2VqkfnFKt) | [Catching Dreams](https://open.spotify.com/album/6k2MHYTdkGM5Mgmo0dwDtu) | 6:14 |
 | 50 | [Just Chill](https://open.spotify.com/track/4kPslnT97Uo6YdNpFcnrk4) | [Project Mayhem](https://open.spotify.com/artist/10ZHewiVCPZxwb4bewgKPl) | [The Mayhem Machine](https://open.spotify.com/album/35EJ8kPWBRUpQH7gKSkSSK) | 4:17 |
 
-Snapshot ID: `MCxlMTdlNGUyN2U3NGVlNjVkNjE0Mzc5MjhkNmY1MGU3YmI4ODE4MTYy`
+Snapshot ID: `MCw4N2M4NTgxMWRiMGJhNmNlMzgwYzMwMmFmYjRlMmJkZjgxZDIxYmQ3`

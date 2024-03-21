@@ -1,5 +1,5 @@
 {
-  "2024-03-20": 151105,
+  "2024-03-21": 151478,
   "date_first_scraped": "2022-05-11",
   "description": "The state of shoegaze. Gazing at pedals, soaring celestially high. Cover: Wisp",
   "name": "Shoegaze Now",
@@ -7114,6 +7114,24 @@
     },
     {
       "album": {
+        "name": "Paradox",
+        "url": "https://open.spotify.com/album/2swSZBnSV3brk5bTFiNLoW"
+      },
+      "artists": [
+        {
+          "name": "BrokenTeeth",
+          "url": "https://open.spotify.com/artist/5kNGExA70Z5twMjo7mFYrW"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288271,
+      "name": "Paradox",
+      "url": "https://open.spotify.com/track/7zh8Zt10egvcibYGR9VaVa"
+    },
+    {
+      "album": {
         "name": "Peace Sign",
         "url": "https://open.spotify.com/album/1DQuGlBWg0HDXR6f6i9xdb"
       },
@@ -10475,24 +10493,6 @@
       "duration_ms": 480000,
       "name": "\uae30\ub2e4\ub824\uc900 \uc0c8\ubcbd (Following Her to No Particular Sunrise)",
       "url": "https://open.spotify.com/track/5h5Z6jn1hc8HTbQwTerSJn"
-    },
-    {
-      "album": {
-        "name": "\ub2f9\uc2e0\uc758 \uc0ac\ub791\uc774 \ub298 \ud589\ubcf5\ud558\uae30\ub97c Paradox",
-        "url": "https://open.spotify.com/album/2swSZBnSV3brk5bTFiNLoW"
-      },
-      "artists": [
-        {
-          "name": "BrokenTeeth",
-          "url": "https://open.spotify.com/artist/5kNGExA70Z5twMjo7mFYrW"
-        }
-      ],
-      "date_added": "2024-02-23",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 288271,
-      "name": "\ub2f9\uc2e0\uc758 \uc0ac\ub791\uc774 \ub298 \ud589\ubcf5\ud558\uae30\ub97c Paradox",
-      "url": "https://open.spotify.com/track/7zh8Zt10egvcibYGR9VaVa"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWSluyUi4YGjq"

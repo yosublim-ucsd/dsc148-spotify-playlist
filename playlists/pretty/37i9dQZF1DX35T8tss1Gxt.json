@@ -1,12 +1,12 @@
 {
   "description": "Experience music from some of your favorite Gospel artists and those they've influenced.  Cover:  <a href=\"spotify:artist:7z7byOJ4AJnMY2NHE66ZpW\">DOE</a>",
-  "num_followers": 234884,
+  "num_followers": 234986,
   "original_name": "Rhythm & Praise",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwZGVmMGYxYmM3OTg0NjgxNWQ2MjliNjBhMTYwZjFmMWY3N2ZjNDI5",
+  "snapshot_id": "MCw4NTE0NDI0OTNmMzcxOGY5Mzk1MjAzMTdlNzQxYzExNjc2OTYzNTdl",
   "tracks": [
     {
       "added_at": "2024-01-12 07:49:20",
@@ -411,22 +411,22 @@
     {
       "added_at": "2024-01-12 07:49:20",
       "album": {
-        "name": "Grace",
-        "url": "https://open.spotify.com/album/21muhjj4VKsJ3a7Nb6D66v"
+        "name": "Till It Kills Me",
+        "url": "https://open.spotify.com/album/2LEBSDEECtxcoot8F0Cs8z"
       },
       "artists": [
         {
-          "name": "Jonny Henninger",
-          "url": "https://open.spotify.com/artist/1L9zhXcitRv35NwUZmwBZ4"
+          "name": "Trulah",
+          "url": "https://open.spotify.com/artist/7yUqjhujjMXv4QHq59Q9wR"
         },
         {
-          "name": "Sondae",
-          "url": "https://open.spotify.com/artist/2PCl4hx9Qds8sjcnoWUdqp"
+          "name": "Madison Ryann Ward",
+          "url": "https://open.spotify.com/artist/6eAUAR4N9NOpirukqdIzVI"
         }
       ],
-      "duration_ms": 195818,
-      "name": "Grace",
-      "url": "https://open.spotify.com/track/73RrO6QxGa9svtiBkzjgPc"
+      "duration_ms": 234500,
+      "name": "Till It Kills Me",
+      "url": "https://open.spotify.com/track/6bEIHsUn9pcJAzWK99YeAq"
     },
     {
       "added_at": "2024-01-12 07:49:20",
@@ -447,22 +447,22 @@
     {
       "added_at": "2024-01-12 07:49:20",
       "album": {
-        "name": "Till It Kills Me",
-        "url": "https://open.spotify.com/album/2LEBSDEECtxcoot8F0Cs8z"
+        "name": "Grace",
+        "url": "https://open.spotify.com/album/21muhjj4VKsJ3a7Nb6D66v"
       },
       "artists": [
         {
-          "name": "Trulah",
-          "url": "https://open.spotify.com/artist/7yUqjhujjMXv4QHq59Q9wR"
+          "name": "Jonny Henninger",
+          "url": "https://open.spotify.com/artist/1L9zhXcitRv35NwUZmwBZ4"
         },
         {
-          "name": "Madison Ryann Ward",
-          "url": "https://open.spotify.com/artist/6eAUAR4N9NOpirukqdIzVI"
+          "name": "Sondae",
+          "url": "https://open.spotify.com/artist/2PCl4hx9Qds8sjcnoWUdqp"
         }
       ],
-      "duration_ms": 234500,
-      "name": "Till It Kills Me",
-      "url": "https://open.spotify.com/track/6bEIHsUn9pcJAzWK99YeAq"
+      "duration_ms": 195818,
+      "name": "Grace",
+      "url": "https://open.spotify.com/track/73RrO6QxGa9svtiBkzjgPc"
     },
     {
       "added_at": "2024-01-12 07:49:20",
@@ -679,26 +679,6 @@
     {
       "added_at": "2024-01-12 07:49:20",
       "album": {
-        "name": "So Much To Say (Pt. III)",
-        "url": "https://open.spotify.com/album/6HaymVQhgMhb6UyFqk3VHY"
-      },
-      "artists": [
-        {
-          "name": "Jonny Henninger",
-          "url": "https://open.spotify.com/artist/1L9zhXcitRv35NwUZmwBZ4"
-        },
-        {
-          "name": "Jeremiah Paltan",
-          "url": "https://open.spotify.com/artist/7gaLLumDYrznRYzpPtvrru"
-        }
-      ],
-      "duration_ms": 164542,
-      "name": "Amen",
-      "url": "https://open.spotify.com/track/6wU5FbAJrRcZUvDfpP0XxR"
-    },
-    {
-      "added_at": "2024-01-12 07:49:20",
-      "album": {
         "name": "Valley (CalledOut Music Remix)",
         "url": "https://open.spotify.com/album/6K8MrDCAJxTbGdBNKgXiLp"
       },
@@ -715,6 +695,26 @@
       "duration_ms": 187124,
       "name": "Valley - CalledOut Music Remix",
       "url": "https://open.spotify.com/track/56SVOpxc9ilgsoM5vjGNSf"
+    },
+    {
+      "added_at": "2024-01-12 07:49:20",
+      "album": {
+        "name": "So Much To Say (Pt. III)",
+        "url": "https://open.spotify.com/album/6HaymVQhgMhb6UyFqk3VHY"
+      },
+      "artists": [
+        {
+          "name": "Jonny Henninger",
+          "url": "https://open.spotify.com/artist/1L9zhXcitRv35NwUZmwBZ4"
+        },
+        {
+          "name": "Jeremiah Paltan",
+          "url": "https://open.spotify.com/artist/7gaLLumDYrznRYzpPtvrru"
+        }
+      ],
+      "duration_ms": 164542,
+      "name": "Amen",
+      "url": "https://open.spotify.com/track/6wU5FbAJrRcZUvDfpP0XxR"
     },
     {
       "added_at": "2024-01-12 07:49:20",
@@ -739,22 +739,6 @@
     {
       "added_at": "2024-01-12 07:49:20",
       "album": {
-        "name": "pillow soft",
-        "url": "https://open.spotify.com/album/27ToXf5vltBPO8rnssYEUp"
-      },
-      "artists": [
-        {
-          "name": "Sarah Nathali\u00e9",
-          "url": "https://open.spotify.com/artist/1O8Ex2yuddkMknV0uM2oni"
-        }
-      ],
-      "duration_ms": 143439,
-      "name": "pillow soft",
-      "url": "https://open.spotify.com/track/0t8fKvRdEPoDf7995BN5gX"
-    },
-    {
-      "added_at": "2024-01-12 07:49:20",
-      "album": {
         "name": "First Love",
         "url": "https://open.spotify.com/album/0uBfQckknUlZAcBG5CTEiZ"
       },
@@ -767,6 +751,22 @@
       "duration_ms": 248057,
       "name": "First Love",
       "url": "https://open.spotify.com/track/44cZgCZcRgxkLV46iASa5K"
+    },
+    {
+      "added_at": "2024-01-12 07:49:20",
+      "album": {
+        "name": "pillow soft",
+        "url": "https://open.spotify.com/album/27ToXf5vltBPO8rnssYEUp"
+      },
+      "artists": [
+        {
+          "name": "Sarah Nathali\u00e9",
+          "url": "https://open.spotify.com/artist/1O8Ex2yuddkMknV0uM2oni"
+        }
+      ],
+      "duration_ms": 143439,
+      "name": "pillow soft",
+      "url": "https://open.spotify.com/track/0t8fKvRdEPoDf7995BN5gX"
     },
     {
       "added_at": "2024-01-12 07:49:20",
@@ -1039,22 +1039,6 @@
     {
       "added_at": "2024-01-12 07:49:20",
       "album": {
-        "name": "Work It Out",
-        "url": "https://open.spotify.com/album/4V9Uxlaq2YpXjTNmTsa7vB"
-      },
-      "artists": [
-        {
-          "name": "Yung Kriss",
-          "url": "https://open.spotify.com/artist/3JCk8XWIBcpA10QeM5tkbP"
-        }
-      ],
-      "duration_ms": 165400,
-      "name": "Work It Out",
-      "url": "https://open.spotify.com/track/5QkHs6c3bwJUqTSKjunArU"
-    },
-    {
-      "added_at": "2024-01-12 07:49:20",
-      "album": {
         "name": "Freedom Dance",
         "url": "https://open.spotify.com/album/3ark8OClaQKfOa8hD28ZhH"
       },
@@ -1067,6 +1051,22 @@
       "duration_ms": 174000,
       "name": "Freedom Dance",
       "url": "https://open.spotify.com/track/10SYr7IjjFWWWihmZwouRD"
+    },
+    {
+      "added_at": "2024-01-12 07:49:20",
+      "album": {
+        "name": "Work It Out",
+        "url": "https://open.spotify.com/album/4V9Uxlaq2YpXjTNmTsa7vB"
+      },
+      "artists": [
+        {
+          "name": "Yung Kriss",
+          "url": "https://open.spotify.com/artist/3JCk8XWIBcpA10QeM5tkbP"
+        }
+      ],
+      "duration_ms": 165400,
+      "name": "Work It Out",
+      "url": "https://open.spotify.com/track/5QkHs6c3bwJUqTSKjunArU"
     },
     {
       "added_at": "2024-01-12 07:49:20",
@@ -1103,26 +1103,6 @@
     {
       "added_at": "2024-01-12 07:49:20",
       "album": {
-        "name": "I Surrender All (Allt till Jesus)",
-        "url": "https://open.spotify.com/album/6ipfGbwsNXM67WKpoyN3EG"
-      },
-      "artists": [
-        {
-          "name": "Ri-An",
-          "url": "https://open.spotify.com/artist/0q8s2UD3GPKFfYuXWbvRVo"
-        },
-        {
-          "name": "Tommy Iceland",
-          "url": "https://open.spotify.com/artist/74sn7pCztQtjNGeaIoRPtU"
-        }
-      ],
-      "duration_ms": 192968,
-      "name": "I Surrender All (Allt till Jesus)",
-      "url": "https://open.spotify.com/track/0YbNff7JhsieHxmHFgEuzX"
-    },
-    {
-      "added_at": "2024-01-12 07:49:20",
-      "album": {
         "name": "HOMIE",
         "url": "https://open.spotify.com/album/76LraBETj4zBYpsAmtJDtY"
       },
@@ -1147,6 +1127,26 @@
       "duration_ms": 153083,
       "name": "HOMIE",
       "url": "https://open.spotify.com/track/0xEdclbbUYJR2khLnKn3eF"
+    },
+    {
+      "added_at": "2024-01-12 07:49:20",
+      "album": {
+        "name": "I Surrender All (Allt till Jesus)",
+        "url": "https://open.spotify.com/album/6ipfGbwsNXM67WKpoyN3EG"
+      },
+      "artists": [
+        {
+          "name": "Ri-An",
+          "url": "https://open.spotify.com/artist/0q8s2UD3GPKFfYuXWbvRVo"
+        },
+        {
+          "name": "Tommy Iceland",
+          "url": "https://open.spotify.com/artist/74sn7pCztQtjNGeaIoRPtU"
+        }
+      ],
+      "duration_ms": 192968,
+      "name": "I Surrender All (Allt till Jesus)",
+      "url": "https://open.spotify.com/track/0YbNff7JhsieHxmHFgEuzX"
     },
     {
       "added_at": "2024-01-12 07:49:20",
@@ -1567,6 +1567,22 @@
     {
       "added_at": "2024-01-12 07:49:20",
       "album": {
+        "name": "Cornerstone",
+        "url": "https://open.spotify.com/album/4C2ROejT301KgDkPakUU0R"
+      },
+      "artists": [
+        {
+          "name": "Keyondra Lockett",
+          "url": "https://open.spotify.com/artist/3adyeKexNPZGZ2wNvqqmw7"
+        }
+      ],
+      "duration_ms": 237650,
+      "name": "You Your Love",
+      "url": "https://open.spotify.com/track/3hKRb7aCt4JDilacNxeMk0"
+    },
+    {
+      "added_at": "2024-01-12 07:49:20",
+      "album": {
         "name": "Surrender The Will",
         "url": "https://open.spotify.com/album/1uOucKRNyuXWk7ywMF1JqJ"
       },
@@ -1583,18 +1599,22 @@
     {
       "added_at": "2024-01-12 07:49:20",
       "album": {
-        "name": "Cornerstone",
-        "url": "https://open.spotify.com/album/4C2ROejT301KgDkPakUU0R"
+        "name": "Keep me",
+        "url": "https://open.spotify.com/album/5RM33r3cYmWgSZCxwIyT0G"
       },
       "artists": [
         {
-          "name": "Keyondra Lockett",
-          "url": "https://open.spotify.com/artist/3adyeKexNPZGZ2wNvqqmw7"
+          "name": "Stephen Willo",
+          "url": "https://open.spotify.com/artist/34uEJg0k0siI2NxKK2TeHa"
+        },
+        {
+          "name": "Darla Baltazar",
+          "url": "https://open.spotify.com/artist/3W0Poyb7XtusSN8aBcZxS1"
         }
       ],
-      "duration_ms": 237650,
-      "name": "You Your Love",
-      "url": "https://open.spotify.com/track/3hKRb7aCt4JDilacNxeMk0"
+      "duration_ms": 248999,
+      "name": "Keep me",
+      "url": "https://open.spotify.com/track/6VNixtccaXI23rKht6kQQg"
     },
     {
       "added_at": "2024-01-12 07:49:20",
@@ -1631,22 +1651,18 @@
     {
       "added_at": "2024-01-12 07:49:20",
       "album": {
-        "name": "Keep me",
-        "url": "https://open.spotify.com/album/5RM33r3cYmWgSZCxwIyT0G"
+        "name": "Your Arms",
+        "url": "https://open.spotify.com/album/2FGO1TD4b69CQHPG4tbB6v"
       },
       "artists": [
         {
-          "name": "Stephen Willo",
-          "url": "https://open.spotify.com/artist/34uEJg0k0siI2NxKK2TeHa"
-        },
-        {
-          "name": "Darla Baltazar",
-          "url": "https://open.spotify.com/artist/3W0Poyb7XtusSN8aBcZxS1"
+          "name": "RORE",
+          "url": "https://open.spotify.com/artist/4es2gLCEQiV2WeeIMCdn2j"
         }
       ],
-      "duration_ms": 248999,
-      "name": "Keep me",
-      "url": "https://open.spotify.com/track/6VNixtccaXI23rKht6kQQg"
+      "duration_ms": 157477,
+      "name": "Your Arms",
+      "url": "https://open.spotify.com/track/56B8Ls0ASzAKEmZ87hgYfb"
     },
     {
       "added_at": "2024-01-12 07:49:20",
@@ -1663,22 +1679,6 @@
       "duration_ms": 250295,
       "name": "Let It Be Your Will",
       "url": "https://open.spotify.com/track/4c6cmc4E57dKujV20KAa4I"
-    },
-    {
-      "added_at": "2024-01-12 07:49:20",
-      "album": {
-        "name": "Your Arms",
-        "url": "https://open.spotify.com/album/2FGO1TD4b69CQHPG4tbB6v"
-      },
-      "artists": [
-        {
-          "name": "RORE",
-          "url": "https://open.spotify.com/artist/4es2gLCEQiV2WeeIMCdn2j"
-        }
-      ],
-      "duration_ms": 157477,
-      "name": "Your Arms",
-      "url": "https://open.spotify.com/track/56B8Ls0ASzAKEmZ87hgYfb"
     },
     {
       "added_at": "2024-01-12 07:49:20",

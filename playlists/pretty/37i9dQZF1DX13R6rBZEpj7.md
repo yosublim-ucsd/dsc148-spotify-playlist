@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX13R6rBZEpj7.md) - [plain]
 
 > Turn up the volume for some filthy bassline!
 
-[Spotify](https://open.spotify.com/user/spotify) - 206,094 likes - 70 songs - 4 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 206,182 likes - 70 songs - 4 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,14 +55,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX13R6rBZEpj7.md) - [plain]
 | 45 | [Knock Knock](https://open.spotify.com/track/19SBdTkyhMdRDNxpydbxzc) | [NuBass](https://open.spotify.com/artist/5Nd61ppMOQbbtF1HV13kBO), [Deppz](https://open.spotify.com/artist/7jhS9dwK214Tp1KgEVfyd2) | [Knock Knock](https://open.spotify.com/album/1wCezsULBQ87NvJ3u2bTQ2) | 3:18 |
 | 46 | [Ruins](https://open.spotify.com/track/7ADvgniUzfEEh2eTqgpkz8) | [Sisko](https://open.spotify.com/artist/0helc55eMzPEXyUqV0qZt3), [3000 Bass](https://open.spotify.com/artist/6J3C2BgdZTvYCIoCTzybDM) | [Ruins](https://open.spotify.com/album/01BZZCEXgzCdHDx8fWcVpv) | 3:57 |
 | 47 | [One Ting](https://open.spotify.com/track/0kxVhuTPJMtAP3dj9Q7tuG) | [Phibes](https://open.spotify.com/artist/21VZgcYa29ZVvRQzmUNakx) | [One Ting](https://open.spotify.com/album/51lQCt9KSngVbAqR4Qvc8E) | 3:52 |
-| 48 | [Acid](https://open.spotify.com/track/1RvSHMTBwIpNbqvpSPHcNV) | [Skepsis](https://open.spotify.com/artist/6DnQYUjtYusK9QJts9HqSC) | [Faith In Chaos](https://open.spotify.com/album/26Vyrwt4qfkiPMqUJUf7dr) | 3:45 |
+| 48 | [Easy for them](https://open.spotify.com/track/1BVtpveXrAKmxQ3AZ8a1cf) | [Rohaan](https://open.spotify.com/artist/7FqSU53yVH1SQAtLZ63DGS) | [Easy for them](https://open.spotify.com/album/7sE9VcKFbYgVa5jG8pdAUS) | 2:17 |
 | 49 | [Only You](https://open.spotify.com/track/1VejWyeRqpiexvnQQXmacA) | [Birch](https://open.spotify.com/artist/30XFjY5QiLhaU51gQGAKNv) | [Only You](https://open.spotify.com/album/4U1NmXaUZTF5PzKwnU3BSV) | 3:36 |
-| 50 | [Easy for them](https://open.spotify.com/track/1BVtpveXrAKmxQ3AZ8a1cf) | [Rohaan](https://open.spotify.com/artist/7FqSU53yVH1SQAtLZ63DGS) | [Easy for them](https://open.spotify.com/album/7sE9VcKFbYgVa5jG8pdAUS) | 2:17 |
+| 50 | [Acid](https://open.spotify.com/track/1RvSHMTBwIpNbqvpSPHcNV) | [Skepsis](https://open.spotify.com/artist/6DnQYUjtYusK9QJts9HqSC) | [Faith In Chaos](https://open.spotify.com/album/26Vyrwt4qfkiPMqUJUf7dr) | 3:45 |
 | 51 | [Want \(ur body\)](https://open.spotify.com/track/7h4ubaopYMigwEXZpTLi9s) | [Zero](https://open.spotify.com/artist/6ocDQwCTkVro3cmejcF1DH) | [Want \(ur body\)](https://open.spotify.com/album/7J9Cj4yEiCU7cFsuxvNuts) | 4:34 |
 | 52 | [Pure](https://open.spotify.com/track/3Hw8clcor9ojrg1AqHHKxp) | [Badger](https://open.spotify.com/artist/4mnrcwjD8rgFeOzvXmkcw3) | [Pure](https://open.spotify.com/album/1S8CHaPPbF68PW1Y8E1V2t) | 2:46 |
 | 53 | [Misfit](https://open.spotify.com/track/4Lnb1dh4iXpuIRCK4fLBHv) | [Monrroe](https://open.spotify.com/artist/6SZvMOzWVSx6cWYGRrZh6d), [Duskee](https://open.spotify.com/artist/3f2xeagPNM6X9FktDTIudH) | [Ikebana \- EP](https://open.spotify.com/album/36zGzMRineBKzY4yq9tmeK) | 3:46 |
-| 54 | [Affiliation](https://open.spotify.com/track/74OHEZCii7GYJqqEIHPYb0) | [Bermal](https://open.spotify.com/artist/2I50LWeOqOFm3bagM840Nt) | [Affiliation](https://open.spotify.com/album/6viQ5GlaaPHbGLPfIYcEfU) | 3:10 |
-| 55 | [Eyes On You \- Burt Cope Remix](https://open.spotify.com/track/6gPmXgDvQbPfRSilJVYOf5) | [Star.One](https://open.spotify.com/artist/11HK31aj8j8QJ3ZnSlqox4), [SOULSTATE](https://open.spotify.com/artist/00v8euXAAgPonp3i5g92ds), [Burt Cope](https://open.spotify.com/artist/4zA0baLXvrcMcAVsUlOKcs) | [Eyes On You \(Burt Cope Remix\)](https://open.spotify.com/album/7HPosCxuP8Ew0Pz9Asc9d7) | 2:40 |
+| 54 | [Eyes On You \- Burt Cope Remix](https://open.spotify.com/track/6gPmXgDvQbPfRSilJVYOf5) | [Star.One](https://open.spotify.com/artist/11HK31aj8j8QJ3ZnSlqox4), [SOULSTATE](https://open.spotify.com/artist/00v8euXAAgPonp3i5g92ds), [Burt Cope](https://open.spotify.com/artist/4zA0baLXvrcMcAVsUlOKcs) | [Eyes On You \(Burt Cope Remix\)](https://open.spotify.com/album/7HPosCxuP8Ew0Pz9Asc9d7) | 2:40 |
+| 55 | [Affiliation](https://open.spotify.com/track/74OHEZCii7GYJqqEIHPYb0) | [Bermal](https://open.spotify.com/artist/2I50LWeOqOFm3bagM840Nt) | [Affiliation](https://open.spotify.com/album/6viQ5GlaaPHbGLPfIYcEfU) | 3:10 |
 | 56 | [Chances](https://open.spotify.com/track/59PTNOT9TYu7MFJ6pSrCNZ) | [Wittyboy](https://open.spotify.com/artist/3SgLMH12f6V9dfSW2QPgAw) | [Chances](https://open.spotify.com/album/5I2lhIqmWeAtsQD1kXtyC7) | 5:10 |
 | 57 | [Gully](https://open.spotify.com/track/2NVMb5oEdeOakcDcpUtEri) | [Solex](https://open.spotify.com/artist/4sEjCapdcBsTMA0lj1Ep4G), [Fugzi](https://open.spotify.com/artist/7bxrsA8nztT5Gf4E3dRLWc) | [Gully](https://open.spotify.com/album/0lPpodKFrrKabX3wWFYxjt) | 3:30 |
 | 58 | [Get Out](https://open.spotify.com/track/16HM1ygA3tOEQes2HGduhL) | [Gecha](https://open.spotify.com/artist/1hZ5jgkS8PQxUQTf62pubC), [3000 Bass](https://open.spotify.com/artist/6J3C2BgdZTvYCIoCTzybDM) | [Get Out](https://open.spotify.com/album/0FQwBMJPZUMZkghS8wJRr2) | 4:28 |
@@ -75,8 +75,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX13R6rBZEpj7.md) - [plain]
 | 65 | [Dance \- Tengu remix](https://open.spotify.com/track/5wVsRQKP6xt4Z82QQDJA2f) | [Georgie Riot](https://open.spotify.com/artist/658we9fIJkrorlUIcDzsHi), [Tengu](https://open.spotify.com/artist/2W15C6WH5xh4r8aPGiiw4o) | [Dance \(The Remixes\)](https://open.spotify.com/album/21Gn31tVzHqLQwQBrDbKGW) | 4:23 |
 | 66 | [P.S 2023 \(Bassline Remix\)](https://open.spotify.com/track/1rdmcGRNmD7qfNb2Q9Gcxt) | [Burgaboy](https://open.spotify.com/artist/2RqbEOyM1cly9xDaFqyVda), [Lauren Mason](https://open.spotify.com/artist/7n1EMEGr2LjgICpbN6ZiTh) | [P.S Remix \(2023\)](https://open.spotify.com/album/5UhGiK7k9bYxxFofNMdVft) | 3:24 |
 | 67 | [Aight Boom \(feat\. Scrufizzer\)](https://open.spotify.com/track/75GSsRPXsU16dUd5uVAbHX) | [Y U QT](https://open.spotify.com/artist/0tpkcjoMduNpT0FnpNYZiV), [Scrufizzer](https://open.spotify.com/artist/3JmGsgVoGUN1Ro1jLfi7k1) | [Aight Boom \(feat\. Scrufizzer\)](https://open.spotify.com/album/086oqWH3xfRrtg39eiJGLC) | 2:46 |
-| 68 | [Wavelord Bizniz](https://open.spotify.com/track/2rDXW6HxRe1r6MTvzbvB4w) | [Samurai Breaks](https://open.spotify.com/artist/5X8xxAPGx1ouTGDlgE5ray), [Napes](https://open.spotify.com/artist/67tntWq8UUUolQoKWKZgN5) | [Wavelord Bizniz](https://open.spotify.com/album/4fSERdJxrStbV6mpIhUonK) | 4:40 |
-| 69 | [Alla Dem Bad](https://open.spotify.com/track/4zYsCeHjJYwXJxWzR8AlNN) | [J69](https://open.spotify.com/artist/46M2k6hBDA6GLd9iuNZgRh), [Miss Baas](https://open.spotify.com/artist/6Q8qDODQwBDwTvqoP2G3xU) | [Alla Dem Bad](https://open.spotify.com/album/63IVVJ6unNqy2Dd2u5INc3) | 2:54 |
+| 68 | [Alla Dem Bad](https://open.spotify.com/track/4zYsCeHjJYwXJxWzR8AlNN) | [J69](https://open.spotify.com/artist/46M2k6hBDA6GLd9iuNZgRh), [Miss Baas](https://open.spotify.com/artist/6Q8qDODQwBDwTvqoP2G3xU) | [Alla Dem Bad](https://open.spotify.com/album/63IVVJ6unNqy2Dd2u5INc3) | 2:54 |
+| 69 | [Wavelord Bizniz](https://open.spotify.com/track/2rDXW6HxRe1r6MTvzbvB4w) | [Samurai Breaks](https://open.spotify.com/artist/5X8xxAPGx1ouTGDlgE5ray), [Napes](https://open.spotify.com/artist/67tntWq8UUUolQoKWKZgN5) | [Wavelord Bizniz](https://open.spotify.com/album/4fSERdJxrStbV6mpIhUonK) | 4:40 |
 | 70 | [Hold Me Close](https://open.spotify.com/track/5UM597AY45L1gpRsLdslRu) | [Jacko](https://open.spotify.com/artist/4HBwYjwyfn1X6KO6PqY9ia) | [Hold Me Close](https://open.spotify.com/album/6kdTGKNxuMUgQ50WhIdVpg) | 3:52 |
 
-Snapshot ID: `MCxjMzQ3OWUzZDM2OGQ0Mzg3ZTViNWFlMjA4NjgzM2NhMTBiYzc4YTEw`
+Snapshot ID: `MCxkOGViMGYyMzM0OWRjYWRjZjEzYmVhYzMyNmNkNTBlMzRlZmFlZmYy`

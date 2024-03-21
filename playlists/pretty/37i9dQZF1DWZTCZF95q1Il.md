@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZTCZF95q1Il.md) - [plain]
 
 > Gospel songs you grew up listening to
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,032 likes - 60 songs - 5 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,035 likes - 60 songs - 5 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZTCZF95q1Il.md) - [plain]
 | 12 | [Nifundishe Kunyamaza](https://open.spotify.com/track/5ZbqY3dSaJu5WepPqGkxbS) | [Martha Mwaipaja](https://open.spotify.com/artist/6sucU5GTxpXKQs1hNTrLDF) | [Naiona Kesho](https://open.spotify.com/album/4On0HtZu8oqfzXWki3Vz6f) | 9:14 |
 | 13 | [Taunet Nelel](https://open.spotify.com/track/4v9KNIuUReOJpix2zIPKMh) | [Emmy Kosgei](https://open.spotify.com/artist/22IUTWiY0oxVdFX4vOEYLu) | [Taunet Nelel](https://open.spotify.com/album/7uwR6IIekSRq37cBIs3cmd) | 3:50 |
 | 14 | [Hurutira](https://open.spotify.com/track/3E4FGMYEelW9vYjkDqUHIv) | [Njuguna Gicheha](https://open.spotify.com/artist/2KGk1iowAiU7Kvz5tVNaQI) | [Hurutira](https://open.spotify.com/album/69wyEyTLd1xEMowFNjtLQr) | 5:32 |
-| 15 | [Milele](https://open.spotify.com/track/4Zt7e0XX2UM7GfOVK95m56) | [Mercy Masika](https://open.spotify.com/artist/768ba0tQi1ULwowdydY05T) | [Milele](https://open.spotify.com/album/5fmpQXoRQ3OHUT77xItVH6) | 4:14 |
+| 15 | [Milele](https://open.spotify.com/track/0izibEkKOx2qNGDG7lgnqL) | [Mercy Masika](https://open.spotify.com/artist/768ba0tQi1ULwowdydY05T) | [Milele](https://open.spotify.com/album/5k9fzwZwsO1ktiflkMQoDX) | 4:14 |
 | 16 | [Watoto Inkane](https://open.spotify.com/track/2hK5cYroLTHhzp2X38wIDp) | [Ambasada](https://open.spotify.com/artist/0NVrN0IXwyTJ4paY5EwB9j), [Grace Nyumbani Children](https://open.spotify.com/artist/0NhZVoEUoBhMm90p72rsTf) | [Watoto Inkane](https://open.spotify.com/album/4qgJIyTBAVMIfAzAP9X5JR) | 4:07 |
 | 17 | [Mkono Wa Bwana](https://open.spotify.com/track/0I5hC840hWZCo3nGTptRm5) | [Zabron Singers](https://open.spotify.com/artist/6G8DN0hxjRUmIfOh6GHhpP) | [Mkono Wa Bwana](https://open.spotify.com/album/5oXO7E3vFCkWTfdwkZDckF) | 5:49 |
 | 18 | [Saluti](https://open.spotify.com/track/5Gy9NQKWeXwvJ6vx3g6MSq) | [Emmy Kosgei](https://open.spotify.com/artist/22IUTWiY0oxVdFX4vOEYLu) | [Ololo](https://open.spotify.com/album/3Pe2cSUz5CXCMrrqX9EanW) | 4:38 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZTCZF95q1Il.md) - [plain]
 | 59 | [Pale Pale](https://open.spotify.com/track/20CfRlYyl69ZcixsWjIXR9) | [Size 8](https://open.spotify.com/artist/4ZnnTnbEvzqmp1r52XTbBe) | [Pale Pale](https://open.spotify.com/album/1UCwuyBGve3MilWhoBhIhl) | 3:30 |
 | 60 | [My Call](https://open.spotify.com/track/6N8vrHGAl1FXgA5EYclP4z) | [M O G](https://open.spotify.com/artist/7jmlYHg2tjQ7SweaSFwvl5), [Juliani](https://open.spotify.com/artist/6DeHceVetXHpLmvmqDpTD7) | [Go Let Him Go](https://open.spotify.com/album/5P1iuvCDjoU5444LHpL8p0) | 4:08 |
 
-Snapshot ID: `MCxiMzkyODZlM2MyOWNmOGE1MzljNzhkYzYzMDcxZjY5ZjE3NDZkMzZm`
+Snapshot ID: `MCw0NmRkOGY1YzNjNjNlYjA5NmRmMDgxYjY0YjE1NDZhYjU4NmUzNmRk`

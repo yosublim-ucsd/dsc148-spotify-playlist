@@ -1,12 +1,12 @@
 {
   "description": "Ritmo latino!",
-  "num_followers": 283762,
+  "num_followers": 284305,
   "original_name": "Workout Latino",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3N2NhODE4NWVkNThmMzMxMDBhNWIwN2MzMTFmYTZmMDVmOWQ4Yzli",
+  "snapshot_id": "MCw3OTk2ZjUyZDY2NWUxMTkwN2FhMGQxZjljMWEwMmViMTIwZDMzODg0",
   "tracks": [
     {
       "added_at": "2024-03-14 23:01:00",
@@ -627,26 +627,6 @@
     {
       "added_at": "2024-03-14 23:01:00",
       "album": {
-        "name": "Mon Amour (Remix)",
-        "url": "https://open.spotify.com/album/4TWsxSw8df17aja6JSaar5"
-      },
-      "artists": [
-        {
-          "name": "zzoilo",
-          "url": "https://open.spotify.com/artist/7c53ZFyajVMTo08HmvoB6b"
-        },
-        {
-          "name": "Aitana",
-          "url": "https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25"
-        }
-      ],
-      "duration_ms": 179940,
-      "name": "Mon Amour - Remix",
-      "url": "https://open.spotify.com/track/5TMLavqGRKNxgzMBrVpC9R"
-    },
-    {
-      "added_at": "2024-03-14 23:01:00",
-      "album": {
         "name": "OASIS",
         "url": "https://open.spotify.com/album/6ylFfzx32ICw4L1A7YWNLN"
       },
@@ -663,6 +643,26 @@
       "duration_ms": 222346,
       "name": "QUE PRETENDES",
       "url": "https://open.spotify.com/track/25ZAibhr3bdlMCLmubZDVt"
+    },
+    {
+      "added_at": "2024-03-14 23:01:00",
+      "album": {
+        "name": "Mon Amour (Remix)",
+        "url": "https://open.spotify.com/album/4TWsxSw8df17aja6JSaar5"
+      },
+      "artists": [
+        {
+          "name": "zzoilo",
+          "url": "https://open.spotify.com/artist/7c53ZFyajVMTo08HmvoB6b"
+        },
+        {
+          "name": "Aitana",
+          "url": "https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25"
+        }
+      ],
+      "duration_ms": 179940,
+      "name": "Mon Amour - Remix",
+      "url": "https://open.spotify.com/track/5TMLavqGRKNxgzMBrVpC9R"
     },
     {
       "added_at": "2024-03-14 23:01:00",
@@ -1011,26 +1011,6 @@
     {
       "added_at": "2024-03-14 23:01:00",
       "album": {
-        "name": "Visual\u00edzate",
-        "url": "https://open.spotify.com/album/2HXRjHb2nbLJa5r70FBtdT"
-      },
-      "artists": [
-        {
-          "name": "Gente De Zona",
-          "url": "https://open.spotify.com/artist/2cy1zPcrFcXAJTP0APWewL"
-        },
-        {
-          "name": "Marc Anthony",
-          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
-        }
-      ],
-      "duration_ms": 203160,
-      "name": "La Gozadera (feat. Marc Anthony)",
-      "url": "https://open.spotify.com/track/0OMRAvrtLWE2TvcXorRiB9"
-    },
-    {
-      "added_at": "2024-03-14 23:01:00",
-      "album": {
         "name": "Hecho En Medell\u00edn",
         "url": "https://open.spotify.com/album/50SdnzlrXUMadt9JYeaJSh"
       },
@@ -1055,18 +1035,22 @@
     {
       "added_at": "2024-03-14 23:01:00",
       "album": {
-        "name": "M\u00e1s Negro Que Rojo",
-        "url": "https://open.spotify.com/album/1dzGsItgF4Gp1G4TNsdoXU"
+        "name": "Visual\u00edzate",
+        "url": "https://open.spotify.com/album/2HXRjHb2nbLJa5r70FBtdT"
       },
       "artists": [
         {
-          "name": "Boza",
-          "url": "https://open.spotify.com/artist/2NfSBtmWe7oPw1EmetJVso"
+          "name": "Gente De Zona",
+          "url": "https://open.spotify.com/artist/2cy1zPcrFcXAJTP0APWewL"
+        },
+        {
+          "name": "Marc Anthony",
+          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
         }
       ],
-      "duration_ms": 186133,
-      "name": "Hecha Pa' Mi",
-      "url": "https://open.spotify.com/track/3VvA1wSxukMLsvXoXtlwWx"
+      "duration_ms": 203160,
+      "name": "La Gozadera (feat. Marc Anthony)",
+      "url": "https://open.spotify.com/track/0OMRAvrtLWE2TvcXorRiB9"
     },
     {
       "added_at": "2024-03-14 23:01:00",
@@ -1083,6 +1067,22 @@
       "duration_ms": 181106,
       "name": "SEJODIOTO",
       "url": "https://open.spotify.com/track/704LUEih663hiE3CnyUrFW"
+    },
+    {
+      "added_at": "2024-03-14 23:01:00",
+      "album": {
+        "name": "M\u00e1s Negro Que Rojo",
+        "url": "https://open.spotify.com/album/1dzGsItgF4Gp1G4TNsdoXU"
+      },
+      "artists": [
+        {
+          "name": "Boza",
+          "url": "https://open.spotify.com/artist/2NfSBtmWe7oPw1EmetJVso"
+        }
+      ],
+      "duration_ms": 186133,
+      "name": "Hecha Pa' Mi",
+      "url": "https://open.spotify.com/track/3VvA1wSxukMLsvXoXtlwWx"
     },
     {
       "added_at": "2024-03-14 23:01:00",
@@ -1175,6 +1175,26 @@
     {
       "added_at": "2024-03-14 23:01:00",
       "album": {
+        "name": "GAT\u00daBELA",
+        "url": "https://open.spotify.com/album/5FdSjtKiymlHrdbXDyXcxA"
+      },
+      "artists": [
+        {
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        },
+        {
+          "name": "Maldy",
+          "url": "https://open.spotify.com/artist/4IndUOBCZYZg61557iq2A9"
+        }
+      ],
+      "duration_ms": 209160,
+      "name": "GAT\u00daBELA",
+      "url": "https://open.spotify.com/track/1ga4PztXOIw1yBbdUt2X8v"
+    },
+    {
+      "added_at": "2024-03-14 23:01:00",
+      "album": {
         "name": "Mi Sangre",
         "url": "https://open.spotify.com/album/2HbvQeJXke68tjwOcsj8ne"
       },
@@ -1203,26 +1223,6 @@
       "duration_ms": 222560,
       "name": "Reggaet\u00f3n Lento (Bailemos)",
       "url": "https://open.spotify.com/track/3AEZUABDXNtecAOSC1qTfo"
-    },
-    {
-      "added_at": "2024-03-14 23:01:00",
-      "album": {
-        "name": "GAT\u00daBELA",
-        "url": "https://open.spotify.com/album/5FdSjtKiymlHrdbXDyXcxA"
-      },
-      "artists": [
-        {
-          "name": "KAROL G",
-          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
-        },
-        {
-          "name": "Maldy",
-          "url": "https://open.spotify.com/artist/4IndUOBCZYZg61557iq2A9"
-        }
-      ],
-      "duration_ms": 209160,
-      "name": "GAT\u00daBELA",
-      "url": "https://open.spotify.com/track/1ga4PztXOIw1yBbdUt2X8v"
     },
     {
       "added_at": "2024-03-14 23:01:00",
@@ -1291,26 +1291,6 @@
     {
       "added_at": "2024-03-14 23:01:00",
       "album": {
-        "name": "Calma (Remix)",
-        "url": "https://open.spotify.com/album/1tFnP9PwIMeMIuj92mfswZ"
-      },
-      "artists": [
-        {
-          "name": "Pedro Cap\u00f3",
-          "url": "https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy"
-        },
-        {
-          "name": "Farruko",
-          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
-        }
-      ],
-      "duration_ms": 238200,
-      "name": "Calma - Remix",
-      "url": "https://open.spotify.com/track/5iwz1NiezX7WWjnCgY5TH4"
-    },
-    {
-      "added_at": "2024-03-14 23:01:00",
-      "album": {
         "name": "Desesperados",
         "url": "https://open.spotify.com/album/3w1Tr9F91XMcsmBJQ8hS7H"
       },
@@ -1327,6 +1307,26 @@
       "duration_ms": 224996,
       "name": "Desesperados",
       "url": "https://open.spotify.com/track/6ZOcbKub95XSDESsKKuH41"
+    },
+    {
+      "added_at": "2024-03-14 23:01:00",
+      "album": {
+        "name": "Calma (Remix)",
+        "url": "https://open.spotify.com/album/1tFnP9PwIMeMIuj92mfswZ"
+      },
+      "artists": [
+        {
+          "name": "Pedro Cap\u00f3",
+          "url": "https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy"
+        },
+        {
+          "name": "Farruko",
+          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
+        }
+      ],
+      "duration_ms": 238200,
+      "name": "Calma - Remix",
+      "url": "https://open.spotify.com/track/5iwz1NiezX7WWjnCgY5TH4"
     },
     {
       "added_at": "2024-03-14 23:01:00",
@@ -1467,22 +1467,22 @@
     {
       "added_at": "2024-03-14 23:01:00",
       "album": {
-        "name": "Pareja Del A\u00f1o",
-        "url": "https://open.spotify.com/album/202FLmfHxcvLHPiqmAjWyJ"
+        "name": "Afrodis\u00edaco",
+        "url": "https://open.spotify.com/album/3fq06DDIkadDRB9RuBb22v"
       },
       "artists": [
         {
-          "name": "Sebastian Yatra",
-          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
         },
         {
-          "name": "Myke Towers",
-          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+          "name": "Anuel AA",
+          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
         }
       ],
-      "duration_ms": 195053,
-      "name": "Pareja Del A\u00f1o",
-      "url": "https://open.spotify.com/track/2rCbl9naJYhaxjLsfx88uM"
+      "duration_ms": 231594,
+      "name": "Reloj",
+      "url": "https://open.spotify.com/track/4loQgPwJHocL3dFwLfjb1J"
     }
   ],
   "unique_name": "Workout Latino",

@@ -1,12 +1,12 @@
 {
   "description": "All things <a href=\"spotify:genre:bass\">bass</a> with Subtronics",
-  "num_followers": 977284,
+  "num_followers": 977336,
   "original_name": "Bass Arcade",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwNWQwYWExMmQ1MTU2YmIzMDY0MTE4ZDkzODRhZTQxNjNiNTBhYzNi",
+  "snapshot_id": "MCxlMTAwZTczZjhkNTlmOTM4MDVhNjQwZDI5NGZiMjhhZmQ3YjkzYjNl",
   "tracks": [
     {
       "added_at": "2024-03-01 05:00:00",
@@ -1577,20 +1577,20 @@
       "url": "https://open.spotify.com/track/2vk63a0DpsEDiCG4k0mjCF"
     },
     {
-      "added_at": "2023-11-03 04:00:00",
+      "added_at": "2023-10-20 04:01:00",
       "album": {
-        "name": "Tear Jerker",
-        "url": "https://open.spotify.com/album/5vqaFNDtNXDaXjM7MoCOeu"
+        "name": "SAXORiDDiM",
+        "url": "https://open.spotify.com/album/1WsunKMSnqcyc51FuXD5Od"
       },
       "artists": [
         {
-          "name": "Cyclops",
-          "url": "https://open.spotify.com/artist/1vOTVnnyLvVTeuwrZLghCN"
+          "name": "GRiZ",
+          "url": "https://open.spotify.com/artist/25oLRSUjJk4YHNUsQXk7Ut"
         }
       ],
-      "duration_ms": 155538,
-      "name": "Tear Jerker",
-      "url": "https://open.spotify.com/track/44tKnY1Tsoe9jPGmoA1H2c"
+      "duration_ms": 188571,
+      "name": "SAXORiDDiM",
+      "url": "https://open.spotify.com/track/6DVZpwOZyjhPkL09b0mqtg"
     },
     {
       "added_at": "2024-02-02 05:00:00",
@@ -1613,20 +1613,20 @@
       "url": "https://open.spotify.com/track/2WiYG2Dgfqft21PBbF4Lxm"
     },
     {
-      "added_at": "2023-10-20 04:01:00",
+      "added_at": "2023-11-03 04:00:00",
       "album": {
-        "name": "SAXORiDDiM",
-        "url": "https://open.spotify.com/album/1WsunKMSnqcyc51FuXD5Od"
+        "name": "Tear Jerker",
+        "url": "https://open.spotify.com/album/5vqaFNDtNXDaXjM7MoCOeu"
       },
       "artists": [
         {
-          "name": "GRiZ",
-          "url": "https://open.spotify.com/artist/25oLRSUjJk4YHNUsQXk7Ut"
+          "name": "Cyclops",
+          "url": "https://open.spotify.com/artist/1vOTVnnyLvVTeuwrZLghCN"
         }
       ],
-      "duration_ms": 188571,
-      "name": "SAXORiDDiM",
-      "url": "https://open.spotify.com/track/6DVZpwOZyjhPkL09b0mqtg"
+      "duration_ms": 155538,
+      "name": "Tear Jerker",
+      "url": "https://open.spotify.com/track/44tKnY1Tsoe9jPGmoA1H2c"
     },
     {
       "added_at": "2024-01-05 05:03:38",
@@ -1853,6 +1853,26 @@
       "url": "https://open.spotify.com/track/172fEHxGJMdwxcD2ZR1er6"
     },
     {
+      "added_at": "2024-03-08 05:01:00",
+      "album": {
+        "name": "Buried Beneath You",
+        "url": "https://open.spotify.com/album/6V5Mgo4liTdgLpcEzRlUHU"
+      },
+      "artists": [
+        {
+          "name": "Kai Wachi",
+          "url": "https://open.spotify.com/artist/2fNr4ldujwq97v1jWeqs8K"
+        },
+        {
+          "name": "YMIR",
+          "url": "https://open.spotify.com/artist/7MxaflmSZI1igZLk7Rg2LD"
+        }
+      ],
+      "duration_ms": 211013,
+      "name": "Buried Beneath You",
+      "url": "https://open.spotify.com/track/0s21wy24ori9qnxzNBIHJd"
+    },
+    {
       "added_at": "2024-02-16 05:00:00",
       "album": {
         "name": "DISRESPECT",
@@ -1881,6 +1901,22 @@
       "url": "https://open.spotify.com/track/7LpQXlw2o9xWBE5CuATFJk"
     },
     {
+      "added_at": "2023-11-03 04:00:00",
+      "album": {
+        "name": "Stone cold.",
+        "url": "https://open.spotify.com/album/0XegDwoQDiCJYLu4VODUzx"
+      },
+      "artists": [
+        {
+          "name": "The Caracal Project",
+          "url": "https://open.spotify.com/artist/1m3Z3kHjeDDFzKNWqvTlYN"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "Stone cold.",
+      "url": "https://open.spotify.com/track/27hGDu6VTcXy0sugTIsDvv"
+    },
+    {
       "added_at": "2024-02-12 18:48:17",
       "album": {
         "name": "Rainbow Funk",
@@ -1899,42 +1935,6 @@
       "duration_ms": 160800,
       "name": "Rainbow Funk",
       "url": "https://open.spotify.com/track/4VwXCvFS1ogjSWKgClcHwa"
-    },
-    {
-      "added_at": "2023-11-03 04:00:00",
-      "album": {
-        "name": "Stone cold.",
-        "url": "https://open.spotify.com/album/0XegDwoQDiCJYLu4VODUzx"
-      },
-      "artists": [
-        {
-          "name": "The Caracal Project",
-          "url": "https://open.spotify.com/artist/1m3Z3kHjeDDFzKNWqvTlYN"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "Stone cold.",
-      "url": "https://open.spotify.com/track/27hGDu6VTcXy0sugTIsDvv"
-    },
-    {
-      "added_at": "2024-03-08 05:01:00",
-      "album": {
-        "name": "Buried Beneath You",
-        "url": "https://open.spotify.com/album/6V5Mgo4liTdgLpcEzRlUHU"
-      },
-      "artists": [
-        {
-          "name": "Kai Wachi",
-          "url": "https://open.spotify.com/artist/2fNr4ldujwq97v1jWeqs8K"
-        },
-        {
-          "name": "YMIR",
-          "url": "https://open.spotify.com/artist/7MxaflmSZI1igZLk7Rg2LD"
-        }
-      ],
-      "duration_ms": 211013,
-      "name": "Buried Beneath You",
-      "url": "https://open.spotify.com/track/0s21wy24ori9qnxzNBIHJd"
     },
     {
       "added_at": "2023-10-20 04:01:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9LT7r8qPxfa.md) - [plain]
 
 > deep & dark\. bold & bare\. cover: Samia
 
-[Spotify](https://open.spotify.com/user/spotify) - 260,447 likes - 100 songs - 6 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 260,454 likes - 100 songs - 6 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,13 +68,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9LT7r8qPxfa.md) - [plain]
 | 58 | [Blue](https://open.spotify.com/track/0VDMM80RCPz0ws1514vQ0S) | [Laura Elliott](https://open.spotify.com/artist/0YJEuTCD642Yp34CoiH0ox) | [People Pleaser](https://open.spotify.com/album/1j70typFafujL4ecw5kbmP) | 4:12 |
 | 59 | [I'm Afraid I Love You](https://open.spotify.com/track/0EgDkAi1hzNK3D3DjWs4bL) | [Adam Melchor](https://open.spotify.com/artist/54tv11ndFfiqXiR03PwdlB) | [Here Goes Nothing!](https://open.spotify.com/album/5GAuXiCpLD3PL7KLKT5AAt) | 2:38 |
 | 60 | [Would You Mind Please Pulling Me Close?](https://open.spotify.com/track/7aEiyMXBfAvmeRYFz9mOwi) | [Tasha](https://open.spotify.com/artist/4ZbFpxbORhzU78ve8e62Ej), [Gregory Uhlmann](https://open.spotify.com/artist/3apnkNwaHdhoNIvKVMiC5S) | [Would You Mind Please Pulling Me Close?](https://open.spotify.com/album/4hWXo3TffCSjs4GknfVrdu) | 4:03 |
-| 61 | [May](https://open.spotify.com/track/6HahXy57PZHiHTFdSCrW7U) | [Humbird](https://open.spotify.com/artist/0RLSq3hJOLcEezH3rTpnsB) | [Still Life](https://open.spotify.com/album/4pHFtbFFyiccsHgu1NvKQq) | 3:58 |
-| 62 | [Mortals](https://open.spotify.com/track/6SxCb6DNwXShYd6F2KcyBE) | [Tommy Lefroy](https://open.spotify.com/artist/3vldh5Ceynytj6Iglw4haP) | [Flight Risk EP](https://open.spotify.com/album/3WTRqQ60G0J3UEQPU57k1g) | 3:08 |
+| 61 | [Mortals](https://open.spotify.com/track/6SxCb6DNwXShYd6F2KcyBE) | [Tommy Lefroy](https://open.spotify.com/artist/3vldh5Ceynytj6Iglw4haP) | [Flight Risk EP](https://open.spotify.com/album/3WTRqQ60G0J3UEQPU57k1g) | 3:08 |
+| 62 | [May](https://open.spotify.com/track/6HahXy57PZHiHTFdSCrW7U) | [Humbird](https://open.spotify.com/artist/0RLSq3hJOLcEezH3rTpnsB) | [Still Life](https://open.spotify.com/album/4pHFtbFFyiccsHgu1NvKQq) | 3:58 |
 | 63 | [This Is What You Did](https://open.spotify.com/track/38Wlgvbw9rM2cm5ZQjMUl5) | [This Is The Kit](https://open.spotify.com/artist/0ZUyFEafMwocvApBjTXvdo) | [Off Off On](https://open.spotify.com/album/1X8kC5D2ke7puDYgalJtXj) | 3:12 |
 | 64 | [Stop Your Tears](https://open.spotify.com/track/2zWAa5XkVa1yg756YauQHF) | [Aldous Harding](https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG) | [Aldous Harding](https://open.spotify.com/album/3qNcM4FzzR7pT4JRNDqfyi) | 5:38 |
-| 65 | [Henry St.](https://open.spotify.com/track/0Yl3Jh6DYFcAbT9HlnIAmh) | [The Tallest Man On Earth](https://open.spotify.com/artist/2BpAc5eK7Rz5GAwSp9UYXa) | [Henry St.](https://open.spotify.com/album/6PawgZNtkuBH5uVY9qo2h9) | 4:29 |
-| 66 | [Wild Turkey](https://open.spotify.com/track/4aX4dqpYXTxRMTcjekxPyp) | [Amythyst Kiah](https://open.spotify.com/artist/1lhaaKpTyXOnjp79M3xYBl) | [Wild Turkey](https://open.spotify.com/album/7iaq4ZxNNKZl9v92lOxQ7N) | 4:32 |
-| 67 | [Love More](https://open.spotify.com/track/6wleKOJoHGaOPtJJWvJes6) | [Fiona Apple](https://open.spotify.com/artist/3g2kUQ6tHLLbmkV7T4GPtL) | [Love More](https://open.spotify.com/album/6CKCSM8cVK7JfKYptn3FU4) | 4:32 |
+| 65 | [Wild Turkey](https://open.spotify.com/track/4aX4dqpYXTxRMTcjekxPyp) | [Amythyst Kiah](https://open.spotify.com/artist/1lhaaKpTyXOnjp79M3xYBl) | [Wild Turkey](https://open.spotify.com/album/7iaq4ZxNNKZl9v92lOxQ7N) | 4:32 |
+| 66 | [Love More](https://open.spotify.com/track/6wleKOJoHGaOPtJJWvJes6) | [Fiona Apple](https://open.spotify.com/artist/3g2kUQ6tHLLbmkV7T4GPtL) | [Love More](https://open.spotify.com/album/6CKCSM8cVK7JfKYptn3FU4) | 4:32 |
+| 67 | [Henry St.](https://open.spotify.com/track/0Yl3Jh6DYFcAbT9HlnIAmh) | [The Tallest Man On Earth](https://open.spotify.com/artist/2BpAc5eK7Rz5GAwSp9UYXa) | [Henry St.](https://open.spotify.com/album/6PawgZNtkuBH5uVY9qo2h9) | 4:29 |
 | 68 | [Robber](https://open.spotify.com/track/57sW7XhinRtf8lL4GwzVGi) | [The Weather Station](https://open.spotify.com/artist/39ZEMGRv3pIYTYKEhr4Abu) | [Ignorance](https://open.spotify.com/album/3KeR5BDM2giFr8zoSXBrgE) | 5:20 |
 | 69 | [Drown](https://open.spotify.com/track/1fw7XQl4AGxM8ppPAR6y2i) | [Marika Hackman](https://open.spotify.com/artist/5DGJC3n9DS0Y9eY5ul9y0O) | [We Slept at Last](https://open.spotify.com/album/7bGKJT7GMChX7lM3txM9Iz) | 3:51 |
 | 70 | [Buzz](https://open.spotify.com/track/2HJfsvk8GKk6qCGLG8cMCA) | [Maddie Medley](https://open.spotify.com/artist/03JEWIBjHgE7jGqQZvG7k3) | [Coming Of Age pt\. 1](https://open.spotify.com/album/2QXM0eteTUsJ42k6T9fEEy) | 4:21 |
@@ -82,8 +82,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9LT7r8qPxfa.md) - [plain]
 | 72 | [The Hardest Part](https://open.spotify.com/track/31CqZPvgv8VwjQK2jcLSEn) | [Bre Kennedy](https://open.spotify.com/artist/61oqMHI8QuFrE5Qt91uJAj), [Hadley Kennary](https://open.spotify.com/artist/2Iskp0KzBnBOBDKrQbHo6f) | [The Hardest Part](https://open.spotify.com/album/3dlzxTH49iYilF7cLV1LK3) | 4:20 |
 | 73 | [The King of All Birds](https://open.spotify.com/track/6wEIUQhm6COBznfUTRGR1n) | [Aoife O'Donovan](https://open.spotify.com/artist/1f3ubTd6eyxuy30ddDJQQa) | [In the Magic Hour](https://open.spotify.com/album/5cUCgoaLWfzbwZRLVCIqTe) | 3:56 |
 | 74 | [Capable](https://open.spotify.com/track/6WC0MIb3nGYkniBsh5DkPh) | [The Wild Reeds](https://open.spotify.com/artist/3Q9WLyqkHw04V6DDtvPWwH) | [The World We Built](https://open.spotify.com/album/3Z7jF3AHU6lNKkqDFYCern) | 4:17 |
-| 75 | [Pictures of Flowers](https://open.spotify.com/track/33u3HQgpjtsdP6nDR5SKtf) | [Jess Williamson](https://open.spotify.com/artist/784kOgkd1H6jU4KgPMYHi9), [Hand Habits](https://open.spotify.com/artist/5poU7FPEYoBlwjzOEWMbX5) | [Pictures of Flowers](https://open.spotify.com/album/0e68piRWBeQPkDomRltnvf) | 4:20 |
-| 76 | [Shower Song](https://open.spotify.com/track/3pQ6Kt50YY8pnjwXK1z3Xm) | [tofusmell](https://open.spotify.com/artist/1iOQiPT8N1MQbdUaTaefyZ) | [Shower Song](https://open.spotify.com/album/3u1u4dS5Y0PwqUPxShxRke) | 2:47 |
+| 75 | [Shower Song](https://open.spotify.com/track/3pQ6Kt50YY8pnjwXK1z3Xm) | [tofusmell](https://open.spotify.com/artist/1iOQiPT8N1MQbdUaTaefyZ) | [Shower Song](https://open.spotify.com/album/3u1u4dS5Y0PwqUPxShxRke) | 2:47 |
+| 76 | [Pictures of Flowers](https://open.spotify.com/track/33u3HQgpjtsdP6nDR5SKtf) | [Jess Williamson](https://open.spotify.com/artist/784kOgkd1H6jU4KgPMYHi9), [Hand Habits](https://open.spotify.com/artist/5poU7FPEYoBlwjzOEWMbX5) | [Pictures of Flowers](https://open.spotify.com/album/0e68piRWBeQPkDomRltnvf) | 4:20 |
 | 77 | [Wild Parts](https://open.spotify.com/track/3RG5SUMbOTOEaQoOuCBSgG) | [Maddie Medley](https://open.spotify.com/artist/03JEWIBjHgE7jGqQZvG7k3) | [Wild Parts](https://open.spotify.com/album/7kTYlYTFHfIrL9kplUnRam) | 3:59 |
 | 78 | [Held Down](https://open.spotify.com/track/2PHeCBCWESSAqfxpORbxKA) | [Laura Marling](https://open.spotify.com/artist/7B2edU3Q7btJoNsoHCNohM) | [Held Down](https://open.spotify.com/album/0Mgg0Wv09HVGKnfj33Zo1K) | 4:07 |
 | 79 | [Maybe](https://open.spotify.com/track/1YeiQ89ozDpyfYydmiFGep) | [SOAK](https://open.spotify.com/artist/4PLsMEk2DCRVlVL2a9aZAv) | [Grim Town](https://open.spotify.com/album/2bvDcwRZacKz02UUAmF6Ns) | 4:30 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9LT7r8qPxfa.md) - [plain]
 | 99 | [Kitchen Table](https://open.spotify.com/track/1XxLV1Ag179JlXq1gwICcl) | [Molly Parden](https://open.spotify.com/artist/5dUUxJQg27XaHdKyLYwNg5) | [Kitchen Table](https://open.spotify.com/album/7zTtcqJ0SCAXuiALhxNEi0) | 3:28 |
 | 100 | [Unmoved \(A Black Woman Truth\)](https://open.spotify.com/track/2Ewaozo7Oe2XAI3sDlBvDk) | [Ayoni](https://open.spotify.com/artist/2Tju7nLsAMD6RTBna56hj6) | [Unmoved \(A Black Woman Truth\)](https://open.spotify.com/album/5cEVsl5FHxCB6mpyVKpoNP) | 4:16 |
 
-Snapshot ID: `MCwyMTRiYTc3ZjBkZWEwZDVlM2YzMGUxNGZjZmFkOWQyOTNkYTAxM2M2`
+Snapshot ID: `MCwwZDExMDcyMDhjMjQyN2Y3NzhhMzdmMDY0NWY2ODVkODgzZTMwMmRh`

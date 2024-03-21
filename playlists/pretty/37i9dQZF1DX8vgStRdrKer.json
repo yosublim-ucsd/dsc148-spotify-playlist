@@ -1,12 +1,12 @@
 {
   "description": "This playlist features gospel songs from Africa and beyond aimed at bringing you up close with the Lord. Cover:   <a href=\"https://open.spotify.com/artist/4HHLYB6bM6IuVvr2uOKj3P?si=dZwcyL4NTwS3bnIqUWGHOA\">Delight Munachy</a>",
-  "num_followers": 7704,
+  "num_followers": 7730,
   "original_name": "Redeemed",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjNGVhOWVlZWVmMjU4YzFjMDkxZDhkMWNmODVkOTVhYTg3N2FlNWE3",
+  "snapshot_id": "MCxlODNjOWQzMjcxMzIzMWJmOWYwODVmZjcxMjNhM2E1NzdjNTJmNzdh",
   "tracks": [
     {
       "added_at": "2024-02-02 00:01:00",
@@ -105,6 +105,22 @@
       "url": "https://open.spotify.com/track/19GRiA2ef367zIrmAm54e1"
     },
     {
+      "added_at": "2024-03-01 00:01:00",
+      "album": {
+        "name": "Overwhelming Victory",
+        "url": "https://open.spotify.com/album/1RPUyIlbmnswrtnUidC7jV"
+      },
+      "artists": [
+        {
+          "name": "Mercy Chinwo",
+          "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
+        }
+      ],
+      "duration_ms": 312980,
+      "name": "Only You Satisfy",
+      "url": "https://open.spotify.com/track/7EHn5jHANk2kTMXL8dN0Wr"
+    },
+    {
       "added_at": "2024-02-02 00:01:00",
       "album": {
         "name": "Emperor of the Universe",
@@ -123,22 +139,6 @@
       "duration_ms": 965565,
       "name": "Emperor of the Universe",
       "url": "https://open.spotify.com/track/4ewwe3fstt2FezTYwZehvo"
-    },
-    {
-      "added_at": "2024-03-01 00:01:00",
-      "album": {
-        "name": "Overwhelming Victory",
-        "url": "https://open.spotify.com/album/1RPUyIlbmnswrtnUidC7jV"
-      },
-      "artists": [
-        {
-          "name": "Mercy Chinwo",
-          "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
-        }
-      ],
-      "duration_ms": 312980,
-      "name": "Only You Satisfy",
-      "url": "https://open.spotify.com/track/7EHn5jHANk2kTMXL8dN0Wr"
     },
     {
       "added_at": "2024-03-08 00:01:00",
@@ -241,6 +241,22 @@
       "url": "https://open.spotify.com/track/7pJJctTJ5LthbfxzIAbseZ"
     },
     {
+      "added_at": "2024-03-08 00:01:00",
+      "album": {
+        "name": "Aileyipada",
+        "url": "https://open.spotify.com/album/2srl7GFgmEg0w9BleWvGOJ"
+      },
+      "artists": [
+        {
+          "name": "Sunmisola Agbebi",
+          "url": "https://open.spotify.com/artist/7fJd7w897ouOZzDc6e3oyU"
+        }
+      ],
+      "duration_ms": 395555,
+      "name": "Aileyipada",
+      "url": "https://open.spotify.com/track/2VMV8JIa71bZVhR9C1cRfH"
+    },
+    {
       "added_at": "2024-01-26 00:01:00",
       "album": {
         "name": "Altar (Hosanna)",
@@ -281,38 +297,6 @@
       "url": "https://open.spotify.com/track/1ePjErlDfOTAvsfdOCzsHa"
     },
     {
-      "added_at": "2024-03-08 00:01:00",
-      "album": {
-        "name": "Aileyipada",
-        "url": "https://open.spotify.com/album/2srl7GFgmEg0w9BleWvGOJ"
-      },
-      "artists": [
-        {
-          "name": "Sunmisola Agbebi",
-          "url": "https://open.spotify.com/artist/7fJd7w897ouOZzDc6e3oyU"
-        }
-      ],
-      "duration_ms": 395555,
-      "name": "Aileyipada",
-      "url": "https://open.spotify.com/track/2VMV8JIa71bZVhR9C1cRfH"
-    },
-    {
-      "added_at": "2024-02-02 00:01:00",
-      "album": {
-        "name": "Pain To Praise",
-        "url": "https://open.spotify.com/album/7A5B9Z5YL8mhRxglK0rljH"
-      },
-      "artists": [
-        {
-          "name": "Nsikan Louis",
-          "url": "https://open.spotify.com/artist/5oS7TVro4fEqwxwRCaUW8B"
-        }
-      ],
-      "duration_ms": 225000,
-      "name": "Pain To Praise",
-      "url": "https://open.spotify.com/track/2W1o9Q1zRVlPz1GYzGLXKM"
-    },
-    {
       "added_at": "2024-01-26 00:01:00",
       "album": {
         "name": "The Doing of the Lord",
@@ -351,6 +335,22 @@
       "duration_ms": 642124,
       "name": "Amaram Onyewem - Live",
       "url": "https://open.spotify.com/track/4hICkRdqsvZnu4B0gsY47v"
+    },
+    {
+      "added_at": "2024-02-02 00:01:00",
+      "album": {
+        "name": "Pain To Praise",
+        "url": "https://open.spotify.com/album/7A5B9Z5YL8mhRxglK0rljH"
+      },
+      "artists": [
+        {
+          "name": "Nsikan Louis",
+          "url": "https://open.spotify.com/artist/5oS7TVro4fEqwxwRCaUW8B"
+        }
+      ],
+      "duration_ms": 225000,
+      "name": "Pain To Praise",
+      "url": "https://open.spotify.com/track/2W1o9Q1zRVlPz1GYzGLXKM"
     },
     {
       "added_at": "2024-02-09 00:01:00",
@@ -413,22 +413,6 @@
       "url": "https://open.spotify.com/track/4DubS31RXrubsxE486uBPi"
     },
     {
-      "added_at": "2024-02-09 00:01:00",
-      "album": {
-        "name": "Surrender",
-        "url": "https://open.spotify.com/album/1MXMfvad0zlEQscHvBZU9h"
-      },
-      "artists": [
-        {
-          "name": "Jvson",
-          "url": "https://open.spotify.com/artist/0CbUlmC1cMua8bl6aQvP6F"
-        }
-      ],
-      "duration_ms": 172083,
-      "name": "Surrender",
-      "url": "https://open.spotify.com/track/5SCH6LHRQH3hfmqAlnU1yo"
-    },
-    {
       "added_at": "2024-03-08 00:01:00",
       "album": {
         "name": "I Testify (Live)",
@@ -449,6 +433,22 @@
       "url": "https://open.spotify.com/track/2hXrCdY4qSLeYLIgIhm5LI"
     },
     {
+      "added_at": "2024-02-09 00:01:00",
+      "album": {
+        "name": "Surrender",
+        "url": "https://open.spotify.com/album/1MXMfvad0zlEQscHvBZU9h"
+      },
+      "artists": [
+        {
+          "name": "Jvson",
+          "url": "https://open.spotify.com/artist/0CbUlmC1cMua8bl6aQvP6F"
+        }
+      ],
+      "duration_ms": 172083,
+      "name": "Surrender",
+      "url": "https://open.spotify.com/track/5SCH6LHRQH3hfmqAlnU1yo"
+    },
+    {
       "added_at": "2024-02-23 00:01:00",
       "album": {
         "name": "Na God I Dey Praise (Craze)",
@@ -465,22 +465,6 @@
       "url": "https://open.spotify.com/track/6iQQmSaJM6jki2RJF0UguT"
     },
     {
-      "added_at": "2024-03-08 00:01:00",
-      "album": {
-        "name": "Bobby",
-        "url": "https://open.spotify.com/album/1qKLi1EyvymkK24fMVOInz"
-      },
-      "artists": [
-        {
-          "name": "IMRSQD",
-          "url": "https://open.spotify.com/artist/3SjPZFpbGUgmdGqpLIZ2lc"
-        }
-      ],
-      "duration_ms": 168777,
-      "name": "Bobby",
-      "url": "https://open.spotify.com/track/3ZpRFfVJ0bS4l9ufwEkK0P"
-    },
-    {
       "added_at": "2024-02-23 00:01:00",
       "album": {
         "name": "Ngiyamazi Umhlengi Wam (Live At Cedarwoods of Sandton, 2023)",
@@ -495,6 +479,22 @@
       "duration_ms": 239506,
       "name": "Ngiyamazi Umhlengi Wami - Live At Cedarwoods of Sandton, 2023",
       "url": "https://open.spotify.com/track/2kUmCaHL6wXqq9CgTpqCBG"
+    },
+    {
+      "added_at": "2024-03-08 00:01:00",
+      "album": {
+        "name": "Bobby",
+        "url": "https://open.spotify.com/album/1qKLi1EyvymkK24fMVOInz"
+      },
+      "artists": [
+        {
+          "name": "IMRSQD",
+          "url": "https://open.spotify.com/artist/3SjPZFpbGUgmdGqpLIZ2lc"
+        }
+      ],
+      "duration_ms": 168777,
+      "name": "Bobby",
+      "url": "https://open.spotify.com/track/3ZpRFfVJ0bS4l9ufwEkK0P"
     },
     {
       "added_at": "2024-02-16 00:01:00",
@@ -593,22 +593,6 @@
       "url": "https://open.spotify.com/track/76aJBXDHpUhWS3xOeqKlSw"
     },
     {
-      "added_at": "2024-01-12 00:01:00",
-      "album": {
-        "name": "The Ground We Stand On",
-        "url": "https://open.spotify.com/album/4tGQvwzNZijg7RPx2qRWQr"
-      },
-      "artists": [
-        {
-          "name": "Mahalia Buchanan",
-          "url": "https://open.spotify.com/artist/77Usu1sGRDkXT40F6f14XC"
-        }
-      ],
-      "duration_ms": 253558,
-      "name": "Holy (Most High)",
-      "url": "https://open.spotify.com/track/7gatZEgRINjXo3zgxME8M3"
-    },
-    {
       "added_at": "2024-03-01 00:01:00",
       "album": {
         "name": "Angel",
@@ -625,20 +609,20 @@
       "url": "https://open.spotify.com/track/3DnJJUC203F4Ax9UIXyBWB"
     },
     {
-      "added_at": "2024-02-23 00:01:00",
+      "added_at": "2024-01-12 00:01:00",
       "album": {
-        "name": "Souvenirs",
-        "url": "https://open.spotify.com/album/1lrApbriCFLDx2Cof0lbxx"
+        "name": "The Ground We Stand On",
+        "url": "https://open.spotify.com/album/4tGQvwzNZijg7RPx2qRWQr"
       },
       "artists": [
         {
-          "name": "Emahoy Tsege Mariam Gebru",
-          "url": "https://open.spotify.com/artist/1D86M7ewUQH1vS0QsXCmI9"
+          "name": "Mahalia Buchanan",
+          "url": "https://open.spotify.com/artist/77Usu1sGRDkXT40F6f14XC"
         }
       ],
-      "duration_ms": 243321,
-      "name": "Tenkou! Why Feel Sorry?",
-      "url": "https://open.spotify.com/track/1CpY1MgTJFWzXVpXU19L89"
+      "duration_ms": 253558,
+      "name": "Holy (Most High)",
+      "url": "https://open.spotify.com/track/7gatZEgRINjXo3zgxME8M3"
     },
     {
       "added_at": "2024-03-15 00:01:00",
@@ -655,30 +639,6 @@
       "duration_ms": 383320,
       "name": "Unusual - Live At Cedarwoods of Sandton, 2023",
       "url": "https://open.spotify.com/track/2wEDJMF9LhhhHPKqnbsfW5"
-    },
-    {
-      "added_at": "2024-03-08 00:01:00",
-      "album": {
-        "name": "Indumiso yaseStezi",
-        "url": "https://open.spotify.com/album/5Ci8C1GuiWOK5tWQeq2KPd"
-      },
-      "artists": [
-        {
-          "name": "Thinah Zungu",
-          "url": "https://open.spotify.com/artist/0gqiNXIGbyBCBsbQ4TWJlg"
-        },
-        {
-          "name": "NUZ VOJ",
-          "url": "https://open.spotify.com/artist/5UKtBCqzTmnzTsYqcwt18O"
-        },
-        {
-          "name": "Jumbo",
-          "url": "https://open.spotify.com/artist/3S4LQkYcseGEqdwXe3MWYN"
-        }
-      ],
-      "duration_ms": 319837,
-      "name": "Amen",
-      "url": "https://open.spotify.com/track/0oFuL4quMVGs9Hi3NN7nkM"
     },
     {
       "added_at": "2024-03-08 00:01:00",
@@ -721,42 +681,6 @@
       "url": "https://open.spotify.com/track/1tLgZAYwJ3nzoJaCgyAj4I"
     },
     {
-      "added_at": "2024-01-26 00:01:00",
-      "album": {
-        "name": "Worship SZN",
-        "url": "https://open.spotify.com/album/1SvsQPNDkO6zaFmFrSp6EI"
-      },
-      "artists": [
-        {
-          "name": "Greatman Takit",
-          "url": "https://open.spotify.com/artist/47oK1JYR8A9TABs010suzH"
-        },
-        {
-          "name": "Grace Nelson",
-          "url": "https://open.spotify.com/artist/7kd6Pd5WjhkImAYH9PWpuu"
-        }
-      ],
-      "duration_ms": 568000,
-      "name": "Amen Amen",
-      "url": "https://open.spotify.com/track/2rA0d20J3R7IrtPjn8gUxm"
-    },
-    {
-      "added_at": "2024-02-09 00:01:00",
-      "album": {
-        "name": "Dry Bones",
-        "url": "https://open.spotify.com/album/55SIgOQ9eEOTGYxOW3fz7g"
-      },
-      "artists": [
-        {
-          "name": "Abbey Ojomu",
-          "url": "https://open.spotify.com/artist/4iH3ZFHoEkZcSdeFganofM"
-        }
-      ],
-      "duration_ms": 691541,
-      "name": "Dry Bones",
-      "url": "https://open.spotify.com/track/0de9ygeGsHpnmpgZHOLrPJ"
-    },
-    {
       "added_at": "2024-03-01 00:01:00",
       "album": {
         "name": "Deliverance",
@@ -781,6 +705,114 @@
       "url": "https://open.spotify.com/track/2J8OaxMbjG25WPenQNWv5s"
     },
     {
+      "added_at": "2024-02-23 00:01:00",
+      "album": {
+        "name": "Souvenirs",
+        "url": "https://open.spotify.com/album/1lrApbriCFLDx2Cof0lbxx"
+      },
+      "artists": [
+        {
+          "name": "Emahoy Tsege Mariam Gebru",
+          "url": "https://open.spotify.com/artist/1D86M7ewUQH1vS0QsXCmI9"
+        }
+      ],
+      "duration_ms": 243321,
+      "name": "Tenkou! Why Feel Sorry?",
+      "url": "https://open.spotify.com/track/1CpY1MgTJFWzXVpXU19L89"
+    },
+    {
+      "added_at": "2024-03-08 00:01:00",
+      "album": {
+        "name": "Indumiso yaseStezi",
+        "url": "https://open.spotify.com/album/5Ci8C1GuiWOK5tWQeq2KPd"
+      },
+      "artists": [
+        {
+          "name": "Thinah Zungu",
+          "url": "https://open.spotify.com/artist/0gqiNXIGbyBCBsbQ4TWJlg"
+        },
+        {
+          "name": "NUZ VOJ",
+          "url": "https://open.spotify.com/artist/5UKtBCqzTmnzTsYqcwt18O"
+        },
+        {
+          "name": "Jumbo",
+          "url": "https://open.spotify.com/artist/3S4LQkYcseGEqdwXe3MWYN"
+        }
+      ],
+      "duration_ms": 319837,
+      "name": "Amen",
+      "url": "https://open.spotify.com/track/0oFuL4quMVGs9Hi3NN7nkM"
+    },
+    {
+      "added_at": "2024-03-15 00:01:00",
+      "album": {
+        "name": "Testimony",
+        "url": "https://open.spotify.com/album/34uUjQomDNO14NZwPVgfyp"
+      },
+      "artists": [
+        {
+          "name": "Theresa Phondo",
+          "url": "https://open.spotify.com/artist/6mCpEfb5IMFQ2Iqtl1h8iX"
+        }
+      ],
+      "duration_ms": 177255,
+      "name": "Testimony",
+      "url": "https://open.spotify.com/track/3KK4GZBIXOtgfeN04QZdx0"
+    },
+    {
+      "added_at": "2024-03-15 00:01:00",
+      "album": {
+        "name": "Jesus To The City, Vol. 2 (Live)",
+        "url": "https://open.spotify.com/album/23pioDsK0GY8oM0lRTaFuU"
+      },
+      "artists": [
+        {
+          "name": "Mmuso Worship",
+          "url": "https://open.spotify.com/artist/5r5sBwAXxOibX4NHzP6j9s"
+        }
+      ],
+      "duration_ms": 186480,
+      "name": "Jeso O Ntekane (Reprise) - Live",
+      "url": "https://open.spotify.com/track/2snbZ33cTV6xQ5c42d6LST"
+    },
+    {
+      "added_at": "2024-02-09 00:01:00",
+      "album": {
+        "name": "Dry Bones",
+        "url": "https://open.spotify.com/album/55SIgOQ9eEOTGYxOW3fz7g"
+      },
+      "artists": [
+        {
+          "name": "Abbey Ojomu",
+          "url": "https://open.spotify.com/artist/4iH3ZFHoEkZcSdeFganofM"
+        }
+      ],
+      "duration_ms": 691541,
+      "name": "Dry Bones",
+      "url": "https://open.spotify.com/track/0de9ygeGsHpnmpgZHOLrPJ"
+    },
+    {
+      "added_at": "2024-01-26 00:01:00",
+      "album": {
+        "name": "Worship SZN",
+        "url": "https://open.spotify.com/album/1SvsQPNDkO6zaFmFrSp6EI"
+      },
+      "artists": [
+        {
+          "name": "Greatman Takit",
+          "url": "https://open.spotify.com/artist/47oK1JYR8A9TABs010suzH"
+        },
+        {
+          "name": "Grace Nelson",
+          "url": "https://open.spotify.com/artist/7kd6Pd5WjhkImAYH9PWpuu"
+        }
+      ],
+      "duration_ms": 568000,
+      "name": "Amen Amen",
+      "url": "https://open.spotify.com/track/2rA0d20J3R7IrtPjn8gUxm"
+    },
+    {
       "added_at": "2024-02-02 00:01:00",
       "album": {
         "name": "My Secret Place (Holy Spirit Take Over)",
@@ -799,18 +831,22 @@
     {
       "added_at": "2024-03-15 00:01:00",
       "album": {
-        "name": "Testimony",
-        "url": "https://open.spotify.com/album/34uUjQomDNO14NZwPVgfyp"
+        "name": "Eagles",
+        "url": "https://open.spotify.com/album/2huKs1pju9CSInbq9WFAiW"
       },
       "artists": [
         {
-          "name": "Theresa Phondo",
-          "url": "https://open.spotify.com/artist/6mCpEfb5IMFQ2Iqtl1h8iX"
+          "name": "Kojo Dave",
+          "url": "https://open.spotify.com/artist/2SjA4XyWd56a9VEfOoXrce"
+        },
+        {
+          "name": "Marizu",
+          "url": "https://open.spotify.com/artist/4rwolwLHj97rPwbhyNSeU9"
         }
       ],
-      "duration_ms": 177255,
-      "name": "Testimony",
-      "url": "https://open.spotify.com/track/3KK4GZBIXOtgfeN04QZdx0"
+      "duration_ms": 146820,
+      "name": "Eagles",
+      "url": "https://open.spotify.com/track/0vANfTcrIRMIb0Zgt8cidA"
     },
     {
       "added_at": "2024-02-16 00:01:00",
@@ -845,38 +881,6 @@
       "url": "https://open.spotify.com/track/2yYmdb2fPecJFrS9erTpvb"
     },
     {
-      "added_at": "2024-03-15 00:01:00",
-      "album": {
-        "name": "Jesus To The City, Vol. 2 (Live)",
-        "url": "https://open.spotify.com/album/23pioDsK0GY8oM0lRTaFuU"
-      },
-      "artists": [
-        {
-          "name": "Mmuso Worship",
-          "url": "https://open.spotify.com/artist/5r5sBwAXxOibX4NHzP6j9s"
-        }
-      ],
-      "duration_ms": 186480,
-      "name": "Jeso O Ntekane (Reprise) - Live",
-      "url": "https://open.spotify.com/track/2snbZ33cTV6xQ5c42d6LST"
-    },
-    {
-      "added_at": "2024-01-12 00:01:00",
-      "album": {
-        "name": "The Ground We Stand On",
-        "url": "https://open.spotify.com/album/4tGQvwzNZijg7RPx2qRWQr"
-      },
-      "artists": [
-        {
-          "name": "Mahalia Buchanan",
-          "url": "https://open.spotify.com/artist/77Usu1sGRDkXT40F6f14XC"
-        }
-      ],
-      "duration_ms": 512893,
-      "name": "The Ground We Stand On",
-      "url": "https://open.spotify.com/track/1iSVjVNGUwNDT8mFfqBMr5"
-    },
-    {
       "added_at": "2024-02-23 00:01:00",
       "album": {
         "name": "Holy",
@@ -897,24 +901,20 @@
       "url": "https://open.spotify.com/track/4edGYsHaOG3PjJpyrbFdKz"
     },
     {
-      "added_at": "2024-03-15 00:01:00",
+      "added_at": "2024-01-12 00:01:00",
       "album": {
-        "name": "Eagles",
-        "url": "https://open.spotify.com/album/2huKs1pju9CSInbq9WFAiW"
+        "name": "The Ground We Stand On",
+        "url": "https://open.spotify.com/album/4tGQvwzNZijg7RPx2qRWQr"
       },
       "artists": [
         {
-          "name": "Kojo Dave",
-          "url": "https://open.spotify.com/artist/2SjA4XyWd56a9VEfOoXrce"
-        },
-        {
-          "name": "Marizu",
-          "url": "https://open.spotify.com/artist/4rwolwLHj97rPwbhyNSeU9"
+          "name": "Mahalia Buchanan",
+          "url": "https://open.spotify.com/artist/77Usu1sGRDkXT40F6f14XC"
         }
       ],
-      "duration_ms": 146820,
-      "name": "Eagles",
-      "url": "https://open.spotify.com/track/0vANfTcrIRMIb0Zgt8cidA"
+      "duration_ms": 512893,
+      "name": "The Ground We Stand On",
+      "url": "https://open.spotify.com/track/1iSVjVNGUwNDT8mFfqBMr5"
     },
     {
       "added_at": "2024-02-16 00:01:00",

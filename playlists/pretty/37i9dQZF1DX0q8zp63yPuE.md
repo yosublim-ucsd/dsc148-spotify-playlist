@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0q8zp63yPuE.md) - [plain]
 
 > ¡Ponte a jalar sin miedo al éxito!
 
-[Spotify](https://open.spotify.com/user/spotify) - 123,745 likes - 100 songs - 5 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 123,774 likes - 100 songs - 5 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,8 +18,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0q8zp63yPuE.md) - [plain]
 | 8 | [El Gordo Trae El Mando](https://open.spotify.com/track/3kf0WdFOalKWBkCCLJo4mA) | [Chino Pacas](https://open.spotify.com/artist/2rmkQLzj0k4nZdQehOUByO) | [El Gordo Trae El Mando](https://open.spotify.com/album/0DqHNI5QhosQmpQ5Ojzqe6) | 1:52 |
 | 9 | [La Curiosidad](https://open.spotify.com/track/4HYDUMY0xSpeBr0AMY9cUz) | [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g), [DJ Nelson](https://open.spotify.com/artist/2ydZrTy8U3kOMOzx20s3dg), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [Platonicos](https://open.spotify.com/album/5sEpXan86hEcM8eZSAoWhw) | 3:39 |
 | 10 | [DEMBOW BÉLICO](https://open.spotify.com/track/0FkD2FHEZrZIofVkY6XPFK) | [Tito Double P](https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG), [Joel De La P](https://open.spotify.com/artist/4qDRNT8ldCfCjSp9lBzYC5), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [DEMBOW BÉLICO](https://open.spotify.com/album/0tBIOtAGyBryVpVVU4umOL) | 2:06 |
-| 11 | [un x100to](https://open.spotify.com/track/6pD0ufEQq0xdHSsRbg9LBK) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [un x100to](https://open.spotify.com/album/7aGzSSUD8S6IhPCsZSiuMT) | 3:14 |
-| 12 | [No Me Conoce \- Remix](https://open.spotify.com/track/2beS6dD5rovBxSA1zYoSHR) | [Jhayco](https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Famouz](https://open.spotify.com/album/2a2LGFK2TeN4fAKm1ZOc1I) | 5:09 |
+| 11 | [No Me Conoce \- Remix](https://open.spotify.com/track/2beS6dD5rovBxSA1zYoSHR) | [Jhayco](https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Famouz](https://open.spotify.com/album/2a2LGFK2TeN4fAKm1ZOc1I) | 5:09 |
+| 12 | [un x100to](https://open.spotify.com/track/6pD0ufEQq0xdHSsRbg9LBK) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [un x100to](https://open.spotify.com/album/7aGzSSUD8S6IhPCsZSiuMT) | 3:14 |
 | 13 | [CLASSY 101](https://open.spotify.com/track/6XSqqQIy7Lm7SnwxS4NrGx) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB) | [CLASSY 101](https://open.spotify.com/album/4jtQUtS4ABgER3DnGfKJCv) | 3:15 |
 | 14 | [Pepas](https://open.spotify.com/track/5fwSHlTEWpluwOM0Sxnh5k) | [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO) | [Pepas](https://open.spotify.com/album/2A5ksnhz7YWbRLvFMjX1j1) | 4:47 |
 | 15 | [Efecto](https://open.spotify.com/track/5Eax0qFko2dh7Rl2lYs3bx) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Un Verano Sin Ti](https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5) | 3:33 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0q8zp63yPuE.md) - [plain]
 | 99 | [En Blindadas](https://open.spotify.com/track/5SnT0c4vYrR93Zb7wqEAqo) | [Beto Sierra](https://open.spotify.com/artist/6kPf6aO5cAHU2RJUDN1UUy), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [En Blindadas](https://open.spotify.com/album/3jyPLQ5JSlA2SlDEgquSvY) | 3:10 |
 | 100 | [Hablando Claro \(En Vivo\)](https://open.spotify.com/track/5hRFjooNvZWb9gdnXjrv2j) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [Grupo Recluta](https://open.spotify.com/artist/2Dlvgi70UoJJicfKgoW5Vo) | [Hablando Claro \(En Vivo\)](https://open.spotify.com/album/2F58yhcgZckSuL5pDXqEi8) | 3:10 |
 
-Snapshot ID: `MCxlNDAxM2E0MjBhNjE0YWIyOTc5MGY1Njk4YjNkNGE2NGI1NGQ3N2I4`
+Snapshot ID: `MCxlNjUyMWM1YzlkZjNiNTZjNGJkYTNkY2Y0MWZkNTE1NDQxOGMzNzM1`

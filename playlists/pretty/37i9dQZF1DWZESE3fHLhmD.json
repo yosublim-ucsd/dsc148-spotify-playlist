@@ -1,12 +1,12 @@
 {
   "description": "Endlich Fr\u00fchling!",
-  "num_followers": 1283386,
+  "num_followers": 1283758,
   "original_name": "Fr\u00fchlingsgef\u00fchle",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0MDIzNDU4YTVmOGYzY2VlMzMxNzk0ZmY5YzcxNDdlY2JlMjViYmVi",
+  "snapshot_id": "MCxlNDY1M2UxMjdiMjJmMTVmYjk0NDljN2M5MzUyYmNhYzg5ZGQwOTM2",
   "tracks": [
     {
       "added_at": "2024-03-15 13:53:12",
@@ -75,22 +75,6 @@
     {
       "added_at": "2024-03-15 13:53:12",
       "album": {
-        "name": "I Love You.",
-        "url": "https://open.spotify.com/album/4xkM0BwLM9H2IUcbYzpcBI"
-      },
-      "artists": [
-        {
-          "name": "The Neighbourhood",
-          "url": "https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh"
-        }
-      ],
-      "duration_ms": 240400,
-      "name": "Sweater Weather",
-      "url": "https://open.spotify.com/track/2QjOHCTQ1Jl3zawyYOpxh6"
-    },
-    {
-      "added_at": "2024-03-15 13:53:12",
-      "album": {
         "name": "Scared To Start",
         "url": "https://open.spotify.com/album/3NpeIWhWsxU7d3XL5KEh39"
       },
@@ -103,6 +87,22 @@
       "duration_ms": 159636,
       "name": "Scared To Start",
       "url": "https://open.spotify.com/track/3Pbp7cUCx4d3OAkZSCoNvn"
+    },
+    {
+      "added_at": "2024-03-15 13:53:12",
+      "album": {
+        "name": "I Love You.",
+        "url": "https://open.spotify.com/album/4xkM0BwLM9H2IUcbYzpcBI"
+      },
+      "artists": [
+        {
+          "name": "The Neighbourhood",
+          "url": "https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh"
+        }
+      ],
+      "duration_ms": 240400,
+      "name": "Sweater Weather",
+      "url": "https://open.spotify.com/track/2QjOHCTQ1Jl3zawyYOpxh6"
     },
     {
       "added_at": "2024-03-15 13:53:12",
@@ -443,6 +443,22 @@
     {
       "added_at": "2024-03-15 13:53:12",
       "album": {
+        "name": "No Fear",
+        "url": "https://open.spotify.com/album/35uDNZkjmhAEnV3sz9A7jI"
+      },
+      "artists": [
+        {
+          "name": "DeJ Loaf",
+          "url": "https://open.spotify.com/artist/7kFfY4UjNdNyaeUgLIEbIF"
+        }
+      ],
+      "duration_ms": 169853,
+      "name": "No Fear",
+      "url": "https://open.spotify.com/track/2H881m3JRA8lpuuwaQL6zy"
+    },
+    {
+      "added_at": "2024-03-15 13:53:12",
+      "album": {
         "name": "GUTS",
         "url": "https://open.spotify.com/album/1xJHno7SmdVtZAtXbdbDZp"
       },
@@ -491,22 +507,6 @@
       "duration_ms": 194416,
       "name": "Homesick (with Sam Fender)",
       "url": "https://open.spotify.com/track/2l7UudWZ44l1WbHx6ANod9"
-    },
-    {
-      "added_at": "2024-03-15 13:53:12",
-      "album": {
-        "name": "No Fear",
-        "url": "https://open.spotify.com/album/35uDNZkjmhAEnV3sz9A7jI"
-      },
-      "artists": [
-        {
-          "name": "DeJ Loaf",
-          "url": "https://open.spotify.com/artist/7kFfY4UjNdNyaeUgLIEbIF"
-        }
-      ],
-      "duration_ms": 169853,
-      "name": "No Fear",
-      "url": "https://open.spotify.com/track/2H881m3JRA8lpuuwaQL6zy"
     },
     {
       "added_at": "2024-03-15 13:53:12",
@@ -567,18 +567,22 @@
     {
       "added_at": "2024-03-15 13:53:12",
       "album": {
-        "name": "Fall out of Line",
-        "url": "https://open.spotify.com/album/0j9ER085qAs6Wd1P53hOGn"
+        "name": "eternal sunshine (slightly deluxe)",
+        "url": "https://open.spotify.com/album/5Csjy4XeA7KnizkhIvI7y2"
       },
       "artists": [
         {
-          "name": "He Is We",
-          "url": "https://open.spotify.com/artist/6yFbpXlBH8XHVQGjUPUvKU"
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        },
+        {
+          "name": "Troye Sivan",
+          "url": "https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP"
         }
       ],
-      "duration_ms": 200059,
-      "name": "I Wouldn't Mind",
-      "url": "https://open.spotify.com/track/1XcFa5d1qoWdCIICnXlggj"
+      "duration_ms": 163381,
+      "name": "supernatural (with Troye Sivan)",
+      "url": "https://open.spotify.com/track/3iJOkxYP59kFJ5OLgHo4Tp"
     },
     {
       "added_at": "2024-03-15 13:53:12",
@@ -599,6 +603,22 @@
     {
       "added_at": "2024-03-15 13:53:12",
       "album": {
+        "name": "Fall out of Line",
+        "url": "https://open.spotify.com/album/0j9ER085qAs6Wd1P53hOGn"
+      },
+      "artists": [
+        {
+          "name": "He Is We",
+          "url": "https://open.spotify.com/artist/6yFbpXlBH8XHVQGjUPUvKU"
+        }
+      ],
+      "duration_ms": 200059,
+      "name": "I Wouldn't Mind",
+      "url": "https://open.spotify.com/track/1XcFa5d1qoWdCIICnXlggj"
+    },
+    {
+      "added_at": "2024-03-15 13:53:12",
+      "album": {
         "name": "How Do I Say Goodbye",
         "url": "https://open.spotify.com/album/3cptxwPFf3Ioj7I3AVX3mp"
       },
@@ -611,26 +631,6 @@
       "duration_ms": 163603,
       "name": "How Do I Say Goodbye",
       "url": "https://open.spotify.com/track/5hnGrTBaEsdukpDF6aZg8a"
-    },
-    {
-      "added_at": "2024-03-15 13:53:12",
-      "album": {
-        "name": "eternal sunshine (slightly deluxe)",
-        "url": "https://open.spotify.com/album/5Csjy4XeA7KnizkhIvI7y2"
-      },
-      "artists": [
-        {
-          "name": "Ariana Grande",
-          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
-        },
-        {
-          "name": "Troye Sivan",
-          "url": "https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP"
-        }
-      ],
-      "duration_ms": 163381,
-      "name": "supernatural (with Troye Sivan)",
-      "url": "https://open.spotify.com/track/3iJOkxYP59kFJ5OLgHo4Tp"
     },
     {
       "added_at": "2024-03-15 13:53:12",
@@ -731,6 +731,38 @@
     {
       "added_at": "2024-03-15 13:53:12",
       "album": {
+        "name": "Too Much",
+        "url": "https://open.spotify.com/album/1hb46dctiqHMNrp3QGXwKr"
+      },
+      "artists": [
+        {
+          "name": "girl in red",
+          "url": "https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9"
+        }
+      ],
+      "duration_ms": 183473,
+      "name": "Too Much",
+      "url": "https://open.spotify.com/track/36FZL9SzRh5BhtG1cUyGWr"
+    },
+    {
+      "added_at": "2024-03-15 13:53:12",
+      "album": {
+        "name": "Belong Together",
+        "url": "https://open.spotify.com/album/3PlCMwyq6nuQYtoYproV1o"
+      },
+      "artists": [
+        {
+          "name": "Mark Ambor",
+          "url": "https://open.spotify.com/artist/11p2E654TTU8e0nZWBR4AL"
+        }
+      ],
+      "duration_ms": 148317,
+      "name": "Belong Together",
+      "url": "https://open.spotify.com/track/5uQ7de4EWjb3rkcFxyEOpu"
+    },
+    {
+      "added_at": "2024-03-15 13:53:12",
+      "album": {
         "name": "Everywhere, Everything (with Gracie Abrams)",
         "url": "https://open.spotify.com/album/0kOisOp4b7xNUNs7aSMSno"
       },
@@ -747,22 +779,6 @@
       "duration_ms": 257668,
       "name": "Everywhere, Everything (with Gracie Abrams)",
       "url": "https://open.spotify.com/track/4PRdeh2zIyM1pvY4x5luLe"
-    },
-    {
-      "added_at": "2024-03-15 13:53:12",
-      "album": {
-        "name": "Too Much",
-        "url": "https://open.spotify.com/album/1hb46dctiqHMNrp3QGXwKr"
-      },
-      "artists": [
-        {
-          "name": "girl in red",
-          "url": "https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9"
-        }
-      ],
-      "duration_ms": 183473,
-      "name": "Too Much",
-      "url": "https://open.spotify.com/track/36FZL9SzRh5BhtG1cUyGWr"
     },
     {
       "added_at": "2024-03-15 13:53:12",
@@ -799,22 +815,6 @@
     {
       "added_at": "2024-03-15 13:53:12",
       "album": {
-        "name": "Belong Together",
-        "url": "https://open.spotify.com/album/3PlCMwyq6nuQYtoYproV1o"
-      },
-      "artists": [
-        {
-          "name": "Mark Ambor",
-          "url": "https://open.spotify.com/artist/11p2E654TTU8e0nZWBR4AL"
-        }
-      ],
-      "duration_ms": 148317,
-      "name": "Belong Together",
-      "url": "https://open.spotify.com/track/5uQ7de4EWjb3rkcFxyEOpu"
-    },
-    {
-      "added_at": "2024-03-15 13:53:12",
-      "album": {
         "name": "THE FIRST TIME",
         "url": "https://open.spotify.com/album/63IolVUykZCHMlu2zu9jHS"
       },
@@ -827,6 +827,22 @@
       "duration_ms": 169990,
       "name": "BLEED",
       "url": "https://open.spotify.com/track/2m6HgwjakjAXimujX8m4sk"
+    },
+    {
+      "added_at": "2024-03-15 13:53:12",
+      "album": {
+        "name": "Run Your Mouth",
+        "url": "https://open.spotify.com/album/1CffBsDXjxsZH53y29UuiP"
+      },
+      "artists": [
+        {
+          "name": "The Mar\u00edas",
+          "url": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "Run Your Mouth",
+      "url": "https://open.spotify.com/track/7lw4J2RfcPs2hEJgPY44lC"
     },
     {
       "added_at": "2024-03-15 13:53:12",
@@ -859,22 +875,6 @@
       "duration_ms": 173630,
       "name": "Left Hand Free",
       "url": "https://open.spotify.com/track/4iEOVEULZRvmzYSZY2ViKN"
-    },
-    {
-      "added_at": "2024-03-15 13:53:12",
-      "album": {
-        "name": "Run Your Mouth",
-        "url": "https://open.spotify.com/album/1CffBsDXjxsZH53y29UuiP"
-      },
-      "artists": [
-        {
-          "name": "The Mar\u00edas",
-          "url": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "Run Your Mouth",
-      "url": "https://open.spotify.com/track/7lw4J2RfcPs2hEJgPY44lC"
     },
     {
       "added_at": "2024-03-15 13:53:12",
@@ -1191,22 +1191,6 @@
     {
       "added_at": "2024-03-15 13:53:12",
       "album": {
-        "name": "The Roads",
-        "url": "https://open.spotify.com/album/2QRL4SnhoN9c6bK8R93o1k"
-      },
-      "artists": [
-        {
-          "name": "Jonah Kagen",
-          "url": "https://open.spotify.com/artist/5KsRA81UaMVKvLNiwDySfp"
-        }
-      ],
-      "duration_ms": 250597,
-      "name": "The Roads",
-      "url": "https://open.spotify.com/track/1z8cabK9f2r2pXWx30ErUW"
-    },
-    {
-      "added_at": "2024-03-15 13:53:12",
-      "album": {
         "name": "Cigarettes & Wine (feat. Holly Humberstone)",
         "url": "https://open.spotify.com/album/0KUNjsa4YtmFilHMgwLzfo"
       },
@@ -1227,6 +1211,22 @@
     {
       "added_at": "2024-03-15 13:53:12",
       "album": {
+        "name": "The Roads",
+        "url": "https://open.spotify.com/album/2QRL4SnhoN9c6bK8R93o1k"
+      },
+      "artists": [
+        {
+          "name": "Jonah Kagen",
+          "url": "https://open.spotify.com/artist/5KsRA81UaMVKvLNiwDySfp"
+        }
+      ],
+      "duration_ms": 250597,
+      "name": "The Roads",
+      "url": "https://open.spotify.com/track/1z8cabK9f2r2pXWx30ErUW"
+    },
+    {
+      "added_at": "2024-03-15 13:53:12",
+      "album": {
         "name": "nie wieder normal",
         "url": "https://open.spotify.com/album/6VUg6frxqTVbVlIn4oFoav"
       },
@@ -1243,6 +1243,26 @@
       "duration_ms": 197618,
       "name": "nie wieder normal",
       "url": "https://open.spotify.com/track/5exlcLrnyW9DEmLCjke1Wv"
+    },
+    {
+      "added_at": "2024-03-15 13:53:12",
+      "album": {
+        "name": "Mexico",
+        "url": "https://open.spotify.com/album/3KU0NNhdNFksujfg39R6D9"
+      },
+      "artists": [
+        {
+          "name": "Goth Babe",
+          "url": "https://open.spotify.com/artist/7o96HO2zrujyATtVsqGhh3"
+        },
+        {
+          "name": "Surfaces",
+          "url": "https://open.spotify.com/artist/4ETSs924pXMzjIeD6E9b4u"
+        }
+      ],
+      "duration_ms": 176632,
+      "name": "Mexico",
+      "url": "https://open.spotify.com/track/5e9f2mQ8DYtZa9UcrZZRNt"
     },
     {
       "added_at": "2024-03-15 13:53:12",
@@ -1351,26 +1371,6 @@
     {
       "added_at": "2024-03-15 13:53:12",
       "album": {
-        "name": "Mexico",
-        "url": "https://open.spotify.com/album/3KU0NNhdNFksujfg39R6D9"
-      },
-      "artists": [
-        {
-          "name": "Goth Babe",
-          "url": "https://open.spotify.com/artist/7o96HO2zrujyATtVsqGhh3"
-        },
-        {
-          "name": "Surfaces",
-          "url": "https://open.spotify.com/artist/4ETSs924pXMzjIeD6E9b4u"
-        }
-      ],
-      "duration_ms": 176632,
-      "name": "Mexico",
-      "url": "https://open.spotify.com/track/5e9f2mQ8DYtZa9UcrZZRNt"
-    },
-    {
-      "added_at": "2024-03-15 13:53:12",
-      "album": {
         "name": "How Have You Been?",
         "url": "https://open.spotify.com/album/4FqEHLgdiMHXboXIztMkkO"
       },
@@ -1419,6 +1419,22 @@
     {
       "added_at": "2024-03-15 13:53:12",
       "album": {
+        "name": "Me Da Igual",
+        "url": "https://open.spotify.com/album/15IMmxQWpYmDaCuZkBWLrN"
+      },
+      "artists": [
+        {
+          "name": "L'Imp\u00e9ratrice",
+          "url": "https://open.spotify.com/artist/4PwlsrN0t5mLN0C827cbEU"
+        }
+      ],
+      "duration_ms": 209242,
+      "name": "Me Da Igual",
+      "url": "https://open.spotify.com/track/0ri4EFGPe0GqSl8Mp1yYuE"
+    },
+    {
+      "added_at": "2024-03-15 13:53:12",
+      "album": {
         "name": "Autumn Variations (Fan Living Room Sessions)",
         "url": "https://open.spotify.com/album/5bLE2kmkZWlzAYeb6To6LA"
       },
@@ -1447,22 +1463,6 @@
       "duration_ms": 164840,
       "name": "June",
       "url": "https://open.spotify.com/track/5MOQEkTya2UEh5N2pHiYf6"
-    },
-    {
-      "added_at": "2024-03-15 13:53:12",
-      "album": {
-        "name": "Me Da Igual",
-        "url": "https://open.spotify.com/album/15IMmxQWpYmDaCuZkBWLrN"
-      },
-      "artists": [
-        {
-          "name": "L'Imp\u00e9ratrice",
-          "url": "https://open.spotify.com/artist/4PwlsrN0t5mLN0C827cbEU"
-        }
-      ],
-      "duration_ms": 209242,
-      "name": "Me Da Igual",
-      "url": "https://open.spotify.com/track/0ri4EFGPe0GqSl8Mp1yYuE"
     },
     {
       "added_at": "2024-03-15 13:53:12",

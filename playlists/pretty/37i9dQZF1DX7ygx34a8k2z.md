@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ygx34a8k2z.md) - [plain]
 
 > dig through the record bin.
 
-[Spotify](https://open.spotify.com/user/spotify) - 211,958 likes - 100 songs - 6 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 212,185 likes - 100 songs - 6 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,16 +33,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ygx34a8k2z.md) - [plain]
 | 23 | [Bullet With Butterfly Wings \- Remastered 2012](https://open.spotify.com/track/6GtX0jaNL8IjVQfrDBx81z) | [The Smashing Pumpkins](https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i) | [Mellon Collie And The Infinite Sadness \(Deluxe Edition\)](https://open.spotify.com/album/55RhFRyQFihIyGf61MgcfV) | 4:18 |
 | 24 | [All Apologies](https://open.spotify.com/track/1Ic9pKxGSJGM0LKeqf6lGe) | [Nirvana](https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh) | [In Utero](https://open.spotify.com/album/7wOOA7l306K8HfBKfPoafr) | 3:53 |
 | 25 | [Glory Box](https://open.spotify.com/track/3Ty7OTBNSigGEpeW2PqcsC) | [Portishead](https://open.spotify.com/artist/6liAMWkVf5LH7YR9yfFy1Y) | [Dummy](https://open.spotify.com/album/3539EbNgIdEDGBKkUf4wno) | 5:08 |
-| 26 | [Here Comes Your Man](https://open.spotify.com/track/4IvZLDtwBHmBmwgDIUbuwa) | [Pixies](https://open.spotify.com/artist/6zvul52xwTWzilBZl6BUbT) | [Doolittle](https://open.spotify.com/album/0DQyTVcDhK9wm0f6RaErWO) | 3:21 |
+| 26 | [Harness Your Hopes \- B\-side](https://open.spotify.com/track/4vsoWZcvtvSsE0OiVvDDvX) | [Pavement](https://open.spotify.com/artist/3inCNiUr4R6XQ3W43s9Aqi) | [Brighten the Corners: Nicene Creedence Ed.](https://open.spotify.com/album/2z8iibF0hCuBb9h9gYkuO7) | 3:26 |
 | 27 | [Fake Plastic Trees](https://open.spotify.com/track/73CKjW3vsUXRpy3NnX4H7F) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [The Bends](https://open.spotify.com/album/35UJLpClj5EDrhpNIi4DFg) | 4:50 |
 | 28 | [Cut Your Hair](https://open.spotify.com/track/4tBl1xhBg5PETpBvFnQmGl) | [Pavement](https://open.spotify.com/artist/3inCNiUr4R6XQ3W43s9Aqi) | [Crooked Rain, Crooked Rain](https://open.spotify.com/album/1XFNz6KIvLyIsLFOiLRKqP) | 3:06 |
 | 29 | [Pictures Of Success](https://open.spotify.com/track/6Qa6soMB9oo7GxtP9bLEzb) | [Rilo Kiley](https://open.spotify.com/artist/2cevwbv7ISD92VMNLYLHZA) | [Take Offs And Landings](https://open.spotify.com/album/7wCKIseB72EdOAYGJwytBt) | 6:51 |
 | 30 | [Yoshimi Battles the Pink Robots, Pt\. 1](https://open.spotify.com/track/0ccCwNzXvr1Yoz91vKz31Z) | [The Flaming Lips](https://open.spotify.com/artist/16eRpMNXSQ15wuJoeqguaB) | [Yoshimi Battles the Pink Robots](https://open.spotify.com/album/49LA20VMk65fQyEaIzYdvf) | 4:47 |
-| 31 | [Blister In The Sun](https://open.spotify.com/track/7jIAttgQTpLDoNtykIQXjH) | [Violent Femmes](https://open.spotify.com/artist/0rpMdBzQXf7aYRnu5fDBJy) | [Violent Femmes](https://open.spotify.com/album/0Ojio25IPzIrw1rUmgrhrG) | 2:25 |
-| 32 | [Jeremy](https://open.spotify.com/track/62nQ8UZVqR2RMvkJHkcO2o) | [Pearl Jam](https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56) | [Ten](https://open.spotify.com/album/5B4PYA7wNN4WdEXdIJu58a) | 5:18 |
-| 33 | [Lump](https://open.spotify.com/track/02ZdZqhpfrPnxwyakXgxB8) | [The Presidents Of The United States Of America](https://open.spotify.com/artist/1lZvg4fNAqHoj6I9N8naBM) | [The Presidents of The United States of America: Ten Year Super Bonus Special Anniversary Edition](https://open.spotify.com/album/7qh8188T5LB7bdCBlk6SO1) | 2:14 |
-| 34 | [My Favourite Game](https://open.spotify.com/track/0Ui05Ov0s4PnRc4JI3Pilg) | [The Cardigans](https://open.spotify.com/artist/1tqZaCwM57UFKjWoYwMLrw) | [Gran Turismo \(Remastered\)](https://open.spotify.com/album/5DiOwioOBqVCSH6IwGBXEc) | 3:40 |
-| 35 | [Harness Your Hopes \- B\-side](https://open.spotify.com/track/4vsoWZcvtvSsE0OiVvDDvX) | [Pavement](https://open.spotify.com/artist/3inCNiUr4R6XQ3W43s9Aqi) | [Brighten the Corners: Nicene Creedence Ed.](https://open.spotify.com/album/2z8iibF0hCuBb9h9gYkuO7) | 3:26 |
+| 31 | [Here Comes Your Man](https://open.spotify.com/track/4IvZLDtwBHmBmwgDIUbuwa) | [Pixies](https://open.spotify.com/artist/6zvul52xwTWzilBZl6BUbT) | [Doolittle](https://open.spotify.com/album/0DQyTVcDhK9wm0f6RaErWO) | 3:21 |
+| 32 | [Blister In The Sun](https://open.spotify.com/track/7jIAttgQTpLDoNtykIQXjH) | [Violent Femmes](https://open.spotify.com/artist/0rpMdBzQXf7aYRnu5fDBJy) | [Violent Femmes](https://open.spotify.com/album/0Ojio25IPzIrw1rUmgrhrG) | 2:25 |
+| 33 | [Jeremy](https://open.spotify.com/track/62nQ8UZVqR2RMvkJHkcO2o) | [Pearl Jam](https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56) | [Ten](https://open.spotify.com/album/5B4PYA7wNN4WdEXdIJu58a) | 5:18 |
+| 34 | [Lump](https://open.spotify.com/track/02ZdZqhpfrPnxwyakXgxB8) | [The Presidents Of The United States Of America](https://open.spotify.com/artist/1lZvg4fNAqHoj6I9N8naBM) | [The Presidents of The United States of America: Ten Year Super Bonus Special Anniversary Edition](https://open.spotify.com/album/7qh8188T5LB7bdCBlk6SO1) | 2:14 |
+| 35 | [My Favourite Game](https://open.spotify.com/track/0Ui05Ov0s4PnRc4JI3Pilg) | [The Cardigans](https://open.spotify.com/artist/1tqZaCwM57UFKjWoYwMLrw) | [Gran Turismo \(Remastered\)](https://open.spotify.com/album/5DiOwioOBqVCSH6IwGBXEc) | 3:40 |
 | 36 | [Loser](https://open.spotify.com/track/5PntSbMHC1ud6Vvl8x56qd) | [Beck](https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS) | [Mellow Gold](https://open.spotify.com/album/0iIGP4Sxw3KR4OCFv2yvz8) | 3:55 |
 | 37 | [Teardrop](https://open.spotify.com/track/67Hna13dNDkZvBpTXRIaOJ) | [Massive Attack](https://open.spotify.com/artist/6FXMGgJwohJLUSr5nVlf9X), [Elizabeth Fraser](https://open.spotify.com/artist/791Z3924aa619hZ3xsOJEx) | [Mezzanine](https://open.spotify.com/album/49MNmJhZQewjt06rpwp6QR) | 5:30 |
 | 38 | [Sex & Candy](https://open.spotify.com/track/5mkGfmJGFZpwK9nA5amOhv) | [Marcy Playground](https://open.spotify.com/artist/7AQzXO3NPNQsI7oNu5rC3r) | [Marcy Playground](https://open.spotify.com/album/5dR0fhE3oveLRSUMMQ3oRB) | 2:53 |
@@ -96,8 +96,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ygx34a8k2z.md) - [plain]
 | 86 | [Pets](https://open.spotify.com/track/5kcQEPksJHTOLQ4In5oGN2) | [Porno for Pyros](https://open.spotify.com/artist/58etTNn7xmsQZhjnfjpAXL) | [Porno For Pyros](https://open.spotify.com/album/1wTVRmgk25jTh6VsrxCFDr) | 3:36 |
 | 87 | [Game Of Pricks](https://open.spotify.com/track/7E99aG3oPQslXHHdnKFAmB) | [Guided By Voices](https://open.spotify.com/artist/4oV5EVJ0XFWsJKoOvdRPvl) | [Alien Lanes](https://open.spotify.com/album/4QV8iMlscaIpidQHcErzbE) | 1:33 |
 | 88 | [Gold Soundz](https://open.spotify.com/track/3QVtDnXU5zqGWxWDFBMiDj) | [Pavement](https://open.spotify.com/artist/3inCNiUr4R6XQ3W43s9Aqi) | [Crooked Rain, Crooked Rain](https://open.spotify.com/album/1XFNz6KIvLyIsLFOiLRKqP) | 2:39 |
-| 89 | [I Don't Know \- Remastered 2009](https://open.spotify.com/track/10FLYqpqDN4uo6eWtD6WEB) | [Beastie Boys](https://open.spotify.com/artist/03r4iKL2g2442PT9n2UKsx), [Miho Hatori](https://open.spotify.com/artist/21StrITbN3uLjv5OdsLAja) | [Hello Nasty \(Deluxe Edition/Remastered\)](https://open.spotify.com/album/6eGYLONkDMja0MNtZWnRRB) | 3:00 |
-| 90 | [Human Behaviour](https://open.spotify.com/track/5OnyZ56HLhrWOXdzeETqLk) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Debut](https://open.spotify.com/album/3icT9XGrBfhlV8BKK4WEGX) | 4:12 |
+| 89 | [Human Behaviour](https://open.spotify.com/track/5OnyZ56HLhrWOXdzeETqLk) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Debut](https://open.spotify.com/album/3icT9XGrBfhlV8BKK4WEGX) | 4:12 |
+| 90 | [I Don't Know \- Remastered 2009](https://open.spotify.com/track/10FLYqpqDN4uo6eWtD6WEB) | [Beastie Boys](https://open.spotify.com/artist/03r4iKL2g2442PT9n2UKsx), [Miho Hatori](https://open.spotify.com/artist/21StrITbN3uLjv5OdsLAja) | [Hello Nasty \(Deluxe Edition/Remastered\)](https://open.spotify.com/album/6eGYLONkDMja0MNtZWnRRB) | 3:00 |
 | 91 | [You Can Have It All](https://open.spotify.com/track/5s91S8hSrJXqYdhwHOEioV) | [Yo La Tengo](https://open.spotify.com/artist/5hAhrnb0Ch4ODwWu4tsbpi) | [And Then Nothing Turned Itself Inside\-Out](https://open.spotify.com/album/5iVEe1GHMtvUHwwqArThFa) | 4:36 |
 | 92 | [Piano Fire](https://open.spotify.com/track/0N3H8hAe6Lfu2iGSxGVdGQ) | [Sparklehorse](https://open.spotify.com/artist/64tVHZVSAZhDEiOJxnb6hE), [PJ Harvey](https://open.spotify.com/artist/12VaqyEhgwDRuFfEqbnrpz) | [It's A Wonderful Life](https://open.spotify.com/album/6iP3HGmoRXFUrKiml2QVkz) | 2:43 |
 | 93 | [Roadrunner \(Alternative Version\)](https://open.spotify.com/track/0qRSrdDK4xj1doRViNPYwM) | [The Modern Lovers](https://open.spotify.com/artist/2eRdPaLHWAL4d1WcNUO9Vz) | [The Modern Lovers \(Expanded Version\)](https://open.spotify.com/album/7ro1W6lc4tuTaRyA8rnVm1) | 4:55 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ygx34a8k2z.md) - [plain]
 | 99 | [Drowned World / Substitute for Love](https://open.spotify.com/track/0beXeFEWUYYY13fYVHTtFk) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Ray of Light](https://open.spotify.com/album/6cuNyrSmRjBeekioLdLkvI) | 5:08 |
 | 100 | [Sandusky](https://open.spotify.com/track/0rib9hiYy1NWL0w8BUYgmd) | [Uncle Tupelo](https://open.spotify.com/artist/2Plkkomsc4DKawkCioLKjc) | [March 16\-20, 1992](https://open.spotify.com/album/3ezxoWuFQIiCr2xugKs3Lp) | 3:43 |
 
-Snapshot ID: `MCxkMGVmNmE0NTEzMzg5OTNjOWFlNDUyMjE2OWI3YjZhM2FiZTZmMGU4`
+Snapshot ID: `MCxiYmYyOTRlY2I2YzBhMjU2YTc2ZTU1MjY4ZGE1NGI4MGZiNTAwYWM5`

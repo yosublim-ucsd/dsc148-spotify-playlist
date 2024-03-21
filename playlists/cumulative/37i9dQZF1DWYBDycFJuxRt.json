@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-02-01",
-  "description": "\u4eca\u9031\u3082\u8a71\u984c\u306e\u65b0\u66f2\u3092\u6700\u901f\u3067\u3002 Cover: \u96e2\u5a5a\u4f1d\u8aac *\ud83d\udc49 <a href=\"https://spice.eplus.jp/articles/327057?utm_source=spotify.com&utm_medium=referral\">SPICE\u9023\u52d5\u8a18\u4e8b</a>\u304b\u3089\u65b0\u7740\u60c5\u5831\u3092\u30ad\u30e3\u30c3\u30c1! ",
+  "description": "\u4eca\u9031\u3082\u8a71\u984c\u306e\u65b0\u66f2\u3092\u6700\u901f\u3067\u3002 Cover: \u96e2\u5a5a\u4f1d\u8aac *\ud83d\udc49 <a href=\"https://spice.eplus.jp/articles/327269?utm_source=spotify.com&utm_medium=referral\">SPICE\u9023\u52d5\u8a18\u4e8b</a>\u304b\u3089\u65b0\u7740\u60c5\u5831\u3092\u30ad\u30e3\u30c3\u30c1! ",
   "name": "New Music Wednesday",
   "tracks": [
     {
@@ -12395,6 +12395,24 @@
     },
     {
       "album": {
+        "name": "YO OIZUMI ALL TIME BEST",
+        "url": "https://open.spotify.com/album/78TLryWnw1290snDeXcow1"
+      },
+      "artists": [
+        {
+          "name": "Yo Oizumi",
+          "url": "https://open.spotify.com/artist/7A88YmlCFhQgSKQDgIb378"
+        }
+      ],
+      "date_added": "2024-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258506,
+      "name": "Collagen.",
+      "url": "https://open.spotify.com/track/7wFnG42foQAQPgxdyvgTfl"
+    },
+    {
+      "album": {
         "name": "IN WONDER - EP",
         "url": "https://open.spotify.com/album/3qInZr8LBwGHnz851luc80"
       },
@@ -16024,6 +16042,44 @@
     {
       "album": {
         "name": "Don't Look Back",
+        "url": "https://open.spotify.com/album/6U0uvb15O8jiaEiJTnijGJ"
+      },
+      "artists": [
+        {
+          "name": "SASAKRECT",
+          "url": "https://open.spotify.com/artist/2DcBqvgOlMtC3K4uGQZ9v8"
+        },
+        {
+          "name": "4s4ki",
+          "url": "https://open.spotify.com/artist/5yCWuaBlu42BKsnW89brND"
+        },
+        {
+          "name": "maeshima soshi",
+          "url": "https://open.spotify.com/artist/4O49GHbECmNppFvzK0WZXf"
+        },
+        {
+          "name": "RhymeTube",
+          "url": "https://open.spotify.com/artist/31iJDnqpS43YIG18nTFx14"
+        },
+        {
+          "name": "OHTORA",
+          "url": "https://open.spotify.com/artist/16W2CFdMJKvN99ZWwoEB0k"
+        },
+        {
+          "name": "Hanagata",
+          "url": "https://open.spotify.com/artist/12TrT3DcsxGAxARKh3vfxP"
+        }
+      ],
+      "date_added": "2024-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185370,
+      "name": "Don't Look Back",
+      "url": "https://open.spotify.com/track/1W6FrZS2Nr4nc2tJSr6OPm"
+    },
+    {
+      "album": {
+        "name": "Don't Look Back",
         "url": "https://open.spotify.com/album/2Ey91uim6F08nI1TKrHJFS"
       },
       "artists": [
@@ -16054,7 +16110,7 @@
       ],
       "date_added": "2024-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-21",
       "duration_ms": 185370,
       "name": "Don't Look Back",
       "url": "https://open.spotify.com/track/2z7N0m2M4bU012gFf92ccj"
@@ -17206,6 +17262,24 @@
     {
       "album": {
         "name": "DUNE",
+        "url": "https://open.spotify.com/album/6ZK3tzbIjcVkdWqBNYMdmv"
+      },
+      "artists": [
+        {
+          "name": "Billyrrom",
+          "url": "https://open.spotify.com/artist/7our8lu1Vk9CLnFEu3JEbc"
+        }
+      ],
+      "date_added": "2024-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266428,
+      "name": "DUNE",
+      "url": "https://open.spotify.com/track/1w3YQYNtn2SsJuhkQlDFcz"
+    },
+    {
+      "album": {
+        "name": "DUNE",
         "url": "https://open.spotify.com/album/1RjdQlC4Cj2w6awwm17t2Y"
       },
       "artists": [
@@ -17216,7 +17290,7 @@
       ],
       "date_added": "2024-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-21",
       "duration_ms": 266428,
       "name": "DUNE",
       "url": "https://open.spotify.com/track/6XFstFaEHAF4nq7B1NYy0o"
@@ -21524,6 +21598,24 @@
       "duration_ms": 162241,
       "name": "FUJI",
       "url": "https://open.spotify.com/track/3ElzGGiQ4ehegbG7dLIka7"
+    },
+    {
+      "album": {
+        "name": "Fukan Romance",
+        "url": "https://open.spotify.com/album/4BZryJ7vxw9BkS1lIfwXZy"
+      },
+      "artists": [
+        {
+          "name": "bokula.",
+          "url": "https://open.spotify.com/artist/03d8apfHOy2uV3oLL9lsFG"
+        }
+      ],
+      "date_added": "2024-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210602,
+      "name": "Fukan Romance",
+      "url": "https://open.spotify.com/track/4qUBjqmstuHK8DfdfKpkWk"
     },
     {
       "album": {
@@ -35994,10 +36086,28 @@
       ],
       "date_added": "2024-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-21",
       "duration_ms": 278733,
       "name": "long good-bye",
       "url": "https://open.spotify.com/track/1bmg5GeIX2HhOOB1TrzWKF"
+    },
+    {
+      "album": {
+        "name": "Terminal",
+        "url": "https://open.spotify.com/album/2eYXYU8WPrnucyQsfAqpgr"
+      },
+      "artists": [
+        {
+          "name": "Ryukku to Soine Gohan",
+          "url": "https://open.spotify.com/artist/5LRYFq7w1jFGA4TGd0bB9D"
+        }
+      ],
+      "date_added": "2024-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278733,
+      "name": "long good-bye",
+      "url": "https://open.spotify.com/track/4SahYiM0uX40YnDt5jTLDZ"
     },
     {
       "album": {
@@ -48380,6 +48490,24 @@
       "duration_ms": 216268,
       "name": "Planet",
       "url": "https://open.spotify.com/track/2JBvAB9MRddsTnvKPxO1bk"
+    },
+    {
+      "album": {
+        "name": "Bouquet",
+        "url": "https://open.spotify.com/album/5LwY4RUulbgXXYcrptzNBn"
+      },
+      "artists": [
+        {
+          "name": "TRACK15",
+          "url": "https://open.spotify.com/artist/2yBeBpGsS9sgRa4rlJldIT"
+        }
+      ],
+      "date_added": "2024-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235885,
+      "name": "Planetarium",
+      "url": "https://open.spotify.com/track/3gzZcJWNg8b6tXTEyGUkhG"
     },
     {
       "album": {
@@ -64958,10 +65086,28 @@
       ],
       "date_added": "2024-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-21",
       "duration_ms": 152888,
       "name": "TOO LATE",
       "url": "https://open.spotify.com/track/4YVirjfcLuw9A56Tle2uHt"
+    },
+    {
+      "album": {
+        "name": "APORIE VIVANT",
+        "url": "https://open.spotify.com/album/0gtvEjBBN5QTvB3lkyruNI"
+      },
+      "artists": [
+        {
+          "name": "VivaOla",
+          "url": "https://open.spotify.com/artist/5t8n1FYliYmJ4tqtITVbF9"
+        }
+      ],
+      "date_added": "2024-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152888,
+      "name": "TOO LATE",
+      "url": "https://open.spotify.com/track/4Zs8jWeCujpyHVYdYMSTty"
     },
     {
       "album": {
@@ -68634,6 +68780,24 @@
     {
       "album": {
         "name": "Water Carrier",
+        "url": "https://open.spotify.com/album/3sNzrdLqdVxbPmHAu9Iuav"
+      },
+      "artists": [
+        {
+          "name": "Kroi",
+          "url": "https://open.spotify.com/artist/4S8J8Nct8lHsbzAeNJXcJa"
+        }
+      ],
+      "date_added": "2024-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242470,
+      "name": "Water Carrier",
+      "url": "https://open.spotify.com/track/4l8jSXhZ3apqimhbzhiabB"
+    },
+    {
+      "album": {
+        "name": "Water Carrier",
         "url": "https://open.spotify.com/album/0LkdcehFEz0i0RALwIp9V7"
       },
       "artists": [
@@ -68644,7 +68808,7 @@
       ],
       "date_added": "2024-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-21",
       "duration_ms": 242470,
       "name": "Water Carrier",
       "url": "https://open.spotify.com/track/675sPQdIf74UzpPrPR4tLZ"
@@ -72330,6 +72494,24 @@
       "duration_ms": 196666,
       "name": "Yuri no Saku Basho de",
       "url": "https://open.spotify.com/track/1LSTFX8pTDfApxMsuaHTok"
+    },
+    {
+      "album": {
+        "name": "Rikka",
+        "url": "https://open.spotify.com/album/5Z6IpQ3YYZLEGGhuveWqh2"
+      },
+      "artists": [
+        {
+          "name": "Kayoko Yoshizawa",
+          "url": "https://open.spotify.com/artist/7tBabqiwVyDG4VNrijrhE0"
+        }
+      ],
+      "date_added": "2024-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 300880,
+      "name": "Yutori",
+      "url": "https://open.spotify.com/track/1ND2hHk3Bj9p2lor1XFbfi"
     },
     {
       "album": {
@@ -77804,7 +77986,7 @@
       ],
       "date_added": "2024-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-21",
       "duration_ms": 300880,
       "name": "\u3086\u3068\u308a",
       "url": "https://open.spotify.com/track/5CtJTb1bCPosQ71tHumoWt"
@@ -80794,7 +80976,7 @@
       ],
       "date_added": "2024-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-21",
       "duration_ms": 258506,
       "name": "\u30b3\u30e9\u30fc\u30b2\u30f3\u3002",
       "url": "https://open.spotify.com/track/7CTHNO469YImcaB8lvdZLC"
@@ -85192,6 +85374,24 @@
     {
       "album": {
         "name": "LUMINOUS",
+        "url": "https://open.spotify.com/album/7aJkW9YMx2gzLTMQcEqeR0"
+      },
+      "artists": [
+        {
+          "name": "SCANDAL",
+          "url": "https://open.spotify.com/artist/7hTZwqQILVH4bAbN67CeEz"
+        }
+      ],
+      "date_added": "2024-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228533,
+      "name": "\u30d5\u30a1\u30f3\u30d5\u30a1\u30fc\u30ec",
+      "url": "https://open.spotify.com/track/42IZvenX9kmevVWxjZLNwV"
+    },
+    {
+      "album": {
+        "name": "LUMINOUS",
         "url": "https://open.spotify.com/album/3Z4uX6UeTkCl4g2g0XqXsh"
       },
       "artists": [
@@ -85202,7 +85402,7 @@
       ],
       "date_added": "2024-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-21",
       "duration_ms": 228533,
       "name": "\u30d5\u30a1\u30f3\u30d5\u30a1\u30fc\u30ec",
       "url": "https://open.spotify.com/track/4nq80DMRmRZRBW12tN3rmS"
@@ -85744,7 +85944,7 @@
       ],
       "date_added": "2024-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-21",
       "duration_ms": 235885,
       "name": "\u30d7\u30e9\u30cd\u30bf\u30ea\u30a6\u30e0",
       "url": "https://open.spotify.com/track/115wUJPzuzOPybG6iMYxJZ"
@@ -88602,7 +88802,7 @@
       ],
       "date_added": "2024-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-21",
       "duration_ms": 210602,
       "name": "\u4e0d\u5b8c\u30ed\u30de\u30f3\u30b9",
       "url": "https://open.spotify.com/track/6GeiPhDFSxzta6J1YCjaIB"

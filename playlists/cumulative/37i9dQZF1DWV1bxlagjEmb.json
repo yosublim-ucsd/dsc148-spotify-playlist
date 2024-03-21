@@ -1683,6 +1683,24 @@
     },
     {
       "album": {
+        "name": "someday i'll get it",
+        "url": "https://open.spotify.com/album/2YXww1viuuKZPi458rdopk"
+      },
+      "artists": [
+        {
+          "name": "Alek Olsen",
+          "url": "https://open.spotify.com/artist/27sdgIaFiz55vkR68fBiy8"
+        }
+      ],
+      "date_added": "2024-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 94750,
+      "name": "someday i'll get it",
+      "url": "https://open.spotify.com/track/1lb0KfG9EyfSBsEifTUtXY"
+    },
+    {
+      "album": {
         "name": "Something in the Orange",
         "url": "https://open.spotify.com/album/1CmTOKCeyz1aHH04OwvTPv"
       },

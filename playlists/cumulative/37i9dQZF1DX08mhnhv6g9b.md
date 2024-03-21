@@ -4,7 +4,7 @@
 
 > Ten years of BTS and beyond\. <a href="https://www.youtube.com/watch?v=QVloM9fOGoU"> \[BTS Monuments: Beyond The Star\] </a> streaming exclusively on Disney+.
 
-489 songs - 1 day 5 hr 6 min
+490 songs - 1 day 5 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -196,6 +196,7 @@
 | [For Youth](https://open.spotify.com/track/4JzCFEc3O2UEdjKzevvFH5) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Proof](https://open.spotify.com/album/6al2VdKbb6FIz9d7lU7WRB) | 4:24 | 2022-06-10 |  |
 | [forever rain](https://open.spotify.com/track/0MBLKSjisnYtP4J6KYYT1T) | [RM](https://open.spotify.com/artist/2auC28zjQyVTsiZKNgPRGs) | [mono.](https://open.spotify.com/album/4f9hYOZPtGfcUd1dT30G1H) | 4:31 | 2022-06-23 | 2022-12-19 |
 | [forever rain](https://open.spotify.com/track/42DD4cLqkprJPih3YxXkAO) | [RM](https://open.spotify.com/artist/2auC28zjQyVTsiZKNgPRGs) | [mono.](https://open.spotify.com/album/1vsTrL1h2bRHP1kUPvlIyb) | 4:31 | 2022-12-02 |  |
+| [FRI\(END\)S](https://open.spotify.com/track/0PBTlQ84CBJF0tBnKGmQa6) | [V](https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK) | [FRI\(END\)S](https://open.spotify.com/album/7v4sqd0NZ9Fm8HnwCcCGIs) | 2:28 | 2024-03-20 |  |
 | [Friends](https://open.spotify.com/track/5RjUtRlDonw3TBgGGMLC5b) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [MAP OF THE SOUL : 7](https://open.spotify.com/album/5W1XY5ucNATjTULERvXx9j) | 3:19 | 2022-06-03 |  |
 | [Friends](https://open.spotify.com/track/7b3Fx7XAPJDk7fYlti24ZH) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Proof](https://open.spotify.com/album/6al2VdKbb6FIz9d7lU7WRB) | 3:19 | 2022-06-18 | 2022-06-20 |
 | [Friends](https://open.spotify.com/track/7w05lsU2VLSeiT8Nukrv5M) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [MAP OF THE SOUL : 7](https://open.spotify.com/album/6mJZTV8lCqnwftYZa94bXS) | 3:19 | 2022-06-10 | 2022-06-18 |

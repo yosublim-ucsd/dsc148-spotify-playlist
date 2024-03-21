@@ -1,12 +1,12 @@
 {
   "description": "Relax to the the rhythm of these smooth Latin tunes of the 2010s.\n\n",
-  "num_followers": 95230,
+  "num_followers": 95338,
   "original_name": "Latin Chillout 10s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlMjA5NTBlODE3ZDY4NzgyMzNiNDYxMmMyMTA4OGE5MjAwMGM1NmU5",
+  "snapshot_id": "MCxjMWI3MTNlYjYyYjA5NTAwZTlkYzJkNDEyYzhjYjhhOTcwY2U5NGM2",
   "tracks": [
     {
       "added_at": "2023-02-17 19:20:00",
@@ -251,6 +251,22 @@
     {
       "added_at": "2023-02-17 19:20:00",
       "album": {
+        "name": "D\u00e9jenme Llorar",
+        "url": "https://open.spotify.com/album/6BZkhYCGp75O2R4oX25nve"
+      },
+      "artists": [
+        {
+          "name": "Carla Morrison",
+          "url": "https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe"
+        }
+      ],
+      "duration_ms": 244973,
+      "name": "Disfruto",
+      "url": "https://open.spotify.com/track/6UR5tB1wVm7qvH4xfsHr8m"
+    },
+    {
+      "added_at": "2023-02-17 19:20:00",
+      "album": {
         "name": "Homerun",
         "url": "https://open.spotify.com/album/0qJkFmVwwNXP6fvSemDZqn"
       },
@@ -271,38 +287,22 @@
     {
       "added_at": "2023-02-17 19:20:00",
       "album": {
-        "name": "D\u00e9jenme Llorar",
-        "url": "https://open.spotify.com/album/6BZkhYCGp75O2R4oX25nve"
+        "name": "Euphoria",
+        "url": "https://open.spotify.com/album/5JNhQFH8HMKQWP4SITzdoc"
       },
       "artists": [
         {
-          "name": "Carla Morrison",
-          "url": "https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe"
-        }
-      ],
-      "duration_ms": 244973,
-      "name": "Disfruto",
-      "url": "https://open.spotify.com/track/6UR5tB1wVm7qvH4xfsHr8m"
-    },
-    {
-      "added_at": "2023-02-17 19:20:00",
-      "album": {
-        "name": "Criminal",
-        "url": "https://open.spotify.com/album/0S19ks6TFDHZKEYWFvrRm0"
-      },
-      "artists": [
-        {
-          "name": "NATTI NATASHA",
-          "url": "https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7"
+          "name": "Enrique Iglesias",
+          "url": "https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw"
         },
         {
-          "name": "Ozuna",
-          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+          "name": "Juan Luis Guerra 4.40",
+          "url": "https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559"
         }
       ],
-      "duration_ms": 232549,
-      "name": "Criminal",
-      "url": "https://open.spotify.com/track/6Za3190Sbw39BBC77WSS1C"
+      "duration_ms": 200586,
+      "name": "Cuando Me Enamoro",
+      "url": "https://open.spotify.com/track/4PHX6bpHDxiR9RGzAKWcyk"
     },
     {
       "added_at": "2023-02-17 19:20:00",
@@ -347,22 +347,22 @@
     {
       "added_at": "2023-02-17 19:20:00",
       "album": {
-        "name": "Euphoria",
-        "url": "https://open.spotify.com/album/5JNhQFH8HMKQWP4SITzdoc"
+        "name": "Criminal",
+        "url": "https://open.spotify.com/album/0S19ks6TFDHZKEYWFvrRm0"
       },
       "artists": [
         {
-          "name": "Enrique Iglesias",
-          "url": "https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw"
+          "name": "NATTI NATASHA",
+          "url": "https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7"
         },
         {
-          "name": "Juan Luis Guerra 4.40",
-          "url": "https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559"
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
         }
       ],
-      "duration_ms": 200586,
-      "name": "Cuando Me Enamoro",
-      "url": "https://open.spotify.com/track/4PHX6bpHDxiR9RGzAKWcyk"
+      "duration_ms": 232549,
+      "name": "Criminal",
+      "url": "https://open.spotify.com/track/6Za3190Sbw39BBC77WSS1C"
     },
     {
       "added_at": "2023-02-17 19:20:00",
@@ -739,7 +739,7 @@
     {
       "added_at": "2023-02-17 19:20:00",
       "album": {
-        "name": "Toda Remix",
+        "name": "Toda (Remix)",
         "url": "https://open.spotify.com/album/49BbDxaXZIPz4sZE6G7618"
       },
       "artists": [
@@ -765,7 +765,7 @@
         }
       ],
       "duration_ms": 367680,
-      "name": "Toda Remix - Remix",
+      "name": "Toda (Remix)",
       "url": "https://open.spotify.com/track/47ZS1OjnJpJVfGN9yHXfMn"
     },
     {
@@ -903,6 +903,22 @@
     {
       "added_at": "2023-02-17 19:20:00",
       "album": {
+        "name": "MANTRA",
+        "url": "https://open.spotify.com/album/1l1zcI8iwJg4WCb7jxHtbN"
+      },
+      "artists": [
+        {
+          "name": "Sebastian Yatra",
+          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
+        }
+      ],
+      "duration_ms": 228080,
+      "name": "Como Mirarte",
+      "url": "https://open.spotify.com/track/0CXEPVeQDLgDBfvcsQpXq1"
+    },
+    {
+      "added_at": "2023-02-17 19:20:00",
+      "album": {
         "name": "Un Besito M\u00e1s",
         "url": "https://open.spotify.com/album/6pmTwCb5SeTjV9wdnkbDo3"
       },
@@ -915,22 +931,6 @@
       "duration_ms": 215112,
       "name": "Ecos De Amor",
       "url": "https://open.spotify.com/track/3lI5dscCDez8cF6LF3Me7F"
-    },
-    {
-      "added_at": "2023-02-17 19:20:00",
-      "album": {
-        "name": "Hasta la Ra\u00edz (Edici\u00f3n Especial)",
-        "url": "https://open.spotify.com/album/0Kww7Dpo0uSxtOiiFTvyCv"
-      },
-      "artists": [
-        {
-          "name": "Natalia Lafourcade",
-          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
-        }
-      ],
-      "duration_ms": 279213,
-      "name": "Lo Que Construimos",
-      "url": "https://open.spotify.com/track/5wWxUdgn2OugIOvLJOdreH"
     }
   ],
   "unique_name": "Latin Chillout 10s",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5GJwRv8mfqk.md) - [plain]
 
 > ¡A la antigüita, chiquitita! Las canciones escritas e interpretadas por Edén Muñoz 🤠
 
-[Spotify](https://open.spotify.com/user/spotify) - 113,968 likes - 100 songs - 5 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 114,023 likes - 100 songs - 5 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,8 +99,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5GJwRv8mfqk.md) - [plain]
 | 89 | [Gente Batallosa](https://open.spotify.com/track/71gk97Oadf8MPN9fCMP9cP) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P), [Banda Carnaval](https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj) | [El Buen Ejemplo](https://open.spotify.com/album/4FNrB1vD9kdIUQpoTPG5K3) | 2:28 |
 | 90 | [Contigo](https://open.spotify.com/track/3imJHohXBxDGovFRQ75dUt) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [Contigo](https://open.spotify.com/album/67FKNGl2Yujo7UFeDNajHt) | 3:30 |
 | 91 | [Ni Mandándote A Hacer](https://open.spotify.com/track/5JQLQCEqMOZLZW78qIVm9N) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [Vamos Bien](https://open.spotify.com/album/4CK4qIkDBB1Knqwzkm12RZ) | 4:06 |
-| 92 | [Las Ultras](https://open.spotify.com/track/32nbIrhBqKTuZr4hFnlDbU) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [Guerra De Poder](https://open.spotify.com/album/1W1M5dIjrNZdAD7mSsamKc) | 2:06 |
-| 93 | [La Tatema](https://open.spotify.com/track/3ovi8ac2bNxvKe3EnZjOiW) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [Guerra De Poder](https://open.spotify.com/album/1W1M5dIjrNZdAD7mSsamKc) | 3:33 |
+| 92 | [La Tatema](https://open.spotify.com/track/3ovi8ac2bNxvKe3EnZjOiW) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [Guerra De Poder](https://open.spotify.com/album/1W1M5dIjrNZdAD7mSsamKc) | 3:33 |
+| 93 | [Las Ultras](https://open.spotify.com/track/32nbIrhBqKTuZr4hFnlDbU) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [Guerra De Poder](https://open.spotify.com/album/1W1M5dIjrNZdAD7mSsamKc) | 2:06 |
 | 94 | [Frijoles Con Panela](https://open.spotify.com/track/1wxbTlwvzRp3thyCoexuUD) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [Guerra De Poder](https://open.spotify.com/album/1W1M5dIjrNZdAD7mSsamKc) | 3:33 |
 | 95 | [El Triste Alegre](https://open.spotify.com/track/2mNRZ3ewIzRD5JU8M7yOZ2) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [Contigo](https://open.spotify.com/album/5t3hXKG2uyhYSlMaRViaEH) | 2:19 |
 | 96 | [Se Volvió a Pelar Mi Apá](https://open.spotify.com/track/76wKy6yQjIJiMbuO0EQQsy) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [Historias de la Calle](https://open.spotify.com/album/68oeH15c0id8blWP7cOu5T) | 2:34 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5GJwRv8mfqk.md) - [plain]
 | 99 | [Vamos Bien](https://open.spotify.com/track/1Eq9p2KydW149g6blnkpS2) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [Vamos Bien](https://open.spotify.com/album/4CK4qIkDBB1Knqwzkm12RZ) | 3:20 |
 | 100 | [Como Dejo De Quererte](https://open.spotify.com/track/4kWSjThlxWBli7PzGQJ3EQ) | [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [Con Todas Las Fuerzas](https://open.spotify.com/album/265Gtj6TCk9UcWpyE2LDeM) | 3:58 |
 
-Snapshot ID: `MCxjOWMzODU0N2VhYjJhODJmZWRlMzhmMzRhYzVlMzZlYjI5ZjExNzZk`
+Snapshot ID: `MCw1NDY3NDcxNDg0MjE3Y2U1MWIwNDkzN2M3NzkzY2U0NDdiZDE5ODA2`

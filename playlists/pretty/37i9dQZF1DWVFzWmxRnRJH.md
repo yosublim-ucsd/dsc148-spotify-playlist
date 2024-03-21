@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVFzWmxRnRJH.md) - [plain]
 
 > A fun library of country hits to pass on to the next generation!
 
-[Spotify](https://open.spotify.com/user/spotify) - 253,725 likes - 100 songs - 5 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 253,887 likes - 100 songs - 5 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -86,8 +86,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVFzWmxRnRJH.md) - [plain]
 | 76 | [Stuck Like Glue](https://open.spotify.com/track/0JcKdUGNR7zI4jJDLyYXbi) | [Sugarland](https://open.spotify.com/artist/0hYxQe3AK5jBPCr5MumLHD) | [The Incredible Machine](https://open.spotify.com/album/6tRJWFLsUW4HuiXHlOSnwf) | 4:07 |
 | 77 | [King Of The Road](https://open.spotify.com/track/3XG7bMVcMWLIn2k9jLAaAt) | [Roger Miller](https://open.spotify.com/artist/1RP2UpEaRzkF0Id3JigqD8) | [Golden Hits](https://open.spotify.com/album/0B4wezbhEPFRVb4feiNBeM) | 2:27 |
 | 78 | [Bye\-Bye](https://open.spotify.com/track/5FxgRnXBHMM0q4stwqrjjM) | [Jo Dee Messina](https://open.spotify.com/artist/3ltFy7g6KKQPPttsdOMlq3) | [I'm Alright](https://open.spotify.com/album/4UuS4hlOMP5akz21glTQCL) | 3:20 |
-| 79 | [Diggin' Up Bones](https://open.spotify.com/track/6JdbV5DDltMVCyV0twmKwj) | [Randy Travis](https://open.spotify.com/artist/1pTuR132U5b4Rizal2Pr7m) | [Storms of Life](https://open.spotify.com/album/6rOVPyzQ5s7cUUyHHplESf) | 2:58 |
-| 80 | [I Will Always Love You](https://open.spotify.com/track/6nRvgo4ySezQKD1D7NIqAu) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [Jolene](https://open.spotify.com/album/5DyOxuvdSmTSNAmkfcsBsj) | 2:56 |
+| 79 | [I Will Always Love You](https://open.spotify.com/track/6nRvgo4ySezQKD1D7NIqAu) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [Jolene](https://open.spotify.com/album/5DyOxuvdSmTSNAmkfcsBsj) | 2:56 |
+| 80 | [Diggin' Up Bones](https://open.spotify.com/track/6JdbV5DDltMVCyV0twmKwj) | [Randy Travis](https://open.spotify.com/artist/1pTuR132U5b4Rizal2Pr7m) | [Storms of Life](https://open.spotify.com/album/6rOVPyzQ5s7cUUyHHplESf) | 2:58 |
 | 81 | [I Walk the Line](https://open.spotify.com/track/7hxZF4jETnE5Q75rKQnMjE) | [Johnny Cash](https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x) | [I Walk the Line \(Original Soundtrack Recording\)](https://open.spotify.com/album/2k8N8D3YBi9Xc9iQEmTARx) | 2:56 |
 | 82 | [Wichita Lineman \- Remastered 2001](https://open.spotify.com/track/6V9VCm1zOY2lGR80RehJ9i) | [Glen Campbell](https://open.spotify.com/artist/59hLmB5DrdihCYtNeFeW1U) | [Wichita Lineman \(Remastered\)](https://open.spotify.com/album/056tSaBR2WyN1nnmfIzkEE) | 3:06 |
 | 83 | [Don't Take The Girl](https://open.spotify.com/track/2wmEryA2YLaFwFvA63n3O2) | [Tim McGraw](https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd) | [Not A Moment Too Soon](https://open.spotify.com/album/18eJ4H4smFp29lRMsLygUc) | 4:09 |
@@ -102,11 +102,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVFzWmxRnRJH.md) - [plain]
 | 92 | [Coal Miner's Daughter \- Single Version](https://open.spotify.com/track/3mM14WXoPaLRjjkmxHe99L) | [Loretta Lynn](https://open.spotify.com/artist/1FE0rls8gfQT3laAeRYNgl) | [Coal Miner's Daughter](https://open.spotify.com/album/2SayIIdZkrtb9I4BbdnyOr) | 3:00 |
 | 93 | [International Harvester](https://open.spotify.com/track/43Z2NVNkX2TuDymLQ89pI2) | [Craig Morgan](https://open.spotify.com/artist/6ktyNEnEukKzskQEiXgCFD) | [Little Bit Of Life](https://open.spotify.com/album/2x764D5eh4pngebgnkt3Yj) | 3:48 |
 | 94 | [How Forever Feels](https://open.spotify.com/track/2HmMklpgK8vGCpJmPpz1yG) | [Kenny Chesney](https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O) | [Everywhere We Go](https://open.spotify.com/album/67qNNUSHekqSliS7Q1XZj6) | 3:08 |
-| 95 | [Watching Airplanes](https://open.spotify.com/track/63u5QGp9dKXAoYTVKUKBYn) | [Gary Allan](https://open.spotify.com/artist/37W8SKV5Vc8lcGtdyWCA5m) | [Living Hard](https://open.spotify.com/album/2iShcXr1PRM3VMF15iHwP8) | 4:02 |
-| 96 | [Convoy](https://open.spotify.com/track/6dGWq08LXuIw6T2oUeHECh) | [C.W\. McCall](https://open.spotify.com/artist/0iTkPxRldzi5lmS6qZ70JV) | [C.W\. McCall's Greatest Hits](https://open.spotify.com/album/6XbZ0Hc2LQaLJuUaFrHfTY) | 3:50 |
+| 95 | [Convoy](https://open.spotify.com/track/6dGWq08LXuIw6T2oUeHECh) | [C.W\. McCall](https://open.spotify.com/artist/0iTkPxRldzi5lmS6qZ70JV) | [C.W\. McCall's Greatest Hits](https://open.spotify.com/album/6XbZ0Hc2LQaLJuUaFrHfTY) | 3:50 |
+| 96 | [Watching Airplanes](https://open.spotify.com/track/63u5QGp9dKXAoYTVKUKBYn) | [Gary Allan](https://open.spotify.com/artist/37W8SKV5Vc8lcGtdyWCA5m) | [Living Hard](https://open.spotify.com/album/2iShcXr1PRM3VMF15iHwP8) | 4:02 |
 | 97 | [Make It Sweet](https://open.spotify.com/track/3Mnr3yyQk1aUPYgbpOQE31) | [Old Dominion](https://open.spotify.com/artist/6y8XlgIV8BLlIg1tT1R10i) | [Old Dominion](https://open.spotify.com/album/0eu2mZjF6JQTuLCu9ils6m) | 3:07 |
 | 98 | [Next To You, Next To Me](https://open.spotify.com/track/37KWffCdnLyHqvhugCQNM6) | [Shenandoah](https://open.spotify.com/artist/36eTeLNx8ErucrEyRm6JOo) | [Now And Then](https://open.spotify.com/album/53ggnni69yCjLQIboZCc3e) | 3:25 |
 | 99 | [A Little Bit Stronger](https://open.spotify.com/track/5FIp4LrsffxiHLhmmpCbCx) | [Sara Evans](https://open.spotify.com/artist/7qvsLYsYP0MHD7jkdv6DAG) | [Stronger](https://open.spotify.com/album/03WjhytqhNAvfJI5DeNZUO) | 5:01 |
 | 100 | [I'm Gonna Be Somebody](https://open.spotify.com/track/4ICSwxlVyGaTquNqblL7Y9) | [Travis Tritt](https://open.spotify.com/artist/2M4Yt7oKGoYd0wqU44k4i2) | [Country Club](https://open.spotify.com/album/3DcqxxwxranqrA4zTGmzmo) | 4:04 |
 
-Snapshot ID: `MCwzZjJlOWM1NDJjMTgxZjY2YjQ5N2NiYzIxMWUxODc5YWIzMmU0NGYx`
+Snapshot ID: `MCxhYTczYjY3M2U4ZDBhNTQzNDIyYzcyMTJiYjgxODY0NDkwYmMzNzA4`

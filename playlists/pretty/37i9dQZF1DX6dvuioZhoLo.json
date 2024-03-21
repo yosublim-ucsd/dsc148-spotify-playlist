@@ -1,12 +1,12 @@
 {
   "description": "New makes old. Cover: Sierra Ferrell",
-  "num_followers": 294208,
+  "num_followers": 294272,
   "original_name": "Vintage Vibes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlMjQyM2RjOGI3ZjBmZTJkODg2YjA1ZjU3MWU2MTUxMTU1ZjhjOGU4",
+  "snapshot_id": "MCw0MDRhMTIyOTU2MDNlNjkzMGM2MjE0YmFmNDlmN2E4MTI1ZTNjMzAx",
   "tracks": [
     {
       "added_at": "2023-10-06 04:00:00",
@@ -655,6 +655,22 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
+        "name": "Cover Stories: Brandi Carlile Celebrates 10 Years of the Story (An Album to Benefit War Child)",
+        "url": "https://open.spotify.com/album/3eI5yt8PVoaONTDcHHTky7"
+      },
+      "artists": [
+        {
+          "name": "Dolly Parton",
+          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+        }
+      ],
+      "duration_ms": 257372,
+      "name": "The Story",
+      "url": "https://open.spotify.com/track/4B5rqUfJXLCJl9WMXMHehx"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
         "name": "Interstate Gospel",
         "url": "https://open.spotify.com/album/0IXxmmlfSQxgJNWnNjHhgJ"
       },
@@ -679,22 +695,6 @@
       "duration_ms": 174253,
       "name": "Got My Name Changed Back",
       "url": "https://open.spotify.com/track/2WPE0Z7u5PafvN2aWk5pFl"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
-        "name": "Cover Stories: Brandi Carlile Celebrates 10 Years of the Story (An Album to Benefit War Child)",
-        "url": "https://open.spotify.com/album/3eI5yt8PVoaONTDcHHTky7"
-      },
-      "artists": [
-        {
-          "name": "Dolly Parton",
-          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
-        }
-      ],
-      "duration_ms": 257372,
-      "name": "The Story",
-      "url": "https://open.spotify.com/track/4B5rqUfJXLCJl9WMXMHehx"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -843,22 +843,6 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "The Order Of Time",
-        "url": "https://open.spotify.com/album/4TVWSt83FpSfocgA3omB0k"
-      },
-      "artists": [
-        {
-          "name": "Valerie June",
-          "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
-        }
-      ],
-      "duration_ms": 166440,
-      "name": "Shakedown",
-      "url": "https://open.spotify.com/track/6vyVxWBHLIqNdhy4IGz1LN"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
         "name": "With Me in the Summer",
         "url": "https://open.spotify.com/album/1d6S1Z19Ia7xJkVd6ZoOlk"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 300895,
       "name": "Weather",
       "url": "https://open.spotify.com/track/1WwAqeweh8B5WVO041pRFf"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
+        "name": "The Order Of Time",
+        "url": "https://open.spotify.com/album/4TVWSt83FpSfocgA3omB0k"
+      },
+      "artists": [
+        {
+          "name": "Valerie June",
+          "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
+        }
+      ],
+      "duration_ms": 166440,
+      "name": "Shakedown",
+      "url": "https://open.spotify.com/track/6vyVxWBHLIqNdhy4IGz1LN"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -955,22 +955,6 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "Demons",
-        "url": "https://open.spotify.com/album/5aGMS2lsapoII9HrZPd3eE"
-      },
-      "artists": [
-        {
-          "name": "Allison Russell",
-          "url": "https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6"
-        }
-      ],
-      "duration_ms": 269133,
-      "name": "Demons",
-      "url": "https://open.spotify.com/track/2tb19wQu9EEK4mFooVSKx8"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
         "name": "Easy Way",
         "url": "https://open.spotify.com/album/28RycHmG72yoKVXZ7X3PEg"
       },
@@ -983,6 +967,22 @@
       "duration_ms": 182826,
       "name": "Got a Lotta Love",
       "url": "https://open.spotify.com/track/0MIFQg8ak1p21EeHK2JrJg"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
+        "name": "Demons",
+        "url": "https://open.spotify.com/album/5aGMS2lsapoII9HrZPd3eE"
+      },
+      "artists": [
+        {
+          "name": "Allison Russell",
+          "url": "https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6"
+        }
+      ],
+      "duration_ms": 269133,
+      "name": "Demons",
+      "url": "https://open.spotify.com/track/2tb19wQu9EEK4mFooVSKx8"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -1051,6 +1051,22 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
+        "name": "Happy Man",
+        "url": "https://open.spotify.com/album/1WoNRdaTdmRkLAmNk4QGWV"
+      },
+      "artists": [
+        {
+          "name": "The Cactus Blossoms",
+          "url": "https://open.spotify.com/artist/7kWwQAe9JnYNMk4kuEe73S"
+        }
+      ],
+      "duration_ms": 179763,
+      "name": "Happy Man",
+      "url": "https://open.spotify.com/track/4CugKRfRaxkEDLMM7yyNfR"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
         "name": "With Me in the Summer",
         "url": "https://open.spotify.com/album/1d6S1Z19Ia7xJkVd6ZoOlk"
       },
@@ -1115,22 +1131,6 @@
       "duration_ms": 255986,
       "name": "Better Way",
       "url": "https://open.spotify.com/track/3VThpW3UX13QbXHDNQqxvo"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
-        "name": "Happy Man",
-        "url": "https://open.spotify.com/album/1WoNRdaTdmRkLAmNk4QGWV"
-      },
-      "artists": [
-        {
-          "name": "The Cactus Blossoms",
-          "url": "https://open.spotify.com/artist/7kWwQAe9JnYNMk4kuEe73S"
-        }
-      ],
-      "duration_ms": 179763,
-      "name": "Happy Man",
-      "url": "https://open.spotify.com/track/4CugKRfRaxkEDLMM7yyNfR"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -1247,22 +1247,6 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "Joni Was Right",
-        "url": "https://open.spotify.com/album/4b9Jd0hGddS6xH6zjsCEV7"
-      },
-      "artists": [
-        {
-          "name": "Marit Larsen",
-          "url": "https://open.spotify.com/artist/0SGEunj6EBwdWMNCdWSrPg"
-        }
-      ],
-      "duration_ms": 197192,
-      "name": "Morgan, I Might",
-      "url": "https://open.spotify.com/track/546zJv5pyapMZO5O0l0p4x"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
         "name": "Canyons of my Mind",
         "url": "https://open.spotify.com/album/6pV57sA6D7z21yEZPZ7U9g"
       },
@@ -1291,6 +1275,22 @@
       "duration_ms": 186866,
       "name": "No Name",
       "url": "https://open.spotify.com/track/2CVpkt0xfradTwL6KxNncR"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
+        "name": "Joni Was Right",
+        "url": "https://open.spotify.com/album/4b9Jd0hGddS6xH6zjsCEV7"
+      },
+      "artists": [
+        {
+          "name": "Marit Larsen",
+          "url": "https://open.spotify.com/artist/0SGEunj6EBwdWMNCdWSrPg"
+        }
+      ],
+      "duration_ms": 197192,
+      "name": "Morgan, I Might",
+      "url": "https://open.spotify.com/track/546zJv5pyapMZO5O0l0p4x"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -1359,22 +1359,6 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "Hell on Church Street",
-        "url": "https://open.spotify.com/album/5XptR8Eatr8J2KlcO7heEA"
-      },
-      "artists": [
-        {
-          "name": "Punch Brothers",
-          "url": "https://open.spotify.com/artist/4gFssfOmWNY3LfIZ3zyoy4"
-        }
-      ],
-      "duration_ms": 178973,
-      "name": "Any Old Time",
-      "url": "https://open.spotify.com/track/5u5OHbWaCxcvIoi04HGLy6"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
         "name": "Orphan Offering",
         "url": "https://open.spotify.com/album/70LZy0mMgmkaVYvC2F5rPk"
       },
@@ -1387,6 +1371,22 @@
       "duration_ms": 338814,
       "name": "Fly Away",
       "url": "https://open.spotify.com/track/2xtidTFlCS3gLFnrApMY6A"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
+        "name": "Hell on Church Street",
+        "url": "https://open.spotify.com/album/5XptR8Eatr8J2KlcO7heEA"
+      },
+      "artists": [
+        {
+          "name": "Punch Brothers",
+          "url": "https://open.spotify.com/artist/4gFssfOmWNY3LfIZ3zyoy4"
+        }
+      ],
+      "duration_ms": 178973,
+      "name": "Any Old Time",
+      "url": "https://open.spotify.com/track/5u5OHbWaCxcvIoi04HGLy6"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -1631,22 +1631,6 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "Comeback",
-        "url": "https://open.spotify.com/album/59RQt16lLTsoUSn2FdHvNb"
-      },
-      "artists": [
-        {
-          "name": "The Reckless Electric",
-          "url": "https://open.spotify.com/artist/1x0DczFntbIchRLLSisGnM"
-        }
-      ],
-      "duration_ms": 206729,
-      "name": "Ice Cream and Liquor",
-      "url": "https://open.spotify.com/track/2JN0eElE3BnGsrbsyvzEhO"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
         "name": "Field Recordings, Vol. 1",
         "url": "https://open.spotify.com/album/2C4pCAR41BjNeDEEn1M7tM"
       },
@@ -1659,6 +1643,22 @@
       "duration_ms": 156000,
       "name": "Diamond Joe",
       "url": "https://open.spotify.com/track/4BwPFomd2l0vi31rxmRjka"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
+        "name": "Comeback",
+        "url": "https://open.spotify.com/album/59RQt16lLTsoUSn2FdHvNb"
+      },
+      "artists": [
+        {
+          "name": "The Reckless Electric",
+          "url": "https://open.spotify.com/artist/1x0DczFntbIchRLLSisGnM"
+        }
+      ],
+      "duration_ms": 206729,
+      "name": "Ice Cream and Liquor",
+      "url": "https://open.spotify.com/track/2JN0eElE3BnGsrbsyvzEhO"
     }
   ],
   "unique_name": "Vintage Vibes",

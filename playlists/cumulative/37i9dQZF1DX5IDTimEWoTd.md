@@ -4,7 +4,7 @@
 
 > Beautiful songs to give you that warm, fuzzy feeling.
 
-276 songs - 16 hr 10 min
+277 songs - 16 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -256,7 +256,8 @@
 | [Till There Was You](https://open.spotify.com/track/3hygkyvNx087psWHR1w1ab) | [Imaginary Future](https://open.spotify.com/artist/470WlqN9HSRDGNaMufeHHF) | [Till There Was You](https://open.spotify.com/album/7FITiZDCIMCG0ISWBV9Gho) | 2:12 | 2021-12-24 | 2022-07-29 |
 | [Tiny Moves](https://open.spotify.com/track/6pP7muebYMLT46IOZOLvyN) | [Bleachers](https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI) | [Tiny Moves](https://open.spotify.com/album/1d8D5z3nU0BEsv7azmcVE6) | 3:48 | 2024-01-19 |  |
 | [To a T \- Stripped](https://open.spotify.com/track/6di48z6eF5dBYVpB0tZV5i) | [Ryan Hurd](https://open.spotify.com/artist/7lDVEkjIURPMyUYwoQRrpw) | [To a T \(Stripped\)](https://open.spotify.com/album/5Je7IFgOXGPdf9JzyxNflb) | 3:18 | 2019-07-29\* | 2022-07-29 |
-| [Too Good to be True](https://open.spotify.com/track/4vIiVs5JoNfqqRi5o7jAIb) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Too Good to be True](https://open.spotify.com/album/57y7NpfTINlnrNitu8vwft) | 2:40 | 2024-03-01 |  |
+| [Too Good to be True](https://open.spotify.com/track/27RDQ0TfxzWMlQFuKrPT11) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Deeper Well](https://open.spotify.com/album/5SxZmGwc4eJuPp6PcO4JgJ) | 2:40 | 2024-03-01 |  |
+| [Too Good to be True](https://open.spotify.com/track/4vIiVs5JoNfqqRi5o7jAIb) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Too Good to be True](https://open.spotify.com/album/57y7NpfTINlnrNitu8vwft) | 2:40 | 2024-03-01 | 2024-03-21 |
 | [Turning Page](https://open.spotify.com/track/42BAwiGC1egjbiJ6y512Tz) | [Sleeping At Last](https://open.spotify.com/artist/0MeLMJJcouYXCymQSHPn8g) | [The Twilight Saga: Breaking Dawn \- Part 1 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1iGIqDBXm5HpTqHCvdc4QP) | 4:15 | 2019-07-29\* | 2021-09-25 |
 | [Turning Tables](https://open.spotify.com/track/4oy98QoABnGKpvapDkI525) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [21](https://open.spotify.com/album/0Lg1uZvI312TPqxNWShFXL) | 4:10 | 2022-07-28 | 2023-02-03 |
 | [Turning Tables](https://open.spotify.com/track/5O6yk6U8L3rTbFsIwuqe8H) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [21](https://open.spotify.com/album/1azUkThwd2HfUDdeNeT147) | 4:10 | 2019-07-29\* | 2022-04-21 |

@@ -4,7 +4,7 @@
 
 > a perfect soundtrack for eating the Mariah Carey happy meal in your car
 
-79 songs - 3 hr 59 min
+80 songs - 4 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,7 +23,8 @@
 | [Christmas \(Baby Please Come Home\)](https://open.spotify.com/track/3PIDciSFdrQxSQSihim3hN) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Merry Christmas](https://open.spotify.com/album/61ulfFSmmxMhc2wCdmdMkN) | 2:33 | 2023-12-01 |  |
 | [Christmas Day](https://open.spotify.com/track/5rGHXuUMQGoR9D35V3ZbBx) | [GFOTY](https://open.spotify.com/artist/3FPflECmvkrze212dLPRSC) | [GFOTYBUCKS](https://open.spotify.com/album/2k5HlmocImUDMDh80YXFXH) | 2:58 | 2023-12-01 |  |
 | [Christmas In Harlem](https://open.spotify.com/track/00HMEiBMDkbNCHLJL6zqVk) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [CyHi](https://open.spotify.com/artist/18HVMQsV3tINaTyzT5UIjH), [Teyana Taylor](https://open.spotify.com/artist/4ULO7IGI3M2bo0Ap7B9h8a) | [Christmas In Harlem](https://open.spotify.com/album/31dBitfDGugqFHLKrUT3rt) | 3:56 | 2023-12-01 |  |
-| [Christmas Kids](https://open.spotify.com/track/40gk32E7YaTFoQwDIWv2SY) | [Roar](https://open.spotify.com/artist/7dIpKWlEeAljA20vFJ82RD) | [I Can't Handle Change](https://open.spotify.com/album/42vd9Cgr89pjb0Jipvaj5d) | 2:15 | 2023-12-01 |  |
+| [Christmas Kids](https://open.spotify.com/track/40gk32E7YaTFoQwDIWv2SY) | [Roar](https://open.spotify.com/artist/7dIpKWlEeAljA20vFJ82RD) | [I Can't Handle Change](https://open.spotify.com/album/42vd9Cgr89pjb0Jipvaj5d) | 2:15 | 2023-12-01 | 2024-03-21 |
+| [Christmas Kids](https://open.spotify.com/track/7KV7xwHTJbzbwGQEHLIzR8) | [Roar](https://open.spotify.com/artist/7dIpKWlEeAljA20vFJ82RD) | [I Can't Handle Change](https://open.spotify.com/album/0YjOnBY0FRufcmNBTzWTgX) | 2:15 | 2023-12-01 |  |
 | [Christmas Muddy Puddles](https://open.spotify.com/track/0jFUcRNcdSW1eV8JHqS7wE) | [Peppa Pig](https://open.spotify.com/artist/2gJLanGIV9JqQuKBCWy9ZG) | [Christmas Muddy Puddles](https://open.spotify.com/album/7zTEK2utsx4aLuA44d0aOZ) | 2:18 | 2023-12-01 |  |
 | [Christmas Saves The Year](https://open.spotify.com/track/6ZTFZm4IEFnMSDfO6mVgMY) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [Christmas Saves The Year](https://open.spotify.com/album/5bh5kgZddiyd5ObXOP9Exu) | 3:32 | 2023-12-01 |  |
 | [Christmas Song](https://open.spotify.com/track/0cuZKvqa7UbS8SjVQtGC7A) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [If We Make It Through December](https://open.spotify.com/album/5c7rZDAKYf6PsA3MUfNZXL) | 3:41 | 2023-12-01 |  |

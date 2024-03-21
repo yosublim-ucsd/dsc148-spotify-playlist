@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYrgs30Ir8ow.md) - [plain]
 
 > Altijd fris in Fresh Hits\. Cover: Dasha
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,948 likes - 40 songs - 1 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,990 likes - 40 songs - 1 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Austin](https://open.spotify.com/track/4NJqhmkGN042BrvHoMKUrJ) | [Dasha](https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I) | [Austin](https://open.spotify.com/album/4JtlZzYJEa7bejLF0ASnk0) | 2:51 |
+| 1 | [Austin](https://open.spotify.com/track/6b81dy3WjbozXK6b7C1gu5) | [Dasha](https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I) | [What Happens Now?](https://open.spotify.com/album/0rQRrrZPPv6XXsxilJ1wFz) | 2:51 |
 | 2 | [End of Beginning](https://open.spotify.com/track/3qhlB30KknSejmIvZZLjOD) | [Djo](https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm) | [DECIDE](https://open.spotify.com/album/4JDXBZdRPId4devseaAOKH) | 2:39 |
 | 3 | [Pretty Girls](https://open.spotify.com/track/4skvJoTBLEYUfS3Z1xvGjs) | [Frenna](https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5) | [Pretty Girls](https://open.spotify.com/album/2hab7riz6xmtgfvqxfnNLk) | 2:25 |
 | 4 | [How Many Nights](https://open.spotify.com/track/0Nj0v1zGvDLgvhjLLzMzom) | [The Indien](https://open.spotify.com/artist/1M6DAgCuvRE1Ct0Tsq74Lb) | [How Many Nights](https://open.spotify.com/album/1f3LbA9R9kNKlj4EOE6kl9) | 3:20 |
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYrgs30Ir8ow.md) - [plain]
 | 39 | [Dreaming](https://open.spotify.com/track/3TBNXtO8ukvpbgvkMuttsb) | [Tones And I](https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY) | [Dreaming](https://open.spotify.com/album/0WK5sLNYIynhTomJpn1bqs) | 3:28 |
 | 40 | [Perfect \(Exceeder\)](https://open.spotify.com/track/7jY6W92bLfnXnevTa7JKHi) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Mason](https://open.spotify.com/artist/307erl4VjT1dZDMYpneZqd), [Princess Superstar](https://open.spotify.com/artist/7JQn9DfFTtsFTg2dFc75jM) | [Perfect \(Exceeder\)](https://open.spotify.com/album/2eScJnMQTMY0WYPz2MXWsp) | 2:31 |
 
-Snapshot ID: `MCw0NWQ1ZmI5MmMyMjQxYmJhYzMxNDUyM2ZlYzBhMGE0NzRhMWM5YzVm`
+Snapshot ID: `MCw4YWFlMmFhMGQ0MTU2YTExZGI1ZDYzYjNlNWRkZjNhMjRlNDQ2M2Ji`

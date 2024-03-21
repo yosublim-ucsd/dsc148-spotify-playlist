@@ -4,7 +4,7 @@
 
 > In partnership with <a href="https://goldhouse.org/">Gold House</a>, we are excited to announce our second Gold House Future Music Guild artists: Mad Tsai, Rhea Raj & Alex Porat.
 
-200 songs - 10 hr 46 min
+201 songs - 10 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -114,7 +114,8 @@
 | [LIMBO](https://open.spotify.com/track/2bdVgAQgosGUJoViVDNeOV) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [GABRIEL](https://open.spotify.com/album/1WVIJaAboRSwJOe4u0n0Q7) | 3:32 | 2023-04-29 |  |
 | [LMLY](https://open.spotify.com/track/3Jbpo2slhW2bbVneiJnC9G) | [Jackson Wang](https://open.spotify.com/artist/1kfWoWgCugPkyxQP8lkRlY) | [LMLY](https://open.spotify.com/album/09UJf8ZqCuv5NHRZIqTZgh) | 3:29 | 2023-05-06 | 2023-05-13 |
 | [Lost Without You](https://open.spotify.com/track/4hihbl7qEfTWbV105KXgNo) | [Ruby Ibarra](https://open.spotify.com/artist/5y1a3x8WQZLTsmLPowFnkj), [Nick Isham](https://open.spotify.com/artist/3INQD45A4I7hWypSUOLyB6) | [The Cleaning Lady: Season 1 \(Original Television Soundtrack\)](https://open.spotify.com/album/5vUcnfXZ25zPRTM1VkN42u) | 3:24 | 2022-07-12 |  |
-| [Love's Train](https://open.spotify.com/track/60gTdTwaNtGAzIxKfeGVfJ) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [Silk Sonic](https://open.spotify.com/artist/6PvvGcCY2XtUcSRld1Wilr) | [Love's Train](https://open.spotify.com/album/6QKXGIgwWmWBMmIktMOchR) | 5:07 | 2022-05-18 |  |
+| [Love's Train](https://open.spotify.com/track/2JUQ7mV1AHk2owXLydmN4Z) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [Silk Sonic](https://open.spotify.com/artist/6PvvGcCY2XtUcSRld1Wilr) | [An Evening With Silk Sonic](https://open.spotify.com/album/1YgekJJTEueWDaMr7BYqPk) | 5:07 | 2023-05-31 |  |
+| [Love's Train](https://open.spotify.com/track/60gTdTwaNtGAzIxKfeGVfJ) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [Silk Sonic](https://open.spotify.com/artist/6PvvGcCY2XtUcSRld1Wilr) | [Love's Train](https://open.spotify.com/album/6QKXGIgwWmWBMmIktMOchR) | 5:07 | 2022-05-18 | 2024-03-21 |
 | [Loved By U](https://open.spotify.com/track/1SldN7GTd0ADTjspv96wCl) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI), [morgxn](https://open.spotify.com/artist/034u8Qcs47NHkRQXaWkLXW) | [Loved By U](https://open.spotify.com/album/3ZWTn4QQX16aHY64yVeC1D) | 3:27 | 2022-05-18 | 2022-07-13 |
 | [Lover Boy](https://open.spotify.com/track/2rd4FH1cSaWGc0ZiUaMbX9) | [Phum Viphurit](https://open.spotify.com/artist/5mqguTgtaoCMNMZD6txCh6) | [Lover Boy](https://open.spotify.com/album/6q6pANmFQbMk7KzlzNeBep) | 3:56 | 2023-05-06 | 2023-05-13 |
 | [Lullaby](https://open.spotify.com/track/6adJRoU4YpwkbwNo9ZLUB9) | [yetep](https://open.spotify.com/artist/20lmiQy576CSBPz0VJHmnC), [David Frank](https://open.spotify.com/artist/1DTCyYmKxKEv37N97OTczW) | [Lullaby](https://open.spotify.com/album/6npvHapDZNvEZHWTLRiDc0) | 3:22 | 2022-05-18 | 2023-04-30 |

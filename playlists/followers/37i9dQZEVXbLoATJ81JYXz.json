@@ -1,5 +1,5 @@
 {
-  "2024-03-20": 615524,
+  "2024-03-21": 615528,
   "date_first_scraped": "2021-03-27",
   "description": "Your daily update of the most played tracks right now - Sweden.",
   "name": "Top 50 - Sweden",
@@ -2011,7 +2011,7 @@
       ],
       "date_added": "2024-03-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-18",
+      "date_removed": null,
       "duration_ms": 171782,
       "name": "Austin",
       "url": "https://open.spotify.com/track/6b81dy3WjbozXK6b7C1gu5"
@@ -2101,7 +2101,7 @@
       ],
       "date_added": "2024-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-20",
       "duration_ms": 182491,
       "name": "Awful Liar",
       "url": "https://open.spotify.com/track/4UXJYpHAyh1Y7tXvhKWyc2"
@@ -2649,7 +2649,7 @@
       ],
       "date_added": "2024-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-20",
       "duration_ms": 172640,
       "name": "Banne Maj",
       "url": "https://open.spotify.com/track/4uXocNcZx96XkuaqfE43HD"
@@ -4526,6 +4526,28 @@
     },
     {
       "album": {
+        "name": "B\u00e6rum Bitches (Mannschaft)",
+        "url": "https://open.spotify.com/album/04FzRblfFwLUm81HJEYCAo"
+      },
+      "artists": [
+        {
+          "name": "S\u00f8te og Rare Gutter",
+          "url": "https://open.spotify.com/artist/2gmup32OWc65WVKSoP4rD8"
+        },
+        {
+          "name": "Mannschaft",
+          "url": "https://open.spotify.com/artist/3AIknosYoaF6OgCcH10ZCy"
+        }
+      ],
+      "date_added": "2024-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146938,
+      "name": "B\u00e6rum Bitches (Mannschaft)",
+      "url": "https://open.spotify.com/track/7BPcWZDSRLdMbOybXlspcC"
+    },
+    {
+      "album": {
         "name": "Call It Love",
         "url": "https://open.spotify.com/album/5c3YGhnf058Op4YviM73wn"
       },
@@ -5373,7 +5395,7 @@
       ],
       "date_added": "2024-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-20",
       "duration_ms": 184555,
       "name": "Circus X",
       "url": "https://open.spotify.com/track/0SGMCZngLMlB3w34r0cmaz"
@@ -16623,6 +16645,28 @@
       "duration_ms": 146718,
       "name": "Kan Inte G\u00e5",
       "url": "https://open.spotify.com/track/6KOzO2mUwSwe8a9GiJAn7X"
+    },
+    {
+      "album": {
+        "name": "INLOGGAD",
+        "url": "https://open.spotify.com/album/4WkwDqz5LXl4OwcXtiuREC"
+      },
+      "artists": [
+        {
+          "name": "HAVAL",
+          "url": "https://open.spotify.com/artist/4XW87HXcsYTkdK7IhSy2Kt"
+        },
+        {
+          "name": "Manny Flaco",
+          "url": "https://open.spotify.com/artist/2vduakOON9BipyWkPSBo4S"
+        }
+      ],
+      "date_added": "2024-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214528,
+      "name": "KANDAHAR",
+      "url": "https://open.spotify.com/track/4ZWq7fQvITB8D3CngAErG2"
     },
     {
       "album": {
@@ -30431,7 +30475,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-19",
+      "date_removed": null,
       "duration_ms": 140000,
       "name": "Thank You (Not So Bad)",
       "url": "https://open.spotify.com/track/09CnYHiZ5jGT1wr1TXJ9Zt"
@@ -33869,7 +33913,7 @@
       ],
       "date_added": "2024-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-20",
       "duration_ms": 118195,
       "name": "WEED I RAGGARBIL (FEAT. SNOOP DOGG)",
       "url": "https://open.spotify.com/track/4MNNNChXrBYwSZIl1DUSg0"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcSfa3jsASp1.md) - [plain]
 
 > Rock that was on repeat during the summers of the 2010s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,995 likes - 100 songs - 6 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,996 likes - 100 songs - 6 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcSfa3jsASp1.md) - [plain]
 | 33 | [It's Not Living \(If It's Not With You\)](https://open.spotify.com/track/3TgMcrV32NUKjEG2ujn9eh) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [A Brief Inquiry Into Online Relationships](https://open.spotify.com/album/6PWXKiakqhI17mTYM4y6oY) | 4:08 |
 | 34 | [The Only Exception](https://open.spotify.com/track/7JIuqL4ZqkpfGKQhYlrirs) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [Brand New Eyes](https://open.spotify.com/album/27UqZoE1kV6sIV6uQcI28A) | 4:27 |
 | 35 | [Chlorine](https://open.spotify.com/track/23OXdR7YuUBVWh5hSnYJau) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [Trench](https://open.spotify.com/album/621cXqrTSSJi1WqDMSLmbL) | 5:24 |
-| 36 | [Magic](https://open.spotify.com/track/23khhseCLQqVMCIT1WMAns) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Ghost Stories](https://open.spotify.com/album/2G4AUqfwxcV1UdQjm2ouYr) | 4:45 |
-| 37 | [Could Have Been Me](https://open.spotify.com/track/3IyCL4Em1GOpNGDf451Hg1) | [The Struts](https://open.spotify.com/artist/3lDpdwM8KILepMHqBWUhIA) | [Everybody Wants](https://open.spotify.com/album/7iLnNik9W0ttekJblYrVfj) | 3:07 |
+| 36 | [Could Have Been Me](https://open.spotify.com/track/3IyCL4Em1GOpNGDf451Hg1) | [The Struts](https://open.spotify.com/artist/3lDpdwM8KILepMHqBWUhIA) | [Everybody Wants](https://open.spotify.com/album/7iLnNik9W0ttekJblYrVfj) | 3:07 |
+| 37 | [Magic](https://open.spotify.com/track/23khhseCLQqVMCIT1WMAns) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Ghost Stories](https://open.spotify.com/album/2G4AUqfwxcV1UdQjm2ouYr) | 4:45 |
 | 38 | [Trouble](https://open.spotify.com/track/5n0CTysih20NYdT2S0Wpe8) | [Cage The Elephant](https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3) | [Tell Me I'm Pretty](https://open.spotify.com/album/0nW0w37lrQ87k7PLZvC4qJ) | 3:45 |
 | 39 | [Hard Times](https://open.spotify.com/track/0w5Bdu51Ka25Pf3hojsKHh) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [After Laughter](https://open.spotify.com/album/1c9Sx7XdXuMptGyfCB6hHs) | 3:02 |
 | 40 | [Still Counting](https://open.spotify.com/track/7nsO4eXkY7DvrWbjYUDLJS) | [Volbeat](https://open.spotify.com/artist/0L5fC7Ogm2YwgqVCRcF1bT) | [Guitar Gangsters & Cadillac Blood](https://open.spotify.com/album/4BzHvHsnYTIEmrhh6zLDmt) | 4:21 |
@@ -67,8 +67,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcSfa3jsASp1.md) - [plain]
 | 57 | [It's Time](https://open.spotify.com/track/6BtmXhTJMM9sBTHeYYASGz) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Night Visions](https://open.spotify.com/album/6htgf3qv7vGcsdxLCDxKp8) | 3:57 |
 | 58 | [Jekyll and Hyde](https://open.spotify.com/track/5dFEX82XB1ElGFwfCp0rql) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [Got Your Six \(Deluxe\)](https://open.spotify.com/album/5CCuwNYZibM0V2GWuEHtcG) | 3:26 |
 | 59 | [Bulletproof](https://open.spotify.com/track/0baguYeIsl8FtArOv1jV5o) | [Godsmack](https://open.spotify.com/artist/6gZq1Q6bdOxsUPUG1TaFbF) | [When Legends Rise](https://open.spotify.com/album/2wOY4tZ3bcJecD5ypBPHg9) | 2:57 |
-| 60 | [MONSTERS](https://open.spotify.com/track/1qAuIPMALdFtGv2Ymjy5l0) | [Shinedown](https://open.spotify.com/artist/70BYFdaZbEKbeauJ670ysI) | [ATTENTION ATTENTION](https://open.spotify.com/album/0dtwIycvTaFNjo44QRwWz7) | 4:08 |
-| 61 | [This Is War](https://open.spotify.com/track/2D52zjCyqEIQa221lhw6uk) | [Thirty Seconds To Mars](https://open.spotify.com/artist/0RqtSIYZmd4fiBKVFqyIqD) | [This Is War](https://open.spotify.com/album/6OlCoydaNFUU7v1Xo5ZJPx) | 5:26 |
+| 60 | [This Is War](https://open.spotify.com/track/2D52zjCyqEIQa221lhw6uk) | [Thirty Seconds To Mars](https://open.spotify.com/artist/0RqtSIYZmd4fiBKVFqyIqD) | [This Is War](https://open.spotify.com/album/6OlCoydaNFUU7v1Xo5ZJPx) | 5:26 |
+| 61 | [MONSTERS](https://open.spotify.com/track/1qAuIPMALdFtGv2Ymjy5l0) | [Shinedown](https://open.spotify.com/artist/70BYFdaZbEKbeauJ670ysI) | [ATTENTION ATTENTION](https://open.spotify.com/album/0dtwIycvTaFNjo44QRwWz7) | 4:08 |
 | 62 | [HandClap](https://open.spotify.com/track/4qRaZYiaOsSvWC7VgcxrI0) | [Fitz and The Tantrums](https://open.spotify.com/artist/4AcHt3JxKy59IX7JNNlZn4) | [Fitz and The Tantrums \(Deluxe Edition\)](https://open.spotify.com/album/4eoIRaV8z8v2LaXQSWy2LC) | 3:13 |
 | 63 | [The Man](https://open.spotify.com/track/5aWhs651KYM26HYM16kRdk) | [The Killers](https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu) | [Wonderful Wonderful](https://open.spotify.com/album/72ZfMxLCPG8mlWC0TXfZQi) | 4:10 |
 | 64 | [The Adventures of Rain Dance Maggie](https://open.spotify.com/track/0PgNhIg5n0UAOBVn43b8b6) | [Red Hot Chili Peppers](https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5) | [I'm with You](https://open.spotify.com/album/5wZtSIvijWCMc1vlPFqAyB) | 4:42 |
@@ -106,7 +106,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcSfa3jsASp1.md) - [plain]
 | 96 | [1000hp](https://open.spotify.com/track/2DpLoT8qfJdZhsLGFg413r) | [Godsmack](https://open.spotify.com/artist/6gZq1Q6bdOxsUPUG1TaFbF) | [1000hp](https://open.spotify.com/album/23nOachDR5dUA2iLlvvwT3) | 3:46 |
 | 97 | [In One Ear](https://open.spotify.com/track/2VRJIIzbhhOGaxAhwCMfZX) | [Cage The Elephant](https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3) | [Cage The Elephant \(Expanded Edition\)](https://open.spotify.com/album/7H814Cg8HV0qpoMheYbhNn) | 4:01 |
 | 98 | [Lights Out](https://open.spotify.com/track/1060gzllf4b0UETAXisR5l) | [Royal Blood](https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15) | [How Did We Get So Dark?](https://open.spotify.com/album/3Rz6kF8eGqrDOEteo5YsBj) | 3:56 |
-| 99 | [Cecilia And The Satellite](https://open.spotify.com/track/1MSM3Fo2fvnwVqMcz8Jhjq) | [Andrew McMahon in the Wilderness](https://open.spotify.com/artist/716ZwtZBmwROBXcFmCzfdM) | [Andrew McMahon In The Wilderness](https://open.spotify.com/album/4IVdl0FxI7cpwyLh8JWOdG) | 3:43 |
-| 100 | [Alligator](https://open.spotify.com/track/797qMUoU74C6xc45n2vAMK) | [Of Monsters and Men](https://open.spotify.com/artist/4dwdTW1Lfiq0cM8nBAqIIz) | [FEVER DREAM](https://open.spotify.com/album/3jk6oyfKCny48ZYb1CPjLa) | 3:04 |
+| 99 | [Alligator](https://open.spotify.com/track/797qMUoU74C6xc45n2vAMK) | [Of Monsters and Men](https://open.spotify.com/artist/4dwdTW1Lfiq0cM8nBAqIIz) | [FEVER DREAM](https://open.spotify.com/album/3jk6oyfKCny48ZYb1CPjLa) | 3:04 |
+| 100 | [Cecilia And The Satellite](https://open.spotify.com/track/1MSM3Fo2fvnwVqMcz8Jhjq) | [Andrew McMahon in the Wilderness](https://open.spotify.com/artist/716ZwtZBmwROBXcFmCzfdM) | [Andrew McMahon In The Wilderness](https://open.spotify.com/album/4IVdl0FxI7cpwyLh8JWOdG) | 3:43 |
 
-Snapshot ID: `MCw4MzRiMTU5MzhjNmFiYWI4YTFhNGNlMGRjMWRhZDIzNGEyYmJlZDg3`
+Snapshot ID: `MCwwNTY0OTI5ZDc1NGE3MzAyNmZmNGNlNmJiMzU3ZTU3ZTJmYjIxNTAz`

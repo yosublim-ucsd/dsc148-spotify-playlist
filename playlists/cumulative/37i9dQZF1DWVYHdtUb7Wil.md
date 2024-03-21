@@ -4,7 +4,7 @@
 
 > Kick back to these chilled out essentials.
 
-161 songs - 9 hr 8 min
+162 songs - 9 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -156,7 +156,8 @@
 | [To Know Me](https://open.spotify.com/track/6Vxz9qvJdej63DrR8othbd) | [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [Lauren Daigle](https://open.spotify.com/album/0pegySdYHnog0hNQcClfTf) | 3:31 | 2023-06-15 | 2023-09-30 |
 | [To Know Me](https://open.spotify.com/track/7LvCq4tN8BweqUpfd8Zeeo) | [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [Lauren Daigle](https://open.spotify.com/album/2XzIFrXnYFapaT2sNJ1LQQ) | 3:31 | 2023-09-28 | 2024-03-15 |
 | [To Love Someone](https://open.spotify.com/track/3PsHulD1zewglcTPcEPnlk) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [To Love Someone](https://open.spotify.com/album/2hOxnlaUHGvYa7pisKzVdC) | 3:16 | 2023-11-09 | 2024-03-01 |
-| [Too Good to be True](https://open.spotify.com/track/4vIiVs5JoNfqqRi5o7jAIb) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Too Good to be True](https://open.spotify.com/album/57y7NpfTINlnrNitu8vwft) | 2:40 | 2024-02-29 |  |
+| [Too Good to be True](https://open.spotify.com/track/27RDQ0TfxzWMlQFuKrPT11) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Deeper Well](https://open.spotify.com/album/5SxZmGwc4eJuPp6PcO4JgJ) | 2:40 | 2024-03-14 |  |
+| [Too Good to be True](https://open.spotify.com/track/4vIiVs5JoNfqqRi5o7jAIb) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Too Good to be True](https://open.spotify.com/album/57y7NpfTINlnrNitu8vwft) | 2:40 | 2024-02-29 | 2024-03-21 |
 | [Trust Me Mate](https://open.spotify.com/track/2wWX4sZGZNc7lA594ZOhP7) | [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y) | [Trust Me Mate](https://open.spotify.com/album/3EL23ULlG8ejjORjNZ4KXp) | 2:58 | 2023-09-28 |  |
 | [Two Hearts](https://open.spotify.com/track/3rAZYyztPLBaQ7TTXdxk7m) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Two Hearts](https://open.spotify.com/album/7oiZpyHMQeOc1GMU7fBjSh) | 4:06 | 2023-11-17 |  |
 | [Unlearn You](https://open.spotify.com/track/4EgBhLYvbA3FeEfgpLD54h) | [Keenan Te](https://open.spotify.com/artist/6Ge3YISmUWPCUcSVx8VGor) | [Phases](https://open.spotify.com/album/2PV7hRgIk5c5GEmXRRUHC3) | 2:48 | 2023-08-17 | 2024-03-01 |

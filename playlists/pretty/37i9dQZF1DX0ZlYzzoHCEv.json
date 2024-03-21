@@ -1,12 +1,12 @@
 {
   "description": "musica per quando non sai insomma come",
-  "num_followers": 71023,
+  "num_followers": 71032,
   "original_name": "la mia testa:",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmM2FlNzI5MTIyZTYzMzkwNWJhOGM4M2FjMmVhZGYwODQyNmRhNTI5",
+  "snapshot_id": "MCw1ODhjMDc4NTM1M2FlYzNkYmY1NzJiZDcwNjg0NDk3ZDkxY2UzYzg1",
   "tracks": [
     {
       "added_at": "2023-11-17 08:35:13",
@@ -311,26 +311,6 @@
     {
       "added_at": "2023-11-17 08:35:13",
       "album": {
-        "name": "My 21st Century Blues",
-        "url": "https://open.spotify.com/album/3U8n8LzBx2o9gYXvvNq4uH"
-      },
-      "artists": [
-        {
-          "name": "RAYE",
-          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
-        },
-        {
-          "name": "070 Shake",
-          "url": "https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI"
-        }
-      ],
-      "duration_ms": 272373,
-      "name": "Escapism.",
-      "url": "https://open.spotify.com/track/5mHdCZtVyb4DcJw8799hZp"
-    },
-    {
-      "added_at": "2023-11-17 08:35:13",
-      "album": {
         "name": "LIVE FOREVER",
         "url": "https://open.spotify.com/album/4hiArqU343m8BUT0lymyLO"
       },
@@ -347,6 +327,26 @@
       "duration_ms": 85360,
       "name": "nuts",
       "url": "https://open.spotify.com/track/4k3xDpAdBuM17mNNHhOZkK"
+    },
+    {
+      "added_at": "2023-11-17 08:35:13",
+      "album": {
+        "name": "My 21st Century Blues",
+        "url": "https://open.spotify.com/album/3U8n8LzBx2o9gYXvvNq4uH"
+      },
+      "artists": [
+        {
+          "name": "RAYE",
+          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
+        },
+        {
+          "name": "070 Shake",
+          "url": "https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI"
+        }
+      ],
+      "duration_ms": 272373,
+      "name": "Escapism.",
+      "url": "https://open.spotify.com/track/5mHdCZtVyb4DcJw8799hZp"
     },
     {
       "added_at": "2023-11-17 08:35:13",
@@ -399,6 +399,22 @@
     {
       "added_at": "2023-11-17 08:35:13",
       "album": {
+        "name": "Birds In The Trap Sing McKnight",
+        "url": "https://open.spotify.com/album/42WVQWuf1teDysXiOupIZt"
+      },
+      "artists": [
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        }
+      ],
+      "duration_ms": 191622,
+      "name": "sdp interlude",
+      "url": "https://open.spotify.com/track/4gh0ZnHzaTMT1sDga7Ek0N"
+    },
+    {
+      "added_at": "2023-11-17 08:35:13",
+      "album": {
         "name": "Unholy (feat. Kim Petras)",
         "url": "https://open.spotify.com/album/0gX9tkL5njRax8ymWcXARi"
       },
@@ -415,22 +431,6 @@
       "duration_ms": 156943,
       "name": "Unholy (feat. Kim Petras)",
       "url": "https://open.spotify.com/track/3nqQXoyQOWXiESFLlDF1hG"
-    },
-    {
-      "added_at": "2023-11-17 08:35:13",
-      "album": {
-        "name": "Birds In The Trap Sing McKnight",
-        "url": "https://open.spotify.com/album/42WVQWuf1teDysXiOupIZt"
-      },
-      "artists": [
-        {
-          "name": "Travis Scott",
-          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
-        }
-      ],
-      "duration_ms": 191622,
-      "name": "sdp interlude",
-      "url": "https://open.spotify.com/track/4gh0ZnHzaTMT1sDga7Ek0N"
     },
     {
       "added_at": "2023-11-17 08:35:13",
@@ -499,22 +499,18 @@
     {
       "added_at": "2023-11-17 08:35:13",
       "album": {
-        "name": "GMFU (w/ 6arelyhuman)",
-        "url": "https://open.spotify.com/album/0BkF8h20ihtHhQrvhg7b4E"
+        "name": "How to: Friend, Love, Freefall",
+        "url": "https://open.spotify.com/album/7vXiklrUeffx5o2F8VYwm3"
       },
       "artists": [
         {
-          "name": "Odetari",
-          "url": "https://open.spotify.com/artist/7ITMCzIU9uII8gwRg8JAhc"
-        },
-        {
-          "name": "6arelyhuman",
-          "url": "https://open.spotify.com/artist/1oYXEVbGh1L7EWGm9C68cN"
+          "name": "Rainbow Kitten Surprise",
+          "url": "https://open.spotify.com/artist/4hz8tIajF2INpgM0qzPJz2"
         }
       ],
-      "duration_ms": 127741,
-      "name": "GMFU (w/ 6arelyhuman)",
-      "url": "https://open.spotify.com/track/4D1k6x4MXTaSnljSvAXhaf"
+      "duration_ms": 152293,
+      "name": "It's Called: Freefall",
+      "url": "https://open.spotify.com/track/474uVhyGgK5MtY9gMcDgGl"
     },
     {
       "added_at": "2023-11-17 08:35:13",
@@ -535,34 +531,22 @@
     {
       "added_at": "2023-11-17 08:35:13",
       "album": {
-        "name": "How to: Friend, Love, Freefall",
-        "url": "https://open.spotify.com/album/7vXiklrUeffx5o2F8VYwm3"
+        "name": "GMFU (w/ 6arelyhuman)",
+        "url": "https://open.spotify.com/album/0BkF8h20ihtHhQrvhg7b4E"
       },
       "artists": [
         {
-          "name": "Rainbow Kitten Surprise",
-          "url": "https://open.spotify.com/artist/4hz8tIajF2INpgM0qzPJz2"
-        }
-      ],
-      "duration_ms": 152293,
-      "name": "It's Called: Freefall",
-      "url": "https://open.spotify.com/track/474uVhyGgK5MtY9gMcDgGl"
-    },
-    {
-      "added_at": "2023-11-17 08:35:13",
-      "album": {
-        "name": "Gemini Rights",
-        "url": "https://open.spotify.com/album/3Ks0eeH0GWpY4AU20D5HPD"
-      },
-      "artists": [
+          "name": "Odetari",
+          "url": "https://open.spotify.com/artist/7ITMCzIU9uII8gwRg8JAhc"
+        },
         {
-          "name": "Steve Lacy",
-          "url": "https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp"
+          "name": "6arelyhuman",
+          "url": "https://open.spotify.com/artist/1oYXEVbGh1L7EWGm9C68cN"
         }
       ],
-      "duration_ms": 232066,
-      "name": "Bad Habit",
-      "url": "https://open.spotify.com/track/4k6Uh1HXdhtusDW5y8Gbvy"
+      "duration_ms": 127741,
+      "name": "GMFU (w/ 6arelyhuman)",
+      "url": "https://open.spotify.com/track/4D1k6x4MXTaSnljSvAXhaf"
     },
     {
       "added_at": "2023-11-17 08:35:13",
@@ -579,6 +563,22 @@
       "duration_ms": 209273,
       "name": "SLOW DANCING IN THE DARK",
       "url": "https://open.spotify.com/track/6rY5FAWxCdAGllYEOZMbjW"
+    },
+    {
+      "added_at": "2023-11-17 08:35:13",
+      "album": {
+        "name": "Gemini Rights",
+        "url": "https://open.spotify.com/album/3Ks0eeH0GWpY4AU20D5HPD"
+      },
+      "artists": [
+        {
+          "name": "Steve Lacy",
+          "url": "https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp"
+        }
+      ],
+      "duration_ms": 232066,
+      "name": "Bad Habit",
+      "url": "https://open.spotify.com/track/4k6Uh1HXdhtusDW5y8Gbvy"
     },
     {
       "added_at": "2023-11-17 08:35:13",
@@ -651,22 +651,6 @@
     {
       "added_at": "2023-11-17 08:35:13",
       "album": {
-        "name": "Up 2 M\u00eb",
-        "url": "https://open.spotify.com/album/3ZKEPJwhLcpUfYPMIsC4PF"
-      },
-      "artists": [
-        {
-          "name": "Yeat",
-          "url": "https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx"
-        }
-      ],
-      "duration_ms": 160052,
-      "name": "Mon\u00eby so big",
-      "url": "https://open.spotify.com/track/4Se3fXoHJkcraQzJXo2IYn"
-    },
-    {
-      "added_at": "2023-11-17 08:35:13",
-      "album": {
         "name": "Automotivo Bibi Fogosa",
         "url": "https://open.spotify.com/album/5YHGz0NvgBlhKefmyhP9zO"
       },
@@ -687,6 +671,22 @@
       "duration_ms": 129798,
       "name": "Automotivo Bibi Fogosa",
       "url": "https://open.spotify.com/track/2JIzOc3HHo4MhiyZzhpBUV"
+    },
+    {
+      "added_at": "2023-11-17 08:35:13",
+      "album": {
+        "name": "Up 2 M\u00eb",
+        "url": "https://open.spotify.com/album/3ZKEPJwhLcpUfYPMIsC4PF"
+      },
+      "artists": [
+        {
+          "name": "Yeat",
+          "url": "https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx"
+        }
+      ],
+      "duration_ms": 160052,
+      "name": "Mon\u00eby so big",
+      "url": "https://open.spotify.com/track/4Se3fXoHJkcraQzJXo2IYn"
     },
     {
       "added_at": "2023-11-17 08:35:13",
@@ -795,22 +795,6 @@
     {
       "added_at": "2023-11-17 08:35:13",
       "album": {
-        "name": "Tek It (I Watch the Moon)",
-        "url": "https://open.spotify.com/album/3Bt2OtHQDRDXC10Flgm9Rv"
-      },
-      "artists": [
-        {
-          "name": "Cafun\u00e9",
-          "url": "https://open.spotify.com/artist/581C5Qwl87TskfBEzuoisu"
-        }
-      ],
-      "duration_ms": 166859,
-      "name": "Tek It - Sped Up",
-      "url": "https://open.spotify.com/track/0MnTkIEP4zZN1IUSu8MvIz"
-    },
-    {
-      "added_at": "2023-11-17 08:35:13",
-      "album": {
         "name": "DISORDER",
         "url": "https://open.spotify.com/album/3yKGB4IYu6MeLkhFJFn9eI"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 120428,
       "name": "WASTE",
       "url": "https://open.spotify.com/track/4NgherJDfCXWBZBYheM4jK"
+    },
+    {
+      "added_at": "2023-11-17 08:35:13",
+      "album": {
+        "name": "Tek It (I Watch the Moon)",
+        "url": "https://open.spotify.com/album/3Bt2OtHQDRDXC10Flgm9Rv"
+      },
+      "artists": [
+        {
+          "name": "Cafun\u00e9",
+          "url": "https://open.spotify.com/artist/581C5Qwl87TskfBEzuoisu"
+        }
+      ],
+      "duration_ms": 166859,
+      "name": "Tek It - Sped Up",
+      "url": "https://open.spotify.com/track/0MnTkIEP4zZN1IUSu8MvIz"
     },
     {
       "added_at": "2023-11-17 08:35:13",
@@ -959,22 +959,6 @@
     {
       "added_at": "2023-11-17 08:35:13",
       "album": {
-        "name": "NARCISSISTIC PERSONALITY DISORDER",
-        "url": "https://open.spotify.com/album/10o52EY3moL562KKhd3Cet"
-      },
-      "artists": [
-        {
-          "name": "Odetari",
-          "url": "https://open.spotify.com/artist/7ITMCzIU9uII8gwRg8JAhc"
-        }
-      ],
-      "duration_ms": 110416,
-      "name": "NARCISSISTIC PERSONALITY DISORDER",
-      "url": "https://open.spotify.com/track/6lDJ0CkQ6LdQv5EUQ39rpg"
-    },
-    {
-      "added_at": "2023-11-17 08:35:13",
-      "album": {
         "name": "Sassy Scene",
         "url": "https://open.spotify.com/album/5kFLrTEOfgL2rMYMTxRrNC"
       },
@@ -999,6 +983,22 @@
     {
       "added_at": "2023-11-17 08:35:13",
       "album": {
+        "name": "NARCISSISTIC PERSONALITY DISORDER",
+        "url": "https://open.spotify.com/album/10o52EY3moL562KKhd3Cet"
+      },
+      "artists": [
+        {
+          "name": "Odetari",
+          "url": "https://open.spotify.com/artist/7ITMCzIU9uII8gwRg8JAhc"
+        }
+      ],
+      "duration_ms": 110416,
+      "name": "NARCISSISTIC PERSONALITY DISORDER",
+      "url": "https://open.spotify.com/track/6lDJ0CkQ6LdQv5EUQ39rpg"
+    },
+    {
+      "added_at": "2023-11-17 08:35:13",
+      "album": {
         "name": "Aquarium (Special Edition)",
         "url": "https://open.spotify.com/album/3hHmYc6mrl6NkmRW1ZwYvm"
       },
@@ -1011,22 +1011,6 @@
       "duration_ms": 197960,
       "name": "Barbie Girl",
       "url": "https://open.spotify.com/track/5ZrDlcxIDZyjOzHdYW1ydr"
-    },
-    {
-      "added_at": "2023-11-17 08:35:13",
-      "album": {
-        "name": "Little Things x Gypsy Woman (L BEATS MASHUP)",
-        "url": "https://open.spotify.com/album/052c03LAr2euUtLKgvOKae"
-      },
-      "artists": [
-        {
-          "name": "Jorja Smith",
-          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
-        }
-      ],
-      "duration_ms": 131000,
-      "name": "Little Things x Gypsy Woman - L BEATS MASHUP",
-      "url": "https://open.spotify.com/track/6xp1u6ZEHXX8DxJIFFrVoP"
     },
     {
       "added_at": "2023-11-17 08:35:13",
@@ -1047,6 +1031,22 @@
       "duration_ms": 133706,
       "name": "edamame",
       "url": "https://open.spotify.com/track/1golLrmqyxDWedF7YUHCOD"
+    },
+    {
+      "added_at": "2023-11-17 08:35:13",
+      "album": {
+        "name": "Little Things x Gypsy Woman (L BEATS MASHUP)",
+        "url": "https://open.spotify.com/album/052c03LAr2euUtLKgvOKae"
+      },
+      "artists": [
+        {
+          "name": "Jorja Smith",
+          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
+        }
+      ],
+      "duration_ms": 131000,
+      "name": "Little Things x Gypsy Woman - L BEATS MASHUP",
+      "url": "https://open.spotify.com/track/6xp1u6ZEHXX8DxJIFFrVoP"
     },
     {
       "added_at": "2023-11-17 08:35:13",
@@ -1299,18 +1299,18 @@
     {
       "added_at": "2023-11-17 08:35:13",
       "album": {
-        "name": "Drugs From Amsterdam",
-        "url": "https://open.spotify.com/album/060SvgMzLKrNzpvVLK5gSo"
+        "name": "On My Own",
+        "url": "https://open.spotify.com/album/0wylw2oByuJ6xLF3j0QoKL"
       },
       "artists": [
         {
-          "name": "Mau P",
-          "url": "https://open.spotify.com/artist/0w1sbtZVQoK6GzV4A4OkCv"
+          "name": "Darci",
+          "url": "https://open.spotify.com/artist/1lAvOODEAbUI5b51WRBbdx"
         }
       ],
-      "duration_ms": 235785,
-      "name": "Drugs From Amsterdam",
-      "url": "https://open.spotify.com/track/0w7JPlp7eEQI2EKW3ayXrv"
+      "duration_ms": 171692,
+      "name": "On My Own",
+      "url": "https://open.spotify.com/track/0F4FejjWi3bf5vGOkuQwPS"
     }
   ],
   "unique_name": "la mia testa:",

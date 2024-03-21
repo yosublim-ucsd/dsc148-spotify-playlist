@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2qXTri.md) - [plain]
 
 > This is Kirk Franklin\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,899 likes - 50 songs - 4 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,924 likes - 50 songs - 4 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2qXTri.md) - [plain]
 | 25 | [Sunday Morning](https://open.spotify.com/track/1bO3GYFQ1ZPXHa1EUtKJlt) | [Lecrae](https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW), [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu) | [Restoration](https://open.spotify.com/album/406YMcI7NSxhTbhvxkfu2H) | 4:01 |
 | 26 | [Never Alone](https://open.spotify.com/track/7vF5RIx2jHtt9Y0OElOZKK) | [Tori Kelly](https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr), [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu) | [Hiding Place](https://open.spotify.com/album/5A5ePoPwlIuxVmn3cIhiFw) | 3:34 |
 | 27 | [Lose My Soul \- Afterparty Interlude](https://open.spotify.com/track/2DNJ7NAr5IN9BPrKyKx7Gb) | [TobyMac](https://open.spotify.com/artist/5VX8hxrcfJWwaTLiqGUHG3), [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu), [Mandisa](https://open.spotify.com/artist/0YPElKYjOD1sofFCtLdYj3) | [Portable Sounds \(With Bonus Remixes\)](https://open.spotify.com/album/2MZDLzslNM6iXbzcUS13zl) | 6:15 |
-| 28 | [Mercy](https://open.spotify.com/track/1Kci8csnCkMdszZhIhkCxC) | [Trip Lee](https://open.spotify.com/artist/12H1Dmi64fAmmARrsyVFzy), [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu) | [The Epilogue.](https://open.spotify.com/album/6q7eHLeBX6B7teKXCtX3Mg) | 4:36 |
-| 29 | [Stomp \(Remix\)](https://open.spotify.com/track/5JggmPy0YhCLaA6Vt4cmMo) | [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu) | [The Essential Kirk Franklin](https://open.spotify.com/album/2g85kD3g7lt1EGtcJxs7gt) | 5:05 |
+| 28 | [Stomp \(Remix\)](https://open.spotify.com/track/5JggmPy0YhCLaA6Vt4cmMo) | [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu) | [The Essential Kirk Franklin](https://open.spotify.com/album/2g85kD3g7lt1EGtcJxs7gt) | 5:05 |
+| 29 | [Mercy](https://open.spotify.com/track/1Kci8csnCkMdszZhIhkCxC) | [Trip Lee](https://open.spotify.com/artist/12H1Dmi64fAmmARrsyVFzy), [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu) | [The Epilogue.](https://open.spotify.com/album/6q7eHLeBX6B7teKXCtX3Mg) | 4:36 |
 | 30 | [Could've Been \(with J Moss & Tye Tribbett\)](https://open.spotify.com/track/4YSzPF7PIahHWHQpyVJPMK) | [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu), [J Moss](https://open.spotify.com/artist/6sj6FGLblnVfktDZPaydWP), [Tye Tribbett](https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32) | [Hero](https://open.spotify.com/album/6j1ewaeiw48zvPdaC3RK7m) | 6:47 |
 | 31 | [My World Needs You \(feat\. Sarah Reeves, Tasha Cobbs & Tamela Mann\)](https://open.spotify.com/track/0GRRDzyfiF5dQU1ZpC4Ftk) | [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu), [Sarah Reeves](https://open.spotify.com/artist/2vGA5qCDLZGW6exRQgKfLL), [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx), [Tamela Mann](https://open.spotify.com/artist/6ZyV955Ypf3JAKInn1a0dt) | [Losing My Religion](https://open.spotify.com/album/0Uvc0XDk2O8KsPIsMMdasM) | 7:03 |
 | 32 | [OK](https://open.spotify.com/track/5KC5XsV0BwYyHJkNqx2C7n) | [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu) | [LONG LIVE LOVE](https://open.spotify.com/album/0n0B8fefGF2CiVyNktbapt) | 3:56 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2qXTri.md) - [plain]
 | 49 | [Needs](https://open.spotify.com/track/29MNEELNBciKWVHXyvh5gX) | [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu) | [Father's Day](https://open.spotify.com/album/4EUco9VSvpupdEH7GA5Twu) | 3:27 |
 | 50 | [We Win \(Space Jam: A New Legacy\) \(and Kirk Franklin\)](https://open.spotify.com/track/4Y9BJZccHjVdHUkee0pBRa) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK), [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu) | [We Win \(Space Jam: A New Legacy\)](https://open.spotify.com/album/5w1tIaJtvgPEn2mHxiJoVo) | 3:14 |
 
-Snapshot ID: `Mjg1MTQxOTUsMDAwMDAwMDBkM2JlNTczZWYxMjQyNGY4MmExODAzODY1MmUwN2E2OA==`
+Snapshot ID: `Mjg1MTU2NjAsMDAwMDAwMDA2MGYyM2I1OWEwMjIzYjAzYTAzNTExODhiYzc3YWU0Ng==`

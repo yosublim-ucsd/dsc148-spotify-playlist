@@ -4,7 +4,7 @@
 
 > Just wanna Praise the Lord and chill\. Here is a perfect one! Cover: <a href="https://open.spotify.com/artist/22eqNziE8ta7JfDrEkUx8H?si=O\-4j6NxkS\-aYvon7eAoaHg">Malcolm Rue</a>
 
-200 songs - 12 hr 18 min
+201 songs - 12 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -175,7 +175,8 @@
 | [The Promise](https://open.spotify.com/track/0N6IfamxoAVLnqKGzTG97D) | [ELI\-J](https://open.spotify.com/artist/6iwUw4yXwoW4ULEb2izFqV) | [The Promise](https://open.spotify.com/album/0wZPEf4vSQSSWxPLrkEvvO) | 3:07 | 2023-11-03 | 2023-12-15 |
 | [The way You love me](https://open.spotify.com/track/4y1gZU40t8zPEdiK50GN3V) | [Silver\-Ajifa](https://open.spotify.com/artist/3JnpW6KA64hTOyFotD9bDE) | [The way You love me](https://open.spotify.com/album/1uLxrxJXViOM2XMsj6PqPJ) | 2:08 | 2023-10-20 | 2024-01-26 |
 | [The Word](https://open.spotify.com/track/0rCaRP8FF3heR6qE3g8Q13) | [nina shezz](https://open.spotify.com/artist/3Ikru0a7ptudLEI5kBRdw8), [Festizie](https://open.spotify.com/artist/2uimm8D8LQw4mlFRGWPLQu), [Aigbeh D'gong](https://open.spotify.com/artist/18WJX25TgcCtvjNJxgkBTX) | [The Word](https://open.spotify.com/album/4yntsBzEnFsAgRU5mektA9) | 2:52 | 2024-02-02 |  |
-| [This Love](https://open.spotify.com/track/5RHUrCglxsMgs2xvo1wCh2) | [Chidinma](https://open.spotify.com/artist/3Wu4rnX6UKAMtTlUL2IAj4) | [This Love](https://open.spotify.com/album/5jF6a0WvJ8zzO9a00lbP6I) | 5:00 | 2023-10-20 |  |
+| [This Love](https://open.spotify.com/track/2SueiZVtrxJCHgF1Y3KACe) | [Chidinma](https://open.spotify.com/artist/3Wu4rnX6UKAMtTlUL2IAj4) | [New Season](https://open.spotify.com/album/0xe2iTsZcYzMhzCSiZrQpk) | 5:00 | 2023-10-20 |  |
+| [This Love](https://open.spotify.com/track/5RHUrCglxsMgs2xvo1wCh2) | [Chidinma](https://open.spotify.com/artist/3Wu4rnX6UKAMtTlUL2IAj4) | [This Love](https://open.spotify.com/album/5jF6a0WvJ8zzO9a00lbP6I) | 5:00 | 2023-10-20 | 2024-03-21 |
 | [THIS YEAR \(Blessings\)](https://open.spotify.com/track/2VGGQdroduj4dIMGPsBzDG) | [Victor Thompson](https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas), [Ehis 'D' Greatest](https://open.spotify.com/artist/6QdzKE9cMAEFZj1pYcxpsf) | [THIS YEAR \(Blessings\)](https://open.spotify.com/album/31Iuukwc9AgXmHyU2UmYDi) | 2:06 | 2023-10-20 | 2023-11-03 |
 | [THIS YEAR \(Blessings\) \- Remix](https://open.spotify.com/track/5IelW2v32KZHJKwsoJsAwN) | [Victor Thompson](https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ), [Ehis 'D' Greatest](https://open.spotify.com/artist/6QdzKE9cMAEFZj1pYcxpsf) | [THIS YEAR \(Blessings\) \[Remix\]](https://open.spotify.com/album/4TZI8LgMjrmTlOhy7nFa2U) | 2:40 | 2023-10-20 |  |
 | [To me](https://open.spotify.com/track/312MQvrve82qCPpYQP2hbi) | [Kole Light](https://open.spotify.com/artist/7eskjtqf8pezcuh4oCfhui) | [To me](https://open.spotify.com/album/5c6wFb8kE1iL0IswbinfWO) | 2:34 | 2024-02-10 |  |

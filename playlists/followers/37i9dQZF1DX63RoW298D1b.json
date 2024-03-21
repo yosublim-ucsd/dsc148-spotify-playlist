@@ -1,5 +1,5 @@
 {
-  "2024-03-20": 82413,
+  "2024-03-21": 82512,
   "date_first_scraped": "2023-05-16",
   "description": "Soothing piano for the ultimate wind down.",
   "name": "Relaxing Bath",
@@ -57,6 +57,24 @@
       "duration_ms": 117610,
       "name": "A Part Of Us",
       "url": "https://open.spotify.com/track/5aC8nrtrXpYfnhnRyG9LgI"
+    },
+    {
+      "album": {
+        "name": "A quiet river",
+        "url": "https://open.spotify.com/album/6xIHOY61L5LEsjV836wdLk"
+      },
+      "artists": [
+        {
+          "name": "Christian Janssen",
+          "url": "https://open.spotify.com/artist/42vzUzUtpdNGFYxqgVcXl1"
+        }
+      ],
+      "date_added": "2024-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122445,
+      "name": "A quiet river",
+      "url": "https://open.spotify.com/track/1Q2ih8UwOirSbXp9Nb4QV4"
     },
     {
       "album": {
@@ -1750,6 +1768,24 @@
     },
     {
       "album": {
+        "name": "Notturno",
+        "url": "https://open.spotify.com/album/5sTu5u2ARluSip9mOYGXBc"
+      },
+      "artists": [
+        {
+          "name": "Finja Seiden",
+          "url": "https://open.spotify.com/artist/4HgoiVnZ4T75NSjXygiOyH"
+        }
+      ],
+      "date_added": "2024-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191730,
+      "name": "Notturno",
+      "url": "https://open.spotify.com/track/1vwLrgMsd1sCPpXTzXxuBL"
+    },
+    {
+      "album": {
         "name": "Now The Leaves Are Falling",
         "url": "https://open.spotify.com/album/2LTIXjHfpEQ5qTjGFrv9Mk"
       },
@@ -2438,6 +2474,24 @@
     },
     {
       "album": {
+        "name": "The Path",
+        "url": "https://open.spotify.com/album/0TM5zSd3hB5whlxfSbTnrG"
+      },
+      "artists": [
+        {
+          "name": "Rasmus H Thomsen",
+          "url": "https://open.spotify.com/artist/42jjk371b9jW9zsmrMls10"
+        }
+      ],
+      "date_added": "2024-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127588,
+      "name": "The Path",
+      "url": "https://open.spotify.com/track/7eH0X2RvMtR963S3oSJiRN"
+    },
+    {
+      "album": {
         "name": "The Toska",
         "url": "https://open.spotify.com/album/3jyhzzpsA1ijejYGA3N3V2"
       },
@@ -2575,7 +2629,7 @@
       ],
       "date_added": "2023-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-20",
       "duration_ms": 150951,
       "name": "Tra Di Noi",
       "url": "https://open.spotify.com/track/7yJJuCckCfvjuIVDK96KlL"
@@ -2597,6 +2651,24 @@
       "duration_ms": 138618,
       "name": "Tread Softly",
       "url": "https://open.spotify.com/track/03P8X4jeamfDN208vUJK8k"
+    },
+    {
+      "album": {
+        "name": "Tulip Tapestry",
+        "url": "https://open.spotify.com/album/2UCtvOl2T1yDrx3EWrEZiI"
+      },
+      "artists": [
+        {
+          "name": "Eldur H\u00e6ettu",
+          "url": "https://open.spotify.com/artist/1lGzKi0vUzzzT5b2U4CMHC"
+        }
+      ],
+      "date_added": "2024-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154579,
+      "name": "Tulip Tapestry",
+      "url": "https://open.spotify.com/track/0M8tsWVjBjqXWhCpZCjrJ6"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdDoYRQ4LfQJ.md) - [plain]
 
 > Bien al tiro con Legado 7 and the hottest corridos in the U.S.!
 
-[Spotify](https://open.spotify.com/user/spotify) - 253,956 likes - 100 songs - 5 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 254,080 likes - 100 songs - 5 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdDoYRQ4LfQJ.md) - [plain]
 | 38 | [Mafiosa](https://open.spotify.com/track/5LXnSZVJ3kvi0MpA4ryjIb) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC), [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [Mafiosa](https://open.spotify.com/album/6qazRFZrvM3k9n8pzF1ob5) | 2:50 |
 | 39 | [Derecho y Chueco](https://open.spotify.com/track/0DBs6MtftX1ywn0wYVtQ5S) | [Los Caimanes De Sinaloa](https://open.spotify.com/artist/5VE6IinEVSwdQNqQIN8zAN) | [Derecho y Chueco](https://open.spotify.com/album/3H5SrSng3ifF6Yd7664mNm) | 2:37 |
 | 40 | [Los Botones Azules](https://open.spotify.com/track/3ZGkdrigbWXLgHungXfZkt) | [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [Mi Vida En Un Cigarro 2](https://open.spotify.com/album/3ind4Ir3JMazCITxWQajDb) | 2:15 |
-| 41 | [Sin Tanto Royo](https://open.spotify.com/track/4AtRBtemYPsLbwdJRMj5rw) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Tito Double P](https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG) | [Sin Tanto Royo](https://open.spotify.com/album/0IrdgtJfP85uNxe8Ks3vcc) | 2:28 |
-| 42 | [Mi Último Deseo](https://open.spotify.com/track/01ksPzu3Bw8Lsf9o6xIk8C) | [Banda Los Recoditos](https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak) | [El Free](https://open.spotify.com/album/6BmzjJPjWBVfTwbKMFdTUs) | 2:43 |
+| 41 | [Mi Último Deseo](https://open.spotify.com/track/01ksPzu3Bw8Lsf9o6xIk8C) | [Banda Los Recoditos](https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak) | [El Free](https://open.spotify.com/album/6BmzjJPjWBVfTwbKMFdTUs) | 2:43 |
+| 42 | [Sin Tanto Royo](https://open.spotify.com/track/4AtRBtemYPsLbwdJRMj5rw) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Tito Double P](https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG) | [Sin Tanto Royo](https://open.spotify.com/album/0IrdgtJfP85uNxe8Ks3vcc) | 2:28 |
 | 43 | [LA 701](https://open.spotify.com/track/62vhlXTC4rrb13dVUlyYpO) | [Tito Double P](https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [LA 701](https://open.spotify.com/album/1olJpo7uMM41kxy7MTrBd3) | 2:44 |
 | 44 | [Porte de Scarface](https://open.spotify.com/track/5KX5GVCWkqAhGOaPGaLIBK) | [Chuy Montana](https://open.spotify.com/artist/12KipYva9312KrSBekytFE) | [Porte de Scarface](https://open.spotify.com/album/5bircs6AOMJQprSwCyAhnp) | 2:52 |
 | 45 | [Bien Tony Montana](https://open.spotify.com/track/5FK2Ee6xXBspGF8nllIRKM) | [miguel cornejo](https://open.spotify.com/artist/67s0oOKE73W45e5UawllhS), [Calle 24](https://open.spotify.com/artist/6dLuQ5qXxIuWc5urxfIiZR) | [Bien Tony Montana](https://open.spotify.com/album/1sv4ITV71Vv0ph7CKYLqlu) | 2:46 |
@@ -62,9 +62,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdDoYRQ4LfQJ.md) - [plain]
 | 52 | [Andamos Mejor](https://open.spotify.com/track/3K56RPWS4q200IwHiIZcUD) | [Los Gemelos De Sinaloa](https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA) | [Andamos Mejor](https://open.spotify.com/album/2NQwwZeDFB6bTXg8rcAFsf) | 2:17 |
 | 53 | [Soy Buen Amigo](https://open.spotify.com/track/1Z0auW1yEy6Dq9hsRdeIV3) | [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv) | [Soy Buen Amigo](https://open.spotify.com/album/1e35jCMYgVC4dOt1YykB6v) | 2:33 |
 | 54 | [Tirando la H](https://open.spotify.com/track/0SLnqaBaYLFH3ncId7ClCU) | [Esteban Gabriel](https://open.spotify.com/artist/6RPeBghYnSwGV6FOw7huuN) | [Tirando la H](https://open.spotify.com/album/7uyYaGMsVlUEF0Uc10zyod) | 1:59 |
-| 55 | [ALFOMBRA ROJA](https://open.spotify.com/track/3wS0JIapaGqM2zqsRi3p86) | [Daniel Garcia](https://open.spotify.com/artist/5i2Jd6V3K4WdpXAqvQtCrE) | [Sin Rumbo](https://open.spotify.com/album/6A9AcyUAEfykm4rB37PBOi) | 3:45 |
+| 55 | [Se Fue La Pantera \(En Vivo\)](https://open.spotify.com/track/6Yard5LK4aXEn0kBKtHSob) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [Grupo Recluta](https://open.spotify.com/artist/2Dlvgi70UoJJicfKgoW5Vo) | [Se Fue La Pantera \(En Vivo\)](https://open.spotify.com/album/7mJxDGu1Ch9awEssKwiqg3) | 3:22 |
 | 56 | [Si Fuera Fácil](https://open.spotify.com/track/7Jph6HJbfURt4Fea19IED3) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC) | [Si Fuera Fácil](https://open.spotify.com/album/3CUu8nxAMyjCiTeGyiBOKE) | 2:50 |
-| 57 | [Se Fue La Pantera \(En Vivo\)](https://open.spotify.com/track/6Yard5LK4aXEn0kBKtHSob) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [Grupo Recluta](https://open.spotify.com/artist/2Dlvgi70UoJJicfKgoW5Vo) | [Se Fue La Pantera \(En Vivo\)](https://open.spotify.com/album/7mJxDGu1Ch9awEssKwiqg3) | 3:22 |
+| 57 | [ALFOMBRA ROJA](https://open.spotify.com/track/3wS0JIapaGqM2zqsRi3p86) | [Daniel Garcia](https://open.spotify.com/artist/5i2Jd6V3K4WdpXAqvQtCrE) | [Sin Rumbo](https://open.spotify.com/album/6A9AcyUAEfykm4rB37PBOi) | 3:45 |
 | 58 | [Las Dos R](https://open.spotify.com/track/1rlxNbQXvB9mRBB0kszHXq) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0) | [Corridos Bélicos, Vol\. IV](https://open.spotify.com/album/6OOtv7bmTFpSBh1uubgyTb) | 2:30 |
 | 59 | [El Ruddy](https://open.spotify.com/track/0vNtFN67TIMgDokyyuUUwA) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [Corridos 602](https://open.spotify.com/album/0e6v7RAfsLk2UHr5gvDitO) | 3:03 |
 | 60 | [Si Me Ven](https://open.spotify.com/track/5SkLd0qWWqYtv3Ry0dIyIh) | [Los Gemelos De Sinaloa](https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA) | [Si Me Ven](https://open.spotify.com/album/5Z16tpUTnDDwejC6Dvad5r) | 2:54 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdDoYRQ4LfQJ.md) - [plain]
 | 99 | [Paso En Culiacan \(En Vivo\)](https://open.spotify.com/track/0PXsTgZLZkpEJepjyZAGTS) | [Jaime Y Fernando](https://open.spotify.com/artist/6hd4yoO98vmwUq150wB5gm), [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ) | [Paso En Culiacan \(En Vivo\)](https://open.spotify.com/album/6dWQ03bpI9ODThTAlqKWbP) | 4:00 |
 | 100 | [Mr\. Seal The Deal](https://open.spotify.com/track/2IJX1dBzsM09wga4cpivNB) | [Los Desvelados](https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9) | [Mr\. Seal The Deal](https://open.spotify.com/album/4tMN3VLZRAUczIq3uuqFly) | 4:35 |
 
-Snapshot ID: `MCxmOTY1Mzc3MmQ0MWQ0MjFkYjk2MjAxZDA5MjdhOWZmYzg3YWY5MTEx`
+Snapshot ID: `MCwxY2ZiN2MzNWFhMTNkMjRhNzZiMjg2NWI1MjQ3MmY0OWZlYzZlNjAw`

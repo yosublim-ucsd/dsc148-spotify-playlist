@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9FITd4oYs10.md) - [plain]
 
 > Os brabos do hip hop nacional\. Foto: Racionais MCs
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,934 likes - 60 songs - 4 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,937 likes - 60 songs - 4 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9FITd4oYs10.md) - [plain]
 | 20 | [Relicário](https://open.spotify.com/track/60CZZExLs2g78by2XrDBC7) | [Menestrel](https://open.spotify.com/artist/4eQ4RMjplRznwHA1UBNnXT) | [Relicário](https://open.spotify.com/album/6qp8a3Tx1FRR70uoa6xcWR) | 3:11 |
 | 21 | [Chama os Mulekes](https://open.spotify.com/track/5p3umkh1j1x1lL9IW8DbSZ) | [ConeCrewDiretoria](https://open.spotify.com/artist/0iUdFhwiXjGQWAt9yXPP1T) | [Com os Neurônios Evoluidos](https://open.spotify.com/album/6BZBlOY8oVISvKMnUvDQ3Z) | 5:53 |
 | 22 | [Mandona \- Acústico](https://open.spotify.com/track/0R4dwzW253KTxchGryT1H6) | [Oriente](https://open.spotify.com/artist/0IVBT8qQNwvHLzOJL6kGpE), [MC Hariel](https://open.spotify.com/artist/0pcoadNMmvrUyab1RxWBoV) | [Mandona \(Acústico\)](https://open.spotify.com/album/3Uzv21BbYSmMkKUm70zCw4) | 3:59 |
-| 23 | [Convoque Seu Buda](https://open.spotify.com/track/2xsLPQ4UHFYdqmGwS7wQ1E) | [Criolo](https://open.spotify.com/artist/37ZflmHTdxkSLQuT8w9NBs) | [Convoque Seu Buda](https://open.spotify.com/album/1ULzlYxHYd9oyAXqvZ7Afz) | 3:51 |
-| 24 | [Respeito É pra Quem Tem](https://open.spotify.com/track/4pZt1KU0y9Ckrw5Bcp60GB) | [Sabotage](https://open.spotify.com/artist/5deK5HnwbEKvge2svL0i0B), [DBS Gordão Chefe](https://open.spotify.com/artist/5YXT5F24Ljk9YOXg32x93j), [RZO](https://open.spotify.com/artist/1CQJtHMGhqvrSZiRTjSeOU) | [Rap É Compromisso \(Edição Comemorativa\)](https://open.spotify.com/album/4KJARfekEfYH6zGKus6zvz) | 5:29 |
+| 23 | [Respeito É pra Quem Tem](https://open.spotify.com/track/4pZt1KU0y9Ckrw5Bcp60GB) | [Sabotage](https://open.spotify.com/artist/5deK5HnwbEKvge2svL0i0B), [DBS Gordão Chefe](https://open.spotify.com/artist/5YXT5F24Ljk9YOXg32x93j), [RZO](https://open.spotify.com/artist/1CQJtHMGhqvrSZiRTjSeOU) | [Rap É Compromisso \(Edição Comemorativa\)](https://open.spotify.com/album/4KJARfekEfYH6zGKus6zvz) | 5:29 |
+| 24 | [Convoque Seu Buda](https://open.spotify.com/track/2xsLPQ4UHFYdqmGwS7wQ1E) | [Criolo](https://open.spotify.com/artist/37ZflmHTdxkSLQuT8w9NBs) | [Convoque Seu Buda](https://open.spotify.com/album/1ULzlYxHYd9oyAXqvZ7Afz) | 3:51 |
 | 25 | [Nipsey do Azul](https://open.spotify.com/track/7oOZ6CmKSUUgTtVIYPJiNk) | [Akira Presidente](https://open.spotify.com/artist/6ZnwtQznVleZpEkQINdyfG), [Major RD](https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5), [MC Flavinho](https://open.spotify.com/artist/25AjzG7UO6tKfw11bwPscM), [DJ Decco](https://open.spotify.com/artist/4csPpIaHzl4d8yO5obNcm0) | [Êxito](https://open.spotify.com/album/3d19qMiZoSQHsgKshBpyuf) | 3:24 |
 | 26 | [Castelos & Ruínas](https://open.spotify.com/track/2QsawLES5BqdJ9yYp5wjYs) | [BK](https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo), [Sain](https://open.spotify.com/artist/26aPjwxSSJsGy6yQ19YL55) | [Castelos & Ruínas](https://open.spotify.com/album/2R3jSaMM1H6qecjhZtlgJH) | 4:09 |
 | 27 | [Nao Sei Mais](https://open.spotify.com/track/1M4q8oK4PlvHBvzgKs6e8O) | [Pelé MilFlows](https://open.spotify.com/artist/4WbHbolEKZIhnkO2xv2Lm0), [Damassaclan](https://open.spotify.com/artist/1g4RI8yZ2TS4Y0ST5482OU), [Neo Beats](https://open.spotify.com/artist/6PERJZF7wohA034PAxDK0b) | [Nao Sei Mais](https://open.spotify.com/album/1aFE3mqyIfuzbPe3TFHz4l) | 2:25 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9FITd4oYs10.md) - [plain]
 | 59 | [Wallpaper](https://open.spotify.com/track/5PzzpWrRjoKmA1nzYasTL1) | [Dalsin](https://open.spotify.com/artist/6W2jVpE55n1wT0SrpxoeFk) | [Wallpaper](https://open.spotify.com/album/2BXYBkDIGCjZJhGHtAmu9V) | 3:11 |
 | 60 | [Estilo Vagabundo](https://open.spotify.com/track/4gOg1djXQH0rZ78ObIQJWX) | [MV Bill](https://open.spotify.com/artist/4oE4ASN8auDhoW9vsXp3VJ), [Kamila CDD](https://open.spotify.com/artist/6agIzaw50omhzuG1kSI0QX) | [Falcão o Bagulho É Doido](https://open.spotify.com/album/0k0ux6tpv66BnpjcdhqPig) | 5:00 |
 
-Snapshot ID: `MCwxZWYyNWIzNTkyZTQ1ZWRjYTNlMDcyMjAxNjVjMTI3NTdhMTI2MmRl`
+Snapshot ID: `MCxiMGM1N2QyMjE1YWUxODY5OGQyOGQ4NDk1Y2M2ZjU3MzExZTZmYzQ0`

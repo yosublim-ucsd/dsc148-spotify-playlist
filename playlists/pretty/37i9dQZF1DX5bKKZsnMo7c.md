@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5bKKZsnMo7c.md) - [plain]
 
 > Feeling dramatic? All eyes on you\. Cover: Jagwar Twin
 
-[Spotify](https://open.spotify.com/user/spotify) - 381,207 likes - 65 songs - 3 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 381,615 likes - 65 songs - 3 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5bKKZsnMo7c.md) - [plain]
 | 31 | [Memories](https://open.spotify.com/track/5UXJzLFdBn6u9FJTCnoHrH) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Superache](https://open.spotify.com/album/5hIOd0FvjlgG4uLjXHkFWI) | 4:08 |
 | 32 | [Sexy](https://open.spotify.com/track/4A1GfEVOELS3vo4tSa6bts) | [Kate Rockwell](https://open.spotify.com/artist/4kHxu1UJeYLB0ZkBQZdqT2), [Original Broadway Cast of Mean Girls](https://open.spotify.com/artist/6B1foTh2pK3K4MKQzYaKRu) | [Mean Girls \(Original Broadway Cast Recording\)](https://open.spotify.com/album/6m7n9JuAOMcy8X3ntO0Ktf) | 3:35 |
 | 33 | [SLEEP PARALYSIS DEMON](https://open.spotify.com/track/7ArCnzvsDjjLort2k4lELX) | [Ethan Bortnick](https://open.spotify.com/artist/0LyP0Zn0mXLb65AgGOS6EY) | [SLEEP PARALYSIS DEMON](https://open.spotify.com/album/6VaeeTZaX6qAcG0iJWTnNj) | 2:34 |
-| 34 | [Christmas Kids](https://open.spotify.com/track/40gk32E7YaTFoQwDIWv2SY) | [Roar](https://open.spotify.com/artist/7dIpKWlEeAljA20vFJ82RD) | [I Can't Handle Change](https://open.spotify.com/album/42vd9Cgr89pjb0Jipvaj5d) | 2:15 |
+| 34 | [Christmas Kids](https://open.spotify.com/track/7KV7xwHTJbzbwGQEHLIzR8) | [Roar](https://open.spotify.com/artist/7dIpKWlEeAljA20vFJ82RD) | [I Can't Handle Change](https://open.spotify.com/album/0YjOnBY0FRufcmNBTzWTgX) | 2:15 |
 | 35 | [mad's world](https://open.spotify.com/track/1MZHbJsMBbq5P3Mq4xgu8G) | [Mad Tsai](https://open.spotify.com/artist/5C2iFRY2UldL2hv9THw4aB) | [mad's world](https://open.spotify.com/album/0tR2hMv1kGNWZpqbk7a3D5) | 3:14 |
 | 36 | [TUNNEL VISION](https://open.spotify.com/track/183WuVX0zsr0dHydHkKtGQ) | [Melanie Martinez](https://open.spotify.com/artist/63yrD80RY3RNEM2YDpUpO8) | [PORTALS](https://open.spotify.com/album/4kI7ZZF6CgDGFTjZNFwXYG) | 4:44 |
 | 37 | [My Love Mine All Mine](https://open.spotify.com/track/3vkCueOmm7xQDoJ17W1Pm3) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [The Land Is Inhospitable and So Are We](https://open.spotify.com/album/2Cn1d2KgbkAqbZCJ1RzdkA) | 2:17 |
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5bKKZsnMo7c.md) - [plain]
 | 64 | [Passing Through \(Can't the Future Just Wait\)](https://open.spotify.com/track/2lXqwlG8za1sWKgHRwEiEC) | [Kaden MacKay](https://open.spotify.com/artist/3pvdhTDfKYnjDZ0R41qY3x) | [Passing Through \(Can't the Future Just Wait\)](https://open.spotify.com/album/6mTcEL6EVR3bN1WO6obNz2) | 3:13 |
 | 65 | [I / Me / Myself](https://open.spotify.com/track/1lqj3wgPj8gHCdq46hUjvr) | [Will Wood](https://open.spotify.com/artist/1VQ8riQ31zVHtlxiCC9EZE) | [The Normal Album](https://open.spotify.com/album/3e4el0X3Rqx0Lms74bUrkJ) | 4:51 |
 
-Snapshot ID: `MCw3Y2RmNDM4YzM3MzkyM2Q0M2ViOGU5N2RhNzQxM2JmNjgyZjA3MDdm`
+Snapshot ID: `MCxmOWFhOTEwZTVmMzM0OGQxNmI3YjFhMWU5NTEyYThlOTZiNmMwNmMw`

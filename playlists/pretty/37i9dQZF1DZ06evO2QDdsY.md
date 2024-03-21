@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2QDdsY.md) - [plain]
 
 > This is Valerie June\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,793 likes - 49 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,795 likes - 49 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,15 +47,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2QDdsY.md) - [plain]
 | 37 | [Godspeed](https://open.spotify.com/track/6r2gdsL25eruBV8cBefbtY) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [Under Cover](https://open.spotify.com/album/6vw0q0HwJCJUmSfkjCKtwH) | 2:49 |
 | 38 | [Home Inside \(with Valerie June\) \(From “Norah Jones is Playing Along” Podcast\)](https://open.spotify.com/track/2e8hzjW6K0TFPZkwIa38o0) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N), [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [Home Inside \(with Valerie June\) \(From “Norah Jones is Playing Along” Podcast\)](https://open.spotify.com/album/7zAu6xxacBn0nzZbwSZHEK) | 2:19 |
 | 39 | [The Hour](https://open.spotify.com/track/4pn8AsvuA3JpMnK0pbVgsy) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [Pushin' against a Stone](https://open.spotify.com/album/4i19hM4eLMNUR3fgchdT6z) | 3:49 |
-| 40 | [The No Draws Blues](https://open.spotify.com/track/77d2KoKcQwq41CBStkXpCp) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [Mountain of Rose Quartz](https://open.spotify.com/album/2ExPB3sevswcHXOXiyajDH) | 2:24 |
+| 40 | [Twas Twined & Twisted](https://open.spotify.com/track/2EOSxTbMe1kvl9d89mBzVE) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [Mountain of Rose Quartz](https://open.spotify.com/album/2ExPB3sevswcHXOXiyajDH) | 3:07 |
 | 41 | [Tonight I’ll Be Staying Here With You](https://open.spotify.com/track/4BVuRNBQgO2XDhAQxC7c8z) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [Under Cover](https://open.spotify.com/album/6vw0q0HwJCJUmSfkjCKtwH) | 3:04 |
 | 42 | [Summer's End](https://open.spotify.com/track/4XEJxDDGvxgAAUXJGMWg0h) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [Broken Hearts & Dirty Windows: Songs of John Prine, Vol\. 2](https://open.spotify.com/album/4hCtJiXI3q5gQAydvchzYh) | 3:29 |
 | 43 | [Home](https://open.spotify.com/track/6RuO4PLupkQlIVWz0S0Hid) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [The Way of the Weeping Willow](https://open.spotify.com/album/4zKQRxjvBRMEOJ02Y7nD3o) | 1:59 |
-| 44 | [Twas Twined & Twisted](https://open.spotify.com/track/2EOSxTbMe1kvl9d89mBzVE) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [Mountain of Rose Quartz](https://open.spotify.com/album/2ExPB3sevswcHXOXiyajDH) | 3:07 |
+| 44 | [The No Draws Blues](https://open.spotify.com/track/77d2KoKcQwq41CBStkXpCp) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [Mountain of Rose Quartz](https://open.spotify.com/album/2ExPB3sevswcHXOXiyajDH) | 2:24 |
 | 45 | [Don’t It Make You Want To Go Home](https://open.spotify.com/track/1IiRdOcgZNojYYbVwU0w8Z) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [Under Cover](https://open.spotify.com/album/6vw0q0HwJCJUmSfkjCKtwH) | 4:39 |
 | 46 | [Handsome Molly](https://open.spotify.com/track/3VYpe6swUI2XOOZLU8MbKZ) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM), [Bill Frisell](https://open.spotify.com/artist/3SONlwqLIP2GtaMh9pLYe5) | [Handsome Molly](https://open.spotify.com/album/4RAEIeZKGylODSY74M4wNs) | 2:51 |
 | 47 | [Love Told A Lie](https://open.spotify.com/track/13AbPBJkIgSlvwZoW7z8GF) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [For The Loved & Loveless](https://open.spotify.com/album/77cwbGS06HijohXkm0oDM2) | 3:59 |
 | 48 | [Rain Dance](https://open.spotify.com/track/0NyLQvtPwo19usBXekOgbs) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [Mountain of Rose Quartz](https://open.spotify.com/album/2ExPB3sevswcHXOXiyajDH) | 2:47 |
 | 49 | [Imagine](https://open.spotify.com/track/4xUsxA83y9Ea5qC6v8m6VG) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [Under Cover](https://open.spotify.com/album/6vw0q0HwJCJUmSfkjCKtwH) | 3:07 |
 
-Snapshot ID: `Mjg1MTQxOTUsMDAwMDAwMDA4MDZiZTljZmVlOTk4MmVmNGIxNDZjOTA3ZmJkNzQ5Ng==`
+Snapshot ID: `Mjg1MTU2NjEsMDAwMDAwMDBhOWM1NTYzMWIzNTM3ZTE0YTgwMzAyZDIwNmM5OGY2Mg==`

@@ -1,12 +1,12 @@
 {
   "description": "Real nasty house. Cover: CHYL",
-  "num_followers": 441707,
+  "num_followers": 441796,
   "original_name": "Nasty Bits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4NGFjNDZmZWQ3ODg0ZGU3NzgwODM3OGUwZGQzZDExZGZiMTNiMzg1",
+  "snapshot_id": "MCw1MjA3NjYzYzZhMmYwYTI4MmQzZjE2MjBmODNmNGQ3ODhiNWYwNzFk",
   "tracks": [
     {
       "added_at": "2024-03-15 13:17:32",
@@ -1251,6 +1251,26 @@
     {
       "added_at": "2024-03-15 04:00:00",
       "album": {
+        "name": "Want My Love",
+        "url": "https://open.spotify.com/album/38rT6Cg4Szkmls0nYccnxd"
+      },
+      "artists": [
+        {
+          "name": "Curbi",
+          "url": "https://open.spotify.com/artist/2XiiUuK68XNdHaHOAF5hnT"
+        },
+        {
+          "name": "Nadia Gattas",
+          "url": "https://open.spotify.com/artist/1q5bqIr1FUGq2545aJSmlw"
+        }
+      ],
+      "duration_ms": 157404,
+      "name": "Want My Love",
+      "url": "https://open.spotify.com/track/1VPOl6ZBsQYXXWkgXsBvEo"
+    },
+    {
+      "added_at": "2024-03-15 04:00:00",
+      "album": {
         "name": "Enemy",
         "url": "https://open.spotify.com/album/1ak05kVWCtEdvlCRS5EeZF"
       },
@@ -1287,26 +1307,6 @@
       "duration_ms": 178300,
       "name": "Numb",
       "url": "https://open.spotify.com/track/6TvCNh37pSO9rp9fIhskKN"
-    },
-    {
-      "added_at": "2024-03-15 04:00:00",
-      "album": {
-        "name": "Want My Love",
-        "url": "https://open.spotify.com/album/38rT6Cg4Szkmls0nYccnxd"
-      },
-      "artists": [
-        {
-          "name": "Curbi",
-          "url": "https://open.spotify.com/artist/2XiiUuK68XNdHaHOAF5hnT"
-        },
-        {
-          "name": "Nadia Gattas",
-          "url": "https://open.spotify.com/artist/1q5bqIr1FUGq2545aJSmlw"
-        }
-      ],
-      "duration_ms": 157404,
-      "name": "Want My Love",
-      "url": "https://open.spotify.com/track/1VPOl6ZBsQYXXWkgXsBvEo"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -1463,22 +1463,6 @@
     {
       "added_at": "2024-03-15 04:00:00",
       "album": {
-        "name": "Dare (Gimme 5)",
-        "url": "https://open.spotify.com/album/4xBgCf4Pb5unNHHgHdWeAw"
-      },
-      "artists": [
-        {
-          "name": "Tim Hox",
-          "url": "https://open.spotify.com/artist/64ydm7vEEBjvH4AeC1slRM"
-        }
-      ],
-      "duration_ms": 168000,
-      "name": "Dare (Gimme 5)",
-      "url": "https://open.spotify.com/track/4mbwuwUDEo7xfiietsqNhA"
-    },
-    {
-      "added_at": "2024-03-15 04:00:00",
-      "album": {
         "name": "I'm Drunk (feat. AMY MIY\u00da)",
         "url": "https://open.spotify.com/album/0wuMHJgOAu6cCsJUyyMAta"
       },
@@ -1495,6 +1479,22 @@
       "duration_ms": 150234,
       "name": "I'm Drunk (feat. AMY MIY\u00da)",
       "url": "https://open.spotify.com/track/0WW8txqecanm76y5Je34nf"
+    },
+    {
+      "added_at": "2024-03-15 04:00:00",
+      "album": {
+        "name": "Dare (Gimme 5)",
+        "url": "https://open.spotify.com/album/4xBgCf4Pb5unNHHgHdWeAw"
+      },
+      "artists": [
+        {
+          "name": "Tim Hox",
+          "url": "https://open.spotify.com/artist/64ydm7vEEBjvH4AeC1slRM"
+        }
+      ],
+      "duration_ms": 168000,
+      "name": "Dare (Gimme 5)",
+      "url": "https://open.spotify.com/track/4mbwuwUDEo7xfiietsqNhA"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -1519,22 +1519,6 @@
     {
       "added_at": "2024-03-15 04:00:00",
       "album": {
-        "name": "Chain Gang",
-        "url": "https://open.spotify.com/album/0tS6kuEWcyV4jEty6H4Rz0"
-      },
-      "artists": [
-        {
-          "name": "AFROJACK",
-          "url": "https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz"
-        }
-      ],
-      "duration_ms": 107536,
-      "name": "Chain Gang",
-      "url": "https://open.spotify.com/track/27gCmJDwzTxTx9e90NWDTb"
-    },
-    {
-      "added_at": "2024-03-15 04:00:00",
-      "album": {
         "name": "Hit It Back",
         "url": "https://open.spotify.com/album/2MpANhnsIZjNCpomkvODeK"
       },
@@ -1551,6 +1535,22 @@
       "duration_ms": 138139,
       "name": "Hit It Back",
       "url": "https://open.spotify.com/track/7maOJYreyKXNVpSdYNoOPn"
+    },
+    {
+      "added_at": "2024-03-15 04:00:00",
+      "album": {
+        "name": "Chain Gang",
+        "url": "https://open.spotify.com/album/0tS6kuEWcyV4jEty6H4Rz0"
+      },
+      "artists": [
+        {
+          "name": "AFROJACK",
+          "url": "https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz"
+        }
+      ],
+      "duration_ms": 107536,
+      "name": "Chain Gang",
+      "url": "https://open.spotify.com/track/27gCmJDwzTxTx9e90NWDTb"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -1579,6 +1579,26 @@
     {
       "added_at": "2024-03-15 04:00:00",
       "album": {
+        "name": "RUMBLE IN THE DISCO",
+        "url": "https://open.spotify.com/album/5lWro0c8Rek7HBvXeRKI46"
+      },
+      "artists": [
+        {
+          "name": "Kaleena Zanders",
+          "url": "https://open.spotify.com/artist/0Sz2jslaxjcw2VM5zYh2jK"
+        },
+        {
+          "name": "AC Slater",
+          "url": "https://open.spotify.com/artist/6EqFMCnVGBRNmwPlk2f3Uc"
+        }
+      ],
+      "duration_ms": 185653,
+      "name": "HIGH AGAIN",
+      "url": "https://open.spotify.com/track/5q0HCtQ07Vw2PoQtki30sW"
+    },
+    {
+      "added_at": "2024-03-15 04:00:00",
+      "album": {
         "name": "Juice",
         "url": "https://open.spotify.com/album/5VhMBWzcMUppdo3UYpSTEP"
       },
@@ -1599,26 +1619,6 @@
       "duration_ms": 156960,
       "name": "Juice",
       "url": "https://open.spotify.com/track/51dzsgG32Z9nPvSdpVwJ86"
-    },
-    {
-      "added_at": "2024-03-15 04:00:00",
-      "album": {
-        "name": "RUMBLE IN THE DISCO",
-        "url": "https://open.spotify.com/album/5lWro0c8Rek7HBvXeRKI46"
-      },
-      "artists": [
-        {
-          "name": "Kaleena Zanders",
-          "url": "https://open.spotify.com/artist/0Sz2jslaxjcw2VM5zYh2jK"
-        },
-        {
-          "name": "AC Slater",
-          "url": "https://open.spotify.com/artist/6EqFMCnVGBRNmwPlk2f3Uc"
-        }
-      ],
-      "duration_ms": 185653,
-      "name": "HIGH AGAIN",
-      "url": "https://open.spotify.com/track/5q0HCtQ07Vw2PoQtki30sW"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -1699,22 +1699,6 @@
     {
       "added_at": "2024-03-15 04:00:00",
       "album": {
-        "name": "Just Like You",
-        "url": "https://open.spotify.com/album/0ZdhBVJmb92MDYVh4bQ4nA"
-      },
-      "artists": [
-        {
-          "name": "THYKIER",
-          "url": "https://open.spotify.com/artist/4EePQNY0QBU3IPSSvqZOpI"
-        }
-      ],
-      "duration_ms": 140160,
-      "name": "Just Like You",
-      "url": "https://open.spotify.com/track/6MjMhJwAjpz95raLuqncfD"
-    },
-    {
-      "added_at": "2024-03-15 04:00:00",
-      "album": {
         "name": "Bodymorph",
         "url": "https://open.spotify.com/album/50YeWlWfzOaFYPJjeQsqm3"
       },
@@ -1731,6 +1715,22 @@
       "duration_ms": 243333,
       "name": "Bodymorph",
       "url": "https://open.spotify.com/track/2ThE3B5ysWddfWZ4EXWjeR"
+    },
+    {
+      "added_at": "2024-03-15 04:00:00",
+      "album": {
+        "name": "Just Like You",
+        "url": "https://open.spotify.com/album/0ZdhBVJmb92MDYVh4bQ4nA"
+      },
+      "artists": [
+        {
+          "name": "THYKIER",
+          "url": "https://open.spotify.com/artist/4EePQNY0QBU3IPSSvqZOpI"
+        }
+      ],
+      "duration_ms": 140160,
+      "name": "Just Like You",
+      "url": "https://open.spotify.com/track/6MjMhJwAjpz95raLuqncfD"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -1779,22 +1779,6 @@
     {
       "added_at": "2024-03-15 04:00:00",
       "album": {
-        "name": "Certified",
-        "url": "https://open.spotify.com/album/0TyvVgpxn616G6DGoA25VK"
-      },
-      "artists": [
-        {
-          "name": "Dr. Fresch",
-          "url": "https://open.spotify.com/artist/1htHgbGwgCWJBfGiQwcRqC"
-        }
-      ],
-      "duration_ms": 175492,
-      "name": "Certified",
-      "url": "https://open.spotify.com/track/6ZvL9vA6ZbSCNdpgdYjW12"
-    },
-    {
-      "added_at": "2024-03-15 04:00:00",
-      "album": {
         "name": "Down Like That",
         "url": "https://open.spotify.com/album/4ermKFbOeOj62lqCimalr9"
       },
@@ -1811,6 +1795,22 @@
       "duration_ms": 140000,
       "name": "Down Like That",
       "url": "https://open.spotify.com/track/37V9nZfjftC0vRgc16lbKs"
+    },
+    {
+      "added_at": "2024-03-15 04:00:00",
+      "album": {
+        "name": "Certified",
+        "url": "https://open.spotify.com/album/0TyvVgpxn616G6DGoA25VK"
+      },
+      "artists": [
+        {
+          "name": "Dr. Fresch",
+          "url": "https://open.spotify.com/artist/1htHgbGwgCWJBfGiQwcRqC"
+        }
+      ],
+      "duration_ms": 175492,
+      "name": "Certified",
+      "url": "https://open.spotify.com/track/6ZvL9vA6ZbSCNdpgdYjW12"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -1931,6 +1931,26 @@
     {
       "added_at": "2024-03-15 04:00:00",
       "album": {
+        "name": "That's Right (feat. Lil Wayne)",
+        "url": "https://open.spotify.com/album/2GvpxIFBpYtGMnadRLaugs"
+      },
+      "artists": [
+        {
+          "name": "Dirty Audio",
+          "url": "https://open.spotify.com/artist/1WGex9YdmT4TZjmmMirZA8"
+        },
+        {
+          "name": "Lil Wayne",
+          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+        }
+      ],
+      "duration_ms": 174720,
+      "name": "That's Right (feat. Lil Wayne)",
+      "url": "https://open.spotify.com/track/6XbjAo4rXztT86IaABdBb4"
+    },
+    {
+      "added_at": "2024-03-15 04:00:00",
+      "album": {
         "name": "Deep (with DJ Snake & Yung Felix)",
         "url": "https://open.spotify.com/album/3WpS9W69UKt59YFj744I0u"
       },
@@ -1979,26 +1999,6 @@
     {
       "added_at": "2024-03-15 04:00:00",
       "album": {
-        "name": "That's Right (feat. Lil Wayne)",
-        "url": "https://open.spotify.com/album/2GvpxIFBpYtGMnadRLaugs"
-      },
-      "artists": [
-        {
-          "name": "Dirty Audio",
-          "url": "https://open.spotify.com/artist/1WGex9YdmT4TZjmmMirZA8"
-        },
-        {
-          "name": "Lil Wayne",
-          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
-        }
-      ],
-      "duration_ms": 174720,
-      "name": "That's Right (feat. Lil Wayne)",
-      "url": "https://open.spotify.com/track/6XbjAo4rXztT86IaABdBb4"
-    },
-    {
-      "added_at": "2024-03-15 04:00:00",
-      "album": {
         "name": "LIMIT",
         "url": "https://open.spotify.com/album/1gG2DU3odPahWbeJyA9jKU"
       },
@@ -2019,6 +2019,22 @@
     {
       "added_at": "2024-03-15 04:00:00",
       "album": {
+        "name": "On & On",
+        "url": "https://open.spotify.com/album/5ttftDVgttEtNtNnEF0s8k"
+      },
+      "artists": [
+        {
+          "name": "Saint Punk",
+          "url": "https://open.spotify.com/artist/0oad1RRAiN1UpaOWbIB0EW"
+        }
+      ],
+      "duration_ms": 140196,
+      "name": "On & On",
+      "url": "https://open.spotify.com/track/2AeOsWyOXUV3ZQZMsBPbq8"
+    },
+    {
+      "added_at": "2024-03-15 04:00:00",
+      "album": {
         "name": "Bad Bassline",
         "url": "https://open.spotify.com/album/4C7PnuA3nd6XXBYfLuWcaH"
       },
@@ -2035,22 +2051,6 @@
       "duration_ms": 191250,
       "name": "Bad Bassline",
       "url": "https://open.spotify.com/track/4d1Z1ydKSxQqk41ABR38Es"
-    },
-    {
-      "added_at": "2024-03-15 04:00:00",
-      "album": {
-        "name": "On & On",
-        "url": "https://open.spotify.com/album/5ttftDVgttEtNtNnEF0s8k"
-      },
-      "artists": [
-        {
-          "name": "Saint Punk",
-          "url": "https://open.spotify.com/artist/0oad1RRAiN1UpaOWbIB0EW"
-        }
-      ],
-      "duration_ms": 140196,
-      "name": "On & On",
-      "url": "https://open.spotify.com/track/2AeOsWyOXUV3ZQZMsBPbq8"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -2411,22 +2411,22 @@
     {
       "added_at": "2024-03-15 04:00:00",
       "album": {
-        "name": "Peace Of Mind",
-        "url": "https://open.spotify.com/album/4FUQ0z6XdPskun9gF20rT5"
+        "name": "The One",
+        "url": "https://open.spotify.com/album/0vLmi3I6py7HTOIIom2yqO"
       },
       "artists": [
         {
-          "name": "Sunnery James & Ryan Marciano",
-          "url": "https://open.spotify.com/artist/7kABWMhjA5GIl9PBEasBPt"
+          "name": "DEVOWR.",
+          "url": "https://open.spotify.com/artist/1u8a7qizQpZ7avZWbltl7X"
         },
         {
-          "name": "Michael Ekow",
-          "url": "https://open.spotify.com/artist/2WImvuJ2dUdnyZDT69SROJ"
+          "name": "AK RENNY",
+          "url": "https://open.spotify.com/artist/7J0b2c5hn6vsok7dPwtQMX"
         }
       ],
-      "duration_ms": 174505,
-      "name": "Peace Of Mind",
-      "url": "https://open.spotify.com/track/3Yiqps8YQhLL0EQXZGq2P7"
+      "duration_ms": 215238,
+      "name": "The One",
+      "url": "https://open.spotify.com/track/5Kf986lCmcLAlVAennL74R"
     }
   ],
   "unique_name": "Nasty Bits",

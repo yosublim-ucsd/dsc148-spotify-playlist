@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZUAeYvs88zc.md) - [plain]
 
 > For all of us dancing on our own.
 
-[Spotify](https://open.spotify.com/user/spotify) - 592,888 likes - 75 songs - 4 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 592,957 likes - 75 songs - 4 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,11 +31,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZUAeYvs88zc.md) - [plain]
 | 21 | [Save Your Tears \(with Ariana Grande\) \(Remix\)](https://open.spotify.com/track/37BZB0z9T8Xu7U3e65qxFy) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Save Your Tears \(Remix\)](https://open.spotify.com/album/2fyOpT5c9kxR8zbDh6UtXh) | 3:11 |
 | 22 | [MIDDLE OF THE NIGHT](https://open.spotify.com/track/58HvfVOeJY7lUuCqF0m3ly) | [Elley Duhé](https://open.spotify.com/artist/67MNhiAICFY6Pwc2YxCO0K) | [MIDDLE OF THE NIGHT](https://open.spotify.com/album/4hYYpUC8Ewb74tP23Y1lmM) | 3:04 |
 | 23 | [bellyache](https://open.spotify.com/track/51NFxnQvaosfDDutk0tams) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Bellyache](https://open.spotify.com/album/25FGyvj0UnD6YYWLq0s9nl) | 2:59 |
-| 24 | [People You Know](https://open.spotify.com/track/63mdJr3NMY3wReOkNE6c6W) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [Rare](https://open.spotify.com/album/3YPFaTR7WMi1Hd4NVKdCJx) | 3:14 |
+| 24 | [What A Time \(feat\. Niall Horan\)](https://open.spotify.com/track/5WtfUKzXircvW8l5aaVZWT) | [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m), [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [Inner Monologue Part 1](https://open.spotify.com/album/1xJ7jIK1tT0aVoJw1fPE6r) | 2:53 |
 | 25 | [all\-american bitch](https://open.spotify.com/track/34sOdxWu9FljH84UXdRwu1) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [GUTS](https://open.spotify.com/album/1xJHno7SmdVtZAtXbdbDZp) | 2:45 |
-| 26 | [What A Time \(feat\. Niall Horan\)](https://open.spotify.com/track/5WtfUKzXircvW8l5aaVZWT) | [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m), [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [Inner Monologue Part 1](https://open.spotify.com/album/1xJ7jIK1tT0aVoJw1fPE6r) | 2:53 |
-| 27 | [Party In The U.S.A.](https://open.spotify.com/track/5Q0Nhxo0l2bP3pNjpGJwV1) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [The Time Of Our Lives](https://open.spotify.com/album/64aKkqxc3Ur2LYIKeS5osS) | 3:22 |
-| 28 | [Bags](https://open.spotify.com/track/6UFivO2zqqPFPoQYsEMuCc) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Immunity](https://open.spotify.com/album/4kkVGtCqE2NiAKosri9Rnd) | 4:20 |
+| 26 | [People You Know](https://open.spotify.com/track/63mdJr3NMY3wReOkNE6c6W) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [Rare](https://open.spotify.com/album/3YPFaTR7WMi1Hd4NVKdCJx) | 3:14 |
+| 27 | [Bags](https://open.spotify.com/track/6UFivO2zqqPFPoQYsEMuCc) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Immunity](https://open.spotify.com/album/4kkVGtCqE2NiAKosri9Rnd) | 4:20 |
+| 28 | [Party In The U.S.A.](https://open.spotify.com/track/5Q0Nhxo0l2bP3pNjpGJwV1) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [The Time Of Our Lives](https://open.spotify.com/album/64aKkqxc3Ur2LYIKeS5osS) | 3:22 |
 | 29 | [watch](https://open.spotify.com/track/7eB1V5LvAdxCc7brfGhRRo) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [dont smile at me](https://open.spotify.com/album/7fRrTyKvE4Skh93v97gtcU) | 2:57 |
 | 30 | [Cornelia Street](https://open.spotify.com/track/12M5uqx0ZuwkpLp5rJim1a) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Lover](https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq) | 4:47 |
 | 31 | [because i liked a boy](https://open.spotify.com/track/32FhTAAjKZaBein150o3Px) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [emails i can't send](https://open.spotify.com/album/5kDmlA2g9Y1YCbNo2Ufxlz) | 3:16 |
@@ -68,14 +68,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZUAeYvs88zc.md) - [plain]
 | 58 | [Eras Of Us](https://open.spotify.com/track/3rhwM4lLOCrtx1Sk62QjKi) | [FLETCHER](https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg) | [Eras Of Us](https://open.spotify.com/album/1pDZPFcXoRyVxRsIgziIVX) | 2:48 |
 | 59 | [Neon Moon \- with Kacey Musgraves](https://open.spotify.com/track/3lVPtkNFoIyPPGVdNri4VH) | [Brooks & Dunn](https://open.spotify.com/artist/0XKOBt59crntr7HQXXO8Yz), [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Reboot](https://open.spotify.com/album/0U3nI78LUpAwprraUf7vAS) | 4:38 |
 | 60 | [Love Me More](https://open.spotify.com/track/4PUT0cH2iggaje5hTJZeGe) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Laurel Hell](https://open.spotify.com/album/4rcinMUHEWOxpIwJo2sf22) | 3:32 |
-| 61 | [If I Don't Laugh, I'll Cry](https://open.spotify.com/track/1vezKKI9PZnHIMFzzDcF6U) | [Frawley](https://open.spotify.com/artist/0Ey8TMIVvT6OSYiblEuyMh) | [If I Don't Laugh, I'll Cry](https://open.spotify.com/album/0ZNj1dzkYUmgDKdL1NRvJI) | 3:18 |
-| 62 | [Different Lives](https://open.spotify.com/track/7e7JVMegy4WBMnzuZE9Srq) | [Fly By Midnight](https://open.spotify.com/artist/4rQTEdG6hDVOlDUFKs9EjZ), [Rachel Grae](https://open.spotify.com/artist/0ekCwZGQUkAISV1h48jlHn) | [Different Lives](https://open.spotify.com/album/2jnVMgIk877jRCQqJMuNfS) | 3:17 |
+| 61 | [Different Lives](https://open.spotify.com/track/7e7JVMegy4WBMnzuZE9Srq) | [Fly By Midnight](https://open.spotify.com/artist/4rQTEdG6hDVOlDUFKs9EjZ), [Rachel Grae](https://open.spotify.com/artist/0ekCwZGQUkAISV1h48jlHn) | [Different Lives](https://open.spotify.com/album/2jnVMgIk877jRCQqJMuNfS) | 3:17 |
+| 62 | [If I Don't Laugh, I'll Cry](https://open.spotify.com/track/1vezKKI9PZnHIMFzzDcF6U) | [Frawley](https://open.spotify.com/artist/0Ey8TMIVvT6OSYiblEuyMh) | [If I Don't Laugh, I'll Cry](https://open.spotify.com/album/0ZNj1dzkYUmgDKdL1NRvJI) | 3:18 |
 | 63 | [Telepath](https://open.spotify.com/track/3Z39gbqdaGL3WJXBG0gcuE) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Telepath](https://open.spotify.com/album/6npBFQje5ZenFSLErcNflE) | 3:14 |
-| 64 | [The Bottom](https://open.spotify.com/track/4Sk74gcXTe9dnE1HU5Pn1y) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [This Is What It Feels Like](https://open.spotify.com/album/7l2g05NyprwonSFIs2y8at) | 3:00 |
-| 65 | [The Hard Way](https://open.spotify.com/track/7j57nadsCph2KI9eYuaum8) | [PNAU](https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [The Hard Way](https://open.spotify.com/album/71SGKuKTbtqYsf0hcjugff) | 3:03 |
-| 66 | [Confetti](https://open.spotify.com/track/73m3OYU7lG7irNbFjNipwF) | [Charlotte Cardin](https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK) | [99 Nights](https://open.spotify.com/album/5RHDcbKUJ0isLtDr97nP9P) | 3:03 |
-| 67 | [Can't Do Better](https://open.spotify.com/track/7t9gDWqX10tbhtriPR1Cnd) | [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Can't Do Better](https://open.spotify.com/album/4XovGKPffxorW8SRdo5Mwc) | 3:08 |
-| 68 | [It's not fair](https://open.spotify.com/track/3FJ992ud0OqK9ZS6fgMuDc) | [Kenya Grace](https://open.spotify.com/artist/7uMDnSZyUYNBPLhPMNuaM2) | [It's not fair](https://open.spotify.com/album/3qdOVGEaqhJHJBbd2qz6NP) | 2:42 |
+| 64 | [It's not fair](https://open.spotify.com/track/3FJ992ud0OqK9ZS6fgMuDc) | [Kenya Grace](https://open.spotify.com/artist/7uMDnSZyUYNBPLhPMNuaM2) | [It's not fair](https://open.spotify.com/album/3qdOVGEaqhJHJBbd2qz6NP) | 2:42 |
+| 65 | [The Bottom](https://open.spotify.com/track/4Sk74gcXTe9dnE1HU5Pn1y) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [This Is What It Feels Like](https://open.spotify.com/album/7l2g05NyprwonSFIs2y8at) | 3:00 |
+| 66 | [The Hard Way](https://open.spotify.com/track/7j57nadsCph2KI9eYuaum8) | [PNAU](https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [The Hard Way](https://open.spotify.com/album/71SGKuKTbtqYsf0hcjugff) | 3:03 |
+| 67 | [Confetti](https://open.spotify.com/track/73m3OYU7lG7irNbFjNipwF) | [Charlotte Cardin](https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK) | [99 Nights](https://open.spotify.com/album/5RHDcbKUJ0isLtDr97nP9P) | 3:03 |
+| 68 | [Can't Do Better](https://open.spotify.com/track/7t9gDWqX10tbhtriPR1Cnd) | [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Can't Do Better](https://open.spotify.com/album/4XovGKPffxorW8SRdo5Mwc) | 3:08 |
 | 69 | [echo](https://open.spotify.com/track/4rdIhBrlaAOPnlTlugZBgz) | [Alexander Stewart](https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT) | [echo](https://open.spotify.com/album/2qd2ATRD78bQFtyYsSzxxg) | 3:18 |
 | 70 | [Happy & Sad](https://open.spotify.com/track/04MoJkJzCoU9ukeewv5Vzu) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Golden Hour](https://open.spotify.com/album/7f6xPqyaolTiziKf5R5Z0c) | 4:03 |
 | 71 | [No Romeo](https://open.spotify.com/track/2n4U8Qf9vkpl6rFQnXtLK5) | [Dylan](https://open.spotify.com/artist/4LOM7NzyrZvlGSYPFDsnTk) | [No Romeo EP](https://open.spotify.com/album/6dpPmjQADL8JE813YWKfQ3) | 3:11 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZUAeYvs88zc.md) - [plain]
 | 74 | [Becky's So Hot](https://open.spotify.com/track/2vVLSYsOUNCfN66jTyJsMY) | [FLETCHER](https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg) | [Girl Of My Dreams](https://open.spotify.com/album/38aH4OObJSjtO48q2eNoA4) | 2:42 |
 | 75 | [You Let Me Down](https://open.spotify.com/track/5vItiIbaaoTxihU8uAlRbq) | [Alessia Cara](https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR) | [In The Meantime](https://open.spotify.com/album/5reEg9or7xqpXy6XLVIoTE) | 3:13 |
 
-Snapshot ID: `MCwwZGMxMjJlNmExMjA4NzQ1MDE3ODI3MDRmMTIzYThlYzNjZDJiZGRk`
+Snapshot ID: `MCw3MTIyNDA5MzU3ZTViNDBkY2VlNGIxMzU5MmMyNThkZDZkNDkyZTEz`

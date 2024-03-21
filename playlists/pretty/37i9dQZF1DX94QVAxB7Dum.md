@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX94QVAxB7Dum.md) - [plain]
 
 > Music from the award\-winning doc: The Black Power Mixtape 1967–1975.
 
-[Spotify](https://open.spotify.com/user/spotify) - 726,706 likes - 69 songs - 4 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 726,843 likes - 69 songs - 4 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX94QVAxB7Dum.md) - [plain]
 | 33 | [Your Precious Love](https://open.spotify.com/track/3uMJcNcxcp801NLwgYrj9k) | [Marvin Gaye](https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA), [Tammi Terrell](https://open.spotify.com/artist/75jNCko3SnEMI5gwGqrbb8) | [United](https://open.spotify.com/album/5LqviduT0g0J0ypFrFSwCE) | 3:07 |
 | 34 | [Piece of My Heart](https://open.spotify.com/track/2GbePPrWWSRxcmW6QRSPae) | [Erma Franklin](https://open.spotify.com/artist/1CzJJJb6hnx84VNhgaJmFG) | [Erma Franklin: Piece Of Her Heart \- The Epic And Shout Years](https://open.spotify.com/album/3GykoJmCI2qmvrgi8zQ7XW) | 2:37 |
 | 35 | [Groove Me](https://open.spotify.com/track/1sG3M0yjIYweejCR9Amyh6) | [King Floyd](https://open.spotify.com/artist/03PCdNvkF81s7xHmtkNcoz) | [King Floyd](https://open.spotify.com/album/6r1VSCkbZaVj6FUhbh3aFQ) | 3:03 |
-| 36 | [The Ghetto](https://open.spotify.com/track/1yeIxOEFmpQ3qlOb2R3g2m) | [Donny Hathaway](https://open.spotify.com/artist/0HU0U9kdXEHZVxUNbuQe8S) | [Everything Is Everything](https://open.spotify.com/album/7k89fD1BB2xQCibsPtSYyh) | 6:53 |
-| 37 | [I Can't Get Next To You](https://open.spotify.com/track/6aL6pPBaTMGgM558mplSnj) | [The Temptations](https://open.spotify.com/artist/3RwQ26hR2tJtA8F9p2n7jG) | [Puzzle People](https://open.spotify.com/album/2CabyXUOSQqxUaPEw2FrnK) | 2:54 |
+| 36 | [I Can't Get Next To You](https://open.spotify.com/track/6aL6pPBaTMGgM558mplSnj) | [The Temptations](https://open.spotify.com/artist/3RwQ26hR2tJtA8F9p2n7jG) | [Puzzle People](https://open.spotify.com/album/2CabyXUOSQqxUaPEw2FrnK) | 2:54 |
+| 37 | [The Ghetto](https://open.spotify.com/track/1yeIxOEFmpQ3qlOb2R3g2m) | [Donny Hathaway](https://open.spotify.com/artist/0HU0U9kdXEHZVxUNbuQe8S) | [Everything Is Everything](https://open.spotify.com/album/7k89fD1BB2xQCibsPtSYyh) | 6:53 |
 | 38 | [Smiling Faces Sometimes](https://open.spotify.com/track/5Vdg4tP25ffeGEC5GGmCwm) | [The Undisputed Truth](https://open.spotify.com/artist/2tkwWmcZOQPNbbIdknfBsw) | [The Undisputed Truth](https://open.spotify.com/album/0HHW9b70iZmfWNcFfjOFEz) | 3:18 |
 | 39 | [Hercules](https://open.spotify.com/track/0wRejfFXjZa1TGeJ7kDPCT) | [Aaron Neville](https://open.spotify.com/artist/57ALvbCBaCkNlgTOSiUPdT) | [Tell It Like It Is](https://open.spotify.com/album/77GaIlfqKgkmn84Pku9owB) | 4:09 |
 | 40 | [Be Thankful for What You Got \(Pt\. 1 & Pt\. 2\)](https://open.spotify.com/track/7pN8GMLw3prWFn5nvJRM6O) | [William DeVaughn](https://open.spotify.com/artist/1l51Sc9HBh8fLXUDEjFhxU) | [Be Thankful for What You Got](https://open.spotify.com/album/1SCaqfkBnsMXOvdJIZi93Z) | 7:09 |
@@ -78,4 +78,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX94QVAxB7Dum.md) - [plain]
 | 68 | [Hurt so Bad \(Rerecorded\)](https://open.spotify.com/track/3qY8Ni73Tx4mJXASDmBWJN) | [Little Anthony & The Imperials](https://open.spotify.com/artist/3PF1KBeHYb14yKgsiE693V) | [100 Hits of the Swingin' Sixties](https://open.spotify.com/album/36QisDW5zB4phHrXOzE60V) | 2:17 |
 | 69 | [Wish Someone Would Care](https://open.spotify.com/track/1svjzDsiaW04M8A4tr6tvj) | [Irma Thomas](https://open.spotify.com/artist/01Z8Z9K54zewyP04ZfGLSv) | [Super Blues, Vol\. 1](https://open.spotify.com/album/4ireNbB0PiOdvCJx4O0sIG) | 2:19 |
 
-Snapshot ID: `MCxkZjI2ZWM5ODQ0NWVjYjZkOGMzYzc3MDI5ZWExZTdhODVjNzhlN2Nm`
+Snapshot ID: `MCxiZWFmYzQ4NjEyNDY5NzZiOWI2YmVlMjJkODllOTI2ZDZmMzE3YmI4`

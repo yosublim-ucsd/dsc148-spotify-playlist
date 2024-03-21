@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe8cdrgQYJ4n.md) - [plain]
 
 > 솔로여도 괜찮은 나를 위한 노래들
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,105 likes - 60 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,110 likes - 60 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe8cdrgQYJ4n.md) - [plain]
 | 59 | [Check\-In](https://open.spotify.com/track/6W6UgkbWs1O5MCdt4M9aP5) | [Sunwoojunga](https://open.spotify.com/artist/04L3elxyr0XFua2Ek3domW) | [Seoul Check\-in OST Part 6](https://open.spotify.com/album/6fma7QBBD2qxShJv2jKPcy) | 3:11 |
 | 60 | [Freaky \(Prod\. GroovyRoom\)](https://open.spotify.com/track/4dDRXGfTI5mWBnDuVRxTLe) | [MIRANI](https://open.spotify.com/artist/6N7b9mUVwn885jI7RRg8no) | [Freaky](https://open.spotify.com/album/1Z55bFaYwBmghHzXTpqWYp) | 2:53 |
 
-Snapshot ID: `MCw5OTcwZjFlMTk3MTZmNzA4YjFjNGVkYTVkYWUyY2UwZjE2MWExOGI1`
+Snapshot ID: `MCwwNWJhMTUzZDM1OGZhMjNiZDExNDk0ZGY2MzhiOWNjMTc4Y2MyYjNk`

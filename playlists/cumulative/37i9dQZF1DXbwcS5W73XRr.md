@@ -4,7 +4,7 @@
 
 > The original soundtrack to a dancefloor revolution, from the basement to the world \- this is Acid.
 
-85 songs - 8 hr 22 min
+87 songs - 8 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,6 +50,7 @@
 | [I'll House You](https://open.spotify.com/track/51GEHfWZuwIg5XHY50XSyS) | [Jungle Brothers](https://open.spotify.com/artist/2iclO3rlyF0YVNE46ctYRj) | [Straight Out The Jungle](https://open.spotify.com/album/4h2veBvPhM1RazJi8J1Siy) | 4:57 | 2018-06-21 |  |
 | [I'll House You](https://open.spotify.com/track/2IOIuMlbkvA3lBYMQV73fZ) | [Jungle Brothers](https://open.spotify.com/artist/2iclO3rlyF0YVNE46ctYRj) | [The Big Apple Bites Back \- New York House & Remix Culture](https://open.spotify.com/album/1BD2W3RVzcCjnJ6a5AVfZm) | 4:58 | 2018-06-21 | 2022-07-29 |
 | [I'll House You](https://open.spotify.com/track/67yiLipIhi6dBMdrt5KfPv) | [Jungle Brothers](https://open.spotify.com/artist/2iclO3rlyF0YVNE46ctYRj) | [I'll House You '98](https://open.spotify.com/album/0MeAW8iEobS9PZpcQZQWJF) | 4:59 | 2018-06-21 | 2022-11-13 |
+| [I've Lost Control](https://open.spotify.com/track/4soPG45sARVq4ZTLqKUwlG) | [Sleezy D](https://open.spotify.com/artist/3wD0bhAy5hb5nqcTReldti) | [I've Lost Control](https://open.spotify.com/album/0n6enbHiJdreu7M34ZuMkR) | 9:45 | 2024-03-20 |  |
 | [In\-Ten\-Si\-T \(Justin Robertson Edit\)](https://open.spotify.com/track/7MZpzMpifYZ8JjHegxEvZT) | [Mickey Oliver](https://open.spotify.com/artist/38Z7qUi0hKwX35bT7AW7dE) | [The Art Of Acid Re\-Edits](https://open.spotify.com/album/29yqMCQDnePeZrNksbQb3c) | 7:16 | 2018-06-21 |  |
 | [Jack Your Body \- Original Club Mix](https://open.spotify.com/track/0qD3sHqLrmKDcRX3MKvsFX) | [Steve "Silk" Hurley](https://open.spotify.com/artist/2TzZ6XTFG1p1PAfhl0crDP) | [Best Of DJ International \- Part One](https://open.spotify.com/album/5Pu8tU3qumOLfYcS50TBmn) | 6:53 | 2018-06-21 |  |
 | [Jiggerwatts](https://open.spotify.com/track/2BOlLDk3nkfUDwujfr5EQe) | [Phortune](https://open.spotify.com/artist/3SKiqrQqIsYjfR8KpY5WW3) | [Phuture and Other Classics from DJ Pierre](https://open.spotify.com/album/1L4MtfrtI8QiieQPDfnBxy) | 6:09 | 2018-06-21 |  |
@@ -89,6 +90,7 @@
 | [Weekend \(Wam Bam 12" Mix\)](https://open.spotify.com/track/0KZWKfZ22SUr9QVLZK2LEg) | [The Todd Terry Project](https://open.spotify.com/artist/1mjzdV49eU7CuhdWnJOWBd) | [Weekender \(Music From The Motion Picture & Further Inspiration\)](https://open.spotify.com/album/5wfCtpuibRW2GNWIr2hk7O) | 5:47 | 2018-06-21 | 2022-07-29 |
 | [Weekend \- Wam Bam Club Mix](https://open.spotify.com/track/3xvkdpv7lQuJVs11NYrVil) | [The Todd Terry Project](https://open.spotify.com/artist/1mjzdV49eU7CuhdWnJOWBd) | [Weekend](https://open.spotify.com/album/2Mj7L02euCpY6T1IElCrBp) | 5:46 | 2018-06-21 | 2023-01-11 |
 | [Weekend \- Wam Bam Club Mix](https://open.spotify.com/track/442N1OpSz4uRTJnMY7v1QS) | [The Todd Terry Project](https://open.spotify.com/artist/1mjzdV49eU7CuhdWnJOWBd) | [Weekend / Just Wanna Dance](https://open.spotify.com/album/3SIKoJBWHk6hI4lrTMxSQl) | 5:46 | 2018-06-21 |  |
+| [Where's Your Child](https://open.spotify.com/track/4hnwEklz4VPVjr8S71Rmo0) | [Bam Bam](https://open.spotify.com/artist/07yhT28qK3TutyRxpIfc5a) | [Where's Your Child](https://open.spotify.com/album/0Ss7pfT0zGXkE0VHRTIEya) | 5:08 | 2024-03-20 |  |
 | [You Used to Hold Me](https://open.spotify.com/track/02ePVbyZRQs0LQB5XrofKa) | [Ralphi Rosario](https://open.spotify.com/artist/0c5584rnmlOvkMpJtpBLTh) | [Greatest Hits](https://open.spotify.com/album/34JhQsl3BlrRWe9OHGyfUs) | 4:59 | 2018-06-21 |  |
 | [You Used to Hold Me](https://open.spotify.com/track/3hVnJ8rRSVa1tfgaYswfYn) | [Ralphi Rosario](https://open.spotify.com/artist/0c5584rnmlOvkMpJtpBLTh) | [Ralphi Rosario's Greatest Hits](https://open.spotify.com/album/1X1NgiMTByMIIZkjvoAtXh) | 4:59 | 2018-06-21 | 2022-07-29 |
 | [Your Love](https://open.spotify.com/track/0vryyKyxCFXT0gg670yNEw) | [Frankie Knuckles](https://open.spotify.com/artist/63yl9nDNrHpiAYGlNJxxjc) | [Baby Wants to Ride / Your Love](https://open.spotify.com/album/6hV7MW8zuYQ9skUy0rY2h5) | 6:43 | 2018-06-21 |  |

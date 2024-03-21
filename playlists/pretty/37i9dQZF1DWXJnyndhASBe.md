@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJnyndhASBe.md) - [plain]
 
 > Największe rapowe kawałki w tej chwili\. Cover: Guzior
 
-[Spotify](https://open.spotify.com/user/spotify) - 503,389 likes - 50 songs - 2 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 503,630 likes - 50 songs - 2 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJnyndhASBe.md) - [plain]
 | 49 | [JZWWZJ](https://open.spotify.com/track/0oWCC1rQRKb9oAWZUKAHMF) | [Bonus RPK](https://open.spotify.com/artist/070tdNOiP3pIsGlqNfVkG3), [Czaha](https://open.spotify.com/artist/4QnVEkkzc4FkISFmri44MW), [DJ Gondek](https://open.spotify.com/artist/77rH9w8wnkKGNrKDSAFOsU) | [JZWWZJ](https://open.spotify.com/album/4E1eT2WLGvFGg6ug6ooylD) | 2:51 |
 | 50 | [Bandycka Jazda](https://open.spotify.com/track/5aLGfNAfjuJoY4ExmgqrTg) | [Fagata](https://open.spotify.com/artist/0zzP72k8pbLySGH1TPUZW8) | [Bandycka Jazda](https://open.spotify.com/album/1EA1yy7n2yx63b42YBw7ry) | 2:02 |
 
-Snapshot ID: `MCwxZDFlMzBhNTMxMTc2YzMyZGRhZmM3OWQzZThhYjMyYzc2MWU0Mzdk`
+Snapshot ID: `MCw4MjBlNzMzN2RmZTNkMzdiMmVlZjgzYjEwYTUyNTIzNjQ0ODQ5MjNm`

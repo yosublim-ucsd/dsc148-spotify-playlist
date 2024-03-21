@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZfpLyFUtQnu.md) - [plain]
 
 > Les plus belles ballades de la chanson française.
 
-[Spotify](https://open.spotify.com/user/spotify) - 78,451 likes - 75 songs - 4 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 78,531 likes - 75 songs - 4 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZfpLyFUtQnu.md) - [plain]
 | 29 | [À la faveur de l'automne](https://open.spotify.com/track/5XCeCprrLZHLHHmKxYOXq1) | [Tété](https://open.spotify.com/artist/0eykNIBJy8E8Cyd00Y5fqx) | [À la faveur de l'automne](https://open.spotify.com/album/0EOK4Nqc012P7YPnIE1xot) | 3:43 |
 | 30 | [Comme des enfants](https://open.spotify.com/track/5H3ChVfItCaDpj1vPbigyX) | [Cœur De Pirate](https://open.spotify.com/artist/2eRNMtoi82UZUuaL6naDjA) | [Cœur de pirate](https://open.spotify.com/album/7yuOxsQ525jlzWdKl05DJp) | 2:49 |
 | 31 | [Le paradis blanc \- Remasterisé en 2002](https://open.spotify.com/track/6N6uTt8e1vLLgIZK5FgSYh) | [Michel Berger](https://open.spotify.com/artist/5skauLarl8sqqUFypECtP4) | [Ca ne tient pas debout \(Remasterisé en 2002\)](https://open.spotify.com/album/2X3NWw5yXoj2yJJIGvFhKM) | 6:36 |
-| 32 | [Mon amie la rose](https://open.spotify.com/track/1rMX4XuW4KzgYlAyEaDmpO) | [Françoise Hardy](https://open.spotify.com/artist/7x3f7c0fBanNlQwpx1255g) | [Françoise Hardy \(Mon amie la rose\)](https://open.spotify.com/album/00r4Bh9aFIb7yHux1Kg0ub) | 2:17 |
-| 33 | [Et un jour une femme](https://open.spotify.com/track/2Fo8TPJGFZZ7I9U2RGeZWu) | [Florent Pagny](https://open.spotify.com/artist/0g7hZVprd3orBpMrSLWeJ9) | [Châtelet les Halles](https://open.spotify.com/album/2l9EwdloXjCA7eece8OBpB) | 5:19 |
+| 32 | [Et un jour une femme](https://open.spotify.com/track/2Fo8TPJGFZZ7I9U2RGeZWu) | [Florent Pagny](https://open.spotify.com/artist/0g7hZVprd3orBpMrSLWeJ9) | [Châtelet les Halles](https://open.spotify.com/album/2l9EwdloXjCA7eece8OBpB) | 5:19 |
+| 33 | [Mon amie la rose](https://open.spotify.com/track/1rMX4XuW4KzgYlAyEaDmpO) | [Françoise Hardy](https://open.spotify.com/artist/7x3f7c0fBanNlQwpx1255g) | [Françoise Hardy \(Mon amie la rose\)](https://open.spotify.com/album/00r4Bh9aFIb7yHux1Kg0ub) | 2:17 |
 | 34 | [Evidemment \- Remasterisé en 2004](https://open.spotify.com/track/1kYi6X7VMmU3rCiE2aWjV1) | [France Gall](https://open.spotify.com/artist/22HVxZPA6UhBp8wahxDA6I) | [Babacar \(Remasterisé en 2004\)](https://open.spotify.com/album/4vYag01Wn4UHjtlWbz0Nn0) | 3:26 |
 | 35 | [Le bateau coule](https://open.spotify.com/track/5LjlW19V9AQ4pg0ck0uvcO) | [Louane](https://open.spotify.com/artist/7wjeXCtRND2ZdKfMJFu6JC) | [Sentiments](https://open.spotify.com/album/34zzJhaEHMgBndvceUHjoL) | 3:19 |
 | 36 | [Demain c'est toi](https://open.spotify.com/track/1gyeYL3RaqMaJK23IJH7QA) | [Zaz](https://open.spotify.com/artist/1mbgj8ERPs8lWi7t5cYrdy) | [Effet miroir](https://open.spotify.com/album/5aM8gkw3dJQ7XSc2Uq8g8a) | 2:38 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZfpLyFUtQnu.md) - [plain]
 | 74 | [Pas toi \- au New Morning 1994 \(concert acoustique\)](https://open.spotify.com/track/2i3ZEXYOanRZlariHUfSLN) | [Carole Fredericks](https://open.spotify.com/artist/4EfRgpfLaAzQLV08MpruGH), [Jean\-Jacques Goldman](https://open.spotify.com/artist/2Cx19OTMqa6gpz2l60cGG2), [Michael Jones](https://open.spotify.com/artist/0AF8vOjsrk66ofuPhHCKqW) | [Fredericks, Goldman, Jones : Du New Morning au Zénith \(Live\)](https://open.spotify.com/album/2VXif8oyxvqZ8EMnhBbp2S) | 5:23 |
 | 75 | [Je fais de toi mon essentiel \- Version acoustique](https://open.spotify.com/track/5XdHsf9N5sRLAoGZA46wzn) | [La Troupe Du Roi Soleil](https://open.spotify.com/artist/7AoFoZPx5shtWCUqgaMFeT) | [Le Roi Soleil \(Le spectacle original\) \[L'intégrale\]](https://open.spotify.com/album/3KKatIB0im80KRXGD0vh6g) | 3:34 |
 
-Snapshot ID: `MCw5YWJjNDI5MTg5NTUxNzY1MGY2NWJjMzNjYTM4YmRkMDYyOWU3YWJk`
+Snapshot ID: `MCw3MTljMDM2YzJmM2ZkYTZkN2I1ZmY5MzI5NmJlMWJjNjhiYzllMWMy`

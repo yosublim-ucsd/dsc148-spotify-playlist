@@ -4,7 +4,7 @@
 
 > Solo beat e rime avvolgenti\. Cover: Massimo Pericolo
 
-155 songs - 8 hr 28 min
+156 songs - 8 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -62,6 +62,7 @@
 | [Dilemme \(with tha Supreme & Mara Sattei\)](https://open.spotify.com/track/1Whf2ZaesM1gXlU0z3Fslt) | [Lous and The Yakuza](https://open.spotify.com/artist/2HPiMwJktBXqakN0hnON2R), [thasup](https://open.spotify.com/artist/19i93sA0D7yS9dYoVNBqAA), [Mara Sattei](https://open.spotify.com/artist/0zoMmzmyi8N8LwzhyXPvtk) | [Dilemme \(with tha Supreme & Mara Sattei\)](https://open.spotify.com/album/58UfZvPf388nNXT6nnszRp) | 3:51 | 2022-04-28 |  |
 | [Diluvio \(feat\. Fight Pausa\)](https://open.spotify.com/track/3G4ua9SB7TQLKgj1Q8HNQn) | [Massimo Pericolo](https://open.spotify.com/artist/1El4YQA8oCXX7ynFSxRTFq), [Fight Pausa](https://open.spotify.com/artist/1BkdvKE1YNIAAWrLNzLWKU) | [Le cose cambiano](https://open.spotify.com/album/50SWJ7Aq7XuSKl8SJYFnn9) | 3:12 | 2023-11-30 |  |
 | [DM \(feat\. Guè\)](https://open.spotify.com/track/1uye7szvzXiEr4gQcRfDip) | [Coez](https://open.spotify.com/artist/5dXlc7MnpaTeUIsHLVe3n4), [Frah Quintale](https://open.spotify.com/artist/7BgEOZ9w3Y4IMShXTMu1nN), [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27) | [Lovebars](https://open.spotify.com/album/37uJcI0dW70M5Hbg1WearN) | 3:14 | 2023-09-07 | 2023-10-06 |
+| [DOPO LE 4 \(feat\. Bresh & Tedua\)](https://open.spotify.com/track/2mU3I4jfQp1K14JO2PmmQA) | [Tony Effe](https://open.spotify.com/artist/6CKch2otN4SPznHf9ms5JF), [Bresh](https://open.spotify.com/artist/7FeObngbQ0GY3SojNwKdKn), [Tedua](https://open.spotify.com/artist/1AgAVqo74e2q4FVvg0xpT7) | [ICON](https://open.spotify.com/album/0zGirhBBoAjHz8t37u1IRW) | 3:02 | 2024-03-20 |  |
 | [DUBBI](https://open.spotify.com/track/4gxRyOZefp95AXZFaztdtO) | [Marracash](https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7) | [NOI, LORO, GLI ALTRI](https://open.spotify.com/album/0rgggvSYGSms079nUlcAGX) | 3:54 | 2022-07-14 |  |
 | [DUBBI](https://open.spotify.com/track/7fI5RJec8R3jJ95pljZnkN) | [Marracash](https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7) | [NOI, LORO, GLI ALTRI](https://open.spotify.com/album/2UgbcJeoUQ0m1gbLZNDZgp) | 3:54 | 2022-04-28 | 2022-07-29 |
 | [Eravamo Re](https://open.spotify.com/track/6VwGytUkC11Mj5kcHXggYj) | [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27) | [Vero](https://open.spotify.com/album/4TJpiqlHBrwm7nLpOIQjZ7) | 3:02 | 2022-04-28 | 2022-05-20 |

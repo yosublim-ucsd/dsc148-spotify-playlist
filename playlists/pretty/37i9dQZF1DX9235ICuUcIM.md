@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9235ICuUcIM.md) - [plain]
 
 > A llorar a la llorería.
 
-[Spotify](https://open.spotify.com/user/spotify) - 310,139 likes - 50 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 310,176 likes - 50 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,12 +15,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9235ICuUcIM.md) - [plain]
 | 5 | [The Night We Met](https://open.spotify.com/track/0QZ5yyl6B6utIWkxeBDxQN) | [Lord Huron](https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25) | [Strange Trails](https://open.spotify.com/album/3yoNZlqerJnsnMN5EDwwBS) | 3:28 |
 | 6 | [Primera Cita](https://open.spotify.com/track/4mGrWfDISjNjgeQnH1B8IE) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Primera Cita](https://open.spotify.com/album/4BeF1IA1ufJtzgOgqx3a9Z) | 3:06 |
 | 7 | [Ya No Somos Ni Seremos](https://open.spotify.com/track/0UXlu64mDLvfzR8IXMz06J) | [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [Ya No Somos Ni Seremos](https://open.spotify.com/album/6uU8vskychc3SuYYI9Hjbo) | 3:05 |
-| 8 | [Hace Una Hora \- Sesión en Vivo](https://open.spotify.com/track/1g5zBPGIwyHIf0VogScbYA) | [Juan Pablo Vega](https://open.spotify.com/artist/2PfyKA4qhjkxUVkerTCxz0), [Santiago Cruz](https://open.spotify.com/artist/5ClJtuiNlr83ua45Dvpcf7) | [Hace Una Hora \(Sesión en Vivo\)](https://open.spotify.com/album/1BKtdyp4mGYFvLqdeObpad) | 5:07 |
-| 9 | [lo que hay x aquí](https://open.spotify.com/track/5IlLm20JXhKbMtsH20NblC) | [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8) | [lo que hay x aquí](https://open.spotify.com/album/28MEC53zcdE731x6FX3Hsm) | 2:35 |
+| 8 | [Hace Una Hora \- Sesión en Vivo](https://open.spotify.com/track/1g5zBPGIwyHIf0VogScbYA) | [Juan Pablo Vega](https://open.spotify.com/artist/2PfyKA4qhjkxUVkerTCxz0), [Santiago Cruz](https://open.spotify.com/artist/5ClJtuiNlr83ua45Dvpcf7) | [Hace Una Hora \(Sesión en Vivo\)](https://open.spotify.com/album/1BKtdyp4mGYFvLqdeObpad) | 4:50 |
+| 9 | [Chachachá](https://open.spotify.com/track/6aommJFM8i3iT4inKuDSXh) | [Jósean Log](https://open.spotify.com/artist/1LMyTeRhjaitILs98h3MaF) | [Háblate de Mí](https://open.spotify.com/album/5DtrZ74RgqpVVqLWncmqyZ) | 3:35 |
 | 10 | [Amapolas](https://open.spotify.com/track/0z5yLgBmAtaylDYrgwzlpH) | [Leo Rizzi](https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2) | [Amapolas](https://open.spotify.com/album/7vFlsccgSanI5MxPbomwVY) | 3:25 |
 | 11 | [Soy un HP](https://open.spotify.com/track/70GjuOgd1NuiPTs82JBIUn) | [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7) | [Soy un HP](https://open.spotify.com/album/6tg2yjTAqpo2o8uInNcS4R) | 2:26 |
 | 12 | [Patadas de Ahogado](https://open.spotify.com/track/4WefXOf8I4gMjdj2kBJgkl) | [LATIN MAFIA](https://open.spotify.com/artist/6XTGKOV9jceQ6f67lnhpbF), [Humbe](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [Patadas de Ahogado](https://open.spotify.com/album/418IgoKv4nyde6c9YCDYDj) | 3:44 |
-| 13 | [Chachachá](https://open.spotify.com/track/6aommJFM8i3iT4inKuDSXh) | [Jósean Log](https://open.spotify.com/artist/1LMyTeRhjaitILs98h3MaF) | [Háblate de Mí](https://open.spotify.com/album/5DtrZ74RgqpVVqLWncmqyZ) | 3:35 |
+| 13 | [lo que hay x aquí](https://open.spotify.com/track/5IlLm20JXhKbMtsH20NblC) | [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8) | [lo que hay x aquí](https://open.spotify.com/album/28MEC53zcdE731x6FX3Hsm) | 2:35 |
 | 14 | [Manos de Tijera](https://open.spotify.com/track/2f8sB9lQ6Uh1lKKWJNR9rW) | [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N) | [Mis Manos](https://open.spotify.com/album/1PuH88Md0tzB8UrnBfboJA) | 4:27 |
 | 15 | [Fuentes de Ortiz](https://open.spotify.com/track/0akyEssGRVHstqCSWXusJL) | [Ed Maverick](https://open.spotify.com/artist/3JSSjGYcIkgsrz7892CelT) | [mix pa llorar en tu cuarto](https://open.spotify.com/album/4VeKLLYPySVFaf6qzkfOYW) | 3:27 |
 | 16 | [San Lucas](https://open.spotify.com/track/75UMtPC77vqKRwfSuYuNPO) | [Kevin Kaarl](https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE) | [San Lucas](https://open.spotify.com/album/5I20nnpF2Jj6GjUFsk9EG1) | 4:07 |
@@ -32,16 +32,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9235ICuUcIM.md) - [plain]
 | 22 | [Lo Que Construimos](https://open.spotify.com/track/5wWxUdgn2OugIOvLJOdreH) | [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [Hasta la Raíz \(Edición Especial\)](https://open.spotify.com/album/0Kww7Dpo0uSxtOiiFTvyCv) | 4:39 |
 | 23 | [Vámonos a Marte](https://open.spotify.com/track/2TzkIzgzIHhewMxyh1u4hh) | [Kevin Kaarl](https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE) | [Hasta el Fin Del Mundo](https://open.spotify.com/album/7M4AeOUpTfAHk1Ch4xKUC7) | 2:59 |
 | 24 | [Está Dañada](https://open.spotify.com/track/6G2xXQRSZlEzYsUEb3uvuR) | [Ivan Cornejo](https://open.spotify.com/artist/6PH3FLQAxtqYy46Zv08bpV) | [Alma Vacía](https://open.spotify.com/album/4DmITPOATTsiWEWtJrPqkk) | 3:34 |
-| 25 | [Bajo El Agua](https://open.spotify.com/track/5QSYWruQQ7kBCHScI4xJ9g) | [Manuel Medrano](https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM) | [Manuel Medrano](https://open.spotify.com/album/3XeEBV0owMhwHmyLfaMxwg) | 3:45 |
-| 26 | [Te Regalo](https://open.spotify.com/track/4brw4anhV4og38Rv6o1dBa) | [Carla Morrison](https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe) | [Amor Supremo \(Desnudo\)](https://open.spotify.com/album/3ChFP3YQevhl7lbTBtO0Yz) | 4:02 |
+| 25 | [Te Regalo](https://open.spotify.com/track/4brw4anhV4og38Rv6o1dBa) | [Carla Morrison](https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe) | [Amor Supremo \(Desnudo\)](https://open.spotify.com/album/3ChFP3YQevhl7lbTBtO0Yz) | 4:02 |
+| 26 | [Bajo El Agua](https://open.spotify.com/track/5QSYWruQQ7kBCHScI4xJ9g) | [Manuel Medrano](https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM) | [Manuel Medrano](https://open.spotify.com/album/3XeEBV0owMhwHmyLfaMxwg) | 3:45 |
 | 27 | [El Mismo Aire \- con Pablo Alborán](https://open.spotify.com/track/5EbtodsuLbxrFDH6j5avVS) | [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N), [Pablo Alborán](https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50) | [El Mismo Aire \(con Pablo Alborán\)](https://open.spotify.com/album/3E3coJkwv6rbqUTiw1qLZ6) | 3:08 |
 | 28 | [Colapso](https://open.spotify.com/track/7dT9D6117e5DbhnKxDLNW9) | [Kevin Kaarl](https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE) | [Hasta el Fin Del Mundo](https://open.spotify.com/album/7M4AeOUpTfAHk1Ch4xKUC7) | 3:55 |
 | 29 | [J.](https://open.spotify.com/track/4lUsBLTAiufWocWtg4H0my) | [Ivan Cornejo](https://open.spotify.com/artist/6PH3FLQAxtqYy46Zv08bpV) | [Dañado](https://open.spotify.com/album/1i5VsPI1sXn847oHyXyZCh) | 3:54 |
 | 30 | [ARRANCÁRMELO](https://open.spotify.com/track/2x8oBuYaObjqHqgGuIUZ0b) | [WOS](https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK) | [ARRANCÁRMELO](https://open.spotify.com/album/4KFUPud6oSm5IgLwnGkzPt) | 3:03 |
-| 31 | [Oye](https://open.spotify.com/track/6Jsfaw9b0hopNZ1SVHEXmW) | [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp), [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW) | [TINI TINI TINI](https://open.spotify.com/album/7LP6bUlMdnuqeP2etuw7wI) | 2:53 |
-| 32 | [Dónde Estás](https://open.spotify.com/track/71nkNlFUY4d9mBvTAyV9ig) | [KHEA](https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR) | [Dónde Estás](https://open.spotify.com/album/3uwIRMTeueP92bS46L6d7q) | 2:33 |
-| 33 | [Confieso](https://open.spotify.com/track/6EgQ0qOpwA83iRDSFBNtUc) | [Humbe](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [Confieso](https://open.spotify.com/album/3py5UQNoZMecvronNEQp41) | 2:58 |
-| 34 | [Déjenme Llorar](https://open.spotify.com/track/4oBSrpZNE2K79sMuS0jCyx) | [Carla Morrison](https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe) | [Déjenme Llorar](https://open.spotify.com/album/6BZkhYCGp75O2R4oX25nve) | 3:55 |
+| 31 | [Déjenme Llorar](https://open.spotify.com/track/4oBSrpZNE2K79sMuS0jCyx) | [Carla Morrison](https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe) | [Déjenme Llorar](https://open.spotify.com/album/6BZkhYCGp75O2R4oX25nve) | 3:55 |
+| 32 | [Oye](https://open.spotify.com/track/6Jsfaw9b0hopNZ1SVHEXmW) | [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp), [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW) | [TINI TINI TINI](https://open.spotify.com/album/7LP6bUlMdnuqeP2etuw7wI) | 2:53 |
+| 33 | [Dónde Estás](https://open.spotify.com/track/71nkNlFUY4d9mBvTAyV9ig) | [KHEA](https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR) | [Dónde Estás](https://open.spotify.com/album/3uwIRMTeueP92bS46L6d7q) | 2:33 |
+| 34 | [Confieso](https://open.spotify.com/track/6EgQ0qOpwA83iRDSFBNtUc) | [Humbe](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [Confieso](https://open.spotify.com/album/3py5UQNoZMecvronNEQp41) | 2:58 |
 | 35 | [Ropa De Bazar](https://open.spotify.com/track/7kWFRZdedr2gtfE8JDumVZ) | [Ed Maverick](https://open.spotify.com/artist/3JSSjGYcIkgsrz7892CelT), [Bratty](https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn) | [Ropa De Bazar](https://open.spotify.com/album/7z9qYJVpdYt9zplriyrrZI) | 3:17 |
 | 36 | [Qué bonito fue](https://open.spotify.com/track/3ppzEzYnSKIBZ2tndbmOLp) | [El David](https://open.spotify.com/artist/61h5RLs6eo1eapzuDzoA5b) | [Sin Final Feliz](https://open.spotify.com/album/2AoNm9wXhQQPQrbS963xJH) | 2:24 |
 | 37 | [Vete](https://open.spotify.com/track/1KIt07Xn6PVFVEyQnwCyCt) | [Kevin Kaarl](https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE) | [San Lucas](https://open.spotify.com/album/5I20nnpF2Jj6GjUFsk9EG1) | 2:03 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9235ICuUcIM.md) - [plain]
 | 49 | [Odio Que No Te Odio](https://open.spotify.com/track/374Yj1kOLjGLYLOydbCO3i) | [Lasso](https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd), [Cami](https://open.spotify.com/artist/3VCrybIJKH7UurbDcZbMmn) | [Odio Que No Te Odio](https://open.spotify.com/album/5pLHLNwXqkKRMlS5NEEkdW) | 3:40 |
 | 50 | [Honey, No Estás](https://open.spotify.com/track/4tiMBMyoWSRPmLHg16VpUs) | [Bratty](https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn) | [Delusión](https://open.spotify.com/album/30OWJ1eBG8vQOfN1Gk5uYN) | 3:27 |
 
-Snapshot ID: `MCw2N2Q0ODlmYzBiODQ5NWE0ZWFmYTZjNzljMmUyY2YwYTdhZjIwOWI4`
+Snapshot ID: `MCw4ODVjY2MzODg2ZjBhZmE1ZDBmNTViMzkwMjI3MmRhY2EyNjI4MTlj`

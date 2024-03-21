@@ -1,5 +1,5 @@
 {
-  "2024-03-20": 50092,
+  "2024-03-21": 50112,
   "date_first_scraped": "2022-05-30",
   "description": "\ud55c\uad6d R&B. The new & fresh K-R&B is here. (Cover: Tabber(\ud0dc\ubc84))",
   "name": "K-R&B Now",
@@ -4181,6 +4181,24 @@
       "duration_ms": 156572,
       "name": "Plus n Minus",
       "url": "https://open.spotify.com/track/0usiwkXqoWNX3yqGFfRBAu"
+    },
+    {
+      "album": {
+        "name": "Power",
+        "url": "https://open.spotify.com/album/2NMeQY7x3Asnp48FvZzHlX"
+      },
+      "artists": [
+        {
+          "name": "Hannah Jang",
+          "url": "https://open.spotify.com/artist/3cWtiOT7kvkAsISTRp1eK8"
+        }
+      ],
+      "date_added": "2024-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169276,
+      "name": "Power",
+      "url": "https://open.spotify.com/track/13diDrHSmIrX0ybi3Bi3eN"
     },
     {
       "album": {

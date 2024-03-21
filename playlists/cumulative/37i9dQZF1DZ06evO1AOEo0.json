@@ -325,6 +325,32 @@
     },
     {
       "album": {
+        "name": "The Worship Initiative, Vol. 17",
+        "url": "https://open.spotify.com/album/0cxR2OoCW1u1F2wAWciDjZ"
+      },
+      "artists": [
+        {
+          "name": "The Worship Initiative",
+          "url": "https://open.spotify.com/artist/1bMkQIx4MpNHLxoylvipdQ"
+        },
+        {
+          "name": "Shane & Shane",
+          "url": "https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied"
+        },
+        {
+          "name": "Bethany Barnard",
+          "url": "https://open.spotify.com/artist/7Gv0LZfeF8TMugerDVAMDk"
+        }
+      ],
+      "date_added": "2024-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 304540,
+      "name": "Goodness of God",
+      "url": "https://open.spotify.com/track/55TW6H9X6pMfiOhmPk4luE"
+    },
+    {
+      "album": {
         "name": "The Worship Initiative, Vol. 12",
         "url": "https://open.spotify.com/album/2vjhzwPDUzGP8Rp2iddddV"
       },
@@ -786,7 +812,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-21",
       "duration_ms": 363235,
       "name": "Power of the Cross",
       "url": "https://open.spotify.com/track/3HWxZ9nQ7h30D8DupavEGv"

@@ -1,12 +1,12 @@
 {
   "description": "Turn up with the biggest party tracks of yesteryear.",
-  "num_followers": 2648207,
+  "num_followers": 2648381,
   "original_name": "Throwback Jams",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4ZDllMDAwNGM5ZTdiMzU3MTE0ZDAwZDc2MWZkNTBjYzdjMGRjNTZl",
+  "snapshot_id": "MCxlMmYzN2RkNmNjNjU1NDRkZTU2OGUwMWJmNDMyOTdlNDlkY2M0MDY1",
   "tracks": [
     {
       "added_at": "2024-03-06 16:54:38",
@@ -627,6 +627,22 @@
     {
       "added_at": "2024-03-06 16:54:38",
       "album": {
+        "name": "The Miseducation of Lauryn Hill",
+        "url": "https://open.spotify.com/album/1BZoqf8Zje5nGdwZhOjAtD"
+      },
+      "artists": [
+        {
+          "name": "Ms. Lauryn Hill",
+          "url": "https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl"
+        }
+      ],
+      "duration_ms": 320266,
+      "name": "Doo Wop (That Thing)",
+      "url": "https://open.spotify.com/track/0uEp9E98JB5awlA084uaIg"
+    },
+    {
+      "added_at": "2024-03-06 16:54:38",
+      "album": {
         "name": "Another Level",
         "url": "https://open.spotify.com/album/2zGZLQiFl9UubtrVmtIkbi"
       },
@@ -647,22 +663,6 @@
       "duration_ms": 304600,
       "name": "No Diggity",
       "url": "https://open.spotify.com/track/6MdqqkQ8sSC0WB4i8PyRuQ"
-    },
-    {
-      "added_at": "2024-03-06 16:54:38",
-      "album": {
-        "name": "The Miseducation of Lauryn Hill",
-        "url": "https://open.spotify.com/album/1BZoqf8Zje5nGdwZhOjAtD"
-      },
-      "artists": [
-        {
-          "name": "Ms. Lauryn Hill",
-          "url": "https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl"
-        }
-      ],
-      "duration_ms": 320266,
-      "name": "Doo Wop (That Thing)",
-      "url": "https://open.spotify.com/track/0uEp9E98JB5awlA084uaIg"
     },
     {
       "added_at": "2024-03-06 16:54:38",
@@ -979,6 +979,22 @@
     {
       "added_at": "2024-03-06 16:54:38",
       "album": {
+        "name": "House of Pain (Fine Malt Lyrics) [30 Years] [Deluxe Edition]",
+        "url": "https://open.spotify.com/album/1GYvmeraQXDxxSC9T3RDvM"
+      },
+      "artists": [
+        {
+          "name": "House Of Pain",
+          "url": "https://open.spotify.com/artist/0AuW7OCyKfFrsMbtHrYgIV"
+        }
+      ],
+      "duration_ms": 218546,
+      "name": "Jump Around - 30 Years Remaster",
+      "url": "https://open.spotify.com/track/7L93GESzq43UkKUt5FsOCq"
+    },
+    {
+      "added_at": "2024-03-06 16:54:38",
+      "album": {
         "name": "Kings Of Crunk",
         "url": "https://open.spotify.com/album/4htcOW08TqINNLbcSf9esI"
       },
@@ -1011,22 +1027,6 @@
       "duration_ms": 193466,
       "name": "In Da Club",
       "url": "https://open.spotify.com/track/4RY96Asd9IefaL3X4LOLZ8"
-    },
-    {
-      "added_at": "2024-03-06 16:54:38",
-      "album": {
-        "name": "House of Pain (Fine Malt Lyrics) [30 Years] [Deluxe Edition]",
-        "url": "https://open.spotify.com/album/1GYvmeraQXDxxSC9T3RDvM"
-      },
-      "artists": [
-        {
-          "name": "House Of Pain",
-          "url": "https://open.spotify.com/artist/0AuW7OCyKfFrsMbtHrYgIV"
-        }
-      ],
-      "duration_ms": 218546,
-      "name": "Jump Around - 30 Years Remaster",
-      "url": "https://open.spotify.com/track/7L93GESzq43UkKUt5FsOCq"
     },
     {
       "added_at": "2024-03-06 16:54:38",
@@ -1359,22 +1359,6 @@
     {
       "added_at": "2024-03-06 16:54:38",
       "album": {
-        "name": "Big Willie Style",
-        "url": "https://open.spotify.com/album/2esWeP8Ln1sXA0jbDmi3Zq"
-      },
-      "artists": [
-        {
-          "name": "Will Smith",
-          "url": "https://open.spotify.com/artist/41qil2VaGbD194gaEcmmyx"
-        }
-      ],
-      "duration_ms": 227933,
-      "name": "Gettin' Jiggy Wit It",
-      "url": "https://open.spotify.com/track/0weAUscowxeqDtpCgtbpgp"
-    },
-    {
-      "added_at": "2024-03-06 16:54:38",
-      "album": {
         "name": "The Definition Of X: Pick Of The Litter",
         "url": "https://open.spotify.com/album/2ge7Lk4Sl7hHs4AYxqDbf1"
       },
@@ -1387,6 +1371,22 @@
       "duration_ms": 217586,
       "name": "X Gon' Give It To Ya",
       "url": "https://open.spotify.com/track/1zzxoZVylsna2BQB65Ppcb"
+    },
+    {
+      "added_at": "2024-03-06 16:54:38",
+      "album": {
+        "name": "Big Willie Style",
+        "url": "https://open.spotify.com/album/2esWeP8Ln1sXA0jbDmi3Zq"
+      },
+      "artists": [
+        {
+          "name": "Will Smith",
+          "url": "https://open.spotify.com/artist/41qil2VaGbD194gaEcmmyx"
+        }
+      ],
+      "duration_ms": 227933,
+      "name": "Gettin' Jiggy Wit It",
+      "url": "https://open.spotify.com/track/0weAUscowxeqDtpCgtbpgp"
     },
     {
       "added_at": "2024-03-06 16:54:38",
@@ -1515,22 +1515,6 @@
     {
       "added_at": "2024-03-06 16:54:38",
       "album": {
-        "name": "Big Willie Style",
-        "url": "https://open.spotify.com/album/2esWeP8Ln1sXA0jbDmi3Zq"
-      },
-      "artists": [
-        {
-          "name": "Will Smith",
-          "url": "https://open.spotify.com/artist/41qil2VaGbD194gaEcmmyx"
-        }
-      ],
-      "duration_ms": 197560,
-      "name": "Miami",
-      "url": "https://open.spotify.com/track/6e8Ou0wiqAzIpWb2eSxll8"
-    },
-    {
-      "added_at": "2024-03-06 16:54:38",
-      "album": {
         "name": "...And Then There Was X",
         "url": "https://open.spotify.com/album/62l3f8u6j9eyDhuxsZA2iH"
       },
@@ -1543,6 +1527,22 @@
       "duration_ms": 268866,
       "name": "Party Up",
       "url": "https://open.spotify.com/track/0LWkaEyQRkF0XAms8Bg1fC"
+    },
+    {
+      "added_at": "2024-03-06 16:54:38",
+      "album": {
+        "name": "Big Willie Style",
+        "url": "https://open.spotify.com/album/2esWeP8Ln1sXA0jbDmi3Zq"
+      },
+      "artists": [
+        {
+          "name": "Will Smith",
+          "url": "https://open.spotify.com/artist/41qil2VaGbD194gaEcmmyx"
+        }
+      ],
+      "duration_ms": 197560,
+      "name": "Miami",
+      "url": "https://open.spotify.com/track/6e8Ou0wiqAzIpWb2eSxll8"
     },
     {
       "added_at": "2024-03-06 16:54:38",
@@ -1687,26 +1687,6 @@
     {
       "added_at": "2024-03-06 16:54:38",
       "album": {
-        "name": "The Dutchess",
-        "url": "https://open.spotify.com/album/3t8HFQNlwLBW7htwLvFfzA"
-      },
-      "artists": [
-        {
-          "name": "Fergie",
-          "url": "https://open.spotify.com/artist/3r17AfJCCUqC9Lf0OAc73G"
-        },
-        {
-          "name": "Ludacris",
-          "url": "https://open.spotify.com/artist/3ipn9JLAPI5GUEo4y4jcoi"
-        }
-      ],
-      "duration_ms": 246573,
-      "name": "Glamorous",
-      "url": "https://open.spotify.com/track/4KTtYhxFtFL7mBwnjkKfLm"
-    },
-    {
-      "added_at": "2024-03-06 16:54:38",
-      "album": {
         "name": "It Was Written",
         "url": "https://open.spotify.com/album/78Fgb88MY0ECc4GVMejqTg"
       },
@@ -1723,6 +1703,26 @@
       "duration_ms": 282373,
       "name": "If I Ruled the World (Imagine That) (feat. Lauryn Hill)",
       "url": "https://open.spotify.com/track/5PQmSHzWnlgG4EBuIqjac2"
+    },
+    {
+      "added_at": "2024-03-06 16:54:38",
+      "album": {
+        "name": "The Dutchess",
+        "url": "https://open.spotify.com/album/3t8HFQNlwLBW7htwLvFfzA"
+      },
+      "artists": [
+        {
+          "name": "Fergie",
+          "url": "https://open.spotify.com/artist/3r17AfJCCUqC9Lf0OAc73G"
+        },
+        {
+          "name": "Ludacris",
+          "url": "https://open.spotify.com/artist/3ipn9JLAPI5GUEo4y4jcoi"
+        }
+      ],
+      "duration_ms": 246573,
+      "name": "Glamorous",
+      "url": "https://open.spotify.com/track/4KTtYhxFtFL7mBwnjkKfLm"
     }
   ],
   "unique_name": "Throwback Jams",

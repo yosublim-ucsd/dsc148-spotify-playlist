@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXecqWg9vXl0U.md) - [plain]
 
 > como en una nube\. Bedroom pop vibes featuring ke onda.
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,491 likes - 75 songs - 3 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,504 likes - 75 songs - 3 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXecqWg9vXl0U.md) - [plain]
 | 40 | [El Rayo Vallecano](https://open.spotify.com/track/5vfZy8DtOxmwsozEwmbAcd) | [Dromedarios Mágicos](https://open.spotify.com/artist/3UP83Ekm9Jse6j0dWZJlH9) | [El Rayo Vallecano](https://open.spotify.com/album/2cwftCb3SwCpNu1WILU6r5) | 2:50 |
 | 41 | [80's](https://open.spotify.com/track/1SzFUihB1muYUkQOb41fbx) | [Josue Alaniz](https://open.spotify.com/artist/0xe5VGTguHmr56kk0FF66A) | [80's](https://open.spotify.com/album/0dLBUX8WEaabSqpkAFnQES) | 3:33 |
 | 42 | [Nada Más](https://open.spotify.com/track/2zGgmBG8ARyxzFQWwZR1aF) | [Los Eclipses](https://open.spotify.com/artist/21EtvnD59JJJiUP0qZP7WY), [Eva de Marce](https://open.spotify.com/artist/1UgwU7ChXfMkwH9t6ivW2E), [Dan Solo](https://open.spotify.com/artist/7E1ZwNnXreZgJpmTNUJva7) | [Nada Más](https://open.spotify.com/album/4CmNOJ4aObpDo3bUSIq8Hz) | 3:23 |
-| 43 | [cuando faltes](https://open.spotify.com/track/64eoxZoQ3YpSELicE9XOad) | [vangoura](https://open.spotify.com/artist/0f96nYGYNRWeEYi8avVG3g) | [cuando faltes](https://open.spotify.com/album/49mo3D6ohmIDMzX1Qz4jUr) | 2:59 |
-| 44 | [amor universal](https://open.spotify.com/track/1H1Ktfqk2IFFDWwHhPbCKm) | [Bilbao](https://open.spotify.com/artist/0auztALogdXmk4KYvF1FoT), [Maddie Moon](https://open.spotify.com/artist/4Bpw0DO4ri8ngNl38rLkDS) | [amor universal](https://open.spotify.com/album/38kKwQfYwjWhqtJ079Z0BJ) | 3:43 |
+| 43 | [amor universal](https://open.spotify.com/track/1H1Ktfqk2IFFDWwHhPbCKm) | [Bilbao](https://open.spotify.com/artist/0auztALogdXmk4KYvF1FoT), [Maddie Moon](https://open.spotify.com/artist/4Bpw0DO4ri8ngNl38rLkDS) | [amor universal](https://open.spotify.com/album/38kKwQfYwjWhqtJ079Z0BJ) | 3:43 |
+| 44 | [cuando faltes](https://open.spotify.com/track/64eoxZoQ3YpSELicE9XOad) | [vangoura](https://open.spotify.com/artist/0f96nYGYNRWeEYi8avVG3g) | [cuando faltes](https://open.spotify.com/album/49mo3D6ohmIDMzX1Qz4jUr) | 2:59 |
 | 45 | [A Veces](https://open.spotify.com/track/2cKXMsSXJZp5eAlxGejt8V) | [MOSBI](https://open.spotify.com/artist/6kvoEVPUc4pJ6w8QO4DHef) | [A Veces](https://open.spotify.com/album/2FTVypZbrNE91J7ChtirLQ) | 3:59 |
 | 46 | [Mi Habitación](https://open.spotify.com/track/7iF9WZqCVKUHV93XykSFgZ) | [Bratty](https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn), [Yawners](https://open.spotify.com/artist/5tD6FNrK7Hlxlkt4pbAliC) | [Es Mi Fiesta Y Si Quiero Hago Un EP](https://open.spotify.com/album/1eDAIIm6ZE4FzNSjirEtkt) | 2:35 |
 | 47 | [la danza de las brujas](https://open.spotify.com/track/0WVwnORcbVnUvE0ZenLa1i) | [te vi en un planetario](https://open.spotify.com/artist/1tLZIDlRNgWyQlu5qrqLvm) | [la danza de las brujas](https://open.spotify.com/album/5G9dSXTq6rvS4J5DSyRtS1) | 4:15 |
@@ -70,8 +70,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXecqWg9vXl0U.md) - [plain]
 | 60 | [Siempre Hago Lo Que Quiero](https://open.spotify.com/track/1vplR8zbm1rQWYskepMvtb) | [Clara Yolks](https://open.spotify.com/artist/7EGQpkwkyAgaJSgnRGHJ59), [Duplat](https://open.spotify.com/artist/74Bgwc5zD9KyNHiMqy2QJO) | [Siempre Hago Lo Que Quiero](https://open.spotify.com/album/0FOVQGRKiBAXNRc0nPg2Tt) | 3:44 |
 | 61 | [flores](https://open.spotify.com/track/2MoR9GfTdSDB7G7WyMHhkh) | [te vi en un planetario](https://open.spotify.com/artist/1tLZIDlRNgWyQlu5qrqLvm) | [flores](https://open.spotify.com/album/0qouFgwgCJc7UINaEZmKYq) | 3:13 |
 | 62 | [Pensándote](https://open.spotify.com/track/27t3JKhBGtztVLquHwn6NX) | [RPLK](https://open.spotify.com/artist/1tuzO0TeRF6KAKsSbHD46g) | [Pensándote](https://open.spotify.com/album/6wygbshVymM5s9O72bQoXv) | 2:27 |
-| 63 | [Me Gustas Tanto](https://open.spotify.com/track/3JdNambMOshHLbYus6cGqZ) | [KNYA](https://open.spotify.com/artist/5OOwdQqnYQSdypLCSQ3Kvz) | [Me Gustas Tanto](https://open.spotify.com/album/4yu56CARvuE68AsJmOBVcg) | 3:02 |
-| 64 | [VHS](https://open.spotify.com/track/3OrVqG7CoKW0RIFeEPLPSY) | [MiSHNRZ](https://open.spotify.com/artist/3tbJ4v64S8EcwVSkoFIwvl), [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [Retrofuturismo](https://open.spotify.com/album/2UD0pOeSTiEqLcZNVoX36O) | 2:56 |
+| 63 | [VHS](https://open.spotify.com/track/3OrVqG7CoKW0RIFeEPLPSY) | [MiSHNRZ](https://open.spotify.com/artist/3tbJ4v64S8EcwVSkoFIwvl), [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [Retrofuturismo](https://open.spotify.com/album/2UD0pOeSTiEqLcZNVoX36O) | 2:56 |
+| 64 | [Me Gustas Tanto](https://open.spotify.com/track/3JdNambMOshHLbYus6cGqZ) | [KNYA](https://open.spotify.com/artist/5OOwdQqnYQSdypLCSQ3Kvz) | [Me Gustas Tanto](https://open.spotify.com/album/4yu56CARvuE68AsJmOBVcg) | 3:02 |
 | 65 | [Quizás \(La Historia de Nosotros\)](https://open.spotify.com/track/3cSwcIKkVTuLIKGzmqgK2A) | [Alex Eugenio](https://open.spotify.com/artist/5zVZavNyXi3uT9ZTeMzYfR) | [Quizás \(La Historia de Nosotros\)](https://open.spotify.com/album/6iS5SVopMVmHe6fXFniSB7) | 3:23 |
 | 66 | [VCR](https://open.spotify.com/track/0NUjrv78ONAHIfL4GKkxE5) | [Atomic Rose](https://open.spotify.com/artist/5FA4L7WoQmYt2OzskRBaoI) | [VCR](https://open.spotify.com/album/0EXmhh4KMPZ47A9nS6iIyb) | 3:35 |
 | 67 | [2000nunca](https://open.spotify.com/track/2HJdRebzIISmN4n00jtuRj) | [Kirnbauer](https://open.spotify.com/artist/76KihzDzdR7li8RPVY50EA) | [Algo Bien](https://open.spotify.com/album/1aKgmFYfBumxu4Idks5XAd) | 3:00 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXecqWg9vXl0U.md) - [plain]
 | 74 | [Fantasía](https://open.spotify.com/track/2wzIkmA7ckiuwBfYFChacL) | [Pollo Bruxo](https://open.spotify.com/artist/2Vw0lTycw6PvoB5uALDIqJ), [Foudeqush](https://open.spotify.com/artist/0XFgM33h3Ls5tj1M9IKUWd) | [Fantasía](https://open.spotify.com/album/3Yl0XPm4OntG2nmL9BqYbb) | 2:56 |
 | 75 | [Cielo de Colores](https://open.spotify.com/track/5yG41x0CERmmOXF5g1lgvX) | [Sobrino](https://open.spotify.com/artist/0vEEYg1cJscAAw4sekHSOf) | [Cielo de Colores](https://open.spotify.com/album/0o6Cae0g5Wo8UwPnhguAGB) | 3:04 |
 
-Snapshot ID: `MCw1YWRjOGZlMzRlZTc0Mjg2ODBiNzc1YmY3MGNlNGNkNDcwZTRhMmMz`
+Snapshot ID: `MCwxOGFlYzM5ODBmOTYyOGZlYTg0MWI5OGMxZmVlMDAyYjJkN2NiMjk5`

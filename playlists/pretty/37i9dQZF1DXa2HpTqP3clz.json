@@ -1,12 +1,12 @@
 {
   "description": "Today's Bluegrass and old time favorites. Cover: Missy Raines",
-  "num_followers": 132108,
+  "num_followers": 132127,
   "original_name": "Grass Roots",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkNDQ3MDAwOGY4ZmFmN2I4YjYyMDgwNjljNTdhYTE3MmNlYmYwMmU0",
+  "snapshot_id": "MCxjNDcxZjYwNWU3Y2M2OGNhMjAzMGY5ZDk5MmZlNGM4NTZmZTdhMzI3",
   "tracks": [
     {
       "added_at": "2024-03-08 05:00:00",
@@ -335,6 +335,22 @@
     {
       "added_at": "2024-03-08 05:00:00",
       "album": {
+        "name": "Long Time To Be Gone",
+        "url": "https://open.spotify.com/album/0yKUSFsZyE1ckKUOp83onF"
+      },
+      "artists": [
+        {
+          "name": "Nora Brown",
+          "url": "https://open.spotify.com/artist/7h7pPNSsoz0NnyDmIqY7OT"
+        }
+      ],
+      "duration_ms": 120609,
+      "name": "Jenny Put the Kettle On",
+      "url": "https://open.spotify.com/track/0hDZD5WuVY0Xs0MV0MzRgS"
+    },
+    {
+      "added_at": "2024-03-08 05:00:00",
+      "album": {
         "name": "Listen To The Radio",
         "url": "https://open.spotify.com/album/6RdQfXUPxhbauUanaotuJg"
       },
@@ -351,22 +367,6 @@
       "duration_ms": 240386,
       "name": "Listen To The Radio",
       "url": "https://open.spotify.com/track/6n9PvbAoQtDe3AEMbS8v70"
-    },
-    {
-      "added_at": "2024-03-08 05:00:00",
-      "album": {
-        "name": "Long Time To Be Gone",
-        "url": "https://open.spotify.com/album/0yKUSFsZyE1ckKUOp83onF"
-      },
-      "artists": [
-        {
-          "name": "Nora Brown",
-          "url": "https://open.spotify.com/artist/7h7pPNSsoz0NnyDmIqY7OT"
-        }
-      ],
-      "duration_ms": 120609,
-      "name": "Jenny Put the Kettle On",
-      "url": "https://open.spotify.com/track/0hDZD5WuVY0Xs0MV0MzRgS"
     },
     {
       "added_at": "2024-03-08 05:00:00",
@@ -487,18 +487,18 @@
     {
       "added_at": "2024-03-08 05:00:00",
       "album": {
-        "name": "Long Time To Be Gone",
-        "url": "https://open.spotify.com/album/0yKUSFsZyE1ckKUOp83onF"
+        "name": "Mount Royal",
+        "url": "https://open.spotify.com/album/10dyZoegG6vH1VMjWkb7Ji"
       },
       "artists": [
         {
-          "name": "Nora Brown",
-          "url": "https://open.spotify.com/artist/7h7pPNSsoz0NnyDmIqY7OT"
+          "name": "Julian Lage & Chris Eldridge",
+          "url": "https://open.spotify.com/artist/0TRdPkXMabkeuB8JautkEf"
         }
       ],
-      "duration_ms": 68725,
-      "name": "Cumberland Gap",
-      "url": "https://open.spotify.com/track/3ZIl7Lmby6zGV9iAC4ZXMp"
+      "duration_ms": 182293,
+      "name": "Greener Grass",
+      "url": "https://open.spotify.com/track/0gIqzwso96i6SafJqcbgxO"
     },
     {
       "added_at": "2024-03-08 05:00:00",
@@ -523,18 +523,18 @@
     {
       "added_at": "2024-03-08 05:00:00",
       "album": {
-        "name": "Mount Royal",
-        "url": "https://open.spotify.com/album/10dyZoegG6vH1VMjWkb7Ji"
+        "name": "Long Time To Be Gone",
+        "url": "https://open.spotify.com/album/0yKUSFsZyE1ckKUOp83onF"
       },
       "artists": [
         {
-          "name": "Julian Lage & Chris Eldridge",
-          "url": "https://open.spotify.com/artist/0TRdPkXMabkeuB8JautkEf"
+          "name": "Nora Brown",
+          "url": "https://open.spotify.com/artist/7h7pPNSsoz0NnyDmIqY7OT"
         }
       ],
-      "duration_ms": 182293,
-      "name": "Greener Grass",
-      "url": "https://open.spotify.com/track/0gIqzwso96i6SafJqcbgxO"
+      "duration_ms": 68725,
+      "name": "Cumberland Gap",
+      "url": "https://open.spotify.com/track/3ZIl7Lmby6zGV9iAC4ZXMp"
     },
     {
       "added_at": "2024-03-08 05:00:00",
@@ -731,18 +731,18 @@
     {
       "added_at": "2024-03-08 05:00:00",
       "album": {
-        "name": "Bluegrass",
-        "url": "https://open.spotify.com/album/65tnKCMWCQ5HJnzUn57dkO"
+        "name": "We Were Cowboys",
+        "url": "https://open.spotify.com/album/3ZGZNsbL4jY4pnOxxlYOCG"
       },
       "artists": [
         {
-          "name": "Willie Nelson",
-          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
+          "name": "Kameron Marlowe",
+          "url": "https://open.spotify.com/artist/31n3CN1jSC5ALUJ9dwT8UI"
         }
       ],
-      "duration_ms": 258812,
-      "name": "You Left Me A Long, Long Time Ago",
-      "url": "https://open.spotify.com/track/3qbcegQkwaklZ48d27DOti"
+      "duration_ms": 210266,
+      "name": "Granny's Got a Garden - For G'maw Jan",
+      "url": "https://open.spotify.com/track/481vOKAlV93O0kHSxEWpTy"
     },
     {
       "added_at": "2024-03-08 05:00:00",
@@ -763,18 +763,18 @@
     {
       "added_at": "2024-03-08 05:00:00",
       "album": {
-        "name": "We Were Cowboys",
-        "url": "https://open.spotify.com/album/3ZGZNsbL4jY4pnOxxlYOCG"
+        "name": "Bluegrass",
+        "url": "https://open.spotify.com/album/65tnKCMWCQ5HJnzUn57dkO"
       },
       "artists": [
         {
-          "name": "Kameron Marlowe",
-          "url": "https://open.spotify.com/artist/31n3CN1jSC5ALUJ9dwT8UI"
+          "name": "Willie Nelson",
+          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
         }
       ],
-      "duration_ms": 210266,
-      "name": "Granny's Got a Garden - For G'maw Jan",
-      "url": "https://open.spotify.com/track/481vOKAlV93O0kHSxEWpTy"
+      "duration_ms": 258812,
+      "name": "You Left Me A Long, Long Time Ago",
+      "url": "https://open.spotify.com/track/3qbcegQkwaklZ48d27DOti"
     },
     {
       "added_at": "2024-03-08 05:00:00",
@@ -967,6 +967,22 @@
     {
       "added_at": "2024-03-08 05:00:00",
       "album": {
+        "name": "In The Ground",
+        "url": "https://open.spotify.com/album/6Ag5zf5U06icw6B6pEEAuC"
+      },
+      "artists": [
+        {
+          "name": "Gibson Brothers",
+          "url": "https://open.spotify.com/artist/5a1u9fulLhPXwEWkrxmzEV"
+        }
+      ],
+      "duration_ms": 191918,
+      "name": "Homemade Wine",
+      "url": "https://open.spotify.com/track/6SKFHKROdE9wfAWlpdAD4j"
+    },
+    {
+      "added_at": "2024-03-08 05:00:00",
+      "album": {
         "name": "Jubilee",
         "url": "https://open.spotify.com/album/1kFrfbpzO4oDKzLMhLtxHN"
       },
@@ -979,6 +995,22 @@
       "duration_ms": 225941,
       "name": "Smoky Mountain Girl",
       "url": "https://open.spotify.com/track/0m3U6lCkhaJr5OCK7RSkFP"
+    },
+    {
+      "added_at": "2024-03-08 05:00:00",
+      "album": {
+        "name": "Get Out",
+        "url": "https://open.spotify.com/album/17wa8FFwa1mZQEp3A97JC7"
+      },
+      "artists": [
+        {
+          "name": "Greensky Bluegrass",
+          "url": "https://open.spotify.com/artist/33bzrYoIWLx5uox3y0VtHn"
+        }
+      ],
+      "duration_ms": 220727,
+      "name": "Get Out",
+      "url": "https://open.spotify.com/track/5SybEHAzVGgyDpT1Pz8Q6h"
     },
     {
       "added_at": "2024-03-08 05:00:00",
@@ -1015,38 +1047,6 @@
       "duration_ms": 229383,
       "name": "Grey Eagle",
       "url": "https://open.spotify.com/track/360q0eHUyinl6hByFYbm2t"
-    },
-    {
-      "added_at": "2024-03-08 05:00:00",
-      "album": {
-        "name": "Get Out",
-        "url": "https://open.spotify.com/album/17wa8FFwa1mZQEp3A97JC7"
-      },
-      "artists": [
-        {
-          "name": "Greensky Bluegrass",
-          "url": "https://open.spotify.com/artist/33bzrYoIWLx5uox3y0VtHn"
-        }
-      ],
-      "duration_ms": 220727,
-      "name": "Get Out",
-      "url": "https://open.spotify.com/track/5SybEHAzVGgyDpT1Pz8Q6h"
-    },
-    {
-      "added_at": "2024-03-08 05:00:00",
-      "album": {
-        "name": "In The Ground",
-        "url": "https://open.spotify.com/album/6Ag5zf5U06icw6B6pEEAuC"
-      },
-      "artists": [
-        {
-          "name": "Gibson Brothers",
-          "url": "https://open.spotify.com/artist/5a1u9fulLhPXwEWkrxmzEV"
-        }
-      ],
-      "duration_ms": 191918,
-      "name": "Homemade Wine",
-      "url": "https://open.spotify.com/track/6SKFHKROdE9wfAWlpdAD4j"
     },
     {
       "added_at": "2024-03-08 05:00:00",
@@ -1123,22 +1123,6 @@
     {
       "added_at": "2024-03-08 05:00:00",
       "album": {
-        "name": "Live At The CMA Theater In The Country Music Hall Of Fame",
-        "url": "https://open.spotify.com/album/2mzSAxDSMwyWtrH1MisKT5"
-      },
-      "artists": [
-        {
-          "name": "The Earls Of Leicester",
-          "url": "https://open.spotify.com/artist/7fFA5wvCHgJ4SIqCuIYFNm"
-        }
-      ],
-      "duration_ms": 152440,
-      "name": "Salty Dog Blues - Live",
-      "url": "https://open.spotify.com/track/34HGrU0mKfR4dEJW0kydUh"
-    },
-    {
-      "added_at": "2024-03-08 05:00:00",
-      "album": {
         "name": "Family Reunion",
         "url": "https://open.spotify.com/album/2rAOtJeqLd0RvfqmHoaYZv"
       },
@@ -1151,6 +1135,22 @@
       "duration_ms": 162697,
       "name": "Dry Town",
       "url": "https://open.spotify.com/track/4ki94wKEhXYNW4ywgd4qLs"
+    },
+    {
+      "added_at": "2024-03-08 05:00:00",
+      "album": {
+        "name": "Live At The CMA Theater In The Country Music Hall Of Fame",
+        "url": "https://open.spotify.com/album/2mzSAxDSMwyWtrH1MisKT5"
+      },
+      "artists": [
+        {
+          "name": "The Earls Of Leicester",
+          "url": "https://open.spotify.com/artist/7fFA5wvCHgJ4SIqCuIYFNm"
+        }
+      ],
+      "duration_ms": 152440,
+      "name": "Salty Dog Blues - Live",
+      "url": "https://open.spotify.com/track/34HGrU0mKfR4dEJW0kydUh"
     },
     {
       "added_at": "2024-03-08 05:00:00",
@@ -1203,26 +1203,18 @@
     {
       "added_at": "2024-03-08 05:00:00",
       "album": {
-        "name": "For Your Love",
-        "url": "https://open.spotify.com/album/7f87fTG2FiTo8SnNp4V7n3"
+        "name": "Places I've Been",
+        "url": "https://open.spotify.com/album/0kgijOwaBq1rAWv8lfqEqw"
       },
       "artists": [
         {
-          "name": "Michael Cleveland",
-          "url": "https://open.spotify.com/artist/1l5b0hxCDTDF6cXYa3h5wk"
-        },
-        {
-          "name": "Billy Strings",
-          "url": "https://open.spotify.com/artist/1ZN1c1qWEGZNX1pGeKCPpf"
-        },
-        {
-          "name": "Jeff White",
-          "url": "https://open.spotify.com/artist/4Wvs9HiWoih3ogGufHwY48"
+          "name": "The Mountain Grass Unit",
+          "url": "https://open.spotify.com/artist/0FWlJ725NEZpxqxjZG3yGl"
         }
       ],
-      "duration_ms": 306440,
-      "name": "For Your Love",
-      "url": "https://open.spotify.com/track/0X0TSKvyAKxPYiv4HB7WOQ"
+      "duration_ms": 188186,
+      "name": "Shays' Rebellion",
+      "url": "https://open.spotify.com/track/1DUfLULXb2XLJF3dFqRRy9"
     },
     {
       "added_at": "2024-03-08 05:00:00",
@@ -1247,18 +1239,26 @@
     {
       "added_at": "2024-03-08 05:00:00",
       "album": {
-        "name": "Places I've Been",
-        "url": "https://open.spotify.com/album/0kgijOwaBq1rAWv8lfqEqw"
+        "name": "For Your Love",
+        "url": "https://open.spotify.com/album/7f87fTG2FiTo8SnNp4V7n3"
       },
       "artists": [
         {
-          "name": "The Mountain Grass Unit",
-          "url": "https://open.spotify.com/artist/0FWlJ725NEZpxqxjZG3yGl"
+          "name": "Michael Cleveland",
+          "url": "https://open.spotify.com/artist/1l5b0hxCDTDF6cXYa3h5wk"
+        },
+        {
+          "name": "Billy Strings",
+          "url": "https://open.spotify.com/artist/1ZN1c1qWEGZNX1pGeKCPpf"
+        },
+        {
+          "name": "Jeff White",
+          "url": "https://open.spotify.com/artist/4Wvs9HiWoih3ogGufHwY48"
         }
       ],
-      "duration_ms": 188186,
-      "name": "Shays' Rebellion",
-      "url": "https://open.spotify.com/track/1DUfLULXb2XLJF3dFqRRy9"
+      "duration_ms": 306440,
+      "name": "For Your Love",
+      "url": "https://open.spotify.com/track/0X0TSKvyAKxPYiv4HB7WOQ"
     },
     {
       "added_at": "2024-03-08 05:00:00",
@@ -1499,22 +1499,6 @@
     {
       "added_at": "2024-03-08 05:00:00",
       "album": {
-        "name": "Well",
-        "url": "https://open.spotify.com/album/18AaA4QngXSeE4wqm162fS"
-      },
-      "artists": [
-        {
-          "name": "Sister Sadie",
-          "url": "https://open.spotify.com/artist/0rWSUQEtdCxT9Y1Hd0eGl8"
-        }
-      ],
-      "duration_ms": 176000,
-      "name": "Well",
-      "url": "https://open.spotify.com/track/3YDobspkgUUmmJ6UCNTWyX"
-    },
-    {
-      "added_at": "2024-03-08 05:00:00",
-      "album": {
         "name": "Blue Railroad Train",
         "url": "https://open.spotify.com/album/30ccEntmZBvjhe7KuuP0vm"
       },
@@ -1531,6 +1515,22 @@
       "duration_ms": 188666,
       "name": "Blue Railroad Train",
       "url": "https://open.spotify.com/track/5xQF2S5p9hckklJLsTbNzq"
+    },
+    {
+      "added_at": "2024-03-08 05:00:00",
+      "album": {
+        "name": "Well",
+        "url": "https://open.spotify.com/album/18AaA4QngXSeE4wqm162fS"
+      },
+      "artists": [
+        {
+          "name": "Sister Sadie",
+          "url": "https://open.spotify.com/artist/0rWSUQEtdCxT9Y1Hd0eGl8"
+        }
+      ],
+      "duration_ms": 176000,
+      "name": "Well",
+      "url": "https://open.spotify.com/track/3YDobspkgUUmmJ6UCNTWyX"
     },
     {
       "added_at": "2024-03-08 05:00:00",
@@ -1699,6 +1699,22 @@
     {
       "added_at": "2024-03-08 05:00:00",
       "album": {
+        "name": "I'll Blame It on the Rain",
+        "url": "https://open.spotify.com/album/5KyempI06dBOFAtLqgxWUo"
+      },
+      "artists": [
+        {
+          "name": "Hammertowne",
+          "url": "https://open.spotify.com/artist/0R1TbL3wlb7ZTdZk1yMyRH"
+        }
+      ],
+      "duration_ms": 223586,
+      "name": "I'll Blame It on the Rain",
+      "url": "https://open.spotify.com/track/3RGxcycEc2SxZ15PqjIeUc"
+    },
+    {
+      "added_at": "2024-03-08 05:00:00",
+      "album": {
         "name": "Calling You From My Mountain",
         "url": "https://open.spotify.com/album/3WyCl62CMDBjBleRYVGqnc"
       },
@@ -1723,38 +1739,6 @@
     {
       "added_at": "2024-03-08 05:00:00",
       "album": {
-        "name": "I'll Blame It on the Rain",
-        "url": "https://open.spotify.com/album/5KyempI06dBOFAtLqgxWUo"
-      },
-      "artists": [
-        {
-          "name": "Hammertowne",
-          "url": "https://open.spotify.com/artist/0R1TbL3wlb7ZTdZk1yMyRH"
-        }
-      ],
-      "duration_ms": 223586,
-      "name": "I'll Blame It on the Rain",
-      "url": "https://open.spotify.com/track/3RGxcycEc2SxZ15PqjIeUc"
-    },
-    {
-      "added_at": "2024-03-08 05:00:00",
-      "album": {
-        "name": "Way Up In The Hills",
-        "url": "https://open.spotify.com/album/5v15OKarMnhpGXwp6wXhbv"
-      },
-      "artists": [
-        {
-          "name": "Sad Daddy",
-          "url": "https://open.spotify.com/artist/4T5p62edz57S8617YLu3qV"
-        }
-      ],
-      "duration_ms": 256506,
-      "name": "Charlie Pickle",
-      "url": "https://open.spotify.com/track/245S2fMRVAQCSZ9idjYvWV"
-    },
-    {
-      "added_at": "2024-03-08 05:00:00",
-      "album": {
         "name": "Chasin' Skies",
         "url": "https://open.spotify.com/album/3Lc73BBwDQcStgrlf7Bt1N"
       },
@@ -1771,6 +1755,22 @@
       "duration_ms": 158693,
       "name": "Chasin' Skies",
       "url": "https://open.spotify.com/track/69GpWKHqVyweUMVmaVCkfR"
+    },
+    {
+      "added_at": "2024-03-08 05:00:00",
+      "album": {
+        "name": "Way Up In The Hills",
+        "url": "https://open.spotify.com/album/5v15OKarMnhpGXwp6wXhbv"
+      },
+      "artists": [
+        {
+          "name": "Sad Daddy",
+          "url": "https://open.spotify.com/artist/4T5p62edz57S8617YLu3qV"
+        }
+      ],
+      "duration_ms": 256506,
+      "name": "Charlie Pickle",
+      "url": "https://open.spotify.com/track/245S2fMRVAQCSZ9idjYvWV"
     },
     {
       "added_at": "2024-03-08 05:00:00",

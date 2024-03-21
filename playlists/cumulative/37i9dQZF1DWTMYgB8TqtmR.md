@@ -4,7 +4,7 @@
 
 > It's Hits – största och bästa hitsen just nu!
 
-685 songs - 1 day 10 hr 33 min
+686 songs - 1 day 10 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,7 +55,8 @@
 | [As It Was](https://open.spotify.com/track/4LRPiXqCikLlN15c3yImP7) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [As It Was](https://open.spotify.com/album/2pqdSWeJVsXAhHFuVLzuA8) | 2:47 | 2022-03-31 | 2022-11-04 |
 | [Astronaut \- Spotify Singles](https://open.spotify.com/track/1eHMSmiTLf8aMg4E8N2cgn) | [Bolaget](https://open.spotify.com/artist/55ZGFvikpNjQHvtTWS5aZF) | [Astronaut \- Spotify Singles](https://open.spotify.com/album/2NOivMLIOTEdbnkD6HnnfA) | 2:19 | 2023-12-05 |  |
 | [Aura](https://open.spotify.com/track/4DJ6P3O5xd11cQMOsPIWg7) | [Jireel](https://open.spotify.com/artist/2EWsHDexsSInArfFkhA2i6) | [Aura](https://open.spotify.com/album/6gQrFdytErXSB1VjxpsxYI) | 3:06 | 2023-01-31 | 2023-02-10 |
-| [Austin](https://open.spotify.com/track/4NJqhmkGN042BrvHoMKUrJ) | [Dasha](https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I) | [Austin](https://open.spotify.com/album/4JtlZzYJEa7bejLF0ASnk0) | 2:51 | 2024-03-08 |  |
+| [Austin](https://open.spotify.com/track/4NJqhmkGN042BrvHoMKUrJ) | [Dasha](https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I) | [Austin](https://open.spotify.com/album/4JtlZzYJEa7bejLF0ASnk0) | 2:51 | 2024-03-08 | 2024-03-21 |
+| [Austin](https://open.spotify.com/track/6b81dy3WjbozXK6b7C1gu5) | [Dasha](https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I) | [What Happens Now?](https://open.spotify.com/album/0rQRrrZPPv6XXsxilJ1wFz) | 2:51 | 2024-03-15 |  |
 | [Automatic](https://open.spotify.com/track/3RxlMZgbTxoiGFTaSjX2Hk) | [C.Gambino](https://open.spotify.com/artist/6eWjyO1r0QlvsIuIIcgGxI) | [In Memory Of Some Stand Up Guys](https://open.spotify.com/album/77Od9wwcLw10IjhX2D7srV) | 2:10 | 2024-01-04 | 2024-01-30 |
 | [Automatic](https://open.spotify.com/track/7Fjz93GKhU5LlTacFAO8ze) | [C.Gambino](https://open.spotify.com/artist/6eWjyO1r0QlvsIuIIcgGxI) | [Automatic](https://open.spotify.com/album/6WABR1ifGFXjlVoK54LA3P) | 2:10 | 2023-10-05 | 2024-01-10 |
 | [AVION](https://open.spotify.com/track/1krKlD8QXqmcWiLxfwgK26) | [Jireel](https://open.spotify.com/artist/2EWsHDexsSInArfFkhA2i6) | [AVION / BRING EM](https://open.spotify.com/album/5qAJzq0G49ZWOvWQPJeh6Z) | 2:52 | 2022-11-24 | 2023-01-27 |

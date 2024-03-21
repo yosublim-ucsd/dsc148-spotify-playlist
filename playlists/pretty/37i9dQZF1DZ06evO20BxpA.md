@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO20BxpA.md) - [plain]
 
 > This is Steven Price\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,228 likes - 50 songs - 2 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,228 likes - 50 songs - 2 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO20BxpA.md) - [plain]
 | 22 | [My Beloved Spake](https://open.spotify.com/track/47H8iYq8d9XQLJAJ4EwNlg) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [Ophelia \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3GaSOBK5YSTetHhRUkKuZS) | 3:10 |
 | 23 | [This Road is a Suicide Mission](https://open.spotify.com/track/15Vk6UHrHlpCpgwqhSQN7d) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [Over the Moon \(Music from the Netflix Film\)](https://open.spotify.com/album/3Bx1Oe2Umw0n4tNbIpO1aD) | 1:38 |
 | 24 | [They Work As A Team \- From "Our Planet"](https://open.spotify.com/track/7JNLPRTdBrABPZuQwFKufZ) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [Our Planet \(Music from the Netflix Original Series\)](https://open.spotify.com/album/0ZezQOdAapwO3fY9JToSCi) | 3:41 |
-| 25 | [This Is My Home](https://open.spotify.com/track/3idWon2PSx8X7LE31Lzagp) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [Fury \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5CuCzQvtWe5Pbhmy5o12Lv) | 3:43 |
-| 26 | [Soyuz](https://open.spotify.com/track/1k6X3Rug5zeeKBXxIg8prc) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [Gravity \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/74wV2lmFaeLdSny2CU7EQw) | 1:42 |
+| 25 | [Soyuz](https://open.spotify.com/track/1k6X3Rug5zeeKBXxIg8prc) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [Gravity \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/74wV2lmFaeLdSny2CU7EQw) | 1:42 |
+| 26 | [This Is My Home](https://open.spotify.com/track/3idWon2PSx8X7LE31Lzagp) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [Fury \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5CuCzQvtWe5Pbhmy5o12Lv) | 3:43 |
 | 27 | [Moon Phases](https://open.spotify.com/track/0a5P31i4G47JQOVYiTnC8j) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [Over the Moon \(Music from the Netflix Film\)](https://open.spotify.com/album/3Bx1Oe2Umw0n4tNbIpO1aD) | 2:12 |
 | 28 | [The Whole of Humanity](https://open.spotify.com/track/701G9IaOwPcxA4mQgL7UJ7) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [David Attenborough: A Life On Our Planet \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5IbnuKQzkuw6sxS8CeMzl8) | 2:27 |
 | 29 | [A Rich Community Of Life](https://open.spotify.com/track/5Ph3XsyuZi2UEl39r17pAq) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [Coastal Seas \(Episode 4 / Soundtrack From The Netflix Original Series "Our Planet"\)](https://open.spotify.com/album/4pYjqXbSvwfKQ8l04afE5h) | 1:06 |
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO20BxpA.md) - [plain]
 | 44 | [Nothing To Stop Us](https://open.spotify.com/track/6OBrG19AuVOmrFonog79re) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [David Attenborough: A Life On Our Planet \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5IbnuKQzkuw6sxS8CeMzl8) | 2:12 |
 | 45 | [Redwoods](https://open.spotify.com/track/5K9oe9w0aNLoQebWVBR8vt) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [Forests \(Episode 8 / Soundtrack From The Netflix Original Series "Our Planet"\)](https://open.spotify.com/album/4tR3mJ1sBhvn2SvSOuQ3fW) | 1:22 |
 | 46 | [All at Sea](https://open.spotify.com/track/6DhpCiw0t9iopTVQloLzHS) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [The Hunt](https://open.spotify.com/album/1A2QmGHAIYZZhnjyIBHUTk) | 3:49 |
-| 47 | [Finding the Lost Population](https://open.spotify.com/track/1sOhyJhdaqy7J9fIfmsmJz) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [Blue Whales \- Return of the Giants \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5Jgynk3NCpDbCWdjz1LMdq) | 2:48 |
+| 47 | [You're My World \- Soho Version](https://open.spotify.com/track/1YEhtRxWc1BiHh3Xt0fXJW) | [Anya Taylor\-Joy](https://open.spotify.com/artist/5RAMfpOCoBthlipim1IaUa), [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [Last Night In Soho \(Original Motion Picture Score\)](https://open.spotify.com/album/4Mnn0ufXhd94rvmMLRyTlL) | 2:18 |
 | 48 | [I Would Feel Guilty](https://open.spotify.com/track/2WAI12Sw4YxSicr8nZweyN) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [David Attenborough: A Life On Our Planet \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5IbnuKQzkuw6sxS8CeMzl8) | 1:18 |
-| 49 | [Remember When We Said Goodbye \(From the Netflix Film "Over the Moon"\)](https://open.spotify.com/track/3ZTy9uTIcCgld86aVuuHe4) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [Remember When We Said Goodbye \(From the Netflix Film "Over the Moon"\)](https://open.spotify.com/album/07eHCynOTkf1K3FocJLxP2) | 3:27 |
+| 49 | [To Lose Himself in Vengeance](https://open.spotify.com/track/7yZWl27qFbjZ8C7GKCSl0s) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [Ophelia \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3GaSOBK5YSTetHhRUkKuZS) | 7:01 |
 | 50 | [Nowehere to Hide](https://open.spotify.com/track/0SvH1H37XSxhFOIqZHsmuf) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [The Hunt](https://open.spotify.com/album/1A2QmGHAIYZZhnjyIBHUTk) | 1:07 |
 
-Snapshot ID: `Mjg1MTQxOTYsMDAwMDAwMDBlMDhkZjk1MjBmNWZkNzBhYmJmNDY0YzVkOTc0Zjc0MQ==`
+Snapshot ID: `Mjg1MTU2NjEsMDAwMDAwMDAxMzAwODM0MjI1YWQzNmViZGM5YTE3ZmMwZWYwMTRlZA==`

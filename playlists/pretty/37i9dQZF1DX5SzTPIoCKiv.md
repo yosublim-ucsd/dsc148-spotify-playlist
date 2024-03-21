@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5SzTPIoCKiv.md) - [plain]
 
 > Recent smashes from your favorite Christian Contemporary artists\.  Cover: Mac Powell
 
-[Spotify](https://open.spotify.com/user/spotify) - 609,679 likes - 100 songs - 6 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 609,813 likes - 100 songs - 6 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,12 +74,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5SzTPIoCKiv.md) - [plain]
 | 64 | [Home](https://open.spotify.com/track/2aMb1asq5acm7cDYlFsYhY) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [Never Lose Sight \(Deluxe Edition\)](https://open.spotify.com/album/7BK26n0Gkw7bvAlAUdU53F) | 3:39 |
 | 65 | [Broken Things](https://open.spotify.com/track/4v8GJxLdvUiN7R31cKcmNL) | [Matthew West](https://open.spotify.com/artist/6e8OTLDQpaz1Tl2GEaxsNj) | [All In](https://open.spotify.com/album/4Qb7av34wG5v22LIV5IN9g) | 3:07 |
 | 66 | [Best News Ever](https://open.spotify.com/track/17x1RzAOMVLuNnFqjdal2C) | [MercyMe](https://open.spotify.com/artist/6APm8EjxOHSYM5B4i3vT3q) | [Lifer](https://open.spotify.com/album/3KVlZJCLMdeU43OwSU0Hac) | 2:59 |
-| 67 | [Survivor](https://open.spotify.com/track/1B0kLftVGJsZqJZGdHbAWZ) | [Zach Williams](https://open.spotify.com/artist/6g10GEtmIVqIQBhPZh4ScQ) | [Chain Breaker \(Deluxe Edition\)](https://open.spotify.com/album/1SIDIEoYi0EAlRqa1J6J7N) | 3:52 |
-| 68 | [No Impossible with You](https://open.spotify.com/track/2XJ73OpbAluRnivJ4UI1C6) | [I AM THEY](https://open.spotify.com/artist/0XJ5RIvhlOL0harjI9jZvX) | [Trial & Triumph](https://open.spotify.com/album/4milDwwpzRI8oHNuaXmNNX) | 3:37 |
+| 67 | [No Impossible with You](https://open.spotify.com/track/2XJ73OpbAluRnivJ4UI1C6) | [I AM THEY](https://open.spotify.com/artist/0XJ5RIvhlOL0harjI9jZvX) | [Trial & Triumph](https://open.spotify.com/album/4milDwwpzRI8oHNuaXmNNX) | 3:37 |
+| 68 | [Survivor](https://open.spotify.com/track/1B0kLftVGJsZqJZGdHbAWZ) | [Zach Williams](https://open.spotify.com/artist/6g10GEtmIVqIQBhPZh4ScQ) | [Chain Breaker \(Deluxe Edition\)](https://open.spotify.com/album/1SIDIEoYi0EAlRqa1J6J7N) | 3:52 |
 | 69 | [Different](https://open.spotify.com/track/0HGGx9fQ55LFw5QFIB5MKp) | [Micah Tyler](https://open.spotify.com/artist/04XtgzagYQRpeZt1sJThKi) | [Different](https://open.spotify.com/album/6qDY9KRWCs4DX3hNvN9wMB) | 3:17 |
 | 70 | [For My Good](https://open.spotify.com/track/2zRmDaYLsDw208NFV7CpFj) | [Cochren & Co.](https://open.spotify.com/artist/50hkKRxo0g8Ck4JqlwoJr4) | [Don't Lose Hope](https://open.spotify.com/album/3Us0eofAYq7tRuaH7A56i0) | 3:14 |
-| 71 | [Waymaker \- Radio Version](https://open.spotify.com/track/4tkmm0pdXEZvHscuHWnkqy) | [Michael W\. Smith](https://open.spotify.com/artist/5aBxFPaaGk9204ssHUvXWN), [Vanessa Campagna](https://open.spotify.com/artist/4a4KcYuu2DZrL8sTGyu5sM) | [Waymaker \(Radio Version\)](https://open.spotify.com/album/33Litf1HszYwgNVwbgdWpk) | 4:02 |
-| 72 | [Amen](https://open.spotify.com/track/5aHZnvy8EqhViyoJo971Wy) | [for KING & COUNTRY](https://open.spotify.com/artist/3sDbKMebVH2VYcRSl7u1VC) | [Burn The Ships](https://open.spotify.com/album/5eDLHSsctG7CccVeYSTLeh) | 3:47 |
+| 71 | [Amen](https://open.spotify.com/track/5aHZnvy8EqhViyoJo971Wy) | [for KING & COUNTRY](https://open.spotify.com/artist/3sDbKMebVH2VYcRSl7u1VC) | [Burn The Ships](https://open.spotify.com/album/5eDLHSsctG7CccVeYSTLeh) | 3:47 |
+| 72 | [Waymaker \- Radio Version](https://open.spotify.com/track/4tkmm0pdXEZvHscuHWnkqy) | [Michael W\. Smith](https://open.spotify.com/artist/5aBxFPaaGk9204ssHUvXWN), [Vanessa Campagna](https://open.spotify.com/artist/4a4KcYuu2DZrL8sTGyu5sM) | [Waymaker \(Radio Version\)](https://open.spotify.com/album/33Litf1HszYwgNVwbgdWpk) | 4:02 |
 | 73 | [Another In The Fire \- Live](https://open.spotify.com/track/5PmHmU5AaBy9ld3bdQkD96) | [Hillsong UNITED](https://open.spotify.com/artist/74cb3MG0x0BOnYNW1uXYnM), [Chris Davenport](https://open.spotify.com/artist/6Lu7A9Om0rGL9dgzDLR1ed), [Joel Houston](https://open.spotify.com/artist/4VJSN1kOmlYi5A6FEmGu64) | [People \(Live\)](https://open.spotify.com/album/5tLfBSUv5KGNNOqbyKo1rD) | 6:33 |
 | 74 | [You've Always Been](https://open.spotify.com/track/7s2AninaWICPPvch6wBctw) | [Unspoken](https://open.spotify.com/artist/0CqDqmyIQ9VQHQp52OEbB0) | [Reason](https://open.spotify.com/album/3Nq9AIP3OMU6hKUpyiGjfS) | 3:38 |
 | 75 | [Let It Rain \(Is There Anybody\)](https://open.spotify.com/track/3Rf7ZckSUqSffVhHmiwOde) | [Crowder](https://open.spotify.com/artist/39xmI59WrIMyyJjSDq6WCu), [Mandisa](https://open.spotify.com/artist/0YPElKYjOD1sofFCtLdYj3) | [I Know A Ghost](https://open.spotify.com/album/7JiKelPfVrHUCRNsu6k9lq) | 3:29 |
@@ -104,9 +104,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5SzTPIoCKiv.md) - [plain]
 | 94 | [I'm Listening \- Radio Version](https://open.spotify.com/track/5ExBj7cdyNLZ1t5PalfPWa) | [Chris McClarney](https://open.spotify.com/artist/2Zbb4oqupGY4mmskwlygCp), [Hollyn](https://open.spotify.com/artist/2E6Nnh7AAOVajEHHRDALav) | [Fill This Place \(Live\)](https://open.spotify.com/album/16CdyumvxDomk04TnJZYe7) | 4:08 |
 | 95 | [O God Forgive Us](https://open.spotify.com/track/2dBpNhfNCT1XkBRAOdam5J) | [for KING & COUNTRY](https://open.spotify.com/artist/3sDbKMebVH2VYcRSl7u1VC), [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc) | [RUN WILD\. LIVE FREE\. LOVE STRONG\. \(Deluxe Anniversary Edition\)](https://open.spotify.com/album/3JgsuH1i4ddVP4Ke5zf87I) | 3:25 |
 | 96 | [King Of The World](https://open.spotify.com/track/2sHDB7pY43GVTsl0X3ob1B) | [Natalie Grant](https://open.spotify.com/artist/6KVnMm856M8CHHBCw53Ihh) | [Be One \(Deluxe Version\)](https://open.spotify.com/album/1BA61ZwyerWAKW9hsPMAlt) | 3:36 |
-| 97 | [You Love Me Anyway](https://open.spotify.com/track/7KT088cs0FVVQum6IyT0X9) | [Sidewalk Prophets](https://open.spotify.com/artist/2SMYoM2Kbcj6rI6U3FRc4U) | [These Simple Truths](https://open.spotify.com/album/6UtlWkAxBuVPSzFNwiIPqj) | 4:20 |
-| 98 | [Same God](https://open.spotify.com/track/3kHh1th3S2di1tg5XoZTzU) | [Hannah Kerr](https://open.spotify.com/artist/5FxshnB3eJ2YDn8xN8zDKq) | [Same God](https://open.spotify.com/album/294x9L2GHOfyL9k0Ufo1qh) | 3:49 |
+| 97 | [Same God](https://open.spotify.com/track/3kHh1th3S2di1tg5XoZTzU) | [Hannah Kerr](https://open.spotify.com/artist/5FxshnB3eJ2YDn8xN8zDKq) | [Same God](https://open.spotify.com/album/294x9L2GHOfyL9k0Ufo1qh) | 3:49 |
+| 98 | [You Love Me Anyway](https://open.spotify.com/track/7KT088cs0FVVQum6IyT0X9) | [Sidewalk Prophets](https://open.spotify.com/artist/2SMYoM2Kbcj6rI6U3FRc4U) | [These Simple Truths](https://open.spotify.com/album/6UtlWkAxBuVPSzFNwiIPqj) | 4:20 |
 | 99 | [Promised Land](https://open.spotify.com/track/2VXNUklng1AswoKNgjiKJy) | [TobyMac](https://open.spotify.com/artist/5VX8hxrcfJWwaTLiqGUHG3) | [Promised Land](https://open.spotify.com/album/1oSlXZXXKv4yHkaLDvgFij) | 3:29 |
 | 100 | [Hold Us Together \- Hope Mix](https://open.spotify.com/track/42Q6AOIHAybfNz8tFMwrWl) | [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os), [Tauren Wells](https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4) | [Hold Us Together \(Hope Mix\)](https://open.spotify.com/album/1v2udzifT2MKC7HBgz8BlU) | 4:38 |
 
-Snapshot ID: `MCwwYjAxYzAxOTg4YjUxMGU5MDI4ZDRkMzgxNTc3NGEwZDEyNGZmMzAz`
+Snapshot ID: `MCw3MmViOWNkZTBkODAwNGRjNTE4MzA4ZjRkYWU3YjZhMmM1MjMxMDE3`

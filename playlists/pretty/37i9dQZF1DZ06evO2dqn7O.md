@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2dqn7O.md) - [plain]
 
 > This is X Ambassadors\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,926 likes - 53 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,951 likes - 53 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,9 +37,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2dqn7O.md) - [plain]
 | 27 | [Torches](https://open.spotify.com/track/1p9mCPuPV9FGa0jnJYk0IA) | [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB) | [Torches](https://open.spotify.com/album/6FxKKFxevg8HASgFpIOj8E) | 3:27 |
 | 28 | [give me hell](https://open.spotify.com/track/2VAMExmfFMj4XC3swc9AD9) | [Sam Nelson](https://open.spotify.com/artist/4SIjsqKdaPeIVDqrALa4Mv), [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB), [Madi Diaz](https://open.spotify.com/artist/7E1o9IcnpiFQDlAUk2H7Az) | [why does everything make me cry?](https://open.spotify.com/album/45T13v8nPmnCCbkOtiAACm) | 3:04 |
 | 29 | [Bad Husband \(feat\. X Ambassadors\)](https://open.spotify.com/track/3GOjD8hwXOxbTF3apTqSqX) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR), [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB) | [Revival](https://open.spotify.com/album/0U6ldwLBEMkwgfQRY4V6D2) | 4:47 |
-| 30 | [Ahead Of Myself](https://open.spotify.com/track/5KrEN8aGZnvS2UU6molPFs) | [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB) | [Ahead Of Myself](https://open.spotify.com/album/2fegGpMdK0zuaBEHGFdYdf) | 3:43 |
-| 31 | [Gorgeous](https://open.spotify.com/track/2xI3vq0WsAEs4tET6gthuw) | [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB) | [VHS](https://open.spotify.com/album/7A8fZ2jjiu5heq7wNCutKN) | 3:17 |
-| 32 | [Blinding Lights](https://open.spotify.com/track/1ThR3dFdiIQmBgD2P90oVV) | [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB) | [Blinding Lights](https://open.spotify.com/album/3LEatdntFP2A5XkG1bFJh7) | 2:57 |
+| 30 | [Blinding Lights](https://open.spotify.com/track/1ThR3dFdiIQmBgD2P90oVV) | [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB) | [Blinding Lights](https://open.spotify.com/album/3LEatdntFP2A5XkG1bFJh7) | 2:57 |
+| 31 | [Ahead Of Myself](https://open.spotify.com/track/5KrEN8aGZnvS2UU6molPFs) | [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB) | [Ahead Of Myself](https://open.spotify.com/album/2fegGpMdK0zuaBEHGFdYdf) | 3:43 |
+| 32 | [Gorgeous](https://open.spotify.com/track/2xI3vq0WsAEs4tET6gthuw) | [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB) | [VHS](https://open.spotify.com/album/7A8fZ2jjiu5heq7wNCutKN) | 3:17 |
 | 33 | [Litost](https://open.spotify.com/track/7HyvbdOddwXEGzKoLNxhKG) | [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB) | [Love Songs Drug Songs](https://open.spotify.com/album/2gb0qB8risulVnHeXCqqhK) | 5:21 |
 | 34 | [American Oxygen](https://open.spotify.com/track/6r64PMqq9VxnT0Xr3439uH) | [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB) | [American Oxygen](https://open.spotify.com/album/0OGWPqm097un4kgcpM3fh0) | 5:05 |
 | 35 | [Not Easy](https://open.spotify.com/track/6BXCXOJGvuhks2xDxj5opi) | [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB), [Elle King](https://open.spotify.com/artist/3bhu7P5PfngueRHiB9hjcx), [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop) | [Not Easy](https://open.spotify.com/album/4K6Zqkm3dZQncMmunPIl9O) | 4:05 |
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2dqn7O.md) - [plain]
 | 40 | [Belong](https://open.spotify.com/track/54nwCwKlRSl29ndEBFVaGl) | [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB) | [Belong EP](https://open.spotify.com/album/7inQoz3exeJ2mTCtFXlPqP) | 3:38 |
 | 41 | [CONFIDENCE \(feat\. K.Flay\)](https://open.spotify.com/track/1fE6majCQyShaXTPqJsdar) | [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB), [K.Flay](https://open.spotify.com/artist/0pCNk4D3E2xtszsm6hMsWr) | [ORION](https://open.spotify.com/album/5YF8ms264wRnswVK1YMYmu) | 2:53 |
 | 42 | [Hoping](https://open.spotify.com/track/3BymzRCyTpah2tLfjXuMok) | [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB) | [Hoping](https://open.spotify.com/album/7z2pCwRH2d2Lydl7wncoH9) | 3:13 |
-| 43 | [Low Life](https://open.spotify.com/track/6rXKkGRJQspRVNcGdcmsGy) | [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB), [Jamie N Commons](https://open.spotify.com/artist/2FsZnS8gQ8jG1HGnPYNlm9) | [VHS](https://open.spotify.com/album/7A8fZ2jjiu5heq7wNCutKN) | 4:40 |
-| 44 | [leave flowers](https://open.spotify.com/track/3OL3NrfcA6WFVBbB0LrDph) | [Sam Nelson](https://open.spotify.com/artist/4SIjsqKdaPeIVDqrALa4Mv), [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB) | [why does everything make me cry?](https://open.spotify.com/album/45T13v8nPmnCCbkOtiAACm) | 3:01 |
+| 43 | [leave flowers](https://open.spotify.com/track/3OL3NrfcA6WFVBbB0LrDph) | [Sam Nelson](https://open.spotify.com/artist/4SIjsqKdaPeIVDqrALa4Mv), [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB) | [why does everything make me cry?](https://open.spotify.com/album/45T13v8nPmnCCbkOtiAACm) | 3:01 |
+| 44 | [Low Life](https://open.spotify.com/track/6rXKkGRJQspRVNcGdcmsGy) | [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB), [Jamie N Commons](https://open.spotify.com/artist/2FsZnS8gQ8jG1HGnPYNlm9) | [VHS](https://open.spotify.com/album/7A8fZ2jjiu5heq7wNCutKN) | 4:40 |
 | 45 | [Razor's Edge \(feat\. X Ambassadors\)](https://open.spotify.com/track/45Ps9b9nzFGDb6ZSQF6x8l) | [Masked Wolf](https://open.spotify.com/artist/1uU7g3DNSbsu0QjSEqZtEd), [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB) | [Astronomical](https://open.spotify.com/album/6qNMYsx5OUFDXWAoct9Pge) | 2:33 |
 | 46 | [Unconsolable](https://open.spotify.com/track/0jpoRHaMiyKNnCectzcXTv) | [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB) | [Love Songs Drug Songs](https://open.spotify.com/album/2gb0qB8risulVnHeXCqqhK) | 3:36 |
 | 47 | [You'll Get Yours \(feat\. X Ambassadors\)](https://open.spotify.com/track/1Cik5e1sK0Dd6szE4Utd6Z) | [Tom Morello](https://open.spotify.com/artist/74NBPbyyftqJ4SpDZ4c1Ed), [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB) | [The Atlas Underground Flood](https://open.spotify.com/album/3srOjhcBLQv9XtIiSpyds6) | 3:08 |
@@ -62,4 +62,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2dqn7O.md) - [plain]
 | 52 | [WASTELAND](https://open.spotify.com/track/1XzzHgGGmul65gGyjlmxBj) | [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB) | [ORION](https://open.spotify.com/album/5YF8ms264wRnswVK1YMYmu) | 3:08 |
 | 53 | [Somebody Who Knows You](https://open.spotify.com/track/2tcFQRyTiw9uuS7Red3NEK) | [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB) | [The Beautiful Liar](https://open.spotify.com/album/7mU1N3h6ZVyxpRMTJc7Lg8) | 3:44 |
 
-Snapshot ID: `Mjg1MTQxOTYsMDAwMDAwMDAxMzFkYjI5MWI0M2UxNTkxZDRhMTYyZDZhYzAzYmU0Ng==`
+Snapshot ID: `Mjg1MTU2NjAsMDAwMDAwMDBjOTUzMzI1MGE2NGZjNjQxMmYzNmRkYmEyZTIyYzA2Yg==`

@@ -1,5 +1,5 @@
 {
-  "2024-03-20": 107760,
+  "2024-03-21": 107759,
   "date_first_scraped": "2019-09-29",
   "description": "A prediction for 24, plus some of his favorite summer songs. Includes Summer 23, 22, &amp; 21 editions &amp; bonus tracks.",
   "name": "Obama\u2019s Summer Playlist 2024",
@@ -8138,6 +8138,24 @@
     },
     {
       "album": {
+        "name": "c'est la vie demos",
+        "url": "https://open.spotify.com/album/1Mrhm5GLJDg75bMYiUlZBn"
+      },
+      "artists": [
+        {
+          "name": "Matt Sterling",
+          "url": "https://open.spotify.com/artist/48Dv0C21GDMR2XcHMJ5ZYT"
+        }
+      ],
+      "date_added": "2024-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118333,
+      "name": "c'est la vie",
+      "url": "https://open.spotify.com/track/0HnBP1JxUBwW7Y9Zr8xIeJ"
+    },
+    {
+      "album": {
         "name": "c.w.u.c",
         "url": "https://open.spotify.com/album/2NVCPX7H2w1hsbldQttW1C"
       },
@@ -14797,7 +14815,7 @@
       ],
       "date_added": "2024-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-20",
       "duration_ms": 283960,
       "name": "Dreamers Ball",
       "url": "https://open.spotify.com/track/3jh6i9T4kocrZAEGv5JaXc"
@@ -23013,6 +23031,24 @@
       "duration_ms": 111040,
       "name": "Hey!",
       "url": "https://open.spotify.com/track/2JLmWnsbcCWVLxHdWe3GVw"
+    },
+    {
+      "album": {
+        "name": "A River of Teeth",
+        "url": "https://open.spotify.com/album/5fieFfNjatORWaXVsBn1Q6"
+      },
+      "artists": [
+        {
+          "name": "Cale Hawkins",
+          "url": "https://open.spotify.com/artist/3oWGQhQ0FqlwJWwguF7asT"
+        }
+      ],
+      "date_added": "2024-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131776,
+      "name": "Hi-Fi",
+      "url": "https://open.spotify.com/track/1COt1lvCyTOVB7uuI5tHHn"
     },
     {
       "album": {
@@ -40070,6 +40106,28 @@
     },
     {
       "album": {
+        "name": "nadie sabe lo que va a pasar ma\u00f1ana",
+        "url": "https://open.spotify.com/album/4FftCsAcXXD1nFO9RFUNFO"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        },
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        }
+      ],
+      "date_added": "2024-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162767,
+      "name": "PERRO NEGRO",
+      "url": "https://open.spotify.com/track/7iQXYTyuG13aoeHxGG28Nh"
+    },
+    {
+      "album": {
         "name": "Pero Nos Conocimos",
         "url": "https://open.spotify.com/album/0jOThFedYDzUlRBr6SN3Tw"
       },
@@ -40525,6 +40583,24 @@
       "duration_ms": 252682,
       "name": "Please Stay",
       "url": "https://open.spotify.com/track/3kRR0BXjpP7B8aLWsPlCQy"
+    },
+    {
+      "album": {
+        "name": "Homesick",
+        "url": "https://open.spotify.com/album/7qxWIr6enjaJKvrB3a5Qoz"
+      },
+      "artists": [
+        {
+          "name": "Treis",
+          "url": "https://open.spotify.com/artist/6hUIDnCrzRoxekFkOoy8Fi"
+        }
+      ],
+      "date_added": "2024-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196257,
+      "name": "Pleasure",
+      "url": "https://open.spotify.com/track/3XeaQtDcd6nOfersQwo3KM"
     },
     {
       "album": {
@@ -41483,6 +41559,24 @@
       "duration_ms": 212137,
       "name": "Qu\u00e9date Aqu\u00ed",
       "url": "https://open.spotify.com/track/7c36s0sCO0snUVZCfbUW5B"
+    },
+    {
+      "album": {
+        "name": "R e a l W o m a n",
+        "url": "https://open.spotify.com/album/05Zpvjm9aGodlwFnnh1rRE"
+      },
+      "artists": [
+        {
+          "name": "PARTYNEXTDOOR",
+          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
+        }
+      ],
+      "date_added": "2024-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194733,
+      "name": "R e a l W o m a n",
+      "url": "https://open.spotify.com/track/5bhDnM1VMFDTs3urFBq4Na"
     },
     {
       "album": {
@@ -43610,6 +43704,24 @@
     },
     {
       "album": {
+        "name": "Sajna",
+        "url": "https://open.spotify.com/album/4VT5TYs9SsxbCL2gWMvz06"
+      },
+      "artists": [
+        {
+          "name": "MAZA",
+          "url": "https://open.spotify.com/artist/5jAWE05trEwGIZx0S04Sct"
+        }
+      ],
+      "date_added": "2024-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169565,
+      "name": "Sajna",
+      "url": "https://open.spotify.com/track/0WwdAj4BGI1DEc2iDROhnR"
+    },
+    {
+      "album": {
         "name": "Sali Bueno",
         "url": "https://open.spotify.com/album/7HhoGWjtJNFOVGSDdxeDAl"
       },
@@ -44441,6 +44553,28 @@
       "duration_ms": 276342,
       "name": "Secular Penitente",
       "url": "https://open.spotify.com/track/4incarXbBzTA4elMKZprYu"
+    },
+    {
+      "album": {
+        "name": "Here To Stay",
+        "url": "https://open.spotify.com/album/5yE4CGPLfPP3jg8GsZheEG"
+      },
+      "artists": [
+        {
+          "name": "Greg Dayton",
+          "url": "https://open.spotify.com/artist/1omYx5mQtsTdP9YFjhkAWf"
+        },
+        {
+          "name": "Steven Bernstein\u2019s Boutique Brass Choir",
+          "url": "https://open.spotify.com/artist/1G12NgYuwK0Ul9heFQe3HR"
+        }
+      ],
+      "date_added": "2024-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159626,
+      "name": "See My Baby",
+      "url": "https://open.spotify.com/track/7riJS4FiSm9YfHMGKaEmjB"
     },
     {
       "album": {
@@ -49463,7 +49597,7 @@
       ],
       "date_added": "2024-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-20",
       "duration_ms": 182400,
       "name": "Tainted Skies",
       "url": "https://open.spotify.com/track/0r0aeH7krnKE4NKMaY75mM"
@@ -49699,6 +49833,24 @@
       "duration_ms": 144200,
       "name": "Take Some Time",
       "url": "https://open.spotify.com/track/25BcqQsPRc6ip8EZp64vDD"
+    },
+    {
+      "album": {
+        "name": "Take the Time You Need",
+        "url": "https://open.spotify.com/album/5EVOByrZQ7wWA6Ti5a0UDq"
+      },
+      "artists": [
+        {
+          "name": "Jo Wedin",
+          "url": "https://open.spotify.com/artist/1uxYQkewWEjKxKtmTukyKB"
+        }
+      ],
+      "date_added": "2024-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246000,
+      "name": "Take the Time You Need",
+      "url": "https://open.spotify.com/track/11VnwohnRPOC4qHzqTcaLB"
     },
     {
       "album": {

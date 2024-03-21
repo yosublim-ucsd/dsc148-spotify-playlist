@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7S1VIepNQDg.md) - [plain]
 
 > Got that summertime feeling 🌴
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,388 likes - 75 songs - 4 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 60,399 likes - 75 songs - 4 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,9 +65,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7S1VIepNQDg.md) - [plain]
 | 55 | [I Used To Be Fun](https://open.spotify.com/track/7sCMZKSjZbx563QSkqxTqC) | [Teen Jesus and the Jean Teasers](https://open.spotify.com/artist/3KrgUUwoRQ6OQp4IOmqnSF) | [I Used To Be Fun](https://open.spotify.com/album/5gpJSwcv4t4W5s9YAFxjlI) | 2:41 |
 | 56 | [Firebreak \- Edit](https://open.spotify.com/track/5eD7gQPf53vmuQ0Ka6KUdb) | [Confidence Man](https://open.spotify.com/artist/0RwXnFrEoI8tltFvYpJgP6) | [Firebreak](https://open.spotify.com/album/3OBXMr3YKWecqcRO1Ay6Vv) | 2:27 |
 | 57 | [Oh Laura](https://open.spotify.com/track/2Lq7rOLcBBTvBa86k1YTW0) | [SG Lewis](https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG) | [AudioLust & HigherLove](https://open.spotify.com/album/5861K3sQgAwu1sswhe5Gw8) | 3:36 |
-| 58 | [Self To Blame](https://open.spotify.com/track/5KpCmDP66zOO4sjKuneMjQ) | [Logic1000](https://open.spotify.com/artist/2EFsfh1zewsSWhDINv7j1I), [Kayla Blackmon](https://open.spotify.com/artist/46J5rGvJ6xnn5cCZguck6W) | [Self To Blame](https://open.spotify.com/album/6NvDwBu9uM79wNI7ZzA5nY) | 4:05 |
+| 58 | [You Thought \(feat\. Janelle Monáe\)](https://open.spotify.com/track/52hSgk5YbiBmdDdIrGDPsd) | [Teezo Touchdown](https://open.spotify.com/artist/0fGcIStdT1OpFFhOC7Wp36), [Janelle Monáe](https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs) | [You Thought \(feat\. Janelle Monáe\)](https://open.spotify.com/album/35ejmgq9Xl3fz18MQmVSs6) | 3:01 |
 | 59 | [I Like It](https://open.spotify.com/track/3ouCBumDkGHdhIAHavtvya) | [Teenage Dads](https://open.spotify.com/artist/0GEHcYh6naBVfaLKy7CEhw) | [I Like It](https://open.spotify.com/album/2dOegifzkyE9ZrdwW33tq4) | 3:01 |
-| 60 | [You Thought \(feat\. Janelle Monáe\)](https://open.spotify.com/track/52hSgk5YbiBmdDdIrGDPsd) | [Teezo Touchdown](https://open.spotify.com/artist/0fGcIStdT1OpFFhOC7Wp36), [Janelle Monáe](https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs) | [You Thought \(feat\. Janelle Monáe\)](https://open.spotify.com/album/35ejmgq9Xl3fz18MQmVSs6) | 3:01 |
+| 60 | [Self To Blame](https://open.spotify.com/track/5KpCmDP66zOO4sjKuneMjQ) | [Logic1000](https://open.spotify.com/artist/2EFsfh1zewsSWhDINv7j1I), [Kayla Blackmon](https://open.spotify.com/artist/46J5rGvJ6xnn5cCZguck6W) | [Self To Blame](https://open.spotify.com/album/6NvDwBu9uM79wNI7ZzA5nY) | 4:05 |
 | 61 | [Coffee](https://open.spotify.com/track/7uS0B4O1PDYQhZJQIuFjtR) | [Memphis LK](https://open.spotify.com/artist/7z3XgqpRYdNJ7RvEUlYaUe) | [Coffee](https://open.spotify.com/album/5QvtSMjg0Qr2DFa7LRKA1u) | 3:13 |
 | 62 | [Chez Moi \(Waiting For You\) \- Edit](https://open.spotify.com/track/1VwmC2Sw9b9EztWkRvC07M) | [CC:DISCO!](https://open.spotify.com/artist/37fxVoFAMzet5CiiDg7SL7), [Confidence Man](https://open.spotify.com/artist/0RwXnFrEoI8tltFvYpJgP6) | [Chez Moi \(Waiting For You\)](https://open.spotify.com/album/5HwZIHl2vkaEGzuvNorz84) | 4:27 |
 | 63 | [Cry](https://open.spotify.com/track/2HhhhHfVEmz09NAb0FxgDW) | [Club Angel](https://open.spotify.com/artist/1reJK6xw6Lu0r1PMoTUTDj) | [Cry](https://open.spotify.com/album/5qEGkaG2wMcn787eEwGkhK) | 3:50 |
@@ -76,12 +76,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7S1VIepNQDg.md) - [plain]
 | 66 | [Highlands](https://open.spotify.com/track/3juc8eQreETBUlYYXy5jhd) | [Middle Kids](https://open.spotify.com/artist/6AawJaQO4i99Be2A3w7BTW) | [Faith Crisis Pt 1](https://open.spotify.com/album/0NxJjIo7cyOfhcW4Eh6j1z) | 3:31 |
 | 67 | [Good Mood](https://open.spotify.com/track/2KGrjW9a45QpuBpjIiyPhT) | [The Rubens](https://open.spotify.com/artist/2hrWpLNoJcs1EnWSXvB6JI) | [Good Mood](https://open.spotify.com/album/3rTINDQ7FOcyfFx6LQs8bA) | 2:59 |
 | 68 | [Moth Love](https://open.spotify.com/track/0lP6dtgyfTtVcxJ1GVmIyA) | [1tbsp](https://open.spotify.com/artist/6G01WYFYF91rjG5LtwMhY4) | [Moth Love](https://open.spotify.com/album/3TmRBALTpwplqDDM4ZRPMr) | 3:22 |
-| 69 | [Radiohead](https://open.spotify.com/track/0JfNtlCzaVvwYtRy0bxO7H) | [FRIDAY\*](https://open.spotify.com/artist/0blI5gUBCHXkvOYrJ8kRvk) | [Darling](https://open.spotify.com/album/5RPzyXi3rpoPtRhF5QaseW) | 2:43 |
-| 70 | [Super Ego](https://open.spotify.com/track/2tRw3mlRNyEMl6FOtA1lBg) | [Babe Rainbow](https://open.spotify.com/artist/2UmG7WphL1CMN7mVWyhE7u) | [Fresh As A Head Of Lettuce](https://open.spotify.com/album/7aDruEppNXesqQkoAHcW6L) | 4:17 |
+| 69 | [Super Ego](https://open.spotify.com/track/2tRw3mlRNyEMl6FOtA1lBg) | [Babe Rainbow](https://open.spotify.com/artist/2UmG7WphL1CMN7mVWyhE7u) | [Fresh As A Head Of Lettuce](https://open.spotify.com/album/7aDruEppNXesqQkoAHcW6L) | 4:17 |
+| 70 | [Radiohead](https://open.spotify.com/track/0JfNtlCzaVvwYtRy0bxO7H) | [FRIDAY\*](https://open.spotify.com/artist/0blI5gUBCHXkvOYrJ8kRvk) | [Darling](https://open.spotify.com/album/5RPzyXi3rpoPtRhF5QaseW) | 2:43 |
 | 71 | [Don't Really Care](https://open.spotify.com/track/6Sse51km3PDp5kHMgcVFXf) | [Djanaba](https://open.spotify.com/artist/4bxUDYFtReRPY0uBnNyqFr) | [Don't Really Care](https://open.spotify.com/album/3809RidvYF5fZH1rFEFDFt) | 2:58 |
 | 72 | [Too Much Fun](https://open.spotify.com/track/37UG9jRXurN9Yr6sx9cq8l) | [Memphis LK](https://open.spotify.com/artist/7z3XgqpRYdNJ7RvEUlYaUe) | [Too Much Fun](https://open.spotify.com/album/6DVEb2UcjI2o4W4SdOXksM) | 2:34 |
 | 73 | [Sour Berry](https://open.spotify.com/track/2SDyTX6UVufhOds0mg2No8) | [1tbsp](https://open.spotify.com/artist/6G01WYFYF91rjG5LtwMhY4) | [Mosquito Love](https://open.spotify.com/album/6BSM2BWyG87s0j7hWIQC1V) | 3:15 |
 | 74 | [Shining](https://open.spotify.com/track/3fELwzVdYerUr3JuxaEa5C) | [Tentendo](https://open.spotify.com/artist/3eUpxakSdjFZ5ROQKgfL2W), [Annalisa Fernandez](https://open.spotify.com/artist/5eGzlY642wbXxiXFTwBW0f) | [Morning Light](https://open.spotify.com/album/5mMNVDT4FcwzAVQSJDGco6) | 3:23 |
 | 75 | [Endit](https://open.spotify.com/track/5ZJFobJ62N2HlpgyCjjVtm) | [Golden Features](https://open.spotify.com/artist/2SrWifjYv7b5tR8EzEmn1x), [Rromarin](https://open.spotify.com/artist/4JEwT8UJ2ihmM7xWjrtPqP) | [Sisyphus](https://open.spotify.com/album/5V0IE1Dq9W3jt5iuxguwNp) | 4:51 |
 
-Snapshot ID: `MCw2ZGUyMTU4ZjEzMGJhNTU2NjU3MDFiOTY4YzdhZTdjOTI3M2U0YzFl`
+Snapshot ID: `MCwyZGY0Y2YyYzU4ZmFmZWFlNTA0MmVjYmI0YzY5ODU2MDQ4NjMwMGU5`

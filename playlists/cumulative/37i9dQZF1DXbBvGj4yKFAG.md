@@ -4,11 +4,12 @@
 
 > may include sad indie rock songs.
 
-211 songs - 11 hr 19 min
+213 songs - 11 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [\(dream\) \- remaster](https://open.spotify.com/track/6DjNn3yQ53XwGyDTJBKBEz) | [salvia palth](https://open.spotify.com/artist/0pg0Zm8FsGAYy5kdHuBnSo) | [melanchole \(remaster\)](https://open.spotify.com/album/1CU4dfIskXlgz5vSssB7IT) | 1:24 | 2023-06-02 |  |
+| [\(dream\) \- Remaster](https://open.spotify.com/track/0rHu5eGXkeTh4vSHpO1saS) | [salvia palth](https://open.spotify.com/artist/0pg0Zm8FsGAYy5kdHuBnSo) | [melanchole \(remaster\)](https://open.spotify.com/album/6guj24pIFwXE2rDi2LAWko) | 1:24 | 2023-06-02 |  |
+| [\(dream\) \- remaster](https://open.spotify.com/track/6DjNn3yQ53XwGyDTJBKBEz) | [salvia palth](https://open.spotify.com/artist/0pg0Zm8FsGAYy5kdHuBnSo) | [melanchole \(remaster\)](https://open.spotify.com/album/1CU4dfIskXlgz5vSssB7IT) | 1:24 | 2023-06-02 | 2024-03-21 |
 | [...do you want me?](https://open.spotify.com/track/4MhUNi5bmNfvejnuJaDGk5) | [Field Medic](https://open.spotify.com/artist/4wMfqR1EZagrSlYndItxGQ) | [plunge deep golden knife](https://open.spotify.com/album/5IkfsCgOxmviOp3cKXlHiL) | 2:36 | 2023-04-11 |  |
 | [17](https://open.spotify.com/track/5UVBumEwdUnzvqxrXOYLFA) | [Youth Lagoon](https://open.spotify.com/artist/1Z2KInfSmPOzAIYyiaXeti) | [The Year of Hibernation](https://open.spotify.com/album/7jG32gfkuo10qarPgmWC7q) | 3:56 | 2023-02-09 |  |
 | [1st2LeaveDaFunction](https://open.spotify.com/track/2zKGU7t1EE5Npxgf3Zo4qm) | [Marigold](https://open.spotify.com/artist/1qxMrN7GOPfiFkC8H0rKh6) | [1st2LeaveDaFunction](https://open.spotify.com/album/1fSRmThh79T2yumpSXQbRS) | 1:18 | 2023-04-11 | 2023-07-01 |
@@ -86,7 +87,8 @@
 | [i heard you were looking like the moon](https://open.spotify.com/track/4Yw8XKDrmJSMNFqvd8JZJ6) | [Richard Orofino](https://open.spotify.com/artist/3xXUZ2bPGudLudm2eBE7I0) | [special](https://open.spotify.com/album/0MCWANJq0mI70BGA7FibFx) | 3:43 | 2024-01-03 |  |
 | [i miss your warm hands](https://open.spotify.com/track/5Mu5BFHb4vFS5cw0hbDICV) | [i don't like mirrors](https://open.spotify.com/artist/7sZCJvKlrUa5wP3GDnW0ld) | [Not How it's Supposed to be](https://open.spotify.com/album/36tFrKEi71NmEQP8QCnZ4q) | 2:11 | 2024-01-02 |  |
 | [i still think about you](https://open.spotify.com/track/1gn36xiTbvh5ZdLQblagfP) | [Sweet Boy](https://open.spotify.com/artist/5KAGcWjCXvGM8lA3TY205r) | [i still think about you](https://open.spotify.com/album/4hZmFxYP6Av5sAHrSuEwF3) | 2:45 | 2024-01-29 |  |
-| [i was all over her](https://open.spotify.com/track/7svpAkwc6xaSxlbZ7V7JiS) | [salvia palth](https://open.spotify.com/artist/0pg0Zm8FsGAYy5kdHuBnSo) | [melanchole](https://open.spotify.com/album/23KJrzHF1IBfjzpRgTtaJx) | 2:41 | 2023-02-09 |  |
+| [i was all over her](https://open.spotify.com/track/6mSnSuOhgHHohqeBw76jRV) | [salvia palth](https://open.spotify.com/artist/0pg0Zm8FsGAYy5kdHuBnSo) | [melanchole](https://open.spotify.com/album/10WzRaNWnFUQNrW2FpqQSQ) | 2:41 | 2023-04-11 |  |
+| [i was all over her](https://open.spotify.com/track/7svpAkwc6xaSxlbZ7V7JiS) | [salvia palth](https://open.spotify.com/artist/0pg0Zm8FsGAYy5kdHuBnSo) | [melanchole](https://open.spotify.com/album/23KJrzHF1IBfjzpRgTtaJx) | 2:41 | 2023-02-09 | 2024-03-21 |
 | [I'll Be Damned](https://open.spotify.com/track/0CXSKdN0pLbwc4TUp06ScG) | [Brevin Kim](https://open.spotify.com/artist/7lU8Gtn7moZmPqqu4oPkEh) | [High School Football](https://open.spotify.com/album/3zaHm3kBLgfQkO8Jd1nVfn) | 3:38 | 2023-04-14 | 2023-07-15 |
 | [I'm Always Here](https://open.spotify.com/track/485XGXNp7cvrPSaxJJbJ99) | [sign crushes motorist](https://open.spotify.com/artist/02vrwnrNEeDRV96o9iPSYP) | [Hurting](https://open.spotify.com/album/2iv4j11JOrhPnIz67C9UCT) | 3:20 | 2023-06-30 |  |
 | [i'm going to fail my class](https://open.spotify.com/track/04i5DIpsM09MdeNa4mwz8Q) | [mage tears](https://open.spotify.com/artist/49z5htqDa2p7kjejLAbanc) | [old songs](https://open.spotify.com/album/0Ybc1xl1Bw2Eip0meV4Ur7) | 1:03 | 2023-06-13 |  |

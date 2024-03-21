@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxqA801UP5W.md) - [plain]
 
 > All your favourite pop songs, remixed to perfection\. Cover: Tate McRae
 
-[Spotify](https://open.spotify.com/user/spotify) - 455,510 likes - 50 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 455,519 likes - 50 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,11 +52,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxqA801UP5W.md) - [plain]
 | 42 | [My Head & My Heart \- Claptone Remix](https://open.spotify.com/track/0AxhXARnISmbH5UqbqvtDP) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F), [Claptone](https://open.spotify.com/artist/4mncDFjVLUa3s025Tct3Ry) | [My Head & My Heart \(Claptone Remix\)](https://open.spotify.com/album/5t9BpDVQZu6T7H7qZPqlth) | 3:02 |
 | 43 | [2 Be Loved \(Am I Ready\) \[PNAU Remix\]](https://open.spotify.com/track/3rJvr6YpIZTsx32nSDJ26Q) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS), [PNAU](https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u) | [2 Be Loved \(Am I Ready\) \[PNAU Remix\]](https://open.spotify.com/album/2B0PXzy8733OS2TdmU58in) | 3:42 |
 | 44 | [Heat Waves \- Oliver Heldens Remix](https://open.spotify.com/track/65xvfgI2nNrOYHhGUzw9XP) | [Glass Animals](https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq), [Oliver Heldens](https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p) | [Dreamland \(+ Bonus Levels\)](https://open.spotify.com/album/0E2xXn23qVmfx9ThZjWFBE) | 4:03 |
-| 45 | [Fly Away \(Jonas Blue Remix\)](https://open.spotify.com/track/2xsFQqgLKbYZNUVsbxtwpo) | [Tones And I](https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY) | [Fly Away \(Jonas Blue Remix\)](https://open.spotify.com/album/3jQOaHRiMgqxMN2qo1SZTJ) | 3:12 |
-| 46 | [Padam Padam \(Jax Jones Remix\)](https://open.spotify.com/track/6Ow5yGcdb7YhjRmZJ2cViv) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA), [Jax Jones](https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr) | [Padam Padam \(Jax Jones Remix\)](https://open.spotify.com/album/6eg4SmA5q6IwAfRJ3r140S) | 3:24 |
+| 45 | [Padam Padam \(Jax Jones Remix\)](https://open.spotify.com/track/6Ow5yGcdb7YhjRmZJ2cViv) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA), [Jax Jones](https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr) | [Padam Padam \(Jax Jones Remix\)](https://open.spotify.com/album/6eg4SmA5q6IwAfRJ3r140S) | 3:24 |
+| 46 | [Fly Away \(Jonas Blue Remix\)](https://open.spotify.com/track/2xsFQqgLKbYZNUVsbxtwpo) | [Tones And I](https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY) | [Fly Away \(Jonas Blue Remix\)](https://open.spotify.com/album/3jQOaHRiMgqxMN2qo1SZTJ) | 3:12 |
 | 47 | [South of the Border \(feat\. Camila Cabello & Cardi B\) \- Cheat Codes Remix](https://open.spotify.com/track/19TOAlTFq0NDHvUPQR0tkr) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V), [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB), [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF), [Cheat Codes](https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU) | [South of the Border \(feat\. Camila Cabello & Cardi B\) \[Cheat Codes Remix\]](https://open.spotify.com/album/3BjxjIkTZKUpeZ6n5MYMNx) | 3:15 |
 | 48 | [Streets \- Disclosure Remix](https://open.spotify.com/track/4k6Emp6KJ4GNRyf6wUKODl) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5), [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et) | [Streets \(Disclosure Remix\)](https://open.spotify.com/album/6NQXnBKeDrpQGWPQsgIiwA) | 4:14 |
 | 49 | [Is It Love \- goddard\. Remix](https://open.spotify.com/track/5kNaiGZicJkD7r1cwbzDcD) | [Loreen](https://open.spotify.com/artist/49aaHxvAJ0tCh0F15OnwIl), [goddard.](https://open.spotify.com/artist/3yDDYheQFqfhKZXdjFQuuP) | [Is It Love \(goddard\. Remix\)](https://open.spotify.com/album/2JSThj7pMIiCybV5lxWDYh) | 2:38 |
 | 50 | [Memories \- Dillon Francis Remix](https://open.spotify.com/track/0r7CVbZTWZgbTCYdfa2P31) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP), [Dillon Francis](https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf) | [Memories \(Dillon Francis Remix\)](https://open.spotify.com/album/63rPSO264uRjW1X5E6cWv6) | 2:42 |
 
-Snapshot ID: `MCw4NjgyZTBkNTMwMDNhN2U3N2E5ZDFlNDIxYzdiYWM2ZTRlYTE0YWQ4`
+Snapshot ID: `MCxiN2NkM2M4YTEzZWI1ZDdkOTYyY2Y3MmE2OTZkNzNiN2FmOTI4NzI1`

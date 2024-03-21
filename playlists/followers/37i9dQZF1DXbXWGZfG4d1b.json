@@ -1,5 +1,5 @@
 {
-  "2024-03-20": 21954,
+  "2024-03-21": 21955,
   "date_first_scraped": "2022-06-30",
   "description": "Rock independiente, pop alternativo y golden hour.",
   "name": "6PM Indie",
@@ -165,6 +165,24 @@
       "duration_ms": 178020,
       "name": "ACAPULCO GOLD",
       "url": "https://open.spotify.com/track/0F862VhYfSgGYo1xvTjNPF"
+    },
+    {
+      "album": {
+        "name": "Las Ligas Menores",
+        "url": "https://open.spotify.com/album/3uo5La74eGmsUeXJdRRO3g"
+      },
+      "artists": [
+        {
+          "name": "Las Ligas Menores",
+          "url": "https://open.spotify.com/artist/3MNvKeLzGSvOPtXJAjCOzf"
+        }
+      ],
+      "date_added": "2024-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145239,
+      "name": "Accidente",
+      "url": "https://open.spotify.com/track/55xFPGknQ0zQluwBmf2nVm"
     },
     {
       "album": {
@@ -1745,7 +1763,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-20",
       "duration_ms": 147053,
       "name": "Congelado",
       "url": "https://open.spotify.com/track/2evNqTcmNYPUErVp1L9yNp"

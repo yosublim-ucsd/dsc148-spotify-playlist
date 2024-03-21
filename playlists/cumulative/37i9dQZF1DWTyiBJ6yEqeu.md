@@ -4,7 +4,7 @@
 
 > Press play, press start.
 
-790 songs - 1 day 15 hr 17 min
+791 songs - 1 day 15 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -321,7 +321,7 @@
 | [How We Do](https://open.spotify.com/track/0oDnZigAyI2RTxareDIuXO) | [CID](https://open.spotify.com/artist/4FCzCS0KEgb0rgySWINItO), [Joshwa](https://open.spotify.com/artist/1PzAgFVk9v8cxn9flrqrv5) | [How We Do](https://open.spotify.com/album/5QyO0fxIi4l2LFQkbWUGWw) | 3:07 | 2022-03-07 | 2022-04-21 |
 | [Human \(feat\. Echoes\)](https://open.spotify.com/track/4G4patpYxsF6ovHZOX9wgR) | [John Summit](https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205), [Echoes](https://open.spotify.com/artist/4pT84mlmySh9CkiGfJA9xV) | [Human \(feat\. Echoes\)](https://open.spotify.com/album/0LsQJbzouY38Os8GXxn5dO) | 3:39 | 2022-05-04 | 2022-05-24 |
 | [Hypnocurrency](https://open.spotify.com/track/3evAUkYDPeLX5kn0LbvGz4) | [Rezz](https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw), [deadmau5](https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx) | [Hypnocurrency](https://open.spotify.com/album/28WW07Sx0IrAXAb1xDDnD3) | 4:52 | 2021-08-20 | 2022-06-19 |
-| [HYPNOTIC DATA](https://open.spotify.com/track/26wxtmoH4uPUF1n5VlPxMc) | [Odetari](https://open.spotify.com/artist/7ITMCzIU9uII8gwRg8JAhc) | [XIII SORROWS](https://open.spotify.com/album/7dfODAnexuCQljq6ewTjtB) | 2:08 | 2023-09-14 |  |
+| [HYPNOTIC DATA](https://open.spotify.com/track/26wxtmoH4uPUF1n5VlPxMc) | [Odetari](https://open.spotify.com/artist/7ITMCzIU9uII8gwRg8JAhc) | [XIII SORROWS](https://open.spotify.com/album/7dfODAnexuCQljq6ewTjtB) | 2:08 | 2023-09-14 | 2024-03-21 |
 | [I Ain't Worried](https://open.spotify.com/track/4h9wh7iOZ0GGn8QVp4RAOB) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [I Ain’t Worried \(Music From The Motion Picture "Top Gun: Maverick"\)](https://open.spotify.com/album/04PEOM6kIEeq9lRp1asNP2) | 2:28 | 2022-12-18 |  |
 | [I Believe](https://open.spotify.com/track/6zke4l646FheM5JlIdu4T8) | [Flux Pavilion](https://open.spotify.com/artist/7muzHifhMdnfN1xncRLOqk), [Asha](https://open.spotify.com/artist/2EHKTScPT87Z0dHvTevc8D) | [I Believe](https://open.spotify.com/album/1c9WAYELQyzy1VGwBT1Ftv) | 4:18 | 2021-08-20 | 2022-07-28 |
 | [I Can't Tell \(feat\. LAUREL\)](https://open.spotify.com/track/23pL9muwrxg6ZZTp0oErBL) | [Flume](https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer), [LAUREL](https://open.spotify.com/artist/6y6iXD929Jqq0xc6lgwhl1) | [Palaces](https://open.spotify.com/album/2V1L71NRmzGYsqOqnjGimb) | 3:51 | 2022-05-20 | 2022-05-24 |
@@ -634,6 +634,7 @@
 | [soak city \(do it\)](https://open.spotify.com/track/779jpZikRmH99DiSVpwCHD) | [310babii](https://open.spotify.com/artist/4VCriUU9CsPnUvoAsxVk1p) | [lottery pick](https://open.spotify.com/album/6X56VpnIYr8WOiCpkXHdEw) | 2:03 | 2024-02-23 |  |
 | [Solid \(feat\. Drake\)](https://open.spotify.com/track/6rTInqW3YECMkQsBEHw4sd) | [Young Stoner Life](https://open.spotify.com/artist/1xr2G8Hlx4QWmT9HaUbmoO), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Slime Language 2](https://open.spotify.com/album/3ihwKkIMJWmmp1huNH0iWC) | 3:35 | 2021-08-20 | 2022-07-07 |
 | [Solutions](https://open.spotify.com/track/17LtbDMKmsO5zTOqVAM27x) | [Shakewell](https://open.spotify.com/artist/1w7GLktHE8w0aEhhaZ0QKB), [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0) | [Pray 4 Shakewell](https://open.spotify.com/album/5MvMCCP60gI97W1rcbwvhF) | 3:37 | 2022-05-20 | 2022-07-09 |
+| [Somebody \(2024\)](https://open.spotify.com/track/0agQ9vIV7NP4dntGKLcCXO) | [Gotye](https://open.spotify.com/artist/2AsusXITU8P25dlRNhcAbG), [FISHER](https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt), [Chris Lake](https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE), [Kimbra](https://open.spotify.com/artist/6hk7Yq1DU9QcCCrz9uc0Ti), [Sante Sansone](https://open.spotify.com/artist/5fAwPpS78sokZdpktoSUE8) | [Somebody \(2024\)](https://open.spotify.com/album/5eKQYtDqVmrHPZoKHG1LlH) | 2:33 | 2024-02-23 |  |
 | [Sometimes](https://open.spotify.com/track/3i6sCTU7ENlnHpHvrHUitW) | [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz) | [Fighting Demons \(Deluxe\)](https://open.spotify.com/album/1typPCwqyXMfFpvDZAyKew) | 4:19 | 2022-03-18 | 2022-07-29 |
 | [Song 2 \- 2012 Remaster](https://open.spotify.com/track/1FTSo4v6BOZH9QxKc3MbVM) | [Blur](https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS) | [Blur \(Special Edition\)](https://open.spotify.com/album/7HvIrSkKGJCzd8AKyjTJ6Q) | 2:01 | 2022-08-18 | 2022-11-19 |
 | [Sorry Bout That](https://open.spotify.com/track/4VHkjPgAis9JNfc1URn7zZ) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [4L](https://open.spotify.com/album/05QOSu1AEcQxM5jvZFuann) | 3:06 | 2021-12-02 | 2023-06-18 |

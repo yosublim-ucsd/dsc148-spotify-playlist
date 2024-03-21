@@ -4,7 +4,7 @@
 
 > Novidades do pop nacional pra te deixar mais leve! Foto: Jota.pê, Gilsons
 
-567 songs - 1 day 4 hr 8 min
+568 songs - 1 day 4 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -290,7 +290,7 @@
 | [MENINA](https://open.spotify.com/track/30sNX63sgXRJWQcSK9DbLm) | [Flavio Ferrari](https://open.spotify.com/artist/7B05yEI5NHNcIimKT23M1x) | [MENINA](https://open.spotify.com/album/7tyJ4al0A5shUAtMGFolAP) | 3:11 | 2023-02-03 | 2023-05-06 |
 | [Menina do Interior](https://open.spotify.com/track/2yt3119p51Qyp9mHY1xgKK) | [João Napoli](https://open.spotify.com/artist/0LcE3YrT8d2Bc0ylmnnx1L) | [Menina do Interior / Aurora](https://open.spotify.com/album/6Ey26ottxtVHM1j9IvTHVn) | 3:20 | 2022-06-24 | 2022-08-02 |
 | [Menino](https://open.spotify.com/track/5IJLZv9xTNWResf5YPBYlG) | [Mateus Carrilho](https://open.spotify.com/artist/0TSMy9QFSMnBR2si7qZ0VT) | [Menino](https://open.spotify.com/album/0TqFDnB8H0HI57oPIKsZBg) | 2:48 | 2023-04-07 | 2023-05-20 |
-| [mentalmente](https://open.spotify.com/track/1hQa4ceXHdS41cYqHCv5M9) | [Carol Passos](https://open.spotify.com/artist/5PTSuEffMevlta7r4D3asP), [GCARVALHO](https://open.spotify.com/artist/1kNfxWOfLZgfDJsEP7tLHh), [CASITA](https://open.spotify.com/artist/2AFHUuEtvqHN4JlNzyq8cv) | [mentalmente](https://open.spotify.com/album/5YiQ8dQ3MFu9MNg9sOQjDO) | 2:55 | 2024-01-26 |  |
+| [mentalmente](https://open.spotify.com/track/1hQa4ceXHdS41cYqHCv5M9) | [Carol Passos](https://open.spotify.com/artist/5PTSuEffMevlta7r4D3asP), [GCARVALHO](https://open.spotify.com/artist/1kNfxWOfLZgfDJsEP7tLHh), [CASITA](https://open.spotify.com/artist/2AFHUuEtvqHN4JlNzyq8cv) | [mentalmente](https://open.spotify.com/album/5YiQ8dQ3MFu9MNg9sOQjDO) | 2:55 | 2024-01-26 | 2024-03-21 |
 | [MENTIRA](https://open.spotify.com/track/6jrk9SYMQh8dhOAYTjU3A2) | [Nairo](https://open.spotify.com/artist/1D8czLMHw5DiZCQGd6xHXa) | [Mentira](https://open.spotify.com/album/3vXGRIRvX8rGxu79ktxSI2) | 2:59 | 2022-10-28 | 2023-02-04 |
 | [Mesmo Se Você Mudar](https://open.spotify.com/track/0YzANCFgYRdDAWk23mg9SO) | [GUPE](https://open.spotify.com/artist/0P3XVLx4HRUXxNlkrXjKix) | [Mesmo Se Você Mudar](https://open.spotify.com/album/0coKC5Jns0QTkATFgbfYqG) | 3:05 | 2023-06-23 | 2023-09-23 |
 | [MEU 1º APARTAMENTO](https://open.spotify.com/track/11flcCCk68Ejm1WXioWVvQ) | [GABI LINS](https://open.spotify.com/artist/6AntiZOHajTmgPhdLGKYNm) | [MEU 1º APARTAMENTO](https://open.spotify.com/album/2kw4CShAfWtF2uDK98dWxV) | 3:19 | 2023-07-28 | 2023-09-02 |
@@ -418,6 +418,7 @@
 | [Quintal](https://open.spotify.com/track/7fgqc1U6SvDVcyWjcVeFd2) | [Melim](https://open.spotify.com/artist/6uYrXgVHctAJtIdSODcyLJ) | [Quintal](https://open.spotify.com/album/6PlVPenyP7YINcDxcPjRfW) | 2:55 | 2023-01-27 | 2023-05-27 |
 | [Rara](https://open.spotify.com/track/00GX7uIqyTPC5MQtnBahY5) | [Bruno Chelles](https://open.spotify.com/artist/0QRmYyPJ4gzQmSVWMYgF2d), [Santino](https://open.spotify.com/artist/3uOdcexXWraBw0SYLSHxBa) | [Rara](https://open.spotify.com/album/2m5bdA9o8QOPWTcGE63pOn) | 3:17 | 2022-12-09 | 2023-07-01 |
 | [Rara Flor](https://open.spotify.com/track/4xLiEMTUxYJegJUTRvEAGz) | [Big Up](https://open.spotify.com/artist/246xfnz80PngiO9sZubyy0) | [Rara Flor](https://open.spotify.com/album/1qQ4J7PUlwkRrSsA3o9VQc) | 2:21 | 2023-12-01 | 2024-01-06 |
+| [Recomeço \- Bonus Track](https://open.spotify.com/track/1Ll03UzfVOYrcWK4FgwEtH) | [Vicka](https://open.spotify.com/artist/5ITGPHkPyU6uvvrhMjCGai) | [Concreto \(2024 Rework\)](https://open.spotify.com/album/1BEdpQGeHrhtjZekdaKUPJ) | 3:14 | 2024-03-15 |  |
 | [Renata](https://open.spotify.com/track/4XMc6OTIFSzkcDKOLrA682) | [Braga](https://open.spotify.com/artist/7dO3FozNKSxFlBbh4U08ng), [Hotelo](https://open.spotify.com/artist/11LYUBREaqNaJcruqe26lH) | [Renata](https://open.spotify.com/album/2NZvpmeIzbwYbTi0KODCYI) | 2:50 | 2023-11-10 |  |
 | [Repara](https://open.spotify.com/track/3KSBVHgj03KdPFQ4SMIizC) | [Maielle](https://open.spotify.com/artist/2vGvYgHGWdoDDdtplJlMjX) | [Repara](https://open.spotify.com/album/60lO1rsH63Nx57oB1uwfnk) | 2:34 | 2023-02-10 | 2023-03-25 |
 | [Resolvi Seguir](https://open.spotify.com/track/6xuf56zGxebdc1oilPOs7D) | [Nicolas Candido](https://open.spotify.com/artist/5Zv9YrrNkqX5FaaAHtw3E6) | [Resolvi Seguir](https://open.spotify.com/album/1nVWMOfIQ5X6ckw08cHQoU) | 2:41 | 2023-04-14 | 2023-08-26 |

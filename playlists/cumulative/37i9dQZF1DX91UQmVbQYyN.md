@@ -4,7 +4,7 @@
 
 > Some of the most mesmerizing voices and masterful musicians of indie\. Cover: Waxahatchee
 
-473 songs - 1 day 4 hr 54 min
+474 songs - 1 day 4 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -325,6 +325,7 @@
 | [Paper Planes](https://open.spotify.com/track/5QlGALr14YMN0xIDmIwleg) | [M.I.A.](https://open.spotify.com/artist/0QJIPDAEDILuo8AIq3pMuU) | [Kala \(Expanded\)](https://open.spotify.com/album/5c4JW9TBpawiv9pI2vrNsE) | 3:25 | 2022-03-08 | 2022-04-21 |
 | [Paper Thin](https://open.spotify.com/track/1rV59uezLaLErSyjNHPhTJ) | [Lianne La Havas](https://open.spotify.com/artist/2RP4pPHTXlQpDnO9LvR7Yt) | [Paper Thin](https://open.spotify.com/album/33fybrWr3dFLVT8ZViCSc7) | 4:58 | 2021-09-03 | 2022-07-24 |
 | [Paper Thin](https://open.spotify.com/track/7kC97zPE0PxrcItXyGdk8P) | [Lianne La Havas](https://open.spotify.com/artist/2RP4pPHTXlQpDnO9LvR7Yt) | [Lianne La Havas](https://open.spotify.com/album/1CqNrKEv2fhF7mudTXrydV) | 4:58 | 2022-03-08 | 2023-03-03 |
+| [Pedestal](https://open.spotify.com/track/3GNmo4ljOTnd8k6VKug1Ut) | [Aiko](https://open.spotify.com/artist/4rNUXX8pX47dfwyD6KL2zP) | [Fortune's child](https://open.spotify.com/album/4CjY3RnccWWHglcx2D6Hwr) | 2:28 | 2024-03-08 |  |
 | [Photo ID](https://open.spotify.com/track/0bhciG1J5Mn3aIfPjvHQIe) | [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d) | [I'm Allergic To Dogs!](https://open.spotify.com/album/23JijmRgLWloEMnFUwHJa2) | 4:25 | 2022-03-08 | 2024-02-14 |
 | [Places/Plans](https://open.spotify.com/track/0v02UqGzmTJjrzJArNtt6K) | [Skullcrusher](https://open.spotify.com/artist/1GUaQ6GpaxFPKZ0SCSsnwD) | [Skullcrusher](https://open.spotify.com/album/3ih34jIYbDN2l2hz5oXcEB) | 3:03 | 2021-09-03 | 2022-07-24 |
 | [Porsche](https://open.spotify.com/track/5yrXka8YvshCStBMCvlvjy) | [Kacy Hill](https://open.spotify.com/artist/4dYQmk5ma04mZ1KJ9KkAQK) | [Is It Selfish If We Talk About Me Again](https://open.spotify.com/album/6MeHJ39jMIA4niDn0jhJBx) | 3:35 | 2021-09-03 | 2022-07-27 |
@@ -384,7 +385,7 @@
 | [Souvenir](https://open.spotify.com/track/1JPRgRUK044O15wgv8uZO1) | [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG), [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [boygenius](https://open.spotify.com/album/5BRORKnC2HD5xhgUyR31SH) | 3:32 | 2021-09-03 | 2022-07-20 |
 | [Space Song](https://open.spotify.com/track/7H0ya83CMmgFcOhw0UB6ow) | [Beach House](https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY) | [Depression Cherry](https://open.spotify.com/album/194CqC2Zi0kUFEPWedb3qr) | 5:20 | 2022-03-08 |  |
 | [Speaking Terms](https://open.spotify.com/track/2ystHinBjK639vcRANDFaL) | [Snail Mail](https://open.spotify.com/artist/4QkSD9TRUnMtI8Fq1jXJJe) | [Lush](https://open.spotify.com/album/2e48GqjEwCi87gQJanb1bf) | 3:53 | 2021-09-03 | 2022-07-28 |
-| [Stay Flo](https://open.spotify.com/track/6GCIYIWUBSLontW6divqsw) | [Solange](https://open.spotify.com/artist/2auiVi8sUZo17dLy1HwrTU) | [When I Get Home](https://open.spotify.com/album/4WF4HvVT7VjGnVjxjoCR6w) | 2:55 | 2022-03-08 |  |
+| [Stay Flo](https://open.spotify.com/track/6GCIYIWUBSLontW6divqsw) | [Solange](https://open.spotify.com/artist/2auiVi8sUZo17dLy1HwrTU) | [When I Get Home](https://open.spotify.com/album/4WF4HvVT7VjGnVjxjoCR6w) | 2:55 | 2022-03-08 | 2024-03-21 |
 | [Street You Live On](https://open.spotify.com/track/0Rg7gsv3kLviC7jW6Jemv3) | [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d) | [Juno](https://open.spotify.com/album/7tJ8Wtej161vR0uCbGDiDR) | 3:33 | 2022-02-11 | 2022-07-29 |
 | [Stripes](https://open.spotify.com/track/6MMoSIi363lXFxXWdeEf04) | [Alix Page](https://open.spotify.com/artist/7hp6PmppZj6iiolLVT4iEZ) | [Stripes](https://open.spotify.com/album/12bFbhROiR0ZUBfupeFHK4) | 3:56 | 2022-03-08 | 2022-07-28 |
 | [Sucker](https://open.spotify.com/track/0KAW820FoYhpDe3lsgMRaC) | [Madeline Kenney](https://open.spotify.com/artist/2mirb9SKAm6IUHtPwreoqN) | [Sucker](https://open.spotify.com/album/5LzeVIZgtEHrbLYwsBRalD) | 4:43 | 2022-03-08 | 2022-07-29 |

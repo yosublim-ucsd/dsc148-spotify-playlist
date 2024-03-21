@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1aA8os1ylFZ.md) - [plain]
 
 > get into your feels with some r&b magic
 
-[Spotify](https://open.spotify.com/user/spotify) - 241,775 likes - 100 songs - 5 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 241,802 likes - 100 songs - 5 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -80,10 +80,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1aA8os1ylFZ.md) - [plain]
 | 70 | [SOLO](https://open.spotify.com/track/5UXbiwymPFSqbVhDefIeB7) | [Shay Lia](https://open.spotify.com/artist/3sJQwG0SsGRyv5C5kh4o9a) | [SOLO](https://open.spotify.com/album/6tUdt4hvQmNtO0gh5fG8ce) | 3:02 |
 | 71 | [You and I](https://open.spotify.com/track/1EMy0gThjvmvKVQqBhBrPY) | [Alice Aera](https://open.spotify.com/artist/1r6ajY5Cgb1Rhl88UWG4B7), [Majo](https://open.spotify.com/artist/3bFHx7H43rnf5GzOWnqwdf) | [You and I](https://open.spotify.com/album/4LOK8lJTo5ftB7gr4vnngj) | 3:06 |
 | 72 | [Out of Touch](https://open.spotify.com/track/10fdgkGHCbjVIbNBfTSmfx) | [PHABO](https://open.spotify.com/artist/5FdZDr2bMbEcnsEKRgO3rn), [Shaé Universe](https://open.spotify.com/artist/5gaElx30yTGGiOCVnml29N) | [Out of Touch](https://open.spotify.com/album/6vIwR0j1Ya3UJeuFTQPcdr) | 3:32 |
-| 73 | [Loveloca](https://open.spotify.com/track/1JCKPYM0yFZfXeC04RmeiB) | [J.A.D.E](https://open.spotify.com/artist/286YnD3iVn80KxG43TyBHH) | [Loveloca](https://open.spotify.com/album/6cc0aH6M1S3SAUdMglc37e) | 2:54 |
+| 73 | [Stars](https://open.spotify.com/track/0rUmvpKfigC5jL0jnIcYTB) | [Carlos Abril](https://open.spotify.com/artist/3EZSFgcjMOuvt39vZQDo7L), [Amelia Rose](https://open.spotify.com/artist/3UU07M4msKfDqC4c9JCnDl) | [Stars](https://open.spotify.com/album/70KMbElvbjKSWUPERYbVCp) | 4:18 |
 | 74 | [Something True](https://open.spotify.com/track/237j3OLZr3rfH0iHdxm2Xl) | [Gaidaa](https://open.spotify.com/artist/5aLDWFw5qUmTWnEuevuhYG) | [Something True](https://open.spotify.com/album/7EmWV14OIISnZwqlg4ySa5) | 2:43 |
-| 75 | [The Right One](https://open.spotify.com/track/6OWocnbyqk4NX5tq9pBq1n) | [Noha Saré](https://open.spotify.com/artist/2r3TXsrjx7eICwgL0Bk2l7) | [The Right One](https://open.spotify.com/album/5BJlBjmBC2ihAW9gf6vLlV) | 2:56 |
-| 76 | [Stars](https://open.spotify.com/track/0rUmvpKfigC5jL0jnIcYTB) | [Carlos Abril](https://open.spotify.com/artist/3EZSFgcjMOuvt39vZQDo7L), [Amelia Rose](https://open.spotify.com/artist/3UU07M4msKfDqC4c9JCnDl) | [Stars](https://open.spotify.com/album/70KMbElvbjKSWUPERYbVCp) | 4:18 |
+| 75 | [Loveloca](https://open.spotify.com/track/1JCKPYM0yFZfXeC04RmeiB) | [J.A.D.E](https://open.spotify.com/artist/286YnD3iVn80KxG43TyBHH) | [Loveloca](https://open.spotify.com/album/6cc0aH6M1S3SAUdMglc37e) | 2:54 |
+| 76 | [The Right One](https://open.spotify.com/track/6OWocnbyqk4NX5tq9pBq1n) | [Noha Saré](https://open.spotify.com/artist/2r3TXsrjx7eICwgL0Bk2l7) | [The Right One](https://open.spotify.com/album/5BJlBjmBC2ihAW9gf6vLlV) | 2:56 |
 | 77 | [Peace](https://open.spotify.com/track/2jVophLAvSRFwiC0bhk8K4) | [QUiNNA](https://open.spotify.com/artist/22rDvoC9Ih125ORFkRXU1p), [Asiah](https://open.spotify.com/artist/3cAWgw5dy6A1OheKZx0uZX), [Sevendays](https://open.spotify.com/artist/7Bjrqi8xQL35Lp9KCRI3sY) | [Peace](https://open.spotify.com/album/4XyrBfLYVSRYIAIeAEJWF1) | 2:49 |
 | 78 | [Heartbreaker](https://open.spotify.com/track/4eLFb0Ygy59SEisCWsa85h) | [Larissa Lambert](https://open.spotify.com/artist/1tM4ox3QsSpl3R2VwLjJ47), [Jeremih](https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg) | [I Love You And Its Getting Worse](https://open.spotify.com/album/4EveH7LTJ6mTkxXWK6y2Vu) | 2:59 |
 | 79 | [Drop In](https://open.spotify.com/track/3EawgQ7oWbOQ2vVg4Vk12j) | [\[ K S R \]](https://open.spotify.com/artist/7BWjWVat8puiUriWads4kk) | [Drop In](https://open.spotify.com/album/5mFidAy9MG3XHqIFiH8NB3) | 3:26 |
@@ -99,14 +99,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1aA8os1ylFZ.md) - [plain]
 | 89 | [Darkness](https://open.spotify.com/track/4xNygvV9HtIisQlGQgATvN) | [Romy Dya](https://open.spotify.com/artist/5gWzmnHTLNXz5CjOc0wAuK) | [Darkness](https://open.spotify.com/album/12WLtY1AOfYXPmVoYdulxZ) | 3:01 |
 | 90 | [Linger On](https://open.spotify.com/track/6sAhTL86FQa2RhdbozNECI) | [Sky Feliz](https://open.spotify.com/artist/7EeqJ1ky6b1Kjf4vgGkx3O) | [Patience](https://open.spotify.com/album/6OskzKNJss2nReEKRchfiy) | 2:44 |
 | 91 | [1+1](https://open.spotify.com/track/2TtiDn0UNM0x5O6wvcd7Kt) | [Cyra Gwynth](https://open.spotify.com/artist/73xasVLAvFrnbuhBdAucpp) | [1+1](https://open.spotify.com/album/6PGhknbHltteEYewVcwXx4) | 2:52 |
-| 92 | [Zwanger in De Club](https://open.spotify.com/track/1cGTc7bB6ZXCREKvIQE2gg) | [KIMONO](https://open.spotify.com/artist/1nSGi0gYeO1v0gWXRaGk1F) | [Zwanger in De Club](https://open.spotify.com/album/73kbFX65iAHPx1OPXvo4sJ) | 3:52 |
-| 93 | [2 Am](https://open.spotify.com/track/3pg7RawLH4HlNJ75BwprlL) | [LORNZO](https://open.spotify.com/artist/165m3O9waRPKckujKZnFlz) | [2 Am](https://open.spotify.com/album/6gTZhOGjg9D5Ks5HunS9wu) | 2:40 |
-| 94 | [Flexible](https://open.spotify.com/track/159K76vGQ2yVz9RSjtRagM) | [Jazz Carta](https://open.spotify.com/artist/2fsmNXzoUW0KzBWIwNgzif) | [Flexible](https://open.spotify.com/album/1a3tYzPmrBmAPXQEEegBTI) | 2:21 |
+| 92 | [Flexible](https://open.spotify.com/track/159K76vGQ2yVz9RSjtRagM) | [Jazz Carta](https://open.spotify.com/artist/2fsmNXzoUW0KzBWIwNgzif) | [Flexible](https://open.spotify.com/album/1a3tYzPmrBmAPXQEEegBTI) | 2:21 |
+| 93 | [Zwanger in De Club](https://open.spotify.com/track/1cGTc7bB6ZXCREKvIQE2gg) | [KIMONO](https://open.spotify.com/artist/1nSGi0gYeO1v0gWXRaGk1F) | [Zwanger in De Club](https://open.spotify.com/album/73kbFX65iAHPx1OPXvo4sJ) | 3:52 |
+| 94 | [2 Am](https://open.spotify.com/track/3pg7RawLH4HlNJ75BwprlL) | [LORNZO](https://open.spotify.com/artist/165m3O9waRPKckujKZnFlz) | [2 Am](https://open.spotify.com/album/6gTZhOGjg9D5Ks5HunS9wu) | 2:40 |
 | 95 | [City Girl](https://open.spotify.com/track/1uuCG9rNTnjI7hljkFlGFO) | [Quessswho](https://open.spotify.com/artist/4Q23rm8jYyd2ft6Cm1MhwJ) | [City Girl](https://open.spotify.com/album/6p0O1QjQAqtFvY3s1tLYLn) | 2:01 |
 | 96 | [Awareness \- Radio Edit](https://open.spotify.com/track/2bp8l2gJkGgsUszjJaruXp) | [Kyara Shereen](https://open.spotify.com/artist/2xtnBW8NATpAS0zySpH23Q), [This is Lema](https://open.spotify.com/artist/6xukNNXDc47oIMHVZR5SQv) | [Essence](https://open.spotify.com/album/113oIbTJ2PlFjNOw6xyMrF) | 2:52 |
-| 97 | [Big Stacks](https://open.spotify.com/track/2nQbgg9sKokyd7o99xMpbQ) | [Nelson Clark](https://open.spotify.com/artist/14ChRRXZS3JYGWEurCWjBR), [Saint Ronil](https://open.spotify.com/artist/1cnBbwuD3CUvOf981TFR34) | [Big Stacks](https://open.spotify.com/album/06fasBZe8AZhNwD75nVefW) | 3:09 |
+| 97 | [Don’t Mind](https://open.spotify.com/track/4yq7RXjF9M5nmkYPiVo0oV) | [Shadi](https://open.spotify.com/artist/6KRiktIvEommt5qfwLOxBz) | [Freak Pack](https://open.spotify.com/album/2VaXsrVlaa1JTCmskan7Yk) | 2:59 |
 | 98 | [123](https://open.spotify.com/track/5dawpCCaji7L1oC3dOqoWb) | [Sky Feliz](https://open.spotify.com/artist/7EeqJ1ky6b1Kjf4vgGkx3O) | [123](https://open.spotify.com/album/4K4aJCHMBhW74pwTzp7tLk) | 2:38 |
-| 99 | [Don’t Mind](https://open.spotify.com/track/4yq7RXjF9M5nmkYPiVo0oV) | [Shadi](https://open.spotify.com/artist/6KRiktIvEommt5qfwLOxBz) | [Freak Pack](https://open.spotify.com/album/2VaXsrVlaa1JTCmskan7Yk) | 2:59 |
-| 100 | [ily2](https://open.spotify.com/track/1aCi1np6otYE894Gwpxjoj) | [Elijah Waters](https://open.spotify.com/artist/4N4n2TRyL6exNfazJotLeH) | [Mother, I'm Not Here](https://open.spotify.com/album/2ddfx92XO61BAgXdhgCgoj) | 2:14 |
+| 99 | [Big Stacks](https://open.spotify.com/track/2nQbgg9sKokyd7o99xMpbQ) | [Nelson Clark](https://open.spotify.com/artist/14ChRRXZS3JYGWEurCWjBR), [Saint Ronil](https://open.spotify.com/artist/1cnBbwuD3CUvOf981TFR34) | [Big Stacks](https://open.spotify.com/album/06fasBZe8AZhNwD75nVefW) | 3:09 |
+| 100 | [Clueless](https://open.spotify.com/track/5jNiwsjNcve1qqpEaubXfe) | [AKA Block](https://open.spotify.com/artist/3znfzjYazV5OBop5w9Fa2B) | [Clueless](https://open.spotify.com/album/3i0ahzjchFHOA34HA6uMWp) | 3:10 |
 
-Snapshot ID: `MCxjNzcyZWE5MGYwNGUxMDA2MjllNDAzM2MwNWRmMjc5OTk0MDc4NmM5`
+Snapshot ID: `MCxjYmVmNDg1YzA1MjNjMWE2M2E3ODQ4NGE0ZmE3YjQ1OGRkNzc3MDQx`

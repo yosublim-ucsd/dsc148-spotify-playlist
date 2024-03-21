@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcf57PJZ9901.md) - [plain]
 
 > The best easy rock from the 2010s\. Cover: Keane
 
-[Spotify](https://open.spotify.com/user/spotify) - 111,579 likes - 70 songs - 4 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 111,606 likes - 70 songs - 4 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,8 +19,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcf57PJZ9901.md) - [plain]
 | 9 | [Sugar](https://open.spotify.com/track/2iuZJX9X9P0GKaE93xcPjk) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP) | [V](https://open.spotify.com/album/2Auw0pTT6EcQdvHNimhLQI) | 3:55 |
 | 10 | [Demons](https://open.spotify.com/track/3LlAyCYU26dvFZBDUIMb7a) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Night Visions](https://open.spotify.com/album/6htgf3qv7vGcsdxLCDxKp8) | 2:55 |
 | 11 | [Magic](https://open.spotify.com/track/23khhseCLQqVMCIT1WMAns) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Ghost Stories](https://open.spotify.com/album/2G4AUqfwxcV1UdQjm2ouYr) | 4:45 |
-| 12 | [Sit Next to Me](https://open.spotify.com/track/4BdGO1CaObRD4La9l5Zanz) | [Foster The People](https://open.spotify.com/artist/7gP3bB2nilZXLfPHJhMdvc) | [Sacred Hearts Club](https://open.spotify.com/album/5lFvZh6pCTJzr9UStebyCF) | 4:03 |
-| 13 | [All the Pretty Girls](https://open.spotify.com/track/0QQIhT6PtJ5glyn4HKNKQ6) | [KALEO](https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc) | [A/B](https://open.spotify.com/album/4he4SQup02hEIQdwhZlZlk) | 4:29 |
+| 12 | [All the Pretty Girls](https://open.spotify.com/track/0QQIhT6PtJ5glyn4HKNKQ6) | [KALEO](https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc) | [A/B](https://open.spotify.com/album/4he4SQup02hEIQdwhZlZlk) | 4:29 |
+| 13 | [Sit Next to Me](https://open.spotify.com/track/4BdGO1CaObRD4La9l5Zanz) | [Foster The People](https://open.spotify.com/artist/7gP3bB2nilZXLfPHJhMdvc) | [Sacred Hearts Club](https://open.spotify.com/album/5lFvZh6pCTJzr9UStebyCF) | 4:03 |
 | 14 | [Somebody Else](https://open.spotify.com/track/5hc71nKsUgtwQ3z52KEKQk) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [I like it when you sleep, for you are so beautiful yet so unaware of it](https://open.spotify.com/album/1JFmNyVPdBF1ECvv4fhpW4) | 5:47 |
 | 15 | [Let It Go](https://open.spotify.com/track/13HVjjWUZFaWilh2QUJKsP) | [James Bay](https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD) | [Chaos And The Calm](https://open.spotify.com/album/5BxvswQSGWrBbVCdx6mFGO) | 4:20 |
 | 16 | [Heathens](https://open.spotify.com/track/6i0V12jOa3mr6uu4WYhUBr) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [Heathens](https://open.spotify.com/album/3J8W9AOjQhnBLCX33m3atT) | 3:15 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcf57PJZ9901.md) - [plain]
 | 69 | [Passing Ships](https://open.spotify.com/track/7n2ovJQ5hDX9wScd9aBL6N) | [Throw The Fight](https://open.spotify.com/artist/1nRfyHvAh1foLjOCa3hbv7) | [Transmissions](https://open.spotify.com/album/1pbaNcr9twxPtvBo7GuJnh) | 4:15 |
 | 70 | [Killing Me](https://open.spotify.com/track/3lcYh4YFzkeZf1ebWy8wPx) | [The Kooks](https://open.spotify.com/artist/1GLtl8uqKmnyCWxHmw9tL4) | [Junk Of The Heart](https://open.spotify.com/album/2HfdqVaLccOvzfsHej9A8g) | 3:25 |
 
-Snapshot ID: `MCw5Yzg4N2NiNGFjN2ZmMjM0NDgyNWMyNGU2N2IzMDMyYjYzN2VlMDNj`
+Snapshot ID: `MCxlYTczY2FiZDhkM2I0YmZjYTQ0ODMyZmVhZGMzYThjNzExZmE5MWMw`

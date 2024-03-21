@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6MNYaY0PcFh.md) - [plain]
 
 > The new wave of Garage \- an evolution of the classic UK dancefloor sound.
 
-[Spotify](https://open.spotify.com/user/spotify) - 75,437 likes - 60 songs - 3 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 75,469 likes - 60 songs - 3 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,6 +67,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6MNYaY0PcFh.md) - [plain]
 | 57 | [lights up](https://open.spotify.com/track/2r2axmwkkjt8LCfgfYh4YG) | [poolsideconvo](https://open.spotify.com/artist/2LSEjxlLwKF2YelaT0kiQJ) | [the come up](https://open.spotify.com/album/4qF743H2WwQod9UDSmZ6z1) | 4:31 |
 | 58 | [Like Home](https://open.spotify.com/track/2NhpheC54QQ8Vacjpmz1TH) | [Love Remain](https://open.spotify.com/artist/5ELuqqizVx5FdajBcrBckx) | [Like Home](https://open.spotify.com/album/0WkRktzRMPYCe77vWwsrB3) | 5:00 |
 | 59 | [Love Me, Leave Me Alone](https://open.spotify.com/track/55MckToyWVSitUdMySgApN) | [DRIIA](https://open.spotify.com/artist/4bBcD1Iabv9tLFcZ6FGdys) | [Love Me, Leave Me Alone](https://open.spotify.com/album/2qryqXKgPDQ55TwPKzbGMM) | 3:13 |
-| 60 | [Arrival](https://open.spotify.com/track/5utzfRVETLaJUETsgPyUBX) | [Yemi](https://open.spotify.com/artist/21ujgB2lJW9NT1D46pWuDj), [Edward White](https://open.spotify.com/artist/5hS9c3HfGey4nXQxjcrCS1) | [Arrival](https://open.spotify.com/album/0Dn3aTnI80EYspDqrUTFDS) | 3:46 |
+| 60 | [Brighter Days](https://open.spotify.com/track/3JgvbAIabTHI9UvGStpxM1) | [S Dog](https://open.spotify.com/artist/3TTfMQ8A4tpY8rrN1ZID38), [Toddla T](https://open.spotify.com/artist/3l1C23aRp4lfkBK3lLAp2m) | [Estate Royalty](https://open.spotify.com/album/5A53s3TnstEoTDmwO9CwOb) | 2:32 |
 
-Snapshot ID: `MCw0NmI2Mjc4MDY1MzUzNmM5YWM2ZjJlMzYyMGU4MmM2MzQ2OTRmNTM0`
+Snapshot ID: `MCwwMDM3ZTU3MDgwNDQ3OTJmOWUwYWQ3MzhmNjgxYzI1OWQ3MDIyYzMx`

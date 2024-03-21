@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0XUfTFmNBRM.md) - [plain]
 
 > Hottest Hindi music served here\. Cover \- Animal
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,044,026 likes - 50 songs - 3 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,045,769 likes - 50 songs - 3 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0XUfTFmNBRM.md) - [plain]
 | 15 | [Tu hai kahan](https://open.spotify.com/track/3zSSCPpLZ5Oc8nelhhGjKz) | [AUR](https://open.spotify.com/artist/2cjQTf2J5yCaNY8qHpW855) | [Tu hai kahan](https://open.spotify.com/album/73vfz6Szer7i3GFIesix6l) | 4:23 |
 | 16 | [Dil Jhoom](https://open.spotify.com/track/11qnwt18ZckPqchzK2I3U7) | [Mithoon](https://open.spotify.com/artist/09UmIX92EUH9hAK4bxvHx6), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Sayeed Quadri](https://open.spotify.com/artist/2pGRniGOJSOvYoK3dGaBb8) | [Gadar 2 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5Oxg8wfDhPIrEBM9Yz7ilI) | 5:04 |
 | 17 | [Arjan Vailly](https://open.spotify.com/track/4ApCig0GTR4IEp7Ijsyo3r) | [Manan Bhardwaj](https://open.spotify.com/artist/3pQ4aA7dkolyjUAMrVScgh), [Bhupinder Babbal](https://open.spotify.com/artist/5bppkTlu7F930pWlNn1b1g) | [ANIMAL](https://open.spotify.com/album/0a183xiCHiC1GQd8ou7WXO) | 3:02 |
-| 18 | [Chor](https://open.spotify.com/track/53gdHIMmv3XubECRLL6R62) | [Justh](https://open.spotify.com/artist/6gxRXj2KUJ02vfIgkNUq5b) | [Chor](https://open.spotify.com/album/39noVgiQirYCWfBIrBzP30) | 3:28 |
+| 18 | [Chor](https://open.spotify.com/track/6YewfSA18qq5xl1KlJQkpY) | [Justh](https://open.spotify.com/artist/6gxRXj2KUJ02vfIgkNUq5b) | [Chor](https://open.spotify.com/album/1wBSOR9eFqfkDFyJtwPm7V) | 3:28 |
 | 19 | [Dil Haareya](https://open.spotify.com/track/7IAQHk6RJXzBm07yJHFoXf) | [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw) | [Dil Haareya](https://open.spotify.com/album/3M2REedvTrxQfBWfp1RQVI) | 3:59 |
 | 20 | [Saari Duniya Jalaa Denge](https://open.spotify.com/track/0YxKKO272sacGBJKjf6FnB) | [Jaani](https://open.spotify.com/artist/5gZhfbckaWo89OzDSk3gdT), [B Praak](https://open.spotify.com/artist/56SjZARoEvag3RoKWIb16j) | [ANIMAL](https://open.spotify.com/album/0a183xiCHiC1GQd8ou7WXO) | 3:02 |
 | 21 | [Saajan Ve](https://open.spotify.com/track/3iFYJMrRS0fLrwDNVbqNF0) | [Darshan Raval](https://open.spotify.com/artist/2GoeZ0qOTt6kjsWW4eA6LS) | [Saajan Ve](https://open.spotify.com/album/2ZkGpdiIY4jnHrmoEQrGGW) | 2:51 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0XUfTFmNBRM.md) - [plain]
 | 49 | [Rang Lageya](https://open.spotify.com/track/4svSc7BE6r9xMEk0GosnVu) | [Mohit Chauhan](https://open.spotify.com/artist/5GnnSrwNCGyfAU4zuIytiS), [Rochak Kohli](https://open.spotify.com/artist/3dN9MQpjIyNxyeRfz4EDZe) | [Rang Lageya \- Single](https://open.spotify.com/album/0qLoPEAr0CLQfEJRtzRb1r) | 3:47 |
 | 50 | [Kahani Suno 2.0](https://open.spotify.com/track/4VsP4Dm8gsibRxB5I2hEkw) | [Kaifi Khalil](https://open.spotify.com/artist/1n9EM0Y4A89vuRiA93gSS9) | [Kahani Suno 2.0](https://open.spotify.com/album/6BHlJhCk1vjCG6hqTG2SFV) | 2:53 |
 
-Snapshot ID: `MCxjNWYzZjRlNmQwOTgxYTE1ZWU0YTZiNDZhZDhmMjk3YzRhMWIwNzVl`
+Snapshot ID: `MCwyMjM3ZWYxM2RjZDZhOTY5OGEyZWRmMWM5ZDEwMTA0MzY2YWQyMWFk`

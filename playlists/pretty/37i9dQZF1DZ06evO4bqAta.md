@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4bqAta.md) - [plain]
 
 > This is Bob Dylan\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 511,195 likes - 50 songs - 3 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 511,286 likes - 50 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,17 +46,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4bqAta.md) - [plain]
 | 36 | [She Belongs to Me](https://open.spotify.com/track/2itBkHBUxGl4VfDj4HNyoD) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [Bringing It All Back Home](https://open.spotify.com/album/1lPoRKSgZHQAYXxzBsOQ7v) | 2:46 |
 | 37 | [Changing of the Guards](https://open.spotify.com/track/2vVpjZxlSiqR5wr2YeZPB2) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [Street\-Legal](https://open.spotify.com/album/0bd6oCsp5JoJ5erpMzHu1U) | 6:37 |
 | 38 | [Boots of Spanish Leather](https://open.spotify.com/track/6QHYEZlm9wyfXfEM1vSu1P) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [The Times They Are A\-Changin'](https://open.spotify.com/album/7DZeLXvr9eTVpyI1OlqtcS) | 4:37 |
-| 39 | [Man in the Long Black Coat](https://open.spotify.com/track/5NtOAfnwkKo7eAGq7Uap3J) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [Oh Mercy](https://open.spotify.com/album/18ue4s9PsV3WBw7kkzD689) | 4:33 |
-| 40 | [Oxford Town](https://open.spotify.com/track/7Ay1lHxhuM33NoXKsS0iom) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [The Freewheelin' Bob Dylan](https://open.spotify.com/album/0o1uFxZ1VTviqvNaYkTJek) | 1:47 |
+| 39 | [Oxford Town](https://open.spotify.com/track/7Ay1lHxhuM33NoXKsS0iom) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [The Freewheelin' Bob Dylan](https://open.spotify.com/album/0o1uFxZ1VTviqvNaYkTJek) | 1:47 |
+| 40 | [Man in the Long Black Coat](https://open.spotify.com/track/5NtOAfnwkKo7eAGq7Uap3J) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [Oh Mercy](https://open.spotify.com/album/18ue4s9PsV3WBw7kkzD689) | 4:33 |
 | 41 | [It Ain't Me Babe](https://open.spotify.com/track/5nbNWAfT1S6V1vqj3snHxS) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [Another Side Of Bob Dylan](https://open.spotify.com/album/3q1W9iVdyuwVOGKn696Oh0) | 3:34 |
-| 42 | [Mozambique](https://open.spotify.com/track/1gpQMd0R3blMSn8vhXU0Uu) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [Desire](https://open.spotify.com/album/1T8usYsiGEMPMQOLFgJEbE) | 3:00 |
-| 43 | [Country Pie](https://open.spotify.com/track/2YehU3jLpb9bM5V6k8HmyA) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [Nashville Skyline](https://open.spotify.com/album/5WBx64FIN04CvM2T1MGrUN) | 1:35 |
+| 42 | [Country Pie](https://open.spotify.com/track/2YehU3jLpb9bM5V6k8HmyA) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [Nashville Skyline](https://open.spotify.com/album/5WBx64FIN04CvM2T1MGrUN) | 1:35 |
+| 43 | [Mozambique](https://open.spotify.com/track/1gpQMd0R3blMSn8vhXU0Uu) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [Desire](https://open.spotify.com/album/1T8usYsiGEMPMQOLFgJEbE) | 3:00 |
 | 44 | [Masters of War](https://open.spotify.com/track/7xVpkVkd1klTzLJEysIR7z) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [The Freewheelin' Bob Dylan](https://open.spotify.com/album/0o1uFxZ1VTviqvNaYkTJek) | 4:31 |
 | 45 | [Most of the Time](https://open.spotify.com/track/7wLzlhL0tb3GhPhnIz7IpQ) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [Oh Mercy](https://open.spotify.com/album/18ue4s9PsV3WBw7kkzD689) | 5:04 |
 | 46 | [One Too Many Mornings](https://open.spotify.com/track/5ATUmaVJWUTTagmPwQLck3) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [The Times They Are A\-Changin'](https://open.spotify.com/album/7DZeLXvr9eTVpyI1OlqtcS) | 2:37 |
-| 47 | [It's All Over Now, Baby Blue](https://open.spotify.com/track/4EgKcG7aswxVfQEqa3dl8S) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [Bringing It All Back Home](https://open.spotify.com/album/1lPoRKSgZHQAYXxzBsOQ7v) | 4:12 |
-| 48 | [Ballad of a Thin Man](https://open.spotify.com/track/0f5N14nB8xi0p3o4BlVvbx) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [Highway 61 Revisited](https://open.spotify.com/album/6YabPKtZAjxwyWbuO9p4ZD) | 5:56 |
-| 49 | [Goodbye Jimmy Reed](https://open.spotify.com/track/74mIBeHhMcIpiAej3nBgo4) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [Rough and Rowdy Ways](https://open.spotify.com/album/1Qht64MPvWTWa0aMsqxegB) | 4:13 |
-| 50 | [Not Dark Yet](https://open.spotify.com/track/1qbn6QrHG8XfnqVFKgNzKP) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [Time Out Of Mind](https://open.spotify.com/album/185DHT5SvszXRrezx3lOjt) | 6:27 |
+| 47 | [Ballad of a Thin Man](https://open.spotify.com/track/0f5N14nB8xi0p3o4BlVvbx) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [Highway 61 Revisited](https://open.spotify.com/album/6YabPKtZAjxwyWbuO9p4ZD) | 5:56 |
+| 48 | [Goodbye Jimmy Reed](https://open.spotify.com/track/74mIBeHhMcIpiAej3nBgo4) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [Rough and Rowdy Ways](https://open.spotify.com/album/1Qht64MPvWTWa0aMsqxegB) | 4:13 |
+| 49 | [Not Dark Yet](https://open.spotify.com/track/1qbn6QrHG8XfnqVFKgNzKP) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [Time Out Of Mind](https://open.spotify.com/album/185DHT5SvszXRrezx3lOjt) | 6:27 |
+| 50 | [Corrina, Corrina](https://open.spotify.com/track/1L4RtuEiAiwdX5taX4meLI) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [The Freewheelin' Bob Dylan](https://open.spotify.com/album/0o1uFxZ1VTviqvNaYkTJek) | 2:41 |
 
-Snapshot ID: `Mjg1MTQxOTUsMDAwMDAwMDBlMjVlMTYyYWIyYjVkMDIwMWRiOTIzM2FiMWI2OWQ2Ng==`
+Snapshot ID: `Mjg1MTU2NjEsMDAwMDAwMDA5MTY2MjE5MDU3NGYyNzllY2UxNThiMDQ2NDk3Mzg3MA==`

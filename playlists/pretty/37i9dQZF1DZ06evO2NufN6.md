@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2NufN6.md) - [plain]
 
 > This is Mac Miller\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 856,330 likes - 50 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 856,571 likes - 50 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2NufN6.md) - [plain]
 | 49 | [Rush Hour](https://open.spotify.com/track/09VACB0akCnPueTFnjN5Pn) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [GO:OD AM](https://open.spotify.com/album/2Tyx5dLhHYkx6zeAdVaTzN) | 3:21 |
 | 50 | [Hole In My Pocket](https://open.spotify.com/track/3McH4Z1SYLn2Ibv9pjN51R) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [Blue Slide Park](https://open.spotify.com/album/17mAoDs7T8EA9zzlj6QPBv) | 0:35 |
 
-Snapshot ID: `Mjg1MTQxOTUsMDAwMDAwMDA2ZWM4NzYxM2ZmODQ5NjM4M2Q5MTk3OGE1N2RjZTBjOA==`
+Snapshot ID: `Mjg1MTU2NjAsMDAwMDAwMDBlZTE0YzQ3ZDRkNzVhYTgyYjcyMjU2N2MxNDFhN2RmOA==`

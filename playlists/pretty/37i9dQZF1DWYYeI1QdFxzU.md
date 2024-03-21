@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYYeI1QdFxzU.md) - [plain]
 
 > A soundscape of chilled electronic and compositional ambient music, to help you unwind.
 
-[Spotify](https://open.spotify.com/user/spotify) - 684,334 likes - 50 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 684,257 likes - 50 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYYeI1QdFxzU.md) - [plain]
 | 49 | [Ry](https://open.spotify.com/track/01hyJrAHoH26GHSWzKLeXB) | [Christian Löffler](https://open.spotify.com/artist/3tSvlEzeDnVbQJBTkIA6nO) | [Graal \(Prologue\)](https://open.spotify.com/album/2dS99m3T1KFseI62HtLWe8) | 5:32 |
 | 50 | [Autumn Star](https://open.spotify.com/track/5EiQP0rUHERC8QP1OT3TrH) | [RRAREBEAR](https://open.spotify.com/artist/3CodOUadRrQoRrbcPIGLWm) | [Autumn Star](https://open.spotify.com/album/6pJnyOJKtRPq4Zfsr6rW38) | 3:39 |
 
-Snapshot ID: `MCw5YjQyODA0MzU3ZGVjOTMwNmVkOTlhN2M3N2E4MmI1OTM1ZjkzNDQw`
+Snapshot ID: `MCxjZjQ1MmIyMTkyODRhNGY2N2YyNWRjYmQ4ODk0YjlmODhmYWE5YTU4`

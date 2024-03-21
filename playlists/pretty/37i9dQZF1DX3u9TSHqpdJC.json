@@ -1,13 +1,173 @@
 {
-  "description": "The best new pop music by independent artists and labels. Cover: Emerson Azarian. Artwork by Paola Saliby",
-  "num_followers": 207643,
+  "description": "The best new pop music by independent artists and labels. Cover: Temm. Artwork by Paola Saliby",
+  "num_followers": 207741,
   "original_name": "Fresh Finds Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkYzBlNmFjOWU1OTNhYjk0NmFmZDM4NWE4NWE5N2U2YTRmZmY3ZDUw",
+  "snapshot_id": "MCw2NzNkOTUwOGZmNzdhNzMzZTNjY2FkNGY3Yzk1MDI4ZDRjMDhiY2Zi",
   "tracks": [
+    {
+      "added_at": "2024-03-20 04:00:00",
+      "album": {
+        "name": "Move On",
+        "url": "https://open.spotify.com/album/3OA28iQCKxCSiuIkWaykhZ"
+      },
+      "artists": [
+        {
+          "name": "Temm",
+          "url": "https://open.spotify.com/artist/1TCG4phIm3YNXPLzKhHPoD"
+        }
+      ],
+      "duration_ms": 222270,
+      "name": "Move On",
+      "url": "https://open.spotify.com/track/6vTzONIAVZMzG9UGAtv7Xv"
+    },
+    {
+      "added_at": "2024-03-20 04:00:00",
+      "album": {
+        "name": "Dawn",
+        "url": "https://open.spotify.com/album/74aipGQuzmhuy3hRFYvmOJ"
+      },
+      "artists": [
+        {
+          "name": "Bagetti",
+          "url": "https://open.spotify.com/artist/2z6qcjNpGfdX3wWPgZc7M1"
+        }
+      ],
+      "duration_ms": 155744,
+      "name": "Dawn",
+      "url": "https://open.spotify.com/track/3WXWwVIU7e9MElcPwVdPgE"
+    },
+    {
+      "added_at": "2024-03-20 04:00:00",
+      "album": {
+        "name": "cross my heart (hope to die)",
+        "url": "https://open.spotify.com/album/2OPo2MAbCCUWp3TS4N7nld"
+      },
+      "artists": [
+        {
+          "name": "Mackenzie Arromba",
+          "url": "https://open.spotify.com/artist/1BdbPr0jIW0h7HurLRlekq"
+        }
+      ],
+      "duration_ms": 160622,
+      "name": "cross my heart (hope to die)",
+      "url": "https://open.spotify.com/track/7qt0s5OswWIDJBlLHmiKNi"
+    },
+    {
+      "added_at": "2024-03-20 04:00:00",
+      "album": {
+        "name": "Dead Inside",
+        "url": "https://open.spotify.com/album/6KgSvhhfjP2lViOfbYIkcB"
+      },
+      "artists": [
+        {
+          "name": "Sadie Fine",
+          "url": "https://open.spotify.com/artist/2DZXPZaYfPQy9ojosxzJCc"
+        }
+      ],
+      "duration_ms": 224503,
+      "name": "Dead Inside",
+      "url": "https://open.spotify.com/track/06jCPWlKJ0q8geGRTpud87"
+    },
+    {
+      "added_at": "2024-03-20 04:00:00",
+      "album": {
+        "name": "Sorry to Little Me",
+        "url": "https://open.spotify.com/album/410zNtUSsN2GyBB8ev9bFD"
+      },
+      "artists": [
+        {
+          "name": "Carolina Rial",
+          "url": "https://open.spotify.com/artist/0GFfgaBOUjkJDV62cUs7Lj"
+        }
+      ],
+      "duration_ms": 160487,
+      "name": "Sorry to Little Me",
+      "url": "https://open.spotify.com/track/19NJ2T6wxC1QYzil3NEPeo"
+    },
+    {
+      "added_at": "2024-03-20 04:00:00",
+      "album": {
+        "name": "Her",
+        "url": "https://open.spotify.com/album/3ykOYa5YfXrxNdVlGEDtFH"
+      },
+      "artists": [
+        {
+          "name": "Beth Morgan",
+          "url": "https://open.spotify.com/artist/1FPA22EYZGIQX8WgAz9NwD"
+        }
+      ],
+      "duration_ms": 162592,
+      "name": "Her",
+      "url": "https://open.spotify.com/track/7uH3FzjmXWKAXtl7oKPTHg"
+    },
+    {
+      "added_at": "2024-03-20 04:00:00",
+      "album": {
+        "name": "Selfishly Inclined",
+        "url": "https://open.spotify.com/album/4HHcKYbeDmOFaY0R0xHJge"
+      },
+      "artists": [
+        {
+          "name": "Elle Coves",
+          "url": "https://open.spotify.com/artist/3Hey7RF0bxnjPP8IEXmPRa"
+        }
+      ],
+      "duration_ms": 184235,
+      "name": "Don\u2019t",
+      "url": "https://open.spotify.com/track/2nc4Ri2CDDc4I4ED7QaJMw"
+    },
+    {
+      "added_at": "2024-03-20 04:00:00",
+      "album": {
+        "name": "Nando",
+        "url": "https://open.spotify.com/album/3NUDd69MRpROm1E8WSmGGx"
+      },
+      "artists": [
+        {
+          "name": "Dressed Like Boys",
+          "url": "https://open.spotify.com/artist/5qQLp6Xal6S6KXEHgvxmvp"
+        }
+      ],
+      "duration_ms": 180704,
+      "name": "Nando",
+      "url": "https://open.spotify.com/track/5ttaU57G1egcSRql7Cgnef"
+    },
+    {
+      "added_at": "2024-03-20 04:00:00",
+      "album": {
+        "name": "Bad Timing",
+        "url": "https://open.spotify.com/album/10u7XxgMwxIFnmg6qyfgbo"
+      },
+      "artists": [
+        {
+          "name": "Mercer Henderson",
+          "url": "https://open.spotify.com/artist/1CaCR4aY8KkwBTIVgAsl2L"
+        }
+      ],
+      "duration_ms": 208978,
+      "name": "Bad Timing",
+      "url": "https://open.spotify.com/track/2lZm0uLCYliR9mS9fELd26"
+    },
+    {
+      "added_at": "2024-03-20 04:00:00",
+      "album": {
+        "name": "Calling It Love",
+        "url": "https://open.spotify.com/album/3T7G34XE5ZLgiVrvDyEHV8"
+      },
+      "artists": [
+        {
+          "name": "Swayday",
+          "url": "https://open.spotify.com/artist/3502ybt7cR26pkFgAmWbXU"
+        }
+      ],
+      "duration_ms": 190653,
+      "name": "Calling It Love",
+      "url": "https://open.spotify.com/track/5NMM8ktt0UHz3dvWYnlO7R"
+    },
     {
       "added_at": "2024-03-13 05:00:00",
       "album": {
@@ -23,6 +183,102 @@
       "duration_ms": 174851,
       "name": "That Energy",
       "url": "https://open.spotify.com/track/4goO2EkCJh6Gw3ufpJ4jZt"
+    },
+    {
+      "added_at": "2024-03-20 04:00:00",
+      "album": {
+        "name": "Headed North",
+        "url": "https://open.spotify.com/album/2kT2utESRVu0otqiiDOGyf"
+      },
+      "artists": [
+        {
+          "name": "NOEL",
+          "url": "https://open.spotify.com/artist/15JdzpiJMd44n9p7TbFI9p"
+        }
+      ],
+      "duration_ms": 210500,
+      "name": "Hurt Somebody",
+      "url": "https://open.spotify.com/track/4c3O9CbWKhXM1UMCNRvEA5"
+    },
+    {
+      "added_at": "2024-03-13 05:00:00",
+      "album": {
+        "name": "Heartbreak In Heaven",
+        "url": "https://open.spotify.com/album/4SUAVzKxDfY7XcoZ5BPMC3"
+      },
+      "artists": [
+        {
+          "name": "Gabi Sklar",
+          "url": "https://open.spotify.com/artist/72K82D7yyKc8TZ45IZvPrj"
+        }
+      ],
+      "duration_ms": 141368,
+      "name": "Heartbreak In Heaven",
+      "url": "https://open.spotify.com/track/3i3I7HyCJ3UxdJTY5LTaWs"
+    },
+    {
+      "added_at": "2024-03-20 04:00:00",
+      "album": {
+        "name": "Delusional",
+        "url": "https://open.spotify.com/album/4cq0eZqoh82zqqi7fBsvSa"
+      },
+      "artists": [
+        {
+          "name": "Alexa.",
+          "url": "https://open.spotify.com/artist/7H7w90AT2Ve8xdEDlgrphm"
+        }
+      ],
+      "duration_ms": 202486,
+      "name": "Delusional",
+      "url": "https://open.spotify.com/track/5DhRuLgpHKgLmTwgAFKoix"
+    },
+    {
+      "added_at": "2024-03-20 04:00:00",
+      "album": {
+        "name": "Days of Girlhood",
+        "url": "https://open.spotify.com/album/24FScV3CEmE9ERsgAp0EnV"
+      },
+      "artists": [
+        {
+          "name": "Dylan Mulvaney",
+          "url": "https://open.spotify.com/artist/35BvsAD68jFbdwi9OdBcIB"
+        }
+      ],
+      "duration_ms": 178541,
+      "name": "Days of Girlhood",
+      "url": "https://open.spotify.com/track/4DfHQvIAZmSmqcZbuO80sZ"
+    },
+    {
+      "added_at": "2024-03-13 05:00:00",
+      "album": {
+        "name": "Masterpiece",
+        "url": "https://open.spotify.com/album/2Zt0cDgogkqOKvSqAqX3jb"
+      },
+      "artists": [
+        {
+          "name": "Fraser Churchill",
+          "url": "https://open.spotify.com/artist/07Y56gwdkeIu8RZpGy7tSZ"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "Masterpiece",
+      "url": "https://open.spotify.com/track/0882GzD9srKQG4CvIWWbWo"
+    },
+    {
+      "added_at": "2024-03-20 04:00:00",
+      "album": {
+        "name": "Paralyzing",
+        "url": "https://open.spotify.com/album/087YmoDDJelMsC8VuuNrI2"
+      },
+      "artists": [
+        {
+          "name": "Scar",
+          "url": "https://open.spotify.com/artist/3DyUi3wp8COAWvHHd1Qq7H"
+        }
+      ],
+      "duration_ms": 196036,
+      "name": "Paralyzing",
+      "url": "https://open.spotify.com/track/6kryJEIoIaogn0HUUWDbTE"
     },
     {
       "added_at": "2024-03-13 05:00:00",
@@ -55,38 +311,6 @@
       "duration_ms": 199320,
       "name": "Monster",
       "url": "https://open.spotify.com/track/05lzBYcUbeU6z19PQ6FCsu"
-    },
-    {
-      "added_at": "2024-03-13 05:00:00",
-      "album": {
-        "name": "Heartbreak In Heaven",
-        "url": "https://open.spotify.com/album/4SUAVzKxDfY7XcoZ5BPMC3"
-      },
-      "artists": [
-        {
-          "name": "Gabi Sklar",
-          "url": "https://open.spotify.com/artist/72K82D7yyKc8TZ45IZvPrj"
-        }
-      ],
-      "duration_ms": 141368,
-      "name": "Heartbreak In Heaven",
-      "url": "https://open.spotify.com/track/3i3I7HyCJ3UxdJTY5LTaWs"
-    },
-    {
-      "added_at": "2024-03-13 05:00:00",
-      "album": {
-        "name": "Masterpiece",
-        "url": "https://open.spotify.com/album/2Zt0cDgogkqOKvSqAqX3jb"
-      },
-      "artists": [
-        {
-          "name": "Fraser Churchill",
-          "url": "https://open.spotify.com/artist/07Y56gwdkeIu8RZpGy7tSZ"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "Masterpiece",
-      "url": "https://open.spotify.com/track/0882GzD9srKQG4CvIWWbWo"
     },
     {
       "added_at": "2024-03-13 05:00:00",
@@ -607,22 +831,6 @@
     {
       "added_at": "2024-02-28 05:00:00",
       "album": {
-        "name": "Automatic",
-        "url": "https://open.spotify.com/album/5eApGsISMBKROb2gICEUiT"
-      },
-      "artists": [
-        {
-          "name": "Babymorocco",
-          "url": "https://open.spotify.com/artist/6EyzBjjCPBP7s5W8d3wMOe"
-        }
-      ],
-      "duration_ms": 201141,
-      "name": "Automatic",
-      "url": "https://open.spotify.com/track/7DKhGCTA1lGdZCLrsnJVr9"
-    },
-    {
-      "added_at": "2024-02-28 05:00:00",
-      "album": {
         "name": "Ride",
         "url": "https://open.spotify.com/album/2OxorM1EAEHLLOFbsZFREo"
       },
@@ -787,22 +995,6 @@
       "duration_ms": 153000,
       "name": "middle child",
       "url": "https://open.spotify.com/track/6gGxkaI0FRgEAxjOPEd9ow"
-    },
-    {
-      "added_at": "2024-01-24 05:00:00",
-      "album": {
-        "name": "Love Is BS",
-        "url": "https://open.spotify.com/album/3EyAKObwJrfTJLr5UFg5wc"
-      },
-      "artists": [
-        {
-          "name": "Lala Sadii",
-          "url": "https://open.spotify.com/artist/1ge7ixcFwe6ch8HZbs0UHt"
-        }
-      ],
-      "duration_ms": 192800,
-      "name": "Love Is BS",
-      "url": "https://open.spotify.com/track/3zKKxP2qqSJ5ynJS5oaJeZ"
     },
     {
       "added_at": "2024-02-21 05:00:00",
@@ -1129,22 +1321,6 @@
       "url": "https://open.spotify.com/track/3BZrc6J8hFLzl2qX6l7NZN"
     },
     {
-      "added_at": "2024-02-07 05:00:00",
-      "album": {
-        "name": "I'm Trying",
-        "url": "https://open.spotify.com/album/5KnD1N7X7C354kUSpgPmEO"
-      },
-      "artists": [
-        {
-          "name": "M\u00f6rmaid",
-          "url": "https://open.spotify.com/artist/2JIx9WZoZX8BE9yJW560x5"
-        }
-      ],
-      "duration_ms": 282661,
-      "name": "I'm Trying",
-      "url": "https://open.spotify.com/track/2oAEkesjJB7QtX9GjdmEil"
-    },
-    {
       "added_at": "2024-01-31 05:00:00",
       "album": {
         "name": "eat me alive",
@@ -1179,22 +1355,6 @@
       "duration_ms": 196045,
       "name": "Everything's Fine",
       "url": "https://open.spotify.com/track/1vvRNNSTZ9XuTBFqHY0eDu"
-    },
-    {
-      "added_at": "2024-02-07 05:00:00",
-      "album": {
-        "name": "Venom",
-        "url": "https://open.spotify.com/album/4kbbT0b2ORMOulej4sdUON"
-      },
-      "artists": [
-        {
-          "name": "Emily Mei",
-          "url": "https://open.spotify.com/artist/3PPvyQnDRHIwwzCWwONgRk"
-        }
-      ],
-      "duration_ms": 147387,
-      "name": "Venom",
-      "url": "https://open.spotify.com/track/2pJBg4Qxgj7Rl7y4HPGTUw"
     },
     {
       "added_at": "2024-01-25 05:07:27",
@@ -1325,22 +1485,6 @@
       "url": "https://open.spotify.com/track/1sqqlPRqM3DcRt26g5a5G0"
     },
     {
-      "added_at": "2024-01-24 05:00:00",
-      "album": {
-        "name": "28th of Never",
-        "url": "https://open.spotify.com/album/621Z1UmndfFKPU4TAKWUY3"
-      },
-      "artists": [
-        {
-          "name": "Gia Lily",
-          "url": "https://open.spotify.com/artist/5d7p9yDO6NSYQVbI9YNcHB"
-        }
-      ],
-      "duration_ms": 164693,
-      "name": "28th of Never",
-      "url": "https://open.spotify.com/track/1P6LlkBx9B5ArbsQvr0855"
-    },
-    {
       "added_at": "2024-01-25 05:07:27",
       "album": {
         "name": "Eulogize",
@@ -1355,38 +1499,6 @@
       "duration_ms": 218031,
       "name": "Cigarette",
       "url": "https://open.spotify.com/track/2ddFi6kHdtkFtO5Z8gNILu"
-    },
-    {
-      "added_at": "2024-01-24 05:00:00",
-      "album": {
-        "name": "When Does a Rumor Become Gospel",
-        "url": "https://open.spotify.com/album/02f2KUp6rSY1zhOirxsFdO"
-      },
-      "artists": [
-        {
-          "name": "Hannah Storm",
-          "url": "https://open.spotify.com/artist/5wUnpBAfC90M9OSMO7umpL"
-        }
-      ],
-      "duration_ms": 216766,
-      "name": "When Does a Rumor Become Gospel",
-      "url": "https://open.spotify.com/track/6NkX6zw5a7Mu0hcd35IUzF"
-    },
-    {
-      "added_at": "2024-01-17 05:00:00",
-      "album": {
-        "name": "Lose Her",
-        "url": "https://open.spotify.com/album/316orttce8f1LBwKgJCOou"
-      },
-      "artists": [
-        {
-          "name": "Sadie Fine",
-          "url": "https://open.spotify.com/artist/2DZXPZaYfPQy9ojosxzJCc"
-        }
-      ],
-      "duration_ms": 170515,
-      "name": "Lose Her",
-      "url": "https://open.spotify.com/track/3I4QH84TrFPE7Z53He9rg0"
     },
     {
       "added_at": "2024-01-24 05:00:00",
@@ -1407,22 +1519,6 @@
     {
       "added_at": "2024-01-24 05:00:00",
       "album": {
-        "name": "Doing Well",
-        "url": "https://open.spotify.com/album/5DZTs9t1ri0hytANHzEqw3"
-      },
-      "artists": [
-        {
-          "name": "Natalie Shay",
-          "url": "https://open.spotify.com/artist/6pDapjUwN36LXMdYk0WKuQ"
-        }
-      ],
-      "duration_ms": 184220,
-      "name": "Doing Well",
-      "url": "https://open.spotify.com/track/1zxIL4vzGNKJWwQLgdfWGN"
-    },
-    {
-      "added_at": "2024-01-24 05:00:00",
-      "album": {
         "name": "Blame It On You",
         "url": "https://open.spotify.com/album/3iCfKKQ8KW8aicP8zadJMd"
       },
@@ -1435,22 +1531,6 @@
       "duration_ms": 203125,
       "name": "Blame It On You",
       "url": "https://open.spotify.com/track/3zaKVvx1nm5wiEBVBdMpM7"
-    },
-    {
-      "added_at": "2024-01-17 05:00:00",
-      "album": {
-        "name": "THAT SPECIAL",
-        "url": "https://open.spotify.com/album/5aDR7vuZ9D4dyNB2ZcyMO4"
-      },
-      "artists": [
-        {
-          "name": "Joe Serafini",
-          "url": "https://open.spotify.com/artist/6fu9TecMw6TInkRRyXObeu"
-        }
-      ],
-      "duration_ms": 189248,
-      "name": "THAT SPECIAL",
-      "url": "https://open.spotify.com/track/4TXwvLk1pBzh5yPeeGprvX"
     },
     {
       "added_at": "2024-01-17 05:00:00",
@@ -1487,38 +1567,6 @@
     {
       "added_at": "2024-01-17 05:00:00",
       "album": {
-        "name": "White Noise",
-        "url": "https://open.spotify.com/album/6RhMCr9w9IjeGcrx5Yyg3Z"
-      },
-      "artists": [
-        {
-          "name": "Lauren Presley",
-          "url": "https://open.spotify.com/artist/2MtAIOQOd55jnPFR6JXFiN"
-        }
-      ],
-      "duration_ms": 166012,
-      "name": "White Noise",
-      "url": "https://open.spotify.com/track/7xfqWNMdzDdllLB0rkjIY3"
-    },
-    {
-      "added_at": "2024-01-17 05:00:00",
-      "album": {
-        "name": "January",
-        "url": "https://open.spotify.com/album/0vNZoAG5hlc9wWLnWnk57M"
-      },
-      "artists": [
-        {
-          "name": "Noah Malcolm",
-          "url": "https://open.spotify.com/artist/7GGTQaTSEbVV5in5GvcP9q"
-        }
-      ],
-      "duration_ms": 185110,
-      "name": "January",
-      "url": "https://open.spotify.com/track/2HIck8Nnc4SONgz5vb0tge"
-    },
-    {
-      "added_at": "2024-01-17 05:00:00",
-      "album": {
         "name": "dead to me",
         "url": "https://open.spotify.com/album/0oZYgcrHbMQ3V0Ge9SowII"
       },
@@ -1547,54 +1595,6 @@
       "duration_ms": 137827,
       "name": "God Invented The Radio",
       "url": "https://open.spotify.com/track/3uxywHpCVUxrc7EyySg6mY"
-    },
-    {
-      "added_at": "2024-01-10 05:00:00",
-      "album": {
-        "name": "here lies what could've been",
-        "url": "https://open.spotify.com/album/3zVrlJirpuPmf41auiBCpt"
-      },
-      "artists": [
-        {
-          "name": "Maxwell Luke",
-          "url": "https://open.spotify.com/artist/1LzbpVQTKYhHewqsn5DCnX"
-        }
-      ],
-      "duration_ms": 221298,
-      "name": "here lies what could've been",
-      "url": "https://open.spotify.com/track/1PI3oda9wcNZOEYokQxhds"
-    },
-    {
-      "added_at": "2024-01-10 05:00:00",
-      "album": {
-        "name": "Locked Up Never Fade",
-        "url": "https://open.spotify.com/album/54vZ2lPCS9hCzSERgIG3z8"
-      },
-      "artists": [
-        {
-          "name": "Lucy Gaffney",
-          "url": "https://open.spotify.com/artist/1dWfI2kDIBAxs8OxI5GUVQ"
-        }
-      ],
-      "duration_ms": 324447,
-      "name": "Locked Up Never Fade",
-      "url": "https://open.spotify.com/track/30DYH6JwOhWdGwrQfU2U55"
-    },
-    {
-      "added_at": "2024-01-10 05:00:00",
-      "album": {
-        "name": "Lost Cowboy",
-        "url": "https://open.spotify.com/album/0nxWcWScVWslL2btGpM5qm"
-      },
-      "artists": [
-        {
-          "name": "Elle Coves",
-          "url": "https://open.spotify.com/artist/3Hey7RF0bxnjPP8IEXmPRa"
-        }
-      ],
-      "duration_ms": 156090,
-      "name": "Lost Cowboy",
-      "url": "https://open.spotify.com/track/3tY2XzxCwgL1hBVuqlvGSw"
     },
     {
       "added_at": "2024-01-10 05:00:00",

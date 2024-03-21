@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvGEj20FfCp.md) - [plain]
 
 > Sounds that inspired the designers of <a href="https://lagosfashionweek.ng/">Lagos Fashion Week 2023.</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,005 likes - 47 songs - 3 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,010 likes - 47 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvGEj20FfCp.md) - [plain]
 | 7 | [PLACES](https://open.spotify.com/track/3eSmjY0PxxTlX6UxRDKaul) | [The Blaze](https://open.spotify.com/artist/1Dt1UKLtrJIW1xxRBejjos) | [DANCEHALL](https://open.spotify.com/album/4Ekdf8v7lFV5c3zIdtpyjY) | 3:34 |
 | 8 | [I Knew I Loved You](https://open.spotify.com/track/68K0qD0VDqdm0eWXsGqnvM) | [Savage Garden](https://open.spotify.com/artist/3NRFinRTEqUCfaTTZmk8ek) | [Truly Madly Completely \- The Best of Savage Garden](https://open.spotify.com/album/5S4ycMpNlcTpLaO7u6mkkb) | 4:11 |
 | 9 | [Nali](https://open.spotify.com/track/74SCDpCqEMUqO7CjyW0ERu) | [Afrika](https://open.spotify.com/artist/0xPyImeLHwFXo3bieyc6oa) | [Song Of The Tribal Spirit](https://open.spotify.com/album/5uq2D7DHFnGNDarIXlwLFE) | 5:16 |
-| 10 | [Tears Of Africa](https://open.spotify.com/track/5otfjlQ6XN8R4iClD5kmjb) | [Echo Deep](https://open.spotify.com/artist/3oQxXy7RkKmUAoo0sftSLU) | [Tears Of Africa](https://open.spotify.com/album/0DfTdhAVgcAWldmOmk0d0R) | 9:52 |
+| 10 | [Tears Of Africa](https://open.spotify.com/track/5jBEMc0GY8sDkmLH70y7KG) | [Echo Deep](https://open.spotify.com/artist/3oQxXy7RkKmUAoo0sftSLU) | [Tears Of Africa](https://open.spotify.com/album/5f2ozn0eMxuyHDNjWudqi5) | 9:52 |
 | 11 | [Ali](https://open.spotify.com/track/6YNtzyH36eSrpG1zcOFYlV) | [Mustafa](https://open.spotify.com/artist/1zkKkDDra0jlsiJYz57P3P) | [Ali](https://open.spotify.com/album/7M4L7JqkFP4NFiVft8oin7) | 3:12 |
 | 12 | [Give A Little Kindness \- Choir Version](https://open.spotify.com/track/7zbnY9B2B5aebswxrTfG13) | [Lloyiso](https://open.spotify.com/artist/3CrKgAMSBXsnTugbUqpu6g), [Edenglen High School](https://open.spotify.com/artist/6FLPKxhLmxFuAL18W9RJqd) | [Give A Little Kindness \(Choir Version\)](https://open.spotify.com/album/6zbZUCTSUKDATtmc3nHmIw) | 4:12 |
 | 13 | [Dump All Your Worries on the Dance Floor](https://open.spotify.com/track/4WXYOKcqr4OTiUpIrcX7RV) | [SGaWD](https://open.spotify.com/artist/4ufHiOJK9tL0y3QfNwGJ6l) | [Dump All Your Worries on the Dance Floor](https://open.spotify.com/album/0Jcwe17QFJrA8Yny6hJxy4) | 2:37 |
@@ -56,4 +56,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvGEj20FfCp.md) - [plain]
 | 46 | [WATU](https://open.spotify.com/track/6sL8aTVG9XSHU4r9nL9yq6) | [Just a Band](https://open.spotify.com/artist/0udvEwi0yqxRFUnv5x0VJA) | [WATU](https://open.spotify.com/album/4as7NXKH74TSNB1YrVRtXf) | 2:54 |
 | 47 | [Dance Now \(feat\. Kenny Mason\)](https://open.spotify.com/track/2WrldKXSBVbNNm3A9vJryi) | [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7), [Kenny Mason](https://open.spotify.com/artist/4mwdnO2jZrMmMVrjcHsZBv) | [The Forever Story \(Extended Version\)](https://open.spotify.com/album/4rJDCELWL0fjdmN9Gn4f4g) | 3:47 |
 
-Snapshot ID: `MCw4YzJmNjliZGIyYmMxMjY3ZWVmMGMzYzU5MjA5MTg4Y2JhNDNkNDhk`
+Snapshot ID: `MCxlYTJlYTJjMmE2NDc0NDFhNWEwNzFiNTFjNTgxYjUxNmNjM2ExY2Fk`

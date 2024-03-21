@@ -4,7 +4,7 @@
 
 > Today's top country hits\. Cover: Kacey Musgraves
 
-740 songs - 1 day 16 hr 0 min
+741 songs - 1 day 16 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -147,7 +147,8 @@
 | [Dancin’ In The Country](https://open.spotify.com/track/6Z1bV93BP95h4YjIavrQPf) | [Tyler Hubbard](https://open.spotify.com/artist/3BEV5FcxOtkQJ7lLRKMh3V) | [Dancin' In The Country](https://open.spotify.com/album/5Sb6flBcIYmm5gTGwOVMbn) | 2:59 | 2023-01-27 | 2023-03-25 |
 | [Dates In Pickup Trucks](https://open.spotify.com/track/5U4iPIXYJ5h6H7zJhx6VVF) | [Kassi Ashton](https://open.spotify.com/artist/1LCsAfmP4l13EYtzDaLMAg) | [Dates In Pickup Trucks](https://open.spotify.com/album/6zE2YtMcQHpgK2HQKr86UK) | 2:45 | 2022-06-24 | 2022-09-10 |
 | [Dear Hate \(feat\. Vince Gill\)](https://open.spotify.com/track/7zOoHxDt1duHL8czY7o7ab) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI), [Vince Gill](https://open.spotify.com/artist/3IhWQSrLj8EJjdvjFTpCyo) | [Dear Hate \(feat\. Vince Gill\)](https://open.spotify.com/album/26mCA3BoItiaZyhxmmvPRl) | 3:40 | 2020-06-02 | 2020-06-03 |
-| [Deeper Well](https://open.spotify.com/track/2lJn77IeZAP9cmv6DPXOrL) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Deeper Well](https://open.spotify.com/album/2NXiMKrwmPrqU8epp20pW8) | 3:52 | 2024-02-08 |  |
+| [Deeper Well](https://open.spotify.com/track/2lJn77IeZAP9cmv6DPXOrL) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Deeper Well](https://open.spotify.com/album/2NXiMKrwmPrqU8epp20pW8) | 3:52 | 2024-02-08 | 2024-03-21 |
+| [Deeper Well](https://open.spotify.com/track/333XFHKsHU0pOocFzBgrJi) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Deeper Well](https://open.spotify.com/album/5SxZmGwc4eJuPp6PcO4JgJ) | 3:52 | 2024-03-15 |  |
 | [Devil You Know](https://open.spotify.com/track/6tWGe6nvXFWT0KhGCXM89q) | [Tyler Braden](https://open.spotify.com/artist/63wjVVauFUQ4gBw6QXTT5N) | [Devil You Know](https://open.spotify.com/album/4OWkgV3qaf52HEXYsRSTZM) | 3:12 | 2024-02-23 |  |
 | [Die From A Broken Heart](https://open.spotify.com/track/3DA4SE262k6rdEtlHteNyq) | [Maddie & Tae](https://open.spotify.com/artist/34bhyY8jfKez7uKakMfy4y) | [The Way It Feels](https://open.spotify.com/album/1HixYJpe6AJWGDpEbb7ZuE) | 3:08 | 2020-06-06 | 2020-09-17 |
 | [Different 'Round Here](https://open.spotify.com/track/4l5w5qGInIhwfvpYmPIYdK) | [Riley Green](https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb), [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [Different 'Round Here](https://open.spotify.com/album/1FkgWqBfOH8VaaiG8PRGxX) | 2:54 | 2023-07-28 | 2024-03-16 |

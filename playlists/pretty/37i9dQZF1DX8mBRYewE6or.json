@@ -1,12 +1,12 @@
 {
   "description": "d\u00e1 play que a bagun\u00e7a organizada t\u00e1 liberada ",
-  "num_followers": 1085235,
+  "num_followers": 1085376,
   "original_name": "Sextou",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhYjliN2ZjYjEwZDBjOTVkZmYxZjdiMzM5MjViYjBjNDg4NjUxYmMw",
+  "snapshot_id": "MCwzODY4NDMyODIxOWViMTU5ODZhMzEwYjI1MzNkMjQxNzk2YmNjNWNj",
   "tracks": [
     {
       "added_at": "2024-03-08 19:00:44",
@@ -171,22 +171,6 @@
     {
       "added_at": "2024-03-08 19:00:44",
       "album": {
-        "name": "(It Goes Like) Nanana [Edit]",
-        "url": "https://open.spotify.com/album/2LVDNOUUy2g8517ZEtQIcK"
-      },
-      "artists": [
-        {
-          "name": "Peggy Gou",
-          "url": "https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN"
-        }
-      ],
-      "duration_ms": 231545,
-      "name": "(It Goes Like) Nanana - Edit",
-      "url": "https://open.spotify.com/track/23RoR84KodL5HWvUTneQ1w"
-    },
-    {
-      "added_at": "2024-03-08 19:00:44",
-      "album": {
         "name": "One Kiss (with Dua Lipa)",
         "url": "https://open.spotify.com/album/7GEzhoTiqcPYkOprWQu581"
       },
@@ -203,6 +187,22 @@
       "duration_ms": 214846,
       "name": "One Kiss (with Dua Lipa)",
       "url": "https://open.spotify.com/track/7ef4DlsgrMEH11cDZd32M6"
+    },
+    {
+      "added_at": "2024-03-08 19:00:44",
+      "album": {
+        "name": "(It Goes Like) Nanana [Edit]",
+        "url": "https://open.spotify.com/album/2LVDNOUUy2g8517ZEtQIcK"
+      },
+      "artists": [
+        {
+          "name": "Peggy Gou",
+          "url": "https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN"
+        }
+      ],
+      "duration_ms": 231545,
+      "name": "(It Goes Like) Nanana - Edit",
+      "url": "https://open.spotify.com/track/23RoR84KodL5HWvUTneQ1w"
     },
     {
       "added_at": "2024-03-08 19:00:44",
@@ -335,26 +335,6 @@
     {
       "added_at": "2024-03-08 19:00:44",
       "album": {
-        "name": "Where Are You Now",
-        "url": "https://open.spotify.com/album/5YrOK7zze6egKg9a8WRcnD"
-      },
-      "artists": [
-        {
-          "name": "Lost Frequencies",
-          "url": "https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7"
-        },
-        {
-          "name": "Calum Scott",
-          "url": "https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX"
-        }
-      ],
-      "duration_ms": 148197,
-      "name": "Where Are You Now",
-      "url": "https://open.spotify.com/track/3uUuGVFu1V7jTQL60S1r8z"
-    },
-    {
-      "added_at": "2024-03-08 19:00:44",
-      "album": {
         "name": "Desire (with Sam Smith)",
         "url": "https://open.spotify.com/album/3XDtRvXV5DR1xZfvcneG2C"
       },
@@ -371,6 +351,26 @@
       "duration_ms": 179161,
       "name": "Desire (with Sam Smith)",
       "url": "https://open.spotify.com/track/22dUzMFttcR3uU17NcOAIv"
+    },
+    {
+      "added_at": "2024-03-08 19:00:44",
+      "album": {
+        "name": "Where Are You Now",
+        "url": "https://open.spotify.com/album/5YrOK7zze6egKg9a8WRcnD"
+      },
+      "artists": [
+        {
+          "name": "Lost Frequencies",
+          "url": "https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7"
+        },
+        {
+          "name": "Calum Scott",
+          "url": "https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX"
+        }
+      ],
+      "duration_ms": 148197,
+      "name": "Where Are You Now",
+      "url": "https://open.spotify.com/track/3uUuGVFu1V7jTQL60S1r8z"
     },
     {
       "added_at": "2024-03-08 19:00:44",
@@ -443,26 +443,6 @@
     {
       "added_at": "2024-03-08 19:00:44",
       "album": {
-        "name": "Alone In A Crowd",
-        "url": "https://open.spotify.com/album/0x6KKhlAIZsuU6SVgSX9E9"
-      },
-      "artists": [
-        {
-          "name": "Oliver Tree",
-          "url": "https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe"
-        },
-        {
-          "name": "Robin Schulz",
-          "url": "https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S"
-        }
-      ],
-      "duration_ms": 206000,
-      "name": "Miss You - Bonus Track",
-      "url": "https://open.spotify.com/track/1ypwNj8eK2qAMDEs4EiIIX"
-    },
-    {
-      "added_at": "2024-03-08 19:00:44",
-      "album": {
         "name": "Miracle (with Ellie Goulding)",
         "url": "https://open.spotify.com/album/22UyygZceCIfoE0RhENgKx"
       },
@@ -479,6 +459,26 @@
       "duration_ms": 186496,
       "name": "Miracle (with Ellie Goulding)",
       "url": "https://open.spotify.com/track/5eTaQYBE1yrActixMAeLcZ"
+    },
+    {
+      "added_at": "2024-03-08 19:00:44",
+      "album": {
+        "name": "Alone In A Crowd",
+        "url": "https://open.spotify.com/album/0x6KKhlAIZsuU6SVgSX9E9"
+      },
+      "artists": [
+        {
+          "name": "Oliver Tree",
+          "url": "https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe"
+        },
+        {
+          "name": "Robin Schulz",
+          "url": "https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S"
+        }
+      ],
+      "duration_ms": 206000,
+      "name": "Miss You - Bonus Track",
+      "url": "https://open.spotify.com/track/1ypwNj8eK2qAMDEs4EiIIX"
     },
     {
       "added_at": "2024-03-08 19:00:44",
@@ -1439,26 +1439,6 @@
     {
       "added_at": "2024-03-08 19:00:44",
       "album": {
-        "name": "Lionheart (Fearless)",
-        "url": "https://open.spotify.com/album/68U7caniDmdQHifJdnlYFT"
-      },
-      "artists": [
-        {
-          "name": "Joel Corry",
-          "url": "https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp"
-        },
-        {
-          "name": "Tom Grennan",
-          "url": "https://open.spotify.com/artist/5SHxzwjek1Pipl1Yk11UHv"
-        }
-      ],
-      "duration_ms": 186689,
-      "name": "Lionheart (Fearless)",
-      "url": "https://open.spotify.com/track/5vlzH0ps6WDyb158oFTAb3"
-    },
-    {
-      "added_at": "2024-03-08 19:00:44",
-      "album": {
         "name": "TRANSLATION",
         "url": "https://open.spotify.com/album/0uxvuY8Ek2ojzHrWTg2PDc"
       },
@@ -1475,6 +1455,26 @@
       "duration_ms": 222522,
       "name": "GIRL LIKE ME",
       "url": "https://open.spotify.com/track/1zLBsSVxETQOfINOLYvT5m"
+    },
+    {
+      "added_at": "2024-03-08 19:00:44",
+      "album": {
+        "name": "Lionheart (Fearless)",
+        "url": "https://open.spotify.com/album/68U7caniDmdQHifJdnlYFT"
+      },
+      "artists": [
+        {
+          "name": "Joel Corry",
+          "url": "https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp"
+        },
+        {
+          "name": "Tom Grennan",
+          "url": "https://open.spotify.com/artist/5SHxzwjek1Pipl1Yk11UHv"
+        }
+      ],
+      "duration_ms": 186689,
+      "name": "Lionheart (Fearless)",
+      "url": "https://open.spotify.com/track/5vlzH0ps6WDyb158oFTAb3"
     },
     {
       "added_at": "2024-03-08 19:00:44",
@@ -1579,42 +1579,6 @@
     {
       "added_at": "2024-03-08 19:00:44",
       "album": {
-        "name": "Hero",
-        "url": "https://open.spotify.com/album/5jbvicaA8IhNJxOyr4iXtt"
-      },
-      "artists": [
-        {
-          "name": "Alan Walker",
-          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
-        },
-        {
-          "name": "Sasha Alex Sloan",
-          "url": "https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5"
-        }
-      ],
-      "duration_ms": 175271,
-      "name": "Hero",
-      "url": "https://open.spotify.com/track/1rBTBbtkJlSDk78gg8Dw9F"
-    },
-    {
-      "added_at": "2024-03-08 19:00:44",
-      "album": {
-        "name": "Future Nostalgia (The Moonlight Edition)",
-        "url": "https://open.spotify.com/album/0JeyP8r2hBxYIoxXv11XiX"
-      },
-      "artists": [
-        {
-          "name": "Dua Lipa",
-          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
-        }
-      ],
-      "duration_ms": 258004,
-      "name": "Love Again",
-      "url": "https://open.spotify.com/track/5CSKbHjpqborGnlzagyaDo"
-    },
-    {
-      "added_at": "2024-03-08 19:00:44",
-      "album": {
         "name": "Tick Tock (feat. 24kGoldn)",
         "url": "https://open.spotify.com/album/3tuAs968COA2vxKjiLvmxr"
       },
@@ -1635,6 +1599,42 @@
       "duration_ms": 178373,
       "name": "Tick Tock (feat. 24kGoldn)",
       "url": "https://open.spotify.com/track/27u7t9d7ZQoyjsCROHuZJ3"
+    },
+    {
+      "added_at": "2024-03-08 19:00:44",
+      "album": {
+        "name": "Future Nostalgia (The Moonlight Edition)",
+        "url": "https://open.spotify.com/album/0JeyP8r2hBxYIoxXv11XiX"
+      },
+      "artists": [
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        }
+      ],
+      "duration_ms": 258004,
+      "name": "Love Again",
+      "url": "https://open.spotify.com/track/5CSKbHjpqborGnlzagyaDo"
+    },
+    {
+      "added_at": "2024-03-08 19:00:44",
+      "album": {
+        "name": "Hero",
+        "url": "https://open.spotify.com/album/5jbvicaA8IhNJxOyr4iXtt"
+      },
+      "artists": [
+        {
+          "name": "Alan Walker",
+          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
+        },
+        {
+          "name": "Sasha Alex Sloan",
+          "url": "https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5"
+        }
+      ],
+      "duration_ms": 175271,
+      "name": "Hero",
+      "url": "https://open.spotify.com/track/1rBTBbtkJlSDk78gg8Dw9F"
     },
     {
       "added_at": "2024-03-08 19:00:44",

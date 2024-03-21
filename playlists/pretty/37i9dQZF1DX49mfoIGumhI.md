@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX49mfoIGumhI.md) - [plain]
 
 > ¡Vive la salsa de los '80! El Gran Combo de Puerto Rico en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 194,742 likes - 75 songs - 6 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 194,895 likes - 75 songs - 6 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,8 +53,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX49mfoIGumhI.md) - [plain]
 | 43 | [Seda](https://open.spotify.com/track/0nZHEMMycl40jkcaVzKsAF) | [Willie Gonzalez](https://open.spotify.com/artist/2EIZodXJHserIu4pGNfD3Z) | [Grandes Exitos](https://open.spotify.com/album/2FakrUxHjeJKeY0QxX4MGo) | 5:11 |
 | 44 | [No Me Digan Que Es Muy Tarde](https://open.spotify.com/track/5kiRyGmKOdmc2SyD3JqcSI) | [Ismael Miranda](https://open.spotify.com/artist/5S3BxZrK4hYN3fwsw8oumq), [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW) | [Doble Energía](https://open.spotify.com/album/1t9CWp3ykgHF83aO4uYYmU) | 6:52 |
 | 45 | [Mujer](https://open.spotify.com/track/7N2EXSUvmjcJGkuhMHZjrb) | [Frankie Ruiz](https://open.spotify.com/artist/4dLvccxeQIM5u80Ri0u9OV) | [Cantándole al Amor, Vol\. 2](https://open.spotify.com/album/40fzRAKgRPlEcgr1mTWGLH) | 5:20 |
-| 46 | [Anuncio Clasificado / Dámelo](https://open.spotify.com/track/3kqapvD6gg0TlUeqinOX9u) | [Willie Rosario](https://open.spotify.com/artist/24qSVomYxpfAFwzBnKCc8J) | [Viva Rosario](https://open.spotify.com/album/68Gx7E0QgelZ6Uvpo9PWzB) | 5:01 |
-| 47 | [Si Me Dejas Amarte](https://open.spotify.com/track/6WECgPu7PHErTFnehoRSc8) | [Roberto Lugo](https://open.spotify.com/artist/07ORe1OIPJ0bjk4Fs9nQEK) | [Aqui Estoy Yo](https://open.spotify.com/album/0fPICPWeindghNQxlegLQB) | 5:22 |
+| 46 | [Si Me Dejas Amarte](https://open.spotify.com/track/6WECgPu7PHErTFnehoRSc8) | [Roberto Lugo](https://open.spotify.com/artist/07ORe1OIPJ0bjk4Fs9nQEK) | [Aqui Estoy Yo](https://open.spotify.com/album/0fPICPWeindghNQxlegLQB) | 5:22 |
+| 47 | [Anuncio Clasificado / Dámelo](https://open.spotify.com/track/3kqapvD6gg0TlUeqinOX9u) | [Willie Rosario](https://open.spotify.com/artist/24qSVomYxpfAFwzBnKCc8J) | [Viva Rosario](https://open.spotify.com/album/68Gx7E0QgelZ6Uvpo9PWzB) | 5:01 |
 | 48 | [Dejame Sentirte](https://open.spotify.com/track/2gvdq6VGIb2iRBsHij1t5Q) | [Gilberto Santa Rosa](https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1) | [De Amor y Salsa](https://open.spotify.com/album/021o25wvfikSTFTS43DRrc) | 5:32 |
 | 49 | [Así Es la Vida](https://open.spotify.com/track/7sxCk2tplxW6yEVlguvgET) | [Luis Enrique](https://open.spotify.com/artist/2mUI4K6csTQd3jieswcmiI) | [Coleccion de Oro](https://open.spotify.com/album/6eK3n2MpVdKqhIOnH9BCe5) | 4:41 |
 | 50 | [Por Retenerte](https://open.spotify.com/track/3Zlp3GGVJwQxpNmUy7TBxS) | [Los Titanes](https://open.spotify.com/artist/4dboOLuCgBpq31GG6xov2S) | [Grandes Exitos de Salsa](https://open.spotify.com/album/5YrlCDihTCk8ubcTapuc8E) | 4:51 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX49mfoIGumhI.md) - [plain]
 | 74 | [Esa Mujer](https://open.spotify.com/track/3BFivPjhgVT1UQcqHMzv3Y) | [Alex León](https://open.spotify.com/artist/5u37PLxDgRiMbVE9Aq3LBG) | [Éxitos de Alex León](https://open.spotify.com/album/1IGREUlvpcv8dKVpcLYEBt) | 4:45 |
 | 75 | [Máximo Chamorro](https://open.spotify.com/track/4KARXeRqsfk8ZbyrRhqKc5) | [Lalo Rodriguez](https://open.spotify.com/artist/5LmwELEKyxDFxrbZzR8K4U) | [Simplemente..\. Lalo](https://open.spotify.com/album/02BFzeqsPhtq8r9mEdrl2E) | 7:38 |
 
-Snapshot ID: `MCwxZTY1ZmVjZDgyZjMyNmJmMzExNTk5NjIzYWViYTAwNjBlYjJkMzQ3`
+Snapshot ID: `MCw0NDhlZDVlODQzZDY1MDgwYmRmMjU5OWMwNGRkYzJlNjc4YTY5OGQz`

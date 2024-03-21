@@ -1,12 +1,12 @@
 {
   "description": "Fresh Latin pop on the rise. Cover: Joaquina",
-  "num_followers": 284124,
+  "num_followers": 284143,
   "original_name": "el nuevo pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmMzU5ODdhZTM0YzFkYWFkMzVlYmMzNmQwNzczMzIxNDg5OTg4Zjdi",
+  "snapshot_id": "MCw4OGRhZjFmNTMyYjYyODljYTA5MzA4YTgzNDAzYTk0ODc3NTFkM2Fm",
   "tracks": [
     {
       "added_at": "2024-03-15 04:00:00",
@@ -735,22 +735,6 @@
     {
       "added_at": "2024-03-15 04:00:00",
       "album": {
-        "name": "POEMA A TUS PROBLEMAS",
-        "url": "https://open.spotify.com/album/65eUZ6WDTDo4ZYI1nqXkz5"
-      },
-      "artists": [
-        {
-          "name": "legallyrxx",
-          "url": "https://open.spotify.com/artist/4CairTbnNW5l8GxiRIzsZ3"
-        }
-      ],
-      "duration_ms": 209857,
-      "name": "POEMA A TUS PROBLEMAS",
-      "url": "https://open.spotify.com/track/2lgB7CCdCU77vCfGOjr96u"
-    },
-    {
-      "added_at": "2024-03-15 04:00:00",
-      "album": {
         "name": "el afortunado",
         "url": "https://open.spotify.com/album/2zrZBkIysHuJUkzYDQ9Lx2"
       },
@@ -779,6 +763,38 @@
       "duration_ms": 173206,
       "name": "Pensando en Ti",
       "url": "https://open.spotify.com/track/56oRryxhnnkwWbARsyBuaM"
+    },
+    {
+      "added_at": "2024-03-15 04:00:00",
+      "album": {
+        "name": "POEMA A TUS PROBLEMAS",
+        "url": "https://open.spotify.com/album/65eUZ6WDTDo4ZYI1nqXkz5"
+      },
+      "artists": [
+        {
+          "name": "legallyrxx",
+          "url": "https://open.spotify.com/artist/4CairTbnNW5l8GxiRIzsZ3"
+        }
+      ],
+      "duration_ms": 209857,
+      "name": "POEMA A TUS PROBLEMAS",
+      "url": "https://open.spotify.com/track/2lgB7CCdCU77vCfGOjr96u"
+    },
+    {
+      "added_at": "2024-03-15 04:00:00",
+      "album": {
+        "name": "Lejos De Mis Ojos",
+        "url": "https://open.spotify.com/album/4j14bzS5YpWDsmGdbPV4un"
+      },
+      "artists": [
+        {
+          "name": "Juan Duque",
+          "url": "https://open.spotify.com/artist/49ggXUsjVHl7BwwaiPUCn6"
+        }
+      ],
+      "duration_ms": 176360,
+      "name": "Lejos De Mis Ojos",
+      "url": "https://open.spotify.com/track/1ZIKWQ97kDMhu28IyhEtVU"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -835,22 +851,6 @@
     {
       "added_at": "2024-03-15 04:00:00",
       "album": {
-        "name": "fuimos amigos",
-        "url": "https://open.spotify.com/album/0BUtNIpF14nZatEGITDsXr"
-      },
-      "artists": [
-        {
-          "name": "mafalda cardenal",
-          "url": "https://open.spotify.com/artist/1AsstJ8Cf7uQX92weRmZRz"
-        }
-      ],
-      "duration_ms": 168750,
-      "name": "fuimos amigos",
-      "url": "https://open.spotify.com/track/52T4reGBKaHkDkTNt9YEGo"
-    },
-    {
-      "added_at": "2024-03-15 04:00:00",
-      "album": {
         "name": "El Disfraz",
         "url": "https://open.spotify.com/album/2MTpCSuWzi4Lfv2gBU0Wkb"
       },
@@ -867,18 +867,18 @@
     {
       "added_at": "2024-03-15 04:00:00",
       "album": {
-        "name": "Lejos De Mis Ojos",
-        "url": "https://open.spotify.com/album/4j14bzS5YpWDsmGdbPV4un"
+        "name": "fuimos amigos",
+        "url": "https://open.spotify.com/album/0BUtNIpF14nZatEGITDsXr"
       },
       "artists": [
         {
-          "name": "Juan Duque",
-          "url": "https://open.spotify.com/artist/49ggXUsjVHl7BwwaiPUCn6"
+          "name": "mafalda cardenal",
+          "url": "https://open.spotify.com/artist/1AsstJ8Cf7uQX92weRmZRz"
         }
       ],
-      "duration_ms": 176360,
-      "name": "Lejos De Mis Ojos",
-      "url": "https://open.spotify.com/track/1ZIKWQ97kDMhu28IyhEtVU"
+      "duration_ms": 168750,
+      "name": "fuimos amigos",
+      "url": "https://open.spotify.com/track/52T4reGBKaHkDkTNt9YEGo"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -915,22 +915,6 @@
     {
       "added_at": "2024-03-15 04:00:00",
       "album": {
-        "name": "Cositas Sucias",
-        "url": "https://open.spotify.com/album/4ByfJ3lfQLg8TTklHTewbj"
-      },
-      "artists": [
-        {
-          "name": "Mariah Angeliq",
-          "url": "https://open.spotify.com/artist/0KKUc4amZyvswV2YL6WTar"
-        }
-      ],
-      "duration_ms": 141226,
-      "name": "Cositas Sucias",
-      "url": "https://open.spotify.com/track/5OkBhZHRMKGpoFTc5WXw50"
-    },
-    {
-      "added_at": "2024-03-15 04:00:00",
-      "album": {
         "name": "TATAMI",
         "url": "https://open.spotify.com/album/7CVVmmdVjJmGXMAzmyUuzD"
       },
@@ -943,6 +927,22 @@
       "duration_ms": 140250,
       "name": "TATAMI",
       "url": "https://open.spotify.com/track/01Xw9FgZhR4JLYtUFDhoAu"
+    },
+    {
+      "added_at": "2024-03-15 04:00:00",
+      "album": {
+        "name": "Cositas Sucias",
+        "url": "https://open.spotify.com/album/4ByfJ3lfQLg8TTklHTewbj"
+      },
+      "artists": [
+        {
+          "name": "Mariah Angeliq",
+          "url": "https://open.spotify.com/artist/0KKUc4amZyvswV2YL6WTar"
+        }
+      ],
+      "duration_ms": 141226,
+      "name": "Cositas Sucias",
+      "url": "https://open.spotify.com/track/5OkBhZHRMKGpoFTc5WXw50"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -1051,6 +1051,22 @@
     {
       "added_at": "2024-03-15 04:00:00",
       "album": {
+        "name": "COLIBR\u00cd",
+        "url": "https://open.spotify.com/album/7vt8WLdwLRU2dEfuoa0hBZ"
+      },
+      "artists": [
+        {
+          "name": "Paula Cendejas",
+          "url": "https://open.spotify.com/artist/4EiI7Vls0NB16jLuexzCHC"
+        }
+      ],
+      "duration_ms": 235451,
+      "name": "COLIBR\u00cd",
+      "url": "https://open.spotify.com/track/0mTeZ4upWbQrf66p3iAxkg"
+    },
+    {
+      "added_at": "2024-03-15 04:00:00",
+      "album": {
         "name": "La Dosis",
         "url": "https://open.spotify.com/album/6REG6XsOTiPC2c7h7LfWVq"
       },
@@ -1067,22 +1083,6 @@
       "duration_ms": 175282,
       "name": "La Dosis",
       "url": "https://open.spotify.com/track/1whTkcaiWWR8HqWpgiN7XD"
-    },
-    {
-      "added_at": "2024-03-15 04:00:00",
-      "album": {
-        "name": "COLIBR\u00cd",
-        "url": "https://open.spotify.com/album/7vt8WLdwLRU2dEfuoa0hBZ"
-      },
-      "artists": [
-        {
-          "name": "Paula Cendejas",
-          "url": "https://open.spotify.com/artist/4EiI7Vls0NB16jLuexzCHC"
-        }
-      ],
-      "duration_ms": 235451,
-      "name": "COLIBR\u00cd",
-      "url": "https://open.spotify.com/track/0mTeZ4upWbQrf66p3iAxkg"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -1223,6 +1223,22 @@
     {
       "added_at": "2024-03-15 04:00:00",
       "album": {
+        "name": "Inevitable",
+        "url": "https://open.spotify.com/album/2c8xgsmbLIgMm1x6lLKBd4"
+      },
+      "artists": [
+        {
+          "name": "GALE",
+          "url": "https://open.spotify.com/artist/04pH6pkJugHJ7g3DTCQBVM"
+        }
+      ],
+      "duration_ms": 188405,
+      "name": "Inevitable",
+      "url": "https://open.spotify.com/track/4DyVhH4VtUcl42sNJgp0wr"
+    },
+    {
+      "added_at": "2024-03-15 04:00:00",
+      "album": {
         "name": "ESO VA",
         "url": "https://open.spotify.com/album/7G6P1cBAHQqFP3ljX8d27w"
       },
@@ -1239,22 +1255,6 @@
       "duration_ms": 166736,
       "name": "ESO VA",
       "url": "https://open.spotify.com/track/3OJHqWUIF06coILsONNcJ4"
-    },
-    {
-      "added_at": "2024-03-15 04:00:00",
-      "album": {
-        "name": "Inevitable",
-        "url": "https://open.spotify.com/album/2c8xgsmbLIgMm1x6lLKBd4"
-      },
-      "artists": [
-        {
-          "name": "GALE",
-          "url": "https://open.spotify.com/artist/04pH6pkJugHJ7g3DTCQBVM"
-        }
-      ],
-      "duration_ms": 188405,
-      "name": "Inevitable",
-      "url": "https://open.spotify.com/track/4DyVhH4VtUcl42sNJgp0wr"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -1291,34 +1291,34 @@
     {
       "added_at": "2024-03-15 04:00:00",
       "album": {
-        "name": "Argumentos",
-        "url": "https://open.spotify.com/album/7E6Cd1yNTMWHTvGTieyb7v"
+        "name": "SOLA",
+        "url": "https://open.spotify.com/album/4jM7PAcZUqdVhRoke8bF1N"
       },
       "artists": [
         {
-          "name": "Darho",
-          "url": "https://open.spotify.com/artist/3Vzymy9i8OqVAbiCbAXCWq"
+          "name": "Chita",
+          "url": "https://open.spotify.com/artist/7ejyCwT1b7MIwHVCVO8HjX"
         }
       ],
-      "duration_ms": 211844,
-      "name": "Argumentos",
-      "url": "https://open.spotify.com/track/3oyze75R0o1QvMJMdVK2K9"
+      "duration_ms": 191818,
+      "name": "Sola",
+      "url": "https://open.spotify.com/track/7y5ZyLfcBa5oYhP8jZwUcz"
     },
     {
       "added_at": "2024-03-15 04:00:00",
       "album": {
-        "name": "26 (ni tarde ni temprano)",
-        "url": "https://open.spotify.com/album/7fhRpgRxxa7FUZWQXpRitl"
+        "name": "aguardiente",
+        "url": "https://open.spotify.com/album/3TIihrZYBfGRrfsEcGz6Ch"
       },
       "artists": [
         {
-          "name": "Nicole Zignago",
-          "url": "https://open.spotify.com/artist/1SflmlTg1rQ6pTBQ1CbWEP"
+          "name": "Miranda del Sol",
+          "url": "https://open.spotify.com/artist/45PFKsor6a9cExACotnBs7"
         }
       ],
-      "duration_ms": 203149,
-      "name": "26 - ni tarde ni temprano",
-      "url": "https://open.spotify.com/track/6ClF0j9hpvx0PcNBbiUZT9"
+      "duration_ms": 171279,
+      "name": "aguardiente",
+      "url": "https://open.spotify.com/track/45Es57L177QwhVZ06hwvCd"
     }
   ],
   "unique_name": "el nuevo pop",

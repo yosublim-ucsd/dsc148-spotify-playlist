@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTAZ0XePuYqW.md) - [plain]
 
 > That's that big energy\. Cover: Stefflon Don
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,326 likes - 90 songs - 4 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,398 likes - 90 songs - 4 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTAZ0XePuYqW.md) - [plain]
 | 89 | [Jersey](https://open.spotify.com/track/0bzAIaIHmILyOOiP0nQGMj) | [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4) | [Jersey](https://open.spotify.com/album/38S4qMNg1di0obDNZaq8Ma) | 2:51 |
 | 90 | [Tour](https://open.spotify.com/track/1Jj1sgeQ71UoGgetecz7mT) | [Ruger](https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H) | [RU The World](https://open.spotify.com/album/676QN3uS7pzWA0Or87JTcN) | 2:52 |
 
-Snapshot ID: `MCw4OTQyMjY4NzdmOTRiMTdlYjEwMjY4YjUxNzg0YzUyM2JiNjEyNTQ1`
+Snapshot ID: `MCwxNzcyOTg5Zjc0NmU3OTFiZDJkMzRjMGI4NjM5NzdhN2I5ZmI1Yzlm`

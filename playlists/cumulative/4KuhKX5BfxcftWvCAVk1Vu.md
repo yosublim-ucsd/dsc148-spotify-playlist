@@ -4,7 +4,7 @@
 
 > I love my girlfriend
 
-62 songs - 3 hr 25 min
+65 songs - 3 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,6 +26,7 @@
 | [Everyone Adores You \(at least I do\)](https://open.spotify.com/track/6klFWv2xDGeTDoiKTtx4hg) | [Matt Maltese](https://open.spotify.com/artist/12j6dJrPXanCBwY599pZxf) | [Good Morning It's Now Tomorrow](https://open.spotify.com/album/4eyBviSES0CZjUaipdnHku) | 3:23 | 2024-01-20 |  |
 | [Everywhere, Everything](https://open.spotify.com/track/32iNr3J93tqFkxaMYwdRYi) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Stick Season](https://open.spotify.com/album/50ZenUP4O2Q5eCy2NRNvuz) | 4:17 | 2023-12-05 |  |
 | [Girl Crush \- Recorded at Metropolis Studios, London](https://open.spotify.com/track/4YutJsNwBBInE8vemufpQ8) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Spotify Singles](https://open.spotify.com/album/7neiWgd56IO7vi2cRUP8Tj) | 4:03 | 2024-01-20 |  |
+| [Give It All to Me](https://open.spotify.com/track/4f1MOhX1eEls7hVsEEPKIO) | [Black Pool](https://open.spotify.com/artist/4lglBegCfNnjzAqs9DBQXm) | [Here for Now](https://open.spotify.com/album/48SqeF1Cfirl9st6jO5Yck) | 4:26 | 2024-03-20 |  |
 | [Glue Song \(feat\. Clairo\)](https://open.spotify.com/track/0tMMPZEt6Gyrl9FI8zSicm) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB), [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Glue Song \(feat\. Clairo\)](https://open.spotify.com/album/6iyBE8qGDt42MyBvtPNuMk) | 2:15 | 2023-12-05 |  |
 | [Golden Hour](https://open.spotify.com/track/0pMfPzdRiPAoSM9yWF4OcT) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Golden Hour](https://open.spotify.com/album/7f6xPqyaolTiziKf5R5Z0c) | 3:18 | 2023-12-27 |  |
 | [Here With Me](https://open.spotify.com/track/5LrN7yUQAzvthd4QujgPFr) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Petals to Thorns](https://open.spotify.com/album/3rrrTOHiXGzuW4FP7t0O1A) | 4:02 | 2024-01-20 |  |
@@ -38,6 +39,7 @@
 | [Kingston](https://open.spotify.com/track/5WbfFTuIldjL9x7W6y5l7R) | [Faye Webster](https://open.spotify.com/artist/5szilpXHcwOqnyKLqGco5j) | [Atlanta Millionaires Club](https://open.spotify.com/album/7jXmmQ1gNTXHyTF7uvH4Tn) | 3:22 | 2023-12-27 |  |
 | [Kiss Me](https://open.spotify.com/track/754kgU5rWscRTfvlsuEwFp) | [Sixpence None The Richer](https://open.spotify.com/artist/0lJlKQvuM2Sd9DPPyUXcHg) | [Sixpence None the Richer](https://open.spotify.com/album/0PrcwzkQVEy4y6JPvT5bix) | 3:28 | 2023-12-05 |  |
 | [Like Real People Do](https://open.spotify.com/track/57V4uc2b2diZ4RPHXWecb9) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Hozier \(Expanded Edition\)](https://open.spotify.com/album/4Pv7m8D82A1Xun7xNCKZjJ) | 3:18 | 2023-12-05 |  |
+| [little person](https://open.spotify.com/track/1VrUeEmCs6wGwPkWuEFr09) | [Matt Maltese](https://open.spotify.com/artist/12j6dJrPXanCBwY599pZxf) | [madhouse](https://open.spotify.com/album/3C7TLQLW8cXiDoogT7Hrlj) | 3:21 | 2024-03-20 |  |
 | [Love to Keep Me Warm](https://open.spotify.com/track/3bq7dXN7arTdaq8mmKXxob) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO), [dodie](https://open.spotify.com/artist/21TinSsF5ytwsfdyz5VSVS) | [Love to Keep Me Warm](https://open.spotify.com/album/1yfNBTaCzznm3bLF0QHQmi) | 2:38 | 2023-12-05 |  |
 | [Lovesick](https://open.spotify.com/track/39fD0qvjgk8RarJnoBiDTx) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Bewitched](https://open.spotify.com/album/1rpCHilZQkw84A3Y9czvMO) | 3:45 | 2023-12-27 |  |
 | [Lovesick](https://open.spotify.com/track/4DambPeZPE1blOKXUgAPkc) | [Peace](https://open.spotify.com/artist/2O9XW1nnGRMkMV1wpK8IiS) | [Lovesick](https://open.spotify.com/album/4rXILe1V7XO33x5R8N8O2s) | 2:13 | 2023-12-27 |  |
@@ -54,6 +56,7 @@
 | [Pretty Girl](https://open.spotify.com/track/0KyAGiNGUytG5JLxJu4F6l) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Pretty Girl](https://open.spotify.com/album/3nkwKrSQJ9l84VV8uuymk9) | 2:58 | 2023-12-27 |  |
 | [Real Love Baby](https://open.spotify.com/track/0Z57YWES04xGh3AImDz6Qr) | [Father John Misty](https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT) | [Real Love Baby](https://open.spotify.com/album/75614DWrksimeV4oXUhaYP) | 3:09 | 2024-01-20 |  |
 | [Red Wine Supernova](https://open.spotify.com/track/7FOgcfdz9Nx5V9lCNXdBYv) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [The Rise and Fall of a Midwest Princess](https://open.spotify.com/album/0EiI8ylL0FmWWpgHVTsZjZ) | 3:12 | 2023-12-05 |  |
+| [Sagittarius Superstar](https://open.spotify.com/track/4E3JYij2hnEDDP0Rgwikq6) | [COIN](https://open.spotify.com/artist/0ZxZlO7oWCSYMXhehpyMvE), [Faye Webster](https://open.spotify.com/artist/5szilpXHcwOqnyKLqGco5j) | [Rainbow Mixtape](https://open.spotify.com/album/613bOWrR3cRPNC3fDwhXQL) | 2:53 | 2024-03-20 |  |
 | [Say Yes](https://open.spotify.com/track/4IKMZtDIqyQDA6a4YvsgpK) | [Elliott Smith](https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG) | [Either/Or](https://open.spotify.com/album/5bmpvyP7UGqB4VuXmrJUMy) | 2:19 | 2024-01-20 |  |
 | [Serendipity](https://open.spotify.com/track/5yIuA6g8P4nwWGMzXfhX4a) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Bewitched](https://open.spotify.com/album/1rpCHilZQkw84A3Y9czvMO) | 3:39 | 2023-12-27 |  |
 | [Shoe](https://open.spotify.com/track/37IMOr92pqfixF3XH87YS8) | [Matt Maltese](https://open.spotify.com/artist/12j6dJrPXanCBwY599pZxf) | [Good Morning It's Now Tomorrow](https://open.spotify.com/album/4eyBviSES0CZjUaipdnHku) | 3:37 | 2024-02-17 |  |

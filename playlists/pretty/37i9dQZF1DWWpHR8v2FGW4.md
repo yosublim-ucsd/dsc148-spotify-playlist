@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWpHR8v2FGW4.md) - [plain]
 
 > Always come in 1st place.
 
-[Spotify](https://open.spotify.com/user/spotify) - 285,414 likes - 50 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 285,472 likes - 50 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,9 +22,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWpHR8v2FGW4.md) - [plain]
 | 12 | [Down Low](https://open.spotify.com/track/43Ylq76hnqwdNvbOEbdNBO) | [Gardna](https://open.spotify.com/artist/4thIP9ruwthrnBaBU9Wz8U), [Pola & Bryson](https://open.spotify.com/artist/79PzyYqAyunWsVH4tY4vpr) | [Down Low](https://open.spotify.com/album/03TI13zwgG29Hies8HBbdm) | 2:52 |
 | 13 | [MAKE A MOVE](https://open.spotify.com/track/4rV50yTt1Me3sFhExrScR1) | [REAPER](https://open.spotify.com/artist/24kY0bUku58QhWv5WFFXaf) | [DISRUPTOR LP](https://open.spotify.com/album/1UXLEXcUYHLNouwidskiMa) | 3:46 |
 | 14 | [SUB ZERO](https://open.spotify.com/track/72VyFG8WRK6CeV3ToXccOm) | [Just A Gent](https://open.spotify.com/artist/1kwGj7uDO5WXVXtQLvGJr0) | [AUTOPILOT](https://open.spotify.com/album/72LShUJi8Na0lmTzni1O6c) | 3:14 |
-| 15 | [LIFT YOU UP](https://open.spotify.com/track/2BRLxNhZT3HEKRINTCDBcm) | [BLVCK CROWZ](https://open.spotify.com/artist/6uotnBX5ysB2Y2FIE6FbPg), [Eskei83](https://open.spotify.com/artist/2mwfx4gHhYVlrKjhEM5Q3R) | [LIFT YOU UP](https://open.spotify.com/album/4fkJqKBzqdWEZ7tE0rhXKp) | 3:01 |
-| 16 | [Forever](https://open.spotify.com/track/0gKtM9aX5GGo1Kg0Zrwb8b) | [Jend](https://open.spotify.com/artist/56WlN4e9YbaEI8KdXaFgTN) | [Forever](https://open.spotify.com/album/6r4rwrTK0YafCqrtlk2tyl) | 2:38 |
-| 17 | [Behemoth](https://open.spotify.com/track/6ZVgnqRsYGRwSYrdmUGkF8) | [Simula](https://open.spotify.com/artist/2KCmoJZgpL6hNFdT4l9PTl) | [Behemoth](https://open.spotify.com/album/03I61jwYEx4Uymzs4iAZio) | 4:28 |
+| 15 | [Behemoth](https://open.spotify.com/track/6ZVgnqRsYGRwSYrdmUGkF8) | [Simula](https://open.spotify.com/artist/2KCmoJZgpL6hNFdT4l9PTl) | [Behemoth](https://open.spotify.com/album/03I61jwYEx4Uymzs4iAZio) | 4:28 |
+| 16 | [LIFT YOU UP](https://open.spotify.com/track/2BRLxNhZT3HEKRINTCDBcm) | [BLVCK CROWZ](https://open.spotify.com/artist/6uotnBX5ysB2Y2FIE6FbPg), [Eskei83](https://open.spotify.com/artist/2mwfx4gHhYVlrKjhEM5Q3R) | [LIFT YOU UP](https://open.spotify.com/album/4fkJqKBzqdWEZ7tE0rhXKp) | 3:01 |
+| 17 | [Forever](https://open.spotify.com/track/0gKtM9aX5GGo1Kg0Zrwb8b) | [Jend](https://open.spotify.com/artist/56WlN4e9YbaEI8KdXaFgTN) | [Forever](https://open.spotify.com/album/6r4rwrTK0YafCqrtlk2tyl) | 2:38 |
 | 18 | [Dreamstate](https://open.spotify.com/track/4WOYAnPBe0qqlgcVAPLCd8) | [Ephixa](https://open.spotify.com/artist/7xYcJfhrRx9Iv8smhoEibc) | [Dreamstate](https://open.spotify.com/album/3GSBcowmQxTWGiBOc4zJwh) | 3:18 |
 | 19 | [Children](https://open.spotify.com/track/1K6gyNdEjiap8P5IBELG6t) | [Rameses B](https://open.spotify.com/artist/06EfEcjc0vdvI6VNL0soIO) | [Children](https://open.spotify.com/album/3VHyFwqhGMqx4BlQ3fmchL) | 3:24 |
 | 20 | [Fearless](https://open.spotify.com/track/7pDUFFF3J4WEu1aZMW4M4b) | [Guapdad 4000](https://open.spotify.com/artist/0NcPKaSNIHAM2RfioH9vMT), [Valentino Khan](https://open.spotify.com/artist/0deIjoDjl9g9Zpw0sCIOHh) | [Fearless](https://open.spotify.com/album/2foovL6UaCvp5QR72qdm72) | 2:20 |
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWpHR8v2FGW4.md) - [plain]
 | 33 | [Feel Alive](https://open.spotify.com/track/28kPohGGsDT7hbOZVhpB8j) | [Slippy](https://open.spotify.com/artist/3gxGPuGK6DOpv7XVp8V6jG), [SOUNDR](https://open.spotify.com/artist/0YnlfML5Nu6DrpCshXMH0X) | [Lone / Feel Alive](https://open.spotify.com/album/0frTSsh3FnxkCVF4NcNANG) | 3:18 |
 | 34 | [Take You Down](https://open.spotify.com/track/4bJpdznQXEeRE1xrn69nMU) | [Fox Stevenson](https://open.spotify.com/artist/2BQWHuvxG4kMYnfghdaCIy) | [Take You Down / Melange](https://open.spotify.com/album/0cBF66VT43qWDEKFQ7qjOq) | 3:43 |
 | 35 | [Vex](https://open.spotify.com/track/5EYmCZ7F6sA7fVhNhkAMf1) | [Bensley](https://open.spotify.com/artist/3SfEKS85dj9v75ROsWJSiL) | [Vex](https://open.spotify.com/album/76zmqdpTOItu1E4PXhgCML) | 3:55 |
-| 36 | [Voices](https://open.spotify.com/track/3vYK1bhhuFglF2ucREX4jO) | [Bossfight](https://open.spotify.com/artist/1fILrc9B34DjHxSMkJmyBN), [Philip Strand](https://open.spotify.com/artist/1hII0FUxBvpT7bnuS7TQ6q) | [Voices](https://open.spotify.com/album/1zktHQjfwzgp9x4krbKtJt) | 4:09 |
-| 37 | [Cyclone](https://open.spotify.com/track/6iQwh5BYsrqdjaQVzz5iAE) | [Montee](https://open.spotify.com/artist/2rgFqpsqtoEJGOr0JzFxtG), [Kyrill](https://open.spotify.com/artist/5e5rUBxDpavATXOiXbaoQK) | [Cyclone](https://open.spotify.com/album/4LERF7il6VDwrBWkVZLjIJ) | 3:06 |
+| 36 | [Cyclone](https://open.spotify.com/track/6iQwh5BYsrqdjaQVzz5iAE) | [Montee](https://open.spotify.com/artist/2rgFqpsqtoEJGOr0JzFxtG), [Kyrill](https://open.spotify.com/artist/5e5rUBxDpavATXOiXbaoQK) | [Cyclone](https://open.spotify.com/album/4LERF7il6VDwrBWkVZLjIJ) | 3:06 |
+| 37 | [Voices](https://open.spotify.com/track/3vYK1bhhuFglF2ucREX4jO) | [Bossfight](https://open.spotify.com/artist/1fILrc9B34DjHxSMkJmyBN), [Philip Strand](https://open.spotify.com/artist/1hII0FUxBvpT7bnuS7TQ6q) | [Voices](https://open.spotify.com/album/1zktHQjfwzgp9x4krbKtJt) | 4:09 |
 | 38 | [Let's Roll](https://open.spotify.com/track/35lF14PODtapsReNYnN6D9) | [Ephixa](https://open.spotify.com/artist/7xYcJfhrRx9Iv8smhoEibc), [Going Quantum](https://open.spotify.com/artist/14XqctcPu0lzQjrUZ06Tsn) | [Let's Roll](https://open.spotify.com/album/6NF7Hsl2Z64odMfXKMHLpY) | 3:49 |
 | 39 | [Close To Hell](https://open.spotify.com/track/6tSa72Ivd9ltEV9qJsQTfw) | [KUURO](https://open.spotify.com/artist/5mVWu2Ofpm2mlEpuMm3b4Q), [Goja](https://open.spotify.com/artist/2Gy4HwdmVmRPWDBQO3lw3d) | [Close To Hell](https://open.spotify.com/album/5L0lzeDFIl1qMSO4T0sZBC) | 3:18 |
 | 40 | [Real](https://open.spotify.com/track/10ln7FMO9lBbSBR5P2btE7) | [Ark Patrol](https://open.spotify.com/artist/3zaxUd86U92CdZkNa6NUo9) | [Real](https://open.spotify.com/album/6TMNSDP3qAOI8Vz9SgPK9p) | 4:46 |
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWpHR8v2FGW4.md) - [plain]
 | 47 | [Not Enough](https://open.spotify.com/track/1dEud4LT7T7Yd7KMpo8Qz2) | [Near x Far](https://open.spotify.com/artist/3jHNFPilH4sebvSIGwdSmG) | [Not Enough](https://open.spotify.com/album/7Gy36oXepehl2yyRmhBsSb) | 3:40 |
 | 48 | [Breathe](https://open.spotify.com/track/1oCOMCGDh82F6ATxiocSeD) | [Blanke](https://open.spotify.com/artist/59Yq0xrABEihHANsfo9QMT), [ÆON:MODE](https://open.spotify.com/artist/41ouHqoKXNijIMFsQTmFQV) | [Breathe](https://open.spotify.com/album/1LuvYKCEpDQc0QszleXPIH) | 4:08 |
 | 49 | [I don't give a Fuck](https://open.spotify.com/track/7dicq7Osp4mJvqRRFg4EOY) | [Butch U](https://open.spotify.com/artist/6OwRAMGY105QbVOJqNHk0o), [NICESKEIK](https://open.spotify.com/artist/4yP08tX8zhyAQLFZDLLA6D) | [I don't give a Fuck](https://open.spotify.com/album/3qC18tclXE1DFHzQKqTRAM) | 2:17 |
-| 50 | [Wait](https://open.spotify.com/track/7Fdw5PCKFHkHJAhhDIj0qA) | [NEUNOSIEM](https://open.spotify.com/artist/4DStul0QS1lt65yVW1wDbQ) | [Wait](https://open.spotify.com/album/31NKlTHMrNqj1doFeGp09f) | 2:59 |
+| 50 | [Can't Get Enough](https://open.spotify.com/track/1B2qo30ncWnpQ1i0Ze097V) | [Lee Mvtthews](https://open.spotify.com/artist/2rf0ufpy1NIUGmEHqq27GC), [Ella Monnery](https://open.spotify.com/artist/1FD0AA37DenDFODrf9zovI) | [Exit](https://open.spotify.com/album/0a7MXviIpVxVePjVl5Rf6J) | 4:30 |
 
-Snapshot ID: `MCxkMTVjNjNhZTU5NDM1N2Q2MzYyMWNmYzY3ZDc3Zjc4MTc5NGYyNGE0`
+Snapshot ID: `MCxlYzEzMjQwZWI4MDY3NjU5YTAxNTA1NmM2NThmYmNjNzg2OGIzNDE2`

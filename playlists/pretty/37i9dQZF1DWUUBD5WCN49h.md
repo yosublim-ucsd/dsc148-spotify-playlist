@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUUBD5WCN49h.md) - [plain]
 
 > New and emerging R&B, afropop and Alternative tracks\. Cover: Aramide
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,501 likes - 80 songs - 3 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,510 likes - 80 songs - 3 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUUBD5WCN49h.md) - [plain]
 | 79 | [Proverbs 31 Woman](https://open.spotify.com/track/4fi5eKXzsVMDo5lSxqWx6X) | [Nuelzo](https://open.spotify.com/artist/6CPuXxiR9CqQ0d2irmAlnR), [LAMB CULTURE.](https://open.spotify.com/artist/7ekDyLis0zh78DffR8wjW9) | [Proverbs 31 Woman](https://open.spotify.com/album/4ZFXhqhJQ01oYZiMk8pC63) | 2:47 |
 | 80 | [Gangster Romance](https://open.spotify.com/track/4rJ7jJ9TZaS42ASNf6k0ye) | [AdeJosh](https://open.spotify.com/artist/7vI5Bl979W5P8zRgkdZQ7k) | [Gangster Romance](https://open.spotify.com/album/3rsGvKezmxbyZrDUJsnsX7) | 2:34 |
 
-Snapshot ID: `MCxkNDFmOTYwN2RiYzA0ODc4NGQ3ODI3YmY0YzBhNDlhZDhmYWM1YTVk`
+Snapshot ID: `MCwxYmJkODNkZTAyZDY5MTFkZGE4NGRjYzEzNWM2YmRjYWRhYjY1NzQ5`

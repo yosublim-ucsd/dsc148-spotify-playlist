@@ -2258,7 +2258,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-21",
       "duration_ms": 163013,
       "name": "Another Vibe (feat. Omah Lay)",
       "url": "https://open.spotify.com/track/1sNQMj0Dq0UHrryEQqP4OY"
@@ -4292,6 +4292,24 @@
       "duration_ms": 155044,
       "name": "Biko Biko",
       "url": "https://open.spotify.com/track/27Rd0DBpY6UVBBbU06Etyb"
+    },
+    {
+      "album": {
+        "name": "Black Friday",
+        "url": "https://open.spotify.com/album/0OTRd577BEHU8WNfrJ24aB"
+      },
+      "artists": [
+        {
+          "name": "Tom Odell",
+          "url": "https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX"
+        }
+      ],
+      "date_added": "2024-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221510,
+      "name": "Black Friday",
+      "url": "https://open.spotify.com/track/0uvagCBJC0ClsR11W10T0Y"
     },
     {
       "album": {
@@ -10770,7 +10788,7 @@
       ],
       "date_added": "2024-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-21",
       "duration_ms": 160000,
       "name": "ETA (feat. Luciano)",
       "url": "https://open.spotify.com/track/422qTU33m36TliSm27uONY"
@@ -14720,7 +14738,7 @@
       ],
       "date_added": "2022-06-15",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-12",
+      "date_removed": null,
       "duration_ms": 148485,
       "name": "I Ain't Worried",
       "url": "https://open.spotify.com/track/4h9wh7iOZ0GGn8QVp4RAOB"
@@ -16028,7 +16046,7 @@
       ],
       "date_added": "2024-02-11",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-19",
+      "date_removed": null,
       "duration_ms": 143669,
       "name": "Is It Love",
       "url": "https://open.spotify.com/track/5JEzgajKcC4eIQfRu3cZk7"
@@ -17400,7 +17418,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-21",
       "duration_ms": 168620,
       "name": "LAISSE MOI",
       "url": "https://open.spotify.com/track/2ImdwbujxKFxN1UxEvf2dD"
@@ -24146,7 +24164,7 @@
       ],
       "date_added": "2024-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-21",
       "duration_ms": 208190,
       "name": "PENNY",
       "url": "https://open.spotify.com/track/1VKMKD8wUSJMljezV7NjsO"
@@ -25258,7 +25276,7 @@
       ],
       "date_added": "2024-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-21",
       "duration_ms": 208405,
       "name": "Pyramide",
       "url": "https://open.spotify.com/track/0y79GClHejq2TTQLaYFLUT"
@@ -29582,7 +29600,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-15",
+      "date_removed": null,
       "duration_ms": 182346,
       "name": "Stick Season",
       "url": "https://open.spotify.com/track/0mflMxspEfB0VbI1kyLiAv"
@@ -31420,6 +31438,28 @@
       "duration_ms": 351220,
       "name": "The Remorse",
       "url": "https://open.spotify.com/track/1cCXT1cErAY6tmIqHbodrt"
+    },
+    {
+      "album": {
+        "name": "The Sound of Silence (CYRIL Remix)",
+        "url": "https://open.spotify.com/album/2aj8dhy2wfAtzBwh0bYuQc"
+      },
+      "artists": [
+        {
+          "name": "Disturbed",
+          "url": "https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa"
+        },
+        {
+          "name": "CYRIL",
+          "url": "https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom"
+        }
+      ],
+      "date_added": "2024-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185238,
+      "name": "The Sound of Silence - CYRIL Remix",
+      "url": "https://open.spotify.com/track/32aeRhnsILUPSbPiH5x62t"
     },
     {
       "album": {

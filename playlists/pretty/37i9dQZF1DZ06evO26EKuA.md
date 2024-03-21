@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO26EKuA.md) - [plain]
 
 > This is Valentín Elizalde\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 416,087 likes - 50 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 416,168 likes - 50 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO26EKuA.md) - [plain]
 | 21 | [La Suavecita](https://open.spotify.com/track/2hHIB7iJW9Pj7sDNqZ2S3g) | [Valentín Elizalde](https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA) | [17 Exitos en Honor a Mi Padre](https://open.spotify.com/album/2BzMoa1U74hHKVgLlzKVoU) | 3:15 |
 | 22 | [Porque Te Extraño](https://open.spotify.com/track/15HZrq9yh0fDrI3RIsmwBe) | [Valentín Elizalde](https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA) | [Lobo Domesticado](https://open.spotify.com/album/3zLqP9HFFRT6uEI0kOLuNP) | 3:26 |
 | 23 | [Amor Prisionero \- En Vivo Desde Delfos, Guadalajara/2002](https://open.spotify.com/track/5XhsSUVmOHvPIrGn7safdH) | [Valentín Elizalde](https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA) | [Valentin Elizalde En Vivo](https://open.spotify.com/album/59xpl8GLkPx7p6cuEVrZ8L) | 2:41 |
-| 24 | [Para Que Olvidar](https://open.spotify.com/track/3hxkmCgl3XdDfWkyRfjkWh) | [Valentín Elizalde](https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA) | [Vencedor](https://open.spotify.com/album/4cPRux21b3M1X668qR5lZ3) | 3:13 |
-| 25 | [Tengo Ganas](https://open.spotify.com/track/3v8d12Ogo5N2ucwReogiSq) | [Valentín Elizalde](https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA) | [Homenaje A Una Vida Vol 1](https://open.spotify.com/album/4c2ZYYDwVqpfShY6IJGoFi) | 2:46 |
+| 24 | [Tengo Ganas](https://open.spotify.com/track/3v8d12Ogo5N2ucwReogiSq) | [Valentín Elizalde](https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA) | [Homenaje A Una Vida Vol 1](https://open.spotify.com/album/4c2ZYYDwVqpfShY6IJGoFi) | 2:46 |
+| 25 | [Para Que Olvidar](https://open.spotify.com/track/3hxkmCgl3XdDfWkyRfjkWh) | [Valentín Elizalde](https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA) | [Vencedor](https://open.spotify.com/album/4cPRux21b3M1X668qR5lZ3) | 3:13 |
 | 26 | [La Tambora Va A Sonar](https://open.spotify.com/track/1cp26SwLH6r7mPFvT4KmDP) | [Valentín Elizalde](https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA), [Los Tucanes De Tijuana](https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK) | [El Vale Por Siempre](https://open.spotify.com/album/52ZgXPa5ge0JIMKKXz42QN) | 2:39 |
 | 27 | [La Gallina Ponedora](https://open.spotify.com/track/7sWpr279lr6tDK5w0js3pC) | [Valentín Elizalde](https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA) | [Soy Así](https://open.spotify.com/album/4SrvbBpwiAJf09kK7EvQsk) | 2:53 |
 | 28 | [La Papa](https://open.spotify.com/track/0vpd52xfWmxpRTZeeQ9gkQ) | [Valentín Elizalde](https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA) | [Corridos Y Algo Mas](https://open.spotify.com/album/27gnrHBeKww4XnaEAV5ifr) | 3:28 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO26EKuA.md) - [plain]
 | 49 | [Amor Que Muere \- En Vivo Desde Delfos, Guadalajara/2002](https://open.spotify.com/track/2NHZp87Eo4QbgSTYwcFAcs) | [Valentín Elizalde](https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA) | [Valentin Elizalde En Vivo](https://open.spotify.com/album/59xpl8GLkPx7p6cuEVrZ8L) | 2:52 |
 | 50 | [Mi Virgencita](https://open.spotify.com/track/2uKWSWKk9Mi7tCFgDg7Tui) | [Valentín Elizalde](https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA) | [Regresan Los Mafiosos](https://open.spotify.com/album/6t1A1wEKK74pqQkS06OTzY) | 2:25 |
 
-Snapshot ID: `Mjg1MTQxOTUsMDAwMDAwMDAzYmQ2ZTQyZmFjYWQ5MzA1NDJmNGZhYWIxOWRmNmJlZQ==`
+Snapshot ID: `Mjg1MTU2NjEsMDAwMDAwMDBmYjgxMTlkMWY2YzRjYTUzMDFlNmFkNDU1NDU3NzZkZA==`

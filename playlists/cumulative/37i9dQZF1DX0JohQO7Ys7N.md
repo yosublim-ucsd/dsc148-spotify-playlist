@@ -4,13 +4,14 @@
 
 > Kickback, Relax to some smooth R&B from The City Under The Sun \- Nairobi\. Cover: Bridget Blue
 
-164 songs - 9 hr 11 min
+166 songs - 9 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [A Little Thing Called Love](https://open.spotify.com/track/1pSMZXj5eSWvvEKwTydZEb) | [Hook](https://open.spotify.com/artist/0d2cvrJfsN0fBd6WuwwlDQ), [Xenia Manasseh](https://open.spotify.com/artist/2J4IvVbi2h1wB2A0p5kd86) | [A Little Thing Called Love](https://open.spotify.com/album/3epe5QY6Cc1Id3iK6U1S3Q) | 2:50 | 2023-01-12 | 2023-10-27 |
 | [Aheri](https://open.spotify.com/track/5vEmN5ml5878eDF1vJI1Uc) | [SERRO](https://open.spotify.com/artist/4r3svQfFw0Ae5GMplY92u9) | [Kuwe](https://open.spotify.com/album/0xV4Zm2IC2b9uNh4r0avUY) | 4:35 | 2021-12-28 | 2023-11-25 |
-| [Aibu](https://open.spotify.com/track/0Jq1RbXxclz844TLHUUi0E) | [Bensoul](https://open.spotify.com/artist/09vo12hHajgG2cZzq0rGmE), [Bien](https://open.spotify.com/artist/2zhossaaVN2pXg5p8o101X) | [Aibu](https://open.spotify.com/album/0Y0he9QG0p0jFWcM9ZahzC) | 2:17 | 2022-02-24 |  |
+| [Aibu](https://open.spotify.com/track/0Jq1RbXxclz844TLHUUi0E) | [Bensoul](https://open.spotify.com/artist/09vo12hHajgG2cZzq0rGmE), [Bien](https://open.spotify.com/artist/2zhossaaVN2pXg5p8o101X) | [Aibu](https://open.spotify.com/album/0Y0he9QG0p0jFWcM9ZahzC) | 2:17 | 2022-02-24 | 2024-03-21 |
+| [Aibu \(feat\. Bien\)](https://open.spotify.com/track/1cBRn1Gp5RbFi4sVDN3v1A) | [Bensoul](https://open.spotify.com/artist/09vo12hHajgG2cZzq0rGmE), [Bien](https://open.spotify.com/artist/2zhossaaVN2pXg5p8o101X) | [Aibu \(feat\. Bien\)](https://open.spotify.com/album/6W4ZbKDYOh7ZPB4KGm5iZ0) | 2:17 | 2024-03-07 |  |
 | [Aki Wewe](https://open.spotify.com/track/2ee6ViIobYyu2rLwiVmNIA) | [Kwame Rígíi](https://open.spotify.com/artist/2YBmXbjqDbsGjTB9vMbuNf) | [Aki Wewe](https://open.spotify.com/album/3zW32TzDG8V20HM7A8NdOO) | 4:27 | 2021-12-28 |  |
 | [All Your Blues](https://open.spotify.com/track/6Ge3IsYVNrekRzc9fiLtlb) | [Altair Saïd](https://open.spotify.com/artist/6QJj1KD71boYPVql87xBGJ) | [Time Allows](https://open.spotify.com/album/5OaWBtvTwoJk01EuaIabeV) | 3:35 | 2023-11-30 |  |
 | [Ambia](https://open.spotify.com/track/5DTLXU7HQ9PhNm6w7l8eZa) | [Billy Black](https://open.spotify.com/artist/6znLUPGYNDVG3VoMH5UXUU) | [Ambia](https://open.spotify.com/album/6Wg6JpSlFn2VdeFFQj5xzn) | 2:16 | 2021-12-28 |  |
@@ -139,7 +140,8 @@
 | [Slowly](https://open.spotify.com/track/2fSLRfuJr2utyjHrbohiWu) | [Ochiko](https://open.spotify.com/artist/33hRHDCTA20GjDaJaCIEXi) | [The Footprint](https://open.spotify.com/album/04ZdDUDZ05hdtUawvudVL4) | 3:37 | 2024-02-15 |  |
 | [small acts of recklessness](https://open.spotify.com/track/2OLsqgoxmmEQTrnwY72LHA) | [Wanja Wohoro](https://open.spotify.com/artist/6x42DjzrK28UZZzKsKGvVE) | [dawa](https://open.spotify.com/album/567zkX4DjYyss366DTflSG) | 3:15 | 2023-02-03 | 2023-09-22 |
 | [Something Is You](https://open.spotify.com/track/1KQfpF8EmbF8oP1YwpwJ0O) | [Billy Black](https://open.spotify.com/artist/6znLUPGYNDVG3VoMH5UXUU) | [Something Is You](https://open.spotify.com/album/6zNhbmvLEE12cGS1c53VL0) | 1:50 | 2023-04-06 |  |
-| [Sorry](https://open.spotify.com/track/4gKQ9XVPxtUx2sGuwSMPso) | [Nviiri The Storyteller](https://open.spotify.com/artist/7xPDTxQrpZPvvI0LzuO73p) | [Sorry](https://open.spotify.com/album/1hKcd4AYQQDRlR9GpLxgaQ) | 3:52 | 2022-02-17 |  |
+| [Sorry](https://open.spotify.com/track/4gKQ9XVPxtUx2sGuwSMPso) | [Nviiri The Storyteller](https://open.spotify.com/artist/7xPDTxQrpZPvvI0LzuO73p) | [Sorry](https://open.spotify.com/album/1hKcd4AYQQDRlR9GpLxgaQ) | 3:52 | 2022-02-17 | 2024-03-21 |
+| [Sorry](https://open.spotify.com/track/5CSH0TMDXX7eTtiwhaq3OY) | [Nviiri The Storyteller](https://open.spotify.com/artist/7xPDTxQrpZPvvI0LzuO73p) | [Sorry](https://open.spotify.com/album/3fkE3ayLgO9KcqxBWWUh5N) | 3:52 | 2024-03-07 |  |
 | [sorry it didn't work out](https://open.spotify.com/track/2C7AVrBA3vu2mg1zBu0pHk) | [Papa](https://open.spotify.com/artist/3yhUYybUxwJn1or7zHXWHy) | [Legacy](https://open.spotify.com/album/1RJZeNA3Awf8RBHPqQ9Cha) | 2:29 | 2022-03-31 | 2023-03-31 |
 | [sorry it didn't work out](https://open.spotify.com/track/4fhWjpuQMX2JelLPLhTm0a) | [Papa](https://open.spotify.com/artist/3yhUYybUxwJn1or7zHXWHy) | [sorry it didn't work out](https://open.spotify.com/album/5BP6SX5xnt4qvitpCBVKJw) | 2:29 | 2022-03-31 | 2022-10-09 |
 | [Suddenly](https://open.spotify.com/track/5RlLYIj0mOs94UuL1U1Klh) | [Audrey Hinya](https://open.spotify.com/artist/6mOSgelMANzkmaQ1Hvh6gG), [King Kanja](https://open.spotify.com/artist/0vr6BtjqBjwDITBNbBP1W5) | [Suddenly](https://open.spotify.com/album/4NkvtR6pq3GVc0OEh6nQey) | 3:47 | 2022-09-30 | 2023-02-24 |

@@ -1,12 +1,12 @@
 {
   "description": "Latin tunes to get your beast mode on!",
-  "num_followers": 187226,
+  "num_followers": 187558,
   "original_name": "Beast Mode Latin",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlODMyZGI2Yzc1Y2NmY2VhYjRlYmMzYzA5MmY4NWRlMjYxMzYwMjQx",
+  "snapshot_id": "MCw0NWE4MDcxYzYxMjUzMjJiOWRhNGNjYTkyOGJmZDFlNzQxOGQ5MTY1",
   "tracks": [
     {
       "added_at": "2024-03-17 23:18:17",
@@ -575,7 +575,7 @@
     {
       "added_at": "2024-03-17 23:18:17",
       "album": {
-        "name": "PERREANDO MACHIN",
+        "name": "PERREANDO MACH\u00ccN",
         "url": "https://open.spotify.com/album/7bbXrhDhcw1lFAzrciXk6M"
       },
       "artists": [
@@ -589,7 +589,7 @@
         }
       ],
       "duration_ms": 150240,
-      "name": "PERREANDO MACHIN",
+      "name": "PERREANDO MACH\u00ccN",
       "url": "https://open.spotify.com/track/71derIcIhs0JN5sDtRGTJj"
     },
     {
@@ -815,6 +815,26 @@
     {
       "added_at": "2024-03-17 23:18:17",
       "album": {
+        "name": "EMPELOTICA",
+        "url": "https://open.spotify.com/album/1Cf5ZIMxdIYC60Cz7Q4GZg"
+      },
+      "artists": [
+        {
+          "name": "Lenny Tav\u00e1rez",
+          "url": "https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd"
+        },
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        }
+      ],
+      "duration_ms": 190322,
+      "name": "EMPELOTICA",
+      "url": "https://open.spotify.com/track/0dKsNKiWmqkoz8YAUzfigC"
+    },
+    {
+      "added_at": "2024-03-17 23:18:17",
+      "album": {
         "name": "ANDO",
         "url": "https://open.spotify.com/album/6UJ9acnNOzxZCq9lv8Mo8D"
       },
@@ -851,42 +871,6 @@
     {
       "added_at": "2024-03-17 23:18:17",
       "album": {
-        "name": "EMPELOTICA",
-        "url": "https://open.spotify.com/album/1Cf5ZIMxdIYC60Cz7Q4GZg"
-      },
-      "artists": [
-        {
-          "name": "Lenny Tav\u00e1rez",
-          "url": "https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd"
-        },
-        {
-          "name": "Feid",
-          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
-        }
-      ],
-      "duration_ms": 190322,
-      "name": "EMPELOTICA",
-      "url": "https://open.spotify.com/track/0dKsNKiWmqkoz8YAUzfigC"
-    },
-    {
-      "added_at": "2024-03-17 23:18:17",
-      "album": {
-        "name": "EVERYBODY GO TO THE DISCOTEK",
-        "url": "https://open.spotify.com/album/11UJfH39O0VqLiQGLW0D0e"
-      },
-      "artists": [
-        {
-          "name": "Darell",
-          "url": "https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf"
-        }
-      ],
-      "duration_ms": 199946,
-      "name": "Lollipop",
-      "url": "https://open.spotify.com/track/3cDyocF0Ibdfs1SFQk5cLZ"
-    },
-    {
-      "added_at": "2024-03-17 23:18:17",
-      "album": {
         "name": "Platonicos",
         "url": "https://open.spotify.com/album/5sEpXan86hEcM8eZSAoWhw"
       },
@@ -907,6 +891,22 @@
       "duration_ms": 219048,
       "name": "La Curiosidad",
       "url": "https://open.spotify.com/track/4HYDUMY0xSpeBr0AMY9cUz"
+    },
+    {
+      "added_at": "2024-03-17 23:18:17",
+      "album": {
+        "name": "EVERYBODY GO TO THE DISCOTEK",
+        "url": "https://open.spotify.com/album/11UJfH39O0VqLiQGLW0D0e"
+      },
+      "artists": [
+        {
+          "name": "Darell",
+          "url": "https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf"
+        }
+      ],
+      "duration_ms": 199946,
+      "name": "Lollipop",
+      "url": "https://open.spotify.com/track/3cDyocF0Ibdfs1SFQk5cLZ"
     },
     {
       "added_at": "2024-03-17 23:18:17",
@@ -999,6 +999,26 @@
     {
       "added_at": "2024-03-17 23:18:17",
       "album": {
+        "name": "ESTRELLA",
+        "url": "https://open.spotify.com/album/0SoJvPHbKVhvmVJOp3kzp3"
+      },
+      "artists": [
+        {
+          "name": "Mora",
+          "url": "https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S"
+        },
+        {
+          "name": "SAIKO",
+          "url": "https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u"
+        }
+      ],
+      "duration_ms": 211879,
+      "name": "REINA",
+      "url": "https://open.spotify.com/track/0QRHOAeU8JRaVVn3UoZBih"
+    },
+    {
+      "added_at": "2024-03-17 23:18:17",
+      "album": {
         "name": "Tacos Gucci",
         "url": "https://open.spotify.com/album/2eKNfDT5uYZ3bB2ATYedD5"
       },
@@ -1039,50 +1059,6 @@
     {
       "added_at": "2024-03-17 23:18:17",
       "album": {
-        "name": "Lollipop (Remix)",
-        "url": "https://open.spotify.com/album/7n9GeVtUUEc619yiyhT9AR"
-      },
-      "artists": [
-        {
-          "name": "Darell",
-          "url": "https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf"
-        },
-        {
-          "name": "Ozuna",
-          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
-        },
-        {
-          "name": "Maluma",
-          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
-        }
-      ],
-      "duration_ms": 266616,
-      "name": "Lollipop - Remix",
-      "url": "https://open.spotify.com/track/1S2WWT5jW9J3MauQ7r7qN4"
-    },
-    {
-      "added_at": "2024-03-17 23:18:17",
-      "album": {
-        "name": "ESTRELLA",
-        "url": "https://open.spotify.com/album/0SoJvPHbKVhvmVJOp3kzp3"
-      },
-      "artists": [
-        {
-          "name": "Mora",
-          "url": "https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S"
-        },
-        {
-          "name": "SAIKO",
-          "url": "https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u"
-        }
-      ],
-      "duration_ms": 211879,
-      "name": "REINA",
-      "url": "https://open.spotify.com/track/0QRHOAeU8JRaVVn3UoZBih"
-    },
-    {
-      "added_at": "2024-03-17 23:18:17",
-      "album": {
         "name": "Cosmo",
         "url": "https://open.spotify.com/album/3nEa7WJXcruywRIZXu6qRE"
       },
@@ -1103,6 +1079,30 @@
       "duration_ms": 206103,
       "name": "Pa Ti Estoy",
       "url": "https://open.spotify.com/track/3j5zNcb0aSk7dx3W3mAKzw"
+    },
+    {
+      "added_at": "2024-03-17 23:18:17",
+      "album": {
+        "name": "Lollipop (Remix)",
+        "url": "https://open.spotify.com/album/7n9GeVtUUEc619yiyhT9AR"
+      },
+      "artists": [
+        {
+          "name": "Darell",
+          "url": "https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf"
+        },
+        {
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        },
+        {
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+        }
+      ],
+      "duration_ms": 266616,
+      "name": "Lollipop - Remix",
+      "url": "https://open.spotify.com/track/1S2WWT5jW9J3MauQ7r7qN4"
     },
     {
       "added_at": "2024-03-17 23:18:17",
@@ -1163,30 +1163,6 @@
     {
       "added_at": "2024-03-17 23:18:17",
       "album": {
-        "name": "NO SON KLLE",
-        "url": "https://open.spotify.com/album/3manJutsZhzlnZe2xMWp7y"
-      },
-      "artists": [
-        {
-          "name": "Santa Fe Klan",
-          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
-        },
-        {
-          "name": "Duki",
-          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
-        },
-        {
-          "name": "Peso Pluma",
-          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
-        }
-      ],
-      "duration_ms": 223586,
-      "name": "NO SON KLLE",
-      "url": "https://open.spotify.com/track/4dUES55SAFKZp4ekMlLHWZ"
-    },
-    {
-      "added_at": "2024-03-17 23:18:17",
-      "album": {
         "name": "Caba\u00f1a",
         "url": "https://open.spotify.com/album/4pB67EzrWH1xI6h7y4DbRT"
       },
@@ -1207,6 +1183,30 @@
       "duration_ms": 178836,
       "name": "Caba\u00f1a",
       "url": "https://open.spotify.com/track/6UR1k5NGqgNGzgVmMtT768"
+    },
+    {
+      "added_at": "2024-03-17 23:18:17",
+      "album": {
+        "name": "NO SON KLLE",
+        "url": "https://open.spotify.com/album/3manJutsZhzlnZe2xMWp7y"
+      },
+      "artists": [
+        {
+          "name": "Santa Fe Klan",
+          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
+        },
+        {
+          "name": "Duki",
+          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
+        },
+        {
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+        }
+      ],
+      "duration_ms": 223586,
+      "name": "NO SON KLLE",
+      "url": "https://open.spotify.com/track/4dUES55SAFKZp4ekMlLHWZ"
     },
     {
       "added_at": "2024-03-17 23:18:17",
@@ -1395,6 +1395,30 @@
     {
       "added_at": "2024-03-17 23:18:17",
       "album": {
+        "name": "B de Bellako",
+        "url": "https://open.spotify.com/album/0ANa1gS3FD0Kmz85rAsJMB"
+      },
+      "artists": [
+        {
+          "name": "El Malilla",
+          "url": "https://open.spotify.com/artist/6BV37tKh6pY97mnNdTCzly"
+        },
+        {
+          "name": "Yeyo",
+          "url": "https://open.spotify.com/artist/5KWQms4jSjzMC3P9cJUP9L"
+        },
+        {
+          "name": "Dj Rockwel Mx",
+          "url": "https://open.spotify.com/artist/2eobLT6bmdvl5yGG5qPAgd"
+        }
+      ],
+      "duration_ms": 188573,
+      "name": "B de Bellako",
+      "url": "https://open.spotify.com/track/2SqUfIOD0VDJirHTVIdn4F"
+    },
+    {
+      "added_at": "2024-03-17 23:18:17",
+      "album": {
         "name": "Otro Show",
         "url": "https://open.spotify.com/album/5KXm7Y71y5UX1KxDLnloGU"
       },
@@ -1419,26 +1443,26 @@
     {
       "added_at": "2024-03-17 23:18:17",
       "album": {
-        "name": "B de Bellako",
-        "url": "https://open.spotify.com/album/0ANa1gS3FD0Kmz85rAsJMB"
+        "name": "Triple S",
+        "url": "https://open.spotify.com/album/2Vum7fnobCUz4Ac6TsZyt4"
       },
       "artists": [
         {
-          "name": "El Malilla",
-          "url": "https://open.spotify.com/artist/6BV37tKh6pY97mnNdTCzly"
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
         },
         {
-          "name": "Yeyo",
-          "url": "https://open.spotify.com/artist/5KWQms4jSjzMC3P9cJUP9L"
+          "name": "Jowell & Randy",
+          "url": "https://open.spotify.com/artist/4IMAo2UQchVFyPH24PAjUs"
         },
         {
-          "name": "Dj Rockwel Mx",
-          "url": "https://open.spotify.com/artist/2eobLT6bmdvl5yGG5qPAgd"
+          "name": "De La Ghetto",
+          "url": "https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb"
         }
       ],
-      "duration_ms": 188573,
-      "name": "B de Bellako",
-      "url": "https://open.spotify.com/track/2SqUfIOD0VDJirHTVIdn4F"
+      "duration_ms": 192746,
+      "name": "Triple S",
+      "url": "https://open.spotify.com/track/57lPefSIAt3ghkfnYFj1B7"
     },
     {
       "added_at": "2024-03-17 23:18:17",
@@ -1475,30 +1499,6 @@
     {
       "added_at": "2024-03-17 23:18:17",
       "album": {
-        "name": "Triple S",
-        "url": "https://open.spotify.com/album/2Vum7fnobCUz4Ac6TsZyt4"
-      },
-      "artists": [
-        {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
-        },
-        {
-          "name": "Jowell & Randy",
-          "url": "https://open.spotify.com/artist/4IMAo2UQchVFyPH24PAjUs"
-        },
-        {
-          "name": "De La Ghetto",
-          "url": "https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb"
-        }
-      ],
-      "duration_ms": 192746,
-      "name": "Triple S",
-      "url": "https://open.spotify.com/track/57lPefSIAt3ghkfnYFj1B7"
-    },
-    {
-      "added_at": "2024-03-17 23:18:17",
-      "album": {
         "name": "LOS MARCIANOS Vol.1: Dei V Version",
         "url": "https://open.spotify.com/album/6G0d1PrCPMXe80Hjyq4D2a"
       },
@@ -1523,26 +1523,6 @@
     {
       "added_at": "2024-03-17 23:18:17",
       "album": {
-        "name": "Sol Mar\u00eda",
-        "url": "https://open.spotify.com/album/2zE9RJSh5sMV0NJ8Oc8k5s"
-      },
-      "artists": [
-        {
-          "name": "Eladio Carrion",
-          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
-        },
-        {
-          "name": "Sech",
-          "url": "https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht"
-        }
-      ],
-      "duration_ms": 209655,
-      "name": "El Malo",
-      "url": "https://open.spotify.com/track/144k7KOL7ZPopw7rTTzzXN"
-    },
-    {
-      "added_at": "2024-03-17 23:18:17",
-      "album": {
         "name": "TU$$I (with Dei V)",
         "url": "https://open.spotify.com/album/6hcobkxdWIAXzj6OYfjlWo"
       },
@@ -1559,6 +1539,26 @@
       "duration_ms": 163200,
       "name": "TU$$I (with Dei V)",
       "url": "https://open.spotify.com/track/5sRLuy3aeAq8MaiZwK92Dn"
+    },
+    {
+      "added_at": "2024-03-17 23:18:17",
+      "album": {
+        "name": "Sol Mar\u00eda",
+        "url": "https://open.spotify.com/album/2zE9RJSh5sMV0NJ8Oc8k5s"
+      },
+      "artists": [
+        {
+          "name": "Eladio Carrion",
+          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
+        },
+        {
+          "name": "Sech",
+          "url": "https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht"
+        }
+      ],
+      "duration_ms": 209655,
+      "name": "El Malo",
+      "url": "https://open.spotify.com/track/144k7KOL7ZPopw7rTTzzXN"
     },
     {
       "added_at": "2024-03-17 23:18:17",
@@ -1843,6 +1843,26 @@
     {
       "added_at": "2024-03-17 23:18:17",
       "album": {
+        "name": "Si La Mami",
+        "url": "https://open.spotify.com/album/79uKrGBtEMy9IhnbH3sM5c"
+      },
+      "artists": [
+        {
+          "name": "El Bogueto",
+          "url": "https://open.spotify.com/artist/3S9Hg7sRKhmtWunFZ2yAYP"
+        },
+        {
+          "name": "Brand Randall",
+          "url": "https://open.spotify.com/artist/76iz3JNOhCYTh7QgjFZkhL"
+        }
+      ],
+      "duration_ms": 176326,
+      "name": "Si La Mami",
+      "url": "https://open.spotify.com/track/3HEsgWS7O1kpNkNMwRA3Kg"
+    },
+    {
+      "added_at": "2024-03-17 23:18:17",
+      "album": {
         "name": "Esc\u00e1ndalo",
         "url": "https://open.spotify.com/album/3OA4b7KyqgX26a6r7XZWE3"
       },
@@ -1915,26 +1935,6 @@
     {
       "added_at": "2024-03-17 23:18:17",
       "album": {
-        "name": "Si La Mami",
-        "url": "https://open.spotify.com/album/79uKrGBtEMy9IhnbH3sM5c"
-      },
-      "artists": [
-        {
-          "name": "El Bogueto",
-          "url": "https://open.spotify.com/artist/3S9Hg7sRKhmtWunFZ2yAYP"
-        },
-        {
-          "name": "Brand Randall",
-          "url": "https://open.spotify.com/artist/76iz3JNOhCYTh7QgjFZkhL"
-        }
-      ],
-      "duration_ms": 176326,
-      "name": "Si La Mami",
-      "url": "https://open.spotify.com/track/3HEsgWS7O1kpNkNMwRA3Kg"
-    },
-    {
-      "added_at": "2024-03-17 23:18:17",
-      "album": {
         "name": "Emociones",
         "url": "https://open.spotify.com/album/0j5oHHGTmEo3CzLt0wYTya"
       },
@@ -1987,82 +1987,6 @@
     {
       "added_at": "2024-03-17 23:18:17",
       "album": {
-        "name": "Y Yo Me Le Pego",
-        "url": "https://open.spotify.com/album/6iCJj6kFxBEoswtbzxxlBu"
-      },
-      "artists": [
-        {
-          "name": "Bellakath",
-          "url": "https://open.spotify.com/artist/4yjm4SvYqC5FFuLbB6TyHr"
-        },
-        {
-          "name": "Profeta Yao Yao",
-          "url": "https://open.spotify.com/artist/4tXFiCOQKSg5avRjHnYJAb"
-        },
-        {
-          "name": "Smi-Lee",
-          "url": "https://open.spotify.com/artist/4kcrrhbTk7KqY1KKeonwKA"
-        }
-      ],
-      "duration_ms": 172806,
-      "name": "Y Yo Me Le Pego",
-      "url": "https://open.spotify.com/track/4PpktF1wMyXtNgADgcdgqT"
-    },
-    {
-      "added_at": "2024-03-17 23:18:17",
-      "album": {
-        "name": "K.D.P. (feat. YOVNGCHIMI)",
-        "url": "https://open.spotify.com/album/42oHMOi2kO849JmYhf9vSl"
-      },
-      "artists": [
-        {
-          "name": "CDobleta",
-          "url": "https://open.spotify.com/artist/2KtMll7bpqySnZhr8wriRE"
-        },
-        {
-          "name": "YOVNGCHIMI",
-          "url": "https://open.spotify.com/artist/4aSlfXDn9R60UlbZEboBUy"
-        }
-      ],
-      "duration_ms": 250700,
-      "name": "K.D.P. (feat. YOVNGCHIMI)",
-      "url": "https://open.spotify.com/track/6woLMre9nBApTlIobN5Py5"
-    },
-    {
-      "added_at": "2024-03-17 23:18:17",
-      "album": {
-        "name": "LUCES DE COLORES",
-        "url": "https://open.spotify.com/album/5BxPeT9YRhCc6jJzk3YHd7"
-      },
-      "artists": [
-        {
-          "name": "Omar Courtz",
-          "url": "https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc"
-        }
-      ],
-      "duration_ms": 216506,
-      "name": "LUCES DE COLORES",
-      "url": "https://open.spotify.com/track/5BTnoMRlpAnyzYY9S9HbIn"
-    },
-    {
-      "added_at": "2024-03-17 23:18:17",
-      "album": {
-        "name": "Sol Mar\u00eda",
-        "url": "https://open.spotify.com/album/2zE9RJSh5sMV0NJ8Oc8k5s"
-      },
-      "artists": [
-        {
-          "name": "Eladio Carrion",
-          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
-        }
-      ],
-      "duration_ms": 106666,
-      "name": "RKO",
-      "url": "https://open.spotify.com/track/4KglpGG1pPLuXmO4lxrIaQ"
-    },
-    {
-      "added_at": "2024-03-17 23:18:17",
-      "album": {
         "name": "Reggaeto\u00f1erito",
         "url": "https://open.spotify.com/album/50V7j3NTDPwAkdTRFbjfJ9"
       },
@@ -2087,62 +2011,122 @@
     {
       "added_at": "2024-03-17 23:18:17",
       "album": {
-        "name": "ENR",
-        "url": "https://open.spotify.com/album/7c3cZS4ScoPCEmtZFIPqLF"
+        "name": "Maquillaje",
+        "url": "https://open.spotify.com/album/0L16XNlcuTsjZutD11ixsz"
       },
       "artists": [
         {
-          "name": "Alex Rose",
-          "url": "https://open.spotify.com/artist/2DspEsT7UXGKd2VaaedgG4"
+          "name": "Renn",
+          "url": "https://open.spotify.com/artist/25HXdVQcRMRgDKWbk5cn0G"
         },
         {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
-        },
-        {
-          "name": "Lenny Tav\u00e1rez",
-          "url": "https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd"
-        },
-        {
-          "name": "Cazzu",
-          "url": "https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y"
-        },
-        {
-          "name": "Lyanno",
-          "url": "https://open.spotify.com/artist/1Ts9of7VPZElwPQnqnDSfW"
+          "name": "Yexel",
+          "url": "https://open.spotify.com/artist/1PeS3QND0gDk8tLtyQg4NL"
         }
       ],
-      "duration_ms": 368453,
-      "name": "Toda - Remix",
-      "url": "https://open.spotify.com/track/5kCoykriGdZhWMlm9vrtQI"
+      "duration_ms": 211969,
+      "name": "Maquillaje",
+      "url": "https://open.spotify.com/track/4eMgCEivrlABjwo0ZiY95d"
     },
     {
       "added_at": "2024-03-17 23:18:17",
       "album": {
-        "name": "Tiki",
-        "url": "https://open.spotify.com/album/1R6aVf9jEtdjtnKSlGiIOd"
+        "name": "Y Yo Me Le Pego",
+        "url": "https://open.spotify.com/album/6iCJj6kFxBEoswtbzxxlBu"
       },
       "artists": [
         {
-          "name": "El Malilla",
-          "url": "https://open.spotify.com/artist/6BV37tKh6pY97mnNdTCzly"
+          "name": "Bellakath",
+          "url": "https://open.spotify.com/artist/4yjm4SvYqC5FFuLbB6TyHr"
         },
         {
-          "name": "Gitana",
-          "url": "https://open.spotify.com/artist/7a3wVpLMG9QlXRJBlZvg6B"
+          "name": "Profeta Yao Yao",
+          "url": "https://open.spotify.com/artist/4tXFiCOQKSg5avRjHnYJAb"
         },
         {
-          "name": "Dj Kiire",
-          "url": "https://open.spotify.com/artist/1jwYIyylx1XF15nbiPtLdu"
-        },
-        {
-          "name": "Dj Rockwel Mx",
-          "url": "https://open.spotify.com/artist/2eobLT6bmdvl5yGG5qPAgd"
+          "name": "Smi-Lee",
+          "url": "https://open.spotify.com/artist/4kcrrhbTk7KqY1KKeonwKA"
         }
       ],
-      "duration_ms": 189613,
-      "name": "Tiki",
-      "url": "https://open.spotify.com/track/5U8rQGmRb9ps9nxHbSsyVy"
+      "duration_ms": 172806,
+      "name": "Y Yo Me Le Pego",
+      "url": "https://open.spotify.com/track/4PpktF1wMyXtNgADgcdgqT"
+    },
+    {
+      "added_at": "2024-03-17 23:18:17",
+      "album": {
+        "name": "Sol Mar\u00eda",
+        "url": "https://open.spotify.com/album/2zE9RJSh5sMV0NJ8Oc8k5s"
+      },
+      "artists": [
+        {
+          "name": "Eladio Carrion",
+          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
+        }
+      ],
+      "duration_ms": 106666,
+      "name": "RKO",
+      "url": "https://open.spotify.com/track/4KglpGG1pPLuXmO4lxrIaQ"
+    },
+    {
+      "added_at": "2024-03-17 23:18:17",
+      "album": {
+        "name": "K.D.P. (feat. YOVNGCHIMI)",
+        "url": "https://open.spotify.com/album/42oHMOi2kO849JmYhf9vSl"
+      },
+      "artists": [
+        {
+          "name": "CDobleta",
+          "url": "https://open.spotify.com/artist/2KtMll7bpqySnZhr8wriRE"
+        },
+        {
+          "name": "YOVNGCHIMI",
+          "url": "https://open.spotify.com/artist/4aSlfXDn9R60UlbZEboBUy"
+        }
+      ],
+      "duration_ms": 250700,
+      "name": "K.D.P. (feat. YOVNGCHIMI)",
+      "url": "https://open.spotify.com/track/6woLMre9nBApTlIobN5Py5"
+    },
+    {
+      "added_at": "2024-03-17 23:18:17",
+      "album": {
+        "name": "DESATAAA",
+        "url": "https://open.spotify.com/album/7Ja7q53ewWXSOGM9MSmted"
+      },
+      "artists": [
+        {
+          "name": "Ovy On The Drums",
+          "url": "https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA"
+        },
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        },
+        {
+          "name": "SAIKO",
+          "url": "https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u"
+        }
+      ],
+      "duration_ms": 197383,
+      "name": "DESATAAA",
+      "url": "https://open.spotify.com/track/2vh03XeMmNRwxiAztk01Pe"
+    },
+    {
+      "added_at": "2024-03-17 23:18:17",
+      "album": {
+        "name": "LUCES DE COLORES",
+        "url": "https://open.spotify.com/album/5BxPeT9YRhCc6jJzk3YHd7"
+      },
+      "artists": [
+        {
+          "name": "Omar Courtz",
+          "url": "https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc"
+        }
+      ],
+      "duration_ms": 216506,
+      "name": "LUCES DE COLORES",
+      "url": "https://open.spotify.com/track/5BTnoMRlpAnyzYY9S9HbIn"
     }
   ],
   "unique_name": "Beast Mode Latin",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3PsJxMtn1AP.md) - [plain]
 
 > A sonic wonderland of mesmerizing tunes...
 
-[Spotify](https://open.spotify.com/user/spotify) - 74,399 likes - 50 songs - 3 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 74,410 likes - 50 songs - 3 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3PsJxMtn1AP.md) - [plain]
 | 47 | [Doll](https://open.spotify.com/track/718j4dLgigKSHiRYiHuhMC) | [Arches](https://open.spotify.com/artist/5ngnmnu2W3UT2C1SEMkIqR) | [Doll](https://open.spotify.com/album/233GhcZaDayKcSfRtx5rW3) | 3:31 |
 | 48 | [Separate Ways \(feat\. The Marías\)](https://open.spotify.com/track/4fwPxcF4rZQIBZr1h6Qd2S) | [Eyedress](https://open.spotify.com/artist/3XxNRirzbjfLdDli06zMaB), [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Separate Ways \(feat\. The Marías\)](https://open.spotify.com/album/0RPUD4sJF4iHT97MKwyyNz) | 3:26 |
 | 49 | [Cholericly Yours](https://open.spotify.com/track/38AYuyUvmoEk4ww4XSVTNI) | [Mayuko](https://open.spotify.com/artist/3QmghTihReRudKflr4UlTe) | [Songs To Whistle When Strolling Along The Abyss](https://open.spotify.com/album/1gAHzOsqvW1jV7lJCCrkle) | 4:12 |
-| 50 | [Lose](https://open.spotify.com/track/729EJVbWkITU4vAc690cFE) | [Boeckner](https://open.spotify.com/artist/1SdWYxZBt4RjvyXcMbtxyE) | [Lose](https://open.spotify.com/album/4ddL8UW6YILIWxd0g185KP) | 4:51 |
+| 50 | [Lose](https://open.spotify.com/track/5fSUc2h13lsyCcGLhzfTED) | [Boeckner](https://open.spotify.com/artist/1SdWYxZBt4RjvyXcMbtxyE) | [Boeckner!](https://open.spotify.com/album/1we8POeAomGmp8hTzGFdaW) | 4:51 |
 
-Snapshot ID: `MCwyMTRjYWY0OTFhMmQ2NjlkZDQ1NTYxYmJjZTIxMDlkMmQyZWYyY2Yw`
+Snapshot ID: `MCxlMzY5ZDhiMTVmYTBiYzZiZDVhMzY0MDE5NTVhZDc5ZjdmOGU2YWNl`

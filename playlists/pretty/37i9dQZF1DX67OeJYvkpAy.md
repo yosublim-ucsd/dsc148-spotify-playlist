@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX67OeJYvkpAy.md) - [plain]
 
 > the best of the deep end\. cover: Prinz
 
-[Spotify](https://open.spotify.com/user/spotify) - 90,280 likes - 100 songs - 4 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 90,282 likes - 100 songs - 4 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX67OeJYvkpAy.md) - [plain]
 | 30 | [Love Letter](https://open.spotify.com/track/6SHx5TR6SqJdGiwi8tlObe) | [Noaah](https://open.spotify.com/artist/3Og0HlgdW9l89ref8rY5DX) | [Love Letter](https://open.spotify.com/album/7mpsV2aW4vyw9OQymNQFOL) | 2:32 |
 | 31 | [Heart On Ice](https://open.spotify.com/track/3D46l95LQ8iND0qzPHoxEf) | [JBEE](https://open.spotify.com/artist/3LIh5lV3zpZkgmO0K6R6bq) | [HBK](https://open.spotify.com/album/1xzgBS9qmcqPsZf4ZbC6tX) | 2:25 |
 | 32 | [Stuck In My Ways](https://open.spotify.com/track/5JzV1vTAr7dLQ2YU6b8GrF) | [L24](https://open.spotify.com/artist/2fXCFQ5jpXd3YJBNEmAkA7) | [Stuck In My Ways](https://open.spotify.com/album/28wWPwJNWOyoVIYcmNJrxl) | 1:51 |
-| 33 | [mate in five](https://open.spotify.com/track/5OmN19NRa8PM9lTO5zaWOZ) | [Joe James](https://open.spotify.com/artist/2CMGIUxJXzUIEGt2jLpM5z) | [Jöetry](https://open.spotify.com/album/3WEc4KMSqyorc1yExBwB5N) | 4:04 |
-| 34 | [SS Interlude](https://open.spotify.com/track/0L0sXaqVYGpvXWcikG6zlk) | [Unknown T](https://open.spotify.com/artist/3iAhNz3e31lBuXYOsqGsf3) | [Rise Above Hate](https://open.spotify.com/album/1ayupZtO3Z583NZ4HNPRmg) | 1:52 |
+| 33 | [SS Interlude](https://open.spotify.com/track/0L0sXaqVYGpvXWcikG6zlk) | [Unknown T](https://open.spotify.com/artist/3iAhNz3e31lBuXYOsqGsf3) | [Rise Above Hate](https://open.spotify.com/album/1ayupZtO3Z583NZ4HNPRmg) | 1:52 |
+| 34 | [mate in five](https://open.spotify.com/track/5OmN19NRa8PM9lTO5zaWOZ) | [Joe James](https://open.spotify.com/artist/2CMGIUxJXzUIEGt2jLpM5z) | [Jöetry](https://open.spotify.com/album/3WEc4KMSqyorc1yExBwB5N) | 4:04 |
 | 35 | [Left Back \- Remix](https://open.spotify.com/track/43IYnqZj6slsFqPTmBNS4E) | [Ronzo](https://open.spotify.com/artist/5i6r27cMI5xAJHs3awxmmd), [COMFY](https://open.spotify.com/artist/5c9aPejSDesU9OyZsdpj28) | [Left Back \(Remix\)](https://open.spotify.com/album/2o0x78MDfVvBaDLhHZ3By8) | 3:00 |
 | 36 | [On My Mind](https://open.spotify.com/track/1eqIZ2Aki8uty86Qy4bk4N) | [Alex1](https://open.spotify.com/artist/0FDzmUEXdafn3kIB3cWrF3) | [On My Mind](https://open.spotify.com/album/2hMB4Uz4vN84A8Za27VX4k) | 1:20 |
 | 37 | [Next Up \- S3\-E47, Pt.1](https://open.spotify.com/track/3TWFT3Z8CXHuPqNmNa1heK) | [Idi Akz](https://open.spotify.com/artist/7cmvUpGGozT8si6UDR0YHf), [Mixtape Madness](https://open.spotify.com/artist/4ocdD0Bi1syVqLs1GiHqQ9) | [Next Up \- S3\-E47](https://open.spotify.com/album/7sJztsK2IXWXzhpqiXSqBA) | 2:21 |
@@ -72,10 +72,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX67OeJYvkpAy.md) - [plain]
 | 62 | [One Mic Freestyle \(S3\-EP1\)](https://open.spotify.com/track/7jE4hIFXIvcVKMRT9mqAIP) | [K1](https://open.spotify.com/artist/5WUPK2bOwlRrSeoC87ygC4) | [One Mic Freestyle \(S3\-EP1\)](https://open.spotify.com/album/2mCtZg2UhnNeHFi4MIQibe) | 2:01 |
 | 63 | [I Love You](https://open.spotify.com/track/7haHJ5kRXm1yeUP5OEqA61) | [Private Zero](https://open.spotify.com/artist/2cxn83GFC9Ye95Ot9Z9dEf), [YSN Fab](https://open.spotify.com/artist/4e7DLHD3L0VvT1ubv5oq0w), [Bully](https://open.spotify.com/artist/29ntaqCLHlZZ4X6KiW7mLm) | [I Love You](https://open.spotify.com/album/6yAjcw3OQin9aBXTDI0k0A) | 3:28 |
 | 64 | [Venting](https://open.spotify.com/track/2a2kgyw5bskOcTEOpQQFQw) | [Kay9ine](https://open.spotify.com/artist/0SJsXjUcebfEVuPf3zQ8QJ), [MiSTah Kye](https://open.spotify.com/artist/06Mk5DnNoZL6Hzmzpfra5M) | [Love, Eternity & Faith](https://open.spotify.com/album/4vc27sJyxvNCRFCVwXAo6a) | 2:40 |
-| 65 | [Scorpio Trait](https://open.spotify.com/track/1s0afz1Dafp3gn8odpXL9t) | [Fabz](https://open.spotify.com/artist/7LXCcM3l2atOFVrLyhQMOW) | [Scorpio Trait](https://open.spotify.com/album/6p8BPSJzlmggZCMWCPovq7) | 4:09 |
-| 66 | [Novacane](https://open.spotify.com/track/3a9ydOZeQaduBvqr6DS58a) | [J4TT](https://open.spotify.com/artist/07b7fDFq0MD93AByJSH8B6) | [Novacane](https://open.spotify.com/album/2S4RILOQgJXWNI1xiFjhUJ) | 3:12 |
+| 65 | [Broken Hearted Crook](https://open.spotify.com/track/1ctqXOZ0hbWiLcxRlT1DTx) | [Lovens](https://open.spotify.com/artist/5cTm9LWB8FJXxdPfnfxc6g) | [Broken Hearted Crook](https://open.spotify.com/album/7b21OHTHyZynzt1ehAyhSF) | 2:48 |
+| 66 | [Scorpio Trait](https://open.spotify.com/track/1s0afz1Dafp3gn8odpXL9t) | [Fabz](https://open.spotify.com/artist/7LXCcM3l2atOFVrLyhQMOW) | [Scorpio Trait](https://open.spotify.com/album/6p8BPSJzlmggZCMWCPovq7) | 4:09 |
 | 67 | [Lies](https://open.spotify.com/track/0DZ2oAxxLtD76a5gxGj92k) | [AMB](https://open.spotify.com/artist/75m92kcvwKBpXtBnqrJiB7) | [Lies](https://open.spotify.com/album/7bI6MVn2einWQk8mvuKdVe) | 3:23 |
-| 68 | [Broken Hearted Crook](https://open.spotify.com/track/1ctqXOZ0hbWiLcxRlT1DTx) | [Lovens](https://open.spotify.com/artist/5cTm9LWB8FJXxdPfnfxc6g) | [Broken Hearted Crook](https://open.spotify.com/album/7b21OHTHyZynzt1ehAyhSF) | 2:48 |
+| 68 | [Novacane](https://open.spotify.com/track/3a9ydOZeQaduBvqr6DS58a) | [J4TT](https://open.spotify.com/artist/07b7fDFq0MD93AByJSH8B6) | [Novacane](https://open.spotify.com/album/2S4RILOQgJXWNI1xiFjhUJ) | 3:12 |
 | 69 | [Toxic Veins](https://open.spotify.com/track/0Z0KbIXUAsMW4pm3tTPjnj) | [K1](https://open.spotify.com/artist/5WUPK2bOwlRrSeoC87ygC4) | [Love Never Dies](https://open.spotify.com/album/7BMBAvfTPih5rtTD9SYcwi) | 3:20 |
 | 70 | [High \(All The Time\)](https://open.spotify.com/track/6dQQEf0syaKQkG3qGUwsU5) | [RhyRab](https://open.spotify.com/artist/4EXmCLyMavmdNi3JTmbvSS) | [High \(All The Time\)](https://open.spotify.com/album/5oEDFjrZMu10f4e7g50UXr) | 2:40 |
 | 71 | [Because I Love You](https://open.spotify.com/track/5cKpTKVbBexwPIDGfx2nej) | [Mic Righteous](https://open.spotify.com/artist/1WWT4mBMw1S2OTXF1HfKoe) | [Suicycle](https://open.spotify.com/album/48nLxoyzjbGKkpYreT7isy) | 6:32 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX67OeJYvkpAy.md) - [plain]
 | 99 | [Who Am I?\(I Dont Know\)](https://open.spotify.com/track/7dZBAEndXGOczb5O3QJWE4) | [Kay9ine](https://open.spotify.com/artist/0SJsXjUcebfEVuPf3zQ8QJ) | [Who Am I?\(I Dont Know\)](https://open.spotify.com/album/2m5EhBsAarjhNd77FAGQch) | 2:42 |
 | 100 | [Angels Fly High](https://open.spotify.com/track/2HKtJCinY7r5wnqXMvtDHW) | [Kay9ine](https://open.spotify.com/artist/0SJsXjUcebfEVuPf3zQ8QJ) | [Angels Fly High](https://open.spotify.com/album/3YB7TrvCwgnepJig20lYhT) | 3:01 |
 
-Snapshot ID: `MCw0YWVlZjdhZTJhYjBkYzhhY2YwZTVhMzA2ZGE1MWYwZGJjYjc1ZTI1`
+Snapshot ID: `MCw5MTQzN2RmMWQ4YWY0NmMwNzkxMDdkMzg1YzBkMzFlMDdkZjVjOTc3`

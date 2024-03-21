@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcu3QLJudo4X.md) - [plain]
 
 > Classic songs from the Blues songbook\. Cover: Muddy Waters.
 
-[Spotify](https://open.spotify.com/user/spotify) - 83,625 likes - 58 songs - 3 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 83,736 likes - 58 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,10 +61,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcu3QLJudo4X.md) - [plain]
 | 51 | [Driftin' Blues](https://open.spotify.com/track/6NjhuVXxEjSsJRqKhVEdFv) | [Bobby "Blue" Bland](https://open.spotify.com/artist/48nwxUvPJZkm8uPa7xMzmj) | [The Anthology](https://open.spotify.com/album/5pXSSHIS0f6WnV9dQa5NwM) | 3:26 |
 | 52 | [I Can't Quit You Baby](https://open.spotify.com/track/56eLEV7mKEetelkzEZBXrE) | [Otis Rush](https://open.spotify.com/artist/1h0hOL3bVcYlg4xcSjU7fP) | [Can't Quit You Baby / Sit Down Baby](https://open.spotify.com/album/60D6KvcknnGhSbh9jCm6dV) | 3:07 |
 | 53 | [\(I Think\) Drowning on Dry Land](https://open.spotify.com/track/4QdQM3OufepusXfhtPL26z) | [Jimmy McGriff](https://open.spotify.com/artist/1A0QR12gcj2L5hYh1WWDeh), [Junior Parker](https://open.spotify.com/artist/6XYy5PbBFvsABSY2ZS6R8u) | [Good Things Don't Happen Every Day](https://open.spotify.com/album/4dJatMxgiZaFlZdRxQnHPE) | 3:03 |
-| 54 | [Kansas City](https://open.spotify.com/track/1I5p5nMwstb6SZNtQXaT7b) | [Hank Ballard](https://open.spotify.com/artist/3R0XvRGDJEL5cGXVLiAbDB) | [Let 'em Roll](https://open.spotify.com/album/6kgA83hCaAet4t4txHNh53) | 2:31 |
-| 55 | [One Night \- Remastered](https://open.spotify.com/track/1FysXGpNQQIf2yhlOoSFfH) | [Smiley Lewis](https://open.spotify.com/artist/01PkggcasHgNtRfgRw51Kk) | [The Big Beat Of Dave Bartholomew: 20 Milestone Dave Bartholomew Productions 1949\-1960](https://open.spotify.com/album/4G6NddtuU6vDjErHhtiMuj) | 2:27 |
+| 54 | [One Night \- Remastered](https://open.spotify.com/track/1FysXGpNQQIf2yhlOoSFfH) | [Smiley Lewis](https://open.spotify.com/artist/01PkggcasHgNtRfgRw51Kk) | [The Big Beat Of Dave Bartholomew: 20 Milestone Dave Bartholomew Productions 1949\-1960](https://open.spotify.com/album/4G6NddtuU6vDjErHhtiMuj) | 2:27 |
+| 55 | [Kansas City](https://open.spotify.com/track/1I5p5nMwstb6SZNtQXaT7b) | [Hank Ballard](https://open.spotify.com/artist/3R0XvRGDJEL5cGXVLiAbDB) | [Let 'em Roll](https://open.spotify.com/album/6kgA83hCaAet4t4txHNh53) | 2:31 |
 | 56 | [Please Send Me Someone To Love](https://open.spotify.com/track/3w6OE7KBUN5WTXIuTt9rmm) | [Percy Mayfield](https://open.spotify.com/artist/4BfUHTiOoOcunsrw4mS2HU) | [Poet Of The Blues](https://open.spotify.com/album/7oD8K0s2rvJ53vjLurRLNf) | 2:53 |
 | 57 | [Ain't Nobody's Business](https://open.spotify.com/track/4aD3d9kzxY8MXAssMQ3c6v) | [Jimmy Whiterspoon](https://open.spotify.com/artist/6Jsv53pu1yK3Q9ZuHcfhsH) | [Presenting Jimmy Whitherspoon](https://open.spotify.com/album/6NVixVUSc6EtmvWzJM8vZf) | 3:38 |
 | 58 | [See See Rider Blues](https://open.spotify.com/track/71foFS0nD6tAZC9BdsVc9G) | [Bea Booze](https://open.spotify.com/artist/47PKMyeVDaFasSwGibmoSk) | [Country Blues 101](https://open.spotify.com/album/0A2ttGOhKCGIVzLXtSgajJ) | 3:09 |
 
-Snapshot ID: `MCxjMTM5NmVjOWMzYzBhMmJlMzU2YjBiMDA1YzkzY2U2YzQ1NTE1MjU5`
+Snapshot ID: `MCwwNTlkODI1YWJlNzQwYTBiNWJkOTNlMGU4OTU2ZDQzYTI1N2JkN2Vj`

@@ -4,7 +4,7 @@
 
 > Country music with a Latin flair\. Cover: Carin Leon & Kane Brown
 
-155 songs - 8 hr 31 min
+156 songs - 8 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -66,7 +66,8 @@
 | [Homesick](https://open.spotify.com/track/7esySixzBv7n9uM259kLeP) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE), [Río Roma](https://open.spotify.com/artist/2O3v9rCTzLhPFaGaAVgZLt) | [Homesick](https://open.spotify.com/album/7BZblgdX1lrGf0sdu0MG3P) | 3:24 | 2021-12-10 |  |
 | [Honky Tonk Education](https://open.spotify.com/track/2e0heBxxDYvsw8MMPhg88z) | [Michael Salgado](https://open.spotify.com/artist/3KIX7sAMvFDFFPYubKRZ5w) | [Honky Tonk Education](https://open.spotify.com/album/3q9oBglyQUUUmzva0mvU5Y) | 3:26 | 2021-12-10 |  |
 | [Honkytonk Bar](https://open.spotify.com/track/5uWUZQEP1TxZM2YYgDe3bu) | [Angie K](https://open.spotify.com/artist/7tk53T02nvDYOvWz5T9qZL) | [Honkytonk Bar](https://open.spotify.com/album/5ZyERoLUgfH0NzVEkzZsvH) | 2:55 | 2022-02-18 | 2022-09-03 |
-| [Hoodie \(feat\. Ollie Joseph\) \- Spanglish](https://open.spotify.com/track/5Yw4ZbzNPr7WINRb9HQvFD) | [Sammy Arriaga](https://open.spotify.com/artist/3FKSNTDo480gbDePzxc3y3), [Ollie Joseph](https://open.spotify.com/artist/6BZKGQf9EnToQ6F7KdMd1m) | [Hoodie \(feat\. Ollie Joseph\) \[Spanglish\]](https://open.spotify.com/album/7IkJnMk5dyQ36OAaogWf0F) | 3:03 | 2021-12-10 |  |
+| [Hoodie \(feat\. Ollie Joseph\) \- Spanglish](https://open.spotify.com/track/5Yw4ZbzNPr7WINRb9HQvFD) | [Sammy Arriaga](https://open.spotify.com/artist/3FKSNTDo480gbDePzxc3y3), [Ollie Joseph](https://open.spotify.com/artist/6BZKGQf9EnToQ6F7KdMd1m) | [Hoodie \(feat\. Ollie Joseph\) \[Spanglish\]](https://open.spotify.com/album/7IkJnMk5dyQ36OAaogWf0F) | 3:03 | 2021-12-10 | 2024-03-21 |
+| [Hoodie \- Spanglish](https://open.spotify.com/track/0Emd9eMZrtIArfS3Uh4xcS) | [Sammy Arriaga](https://open.spotify.com/artist/3FKSNTDo480gbDePzxc3y3), [Ollie Joseph](https://open.spotify.com/artist/6BZKGQf9EnToQ6F7KdMd1m) | [Boots x Beats](https://open.spotify.com/album/7KcPa7EJTnMn3ftNlYK2eP) | 3:03 | 2024-03-01 |  |
 | [How Many Times \(Spanish Version\)](https://open.spotify.com/track/1xIedqGs6MXWZTCTSybZvx) | [Kat & Alex](https://open.spotify.com/artist/6K4y1ejK5kZ0kRdgCv5bRg) | [How Many Times \(Spanish Version\)](https://open.spotify.com/album/02F4XjVwPTIRulJ6VvQR3p) | 3:25 | 2021-12-10 | 2022-07-29 |
 | [How Many Times \- Spanish Version](https://open.spotify.com/track/2yPWdo1Uo15owusJkamkTy) | [Kat & Alex](https://open.spotify.com/artist/6K4y1ejK5kZ0kRdgCv5bRg) | [How Many Times \(Spanish Version\)](https://open.spotify.com/album/3uWvFEAurqos8bEdEkPJRG) | 3:25 | 2022-07-08 |  |
 | [Hoy Te Quiero Ver](https://open.spotify.com/track/6hAXI7z8UtMDEL4B7OHIaA) | [Angie Vazquez](https://open.spotify.com/artist/0iLUxaOduzrvmapRsqxB8s) | [Hoy Te Quiero Ver](https://open.spotify.com/album/7dw571unUolJcPGlAvGAlA) | 3:46 | 2022-08-19 |  |

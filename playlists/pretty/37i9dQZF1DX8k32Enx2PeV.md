@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8k32Enx2PeV.md) - [plain]
 
 > ¡Trópico y vanguardia! Deja que la brisa impulse tu espíritu.
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,774 likes - 75 songs - 4 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,778 likes - 75 songs - 4 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,9 +55,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8k32Enx2PeV.md) - [plain]
 | 45 | [Conectar](https://open.spotify.com/track/4w95fyTD2dawHjWZCnV7Vk) | [Buendia](https://open.spotify.com/artist/4DgmNZDjpk4Zj547a2bfcH), [Juan Pablo Vega](https://open.spotify.com/artist/2PfyKA4qhjkxUVkerTCxz0) | [El Álbum de las Ilusiones](https://open.spotify.com/album/7wTHrCoUQJNtkhQRFreDiW) | 4:21 |
 | 46 | [Cosas del Destino](https://open.spotify.com/track/4scXnDwua2yWqwDzTb3MEE) | [Frank Lucas](https://open.spotify.com/artist/4YWD5LjplBEohow8eVg230), [Irepelusa](https://open.spotify.com/artist/3KaNWDYObY73SDpcZBRzuw) | [Cosas del Destino](https://open.spotify.com/album/3ZmmsX6h0h1RYZFqlAcWy3) | 3:34 |
 | 47 | [Máquina Del Tiempo](https://open.spotify.com/track/20YoweYFRfAUHKIIDleCQF) | [Vale](https://open.spotify.com/artist/22p8vOZwMABvl5qt2nZHWD), [Marco Mares](https://open.spotify.com/artist/5Eg5ZoZgXAa1Eit48sxoKQ) | [Máquina Del Tiempo](https://open.spotify.com/album/5XoNFY7hjKE1aM7u7mVArg) | 3:33 |
-| 48 | [Feliz](https://open.spotify.com/track/2r5B8HCPNO6mKrGKH86Mzd) | [Naty Botero](https://open.spotify.com/artist/4OhwphUKRc02WusKr0n47c) | [Feliz](https://open.spotify.com/album/26MWxdbAKjNgZ68EBd1R3C) | 3:31 |
-| 49 | [Váyanse Todos A Mamá](https://open.spotify.com/track/05r3MeRsOjqOymPj6KDzoC) | [Rawayana](https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2), [Los Amigos Invisibles](https://open.spotify.com/artist/5x3mrCTZmkoTXURN7pWdGN), [Cheo](https://open.spotify.com/artist/2sshGYdyr1ZEl4Np76RRxG) | [Váyanse Todos A Mamá](https://open.spotify.com/album/2wYOAS6qRNW0MVZ6ThpQbC) | 4:59 |
-| 50 | [Quizás \(La Historia de Nosotros\)](https://open.spotify.com/track/3cSwcIKkVTuLIKGzmqgK2A) | [Alex Eugenio](https://open.spotify.com/artist/5zVZavNyXi3uT9ZTeMzYfR) | [Quizás \(La Historia de Nosotros\)](https://open.spotify.com/album/6iS5SVopMVmHe6fXFniSB7) | 3:23 |
+| 48 | [Quizás \(La Historia de Nosotros\)](https://open.spotify.com/track/3cSwcIKkVTuLIKGzmqgK2A) | [Alex Eugenio](https://open.spotify.com/artist/5zVZavNyXi3uT9ZTeMzYfR) | [Quizás \(La Historia de Nosotros\)](https://open.spotify.com/album/6iS5SVopMVmHe6fXFniSB7) | 3:23 |
+| 49 | [Feliz](https://open.spotify.com/track/2r5B8HCPNO6mKrGKH86Mzd) | [Naty Botero](https://open.spotify.com/artist/4OhwphUKRc02WusKr0n47c) | [Feliz](https://open.spotify.com/album/26MWxdbAKjNgZ68EBd1R3C) | 3:31 |
+| 50 | [Váyanse Todos A Mamá](https://open.spotify.com/track/05r3MeRsOjqOymPj6KDzoC) | [Rawayana](https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2), [Los Amigos Invisibles](https://open.spotify.com/artist/5x3mrCTZmkoTXURN7pWdGN), [Cheo](https://open.spotify.com/artist/2sshGYdyr1ZEl4Np76RRxG) | [Váyanse Todos A Mamá](https://open.spotify.com/album/2wYOAS6qRNW0MVZ6ThpQbC) | 4:59 |
 | 51 | [Se Acabó](https://open.spotify.com/track/5VCpCHyZO5LzLGgN4399D4) | [Bomba Estéreo](https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2) | [Aire](https://open.spotify.com/album/3ubY132O5YHYoxn65Vh72T) | 3:41 |
 | 52 | [Fuego Que Te Llama](https://open.spotify.com/track/5W6rZxS6qNfdGsnify1ctY) | [Sidestepper](https://open.spotify.com/artist/6HnF6i8GjIQbRbUmGXvr1B) | [Supernatural Love](https://open.spotify.com/album/5UqBaTISwlVwyjVZJZP8ec) | 4:44 |
 | 53 | [Gozá Gozá](https://open.spotify.com/track/1Mi4KFAuHfJKRORYYNEQ9B) | [Buendia](https://open.spotify.com/artist/4DgmNZDjpk4Zj547a2bfcH) | [En el Caribe También Pasa Esto](https://open.spotify.com/album/5nasMHFwjeW93OHvHwDWCp) | 3:53 |
@@ -66,11 +66,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8k32Enx2PeV.md) - [plain]
 | 56 | [All Inclusive](https://open.spotify.com/track/3RRVyOLUHTqPfCKr03Gdhm) | [Marissa Mur](https://open.spotify.com/artist/5kt4v3JNtP8svtTI8PDFOT) | [All Inclusive](https://open.spotify.com/album/2Ujz4uZO4sCTOthqc2HGAI) | 2:35 |
 | 57 | [Azul](https://open.spotify.com/track/7sIE5XUDPjx7W0kygSwQUU) | [La Beat Machine](https://open.spotify.com/artist/6mCAbMWEuo0uz3pRMVZZN6) | [Azul](https://open.spotify.com/album/2jFiD51oGy84NQoHjtiRZb) | 3:22 |
 | 58 | [Soy la Fuerza](https://open.spotify.com/track/1dLUGmTp8Fy9Sl0p2Tn7T1) | [Acid Coco](https://open.spotify.com/artist/5UiKi49d0fbeffWl4aPWNW) | [Camino al Mar](https://open.spotify.com/album/20jmEAKKemowX8dH6dRNXt) | 3:35 |
-| 59 | [Tumbamurallas](https://open.spotify.com/track/2IkCZUGLS7o2tkocsMNgC9) | [Systema Solar](https://open.spotify.com/artist/2fsQcmsoEVZD4EHZOzARdx) | [Rumbo a Tiera](https://open.spotify.com/album/3ly8UdrXp9i8tlOiRft6We) | 3:32 |
-| 60 | [Ese Dinero](https://open.spotify.com/track/1OZnwe4IGv3hmNeZ9x6r5F) | [Nia Vanie](https://open.spotify.com/artist/2AAkCTYG2KE8Ocl7JK97wD) | [Ese Dinero](https://open.spotify.com/album/4AqhwZMcqqb0qv2eh79AFT) | 3:58 |
-| 61 | [Ciénaga](https://open.spotify.com/track/6Mvxbj2eJphVbSFfa4RE5U) | [Los Yoryis](https://open.spotify.com/artist/2PG2Bb0BU0Aojy7Vkdl9ya) | [Ciénaga](https://open.spotify.com/album/6rZTSfPwLlZQz80lF4vKVn) | 2:56 |
-| 62 | [ni una foto](https://open.spotify.com/track/5Fc6a806jgiEU3ka1Rqpyq) | [GAMBOA](https://open.spotify.com/artist/6vNjkmZB4B8C9isC2GgjD9) | [ni una foto](https://open.spotify.com/album/6xKGfOhCxShui9ia3zCxwJ) | 3:12 |
-| 63 | [Dale Melón](https://open.spotify.com/track/4gujFYr5x5E7TvPMeYJPpu) | [Contento](https://open.spotify.com/artist/3yQ4D1hK8dmhy2q5gDFg3h) | [Lo Bueno Está Aquí](https://open.spotify.com/album/5R5CPGWYyfFJNaGPZ32v8i) | 4:20 |
+| 59 | [Ese Dinero](https://open.spotify.com/track/1OZnwe4IGv3hmNeZ9x6r5F) | [Nia Vanie](https://open.spotify.com/artist/2AAkCTYG2KE8Ocl7JK97wD) | [Ese Dinero](https://open.spotify.com/album/4AqhwZMcqqb0qv2eh79AFT) | 3:58 |
+| 60 | [Dale Melón](https://open.spotify.com/track/4gujFYr5x5E7TvPMeYJPpu) | [Contento](https://open.spotify.com/artist/3yQ4D1hK8dmhy2q5gDFg3h) | [Lo Bueno Está Aquí](https://open.spotify.com/album/5R5CPGWYyfFJNaGPZ32v8i) | 4:20 |
+| 61 | [Tumbamurallas](https://open.spotify.com/track/2IkCZUGLS7o2tkocsMNgC9) | [Systema Solar](https://open.spotify.com/artist/2fsQcmsoEVZD4EHZOzARdx) | [Rumbo a Tiera](https://open.spotify.com/album/3ly8UdrXp9i8tlOiRft6We) | 3:32 |
+| 62 | [Ciénaga](https://open.spotify.com/track/6Mvxbj2eJphVbSFfa4RE5U) | [Los Yoryis](https://open.spotify.com/artist/2PG2Bb0BU0Aojy7Vkdl9ya) | [Ciénaga](https://open.spotify.com/album/6rZTSfPwLlZQz80lF4vKVn) | 2:56 |
+| 63 | [ni una foto](https://open.spotify.com/track/5Fc6a806jgiEU3ka1Rqpyq) | [GAMBOA](https://open.spotify.com/artist/6vNjkmZB4B8C9isC2GgjD9) | [ni una foto](https://open.spotify.com/album/6xKGfOhCxShui9ia3zCxwJ) | 3:12 |
 | 64 | [Un Poco Menos Idiota](https://open.spotify.com/track/7hvtbGqnRyMKTY1jaSGUsp) | [Adrian Bello](https://open.spotify.com/artist/0ZwjmGhps2YvUMzB7ihFV8) | [Un Poco Menos Idiota](https://open.spotify.com/album/4SxeVZBPipJvVadnhgtkkI) | 3:45 |
 | 65 | [Calzón](https://open.spotify.com/track/5nWQMUhXnjl4yAyYG1ZMLs) | [Lorena Blume](https://open.spotify.com/artist/3rv2Lj8grP2g6UhyD98L6W) | [Calzón](https://open.spotify.com/album/3yQqrMWyx1WNXtc6aLmYS7) | 3:51 |
 | 66 | [Mudanza](https://open.spotify.com/track/6QrEijuCigH5qAWOwlse6C) | [Kid Fresco](https://open.spotify.com/artist/2Mqd2MLJTKaLBG8N5vS5rD) | [Mudanza](https://open.spotify.com/album/2hIMvD6GSJJskCPeeZZhOt) | 3:32 |
@@ -79,9 +79,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8k32Enx2PeV.md) - [plain]
 | 69 | [Emocional](https://open.spotify.com/track/2mob68KQblU3mK2hIdF9R1) | [Clara Yolks](https://open.spotify.com/artist/7EGQpkwkyAgaJSgnRGHJ59) | [Emocional](https://open.spotify.com/album/14rF7fiIcUBsg17Arf3VJM) | 3:09 |
 | 70 | [Ma Vie](https://open.spotify.com/track/5DMWjLDck4h90C61FPwKWt) | [Valerianä](https://open.spotify.com/artist/31eD4Jy2jTXFosFfrnaVgs) | [Ma Vie](https://open.spotify.com/album/70bUXOYC5M8yRPTybauNt8) | 2:32 |
 | 71 | [Respiro](https://open.spotify.com/track/42op2wd3o7SZ1MUImRkbkh) | [Paraísos](https://open.spotify.com/artist/4UWT6RWeTPk7hN7OihScMM), [CERO39](https://open.spotify.com/artist/1B6UFfDLZPbLl1rpOmHmi0) | [Respiro](https://open.spotify.com/album/0obtRY4p00WwIHafC8MTlF) | 3:15 |
-| 72 | [Isla](https://open.spotify.com/track/0njT0PeIOjXZ4wcY1tuSSJ) | [Som Caney](https://open.spotify.com/artist/7ymW4RibYTRpCKmk3Q5YyH) | [Isla](https://open.spotify.com/album/5QQ2uGDTtJNfM5OffTfSoG) | 3:51 |
-| 73 | [Un Trambo \(feat\. De La Ghetto\)](https://open.spotify.com/track/1xJfxxyuhOQmBTJ8k549BZ) | [Cabra](https://open.spotify.com/artist/1ZBJ5DMUE7UDWuxp3b5Cy3), [De La Ghetto](https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb) | [Un Trambo \(feat\. De La Ghetto\)](https://open.spotify.com/album/7Lfh4TQpKIHbQONtS1K1lL) | 2:51 |
+| 72 | [Un Trambo \(feat\. De La Ghetto\)](https://open.spotify.com/track/1xJfxxyuhOQmBTJ8k549BZ) | [Cabra](https://open.spotify.com/artist/1ZBJ5DMUE7UDWuxp3b5Cy3), [De La Ghetto](https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb) | [Un Trambo \(feat\. De La Ghetto\)](https://open.spotify.com/album/7Lfh4TQpKIHbQONtS1K1lL) | 2:51 |
+| 73 | [Isla](https://open.spotify.com/track/0njT0PeIOjXZ4wcY1tuSSJ) | [Som Caney](https://open.spotify.com/artist/7ymW4RibYTRpCKmk3Q5YyH) | [Isla](https://open.spotify.com/album/5QQ2uGDTtJNfM5OffTfSoG) | 3:51 |
 | 74 | [Calavera](https://open.spotify.com/track/34AtIFSuygzhGe5Xm6QvCD) | [Keke Minowa](https://open.spotify.com/artist/0jhgrCkiSuW5UPZRJoUXHb) | [Calavera](https://open.spotify.com/album/4ow3K1rnLp878Zzi7wGlFL) | 3:13 |
 | 75 | [Pasatiempo](https://open.spotify.com/track/0zTrBn533RlwK9EpQToLRV) | [Tim Mara](https://open.spotify.com/artist/1RCqp2ViXc6Vbog6QdaiLR) | [Pasatiempo](https://open.spotify.com/album/2gj0XvFtwo0NTDARtj1I39) | 3:22 |
 
-Snapshot ID: `MCwwZGU5YjBkMTU1Yzk0OTBiZDgyZTIwZjE5NWQ1ODE2YzIzOGUxODFj`
+Snapshot ID: `MCxhNThlOTg5OWNmMDI3NWVmMTM5YzIzNWM2YjFhNjhhNWUyNDg2NTMy`

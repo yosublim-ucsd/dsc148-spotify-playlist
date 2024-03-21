@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0gF89fU9TTk.md) - [plain]
 
 > The best of today's pop worship music\.  Turn the beat up! Cover: Switch
 
-[Spotify](https://open.spotify.com/user/spotify) - 130,211 likes - 75 songs - 4 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 130,247 likes - 75 songs - 4 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,8 +66,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0gF89fU9TTk.md) - [plain]
 | 56 | [I Belong to You](https://open.spotify.com/track/3JjEsGDEErt7aC6cLBZ2VU) | [Tasha Layton](https://open.spotify.com/artist/3yCv2yloJueOb4Y3HEYgSq) | [Love Running Wild](https://open.spotify.com/album/2vebwQ9kyBdhWLz3cayGS7) | 3:21 |
 | 57 | [Heaven On Earth \- Radio Single](https://open.spotify.com/track/54xPBJBmLLI8JvsfPYJ670) | [Planetshakers](https://open.spotify.com/artist/5A0SFJQSdSjFHGcndiGT1s) | [Heaven On Earth](https://open.spotify.com/album/5oNay5SgVIVqAnioxLq3lL) | 3:45 |
 | 58 | [Better View](https://open.spotify.com/track/173RgJWVkioV5Ngb8U6q90) | [Switch](https://open.spotify.com/artist/67xUUajI1dXaeY4e4ouwEN) | [Better View](https://open.spotify.com/album/5fjwampEKoaXEv81pDDQQ5) | 2:48 |
-| 59 | [Earth](https://open.spotify.com/track/2HWjZ2d3ZnQ8pjIrJndtAe) | [Gateway Youth](https://open.spotify.com/artist/3ftWjEOqlDfTCF7ZSzRVNM) | [Elements](https://open.spotify.com/album/7hAnYgk3KdYmMvWzhS648H) | 3:20 |
-| 60 | [Yes He Does](https://open.spotify.com/track/5O5HNh3c2lYctzGMjLCr2M) | [Stars Go Dim](https://open.spotify.com/artist/4O5EDKGt6YC5IXkOArVqk3) | [Yes He Does](https://open.spotify.com/album/0IVE74zl2F4p9BVSPYLALo) | 3:26 |
+| 59 | [Yes He Does](https://open.spotify.com/track/5O5HNh3c2lYctzGMjLCr2M) | [Stars Go Dim](https://open.spotify.com/artist/4O5EDKGt6YC5IXkOArVqk3) | [Yes He Does](https://open.spotify.com/album/0IVE74zl2F4p9BVSPYLALo) | 3:26 |
+| 60 | [Earth](https://open.spotify.com/track/2HWjZ2d3ZnQ8pjIrJndtAe) | [Gateway Youth](https://open.spotify.com/artist/3ftWjEOqlDfTCF7ZSzRVNM) | [Elements](https://open.spotify.com/album/7hAnYgk3KdYmMvWzhS648H) | 3:20 |
 | 61 | [You Tell Me](https://open.spotify.com/track/18tCFWknS0gTJBBRLCuI0T) | [One Common](https://open.spotify.com/artist/7C8oYaoYaMU08umRm46EK9) | [You Tell Me](https://open.spotify.com/album/4RXdxAM1qZd91aLI3o6H9q) | 3:00 |
 | 62 | [Hunger](https://open.spotify.com/track/5SNdebTrDYFXA7hB0wsbmb) | [MDSN](https://open.spotify.com/artist/6iv3P2yMTglEHCYNlmNBdD) | [Hunger](https://open.spotify.com/album/5IM9yRLsBVaZ2cJyik2Iow) | 3:50 |
 | 63 | [Turn This Ship Around \- Gregatron Remix](https://open.spotify.com/track/3UrFh7gpx5UFPpH4Kdr0Sl) | [Hannah Schaefer](https://open.spotify.com/artist/2WsOOOpIzs8GLKjH05jG6s) | [Crown \(Deluxe\)](https://open.spotify.com/album/6rUPUSBIpgtxaP8MkILbxC) | 3:17 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0gF89fU9TTk.md) - [plain]
 | 74 | [Candid Heart](https://open.spotify.com/track/138ucy6B7MaoCFhL1wF6TD) | [Alive City](https://open.spotify.com/artist/5Toah6plT6mSqAKVffLAj5) | [Candid Heart](https://open.spotify.com/album/57ogRd3akSf4eEcW7LJOyT) | 2:55 |
 | 75 | [We Shine](https://open.spotify.com/track/13OeoujtdpmyfhQLpq2lo1) | [Vineyard Kids](https://open.spotify.com/artist/2PwunoNd5k6WstyyC67xhH), [Kat Regester](https://open.spotify.com/artist/0ereLNWXua5ueIeLKZbZdP), [David Plumb](https://open.spotify.com/artist/5oe9h1KvHeFlAOXE3opknk) | [Vineyard Kids: We Shine](https://open.spotify.com/album/0JTgsgpMUswqCUbnagqxNN) | 3:05 |
 
-Snapshot ID: `MCxjNDZjZjA0MzUxZWJmNDVmMmMwNjQ5MGRmNzFiNzcwMDEwMmI4Nzk5`
+Snapshot ID: `MCwyMjNjZjlkYWE2NTVhYmRlMDM5NDRmYzQ0YmFjYjVlOTA5NGQ4Nzcy`

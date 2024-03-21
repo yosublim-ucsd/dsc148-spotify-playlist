@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1adpUbAHocs.md) - [plain]
 
 > hop in and take the long way.
 
-[Spotify](https://open.spotify.com/user/spotify) - 669,329 likes - 100 songs - 6 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 669,328 likes - 100 songs - 6 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1adpUbAHocs.md) - [plain]
 | 25 | [Rhiannon](https://open.spotify.com/track/05oETzWbd4SI33qK2gbJfR) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Fleetwood Mac](https://open.spotify.com/album/5VIQ3VaAoRKOEpJ0fewdvo) | 4:12 |
 | 26 | [Orange Juice](https://open.spotify.com/track/07UFnnK3uPIuKv5Rs9TmXl) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Stick Season](https://open.spotify.com/album/50ZenUP4O2Q5eCy2NRNvuz) | 4:57 |
 | 27 | [Simulation Swarm](https://open.spotify.com/track/2FwDApgXk91kXvqy2oB7dz) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [Dragon New Warm Mountain I Believe In You](https://open.spotify.com/album/7Ln81p86r5cCsesd3KBWIY) | 4:12 |
-| 28 | [Long Blue Light](https://open.spotify.com/track/3gaH1EhTC53WZeFRj3hGtp) | [Leif Vollebekk](https://open.spotify.com/artist/3jzXlBF2157k4exx7idecs) | [Long Blue Light](https://open.spotify.com/album/44nEv2ygRogxTn2EQUUVei) | 3:20 |
-| 29 | [Shrike](https://open.spotify.com/track/083PU4XnYAOMAGVruma3vb) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Wasteland, Baby!](https://open.spotify.com/album/2c7gFThUYyo2t6ogAgIYNw) | 4:58 |
+| 28 | [Shrike](https://open.spotify.com/track/083PU4XnYAOMAGVruma3vb) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Wasteland, Baby!](https://open.spotify.com/album/2c7gFThUYyo2t6ogAgIYNw) | 4:58 |
+| 29 | [Long Blue Light](https://open.spotify.com/track/3gaH1EhTC53WZeFRj3hGtp) | [Leif Vollebekk](https://open.spotify.com/artist/3jzXlBF2157k4exx7idecs) | [Long Blue Light](https://open.spotify.com/album/44nEv2ygRogxTn2EQUUVei) | 3:20 |
 | 30 | [August](https://open.spotify.com/track/0elCmyfISzkP5tAYTVuYjS) | [flipturn](https://open.spotify.com/artist/7FKTg75ADVMZgY3P9ZMRtH) | [Citrona](https://open.spotify.com/album/7iTm9yZznLHb1GBOVm5IB1) | 4:21 |
 | 31 | [Wilder Days](https://open.spotify.com/track/2vubFQgAJO5SeuVa7ytIHc) | [Morgan Wade](https://open.spotify.com/artist/4eYE8Z6cfEHEdG22lTyucP) | [Reckless](https://open.spotify.com/album/1PuZ5juin9Mpt3Tyiygzio) | 4:11 |
 | 32 | [B\-Side](https://open.spotify.com/track/2DccHqTquzubziHAPZRdct) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk), [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Texas Moon](https://open.spotify.com/album/2Xs9xSBhvyo8F6daRc1npu) | 4:34 |
@@ -68,8 +68,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1adpUbAHocs.md) - [plain]
 | 58 | [Right Down the Line](https://open.spotify.com/track/7sJ5JL0c0cba0tJBmy3tw7) | [Sam Evian](https://open.spotify.com/artist/5MXsi1oKkm8LuStuKkMdzu) | [Right Down the Line](https://open.spotify.com/album/0xMvVtSsEL5HMYql9ZiRoI) | 4:27 |
 | 59 | [Until You](https://open.spotify.com/track/7iH6cflAGYwR82sNMZiGuq) | [AHI](https://open.spotify.com/artist/08Uextujt6ZT2iQmSYAJfH) | [Until You](https://open.spotify.com/album/03MCMaTPo8CiVxwcCvgyem) | 3:18 |
 | 60 | [Lilacs](https://open.spotify.com/track/69Akwuscu16hdYN637eTis) | [Waxahatchee](https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF) | [Saint Cloud](https://open.spotify.com/album/4V1EQ7wQZUoiPjMY0WtY3M) | 3:15 |
-| 61 | [Angelica](https://open.spotify.com/track/3EwTIu5qka2l5ZekB0b6QC) | [Wet Leg](https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ) | [Wet Leg](https://open.spotify.com/album/0r9awI5WRCZpwk0aVQ4bKO) | 3:52 |
-| 62 | [Stolen Love](https://open.spotify.com/track/30EGaJNnfgjUuw8kj8fuem) | [Josiah and the Bonnevilles](https://open.spotify.com/artist/3FMcVBx2TMq2f5gEPcUieC) | [Motel Mayday](https://open.spotify.com/album/6pD4TWDrwVvOeC9FxUfRpS) | 3:43 |
+| 61 | [Stolen Love](https://open.spotify.com/track/30EGaJNnfgjUuw8kj8fuem) | [Josiah and the Bonnevilles](https://open.spotify.com/artist/3FMcVBx2TMq2f5gEPcUieC) | [Motel Mayday](https://open.spotify.com/album/6pD4TWDrwVvOeC9FxUfRpS) | 3:43 |
+| 62 | [Angelica](https://open.spotify.com/track/3EwTIu5qka2l5ZekB0b6QC) | [Wet Leg](https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ) | [Wet Leg](https://open.spotify.com/album/0r9awI5WRCZpwk0aVQ4bKO) | 3:52 |
 | 63 | [Dylan Thomas](https://open.spotify.com/track/1AEiKr56njftNDp67QCnHH) | [Better Oblivion Community Center](https://open.spotify.com/artist/3NBmfDV6Yh3hjuQUBVvYgO), [Conor Oberst](https://open.spotify.com/artist/2Z7gV3uEh1ckIaBzTUCE6R), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Better Oblivion Community Center](https://open.spotify.com/album/0uJIxkI8D0rR4shEIKeiDs) | 3:36 |
 | 64 | [Goodbye Mr\. Blue](https://open.spotify.com/track/7ydJaSdC8Au68eYgspNznY) | [Father John Misty](https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT) | [Chloë and the Next 20th Century](https://open.spotify.com/album/2tfg6zi5pwuYeQ0IHYnOBz) | 5:00 |
 | 65 | [Oom Sha La La](https://open.spotify.com/track/28kOpVf1aCgL0LSFfuKV4w) | [Haley Heynderickx](https://open.spotify.com/artist/73MDShZzdL4vUGMkmXOG6X) | [I Need to Start a Garden](https://open.spotify.com/album/4I8BEAiq1kPqRRlvWLTo5B) | 2:57 |
@@ -91,8 +91,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1adpUbAHocs.md) - [plain]
 | 81 | [Nightflyer](https://open.spotify.com/track/6BxDMOnim3Ut7nQaOj01DJ) | [Allison Russell](https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6) | [Outside Child](https://open.spotify.com/album/4R21oaKCstE2fMc4XkuVlw) | 4:55 |
 | 82 | [You Were](https://open.spotify.com/track/0TsWu7ZYypXsIEIPwl6BOi) | [Field Guide](https://open.spotify.com/artist/3m8lmJWxlk9SPTFFCdxJVz) | [You Were](https://open.spotify.com/album/6wnBVRrp4xGypc2UjRUcRg) | 3:13 |
 | 83 | [Grow into Love](https://open.spotify.com/track/52AthVA2opex8NcLSwtO8n) | [Half Moon Run](https://open.spotify.com/artist/3ceQN2NVlLg1hgTzljDE4n) | [Seasons of Change](https://open.spotify.com/album/74fRgN21qhhAQv43mbCJFq) | 2:42 |
-| 84 | [Every Time I Hear That Song](https://open.spotify.com/track/0hoRmVUp5cZ1empu0nSHU8) | [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [By the Way, I Forgive You](https://open.spotify.com/album/2wDKBKgco7u3V1IWEK5V8l) | 4:01 |
-| 85 | [B61](https://open.spotify.com/track/48I5zrBAbKfGp7lqfBZ0Ll) | [Aoife O'Donovan](https://open.spotify.com/artist/1f3ubTd6eyxuy30ddDJQQa) | [Age of Apathy](https://open.spotify.com/album/0GvP6JkCysq2idJCmIxqBo) | 3:41 |
+| 84 | [B61](https://open.spotify.com/track/48I5zrBAbKfGp7lqfBZ0Ll) | [Aoife O'Donovan](https://open.spotify.com/artist/1f3ubTd6eyxuy30ddDJQQa) | [Age of Apathy](https://open.spotify.com/album/0GvP6JkCysq2idJCmIxqBo) | 3:41 |
+| 85 | [Every Time I Hear That Song](https://open.spotify.com/track/0hoRmVUp5cZ1empu0nSHU8) | [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [By the Way, I Forgive You](https://open.spotify.com/album/2wDKBKgco7u3V1IWEK5V8l) | 4:01 |
 | 86 | [Horse to Water](https://open.spotify.com/track/0szmjOw9XbtbQYWz0GvXSp) | [Tall Heights](https://open.spotify.com/artist/1OVaGC0CDZaxjcPxclSNmp) | [Neptune](https://open.spotify.com/album/2PaNkZV2WVwOMoRWR7V9cS) | 4:04 |
 | 87 | [Fisher Island Sound](https://open.spotify.com/track/3XHtGQBlfMHfKcXdTX7Mt0) | [Beirut](https://open.spotify.com/artist/6pmxr66tMAePxzOLfjGNcX) | [Artifacts](https://open.spotify.com/album/26G7PfSLTyLiIcITVl7GAK) | 2:44 |
 | 88 | [Sugar in the Creek](https://open.spotify.com/track/0Ppp8AhUasTiQxp4RHwyj5) | [Bendigo Fletcher](https://open.spotify.com/artist/6O8lpJl2nITlA3dJfT95pM) | [Fits Of Laughter](https://open.spotify.com/album/1SuYWmzfeZOnStKfSfnJ0D) | 4:11 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1adpUbAHocs.md) - [plain]
 | 99 | [I Can't Make You Love Me \- Spotify Singles](https://open.spotify.com/track/6AdxrIYy5CT1LLzLYAQOwy) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [Spotify Singles](https://open.spotify.com/album/4P4Melmltlh69qk94BPZDY) | 3:16 |
 | 100 | [Dreamsicle](https://open.spotify.com/track/68wI8QNqMeIraj7Ix16hS3) | [Jason Isbell and the 400 Unit](https://open.spotify.com/artist/3Lg3FGwBxOGuefqekQzRUf) | [Reunions](https://open.spotify.com/album/5XIafkwTpyvL7jjLJx1xKz) | 3:44 |
 
-Snapshot ID: `MCw2MmJjZTU4ZGQ4YjQ2ZDk0MGVjMTQ5NzJkYjhmOGRkMmE0N2E3MTZk`
+Snapshot ID: `MCxjYjQzYzlkZjQ3ZDgxNTQ5ZWU2ODhkZDg0Mzg4N2Y5OGZmYzBmNWZl`

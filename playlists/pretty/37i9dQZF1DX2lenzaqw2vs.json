@@ -1,12 +1,12 @@
 {
   "description": "Artistas LGBTQIA+ que brillan e inspiran.\nCover: Kany Garc\u00eda & Young Miko",
-  "num_followers": 133630,
+  "num_followers": 133634,
   "original_name": "BRILLO",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjODA2OGMwNmU0MGM3YTQ4YjcwZjIyYzdhZmQyMGYxNDA5ZjU2MGY5",
+  "snapshot_id": "MCw0YjU4OWYxMGJkM2EzZjI2OTY5MjVhOWUzMjc5OTgxM2YwZWQ4MzE4",
   "tracks": [
     {
       "added_at": "2024-03-15 04:00:00",
@@ -511,6 +511,22 @@
     {
       "added_at": "2024-03-15 04:00:00",
       "album": {
+        "name": "LA NENA DE ARGENTINA",
+        "url": "https://open.spotify.com/album/55onwkSIEu5gEXdiJ6ssFG"
+      },
+      "artists": [
+        {
+          "name": "Maria Becerra",
+          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
+        }
+      ],
+      "duration_ms": 152280,
+      "name": "PERREO FURIOSO",
+      "url": "https://open.spotify.com/track/2NAjBeyMUrba97IXdLVMqp"
+    },
+    {
+      "added_at": "2024-03-15 04:00:00",
+      "album": {
         "name": "Noitada",
         "url": "https://open.spotify.com/album/4TxfLb1NSPnGUgFZ2bkTvY"
       },
@@ -527,22 +543,6 @@
       "duration_ms": 166013,
       "name": "AMEIANOITE",
       "url": "https://open.spotify.com/track/0zQhdzUijGmorUhopvtoue"
-    },
-    {
-      "added_at": "2024-03-15 04:00:00",
-      "album": {
-        "name": "LA NENA DE ARGENTINA",
-        "url": "https://open.spotify.com/album/55onwkSIEu5gEXdiJ6ssFG"
-      },
-      "artists": [
-        {
-          "name": "Maria Becerra",
-          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
-        }
-      ],
-      "duration_ms": 152280,
-      "name": "PERREO FURIOSO",
-      "url": "https://open.spotify.com/track/2NAjBeyMUrba97IXdLVMqp"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -687,6 +687,22 @@
     {
       "added_at": "2024-03-15 04:00:00",
       "album": {
+        "name": "Qu\u00edtate La Ropa",
+        "url": "https://open.spotify.com/album/6nqClgObFyHB00dZsQFSKl"
+      },
+      "artists": [
+        {
+          "name": "La Cruz",
+          "url": "https://open.spotify.com/artist/0JoFdUO6q5ZRdnfRADpRiJ"
+        }
+      ],
+      "duration_ms": 139591,
+      "name": "Qu\u00edtate La Ropa",
+      "url": "https://open.spotify.com/track/36akd6DwGe6SbEINnMqx9c"
+    },
+    {
+      "added_at": "2024-03-15 04:00:00",
+      "album": {
         "name": "Ya Va Pasar",
         "url": "https://open.spotify.com/album/3OhQVFtpoMDIrUGrdnDYgI"
       },
@@ -719,22 +735,6 @@
     {
       "added_at": "2024-03-15 04:00:00",
       "album": {
-        "name": "Qu\u00edtate La Ropa",
-        "url": "https://open.spotify.com/album/6nqClgObFyHB00dZsQFSKl"
-      },
-      "artists": [
-        {
-          "name": "La Cruz",
-          "url": "https://open.spotify.com/artist/0JoFdUO6q5ZRdnfRADpRiJ"
-        }
-      ],
-      "duration_ms": 139591,
-      "name": "Qu\u00edtate La Ropa",
-      "url": "https://open.spotify.com/track/36akd6DwGe6SbEINnMqx9c"
-    },
-    {
-      "added_at": "2024-03-15 04:00:00",
-      "album": {
         "name": "Miss Colombia",
         "url": "https://open.spotify.com/album/6H6MZ54B5FLBLXXxWGEl7y"
       },
@@ -747,22 +747,6 @@
       "duration_ms": 242445,
       "name": "Te Queria",
       "url": "https://open.spotify.com/track/10Jr2PJeIMPYYRWsWximsP"
-    },
-    {
-      "added_at": "2024-03-15 04:00:00",
-      "album": {
-        "name": "Jos\u00e9 Jos\u00e9, Un Tributo 1 & 2",
-        "url": "https://open.spotify.com/album/103zw9Qm9BRCdlb3mYsBOl"
-      },
-      "artists": [
-        {
-          "name": "Torreblanca",
-          "url": "https://open.spotify.com/artist/5sy13x4wGzkhvLeHr4HPEE"
-        }
-      ],
-      "duration_ms": 186773,
-      "name": "Y Qu\u00e9?",
-      "url": "https://open.spotify.com/track/7IimbpNYdLU9pG366Td4Tm"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -783,6 +767,22 @@
     {
       "added_at": "2024-03-15 04:00:00",
       "album": {
+        "name": "Jos\u00e9 Jos\u00e9, Un Tributo 1 & 2",
+        "url": "https://open.spotify.com/album/103zw9Qm9BRCdlb3mYsBOl"
+      },
+      "artists": [
+        {
+          "name": "Torreblanca",
+          "url": "https://open.spotify.com/artist/5sy13x4wGzkhvLeHr4HPEE"
+        }
+      ],
+      "duration_ms": 186773,
+      "name": "Y Qu\u00e9?",
+      "url": "https://open.spotify.com/track/7IimbpNYdLU9pG366Td4Tm"
+    },
+    {
+      "added_at": "2024-03-15 04:00:00",
+      "album": {
         "name": "El diablo en el cuerpo",
         "url": "https://open.spotify.com/album/01KbLfiHLs7Z7fjWmSszif"
       },
@@ -799,6 +799,22 @@
       "duration_ms": 266875,
       "name": "Tienes una idea muy antigua del amor (feat. Julieta Venegas)",
       "url": "https://open.spotify.com/track/1Khmt1sGdFE7hRzKCqC2yS"
+    },
+    {
+      "added_at": "2024-03-15 04:00:00",
+      "album": {
+        "name": "Hawaira",
+        "url": "https://open.spotify.com/album/0NRNUADdkxqyM5OBbb9CYB"
+      },
+      "artists": [
+        {
+          "name": "La Cruz",
+          "url": "https://open.spotify.com/artist/0JoFdUO6q5ZRdnfRADpRiJ"
+        }
+      ],
+      "duration_ms": 160800,
+      "name": "Te Conoc\u00ed Bailando",
+      "url": "https://open.spotify.com/track/7h8xlmAY4X54nePqWXILRm"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -863,22 +879,6 @@
       "duration_ms": 196571,
       "name": "no cambies tu andar",
       "url": "https://open.spotify.com/track/4mhJ93BE0N4bpwsK2CO95J"
-    },
-    {
-      "added_at": "2024-03-15 04:00:00",
-      "album": {
-        "name": "Hawaira",
-        "url": "https://open.spotify.com/album/0NRNUADdkxqyM5OBbb9CYB"
-      },
-      "artists": [
-        {
-          "name": "La Cruz",
-          "url": "https://open.spotify.com/artist/0JoFdUO6q5ZRdnfRADpRiJ"
-        }
-      ],
-      "duration_ms": 160800,
-      "name": "Te Conoc\u00ed Bailando",
-      "url": "https://open.spotify.com/track/7h8xlmAY4X54nePqWXILRm"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -1171,6 +1171,22 @@
     {
       "added_at": "2024-03-15 04:00:00",
       "album": {
+        "name": "Perd\u00f3n",
+        "url": "https://open.spotify.com/album/26H0Ji3Lr8GUXdUBfphCZu"
+      },
+      "artists": [
+        {
+          "name": "Paz Carrara",
+          "url": "https://open.spotify.com/artist/09mGQqsZ1C5wVCsjycNaIg"
+        }
+      ],
+      "duration_ms": 221316,
+      "name": "Perd\u00f3n",
+      "url": "https://open.spotify.com/track/2Dt9XzdTyfHjQlz7aAraor"
+    },
+    {
+      "added_at": "2024-03-15 04:00:00",
+      "album": {
         "name": "Canciones de Amor",
         "url": "https://open.spotify.com/album/1xyRm4Ti9USkm9sVTwVfXU"
       },
@@ -1191,22 +1207,6 @@
       "duration_ms": 194043,
       "name": "Canciones de Amor",
       "url": "https://open.spotify.com/track/1RjmeNxL0KNM0KTH8aySAO"
-    },
-    {
-      "added_at": "2024-03-15 04:00:00",
-      "album": {
-        "name": "Perd\u00f3n",
-        "url": "https://open.spotify.com/album/26H0Ji3Lr8GUXdUBfphCZu"
-      },
-      "artists": [
-        {
-          "name": "Paz Carrara",
-          "url": "https://open.spotify.com/artist/09mGQqsZ1C5wVCsjycNaIg"
-        }
-      ],
-      "duration_ms": 221316,
-      "name": "Perd\u00f3n",
-      "url": "https://open.spotify.com/track/2Dt9XzdTyfHjQlz7aAraor"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -1323,22 +1323,6 @@
     {
       "added_at": "2024-03-15 04:00:00",
       "album": {
-        "name": "Del Cibao",
-        "url": "https://open.spotify.com/album/0JGtdSzzQENX8urajcYIqG"
-      },
-      "artists": [
-        {
-          "name": "Willie Gomez",
-          "url": "https://open.spotify.com/artist/0mj8A2Ovy8vOeLtzqrv8At"
-        }
-      ],
-      "duration_ms": 195866,
-      "name": "Mojados",
-      "url": "https://open.spotify.com/track/2x22qkx1iSxPd1FTdAyTv9"
-    },
-    {
-      "added_at": "2024-03-15 04:00:00",
-      "album": {
         "name": "La Noche",
         "url": "https://open.spotify.com/album/3mcb8IqvIWkCpvp3XNFIiU"
       },
@@ -1351,6 +1335,22 @@
       "duration_ms": 163902,
       "name": "La Noche",
       "url": "https://open.spotify.com/track/16N0HPDPu4xw42JrhY5gJn"
+    },
+    {
+      "added_at": "2024-03-15 04:00:00",
+      "album": {
+        "name": "Del Cibao",
+        "url": "https://open.spotify.com/album/0JGtdSzzQENX8urajcYIqG"
+      },
+      "artists": [
+        {
+          "name": "Willie Gomez",
+          "url": "https://open.spotify.com/artist/0mj8A2Ovy8vOeLtzqrv8At"
+        }
+      ],
+      "duration_ms": 195866,
+      "name": "Mojados",
+      "url": "https://open.spotify.com/track/2x22qkx1iSxPd1FTdAyTv9"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -1603,22 +1603,6 @@
     {
       "added_at": "2024-03-15 04:00:00",
       "album": {
-        "name": "Nobody Got It",
-        "url": "https://open.spotify.com/album/1ueqJ9lm4y5BbplViMloue"
-      },
-      "artists": [
-        {
-          "name": "Poe Leos",
-          "url": "https://open.spotify.com/artist/6E4v4lnsSuO5SaQ4FNOWSA"
-        }
-      ],
-      "duration_ms": 168071,
-      "name": "Nobody Got It",
-      "url": "https://open.spotify.com/track/293nM34kJhiIYvbmImGSLE"
-    },
-    {
-      "added_at": "2024-03-15 04:00:00",
-      "album": {
         "name": "Que S\u00ed Que No",
         "url": "https://open.spotify.com/album/0MDs2fahUHeddRisz4l0dF"
       },
@@ -1639,6 +1623,22 @@
     {
       "added_at": "2024-03-15 04:00:00",
       "album": {
+        "name": "Nobody Got It",
+        "url": "https://open.spotify.com/album/1ueqJ9lm4y5BbplViMloue"
+      },
+      "artists": [
+        {
+          "name": "Poe Leos",
+          "url": "https://open.spotify.com/artist/6E4v4lnsSuO5SaQ4FNOWSA"
+        }
+      ],
+      "duration_ms": 168071,
+      "name": "Nobody Got It",
+      "url": "https://open.spotify.com/track/293nM34kJhiIYvbmImGSLE"
+    },
+    {
+      "added_at": "2024-03-15 04:00:00",
+      "album": {
         "name": "Paradise",
         "url": "https://open.spotify.com/album/3SYPjBFJeTW2sb4kMPQk6O"
       },
@@ -1655,22 +1655,6 @@
     {
       "added_at": "2024-03-15 04:00:00",
       "album": {
-        "name": "BESO",
-        "url": "https://open.spotify.com/album/7GEfZW09vl961ZITVYQxYW"
-      },
-      "artists": [
-        {
-          "name": "YADAM",
-          "url": "https://open.spotify.com/artist/6JTZ3lKjLYsw1h5jDkwDhf"
-        }
-      ],
-      "duration_ms": 165000,
-      "name": "BESO",
-      "url": "https://open.spotify.com/track/3732J2lFfcBc6otsp87aKA"
-    },
-    {
-      "added_at": "2024-03-15 04:00:00",
-      "album": {
         "name": "As\u00ed Me Siento Hoy",
         "url": "https://open.spotify.com/album/0kefZe88v1Muy6YFe0adCe"
       },
@@ -1683,6 +1667,22 @@
       "duration_ms": 155159,
       "name": "me gusta que me gustes",
       "url": "https://open.spotify.com/track/5gQvExQc6zyJnI11AoNJMM"
+    },
+    {
+      "added_at": "2024-03-15 04:00:00",
+      "album": {
+        "name": "BESO",
+        "url": "https://open.spotify.com/album/7GEfZW09vl961ZITVYQxYW"
+      },
+      "artists": [
+        {
+          "name": "YADAM",
+          "url": "https://open.spotify.com/artist/6JTZ3lKjLYsw1h5jDkwDhf"
+        }
+      ],
+      "duration_ms": 165000,
+      "name": "BESO",
+      "url": "https://open.spotify.com/track/3732J2lFfcBc6otsp87aKA"
     },
     {
       "added_at": "2024-03-15 04:00:00",
