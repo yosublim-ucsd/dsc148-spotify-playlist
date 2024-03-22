@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Global.
 
-1,731 songs - 4 day 2 hr 17 min
+1,733 songs - 4 day 2 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -118,7 +118,7 @@
 | [Arson](https://open.spotify.com/track/2QWEMqQMJR1KDf6hDjJOs6) | [j\-hope](https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy) | [Jack In The Box](https://open.spotify.com/album/0FrC9lzgVhziJenigsrXdl) | 2:39 | 2022-07-16 | 2022-07-20 |
 | [As I Am \(feat\. Khalid\)](https://open.spotify.com/track/4MmMxyew8yq1OEyJOMaX6M) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [Justice](https://open.spotify.com/album/0w1dwXfG5z6Xjjgj524JkD) | 2:54 | 2021-03-20 | 2021-03-21 |
 | [As I Am \(feat\. Khalid\)](https://open.spotify.com/track/6F2r4HgpJnvKDmkN6JEN6J) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [Justice](https://open.spotify.com/album/5dGWwsZ9iB2Xc3UKR0gif2) | 2:54 | 2021-03-21 | 2021-04-11 |
-| [As It Was](https://open.spotify.com/track/4Dvkj6JhhA12EX05fT7y2e) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry's House](https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h) | 2:47 | 2022-05-21 |  |
+| [As It Was](https://open.spotify.com/track/4Dvkj6JhhA12EX05fT7y2e) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry's House](https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h) | 2:47 | 2022-05-21 | 2024-03-22 |
 | [As It Was](https://open.spotify.com/track/4LRPiXqCikLlN15c3yImP7) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [As It Was](https://open.spotify.com/album/2pqdSWeJVsXAhHFuVLzuA8) | 2:47 | 2022-04-01 | 2022-05-28 |
 | [ASAP](https://open.spotify.com/track/5fpyAakgFOm4YTXkgfPzvV) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [NewJeans 2nd EP 'Get Up'](https://open.spotify.com/album/4N1fROq2oeyLGAlQ1C1j18) | 2:14 | 2023-07-22 | 2023-07-24 |
 | [Astronaut In The Ocean](https://open.spotify.com/track/0BGwAKW4u8kWOhWFflZxfl) | [Masked Wolf](https://open.spotify.com/artist/1uU7g3DNSbsu0QjSEqZtEd) | [Astronaut In The Ocean \(International Remixes\)](https://open.spotify.com/album/4YtSVQwETLHiKNZXySp7Mw) | 2:12 | 2021-05-30 | 2021-08-29 |
@@ -128,6 +128,7 @@
 | [Attention](https://open.spotify.com/track/6tTeRmhhuwDl5Y4UiJdHuO) | [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Attention](https://open.spotify.com/album/0fGPQwybhz88QkKXZpfkwj) | 3:00 | 2022-03-05 | 2022-03-07 |
 | [august](https://open.spotify.com/track/3hUxzQpSfdDqwM3ZTFQY0K) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [folklore](https://open.spotify.com/album/2fenSS68JI1h4Fo296JfGr) | 4:21 | 2022-08-02 | 2023-10-28 |
 | [Auntie Diaries](https://open.spotify.com/track/19Fg3WrTfo35Ji3PtfZE6J) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [Mr\. Morale & The Big Steppers](https://open.spotify.com/album/1atjqOZTCdrjxjMyCPZc2g) | 4:41 | 2022-05-14 | 2022-05-17 |
+| [Austin](https://open.spotify.com/track/6b81dy3WjbozXK6b7C1gu5) | [Dasha](https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I) | [What Happens Now?](https://open.spotify.com/album/0rQRrrZPPv6XXsxilJ1wFz) | 2:51 | 2024-03-21 |  |
 | [Avalanche](https://open.spotify.com/track/4KD0lLJ4OGonZhBeKtct9I) | [Migos](https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG) | [Culture III](https://open.spotify.com/album/3uyOwJu4r3yroAkFywNFM3) | 3:26 | 2021-06-13 | 2021-06-14 |
 | [Away From Home](https://open.spotify.com/track/4IcbUXrAzBtn6iUO1LP471) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [For All The Dogs](https://open.spotify.com/album/4czdORdCWP9umpbhFXK2fW) | 4:18 | 2023-10-07 | 2023-10-09 |
 | [ay! \(feat\. Lil Wayne\)](https://open.spotify.com/track/374EllG6WyKdKvklfanNZT) | [Machine Gun Kelly](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [ay! \(feat\. Lil Wayne\)](https://open.spotify.com/album/1e9CbSWMgie8riYCSvqNs3) | 2:04 | 2022-03-05 | 2022-03-07 |
@@ -481,6 +482,7 @@
 | [ETA](https://open.spotify.com/track/56v8WEnGzLByGsDAXDiv4d) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [NewJeans 2nd EP 'Get Up'](https://open.spotify.com/album/4N1fROq2oeyLGAlQ1C1j18) | 2:31 | 2023-07-22 | 2023-07-28 |
 | [eternal sunshine](https://open.spotify.com/track/2waUyWiimcCeA8DbJH8BtT) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [eternal sunshine](https://open.spotify.com/album/71PfP4E9roOXAudea1aPGw) | 3:30 | 2024-03-09 | 2024-03-11 |
 | [eternal sunshine](https://open.spotify.com/track/3RwWW7KeVhHGayYJgUL5eZ) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [eternal sunshine](https://open.spotify.com/album/5EYKrEDnKhhcNxGedaRQeK) | 3:30 | 2024-03-10 |  |
+| [Evergreen](https://open.spotify.com/track/6me7F0aaZjwDo6RJ5MrfBD) | [Richy Mitch & The Coal Miners](https://open.spotify.com/artist/4qU7IJSReZnsLy5907Mtau) | [RMCM](https://open.spotify.com/album/2weOG4ZiOjfxiuFMsHm9JQ) | 1:27 | 2024-03-21 |  |
 | [Evergreen \(You Didn’t Deserve Me At All\)](https://open.spotify.com/track/2TktkzfozZifbQhXjT6I33) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Ivory](https://open.spotify.com/album/5z7TD11Qh81Gbf52hd5zAv) | 3:36 | 2022-09-29 | 2022-10-21 |
 | [evermore \(feat\. Bon Iver\)](https://open.spotify.com/track/0AaV4MJrgmLV3XhoiWXjjb) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02), [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [evermore](https://open.spotify.com/album/5jmVg7rwRcgd6ARPAeYNSm) | 5:04 | 2020-12-13 | 2020-12-16 |
 | [Every Angel is Terrifying](https://open.spotify.com/track/3vJcz8exedHCjQ9ed95NqU) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Dawn FM](https://open.spotify.com/album/2nLOHgzXzwFEpl62zAgCEC) | 2:47 | 2022-01-08 | 2022-01-11 |
@@ -510,7 +512,7 @@
 | [Fear and Friday's](https://open.spotify.com/track/0GMiRrUnQuoGddKMsxGPIZ) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [Zach Bryan](https://open.spotify.com/album/6PbnGueEO6LGodPfvNldYf) | 2:51 | 2023-08-26 | 2023-08-28 |
 | [Fear Of Heights](https://open.spotify.com/track/53KaP77tkliz36LPxWGlWK) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [For All The Dogs](https://open.spotify.com/album/4czdORdCWP9umpbhFXK2fW) | 2:35 | 2023-10-07 | 2023-10-13 |
 | [Fearless \(Taylor’s Version\)](https://open.spotify.com/track/77sMIMlNaSURUAXq5coCxE) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Fearless \(Taylor's Version\)](https://open.spotify.com/album/4hDok0OAJd57SGIT8xuWJH) | 4:01 | 2021-04-11 | 2021-04-14 |
-| [Feather](https://open.spotify.com/track/2Zo1PcszsT9WQ0ANntJbID) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [emails i can’t send fwd:](https://open.spotify.com/album/2g4aJTa5ejGpp0O0GKzWAQ) | 3:05 | 2024-01-04 |  |
+| [Feather](https://open.spotify.com/track/2Zo1PcszsT9WQ0ANntJbID) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [emails i can’t send fwd:](https://open.spotify.com/album/2g4aJTa5ejGpp0O0GKzWAQ) | 3:05 | 2024-01-04 | 2024-03-22 |
 | [Feline \(with Polo G & Trippie Redd\)](https://open.spotify.com/track/5R4Yrc2j4jw1itr4hKcN26) | [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz), [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49), [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax) | [Fighting Demons](https://open.spotify.com/album/07tZDCAqxSIVEZywk0KDfT) | 3:32 | 2021-12-12 | 2021-12-13 |
 | [Feliz Cumpleaños Ferxxo](https://open.spotify.com/track/2CeKVsFFXG4QzA415QygGb) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [FELIZ CUMPLEAÑOS FERXXO TE PIRATEAMOS EL ÁLBUM](https://open.spotify.com/album/7pijRxgRaBirPz6wDaJIp9) | 2:35 | 2022-09-15 | 2023-04-18 |
 | [Feliz Navidad](https://open.spotify.com/track/0oPdaY4dXtc3ZsaG17V972) | [José Feliciano](https://open.spotify.com/artist/7K78lVZ8XzkjfRSI7570FF) | [Feliz Navidad](https://open.spotify.com/album/3No96PtEFyRfX1oELmZTPu) | 3:02 | 2023-11-26 | 2023-12-30 |

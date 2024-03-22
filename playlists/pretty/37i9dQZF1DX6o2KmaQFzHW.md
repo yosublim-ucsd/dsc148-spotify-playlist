@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6o2KmaQFzHW.md) - [plain]
 
 > Clásicos del folklore argentino de la mano de sus más grandes intérpretes\. Foto: Chaqueño Palavecino.
 
-[Spotify](https://open.spotify.com/user/spotify) - 184,836 likes - 90 songs - 5 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 184,879 likes - 90 songs - 5 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,8 +25,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6o2KmaQFzHW.md) - [plain]
 | 15 | [Zamba para Olvidarte](https://open.spotify.com/track/5V1FwqoPmvZllRuQCuZAyx) | [Daniel Toro](https://open.spotify.com/artist/3kww2RwVsla3J0eZyfRLIu) | [Zamba para Olvidarte](https://open.spotify.com/album/30n0qbEez9YgxftQ9Kv7jO) | 3:19 |
 | 16 | [Chacarera Del Rancho](https://open.spotify.com/track/7FxhDl2TtdtWa7P490QGTS) | [Los Nocheros](https://open.spotify.com/artist/2ydE5oBt6cwsDxH1TpIFmO) | [Signos](https://open.spotify.com/album/5WZizOyx12sTkACa66HQ4q) | 2:41 |
 | 17 | [A Don Amancio](https://open.spotify.com/track/4S7TxyUNJzGNg9asjU954f) | [Chaqueño Palavecino](https://open.spotify.com/artist/1GlOpg3dPUft550esb82K3) | [Chaqueñadas](https://open.spotify.com/album/6R49gTlWLOhwKDnw95olcP) | 2:29 |
-| 18 | [Del Chucaro](https://open.spotify.com/track/2WHKDp4K8OXB6zsmZ7yIGu) | [Horacio Guarany](https://open.spotify.com/artist/7exkSLWDTlXJYcmBhWp9cl) | [Horacio Guarany](https://open.spotify.com/album/7aD2UhWw7u2wqK23hVKpsT) | 3:27 |
-| 19 | [La Chicharra Cantora](https://open.spotify.com/track/3wlP4yvynVOq292A1C7jq1) | [Las Voces De Orán](https://open.spotify.com/artist/4rtxMgmSUuGnQbvf61BDB8) | [Las Voces de Orán](https://open.spotify.com/album/6kzs4QXD6lHK3ZzuGbU5Zi) | 2:10 |
+| 18 | [La Chicharra Cantora](https://open.spotify.com/track/3wlP4yvynVOq292A1C7jq1) | [Las Voces De Orán](https://open.spotify.com/artist/4rtxMgmSUuGnQbvf61BDB8) | [Las Voces de Orán](https://open.spotify.com/album/6kzs4QXD6lHK3ZzuGbU5Zi) | 2:10 |
+| 19 | [Del Chucaro](https://open.spotify.com/track/2WHKDp4K8OXB6zsmZ7yIGu) | [Horacio Guarany](https://open.spotify.com/artist/7exkSLWDTlXJYcmBhWp9cl) | [Horacio Guarany](https://open.spotify.com/album/7aD2UhWw7u2wqK23hVKpsT) | 3:27 |
 | 20 | [Entra a Mi Hogar](https://open.spotify.com/track/0vICUGzGQoi7KT0ALk4r2m) | [Los Manseros Santiagueños](https://open.spotify.com/artist/0IAWTLWnUIzKVQDTGoYJk2) | [Los 20 Años de Los Manseros Santiagueños](https://open.spotify.com/album/175Pk8soXmGSZPy2R6Ic3n) | 3:19 |
 | 21 | [Zamba para Olvidarte \(with Diego Torres\)](https://open.spotify.com/track/6LLOYYePoJZs8Gy7FmoZ7o) | [Mercedes Sosa](https://open.spotify.com/artist/2HvyR5FsU37QMqVzIbGwl7), [Diego Torres](https://open.spotify.com/artist/0LALueHEQunQ2d61fXGeZh) | [Cantora](https://open.spotify.com/album/0GEdAkGPf0hOqaHtg6arIl) | 5:02 |
 | 22 | [Vienes y Te Vas](https://open.spotify.com/track/188wTON3SZIoUVG39rINeq) | [Los Nocheros](https://open.spotify.com/artist/2ydE5oBt6cwsDxH1TpIFmO), [Los Tekis](https://open.spotify.com/artist/0iutktJLkNNtErs8c3EoF6) | [Carnaval, Pasión del Norte](https://open.spotify.com/album/0WaV0ZGsHi6ImqIe8OTDvC) | 3:05 |
@@ -61,8 +61,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6o2KmaQFzHW.md) - [plain]
 | 51 | [Los Paisajes](https://open.spotify.com/track/6EraKvLemUTpusIFpGdPTn) | [Soledad](https://open.spotify.com/artist/0K59Fm1y7s3j498ueS4qzY) | [Natural](https://open.spotify.com/album/6vmXyjSgcNzzi7Zd1ikhvx) | 3:58 |
 | 52 | [Canción Para Una Mentira](https://open.spotify.com/track/4ZchCWefhpCY7Tr8CcNsFv) | [Los Del Suquía](https://open.spotify.com/artist/4Apvih9OZt9ghebGFIVcXI) | [Canción Para Una Mentira](https://open.spotify.com/album/5DS1KiJug4nVfpk4llnSeX) | 3:11 |
 | 53 | [Agitando Pañuelos](https://open.spotify.com/track/5nIWvFvfmVxmF379f5WUP3) | [Duo Coplanacu](https://open.spotify.com/artist/4PGCodvYkKFR1qPfeDlIPQ) | [Paisaje](https://open.spotify.com/album/6Q34gyyCVKMjD5GVFEMF1a) | 4:15 |
-| 54 | [El Que Toca Nunca Baila](https://open.spotify.com/track/0AKvW2NHJ2B5QaRlm45tap) | [Los Cantores del Alba](https://open.spotify.com/artist/2kRyLphTQyz7eaHhfLpMVl) | [Te esperaré cantando](https://open.spotify.com/album/0H08ED5uLTJYGtlAUhPhnr) | 2:43 |
-| 55 | [Candombe del Olvido](https://open.spotify.com/track/6fdZSdKd2ukOJ9rYH559ru) | [Alfredo Zitarrosa](https://open.spotify.com/artist/4xQFKlQXtzYxfZOnk799m2) | [Antología III 1936\-1989](https://open.spotify.com/album/2sjqPvxZ3VVKgF5iaRVU6E) | 6:56 |
+| 54 | [Candombe del Olvido](https://open.spotify.com/track/6fdZSdKd2ukOJ9rYH559ru) | [Alfredo Zitarrosa](https://open.spotify.com/artist/4xQFKlQXtzYxfZOnk799m2) | [Antología III 1936\-1989](https://open.spotify.com/album/2sjqPvxZ3VVKgF5iaRVU6E) | 6:56 |
+| 55 | [El Que Toca Nunca Baila](https://open.spotify.com/track/0AKvW2NHJ2B5QaRlm45tap) | [Los Cantores del Alba](https://open.spotify.com/artist/2kRyLphTQyz7eaHhfLpMVl) | [Te esperaré cantando](https://open.spotify.com/album/0H08ED5uLTJYGtlAUhPhnr) | 2:43 |
 | 56 | [Ojos de Cielo](https://open.spotify.com/track/0s8cIfsyn5bE7Ri9Ml1LKH) | [Abel Pintos](https://open.spotify.com/artist/6HTUcOExehqydqa7C3usAa) | [Todos Los Dias Un Poco...](https://open.spotify.com/album/1uZI429ycqNhTLqi6LgMrM) | 3:14 |
 | 57 | [Los Ejes de Mi Carreta](https://open.spotify.com/track/1IMlyGnCZuvVGFTHdfKFzo) | [Atahualpa Yupanqui](https://open.spotify.com/artist/6I2DJf8fZwixA0GTLAvR1b) | [Viajes Por El Mundo](https://open.spotify.com/album/3iiV07YVt8Z0Ztno6uC5Gw) | 2:52 |
 | 58 | [Con Todo Y Mi Tristeza](https://open.spotify.com/track/2JqdigoVWQNWwbPf0N9wbS) | [Luciano Pereyra](https://open.spotify.com/artist/6ZZ2DeepA3GpoGU4KwqSlU) | [Amaneciendo](https://open.spotify.com/album/2mwNRP6pKKgjAAC1zSmKDF) | 4:07 |
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6o2KmaQFzHW.md) - [plain]
 | 89 | [Serenata Otoñal](https://open.spotify.com/track/39YzTZ5TP1zjtNQOiD3x5B) | [Los Cantores del Alba](https://open.spotify.com/artist/2kRyLphTQyz7eaHhfLpMVl) | [Confitería Europea 100 Años](https://open.spotify.com/album/3wcwbHnuDa07nEFmK3qmua) | 2:28 |
 | 90 | [Dios a la Una](https://open.spotify.com/track/4yioHSOUbNFggQSlFCg6HE) | [Daniel Altamirano](https://open.spotify.com/artist/1aI3fe7Zgy101dUMankLRx) | [Mi Ultima Canción](https://open.spotify.com/album/3TC7aNPSbpymAXQmWlM5hz) | 6:04 |
 
-Snapshot ID: `MCxjZGNmYTgyMTgzODgyZmVhOGUyMGMzZTRmYzlkZjgyZTY4YjU1YmY2`
+Snapshot ID: `MCxjZjY5M2IwNjlhMzU1MzViMjQyZmUxZjk3NjMwZmM1YjYzZGQzZjli`

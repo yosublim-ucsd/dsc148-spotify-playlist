@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX20Z4kH7E2EL.md) - [plain]
 
 > <a href="spotify:artist:0bGDTQ78MVgI5Snqo9KJZw">Qrion</a>'s favorite tracks\. Updated regularly\. Curated by Qrion\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,636 likes - 90 songs - 7 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,639 likes - 90 songs - 7 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX20Z4kH7E2EL.md) - [plain]
 | 89 | [Last Train \- Cristoph Remix](https://open.spotify.com/track/7pVVEH3usOAiZA2kY2iFdo) | [Eli & Fur](https://open.spotify.com/artist/5CkVLGKUJkIc1pmSk10QP4), [Cristoph](https://open.spotify.com/artist/532SqCIYmJyXEdEiCJLgYG) | [Last Train \(Cristoph Remix\)](https://open.spotify.com/album/59D4MHm5hH8Q6FG8s0XyLi) | 3:53 |
 | 90 | [Cos Of You](https://open.spotify.com/track/7nAbkjtxvS00NBcOlapI9V) | [Joseph Ray](https://open.spotify.com/artist/4O2IFXgH0FqMSHU4pzpqQX) | [Cos Of You](https://open.spotify.com/album/1N4eo5yQdprG0nLBJ7UlhM) | 6:13 |
 
-Snapshot ID: `MCxjNWNhNWQ0NTYwNWMwMTNkMjUwYzFhYTI5N2EyNDM1NDgyNjY5YjIx`
+Snapshot ID: `MCw0Mzk2MWVjZjZhYWE2OWFmZTc3ZWVjYmIyMmIyODY5YTUxNDVmYWRj`

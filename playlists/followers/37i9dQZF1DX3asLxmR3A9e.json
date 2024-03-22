@@ -1,5 +1,5 @@
 {
-  "2024-03-21": 60996,
+  "2024-03-22": 61158,
   "date_first_scraped": "2022-09-17",
   "description": "2014 highlights from the home of indie music. Cover: Lorde",
   "name": "Best of Indie 2014",
@@ -1149,7 +1149,7 @@
       ],
       "date_added": "2024-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-21",
       "duration_ms": 163626,
       "name": "Harlem",
       "url": "https://open.spotify.com/track/573latfTMO7SpGtStVrQx5"
@@ -2511,7 +2511,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-24",
+      "date_removed": null,
       "duration_ms": 125440,
       "name": "Unfucktheworld",
       "url": "https://open.spotify.com/track/2NE61HPxiQyPbNhggQqrzG"

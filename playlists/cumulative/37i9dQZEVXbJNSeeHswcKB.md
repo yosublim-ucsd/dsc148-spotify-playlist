@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Belgium.
 
-1,363 songs - 3 day 3 hr 27 min
+1,364 songs - 3 day 3 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -123,6 +123,7 @@
 | [Athéna](https://open.spotify.com/track/4OTgPQji476VR0qarMgsgG) | [Orelsan](https://open.spotify.com/artist/4FpJcNgOvIpSBeJgRg3OfN) | [Civilisation](https://open.spotify.com/album/2o2GBOfy2GG9oKYZgfZkur) | 2:52 | 2021-11-21 | 2021-11-26 |
 | [Attentat](https://open.spotify.com/track/5ioieZofgvXQK70RFhVohl) | [PLK](https://open.spotify.com/artist/3DCWeG2J1fZeu0Oe6i5Q6m), [OBOY](https://open.spotify.com/artist/66Ok6bgC570sHkw08N20pZ) | [Enna Boost](https://open.spotify.com/album/2INbsI9qbLPDqII4MNkowx) | 3:14 | 2021-11-14 | 2022-03-06 |
 | [Au Bout De La Nuit](https://open.spotify.com/track/2r6L78L65TyGirzPgJvYEy) | [Hamza](https://open.spotify.com/artist/5gs4Sm2WQUkcGeikMcVHbh) | [Sincèrement](https://open.spotify.com/album/3lyj8hU0YKXZIuYK6e0O5Y) | 3:01 | 2023-02-18 | 2023-03-05 |
+| [Austin](https://open.spotify.com/track/6b81dy3WjbozXK6b7C1gu5) | [Dasha](https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I) | [What Happens Now?](https://open.spotify.com/album/0rQRrrZPPv6XXsxilJ1wFz) | 2:51 | 2024-03-21 |  |
 | [Aïcha](https://open.spotify.com/track/3u2NGFCIe5Ynxv8djbpVP8) | [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH) | [Jefe](https://open.spotify.com/album/0RBanMMBVaRdM7SOwgAmaK) | 3:39 | 2021-12-05 | 2021-12-19 |
 | [B.O.T.A\. \(Baddest Of Them All\) \- Edit](https://open.spotify.com/track/39JofJHEtg8I4fSyo7Imft) | [Eliza Rose](https://open.spotify.com/artist/4XC335ouK6pXyq4QiIb8bP), [Interplanetary Criminal](https://open.spotify.com/artist/6uJ51uV5rYzu1MJkC4CceI) | [B.O.T.A\. \(Baddest Of Them All\)](https://open.spotify.com/album/2lQgd3Svp1ZWAzZPLobAPK) | 3:46 | 2022-09-08 | 2023-01-10 |
 | [Baby](https://open.spotify.com/track/3xrZCGMyXIDqesVz4QwJOL) | [Aya Nakamura](https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg) | [DNK](https://open.spotify.com/album/2sDLGR5LQ1pRmyCOT0alhN) | 2:42 | 2023-01-28 | 2023-03-25 |
@@ -775,7 +776,7 @@
 | [Mata Hari](https://open.spotify.com/track/3wuvVwA5RaifHz1uqKac8P) | [Efendi](https://open.spotify.com/artist/4oe1qp9xGSFxMYH4X9AXtl) | [Mata Hari](https://open.spotify.com/album/2qAJL1ffzMUKu3quKRoMwi) | 2:40 | 2021-05-25 | 2021-06-01 |
 | [MATHEMATICAL DISRESPECT](https://open.spotify.com/track/0Ymjv0OJeIIPXr6s9wi3iW) | [Lil Mabu](https://open.spotify.com/artist/6FAo7ORAHEzSSf5q10LLfN) | [MATHEMATICAL DISRESPECT](https://open.spotify.com/album/2na9riat7uwn9pax75cJue) | 1:28 | 2023-05-16 | 2023-05-20 |
 | [Matilda](https://open.spotify.com/track/6uvh0In7u1Xn4HgxOfAn8O) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry's House](https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h) | 4:05 | 2022-05-21 | 2023-06-29 |
-| [Maudit](https://open.spotify.com/track/1pA6YWfmMgbKHk36LtlcUP) | [Werenoi](https://open.spotify.com/artist/3YBJLs7RqR0aPGBgU27nDh), [Hamza](https://open.spotify.com/artist/5gs4Sm2WQUkcGeikMcVHbh) | [Pyramide](https://open.spotify.com/album/2IO8Jize9ml8Gpj4HoJFaF) | 3:17 | 2024-02-17 |  |
+| [Maudit](https://open.spotify.com/track/1pA6YWfmMgbKHk36LtlcUP) | [Werenoi](https://open.spotify.com/artist/3YBJLs7RqR0aPGBgU27nDh), [Hamza](https://open.spotify.com/artist/5gs4Sm2WQUkcGeikMcVHbh) | [Pyramide](https://open.spotify.com/album/2IO8Jize9ml8Gpj4HoJFaF) | 3:17 | 2024-02-17 | 2024-03-22 |
 | [Maudit \(feat\. Hamza\)](https://open.spotify.com/track/6MHeQfndkEfQvEoHOpkjgl) | [Vald](https://open.spotify.com/artist/3CnCGFxXbOA8bAK54jR8js), [Hamza](https://open.spotify.com/artist/5gs4Sm2WQUkcGeikMcVHbh) | [V](https://open.spotify.com/album/03ZLnEibkBpQxhXKaQiqfU) | 2:56 | 2022-02-05 | 2022-02-11 |
 | [MAUVAIS 2X \(feat\. Ninho\)](https://open.spotify.com/track/6UlSVbJrj3wsyxjGM4KPAv) | [Gazo](https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I), [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH) | [MAUVAIS 2X \(feat\. Ninho\)](https://open.spotify.com/album/1VzvY3LElVy2aPEph6Tsch) | 4:00 | 2021-11-22 | 2021-12-04 |
 | [Mauvais dans le fond](https://open.spotify.com/track/6FnrzWjXugn6wkVzQw0RIv) | [S\-Crew](https://open.spotify.com/artist/1HhXce8PpMmaKjBIWzAxWc), [PLK](https://open.spotify.com/artist/3DCWeG2J1fZeu0Oe6i5Q6m), [Doums](https://open.spotify.com/artist/4yLgYK2B5nZjZMBiaLyLyK) | [SZR 2001](https://open.spotify.com/album/2kkaNm9FAqoUVhazyqobac) | 3:18 | 2022-06-11 | 2022-06-13 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3J5toT8HI72.md) - [plain]
 
 > essa é pros apaixonados
 
-[Spotify](https://open.spotify.com/user/spotify) - 776,485 likes - 100 songs - 6 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 776,667 likes - 100 songs - 6 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,8 +25,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3J5toT8HI72.md) - [plain]
 | 15 | [Velha Infância \- 2004 Digital Remaster](https://open.spotify.com/track/1mSxbLW7fKABfeY4lGpg0E) | [Tribalistas](https://open.spotify.com/artist/4laQz4PaKeh2Hu6QL6evVD) | [Tribalistas](https://open.spotify.com/album/1kNwLPweR4ieuoGvbm1kP1) | 4:10 |
 | 16 | [Pique Djavan \- Ao Vivo](https://open.spotify.com/track/7D9sdH2LEs3To9nMZnLXUt) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi) | [Numanice \#3 \(Ao Vivo\)](https://open.spotify.com/album/2uNEA9woVB0GKJuv4vA9Af) | 2:46 |
 | 17 | [Piloto](https://open.spotify.com/track/07DskqQ1NbTiotX1WIV7ob) | [Flora Matos](https://open.spotify.com/artist/5Znx4PG5UsUitigaJnmZX3) | [Piloto](https://open.spotify.com/album/0Yzslwaxztdnw9nQX0oDdU) | 3:17 |
-| 18 | [Interessante](https://open.spotify.com/track/2ZWxngKhr90tiStZ2LUWQ8) | [Ferrugem](https://open.spotify.com/artist/5ZfBThYiIIhL7jHMG8gDB2) | [Interessante](https://open.spotify.com/album/1cQQXRwZ1xetyRSVES0pC4) | 2:52 |
-| 19 | [Deixa \(feat\. Ana Gabriela\)](https://open.spotify.com/track/3fLqmaO4vvZpFZSZy52VMp) | [Lagum](https://open.spotify.com/artist/5D56dZmhE9DgT01XixdHiD), [Ana Gabriela](https://open.spotify.com/artist/6a9WLQ5NsIV7U2qB16uFWD) | [Deixa \(feat\. Ana Gabriela\)](https://open.spotify.com/album/5y1vdBmkTHZNGCz5qswQzM) | 2:56 |
+| 18 | [Deixa \(feat\. Ana Gabriela\)](https://open.spotify.com/track/3fLqmaO4vvZpFZSZy52VMp) | [Lagum](https://open.spotify.com/artist/5D56dZmhE9DgT01XixdHiD), [Ana Gabriela](https://open.spotify.com/artist/6a9WLQ5NsIV7U2qB16uFWD) | [Deixa \(feat\. Ana Gabriela\)](https://open.spotify.com/album/5y1vdBmkTHZNGCz5qswQzM) | 2:56 |
+| 19 | [Interessante](https://open.spotify.com/track/2ZWxngKhr90tiStZ2LUWQ8) | [Ferrugem](https://open.spotify.com/artist/5ZfBThYiIIhL7jHMG8gDB2) | [Interessante](https://open.spotify.com/album/1cQQXRwZ1xetyRSVES0pC4) | 2:52 |
 | 20 | [Apenas Mais uma de Amor](https://open.spotify.com/track/6YNCE5qtrTa7YcnAOAEsDQ) | [Lulu Santos](https://open.spotify.com/artist/0A1oy7PC7fdzURgaLaWkL1) | [Lulu Acústico](https://open.spotify.com/album/14xCfgcBE9uCrwwR36NoVB) | 3:38 |
 | 21 | [Meu Abrigo](https://open.spotify.com/track/5U28PY9MekLyCBYtLHGQpe) | [Melim](https://open.spotify.com/artist/6uYrXgVHctAJtIdSODcyLJ) | [Melim](https://open.spotify.com/album/5zj7hdfXIpN0OV2aFbk27J) | 3:51 |
 | 22 | [Chico](https://open.spotify.com/track/43eRVwfXFkY3kXN4K47gNT) | [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d) | [Escândalo Íntimo](https://open.spotify.com/album/39nlfd4MoNcVGgvx64Opnt) | 3:02 |
@@ -52,8 +52,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3J5toT8HI72.md) - [plain]
 | 42 | [Toda Forma de Amor](https://open.spotify.com/track/2ma8V5vEOfCuyqZ0V8HAq3) | [Lulu Santos](https://open.spotify.com/artist/0A1oy7PC7fdzURgaLaWkL1) | [Toda Forma De Amor](https://open.spotify.com/album/4WXHWxOTHQM2VHwlIoe4vJ) | 3:45 |
 | 43 | [Medo Bobo](https://open.spotify.com/track/0d3nLIxfrwZu7sHQnOhWJa) | [Rubel](https://open.spotify.com/artist/0slVGXBggrLglTLNKbeEyW) | [Medo Bobo](https://open.spotify.com/album/7iwR0wOFLOMRDZZNWT4Hrr) | 3:18 |
 | 44 | [Singular](https://open.spotify.com/track/2bwNhYxgQlkokiEn94eAYT) | [ANAVITÓRIA](https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe) | [ANAVITÓRIA](https://open.spotify.com/album/2UkBU2McOTulQ1Ki7OwDIw) | 3:26 |
-| 45 | [Devolva\-Me \(Ao Vivo\)](https://open.spotify.com/track/5sz2LrG6jY6u7U0g2k7kws) | [Adriana Calcanhotto](https://open.spotify.com/artist/72f733zGuCPEzCSLs9wOVi) | [Público](https://open.spotify.com/album/5rZSelFMehsRmVV0wBlqTR) | 2:11 |
-| 46 | [Pra Sonhar](https://open.spotify.com/track/2VJOJBlHlSzdsf1uBpReKe) | [Marcelo Jeneci](https://open.spotify.com/artist/21LI2q2QDyaNjyfXaWWTOE), [Laura Lavieri](https://open.spotify.com/artist/1TqENBMGiIRbO5A0Rhc0za) | [Feito Pra Acabar](https://open.spotify.com/album/2aD4bVWQ2RrPvpOHSV2nSO) | 4:28 |
+| 45 | [Pra Sonhar](https://open.spotify.com/track/2VJOJBlHlSzdsf1uBpReKe) | [Marcelo Jeneci](https://open.spotify.com/artist/21LI2q2QDyaNjyfXaWWTOE), [Laura Lavieri](https://open.spotify.com/artist/1TqENBMGiIRbO5A0Rhc0za) | [Feito Pra Acabar](https://open.spotify.com/album/2aD4bVWQ2RrPvpOHSV2nSO) | 4:28 |
+| 46 | [Devolva\-Me \(Ao Vivo\)](https://open.spotify.com/track/5sz2LrG6jY6u7U0g2k7kws) | [Adriana Calcanhotto](https://open.spotify.com/artist/72f733zGuCPEzCSLs9wOVi) | [Público](https://open.spotify.com/album/5rZSelFMehsRmVV0wBlqTR) | 2:11 |
 | 47 | [Eu Amo Você](https://open.spotify.com/track/04h9o3gtRD7fvGafF7ukJj) | [Tim Maia](https://open.spotify.com/artist/0jOs0wnXCu1bGGP7kh5uIu) | [Tim Maia 1970](https://open.spotify.com/album/7HjYI9iWYOsEEvBhyCva66) | 4:03 |
 | 48 | [Você me faz tão bem](https://open.spotify.com/track/656TZu3G6rnfK9m2Y0zR6g) | [Detonautas Roque Clube](https://open.spotify.com/artist/5AlUDdksfPP7l4Qm22MJA9) | [Detonautas Acústico](https://open.spotify.com/album/0wmqgQTtS74RuTwQeR2RL3) | 4:14 |
 | 49 | [Oração](https://open.spotify.com/track/0YBq701BXkMaK6V5UyvOpT) | [A Banda Mais Bonita da Cidade](https://open.spotify.com/artist/2vyvksxB1aCmd0vl2geGYR) | [A Banda Mais Bonita da Cidade](https://open.spotify.com/album/7pJk45OMEobBhaAWVaF3sO) | 5:01 |
@@ -72,8 +72,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3J5toT8HI72.md) - [plain]
 | 62 | [Dançando](https://open.spotify.com/track/0QDXiLDkxOPlqwAsCCSggx) | [Agridoce](https://open.spotify.com/artist/4SyWhCnXrV0FDnGw1ISMJI) | [Agridoce](https://open.spotify.com/album/5OLjJ3js2XpdaDGBAk5X5x) | 5:49 |
 | 63 | [Feliz e Ponto](https://open.spotify.com/track/5I7NiZhyh9mvtdv33eBg94) | [Silva](https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz) | [Júpiter](https://open.spotify.com/album/7BqdQdesXoceTMhwEfTOrj) | 2:36 |
 | 64 | [Zero](https://open.spotify.com/track/7Jl757vT5eNqemc6PtY2dA) | [Liniker e os Caramelows](https://open.spotify.com/artist/5ZtyHkAGvYFPSYcWPfmL5n) | [Cru](https://open.spotify.com/album/7wYN6lMpcVx2maHSGc2yQb) | 6:04 |
-| 65 | [Minha Flor Meu Bebê](https://open.spotify.com/track/2xQIYPF3nQEEQFie7IfyqB) | [Cazuza](https://open.spotify.com/artist/1PwOU6fFbmaGkK3wkbb8fU) | [Ideologia](https://open.spotify.com/album/0EeQ43GyKU8pVTULAlx5be) | 3:05 |
-| 66 | [Espatódea](https://open.spotify.com/track/2TnJd3aCJcRcLylI44ms9f) | [Nando Reis](https://open.spotify.com/artist/7n1XMwvxPf10t4OX6h6Ufy) | [Sim E Não](https://open.spotify.com/album/5acqAo1oKQOAgVQG2sMYxu) | 3:46 |
+| 65 | [Espatódea](https://open.spotify.com/track/2TnJd3aCJcRcLylI44ms9f) | [Nando Reis](https://open.spotify.com/artist/7n1XMwvxPf10t4OX6h6Ufy) | [Sim E Não](https://open.spotify.com/album/5acqAo1oKQOAgVQG2sMYxu) | 3:46 |
+| 66 | [Minha Flor Meu Bebê](https://open.spotify.com/track/2xQIYPF3nQEEQFie7IfyqB) | [Cazuza](https://open.spotify.com/artist/1PwOU6fFbmaGkK3wkbb8fU) | [Ideologia](https://open.spotify.com/album/0EeQ43GyKU8pVTULAlx5be) | 3:05 |
 | 67 | [O Amor é o Segredo](https://open.spotify.com/track/7tOXo8dzQYKgWHWB9nxBVg) | [Vitor Kley](https://open.spotify.com/artist/4FGcERJWMg8ENOLixwF71U) | [A Bolha](https://open.spotify.com/album/26Tbxt6xagipSQItYUBCeE) | 3:03 |
 | 68 | [Quando A Chuva Passar](https://open.spotify.com/track/5GBa8ib7raAkOKjwbMKPZJ) | [Ivete Sangalo](https://open.spotify.com/artist/7dzq55YG3wjViqexDwiycQ) | [As Super Novas](https://open.spotify.com/album/5Ve2bB7bnxnr0kbwz7ygcF) | 4:06 |
 | 69 | [Pedra Preciosa](https://open.spotify.com/track/3c6Me0aOTbvv9eDiQGKirx) | [Gabriel Elias](https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK) | [Pedra Preciosa](https://open.spotify.com/album/1dGKlrAidKqbr2UQswAFeY) | 3:24 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3J5toT8HI72.md) - [plain]
 | 99 | [Anel de Coco \- Acústico \| Ao Vivo](https://open.spotify.com/track/7LuLv35fgBvI0FkzxT9r3l) | [Gabriel Elias](https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK) | [Anel de Coco Acústico \(Ao Vivo\)](https://open.spotify.com/album/1F3sVbUnq8vA3IR4154jI8) | 3:02 |
 | 100 | [Codinome Beija\-Flor](https://open.spotify.com/track/2jERD2u9uoC7gGNQ0LbCrI) | [Cazuza](https://open.spotify.com/artist/1PwOU6fFbmaGkK3wkbb8fU) | [Melhores Momentos](https://open.spotify.com/album/2jGyiRzQpIUs4ZATSHzUVa) | 2:31 |
 
-Snapshot ID: `MCxiNWMxMjk0ZGJiNDU0ODFlODZmMzhlZjFiYzVlMmQ3MDIxOWE4NGJh`
+Snapshot ID: `MCxlNWMzMzM1OTlkYTNhOTY1MTZlYjhkOTFhODMyODQwMGMxNDNhMDI2`

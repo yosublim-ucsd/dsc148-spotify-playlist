@@ -4,7 +4,7 @@
 
 > Your music\. Your faith\. Your life\. This is Pop for life!  Cover artist: Blessing Offor
 
-353 songs - 19 hr 42 min
+354 songs - 19 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -199,6 +199,7 @@
 | [Look No Further](https://open.spotify.com/track/5B8x1dPZMksJg881U17jzu) | [Foothills Collective](https://open.spotify.com/artist/1cMjSXEAuU5YA34WpMjlHc) | [Look No Further](https://open.spotify.com/album/0UBU0c2nFdYT6GsaHtjuVL) | 4:07 | 2021-10-31 | 2022-07-27 |
 | [Lord Send Revival \- Acoustic](https://open.spotify.com/track/13cY2FEHsAtgwJANN9kRKr) | [Hillsong Young & Free](https://open.spotify.com/artist/7m4gF38CPATtHrk5HS42WZ) | [All Of My Best Friends \(Acoustic\)](https://open.spotify.com/album/4nPE5EwG89V0ZNTPUpm7OA) | 4:53 | 2021-10-31 | 2023-01-14 |
 | [Lord Send Revival \- Acoustic](https://open.spotify.com/track/3ceYEyDWAU10XMolE7bWYD) | [Hillsong Young & Free](https://open.spotify.com/artist/7m4gF38CPATtHrk5HS42WZ) | [All Of My Best Friends \(Acoustic\)](https://open.spotify.com/album/00lmUTOABE4CrkH6vNkijc) | 4:53 | 2021-10-31 | 2022-07-25 |
+| [LOSE CONTROL](https://open.spotify.com/track/5ApvV6ALfi7YAFv6chSst6) | [Xander Sallows](https://open.spotify.com/artist/1qkNJ1IgevMh0GG9rMEh8F) | [LOSE CONTROL](https://open.spotify.com/album/7pju4LTiWq4TW1HYxsweLM) | 2:26 | 2023-01-13 |  |
 | [Love \(Remix\)](https://open.spotify.com/track/7CtbpjinSwlPwRolx7wmTi) | [We Are Messengers](https://open.spotify.com/artist/5WcisvYoq6332gCUX039Jd), [Mali Music](https://open.spotify.com/artist/4S4kD5NBlgaq4YLBQSEMyY) | [Love \(Remix\)](https://open.spotify.com/album/3irVs3SlBLgZnrotRIkd6W) | 3:30 | 2021-10-31 | 2022-07-29 |
 | [Love Is Everything We Need](https://open.spotify.com/track/4U4MhlKh1s5DW1PH4W3PbG) | [Unspoken](https://open.spotify.com/artist/0CqDqmyIQ9VQHQp52OEbB0) | [Love Is Everything We Need](https://open.spotify.com/album/6QonKeISFBF4m0uucPdv1M) | 2:37 | 2023-01-13 | 2023-04-13 |
 | [Love Is Everything We Need](https://open.spotify.com/track/5SCLsSvlwGeZuZTqma0SdQ) | [Unspoken](https://open.spotify.com/artist/0CqDqmyIQ9VQHQp52OEbB0) | [God Help Me](https://open.spotify.com/album/5qwfcAITMqoSXLF5sh2yx8) | 2:37 | 2023-01-13 |  |
@@ -310,7 +311,7 @@
 | [The Human Condition](https://open.spotify.com/track/79tNdBFaGmFRc6df7QtqXP) | [David Dunn](https://open.spotify.com/artist/57ZPJfidpxGJGkyjcmz68v) | [The Human Condition](https://open.spotify.com/album/3jvZ9c5LRUzbCB5kKLbtjv) | 3:16 | 2021-10-31 | 2022-07-25 |
 | [The Ride](https://open.spotify.com/track/2JKSjhXTmCgsG2JiTQKTGd) | [Bryan Andrew Wilson](https://open.spotify.com/artist/1QgAQ6qXAMN1Gkxk0AEy7i) | [The Ride](https://open.spotify.com/album/1PFIAOe1CjAUk13KehncSR) | 3:13 | 2021-10-31 | 2022-07-06 |
 | [The Road](https://open.spotify.com/track/6IsIpPApmefLa6dfop4xYX) | [Madeline Edwards](https://open.spotify.com/artist/3eJCIS7ytlYvT3pgReuWWa) | [The Road](https://open.spotify.com/album/4wXPYoDHriG75HyGDPtXiq) | 4:28 | 2021-10-31 | 2023-01-14 |
-| [The Same Jesus \- Reyer Remix](https://open.spotify.com/track/2V8rubGeVQkIIiqPbiDe2G) | [Reyer](https://open.spotify.com/artist/54UJV3OPkBfR4V92nsYs1Z), [JIMMY ROCK](https://open.spotify.com/artist/6YN7TGi4ZlsAy38fZVPvkN), [Oleven](https://open.spotify.com/artist/6hMyqOeb1TTUYkbNXpc6uB) | [The Same Jesus \(Reyer Remix\)](https://open.spotify.com/album/2OPFkntf4D8A4JYJHuzvDI) | 3:01 | 2023-01-13 |  |
+| [The Same Jesus \- Reyer Remix](https://open.spotify.com/track/2V8rubGeVQkIIiqPbiDe2G) | [Reyer](https://open.spotify.com/artist/54UJV3OPkBfR4V92nsYs1Z), [JIMMY ROCK](https://open.spotify.com/artist/6YN7TGi4ZlsAy38fZVPvkN), [Oleven](https://open.spotify.com/artist/6hMyqOeb1TTUYkbNXpc6uB) | [The Same Jesus \(Reyer Remix\)](https://open.spotify.com/album/2OPFkntf4D8A4JYJHuzvDI) | 3:01 | 2023-01-13 | 2024-03-22 |
 | [There For You](https://open.spotify.com/track/6pW1zSKjttBlcZ8mcogTZk) | [Tommee Profitt](https://open.spotify.com/artist/73jlPRxT7z5xk29sMqFDjU), [SVRCINA](https://open.spotify.com/artist/3wRt3iJpZDOg73CTUkfv5C) | [There For You](https://open.spotify.com/album/67cB4bGLUNvrhwUeRWlr7S) | 4:09 | 2021-10-31 | 2022-07-13 |
 | [Things That I'm Afraid Of](https://open.spotify.com/track/3YmBL5WqnALseZqllX343J) | [Ross King](https://open.spotify.com/artist/7CvGirTJfYPXGOrR4JwHDg) | [Things That I'm Afraid Of](https://open.spotify.com/album/0ObUbXvNcpzzEyRNmvTG0m) | 3:11 | 2021-10-31 | 2022-07-29 |
 | [This Is Freedom \(Ain't No Rock\) \- Live](https://open.spotify.com/track/60LX2GW2xtmTrjVVkwajH8) | [The Belonging Co](https://open.spotify.com/artist/1XnyRY1hSHsZxiIEX8Nzl5), [Natalie Grant](https://open.spotify.com/artist/6KVnMm856M8CHHBCw53Ihh) | [This Is Freedom \(Ain't No Rock\) \[Live\]](https://open.spotify.com/album/5BTCplUzGy9or5RdbSDe7v) | 5:44 | 2023-01-13 |  |

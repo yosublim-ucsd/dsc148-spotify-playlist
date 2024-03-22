@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07X8UDWKEwP.md) - [plain]
 
 > Lo nuevo del mundo tropical\. Cover: Gaby Zambrano
 
-[Spotify](https://open.spotify.com/user/spotify) - 251,693 likes - 50 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 251,700 likes - 50 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07X8UDWKEwP.md) - [plain]
 | 21 | [COCO LOCO](https://open.spotify.com/track/3kmWIej9tXjSWWYc9tPjJk) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [COCO LOCO](https://open.spotify.com/album/21HEULXdjdbOsXoR0ajBeB) | 2:46 |
 | 22 | [Falsos Recuerdos](https://open.spotify.com/track/4snJ71Uz5KvX1CW0SaUiZY) | [Abraham Mateo](https://open.spotify.com/artist/2bxxlINUlcMQQb39K7IopR), [Omar Montes](https://open.spotify.com/artist/3lY9Fxceu60W1rbon7PkuF) | [Falsos Recuerdos](https://open.spotify.com/album/35djQkpLKC1ijpfi6i3AJw) | 3:11 |
 | 23 | [Cosas de la Peda \(feat\. Gabito Ballesteros\)](https://open.spotify.com/track/1RzNRKntEk0KiQE4NFBKmc) | [Prince Royce](https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC), [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf) | [Cosas de la Peda \(feat\. Gabito Ballesteros\)](https://open.spotify.com/album/6w2nSB1vjClXyhZZ59tmKS) | 2:41 |
-| 24 | [SIN TI](https://open.spotify.com/track/5AcyixjIMjWfLUphthR46B) | [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK), [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [SIN TI](https://open.spotify.com/album/5fWYCPqDrOopoTPAPbyzDK) | 3:02 |
-| 25 | [ELLA TIENE](https://open.spotify.com/track/31YHWv22Lyv9iKBepk3guM) | [NATHY PELUSO](https://open.spotify.com/artist/3VHAySZQPlfGlNLslzXYpN), [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1) | [ELLA TIENE](https://open.spotify.com/album/0VSnZVbjbufIZYKwy3Rafu) | 3:16 |
+| 24 | [ELLA TIENE](https://open.spotify.com/track/31YHWv22Lyv9iKBepk3guM) | [NATHY PELUSO](https://open.spotify.com/artist/3VHAySZQPlfGlNLslzXYpN), [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1) | [ELLA TIENE](https://open.spotify.com/album/0VSnZVbjbufIZYKwy3Rafu) | 3:16 |
+| 25 | [SIN TI](https://open.spotify.com/track/5AcyixjIMjWfLUphthR46B) | [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK), [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [SIN TI](https://open.spotify.com/album/5fWYCPqDrOopoTPAPbyzDK) | 3:02 |
 | 26 | [ADIÓS \(Live Version\)](https://open.spotify.com/track/3jrn71DBQDQsenUUNspQwe) | [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG), [Rafaga](https://open.spotify.com/artist/0CBKUzrf6yGdTgxAQbUUHS) | [ADIÓS \(Live Version\)](https://open.spotify.com/album/4kl31TLRY80ZsAGSAFn282) | 2:44 |
 | 27 | [OJITOS ROJOS](https://open.spotify.com/track/5LsvrplQ7YCK4ROg4gym9a) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW), [Ke Personajes](https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM) | [OJITOS ROJOS](https://open.spotify.com/album/6mJsfQtxflmwDCCaeDBwYV) | 3:41 |
 | 28 | [LAS BURBUJAS DEL JACUZZI](https://open.spotify.com/track/1u7m5t7YwN5neo0RtL3oRB) | [India Martinez](https://open.spotify.com/artist/6FOpWOxsjQxKEbLiJpU1xV), [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX), [Lele Pons](https://open.spotify.com/artist/6i3DxIlAqnDkwELLw4aVrx) | [LAS BURBUJAS DEL JACUZZI](https://open.spotify.com/album/5XrAHXh8BA2Ncvltge5YPk) | 2:36 |
@@ -45,9 +45,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07X8UDWKEwP.md) - [plain]
 | 35 | [La Romana](https://open.spotify.com/track/6SwuM3zEorFitaGONgDFbb) | [Luis Fonsi](https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG) | [La Romana](https://open.spotify.com/album/2zn0zFvTLqWtrFM4qIZhBd) | 2:35 |
 | 36 | [COMO YO TE QUIERO \(DELUXE\)](https://open.spotify.com/track/0scExGzOWnDaq2ExI3HRQx) | [KHEA](https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR), [Ana Mena](https://open.spotify.com/artist/6k8mwkKJKKjBILo7ypBspl) | [SEROTONINA \(DELUXE\)](https://open.spotify.com/album/77PfUu2wLVGjkkJ6uxL8vY) | 3:31 |
 | 37 | [Otra Noche Más \(feat\. Frankie Ruiz\)](https://open.spotify.com/track/5OOaAYlNPgBUtBviFtGpHl) | [Víctor Manuelle](https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2), [Frankie Ruiz](https://open.spotify.com/artist/4dLvccxeQIM5u80Ri0u9OV) | [Otra Noche Más \(feat\. Frankie Ruiz\)](https://open.spotify.com/album/619jR5aODkum1ZlOGMx6Sg) | 4:27 |
-| 38 | [Fue Culpa De Usted](https://open.spotify.com/track/38WoHatz30sMtk0JvZUIpO) | [Moa Rivera](https://open.spotify.com/artist/3SVGxBlWR0Cnamj9e2Ybmz), [Lenier](https://open.spotify.com/artist/4zWFlKgU4j7ryWg5nsOmU6) | [Fue Culpa De Usted](https://open.spotify.com/album/25DTevb3waLjeothJ0ADfZ) | 3:27 |
-| 39 | [El Amor De Mi Vida](https://open.spotify.com/track/04sktg3deiYUweHfbFUZTM) | [Los Ángeles Azules](https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW), [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [El Amor De Mi Vida](https://open.spotify.com/album/2RPuxZNaziqNHjbUgoE8iW) | 3:04 |
-| 40 | [Estrellita](https://open.spotify.com/track/7wv09FSKH9ZBqXkNRKBony) | [Zhamira Zambrano](https://open.spotify.com/artist/2IdDxiUkjLI0WfypRO1Rh3) | [Estrellita](https://open.spotify.com/album/0dSbNOBz88REk7f8SBGXDW) | 2:37 |
+| 38 | [El Amor De Mi Vida](https://open.spotify.com/track/04sktg3deiYUweHfbFUZTM) | [Los Ángeles Azules](https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW), [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [El Amor De Mi Vida](https://open.spotify.com/album/2RPuxZNaziqNHjbUgoE8iW) | 3:04 |
+| 39 | [Estrellita](https://open.spotify.com/track/7wv09FSKH9ZBqXkNRKBony) | [Zhamira Zambrano](https://open.spotify.com/artist/2IdDxiUkjLI0WfypRO1Rh3) | [Estrellita](https://open.spotify.com/album/0dSbNOBz88REk7f8SBGXDW) | 2:37 |
+| 40 | [Fue Culpa De Usted](https://open.spotify.com/track/38WoHatz30sMtk0JvZUIpO) | [Moa Rivera](https://open.spotify.com/artist/3SVGxBlWR0Cnamj9e2Ybmz), [Lenier](https://open.spotify.com/artist/4zWFlKgU4j7ryWg5nsOmU6) | [Fue Culpa De Usted](https://open.spotify.com/album/25DTevb3waLjeothJ0ADfZ) | 3:27 |
 | 41 | [Call On Me](https://open.spotify.com/track/5dl97w82KkuprJVDKSyJQp) | [Johnny Sky](https://open.spotify.com/artist/3EVZsBWq5KqdtS6eVNHN8d) | [Call On Me](https://open.spotify.com/album/3Ohcoreeq3qG3okky9o0Wx) | 2:48 |
 | 42 | [Mi Pecadito](https://open.spotify.com/track/5yrbKnKL9mKC61StX948w1) | [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6), [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX) | [Mi Pecadito](https://open.spotify.com/album/2YsZcOI0c1Eyo0JlDAGwXD) | 3:17 |
 | 43 | [Amantes Suicidas](https://open.spotify.com/track/1JhNmwO8Y04b4XidpSrytb) | [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [Autopoiética](https://open.spotify.com/album/1P3veSTOBbA57c6nndi5xI) | 3:58 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07X8UDWKEwP.md) - [plain]
 | 49 | [Ay, Ay, Ay](https://open.spotify.com/track/1K3dJsDTQouwqmTC5tfpzg) | [David Bisbal](https://open.spotify.com/artist/5gOJTI4TusSENizxhcG7jB) | [Ay, Ay, Ay](https://open.spotify.com/album/46s563q4qhwESZBJ4GI5yD) | 3:28 |
 | 50 | [ORGULLO](https://open.spotify.com/track/6FChr93F3ECYRaIKwL7DOa) | [Gonzy](https://open.spotify.com/artist/4ixNZvQuuzCDxBsxO9zE6L) | [DESAHOGO](https://open.spotify.com/album/1mMPzNKVMKcgux2WtZx5ak) | 3:22 |
 
-Snapshot ID: `MCxiZDNhYjY4MmQwZWJmMzdmN2E4NDZjNTFiMGU3ZGM5ZmE5OThjZTU1`
+Snapshot ID: `MCwwY2RkOWVkNjA2MDY5NTAzMTMzOGVhYjBkN2YwNDRhMTVmMmJiYTIz`

@@ -4,7 +4,7 @@
 
 > Any songs you forgot existed? Let's go deep into 80s rock! Cover: Def Leppard.
 
-537 songs - 1 day 14 hr 59 min
+538 songs - 1 day 15 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -251,7 +251,7 @@
 | [Lil' Devil](https://open.spotify.com/track/7yegaaIxiqkPANAVLFCteI) | [The Cult](https://open.spotify.com/artist/49DW3KvkyjHO35mK1JnSyS) | [Electric](https://open.spotify.com/album/40P0nhd8xLFpuWt6TmR4lB) | 2:46 | 2020-12-08 |  |
 | [Listen Like Thieves](https://open.spotify.com/track/4CXPPtJaJf5uZRmFLEarAK) | [INXS](https://open.spotify.com/artist/1eClJfHLoDI4rZe5HxzBFv) | [Listen Like Thieves](https://open.spotify.com/album/1U6tgUieq2uuKip6DVxM31) | 3:45 | 2022-03-28 | 2022-05-25 |
 | [Listen Like Thieves](https://open.spotify.com/track/2NnwJBDPTeqBoIn2G707aZ) | [INXS](https://open.spotify.com/artist/1eClJfHLoDI4rZe5HxzBFv) | [Listen Like Thieves \(Remastered\)](https://open.spotify.com/album/7xYuZehiCGjWOb0pIZoNCS) | 3:46 | 2020-12-08 | 2022-07-29 |
-| [Little T&A \- Remastered](https://open.spotify.com/track/7K3rmA4f6NEElsxKEOOt8H) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Tattoo You \(2009 Re\-Mastered\)](https://open.spotify.com/album/15XNBzVWARPMlu0sEbfBjJ) | 3:23 | 2020-12-08 |  |
+| [Little T&A \- Remastered](https://open.spotify.com/track/7K3rmA4f6NEElsxKEOOt8H) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Tattoo You \(2009 Re\-Mastered\)](https://open.spotify.com/album/15XNBzVWARPMlu0sEbfBjJ) | 3:23 | 2020-12-08 | 2024-03-22 |
 | [Living in Another World \- 1997 Remaster](https://open.spotify.com/track/03d3DCqwvt65Orfdomjs6e) | [Talk Talk](https://open.spotify.com/artist/7Fo8TAyGJr4VmhE68QamMf) | [The Colour of Spring](https://open.spotify.com/album/70V1kL7w7Q9pDU4I6zDjYE) | 6:58 | 2020-12-08 |  |
 | [Long Gone](https://open.spotify.com/track/64OczLYckthEjRiCCZDeAF) | [Bryan Adams](https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc) | [Reckless \(30th Anniversary / Deluxe Edition\)](https://open.spotify.com/album/2o2G49EPi4lua5zgxUKhLL) | 3:58 | 2020-12-08 | 2022-07-26 |
 | [Look Away \- 2009 Remaster](https://open.spotify.com/track/2dEVFDQ9Z9Gyl73yhoKl65) | [Chicago](https://open.spotify.com/artist/3iDD7bnsjL9J4fO298r0L0) | [Chicago 19 \(Expanded Edition\)](https://open.spotify.com/album/1Z9Rlkd9LAYTZcU2TU7BZY) | 4:02 | 2020-12-08 |  |
@@ -528,6 +528,7 @@
 | [Wild Flower](https://open.spotify.com/track/75tCX7RI0eqD99yHMS8h4w) | [The Cult](https://open.spotify.com/artist/49DW3KvkyjHO35mK1JnSyS) | [Electric](https://open.spotify.com/album/40P0nhd8xLFpuWt6TmR4lB) | 3:37 | 2020-12-08 |  |
 | [Wild Flower](https://open.spotify.com/track/7kiYhGmh3BI9kAiuPJV4Ai) | [The Cult](https://open.spotify.com/artist/49DW3KvkyjHO35mK1JnSyS) | [Electric](https://open.spotify.com/album/2Ah76CkWPKnhhuwQT8DcHQ) | 3:38 | 2020-12-08 | 2022-07-29 |
 | [Wild In The Streets](https://open.spotify.com/track/3ZqKjL20uQEqHlZNcP2bZC) | [Bon Jovi](https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp) | [Slippery When Wet](https://open.spotify.com/album/0kBfgEilUFCMIQY5IOjG4t) | 3:54 | 2020-12-08 | 2022-07-21 |
+| [Wild Wild Life](https://open.spotify.com/track/5VGl1VsTtPO2gbhHrhB5Lx) | [Talking Heads](https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC) | [True Stories](https://open.spotify.com/album/7qCDoQjDZhqA51wzOKmEZO) | 3:39 | 2022-11-17 |  |
 | [Wild Wild Life \- 2005 Remaster](https://open.spotify.com/track/4u6rcmlhDDgS0YAo8ZMI4a) | [Talking Heads](https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC), [Jerry Harrison](https://open.spotify.com/artist/1GkiKu2FJFSBrXSL8wKFzy) | [True Stories](https://open.spotify.com/album/5PvkD4XryLL9oC4NFItYIM) | 3:40 | 2020-12-08 | 2022-07-29 |
 | [Wildest Dreams](https://open.spotify.com/track/5RgHlnj7j9mne2ZPDCoTh7) | [Asia](https://open.spotify.com/artist/1bdytLV3FPjyhfrb6BhMej) | [Asia](https://open.spotify.com/album/5TkfP3cqWgeBvCugPeiGNl) | 5:11 | 2020-12-08 | 2022-07-29 |
 | [Will You Still Love Me? \- Alternate](https://open.spotify.com/track/0Wv3aY6gApoT3oKBYIqvXb) | [Chicago](https://open.spotify.com/artist/3iDD7bnsjL9J4fO298r0L0) | [Chicago 18 \(Expanded Edition\)](https://open.spotify.com/album/6Jb6GQDM1JxfuULJ0icoyE) | 4:13 | 2020-12-08 |  |

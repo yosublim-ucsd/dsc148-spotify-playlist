@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Cortes modernos pa' los compas con estilo!",
-  "num_followers": 97959,
+  "num_followers": 97986,
   "original_name": "Barber\u00eda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmMGVhOWFhY2M1MTk3ZDU5NDhjNzAyNTg1MWQ4OWRiNGU1NDEwMmE0",
+  "snapshot_id": "MCw4OTNmZGQzNzRmZWExN2Q0NjhhMjA4NWNkNTcwOTMyMTllODkwOTBi",
   "tracks": [
     {
       "added_at": "2024-03-05 17:33:05",
@@ -215,8 +215,8 @@
     {
       "added_at": "2024-03-05 17:33:05",
       "album": {
-        "name": "A Tu Manera",
-        "url": "https://open.spotify.com/album/5Skq54fuDILpEKXtmtTFXl"
+        "name": "El Azul",
+        "url": "https://open.spotify.com/album/2szyIt0ulaHnKxxyrlUCDB"
       },
       "artists": [
         {
@@ -228,25 +228,33 @@
           "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
         }
       ],
-      "duration_ms": 261068,
-      "name": "A Tu Manera",
-      "url": "https://open.spotify.com/track/2500EpUpryOBJX0rO8fDuB"
+      "duration_ms": 187225,
+      "name": "El Azul",
+      "url": "https://open.spotify.com/track/1haJsMtoBhHfvuM7XWuT3W"
     },
     {
       "added_at": "2024-03-05 17:33:05",
       "album": {
-        "name": "El Abayarde",
-        "url": "https://open.spotify.com/album/6Q1kiSijkaHwoCwZUHW6IY"
+        "name": "Platonicos",
+        "url": "https://open.spotify.com/album/5sEpXan86hEcM8eZSAoWhw"
       },
       "artists": [
         {
-          "name": "Tego Calder\u00f3n",
-          "url": "https://open.spotify.com/artist/3SUT1jjM5hzZj9TLfLZGIP"
+          "name": "Jay Wheeler",
+          "url": "https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g"
+        },
+        {
+          "name": "DJ Nelson",
+          "url": "https://open.spotify.com/artist/2ydZrTy8U3kOMOzx20s3dg"
+        },
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
         }
       ],
-      "duration_ms": 151666,
-      "name": "Pa' Que Retozen",
-      "url": "https://open.spotify.com/track/5YJ4BVvTFmVCxUyhKejHfR"
+      "duration_ms": 219048,
+      "name": "La Curiosidad",
+      "url": "https://open.spotify.com/track/4HYDUMY0xSpeBr0AMY9cUz"
     },
     {
       "added_at": "2024-03-05 17:33:05",
@@ -311,26 +319,18 @@
     {
       "added_at": "2024-03-05 17:33:05",
       "album": {
-        "name": "Platonicos",
-        "url": "https://open.spotify.com/album/5sEpXan86hEcM8eZSAoWhw"
+        "name": "El Abayarde",
+        "url": "https://open.spotify.com/album/6Q1kiSijkaHwoCwZUHW6IY"
       },
       "artists": [
         {
-          "name": "Jay Wheeler",
-          "url": "https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g"
-        },
-        {
-          "name": "DJ Nelson",
-          "url": "https://open.spotify.com/artist/2ydZrTy8U3kOMOzx20s3dg"
-        },
-        {
-          "name": "Myke Towers",
-          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+          "name": "Tego Calder\u00f3n",
+          "url": "https://open.spotify.com/artist/3SUT1jjM5hzZj9TLfLZGIP"
         }
       ],
-      "duration_ms": 219048,
-      "name": "La Curiosidad",
-      "url": "https://open.spotify.com/track/4HYDUMY0xSpeBr0AMY9cUz"
+      "duration_ms": 151666,
+      "name": "Pa' Que Retozen",
+      "url": "https://open.spotify.com/track/5YJ4BVvTFmVCxUyhKejHfR"
     },
     {
       "added_at": "2024-03-05 17:33:05",
@@ -355,8 +355,8 @@
     {
       "added_at": "2024-03-05 17:33:05",
       "album": {
-        "name": "El Azul",
-        "url": "https://open.spotify.com/album/2szyIt0ulaHnKxxyrlUCDB"
+        "name": "A Tu Manera",
+        "url": "https://open.spotify.com/album/5Skq54fuDILpEKXtmtTFXl"
       },
       "artists": [
         {
@@ -368,9 +368,9 @@
           "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
         }
       ],
-      "duration_ms": 187225,
-      "name": "El Azul",
-      "url": "https://open.spotify.com/track/1haJsMtoBhHfvuM7XWuT3W"
+      "duration_ms": 261068,
+      "name": "A Tu Manera",
+      "url": "https://open.spotify.com/track/2500EpUpryOBJX0rO8fDuB"
     },
     {
       "added_at": "2024-03-05 17:33:05",
@@ -579,6 +579,22 @@
     {
       "added_at": "2024-03-05 17:33:05",
       "album": {
+        "name": "The Last Don II",
+        "url": "https://open.spotify.com/album/57mWSm5UtRGT08KeJuyZqu"
+      },
+      "artists": [
+        {
+          "name": "Don Omar",
+          "url": "https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z"
+        }
+      ],
+      "duration_ms": 193613,
+      "name": "Guaya Guaya",
+      "url": "https://open.spotify.com/track/79zvVrn65ksbiGQxrtV4I5"
+    },
+    {
+      "added_at": "2024-03-05 17:33:05",
+      "album": {
         "name": "NO SON KLLE",
         "url": "https://open.spotify.com/album/3manJutsZhzlnZe2xMWp7y"
       },
@@ -599,22 +615,6 @@
       "duration_ms": 223586,
       "name": "NO SON KLLE",
       "url": "https://open.spotify.com/track/4dUES55SAFKZp4ekMlLHWZ"
-    },
-    {
-      "added_at": "2024-03-05 17:33:05",
-      "album": {
-        "name": "The Last Don II",
-        "url": "https://open.spotify.com/album/57mWSm5UtRGT08KeJuyZqu"
-      },
-      "artists": [
-        {
-          "name": "Don Omar",
-          "url": "https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z"
-        }
-      ],
-      "duration_ms": 193613,
-      "name": "Guaya Guaya",
-      "url": "https://open.spotify.com/track/79zvVrn65ksbiGQxrtV4I5"
     },
     {
       "added_at": "2024-03-05 17:33:05",
@@ -1147,26 +1147,6 @@
     {
       "added_at": "2024-03-05 17:33:05",
       "album": {
-        "name": "Te Ire A Buscar",
-        "url": "https://open.spotify.com/album/48nhACiR3pxi57lxXIxx1P"
-      },
-      "artists": [
-        {
-          "name": "Santa Fe Klan",
-          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
-        },
-        {
-          "name": "Nanpa B\u00e1sico",
-          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
-        }
-      ],
-      "duration_ms": 218045,
-      "name": "Te Ire A Buscar",
-      "url": "https://open.spotify.com/track/3elpkpwYlmUbuvmVps08lJ"
-    },
-    {
-      "added_at": "2024-03-05 17:33:05",
-      "album": {
         "name": "Desesperados",
         "url": "https://open.spotify.com/album/3w1Tr9F91XMcsmBJQ8hS7H"
       },
@@ -1183,6 +1163,26 @@
       "duration_ms": 224996,
       "name": "Desesperados",
       "url": "https://open.spotify.com/track/6ZOcbKub95XSDESsKKuH41"
+    },
+    {
+      "added_at": "2024-03-05 17:33:05",
+      "album": {
+        "name": "Te Ire A Buscar",
+        "url": "https://open.spotify.com/album/48nhACiR3pxi57lxXIxx1P"
+      },
+      "artists": [
+        {
+          "name": "Santa Fe Klan",
+          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
+        },
+        {
+          "name": "Nanpa B\u00e1sico",
+          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
+        }
+      ],
+      "duration_ms": 218045,
+      "name": "Te Ire A Buscar",
+      "url": "https://open.spotify.com/track/3elpkpwYlmUbuvmVps08lJ"
     },
     {
       "added_at": "2024-03-05 17:33:05",
@@ -1223,22 +1223,6 @@
     {
       "added_at": "2024-03-05 17:33:05",
       "album": {
-        "name": "Volando",
-        "url": "https://open.spotify.com/album/3h9sn7qACkviYYhvey79hp"
-      },
-      "artists": [
-        {
-          "name": "Lefty Sm",
-          "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
-        }
-      ],
-      "duration_ms": 218000,
-      "name": "Volando",
-      "url": "https://open.spotify.com/track/1aHD6BlYi6rsJCetEWH9f4"
-    },
-    {
-      "added_at": "2024-03-05 17:33:05",
-      "album": {
         "name": "Corridos B\u00e9licos, Vol. IV (Versi\u00f3n Deluxe)",
         "url": "https://open.spotify.com/album/67BJDrtPa43KdZ8fAFrCP8"
       },
@@ -1255,6 +1239,22 @@
       "duration_ms": 179450,
       "name": "La 701",
       "url": "https://open.spotify.com/track/7hOjsjkiAxFRHNUlLJSO1i"
+    },
+    {
+      "added_at": "2024-03-05 17:33:05",
+      "album": {
+        "name": "Volando",
+        "url": "https://open.spotify.com/album/3h9sn7qACkviYYhvey79hp"
+      },
+      "artists": [
+        {
+          "name": "Lefty Sm",
+          "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
+        }
+      ],
+      "duration_ms": 218000,
+      "name": "Volando",
+      "url": "https://open.spotify.com/track/1aHD6BlYi6rsJCetEWH9f4"
     },
     {
       "added_at": "2024-03-05 17:33:05",
@@ -1363,6 +1363,26 @@
     {
       "added_at": "2024-03-05 17:33:05",
       "album": {
+        "name": "Corridos B\u00e9licos, Vol. IV (Versi\u00f3n Deluxe)",
+        "url": "https://open.spotify.com/album/67BJDrtPa43KdZ8fAFrCP8"
+      },
+      "artists": [
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        },
+        {
+          "name": "Jasiel Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy"
+        }
+      ],
+      "duration_ms": 153269,
+      "name": "GTA",
+      "url": "https://open.spotify.com/track/4U20gQcVcjzY12xhLsXwXy"
+    },
+    {
+      "added_at": "2024-03-05 17:33:05",
+      "album": {
         "name": "Eclipse",
         "url": "https://open.spotify.com/album/58bkzXIuIabVia7LjAOpT3"
       },
@@ -1395,26 +1415,6 @@
       "duration_ms": 218250,
       "name": "Por Mi M\u00e9xico",
       "url": "https://open.spotify.com/track/2sUknbm8xdLQgH7wb8xcTX"
-    },
-    {
-      "added_at": "2024-03-05 17:33:05",
-      "album": {
-        "name": "Corridos B\u00e9licos, Vol. IV (Versi\u00f3n Deluxe)",
-        "url": "https://open.spotify.com/album/67BJDrtPa43KdZ8fAFrCP8"
-      },
-      "artists": [
-        {
-          "name": "Luis R Conriquez",
-          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
-        },
-        {
-          "name": "Jasiel Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy"
-        }
-      ],
-      "duration_ms": 153269,
-      "name": "GTA",
-      "url": "https://open.spotify.com/track/4U20gQcVcjzY12xhLsXwXy"
     },
     {
       "added_at": "2024-03-05 17:33:05",

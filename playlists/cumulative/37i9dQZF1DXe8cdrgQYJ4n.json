@@ -1339,6 +1339,24 @@
     },
     {
       "album": {
+        "name": "People like us",
+        "url": "https://open.spotify.com/album/2vJ9k7X0Bv1H6WgzSWFdTH"
+      },
+      "artists": [
+        {
+          "name": "Lee go do",
+          "url": "https://open.spotify.com/artist/18r9qka1AKwgqzUzaLdxhm"
+        }
+      ],
+      "date_added": "2022-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193200,
+      "name": "People like us",
+      "url": "https://open.spotify.com/track/7pzn1IRBE4m2Cwod1f2RqI"
+    },
+    {
+      "album": {
         "name": "Queendom - The 6th Mini Album",
         "url": "https://open.spotify.com/album/6Pe5LGQgU3mmvuRjFMsACV"
       },
@@ -1756,24 +1774,6 @@
       "duration_ms": 210705,
       "name": "\ub0a8\uc790 \uc5c6\uc774 \uc798 \uc0b4\uc544",
       "url": "https://open.spotify.com/track/7hCnoPpEDBMGnooYnOCRPX"
-    },
-    {
-      "album": {
-        "name": "\uc6b0\ub9ac \uac19\uc740 \uc0ac\ub78c\ub4e4 People like us",
-        "url": "https://open.spotify.com/album/2vJ9k7X0Bv1H6WgzSWFdTH"
-      },
-      "artists": [
-        {
-          "name": "Lee go do",
-          "url": "https://open.spotify.com/artist/18r9qka1AKwgqzUzaLdxhm"
-        }
-      ],
-      "date_added": "2022-08-18",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 193200,
-      "name": "\uc6b0\ub9ac \uac19\uc740 \uc0ac\ub78c\ub4e4 People like us",
-      "url": "https://open.spotify.com/track/7pzn1IRBE4m2Cwod1f2RqI"
     },
     {
       "album": {

@@ -2,9 +2,9 @@
 
 ### [Street Energy ](https://open.spotify.com/playlist/37i9dQZF1DX1GHMwBE32Ob)
 
-> From the trenches\. Through the streets.<br/>Cover: Bella Shmurda
+> From the trenches\. Through the streets.<br/>Cover: Candy Bleakz
 
-217 songs - 10 hr 2 min
+219 songs - 10 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -69,13 +69,13 @@
 | [Eko](https://open.spotify.com/track/67vIPkYLoytrCt53WmvBQK) | [T.I BLAZE](https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC) | [Eko](https://open.spotify.com/album/3R1UwiWmnb55oRBBtIjrA8) | 2:31 | 2024-02-16 |  |
 | [Enough](https://open.spotify.com/track/0W0Fx4N2tsxQqZUWdnQxdv) | [BhadBoi OML](https://open.spotify.com/artist/7gCoPolzUpHjzOhp22ihoN) | [Bhadriyun](https://open.spotify.com/album/7sjsGrS4iTNhagmnwjexh3) | 2:51 | 2023-11-03 | 2023-11-10 |
 | [Ex Convict](https://open.spotify.com/track/3Q4oVlA6z9TH0jhaDl6aNT) | [Shallipopi](https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU) | [Ex Convict](https://open.spotify.com/album/1ZNJEECHv1mt8ktam5iX6i) | 3:22 | 2023-07-14 | 2023-11-23 |
-| [Ex Convict](https://open.spotify.com/track/5WAFaje0Cs3hHhNqjUIfY6) | [Shallipopi](https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU) | [Ex Convict](https://open.spotify.com/album/5Y0FIl4JX5S1vvm5Kc8OHh) | 3:22 | 2023-11-17 |  |
+| [Ex Convict](https://open.spotify.com/track/5WAFaje0Cs3hHhNqjUIfY6) | [Shallipopi](https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU) | [Ex Convict](https://open.spotify.com/album/5Y0FIl4JX5S1vvm5Kc8OHh) | 3:22 | 2023-11-17 | 2024-03-22 |
 | [Expensive OG](https://open.spotify.com/track/2uouDmVWCi9IlxG8x7O7VR) | [Portable](https://open.spotify.com/artist/5Sq9h4GMnTD99EyfZmYgqe) | [Expensive OG](https://open.spotify.com/album/75UAX3c5Ahb7offUmPHyqB) | 3:42 | 2022-06-29 | 2022-12-13 |
 | [Express](https://open.spotify.com/track/49ST93zDICBoe4noumugsa) | [Tha Boy Myles](https://open.spotify.com/artist/0kBkGmd0pKKvVpPXBRR5v5) | [Level Up](https://open.spotify.com/album/1wUqEJDUw7VOlPrt01lGdY) | 3:00 | 2023-08-17 | 2023-09-29 |
 | [Fakosi](https://open.spotify.com/track/3yFntP1ZfDbHkNWWOCZt7O) | [Reekado Banks](https://open.spotify.com/artist/3bxZkzk0PLHcetO9o4oxXn), [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx), [Del B](https://open.spotify.com/artist/6lDz9VhPe8FMyUEWpMdj2t) | [Fakosi \(Remix\)](https://open.spotify.com/album/3YPNvgCesJrEaLZgZLXzdt) | 3:02 | 2024-02-16 |  |
 | [Feel Better](https://open.spotify.com/track/11gtAsVqrzhvI0g9lVrLc0) | [Anonymous Music](https://open.spotify.com/artist/4WhsLR2xiykGDAXg1ozqBG), [Mohbad](https://open.spotify.com/artist/0a8YNI8VHVPYKIPvCiJDxa) | [Feel Better](https://open.spotify.com/album/1ew7HYS9GyX2klze1hoKFL) | 2:23 | 2023-01-12 | 2023-11-23 |
 | [Feel Better](https://open.spotify.com/track/2d3hsKUez4aoqs5E0uPyS0) | [Anonymous Music](https://open.spotify.com/artist/4WhsLR2xiykGDAXg1ozqBG), [Mohbad](https://open.spotify.com/artist/0a8YNI8VHVPYKIPvCiJDxa) | [Feel Better](https://open.spotify.com/album/6PXWungbDlNlNvfZJe42GD) | 2:23 | 2023-11-17 |  |
-| [Feeling Funny](https://open.spotify.com/track/73MwJHhrrDbOlzWTCziVJr) | [Lil Kesh](https://open.spotify.com/artist/38XiDu0kK3Z5jdHUDqBzNT), [Young Jonn](https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI) | [Feeling Funny](https://open.spotify.com/album/21kuDsl3msFKcs3I2q3D1j) | 3:18 | 2023-07-07 |  |
+| [Feeling Funny](https://open.spotify.com/track/73MwJHhrrDbOlzWTCziVJr) | [Lil Kesh](https://open.spotify.com/artist/38XiDu0kK3Z5jdHUDqBzNT), [Young Jonn](https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI) | [Feeling Funny](https://open.spotify.com/album/21kuDsl3msFKcs3I2q3D1j) | 3:18 | 2023-07-07 | 2024-03-22 |
 | [Fididi](https://open.spotify.com/track/2rJas09J1tQEIhHZEmTsjv) | [Flash](https://open.spotify.com/artist/4YpdJj3xKNzKiLjowqoi0p), [SPINALL](https://open.spotify.com/artist/2NtQA3PY9chI8l65ejZLTP) | [Fididi](https://open.spotify.com/album/0TOOHS6cwW4RE2Wxdm3ynj) | 3:26 | 2022-07-29 | 2023-05-08 |
 | [Fire Down](https://open.spotify.com/track/6ZzN6WLgAlx7sHCath3P9B) | [T.I BLAZE](https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC), [Camidoh](https://open.spotify.com/artist/6Z9Xe5mjocmPOhz2TLNrAi) | [El Major](https://open.spotify.com/album/29IbX53a1mueMk9BgvcfZn) | 2:51 | 2022-11-18 | 2023-04-28 |
 | [For My Head](https://open.spotify.com/track/7oLSEDGIY2OuKk0gnLzEXi) | [Sean Dampte](https://open.spotify.com/artist/0ufq9F6dXxSPbzHzQ2ap9i) | [For My Head](https://open.spotify.com/album/1YOd6HgpGWzvqoxzYWN9US) | 2:33 | 2023-06-02 | 2023-09-22 |
@@ -96,6 +96,7 @@
 | [HBP](https://open.spotify.com/track/3xY9AUbeibAeVDyPkHm8Kj) | [Llona](https://open.spotify.com/artist/3hz0ZIs5SlEnlK0ML7FmNc) | [HBP](https://open.spotify.com/album/5SOS13paz0WPPdIf9CL0Y8) | 2:47 | 2023-08-17 |  |
 | [HBP Remix](https://open.spotify.com/track/5oxaJpMQCijHqwTduLq6Fr) | [Llona](https://open.spotify.com/artist/3hz0ZIs5SlEnlK0ML7FmNc), [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM) | [HBP Remix](https://open.spotify.com/album/22swHHoDtodIc5kImIImlt) | 2:56 | 2023-10-27 |  |
 | [HOV](https://open.spotify.com/track/3jtPLQ4eBEcfyry5148T9x) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Rave & Roses Ultra](https://open.spotify.com/album/0nayxjaX54Frd7GsZq6Pbs) | 2:18 | 2023-04-27 | 2024-02-13 |
+| [I Don't Care \(feat\. Bella Shmurda & Vector\)](https://open.spotify.com/track/7B1yc3t9hnNj9Uq2LBnAz4) | [Candy Bleakz](https://open.spotify.com/artist/2QPpxx2U3qEeZZsF3uaXn0), [Bella Shmurda](https://open.spotify.com/artist/4OBeWqpDm9s3hfaoVAj1Ni), [Vector](https://open.spotify.com/artist/0VIRUXHBdO0Uo2U6MbVOmn) | [Better Days](https://open.spotify.com/album/6XhHnQhsT8EayndVj36qvf) | 2:52 | 2024-03-22 |  |
 | [I Salute](https://open.spotify.com/track/5o3dCqgRTiSt6MC3Gi0jzj) | [Bad Boy Timz](https://open.spotify.com/artist/68R39izwNAztATrXMOqkJS), [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep) | [I Salute](https://open.spotify.com/album/57rCVdacl4vjhnT8UVb2n6) | 3:07 | 2023-04-20 | 2023-08-11 |
 | [Id.Me](https://open.spotify.com/track/4rPaeHBlWY8MIruSNe5yZl) | [Rybeena](https://open.spotify.com/artist/37boLTfLUXAgVkSyzah72X) | [Id.Me](https://open.spotify.com/album/6fTG5tvXWsc7dv22HALIPt) | 2:49 | 2024-01-15 |  |
 | [Idan \(Talk and Do\)](https://open.spotify.com/track/6oX2ZHoZqr2jtVtbWe9QWw) | [Toby Shang](https://open.spotify.com/artist/6uVF9SBPINTFs7orI9Twt9) | [Idan \(Talk and Do\)](https://open.spotify.com/album/0lz5CwPhx3qIuoBwbT1Feb) | 2:06 | 2023-05-19 | 2023-06-03 |
@@ -155,6 +156,7 @@
 | [Oluchi](https://open.spotify.com/track/0IHtL8OEYytdyw7mpakIur) | [Carterefe](https://open.spotify.com/artist/5N9rf2O5ASaO5oiVh5is5n), [Skiibii](https://open.spotify.com/artist/72Z2AhMKpxZjLNnPMyinUE), [Berri\-Tiga](https://open.spotify.com/artist/3nJNGB59VvFcIeDHkGZnPB) | [Oluchi](https://open.spotify.com/album/3CMAs9sJbRYe8ZaPx1qU7f) | 2:42 | 2023-03-30 | 2023-07-01 |
 | [omg](https://open.spotify.com/track/3wgNPlMJXtoc7H8o4aG9cN) | [brazy](https://open.spotify.com/artist/5qdXUxsjbP0UAig0CtqO5b) | [omg](https://open.spotify.com/album/0mNSOVqTwckAbv6uQAUsnY) | 1:59 | 2023-12-15 | 2024-01-13 |
 | [On Fire \(From 'Gangs of Lagos'\)](https://open.spotify.com/track/5Y06JkdP9jp68nSQLfeu41) | [Chike](https://open.spotify.com/artist/6zK1M4TcabpLQMNmmG2P0Q) | [On Fire \(From 'Gangs of Lagos'\)](https://open.spotify.com/album/1H7A3Jo78llpDiDAuYKkQS) | 2:40 | 2023-04-14 | 2023-09-08 |
+| [One or Two](https://open.spotify.com/track/39677hmgIO3QESf9ensp8p) | [Rexxie](https://open.spotify.com/artist/5z207JpMeX1oCYVvMKReku), [AXAD](https://open.spotify.com/artist/1zfpuNNxBF5qjwbi4LCXig) | [One or Two](https://open.spotify.com/album/4mtmWSfOnpFJ7oVSkw4BTP) | 2:32 | 2024-03-22 |  |
 | [Onjo](https://open.spotify.com/track/0CgUCf3JgP7yDEMZKHDhGn) | [Portable](https://open.spotify.com/artist/5Sq9h4GMnTD99EyfZmYgqe), [Eeshoohdee](https://open.spotify.com/artist/5ILbKTA1CePpCrdhWMFpOf) | [Onjo](https://open.spotify.com/album/51GU7oRSKRyki7ZeMleGsT) | 2:28 | 2022-12-02 | 2023-02-28 |
 | [Only Me](https://open.spotify.com/track/0GeZh7YiQRqYwHS2IdEskL) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [Only Me](https://open.spotify.com/album/5DmINnxz0XR8nixREQIjns) | 2:39 | 2024-01-12 |  |
 | [Oscroh \(Pepperline\)](https://open.spotify.com/track/5Trqt6aqWnhqAcWS4Zto7v) | [Shallipopi](https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU) | [Oscroh \(Pepperline\)](https://open.spotify.com/album/3t6Awr5SrYlepeBSzC83sg) | 2:44 | 2023-10-17 |  |

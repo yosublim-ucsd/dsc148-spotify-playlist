@@ -1,5 +1,5 @@
 {
-  "2024-03-21": 34941,
+  "2024-03-22": 34934,
   "date_first_scraped": "2023-06-10",
   "description": "A sad playlist for when the buildup to summer ends up being a bummer, ft d4vd",
   "name": "bummer summer",
@@ -735,7 +735,7 @@
       ],
       "date_added": "2023-06-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-12",
+      "date_removed": null,
       "duration_ms": 262533,
       "name": "How to Save a Life",
       "url": "https://open.spotify.com/track/5fVZC9GiM4e8vu99W0Xf6J"
@@ -847,7 +847,7 @@
       ],
       "date_added": "2023-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-21",
       "duration_ms": 161462,
       "name": "i was all over her",
       "url": "https://open.spotify.com/track/7svpAkwc6xaSxlbZ7V7JiS"

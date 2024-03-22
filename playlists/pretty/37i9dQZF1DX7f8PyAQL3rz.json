@@ -1,12 +1,12 @@
 {
   "description": "sei l\u00e1 qual ascendente mas nois \u00e9 nois",
-  "num_followers": 1360933,
+  "num_followers": 1361401,
   "original_name": "creme",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2YTE2OWMzMjlhMjA5ZmViZTZmODRhY2Y4YmU0ZjBlZjRmYmM1MzNl",
+  "snapshot_id": "MCwwMjMwN2Q5ZGQ5OWMxMDJhMjZlMWJmZWUwNjQ0ZDFkYzEyOWYxMTJk",
   "tracks": [
     {
       "added_at": "2024-03-15 03:01:00",
@@ -1103,6 +1103,26 @@
     {
       "added_at": "2024-03-15 03:01:00",
       "album": {
+        "name": "ECL\u00c9TICO - LADO A",
+        "url": "https://open.spotify.com/album/4i0io4utlMTWVPKc7N11QY"
+      },
+      "artists": [
+        {
+          "name": "MC PH",
+          "url": "https://open.spotify.com/artist/4PLdCloYxu2bMKfuuB9lI5"
+        },
+        {
+          "name": "Murillo e LT no Beat",
+          "url": "https://open.spotify.com/artist/0KcbRunfjZHfwEnEgd1Dy6"
+        }
+      ],
+      "duration_ms": 215172,
+      "name": "Giro Louco",
+      "url": "https://open.spotify.com/track/0mqExnIKHsI11Xdvy6eE8V"
+    },
+    {
+      "added_at": "2024-03-15 03:01:00",
+      "album": {
         "name": "Banco do Carona",
         "url": "https://open.spotify.com/album/2asMgD4QCIQOJ8OiaB9Brw"
       },
@@ -1143,26 +1163,6 @@
       "duration_ms": 450410,
       "name": "Banco do Carona",
       "url": "https://open.spotify.com/track/7bz3kEKKtEONtzxB6jrnb5"
-    },
-    {
-      "added_at": "2024-03-15 03:01:00",
-      "album": {
-        "name": "ECL\u00c9TICO - LADO A",
-        "url": "https://open.spotify.com/album/4i0io4utlMTWVPKc7N11QY"
-      },
-      "artists": [
-        {
-          "name": "MC PH",
-          "url": "https://open.spotify.com/artist/4PLdCloYxu2bMKfuuB9lI5"
-        },
-        {
-          "name": "Murillo e LT no Beat",
-          "url": "https://open.spotify.com/artist/0KcbRunfjZHfwEnEgd1Dy6"
-        }
-      ],
-      "duration_ms": 215172,
-      "name": "Giro Louco",
-      "url": "https://open.spotify.com/track/0mqExnIKHsI11Xdvy6eE8V"
     },
     {
       "added_at": "2024-03-15 03:01:00",
@@ -1335,6 +1335,38 @@
     {
       "added_at": "2024-03-15 03:01:00",
       "album": {
+        "name": "Dacoromode",
+        "url": "https://open.spotify.com/album/0TfnU1Dup2Gu3KU1hnkQ3A"
+      },
+      "artists": [
+        {
+          "name": "Tz da Coronel",
+          "url": "https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e"
+        },
+        {
+          "name": "MC Ryan SP",
+          "url": "https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY"
+        },
+        {
+          "name": "KayBlack",
+          "url": "https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy"
+        },
+        {
+          "name": "Dj Murillo e LT no Beat",
+          "url": "https://open.spotify.com/artist/1Zl5Ac1YyOHBkJKInGxbaS"
+        },
+        {
+          "name": "C\u00fapula",
+          "url": "https://open.spotify.com/artist/6IlN4Mij49rPYznzeOMD1F"
+        }
+      ],
+      "duration_ms": 200039,
+      "name": "Ela joga no 7",
+      "url": "https://open.spotify.com/track/4ML8zKHATI6s31xmdQD0Qa"
+    },
+    {
+      "added_at": "2024-03-15 03:01:00",
+      "album": {
         "name": "Ascens\u00e3o do Cisne Negro",
         "url": "https://open.spotify.com/album/5F6uYU6Gf5sFNDLEd17dpZ"
       },
@@ -1391,38 +1423,6 @@
     {
       "added_at": "2024-03-15 03:01:00",
       "album": {
-        "name": "Dacoromode",
-        "url": "https://open.spotify.com/album/0TfnU1Dup2Gu3KU1hnkQ3A"
-      },
-      "artists": [
-        {
-          "name": "Tz da Coronel",
-          "url": "https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e"
-        },
-        {
-          "name": "MC Ryan SP",
-          "url": "https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY"
-        },
-        {
-          "name": "KayBlack",
-          "url": "https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy"
-        },
-        {
-          "name": "Dj Murillo e LT no Beat",
-          "url": "https://open.spotify.com/artist/1Zl5Ac1YyOHBkJKInGxbaS"
-        },
-        {
-          "name": "C\u00fapula",
-          "url": "https://open.spotify.com/artist/6IlN4Mij49rPYznzeOMD1F"
-        }
-      ],
-      "duration_ms": 200039,
-      "name": "Ela joga no 7",
-      "url": "https://open.spotify.com/track/4ML8zKHATI6s31xmdQD0Qa"
-    },
-    {
-      "added_at": "2024-03-15 03:01:00",
-      "album": {
         "name": "RICKNELSO",
         "url": "https://open.spotify.com/album/2eKGskEpGoKMBahXHpM8ZR"
       },
@@ -1451,30 +1451,22 @@
     {
       "added_at": "2024-03-15 03:01:00",
       "album": {
-        "name": "Disposi\u00e7\u00e3o e Atividade",
-        "url": "https://open.spotify.com/album/4pEQ7i96Nba9nCoa1VmtUU"
+        "name": "Distante",
+        "url": "https://open.spotify.com/album/0ipAbh8IRfQez8fvS9HIl7"
       },
       "artists": [
         {
-          "name": "KayBlack",
-          "url": "https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy"
+          "name": "MD Chefe",
+          "url": "https://open.spotify.com/artist/6yZKPB8eRoJesHjtxPxSLs"
         },
         {
-          "name": "Wall Hein",
-          "url": "https://open.spotify.com/artist/5wEgjH2s4SAiffRmzkBqHB"
-        },
-        {
-          "name": "Caio Passos",
-          "url": "https://open.spotify.com/artist/6zGPa2tLMJ5HQYUddZI8di"
-        },
-        {
-          "name": "Yokame",
-          "url": "https://open.spotify.com/artist/4IEFTmI2K5xj488kIn268F"
+          "name": "Filipe Ret",
+          "url": "https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54"
         }
       ],
-      "duration_ms": 164874,
-      "name": "Disposi\u00e7\u00e3o e Atividade",
-      "url": "https://open.spotify.com/track/1IZmGrAEkq98MxDQCYhtjJ"
+      "duration_ms": 172800,
+      "name": "Distante",
+      "url": "https://open.spotify.com/track/7oE08PPqw5XozzHUv1P9XD"
     },
     {
       "added_at": "2024-03-15 03:01:00",
@@ -1515,22 +1507,62 @@
     {
       "added_at": "2024-03-15 03:01:00",
       "album": {
-        "name": "Distante",
-        "url": "https://open.spotify.com/album/0ipAbh8IRfQez8fvS9HIl7"
+        "name": "Disposi\u00e7\u00e3o e Atividade",
+        "url": "https://open.spotify.com/album/4pEQ7i96Nba9nCoa1VmtUU"
       },
       "artists": [
         {
-          "name": "MD Chefe",
-          "url": "https://open.spotify.com/artist/6yZKPB8eRoJesHjtxPxSLs"
+          "name": "KayBlack",
+          "url": "https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy"
         },
         {
-          "name": "Filipe Ret",
-          "url": "https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54"
+          "name": "Wall Hein",
+          "url": "https://open.spotify.com/artist/5wEgjH2s4SAiffRmzkBqHB"
+        },
+        {
+          "name": "Caio Passos",
+          "url": "https://open.spotify.com/artist/6zGPa2tLMJ5HQYUddZI8di"
+        },
+        {
+          "name": "Yokame",
+          "url": "https://open.spotify.com/artist/4IEFTmI2K5xj488kIn268F"
         }
       ],
-      "duration_ms": 172800,
-      "name": "Distante",
-      "url": "https://open.spotify.com/track/7oE08PPqw5XozzHUv1P9XD"
+      "duration_ms": 164874,
+      "name": "Disposi\u00e7\u00e3o e Atividade",
+      "url": "https://open.spotify.com/track/1IZmGrAEkq98MxDQCYhtjJ"
+    },
+    {
+      "added_at": "2024-03-15 03:01:00",
+      "album": {
+        "name": "Perdas & Ganhos",
+        "url": "https://open.spotify.com/album/3qwvyGMmybAvkvyIKhlGwB"
+      },
+      "artists": [
+        {
+          "name": "Vulgo FK",
+          "url": "https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0"
+        },
+        {
+          "name": "KayBlack",
+          "url": "https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy"
+        },
+        {
+          "name": "WEY",
+          "url": "https://open.spotify.com/artist/6nZ39vMOOOgXQ471Jy5jhR"
+        },
+        {
+          "name": "Pedro Lotto",
+          "url": "https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm"
+        },
+        {
+          "name": "Wall Hein",
+          "url": "https://open.spotify.com/artist/5wEgjH2s4SAiffRmzkBqHB"
+        }
+      ],
+      "duration_ms": 162506,
+      "name": "Celine",
+      "url": "https://open.spotify.com/track/1aDGzQHWNCMy3pF1Stqjk7"
     },
     {
       "added_at": "2024-03-15 03:01:00",
@@ -1652,16 +1684,20 @@
           "url": "https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse"
         },
         {
-          "name": "Supernova Ent",
-          "url": "https://open.spotify.com/artist/3prRKGJz16RRMRSIM97nHw"
-        },
-        {
           "name": "Niink",
           "url": "https://open.spotify.com/artist/6MQ7E3HXWR3Djm3miL79mn"
         },
         {
           "name": "Bvga Beatz",
           "url": "https://open.spotify.com/artist/7saGN6a32YNpiMPo2SWJxE"
+        },
+        {
+          "name": "Supernova Ent",
+          "url": "https://open.spotify.com/artist/3prRKGJz16RRMRSIM97nHw"
+        },
+        {
+          "name": "JHXW",
+          "url": "https://open.spotify.com/artist/6DsMACWhJ5AgWLkZA2f5BV"
         }
       ],
       "duration_ms": 161344,
@@ -1680,25 +1716,25 @@
           "url": "https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0"
         },
         {
-          "name": "KayBlack",
-          "url": "https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy"
+          "name": "MC Ryan SP",
+          "url": "https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY"
         },
         {
-          "name": "WEY",
-          "url": "https://open.spotify.com/artist/6nZ39vMOOOgXQ471Jy5jhR"
+          "name": "Tkd",
+          "url": "https://open.spotify.com/artist/1GYx2LBI5bt0xRUpvdGYYt"
         },
         {
-          "name": "Pedro Lotto",
-          "url": "https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm"
+          "name": "Bvga Beatz",
+          "url": "https://open.spotify.com/artist/7saGN6a32YNpiMPo2SWJxE"
         },
         {
-          "name": "Wall Hein",
-          "url": "https://open.spotify.com/artist/5wEgjH2s4SAiffRmzkBqHB"
+          "name": "MATHINVOKER",
+          "url": "https://open.spotify.com/artist/69o8iufFnvKcM2HcURIkbc"
         }
       ],
-      "duration_ms": 162506,
-      "name": "Celine",
-      "url": "https://open.spotify.com/track/1aDGzQHWNCMy3pF1Stqjk7"
+      "duration_ms": 178407,
+      "name": "2023",
+      "url": "https://open.spotify.com/track/4sfY9Q4rQKVwxQVKo6v04i"
     },
     {
       "added_at": "2024-03-15 03:01:00",
@@ -1787,6 +1823,22 @@
     {
       "added_at": "2024-03-15 03:01:00",
       "album": {
+        "name": "Atlanta - Spotify Singles",
+        "url": "https://open.spotify.com/album/24WemjADLysPg2aJ7W2lkY"
+      },
+      "artists": [
+        {
+          "name": "Duquesa",
+          "url": "https://open.spotify.com/artist/1JlC6XG7lkwT6GzgQB9xOx"
+        }
+      ],
+      "duration_ms": 121031,
+      "name": "Atlanta - Spotify Singles",
+      "url": "https://open.spotify.com/track/40gXrlLYOAK6O4QVunjRRp"
+    },
+    {
+      "added_at": "2024-03-15 03:01:00",
+      "album": {
         "name": "Contradi\u00e7\u00f5es",
         "url": "https://open.spotify.com/album/1vR5pzEPXx1i7h8zwosa7D"
       },
@@ -1811,22 +1863,6 @@
     {
       "added_at": "2024-03-15 03:01:00",
       "album": {
-        "name": "Atlanta - Spotify Singles",
-        "url": "https://open.spotify.com/album/24WemjADLysPg2aJ7W2lkY"
-      },
-      "artists": [
-        {
-          "name": "Duquesa",
-          "url": "https://open.spotify.com/artist/1JlC6XG7lkwT6GzgQB9xOx"
-        }
-      ],
-      "duration_ms": 121031,
-      "name": "Atlanta - Spotify Singles",
-      "url": "https://open.spotify.com/track/40gXrlLYOAK6O4QVunjRRp"
-    },
-    {
-      "added_at": "2024-03-15 03:01:00",
-      "album": {
         "name": "VIP",
         "url": "https://open.spotify.com/album/7un1PXzwYc8D8Mk6eiQDtv"
       },
@@ -1839,38 +1875,6 @@
       "duration_ms": 130800,
       "name": "VIP",
       "url": "https://open.spotify.com/track/4b8tsQoH69au6oca7bozA3"
-    },
-    {
-      "added_at": "2024-03-15 03:01:00",
-      "album": {
-        "name": "Perdas & Ganhos",
-        "url": "https://open.spotify.com/album/3qwvyGMmybAvkvyIKhlGwB"
-      },
-      "artists": [
-        {
-          "name": "Vulgo FK",
-          "url": "https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0"
-        },
-        {
-          "name": "MC Ryan SP",
-          "url": "https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY"
-        },
-        {
-          "name": "Tkd",
-          "url": "https://open.spotify.com/artist/1GYx2LBI5bt0xRUpvdGYYt"
-        },
-        {
-          "name": "Bvga Beatz",
-          "url": "https://open.spotify.com/artist/7saGN6a32YNpiMPo2SWJxE"
-        },
-        {
-          "name": "MATHINVOKER",
-          "url": "https://open.spotify.com/artist/69o8iufFnvKcM2HcURIkbc"
-        }
-      ],
-      "duration_ms": 178407,
-      "name": "2023",
-      "url": "https://open.spotify.com/track/4sfY9Q4rQKVwxQVKo6v04i"
     }
   ],
   "unique_name": "creme",

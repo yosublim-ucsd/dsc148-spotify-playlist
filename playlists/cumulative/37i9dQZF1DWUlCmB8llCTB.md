@@ -4,7 +4,7 @@
 
 > Perreando toda la noche con El Bogueto.
 
-740 songs - 1 day 15 hr 56 min
+741 songs - 1 day 16 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -407,7 +407,8 @@
 | [Mami Chula](https://open.spotify.com/track/4aJzxp3gimtAdgJn3DL776) | [Jhayco](https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1), [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K) | [Mami Chula](https://open.spotify.com/album/7weNe4OIBROOCcMEOMeNlS) | 3:40 | 2023-04-28 | 2023-09-30 |
 | [MAMi QUÉ FUE?](https://open.spotify.com/track/4OIqoYd1eZkgzLKaWOsVZt) | [Maxiolly](https://open.spotify.com/artist/6BYNqaolBRE6cHA707Sl0a), [Pirlo](https://open.spotify.com/artist/7GQDI5Vmxs92RsIRZzYT11) | [MAMi QUÉ FUE?](https://open.spotify.com/album/3eqaeA5SS4CMsVYnm0ntrS) | 2:47 | 2023-04-21 | 2023-08-02 |
 | [MANIAKA](https://open.spotify.com/track/4sJTFwiiFLa8xtRp3GtDQl) | [Mont](https://open.spotify.com/artist/41gFAk6ZyYdt7Q1Ir4cbH0) | [MANIAKA](https://open.spotify.com/album/4qS3CNS00fkzgzW39Pfy05) | 2:34 | 2022-11-04 | 2022-11-26 |
-| [Maquillaje](https://open.spotify.com/track/4eMgCEivrlABjwo0ZiY95d) | [Renn](https://open.spotify.com/artist/25HXdVQcRMRgDKWbk5cn0G), [Yexel](https://open.spotify.com/artist/1PeS3QND0gDk8tLtyQg4NL) | [Maquillaje](https://open.spotify.com/album/0L16XNlcuTsjZutD11ixsz) | 3:31 | 2024-03-15 |  |
+| [Maquillaje](https://open.spotify.com/track/16flcJEZHzqoSRv7Ku5gjJ) | [Renn](https://open.spotify.com/artist/25HXdVQcRMRgDKWbk5cn0G), [Yexel](https://open.spotify.com/artist/1PeS3QND0gDk8tLtyQg4NL) | [Maquillaje](https://open.spotify.com/album/0CLVKodSfi7SSMDFQutIhy) | 3:31 | 2024-03-15 |  |
+| [Maquillaje](https://open.spotify.com/track/4eMgCEivrlABjwo0ZiY95d) | [Renn](https://open.spotify.com/artist/25HXdVQcRMRgDKWbk5cn0G), [Yexel](https://open.spotify.com/artist/1PeS3QND0gDk8tLtyQg4NL) | [Maquillaje](https://open.spotify.com/album/0L16XNlcuTsjZutD11ixsz) | 3:31 | 2024-03-15 | 2024-03-22 |
 | [Maquillaje](https://open.spotify.com/track/5eCXvznEquEklXtTrR2BNV) | [Renn](https://open.spotify.com/artist/25HXdVQcRMRgDKWbk5cn0G), [Yexel](https://open.spotify.com/artist/1PeS3QND0gDk8tLtyQg4NL) | [Maquillaje](https://open.spotify.com/album/6Z2MQdjjQy21GqIR3Innwg) | 3:31 | 2024-03-11 | 2024-03-16 |
 | [Marbella](https://open.spotify.com/track/5mPuQwzVR3E7N43FxBBljc) | [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz), [SOG](https://open.spotify.com/artist/18dspUI6gqabm5XCC2RcUD) | [Los Piratas](https://open.spotify.com/album/4fdcBGBSQvtI1DZ0PVxqCY) | 3:02 | 2022-11-30 | 2023-04-18 |
 | [MARGARITA](https://open.spotify.com/track/308riuOIFK07a1PV34B0rt) | [Itzza Primera](https://open.spotify.com/artist/0PlTbBrPOOOmJzprmZ4cdM) | [MARGARITA](https://open.spotify.com/album/1eyhaoTknvItzUpYYLmx6S) | 2:08 | 2022-04-22 | 2022-06-24 |

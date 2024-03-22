@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZA4G4jVRXy.md) - [plain]
 
 > Pour yourself a mai tai and festoon youself with lei, welcome to the Hawaiian party!
 
-[Spotify](https://open.spotify.com/user/spotify) - 128,167 likes - 76 songs - 3 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 128,193 likes - 76 songs - 3 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,8 +27,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZA4G4jVRXy.md) - [plain]
 | 17 | [Yellow Bird](https://open.spotify.com/track/6oye7upM8j0mE3xoT7FdjU) | [Arthur Lyman](https://open.spotify.com/artist/4UAjW7ABQfMm5F88xCtQln) | [Yellow Bird](https://open.spotify.com/album/1ufjXDuusbNI2v1eOaBTcP) | 2:44 |
 | 18 | [So Nice \(Samba De Verao\) \- Remastered](https://open.spotify.com/track/3xkNsybtI1tNUNhVyI99yO) | [Wanda De Sah](https://open.spotify.com/artist/53fV7ZIDRHAnZyHYAszLki), [Sérgio Mendes](https://open.spotify.com/artist/65c5si0ePAwkOCn4M35Ho7) | [Ultra\-Lounge: Bossa Novaville](https://open.spotify.com/album/5utRkK1KmqAY9H5UiRT2WM) | 2:17 |
 | 19 | [Ahulili](https://open.spotify.com/track/5SmWyYdkX14Oj80WlRHnKY) | [Raiatea Helm](https://open.spotify.com/artist/3OmAmym7dLlhFhpAYt3bNC) | [Hawaiian Blossom](https://open.spotify.com/album/49HLATxWXEGjWyRHEIhrij) | 3:06 |
-| 20 | [Nani Wale Ka Lau Oliva](https://open.spotify.com/track/6GLfF4lksULpecQMFMy3lU) | [Benitez, Darren](https://open.spotify.com/artist/1ZmCUwq9iEoBTFE9unlWTI) | [Dear Mama](https://open.spotify.com/album/1Zqt9Q1iqeRLPZBFHiMGmn) | 5:07 |
-| 21 | [Underlay No.3](https://open.spotify.com/track/2gtg19Ia7uXTY85DCiIoE5) | [Jack Trombey](https://open.spotify.com/artist/0CIxJ9KXfPW54mXzhWek7I) | [Blow Up presents Exclusive Blend Volume 2](https://open.spotify.com/album/4YxT4gkHfeCWGobJkIU96v) | 4:02 |
+| 20 | [Underlay No.3](https://open.spotify.com/track/2gtg19Ia7uXTY85DCiIoE5) | [Jack Trombey](https://open.spotify.com/artist/0CIxJ9KXfPW54mXzhWek7I) | [Blow Up presents Exclusive Blend Volume 2](https://open.spotify.com/album/4YxT4gkHfeCWGobJkIU96v) | 4:02 |
+| 21 | [Nani Wale Ka Lau Oliva](https://open.spotify.com/track/6GLfF4lksULpecQMFMy3lU) | [Benitez, Darren](https://open.spotify.com/artist/1ZmCUwq9iEoBTFE9unlWTI) | [Dear Mama](https://open.spotify.com/album/1Zqt9Q1iqeRLPZBFHiMGmn) | 5:07 |
 | 22 | [Song Of Old Hawaii](https://open.spotify.com/track/5tToPiK5y6qwqTSZNUIds7) | [George de Fretes and his Royal Hawaiian Minstrels](https://open.spotify.com/artist/5wTJVqMDk8Cn9UccDs755M) | [The Home Recordings Vol\. 1](https://open.spotify.com/album/4YvK4WVcx4sTClhZRvmST4) | 3:31 |
 | 23 | [Enchantment](https://open.spotify.com/track/4RnOkSofv95IZMcuueEovA) | [Robert Drasnin](https://open.spotify.com/artist/4lWj8PHjMEv0e2SZ7j1ZE4) | [Voodoo!](https://open.spotify.com/album/6SnfMkaU2WAvBmmiFpz892) | 2:45 |
 | 24 | [Melancholy Serenade \- Remastered](https://open.spotify.com/track/32BuDphsq9t2o2j0L4SRrP) | [King Curtis](https://open.spotify.com/artist/0WxOgeRxUt0MwPrI7A5atQ) | [Ultra\-Lounge / Bachelor Pad Royale Volume Four](https://open.spotify.com/album/2AAQHjT8SmbNdKsYIO9dfI) | 2:08 |
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZA4G4jVRXy.md) - [plain]
 | 32 | [Pua Lililehua](https://open.spotify.com/track/6MhpbidfJC315rJJcPaluW) | [Hui Ohana](https://open.spotify.com/artist/7vDfRi57oGVgERsAO16cZ1), [Ledward Kaapana](https://open.spotify.com/artist/4rbuIw9Fa3U8yCZuK2Ig1K), [Nedward Ka'apana](https://open.spotify.com/artist/3ltZsnKXs9TkOCL4fhFMhR), [Dennis Pavao](https://open.spotify.com/artist/0cjSMcAplLjxMqkXD6xWSX) | [Young Hawaii Plays Old Hawaii](https://open.spotify.com/album/73EtyWy6eklV217lXyE89J) | 4:17 |
 | 33 | [Latin\-Esque](https://open.spotify.com/track/23DqKw9YfTacYHVkIscWRV) | [Esquivel!](https://open.spotify.com/artist/42kHi9ZIpRGtgjP8ZB4jsi) | [Latin\-Esque](https://open.spotify.com/album/67VaJEoAZ3dfOQ5GH1KElq) | 3:06 |
 | 34 | [Uilani / Baby Kalae](https://open.spotify.com/track/7JJfyOiDqeunc2wUc6Ryx1) | [Maunalua](https://open.spotify.com/artist/2xWcXBvJeNWFIfy7HghTIS) | [Maunalua](https://open.spotify.com/album/5YA2QDuSVVM7lVUWsMlY8I) | 5:24 |
-| 35 | [Mombasa Love Song](https://open.spotify.com/track/4M2Na0IrNuE3oY53fQomTi) | [Tak Shindo](https://open.spotify.com/artist/5UQlFN6A5bUNcuGnG4d9aR) | [MGANGA!](https://open.spotify.com/album/421iMthufbbRmsu87uHsOS) | 2:40 |
-| 36 | [Lepe Ula'ula](https://open.spotify.com/track/64Jafr1L2yubJO8Mywg159) | [Na Palapalai](https://open.spotify.com/artist/2wjNqTN4X13PUR2YnTqt1e) | [Makani Olu'olu](https://open.spotify.com/album/5ZVybOFjyQ8Upf2CxQStBB) | 2:43 |
+| 35 | [Lepe Ula'ula](https://open.spotify.com/track/64Jafr1L2yubJO8Mywg159) | [Na Palapalai](https://open.spotify.com/artist/2wjNqTN4X13PUR2YnTqt1e) | [Makani Olu'olu](https://open.spotify.com/album/5ZVybOFjyQ8Upf2CxQStBB) | 2:43 |
+| 36 | [Mombasa Love Song](https://open.spotify.com/track/4M2Na0IrNuE3oY53fQomTi) | [Tak Shindo](https://open.spotify.com/artist/5UQlFN6A5bUNcuGnG4d9aR) | [MGANGA!](https://open.spotify.com/album/421iMthufbbRmsu87uHsOS) | 2:40 |
 | 37 | [Hawaiian War Chant](https://open.spotify.com/track/4GuEQQreVfdO89NVhDGjdA) | [Martin Denny](https://open.spotify.com/artist/3D9J9nPNW1cBktx5apJq4V) | [Quiet Village](https://open.spotify.com/album/6W1nP47Yt36em8y9mNKn74) | 2:18 |
 | 38 | [Terry's Theme \(From "Limelight\)](https://open.spotify.com/track/5w8RGAqzAgXsrKjb7BFxle) | [The Three Suns](https://open.spotify.com/artist/6SOQrmfK6SFNQgl1krQrNc) | [On A Magic Carpet](https://open.spotify.com/album/6kx51Uus6xYrzcO7unJAqJ) | 3:18 |
 | 39 | [Colors of Hawaiki](https://open.spotify.com/track/6FL6WsCM06Q4RSVU8b3Aqr) | [Ìxtahuele](https://open.spotify.com/artist/3zWk05HzOm7nWIBkKCYmXN) | [Call of the Islands](https://open.spotify.com/album/1JXKR9WNKBUA9di9OadQ70) | 3:04 |
@@ -85,4 +85,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZA4G4jVRXy.md) - [plain]
 | 75 | [Hana Maui \- Digitally Remastered 1995](https://open.spotify.com/track/0XN9TYjtGswD7jsLsg6xU2) | [Chick Floyd](https://open.spotify.com/artist/404efVa1buWrjEeOfQKGdN) | [Ultra\-Lounge/Mondo Exotica: Volume One](https://open.spotify.com/album/2NuOkgVt9mmGOGVG0YsVtm) | 3:16 |
 | 76 | [Lust](https://open.spotify.com/track/65jpm2yvG0Fz67GkUCClQV) | [Les Baxter](https://open.spotify.com/artist/35pV6EUbherudlvAftoueR), [Bas Sheva](https://open.spotify.com/artist/2754ZKfUBzGnAsiA2gYoxP) | [The Passions](https://open.spotify.com/album/63VK8OhIxPTYmKK5zc3i6L) | 2:59 |
 
-Snapshot ID: `MCwwMzViYmMzNDUyMjdjZTlhZGZiMDRmODgzZjg1MjZjYjUxOTBhNDhi`
+Snapshot ID: `MCwyZWQ0MmFlYjRmMWU4Y2I0NmQzODM0NWY4NTM1NTdkODRmMmE5ZTE5`

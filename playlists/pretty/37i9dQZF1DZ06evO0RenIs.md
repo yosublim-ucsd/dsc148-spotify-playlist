@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0RenIs.md) - [plain]
 
 > This is Phoenix\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 74,950 likes - 48 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 75,007 likes - 48 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,8 +14,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0RenIs.md) - [plain]
 | 4 | [Artefact \(feat\. León Larregui\)](https://open.spotify.com/track/2XvRfxK4qTbX9ZOloiomxv) | [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU), [León Larregui](https://open.spotify.com/artist/4ClsVDy2g7RKSSlvq8cF6d) | [Artefact \(feat\. León Larregui\)](https://open.spotify.com/album/1xknqSH8BF4brwlQlDjk0L) | 3:21 |
 | 5 | [Lisztomania](https://open.spotify.com/track/7fmJGzyvOcbh6UANsH8Cp6) | [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU) | [Wolfgang Amadeus Phoenix](https://open.spotify.com/album/0xG5b9nkWxKc5VTpo6Fq5I) | 4:01 |
 | 6 | [Too Young](https://open.spotify.com/track/2THkQauDWMvJgXFGPY4iKB) | [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU) | [United](https://open.spotify.com/album/5MBUL8d9FAYCCMrogOFX68) | 3:17 |
-| 7 | [Winter Solstice \- Braxe + Falcon Remix](https://open.spotify.com/track/5Wa4A6bu00160DzJWdyiC7) | [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU), [Braxe + Falcon](https://open.spotify.com/artist/10sZHUBkoiCLucz4bbCEBA), [Alan Braxe](https://open.spotify.com/artist/24JRvbKfTcF2x7c2kCCJrW), [DJ Falcon](https://open.spotify.com/artist/7mLoDOOVW8VlPUTii10xH5) | [Winter Solstice \(Braxe + Falcon Remix\)](https://open.spotify.com/album/7ivaa2qMMkk1RfF1TDkcYz) | 4:00 |
-| 8 | [Entertainment](https://open.spotify.com/track/1fyVtrPPWQ6vWnchDoJc7o) | [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU) | [Bankrupt!](https://open.spotify.com/album/1MJotRlrO8AFegESeJRuBV) | 3:39 |
+| 7 | [Entertainment](https://open.spotify.com/track/1fyVtrPPWQ6vWnchDoJc7o) | [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU) | [Bankrupt!](https://open.spotify.com/album/1MJotRlrO8AFegESeJRuBV) | 3:39 |
+| 8 | [Winter Solstice \- Braxe + Falcon Remix](https://open.spotify.com/track/5Wa4A6bu00160DzJWdyiC7) | [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU), [Braxe + Falcon](https://open.spotify.com/artist/10sZHUBkoiCLucz4bbCEBA), [Alan Braxe](https://open.spotify.com/artist/24JRvbKfTcF2x7c2kCCJrW), [DJ Falcon](https://open.spotify.com/artist/7mLoDOOVW8VlPUTii10xH5) | [Winter Solstice \(Braxe + Falcon Remix\)](https://open.spotify.com/album/7ivaa2qMMkk1RfF1TDkcYz) | 4:00 |
 | 9 | [Lasso](https://open.spotify.com/track/29ceu4GvNpnHSfLeBL4O7W) | [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU) | [Wolfgang Amadeus Phoenix](https://open.spotify.com/album/0xG5b9nkWxKc5VTpo6Fq5I) | 2:47 |
 | 10 | [Odyssey](https://open.spotify.com/track/2xMDqXTRJTcsBFECwwZhYz) | [Beck](https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS), [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU) | [Odyssey](https://open.spotify.com/album/2qk0NP9lpVaZIjkIY5oUFO) | 3:46 |
 | 11 | [Alpha Zulu](https://open.spotify.com/track/3cczdpndCyT8IpH5cm1IbJ) | [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU) | [Alpha Zulu](https://open.spotify.com/album/1jEwa4YdGR6FvKxWgRbJcv) | 2:52 |
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0RenIs.md) - [plain]
 | 28 | [Drakkar Noir](https://open.spotify.com/track/0ggkwqbg3SgEGz4XcEVYJq) | [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU) | [Bankrupt!](https://open.spotify.com/album/1MJotRlrO8AFegESeJRuBV) | 3:22 |
 | 29 | [Run Run Run](https://open.spotify.com/track/2OxcH2hvo4SrVGO3gd7RJO) | [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU) | [Alphabetical](https://open.spotify.com/album/0q1YbH7gLkklLFxNBLRKHD) | 3:50 |
 | 30 | [Goodbye Soleil](https://open.spotify.com/track/1E5pUyfGJI8oTrUeHuN05P) | [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU) | [Ti Amo](https://open.spotify.com/album/4CWDyUN5jukEwwc2Fo4xzy) | 3:55 |
-| 31 | [North](https://open.spotify.com/track/0k2TN25JrgWAFG5LRQMFD7) | [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU) | [It's Never Been Like That \(Deluxe Version\)](https://open.spotify.com/album/2STZqJIh4Kf0OIU5yVgYGV) | 5:01 |
-| 32 | [Identical](https://open.spotify.com/track/33FQ0dWX1P2EqlGkBVLPbD) | [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU) | [Alpha Zulu](https://open.spotify.com/album/1jEwa4YdGR6FvKxWgRbJcv) | 5:02 |
+| 31 | [Identical](https://open.spotify.com/track/33FQ0dWX1P2EqlGkBVLPbD) | [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU) | [Alpha Zulu](https://open.spotify.com/album/1jEwa4YdGR6FvKxWgRbJcv) | 5:02 |
+| 32 | [North](https://open.spotify.com/track/0k2TN25JrgWAFG5LRQMFD7) | [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU) | [It's Never Been Like That \(Deluxe Version\)](https://open.spotify.com/album/2STZqJIh4Kf0OIU5yVgYGV) | 5:01 |
 | 33 | [Holdin' on Together](https://open.spotify.com/track/2foqLoUPvd5OcINiUtKZg8) | [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU) | [Alphabetical](https://open.spotify.com/album/0q1YbH7gLkklLFxNBLRKHD) | 3:27 |
 | 34 | [Fior di Latte](https://open.spotify.com/track/1NJJObY1QxJhs5Xphq837L) | [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU) | [Ti Amo](https://open.spotify.com/album/4CWDyUN5jukEwwc2Fo4xzy) | 4:03 |
 | 35 | [All Eyes on Me \(feat\. BENEE, Chad Hugo & Pusha T\)](https://open.spotify.com/track/4r48NKo5H3NHpe5nmxDFvv) | [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU), [BENEE](https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4), [Pusha T](https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy), [Chad Hugo](https://open.spotify.com/artist/6HObKCGcJkXr84jyo0ZzPp) | [All Eyes On Me \(feat\. BENEE, Chad Hugo & Pusha T\)](https://open.spotify.com/album/1WQFkEZ6ebRQ7ty6Ygbujl) | 2:26 |
@@ -57,4 +57,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0RenIs.md) - [plain]
 | 47 | [Victim of the Crime](https://open.spotify.com/track/2ThMLsmAtcKOmXaEgKdJ93) | [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU) | [Alphabetical](https://open.spotify.com/album/0q1YbH7gLkklLFxNBLRKHD) | 4:05 |
 | 48 | [Definitive Breaks](https://open.spotify.com/track/1BfKwzPvTyt45fXq7zUQPZ) | [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU) | [United](https://open.spotify.com/album/5MBUL8d9FAYCCMrogOFX68) | 1:40 |
 
-Snapshot ID: `Mjg1MTU2NjEsMDAwMDAwMDA5MjIxNDM0MmEyYzdmNDc0ZDlmM2Q0OTNmYzQ3MDk1NQ==`
+Snapshot ID: `Mjg1MTcwNzUsMDAwMDAwMDA4NWNmMGY2MjM2MTA3MDcxM2M3MTUxYjNhYTViNzNiYw==`

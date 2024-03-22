@@ -4,7 +4,7 @@
 
 > 21st Century nomadic expressions interwoven into a very unexpected patchwork.
 
-161 songs - 11 hr 31 min
+162 songs - 11 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,7 +42,7 @@
 | [Cler Achel](https://open.spotify.com/track/1sXLitmQULzwiWR8D38Ekw) | [Tinariwen](https://open.spotify.com/artist/2sf2owtFSCvz2MLfxmNdkb) | [Aman Iman: Water Is Life](https://open.spotify.com/album/2kV0ipibYRkAjrcxCd1Co0) | 4:27 | 2021-10-20 |  |
 | [Dance of Maria](https://open.spotify.com/track/0f7iz1qAWSz61BdHTXbzvC) | [Elias Rahbani](https://open.spotify.com/artist/2DDCp0fnUwgy0cYI99GEyS) | [Mosaic of the Orient](https://open.spotify.com/album/35V308120K0txY7JUMoN6M) | 2:47 | 2021-10-20 |  |
 | [Dejate Llevar](https://open.spotify.com/track/7FDSyaGSN7CjMcd7jXWq9Z) | [Nacho Maldonado](https://open.spotify.com/artist/4K6VsMmNzvyjrkVFdncNRH), [Israel Arteaga](https://open.spotify.com/artist/0OgPHnQhFq7XR3DnywgRIP) | [Dejate Llevar](https://open.spotify.com/album/4Drqq5fk908c6oGJcGJkKg) | 5:01 | 2024-03-05 |  |
-| [Deli Deli](https://open.spotify.com/track/2cghTeF3VBx6aDDrFZO3si) | [Şatellites](https://open.spotify.com/artist/5i2aeGMxTOr8ox7IIqJoxi) | [Big Baglama](https://open.spotify.com/album/0VOhk1oTgTNnmHkjPFq1uL) | 3:03 | 2021-10-20 |  |
+| [Deli Deli](https://open.spotify.com/track/2cghTeF3VBx6aDDrFZO3si) | [Şatellites](https://open.spotify.com/artist/5i2aeGMxTOr8ox7IIqJoxi) | [Big Baglama](https://open.spotify.com/album/0VOhk1oTgTNnmHkjPFq1uL) | 3:03 | 2021-10-20 | 2024-03-22 |
 | [Descending To Nowhere](https://open.spotify.com/track/6NtkWVLdArIlZAwxpWH2tF) | [Rodrigo y Gabriela](https://open.spotify.com/artist/7vX3cMVyW8gtDA4y855ynF) | [In Between Thoughts...A New World](https://open.spotify.com/album/1el8dp6jP1HbmqRDBVMmj3) | 3:29 | 2023-02-23 |  |
 | [Dividual Individual](https://open.spotify.com/track/3Q74p61vgqdsCBFQlOP1kQ) | [Yama Warashi](https://open.spotify.com/artist/2PwUZ1wTtmdDTEZbfnAh8C) | [Crispy Moon](https://open.spotify.com/album/1IVnU9K7Oym9JvBUQyhT4z) | 5:00 | 2023-06-05 | 2024-01-09 |
 | [Dois Palitos Fofinhos](https://open.spotify.com/track/6S8AJxUdc95lI4CNiVdKMu) | [C+C=Maxigross](https://open.spotify.com/artist/4xD2DfxKGL6E8URwy6Sf37) | [Dois Palitos Fofinhos](https://open.spotify.com/album/20HJ1KS55VbcT6tomohpxq) | 2:47 | 2024-01-03 |  |
@@ -125,6 +125,7 @@
 | [Silky](https://open.spotify.com/track/7oelcLcMEvuvcr8AOqNFdm) | [Alex Figueira](https://open.spotify.com/artist/1KKpoCjkEc0b0vAuiMe2uT) | [Mentallogenic](https://open.spotify.com/album/6yIJxxHYflUXbspDdrrJym) | 4:19 | 2023-04-14 |  |
 | [Solstício](https://open.spotify.com/track/1OvgFEAdvQp7va0C68UaiW) | [Baiuca](https://open.spotify.com/artist/2GSXsSy3YzWsp4BXfSGucS), [Carlos Núñez](https://open.spotify.com/artist/3e09WanUMwtc9XfZRLvZ30) | [Solstício](https://open.spotify.com/album/7I3I6jxYh64keGLmZFGP4R) | 4:25 | 2022-02-18 |  |
 | [Soma](https://open.spotify.com/track/1qA2L50nbrpDv9b53ifP88) | [Maajo](https://open.spotify.com/artist/1CHnBSP2xS4bRyHRenc5aO) | [Kuru Kuru](https://open.spotify.com/album/1VtknfjcZGa4thCJt9bcaP) | 5:11 | 2021-10-20 | 2023-11-05 |
+| [Sonido Cósmico](https://open.spotify.com/track/55BCpfZp7sVgGBzBlGW5f0) | [Hermanos Gutiérrez](https://open.spotify.com/artist/73mSg0dykFyhvU96tb5xQV) | [Sonido Cósmico](https://open.spotify.com/album/2P8acwzPaluqWw2qvnmIN0) | 3:43 | 2024-03-21 |  |
 | [Sr\. Tigre \- French Braids Rework](https://open.spotify.com/track/3u2hfoDnXpCiQQRQkblecj) | [YoSoyMatt](https://open.spotify.com/artist/0NYE6CFlP7ElQR6r395gbV), [Eva de Marce](https://open.spotify.com/artist/1UgwU7ChXfMkwH9t6ivW2E), [French Braids](https://open.spotify.com/artist/5y8mGL7UFApHn1BotAfcj1) | [Sr\. Tigre \(French Braids Rework\)](https://open.spotify.com/album/4iRAsml6uMPqEiTQZ0zmDp) | 3:32 | 2021-10-20 | 2023-11-24 |
 | [Su Sızıyor](https://open.spotify.com/track/5Yw2orljyPxOQe9s1JfPqU) | [Altin Gün](https://open.spotify.com/artist/37PL04N8kBWWW69jdrMMWT) | [Aşk](https://open.spotify.com/album/3o9VCOZFC4DLp4hvyS1zd8) | 4:04 | 2023-03-29 | 2024-03-01 |
 | [Taimangalimaaq \(Time After Time\)](https://open.spotify.com/track/6x5PzFq5wazDsvWd9TQCrW) | [Elisapie](https://open.spotify.com/artist/37Hkw3PjSoS9k06WwMibM3) | [Taimangalimaaq \(Time After Time\)](https://open.spotify.com/album/291DEaUtgEk7gie1PUbF52) | 4:13 | 2023-07-19 | 2023-10-11 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbXrPNafg9d.md) - [plain]
 
 > The best new music every Friday\. Cover: Vampire Weekend
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,273,353 likes - 175 songs - 10 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,273,402 likes - 175 songs - 10 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -184,4 +184,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbXrPNafg9d.md) - [plain]
 | 174 | [yesterday I was in London](https://open.spotify.com/track/0Kl3aryDqrFj1IK0wsDJoL) | [UCHE YARA](https://open.spotify.com/artist/2yOJnAGg41NV4aech301xj) | [yesterday I was in London // homesick](https://open.spotify.com/album/5fNyW1wWzLjsY4ycan9Xb5) | 2:37 |
 | 175 | [Lovefool](https://open.spotify.com/track/1VjpUxL6GsKNLksZiiqhCr) | [zzzahara](https://open.spotify.com/artist/26j38hvhD7PjC0a4EqdaSn) | [Lovefool](https://open.spotify.com/album/1UmkrSI3vmCZL4drle2xaH) | 3:55 |
 
-Snapshot ID: `MCw5YjQ0YzViMjdlZDYwYzgxZWU4ZjQzNjgxZWM1YjdmNTE1OWQwYmJk`
+Snapshot ID: `MCwxMmRiNjZkMWNjYjk2NjhkOWE5YzhkMWY3ZjUwMjc2MzRiYWM2ZjM3`

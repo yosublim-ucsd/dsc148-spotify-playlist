@@ -1,12 +1,12 @@
 {
   "description": "Celebrated composer of jazz standards, classical masterpieces and some very catchy love songs; this is Gershwin.",
-  "num_followers": 84566,
+  "num_followers": 84585,
   "original_name": "This is Gershwin",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0OTNlZmU0MDU4MTE5MzVkNDU3MjVkNTg4YjlkMmNlMWY0NzI4Mzli",
+  "snapshot_id": "MCxkNDRjMTYxNDc0Y2JhYzdiNTY5NjVhMmRkYmExMDg5N2EyOGNhNWY3",
   "tracks": [
     {
       "added_at": "2022-08-05 04:02:00",
@@ -211,6 +211,22 @@
     {
       "added_at": "2022-08-05 04:02:00",
       "album": {
+        "name": "Steppin' Out",
+        "url": "https://open.spotify.com/album/0DItsczVSy5rOaJOOIZ49F"
+      },
+      "artists": [
+        {
+          "name": "Tony Bennett",
+          "url": "https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV"
+        }
+      ],
+      "duration_ms": 197066,
+      "name": "Who Cares?",
+      "url": "https://open.spotify.com/track/7h8Y5ozXb7D7COLHahSq4b"
+    },
+    {
+      "added_at": "2022-08-05 04:02:00",
+      "album": {
         "name": "Gershwin: 6 Songs / Corea: Children's Songs",
         "url": "https://open.spotify.com/album/0mTvzUX0Uxz1wdKJlZCZr3"
       },
@@ -227,22 +243,6 @@
       "duration_ms": 86000,
       "name": "3 Preludes : Allegro Ben Ritmato E Deciso",
       "url": "https://open.spotify.com/track/3TChFoNvKras9uQkimzK8R"
-    },
-    {
-      "added_at": "2022-08-05 04:02:00",
-      "album": {
-        "name": "Steppin' Out",
-        "url": "https://open.spotify.com/album/0DItsczVSy5rOaJOOIZ49F"
-      },
-      "artists": [
-        {
-          "name": "Tony Bennett",
-          "url": "https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV"
-        }
-      ],
-      "duration_ms": 197066,
-      "name": "Who Cares?",
-      "url": "https://open.spotify.com/track/7h8Y5ozXb7D7COLHahSq4b"
     },
     {
       "added_at": "2022-08-05 04:02:00",
@@ -1191,34 +1191,6 @@
     {
       "added_at": "2022-08-05 04:02:00",
       "album": {
-        "name": "Gershwin Fantasy",
-        "url": "https://open.spotify.com/album/3ALYEbd3u0h6EIu7300FaR"
-      },
-      "artists": [
-        {
-          "name": "George Gershwin",
-          "url": "https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4"
-        },
-        {
-          "name": "Joshua Bell",
-          "url": "https://open.spotify.com/artist/3Ka1nDpDzxDveEqUPzIeom"
-        },
-        {
-          "name": "London Symphony Orchestra",
-          "url": "https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc"
-        },
-        {
-          "name": "John Williams",
-          "url": "https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb"
-        }
-      ],
-      "duration_ms": 231053,
-      "name": "Liza (All the Clouds'll Roll Away)",
-      "url": "https://open.spotify.com/track/2pnu2daFVs2wgasI1BGdU8"
-    },
-    {
-      "added_at": "2022-08-05 04:02:00",
-      "album": {
         "name": "Gershwin: Rhapsody in Blue",
         "url": "https://open.spotify.com/album/2NO6kml1PSIKXTVXYoQVXc"
       },
@@ -1243,6 +1215,34 @@
       "duration_ms": 275706,
       "name": "Of Thee I Sing: Overture (Arr. D. Rose for Orchestra)",
       "url": "https://open.spotify.com/track/2OyY9i6Ct7zLdrron7eIdt"
+    },
+    {
+      "added_at": "2022-08-05 04:02:00",
+      "album": {
+        "name": "Gershwin Fantasy",
+        "url": "https://open.spotify.com/album/3ALYEbd3u0h6EIu7300FaR"
+      },
+      "artists": [
+        {
+          "name": "George Gershwin",
+          "url": "https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4"
+        },
+        {
+          "name": "Joshua Bell",
+          "url": "https://open.spotify.com/artist/3Ka1nDpDzxDveEqUPzIeom"
+        },
+        {
+          "name": "London Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc"
+        },
+        {
+          "name": "John Williams",
+          "url": "https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb"
+        }
+      ],
+      "duration_ms": 231053,
+      "name": "Liza (All the Clouds'll Roll Away)",
+      "url": "https://open.spotify.com/track/2pnu2daFVs2wgasI1BGdU8"
     },
     {
       "added_at": "2022-08-05 04:02:00",

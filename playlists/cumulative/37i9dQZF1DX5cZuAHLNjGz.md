@@ -2,9 +2,9 @@
 
 ### [Punjabi 101](https://open.spotify.com/playlist/37i9dQZF1DX5cZuAHLNjGz)
 
-> Ultimate 101 Punjabi Hits with AP Dhillon & Shinda Kahlon
+> Ultimate 101 Punjabi Hits with Diljit and Saweetie
 
-317 songs - 16 hr 26 min
+318 songs - 16 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -115,7 +115,7 @@
 | [Gutt](https://open.spotify.com/track/6Y8r5v3lwWX80fr7oRNK9V) | [Arjan Dhillon](https://open.spotify.com/artist/64DvMieEUCdrYKmEIhDt8G) | [Gutt](https://open.spotify.com/album/1Rw1ZFDTs08NyLop4Vz9ck) | 3:38 | 2022-05-29 | 2022-11-26 |
 | [Gutt Ch Paranda](https://open.spotify.com/track/4NyKTeLnNmWuwrYYUkak6d) | [Preet Sandhu](https://open.spotify.com/artist/65vX07QbbDkq0m0WSJvSmq), [Sobha](https://open.spotify.com/artist/6Bc0kRRn7KUriyBrtzSV6z), [Deep Sandhu](https://open.spotify.com/artist/3zBJTgsnovcVTircnCf9tr) | [Gutt Ch Paranda](https://open.spotify.com/album/6Ef3ZkklKfluDkj1mBv6Li) | 3:49 | 2022-07-21 | 2022-07-23 |
 | [Hass Hass](https://open.spotify.com/track/72vuBPMhwFNlSYpTSf6fVD) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR), [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN), [Greg Kurstin](https://open.spotify.com/artist/2sWf9Tj6EsTxURcgil3NTG) | [Hass Hass](https://open.spotify.com/album/7F8VISoJUWFEY57b66QZxC) | 2:33 | 2023-10-27 |  |
-| [Haye Booh \(From "Jatt Nuu Chudail Takri"\)](https://open.spotify.com/track/1sQTJAbESfaXri4dZBVgjP) | [Jyotica Tangri](https://open.spotify.com/artist/5wQDQFm7Ku8WWGi5xqJ9lp), [Avvy Sra](https://open.spotify.com/artist/4qjiRRFcM4WZ0aJ3IHdWPN), [Harmanjeet](https://open.spotify.com/artist/2FRg6CIXD61xyvxUOzhYy5), [Deepak Dhillon](https://open.spotify.com/artist/647Ivke8w05hNzKHs68ZSY) | [Haye Booh \(From "Jatt Nuu Chudail Takri"\)](https://open.spotify.com/album/5jlNhLecTjgv6hDhaGNa21) | 3:28 | 2024-03-14 |  |
+| [Haye Booh \(From "Jatt Nuu Chudail Takri"\)](https://open.spotify.com/track/1sQTJAbESfaXri4dZBVgjP) | [Jyotica Tangri](https://open.spotify.com/artist/5wQDQFm7Ku8WWGi5xqJ9lp), [Avvy Sra](https://open.spotify.com/artist/4qjiRRFcM4WZ0aJ3IHdWPN), [Harmanjeet](https://open.spotify.com/artist/2FRg6CIXD61xyvxUOzhYy5), [Deepak Dhillon](https://open.spotify.com/artist/647Ivke8w05hNzKHs68ZSY) | [Haye Booh \(From "Jatt Nuu Chudail Takri"\)](https://open.spotify.com/album/5jlNhLecTjgv6hDhaGNa21) | 3:28 | 2024-03-14 | 2024-03-22 |
 | [Heart Attack](https://open.spotify.com/track/2Ycj9XXWp6cASuSA5UJ2Wo) | [Ammy Virk](https://open.spotify.com/artist/2RlWC7XKizSOsZ8F3uGi59) | [Heart Attack](https://open.spotify.com/album/7tM1PlNCbtd1a24fiNPH9y) | 2:42 | 2022-05-29 | 2022-06-01 |
 | [Heel](https://open.spotify.com/track/3RjYCv0aBmCzZyLRIHH4o8) | [Kaka](https://open.spotify.com/artist/1Oh5bPXjw5jreVFhKc4jux), [Gur Sidhu](https://open.spotify.com/artist/0QntOArZgiNHoemAzwJPu5) | [Billo Kehndi](https://open.spotify.com/album/0zufKiU1f4TQOmcpTDpnpW) | 3:22 | 2024-01-17 | 2024-02-07 |
 | [Heer Ranjha](https://open.spotify.com/track/3wwLWFRLiReDf5AqgmAJwT) | [Rito Riba](https://open.spotify.com/artist/63QHbwCDdJ50C72D4ojeo1), [Rajat Nagpal](https://open.spotify.com/artist/4yxICw7joYAxRI2sTRldLB), [Rana Sotal](https://open.spotify.com/artist/0AS5y6FY1c4JRl0oWAYu2y) | [Heer Ranjha](https://open.spotify.com/album/5jZOJxJvZj63YKrPEWPy63) | 3:43 | 2022-11-02 | 2022-11-19 |
@@ -150,6 +150,7 @@
 | [Kamlee](https://open.spotify.com/track/7xpZ1artTVaHabv93yK77N) | [SARRB](https://open.spotify.com/artist/2LKbmSS1wx5pW7YfRkIgg6), [Starboy X](https://open.spotify.com/artist/0Fvud1OrUvlMHqxbEGmtnj) | [Kamlee](https://open.spotify.com/album/2yTk24mhG0VYWFY7bj9mLJ) | 3:29 | 2023-11-09 | 2024-01-14 |
 | [Khabbi Seat](https://open.spotify.com/track/4aK30RcFKxsiF1gjLlH5Gt) | [Ammy Virk](https://open.spotify.com/artist/2RlWC7XKizSOsZ8F3uGi59), [Sweetaj Brar](https://open.spotify.com/artist/2B4azLEfuhlG2ykxCaQJWk) | [Khabbi Seat](https://open.spotify.com/album/0Q0QRo49mBz9zs7KKdZYrG) | 3:24 | 2022-05-29 | 2022-06-01 |
 | [Khadaak](https://open.spotify.com/track/2l4WWoL2e7XL77hT3r4iee) | [Shooter Kahlon](https://open.spotify.com/artist/5oL0GAI8fKD0Wgbr4Em9AS), [Shevv](https://open.spotify.com/artist/2EQoFz6owAP4ATr5hGFRok), [Micheal](https://open.spotify.com/artist/4HITSZH8b5ITVXjg91mFY1) | [Khadaak](https://open.spotify.com/album/0Wjak0wq7GXx6Gkf0FN1Q5) | 2:37 | 2023-11-17 | 2023-12-02 |
+| [Khutti](https://open.spotify.com/track/3Jd1yxcUQLdfBJcsxFtYzj) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR), [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl) | [Khutti](https://open.spotify.com/album/0ISqysl9naGSplhk71vv4Z) | 2:12 | 2024-03-21 |  |
 | [Kina Chir](https://open.spotify.com/track/6XPmY4hIb1RGRyNuq0UBsl) | [The PropheC](https://open.spotify.com/artist/4aopF0aU0Nbu5GtSorXV0W) | [The Lifestyle](https://open.spotify.com/album/1zIvQYNdDnl4f7iF2s6HHj) | 3:36 | 2022-05-29 |  |
 | [King Shit](https://open.spotify.com/track/1BpvuKIG7jK5EiTp2tv5z8) | [Shubh](https://open.spotify.com/artist/5r3wPya2PpeTTsXsGhQU8O) | [Leo](https://open.spotify.com/album/1h0Yw7Wm49GGiGpN2gd3o2) | 3:46 | 2024-01-04 |  |
 | [Kinni Kinni](https://open.spotify.com/track/3F3ZuXYFXGM1V6pk3b3zmi) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR), [thiarajxtt](https://open.spotify.com/artist/54BjV0qctcWp8xOip7uaJD) | [Ghost](https://open.spotify.com/album/1d1FYLFpu2NITI6ilVaHDd) | 3:33 | 2023-12-01 |  |

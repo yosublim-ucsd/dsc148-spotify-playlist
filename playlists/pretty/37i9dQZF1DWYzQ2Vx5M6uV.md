@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYzQ2Vx5M6uV.md) - [plain]
 
 > Bringing you the hottest collaborations between Afro & Latin artists\. Cover: Rawayana, Mr Eazi & Micro TDH
 
-[Spotify](https://open.spotify.com/user/spotify) - 114,799 likes - 70 songs - 3 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 114,803 likes - 70 songs - 3 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYzQ2Vx5M6uV.md) - [plain]
 | 69 | [Tayari](https://open.spotify.com/track/32YvTUCswxgGAiIzUp4zLy) | [Serge Ibaka](https://open.spotify.com/artist/4fDx6CTJ4KWhnAg6TvwmWe), [Diamond Platnumz](https://open.spotify.com/artist/3cAisWS37sGCCtRgWfvrod), [Mohombi](https://open.spotify.com/artist/37GUqxafAvAKGMZbXCUnmr) | [Tayari](https://open.spotify.com/album/5xDq1QkYliIl4gEuTwR52U) | 2:38 |
 | 70 | [Se Fue](https://open.spotify.com/track/00FmMXnkYZ0ymlNcacdB6O) | [Alejandro Santamaria](https://open.spotify.com/artist/7HXJp9OMIL5tdwZYleuBvy), [Ovy On The Drums](https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA), [ADSO](https://open.spotify.com/artist/29b16XDtyMXDrfo2hZ69wf) | [Se Fue](https://open.spotify.com/album/4j2DaQTBXSER398hI49Fkj) | 3:35 |
 
-Snapshot ID: `MCw2MDk0Zjg3M2RmYTkxNzFhYjlkZjE0NjU5NzFiZGMxNWFiN2IyNGMy`
+Snapshot ID: `MCxhYTYxMDI2MWQ3MTdlZGM4Yzg3MGI5Y2Y3NWI5ZTBjZmVjNWFjZGY5`

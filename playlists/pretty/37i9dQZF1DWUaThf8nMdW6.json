@@ -1,12 +1,12 @@
 {
   "description": "Relive Southeast Asia's most adored pop hits from the 2000s.",
-  "num_followers": 1472224,
+  "num_followers": 1472502,
   "original_name": "Best of '00s Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiMzgzZmQ1Y2MyZGE3MjI3MTdjZjJhZGU0YWUwZDFjYWI4OGZjMTYx",
+  "snapshot_id": "MCxmOTUyMGJlMjA0MWRiMjMxOWU4NGE2NjQ5YWQyOTczNmM2ZGMyYTNj",
   "tracks": [
     {
       "added_at": "2020-08-31 04:14:33",
@@ -59,6 +59,22 @@
     {
       "added_at": "2020-08-31 04:14:33",
       "album": {
+        "name": "Hot Fuss",
+        "url": "https://open.spotify.com/album/4piJq7R3gjUOxnYs6lDCTg"
+      },
+      "artists": [
+        {
+          "name": "The Killers",
+          "url": "https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu"
+        }
+      ],
+      "duration_ms": 222973,
+      "name": "Mr. Brightside",
+      "url": "https://open.spotify.com/track/003vvx7Niy0yvhvHt4a68B"
+    },
+    {
+      "added_at": "2020-08-31 04:14:33",
+      "album": {
         "name": "Confessions (Expanded Edition)",
         "url": "https://open.spotify.com/album/1RM6MGv6bcl6NrAG8PGoZk"
       },
@@ -79,22 +95,6 @@
       "duration_ms": 250373,
       "name": "Yeah! (feat. Lil Jon & Ludacris)",
       "url": "https://open.spotify.com/track/5rb9QrpfcKFHM1EUbSIurX"
-    },
-    {
-      "added_at": "2020-08-31 04:14:33",
-      "album": {
-        "name": "Hot Fuss",
-        "url": "https://open.spotify.com/album/4piJq7R3gjUOxnYs6lDCTg"
-      },
-      "artists": [
-        {
-          "name": "The Killers",
-          "url": "https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu"
-        }
-      ],
-      "duration_ms": 222973,
-      "name": "Mr. Brightside",
-      "url": "https://open.spotify.com/track/003vvx7Niy0yvhvHt4a68B"
     },
     {
       "added_at": "2020-08-31 04:14:33",
@@ -839,18 +839,18 @@
     {
       "added_at": "2020-08-31 04:14:33",
       "album": {
-        "name": "The Black Parade",
-        "url": "https://open.spotify.com/album/0FZK97MXMm5mUQ8mtudjuK"
+        "name": "The Fame",
+        "url": "https://open.spotify.com/album/1jpUMnKpRlng1OJN7LJauV"
       },
       "artists": [
         {
-          "name": "My Chemical Romance",
-          "url": "https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb"
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
         }
       ],
-      "duration_ms": 311106,
-      "name": "Welcome to the Black Parade",
-      "url": "https://open.spotify.com/track/5wQnmLuC1W7ATsArWACrgW"
+      "duration_ms": 237200,
+      "name": "Poker Face",
+      "url": "https://open.spotify.com/track/5R8dQOPq8haW94K7mgERlO"
     }
   ],
   "unique_name": "Best of '00s Pop",

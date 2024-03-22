@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZiWafrEIdA8.md) - [plain]
 
 > 한 줄, 한 줄 당신을 위로하는 가사와 따뜻한 비트.
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,340 likes - 50 songs - 3 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,337 likes - 50 songs - 3 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZiWafrEIdA8.md) - [plain]
 | 49 | [Yoo Jae Suk](https://open.spotify.com/track/3QglCjbhnoT7NPUOqU5zDK) | [VINXEN](https://open.spotify.com/artist/4T6xiCykTP9rCNaEPU7D4q) | [Star](https://open.spotify.com/album/3zCvTkjs4RaVAV5AF4LayZ) | 3:35 |
 | 50 | [iii \(Feat\. Basick, Kid Milli & Paloalto\) \(Prod\. CODE KUNST\)](https://open.spotify.com/track/6edZem9rKwPzzGe2IAmIiP) | [Layone](https://open.spotify.com/artist/2TTGZUWJg6LIOWsmCEgKCZ), [CODE KUNST](https://open.spotify.com/artist/4WnO2VmlwdTX77ANsThWLQ), [Basick](https://open.spotify.com/artist/7pXKdkQsYFCMG2omRxheJ2), [Kid Milli](https://open.spotify.com/artist/7IWshUcKfJyDWrbiF2XT8J), [Paloalto](https://open.spotify.com/artist/2Yv0nlRtzgPl6u0dsS2hFv) | [Show Me The Money 9 Semi Final](https://open.spotify.com/album/0plEgZoHiIXfQQ8eJYir1V) | 3:55 |
 
-Snapshot ID: `MCw1N2JjM2U5Njk0OGU2YzU2ZWJiZTY3YWIxNTJiY2JkYzMzNjY0OWNm`
+Snapshot ID: `MCwzYjQzMmZjZWE1YzE0NDEyYjY0YWZmOGJkMjI2NDk2MDNiZDVhNzY4`

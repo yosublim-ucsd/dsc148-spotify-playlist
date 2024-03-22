@@ -27,6 +27,24 @@
     },
     {
       "album": {
+        "name": "2MUCH$",
+        "url": "https://open.spotify.com/album/7jeJlWk5DQcziq5Wc0X3ik"
+      },
+      "artists": [
+        {
+          "name": "Sophiya",
+          "url": "https://open.spotify.com/artist/0cAZn7vdec0QR58yldVTwm"
+        }
+      ],
+      "date_added": "2024-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142500,
+      "name": "2MUCH$",
+      "url": "https://open.spotify.com/track/10jzrk4RI6TYIAcNoHjOgI"
+    },
+    {
+      "album": {
         "name": "A Milli (SIDEPIECE Remix)",
         "url": "https://open.spotify.com/album/2CElE4zRNvhLHuRSqdB1pS"
       },

@@ -1,5 +1,5 @@
 {
-  "2024-03-21": 56094,
+  "2024-03-22": 56125,
   "date_first_scraped": "2021-12-28",
   "description": "Best of South Asian diaspora. Cover: Jonita Gandhi, Ali Sethi",
   "name": "No Borders",
@@ -415,10 +415,28 @@
       ],
       "date_added": "2022-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-21",
       "duration_ms": 168053,
       "name": "Beg for You (feat. Rina Sawayama)",
       "url": "https://open.spotify.com/track/11M8c9SHQYpd8DOrmcu25k"
+    },
+    {
+      "album": {
+        "name": "Billi Billi",
+        "url": "https://open.spotify.com/album/20hmi1knXw7qwh8ihuIEVU"
+      },
+      "artists": [
+        {
+          "name": "F1rstman",
+          "url": "https://open.spotify.com/artist/0IA4SdCS8HBDX6oBoOlgaf"
+        }
+      ],
+      "date_added": "2024-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155053,
+      "name": "Billi Billi",
+      "url": "https://open.spotify.com/track/5toxCaO4WoXARrRF7yfJ9Q"
     },
     {
       "album": {
@@ -1437,7 +1455,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-21",
       "duration_ms": 219353,
       "name": "Honey Bee",
       "url": "https://open.spotify.com/track/1s2eSfchKBG6NIWpwL6x5B"
@@ -1553,7 +1571,7 @@
       ],
       "date_added": "2022-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-21",
       "duration_ms": 169986,
       "name": "I Love You Baby, I Love You Doll",
       "url": "https://open.spotify.com/track/1uC8CoidgacQzx9f01n73h"
@@ -2406,6 +2424,28 @@
     },
     {
       "album": {
+        "name": "Nain Milaa",
+        "url": "https://open.spotify.com/album/3Mf9G0j9h8VmzZvVIcfZoZ"
+      },
+      "artists": [
+        {
+          "name": "Duava",
+          "url": "https://open.spotify.com/artist/0F88EwGyoS0Mi3VftQjyEj"
+        },
+        {
+          "name": "Kamal Sanghera",
+          "url": "https://open.spotify.com/artist/5Ws8gRFVT1u8awd7A6S5ZD"
+        }
+      ],
+      "date_added": "2024-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158064,
+      "name": "Nain Milaa",
+      "url": "https://open.spotify.com/track/4XYckqREtbI5s829IGsuoi"
+    },
+    {
+      "album": {
         "name": "Name on it",
         "url": "https://open.spotify.com/album/7flKRtYhgE5NvFE6ylazVf"
       },
@@ -3211,7 +3251,7 @@
       ],
       "date_added": "2022-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-21",
       "duration_ms": 168979,
       "name": "Tension",
       "url": "https://open.spotify.com/track/2JUyPdhD8Mae0QHI6f2w6Z"

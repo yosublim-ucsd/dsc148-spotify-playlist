@@ -4,7 +4,7 @@
 
 > Reinas de la cumbia, de hoy y de siempre\. <br/>Foto: Karina.
 
-137 songs - 8 hr 15 min
+139 songs - 8 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,7 +47,7 @@
 | [El Club de Mujeres Engañadas](https://open.spotify.com/track/0epOmO4nkZhuCDzNaLf7Wl) | [Laura Leon](https://open.spotify.com/artist/1dON8KmX1N7ZPHCRyhK2hX) | [La Reina](https://open.spotify.com/album/2OljxYyHZlPORUWrQ7vHS6) | 4:08 | 2022-07-08 | 2024-03-20 |
 | [El Marginal](https://open.spotify.com/track/0R2271joKqIt1utuHQbQ4w) | [Sara Hebe](https://open.spotify.com/artist/4pFUriuYqqAmBCvqF9o6LW) | [El Marginal](https://open.spotify.com/album/1SrbhByvhomAAURiA7MLRa) | 3:08 | 2022-07-08 | 2023-03-25 |
 | [El Marginal](https://open.spotify.com/track/6SvzbuHAX58FVO2rIOFNvr) | [Sara Hebe](https://open.spotify.com/artist/4pFUriuYqqAmBCvqF9o6LW) | [El Marginal](https://open.spotify.com/album/3QxrSaRjvNT7XgPqb6Ttvr) | 3:08 | 2022-01-14 | 2022-07-29 |
-| [El Mundo](https://open.spotify.com/track/4tlQaF2e3VSQTlK22WRf7L) | [Dalila](https://open.spotify.com/artist/3ruk44IzmsPppwo7VOknwZ) | [El Mundo](https://open.spotify.com/album/2BvuzOIT0RG2emuTC1fpfI) | 3:33 | 2023-10-26 |  |
+| [El Mundo](https://open.spotify.com/track/4tlQaF2e3VSQTlK22WRf7L) | [Dalila](https://open.spotify.com/artist/3ruk44IzmsPppwo7VOknwZ) | [El Mundo](https://open.spotify.com/album/2BvuzOIT0RG2emuTC1fpfI) | 3:33 | 2023-10-26 | 2024-03-22 |
 | [Elegante](https://open.spotify.com/track/5jedzAay4LJepkpoJoZ5Gz) | [j mena](https://open.spotify.com/artist/6iYRN5eaz8LSxvwkhmwkRj), [Los Palmeras](https://open.spotify.com/artist/2Htm0q72SjGSmsy8EOIhRG) | [Elegante](https://open.spotify.com/album/2PMenTNiWlWdZzv8LVqrB7) | 3:25 | 2024-02-29 |  |
 | [En Peligro de Extinción](https://open.spotify.com/track/3iJBKJpJ410zMHs2XgNifm) | [Viru Kumbieron](https://open.spotify.com/artist/7edrtXagYn0nCFOwQp8AS1) | [En Peligro de Extinción](https://open.spotify.com/album/2lrLv3S0wuWr1U0iAsTyQ5) | 3:41 | 2022-01-14 |  |
 | [En Tu Pelo](https://open.spotify.com/track/0zWv4SB4NLDHZeTQPJpfZs) | [Lia Crucet](https://open.spotify.com/artist/1wsio1S9CIIbEuGSYkSAyQ) | [Grandes Exitos](https://open.spotify.com/album/0zhysJHZai73HznxQ5Kmj3) | 3:37 | 2022-01-14 | 2023-03-12 |
@@ -66,11 +66,13 @@
 | [Fuiste](https://open.spotify.com/track/4fLd1pIpGwV4IEbQNyQMLh) | [Gilda](https://open.spotify.com/artist/6Q6qTNC2rAegcR5QjzcRgE) | [Corazón Valiente](https://open.spotify.com/album/1qeqv8V5qkNHRmhcBD5QnD) | 3:04 | 2023-03-03 |  |
 | [Herida](https://open.spotify.com/track/2vujPBdAmZH3gFzflfB0Z6) | [Gira Prohibida](https://open.spotify.com/artist/4iWPbVwCqqJCBRb8T8kUvi), [Gladys "La bomba tucumana"](https://open.spotify.com/artist/09jut908wvFm55SqnO4DN3) | [GIRA PROHIBIDA \#6: Gladys "La bomba tucumana"](https://open.spotify.com/album/1yRAT7GOLmQZzhqhGvAUrM) | 3:47 | 2024-01-18 |  |
 | [Karma](https://open.spotify.com/track/4SkPhoz2b5busK8p9yc4rB) | [Angela Leiva](https://open.spotify.com/artist/6Y4g5zwJI7jcRzGLXh0H5d) | [Karma](https://open.spotify.com/album/6zl0Ny6UMSSXnmMzOYElmC) | 2:56 | 2022-01-14 |  |
+| [Ke Ganas de No Verte Nunca Más](https://open.spotify.com/track/140I2RxPbPhFvBn1CiYGY3) | [Miss Bolivia](https://open.spotify.com/artist/4xx3PjUWxXY0qEXUdDhrwx), [ROMEA](https://open.spotify.com/artist/59sdqs9Q6lzOj4PXXKp8I1) | [Ke Ganas de No Verte Nunca Más](https://open.spotify.com/album/196Wc6ZS9a9HR9ssndsO52) | 2:22 | 2024-03-21 |  |
 | [La Cantaleta](https://open.spotify.com/track/5Wtf9c3edivgTkGwxWEyUj) | [Laura Leon](https://open.spotify.com/artist/1dON8KmX1N7ZPHCRyhK2hX) | [20 TropiExitos](https://open.spotify.com/album/27C2s8tthY7NsuuDOqrLxm) | 3:38 | 2022-07-08 |  |
 | [La Chismeadera](https://open.spotify.com/track/0ceAW9VtBbFOEN6fSIehGA) | [Mariana Seoane](https://open.spotify.com/artist/5erc8Dr6fyYJSoIXJKlFZV) | [La Chismeadera](https://open.spotify.com/album/53w81o8xTYSHmcqdg0dsD6) | 3:39 | 2022-01-14 | 2022-10-30 |
-| [La Chismeadera](https://open.spotify.com/track/7EVWdNSgdItB2rvXAf1kHU) | [Mariana Seoane](https://open.spotify.com/artist/5erc8Dr6fyYJSoIXJKlFZV) | [La Chismeadera](https://open.spotify.com/album/5FdBKEn8oKz2ujvM7xmAZ2) | 3:39 | 2022-09-23 |  |
+| [La Chismeadera](https://open.spotify.com/track/7EVWdNSgdItB2rvXAf1kHU) | [Mariana Seoane](https://open.spotify.com/artist/5erc8Dr6fyYJSoIXJKlFZV) | [La Chismeadera](https://open.spotify.com/album/5FdBKEn8oKz2ujvM7xmAZ2) | 3:39 | 2022-09-23 | 2024-03-22 |
 | [La Güera Salome](https://open.spotify.com/track/51kzAz2guzWXeQFtzE3BUa) | [Lia Crucet](https://open.spotify.com/artist/1wsio1S9CIIbEuGSYkSAyQ) | [La Movidita](https://open.spotify.com/album/59IsmbtBiwZmpwrBOJzymP) | 3:02 | 2023-03-03 |  |
 | [La Güera Salomé](https://open.spotify.com/track/0ztaqx3ChIDhqmZepSoJkB) | [Lia Crucet](https://open.spotify.com/artist/1wsio1S9CIIbEuGSYkSAyQ) | [Grandes Exitos](https://open.spotify.com/album/0zhysJHZai73HznxQ5Kmj3) | 3:03 | 2022-01-14 | 2023-03-12 |
+| [La Luna y Tú](https://open.spotify.com/track/4PGopmEXr1E5OQa4eA8s8S) | [Rafaga](https://open.spotify.com/artist/0CBKUzrf6yGdTgxAQbUUHS), [Soledad](https://open.spotify.com/artist/0K59Fm1y7s3j498ueS4qzY) | [La Luna y Tú](https://open.spotify.com/album/6tj3hUb520RFwQHHM5Osyk) | 3:36 | 2024-03-21 |  |
 | [La Maleza](https://open.spotify.com/track/3tfxpt6S6JKFHc3kmeMSbW) | [Miloska](https://open.spotify.com/artist/1t7MDhQGrLywx9bxZMgVju) | [La Maleza](https://open.spotify.com/album/0nckuZwitJcBLzw7iKccxC) | 3:40 | 2022-01-14 | 2022-07-26 |
 | [La Mejor Versión de Mi](https://open.spotify.com/track/6n2NZOVbSaDQ2PcZVUv997) | [JOHANA RODRIGUEZ](https://open.spotify.com/artist/7tuofRUkaEJGOBu0FImMYw) | [La Mejor Versión de Mi](https://open.spotify.com/album/4pJBLj9ErDQxIXq70HRvI5) | 4:05 | 2022-01-14 |  |
 | [La Muy Muy \- \(Album Version\)](https://open.spotify.com/track/02wZwpZW6ADtmLAMQomvkc) | [Amandititita](https://open.spotify.com/artist/1zvDryyqbfBiK0SojGrndv) | [Amandititita](https://open.spotify.com/album/4Mbw7O6bCUvcdBrBSd2vy7) | 3:18 | 2022-01-14 |  |

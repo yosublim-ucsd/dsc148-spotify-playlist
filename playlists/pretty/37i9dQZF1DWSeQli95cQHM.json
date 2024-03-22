@@ -1,12 +1,12 @@
 {
   "description": "Na m\u00fasica eletr\u00f4nica underground brasileira, nos vemos no front.",
-  "num_followers": 11219,
+  "num_followers": 11229,
   "original_name": "Front BR",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4MTAzZGI3MzhiMTdlYjExYzZjZTZiNzZhYjc0ZmVhOGFkOGZhMTgw",
+  "snapshot_id": "MCxjZDc0MTVjMTU2NmJhZDNkNDQ5YWY3MDg4MzJkOGIyZThiZTcwYzIy",
   "tracks": [
     {
       "added_at": "2023-11-10 03:03:00",
@@ -267,26 +267,6 @@
     {
       "added_at": "2023-11-10 03:03:00",
       "album": {
-        "name": "Come With Me",
-        "url": "https://open.spotify.com/album/7f0bGISHCJJFKYsM6yVNb7"
-      },
-      "artists": [
-        {
-          "name": "CESRV",
-          "url": "https://open.spotify.com/artist/1qJG1PpAGl1FnzYyCDU7x1"
-        },
-        {
-          "name": "Cybass",
-          "url": "https://open.spotify.com/artist/0qKOvfud2ajAxBCZySk29p"
-        }
-      ],
-      "duration_ms": 257600,
-      "name": "Come With Me",
-      "url": "https://open.spotify.com/track/3y6hObDg86mAhr4C7SfmYf"
-    },
-    {
-      "added_at": "2023-11-10 03:03:00",
-      "album": {
         "name": "Kengaral Eletrohits, Vol. 2",
         "url": "https://open.spotify.com/album/3mZE3yhkIMY9dwZdJBWAPC"
       },
@@ -307,22 +287,6 @@
     {
       "added_at": "2023-11-10 03:03:00",
       "album": {
-        "name": "Na Lagoa",
-        "url": "https://open.spotify.com/album/0acKE1PTMxBOEhijXOyOHM"
-      },
-      "artists": [
-        {
-          "name": "Xique-Xique",
-          "url": "https://open.spotify.com/artist/5LuhrBhGclMzHlYK4mDLLp"
-        }
-      ],
-      "duration_ms": 409185,
-      "name": "Senhor Carangeju",
-      "url": "https://open.spotify.com/track/2WU1pLmxOS4zPiCXBE45rJ"
-    },
-    {
-      "added_at": "2023-11-10 03:03:00",
-      "album": {
         "name": "TRAVESSIA",
         "url": "https://open.spotify.com/album/6U6CxG7eUVvVMUDP4mxzRI"
       },
@@ -339,18 +303,38 @@
     {
       "added_at": "2023-11-10 03:03:00",
       "album": {
-        "name": "Charme",
-        "url": "https://open.spotify.com/album/60cvpqPVesp2srVcNCFKJV"
+        "name": "Na Lagoa",
+        "url": "https://open.spotify.com/album/0acKE1PTMxBOEhijXOyOHM"
       },
       "artists": [
         {
-          "name": "Zopelar",
-          "url": "https://open.spotify.com/artist/0Qr2iLEeyLhd9rLHH1piYb"
+          "name": "Xique-Xique",
+          "url": "https://open.spotify.com/artist/5LuhrBhGclMzHlYK4mDLLp"
         }
       ],
-      "duration_ms": 344741,
-      "name": "Charme",
-      "url": "https://open.spotify.com/track/6Zuy9QOueOYh8O4LcCRrgo"
+      "duration_ms": 409185,
+      "name": "Senhor Carangeju",
+      "url": "https://open.spotify.com/track/2WU1pLmxOS4zPiCXBE45rJ"
+    },
+    {
+      "added_at": "2023-11-10 03:03:00",
+      "album": {
+        "name": "Come With Me",
+        "url": "https://open.spotify.com/album/7f0bGISHCJJFKYsM6yVNb7"
+      },
+      "artists": [
+        {
+          "name": "CESRV",
+          "url": "https://open.spotify.com/artist/1qJG1PpAGl1FnzYyCDU7x1"
+        },
+        {
+          "name": "Cybass",
+          "url": "https://open.spotify.com/artist/0qKOvfud2ajAxBCZySk29p"
+        }
+      ],
+      "duration_ms": 257600,
+      "name": "Come With Me",
+      "url": "https://open.spotify.com/track/3y6hObDg86mAhr4C7SfmYf"
     },
     {
       "added_at": "2023-11-10 03:03:00",
@@ -375,22 +359,18 @@
     {
       "added_at": "2023-11-10 03:03:00",
       "album": {
-        "name": "ALGO",
-        "url": "https://open.spotify.com/album/4lYlRgyH0HzIhB5WBiCYxw"
+        "name": "Charme",
+        "url": "https://open.spotify.com/album/60cvpqPVesp2srVcNCFKJV"
       },
       "artists": [
         {
-          "name": "L_cio",
-          "url": "https://open.spotify.com/artist/1bp9y0lyzSPhnB6Dk8CUaW"
-        },
-        {
-          "name": "BLANCAh",
-          "url": "https://open.spotify.com/artist/2UlGQzanOYozGMseJ8qBRz"
+          "name": "Zopelar",
+          "url": "https://open.spotify.com/artist/0Qr2iLEeyLhd9rLHH1piYb"
         }
       ],
-      "duration_ms": 352099,
-      "name": "Algo 2",
-      "url": "https://open.spotify.com/track/7JukUaZAH26NHybv468QmK"
+      "duration_ms": 344741,
+      "name": "Charme",
+      "url": "https://open.spotify.com/track/6Zuy9QOueOYh8O4LcCRrgo"
     },
     {
       "added_at": "2023-11-10 03:03:00",
@@ -411,18 +391,22 @@
     {
       "added_at": "2023-11-10 03:03:00",
       "album": {
-        "name": "Pared\u00e3o",
-        "url": "https://open.spotify.com/album/6OvJhMF1Fu7LEoYCpIDptq"
+        "name": "ALGO",
+        "url": "https://open.spotify.com/album/4lYlRgyH0HzIhB5WBiCYxw"
       },
       "artists": [
         {
-          "name": "CESRV",
-          "url": "https://open.spotify.com/artist/1qJG1PpAGl1FnzYyCDU7x1"
+          "name": "L_cio",
+          "url": "https://open.spotify.com/artist/1bp9y0lyzSPhnB6Dk8CUaW"
+        },
+        {
+          "name": "BLANCAh",
+          "url": "https://open.spotify.com/artist/2UlGQzanOYozGMseJ8qBRz"
         }
       ],
-      "duration_ms": 258005,
-      "name": "De AK em Cima da CB1000",
-      "url": "https://open.spotify.com/track/6fnPjo1Q1kkYoitZh2yP2U"
+      "duration_ms": 352099,
+      "name": "Algo 2",
+      "url": "https://open.spotify.com/track/7JukUaZAH26NHybv468QmK"
     },
     {
       "added_at": "2023-11-10 03:03:00",
@@ -443,22 +427,6 @@
     {
       "added_at": "2023-11-10 03:03:00",
       "album": {
-        "name": "Benzine EP",
-        "url": "https://open.spotify.com/album/2DibufkG06qMeScycqEsXE"
-      },
-      "artists": [
-        {
-          "name": "Renato Cohen",
-          "url": "https://open.spotify.com/artist/7C26wQyStqkNFW94iutvVD"
-        }
-      ],
-      "duration_ms": 406138,
-      "name": "Benzine",
-      "url": "https://open.spotify.com/track/5Df2OdR13Gvj8hH05VkBG0"
-    },
-    {
-      "added_at": "2023-11-10 03:03:00",
-      "album": {
         "name": "Ideologia Chinesa",
         "url": "https://open.spotify.com/album/59gOFfVWRfngojfpLIqabt"
       },
@@ -471,6 +439,22 @@
       "duration_ms": 323629,
       "name": "House Aprovado Pelo Governo",
       "url": "https://open.spotify.com/track/6M5Qw2cglL7PGAq3VS9uaI"
+    },
+    {
+      "added_at": "2023-11-10 03:03:00",
+      "album": {
+        "name": "Benzine EP",
+        "url": "https://open.spotify.com/album/2DibufkG06qMeScycqEsXE"
+      },
+      "artists": [
+        {
+          "name": "Renato Cohen",
+          "url": "https://open.spotify.com/artist/7C26wQyStqkNFW94iutvVD"
+        }
+      ],
+      "duration_ms": 406138,
+      "name": "Benzine",
+      "url": "https://open.spotify.com/track/5Df2OdR13Gvj8hH05VkBG0"
     },
     {
       "added_at": "2023-11-10 03:03:00",
@@ -499,6 +483,22 @@
       "duration_ms": 188320,
       "name": "P\u00f3 de Guaran\u00e1 (Caiporas e Armadilhas)",
       "url": "https://open.spotify.com/track/2cYWtypetLoFznZbirS1dX"
+    },
+    {
+      "added_at": "2023-11-10 03:03:00",
+      "album": {
+        "name": "Pared\u00e3o",
+        "url": "https://open.spotify.com/album/6OvJhMF1Fu7LEoYCpIDptq"
+      },
+      "artists": [
+        {
+          "name": "CESRV",
+          "url": "https://open.spotify.com/artist/1qJG1PpAGl1FnzYyCDU7x1"
+        }
+      ],
+      "duration_ms": 258005,
+      "name": "De AK em Cima da CB1000",
+      "url": "https://open.spotify.com/track/6fnPjo1Q1kkYoitZh2yP2U"
     },
     {
       "added_at": "2023-11-10 03:03:00",
@@ -559,6 +559,22 @@
     {
       "added_at": "2023-11-10 03:03:00",
       "album": {
+        "name": "Keyboard Cats EP",
+        "url": "https://open.spotify.com/album/5aPc3zrMNTcnOLE72B1l8t"
+      },
+      "artists": [
+        {
+          "name": "Amanda Mussi",
+          "url": "https://open.spotify.com/artist/6yoR3GxDnUclI3jI8exbvQ"
+        }
+      ],
+      "duration_ms": 369924,
+      "name": "Keyboard Cats",
+      "url": "https://open.spotify.com/track/1J0ohTS2naEah8SF6wE9bO"
+    },
+    {
+      "added_at": "2023-11-10 03:03:00",
+      "album": {
         "name": "Ch\u00e1 de trombeta",
         "url": "https://open.spotify.com/album/3v6CT4nFEl2aUw0E5CY2Zp"
       },
@@ -579,22 +595,6 @@
       "duration_ms": 420000,
       "name": "Ch\u00e1 de trombeta",
       "url": "https://open.spotify.com/track/1pw1Jq2XPSyQNgdz3xplV5"
-    },
-    {
-      "added_at": "2023-11-10 03:03:00",
-      "album": {
-        "name": "Keyboard Cats EP",
-        "url": "https://open.spotify.com/album/5aPc3zrMNTcnOLE72B1l8t"
-      },
-      "artists": [
-        {
-          "name": "Amanda Mussi",
-          "url": "https://open.spotify.com/artist/6yoR3GxDnUclI3jI8exbvQ"
-        }
-      ],
-      "duration_ms": 369924,
-      "name": "Keyboard Cats",
-      "url": "https://open.spotify.com/track/1J0ohTS2naEah8SF6wE9bO"
     },
     {
       "added_at": "2023-11-10 03:03:00",
@@ -675,38 +675,6 @@
     {
       "added_at": "2023-11-10 03:03:00",
       "album": {
-        "name": "N\u00f3dulo",
-        "url": "https://open.spotify.com/album/43JSvwecrejD1GqA0KGiWb"
-      },
-      "artists": [
-        {
-          "name": "Entropia-Entalpia",
-          "url": "https://open.spotify.com/artist/2SJ1flrpAzQqdayHjbRe2e"
-        }
-      ],
-      "duration_ms": 453333,
-      "name": "Sobre Tum Tum Ta",
-      "url": "https://open.spotify.com/track/52zdd6JFOv7k95Zrk1Eb46"
-    },
-    {
-      "added_at": "2023-11-10 03:03:00",
-      "album": {
-        "name": "Mensagem",
-        "url": "https://open.spotify.com/album/2TQmM3zK1XuCRLAYmcPQhb"
-      },
-      "artists": [
-        {
-          "name": "Zopelar",
-          "url": "https://open.spotify.com/artist/0Qr2iLEeyLhd9rLHH1piYb"
-        }
-      ],
-      "duration_ms": 266133,
-      "name": "Orange Sunlight",
-      "url": "https://open.spotify.com/track/3DkKyCC7BJViCAkirE2kMP"
-    },
-    {
-      "added_at": "2023-11-10 03:03:00",
-      "album": {
         "name": "Conexao Riocife",
         "url": "https://open.spotify.com/album/6tTaBjchGgTfDQBn5Bw3bp"
       },
@@ -723,6 +691,22 @@
       "duration_ms": 304098,
       "name": "Baile do Tai Tai",
       "url": "https://open.spotify.com/track/2NdwBjodJX5zHUdSQWfPyh"
+    },
+    {
+      "added_at": "2023-11-10 03:03:00",
+      "album": {
+        "name": "Mensagem",
+        "url": "https://open.spotify.com/album/2TQmM3zK1XuCRLAYmcPQhb"
+      },
+      "artists": [
+        {
+          "name": "Zopelar",
+          "url": "https://open.spotify.com/artist/0Qr2iLEeyLhd9rLHH1piYb"
+        }
+      ],
+      "duration_ms": 266133,
+      "name": "Orange Sunlight",
+      "url": "https://open.spotify.com/track/3DkKyCC7BJViCAkirE2kMP"
     },
     {
       "added_at": "2023-11-10 03:03:00",
@@ -747,6 +731,38 @@
     {
       "added_at": "2023-11-10 03:03:00",
       "album": {
+        "name": "Feel Me",
+        "url": "https://open.spotify.com/album/28dybAb1bHM81bMOIPM9QW"
+      },
+      "artists": [
+        {
+          "name": "Aninha",
+          "url": "https://open.spotify.com/artist/6dCjFLvBI3cNlTIUWSXRrf"
+        }
+      ],
+      "duration_ms": 351451,
+      "name": "Feel Me - Original mix",
+      "url": "https://open.spotify.com/track/2UKEv5MMX7TYHcc92TJHP5"
+    },
+    {
+      "added_at": "2023-11-10 03:03:00",
+      "album": {
+        "name": "N\u00f3dulo",
+        "url": "https://open.spotify.com/album/43JSvwecrejD1GqA0KGiWb"
+      },
+      "artists": [
+        {
+          "name": "Entropia-Entalpia",
+          "url": "https://open.spotify.com/artist/2SJ1flrpAzQqdayHjbRe2e"
+        }
+      ],
+      "duration_ms": 453333,
+      "name": "Sobre Tum Tum Ta",
+      "url": "https://open.spotify.com/track/52zdd6JFOv7k95Zrk1Eb46"
+    },
+    {
+      "added_at": "2023-11-10 03:03:00",
+      "album": {
         "name": "Laiarai\u00e1 (Remixes)",
         "url": "https://open.spotify.com/album/7nnfxrjhpD6t0lyuW7JYix"
       },
@@ -767,22 +783,6 @@
       "duration_ms": 308000,
       "name": "Laiarai\u00e1 (LOV.ini Remix)",
       "url": "https://open.spotify.com/track/1t1AznXhR5rr9IKBqhMOl5"
-    },
-    {
-      "added_at": "2023-11-10 03:03:00",
-      "album": {
-        "name": "Feel Me",
-        "url": "https://open.spotify.com/album/28dybAb1bHM81bMOIPM9QW"
-      },
-      "artists": [
-        {
-          "name": "Aninha",
-          "url": "https://open.spotify.com/artist/6dCjFLvBI3cNlTIUWSXRrf"
-        }
-      ],
-      "duration_ms": 351451,
-      "name": "Feel Me - Original mix",
-      "url": "https://open.spotify.com/track/2UKEv5MMX7TYHcc92TJHP5"
     },
     {
       "added_at": "2023-11-10 03:03:00",

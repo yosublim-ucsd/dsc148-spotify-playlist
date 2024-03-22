@@ -1,12 +1,12 @@
 {
   "description": "\u2764\ufe0f o \ud83d\udc94\n",
-  "num_followers": 41753,
+  "num_followers": 41794,
   "original_name": "Trap Luv",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjODkzMzdiMTIwZDUxMWI5NDRlMWMwMmUzNzM1MWM0NzE3ZjJiMTYx",
+  "snapshot_id": "MCw1Y2JjMTQzOTdlZGJkZmI3Zjg2YmYwYjM3OTcyMmJlMDQ2MjFkZTMz",
   "tracks": [
     {
       "added_at": "2024-03-18 15:07:52",
@@ -739,22 +739,6 @@
     {
       "added_at": "2024-03-18 15:07:52",
       "album": {
-        "name": "Colocao",
-        "url": "https://open.spotify.com/album/3VH9BRaAzvy7n9X5DNdHxm"
-      },
-      "artists": [
-        {
-          "name": "Nicki Nicole",
-          "url": "https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y"
-        }
-      ],
-      "duration_ms": 179966,
-      "name": "Colocao",
-      "url": "https://open.spotify.com/track/7MCFjPDImfjQv7GynHgVrR"
-    },
-    {
-      "added_at": "2024-03-18 15:07:52",
-      "album": {
         "name": "Bipolar",
         "url": "https://open.spotify.com/album/65R514k7t8iXXJVt2u7RWw"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 220080,
       "name": "Bipolar",
       "url": "https://open.spotify.com/track/2ixygoa1o3CdZknv1PPjyj"
+    },
+    {
+      "added_at": "2024-03-18 15:07:52",
+      "album": {
+        "name": "Colocao",
+        "url": "https://open.spotify.com/album/3VH9BRaAzvy7n9X5DNdHxm"
+      },
+      "artists": [
+        {
+          "name": "Nicki Nicole",
+          "url": "https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y"
+        }
+      ],
+      "duration_ms": 179966,
+      "name": "Colocao",
+      "url": "https://open.spotify.com/track/7MCFjPDImfjQv7GynHgVrR"
     },
     {
       "added_at": "2024-03-18 15:07:52",
@@ -1079,6 +1079,22 @@
     {
       "added_at": "2024-03-18 15:07:52",
       "album": {
+        "name": "Vuelve a Mi",
+        "url": "https://open.spotify.com/album/2c1OLuv8lwJ7Q6hmjphPj9"
+      },
+      "artists": [
+        {
+          "name": "Micro TDH",
+          "url": "https://open.spotify.com/artist/1aWJsBQa67l72j1VT3D6Ow"
+        }
+      ],
+      "duration_ms": 186666,
+      "name": "Vuelve a Mi",
+      "url": "https://open.spotify.com/track/5Ojmp2wFNvPgZpkFSUvWTo"
+    },
+    {
+      "added_at": "2024-03-18 15:07:52",
+      "album": {
         "name": "Recuerdos",
         "url": "https://open.spotify.com/album/16ZMrJHpIg8yz4We1xuvuu"
       },
@@ -1095,22 +1111,6 @@
       "duration_ms": 200000,
       "name": "C\u00f3mo D\u00edmelo",
       "url": "https://open.spotify.com/track/7EehFSuTqX5ufeVwajlnNa"
-    },
-    {
-      "added_at": "2024-03-18 15:07:52",
-      "album": {
-        "name": "Vuelve a Mi",
-        "url": "https://open.spotify.com/album/2c1OLuv8lwJ7Q6hmjphPj9"
-      },
-      "artists": [
-        {
-          "name": "Micro TDH",
-          "url": "https://open.spotify.com/artist/1aWJsBQa67l72j1VT3D6Ow"
-        }
-      ],
-      "duration_ms": 186666,
-      "name": "Vuelve a Mi",
-      "url": "https://open.spotify.com/track/5Ojmp2wFNvPgZpkFSUvWTo"
     },
     {
       "added_at": "2024-03-18 15:07:52",
@@ -1771,22 +1771,6 @@
     {
       "added_at": "2024-03-18 15:07:52",
       "album": {
-        "name": "CAPRICHOSO",
-        "url": "https://open.spotify.com/album/6oKn81qm7WFAXnvkFB8Pah"
-      },
-      "artists": [
-        {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
-        }
-      ],
-      "duration_ms": 167619,
-      "name": "CAPRICHOSO",
-      "url": "https://open.spotify.com/track/1sJCxmtHVDHjgwXwdHYFWn"
-    },
-    {
-      "added_at": "2024-03-18 15:07:52",
-      "album": {
         "name": "Wake Me",
         "url": "https://open.spotify.com/album/2ymNHseI83zQVhSOTC2R3m"
       },
@@ -1799,6 +1783,22 @@
       "duration_ms": 174335,
       "name": "Wake Me",
       "url": "https://open.spotify.com/track/1fWa8CXfSZvP64CChqRve9"
+    },
+    {
+      "added_at": "2024-03-18 15:07:52",
+      "album": {
+        "name": "CAPRICHOSO",
+        "url": "https://open.spotify.com/album/6oKn81qm7WFAXnvkFB8Pah"
+      },
+      "artists": [
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        }
+      ],
+      "duration_ms": 167619,
+      "name": "CAPRICHOSO",
+      "url": "https://open.spotify.com/track/1sJCxmtHVDHjgwXwdHYFWn"
     },
     {
       "added_at": "2024-03-18 15:07:52",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbpJNWtkXDpL.md) - [plain]
 
 > El futuro está acá\. Conoce a El Frizian en RADAR México.
 
-[Spotify](https://open.spotify.com/user/spotify) - 81,892 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 81,920 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbpJNWtkXDpL.md) - [plain]
 | 40 | [La Belikada](https://open.spotify.com/track/53fbPJud2fcK12jzYIHqD6) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD), [El Padrinito Toys](https://open.spotify.com/artist/04mzq9GH08zOBRdV2gzmXm) | [La Belikada](https://open.spotify.com/album/23fDudy0YVBpYwSFFcB0Jn) | 2:33 |
 | 41 | [El Dos Sierras \( En Vivo\)](https://open.spotify.com/track/5QZDybP1fSbjHzp3gaWKk1) | [Herencia De Grandes](https://open.spotify.com/artist/0ocHleb3SllGNQQcDH35Xz) | [En Vivo De Culiacan](https://open.spotify.com/album/7aLvfvDELF2hdwC6iTKjCM) | 2:38 |
 | 42 | [KDR](https://open.spotify.com/track/66OK4uEWo71v2hcsPqxMNn) | [Grupo Mente Maestra](https://open.spotify.com/artist/7fReOInDdj4876IaRNzHC2) | [KDR](https://open.spotify.com/album/6ATbvwDHxLn5dfzGpqfygm) | 3:21 |
-| 43 | [De Ladrillo a Ladrillo](https://open.spotify.com/track/2V3zb4cQ9uUUlD1817CKLH) | [Nueva Marca](https://open.spotify.com/artist/347cjywtc77d0NSfzullDJ) | [El Traje Naranja](https://open.spotify.com/album/2TbFYhfR18s3thSXeswrjD) | 2:57 |
-| 44 | [Un Tabaco \(En Vivo\)](https://open.spotify.com/track/05NN4cZFCLQqUc9RcTRq4W) | [Juanpa Salazar](https://open.spotify.com/artist/6r92NGrlnmNvFJA9Kl0PAx) | [Un Tabaco \(En Vivo\)](https://open.spotify.com/album/5ku3Uwsk2Pe2lX41sJGn1p) | 3:27 |
+| 43 | [Un Tabaco \(En Vivo\)](https://open.spotify.com/track/05NN4cZFCLQqUc9RcTRq4W) | [Juanpa Salazar](https://open.spotify.com/artist/6r92NGrlnmNvFJA9Kl0PAx) | [Un Tabaco \(En Vivo\)](https://open.spotify.com/album/5ku3Uwsk2Pe2lX41sJGn1p) | 3:27 |
+| 44 | [De Ladrillo a Ladrillo](https://open.spotify.com/track/2V3zb4cQ9uUUlD1817CKLH) | [Nueva Marca](https://open.spotify.com/artist/347cjywtc77d0NSfzullDJ) | [El Traje Naranja](https://open.spotify.com/album/2TbFYhfR18s3thSXeswrjD) | 2:57 |
 | 45 | [Enamorado](https://open.spotify.com/track/5zC6Pptql0n3P7iAhn3ggg) | [Los Aptos](https://open.spotify.com/artist/4tenlYn9MG8Fda3OyDtPRO) | [Del Corazon](https://open.spotify.com/album/6bO4zC2EXhT7AEFtowvb3C) | 4:05 |
 | 46 | [WGV](https://open.spotify.com/track/78lggLFAvRq51V0Y68PD5c) | [Hans el Oso](https://open.spotify.com/artist/6h5PZ6aYahlswhw0w7QXea) | [SUCCESS \#3](https://open.spotify.com/album/1ZhiB9hSNLi2jtm7SEMNXt) | 3:00 |
 | 47 | [Malas Decisiones](https://open.spotify.com/track/2VYutJTaiK3oJursGk9z6a) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [Malas Decisiones](https://open.spotify.com/album/1SBtatmdkqzCgt16ujwPBZ) | 3:27 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbpJNWtkXDpL.md) - [plain]
 | 49 | [La Octava Maravilla \- En Vivo](https://open.spotify.com/track/0gQDxHSXOICEXjTFkl1UMb) | [Alfredo Montaño](https://open.spotify.com/artist/23L3bzvIziNKZw42P3lwsH) | [En Vivo](https://open.spotify.com/album/6n20YXCHsJZZTSd89n3uP1) | 3:53 |
 | 50 | [El Brillo De Tus Ojitos](https://open.spotify.com/track/0FNiIXrIxi7iZamdGDmwNL) | [Dorian Guerra](https://open.spotify.com/artist/1er7haaMByPvAGHwwE8ORP) | [El Brillo De Tus Ojitos](https://open.spotify.com/album/33sFxL5niaZixgvYKbPAhr) | 2:59 |
 
-Snapshot ID: `MCwzZWI3MGZkNDFjODEzNWZjMTgyY2RmNDZmNDA1Y2Q3YmIxN2ZmMDli`
+Snapshot ID: `MCxkM2YwYmE0OTQ1ZTgxNTBkNmYyNjE0MjMwOTlhZTZmNzEzZWM2Mjc0`

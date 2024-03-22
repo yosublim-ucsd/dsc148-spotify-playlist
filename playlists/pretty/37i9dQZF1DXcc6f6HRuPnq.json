@@ -1,12 +1,12 @@
 {
   "description": "Late night cool and the sound of smooth blues.",
-  "num_followers": 154017,
+  "num_followers": 154089,
   "original_name": "Midnight Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzYjhjNDdlNjQ1MTFiM2RlNGM5ODYxNGU2MTNiOThlNDAyOWM4YjMw",
+  "snapshot_id": "MCxjM2U4ODQ5ZjAwZTNlMWU5ZTBjY2JhMWFhMDc0MjI5ZDZkOGNjYzZm",
   "tracks": [
     {
       "added_at": "2023-10-05 08:53:30",
@@ -447,22 +447,6 @@
     {
       "added_at": "2023-10-05 08:53:30",
       "album": {
-        "name": "People Get Ready",
-        "url": "https://open.spotify.com/album/5wlHOc1Ek2knIEu5D662MV"
-      },
-      "artists": [
-        {
-          "name": "Joe Robinson",
-          "url": "https://open.spotify.com/artist/73V471Pu2mWBqqodpLh6PV"
-        }
-      ],
-      "duration_ms": 274560,
-      "name": "People Get Ready",
-      "url": "https://open.spotify.com/track/1nUtE7LNXLGFEJk8kG8gE6"
-    },
-    {
-      "added_at": "2023-10-05 08:53:30",
-      "album": {
         "name": "Then Play On (2013 Remaster; Expanded Edition)",
         "url": "https://open.spotify.com/album/4Ji83LjzvEzFoCpN85m5lW"
       },
@@ -479,18 +463,18 @@
     {
       "added_at": "2023-10-05 08:53:30",
       "album": {
-        "name": "Heavy Load Blues",
-        "url": "https://open.spotify.com/album/4RZFJXFYLHs9VhATqZ2nan"
+        "name": "People Get Ready",
+        "url": "https://open.spotify.com/album/5wlHOc1Ek2knIEu5D662MV"
       },
       "artists": [
         {
-          "name": "Gov't Mule",
-          "url": "https://open.spotify.com/artist/5zoKOcTDI9EMOhGNaxL708"
+          "name": "Joe Robinson",
+          "url": "https://open.spotify.com/artist/73V471Pu2mWBqqodpLh6PV"
         }
       ],
-      "duration_ms": 336333,
-      "name": "Ain\u2019t No Love In The Heart Of The City",
-      "url": "https://open.spotify.com/track/2h8nq99nTZQk9H4B63QjVn"
+      "duration_ms": 274560,
+      "name": "People Get Ready",
+      "url": "https://open.spotify.com/track/1nUtE7LNXLGFEJk8kG8gE6"
     },
     {
       "added_at": "2023-10-05 08:53:30",
@@ -507,6 +491,22 @@
       "duration_ms": 373933,
       "name": "Same Old Blues Again (2007 - Remaster)",
       "url": "https://open.spotify.com/track/7kiAAOa7TgKXQFDJxWxDwb"
+    },
+    {
+      "added_at": "2023-10-05 08:53:30",
+      "album": {
+        "name": "Heavy Load Blues",
+        "url": "https://open.spotify.com/album/4RZFJXFYLHs9VhATqZ2nan"
+      },
+      "artists": [
+        {
+          "name": "Gov't Mule",
+          "url": "https://open.spotify.com/artist/5zoKOcTDI9EMOhGNaxL708"
+        }
+      ],
+      "duration_ms": 336333,
+      "name": "Ain\u2019t No Love In The Heart Of The City",
+      "url": "https://open.spotify.com/track/2h8nq99nTZQk9H4B63QjVn"
     },
     {
       "added_at": "2023-10-05 08:53:30",
@@ -643,22 +643,6 @@
     {
       "added_at": "2023-10-05 08:53:30",
       "album": {
-        "name": "For Blind Willie",
-        "url": "https://open.spotify.com/album/2dKPexwvzRiovmrTAlqSGB"
-      },
-      "artists": [
-        {
-          "name": "Bror Gunnar Jansson",
-          "url": "https://open.spotify.com/artist/5orM2dN0u2EPAgSttOKI3Q"
-        }
-      ],
-      "duration_ms": 361970,
-      "name": "Lord I Just Can't Keep from Crying",
-      "url": "https://open.spotify.com/track/77b4dmfwHQJ8qSgQ8MzYMx"
-    },
-    {
-      "added_at": "2023-10-05 08:53:30",
-      "album": {
         "name": "King Of The Blues",
         "url": "https://open.spotify.com/album/2Wr5LRhgVQ9c8MsM4bj7r3"
       },
@@ -671,6 +655,22 @@
       "duration_ms": 268866,
       "name": "Help Me Through The Day",
       "url": "https://open.spotify.com/track/1k6zIr7FmCDWBlEGMjkwLb"
+    },
+    {
+      "added_at": "2023-10-05 08:53:30",
+      "album": {
+        "name": "For Blind Willie",
+        "url": "https://open.spotify.com/album/2dKPexwvzRiovmrTAlqSGB"
+      },
+      "artists": [
+        {
+          "name": "Bror Gunnar Jansson",
+          "url": "https://open.spotify.com/artist/5orM2dN0u2EPAgSttOKI3Q"
+        }
+      ],
+      "duration_ms": 361970,
+      "name": "Lord I Just Can't Keep from Crying",
+      "url": "https://open.spotify.com/track/77b4dmfwHQJ8qSgQ8MzYMx"
     },
     {
       "added_at": "2023-10-05 08:53:30",
@@ -851,6 +851,22 @@
     {
       "added_at": "2023-10-05 08:53:30",
       "album": {
+        "name": "Hate To See You Go",
+        "url": "https://open.spotify.com/album/7KZt4TYZm8A4tN1hqQpLRI"
+      },
+      "artists": [
+        {
+          "name": "Little Walter",
+          "url": "https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS"
+        }
+      ],
+      "duration_ms": 144040,
+      "name": "Blue Midnight",
+      "url": "https://open.spotify.com/track/7rDrwxr6IZNpBtsVoUToEd"
+    },
+    {
+      "added_at": "2023-10-05 08:53:30",
+      "album": {
         "name": "Bad Mouthin'",
         "url": "https://open.spotify.com/album/3ZChLxUW5NBs5h4c49OMUF"
       },
@@ -883,38 +899,6 @@
     {
       "added_at": "2023-10-05 08:53:30",
       "album": {
-        "name": "Hate To See You Go",
-        "url": "https://open.spotify.com/album/7KZt4TYZm8A4tN1hqQpLRI"
-      },
-      "artists": [
-        {
-          "name": "Little Walter",
-          "url": "https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS"
-        }
-      ],
-      "duration_ms": 144040,
-      "name": "Blue Midnight",
-      "url": "https://open.spotify.com/track/7rDrwxr6IZNpBtsVoUToEd"
-    },
-    {
-      "added_at": "2023-10-05 08:53:30",
-      "album": {
-        "name": "Put In a Little Time",
-        "url": "https://open.spotify.com/album/4lMmRnqMe82gxF92t8dWXt"
-      },
-      "artists": [
-        {
-          "name": "James Cooke",
-          "url": "https://open.spotify.com/artist/3VokpYFCjGr97pLl2RVd9U"
-        }
-      ],
-      "duration_ms": 280062,
-      "name": "Don't Worry",
-      "url": "https://open.spotify.com/track/3NVy1z9t4I6qgkY29d0r7C"
-    },
-    {
-      "added_at": "2023-10-05 08:53:30",
-      "album": {
         "name": "Mama Roux",
         "url": "https://open.spotify.com/album/4mVyWlC7YuwWmHeUUSj9s5"
       },
@@ -935,6 +919,22 @@
     {
       "added_at": "2023-10-05 08:53:30",
       "album": {
+        "name": "Put In a Little Time",
+        "url": "https://open.spotify.com/album/4lMmRnqMe82gxF92t8dWXt"
+      },
+      "artists": [
+        {
+          "name": "James Cooke",
+          "url": "https://open.spotify.com/artist/3VokpYFCjGr97pLl2RVd9U"
+        }
+      ],
+      "duration_ms": 280062,
+      "name": "Don't Worry",
+      "url": "https://open.spotify.com/track/3NVy1z9t4I6qgkY29d0r7C"
+    },
+    {
+      "added_at": "2023-10-05 08:53:30",
+      "album": {
         "name": "That's My Story",
         "url": "https://open.spotify.com/album/7IudsICOiqekfeig8EZ5PE"
       },
@@ -951,22 +951,6 @@
     {
       "added_at": "2023-10-05 08:53:30",
       "album": {
-        "name": "Alligator Records 50 Years Of Genuine Houserockin' Music",
-        "url": "https://open.spotify.com/album/30aecilbP86mA0dVdWcFp0"
-      },
-      "artists": [
-        {
-          "name": "Albert Collins, Robert Cray and Johnny Copeland",
-          "url": "https://open.spotify.com/artist/6yIudV1nOQDnw69bKR0QMG"
-        }
-      ],
-      "duration_ms": 331493,
-      "name": "The Dream - Remastered",
-      "url": "https://open.spotify.com/track/0yBzzceMXi6VMMXGJDqY9A"
-    },
-    {
-      "added_at": "2023-10-05 08:53:30",
-      "album": {
         "name": "Siftin' Thru Ashes",
         "url": "https://open.spotify.com/album/1EEuv8ktFyYOAvg4KdMWF3"
       },
@@ -979,6 +963,22 @@
       "duration_ms": 396320,
       "name": "Lights Are On, But Nobody's Home",
       "url": "https://open.spotify.com/track/3TeB242C2SSbghipVFGWzH"
+    },
+    {
+      "added_at": "2023-10-05 08:53:30",
+      "album": {
+        "name": "Alligator Records 50 Years Of Genuine Houserockin' Music",
+        "url": "https://open.spotify.com/album/30aecilbP86mA0dVdWcFp0"
+      },
+      "artists": [
+        {
+          "name": "Albert Collins, Robert Cray and Johnny Copeland",
+          "url": "https://open.spotify.com/artist/6yIudV1nOQDnw69bKR0QMG"
+        }
+      ],
+      "duration_ms": 331493,
+      "name": "The Dream - Remastered",
+      "url": "https://open.spotify.com/track/0yBzzceMXi6VMMXGJDqY9A"
     },
     {
       "added_at": "2023-10-05 08:53:30",
@@ -1183,6 +1183,22 @@
     {
       "added_at": "2023-10-05 08:53:30",
       "album": {
+        "name": "Big City Blues",
+        "url": "https://open.spotify.com/album/5dBNWLcnW9aRbNN3O00jcl"
+      },
+      "artists": [
+        {
+          "name": "John Hammond",
+          "url": "https://open.spotify.com/artist/471Ycbmda1lAuLMscQvxMR"
+        }
+      ],
+      "duration_ms": 244000,
+      "name": "Midnight Hour Blues",
+      "url": "https://open.spotify.com/track/1f0lsPxcrorjew0Xcb0X9M"
+    },
+    {
+      "added_at": "2023-10-05 08:53:30",
+      "album": {
         "name": "Life Don\u2019t Miss Nobody",
         "url": "https://open.spotify.com/album/6wLNDDWOMPE9leLWmhDw7C"
       },
@@ -1199,22 +1215,6 @@
       "duration_ms": 335826,
       "name": "It Don\u2019t Make Sense (feat. Charlie Musselwhite)",
       "url": "https://open.spotify.com/track/0txqnDmfzvIjD2c7XjuEFx"
-    },
-    {
-      "added_at": "2023-10-05 08:53:30",
-      "album": {
-        "name": "Big City Blues",
-        "url": "https://open.spotify.com/album/5dBNWLcnW9aRbNN3O00jcl"
-      },
-      "artists": [
-        {
-          "name": "John Hammond",
-          "url": "https://open.spotify.com/artist/471Ycbmda1lAuLMscQvxMR"
-        }
-      ],
-      "duration_ms": 244000,
-      "name": "Midnight Hour Blues",
-      "url": "https://open.spotify.com/track/1f0lsPxcrorjew0Xcb0X9M"
     },
     {
       "added_at": "2023-10-05 08:53:30",
@@ -1267,22 +1267,6 @@
     {
       "added_at": "2023-10-05 08:53:30",
       "album": {
-        "name": "Pure",
-        "url": "https://open.spotify.com/album/7dVoh9G6j2gPTr3uLUJnFB"
-      },
-      "artists": [
-        {
-          "name": "Robben Ford",
-          "url": "https://open.spotify.com/artist/7C1CFA2GWGFc51SrvX5Bvy"
-        }
-      ],
-      "duration_ms": 293851,
-      "name": "Blues For Lonnie Johnson",
-      "url": "https://open.spotify.com/track/16GxUULZcIsEiXGd3mOGaF"
-    },
-    {
-      "added_at": "2023-10-05 08:53:30",
-      "album": {
         "name": "Porch Sessions",
         "url": "https://open.spotify.com/album/1EypaqokUNZiaYafQZP5az"
       },
@@ -1295,6 +1279,22 @@
       "duration_ms": 216546,
       "name": "Becky Ann (feat. Mitch Kaxhmar & Ronnie Shellist)",
       "url": "https://open.spotify.com/track/11nL3Z9zd6uZWnVP51SCkC"
+    },
+    {
+      "added_at": "2023-10-05 08:53:30",
+      "album": {
+        "name": "Pure",
+        "url": "https://open.spotify.com/album/7dVoh9G6j2gPTr3uLUJnFB"
+      },
+      "artists": [
+        {
+          "name": "Robben Ford",
+          "url": "https://open.spotify.com/artist/7C1CFA2GWGFc51SrvX5Bvy"
+        }
+      ],
+      "duration_ms": 293851,
+      "name": "Blues For Lonnie Johnson",
+      "url": "https://open.spotify.com/track/16GxUULZcIsEiXGd3mOGaF"
     },
     {
       "added_at": "2023-10-05 08:53:30",

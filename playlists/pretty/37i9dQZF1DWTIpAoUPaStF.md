@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTIpAoUPaStF.md) - [plain]
 
 > Música para ver llover, con buen cobijo y una taza de té entre las manos.
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,288 likes - 50 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,289 likes - 50 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,9 +31,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTIpAoUPaStF.md) - [plain]
 | 21 | [zombie girl](https://open.spotify.com/track/3v2OxIsGWJXWfLuRkB59Q6) | [Adrianne Lenker](https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY) | [songs](https://open.spotify.com/album/2Qt8Z1LB3Fsrf6nhBNsvUJ) | 2:44 |
 | 22 | [Weird Goodbyes \(feat\. Bon Iver\)](https://open.spotify.com/track/2NbS9E0ZZKAMJAppj8P53N) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB), [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [Weird Goodbyes \(feat\. Bon Iver\)](https://open.spotify.com/album/2HQGXK9797uB6Ir8yd7Das) | 5:03 |
 | 23 | [Melody Noir](https://open.spotify.com/track/1e1a7eAlICks9mch3UVsEH) | [Patrick Watson](https://open.spotify.com/artist/7bPs6jf983f0bjRAt1yxDM) | [Wave](https://open.spotify.com/album/4sgJYX3we1RoranerDs8ph) | 3:14 |
-| 24 | [Rocky Trail](https://open.spotify.com/track/2eqvJD0b9ueAWwb7QSBGCW) | [Kings of Convenience](https://open.spotify.com/artist/41AbNVba2ccpmcc9QtOJE7) | [Peace Or Love](https://open.spotify.com/album/1jyVgS78GWmR0EjkFst9YC) | 3:30 |
+| 24 | [Hard to Let Go](https://open.spotify.com/track/3XBQUmjwquZPzTNtOqj7N7) | [Men I Trust](https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT) | [Hard to Let Go](https://open.spotify.com/album/4a3oxtBAgUSzvTjz41L8w5) | 4:07 |
 | 25 | [Gymnopédie](https://open.spotify.com/track/4BSWSxDnXwDwWX0mOpBa4h) | [Tapir!](https://open.spotify.com/artist/7dYpljfleToKnSmBFqjqkd) | [Gymnopédie](https://open.spotify.com/album/1Vw6ZphBEFFsc9vn9hVK7o) | 3:50 |
-| 26 | [Hard to Let Go](https://open.spotify.com/track/3XBQUmjwquZPzTNtOqj7N7) | [Men I Trust](https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT) | [Hard to Let Go](https://open.spotify.com/album/4a3oxtBAgUSzvTjz41L8w5) | 4:07 |
+| 26 | [Rocky Trail](https://open.spotify.com/track/2eqvJD0b9ueAWwb7QSBGCW) | [Kings of Convenience](https://open.spotify.com/artist/41AbNVba2ccpmcc9QtOJE7) | [Peace Or Love](https://open.spotify.com/album/1jyVgS78GWmR0EjkFst9YC) | 3:30 |
 | 27 | [A Concert Six Months From Now](https://open.spotify.com/track/7aDIsG4RJx4THcSEMeM01x) | [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX) | [Optimist](https://open.spotify.com/album/3KChz6qdEH9AfHE6VCBshZ) | 3:25 |
 | 28 | [Hannah Sun](https://open.spotify.com/track/6cpJNjQmY57lHVoVdAiFN8) | [Lomelda](https://open.spotify.com/artist/6zcDLZ62JsbVM1nLrQMzi4) | [Hannah](https://open.spotify.com/album/0xKBSA1TCEAauJkd3s6gfY) | 3:28 |
 | 29 | [' Cello Song](https://open.spotify.com/track/42yexCY4dCftowtAZXuAIj) | [Nick Drake](https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y) | [Five Leaves Left](https://open.spotify.com/album/7IpcJbVxLLEfW0KXB7ndE2) | 4:44 |
@@ -41,9 +41,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTIpAoUPaStF.md) - [plain]
 | 31 | [Wondrous Place](https://open.spotify.com/track/0oXJQ8CyDcQJXASZiCSNGa) | [Drug Store Romeos](https://open.spotify.com/artist/7MMjkDVrjxW9iObeZeeejh) | [Wondrous Place](https://open.spotify.com/album/2otVcTMllFwg2QW6paGMmF) | 2:13 |
 | 32 | [God Turn Me Into a Flower](https://open.spotify.com/track/5gJw9DpcnYywIIVGYSb4Y5) | [Weyes Blood](https://open.spotify.com/artist/3Uqu1mEdkUJxPe7s31n1M9) | [And In The Darkness, Hearts Aglow](https://open.spotify.com/album/1hngVRZt95TrqPqXoJzQ4A) | 6:25 |
 | 33 | [A Mermaid in Lisbon](https://open.spotify.com/track/6A8BvPrNOo5l1j3c80KhAb) | [Patrick Watson](https://open.spotify.com/artist/7bPs6jf983f0bjRAt1yxDM), [Teresa Salgueiro](https://open.spotify.com/artist/49W26EcOwY0UdytNfa3zGH) | [A Mermaid in Lisbon](https://open.spotify.com/album/1NnqLqMQgh9ftyQPtUuKJd) | 3:28 |
-| 34 | [Fever](https://open.spotify.com/track/2CioKOaM8dU2VvjYUCNRGx) | [Kings of Convenience](https://open.spotify.com/artist/41AbNVba2ccpmcc9QtOJE7) | [Peace Or Love](https://open.spotify.com/album/1jyVgS78GWmR0EjkFst9YC) | 3:56 |
-| 35 | [Borrowed Time \(From Rick and Morty: Season 5\)](https://open.spotify.com/track/2TDeIENQbavBr4qfDNIn3l) | [Rick and Morty](https://open.spotify.com/artist/2M0kKcVuBsLFH5d12pW215), [Tennis](https://open.spotify.com/artist/1ybAN3utgdoUL1MUCtH4QM) | [Borrowed Time \(From Rick and Morty: Season 5\)](https://open.spotify.com/album/2G6Yr38x7zIZgLHkq58Ukf) | 3:01 |
-| 36 | [Circle](https://open.spotify.com/track/3ykCBUy37D9J4jHhQid7l1) | [Edie Brickell & New Bohemians](https://open.spotify.com/artist/4awU3JRQXIYoxabdwO92AU) | [Shooting Rubberbands At The Stars](https://open.spotify.com/album/2oZzKVi2mqkQnZOad6DXMw) | 3:10 |
+| 34 | [Borrowed Time \(From Rick and Morty: Season 5\)](https://open.spotify.com/track/2TDeIENQbavBr4qfDNIn3l) | [Rick and Morty](https://open.spotify.com/artist/2M0kKcVuBsLFH5d12pW215), [Tennis](https://open.spotify.com/artist/1ybAN3utgdoUL1MUCtH4QM) | [Borrowed Time \(From Rick and Morty: Season 5\)](https://open.spotify.com/album/2G6Yr38x7zIZgLHkq58Ukf) | 3:01 |
+| 35 | [Circle](https://open.spotify.com/track/3ykCBUy37D9J4jHhQid7l1) | [Edie Brickell & New Bohemians](https://open.spotify.com/artist/4awU3JRQXIYoxabdwO92AU) | [Shooting Rubberbands At The Stars](https://open.spotify.com/album/2oZzKVi2mqkQnZOad6DXMw) | 3:10 |
+| 36 | [Fever](https://open.spotify.com/track/2CioKOaM8dU2VvjYUCNRGx) | [Kings of Convenience](https://open.spotify.com/artist/41AbNVba2ccpmcc9QtOJE7) | [Peace Or Love](https://open.spotify.com/album/1jyVgS78GWmR0EjkFst9YC) | 3:56 |
 | 37 | [Once Twice Melody](https://open.spotify.com/track/057rZ21MDp8Ld0TgQndNcv) | [Beach House](https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY) | [Once Twice Melody](https://open.spotify.com/album/79NySyjxJ8xric31mXKMAo) | 4:44 |
 | 38 | [A Dangerous Thing](https://open.spotify.com/track/0PDlmmYkuQCUAFhMXvtlsU) | [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N) | [The Gods We Can Touch](https://open.spotify.com/album/5z1xjvymitc0DJETtvVmaX) | 3:35 |
 | 39 | [Whispering House](https://open.spotify.com/track/3Rp6QRg26D55gGRFlfHltm) | [Hania Rani](https://open.spotify.com/artist/14YzutUdMwS9yTnI0IFBaD), [Ólafur Arnalds](https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia) | [Ghosts](https://open.spotify.com/album/2nxnCjbaiAEJ4yBDMnQhJ8) | 4:52 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTIpAoUPaStF.md) - [plain]
 | 49 | [Doesn't Matter](https://open.spotify.com/track/0NVxFntUSEYwPn27lX2J7r) | [BENEE](https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4) | [Doesn't Matter](https://open.spotify.com/album/25JTMiXU4RhSWbcRDr5uLV) | 3:23 |
 | 50 | [Nothing Else Matters](https://open.spotify.com/track/1guCON9841cQwAlbNplLsY) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Nothing Else Matters](https://open.spotify.com/album/5cGlNs3L4C2mzMQiAfox41) | 4:34 |
 
-Snapshot ID: `MCwyNGQ1ZjM1MTk5NDgwZjg4MDgyMDU1OGNmODVlYTA3MGZlN2QyZmZl`
+Snapshot ID: `MCxmYWMwZTBhNGRkMjhjMDgwN2Q0NTRhNzdiMGNkN2UzZGQ2YWNkNTgx`

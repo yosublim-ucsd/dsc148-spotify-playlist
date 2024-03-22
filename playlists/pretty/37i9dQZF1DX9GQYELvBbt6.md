@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9GQYELvBbt6.md) - [plain]
 
 > 陰キャでもいい。集団になじめなくてもいい。ひとりで過ごす時間にも、音楽はそっと寄り添ってくれる。 Illustration by <a href="https://twitter.com/hoshieri7">北村英理</a>\(Eri Kitamura\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,985 likes - 50 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,998 likes - 50 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9GQYELvBbt6.md) - [plain]
 | 28 | [アルジャーノン](https://open.spotify.com/track/0L1E2JmrZk6QU9261PtJWQ) | [ヨルシカ](https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik) | [アルジャーノン](https://open.spotify.com/album/38aExI5zPQwJBbcLX200A4) | 4:14 |
 | 29 | [燈](https://open.spotify.com/track/5blG2vXcJC2n9l3rb5sCOr) | [Soushi Sakiyama](https://open.spotify.com/artist/1IEretLePzJKj8R6KCEaBA) | [燈](https://open.spotify.com/album/3wM9hHXOVaqczNQNYRxylz) | 3:58 |
 | 30 | [秘密の](https://open.spotify.com/track/21HHx5khXbKGckVI2gEH6h) | [Aki](https://open.spotify.com/artist/7pklqikA3qMThlqyH4zghL) | [秘密の](https://open.spotify.com/album/2PVW5hX4UvLXzhqOMCB8Wk) | 4:28 |
-| 31 | [萌](https://open.spotify.com/track/0mKWFi26UzF83bie9CIrDm) | [離婚伝説](https://open.spotify.com/artist/0fLlzy1mzxu6XItsSY5KN2) | [萌](https://open.spotify.com/album/6DnW96P5uz81LMRm3RnSEI) | 4:29 |
+| 31 | [萌](https://open.spotify.com/track/7fiWo0v1vbyPC1l7o7Ve4m) | [離婚伝説](https://open.spotify.com/artist/0fLlzy1mzxu6XItsSY5KN2) | [離婚伝説](https://open.spotify.com/album/6EUUyYF65ypQvxmhjk17zb) | 4:28 |
 | 32 | [Dramaturgy](https://open.spotify.com/track/72uSoNIf7eScfGZFQjNHrR) | [Eve](https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf) | [Bunka](https://open.spotify.com/album/2rrihVXNDB7FSe6EFs2inI) | 3:58 |
 | 33 | [サクラキミワタシ](https://open.spotify.com/track/4bM9itWEyMkLUSd2VeROAd) | [tuki.](https://open.spotify.com/artist/1Y5vJqABeI6QI6R95EDV6o) | [サクラキミワタシ](https://open.spotify.com/album/4gOlBkqSeyF4uZPey6aZAd) | 3:22 |
 | 34 | [Soranji](https://open.spotify.com/track/6O4twzzHHIM6mmTqPpJNYE) | [Mrs\. GREEN APPLE](https://open.spotify.com/artist/4QvgGvpgzgyUOo8Yp8LDm9) | [Soranji](https://open.spotify.com/album/62yXiiuhWiIwgurRnXC16V) | 5:41 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9GQYELvBbt6.md) - [plain]
 | 49 | [思想犯](https://open.spotify.com/track/5o3LSzu8xCMDpbAwm4dZ46) | [ヨルシカ](https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik) | [盗作](https://open.spotify.com/album/6pZ0SrZCP8Bm28L6JhMtBy) | 4:11 |
 | 50 | [孤独の音が聞こえる](https://open.spotify.com/track/58b3yoz6divbjfjlroSfOz) | [Misako Odani](https://open.spotify.com/artist/1qyvDpymTYPpF5iguflCMT) | [yeh](https://open.spotify.com/album/1tvg6oby6wPL2m9oJsbj4I) | 4:46 |
 
-Snapshot ID: `MCxkOTc5MjIxMTYzYTZhNmRhMjU3NmI1ZjcxYWM3ZmRmNzNjZTFkNGQ4`
+Snapshot ID: `MCwzMDM2YjAyM2ZiODMwNDE1ZjdlZWIxYTY4NGE3ZjhiNmQ3MjVmZDhj`

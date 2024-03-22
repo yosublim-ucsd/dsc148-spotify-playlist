@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb02clgTq0N7.md) - [plain]
 
 > Y que retumbe la bandona con puros corridos de 24k\. La Arrolladora Banda El Limón en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 131,284 likes - 75 songs - 3 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 131,356 likes - 75 songs - 3 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,18 +42,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb02clgTq0N7.md) - [plain]
 | 32 | [141](https://open.spotify.com/track/3IFYbBUCjCelWt5asaYasY) | [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [141](https://open.spotify.com/album/7gPxrPpfY3nTUElL9sRA2z) | 2:55 |
 | 33 | [Un Tabaco \(En Vivo\)](https://open.spotify.com/track/05NN4cZFCLQqUc9RcTRq4W) | [Juanpa Salazar](https://open.spotify.com/artist/6r92NGrlnmNvFJA9Kl0PAx) | [Un Tabaco \(En Vivo\)](https://open.spotify.com/album/5ku3Uwsk2Pe2lX41sJGn1p) | 3:27 |
 | 34 | [Pura Sombreriza](https://open.spotify.com/track/4z784C8Uuf8z41Bp5caxBp) | [Tomas Ballardo](https://open.spotify.com/artist/3Y4UmopFbGuRYdtGEa5jDZ), [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [Pura Sombreriza](https://open.spotify.com/album/30F6CxlYHbKhC8WZtrUNKm) | 3:59 |
-| 35 | [Cuando los Necesité \- Banda](https://open.spotify.com/track/6Qx0b9ArGdO5LCnG9UBdkO) | [Adriel Favela](https://open.spotify.com/artist/0PrhwIWbqYFYyY2ZrkIWgI) | [Señalado por Costumbre](https://open.spotify.com/album/0zwj2mx5EeRPkdU9r9yeXs) | 3:02 |
-| 36 | [Chalino](https://open.spotify.com/track/6KrKCKqR8fYEMw2F4XNbE8) | [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [Chalino](https://open.spotify.com/album/266gbjmcYrta8TVjVInvHO) | 3:34 |
+| 35 | [Chalino](https://open.spotify.com/track/6KrKCKqR8fYEMw2F4XNbE8) | [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [Chalino](https://open.spotify.com/album/266gbjmcYrta8TVjVInvHO) | 3:34 |
+| 36 | [Cuando los Necesité \- Banda](https://open.spotify.com/track/6Qx0b9ArGdO5LCnG9UBdkO) | [Adriel Favela](https://open.spotify.com/artist/0PrhwIWbqYFYyY2ZrkIWgI) | [Señalado por Costumbre](https://open.spotify.com/album/0zwj2mx5EeRPkdU9r9yeXs) | 3:02 |
 | 37 | [Quiero Charlar Con La Muerte](https://open.spotify.com/track/7rkHACbUWdirRZ3lrHCxET) | [Valentín Elizalde](https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA) | [Soy Así](https://open.spotify.com/album/4SrvbBpwiAJf09kK7EvQsk) | 3:04 |
 | 38 | [La Cheyene del Año](https://open.spotify.com/track/1k1kg1xFTxodz5bhh1WIG3) | [Banda El Recodo](https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC) | [De Mexico para el Mundo](https://open.spotify.com/album/32TIJn1x8SCsHVCswGnQZQ) | 3:00 |
 | 39 | [Lupe Campos](https://open.spotify.com/track/4td9uuqgQFAzJ3qoJS6Ozx) | [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv), [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [El Circo](https://open.spotify.com/album/04lyNlxXhRxoZPC9RLq5Oq) | 3:36 |
 | 40 | [Ruleteando el Mezcal](https://open.spotify.com/track/38FE7ifcC6GF1IKUJkEVyh) | [Kanales](https://open.spotify.com/artist/6tV9ApzzUMjXsFNHpgZmvA) | [Caricias Vendidas](https://open.spotify.com/album/4UsRx3AQyi7zl0la69F0K7) | 3:11 |
 | 41 | [Está De Parranda El Jefe \- Corrido](https://open.spotify.com/track/6vjrC6SFwlhMDcXp19IBIL) | [Banda Sinaloense MS de Sergio Lizárraga](https://open.spotify.com/artist/6Y6rrQjzcZhaM4RXusI8UP) | [Corridos Famosos Al Estilo De...](https://open.spotify.com/album/5ZDjSIPKk4NCxbepk6Qvcm) | 2:45 |
 | 42 | [En la Sierra y la Ciudad \(La China\)](https://open.spotify.com/track/4d87IagHd2tUKqPup408jJ) | [La Adictiva](https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM) | [Disfruté Engañarte](https://open.spotify.com/album/2GRDNB7h1xv11f6caN3rBr) | 3:24 |
-| 43 | [Bayo 17](https://open.spotify.com/track/7Kf9dL06sJKITTA9tYj0hM) | [Adriel Favela](https://open.spotify.com/artist/0PrhwIWbqYFYyY2ZrkIWgI), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [Cosas Del Diablo](https://open.spotify.com/album/0S58LvMQHbKuTbEcPcnrYo) | 2:41 |
+| 43 | [Barquillero](https://open.spotify.com/track/7EYCioIJy7PVVryIHjlGRr) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [Barquillero](https://open.spotify.com/album/6FrtpkD2DmlpoFh5FAtniX) | 3:20 |
 | 44 | [El Selectivo](https://open.spotify.com/track/3XSEYfxNxAkTgmPSQeJgnA) | [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv) | [El Selectivo](https://open.spotify.com/album/2ZNSAHSv7PttcfGTfooL7s) | 3:07 |
 | 45 | [Mi Vicio Más Grande](https://open.spotify.com/track/3YrTZUat5cgeVhrxEZvG1d) | [Banda El Recodo](https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC) | [Mi Vicio Más Grande](https://open.spotify.com/album/4Tl5QOkNgX6INDWg6mMfZB) | 2:17 |
-| 46 | [Barquillero](https://open.spotify.com/track/7EYCioIJy7PVVryIHjlGRr) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [Barquillero](https://open.spotify.com/album/6FrtpkD2DmlpoFh5FAtniX) | 3:20 |
+| 46 | [Bayo 17](https://open.spotify.com/track/7Kf9dL06sJKITTA9tYj0hM) | [Adriel Favela](https://open.spotify.com/artist/0PrhwIWbqYFYyY2ZrkIWgI), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [Cosas Del Diablo](https://open.spotify.com/album/0S58LvMQHbKuTbEcPcnrYo) | 2:41 |
 | 47 | [La Despedida](https://open.spotify.com/track/65KWKx5WQcjKTJ2gcki1i3) | [Aldo Trujillo](https://open.spotify.com/artist/0l6WgSoqo4UqeuXFKnTQRu), [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [La Despedida](https://open.spotify.com/album/2FzJZvtg6raSxzQw21HQZ5) | 2:59 |
 | 48 | [En Preparación](https://open.spotify.com/track/56OruUjNoZ1JIeit65nUFP) | [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [En Preparación](https://open.spotify.com/album/6SkVZ9EJpL1pQkf79qFnLF) | 2:56 |
 | 49 | [El Tarasco](https://open.spotify.com/track/7qkl7zanDubz7DvzLFRr8Z) | [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz) | [Corridos Arrolladores Vol\. 1](https://open.spotify.com/album/7Fiu13ssHKL6Ax11S3z4ap) | 3:09 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb02clgTq0N7.md) - [plain]
 | 74 | [Entre Pancho y Pancho 2.0](https://open.spotify.com/track/2p35OtN25aGq8Brpp3GyiV) | [Arley Perez](https://open.spotify.com/artist/63zgw9LU9aqnuHnvHr3ZUZ) | [Entre Pancho y Pancho 2.0](https://open.spotify.com/album/59JMwQSNIq5w6h7PaHiYYv) | 2:53 |
 | 75 | [El Katch](https://open.spotify.com/track/1CRtFt2ucv4fISV8HIMHPv) | [Saul El Jaguar Alarcón](https://open.spotify.com/artist/4zDxqX7DmkPcNfXkrPuYro), [Ulises Quintero](https://open.spotify.com/artist/3bMp5goOxqKUKLvYfP6Qvu) | [Lo Mejor De](https://open.spotify.com/album/1VMDxbzjwAjfQIdK5tgeTJ) | 2:26 |
 
-Snapshot ID: `MCw0ODM3YWQ2NWViMGMwNWVhOWEwNTk5ZmIxZWJkZWMyOTM3YTI2OWE0`
+Snapshot ID: `MCxhYTQ1MjI3MDJhNzdiZjBkODcyNmZjODRhZDU0NzAxNGY4MzRiNDJl`

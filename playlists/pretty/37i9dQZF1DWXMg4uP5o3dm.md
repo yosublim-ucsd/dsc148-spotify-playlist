@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXMg4uP5o3dm.md) - [plain]
 
 > alternative meets electronic Cover: ZHU & UPSAHL
 
-[Spotify](https://open.spotify.com/user/spotify) - 477,045 likes - 100 songs - 5 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 477,100 likes - 100 songs - 5 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,9 +52,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXMg4uP5o3dm.md) - [plain]
 | 42 | [¿ \(feat\. Halsey\)](https://open.spotify.com/track/6shny2UVkpaLc7jEKEoePa) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF), [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [Music to listen to\~dance to\~blaze to\~pray to\~feed to\~sleep to\~talk to\~grind to\~trip to\~breathe to\~help to\~hurt to\~scroll to\~roll to\~love to\~hate to\~learn Too\~plot to\~play to\~be to\~feel to\~breed to\~sweat to\~dream to\~hide to\~live to\~die to\~GO TO](https://open.spotify.com/album/6yC6aLzX5knhWpKDidwxft) | 5:13 |
 | 43 | [Weak In Your Light](https://open.spotify.com/track/4odb2UIgc0u22MNV7p4iQq) | [Nation of Language](https://open.spotify.com/artist/5JWBow4ywgKNQ5HBxY8hcz) | [Strange Disciple](https://open.spotify.com/album/1VDxaxECCJJh4of5htFnmK) | 4:15 |
 | 44 | [Back from the Dead](https://open.spotify.com/track/19bWcmH61AXuZqRjmLyBcZ) | [Besomorph](https://open.spotify.com/artist/619CzMJPPWrCeZwx5qw6ko), [AViVA](https://open.spotify.com/artist/50tDsT4wwq8FCMJNkn1D67), [Neoni](https://open.spotify.com/artist/38wxcfNEqMwuPniHvplin5) | [Back from the Dead](https://open.spotify.com/album/0CjoPYfnPVGQ3KCen5uuku) | 2:59 |
-| 45 | [Monster](https://open.spotify.com/track/6RwiFA2a6b8xICdSi4wUqk) | [PVRIS](https://open.spotify.com/artist/6oFs3qk4VepIVFdoD4jmsy) | [Monster](https://open.spotify.com/album/6amlnVgJTGqQNnAwP7fOfL) | 2:58 |
-| 46 | [Deep End](https://open.spotify.com/track/25xNO6EC6RPmBpBZOblOOW) | [The Score](https://open.spotify.com/artist/2q3GG88dVwuQPF4FmySr9I) | [Deep End](https://open.spotify.com/album/15GDnzPjBsyWwHvQDxUtD1) | 2:44 |
-| 47 | [GAY 4 ME \(feat\. Lauren Sanderson\)](https://open.spotify.com/track/4Fc69fSv8xattALHt7aaC3) | [G Flip](https://open.spotify.com/artist/4SdIXLzfabqU61iK7SnKAU), [Lauren Sanderson](https://open.spotify.com/artist/06vRrrjT3DBRkhBlXoBdYj) | [GAY 4 ME \(feat\. Lauren Sanderson\)](https://open.spotify.com/album/0WcKjG4bTuQImNakhGTaSM) | 2:54 |
+| 45 | [GAY 4 ME \(feat\. Lauren Sanderson\)](https://open.spotify.com/track/4Fc69fSv8xattALHt7aaC3) | [G Flip](https://open.spotify.com/artist/4SdIXLzfabqU61iK7SnKAU), [Lauren Sanderson](https://open.spotify.com/artist/06vRrrjT3DBRkhBlXoBdYj) | [GAY 4 ME \(feat\. Lauren Sanderson\)](https://open.spotify.com/album/0WcKjG4bTuQImNakhGTaSM) | 2:54 |
+| 46 | [Monster](https://open.spotify.com/track/6RwiFA2a6b8xICdSi4wUqk) | [PVRIS](https://open.spotify.com/artist/6oFs3qk4VepIVFdoD4jmsy) | [Monster](https://open.spotify.com/album/6amlnVgJTGqQNnAwP7fOfL) | 2:58 |
+| 47 | [Deep End](https://open.spotify.com/track/25xNO6EC6RPmBpBZOblOOW) | [The Score](https://open.spotify.com/artist/2q3GG88dVwuQPF4FmySr9I) | [Deep End](https://open.spotify.com/album/15GDnzPjBsyWwHvQDxUtD1) | 2:44 |
 | 48 | [KULT \(feat\. Jasiah\)](https://open.spotify.com/track/22ya9ZSp7FxhcgFLALm0eS) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [grandson](https://open.spotify.com/artist/4ZgQDCtRqZlhLswVS6MHN4), [Jasiah](https://open.spotify.com/artist/7502fDxg339jvGV08Jd4R0) | [KULT \(feat\. Jasiah\)](https://open.spotify.com/album/0OxOw42tYvwBMV2MVCWLKl) | 2:57 |
 | 49 | [BOO HOO](https://open.spotify.com/track/72JlIpEVjdNwFtffVJP2kK) | [Neoni](https://open.spotify.com/artist/38wxcfNEqMwuPniHvplin5), [RIELL](https://open.spotify.com/artist/0xD6n0wj7aqV5g5LcRNBUd) | [BOO HOO](https://open.spotify.com/album/340DkD2ALkoIfq553m5lgl) | 2:50 |
 | 50 | [Animals](https://open.spotify.com/track/6ahe2frEbhctgsB30lHDwp) | [Call Me Karizma](https://open.spotify.com/artist/5fENlrINIVP0gJOtKxvORt) | [Animals](https://open.spotify.com/album/3UhL83nAIrGB188dxKzlsv) | 2:11 |
@@ -94,8 +94,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXMg4uP5o3dm.md) - [plain]
 | 84 | [Dead](https://open.spotify.com/track/6O2QJqa6hgF0uzj9mcDq4p) | [Baby Jane](https://open.spotify.com/artist/3scHMUcB85BflinC8FclbI) | [Dead](https://open.spotify.com/album/3hKxNaxs2oVPewk04LDuBI) | 2:37 |
 | 85 | [When You & Me Dance](https://open.spotify.com/track/0rHp9fr5I0LBaK2szxKgms) | [Grabbitz](https://open.spotify.com/artist/4fv1OFJywZ7DHCz3mVQQ45) | [When You & Me Dance](https://open.spotify.com/album/5nlEUq9BStiziYyP1z5bkd) | 3:41 |
 | 86 | [Regret \- Remix](https://open.spotify.com/track/3ga6vzCNgs6nPlbDy3xQlF) | [Covex](https://open.spotify.com/artist/2BlB5MW4WdyyglpczlQ6Mm), [Grabbitz](https://open.spotify.com/artist/4fv1OFJywZ7DHCz3mVQQ45) | [A Change of Perspective \(Deluxe\)](https://open.spotify.com/album/0MjTA2onvTA3XzdyU64KpD) | 3:29 |
-| 87 | [god damn!](https://open.spotify.com/track/40e2TPl5w4fmHJkIgwAM3U) | [viisi](https://open.spotify.com/artist/50zXB0O7zGiSb4ZcF1GP7Z) | [god damn!](https://open.spotify.com/album/1Txk1kbTVJZqvdU2ZsJwpv) | 1:56 |
-| 88 | [Bang](https://open.spotify.com/track/5GbK9am1svakX356ltRPcm) | [Sir Sly](https://open.spotify.com/artist/3DFoVPonoAAt4EZ1FEI8ue) | [Bang](https://open.spotify.com/album/5fAJP8107G7ymzxJwmqkUy) | 2:11 |
+| 87 | [Bang](https://open.spotify.com/track/5GbK9am1svakX356ltRPcm) | [Sir Sly](https://open.spotify.com/artist/3DFoVPonoAAt4EZ1FEI8ue) | [Bang](https://open.spotify.com/album/5fAJP8107G7ymzxJwmqkUy) | 2:11 |
+| 88 | [god damn!](https://open.spotify.com/track/40e2TPl5w4fmHJkIgwAM3U) | [viisi](https://open.spotify.com/artist/50zXB0O7zGiSb4ZcF1GP7Z) | [god damn!](https://open.spotify.com/album/1Txk1kbTVJZqvdU2ZsJwpv) | 1:56 |
 | 89 | [Freefall \(feat\. Oliver Tree\)](https://open.spotify.com/track/5VsZwt7AyePLXFrlHhMvoI) | [Whethan](https://open.spotify.com/artist/0vqJkZ0RpLZixt3lTmD8vP), [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe) | [Freefall \(feat\. Oliver Tree\)](https://open.spotify.com/album/2IBBJbVcT3jBmbkf1HChaU) | 2:35 |
 | 90 | [Mr Regular](https://open.spotify.com/track/0DBXMMwNYbo0O8wCzpVXkC) | [What So Not](https://open.spotify.com/artist/4AA8eXtzqh5ykxtafLaPOi), [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe), [Killer Mike](https://open.spotify.com/artist/2N4EYkIlG1kv25g6Wv8LGI) | [Anomaly](https://open.spotify.com/album/7J8SSnGauta2Uy7HKhEDMA) | 2:54 |
 | 91 | [HeatDeath](https://open.spotify.com/track/5plb2kCKv1w1VJIL6NBnPR) | [Suave Punk](https://open.spotify.com/artist/7mHAXsMI3hAj3dUZMR4fnt) | [HeatDeath](https://open.spotify.com/album/0i5IzMJEOcCr8P6dUb9W2n) | 5:17 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXMg4uP5o3dm.md) - [plain]
 | 99 | [New Friends](https://open.spotify.com/track/6bHFFcOvpc1pKrT4YL1K83) | [ENVYYOU](https://open.spotify.com/artist/3V8sGWr3KUanz1VJyaCngm) | [New Friends](https://open.spotify.com/album/3CqLMnA4ivtuBuGPV4h4Ky) | 2:56 |
 | 100 | [Superhuman \(with K.Flay\)](https://open.spotify.com/track/64moA9zwEfhBADmxLZvVhH) | [Party Favor](https://open.spotify.com/artist/7yPPzu5UdAK7yagQqjEZQm), [K.Flay](https://open.spotify.com/artist/0pCNk4D3E2xtszsm6hMsWr) | [RESET](https://open.spotify.com/album/4rpqjEDrwQlWPrzkW47bJK) | 4:00 |
 
-Snapshot ID: `MCwzMjNjYzU3NDI5OTEyN2U2MGZjNDc4ODkwNGNiYThmYjlkYTY4M2Nl`
+Snapshot ID: `MCxlOTYwNGExMWQ0ZWFhMDUzNjBlZjg3MTYxOWRjNzJmOGNiNmY0MTkw`

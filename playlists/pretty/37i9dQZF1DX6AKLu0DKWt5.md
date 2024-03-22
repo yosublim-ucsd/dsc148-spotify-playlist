@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6AKLu0DKWt5.md) - [plain]
 
 > Music from the winners and nominees from the 81st Golden Globe Awards.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,290 likes - 33 songs - 1 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,291 likes - 33 songs - 1 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6AKLu0DKWt5.md) - [plain]
 | 18 | [Bella](https://open.spotify.com/track/7dLWK0Gaa5zPswYx1TDWZl) | [Jerskin Fendrix](https://open.spotify.com/artist/42ktBPs67SvwvkWZDtn6TW) | [Poor Things \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3gz3XOFJ5w99GDode87xbO) | 1:43 |
 | 19 | [VARIATION AUTOUR D'UN PRÉLUDE \- Anatomie d'une chute](https://open.spotify.com/track/56aWLDEFQ8M8N5lYELOlCh) | [Benoît Daniel](https://open.spotify.com/artist/1Dx91qbEKrT1WqwsVCROCS) | [ANATOMIE D'UNE CHUTE \(Musique Originale\)](https://open.spotify.com/album/1NB0OhXSZpxJDKZJq5tw8o) | 4:32 |
 | 20 | [Osage Oil Boom](https://open.spotify.com/track/5CT03vQttU9NE2jEwT3rEY) | [Robbie Robertson](https://open.spotify.com/artist/5R6GD31ZP8YPGIlt73Madf) | [Killers of the Flower Moon \(Soundtrack from the Apple Original Film\)](https://open.spotify.com/album/43MjCtL4DwTxc1DhXK9Kpp) | 2:51 |
-| 21 | [Dead Reckoning Opening Titles](https://open.spotify.com/track/5UwiTSY5hB74NxIaiWBRHx) | [Lorne Balfe](https://open.spotify.com/artist/6dU7gPN2BhEPfO5QHLt7es) | [Mission: Impossible \- Dead Reckoning Part One \(Music from the Motion Picture\)](https://open.spotify.com/album/4t1wHeUBtPD2nsIgVTGSOg) | 1:12 |
-| 22 | [Frightening Fishes \- Main Title Theme from "Shrinking"](https://open.spotify.com/track/51RsJySU0hYlm2AGDsnmWZ) | [Benjamin Gibbard](https://open.spotify.com/artist/4CvZd3qzC2HbLxAoAEBRIL), [Tom Howe](https://open.spotify.com/artist/5784JqAJvI24V2Kr3xhoX6) | [Shrinking: Season 1 \(Apple TV+ Original Series Soundtrack\)](https://open.spotify.com/album/1IuPUZAYcDdrcDH4kItWjq) | 2:27 |
+| 21 | [Frightening Fishes \- Main Title Theme from "Shrinking"](https://open.spotify.com/track/51RsJySU0hYlm2AGDsnmWZ) | [Benjamin Gibbard](https://open.spotify.com/artist/4CvZd3qzC2HbLxAoAEBRIL), [Tom Howe](https://open.spotify.com/artist/5784JqAJvI24V2Kr3xhoX6) | [Shrinking: Season 1 \(Apple TV+ Original Series Soundtrack\)](https://open.spotify.com/album/1IuPUZAYcDdrcDH4kItWjq) | 2:27 |
+| 22 | [Dead Reckoning Opening Titles](https://open.spotify.com/track/5UwiTSY5hB74NxIaiWBRHx) | [Lorne Balfe](https://open.spotify.com/artist/6dU7gPN2BhEPfO5QHLt7es) | [Mission: Impossible \- Dead Reckoning Part One \(Music from the Motion Picture\)](https://open.spotify.com/album/4t1wHeUBtPD2nsIgVTGSOg) | 1:12 |
 | 23 | [Strange Game](https://open.spotify.com/track/05TrrXoqoI17WhDCP2mX19) | [Mick Jagger](https://open.spotify.com/artist/3d2pb1dHTm8b61zAGVUVvO) | [Slow Horses: Season 1 \(ATV+ Original Series Soundtrack\)](https://open.spotify.com/album/2AjxTLIWa6qnYhylH9xCZV) | 3:32 |
 | 24 | [Toxic \(feat\. Lisa Hannigan\)](https://open.spotify.com/track/7i32pPA4dxzFn0IDb9VvrY) | [Jeff Russo](https://open.spotify.com/artist/5L9DgM2FSb2Ny1vfxfyYU8), [Lisa Hannigan](https://open.spotify.com/artist/0z7Yuv7DuDQ5SaVn4VSlLt) | [Fargo Year 5 \(Soundtrack from the MGM/ FXP Series\)](https://open.spotify.com/album/2XIs8DMM10mhsQDR8fOtVP) | 4:42 |
 | 25 | [Quiet Eyes](https://open.spotify.com/track/2r1pq34i8ddPXyxvfqDBCG) | [Sharon Van Etten](https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe) | [Past Lives \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2JwAMKpwk4IolH2KhF6nPn) | 3:37 |
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6AKLu0DKWt5.md) - [plain]
 | 28 | [Confirming Hal's Story](https://open.spotify.com/track/1HDs5K0y7hXzoVs6Gm8Udg) | [Nathan Barr](https://open.spotify.com/artist/0e0qyGBSGh9YwvpQFbkRBC), [Dimitri Smith](https://open.spotify.com/artist/6ri2hXvqVTXbfCWzeIxAnP) | [The Diplomat \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/54ihllvNENcMnfXCpxV9BB) | 1:09 |
 | 29 | [Drive](https://open.spotify.com/track/0lCtncsVqIg9uqaS2UKcKB) | [Steven Yeun as Danny from BEEF](https://open.spotify.com/artist/0ZfV3vpOQplK2GTGGIvmSq) | [BEEF: The Bonus Tracks](https://open.spotify.com/album/6QW1I8DET9EdgK6JSL5rSP) | 4:01 |
 | 30 | [My Pafology \- From "American Fiction" Soundtrack](https://open.spotify.com/track/0m9PfZjzAtpjE6kvNMMZQe) | [Laura Karpman](https://open.spotify.com/artist/13eA4oLnDowghtVUqwSZSD) | [American Fiction \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2pRlRr8tWybfbSKcrMPMF0) | 3:16 |
-| 31 | [I Love You Guys](https://open.spotify.com/track/78ij1ARRZ7DlnikdAxqtVu) | [John Murphy](https://open.spotify.com/artist/4UGoqrmNHDJ166XD6DtZni) | [Guardians of the Galaxy Vol\. 3 \(Original Score\)](https://open.spotify.com/album/4WrDwO2xf0pxNmrQpb7e5q) | 2:15 |
-| 32 | [Science](https://open.spotify.com/track/7DE8YqQ2MdnLHjhtR3MnLu) | [Carlos Rafael Rivera](https://open.spotify.com/artist/3lh6JVXJU1mcXuI7ctT4gh) | [Lessons In Chemistry: Season 1 \(Apple Original Series Soundtrack\)](https://open.spotify.com/album/23xn7eZgOf41WYCfKj2LjP) | 1:00 |
+| 31 | [Science](https://open.spotify.com/track/7DE8YqQ2MdnLHjhtR3MnLu) | [Carlos Rafael Rivera](https://open.spotify.com/artist/3lh6JVXJU1mcXuI7ctT4gh) | [Lessons In Chemistry: Season 1 \(Apple Original Series Soundtrack\)](https://open.spotify.com/album/23xn7eZgOf41WYCfKj2LjP) | 1:00 |
+| 32 | [I Love You Guys](https://open.spotify.com/track/78ij1ARRZ7DlnikdAxqtVu) | [John Murphy](https://open.spotify.com/artist/4UGoqrmNHDJ166XD6DtZni) | [Guardians of the Galaxy Vol\. 3 \(Original Score\)](https://open.spotify.com/album/4WrDwO2xf0pxNmrQpb7e5q) | 2:15 |
 | 33 | [I Wish This Was Real](https://open.spotify.com/track/7EuyxDSG25VWxaQg0DtOIV) | [Owen Pallett](https://open.spotify.com/artist/77Rj6PHmQJFb8nbSH62y68) | [Dream Scenario \(Original Motion Picture Score\)](https://open.spotify.com/album/5NDIVLocg7KcHXRqMMHpR8) | 1:49 |
 
-Snapshot ID: `MCwwNmRmYzMyOTY2NDQwNGRkNWQzOWFjODJlYmIzNGE2Y2Q2M2JjZDE3`
+Snapshot ID: `MCwxYjBkNmZiOWQ5YjhiMjJlNWYwZjQ3OTJhM2Q5MGU1M2I2ODI0NDYw`

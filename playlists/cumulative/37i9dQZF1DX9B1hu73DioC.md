@@ -4,7 +4,7 @@
 
 > Vibey indie tracks for just hanging out.
 
-751 songs - 1 day 21 hr 1 min
+752 songs - 1 day 21 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -95,6 +95,7 @@
 | [besides you](https://open.spotify.com/track/6CFo85nLUfIXgfpspbWICv) | [Golden Vessel](https://open.spotify.com/artist/6bJCrLZcvsBMzve04BmgwS) | [colt](https://open.spotify.com/album/2uMibL4xVi26xy1f7jFFXa) | 3:29 | 2022-06-01 | 2022-07-29 |
 | [Best to You](https://open.spotify.com/track/1p2TWJxUlHE5JR0sE6E1d7) | [Blood Orange](https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR) | [Freetown Sound](https://open.spotify.com/album/3Z2XUjgVj5ZkCGpU7b2qtY) | 3:45 | 2020-10-16 | 2023-08-12 |
 | [Better](https://open.spotify.com/track/32T61xmNSIXhGkEszzs0t8) | [SG Lewis](https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG), [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Better \(SG Lewis x Clairo\)](https://open.spotify.com/album/2lZmVu1fNVLtqPyhRiDdsd) | 3:13 | 2020-10-16 | 2022-04-21 |
+| [Better in the Dark](https://open.spotify.com/track/3SeDS5sSoWnwAZvVgkdKzf) | [Jordana](https://open.spotify.com/artist/5Bw9kFNhy019e4IBCJZlzw), [TV Girl](https://open.spotify.com/artist/0Y6dVaC9DZtPNH4591M42W) | [Summer's Over](https://open.spotify.com/album/60EzsIzS77S9MWHT0Tm37s) | 2:35 | 2024-03-21 |  |
 | [Better When We're Close](https://open.spotify.com/track/3ZGIZOg6juy0TkF1Gy8Gzg) | [Poolside](https://open.spotify.com/artist/5szdY7KaSi7epwyffrbV8c), [Brijean](https://open.spotify.com/artist/2TRNyrjoKJnqSc9G8jCZfb) | [Better When We're Close](https://open.spotify.com/album/3QAQLlcR4CVx9ySkuNNnah) | 3:33 | 2022-03-07 | 2022-07-25 |
 | [Billie Toppy](https://open.spotify.com/track/5jyj2XKWILHQxDoz59ddCT) | [Men I Trust](https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT) | [Billie Toppy](https://open.spotify.com/album/0FpoXXhnwamDJbLSWLRgvN) | 3:15 | 2023-03-10 | 2023-09-16 |
 | [Birthday](https://open.spotify.com/track/3IxeYgwfz5pmzuroWAzOTE) | [Gia Margaret](https://open.spotify.com/artist/7fnMav7xXJwwjbyWbSjF4C) | [Birthday](https://open.spotify.com/album/43OhxC7N3rmDAzt3aIvUSM) | 3:47 | 2020-10-05\* | 2020-10-06 |
@@ -160,7 +161,7 @@
 | [Cool Blue](https://open.spotify.com/track/0Lbe98RKWwBbu1sipPSa4n) | [The Japanese House](https://open.spotify.com/artist/3IunaFjvNKj98JW89JYv9u) | [Clean](https://open.spotify.com/album/4T1o6BUMpITeK7DfE5qZqp) | 3:51 | 2020-12-08 | 2022-04-20 |
 | [Copilot](https://open.spotify.com/track/1sK4hNmwCZNW4w4Z2NAnHh) | [Tōth](https://open.spotify.com/artist/02nqs3YdfX7Th3gYTYFrqc) | [Copilot](https://open.spotify.com/album/1U3WRjASyoLl8j8ccTnzFZ) | 4:03 | 2020-10-05\* | 2022-04-21 |
 | [Cosmos](https://open.spotify.com/track/361ZsvPDt9tqgNUPCG3nYl) | [Zinadelphia](https://open.spotify.com/artist/2bTnGGWvuVQsMVyg31rmum) | [Cosmos](https://open.spotify.com/album/7c1BLJpEBis33PSOamN2Jb) | 3:03 | 2023-04-28 | 2024-02-08 |
-| [Cosmos](https://open.spotify.com/track/0iwgldb9jw0O9HOj1FUWgH) | [Zinadelphia](https://open.spotify.com/artist/2bTnGGWvuVQsMVyg31rmum) | [Cosmos](https://open.spotify.com/album/4fP8xQzp2kRs4Nr24ntJaN) | 3:03 | 2024-01-12 |  |
+| [Cosmos](https://open.spotify.com/track/0iwgldb9jw0O9HOj1FUWgH) | [Zinadelphia](https://open.spotify.com/artist/2bTnGGWvuVQsMVyg31rmum) | [Cosmos](https://open.spotify.com/album/4fP8xQzp2kRs4Nr24ntJaN) | 3:03 | 2024-01-12 | 2024-03-22 |
 | [Cotton Candy](https://open.spotify.com/track/2UvMgTm9y3lStOyQE2yxKA) | [Weston Estate](https://open.spotify.com/artist/18CPEToK1OfjJ5B5vDBDKa) | [Cotton Candy](https://open.spotify.com/album/6II8lvrYj3muBLAzrC0Kzw) | 2:34 | 2023-03-21 | 2023-03-28 |
 | [Courtside](https://open.spotify.com/track/4QBs03zMdjDtS6ZRAdojDv) | [Triathalon](https://open.spotify.com/artist/2SaIA1enj83vEmJikZdjQ3) | [Courtside](https://open.spotify.com/album/0tuclxQvDT0h8m37w3bfsD) | 3:06 | 2020-10-05\* | 2020-10-06 |
 | [Cracking](https://open.spotify.com/track/3VwgtTh9D0CubY32jdhI5U) | [Crumb](https://open.spotify.com/artist/4kSGbjWGxTchKpIxXPJv0B) | [Jinx](https://open.spotify.com/album/6DxidEI7EhF8md8ev83iNY) | 1:51 | 2024-01-12 |  |

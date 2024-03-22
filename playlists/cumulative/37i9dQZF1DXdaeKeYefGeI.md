@@ -4,7 +4,7 @@
 
 > Wat kan het Nederlands toch mooi zijn\. Cover: 3JS
 
-149 songs - 9 hr 15 min
+150 songs - 9 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,7 +18,7 @@
 | [Alsof](https://open.spotify.com/track/5BM1VtsHL1HxUsF2xQVz2G) | [Thijs Borsten](https://open.spotify.com/artist/2rXcix5yePOodUVqDUiRKh), [Fay Lovsky](https://open.spotify.com/artist/2NEeqYen2FsMivq7JBIJiv) | [Alsof](https://open.spotify.com/album/38XTEhm8maA44fEQdvjcnF) | 3:23 | 2023-02-10 | 2023-03-18 |
 | [Altijd Dorst](https://open.spotify.com/track/3HyWVDESd05MxK1S23eMm3) | [Youp van 't Hek](https://open.spotify.com/artist/5KZPlP5jQGBF3Z1kUq2ZUP), [Ton Scherpenzeel](https://open.spotify.com/artist/17a49nqhcCd0kvqHwxbVhP), [Matangi Quartet](https://open.spotify.com/artist/24NmIo95ZKPV5DKMKCXgaL) | [Huisje aan C](https://open.spotify.com/album/3xOBDqh78LgGXFMZDJDl0l) | 4:10 | 2023-02-10 | 2023-05-16 |
 | [Altijd iemand](https://open.spotify.com/track/3LsZn1eGywgz7llFGZId7h) | [Ricky Koole](https://open.spotify.com/artist/5fBVM70bd9z2d70XwIgKyS) | [Altijd Iemand](https://open.spotify.com/album/76ecoEvQrwYITnL3Vrq5Pk) | 5:50 | 2023-09-14 |  |
-| [Amsterdam \(Dans Le Port d’Amsterdam\) \- Radio Edit](https://open.spotify.com/track/7JriL9Ma697yGzlTp3H5io) | [Beatrice van der Poel](https://open.spotify.com/artist/3cC6Pho7NuQ0RkbXsDu1cE) | [Amsterdam \(Dans Le Port d’Amsterdam\) \[Radio Edit\]](https://open.spotify.com/album/5sKPMlzMUV8MeJfWX08Xrc) | 3:00 | 2023-09-14 |  |
+| [Amsterdam \(Dans Le Port d’Amsterdam\) \- Radio Edit](https://open.spotify.com/track/7JriL9Ma697yGzlTp3H5io) | [Beatrice van der Poel](https://open.spotify.com/artist/3cC6Pho7NuQ0RkbXsDu1cE) | [Amsterdam \(Dans Le Port d’Amsterdam\) \[Radio Edit\]](https://open.spotify.com/album/5sKPMlzMUV8MeJfWX08Xrc) | 3:00 | 2023-09-14 | 2024-03-22 |
 | [Annabel](https://open.spotify.com/track/6trgkuKd380kEbIrpEARGo) | [Hans De Booij](https://open.spotify.com/artist/7cdRThov7spzODFHbygauO) | [Het Beste Van](https://open.spotify.com/album/0J3DulwNVPpjHZSm6R6TAm) | 3:32 | 2023-02-10 | 2024-02-09 |
 | [Anne](https://open.spotify.com/track/33fJyGfQksR6hDzJCJUkrg) | [Herman van Veen](https://open.spotify.com/artist/5jWFYMXC1s1pj0u22ps4Sh) | [20 Jaar Herman Van Veen \- In Vogelvlucht](https://open.spotify.com/album/5YVe7mgjlq0FThqEIgo1ze) | 3:45 | 2023-02-10 |  |
 | [As De Liefde Mar Blef Winnen](https://open.spotify.com/track/28KSDPZ1tieVjSkoudLyO7) | [Daniël Lohues](https://open.spotify.com/artist/5hmWcPzWxojagG5Q8IMrI6) | [Allennig II](https://open.spotify.com/album/5xuU03xNkEgx3gQBWDq87f) | 2:56 | 2023-02-10 | 2023-11-11 |
@@ -123,6 +123,7 @@
 | [Over De Muur](https://open.spotify.com/track/5rAG0XusRfyLrzYV7A7lBL) | [Klein Orkest](https://open.spotify.com/artist/2jtIQ2r2x8P4I23sIDDL3n) | [Het Beste Van Klein Orkest](https://open.spotify.com/album/4s3BG8LwbkOcQ5ktxjt5wf) | 3:29 | 2023-02-10 |  |
 | [Papa](https://open.spotify.com/track/6NP6BCW2M2I4vdcnXMAvjl) | [Stef Bos](https://open.spotify.com/artist/4Rw9pvzG1NLs1RbB8cxBfW) | [Is Dit Nu Later](https://open.spotify.com/album/40pPse6bXBsVtjk8JJmovD) | 3:13 | 2023-02-10 |  |
 | [Pastorale \- Remastered](https://open.spotify.com/track/2BUfuy4p88WKk3d49B1ayP) | [Liesbeth List](https://open.spotify.com/artist/4x9b95tQANyGxHLQzWN0If), [Ramses Shaffy](https://open.spotify.com/artist/38qd50i3qMDHvWL1Mo0lk4) | [Pastorale \(Remastered\)](https://open.spotify.com/album/4NgdGBam7i5ua7YzaJZ8Z8) | 4:15 | 2023-02-10 |  |
+| [Plastic Rozen](https://open.spotify.com/track/2Tr9FOnn1mqqewSynDt2eV) | [The Kik](https://open.spotify.com/artist/5vEW6oifezRitpxbykJSw8) | [Plastic Rozen](https://open.spotify.com/album/0R82ZImoVaZMUQCahYFlVy) | 3:16 | 2024-03-21 |  |
 | [Samen Zijn](https://open.spotify.com/track/3ZMdjAHgHDihm21VZt5RxB) | [Willeke Alberti](https://open.spotify.com/artist/7monj8DXxygyUqgx7ncylV) | [Samen Zijn](https://open.spotify.com/album/3y7ncQnFAmLzxu4ukpPPSn) | 4:23 | 2023-02-10 |  |
 | [Sarah](https://open.spotify.com/track/7yDqMzyLCuu3pE1NqbqWbO) | [Herman van Veen](https://open.spotify.com/artist/5jWFYMXC1s1pj0u22ps4Sh), [Edith Leerkes](https://open.spotify.com/artist/78UaWj1oZgFfDSjhTj6oKs) | [Moeders](https://open.spotify.com/album/7tjnfbRE4E3jCzH6pv1BHd) | 3:30 | 2023-02-10 | 2023-04-26 |
 | [Stap Voor Stap](https://open.spotify.com/track/6x8y52msTAuUrGpXjkrYKG) | [Guus Meeuwis](https://open.spotify.com/artist/72qVrKXRp9GeFQOesj0Pmv) | [Stap Voor Stap](https://open.spotify.com/album/0gDWnkxZ44kcBdizwd12qT) | 3:53 | 2023-02-10 | 2023-10-13 |

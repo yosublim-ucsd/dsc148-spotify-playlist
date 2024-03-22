@@ -268,7 +268,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-10",
+      "date_removed": null,
       "duration_ms": 228470,
       "name": "Addicted",
       "url": "https://open.spotify.com/track/5mIwvBNb5dUdYBACx8fzGj"
@@ -400,7 +400,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-22",
       "duration_ms": 208085,
       "name": "All Over Me",
       "url": "https://open.spotify.com/track/4QDWaYYFZBng9u5HTVXBRY"
@@ -1592,7 +1592,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-22",
       "duration_ms": 160610,
       "name": "CLEAR",
       "url": "https://open.spotify.com/track/10UV0GA408i11E6eSloCb4"
@@ -1906,6 +1906,36 @@
       "duration_ms": 153000,
       "name": "Crown Bounce",
       "url": "https://open.spotify.com/track/25SZzbj6rLvbqm48QwEsAj"
+    },
+    {
+      "album": {
+        "name": "Dalilah II",
+        "url": "https://open.spotify.com/album/1axrqyHSrmprv2iwLbClVb"
+      },
+      "artists": [
+        {
+          "name": "Joshua Baraka",
+          "url": "https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW"
+        },
+        {
+          "name": "Simi",
+          "url": "https://open.spotify.com/artist/4Ns55iOSe1Im2WU2e1Eym0"
+        },
+        {
+          "name": "Qing Madi",
+          "url": "https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh"
+        },
+        {
+          "name": "Axon",
+          "url": "https://open.spotify.com/artist/3g95XKMEfhHYudfTK9m6Ol"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178775,
+      "name": "Dalilah II",
+      "url": "https://open.spotify.com/track/3pU5thrIWedorXzDa3gOjb"
     },
     {
       "album": {
@@ -2902,7 +2932,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-22",
       "duration_ms": 156734,
       "name": "Heavy Rotation",
       "url": "https://open.spotify.com/track/7m3Udvtkx3DsFmpCPpyhLh"
@@ -3102,7 +3132,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-22",
       "duration_ms": 268303,
       "name": "I Made It (feat. Bobby Shmurda & Bien)",
       "url": "https://open.spotify.com/track/2xCAYXRU26CeRNchBUs91p"
@@ -3436,7 +3466,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-22",
       "duration_ms": 163200,
       "name": "Jowo",
       "url": "https://open.spotify.com/track/3JMPFxoSzCeLD9n5JumZFb"
@@ -3846,7 +3876,7 @@
       ],
       "date_added": "2023-04-27",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-15",
+      "date_removed": null,
       "duration_ms": 255000,
       "name": "Line Of Fire",
       "url": "https://open.spotify.com/track/6IKuTYKo7pIlHQ9Xnxvoxj"
@@ -4628,7 +4658,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-17",
+      "date_removed": null,
       "duration_ms": 165550,
       "name": "No Shame",
       "url": "https://open.spotify.com/track/3y9iCvODKvCNhJxOurBKMK"
@@ -5180,7 +5210,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-22",
       "duration_ms": 129056,
       "name": "Personally",
       "url": "https://open.spotify.com/track/4hOlSIK8uwDyzBZEf1mAKI"
@@ -5286,6 +5316,24 @@
       "duration_ms": 137907,
       "name": "Pretty Girl (with Rema)",
       "url": "https://open.spotify.com/track/1p5GikXPiCkw5T2VrSPrO1"
+    },
+    {
+      "album": {
+        "name": "Pretty Girls",
+        "url": "https://open.spotify.com/album/2hab7riz6xmtgfvqxfnNLk"
+      },
+      "artists": [
+        {
+          "name": "Frenna",
+          "url": "https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145571,
+      "name": "Pretty Girls",
+      "url": "https://open.spotify.com/track/4skvJoTBLEYUfS3Z1xvGjs"
     },
     {
       "album": {
@@ -5547,6 +5595,28 @@
     },
     {
       "album": {
+        "name": "Utopia",
+        "url": "https://open.spotify.com/album/08uN83YmgRrO8MOAgApw8H"
+      },
+      "artists": [
+        {
+          "name": "Savage",
+          "url": "https://open.spotify.com/artist/2tXCRC5DEbW9crbmB6xpEn"
+        },
+        {
+          "name": "Victony",
+          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188760,
+      "name": "Rosemary",
+      "url": "https://open.spotify.com/track/1V3I7dfERrC8ZdpasMdzfD"
+    },
+    {
+      "album": {
         "name": "Rosemary",
         "url": "https://open.spotify.com/album/1MwiNkYbclqgoGEEOpGTed"
       },
@@ -5562,7 +5632,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-22",
       "duration_ms": 188760,
       "name": "Rosemary",
       "url": "https://open.spotify.com/track/2jY01b9OU1WFhDlsrD17Yd"
@@ -5720,7 +5790,7 @@
       ],
       "date_added": "2023-09-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-15",
+      "date_removed": null,
       "duration_ms": 207575,
       "name": "san siro - remix",
       "url": "https://open.spotify.com/track/0uslkdkt54FiKvwEOOeFoH"
@@ -5914,7 +5984,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-22",
       "duration_ms": 168613,
       "name": "Simple Things",
       "url": "https://open.spotify.com/track/7HupMpgxBnu6QgEsJibKU0"
@@ -6060,7 +6130,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-01",
+      "date_removed": null,
       "duration_ms": 185033,
       "name": "SNAPCHAT",
       "url": "https://open.spotify.com/track/5kp1hRoHrNokFflgzjzrGl"
@@ -6488,7 +6558,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-09",
+      "date_removed": null,
       "duration_ms": 238917,
       "name": "Summer Breeze",
       "url": "https://open.spotify.com/track/3Xp7M0XASUptb61H0mLAcQ"
@@ -6532,7 +6602,7 @@
       ],
       "date_added": "2023-08-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-07",
+      "date_removed": null,
       "duration_ms": 132837,
       "name": "Sundress",
       "url": "https://open.spotify.com/track/3UoasjQP4cTckRtun7sL3D"
@@ -6950,7 +7020,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-22",
       "duration_ms": 155106,
       "name": "Time To Love Again",
       "url": "https://open.spotify.com/track/0LaCgmzJqzWymrvuXrimkd"
@@ -7064,7 +7134,7 @@
       ],
       "date_added": "2024-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-22",
       "duration_ms": 140160,
       "name": "Toxic Love Story",
       "url": "https://open.spotify.com/track/2y4FCaPrKtYXF7akDEXYRQ"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JPdPsQxLCG.md) - [plain]
 
 > Classic tunes for the open road.
 
-[Spotify](https://open.spotify.com/user/spotify) - 82,045 likes - 75 songs - 4 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 82,103 likes - 75 songs - 4 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,17 +46,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JPdPsQxLCG.md) - [plain]
 | 36 | [You Oughta Know \- 2015 Remaster](https://open.spotify.com/track/3jS7bB0oXVOwGFZn3aE5NV) | [Alanis Morissette](https://open.spotify.com/artist/6ogn9necmbUdCppmNnGOdi) | [Jagged Little Pill \(2015 Remaster\)](https://open.spotify.com/album/5Ap3F8CxjjsQKZGASDcHNA) | 4:09 |
 | 37 | [Working for the Weekend](https://open.spotify.com/track/35k31HZI4z9PbBOioaI4dZ) | [Loverboy](https://open.spotify.com/artist/2CLVPk9FcywjClBcTvWPkT) | [Get Lucky](https://open.spotify.com/album/6oZb0svo8JG9mVxZmHjPxE) | 3:41 |
 | 38 | [Landmines](https://open.spotify.com/track/1O7hVfI7ETQvQmPC0EqfY7) | [Sum 41](https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT) | [Landmines](https://open.spotify.com/album/6GcuTn1GfyA7uwTTJj3XgV) | 2:55 |
-| 39 | [Takin' Care Of Business](https://open.spotify.com/track/0lzNXoZINVBLHWNIxKxWOo) | [Bachman\-Turner Overdrive](https://open.spotify.com/artist/5q4AzEtCoYJyXjMMoEkSU5) | [Bachman\-Turner Overdrive II](https://open.spotify.com/album/1p2tbwfEfN8kZNOi4F3bGH) | 4:49 |
-| 40 | [Single Again](https://open.spotify.com/track/2fKAG7MnnFDrQERDAzSztc) | [Josh Ross](https://open.spotify.com/artist/1ZGTSMjK1D2HrpPTOh916U) | [Single Again](https://open.spotify.com/album/6b0zmV6vwUV9Jrwo5FiF0P) | 2:59 |
+| 39 | [Single Again](https://open.spotify.com/track/2fKAG7MnnFDrQERDAzSztc) | [Josh Ross](https://open.spotify.com/artist/1ZGTSMjK1D2HrpPTOh916U) | [Single Again](https://open.spotify.com/album/6b0zmV6vwUV9Jrwo5FiF0P) | 2:59 |
+| 40 | [Takin' Care Of Business](https://open.spotify.com/track/0lzNXoZINVBLHWNIxKxWOo) | [Bachman\-Turner Overdrive](https://open.spotify.com/artist/5q4AzEtCoYJyXjMMoEkSU5) | [Bachman\-Turner Overdrive II](https://open.spotify.com/album/1p2tbwfEfN8kZNOi4F3bGH) | 4:49 |
 | 41 | [Blame Brett](https://open.spotify.com/track/7Az7rVogNu6XpLnykVI5fA) | [The Beaches](https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy) | [Blame Brett](https://open.spotify.com/album/4FJuBUAQv20qh8LAxDdzjN) | 2:56 |
 | 42 | [Suzanne](https://open.spotify.com/track/2L93TdW2GMue1H2zlkt30F) | [Leonard Cohen](https://open.spotify.com/artist/5l8VQNuIg0turYE1VtM9zV) | [Songs Of Leonard Cohen](https://open.spotify.com/album/2Aiv0ThDpFa7lqHphR6MN5) | 3:49 |
 | 43 | [Sunglasses At Night](https://open.spotify.com/track/5uRsBdLhn91AYcsTCOGNOC) | [Corey Hart](https://open.spotify.com/artist/0smy8yDrRoI4CnhpOuthg0) | [First Offense](https://open.spotify.com/album/2cB87PuIi04CRdxhuNrRi5) | 5:20 |
 | 44 | [Pinch Me](https://open.spotify.com/track/2RQ3fWFZJJe4G5KkHEACww) | [Barenaked Ladies](https://open.spotify.com/artist/0dEvJpkqhrcn64d3oI8v79) | [Maroon](https://open.spotify.com/album/5LXL7uNAFSmVpdGk4xW2Mc) | 4:45 |
 | 45 | [Constant Craving](https://open.spotify.com/track/0wCrg1LhgPcGMw51qqpI6k) | [k.d\. lang](https://open.spotify.com/artist/6W1BHDF0T4a4KYcSwzD586) | [Recollection](https://open.spotify.com/album/22TXLyA5GOT19O9hIdAHLE) | 4:37 |
 | 46 | [New Orleans Is Sinking](https://open.spotify.com/track/6v4pemwpkW7msCbBtSJf15) | [The Tragically Hip](https://open.spotify.com/artist/0YMeriqrS3zgsX24nfY0F0) | [Up To Here](https://open.spotify.com/album/4gmKiB0dtmPWjzbDM5N7Jv) | 4:17 |
-| 47 | [All I Really Want \- 2015 Remaster](https://open.spotify.com/track/6rRIRMEhVclbTleCJQsrPm) | [Alanis Morissette](https://open.spotify.com/artist/6ogn9necmbUdCppmNnGOdi) | [Jagged Little Pill \(2015 Remaster\)](https://open.spotify.com/album/5Ap3F8CxjjsQKZGASDcHNA) | 4:44 |
-| 48 | [Superman's Dead](https://open.spotify.com/track/5AqdEGne9bWAMPTI5UUmQY) | [Our Lady Peace](https://open.spotify.com/artist/1lqW59DUEKqvcHc8mVWBtH) | [Clumsy](https://open.spotify.com/album/4mWNf9f6fkznoMKchh2u1M) | 4:15 |
-| 49 | [On A Different Night](https://open.spotify.com/track/4cF4vuC7Ci29yhnbuoFRZx) | [Josh Ross](https://open.spotify.com/artist/1ZGTSMjK1D2HrpPTOh916U) | [On A Different Night](https://open.spotify.com/album/7e2cKmW21NqkGQUfbDyPdF) | 3:09 |
+| 47 | [On A Different Night](https://open.spotify.com/track/4cF4vuC7Ci29yhnbuoFRZx) | [Josh Ross](https://open.spotify.com/artist/1ZGTSMjK1D2HrpPTOh916U) | [On A Different Night](https://open.spotify.com/album/7e2cKmW21NqkGQUfbDyPdF) | 3:09 |
+| 48 | [All I Really Want \- 2015 Remaster](https://open.spotify.com/track/6rRIRMEhVclbTleCJQsrPm) | [Alanis Morissette](https://open.spotify.com/artist/6ogn9necmbUdCppmNnGOdi) | [Jagged Little Pill \(2015 Remaster\)](https://open.spotify.com/album/5Ap3F8CxjjsQKZGASDcHNA) | 4:44 |
+| 49 | [Superman's Dead](https://open.spotify.com/track/5AqdEGne9bWAMPTI5UUmQY) | [Our Lady Peace](https://open.spotify.com/artist/1lqW59DUEKqvcHc8mVWBtH) | [Clumsy](https://open.spotify.com/album/4mWNf9f6fkznoMKchh2u1M) | 4:15 |
 | 50 | [Building a Mystery](https://open.spotify.com/track/3ozomn4PrGEKEuusxX2HpC) | [Sarah McLachlan](https://open.spotify.com/artist/4NgNsOXSwIzXlUIJcpnNUp) | [Surfacing](https://open.spotify.com/album/5qC5YqtLMlsm5Pyl6GtfpP) | 4:07 |
 | 51 | [Cuts Like A Knife](https://open.spotify.com/track/5oZ2YnJxTXl7CdJJKehPHR) | [Bryan Adams](https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc) | [Cuts Like A Knife](https://open.spotify.com/album/5ZZ5S9fqcpQo4N3n7nPUk7) | 5:19 |
 | 52 | [Electric Pow Wow Drum](https://open.spotify.com/track/5e8v4ibmsMHxHLALe5KaiZ) | [The Halluci Nation](https://open.spotify.com/artist/2jlWF9ltd8UtoaqW0PxY4z) | [A Tribe Called Red](https://open.spotify.com/album/1FYVy6b5R41tMIAhWS6fXJ) | 3:39 |
@@ -77,11 +77,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JPdPsQxLCG.md) - [plain]
 | 67 | [Don't Forget Me \(When I'm Gone\)](https://open.spotify.com/track/2G0ioyDyvIT1hu71VePzOL) | [Glass Tiger](https://open.spotify.com/artist/53RaPTbZOx2mBoZD6LLWIv) | [The Thin Red Line \(Deluxe\)](https://open.spotify.com/album/6kpcZGUWKsAtrWv7EYCLbV) | 4:08 |
 | 68 | [Fly At Night \(In The Morning We Land\)](https://open.spotify.com/track/65P1kWWq2FOig9q2POBD4K) | [Chilliwack](https://open.spotify.com/artist/3TkWygOTDBZXAdFDh9HOkG) | [Dreams, Dreams, Dreams](https://open.spotify.com/album/0HFcnY7LMUaE0PsCg9W1KI) | 4:53 |
 | 69 | [99 Nights](https://open.spotify.com/track/7w3vaoMGxdzfkiN25jmDDE) | [Charlotte Cardin](https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK) | [99 Nights](https://open.spotify.com/album/5RHDcbKUJ0isLtDr97nP9P) | 2:56 |
-| 70 | [Sweet Surrender](https://open.spotify.com/track/46ShsS3tyqJAJdxUjPezdI) | [Sarah McLachlan](https://open.spotify.com/artist/4NgNsOXSwIzXlUIJcpnNUp) | [Surfacing](https://open.spotify.com/album/5qC5YqtLMlsm5Pyl6GtfpP) | 4:00 |
-| 71 | [American Woman \- 7" Single Version](https://open.spotify.com/track/5LPGZnsy07YNxeuTI1X3RT) | [The Guess Who](https://open.spotify.com/artist/0cQuYRSzlItquYxsQKDvVc) | [Platinum & Gold Collection](https://open.spotify.com/album/049pDJuLOtgEpo1buRzScg) | 3:51 |
-| 72 | [Not Ready to Go](https://open.spotify.com/track/1NGH22lTbPAkuj7gLdCcJW) | [The Trews](https://open.spotify.com/artist/2mCd5QO8EUB5rmbGUbCrTJ) | [House of Ill Fame \(Bonus Live Cut Edition\)](https://open.spotify.com/album/5gQedR7N5Upa5UD2R0C0gd) | 3:03 |
-| 73 | [Money City Maniacs](https://open.spotify.com/track/0B6Xcr7eu0nsGOiXuLI5NH) | [Sloan](https://open.spotify.com/artist/1ahN3WDDULKaAQs7ZUrGNP) | [Navy Blues](https://open.spotify.com/album/1RTkQ57bnU9zfbM0gBmcr6) | 3:53 |
+| 70 | [Heart of Gold \- 2009 Remaster](https://open.spotify.com/track/1Q1b8eVkUPGlpSArl8JAVw) | [Neil Young](https://open.spotify.com/artist/6v8FB84lnmJs434UJf2Mrm) | [Harvest \(2009 Remaster\)](https://open.spotify.com/album/2l3QxNo4QubBNmVKxLeum0) | 3:07 |
+| 71 | [Sweet Surrender](https://open.spotify.com/track/46ShsS3tyqJAJdxUjPezdI) | [Sarah McLachlan](https://open.spotify.com/artist/4NgNsOXSwIzXlUIJcpnNUp) | [Surfacing](https://open.spotify.com/album/5qC5YqtLMlsm5Pyl6GtfpP) | 4:00 |
+| 72 | [American Woman \- 7" Single Version](https://open.spotify.com/track/5LPGZnsy07YNxeuTI1X3RT) | [The Guess Who](https://open.spotify.com/artist/0cQuYRSzlItquYxsQKDvVc) | [Platinum & Gold Collection](https://open.spotify.com/album/049pDJuLOtgEpo1buRzScg) | 3:51 |
+| 73 | [Not Ready to Go](https://open.spotify.com/track/1NGH22lTbPAkuj7gLdCcJW) | [The Trews](https://open.spotify.com/artist/2mCd5QO8EUB5rmbGUbCrTJ) | [House of Ill Fame \(Bonus Live Cut Edition\)](https://open.spotify.com/album/5gQedR7N5Upa5UD2R0C0gd) | 3:03 |
 | 74 | [I Don't Know \- EP Version](https://open.spotify.com/track/4A4DPAyhXSTzehnBstdAnt) | [The Sheepdogs](https://open.spotify.com/artist/4U33udokhmKATsu8UoqUEN) | [Five Easy Pieces](https://open.spotify.com/album/7nTSvte842Pv7j5x5pyyqr) | 3:10 |
-| 75 | [Echo Beach](https://open.spotify.com/track/08gcSzRD66Dc7z3x6yigol) | [Martha and the Muffins](https://open.spotify.com/artist/5nWbdgU2jcFSbrPV7EAoLK) | [80\-Regine del Pop](https://open.spotify.com/album/69POGM6ZPfBNMNvxgUys87) | 3:34 |
+| 75 | [Money City Maniacs](https://open.spotify.com/track/0B6Xcr7eu0nsGOiXuLI5NH) | [Sloan](https://open.spotify.com/artist/1ahN3WDDULKaAQs7ZUrGNP) | [Navy Blues](https://open.spotify.com/album/1RTkQ57bnU9zfbM0gBmcr6) | 3:53 |
 
-Snapshot ID: `MCxkMzBjNmE4YjBmZjRhN2Y5OTFhYmQzMGRmOWM2ODM3OWIwZDliODhi`
+Snapshot ID: `MCw1MDQ2ODI3OTUzZGM2ZThkOGE2ZDU0ZTA4ZTFmNWRiNjgzNzEzMTg5`

@@ -4,7 +4,7 @@
 
 > Música para enamorarse.
 
-193 songs - 12 hr 14 min
+194 songs - 12 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -94,6 +94,7 @@
 | [La Nave del Olvido](https://open.spotify.com/track/2pOyQcM91HM3tZEiwZCraG) | [José José](https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV) | [La Nave del Olvido](https://open.spotify.com/album/1BDHXHGmDMUVEWeqZlBLfQ) | 3:35 | 2022-02-01 |  |
 | [La Posibilidad](https://open.spotify.com/track/5TxW75fQon0q3059YW4tFn) | [Los Claxons](https://open.spotify.com/artist/4AgfaZvOiSS97uy5ekQ7bf) | [Centro, Sur Y Al Otro Lado](https://open.spotify.com/album/7CHqMkB9aYw8oM0FSkf2pX) | 3:52 | 2021-12-06 | 2023-02-20 |
 | [La Vida Entera \(feat\. Marco Antonio Solís\)](https://open.spotify.com/track/73lcrkJKuPLoMWF0UnecCb) | [Camila](https://open.spotify.com/artist/2gRP1Ezbtj3qrERnd0XasU), [Marco Antonio Solís](https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd) | [La Vida Entera \(feat\. Marco Antonio Solís\)](https://open.spotify.com/album/3QbrSkxFkJ89HGE0i7GyfA) | 3:47 | 2021-12-06 |  |
+| [La última granada](https://open.spotify.com/track/4wCFO12O6g2yY2xiC3EBA8) | [Beret](https://open.spotify.com/artist/0ZHPrnImGh4re3TbSNkoZl) | [La última granada](https://open.spotify.com/album/4z0I4WdWd8NWEKfHj8WkIH) | 2:39 | 2024-03-15 |  |
 | [Llegaste tú](https://open.spotify.com/track/77jdTLPg3EXHJ8cbU7SBni) | [Jesse & Joy](https://open.spotify.com/artist/1mX1TWKpNxDSAH16LgDfiR) | [Esta Es Mi Vida](https://open.spotify.com/album/1DqezzIzunjysnTKPtxB98) | 4:06 | 2021-12-06 |  |
 | [Llegaste Tú](https://open.spotify.com/track/609SDGj0txmlAXRrpwee9Y) | [Luis Fonsi](https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG), [Juan Luis Guerra 4.40](https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559) | [8](https://open.spotify.com/album/3dnAanoquMtbaksF7pUjyI) | 3:41 | 2022-02-01 |  |
 | [Llegaste Tú](https://open.spotify.com/track/7cvw9YXDn35Ra6xCrIqVNZ) | [Luis Fonsi](https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG), [Juan Luis Guerra 4.40](https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559) | [8 \(Deluxe\)](https://open.spotify.com/album/0dvRfMmbJAqW7D3AhbvbCM) | 3:41 | 2021-12-06 | 2022-07-29 |
@@ -180,7 +181,7 @@
 | [Titanic](https://open.spotify.com/track/7F1oLjSguGBvqsJLal7Rad) | [Kany García](https://open.spotify.com/artist/69UypehHabb68utzfjAVlV), [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N) | [Mesa Para Dos](https://open.spotify.com/album/1ZGHMTg7kh6TRqDRkJyEHO) | 3:58 | 2021-12-06 |  |
 | [Todavía No](https://open.spotify.com/track/2cYqMVc4sVem0FsuwArxD2) | [Ha\*Ash](https://open.spotify.com/artist/5xd2Tg7Zo8755eCy8Gxkp8), [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [Todavía No](https://open.spotify.com/album/14HRjTaQi0BJvpyYw4hW6L) | 3:18 | 2023-11-24 |  |
 | [Todo Cambió](https://open.spotify.com/track/4OyzSXRSadNQt5EMwASdap) | [Camila](https://open.spotify.com/artist/2gRP1Ezbtj3qrERnd0XasU) | [Todo Cambio](https://open.spotify.com/album/7dTSfhp5okEjaYXp38LwVf) | 3:13 | 2021-12-06 |  |
-| [Todo Fue Por Amor \(de la película “Con Esta Luz”\)](https://open.spotify.com/track/6X6wECGLnBIMDsAjgOR5Di) | [Carla Morrison](https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe) | [Todo Fue Por Amor \(de la película “Con Esta Luz”\)](https://open.spotify.com/album/0X3ypNwDzwYW7iEPQ4MWrl) | 3:46 | 2023-04-21 |  |
+| [Todo Fue Por Amor \(de la película “Con Esta Luz”\)](https://open.spotify.com/track/6X6wECGLnBIMDsAjgOR5Di) | [Carla Morrison](https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe) | [Todo Fue Por Amor \(de la película “Con Esta Luz”\)](https://open.spotify.com/album/0X3ypNwDzwYW7iEPQ4MWrl) | 3:46 | 2023-04-21 | 2024-03-22 |
 | [Tu Amor Por Siempre](https://open.spotify.com/track/4k5wptmyVtD69gfJTMswv6) | [Axel](https://open.spotify.com/artist/32x1uogH2zajP85pzZAtuE) | [Hoy](https://open.spotify.com/album/2R6ne0x59Ct5bS76Q8h4Ww) | 4:36 | 2021-12-06 | 2022-07-29 |
 | [Tu refugio](https://open.spotify.com/track/35IS0HfbFDk4QTF7Nnkoxl) | [Pablo Alborán](https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50) | [Prometo](https://open.spotify.com/album/07c88Esc2q8pUl0tXADs3D) | 4:22 | 2021-12-06 | 2022-07-24 |
 | [Tú](https://open.spotify.com/track/6ZEVQ2whiJvhjCNAOJ0DC3) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Donde Estan Los Ladrones](https://open.spotify.com/album/5hcKSTqKOLuzJgYIQileAe) | 3:34 | 2021-12-06 |  |

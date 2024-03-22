@@ -1,5 +1,5 @@
 {
-  "2024-03-21": 3263,
+  "2024-03-22": 3276,
   "date_first_scraped": "2023-09-14",
   "description": "Tag your location, we shall pass by as we go around Africa",
   "name": "Drop Pin",
@@ -1289,10 +1289,40 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-21",
       "duration_ms": 376078,
       "name": "Tanzania",
       "url": "https://open.spotify.com/track/5z6oqX6l6kTSPB9gSRnLzE"
+    },
+    {
+      "album": {
+        "name": "Tanzania (feat. Sino Msolo and Boibizza)",
+        "url": "https://open.spotify.com/album/4Clh4Zi1rvftlZsgXa0FSF"
+      },
+      "artists": [
+        {
+          "name": "Uncle Waffles",
+          "url": "https://open.spotify.com/artist/68McnNC9twEtiynOAJRRgZ"
+        },
+        {
+          "name": "Tony Duardo",
+          "url": "https://open.spotify.com/artist/6qF0eiWwQF073J1MuVFs5z"
+        },
+        {
+          "name": "BoiBizza",
+          "url": "https://open.spotify.com/artist/1eEtFWkyKW60yUyVwvAeuR"
+        },
+        {
+          "name": "Sino Msolo",
+          "url": "https://open.spotify.com/artist/5zvuXUYTvZczhbPG9HZRYI"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 376078,
+      "name": "Tanzania (feat. Sino Msolo and Boibizza)",
+      "url": "https://open.spotify.com/track/4qm0rzVQA3kqQ0yA7LkuFK"
     },
     {
       "album": {

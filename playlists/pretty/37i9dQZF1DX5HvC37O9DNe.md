@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5HvC37O9DNe.md) - [plain]
 
 > Semplicemente noi.
 
-[Spotify](https://open.spotify.com/user/spotify) - 102,838 likes - 75 songs - 3 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 102,851 likes - 75 songs - 3 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5HvC37O9DNe.md) - [plain]
 | 74 | [BED](https://open.spotify.com/track/0siYMEsGrzzzlWLXK5zJfS) | [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp), [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [BED](https://open.spotify.com/album/36tML2tWjDrbLW4FgrX17U) | 2:58 |
 | 75 | [bellissimissima <3](https://open.spotify.com/track/2qrCResILkL1JFeRBrv3qA) | [Alfa](https://open.spotify.com/artist/7GacyaFUp0qkEJglERX9N7) | [bellissimissima <3](https://open.spotify.com/album/2uKdFaQMLtLkOHthm855ns) | 2:37 |
 
-Snapshot ID: `MCxjMjhhODY5N2IyODYyODQ5OGQ2MGY4MzUxYzFhMzAxNDk0N2I3MmM1`
+Snapshot ID: `MCw4NGNhMmNhMTE1NDRiMmViOTlkMzY5MjBhMjAyMmIwYTg5YTgwMWE2`

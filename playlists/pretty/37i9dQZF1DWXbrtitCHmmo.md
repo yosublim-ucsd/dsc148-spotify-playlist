@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXbrtitCHmmo.md) - [plain]
 
 > ¡De vuelta a los 2000s con los mejores éxitos! Shakira en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,231 likes - 50 songs - 3 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,351 likes - 50 songs - 3 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,8 +25,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXbrtitCHmmo.md) - [plain]
 | 15 | [Yo No Sé Mañana](https://open.spotify.com/track/7nDIflSHQXzaa8zupxwv3U) | [Luis Enrique](https://open.spotify.com/artist/2mUI4K6csTQd3jieswcmiI) | [Ciclos](https://open.spotify.com/album/63irJwZoWLRUc1lBKtuxmQ) | 4:19 |
 | 16 | [The Ketchup Song \(Aserejé\) \- Spanish Version](https://open.spotify.com/track/6NG2IIXZfC5Notpz0GIODU) | [Las Ketchup](https://open.spotify.com/artist/1e8GEl48ktvfDpruMKB6Oe) | [Aserejé \(The Ketchup Song\)](https://open.spotify.com/album/5k9nNGzp6ogw5bBULPeMSz) | 3:33 |
 | 17 | [Atrévete\-Te\-Te](https://open.spotify.com/track/1q8NdCAQ9QUjpYiqzdd3mv) | [Calle 13](https://open.spotify.com/artist/0yNSzH5nZmHzeE2xn6Xshb) | [Calle 13 \(Explicit Version\)](https://open.spotify.com/album/5pmuwmV2OcuiTX7kNczQ16) | 3:59 |
-| 18 | [Quiero Bailar](https://open.spotify.com/track/7mY1dIaY9vY6Jrlrjg3dRn) | [Ivy Queen](https://open.spotify.com/artist/6p2442ymrT9lZEuCZJdYcH) | [DIVA\- Platinum Edition](https://open.spotify.com/album/0Sv18KP8WCk1eHGnhJqTrb) | 3:06 |
-| 19 | [Te Mando Flores](https://open.spotify.com/track/2in1gSZtv2lRbcZUmN9aAl) | [Fonseca](https://open.spotify.com/artist/53KTldaJ8tHSkYU3nigfwP) | [Corazón](https://open.spotify.com/album/6O0WvW7JA4B02y8D9Kd3Bx) | 3:48 |
+| 18 | [Te Mando Flores](https://open.spotify.com/track/2in1gSZtv2lRbcZUmN9aAl) | [Fonseca](https://open.spotify.com/artist/53KTldaJ8tHSkYU3nigfwP) | [Corazón](https://open.spotify.com/album/6O0WvW7JA4B02y8D9Kd3Bx) | 3:48 |
+| 19 | [Quiero Bailar](https://open.spotify.com/track/7mY1dIaY9vY6Jrlrjg3dRn) | [Ivy Queen](https://open.spotify.com/artist/6p2442ymrT9lZEuCZJdYcH) | [DIVA\- Platinum Edition](https://open.spotify.com/album/0Sv18KP8WCk1eHGnhJqTrb) | 3:06 |
 | 20 | [La Camisa Negra](https://open.spotify.com/track/2EM9zpAc7PVeoAydmbfVIL) | [Juanes](https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7) | [Mi Sangre](https://open.spotify.com/album/2HbvQeJXke68tjwOcsj8ne) | 3:36 |
 | 21 | [Pasarela](https://open.spotify.com/track/1MfqPCs3Y722VK6zkWZ98Z) | [Ñejo & Dalmata](https://open.spotify.com/artist/1ykothWH0xl8drRyJWuw7I) | [Broke & Famous](https://open.spotify.com/album/35ejmbRlV32Qng9jGF34ve) | 3:47 |
 | 22 | [Todavía](https://open.spotify.com/track/6TrR94UaLsxnCMbdUXIVwI) | [DJ Pablito](https://open.spotify.com/artist/44cA8XUceHxTRIVRZAdvW5), [La Factoria](https://open.spotify.com/artist/00Lc7Ok0Grodr365KFTSi3), [Joycee](https://open.spotify.com/artist/7IjPW8bcW8D5mccCuVxbEC) | [Dj Pablito Presenta\- La Factoría](https://open.spotify.com/album/7LPdPCTfXLwJyW2UzghtVb) | 3:23 |
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXbrtitCHmmo.md) - [plain]
 | 39 | [Yo No Soy Esa Mujer](https://open.spotify.com/track/0JAGODD5w6MeYQzA9lV6Zm) | [Paulina Rubio](https://open.spotify.com/artist/1d6dwipPrsFSJVmFTTdFSS) | [Paulina](https://open.spotify.com/album/64M45unRUhuzlOYth6w5HB) | 3:44 |
 | 40 | [Rosas](https://open.spotify.com/track/06p2Ij0lXD45LODQDCov0u) | [La Oreja de Van Gogh](https://open.spotify.com/artist/4U7lXyKdSf1JbM1aXvsodC) | [París](https://open.spotify.com/album/0QM5DL8C9uOYI2hGKbLUq8) | 3:57 |
 | 41 | [Azul](https://open.spotify.com/track/6pHCJmx9FXnMwEqB0LWUEH) | [Cristian Castro](https://open.spotify.com/artist/2AZOALDIBORfbzKTuliwdJ) | [Grandes Hits](https://open.spotify.com/album/6Q2UpW0s9cDeZ59bCd5CYL) | 4:19 |
-| 42 | [La Bomba](https://open.spotify.com/track/0Tl84qfow6Dv0PM60zoBhb) | [Azul Azul](https://open.spotify.com/artist/0SWtMcmZLgP04Kj5x0eCxa) | [El Sapo](https://open.spotify.com/album/4ym0QOQmTKoioL4QwlN2wB) | 2:03 |
-| 43 | [Dime Ven](https://open.spotify.com/track/1kcGgL73ptM5SwurvMZplk) | [Motel](https://open.spotify.com/artist/19IsMFpELM7g2UDuwDlZvU) | [Motel](https://open.spotify.com/album/71G82kgmI0r6RipUwPzgZp) | 3:40 |
+| 42 | [Dime Ven](https://open.spotify.com/track/1kcGgL73ptM5SwurvMZplk) | [Motel](https://open.spotify.com/artist/19IsMFpELM7g2UDuwDlZvU) | [Motel](https://open.spotify.com/album/71G82kgmI0r6RipUwPzgZp) | 3:40 |
+| 43 | [La Bomba](https://open.spotify.com/track/0Tl84qfow6Dv0PM60zoBhb) | [Azul Azul](https://open.spotify.com/artist/0SWtMcmZLgP04Kj5x0eCxa) | [El Sapo](https://open.spotify.com/album/4ym0QOQmTKoioL4QwlN2wB) | 2:03 |
 | 44 | [A Dormir Juntitos \- 2022 Remastered](https://open.spotify.com/track/2HQup8ilMYnrFItOgE3ejB) | [Liz](https://open.spotify.com/artist/4zLCaxN5L394pfzaKd3Yqb), [Eddy Herrera](https://open.spotify.com/artist/4yNdrUaF54csrLixVTnqzC) | [Aqui Esperandote \(2022 Remastered\)](https://open.spotify.com/album/6ApzwpEyl3kRuptjNKIqHW) | 4:42 |
 | 45 | [Suavemente](https://open.spotify.com/track/7cpFmkNmh3MM0WqXPSbs9f) | [Elvis Crespo](https://open.spotify.com/artist/1c22GXH30ijlOfXhfLz9Df) | [Suavemente](https://open.spotify.com/album/378XG6oO0TWcsGuxeQy2Os) | 4:27 |
 | 46 | [Flores Amarillas](https://open.spotify.com/track/5wBBoVjoounI5e36oI8oZe) | [Floricienta](https://open.spotify.com/artist/7dtC84FkhalFSKToofOdOv) | [Floricienta](https://open.spotify.com/album/5vzRtE9SIJ6MVL0j6uFhW9) | 3:43 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXbrtitCHmmo.md) - [plain]
 | 49 | [Culo](https://open.spotify.com/track/4tAru66VGVLWYjg90UV4vJ) | [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg), [Lil Jon](https://open.spotify.com/artist/7sfl4Xt5KmfyDs2T3SVSMK) | [M.I.A.M.I.](https://open.spotify.com/album/76N6imyjQ9h5p2NzakHT32) | 3:39 |
 | 50 | [Verano Azul](https://open.spotify.com/track/0dgwWXkfcWyB2a2qTgEc0F) | [Juan Magán](https://open.spotify.com/artist/1ackd5XprZEkH3McKbQD51) | [Verano Azul](https://open.spotify.com/album/687yvcM8ZmPohOsrrXh8Zu) | 3:10 |
 
-Snapshot ID: `MCw1YWM4ZTg5NTJhMzQ2YjJkNGJiNDY4ZTMzYmFlYjJiNzdlZjcyNmQ1`
+Snapshot ID: `MCxmNTBmYzU5ZjcyOWQ1MTQ1ZjU1Mzc4ZWFjYWMxNjcwZjBhOGIzZjdh`

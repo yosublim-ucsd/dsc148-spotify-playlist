@@ -1,12 +1,12 @@
 {
   "description": "Sapphic songs that defined your music taste as \"yearning.\"\n",
-  "num_followers": 1480805,
+  "num_followers": 1481116,
   "original_name": "sad girl starter pack",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1YzE4NjA0M2ZhZDEzY2Q0MDI1Njk1Zjc2YzNiYWIzNmJjMjZkNmE3",
+  "snapshot_id": "MCxlYmQ3NzYzNDhjOTQ4ODA0ZGM4MTJhZjk5ZTMxMTU4YjdjMjAxMDBh",
   "tracks": [
     {
       "added_at": "2024-03-01 20:34:13",
@@ -691,22 +691,6 @@
     {
       "added_at": "2024-03-01 20:34:13",
       "album": {
-        "name": "Don't Forget Me",
-        "url": "https://open.spotify.com/album/2bSJsOM3hBoBBF4MaxJKyQ"
-      },
-      "artists": [
-        {
-          "name": "Maggie Rogers",
-          "url": "https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe"
-        }
-      ],
-      "duration_ms": 265360,
-      "name": "Don't Forget Me",
-      "url": "https://open.spotify.com/track/0DFldA3ySuV2dblrOAWq1f"
-    },
-    {
-      "added_at": "2024-03-01 20:34:13",
-      "album": {
         "name": "songs",
         "url": "https://open.spotify.com/album/2Qt8Z1LB3Fsrf6nhBNsvUJ"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 202047,
       "name": "anything",
       "url": "https://open.spotify.com/track/4PwWESSlTwzvw9B7bmtTLS"
+    },
+    {
+      "added_at": "2024-03-01 20:34:13",
+      "album": {
+        "name": "Don't Forget Me",
+        "url": "https://open.spotify.com/album/2bSJsOM3hBoBBF4MaxJKyQ"
+      },
+      "artists": [
+        {
+          "name": "Maggie Rogers",
+          "url": "https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe"
+        }
+      ],
+      "duration_ms": 265360,
+      "name": "Don't Forget Me",
+      "url": "https://open.spotify.com/track/0DFldA3ySuV2dblrOAWq1f"
     },
     {
       "added_at": "2024-03-01 20:34:13",
@@ -819,18 +819,18 @@
     {
       "added_at": "2024-03-01 20:34:13",
       "album": {
-        "name": "Either/Or",
-        "url": "https://open.spotify.com/album/5bmpvyP7UGqB4VuXmrJUMy"
+        "name": "Underdressed at the Symphony",
+        "url": "https://open.spotify.com/album/0FDkRPm9cIRJ8qBkxj2Qny"
       },
       "artists": [
         {
-          "name": "Elliott Smith",
-          "url": "https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG"
+          "name": "Faye Webster",
+          "url": "https://open.spotify.com/artist/5szilpXHcwOqnyKLqGco5j"
         }
       ],
-      "duration_ms": 141200,
-      "name": "Between the Bars",
-      "url": "https://open.spotify.com/track/1JbUMtVkQuaAPdHOvncVTm"
+      "duration_ms": 213355,
+      "name": "Underdressed at the Symphony",
+      "url": "https://open.spotify.com/track/2WjEUnzuDhwlFpp9epgtrW"
     },
     {
       "added_at": "2024-03-01 20:34:13",
@@ -851,18 +851,18 @@
     {
       "added_at": "2024-03-01 20:34:13",
       "album": {
-        "name": "Underdressed at the Symphony",
-        "url": "https://open.spotify.com/album/0FDkRPm9cIRJ8qBkxj2Qny"
+        "name": "Either/Or",
+        "url": "https://open.spotify.com/album/5bmpvyP7UGqB4VuXmrJUMy"
       },
       "artists": [
         {
-          "name": "Faye Webster",
-          "url": "https://open.spotify.com/artist/5szilpXHcwOqnyKLqGco5j"
+          "name": "Elliott Smith",
+          "url": "https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG"
         }
       ],
-      "duration_ms": 213355,
-      "name": "Underdressed at the Symphony",
-      "url": "https://open.spotify.com/track/2WjEUnzuDhwlFpp9epgtrW"
+      "duration_ms": 141200,
+      "name": "Between the Bars",
+      "url": "https://open.spotify.com/track/1JbUMtVkQuaAPdHOvncVTm"
     },
     {
       "added_at": "2024-03-01 20:34:13",

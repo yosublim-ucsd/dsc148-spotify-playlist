@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTRkBYeInhLG.md) - [plain]
 
 > Lagu\-lagu Pop untuk teman bersantai.
 
-[Spotify](https://open.spotify.com/user/spotify) - 469,104 likes - 80 songs - 5 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 469,215 likes - 80 songs - 5 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,14 +50,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTRkBYeInhLG.md) - [plain]
 | 40 | [Jikalau Kau Cinta](https://open.spotify.com/track/29gdEEyeHC9ypmvQkohY4N) | [Judika](https://open.spotify.com/artist/5fS7aONqrIhiw6YzgKVOsd) | [Judika](https://open.spotify.com/album/1h2elFGPiDYv69SXWwLjkr) | 4:02 |
 | 41 | [Aku Yang Salah](https://open.spotify.com/track/4D41thx2lQiCY2r0QsfVYc) | [Mahalini](https://open.spotify.com/artist/3wOsYKZM0zcKNasi3I7fP4), [Nuca](https://open.spotify.com/artist/5x3nSujruZLuB6xBicI6Ai) | [Aku Yang Salah](https://open.spotify.com/album/7swcI60yTRtgNUncVzGyRx) | 4:11 |
 | 42 | [Lebih Indah](https://open.spotify.com/track/66V6QeI1Y9PQO4J7p7JGJO) | [Adera](https://open.spotify.com/artist/5puPe9ODwSfnmqy5cx90TC) | [Lebih Indah](https://open.spotify.com/album/0Gxnglx23wEe59QoWMux3x) | 4:18 |
-| 43 | [Mata Ke Hati \(Acoustic Version\)](https://open.spotify.com/track/4p5UcsOpnSYwqYnThBpDjD) | [Hivi!](https://open.spotify.com/artist/4ubEZ6sMsrrbQChueyouCC) | [Kereta Kencan](https://open.spotify.com/album/4X40KZmA4LE4beNaNrQuNw) | 3:24 |
+| 43 | [Siapkah Kau 'Tuk Jatuh Cinta Lagi](https://open.spotify.com/track/1uF0XYWWeoWEWipY855GxT) | [Hivi!](https://open.spotify.com/artist/4ubEZ6sMsrrbQChueyouCC) | [Siapkah Kau 'Tuk Jatuh Cinta Lagi](https://open.spotify.com/album/3ZKUrGax3UsLexr8nQqxrc) | 4:39 |
 | 44 | [Film Favorit](https://open.spotify.com/track/2BCYKFDWnZi9PMkZiemQh1) | [Sheila On 7](https://open.spotify.com/artist/6q87vizIEdEN4NvlR6mjfT) | [Film Favorit](https://open.spotify.com/album/2nXulMdqeETddh6KThsEjI) | 3:43 |
 | 45 | [Waktu Yang Salah](https://open.spotify.com/track/47caohVI6Qe7KY8EuaRtg0) | [Fiersa Besari](https://open.spotify.com/artist/06QVnTCdjs4jPKO0487EGV), [Thantri Sundari](https://open.spotify.com/artist/5jVRSr4hRxxwEFeG3uWFGV) | [Tempat Aku Pulang](https://open.spotify.com/album/2jZflSCJ8hq8bp7bBzioOx) | 5:23 |
 | 46 | [Teman Hidup](https://open.spotify.com/track/1U1qumuS2O5Qttw8G7UXOZ) | [Tulus](https://open.spotify.com/artist/2iDVt6mFbtbDEZG5ax0dTi) | [Tulus](https://open.spotify.com/album/2dnIPDYfh7enZ6JqI9COsk) | 3:42 |
 | 47 | [Pandangan Pertama](https://open.spotify.com/track/7vARkAvliy40kkanvCQvSR) | [RAN](https://open.spotify.com/artist/5DSVjHy2YWufmRUHBM3PLX) | [RAN For Your Life](https://open.spotify.com/album/1HKU9pkdGXlQfwQoAGSMv8) | 5:00 |
 | 48 | [Kamulah Satu \- Satunya](https://open.spotify.com/track/6pCfc6xxUXYBWLMQhIWDmh) | [Dewa 19](https://open.spotify.com/artist/48bKH1ugFBhERC1rdojP9d) | [The Best of Dewa 19](https://open.spotify.com/album/2AYCO1vDSYRYnlu7tK6ZcS) | 4:01 |
 | 49 | [Di Atas Meja](https://open.spotify.com/track/1MDVXlgY8Of2n2otw57hw0) | [Payung Teduh](https://open.spotify.com/artist/2Ooa3TrmlskyBftzenv6xQ) | [Ruang Tunggu](https://open.spotify.com/album/1lp7ziYXZH8Z2r28FiUPWX) | 5:29 |
-| 50 | [Siapkah Kau 'Tuk Jatuh Cinta Lagi](https://open.spotify.com/track/1uF0XYWWeoWEWipY855GxT) | [Hivi!](https://open.spotify.com/artist/4ubEZ6sMsrrbQChueyouCC) | [Siapkah Kau 'Tuk Jatuh Cinta Lagi](https://open.spotify.com/album/3ZKUrGax3UsLexr8nQqxrc) | 4:39 |
+| 50 | [Mata Ke Hati \(Acoustic Version\)](https://open.spotify.com/track/4p5UcsOpnSYwqYnThBpDjD) | [Hivi!](https://open.spotify.com/artist/4ubEZ6sMsrrbQChueyouCC) | [Kereta Kencan](https://open.spotify.com/album/4X40KZmA4LE4beNaNrQuNw) | 3:24 |
 | 51 | [Satu\-Satu](https://open.spotify.com/track/5rFNflUKMTsOlBVdGv1ahL) | [Idgitaf](https://open.spotify.com/artist/7pFWMC2E7h8eL3SZyHRsRq) | [Satu\-Satu](https://open.spotify.com/album/2WFFb7cIQXQXvuOsoqB69C) | 4:44 |
 | 52 | [Kesempurnaan Cinta](https://open.spotify.com/track/18tLvggTFEZuzLdcnuej2u) | [Rizky Febian](https://open.spotify.com/artist/28DdkLhrzQNizZ0ExQpyku) | [Kesempurnaan Cinta](https://open.spotify.com/album/0IMFkRKyUm5tkObtRWmjVs) | 3:36 |
 | 53 | [Dia Milikku](https://open.spotify.com/track/1OQyfW04HtxbKJykjlG3wD) | [Yovie & Nuno](https://open.spotify.com/artist/3DHOtJqv0Bw65ENlK4FiSF) | [The Special One](https://open.spotify.com/album/7aSV0bzRGqWW3bETcc6oSp) | 3:31 |
@@ -79,8 +79,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTRkBYeInhLG.md) - [plain]
 | 69 | [April](https://open.spotify.com/track/7acA8bnDcifMEolySXKOz8) | [Fiersa Besari](https://open.spotify.com/artist/06QVnTCdjs4jPKO0487EGV) | [Tempat Aku Pulang](https://open.spotify.com/album/2jZflSCJ8hq8bp7bBzioOx) | 4:21 |
 | 70 | [Losing Us.](https://open.spotify.com/track/6embPWj9qvusLg9JpbAmCQ) | [raissa anggiani](https://open.spotify.com/artist/11k3Y6uyixbyGfgPl8qZTZ) | [Losing Us.](https://open.spotify.com/album/5rcVsRWjcqRgK91jsNCVWo) | 3:56 |
 | 71 | [Nuansa Bening](https://open.spotify.com/track/1k5ZInUyMOJRmjxsDE1LKe) | [VIDI](https://open.spotify.com/artist/4crs55NFrnArSpE78rohLS) | [Pelangi Di Malam Hari](https://open.spotify.com/album/21LvKljAcxUbAYUEMP6Osx) | 4:42 |
-| 72 | [Percayalah](https://open.spotify.com/track/71ffTsV63O9RsoWJ1iJOet) | [Afgan](https://open.spotify.com/artist/4cgBCGxtlfap2g6jveB7du), [Raisa](https://open.spotify.com/artist/5OZXWMwDhlYBRvoOfcX0sk) | [Percayalah](https://open.spotify.com/album/1ztUALyRDv0ZwDjoQIaWj0) | 4:26 |
-| 73 | [11 Januari](https://open.spotify.com/track/2Ev8mNT9YHaUIELEKKf4ld) | [Gigi](https://open.spotify.com/artist/2Gp3RWqEXPEV38Oqv5ZiNf) | [Peace, Love And Respect](https://open.spotify.com/album/7DbA8XMgdsnigdg5cfFD1I) | 3:32 |
+| 72 | [11 Januari](https://open.spotify.com/track/2Ev8mNT9YHaUIELEKKf4ld) | [Gigi](https://open.spotify.com/artist/2Gp3RWqEXPEV38Oqv5ZiNf) | [Peace, Love And Respect](https://open.spotify.com/album/7DbA8XMgdsnigdg5cfFD1I) | 3:32 |
+| 73 | [Percayalah](https://open.spotify.com/track/71ffTsV63O9RsoWJ1iJOet) | [Afgan](https://open.spotify.com/artist/4cgBCGxtlfap2g6jveB7du), [Raisa](https://open.spotify.com/artist/5OZXWMwDhlYBRvoOfcX0sk) | [Percayalah](https://open.spotify.com/album/1ztUALyRDv0ZwDjoQIaWj0) | 4:26 |
 | 74 | [Kala Cinta Menggoda](https://open.spotify.com/track/2KyTzyAZs6stW2TRrXDREW) | [Chrisye](https://open.spotify.com/artist/2NteKKMj3takKR3ABTd279) | [Chrisye "Untukku"](https://open.spotify.com/album/3UDpNv0SOmaemdASkAtxO8) | 5:20 |
 | 75 | [Penantian Berharga](https://open.spotify.com/track/16kiuKjacDC4bFX9flnLA6) | [Rizky Febian](https://open.spotify.com/artist/28DdkLhrzQNizZ0ExQpyku) | [Penantian Berharga](https://open.spotify.com/album/4qsujxuNSgTvt6xd8oMvt1) | 3:38 |
 | 76 | [Lapang Dada](https://open.spotify.com/track/1rpp0SvLCIaW9MLO4EP5Z4) | [Sheila On 7](https://open.spotify.com/artist/6q87vizIEdEN4NvlR6mjfT) | [Musim Yang Baik](https://open.spotify.com/album/55Rgrt92qQCdUgtDJhvsPG) | 3:36 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTRkBYeInhLG.md) - [plain]
 | 79 | [Kali Kedua](https://open.spotify.com/track/4CvYHgcpBFbefsz6Q55ID1) | [Raisa](https://open.spotify.com/artist/5OZXWMwDhlYBRvoOfcX0sk) | [Handmade](https://open.spotify.com/album/59KvITHzZaIAfs7lpHSbrY) | 4:17 |
 | 80 | [Jikalau](https://open.spotify.com/track/4fBFN8NLLIbvw6JzaiD2hp) | [Naif](https://open.spotify.com/artist/57A85GCAJn0reNAez6Hswt) | [The Best](https://open.spotify.com/album/2kFxReqreHFoL6kvgXUAGE) | 3:06 |
 
-Snapshot ID: `MCw0NGIyZWFhMmJhZTgyNzU3MTM4OTY2NDQxYmZhYjhmYTc3MTAyN2Fk`
+Snapshot ID: `MCxiZDFkZTdkYWNjMWE2Y2U0OTNiMjE1YzliZTJiNjIxNjgzYjA0ZGVl`

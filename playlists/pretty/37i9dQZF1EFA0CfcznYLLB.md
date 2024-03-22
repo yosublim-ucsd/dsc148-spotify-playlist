@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFA0CfcznYLLB.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3QX3YzE51B2iuT5ol1U6BC">Murda Beatz</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,947 likes - 315 songs - 16 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,948 likes - 315 songs - 16 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -82,8 +82,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFA0CfcznYLLB.md) - [plain]
 | 72 | [VACATION](https://open.spotify.com/track/6q2uIyLqASSpv2SIv2ehWK) | [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) | [VACATION](https://open.spotify.com/album/42XA3CG4dOtlaVKq5ZRNRh) | 3:12 |
 | 73 | [Clicc Clacc](https://open.spotify.com/track/2odeWIBW5susyP8MOg10rm) | [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ) | [Cottonwood](https://open.spotify.com/album/6li8kT6o9RM59IxRyZZJYh) | 1:53 |
 | 74 | [NORTHSIDE](https://open.spotify.com/track/01HGXW27UXeMWa8Eglzgcf) | [Ama Lou](https://open.spotify.com/artist/2tAqnHDAgnGtjnlzyoa38L) | [Ama, who?](https://open.spotify.com/album/7BWDLFcIlUrgZdtjwLEJxw) | 3:29 |
-| 75 | [Banana Split \(with YNW Melly feat\. Lil Durk\)](https://open.spotify.com/track/57Lw4YmOvpighLOnwqiuKr) | [Murda Beatz](https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC), [YNW Melly](https://open.spotify.com/artist/1cNDP5yjU5vjeR8qMf4grg), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [Banana Split \(with YNW Melly feat\. Lil Durk\)](https://open.spotify.com/album/3QWBKAttGO0ONYIcsDHBW4) | 3:12 |
-| 76 | [Beep Beep](https://open.spotify.com/track/5iHC401tsNlJRY46ECSYbo) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Pink Friday 2](https://open.spotify.com/album/2bYCNZfxZrTUv1CHXkz2d2) | 1:35 |
+| 75 | [Beep Beep](https://open.spotify.com/track/5iHC401tsNlJRY46ECSYbo) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Pink Friday 2](https://open.spotify.com/album/2bYCNZfxZrTUv1CHXkz2d2) | 1:35 |
+| 76 | [Banana Split \(with YNW Melly feat\. Lil Durk\)](https://open.spotify.com/track/57Lw4YmOvpighLOnwqiuKr) | [Murda Beatz](https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC), [YNW Melly](https://open.spotify.com/artist/1cNDP5yjU5vjeR8qMf4grg), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [Banana Split \(with YNW Melly feat\. Lil Durk\)](https://open.spotify.com/album/3QWBKAttGO0ONYIcsDHBW4) | 3:12 |
 | 77 | [Your Song \- Cheat Codes Remix](https://open.spotify.com/track/2h578j1vqX32f3yBdMoZAI) | [Rita Ora](https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr) | [Your Song \(Cheat Codes Remix\)](https://open.spotify.com/album/2SIvZeZQ9bsUCy7GL7BNfx) | 3:35 |
 | 78 | [For Real](https://open.spotify.com/track/5cDW8x7AtLduR2VgsutTdm) | [Mallrat](https://open.spotify.com/artist/4OSArit7O2Jaj4mgf3YN7A) | [Uninvited](https://open.spotify.com/album/3bbolXAWd2ztEf9AyoOsY7) | 3:12 |
 | 79 | [Type Shit \(feat\. Cardi B\)](https://open.spotify.com/track/4N4wemxs9Em6nJ5kXTjEsS) | [Migos](https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG), [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Culture III](https://open.spotify.com/album/3uyOwJu4r3yroAkFywNFM3) | 3:09 |
@@ -99,8 +99,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFA0CfcznYLLB.md) - [plain]
 | 89 | [NOTHING LESS](https://open.spotify.com/track/5AONS2YjYFpZ6UZ8qiL4le) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [PARTYMOBILE](https://open.spotify.com/album/3XlxfDJEXSDdMFWh1hsg16) | 3:28 |
 | 90 | [November Rain](https://open.spotify.com/track/58ZdT5NQIAkeSWUxNneBg8) | [Kris Wu](https://open.spotify.com/artist/2lbUjuMzHkT4qIECvk2f3L) | [Antares](https://open.spotify.com/album/6w5zZMxmvsqAED65Lx42lS) | 3:13 |
 | 91 | [Antidote](https://open.spotify.com/track/13Vs4lw2XisMw76z5ZV5Za) | [Migos](https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG) | [No Label II](https://open.spotify.com/album/1NIzKm1DqvComMoEF1FZPQ) | 3:42 |
-| 92 | [Switch](https://open.spotify.com/track/5J2LGDRa3EIFiGQMHs0bb4) | [Roy Woods](https://open.spotify.com/artist/7mDU6nMUJnOSY2Hkjz5oqM) | [Waking at Dawn](https://open.spotify.com/album/5rvBOTHohJZk2aQHPJi6eU) | 3:21 |
-| 93 | [Gift & A Curse](https://open.spotify.com/track/1U4pYd8XGOYr9GvKqIprCa) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Traumazine](https://open.spotify.com/album/4YP0h2KGDb20eJuStnBvim) | 2:52 |
+| 92 | [Gift & A Curse](https://open.spotify.com/track/1U4pYd8XGOYr9GvKqIprCa) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Traumazine](https://open.spotify.com/album/4YP0h2KGDb20eJuStnBvim) | 2:52 |
+| 93 | [Switch](https://open.spotify.com/track/5J2LGDRa3EIFiGQMHs0bb4) | [Roy Woods](https://open.spotify.com/artist/7mDU6nMUJnOSY2Hkjz5oqM) | [Waking at Dawn](https://open.spotify.com/album/5rvBOTHohJZk2aQHPJi6eU) | 3:21 |
 | 94 | [Miami](https://open.spotify.com/track/1DfASEEKVByFKTgCArlkS5) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Queen](https://open.spotify.com/album/2acDkDTWdNFie1HjcFa4Ny) | 3:10 |
 | 95 | [ANOTHER DAY](https://open.spotify.com/track/3SQz76liYsbuuXyNLSLQu1) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [PARTYMOBILE](https://open.spotify.com/album/3XlxfDJEXSDdMFWh1hsg16) | 2:32 |
 | 96 | [Thick & Pretty](https://open.spotify.com/track/6e0Sq5QPvMffzke6SMaNck) | [Quality Control](https://open.spotify.com/artist/6i392l38cR3uBPF0DbNs7S), [Migos](https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG) | [Quality Control: Control The Streets Volume 1](https://open.spotify.com/album/07Jvk8tGuaMhR4H72znlLJ) | 4:32 |
@@ -290,8 +290,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFA0CfcznYLLB.md) - [plain]
 | 280 | [Can't Believe](https://open.spotify.com/track/27feJotBPaNTn9w1Jjm8YI) | [ANSARA](https://open.spotify.com/artist/3Nlvdg6zjK1uiALxsAjTlX) | [Alive](https://open.spotify.com/album/3hPruPSNFpAsl7xsuGLqJi) | 4:35 |
 | 281 | [First Kiss \(feat\. Baby B\)](https://open.spotify.com/track/6gjmDDykrR94ICwRfCx7Gf) | [Shordie Shordie](https://open.spotify.com/artist/5fyvTyetDr7gvLafBsEEhU), [Murda Beatz](https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC), [Baby B](https://open.spotify.com/artist/27ZbiMM7xyzIzM68B6fS7q) | [Memory Lane 2](https://open.spotify.com/album/53UEhZvzn3wSJQlhZKY4Cd) | 3:21 |
 | 282 | [island](https://open.spotify.com/track/1pOqZgIAfN0kgiJKJKNeHJ) | [Lee](https://open.spotify.com/artist/0llIp92s72MGxqoJviNjGC) | [Lo\-fi of Lee](https://open.spotify.com/album/3YpkgY5WXsts05RJ154gcf) | 4:37 |
-| 283 | [Come Wit It](https://open.spotify.com/track/4rBe7NOIF9luQSnJyPntAV) | [Prime Boys](https://open.spotify.com/artist/2Vwtx6d4E2wAj3ERVjLTZD) | [Koba World](https://open.spotify.com/album/7nQkpkUNXGOLcQeFnTrOmC) | 2:55 |
-| 284 | [Farmers Market](https://open.spotify.com/track/1v58rKXHAc5dqxEXKWC3ql) | [Shordie Shordie](https://open.spotify.com/artist/5fyvTyetDr7gvLafBsEEhU), [Murda Beatz](https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC) | [Memory Lane 2](https://open.spotify.com/album/53UEhZvzn3wSJQlhZKY4Cd) | 2:27 |
+| 283 | [Farmers Market](https://open.spotify.com/track/1v58rKXHAc5dqxEXKWC3ql) | [Shordie Shordie](https://open.spotify.com/artist/5fyvTyetDr7gvLafBsEEhU), [Murda Beatz](https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC) | [Memory Lane 2](https://open.spotify.com/album/53UEhZvzn3wSJQlhZKY4Cd) | 2:27 |
+| 284 | [Come Wit It](https://open.spotify.com/track/4rBe7NOIF9luQSnJyPntAV) | [Prime Boys](https://open.spotify.com/artist/2Vwtx6d4E2wAj3ERVjLTZD) | [Koba World](https://open.spotify.com/album/7nQkpkUNXGOLcQeFnTrOmC) | 2:55 |
 | 285 | [A Nice Time](https://open.spotify.com/track/4eb21fsZhCL2l5Q2C7a2c1) | [Shordie Shordie](https://open.spotify.com/artist/5fyvTyetDr7gvLafBsEEhU), [Murda Beatz](https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC) | [Memory Lane 2](https://open.spotify.com/album/53UEhZvzn3wSJQlhZKY4Cd) | 3:03 |
 | 286 | [Too Many](https://open.spotify.com/track/3vbvylwEVk3GDKf5W6uKPZ) | [Shordie Shordie](https://open.spotify.com/artist/5fyvTyetDr7gvLafBsEEhU), [Murda Beatz](https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC) | [Memory Lane 2](https://open.spotify.com/album/53UEhZvzn3wSJQlhZKY4Cd) | 2:39 |
 | 287 | [Internet Chatter](https://open.spotify.com/track/7aCycjPqBhh1Z1JHXhbSEX) | [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo) | [Breath of Fresh Air](https://open.spotify.com/album/7yaZiqWLiUdPXwl2m9EnGR) | 2:19 |
@@ -324,4 +324,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFA0CfcznYLLB.md) - [plain]
 | 314 | [Body Parts](https://open.spotify.com/track/0PRldWb2v0PVYHHmK3ammB) | [Bomshot](https://open.spotify.com/artist/3SSMWOv4oxoSrm1lJP5kfc) | [Abomination](https://open.spotify.com/album/32eTpy2grvmPhZ7WjPXtBD) | 3:22 |
 | 315 | [On God](https://open.spotify.com/track/1rmWQqmKWRtm9bks6Lr0Sp) | [Majin Murda](https://open.spotify.com/artist/7LLv3nfvIIYTqBAV8XjlO9) | [3K](https://open.spotify.com/album/7zjBIckQRALycP2MCWEYUg) | 3:27 |
 
-Snapshot ID: `Mjg1MTY0NTAsMDAwMDAwMDBjMmRlNzJmY2Y3YWZjZDNiNWI0MGViNjk4NTM0ZGQ2ZA==`
+Snapshot ID: `Mjg1MTc4OTAsMDAwMDAwMDAxMjRhNjQ5ZDZjYzg4MGMxMWFiZWRhOTFmMDI3MWUyOQ==`

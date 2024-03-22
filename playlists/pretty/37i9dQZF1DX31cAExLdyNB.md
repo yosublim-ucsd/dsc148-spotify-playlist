@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX31cAExLdyNB.md) - [plain]
 
 > La orilla donde el indie se fusiona con la electrónica.
 
-[Spotify](https://open.spotify.com/user/spotify) - 66,019 likes - 69 songs - 4 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 66,033 likes - 69 songs - 4 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,9 +22,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX31cAExLdyNB.md) - [plain]
 | 12 | [Like A Saviour](https://open.spotify.com/track/5aNjxmDikP3zGMHfO9dop5) | [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [Like A Saviour](https://open.spotify.com/album/0bAL4OMaZIgjmUH3j7q6kb) | 3:40 |
 | 13 | [Drive \(feat\. Wes Nelson\)](https://open.spotify.com/track/6eCmK3GQyFuTNWCJHsaF9d) | [Clean Bandit](https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM), [Topic](https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ), [Wes Nelson](https://open.spotify.com/artist/4ktBrNjagCGftyuBLJkATq) | [Drive \(feat\. Wes Nelson\)](https://open.spotify.com/album/7wDWQrTNxHSVvklLTucK2D) | 2:59 |
 | 14 | [No Tengo Tiempo](https://open.spotify.com/track/7hmvkFDZGMLaRyHMBySatI) | [Armenia](https://open.spotify.com/artist/4FmrAtWfKHAIysakSpmatx) | [ARMN](https://open.spotify.com/album/5ZKQlMu308fEdUEOYXUjIp) | 2:50 |
-| 15 | [The Divine Chord](https://open.spotify.com/track/3A0cAzFKPefBCz7Z02UnnO) | [The Avalanches](https://open.spotify.com/artist/3C8RpaI3Go0yFF9whvKoED), [MGMT](https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE), [Johnny Marr](https://open.spotify.com/artist/2bA2YuQk2ID3PWNXUhQrWS) | [We Will Always Love You](https://open.spotify.com/album/755yBlrk0Sz8tIgMMTgyr1) | 3:07 |
+| 15 | [Chapstick](https://open.spotify.com/track/33E5u0qmzBlsHkhU1bTBWa) | [COIN](https://open.spotify.com/artist/0ZxZlO7oWCSYMXhehpyMvE) | [Uncanny Valley](https://open.spotify.com/album/6ep7RptFPcLPi3qAhwi8l6) | 3:13 |
 | 16 | [Tainted Love](https://open.spotify.com/track/1wAPbQ5XjbZqPl0WDl5mHH) | [Milky Chance](https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs) | [Trip Tape](https://open.spotify.com/album/707cK3j40hIquI15sOcYXP) | 2:59 |
-| 17 | [Chapstick](https://open.spotify.com/track/33E5u0qmzBlsHkhU1bTBWa) | [COIN](https://open.spotify.com/artist/0ZxZlO7oWCSYMXhehpyMvE) | [Uncanny Valley](https://open.spotify.com/album/6ep7RptFPcLPi3qAhwi8l6) | 3:13 |
+| 17 | [The Divine Chord](https://open.spotify.com/track/3A0cAzFKPefBCz7Z02UnnO) | [The Avalanches](https://open.spotify.com/artist/3C8RpaI3Go0yFF9whvKoED), [MGMT](https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE), [Johnny Marr](https://open.spotify.com/artist/2bA2YuQk2ID3PWNXUhQrWS) | [We Will Always Love You](https://open.spotify.com/album/755yBlrk0Sz8tIgMMTgyr1) | 3:07 |
 | 18 | [me acostumbro](https://open.spotify.com/track/6xqwYV9XH89Ug1HXItusje) | [Pavlo](https://open.spotify.com/artist/5HkbqKHZAvQjhjkhYm6mp2) | [me acostumbro](https://open.spotify.com/album/6VdyxAmkc5YNXo7TqipDwj) | 2:50 |
 | 19 | [Canary Islands](https://open.spotify.com/track/7MuU7UbVaKyu4HkHBoHwrD) | [Goth Babe](https://open.spotify.com/artist/7o96HO2zrujyATtVsqGhh3) | [Canary Islands](https://open.spotify.com/album/3T0gMffhvjVW4DQi6PUj1L) | 3:24 |
 | 20 | [De Maravilla](https://open.spotify.com/track/7osWLKq6j6KxoMT03EdvHv) | [The Vue](https://open.spotify.com/artist/1bCVI2X0v8Ext3IXFNd0oY) | [Las Cosas Que No Dije \(LCQND\)](https://open.spotify.com/album/2uC2X3vkFU4hLmRUPKWZ98) | 3:22 |
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX31cAExLdyNB.md) - [plain]
 | 33 | [Feels Right](https://open.spotify.com/track/226kedQbsIsYmkylaxPzcV) | [Roosevelt](https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7) | [Polydans](https://open.spotify.com/album/1dhkdAipvJfbPh0B6pg2b0) | 4:34 |
 | 34 | [Yesteryear](https://open.spotify.com/track/1sTLwB34FW4Yqvjsz5tset) | [Cosmo's Midnight](https://open.spotify.com/artist/4VivsO1n4n2Mi2Btyb5gfL) | [Yesteryear](https://open.spotify.com/album/2E6mONgH562P0nB7gmb86j) | 3:39 |
 | 35 | [EME](https://open.spotify.com/track/5kksd5p7OOz8vF7NbDw7GE) | [MIEL](https://open.spotify.com/artist/7KQCUauVB5CLGrJwq2JoVd), [Bardo José](https://open.spotify.com/artist/5KGBbZQTTbci3K89C99XPT) | [EME](https://open.spotify.com/album/2iLF9iKotpW9QVlX2hJo2T) | 3:11 |
-| 36 | [Precipicio](https://open.spotify.com/track/13oGKDy4OSNNW8PvpDOoxb) | [Clara Cava](https://open.spotify.com/artist/5bOm9wAui94GDhPOCKgmhY) | [Lavandina](https://open.spotify.com/album/60kgxaYtVgEZdMhY8lWarw) | 4:59 |
-| 37 | [Heavy](https://open.spotify.com/track/4rf6Lpnej26aSNdYSiPF2n) | [Flight Facilities](https://open.spotify.com/artist/1lc8mnyGrCLtPhCoWjRxjM), [Your Smith](https://open.spotify.com/artist/2kTZfKGZEj8R76z3ooKOF1) | [FOREVER](https://open.spotify.com/album/6kzRU9QtsTrhlObao5Eb3t) | 3:22 |
+| 36 | [Heavy](https://open.spotify.com/track/4rf6Lpnej26aSNdYSiPF2n) | [Flight Facilities](https://open.spotify.com/artist/1lc8mnyGrCLtPhCoWjRxjM), [Your Smith](https://open.spotify.com/artist/2kTZfKGZEj8R76z3ooKOF1) | [FOREVER](https://open.spotify.com/album/6kzRU9QtsTrhlObao5Eb3t) | 3:22 |
+| 37 | [Precipicio](https://open.spotify.com/track/13oGKDy4OSNNW8PvpDOoxb) | [Clara Cava](https://open.spotify.com/artist/5bOm9wAui94GDhPOCKgmhY) | [Lavandina](https://open.spotify.com/album/60kgxaYtVgEZdMhY8lWarw) | 4:59 |
 | 38 | [In Her Eyes](https://open.spotify.com/track/4JtbUXLuBb8C7q1x7B54ZY) | [The Jungle Giants](https://open.spotify.com/artist/6wFwvxJkurQPU2UdeD4qVt) | [In Her Eyes](https://open.spotify.com/album/3R5YCyAaqLEI3UOT38l5ik) | 2:54 |
 | 39 | [Ciudades de Noche](https://open.spotify.com/track/01rgHbhlfioQ7Oy9ntemCa) | [Rubytates](https://open.spotify.com/artist/2Mk7yrY8Dt93tvVhyxh8Zj) | [Ciudades de Noche](https://open.spotify.com/album/2XTsyhYLGwtCAfqqkfEUrd) | 3:32 |
 | 40 | [Daikiri](https://open.spotify.com/track/44HnCocL3nA1J795oIdNgu) | [Simon Grossmann](https://open.spotify.com/artist/6t38N9HASTn9ca0PIxfReQ) | [Bahía Margarita](https://open.spotify.com/album/0wAN9WxtYgJUdIEczdzF2l) | 3:57 |
@@ -78,4 +78,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX31cAExLdyNB.md) - [plain]
 | 68 | [Invierno \(Remix\)](https://open.spotify.com/track/2cNVGRkB0MdDESK3C0F9le) | [Vesica Piscis](https://open.spotify.com/artist/215IxsTB1f6DHjI84nXJm6), [Techno Para Dos](https://open.spotify.com/artist/16KDZP134RdE0F1peBL56h), [Alondra Máynez](https://open.spotify.com/artist/4LFCPWxW51fAgEc9hauRBd) | [Invierno \(Remix\)](https://open.spotify.com/album/30Han0zDAnO6FpGgytDYfj) | 4:45 |
 | 69 | [Vine Hasta Marte](https://open.spotify.com/track/2QESbnic0tiuE32iosLu6s) | [Cohetes](https://open.spotify.com/artist/2GufoITj4S642hU8qARWyQ) | [Vine Hasta Marte](https://open.spotify.com/album/7KMhR1LUULSVFR4SRFkKMg) | 3:44 |
 
-Snapshot ID: `MCxmMTRjYzBkYjM3ZTJhODg2N2UzY2VmNzhhNTI1MjIyNzZhMTkyMWQz`
+Snapshot ID: `MCxmYmZiNTRlNDlmODVjZTM5MGVlYzk0Y2NiMmQyNTJmYmE0MjVlNzJj`

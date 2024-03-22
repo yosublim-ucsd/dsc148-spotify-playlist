@@ -1,12 +1,12 @@
 {
   "description": "A neo-classic sound for the road. Cover: Thee Sacred Souls",
-  "num_followers": 131807,
+  "num_followers": 131841,
   "original_name": "Retro Road Trip",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0ODFjZDI1NTIzYTdhMDZlMzk4Yjc4ZGEyZGIzMWZlM2RkYmRhZDI2",
+  "snapshot_id": "MCw3NjY0Y2RiYzMyMDFhZWM3MGFiZDFlOWVkNmMwMDM4NjlkNmY1MTRh",
   "tracks": [
     {
       "added_at": "2023-07-14 04:01:00",
@@ -479,22 +479,6 @@
     {
       "added_at": "2021-07-13 21:11:09",
       "album": {
-        "name": "I Learned the Hard Way",
-        "url": "https://open.spotify.com/album/7tsqjPwOhgPOWHgp9RHYi6"
-      },
-      "artists": [
-        {
-          "name": "Sharon Jones & The Dap-Kings",
-          "url": "https://open.spotify.com/artist/6LufpoVlIYKQCu9Gjpk8B7"
-        }
-      ],
-      "duration_ms": 219613,
-      "name": "Better Things",
-      "url": "https://open.spotify.com/track/2dwzy3ZOiNbJ8TBGmVb8bw"
-    },
-    {
-      "added_at": "2021-07-13 21:11:09",
-      "album": {
         "name": "Whatever It Takes",
         "url": "https://open.spotify.com/album/5xS12JJKDNn0UNflrA9nUW"
       },
@@ -507,6 +491,22 @@
       "duration_ms": 205306,
       "name": "I Don't Wanna Be Without You",
       "url": "https://open.spotify.com/track/60GhwolkzE34HEvbf46RzX"
+    },
+    {
+      "added_at": "2021-07-13 21:11:09",
+      "album": {
+        "name": "I Learned the Hard Way",
+        "url": "https://open.spotify.com/album/7tsqjPwOhgPOWHgp9RHYi6"
+      },
+      "artists": [
+        {
+          "name": "Sharon Jones & The Dap-Kings",
+          "url": "https://open.spotify.com/artist/6LufpoVlIYKQCu9Gjpk8B7"
+        }
+      ],
+      "duration_ms": 219613,
+      "name": "Better Things",
+      "url": "https://open.spotify.com/track/2dwzy3ZOiNbJ8TBGmVb8bw"
     },
     {
       "added_at": "2021-07-13 21:11:09",
@@ -853,22 +853,6 @@
       "url": "https://open.spotify.com/track/5z4Yope4ol84bdZtw1Eo4D"
     },
     {
-      "added_at": "2021-07-13 21:11:09",
-      "album": {
-        "name": "Better Days",
-        "url": "https://open.spotify.com/album/4MZ5qPP8QoreQg8523bGYr"
-      },
-      "artists": [
-        {
-          "name": "The Meltdown",
-          "url": "https://open.spotify.com/artist/6O0WkZMlHi7yqizwsA8uVf"
-        }
-      ],
-      "duration_ms": 224204,
-      "name": "Such a Fool",
-      "url": "https://open.spotify.com/track/0juFIORkejdNLIZcFBalM2"
-    },
-    {
       "added_at": "2022-12-13 18:45:33",
       "album": {
         "name": "Call It Home, Vol. 1",
@@ -883,6 +867,22 @@
       "duration_ms": 275346,
       "name": "Live Learn",
       "url": "https://open.spotify.com/track/1pRjwKEEx9ddfevbXNyJdi"
+    },
+    {
+      "added_at": "2021-07-13 21:11:09",
+      "album": {
+        "name": "Better Days",
+        "url": "https://open.spotify.com/album/4MZ5qPP8QoreQg8523bGYr"
+      },
+      "artists": [
+        {
+          "name": "The Meltdown",
+          "url": "https://open.spotify.com/artist/6O0WkZMlHi7yqizwsA8uVf"
+        }
+      ],
+      "duration_ms": 224204,
+      "name": "Such a Fool",
+      "url": "https://open.spotify.com/track/0juFIORkejdNLIZcFBalM2"
     },
     {
       "added_at": "2021-07-13 21:11:09",
@@ -1057,22 +1057,6 @@
       "url": "https://open.spotify.com/track/4KIoUrQlMx3PFtRmPNbgAv"
     },
     {
-      "added_at": "2021-07-13 21:11:09",
-      "album": {
-        "name": "Black Joe Lewis & The Honeybears",
-        "url": "https://open.spotify.com/album/090X467JS4xj4diMdewTZs"
-      },
-      "artists": [
-        {
-          "name": "Black Joe Lewis & The Honeybears",
-          "url": "https://open.spotify.com/artist/6kbzJ40luXJ5IKnSpWr7SD"
-        }
-      ],
-      "duration_ms": 164306,
-      "name": "Bitch, I Love You",
-      "url": "https://open.spotify.com/track/6XxsaUGWRXc30HgewJ10M8"
-    },
-    {
       "added_at": "2021-10-29 04:01:00",
       "album": {
         "name": "Starchild",
@@ -1087,6 +1071,22 @@
       "duration_ms": 231853,
       "name": "Dreams",
       "url": "https://open.spotify.com/track/1Wntxxt7R2mwfa4bDfAa5h"
+    },
+    {
+      "added_at": "2021-07-13 21:11:09",
+      "album": {
+        "name": "Black Joe Lewis & The Honeybears",
+        "url": "https://open.spotify.com/album/090X467JS4xj4diMdewTZs"
+      },
+      "artists": [
+        {
+          "name": "Black Joe Lewis & The Honeybears",
+          "url": "https://open.spotify.com/artist/6kbzJ40luXJ5IKnSpWr7SD"
+        }
+      ],
+      "duration_ms": 164306,
+      "name": "Bitch, I Love You",
+      "url": "https://open.spotify.com/track/6XxsaUGWRXc30HgewJ10M8"
     },
     {
       "added_at": "2021-07-13 21:11:09",
@@ -1299,18 +1299,18 @@
     {
       "added_at": "2021-07-13 21:11:09",
       "album": {
-        "name": "Face Your Fear",
-        "url": "https://open.spotify.com/album/3Can2qB9S1pOcElpkfExB1"
+        "name": "Inside Voice",
+        "url": "https://open.spotify.com/album/7znS7xCpnfBvXPIom6HAof"
       },
       "artists": [
         {
-          "name": "Curtis Harding",
-          "url": "https://open.spotify.com/artist/0CUpzKPDfIVzYqMn47jiV3"
+          "name": "Joey Dosik",
+          "url": "https://open.spotify.com/artist/3kANxNTLNOhxpOPoCbGq9E"
         }
       ],
-      "duration_ms": 241706,
-      "name": "On And On",
-      "url": "https://open.spotify.com/track/2NwwdNPSlvoRBqomWa4S2N"
+      "duration_ms": 219200,
+      "name": "In Heaven",
+      "url": "https://open.spotify.com/track/0aLx2oyqTSgqeLGEoTIFP9"
     },
     {
       "added_at": "2021-07-13 21:11:09",
@@ -1339,18 +1339,18 @@
     {
       "added_at": "2021-07-13 21:11:09",
       "album": {
-        "name": "Inside Voice",
-        "url": "https://open.spotify.com/album/7znS7xCpnfBvXPIom6HAof"
+        "name": "Face Your Fear",
+        "url": "https://open.spotify.com/album/3Can2qB9S1pOcElpkfExB1"
       },
       "artists": [
         {
-          "name": "Joey Dosik",
-          "url": "https://open.spotify.com/artist/3kANxNTLNOhxpOPoCbGq9E"
+          "name": "Curtis Harding",
+          "url": "https://open.spotify.com/artist/0CUpzKPDfIVzYqMn47jiV3"
         }
       ],
-      "duration_ms": 219200,
-      "name": "In Heaven",
-      "url": "https://open.spotify.com/track/0aLx2oyqTSgqeLGEoTIFP9"
+      "duration_ms": 241706,
+      "name": "On And On",
+      "url": "https://open.spotify.com/track/2NwwdNPSlvoRBqomWa4S2N"
     },
     {
       "added_at": "2021-07-13 21:11:09",
@@ -1403,6 +1403,22 @@
     {
       "added_at": "2021-07-13 21:11:09",
       "album": {
+        "name": "Queen Alone",
+        "url": "https://open.spotify.com/album/6k2kl7wWK57baFDPkpN9It"
+      },
+      "artists": [
+        {
+          "name": "Lady Wray",
+          "url": "https://open.spotify.com/artist/1plioVQ0mcgAO7uhvWkJJy"
+        }
+      ],
+      "duration_ms": 137320,
+      "name": "In Love (Don't Mess Things Up)",
+      "url": "https://open.spotify.com/track/4SgWwPLqJ08Y1HuoIpFJX4"
+    },
+    {
+      "added_at": "2021-07-13 21:11:09",
+      "album": {
         "name": "A Change Is Gonna Come",
         "url": "https://open.spotify.com/album/5sP7f67CACltHoODXenmhw"
       },
@@ -1419,22 +1435,6 @@
       "duration_ms": 276609,
       "name": "A Change Is Gonna Come",
       "url": "https://open.spotify.com/track/2RONhC3MSnfZx3P7b3csF5"
-    },
-    {
-      "added_at": "2021-07-13 21:11:09",
-      "album": {
-        "name": "Queen Alone",
-        "url": "https://open.spotify.com/album/6k2kl7wWK57baFDPkpN9It"
-      },
-      "artists": [
-        {
-          "name": "Lady Wray",
-          "url": "https://open.spotify.com/artist/1plioVQ0mcgAO7uhvWkJJy"
-        }
-      ],
-      "duration_ms": 137320,
-      "name": "In Love (Don't Mess Things Up)",
-      "url": "https://open.spotify.com/track/4SgWwPLqJ08Y1HuoIpFJX4"
     },
     {
       "added_at": "2021-07-13 21:11:09",
@@ -1469,22 +1469,6 @@
       "url": "https://open.spotify.com/track/1dy31zSEQsyAv4HVKRmUOB"
     },
     {
-      "added_at": "2021-09-10 04:02:00",
-      "album": {
-        "name": "If Words Were Flowers",
-        "url": "https://open.spotify.com/album/0msliOKoJh1aYmcpuEoBn2"
-      },
-      "artists": [
-        {
-          "name": "Curtis Harding",
-          "url": "https://open.spotify.com/artist/0CUpzKPDfIVzYqMn47jiV3"
-        }
-      ],
-      "duration_ms": 199640,
-      "name": "Can't Hide It",
-      "url": "https://open.spotify.com/track/6cJZx1AeXC7CIi6xZrJQq7"
-    },
-    {
       "added_at": "2021-07-13 21:11:09",
       "album": {
         "name": "Something to Say",
@@ -1503,6 +1487,22 @@
       "duration_ms": 232040,
       "name": "Happy Days",
       "url": "https://open.spotify.com/track/0XXgkLA2n6wpTlMG3V3VDm"
+    },
+    {
+      "added_at": "2021-09-10 04:02:00",
+      "album": {
+        "name": "If Words Were Flowers",
+        "url": "https://open.spotify.com/album/0msliOKoJh1aYmcpuEoBn2"
+      },
+      "artists": [
+        {
+          "name": "Curtis Harding",
+          "url": "https://open.spotify.com/artist/0CUpzKPDfIVzYqMn47jiV3"
+        }
+      ],
+      "duration_ms": 199640,
+      "name": "Can't Hide It",
+      "url": "https://open.spotify.com/track/6cJZx1AeXC7CIi6xZrJQq7"
     },
     {
       "added_at": "2021-07-13 21:11:09",
@@ -1539,22 +1539,6 @@
     {
       "added_at": "2021-07-13 21:11:09",
       "album": {
-        "name": "Black Hole Rainbow",
-        "url": "https://open.spotify.com/album/0F6GEmGd1mErhB4Ie2d2So"
-      },
-      "artists": [
-        {
-          "name": "Devon Gilfillian",
-          "url": "https://open.spotify.com/artist/5cbak2U6nZWXDYiG72E3lH"
-        }
-      ],
-      "duration_ms": 245080,
-      "name": "The Good Life",
-      "url": "https://open.spotify.com/track/2tiq10rhGegBQmBa81etVS"
-    },
-    {
-      "added_at": "2021-07-13 21:11:09",
-      "album": {
         "name": "Honest Man",
         "url": "https://open.spotify.com/album/2DFtAZAQAHY7GGDPgljPC2"
       },
@@ -1567,6 +1551,22 @@
       "duration_ms": 325145,
       "name": "Honest Man",
       "url": "https://open.spotify.com/track/5xdEYxSLIF1b7WC9NAHdcX"
+    },
+    {
+      "added_at": "2021-07-13 21:11:09",
+      "album": {
+        "name": "Black Hole Rainbow",
+        "url": "https://open.spotify.com/album/0F6GEmGd1mErhB4Ie2d2So"
+      },
+      "artists": [
+        {
+          "name": "Devon Gilfillian",
+          "url": "https://open.spotify.com/artist/5cbak2U6nZWXDYiG72E3lH"
+        }
+      ],
+      "duration_ms": 245080,
+      "name": "The Good Life",
+      "url": "https://open.spotify.com/track/2tiq10rhGegBQmBa81etVS"
     },
     {
       "added_at": "2021-07-13 21:11:09",
@@ -1601,22 +1601,6 @@
       "url": "https://open.spotify.com/track/5QZdS4lYhW27Y8RJGSdPfV"
     },
     {
-      "added_at": "2022-12-13 18:45:33",
-      "album": {
-        "name": "Fighting for Peace",
-        "url": "https://open.spotify.com/album/2IXjRTudNXd1hEczsBwcos"
-      },
-      "artists": [
-        {
-          "name": "Cory Henry",
-          "url": "https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s"
-        }
-      ],
-      "duration_ms": 202058,
-      "name": "Fighting for Peace",
-      "url": "https://open.spotify.com/track/2iYDEwzq00a571f0hbQ53g"
-    },
-    {
       "added_at": "2022-02-11 05:02:00",
       "album": {
         "name": "Written All over My Heart",
@@ -1649,20 +1633,20 @@
       "url": "https://open.spotify.com/track/41xg3SjdwFyAp0kao72944"
     },
     {
-      "added_at": "2021-07-13 21:11:09",
+      "added_at": "2022-12-13 18:45:33",
       "album": {
-        "name": "Tell 'Em What Your Name Is!",
-        "url": "https://open.spotify.com/album/3BYdrXB8qCr0ImFpKIRI8J"
+        "name": "Fighting for Peace",
+        "url": "https://open.spotify.com/album/2IXjRTudNXd1hEczsBwcos"
       },
       "artists": [
         {
-          "name": "Black Joe Lewis & The Honeybears",
-          "url": "https://open.spotify.com/artist/6kbzJ40luXJ5IKnSpWr7SD"
+          "name": "Cory Henry",
+          "url": "https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s"
         }
       ],
-      "duration_ms": 247133,
-      "name": "I'm Broke",
-      "url": "https://open.spotify.com/track/0SQs0HOHIQpnYzqCN1PSrU"
+      "duration_ms": 202058,
+      "name": "Fighting for Peace",
+      "url": "https://open.spotify.com/track/2iYDEwzq00a571f0hbQ53g"
     },
     {
       "added_at": "2022-12-13 18:45:33",
@@ -1679,6 +1663,22 @@
       "duration_ms": 204747,
       "name": "Through It All",
       "url": "https://open.spotify.com/track/65vtwc4JSGhKZJTV0Nhs3W"
+    },
+    {
+      "added_at": "2021-07-13 21:11:09",
+      "album": {
+        "name": "Tell 'Em What Your Name Is!",
+        "url": "https://open.spotify.com/album/3BYdrXB8qCr0ImFpKIRI8J"
+      },
+      "artists": [
+        {
+          "name": "Black Joe Lewis & The Honeybears",
+          "url": "https://open.spotify.com/artist/6kbzJ40luXJ5IKnSpWr7SD"
+        }
+      ],
+      "duration_ms": 247133,
+      "name": "I'm Broke",
+      "url": "https://open.spotify.com/track/0SQs0HOHIQpnYzqCN1PSrU"
     },
     {
       "added_at": "2021-07-13 21:11:09",
@@ -1837,22 +1837,6 @@
       "url": "https://open.spotify.com/track/5qVgjRn125fERbF5bY7Zvb"
     },
     {
-      "added_at": "2023-07-14 04:01:00",
-      "album": {
-        "name": "Wait Til I Get Over",
-        "url": "https://open.spotify.com/album/3t5PKVYlbYXIiLIRDPPkp4"
-      },
-      "artists": [
-        {
-          "name": "Durand Jones",
-          "url": "https://open.spotify.com/artist/099J9XcZ0A8kXtBANb5WCs"
-        }
-      ],
-      "duration_ms": 204024,
-      "name": "See It Through",
-      "url": "https://open.spotify.com/track/1tqFGTmcaNNusdArPOU0kj"
-    },
-    {
       "added_at": "2021-07-13 21:11:09",
       "album": {
         "name": "The Killion Floor",
@@ -1871,6 +1855,22 @@
       "duration_ms": 216333,
       "name": "Who Knows Who",
       "url": "https://open.spotify.com/track/6wZ0dZ5ZAb0Ufl70Ft0fzg"
+    },
+    {
+      "added_at": "2023-07-14 04:01:00",
+      "album": {
+        "name": "Wait Til I Get Over",
+        "url": "https://open.spotify.com/album/3t5PKVYlbYXIiLIRDPPkp4"
+      },
+      "artists": [
+        {
+          "name": "Durand Jones",
+          "url": "https://open.spotify.com/artist/099J9XcZ0A8kXtBANb5WCs"
+        }
+      ],
+      "duration_ms": 204024,
+      "name": "See It Through",
+      "url": "https://open.spotify.com/track/1tqFGTmcaNNusdArPOU0kj"
     },
     {
       "added_at": "2021-07-13 21:11:09",
@@ -2013,28 +2013,20 @@
       "url": "https://open.spotify.com/track/6Wxm950nfluMnIt3YsF2RT"
     },
     {
-      "added_at": "2021-10-29 04:01:00",
+      "added_at": "2021-07-13 21:11:09",
       "album": {
-        "name": "WE ARE (The Deluxe Edition)",
-        "url": "https://open.spotify.com/album/24bfr8pz2nOP8X4WioInsy"
+        "name": "High On You",
+        "url": "https://open.spotify.com/album/1wtPKN1ppxjJT7ywdcnvzy"
       },
       "artists": [
         {
-          "name": "Jon Batiste",
-          "url": "https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU"
-        },
-        {
-          "name": "BJ The Chicago Kid",
-          "url": "https://open.spotify.com/artist/07d5etnpjriczFBB8pxmRe"
-        },
-        {
-          "name": "Hot 8 Brass Band",
-          "url": "https://open.spotify.com/artist/1lvVzEkQ4u72rrZ7bNUkcD"
+          "name": "Jeangu Macrooy",
+          "url": "https://open.spotify.com/artist/3t9HafA5eFHM992s4GZ0Gr"
         }
       ],
-      "duration_ms": 223815,
-      "name": "ADULTHOOD",
-      "url": "https://open.spotify.com/track/0jqWdGvgLX2oOG70eIcwko"
+      "duration_ms": 203488,
+      "name": "High On You",
+      "url": "https://open.spotify.com/track/6Vbv1NYbnegCxzWx1hC65b"
     }
   ],
   "unique_name": "Retro Road Trip",

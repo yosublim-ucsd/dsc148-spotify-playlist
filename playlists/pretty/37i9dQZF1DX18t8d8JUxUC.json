@@ -1,12 +1,12 @@
 {
   "description": "This is what folk sounds like en espa\u00f1ol. Cover: Kevin Kaarl",
-  "num_followers": 20874,
+  "num_followers": 20901,
   "original_name": "Latin Folk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5MWI0MjA0YTAyNzg1ZTM1MDU4MDVmY2ZiOWE5ZjMzNTgwZjY3NzRi",
+  "snapshot_id": "MCxlZjcxNmRkYTk4NGYzYWE3YzIwODQxYTM2YThhMzZkZjg2ZDlkODZh",
   "tracks": [
     {
       "added_at": "2024-03-15 04:00:00",
@@ -379,6 +379,22 @@
     {
       "added_at": "2024-03-15 04:00:00",
       "album": {
+        "name": "Wacha Checa",
+        "url": "https://open.spotify.com/album/72q9OpG5SNz6dZeT6gFVKY"
+      },
+      "artists": [
+        {
+          "name": "Caloncho",
+          "url": "https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA"
+        }
+      ],
+      "duration_ms": 217693,
+      "name": "Wacha Checa",
+      "url": "https://open.spotify.com/track/6jLWCKkuqRS9zKd0PcdvdN"
+    },
+    {
+      "added_at": "2024-03-15 04:00:00",
+      "album": {
         "name": "Canci\u00f3n Sin Miedo",
         "url": "https://open.spotify.com/album/2wr1HIJ0Pzv7OzhdFH8nBQ"
       },
@@ -399,18 +415,18 @@
     {
       "added_at": "2024-03-15 04:00:00",
       "album": {
-        "name": "Wacha Checa",
-        "url": "https://open.spotify.com/album/72q9OpG5SNz6dZeT6gFVKY"
+        "name": "Me Gustas",
+        "url": "https://open.spotify.com/album/0NWOe4cctQ2NxLbXkMiO91"
       },
       "artists": [
         {
-          "name": "Caloncho",
-          "url": "https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA"
+          "name": "TIM\u00d8",
+          "url": "https://open.spotify.com/artist/1KfRf4VkEYpL2G0FTWb7JX"
         }
       ],
-      "duration_ms": 217693,
-      "name": "Wacha Checa",
-      "url": "https://open.spotify.com/track/6jLWCKkuqRS9zKd0PcdvdN"
+      "duration_ms": 172926,
+      "name": "Me Gustas",
+      "url": "https://open.spotify.com/track/3MKBzb0FJQB5LOhCe0s8nN"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -427,22 +443,6 @@
       "duration_ms": 191448,
       "name": "las consecuencias",
       "url": "https://open.spotify.com/track/0x3M7EQkASM6NQW53mNK9d"
-    },
-    {
-      "added_at": "2024-03-15 04:00:00",
-      "album": {
-        "name": "Me Gustas",
-        "url": "https://open.spotify.com/album/0NWOe4cctQ2NxLbXkMiO91"
-      },
-      "artists": [
-        {
-          "name": "TIM\u00d8",
-          "url": "https://open.spotify.com/artist/1KfRf4VkEYpL2G0FTWb7JX"
-        }
-      ],
-      "duration_ms": 172926,
-      "name": "Me Gustas",
-      "url": "https://open.spotify.com/track/3MKBzb0FJQB5LOhCe0s8nN"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -939,26 +939,6 @@
     {
       "added_at": "2024-03-15 04:00:00",
       "album": {
-        "name": "Aroma A Nostalgia (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/3K6S0Mt1ZMrcjuCiOztmBJ"
-      },
-      "artists": [
-        {
-          "name": "Daniel Qui\u00e9n",
-          "url": "https://open.spotify.com/artist/3zxodnZ10PEbv27ixLeQdQ"
-        },
-        {
-          "name": "Bratty",
-          "url": "https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn"
-        }
-      ],
-      "duration_ms": 351413,
-      "name": "Otros Colores",
-      "url": "https://open.spotify.com/track/6VbEA6Zk7964dwD2fd2HbD"
-    },
-    {
-      "added_at": "2024-03-15 04:00:00",
-      "album": {
         "name": "My Best Self",
         "url": "https://open.spotify.com/album/2z07bBhBWhhCEuGPD6FiEl"
       },
@@ -975,6 +955,26 @@
       "duration_ms": 185823,
       "name": "My Best Self",
       "url": "https://open.spotify.com/track/58e3Ax9ugjBhlSd5V0pMH1"
+    },
+    {
+      "added_at": "2024-03-15 04:00:00",
+      "album": {
+        "name": "Aroma A Nostalgia (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/3K6S0Mt1ZMrcjuCiOztmBJ"
+      },
+      "artists": [
+        {
+          "name": "Daniel Qui\u00e9n",
+          "url": "https://open.spotify.com/artist/3zxodnZ10PEbv27ixLeQdQ"
+        },
+        {
+          "name": "Bratty",
+          "url": "https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn"
+        }
+      ],
+      "duration_ms": 351413,
+      "name": "Otros Colores",
+      "url": "https://open.spotify.com/track/6VbEA6Zk7964dwD2fd2HbD"
     },
     {
       "added_at": "2024-03-15 04:00:00",

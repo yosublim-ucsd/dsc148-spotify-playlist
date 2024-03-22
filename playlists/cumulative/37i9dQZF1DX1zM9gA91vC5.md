@@ -4,7 +4,7 @@
 
 > Concentração no máximo, sem distrações.
 
-972 songs - 1 day 18 hr 5 min
+975 songs - 1 day 18 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -162,7 +162,7 @@
 | [Cloudy Waltz](https://open.spotify.com/track/5aMf0OItsp4ogKpcbrGrMP) | [Eric Cadogan](https://open.spotify.com/artist/7a0TJP7Zpr9ROvnR3ijADo) | [Cloudy Waltz](https://open.spotify.com/album/2D69fjIPFDklMPISFpy64H) | 2:01 | 2020-08-14\* | 2022-06-08 |
 | [Colours](https://open.spotify.com/track/7x9uO7wEdRrqtlDhqlCILt) | [Vivian Roost](https://open.spotify.com/artist/7aCsFWCF4YljmoHrXRA63I) | [Colours](https://open.spotify.com/album/3Kc6V9aOSHmpLVl2UrGjgn) | 3:06 | 2022-05-05 | 2022-07-20 |
 | [Coming Home](https://open.spotify.com/track/71m2wUi0w4bQHDqloMQg5c) | [Catherine Peterson](https://open.spotify.com/artist/4w0JSW4wf4K5yYsruCZEbV) | [Coming Home](https://open.spotify.com/album/3Gi20dWoDXkD68d73yiM6S) | 2:35 | 2023-10-17 |  |
-| [Con el tiempo todo se consigue](https://open.spotify.com/track/7iw3S9vmaQYrdp9fUh4gzC) | [Claribel Ramón](https://open.spotify.com/artist/2R6KwyIVkDBMHj2fNvy6Aq) | [Con el tiempo todo se consigue](https://open.spotify.com/album/2IyGImJyMeoaxHpCfFDMoJ) | 2:35 | 2020-08-14\* |  |
+| [Con el tiempo todo se consigue](https://open.spotify.com/track/7iw3S9vmaQYrdp9fUh4gzC) | [Claribel Ramón](https://open.spotify.com/artist/2R6KwyIVkDBMHj2fNvy6Aq) | [Con el tiempo todo se consigue](https://open.spotify.com/album/2IyGImJyMeoaxHpCfFDMoJ) | 2:35 | 2020-08-14\* | 2024-03-22 |
 | [Con Le Zampe](https://open.spotify.com/track/1Ypn8gv9pyrGVaVvbxfWWf) | [Pied\-à\-Terre](https://open.spotify.com/artist/3FChImdCbv0x9AYfNzGfvQ) | [Con Le Zampe](https://open.spotify.com/album/7GqLrlOGywYZNFSgOp1KZT) | 2:34 | 2021-10-17 | 2023-12-06 |
 | [Confession](https://open.spotify.com/track/7IhjDHQ2l4uRgyRNkWgbWt) | [Michael Frankenberger](https://open.spotify.com/artist/4LKXdZFgLqP1Yozo8I28jJ) | [Confession](https://open.spotify.com/album/7CSswOSFP7HjwUzXWhZYiT) | 2:29 | 2022-03-16 | 2022-07-20 |
 | [Contemplation](https://open.spotify.com/track/1CzzOIi8GHxhzCaovIHYz4) | [Melody of Sound](https://open.spotify.com/artist/1jbj3bUyRhQ8FqU55nERZ4) | [Contemplation](https://open.spotify.com/album/1bjQy5fBUfZI24oR9A7Ttx) | 2:24 | 2021-07-01 | 2022-12-24 |
@@ -370,6 +370,7 @@
 | [Immersion](https://open.spotify.com/track/2n07NKEPbQ1ABTvhTGJcYj) | [Ellie\-May Robertson](https://open.spotify.com/artist/7Ce1uDyyat0uJpzu7CDaEI) | [Immersion](https://open.spotify.com/album/2PitqdH877qhO9IIpPrKXi) | 2:24 | 2021-12-07 |  |
 | [Immunity](https://open.spotify.com/track/1ldGVJUNxjUDAJp0vZLMq5) | [Gustav Joseph](https://open.spotify.com/artist/4OmBF3DAzkChj8syahpTE2) | [Immunity](https://open.spotify.com/album/3MCDGAFOlybe44afddEGqa) | 2:36 | 2021-03-29 | 2023-10-15 |
 | [Impact](https://open.spotify.com/track/5TWGzcdRlJzdY93R7ydCYv) | [Dean Caplan](https://open.spotify.com/artist/5S8R73SrnsbicfhME9Ix5q) | [The Triple](https://open.spotify.com/album/29ArlRng14CcEZvAP7MqCh) | 2:47 | 2021-04-10 | 2021-10-28 |
+| [In A Darkened Room](https://open.spotify.com/track/0iVMAdJchuoG3DqPBu1450) | [Luiza Schmidt](https://open.spotify.com/artist/6cGebk3cSumbL2uYiLp2tV) | [In A Darkened Room](https://open.spotify.com/album/30jOl0PWPzrFJrYnIFC1QC) | 2:18 | 2024-03-19 |  |
 | [In Her Eyes](https://open.spotify.com/track/6j7oy3wYC1nCTBIaCOrjBZ) | [Jason Larochelle](https://open.spotify.com/artist/7kcvfIpjUHTrhLgi4Qcg7P) | [In Her Eyes](https://open.spotify.com/album/1gtbwDe43hTwj2aOrGWRMG) | 2:28 | 2020-08-14\* | 2020-08-20 |
 | [In Qualsiasi Momento](https://open.spotify.com/track/19UBwInMQqv987LmQdvu6I) | [Gionata Accursio](https://open.spotify.com/artist/5xz3FUiqpxBD1z2u6SPx09) | [In Qualsiasi Momento](https://open.spotify.com/album/2eOVzvYDY3OHTeta59uCMQ) | 2:44 | 2021-10-13 | 2022-12-24 |
 | [In questo momento](https://open.spotify.com/track/0otUJIiSxqBCw2TQGfrIE3) | [Eliodoro Russo](https://open.spotify.com/artist/3Kasxqqp5JRtK0lAuWTG7k) | [In questo momento](https://open.spotify.com/album/5URiTefnul03fUwxzDS7Jo) | 2:40 | 2021-03-27 | 2022-07-20 |
@@ -421,7 +422,7 @@
 | [L'absinthe brûle](https://open.spotify.com/track/5ruWr0aK2jrTmce9zbrPeg) | [Biba Dupont](https://open.spotify.com/artist/7vwpKCVjqvSn8RVOhD38g9) | [L'absinthe brûle](https://open.spotify.com/album/7MEV1fh1fhUPyt3ClGUz7Q) | 2:22 | 2020-08-14\* | 2022-09-24 |
 | [L'estétique](https://open.spotify.com/track/7jTY0nAzuv2Gm3Y7MCQR5Z) | [Elena Miguel](https://open.spotify.com/artist/5gK5I1IIdNR5gZNGhYuJLD) | [L'estétique](https://open.spotify.com/album/6nDRfDYFbnuhstYE9OBjTO) | 1:59 | 2020-11-12 | 2023-07-25 |
 | [La Cosa Migliore Che So](https://open.spotify.com/track/2ad6KC9V4jvAB73Z5nWrFF) | [Loreto Bianco](https://open.spotify.com/artist/7DH3PpYqclWL9RpXN4B2PC) | [La Cosa Migliore Che So](https://open.spotify.com/album/6Jd4loeXMsmKpbvxFPnfm2) | 3:14 | 2021-12-07 | 2023-05-04 |
-| [La Storia](https://open.spotify.com/track/3U5RTSxDKkhA6rtHEXpI6H) | [Alexander Descartes](https://open.spotify.com/artist/0eDPH1f3HFDuveG1kKeOKK) | [La Storia](https://open.spotify.com/album/0c7N8i0rJZjFJmNn1dkMOe) | 2:44 | 2020-08-14\* |  |
+| [La Storia](https://open.spotify.com/track/3U5RTSxDKkhA6rtHEXpI6H) | [Alexander Descartes](https://open.spotify.com/artist/0eDPH1f3HFDuveG1kKeOKK) | [La Storia](https://open.spotify.com/album/0c7N8i0rJZjFJmNn1dkMOe) | 2:44 | 2020-08-14\* | 2024-03-22 |
 | [Lacrimosa](https://open.spotify.com/track/5NI4ztzijs8sqoxlhqNleo) | [Lucas Vendrai](https://open.spotify.com/artist/5mo25h1sQIVjZ4gIgIK2Lm) | [Lacrimosa](https://open.spotify.com/album/46QupwR45OEVm0U7ZpyxxF) | 1:58 | 2020-08-14\* | 2021-08-17 |
 | [Lady Ground](https://open.spotify.com/track/7f6YYO3XtJgWiddeVqnhI0) | [Luna Bauer](https://open.spotify.com/artist/22YRwLt9mmQWkX8wst7Md1) | [Lady Ground](https://open.spotify.com/album/2yFKE5lcraojoSTsV7Jl0a) | 2:54 | 2021-09-16 | 2022-04-22 |
 | [Laiski](https://open.spotify.com/track/6gZhFlpLE3Db3yvOI3lR4p) | [Taganema](https://open.spotify.com/artist/6b9S5hXIpAB6V7vyiKdr3d) | [Laiski](https://open.spotify.com/album/3sSuYj8MOCvxON4t84vdek) | 1:55 | 2023-05-03 | 2023-07-25 |
@@ -542,6 +543,7 @@
 | [Morning Skyline](https://open.spotify.com/track/0W9zDuwcQaRyxk7Z4peRmM) | [Dale Brenan](https://open.spotify.com/artist/3SZHAoiLC6bI4R1Ih2iD5W) | [Morning Skyline](https://open.spotify.com/album/3a54uonmLjDZ9vH1TnXNvs) | 2:29 | 2021-03-27 | 2022-09-24 |
 | [Morning Sun](https://open.spotify.com/track/3qp1ushu4Ve2Vl5keFaUDM) | [Irma Kantola](https://open.spotify.com/artist/7eP5EaPos8EeIsG7UJfEVP) | [Morning Sun](https://open.spotify.com/album/0Mtut04kbP2YfeFRqOMfoU) | 2:27 | 2020-08-14\* | 2020-09-02 |
 | [Morning\-Star](https://open.spotify.com/track/7x29ikGEInCzC5IrN3zMhI) | [Avi Mehta](https://open.spotify.com/artist/6IVlVzl5f2aKF9GORwMkoi) | [Morning\-Star](https://open.spotify.com/album/1Rl1DJxb2b5XCWOVD1xrBo) | 3:00 | 2022-03-01 | 2022-12-24 |
+| [Mornings With You](https://open.spotify.com/track/1eJ4ZttuJo0O4hFTVUbT1t) | [Noella Russo](https://open.spotify.com/artist/2zgddkOsrXf0cnPquq6N59) | [Mornings With You](https://open.spotify.com/album/0XxTFCTiJE90ttX2klGpMf) | 2:19 | 2024-03-19 |  |
 | [Mother May I](https://open.spotify.com/track/46yWOqnL99hM5O7OD0Y8Tf) | [Xie Qi](https://open.spotify.com/artist/6HFojJ4dKdfE6sHHB1XZpb) | [Mother May I](https://open.spotify.com/album/5nJnrCHJTzd429URLTrfch) | 2:34 | 2020-12-03 | 2022-05-06 |
 | [Mursejler](https://open.spotify.com/track/4WsMQ3rw3Y5JPHIgJcG8Qc) | [Jacob David](https://open.spotify.com/artist/2ClAWj3iKUlyddnvR6faUP) | [Mursejler](https://open.spotify.com/album/1NIXN7r0W9hiSVB4cw9bPa) | 2:58 | 2021-02-11 | 2021-10-11 |
 | [Muse \(Single\)](https://open.spotify.com/track/0KFDSdhoFkTA9dpavEGpp6) | [Karen LeFrak](https://open.spotify.com/artist/7w0W3SxEy226zQlm1eMnXo), [Jacques van Tuinen](https://open.spotify.com/artist/2cJHx9ShBZorTEnZbVv5nz) | [Muse \(Single\)](https://open.spotify.com/album/6GUw5VAhzMvOlGcqSmcl9b) | 2:06 | 2021-05-21 | 2022-04-22 |
@@ -610,7 +612,7 @@
 | [Peaceful Ignorance](https://open.spotify.com/track/5bGPLVJlI19XA1Oi4XtdEV) | [Evening Tales from the Stars](https://open.spotify.com/artist/4VftS6I87aCiaNvLRYhgBM) | [Peaceful Ignorance](https://open.spotify.com/album/6BGZkVmgfvJvsHGlK6Ri16) | 2:38 | 2023-09-05 | 2023-11-01 |
 | [Peaceful Plains](https://open.spotify.com/track/3LAyYOLbeCIndEEOb2ksSJ) | [Neon Riab](https://open.spotify.com/artist/0OkfroQB6K6gfa3TQ9ehim) | [Peaceful Plains](https://open.spotify.com/album/0KAtFzFkJOWnqhEbsEdZ74) | 1:55 | 2020-08-14\* | 2020-09-30 |
 | [Peaceful Rebellion](https://open.spotify.com/track/55as6jfARR6xn5g0ZxChCA) | [Janet Redger](https://open.spotify.com/artist/7303TPICVC0WJvWy0FVstL) | [Peaceful Rebellion](https://open.spotify.com/album/57Pg8ejZM8WiXzduIW1SXI) | 2:19 | 2022-02-01 |  |
-| [Pedal Chair](https://open.spotify.com/track/7BcH01qQ67ZUStmNC4qhk8) | [Lenox Blake](https://open.spotify.com/artist/27AR7w3aKM7We9eLVS4JRk) | [Beach Think](https://open.spotify.com/album/1IzBoOSHSHN2pjxOB3GbEv) | 2:14 | 2021-11-25 |  |
+| [Pedal Chair](https://open.spotify.com/track/7BcH01qQ67ZUStmNC4qhk8) | [Lenox Blake](https://open.spotify.com/artist/27AR7w3aKM7We9eLVS4JRk) | [Beach Think](https://open.spotify.com/album/1IzBoOSHSHN2pjxOB3GbEv) | 2:14 | 2021-11-25 | 2024-03-22 |
 | [Peninsula](https://open.spotify.com/track/4Mdh699pUIURrBHokfrmmE) | [Pio Roque](https://open.spotify.com/artist/4E4gkQpb8xu95BYH9j9hWW) | [Peninsula](https://open.spotify.com/album/5Z02PzorLGCAxWQF157nWa) | 2:08 | 2020-08-14\* | 2023-01-28 |
 | [Peregrine](https://open.spotify.com/track/6ru4oHaeosmzYwl3ZQ4FOy) | [Stella Acorsi](https://open.spotify.com/artist/5cOxvGawKcmi9tVZ1CgYDc) | [Peregrine](https://open.spotify.com/album/52YTCEVKNlvcSpjkg4eE1Z) | 2:21 | 2022-07-19 | 2024-03-14 |
 | [Perfectly Flawed](https://open.spotify.com/track/6AdGVOupLKxDJTByA1Fs1j) | [Aiden Riedel](https://open.spotify.com/artist/77j4VlHhrvqU37GkYjwmp1) | [Perfectly Flawed](https://open.spotify.com/album/0K5ub7KMLtzFk4zM2nFiAp) | 2:47 | 2021-03-27 |  |
@@ -804,6 +806,7 @@
 | [Symposium](https://open.spotify.com/track/2FJiWb3xZQmuZhNYZRK2bJ) | [Nelson Haynes](https://open.spotify.com/artist/1rOFIl5TolohZGyTxJni75) | [Symposium](https://open.spotify.com/album/7HvhDxhYGGmKftOxbLDcum) | 2:22 | 2022-02-15 | 2022-06-08 |
 | [Tagesanbruch](https://open.spotify.com/track/1aDHl6cO56wwlqKb4hS41w) | [Johann Willmann](https://open.spotify.com/artist/2uwJWkbNwk5L4tq24kZDzB) | [Tagesanbruch](https://open.spotify.com/album/4uXGLJcC65F5HIvKc40TPN) | 2:35 | 2020-10-15 | 2021-05-20 |
 | [Tagtraum](https://open.spotify.com/track/5bNtJUg1EE3XP1dMM79Xvl) | [Lev Monticelli](https://open.spotify.com/artist/2PzaZCyLzfSqZN0Zy01Ys0) | [Im Lärchenwald](https://open.spotify.com/album/6gzewSzvAZpe24mTDvmiNy) | 2:47 | 2022-01-18 |  |
+| [Tales of This](https://open.spotify.com/track/75jwRyL9mbp1kMoYiCWoS2) | [Andrea Azzola](https://open.spotify.com/artist/0HPaw3WHFtKOTqUko3e8Nx) | [Tales of This](https://open.spotify.com/album/3cbLSK4KRqfOYi918vET66) | 2:16 | 2024-03-19 |  |
 | [Tana](https://open.spotify.com/track/0pVxjmRJvXGSZnDp2Wi9WP) | [Jakob Maler](https://open.spotify.com/artist/7b7kemtMdYD48P8Ec7MWzb) | [Tana](https://open.spotify.com/album/19M53ox1gdUcimYMaEeeDG) | 2:58 | 2022-02-01 |  |
 | [Tatínek](https://open.spotify.com/track/5V5pqhDXYtZYB1LUvrd9x1) | [Jan Kubec](https://open.spotify.com/artist/1qalElRe3QyFhucbpFX9On) | [Tatínek](https://open.spotify.com/album/4MkDaiNUnw4YUB3JBw6wtu) | 2:13 | 2020-08-14\* | 2020-09-30 |
 | [Te souviens\-tu](https://open.spotify.com/track/3mVXmQV9nn0MiQynug2nbd) | [Amandine Moulin](https://open.spotify.com/artist/0sVyGAiXwDz3NKBLpwY69j) | [Waltzes from Paris](https://open.spotify.com/album/5QNjTrkjRD32KWQZywf17x) | 2:10 | 2021-04-22 |  |

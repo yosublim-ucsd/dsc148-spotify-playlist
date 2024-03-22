@@ -1,12 +1,12 @@
 {
   "description": "Jazz soundtracks and Jazz songs from the movies.",
-  "num_followers": 155341,
+  "num_followers": 155403,
   "original_name": "Jazz Soundtracks",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5NjAwZDg2NTUyM2RiOWJhYTc5ZGIzZmQ5ZDcwZGU2ODYzODhiMzY1",
+  "snapshot_id": "MCwxYWYwMzNmOWI0ZGQ3M2YzM2FhM2U1YWJiZDQ4NjY5OGRlNDliMWUz",
   "tracks": [
     {
       "added_at": "2024-03-20 14:47:57",
@@ -759,22 +759,6 @@
     {
       "added_at": "2024-03-20 14:47:57",
       "album": {
-        "name": "Soul (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/2ffRAIZdlGEwnYE5ytIw88"
-      },
-      "artists": [
-        {
-          "name": "Jon Batiste",
-          "url": "https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU"
-        }
-      ],
-      "duration_ms": 36653,
-      "name": "Joe's Lowdown Blues",
-      "url": "https://open.spotify.com/track/71QuFppTDk7XL9q6yuJa8V"
-    },
-    {
-      "added_at": "2024-03-20 14:47:57",
-      "album": {
         "name": "Green Book (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/4b9fHw4hd1IjmdCwBqlqnZ"
       },
@@ -787,6 +771,22 @@
       "duration_ms": 81362,
       "name": "Happy Talk",
       "url": "https://open.spotify.com/track/0EyqupJcuU0fmpU4DpfY1O"
+    },
+    {
+      "added_at": "2024-03-20 14:47:57",
+      "album": {
+        "name": "Soul (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/2ffRAIZdlGEwnYE5ytIw88"
+      },
+      "artists": [
+        {
+          "name": "Jon Batiste",
+          "url": "https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU"
+        }
+      ],
+      "duration_ms": 36653,
+      "name": "Joe's Lowdown Blues",
+      "url": "https://open.spotify.com/track/71QuFppTDk7XL9q6yuJa8V"
     },
     {
       "added_at": "2024-03-20 14:47:57",
@@ -1139,22 +1139,6 @@
     {
       "added_at": "2024-03-20 14:47:57",
       "album": {
-        "name": "Babylon (Music from the Motion Picture)",
-        "url": "https://open.spotify.com/album/0jCuKxy96iDfx9JtXKRyXe"
-      },
-      "artists": [
-        {
-          "name": "Justin Hurwitz",
-          "url": "https://open.spotify.com/artist/2snm3HmsnDUDxbIChdl2Oj"
-        }
-      ],
-      "duration_ms": 130600,
-      "name": "Damascus Thump",
-      "url": "https://open.spotify.com/track/5twNVE0ofszyWolOWwjRSN"
-    },
-    {
-      "added_at": "2024-03-20 14:47:57",
-      "album": {
         "name": "Chico & Rita",
         "url": "https://open.spotify.com/album/75jbEORN0z55vVY3ZGgpkB"
       },
@@ -1171,6 +1155,22 @@
       "duration_ms": 76773,
       "name": "Sabor a M\u00ed",
       "url": "https://open.spotify.com/track/2iLxmg8G5tCx52JtnbQOke"
+    },
+    {
+      "added_at": "2024-03-20 14:47:57",
+      "album": {
+        "name": "Babylon (Music from the Motion Picture)",
+        "url": "https://open.spotify.com/album/0jCuKxy96iDfx9JtXKRyXe"
+      },
+      "artists": [
+        {
+          "name": "Justin Hurwitz",
+          "url": "https://open.spotify.com/artist/2snm3HmsnDUDxbIChdl2Oj"
+        }
+      ],
+      "duration_ms": 130600,
+      "name": "Damascus Thump",
+      "url": "https://open.spotify.com/track/5twNVE0ofszyWolOWwjRSN"
     },
     {
       "added_at": "2024-03-20 14:47:57",
@@ -1559,22 +1559,6 @@
     {
       "added_at": "2024-03-20 14:47:57",
       "album": {
-        "name": "Who Framed Roger Rabbit",
-        "url": "https://open.spotify.com/album/5LImaGrhreK6vtqqbZmdiD"
-      },
-      "artists": [
-        {
-          "name": "Alan Silvestri",
-          "url": "https://open.spotify.com/artist/0Xk15jHKly4c3AhPr5vjoA"
-        }
-      ],
-      "duration_ms": 322826,
-      "name": "Eddie's Theme",
-      "url": "https://open.spotify.com/track/37vJYapqRfu9eRfAymsPhH"
-    },
-    {
-      "added_at": "2024-03-20 14:47:57",
-      "album": {
         "name": "The Subterraneans (Original Soundtrack Recording)",
         "url": "https://open.spotify.com/album/6jF67GE8Col8R3C690pSlK"
       },
@@ -1587,6 +1571,22 @@
       "duration_ms": 164641,
       "name": "Coffee Time (from \"The Subterraneans\")",
       "url": "https://open.spotify.com/track/5tMsTU4j4oTOAlcUZewG1d"
+    },
+    {
+      "added_at": "2024-03-20 14:47:57",
+      "album": {
+        "name": "Who Framed Roger Rabbit",
+        "url": "https://open.spotify.com/album/5LImaGrhreK6vtqqbZmdiD"
+      },
+      "artists": [
+        {
+          "name": "Alan Silvestri",
+          "url": "https://open.spotify.com/artist/0Xk15jHKly4c3AhPr5vjoA"
+        }
+      ],
+      "duration_ms": 322826,
+      "name": "Eddie's Theme",
+      "url": "https://open.spotify.com/track/37vJYapqRfu9eRfAymsPhH"
     },
     {
       "added_at": "2024-03-20 14:47:57",

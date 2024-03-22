@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0hk7Li.md) - [plain]
 
 > This is Jacob Banks\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,958 likes - 50 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,963 likes - 50 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,8 +13,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0hk7Li.md) - [plain]
 | 3 | [Blame](https://open.spotify.com/track/6pQUQdaZacg722q6sg6fPR) | [Grace Carter](https://open.spotify.com/artist/2LuHL7im4aCEmfOlD4rxBC), [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [Blame](https://open.spotify.com/album/7ni2gVOM9o6KhFzyeVpy2p) | 4:11 |
 | 4 | [Found](https://open.spotify.com/track/1RDz34JJrGPn5msAXvnvoO) | [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [For My Friends](https://open.spotify.com/album/4B3jvFJWTYsVcLGoepXhX0) | 3:15 |
 | 5 | [Unknown \(To You\)](https://open.spotify.com/track/4jDDaKTqcZQWvgubuW6N7l) | [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [Village](https://open.spotify.com/album/2KxC2M0bVm5hrK3GgGMuV9) | 3:53 |
-| 6 | [On My Soul](https://open.spotify.com/track/2xLrkO5wPNzl5cNjLoPeNW) | [Tobe Nwigwe](https://open.spotify.com/artist/3Qh89pgJeZq6d8uM1bTot3), [Nas](https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q), [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [On My Soul](https://open.spotify.com/album/1I5QGY6wFJp0LjgDvbfV87) | 2:40 |
-| 7 | [Unholy War](https://open.spotify.com/track/4PjZsEf8bCIVyf4VXd57wS) | [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [The Boy Who Cried Freedom](https://open.spotify.com/album/6agNoT5WXMENsbQvhxGEws) | 3:29 |
+| 6 | [Unholy War](https://open.spotify.com/track/4PjZsEf8bCIVyf4VXd57wS) | [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [The Boy Who Cried Freedom](https://open.spotify.com/album/6agNoT5WXMENsbQvhxGEws) | 3:29 |
+| 7 | [On My Soul](https://open.spotify.com/track/2xLrkO5wPNzl5cNjLoPeNW) | [Tobe Nwigwe](https://open.spotify.com/artist/3Qh89pgJeZq6d8uM1bTot3), [Nas](https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q), [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [On My Soul](https://open.spotify.com/album/1I5QGY6wFJp0LjgDvbfV87) | 2:40 |
 | 8 | [Parade](https://open.spotify.com/track/6qzA5ZUivvw1FCZJSVYoNE) | [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [For My Friends](https://open.spotify.com/album/4B3jvFJWTYsVcLGoepXhX0) | 2:16 |
 | 9 | [Coolin](https://open.spotify.com/track/1Yy8ZVrOvISrzbYqvm3qck) | [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV), [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s), [Samm Henshaw](https://open.spotify.com/artist/1Q2mS59tFYLm2KGFoCgWN4) | [Lies About The War](https://open.spotify.com/album/7Dq8kOETaKNLrKouSjg5Pv) | 2:51 |
 | 10 | [Alive](https://open.spotify.com/track/74HHgWX80N5YfZpvEQOUov) | [Chase & Status](https://open.spotify.com/artist/3jNkaOXasoc7RsxdchvEVq), [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [Brand New Machine \(Deluxe Version\)](https://open.spotify.com/album/2YgT8pqXE1rvVEYDxkLNrs) | 3:26 |
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0hk7Li.md) - [plain]
 | 40 | [Every Age](https://open.spotify.com/track/3O0UhqrG43wI8EZb1TrEpk) | [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [Every Age](https://open.spotify.com/album/3032DsFJNkwfossx6xG9wQ) | 2:10 |
 | 41 | [Home](https://open.spotify.com/track/3mVAVmOOPfix072ec37bNe) | [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [The Paradox](https://open.spotify.com/album/32cDtKd8eH2F74ChwdiWaT) | 3:28 |
 | 42 | [The Descent](https://open.spotify.com/track/54bqtn4yFAPD9OoIecweDA) | [Other People's Heartache](https://open.spotify.com/artist/5gXNY1o9BtajaZfYJVXQrv), [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc), [Lily Moore](https://open.spotify.com/artist/1SQeTDXO492WB6aFvrntSS), [Moss Kena](https://open.spotify.com/artist/2u6jNcpusijFS6ZzuWRwMv), [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [Other People’s Heartache \(Pt\. 4\)](https://open.spotify.com/album/3cGGFGQJ027VtMknlIHNNi) | 5:42 |
-| 43 | [Hostage](https://open.spotify.com/track/6FwlaG3vag0IHp8McdVY0C) | [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [The Monologue](https://open.spotify.com/album/2LQsKFrA1SRC81XjbYB8Kj) | 4:53 |
-| 44 | [Ire \(Remix\) \(feat\. Jacob Banks\)](https://open.spotify.com/track/5b9Tl8wtaPLzsuDHuwdik8) | [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s), [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [About 30](https://open.spotify.com/album/3ssy7tJKSX4ohRxWvfqsJo) | 4:54 |
+| 43 | [Ire \(Remix\) \(feat\. Jacob Banks\)](https://open.spotify.com/track/5b9Tl8wtaPLzsuDHuwdik8) | [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s), [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [About 30](https://open.spotify.com/album/3ssy7tJKSX4ohRxWvfqsJo) | 4:54 |
+| 44 | [Hostage](https://open.spotify.com/track/6FwlaG3vag0IHp8McdVY0C) | [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [The Monologue](https://open.spotify.com/album/2LQsKFrA1SRC81XjbYB8Kj) | 4:53 |
 | 45 | [Grace](https://open.spotify.com/track/1aTsh0N4mZvzdY9Ure3eBo) | [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [The Paradox](https://open.spotify.com/album/32cDtKd8eH2F74ChwdiWaT) | 3:36 |
 | 46 | [Stranger](https://open.spotify.com/track/1YHWhz4KEeNhTfrAOVf3lI) | [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [For My Friends](https://open.spotify.com/album/4B3jvFJWTYsVcLGoepXhX0) | 2:42 |
 | 47 | [Photograph](https://open.spotify.com/track/6BvAeJI35GUw2kNK6yMupI) | [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [The Boy Who Cried Freedom](https://open.spotify.com/album/6agNoT5WXMENsbQvhxGEws) | 2:17 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0hk7Li.md) - [plain]
 | 49 | [Broken Chandeliers](https://open.spotify.com/track/3Na204EPxuFTcXM1WBIr7C) | [Kofi Stone](https://open.spotify.com/artist/0htlZDCG9I8LSENteF1TyQ), [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [Broken Chandeliers](https://open.spotify.com/album/6olyJyF1pBAuI1YrGg03Tp) | 3:23 |
 | 50 | [Coffee \(feat\. Jacob Banks\)](https://open.spotify.com/track/0sgWmb5j8NoyTFv97Wo3IW) | [Laleh](https://open.spotify.com/artist/62QZPjYQMoo5g56FP9Webq), [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [Postcards](https://open.spotify.com/album/5YYcCrRlLW0eyUJIghzV8p) | 2:22 |
 
-Snapshot ID: `Mjg1MTU2NjEsMDAwMDAwMDA0Mjg1ZTBlY2I3NzA3ODIzNDk0M2NjYWRlNjAyN2FkYQ==`
+Snapshot ID: `Mjg1MTcwNzUsMDAwMDAwMDA1ZjdmZjc3ZjAxN2Q1NDNiNTcwYTQxYWFjZmVhYmNkYg==`

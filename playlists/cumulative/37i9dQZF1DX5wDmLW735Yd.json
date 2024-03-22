@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-20",
-  "description": "The world's biggest Drum 'n' Bass playlist! Cover: Culture Shock\n",
+  "description": "The world's biggest Drum 'n' Bass playlist! Cover: Luude\n",
   "name": "Massive Drum & Bass",
   "tracks": [
     {
@@ -5334,7 +5334,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-22",
       "duration_ms": 205717,
       "name": "Heaven",
       "url": "https://open.spotify.com/track/29F8Xxbq2IVpb7GuyaCiiI"
@@ -7284,7 +7284,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-22",
       "duration_ms": 147245,
       "name": "looking 4 me",
       "url": "https://open.spotify.com/track/5z0pJkbsGf6f95dKzd5OOk"
@@ -8182,6 +8182,36 @@
       "duration_ms": 148097,
       "name": "My Favourite Game (feat. The Cardigans)",
       "url": "https://open.spotify.com/track/0cIgRv4Ew48c2r2yixOR1K"
+    },
+    {
+      "album": {
+        "name": "My Type",
+        "url": "https://open.spotify.com/album/1cgA9S7KgDpQhG9045suo2"
+      },
+      "artists": [
+        {
+          "name": "Emily Makis",
+          "url": "https://open.spotify.com/artist/51ferxocEKt0vjxzUsqyFX"
+        },
+        {
+          "name": "Dux n Bass",
+          "url": "https://open.spotify.com/artist/5LlJwFI0pt18QEmRZMT7EA"
+        },
+        {
+          "name": "Dread MC",
+          "url": "https://open.spotify.com/artist/2U5JmM5bTJuARrzQYnDAKn"
+        },
+        {
+          "name": "T-Man",
+          "url": "https://open.spotify.com/artist/5p0SkCjy1OmhoXPSM5dvW2"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184371,
+      "name": "My Type",
+      "url": "https://open.spotify.com/track/0FQU8Y1Ir1YkR6MoMfJjB3"
     },
     {
       "album": {
@@ -9126,6 +9156,28 @@
       "duration_ms": 312685,
       "name": "Overture",
       "url": "https://open.spotify.com/track/4AjiA5HkJVy59369f0Jjlk"
+    },
+    {
+      "album": {
+        "name": "Pachamama",
+        "url": "https://open.spotify.com/album/4pyp9BJdIT2rqRiavNpiWL"
+      },
+      "artists": [
+        {
+          "name": "Luude",
+          "url": "https://open.spotify.com/artist/20cmhoGvN0eyzhmsHJH1Mg"
+        },
+        {
+          "name": "Elliphant",
+          "url": "https://open.spotify.com/artist/134GdR5tUtxJrf8cpsfpyY"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145116,
+      "name": "Pachamama",
+      "url": "https://open.spotify.com/track/3lFNDaob5QhwE9oo7J0uNT"
     },
     {
       "album": {

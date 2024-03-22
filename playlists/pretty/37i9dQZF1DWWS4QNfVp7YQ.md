@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWS4QNfVp7YQ.md) - [plain]
 
 > Échate un zapateo al ritmo del tribal.
 
-[Spotify](https://open.spotify.com/user/spotify) - 73,065 likes - 50 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 73,107 likes - 50 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,9 +27,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWS4QNfVp7YQ.md) - [plain]
 | 17 | [Baila Tribal](https://open.spotify.com/track/2MGSQFNoGCmkX4eduyeZUv) | [Dj Otto](https://open.spotify.com/artist/4NUOSz1OVP30beWFCtEIVv) | [Huapango Tribal](https://open.spotify.com/album/2mIbKhtHembnY7MpRyewj4) | 3:19 |
 | 18 | [Celosa](https://open.spotify.com/track/1zZakVmfBR7AkepHwBCWZ7) | [El Pelón del Mikrophone](https://open.spotify.com/artist/7fD78qBivZ5nhloRHma0Pw) | [Los Reyes del Tribal](https://open.spotify.com/album/7aZA6VrLLeLQUNge1y0BuF) | 3:14 |
 | 19 | [Chiquetere vs Rockstar Tribal Mix](https://open.spotify.com/track/4vPRVHNmPf310sQRYJmSQO) | [Dj Gecko](https://open.spotify.com/artist/6nYkQZXt1BPbVrmd4vAXJZ) | [Chiquetere vs Rockstar Tribal Mix](https://open.spotify.com/album/2NBtKwtr7Nd38M6wKlRYDn) | 3:23 |
-| 20 | [La Trompeta Del Diablo](https://open.spotify.com/track/60cUW8whWzeVIONqISksOO) | [Jey Agredo](https://open.spotify.com/artist/6s6TzzI6MiyL8FzhiEXULY), [Guaracha Aleteo Vip](https://open.spotify.com/artist/4qDy1sm9QajMeYMFflFwUA) | [Aleteo VIP Golden Edition](https://open.spotify.com/album/3UocGQ73CV9X9dJ8mbI7pb) | 4:26 |
+| 20 | [El Ritmo Fa](https://open.spotify.com/track/4v65yiH3yoIKr57APt4oBQ) | [DJ kLazH](https://open.spotify.com/artist/3qutyGbJxvKzLqCYLaFHBo), [Dj Kury](https://open.spotify.com/artist/6I4OhwKxUoUZBsddTl2MbS) | [El Ritmo Fa](https://open.spotify.com/album/2So5WDAfp76BBlbwbxGo6Z) | 5:23 |
 | 21 | [Luego Luegito \[Electro Huapango\]](https://open.spotify.com/track/5HjFgPcDGw2aheShNLvoFq) | [Dj Gecko](https://open.spotify.com/artist/6nYkQZXt1BPbVrmd4vAXJZ), [Chunti](https://open.spotify.com/artist/0ygGyoQL8ERbkZFOmwZWPb) | [Luego Luegito \[Electro Huapango\]](https://open.spotify.com/album/0Qqm11AsJS2mnGNYiStZ6k) | 2:37 |
-| 22 | [El Ritmo Fa](https://open.spotify.com/track/4v65yiH3yoIKr57APt4oBQ) | [DJ kLazH](https://open.spotify.com/artist/3qutyGbJxvKzLqCYLaFHBo), [Dj Kury](https://open.spotify.com/artist/6I4OhwKxUoUZBsddTl2MbS) | [El Ritmo Fa](https://open.spotify.com/album/2So5WDAfp76BBlbwbxGo6Z) | 5:23 |
+| 22 | [La Trompeta Del Diablo](https://open.spotify.com/track/60cUW8whWzeVIONqISksOO) | [Jey Agredo](https://open.spotify.com/artist/6s6TzzI6MiyL8FzhiEXULY), [Guaracha Aleteo Vip](https://open.spotify.com/artist/4qDy1sm9QajMeYMFflFwUA) | [Aleteo VIP Golden Edition](https://open.spotify.com/album/3UocGQ73CV9X9dJ8mbI7pb) | 4:26 |
 | 23 | [Noches de Soledad](https://open.spotify.com/track/7k9b2xkni9bFGYbywuD53y) | [Santiago Cardona](https://open.spotify.com/artist/20PbAAZBxVnVsNlOJbYdXk) | [Noches de Soledad](https://open.spotify.com/album/0pzTO3npRc2nVqQCKaLB1M) | 3:38 |
 | 24 | [Mi Trompeta](https://open.spotify.com/track/0QNljcLUmisv00QqepKK4t) | [Dj Rocka](https://open.spotify.com/artist/6FZI89BrWDIRqUOW64CgNJ), [Yer Cortez](https://open.spotify.com/artist/1PaP0yYtwyr8l6RUNtNwlw) | [Mi Trompeta](https://open.spotify.com/album/5pdUlJrrGMnktuwbeU5nmI) | 3:58 |
 | 25 | [Tribal Guarachoso](https://open.spotify.com/track/6cpZP3klWUpzQBMheImhO0) | [3BallMTY](https://open.spotify.com/artist/1MLs9allBZrajb5Dc4146L) | [Inténtalo \(Deluxe Edition\)](https://open.spotify.com/album/4ldSAxBxxmdxlfoh81njb4) | 3:11 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWS4QNfVp7YQ.md) - [plain]
 | 49 | [Conga Sound Machine](https://open.spotify.com/track/1b9fjZC3K4MmP3hUwYxrj0) | [Dj Otto](https://open.spotify.com/artist/3ldc155y9UrrgKp8GPqVhK) | [Generación Tribal](https://open.spotify.com/album/1IqiZ7iimf2SSnjqoSHHZh) | 4:45 |
 | 50 | [Sheeqo, Get Loose](https://open.spotify.com/track/0kAQ4h2COEfGZCTu5KYOaK) | [Sheeqo Beat](https://open.spotify.com/artist/4PPVTIy0XtTMJuiA7mC4Ak) | [Generación Tribal](https://open.spotify.com/album/1IqiZ7iimf2SSnjqoSHHZh) | 3:04 |
 
-Snapshot ID: `MCw3NjY3Njk4YzhiZWNjZGVlYjNiZWQ2NWI2ZDBjY2M2Zjk4YTZhOWFi`
+Snapshot ID: `MCwxYmU5ZGJjYWNlNGI3NzExMzBjM2MxOWRjOTMyNTA0ODI2MTUzZTM0`

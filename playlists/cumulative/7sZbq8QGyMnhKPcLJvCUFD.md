@@ -4,7 +4,7 @@
 
 > The best NCS songs that are copyright free and safe music for gaming, live streaming, studying\. Official playlist from NoCopyrightSounds\. Cover: Don Diablo
 
-516 songs - 1 day 2 hr 26 min
+517 songs - 1 day 2 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,6 +16,7 @@
 | [A Mere Blip In Your Timeline](https://open.spotify.com/track/6MSNsf4mGsh1vvoRgQu3zG) | [OBLVYN](https://open.spotify.com/artist/6K47OYDcLTBRebTJGDtedF) | [A Mere Blip In Your Timeline](https://open.spotify.com/album/24oSN9awI8g3kOCQ4M8Nxb) | 3:26 | 2023-03-06 | 2023-08-10 |
 | [A&B](https://open.spotify.com/track/5sM48Id41SNoq8zCz34UXH) | [MADZI](https://open.spotify.com/artist/3TfYPq0TUpyzE2QR4iEU8K), [ETikka](https://open.spotify.com/artist/1t7Nxks2dmfdKs8glkgDqt) | [A&B](https://open.spotify.com/album/0VRbQuoZhwN35U6SlTkLMc) | 2:56 | 2023-04-26 | 2023-08-10 |
 | [About Me](https://open.spotify.com/track/3OgRWuUOktuBGTING1oPld) | [Koven](https://open.spotify.com/artist/3UCbp6D1lvILlxRJT9LnFa), [ROY KNOX](https://open.spotify.com/artist/6rADW3yvxPKpxWuNUKEed3) | [About Me](https://open.spotify.com/album/3c1nWchd1tZcxdaamK3Q7D) | 2:34 | 2022-06-23 | 2023-12-14 |
+| [AI](https://open.spotify.com/track/72URNFUYBZg3JHf6J6rD2l) | [Max Brhon](https://open.spotify.com/artist/5DxE39K4wk15NUk2c5zpeI) | [AI](https://open.spotify.com/album/10YXQqv5CYLQqkPlCvXgLQ) | 3:09 | 2024-03-21 |  |
 | [AKTIV](https://open.spotify.com/track/1Ss0ujwVKBM2j6VrKtgj3W) | [4URA](https://open.spotify.com/artist/3EG6B7xCYrCokW2HJiwpPd), [VinDon](https://open.spotify.com/artist/6hS0eB6BQPvcKhIM6Ltem0) | [AKTIV](https://open.spotify.com/album/5DLiNZwFKKIRU8yZVwvE7b) | 2:37 | 2023-12-13 |  |
 | [Alive](https://open.spotify.com/track/4T1N8cti8aQkYs9IjQn59H) | [PLEEG](https://open.spotify.com/artist/3MkeTsrl25IDTkRHOLLU5R) | [Alive](https://open.spotify.com/album/4EGBOOZGqeV1Rb5ScjvHuH) | 2:40 | 2023-01-10 | 2023-04-28 |
 | [Alive](https://open.spotify.com/track/7GCln9p45XDwJeQ7qykGVu) | [Thorne](https://open.spotify.com/artist/03SaLEDbLBTYkO0sSyN791), [iFeature](https://open.spotify.com/artist/1NkeIgGpORkhxCUluCnnFT) | [Alive](https://open.spotify.com/album/0apwIZ3lquYGdDgCLntSmG) | 2:56 | 2023-05-19 | 2023-08-10 |
@@ -175,7 +176,7 @@
 | [Feelings](https://open.spotify.com/track/7wUW5qYK19RlL6ljqDbc5x) | [Diviners](https://open.spotify.com/artist/22lnnGKlaDxk8sfzCNRJuA), [Azertion](https://open.spotify.com/artist/2UsZKeB2olmMd3wAUxRC6G) | [Feelings](https://open.spotify.com/album/6bgdgylfzmjqqeV8ztYoR5) | 2:54 | 2023-08-08 | 2023-12-14 |
 | [Feelings](https://open.spotify.com/track/0objHGHDjDdVGCyWYBLdQT) | [Tisoki](https://open.spotify.com/artist/0XW7mqhbaQnRtHmwfAVg64), [Cajama](https://open.spotify.com/artist/3YiP0AyiXuD61EE5xTaTbY) | [Feelings](https://open.spotify.com/album/6ufiR1kjFwmTAvhrmcFLjE) | 2:41 | 2022-05-05 | 2023-04-28 |
 | [Fell For A Demon](https://open.spotify.com/track/3PXwHjw3Y5DuCAVUONVaSj) | [ROY KNOX](https://open.spotify.com/artist/6rADW3yvxPKpxWuNUKEed3), [LINKER](https://open.spotify.com/artist/0THtcraqLXBsPUaZrCZIs6) | [Fell For A Demon](https://open.spotify.com/album/1KVLNWGRRiT6hc15O05rdy) | 4:03 | 2024-03-15 |  |
-| [Fighting Inside](https://open.spotify.com/track/5CMckaGgXeAK21PO1GbXFs) | [intouch](https://open.spotify.com/artist/3Ikgdt3VgIO7o76F1SBnkR) | [Fighting Inside](https://open.spotify.com/album/1btvMyRjDakN00uJOOZU1V) | 2:32 | 2023-12-13 |  |
+| [Fighting Inside](https://open.spotify.com/track/5CMckaGgXeAK21PO1GbXFs) | [intouch](https://open.spotify.com/artist/3Ikgdt3VgIO7o76F1SBnkR) | [Fighting Inside](https://open.spotify.com/album/1btvMyRjDakN00uJOOZU1V) | 2:32 | 2023-12-13 | 2024-03-22 |
 | [Find A Way](https://open.spotify.com/track/3hoRoMxwVs9kvjSFV4aeY8) | [T & Sugah](https://open.spotify.com/artist/6jsS2mOTAxVrlSUWiPLXpH), [NCT](https://open.spotify.com/artist/5iWNGhdgW9MA0l5AqFLqh9), [Cammie Robinson](https://open.spotify.com/artist/4CzzY9kG8C2BLOuTuy3oLe) | [Find A Way](https://open.spotify.com/album/4THrglYuTnokkhxPHSLnZw) | 4:24 | 2022-10-21 | 2023-08-10 |
 | [Firefly](https://open.spotify.com/track/1YB2NnK2KrK9PdrJ0czdDB) | [Jim Yosef](https://open.spotify.com/artist/40HDiLfKm0tXk2FxlJx6aO) | [Firefly](https://open.spotify.com/album/3xjkwdRVxpZVcFEbVzQ0dw) | 4:16 | 2023-08-08 | 2024-02-10 |
 | [Flow](https://open.spotify.com/track/3ZE0FgsjBycgnNKBzp67ic) | [JOXION](https://open.spotify.com/artist/4c0rN45hGTsmOVu0qg5x6U), [MADZI](https://open.spotify.com/artist/3TfYPq0TUpyzE2QR4iEU8K) | [Flow](https://open.spotify.com/album/0yVWAOYtACtksGgAu3xOSn) | 2:24 | 2023-03-17 | 2023-08-10 |

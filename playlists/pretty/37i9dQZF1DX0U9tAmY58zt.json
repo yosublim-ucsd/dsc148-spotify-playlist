@@ -1,12 +1,12 @@
 {
   "description": "Todos los artistas del Corona Capital en una sola playlist!",
-  "num_followers": 151047,
+  "num_followers": 151058,
   "original_name": "Corona Capital Forever",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5ZTQxODgyNTIwNmRjYjAzZDA4NmI2NjcyMzYzNDVlYWQxMDI1NDQ5",
+  "snapshot_id": "MCwzNGMzNzAxOTNlYTMyZDA3NWEwYTUwMDZmYTVkOGI3MGJkMmFlNjM0",
   "tracks": [
     {
       "added_at": "2023-11-16 01:16:27",
@@ -345,6 +345,22 @@
       "url": "https://open.spotify.com/track/4kbj5MwxO1bq9wjT5g9HaA"
     },
     {
+      "added_at": "2023-12-08 02:10:07",
+      "album": {
+        "name": "Torches",
+        "url": "https://open.spotify.com/album/7Kmmw7Z5D2UD5MVwdm10sT"
+      },
+      "artists": [
+        {
+          "name": "Foster The People",
+          "url": "https://open.spotify.com/artist/7gP3bB2nilZXLfPHJhMdvc"
+        }
+      ],
+      "duration_ms": 239600,
+      "name": "Pumped Up Kicks",
+      "url": "https://open.spotify.com/track/7w87IxuO7BDcJ3YUqCyMTT"
+    },
+    {
       "added_at": "2023-11-16 01:16:27",
       "album": {
         "name": "When We Were Young (The Logical Song)",
@@ -383,18 +399,22 @@
     {
       "added_at": "2023-12-08 02:10:07",
       "album": {
-        "name": "Torches",
-        "url": "https://open.spotify.com/album/7Kmmw7Z5D2UD5MVwdm10sT"
+        "name": "This Is What You Came For",
+        "url": "https://open.spotify.com/album/3pEgGUv379EDinvg1TN7Kt"
       },
       "artists": [
         {
-          "name": "Foster The People",
-          "url": "https://open.spotify.com/artist/7gP3bB2nilZXLfPHJhMdvc"
+          "name": "Calvin Harris",
+          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
+        },
+        {
+          "name": "Rihanna",
+          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
         }
       ],
-      "duration_ms": 239600,
-      "name": "Pumped Up Kicks",
-      "url": "https://open.spotify.com/track/7w87IxuO7BDcJ3YUqCyMTT"
+      "duration_ms": 222160,
+      "name": "This Is What You Came For",
+      "url": "https://open.spotify.com/track/0azC730Exh71aQlOt9Zj3y"
     },
     {
       "added_at": "2024-01-11 03:07:10",
@@ -429,26 +449,6 @@
       "url": "https://open.spotify.com/track/6IPwKM3fUUzlElbvKw2sKl"
     },
     {
-      "added_at": "2023-12-08 02:10:07",
-      "album": {
-        "name": "This Is What You Came For",
-        "url": "https://open.spotify.com/album/3pEgGUv379EDinvg1TN7Kt"
-      },
-      "artists": [
-        {
-          "name": "Calvin Harris",
-          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
-        },
-        {
-          "name": "Rihanna",
-          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
-        }
-      ],
-      "duration_ms": 222160,
-      "name": "This Is What You Came For",
-      "url": "https://open.spotify.com/track/0azC730Exh71aQlOt9Zj3y"
-    },
-    {
       "added_at": "2024-01-11 03:07:10",
       "album": {
         "name": "Freaks",
@@ -479,22 +479,6 @@
       "duration_ms": 172723,
       "name": "Stay With Me",
       "url": "https://open.spotify.com/track/5Nm9ERjJZ5oyfXZTECKmRt"
-    },
-    {
-      "added_at": "2024-01-11 03:07:10",
-      "album": {
-        "name": "Cigarettes After Sex",
-        "url": "https://open.spotify.com/album/2mxFsS5yylSTHNivV53HoA"
-      },
-      "artists": [
-        {
-          "name": "Cigarettes After Sex",
-          "url": "https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj"
-        }
-      ],
-      "duration_ms": 320030,
-      "name": "K.",
-      "url": "https://open.spotify.com/track/1FWsomP9StpCcXNWmJk8Cl"
     },
     {
       "added_at": "2023-12-08 02:10:07",
@@ -565,6 +549,22 @@
       "url": "https://open.spotify.com/track/0ntQJM78wzOLVeCUAW7Y45"
     },
     {
+      "added_at": "2024-01-11 03:07:10",
+      "album": {
+        "name": "Cigarettes After Sex",
+        "url": "https://open.spotify.com/album/2mxFsS5yylSTHNivV53HoA"
+      },
+      "artists": [
+        {
+          "name": "Cigarettes After Sex",
+          "url": "https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj"
+        }
+      ],
+      "duration_ms": 320030,
+      "name": "K.",
+      "url": "https://open.spotify.com/track/1FWsomP9StpCcXNWmJk8Cl"
+    },
+    {
       "added_at": "2023-12-08 02:10:07",
       "album": {
         "name": "Motion",
@@ -599,22 +599,6 @@
     {
       "added_at": "2024-01-11 03:07:10",
       "album": {
-        "name": "Cigarettes After Sex",
-        "url": "https://open.spotify.com/album/2mxFsS5yylSTHNivV53HoA"
-      },
-      "artists": [
-        {
-          "name": "Cigarettes After Sex",
-          "url": "https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj"
-        }
-      ],
-      "duration_ms": 215150,
-      "name": "Sunsetz",
-      "url": "https://open.spotify.com/track/0SpkyS1Q4MD8GaVcP5YjT4"
-    },
-    {
-      "added_at": "2024-01-11 03:07:10",
-      "album": {
         "name": "Be the Cowboy",
         "url": "https://open.spotify.com/album/42cH7mrkfljkqkxA2Ip9Xq"
       },
@@ -643,6 +627,22 @@
       "duration_ms": 234093,
       "name": "Lost",
       "url": "https://open.spotify.com/track/3GZD6HmiNUhxXYf8Gch723"
+    },
+    {
+      "added_at": "2024-01-11 03:07:10",
+      "album": {
+        "name": "Cigarettes After Sex",
+        "url": "https://open.spotify.com/album/2mxFsS5yylSTHNivV53HoA"
+      },
+      "artists": [
+        {
+          "name": "Cigarettes After Sex",
+          "url": "https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj"
+        }
+      ],
+      "duration_ms": 215150,
+      "name": "Sunsetz",
+      "url": "https://open.spotify.com/track/0SpkyS1Q4MD8GaVcP5YjT4"
     },
     {
       "added_at": "2023-12-08 02:10:07",
@@ -789,6 +789,22 @@
       "url": "https://open.spotify.com/track/2AT8iROs4FQueDv2c8q2KE"
     },
     {
+      "added_at": "2023-11-16 01:16:27",
+      "album": {
+        "name": "Volcano",
+        "url": "https://open.spotify.com/album/5xnXOCf5aZgZ43DgGN4EDv"
+      },
+      "artists": [
+        {
+          "name": "Jungle",
+          "url": "https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071"
+        }
+      ],
+      "duration_ms": 209482,
+      "name": "Back On 74",
+      "url": "https://open.spotify.com/track/19kHhX6f6EfLU7rcO3RqjO"
+    },
+    {
       "added_at": "2023-12-08 02:10:07",
       "album": {
         "name": "Hot Fuss",
@@ -819,22 +835,6 @@
       "duration_ms": 206413,
       "name": "Feel So Close - Radio Edit",
       "url": "https://open.spotify.com/track/1gihuPhrLraKYrJMAEONyc"
-    },
-    {
-      "added_at": "2023-11-16 01:16:27",
-      "album": {
-        "name": "Volcano",
-        "url": "https://open.spotify.com/album/5xnXOCf5aZgZ43DgGN4EDv"
-      },
-      "artists": [
-        {
-          "name": "Jungle",
-          "url": "https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071"
-        }
-      ],
-      "duration_ms": 209482,
-      "name": "Back On 74",
-      "url": "https://open.spotify.com/track/19kHhX6f6EfLU7rcO3RqjO"
     },
     {
       "added_at": "2023-12-08 02:10:07",
@@ -969,22 +969,6 @@
       "url": "https://open.spotify.com/track/0EcQcdcbQeVJn9fknj44Be"
     },
     {
-      "added_at": "2023-12-08 02:10:07",
-      "album": {
-        "name": "Static",
-        "url": "https://open.spotify.com/album/6WnfWrfsfu7T9TXbHIFHX9"
-      },
-      "artists": [
-        {
-          "name": "Cults",
-          "url": "https://open.spotify.com/artist/3Oim8XBPbznAa8Jj8QzNc8"
-        }
-      ],
-      "duration_ms": 223746,
-      "name": "Always Forever",
-      "url": "https://open.spotify.com/track/2enPRFda84VE2wtI8c86Uf"
-    },
-    {
       "added_at": "2024-01-11 03:07:10",
       "album": {
         "name": "Nothing Happens",
@@ -1003,6 +987,22 @@
       "duration_ms": 178000,
       "name": "Are You Bored Yet? (feat. Clairo)",
       "url": "https://open.spotify.com/track/57RA3JGafJm5zRtKJiKPIm"
+    },
+    {
+      "added_at": "2023-12-08 02:10:07",
+      "album": {
+        "name": "Static",
+        "url": "https://open.spotify.com/album/6WnfWrfsfu7T9TXbHIFHX9"
+      },
+      "artists": [
+        {
+          "name": "Cults",
+          "url": "https://open.spotify.com/artist/3Oim8XBPbznAa8Jj8QzNc8"
+        }
+      ],
+      "duration_ms": 223746,
+      "name": "Always Forever",
+      "url": "https://open.spotify.com/track/2enPRFda84VE2wtI8c86Uf"
     },
     {
       "added_at": "2023-11-16 01:16:27",
@@ -1107,18 +1107,18 @@
     {
       "added_at": "2023-12-08 02:10:07",
       "album": {
-        "name": "Woodstock",
-        "url": "https://open.spotify.com/album/4VzzEviJGYUtAeSsJlI9QB"
+        "name": "American Teen",
+        "url": "https://open.spotify.com/album/6kf46HbnYCZzP6rjvQHYzg"
       },
       "artists": [
         {
-          "name": "Portugal. The Man",
-          "url": "https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T"
+          "name": "Khalid",
+          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
         }
       ],
-      "duration_ms": 163253,
-      "name": "Feel It Still",
-      "url": "https://open.spotify.com/track/6QgjcU0zLnzq5OrUoSZ3OK"
+      "duration_ms": 202546,
+      "name": "Young Dumb & Broke",
+      "url": "https://open.spotify.com/track/5Z3GHaZ6ec9bsiI5BenrbY"
     },
     {
       "added_at": "2023-12-08 02:10:07",
@@ -1139,6 +1139,22 @@
     {
       "added_at": "2023-12-08 02:10:07",
       "album": {
+        "name": "Woodstock",
+        "url": "https://open.spotify.com/album/4VzzEviJGYUtAeSsJlI9QB"
+      },
+      "artists": [
+        {
+          "name": "Portugal. The Man",
+          "url": "https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T"
+        }
+      ],
+      "duration_ms": 163253,
+      "name": "Feel It Still",
+      "url": "https://open.spotify.com/track/6QgjcU0zLnzq5OrUoSZ3OK"
+    },
+    {
+      "added_at": "2023-12-08 02:10:07",
+      "album": {
         "name": "Dopamine",
         "url": "https://open.spotify.com/album/17l7MIu0Jh0tdgK7or9ovw"
       },
@@ -1151,22 +1167,6 @@
       "duration_ms": 218106,
       "name": "Electric Love",
       "url": "https://open.spotify.com/track/2GiJYvgVaD2HtM8GqD9EgQ"
-    },
-    {
-      "added_at": "2023-12-08 02:10:07",
-      "album": {
-        "name": "American Teen",
-        "url": "https://open.spotify.com/album/6kf46HbnYCZzP6rjvQHYzg"
-      },
-      "artists": [
-        {
-          "name": "Khalid",
-          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
-        }
-      ],
-      "duration_ms": 202546,
-      "name": "Young Dumb & Broke",
-      "url": "https://open.spotify.com/track/5Z3GHaZ6ec9bsiI5BenrbY"
     },
     {
       "added_at": "2024-01-11 03:07:10",
@@ -1217,22 +1217,6 @@
       "url": "https://open.spotify.com/track/52okn5MNA47tk87PeZJLEL"
     },
     {
-      "added_at": "2024-01-11 03:07:10",
-      "album": {
-        "name": "Puberty 2",
-        "url": "https://open.spotify.com/album/4Coa8Eb9SzjrkwWEom963Q"
-      },
-      "artists": [
-        {
-          "name": "Mitski",
-          "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
-        }
-      ],
-      "duration_ms": 170240,
-      "name": "I Bet on Losing Dogs",
-      "url": "https://open.spotify.com/track/2Co0IjcLTSHMtodwD4gzfg"
-    },
-    {
       "added_at": "2023-12-08 02:10:07",
       "album": {
         "name": "Oracular Spectacular",
@@ -1247,6 +1231,22 @@
       "duration_ms": 229640,
       "name": "Electric Feel",
       "url": "https://open.spotify.com/track/3FtYbEfBqAlGO46NUDQSAt"
+    },
+    {
+      "added_at": "2024-01-11 03:07:10",
+      "album": {
+        "name": "Puberty 2",
+        "url": "https://open.spotify.com/album/4Coa8Eb9SzjrkwWEom963Q"
+      },
+      "artists": [
+        {
+          "name": "Mitski",
+          "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
+        }
+      ],
+      "duration_ms": 170240,
+      "name": "I Bet on Losing Dogs",
+      "url": "https://open.spotify.com/track/2Co0IjcLTSHMtodwD4gzfg"
     },
     {
       "added_at": "2023-12-08 02:10:07",
@@ -1329,6 +1329,22 @@
       "url": "https://open.spotify.com/track/76cy1WJvNGJTj78UqeA5zr"
     },
     {
+      "added_at": "2023-12-08 02:10:07",
+      "album": {
+        "name": "Black Holes and Revelations",
+        "url": "https://open.spotify.com/album/0lw68yx3MhKflWFqCsGkIs"
+      },
+      "artists": [
+        {
+          "name": "Muse",
+          "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
+        }
+      ],
+      "duration_ms": 212439,
+      "name": "Supermassive Black Hole",
+      "url": "https://open.spotify.com/track/3lPr8ghNDBLc2uZovNyLs9"
+    },
+    {
       "added_at": "2024-01-11 03:07:10",
       "album": {
         "name": "Bury Me At Makeout Creek",
@@ -1343,6 +1359,22 @@
       "duration_ms": 278640,
       "name": "First Love/Late Spring",
       "url": "https://open.spotify.com/track/3sslYZcFKtUvIEWN9lADgr"
+    },
+    {
+      "added_at": "2023-11-16 01:16:27",
+      "album": {
+        "name": "El Camino",
+        "url": "https://open.spotify.com/album/5DLhV9yOvZ7IxVmljMXtNm"
+      },
+      "artists": [
+        {
+          "name": "The Black Keys",
+          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
+        }
+      ],
+      "duration_ms": 193653,
+      "name": "Lonely Boy",
+      "url": "https://open.spotify.com/track/5G1sTBGbZT5o4PNRc75RKI"
     },
     {
       "added_at": "2024-01-11 03:07:10",
@@ -1363,18 +1395,18 @@
     {
       "added_at": "2023-12-08 02:10:07",
       "album": {
-        "name": "Black Holes and Revelations",
-        "url": "https://open.spotify.com/album/0lw68yx3MhKflWFqCsGkIs"
+        "name": "Echoes, Silence, Patience & Grace",
+        "url": "https://open.spotify.com/album/3ilXDEG0xiajK8AbqboeJz"
       },
       "artists": [
         {
-          "name": "Muse",
-          "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
+          "name": "Foo Fighters",
+          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
         }
       ],
-      "duration_ms": 212439,
-      "name": "Supermassive Black Hole",
-      "url": "https://open.spotify.com/track/3lPr8ghNDBLc2uZovNyLs9"
+      "duration_ms": 269373,
+      "name": "The Pretender",
+      "url": "https://open.spotify.com/track/7x8dCjCr0x6x2lXKujYD34"
     },
     {
       "added_at": "2023-12-08 02:10:07",
@@ -1399,38 +1431,6 @@
       "duration_ms": 184732,
       "name": "The Middle",
       "url": "https://open.spotify.com/track/09IStsImFySgyp0pIQdqAc"
-    },
-    {
-      "added_at": "2023-12-08 02:10:07",
-      "album": {
-        "name": "Echoes, Silence, Patience & Grace",
-        "url": "https://open.spotify.com/album/3ilXDEG0xiajK8AbqboeJz"
-      },
-      "artists": [
-        {
-          "name": "Foo Fighters",
-          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
-        }
-      ],
-      "duration_ms": 269373,
-      "name": "The Pretender",
-      "url": "https://open.spotify.com/track/7x8dCjCr0x6x2lXKujYD34"
-    },
-    {
-      "added_at": "2023-11-16 01:16:27",
-      "album": {
-        "name": "El Camino",
-        "url": "https://open.spotify.com/album/5DLhV9yOvZ7IxVmljMXtNm"
-      },
-      "artists": [
-        {
-          "name": "The Black Keys",
-          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
-        }
-      ],
-      "duration_ms": 193653,
-      "name": "Lonely Boy",
-      "url": "https://open.spotify.com/track/5G1sTBGbZT5o4PNRc75RKI"
     },
     {
       "added_at": "2023-12-08 02:10:07",
@@ -1629,24 +1629,20 @@
       "url": "https://open.spotify.com/track/5Q0Nhxo0l2bP3pNjpGJwV1"
     },
     {
-      "added_at": "2023-11-16 01:16:27",
+      "added_at": "2023-12-08 02:10:07",
       "album": {
-        "name": "GOLDEN",
-        "url": "https://open.spotify.com/album/5pSk3c3wVwnb2arb6ohCPU"
+        "name": "Dancing With Your Ghost",
+        "url": "https://open.spotify.com/album/3I677CWVoiOsbMxOQzjShB"
       },
       "artists": [
         {
-          "name": "Jung Kook",
-          "url": "https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc"
-        },
-        {
-          "name": "Major Lazer",
-          "url": "https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp"
+          "name": "Sasha Alex Sloan",
+          "url": "https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5"
         }
       ],
-      "duration_ms": 170995,
-      "name": "Closer to You (feat. Major Lazer)",
-      "url": "https://open.spotify.com/track/06Qo2fYR2KS1F7bL338iVT"
+      "duration_ms": 197732,
+      "name": "Dancing With Your Ghost",
+      "url": "https://open.spotify.com/track/1TQXIltqoZ5XXyfCbAeSQQ"
     }
   ],
   "unique_name": "Corona Capital Forever",

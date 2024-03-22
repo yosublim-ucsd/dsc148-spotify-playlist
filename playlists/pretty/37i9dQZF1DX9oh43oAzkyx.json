@@ -1,12 +1,12 @@
 {
   "description": "Energy tracks to get your beast mode on.",
-  "num_followers": 2582518,
+  "num_followers": 2583484,
   "original_name": "Beast Mode Hip-Hop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3ZGIyMWRiOTAwYzc0YzMxZDc0ZGE3ODVjZDM3OWVmZTkxMjUwMzNj",
+  "snapshot_id": "MCwzNWFhYmM1YTI0MjZkMzY0MGM3YmZiYzBlZjZlYTA0MTUzYjg5ZmI2",
   "tracks": [
     {
       "added_at": "2024-03-15 04:19:59",
@@ -367,6 +367,22 @@
     {
       "added_at": "2024-03-15 04:19:59",
       "album": {
+        "name": "Mmhmm",
+        "url": "https://open.spotify.com/album/1D3Uf2OkWYQytEbK3NpdMn"
+      },
+      "artists": [
+        {
+          "name": "BigXthaPlug",
+          "url": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I"
+        }
+      ],
+      "duration_ms": 119015,
+      "name": "Mmhmm",
+      "url": "https://open.spotify.com/track/1nQaTUDJ7Rc4yOvZmg9Ozr"
+    },
+    {
+      "added_at": "2024-03-15 04:19:59",
+      "album": {
         "name": "american dream",
         "url": "https://open.spotify.com/album/2RRYaYHY7fIIdvFlvgb5vq"
       },
@@ -387,22 +403,6 @@
       "duration_ms": 265305,
       "name": "dangerous",
       "url": "https://open.spotify.com/track/0fyP96TikhD9sM4eKqw5Yp"
-    },
-    {
-      "added_at": "2024-03-15 04:19:59",
-      "album": {
-        "name": "Mmhmm",
-        "url": "https://open.spotify.com/album/1D3Uf2OkWYQytEbK3NpdMn"
-      },
-      "artists": [
-        {
-          "name": "BigXthaPlug",
-          "url": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I"
-        }
-      ],
-      "duration_ms": 119015,
-      "name": "Mmhmm",
-      "url": "https://open.spotify.com/track/1nQaTUDJ7Rc4yOvZmg9Ozr"
     },
     {
       "added_at": "2024-03-15 04:19:59",
@@ -715,22 +715,6 @@
     {
       "added_at": "2024-03-15 04:19:59",
       "album": {
-        "name": "Yeern 101",
-        "url": "https://open.spotify.com/album/1G1kvp5sKVBposBjP4xUy2"
-      },
-      "artists": [
-        {
-          "name": "ScHoolboy Q",
-          "url": "https://open.spotify.com/artist/5IcR3N7QB1j6KBL8eImZ8m"
-        }
-      ],
-      "duration_ms": 140005,
-      "name": "Yeern 101",
-      "url": "https://open.spotify.com/track/3K5yjMCFHN4TRWKj1zdKIQ"
-    },
-    {
-      "added_at": "2024-03-15 04:19:59",
-      "album": {
         "name": "Shiesty Season",
         "url": "https://open.spotify.com/album/2UwJ4Nt10VStLczYefhcEV"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 184489,
       "name": "Back in Blood (feat. Lil Durk)",
       "url": "https://open.spotify.com/track/7FGdjbZ32vMybPuP0IuE7d"
+    },
+    {
+      "added_at": "2024-03-15 04:19:59",
+      "album": {
+        "name": "Yeern 101",
+        "url": "https://open.spotify.com/album/1G1kvp5sKVBposBjP4xUy2"
+      },
+      "artists": [
+        {
+          "name": "ScHoolboy Q",
+          "url": "https://open.spotify.com/artist/5IcR3N7QB1j6KBL8eImZ8m"
+        }
+      ],
+      "duration_ms": 140005,
+      "name": "Yeern 101",
+      "url": "https://open.spotify.com/track/3K5yjMCFHN4TRWKj1zdKIQ"
     },
     {
       "added_at": "2024-03-15 04:19:59",
@@ -1083,26 +1083,18 @@
     {
       "added_at": "2024-03-15 04:19:59",
       "album": {
-        "name": "I NEVER LIKED YOU",
-        "url": "https://open.spotify.com/album/6ViO9Wx6dWzeUq6DmGTaHl"
+        "name": "24 hours to live",
+        "url": "https://open.spotify.com/album/73djAmtght7e1sfNLior3P"
       },
       "artists": [
         {
-          "name": "Future",
-          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
-        },
-        {
-          "name": "42 Dugg",
-          "url": "https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG"
-        },
-        {
-          "name": "Lil Baby",
-          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+          "name": "Joyner Lucas",
+          "url": "https://open.spotify.com/artist/6C1ohJrd5VydigQtaGy5Wa"
         }
       ],
-      "duration_ms": 132986,
-      "name": "LIKE ME (feat. 42 Dugg & Lil Baby)",
-      "url": "https://open.spotify.com/track/3gOL6mYIq19Oq8raxIntrV"
+      "duration_ms": 208838,
+      "name": "24 hours to live",
+      "url": "https://open.spotify.com/track/5ia8VbDkfzWBjC6f3bOTt1"
     },
     {
       "added_at": "2024-03-15 04:19:59",
@@ -1123,18 +1115,26 @@
     {
       "added_at": "2024-03-15 04:19:59",
       "album": {
-        "name": "24 hours to live",
-        "url": "https://open.spotify.com/album/73djAmtght7e1sfNLior3P"
+        "name": "I NEVER LIKED YOU",
+        "url": "https://open.spotify.com/album/6ViO9Wx6dWzeUq6DmGTaHl"
       },
       "artists": [
         {
-          "name": "Joyner Lucas",
-          "url": "https://open.spotify.com/artist/6C1ohJrd5VydigQtaGy5Wa"
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        },
+        {
+          "name": "42 Dugg",
+          "url": "https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG"
+        },
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
         }
       ],
-      "duration_ms": 208838,
-      "name": "24 hours to live",
-      "url": "https://open.spotify.com/track/5ia8VbDkfzWBjC6f3bOTt1"
+      "duration_ms": 132986,
+      "name": "LIKE ME (feat. 42 Dugg & Lil Baby)",
+      "url": "https://open.spotify.com/track/3gOL6mYIq19Oq8raxIntrV"
     },
     {
       "added_at": "2024-03-15 04:19:59",
@@ -1415,22 +1415,6 @@
     {
       "added_at": "2024-03-15 04:19:59",
       "album": {
-        "name": "Kat Food",
-        "url": "https://open.spotify.com/album/0hyOMHe8ZFK0oCZhb2xnks"
-      },
-      "artists": [
-        {
-          "name": "Lil Wayne",
-          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
-        }
-      ],
-      "duration_ms": 286579,
-      "name": "Kat Food",
-      "url": "https://open.spotify.com/track/6WYo4HDHHvMJZU1lNebB3V"
-    },
-    {
-      "added_at": "2024-03-15 04:19:59",
-      "album": {
         "name": "Scared Money",
         "url": "https://open.spotify.com/album/3TsYjPFN8qCxcYWHL3DtL8"
       },
@@ -1451,6 +1435,22 @@
       "duration_ms": 204285,
       "name": "Scared Money (feat. J. Cole and Moneybagg Yo)",
       "url": "https://open.spotify.com/track/4heBcjj4Lw3X2sQVFNbLbz"
+    },
+    {
+      "added_at": "2024-03-15 04:19:59",
+      "album": {
+        "name": "Kat Food",
+        "url": "https://open.spotify.com/album/0hyOMHe8ZFK0oCZhb2xnks"
+      },
+      "artists": [
+        {
+          "name": "Lil Wayne",
+          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+        }
+      ],
+      "duration_ms": 286579,
+      "name": "Kat Food",
+      "url": "https://open.spotify.com/track/6WYo4HDHHvMJZU1lNebB3V"
     },
     {
       "added_at": "2024-03-15 04:19:59",

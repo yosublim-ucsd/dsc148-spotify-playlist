@@ -1,12 +1,12 @@
 {
   "description": "Soft songs that gives you a gentle start of the day.",
-  "num_followers": 9119,
+  "num_followers": 9139,
   "original_name": "Soft Morning",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjYjE3ODZlNThmOGE1YjA2ZjYzZjNlMGUyZmQ4NDhkMDQ0ZjI1ODY1",
+  "snapshot_id": "MCxmMDQ4MjY5YWY5Y2NkOTcxMGU3OTZlNzU0ZjI1ODJkNmJjYzMxZTI2",
   "tracks": [
     {
       "added_at": "2023-10-10 12:23:51",
@@ -291,22 +291,6 @@
     {
       "added_at": "2023-02-10 06:37:00",
       "album": {
-        "name": "Good Riddance (Deluxe)",
-        "url": "https://open.spotify.com/album/78YYcghEDz2dHRx0EcDGXZ"
-      },
-      "artists": [
-        {
-          "name": "Gracie Abrams",
-          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
-        }
-      ],
-      "duration_ms": 259592,
-      "name": "Amelie",
-      "url": "https://open.spotify.com/track/5SnMKAJBo7X4rUyaSMseun"
-    },
-    {
-      "added_at": "2023-02-10 06:37:00",
-      "album": {
         "name": "When You Love Someone (Acoustic)",
         "url": "https://open.spotify.com/album/3qeOuc4R3WLCKVnYVvGwfl"
       },
@@ -319,6 +303,22 @@
       "duration_ms": 210106,
       "name": "When You Love Someone - Acoustic",
       "url": "https://open.spotify.com/track/6668ZaUUXqZ25Tb0DMr2HO"
+    },
+    {
+      "added_at": "2023-02-10 06:37:00",
+      "album": {
+        "name": "Good Riddance (Deluxe)",
+        "url": "https://open.spotify.com/album/78YYcghEDz2dHRx0EcDGXZ"
+      },
+      "artists": [
+        {
+          "name": "Gracie Abrams",
+          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
+        }
+      ],
+      "duration_ms": 259592,
+      "name": "Amelie",
+      "url": "https://open.spotify.com/track/5SnMKAJBo7X4rUyaSMseun"
     },
     {
       "added_at": "2023-02-10 06:37:00",
@@ -457,22 +457,6 @@
       "url": "https://open.spotify.com/track/5iQ0Va8Dt5Yky4TXuqO5TF"
     },
     {
-      "added_at": "2023-02-24 11:06:00",
-      "album": {
-        "name": "Mean It",
-        "url": "https://open.spotify.com/album/0vBpaPYo5I3s90tEmgeacl"
-      },
-      "artists": [
-        {
-          "name": "Gracie Abrams",
-          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
-        }
-      ],
-      "duration_ms": 171138,
-      "name": "Mean It",
-      "url": "https://open.spotify.com/track/5IyuGEmlFsnp1TN1M9OSd8"
-    },
-    {
       "added_at": "2023-02-10 06:37:00",
       "album": {
         "name": "Acoustic Sessions",
@@ -487,6 +471,22 @@
       "duration_ms": 228146,
       "name": "Never Seen Anything \"Quite Like You\" - Acoustic",
       "url": "https://open.spotify.com/track/018Idkvf82hi44UZmIXiGB"
+    },
+    {
+      "added_at": "2023-02-24 11:06:00",
+      "album": {
+        "name": "Mean It",
+        "url": "https://open.spotify.com/album/0vBpaPYo5I3s90tEmgeacl"
+      },
+      "artists": [
+        {
+          "name": "Gracie Abrams",
+          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
+        }
+      ],
+      "duration_ms": 171138,
+      "name": "Mean It",
+      "url": "https://open.spotify.com/track/5IyuGEmlFsnp1TN1M9OSd8"
     },
     {
       "added_at": "2023-02-10 06:37:00",
@@ -1619,22 +1619,6 @@
     {
       "added_at": "2023-02-10 06:37:00",
       "album": {
-        "name": "Dear Earth, I\u2019m Lost",
-        "url": "https://open.spotify.com/album/2FivUBt8rP3epBzyDhtoqE"
-      },
-      "artists": [
-        {
-          "name": "Benjamin Gustafsson",
-          "url": "https://open.spotify.com/artist/01H1M5VvnktKBqpU0TX8Rl"
-        }
-      ],
-      "duration_ms": 260000,
-      "name": "Heaven Knows, Right?",
-      "url": "https://open.spotify.com/track/4XJES8gXvP1HrkAfXWa97O"
-    },
-    {
-      "added_at": "2023-02-10 06:37:00",
-      "album": {
         "name": "With Or Without You (Acoustic)",
         "url": "https://open.spotify.com/album/1PSL58r4ZGDdNtJ2MiXclC"
       },
@@ -1651,6 +1635,22 @@
       "duration_ms": 206666,
       "name": "With Or Without You (Acoustic)",
       "url": "https://open.spotify.com/track/1691RkrJC65WAaLJhJryKS"
+    },
+    {
+      "added_at": "2023-02-10 06:37:00",
+      "album": {
+        "name": "Dear Earth, I\u2019m Lost",
+        "url": "https://open.spotify.com/album/2FivUBt8rP3epBzyDhtoqE"
+      },
+      "artists": [
+        {
+          "name": "Benjamin Gustafsson",
+          "url": "https://open.spotify.com/artist/01H1M5VvnktKBqpU0TX8Rl"
+        }
+      ],
+      "duration_ms": 260000,
+      "name": "Heaven Knows, Right?",
+      "url": "https://open.spotify.com/track/4XJES8gXvP1HrkAfXWa97O"
     },
     {
       "added_at": "2023-02-10 06:37:00",

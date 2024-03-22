@@ -1,12 +1,12 @@
 {
   "description": "Ride the bassline. Cover: Don Diablo & Major Lazer",
-  "num_followers": 236448,
+  "num_followers": 236515,
   "original_name": "Bangers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyMzhmNzllZjczNmQ3NDM2MWZlNWE0NDNjZTU0MjA5MDBmMDVmYTQ3",
+  "snapshot_id": "MCw0MmNmODA2MzlhMWNkNWRmZGQxYzVhOGY3N2YwNmY3NGI0NGM0M2Mw",
   "tracks": [
     {
       "added_at": "2024-03-08 18:47:55",
@@ -1403,6 +1403,26 @@
     {
       "added_at": "2024-03-08 18:47:55",
       "album": {
+        "name": "CALYPSO",
+        "url": "https://open.spotify.com/album/0T0m6cryYM9dObB9iRNik3"
+      },
+      "artists": [
+        {
+          "name": "ero808",
+          "url": "https://open.spotify.com/artist/6x9CKUBQ96VjXxKgGE5hIw"
+        },
+        {
+          "name": "NXSTY",
+          "url": "https://open.spotify.com/artist/0fVqst4UD6o7SKW6SsWPfU"
+        }
+      ],
+      "duration_ms": 152015,
+      "name": "CALYPSO",
+      "url": "https://open.spotify.com/track/18ty2CvaOkyz3WOD3DkqNk"
+    },
+    {
+      "added_at": "2024-03-08 18:47:55",
+      "album": {
         "name": "Badders",
         "url": "https://open.spotify.com/album/0K5ljicneNOkdgx2rNxYBv"
       },
@@ -1431,26 +1451,6 @@
     {
       "added_at": "2024-03-08 18:47:55",
       "album": {
-        "name": "CALYPSO",
-        "url": "https://open.spotify.com/album/0T0m6cryYM9dObB9iRNik3"
-      },
-      "artists": [
-        {
-          "name": "ero808",
-          "url": "https://open.spotify.com/artist/6x9CKUBQ96VjXxKgGE5hIw"
-        },
-        {
-          "name": "NXSTY",
-          "url": "https://open.spotify.com/artist/0fVqst4UD6o7SKW6SsWPfU"
-        }
-      ],
-      "duration_ms": 152015,
-      "name": "CALYPSO",
-      "url": "https://open.spotify.com/track/18ty2CvaOkyz3WOD3DkqNk"
-    },
-    {
-      "added_at": "2024-03-08 18:47:55",
-      "album": {
         "name": "To Be Real",
         "url": "https://open.spotify.com/album/6NrGM3aH0HgQyy7UabNprK"
       },
@@ -1471,6 +1471,22 @@
       "duration_ms": 203225,
       "name": "To Be Real",
       "url": "https://open.spotify.com/track/7GpiRvevDAkR3lDH5AxNwT"
+    },
+    {
+      "added_at": "2024-03-08 18:47:55",
+      "album": {
+        "name": "Paranoid",
+        "url": "https://open.spotify.com/album/7tjjNI3iFSjbkBqcS8NyVp"
+      },
+      "artists": [
+        {
+          "name": "Layton Giordani",
+          "url": "https://open.spotify.com/artist/7mC3RkNNTV6p2j9w4F8Ip4"
+        }
+      ],
+      "duration_ms": 174565,
+      "name": "Paranoid",
+      "url": "https://open.spotify.com/track/7MriQOSzV5A9qvD2qWHah5"
     },
     {
       "added_at": "2024-03-08 18:47:55",
@@ -1531,38 +1547,6 @@
     {
       "added_at": "2024-03-08 18:47:55",
       "album": {
-        "name": "Paranoid",
-        "url": "https://open.spotify.com/album/7tjjNI3iFSjbkBqcS8NyVp"
-      },
-      "artists": [
-        {
-          "name": "Layton Giordani",
-          "url": "https://open.spotify.com/artist/7mC3RkNNTV6p2j9w4F8Ip4"
-        }
-      ],
-      "duration_ms": 174565,
-      "name": "Paranoid",
-      "url": "https://open.spotify.com/track/7MriQOSzV5A9qvD2qWHah5"
-    },
-    {
-      "added_at": "2024-03-08 18:47:55",
-      "album": {
-        "name": "CAN YOU SEE ME?",
-        "url": "https://open.spotify.com/album/1tiNJggspDrowgtBP4w25O"
-      },
-      "artists": [
-        {
-          "name": "Rezz",
-          "url": "https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw"
-        }
-      ],
-      "duration_ms": 141538,
-      "name": "CAN YOU SEE ME?",
-      "url": "https://open.spotify.com/track/2YeHtUuRFJeeeJtGGmLp5a"
-    },
-    {
-      "added_at": "2024-03-08 18:47:55",
-      "album": {
         "name": "Ecstasy Of Soul",
         "url": "https://open.spotify.com/album/3Z9gZ7C37E95mJkJrWIpJ8"
       },
@@ -1579,6 +1563,22 @@
       "duration_ms": 238400,
       "name": "Ecstasy Of Soul",
       "url": "https://open.spotify.com/track/1E0CZWim9mfwrCkXvieES8"
+    },
+    {
+      "added_at": "2024-03-08 18:47:55",
+      "album": {
+        "name": "CAN YOU SEE ME?",
+        "url": "https://open.spotify.com/album/1tiNJggspDrowgtBP4w25O"
+      },
+      "artists": [
+        {
+          "name": "Rezz",
+          "url": "https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw"
+        }
+      ],
+      "duration_ms": 141538,
+      "name": "CAN YOU SEE ME?",
+      "url": "https://open.spotify.com/track/2YeHtUuRFJeeeJtGGmLp5a"
     },
     {
       "added_at": "2024-03-08 18:47:55",
@@ -2059,22 +2059,6 @@
     {
       "added_at": "2024-03-08 18:47:55",
       "album": {
-        "name": "kidsgonemad!",
-        "url": "https://open.spotify.com/album/2O3rWF27iqSzozxnVfPkXA"
-      },
-      "artists": [
-        {
-          "name": "ISOxo",
-          "url": "https://open.spotify.com/artist/4zVCMnjw54nkhGHU4e1Pav"
-        }
-      ],
-      "duration_ms": 221142,
-      "name": "dontstopme!",
-      "url": "https://open.spotify.com/track/60tToQgGBi2ZxHLMqkcy5h"
-    },
-    {
-      "added_at": "2024-03-08 18:47:55",
-      "album": {
         "name": "Motor",
         "url": "https://open.spotify.com/album/0x6mXhYCkb1icLuxTLhAr4"
       },
@@ -2091,6 +2075,22 @@
       "duration_ms": 182769,
       "name": "Motor",
       "url": "https://open.spotify.com/track/59YkyPuZCXyiLmcmSNKRtH"
+    },
+    {
+      "added_at": "2024-03-08 18:47:55",
+      "album": {
+        "name": "kidsgonemad!",
+        "url": "https://open.spotify.com/album/2O3rWF27iqSzozxnVfPkXA"
+      },
+      "artists": [
+        {
+          "name": "ISOxo",
+          "url": "https://open.spotify.com/artist/4zVCMnjw54nkhGHU4e1Pav"
+        }
+      ],
+      "duration_ms": 221142,
+      "name": "dontstopme!",
+      "url": "https://open.spotify.com/track/60tToQgGBi2ZxHLMqkcy5h"
     },
     {
       "added_at": "2024-03-08 18:47:55",
@@ -2139,22 +2139,6 @@
     {
       "added_at": "2024-03-08 18:47:55",
       "album": {
-        "name": "Hypnotic",
-        "url": "https://open.spotify.com/album/0AK8WQVhKdyuRxQZpsFNUz"
-      },
-      "artists": [
-        {
-          "name": "Max Styler",
-          "url": "https://open.spotify.com/artist/3NKKngINK1tP6BFy0WOyWk"
-        }
-      ],
-      "duration_ms": 200000,
-      "name": "Hypnotic",
-      "url": "https://open.spotify.com/track/1TCJjzvQn6zaIzckTZiabG"
-    },
-    {
-      "added_at": "2024-03-08 18:47:55",
-      "album": {
         "name": "This Mixtape is Fire TOO",
         "url": "https://open.spotify.com/album/5H1GCTOowyeZzBVBddvdFD"
       },
@@ -2171,6 +2155,22 @@
       "duration_ms": 239047,
       "name": "buttons! (with Knock2)",
       "url": "https://open.spotify.com/track/6lNYE1wSCTtBxFvcdUAymQ"
+    },
+    {
+      "added_at": "2024-03-08 18:47:55",
+      "album": {
+        "name": "Hypnotic",
+        "url": "https://open.spotify.com/album/0AK8WQVhKdyuRxQZpsFNUz"
+      },
+      "artists": [
+        {
+          "name": "Max Styler",
+          "url": "https://open.spotify.com/artist/3NKKngINK1tP6BFy0WOyWk"
+        }
+      ],
+      "duration_ms": 200000,
+      "name": "Hypnotic",
+      "url": "https://open.spotify.com/track/1TCJjzvQn6zaIzckTZiabG"
     },
     {
       "added_at": "2024-03-08 18:47:55",
@@ -2235,22 +2235,6 @@
     {
       "added_at": "2024-03-08 18:47:55",
       "album": {
-        "name": "Tell That Boy",
-        "url": "https://open.spotify.com/album/1pQODgWcJzz8oUoucbos1R"
-      },
-      "artists": [
-        {
-          "name": "Azzecca",
-          "url": "https://open.spotify.com/artist/2k5DY2QDU3kBi5DX7OQlWj"
-        }
-      ],
-      "duration_ms": 214211,
-      "name": "Tell That Boy",
-      "url": "https://open.spotify.com/track/34x9lHWBLEWgDSUUlx1T5Z"
-    },
-    {
-      "added_at": "2024-03-08 18:47:55",
-      "album": {
         "name": "Infraliminal",
         "url": "https://open.spotify.com/album/3RoWzELirpqIEBueczpnNF"
       },
@@ -2271,6 +2255,22 @@
       "duration_ms": 266600,
       "name": "Infraliminal",
       "url": "https://open.spotify.com/track/7syNqxCLAQZzQlkRyJIfDr"
+    },
+    {
+      "added_at": "2024-03-08 18:47:55",
+      "album": {
+        "name": "Tell That Boy",
+        "url": "https://open.spotify.com/album/1pQODgWcJzz8oUoucbos1R"
+      },
+      "artists": [
+        {
+          "name": "Azzecca",
+          "url": "https://open.spotify.com/artist/2k5DY2QDU3kBi5DX7OQlWj"
+        }
+      ],
+      "duration_ms": 214211,
+      "name": "Tell That Boy",
+      "url": "https://open.spotify.com/track/34x9lHWBLEWgDSUUlx1T5Z"
     },
     {
       "added_at": "2024-03-08 18:47:55",
@@ -2383,26 +2383,6 @@
     {
       "added_at": "2024-03-08 18:47:55",
       "album": {
-        "name": "Fuck Your Sunshine (Adventure Club Remix)",
-        "url": "https://open.spotify.com/album/6icWyduCnRXtFYlEBPgavf"
-      },
-      "artists": [
-        {
-          "name": "\u0141aszewo",
-          "url": "https://open.spotify.com/artist/6jxGLrn1I14RIeRYodOpLN"
-        },
-        {
-          "name": "Adventure Club",
-          "url": "https://open.spotify.com/artist/5CdJjUi9f0cVgo9nFuJrFa"
-        }
-      ],
-      "duration_ms": 224250,
-      "name": "Fuck Your Sunshine (Adventure Club Remix)",
-      "url": "https://open.spotify.com/track/6QvldZZ10eYgKamaWfG52b"
-    },
-    {
-      "added_at": "2024-03-08 18:47:55",
-      "album": {
         "name": "NEXT LVL",
         "url": "https://open.spotify.com/album/1rhMrfqiJY4q1KtEzmjx2o"
       },
@@ -2419,6 +2399,26 @@
       "duration_ms": 155586,
       "name": "NEXT LVL",
       "url": "https://open.spotify.com/track/6uaKtnOTKImR5B6cU8FXjo"
+    },
+    {
+      "added_at": "2024-03-08 18:47:55",
+      "album": {
+        "name": "Fuck Your Sunshine (Adventure Club Remix)",
+        "url": "https://open.spotify.com/album/6icWyduCnRXtFYlEBPgavf"
+      },
+      "artists": [
+        {
+          "name": "\u0141aszewo",
+          "url": "https://open.spotify.com/artist/6jxGLrn1I14RIeRYodOpLN"
+        },
+        {
+          "name": "Adventure Club",
+          "url": "https://open.spotify.com/artist/5CdJjUi9f0cVgo9nFuJrFa"
+        }
+      ],
+      "duration_ms": 224250,
+      "name": "Fuck Your Sunshine (Adventure Club Remix)",
+      "url": "https://open.spotify.com/track/6QvldZZ10eYgKamaWfG52b"
     },
     {
       "added_at": "2024-03-08 18:47:55",
@@ -2515,26 +2515,6 @@
     {
       "added_at": "2024-03-08 18:47:55",
       "album": {
-        "name": "My Crew (feat. Flowdan)",
-        "url": "https://open.spotify.com/album/3wOiJZeH4xOCVejjMWk3Np"
-      },
-      "artists": [
-        {
-          "name": "DANNY AVILA",
-          "url": "https://open.spotify.com/artist/1Xv1qZHJ1hnRlWHRTZ3uci"
-        },
-        {
-          "name": "Flowdan",
-          "url": "https://open.spotify.com/artist/07CimrZi5vs9iEao47TNQ4"
-        }
-      ],
-      "duration_ms": 205555,
-      "name": "My Crew (feat. Flowdan)",
-      "url": "https://open.spotify.com/track/0BX4SC4ZfRn2egJfxjcgKc"
-    },
-    {
-      "added_at": "2024-03-08 18:47:55",
-      "album": {
         "name": "Lockdown",
         "url": "https://open.spotify.com/album/6C2ezhjaFoS7V1GdHD3gbK"
       },
@@ -2551,6 +2531,26 @@
       "duration_ms": 185624,
       "name": "Lockdown",
       "url": "https://open.spotify.com/track/6EdnmlpuR9O7ZpUwonIih4"
+    },
+    {
+      "added_at": "2024-03-08 18:47:55",
+      "album": {
+        "name": "My Crew (feat. Flowdan)",
+        "url": "https://open.spotify.com/album/3wOiJZeH4xOCVejjMWk3Np"
+      },
+      "artists": [
+        {
+          "name": "DANNY AVILA",
+          "url": "https://open.spotify.com/artist/1Xv1qZHJ1hnRlWHRTZ3uci"
+        },
+        {
+          "name": "Flowdan",
+          "url": "https://open.spotify.com/artist/07CimrZi5vs9iEao47TNQ4"
+        }
+      ],
+      "duration_ms": 205555,
+      "name": "My Crew (feat. Flowdan)",
+      "url": "https://open.spotify.com/track/0BX4SC4ZfRn2egJfxjcgKc"
     }
   ],
   "unique_name": "Bangers",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3sCT1ItXgNd.md) - [plain]
 
 > Lo mejor del pop en español\. Foto: Manuel Turizo, Lola Indigo
 
-[Spotify](https://open.spotify.com/user/spotify) - 974,704 likes - 52 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 974,549 likes - 52 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,17 +23,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3sCT1ItXgNd.md) - [plain]
 | 13 | [UNA BACHATA](https://open.spotify.com/track/4SmMe198ot30paOyvuTH5w) | [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna), [SAIKO](https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u) | [GRX](https://open.spotify.com/album/2ORVtNDtwoBtJ1uTzRJogx) | 2:37 |
 | 14 | [La Vuelta al Mundo](https://open.spotify.com/track/0KnQMnM6CfsH5A2V7g5FtK) | [Vicco](https://open.spotify.com/artist/2z1MpPojFcvxYcEAx0lT6w) | [La Vuelta al Mundo](https://open.spotify.com/album/4SaJoVn97YF5AmHeyROcLg) | 2:57 |
 | 15 | [Morfina \(feat\. Paloma Mami\)](https://open.spotify.com/track/4PFTO7EacpZMyuTa5dZGml) | [Prince Royce](https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC), [Paloma Mami](https://open.spotify.com/artist/7rOlQwf8OuFLFQp4aydjBt) | [Morfina \(feat\. Paloma Mami\)](https://open.spotify.com/album/4ebIgeih3hq832lPORpKtp) | 3:49 |
-| 16 | [Falsos Recuerdos](https://open.spotify.com/track/4snJ71Uz5KvX1CW0SaUiZY) | [Abraham Mateo](https://open.spotify.com/artist/2bxxlINUlcMQQb39K7IopR), [Omar Montes](https://open.spotify.com/artist/3lY9Fxceu60W1rbon7PkuF) | [Falsos Recuerdos](https://open.spotify.com/album/35djQkpLKC1ijpfi6i3AJw) | 3:11 |
+| 16 | [Tarde](https://open.spotify.com/track/1rGqazNAf6UvmnAC7a5M3B) | [Morat](https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD) | [Tarde](https://open.spotify.com/album/4S33ZpEVs5S2RqcqkM4KGF) | 2:42 |
 | 17 | [La última granada](https://open.spotify.com/track/4wCFO12O6g2yY2xiC3EBA8) | [Beret](https://open.spotify.com/artist/0ZHPrnImGh4re3TbSNkoZl) | [La última granada](https://open.spotify.com/album/4z0I4WdWd8NWEKfHj8WkIH) | 2:39 |
-| 18 | [Tarde](https://open.spotify.com/track/1rGqazNAf6UvmnAC7a5M3B) | [Morat](https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD) | [Tarde](https://open.spotify.com/album/4S33ZpEVs5S2RqcqkM4KGF) | 2:42 |
+| 18 | [Falsos Recuerdos](https://open.spotify.com/track/4snJ71Uz5KvX1CW0SaUiZY) | [Abraham Mateo](https://open.spotify.com/artist/2bxxlINUlcMQQb39K7IopR), [Omar Montes](https://open.spotify.com/artist/3lY9Fxceu60W1rbon7PkuF) | [Falsos Recuerdos](https://open.spotify.com/album/35djQkpLKC1ijpfi6i3AJw) | 3:11 |
 | 19 | [Vocation](https://open.spotify.com/track/6vkEJP0K2rPfe0ucPnKkLd) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [Cosmo](https://open.spotify.com/album/3nEa7WJXcruywRIZXu6qRE) | 3:04 |
 | 20 | [Todo cambia](https://open.spotify.com/track/0uOxKY91hTmnJOxGPGpJtd) | [Dani Fernández](https://open.spotify.com/artist/0CVOcYvRcSvOXyuR4YGKaC) | [Todo cambia](https://open.spotify.com/album/2rwGnAgqgUU3mYtY5pscXd) | 3:30 |
 | 21 | [Los Lugares Donde Irás](https://open.spotify.com/track/4p1C7lssRJgOkdpPWlb6s1) | [Hey Kid](https://open.spotify.com/artist/1x8mAhfvCw7JXRX7Ild0lF), [Malmö 040](https://open.spotify.com/artist/6i0h6wBrfNkdf3eTUoelpP) | [Los Lugares Donde Irás](https://open.spotify.com/album/78Q2cME3Xqp5REjAlDHX8a) | 2:56 |
-| 22 | [Santorini](https://open.spotify.com/track/2FVSQR0FXAIBkPtkkIMigS) | [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7), [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO) | [Santorini](https://open.spotify.com/album/43pq1lauxP6T2c4ySugI0Z) | 2:40 |
+| 22 | [boomerang](https://open.spotify.com/track/1bcXs0KpBkBW2FGSbmhJGl) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [boomerang](https://open.spotify.com/album/29cuKsKKlPn4HJ2Keh3jwD) | 2:18 |
 | 23 | [tequiero](https://open.spotify.com/track/5K7cuVLC8T88DYb9kCLROK) | [Vicco](https://open.spotify.com/artist/2z1MpPojFcvxYcEAx0lT6w), [Abraham Mateo](https://open.spotify.com/artist/2bxxlINUlcMQQb39K7IopR) | [tequiero](https://open.spotify.com/album/02zhFLX1EJtzhZMIEwKipN) | 3:05 |
-| 24 | [Algo Sencillito](https://open.spotify.com/track/2mlccfOj0SdzAoOQRca7vn) | [Marta Santos](https://open.spotify.com/artist/2NeFajzkAQ4UfviWdzf0pK) | [Algo Sencillito](https://open.spotify.com/album/5KD3zAPmFm1uiTXDHTBDZm) | 2:57 |
-| 25 | [Ester Expósito](https://open.spotify.com/track/4GKjSwmowWO082NGn11wNj) | [Dani Martín](https://open.spotify.com/artist/3AIPhNgeF9S1Kyg9Yy3UQW) | [Ester Expósito](https://open.spotify.com/album/0iVOSSLoiNqlqnaMAqe4Co) | 3:33 |
-| 26 | [boomerang](https://open.spotify.com/track/1bcXs0KpBkBW2FGSbmhJGl) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [boomerang](https://open.spotify.com/album/29cuKsKKlPn4HJ2Keh3jwD) | 2:18 |
+| 24 | [Santorini](https://open.spotify.com/track/2FVSQR0FXAIBkPtkkIMigS) | [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7), [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO) | [Santorini](https://open.spotify.com/album/43pq1lauxP6T2c4ySugI0Z) | 2:40 |
+| 25 | [Algo Sencillito](https://open.spotify.com/track/2mlccfOj0SdzAoOQRca7vn) | [Marta Santos](https://open.spotify.com/artist/2NeFajzkAQ4UfviWdzf0pK) | [Algo Sencillito](https://open.spotify.com/album/5KD3zAPmFm1uiTXDHTBDZm) | 2:57 |
+| 26 | [Ester Expósito](https://open.spotify.com/track/4GKjSwmowWO082NGn11wNj) | [Dani Martín](https://open.spotify.com/artist/3AIPhNgeF9S1Kyg9Yy3UQW) | [Ester Expósito](https://open.spotify.com/album/0iVOSSLoiNqlqnaMAqe4Co) | 3:33 |
 | 27 | [BLACK OPIUM](https://open.spotify.com/track/09778gErBvUNDu4hCBiwPX) | [Funzo & Baby Loud](https://open.spotify.com/artist/1nwjHzOUQZsNYX8xoWiGVC) | [PALANTE](https://open.spotify.com/album/0Ts13cnp7kgWyaSfemKGkA) | 2:36 |
 | 28 | [amor de verano](https://open.spotify.com/track/3ACVz5PwPN9P1PC6869Jn6) | [MARLENA](https://open.spotify.com/artist/1IAwO3v7hVP9ryTQtlzc9y) | [amor de verano](https://open.spotify.com/album/0fQ4D10TqLArXAxdPRq1RG) | 2:56 |
 | 29 | [COBARDE](https://open.spotify.com/track/2IEhUsa1s1seGFAySt3zh7) | [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2), [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7) | [COBARDE](https://open.spotify.com/album/5OZzcXlWpCUFz5sNa09zy6) | 2:46 |
@@ -61,4 +61,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3sCT1ItXgNd.md) - [plain]
 | 51 | [Allá Donde Voy](https://open.spotify.com/track/0cAixujNFVV5stYiJwjo0g) | [MARLENA](https://open.spotify.com/artist/1IAwO3v7hVP9ryTQtlzc9y) | [Allá Donde Voy](https://open.spotify.com/album/0szbVCjmV0XYSgxyjV72uu) | 2:29 |
 | 52 | [La buena vida](https://open.spotify.com/track/6izsmJLjlJQF4fYlY5wTih) | [Andrés Koi](https://open.spotify.com/artist/52nf6FtXCWlUMJP1GVhiN2) | [La buena vida](https://open.spotify.com/album/15UKPNMN0uDIOAPYcx9sYi) | 2:58 |
 
-Snapshot ID: `MCw2ZDY0ZTMwNWU0MWRjYzVjNzU5NjVkMDA2NzhhY2IzOWM1YjBlNmZj`
+Snapshot ID: `MCxmMTgzZGJmZDk5ZDNhMWVlYmY4MDg3M2M5MGU0YmI0ZTVjOWI3OGY4`

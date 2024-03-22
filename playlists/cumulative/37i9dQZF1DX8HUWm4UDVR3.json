@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-07-29",
-  "description": "La pop fran\u00e7aise annonce la couleur. Photo : The Doug",
+  "description": "La pop fran\u00e7aise annonce la couleur. Photo : Lancelot",
   "name": "Couleur Pop",
   "tracks": [
     {
@@ -610,7 +610,7 @@
       ],
       "date_added": "2024-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-22",
       "duration_ms": 171000,
       "name": "Creep - Reprise",
       "url": "https://open.spotify.com/track/44X6oJ7rCioDz5dhtC4Fjn"
@@ -1104,7 +1104,7 @@
       ],
       "date_added": "2024-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-22",
       "duration_ms": 178640,
       "name": "Ilavu",
       "url": "https://open.spotify.com/track/6nKlrxZZsN20urXWvQOqHf"
@@ -1711,6 +1711,28 @@
     },
     {
       "album": {
+        "name": "Moi du Pass\u00e9",
+        "url": "https://open.spotify.com/album/1wxKnSrpD8XfrmOgAY0Vmw"
+      },
+      "artists": [
+        {
+          "name": "Venus VNR",
+          "url": "https://open.spotify.com/artist/1VNVb5UAADT5TLDjQ1oGZW"
+        },
+        {
+          "name": "Louis La Flemme",
+          "url": "https://open.spotify.com/artist/6BiGrnotVsXgC9NiadCMVW"
+        }
+      ],
+      "date_added": "2024-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187829,
+      "name": "Moi du Pass\u00e9",
+      "url": "https://open.spotify.com/track/72bwy4wAvp7D2oRsZZ65pp"
+    },
+    {
+      "album": {
         "name": "Multicolore",
         "url": "https://open.spotify.com/album/5pshEhto6fETHUMWA42en8"
       },
@@ -1747,6 +1769,24 @@
     },
     {
       "album": {
+        "name": "Nuit d'hiver",
+        "url": "https://open.spotify.com/album/1sEQ4PyefTPD5JGaEBAPEH"
+      },
+      "artists": [
+        {
+          "name": "Princesse",
+          "url": "https://open.spotify.com/artist/6btazhSPWJjAUX7Qvk8CEw"
+        }
+      ],
+      "date_added": "2024-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188998,
+      "name": "Nuit d'hiver",
+      "url": "https://open.spotify.com/track/7E7A4Bjp1W8RU1FnldFfEx"
+    },
+    {
+      "album": {
         "name": "Nuits bleues",
         "url": "https://open.spotify.com/album/1f5u4egw7dLFkDcXnhqkhW"
       },
@@ -1762,6 +1802,24 @@
       "duration_ms": 156279,
       "name": "Nuits bleues",
       "url": "https://open.spotify.com/track/14V0agAxlMODImJusOV3dC"
+    },
+    {
+      "album": {
+        "name": "Nuits Cin\u00e9matiques",
+        "url": "https://open.spotify.com/album/237Uao1tp7SQNVmC9QeNg4"
+      },
+      "artists": [
+        {
+          "name": "Louise Combier",
+          "url": "https://open.spotify.com/artist/26795z7WfjgTuOCIXuwP5h"
+        }
+      ],
+      "date_added": "2024-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187500,
+      "name": "Nuits Cin\u00e9matiques",
+      "url": "https://open.spotify.com/track/74wu5CQHXvXcDCbxyVtunM"
     },
     {
       "album": {
@@ -1794,7 +1852,7 @@
       ],
       "date_added": "2023-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-22",
       "duration_ms": 159603,
       "name": "OH MADELEINE",
       "url": "https://open.spotify.com/track/6mlYa6FsNSfpBtr8axmVoc"
@@ -2127,6 +2185,24 @@
     },
     {
       "album": {
+        "name": "Que des coeurs",
+        "url": "https://open.spotify.com/album/3GY4dWvQs60WJMAaNbSJZw"
+      },
+      "artists": [
+        {
+          "name": "Charlie Faron",
+          "url": "https://open.spotify.com/artist/7bHfn00UcuTafrQLESy8UE"
+        }
+      ],
+      "date_added": "2024-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169293,
+      "name": "Que des coeurs",
+      "url": "https://open.spotify.com/track/7cfP2PmkCxA2HVBKNgAdOX"
+    },
+    {
+      "album": {
         "name": "R+V",
         "url": "https://open.spotify.com/album/4NYERenRZSe7KCptxkD6ja"
       },
@@ -2358,7 +2434,7 @@
       ],
       "date_added": "2024-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-22",
       "duration_ms": 196860,
       "name": "Si\u00e8cle",
       "url": "https://open.spotify.com/track/0vX8rhIZdNyTEWx462w0jx"

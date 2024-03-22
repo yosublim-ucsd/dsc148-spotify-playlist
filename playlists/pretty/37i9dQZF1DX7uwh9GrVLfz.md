@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7uwh9GrVLfz.md) - [plain]
 
 > The legendary classics meet the newest cutting edge\. This is Japanese punk\. cover: Su凸ko D凹koi
 
-[Spotify](https://open.spotify.com/user/spotify) - 117,700 likes - 100 songs - 5 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 117,740 likes - 100 songs - 5 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,9 +42,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7uwh9GrVLfz.md) - [plain]
 | 32 | [INSOMNIAC](https://open.spotify.com/track/2EzDDlGlwTPNPQPojXvKty) | [Northern19](https://open.spotify.com/artist/4fsXgCjIFWNkCrO2rHd5da) | [INSOMNIAC](https://open.spotify.com/album/2e59EpMeBgRjNL4dcAXzB3) | 3:58 |
 | 33 | [Ni\-Ni\-](https://open.spotify.com/track/5TcJ2BjDZlr5kSD03EiYyb) | [サバシスター](https://open.spotify.com/artist/59SCS5djYwMbZv80XDI0pj) | [Prepare Yourself!](https://open.spotify.com/album/6Hl7O9yuwyCItVzotgCqF2) | 2:22 |
 | 34 | [感情is MINE](https://open.spotify.com/track/1ijdOQYxwXh7HMqQCxY7Mi) | [ni\-hao!!!!](https://open.spotify.com/artist/2rq2Ey2tW4ZBG0K9OAg39k) | [感情is MINE/Super Model](https://open.spotify.com/album/0hH7lHpPWSDtysnqC9FDL4) | 1:46 |
-| 35 | [虹](https://open.spotify.com/track/6h5i1sJnmPfHmzhJvd89Op) | [ELLEGARDEN](https://open.spotify.com/artist/3cbd5GWGOknxmFAe77MDbk) | [RIOT ON THE GRILL](https://open.spotify.com/album/47THqxbGDOoKSZ0xZxCApD) | 3:26 |
+| 35 | [BGMになるなよ](https://open.spotify.com/track/3iuviQn85fBJ9Y7JQbCvbr) | [Humbreaders](https://open.spotify.com/artist/32k7rSC70F3C7qif9Pgavi) | [ギター](https://open.spotify.com/album/3wKA6bMyygQ4XNm5lyD1ig) | 3:48 |
 | 36 | [St.ROSALIA](https://open.spotify.com/track/0pt8HXNsijGE4jefgYpNSk) | [Nicotine](https://open.spotify.com/artist/0p3U0uLx2oSf0yn8i5XZki) | [St\. ROSALIA](https://open.spotify.com/album/0TdxzkKJTNqDHKXzW0N158) | 4:52 |
-| 37 | [BGMになるなよ](https://open.spotify.com/track/3iuviQn85fBJ9Y7JQbCvbr) | [Humbreaders](https://open.spotify.com/artist/32k7rSC70F3C7qif9Pgavi) | [ギター](https://open.spotify.com/album/3wKA6bMyygQ4XNm5lyD1ig) | 3:48 |
+| 37 | [虹](https://open.spotify.com/track/6h5i1sJnmPfHmzhJvd89Op) | [ELLEGARDEN](https://open.spotify.com/artist/3cbd5GWGOknxmFAe77MDbk) | [RIOT ON THE GRILL](https://open.spotify.com/album/47THqxbGDOoKSZ0xZxCApD) | 3:26 |
 | 38 | [sleeps](https://open.spotify.com/track/7xeYoyOdyJvcbfh9FKQE4e) | [RAINCOVER](https://open.spotify.com/artist/2sOzogZ56UHGK5MxDIniyW) | [sleeps](https://open.spotify.com/album/3gDcmKiNQIffNxvaQwwigT) | 4:22 |
 | 39 | [Feel](https://open.spotify.com/track/1x9DvNhTh5vXYuCKiN7tV6) | [WANIMA](https://open.spotify.com/artist/6YqdtpUutxodni6lUD4stM) | [1Time](https://open.spotify.com/album/2O5JoRxsxK3ZEQWWCwUzDs) | 6:16 |
 | 40 | [ここにいた才能](https://open.spotify.com/track/4GBBbMpBEz4isZYAvJk3Qr) | [ルサンチマン](https://open.spotify.com/artist/5LvaknCVL7R16LCiSktKEm) | [ここにいた才能](https://open.spotify.com/album/0kPcDIfAmEr9FNhCfuketW) | 2:15 |
@@ -95,8 +95,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7uwh9GrVLfz.md) - [plain]
 | 85 | [情熱たましい](https://open.spotify.com/track/4HUGJkUteNRGnyr2GVFYRp) | [B\-DASH](https://open.spotify.com/artist/1ZUagrWzR2kve94ptFLdSz) | [ビッグ ブラック ストア\(連絡しろ\)](https://open.spotify.com/album/1f5YEXI4Ezn2NEGOr0LdlU) | 3:07 |
 | 86 | [今夜](https://open.spotify.com/track/3OIZncmhlLb29Ude4fffmj) | [BRAHMAN](https://open.spotify.com/artist/65ZxfiilUIYWNEpDjrHaM5) | [梵唄 \-bonbai\-](https://open.spotify.com/album/15iY1BT28NYAxP1I6TTkXx) | 4:25 |
 | 87 | [WALK](https://open.spotify.com/track/37XUvKGl59e5TBs6LUqLFv) | [Husking Bee](https://open.spotify.com/artist/3reslfdzWDC8qHVM36KtZy) | [GRIP](https://open.spotify.com/album/1idRGxgQz3hZHnZFQRHPaM) | 2:13 |
-| 88 | [そんな日々を生きていく](https://open.spotify.com/track/1UJVe7sPD9uEm5xJE9Mc6p) | [からあげ弁当](https://open.spotify.com/artist/3YCsPDGZvNkIqn5PxHE2uz) | [そんな日々を生きていく](https://open.spotify.com/album/6229MPDOzFYCQh0PlCDyq8) | 4:31 |
-| 89 | [Riot](https://open.spotify.com/track/223nvf6U6stGS3nkA72KQ3) | [dustbox](https://open.spotify.com/artist/11PVIVQzvdHOrvVmNlkYNZ) | [Care Package](https://open.spotify.com/album/26xfYpzZgpGWRgJ7azcrIa) | 2:50 |
+| 88 | [Riot](https://open.spotify.com/track/223nvf6U6stGS3nkA72KQ3) | [dustbox](https://open.spotify.com/artist/11PVIVQzvdHOrvVmNlkYNZ) | [Care Package](https://open.spotify.com/album/26xfYpzZgpGWRgJ7azcrIa) | 2:50 |
+| 89 | [そんな日々を生きていく](https://open.spotify.com/track/1UJVe7sPD9uEm5xJE9Mc6p) | [からあげ弁当](https://open.spotify.com/artist/3YCsPDGZvNkIqn5PxHE2uz) | [そんな日々を生きていく](https://open.spotify.com/album/6229MPDOzFYCQh0PlCDyq8) | 4:31 |
 | 90 | [クラーク博士と僕](https://open.spotify.com/track/5Tc0JZXCvmS51vVwPyV3RJ) | [suxingcyu](https://open.spotify.com/artist/2SU7W9Mkvei3bZkF3XuOjP) | [メジャーデビューというボケ](https://open.spotify.com/album/2gSRGSg2fgVMAIbgWYPDHZ) | 2:18 |
 | 91 | [ストラトキャスター・シーサイド](https://open.spotify.com/track/0jPt8zNHeeCWoPuttIqBqL) | [Suspended 4th](https://open.spotify.com/artist/6q0QNKHpDI9j3lOCRxoPyp) | [GIANTSTAMP](https://open.spotify.com/album/57na8P5liC3zgZTG72lz2S) | 3:12 |
 | 92 | [HEARTBEAT](https://open.spotify.com/track/4XRP6yJ7CPzCVM3jcZbMwz) | [TENDOUJI](https://open.spotify.com/artist/7kOS7xo3ryc1MmhfP0fNnX) | [HEARTBEAT](https://open.spotify.com/album/2Szuh3zqRSHAQZywLXU7jc) | 3:04 |
@@ -106,7 +106,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7uwh9GrVLfz.md) - [plain]
 | 96 | [Miracle](https://open.spotify.com/track/1meDmOUSJzltRqEtDMcxkt) | [TOTALFAT](https://open.spotify.com/artist/2Bxu9stwgeIGzYeTNRicKE) | [BAND FOR HAPPY](https://open.spotify.com/album/5xJPX8mkswZHKkYM6dkWTk) | 1:12 |
 | 97 | [These Magic Words](https://open.spotify.com/track/3RbS00mL3QbGKEupNTmn9s) | [Ken Yokoyama](https://open.spotify.com/artist/4pPZ7nNH108ax8A1sjxfpX) | [Indian Burn](https://open.spotify.com/album/0IChffToKdKcuJTlz5H7AI) | 2:54 |
 | 98 | ["Let it die \-Subete wa isutori game\-" \(Let it die \-All is musical chairs\-\)](https://open.spotify.com/track/2TAxUxm124Yt8hvtUS9oXi) | [PAN](https://open.spotify.com/artist/2YKxuLK7kkCTYnTkX4O17T) | [Goo Goo Goo](https://open.spotify.com/album/7xgE9X3dQw5GBMognMf1oE) | 3:12 |
-| 99 | [永遠少女](https://open.spotify.com/track/1f5lVcQBXRG4tXR9Vk2eMs) | [ZAZEN BOYS](https://open.spotify.com/artist/6oAUOiOlMM5wvNfu2xikvM) | [永遠少女](https://open.spotify.com/album/5NNnqLKCYbLjnz63CnvnKQ) | 4:02 |
-| 100 | [Ohichyo](https://open.spotify.com/track/4PCTknCvdlBSZuOw9gpH6F) | [KEMURI](https://open.spotify.com/artist/3tRqvT7FoScxartUAj68Wp) | [77 Days](https://open.spotify.com/album/2MGPBJ3elGWwjgKRBXy1ib) | 2:23 |
+| 99 | [Ohichyo](https://open.spotify.com/track/4PCTknCvdlBSZuOw9gpH6F) | [KEMURI](https://open.spotify.com/artist/3tRqvT7FoScxartUAj68Wp) | [77 Days](https://open.spotify.com/album/2MGPBJ3elGWwjgKRBXy1ib) | 2:23 |
+| 100 | [永遠少女](https://open.spotify.com/track/1f5lVcQBXRG4tXR9Vk2eMs) | [ZAZEN BOYS](https://open.spotify.com/artist/6oAUOiOlMM5wvNfu2xikvM) | [永遠少女](https://open.spotify.com/album/5NNnqLKCYbLjnz63CnvnKQ) | 4:02 |
 
-Snapshot ID: `MCw0NTViN2RmMmYwNThmZmY1YjE1YzNkY2MwNzI4YTg4ZDE3YjdhOGJm`
+Snapshot ID: `MCw3NzMxMmU3NGE2YzI0Nzc4ZWY4ZTExY2ZiMDNiOGE5MjgzOWQxY2Ez`

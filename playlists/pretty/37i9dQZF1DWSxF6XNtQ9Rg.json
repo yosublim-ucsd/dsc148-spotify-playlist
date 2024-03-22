@@ -1,12 +1,12 @@
 {
   "description": "Solo hit rap da ascoltare in loop. Cover: Sfera Ebbasta",
-  "num_followers": 205822,
+  "num_followers": 205865,
   "original_name": "Hit Rap Italiane",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwM2JhNzdhMzQwMTRkY2FlZTQ3ODFiNGY5YzQ2ZGNmNTVmZTZhZDYy",
+  "snapshot_id": "MCwxZjgyNTZiZjA0NWI1MzEzODc3Zjg0NzZhZWRhYjZhMTM1YjI3OGFm",
   "tracks": [
     {
       "added_at": "2024-02-22 23:01:00",
@@ -791,22 +791,6 @@
     {
       "added_at": "2024-02-22 23:01:00",
       "album": {
-        "name": "BOSS",
-        "url": "https://open.spotify.com/album/3sMOvpUohugjixq44SynQG"
-      },
-      "artists": [
-        {
-          "name": "Tony Effe",
-          "url": "https://open.spotify.com/artist/6CKch2otN4SPznHf9ms5JF"
-        }
-      ],
-      "duration_ms": 144930,
-      "name": "BOSS",
-      "url": "https://open.spotify.com/track/41ZKcEXI1OSUDpY2zzP45D"
-    },
-    {
-      "added_at": "2024-02-22 23:01:00",
-      "album": {
         "name": "Mowgli",
         "url": "https://open.spotify.com/album/2F4YVNFy52kTEGDXdeYiZX"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 203040,
       "name": "Vertigini",
       "url": "https://open.spotify.com/track/1Oou7m2VuxCDSOdqsu07TU"
+    },
+    {
+      "added_at": "2024-02-22 23:01:00",
+      "album": {
+        "name": "BOSS",
+        "url": "https://open.spotify.com/album/3sMOvpUohugjixq44SynQG"
+      },
+      "artists": [
+        {
+          "name": "Tony Effe",
+          "url": "https://open.spotify.com/artist/6CKch2otN4SPznHf9ms5JF"
+        }
+      ],
+      "duration_ms": 144930,
+      "name": "BOSS",
+      "url": "https://open.spotify.com/track/41ZKcEXI1OSUDpY2zzP45D"
     },
     {
       "added_at": "2024-02-22 23:01:00",
@@ -1243,26 +1243,18 @@
     {
       "added_at": "2024-02-22 23:01:00",
       "album": {
-        "name": "X2",
-        "url": "https://open.spotify.com/album/6ZVOpNfX2JMfAFDqEfmyQ5"
+        "name": "Mi fist (Remastered version)",
+        "url": "https://open.spotify.com/album/5v0hrtP9nDnlfx2rbAiAd8"
       },
       "artists": [
         {
-          "name": "Sick Luke",
-          "url": "https://open.spotify.com/artist/0hk4xVujcyOr6USD95wcWb"
-        },
-        {
-          "name": "thasup",
-          "url": "https://open.spotify.com/artist/19i93sA0D7yS9dYoVNBqAA"
-        },
-        {
-          "name": "Sfera Ebbasta",
-          "url": "https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz"
+          "name": "Club Dogo",
+          "url": "https://open.spotify.com/artist/4dyfAiJCbl7jS1GHOCdiJv"
         }
       ],
-      "duration_ms": 211660,
-      "name": "SOLITE PARE (feat. thasup & Sfera Ebbasta)",
-      "url": "https://open.spotify.com/track/0PQxC8NHgiKXLK3Zm6QoCj"
+      "duration_ms": 264689,
+      "name": "Note killer",
+      "url": "https://open.spotify.com/track/0QTPU4o8visZ7pz55n8Mco"
     },
     {
       "added_at": "2024-02-22 23:01:00",
@@ -1287,6 +1279,30 @@
     {
       "added_at": "2024-02-22 23:01:00",
       "album": {
+        "name": "X2",
+        "url": "https://open.spotify.com/album/6ZVOpNfX2JMfAFDqEfmyQ5"
+      },
+      "artists": [
+        {
+          "name": "Sick Luke",
+          "url": "https://open.spotify.com/artist/0hk4xVujcyOr6USD95wcWb"
+        },
+        {
+          "name": "thasup",
+          "url": "https://open.spotify.com/artist/19i93sA0D7yS9dYoVNBqAA"
+        },
+        {
+          "name": "Sfera Ebbasta",
+          "url": "https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz"
+        }
+      ],
+      "duration_ms": 211660,
+      "name": "SOLITE PARE (feat. thasup & Sfera Ebbasta)",
+      "url": "https://open.spotify.com/track/0PQxC8NHgiKXLK3Zm6QoCj"
+    },
+    {
+      "added_at": "2024-02-22 23:01:00",
+      "album": {
         "name": "Bisous",
         "url": "https://open.spotify.com/album/18WfbdpSPZ3Gx1qlMlHGSP"
       },
@@ -1303,22 +1319,6 @@
       "duration_ms": 154960,
       "name": "Bisous",
       "url": "https://open.spotify.com/track/74lz9d1soQih0k9QtN0acn"
-    },
-    {
-      "added_at": "2024-02-22 23:01:00",
-      "album": {
-        "name": "Mi fist (Remastered version)",
-        "url": "https://open.spotify.com/album/5v0hrtP9nDnlfx2rbAiAd8"
-      },
-      "artists": [
-        {
-          "name": "Club Dogo",
-          "url": "https://open.spotify.com/artist/4dyfAiJCbl7jS1GHOCdiJv"
-        }
-      ],
-      "duration_ms": 264689,
-      "name": "Note killer",
-      "url": "https://open.spotify.com/track/0QTPU4o8visZ7pz55n8Mco"
     },
     {
       "added_at": "2024-02-22 23:01:00",
@@ -1707,22 +1707,6 @@
     {
       "added_at": "2024-02-22 23:01:00",
       "album": {
-        "name": "Album",
-        "url": "https://open.spotify.com/album/09wqWIOKWuS6RwjBrXe08B"
-      },
-      "artists": [
-        {
-          "name": "Ghali",
-          "url": "https://open.spotify.com/artist/3egWSWp7Y4FyCKIyvXbw7L"
-        }
-      ],
-      "duration_ms": 171026,
-      "name": "Ricchi Dentro",
-      "url": "https://open.spotify.com/track/4thhwyZW9cnnFGKOBGNYcM"
-    },
-    {
-      "added_at": "2024-02-22 23:01:00",
-      "album": {
         "name": "Dove Gli Occhi Non Arrivano",
         "url": "https://open.spotify.com/album/6qLE8gO2SSYOFv03GaxxHi"
       },
@@ -1739,6 +1723,22 @@
       "duration_ms": 181866,
       "name": "Mon Cheri (feat. Sfera Ebbasta)",
       "url": "https://open.spotify.com/track/66UkKyxN5YbJl9z7YamQOR"
+    },
+    {
+      "added_at": "2024-02-22 23:01:00",
+      "album": {
+        "name": "Album",
+        "url": "https://open.spotify.com/album/09wqWIOKWuS6RwjBrXe08B"
+      },
+      "artists": [
+        {
+          "name": "Ghali",
+          "url": "https://open.spotify.com/artist/3egWSWp7Y4FyCKIyvXbw7L"
+        }
+      ],
+      "duration_ms": 171026,
+      "name": "Ricchi Dentro",
+      "url": "https://open.spotify.com/track/4thhwyZW9cnnFGKOBGNYcM"
     },
     {
       "added_at": "2024-02-22 23:01:00",
@@ -1799,26 +1799,6 @@
     {
       "added_at": "2024-02-22 23:01:00",
       "album": {
-        "name": "Ma Jolie (feat. ANNA)",
-        "url": "https://open.spotify.com/album/5DiVq0GezpEej8E2krKSkz"
-      },
-      "artists": [
-        {
-          "name": "Medy",
-          "url": "https://open.spotify.com/artist/3lbFUmlaNMa9ZVSabLlkhn"
-        },
-        {
-          "name": "ANNA",
-          "url": "https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u"
-        }
-      ],
-      "duration_ms": 158769,
-      "name": "Ma Jolie (feat. ANNA)",
-      "url": "https://open.spotify.com/track/7J4FSE9i1mo3ZHtaMy27dy"
-    },
-    {
-      "added_at": "2024-02-22 23:01:00",
-      "album": {
         "name": "Glory Days EP",
         "url": "https://open.spotify.com/album/2rxe8Kwyd417YSYmSXs0CI"
       },
@@ -1847,6 +1827,26 @@
     {
       "added_at": "2024-02-22 23:01:00",
       "album": {
+        "name": "Ma Jolie (feat. ANNA)",
+        "url": "https://open.spotify.com/album/5DiVq0GezpEej8E2krKSkz"
+      },
+      "artists": [
+        {
+          "name": "Medy",
+          "url": "https://open.spotify.com/artist/3lbFUmlaNMa9ZVSabLlkhn"
+        },
+        {
+          "name": "ANNA",
+          "url": "https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u"
+        }
+      ],
+      "duration_ms": 158769,
+      "name": "Ma Jolie (feat. ANNA)",
+      "url": "https://open.spotify.com/track/7J4FSE9i1mo3ZHtaMy27dy"
+    },
+    {
+      "added_at": "2024-02-22 23:01:00",
+      "album": {
         "name": "Dark Love EP",
         "url": "https://open.spotify.com/album/5Z5JxIgeTDnZdg6pLootUs"
       },
@@ -1859,30 +1859,6 @@
       "duration_ms": 176245,
       "name": "Pensando a lei",
       "url": "https://open.spotify.com/track/2d0ZupCYQL3ME43vB3Dei3"
-    },
-    {
-      "added_at": "2024-02-22 23:01:00",
-      "album": {
-        "name": "TAXI DRIVER",
-        "url": "https://open.spotify.com/album/4D04TN7Kw7Bq98kfDjUmgh"
-      },
-      "artists": [
-        {
-          "name": "Rkomi",
-          "url": "https://open.spotify.com/artist/056KMTw6IztdQjBmFfVyO3"
-        },
-        {
-          "name": "Ernia",
-          "url": "https://open.spotify.com/artist/3fhMfkPPzksWuw0hEm4ldm"
-        },
-        {
-          "name": "MACE",
-          "url": "https://open.spotify.com/artist/7gjqZ8coFZimZDtdk04WP1"
-        }
-      ],
-      "duration_ms": 174727,
-      "name": "10 RAGAZZE (con ERNIA)",
-      "url": "https://open.spotify.com/track/45OsJpk7HMJKOnMVf2eQsV"
     },
     {
       "added_at": "2024-02-22 23:01:00",
@@ -1911,22 +1887,26 @@
     {
       "added_at": "2024-02-22 23:01:00",
       "album": {
-        "name": "Angelina Jolie",
-        "url": "https://open.spotify.com/album/6sE81aPV364gLYtUBwgzwR"
+        "name": "TAXI DRIVER",
+        "url": "https://open.spotify.com/album/4D04TN7Kw7Bq98kfDjUmgh"
       },
       "artists": [
         {
-          "name": "Bresh",
-          "url": "https://open.spotify.com/artist/7FeObngbQ0GY3SojNwKdKn"
+          "name": "Rkomi",
+          "url": "https://open.spotify.com/artist/056KMTw6IztdQjBmFfVyO3"
         },
         {
-          "name": "SHUNE",
-          "url": "https://open.spotify.com/artist/5YV5crRpcdknHgEzystZHr"
+          "name": "Ernia",
+          "url": "https://open.spotify.com/artist/3fhMfkPPzksWuw0hEm4ldm"
+        },
+        {
+          "name": "MACE",
+          "url": "https://open.spotify.com/artist/7gjqZ8coFZimZDtdk04WP1"
         }
       ],
-      "duration_ms": 169671,
-      "name": "Angelina Jolie",
-      "url": "https://open.spotify.com/track/0tD4EXZRm1JGDYWtKYFLWK"
+      "duration_ms": 174727,
+      "name": "10 RAGAZZE (con ERNIA)",
+      "url": "https://open.spotify.com/track/45OsJpk7HMJKOnMVf2eQsV"
     },
     {
       "added_at": "2024-02-22 23:01:00",
@@ -1951,6 +1931,26 @@
       "duration_ms": 256786,
       "name": "Spigoli (feat. Mara Sattei & thasup)",
       "url": "https://open.spotify.com/track/5YPKiDLejR1JhnX6w2lhro"
+    },
+    {
+      "added_at": "2024-02-22 23:01:00",
+      "album": {
+        "name": "Angelina Jolie",
+        "url": "https://open.spotify.com/album/6sE81aPV364gLYtUBwgzwR"
+      },
+      "artists": [
+        {
+          "name": "Bresh",
+          "url": "https://open.spotify.com/artist/7FeObngbQ0GY3SojNwKdKn"
+        },
+        {
+          "name": "SHUNE",
+          "url": "https://open.spotify.com/artist/5YV5crRpcdknHgEzystZHr"
+        }
+      ],
+      "duration_ms": 169671,
+      "name": "Angelina Jolie",
+      "url": "https://open.spotify.com/track/0tD4EXZRm1JGDYWtKYFLWK"
     }
   ],
   "unique_name": "Hit Rap Italiane",

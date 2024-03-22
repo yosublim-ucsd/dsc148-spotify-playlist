@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7CGYgLhqwu5.md) - [plain]
 
 > Many would say that this decade is a "Golden Era" for country music\. Cover: Patsy Cline
 
-[Spotify](https://open.spotify.com/user/spotify) - 375,980 likes - 100 songs - 4 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 376,002 likes - 100 songs - 4 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,8 +60,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7CGYgLhqwu5.md) - [plain]
 | 50 | [Welcome to My World](https://open.spotify.com/track/4xpjtAqc46tg04BzHTZnz2) | [Jim Reeves](https://open.spotify.com/artist/2Ev0e8GUIX4u7d9etNLTXg) | [The Essential Jim Reeves](https://open.spotify.com/album/158F4r9awKr4bs7X5E49JA) | 2:32 |
 | 51 | [It's Such A Pretty World Today](https://open.spotify.com/track/32zPvvt7K2nZIbQl7cMM3F) | [Wynn Stewart](https://open.spotify.com/artist/0ZnXSl6jvNavoEpJ5I5AdE) | [Lost Country Hits of the 60s](https://open.spotify.com/album/2Wod7YXHNfXubV7EdP4Lto) | 2:30 |
 | 52 | [Little Green Apples \- Single Version](https://open.spotify.com/track/30jEnUWPJIt6zh25s2Kbh0) | [Roger Miller](https://open.spotify.com/artist/1RP2UpEaRzkF0Id3JigqD8) | [A Tender Look At Love](https://open.spotify.com/album/3Vlcvce8W9eBIyNoOBQXCy) | 2:36 |
-| 53 | [Abilene](https://open.spotify.com/track/5bA26v8eeZrbHJpD4YPKAX) | [George Hamilton IV](https://open.spotify.com/artist/6G39Gakqv1r26pZzijSWti) | [Abilene](https://open.spotify.com/album/5hEPstUqc8b4ySF5LCmR5M) | 2:13 |
-| 54 | [Stop the World \(And Let Me Off\)](https://open.spotify.com/track/0jvmlZJZCaTZLMh3yfL6Y5) | [Waylon Jennings](https://open.spotify.com/artist/7wCjDgV6nqBsHguQXPAaIM) | [Folk\-Country](https://open.spotify.com/album/18bZE82qsKfz1TYDROUKtz) | 2:02 |
+| 53 | [Stop the World \(And Let Me Off\)](https://open.spotify.com/track/0jvmlZJZCaTZLMh3yfL6Y5) | [Waylon Jennings](https://open.spotify.com/artist/7wCjDgV6nqBsHguQXPAaIM) | [Folk\-Country](https://open.spotify.com/album/18bZE82qsKfz1TYDROUKtz) | 2:02 |
+| 54 | [Abilene](https://open.spotify.com/track/5bA26v8eeZrbHJpD4YPKAX) | [George Hamilton IV](https://open.spotify.com/artist/6G39Gakqv1r26pZzijSWti) | [Abilene](https://open.spotify.com/album/5hEPstUqc8b4ySF5LCmR5M) | 2:13 |
 | 55 | [Let's Have A Party](https://open.spotify.com/track/2B4IYgIkBnemrp0YEkaUIH) | [Wanda Jackson](https://open.spotify.com/artist/5ZKMPRDHc7qElVJFh3uRqB) | [Wanda Jackson](https://open.spotify.com/album/3i4ROYpkAL4528HDyp8gKw) | 2:11 |
 | 56 | [Walk Through This World With Me](https://open.spotify.com/track/61l4nlG7v1D9V14PfBWz0P) | [George Jones](https://open.spotify.com/artist/2OpqcUtj10HHvGG6h9VYC5) | [Country Heart: 24 Favorite Songs](https://open.spotify.com/album/15HPAnwnYAOmyOOTvQpgjn) | 2:18 |
 | 57 | [Does My Ring Hurt Your Finger](https://open.spotify.com/track/6VUXsWN3aNqEhaPawlFjep) | [Charley Pride](https://open.spotify.com/artist/69Fk1s1lzINOKqoSWjjEiE) | [The Country Way](https://open.spotify.com/album/0mMQCBMVvGhDx5Kfu3Fwta) | 2:17 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7CGYgLhqwu5.md) - [plain]
 | 99 | [Saginaw, Michigan](https://open.spotify.com/track/0ulPILleWfE1NBzUWIiNi9) | [Lefty Frizzell](https://open.spotify.com/artist/05pAwLhsutiuj6gerEwGvU) | [Saginaw, Michigan](https://open.spotify.com/album/2ldbI4zj8GXoN8rJL5V6bX) | 3:02 |
 | 100 | [Timber I'm Falling](https://open.spotify.com/track/6tYRg3XkDpjlST4XBMcnjX) | [Ferlin Husky](https://open.spotify.com/artist/0szj7Sxtyluyjc2Arj0njB) | [Super Hits](https://open.spotify.com/album/0olpLTTyf5mFEpgNcdJzJ9) | 2:32 |
 
-Snapshot ID: `MCxmMzM5MTUxZTE5OWY4YThmMzdjM2I3YTkyMjY3MGNjZDQxZjBiYTI1`
+Snapshot ID: `MCxlZGM5NjgwODhmZWFjZjFlN2Y5ODI3YmUyZjc2NGJjZDI3OTIyYWUw`

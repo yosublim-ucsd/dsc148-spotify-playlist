@@ -1,12 +1,12 @@
 {
   "description": "Iconic instrumentals from the history of Blues.",
-  "num_followers": 46951,
+  "num_followers": 46979,
   "original_name": "Classic Instrumental Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2MmY2Zjk3NmVhZmQ2OGJlMzZlYThmN2U3YTZiMGRhZDYwMjdhODQy",
+  "snapshot_id": "MCxiNDY4OTk0YTlkN2Q5NmY5NmUzYzRlYjI5NDI3NjI5MmVhZjAwZTli",
   "tracks": [
     {
       "added_at": "2023-08-23 10:31:46",
@@ -315,22 +315,6 @@
     {
       "added_at": "2023-08-23 10:31:46",
       "album": {
-        "name": "Ice Pickin'",
-        "url": "https://open.spotify.com/album/7K0AX1jtXt1iLCtPLM3dab"
-      },
-      "artists": [
-        {
-          "name": "Albert Collins",
-          "url": "https://open.spotify.com/artist/1uFixbBAduJkFAeRKznkvW"
-        }
-      ],
-      "duration_ms": 159626,
-      "name": "Avalanche",
-      "url": "https://open.spotify.com/track/4XtHlG9bac0BxNGSJkuK3J"
-    },
-    {
-      "added_at": "2023-08-23 10:31:46",
-      "album": {
         "name": "Super Session (with Al Kooper & Stephen Stills)",
         "url": "https://open.spotify.com/album/6bdy2PnssuzDkldvAOjVmj"
       },
@@ -347,6 +331,22 @@
       "duration_ms": 326173,
       "name": "Really",
       "url": "https://open.spotify.com/track/2gkEufrsoGisa7p4rh6K22"
+    },
+    {
+      "added_at": "2023-08-23 10:31:46",
+      "album": {
+        "name": "Ice Pickin'",
+        "url": "https://open.spotify.com/album/7K0AX1jtXt1iLCtPLM3dab"
+      },
+      "artists": [
+        {
+          "name": "Albert Collins",
+          "url": "https://open.spotify.com/artist/1uFixbBAduJkFAeRKznkvW"
+        }
+      ],
+      "duration_ms": 159626,
+      "name": "Avalanche",
+      "url": "https://open.spotify.com/track/4XtHlG9bac0BxNGSJkuK3J"
     },
     {
       "added_at": "2023-08-23 10:31:46",
@@ -411,26 +411,6 @@
       "duration_ms": 157506,
       "name": "Phillips Goes Bananas",
       "url": "https://open.spotify.com/track/5gfRFbVkh7Ppxe13omloWz"
-    },
-    {
-      "added_at": "2023-08-23 10:31:46",
-      "album": {
-        "name": "Super Session (with Al Kooper & Stephen Stills)",
-        "url": "https://open.spotify.com/album/6bdy2PnssuzDkldvAOjVmj"
-      },
-      "artists": [
-        {
-          "name": "Mike Bloomfield",
-          "url": "https://open.spotify.com/artist/0yT9vbP1EOnCpl2McnF9nH"
-        },
-        {
-          "name": "Al Kooper",
-          "url": "https://open.spotify.com/artist/49JvZ17o0VaAmXaJv5kZlv"
-        }
-      ],
-      "duration_ms": 255066,
-      "name": "Blues for Nothing",
-      "url": "https://open.spotify.com/track/6tPZzx5GfGTAG4ehDYnL7b"
     },
     {
       "added_at": "2023-08-23 10:31:46",
@@ -503,6 +483,26 @@
       "duration_ms": 172173,
       "name": "Jam On A Monday Morning",
       "url": "https://open.spotify.com/track/6UQMeYLE04t3PJY2OYYhA4"
+    },
+    {
+      "added_at": "2023-08-23 10:31:46",
+      "album": {
+        "name": "Super Session (with Al Kooper & Stephen Stills)",
+        "url": "https://open.spotify.com/album/6bdy2PnssuzDkldvAOjVmj"
+      },
+      "artists": [
+        {
+          "name": "Mike Bloomfield",
+          "url": "https://open.spotify.com/artist/0yT9vbP1EOnCpl2McnF9nH"
+        },
+        {
+          "name": "Al Kooper",
+          "url": "https://open.spotify.com/artist/49JvZ17o0VaAmXaJv5kZlv"
+        }
+      ],
+      "duration_ms": 255066,
+      "name": "Blues for Nothing",
+      "url": "https://open.spotify.com/track/6tPZzx5GfGTAG4ehDYnL7b"
     },
     {
       "added_at": "2023-08-23 10:31:46",
@@ -647,22 +647,6 @@
     {
       "added_at": "2023-08-23 10:31:46",
       "album": {
-        "name": "What's The Word?",
-        "url": "https://open.spotify.com/album/2OZq6JmBN0B5gUnw8bG4nD"
-      },
-      "artists": [
-        {
-          "name": "The Fabulous Thunderbirds",
-          "url": "https://open.spotify.com/artist/6zmLTiN3NBNCDECRbbJKkT"
-        }
-      ],
-      "duration_ms": 158493,
-      "name": "Extra Jimmies",
-      "url": "https://open.spotify.com/track/7JpvSoMnhgh2UTSkD9ZVpR"
-    },
-    {
-      "added_at": "2023-08-23 10:31:46",
-      "album": {
         "name": "Stand Back!",
         "url": "https://open.spotify.com/album/76xRltIuAfERRJwWp1Fbbe"
       },
@@ -675,6 +659,22 @@
       "duration_ms": 192000,
       "name": "Cha Cha The Blues",
       "url": "https://open.spotify.com/track/44759fbdnc1zfQZLZt8U0i"
+    },
+    {
+      "added_at": "2023-08-23 10:31:46",
+      "album": {
+        "name": "What's The Word?",
+        "url": "https://open.spotify.com/album/2OZq6JmBN0B5gUnw8bG4nD"
+      },
+      "artists": [
+        {
+          "name": "The Fabulous Thunderbirds",
+          "url": "https://open.spotify.com/artist/6zmLTiN3NBNCDECRbbJKkT"
+        }
+      ],
+      "duration_ms": 158493,
+      "name": "Extra Jimmies",
+      "url": "https://open.spotify.com/track/7JpvSoMnhgh2UTSkD9ZVpR"
     },
     {
       "added_at": "2023-08-23 10:31:46",
@@ -1255,6 +1255,22 @@
     {
       "added_at": "2023-08-23 10:31:46",
       "album": {
+        "name": "Music For Mad Men - Robust Blues",
+        "url": "https://open.spotify.com/album/2L1bV6IHXipTrOZTpOjgbg"
+      },
+      "artists": [
+        {
+          "name": "Lowell Fulson",
+          "url": "https://open.spotify.com/artist/3VhvGNnWfzmlEyiuhzdgf5"
+        }
+      ],
+      "duration_ms": 139413,
+      "name": "Jukebox Shuffle",
+      "url": "https://open.spotify.com/track/1jiLso73owUVS8cmwwShsf"
+    },
+    {
+      "added_at": "2023-08-23 10:31:46",
+      "album": {
         "name": "Stay High [Feat. Cory Henry]",
         "url": "https://open.spotify.com/album/7aMGZAVmMcsvrEq49ZFY5X"
       },
@@ -1275,22 +1291,6 @@
       "duration_ms": 193551,
       "name": "Stay High [Feat. Cory Henry]",
       "url": "https://open.spotify.com/track/7jS37XIfOmMQQ5DU6hQwIS"
-    },
-    {
-      "added_at": "2023-08-23 10:31:46",
-      "album": {
-        "name": "Music For Mad Men - Robust Blues",
-        "url": "https://open.spotify.com/album/2L1bV6IHXipTrOZTpOjgbg"
-      },
-      "artists": [
-        {
-          "name": "Lowell Fulson",
-          "url": "https://open.spotify.com/artist/3VhvGNnWfzmlEyiuhzdgf5"
-        }
-      ],
-      "duration_ms": 139413,
-      "name": "Jukebox Shuffle",
-      "url": "https://open.spotify.com/track/1jiLso73owUVS8cmwwShsf"
     },
     {
       "added_at": "2023-08-23 10:31:46",

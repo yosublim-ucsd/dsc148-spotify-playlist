@@ -1,5 +1,5 @@
 {
-  "2024-03-21": 97058,
+  "2024-03-22": 97073,
   "date_first_scraped": "2023-02-25",
   "description": "Davina Michelle op de cover van Fresh Pop!",
   "name": "Fresh Pop",
@@ -581,10 +581,28 @@
       ],
       "date_added": "2024-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-21",
       "duration_ms": 171782,
       "name": "Austin",
       "url": "https://open.spotify.com/track/4NJqhmkGN042BrvHoMKUrJ"
+    },
+    {
+      "album": {
+        "name": "What Happens Now?",
+        "url": "https://open.spotify.com/album/0rQRrrZPPv6XXsxilJ1wFz"
+      },
+      "artists": [
+        {
+          "name": "Dasha",
+          "url": "https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I"
+        }
+      ],
+      "date_added": "2024-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171782,
+      "name": "Austin",
+      "url": "https://open.spotify.com/track/6b81dy3WjbozXK6b7C1gu5"
     },
     {
       "album": {
@@ -755,6 +773,28 @@
       "duration_ms": 179908,
       "name": "Because Of You",
       "url": "https://open.spotify.com/track/320jqrATpl9762bCQkmLDf"
+    },
+    {
+      "album": {
+        "name": "Been Like This",
+        "url": "https://open.spotify.com/album/6z4pHWfbnVhZSu8uwKTTic"
+      },
+      "artists": [
+        {
+          "name": "Meghan Trainor",
+          "url": "https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz"
+        },
+        {
+          "name": "T-Pain",
+          "url": "https://open.spotify.com/artist/3aQeKQSyrW4qWr35idm0cy"
+        }
+      ],
+      "date_added": "2024-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145765,
+      "name": "Been Like This",
+      "url": "https://open.spotify.com/track/3t7MOVjzXyqT7vPw4eNrAV"
     },
     {
       "album": {
@@ -2385,7 +2425,7 @@
       ],
       "date_added": "2023-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-21",
       "duration_ms": 168668,
       "name": "Eras Of Us",
       "url": "https://open.spotify.com/track/3rhwM4lLOCrtx1Sk62QjKi"
@@ -6602,6 +6642,24 @@
     },
     {
       "album": {
+        "name": "Part Time Lover",
+        "url": "https://open.spotify.com/album/0OcjuVP8kAUL2LnNUZwjLa"
+      },
+      "artists": [
+        {
+          "name": "Nicky Youre",
+          "url": "https://open.spotify.com/artist/7qmpXeNz2ojlMl2EEfkeLs"
+        }
+      ],
+      "date_added": "2024-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173000,
+      "name": "Part Time Lover",
+      "url": "https://open.spotify.com/track/5swD4enZDl1r6ynQsTGHJa"
+    },
+    {
+      "album": {
         "name": "Pedestal",
         "url": "https://open.spotify.com/album/5KRQkpYEeyfXX4gF9kWV7I"
       },
@@ -8429,7 +8487,7 @@
       ],
       "date_added": "2023-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-21",
       "duration_ms": 196260,
       "name": "To Love Someone",
       "url": "https://open.spotify.com/track/3PsHulD1zewglcTPcEPnlk"

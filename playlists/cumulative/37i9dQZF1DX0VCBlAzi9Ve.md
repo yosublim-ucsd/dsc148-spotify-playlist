@@ -4,7 +4,7 @@
 
 > Let it simmer with some smooth R&amp;B.
 
-51 songs - 3 hr 52 min
+52 songs - 3 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,7 +40,8 @@
 | [Maniac](https://open.spotify.com/track/1zczShrEjQLIsXgty7XFFE) | [Moullinex](https://open.spotify.com/artist/1XFbnj1jNNzzyg46ni3dnr), [Peaches](https://open.spotify.com/artist/1gkSl4XpHIHI4I1WQbfXOE) | [Casablanca Reworks](https://open.spotify.com/album/754XEdGEvq4MzdghPJxBfx) | 4:47 | 2015-07-25 |  |
 | [Maniac](https://open.spotify.com/track/3ts2Jf6VO1kQ6KOQWH9nCK) | [Moullinex](https://open.spotify.com/artist/1XFbnj1jNNzzyg46ni3dnr), [Peaches](https://open.spotify.com/artist/1gkSl4XpHIHI4I1WQbfXOE) | [Casablanca Reworks](https://open.spotify.com/album/6PzstjiOjMQwXcRfVbQMUA) | 4:47 | 2015-07-25 | 2022-07-29 |
 | [Maniac](https://open.spotify.com/track/7qcRswMSwnIOf15DKWgnil) | [Moullinex](https://open.spotify.com/artist/1XFbnj1jNNzzyg46ni3dnr), [Peaches](https://open.spotify.com/artist/1gkSl4XpHIHI4I1WQbfXOE) | [Casablanca Reworks](https://open.spotify.com/album/5VdwbfSeTPfhbT97peJ0Nz) | 4:47 | 2015-07-25 | 2022-11-14 |
-| [Move Your Feet](https://open.spotify.com/track/4jacsL77ZYnpInmTtUBaJW) | [Junior Senior](https://open.spotify.com/artist/7xNPROyVfkH4mcIxxCxySm) | [d\-d\-don't don't stop the beat \(Explicit Content U.S\. Version\)](https://open.spotify.com/album/7xJ6am4jsZw1Bg0S0g0hmI) | 3:01 | 2015-07-25 |  |
+| [Move Your Feet](https://open.spotify.com/track/4DX82Vc8qAH4jJPvKxvwg6) | [Junior Senior](https://open.spotify.com/artist/7xNPROyVfkH4mcIxxCxySm) | [D\-D\-Don't Don't Stop the Beat](https://open.spotify.com/album/1NwNUaRL9JFy6Ha2uWaKu7) | 3:01 | 2015-07-25 |  |
+| [Move Your Feet](https://open.spotify.com/track/4jacsL77ZYnpInmTtUBaJW) | [Junior Senior](https://open.spotify.com/artist/7xNPROyVfkH4mcIxxCxySm) | [d\-d\-don't don't stop the beat \(Explicit Content U.S\. Version\)](https://open.spotify.com/album/7xJ6am4jsZw1Bg0S0g0hmI) | 3:01 | 2015-07-25 | 2024-03-22 |
 | [My Type](https://open.spotify.com/track/2Iq6HhIquO7JKr0KfTNLzU) | [Saint Motel](https://open.spotify.com/artist/1dWEYMPtNmvSVaDNLgB6NV) | [My Type EP](https://open.spotify.com/album/2r69WsAMyjbgLf8c4woaUr) | 3:24 | 2015-07-25 |  |
 | [My Type](https://open.spotify.com/track/2DFi8rwHcVkTTgu7PULhtI) | [Saint Motel](https://open.spotify.com/artist/1dWEYMPtNmvSVaDNLgB6NV) | [My Type](https://open.spotify.com/album/3FkPbizteyMJfT2tLyvnkE) | 3:26 | 2015-07-25 | 2022-07-29 |
 | [Nighttiming](https://open.spotify.com/track/1jbrKpiTZ5jSblBypybUmV) | [Coconut Records](https://open.spotify.com/artist/2YKp8Odp8GGbAkVU60Yk2Y) | [Nighttiming](https://open.spotify.com/album/4FeD2BdcaGX75b5X1gvvsg) | 2:48 | 2015-07-25 |  |

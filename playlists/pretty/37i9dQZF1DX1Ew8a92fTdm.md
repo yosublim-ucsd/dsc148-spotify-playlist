@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1Ew8a92fTdm.md) - [plain]
 
 > Peaceful music box tunes for sleepy babies.
 
-[Spotify](https://open.spotify.com/user/spotify) - 277,130 likes - 188 songs - 4 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 281,790 likes - 188 songs - 4 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,17 +22,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1Ew8a92fTdm.md) - [plain]
 | 12 | [bed time](https://open.spotify.com/track/0KZ1vXjd46nN3tC0MKTaVr) | [Little Magic Musicbox](https://open.spotify.com/artist/6CFYooGYq34rOAroXRCltR) | [bed time](https://open.spotify.com/album/5fR1HshvZCTlzHsEdB6Ya4) | 2:17 |
 | 13 | [Heavenly Melody](https://open.spotify.com/track/3jVBk1cx8265VNDgqQqP6g) | [Amy Roman](https://open.spotify.com/artist/12FvCDGPna0IpMgSrnNUpe) | [Heavenly Melody](https://open.spotify.com/album/2ziFX1RLnLitYmbEppUx9n) | 1:21 |
 | 14 | [Barefoot Days](https://open.spotify.com/track/1xHfuZy6uF8Rh3ROOGr3oQ) | [Dominick Kay](https://open.spotify.com/artist/271lbtrxDNQEV0u8O0kH6a) | [Barefoot Days](https://open.spotify.com/album/1sPbmPMc4qU3uEKBLR7VSH) | 1:16 |
-| 15 | [Mango Sticky Rice](https://open.spotify.com/track/3xc20F7YzKVbSSFLjVdMnh) | [Jackie Leon](https://open.spotify.com/artist/0lnm8ajEZUtfdBN07KPn5b) | [Mango Sticky Rice](https://open.spotify.com/album/14udllhsvarw9XRww5kYjc) | 1:18 |
-| 16 | [My Hat has Three Edges](https://open.spotify.com/track/3f1rRIlBM4xRyrzrXSdQGl) | [Wilda Sigridsdottir](https://open.spotify.com/artist/5BRw3Nw9N9xMeukUV9rw5S) | [My Hat has Three Edges](https://open.spotify.com/album/6jVgiLNjnxq52CXJpfAu3Y) | 1:14 |
-| 17 | [The Little Cat](https://open.spotify.com/track/63T6RCOrxseQR7iVsf1ylb) | [Mischa Frey](https://open.spotify.com/artist/5aCUW3cH3tpxM5WufRDCL1) | [The Little Cat](https://open.spotify.com/album/2RWn4HqgszUr2WcRif6D2H) | 1:01 |
-| 18 | [Saturday Surprise](https://open.spotify.com/track/75PJ4DITByJTZXV1RfrVqX) | [Gabriela Cooke](https://open.spotify.com/artist/3tP132moYZ0YFA6GpF6pSU) | [Saturday Surprise](https://open.spotify.com/album/4JHK6LmykgfEZL4o0XXL3m) | 1:17 |
-| 19 | [daisy](https://open.spotify.com/track/4Wpot9tmOGZ5OQ1HNNeo3x) | [Margaret Bloom](https://open.spotify.com/artist/246CkETgfAKnA3ajlO2ri4) | [daisy](https://open.spotify.com/album/3t3fGOcbPDLMZHUKord9Gw) | 2:07 |
-| 20 | [Old MacDonald Had a Farm](https://open.spotify.com/track/3vMaeivogNy0c26qG1hWo5) | [Lea van der Eule](https://open.spotify.com/artist/2Irdbe7WQkenoyvCcEl6np) | [My Music Box](https://open.spotify.com/album/5i6CK7NPNIqLc3CCXtRXcl) | 2:02 |
-| 21 | [Aurora's Dream](https://open.spotify.com/track/2uAKy47nXZKys23TydVmqU) | [Poppy's Box](https://open.spotify.com/artist/2y3fdY1Oj1x6YNbJB82THh) | [Aurora's Dream](https://open.spotify.com/album/09nhKTVX3WLxztIdxtgrrl) | 1:21 |
-| 22 | [Sleeping Woods](https://open.spotify.com/track/6pSNIn6VLzkJMmv7NL7mkF) | [Jim Fauer](https://open.spotify.com/artist/0YCnUoDR3B1rEFUUQ6FXdG) | [Sleeping Woods](https://open.spotify.com/album/0Mq2RsU8NGCcVidZ7MhKAD) | 1:26 |
-| 23 | [A Little Boat](https://open.spotify.com/track/6ahZWO4bnowdtkAJwkahWD) | [Simon Hill](https://open.spotify.com/artist/3CNRDi8CRRB2IF1v9no6NQ) | [A Little Boat](https://open.spotify.com/album/44X6fpGpyp0stgq8Rs5KE0) | 1:14 |
-| 24 | [Sleeping Angel](https://open.spotify.com/track/4HC4pGvGPUomA1m4409wrY) | [Nattkvisten](https://open.spotify.com/artist/7tPCegvX3wIjKlWDJ4HIoe) | [Sleeping Angel](https://open.spotify.com/album/11yWjXDQZ2lpm4v0rInRwp) | 1:32 |
-| 25 | [Music Box Lullaby](https://open.spotify.com/track/5HbV5B2J1KUMz12alitSOs) | [Etne Skiöld](https://open.spotify.com/artist/2hBTCIkNqbHQYTDIhxDfJD) | [Music Box Lullaby](https://open.spotify.com/album/37hUsmquAJn11X32hNKQ0N) | 1:25 |
+| 15 | [My Hat has Three Edges](https://open.spotify.com/track/3f1rRIlBM4xRyrzrXSdQGl) | [Wilda Sigridsdottir](https://open.spotify.com/artist/5BRw3Nw9N9xMeukUV9rw5S) | [My Hat has Three Edges](https://open.spotify.com/album/6jVgiLNjnxq52CXJpfAu3Y) | 1:14 |
+| 16 | [The Little Cat](https://open.spotify.com/track/63T6RCOrxseQR7iVsf1ylb) | [Mischa Frey](https://open.spotify.com/artist/5aCUW3cH3tpxM5WufRDCL1) | [The Little Cat](https://open.spotify.com/album/2RWn4HqgszUr2WcRif6D2H) | 1:01 |
+| 17 | [Saturday Surprise](https://open.spotify.com/track/75PJ4DITByJTZXV1RfrVqX) | [Gabriela Cooke](https://open.spotify.com/artist/3tP132moYZ0YFA6GpF6pSU) | [Saturday Surprise](https://open.spotify.com/album/4JHK6LmykgfEZL4o0XXL3m) | 1:17 |
+| 18 | [daisy](https://open.spotify.com/track/4Wpot9tmOGZ5OQ1HNNeo3x) | [Margaret Bloom](https://open.spotify.com/artist/246CkETgfAKnA3ajlO2ri4) | [daisy](https://open.spotify.com/album/3t3fGOcbPDLMZHUKord9Gw) | 2:07 |
+| 19 | [Old MacDonald Had a Farm](https://open.spotify.com/track/3vMaeivogNy0c26qG1hWo5) | [Lea van der Eule](https://open.spotify.com/artist/2Irdbe7WQkenoyvCcEl6np) | [My Music Box](https://open.spotify.com/album/5i6CK7NPNIqLc3CCXtRXcl) | 2:02 |
+| 20 | [Aurora's Dream](https://open.spotify.com/track/2uAKy47nXZKys23TydVmqU) | [Poppy's Box](https://open.spotify.com/artist/2y3fdY1Oj1x6YNbJB82THh) | [Aurora's Dream](https://open.spotify.com/album/09nhKTVX3WLxztIdxtgrrl) | 1:21 |
+| 21 | [Sleeping Woods](https://open.spotify.com/track/6pSNIn6VLzkJMmv7NL7mkF) | [Jim Fauer](https://open.spotify.com/artist/0YCnUoDR3B1rEFUUQ6FXdG) | [Sleeping Woods](https://open.spotify.com/album/0Mq2RsU8NGCcVidZ7MhKAD) | 1:26 |
+| 22 | [A Little Boat](https://open.spotify.com/track/6ahZWO4bnowdtkAJwkahWD) | [Simon Hill](https://open.spotify.com/artist/3CNRDi8CRRB2IF1v9no6NQ) | [A Little Boat](https://open.spotify.com/album/44X6fpGpyp0stgq8Rs5KE0) | 1:14 |
+| 23 | [Sleeping Angel](https://open.spotify.com/track/4HC4pGvGPUomA1m4409wrY) | [Nattkvisten](https://open.spotify.com/artist/7tPCegvX3wIjKlWDJ4HIoe) | [Sleeping Angel](https://open.spotify.com/album/11yWjXDQZ2lpm4v0rInRwp) | 1:32 |
+| 24 | [Music Box Lullaby](https://open.spotify.com/track/5HbV5B2J1KUMz12alitSOs) | [Etne Skiöld](https://open.spotify.com/artist/2hBTCIkNqbHQYTDIhxDfJD) | [Music Box Lullaby](https://open.spotify.com/album/37hUsmquAJn11X32hNKQ0N) | 1:25 |
+| 25 | [Home on the Range](https://open.spotify.com/track/5TlklBaH6dDuGWfQCIqQXl) | [Maisy Meadows](https://open.spotify.com/artist/4qrdfPAxLCLe0EFw38JhjN) | [Home on the Range](https://open.spotify.com/album/7kxakvXkc47e2hFQQBvGyF) | 1:30 |
 | 26 | [What a Wonderful World](https://open.spotify.com/track/5UVzIlTT74VXzhQFzeyiVw) | [Jarvis Jones](https://open.spotify.com/artist/6Xaavc7P6S9vPVR4WQ8EQw) | [Classics on Music Box](https://open.spotify.com/album/58bmcL0R1A0b0MTY34sZS2) | 2:33 |
 | 27 | [Give me sunshine](https://open.spotify.com/track/63q2eW7u4f8faDdP6brmvK) | [Stacy Gaffer](https://open.spotify.com/artist/32pd92japrh3yC0QI2AnQt) | [Give me sunshine](https://open.spotify.com/album/0G9Nu1lqp0k3et1aNCC5gK) | 1:34 |
 | 28 | [Dream Painting](https://open.spotify.com/track/1RO1xNn6WufiJJ5JORhagP) | [Soothing Sandman](https://open.spotify.com/artist/2hXy2uPUnu9UEnYUwGTNZy) | [Dream Painting](https://open.spotify.com/album/2cbshBuRnBf1dwLSNUi1CQ) | 1:14 |
@@ -197,4 +197,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1Ew8a92fTdm.md) - [plain]
 | 187 | [When I Grow Up](https://open.spotify.com/track/1yHO01kk4jbiTeaEcIRfiY) | [Emilia Humphreys](https://open.spotify.com/artist/4SPFykRPli13GdLY5T0tDC) | [Banana Day](https://open.spotify.com/album/4xqUWR2zJdnt9tFcLQqX2B) | 1:30 |
 | 188 | [My Big Red Lollipop](https://open.spotify.com/track/6YM1LT4Lky8LVGr3MnUzYd) | [Lucie Avila](https://open.spotify.com/artist/2FPmkspLV88EjMpP6XKnwv) | [My Big Red Lollipop](https://open.spotify.com/album/6mjHxtb2Vbc0naLmpbX2qS) | 1:23 |
 
-Snapshot ID: `MCw3MGFkYTk0ODAwZGY5OWNkZTk3MWFjODlmNmRiODc5NWZkOWUxNDdj`
+Snapshot ID: `MCw1MzE1OGY2ZWY3ZWI3ODE0ZTJjZjg4MTBiOGI4NTA1NWMyZDBhYzRj`

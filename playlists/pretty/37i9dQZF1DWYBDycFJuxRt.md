@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 
 > 今週も話題の新曲を最速で。 Cover: 離婚伝説 \*👉 <a href="https://spice.eplus.jp/articles/327269?utm\_source=spotify.com&utm\_medium=referral">SPICE連動記事</a>から新着情報をキャッチ!
 
-[Spotify](https://open.spotify.com/user/spotify) - 162,990 likes - 63 songs - 3 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 163,012 likes - 63 songs - 3 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 | 21 | [Be on Your side](https://open.spotify.com/track/5iQsAcv8MVj6VmgB8p5p5E) | [to HEROes](https://open.spotify.com/artist/4595ewOM0MqP7rWYdgBxvA) | [Be on Your side](https://open.spotify.com/album/586zV1h5mqSkQFCq93J8gF) | 3:39 |
 | 22 | [Planetarium](https://open.spotify.com/track/3gzZcJWNg8b6tXTEyGUkhG) | [TRACK15](https://open.spotify.com/artist/2yBeBpGsS9sgRa4rlJldIT) | [Bouquet](https://open.spotify.com/album/5LwY4RUulbgXXYcrptzNBn) | 3:55 |
 | 23 | [W4VES](https://open.spotify.com/track/0329gW7HDc2WXI9KvQanPw) | [Chocoholic](https://open.spotify.com/artist/4UohSp9DAmnCA9mgWqj8d1), [Kuro](https://open.spotify.com/artist/1pvdS8wUgkkSZNPwkb6qg0) | [W4VES](https://open.spotify.com/album/6CFOurA899HEzpLEpwgLO6) | 3:33 |
-| 24 | [So Sick Of Dreaming](https://open.spotify.com/track/0JIdzqE6KollCBswa5HpIP) | [Maggie Rogers](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe) | [So Sick Of Dreaming](https://open.spotify.com/album/2NzJnMiQdUlxjNP4lxOMEk) | 3:52 |
+| 24 | [So Sick Of Dreaming](https://open.spotify.com/track/4pUWfW7nhtlmqww70u0nkh) | [Maggie Rogers](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe) | [So Sick Of Dreaming](https://open.spotify.com/album/3WI6jJQhOD82xGYDLTjk0v) | 3:52 |
 | 25 | [Close your eyes](https://open.spotify.com/track/020aJBmmczkbPDICFmO3IN) | [SAKURA FUJIWARA](https://open.spotify.com/artist/5tvnQkP9zNAqYW2YKYk1Et) | [Close your eyes](https://open.spotify.com/album/5fMKsGBD1hcEKrJ2b2AYqL) | 4:14 |
 | 26 | [Rain Or Shine](https://open.spotify.com/track/2s69VvXfqCJ1WqOQC4eBxG) | [Hana Hope](https://open.spotify.com/artist/0HRps5F3fAsPL6QmFCdK7a) | [Rain Or Shine](https://open.spotify.com/album/5WRcfuQa3pWJrwpijJpFg7) | 3:07 |
 | 27 | [ONE DAY](https://open.spotify.com/track/2oWEpWncIbLuh8a4RpBpXU) | [鈴木愛理](https://open.spotify.com/artist/5YnNfqofR6jjU2DDoGfh2h) | [28/29](https://open.spotify.com/album/4VY7xPMkDCfP9dVqvyaXMl) | 3:43 |
@@ -72,4 +72,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 | 62 | [Loud Land](https://open.spotify.com/track/5V6v1a5W9AMUouu0UwHSf7) | [CLAN QUEEN](https://open.spotify.com/artist/7MDWmWGdcgGcxawAnA1FUY) | [Loud Land](https://open.spotify.com/album/5NoTZDS0Z0bVsaQ6uGtmjz) | 3:02 |
 | 63 | [family](https://open.spotify.com/track/2PrSxo7E5pqBa9lFNJt1pz) | [ケプラ](https://open.spotify.com/artist/1vJQ33eLhZQw9PHiHoA8ZJ) | [family](https://open.spotify.com/album/633aHjnFz7OKOA1hPslzyo) | 2:45 |
 
-Snapshot ID: `MCw0YjNlZmE0NWQ4YTEwZTI3OWIwNTIxMjJkMDU1MDk3YmY1MjZiNTNk`
+Snapshot ID: `MCw5MDUxYWFlMzljMWU4ZmY0ZmZkM2FhMjY3OGUzMzJkYzRkMmE5Zjdk`

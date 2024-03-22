@@ -1,12 +1,12 @@
 {
   "description": "Get ready for good feels and fireworks!",
-  "num_followers": 160772,
+  "num_followers": 160762,
   "original_name": "4th of July Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4NzI2MGFjMjM2NjVkN2FhYzFmNzQ5NTA1YzNiYzdjZGM5ZmY0OGMw",
+  "snapshot_id": "MCw1YzI4ODBkOWMzNmJkMGVmZDI2ZWFjYTZiZWQ4Yzk3MWY4YjkxZmEy",
   "tracks": [
     {
       "added_at": "2023-07-03 01:56:32",
@@ -339,22 +339,6 @@
     {
       "added_at": "2023-07-03 01:56:32",
       "album": {
-        "name": "Bleed American",
-        "url": "https://open.spotify.com/album/0UJhhj5bn5AGAjryFnhueP"
-      },
-      "artists": [
-        {
-          "name": "Jimmy Eat World",
-          "url": "https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s"
-        }
-      ],
-      "duration_ms": 165853,
-      "name": "The Middle",
-      "url": "https://open.spotify.com/track/6GG73Jik4jUlQCkKg9JuGO"
-    },
-    {
-      "added_at": "2023-07-03 01:56:32",
-      "album": {
         "name": "An Innocent Man",
         "url": "https://open.spotify.com/album/3R3x4zIabsvpD3yxqLaUpc"
       },
@@ -367,6 +351,22 @@
       "duration_ms": 197706,
       "name": "Uptown Girl",
       "url": "https://open.spotify.com/track/5zA8vzDGqPl2AzZkEYQGKh"
+    },
+    {
+      "added_at": "2023-07-03 01:56:32",
+      "album": {
+        "name": "Bleed American",
+        "url": "https://open.spotify.com/album/0UJhhj5bn5AGAjryFnhueP"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Eat World",
+          "url": "https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s"
+        }
+      ],
+      "duration_ms": 165853,
+      "name": "The Middle",
+      "url": "https://open.spotify.com/track/6GG73Jik4jUlQCkKg9JuGO"
     },
     {
       "added_at": "2023-07-03 01:56:32",
@@ -1087,22 +1087,6 @@
     {
       "added_at": "2023-07-03 01:56:32",
       "album": {
-        "name": "Stereotype",
-        "url": "https://open.spotify.com/album/5UgaQfAOaOdfLxFClw8EWa"
-      },
-      "artists": [
-        {
-          "name": "Cole Swindell",
-          "url": "https://open.spotify.com/artist/1mfDfLsMxYcOOZkzBxvSVW"
-        }
-      ],
-      "duration_ms": 206106,
-      "name": "She Had Me At Heads Carolina",
-      "url": "https://open.spotify.com/track/200x8ONbPfFzByUr3fVz46"
-    },
-    {
-      "added_at": "2023-07-03 01:56:32",
-      "album": {
         "name": "TROLLS (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/65ayND23IInUPHJKsaAqe7"
       },
@@ -1115,6 +1099,22 @@
       "duration_ms": 237546,
       "name": "CAN'T STOP THE FEELING! (from DreamWorks Animation's \"TROLLS\")",
       "url": "https://open.spotify.com/track/1WkMMavIMc4JZ8cfMmxHkI"
+    },
+    {
+      "added_at": "2023-07-03 01:56:32",
+      "album": {
+        "name": "Stereotype",
+        "url": "https://open.spotify.com/album/5UgaQfAOaOdfLxFClw8EWa"
+      },
+      "artists": [
+        {
+          "name": "Cole Swindell",
+          "url": "https://open.spotify.com/artist/1mfDfLsMxYcOOZkzBxvSVW"
+        }
+      ],
+      "duration_ms": 206106,
+      "name": "She Had Me At Heads Carolina",
+      "url": "https://open.spotify.com/track/200x8ONbPfFzByUr3fVz46"
     },
     {
       "added_at": "2023-07-03 01:56:32",
@@ -1139,22 +1139,6 @@
     {
       "added_at": "2023-07-03 01:56:32",
       "album": {
-        "name": "1989",
-        "url": "https://open.spotify.com/album/2QJmrSgbdM35R67eoGQo4j"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 231826,
-      "name": "Blank Space",
-      "url": "https://open.spotify.com/track/1p80LdxRV74UKvL8gnD7ky"
-    },
-    {
-      "added_at": "2023-07-03 01:56:32",
-      "album": {
         "name": "Sublime",
         "url": "https://open.spotify.com/album/14eK347GdWO4mBBx78tsut"
       },
@@ -1167,6 +1151,22 @@
       "duration_ms": 170906,
       "name": "What I Got",
       "url": "https://open.spotify.com/track/3B4q6KbHbGV51HO3GznBFF"
+    },
+    {
+      "added_at": "2023-07-03 01:56:32",
+      "album": {
+        "name": "1989",
+        "url": "https://open.spotify.com/album/2QJmrSgbdM35R67eoGQo4j"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 231826,
+      "name": "Blank Space",
+      "url": "https://open.spotify.com/track/1p80LdxRV74UKvL8gnD7ky"
     },
     {
       "added_at": "2023-07-03 01:56:32",

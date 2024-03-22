@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2EFRC0.md) - [plain]
 
 > This is Marcos Witt\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 91,121 likes - 50 songs - 4 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 91,132 likes - 50 songs - 4 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2EFRC0.md) - [plain]
 | 21 | [Yo te Busco](https://open.spotify.com/track/4m9mDIdKZuiV1RWKQTQe6P) | [Marcos Witt](https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2) | [25 Concierto Conmemorativo \(En Vivo\)](https://open.spotify.com/album/5O2UfFue2c9yfcbMPHHVSe) | 3:42 |
 | 22 | [Jesús \(feat\. Marcos Witt\)](https://open.spotify.com/track/4NrlfdOywCSFKlC1XDvZoR) | [Marcos Witt](https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2) | [Jesús \(feat\. Marcos Witt\)](https://open.spotify.com/album/5IFNo2WJY1TjSF52Pwie1u) | 5:05 |
 | 23 | [Hay Un Nombre](https://open.spotify.com/track/6FshvZr5yr9W4kybpGSV27) | [Marcos Witt](https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2) | [Tu Iglesia](https://open.spotify.com/album/3lb9AFreeW6mc0jx5NKcxP) | 4:58 |
-| 24 | [Eres Rey](https://open.spotify.com/track/5fEOyBNgi2VQvlISgerFEf) | [Coalo Zamorano](https://open.spotify.com/artist/1EIEV6r6Jr6BQIzwZJdf5b), [Marcos Witt](https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2) | [Eres Rey](https://open.spotify.com/album/5IElr9Pfprf2TElNtY5DNr) | 5:49 |
-| 25 | [Jesús Eres Mi Buen Pastor](https://open.spotify.com/track/11bb5n9uOzwP1VX6u1iPel) | [Marcos Witt](https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2) | [Enciende una Luz](https://open.spotify.com/album/71Tj4cXTZCGpq3O43iFkEO) | 6:50 |
+| 24 | [Jesús Eres Mi Buen Pastor](https://open.spotify.com/track/11bb5n9uOzwP1VX6u1iPel) | [Marcos Witt](https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2) | [Enciende una Luz](https://open.spotify.com/album/71Tj4cXTZCGpq3O43iFkEO) | 6:50 |
+| 25 | [Eres Rey](https://open.spotify.com/track/5fEOyBNgi2VQvlISgerFEf) | [Coalo Zamorano](https://open.spotify.com/artist/1EIEV6r6Jr6BQIzwZJdf5b), [Marcos Witt](https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2) | [Eres Rey](https://open.spotify.com/album/5IElr9Pfprf2TElNtY5DNr) | 5:49 |
 | 26 | [Heme Aquí](https://open.spotify.com/track/6pcohutNG4zaMCw5UKM4Oh) | [Marcos Witt](https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2) | [Tu y Yo](https://open.spotify.com/album/69i6c6spdPMcm3NYCFmjnx) | 4:00 |
 | 27 | [Dios ha sido bueno](https://open.spotify.com/track/7dhiLa8Fvcdhzs6cpC4Osp) | [Marcos Witt](https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2) | [En adoración](https://open.spotify.com/album/0kfCuoDxi46cnlurjvW5zD) | 7:17 |
 | 28 | [Acuérdate Oh Señor](https://open.spotify.com/track/72MDIg327QKuytMEGh1nCa) | [Marcos Witt](https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2) | [Sana Nuestra Tierra](https://open.spotify.com/album/63dZbhvWrC4QotDOWNMwQh) | 4:10 |
@@ -51,12 +51,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2EFRC0.md) - [plain]
 | 41 | [Abre hoy los cielos](https://open.spotify.com/track/63FhFLxr19VoiJnVH7QnEG) | [Marcos Witt](https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2), [Evan Craft](https://open.spotify.com/artist/4vEpUOtKWtpotWkuv0Vlx4) | [Jesús Salva](https://open.spotify.com/album/4HRYBD8BpJaPSfRHreRGxw) | 5:08 |
 | 42 | [Poderoso](https://open.spotify.com/track/0MMGKqbwCW0VusNuiuuK4f) | [Marcos Witt](https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2) | [Poderoso](https://open.spotify.com/album/4buWEkWMs4uNIJpIZdQNJ9) | 6:49 |
 | 43 | [Dios De Pactos](https://open.spotify.com/track/4wFBzIA7HuaaGz89DQnWyo) | [Marcos Witt](https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2) | [Dios de Pactos](https://open.spotify.com/album/4YCOrXZRsLWvj9BZBTS2AR) | 10:51 |
-| 44 | [Damos honor a Ti feat.Danilo Montero](https://open.spotify.com/track/1vX9aWhoRlfvykVyKj9F26) | [Marcos Witt](https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2), [Danilo Montero](https://open.spotify.com/artist/2a48vLoCcVkOMcCSqXreOF) | [Homenaje a Jesús](https://open.spotify.com/album/0tZHLKTmqIiWnNjOEszm7J) | 8:01 |
+| 44 | [Perdonados](https://open.spotify.com/track/3L0pj40jXUDOX3p1OmZqvQ) | [Marcos Witt](https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2), [Danilo Montero](https://open.spotify.com/artist/2a48vLoCcVkOMcCSqXreOF), [Marco Barrientos](https://open.spotify.com/artist/4VYSLPSI9yb8qkUpKyVQSJ) | [Homenaje a Jesús](https://open.spotify.com/album/0tZHLKTmqIiWnNjOEszm7J) | 2:58 |
 | 45 | [A Ti & Temprano Yo Te Buscaré \(feat\. Marcos Witt\)](https://open.spotify.com/track/1o733VX6GW0U6mPlYx4deP) | [Kike Pavón](https://open.spotify.com/artist/2TkDdk47FGnvxcjQGDdPd0), [Marcos Witt](https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2) | [Ayer y Hoy](https://open.spotify.com/album/7svEhoIUz5fCkt6IXhcAsc) | 6:02 |
 | 46 | [Hermoso](https://open.spotify.com/track/4TwzyWf4K1oeybmNUsNL24) | [Marcos Witt](https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2), [Coalo Zamorano](https://open.spotify.com/artist/1EIEV6r6Jr6BQIzwZJdf5b) | [Jesús Salva](https://open.spotify.com/album/4HRYBD8BpJaPSfRHreRGxw) | 5:35 |
 | 47 | [Tu Iglesia](https://open.spotify.com/track/2vx5gfAsMpFls9VTIICGKx) | [Marcos Witt](https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2), [Steven Richards](https://open.spotify.com/artist/7nV5z8aBZuot66MlL143o4) | [Tu Iglesia](https://open.spotify.com/album/1Tm3kqQrewzPly3tJZSBJA) | 4:46 |
-| 48 | [Perdonados](https://open.spotify.com/track/3L0pj40jXUDOX3p1OmZqvQ) | [Marcos Witt](https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2), [Danilo Montero](https://open.spotify.com/artist/2a48vLoCcVkOMcCSqXreOF), [Marco Barrientos](https://open.spotify.com/artist/4VYSLPSI9yb8qkUpKyVQSJ) | [Homenaje a Jesús](https://open.spotify.com/album/0tZHLKTmqIiWnNjOEszm7J) | 2:58 |
+| 48 | [Damos honor a Ti feat.Danilo Montero](https://open.spotify.com/track/1vX9aWhoRlfvykVyKj9F26) | [Marcos Witt](https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2), [Danilo Montero](https://open.spotify.com/artist/2a48vLoCcVkOMcCSqXreOF) | [Homenaje a Jesús](https://open.spotify.com/album/0tZHLKTmqIiWnNjOEszm7J) | 8:01 |
 | 49 | [Tu amor por Mi](https://open.spotify.com/track/2bWQuqMF3uxDIzTi1DRjXT) | [Marcos Witt](https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2) | [Lo Mejor de Instrumentales](https://open.spotify.com/album/2W84MBeBF9SHaNhUmfiS1Q) | 3:23 |
 | 50 | [Porque Tú Eres bueno](https://open.spotify.com/track/6MRlSkOGex4cx3fcusHFtU) | [Marcos Witt](https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2) | [Proyecto AA](https://open.spotify.com/album/4Yn1oEGxhbwk8HhE0topvU) | 2:45 |
 
-Snapshot ID: `Mjg1MTU2NjEsMDAwMDAwMDAzMzJjYWVjMTM5ZTg3MmFmMTMyOGIzOGIyY2ZmODFlMA==`
+Snapshot ID: `Mjg1MTcwNzUsMDAwMDAwMDA3YTMwYjM3NDUwM2I4MjY2OTU0N2U4ODJiY2NjNWNkZA==`

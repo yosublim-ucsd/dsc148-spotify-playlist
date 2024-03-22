@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWhejoFhUUFy.md) - [plain]
 
 > Soft chill for the dreamy  ✨
 
-[Spotify](https://open.spotify.com/user/spotify) - 144,245 likes - 75 songs - 4 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 144,313 likes - 75 songs - 4 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,10 +18,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWhejoFhUUFy.md) - [plain]
 | 8 | [Janiye \(from the Netflix Film "Chor Nikal Ke Bhaga"\)](https://open.spotify.com/track/0645eBDehHcqfiF15hscQV) | [Vishal Mishra](https://open.spotify.com/artist/5wJ1H6ud777odtZl5gG507), [Rashmeet Kaur](https://open.spotify.com/artist/15UQcr22jcc6DJjy3sLv3J) | [Janiye \(from the Netflix Film "Chor Nikal Ke Bhaga"\)](https://open.spotify.com/album/0kZKLq2WZQWvXvbxvK6YoC) | 3:43 |
 | 9 | [Malang Sajna](https://open.spotify.com/track/73K33p4Vyz9koXGqmL5eFs) | [Sachet Tandon](https://open.spotify.com/artist/6WOdPJmexxFINcKMkP2jMG), [Parampara Tandon](https://open.spotify.com/artist/1E6arsXf5Fgsnv9YpSzjpE), [Kumaar](https://open.spotify.com/artist/0m3D4grap8VFSzbJMqgNVk), [Sachet\-Parampara](https://open.spotify.com/artist/1SyKki7JI1AZNKwgNMkn25) | [Malang Sajna](https://open.spotify.com/album/7khRLZe8P6XcUoRgOa3nnf) | 2:41 |
 | 10 | [Ud Ke Chali](https://open.spotify.com/track/0zVhqtuCf3QCozl1NewYyT) | [Komorebi](https://open.spotify.com/artist/33wbulGqQSccMOCox5UdIS) | [Ud Ke Chali](https://open.spotify.com/album/2hkVPBR8j7cZWNmCdWer5f) | 3:55 |
-| 11 | [Tu Jaana Na Piya](https://open.spotify.com/track/4u0D2jZ20wQaEMHBSqsDnZ) | [King](https://open.spotify.com/artist/5NHm4TU5Twz7owibYxJfFU) | [NEW LIFE](https://open.spotify.com/album/1ERhZcW27LyJkW1w0hy8Tt) | 3:46 |
+| 11 | [Chaand Baaliyan](https://open.spotify.com/track/0snQrp1VaY5Pj1YIHRJpRJ) | [Aditya A](https://open.spotify.com/artist/4wwYGgSpeBtvk5WX6HBqzw) | [Chaand Baaliyan](https://open.spotify.com/album/6AJaDEafyyyWWXHZQtcFGe) | 1:43 |
 | 12 | [Tu hai kahan](https://open.spotify.com/track/3zSSCPpLZ5Oc8nelhhGjKz) | [AUR](https://open.spotify.com/artist/2cjQTf2J5yCaNY8qHpW855) | [Tu hai kahan](https://open.spotify.com/album/73vfz6Szer7i3GFIesix6l) | 4:23 |
-| 13 | [Baarishein](https://open.spotify.com/track/3WLJ7D5kh44K5eJ1NqZQ6W) | [Anuv Jain](https://open.spotify.com/artist/4gdMJYnopf2nEUcanAwstx) | [Baarishein](https://open.spotify.com/album/2LeZ6oWQed5ewVUpyGJKDh) | 3:27 |
-| 14 | [Chaand Baaliyan](https://open.spotify.com/track/0snQrp1VaY5Pj1YIHRJpRJ) | [Aditya A](https://open.spotify.com/artist/4wwYGgSpeBtvk5WX6HBqzw) | [Chaand Baaliyan](https://open.spotify.com/album/6AJaDEafyyyWWXHZQtcFGe) | 1:43 |
+| 13 | [Tu Jaana Na Piya](https://open.spotify.com/track/4u0D2jZ20wQaEMHBSqsDnZ) | [King](https://open.spotify.com/artist/5NHm4TU5Twz7owibYxJfFU) | [NEW LIFE](https://open.spotify.com/album/1ERhZcW27LyJkW1w0hy8Tt) | 3:46 |
+| 14 | [Baarishein](https://open.spotify.com/track/3WLJ7D5kh44K5eJ1NqZQ6W) | [Anuv Jain](https://open.spotify.com/artist/4gdMJYnopf2nEUcanAwstx) | [Baarishein](https://open.spotify.com/album/2LeZ6oWQed5ewVUpyGJKDh) | 3:27 |
 | 15 | [Kesariya \(From "Brahmastra"\)](https://open.spotify.com/track/6VBhH7CyP56BXjp8VsDFPZ) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Amitabh Bhattacharya](https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx) | [Kesariya \(From "Brahmastra"\)](https://open.spotify.com/album/1HeX4SmCFW4EPHQDvHgrVS) | 4:28 |
 | 16 | [Jeena Jeena](https://open.spotify.com/track/2GXXZFUxYg2LvG8SR0byOE) | [Atif Aslam](https://open.spotify.com/artist/2oSONSC9zQ4UonDKnLqksx) | [Badlapur \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4ahg47diWPOQ6d6C8e6PHI) | 3:48 |
 | 17 | [Soch Na Sake](https://open.spotify.com/track/6mTvwBzWTGDOVeCNQEqtOE) | [Amaal Mallik](https://open.spotify.com/artist/76fuWYgIf3TVIopTs3vaJ6), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Tulsi Kumar](https://open.spotify.com/artist/0T1CMVkqffHlqEk4BcAph1) | [Airlift](https://open.spotify.com/album/1IwC3SdQXPgXSs8FLvOUju) | 4:41 |
@@ -60,8 +60,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWhejoFhUUFy.md) - [plain]
 | 50 | [Aashiq Tera](https://open.spotify.com/track/0SAZ4IHYMtjW4Lxrjm7NnG) | [Altamash Faridi](https://open.spotify.com/artist/38IHJBGBuaYXHEkIQd4DtF), [Sohail Sen](https://open.spotify.com/artist/1bTROl5p3rGTpvKeWnGgrw) | [Happy Bhag Jayegi \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2QTktaF2GGrGu8Qu3ZyIms) | 4:54 |
 | 51 | [Khayaal](https://open.spotify.com/track/18qN1yxa4SVwmykQq1Icrl) | [Abhijeet Srivastava](https://open.spotify.com/artist/4FJhE5ToBQGzOGf0D5Xd1C), [Prateeksha Srivastava](https://open.spotify.com/artist/6Tt4bucXZfk6Vasj3fSaCT) | [Khayaal](https://open.spotify.com/album/4EArcY1dBXz075hMxNgRUN) | 2:42 |
 | 52 | [Mahiye Jinna Sohna Unplugged](https://open.spotify.com/track/7k8g09FNAw41bJatQuR6K9) | [Darshan Raval](https://open.spotify.com/artist/2GoeZ0qOTt6kjsWW4eA6LS) | [Dard](https://open.spotify.com/album/0YzF0ImdBeODiCWejSDndM) | 2:27 |
-| 53 | [Raaton](https://open.spotify.com/track/4mpRxleD4q4rxgRBgC6TpB) | [Aditya Rikhari](https://open.spotify.com/artist/3ozYqVCLohfpXIhalkhM8D) | [Raaton](https://open.spotify.com/album/1mr9MMCJodtlid7Yy7DTh1) | 3:20 |
-| 54 | [Baarish Ka Asar](https://open.spotify.com/track/6J4oLY2GEwOsUgEd50IpKy) | [Twin Strings](https://open.spotify.com/artist/0cPN6x5LmDIZjp6gFmAkqw) | [Baarish Ka Asar](https://open.spotify.com/album/6ZqPFOO9erbfD7BHpNn2Jj) | 4:05 |
+| 53 | [Baarish Ka Asar](https://open.spotify.com/track/6J4oLY2GEwOsUgEd50IpKy) | [Twin Strings](https://open.spotify.com/artist/0cPN6x5LmDIZjp6gFmAkqw) | [Baarish Ka Asar](https://open.spotify.com/album/6ZqPFOO9erbfD7BHpNn2Jj) | 4:05 |
+| 54 | [Raaton](https://open.spotify.com/track/4mpRxleD4q4rxgRBgC6TpB) | [Aditya Rikhari](https://open.spotify.com/artist/3ozYqVCLohfpXIhalkhM8D) | [Raaton](https://open.spotify.com/album/1mr9MMCJodtlid7Yy7DTh1) | 3:20 |
 | 55 | [Chaap Tilak](https://open.spotify.com/track/0XCtRvfDHT98h0iUSDFtyO) | [Namita Choudhary](https://open.spotify.com/artist/3OzUySgSF8QxZScB0RxDCB) | [Chaap Tilak](https://open.spotify.com/album/0HkwpQ25VaAl4DNeXh3CtW) | 3:14 |
 | 56 | [Lagan Laagi Re](https://open.spotify.com/track/3bM0sCyyhglscs8EvsBZ36) | [Amit Trivedi](https://open.spotify.com/artist/7HCqGPJcQTyGJ2yqntbuyr), [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy), [Kavita Seth](https://open.spotify.com/artist/3nQ125TJobosBH446Dsvvv) | [Songs of Love](https://open.spotify.com/album/0jpXgPEyyujKElDwbCWL7o) | 4:38 |
 | 57 | [Aaj Kal Zindagi](https://open.spotify.com/track/4MnDLNhqL6HuSzFO4b4rvJ) | [Shankar\-Ehsaan\-Loy](https://open.spotify.com/artist/0L5GV6LN8SWWUWIdBbTLTZ), [Shankar Mahadevan](https://open.spotify.com/artist/1SJOL9HJ08YOn92lFcYf8a) | [Wake Up Sid \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1fzE65RP7Gyhi8hdOv8eRQ) | 4:14 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWhejoFhUUFy.md) - [plain]
 | 74 | [Main Bola Hey!](https://open.spotify.com/track/0PKEQjnGn0LmPjozJ3t4MF) | [Karthik Rao](https://open.spotify.com/artist/3aAy6jFZLqqDUlMGSZcyaZ) | [Kota Factory: Season 1 \(Music from Tvf Original Series\)](https://open.spotify.com/album/6mOfUlKhx0AROUKdxA7v6Z) | 2:33 |
 | 75 | [Nindiya Re \- Studio Version](https://open.spotify.com/track/0NsYZt7iTFoLMw3pZTQEDQ) | [Kaavish](https://open.spotify.com/artist/6znPk9JRNmg6uyB6h8nJu3) | [Nindiya Re \(Studio Version\)](https://open.spotify.com/album/1vgKFdjExQyCqcHmYap5cT) | 3:45 |
 
-Snapshot ID: `MCw4MDRiNjEzZjQ0YTNjNWJhYjhhZGYzZTkxYmMyYzZiZjg1ODY3OWY5`
+Snapshot ID: `MCw2YWYxOWFiNGI3ZDU4N2VkZGY0NzkxMTE3ZTNiMTBlYzMzMzJhMjJh`

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "Proudly South African Afropop gems. Cover: <a href=\"https://open.spotify.com/artist/5BggJAW7Ubyk8FR87MpGvc?si=eCija_NbSf27lALhE5IZXw\">Siya Ntuli</a>",
+  "description": "Proudly South African Afropop gems. Cover: <a href=\"https://open.spotify.com/artist/6vfxDPW9Lc9tAMVy0oeqiB?si=T-z6iThfTF2C-0r8mzFEcw\">Zo\u00eb Modiga</a>",
   "name": "Made In South Africa",
   "tracks": [
     {
@@ -72,6 +72,24 @@
     {
       "album": {
         "name": "24 Hours",
+        "url": "https://open.spotify.com/album/04EFCgfevXKXAkjFZrkyeG"
+      },
+      "artists": [
+        {
+          "name": "Kaylow",
+          "url": "https://open.spotify.com/artist/6nQFuQO2dqH8JR9ZhN0IyH"
+        }
+      ],
+      "date_added": "2024-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253651,
+      "name": "24 Hours",
+      "url": "https://open.spotify.com/track/0XAgk6dckPxMguoTubbuO5"
+    },
+    {
+      "album": {
+        "name": "24 Hours",
         "url": "https://open.spotify.com/album/0GUvPSLjrBgVOU0jn5BxXf"
       },
       "artists": [
@@ -82,7 +100,7 @@
       ],
       "date_added": "2023-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-22",
       "duration_ms": 253651,
       "name": "24 Hours",
       "url": "https://open.spotify.com/track/6s1k8Ry40znPtEb9ijOlnw"
@@ -540,6 +558,24 @@
       "duration_ms": 426990,
       "name": "Amazing Grace",
       "url": "https://open.spotify.com/track/60YKaBvjgNvGRVei6rmRQk"
+    },
+    {
+      "album": {
+        "name": "amen",
+        "url": "https://open.spotify.com/album/5SgAAgXyyGhD09bFEq0q5g"
+      },
+      "artists": [
+        {
+          "name": "Zo\u00eb Modiga",
+          "url": "https://open.spotify.com/artist/6vfxDPW9Lc9tAMVy0oeqiB"
+        }
+      ],
+      "date_added": "2024-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186744,
+      "name": "amen",
+      "url": "https://open.spotify.com/track/0pVZIfRcoJdxOOrNfEAV6Z"
     },
     {
       "album": {
@@ -5480,6 +5516,28 @@
       "duration_ms": 255333,
       "name": "Malaika",
       "url": "https://open.spotify.com/track/1tHKABq4u7XHe6y86PV070"
+    },
+    {
+      "album": {
+        "name": "Malume",
+        "url": "https://open.spotify.com/album/6VYz1nTFmgO5TOVjlWQnQz"
+      },
+      "artists": [
+        {
+          "name": "Thab'sile",
+          "url": "https://open.spotify.com/artist/7nSdnKNzCHFkJylnKCwezQ"
+        },
+        {
+          "name": "Afriikan Papi",
+          "url": "https://open.spotify.com/artist/4fDmMQuFAIHnsKbmfOY8yO"
+        }
+      ],
+      "date_added": "2024-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265786,
+      "name": "Malume",
+      "url": "https://open.spotify.com/track/1JLTMSlyAIXOy8sIr7Wg18"
     },
     {
       "album": {
@@ -10732,6 +10790,32 @@
     {
       "album": {
         "name": "Uyangijabulisa",
+        "url": "https://open.spotify.com/album/3XXRYAuCaRajUqnvWhWKBp"
+      },
+      "artists": [
+        {
+          "name": "Fezeka Dlamini",
+          "url": "https://open.spotify.com/artist/3w6Mt5dBdn8iPH2PgdnbP7"
+        },
+        {
+          "name": "Nomfundo Moh",
+          "url": "https://open.spotify.com/artist/6brKi6i5SusNnoKcSlKAan"
+        },
+        {
+          "name": "Naledi",
+          "url": "https://open.spotify.com/artist/092ZdmX5G7PFTtsWoQHkmX"
+        }
+      ],
+      "date_added": "2024-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288052,
+      "name": "Uyangijabulisa",
+      "url": "https://open.spotify.com/track/09zHC0CNGuWQ1ot7WhzwKJ"
+    },
+    {
+      "album": {
+        "name": "Uyangijabulisa",
         "url": "https://open.spotify.com/album/04HgLbUVHdvAvawQzjX9JW"
       },
       "artists": [
@@ -10750,7 +10834,7 @@
       ],
       "date_added": "2023-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-22",
       "duration_ms": 288052,
       "name": "Uyangijabulisa",
       "url": "https://open.spotify.com/track/3RmhsiQszFnnixoOrLznAN"

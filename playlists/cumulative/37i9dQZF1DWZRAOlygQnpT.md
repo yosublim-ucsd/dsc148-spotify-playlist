@@ -4,7 +4,7 @@
 
 > ¡Ahi viene la plaga..\. por eso, aviéntense todos a bailar!
 
-257 songs - 11 hr 16 min
+258 songs - 11 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,6 +48,7 @@
 | [Bote de bananas](https://open.spotify.com/track/420qVHdP7ckcdm6pvPW4lp) | [Alberto Vazquez](https://open.spotify.com/artist/3vYC7LFneIpmJRSgrYy6dc) | [Idolos del Rock & Roll \- Alberto Vazquez](https://open.spotify.com/album/1k4042gbahCtD4v3viiQ8L) | 3:25 | 2020-04-17 | 2022-07-27 |
 | [Buen Rock Esta Noche](https://open.spotify.com/track/2Wg5G6SN48t9DSW6ifquvb) | [Enrique Guzman](https://open.spotify.com/artist/4FeDV8T2wgjzYKBamSp7MG) | [Los Grandes Idolos \- Teen Tops](https://open.spotify.com/album/3BzjUZegAStBZPVTZVrUT5) | 2:25 | 2020-04-17 | 2022-07-26 |
 | [Buen Rock Esta Noche \- Good Rockin' Tonight \[Remasterizado\]](https://open.spotify.com/track/6A3rHCtV9sP5aRvBDth3wB) | [Los Teen Tops](https://open.spotify.com/artist/14GfQ6EEHnp1lTAWHgtcYy) | [Serie De Colección 16 Autenticos Exitos](https://open.spotify.com/album/6DB6Osx9qCOSB0wPNbSE2A) | 2:16 | 2020-04-17 |  |
+| [Bule Bule](https://open.spotify.com/track/0eMMc5pZJifAsXSaEViY3E) | [Los Rockin' Devils](https://open.spotify.com/artist/7MTtIXOqFDnSbho0pYpJve) | [Idolos del Rock & Roll](https://open.spotify.com/album/7BI6FgfgfYaWaOZo6phWBC) | 2:22 | 2020-04-17 |  |
 | [Bule Bule](https://open.spotify.com/track/65dIAnHFMtcrWYWXOKOeiy) | [Los Rockin' Devils](https://open.spotify.com/artist/7MTtIXOqFDnSbho0pYpJve) | [100 Años de Musica](https://open.spotify.com/album/0yk0LbkAcV5SaOJMOsDWJO) | 2:22 | 2020-04-17 | 2022-07-29 |
 | [Bule Bule](https://open.spotify.com/track/19Ol3nKQvIJJiKBTIOBzwi) | [Los Rockin' Devils](https://open.spotify.com/artist/7MTtIXOqFDnSbho0pYpJve) | [100 Años de Musica](https://open.spotify.com/album/3YvIyt0fZgOTdwtrj79FRa) | 2:22 | 2020-04-17 |  |
 | [Bule bule \- Remastered](https://open.spotify.com/track/4lY1RHHCrH5bAxAA7KlUhT) | [Enrique Guzmán & Teen Tops](https://open.spotify.com/artist/1Q2UXM1vlDYOzeAZYDI2WD) | [El rock de la cárcel \(Remastered\)](https://open.spotify.com/album/0errWAKWe4xl8p5DxVS93H) | 2:21 | 2020-04-17 | 2024-03-21 |
@@ -116,7 +117,7 @@
 | [Gracias por el Recuerdo](https://open.spotify.com/track/31KJnspiQtvxwob0cMjxxc) | [Enrique Guzman](https://open.spotify.com/artist/4FeDV8T2wgjzYKBamSp7MG) | [Idolos del Rock de los 60's: Enrique Guzman](https://open.spotify.com/album/64c67khJOMtjYVBvqzR2MA) | 2:34 | 2020-04-17 | 2022-07-20 |
 | [Haciendote el Amor](https://open.spotify.com/track/2YJLNtaV9ELglBVHymlKHk) | [Los Locos Del Ritmo](https://open.spotify.com/artist/2jPG2QeccDfdNbOdGrjBwO) | [Polvora](https://open.spotify.com/album/3KefX7SdLViRTuFffsmmxq) | 1:59 | 2020-04-17 | 2022-07-29 |
 | [Haciendote el Amor](https://open.spotify.com/track/1oNFfrgSdZ2Af22M60gix4) | [Los Locos Del Ritmo](https://open.spotify.com/artist/2jPG2QeccDfdNbOdGrjBwO) | [Pólvora](https://open.spotify.com/album/6JIa7qlgXYi5SQ9us8tr3a) | 1:59 | 2020-04-17 | 2024-01-06 |
-| [Hanky Panky](https://open.spotify.com/track/3q57sljRO7snXYIsgaBgJT) | [Los Jockers](https://open.spotify.com/artist/1tHxyQ3P1Oo7T7YFKfRaKK) | [Rock, Puro Rock](https://open.spotify.com/album/2uZRx3gfHsgndRHm8Ks7RE) | 2:52 | 2020-04-17 |  |
+| [Hanky Panky](https://open.spotify.com/track/3q57sljRO7snXYIsgaBgJT) | [Los Jockers](https://open.spotify.com/artist/1tHxyQ3P1Oo7T7YFKfRaKK) | [Rock, Puro Rock](https://open.spotify.com/album/2uZRx3gfHsgndRHm8Ks7RE) | 2:52 | 2020-04-17 | 2024-03-22 |
 | [Hazme una Señal \- Gimme Little Sign](https://open.spotify.com/track/0mIBr5Hvy96H5LaRnSi1iS) | [Roberto Jordan](https://open.spotify.com/artist/5SyvBTttsNPEcFjtceTBmx) | [Lo Mejor De Lo Mejor De RCA Victor](https://open.spotify.com/album/57hDLkTP9HAokmNA8N4920) | 2:22 | 2020-04-17 |  |
 | [Hazme una Señal \- Gimme Little Sign](https://open.spotify.com/track/5JBfzQjelvHSc2ScM59g8M) | [Roberto Jordan](https://open.spotify.com/artist/5SyvBTttsNPEcFjtceTBmx) | [Tesoros De Coleccion \- Roberto Jordan](https://open.spotify.com/album/2R2djjfHOfTv5RMbUpwMg5) | 2:23 | 2020-04-17 | 2022-07-29 |
 | [Hermanita](https://open.spotify.com/track/5JoZPFhVYO6t0cElRq19YR) | [Enrique Guzman](https://open.spotify.com/artist/4FeDV8T2wgjzYKBamSp7MG) | [Idolos del Rock de los 60's: Enrique Guzman](https://open.spotify.com/album/64c67khJOMtjYVBvqzR2MA) | 3:07 | 2020-04-17 | 2022-06-18 |

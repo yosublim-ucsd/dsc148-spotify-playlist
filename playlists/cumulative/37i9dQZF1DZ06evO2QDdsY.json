@@ -23,6 +23,24 @@
     },
     {
       "album": {
+        "name": "Big Dream",
+        "url": "https://open.spotify.com/album/4tDLw9FLXRaZI2VFk6iP1F"
+      },
+      "artists": [
+        {
+          "name": "Valerie June",
+          "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
+        }
+      ],
+      "date_added": "2024-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143402,
+      "name": "Big Dream",
+      "url": "https://open.spotify.com/track/5lo4zC5rGaW50u2vWOAmRK"
+    },
+    {
+      "album": {
         "name": "Call Me A Fool [Feat. Carla Thomas]",
         "url": "https://open.spotify.com/album/0pSxVdyHM0NrcDQtCIU8Xl"
       },

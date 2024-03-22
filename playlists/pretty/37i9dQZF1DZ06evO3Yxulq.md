@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Yxulq.md) - [plain]
 
 > This is Christine D'Clario\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,280 likes - 50 songs - 4 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,288 likes - 50 songs - 4 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Yxulq.md) - [plain]
 | 44 | [Por Amor](https://open.spotify.com/track/4y4yAraDdzVc1Wdk37xlsR) | [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9), [Edward Rivera](https://open.spotify.com/artist/3N438PUTMEgLrL1n32VTxv) | [Emanuel](https://open.spotify.com/album/6mNXg7SEzc56gbSEwmoK0Q) | 5:37 |
 | 45 | [Yo Te Busco](https://open.spotify.com/track/0uYyXqF4CdeQFDEx73sc64) | [Adoración](https://open.spotify.com/artist/1TUjfvBVBLetTgJLy29Iz2), [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9) | [Adoración Vol\. 1](https://open.spotify.com/album/4GuJtiXSnLq5tHFCWRNCF8) | 5:51 |
 | 46 | [Bello eres tú](https://open.spotify.com/track/55DNwNrsS9IE4WTDlIu1su) | [Arthur Callazans](https://open.spotify.com/artist/5Wkk7zsJx0eYgnR7rAFIVS), [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9) | [Bello eres tú](https://open.spotify.com/album/4WklYaOuYePHVlPn1jJcQ4) | 6:50 |
-| 47 | [La Batalla](https://open.spotify.com/track/00tq7V7fBsxbylzEMNxqKj) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu), [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9) | [La Batalla](https://open.spotify.com/album/1YVeiDy1DyniGd7X88mMlF) | 4:47 |
-| 48 | [Me Rindo \(feat\. Karen Espinosa & Christine D'Clario\)](https://open.spotify.com/track/2qs43wB0Gts37Kg53TZAot) | [Maverick City Musica](https://open.spotify.com/artist/29lt2pgyQRRWbMqIeVHc9a), [Maverick City Music](https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV), [Karen Espinosa](https://open.spotify.com/artist/6XNVOebbeiowkj9FJwvc7m), [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9) | [Venga Tu Reino](https://open.spotify.com/album/7HfjVzPW3EPDhbXA8jKPp4) | 7:33 |
-| 49 | [Solo En Jesús](https://open.spotify.com/track/68CAAYvALCFbVlO0aPr52F) | [Keith & Kristyn Getty](https://open.spotify.com/artist/0I4Bk2s2BUJyykCwtxx8Xx), [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9) | [Solo En Jesús](https://open.spotify.com/album/6S5o4PNr7RobifM9GVpIjE) | 4:31 |
+| 47 | [Solo En Jesús](https://open.spotify.com/track/68CAAYvALCFbVlO0aPr52F) | [Keith & Kristyn Getty](https://open.spotify.com/artist/0I4Bk2s2BUJyykCwtxx8Xx), [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9) | [Solo En Jesús](https://open.spotify.com/album/6S5o4PNr7RobifM9GVpIjE) | 4:31 |
+| 48 | [La Batalla](https://open.spotify.com/track/00tq7V7fBsxbylzEMNxqKj) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu), [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9) | [La Batalla](https://open.spotify.com/album/1YVeiDy1DyniGd7X88mMlF) | 4:47 |
+| 49 | [Me Rindo \(feat\. Karen Espinosa & Christine D'Clario\)](https://open.spotify.com/track/2qs43wB0Gts37Kg53TZAot) | [Maverick City Musica](https://open.spotify.com/artist/29lt2pgyQRRWbMqIeVHc9a), [Maverick City Music](https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV), [Karen Espinosa](https://open.spotify.com/artist/6XNVOebbeiowkj9FJwvc7m), [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9) | [Venga Tu Reino](https://open.spotify.com/album/7HfjVzPW3EPDhbXA8jKPp4) | 7:33 |
 | 50 | [Esa Es La Razón \- Live](https://open.spotify.com/track/3lwiyQh8K7qWumYTiheXlq) | [Gateway Worship Español](https://open.spotify.com/artist/6CyrlDkin8EyehBeKUxcSV), [Miel San Marcos](https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE), [Travy Joe](https://open.spotify.com/artist/0K2Feyu8wJj25eXYZr3rT5), [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9) | [Esa Es La Razón \(Live\)](https://open.spotify.com/album/5HTaOwYUl701aYLyxYlezf) | 6:35 |
 
-Snapshot ID: `Mjg1MTU2NjAsMDAwMDAwMDAzMDQyNGM2M2FlM2UwNmU5YzQwODc1NDdiYjk0ZGQ5MQ==`
+Snapshot ID: `Mjg1MTcwNzUsMDAwMDAwMDA5MDBiYjllOWYxZWUyZWI3ZDYyOGM4N2ViYWI2OGQ2Mg==`

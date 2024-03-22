@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbkmlag2h7b.md) - [plain]
 
 > Drift away with enthralling instrumentals.
 
-[Spotify](https://open.spotify.com/user/spotify) - 633,220 likes - 100 songs - 5 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 633,246 likes - 100 songs - 5 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,8 +13,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbkmlag2h7b.md) - [plain]
 | 3 | [Descanso](https://open.spotify.com/track/5kI3nJuVik4PYmVGBQ3lq3) | [Santiago Penitente](https://open.spotify.com/artist/5GhwUrUTHxWEwJRQSXqNl9) | [Descanso](https://open.spotify.com/album/6wf1iHlQVWpkNvmA9t3H9u) | 2:54 |
 | 4 | [Solitaire](https://open.spotify.com/track/1dpmYcSMBDCr2EPUxMTdyA) | [Calming Lesmo](https://open.spotify.com/artist/5acenmixbZVmxdHn0Je47D) | [Solitaire](https://open.spotify.com/album/7BIDbqxwFJ9v30pxGqnToR) | 3:21 |
 | 5 | [Beyond](https://open.spotify.com/track/0tfMURtsB63Q3F6CVwAXyn) | [Koen Parker](https://open.spotify.com/artist/53uV0zzGfjaht3NaIiepwB) | [Beyond](https://open.spotify.com/album/57bF9UXUsV3Fczqi4vleLJ) | 2:30 |
-| 6 | [When It Was Just A Dream](https://open.spotify.com/track/286oXCQiXd21D7WVeMMYCc) | [Diya Wiler](https://open.spotify.com/artist/0DZNNKLNypEjKUpkgJS01w) | [When It Was Just A Dream](https://open.spotify.com/album/4jmFY2PjbsmX14YRwENDJZ) | 3:25 |
-| 7 | [Imagination](https://open.spotify.com/track/4lQzFqLkWkySwksrnuwIUn) | [Nova Issue](https://open.spotify.com/artist/2JG4r9snKhqze9RGKeGEvh) | [Imagination](https://open.spotify.com/album/7FtteL9w25Y1jvVdqLjheK) | 2:29 |
+| 6 | [Imagination](https://open.spotify.com/track/4lQzFqLkWkySwksrnuwIUn) | [Nova Issue](https://open.spotify.com/artist/2JG4r9snKhqze9RGKeGEvh) | [Imagination](https://open.spotify.com/album/7FtteL9w25Y1jvVdqLjheK) | 2:29 |
+| 7 | [When It Was Just A Dream](https://open.spotify.com/track/286oXCQiXd21D7WVeMMYCc) | [Diya Wiler](https://open.spotify.com/artist/0DZNNKLNypEjKUpkgJS01w) | [When It Was Just A Dream](https://open.spotify.com/album/4jmFY2PjbsmX14YRwENDJZ) | 3:25 |
 | 8 | [Sólestur](https://open.spotify.com/track/7F6aZaOPixAPSwEWUgUlwH) | [Elsa Gudmundsdottir](https://open.spotify.com/artist/5zgSiZmivqPWPZICFTKarK) | [Sólestur](https://open.spotify.com/album/4Symuw8H6FtmbDWqRRGsbN) | 2:09 |
 | 9 | [Stilhed](https://open.spotify.com/track/1pAKUFLp8gtOrAAPwkFYJ0) | [Alba Lie](https://open.spotify.com/artist/3l67IPTFGbGnzJGQCnXQQl) | [Stilhed](https://open.spotify.com/album/3Caf8c4V7JpRTEI4FSUfPk) | 3:19 |
 | 10 | [Lively Bluebottle](https://open.spotify.com/track/01ZG6VNmqta0ZV23kJfvIS) | [Mari Cafferty](https://open.spotify.com/artist/66CQACp5epB3rPvytNEoVU) | [Silk Under Rain](https://open.spotify.com/album/5wkOnp8bjaLa5Rh3aRztFV) | 3:12 |
@@ -68,8 +68,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbkmlag2h7b.md) - [plain]
 | 58 | [Forests](https://open.spotify.com/track/07c4gDvK93SjexpBDtHL3o) | [Sebastian Winskog](https://open.spotify.com/artist/7u3qMD0XE43b26dN6FgmZb) | [Meadow / Forests](https://open.spotify.com/album/7HvFAw0jmKpcn78c5LyDur) | 2:20 |
 | 59 | [Strings of Light](https://open.spotify.com/track/7pLqzJr6EA7gFm6hAeYxD9) | [Surrounding Life](https://open.spotify.com/artist/7x0g29FUOlzLsQrKB0NioF) | [Rivers of Relief](https://open.spotify.com/album/08i8VU7ZL1rBE9dNhf6ldr) | 4:55 |
 | 60 | [Sandscape](https://open.spotify.com/track/6xn4Pek9Jvj8wmKli2S7fi) | [Sophie Emitt](https://open.spotify.com/artist/2eoLmo76ASA6kgdyZ5QRSN) | [Sandscape](https://open.spotify.com/album/2fzrBCqCuqBPOuAz7aTCga) | 2:48 |
-| 61 | [Hibernia Sleep](https://open.spotify.com/track/1V25se6ClL3pPrvVlufMCp) | [Daniel Kaede](https://open.spotify.com/artist/6aup7uM4yUHX9NLba0sxmt) | [Somewhere Ahead](https://open.spotify.com/album/5qoSYzAjuuMXA6AaIn5YJT) | 2:26 |
-| 62 | [Sonata Pathétique](https://open.spotify.com/track/2NCG0u2NT7KceLxCjseW3A) | [Marcel Depuis](https://open.spotify.com/artist/6rWVhqYY4PMyTdfA48grAa) | [Dramatique Musique Classique](https://open.spotify.com/album/77tCQQ2AjoNlye3AgO7jV4) | 2:50 |
+| 61 | [Sonata Pathétique](https://open.spotify.com/track/2NCG0u2NT7KceLxCjseW3A) | [Marcel Depuis](https://open.spotify.com/artist/6rWVhqYY4PMyTdfA48grAa) | [Dramatique Musique Classique](https://open.spotify.com/album/77tCQQ2AjoNlye3AgO7jV4) | 2:50 |
+| 62 | [Hibernia Sleep](https://open.spotify.com/track/1V25se6ClL3pPrvVlufMCp) | [Daniel Kaede](https://open.spotify.com/artist/6aup7uM4yUHX9NLba0sxmt) | [Somewhere Ahead](https://open.spotify.com/album/5qoSYzAjuuMXA6AaIn5YJT) | 2:26 |
 | 63 | [Minism](https://open.spotify.com/track/6bJVQy8VspBFEWHlaoxbY5) | [Taylor Deupree](https://open.spotify.com/artist/4X3dUbGsTpVH6EbxtWnj6T) | [Somi](https://open.spotify.com/album/1RPe8vnWTQCXJhmfwFOJDU) | 3:47 |
 | 64 | [Whispers](https://open.spotify.com/track/3VQaQbYdSLSgw9sodURQJr) | [Tom Ellenhag](https://open.spotify.com/artist/0gAd6Hy6KbkeWOop5aTMqQ) | [Whispers](https://open.spotify.com/album/5EveBFVczPS39O5zPE1mi9) | 3:08 |
 | 65 | [The Light of Day](https://open.spotify.com/track/214O1Gcgv9lCWJoley3Ttg) | [Chymeris](https://open.spotify.com/artist/2WuwBckoWivO9e7DgRFt6F) | [The Light of Day](https://open.spotify.com/album/7mMVxWIPhNEyozLDXxqw71) | 2:47 |
@@ -82,8 +82,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbkmlag2h7b.md) - [plain]
 | 72 | [Clear\-Headed](https://open.spotify.com/track/3WDUmsJxKRJTItEH8MSjzu) | [Zonyoh](https://open.spotify.com/artist/7o9aQXbCxoLm0QqpQX5TZx) | [Theta Sleep](https://open.spotify.com/album/1GWlZiCArOCVoqDTju5sDZ) | 2:46 |
 | 73 | [Headroom](https://open.spotify.com/track/0ZyO8ieWV63JiMAguidMHs) | [Aurélien Trigo](https://open.spotify.com/artist/1XvEjHuBKBUIbZHuBesoCE) | [The Acoustic Mind \- Vol\. 1](https://open.spotify.com/album/6xfqxYJsi4o5tShTm2u466) | 2:52 |
 | 74 | [Svalbard](https://open.spotify.com/track/4JfiZjxURRSroTqETjK2za) | [Julyan Brynn](https://open.spotify.com/artist/4M5Z3s7BTxyZuifI4YWp6v) | [Floating Hearts](https://open.spotify.com/album/5EoiOmTiADBanOUgtYbWSg) | 3:19 |
-| 75 | [Meditations](https://open.spotify.com/track/1MHEMARc3VukbGGn4pc1oE) | [Drift Far Away](https://open.spotify.com/artist/05QqQCiZ0kiF1jRCm6YRT2) | [Open Sky](https://open.spotify.com/album/6OFXea6xNBtFBbCNXFVaQD) | 4:27 |
-| 76 | [Tensions](https://open.spotify.com/track/75u1CPntzCwYTaenr5nlWA) | [Spheres](https://open.spotify.com/artist/3c3ccZ0IYqJ9cfMdSfVt02) | [Tensions](https://open.spotify.com/album/5NzWFvAmbcYhwOLwsXJ7nh) | 2:36 |
+| 75 | [Tensions](https://open.spotify.com/track/75u1CPntzCwYTaenr5nlWA) | [Spheres](https://open.spotify.com/artist/3c3ccZ0IYqJ9cfMdSfVt02) | [Tensions](https://open.spotify.com/album/5NzWFvAmbcYhwOLwsXJ7nh) | 2:36 |
+| 76 | [Meditations](https://open.spotify.com/track/1MHEMARc3VukbGGn4pc1oE) | [Drift Far Away](https://open.spotify.com/artist/05QqQCiZ0kiF1jRCm6YRT2) | [Open Sky](https://open.spotify.com/album/6OFXea6xNBtFBbCNXFVaQD) | 4:27 |
 | 77 | [Flow](https://open.spotify.com/track/2y7ZFxhjW14tUWwuQUkYQs) | [Tom Ellenhag](https://open.spotify.com/artist/0gAd6Hy6KbkeWOop5aTMqQ) | [Flow](https://open.spotify.com/album/0BEJfJ1WCQpwWIIXKR2Ioz) | 2:55 |
 | 78 | [Behind Your Eyes](https://open.spotify.com/track/20zqqXhSfIHp8mMrjmzDUX) | [Coherent Energy](https://open.spotify.com/artist/7JjVTrxF7P0Vu0pXIIwsXP) | [Behind Your Eyes](https://open.spotify.com/album/3LDJc1oFquIFUg7Q8v2aWh) | 3:17 |
 | 79 | [Sunny & Cloudy](https://open.spotify.com/track/26lZ3W0igUyTsLdXVFPcf0) | [Hans Wolfgang Ziegler](https://open.spotify.com/artist/66wCtsoRnWiSmoHSvXPK5m) | [The Seasons](https://open.spotify.com/album/5N9ne8TG9Zi6tTn861vTgF) | 2:17 |
@@ -99,14 +99,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbkmlag2h7b.md) - [plain]
 | 89 | [Burgeon](https://open.spotify.com/track/5x6b2SejrJYfgY1UN9BneK) | [Abigail Dorsey](https://open.spotify.com/artist/5UWRATaAg1iZB8rJtTHhfR) | [Burgeon](https://open.spotify.com/album/63OxZ1kqFKqftIwuwKTAEl) | 2:48 |
 | 90 | [Prism](https://open.spotify.com/track/6YLrARPrFzyhPSNDBzVWc2) | [Abe Hathot](https://open.spotify.com/artist/40tqIiKClGVYgzgxL4YoQw), [Amor Omnia](https://open.spotify.com/artist/3xZqDWMopPwRTofjFUWBqu) | [Prism](https://open.spotify.com/album/2NnXGaOmsxE2nFjUxK2WbL) | 2:52 |
 | 91 | [Neend](https://open.spotify.com/track/2NYZLz3zPsLt5pZlLbN2zQ) | [Asanah](https://open.spotify.com/artist/2DCbSulOeRJeGXct0hQOzR) | [Neend](https://open.spotify.com/album/1JKk0JTE1wSml1uHTYIOBo) | 2:37 |
-| 92 | [Time Capsule](https://open.spotify.com/track/3vYoj6aREguuAjgWJFfT0W) | [Moments Of Divinity](https://open.spotify.com/artist/0Srt4bBej7bpUZRcgHNl3V) | [Time Capsule](https://open.spotify.com/album/4JvMEILGisttB0x54aXoSZ) | 2:09 |
-| 93 | [The Land of the Sun](https://open.spotify.com/track/69hUAO39hrnOvD9vWYwteW) | [Sami Yusuf](https://open.spotify.com/artist/7GnedB795OhbMbojdC3bzj) | [The Land of the Sun](https://open.spotify.com/album/08QpXpM3nNYdIBOwfzKNre) | 3:58 |
-| 94 | [Aion](https://open.spotify.com/track/09aXsDzTB0HxnZw6zvKwqf) | [Kolorascze](https://open.spotify.com/artist/7nftAWIfdA1qHbIZuWUFGJ) | [Aion](https://open.spotify.com/album/1APMXdCylpxLp18wKiVHTh) | 2:04 |
-| 95 | [Oriental Journey](https://open.spotify.com/track/5qMWKiZ8NELjkXmCiMf0BX) | [Northern Lights](https://open.spotify.com/artist/0pJ7c6jclXmQmxW4Doz1Ny) | [Meditations for Woods & Winds](https://open.spotify.com/album/6z79twbAshQfUTVxUW8oJH) | 3:25 |
+| 92 | [The Land of the Sun](https://open.spotify.com/track/69hUAO39hrnOvD9vWYwteW) | [Sami Yusuf](https://open.spotify.com/artist/7GnedB795OhbMbojdC3bzj) | [The Land of the Sun](https://open.spotify.com/album/08QpXpM3nNYdIBOwfzKNre) | 3:58 |
+| 93 | [Time Capsule](https://open.spotify.com/track/3vYoj6aREguuAjgWJFfT0W) | [Moments Of Divinity](https://open.spotify.com/artist/0Srt4bBej7bpUZRcgHNl3V) | [Time Capsule](https://open.spotify.com/album/4JvMEILGisttB0x54aXoSZ) | 2:09 |
+| 94 | [Oriental Journey](https://open.spotify.com/track/5qMWKiZ8NELjkXmCiMf0BX) | [Northern Lights](https://open.spotify.com/artist/0pJ7c6jclXmQmxW4Doz1Ny) | [Meditations for Woods & Winds](https://open.spotify.com/album/6z79twbAshQfUTVxUW8oJH) | 3:25 |
+| 95 | [Aion](https://open.spotify.com/track/09aXsDzTB0HxnZw6zvKwqf) | [Kolorascze](https://open.spotify.com/artist/7nftAWIfdA1qHbIZuWUFGJ) | [Aion](https://open.spotify.com/album/1APMXdCylpxLp18wKiVHTh) | 2:04 |
 | 96 | [Mysterium](https://open.spotify.com/track/50zj8Ry2UH4x55kAjlQQZm) | [Auguste Henrique](https://open.spotify.com/artist/4vhZAxV71kt6sNrFiGOBgL) | [Mysterium](https://open.spotify.com/album/2NnfmVtTwx3f3qCfFajETT) | 2:47 |
 | 97 | [Morning Air](https://open.spotify.com/track/0Y6FUMPHer4pRCELNSLFx3) | [Wind Speaks](https://open.spotify.com/artist/06S55ZKieUgI9zFKhJVKsY) | [Morning Air](https://open.spotify.com/album/02yUGBp8deAAU2DPXYs2yZ) | 2:38 |
 | 98 | [Song For Wermland](https://open.spotify.com/track/04dbAW4vL9SSKV4CJXEYd4) | [Rasmus Jenzen](https://open.spotify.com/artist/0dE07SkhpjSzABGjYGdVDc) | [Song For Wermland](https://open.spotify.com/album/6sRjo5sSEJmwLhbjV4bvNA) | 3:46 |
 | 99 | [Purity 432hz](https://open.spotify.com/track/60kuRpoUHGfYmVswKdvcO0) | [Nairuz](https://open.spotify.com/artist/5Rl9GnnclvARcDxCUMO02Y) | [Purity 432hz](https://open.spotify.com/album/5OSOyRZDMMgLu8vjaS2gyh) | 4:02 |
 | 100 | [Longevity](https://open.spotify.com/track/1YBpN1eAb3hJ0tEtbZsmSt) | [Jonas Sandberg](https://open.spotify.com/artist/5JkM7qUhOcmY5SqK3SnU3O) | [Longevity](https://open.spotify.com/album/5q1GXNsqZB1GbekDWzZThJ) | 3:34 |
 
-Snapshot ID: `MCw2ZDViMjljZTJiYzZjY2MzZDQ5M2FkNDBmM2NmNTA1MmUxMWY4Mzhj`
+Snapshot ID: `MCw0ODIyNTIzYmE1Nzc3NDU2ZDdkZDg5MDc1OTVmMTJiZDNiODhlZWYz`

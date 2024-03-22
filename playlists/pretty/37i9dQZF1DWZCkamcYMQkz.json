@@ -1,12 +1,12 @@
 {
   "description": "Warm and cozy jazz vibes to get you in a positive mood.\n\n",
-  "num_followers": 186157,
+  "num_followers": 186340,
   "original_name": "Feel Good Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjY2RlM2Y2MmI2NTkzMTIzMWE4Yjc2ODBiOTUxMjg2YzdkZmEwYTc0",
+  "snapshot_id": "MCw3MDg5MGUzMTg3NzRlNDExNjBjYmExY2ZjZTkwM2ZhZmQxM2MxZGEy",
   "tracks": [
     {
       "added_at": "2024-03-19 14:57:26",
@@ -543,22 +543,6 @@
     {
       "added_at": "2024-03-19 14:57:26",
       "album": {
-        "name": "Trio 64",
-        "url": "https://open.spotify.com/album/4rLPJEiZuhRRswnBGBgVvv"
-      },
-      "artists": [
-        {
-          "name": "Bill Evans",
-          "url": "https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF"
-        }
-      ],
-      "duration_ms": 231133,
-      "name": "Little Lulu",
-      "url": "https://open.spotify.com/track/1a8NXpwR2o6LZEG4uAJ6ck"
-    },
-    {
-      "added_at": "2024-03-19 14:57:26",
-      "album": {
         "name": "Tenor Madness",
         "url": "https://open.spotify.com/album/7Jpvy75Z6twnPyADNBzeII"
       },
@@ -571,6 +555,22 @@
       "duration_ms": 309360,
       "name": "Paul's Pal - Rudy Van Gelder Remaster",
       "url": "https://open.spotify.com/track/2gt0kkTEph69p2ZWn177Tt"
+    },
+    {
+      "added_at": "2024-03-19 14:57:26",
+      "album": {
+        "name": "Trio 64",
+        "url": "https://open.spotify.com/album/4rLPJEiZuhRRswnBGBgVvv"
+      },
+      "artists": [
+        {
+          "name": "Bill Evans",
+          "url": "https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF"
+        }
+      ],
+      "duration_ms": 231133,
+      "name": "Little Lulu",
+      "url": "https://open.spotify.com/track/1a8NXpwR2o6LZEG4uAJ6ck"
     },
     {
       "added_at": "2024-03-19 14:57:26",
@@ -743,22 +743,6 @@
     {
       "added_at": "2024-03-19 14:57:26",
       "album": {
-        "name": "Twentysomething (Special Edition)",
-        "url": "https://open.spotify.com/album/6YwcKkG1bEljsv9nyfCtgh"
-      },
-      "artists": [
-        {
-          "name": "Jamie Cullum",
-          "url": "https://open.spotify.com/artist/3XxxEq6BREC57nCWXbQZ7o"
-        }
-      ],
-      "duration_ms": 250280,
-      "name": "I Get A Kick Out Of You",
-      "url": "https://open.spotify.com/track/44a3wyIm26EbMwGEFXDdDR"
-    },
-    {
-      "added_at": "2024-03-19 14:57:26",
-      "album": {
         "name": "My Kinda Swing",
         "url": "https://open.spotify.com/album/1LJPmxO2eGpzZGrr12LEIa"
       },
@@ -771,6 +755,22 @@
       "duration_ms": 138986,
       "name": "It Don't Mean A Thing (If It Ain't Got That Swing)",
       "url": "https://open.spotify.com/track/7BWHPwLi3s4rOnKXooZQXP"
+    },
+    {
+      "added_at": "2024-03-19 14:57:26",
+      "album": {
+        "name": "Twentysomething (Special Edition)",
+        "url": "https://open.spotify.com/album/6YwcKkG1bEljsv9nyfCtgh"
+      },
+      "artists": [
+        {
+          "name": "Jamie Cullum",
+          "url": "https://open.spotify.com/artist/3XxxEq6BREC57nCWXbQZ7o"
+        }
+      ],
+      "duration_ms": 250280,
+      "name": "I Get A Kick Out Of You",
+      "url": "https://open.spotify.com/track/44a3wyIm26EbMwGEFXDdDR"
     },
     {
       "added_at": "2024-03-19 14:57:26",
@@ -847,18 +847,18 @@
     {
       "added_at": "2024-03-19 14:57:26",
       "album": {
-        "name": "The Complete Dinah Washington On Mercury, Vol.4 (1954-1956)",
-        "url": "https://open.spotify.com/album/7MpI5x3ALFKVNTO0OZ7NfB"
+        "name": "Past Midnight",
+        "url": "https://open.spotify.com/album/4FRqvcDBUuoiS2RHHPqspr"
       },
       "artists": [
         {
-          "name": "Dinah Washington",
-          "url": "https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa"
+          "name": "Margaret Whiting",
+          "url": "https://open.spotify.com/artist/5ZGDxHhju6eE8ja4IyGe87"
         }
       ],
-      "duration_ms": 268173,
-      "name": "I Could Write A Book",
-      "url": "https://open.spotify.com/track/7M3mkGFmV8YMJXcxJ14OJ3"
+      "duration_ms": 172453,
+      "name": "They Can't Take That Away From Me",
+      "url": "https://open.spotify.com/track/66aidOEPunzwQGOKqds2PR"
     },
     {
       "added_at": "2024-03-19 14:57:26",
@@ -879,18 +879,18 @@
     {
       "added_at": "2024-03-19 14:57:26",
       "album": {
-        "name": "Past Midnight",
-        "url": "https://open.spotify.com/album/4FRqvcDBUuoiS2RHHPqspr"
+        "name": "The Complete Dinah Washington On Mercury, Vol.4 (1954-1956)",
+        "url": "https://open.spotify.com/album/7MpI5x3ALFKVNTO0OZ7NfB"
       },
       "artists": [
         {
-          "name": "Margaret Whiting",
-          "url": "https://open.spotify.com/artist/5ZGDxHhju6eE8ja4IyGe87"
+          "name": "Dinah Washington",
+          "url": "https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa"
         }
       ],
-      "duration_ms": 172453,
-      "name": "They Can't Take That Away From Me",
-      "url": "https://open.spotify.com/track/66aidOEPunzwQGOKqds2PR"
+      "duration_ms": 268173,
+      "name": "I Could Write A Book",
+      "url": "https://open.spotify.com/track/7M3mkGFmV8YMJXcxJ14OJ3"
     },
     {
       "added_at": "2024-03-19 14:57:26",
@@ -943,22 +943,6 @@
     {
       "added_at": "2024-03-19 14:57:26",
       "album": {
-        "name": "Dinah! (Expanded Edition)",
-        "url": "https://open.spotify.com/album/28EUtXFCY6AuKxFDyLt1Ol"
-      },
-      "artists": [
-        {
-          "name": "Dinah Washington",
-          "url": "https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa"
-        }
-      ],
-      "duration_ms": 225840,
-      "name": "All Of Me",
-      "url": "https://open.spotify.com/track/48RDHEZQhUHFfwrJ7o7Owr"
-    },
-    {
-      "added_at": "2024-03-19 14:57:26",
-      "album": {
         "name": "Inside Betty Carter",
         "url": "https://open.spotify.com/album/3rFnwsVrrSYZQsCGTkOT7W"
       },
@@ -991,6 +975,22 @@
       "duration_ms": 248862,
       "name": "September In The Rain",
       "url": "https://open.spotify.com/track/3B1p5fP7kwsWb7WnazHDrS"
+    },
+    {
+      "added_at": "2024-03-19 14:57:26",
+      "album": {
+        "name": "Dinah! (Expanded Edition)",
+        "url": "https://open.spotify.com/album/28EUtXFCY6AuKxFDyLt1Ol"
+      },
+      "artists": [
+        {
+          "name": "Dinah Washington",
+          "url": "https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa"
+        }
+      ],
+      "duration_ms": 225840,
+      "name": "All Of Me",
+      "url": "https://open.spotify.com/track/48RDHEZQhUHFfwrJ7o7Owr"
     },
     {
       "added_at": "2024-03-19 14:57:26",
@@ -1075,6 +1075,26 @@
     {
       "added_at": "2024-03-19 14:57:26",
       "album": {
+        "name": "The Feeling is Mutual",
+        "url": "https://open.spotify.com/album/0NiWeiNpFi6hBoPJ7NCmHk"
+      },
+      "artists": [
+        {
+          "name": "Caity Gyorgy",
+          "url": "https://open.spotify.com/artist/7MCpoKftSxsTCS8UBu1GFa"
+        },
+        {
+          "name": "Laura Anglade",
+          "url": "https://open.spotify.com/artist/49gu1QHXBPcWoeT5cyAGqG"
+        }
+      ],
+      "duration_ms": 254880,
+      "name": "The Feeling is Mutual",
+      "url": "https://open.spotify.com/track/6hRotep2BbjGYmHHjj6soQ"
+    },
+    {
+      "added_at": "2024-03-19 14:57:26",
+      "album": {
         "name": "Blue Trane",
         "url": "https://open.spotify.com/album/3RXgzvCKKFbKowuo83Nb3x"
       },
@@ -1103,26 +1123,6 @@
       "duration_ms": 422400,
       "name": "Le Coiffeur",
       "url": "https://open.spotify.com/track/2dk9zmPIOjVXhUgeLgfKNU"
-    },
-    {
-      "added_at": "2024-03-19 14:57:26",
-      "album": {
-        "name": "The Feeling is Mutual",
-        "url": "https://open.spotify.com/album/0NiWeiNpFi6hBoPJ7NCmHk"
-      },
-      "artists": [
-        {
-          "name": "Caity Gyorgy",
-          "url": "https://open.spotify.com/artist/7MCpoKftSxsTCS8UBu1GFa"
-        },
-        {
-          "name": "Laura Anglade",
-          "url": "https://open.spotify.com/artist/49gu1QHXBPcWoeT5cyAGqG"
-        }
-      ],
-      "duration_ms": 254880,
-      "name": "The Feeling is Mutual",
-      "url": "https://open.spotify.com/track/6hRotep2BbjGYmHHjj6soQ"
     },
     {
       "added_at": "2024-03-19 14:57:26",
@@ -1291,22 +1291,6 @@
     {
       "added_at": "2024-03-19 14:57:26",
       "album": {
-        "name": "It's Time For Ernestine",
-        "url": "https://open.spotify.com/album/4VEMfnBuWDt6Ims4wQWH8L"
-      },
-      "artists": [
-        {
-          "name": "Ernestine Anderson",
-          "url": "https://open.spotify.com/artist/7yNele4jnVhZJ2GE7Kg25T"
-        }
-      ],
-      "duration_ms": 134973,
-      "name": "Love for Sale",
-      "url": "https://open.spotify.com/track/2pEBaVA84jg2kDyGa2rGDf"
-    },
-    {
-      "added_at": "2024-03-19 14:57:26",
-      "album": {
         "name": "The Cat Walk",
         "url": "https://open.spotify.com/album/74xp9w1ZWItApmB1qEd7hm"
       },
@@ -1335,6 +1319,22 @@
       "duration_ms": 191640,
       "name": "Holiday Flight",
       "url": "https://open.spotify.com/track/4BWJoCEQX9RAJPX26kk1QP"
+    },
+    {
+      "added_at": "2024-03-19 14:57:26",
+      "album": {
+        "name": "It's Time For Ernestine",
+        "url": "https://open.spotify.com/album/4VEMfnBuWDt6Ims4wQWH8L"
+      },
+      "artists": [
+        {
+          "name": "Ernestine Anderson",
+          "url": "https://open.spotify.com/artist/7yNele4jnVhZJ2GE7Kg25T"
+        }
+      ],
+      "duration_ms": 134973,
+      "name": "Love for Sale",
+      "url": "https://open.spotify.com/track/2pEBaVA84jg2kDyGa2rGDf"
     },
     {
       "added_at": "2024-03-19 14:57:26",
@@ -1503,18 +1503,18 @@
     {
       "added_at": "2024-03-19 14:57:26",
       "album": {
-        "name": "Stop This World",
-        "url": "https://open.spotify.com/album/7ivGaE6c8QlNVFYmnS0qSf"
+        "name": "Thedia",
+        "url": "https://open.spotify.com/album/5ccRhv2mXCgIgHY8RLWxQo"
       },
       "artists": [
         {
-          "name": "Halie Loren",
-          "url": "https://open.spotify.com/artist/1Fcd5av0AI3xn05b3hrQfI"
+          "name": "Cory Weeds",
+          "url": "https://open.spotify.com/artist/0YB9WHBn7xTEQsvcFZRUdy"
         }
       ],
-      "duration_ms": 229133,
-      "name": "Stop This World",
-      "url": "https://open.spotify.com/track/4yvljqDSkPWgUuxw9gm4pH"
+      "duration_ms": 303163,
+      "name": "Thedia",
+      "url": "https://open.spotify.com/track/1BOH3GRgTRZz7NITH4oEIG"
     },
     {
       "added_at": "2024-03-19 14:57:26",
@@ -1535,18 +1535,18 @@
     {
       "added_at": "2024-03-19 14:57:26",
       "album": {
-        "name": "Thedia",
-        "url": "https://open.spotify.com/album/5ccRhv2mXCgIgHY8RLWxQo"
+        "name": "Stop This World",
+        "url": "https://open.spotify.com/album/7ivGaE6c8QlNVFYmnS0qSf"
       },
       "artists": [
         {
-          "name": "Cory Weeds",
-          "url": "https://open.spotify.com/artist/0YB9WHBn7xTEQsvcFZRUdy"
+          "name": "Halie Loren",
+          "url": "https://open.spotify.com/artist/1Fcd5av0AI3xn05b3hrQfI"
         }
       ],
-      "duration_ms": 303163,
-      "name": "Thedia",
-      "url": "https://open.spotify.com/track/1BOH3GRgTRZz7NITH4oEIG"
+      "duration_ms": 229133,
+      "name": "Stop This World",
+      "url": "https://open.spotify.com/track/4yvljqDSkPWgUuxw9gm4pH"
     },
     {
       "added_at": "2024-03-19 14:57:26",
@@ -1623,22 +1623,6 @@
     {
       "added_at": "2024-03-19 14:57:26",
       "album": {
-        "name": "Way Out West (OJC Remaster)",
-        "url": "https://open.spotify.com/album/6pWgCHxQp3DYbPKxduwvmC"
-      },
-      "artists": [
-        {
-          "name": "Sonny Rollins",
-          "url": "https://open.spotify.com/artist/1VEzN9lxvG6KPR3QQGsebR"
-        }
-      ],
-      "duration_ms": 343120,
-      "name": "I'm an Old Cowhand",
-      "url": "https://open.spotify.com/track/6VRSZGxuhPGOCgUUAnAaUw"
-    },
-    {
-      "added_at": "2024-03-19 14:57:26",
-      "album": {
         "name": "Additions To Further Definitions",
         "url": "https://open.spotify.com/album/7xZfgQPKxnmAAt6mLTTSVb"
       },
@@ -1651,6 +1635,22 @@
       "duration_ms": 331386,
       "name": "Doozy - 1966 Album Version",
       "url": "https://open.spotify.com/track/0iZFlr1KifqE2h5jM8g5pF"
+    },
+    {
+      "added_at": "2024-03-19 14:57:26",
+      "album": {
+        "name": "Way Out West (OJC Remaster)",
+        "url": "https://open.spotify.com/album/6pWgCHxQp3DYbPKxduwvmC"
+      },
+      "artists": [
+        {
+          "name": "Sonny Rollins",
+          "url": "https://open.spotify.com/artist/1VEzN9lxvG6KPR3QQGsebR"
+        }
+      ],
+      "duration_ms": 343120,
+      "name": "I'm an Old Cowhand",
+      "url": "https://open.spotify.com/track/6VRSZGxuhPGOCgUUAnAaUw"
     },
     {
       "added_at": "2024-03-19 14:57:26",

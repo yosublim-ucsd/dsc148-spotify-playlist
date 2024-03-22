@@ -1,12 +1,12 @@
 {
   "description": "pov: fresh produce is in your reusable tote, the flowers are in bloom, and you\u2019re sipping on an iced coffee ",
-  "num_followers": 211986,
+  "num_followers": 212030,
   "original_name": "Farmers Market",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzMmUwMmYwYTU5MzBjYjgxZDA4ZTBhNWY5YzUyODg2NWJiYjJmN2Uz",
+  "snapshot_id": "MCw0NjU2MjE2ZWFkYjBkZmE2NTNkM2I1NTVmODU2NzExNGQ3NTIxOTE3",
   "tracks": [
     {
       "added_at": "2023-11-10 05:00:00",
@@ -715,6 +715,22 @@
     {
       "added_at": "2023-11-10 05:00:00",
       "album": {
+        "name": "Are We There",
+        "url": "https://open.spotify.com/album/6EQWzHbd3EYO8J4EAIJst4"
+      },
+      "artists": [
+        {
+          "name": "Sharon Van Etten",
+          "url": "https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe"
+        }
+      ],
+      "duration_ms": 262520,
+      "name": "Every Time the Sun Comes Up",
+      "url": "https://open.spotify.com/track/61qxP4Vs5DVX0Ic4GnBklu"
+    },
+    {
+      "added_at": "2023-11-10 05:00:00",
+      "album": {
         "name": "The Spirit Moves",
         "url": "https://open.spotify.com/album/77UiJMD9OVYj2YXr2gO9L5"
       },
@@ -731,22 +747,6 @@
       "duration_ms": 161906,
       "name": "Changes",
       "url": "https://open.spotify.com/track/0gKiONJeEtwb3hps4sUgyn"
-    },
-    {
-      "added_at": "2023-11-10 05:00:00",
-      "album": {
-        "name": "Are We There",
-        "url": "https://open.spotify.com/album/6EQWzHbd3EYO8J4EAIJst4"
-      },
-      "artists": [
-        {
-          "name": "Sharon Van Etten",
-          "url": "https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe"
-        }
-      ],
-      "duration_ms": 262520,
-      "name": "Every Time the Sun Comes Up",
-      "url": "https://open.spotify.com/track/61qxP4Vs5DVX0Ic4GnBklu"
     },
     {
       "added_at": "2023-11-10 05:00:00",

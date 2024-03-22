@@ -4,7 +4,7 @@
 
 > El cholo se hizo buchón 😎🤠 Polo González en portada.
 
-251 songs - 12 hr 54 min
+252 songs - 12 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,7 +59,8 @@
 | [Cupcake Quemando](https://open.spotify.com/track/2AEIwBU42xkLwkCj7i7USv) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ) | [Cupcake Quemando](https://open.spotify.com/album/4jRTPn5owoTaIbmrIgxLjp) | 3:17 | 2021-12-17 | 2022-09-28 |
 | [DDM Anthem](https://open.spotify.com/track/22ZE5l6Z9Z8I8eGk4Ty4OW) | [Arsenal Efectivo](https://open.spotify.com/artist/2MMXs21RASEwAmU7gRheQ0), [Brianshredz](https://open.spotify.com/artist/2O1MkAEoviGw1rKuJGy62o), [Kevin Cortez](https://open.spotify.com/artist/5fvBv8QAPzf5Px6eE7Wdr9) | [DDM Anthem](https://open.spotify.com/album/5D4MjY99Ckh4N6wOedYy6c) | 4:18 | 2023-06-02 | 2023-06-17 |
 | [De A De Veras](https://open.spotify.com/track/21aZ4e4lJiFmqRzNiPXqhP) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P), [Codiciado](https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4) | [De A De Veras](https://open.spotify.com/album/3NgALGjGhMc27JBclVPTBV) | 3:42 | 2022-04-01 | 2023-02-25 |
-| [De Lunes A Viernes](https://open.spotify.com/track/1NG1ZbHFYLL27Upnnkz9af) | [Calle 24](https://open.spotify.com/artist/6dLuQ5qXxIuWc5urxfIiZR), [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Angel Ureta](https://open.spotify.com/artist/3rvluTyk2vmAj3dN1b0bw8) | [De Lunes A Viernes](https://open.spotify.com/album/3yuosxLkQXRX9wg4XZMLir) | 2:33 | 2023-04-14 |  |
+| [De Lunes A Viernes](https://open.spotify.com/track/4ZLdYf8PwRSnsBeLESPio9) | [Angel Ureta](https://open.spotify.com/artist/3rvluTyk2vmAj3dN1b0bw8), [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Calle 24](https://open.spotify.com/artist/6dLuQ5qXxIuWc5urxfIiZR) | [De Lunes A Viernes](https://open.spotify.com/album/6UATeZf50WEtzrp4ZMFCoc) | 2:33 | 2024-03-15 |  |
+| [De Lunes A Viernes](https://open.spotify.com/track/1NG1ZbHFYLL27Upnnkz9af) | [Calle 24](https://open.spotify.com/artist/6dLuQ5qXxIuWc5urxfIiZR), [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Angel Ureta](https://open.spotify.com/artist/3rvluTyk2vmAj3dN1b0bw8) | [De Lunes A Viernes](https://open.spotify.com/album/3yuosxLkQXRX9wg4XZMLir) | 2:33 | 2023-04-14 | 2024-03-22 |
 | [De Periódico Un Gallito](https://open.spotify.com/track/5teILTGkJkSJXI03XeMIj2) | [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ) | [Un Chamaco Sin Futuro](https://open.spotify.com/album/0I8yvmHFAvAnyKFxHd5KSI) | 3:17 | 2021-12-17 | 2023-07-22 |
 | [Del Barrio Sali \(Version Norteña\)](https://open.spotify.com/track/5tRo8lpFkAPXQR3AqxfyeF) | [Luis Cuadras](https://open.spotify.com/artist/0POrsz8AIjHbmjxkhNSHiR), [Ldln](https://open.spotify.com/artist/6zUohwxj78LtEvlXR4T8fU) | [Del Barrio Sali \(Version Norteña\)](https://open.spotify.com/album/60t6ooY8p0kt8iSPl95aRS) | 2:50 | 2022-04-08 | 2022-09-28 |
 | [Denver Ruleteamos](https://open.spotify.com/track/0uJ9kGk1Pf5Nv2mbojVdkN) | [Javier Rosas Y Su Artillería Pesada](https://open.spotify.com/artist/5FAAR1LqXQp0HbgVfQ8ZWE), [Los Minis de Caborca](https://open.spotify.com/artist/09Hzsy5bgnADJzIVlYUoQ3) | [Denver Ruleteamos](https://open.spotify.com/album/47KjLcIoLIn0g6yAIFSjBY) | 3:32 | 2022-11-08 | 2023-07-08 |

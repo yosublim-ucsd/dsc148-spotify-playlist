@@ -1,12 +1,12 @@
 {
   "description": "The happiest hits to boost your day.",
-  "num_followers": 490408,
+  "num_followers": 490465,
   "original_name": "Good Times",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzMjY2YjUzNzVmYWE3NzZiZGMxYjIwOTY4MTVhOTNhNmNmMGYzZWEw",
+  "snapshot_id": "MCwwY2U4OGY2YThmOGEwYzQ1YjMxZDY5OTExMWQ5NmFmZDk3Y2JlOGY3",
   "tracks": [
     {
       "added_at": "2024-01-29 03:28:07",
@@ -111,6 +111,22 @@
     {
       "added_at": "2024-01-29 03:28:07",
       "album": {
+        "name": "JORDI (Deluxe)",
+        "url": "https://open.spotify.com/album/1pCA38N6MkLlthXtAOvZTU"
+      },
+      "artists": [
+        {
+          "name": "Maroon 5",
+          "url": "https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP"
+        }
+      ],
+      "duration_ms": 189486,
+      "name": "Memories",
+      "url": "https://open.spotify.com/track/4cktbXiXOapiLBMprHFErI"
+    },
+    {
+      "added_at": "2024-01-29 03:28:07",
+      "album": {
         "name": "Happier",
         "url": "https://open.spotify.com/album/2u4Yp2ADTKYPwFSBFL4ffa"
       },
@@ -127,22 +143,6 @@
       "duration_ms": 214289,
       "name": "Happier",
       "url": "https://open.spotify.com/track/7BqHUALzNBTanL6OvsqmC1"
-    },
-    {
-      "added_at": "2024-01-29 03:28:07",
-      "album": {
-        "name": "JORDI (Deluxe)",
-        "url": "https://open.spotify.com/album/1pCA38N6MkLlthXtAOvZTU"
-      },
-      "artists": [
-        {
-          "name": "Maroon 5",
-          "url": "https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP"
-        }
-      ],
-      "duration_ms": 189486,
-      "name": "Memories",
-      "url": "https://open.spotify.com/track/4cktbXiXOapiLBMprHFErI"
     },
     {
       "added_at": "2024-01-29 03:28:07",
@@ -423,22 +423,6 @@
     {
       "added_at": "2024-01-29 03:28:07",
       "album": {
-        "name": "Sweetener",
-        "url": "https://open.spotify.com/album/3tx8gQqWbGwqIGZHqDNrGe"
-      },
-      "artists": [
-        {
-          "name": "Ariana Grande",
-          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
-        }
-      ],
-      "duration_ms": 205920,
-      "name": "no tears left to cry",
-      "url": "https://open.spotify.com/track/2qT1uLXPVPzGgFOx4jtEuo"
-    },
-    {
-      "added_at": "2024-01-29 03:28:07",
-      "album": {
         "name": "FRIENDS",
         "url": "https://open.spotify.com/album/1BmxOYHjQv1dKZRr13YRZM"
       },
@@ -455,6 +439,22 @@
       "duration_ms": 202620,
       "name": "FRIENDS",
       "url": "https://open.spotify.com/track/08bNPGLD8AhKpnnERrAc6G"
+    },
+    {
+      "added_at": "2024-01-29 03:28:07",
+      "album": {
+        "name": "Sweetener",
+        "url": "https://open.spotify.com/album/3tx8gQqWbGwqIGZHqDNrGe"
+      },
+      "artists": [
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "duration_ms": 205920,
+      "name": "no tears left to cry",
+      "url": "https://open.spotify.com/track/2qT1uLXPVPzGgFOx4jtEuo"
     },
     {
       "added_at": "2024-01-29 03:28:07",
@@ -639,26 +639,6 @@
     {
       "added_at": "2024-01-29 03:28:07",
       "album": {
-        "name": "Stay",
-        "url": "https://open.spotify.com/album/1I4W7JKzYbl8VKRfD61DIS"
-      },
-      "artists": [
-        {
-          "name": "Zedd",
-          "url": "https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq"
-        },
-        {
-          "name": "Alessia Cara",
-          "url": "https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR"
-        }
-      ],
-      "duration_ms": 210090,
-      "name": "Stay",
-      "url": "https://open.spotify.com/track/6uBhi9gBXWjanegOb2Phh0"
-    },
-    {
-      "added_at": "2024-01-29 03:28:07",
-      "album": {
         "name": "Heartbreak Anthem (with David Guetta & Little Mix)",
         "url": "https://open.spotify.com/album/6kBuGNoOGE7uiPhN82dcJ1"
       },
@@ -679,6 +659,26 @@
       "duration_ms": 183725,
       "name": "Heartbreak Anthem (with David Guetta & Little Mix)",
       "url": "https://open.spotify.com/track/5K6Ssv4Z3zRvxt0P6EKUAP"
+    },
+    {
+      "added_at": "2024-01-29 03:28:07",
+      "album": {
+        "name": "Stay",
+        "url": "https://open.spotify.com/album/1I4W7JKzYbl8VKRfD61DIS"
+      },
+      "artists": [
+        {
+          "name": "Zedd",
+          "url": "https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq"
+        },
+        {
+          "name": "Alessia Cara",
+          "url": "https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR"
+        }
+      ],
+      "duration_ms": 210090,
+      "name": "Stay",
+      "url": "https://open.spotify.com/track/6uBhi9gBXWjanegOb2Phh0"
     },
     {
       "added_at": "2024-01-29 03:28:07",

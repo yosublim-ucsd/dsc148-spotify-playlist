@@ -2,9 +2,9 @@
 
 ### [Detective Conan 名探偵コナン](https://open.spotify.com/playlist/37i9dQZF1DX5UhvY4JBo1i)
 
-> Enjoy music from "Detective Conan"! 映画「名探偵コナン」シリーズの世界を彩る音楽をプレイリストで。©2023 青山剛昌／名探偵コナン製作委員会
+> Enjoy music from "Detective Conan"! 映画「名探偵コナン」シリーズの世界を彩る音楽をプレイリストで。©2024 青山剛昌／名探偵コナン製作委員会
 
-128 songs - 8 hr 27 min
+129 songs - 8 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -101,6 +101,7 @@
 | [少年探偵団のテーマ \- 摩天楼ヴァージョン](https://open.spotify.com/track/5aW4uWyDJ5x5Eh1HU96Vxk) | [Katsuo Ohno](https://open.spotify.com/artist/3qqjOqSKN1IKax9C8VmFmZ) | [名探偵コナン 時計じかけの摩天楼 \(オリジナル・サウンドトラック\)](https://open.spotify.com/album/1KvpgzU0FqKKvneATY175e) | 3:10 | 2023-03-21 |  |
 | [幾千の迷宮で 幾千の謎を解いて](https://open.spotify.com/track/0BmfAdp4ATRRepFQHDpxDp) | [BREAKERZ](https://open.spotify.com/artist/1U1oKFcjwl8Tb3b3APG9lE) | [BREAKERZ×名探偵コナン COLLABORATION BEST](https://open.spotify.com/album/04Ym0xEthdAQepiCKzrYrw) | 3:48 | 2022-10-01 | 2023-03-22 |
 | [忘れ咲き](https://open.spotify.com/track/71TpBctYuFr8mV9YcOPrnl) | [GARNET CROW](https://open.spotify.com/artist/6vJEQqtEx2VB8clDzhyhvC) | [I'm waiting 4 you](https://open.spotify.com/album/2WK1ItyLfd1FKEYCFrJ9lW) | 4:54 | 2022-10-01 | 2023-03-22 |
+| [怪盗キッドからのスペシャルメッセージ！](https://open.spotify.com/track/0EvDOTLaexjz9U1YK3Jqvw) | [『名探偵コナン 100万ドルの五稜星（みちしるべ）』](https://open.spotify.com/artist/7BWZsYErxiT1PMDAcMVtxY) | [劇場版『名探偵コナン 100万ドルの五稜星（みちしるべ）』怪盗キッドからのスペシャルメッセージ！](https://open.spotify.com/album/7a6swUDYbaGoR7pjDt7X9l) | 0:35 | 2024-03-21 |  |
 | [恋に恋して](https://open.spotify.com/track/1YVNiHqZGO3eK7n4Yw1fVL) | [Mai Kuraki](https://open.spotify.com/artist/4x3GOic9xXFOoOBrEMuvN9) | [倉木麻衣×名探偵コナン COLLABORATION BEST 21 \-真実はいつも歌にある!\-](https://open.spotify.com/album/5iR9vsmguPIjTun6cJVb0Q) | 4:08 | 2022-10-01 | 2023-03-22 |
 | [悲しいほど貴方が好き](https://open.spotify.com/track/7drrNTgt8Aw4fjknaKRzCY) | [ZARD](https://open.spotify.com/artist/2NKadilSWCwuqGp5QoDeUS) | [悲しいほど貴方が好き/カラッといこう!](https://open.spotify.com/album/2sWEz8mLwhiASSGUJf4MCK) | 4:49 | 2022-10-01 | 2023-03-22 |
 | [想い出たち\~想い出\~ \- 水平線上ヴァージョン](https://open.spotify.com/track/6LTrISx940TTFVPdpVXuT6) | [高山みなみ](https://open.spotify.com/artist/2iIYe3elf6vwBxZN9UwAg6) | [名探偵コナン 水平線上の陰謀 \(オリジナル・サウンドトラック\)](https://open.spotify.com/album/0ajo3xLjRF2DHql3L8ukNm) | 4:16 | 2023-03-21 |  |
@@ -113,12 +114,12 @@
 | [月夜の悪戯の魔法](https://open.spotify.com/track/4jJFCtaMRuMjFsQ9sgQe2M) | [BREAKERZ](https://open.spotify.com/artist/1U1oKFcjwl8Tb3b3APG9lE) | [BREAKERZ×名探偵コナン COLLABORATION BEST](https://open.spotify.com/album/04Ym0xEthdAQepiCKzrYrw) | 4:45 | 2022-10-01 | 2023-03-22 |
 | [氷の上に立つように](https://open.spotify.com/track/2yvBPgJ6818yYVF3Q8VEKJ) | [小松未歩](https://open.spotify.com/artist/2F7g9r3yzmCfMlUnfDa80X) | [氷の上に立つように](https://open.spotify.com/album/7nkOwUDE4gjDVPBAX9jfxI) | 3:51 | 2022-10-01 | 2023-03-22 |
 | [永遠の不在証明](https://open.spotify.com/track/7FL5iSLdKcersBgDiwijis) | [Tokyo Incidents](https://open.spotify.com/artist/6KQWWzFLPQbqomJrieHAW5) | [永遠の不在証明](https://open.spotify.com/album/5y7E3hUWGNoY98C1TubePY) | 4:21 | 2022-10-01 |  |
-| [江戸川コナンからのスペシャルメッセージ!その1](https://open.spotify.com/track/0GZpMl78mXdua1rM8UJrJ9) | [『名探偵コナン 黒鉄の魚影\(サブマリン\)』](https://open.spotify.com/artist/0OpbGNQiAXWZA67syHiDgV) | [『名探偵コナン 黒鉄の魚影\(サブマリン\)』江戸川コナンからのスペシャルメッセージ!](https://open.spotify.com/album/4z6QTN01hvtWpDegAtyMEC) | 0:42 | 2023-03-22 |  |
-| [江戸川コナンからのスペシャルメッセージ!その2](https://open.spotify.com/track/2lUGgn6Wugz0CH0XXiye0a) | [『名探偵コナン 黒鉄の魚影\(サブマリン\)』](https://open.spotify.com/artist/0OpbGNQiAXWZA67syHiDgV) | [『名探偵コナン 黒鉄の魚影\(サブマリン\)』江戸川コナンからのスペシャルメッセージ!](https://open.spotify.com/album/4FqXS8azLV6WrjLSBE4DuE) | 0:39 | 2023-04-30 |  |
+| [江戸川コナンからのスペシャルメッセージ!その1](https://open.spotify.com/track/0GZpMl78mXdua1rM8UJrJ9) | [『名探偵コナン 黒鉄の魚影\(サブマリン\)』](https://open.spotify.com/artist/0OpbGNQiAXWZA67syHiDgV) | [『名探偵コナン 黒鉄の魚影\(サブマリン\)』江戸川コナンからのスペシャルメッセージ!](https://open.spotify.com/album/4z6QTN01hvtWpDegAtyMEC) | 0:42 | 2023-03-22 | 2024-03-22 |
+| [江戸川コナンからのスペシャルメッセージ!その2](https://open.spotify.com/track/2lUGgn6Wugz0CH0XXiye0a) | [『名探偵コナン 黒鉄の魚影\(サブマリン\)』](https://open.spotify.com/artist/0OpbGNQiAXWZA67syHiDgV) | [『名探偵コナン 黒鉄の魚影\(サブマリン\)』江戸川コナンからのスペシャルメッセージ!](https://open.spotify.com/album/4FqXS8azLV6WrjLSBE4DuE) | 0:39 | 2023-04-30 | 2024-03-22 |
 | [涙のイエスタデー](https://open.spotify.com/track/7ehUmLhuvuObMjp4w5rZoM) | [GARNET CROW](https://open.spotify.com/artist/6vJEQqtEx2VB8clDzhyhvC) | [THE BEST History of GARNET CROW at the crest...](https://open.spotify.com/album/3e3NS2L4bziOWpIMvnRE3R) | 4:40 | 2022-10-01 | 2023-03-22 |
 | [渡月橋 \~君 想ふ\~](https://open.spotify.com/track/1060Rq2jA1jKckSZV67y7H) | [Mai Kuraki](https://open.spotify.com/artist/4x3GOic9xXFOoOBrEMuvN9) | [倉木麻衣×名探偵コナン COLLABORATION BEST 21 \-真実はいつも歌にある!\-](https://open.spotify.com/album/5iR9vsmguPIjTun6cJVb0Q) | 4:05 | 2022-10-01 |  |
 | [漆黒の殺意](https://open.spotify.com/track/3HLSuTDKiDXx4oFhfd3OQT) | [Katsuo Ohno](https://open.spotify.com/artist/3qqjOqSKN1IKax9C8VmFmZ) | [名探偵コナン 瞳の中の暗殺者 \(オリジナル・サウンドトラック\)](https://open.spotify.com/album/0fAhvb5Ir2kHM2DREhn45a) | 2:27 | 2023-03-21 |  |
-| [灰原哀からのスペシャルメッセージ!](https://open.spotify.com/track/6TmpGpKzDbYXZMCVw3ZsoF) | [『名探偵コナン 黒鉄の魚影\(サブマリン\)』](https://open.spotify.com/artist/0OpbGNQiAXWZA67syHiDgV) | [『名探偵コナン 黒鉄の魚影\(サブマリン\)』灰原哀からのスペシャルメッセージ!](https://open.spotify.com/album/7dD0QT1x6GXv6XFxXqJj63) | 0:27 | 2023-04-09 |  |
+| [灰原哀からのスペシャルメッセージ!](https://open.spotify.com/track/6TmpGpKzDbYXZMCVw3ZsoF) | [『名探偵コナン 黒鉄の魚影\(サブマリン\)』](https://open.spotify.com/artist/0OpbGNQiAXWZA67syHiDgV) | [『名探偵コナン 黒鉄の魚影\(サブマリン\)』灰原哀からのスペシャルメッセージ!](https://open.spotify.com/album/7dD0QT1x6GXv6XFxXqJj63) | 0:27 | 2023-04-09 | 2024-03-22 |
 | [無敵なハート](https://open.spotify.com/track/71hSh7e5AKfYxkbjpNVva9) | [Mai Kuraki](https://open.spotify.com/artist/4x3GOic9xXFOoOBrEMuvN9) | [倉木麻衣×名探偵コナン COLLABORATION BEST 21 \-真実はいつも歌にある!\-](https://open.spotify.com/album/5iR9vsmguPIjTun6cJVb0Q) | 3:23 | 2022-10-01 | 2023-03-22 |
 | [白い雪](https://open.spotify.com/track/6HUtNDLQQHlTXgXBQM15uA) | [Mai Kuraki](https://open.spotify.com/artist/4x3GOic9xXFOoOBrEMuvN9) | [倉木麻衣×名探偵コナン COLLABORATION BEST 21 \-真実はいつも歌にある!\-](https://open.spotify.com/album/5iR9vsmguPIjTun6cJVb0Q) | 4:46 | 2022-10-01 | 2023-03-22 |
 | [真っ赤なLip](https://open.spotify.com/track/7vRTQ342AtNLRTFZ0Yy4ys) | [WANDS](https://open.spotify.com/artist/4iaPh4BzUKBQuunyMKVxU7) | [真っ赤なLip【名探偵コナン盤】](https://open.spotify.com/album/6NAyAlAOkypVZbi4CzrIFR) | 4:43 | 2022-10-01 | 2023-03-22 |

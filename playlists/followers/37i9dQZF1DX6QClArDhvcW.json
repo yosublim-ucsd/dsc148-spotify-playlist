@@ -1,5 +1,5 @@
 {
-  "2024-03-21": 107490,
+  "2024-03-22": 107574,
   "date_first_scraped": "2022-05-26",
   "description": "Laid-back beats for an easygoing morning.",
   "name": "Mellow Lofi Morning",
@@ -6347,10 +6347,28 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-21",
       "duration_ms": 161000,
       "name": "reading",
       "url": "https://open.spotify.com/track/5cnwPn0MKDPnu2rUamIRgb"
+    },
+    {
+      "album": {
+        "name": "reading",
+        "url": "https://open.spotify.com/album/6PVQb5IcN1NBMA3dTMflEL"
+      },
+      "artists": [
+        {
+          "name": "herbstreit",
+          "url": "https://open.spotify.com/artist/0xEjYcNKVqT5QQOpyas94i"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161040,
+      "name": "reading",
+      "url": "https://open.spotify.com/track/3w2Yi3R4KMv4XvYTbMDxgR"
     },
     {
       "album": {

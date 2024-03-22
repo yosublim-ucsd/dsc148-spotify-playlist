@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXZo3QlWdchi.md) - [plain]
 
 > O melhor do rock acústico nacional e internacional para curtir e relaxar.
 
-[Spotify](https://open.spotify.com/user/spotify) - 299,736 likes - 75 songs - 5 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 299,788 likes - 75 songs - 5 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,8 +17,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXZo3QlWdchi.md) - [plain]
 | 7 | [Come As You Are \- Live](https://open.spotify.com/track/3sYWyVGfPuit80szWXhrRA) | [Nirvana](https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh) | [MTV Unplugged In New York](https://open.spotify.com/album/1To7kv722A8SpZF789MZy7) | 4:13 |
 | 8 | [Não Olhe Pra Trás \(feat\. Lenine\) \- Ao Vivo](https://open.spotify.com/track/2fs1QLFTJ09BEnMTj9xQ4Z) | [Capital Inicial](https://open.spotify.com/artist/4Z0yuwHVJBROVZqFpTIr0d), [Lenine](https://open.spotify.com/artist/4YLBdrR3DVSMncm785NH6C) | [Capital Inicial Acústico NYC \(Ao Vivo\) \[Versão Deluxe + Faixa Extra\]](https://open.spotify.com/album/2lahfyiTR3XXoGDIhzb9oN) | 4:16 |
 | 9 | [Tarde Vazia \(feat\. Samuel Rosa\) \- Versão Acústica](https://open.spotify.com/track/6tFiwRosuePm2v0DQTyGpj) | [Ira!](https://open.spotify.com/artist/7L5YQQJPL1wrmrdigJavV7), [Samuel Rosa](https://open.spotify.com/artist/4fp0N4WchcumIW5HNGpPwa) | [Acústico Ira!](https://open.spotify.com/album/2pqGLzC2eD4oFSpUzisVMw) | 4:18 |
-| 10 | [Os Cegos do Castelo \- Ao Vivo](https://open.spotify.com/track/5Kayf37CYgsWqgkWMTHZPu) | [Titãs](https://open.spotify.com/artist/2euX7vCVnJy3TVEGfc0RCl) | [Acústico MTV](https://open.spotify.com/album/2zu9De5vcXBYGg0X9g5LV8) | 4:56 |
-| 11 | [A Mais Pedida \- Ao Vivo \| Acústico](https://open.spotify.com/track/6kCGzPmsyJkzs0UnbXjply) | [Raimundos](https://open.spotify.com/artist/3CfJckVRuukdJSvK3r89yJ), [Ivete Sangalo](https://open.spotify.com/artist/7dzq55YG3wjViqexDwiycQ) | [Acústico \- Ao Vivo](https://open.spotify.com/album/2DMlDuUYFSjOyEDDL86yia) | 3:42 |
+| 10 | [A Mais Pedida \- Ao Vivo \| Acústico](https://open.spotify.com/track/6kCGzPmsyJkzs0UnbXjply) | [Raimundos](https://open.spotify.com/artist/3CfJckVRuukdJSvK3r89yJ), [Ivete Sangalo](https://open.spotify.com/artist/7dzq55YG3wjViqexDwiycQ) | [Acústico \- Ao Vivo](https://open.spotify.com/album/2DMlDuUYFSjOyEDDL86yia) | 3:42 |
+| 11 | [Os Cegos do Castelo \- Ao Vivo](https://open.spotify.com/track/5Kayf37CYgsWqgkWMTHZPu) | [Titãs](https://open.spotify.com/artist/2euX7vCVnJy3TVEGfc0RCl) | [Acústico MTV](https://open.spotify.com/album/2zu9De5vcXBYGg0X9g5LV8) | 4:56 |
 | 12 | [Black \- Live MTV Unplugged](https://open.spotify.com/track/3xIaUb1WsnrqbJo6CsJMLO) | [Pearl Jam](https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56) | [MTV Unplugged](https://open.spotify.com/album/1ghzhhlGuTLCD790oXWJwX) | 5:30 |
 | 13 | [Pescador de ilusões \- Ao vivo](https://open.spotify.com/track/5ytWdfs7iGpu42VQyAQyvY) | [O Rappa](https://open.spotify.com/artist/1A5QJAC1vdhbhPE25Q0x0f) | [O Rappa \- Acústico Oficina Francisco Brennand \(Deluxe\) \[Ao Vivo\]](https://open.spotify.com/album/18b9UToB7XhEkVpuoJ5ZaR) | 6:09 |
 | 14 | [Stand by Me \- Recorded at RAK Studios, London](https://open.spotify.com/track/4GhFz9YVbihQJlq5pFFPgD) | [Tom Speight](https://open.spotify.com/artist/02U4dXZhGSo07f66l8JZ91) | [Spotify Singles](https://open.spotify.com/album/0VPhyqqDEary03vLt02DtZ) | 3:03 |
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXZo3QlWdchi.md) - [plain]
 | 44 | [Feel It Still \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/5Xh97PTcc1LxMF8sc8Xhis) | [Portugal\. The Man](https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T) | [Spotify Singles](https://open.spotify.com/album/7iDdb2gzMIVZEV0ZSlXu83) | 2:49 |
 | 45 | [City Of Angels \- Piano Version](https://open.spotify.com/track/3nqZdcbYyr4eatjoErsCVX) | [Thirty Seconds To Mars](https://open.spotify.com/artist/0RqtSIYZmd4fiBKVFqyIqD) | [City Of Angels \(Piano Version\)](https://open.spotify.com/album/498Hq6UXvXQRspqyZlifcQ) | 4:22 |
 | 46 | [Pra Dizer Adeus \(Trio Acústico\)](https://open.spotify.com/track/27653ZiyisDWx0K25dH2Sa) | [Titãs](https://open.spotify.com/artist/2euX7vCVnJy3TVEGfc0RCl) | [Titãs Trio Acústico](https://open.spotify.com/album/58SJ5GEjT0MCqPJWft7osf) | 3:44 |
-| 47 | [Dias de Luta, Dias de Glória \- Ao Vivo \- Chegou Quem Faltava](https://open.spotify.com/track/6QsNSUfywJxc5RelHUnf38) | [Charlie Brown Jr.](https://open.spotify.com/artist/1on7ZQ2pvgeQF4vmIA09x5) | [Chegou Quem Faltava \- Volume 2 \(Ao Vivo\)](https://open.spotify.com/album/5ayvfXBDzwD15sOazeejGT) | 2:21 |
-| 48 | [My Hero \- Live at Studio 606 West, Northridge, CA \- September 2007](https://open.spotify.com/track/6rlLQPXSkhTlcDgUkCfqOr) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [00070725 Live At Studio 606](https://open.spotify.com/album/1i7uzsvuhrO7d1gXSZnr4X) | 4:39 |
+| 47 | [My Hero \- Live at Studio 606 West, Northridge, CA \- September 2007](https://open.spotify.com/track/6rlLQPXSkhTlcDgUkCfqOr) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [00070725 Live At Studio 606](https://open.spotify.com/album/1i7uzsvuhrO7d1gXSZnr4X) | 4:39 |
+| 48 | [Dias de Luta, Dias de Glória \- Ao Vivo \- Chegou Quem Faltava](https://open.spotify.com/track/6QsNSUfywJxc5RelHUnf38) | [Charlie Brown Jr.](https://open.spotify.com/artist/1on7ZQ2pvgeQF4vmIA09x5) | [Chegou Quem Faltava \- Volume 2 \(Ao Vivo\)](https://open.spotify.com/album/5ayvfXBDzwD15sOazeejGT) | 2:21 |
 | 49 | [Basket Case \- 4\-track demo](https://open.spotify.com/track/6pRYZrJTQ8yYvhVfhTZ70Q) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Dookie \(30th Anniversary 4\-Track Demos\)](https://open.spotify.com/album/4AFF6Md43PaWKv5lSMAysd) | 3:07 |
 | 50 | [Hear Me Now \- Ao Vivo](https://open.spotify.com/track/4kNNWpU47YCCBSfWrsVuwk) | [Paulo Ricardo](https://open.spotify.com/artist/07V0GWuWYmgheREejBORmk), [Zeeba](https://open.spotify.com/artist/7qPLO2XOUaRrRxkvLZ3AEK), [Milton Guedes](https://open.spotify.com/artist/3k4D8v5eSuoPT0MbClAvGU) | [Sex on the Beach \(Ao Vivo\)](https://open.spotify.com/album/5zdUlB5etflvZE2q0ZWuu5) | 3:12 |
 | 51 | [Don't Speak \- Recorded at Electric Lady Studios NYC](https://open.spotify.com/track/0gzMEfErGPaCFbQJdb2HQb) | [Carly Rae Jepsen](https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju) | [Spotify Singles](https://open.spotify.com/album/0tUnCfqBLeZlivAkbxvbib) | 4:21 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXZo3QlWdchi.md) - [plain]
 | 74 | [Canção Da Meia Noite](https://open.spotify.com/track/61g04v9KWwRSDeAHZADvxZ) | [Nenhum De Nós](https://open.spotify.com/artist/3bKO3mmizIpDdwNVdp96B9) | [Outros](https://open.spotify.com/album/0CzqUT8e3oHcXOXWiSxyY0) | 4:02 |
 | 75 | [Proibida Pra Mim \(Grazon\) \- Ao Vivo](https://open.spotify.com/track/3la3tXndnn0xnlm8y1Z3Kv) | [Charlie Brown Jr.](https://open.spotify.com/artist/1on7ZQ2pvgeQF4vmIA09x5) | [Rock Brasileiro](https://open.spotify.com/album/1RK1b09Jzt9c78iAU3o4lY) | 2:31 |
 
-Snapshot ID: `MCw5NWY2MTNjNWEzYWNmZmQ0NmIyMzA4N2ExOTEwYmJjY2RhOTE2MjU1`
+Snapshot ID: `MCwxMzQzZWRmMTJhMjE5OGZkMDNhZDg1YWE0ZTQyZmQ1ZWU2MDZiZDZh`

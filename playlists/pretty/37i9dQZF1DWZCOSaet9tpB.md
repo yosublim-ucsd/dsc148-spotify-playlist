@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZCOSaet9tpB.md) - [plain]
 
 > Nigeria's hottest tracks\.  Cover: Kizz Daniel
 
-[Spotify](https://open.spotify.com/user/spotify) - 145,364 likes - 50 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 145,541 likes - 50 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Commas](https://open.spotify.com/track/3JozQbIWMHBTKIghXKehVy) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Commas](https://open.spotify.com/album/5UX3Gr5uFrtvRvIScps1gA) | 2:37 |
-| 2 | [Egwu](https://open.spotify.com/track/1IMRi5UVOV77PsAgdWDvzh) | [Chike](https://open.spotify.com/artist/6zK1M4TcabpLQMNmmG2P0Q), [Mohbad](https://open.spotify.com/artist/0a8YNI8VHVPYKIPvCiJDxa) | [Egwu](https://open.spotify.com/album/4JlWlQoaf9gg1Ve5rzoSQi) | 2:16 |
-| 3 | [Tshwala Bam \(feat\. S.N.E, EeQue\)](https://open.spotify.com/track/54seQV7MCcppBrznALCdlT) | [TitoM](https://open.spotify.com/artist/5eYSqn4LCXLgIFYR4qOZ1k), [Yuppe](https://open.spotify.com/artist/0M6k4Kgi5NiIDnafSKSLE0), [EeQue](https://open.spotify.com/artist/4VqCBSJ9fvJ1XDQUd7K2Ft), [S.N.E](https://open.spotify.com/artist/16RKP7aw26uSkNpadpEgaF) | [Tshwala Bam \(feat\. S.N.E, EeQue\)](https://open.spotify.com/album/4lZSgj4cw3cmEvw0KQXNnY) | 6:30 |
-| 4 | [Ngozi](https://open.spotify.com/track/5mhM7bfzv52bzfCzlq8vH1) | [Crayon](https://open.spotify.com/artist/3Uv5hfyuC7TkLsQ6p4ikSb), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Trench to Triumph](https://open.spotify.com/album/60dzSRKqWPNVTunBR1aHal) | 3:41 |
+| 2 | [Tshwala Bam \(feat\. S.N.E, EeQue\)](https://open.spotify.com/track/54seQV7MCcppBrznALCdlT) | [TitoM](https://open.spotify.com/artist/5eYSqn4LCXLgIFYR4qOZ1k), [Yuppe](https://open.spotify.com/artist/0M6k4Kgi5NiIDnafSKSLE0), [EeQue](https://open.spotify.com/artist/4VqCBSJ9fvJ1XDQUd7K2Ft), [S.N.E](https://open.spotify.com/artist/16RKP7aw26uSkNpadpEgaF) | [Tshwala Bam \(feat\. S.N.E, EeQue\)](https://open.spotify.com/album/4lZSgj4cw3cmEvw0KQXNnY) | 6:30 |
+| 3 | [Ngozi](https://open.spotify.com/track/5mhM7bfzv52bzfCzlq8vH1) | [Crayon](https://open.spotify.com/artist/3Uv5hfyuC7TkLsQ6p4ikSb), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Trench to Triumph](https://open.spotify.com/album/60dzSRKqWPNVTunBR1aHal) | 3:41 |
+| 4 | [Egwu](https://open.spotify.com/track/1IMRi5UVOV77PsAgdWDvzh) | [Chike](https://open.spotify.com/artist/6zK1M4TcabpLQMNmmG2P0Q), [Mohbad](https://open.spotify.com/artist/0a8YNI8VHVPYKIPvCiJDxa) | [Egwu](https://open.spotify.com/album/4JlWlQoaf9gg1Ve5rzoSQi) | 2:16 |
 | 5 | [American Love](https://open.spotify.com/track/5c1rWQAa8GX8LgCC9h3d1N) | [Qing Madi](https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh) | [Qing Madi](https://open.spotify.com/album/03pDzWfMzVVQL3BRVIutJn) | 3:09 |
 | 6 | [Holy Ghost](https://open.spotify.com/track/0zVk3uuV9UhxAt48F3OL12) | [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [Holy Ghost](https://open.spotify.com/album/5y1s96lknw32i5O1OObkhg) | 3:06 |
 | 7 | [Sooner](https://open.spotify.com/track/6PdAiqbKP3Zmr3YHRdgT1y) | [Kizz Daniel](https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV) | [TZA](https://open.spotify.com/album/21I7DCMp4VFLojWHERrr0E) | 2:33 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZCOSaet9tpB.md) - [plain]
 | 49 | [Popo](https://open.spotify.com/track/6bBQmflDHD8a35PeZjw44J) | [Zerrydl](https://open.spotify.com/artist/3sHq8pB8IoGvnatMuoixwd) | [Danger Zee](https://open.spotify.com/album/2TX0HjxPDTYVrHjbmKuD2k) | 2:33 |
 | 50 | [Ebelebe](https://open.spotify.com/track/7mDVlwNJ0pY6xOmDn7D7u3) | [KCee](https://open.spotify.com/artist/7KiINhQdLAupkwvJ0EelGG), [Skiibii](https://open.spotify.com/artist/72Z2AhMKpxZjLNnPMyinUE), [Teni](https://open.spotify.com/artist/3ukrG1BmfEiuo0KDj8YTTS) | [Ebelebe](https://open.spotify.com/album/2EViC0HI5jyqtpa6kpqhpY) | 2:52 |
 
-Snapshot ID: `MCxmMTZiMGI5M2QwMDViZDZhNzBkZGFmYTE5ZTE0M2I3MzhjMTM5MmI0`
+Snapshot ID: `MCwyOGE5ODE1NzUyYmU4ZDUxZWRkMjJkZDU0MzVkMjVmNWQ5OGFlYmUz`

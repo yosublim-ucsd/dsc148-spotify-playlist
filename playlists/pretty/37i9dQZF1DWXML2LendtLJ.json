@@ -1,12 +1,12 @@
 {
   "description": "The breeziest songs to get you through the day.",
-  "num_followers": 511361,
+  "num_followers": 511415,
   "original_name": "Light & Easy",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmYzdlZWRjNDk0ZTcwMTQ5ZmE3YTg3NDZhMmY3MjBmYTU4YTBiMGFk",
+  "snapshot_id": "MCwxMmY2ZWFkZTQ3ODA5NTRkZGY0NGU3NmFjZTVmOGFlZWNlMjI3MzI5",
   "tracks": [
     {
       "added_at": "2023-08-09 10:52:35",
@@ -811,18 +811,18 @@
     {
       "added_at": "2023-08-09 10:52:35",
       "album": {
-        "name": "19",
-        "url": "https://open.spotify.com/album/59ULskOkBMij4zL8pS7mi0"
+        "name": "Solitude / Solitaire",
+        "url": "https://open.spotify.com/album/1O2sEdKLsSHROEyYgUQmnb"
       },
       "artists": [
         {
-          "name": "Adele",
-          "url": "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY"
+          "name": "Peter Cetera",
+          "url": "https://open.spotify.com/artist/5xWPOujQqd4wXyB08slZ9Z"
         }
       ],
-      "duration_ms": 212040,
-      "name": "Make You Feel My Love",
-      "url": "https://open.spotify.com/track/5FgPwJ7Nh2FVmIXviKl2VF"
+      "duration_ms": 258333,
+      "name": "Glory of Love",
+      "url": "https://open.spotify.com/track/1eyq8cjUQ2daFthW2PC2GM"
     }
   ],
   "unique_name": "Light & Easy",

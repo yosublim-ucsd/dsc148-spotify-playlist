@@ -1,5 +1,5 @@
 {
-  "2024-03-21": 73094,
+  "2024-03-22": 73108,
   "date_first_scraped": "2022-03-01",
   "description": "Victory over death has been won today, forever!",
   "name": "Easter Worship",
@@ -437,6 +437,28 @@
       "duration_ms": 229821,
       "name": "Because He Lives (Amen) - [Live]",
       "url": "https://open.spotify.com/track/0UIy96vF75u1ebFFmop49Y"
+    },
+    {
+      "album": {
+        "name": "TEN",
+        "url": "https://open.spotify.com/album/2mgX9f5BmWx0hw0gzl5qvU"
+      },
+      "artists": [
+        {
+          "name": "The Belonging Co",
+          "url": "https://open.spotify.com/artist/1XnyRY1hSHsZxiIEX8Nzl5"
+        },
+        {
+          "name": "Mitch Wong",
+          "url": "https://open.spotify.com/artist/0NmuD3IXcEGYAEX5hZxu39"
+        }
+      ],
+      "date_added": "2024-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 310200,
+      "name": "Because Of Christ",
+      "url": "https://open.spotify.com/track/0Ml9ylGvOxwu9e0Yiu1AaD"
     },
     {
       "album": {
@@ -2094,6 +2116,28 @@
     },
     {
       "album": {
+        "name": "Jesus Is My Healer (Live)",
+        "url": "https://open.spotify.com/album/5gYrM3yx6RMB7Wk16bwdLh"
+      },
+      "artists": [
+        {
+          "name": "Gateway Worship",
+          "url": "https://open.spotify.com/artist/2b6REyd5UBBp4ZPDhZ2TNB"
+        },
+        {
+          "name": "Jessie Harris",
+          "url": "https://open.spotify.com/artist/1d5o5nKTHxv0gr9avqdTmA"
+        }
+      ],
+      "date_added": "2024-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 380865,
+      "name": "Jesus Is My Healer - Live",
+      "url": "https://open.spotify.com/track/4h3gmTsm5moWm9j3NNx0Gp"
+    },
+    {
+      "album": {
         "name": "New Stories",
         "url": "https://open.spotify.com/album/0tLz79s8kT9LGp5KFrBNhO"
       },
@@ -2105,7 +2149,7 @@
       ],
       "date_added": "2022-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-21",
       "duration_ms": 283722,
       "name": "Jesus Only You",
       "url": "https://open.spotify.com/track/5Q8jVqmSihneKmuvQ5qnOF"
@@ -2312,6 +2356,28 @@
     },
     {
       "album": {
+        "name": "Long Live The King (Versions) - EP",
+        "url": "https://open.spotify.com/album/5DuNnFldG0pyZWbLUw25xH"
+      },
+      "artists": [
+        {
+          "name": "Influence Music",
+          "url": "https://open.spotify.com/artist/7ory6rfLtmQet7a16o4vvC"
+        },
+        {
+          "name": "Matt Gilman",
+          "url": "https://open.spotify.com/artist/73hSbuO7zeiAnHpkyhQN5P"
+        }
+      ],
+      "date_added": "2024-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 353015,
+      "name": "Long Live The King - Acoustic",
+      "url": "https://open.spotify.com/track/5gZgxdUFIUeNOMgZ0h6vgv"
+    },
+    {
+      "album": {
         "name": "Long Live The King (Live At The Grove)",
         "url": "https://open.spotify.com/album/0agzLXWxrapOwNXsGXx9nn"
       },
@@ -2429,7 +2495,7 @@
       ],
       "date_added": "2023-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-21",
       "duration_ms": 313675,
       "name": "Love Changes Everything",
       "url": "https://open.spotify.com/track/6eACLLkE060QHoxvJZaIXT"
@@ -2577,7 +2643,7 @@
       ],
       "date_added": "2022-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-21",
       "duration_ms": 268466,
       "name": "My Victory",
       "url": "https://open.spotify.com/track/3jk8YdCPkdXZRAoXBn1cKB"
@@ -2943,6 +3009,28 @@
       "duration_ms": 281893,
       "name": "Precious Blood",
       "url": "https://open.spotify.com/track/4EjoSOfFN7HQVzwl5txinM"
+    },
+    {
+      "album": {
+        "name": "Sing! The Great Commission - World Tour (Live)",
+        "url": "https://open.spotify.com/album/1WsOwc3ZE7MvMzube1cPyF"
+      },
+      "artists": [
+        {
+          "name": "Keith & Kristyn Getty",
+          "url": "https://open.spotify.com/artist/0I4Bk2s2BUJyykCwtxx8Xx"
+        },
+        {
+          "name": "Chris Tomlin",
+          "url": "https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m"
+        }
+      ],
+      "date_added": "2024-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 302048,
+      "name": "Precious Love - Live",
+      "url": "https://open.spotify.com/track/1sWYM9HHpUX0UMTUETzLMH"
     },
     {
       "album": {
@@ -3334,6 +3422,24 @@
     },
     {
       "album": {
+        "name": "SUNDAY IS COMING \u2022 HOMETOWN VERSION",
+        "url": "https://open.spotify.com/album/71MC6JQBQ9JJsR75heLhzp"
+      },
+      "artists": [
+        {
+          "name": "Phil Wickham",
+          "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
+        }
+      ],
+      "date_added": "2024-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 323384,
+      "name": "SUNDAY IS COMING \u2022 HOMETOWN VERSION",
+      "url": "https://open.spotify.com/track/1DzECx2H9rUGUPclh8OxAn"
+    },
+    {
+      "album": {
         "name": "Surrounded",
         "url": "https://open.spotify.com/album/0RpjkgJDTV3IiltZf1Udkl"
       },
@@ -3607,7 +3713,7 @@
       ],
       "date_added": "2022-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-21",
       "duration_ms": 253652,
       "name": "This Is My Song - Live",
       "url": "https://open.spotify.com/track/5VPQE4HJbsvTFZZ9xL4KOY"
@@ -3935,7 +4041,7 @@
       ],
       "date_added": "2021-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-21",
       "duration_ms": 359374,
       "name": "Who Could (Live)",
       "url": "https://open.spotify.com/track/5VcdC4ECqjaqJMRxlt7foA"

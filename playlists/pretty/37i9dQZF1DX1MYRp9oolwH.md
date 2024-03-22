@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1MYRp9oolwH.md) - [plain]
 
 > Bringing out the best of latest love tracks<br/>Cover : The Family Star
 
-[Spotify](https://open.spotify.com/user/spotify) - 119,487 likes - 50 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 119,538 likes - 50 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1MYRp9oolwH.md) - [plain]
 | 49 | [Neelaa Nannilaa](https://open.spotify.com/track/4Tp8Sl7Bul4D40vAlDvx0C) | [Anurag Kulkarni](https://open.spotify.com/artist/6LWyVEIBnx7MoRBhQxu9om) | [7:11 PM](https://open.spotify.com/album/3XgIwL4L4wOU7vSeOJqU5q) | 3:48 |
 | 50 | [Nalo Nena Natho Nena \(From "Men Too"\)](https://open.spotify.com/track/6qDgzlheGhzLWVOgPIl2QG) | [Adithya RK](https://open.spotify.com/artist/2AQwMDyDvgpZcHLITOpgpm), [Elisha Praveen G](https://open.spotify.com/artist/54lR2AS080rX9Pfv05qqeQ) | [Nalo Nena Natho Nena \(From "Men Too"\) \- Single](https://open.spotify.com/album/3Wr3YjX3t5HtehdRow7joC) | 2:29 |
 
-Snapshot ID: `MCxmZmY5OGZlNjAwMWI0MjhkNGZhZGZlYmZjMmFjYzk3MmVjMDUwMDY3`
+Snapshot ID: `MCw5YjBmNDE4MWRkNmU3NzZjNzJhZDQ1ZGI4NTBjNjBmZjU2OGQ3YjM3`

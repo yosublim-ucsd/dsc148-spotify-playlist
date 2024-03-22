@@ -1,12 +1,12 @@
 {
   "description": "Deep beats to study to.",
-  "num_followers": 67262,
+  "num_followers": 67268,
   "original_name": "Deep Study",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1MDA3MzFjOTVjYjFhNzMxYzI1ZmQzNzc3ZDI4ZTdiMWEzMjEzOTIx",
+  "snapshot_id": "MCxlYzhjYTNlYWNjMDRiOTQ0YWZhODQ2YzBhNjAzNzExM2MwYzk1MzU1",
   "tracks": [
     {
       "added_at": "2023-06-09 18:05:35",
@@ -687,6 +687,22 @@
     {
       "added_at": "2023-06-09 18:05:35",
       "album": {
+        "name": "Retrograde",
+        "url": "https://open.spotify.com/album/7MZG3LSOOdw5tfFFN9OJUs"
+      },
+      "artists": [
+        {
+          "name": "Third Son",
+          "url": "https://open.spotify.com/artist/3V0CkmupRFH97LSOafzfbc"
+        }
+      ],
+      "duration_ms": 92017,
+      "name": "Truman Sleeps",
+      "url": "https://open.spotify.com/track/0BXOKtZDCf9gLOMmqPZfAY"
+    },
+    {
+      "added_at": "2023-06-09 18:05:35",
+      "album": {
         "name": "Between Dreams and Reality EP",
         "url": "https://open.spotify.com/album/2UlAQEGL6LQ0G2KFP4x6e4"
       },
@@ -703,22 +719,6 @@
       "duration_ms": 528410,
       "name": "Between Dreams and Reality - Niko Schwind Remix",
       "url": "https://open.spotify.com/track/3YJIq3N5IQy1hhkmUnt2NM"
-    },
-    {
-      "added_at": "2023-06-09 18:05:35",
-      "album": {
-        "name": "Retrograde",
-        "url": "https://open.spotify.com/album/7MZG3LSOOdw5tfFFN9OJUs"
-      },
-      "artists": [
-        {
-          "name": "Third Son",
-          "url": "https://open.spotify.com/artist/3V0CkmupRFH97LSOafzfbc"
-        }
-      ],
-      "duration_ms": 92017,
-      "name": "Truman Sleeps",
-      "url": "https://open.spotify.com/track/0BXOKtZDCf9gLOMmqPZfAY"
     },
     {
       "added_at": "2023-06-09 18:05:35",

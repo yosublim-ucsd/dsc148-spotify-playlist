@@ -4,7 +4,7 @@
 
 > All about Korean Jazz hits & new \(Cover: Milena\(밀레나\)\)
 
-179 songs - 13 hr 11 min
+181 songs - 13 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -105,6 +105,7 @@
 | [No Jam](https://open.spotify.com/track/0DY6EuQNgZItf5nWrmUsH9) | [Milena](https://open.spotify.com/artist/2ODok2cPMF1Z1gZetfaL6n) | [Foggy](https://open.spotify.com/album/6hEj5ZCKdaWUXDq73wGcaN) | 2:47 | 2024-03-14 |  |
 | [November Rain \(Feat\. Groovy D\)](https://open.spotify.com/track/6wN0bERE8RNJvEAeG7tEAW) | [PIACAL](https://open.spotify.com/artist/0QuxeG3QBD0kddWQPgfXaX) | [November Rain](https://open.spotify.com/album/0mkXZKaYTzzb9gOtAqpeU4) | 3:21 | 2022-11-11 |  |
 | [Now I'm Alive](https://open.spotify.com/track/2JODszmQKfirJaIb2QebHp) | [Gomm](https://open.spotify.com/artist/2Zlxg4WEB6pNeM6tdO3RoE) | [Now I'm Alive](https://open.spotify.com/album/3CVYFeLwjz5scaMfpN04AK) | 2:27 | 2023-07-19 |  |
+| [Oh Rosy](https://open.spotify.com/track/33SWg6lcMQxcg0mD4f6cG9) | [Milena](https://open.spotify.com/artist/2ODok2cPMF1Z1gZetfaL6n) | [Foggy](https://open.spotify.com/album/6hEj5ZCKdaWUXDq73wGcaN) | 3:44 | 2024-03-21 |  |
 | [One Last Try](https://open.spotify.com/track/7frTGx6QXM3hIqYeDle3JH) | [Jae Hong Park](https://open.spotify.com/artist/0zfE74CTrrvYONTaDAocIY) | [One Last Try](https://open.spotify.com/album/7eX5eD0bp4qMCsBopmgwXU) | 4:27 | 2023-03-31 |  |
 | [Only One](https://open.spotify.com/track/0Un3kqZvQ77N6YzGc5TzkG) | [Kiik](https://open.spotify.com/artist/5jUF0vJTYlZ6zGKnS9WK7v), [Shin Giwon Piano](https://open.spotify.com/artist/0hKq3u04JU5IuGNSTGyngJ) | [Only One](https://open.spotify.com/album/6Da3vfFcCPL9w0g68L7Gxp) | 1:43 | 2023-07-07 |  |
 | [Orange Sky Highway](https://open.spotify.com/track/5ObPWJEwM5W1wVqHwtgy9f) | [Rofesta Gipsyband](https://open.spotify.com/artist/4ZLcFGWaJ1BqEixadAD6Kp) | [Orange Sky Highway](https://open.spotify.com/album/5Zw6e3qXRwdNfsQ6Nb3a97) | 5:51 | 2022-05-03 | 2022-05-19 |
@@ -174,6 +175,7 @@
 | [Winter Theater](https://open.spotify.com/track/60nU1fMu2yelgc1TN83Eop) | [cylinder](https://open.spotify.com/artist/4ydjJObKbtpABiTRVFh2mx) | [Home Alone](https://open.spotify.com/album/0bMqLF8krN1CGAdm6L9GbA) | 3:10 | 2023-02-07 |  |
 | [Winter to Spring](https://open.spotify.com/track/74zAsiHhmAB9FSpbvNGlHW) | [Horim](https://open.spotify.com/artist/4ewZPWfaF9tFfnX1bPVI6A) | [Winter to Spring](https://open.spotify.com/album/1M915pDgthHR7Uw7cab3pw) | 5:01 | 2022-05-03 | 2023-02-08 |
 | [Winter Wonderland](https://open.spotify.com/track/7hVGDWmkXtSIv5XwJuc4AW) | [YUNSEOKCHEOL TRIO](https://open.spotify.com/artist/09fZOcPYim8MvvQieKkv5t) | [2022 Christmas VIBE \-YUNSEOKCHEOL TRIO](https://open.spotify.com/album/7k7BizMxs5mnIhtfghbS04) | 5:11 | 2023-02-07 | 2023-12-13 |
+| [Worry doll](https://open.spotify.com/track/3fOjYZhN8qN2k599u56tNl) | [Milena](https://open.spotify.com/artist/2ODok2cPMF1Z1gZetfaL6n) | [Foggy](https://open.spotify.com/album/6hEj5ZCKdaWUXDq73wGcaN) | 2:52 | 2024-03-21 |  |
 | [Yes, It's You](https://open.spotify.com/track/0weLc1Dv24xWH4LvRB6W3p) | [Jeong Hayoung](https://open.spotify.com/artist/2Ce9TyC16AGqOzUYdXSVXC) | [Yes, It's You](https://open.spotify.com/album/23fQNAfEWOTjCrXMtQIQME) | 3:19 | 2023-02-07 | 2023-12-13 |
 | [가족 \(feat\. Okubo Shigekki\)](https://open.spotify.com/track/6G0l99yhfsuigC9k8OFFnP) | [박완신](https://open.spotify.com/artist/5y3J29n3QOnbhB7PR40Gnn), [Okubo Shigekki](https://open.spotify.com/artist/7FAZmomF00H34HOWm1Pr3z) | [가족](https://open.spotify.com/album/0DN8oEGOT6KWbJyqH5W7LR) | 4:50 | 2023-03-31 |  |
 | [간다](https://open.spotify.com/track/33xNZgSpYDl0uLOOTHfotc) | [민송](https://open.spotify.com/artist/2ujuh580tpdUNreJnVuzPU) | [간다](https://open.spotify.com/album/7szuSdGlR05heXZGGGOgCH) | 4:28 | 2022-05-03 | 2022-05-19 |

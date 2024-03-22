@@ -4,7 +4,7 @@
 
 > Enjoy game soundtracks from Capcom! 最新作から過去まで、多数の人気作品を生み出したカプコンのゲームサントラをお届け！©CAPCOM CO., LTD\. ALL RIGHTS RESERVED.
 
-159 songs - 8 hr 32 min
+160 songs - 8 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -107,9 +107,10 @@
 | [SNAKE MAN STAGE](https://open.spotify.com/track/7AMjlGoq4RVYxntp8I7VKE) | [Capcom Sound Team](https://open.spotify.com/artist/3w1Q754jb31h5CXQCcnLNL) | [ロックマン3 サウンドコレクション](https://open.spotify.com/album/5sUQxCgq7PCUOGcxLnoGIE) | 1:33 | 2021-06-30 | 2022-06-28 |
 | [SPARK MAN STAGE](https://open.spotify.com/track/7dxOZpYoM12OmJD1Oi6gWV) | [Capcom Sound Team](https://open.spotify.com/artist/3w1Q754jb31h5CXQCcnLNL) | [ロックマン3 サウンドコレクション](https://open.spotify.com/album/5sUQxCgq7PCUOGcxLnoGIE) | 1:16 | 2021-06-30 | 2022-07-14 |
 | [SPARK MANDRILLER STAGE](https://open.spotify.com/track/4vGhjzXArH20zAY3FcpSFj) | [Capcom Sound Team](https://open.spotify.com/artist/3w1Q754jb31h5CXQCcnLNL) | [ロックマンX サウンド コレクション](https://open.spotify.com/album/5BfJWzKHKG5UrRPsPEgWYs) | 1:53 | 2021-06-30 | 2022-07-24 |
-| [Staff & Credits](https://open.spotify.com/track/0glg0lhZFpn5oPz5YDtf83) | [Masami Ueda](https://open.spotify.com/artist/4Zc9ID5YsCSgTf2l00RmiU) | [Resident Evil 3 Special Soundtrack](https://open.spotify.com/album/7pQYu8IdEDcvmlhCTCSsaP) | 5:45 | 2021-06-30 |  |
+| [Staff & Credits](https://open.spotify.com/track/0glg0lhZFpn5oPz5YDtf83) | [Masami Ueda](https://open.spotify.com/artist/4Zc9ID5YsCSgTf2l00RmiU) | [Resident Evil 3 Special Soundtrack](https://open.spotify.com/album/7pQYu8IdEDcvmlhCTCSsaP) | 5:45 | 2021-06-30 | 2024-03-22 |
 | [Staff & Credits](https://open.spotify.com/track/1lmLc4iLgLIZ4MwQBTwXJq) | [Masami Ueda](https://open.spotify.com/artist/4Zc9ID5YsCSgTf2l00RmiU) | [バイオハザード RE:3 スペシャル・サウンドトラック](https://open.spotify.com/album/7n9RHbGS7yppozv4MCa0qZ) | 5:45 | 2021-06-30 | 2022-07-29 |
 | [Staff & Credits](https://open.spotify.com/track/4eVl95uA3zf4sWLzIxze7B) | [Masami Ueda](https://open.spotify.com/artist/4Zc9ID5YsCSgTf2l00RmiU) | [BIOHAZARD RE:3 Original Soundtrack](https://open.spotify.com/album/6wf7eSMk9RP0N6INTsqFBk) | 5:45 | 2021-06-30 | 2022-11-13 |
+| [Staff & Credits](https://open.spotify.com/track/5I9mTndwBm5xgxjGOxbIPs) | [Masami Ueda](https://open.spotify.com/artist/4Zc9ID5YsCSgTf2l00RmiU) | [Resident Evil 3 Special Soundtrack](https://open.spotify.com/album/7ruGj7abeKNiq1nROX0uC7) | 5:45 | 2021-06-30 |  |
 | [Starry Conversation \- Bunny mix](https://open.spotify.com/track/3MjA6vR2aT6R5kvHcO2aTB) | [Capcom Sound Team](https://open.spotify.com/artist/3w1Q754jb31h5CXQCcnLNL) | [E.X.TROOPERS \- The Bounded Soundtrack](https://open.spotify.com/album/0zalkbB0H0oVc92eLygOEU) | 3:58 | 2021-06-30 | 2022-07-27 |
 | [T\-B](https://open.spotify.com/track/6GWX6FRxeui0pIcfMFsUCU) | [Capcom Sound Team](https://open.spotify.com/artist/3w1Q754jb31h5CXQCcnLNL) | [biohazard SOUND CHRONICLE BEST TRACK BOX](https://open.spotify.com/album/3UgsBIpDg2Ap8I2je4xb8y) | 2:53 | 2021-06-30 | 2022-07-05 |
 | [TeenageBlues](https://open.spotify.com/track/6UXsvQPymtQBhc4q83fT3O) | [Capcom Sound Team](https://open.spotify.com/artist/3w1Q754jb31h5CXQCcnLNL) | [カプコンアーケードスタジアム ミニアルバム](https://open.spotify.com/album/1qSeVN4W7UYymi9TZzwyHI) | 4:09 | 2021-06-30 | 2022-07-28 |

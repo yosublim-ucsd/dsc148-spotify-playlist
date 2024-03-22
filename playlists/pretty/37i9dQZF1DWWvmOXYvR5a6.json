@@ -1,12 +1,12 @@
 {
   "description": "Trendy x Chill K-Hip Hop.  (Cover: NE:ON(\ub2c8\uc628)) (\ud2b8\ub80c\ub514 x \uce60! \uc138\ub828\ub418\uace0 \ub4e3\uae30 \ud3b8\ud55c \ud799\ud569\uc74c\uc545\ub4e4\uc744 \uc990\uaca8\ubcf4\uc138\uc694.) ",
-  "num_followers": 212555,
+  "num_followers": 212588,
   "original_name": "TrenChill K-Hip Hop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3NTVjZmMwOTllZjE2ZDgxYTIyOWRmZmI3Y2QzM2EzNGIxMTExOTkx",
+  "snapshot_id": "MCw4OTBjODg2MTJkZGVjNzBlNzRjMzczNGFlM2VkNzVkMWUxYWRhMGQ3",
   "tracks": [
     {
       "added_at": "2024-03-08 06:16:55",
@@ -711,22 +711,6 @@
     {
       "added_at": "2024-03-08 06:16:55",
       "album": {
-        "name": "WATERFALL",
-        "url": "https://open.spotify.com/album/4ZK9zZuiaZsryNQC8NLlQu"
-      },
-      "artists": [
-        {
-          "name": "B.I",
-          "url": "https://open.spotify.com/artist/0UntV1Bw2hk3fbRrm9eMP6"
-        }
-      ],
-      "duration_ms": 219090,
-      "name": "Remember me",
-      "url": "https://open.spotify.com/track/3nMLh6EKM1v7XW6flN2tLY"
-    },
-    {
-      "added_at": "2024-03-08 06:16:55",
-      "album": {
         "name": "ISLAND",
         "url": "https://open.spotify.com/album/5FyZZQnOzCUzAMWmeWbQhO"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 207523,
       "name": "Error (Feat. Loopy)",
       "url": "https://open.spotify.com/track/7IRknQOMvsycACYS1fVGex"
+    },
+    {
+      "added_at": "2024-03-08 06:16:55",
+      "album": {
+        "name": "WATERFALL",
+        "url": "https://open.spotify.com/album/4ZK9zZuiaZsryNQC8NLlQu"
+      },
+      "artists": [
+        {
+          "name": "B.I",
+          "url": "https://open.spotify.com/artist/0UntV1Bw2hk3fbRrm9eMP6"
+        }
+      ],
+      "duration_ms": 219090,
+      "name": "Remember me",
+      "url": "https://open.spotify.com/track/3nMLh6EKM1v7XW6flN2tLY"
     },
     {
       "added_at": "2024-03-08 06:16:55",
@@ -867,22 +867,22 @@
     {
       "added_at": "2024-03-08 06:16:55",
       "album": {
-        "name": "WHERE DOES SASQUATCH LIVE? Pt. 2",
-        "url": "https://open.spotify.com/album/5Nx3ogcideDoWZYJyXuuTr"
+        "name": "TOYSTORY3",
+        "url": "https://open.spotify.com/album/2g9x0qCPJGKzfxqrVcgrVy"
       },
       "artists": [
         {
-          "name": "Zior Park",
-          "url": "https://open.spotify.com/artist/4gkSpcyfxtm5OFoZCYWTeD"
+          "name": "Leellamarz",
+          "url": "https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0"
         },
         {
-          "name": "Sion",
-          "url": "https://open.spotify.com/artist/2dEBKqLtvdFTnPcwpWEw0r"
+          "name": "TOIL",
+          "url": "https://open.spotify.com/artist/698zn8fEOIr1OrfqG4283S"
         }
       ],
-      "duration_ms": 261120,
-      "name": "BYE BYE BYE (feat. Sion)",
-      "url": "https://open.spotify.com/track/0NlGSYMfgwTLbMzViHYPO6"
+      "duration_ms": 135120,
+      "name": "Don\u2032t do That",
+      "url": "https://open.spotify.com/track/5OiD0uUNxZkSyG3opReDlx"
     },
     {
       "added_at": "2024-03-08 06:16:55",
@@ -907,22 +907,22 @@
     {
       "added_at": "2024-03-08 06:16:55",
       "album": {
-        "name": "TOYSTORY3",
-        "url": "https://open.spotify.com/album/2g9x0qCPJGKzfxqrVcgrVy"
+        "name": "WHERE DOES SASQUATCH LIVE? Pt. 2",
+        "url": "https://open.spotify.com/album/5Nx3ogcideDoWZYJyXuuTr"
       },
       "artists": [
         {
-          "name": "Leellamarz",
-          "url": "https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0"
+          "name": "Zior Park",
+          "url": "https://open.spotify.com/artist/4gkSpcyfxtm5OFoZCYWTeD"
         },
         {
-          "name": "TOIL",
-          "url": "https://open.spotify.com/artist/698zn8fEOIr1OrfqG4283S"
+          "name": "Sion",
+          "url": "https://open.spotify.com/artist/2dEBKqLtvdFTnPcwpWEw0r"
         }
       ],
-      "duration_ms": 135120,
-      "name": "Don\u2032t do That",
-      "url": "https://open.spotify.com/track/5OiD0uUNxZkSyG3opReDlx"
+      "duration_ms": 261120,
+      "name": "BYE BYE BYE (feat. Sion)",
+      "url": "https://open.spotify.com/track/0NlGSYMfgwTLbMzViHYPO6"
     },
     {
       "added_at": "2024-03-08 06:16:55",
@@ -995,26 +995,6 @@
     {
       "added_at": "2024-03-08 06:16:55",
       "album": {
-        "name": "Baby",
-        "url": "https://open.spotify.com/album/3myL1yEMNbzCosXULCjhAO"
-      },
-      "artists": [
-        {
-          "name": "BE'O",
-          "url": "https://open.spotify.com/artist/5NUVwRESNqYBUTRbiATjy7"
-        },
-        {
-          "name": "Paul Blanco",
-          "url": "https://open.spotify.com/artist/2fiGm496AG7ePURQiSSJIw"
-        }
-      ],
-      "duration_ms": 189720,
-      "name": "Baby",
-      "url": "https://open.spotify.com/track/606Cy8x4IPNlYjKYd88pEr"
-    },
-    {
-      "added_at": "2024-03-08 06:16:55",
-      "album": {
         "name": "EVERYWHERE",
         "url": "https://open.spotify.com/album/3046u4AKfbzmAxslPFkiP7"
       },
@@ -1039,22 +1019,22 @@
     {
       "added_at": "2024-03-08 06:16:55",
       "album": {
-        "name": "11:59 (feat. Goopy)",
-        "url": "https://open.spotify.com/album/4t9L0wjwVTWEakrmJ2YZvk"
+        "name": "Baby",
+        "url": "https://open.spotify.com/album/3myL1yEMNbzCosXULCjhAO"
       },
       "artists": [
         {
-          "name": "JEY",
-          "url": "https://open.spotify.com/artist/2wrI86paHc2IIj6VmGOAMG"
+          "name": "BE'O",
+          "url": "https://open.spotify.com/artist/5NUVwRESNqYBUTRbiATjy7"
         },
         {
-          "name": "Goopy",
-          "url": "https://open.spotify.com/artist/4F4XWiGTifyL39JD8qrslm"
+          "name": "Paul Blanco",
+          "url": "https://open.spotify.com/artist/2fiGm496AG7ePURQiSSJIw"
         }
       ],
-      "duration_ms": 177680,
-      "name": "11:59 (feat. Goopy)",
-      "url": "https://open.spotify.com/track/0Ipe4hZMTTzWyMxBtkcRNq"
+      "duration_ms": 189720,
+      "name": "Baby",
+      "url": "https://open.spotify.com/track/606Cy8x4IPNlYjKYd88pEr"
     },
     {
       "added_at": "2024-03-08 06:16:55",
@@ -1071,6 +1051,26 @@
       "duration_ms": 205999,
       "name": "Infrared Camera",
       "url": "https://open.spotify.com/track/0YRuXgAFpfsIx8GgsJBJu3"
+    },
+    {
+      "added_at": "2024-03-08 06:16:55",
+      "album": {
+        "name": "11:59 (feat. Goopy)",
+        "url": "https://open.spotify.com/album/4t9L0wjwVTWEakrmJ2YZvk"
+      },
+      "artists": [
+        {
+          "name": "JEY",
+          "url": "https://open.spotify.com/artist/2wrI86paHc2IIj6VmGOAMG"
+        },
+        {
+          "name": "Goopy",
+          "url": "https://open.spotify.com/artist/4F4XWiGTifyL39JD8qrslm"
+        }
+      ],
+      "duration_ms": 177680,
+      "name": "11:59 (feat. Goopy)",
+      "url": "https://open.spotify.com/track/0Ipe4hZMTTzWyMxBtkcRNq"
     },
     {
       "added_at": "2024-03-08 06:16:55",
@@ -1527,26 +1527,6 @@
     {
       "added_at": "2024-03-08 06:16:55",
       "album": {
-        "name": "Sick of Love",
-        "url": "https://open.spotify.com/album/3G1eFv8dHnjuXXTT1sMqIs"
-      },
-      "artists": [
-        {
-          "name": "BOYCOLD",
-          "url": "https://open.spotify.com/artist/3Rxm9TaXZGuQRw2B91Ap22"
-        },
-        {
-          "name": "Leellamarz",
-          "url": "https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0"
-        }
-      ],
-      "duration_ms": 174800,
-      "name": "I can\u2019t be cool (with Leellamarz)",
-      "url": "https://open.spotify.com/track/1GnC5Vv0iJ3eTnsWtMFG4X"
-    },
-    {
-      "added_at": "2024-03-08 06:16:55",
-      "album": {
         "name": "Show Me The Money 10 Episode 1",
         "url": "https://open.spotify.com/album/57an88yn23zGQ4rmor7tkX"
       },
@@ -1579,6 +1559,26 @@
       "duration_ms": 327624,
       "name": "BREATHE (Feat. MINO) (Prod. GRAY)",
       "url": "https://open.spotify.com/track/36kGkexLBfRK1hqdJ6qmaE"
+    },
+    {
+      "added_at": "2024-03-08 06:16:55",
+      "album": {
+        "name": "Sick of Love",
+        "url": "https://open.spotify.com/album/3G1eFv8dHnjuXXTT1sMqIs"
+      },
+      "artists": [
+        {
+          "name": "BOYCOLD",
+          "url": "https://open.spotify.com/artist/3Rxm9TaXZGuQRw2B91Ap22"
+        },
+        {
+          "name": "Leellamarz",
+          "url": "https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0"
+        }
+      ],
+      "duration_ms": 174800,
+      "name": "I can\u2019t be cool (with Leellamarz)",
+      "url": "https://open.spotify.com/track/1GnC5Vv0iJ3eTnsWtMFG4X"
     },
     {
       "added_at": "2024-03-08 06:16:55",
@@ -1731,22 +1731,18 @@
     {
       "added_at": "2024-03-08 06:16:55",
       "album": {
-        "name": "Life is Once",
-        "url": "https://open.spotify.com/album/0P9J5KQksLJqjdwBlqVUP6"
+        "name": "\"TO INFINITY.\"",
+        "url": "https://open.spotify.com/album/6eI4DPjksFdwHechiE51vy"
       },
       "artists": [
         {
-          "name": "Leellamarz",
-          "url": "https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0"
-        },
-        {
-          "name": "CHANGMO",
-          "url": "https://open.spotify.com/artist/3hvinNZRzTLoREmqFiKr1b"
+          "name": "MINO",
+          "url": "https://open.spotify.com/artist/3ytV7vc4ZuwGgwaOuWvkk8"
         }
       ],
-      "duration_ms": 202653,
-      "name": "B**ch (Feat. CHANGMO)",
-      "url": "https://open.spotify.com/track/2ueLsqwiIflzdH8STALWRV"
+      "duration_ms": 178186,
+      "name": "TANG!\u2661",
+      "url": "https://open.spotify.com/track/42wkZTMDrlzWGth9akHF0p"
     },
     {
       "added_at": "2024-03-08 06:16:55",
@@ -1771,18 +1767,26 @@
     {
       "added_at": "2024-03-08 06:16:55",
       "album": {
-        "name": "\"TO INFINITY.\"",
-        "url": "https://open.spotify.com/album/6eI4DPjksFdwHechiE51vy"
+        "name": "TOYSTORY3",
+        "url": "https://open.spotify.com/album/2g9x0qCPJGKzfxqrVcgrVy"
       },
       "artists": [
         {
-          "name": "MINO",
-          "url": "https://open.spotify.com/artist/3ytV7vc4ZuwGgwaOuWvkk8"
+          "name": "Leellamarz",
+          "url": "https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0"
+        },
+        {
+          "name": "TOIL",
+          "url": "https://open.spotify.com/artist/698zn8fEOIr1OrfqG4283S"
+        },
+        {
+          "name": "CAMO",
+          "url": "https://open.spotify.com/artist/2YkhzcYyxJvtl5W6pY0PuF"
         }
       ],
-      "duration_ms": 178186,
-      "name": "TANG!\u2661",
-      "url": "https://open.spotify.com/track/42wkZTMDrlzWGth9akHF0p"
+      "duration_ms": 180813,
+      "name": "2AM (Feat. CAMO)",
+      "url": "https://open.spotify.com/track/1C1quK9LCCHeUjrTONTH9C"
     },
     {
       "added_at": "2024-03-08 06:16:55",
@@ -1803,22 +1807,6 @@
     {
       "added_at": "2024-03-08 06:16:55",
       "album": {
-        "name": "Sir.Robert",
-        "url": "https://open.spotify.com/album/528Gdwx8VgE1UucUW8OcuE"
-      },
-      "artists": [
-        {
-          "name": "BOBBY",
-          "url": "https://open.spotify.com/artist/7ieMQQDR0bdBPz572mtxwS"
-        }
-      ],
-      "duration_ms": 200200,
-      "name": "help me out o kill me not",
-      "url": "https://open.spotify.com/track/6sdYTTPhLOWVlIg11mgvh7"
-    },
-    {
-      "added_at": "2024-03-08 06:16:55",
-      "album": {
         "name": "California Love",
         "url": "https://open.spotify.com/album/1p8UR9GqDhao1x8msg29gL"
       },
@@ -1835,6 +1823,22 @@
       "duration_ms": 228066,
       "name": "California Love (feat. JENO of NCT)",
       "url": "https://open.spotify.com/track/4nXCajkpZro4iPbfD7Oj4F"
+    },
+    {
+      "added_at": "2024-03-08 06:16:55",
+      "album": {
+        "name": "Sir.Robert",
+        "url": "https://open.spotify.com/album/528Gdwx8VgE1UucUW8OcuE"
+      },
+      "artists": [
+        {
+          "name": "BOBBY",
+          "url": "https://open.spotify.com/artist/7ieMQQDR0bdBPz572mtxwS"
+        }
+      ],
+      "duration_ms": 200200,
+      "name": "help me out o kill me not",
+      "url": "https://open.spotify.com/track/6sdYTTPhLOWVlIg11mgvh7"
     },
     {
       "added_at": "2024-03-08 06:16:55",
@@ -1887,6 +1891,26 @@
     {
       "added_at": "2024-03-08 06:16:55",
       "album": {
+        "name": "Life is Once",
+        "url": "https://open.spotify.com/album/0P9J5KQksLJqjdwBlqVUP6"
+      },
+      "artists": [
+        {
+          "name": "Leellamarz",
+          "url": "https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0"
+        },
+        {
+          "name": "CHANGMO",
+          "url": "https://open.spotify.com/artist/3hvinNZRzTLoREmqFiKr1b"
+        }
+      ],
+      "duration_ms": 202653,
+      "name": "B**ch (Feat. CHANGMO)",
+      "url": "https://open.spotify.com/track/2ueLsqwiIflzdH8STALWRV"
+    },
+    {
+      "added_at": "2024-03-08 06:16:55",
+      "album": {
         "name": "Don't go (feat. ASH ISLAND)",
         "url": "https://open.spotify.com/album/041Fafxf0D4t5MDi24KvEP"
       },
@@ -1903,30 +1927,6 @@
       "duration_ms": 157773,
       "name": "Don't go (feat. ASH ISLAND)",
       "url": "https://open.spotify.com/track/0gcTaw7aYWnAKsgIYJsvAt"
-    },
-    {
-      "added_at": "2024-03-08 06:16:55",
-      "album": {
-        "name": "TOYSTORY3",
-        "url": "https://open.spotify.com/album/2g9x0qCPJGKzfxqrVcgrVy"
-      },
-      "artists": [
-        {
-          "name": "Leellamarz",
-          "url": "https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0"
-        },
-        {
-          "name": "TOIL",
-          "url": "https://open.spotify.com/artist/698zn8fEOIr1OrfqG4283S"
-        },
-        {
-          "name": "CAMO",
-          "url": "https://open.spotify.com/artist/2YkhzcYyxJvtl5W6pY0PuF"
-        }
-      ],
-      "duration_ms": 180813,
-      "name": "2AM (Feat. CAMO)",
-      "url": "https://open.spotify.com/track/1C1quK9LCCHeUjrTONTH9C"
     },
     {
       "added_at": "2024-03-08 06:16:55",

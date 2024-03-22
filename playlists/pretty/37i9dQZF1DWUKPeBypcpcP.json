@@ -1,12 +1,12 @@
 {
   "description": "Where nature and white noise meet.",
-  "num_followers": 904357,
+  "num_followers": 904434,
   "original_name": "Nature Noise",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzYzAxZmI4MGJiYmY5ZGU4MmQxMDhmOWRmZDcxYjAzZmY5YzY5ZmYw",
+  "snapshot_id": "MCxhZDVkN2E3YjE5MjM5ZmNkMjA5NmNhZjAwMWIyZjczMjc0NjlkMjQ4",
   "tracks": [
     {
       "added_at": "2023-06-20 09:13:06",
@@ -795,18 +795,18 @@
     {
       "added_at": "2023-06-20 09:13:06",
       "album": {
-        "name": "Thunderous Relaxation",
-        "url": "https://open.spotify.com/album/57AK2pZaIKBJaWR6SAfGMu"
+        "name": "Ocean Noises",
+        "url": "https://open.spotify.com/album/0szLMw3GmyGkoN7KVS39Mk"
       },
       "artists": [
         {
-          "name": "Ambiworld",
-          "url": "https://open.spotify.com/artist/5iZR4UKrhE03RTdCSJo6eG"
+          "name": "Ocean Bank",
+          "url": "https://open.spotify.com/artist/0Hv3Q7w8U9OJRP8t78JhJr"
         }
       ],
-      "duration_ms": 180000,
-      "name": "Rain Period Experience From a Bungalow in Thailand",
-      "url": "https://open.spotify.com/track/3BnFSj59fyZy1v877MHpMV"
+      "duration_ms": 247471,
+      "name": "By The Docks",
+      "url": "https://open.spotify.com/track/1nVn1Mf8bUbANYgozOoCuq"
     },
     {
       "added_at": "2023-06-20 09:13:06",
@@ -827,18 +827,18 @@
     {
       "added_at": "2023-06-20 09:13:06",
       "album": {
-        "name": "Ocean Noises",
-        "url": "https://open.spotify.com/album/0szLMw3GmyGkoN7KVS39Mk"
+        "name": "Thunderous Relaxation",
+        "url": "https://open.spotify.com/album/57AK2pZaIKBJaWR6SAfGMu"
       },
       "artists": [
         {
-          "name": "Ocean Bank",
-          "url": "https://open.spotify.com/artist/0Hv3Q7w8U9OJRP8t78JhJr"
+          "name": "Ambiworld",
+          "url": "https://open.spotify.com/artist/5iZR4UKrhE03RTdCSJo6eG"
         }
       ],
-      "duration_ms": 247471,
-      "name": "By The Docks",
-      "url": "https://open.spotify.com/track/1nVn1Mf8bUbANYgozOoCuq"
+      "duration_ms": 180000,
+      "name": "Rain Period Experience From a Bungalow in Thailand",
+      "url": "https://open.spotify.com/track/3BnFSj59fyZy1v877MHpMV"
     },
     {
       "added_at": "2023-06-20 09:13:06",
@@ -1131,22 +1131,6 @@
     {
       "added_at": "2023-06-20 09:13:06",
       "album": {
-        "name": "California Ocean Sounds",
-        "url": "https://open.spotify.com/album/3or8OyLPvGttkcdl1TwXtQ"
-      },
-      "artists": [
-        {
-          "name": "Coastal Sounds",
-          "url": "https://open.spotify.com/artist/249TyuYTmZtXB1yC90nGGx"
-        }
-      ],
-      "duration_ms": 169962,
-      "name": "Pacific Waves Crashing",
-      "url": "https://open.spotify.com/track/0AhBZXFDruygIhpiaCgSHG"
-    },
-    {
-      "added_at": "2023-06-20 09:13:06",
-      "album": {
         "name": "Rainfall Place",
         "url": "https://open.spotify.com/album/0XYQjSIyavsYfrPr7XiUsN"
       },
@@ -1163,18 +1147,18 @@
     {
       "added_at": "2023-06-20 09:13:06",
       "album": {
-        "name": "Rain Ambience",
-        "url": "https://open.spotify.com/album/1KTaSrFgB6KZfzJTxCWXIV"
+        "name": "California Ocean Sounds",
+        "url": "https://open.spotify.com/album/3or8OyLPvGttkcdl1TwXtQ"
       },
       "artists": [
         {
-          "name": "Ambature",
-          "url": "https://open.spotify.com/artist/75H8JLJECgFwyMddSZSvIM"
+          "name": "Coastal Sounds",
+          "url": "https://open.spotify.com/artist/249TyuYTmZtXB1yC90nGGx"
         }
       ],
-      "duration_ms": 133021,
-      "name": "Rain Ambience",
-      "url": "https://open.spotify.com/track/0CBPKuwcdJpHiF1KtWKkg9"
+      "duration_ms": 169962,
+      "name": "Pacific Waves Crashing",
+      "url": "https://open.spotify.com/track/0AhBZXFDruygIhpiaCgSHG"
     },
     {
       "added_at": "2023-06-20 09:13:06",
@@ -1191,6 +1175,22 @@
       "duration_ms": 154000,
       "name": "Countryside Birds",
       "url": "https://open.spotify.com/track/5hDsmltGgBULdoDZybh5VI"
+    },
+    {
+      "added_at": "2023-06-20 09:13:06",
+      "album": {
+        "name": "Rain Ambience",
+        "url": "https://open.spotify.com/album/1KTaSrFgB6KZfzJTxCWXIV"
+      },
+      "artists": [
+        {
+          "name": "Ambature",
+          "url": "https://open.spotify.com/artist/75H8JLJECgFwyMddSZSvIM"
+        }
+      ],
+      "duration_ms": 133021,
+      "name": "Rain Ambience",
+      "url": "https://open.spotify.com/track/0CBPKuwcdJpHiF1KtWKkg9"
     },
     {
       "added_at": "2023-06-20 09:13:06",
@@ -1323,22 +1323,6 @@
     {
       "added_at": "2023-06-20 09:13:06",
       "album": {
-        "name": "Thunder & White Noise",
-        "url": "https://open.spotify.com/album/45Sp5SWlpyj6CWqiW2LoQm"
-      },
-      "artists": [
-        {
-          "name": "Noise Nirvana",
-          "url": "https://open.spotify.com/artist/6jLfCVXiXP2SoEA8BOIrxM"
-        }
-      ],
-      "duration_ms": 205000,
-      "name": "Rainy White Noise",
-      "url": "https://open.spotify.com/track/3afauC1qTFNIjtCRihhpEt"
-    },
-    {
-      "added_at": "2023-06-20 09:13:06",
-      "album": {
         "name": "Rain Day",
         "url": "https://open.spotify.com/album/7H7Mh2c47UIakZJlkwEYAs"
       },
@@ -1351,6 +1335,22 @@
       "duration_ms": 153065,
       "name": "Cool Rain",
       "url": "https://open.spotify.com/track/4TZGYNmbDz2zjYpdOA0yQX"
+    },
+    {
+      "added_at": "2023-06-20 09:13:06",
+      "album": {
+        "name": "Thunder & White Noise",
+        "url": "https://open.spotify.com/album/45Sp5SWlpyj6CWqiW2LoQm"
+      },
+      "artists": [
+        {
+          "name": "Noise Nirvana",
+          "url": "https://open.spotify.com/artist/6jLfCVXiXP2SoEA8BOIrxM"
+        }
+      ],
+      "duration_ms": 205000,
+      "name": "Rainy White Noise",
+      "url": "https://open.spotify.com/track/3afauC1qTFNIjtCRihhpEt"
     },
     {
       "added_at": "2023-06-20 09:13:06",
@@ -1371,22 +1371,6 @@
     {
       "added_at": "2023-06-20 09:13:06",
       "album": {
-        "name": "Relaxing Running Water",
-        "url": "https://open.spotify.com/album/5bfdoeCy8FpHfed8W5ObC7"
-      },
-      "artists": [
-        {
-          "name": "Sounds from Above",
-          "url": "https://open.spotify.com/artist/17HGEQUIyMzUgtjvBh8rWc"
-        }
-      ],
-      "duration_ms": 186321,
-      "name": "Relaxing River Sounds",
-      "url": "https://open.spotify.com/track/1bj1hZ1gz6EpO6xpMfGzfs"
-    },
-    {
-      "added_at": "2023-06-20 09:13:06",
-      "album": {
         "name": "Deep Sleep FX",
         "url": "https://open.spotify.com/album/1y3kDuu8NrB0O3wM9ge5uj"
       },
@@ -1399,6 +1383,22 @@
       "duration_ms": 161239,
       "name": "Big Ocean Waves",
       "url": "https://open.spotify.com/track/7Lj7U5e9TgSz5TcSoD9SZs"
+    },
+    {
+      "added_at": "2023-06-20 09:13:06",
+      "album": {
+        "name": "Relaxing Running Water",
+        "url": "https://open.spotify.com/album/5bfdoeCy8FpHfed8W5ObC7"
+      },
+      "artists": [
+        {
+          "name": "Sounds from Above",
+          "url": "https://open.spotify.com/artist/17HGEQUIyMzUgtjvBh8rWc"
+        }
+      ],
+      "duration_ms": 186321,
+      "name": "Relaxing River Sounds",
+      "url": "https://open.spotify.com/track/1bj1hZ1gz6EpO6xpMfGzfs"
     },
     {
       "added_at": "2023-06-20 09:13:06",
@@ -1435,22 +1435,6 @@
     {
       "added_at": "2023-06-20 09:13:06",
       "album": {
-        "name": "Noises Of Ambience",
-        "url": "https://open.spotify.com/album/14CPqVzJefFRKUBZjZKUfK"
-      },
-      "artists": [
-        {
-          "name": "Noises Of Ambience",
-          "url": "https://open.spotify.com/artist/1G3MR4Gr6zFvXxm275w316"
-        }
-      ],
-      "duration_ms": 145635,
-      "name": "Natures White Noise",
-      "url": "https://open.spotify.com/track/5BznY5rMMB2BIrRu2LBGQd"
-    },
-    {
-      "added_at": "2023-06-20 09:13:06",
-      "album": {
         "name": "Relaxing Jungle Sounds",
         "url": "https://open.spotify.com/album/7r95Xw3Q1E24QWAx0sACBY"
       },
@@ -1463,6 +1447,22 @@
       "duration_ms": 124000,
       "name": "Jungle Morning",
       "url": "https://open.spotify.com/track/1YbthFAtFp91B1AxBqUMZe"
+    },
+    {
+      "added_at": "2023-06-20 09:13:06",
+      "album": {
+        "name": "Noises Of Ambience",
+        "url": "https://open.spotify.com/album/14CPqVzJefFRKUBZjZKUfK"
+      },
+      "artists": [
+        {
+          "name": "Noises Of Ambience",
+          "url": "https://open.spotify.com/artist/1G3MR4Gr6zFvXxm275w316"
+        }
+      ],
+      "duration_ms": 145635,
+      "name": "Natures White Noise",
+      "url": "https://open.spotify.com/track/5BznY5rMMB2BIrRu2LBGQd"
     },
     {
       "added_at": "2023-06-20 09:13:06",
@@ -1499,22 +1499,6 @@
     {
       "added_at": "2023-06-20 09:13:06",
       "album": {
-        "name": "Chill Day by the River",
-        "url": "https://open.spotify.com/album/59E3mxZ1mPRpAPYONamokv"
-      },
-      "artists": [
-        {
-          "name": "Calming Water Sounds",
-          "url": "https://open.spotify.com/artist/2eorj5qDKWRsb9BAfdssbx"
-        }
-      ],
-      "duration_ms": 147586,
-      "name": "Beruhigender Bach",
-      "url": "https://open.spotify.com/track/4O2wSXouI7mosBQGx4tZ0N"
-    },
-    {
-      "added_at": "2023-06-20 09:13:06",
-      "album": {
         "name": "Water & White Noise",
         "url": "https://open.spotify.com/album/6gI9ysj5ksfDQ1fPGe69bG"
       },
@@ -1531,18 +1515,18 @@
     {
       "added_at": "2023-06-20 09:13:06",
       "album": {
-        "name": "Eye Of The Rain",
-        "url": "https://open.spotify.com/album/6YpLnqT6dPYyacJMO0dLwZ"
+        "name": "Chill Day by the River",
+        "url": "https://open.spotify.com/album/59E3mxZ1mPRpAPYONamokv"
       },
       "artists": [
         {
-          "name": "Skylated",
-          "url": "https://open.spotify.com/artist/62iHUQsjVEK33b5YlpRsrS"
+          "name": "Calming Water Sounds",
+          "url": "https://open.spotify.com/artist/2eorj5qDKWRsb9BAfdssbx"
         }
       ],
-      "duration_ms": 146378,
-      "name": "Vain Rain",
-      "url": "https://open.spotify.com/track/0PColavKAYrvY3fXvQgOvQ"
+      "duration_ms": 147586,
+      "name": "Beruhigender Bach",
+      "url": "https://open.spotify.com/track/4O2wSXouI7mosBQGx4tZ0N"
     },
     {
       "added_at": "2023-06-20 09:13:06",
@@ -1559,6 +1543,22 @@
       "duration_ms": 132260,
       "name": "Bird Chirps in heavy rain",
       "url": "https://open.spotify.com/track/3wxJSiIHrXjN04mjr8B5ya"
+    },
+    {
+      "added_at": "2023-06-20 09:13:06",
+      "album": {
+        "name": "Eye Of The Rain",
+        "url": "https://open.spotify.com/album/6YpLnqT6dPYyacJMO0dLwZ"
+      },
+      "artists": [
+        {
+          "name": "Skylated",
+          "url": "https://open.spotify.com/artist/62iHUQsjVEK33b5YlpRsrS"
+        }
+      ],
+      "duration_ms": 146378,
+      "name": "Vain Rain",
+      "url": "https://open.spotify.com/track/0PColavKAYrvY3fXvQgOvQ"
     },
     {
       "added_at": "2023-06-20 09:13:06",
@@ -1707,22 +1707,6 @@
     {
       "added_at": "2023-06-20 09:13:06",
       "album": {
-        "name": "Wave Period",
-        "url": "https://open.spotify.com/album/75qHF82HCi47YOiDfgKX1Q"
-      },
-      "artists": [
-        {
-          "name": "Deeply Oceanic",
-          "url": "https://open.spotify.com/artist/5XxDTSUvUZnEOlY6plTe9v"
-        }
-      ],
-      "duration_ms": 164954,
-      "name": "Looking At The Ocean",
-      "url": "https://open.spotify.com/track/3EwIzgNyOL5siTxOaZL0fo"
-    },
-    {
-      "added_at": "2023-06-20 09:13:06",
-      "album": {
         "name": "\uba87 \uc2dc\uac04 \ub3d9\uc548 \ube44",
         "url": "https://open.spotify.com/album/0q4Tp0M1AJwEcqOyYVYD9J"
       },
@@ -1735,6 +1719,22 @@
       "duration_ms": 150000,
       "name": "\uba87 \uc2dc\uac04 \ub3d9\uc548 \ube44",
       "url": "https://open.spotify.com/track/6BX1UYZv1zTi95DINQFBDh"
+    },
+    {
+      "added_at": "2023-06-20 09:13:06",
+      "album": {
+        "name": "Wave Period",
+        "url": "https://open.spotify.com/album/75qHF82HCi47YOiDfgKX1Q"
+      },
+      "artists": [
+        {
+          "name": "Deeply Oceanic",
+          "url": "https://open.spotify.com/artist/5XxDTSUvUZnEOlY6plTe9v"
+        }
+      ],
+      "duration_ms": 164954,
+      "name": "Looking At The Ocean",
+      "url": "https://open.spotify.com/track/3EwIzgNyOL5siTxOaZL0fo"
     },
     {
       "added_at": "2023-06-20 09:13:06",

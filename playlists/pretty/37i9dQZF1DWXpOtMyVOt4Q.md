@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXpOtMyVOt4Q.md) - [plain]
 
 > Chill tunes to soundtrack your gaming session.
 
-[Spotify](https://open.spotify.com/user/spotify) - 257,625 likes - 50 songs - 2 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 257,677 likes - 50 songs - 2 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,12 +51,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXpOtMyVOt4Q.md) - [plain]
 | 41 | [limerence](https://open.spotify.com/track/2EuEUEInXrlb7NZqyTOJ3f) | [Bonjr](https://open.spotify.com/artist/10dzW1PpkEFPkeQSqvgXvw), [.diedlonely](https://open.spotify.com/artist/2LbjW13j6rNtFgYcPjR2ur) | [limerence](https://open.spotify.com/album/12G2OhdDoWlxrEsoEutcJv) | 2:48 |
 | 42 | [fallinginlove.](https://open.spotify.com/track/2QPfaEicJRxxQ2WlBrqhAw) | [pandora.](https://open.spotify.com/artist/2kz8ErEfOCprZuWDcFgzSM), [chillwithme](https://open.spotify.com/artist/7AvcFSTZCBcqx0Uf03lrP8), [cødy](https://open.spotify.com/artist/0CLVTdLvMwJzZtHovVneAC) | [daydream.](https://open.spotify.com/album/5QgfYuguhp3BQkr8c7AqxR) | 1:37 |
 | 43 | [Dandelion's Lullaby](https://open.spotify.com/track/4TLoYT6uaGydqUQRZ9hlxG) | [Raimu](https://open.spotify.com/artist/4PMAJlYIlc9EafX6z8lwZ3) | [Dandelion's Lullaby](https://open.spotify.com/album/3c9eWf9ONwSr9LKlwZ0ODW) | 2:03 |
-| 44 | [One Last Time](https://open.spotify.com/track/2qxRVh7mFAYt7Lw2IWM9xu) | [Thaehan](https://open.spotify.com/artist/2n0sjgdrfHYJT6B39cdvWW) | [Hourglass](https://open.spotify.com/album/1e2ImujfGAYW1leJOICcTr) | 2:20 |
-| 45 | [waking up in the park](https://open.spotify.com/track/278zobyI14d3iaE39jGfHM) | [j'san](https://open.spotify.com/artist/5iMUho98faEp2w6j5p44PH) | [waking up in the park](https://open.spotify.com/album/4jGrBMzBYAxIMdwxOLvlod) | 1:08 |
-| 46 | [Melanine](https://open.spotify.com/track/5uTnqjoCiHCZJ3TmQpOhpH) | [Tycho](https://open.spotify.com/artist/5oOhM2DFWab8XhSdQiITry) | [Dive](https://open.spotify.com/album/4CBUbnGFz2iKFJjYqRIwst) | 2:53 |
+| 44 | [waking up in the park](https://open.spotify.com/track/278zobyI14d3iaE39jGfHM) | [j'san](https://open.spotify.com/artist/5iMUho98faEp2w6j5p44PH) | [waking up in the park](https://open.spotify.com/album/4jGrBMzBYAxIMdwxOLvlod) | 1:08 |
+| 45 | [Melanine](https://open.spotify.com/track/5uTnqjoCiHCZJ3TmQpOhpH) | [Tycho](https://open.spotify.com/artist/5oOhM2DFWab8XhSdQiITry) | [Dive](https://open.spotify.com/album/4CBUbnGFz2iKFJjYqRIwst) | 2:53 |
+| 46 | [One Last Time](https://open.spotify.com/track/2qxRVh7mFAYt7Lw2IWM9xu) | [Thaehan](https://open.spotify.com/artist/2n0sjgdrfHYJT6B39cdvWW) | [Hourglass](https://open.spotify.com/album/1e2ImujfGAYW1leJOICcTr) | 2:20 |
 | 47 | [Stargazing](https://open.spotify.com/track/1R83WQM8LXRqT2hu8qK59I) | [kyu](https://open.spotify.com/artist/4vLg4WFBnzNgIpLWyxQJMW) | [Dreamscapes](https://open.spotify.com/album/6KceKyMe95omjB1FNWRhJR) | 2:13 |
 | 48 | [memories apart](https://open.spotify.com/track/76CCS9O2Wnwn6NoRuYCew9) | [knonzzz](https://open.spotify.com/artist/25UTkbnQgetv8B2pr3JGI7) | [memories apart](https://open.spotify.com/album/1rPBw0rwuxBxIw8PrR4Epm) | 1:41 |
 | 49 | [dark snowy night \- Slowed & Reverb Version](https://open.spotify.com/track/05GNWCE3kGfTRIh2Zld3NH) | [daniel.mp3](https://open.spotify.com/artist/5OE8eZn0x45cNNc8GCpvmC) | [dark snowy night](https://open.spotify.com/album/0WnATwrpuFPvyTpqxo1R5O) | 3:31 |
-| 50 | [star struck](https://open.spotify.com/track/3JcRY9LLi7aLBqceAbAJaC) | [alixe.](https://open.spotify.com/artist/5CqGgJNg6sTMBr8KbBCqYn) | [star struck](https://open.spotify.com/album/0lWOg0zxjpIS81tzwUB0qr) | 1:36 |
+| 50 | [Tlt Corecore Depressed](https://open.spotify.com/track/4xfoRRnDPMu6EyFdQfXOXi) | [The Lonely Tree](https://open.spotify.com/artist/3LVSxMqP1hh5cGV1HDTjHV) | [Tlt Corecore Depressed](https://open.spotify.com/album/7B8OW5576EUF3r7rYrC6xb) | 1:22 |
 
-Snapshot ID: `MCw1NzU5OGQ3NjRhY2FkYzU2YTE5NWUxOWUzOWE2OGNmYzZhNmNkMjJm`
+Snapshot ID: `MCxmZTBlYzlhNzJhYzYyOTA5OWQ3MjVkZjRhMzA5NzBjYjA0MTBhODYy`

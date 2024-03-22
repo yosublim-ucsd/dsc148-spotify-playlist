@@ -879,6 +879,24 @@
     },
     {
       "album": {
+        "name": "Grace",
+        "url": "https://open.spotify.com/album/3zwQ85EIx0wYoXv91vFrns"
+      },
+      "artists": [
+        {
+          "name": "Luke Morris",
+          "url": "https://open.spotify.com/artist/79i6PErg0CppXj9tpcxdOi"
+        }
+      ],
+      "date_added": "2024-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225167,
+      "name": "Grace",
+      "url": "https://open.spotify.com/track/62KkEwACJnCxiMnw8rDtr0"
+    },
+    {
+      "album": {
         "name": "half of my hometown",
         "url": "https://open.spotify.com/album/1wvacL4ghUHvi6PODfvbGN"
       },
@@ -1068,6 +1086,24 @@
       "duration_ms": 204500,
       "name": "I've Lost My Best Friend",
       "url": "https://open.spotify.com/track/217ufaOS3H8Ax1HGX2z6MY"
+    },
+    {
+      "album": {
+        "name": "Songs in the Gravel",
+        "url": "https://open.spotify.com/album/5LH0DO3n956vBZ5vK0mLL2"
+      },
+      "artists": [
+        {
+          "name": "Dylan Gossett",
+          "url": "https://open.spotify.com/artist/4H4M0Y4cN39zIVDHvdW53x"
+        }
+      ],
+      "date_added": "2024-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203077,
+      "name": "If I Had a Lover",
+      "url": "https://open.spotify.com/track/6a9VsSmDtb7wxv1oRgCfIa"
     },
     {
       "album": {
@@ -1361,6 +1397,24 @@
     },
     {
       "album": {
+        "name": "Norway",
+        "url": "https://open.spotify.com/album/14YBmFvVTvSOchxrc3irTG"
+      },
+      "artists": [
+        {
+          "name": "Patrick James",
+          "url": "https://open.spotify.com/artist/02rbtsxmzmlWKtEZ4DLZr8"
+        }
+      ],
+      "date_added": "2024-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243362,
+      "name": "Norway",
+      "url": "https://open.spotify.com/track/2xupk6CxMlYisBxbgbPSO7"
+    },
+    {
+      "album": {
         "name": "Note To Self",
         "url": "https://open.spotify.com/album/6KDINvcBPKMM9irLEM1nV2"
       },
@@ -1412,6 +1466,24 @@
       "duration_ms": 186240,
       "name": "One Man Band",
       "url": "https://open.spotify.com/track/7cA3PnUQDlUyBBwpRozQeo"
+    },
+    {
+      "album": {
+        "name": "Out of My Head",
+        "url": "https://open.spotify.com/album/263GSd83pWVTmLOgFYruCS"
+      },
+      "artists": [
+        {
+          "name": "Delaney Davidson",
+          "url": "https://open.spotify.com/artist/5gKjq94Zz8p953ddbd9bRP"
+        }
+      ],
+      "date_added": "2024-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149724,
+      "name": "Out of My Head",
+      "url": "https://open.spotify.com/track/2324FllxQKfIq0KzgvB7Xt"
     },
     {
       "album": {

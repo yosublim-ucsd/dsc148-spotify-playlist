@@ -2,9 +2,9 @@
 
 ### [RADAR GSA](https://open.spotify.com/playlist/37i9dQZF1DX3Vl51vsat7a)
 
-> Discover your new favourite artists with a focus on Germany, Switzerland, Austria\. Cover: southstar
+> Discover your new favourite artists with a focus on Germany, Switzerland, Austria\. Cover: Jazeek
 
-293 songs - 15 hr 41 min
+295 songs - 15 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -152,6 +152,7 @@
 | [Lemonade](https://open.spotify.com/track/1dH4rjcOt0AZ948RDnEFoc) | [Keir](https://open.spotify.com/artist/2YOYjcNXjBJSW1STwwhE74) | [Lemonade](https://open.spotify.com/album/2Me4REF5L047CVTl7KrjuI) | 3:39 | 2023-05-04 | 2023-06-30 |
 | [Liebe verloren](https://open.spotify.com/track/5gMifIJnth5mZIBvzqPVIW) | [Schmyt](https://open.spotify.com/artist/2DysK49GjODUdRupTMZrfb) | [Liebe verloren](https://open.spotify.com/album/6tvIFoZemFu3eSK1SCx5aF) | 3:13 | 2022-02-03 | 2022-04-22 |
 | [Liebe zu dritt](https://open.spotify.com/track/1CeL9v59rZeFX63hYI4eAO) | [Provinz](https://open.spotify.com/artist/2f7f3AmL16mmiAmYnxmmfx), [MAJAN](https://open.spotify.com/artist/60pVmLS5zlt31OWk340O3U), [JEREMIAS](https://open.spotify.com/artist/011bJBtG8SdkBqBiSpBllF) | [Liebe zu dritt](https://open.spotify.com/album/20HZQOmLW3XOSQKbZjw77F) | 3:26 | 2021-12-16 | 2022-04-01 |
+| [Like This](https://open.spotify.com/track/2bcmJLy2ulWs3jkfQBTwhl) | [Jazeek](https://open.spotify.com/artist/1E8mXBWN7AXZCOPYbOky4J) | [Like This](https://open.spotify.com/album/22t6nu9vCexm0YmvteIGp7) | 2:52 | 2024-03-21 |  |
 | [Lipsticks & Heartbreaks](https://open.spotify.com/track/5WX5hHwiJnFx9IIcCKxWWP) | [Kynda Gray](https://open.spotify.com/artist/3LPEGy5eAGPgKYJVrkRuSX) | [Lipsticks & Heartbreaks](https://open.spotify.com/album/5mkpbYUEBkj9tRJ3aKGUdc) | 2:10 | 2021-12-16 |  |
 | [Locker Room](https://open.spotify.com/track/3jjTNicCrPJFe0FyLWmSAR) | [Pabst](https://open.spotify.com/artist/72fLLt8HNxQ2VwCbYFxQCD) | [Locker Room](https://open.spotify.com/album/2MlvBenVNmFKfLvprpn194) | 3:43 | 2022-04-28 | 2022-09-02 |
 | [Lonely](https://open.spotify.com/track/6pyh4lkDS5FzWBz9y8Wu0S) | [Zoe Wees](https://open.spotify.com/artist/03d2mJXSMtuPI0nIvLnhoS) | [Lonely](https://open.spotify.com/album/7noXhmn3TF1aWpJpYH3cjw) | 3:12 | 2022-03-17 | 2022-07-08 |
@@ -200,7 +201,7 @@
 | [Paranoid](https://open.spotify.com/track/0HMqKvy71TIbFMZP573ggQ) | [Leoniden](https://open.spotify.com/artist/1zwtew8BGPk66RKGQqtPCX) | [Complex Happenings Reduced To A Simple Design](https://open.spotify.com/album/759AQPUMn36dDf7cRSwsmF) | 3:16 | 2021-12-16 |  |
 | [Paris](https://open.spotify.com/track/7EccqOi4GK8kASKFnZsdla) | [Mathea](https://open.spotify.com/artist/3r5Kc95Oz8lDc8BL9ChO7n) | [Paris](https://open.spotify.com/album/5hlFHVDj6WhfEvqCf50n2V) | 2:40 | 2021-12-16 | 2022-03-04 |
 | [Party Sahne](https://open.spotify.com/track/47gFO4wiq9rLJo9vz0DP3q) | [Ski Aggu](https://open.spotify.com/artist/6CP5wWvO8oIxedESJNCN4H), [Endzone](https://open.spotify.com/artist/7uK2QScoOUkqq8tvtvBIL7), [Ericson](https://open.spotify.com/artist/2mkCm5VNJTplOKJxcDYMpa) | [Party Sahne](https://open.spotify.com/album/6vcV95HX3EIghNFsoOgbDC) | 2:17 | 2022-12-01 | 2023-01-06 |
-| [Paula](https://open.spotify.com/track/5WgCx3Lcq48Vj2kJUYmK8I) | [Wilhelmine](https://open.spotify.com/artist/4f5pBvQZzdOGpFF0pwtUZG) | [Paula](https://open.spotify.com/album/751dH1KYjFvLpraxTQ64nS) | 3:16 | 2023-08-10 |  |
+| [Paula](https://open.spotify.com/track/5WgCx3Lcq48Vj2kJUYmK8I) | [Wilhelmine](https://open.spotify.com/artist/4f5pBvQZzdOGpFF0pwtUZG) | [Paula](https://open.spotify.com/album/751dH1KYjFvLpraxTQ64nS) | 3:16 | 2023-08-10 | 2024-03-22 |
 | [Physical Aspects Of Disco](https://open.spotify.com/track/10UQj7uJ2RPG481QII1xpv) | [Kellerkind](https://open.spotify.com/artist/4GYQytEFxnzqH96O6QywsA) | [Somebody EP](https://open.spotify.com/album/5pU5K5SdRh93tZ7gOrJ2s7) | 6:26 | 2023-03-16 |  |
 | [Piccolo](https://open.spotify.com/track/0g3hdWIwkYStsPojCvDIG0) | [MAJAN](https://open.spotify.com/artist/60pVmLS5zlt31OWk340O3U) | [Piccolo](https://open.spotify.com/album/3Imzkvlri6mG8V04fsdFkv) | 2:27 | 2023-09-14 |  |
 | [Pink Skies](https://open.spotify.com/track/43Ka2d0YZZlOzVGwf96xNw) | [Giant Rooks](https://open.spotify.com/artist/5wD0owYApRtYmjPWavWKvb) | [How Have You Been?](https://open.spotify.com/album/4FqEHLgdiMHXboXIztMkkO) | 3:21 | 2024-01-25 |  |
@@ -226,7 +227,7 @@
 | [Shirt & Handtuch](https://open.spotify.com/track/62ZlC6KfLzEBPlE7rBHs3c) | [Mayberg](https://open.spotify.com/artist/0lNJF6sbrXXPubqKkkyK23) | [Shirt & Handtuch](https://open.spotify.com/album/5E6TabcdFH66gyiurKEmBq) | 3:34 | 2023-04-13 |  |
 | [Sicher](https://open.spotify.com/track/6qEykl5MTiALJndjT2lrPM) | [Ansu](https://open.spotify.com/artist/62TYO8MQIPGNVne59x3AqS) | [Sicher](https://open.spotify.com/album/5qGB7Az88V3wMpeJw6uwOq) | 2:55 | 2022-04-07 | 2022-05-27 |
 | [Sick Of Being Sad](https://open.spotify.com/track/584NxuMTvdTausXZ9oT85R) | [FLØRE](https://open.spotify.com/artist/5aUy7Z5Q1m6f9fNp8or3sD) | [Sick Of Being Sad](https://open.spotify.com/album/4FD9TVJXqsT3OuCR1jZjXP) | 2:43 | 2022-04-07 | 2023-01-20 |
-| [sie](https://open.spotify.com/track/6QqeFkSVC1e5sfdfY68mb5) | [Wilhelmine](https://open.spotify.com/artist/4f5pBvQZzdOGpFF0pwtUZG) | [sie](https://open.spotify.com/album/38kcgG8H98TRVAh7OVxe08) | 2:30 | 2024-01-25 |  |
+| [sie](https://open.spotify.com/track/6QqeFkSVC1e5sfdfY68mb5) | [Wilhelmine](https://open.spotify.com/artist/4f5pBvQZzdOGpFF0pwtUZG) | [sie](https://open.spotify.com/album/38kcgG8H98TRVAh7OVxe08) | 2:30 | 2024-01-25 | 2024-03-22 |
 | [sirens](https://open.spotify.com/track/5lehSTwJVN2ed0VawpFZF3) | [LIE NING](https://open.spotify.com/artist/1X6lOLyGCw9kfdChwHIbVs), [Mulay](https://open.spotify.com/artist/6hxUwSTKTLQoKGmKHLle54) | [sirens](https://open.spotify.com/album/3FwlJZOsRiHYUdR7Iqp5Ca) | 3:08 | 2023-10-27 |  |
 | [SKELETON](https://open.spotify.com/track/53EfFnax4JFA93E5YFwR3f) | [FLØRE](https://open.spotify.com/artist/5aUy7Z5Q1m6f9fNp8or3sD) | [SKELETON](https://open.spotify.com/album/3BB0ddbSAWyFTxCCtI34GO) | 2:48 | 2023-06-15 | 2023-08-25 |
 | [SLEEP PARTY \(feat\. mindfreakkk\)](https://open.spotify.com/track/11erW7pKvrR399ymf1eZwl) | [Tokimeki Records](https://open.spotify.com/artist/73vrL9RiKlSaQFo2izavC1), [mindfreakkk](https://open.spotify.com/artist/72eq3oLf1MBNNAZNv0Ua0a) | [SLEEP PARTY \(feat\. mindfreakkk\)](https://open.spotify.com/album/5EryJwl6ZmreizbfgEUgqC) | 4:02 | 2021-12-16 | 2022-05-13 |
@@ -269,6 +270,7 @@
 | [Unsere Bank \(feat\. Danger Dan\)](https://open.spotify.com/track/1Tb272NQuHyWVAlYZEcJDt) | [Provinz](https://open.spotify.com/artist/2f7f3AmL16mmiAmYnxmmfx), [Danger Dan](https://open.spotify.com/artist/2jXb8AWz82Sn3RRGOaia7a) | [Unsere Bank \(feat\. Danger Dan\)](https://open.spotify.com/album/3GHY2KycHJNt3mffQ0nIiR) | 2:50 | 2022-09-01 | 2022-09-03 |
 | [Unsinn](https://open.spotify.com/track/13Hjp3sOQxtR0TV0jdaxpM) | [01099](https://open.spotify.com/artist/3Z3aTg9PwJ37e8xeO0aUC9) | [Unsinn](https://open.spotify.com/album/5TmRpfo2XOG8CQZrK0QS68) | 2:55 | 2023-03-23 | 2023-06-30 |
 | [Utopie](https://open.spotify.com/track/5dEk2G5Cdklq7eZFCrTIkm) | [ENNIO](https://open.spotify.com/artist/6ztKrKekC3nb3nCBoy9HUt) | [Utopie](https://open.spotify.com/album/7k8u3WFdC2fHOmp9VWsC2E) | 2:43 | 2023-10-05 |  |
+| [viele](https://open.spotify.com/track/38zw0z87YOu2zDY2DbgiyV) | [Wilhelmine](https://open.spotify.com/artist/4f5pBvQZzdOGpFF0pwtUZG) | [viele](https://open.spotify.com/album/4as6aHBiCwqiaXzxuIGz7A) | 3:39 | 2024-03-21 |  |
 | [Vitamins](https://open.spotify.com/track/5aLY8E1e60iaI4gVCCD7OK) | [Novaa](https://open.spotify.com/artist/3PMqVecYp6tFBk7d7SDlPm) | [She's A Star](https://open.spotify.com/album/3YDJfL56ce6fcxL4tWxvg6) | 2:59 | 2022-05-26 | 2023-06-16 |
 | [VOICEMAIL](https://open.spotify.com/track/25gIGyYd4Q9kHJ7Fvsa9RP) | [FAANGS](https://open.spotify.com/artist/2UlXIWBLOjskz5esa7ec2j) | [VOICEMAIL](https://open.spotify.com/album/0wg7TKWgd0ZdhSif29VuKu) | 4:10 | 2022-07-21 | 2023-07-28 |
 | [Voices](https://open.spotify.com/track/31jjzf6a02K6vzE3jvzDer) | [Keir](https://open.spotify.com/artist/2YOYjcNXjBJSW1STwwhE74) | [Voices](https://open.spotify.com/album/1gr2ElW62Qg00AybMlJdw0) | 2:49 | 2023-08-10 | 2023-08-25 |

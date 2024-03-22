@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO095KZq.md) - [plain]
 
 > This is El Fantasma\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 428,339 likes - 50 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 428,390 likes - 50 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO095KZq.md) - [plain]
 | 26 | [El Morro Pirata](https://open.spotify.com/track/7HwLI71eU0WXztrg2F6uLx) | [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv), [Grupo Origen](https://open.spotify.com/artist/3Ubb7uWOUwy2ahz3qu21C7) | [El Morro Pirata](https://open.spotify.com/album/3Ax5dRVVL3pI79xcN5MWzJ) | 2:38 |
 | 27 | [El Chavo](https://open.spotify.com/track/4BBQZ0tRBZPlP5ornyo3di) | [Los Tucanes De Tijuana](https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK), [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv) | [El Chavo](https://open.spotify.com/album/5f3DQfWQRC3he3Cx6sFUGb) | 3:46 |
 | 28 | [El Selectivo](https://open.spotify.com/track/3XSEYfxNxAkTgmPSQeJgnA) | [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv) | [El Selectivo](https://open.spotify.com/album/2ZNSAHSv7PttcfGTfooL7s) | 3:07 |
-| 29 | [Soldado Caído](https://open.spotify.com/track/2R0XLhQjJWkAz6kOniuyOs) | [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv) | [Soldado Caído](https://open.spotify.com/album/4dUfwpxtL9UyaZiNld8sSm) | 3:02 |
-| 30 | [El Mes de Mayo](https://open.spotify.com/track/6YYh0uf1CI0gQxlVScpZw4) | [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv) | [El Circo](https://open.spotify.com/album/04lyNlxXhRxoZPC9RLq5Oq) | 2:47 |
+| 29 | [El Mes de Mayo](https://open.spotify.com/track/6YYh0uf1CI0gQxlVScpZw4) | [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv) | [El Circo](https://open.spotify.com/album/04lyNlxXhRxoZPC9RLq5Oq) | 2:47 |
+| 30 | [Soldado Caído](https://open.spotify.com/track/2R0XLhQjJWkAz6kOniuyOs) | [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv) | [Soldado Caído](https://open.spotify.com/album/4dUfwpxtL9UyaZiNld8sSm) | 3:02 |
 | 31 | [Los Cuervos](https://open.spotify.com/track/6hwecQOSqCplz3u22e92gl) | [Kanales](https://open.spotify.com/artist/6tV9ApzzUMjXsFNHpgZmvA), [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv) | [Coronas Doradas](https://open.spotify.com/album/6ABTPCdPVk8GTqNsuWNcob) | 2:47 |
 | 32 | [Encantadora](https://open.spotify.com/track/15gKM0h7lqe2vZsBAFA5L2) | [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv) | [Encantadora](https://open.spotify.com/album/0Cun0bbB8jz6QqyshWUBPe) | 2:24 |
 | 33 | [El Regreso de Chico](https://open.spotify.com/track/2i5Xvxnmb2WLK9m9kaHota) | [GERARDO DIAZ Y SU GERARQUIA](https://open.spotify.com/artist/2gLxI7MomgJVmIADX9RZUp), [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv) | [El Regreso de Chico](https://open.spotify.com/album/1Ra2BPrNy06eSGnZ3VBoYG) | 4:21 |
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO095KZq.md) - [plain]
 | 43 | [De 8 A 5](https://open.spotify.com/track/19CPH67llc3aSBnTtQNTZE) | [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0), [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv) | [DE 8 A 5](https://open.spotify.com/album/5qiRNbxxZW5kUPFA9v0O8c) | 3:14 |
 | 44 | [Bien EnRRedado](https://open.spotify.com/track/6Qld1xtQDQS4FqdhgOQ6V7) | [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Nueva Partida](https://open.spotify.com/artist/1phGBErM9y4sQEDZv2zORR) | [Bien EnRRedado](https://open.spotify.com/album/1iXDvhAunMV7qEEMFDzCvp) | 2:52 |
 | 45 | [Hombre de Rancho](https://open.spotify.com/track/59IyKRSgCwLyKS3e46TlYM) | [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv) | [Dolor y Amor](https://open.spotify.com/album/2E58qHF04PzKGW43soO0RT) | 2:35 |
-| 46 | [De Puntitas](https://open.spotify.com/track/5krlcKy4xFlCQbJ75rhNJ9) | [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv) | [Hay pa' Toro](https://open.spotify.com/album/1sFW62xlG5S3d5PrM0H7Cp) | 2:39 |
-| 47 | [El Zoológico \- En Vivo](https://open.spotify.com/track/4wykN4k8kWJeI37FjcjzeB) | [Alfredo Olivas](https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8), [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv) | [El Zoológico \(En Vivo\)](https://open.spotify.com/album/37RVFNtvyofJTE5Ui9YkFC) | 3:39 |
+| 46 | [El Zoológico \- En Vivo](https://open.spotify.com/track/4wykN4k8kWJeI37FjcjzeB) | [Alfredo Olivas](https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8), [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv) | [El Zoológico \(En Vivo\)](https://open.spotify.com/album/37RVFNtvyofJTE5Ui9YkFC) | 3:39 |
+| 47 | [De Puntitas](https://open.spotify.com/track/5krlcKy4xFlCQbJ75rhNJ9) | [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv) | [Hay pa' Toro](https://open.spotify.com/album/1sFW62xlG5S3d5PrM0H7Cp) | 2:39 |
 | 48 | [El Viejo del Monte](https://open.spotify.com/track/3yL05KM2udEL7lEKVw8pkm) | [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV), [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv) | [Como en los Viejos Tiempos](https://open.spotify.com/album/7kfuZtaN9zvpFhIIMZLvgI) | 3:09 |
 | 49 | [Los Inicios](https://open.spotify.com/track/05ySOTPwLvGKE6e1fz6EaY) | [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv) | [Los Inicios](https://open.spotify.com/album/2wZIWBfIpZXVDkdULrKFsI) | 2:32 |
 | 50 | [Apenas es Martes](https://open.spotify.com/track/56goS93EXFXZk4X6qPxJAt) | [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv), [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [Apenas es Martes](https://open.spotify.com/album/0aDQnxWeCKcTTmj2NcNBRx) | 3:36 |
 
-Snapshot ID: `Mjg1MTU2NjEsMDAwMDAwMDBhNzMyMGZmNzI0NGQwNzAxNDFhOWQyMGVjZmM5NmNkNw==`
+Snapshot ID: `Mjg1MTcwNzUsMDAwMDAwMDBkODE3NDY4YjI5OTdjYTk2OTc1MTZmZjlhZWY0N2FmZQ==`

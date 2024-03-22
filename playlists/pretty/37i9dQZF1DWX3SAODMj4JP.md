@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX3SAODMj4JP.md) - [plain]
 
 > Uma pausa no dia para tomar um chocolate quente e aproveitar seu momento com Deus.
 
-[Spotify](https://open.spotify.com/user/spotify) - 137,140 likes - 69 songs - 4 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 137,187 likes - 69 songs - 4 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,13 +19,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX3SAODMj4JP.md) - [plain]
 | 9 | [Se Eu Cair](https://open.spotify.com/track/70Cd7reM6PwvADdxqJfF5g) | [Eli Soares](https://open.spotify.com/artist/5zblJYkCzvB51Jh29FB07V) | [Se Eu Cair](https://open.spotify.com/album/7AP25ejchlZmcQOautJjQv) | 5:35 |
 | 10 | [Só Tenho a Ti](https://open.spotify.com/track/56qOzLVCi8D528rhdvVRqb) | [Leonardo Gonçalves](https://open.spotify.com/artist/6AyvSIi2EyLOaMJCc6J5fZ) | [Só Tenho a Ti](https://open.spotify.com/album/2c2UDN3jf4onnd4TfeqimJ) | 2:33 |
 | 11 | [Oceans \(Where Feet May Fail\)](https://open.spotify.com/track/1QUEVvbXjEYytdZLmO58uI) | [Analaga](https://open.spotify.com/artist/4LTPxLxjiT5pzYd5WZAR3v), [ANAVITÓRIA](https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe) | [Oceans \(Where Feet May Fail\)](https://open.spotify.com/album/4kRftqxEYbHFCsWIJ8qKSk) | 5:12 |
-| 12 | [Primeira Canção \(Música dos Passarinhos\)](https://open.spotify.com/track/0blRKZuaGlLtbdo2wgiIK1) | [Isadora Pompeo](https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB) | [Primeira Canção \(Música dos Passarinhos\)](https://open.spotify.com/album/1NTaQ9e3EITXP6z3KQSdpq) | 3:13 |
+| 12 | [Sua Paz](https://open.spotify.com/track/6V0fI11nicirapOakPVLO4) | [Isadora Pompeo](https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB) | [Sua Paz](https://open.spotify.com/album/1EtfVJ2AQkFGwIrRquN00y) | 3:25 |
 | 13 | [Além do Que Se Vê](https://open.spotify.com/track/0x8YDLkajRloMiTP8UO9uM) | [Pedro Valença](https://open.spotify.com/artist/2fBxIdkeMcxcjtBlPuWZl7), [Paula Schneider](https://open.spotify.com/artist/5Kt0ujNgqacGJGPZAsWwoS), [Ventania](https://open.spotify.com/artist/4ZgHby6oTRKwiGbf38dPs1) | [Além do Que Se Vê](https://open.spotify.com/album/4ysGU8xBKFVw1aB1kowUQ2) | 5:01 |
 | 14 | [Close to Me \- Acoustic](https://open.spotify.com/track/4UYzYk1EG7iP8PzL4seLRe) | [Isla Vista Worship](https://open.spotify.com/artist/6SPi7yJRY3SAhwhUlFFsNB), [John Jin Han](https://open.spotify.com/artist/5bUZA6A9fh1mx9APanxlbl), [Sarah Juers](https://open.spotify.com/artist/39mgk0y3gWDfKqHTAcc2LG) | [Carried](https://open.spotify.com/album/2ae612G873GaK4EoWE9pYw) | 5:52 |
 | 15 | [Aonde Está Deus?](https://open.spotify.com/track/3fkXc9AcNBPiwfWqis8xKF) | [Eli Soares](https://open.spotify.com/artist/5zblJYkCzvB51Jh29FB07V) | [360 Graus](https://open.spotify.com/album/6i9ALb6S9vy8OAjcbBjDwq) | 4:10 |
 | 16 | [Te Agradeço](https://open.spotify.com/track/4wKrEQFPjmTRGOcbXyidNW) | [Paulo Cesar Baruk](https://open.spotify.com/artist/0GQKmEguhkY8DCzH4NdJvD) | [Cânticos I](https://open.spotify.com/album/5o1ahJZADZVXGrAxVGlCJm) | 4:26 |
 | 17 | [Me Deixe Aqui](https://open.spotify.com/track/31j38rRemGuqA4z83EQduw) | [Weslei Santos](https://open.spotify.com/artist/4y6Ve3GJGW72qVUqalUvKi) | [Unplugged](https://open.spotify.com/album/7IvxPrVTnaP3iOqQQgsQ12) | 4:37 |
-| 18 | [Sua Paz](https://open.spotify.com/track/6V0fI11nicirapOakPVLO4) | [Isadora Pompeo](https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB) | [Sua Paz](https://open.spotify.com/album/1EtfVJ2AQkFGwIrRquN00y) | 3:25 |
+| 18 | [Primeira Canção \(Música dos Passarinhos\)](https://open.spotify.com/track/0blRKZuaGlLtbdo2wgiIK1) | [Isadora Pompeo](https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB) | [Primeira Canção \(Música dos Passarinhos\)](https://open.spotify.com/album/1NTaQ9e3EITXP6z3KQSdpq) | 3:13 |
 | 19 | [comigo](https://open.spotify.com/track/7eAm1mBCgg8iC9UIrxCe1U) | [Leonardo Gonçalves](https://open.spotify.com/artist/6AyvSIi2EyLOaMJCc6J5fZ), [Kemuel](https://open.spotify.com/artist/5GHeXsPtAVd0KLe1oMikxm) | [comigo](https://open.spotify.com/album/3fx98vrazoPSCNfiDtjQUn) | 4:53 |
 | 20 | [Reina](https://open.spotify.com/track/6Hwtp4JrwljQD3ASLDcA4c) | [Jeferson Pillar](https://open.spotify.com/artist/4vqAhxv4WcsEcTv34ABpcZ) | [Confissões](https://open.spotify.com/album/4oja7GXMksLfoATvA4TQhK) | 4:08 |
 | 21 | [Deserto](https://open.spotify.com/track/61fJbKeTzsoKwSgYEFjmsY) | [Os Arrais](https://open.spotify.com/artist/1Ja8qReIBoi7Z6ik0AQ6zS) | [Rastros e Trilha](https://open.spotify.com/album/6AQjmvg9tvK1584vkpNZeA) | 5:02 |
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX3SAODMj4JP.md) - [plain]
 | 24 | [Não Te Abandono](https://open.spotify.com/track/6xOUGzMIalXyo3ZzFsvXi1) | [Esdras Gondim](https://open.spotify.com/artist/52gUKkym63eZxX0y6plytb) | [Rotina](https://open.spotify.com/album/4siTEVwWS4Z0EbIytdcwPp) | 4:33 |
 | 25 | [Jesus At The Center \(Bonus Track\) \- Acoustic](https://open.spotify.com/track/6BVAORpU07NGdy016XTA6M) | [Julia Vitória](https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi), [Rachel Novaes](https://open.spotify.com/artist/6gU3EmyD7Jzv8QZtiMwGRn) | [Julia Vitória \- Acústico \(Ao Vivo\)](https://open.spotify.com/album/1nWfNDrH7U42YN7mcg96G8) | 4:56 |
 | 26 | [Meu Repouso](https://open.spotify.com/track/6cgavHjYBa1QWCTTC6d1Sn) | [Fabio Sampaio](https://open.spotify.com/artist/32grGWeFFc1cgsrGIV5j7N), [Discopraise](https://open.spotify.com/artist/3YX2DRQWYA1DpZC6R50JMe) | [Meu Repouso](https://open.spotify.com/album/7qpFHHhj9wl7nscVenR1dx) | 4:18 |
-| 27 | [Botas Velhas](https://open.spotify.com/track/2epzwYTWNv0KfGSiQs0com) | [Marcela Tais](https://open.spotify.com/artist/5gkNoT08CuWtH3NOwrdvrt) | [Não Sou Tão Forte](https://open.spotify.com/album/5WX3W1Ngb8WguxSkp2hWqv) | 3:55 |
-| 28 | [Deus sabe, Deus ouve, Deus vê](https://open.spotify.com/track/2Me9phCz0A7Oartexu3GiU) | [Leonardo Gonçalves](https://open.spotify.com/artist/6AyvSIi2EyLOaMJCc6J5fZ) | [sentido](https://open.spotify.com/album/4t1ekkA6FdPbdL7z7BzNRH) | 4:49 |
+| 27 | [Deus sabe, Deus ouve, Deus vê](https://open.spotify.com/track/2Me9phCz0A7Oartexu3GiU) | [Leonardo Gonçalves](https://open.spotify.com/artist/6AyvSIi2EyLOaMJCc6J5fZ) | [sentido](https://open.spotify.com/album/4t1ekkA6FdPbdL7z7BzNRH) | 4:49 |
+| 28 | [Botas Velhas](https://open.spotify.com/track/2epzwYTWNv0KfGSiQs0com) | [Marcela Tais](https://open.spotify.com/artist/5gkNoT08CuWtH3NOwrdvrt) | [Não Sou Tão Forte](https://open.spotify.com/album/5WX3W1Ngb8WguxSkp2hWqv) | 3:55 |
 | 29 | [Highs & Lows](https://open.spotify.com/track/0OZdYnV6S2qpd6rseK8Lpg) | [Hillsong Young & Free](https://open.spotify.com/artist/7m4gF38CPATtHrk5HS42WZ), [Aodhán King](https://open.spotify.com/artist/2EpEo5cgrVpjbLIVlwyyQf) | [III \(Studio Sessions\)](https://open.spotify.com/album/5lGAYuSF5A5x1BWeFG3r4z) | 5:52 |
 | 30 | [Cuide](https://open.spotify.com/track/0eiMgFRAe823eFAnqXLD35) | [Paulo Cesar Baruk](https://open.spotify.com/artist/0GQKmEguhkY8DCzH4NdJvD) | [Cuide](https://open.spotify.com/album/78ArfVJaIJCEe5Vvh1sCNt) | 3:05 |
 | 31 | [Intimidade](https://open.spotify.com/track/3ZLitoWeyPEH4qxUpyyKM0) | [Weslley Fonseca](https://open.spotify.com/artist/44tt6vxqg3vYCiTm8p8Rg9), [Vagner Dida](https://open.spotify.com/artist/2EpXG8Ya30dtA5znwtoxri) | [Intimidade](https://open.spotify.com/album/6gy3kuEBrBSBckXix84X2H) | 3:21 |
@@ -78,4 +78,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX3SAODMj4JP.md) - [plain]
 | 68 | [Visita](https://open.spotify.com/track/657aCgepX1HRKoCNbFHWh6) | [Ana Tristão](https://open.spotify.com/artist/04sHHdilT7bBAzYRTtKLKC) | [Visita](https://open.spotify.com/album/78wHMwGlGTHNL70AxQYZGr) | 4:47 |
 | 69 | [Coração de Aprendiz](https://open.spotify.com/track/5Ua31J3jzDmyO9rP2FhtNy) | [Gabro](https://open.spotify.com/artist/3b1deiZvxBYGrkhWTIVddw) | [Coração de Aprendiz](https://open.spotify.com/album/7allOTOpfqAFglSPhZNnCz) | 5:03 |
 
-Snapshot ID: `MCwyNjMxMTE4Y2E3OTFhMTMwMzg2YmU5Y2RmY2Q3NjllMWQzNzcxNmUw`
+Snapshot ID: `MCw2MTkwMzk5NmMxMGUxZDMwNzFhZGU3NjIwNjZlNDljMWRhNzJmYzI5`

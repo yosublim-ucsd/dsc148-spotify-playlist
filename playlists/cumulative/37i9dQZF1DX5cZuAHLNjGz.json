@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "Ultimate 101 Punjabi Hits with AP Dhillon & Shinda Kahlon",
+  "description": "Ultimate 101 Punjabi Hits with Diljit and Saweetie",
   "name": "Punjabi 101",
   "tracks": [
     {
@@ -2354,7 +2354,7 @@
       ],
       "date_added": "2024-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-22",
       "duration_ms": 208000,
       "name": "Haye Booh (From \"Jatt Nuu Chudail Takri\")",
       "url": "https://open.spotify.com/track/1sQTJAbESfaXri4dZBVgjP"
@@ -3058,6 +3058,28 @@
       "duration_ms": 157590,
       "name": "Khadaak",
       "url": "https://open.spotify.com/track/2l4WWoL2e7XL77hT3r4iee"
+    },
+    {
+      "album": {
+        "name": "Khutti",
+        "url": "https://open.spotify.com/album/0ISqysl9naGSplhk71vv4Z"
+      },
+      "artists": [
+        {
+          "name": "Diljit Dosanjh",
+          "url": "https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR"
+        },
+        {
+          "name": "Saweetie",
+          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
+        }
+      ],
+      "date_added": "2024-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132771,
+      "name": "Khutti",
+      "url": "https://open.spotify.com/track/3Jd1yxcUQLdfBJcsxFtYzj"
     },
     {
       "album": {

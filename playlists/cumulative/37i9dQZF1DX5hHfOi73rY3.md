@@ -4,7 +4,7 @@
 
 > Dance anthems from the club to your ears!
 
-173 songs - 12 hr 45 min
+174 songs - 12 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,7 +48,7 @@
 | [Desire](https://open.spotify.com/track/4CkvJVwIkrV19o6O55p8Ku) | [Chris Stussy](https://open.spotify.com/artist/3BxjasMelf9pKaE4f7Y0So) | [Desire](https://open.spotify.com/album/0pCLaw5HAkjxcxq4ebcdrY) | 2:51 | 2024-03-01 |  |
 | [Don't Give Up \(On Love\) \- Radio Edit](https://open.spotify.com/track/510dajaNLOHBE2F8ozAdzn) | [Blinkie](https://open.spotify.com/artist/0nJcDqY6ox4kHB92AuRA8j) | [Don't Give Up \(On Love\) \[Radio Edit\]](https://open.spotify.com/album/0RPdEPXWKThpkqBvyTAkDR) | 3:07 | 2020-11-06 | 2022-07-29 |
 | [Don't Go \- Dusky Remix](https://open.spotify.com/track/7tR8aX292Bvop3yIM1EAiy) | [Justin Martin](https://open.spotify.com/artist/4FN8WHqUbwkd97WEjoCu7B) | [Ghettos & Gardens Remixes](https://open.spotify.com/album/6nvWsEug3D5U126QJWnu1k) | 6:30 | 2020-11-06 | 2022-07-29 |
-| [Feels So Good](https://open.spotify.com/track/2u6BTFqxoiC6jigy7EPmXv) | [Arielle Free](https://open.spotify.com/artist/3hHvAP73aCKQMbcn2SQZ9d) | [Feels So Good](https://open.spotify.com/album/3AurHVibrDLc1qUWKoS2nO) | 3:39 | 2024-01-26 |  |
+| [Feels So Good](https://open.spotify.com/track/2u6BTFqxoiC6jigy7EPmXv) | [Arielle Free](https://open.spotify.com/artist/3hHvAP73aCKQMbcn2SQZ9d) | [Feels So Good](https://open.spotify.com/album/3AurHVibrDLc1qUWKoS2nO) | 3:39 | 2024-01-26 | 2024-03-22 |
 | [Final Credits](https://open.spotify.com/track/5gC2aJwuSzGe3IJVlk9r2O) | [Midland](https://open.spotify.com/artist/1YFLNH4rO40x9i16RpLwdY) | [Final Credits](https://open.spotify.com/album/4DR47uL0VrENkV4fuTMdOE) | 7:19 | 2020-11-06 |  |
 | [Finder](https://open.spotify.com/track/2DNO2h1Qsc0vPAyLGReDvN) | [Ninetoes](https://open.spotify.com/artist/5MP4PiGA5PNFrsVjtauFnC) | [Finder](https://open.spotify.com/album/11fQed1lTippkC0Emeah41) | 5:49 | 2020-11-06 | 2024-01-18 |
 | [Finder \- Original](https://open.spotify.com/track/2urGLvUk2UxfGZ7oFxQmuN) | [Ninetoes](https://open.spotify.com/artist/5MP4PiGA5PNFrsVjtauFnC) | [Finder](https://open.spotify.com/album/1ubRC7bEVKoI7sD5mqXrFs) | 5:49 | 2020-11-06 | 2022-07-29 |
@@ -106,6 +106,7 @@
 | [Make It Hot](https://open.spotify.com/track/6pdgjp4LLvSPXGPOLRN9oo) | [Kastelo](https://open.spotify.com/artist/2KmU3cHtzAMUFFEQPHF8ON), [JOSÉPHINE](https://open.spotify.com/artist/12pfYeZ791ghFuc59SZOf7) | [Make It Hot](https://open.spotify.com/album/6jbtfprot9CSfANCq9R0Eq) | 2:57 | 2024-02-02 |  |
 | [More Baby](https://open.spotify.com/track/02QE4LsAj7DBjMRxolGE8a) | [Chris Lake](https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE), [Aluna](https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE) | [More Baby](https://open.spotify.com/album/1Pei7Y5MNZQvfkDWds5EWa) | 2:55 | 2024-03-01 |  |
 | [More Than Me](https://open.spotify.com/track/20ieXcjQBv4ePXkWxhvKPV) | [Eliphino](https://open.spotify.com/artist/7xqnFwk6ZueWJ1IA8gsEWM) | [More Than Me](https://open.spotify.com/album/6YTxgb9rMiCvShgFH3gRHG) | 7:01 | 2020-11-06 | 2022-06-27 |
+| [My Body \(feat\. Y&M\)](https://open.spotify.com/track/2SrEtVmJxuhLTshjg6tYpZ) | [illusionize](https://open.spotify.com/artist/3RloA7E4XMItSP4FjMBv3L), [Y&M](https://open.spotify.com/artist/4kBQMGA0POEYcQHxWMaf7Q) | [My Body \(feat\. Y&M\)](https://open.spotify.com/album/4BsjnI1ksUfBQbOZXXL0PL) | 2:40 | 2024-03-01 |  |
 | [My Head Is A Jungle](https://open.spotify.com/track/2aoShPqc0QRhzDVrNoKB1h) | [sysx1337](https://open.spotify.com/artist/7o1sl0E7S8pf7E8YETeBZD), [Shamoryo](https://open.spotify.com/artist/5ypoEsxvCfwoM8dWqpRQhq) | [My Head Is A Jungle](https://open.spotify.com/album/4vm22Z5zpdFdcn3E1AxC9f) | 3:26 | 2020-11-06 | 2023-05-23 |
 | [My Head Is A Jungle \(MK Remix\)](https://open.spotify.com/track/0BqGOXOlhbxZ0qEDTEEYjG) | [xSyborg](https://open.spotify.com/artist/1WAbp7edewKZGadOCmhlJg) | [My Head Is A Jungle \(MK Remix\)](https://open.spotify.com/album/7C15SGQEeYhm2EN05O9KBU) | 3:25 | 2020-11-06 | 2023-06-29 |
 | [My Head Is a Jungle \- MK Remix](https://open.spotify.com/track/3vKDUus5dTKs4w8goLFbXs) | [Shawkie](https://open.spotify.com/artist/3ZvGfQARM0fy65J41kZqOy), [lizardlovesme](https://open.spotify.com/artist/7GSKSelxJPhrZ7DJ0Zb6Cv) | [My Head Is a Jungle](https://open.spotify.com/album/7LZrOVls554bqUDQvzCU4z) | 3:26 | 2020-11-06 | 2023-11-16 |

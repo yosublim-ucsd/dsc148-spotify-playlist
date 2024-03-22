@@ -4,7 +4,7 @@
 
 > Come alive with this progressive & melodic house selection.
 
-140 songs - 10 hr 28 min
+141 songs - 10 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,6 +14,7 @@
 | [Ajna](https://open.spotify.com/track/47LoiZrIMuYU7j7WSb0FPM) | [Pablo German](https://open.spotify.com/artist/59iNfxvuT7GvtFltEbs9iS) | [Ajna / Organism](https://open.spotify.com/album/5znS9PDg94ojUXsj80UriT) | 7:37 | 2022-01-14 | 2022-11-26 |
 | [Alkantara](https://open.spotify.com/track/4UnF7mAMF48oueqqhSLrai) | [Bottai](https://open.spotify.com/artist/2wghI3P3W8vxgsb0le3Fgk) | [Alkantara](https://open.spotify.com/album/208tzedbu4E8jrZp9dfsZo) | 3:36 | 2022-01-14 |  |
 | [All We Have Is Now](https://open.spotify.com/track/2mE3NVgBQcuHgaKVa8rybJ) | [Just Her](https://open.spotify.com/artist/6SI2JOqTJwLVX63w28PxoL) | [All We Have Is Now / Stay The Same](https://open.spotify.com/album/72TTK8jGMZmOtlOILk41ny) | 4:12 | 2022-01-14 | 2024-03-17 |
+| [Always](https://open.spotify.com/track/0QEt8M7MzkUDdBWIML1cqE) | [Ross Quinn](https://open.spotify.com/artist/7zaRAbRhvbrGObP8CjdTsr) | [Always](https://open.spotify.com/album/1ZU8ySmsetup6DAWpGdOQ8) | 3:04 | 2024-03-15 |  |
 | [Another Riff For The Good Times](https://open.spotify.com/track/2nfHtKszA0Ae7vQJXbARp7) | [Yotto](https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo) | [Another Riff For The Good Times / Daydreaming](https://open.spotify.com/album/4ACy5ync0g9C1cgphs8YMG) | 3:48 | 2022-01-14 |  |
 | [Aquatic](https://open.spotify.com/track/4PJaGVVVYNSN9EZJmMLtfK) | [Nora En Pure](https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs) | [Aquatic](https://open.spotify.com/album/1sXUPeXG3bo3norKvF2nJx) | 3:46 | 2022-01-14 |  |
 | [Ascendance](https://open.spotify.com/track/3oGT77L9qz72A5AjRlfqSh) | [Eynka](https://open.spotify.com/artist/0yG65Hobg0EEGfxqfFq4Jg) | [Ascendance / Give It Up](https://open.spotify.com/album/11nOsnCqKzMWEZ0fUeEyCd) | 3:50 | 2022-01-14 | 2024-03-15 |
@@ -69,7 +70,7 @@
 | [Ice Moon](https://open.spotify.com/track/1Vv4jqn3EZZw0BThJqjhJD) | [LSR/CITY](https://open.spotify.com/artist/0YQ22xAzgefaKw8vKCAEp2), [Gareth Emery](https://open.spotify.com/artist/0hprEC0nsWuQPSHag1O2Vi), [Annabel](https://open.spotify.com/artist/4zR2t8bagib4ozydVgb93l) | [Ice Moon](https://open.spotify.com/album/4ZFwY8augL822xcvrf0LL2) | 2:34 | 2024-02-23 |  |
 | [In Your Arms](https://open.spotify.com/track/7lLuAZCes4jKORs3ak8xZP) | [ARTBAT](https://open.spotify.com/artist/3BkRu2TGd2I1uBxZKddfg1), [Another Life](https://open.spotify.com/artist/7fMAxXqd5hhcwbC1d0VkLQ), [CAY \(DE\)](https://open.spotify.com/artist/2ug2jpxDeOgYfYleeYzg2K) | [In Your Arms](https://open.spotify.com/album/0KIJ5H16buFOBL0vNpmSsi) | 5:33 | 2024-02-02 |  |
 | [Influence \- Edit](https://open.spotify.com/track/1zPRy3M77zRP9nqxULP04s) | [Joe Turner](https://open.spotify.com/artist/6mWRj2iXabH0pqlYnqYMup) | [Influence](https://open.spotify.com/album/7d3X4vmORcxsVK9Hq3dJ0o) | 4:19 | 2022-01-14 | 2024-02-02 |
-| [JOI](https://open.spotify.com/track/6X6KFGk20iV8XwxoCDt2N4) | [MAGNUS](https://open.spotify.com/artist/4pOglqMAavrWFo20ORRx5w) | [JOI](https://open.spotify.com/album/7cd8ra3w8pF0z6Qluw7ukv) | 3:52 | 2024-03-01 |  |
+| [JOI](https://open.spotify.com/track/6X6KFGk20iV8XwxoCDt2N4) | [MAGNUS](https://open.spotify.com/artist/4pOglqMAavrWFo20ORRx5w) | [JOI](https://open.spotify.com/album/7cd8ra3w8pF0z6Qluw7ukv) | 3:52 | 2024-03-01 | 2024-03-22 |
 | [Just To Hear You Say](https://open.spotify.com/track/1bqLz6dF5MhBZkZO5QSf4N) | [Tinlicker](https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza) | [Just To Hear You Say](https://open.spotify.com/album/4E8mL0pF0wa8wqQrShYVXQ) | 3:32 | 2022-01-14 | 2022-07-29 |
 | [Just To Hear You Say](https://open.spotify.com/track/1SJsKYhiDRLLddBnGzGgbW) | [Tinlicker](https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza) | [Just To Hear You Say](https://open.spotify.com/album/7MxJMLEo4D1Jej3TYPPG95) | 3:33 | 2022-01-14 | 2022-11-14 |
 | [Just To Hear You Say](https://open.spotify.com/track/66F2eP3BZWCmQiycL0trAs) | [Tinlicker](https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza) | [In Another Lifetime](https://open.spotify.com/album/5YbDMcXp70ko2WzPFA7WEb) | 3:33 | 2022-01-14 |  |

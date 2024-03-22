@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdmMcgFhLQ8u.md) - [plain]
 
 > These country songs know exactly how you feel.
 
-[Spotify](https://open.spotify.com/user/spotify) - 184,022 likes - 75 songs - 4 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 184,024 likes - 75 songs - 4 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,8 +58,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdmMcgFhLQ8u.md) - [plain]
 | 48 | [Mercy](https://open.spotify.com/track/2VIPU72L6tIR4w8J8ap6Kp) | [Brett Young](https://open.spotify.com/artist/0fiWOxhsBsQQvFDtxUQWo0) | [Brett Young](https://open.spotify.com/album/6MTPPsqX8KnmDWmnQmbxJ5) | 3:37 |
 | 49 | [Either Way](https://open.spotify.com/track/6Wo5YxkdXgwzKQZbDg2r17) | [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [From A Room: Volume 1](https://open.spotify.com/album/5L0e8X6Mf9lfjs2miK2WUB) | 4:08 |
 | 50 | [Over For You](https://open.spotify.com/track/09igKkkm150rRZIxu1gjh3) | [Morgan Evans](https://open.spotify.com/artist/6fzQ81ouajOEFqCIB9VwrS) | [Life Upside Down EP](https://open.spotify.com/album/21bX9HbO7Hp29Hb35xuOmr) | 3:05 |
-| 51 | [Think of You](https://open.spotify.com/track/6W9W8dSswA8KNegvl3W97V) | [Chris Young](https://open.spotify.com/artist/4BYxqVkZyFjtik7crYLg5Q), [Cassadee Pope](https://open.spotify.com/artist/7ahuvq1mbb4idwG1iJbSFG) | [I'm Comin' Over](https://open.spotify.com/album/7IOSachS7KZNuqRZrPcdD0) | 3:38 |
-| 52 | [Grew Apart](https://open.spotify.com/track/73aofsDvxQznhWLfgQ5gBz) | [Logan Mize](https://open.spotify.com/artist/7tje8UB3cuR1ZfeJx2U38T), [Donovan Woods](https://open.spotify.com/artist/4SOtk3HtPYKqxnVuxNBMti) | [Still That Kid](https://open.spotify.com/album/6f2fSCVZvFScRgppc1MTVv) | 2:49 |
+| 51 | [Grew Apart](https://open.spotify.com/track/73aofsDvxQznhWLfgQ5gBz) | [Logan Mize](https://open.spotify.com/artist/7tje8UB3cuR1ZfeJx2U38T), [Donovan Woods](https://open.spotify.com/artist/4SOtk3HtPYKqxnVuxNBMti) | [Still That Kid](https://open.spotify.com/album/6f2fSCVZvFScRgppc1MTVv) | 2:49 |
+| 52 | [Think of You](https://open.spotify.com/track/6W9W8dSswA8KNegvl3W97V) | [Chris Young](https://open.spotify.com/artist/4BYxqVkZyFjtik7crYLg5Q), [Cassadee Pope](https://open.spotify.com/artist/7ahuvq1mbb4idwG1iJbSFG) | [I'm Comin' Over](https://open.spotify.com/album/7IOSachS7KZNuqRZrPcdD0) | 3:38 |
 | 53 | [Matching Tattoos](https://open.spotify.com/track/6Q0oVfhe6qYiwv6VNHhEAd) | [Josh Ross](https://open.spotify.com/artist/1ZGTSMjK1D2HrpPTOh916U) | [Matching Tattoos](https://open.spotify.com/album/1mlkMoZYsAX8tvNnodHDFC) | 3:00 |
 | 54 | [Pretty Heart](https://open.spotify.com/track/6vC90OOjZR165Hw8CpsqEm) | [Parker McCollum](https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ) | [Pretty Heart](https://open.spotify.com/album/0S1UncFoVie2V0HKsf0G1u) | 4:04 |
 | 55 | [Record High](https://open.spotify.com/track/7KTouudlySEWXOWHAuFAFv) | [Dylan Marlowe](https://open.spotify.com/artist/0ZZLr8EH3aNFzYpXtaTIax) | [Record High](https://open.spotify.com/album/7sbj8haNKScqrV1B4Q4EGY) | 3:28 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdmMcgFhLQ8u.md) - [plain]
 | 74 | [When I Call Your Name](https://open.spotify.com/track/5g12xHasIIOu6rNGQ933qT) | [Vince Gill](https://open.spotify.com/artist/3IhWQSrLj8EJjdvjFTpCyo) | [When I Call Your Name](https://open.spotify.com/album/0jFNLoCH4SxUlCX7DwCauK) | 4:15 |
 | 75 | [Tin Man](https://open.spotify.com/track/4ckQIgBy1gVeevf7UAereE) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [The Weight of These Wings](https://open.spotify.com/album/563h536tB6n8Dn62jr4RZG) | 4:19 |
 
-Snapshot ID: `MCwyYTliYzJhM2NjYzEwMWI4ZTM4NjdhMzFkMTM3ZTY5MWFkY2ExODNh`
+Snapshot ID: `MCw2NzdmMmYwZDY1NzkxZjU0NmEzYjI2NTA5ZmY0MDIzYjE5NTk5NTg1`

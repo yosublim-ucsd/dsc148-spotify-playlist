@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZQ9qjpEt3QA.md) - [plain]
 
 > Cruising through a shimmering night with the current City Pop wave from Asia.
 
-[Spotify](https://open.spotify.com/user/spotify) - 74,574 likes - 93 songs - 6 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 74,592 likes - 93 songs - 6 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -102,4 +102,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZQ9qjpEt3QA.md) - [plain]
 | 92 | [LAVLA](https://open.spotify.com/track/5RiDkhVXWyMlh51wSGV8tU) | [Kisnue](https://open.spotify.com/artist/64A4Dn0L0xf7GTreuOgJ1F) | [LAYERS](https://open.spotify.com/album/1DS9Xblo2wodlneXD9nXYw) | 3:58 |
 | 93 | [The One](https://open.spotify.com/track/3ToRoy9OQHoiz662kJvTTu) | [Purples n' Oranges](https://open.spotify.com/artist/2TmqQRA5s51zD2C4zbiqPq) | [The One](https://open.spotify.com/album/1mHIev96eFTEdby7dAoT67) | 5:18 |
 
-Snapshot ID: `MCxjMDYxZDZjOWMzMzFhNGU1MmU2MzE4NmNkNDExYWFiZWJiY2JhM2Jj`
+Snapshot ID: `MCw3OWVmMzE4M2NhMWRkMWM4ZTAyNDNiZTU2OThlMDc2Y2JiZGQ0Mjk5`

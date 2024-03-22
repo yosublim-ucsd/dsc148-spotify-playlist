@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:2xeHjPrS4EnEUIXHV9pkeg">Monika Kruse</a>'s favorite tracks\. Updated regularly\. Curated by Monika Kruse\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-235 songs - 22 hr 15 min
+236 songs - 22 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,7 +65,8 @@
 | [Dopemine](https://open.spotify.com/track/1DHpTZqedmXOahLu8HFHxT) | [Alex Stein](https://open.spotify.com/artist/0SCFEgshN89tlgOPM7lbSB) | [Tunnel Vision](https://open.spotify.com/album/6lYFoDZ0TmSSSuwLDtmfI2) | 6:10 | 2023-10-13 | 2024-01-13 |
 | [Drop It Down](https://open.spotify.com/track/6euR4VW88wRwG6TTXI8YEE) | [Eli Brown](https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU), [Joyhauser](https://open.spotify.com/artist/59a1Bp0JQfL2mGnpL0lW2Y) | [Drop It Down](https://open.spotify.com/album/7u26VusojvClzoCafHyzcV) | 3:26 | 2024-01-05 |  |
 | [Electrico \- Original Mix](https://open.spotify.com/track/1UWFw0IMm6Bk2yKlr0O7om) | [Hollen](https://open.spotify.com/artist/3XyhZgjNCOB4onNVrbtYiB) | [Feel Alive](https://open.spotify.com/album/57Y3qJExpm9QqxeYWypZKG) | 7:01 | 2024-01-05 |  |
-| [Electronic Nation](https://open.spotify.com/track/1WEitCqIgzrVf8OihEcyui) | [Timmo](https://open.spotify.com/artist/32LzV8uY2Zf8Nda9Rvjx5U) | [Electronic Nation](https://open.spotify.com/album/5XzGMGwBTck7m0adlXShoU) | 2:52 | 2023-12-21 |  |
+| [Electronic Nation](https://open.spotify.com/track/1WEitCqIgzrVf8OihEcyui) | [Timmo](https://open.spotify.com/artist/32LzV8uY2Zf8Nda9Rvjx5U) | [Electronic Nation](https://open.spotify.com/album/5XzGMGwBTck7m0adlXShoU) | 2:52 | 2023-12-21 | 2024-03-22 |
+| [Electronic Nation](https://open.spotify.com/track/5ORCkWiEMf8YPRbO2AIWvi) | [Timmo](https://open.spotify.com/artist/32LzV8uY2Zf8Nda9Rvjx5U) | [Electronic Nation](https://open.spotify.com/album/7DZjoYCYPuTNXwzYsZpQHT) | 2:52 | 2024-03-01 |  |
 | [Embodied](https://open.spotify.com/track/7fHzuPcwP0U25WlqpLLgl1) | [Pleasurekraft](https://open.spotify.com/artist/4ipS3ZbqP46bs124yqp9N4) | [Embodied](https://open.spotify.com/album/3YZWZ2ddtjq4e5LZeBH55G) | 6:40 | 2023-12-01 | 2024-01-13 |
 | [Everything Collapses](https://open.spotify.com/track/7mjjSmrYqxucbk6W98tcE0) | [Ellen Allien](https://open.spotify.com/artist/5lsC3H1vh9YSRQckyGv0Up), [Ash Code](https://open.spotify.com/artist/5RgEBlZV41hfY0KgUDiQvy) | [Everything Collapses](https://open.spotify.com/album/564l8RYKO06QPnjdfYplq0) | 5:05 | 2023-08-25 | 2023-12-22 |
 | [Evolution of Thinking](https://open.spotify.com/track/3fBCeomup3asoDT42KGrqh) | [Juliet Fox](https://open.spotify.com/artist/7zH0EpzFgwmwpnEprtvDig) | [Evolution of Thinking](https://open.spotify.com/album/7fXIiPsggzRUwdJY1bcXwf) | 3:42 | 2023-07-14 | 2023-09-16 |

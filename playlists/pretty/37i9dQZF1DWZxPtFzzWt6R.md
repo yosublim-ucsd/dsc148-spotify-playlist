@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZxPtFzzWt6R.md) - [plain]
 
 > A palavra de Jesus embalada pelo ritmo sertanejo\. Foto: Canção & Louvor
 
-[Spotify](https://open.spotify.com/user/spotify) - 80,156 likes - 60 songs - 3 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 80,197 likes - 60 songs - 3 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,8 +13,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZxPtFzzWt6R.md) - [plain]
 | 3 | [Agradeço](https://open.spotify.com/track/6XFZxwJ5TNZY4TdAfx1v55) | [AgroPraise](https://open.spotify.com/artist/7mVNWttEDAHygePBeERPSA), [AgroPlay](https://open.spotify.com/artist/0uGWkZRPp1Urk77XBrPBsZ), [Ana Castela](https://open.spotify.com/artist/2CKOmarVWvWqkNWUatHCex) | [Agradeço](https://open.spotify.com/album/5W23bwhWkoCoQ21uyYMel3) | 3:41 |
 | 4 | [Que Vença o Amor](https://open.spotify.com/track/5sF78pP6esVqbBuPErwTbs) | [Gerson Rufino](https://open.spotify.com/artist/0y9kZHlHvgvMQDcFAQJziR) | [Bachata \(Edição Histórica\)](https://open.spotify.com/album/5b9IHZfxjdXpLPjVW2kb6o) | 4:02 |
 | 5 | [O Melhor de Deus](https://open.spotify.com/track/1plQG6oEC5ms13F0q7f3Qi) | [Adriana Aguiar](https://open.spotify.com/artist/7tWTmA4Jd9L4JKLSebzvv6) | [O Melhor de Deus](https://open.spotify.com/album/23PXhFtedksJjfqR2zKDf5) | 2:36 |
-| 6 | [Meu Barquinho \- Ao Vivo](https://open.spotify.com/track/3zE6VnZ7RuUNiftqoi51eg) | [Nani Azevedo](https://open.spotify.com/artist/4cQ6a3aHARZkZb8ZwqwInF) | [Meu Barquinho](https://open.spotify.com/album/3jpOEOizUzsvAkVNdmnF86) | 3:15 |
-| 7 | [Amor a Primeira Vista](https://open.spotify.com/track/6MQJbYP33tPZTNRS0HGpLD) | [Misaias Oliveira](https://open.spotify.com/artist/0nQgkrgwYvnmvP4UihHaQt) | [Amor a Primeira Vista](https://open.spotify.com/album/4NO7NULKB78wlMBQJJxh9N) | 2:57 |
+| 6 | [Amor a Primeira Vista](https://open.spotify.com/track/6MQJbYP33tPZTNRS0HGpLD) | [Misaias Oliveira](https://open.spotify.com/artist/0nQgkrgwYvnmvP4UihHaQt) | [Amor a Primeira Vista](https://open.spotify.com/album/4NO7NULKB78wlMBQJJxh9N) | 2:57 |
+| 7 | [Meu Barquinho \- Ao Vivo](https://open.spotify.com/track/3zE6VnZ7RuUNiftqoi51eg) | [Nani Azevedo](https://open.spotify.com/artist/4cQ6a3aHARZkZb8ZwqwInF) | [Meu Barquinho](https://open.spotify.com/album/3jpOEOizUzsvAkVNdmnF86) | 3:15 |
 | 8 | [Estações](https://open.spotify.com/track/2RIq8jJy01rwLYXTGuVILo) | [Jessé Aguiar](https://open.spotify.com/artist/0g4xsygciHCrujQzdXUudC), [Misaias Oliveira](https://open.spotify.com/artist/0nQgkrgwYvnmvP4UihHaQt) | [Estações](https://open.spotify.com/album/7ax1cHCKMLx4fbCpKHrNa2) | 2:47 |
 | 9 | [Tô Preparado](https://open.spotify.com/track/1nQ4jgCNZ6Vj6XUCLjK1Q1) | [DJ PV](https://open.spotify.com/artist/6jdJKaM0mCqZzbUgeO5e0j), [André e Felipe](https://open.spotify.com/artist/5QQUuUIP9gjrkI8amLfIlb) | [Tô Preparado](https://open.spotify.com/album/05veWAkEESHkjO3mwiEqB2) | 3:09 |
 | 10 | [Eu Não Tô Preocupado \- Ao Vivo](https://open.spotify.com/track/4HBJMXQr6mX2ZUEAypYq8Z) | [André e Felipe](https://open.spotify.com/artist/5QQUuUIP9gjrkI8amLfIlb) | [Eu Não Tô Preocupado \(Ao Vivo\)](https://open.spotify.com/album/68n4VyPUNp3TriuskJUUnx) | 2:31 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZxPtFzzWt6R.md) - [plain]
 | 59 | [Além da Medicina](https://open.spotify.com/track/3M5XPQrRi1IDPnR7aEPtUw) | [Marcos e Matteus](https://open.spotify.com/artist/0SPTYP6l3GrISOfDc8tmX4) | [Além da Medicina](https://open.spotify.com/album/4CU6JZnVCUPvq8iYHCNjED) | 4:46 |
 | 60 | [Quem Foi Que Me Tocou](https://open.spotify.com/track/0FgEqIM4SYwjvCbdIzQU04) | [Marcos e Matteus](https://open.spotify.com/artist/0SPTYP6l3GrISOfDc8tmX4) | [Quem Foi Que Me Tocou](https://open.spotify.com/album/7f6cChSO1EpHAlmEZLXbRX) | 4:41 |
 
-Snapshot ID: `MCwxMWY5ZWQ4MWQ3NWFmZDliMmVkOWEyYzQyODcyYjA0YTJhMWIzZjQ5`
+Snapshot ID: `MCwwZjYzMzBkOWRiMDVlZjFhMjExM2VmNjlmYzU2NDUxNjBmZWNjY2Rj`

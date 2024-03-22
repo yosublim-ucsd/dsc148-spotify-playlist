@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3rgIhQ2x809.md) - [plain]
 
 > De la isla, pa' el mundo! Representando la cultura con orgullo\. Cover: Christian Alicea
 
-[Spotify](https://open.spotify.com/user/spotify) - 70,699 likes - 100 songs - 5 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 70,701 likes - 100 songs - 5 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,10 +74,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3rgIhQ2x809.md) - [plain]
 | 64 | [Te La Dedico](https://open.spotify.com/track/6z3IrUfL5HxmpH0Xt84Es8) | [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g) | [Te La Dedico](https://open.spotify.com/album/7KGERR76ARYMU0z9AO1Z3Y) | 3:51 |
 | 65 | [Palestina](https://open.spotify.com/track/4MFjw5MqTZTiX3iOAk4mAA) | [Oken](https://open.spotify.com/artist/6paE2t0If1wcufBS2OE0b3), [Hades66](https://open.spotify.com/artist/4CQdcx66F116k2db2Y0rjE), [Anubiis](https://open.spotify.com/artist/5X8Uu9qHN3KXLH2Fws87LB), [Castiel](https://open.spotify.com/artist/6qi0AljxDOa1MnO8rv4dK2) | [UNBROKEN](https://open.spotify.com/album/1rncm29FDkVNHn4je7YEln) | 3:54 |
 | 66 | [Toma](https://open.spotify.com/track/48iWXYdWMFNenABULLtopW) | [Ivy Queen](https://open.spotify.com/artist/6p2442ymrT9lZEuCZJdYcH) | [Toma](https://open.spotify.com/album/4cbxkM3zQSH8nGm9KQaIwF) | 2:42 |
-| 67 | [Soy Lebron](https://open.spotify.com/track/6bxRCBZ90jOnYQVmn9OvdF) | [Casper Magico](https://open.spotify.com/artist/1fux65HMCBvfJHqlBc4Nno) | [Soy Lebron](https://open.spotify.com/album/3LZxX3I05uI0BOyUtTwYFi) | 2:29 |
-| 68 | [TRAPPHONE](https://open.spotify.com/track/3l6eaGBtFFZVmxXUyO9Lze) | [Anubiis](https://open.spotify.com/artist/5X8Uu9qHN3KXLH2Fws87LB) | [TRAPPHONE](https://open.spotify.com/album/2r8t3xBrocshJ1XeFOZLvk) | 1:47 |
-| 69 | [Ronca](https://open.spotify.com/track/5J0FhGzHv6QjlZTJfZffHb) | [Lunay](https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE) | [Ronca](https://open.spotify.com/album/7DdUS4g3GA2LegRovzMmPw) | 2:25 |
-| 70 | [19 Crema](https://open.spotify.com/track/3Toeb72Jvw4o5duxvPwYJP) | [Freestyle Mania](https://open.spotify.com/artist/0bK53vxFcHrFiBJuZqZ4xp), [Hades66](https://open.spotify.com/artist/4CQdcx66F116k2db2Y0rjE), [Cepeda](https://open.spotify.com/artist/2E9hwPtyTPDffPQ3l3rCj3), [Chen](https://open.spotify.com/artist/7yrMw8g7TuUeLmDdAfQO1y), [Lil Cotto](https://open.spotify.com/artist/08WpFnxalBUyWvMNWKErwc) | [19 Crema](https://open.spotify.com/album/69lwdO2wfRE7UICTvC2nC6) | 4:06 |
+| 67 | [TRAPPHONE](https://open.spotify.com/track/3l6eaGBtFFZVmxXUyO9Lze) | [Anubiis](https://open.spotify.com/artist/5X8Uu9qHN3KXLH2Fws87LB) | [TRAPPHONE](https://open.spotify.com/album/2r8t3xBrocshJ1XeFOZLvk) | 1:47 |
+| 68 | [19 Crema](https://open.spotify.com/track/3Toeb72Jvw4o5duxvPwYJP) | [Freestyle Mania](https://open.spotify.com/artist/0bK53vxFcHrFiBJuZqZ4xp), [Hades66](https://open.spotify.com/artist/4CQdcx66F116k2db2Y0rjE), [Cepeda](https://open.spotify.com/artist/2E9hwPtyTPDffPQ3l3rCj3), [Chen](https://open.spotify.com/artist/7yrMw8g7TuUeLmDdAfQO1y), [Lil Cotto](https://open.spotify.com/artist/08WpFnxalBUyWvMNWKErwc) | [19 Crema](https://open.spotify.com/album/69lwdO2wfRE7UICTvC2nC6) | 4:06 |
+| 69 | [Soy Lebron](https://open.spotify.com/track/6bxRCBZ90jOnYQVmn9OvdF) | [Casper Magico](https://open.spotify.com/artist/1fux65HMCBvfJHqlBc4Nno) | [Soy Lebron](https://open.spotify.com/album/3LZxX3I05uI0BOyUtTwYFi) | 2:29 |
+| 70 | [Ronca](https://open.spotify.com/track/5J0FhGzHv6QjlZTJfZffHb) | [Lunay](https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE) | [Ronca](https://open.spotify.com/album/7DdUS4g3GA2LegRovzMmPw) | 2:25 |
 | 71 | [Orgullo](https://open.spotify.com/track/1rWfFeGXyCsfpsWq5dz94Y) | [Ken\-Y](https://open.spotify.com/artist/4DYFVNKZ1uixa6SQTvzQwJ), [R.K.M & Ken\-Y](https://open.spotify.com/artist/3jFjgKOGfVLWfXX8q5wrsg) | [Orgullo](https://open.spotify.com/album/0Le1Lj2NyXlJZW02C706u3) | 3:43 |
 | 72 | [La Familia](https://open.spotify.com/track/52ANZNLGCbf8IKin6sQYIk) | [Marconi Impara](https://open.spotify.com/artist/3AP96neoRZgep3w7wvhubP), [Dei V](https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP), [La Exce](https://open.spotify.com/artist/2RON3ZWvFVAHpiJA74KNHj) | [La Familia](https://open.spotify.com/album/3A35XT91xoDYsujfeGQFou) | 3:17 |
 | 73 | [Invicta](https://open.spotify.com/track/28yQZfH9hoSvZLOKnEODlU) | [Josephlee](https://open.spotify.com/artist/4pjKgubEZt1C7vtkDhsfyY), [Hades66](https://open.spotify.com/artist/4CQdcx66F116k2db2Y0rjE), [Freestyle Mania](https://open.spotify.com/artist/0bK53vxFcHrFiBJuZqZ4xp), [Anubiis](https://open.spotify.com/artist/5X8Uu9qHN3KXLH2Fws87LB) | [Invicta](https://open.spotify.com/album/164fsq8P3kfsSluv7q21rZ) | 4:46 |
@@ -105,8 +105,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3rgIhQ2x809.md) - [plain]
 | 95 | [La Bebecita](https://open.spotify.com/track/1ixrtbkdlkVQnYusBAsIBQ) | [Sammy & Falsetto](https://open.spotify.com/artist/6AT27ojKlBuZToFIGwQZDc) | [Las Criaturas: El Regreso](https://open.spotify.com/album/3dDKCvYJNViQvZTLMcNank) | 3:51 |
 | 96 | [Cupido](https://open.spotify.com/track/44B8PLdX1k6vzDtfUnwj5U) | [Chesca](https://open.spotify.com/artist/7DgpPXntG6DkNR4hCi4PjP), [Lyanno](https://open.spotify.com/artist/1Ts9of7VPZElwPQnqnDSfW), [Brray](https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ) | [Cupido](https://open.spotify.com/album/6myrgqSgzhFhIhZxO87XsY) | 3:10 |
 | 97 | [Traficando](https://open.spotify.com/track/4SQ6Wf45YaLFBsXXPfvuNZ) | [Midnvght](https://open.spotify.com/artist/2f0j8IhXgOli2Ub2amAiUZ) | [Traficando](https://open.spotify.com/album/4uTZikMbZ7sKhApOhIQGxQ) | 4:27 |
-| 98 | [Inseparables](https://open.spotify.com/track/4AoJmA5TNnqjwTZIb8vX8l) | [Xyron](https://open.spotify.com/artist/44WKtA4f1suN0IMmPBQ9be), [Carlitos Rossy](https://open.spotify.com/artist/0FDJB5xf8i09jDjIg1qNED) | [Inseparables](https://open.spotify.com/album/0OUlso6XqDSGVETWB19zdh) | 2:57 |
-| 99 | [For You](https://open.spotify.com/track/0Bvaux1uoiR3ID2C9rMzxB) | [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g) | [For You](https://open.spotify.com/album/7mwjFFFHrC2r2oCpnoMHR4) | 2:30 |
+| 98 | [For You](https://open.spotify.com/track/0Bvaux1uoiR3ID2C9rMzxB) | [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g) | [For You](https://open.spotify.com/album/7mwjFFFHrC2r2oCpnoMHR4) | 2:30 |
+| 99 | [Inseparables](https://open.spotify.com/track/4AoJmA5TNnqjwTZIb8vX8l) | [Xyron](https://open.spotify.com/artist/44WKtA4f1suN0IMmPBQ9be), [Carlitos Rossy](https://open.spotify.com/artist/0FDJB5xf8i09jDjIg1qNED) | [Inseparables](https://open.spotify.com/album/0OUlso6XqDSGVETWB19zdh) | 2:57 |
 | 100 | [Gozo](https://open.spotify.com/track/4IomMRQFM45yVC2tN5CppP) | [Gocho](https://open.spotify.com/artist/1E2ZsvpZKP4qMPNARv36W5) | [Gozo](https://open.spotify.com/album/69vDVNFIBCFdWlkpf16Zgw) | 3:23 |
 
-Snapshot ID: `MCw1MGNiZjIyMjcyMmQzMzBmNGIzMmEzNzA0ZTNmZmQyZDE0MDkxNTRi`
+Snapshot ID: `MCw5OTY0N2FjYTMzZjgzMmU0NjA0YzFiMjg4YmM1MTg2MjM3NmNjYjIy`

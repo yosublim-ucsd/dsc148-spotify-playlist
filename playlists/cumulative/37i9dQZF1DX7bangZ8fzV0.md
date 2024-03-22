@@ -2,9 +2,9 @@
 
 ### [Afrikaanse Hits](https://open.spotify.com/playlist/37i9dQZF1DX7bangZ8fzV0)
 
-> Net die beste Afrikaanse musiek\. Omslag: <a href="https://open.spotify.com/artist/2c2ibERmshNT2uvFBiRDWD?si=Cri33jcQSpi3WKsUmfMSBQ">Bobby Van Jaarsveld</a>
+> Net die beste Afrikaanse musiek\. Omslag: <a href="https://open.spotify.com/artist/6z6IhChBKFpFOXq4HG3vxw?si=iU6K0kPMRe6bH3w2m9xqHw">Annelie</a>
 
-198 songs - 11 hr 3 min
+199 songs - 11 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -76,6 +76,7 @@
 | [Hakahana](https://open.spotify.com/track/4CpYNgOR68YBngjZ1z1DFH) | [Franja Du Plessis](https://open.spotify.com/artist/3GsEM7KApCMtRdlUrj1V41) | [Hakahana](https://open.spotify.com/album/1flV02HwwjK81hNI6jzNxS) | 3:05 | 2023-07-20 | 2023-12-01 |
 | [Hand Aan Hand](https://open.spotify.com/track/0wgq7qI1QTtlto5lfGJ6s9) | [Elandré](https://open.spotify.com/artist/3Gg20zbz8OVW3iahm8uoYo) | [Hand Aan Hand](https://open.spotify.com/album/4FQlZyq5FppU7BrtK93U5Y) | 3:58 | 2022-04-20 |  |
 | [Handgranaat](https://open.spotify.com/track/0nirzE8VzdxQJDLk4UC1WV) | [Christia Visser](https://open.spotify.com/artist/0AVwVUxhRdEKiuLNGAxmtu) | [Handgranaat](https://open.spotify.com/album/3d4NgR6ZcalOKIiktcqTm1) | 3:54 | 2022-04-14 | 2022-10-29 |
+| [Hanrie Visagie](https://open.spotify.com/track/5XzRG1HP6iVtI9hfyInhRN) | [Werner Van Der Hoven](https://open.spotify.com/artist/1z3Cykt3bMtNbrY9SPGSI2) | [Hanrie Visagie](https://open.spotify.com/album/6EBJSVUfHtsBvtUHgzgThc) | 2:38 | 2024-03-21 |  |
 | [Hardekole](https://open.spotify.com/track/61StNZ96SCYNlM5l0IGdPl) | [Ricus Nel](https://open.spotify.com/artist/7Mhp3513Ydxqu2u1JMiQFg), [Adam Tas](https://open.spotify.com/artist/011KRXCsnsSuCGsY0Enq5r), [Bok Van Blerk](https://open.spotify.com/artist/0vevzNDJEuDySBGxIPWcHZ), [Refentse](https://open.spotify.com/artist/5yACoSSz99q9C7n8bKNFxl) | [Ouskool \- Boerseun](https://open.spotify.com/album/4uH7O3EodyvrNXyISbLf6F) | 4:29 | 2023-03-09 | 2023-09-01 |
 | [Hart Breek](https://open.spotify.com/track/58U4cZWldyeSO9PzX9Fbso) | [Demi Lee Moore](https://open.spotify.com/artist/2RJteaG1GUmH9lQVczVkpp) | [Hart Breek](https://open.spotify.com/album/2iCN2iJrxMImXOdK1QSHmO) | 3:20 | 2023-12-08 |  |
 | [Helemal](https://open.spotify.com/track/1zbUPXvrhPgjuO5ZFvN75z) | [Chris Steyn](https://open.spotify.com/artist/1sm5dkYgmAby2vtl4Syc0q) | [Helemal](https://open.spotify.com/album/4bLIjuCO7RnAD6HrB1aAKR) | 3:47 | 2023-11-30 |  |
@@ -115,7 +116,7 @@
 | [Lenie Blou](https://open.spotify.com/track/10s1HbmFsDCKmMNcAbDLyV) | [Spoegwolf](https://open.spotify.com/artist/6o4TnAxiqaQfZMLl55NFdn) | [Swaartekrag](https://open.spotify.com/album/6KykLYdne818aTl3ogcYSt) | 2:58 | 2023-03-09 | 2023-06-09 |
 | [Lentekind \- Dans Remix](https://open.spotify.com/track/3jp5MWHkhUMNKvTcKoEC21) | [Georic Lomas](https://open.spotify.com/artist/6s70YvvNGOGzhKqveX21uf) | [Lentekind \(Dans Remix\)](https://open.spotify.com/album/29N4DMheHAM04FlffYEAoq) | 2:37 | 2022-09-01 | 2022-10-29 |
 | [Lief](https://open.spotify.com/track/1Fbu7GJTELkKNVdlQ2X4zz) | [Karlien Van Jaarsveld](https://open.spotify.com/artist/25SUuR1e32ukcdYldmAyp5), [Jacob Swann](https://open.spotify.com/artist/3b8ExEnWwnymMCMM3vcHbe) | [Lief](https://open.spotify.com/album/2qlqp7lrg0ZJtPrcdilOt2) | 3:25 | 2022-07-07 | 2023-03-18 |
-| [Lieflik](https://open.spotify.com/track/1owgvsRPtQKcYVJLzpJUpb) | [Elandré](https://open.spotify.com/artist/3Gg20zbz8OVW3iahm8uoYo) | [Lieflik](https://open.spotify.com/album/2Kxe1GVz73wuCwLhWFaUB8) | 4:04 | 2022-08-04 |  |
+| [Lieflik](https://open.spotify.com/track/1owgvsRPtQKcYVJLzpJUpb) | [Elandré](https://open.spotify.com/artist/3Gg20zbz8OVW3iahm8uoYo) | [Lieflik](https://open.spotify.com/album/2Kxe1GVz73wuCwLhWFaUB8) | 4:04 | 2022-08-04 | 2024-03-22 |
 | [Liewe Jinne!](https://open.spotify.com/track/4Sq2nuXtqS8K88WNVTGERf) | [Juanita du Plessis](https://open.spotify.com/artist/7dtmhKnycd3REPNNixXGHO) | [Liewe Jinne!](https://open.spotify.com/album/48DLDbFi0LBISIgqbfHMUm) | 3:31 | 2023-08-24 |  |
 | [Ligte Af](https://open.spotify.com/track/2ZEYOx3O4BhTOrSZE36k6a) | [Ruan Josh](https://open.spotify.com/artist/0laMRbnKacdf1ueMabXUPO) | [Ligte Af](https://open.spotify.com/album/15v3zObf0eumyFqXxEQNFe) | 3:26 | 2023-07-20 | 2023-08-18 |
 | [Lyfie](https://open.spotify.com/track/0GAX8SapBTjOqW0d5taVMu) | [Bernice West](https://open.spotify.com/artist/6ZerjgcGZc6DofpCTZu3xx) | [Jona](https://open.spotify.com/album/2C70Ty4DGUj3nrSIAY16B3) | 3:28 | 2022-10-13 | 2023-12-08 |

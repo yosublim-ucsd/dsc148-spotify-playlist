@@ -4,7 +4,7 @@
 
 > beautiful beats for beautiful moments.
 
-484 songs - 18 hr 52 min
+487 songs - 18 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,6 +57,7 @@
 | [Blue Skies](https://open.spotify.com/track/0XA711CN95SCkCwMsQvIR6) | [Wax A Dizk](https://open.spotify.com/artist/0oFTGAftcAfchCbIObOGjh) | [Blue Skies](https://open.spotify.com/album/3BtBTdhmL7fg1RchxUWnoK) | 1:56 | 2023-06-06 |  |
 | [Blue Sky](https://open.spotify.com/track/1iLB0erbWIgXJUllRphSHP) | [Mylo B](https://open.spotify.com/artist/6HA81pnwUy8Hh3XueOsig8) | [Blue Sky](https://open.spotify.com/album/0u42d8JsmgNmTX37buAQmD) | 2:13 | 2023-04-03 |  |
 | [Blunt](https://open.spotify.com/track/74azkm1oJ7QdoYz8UOa590) | [Dilly the Great](https://open.spotify.com/artist/4FWZ21Ecu54GTSmdWUutVG) | [Blunt](https://open.spotify.com/album/3zWxZYmlPTJfC1a35Qr4O4) | 3:08 | 2022-05-27 | 2022-07-01 |
+| [bookworn](https://open.spotify.com/track/6tnQHLy3sz7QNLBsYCpDnn) | [yellow sofa](https://open.spotify.com/artist/00zktRPsRiNCP7GWXXi9Jc) | [bookworn](https://open.spotify.com/album/3jSoRUUVr4fHrpaFVRB3V9) | 2:05 | 2024-03-22 |  |
 | [Bossa K](https://open.spotify.com/track/6pun0yN2Xn51ulPrKktIPp) | [Juliette](https://open.spotify.com/artist/2A9ozO2R5liuK6dMrhJwnQ) | [Bossa K](https://open.spotify.com/album/43CC06AmUAFah0RgVFLCSP) | 2:12 | 2023-03-01 |  |
 | [Bravado](https://open.spotify.com/track/7sBADAbyjri5eDaU8qtCOK) | [Justnormal](https://open.spotify.com/artist/2YCz7aHoRoAZ435UDLOKOs) | [Feeling Something](https://open.spotify.com/album/4NQa8HcFQvWCheoZlMzMAc) | 2:07 | 2022-05-27 |  |
 | [Break Of Dawn](https://open.spotify.com/track/412vyUC3xYk6NtHvscmgXl) | [Katashi Kaitō](https://open.spotify.com/artist/7BDqewjn6oL3ryvHv78Wkx), [Kim Kozy](https://open.spotify.com/artist/6gVhnvdJQi2cjFRDSlysqe) | [Break Of Dawn](https://open.spotify.com/album/3Ywf3SRxZZaNoxHY1Hxtuc) | 2:32 | 2022-05-27 | 2022-07-01 |
@@ -316,6 +317,7 @@
 | [peach lemonade](https://open.spotify.com/track/1bxSJhTnmLyZ9QMzJ2szHB) | [meadowzz](https://open.spotify.com/artist/6iJBPhaUkwdsG9QPc6qcEz) | [lemonade on vacation](https://open.spotify.com/album/2HJhRDwE9vfTx4rRtpKLGQ) | 4:00 | 2022-09-16 | 2023-08-04 |
 | [Perspectives](https://open.spotify.com/track/68wMkW7xslkxZ7xKhL19pu) | [Funky Fella](https://open.spotify.com/artist/1fbcnomvhK1HKLYFmquYMA) | [Perspectives](https://open.spotify.com/album/4rRoOfM0KK94xnntUzVHOS) | 1:54 | 2023-08-31 | 2023-09-29 |
 | [Pienso en ti](https://open.spotify.com/track/68gE83oU6RHJhueRremnVI) | [B.L.U.N.T.S](https://open.spotify.com/artist/44nJNsLu2WAAuEiNLbOE9n), [SUPPER TRANKKI](https://open.spotify.com/artist/2LDeDIeSKH7tJZ8LLQEm07), [Pacifico Beats](https://open.spotify.com/artist/12cXod2nNIxSDhbITtXZ0d) | [Pienso en ti](https://open.spotify.com/album/7tfDDfseRhiLBEdBjps2j3) | 2:13 | 2022-06-24 | 2022-07-01 |
+| [pink inc](https://open.spotify.com/track/4lbtIYl10Ji2Xv8H5I9mny) | [eze east](https://open.spotify.com/artist/6YzTTKadB6WR8IWvDoZNth) | [pink inc](https://open.spotify.com/album/446hWWDZPWXDsAj5BXKXm0) | 1:44 | 2024-03-22 |  |
 | [Pizzazz](https://open.spotify.com/track/2uv5i2WtcA6TxsMO9YIQBR) | [Jobii](https://open.spotify.com/artist/2MGL4XU2LCJC47c7VvSwuE) | [Pizzazz](https://open.spotify.com/album/5BfUFXf3jVHcDd48Tsk3Zv) | 2:16 | 2022-05-27 | 2022-09-03 |
 | [Piñas, hamaca y slide](https://open.spotify.com/track/61tXTWB7EODDhT5KVGE19v) | [TRANQUI.LO](https://open.spotify.com/artist/77SHIzYuzLKxBC7giec5Jg) | [Tranquilo](https://open.spotify.com/album/3Y65Ok9dgM9Wxqg4rG53j7) | 2:14 | 2023-06-06 | 2023-09-08 |
 | [PJ](https://open.spotify.com/track/4245bsYQ8B8h1AaKzqhU7k) | [The Daily Bred](https://open.spotify.com/artist/2XaBoUP4lRy6lSZHywlwiD) | [Old Soul](https://open.spotify.com/album/0qEPqDvXeRr5EW47YCeIqb) | 4:43 | 2022-05-27 | 2022-07-15 |
@@ -325,7 +327,7 @@
 | [Plenty of Time](https://open.spotify.com/track/0MUOxmrEV161VT8NkZ6zuW) | [Lou Filou](https://open.spotify.com/artist/6CUArmqtKpviCeaJS2QUzH), [vlows](https://open.spotify.com/artist/1I8vSPgZriud0yvXK55JHt) | [Plenty of Time](https://open.spotify.com/album/2Mdcw1bBD8SkE1xwwfd5e6) | 1:42 | 2023-08-03 | 2024-02-09 |
 | [Polyforma](https://open.spotify.com/track/5TnCrehFKT6TsvHSeADpce) | [BLVKSHP](https://open.spotify.com/artist/49SU4KDi7vYuSfqsylFe6g) | [Polyforma](https://open.spotify.com/album/6dIeypjoGFFgegU5wj3C0s) | 3:09 | 2022-07-22 | 2022-08-12 |
 | [Poolside](https://open.spotify.com/track/0MAMSYiD7uHZHvAJ3rMmEg) | [Calvin Bennett](https://open.spotify.com/artist/0lseLLxf3jeiML3aTpqo9R), [l'eupe](https://open.spotify.com/artist/67AA1XRZU4GSLZQe83BVk9) | [Poolside](https://open.spotify.com/album/1s0kYn4H9SGeugYEQwrSae) | 2:25 | 2023-06-06 |  |
-| [poolSide](https://open.spotify.com/track/2V33ELzmC3DA4hWxJoxjvX) | [Polis Sitz](https://open.spotify.com/artist/2GHmWUuciILR03aob99yj1) | [Korean BBQ](https://open.spotify.com/album/0sxHgW3KYTmRfFq0qubtvU) | 2:36 | 2022-07-08 |  |
+| [poolSide](https://open.spotify.com/track/2V33ELzmC3DA4hWxJoxjvX) | [Polis Sitz](https://open.spotify.com/artist/2GHmWUuciILR03aob99yj1) | [Korean BBQ](https://open.spotify.com/album/0sxHgW3KYTmRfFq0qubtvU) | 2:36 | 2022-07-08 | 2024-03-22 |
 | [Preti](https://open.spotify.com/track/1XSXrQlUswO2uLlfo1VQoc) | [lorleaf](https://open.spotify.com/artist/4dIQxgH4s739dGAHaKAw0y) | [Preti](https://open.spotify.com/album/143OLYDZUl9xntSWAcOsOJ) | 2:25 | 2022-07-22 | 2022-09-09 |
 | [prettybaby.](https://open.spotify.com/track/447v1kCLZAN4CaVUAcG2Oc) | [Yakuka.](https://open.spotify.com/artist/3h8nRZ5Q3Z1uaFwi7ivPkh) | [prettybaby.](https://open.spotify.com/album/44fDrwORuNkg0kmNbnJvlD) | 2:36 | 2022-07-08 | 2022-07-15 |
 | [Pristine](https://open.spotify.com/track/5hU6UR3JAmobbRF8in1hpN) | [Yasumu](https://open.spotify.com/artist/53rCVzFVlyntj7jEjnY2oM) | [Pristine](https://open.spotify.com/album/68CF9yX62mUPcoJbyVcJD4) | 2:44 | 2022-05-27 | 2023-10-27 |
@@ -484,6 +486,7 @@
 | [Wind Shear](https://open.spotify.com/track/33xRLRHq485anywUECESNa) | [Ghostnaut](https://open.spotify.com/artist/2RBJhPBOr8mI5evwaL4HR3), [Lunath](https://open.spotify.com/artist/773SnwBYAvo9JlHuulUvMu) | [Wind Shear](https://open.spotify.com/album/4sy9xkgUrclVbLqqVXslrq) | 2:44 | 2022-05-27 | 2023-09-22 |
 | [winter balloon](https://open.spotify.com/track/6qKhsRKyfUbeqeIEArP2d8) | [Ponzi Skeemz](https://open.spotify.com/artist/217VkbBQjlErrkiDqNPDPM) | [winter balloon](https://open.spotify.com/album/69793ppyxJHCz149lVQHIt) | 2:11 | 2023-04-03 |  |
 | [wintersun](https://open.spotify.com/track/3VeRLgiVTKHDsYrAjI03Sq) | [Clocktown Stars](https://open.spotify.com/artist/41tAquCucBUKN6L1xeMWns) | [wintersun](https://open.spotify.com/album/5bkOd00HXDiJqyDkO6qR4Y) | 2:03 | 2024-02-02 |  |
+| [Wonders](https://open.spotify.com/track/640SE3hpcUgwdx8uyu2BRe) | [Moon Spirit](https://open.spotify.com/artist/5KQrXENL8zznzYw3r6zTlx) | [Wonders](https://open.spotify.com/album/46DTH0Yk7hMnVs0LKPaVAW) | 2:43 | 2024-03-22 |  |
 | [wood flute](https://open.spotify.com/track/6p5VJXlFIpWJHaQYfO7hmd) | [Wun Two](https://open.spotify.com/artist/69cjjIQEN8M6heOBT2SqZE) | [wood flute / birds of seville](https://open.spotify.com/album/75vD4cVMoIzNam8rQUyCFb) | 2:12 | 2023-08-03 | 2023-09-22 |
 | [Worthless](https://open.spotify.com/track/73xT58rBWebbb0nkQcfofJ) | [FAKTESS](https://open.spotify.com/artist/6epkbYGmkRjKc18xWsEXPM) | [Push Me](https://open.spotify.com/album/6wvjdX2nAXs5creXgJoLM7) | 1:48 | 2022-05-27 | 2022-07-08 |
 | [Yellow Rose](https://open.spotify.com/track/0NoXLmUqcyoGB6mwGA1HmC) | [Digital Candle](https://open.spotify.com/artist/4c6b7cOrAun4kjZnQpJsSi) | [Party Life](https://open.spotify.com/album/1UGqZB7FGCWvMbwdc2eAW1) | 3:09 | 2022-05-27 | 2023-12-22 |

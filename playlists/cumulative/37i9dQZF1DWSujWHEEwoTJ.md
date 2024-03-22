@@ -4,7 +4,7 @@
 
 > Desde Culiacán, Sinaloa, Ozz nos comparte las rolitas que no pueden faltar a la hora de echarse un aguachile.
 
-105 songs - 5 hr 34 min
+106 songs - 5 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,7 +28,8 @@
 | [Cumbia Del Sol](https://open.spotify.com/track/10jdyLaybUVbi8AlJf7nYF) | [Control](https://open.spotify.com/artist/69BX3Y0Y9rzA039eZX2hdx) | [Fuera De Control](https://open.spotify.com/album/4x89VPVDzHs5iooMxojyDw) | 3:14 | 2022-01-20 |  |
 | [Cómo Me Duele](https://open.spotify.com/track/50GRxHQ3cW2yBmlPIF9urf) | [Valentín Elizalde](https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA) | [Vencedor](https://open.spotify.com/album/4cPRux21b3M1X668qR5lZ3) | 3:39 | 2022-01-20 |  |
 | [De Fiesta](https://open.spotify.com/track/6zaMhOdbrNLuUcTlRGcOhx) | [Los 2 de la S](https://open.spotify.com/artist/4UqfXEVibVEPfoopm7Pduc) | [De Fiesta](https://open.spotify.com/album/17Kx1C9ptX8kbwiiVKw66S) | 2:50 | 2022-01-20 | 2023-02-01 |
-| [De Lunes A Viernes](https://open.spotify.com/track/1NG1ZbHFYLL27Upnnkz9af) | [Calle 24](https://open.spotify.com/artist/6dLuQ5qXxIuWc5urxfIiZR), [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Angel Ureta](https://open.spotify.com/artist/3rvluTyk2vmAj3dN1b0bw8) | [De Lunes A Viernes](https://open.spotify.com/album/3yuosxLkQXRX9wg4XZMLir) | 2:33 | 2023-04-14 |  |
+| [De Lunes A Viernes](https://open.spotify.com/track/4ZLdYf8PwRSnsBeLESPio9) | [Angel Ureta](https://open.spotify.com/artist/3rvluTyk2vmAj3dN1b0bw8), [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Calle 24](https://open.spotify.com/artist/6dLuQ5qXxIuWc5urxfIiZR) | [De Lunes A Viernes](https://open.spotify.com/album/6UATeZf50WEtzrp4ZMFCoc) | 2:33 | 2023-04-14 |  |
+| [De Lunes A Viernes](https://open.spotify.com/track/1NG1ZbHFYLL27Upnnkz9af) | [Calle 24](https://open.spotify.com/artist/6dLuQ5qXxIuWc5urxfIiZR), [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Angel Ureta](https://open.spotify.com/artist/3rvluTyk2vmAj3dN1b0bw8) | [De Lunes A Viernes](https://open.spotify.com/album/3yuosxLkQXRX9wg4XZMLir) | 2:33 | 2023-04-14 | 2024-03-22 |
 | [El Ahualoca](https://open.spotify.com/track/5roQj5olcQiTqXCi8cHGoK) | [Banda Alteñita de Morelia](https://open.spotify.com/artist/17ND8vMcTSrwhZOUvG7CnA) | [Una Vez Más](https://open.spotify.com/album/3pg4CVG7UZ5UI1AxSekVEe) | 3:34 | 2022-01-20 |  |
 | [El AV](https://open.spotify.com/track/2xykX6DxmbuYF9ZF7lWK1U) | [Edicion Especial](https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi) | [Las Guardadas](https://open.spotify.com/album/5krSYt76Q8nbdrZNEArZD4) | 4:31 | 2023-04-14 |  |
 | [El Gavilán](https://open.spotify.com/track/4ygQ5wSuzzNRevVjup1qV2) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Tony Aguirre](https://open.spotify.com/artist/6twEaJ9RPRYiCmWapjG8xh), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [El Gavilán](https://open.spotify.com/album/5yRjJl7zzslQpbCX76s6Vi) | 2:55 | 2023-01-30 |  |

@@ -2,7 +2,7 @@
 
 ### [FINAL FANTASY](https://open.spotify.com/playlist/37i9dQZF1DX8wCc28V2cVW)
 
-> Be the first to hear the FINAL FANTASY XVI soundtrack and stay tuned for the  upcoming theme song\. 最新作『FFXVI』をはじめとするファイナルファンタジーの珠玉の名曲集。テーマソング、サウンドトラックの追加をお待ちください。©2019 SQUARE ENIX CO., LTD\. All Rights Reserved.
+> Be the first to hear the FINAL FANTASY VII REBIRTH soundtrack and stay tuned for the upcoming theme song\. 最新作『FINAL FANTASY VII REBIRTH』をはじめとするファイナルファンタジーの珠玉の名曲集。テーマソング、サウンドトラックの追加をお待ちください。©2019 SQUARE ENIX CO., LTD\. All Rights Reserved.
 
 239 songs - 13 hr 46 min
 

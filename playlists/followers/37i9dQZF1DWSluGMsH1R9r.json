@@ -1,5 +1,5 @@
 {
-  "2024-03-21": 907333,
+  "2024-03-22": 907492,
   "date_first_scraped": "2021-12-21",
   "description": "Calm piano music for enhanced concentration.",
   "name": "Perfect Concentration",
@@ -2667,7 +2667,7 @@
       ],
       "date_added": "2022-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-21",
       "duration_ms": 128250,
       "name": "Eros",
       "url": "https://open.spotify.com/track/6S7DVL5a6gVfHCT93P2STO"
@@ -3045,7 +3045,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-21",
       "duration_ms": 171250,
       "name": "Fine",
       "url": "https://open.spotify.com/track/2jv5hratv7APL7BbvAKpI7"
@@ -4289,6 +4289,24 @@
       "duration_ms": 156645,
       "name": "Immunity",
       "url": "https://open.spotify.com/track/1ldGVJUNxjUDAJp0vZLMq5"
+    },
+    {
+      "album": {
+        "name": "In A Darkened Room",
+        "url": "https://open.spotify.com/album/30jOl0PWPzrFJrYnIFC1QC"
+      },
+      "artists": [
+        {
+          "name": "Luiza Schmidt",
+          "url": "https://open.spotify.com/artist/6cGebk3cSumbL2uYiLp2tV"
+        }
+      ],
+      "date_added": "2024-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138389,
+      "name": "In A Darkened Room",
+      "url": "https://open.spotify.com/track/0iVMAdJchuoG3DqPBu1450"
     },
     {
       "album": {
@@ -6413,6 +6431,24 @@
       "duration_ms": 180308,
       "name": "Morning-Star",
       "url": "https://open.spotify.com/track/7x29ikGEInCzC5IrN3zMhI"
+    },
+    {
+      "album": {
+        "name": "Mornings With You",
+        "url": "https://open.spotify.com/album/0XxTFCTiJE90ttX2klGpMf"
+      },
+      "artists": [
+        {
+          "name": "Noella Russo",
+          "url": "https://open.spotify.com/artist/2zgddkOsrXf0cnPquq6N59"
+        }
+      ],
+      "date_added": "2024-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139949,
+      "name": "Mornings With You",
+      "url": "https://open.spotify.com/track/1eJ4ZttuJo0O4hFTVUbT1t"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6BCd5Q12fpZ.md) - [plain]
 
 > Floor fillers from the long, illustrious history of the show\. Cover: Verka Serduchka
 
-[Spotify](https://open.spotify.com/user/spotify) - 65,513 likes - 75 songs - 3 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 65,517 likes - 75 songs - 3 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,8 +56,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6BCd5Q12fpZ.md) - [plain]
 | 46 | [Secret Combination \- Eurovision 2008 Mix](https://open.spotify.com/track/4K97pvdLv1zmJy2bvYtEFG) | [Kalomira](https://open.spotify.com/artist/5duetVmlUhQnoJ3dhqChFH) | [Secret Combination](https://open.spotify.com/album/4neINSK3QUx2L5VGMBuE6a) | 3:02 |
 | 47 | [If Love Was a Crime \- Eurovision 2016 \- Bulgaria](https://open.spotify.com/track/1G5qDCiqei7ozj5ku43TuR) | [Poli Genova](https://open.spotify.com/artist/0KTsEyWGtkglulYb0INR5g) | [If Love Was a Crime \(Eurovision 2016 \- Bulgaria\)](https://open.spotify.com/album/1CeeOXzTsGhGGvjIaDiocW) | 2:59 |
 | 48 | [Ne Ver, Ne Boisia \- Eurovision 2003 Version](https://open.spotify.com/track/4MuQWNaW51V9LRocFQUZRU) | [t.A.T.u.](https://open.spotify.com/artist/2Q3eZMfDQgT8MhPowKFXYO) | [t.A.T.u\. \- The Best](https://open.spotify.com/album/0tzIPJxQTy6j6nQ3rbWXXy) | 3:02 |
-| 49 | [La Voix](https://open.spotify.com/track/7Kz4f9CgtAfbmPBMX5q2ZV) | [Malena Ernman](https://open.spotify.com/artist/0muluUHym4N0wB62sD0MPo), [Fredrik Kempe](https://open.spotify.com/artist/5a3wjp9dcWyJitaiwXIsC7) | [La voix du nord](https://open.spotify.com/album/0h8iIqw8uv8Rif7zPK8iml) | 2:57 |
-| 50 | [Dance You Off](https://open.spotify.com/track/0s3P5PImfDZYWIseR3b39D) | [Benjamin Ingrosso](https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5) | [Dance You Off](https://open.spotify.com/album/0TDIGmEpqWpZiTCRW6133p) | 3:02 |
+| 49 | [Dance You Off](https://open.spotify.com/track/0s3P5PImfDZYWIseR3b39D) | [Benjamin Ingrosso](https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5) | [Dance You Off](https://open.spotify.com/album/0TDIGmEpqWpZiTCRW6133p) | 3:02 |
+| 50 | [La Voix](https://open.spotify.com/track/7Kz4f9CgtAfbmPBMX5q2ZV) | [Malena Ernman](https://open.spotify.com/artist/0muluUHym4N0wB62sD0MPo), [Fredrik Kempe](https://open.spotify.com/artist/5a3wjp9dcWyJitaiwXIsC7) | [La voix du nord](https://open.spotify.com/album/0h8iIqw8uv8Rif7zPK8iml) | 2:57 |
 | 51 | [Beg, Steal Or Borrow](https://open.spotify.com/track/5qyE3nSkh3KRfLzISfXYDc) | [The New Seekers](https://open.spotify.com/artist/4jrTNltJtTMUfXybDdsHDn) | [The New Seekers](https://open.spotify.com/album/0439cWYJRibTFks4Re28ES) | 2:47 |
 | 52 | [Je t'adore \- Eurovision Mix](https://open.spotify.com/track/1YuXoPqkTQOXpFJtjf5GWd) | [Kate Ryan](https://open.spotify.com/artist/47BNWfpngeFHYvBlPPyraM) | [Essential](https://open.spotify.com/album/6itpfGpKsuAVBgtr5JUuS3) | 3:02 |
 | 53 | [Shake It \- Eurovision Version](https://open.spotify.com/track/2xagoLNhrbVA2fpOkxs2Ze) | [Sakis Rouvas](https://open.spotify.com/artist/0VuyN0xzSqykiDB2MxihTe) | [To Hrono Stamatao](https://open.spotify.com/album/7hiRylz4CAVyfLftuszLVJ) | 3:00 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6BCd5Q12fpZ.md) - [plain]
 | 74 | [Runaway \- Bonus Track](https://open.spotify.com/track/7uSeUTnMWH7CgEyl2rNtMC) | [Anna Sahlene](https://open.spotify.com/artist/4dNOj2smSK7guw4JeUW1uW) | [It's Been a While](https://open.spotify.com/album/1MfUDsswH0G8RK0TDvWo71) | 2:52 |
 | 75 | [J'aime la vie \- Eurovision 1986](https://open.spotify.com/track/6UKeMVzQeeOsjITXfX1cm4) | [Sandra Kim](https://open.spotify.com/artist/4dhrlsu6mKvOwJWOrwnkuV) | [Au top des années 80, vol\. 1 \(30 titres + 5 maxis\)](https://open.spotify.com/album/76YvIXe5aWujtislm12yVk) | 3:04 |
 
-Snapshot ID: `MCw0NGU2YmY5N2RjYzY2NGZmOWMyZWM2ZDExNDY5ZTAwYjQyZDc4NjEy`
+Snapshot ID: `MCw1Njc4M2UzYTI4MzdiZTA2ZTgyYTIwOTUzMmJiMWFhY2ZhMzM0Yjk1`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa57Li9i9TJK.md) - [plain]
 
 > Potras, rancherxs y la 🧀
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,765 likes - 100 songs - 5 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,795 likes - 100 songs - 5 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -95,9 +95,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa57Li9i9TJK.md) - [plain]
 | 85 | [En Realidad](https://open.spotify.com/track/1gm88KVoDOV0tsSBnB0hri) | [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH) | [Mexicana Enamorada](https://open.spotify.com/album/5A7zzI1YR0YnWmaahoQeD7) | 3:25 |
 | 86 | [Diamantes y Amaranto](https://open.spotify.com/track/0broc0xlsIJOBHFYEAOcS1) | [Camila](https://open.spotify.com/artist/2gRP1Ezbtj3qrERnd0XasU) | [Diamantes y Amaranto](https://open.spotify.com/album/7KBsfhoXIXYBfp9fhZkOrV) | 3:48 |
 | 87 | [YO QUISIERA](https://open.spotify.com/track/6oUfleqHtxkXLIGBEZKA9n) | [Michelle Maciel](https://open.spotify.com/artist/4WFwvZ4L8FZbt3qubbQJS6) | [YO QUISIERA](https://open.spotify.com/album/0goX73Y7Or1v88yHSd247q) | 3:33 |
-| 88 | [Leña de pirul](https://open.spotify.com/track/24hke0P7QZEb62QC4XzG9y) | [Banda Machos](https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2) | [La reina de las bandas Vol\. II](https://open.spotify.com/album/29JiAjWnPrh6PxzyZxA1Uv) | 2:47 |
+| 88 | [Menos Mal Que Me Querías](https://open.spotify.com/track/0Y6mbQ5tc2w0wLVDwPH0t4) | [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV) | [Menos Mal Que Me Querías](https://open.spotify.com/album/3YCAsPCW0YoyeXIghCfqVW) | 2:37 |
 | 89 | [Antes Muerta Que Sencilla](https://open.spotify.com/track/7tKDsV1gA7iVJHep2KZKOj) | [Los Horóscopos De Durango](https://open.spotify.com/artist/46uJrEeqP88sYlHFqaGPid) | [Antes Muertas Que Sencillas](https://open.spotify.com/album/0afOzI8hKSRU3QV0cdf0NO) | 2:50 |
-| 90 | [Menos Mal Que Me Querías](https://open.spotify.com/track/0Y6mbQ5tc2w0wLVDwPH0t4) | [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV) | [Menos Mal Que Me Querías](https://open.spotify.com/album/3YCAsPCW0YoyeXIghCfqVW) | 2:37 |
+| 90 | [Leña de pirul](https://open.spotify.com/track/24hke0P7QZEb62QC4XzG9y) | [Banda Machos](https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2) | [La reina de las bandas Vol\. II](https://open.spotify.com/album/29JiAjWnPrh6PxzyZxA1Uv) | 2:47 |
 | 91 | [Tu Maniquí](https://open.spotify.com/track/5XpvqqKEI3xWS4heKkXjb5) | [Jessi Uribe](https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS), [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [Tu Maniquí](https://open.spotify.com/album/7HkqbCqtwAFIbtgFyeIpRi) | 2:34 |
 | 92 | [Amarte A La Antigua](https://open.spotify.com/track/7HveFMabDEzhn8ceKY5L6f) | [Pedro Fernández](https://open.spotify.com/artist/24dYJ8P3YuFihvMcElFUWh) | [Amarte A La Antigua](https://open.spotify.com/album/3w8bbE0YbZFxw7yXeS0X9P) | 3:38 |
 | 93 | [Rosas](https://open.spotify.com/track/3uFzo9GFVS3Yw4KIVdsYHN) | [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [Rosas](https://open.spotify.com/album/6sDgZzqJBy8r5TWPPVjL1E) | 4:33 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa57Li9i9TJK.md) - [plain]
 | 99 | [Bebé, Perdón](https://open.spotify.com/track/1Sds5tH8O2nCndMuicutXj) | [Thalia](https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb) | [Bebé, Perdón](https://open.spotify.com/album/00ER2ZPI0Ja3T1KQYV87cg) | 2:54 |
 | 100 | [Nos Ganó El Amor](https://open.spotify.com/track/4DFFXmo4Dj30hcVEm3IU0L) | [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [Mariachi Y Tequila \(Deluxe\)](https://open.spotify.com/album/1CWzi6omgWhMTbaeSzraSr) | 3:07 |
 
-Snapshot ID: `MCw3OWZiMWE5ZGVhMDkyY2E1YjlhYTg3YWU1MDFiYTI1NWQ2MWY3Y2Ni`
+Snapshot ID: `MCw5ZmFjMDI2M2U1NTdiZWE3ZTU1MDJkNzkxMmNhZTdhYWJiMmQ4YTMz`

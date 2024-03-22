@@ -1,5 +1,5 @@
 {
-  "2024-03-21": 855768,
+  "2024-03-22": 857397,
   "date_first_scraped": "2022-08-23",
   "description": "no-clip out of reality",
   "name": "liminal",
@@ -2146,6 +2146,24 @@
     },
     {
       "album": {
+        "name": "nevermind, everything's ok",
+        "url": "https://open.spotify.com/album/1kn1YBNQQ1HLpr4rEz5cAQ"
+      },
+      "artists": [
+        {
+          "name": "dreamcorp.",
+          "url": "https://open.spotify.com/artist/0UIto5RF21KnI9X46G0Lau"
+        }
+      ],
+      "date_added": "2023-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198857,
+      "name": "nevermind, everything's ok",
+      "url": "https://open.spotify.com/track/3qePrGOdHdMtS2dNv18CqH"
+    },
+    {
+      "album": {
         "name": "dreams",
         "url": "https://open.spotify.com/album/0iOX2i9TIzAfZZHjF1x1Cm"
       },
@@ -2179,7 +2197,7 @@
       ],
       "date_added": "2023-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-21",
       "duration_ms": 198146,
       "name": "nevermind, everything's ok",
       "url": "https://open.spotify.com/track/4akDucD5y3cjwv9oJK2fma"

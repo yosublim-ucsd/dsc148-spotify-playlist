@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFRBTIIBSxoJr.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/7zjIlRz0yNsZwtpV07KLBI">RuthAnne Cunningham</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 483 likes - 121 songs - 6 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 485 likes - 121 songs - 6 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,8 +58,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFRBTIIBSxoJr.md) - [plain]
 | 48 | [What You’re Made Of \(feat\. Kiesza\) \(From “Azur Lane” Original Video Game Soundtrack\)](https://open.spotify.com/track/7zCeOOhtMzxlBRdVJ4KwgG) | [Lindsey Stirling](https://open.spotify.com/artist/378dH6EszOLFShpRzAQkVM), [Kiesza](https://open.spotify.com/artist/4zxvC7CRGvggq9EWXOpwAo) | [What You’re Made Of \(feat\. Kiesza\) \[Azur Lane Soundtrack\]](https://open.spotify.com/album/3M0OxNR7sHtrA4I42ETvjI) | 3:26 |
 | 49 | [Stronger](https://open.spotify.com/track/40IYwvYNbAtCpVIGFTAVBi) | [ARTY](https://open.spotify.com/artist/1rSGNXhhYuWoq9BEz5DZGO), [Ray Dalton](https://open.spotify.com/artist/4e0nWw2r4BoQSKPQ2zpU13) | [Glorious](https://open.spotify.com/album/3M9tDLu83Y8XlcicBUF3sL) | 4:11 |
 | 50 | [Give Me Something](https://open.spotify.com/track/2gfUIB27jMLK2w0xMRdemZ) | [Alex & Sierra](https://open.spotify.com/artist/58MLl9nC29IXbE4nEtuoP2) | [It's About Us](https://open.spotify.com/album/3Yk19X5zgXDSrG8uqrPnXC) | 3:12 |
-| 51 | [Almost Home](https://open.spotify.com/track/7h38rvuinAanaR7vaYLDVQ) | [Alex & Sierra](https://open.spotify.com/artist/58MLl9nC29IXbE4nEtuoP2) | [It's About Us](https://open.spotify.com/album/3Yk19X5zgXDSrG8uqrPnXC) | 3:23 |
-| 52 | [LAST OF US \(feat\. Rita Ora\)](https://open.spotify.com/track/2Mwmp4qVCe8CJcalsT4xm1) | [Gryffin](https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh), [Rita Ora](https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr) | [LAST OF US \(feat\. Rita Ora\)](https://open.spotify.com/album/19wUjYvz97e0wXWHE41PSV) | 3:10 |
+| 51 | [LAST OF US \(feat\. Rita Ora\)](https://open.spotify.com/track/2Mwmp4qVCe8CJcalsT4xm1) | [Gryffin](https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh), [Rita Ora](https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr) | [LAST OF US \(feat\. Rita Ora\)](https://open.spotify.com/album/19wUjYvz97e0wXWHE41PSV) | 3:10 |
+| 52 | [Almost Home](https://open.spotify.com/track/7h38rvuinAanaR7vaYLDVQ) | [Alex & Sierra](https://open.spotify.com/artist/58MLl9nC29IXbE4nEtuoP2) | [It's About Us](https://open.spotify.com/album/3Yk19X5zgXDSrG8uqrPnXC) | 3:23 |
 | 53 | [Crown](https://open.spotify.com/track/75nhw5YxdMeEE9cj9AjyHR) | [Empire Cast](https://open.spotify.com/artist/7EjxNoVjXo7gL73F2EdXVA), [Jamila Velazquez](https://open.spotify.com/artist/0DNer7EBpWOFyAGuxmF9GN), [Raquel Castro](https://open.spotify.com/artist/1FOw6qIycSqShZV57QtDIX), [Yani Marin](https://open.spotify.com/artist/6eMmKtGbT9oHRnDMDzPlu3) | [Empire: Original Soundtrack, Season 2 Volume 2 \(Deluxe\)](https://open.spotify.com/album/5F63FnyDVZcFljjvVRdPd8) | 3:11 |
 | 54 | [She Do](https://open.spotify.com/track/7cJWV4gJVR78HFLvosMhcb) | [In Real Life](https://open.spotify.com/artist/09fEeGYqb3MUeV1c9BJgDI) | [She Do](https://open.spotify.com/album/7KnSdU7mu0fvU1M4gl8Ct7) | 3:20 |
 | 55 | [I Still Believe \- Purple Disco Machine Remix](https://open.spotify.com/track/40uD8YIrDmTuFFPNYp3ovN) | [Diana Ross](https://open.spotify.com/artist/3MdG05syQeRYPPcClLaUGl), [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4) | [I Still Believe \(Purple Disco Machine Remix\)](https://open.spotify.com/album/4vRTaNLGafRDnsuQfyetJY) | 3:39 |
@@ -130,4 +130,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFRBTIIBSxoJr.md) - [plain]
 | 120 | [Waiting Room](https://open.spotify.com/track/6WIjcI93x7ai2wHjIYbvkH) | [Sasha\-Lee](https://open.spotify.com/artist/7ef107j57lGW8zlDLp78n6) | [Sasha\-Lee](https://open.spotify.com/album/7jzpZmpkbzHMRB3YCTlYfC) | 3:31 |
 | 121 | [New World](https://open.spotify.com/track/3FDGiAjvt2DgrW59SPzz1C) | [Ruth\-Anne](https://open.spotify.com/artist/4LnlxzBp14IU8sJ0dmC9Au) | [New World](https://open.spotify.com/album/5XiSwbh3jsRJvGz8qRjch4) | 3:08 |
 
-Snapshot ID: `Mjg1MTY0NTAsMDAwMDAwMDAyYzliY2JmMzNmNjNkZTA2MTAxY2U2YzBjNjZkYTZhOA==`
+Snapshot ID: `Mjg1MTc4OTAsMDAwMDAwMDAwMmQ2MThkNDNlMGU3NWQ2MmVlNjJlYzFiOWI5MTM5ZQ==`

@@ -4,7 +4,7 @@
 
 > New makes old\. Cover: Sierra Ferrell
 
-226 songs - 13 hr 20 min
+227 songs - 13 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -102,7 +102,7 @@
 | [I Thought You Were Somebody Else](https://open.spotify.com/track/7ntJiMBoxCgOROYz59q0Yk) | [Mary Bragg](https://open.spotify.com/artist/72FO0BvoMxHvbQwbNrKqtj) | [Violets as Camouflage](https://open.spotify.com/album/0KCa9BfM1VLKSzfxfM4EPk) | 3:16 | 2021-11-12 | 2022-07-27 |
 | [I'll Be the One](https://open.spotify.com/track/01JkrDSrakX5UO5knhpKNA) | [Paul Cauthen](https://open.spotify.com/artist/6yHM0XQEdu9sIlbILMaKBp) | [My Gospel](https://open.spotify.com/album/25uC3BzETi50E1xFm05JcK) | 4:21 | 2021-11-12 |  |
 | [I'll Be Your Man](https://open.spotify.com/track/2XgY3RneATmlW3SdVv84Kk) | [Skylar Gudasz](https://open.spotify.com/artist/0isq0T851tBgpJagOHHYHQ) | [Oleander](https://open.spotify.com/album/1xoyw43TDm3ZirMsiZb1Pt) | 3:23 | 2021-11-12 | 2022-07-29 |
-| [Ice Cream and Liquor](https://open.spotify.com/track/2JN0eElE3BnGsrbsyvzEhO) | [The Reckless Electric](https://open.spotify.com/artist/1x0DczFntbIchRLLSisGnM) | [Comeback](https://open.spotify.com/album/59RQt16lLTsoUSn2FdHvNb) | 3:26 | 2021-11-12 |  |
+| [Ice Cream and Liquor](https://open.spotify.com/track/2JN0eElE3BnGsrbsyvzEhO) | [The Reckless Electric](https://open.spotify.com/artist/1x0DczFntbIchRLLSisGnM) | [Comeback](https://open.spotify.com/album/59RQt16lLTsoUSn2FdHvNb) | 3:26 | 2021-11-12 | 2024-03-22 |
 | [If Tommy Duncan's Voice Was Booze](https://open.spotify.com/track/5p1r6QS3Zr5k70S2a21pZi) | [Brennen Leigh](https://open.spotify.com/artist/5hoqqYuJtD3clexwJn5wWW), [Asleep At The Wheel](https://open.spotify.com/artist/54tWKkrjv4bQgKrQrNlecm) | [Obsessed With The West](https://open.spotify.com/album/2MaFxawTGnSsWNVUXXLHsu) | 3:16 | 2023-04-21 |  |
 | [If Tommy Duncan's Voice Was Booze](https://open.spotify.com/track/7L6nL3D8AxgvuPZh567xhc) | [Brennen Leigh](https://open.spotify.com/artist/5hoqqYuJtD3clexwJn5wWW), [Asleep At The Wheel](https://open.spotify.com/artist/54tWKkrjv4bQgKrQrNlecm) | [If Tommy Duncan's Voice Was Booze](https://open.spotify.com/album/1Xv7QTztLVJLdtXEeuk98S) | 3:16 | 2022-02-18 | 2023-05-01 |
 | [In Dreams](https://open.spotify.com/track/0ewKJ6eM0Z761OissISTW7) | [Sierra Ferrell](https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t) | [Long Time Coming](https://open.spotify.com/album/5ZI0k3IynnC5C9QKMmY7cB) | 2:41 | 2022-04-01 |  |
@@ -223,6 +223,7 @@
 | [Welcome to Hard Times](https://open.spotify.com/track/0i3BdHdGazxdCxJHj6Jdvx) | [Charley Crockett](https://open.spotify.com/artist/3BJX1nYizKvWpZTY5HOAr4) | [Welcome to Hard Times](https://open.spotify.com/album/4HYMmAYjEyDAOQsP9B5giS) | 3:05 | 2021-11-12 |  |
 | [Well Enough Alone](https://open.spotify.com/track/0CpLZdFVI8G0pSHZD06rU9) | [The Maes](https://open.spotify.com/artist/6zdezqzQF6UyMqd7c9aYJa) | [Well Enough Alone](https://open.spotify.com/album/1Jl0ZdKIiUsKJG8ihM5JoH) | 3:31 | 2021-11-12 | 2022-02-16 |
 | [What's She Crying For](https://open.spotify.com/track/7piSpTyc00ahEUgqBMLYjH) | [Justin Townes Earle](https://open.spotify.com/artist/3znXuXT3xkCtjgOxXBBVnq) | [Kids In The Street](https://open.spotify.com/album/10bNKmk6ZxM6HRB5mwh4SU) | 3:53 | 2021-11-12 |  |
+| [When I Quit Drinking](https://open.spotify.com/track/0DldY9OWoMnNPMwqpot2Qh) | [JP Harris](https://open.spotify.com/artist/3k5DJmsoipvzJqpjfQFvDy) | [Sometimes Dogs Bark at Nothing](https://open.spotify.com/album/68narzWpXEnOPLjFCx8rMH) | 3:56 | 2023-10-06 |  |
 | [When I Quit Drinking](https://open.spotify.com/track/3e48Zh0NEFYT1RBEcD0PiB) | [JP Harris](https://open.spotify.com/artist/3k5DJmsoipvzJqpjfQFvDy) | [Sometimes Dogs Bark at Nothing](https://open.spotify.com/album/2QHRYYnqD3XGjvj6HjKJtH) | 3:56 | 2021-11-12 | 2022-07-29 |
 | [When I Quit Drinking](https://open.spotify.com/track/4DivPM8ekqwrivgS5c5eej) | [JP Harris](https://open.spotify.com/artist/3k5DJmsoipvzJqpjfQFvDy) | [Sometimes Dogs Bark at Nothing](https://open.spotify.com/album/6G9LWAp4G716jXXJA5ESyD) | 3:56 | 2022-04-01 | 2023-12-24 |
 | [When You're Gone](https://open.spotify.com/track/5BdAnc2x9NaR7GS8iSO6gs) | [Amanda Shires](https://open.spotify.com/artist/5yN0nwLpUCaZ2gr67bndCN) | [My Piece of Land](https://open.spotify.com/album/4xEbranbGAP1GfoRBsP4gV) | 3:06 | 2023-10-06 |  |

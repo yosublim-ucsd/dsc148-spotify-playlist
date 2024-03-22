@@ -4,7 +4,7 @@
 
 > Faith without work\[out\]s is dead!  Get your beast mode on!
 
-575 songs - 1 day 4 hr 19 min
+576 songs - 1 day 4 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -253,7 +253,7 @@
 | [I Meant It](https://open.spotify.com/track/0URheuSTODAZH9poIPFOzi) | [Xay Hill](https://open.spotify.com/artist/6e7kIHb5oTfOJY5IzLyzR6) | [When It Hurts: A Story By Isaiah Hill](https://open.spotify.com/album/1vBAFhwlesvJXy1HBIIUoP) | 2:02 | 2022-02-04 | 2022-07-29 |
 | [I Need Peace](https://open.spotify.com/track/1b9yRZtZfHemIdpHYtpckC) | [Caleb Gordon](https://open.spotify.com/artist/6s3XaJkcT7464G4oII9V41) | [I Need Peace](https://open.spotify.com/album/11EUwsiZq5KFq5uTf94neJ) | 3:21 | 2022-10-01 | 2023-08-12 |
 | [I REMEMBER](https://open.spotify.com/track/7y0EHJhDC5ZOxA6Nx6the1) | [Christopher Syncere](https://open.spotify.com/artist/6oTjD6G08PuR7EjE0AjL5u) | [I REMEMBER](https://open.spotify.com/album/0Iy7mzJgjUgLxR5kRnc8KA) | 1:49 | 2024-02-02 |  |
-| [I See Lights](https://open.spotify.com/track/1mNj0r1ucdoF7uiCSvrCr6) | [Zauntee](https://open.spotify.com/artist/7jyr9Co4MKL1iWML1G7vch) | [I See Lights](https://open.spotify.com/album/2NA9BImAH2XGChG1HBVbYc) | 1:55 | 2024-01-12 |  |
+| [I See Lights](https://open.spotify.com/track/1mNj0r1ucdoF7uiCSvrCr6) | [Zauntee](https://open.spotify.com/artist/7jyr9Co4MKL1iWML1G7vch) | [I See Lights](https://open.spotify.com/album/2NA9BImAH2XGChG1HBVbYc) | 1:55 | 2024-01-12 | 2024-03-22 |
 | [I Will Not](https://open.spotify.com/track/0ksRxJ9rgHjh7Jy83S6vLh) | [Datin](https://open.spotify.com/artist/2ZNeZlHauwGYZ9XADyjSL4), [Bryann T](https://open.spotify.com/artist/2A1JIrO6mmH6G7Wkdx8LB0), [Dax Hamma](https://open.spotify.com/artist/413WzacllGaX7jg4EzFxiY) | [I Will Not](https://open.spotify.com/album/63nGhI4IzyGnPxHaAO4Ykw) | 3:36 | 2022-07-17 | 2024-01-13 |
 | [I'll Fight for You](https://open.spotify.com/track/4XOw2RRfBVFEmJFm4MDGPm) | [Britt Nicole](https://open.spotify.com/artist/6BXionV4R0BunrFpSwIMUK) | [I'll Fight for You](https://open.spotify.com/album/59GGbgQ7lQ6dk2Jz8ClAsy) | 2:47 | 2022-02-04 | 2022-05-29 |
 | [ICE COLD](https://open.spotify.com/track/6Msy1aF3AU9pBRTAoGT9vK) | [808 BEEZY](https://open.spotify.com/artist/3CltJZLndpJKtpUyRVBB1k) | [JUDAS](https://open.spotify.com/album/7CbMcteFecyHS9pclma7sE) | 1:40 | 2022-11-04 | 2024-01-13 |
@@ -533,6 +533,7 @@
 | [Up Up Up \(Introducing Zach Savage\)](https://open.spotify.com/track/72PsXICuJgpSYYvjhJARa7) | [Anthony Brown & group therAPy](https://open.spotify.com/artist/4sgW8IRub0jAU29ecct87w), [Zach Savage](https://open.spotify.com/artist/6qboll02kzM1CJ3uuJr9JJ) | [Affirmations](https://open.spotify.com/album/7nsuo2vcsPXDQdCQBY6SYv) | 3:59 | 2023-11-02 | 2024-03-21 |
 | [Up Up Up \(Introducing Zach Savage\)](https://open.spotify.com/track/7g2SHePUAGKT8M9omdRmcy) | [Anthony Brown & group therAPy](https://open.spotify.com/artist/4sgW8IRub0jAU29ecct87w), [Zach Savage](https://open.spotify.com/artist/6qboll02kzM1CJ3uuJr9JJ) | [Up Up Up](https://open.spotify.com/album/6sUkrNQcQhJWpwdNb66yiF) | 3:59 | 2023-11-02 | 2023-11-07 |
 | [USE THIS GOSPEL \(feat\. Kanye West & Eminem\) \- REMIX](https://open.spotify.com/track/2u5jKAjyvyEDmsWTtfQzNf) | [DJ Khaled](https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP), [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR) | [GOD DID](https://open.spotify.com/album/6NuGZnOc88LcZpEkJIbO50) | 3:43 | 2022-09-03 | 2022-12-17 |
+| [VICIOUS CYCLE](https://open.spotify.com/track/1VbIQFz8NZevPwK8tZXD8H) | [EmanuelDaProphet](https://open.spotify.com/artist/5P0vV6Fw0YTdumAPZSkkuC), [Rylo Rodriguez](https://open.spotify.com/artist/0gg11prPP6OqtUvBcKnPpq) | [VICIOUS CYCLE](https://open.spotify.com/album/0CtRrHjzbmN7FdYC0r5iZv) | 3:28 | 2024-03-20 |  |
 | [VICTORY LAP](https://open.spotify.com/track/6enm65ZcZgLYwClZuHTXxF) | [Tedashii](https://open.spotify.com/artist/4c6lhwoOrmgNWvl0GxHlW1) | [Dead Or Alive Pt\. 1](https://open.spotify.com/album/2uDtoC5wiivwKT3RP7xcHl) | 2:54 | 2023-11-02 | 2024-02-03 |
 | [Voice](https://open.spotify.com/track/5RYhiYjZBI9hmVopULgdoO) | [BigBreeze](https://open.spotify.com/artist/7wrWSJHfACjw7s7gYXOXTt) | [Voice](https://open.spotify.com/album/5DpQd4GMkzUUQQsCe67j9V) | 2:12 | 2022-04-30 | 2023-11-03 |
 | [WAITING](https://open.spotify.com/track/7axHfZh6a7JQD8dmblDDmt) | [Bridge Music](https://open.spotify.com/artist/2dlCuzBPpSIeyY4ZCJBKGS), [AP](https://open.spotify.com/artist/5De3gFBkxhHFFckb1gHFnJ), [Reggie Dartey](https://open.spotify.com/artist/2hDO9Hvuh8vrSCYm3yRBui) | [WAITING](https://open.spotify.com/album/2oQ1qwYoczja6rQxwkVN6w) | 2:57 | 2022-02-04 | 2023-08-12 |

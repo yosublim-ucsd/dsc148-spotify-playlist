@@ -1,29 +1,13 @@
 {
   "description": "Classic songs from the legends of the hardcore scene.",
-  "num_followers": 212102,
+  "num_followers": 212195,
   "original_name": "Classic Hardcore",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmYzc5NThjMTgyMjM4M2UyM2JmYjI1NGJmZTM3NGI1ZDE5ZDJkZTQx",
+  "snapshot_id": "MCxiNTIwN2VlMjdiYmFlODk2ZTg1ODIwMDYzNjBlZWI1ODA2OGQ3Njk3",
   "tracks": [
-    {
-      "added_at": "2024-02-07 16:33:52",
-      "album": {
-        "name": "Something's Gotta Give",
-        "url": "https://open.spotify.com/album/41VrNLnQFFvhhga4iURHNQ"
-      },
-      "artists": [
-        {
-          "name": "Agnostic Front",
-          "url": "https://open.spotify.com/artist/3zDvanHxaETiHltPkKKYhT"
-        }
-      ],
-      "duration_ms": 214666,
-      "name": "Gotta Go",
-      "url": "https://open.spotify.com/track/4cMbAP64BETo4dBW8GUwYD"
-    },
     {
       "added_at": "2024-02-07 16:33:52",
       "album": {
@@ -39,6 +23,22 @@
       "duration_ms": 197226,
       "name": "Wake The Dead",
       "url": "https://open.spotify.com/track/58U3KUbCdpTEoZtGNnQBOa"
+    },
+    {
+      "added_at": "2024-02-07 16:33:52",
+      "album": {
+        "name": "Something's Gotta Give",
+        "url": "https://open.spotify.com/album/41VrNLnQFFvhhga4iURHNQ"
+      },
+      "artists": [
+        {
+          "name": "Agnostic Front",
+          "url": "https://open.spotify.com/artist/3zDvanHxaETiHltPkKKYhT"
+        }
+      ],
+      "duration_ms": 214666,
+      "name": "Gotta Go",
+      "url": "https://open.spotify.com/track/4cMbAP64BETo4dBW8GUwYD"
     },
     {
       "added_at": "2024-02-07 16:33:52",
@@ -283,22 +283,6 @@
     {
       "added_at": "2024-02-07 16:33:52",
       "album": {
-        "name": "Voice of Rebellion",
-        "url": "https://open.spotify.com/album/51TN24k8XMS8vQ98aUshFR"
-      },
-      "artists": [
-        {
-          "name": "Pro-Pain",
-          "url": "https://open.spotify.com/artist/56F64pmwSSCcmS1CxAnPk8"
-        }
-      ],
-      "duration_ms": 241343,
-      "name": "Voice of Rebellion",
-      "url": "https://open.spotify.com/track/2BNshqUpO2WSXRpp3lP37y"
-    },
-    {
-      "added_at": "2024-02-07 16:33:52",
-      "album": {
         "name": "Punk Rock Jukebox",
         "url": "https://open.spotify.com/album/0d1R6Y3apuX2qB5MOP61F6"
       },
@@ -311,6 +295,22 @@
       "duration_ms": 121360,
       "name": "Somebody's Gonna Get Their Head Kicked In",
       "url": "https://open.spotify.com/track/3jxtdFRy3VX71AbEPEjKgq"
+    },
+    {
+      "added_at": "2024-02-07 16:33:52",
+      "album": {
+        "name": "Voice of Rebellion",
+        "url": "https://open.spotify.com/album/51TN24k8XMS8vQ98aUshFR"
+      },
+      "artists": [
+        {
+          "name": "Pro-Pain",
+          "url": "https://open.spotify.com/artist/56F64pmwSSCcmS1CxAnPk8"
+        }
+      ],
+      "duration_ms": 241343,
+      "name": "Voice of Rebellion",
+      "url": "https://open.spotify.com/track/2BNshqUpO2WSXRpp3lP37y"
     },
     {
       "added_at": "2024-02-07 16:33:52",
@@ -555,22 +555,6 @@
     {
       "added_at": "2024-02-07 16:33:52",
       "album": {
-        "name": "Vision of Disorder",
-        "url": "https://open.spotify.com/album/5EeQOcInW3Mfo6dtUofKOD"
-      },
-      "artists": [
-        {
-          "name": "Vision Of Disorder",
-          "url": "https://open.spotify.com/artist/5EWBxA1pUqWVhFwBZYUQil"
-        }
-      ],
-      "duration_ms": 193066,
-      "name": "Element",
-      "url": "https://open.spotify.com/track/0NEDkO8NleQbN66lO2pl65"
-    },
-    {
-      "added_at": "2024-02-07 16:33:52",
-      "album": {
         "name": "Sound Of The Republic",
         "url": "https://open.spotify.com/album/42NliwV96RRrJCD0yS0SCm"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 212573,
       "name": "You Ignore Them All",
       "url": "https://open.spotify.com/track/35MYAs5EQtZ9c5NLlZammA"
+    },
+    {
+      "added_at": "2024-02-07 16:33:52",
+      "album": {
+        "name": "Vision of Disorder",
+        "url": "https://open.spotify.com/album/5EeQOcInW3Mfo6dtUofKOD"
+      },
+      "artists": [
+        {
+          "name": "Vision Of Disorder",
+          "url": "https://open.spotify.com/artist/5EWBxA1pUqWVhFwBZYUQil"
+        }
+      ],
+      "duration_ms": 193066,
+      "name": "Element",
+      "url": "https://open.spotify.com/track/0NEDkO8NleQbN66lO2pl65"
     },
     {
       "added_at": "2024-02-07 16:33:52",
@@ -635,6 +635,22 @@
     {
       "added_at": "2024-02-07 16:33:52",
       "album": {
+        "name": "As Real As It Gets",
+        "url": "https://open.spotify.com/album/5jOrOQlAwdDFYZYmcdngtv"
+      },
+      "artists": [
+        {
+          "name": "Sworn Enemy",
+          "url": "https://open.spotify.com/artist/1I16IF1ltabPiw70Y6KG4F"
+        }
+      ],
+      "duration_ms": 216600,
+      "name": "Sworn Enemy",
+      "url": "https://open.spotify.com/track/41A2Hv0SEKnse3TWVuxADF"
+    },
+    {
+      "added_at": "2024-02-07 16:33:52",
+      "album": {
         "name": "Death Knows Your Name",
         "url": "https://open.spotify.com/album/6U0Bmn36FE4pISKv5fluBK"
       },
@@ -663,22 +679,6 @@
       "duration_ms": 220453,
       "name": "Shark Ethic",
       "url": "https://open.spotify.com/track/7lWpl0id3QSafkh4rCBCJR"
-    },
-    {
-      "added_at": "2024-02-07 16:33:52",
-      "album": {
-        "name": "As Real As It Gets",
-        "url": "https://open.spotify.com/album/5jOrOQlAwdDFYZYmcdngtv"
-      },
-      "artists": [
-        {
-          "name": "Sworn Enemy",
-          "url": "https://open.spotify.com/artist/1I16IF1ltabPiw70Y6KG4F"
-        }
-      ],
-      "duration_ms": 216600,
-      "name": "Sworn Enemy",
-      "url": "https://open.spotify.com/track/41A2Hv0SEKnse3TWVuxADF"
     },
     {
       "added_at": "2024-02-07 16:33:52",
@@ -715,22 +715,6 @@
     {
       "added_at": "2024-02-07 16:33:52",
       "album": {
-        "name": "Neutralize the Threat",
-        "url": "https://open.spotify.com/album/1cvZ2jWkoHj5uxdl3P8VP1"
-      },
-      "artists": [
-        {
-          "name": "Earth Crisis",
-          "url": "https://open.spotify.com/artist/4ITkzAQWPILwWpEWJxHB9g"
-        }
-      ],
-      "duration_ms": 218773,
-      "name": "Total War",
-      "url": "https://open.spotify.com/track/6ssujYDvWvyC5H8ZBjRW3K"
-    },
-    {
-      "added_at": "2024-02-07 16:33:52",
-      "album": {
         "name": "Dedication",
         "url": "https://open.spotify.com/album/5snErIyF82CrqTpnvLQ32G"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 78099,
       "name": "Glue",
       "url": "https://open.spotify.com/track/58GYzvbTEO6p012RiuYaEp"
+    },
+    {
+      "added_at": "2024-02-07 16:33:52",
+      "album": {
+        "name": "Neutralize the Threat",
+        "url": "https://open.spotify.com/album/1cvZ2jWkoHj5uxdl3P8VP1"
+      },
+      "artists": [
+        {
+          "name": "Earth Crisis",
+          "url": "https://open.spotify.com/artist/4ITkzAQWPILwWpEWJxHB9g"
+        }
+      ],
+      "duration_ms": 218773,
+      "name": "Total War",
+      "url": "https://open.spotify.com/track/6ssujYDvWvyC5H8ZBjRW3K"
     },
     {
       "added_at": "2024-02-07 16:33:52",
@@ -795,18 +795,18 @@
     {
       "added_at": "2024-02-07 16:33:52",
       "album": {
-        "name": "Set Your Goals",
-        "url": "https://open.spotify.com/album/5iQwtthhrBr9UIPD717vda"
+        "name": "Cognicide",
+        "url": "https://open.spotify.com/album/1GQrz6GLWJ9WNijMQH4MzH"
       },
       "artists": [
         {
-          "name": "CIV",
-          "url": "https://open.spotify.com/artist/1PyldAvwu9cUk9wn2wBWh9"
+          "name": "Western Addiction",
+          "url": "https://open.spotify.com/artist/7xnD2Codf7FyLxsqPh8CIA"
         }
       ],
-      "duration_ms": 148880,
-      "name": "Choices Made",
-      "url": "https://open.spotify.com/track/0r4jDnFTGZCwXiUiiPx7WL"
+      "duration_ms": 97266,
+      "name": "Mailer, Meet Jim",
+      "url": "https://open.spotify.com/track/0jxUbJ6Yoj74NqXuOTkI6a"
     }
   ],
   "unique_name": "Classic Hardcore",

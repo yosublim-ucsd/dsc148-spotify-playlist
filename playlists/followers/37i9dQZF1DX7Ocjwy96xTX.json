@@ -1,9 +1,27 @@
 {
-  "2024-03-21": 224188,
+  "2024-03-22": 224306,
   "date_first_scraped": "2022-09-04",
   "description": "back up in the sky",
   "name": "IRL ANGEL ",
   "tracks": [
+    {
+      "album": {
+        "name": "melanchole",
+        "url": "https://open.spotify.com/album/10WzRaNWnFUQNrW2FpqQSQ"
+      },
+      "artists": [
+        {
+          "name": "salvia palth",
+          "url": "https://open.spotify.com/artist/0pg0Zm8FsGAYy5kdHuBnSo"
+        }
+      ],
+      "date_added": "2023-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 84701,
+      "name": "(dream)",
+      "url": "https://open.spotify.com/track/17YNmMy03QLPirmBzWxFa6"
+    },
     {
       "album": {
         "name": "melanchole",
@@ -17,7 +35,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-21",
       "duration_ms": 84741,
       "name": "(dream)",
       "url": "https://open.spotify.com/track/39iczvfNkZstM8KY8dNDFC"
@@ -2143,7 +2161,7 @@
     {
       "album": {
         "name": "melanchole",
-        "url": "https://open.spotify.com/album/23KJrzHF1IBfjzpRgTtaJx"
+        "url": "https://open.spotify.com/album/10WzRaNWnFUQNrW2FpqQSQ"
       },
       "artists": [
         {
@@ -2154,6 +2172,24 @@
       "date_added": "2023-12-05",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 161422,
+      "name": "i was all over her",
+      "url": "https://open.spotify.com/track/6mSnSuOhgHHohqeBw76jRV"
+    },
+    {
+      "album": {
+        "name": "melanchole",
+        "url": "https://open.spotify.com/album/23KJrzHF1IBfjzpRgTtaJx"
+      },
+      "artists": [
+        {
+          "name": "salvia palth",
+          "url": "https://open.spotify.com/artist/0pg0Zm8FsGAYy5kdHuBnSo"
+        }
+      ],
+      "date_added": "2023-12-05",
+      "date_added_asterisk": false,
+      "date_removed": "2024-03-21",
       "duration_ms": 161462,
       "name": "i was all over her",
       "url": "https://open.spotify.com/track/7svpAkwc6xaSxlbZ7V7JiS"

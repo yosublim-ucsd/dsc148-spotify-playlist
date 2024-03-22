@@ -4,7 +4,7 @@
 
 > a new world of alternative electronic music\. Cover: Moktar
 
-576 songs - 1 day 18 hr 26 min
+581 songs - 1 day 18 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,6 +59,7 @@
 | [Basilisk](https://open.spotify.com/track/0JtZWbLmRuBDRKFaU9o2pL) | [Martyn](https://open.spotify.com/artist/68i1l0GWQ5dwzAy1UVNHNw), [Om Unit](https://open.spotify.com/artist/3rblB9Pm51uKd9uYPVPB7B) | [AJ^6](https://open.spotify.com/album/6818Zvytt78CpfD2rgnMh7) | 4:56 | 2023-04-27 | 2023-06-02 |
 | [Bass Keeps Calling](https://open.spotify.com/track/1vstmym0SNbos2IOaOfTOg) | [Becca Hatch](https://open.spotify.com/artist/1ypgMpyZkcMwXMkWuNFwyg), [Tentendo](https://open.spotify.com/artist/3eUpxakSdjFZ5ROQKgfL2W) | [Bass Keeps Calling](https://open.spotify.com/album/3l2cTC2QR8SzHjPImhLXzt) | 2:52 | 2024-02-16 |  |
 | [Bassian Plain](https://open.spotify.com/track/2iRe0A5hRK96LsjO6DYiwE) | [Donald's House](https://open.spotify.com/artist/48Dnzf6Mfo0Z5gjpOKVuLP) | [Bassian Plain EP](https://open.spotify.com/album/6mrUBGC38bWSZhZSsfsG5O) | 7:09 | 2022-12-08 | 2023-02-17 |
+| [Be My Medicine](https://open.spotify.com/track/6uE1YaulY9ZIb5zt5ChrEA) | [RONA.](https://open.spotify.com/artist/5RCdebItgr1WsBoXoGgPb6) | [Be My Medicine](https://open.spotify.com/album/63AIHLFfC1N6ypVOlySENg) | 4:34 | 2024-03-21 |  |
 | [Beautiful Strangers](https://open.spotify.com/track/5Un6I8vHv1x0HdWEXjOgwc) | [DJ BORING](https://open.spotify.com/artist/3MkIU5jhXTMK9pYQTRVI6p) | [Beautiful Strangers](https://open.spotify.com/album/188fPxDRvpLMpq3q9a0geW) | 3:57 | 2023-05-25 | 2023-08-04 |
 | [Before The Storm](https://open.spotify.com/track/6fLnDbhsPQhdMrjiC033Vs) | [SWIM](https://open.spotify.com/artist/1OxXLWb0AXEgOfTUzlDg3V) | [11:11](https://open.spotify.com/album/5B9sSoX03fSWm4kqIVQVLT) | 5:08 | 2022-12-08 | 2023-02-24 |
 | [Bel Mercy](https://open.spotify.com/track/7udjTmsTZqdB1xLOHGJ8dM) | [Jengi](https://open.spotify.com/artist/4lgrPvofm0IT605L9OrOTN) | [Bel Mercy](https://open.spotify.com/album/1Fmu97Zy0zsnp63rPPsOFF) | 2:49 | 2022-12-08 | 2023-03-18 |
@@ -104,6 +105,7 @@
 | [camera shy](https://open.spotify.com/track/1ZkSe68c8K8ewcW30ZuKdU) | [Cassettes For Kids](https://open.spotify.com/artist/4Zs7sfD9SC3wRBZ0U29CPB) | [camera shy](https://open.spotify.com/album/42cgYvfGvkOgDYqM3oVbkU) | 5:19 | 2023-09-07 | 2023-09-29 |
 | [Can't Fix A Broken Heart](https://open.spotify.com/track/4UgstCyrgpaPLVVsf64sez) | [DJ BORING](https://open.spotify.com/artist/3MkIU5jhXTMK9pYQTRVI6p) | [Beautiful Strangers](https://open.spotify.com/album/5dtvpvsFIOwgBB85M3hxKR) | 5:25 | 2023-06-29 | 2023-11-17 |
 | [Can't Hang \- Disco Lines Remix](https://open.spotify.com/track/2O6Om9fTQr9VyUYp3C27Zk) | [Justin Jay](https://open.spotify.com/artist/5k5eiijuHxrGwXp2Pz37GZ), [Disco Lines](https://open.spotify.com/artist/5Kmr0b3ip8g9P2i0dLTC3Z) | [Can't Hang \(Disco Lines Remix\)](https://open.spotify.com/album/5885LHE57QcvhGUuk6ABeg) | 3:46 | 2023-02-02 | 2023-03-10 |
+| [Can't Let Go](https://open.spotify.com/track/5CS3Y1sfMFXftNEKI5etxs) | [Logic1000](https://open.spotify.com/artist/2EFsfh1zewsSWhDINv7j1I) | [Can't Let Go](https://open.spotify.com/album/3Z8wJUm2qbFEnyopF2aDVS) | 3:59 | 2024-03-21 |  |
 | [Candidasa](https://open.spotify.com/track/2UdB4mqfNI5M01Vpfta2tU) | [DJ Koze](https://open.spotify.com/artist/1kR99O4MgSTasyeJh8UFCg) | [Candidasa EP](https://open.spotify.com/album/6WXn29FqzQK2dW4M8DNPC4) | 10:21 | 2023-07-27 | 2023-09-08 |
 | [Care 4 U](https://open.spotify.com/track/5qnR7addSkFe7TXDV2PDry) | [Sam Alfred](https://open.spotify.com/artist/4PVzoVUDxey3mxGdkf4HgR) | [Care 4 U](https://open.spotify.com/album/42UbW8NCTXppa42NEgAuPE) | 4:33 | 2024-02-22 |  |
 | [Carey Street](https://open.spotify.com/track/6c6gG7RCWf7aphY9tClCEr) | [Subjoi](https://open.spotify.com/artist/5yP54uGWok9LAIYdH7tz5p) | [Rotary](https://open.spotify.com/album/14sZpdLiHwctdgJDE8dOuz) | 4:18 | 2023-09-14 | 2023-11-24 |
@@ -272,7 +274,9 @@
 | [In Response](https://open.spotify.com/track/2Twprkt2frZEbhG3ADc3BF) | [Thrupence](https://open.spotify.com/artist/33WEbJHirq23bohapH3pI9), [Jack Vanzet](https://open.spotify.com/artist/3Q4bHGAfG5KexzVaWE4fnf) | [In Response](https://open.spotify.com/album/3T7fD9JJOdbaCjS7rj1aVa) | 3:34 | 2023-02-09 | 2023-03-25 |
 | [In The Balance](https://open.spotify.com/track/1QCCuMxbBgvcAR9KuN4n1q) | [Vitesse X](https://open.spotify.com/artist/7KPlumtsoyeN8Qp3EPxv7L) | [In The Balance](https://open.spotify.com/album/7vL0WlFxuztuXUl0hTcMFG) | 3:06 | 2023-01-19 | 2023-02-24 |
 | [Inner Elation](https://open.spotify.com/track/3bpdVGbZtTQRjTsQC0JtJK) | [Aldonna](https://open.spotify.com/artist/3EPcykAa9mr5CBXcDBQCxS) | [Inner Elation](https://open.spotify.com/album/5N6xyGUcrScIqUyv5qtKgq) | 5:23 | 2023-03-02 | 2023-04-14 |
+| [Inside](https://open.spotify.com/track/5DKvLR4yZ3YGmHacJinskC) | [Pretty Girl](https://open.spotify.com/artist/6KkltYAOOGsCaW7dO9jF98) | [Inside](https://open.spotify.com/album/3YuASjHrUIKD6mkV3Fg3RN) | 3:46 | 2024-03-21 |  |
 | [Into The Fire](https://open.spotify.com/track/3BQZdVLLg8hA3jQLMJzXty) | [STÜM](https://open.spotify.com/artist/2voP6uZbMR9fJ49e8HE9Fd) | [Love In The Sun \- EP](https://open.spotify.com/album/0Fz6d9y4o7Ykv0QoOcRb1S) | 5:02 | 2023-09-28 | 2023-11-24 |
+| [Introspection](https://open.spotify.com/track/3qsjpcqkEnyDItDzV7rkbp) | [Ukiyo](https://open.spotify.com/artist/0Geqa2iYzhQA5oVKUWuu0x) | [Introspection](https://open.spotify.com/album/54d4L24hVqQRkKdJqbHDLo) | 4:56 | 2024-03-21 |  |
 | [is it just me.](https://open.spotify.com/track/4nZu5GNuNzI08ZOXIGdgVO) | [everythingnnothing](https://open.spotify.com/artist/034dZjB1RkTzm13JUfjFIF), [Nihility](https://open.spotify.com/artist/3GyuJZ9X2SEqU9qf6a993U), [hoowup](https://open.spotify.com/artist/4ymm68AEHKaqFmQ9JgYMSv) | [is it just me.](https://open.spotify.com/album/6QyKnZWH9kgGCRIxYd1RN6) | 3:06 | 2023-06-29 | 2023-07-21 |
 | [Is U](https://open.spotify.com/track/4Z3RGx7Be5plLoIw7i83wX) | [Overmono](https://open.spotify.com/artist/01PnN11ovfen6xUOHfNpn3) | [Is U](https://open.spotify.com/album/4jO5B8uUoYusn8Yb8iSoVo) | 3:48 | 2023-01-19 | 2023-05-26 |
 | [It Ain't Over](https://open.spotify.com/track/2CXgBOHvaylFWhzk8aoNPG) | [DJ HEARTSTRING](https://open.spotify.com/artist/5tcwaJBUyEdxQxvieuQxU7) | [It Ain't Over](https://open.spotify.com/album/1JOMt08TLz8kwa9GJXP4Ya) | 3:35 | 2023-06-29 | 2023-07-28 |
@@ -301,6 +305,7 @@
 | [Let's Work \- Radio Edit](https://open.spotify.com/track/4Wcl6jXGxyjFBKlXHZZgEj) | [Jeremiah Asiamah](https://open.spotify.com/artist/4a8asYwblfRPbHxD6Oc7W4) | [Let's Work \(Radio Edit\)](https://open.spotify.com/album/5Gx2vMTRqTurmCQh5SdXfo) | 2:34 | 2023-03-09 | 2023-04-07 |
 | [Liana](https://open.spotify.com/track/4m1BbY9mE352gfAVNa9Idz) | [Jacana People](https://open.spotify.com/artist/2f0w048dh1LH5QPDvwKECY), [Lawrence Hart](https://open.spotify.com/artist/2pQj31A8LgfwBTGmhHdRXa) | [Sunblind](https://open.spotify.com/album/4EN8YMJK0uaD5yfkhg6aNS) | 4:24 | 2023-06-08 | 2023-07-28 |
 | [Liberty, Oh!](https://open.spotify.com/track/5f2GKOcHLY1o6cIMnTJu29) | [Galcher Lustwerk](https://open.spotify.com/artist/1c7bxvBwJrMuZKwx4EDPHf) | [Liberty, Oh!](https://open.spotify.com/album/4HEPvyP9r3jDK4HCbumujC) | 5:26 | 2023-11-30 |  |
+| [Lies](https://open.spotify.com/track/6SfsmpYmFvKOoLxQATzqwp) | [Dena Amy](https://open.spotify.com/artist/6A1M7uYGABvWsuIPrMaGLM) | [Lies](https://open.spotify.com/album/1ZS3N0G3zEzIcHtIoLYl90) | 7:08 | 2024-03-21 |  |
 | [Lifetime](https://open.spotify.com/track/1oH6oeK8iKeRL9VTQY5w2r) | [Tobiahs](https://open.spotify.com/artist/4eHzBO6qaL2wt35kENSbTs) | [Lifetime](https://open.spotify.com/album/0CjVrbnz8839PBl5E6b17H) | 2:38 | 2024-02-09 |  |
 | [Like The Old Days](https://open.spotify.com/track/6mfM11rZkoXsU5xAArF4Ix) | [Barry Can't Swim](https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl) | [Like The Old Days](https://open.spotify.com/album/1UKTx4oagTgTO2PVtoTWf3) | 4:00 | 2022-12-08 | 2023-03-18 |
 | [Likshot](https://open.spotify.com/track/6GY4eHl6UjFLpqFAPEG6QQ) | [Surusinghe](https://open.spotify.com/artist/7m5jnraNhVbxMZ7B8FvCSe) | [Likshot](https://open.spotify.com/album/2ePWaT9H5e7D9TF42S5WpF) | 5:32 | 2023-02-23 | 2023-05-26 |

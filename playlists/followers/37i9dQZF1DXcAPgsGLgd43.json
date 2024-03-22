@@ -1,7 +1,7 @@
 {
-  "2024-03-21": 4069,
+  "2024-03-22": 4100,
   "date_first_scraped": "2022-05-13",
-  "description": "The pulse of Latin House",
+  "description": "The pulse of Latin House \ud83d\udc83\ud83c\udffd\ud83d\udc83\ud83c\udffd",
   "name": "Latin House",
   "tracks": [
     {
@@ -1545,7 +1545,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-21",
       "duration_ms": 160000,
       "name": "Esta Pegao",
       "url": "https://open.spotify.com/track/4Lwjq2BbsaSGguUmljBxGK"
@@ -2581,6 +2581,36 @@
       "duration_ms": 303240,
       "name": "Me Duele el Alma",
       "url": "https://open.spotify.com/track/3bfX8IHLcbE10AYhTMnMNi"
+    },
+    {
+      "album": {
+        "name": "Me Gusta",
+        "url": "https://open.spotify.com/album/2CaLuhIpgR5omJCyx2rnm4"
+      },
+      "artists": [
+        {
+          "name": "Dmitri Saidi",
+          "url": "https://open.spotify.com/artist/5rATH049aVcH3W1RIoiU1g"
+        },
+        {
+          "name": "Chicks Luv Us",
+          "url": "https://open.spotify.com/artist/6tb3j9CDb60zsHm1lN8K02"
+        },
+        {
+          "name": "BMW KENNY",
+          "url": "https://open.spotify.com/artist/3n6wgt7LmxAnT0XOHleQcP"
+        },
+        {
+          "name": "Vikina",
+          "url": "https://open.spotify.com/artist/0acSKGMIRsorWH3cQd5JrE"
+        }
+      ],
+      "date_added": "2024-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164307,
+      "name": "Me Gusta",
+      "url": "https://open.spotify.com/track/1HU2VVHRKbcvHvqUMY5BqN"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO22OCjn.md) - [plain]
 
 > This is Burna Boy\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 271,885 likes - 49 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 272,024 likes - 49 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO22OCjn.md) - [plain]
 | 48 | [Jerusalema \(feat\. Burna Boy & Nomcebo Zikode\) \- Remix](https://open.spotify.com/track/1dmES1X8l1AnFBy2gR3wYA) | [Master KG](https://open.spotify.com/artist/523y9KSneKh6APd1hKxLuF), [Nomcebo Zikode](https://open.spotify.com/artist/4cfKtwkefMW3aiXtxfw8w6), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Jerusalema \(Deluxe\)](https://open.spotify.com/album/4Kf2NqytdWUKXgnvsRVlLR) | 5:28 |
 | 49 | [Aboboyaa \(feat\. Burna Boy\)](https://open.spotify.com/track/2KEMHoK7Tz7rlTUalQXMUk) | [Popcaan](https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Great Is He](https://open.spotify.com/album/5DVnzAiFpPirUnh3QPv1ZR) | 2:46 |
 
-Snapshot ID: `Mjg1MTU2NjEsMDAwMDAwMDA4YzdiNDY0NTUwM2ZhY2IwMDIxZGE2NWE3YTRiODEwYQ==`
+Snapshot ID: `Mjg1MTcwNzUsMDAwMDAwMDAzN2M3YzUyYWNlNjdiY2MyZDhjYTI3MWM0NzI1N2IyOQ==`

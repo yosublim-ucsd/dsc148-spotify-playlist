@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2zJGRjWhK7Q.md) - [plain]
 
 > Lo mejor de los '70\. Foto: Ismael Rivera
 
-[Spotify](https://open.spotify.com/user/spotify) - 189,211 likes - 50 songs - 4 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 189,311 likes - 50 songs - 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,8 +21,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2zJGRjWhK7Q.md) - [plain]
 | 11 | [Sigue Tu Camino](https://open.spotify.com/track/6SZrhuLGjIzsliOLEG7Y7O) | [Dimension Latina](https://open.spotify.com/artist/2ixSzFmACsZSsx40fXTNYk) | [Una Dimensión De Éxitos](https://open.spotify.com/album/5uDlRcsa6B0am5CssuZcXV) | 3:49 |
 | 12 | [Periódico De Ayer](https://open.spotify.com/track/0A6uCqTC2RS0x7lyDTIend) | [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP) | [De Ti Depende](https://open.spotify.com/album/01TXLHVDAd53Nr0YBSas2N) | 6:49 |
 | 13 | [El Ratón](https://open.spotify.com/track/4nB0lLsweZhCQQYIMnFjSB) | [Cheo Feliciano](https://open.spotify.com/artist/1Ypa8o8muvDcgOt1YYtcOC), [Joe Cuba Sextet](https://open.spotify.com/artist/7glnjTMVq4r8iNugFbuIqj) | [Anthology](https://open.spotify.com/album/3ukST4dz4n39IwgDiFTk8x) | 3:48 |
-| 14 | [El Nazareno](https://open.spotify.com/track/1DJ0vIXJ2hCZi1aZ9vv32v) | [Ismael Rivera](https://open.spotify.com/artist/788HzQOFhN3mcDo0InBqbJ) | [Maelo...El Único](https://open.spotify.com/album/1v14JDuh5QOUu1KVqfPwx7) | 5:39 |
-| 15 | [Zumbale](https://open.spotify.com/track/6M5z2Pca6OuN4l5n5kId3E) | [Henry Fiol](https://open.spotify.com/artist/3mnx8ehcNQEYMFSGXWOaVB) | [Creativo](https://open.spotify.com/album/6tN89OXbeSQoc0YU1zBOlq) | 5:05 |
+| 14 | [Zumbale](https://open.spotify.com/track/6M5z2Pca6OuN4l5n5kId3E) | [Henry Fiol](https://open.spotify.com/artist/3mnx8ehcNQEYMFSGXWOaVB) | [Creativo](https://open.spotify.com/album/6tN89OXbeSQoc0YU1zBOlq) | 5:05 |
+| 15 | [El Nazareno](https://open.spotify.com/track/1DJ0vIXJ2hCZi1aZ9vv32v) | [Ismael Rivera](https://open.spotify.com/artist/788HzQOFhN3mcDo0InBqbJ) | [Maelo...El Único](https://open.spotify.com/album/1v14JDuh5QOUu1KVqfPwx7) | 5:39 |
 | 16 | [La Murga](https://open.spotify.com/track/5O2Id1rWAmR9ff9kGUfikf) | [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW), [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP), [Yomo Toro](https://open.spotify.com/artist/112OOUPY3pq7Hr35s3po6E) | [Asalto Navideño](https://open.spotify.com/album/4TnqBA58KybPV53g95LHLe) | 5:34 |
 | 17 | [Triste Y Vacía](https://open.spotify.com/track/4eJXH4tss0nwgHlaPqMwSc) | [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP), [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW) | [Vigilante](https://open.spotify.com/album/0gNCmEbPNV1OJ6JIcExTB7) | 6:11 |
 | 18 | [Estamos en Salsa](https://open.spotify.com/track/6nONybSopBGecWPK0pcvva) | [Wayne Gorbea](https://open.spotify.com/artist/0tvNMJ8jl7lHOHv3ykLYvD) | [La Salsa del Conjunto Salsa](https://open.spotify.com/album/7oKUzawRV3aG7THNczUyT8) | 4:49 |
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2zJGRjWhK7Q.md) - [plain]
 | 26 | [Lejos De Ti](https://open.spotify.com/track/2F13ZZuJ1EQnWhdvBpsvpD) | [Angel Canales](https://open.spotify.com/artist/4bJWcXUgUrQl4E4ru6VapB) | [Sabor](https://open.spotify.com/album/4sJYlpxdpG1nnResKUbAKD) | 4:15 |
 | 27 | [El Preso](https://open.spotify.com/track/5N8HRh3pKXakJrdxQKMi1j) | [Fruko Y Sus Tesos](https://open.spotify.com/artist/5aAlzehdUM14I4ppq24Xob) | [Narcos, Vol\. 2 \(More Music from the Netflix Original Series\)](https://open.spotify.com/album/0EJRlYjvVcym9K4wrww9vB) | 4:53 |
 | 28 | [Sonido Bestial](https://open.spotify.com/track/3ouNYFFQeYMJXjqGK0S1hM) | [Richie Ray & Bobby Cruz](https://open.spotify.com/artist/56eTRCwZ13vVWAmrG0dMnq) | [A Lifetime of Hits..\. \(Live At Centro de Bellas Artes, San Juan, Puerto Rico.\)](https://open.spotify.com/album/0u75f0pYJy2cGHNiikXGlz) | 9:58 |
-| 29 | [Señor Sereno \- Live](https://open.spotify.com/track/4tzLQ79qkaQj9nQexQilon) | [Orquesta Harlow](https://open.spotify.com/artist/7tR38XlRHmElbNAWRiHb9W), [Ismael Miranda](https://open.spotify.com/artist/5S3BxZrK4hYN3fwsw8oumq) | [Oportunidad](https://open.spotify.com/album/4YnL0cm0xt3zoqqsLi9lVv) | 5:31 |
-| 30 | [El Negro Bembón](https://open.spotify.com/track/5HBSFow30fXy0bPsCji7b9) | [Cortijo Y Su Combo](https://open.spotify.com/artist/4S3JIryQM3mFVhXmQKjtma), [Ismael Rivera](https://open.spotify.com/artist/788HzQOFhN3mcDo0InBqbJ) | [Baile Con Cortijo](https://open.spotify.com/album/0GlMPsTR4U1x1k3TkUcK7o) | 3:00 |
+| 29 | [El Negro Bembón](https://open.spotify.com/track/5HBSFow30fXy0bPsCji7b9) | [Cortijo Y Su Combo](https://open.spotify.com/artist/4S3JIryQM3mFVhXmQKjtma), [Ismael Rivera](https://open.spotify.com/artist/788HzQOFhN3mcDo0InBqbJ) | [Baile Con Cortijo](https://open.spotify.com/album/0GlMPsTR4U1x1k3TkUcK7o) | 3:00 |
+| 30 | [Señor Sereno \- Live](https://open.spotify.com/track/4tzLQ79qkaQj9nQexQilon) | [Orquesta Harlow](https://open.spotify.com/artist/7tR38XlRHmElbNAWRiHb9W), [Ismael Miranda](https://open.spotify.com/artist/5S3BxZrK4hYN3fwsw8oumq) | [Oportunidad](https://open.spotify.com/album/4YnL0cm0xt3zoqqsLi9lVv) | 5:31 |
 | 31 | [Quitate La Máscara](https://open.spotify.com/track/7AhoOwG8qWE5RK7GS1XA6w) | [Ray Barretto](https://open.spotify.com/artist/2h4ndKS2vRWeFLpq8ARu0D) | [Barretto Power](https://open.spotify.com/album/5RxIBMJ5ZrQo1YmD1bk9k7) | 4:30 |
 | 32 | [Vagabundo](https://open.spotify.com/track/3drdfMEzD3EoLCdvAB4bhr) | [El Gran Combo De Puerto Rico](https://open.spotify.com/artist/6nnspeopmJAG07xOxHmqTu), [Andy Montañez](https://open.spotify.com/artist/6RMWFexOHVj5ctezneQH5v) | [Aqui Esta el Reencuentro](https://open.spotify.com/album/2Vpk4g41LQN5eD4A7G48ld) | 4:50 |
 | 33 | [Aguanile](https://open.spotify.com/track/0pX477ap2l86BbHfKTncpM) | [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW), [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP) | [El Juicio](https://open.spotify.com/album/3VGeuVPBeITXJwWt2YUPZW) | 6:09 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2zJGRjWhK7Q.md) - [plain]
 | 49 | [Juliana](https://open.spotify.com/track/4HORNZa8fdeg2pjJBm51Zz) | [Cuco Valoy](https://open.spotify.com/artist/0RdKPjwSwfx6jqqdgkyGmE) | [Salsas Grandes Éxitos](https://open.spotify.com/album/5TZ0b6WVre1uW94NxmI4WP) | 4:20 |
 | 50 | [Popurrí Navideño / Estrella De Oriente \(De Tierras Lejanas\) / Noche De Paz / La Virgen María / La Tierra Mía](https://open.spotify.com/track/4b6c7ugOlWaVBUmCElgImW) | [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW), [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP) | [Asalto Navideño](https://open.spotify.com/album/4TnqBA58KybPV53g95LHLe) | 3:36 |
 
-Snapshot ID: `MCw4YjA5Y2I5OTYwOWM5MGQ1NTY0NTlhOWU4NGFlN2JjNzZhODVhMDJj`
+Snapshot ID: `MCxhYWIyNWEzOWMzNjE2OTIwODQzZmUzMWM5NGQwOTZjMmZiZTRmY2Q1`

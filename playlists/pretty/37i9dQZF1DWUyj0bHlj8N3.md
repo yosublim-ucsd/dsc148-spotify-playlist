@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUyj0bHlj8N3.md) - [plain]
 
 > Canciones y beats que te llevan al siguiente nivel.
 
-[Spotify](https://open.spotify.com/user/spotify) - 277,925 likes - 60 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 277,986 likes - 60 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Don't Let Me Down](https://open.spotify.com/track/1i1fxkWeaMmKEB4T7zqbzK) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp), [Daya](https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH) | [Don't Let Me Down](https://open.spotify.com/album/2SByipSK8eZ2pasaIwwzhf) | 3:28 |
+| 1 | [Don't Let Me Down \(feat\. Daya\)](https://open.spotify.com/track/1i1fxkWeaMmKEB4T7zqbzK) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp), [Daya](https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH) | [Don't Let Me Down \(feat\. Daya\)](https://open.spotify.com/album/2SByipSK8eZ2pasaIwwzhf) | 3:28 |
 | 2 | [Astronaut In The Ocean \- Alok Remix](https://open.spotify.com/track/1yX6sh2TkrT5hsXodo7aS6) | [Masked Wolf](https://open.spotify.com/artist/1uU7g3DNSbsu0QjSEqZtEd), [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W) | [Astronaut In The Ocean \(Alok Remix\)](https://open.spotify.com/album/7M3xleJoRyne18xf0fM9Jo) | 2:08 |
 | 3 | [In the Name of Love](https://open.spotify.com/track/23L5CiUhw2jV1OIMwthR3S) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [In the Name of Love](https://open.spotify.com/album/1FOJ5IXGXe8dl0cXvCU6wK) | 3:15 |
 | 4 | [Goosebumps \- Remix](https://open.spotify.com/track/5uEYRdEIh9Bo4fpjDd4Na9) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [HVME](https://open.spotify.com/artist/2o08sCWF5yyo2G4DCiT7T9) | [Goosebumps \(Remix\)](https://open.spotify.com/album/3SdFuYwyWoq7kuaHdTDcyD) | 2:42 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUyj0bHlj8N3.md) - [plain]
 | 59 | [Tell Me A Lie](https://open.spotify.com/track/4ccYRZ7WptUbPD3RZ0BhvP) | [Jonas Aden](https://open.spotify.com/artist/1qq5e02CcWNFqZMbmdrIcj) | [Tell Me A Lie](https://open.spotify.com/album/02NfjCu6aYB6k14uNchflD) | 2:41 |
 | 60 | [The G.O.A.T.](https://open.spotify.com/track/1hUmqRBZpseNjByPAEW6AJ) | [Oliver Heldens](https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p), [Mesto](https://open.spotify.com/artist/0RViEWnZO2VhmY4oI0PhF9) | [The G.O.A.T.](https://open.spotify.com/album/3WNP6JVlFZke5TwAToMtkh) | 3:21 |
 
-Snapshot ID: `MCw0MDY2ZTJiN2UzOTNiOWM3MjhkZTJkYzJkNDk2NzU1NDI4ZTJkN2Vj`
+Snapshot ID: `MCw1NWE1MmMyNTBiZGM3MTBiOGE3ZTVmMzgzN2ZlYjA2ZWRhNDg4NmQ1`

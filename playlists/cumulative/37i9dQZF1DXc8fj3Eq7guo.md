@@ -4,7 +4,7 @@
 
 > Tag your location, we shall pass by as we go around Africa
 
-67 songs - 4 hr 37 min
+68 songs - 4 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,9 +57,10 @@
 | [Morocco](https://open.spotify.com/track/2ljF7c0hX2YU2K5BOzC5LU) | [Cruel Santino](https://open.spotify.com/artist/15GgEOJiFyjQm4tZ4D7qih) | [Mandy & The Jungle](https://open.spotify.com/album/4IMFZY59ree679oXQS36xM) | 3:06 | 2023-09-08 |  |
 | [Morogoro](https://open.spotify.com/track/653sdYtuZPYKZHr6GRplOX) | [Tankie DJ](https://open.spotify.com/artist/5QhPNPVnSivVz4R0PXZN3L) | [Morogoro](https://open.spotify.com/album/1SwmQQRqFY1OsPBpXjGE4k) | 6:58 | 2023-09-08 | 2023-10-23 |
 | [Mzansi](https://open.spotify.com/track/6h6lRoxhGgkfLw6pVMvPHN) | [Stonebwoy](https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq), [Eindo](https://open.spotify.com/artist/6kHkTLWCtE88wnK3XKXFFr), [Turaz](https://open.spotify.com/artist/6G0KGHioY6sCFMNozFUQRC) | [Necessary Evil](https://open.spotify.com/album/5DAnRaWABIjjFFNdMFOPrc) | 3:49 | 2023-09-08 |  |
-| [Nairobi](https://open.spotify.com/track/1QzPmQynOP65qaOuZDJUbm) | [Bensoul](https://open.spotify.com/artist/09vo12hHajgG2cZzq0rGmE), [Sauti Sol](https://open.spotify.com/artist/4Rj9lQm9oSiMlirgpsM6eo), [Nviiri The Storyteller](https://open.spotify.com/artist/7xPDTxQrpZPvvI0LzuO73p), [Mejja](https://open.spotify.com/artist/5VnDOE1MEaJ0VOgSypOi3u) | [NAIROBI](https://open.spotify.com/album/2pVb3IsYOZWdYNk6KJIjh4) | 3:40 | 2023-09-08 |  |
+| [Nairobi](https://open.spotify.com/track/1QzPmQynOP65qaOuZDJUbm) | [Bensoul](https://open.spotify.com/artist/09vo12hHajgG2cZzq0rGmE), [Sauti Sol](https://open.spotify.com/artist/4Rj9lQm9oSiMlirgpsM6eo), [Nviiri The Storyteller](https://open.spotify.com/artist/7xPDTxQrpZPvvI0LzuO73p), [Mejja](https://open.spotify.com/artist/5VnDOE1MEaJ0VOgSypOi3u) | [NAIROBI](https://open.spotify.com/album/2pVb3IsYOZWdYNk6KJIjh4) | 3:40 | 2023-09-08 | 2024-03-22 |
 | [Nairobi](https://open.spotify.com/track/7ipje7w6H8in5Otc4pEex4) | [BURUKLYN BOYZ](https://open.spotify.com/artist/4iXOuQsJ5qOOC7HgOIXLFU) | [Nairobi](https://open.spotify.com/album/7uWo9YZ9ggrk7E00QddrXm) | 3:16 | 2023-09-08 | 2024-01-20 |
 | [Nairobi](https://open.spotify.com/track/1D4Pjb9OYgGxPIKgusObu1) | [Fally Ipupa](https://open.spotify.com/artist/6IflU2YrY5Cyw7YoBICosV) | [Tokooos II](https://open.spotify.com/album/2Tcx5XnaqhO7ooOH00iA6M) | 2:41 | 2023-09-08 |  |
+| [Nairobi \(feat\. Mejja\)](https://open.spotify.com/track/5spupseGpHQqN1mXCvJQwU) | [Bensoul](https://open.spotify.com/artist/09vo12hHajgG2cZzq0rGmE), [Sauti Sol](https://open.spotify.com/artist/4Rj9lQm9oSiMlirgpsM6eo), [Nviiri The Storyteller](https://open.spotify.com/artist/7xPDTxQrpZPvvI0LzuO73p), [Mejja](https://open.spotify.com/artist/5VnDOE1MEaJ0VOgSypOi3u) | [Nairobi \(feat\. Mejja\)](https://open.spotify.com/album/6Iw9McXkgroTLndvjgH9UF) | 3:40 | 2024-03-15 |  |
 | [Ojuelegba](https://open.spotify.com/track/1AtBzcUzKLh4BGwXhFA9K6) | [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Ayo](https://open.spotify.com/album/3K4CaKaEcLuJkJZ3lATzrq) | 3:36 | 2023-09-08 |  |
 | [Paris](https://open.spotify.com/track/3varTiHGif7hoPSflFz0pQ) | [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf) | [Paris](https://open.spotify.com/album/2AxhvJ6KOZtmegupnK94No) | 2:20 | 2024-03-08 |  |
 | [Peru](https://open.spotify.com/track/3s1KwrLP0NlFWiWbjz6bfQ) | [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY), [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Peru](https://open.spotify.com/album/72hpBprZjtHAgsRTIUKrKO) | 3:07 | 2023-09-08 |  |

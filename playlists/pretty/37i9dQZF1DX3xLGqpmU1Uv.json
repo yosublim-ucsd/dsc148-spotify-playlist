@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Las canciones que pon\u00edan a bailar a todo M\u00e9xico!",
-  "num_followers": 155094,
+  "num_followers": 155127,
   "original_name": "Los 60 M\u00e9xico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxZTU2OTY1MmI4ZjMzNzU5ODZjNDNjZWFjNzM3NjIwZWYwNWY0ZmFl",
+  "snapshot_id": "MCxiMzdhZTE0YmRhNDY4NDdhNjJmNzZmZTJlM2NiNjg5OGU1YzdmMWM2",
   "tracks": [
     {
       "added_at": "2020-03-18 04:18:26",
@@ -407,22 +407,6 @@
     {
       "added_at": "2020-03-18 04:18:26",
       "album": {
-        "name": "La Gran Colecci\u00f3n del 60 Aniversario CBS - Enrique Guzm\u00e1n",
-        "url": "https://open.spotify.com/album/4qFFxzwNLUpk2kce2Z7Bx0"
-      },
-      "artists": [
-        {
-          "name": "Enrique Guzman",
-          "url": "https://open.spotify.com/artist/4FeDV8T2wgjzYKBamSp7MG"
-        }
-      ],
-      "duration_ms": 151306,
-      "name": "Tu Cabeza en Mi Hombro",
-      "url": "https://open.spotify.com/track/6dRAaQ7DFVPsZ2Pnfv97vX"
-    },
-    {
-      "added_at": "2020-03-18 04:18:26",
-      "album": {
         "name": "15 De Los Moonlights",
         "url": "https://open.spotify.com/album/4Vs7lVsmEwUc5ii8yQIKUj"
       },
@@ -435,6 +419,22 @@
       "duration_ms": 177026,
       "name": "De Rodillas Ante Ti",
       "url": "https://open.spotify.com/track/0Rc8UXhnvxeTMJEffTevHZ"
+    },
+    {
+      "added_at": "2020-03-18 04:18:26",
+      "album": {
+        "name": "La Gran Colecci\u00f3n del 60 Aniversario CBS - Enrique Guzm\u00e1n",
+        "url": "https://open.spotify.com/album/4qFFxzwNLUpk2kce2Z7Bx0"
+      },
+      "artists": [
+        {
+          "name": "Enrique Guzman",
+          "url": "https://open.spotify.com/artist/4FeDV8T2wgjzYKBamSp7MG"
+        }
+      ],
+      "duration_ms": 151306,
+      "name": "Tu Cabeza en Mi Hombro",
+      "url": "https://open.spotify.com/track/6dRAaQ7DFVPsZ2Pnfv97vX"
     },
     {
       "added_at": "2020-03-18 04:18:26",
@@ -503,18 +503,18 @@
     {
       "added_at": "2020-03-18 04:18:26",
       "album": {
-        "name": "La Gran Colecci\u00f3n del 60 Aniversario CBS - Enrique Guzm\u00e1n",
-        "url": "https://open.spotify.com/album/4qFFxzwNLUpk2kce2Z7Bx0"
+        "name": "Baile Monkey",
+        "url": "https://open.spotify.com/album/3aUqJ6GL8zcG5bQutw7u5Q"
       },
       "artists": [
         {
-          "name": "Enrique Guzman",
-          "url": "https://open.spotify.com/artist/4FeDV8T2wgjzYKBamSp7MG"
+          "name": "Los Angeles",
+          "url": "https://open.spotify.com/artist/58rX3i2Zf0NwRgJdfdrpMK"
         }
       ],
-      "duration_ms": 133093,
-      "name": "Florida Twist",
-      "url": "https://open.spotify.com/track/7xzxlk4jDDdwb2mDBRTSpZ"
+      "duration_ms": 137987,
+      "name": "Quiero Estrechar Tu Mano",
+      "url": "https://open.spotify.com/track/2zs7QiCmkIxEeW1E1HZ8bP"
     },
     {
       "added_at": "2020-03-18 04:18:26",
@@ -535,34 +535,34 @@
     {
       "added_at": "2020-03-18 04:18:26",
       "album": {
-        "name": "Baile Monkey",
-        "url": "https://open.spotify.com/album/3aUqJ6GL8zcG5bQutw7u5Q"
+        "name": "La Gran Colecci\u00f3n del 60 Aniversario CBS - Enrique Guzm\u00e1n",
+        "url": "https://open.spotify.com/album/4qFFxzwNLUpk2kce2Z7Bx0"
       },
       "artists": [
         {
-          "name": "Los Angeles",
-          "url": "https://open.spotify.com/artist/58rX3i2Zf0NwRgJdfdrpMK"
+          "name": "Enrique Guzman",
+          "url": "https://open.spotify.com/artist/4FeDV8T2wgjzYKBamSp7MG"
         }
       ],
-      "duration_ms": 137987,
-      "name": "Quiero Estrechar Tu Mano",
-      "url": "https://open.spotify.com/track/2zs7QiCmkIxEeW1E1HZ8bP"
+      "duration_ms": 133093,
+      "name": "Florida Twist",
+      "url": "https://open.spotify.com/track/7xzxlk4jDDdwb2mDBRTSpZ"
     },
     {
       "added_at": "2020-03-18 04:18:26",
       "album": {
-        "name": "RCA 100 A\u00f1os De Musica",
-        "url": "https://open.spotify.com/album/2eEwURlPtjbdcA9z4Peru1"
+        "name": "Idolos del Rock & Roll",
+        "url": "https://open.spotify.com/album/7BI6FgfgfYaWaOZo6phWBC"
       },
       "artists": [
         {
-          "name": "Pyly Gaos",
-          "url": "https://open.spotify.com/artist/39E1vtdf8r9TasRfcE7jkb"
+          "name": "Los Rockin' Devils",
+          "url": "https://open.spotify.com/artist/7MTtIXOqFDnSbho0pYpJve"
         }
       ],
-      "duration_ms": 114106,
-      "name": "Aburrida y Sola (Si Je Chante)",
-      "url": "https://open.spotify.com/track/3Lk23aMjEWyoALysLnQmjz"
+      "duration_ms": 142576,
+      "name": "Bule Bule",
+      "url": "https://open.spotify.com/track/0eMMc5pZJifAsXSaEViY3E"
     },
     {
       "added_at": "2020-03-18 04:18:26",
@@ -595,6 +595,22 @@
       "duration_ms": 170000,
       "name": "Barba azul - Let's Do The limbo",
       "url": "https://open.spotify.com/track/2ko3qA1QJZ7nla7XDImYHv"
+    },
+    {
+      "added_at": "2020-03-18 04:18:26",
+      "album": {
+        "name": "RCA 100 A\u00f1os De Musica",
+        "url": "https://open.spotify.com/album/2eEwURlPtjbdcA9z4Peru1"
+      },
+      "artists": [
+        {
+          "name": "Pyly Gaos",
+          "url": "https://open.spotify.com/artist/39E1vtdf8r9TasRfcE7jkb"
+        }
+      ],
+      "duration_ms": 114106,
+      "name": "Aburrida y Sola (Si Je Chante)",
+      "url": "https://open.spotify.com/track/3Lk23aMjEWyoALysLnQmjz"
     },
     {
       "added_at": "2020-03-18 04:18:26",
@@ -727,22 +743,6 @@
     {
       "added_at": "2020-03-18 04:18:26",
       "album": {
-        "name": "Los Originales",
-        "url": "https://open.spotify.com/album/1rRZ2R9pDKnULllvloJguy"
-      },
-      "artists": [
-        {
-          "name": "Los Digers",
-          "url": "https://open.spotify.com/artist/3VCEQh1kN4JWyyphBt1IMV"
-        }
-      ],
-      "duration_ms": 165154,
-      "name": "Si me quieres",
-      "url": "https://open.spotify.com/track/14LwPPMfMz0KHESFo2dUf4"
-    },
-    {
-      "added_at": "2020-03-18 04:18:26",
-      "album": {
         "name": "Loco - Vintage Rock en Espa\u00f1ol",
         "url": "https://open.spotify.com/album/7dLAXcE0Bg0JP9TRtYVORO"
       },
@@ -759,18 +759,18 @@
     {
       "added_at": "2020-03-18 04:18:26",
       "album": {
-        "name": "No Te Pongas Pantalones",
-        "url": "https://open.spotify.com/album/0Bdux2Q5ueclP7BLnf2g4l"
+        "name": "Los Originales",
+        "url": "https://open.spotify.com/album/1rRZ2R9pDKnULllvloJguy"
       },
       "artists": [
         {
-          "name": "Dyno",
-          "url": "https://open.spotify.com/artist/1UCwxwpf10gITF13OoCyxG"
+          "name": "Los Digers",
+          "url": "https://open.spotify.com/artist/3VCEQh1kN4JWyyphBt1IMV"
         }
       ],
-      "duration_ms": 134072,
-      "name": "No Te Pongas Pantalones",
-      "url": "https://open.spotify.com/track/7tZS0ThweTnxIIQjYjgaWB"
+      "duration_ms": 165154,
+      "name": "Si me quieres",
+      "url": "https://open.spotify.com/track/14LwPPMfMz0KHESFo2dUf4"
     },
     {
       "added_at": "2020-03-18 04:18:26",

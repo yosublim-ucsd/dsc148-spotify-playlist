@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0cNYCfLOrsu.md) - [plain]
 
 > The best in Dancehall for the gyaldem\. Cover: Tina \(Hoodcelebrityy\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 313,743 likes - 75 songs - 3 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 313,826 likes - 75 songs - 3 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0cNYCfLOrsu.md) - [plain]
 | 23 | [W \(feat\. Gunna\)](https://open.spotify.com/track/6xW2g0c5uSoa3S6xk9eI4j) | [Koffee](https://open.spotify.com/artist/1gWjcmBsveEYMxOZ0VRi32), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [W \(feat\. Gunna\)](https://open.spotify.com/album/4CGh0wfCdEh3xZVHx8uJK5) | 3:50 |
 | 24 | [Pull up to Mi Bumper](https://open.spotify.com/track/2c3e6W36veH8GSBkoMKX24) | [Konshens](https://open.spotify.com/artist/3nwYsifpwrKmCIpw4i0HDW), [J Capri](https://open.spotify.com/artist/6rgMAmoutpto9ded7xYd20) | [Pull up to Mi Bumper](https://open.spotify.com/album/72AxGSjTTU7SWGxcXEjXRS) | 2:30 |
 | 25 | [Good Comfort](https://open.spotify.com/track/0Y2gj3rSBjtB13CsfOnSDF) | [DJ Frass](https://open.spotify.com/artist/0OV6SkCcoRHlz2uaCo0PG9), [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB) | [Good Comfort](https://open.spotify.com/album/6RF60O8kXnv9Ik21vLEOem) | 2:14 |
-| 26 | [Rebel](https://open.spotify.com/track/36t9rgshEge4LCzhHKioFQ) | [Zum](https://open.spotify.com/artist/0Uxj1Nl8AeAN7g7iALqh9U), [Shenseea](https://open.spotify.com/artist/7FBUsBZPO9VB6wDXY4fv5Q) | [Liquid Sunshine Riddim](https://open.spotify.com/album/0szSNcsmxpS4FhwVuuJkf8) | 2:15 |
-| 27 | [Come Over \(feat\. Popcaan\)](https://open.spotify.com/track/58mtgcQVZ56NgWHKsN94nD) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd), [Popcaan](https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR) | [Come Over \(feat\. Popcaan\)](https://open.spotify.com/album/6sYqQ3Pem0Ml376lKx545S) | 3:28 |
+| 26 | [Come Over \(feat\. Popcaan\)](https://open.spotify.com/track/58mtgcQVZ56NgWHKsN94nD) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd), [Popcaan](https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR) | [Come Over \(feat\. Popcaan\)](https://open.spotify.com/album/6sYqQ3Pem0Ml376lKx545S) | 3:28 |
+| 27 | [Rebel](https://open.spotify.com/track/36t9rgshEge4LCzhHKioFQ) | [Zum](https://open.spotify.com/artist/0Uxj1Nl8AeAN7g7iALqh9U), [Shenseea](https://open.spotify.com/artist/7FBUsBZPO9VB6wDXY4fv5Q) | [Liquid Sunshine Riddim](https://open.spotify.com/album/0szSNcsmxpS4FhwVuuJkf8) | 2:15 |
 | 28 | [So Mi Like It](https://open.spotify.com/track/6IFDy0imCdhDpHj98GczEX) | [Spice](https://open.spotify.com/artist/0wEvWMQRqaXcgnrZv6KtyL) | [So Mi Like It](https://open.spotify.com/album/3VsPJKD7uZPIYB4SNGeLRt) | 2:33 |
 | 29 | [Blessed \(with Tyga\)](https://open.spotify.com/track/3eKLbe124mzIRFPuwCnJAD) | [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB), [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) | [ALPHA](https://open.spotify.com/album/2UA2lqBPIhOFnvHszOVIaq) | 2:25 |
 | 30 | [Brik Pan Brik](https://open.spotify.com/track/5HaRoqxb0Y4aMW347qhTPG) | [Skillibeng](https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst) | [Brik Pan Brik](https://open.spotify.com/album/3L6LtJCp5c3O3X7K2NMkDW) | 2:40 |
@@ -51,8 +51,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0cNYCfLOrsu.md) - [plain]
 | 41 | [Needle Eye](https://open.spotify.com/track/6gt4crRNZ5Soua4BP52HXv) | [Spice](https://open.spotify.com/artist/0wEvWMQRqaXcgnrZv6KtyL) | [Needle Eye \- Single](https://open.spotify.com/album/3xMal1HXLb88nb1EpVi8mv) | 3:05 |
 | 42 | [Hard Drive](https://open.spotify.com/track/4tw57jakL7TFEdZ4bUohP1) | [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB), [Konshens](https://open.spotify.com/artist/3nwYsifpwrKmCIpw4i0HDW), [Rvssian](https://open.spotify.com/artist/1fctva4kpRbg2k3v7kwRuS) | [Hard Drive](https://open.spotify.com/album/4y2mW0Vpyc897XhWl8K6B9) | 2:48 |
 | 43 | [Come Home](https://open.spotify.com/track/48RxnStoXfZsH0hWuWiJ3C) | [Vybz Kartel](https://open.spotify.com/artist/2NUz5P42WqkxilbI8ocN76) | [Come Home](https://open.spotify.com/album/29K1WhYMmqwUGj3mU4Z0uc) | 3:20 |
-| 44 | [Yamabella](https://open.spotify.com/track/0kXox7KhOnDs62txnUSLF1) | [Shaneil Muir](https://open.spotify.com/artist/6ilIhmo2Ijzq3BnKuxf2KQ) | [Yamabella](https://open.spotify.com/album/1MOESZoQnGJnCwXy6vm1Bs) | 2:54 |
-| 45 | [Ay Dios Mio](https://open.spotify.com/track/2n4q1me7daB59UxsiMJi0n) | [Kybba](https://open.spotify.com/artist/5I8OAPN5jY1wvHwpnsRRsA), [David Jay](https://open.spotify.com/artist/7a5hqyXa3DANEicriQDURV) | [Ay Dios Mio](https://open.spotify.com/album/2UDdAS2QuoHdd1VyQl7yY4) | 2:09 |
+| 44 | [Ay Dios Mio](https://open.spotify.com/track/2n4q1me7daB59UxsiMJi0n) | [Kybba](https://open.spotify.com/artist/5I8OAPN5jY1wvHwpnsRRsA), [David Jay](https://open.spotify.com/artist/7a5hqyXa3DANEicriQDURV) | [Ay Dios Mio](https://open.spotify.com/album/2UDdAS2QuoHdd1VyQl7yY4) | 2:09 |
+| 45 | [Yamabella](https://open.spotify.com/track/0kXox7KhOnDs62txnUSLF1) | [Shaneil Muir](https://open.spotify.com/artist/6ilIhmo2Ijzq3BnKuxf2KQ) | [Yamabella](https://open.spotify.com/album/1MOESZoQnGJnCwXy6vm1Bs) | 2:54 |
 | 46 | [50 Bag](https://open.spotify.com/track/0PskmWMf89REo5ndk01GL8) | [Skillibeng](https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst) | [50 Bag](https://open.spotify.com/album/6pMXwommM2k8pL6vXqiD2B) | 3:04 |
 | 47 | [Play Tune \(So so So\) \[Radio Edit\]](https://open.spotify.com/track/1MB6CjaR3z8YA3yIo4HdFv) | [Dj Coss](https://open.spotify.com/artist/4IdDstOFVfpr5iLAezYLOw), [Macka Diamond](https://open.spotify.com/artist/6ETpDuVbzktDEfNza1CN8i) | [Play Tune \(So so So\)](https://open.spotify.com/album/4RpaPKaKYPz6FBv1a01xKn) | 2:47 |
 | 48 | [One Man / Moving On \- Raw](https://open.spotify.com/track/4zmzJgtsV1oPnp1a7Ryi6L) | [Vybz Kartel](https://open.spotify.com/artist/2NUz5P42WqkxilbI8ocN76), [Gaza Slim](https://open.spotify.com/artist/7mPRzTE0BI6QMFmWhevSog) | [One Man / Moving On](https://open.spotify.com/album/5fSvT6n4ZP4AK401c5xq7b) | 2:56 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0cNYCfLOrsu.md) - [plain]
 | 74 | [Bun Fi Bun \- Fast](https://open.spotify.com/track/4ZpTLINWb1RLoHluCLwkeT) | [IQ](https://open.spotify.com/artist/10jSImvLGufcMdETaNGvsv), [Stefflon Don](https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD) | [Bun Fi Bun \(Fast\)](https://open.spotify.com/album/322pCqxSFt8u8938IUrFC3) | 2:29 |
 | 75 | [Put It On You](https://open.spotify.com/track/7h4h6wl9unB1dIoRsxA1Yw) | [Alicai Harley](https://open.spotify.com/artist/4HIgMgldxGG0v8nSDWJrnh) | [The Red Room Intro \(Yard Gyal Inna Britain\)](https://open.spotify.com/album/0x2r34IBmG1VXaOZK7TRTH) | 3:05 |
 
-Snapshot ID: `MCwwZjA1NWQxYTg3ZDMyMmMwN2E4OWM2OGMwYTdmZGUyYjFmMTNmZjgy`
+Snapshot ID: `MCwxZDljODE0N2JjMmYyZGJlZThjNDQwNzVhNDY4MGRmNjJlYjM5OTE2`

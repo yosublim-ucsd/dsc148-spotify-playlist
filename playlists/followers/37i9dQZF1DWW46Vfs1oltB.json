@@ -1,5 +1,5 @@
 {
-  "2024-03-21": 521660,
+  "2024-03-22": 521619,
   "date_first_scraped": "2021-12-21",
   "description": "The fresh & hottest K-Hip hop tracks. (Cover: Swings(\uc2a4\uc719\uc2a4)) (\uac00\uc7a5 \ud56b\ud55c \ucd5c\uc2e0 \uad6d\ub0b4 \ud799\ud569 \uc74c\uc545\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
   "name": "KrOWN",
@@ -4323,7 +4323,7 @@
       ],
       "date_added": "2023-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-21",
       "duration_ms": 194825,
       "name": "city light",
       "url": "https://open.spotify.com/track/1UCoIhGIA2aeyQk64ho2G7"
@@ -8747,7 +8747,7 @@
       ],
       "date_added": "2023-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-21",
       "duration_ms": 205346,
       "name": "Goodnight Goodnight (ft. Nochang, Nucksal, Khundi Panda)",
       "url": "https://open.spotify.com/track/3famPhKrbyf9n3y8rjtAJN"
@@ -9255,7 +9255,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-21",
       "duration_ms": 168926,
       "name": "Haegeum",
       "url": "https://open.spotify.com/track/4bjN59DRXFRxBE1g5ne6B1"
@@ -24186,6 +24186,24 @@
     },
     {
       "album": {
+        "name": "HOUSE OF TRICKY : Trial And Error",
+        "url": "https://open.spotify.com/album/4JyXIbXVhgzCa7DU0K6V1O"
+      },
+      "artists": [
+        {
+          "name": "xikers",
+          "url": "https://open.spotify.com/artist/6QHP8St0MzfNDqjKpwtMht"
+        }
+      ],
+      "date_added": "2024-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189441,
+      "name": "We Don\u2019t Stop",
+      "url": "https://open.spotify.com/track/67ZvVtW278IHsAxnzglQt4"
+    },
+    {
+      "album": {
         "name": "SHOW ME THE MONEY 11 Episode 1",
         "url": "https://open.spotify.com/album/4Jghep0PatLW7okdHbZBfy"
       },
@@ -24627,7 +24645,7 @@
       ],
       "date_added": "2023-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-21",
       "duration_ms": 153237,
       "name": "Who (Feat. ZENE THE ZILLA)",
       "url": "https://open.spotify.com/track/28WREGsCyaGBffXwis3xN1"

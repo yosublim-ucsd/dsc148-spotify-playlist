@@ -1,5 +1,5 @@
 {
-  "2024-03-21": 354361,
+  "2024-03-22": 354462,
   "date_first_scraped": "2021-12-21",
   "description": "For full-volume lovers, new and recent favorites. Cover: Escape the Fate & Bert McCracken (The Used)",
   "name": "Hard Rock",
@@ -2147,7 +2147,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-21",
       "duration_ms": 200495,
       "name": "Dial Tone",
       "url": "https://open.spotify.com/track/0kDHRQ7rvuzWN11nB9Qx1Y"
@@ -2621,6 +2621,24 @@
       "duration_ms": 240000,
       "name": "Emergency Contact",
       "url": "https://open.spotify.com/track/5xJlzQiPLYkvlqkRPKzBwD"
+    },
+    {
+      "album": {
+        "name": "Empire",
+        "url": "https://open.spotify.com/album/23VCaSYUWBTn0mUgvuwBtJ"
+      },
+      "artists": [
+        {
+          "name": "Capstan",
+          "url": "https://open.spotify.com/artist/3cb9CRWtkBQNjVLQNLP9FE"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224903,
+      "name": "Empire",
+      "url": "https://open.spotify.com/track/0rh6ie1S24XTyKXDCUd8aR"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Dance, bass, EDM, trap, phonk: the perfect gaming mix.
 
-490 songs - 1 day 1 hr 46 min
+491 songs - 1 day 1 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -87,6 +87,7 @@
 | [Criminal](https://open.spotify.com/track/1wlsLLlTQjtqBvrPbKXHXd) | [Zeds Dead](https://open.spotify.com/artist/67qogtRNI0GjUr8PlaG6Zh), [Hamdi](https://open.spotify.com/artist/7vvicoei9BbKpZix8qSeLg), [Warrior Queen](https://open.spotify.com/artist/6MGlEnPgJhFkC8P8DdKtsT) | [Criminal](https://open.spotify.com/album/1uyc31Iw3pbYXstxykjzfr) | 4:11 | 2023-07-18 | 2023-08-19 |
 | [Crush \- VIP](https://open.spotify.com/track/4BiF66d4NFyRBCSFAwTucJ) | [Pixel Terror](https://open.spotify.com/artist/3DajvNySJjylWpCSeXefFm), [Josh Rubin](https://open.spotify.com/artist/7e1qyhWgdVEnEjG7Sbb5W0) | [Crush \(VIP\)](https://open.spotify.com/album/2IdrcmtQZbqPqdNDS4uwpi) | 4:30 | 2022-05-13 | 2022-07-28 |
 | [Crystals](https://open.spotify.com/track/2BH3j05ZXWr5PR30sW079d) | [Isolate.exe](https://open.spotify.com/artist/6awzrpxHXHtibHWUv86jVI) | [Crystals](https://open.spotify.com/album/0pbn1QDWs2wOehyxQwVhJS) | 2:19 | 2022-12-06 |  |
+| [CUT ME OUT](https://open.spotify.com/track/7wa5lBm1Nl0kcXb9psV2Sj) | [Rezz](https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw), [Digital Ethos](https://open.spotify.com/artist/1uzNrmjOsClb1k7DYwUlIX) | [CAN YOU SEE ME?](https://open.spotify.com/album/6tQ1vjB7ZXy8sKkGEtHs1X) | 3:42 | 2024-03-19 |  |
 | [CYBER](https://open.spotify.com/track/0jlv7BssgiMkAAp5iHvIsv) | [Callson](https://open.spotify.com/artist/6LNw2IWhHDZfP4wa1l8ZyQ), [AstroWilk](https://open.spotify.com/artist/109DXBNtpYRi35I7lQ8QOm) | [CYBER](https://open.spotify.com/album/5eyIg41Jt5y331tIBJo9Tw) | 2:43 | 2022-06-10 | 2022-07-24 |
 | [Cybercopter \- Supreemo Remix](https://open.spotify.com/track/5bpxjyhQoO4YgVi8qR6Ucl) | [Powernerd](https://open.spotify.com/artist/2vio6wIiVR3XOM1zlgMxXK), [SUPREEMO](https://open.spotify.com/artist/4zBUkBrv6SN11V5lT44DgD) | [Cybercopter \(Supreemo Remix\)](https://open.spotify.com/album/2W2djJgRf6FbZsyKymqJwm) | 3:26 | 2022-06-24 | 2022-07-23 |
 | [CyberVision](https://open.spotify.com/track/3C2dteh67QFxver3O8wIFm) | [Zen/it](https://open.spotify.com/artist/5HirplYzqe2d6nvqIskR82) | [CyberVision](https://open.spotify.com/album/0VoyAogWyJpmaqSDxLY01o) | 2:40 | 2022-05-27 | 2022-07-29 |
@@ -411,7 +412,7 @@
 | [Teardrops](https://open.spotify.com/track/439JiYk1AGzECwkEiJm6WX) | [Fyex](https://open.spotify.com/artist/7i7ddOIQP0uI3ktGxI0zkM), [2Hounds](https://open.spotify.com/artist/0qeQAOjEYyeV2opWZdRcU9) | [Teardrops](https://open.spotify.com/album/3PVnEPRSacSJZ4plVjLm7S) | 3:00 | 2023-09-29 | 2024-01-19 |
 | [Techno Sound](https://open.spotify.com/track/3gjOaU0kFaCGF4Bu09lk4C) | [LUM!X](https://open.spotify.com/artist/0TKFPt9w0AAEnhB9bd0pLy) | [Techno Sound](https://open.spotify.com/album/6c6jnpfD9LorJLDJI0bSm5) | 3:09 | 2023-08-25 | 2023-12-14 |
 | [Tell Me How to Love](https://open.spotify.com/track/1e4xuwzSRHr6agxwXMEg16) | [Tenebrax](https://open.spotify.com/artist/1qO2kVWrIVuccNvIKXdeMC) | [Reflexia](https://open.spotify.com/album/3TNIy1LFJ7DDhFva73KGDV) | 3:34 | 2022-05-06 | 2022-07-29 |
-| [Tell Me Why](https://open.spotify.com/track/4BvBTmceA5V1pDuaC3RabS) | [Mike Candys](https://open.spotify.com/artist/24Sxfn1uAoJmuR9N72drt9), [Jack Holiday](https://open.spotify.com/artist/64yON9pK0j392YkionGKAF) | [Tell Me Why](https://open.spotify.com/album/224hEKX6NC4pzENbWL2vXj) | 2:15 | 2023-10-13 |  |
+| [Tell Me Why](https://open.spotify.com/track/4BvBTmceA5V1pDuaC3RabS) | [Mike Candys](https://open.spotify.com/artist/24Sxfn1uAoJmuR9N72drt9), [Jack Holiday](https://open.spotify.com/artist/64yON9pK0j392YkionGKAF) | [Tell Me Why](https://open.spotify.com/album/224hEKX6NC4pzENbWL2vXj) | 2:15 | 2023-10-13 | 2024-03-22 |
 | [Test Me](https://open.spotify.com/track/7D3KNbOAbyR7dYLX0BZuyU) | [Slushii](https://open.spotify.com/artist/41rVuRHYAiH7ltBTHVR9We), [Dion Timmer](https://open.spotify.com/artist/06VibSJEr3GLxLBBZhRums) | [Watch Yo Back](https://open.spotify.com/album/60nbfXLI18M2vTXVwgsdT3) | 3:04 | 2022-05-06 | 2022-07-23 |
 | [That Could Be Me](https://open.spotify.com/track/12oJ36M1cTGvTwDURjK6tC) | [KLAXX](https://open.spotify.com/artist/1sg1SPREm84p1TlfjABfnp), [yetep](https://open.spotify.com/artist/20lmiQy576CSBPz0VJHmnC), [Meggie York](https://open.spotify.com/artist/0ydORocQawKL2QaPiGG8fZ) | [That Could Be Me](https://open.spotify.com/album/4bjkv0GJmnyFMhsqo2o7wj) | 3:15 | 2022-06-24 | 2022-06-26 |
 | [That's On You](https://open.spotify.com/track/48lhLOfFXp3p4tvsZXiGtK) | [Mazare](https://open.spotify.com/artist/4yzZdtb9UicgY2M23eEtL9), [Monika Santucci](https://open.spotify.com/artist/5E1FAGKopxyWqEREQblCDA) | [That's On You](https://open.spotify.com/album/7um4O9Nuv72mZmq6Xpo4h7) | 3:49 | 2022-05-06 | 2022-07-29 |

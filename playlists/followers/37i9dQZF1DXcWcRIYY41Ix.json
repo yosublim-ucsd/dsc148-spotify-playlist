@@ -1,5 +1,5 @@
 {
-  "2024-03-21": 122321,
+  "2024-03-22": 122361,
   "date_first_scraped": "2021-12-28",
   "description": "La nueva ola de trovadores del Siglo XXI. En portada: Elsa y Elmar.",
   "name": "Cancionistas",
@@ -7181,7 +7181,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-21",
       "duration_ms": 221712,
       "name": "Oye mi Voz",
       "url": "https://open.spotify.com/track/5EALaMd6QUNhtRJINXrlqM"
@@ -7719,6 +7719,28 @@
       "duration_ms": 100253,
       "name": "Ponme",
       "url": "https://open.spotify.com/track/6lSqiqPaYyPcEBShRsOLRX"
+    },
+    {
+      "album": {
+        "name": "El siglo del loro",
+        "url": "https://open.spotify.com/album/1p9J4Gk71sOHPFeEmJYVvP"
+      },
+      "artists": [
+        {
+          "name": "Pala",
+          "url": "https://open.spotify.com/artist/48NwWz7YpfhM5w6Zx5dz0j"
+        },
+        {
+          "name": "Jorge Drexler",
+          "url": "https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 100253,
+      "name": "Ponme",
+      "url": "https://open.spotify.com/track/7oGwZ9K8PbWEMCEmJS2esu"
     },
     {
       "album": {

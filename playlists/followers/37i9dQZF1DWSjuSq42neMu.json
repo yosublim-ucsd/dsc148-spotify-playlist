@@ -1,5 +1,5 @@
 {
-  "2024-03-21": 693830,
+  "2024-03-22": 693928,
   "date_first_scraped": "2022-01-02",
   "description": "todo un mood. ",
   "name": "suave",
@@ -5082,33 +5082,7 @@
     },
     {
       "album": {
-        "name": "G\u00e1rgolas Forever",
-        "url": "https://open.spotify.com/album/05CWqvhNPDwN3sWXwMxXXO"
-      },
-      "artists": [
-        {
-          "name": "Alex Gargolas",
-          "url": "https://open.spotify.com/artist/7awyvLSthqOcL5A3hnR1pf"
-        },
-        {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
-        },
-        {
-          "name": "Caleb Calloway",
-          "url": "https://open.spotify.com/artist/11usEAQkFE6UJwsyAKkchi"
-        }
-      ],
-      "date_added": "2021-12-14",
-      "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
-      "duration_ms": 206372,
-      "name": "Toda La Noche",
-      "url": "https://open.spotify.com/track/4BTZnTwEVyPLeIN681PA8k"
-    },
-    {
-      "album": {
-        "name": "Toda Remix",
+        "name": "Toda (Remix)",
         "url": "https://open.spotify.com/album/49BbDxaXZIPz4sZE6G7618"
       },
       "artists": [
@@ -5137,8 +5111,34 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 367680,
-      "name": "Toda Remix - Remix",
+      "name": "Toda (Remix)",
       "url": "https://open.spotify.com/track/47ZS1OjnJpJVfGN9yHXfMn"
+    },
+    {
+      "album": {
+        "name": "G\u00e1rgolas Forever",
+        "url": "https://open.spotify.com/album/05CWqvhNPDwN3sWXwMxXXO"
+      },
+      "artists": [
+        {
+          "name": "Alex Gargolas",
+          "url": "https://open.spotify.com/artist/7awyvLSthqOcL5A3hnR1pf"
+        },
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        },
+        {
+          "name": "Caleb Calloway",
+          "url": "https://open.spotify.com/artist/11usEAQkFE6UJwsyAKkchi"
+        }
+      ],
+      "date_added": "2021-12-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 206372,
+      "name": "Toda La Noche",
+      "url": "https://open.spotify.com/track/4BTZnTwEVyPLeIN681PA8k"
     },
     {
       "album": {

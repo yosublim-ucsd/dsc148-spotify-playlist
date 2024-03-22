@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUBSyNvqfKld.md) - [plain]
 
 > <a href="spotify:artist:3sgVVFFM7mom04OAR0eNCL">DEAS</a>'s favorite tracks\. Updated regularly\. Curated by DEAS\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,455 likes - 27 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,465 likes - 27 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,4 +36,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUBSyNvqfKld.md) - [plain]
 | 26 | [Ghouse](https://open.spotify.com/track/5UqSSOTe2a5yDN2PucVvkZ) | [CRAVO](https://open.spotify.com/artist/0h3LDqJWxHfdM76kVnfGcY) | [Hits](https://open.spotify.com/album/6fp8mAN5ElaVB8e4BPsWCK) | 6:18 |
 | 27 | [AF 97](https://open.spotify.com/track/4QXZWqTqFFTxCucmUNep5f) | [Alarico](https://open.spotify.com/artist/3160Uht6QdGT17EECSPWAO) | [AF 97](https://open.spotify.com/album/0rc1NsAYfw6THSPAxGQLbM) | 6:09 |
 
-Snapshot ID: `MCxkZTcyZjQ2NzkyNzRkNzUyNmY5OWU5NTU0NjBkZTcxMmYyZmFkODYy`
+Snapshot ID: `MCw5MTNlYzNiMjQxYWMxNGZkNDQ0YzczZmM1M2MwOWZkNWM3ZWE5NDA1`

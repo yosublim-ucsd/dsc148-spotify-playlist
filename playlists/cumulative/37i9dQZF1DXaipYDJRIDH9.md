@@ -4,7 +4,7 @@
 
 > Piano instrumental para ajudar sua concentração na hora de ler e estudar.
 
-115 songs - 4 hr 50 min
+116 songs - 4 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -67,11 +67,12 @@
 | [Luminous](https://open.spotify.com/track/08vlEPtp1Pxz4IJWsZnMJR) | [Treman](https://open.spotify.com/artist/7MnTSJ0nl9IdMRSq3vLdGP) | [Luminous](https://open.spotify.com/album/1hWA2NOx6oYqSDAyiEIn3q) | 3:24 | 2024-01-09 | 2024-01-17 |
 | [Melancholy](https://open.spotify.com/track/0nE4j0wkGn5ijBPguBbZau) | [Les Moray](https://open.spotify.com/artist/3oJtOPrahfYye5Ffs05pYR) | [Melancholy](https://open.spotify.com/album/7rrwtqNk6EUU4nVsCof0M3) | 3:34 | 2024-01-09 |  |
 | [Metanoia](https://open.spotify.com/track/5fRCo9FZmnE92j7BnY3Win) | [Constance Lucas](https://open.spotify.com/artist/3xe11Jl7vdO7Py3udTGzWq) | [Metanoia](https://open.spotify.com/album/1CiQYlksvhi8cgPaFno6kl) | 2:21 | 2024-01-09 |  |
+| [Minor Fable](https://open.spotify.com/track/6IJ5eCQNpXifW7OqRK9pQc) | [Luis Berra](https://open.spotify.com/artist/7JfQ6KThQOrDXIBDJgSFLk) | [Minor Fable](https://open.spotify.com/album/4yq1sWpFO7LgofgmmPEEVC) | 2:01 | 2024-03-15 |  |
 | [Morning Dance](https://open.spotify.com/track/1HNWHlc0OfRnCCeoLAwKzJ) | [Don Sisley](https://open.spotify.com/artist/7uIga0e3GsnHK7VO4IqHq3) | [Morning Dance](https://open.spotify.com/album/3DD7atkh8NCnmAkRff4Qlt) | 2:25 | 2024-01-09 |  |
 | [Morning\-Star](https://open.spotify.com/track/7x29ikGEInCzC5IrN3zMhI) | [Avi Mehta](https://open.spotify.com/artist/6IVlVzl5f2aKF9GORwMkoi) | [Morning\-Star](https://open.spotify.com/album/1Rl1DJxb2b5XCWOVD1xrBo) | 3:00 | 2024-01-09 | 2024-03-07 |
 | [Mélange Weaved](https://open.spotify.com/track/4xmr3ICJGqZFJAOTWWo5ZV) | [Maya Sarfatto](https://open.spotify.com/artist/2BULWWkjYsQLp6CasdyPC9) | [Mélange Weaved](https://open.spotify.com/album/1h991c5WZCjEVDxBsdF8Rq) | 2:06 | 2024-01-09 |  |
 | [Narrative](https://open.spotify.com/track/1QKnzkBw9Hb5wjQG6qV1mS) | [Emma Richter](https://open.spotify.com/artist/2Q8IvwzxquzBgeiMdBQJKR) | [Narrative](https://open.spotify.com/album/6e28Zlbs7YZOGbPHzVCpgH) | 3:02 | 2024-01-09 |  |
-| [Night Solace](https://open.spotify.com/track/4Z94Nth1RThACL5ohW5xpy) | [Josh Kramer](https://open.spotify.com/artist/2stOL2fH4SxcTNg7RXo9AG) | [Night Solace](https://open.spotify.com/album/3XBvc453nHdxoK0PYyOouF) | 2:41 | 2024-01-09 |  |
+| [Night Solace](https://open.spotify.com/track/4Z94Nth1RThACL5ohW5xpy) | [Josh Kramer](https://open.spotify.com/artist/2stOL2fH4SxcTNg7RXo9AG) | [Night Solace](https://open.spotify.com/album/3XBvc453nHdxoK0PYyOouF) | 2:41 | 2024-01-09 | 2024-03-22 |
 | [No Goodbye](https://open.spotify.com/track/6wnhi4gipABWBE4JNHp7lm) | [Jules Dubois](https://open.spotify.com/artist/7MNh5HtGFSXQ77Tqhiz4WY) | [No Goodbye](https://open.spotify.com/album/2y7M4RgG4hQsa3BP3zpjLL) | 2:24 | 2024-01-09 |  |
 | [Onirique](https://open.spotify.com/track/0BzV38nap8TF9v1Z8aX4Qk) | [Mes Croquis](https://open.spotify.com/artist/7p0rpxmlHJrDNXr8CP2JhW) | [Onirique](https://open.spotify.com/album/4AmV0ApxmACCuyh5KZRbJG) | 2:35 | 2024-01-09 |  |
 | [Open Wings To Fly](https://open.spotify.com/track/4cYaNAmm0gtwTVAZKmANUF) | [Antoine Di Luzio](https://open.spotify.com/artist/0nvI5DwMokXVsbHH7sBuwv) | [Open Wings To Fly](https://open.spotify.com/album/5Jv2ENPuHQZ2d5Eq8w6FIF) | 2:18 | 2024-01-09 |  |

@@ -1,12 +1,12 @@
 {
   "description": "",
-  "num_followers": 31192,
+  "num_followers": 31195,
   "original_name": "Svensk Punk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyNmU0MzA4ODBhMGY4YjkwNTA1YWM2MjExOTQwYjllMTIzNmEyZGY0",
+  "snapshot_id": "MCw5MTViNTVhMjlmMjNjMzFlMmJhOWVmNTg0YTFiYjUyMjY0YWYyZjg4",
   "tracks": [
     {
       "added_at": "2024-03-14 23:00:00",
@@ -559,22 +559,6 @@
     {
       "added_at": "2024-03-14 23:00:00",
       "album": {
-        "name": "Ond saga",
-        "url": "https://open.spotify.com/album/4ZjxaSk7kgGkWIttkK7D0X"
-      },
-      "artists": [
-        {
-          "name": "KSMB",
-          "url": "https://open.spotify.com/artist/5umOft7CgVOutNpa0rGX71"
-        }
-      ],
-      "duration_ms": 204400,
-      "name": "Sverigev\u00e4nner",
-      "url": "https://open.spotify.com/track/74ZYleEd9SYtyziSyvaDb3"
-    },
-    {
-      "added_at": "2024-03-14 23:00:00",
-      "album": {
         "name": "Kaos & Skr\u00e5l 85-87",
         "url": "https://open.spotify.com/album/5JtGOYBzL27gSHV9XNoJjq"
       },
@@ -587,6 +571,22 @@
       "duration_ms": 171373,
       "name": "Betongbarn",
       "url": "https://open.spotify.com/track/7kLPU9teUWCfCymYN5LAxU"
+    },
+    {
+      "added_at": "2024-03-14 23:00:00",
+      "album": {
+        "name": "Ond saga",
+        "url": "https://open.spotify.com/album/4ZjxaSk7kgGkWIttkK7D0X"
+      },
+      "artists": [
+        {
+          "name": "KSMB",
+          "url": "https://open.spotify.com/artist/5umOft7CgVOutNpa0rGX71"
+        }
+      ],
+      "duration_ms": 204400,
+      "name": "Sverigev\u00e4nner",
+      "url": "https://open.spotify.com/track/74ZYleEd9SYtyziSyvaDb3"
     },
     {
       "added_at": "2024-03-14 23:00:00",
@@ -639,22 +639,6 @@
     {
       "added_at": "2024-03-14 23:00:00",
       "album": {
-        "name": "Aktion",
-        "url": "https://open.spotify.com/album/6BtyzpnUEoF5iZOdKceke6"
-      },
-      "artists": [
-        {
-          "name": "KSMB",
-          "url": "https://open.spotify.com/artist/5umOft7CgVOutNpa0rGX71"
-        }
-      ],
-      "duration_ms": 109800,
-      "name": "En slemmig torsk",
-      "url": "https://open.spotify.com/track/0lHqNKA2IX8MzQwLNPbbY8"
-    },
-    {
-      "added_at": "2024-03-14 23:00:00",
-      "album": {
         "name": "Alderland (NO)",
         "url": "https://open.spotify.com/album/6szx99wRMChXhT3p6arm2L"
       },
@@ -703,6 +687,22 @@
       "duration_ms": 251353,
       "name": "Amelia",
       "url": "https://open.spotify.com/track/4u3SRmpI2DEbuOZuejog83"
+    },
+    {
+      "added_at": "2024-03-14 23:00:00",
+      "album": {
+        "name": "Aktion",
+        "url": "https://open.spotify.com/album/6BtyzpnUEoF5iZOdKceke6"
+      },
+      "artists": [
+        {
+          "name": "KSMB",
+          "url": "https://open.spotify.com/artist/5umOft7CgVOutNpa0rGX71"
+        }
+      ],
+      "duration_ms": 109800,
+      "name": "En slemmig torsk",
+      "url": "https://open.spotify.com/track/0lHqNKA2IX8MzQwLNPbbY8"
     },
     {
       "added_at": "2024-03-14 23:00:00",
@@ -771,6 +771,22 @@
     {
       "added_at": "2024-03-14 23:00:00",
       "album": {
+        "name": "Grit",
+        "url": "https://open.spotify.com/album/5j376oRcfB6bEovuA5Ssod"
+      },
+      "artists": [
+        {
+          "name": "Mimikry",
+          "url": "https://open.spotify.com/artist/0LQT5piMqjwpMkchYLfDxv"
+        }
+      ],
+      "duration_ms": 174753,
+      "name": "Jag l\u00e4mnar festen",
+      "url": "https://open.spotify.com/track/0BizThcD0irhGDGoZNCn1z"
+    },
+    {
+      "added_at": "2024-03-14 23:00:00",
+      "album": {
         "name": "Ebba Gr\u00f6n 1978 - 1982",
         "url": "https://open.spotify.com/album/2zP275pJAbZbZFifh5av6R"
       },
@@ -803,18 +819,18 @@
     {
       "added_at": "2024-03-14 23:00:00",
       "album": {
-        "name": "Grit",
-        "url": "https://open.spotify.com/album/5j376oRcfB6bEovuA5Ssod"
+        "name": "V\u00e4rdel\u00f6s",
+        "url": "https://open.spotify.com/album/4j1KS0IccBP03iFKJpj0qp"
       },
       "artists": [
         {
-          "name": "Mimikry",
-          "url": "https://open.spotify.com/artist/0LQT5piMqjwpMkchYLfDxv"
+          "name": "Sten & Stalin",
+          "url": "https://open.spotify.com/artist/7xS4Uw7T0pNePx7S238bM9"
         }
       ],
-      "duration_ms": 174753,
-      "name": "Jag l\u00e4mnar festen",
-      "url": "https://open.spotify.com/track/0BizThcD0irhGDGoZNCn1z"
+      "duration_ms": 123560,
+      "name": "Feta Gubbar",
+      "url": "https://open.spotify.com/track/0XwpJFzmXViS6TImtpv9lM"
     },
     {
       "added_at": "2024-03-14 23:00:00",
@@ -831,22 +847,6 @@
       "duration_ms": 181680,
       "name": "Leva loppan",
       "url": "https://open.spotify.com/track/3a5FtkugQkAfqH1A8Psuwd"
-    },
-    {
-      "added_at": "2024-03-14 23:00:00",
-      "album": {
-        "name": "V\u00e4rdel\u00f6s",
-        "url": "https://open.spotify.com/album/4j1KS0IccBP03iFKJpj0qp"
-      },
-      "artists": [
-        {
-          "name": "Sten & Stalin",
-          "url": "https://open.spotify.com/artist/7xS4Uw7T0pNePx7S238bM9"
-        }
-      ],
-      "duration_ms": 123560,
-      "name": "Feta Gubbar",
-      "url": "https://open.spotify.com/track/0XwpJFzmXViS6TImtpv9lM"
     },
     {
       "added_at": "2024-03-14 23:00:00",
@@ -899,6 +899,22 @@
     {
       "added_at": "2024-03-14 23:00:00",
       "album": {
+        "name": "Alla sover",
+        "url": "https://open.spotify.com/album/6Ey1sBXBiOW7Y3QCyenE0v"
+      },
+      "artists": [
+        {
+          "name": "Mimikry",
+          "url": "https://open.spotify.com/artist/0LQT5piMqjwpMkchYLfDxv"
+        }
+      ],
+      "duration_ms": 167648,
+      "name": "Brinner",
+      "url": "https://open.spotify.com/track/30UvZ7ZoerQChs2wLgTuqR"
+    },
+    {
+      "added_at": "2024-03-14 23:00:00",
+      "album": {
         "name": "Vi \u00c4r Alla Stj\u00e4rnor",
         "url": "https://open.spotify.com/album/7E2RVJCOJyo0WqyH1b9GNn"
       },
@@ -911,6 +927,26 @@
       "duration_ms": 145520,
       "name": "Som En Doft Av Napalm",
       "url": "https://open.spotify.com/track/68dRAj0qJy7KQe4FxjUqrc"
+    },
+    {
+      "added_at": "2024-03-14 23:00:00",
+      "album": {
+        "name": "F\u00f6r Sverige",
+        "url": "https://open.spotify.com/album/1qAOtAfBZwnxpU4n1fVzoS"
+      },
+      "artists": [
+        {
+          "name": "Lastkaj 14",
+          "url": "https://open.spotify.com/artist/6xTo3T8agKHb56mxJA3yJI"
+        },
+        {
+          "name": "Loke Nyberg",
+          "url": "https://open.spotify.com/artist/1SovpimyX6noSdwHMymCIA"
+        }
+      ],
+      "duration_ms": 205506,
+      "name": "Hela hatet stormar",
+      "url": "https://open.spotify.com/track/7KxxR4leTRgoF36DPyeqDD"
     },
     {
       "added_at": "2024-03-14 23:00:00",
@@ -943,42 +979,6 @@
       "duration_ms": 182526,
       "name": "Svegregationen",
       "url": "https://open.spotify.com/track/1JTg3ZsOwIpsqdpEKnhGmA"
-    },
-    {
-      "added_at": "2024-03-14 23:00:00",
-      "album": {
-        "name": "Alla sover",
-        "url": "https://open.spotify.com/album/6Ey1sBXBiOW7Y3QCyenE0v"
-      },
-      "artists": [
-        {
-          "name": "Mimikry",
-          "url": "https://open.spotify.com/artist/0LQT5piMqjwpMkchYLfDxv"
-        }
-      ],
-      "duration_ms": 167648,
-      "name": "Brinner",
-      "url": "https://open.spotify.com/track/30UvZ7ZoerQChs2wLgTuqR"
-    },
-    {
-      "added_at": "2024-03-14 23:00:00",
-      "album": {
-        "name": "F\u00f6r Sverige",
-        "url": "https://open.spotify.com/album/1qAOtAfBZwnxpU4n1fVzoS"
-      },
-      "artists": [
-        {
-          "name": "Lastkaj 14",
-          "url": "https://open.spotify.com/artist/6xTo3T8agKHb56mxJA3yJI"
-        },
-        {
-          "name": "Loke Nyberg",
-          "url": "https://open.spotify.com/artist/1SovpimyX6noSdwHMymCIA"
-        }
-      ],
-      "duration_ms": 205506,
-      "name": "Hela hatet stormar",
-      "url": "https://open.spotify.com/track/7KxxR4leTRgoF36DPyeqDD"
     },
     {
       "added_at": "2024-03-14 23:00:00",
@@ -1095,22 +1095,6 @@
     {
       "added_at": "2024-03-14 23:00:00",
       "album": {
-        "name": "Konflikthantering 101",
-        "url": "https://open.spotify.com/album/7bBKMz9YfJhYIHyxxEdJa4"
-      },
-      "artists": [
-        {
-          "name": "Lastkaj 14",
-          "url": "https://open.spotify.com/artist/6xTo3T8agKHb56mxJA3yJI"
-        }
-      ],
-      "duration_ms": 165600,
-      "name": "Konflikthantering 101",
-      "url": "https://open.spotify.com/track/7hEbGhVukXSnkgd8xt5xFs"
-    },
-    {
-      "added_at": "2024-03-14 23:00:00",
-      "album": {
         "name": "Vi \u00c4r Alla Stj\u00e4rnor",
         "url": "https://open.spotify.com/album/7E2RVJCOJyo0WqyH1b9GNn"
       },
@@ -1123,6 +1107,22 @@
       "duration_ms": 202640,
       "name": "Till Krig",
       "url": "https://open.spotify.com/track/2Dm3dpz92r2Ov6ahGrrpDT"
+    },
+    {
+      "added_at": "2024-03-14 23:00:00",
+      "album": {
+        "name": "Konflikthantering 101",
+        "url": "https://open.spotify.com/album/7bBKMz9YfJhYIHyxxEdJa4"
+      },
+      "artists": [
+        {
+          "name": "Lastkaj 14",
+          "url": "https://open.spotify.com/artist/6xTo3T8agKHb56mxJA3yJI"
+        }
+      ],
+      "duration_ms": 165600,
+      "name": "Konflikthantering 101",
+      "url": "https://open.spotify.com/track/7hEbGhVukXSnkgd8xt5xFs"
     },
     {
       "added_at": "2024-03-14 23:00:00",
@@ -1319,22 +1319,6 @@
     {
       "added_at": "2024-03-14 23:00:00",
       "album": {
-        "name": "P\u00e5 \u00c4ventyr i Historien III",
-        "url": "https://open.spotify.com/album/2AU8OSjplpDqnb5Gz61V3L"
-      },
-      "artists": [
-        {
-          "name": "Kapten Kermit",
-          "url": "https://open.spotify.com/artist/1L835FxGKZLivabIOdzpwS"
-        }
-      ],
-      "duration_ms": 114960,
-      "name": "Mellanstadiedisco",
-      "url": "https://open.spotify.com/track/5OISH9zyF9DvBGbXneQoMG"
-    },
-    {
-      "added_at": "2024-03-14 23:00:00",
-      "album": {
         "name": "Parasit",
         "url": "https://open.spotify.com/album/2zX4NO879mq7qvcBomEpqK"
       },
@@ -1351,18 +1335,18 @@
     {
       "added_at": "2024-03-14 23:00:00",
       "album": {
-        "name": "Crash Nomada",
-        "url": "https://open.spotify.com/album/5JfnRL57adQUcl9XU57tyG"
+        "name": "P\u00e5 \u00c4ventyr i Historien III",
+        "url": "https://open.spotify.com/album/2AU8OSjplpDqnb5Gz61V3L"
       },
       "artists": [
         {
-          "name": "Crash Nomada",
-          "url": "https://open.spotify.com/artist/67jps1aP8vHb99GSaT2Hkh"
+          "name": "Kapten Kermit",
+          "url": "https://open.spotify.com/artist/1L835FxGKZLivabIOdzpwS"
         }
       ],
-      "duration_ms": 219146,
-      "name": "N\u00e5gon form av svar",
-      "url": "https://open.spotify.com/track/1stF6GJvw36GjBrVnJmW7t"
+      "duration_ms": 114960,
+      "name": "Mellanstadiedisco",
+      "url": "https://open.spotify.com/track/5OISH9zyF9DvBGbXneQoMG"
     },
     {
       "added_at": "2024-03-14 23:00:00",
@@ -1399,6 +1383,22 @@
     {
       "added_at": "2024-03-14 23:00:00",
       "album": {
+        "name": "Crash Nomada",
+        "url": "https://open.spotify.com/album/5JfnRL57adQUcl9XU57tyG"
+      },
+      "artists": [
+        {
+          "name": "Crash Nomada",
+          "url": "https://open.spotify.com/artist/67jps1aP8vHb99GSaT2Hkh"
+        }
+      ],
+      "duration_ms": 219146,
+      "name": "N\u00e5gon form av svar",
+      "url": "https://open.spotify.com/track/1stF6GJvw36GjBrVnJmW7t"
+    },
+    {
+      "added_at": "2024-03-14 23:00:00",
+      "album": {
         "name": "Mvh Grannen",
         "url": "https://open.spotify.com/album/4fePJdRUECaFQ7D1UKq7FK"
       },
@@ -1431,22 +1431,6 @@
     {
       "added_at": "2024-03-14 23:00:00",
       "album": {
-        "name": "Vill Ha Mer",
-        "url": "https://open.spotify.com/album/2Ky2qldnoiQ1PyyRNEP2A4"
-      },
-      "artists": [
-        {
-          "name": "Varnagel",
-          "url": "https://open.spotify.com/artist/6YaAj5Os3Dm33h2Ks2ugpH"
-        }
-      ],
-      "duration_ms": 173406,
-      "name": "Trall Punkt Nu",
-      "url": "https://open.spotify.com/track/5PLq5eckMjueGe2wtsF3lC"
-    },
-    {
-      "added_at": "2024-03-14 23:00:00",
-      "album": {
         "name": "Det blir som det blir",
         "url": "https://open.spotify.com/album/6ejXSnBxHRi9g5HuT1lMfj"
       },
@@ -1459,6 +1443,22 @@
       "duration_ms": 151764,
       "name": "T\u00e4nk negativt",
       "url": "https://open.spotify.com/track/0C8VuNSqfWxkwKmVx8Spl9"
+    },
+    {
+      "added_at": "2024-03-14 23:00:00",
+      "album": {
+        "name": "Vill Ha Mer",
+        "url": "https://open.spotify.com/album/2Ky2qldnoiQ1PyyRNEP2A4"
+      },
+      "artists": [
+        {
+          "name": "Varnagel",
+          "url": "https://open.spotify.com/artist/6YaAj5Os3Dm33h2Ks2ugpH"
+        }
+      ],
+      "duration_ms": 173406,
+      "name": "Trall Punkt Nu",
+      "url": "https://open.spotify.com/track/5PLq5eckMjueGe2wtsF3lC"
     },
     {
       "added_at": "2024-03-14 23:00:00",
@@ -1511,22 +1511,6 @@
     {
       "added_at": "2024-03-14 23:00:00",
       "album": {
-        "name": "Burn",
-        "url": "https://open.spotify.com/album/5KMWZzFX6U93JhFtvGgABZ"
-      },
-      "artists": [
-        {
-          "name": "Xiao",
-          "url": "https://open.spotify.com/artist/7p7bBRBk6IU0X0lqIGj0fJ"
-        }
-      ],
-      "duration_ms": 77334,
-      "name": "Europe Must Burn",
-      "url": "https://open.spotify.com/track/02wjerbGfGEPRmgKlVdkww"
-    },
-    {
-      "added_at": "2024-03-14 23:00:00",
-      "album": {
         "name": "Mot botten av ett h\u00e5l",
         "url": "https://open.spotify.com/album/3VkXVn56aBAjhslETKDWx7"
       },
@@ -1539,6 +1523,22 @@
       "duration_ms": 191290,
       "name": "Dina \u00f6gon",
       "url": "https://open.spotify.com/track/1kwic7QBnCm9ybxq1MU5N2"
+    },
+    {
+      "added_at": "2024-03-14 23:00:00",
+      "album": {
+        "name": "Burn",
+        "url": "https://open.spotify.com/album/5KMWZzFX6U93JhFtvGgABZ"
+      },
+      "artists": [
+        {
+          "name": "Xiao",
+          "url": "https://open.spotify.com/artist/7p7bBRBk6IU0X0lqIGj0fJ"
+        }
+      ],
+      "duration_ms": 77334,
+      "name": "Europe Must Burn",
+      "url": "https://open.spotify.com/track/02wjerbGfGEPRmgKlVdkww"
     },
     {
       "added_at": "2024-03-14 23:00:00",

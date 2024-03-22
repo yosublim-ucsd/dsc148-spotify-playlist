@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3DRt77Ekehy.md) - [plain]
 
 > A positive Solfeggio Frequency, used by many for meditation, manifestation and healing.
 
-[Spotify](https://open.spotify.com/user/spotify) - 108,012 likes - 179 songs - 8 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 108,086 likes - 179 songs - 8 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -188,4 +188,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3DRt77Ekehy.md) - [plain]
 | 178 | [432hz Manara \(Lighthouse\)](https://open.spotify.com/track/4Q3jMkeCcW0HQlDIAzQYBN) | [Abe Hathot](https://open.spotify.com/artist/40tqIiKClGVYgzgxL4YoQw) | [432hz Manara \(Lighthouse\)](https://open.spotify.com/album/44Bv426Wz9k6NjE9Boh5cG) | 3:01 |
 | 179 | [Remend \(432 Hz\)](https://open.spotify.com/track/3vBUiddLohHOXs5Pgokeh0) | [Michel LeBond](https://open.spotify.com/artist/49r28kFLIBUEgxnjLUvUwA) | [Remend](https://open.spotify.com/album/0Qk3Dm6L90ZAbdEurz2Dd9) | 2:32 |
 
-Snapshot ID: `MCw5MDczNzJkYjBjNWIxMDJjZWU2YmI3MjA3YmJhMjJlMjQ1MDllNjBm`
+Snapshot ID: `MCw4MjgxMTFmMWIzMzQ3MDQ2MDBhYmFmYmQ1MGYyMTg4MmJkN2U2ZWI5`

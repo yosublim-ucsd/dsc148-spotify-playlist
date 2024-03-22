@@ -1,12 +1,12 @@
 {
   "description": "Anthems from the early days of recorded rap music.",
-  "num_followers": 387466,
+  "num_followers": 387595,
   "original_name": "I Love My '80s Hip-Hop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmMDIwOWM4YTZiNTU1MDdhNmIxNzk1NWY1NDFmY2M2OGNhYjg2MTE1",
+  "snapshot_id": "MCxkOTUxNjAyZTJkNmQ4ZDQ4MGVhZDY1MjgyMTFlY2Y4ZTdlNjYwMGQ0",
   "tracks": [
     {
       "added_at": "2024-03-07 12:05:42",
@@ -475,22 +475,6 @@
     {
       "added_at": "2024-03-07 12:05:42",
       "album": {
-        "name": "It Takes A Nation Of Millions To Hold Us Back (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/3PxXiYU3PjymOEE22PewGZ"
-      },
-      "artists": [
-        {
-          "name": "Public Enemy",
-          "url": "https://open.spotify.com/artist/6Mo9PoU6svvhgEum7wh2Nd"
-        }
-      ],
-      "duration_ms": 319360,
-      "name": "Don't Believe The Hype",
-      "url": "https://open.spotify.com/track/5k8dJvnLKfv1YN9W3bO79x"
-    },
-    {
-      "added_at": "2024-03-07 12:05:42",
-      "album": {
         "name": "Follow The Leader (Expanded Edition)",
         "url": "https://open.spotify.com/album/42p4dRDB24b9mvBmMb0QR9"
       },
@@ -503,6 +487,22 @@
       "duration_ms": 314600,
       "name": "Microphone Fiend",
       "url": "https://open.spotify.com/track/0cSJGFChou7M6u2ju9SWN1"
+    },
+    {
+      "added_at": "2024-03-07 12:05:42",
+      "album": {
+        "name": "It Takes A Nation Of Millions To Hold Us Back (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/3PxXiYU3PjymOEE22PewGZ"
+      },
+      "artists": [
+        {
+          "name": "Public Enemy",
+          "url": "https://open.spotify.com/artist/6Mo9PoU6svvhgEum7wh2Nd"
+        }
+      ],
+      "duration_ms": 319360,
+      "name": "Don't Believe The Hype",
+      "url": "https://open.spotify.com/track/5k8dJvnLKfv1YN9W3bO79x"
     },
     {
       "added_at": "2024-03-07 12:05:42",
@@ -587,18 +587,18 @@
     {
       "added_at": "2024-03-07 12:05:42",
       "album": {
-        "name": "Paid In Full",
-        "url": "https://open.spotify.com/album/3miZDfDnP7SmOXAJXWdFmz"
+        "name": "It Takes A Nation Of Millions To Hold Us Back (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/3PxXiYU3PjymOEE22PewGZ"
       },
       "artists": [
         {
-          "name": "Eric B. & Rakim",
-          "url": "https://open.spotify.com/artist/6jHG1YQkqgojdEzerwvrVv"
+          "name": "Public Enemy",
+          "url": "https://open.spotify.com/artist/6Mo9PoU6svvhgEum7wh2Nd"
         }
       ],
-      "duration_ms": 284466,
-      "name": "I Know You Got Soul",
-      "url": "https://open.spotify.com/track/5D2lp16FQ0VIfLGRDn5jcG"
+      "duration_ms": 226040,
+      "name": "Bring The Noise",
+      "url": "https://open.spotify.com/track/5BiuxSuxOZ9CcQ6SqICsDv"
     },
     {
       "added_at": "2024-03-07 12:05:42",
@@ -619,18 +619,18 @@
     {
       "added_at": "2024-03-07 12:05:42",
       "album": {
-        "name": "It Takes A Nation Of Millions To Hold Us Back (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/3PxXiYU3PjymOEE22PewGZ"
+        "name": "Paid In Full",
+        "url": "https://open.spotify.com/album/3miZDfDnP7SmOXAJXWdFmz"
       },
       "artists": [
         {
-          "name": "Public Enemy",
-          "url": "https://open.spotify.com/artist/6Mo9PoU6svvhgEum7wh2Nd"
+          "name": "Eric B. & Rakim",
+          "url": "https://open.spotify.com/artist/6jHG1YQkqgojdEzerwvrVv"
         }
       ],
-      "duration_ms": 226040,
-      "name": "Bring The Noise",
-      "url": "https://open.spotify.com/track/5BiuxSuxOZ9CcQ6SqICsDv"
+      "duration_ms": 284466,
+      "name": "I Know You Got Soul",
+      "url": "https://open.spotify.com/track/5D2lp16FQ0VIfLGRDn5jcG"
     },
     {
       "added_at": "2024-03-07 12:05:42",

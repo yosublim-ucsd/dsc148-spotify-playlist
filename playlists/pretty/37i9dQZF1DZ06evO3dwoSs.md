@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3dwoSs.md) - [plain]
 
 > This is Five Finger Death Punch\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 534,929 likes - 47 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 535,012 likes - 47 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [A Little Bit Off](https://open.spotify.com/track/6GqqGv8frU7kqzXkm2rewI) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [F8](https://open.spotify.com/album/7vAcymF4feKxvqcUDzLQD2) | 3:10 |
 | 2 | [Welcome To The Circus](https://open.spotify.com/track/1linrfCmITmQHs4enAxTUY) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [AfterLife](https://open.spotify.com/album/2xO5zlCGNyap7Jx1ED3HgG) | 4:16 |
-| 3 | [Wrong Side of Heaven](https://open.spotify.com/track/11Ojp7JniVvwd0gmgvyKkd) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [The Wrong Side Of Heaven And The Righteous Side Of Hell, Volume 1](https://open.spotify.com/album/6vMTdFzBPjyrBSFkCvjUh3) | 4:31 |
-| 4 | [Bad Company](https://open.spotify.com/track/2KZXCH4npY28gtZKXcB2N8) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [War Is the Answer](https://open.spotify.com/album/5wqJcLJsFqVg1lWowuyv3V) | 4:22 |
+| 3 | [Bad Company](https://open.spotify.com/track/2KZXCH4npY28gtZKXcB2N8) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [War Is the Answer](https://open.spotify.com/album/5wqJcLJsFqVg1lWowuyv3V) | 4:22 |
+| 4 | [Wrong Side of Heaven](https://open.spotify.com/track/11Ojp7JniVvwd0gmgvyKkd) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [The Wrong Side Of Heaven And The Righteous Side Of Hell, Volume 1](https://open.spotify.com/album/6vMTdFzBPjyrBSFkCvjUh3) | 4:31 |
 | 5 | [Jekyll and Hyde](https://open.spotify.com/track/5dFEX82XB1ElGFwfCp0rql) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [Got Your Six \(Deluxe\)](https://open.spotify.com/album/5CCuwNYZibM0V2GWuEHtcG) | 3:26 |
 | 6 | [Times Like These](https://open.spotify.com/track/6bo13cPb5M0B6LhQEl0A3E) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [AfterLife](https://open.spotify.com/album/2xO5zlCGNyap7Jx1ED3HgG) | 3:29 |
 | 7 | [Full Circle](https://open.spotify.com/track/76CWLFHm3OFuE2P1dDMhi3) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [F8](https://open.spotify.com/album/7vAcymF4feKxvqcUDzLQD2) | 3:22 |
@@ -30,11 +30,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3dwoSs.md) - [plain]
 | 20 | [Cradle to the Grave](https://open.spotify.com/track/4bpI7WOnEjXDAnZtyvaX5A) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [The Wrong Side Of Heaven And The Righteous Side Of Hell, Volume 2](https://open.spotify.com/album/0RP9MT74WH7Yis10EO7tZS) | 3:18 |
 | 21 | [Under and Over It](https://open.spotify.com/track/0xKFHPdmWipLYPG3zlPpr4) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [American Capitalist \(Deluxe Edition\)](https://open.spotify.com/album/6u1mCPtlgfflxh5LZiPdoM) | 3:38 |
 | 22 | [Pick Up Behind You](https://open.spotify.com/track/6sMOYEbYigMVoIVNyNEIPN) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [AfterLife](https://open.spotify.com/album/2xO5zlCGNyap7Jx1ED3HgG) | 3:08 |
-| 23 | [Brighter Side of Grey](https://open.spotify.com/track/4tW57waWtNZF2CnhQEjPBq) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [F8](https://open.spotify.com/album/7vAcymF4feKxvqcUDzLQD2) | 4:29 |
+| 23 | [Darkness Settles In](https://open.spotify.com/track/6RksBSj5fFtPkUnL2EE0oe) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [F8](https://open.spotify.com/album/7vAcymF4feKxvqcUDzLQD2) | 4:41 |
 | 24 | [Blue on Black](https://open.spotify.com/track/0buT7DERYwcKnNanKwbrUc) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [And Justice for None](https://open.spotify.com/album/1hMjINqA3UZ1ITb47wizsC) | 4:34 |
 | 25 | [Sham Pain](https://open.spotify.com/track/3MnYJuv8ogYrBkBb3XWdTQ) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [And Justice for None \(Deluxe\)](https://open.spotify.com/album/7BXbyT2VJgiD6eYLPJrsJp) | 3:29 |
 | 26 | [Hell To Pay](https://open.spotify.com/track/3CH1wUFmm89RYy9v5W4jtk) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [Got Your Six](https://open.spotify.com/album/4KXYNMizBHgXUFM1UOUhoJ) | 3:07 |
-| 27 | [Darkness Settles In](https://open.spotify.com/track/6RksBSj5fFtPkUnL2EE0oe) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [F8](https://open.spotify.com/album/7vAcymF4feKxvqcUDzLQD2) | 4:41 |
+| 27 | [Brighter Side of Grey](https://open.spotify.com/track/4tW57waWtNZF2CnhQEjPBq) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [F8](https://open.spotify.com/album/7vAcymF4feKxvqcUDzLQD2) | 4:29 |
 | 28 | [The Bleeding](https://open.spotify.com/track/6LRmV5GZUjKLgxi7lBWriQ) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [The Way of the Fist](https://open.spotify.com/album/5WKUwwYLzwSJAwMCrxhCdj) | 4:28 |
 | 29 | [Coming Down](https://open.spotify.com/track/69CjL1kr0muXIraytXdbf5) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [American Capitalist](https://open.spotify.com/album/0AiuvwadoYnRjDJRdpmusr) | 4:01 |
 | 30 | [I Apologize](https://open.spotify.com/track/0B2N4OGP6faYsITpdKEH1D) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [Got Your Six \(Deluxe\)](https://open.spotify.com/album/5CCuwNYZibM0V2GWuEHtcG) | 4:02 |
@@ -56,4 +56,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3dwoSs.md) - [plain]
 | 46 | [Dot Your Eyes](https://open.spotify.com/track/17b5efUrwTIWLUYH6RThTs) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [The Wrong Side of Heaven and the Righteous Side of Hell, Vol\. 1](https://open.spotify.com/album/5z9Z5Hg2LGKVS11njgfI3i) | 3:15 |
 | 47 | [War Is the Answer](https://open.spotify.com/track/40diQlqwPj2HPxxhakP7FI) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [War Is the Answer](https://open.spotify.com/album/5wqJcLJsFqVg1lWowuyv3V) | 3:18 |
 
-Snapshot ID: `Mjg1MTU2NjEsMDAwMDAwMDBmMWY1ZmQzYmNmNTlkNjU0NGY2YTMyNTQ3MTAxN2RhMQ==`
+Snapshot ID: `Mjg1MTcwNzUsMDAwMDAwMDA5YzAxOTIyOGM0NWY2ZWFiNTkwYjVhNThmNDU1N2Q3NA==`

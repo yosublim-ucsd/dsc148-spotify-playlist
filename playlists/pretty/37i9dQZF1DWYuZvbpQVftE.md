@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYuZvbpQVftE.md) - [plain]
 
 > The cool sound of West coast Jazz\. Cover: Gerry Mulligan
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,318 likes - 50 songs - 4 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,332 likes - 50 songs - 4 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYuZvbpQVftE.md) - [plain]
 | 19 | [With A Little Bit Of Luck \- Instrumental](https://open.spotify.com/track/2sYInNWcg7ZL9cLobvs0oo) | [Shelly Manne And His Friends](https://open.spotify.com/artist/4NmuwMxBl62HSU4nXZYLUf) | [My Fair Lady](https://open.spotify.com/album/0HyyWDSM4mZcnkHIXo6oza) | 6:02 |
 | 20 | [Far More Blue](https://open.spotify.com/track/2djpFaL4yqTH3fvDKijsMv) | [The Dave Brubeck Quartet](https://open.spotify.com/artist/4iRZAbYvBqnxrbs6K25aJ7) | [Time Further Out](https://open.spotify.com/album/0eMXd1VtCXCkuGWn9JjRDT) | 4:37 |
 | 21 | [Imagination](https://open.spotify.com/track/2of5gKZdb2dw3IeJCTd1qi) | [Art Pepper](https://open.spotify.com/artist/3GpMtIOC5ZLvMBMI7IxPvA) | [Art Pepper Meets The Rhythm Section \(OJC Remaster\)](https://open.spotify.com/album/0KVlRrpun0BBnfJFeVTLfX) | 5:55 |
-| 22 | [Stockholm Sweetnin'](https://open.spotify.com/track/5G0fv40KyLkpSiPtc0Q8gf) | [Quincy Jones](https://open.spotify.com/artist/3rxIQc9kWT6Ueg4BhnOwRK) | [This Is How I Feel About Jazz](https://open.spotify.com/album/2JN9W6snU2SvqW7ER0Vknk) | 5:40 |
-| 23 | [Grooveyard](https://open.spotify.com/track/2DS10kEktKybLiPI30WvFG) | [Harold Land](https://open.spotify.com/artist/1jcPgyzUoFrMSI5jloL3LD) | [Harold In The Land Of Jazz](https://open.spotify.com/album/4VvgRg2qKq70YWZjKGepiG) | 7:06 |
+| 22 | [Grooveyard](https://open.spotify.com/track/2DS10kEktKybLiPI30WvFG) | [Harold Land](https://open.spotify.com/artist/1jcPgyzUoFrMSI5jloL3LD) | [Harold In The Land Of Jazz](https://open.spotify.com/album/4VvgRg2qKq70YWZjKGepiG) | 7:06 |
+| 23 | [Stockholm Sweetnin'](https://open.spotify.com/track/5G0fv40KyLkpSiPtc0Q8gf) | [Quincy Jones](https://open.spotify.com/artist/3rxIQc9kWT6Ueg4BhnOwRK) | [This Is How I Feel About Jazz](https://open.spotify.com/album/2JN9W6snU2SvqW7ER0Vknk) | 5:40 |
 | 24 | [Too Close For Comfort](https://open.spotify.com/track/0ZU39CemSAamm1dtiSAchp) | [Stan Getz Quartet](https://open.spotify.com/artist/1LGtimLfGcQLKYJD1a1j1r) | [The Steamer \(Expanded Edition\)](https://open.spotify.com/album/2k1gozS6ZPvo38ZucooatA) | 6:19 |
 | 25 | [Sometime Ago](https://open.spotify.com/track/0OshedQ1Ylcgxcr3c23BQV) | [Bob Brookmeyer](https://open.spotify.com/artist/3aM9H4QBnPUo6mnNVufAtN) | [Bob Brookmeyer & Friends](https://open.spotify.com/album/12JCMQ79q662srkjDGoe02) | 4:04 |
 | 26 | [Blue Thoughts](https://open.spotify.com/track/6A2tYCT1Wcd5RT6DhyCqhm) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [In New York \[Original Jazz Classics Remasters\]](https://open.spotify.com/album/65zkV2jjroxi3mwOEddvDJ) | 7:33 |
@@ -52,11 +52,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYuZvbpQVftE.md) - [plain]
 | 42 | [Sunset](https://open.spotify.com/track/6DT90JA5wdKatQf12NynLb) | [Sonny Stitt](https://open.spotify.com/artist/217b0uqAzsOOhGcnoANZqj), [Bud Powell Quartet](https://open.spotify.com/artist/2vBE1v3LSzP5FGUm3sDo4Z) | [Sonny Stitt, Bud Powell, J.J\. Johnson](https://open.spotify.com/album/7qbujqTVR3B9ED9DqGd1sB) | 3:45 |
 | 43 | [News From Blueport](https://open.spotify.com/track/19cN9w8acuY1mhelpksd6h) | [Gerry Mulligan](https://open.spotify.com/artist/6l40OFJhuTbHQ9V12evc9K) | [What Is There To Say?](https://open.spotify.com/album/0NUxMpyjIOP71y3NaThnTW) | 5:03 |
 | 44 | [Gettin' Together \[Original Take\]](https://open.spotify.com/track/78kfNNgqKksRDd9Qr6usSX) | [Art Pepper](https://open.spotify.com/artist/3GpMtIOC5ZLvMBMI7IxPvA) | [Gettin' Together!](https://open.spotify.com/album/4eF6FIxcBLOMOLEl3w4QQT) | 6:56 |
-| 45 | [Brandenburg Gate](https://open.spotify.com/track/4p71KdIiYX7KQrkXoXE32X) | [Dave Brubeck](https://open.spotify.com/artist/3kUKwTJdH8FuWzF8p6Dg9E) | [The Essential Dave Brubeck](https://open.spotify.com/album/2IaDMqrxVulBfj5Riy29xL) | 6:50 |
-| 46 | [Happily Dancing / Deep Harmonies Falling \- Live](https://open.spotify.com/track/7vcuLXP5eTaUwa1xh3rRYs) | [Harold Land](https://open.spotify.com/artist/1jcPgyzUoFrMSI5jloL3LD), [Carmell Jones](https://open.spotify.com/artist/1Fz7kYXFWKM4L4Hjaq9ktx) | [Westward Bound! \(Live\)](https://open.spotify.com/album/5Bcl5tLBwZxch1KWFg1iKF) | 8:38 |
+| 45 | [Happily Dancing / Deep Harmonies Falling \- Live](https://open.spotify.com/track/7vcuLXP5eTaUwa1xh3rRYs) | [Harold Land](https://open.spotify.com/artist/1jcPgyzUoFrMSI5jloL3LD), [Carmell Jones](https://open.spotify.com/artist/1Fz7kYXFWKM4L4Hjaq9ktx) | [Westward Bound! \(Live\)](https://open.spotify.com/album/5Bcl5tLBwZxch1KWFg1iKF) | 8:38 |
+| 46 | [Brandenburg Gate](https://open.spotify.com/track/4p71KdIiYX7KQrkXoXE32X) | [Dave Brubeck](https://open.spotify.com/artist/3kUKwTJdH8FuWzF8p6Dg9E) | [The Essential Dave Brubeck](https://open.spotify.com/album/2IaDMqrxVulBfj5Riy29xL) | 6:50 |
 | 47 | [Sid, Ol' Kid](https://open.spotify.com/track/4ZdUYMQBvQe4o5qiIVGtzI) | [Marty Paich](https://open.spotify.com/artist/69OOiGDvj0o9QQ184tqc9R) | [Take Me Along](https://open.spotify.com/album/24I15RTAgb3NtGfrTilzQI) | 5:04 |
 | 48 | [Pigalle](https://open.spotify.com/track/4vwJminEIogBjD68EE6nLM) | [Buddy Collette](https://open.spotify.com/artist/1ZsOY6yOMW2n8M7mzKuTpR) | [Jazz Loves Paris](https://open.spotify.com/album/5aXQDmS6CoqSi8MJ3kRdYq) | 2:26 |
 | 49 | [Resonant Emotions](https://open.spotify.com/track/33JJFna9sqjq9XchUHYuaA) | [Chet Baker and Art Pepper](https://open.spotify.com/artist/57Qh2bYGjxFTo0N8qwtKaU) | [Playboys](https://open.spotify.com/album/3o9kITv0ss0JcD1rA3DzIo) | 5:44 |
 | 50 | [Walkin' With Wally \- live](https://open.spotify.com/track/2jrutFIbGBJqT8FdSRisuJ) | [Cal Tjader](https://open.spotify.com/artist/3XOVABzceOUTbR3iEz0ImO) | [Monterey Concerts](https://open.spotify.com/album/1nIZG4Rb0iAzzqo5UgcF2t) | 10:05 |
 
-Snapshot ID: `MCwwOWM3ODA1MWEwMzJmNzZkN2QzZDE3NDRkYjE5ZmFmNzNiZTE1OGJj`
+Snapshot ID: `MCwwNGYwOTU5Zjg4NTJkMjQ4MzJlZGUzZDZmZGI1NjFjMWUzNmE4MjAy`

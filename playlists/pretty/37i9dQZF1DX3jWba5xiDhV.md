@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3jWba5xiDhV.md) - [plain]
 
 > When the dance floor calls your name, that's amore.
 
-[Spotify](https://open.spotify.com/user/spotify) - 199,070 likes - 75 songs - 6 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 199,283 likes - 75 songs - 6 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,9 +67,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3jWba5xiDhV.md) - [plain]
 | 57 | [Discamore](https://open.spotify.com/track/6Kviwj20NGF2KQQ2Jke1cB) | [Dov'è Liana](https://open.spotify.com/artist/0iZfB56PLEsG9T03C2hjhK) | [Discamore](https://open.spotify.com/album/7MrTy86ZjbVidUkrwAcHiU) | 3:44 |
 | 58 | [La vita nuova \- Daniele Baldelli & Marco Dionigi Remix](https://open.spotify.com/track/74U9pNsCSdKGwvDIKbG4FO) | [Christine and the Queens](https://open.spotify.com/artist/04vj3iPUiVh5melWr0w3xT), [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a), [Daniele Baldelli](https://open.spotify.com/artist/3NZuWa2TqpeGPWGISzX8E7), [Marco Dionigi](https://open.spotify.com/artist/4pUlhZQZrakwDmAbKNIb19) | [La vita nuova \(Remixes\)](https://open.spotify.com/album/0niVkAtTbU8eq1zpy3HzcT) | 6:25 |
 | 59 | [Kalimba de luna](https://open.spotify.com/track/1GhgNF88EQEhpGpBApiZfc) | [Tony Esposito](https://open.spotify.com/artist/2E236rsxSkaqZfJpv57gYF) | [The Sound of Tony Esposito](https://open.spotify.com/album/3xaaztf2ZXiBbjETpSTEQC) | 5:13 |
-| 60 | [Che Caldo](https://open.spotify.com/track/0pKlilwwUTxcbZsUFUouwP) | [ELASI](https://open.spotify.com/artist/3C8AlXFIhzxJ4BCKxNQJJ6), [Anoraak](https://open.spotify.com/artist/2DfP0hQCCFmZHjstSE8yXC) | [Che Caldo](https://open.spotify.com/album/20QTEjaGNPvDhQpe1nPNCX) | 3:25 |
-| 61 | [San Salvador \- Single Version](https://open.spotify.com/track/149eMDp4tMxx22Z6k4dCuZ) | [Azoto](https://open.spotify.com/artist/6vjdSVEAtbHLzrVbyLeGVn) | [Disco Fizz](https://open.spotify.com/album/5ZF3fxPCV4jl77lv2F41Nz) | 3:05 |
-| 62 | [Hey Hey Guy \(7" Vocal Version\)](https://open.spotify.com/track/3oLn7p6CF8JvUDPz59t2WF) | [Ken Laszlo](https://open.spotify.com/artist/00OX175uYCsHJPLZOjNJqe) | [Greatest Hits & Remixes](https://open.spotify.com/album/1XsOXWsClvtWMxOnQ5gJ22) | 3:26 |
+| 60 | [Hey Hey Guy \(7" Vocal Version\)](https://open.spotify.com/track/3oLn7p6CF8JvUDPz59t2WF) | [Ken Laszlo](https://open.spotify.com/artist/00OX175uYCsHJPLZOjNJqe) | [Greatest Hits & Remixes](https://open.spotify.com/album/1XsOXWsClvtWMxOnQ5gJ22) | 3:26 |
+| 61 | [Che Caldo](https://open.spotify.com/track/0pKlilwwUTxcbZsUFUouwP) | [ELASI](https://open.spotify.com/artist/3C8AlXFIhzxJ4BCKxNQJJ6), [Anoraak](https://open.spotify.com/artist/2DfP0hQCCFmZHjstSE8yXC) | [Che Caldo](https://open.spotify.com/album/20QTEjaGNPvDhQpe1nPNCX) | 3:25 |
+| 62 | [San Salvador \- Single Version](https://open.spotify.com/track/149eMDp4tMxx22Z6k4dCuZ) | [Azoto](https://open.spotify.com/artist/6vjdSVEAtbHLzrVbyLeGVn) | [Disco Fizz](https://open.spotify.com/album/5ZF3fxPCV4jl77lv2F41Nz) | 3:05 |
 | 63 | [Eyes \- Prod\. by Roberto Ferrante \- 2020 Remaster](https://open.spotify.com/track/6nLXnqhVpNLiL41uImEvJM) | [Clio](https://open.spotify.com/artist/6YUx1iZjYtiwbDjQLULIHf), [Roberto Ferrante](https://open.spotify.com/artist/2aiM1OfMODFLUXaQgEVPK1) | [Eyes \(2020 Remaster\)](https://open.spotify.com/album/7mYiIebqgkhpysEFzboxIz) | 6:38 |
 | 64 | [Summer Time](https://open.spotify.com/track/62WcZBFubVa0rPqHwvFZ6K) | [Plastic Mode](https://open.spotify.com/artist/22bwmgMrfLg3IMcPs7vNMa) | [Plastic Mode](https://open.spotify.com/album/5ParFAecXuBEXXZOjtxOHx) | 3:55 |
 | 65 | [Love Will Save the Day](https://open.spotify.com/track/0S3kBOcAhCI0CFGrMhLAh9) | [Hard Ton](https://open.spotify.com/artist/2lr9QxlSxg2AWzOw9NT2zK) | [Love Will Save the Day](https://open.spotify.com/album/3rcsmoUcdFRhahxIYhQbbj) | 2:52 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3jWba5xiDhV.md) - [plain]
 | 74 | [Baby I Love You](https://open.spotify.com/track/0GpbUTVkLhMb200mH8WBOW) | [Easy Going](https://open.spotify.com/artist/3t1n3uomLdEAVdSc5WkVf1) | [Baby I Love You \(Original\) \- Single](https://open.spotify.com/album/7LZpZKT1adV23tV8AJe44U) | 8:23 |
 | 75 | [Body to Body](https://open.spotify.com/track/75nh9TRQMQubdiK82BYdwL) | [Gepy & Gepy](https://open.spotify.com/artist/09FocFgY6iQKkQB91QPK5o) | [Italian Dance](https://open.spotify.com/album/64cl4El2FwAO60rDuUxg33) | 3:12 |
 
-Snapshot ID: `MCw1ZGVjZWZlMjE2NWExZDRlNTllMGFlYmU4ZWFkOGQ1M2E0NjI5ZDMy`
+Snapshot ID: `MCxkYTUzMGI4ODhhOWQ1ODhmODQ3ZTdhODU2ZDU5YTk5ZTBiN2VkNWQ0`

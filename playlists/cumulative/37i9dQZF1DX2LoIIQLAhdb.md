@@ -2,7 +2,7 @@
 
 ### [R&Bae](https://open.spotify.com/playlist/37i9dQZF1DX2LoIIQLAhdb)
 
-> Le R&B français, nouvelle ère\. Photo : Merveille
+> Le R&B français, nouvelle ère\. Photo : Franglish
 
 274 songs - 13 hr 9 min
 

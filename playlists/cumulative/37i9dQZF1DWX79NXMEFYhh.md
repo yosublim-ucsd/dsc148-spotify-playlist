@@ -4,7 +4,7 @@
 
 > If you’re sappy and you know it, listen to these cheesy tunes.
 
-66 songs - 4 hr 15 min
+68 songs - 4 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,7 +36,7 @@
 | [Ligaw](https://open.spotify.com/track/6Jtx63cJDsRG0V4e2C4mIZ) | [KINDRED](https://open.spotify.com/artist/20bisCfPMhrXJH4Wv5lmh1) | [Subset](https://open.spotify.com/album/6pIzG9sq6QRBqfCBY0deTB) | 4:04 | 2023-11-10 |  |
 | [Liham Sa Ulap](https://open.spotify.com/track/5M0k1RUg9C8Ls6qu6RPbnD) | [KYLIX](https://open.spotify.com/artist/4ctUJBW9vL0fY7jeEtzAMs) | [Liham Sa Ulap](https://open.spotify.com/album/7szlH8D5RCUNOowIPhtc3I) | 3:08 | 2023-10-18 | 2023-11-11 |
 | [Lihim](https://open.spotify.com/track/2K0CH6BtfBtY7wMnsKIuzo) | [Arthur Miguel](https://open.spotify.com/artist/2Ev7vtPI38BE2kQvwmH4ce) | [Lihim](https://open.spotify.com/album/2FIBgr9TXQpqItmTNIT89U) | 4:06 | 2023-10-18 |  |
-| [Lilly's Child](https://open.spotify.com/track/53VWrgqxMeyLvzRaPZH89K) | [Alexis Gildore](https://open.spotify.com/artist/0pie0aHWJncJV8IYRnYcD3) | [Lilly's Child](https://open.spotify.com/album/6IljuxUuJiSP87CuHpEn3E) | 2:24 | 2023-10-18 |  |
+| [Lilly's Child](https://open.spotify.com/track/53VWrgqxMeyLvzRaPZH89K) | [Alexis Gildore](https://open.spotify.com/artist/0pie0aHWJncJV8IYRnYcD3) | [Lilly's Child](https://open.spotify.com/album/6IljuxUuJiSP87CuHpEn3E) | 2:24 | 2023-10-18 | 2024-03-22 |
 | [Love U Like That](https://open.spotify.com/track/3rmqiQbzPDx7A8p88IRFKg) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [Love U Like That](https://open.spotify.com/album/4L1fTiCm419aQYUbfRJ3mA) | 3:31 | 2023-10-18 | 2023-11-11 |
 | [Love Will Keep Us Alive](https://open.spotify.com/track/73rrFU3kxJfhwEkWEUKFjg) | [Nosy & Mila](https://open.spotify.com/artist/1GaGCu3PAD272YCbjJj5lU) | [Greatest Hits](https://open.spotify.com/album/2axCtTfl9UnGW64StC9CWz) | 5:37 | 2023-10-18 |  |
 | [Lovesick](https://open.spotify.com/track/39fD0qvjgk8RarJnoBiDTx) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Bewitched](https://open.spotify.com/album/1rpCHilZQkw84A3Y9czvMO) | 3:45 | 2023-10-18 | 2023-11-11 |
@@ -51,16 +51,18 @@
 | [Patutunguhan](https://open.spotify.com/track/1EP2WyCX9Q7y24bKPSZ0tc) | [Cup of Joe](https://open.spotify.com/artist/61nn6nOoLWjVC1ER2qFAvN) | [Patutunguhan](https://open.spotify.com/album/6UPgk02gaRFzLqy15dFH3I) | 4:12 | 2023-10-18 |  |
 | [Raining In Manila](https://open.spotify.com/track/0mtkRIAOueeXqHpyahIbtJ) | [Lola Amour](https://open.spotify.com/artist/29zSTMejPhY0m7kwNQ9SPI) | [Raining In Manila](https://open.spotify.com/album/3F0QPdZE5LgQuJgSpiWsvy) | 4:51 | 2023-10-18 |  |
 | [RomCom](https://open.spotify.com/track/67DEADzgSxkFWI3jVlQUL3) | [Rob Deniel](https://open.spotify.com/artist/7dFzqx2qyelGPiBKmdSEOT) | [RomCom](https://open.spotify.com/album/0LZ5mVQNqWZg5a6UmRxVIX) | 3:57 | 2023-10-18 |  |
+| [Saturn](https://open.spotify.com/track/1bjeWoagtHmUKputLVyDxQ) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Saturn](https://open.spotify.com/album/1fmBMCSSkSlvxyoy1vut2k) | 3:06 | 2024-03-21 |  |
 | [Scars](https://open.spotify.com/track/5SjfjoYaRJ5jycgqwV0ow0) | [Keenan Te](https://open.spotify.com/artist/6Ge3YISmUWPCUcSVx8VGor) | [Scars](https://open.spotify.com/album/5ZFNVSacvOj5XKRkqv39tY) | 3:12 | 2023-10-18 |  |
 | [Someone New](https://open.spotify.com/track/3pLBPNR3ikdcDW5CP67gHY) | [Paolo Sandejas](https://open.spotify.com/artist/7aerdWadzubpu06Oxysg6R), [Martti Franca](https://open.spotify.com/artist/639kduoUmDR7ISY0QF6WlX) | [Someone New](https://open.spotify.com/album/1hOm07TU9l0hAuqvjKXvUt) | 4:15 | 2023-10-18 |  |
 | [Strangers](https://open.spotify.com/track/7jrI96onnEzgwPKacNJUCz) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Broken By Desire To Be Heavenly Sent \(Extended Edition\)](https://open.spotify.com/album/4mOX4ESm6Hy0UlzgWZ2t3Q) | 3:34 | 2024-01-10 |  |
 | [Sunday Morning](https://open.spotify.com/track/4C9bX6MwR0JBYDGK4JXhbB) | [Paolo Sandejas](https://open.spotify.com/artist/7aerdWadzubpu06Oxysg6R), [Ysanygo](https://open.spotify.com/artist/6fc4La0O0xzu4tZIE0tSsQ) | [Sunday Morning](https://open.spotify.com/album/5BApQ2E2DhSsntBBrb7zSG) | 3:44 | 2023-10-18 |  |
 | [Sunsets With You](https://open.spotify.com/track/43t6oyPWJ67nifk7JgDgoI) | [Cliff](https://open.spotify.com/artist/3jjbX9cm5Np3ekAypS71si), [Yden](https://open.spotify.com/artist/3TrbbmtvHwXSKbBc1tClSV) | [Sunsets With You](https://open.spotify.com/album/2fEfoRUwtHZa6OZ44Mjc6X) | 4:13 | 2023-10-18 |  |
-| [Sy](https://open.spotify.com/track/4ckqv8nO8cvqdCXe1pJKTG) | [Joshua Khaled](https://open.spotify.com/artist/6keXdTyN2lpda6B1XmVM6v) | [Sy](https://open.spotify.com/album/18KzzEHs4LZxkMOgZEpO9v) | 5:24 | 2023-10-18 |  |
+| [Sy](https://open.spotify.com/track/4ckqv8nO8cvqdCXe1pJKTG) | [Joshua Khaled](https://open.spotify.com/artist/6keXdTyN2lpda6B1XmVM6v) | [Sy](https://open.spotify.com/album/18KzzEHs4LZxkMOgZEpO9v) | 5:24 | 2023-10-18 | 2024-03-22 |
 | [Tadhana](https://open.spotify.com/track/6FIEuf1JIzmCtach0gXpeG) | [Up Dharma Down](https://open.spotify.com/artist/3wbCeEPAW6po7J46netxMT) | [Capacities](https://open.spotify.com/album/1QpFitywD6FWjFWvTmLOw9) | 3:42 | 2023-10-18 |  |
 | [Take A Chance With Me](https://open.spotify.com/track/0x7PmByJWVXdeipevd6KZS) | [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [Nicole](https://open.spotify.com/album/7gK4I6eM9fYJCfq4IeHx1t) | 5:03 | 2023-11-10 |  |
 | [That's What Love Is](https://open.spotify.com/track/2pTVEE8VjkonEWSC7EGpaq) | [Alexandra Kay](https://open.spotify.com/artist/67ZcPnEGiAlCx2O3sQarWV) | [That's What Love Is](https://open.spotify.com/album/0CRpIO9AkOFt7deIGmsDgN) | 4:04 | 2024-01-23 |  |
 | [The Man Who Can't Be Moved](https://open.spotify.com/track/3nqqDo8CcCLke3ZoTgiOKf) | [The Script](https://open.spotify.com/artist/3AQRLZ9PuTAozP28Skbq8V) | [The Script](https://open.spotify.com/album/1r5J0N6Ep181K0i8YuTYgO) | 4:01 | 2023-10-18 |  |
+| [Things You Said \(feat\. Abby Cates\)](https://open.spotify.com/track/2k8ZdI4C1ox7duEFJN7BgD) | [Cody Fry](https://open.spotify.com/artist/7dOCnyDR2oEa1hQlvTXvdT), [Abby Cates](https://open.spotify.com/artist/2LwlPBOoq9EqTOmKi4lJ2n) | [The End](https://open.spotify.com/album/1gGuLJfZnXUoAs5nk7UXV6) | 3:54 | 2024-03-21 |  |
 | [this time](https://open.spotify.com/track/3RflzntjekyDoIlm11kNIN) | [Jeremy Zucker](https://open.spotify.com/artist/3gIRvgZssIb9aiirIg0nI3) | [this time](https://open.spotify.com/album/7JXBW10JRr5UtC7CjPZR5t) | 2:56 | 2023-10-18 |  |
 | [Those Eyes \(feat\. Zeph\)](https://open.spotify.com/track/6Cg8d5DzpKHGci9SPk8JeL) | [New West](https://open.spotify.com/artist/69bG9tC62d8oTFC9aTTosn), [Zeph](https://open.spotify.com/artist/502gYHkFCtLzBIcU4ctPLd) | [Those Eyes](https://open.spotify.com/album/5MBMrSqIg8czxWwqem7tMN) | 4:04 | 2024-01-10 |  |
 | [Totoo](https://open.spotify.com/track/2xLdN3oHi4CG89H9g1DJXN) | [Kenaniah](https://open.spotify.com/artist/2owtRYReKCG1n2AAS5AcpS) | [Kenaniah](https://open.spotify.com/album/50ZqQAS4Cp2ATe9w1MUHB7) | 4:40 | 2023-10-18 | 2024-01-24 |

@@ -1,12 +1,12 @@
 {
   "description": "Entre os versos e beats, a palavra do Senhor. Foto: Nesk Only",
-  "num_followers": 165979,
+  "num_followers": 166073,
   "original_name": "Gospel Flow",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlMjFlODZhMjAzMTZiZmMzNTdiODM1YTg5NjA0MjFlYmNiNTNlZmFm",
+  "snapshot_id": "MCwxNmNkNDU3NzhhN2M2NjNjMmQyNzM4NDEyN2I2NTFmNDZhYjAxZDMx",
   "tracks": [
     {
       "added_at": "2024-03-08 03:01:00",
@@ -231,26 +231,6 @@
     {
       "added_at": "2024-03-08 03:01:00",
       "album": {
-        "name": "Servo do Senhor",
-        "url": "https://open.spotify.com/album/5TmgIGi5LKWx8xJzBBtga8"
-      },
-      "artists": [
-        {
-          "name": "Educky",
-          "url": "https://open.spotify.com/artist/6M6Z0nqgNjESVSgs07odZy"
-        },
-        {
-          "name": "Todah Urban",
-          "url": "https://open.spotify.com/artist/7kFkmcV4pLFF10rnaLoLWu"
-        }
-      ],
-      "duration_ms": 159656,
-      "name": "Servo do Senhor",
-      "url": "https://open.spotify.com/track/3udsCR5xMRiw69hU4bj4qu"
-    },
-    {
-      "added_at": "2024-03-08 03:01:00",
-      "album": {
         "name": "Joquebede",
         "url": "https://open.spotify.com/album/3hZ3No3WTAU6auEonjkGNb"
       },
@@ -267,6 +247,26 @@
       "duration_ms": 169306,
       "name": "Joquebede",
       "url": "https://open.spotify.com/track/7tSI0qlhyFJ4Ji9ksuMdth"
+    },
+    {
+      "added_at": "2024-03-08 03:01:00",
+      "album": {
+        "name": "Servo do Senhor",
+        "url": "https://open.spotify.com/album/5TmgIGi5LKWx8xJzBBtga8"
+      },
+      "artists": [
+        {
+          "name": "Educky",
+          "url": "https://open.spotify.com/artist/6M6Z0nqgNjESVSgs07odZy"
+        },
+        {
+          "name": "Todah Urban",
+          "url": "https://open.spotify.com/artist/7kFkmcV4pLFF10rnaLoLWu"
+        }
+      ],
+      "duration_ms": 159656,
+      "name": "Servo do Senhor",
+      "url": "https://open.spotify.com/track/3udsCR5xMRiw69hU4bj4qu"
     },
     {
       "added_at": "2024-03-08 03:01:00",
@@ -803,38 +803,6 @@
     {
       "added_at": "2024-03-08 03:01:00",
       "album": {
-        "name": "Vale da Sombra",
-        "url": "https://open.spotify.com/album/7B4NtDX14mrfDXvWVJ3TXF"
-      },
-      "artists": [
-        {
-          "name": "shiso",
-          "url": "https://open.spotify.com/artist/29owXbKlpmPAsVBAAEs3M8"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "Vale da Sombra",
-      "url": "https://open.spotify.com/track/53fJ4qNUOSLqhNedzp2lxJ"
-    },
-    {
-      "added_at": "2024-03-08 03:01:00",
-      "album": {
-        "name": "Jesus Invadiu a Cena",
-        "url": "https://open.spotify.com/album/6ZYHnkp7z1agh309H04SYA"
-      },
-      "artists": [
-        {
-          "name": "VICTIN",
-          "url": "https://open.spotify.com/artist/3brCnZDTt5fHf0BBXvPa6p"
-        }
-      ],
-      "duration_ms": 206829,
-      "name": "Aff",
-      "url": "https://open.spotify.com/track/3F25r7aIj83DaGs7kVDnP6"
-    },
-    {
-      "added_at": "2024-03-08 03:01:00",
-      "album": {
         "name": "Tu \u00c9s a Cura",
         "url": "https://open.spotify.com/album/3I6pKLLwdJrS46ifBwA4JI"
       },
@@ -855,6 +823,38 @@
       "duration_ms": 165169,
       "name": "Tu \u00c9s a Cura",
       "url": "https://open.spotify.com/track/5pW4iIRQXtRgHY3u8IsA8o"
+    },
+    {
+      "added_at": "2024-03-08 03:01:00",
+      "album": {
+        "name": "Jesus Invadiu a Cena",
+        "url": "https://open.spotify.com/album/6ZYHnkp7z1agh309H04SYA"
+      },
+      "artists": [
+        {
+          "name": "VICTIN",
+          "url": "https://open.spotify.com/artist/3brCnZDTt5fHf0BBXvPa6p"
+        }
+      ],
+      "duration_ms": 206829,
+      "name": "Aff",
+      "url": "https://open.spotify.com/track/3F25r7aIj83DaGs7kVDnP6"
+    },
+    {
+      "added_at": "2024-03-08 03:01:00",
+      "album": {
+        "name": "Vale da Sombra",
+        "url": "https://open.spotify.com/album/7B4NtDX14mrfDXvWVJ3TXF"
+      },
+      "artists": [
+        {
+          "name": "shiso",
+          "url": "https://open.spotify.com/artist/29owXbKlpmPAsVBAAEs3M8"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "Vale da Sombra",
+      "url": "https://open.spotify.com/track/53fJ4qNUOSLqhNedzp2lxJ"
     },
     {
       "added_at": "2024-03-08 03:01:00",
@@ -995,22 +995,6 @@
     {
       "added_at": "2024-03-08 03:01:00",
       "album": {
-        "name": "Sonhei um Dia",
-        "url": "https://open.spotify.com/album/7J9uOnQv6HNAbDd3P5mkYv"
-      },
-      "artists": [
-        {
-          "name": "Israel Rapper",
-          "url": "https://open.spotify.com/artist/7xk2gw7Xbo4GRywCx1hflX"
-        }
-      ],
-      "duration_ms": 181134,
-      "name": "Sonhei um Dia",
-      "url": "https://open.spotify.com/track/0wNVe3LOwU2yrFOQleHQAf"
-    },
-    {
-      "added_at": "2024-03-08 03:01:00",
-      "album": {
         "name": "Yeshua",
         "url": "https://open.spotify.com/album/6sKV6wS0KCrhSlBBK7epDz"
       },
@@ -1027,6 +1011,42 @@
       "duration_ms": 171340,
       "name": "Yeshua",
       "url": "https://open.spotify.com/track/2MNx8isTSanZlqMMbto0SX"
+    },
+    {
+      "added_at": "2024-03-08 03:01:00",
+      "album": {
+        "name": "Sonhei um Dia",
+        "url": "https://open.spotify.com/album/7J9uOnQv6HNAbDd3P5mkYv"
+      },
+      "artists": [
+        {
+          "name": "Israel Rapper",
+          "url": "https://open.spotify.com/artist/7xk2gw7Xbo4GRywCx1hflX"
+        }
+      ],
+      "duration_ms": 181134,
+      "name": "Sonhei um Dia",
+      "url": "https://open.spotify.com/track/0wNVe3LOwU2yrFOQleHQAf"
+    },
+    {
+      "added_at": "2024-03-08 03:01:00",
+      "album": {
+        "name": "Deus \u00e9 Mais, Pt.3",
+        "url": "https://open.spotify.com/album/1pca75YkvptXD635WCdlqB"
+      },
+      "artists": [
+        {
+          "name": "Thiag\u00e3o",
+          "url": "https://open.spotify.com/artist/4fcCRuk90UtfkJmTkGxmgw"
+        },
+        {
+          "name": "Wesley Cruz",
+          "url": "https://open.spotify.com/artist/77A1ucBEoXxohcGB3fOSeN"
+        }
+      ],
+      "duration_ms": 250000,
+      "name": "Deus \u00e9 Mais, Pt.3",
+      "url": "https://open.spotify.com/track/06f1IqY7uJ7bGT8OOEfaIC"
     },
     {
       "added_at": "2024-03-08 03:01:00",
@@ -1051,26 +1071,6 @@
       "duration_ms": 173222,
       "name": "Paulo & Silas",
       "url": "https://open.spotify.com/track/4so9ijYlh3tSUYlotbdUPg"
-    },
-    {
-      "added_at": "2024-03-08 03:01:00",
-      "album": {
-        "name": "Deus \u00e9 Mais, Pt.3",
-        "url": "https://open.spotify.com/album/1pca75YkvptXD635WCdlqB"
-      },
-      "artists": [
-        {
-          "name": "Thiag\u00e3o",
-          "url": "https://open.spotify.com/artist/4fcCRuk90UtfkJmTkGxmgw"
-        },
-        {
-          "name": "Wesley Cruz",
-          "url": "https://open.spotify.com/artist/77A1ucBEoXxohcGB3fOSeN"
-        }
-      ],
-      "duration_ms": 250000,
-      "name": "Deus \u00e9 Mais, Pt.3",
-      "url": "https://open.spotify.com/track/06f1IqY7uJ7bGT8OOEfaIC"
     },
     {
       "added_at": "2024-03-08 03:01:00",
@@ -1303,22 +1303,6 @@
     {
       "added_at": "2024-03-08 03:01:00",
       "album": {
-        "name": "E F\u00e9",
-        "url": "https://open.spotify.com/album/30ds3ileHxbUp4oiuQOijT"
-      },
-      "artists": [
-        {
-          "name": "Silas Magalh\u00e3es",
-          "url": "https://open.spotify.com/artist/4XEgyepPNaJ86gsPESPAg5"
-        }
-      ],
-      "duration_ms": 153400,
-      "name": "E F\u00e9",
-      "url": "https://open.spotify.com/track/2qfI1rpgbGjNoaqcOJVfc2"
-    },
-    {
-      "added_at": "2024-03-08 03:01:00",
-      "album": {
         "name": "777 na Mente",
         "url": "https://open.spotify.com/album/03yWHI8We0NZAfknyQJ0qT"
       },
@@ -1331,6 +1315,22 @@
       "duration_ms": 165899,
       "name": "777 na Mente",
       "url": "https://open.spotify.com/track/0aSkRNhaDky7FO13Z13hGb"
+    },
+    {
+      "added_at": "2024-03-08 03:01:00",
+      "album": {
+        "name": "E F\u00e9",
+        "url": "https://open.spotify.com/album/30ds3ileHxbUp4oiuQOijT"
+      },
+      "artists": [
+        {
+          "name": "Silas Magalh\u00e3es",
+          "url": "https://open.spotify.com/artist/4XEgyepPNaJ86gsPESPAg5"
+        }
+      ],
+      "duration_ms": 153400,
+      "name": "E F\u00e9",
+      "url": "https://open.spotify.com/track/2qfI1rpgbGjNoaqcOJVfc2"
     },
     {
       "added_at": "2024-03-08 03:01:00",
@@ -1395,18 +1395,26 @@
     {
       "added_at": "2024-03-08 03:01:00",
       "album": {
-        "name": "Me Faz Bem",
-        "url": "https://open.spotify.com/album/2yccid2zOW2rcTqzjmVwj4"
+        "name": "Reden\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/2Wi4tFWKLfpLYbjs2d7BsO"
       },
       "artists": [
         {
-          "name": "MARCO AZAUSKI",
-          "url": "https://open.spotify.com/artist/4NxBwxElvLwqGnqFcUTV5k"
+          "name": "LEVII MC",
+          "url": "https://open.spotify.com/artist/0dazB8YxD1WqflS4ipqG8v"
+        },
+        {
+          "name": "Trindade Records",
+          "url": "https://open.spotify.com/artist/4QLjATAO4xBWYJBSYxzwc9"
+        },
+        {
+          "name": "Love Funk",
+          "url": "https://open.spotify.com/artist/64DTkZLH6KkkMwZEEZ5VWC"
         }
       ],
-      "duration_ms": 186293,
-      "name": "Me Faz Bem",
-      "url": "https://open.spotify.com/track/332XZaNZUvAAsDsbtKknZE"
+      "duration_ms": 137142,
+      "name": "Reden\u00e7\u00e3o",
+      "url": "https://open.spotify.com/track/32SFzowjPunI2TsSdeBddD"
     },
     {
       "added_at": "2024-03-08 03:01:00",
@@ -1435,26 +1443,18 @@
     {
       "added_at": "2024-03-08 03:01:00",
       "album": {
-        "name": "Reden\u00e7\u00e3o",
-        "url": "https://open.spotify.com/album/2Wi4tFWKLfpLYbjs2d7BsO"
+        "name": "Me Faz Bem",
+        "url": "https://open.spotify.com/album/2yccid2zOW2rcTqzjmVwj4"
       },
       "artists": [
         {
-          "name": "LEVII MC",
-          "url": "https://open.spotify.com/artist/0dazB8YxD1WqflS4ipqG8v"
-        },
-        {
-          "name": "Trindade Records",
-          "url": "https://open.spotify.com/artist/4QLjATAO4xBWYJBSYxzwc9"
-        },
-        {
-          "name": "Love Funk",
-          "url": "https://open.spotify.com/artist/64DTkZLH6KkkMwZEEZ5VWC"
+          "name": "MARCO AZAUSKI",
+          "url": "https://open.spotify.com/artist/4NxBwxElvLwqGnqFcUTV5k"
         }
       ],
-      "duration_ms": 137142,
-      "name": "Reden\u00e7\u00e3o",
-      "url": "https://open.spotify.com/track/32SFzowjPunI2TsSdeBddD"
+      "duration_ms": 186293,
+      "name": "Me Faz Bem",
+      "url": "https://open.spotify.com/track/332XZaNZUvAAsDsbtKknZE"
     },
     {
       "added_at": "2024-03-08 03:01:00",
@@ -1559,22 +1559,26 @@
     {
       "added_at": "2024-03-08 03:01:00",
       "album": {
-        "name": "Rasgou o V\u00e9u",
-        "url": "https://open.spotify.com/album/1Wh4p4J1SQMjnbMlXZQrKC"
+        "name": "Mais Perto do C\u00e9u",
+        "url": "https://open.spotify.com/album/5Web1BoC0jrAhTbB9zrgjk"
       },
       "artists": [
         {
-          "name": "MARCO AZAUSKI",
-          "url": "https://open.spotify.com/artist/4NxBwxElvLwqGnqFcUTV5k"
+          "name": "LEVII MC",
+          "url": "https://open.spotify.com/artist/0dazB8YxD1WqflS4ipqG8v"
         },
         {
-          "name": "MC Jamil",
-          "url": "https://open.spotify.com/artist/1VRrBnMKsKrRZh7JV6Xmvc"
+          "name": "Trindade Records",
+          "url": "https://open.spotify.com/artist/4QLjATAO4xBWYJBSYxzwc9"
+        },
+        {
+          "name": "Love Funk",
+          "url": "https://open.spotify.com/artist/64DTkZLH6KkkMwZEEZ5VWC"
         }
       ],
-      "duration_ms": 138750,
-      "name": "Rasgou o V\u00e9u",
-      "url": "https://open.spotify.com/track/4iqxItooSPTbhMm1otVoLu"
+      "duration_ms": 157568,
+      "name": "Mais Perto do C\u00e9u",
+      "url": "https://open.spotify.com/track/42DMceznqA2BZIpdJTdJC9"
     },
     {
       "added_at": "2024-03-08 03:01:00",
@@ -1611,26 +1615,22 @@
     {
       "added_at": "2024-03-08 03:01:00",
       "album": {
-        "name": "Mais Perto do C\u00e9u",
-        "url": "https://open.spotify.com/album/5Web1BoC0jrAhTbB9zrgjk"
+        "name": "Rasgou o V\u00e9u",
+        "url": "https://open.spotify.com/album/1Wh4p4J1SQMjnbMlXZQrKC"
       },
       "artists": [
         {
-          "name": "LEVII MC",
-          "url": "https://open.spotify.com/artist/0dazB8YxD1WqflS4ipqG8v"
+          "name": "MARCO AZAUSKI",
+          "url": "https://open.spotify.com/artist/4NxBwxElvLwqGnqFcUTV5k"
         },
         {
-          "name": "Trindade Records",
-          "url": "https://open.spotify.com/artist/4QLjATAO4xBWYJBSYxzwc9"
-        },
-        {
-          "name": "Love Funk",
-          "url": "https://open.spotify.com/artist/64DTkZLH6KkkMwZEEZ5VWC"
+          "name": "MC Jamil",
+          "url": "https://open.spotify.com/artist/1VRrBnMKsKrRZh7JV6Xmvc"
         }
       ],
-      "duration_ms": 157568,
-      "name": "Mais Perto do C\u00e9u",
-      "url": "https://open.spotify.com/track/42DMceznqA2BZIpdJTdJC9"
+      "duration_ms": 138750,
+      "name": "Rasgou o V\u00e9u",
+      "url": "https://open.spotify.com/track/4iqxItooSPTbhMm1otVoLu"
     },
     {
       "added_at": "2024-03-08 03:01:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8PyyhnKCan.md) - [plain]
 
 > Best VOCALOID Songs in 2023! 2023年の<a href="https://open.spotify.com/playlist/37i9dQZF1DX4OQqDGyEiDU?si=eeff84f267c74f49">君が生きてなくてよかった</a>総まとめ！今年君が生きてなくてよかったで再生された楽曲別ベスト100 ! <a href="https://twitter.com/hashtag/Spotify%E3%81%BE%E3%81%A8%E3%82%81?src=hashtag\_click">\#Spotifyまとめ</a> cover: Kanaria
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,813 likes - 100 songs - 5 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,836 likes - 100 songs - 5 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8PyyhnKCan.md) - [plain]
 | 6 | [God\-ish](https://open.spotify.com/track/08Th6KDn0ESaxZis89HxRo) | [PinocchioP](https://open.spotify.com/artist/3b7jPCedJ2VH4l4rcOTvNC) | [META](https://open.spotify.com/album/4iBwkssXTjrecC7MBKVJ6a) | 3:25 |
 | 7 | [kyu\-kurarin](https://open.spotify.com/track/72wehM3q2RVZb4XLmAkyTr) | [Iyowa](https://open.spotify.com/artist/0gox2jF74UUFl8bDQYyTFr) | [kyu\-kurarin](https://open.spotify.com/album/4f5TDdboXv76t95A48thSs) | 3:37 |
 | 8 | [マーシャル・マキシマイザー](https://open.spotify.com/track/38XY1ShCSiYwDaV51sFPT9) | [柊マグネタイト](https://open.spotify.com/artist/4kmKTxjchPXGEcnpiW8iTx), [可不](https://open.spotify.com/artist/3VxmIoSoAMfL0xAAQ7jHqE) | [KAF+YOU KAFU COMPILATION ALBUM シンメトリー](https://open.spotify.com/album/6ehjRidMkDZjWH82C4MbXR) | 2:43 |
-| 9 | [DOKUZU](https://open.spotify.com/track/7G19YO3m77NNF8wlDkRmi0) | [NAKISO](https://open.spotify.com/artist/7e0etbPYy2kovCgnbT1g2Y) | [DOKUZU](https://open.spotify.com/album/4BBVbKO8I1m5rXIMd0QUb7) | 2:00 |
+| 9 | [DOKUZU](https://open.spotify.com/track/7G19YO3m77NNF8wlDkRmi0) | [NAKISO](https://open.spotify.com/artist/0DzlKiHRe0HVfOiVlv23Rj) | [DOKUZU](https://open.spotify.com/album/4BBVbKO8I1m5rXIMd0QUb7) | 2:00 |
 | 10 | [Samsa](https://open.spotify.com/track/3Su7tjUw5QbSBD5S3QFrWP) | [Teniwoha](https://open.spotify.com/artist/6agSBzJ9kJnlglVc271CLD) | [Samsa](https://open.spotify.com/album/6JvDXCgjEVlPNA34NlT3oH) | 3:32 |
 | 11 | [チーズ](https://open.spotify.com/track/3bjyPSQqaxldKhMQuJ3U5v) | [Chinozo](https://open.spotify.com/artist/205dGSmCjnFA0Mjptshdsx) | [チーズ](https://open.spotify.com/album/0JQrvuksIwuucJWdGGgOtX) | 2:40 |
 | 12 | [Thanks for being Lifeless](https://open.spotify.com/track/051mZnDf307e5y9oflIUiC) | [PinocchioP](https://open.spotify.com/artist/3b7jPCedJ2VH4l4rcOTvNC) | [ZERO\-GO](https://open.spotify.com/album/0oaOHz6VowcZp1FUAwqDiD) | 4:24 |
@@ -64,7 +64,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8PyyhnKCan.md) - [plain]
 | 54 | [Animal](https://open.spotify.com/track/6gnpIvGzNu4MtR2AqqSVhd) | [DECO\*27](https://open.spotify.com/artist/7kZTWx6cRLc0TSRPq1XBMP) | [MANNEQUIN](https://open.spotify.com/album/3qFF8RZSnHGf6q6jOcCXy5) | 2:32 |
 | 55 | [劣等上等 feat\. 鏡音リン・レン](https://open.spotify.com/track/367IrkRR4wk5WtSL41rONn) | [Giga](https://open.spotify.com/artist/73agKiU7x2AtIEH2IAK2iS), [鏡音リン・レン](https://open.spotify.com/artist/46cTNwyKdzoPIoEgLa8XS1) | [劣等上等 feat\. 鏡音リン・レン](https://open.spotify.com/album/5zeEMdy7T7nNZ5iu866WP0) | 3:55 |
 | 56 | [Amanojaku](https://open.spotify.com/track/2P8HxufC1uIUVFYGkyRkSm) | [164](https://open.spotify.com/artist/4q1k4Y6SroqGJopNP90hYQ) | [Exit Tunes Presents Gumitive From Megpoid \(Vocaloid\)](https://open.spotify.com/album/0IhgpAb7bDAIFeFk6gfh3F) | 3:08 |
-| 57 | [OMAJINAI](https://open.spotify.com/track/15BRu3pGx0AHvID3pBZV6J) | [NAKISO](https://open.spotify.com/artist/7e0etbPYy2kovCgnbT1g2Y) | [OMAJINAI](https://open.spotify.com/album/1nTMOMjRFsNKKXkvU53OJW) | 1:57 |
+| 57 | [OMAJINAI](https://open.spotify.com/track/15BRu3pGx0AHvID3pBZV6J) | [NAKISO](https://open.spotify.com/artist/0DzlKiHRe0HVfOiVlv23Rj) | [OMAJINAI](https://open.spotify.com/album/1nTMOMjRFsNKKXkvU53OJW) | 1:57 |
 | 58 | [villain](https://open.spotify.com/track/5KE5i73iG4A7h8OyqyIaZK) | [Teniwoha](https://open.spotify.com/artist/6agSBzJ9kJnlglVc271CLD) | [villain](https://open.spotify.com/album/2pqS8lGfitHmyRukdGRkZ7) | 3:20 |
 | 59 | [Requiem](https://open.spotify.com/track/2drddXvwwO2AUR7EooatUy) | [Kanaria](https://open.spotify.com/artist/1k5LyiTCRzPjORzcgHqJxF), [Hatsune Miku](https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl) | [Requiem](https://open.spotify.com/album/30eZWuPWgGXb0TYOJht0Qk) | 2:37 |
 | 60 | [ベノム](https://open.spotify.com/track/2llI6h2T2O5KZfn1OhJQAA) | [Kairikibear](https://open.spotify.com/artist/6PpaQ5s7sGyfCCL6l3yptE), [flower](https://open.spotify.com/artist/462dBSebAL2oxtCpwgMOBY) | [ベノム](https://open.spotify.com/album/4Sqv1ZQTQLa34sqLaB6o2v) | 3:23 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8PyyhnKCan.md) - [plain]
 | 99 | [風](https://open.spotify.com/track/1RxzjktxVMDKRjPR3OqbU4) | [Guiano](https://open.spotify.com/artist/1gIxoB0mBUoPr7rPyy31xf) | [花鳥風月](https://open.spotify.com/album/3McRo26jqaK4vZ36db3aso) | 2:59 |
 | 100 | [水死体は恋したい](https://open.spotify.com/track/0t9X7vdypTC2niY0GA9DBW) | [LonePi](https://open.spotify.com/artist/0FtyTvAiyb0IS8qTfGOaxb) | [水死体は恋したい](https://open.spotify.com/album/2K4FoBm3Sx9NBKOF9z0pX7) | 3:05 |
 
-Snapshot ID: `MCw1ZDA2NTI5NDBkZDhkYmM0NDJmMDM0ZWNmNjgzZDVjM2Y3MDBlNjAy`
+Snapshot ID: `MCxlNmZlMDI0ZmM5M2RmMTI4OGNmM2UxNmMxNDU1YzdlZWIxOTE5NDI4`

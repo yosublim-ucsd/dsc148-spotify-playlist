@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9yqRXedvZuv.md) - [plain]
 | 36 | [Poppin](https://open.spotify.com/track/1CrTglTTE9oIA4uYoImCYG) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [2 Alivë \(Geëk Pack\)](https://open.spotify.com/album/0345WPzPBSeISh2IpIQWxT) | 2:47 |
 | 37 | [BUZZIN' \(feat\. Lil Yachty & Murda Beatz\)](https://open.spotify.com/track/3PIRRhdrbPdwXXXQmZgjMn) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw), [Murda Beatz](https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC) | [PARTYPACK](https://open.spotify.com/album/1ZJpGFHYQSTDTIk6bzo5sh) | 3:30 |
 | 38 | [Cartoon](https://open.spotify.com/track/31Yebmn7gDvxc0yjRV8M5t) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [Mo Thugs Records Presents: West Coast Bangers, Vol\. 2](https://open.spotify.com/album/7I4OrohyqzbTrkMCoyhBEV) | 6:38 |
-| 39 | [Savage](https://open.spotify.com/track/3EkiwX3Mp9GuT9Ne4HQy4D) | [21 Lil Harold](https://open.spotify.com/artist/6X9Dt3dsZDeWzMBfekaoPB) | [LARRY](https://open.spotify.com/album/19oWyPxJTqnAQnhvzIs8CS) | 2:54 |
-| 40 | [Eye Tell \(!\)](https://open.spotify.com/track/2MAEd35YAuGXXCifA2M1Wz) | [Jim Legxacy](https://open.spotify.com/artist/7IrBqZo6diq3hV3GpUhrs2) | [Eye Tell \(!\)](https://open.spotify.com/album/1piNdNQfDq2mW2BiHC30by) | 2:10 |
+| 39 | [Eye Tell \(!\)](https://open.spotify.com/track/2MAEd35YAuGXXCifA2M1Wz) | [Jim Legxacy](https://open.spotify.com/artist/7IrBqZo6diq3hV3GpUhrs2) | [Eye Tell \(!\)](https://open.spotify.com/album/1piNdNQfDq2mW2BiHC30by) | 2:10 |
+| 40 | [Savage](https://open.spotify.com/track/3EkiwX3Mp9GuT9Ne4HQy4D) | [21 Lil Harold](https://open.spotify.com/artist/6X9Dt3dsZDeWzMBfekaoPB) | [LARRY](https://open.spotify.com/album/19oWyPxJTqnAQnhvzIs8CS) | 2:54 |
 | 41 | [Champion](https://open.spotify.com/track/7gXQeFv66TUng1LyjjHDvb) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Graduation](https://open.spotify.com/album/4WNXpeZR1jc2NFgOAeyLMB) | 2:47 |
 | 42 | [Caddy](https://open.spotify.com/track/0kTQcDTWmeSKp2EOHLK7AY) | [SSGKobe](https://open.spotify.com/artist/1NHCwCMqV9oNQJXl16IltL) | [Caddy](https://open.spotify.com/album/3Z17WkBq7D8FDqXW4NYlmy) | 1:56 |
 | 43 | [Paperwork Party \- Remix](https://open.spotify.com/track/5WOGp3E41juuRbaw4LlQZT) | [Babyface Ray](https://open.spotify.com/artist/3zZ88AwlTwfCJkowsFCvLA), [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Unfuckwitable \(Deluxe Edition\)](https://open.spotify.com/album/4TZreMdjJL5LjJmK61oxG6) | 3:22 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9yqRXedvZuv.md) - [plain]
 | 49 | [Backend](https://open.spotify.com/track/4YQSpaf4dVmwB4PAb8kDU6) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [Backend](https://open.spotify.com/album/0JoNVaga3yMJLnBJPuoI7Z) | 3:51 |
 | 50 | [Backhand](https://open.spotify.com/track/2Ud9396nsChHWRJ88De6mJ) | [HVN](https://open.spotify.com/artist/61GrWHOtJOXpqQjibezT8i) | [Welcome to Heaven](https://open.spotify.com/album/70W7Bb4eXlfcKY0s0vnZxD) | 1:46 |
 
-Snapshot ID: `MCxmZTAwNGU1NWM4NTk0NGQ5MDQ4ZDZkMzIzNTcwYWZjNjYyZjYyOTg5`
+Snapshot ID: `MCxkN2JlODE5YTViMTM2M2EyZTc0N2ExZTViNmUzZDA4YThjZjI3NzU0`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdD040nrEzxm.md) - [plain]
 
 > Our editor’s picks for best Afro songs of the year.<br/> Cover: <a href="https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh?si=W7\_\-S51jTRChnzEEFX68bQ">Davido</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 77,988 likes - 75 songs - 4 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 78,050 likes - 75 songs - 4 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,7 +81,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdD040nrEzxm.md) - [plain]
 | 71 | [Soup](https://open.spotify.com/track/7IGbYD6yGR6AA8Ba6EYfVi) | [Jaivah](https://open.spotify.com/artist/6MKLtjYnjCD7u87mPsvJo3), [Marioo](https://open.spotify.com/artist/4ZTqTkO2kj1doQrbqQ5KEe), [Chino Kidd](https://open.spotify.com/artist/2EuodBUTVs5DBUkauhlsnm), [Scotyy London](https://open.spotify.com/artist/0HJGdpdpOvQK09vn4TeWke), [KS Hub](https://open.spotify.com/artist/6CQ9PKLtS4BEf8UkqD8MbP) | [Soup](https://open.spotify.com/album/6KSvP1aJrBWfuPNJU12OJ0) | 3:59 |
 | 72 | [emiliana](https://open.spotify.com/track/6bW7YnPQQffit1iwule5Vv) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [Sad Romance](https://open.spotify.com/album/0Tm2AxwlhkZ234TRIe7IoY) | 2:46 |
 | 73 | [Patek](https://open.spotify.com/track/3Ry6M5to0EblssBg3pfJt8) | [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW), [Joey B](https://open.spotify.com/artist/7ACLUXo71FsLZaKMOPDnEJ), [DJ Tarico](https://open.spotify.com/artist/33CYyUywVRqTra6IdaQ35H) | [Patek](https://open.spotify.com/album/2LQzJSGVHLyIJX8rGUlhU0) | 3:38 |
-| 74 | [Ex Convict](https://open.spotify.com/track/5WAFaje0Cs3hHhNqjUIfY6) | [Shallipopi](https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU) | [Ex Convict](https://open.spotify.com/album/5Y0FIl4JX5S1vvm5Kc8OHh) | 3:22 |
+| 74 | [Ex Convict](https://open.spotify.com/track/5O7fTE396BVFRTkQv5ENSo) | [Shallipopi](https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU) | [Ex Convict](https://open.spotify.com/album/0j4TScmifAmAFxOYpzCVCH) | 3:22 |
 | 75 | [Yoga](https://open.spotify.com/track/03eJdvT499w8U80bTRWfAR) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [Work Of Art](https://open.spotify.com/album/2O9VJaLSnwjZ2HPpMaVoPU) | 2:16 |
 
-Snapshot ID: `MCxhNDVhMWUwMDhjNDg2MzBlM2EyOTMyMDFmNWMyZjQ3YmQ1ODM4Mzlj`
+Snapshot ID: `MCw3NDY1MjQyNDQ1OGM2OTc3NTRkNmYwZTI2ZTEwMzA4Y2M4MTBlY2Y0`

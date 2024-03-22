@@ -1,12 +1,12 @@
 {
   "description": "Grandes sucessos dos anos 80 para te acompanhar na faxina!",
-  "num_followers": 211342,
+  "num_followers": 211384,
   "original_name": "Faxina Nostalgia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjNmUxNmNjN2M5ZDM3MjlmNDkxOWNjNWQ1ZTcxNzEzZTYzNzY4ZDcz",
+  "snapshot_id": "MCwyN2ZmYzFhMDRjYWM1Y2I5ZmNkODJmYTFlMDAyZDlhNDNlYjIyNDlh",
   "tracks": [
     {
       "added_at": "2020-06-24 14:37:20",
@@ -1495,22 +1495,6 @@
     {
       "added_at": "2020-06-24 14:37:20",
       "album": {
-        "name": "The Unforgettable Fire (Remastered)",
-        "url": "https://open.spotify.com/album/3FFosIE1A9HGRrinKTcBQ3"
-      },
-      "artists": [
-        {
-          "name": "U2",
-          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
-        }
-      ],
-      "duration_ms": 228426,
-      "name": "Pride (In The Name Of Love) - Remastered 2009",
-      "url": "https://open.spotify.com/track/3dh2LlmeMqKJbzn2WUgt3d"
-    },
-    {
-      "added_at": "2020-06-24 14:37:20",
-      "album": {
         "name": "Rhythm Of The Night",
         "url": "https://open.spotify.com/album/13xiHt25Hn4WZ6OLzhK1n8"
       },
@@ -1523,6 +1507,22 @@
       "duration_ms": 229106,
       "name": "Rhythm Of The Night",
       "url": "https://open.spotify.com/track/5yGTQzYbEdY6B9RFZJypgt"
+    },
+    {
+      "added_at": "2020-06-24 14:37:20",
+      "album": {
+        "name": "The Unforgettable Fire (Remastered)",
+        "url": "https://open.spotify.com/album/3FFosIE1A9HGRrinKTcBQ3"
+      },
+      "artists": [
+        {
+          "name": "U2",
+          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
+        }
+      ],
+      "duration_ms": 228426,
+      "name": "Pride (In The Name Of Love) - Remastered 2009",
+      "url": "https://open.spotify.com/track/3dh2LlmeMqKJbzn2WUgt3d"
     },
     {
       "added_at": "2020-06-24 14:37:20",

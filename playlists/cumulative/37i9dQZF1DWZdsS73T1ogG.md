@@ -4,7 +4,7 @@
 
 > Descubre lo más nuevo del movimiento\. Cover: Bellakath
 
-1,009 songs - 2 day 5 hr 44 min
+1,010 songs - 2 day 5 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -534,7 +534,8 @@
 | [MAMIII](https://open.spotify.com/track/1ri9ZUkBJVFUdgwzCnfcYs) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3), [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [MAMIII](https://open.spotify.com/album/6GHUywBU0u92lg0Dhrt40R) | 3:46 | 2022-03-21 | 2022-07-09 |
 | [MAN$ION](https://open.spotify.com/track/6zsvDXNgIPcnfXsAceGkLH) | [LIT killah](https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq) | [SnipeZ](https://open.spotify.com/album/1O0VHFd6xTl1CfLausE0kN) | 2:40 | 2022-10-28 | 2023-01-10 |
 | [MANIFIESTO FREESTYLE](https://open.spotify.com/track/0BwaLL2rwSNwZevRG2iNYS) | [Trueno](https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz) | [BIEN O MAL](https://open.spotify.com/album/1HeNYlqvbUDkP97DJ33Kjl) | 2:42 | 2022-05-16 | 2022-06-04 |
-| [Maquillaje](https://open.spotify.com/track/4eMgCEivrlABjwo0ZiY95d) | [Renn](https://open.spotify.com/artist/25HXdVQcRMRgDKWbk5cn0G), [Yexel](https://open.spotify.com/artist/1PeS3QND0gDk8tLtyQg4NL) | [Maquillaje](https://open.spotify.com/album/0L16XNlcuTsjZutD11ixsz) | 3:31 | 2024-03-15 |  |
+| [Maquillaje](https://open.spotify.com/track/16flcJEZHzqoSRv7Ku5gjJ) | [Renn](https://open.spotify.com/artist/25HXdVQcRMRgDKWbk5cn0G), [Yexel](https://open.spotify.com/artist/1PeS3QND0gDk8tLtyQg4NL) | [Maquillaje](https://open.spotify.com/album/0CLVKodSfi7SSMDFQutIhy) | 3:31 | 2024-03-19 |  |
+| [Maquillaje](https://open.spotify.com/track/4eMgCEivrlABjwo0ZiY95d) | [Renn](https://open.spotify.com/artist/25HXdVQcRMRgDKWbk5cn0G), [Yexel](https://open.spotify.com/artist/1PeS3QND0gDk8tLtyQg4NL) | [Maquillaje](https://open.spotify.com/album/0L16XNlcuTsjZutD11ixsz) | 3:31 | 2024-03-15 | 2024-03-22 |
 | [Marbella](https://open.spotify.com/track/5mPuQwzVR3E7N43FxBBljc) | [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz), [SOG](https://open.spotify.com/artist/18dspUI6gqabm5XCC2RcUD) | [Los Piratas](https://open.spotify.com/album/4fdcBGBSQvtI1DZ0PVxqCY) | 3:02 | 2022-12-02 | 2023-02-18 |
 | [MARGIELA](https://open.spotify.com/track/0jEUr21c8Z8HeNGqGutIsV) | [Polimá Westcoast](https://open.spotify.com/artist/768O5GliF0bqscyghggrbE), [Brray](https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ), [Juanka](https://open.spotify.com/artist/3Wb38LDP3N4tkobValgE9D) | [DE CAMINO A HERMES \(Deluxe\)](https://open.spotify.com/album/4EwN5HXrC6QXxgDqLgdS1m) | 3:54 | 2024-02-16 |  |
 | [Maria \- Remix](https://open.spotify.com/track/79RznOnBinLenZ5UVBiVuk) | [Juan Duque](https://open.spotify.com/artist/49ggXUsjVHl7BwwaiPUCn6), [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz) | [Maria \(Remix\)](https://open.spotify.com/album/2fucowTAaCNo2uMALeEO83) | 3:02 | 2023-12-08 | 2024-03-09 |

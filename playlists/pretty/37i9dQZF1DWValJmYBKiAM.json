@@ -1,12 +1,12 @@
 {
   "description": "Relax to the the rhythm of these smooth Latin tunes of the 2000s.",
-  "num_followers": 157794,
+  "num_followers": 158004,
   "original_name": "Latin Chillout 00s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkODEyNGI1MWU1MzA0NWJiMWViNjE4ZDA5NWVhNzA3OWUzOWRkYThh",
+  "snapshot_id": "MCwxZTQ0NDA0YjAzYmIxYjE2Mjk4NmU0ODgzYjMzOTU1NDgxZjMwMGM5",
   "tracks": [
     {
       "added_at": "2022-12-30 17:16:00",
@@ -843,26 +843,6 @@
     {
       "added_at": "2022-12-30 17:16:00",
       "album": {
-        "name": "Aqui O Sistema \u00c9 Bruto",
-        "url": "https://open.spotify.com/album/4FTV8aipNFzqQo10minF34"
-      },
-      "artists": [
-        {
-          "name": "Chit\u00e3ozinho & Xoror\u00f3",
-          "url": "https://open.spotify.com/artist/7gfkYbxpguEc9bm6m8TpAr"
-        },
-        {
-          "name": "Z\u00e9 Ramalho",
-          "url": "https://open.spotify.com/artist/7JoWcJHDOG58JYTe6d400S"
-        }
-      ],
-      "duration_ms": 283706,
-      "name": "Sin\u00f4nimos",
-      "url": "https://open.spotify.com/track/5wn7dRsPFOd236GySyJqLx"
-    },
-    {
-      "added_at": "2022-12-30 17:16:00",
-      "album": {
         "name": "Secuencia",
         "url": "https://open.spotify.com/album/4kMpYWQfF4f4iXLhopgk3w"
       },
@@ -891,6 +871,26 @@
       "duration_ms": 202853,
       "name": "Mi Princesa",
       "url": "https://open.spotify.com/track/16kJ8NqNdHbwJe9kf1TJLe"
+    },
+    {
+      "added_at": "2022-12-30 17:16:00",
+      "album": {
+        "name": "Aqui O Sistema \u00c9 Bruto",
+        "url": "https://open.spotify.com/album/4FTV8aipNFzqQo10minF34"
+      },
+      "artists": [
+        {
+          "name": "Chit\u00e3ozinho & Xoror\u00f3",
+          "url": "https://open.spotify.com/artist/7gfkYbxpguEc9bm6m8TpAr"
+        },
+        {
+          "name": "Z\u00e9 Ramalho",
+          "url": "https://open.spotify.com/artist/7JoWcJHDOG58JYTe6d400S"
+        }
+      ],
+      "duration_ms": 283706,
+      "name": "Sin\u00f4nimos",
+      "url": "https://open.spotify.com/track/5wn7dRsPFOd236GySyJqLx"
     },
     {
       "added_at": "2022-12-30 17:16:00",
@@ -1407,18 +1407,18 @@
     {
       "added_at": "2022-12-30 17:16:00",
       "album": {
-        "name": "Vuelo",
-        "url": "https://open.spotify.com/album/08KOgBq2xXcfunaEs3Nf2P"
+        "name": "Abrazar La Vida",
+        "url": "https://open.spotify.com/album/7u8IWfPzlYcqN4N6tU4FcW"
       },
       "artists": [
         {
-          "name": "Kudai",
-          "url": "https://open.spotify.com/artist/0Wnd6L0qEnk8jiCIHrWXaC"
+          "name": "Luis Fonsi",
+          "url": "https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG"
         }
       ],
-      "duration_ms": 224000,
-      "name": "Ya Nada Queda",
-      "url": "https://open.spotify.com/track/3zN6kV9JWuQYVqXPtNvZku"
+      "duration_ms": 271600,
+      "name": "\u00bfQui\u00e9n Te Dijo Eso?",
+      "url": "https://open.spotify.com/track/159yUhKZg2ZAdt0HknTqDr"
     },
     {
       "added_at": "2022-12-30 17:16:00",
@@ -1439,18 +1439,18 @@
     {
       "added_at": "2022-12-30 17:16:00",
       "album": {
-        "name": "Abrazar La Vida",
-        "url": "https://open.spotify.com/album/7u8IWfPzlYcqN4N6tU4FcW"
+        "name": "Vuelo",
+        "url": "https://open.spotify.com/album/08KOgBq2xXcfunaEs3Nf2P"
       },
       "artists": [
         {
-          "name": "Luis Fonsi",
-          "url": "https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG"
+          "name": "Kudai",
+          "url": "https://open.spotify.com/artist/0Wnd6L0qEnk8jiCIHrWXaC"
         }
       ],
-      "duration_ms": 271600,
-      "name": "\u00bfQui\u00e9n Te Dijo Eso?",
-      "url": "https://open.spotify.com/track/159yUhKZg2ZAdt0HknTqDr"
+      "duration_ms": 224000,
+      "name": "Ya Nada Queda",
+      "url": "https://open.spotify.com/track/3zN6kV9JWuQYVqXPtNvZku"
     },
     {
       "added_at": "2022-12-30 17:16:00",

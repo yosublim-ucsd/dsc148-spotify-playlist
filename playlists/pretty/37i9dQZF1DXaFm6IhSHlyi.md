@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaFm6IhSHlyi.md) - [plain]
 
 > A collection of the world's best emotional songs\. Cover: <a href="https://open.spotify.com/artist/75opyvDai90a20RL9VSa7D?si=X4txR82FSGuMTgat6fyXQw&dl\_branch=1">Djouher</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 143,524 likes - 150 songs - 9 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 143,540 likes - 150 songs - 9 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -121,7 +121,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaFm6IhSHlyi.md) - [plain]
 | 111 | [Sikasih](https://open.spotify.com/track/7zaC2Jn1jOpB2tdGLP8nG2) | [Abam](https://open.spotify.com/artist/3P0M8eyVyFJQBOStOpSdBL) | [Sikasih](https://open.spotify.com/album/69fxXPadVVtaMhEcz7DMaq) | 3:06 |
 | 112 | [Ohebbou Yadayka](https://open.spotify.com/track/1bfSLsvZjpH65NlxGJLBwu) | [Faia Younan](https://open.spotify.com/artist/2myLHkpmmKy57Jx5CN52pi) | [Ohebbou Yadayka](https://open.spotify.com/album/1qKNEcRz2cd2bpnoYh8Bly) | 3:46 |
 | 113 | [The Book Of Love](https://open.spotify.com/track/40gxMiWbTEZUa6c2bGlBJz) | [Gavin James](https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE) | [Bitter Pill](https://open.spotify.com/album/1O1BzHEnq2sItopGcE2PS0) | 2:56 |
-| 114 | [어쩌면 이유가 필요한 밤 Night Within You](https://open.spotify.com/track/5aFiyx6DOsrvOUnsrcFb84) | [Krr](https://open.spotify.com/artist/2wCEpu2tMAildqH0BrJNT7) | [어쩌면 이유가 필요한 밤 Night Within You](https://open.spotify.com/album/42fnXlrZaKXIc9lzWI6B1V) | 4:14 |
+| 114 | [Night Within You](https://open.spotify.com/track/5aFiyx6DOsrvOUnsrcFb84) | [Krr](https://open.spotify.com/artist/2wCEpu2tMAildqH0BrJNT7) | [Night Within You](https://open.spotify.com/album/42fnXlrZaKXIc9lzWI6B1V) | 4:14 |
 | 115 | [Call It Love](https://open.spotify.com/track/3HxurUySp2zUcExO1zi6Y9) | [CHUNG HA](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y) | [Flourishing](https://open.spotify.com/album/5rHnbSUBaflJgCLlZfDnzt) | 4:01 |
 | 116 | [Benar Cinta](https://open.spotify.com/track/7nG9CHpSwPyONyB8hdlZ5k) | [Hanin Dhiya](https://open.spotify.com/artist/3Fw8q9sZ1t7diLxoQFS8hW), [Aldy Maldini](https://open.spotify.com/artist/2wCZJV7yjLqZqjoaq089vh) | [Benar Cinta](https://open.spotify.com/album/1S5z8cgI402Rf59cpT6ESv) | 3:59 |
 | 117 | [Pindirai](https://open.spotify.com/track/5v0IwdaweNHMydzOaRhjVy) | [Garry Mapanzure](https://open.spotify.com/artist/3pKyYhlWY8YZkSpN3bQbdm) | [Sushi Season \(The First\)](https://open.spotify.com/album/4x5XyMBTSWY73xYvUrmLst) | 4:03 |
@@ -151,12 +151,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaFm6IhSHlyi.md) - [plain]
 | 141 | [How Is This Love ?](https://open.spotify.com/track/2lD4UJXfytonquvY7HQdGO) | [Djouher](https://open.spotify.com/artist/75opyvDai90a20RL9VSa7D), [Dylan Longworth](https://open.spotify.com/artist/41G8BJILf7hhwCit2mViIH) | [How Is This Love ?](https://open.spotify.com/album/4aTc14CgoXenF4HPuJzA2T) | 3:15 |
 | 142 | [Farewell](https://open.spotify.com/track/5RbZGRAuSNKEafGkT5CzF7) | [Han Dong Geun](https://open.spotify.com/artist/69K447yK7IW0NCZGEh79e1) | [Obscured star](https://open.spotify.com/album/4gcScVi7ImZr4RtmyUu8DV) | 4:28 |
 | 143 | [Something](https://open.spotify.com/track/4M2leU57ZJGJsjjXpIoh17) | [Qaayel](https://open.spotify.com/artist/2T6efS085VLyjvrFPnkYDv), [Nada](https://open.spotify.com/artist/4SQSwL1HBTwXTLM7F1fj3G) | [Kyle](https://open.spotify.com/album/1vsQ04APUwAJm7OtPV9aMY) | 4:15 |
-| 144 | [Bla Bik](https://open.spotify.com/track/5AUqRIriVFNE2UJ3TWFKFs) | [Nada](https://open.spotify.com/artist/4SQSwL1HBTwXTLM7F1fj3G) | [Bla Bik](https://open.spotify.com/album/0Yu3JYLiKy327FbZPAU5C3) | 2:55 |
-| 145 | [The Everyday Bit](https://open.spotify.com/track/0FA50lbxlU1lY24uhT8nkp) | [Calby](https://open.spotify.com/artist/0G0umTp1UkZhB0Jd6N1oOa) | [Burnout](https://open.spotify.com/album/6k47ejXCq00U0GjjDlhBdJ) | 3:07 |
+| 144 | [The Everyday Bit](https://open.spotify.com/track/0FA50lbxlU1lY24uhT8nkp) | [Calby](https://open.spotify.com/artist/0G0umTp1UkZhB0Jd6N1oOa) | [Burnout](https://open.spotify.com/album/6k47ejXCq00U0GjjDlhBdJ) | 3:07 |
+| 145 | [Bla Bik](https://open.spotify.com/track/5AUqRIriVFNE2UJ3TWFKFs) | [Nada](https://open.spotify.com/artist/4SQSwL1HBTwXTLM7F1fj3G) | [Bla Bik](https://open.spotify.com/album/0Yu3JYLiKy327FbZPAU5C3) | 2:55 |
 | 146 | [Taal \(\#YOM 10\)](https://open.spotify.com/track/3xy6zmlJbmFvTkn3P87TCC) | [Lina Makoul](https://open.spotify.com/artist/5jWJzXicyDE4CwlOR3omk7) | [\#YOM](https://open.spotify.com/album/1XrRhkgWkLoajrI8NyltAE) | 2:23 |
 | 147 | [You Are](https://open.spotify.com/track/02Mn57DbulnTiXU2B1jmZn) | [Malak](https://open.spotify.com/artist/6YH2dyVtlgxfdQEkIYL6uf) | [You Are](https://open.spotify.com/album/6Rk6fBhF9OygBVeQ0lue2D) | 3:48 |
 | 148 | [Stories](https://open.spotify.com/track/5bwb4M1BhqVfjLmR3N1n6B) | [Djouher](https://open.spotify.com/artist/75opyvDai90a20RL9VSa7D), [Belfa](https://open.spotify.com/artist/6sBNAhdkb34YfSofjjZf9L) | [Stories](https://open.spotify.com/album/2bnab6jju2LE7NyFGjykqI) | 2:58 |
 | 149 | [How We Love](https://open.spotify.com/track/41GBbgJmNrCRXOmLezn0sP) | [Hana Malhas](https://open.spotify.com/artist/0EQjOxeqpT2ebzA1NvT9Cu) | [How We Love](https://open.spotify.com/album/2KGBrH9IX58DG3jubYV6xd) | 3:50 |
 | 150 | [Между нами \- Ice Lyrical Version](https://open.spotify.com/track/5wPlVVTPeRnVjwPyX79UL9) | [Nyusha](https://open.spotify.com/artist/4GieO2JjiJOxc7m53YFjza), [Artem Kacher](https://open.spotify.com/artist/2XaHngr3ql0L2nrJC8PSwY) | [Между нами \(Ice Lyrical Version\)](https://open.spotify.com/album/0ztRJunw2tGm9inc8zaO1y) | 3:43 |
 
-Snapshot ID: `MCxmZmUyZTI1MjQ4ZWNlM2M2MmY3ZmZmZWRkYTk0MDlmNzQzNWE2MTgy`
+Snapshot ID: `MCw4ZmM5MDc3OTY3YWYyOTJkNDZiOThkYmVhNmNiNDA5Nzk1ZDgzYzJi`

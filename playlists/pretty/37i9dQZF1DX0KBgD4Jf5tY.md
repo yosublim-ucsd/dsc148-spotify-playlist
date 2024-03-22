@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KBgD4Jf5tY.md) - [plain]
 
 > Il meglio della musica indipendente italiana, aggiornata il terzo mercoledì di ogni mese\. Cover: <a href="spotify:artist:1ByonnOisC5Owt0tfsyzGc">Coca Puma</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,120 likes - 50 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,128 likes - 50 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KBgD4Jf5tY.md) - [plain]
 | 47 | [occhi di gatto!](https://open.spotify.com/track/1pzTJHwYITopthcoBXtalZ) | [Amdrea\(\-.\-\)](https://open.spotify.com/artist/1mPh5zrftjcjmBE3RYvRZ6), [Jiri](https://open.spotify.com/artist/5i5K0P6QOlVp04wgku2ve7), [Polvere](https://open.spotify.com/artist/3NKj5gr7FA8TAdXgH6ZS3Z) | [occhi di gatto!](https://open.spotify.com/album/6CF5DCZ04gyYt9BU7AMSD8) | 3:07 |
 | 48 | [Acchiappasogni](https://open.spotify.com/track/7EtHLSD4ehwAMFTPEe0yxg) | [rikymp3](https://open.spotify.com/artist/2LynYweTFtq1V5J9HGsbe6), [Ceckpoint](https://open.spotify.com/artist/7bD9c1YU0jcI2dH2hpijwI) | [Acchiappasogni](https://open.spotify.com/album/2KKQiv8HRJcvuttLDfhggZ) | 2:11 |
 | 49 | [+ Gatto ␥](https://open.spotify.com/track/6EURiUwW3f08bpSSiQRFUO) | [Alberi Alti](https://open.spotify.com/artist/1I7RPyc2iQvqwHX1XDymUf) | [Mi Prometti Che Starai Bene ? ⍋](https://open.spotify.com/album/2KZnJoFc8hoPCBEfdABsA5) | 2:40 |
-| 50 | [MI MADRE E MI PADRE](https://open.spotify.com/track/25Gyz8oaZhDZwW88db8D3g) | [madze](https://open.spotify.com/artist/0fb1ryrNAVgx2wrWMUKqti) | [MI MADRE E MI PADRE](https://open.spotify.com/album/0cOROLD2s0uLv5l8Q8F0ae) | 2:33 |
+| 50 | [MI PADRE E MI MADRE](https://open.spotify.com/track/25Gyz8oaZhDZwW88db8D3g) | [madze](https://open.spotify.com/artist/0fb1ryrNAVgx2wrWMUKqti) | [MI PADRE E MI MADRE](https://open.spotify.com/album/0cOROLD2s0uLv5l8Q8F0ae) | 2:33 |
 
-Snapshot ID: `MCxkYzg1OWNiNzY2ODY0ZTZkZWRmNmYxMzNhZWM4MWM1NzM1NGMxNTEw`
+Snapshot ID: `MCxiMmMxNTcxZThhNjI2OWIzNzI3ZTI0YjY0OTRjMjQ2NjA2ZWFmMTgx`

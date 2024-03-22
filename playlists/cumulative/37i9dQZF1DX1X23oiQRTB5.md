@@ -4,7 +4,7 @@
 
 > Werenoi au top de la première playlist de rap français !
 
-239 songs - 12 hr 19 min
+240 songs - 12 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,7 +43,7 @@
 | [Bruce Wayne](https://open.spotify.com/track/57QiLC5coJ0WDt0oY7fXqz) | [Timal](https://open.spotify.com/artist/2ptKt4yP4mYRZmvi09JYyi), [Heuss L'enfoiré](https://open.spotify.com/artist/3YwqjMyrRfuixi2pbgTGCE) | [Arès](https://open.spotify.com/album/0xs4XLhKpleNSEhDCUhKoD) | 3:07 | 2022-01-06 | 2022-06-03 |
 | [Brûle](https://open.spotify.com/track/4SsSjoHtxj70UG5W88i0Dy) | [Josman](https://open.spotify.com/artist/6dbdXbyAWk2qx8Qttw0knR), [Laylow](https://open.spotify.com/artist/0LnhY2fzptb0QEs5Q5gM7S) | [M.A.N \(Black Roses & Lost Feelings\)](https://open.spotify.com/album/0xGDZjmzBZfOUzn86WFPFE) | 3:31 | 2022-03-24 | 2022-07-08 |
 | [CANADA](https://open.spotify.com/track/6sutxiq0dIw77z0rCB3Ekk) | [1PLIKÉ140](https://open.spotify.com/artist/4Ue6MAZqz18NlaOQomRXLU) | [ARRÊTEZ\-LE ! \(Vol.2\)](https://open.spotify.com/album/12LrwCesY8GRyGtm1cszvy) | 2:59 | 2022-01-20 | 2022-10-14 |
-| [Capitaine](https://open.spotify.com/track/4Kd21ylDbBQftU0rljK28X) | [Djadja & Dinaz](https://open.spotify.com/artist/5hREZP0zTQbTLkZ2M8RS4v) | [ALPHA](https://open.spotify.com/album/1NTYNLaNEoAiZwT3mcNuP5) | 2:35 | 2024-02-01 |  |
+| [Capitaine](https://open.spotify.com/track/4Kd21ylDbBQftU0rljK28X) | [Djadja & Dinaz](https://open.spotify.com/artist/5hREZP0zTQbTLkZ2M8RS4v) | [ALPHA](https://open.spotify.com/album/1NTYNLaNEoAiZwT3mcNuP5) | 2:35 | 2024-02-01 | 2024-03-22 |
 | [Capitaine](https://open.spotify.com/track/4XqIETfiZBZ9lrx4Nn44Et) | [Djadja & Dinaz](https://open.spotify.com/artist/5hREZP0zTQbTLkZ2M8RS4v) | [ALPHA \(Parties 1&2\)](https://open.spotify.com/album/2P0rDh5cLuiMGBYNSxpX5u) | 2:35 | 2024-01-11 | 2024-02-02 |
 | [Capitaine](https://open.spotify.com/track/4f0ytSBF6dlKOIFQsfeemV) | [Djadja & Dinaz](https://open.spotify.com/artist/5hREZP0zTQbTLkZ2M8RS4v) | [ALPHA \(Parties 1 & 2\)](https://open.spotify.com/album/4z4PI0sYh7ynSU765oeHpS) | 2:35 | 2023-04-13 | 2024-01-14 |
 | [Cardio](https://open.spotify.com/track/4sexM5K1L4lSviqpadSUGi) | [Mig](https://open.spotify.com/artist/3mKyKC4BjNrNJSSBSrNy0a), [Niska](https://open.spotify.com/artist/7CUFPNi1TU8RowpnFRSsZV) | [Cardio](https://open.spotify.com/album/2J98KFdCrWGuY3FP9mAenE) | 3:13 | 2023-06-08 | 2023-11-10 |
@@ -241,6 +241,7 @@
 | [Urus](https://open.spotify.com/track/2A44J8NMBI9DKi0AZW2W84) | [Favé](https://open.spotify.com/artist/20JMfmzDb5cjHxEoMXXMyY) | [Urus](https://open.spotify.com/album/00G85akdHnBoZJ3hSdjapJ) | 2:28 | 2022-11-03 | 2023-09-15 |
 | [Vengeance !](https://open.spotify.com/track/6R7Efh28yqv5a21h3G7Qbg) | [menace Santana](https://open.spotify.com/artist/5Y5EJ20jDQkkB213zwuDXR) | [!](https://open.spotify.com/album/3n0nvH5owR2tGHLWL4s4Au) | 1:55 | 2022-01-13 | 2022-04-29 |
 | [VVS](https://open.spotify.com/track/5S12Ds2RswM2ITC0u1J01f) | [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH) | [Jefe](https://open.spotify.com/album/0RBanMMBVaRdM7SOwgAmaK) | 3:07 | 2022-01-06 | 2023-01-13 |
+| [X](https://open.spotify.com/track/5URQsgEa4ciF01AYbIhWvO) | [Tiakola](https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh) | [X](https://open.spotify.com/album/2DWSieXN6ldWJczKBB3BCS) | 2:00 | 2024-03-21 |  |
 | [Zaza](https://open.spotify.com/track/3UCZaDvdrtT0qeVYpwUXum) | [Leto](https://open.spotify.com/artist/6HCBnyTBSLdb3TFn2ayulY) | [Zaza](https://open.spotify.com/album/4qtwEHbTm4hUnsa7F8EbLZ) | 2:28 | 2023-05-18 | 2023-10-13 |
 | [À L'AUBE](https://open.spotify.com/track/1aOy9aPUFFE73cPPUJ2kNW) | [Hös Copperfield](https://open.spotify.com/artist/4fn6Kez1kGOO74vNuKrvCU), [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH) | [À L'AUBE](https://open.spotify.com/album/3dRIUWKwJ9lTV59OXqtUN8) | 3:10 | 2023-03-09 | 2023-06-16 |
 | [Ça canarde](https://open.spotify.com/track/7r9KkTYiFYMuNcGR4aySxh) | [Bolémvn](https://open.spotify.com/artist/0gGcw3tA1fZoF23qa8KFb7), [Guy2bezbar](https://open.spotify.com/artist/07h4CCFmlXkwx0g4PL5Uuh) | [Anarchiste](https://open.spotify.com/album/0fx7GAAhnZT3gFe7mskNBg) | 3:18 | 2022-01-06 | 2022-01-28 |

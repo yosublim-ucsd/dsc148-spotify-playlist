@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6AWGsjpYHPA.md) - [plain]
 
 > Hand\-curated cuts from the vault, no record player required.
 
-[Spotify](https://open.spotify.com/user/spotify) - 142,732 likes - 75 songs - 5 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 142,814 likes - 75 songs - 5 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,8 +23,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6AWGsjpYHPA.md) - [plain]
 | 13 | [Let Me Go](https://open.spotify.com/track/5fzUKYfATEqxDmRWfbikAm) | [SAULT](https://open.spotify.com/artist/1uRxRKC7d9zwYGSRflTKDR) | [5](https://open.spotify.com/album/57EkTny9UjqpLhFzMO4Hdb) | 3:13 |
 | 14 | [Come On Home](https://open.spotify.com/track/2NIIJ5WfrK4ANNPHcOhSeb) | [The Lijadu Sisters](https://open.spotify.com/artist/1iElGdidl4zFXOpaaem4wZ) | [Horizon Unlimited](https://open.spotify.com/album/60EBuN8o4sCc8zqS4sO8bC) | 5:18 |
 | 15 | [Another Dose \(feat\. Mick Jenkins\)](https://open.spotify.com/track/3vTkplYptoBlHph3eNeJA1) | [Gamblers](https://open.spotify.com/artist/0mkPR7AJ7qhuFaS9Eh2Lmm), [Mick Jenkins](https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx) | [Another Dose \(feat\. Mick Jenkins\)](https://open.spotify.com/album/2kbQLcZgLzs93zjxnuy8hu) | 2:18 |
-| 16 | [Could Heaven Ever Be Like This](https://open.spotify.com/track/1xkOg49ZxldiM1ioIudwUS) | [Idris Muhammad](https://open.spotify.com/artist/6ghiUK2ao3KcmmDt2pbNzN) | [Turn This Mutha Out](https://open.spotify.com/album/4PznnWq19AwatCG4lsyb5I) | 8:36 |
-| 17 | [soulboy \- IZCO Remix](https://open.spotify.com/track/3G1YAm52YxIp0jlxalE0hK) | [p\-rallel](https://open.spotify.com/artist/0YSI1Vwzd1u7wO7p3md4qD), [Greentea Peng](https://open.spotify.com/artist/5z9wLR0RGBcWMXr4fCZW0K), [IZCO](https://open.spotify.com/artist/4uqqEE1NaQBAa4wnDug9c1) | [soulboy \(IZCO Remix\)](https://open.spotify.com/album/63sYFrw1yLHU0k3IkCPUdX) | 3:49 |
+| 16 | [soulboy \- IZCO Remix](https://open.spotify.com/track/3G1YAm52YxIp0jlxalE0hK) | [p\-rallel](https://open.spotify.com/artist/0YSI1Vwzd1u7wO7p3md4qD), [Greentea Peng](https://open.spotify.com/artist/5z9wLR0RGBcWMXr4fCZW0K), [IZCO](https://open.spotify.com/artist/4uqqEE1NaQBAa4wnDug9c1) | [soulboy \(IZCO Remix\)](https://open.spotify.com/album/63sYFrw1yLHU0k3IkCPUdX) | 3:49 |
+| 17 | [Could Heaven Ever Be Like This](https://open.spotify.com/track/1xkOg49ZxldiM1ioIudwUS) | [Idris Muhammad](https://open.spotify.com/artist/6ghiUK2ao3KcmmDt2pbNzN) | [Turn This Mutha Out](https://open.spotify.com/album/4PznnWq19AwatCG4lsyb5I) | 8:36 |
 | 18 | [Marechià](https://open.spotify.com/track/1gE7p3b4J8p4ivOCR2CO0Y) | [Nu Genea](https://open.spotify.com/artist/77J3V0V7sEOf5ifCDBSNaJ), [Célia Kameni](https://open.spotify.com/artist/7dSwsPGp84lyzlAvuqQhLt) | [Marechià](https://open.spotify.com/album/2VWCyefmIWJn1trgychc0W) | 4:24 |
 | 19 | [Water No Get Enemy](https://open.spotify.com/track/2oWex6rYoQ7Bl2D9zG8d3F) | [Fela Kuti](https://open.spotify.com/artist/5CG9X521RDFWCuAhlo6QoR) | [The Best of the Black President](https://open.spotify.com/album/7I42wZ3TW926k1DXrotD1M) | 9:51 |
 | 20 | [Merry Go Round](https://open.spotify.com/track/4X4NrHp5VpibgirzuImxXd) | [The Equatics](https://open.spotify.com/artist/2StGd2posp9AImgabK7u8P) | [Doin It!!!!](https://open.spotify.com/album/4SN55bwEnC0T1qmBTWZeyW) | 2:43 |
@@ -72,8 +72,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6AWGsjpYHPA.md) - [plain]
 | 62 | [Maiysha \(So Long\) \(feat\. Erykah Badu\)](https://open.spotify.com/track/1q2Jzd23O49Crk91Rijl7Y) | [Miles Davis](https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4), [Robert Glasper](https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn), [Erykah Badu](https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX) | [Everything's Beautiful](https://open.spotify.com/album/0DI27qIRQRFkXrMvHxj9yh) | 7:29 |
 | 63 | [I Am in Love](https://open.spotify.com/track/2c00tSu4BVT2XueXbkCcsK) | [Jennifer Lara](https://open.spotify.com/artist/5GgX23TgqGxu7hCm6qVDo4) | [Studio One Presents Jennifer Lara](https://open.spotify.com/album/3QE9DNEj6FFXEHfmhrdnon) | 5:18 |
 | 64 | [Harm](https://open.spotify.com/track/3k29pw2omntASGkzIqYMnC) | [Beacon](https://open.spotify.com/artist/3sb3yLRnhW2L2ulU93eKfl) | [Along the Lethe](https://open.spotify.com/album/3cwJeTW8Fcv5zvJ180UBaP) | 4:26 |
-| 65 | [Fazon](https://open.spotify.com/track/6l5Rzt6HhkL89NhWLOGom0) | [Sopwith Camel](https://open.spotify.com/artist/79yziupbWWcD49xCvek9Uf) | [The Miraculous Hump Returns From The Moon](https://open.spotify.com/album/4EUJpUUKkFMIzq10y3CbvZ) | 5:14 |
-| 66 | [Deceptacon \(DFA Rmx\) By Tim Goldsworthy & James Murphy for the Dfa](https://open.spotify.com/track/305CEVdhAViS0CW2NCLvdR) | [Le Tigre](https://open.spotify.com/artist/2n6FviARgtjjimZXu18uRM) | [Remix](https://open.spotify.com/album/1yCWdLfE2KQAmcdS1YJQl6) | 6:24 |
+| 65 | [Deceptacon \(DFA Rmx\) By Tim Goldsworthy & James Murphy for the Dfa](https://open.spotify.com/track/305CEVdhAViS0CW2NCLvdR) | [Le Tigre](https://open.spotify.com/artist/2n6FviARgtjjimZXu18uRM) | [Remix](https://open.spotify.com/album/1yCWdLfE2KQAmcdS1YJQl6) | 6:24 |
+| 66 | [Fazon](https://open.spotify.com/track/6l5Rzt6HhkL89NhWLOGom0) | [Sopwith Camel](https://open.spotify.com/artist/79yziupbWWcD49xCvek9Uf) | [The Miraculous Hump Returns From The Moon](https://open.spotify.com/album/4EUJpUUKkFMIzq10y3CbvZ) | 5:14 |
 | 67 | [Asa Branca](https://open.spotify.com/track/6p5QJBr5iE2xvHatGebTbR) | [Rosinha De Valença](https://open.spotify.com/artist/3PaJldxyhusOBLFXRkI36B) | [Um Violão em Primeiro Plano](https://open.spotify.com/album/2gRu1FqkaEtzVrJprvpwSM) | 4:12 |
 | 68 | [Sunshower](https://open.spotify.com/track/5SWfqINCAFg3N4x9bcegYf) | [Dr\. Buzzard's Original Savannah Band](https://open.spotify.com/artist/0i64fKwsnTQsPqbov8mZUh) | [Dr\. Buzzard's Original Savannah Band](https://open.spotify.com/album/7EZlo6A3wcmAAjKozsQhiq) | 4:05 |
 | 69 | [Own Me](https://open.spotify.com/track/6GbOyB2RTcyFFp2EryEaPp) | [Nightmares On Wax](https://open.spotify.com/artist/4tNxq9NGKTKaX8OkZBLgf0), [Haile Supreme](https://open.spotify.com/artist/4pZU0qHXvstRiBnhhRpY2R) | [Shout Out! To Freedom...](https://open.spotify.com/album/7aqqi7wkPw0zWqCqA5VQio) | 3:37 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6AWGsjpYHPA.md) - [plain]
 | 74 | [The Sweetest Pain](https://open.spotify.com/track/0Qlbpljv5ZRlxRaYYnsvih) | [Dexter Wansel](https://open.spotify.com/artist/7azp9wRyXcxIq5vZnJgYvt) | [Time Is Slipping Away](https://open.spotify.com/album/636NtK3yPJ395a6nyXJ1ft) | 5:45 |
 | 75 | [Crawshay](https://open.spotify.com/track/2O0D6AbuaGHag0QrPGAJhV) | [Cymande](https://open.spotify.com/artist/4hfcSstwnyuBoek1dQwLkG) | [Second Time Round](https://open.spotify.com/album/3OE1HvJztiyEn6p3dTmStC) | 4:20 |
 
-Snapshot ID: `MCxlMDk5MjI2MDFiODZiOTU2MWUwZjRlMzI0OTRmYWVjYTVjOGJkZTcz`
+Snapshot ID: `MCxiZDkwMTEyNmU1NDEyYTM0ZmUyOGZmZTYzZjRlNzBjMWQyOTFlNWMy`

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-03-26",
-  "description": "Hits terpanas dari Djo, Henry Moodie, Lyodra serta artis terfavorit Anda dari dalam negeri dan mancanegara.",
+  "description": "Hits terpanas dari Ariana Grande, MALIQ & D'Essentials serta artis terfavorit Anda dari dalam negeri dan mancanegara.",
   "name": "Hot Hits Indonesia",
   "tracks": [
     {
@@ -1115,6 +1115,24 @@
     },
     {
       "album": {
+        "name": "eternal sunshine",
+        "url": "https://open.spotify.com/album/5EYKrEDnKhhcNxGedaRQeK"
+      },
+      "artists": [
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "date_added": "2024-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 92400,
+      "name": "intro (end of the world)",
+      "url": "https://open.spotify.com/track/2o1pb13quMReXZqE7jWsgq"
+    },
+    {
+      "album": {
         "name": "The Twilight Saga: Breaking Dawn - Part 1 (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/1iGIqDBXm5HpTqHCvdc4QP"
       },
@@ -1530,7 +1548,7 @@
       ],
       "date_added": "2024-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-22",
       "duration_ms": 271080,
       "name": "Love wins all",
       "url": "https://open.spotify.com/track/0djkJ3iAARXRCbfbwwVc3o"
@@ -2414,7 +2432,7 @@
       ],
       "date_added": "2024-02-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-22",
       "duration_ms": 215720,
       "name": "Shopper",
       "url": "https://open.spotify.com/track/1c6kkrWnpy68eYDfBdxNtF"

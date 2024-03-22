@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4YhSbTs17ha.md) - [plain]
 
 > Las canciones de pop más exitosas en México\. Yuridia en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,696,551 likes - 80 songs - 4 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,697,083 likes - 80 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4YhSbTs17ha.md) - [plain]
 | 79 | [BESO](https://open.spotify.com/track/609E1JCInJncactoMmkDon) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [RR](https://open.spotify.com/album/50uChhk7AKkzDKytDixjYW) | 3:14 |
 | 80 | [Una Noche Sin Pensar](https://open.spotify.com/track/2oW52tBeJNSv93Ct5AJb8q) | [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW) | [Una Noche Sin Pensar](https://open.spotify.com/album/72RohnwnQyT7YbrIzDNROD) | 2:41 |
 
-Snapshot ID: `MCw2OWI1ZDI5YWUwMDQwZGIyOTdmZjRlODNkZTgyNzg2YmMxMjNkZTBm`
+Snapshot ID: `MCxjODAyMjAzMDU3YzFiNDBlNDM1ZjgyNjI0YjEwYTVmYTAwZmFlMWIx`

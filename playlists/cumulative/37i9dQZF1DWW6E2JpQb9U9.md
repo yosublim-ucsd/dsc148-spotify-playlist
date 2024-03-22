@@ -4,7 +4,7 @@
 
 > Rock en vivo de la A a la Z, de ayer, de hoy y de siempre..\. ¡Canten ustedes! Foto: Eruca Sativa & Marilina Bertoldi
 
-321 songs - 1 day 0 hr 11 min
+322 songs - 1 day 0 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,7 +70,7 @@
 | [Chau](https://open.spotify.com/track/3uP1USIwwDpOA8uw0LjY2P) | [No Te Va Gustar](https://open.spotify.com/artist/4ZDoy7AWNgQVmX7T0u0B1j), [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [Otras Canciones](https://open.spotify.com/album/72SqrtijWJKq6ukitktd1D) | 5:19 | 2022-04-01 | 2023-10-07 |
 | [Chino](https://open.spotify.com/track/2itM9PP3LGo6DgyJpBY4JX) | [Mancha De Rolando](https://open.spotify.com/artist/4DuhYdfd2jHMdaqYVYZp04) | [La Mancha 360](https://open.spotify.com/album/4lmRIta1CJWESEv4EA9laV) | 3:56 | 2022-04-01 | 2022-07-26 |
 | [Chivo Expiatorio \- En Vivo](https://open.spotify.com/track/08THvDquCuP6yqDo5g5JLe) | [El Cuarteto De Nos](https://open.spotify.com/artist/13JJKrUewC1CJYmIDXQNoH) | [Chivo Expiatorio \(En Vivo\)](https://open.spotify.com/album/5XNijTvm4ucpICcNvOH5Aj) | 4:58 | 2024-01-19 |  |
-| [Cinco Siglos Igual \(En Vivo Teatro Coliseo\)](https://open.spotify.com/track/7BvZe1dKoDjB7cWaenTgkX) | [Eruca Sativa](https://open.spotify.com/artist/2RPNbhguRnI9uqahGYcUc6), [León Gieco](https://open.spotify.com/artist/5yoimVE1rbc3kAx4uwr7eq) | [Cinco Siglos Igual \(En Vivo Teatro Coliseo\)](https://open.spotify.com/album/66xb8pQPGVe9j2f2LeAH5x) | 4:28 | 2023-10-26 |  |
+| [Cinco Siglos Igual \(En Vivo Teatro Coliseo\)](https://open.spotify.com/track/7BvZe1dKoDjB7cWaenTgkX) | [Eruca Sativa](https://open.spotify.com/artist/2RPNbhguRnI9uqahGYcUc6), [León Gieco](https://open.spotify.com/artist/5yoimVE1rbc3kAx4uwr7eq) | [Cinco Siglos Igual \(En Vivo Teatro Coliseo\)](https://open.spotify.com/album/66xb8pQPGVe9j2f2LeAH5x) | 4:28 | 2023-10-26 | 2024-03-22 |
 | [Colgado de la luna \- En vivo El Sol 2, abril 1998](https://open.spotify.com/track/4gPtmKoWB6X7vXxLn3Dhcf) | [Ariel Rot](https://open.spotify.com/artist/5kXK8waG1JeBQ8b5leWNSu) | [Colgado de la luna \(En vivo El Sol 2, abril 1998\)](https://open.spotify.com/album/0w8Lpf5B1qVbRid4BFMCWo) | 4:15 | 2023-03-17 | 2023-09-22 |
 | [Consejos del Abuelo \(Luz y Fuerza\) \- En Vivo](https://open.spotify.com/track/7hmiuQdJh2dIlAQnJerKg4) | [Jauría](https://open.spotify.com/artist/1Abg5u0GFm9k3jst9mw4gH) | [Consejos del Abuelo \(Luz y Fuerza\) \[En Vivo\]](https://open.spotify.com/album/6HBp9FPhhLJ0pNWyHsjNTk) | 3:26 | 2022-04-01 | 2022-07-25 |
 | [Correte \- En Vivo](https://open.spotify.com/track/672VMQMw4RrCHNzQQ0KtFn) | [Marilina Bertoldi](https://open.spotify.com/artist/1nm9PdmvzPXJmIlMOk5XLy) | [Sesión Saldias \(En Vivo\)](https://open.spotify.com/album/206rMmryQBWqNoIMNsOS8q) | 2:46 | 2022-06-10 | 2022-07-29 |
@@ -93,6 +93,7 @@
 | [Desde Lejos No Se Ve \- En Vivo](https://open.spotify.com/track/0dQnYqZuIFrj3Sn38Fjg7Q) | [Los Piojos](https://open.spotify.com/artist/0SnyKkoyBaB2fG8IJH4xmU) | [Desde Lejos No Se Ve](https://open.spotify.com/album/0pklZTMjcGqRk3d6W3puxz) | 3:56 | 2023-12-22 |  |
 | [Desde Lejos No Se Ve \- En Vivo](https://open.spotify.com/track/74hHbrJCc81drMDOvrXm4H) | [Los Piojos](https://open.spotify.com/artist/0SnyKkoyBaB2fG8IJH4xmU) | [Desde Lejos No Se Ve \(En Vivo\)](https://open.spotify.com/album/2CwlD7JnikWHZOgZn67dSv) | 3:56 | 2022-04-01 | 2024-01-04 |
 | [Desde Lejos No Se Ve \- En Vivo en River 2018](https://open.spotify.com/track/55O0ykD2QyWj5TZwG2VJuT) | [Ciro y los Persas](https://open.spotify.com/artist/2Eo4Yaukt9d6dnZrY5hQKi) | [Ciro y los Persas en el Estadio de River \(En Vivo\)](https://open.spotify.com/album/6Rz8GNFfkBkWauaPRK8QPw) | 4:10 | 2022-04-01 | 2022-07-23 |
+| [Difícil De Entender \- En Vivo](https://open.spotify.com/track/6j213IFF8ae9gA8lQb6s8o) | [Viejas Locas](https://open.spotify.com/artist/7wTu5u7W3kc9Id5JAvSAFV) | [Difícil De Entender \(En Vivo\)](https://open.spotify.com/album/4vNwIgcdszi9DH3IOjsoD8) | 5:38 | 2024-03-21 |  |
 | [Donde Vamos](https://open.spotify.com/track/2s4FbgZH1PS2c6DawiE6up) | [Mancha De Rolando](https://open.spotify.com/artist/4DuhYdfd2jHMdaqYVYZp04) | [La Mancha 360](https://open.spotify.com/album/4lmRIta1CJWESEv4EA9laV) | 4:42 | 2022-04-01 | 2022-07-28 |
 | [Dorado y Púrpura \- En Vivo](https://open.spotify.com/track/082OAP5nOvl0u5hJgs15rB) | [Winona Riders](https://open.spotify.com/artist/6ipac2Z0d0L6LWS7tTudcp) | [En Vivo En El Emergente 02.06.2023](https://open.spotify.com/album/75kVWmC0bVSKjv234nhQGl) | 10:17 | 2023-08-31 | 2023-11-06 |
 | [Déjate Llevar \- En Vivo](https://open.spotify.com/track/6NmBulAzho0LziJ7uWND7q) | [Trotsky Vengarán](https://open.spotify.com/artist/6Hr2CvTnI7x9U3MyDH2zBk) | [Una Noche de Rock en Medallo \(En Vivo\)](https://open.spotify.com/album/3D9lOWSIxUG37alYDOACB3) | 3:46 | 2022-06-24 | 2022-07-29 |

@@ -4,7 +4,7 @@
 
 > Are you afraid of the dark?
 
-322 songs - 21 hr 12 min
+323 songs - 21 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -133,6 +133,7 @@
 | [I Stood Bleeding](https://open.spotify.com/track/7iwRXTRE81MwsiORhGYVlH) | [bloody/bath](https://open.spotify.com/artist/6U0yRPIBTZbMoRS3FRvyWc) | [I Stood Bleeding](https://open.spotify.com/album/02ysyopK7YANMs08B9KRrQ) | 4:10 | 2022-09-25 |  |
 | [i walk this earth all by myself](https://open.spotify.com/track/5a8QUc4ubHJqQm7vzs2YhA) | [EKKSTACY](https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH) | [i walk this earth all by myself](https://open.spotify.com/album/6tdl27ojBwZ5ZexzZOP4mG) | 2:25 | 2022-09-13 | 2024-03-21 |
 | [i walk this earth all by myself](https://open.spotify.com/track/6oofvZ4K8vBHnCT1oKERcd) | [EKKSTACY](https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH) | [NEGATIVE](https://open.spotify.com/album/2momrvUqAMigmBoOOKuavE) | 2:25 | 2023-11-03 |  |
+| [i was all over her](https://open.spotify.com/track/6mSnSuOhgHHohqeBw76jRV) | [salvia palth](https://open.spotify.com/artist/0pg0Zm8FsGAYy5kdHuBnSo) | [melanchole](https://open.spotify.com/album/10WzRaNWnFUQNrW2FpqQSQ) | 2:41 | 2023-11-03 |  |
 | [i was all over her](https://open.spotify.com/track/7svpAkwc6xaSxlbZ7V7JiS) | [salvia palth](https://open.spotify.com/artist/0pg0Zm8FsGAYy5kdHuBnSo) | [melanchole](https://open.spotify.com/album/23KJrzHF1IBfjzpRgTtaJx) | 2:41 | 2021-11-01 | 2024-03-21 |
 | [I Will Be the World](https://open.spotify.com/track/0vxAJmYbzIhJ3H587gdAOX) | [Blaenavon](https://open.spotify.com/artist/79RmzX8i9w6YwqJjg3O1MY) | [That's Your Lot](https://open.spotify.com/album/6BjZX96z3VRpwLHgA6BOVP) | 4:31 | 2022-01-27 | 2022-09-15 |
 | [I Will Be the World](https://open.spotify.com/track/4IK1kdZdfaluKkm9dJRG59) | [Blaenavon](https://open.spotify.com/artist/79RmzX8i9w6YwqJjg3O1MY) | [That's Your Lot](https://open.spotify.com/album/5AJn8hwQYJ1JuvpX41TSUO) | 4:31 | 2021-11-01 | 2022-07-29 |
@@ -251,7 +252,7 @@
 | [Something Better](https://open.spotify.com/track/68GhBQGD6zcd7voOlJJxAH) | [Plastic Mermaids](https://open.spotify.com/artist/0K2bb637U0v3bBiwE7vtjQ) | [Something Better](https://open.spotify.com/album/4Wi3Lw9LbvfBbpPXyEJBCr) | 5:40 | 2022-09-13 | 2023-10-30 |
 | [Sospeche](https://open.spotify.com/track/3mGzpu1cjU1QAeZdfmKaZ5) | [Maura Rosa](https://open.spotify.com/artist/4Xc3WZX50yTkyXr7ic7Rb1) | [Sospeche](https://open.spotify.com/album/4QZCtPpwh1zbhgz76v2VvI) | 3:52 | 2021-11-01 | 2022-09-26 |
 | [Spelling](https://open.spotify.com/track/6pv0GmCpgk1wfRwrCD7WVt) | [Lolahol](https://open.spotify.com/artist/1qw9DrknRpBITBeyhmeDSn) | [Spelling](https://open.spotify.com/album/4h5jADzyNAA7MlHOpoMNoN) | 4:01 | 2023-10-19 |  |
-| [Spinning Wheel](https://open.spotify.com/track/35AFp3kz5PoMNU0TQGFwEz) | [Black Honey](https://open.spotify.com/artist/2oVmQT6s29pVIKpqJkyxBS) | [Spinning Wheel](https://open.spotify.com/album/6vef9mkcfhLjq8tUnujtrA) | 3:25 | 2022-09-13 |  |
+| [Spinning Wheel](https://open.spotify.com/track/35AFp3kz5PoMNU0TQGFwEz) | [Black Honey](https://open.spotify.com/artist/2oVmQT6s29pVIKpqJkyxBS) | [Spinning Wheel](https://open.spotify.com/album/6vef9mkcfhLjq8tUnujtrA) | 3:25 | 2022-09-13 | 2024-03-22 |
 | [Spit It Out](https://open.spotify.com/track/44la56EZdE2fw9r963o5E2) | [Softcult](https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0) | [Spit It Out](https://open.spotify.com/album/7C2M8DsO12eRUsFBtzeqkS) | 3:07 | 2021-11-01 |  |
 | [Station Wagon](https://open.spotify.com/track/1mqy0PZ49CimyTAW3I4eaN) | [shame](https://open.spotify.com/artist/4IeWU3NYBI9mISFVhzXG8f) | [Drunk Tank Pink \(Deluxe Edition\)](https://open.spotify.com/album/07FItTfHsxADQ4sLDxqgFA) | 6:39 | 2022-01-27 | 2022-09-15 |
 | [Station Wagon](https://open.spotify.com/track/2cvBpyqeKbRCbomGBfa9PQ) | [shame](https://open.spotify.com/artist/4IeWU3NYBI9mISFVhzXG8f) | [Drunk Tank Pink](https://open.spotify.com/album/7hl54HF6Nykh5IDrbqhiJX) | 6:39 | 2021-11-01 | 2022-07-29 |

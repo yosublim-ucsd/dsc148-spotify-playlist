@@ -2,9 +2,9 @@
 
 ### [100 DK](https://open.spotify.com/playlist/37i9dQZF1DXdhDukKQ88Cc)
 
-> det største dk rap lige nu 🔥
+> okayy hop lige på <a href="spotify:album:4oExjnLMuvThxFs2UR80R8">Noahs Ark</a> ⛵️
 
-145 songs - 6 hr 15 min
+148 songs - 6 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -80,11 +80,13 @@
 | [I LIKE 2 MOVE IT \(feat\. ABCITOO\)](https://open.spotify.com/track/4FXxjGxNBIPmDnOU1VFq8x) | [Xabski](https://open.spotify.com/artist/4gf1mGm7j8ELBFpR5CF1YF), [Abcitoo](https://open.spotify.com/artist/2ITY7VxNVZseegV5EddAVN) | [I LIKE 2 MOVE IT \(feat\. ABCITOO\)](https://open.spotify.com/album/19VwYofnlTp22my1SUbVeR) | 2:39 | 2023-09-21 |  |
 | [Igen \(feat\. MAS\)](https://open.spotify.com/track/5iyWULPnXcozdzi9ODfVkL) | [KIDD](https://open.spotify.com/artist/7Ap8xCd7d0xon5XnkLvn4i), [MAS](https://open.spotify.com/artist/3Tg0bQKDqc4ONwmKywDq72) | [Igen \(feat\. MAS\)](https://open.spotify.com/album/37RNYLyXQb5MM4bAfwizDh) | 2:22 | 2023-11-16 | 2023-12-14 |
 | [IK FAKE LÆNGERE](https://open.spotify.com/track/0Q9d8VHYuO7SpKsOJg57z5) | [FABRÄK](https://open.spotify.com/artist/1EhjKyONmOvWHQuGANLcU8) | [IK FAKE LÆNGERE](https://open.spotify.com/album/6qqYkOgMSSAZd8AGO7J7ZI) | 2:38 | 2023-12-08 | 2024-01-17 |
+| [Imponeret/smukt&rigtigt](https://open.spotify.com/track/2Nsbcnwb1sSYtujPzzLOMa) | [Noah Carter](https://open.spotify.com/artist/2dfY7zXIP61MKHtD175hFp) | [Noahs Ark](https://open.spotify.com/album/4oExjnLMuvThxFs2UR80R8) | 3:39 | 2024-03-21 |  |
 | [Internazionale \(feat\. Magzim\)](https://open.spotify.com/track/4ymwixcQXSHyAY5Af4bvr8) | [Emil Stabil](https://open.spotify.com/artist/2toxhc2iSbFHWgy3VMnqR7), [Magzim](https://open.spotify.com/artist/4tnPeloLvmhM0H3gY7aqnn) | [Internazionale \(feat\. Magzim\)](https://open.spotify.com/album/3YON54IWdqFWos7oNwoiiG) | 2:34 | 2023-09-21 | 2024-02-23 |
 | [Intet Nyt \(feat\. Gilli\)](https://open.spotify.com/track/4Bmua8zRMOEaqV45JbmhAH) | [Merro8](https://open.spotify.com/artist/5LcNaarbF34TMSkVLE7YQc), [Gilli](https://open.spotify.com/artist/2KbikmQKGiUPR2ARs1h0sq) | [Intet Nyt \(feat\. Gilli\)](https://open.spotify.com/album/1CJ1RiMGtZkcEP5xJYJ25n) | 2:54 | 2024-02-01 |  |
 | [Je Ka Jo](https://open.spotify.com/track/0GFJI3tJuE9S3su4H8Co2G) | [ICEKIID](https://open.spotify.com/artist/3RYYha3CC7js2PHbcBHewt) | [Je Ka Jo](https://open.spotify.com/album/29OCZ1A2FbLNBvoDrlEUf0) | 2:58 | 2023-09-29 |  |
 | [Jumeirah](https://open.spotify.com/track/38xttLsyfUwd284fbNjymm) | [ICEKIID](https://open.spotify.com/artist/3RYYha3CC7js2PHbcBHewt), [Artigeardit](https://open.spotify.com/artist/6a3WaWgxrVmNIvaiTCI0Kk) | [Jumeirah](https://open.spotify.com/album/6QlAljhTljlTtzuPEDzBCm) | 2:42 | 2023-09-21 | 2023-12-14 |
 | [K\-City \(feat\. Stepz\)](https://open.spotify.com/track/12gl0uMirrvJL9DzTgcRXR) | [EZ](https://open.spotify.com/artist/1KQsdrbzpa7RQfYq2U0ABb), [Stepz](https://open.spotify.com/artist/21gbsnlPT5hyxKDKHsBtQj) | [K\-City \(feat\. Stepz\)](https://open.spotify.com/album/6DKZHaI2sj7p7rMxNnouhf) | 2:33 | 2023-09-21 | 2024-01-19 |
+| [Lad Mig Lande \(feat\. Gilli, KESI, Kimbo & Sivas\)](https://open.spotify.com/track/50kvRbk8GLtPtgxoMeasSK) | [Noah Carter](https://open.spotify.com/artist/2dfY7zXIP61MKHtD175hFp), [Gilli](https://open.spotify.com/artist/2KbikmQKGiUPR2ARs1h0sq), [KESI](https://open.spotify.com/artist/2d7AMvzFwh5wUTuqQl3BAE), [Kimbo](https://open.spotify.com/artist/4a88Q5HOh8FSXQ1gPcQu2U), [Sivas](https://open.spotify.com/artist/3W7YeaPmcpi1UFutTF49kx) | [Noahs Ark](https://open.spotify.com/album/4oExjnLMuvThxFs2UR80R8) | 3:32 | 2024-03-21 |  |
 | [LAG PÅ LAG](https://open.spotify.com/track/3okKedyibuPyKZy16clOWH) | [Naoui](https://open.spotify.com/artist/0AvmzQcrG34vvnXwwXy06A), [ICEKIID](https://open.spotify.com/artist/3RYYha3CC7js2PHbcBHewt) | [LAG PÅ LAG](https://open.spotify.com/album/7qgIprL7S4IdbsSgPsUtL0) | 2:15 | 2024-01-04 | 2024-01-17 |
 | [Lean Back](https://open.spotify.com/track/3C5GTbN0DjMWqoW8MrfsaS) | [LEE](https://open.spotify.com/artist/0tQ5b76y1jrXNQ63299Sgv) | [Lean Back](https://open.spotify.com/album/2X19I3nqDmmzm0bhxS4ww0) | 1:55 | 2023-11-10 | 2023-12-14 |
 | [LEV I NUET](https://open.spotify.com/track/5fHydJvKwLenrvyczUqXBq) | [RH](https://open.spotify.com/artist/0BecZI4vqLoN178y3f16XJ) | [LEV I NUET](https://open.spotify.com/album/217rsfZFitLn1ris3ZjEEJ) | 2:16 | 2024-01-11 |  |
@@ -125,6 +127,7 @@
 | [Skarpt Lys](https://open.spotify.com/track/66K8nCovQPjJLs11RAqdnl) | [Gilli](https://open.spotify.com/artist/2KbikmQKGiUPR2ARs1h0sq) | [Skarpt Lys](https://open.spotify.com/album/6ukNPtoxvCSYiayGIcDi0y) | 3:04 | 2023-10-05 | 2023-11-18 |
 | [SOLEN STÅR OP](https://open.spotify.com/track/4CSJtn4yNxWa3Cmo7ngPYN) | [RH](https://open.spotify.com/artist/0BecZI4vqLoN178y3f16XJ) | [SOLEN STÅR OP](https://open.spotify.com/album/6IXAw5CQJAfQvXi0QWBBAM) | 2:27 | 2024-03-08 |  |
 | [Som Forleden](https://open.spotify.com/track/4hI2NaagyNj7N5kS9M9vVh) | [Lamin](https://open.spotify.com/artist/4ZwOlDVAGXQo66ykbLQ8dP) | [Som Forleden](https://open.spotify.com/album/4Oofku7QyqBO8OlQxyvrnd) | 2:41 | 2023-09-21 | 2023-12-14 |
+| [Sprite & Vodka \(feat\. Gilli & KESI\)](https://open.spotify.com/track/7JfLdwhVW1Ul6CF5KFeyPe) | [Noah Carter](https://open.spotify.com/artist/2dfY7zXIP61MKHtD175hFp), [Gilli](https://open.spotify.com/artist/2KbikmQKGiUPR2ARs1h0sq), [KESI](https://open.spotify.com/artist/2d7AMvzFwh5wUTuqQl3BAE) | [Noahs Ark](https://open.spotify.com/album/4oExjnLMuvThxFs2UR80R8) | 2:15 | 2024-03-21 |  |
 | [Spåkone](https://open.spotify.com/track/4VIai4an6QpUiuQxxliAF7) | [Artigeardit](https://open.spotify.com/artist/6a3WaWgxrVmNIvaiTCI0Kk) | [Spåkone](https://open.spotify.com/album/2YMSb0pHCX4stwMGUBPIGl) | 2:54 | 2023-09-21 | 2023-12-14 |
 | [STAYBUSY](https://open.spotify.com/track/4t76e7lcoYva7eZparMcfw) | [Maurice](https://open.spotify.com/artist/49LRYB6Kf2RsNbsXIBrGSl) | [STAYBUSY](https://open.spotify.com/album/5TtPoVWJI5k7xGf1oh6HIJ) | 2:23 | 2023-09-29 |  |
 | [Stemmer](https://open.spotify.com/track/315V2iBZNxBDQxTgbDXRF4) | [Baloosh](https://open.spotify.com/artist/5IpqfN8Pqjy89nj1IfuOXC) | [Stemmer](https://open.spotify.com/album/1QpE3osgUe4Wiwi2JtNb8P) | 2:27 | 2024-02-08 |  |

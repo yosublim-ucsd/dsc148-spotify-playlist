@@ -4,7 +4,7 @@
 
 > ✨❤️🌹
 
-213 songs - 13 hr 6 min
+214 songs - 13 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -154,6 +154,7 @@
 | [No](https://open.spotify.com/track/5WtamSoWfV3Zj2NKMSTGhy) | [Technicolor Fabrics](https://open.spotify.com/artist/2GtdjV9W8RmiI4W2AUl4Pl) | [No](https://open.spotify.com/album/63zjSmsePSeevbbaSB80Ga) | 3:44 | 2022-01-28 | 2023-07-01 |
 | [No Digas Nada](https://open.spotify.com/track/6YiWdUMnMUJ84Ik9JUG7NL) | [Camilo Séptimo](https://open.spotify.com/artist/6hQHiviB4JUWVmfykjYzcB) | [No Digas Nada](https://open.spotify.com/album/11oUQbgiKOlQopjkZhvp5Z) | 4:07 | 2023-09-01 |  |
 | [No Me Provoques](https://open.spotify.com/track/1SMw2ZiOmzU9xogXlBS4Nq) | [Javier Blake](https://open.spotify.com/artist/7rWuyGabaLQSmsHpZJkMzx) | [No Me Provoques](https://open.spotify.com/album/7etvFe4PKI8GYRNVsAIcND) | 4:36 | 2022-01-28 | 2023-07-01 |
+| [Noches De Verano](https://open.spotify.com/track/5LgasjuMHee4NZ4LsoaOh0) | [Esteman](https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R), [Villano Antillano](https://open.spotify.com/artist/1pi7nGhOM7PTHR5YEgXVGq) | [Noches De Verano](https://open.spotify.com/album/1ktGnE8t1PSzCRELZJTChF) | 3:06 | 2024-03-21 |  |
 | [Nuestros mundos no obedecen a tus mapas](https://open.spotify.com/track/6QtCUXSNyP612SK6pM0AM3) | [Bunbury](https://open.spotify.com/artist/4uqzzJg3ww5eH7IgGV7DMT) | [Greta Garbo](https://open.spotify.com/album/3jGqy8Nn97e7QC9GXbhzyn) | 3:35 | 2023-06-02 |  |
 | [Nunca Es Tarde](https://open.spotify.com/track/4FHBc6Z61kNSrXVYFYDEwb) | [Technicolor Fabrics](https://open.spotify.com/artist/2GtdjV9W8RmiI4W2AUl4Pl) | [Querer Querer](https://open.spotify.com/album/60DFkAltGtzAmoSgfyU9J3) | 3:03 | 2022-01-28 |  |
 | [Nunca Me Dejes](https://open.spotify.com/track/3G9SwzJFPgFY7aDrD6KIPB) | [Reyno](https://open.spotify.com/artist/1pzRh5IWgNWNrxPBu9EFcU) | [Viaje Por Lo Eterno](https://open.spotify.com/album/7e0cQ2zBmwrqjsObmwkh5c) | 3:25 | 2022-01-28 | 2023-07-01 |

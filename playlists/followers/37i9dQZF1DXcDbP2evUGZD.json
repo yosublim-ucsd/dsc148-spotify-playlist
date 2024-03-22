@@ -1,5 +1,5 @@
 {
-  "2024-03-21": 7539,
+  "2024-03-22": 7545,
   "date_first_scraped": "2022-09-28",
   "description": "The K-artists that you need to pay attention to right now will all be at <a href=\"http://mucon.kr/index.html\">MU:CON 2023</a>! Meet them first at the MU:CON 2023 official playlist. (\ubba4\ucf58 2023 \uc1fc\ucf00\uc774\uc2a4\uc5d0 \uc120\uc815\ub41c \uc544\ud2f0\uc2a4\ud2b8\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
   "name": "MU:CON 2023",
@@ -1587,6 +1587,24 @@
       "duration_ms": 238101,
       "name": "Flowords",
       "url": "https://open.spotify.com/track/3zVfJCVIVGVRDp77uNavZ4"
+    },
+    {
+      "album": {
+        "name": "For us, summer is always short",
+        "url": "https://open.spotify.com/album/4Le80eZbjsEZnD9OQMFWdV"
+      },
+      "artists": [
+        {
+          "name": "Shin In Ryu",
+          "url": "https://open.spotify.com/artist/1HBeN73z1CZ0E58rEIeozp"
+        }
+      ],
+      "date_added": "2023-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238101,
+      "name": "Flowords",
+      "url": "https://open.spotify.com/track/4lbTBUXDLcZKc03SUVHz7W"
     },
     {
       "album": {
@@ -4735,24 +4753,6 @@
       "duration_ms": 225085,
       "name": "\u0e19\u0e48\u0e32\u0e23\u0e31\u0e01\u0e19\u0e49\u0e2d\u0e22\u0e25\u0e07\u0e2b\u0e19\u0e48\u0e2d\u0e22 (Cuteless)",
       "url": "https://open.spotify.com/track/7f1L9GyOgbt3ZguWN7Eog0"
-    },
-    {
-      "album": {
-        "name": "\uc6b0\ub9ac\uc5d0\uac8c \uc5ec\ub984\uc740 \uc9e7\ub2e4 For us, summer is always short",
-        "url": "https://open.spotify.com/album/4Le80eZbjsEZnD9OQMFWdV"
-      },
-      "artists": [
-        {
-          "name": "Shin In Ryu",
-          "url": "https://open.spotify.com/artist/1HBeN73z1CZ0E58rEIeozp"
-        }
-      ],
-      "date_added": "2023-08-28",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 238101,
-      "name": "\uaf43\ub9d0 Flowords",
-      "url": "https://open.spotify.com/track/4lbTBUXDLcZKc03SUVHz7W"
     },
     {
       "album": {

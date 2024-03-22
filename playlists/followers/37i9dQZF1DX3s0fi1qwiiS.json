@@ -1,5 +1,5 @@
 {
-  "2024-03-21": 3306,
+  "2024-03-22": 3307,
   "date_first_scraped": "2022-12-03",
   "description": "Who order Azul?",
   "name": "Best of Detty December",
@@ -720,6 +720,28 @@
     },
     {
       "album": {
+        "name": "Ke Star (feat. Virgo Deep) [Remix]",
+        "url": "https://open.spotify.com/album/3YVMs7Ktt0s5Lt9vRCOcf3"
+      },
+      "artists": [
+        {
+          "name": "Focalistic & Davido",
+          "url": "https://open.spotify.com/artist/7HTIQL5mKZH6b5ML8XkpcQ"
+        },
+        {
+          "name": "Virgo Deep",
+          "url": "https://open.spotify.com/artist/4Ml0ZcVza4oApvqWK8K7wM"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 328766,
+      "name": "Ke Star (feat. Virgo Deep) - Remix",
+      "url": "https://open.spotify.com/track/71JcMmqaJ2rGxxTcufwkSg"
+    },
+    {
+      "album": {
         "name": "Ke Star (Remix)",
         "url": "https://open.spotify.com/album/0ycU5aDeq22IewMlUF1A66"
       },
@@ -739,7 +761,7 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-21",
       "duration_ms": 328766,
       "name": "Ke Star - Remix",
       "url": "https://open.spotify.com/track/7b3991NnMDhwZRq7C2Cpgc"
@@ -901,6 +923,28 @@
     {
       "album": {
         "name": "Nkao Tempela",
+        "url": "https://open.spotify.com/album/0gsRuYnWqKq0HECQtdVGHx"
+      },
+      "artists": [
+        {
+          "name": "Ch'cco",
+          "url": "https://open.spotify.com/artist/2j4WQI5RTNgyEd7wbDTRe1"
+        },
+        {
+          "name": "Mellow & Sleazy",
+          "url": "https://open.spotify.com/artist/5MJ5f1XKD9yu7aWfG8OGjz"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 361528,
+      "name": "Nkao Tempela",
+      "url": "https://open.spotify.com/track/5px6g0U4AmfF8Jx9uhJbVC"
+    },
+    {
+      "album": {
+        "name": "Nkao Tempela",
         "url": "https://open.spotify.com/album/3D1mDVYQeABd8ZXUiyKVQE"
       },
       "artists": [
@@ -915,7 +959,7 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-21",
       "duration_ms": 361528,
       "name": "Nkao Tempela",
       "url": "https://open.spotify.com/track/7JtWy2vvKVXLaymyTXUJ0K"

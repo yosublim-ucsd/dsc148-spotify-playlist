@@ -1,12 +1,12 @@
 {
   "description": "All the indie gems from 2023 that may have flown under your radar! Cover: The Last Dinner Party",
-  "num_followers": 19257,
+  "num_followers": 19260,
   "original_name": "Indie songs from 2023 you may have missed",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjNDQ3MDQ4YjYyZWYxNzRlYjA4MTVjOTRiNGU2ZjIyYWUxOWM3MTFh",
+  "snapshot_id": "MCxmOTkyOTI4NzVlOGQwYTc2NjdhODNkNTQzOWI4ZDc0M2Y4NDIzY2Qz",
   "tracks": [
     {
       "added_at": "2023-11-29 16:17:10",
@@ -443,22 +443,6 @@
     {
       "added_at": "2023-11-29 16:17:10",
       "album": {
-        "name": "Girl with Fish",
-        "url": "https://open.spotify.com/album/4lVMhVIgEdxIoTu7gS7CoT"
-      },
-      "artists": [
-        {
-          "name": "feeble little horse",
-          "url": "https://open.spotify.com/artist/2GJa7lPCjAB1rKXptXrfy8"
-        }
-      ],
-      "duration_ms": 205484,
-      "name": "Steamroller",
-      "url": "https://open.spotify.com/track/5t4lCUVCHh65FOgYH1xxPN"
-    },
-    {
-      "added_at": "2023-11-29 16:17:10",
-      "album": {
         "name": "Planes",
         "url": "https://open.spotify.com/album/7rWIUlfmcWa9rQLMJ2SXrN"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 213272,
       "name": "Planes",
       "url": "https://open.spotify.com/track/6ldto3peQuqKTZKMa4SA6f"
+    },
+    {
+      "added_at": "2023-11-29 16:17:10",
+      "album": {
+        "name": "Girl with Fish",
+        "url": "https://open.spotify.com/album/4lVMhVIgEdxIoTu7gS7CoT"
+      },
+      "artists": [
+        {
+          "name": "feeble little horse",
+          "url": "https://open.spotify.com/artist/2GJa7lPCjAB1rKXptXrfy8"
+        }
+      ],
+      "duration_ms": 205484,
+      "name": "Steamroller",
+      "url": "https://open.spotify.com/track/5t4lCUVCHh65FOgYH1xxPN"
     },
     {
       "added_at": "2023-11-29 16:17:10",
@@ -543,6 +543,22 @@
     {
       "added_at": "2023-11-29 16:17:10",
       "album": {
+        "name": "Heavy Objects",
+        "url": "https://open.spotify.com/album/41SYoR26RSoK1Dd6WA57bm"
+      },
+      "artists": [
+        {
+          "name": "Dottie Andersson",
+          "url": "https://open.spotify.com/artist/360qeHf7kan9K9bKFPNwVM"
+        }
+      ],
+      "duration_ms": 123200,
+      "name": "Heavy Objects",
+      "url": "https://open.spotify.com/track/1c0d5wHErcFhwakR16NoDr"
+    },
+    {
+      "added_at": "2023-11-29 16:17:10",
+      "album": {
         "name": "time waits",
         "url": "https://open.spotify.com/album/5jkLcQSR8L15cf53wi5bfY"
       },
@@ -595,18 +611,18 @@
     {
       "added_at": "2023-11-29 16:17:10",
       "album": {
-        "name": "Heavy Objects",
-        "url": "https://open.spotify.com/album/41SYoR26RSoK1Dd6WA57bm"
+        "name": "Always on My Mind",
+        "url": "https://open.spotify.com/album/5i0Y2Sy1MsI93LMM8FcyX4"
       },
       "artists": [
         {
-          "name": "Dottie Andersson",
-          "url": "https://open.spotify.com/artist/360qeHf7kan9K9bKFPNwVM"
+          "name": "Roller Derby",
+          "url": "https://open.spotify.com/artist/2MCyjG9viaC9IM39VO3yDe"
         }
       ],
-      "duration_ms": 123200,
-      "name": "Heavy Objects",
-      "url": "https://open.spotify.com/track/1c0d5wHErcFhwakR16NoDr"
+      "duration_ms": 209564,
+      "name": "Always on My Mind",
+      "url": "https://open.spotify.com/track/6JBOTY4U3xGtE2Wpzp2uA3"
     },
     {
       "added_at": "2023-11-29 16:17:10",
@@ -623,22 +639,6 @@
       "duration_ms": 172101,
       "name": "The Secret To Life",
       "url": "https://open.spotify.com/track/0xOxOAuTy6KCEp8Ov82Y9Z"
-    },
-    {
-      "added_at": "2023-11-29 16:17:10",
-      "album": {
-        "name": "Always on My Mind",
-        "url": "https://open.spotify.com/album/5i0Y2Sy1MsI93LMM8FcyX4"
-      },
-      "artists": [
-        {
-          "name": "Roller Derby",
-          "url": "https://open.spotify.com/artist/2MCyjG9viaC9IM39VO3yDe"
-        }
-      ],
-      "duration_ms": 209564,
-      "name": "Always on My Mind",
-      "url": "https://open.spotify.com/track/6JBOTY4U3xGtE2Wpzp2uA3"
     },
     {
       "added_at": "2023-11-29 16:17:10",
@@ -835,22 +835,6 @@
     {
       "added_at": "2023-11-29 16:17:10",
       "album": {
-        "name": "Flowers At Your Feet",
-        "url": "https://open.spotify.com/album/2SAtIfz2jFRAn36xCUT8xd"
-      },
-      "artists": [
-        {
-          "name": "Rahill",
-          "url": "https://open.spotify.com/artist/0a0L1YLGhMT64hsSh9M9aM"
-        }
-      ],
-      "duration_ms": 161360,
-      "name": "Tell Me",
-      "url": "https://open.spotify.com/track/4Z1olDl8aym5xZYZAat672"
-    },
-    {
-      "added_at": "2023-11-29 16:17:10",
-      "album": {
         "name": "My Time As a Ghostly Someone Else",
         "url": "https://open.spotify.com/album/2XRwNGOkqLRrUYnC9AdDDO"
       },
@@ -863,6 +847,22 @@
       "duration_ms": 260760,
       "name": "My Time As a Ghostly Someone Else",
       "url": "https://open.spotify.com/track/5YV2ZcrB3Ck69RkFFXpmCl"
+    },
+    {
+      "added_at": "2023-11-29 16:17:10",
+      "album": {
+        "name": "Flowers At Your Feet",
+        "url": "https://open.spotify.com/album/2SAtIfz2jFRAn36xCUT8xd"
+      },
+      "artists": [
+        {
+          "name": "Rahill",
+          "url": "https://open.spotify.com/artist/0a0L1YLGhMT64hsSh9M9aM"
+        }
+      ],
+      "duration_ms": 161360,
+      "name": "Tell Me",
+      "url": "https://open.spotify.com/track/4Z1olDl8aym5xZYZAat672"
     },
     {
       "added_at": "2023-11-29 16:17:10",
@@ -931,22 +931,6 @@
     {
       "added_at": "2023-11-29 16:17:10",
       "album": {
-        "name": "Coming Home",
-        "url": "https://open.spotify.com/album/57YwnLtf7BosgnrpqycowZ"
-      },
-      "artists": [
-        {
-          "name": "Fay Wildhagen",
-          "url": "https://open.spotify.com/artist/7lu3ibFfJWrm1X1eLLRz2P"
-        }
-      ],
-      "duration_ms": 208880,
-      "name": "Coming Home",
-      "url": "https://open.spotify.com/track/3jRPGXCJVVCFZTDIGOk2WH"
-    },
-    {
-      "added_at": "2023-11-29 16:17:10",
-      "album": {
         "name": "Smalltown Stardust",
         "url": "https://open.spotify.com/album/6tvYZyoxDRTIOVUwWH6ttG"
       },
@@ -959,6 +943,22 @@
       "duration_ms": 288026,
       "name": "How I Love",
       "url": "https://open.spotify.com/track/2XBmrWOsPavSy6YnwbG7f8"
+    },
+    {
+      "added_at": "2023-11-29 16:17:10",
+      "album": {
+        "name": "Coming Home",
+        "url": "https://open.spotify.com/album/57YwnLtf7BosgnrpqycowZ"
+      },
+      "artists": [
+        {
+          "name": "Fay Wildhagen",
+          "url": "https://open.spotify.com/artist/7lu3ibFfJWrm1X1eLLRz2P"
+        }
+      ],
+      "duration_ms": 208880,
+      "name": "Coming Home",
+      "url": "https://open.spotify.com/track/3jRPGXCJVVCFZTDIGOk2WH"
     },
     {
       "added_at": "2023-11-29 16:17:10",
@@ -1079,22 +1079,6 @@
     {
       "added_at": "2023-11-29 16:17:10",
       "album": {
-        "name": "Fluent Stutter",
-        "url": "https://open.spotify.com/album/0AsVb7S4UL2760pQlRVpAe"
-      },
-      "artists": [
-        {
-          "name": "Deki Alem",
-          "url": "https://open.spotify.com/artist/2AK3F4tVjxYuqSGefozy52"
-        }
-      ],
-      "duration_ms": 194234,
-      "name": "The Big Boom - Bonus Track",
-      "url": "https://open.spotify.com/track/587lEdNGAThT52JpvjnJKd"
-    },
-    {
-      "added_at": "2023-11-29 16:17:10",
-      "album": {
         "name": "Bam Bam",
         "url": "https://open.spotify.com/album/6WH1oUDXYugrbS70ei7hfq"
       },
@@ -1107,6 +1091,22 @@
       "duration_ms": 210687,
       "name": "Bam Bam",
       "url": "https://open.spotify.com/track/0xCDHXXQ2uBF6ZQ4ES4EUb"
+    },
+    {
+      "added_at": "2023-11-29 16:17:10",
+      "album": {
+        "name": "Fluent Stutter",
+        "url": "https://open.spotify.com/album/0AsVb7S4UL2760pQlRVpAe"
+      },
+      "artists": [
+        {
+          "name": "Deki Alem",
+          "url": "https://open.spotify.com/artist/2AK3F4tVjxYuqSGefozy52"
+        }
+      ],
+      "duration_ms": 194234,
+      "name": "The Big Boom - Bonus Track",
+      "url": "https://open.spotify.com/track/587lEdNGAThT52JpvjnJKd"
     },
     {
       "added_at": "2023-11-29 16:17:10",
@@ -1127,22 +1127,6 @@
     {
       "added_at": "2023-11-29 16:17:10",
       "album": {
-        "name": "The Good Life",
-        "url": "https://open.spotify.com/album/7rrD1cHZGGUo9DUQwm9mDR"
-      },
-      "artists": [
-        {
-          "name": "My Ugly Clementine",
-          "url": "https://open.spotify.com/artist/5PLynKfQumQiB3ihXcG28Y"
-        }
-      ],
-      "duration_ms": 179831,
-      "name": "Feet Up",
-      "url": "https://open.spotify.com/track/0Zyt2jTbyRv1QNb3Yahk1m"
-    },
-    {
-      "added_at": "2023-11-29 16:17:10",
-      "album": {
         "name": "I LOVE THE INTERNET",
         "url": "https://open.spotify.com/album/4e2OFPbCzqEQfRIKnk1NoG"
       },
@@ -1155,6 +1139,22 @@
       "duration_ms": 150533,
       "name": "npc",
       "url": "https://open.spotify.com/track/4Pr1T6HsveEYhcg4TqQVpB"
+    },
+    {
+      "added_at": "2023-11-29 16:17:10",
+      "album": {
+        "name": "The Good Life",
+        "url": "https://open.spotify.com/album/7rrD1cHZGGUo9DUQwm9mDR"
+      },
+      "artists": [
+        {
+          "name": "My Ugly Clementine",
+          "url": "https://open.spotify.com/artist/5PLynKfQumQiB3ihXcG28Y"
+        }
+      ],
+      "duration_ms": 179831,
+      "name": "Feet Up",
+      "url": "https://open.spotify.com/track/0Zyt2jTbyRv1QNb3Yahk1m"
     },
     {
       "added_at": "2023-11-29 16:17:10",
@@ -1191,22 +1191,6 @@
     {
       "added_at": "2023-11-29 16:17:10",
       "album": {
-        "name": "Nothing Sacred",
-        "url": "https://open.spotify.com/album/0DmGruRtuY0lgYGyQ2rloO"
-      },
-      "artists": [
-        {
-          "name": "Nate Brazier",
-          "url": "https://open.spotify.com/artist/4cavlP5GhgtNXiWSS3wIO7"
-        }
-      ],
-      "duration_ms": 150052,
-      "name": "Putting On Airs",
-      "url": "https://open.spotify.com/track/6PmVjN1ZywIq4LBejE0kD5"
-    },
-    {
-      "added_at": "2023-11-29 16:17:10",
-      "album": {
         "name": "When Horses Would Run",
         "url": "https://open.spotify.com/album/4Zb3FQcdXKngObTXue6FZf"
       },
@@ -1219,6 +1203,22 @@
       "duration_ms": 136697,
       "name": "The Great American Picnic",
       "url": "https://open.spotify.com/track/48AgoVXugpMSwRm9eAiKEj"
+    },
+    {
+      "added_at": "2023-11-29 16:17:10",
+      "album": {
+        "name": "Nothing Sacred",
+        "url": "https://open.spotify.com/album/0DmGruRtuY0lgYGyQ2rloO"
+      },
+      "artists": [
+        {
+          "name": "Nate Brazier",
+          "url": "https://open.spotify.com/artist/4cavlP5GhgtNXiWSS3wIO7"
+        }
+      ],
+      "duration_ms": 150052,
+      "name": "Putting On Airs",
+      "url": "https://open.spotify.com/track/6PmVjN1ZywIq4LBejE0kD5"
     },
     {
       "added_at": "2023-11-29 16:17:10",
@@ -1287,18 +1287,18 @@
     {
       "added_at": "2023-11-29 16:17:10",
       "album": {
-        "name": "Pain",
-        "url": "https://open.spotify.com/album/2lWIcMPOiABeVkejfvHzoE"
+        "name": "tainted in our memories",
+        "url": "https://open.spotify.com/album/3jfCvTkeYzUOxfuuUIcu7T"
       },
       "artists": [
         {
-          "name": "Theo Bleak",
-          "url": "https://open.spotify.com/artist/1P7Y9mc5VzxlEeo15JpNAk"
+          "name": "Babebee",
+          "url": "https://open.spotify.com/artist/719aYkabpmAmY7DAQamb8h"
         }
       ],
-      "duration_ms": 180693,
-      "name": "Raining All The Time",
-      "url": "https://open.spotify.com/track/3Jvbp6UtnfNCTZqvlnAAbI"
+      "duration_ms": 160089,
+      "name": "blame",
+      "url": "https://open.spotify.com/track/0S86k4AVVcmFqXglEgReVk"
     },
     {
       "added_at": "2023-11-29 16:17:10",
@@ -1323,34 +1323,18 @@
     {
       "added_at": "2023-11-29 16:17:10",
       "album": {
-        "name": "tainted in our memories",
-        "url": "https://open.spotify.com/album/3jfCvTkeYzUOxfuuUIcu7T"
+        "name": "Pain",
+        "url": "https://open.spotify.com/album/2lWIcMPOiABeVkejfvHzoE"
       },
       "artists": [
         {
-          "name": "Babebee",
-          "url": "https://open.spotify.com/artist/719aYkabpmAmY7DAQamb8h"
+          "name": "Theo Bleak",
+          "url": "https://open.spotify.com/artist/1P7Y9mc5VzxlEeo15JpNAk"
         }
       ],
-      "duration_ms": 160089,
-      "name": "blame",
-      "url": "https://open.spotify.com/track/0S86k4AVVcmFqXglEgReVk"
-    },
-    {
-      "added_at": "2023-11-29 16:17:10",
-      "album": {
-        "name": "DON'T YOU THINK IT'D BE NICE ?",
-        "url": "https://open.spotify.com/album/4VMu7bXjIkQngtN1D5kAsw"
-      },
-      "artists": [
-        {
-          "name": "Papooz",
-          "url": "https://open.spotify.com/artist/2gaCpvhi31OZtozJKsr5gm"
-        }
-      ],
-      "duration_ms": 190292,
-      "name": "DON'T YOU THINK IT'D BE NICE ?",
-      "url": "https://open.spotify.com/track/6r68X3hgYXylvAyM5yRy3D"
+      "duration_ms": 180693,
+      "name": "Raining All The Time",
+      "url": "https://open.spotify.com/track/3Jvbp6UtnfNCTZqvlnAAbI"
     },
     {
       "added_at": "2023-11-29 16:17:10",
@@ -1367,6 +1351,22 @@
       "duration_ms": 199360,
       "name": "Corner Of My Eye",
       "url": "https://open.spotify.com/track/5DDMzzHlpUmZ6ILqZgJFyL"
+    },
+    {
+      "added_at": "2023-11-29 16:17:10",
+      "album": {
+        "name": "DON'T YOU THINK IT'D BE NICE ?",
+        "url": "https://open.spotify.com/album/4VMu7bXjIkQngtN1D5kAsw"
+      },
+      "artists": [
+        {
+          "name": "Papooz",
+          "url": "https://open.spotify.com/artist/2gaCpvhi31OZtozJKsr5gm"
+        }
+      ],
+      "duration_ms": 190292,
+      "name": "DON'T YOU THINK IT'D BE NICE ?",
+      "url": "https://open.spotify.com/track/6r68X3hgYXylvAyM5yRy3D"
     },
     {
       "added_at": "2023-11-29 16:17:10",
@@ -1455,18 +1455,18 @@
     {
       "added_at": "2023-11-29 16:17:10",
       "album": {
-        "name": "Everything's Conditional",
-        "url": "https://open.spotify.com/album/4d3beSene5sO3fdKMvwmr0"
+        "name": "Infinite Spring",
+        "url": "https://open.spotify.com/album/4SzsXZYL0FRUgwLYmqTUbC"
       },
       "artists": [
         {
-          "name": "Jackie Mere",
-          "url": "https://open.spotify.com/artist/4xA2Kp40KdqjdcFE6zik0p"
+          "name": "Superviolet",
+          "url": "https://open.spotify.com/artist/49B8mk1ywQNFmIYthC2p8P"
         }
       ],
-      "duration_ms": 225760,
-      "name": "Running For My Life",
-      "url": "https://open.spotify.com/track/7gAR3P5oBKzYIuGTcRYS60"
+      "duration_ms": 234500,
+      "name": "Big Songbirds Don't Cry",
+      "url": "https://open.spotify.com/track/7Ba8C8e8PJF7C0fesRvNvz"
     },
     {
       "added_at": "2023-11-29 16:17:10",
@@ -1487,18 +1487,18 @@
     {
       "added_at": "2023-11-29 16:17:10",
       "album": {
-        "name": "Infinite Spring",
-        "url": "https://open.spotify.com/album/4SzsXZYL0FRUgwLYmqTUbC"
+        "name": "Everything's Conditional",
+        "url": "https://open.spotify.com/album/4d3beSene5sO3fdKMvwmr0"
       },
       "artists": [
         {
-          "name": "Superviolet",
-          "url": "https://open.spotify.com/artist/49B8mk1ywQNFmIYthC2p8P"
+          "name": "Jackie Mere",
+          "url": "https://open.spotify.com/artist/4xA2Kp40KdqjdcFE6zik0p"
         }
       ],
-      "duration_ms": 234500,
-      "name": "Big Songbirds Don't Cry",
-      "url": "https://open.spotify.com/track/7Ba8C8e8PJF7C0fesRvNvz"
+      "duration_ms": 225760,
+      "name": "Running For My Life",
+      "url": "https://open.spotify.com/track/7gAR3P5oBKzYIuGTcRYS60"
     },
     {
       "added_at": "2023-11-29 16:17:10",
@@ -1583,18 +1583,18 @@
     {
       "added_at": "2023-11-29 16:17:10",
       "album": {
-        "name": "The Only Thing Worse Than A Woman Who Lies Is A Girl Who\u2019ll Tell Truths",
-        "url": "https://open.spotify.com/album/26sB0HxlHsy0oM4LJ6jjNv"
+        "name": "Backbone",
+        "url": "https://open.spotify.com/album/3KiSUV7EetsmikzSUv2cGa"
       },
       "artists": [
         {
-          "name": "Odie Leigh",
-          "url": "https://open.spotify.com/artist/7AgbNZPRrvTpWjVbbPoUmU"
+          "name": "Blusher",
+          "url": "https://open.spotify.com/artist/7AZm56bjPk0tYl6LTyJu9N"
         }
       ],
-      "duration_ms": 162000,
-      "name": "As Sure As I\u2019m Speaking",
-      "url": "https://open.spotify.com/track/33BAnSQF1eYV3uP2sB47sm"
+      "duration_ms": 180755,
+      "name": "Backbone",
+      "url": "https://open.spotify.com/track/1DWWHqw2Uykp2OC9szKUUW"
     },
     {
       "added_at": "2023-11-29 16:17:10",
@@ -1615,18 +1615,18 @@
     {
       "added_at": "2023-11-29 16:17:10",
       "album": {
-        "name": "Backbone",
-        "url": "https://open.spotify.com/album/3KiSUV7EetsmikzSUv2cGa"
+        "name": "The Only Thing Worse Than A Woman Who Lies Is A Girl Who\u2019ll Tell Truths",
+        "url": "https://open.spotify.com/album/26sB0HxlHsy0oM4LJ6jjNv"
       },
       "artists": [
         {
-          "name": "Blusher",
-          "url": "https://open.spotify.com/artist/7AZm56bjPk0tYl6LTyJu9N"
+          "name": "Odie Leigh",
+          "url": "https://open.spotify.com/artist/7AgbNZPRrvTpWjVbbPoUmU"
         }
       ],
-      "duration_ms": 180755,
-      "name": "Backbone",
-      "url": "https://open.spotify.com/track/1DWWHqw2Uykp2OC9szKUUW"
+      "duration_ms": 162000,
+      "name": "As Sure As I\u2019m Speaking",
+      "url": "https://open.spotify.com/track/33BAnSQF1eYV3uP2sB47sm"
     },
     {
       "added_at": "2023-11-29 16:17:10",

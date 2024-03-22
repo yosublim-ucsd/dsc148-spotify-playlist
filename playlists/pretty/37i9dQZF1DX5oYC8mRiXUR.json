@@ -1,12 +1,12 @@
 {
   "description": "No dust was found after cleaning to this playlist.",
-  "num_followers": 658280,
+  "num_followers": 658247,
   "original_name": "Cleaning Kit",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjOTkwM2JhZWQ2Y2VkYWYxNTQ0NTYyZjIyMTIyMWNiYjlhM2UzZTg0",
+  "snapshot_id": "MCxkMDExODc1NTA2Y2IzN2QyNTkzOGI3N2UzZDI3NzU2MjkyODM1ZWQ4",
   "tracks": [
     {
       "added_at": "2023-11-17 05:00:00",
@@ -1047,22 +1047,6 @@
     {
       "added_at": "2023-11-17 05:00:00",
       "album": {
-        "name": "@dannocean",
-        "url": "https://open.spotify.com/album/21IzWBMtUfaOOfFx8CiR6I"
-      },
-      "artists": [
-        {
-          "name": "Danny Ocean",
-          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
-        }
-      ],
-      "duration_ms": 159849,
-      "name": "Fuera del mercado",
-      "url": "https://open.spotify.com/track/1UdzJEpgJxtuXAlCOvD4S0"
-    },
-    {
-      "added_at": "2023-11-17 05:00:00",
-      "album": {
         "name": "Volv\u00ed",
         "url": "https://open.spotify.com/album/23zzZlUiABIg4ftZbJ7peK"
       },
@@ -1079,6 +1063,22 @@
       "duration_ms": 230125,
       "name": "Volv\u00ed",
       "url": "https://open.spotify.com/track/2vmfvSoZBFAt9hhRoEByLi"
+    },
+    {
+      "added_at": "2023-11-17 05:00:00",
+      "album": {
+        "name": "@dannocean",
+        "url": "https://open.spotify.com/album/21IzWBMtUfaOOfFx8CiR6I"
+      },
+      "artists": [
+        {
+          "name": "Danny Ocean",
+          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
+        }
+      ],
+      "duration_ms": 159849,
+      "name": "Fuera del mercado",
+      "url": "https://open.spotify.com/track/1UdzJEpgJxtuXAlCOvD4S0"
     },
     {
       "added_at": "2023-11-17 05:00:00",
@@ -1231,6 +1231,22 @@
     {
       "added_at": "2023-11-17 05:00:00",
       "album": {
+        "name": "Easy Money Baby",
+        "url": "https://open.spotify.com/album/3dM5WCvdXdNqLE14d16GmJ"
+      },
+      "artists": [
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        }
+      ],
+      "duration_ms": 186426,
+      "name": "Girl",
+      "url": "https://open.spotify.com/track/43NqTeL8pgBxKHPMiJKUP5"
+    },
+    {
+      "added_at": "2023-11-17 05:00:00",
+      "album": {
         "name": "La_Original.mp3",
         "url": "https://open.spotify.com/album/54okOxhsxH5Lmxgdv4WwKN"
       },
@@ -1247,22 +1263,6 @@
       "duration_ms": 140625,
       "name": "La_Original.mp3",
       "url": "https://open.spotify.com/track/6VjagyaPDsRal64aHXNIUY"
-    },
-    {
-      "added_at": "2023-11-17 05:00:00",
-      "album": {
-        "name": "Easy Money Baby",
-        "url": "https://open.spotify.com/album/3dM5WCvdXdNqLE14d16GmJ"
-      },
-      "artists": [
-        {
-          "name": "Myke Towers",
-          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
-        }
-      ],
-      "duration_ms": 186426,
-      "name": "Girl",
-      "url": "https://open.spotify.com/track/43NqTeL8pgBxKHPMiJKUP5"
     },
     {
       "added_at": "2023-11-17 05:00:00",
@@ -1395,22 +1395,6 @@
     {
       "added_at": "2023-11-17 05:00:00",
       "album": {
-        "name": "About Damn Time",
-        "url": "https://open.spotify.com/album/4JApkbiesQxv5drdEZRlZC"
-      },
-      "artists": [
-        {
-          "name": "Lizzo",
-          "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
-        }
-      ],
-      "duration_ms": 191822,
-      "name": "About Damn Time",
-      "url": "https://open.spotify.com/track/1PckUlxKqWQs3RlWXVBLw3"
-    },
-    {
-      "added_at": "2023-11-17 05:00:00",
-      "album": {
         "name": "Hecho En Medell\u00edn",
         "url": "https://open.spotify.com/album/50SdnzlrXUMadt9JYeaJSh"
       },
@@ -1435,6 +1419,22 @@
     {
       "added_at": "2023-11-17 05:00:00",
       "album": {
+        "name": "About Damn Time",
+        "url": "https://open.spotify.com/album/4JApkbiesQxv5drdEZRlZC"
+      },
+      "artists": [
+        {
+          "name": "Lizzo",
+          "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
+        }
+      ],
+      "duration_ms": 191822,
+      "name": "About Damn Time",
+      "url": "https://open.spotify.com/track/1PckUlxKqWQs3RlWXVBLw3"
+    },
+    {
+      "added_at": "2023-11-17 05:00:00",
+      "album": {
         "name": "Don't Start Now",
         "url": "https://open.spotify.com/album/0ix3XtPV1LwmZADsprKxcp"
       },
@@ -1447,26 +1447,6 @@
       "duration_ms": 183290,
       "name": "Don't Start Now",
       "url": "https://open.spotify.com/track/6WrI0LAC5M1Rw2MnX2ZvEg"
-    },
-    {
-      "added_at": "2023-11-17 05:00:00",
-      "album": {
-        "name": "Mis Ojos Lloran Por Ti",
-        "url": "https://open.spotify.com/album/5o36XrjVl3YdBYqt0p57Gc"
-      },
-      "artists": [
-        {
-          "name": "Big Boy",
-          "url": "https://open.spotify.com/artist/5bVQN1TENxjVjWXNHHpflG"
-        },
-        {
-          "name": "Angel Lopez",
-          "url": "https://open.spotify.com/artist/0w57qOEVTcqs0bLyFJ7Q52"
-        }
-      ],
-      "duration_ms": 295533,
-      "name": "Mis Ojos Lloran Por Ti",
-      "url": "https://open.spotify.com/track/4fFgpzgSkmn3wajioLBPOr"
     },
     {
       "added_at": "2023-11-17 05:00:00",
@@ -1499,6 +1479,26 @@
       "duration_ms": 181106,
       "name": "SEJODIOTO",
       "url": "https://open.spotify.com/track/704LUEih663hiE3CnyUrFW"
+    },
+    {
+      "added_at": "2023-11-17 05:00:00",
+      "album": {
+        "name": "Mis Ojos Lloran Por Ti",
+        "url": "https://open.spotify.com/album/5o36XrjVl3YdBYqt0p57Gc"
+      },
+      "artists": [
+        {
+          "name": "Big Boy",
+          "url": "https://open.spotify.com/artist/5bVQN1TENxjVjWXNHHpflG"
+        },
+        {
+          "name": "Angel Lopez",
+          "url": "https://open.spotify.com/artist/0w57qOEVTcqs0bLyFJ7Q52"
+        }
+      ],
+      "duration_ms": 295533,
+      "name": "Mis Ojos Lloran Por Ti",
+      "url": "https://open.spotify.com/track/4fFgpzgSkmn3wajioLBPOr"
     },
     {
       "added_at": "2023-11-17 05:00:00",
@@ -1547,22 +1547,6 @@
     {
       "added_at": "2023-11-17 05:00:00",
       "album": {
-        "name": "Justice",
-        "url": "https://open.spotify.com/album/0w1dwXfG5z6Xjjgj524JkD"
-      },
-      "artists": [
-        {
-          "name": "Justin Bieber",
-          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
-        }
-      ],
-      "duration_ms": 153190,
-      "name": "Ghost",
-      "url": "https://open.spotify.com/track/5dPz35akJjPqb17yeqNwqH"
-    },
-    {
-      "added_at": "2023-11-17 05:00:00",
-      "album": {
         "name": "Timelezz",
         "url": "https://open.spotify.com/album/3AwzfcsXeljU7JkG5GQn8Y"
       },
@@ -1579,6 +1563,22 @@
       "duration_ms": 263253,
       "name": "Ley Seca",
       "url": "https://open.spotify.com/track/3JCaq3KDSROg3TXhdiDa9n"
+    },
+    {
+      "added_at": "2023-11-17 05:00:00",
+      "album": {
+        "name": "Justice",
+        "url": "https://open.spotify.com/album/0w1dwXfG5z6Xjjgj524JkD"
+      },
+      "artists": [
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        }
+      ],
+      "duration_ms": 153190,
+      "name": "Ghost",
+      "url": "https://open.spotify.com/track/5dPz35akJjPqb17yeqNwqH"
     },
     {
       "added_at": "2023-11-17 05:00:00",
@@ -1627,6 +1627,22 @@
     {
       "added_at": "2023-11-17 05:00:00",
       "album": {
+        "name": "Stereo Hits",
+        "url": "https://open.spotify.com/album/6y3FTrfW6zFquk2V1qU2as"
+      },
+      "artists": [
+        {
+          "name": "M\u0153nia",
+          "url": "https://open.spotify.com/artist/3QmmtMrEf7aQrsd1VtejAV"
+        }
+      ],
+      "duration_ms": 219533,
+      "name": "Ni T\u00fa Ni Nadie",
+      "url": "https://open.spotify.com/track/16J6wH4Evm97ta1hDQIYQC"
+    },
+    {
+      "added_at": "2023-11-17 05:00:00",
+      "album": {
         "name": "Baila Baila Baila (Remix) [feat. Farruko, Anuel Aa]",
         "url": "https://open.spotify.com/album/2njbaonul4fuGOFmPchUgU"
       },
@@ -1655,22 +1671,6 @@
       "duration_ms": 235284,
       "name": "Baila Baila Baila - Remix",
       "url": "https://open.spotify.com/track/7mWFF4gPADjTQjC97CgFVt"
-    },
-    {
-      "added_at": "2023-11-17 05:00:00",
-      "album": {
-        "name": "Stereo Hits",
-        "url": "https://open.spotify.com/album/6y3FTrfW6zFquk2V1qU2as"
-      },
-      "artists": [
-        {
-          "name": "M\u0153nia",
-          "url": "https://open.spotify.com/artist/3QmmtMrEf7aQrsd1VtejAV"
-        }
-      ],
-      "duration_ms": 219533,
-      "name": "Ni T\u00fa Ni Nadie",
-      "url": "https://open.spotify.com/track/16J6wH4Evm97ta1hDQIYQC"
     },
     {
       "added_at": "2023-11-17 05:00:00",
@@ -1815,22 +1815,6 @@
     {
       "added_at": "2023-11-17 05:00:00",
       "album": {
-        "name": "Tacones Rojos",
-        "url": "https://open.spotify.com/album/4mdWMx4VouAqsIqgLt3R6S"
-      },
-      "artists": [
-        {
-          "name": "Sebastian Yatra",
-          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
-        }
-      ],
-      "duration_ms": 189320,
-      "name": "Tacones Rojos",
-      "url": "https://open.spotify.com/track/0Be7sopyKMv8Y8npsUkax2"
-    },
-    {
-      "added_at": "2023-11-17 05:00:00",
-      "album": {
         "name": "Desesperados",
         "url": "https://open.spotify.com/album/3w1Tr9F91XMcsmBJQ8hS7H"
       },
@@ -1851,18 +1835,18 @@
     {
       "added_at": "2023-11-17 05:00:00",
       "album": {
-        "name": "Envolver",
-        "url": "https://open.spotify.com/album/6UsualeqgzPnb8cfaQ5nL7"
+        "name": "Tacones Rojos",
+        "url": "https://open.spotify.com/album/4mdWMx4VouAqsIqgLt3R6S"
       },
       "artists": [
         {
-          "name": "Anitta",
-          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+          "name": "Sebastian Yatra",
+          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
         }
       ],
-      "duration_ms": 193805,
-      "name": "Envolver",
-      "url": "https://open.spotify.com/track/3IAfUEeaXRX9s9UdKOJrFI"
+      "duration_ms": 189320,
+      "name": "Tacones Rojos",
+      "url": "https://open.spotify.com/track/0Be7sopyKMv8Y8npsUkax2"
     },
     {
       "added_at": "2023-11-17 05:00:00",
@@ -1883,18 +1867,18 @@
     {
       "added_at": "2023-11-17 05:00:00",
       "album": {
-        "name": "BICHOTA",
-        "url": "https://open.spotify.com/album/6LO6I2uJMkc0u7GHBYHa4Y"
+        "name": "Envolver",
+        "url": "https://open.spotify.com/album/6UsualeqgzPnb8cfaQ5nL7"
       },
       "artists": [
         {
-          "name": "KAROL G",
-          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
         }
       ],
-      "duration_ms": 178946,
-      "name": "BICHOTA",
-      "url": "https://open.spotify.com/track/7vrJn5hDSXRmdXoR30KgF1"
+      "duration_ms": 193805,
+      "name": "Envolver",
+      "url": "https://open.spotify.com/track/3IAfUEeaXRX9s9UdKOJrFI"
     },
     {
       "added_at": "2023-11-17 05:00:00",
@@ -1915,6 +1899,22 @@
       "duration_ms": 192477,
       "name": "X \u00daLTIMA VEZ",
       "url": "https://open.spotify.com/track/48AJSd42lXpicsGqcgopof"
+    },
+    {
+      "added_at": "2023-11-17 05:00:00",
+      "album": {
+        "name": "BICHOTA",
+        "url": "https://open.spotify.com/album/6LO6I2uJMkc0u7GHBYHa4Y"
+      },
+      "artists": [
+        {
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        }
+      ],
+      "duration_ms": 178946,
+      "name": "BICHOTA",
+      "url": "https://open.spotify.com/track/7vrJn5hDSXRmdXoR30KgF1"
     },
     {
       "added_at": "2023-11-17 05:00:00",
@@ -2255,6 +2255,26 @@
     {
       "added_at": "2023-11-17 05:00:00",
       "album": {
+        "name": "Si Supieras",
+        "url": "https://open.spotify.com/album/4lmKt00bHLEeqJRTlNOxXS"
+      },
+      "artists": [
+        {
+          "name": "Daddy Yankee",
+          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
+        },
+        {
+          "name": "Wisin & Yandel",
+          "url": "https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9"
+        }
+      ],
+      "duration_ms": 241880,
+      "name": "Si Supieras",
+      "url": "https://open.spotify.com/track/7MRU4vOkywuhZ9kbFiPuiu"
+    },
+    {
+      "added_at": "2023-11-17 05:00:00",
+      "album": {
         "name": "Soltera (Remix)",
         "url": "https://open.spotify.com/album/2m9Vuc9Q19qhSm6RQmBgsR"
       },
@@ -2275,26 +2295,6 @@
       "duration_ms": 266086,
       "name": "Soltera (Remix)",
       "url": "https://open.spotify.com/track/1c0hsvHLELX6y8qymnpLKL"
-    },
-    {
-      "added_at": "2023-11-17 05:00:00",
-      "album": {
-        "name": "Si Supieras",
-        "url": "https://open.spotify.com/album/4lmKt00bHLEeqJRTlNOxXS"
-      },
-      "artists": [
-        {
-          "name": "Daddy Yankee",
-          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
-        },
-        {
-          "name": "Wisin & Yandel",
-          "url": "https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9"
-        }
-      ],
-      "duration_ms": 241880,
-      "name": "Si Supieras",
-      "url": "https://open.spotify.com/track/7MRU4vOkywuhZ9kbFiPuiu"
     },
     {
       "added_at": "2023-11-17 05:00:00",
@@ -2355,6 +2355,26 @@
     {
       "added_at": "2023-11-17 05:00:00",
       "album": {
+        "name": "De Vuelta Pa' La Vuelta",
+        "url": "https://open.spotify.com/album/1mFvOlraT4JKt4D7aGb9tc"
+      },
+      "artists": [
+        {
+          "name": "Daddy Yankee",
+          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
+        },
+        {
+          "name": "Marc Anthony",
+          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
+        }
+      ],
+      "duration_ms": 231593,
+      "name": "De Vuelta Pa' La Vuelta",
+      "url": "https://open.spotify.com/track/7AUhck1sPy11OExQmDDx4P"
+    },
+    {
+      "added_at": "2023-11-17 05:00:00",
+      "album": {
         "name": "Desde Mis Ojos (Remix)",
         "url": "https://open.spotify.com/album/7eJGJIPw6kPngdBin2b3iL"
       },
@@ -2375,26 +2395,6 @@
       "duration_ms": 223563,
       "name": "Desde Mis Ojos - Remix",
       "url": "https://open.spotify.com/track/0hzC5kZ6qKZJ9ybyW75VV8"
-    },
-    {
-      "added_at": "2023-11-17 05:00:00",
-      "album": {
-        "name": "De Vuelta Pa' La Vuelta",
-        "url": "https://open.spotify.com/album/1mFvOlraT4JKt4D7aGb9tc"
-      },
-      "artists": [
-        {
-          "name": "Daddy Yankee",
-          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
-        },
-        {
-          "name": "Marc Anthony",
-          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
-        }
-      ],
-      "duration_ms": 231593,
-      "name": "De Vuelta Pa' La Vuelta",
-      "url": "https://open.spotify.com/track/7AUhck1sPy11OExQmDDx4P"
     },
     {
       "added_at": "2023-11-17 05:00:00",
@@ -2475,6 +2475,22 @@
     {
       "added_at": "2023-11-17 05:00:00",
       "album": {
+        "name": "LEGENDADDY",
+        "url": "https://open.spotify.com/album/3rlJCPz7s7bTifG57wjFpt"
+      },
+      "artists": [
+        {
+          "name": "Daddy Yankee",
+          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
+        }
+      ],
+      "duration_ms": 248768,
+      "name": "RUMBAT\u00d3N",
+      "url": "https://open.spotify.com/track/3XjN0mvFkQp1FMVM9Ro5hm"
+    },
+    {
+      "added_at": "2023-11-17 05:00:00",
+      "album": {
         "name": "Instagram",
         "url": "https://open.spotify.com/album/0FLBLU9SceeQFuIaR54MJH"
       },
@@ -2487,22 +2503,6 @@
       "duration_ms": 162000,
       "name": "Instagram",
       "url": "https://open.spotify.com/track/0EFxJw34fK8DWlTxx9qYeW"
-    },
-    {
-      "added_at": "2023-11-17 05:00:00",
-      "album": {
-        "name": "BREAK MY SOUL",
-        "url": "https://open.spotify.com/album/5JgCaA43ECaGeqbPEo6WUP"
-      },
-      "artists": [
-        {
-          "name": "Beyonc\u00e9",
-          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
-        }
-      ],
-      "duration_ms": 278281,
-      "name": "BREAK MY SOUL",
-      "url": "https://open.spotify.com/track/2KukL7UlQ8TdvpaA7bY3ZJ"
     },
     {
       "added_at": "2023-11-17 05:00:00",
@@ -2543,18 +2543,18 @@
     {
       "added_at": "2023-11-17 05:00:00",
       "album": {
-        "name": "LEGENDADDY",
-        "url": "https://open.spotify.com/album/3rlJCPz7s7bTifG57wjFpt"
+        "name": "BREAK MY SOUL",
+        "url": "https://open.spotify.com/album/5JgCaA43ECaGeqbPEo6WUP"
       },
       "artists": [
         {
-          "name": "Daddy Yankee",
-          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
+          "name": "Beyonc\u00e9",
+          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
         }
       ],
-      "duration_ms": 248768,
-      "name": "RUMBAT\u00d3N",
-      "url": "https://open.spotify.com/track/3XjN0mvFkQp1FMVM9Ro5hm"
+      "duration_ms": 278281,
+      "name": "BREAK MY SOUL",
+      "url": "https://open.spotify.com/track/2KukL7UlQ8TdvpaA7bY3ZJ"
     },
     {
       "added_at": "2023-11-17 05:00:00",
@@ -2635,22 +2635,6 @@
     {
       "added_at": "2023-11-17 05:00:00",
       "album": {
-        "name": "La Triple T",
-        "url": "https://open.spotify.com/album/3qawASs1sOKod3clkhZTvv"
-      },
-      "artists": [
-        {
-          "name": "TINI",
-          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
-        }
-      ],
-      "duration_ms": 167674,
-      "name": "La Triple T",
-      "url": "https://open.spotify.com/track/7kYbxvrGXv8cmKjkqgqhrw"
-    },
-    {
-      "added_at": "2023-11-17 05:00:00",
-      "album": {
         "name": "Loco",
         "url": "https://open.spotify.com/album/0Aq33KpcbXrHkuyfMhEORI"
       },
@@ -2671,6 +2655,22 @@
       "duration_ms": 231603,
       "name": "Loco",
       "url": "https://open.spotify.com/track/6PDlkWmrq2ZKiUuFt2aQsH"
+    },
+    {
+      "added_at": "2023-11-17 05:00:00",
+      "album": {
+        "name": "La Triple T",
+        "url": "https://open.spotify.com/album/3qawASs1sOKod3clkhZTvv"
+      },
+      "artists": [
+        {
+          "name": "TINI",
+          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
+        }
+      ],
+      "duration_ms": 167674,
+      "name": "La Triple T",
+      "url": "https://open.spotify.com/track/7kYbxvrGXv8cmKjkqgqhrw"
     },
     {
       "added_at": "2023-11-17 05:00:00",
@@ -2751,26 +2751,6 @@
     {
       "added_at": "2023-11-17 05:00:00",
       "album": {
-        "name": "FRIKI",
-        "url": "https://open.spotify.com/album/7LlTjovytMWtPVHm7cJku2"
-      },
-      "artists": [
-        {
-          "name": "Feid",
-          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
-        },
-        {
-          "name": "KAROL G",
-          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
-        }
-      ],
-      "duration_ms": 144986,
-      "name": "FRIKI",
-      "url": "https://open.spotify.com/track/3No3zHVwKadKDR00kZdmAB"
-    },
-    {
-      "added_at": "2023-11-17 05:00:00",
-      "album": {
         "name": "Fiel (Remix)",
         "url": "https://open.spotify.com/album/1jBESH0DEFN7z8WH8B0B5c"
       },
@@ -2799,6 +2779,26 @@
       "duration_ms": 349546,
       "name": "Fiel - Remix",
       "url": "https://open.spotify.com/track/43qcs9NpJhDxtG91zxFkj7"
+    },
+    {
+      "added_at": "2023-11-17 05:00:00",
+      "album": {
+        "name": "FRIKI",
+        "url": "https://open.spotify.com/album/7LlTjovytMWtPVHm7cJku2"
+      },
+      "artists": [
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        },
+        {
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        }
+      ],
+      "duration_ms": 144986,
+      "name": "FRIKI",
+      "url": "https://open.spotify.com/track/3No3zHVwKadKDR00kZdmAB"
     },
     {
       "added_at": "2023-11-17 05:00:00",

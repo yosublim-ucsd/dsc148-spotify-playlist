@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9QL9TBCM8cE.md) - [plain]
 
 > Music from "THE IDOLM@STER SHINY COLORS"\. アイドルマスター シャイニーカラーズの楽曲を1つのプレイリストで。THE IDOLM@STER™& ©Bandai Namco Entertainment Inc.
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,678 likes - 50 songs - 3 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,691 likes - 50 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,13 +50,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9QL9TBCM8cE.md) - [plain]
 | 40 | [千夜アリア](https://open.spotify.com/track/3ExAAENazuICvkqsm0hYW5) | [白瀬咲耶 \(CV.八巻アンナ\)](https://open.spotify.com/artist/5dYiy5c1QMxb3qX0BCnBIM) | [THE IDOLM@STER SHINY COLORS COLORFUL FE@THERS](https://open.spotify.com/album/6gEqUT48U8C9GK6QhpoJeG) | 4:34 |
 | 41 | [Killer×Mission](https://open.spotify.com/track/0ghG8utRgqj7mnzNAMh5to) | [L'Antica](https://open.spotify.com/artist/6AVoZay6oxRPozPCGkwJJ9), [ストレイライト](https://open.spotify.com/artist/493MBQPclwtXx4zWgCalzd) | [THE IDOLM@STER SHINY COLORS Synthe\-Side 01](https://open.spotify.com/album/2AtVxlrMgKVDsrqA6onKYJ) | 4:01 |
 | 42 | [太陽キッス](https://open.spotify.com/track/7zHBye4FWEI3W6u3rqm39M) | [放課後クライマックスガールズ](https://open.spotify.com/artist/6jzOa0jOXV9zU12rSjRnX5) | [THE IDOLM@STER SHINY COLORS BRILLI@NT WING 04 夢咲きAfter school](https://open.spotify.com/album/7nbtHmpCxyd61CvO3DstSu) | 4:51 |
-| 43 | [有彩色ユリイカ](https://open.spotify.com/track/18VfDvyJM0x0neY4ldeaiK) | [アンティーカ](https://open.spotify.com/artist/6NpkNdWFWIvQpS1GLvdQrY) | [THE IDOLM@STER SHINY COLORS "CANVAS" 02](https://open.spotify.com/album/2GJ9WsBpkibxIe8vMKI4Yr) | 4:49 |
+| 43 | [Unsung Heroes](https://open.spotify.com/track/78hYc1DvsAEQSMWJLpQcuR) | [アンティーカ](https://open.spotify.com/artist/6NpkNdWFWIvQpS1GLvdQrY) | [THE IDOLM@STER SHINY COLORS "CANVAS" 02](https://open.spotify.com/album/2GJ9WsBpkibxIe8vMKI4Yr) | 4:46 |
 | 44 | [青とオレンジ](https://open.spotify.com/track/1Cpk6loUsHtZmSrzu25ips) | [ノクチル](https://open.spotify.com/artist/2mEuo2oqjiInFkBJUOfsSc) | [THE IDOLM@STER SHINY COLORS "CANVAS" 06](https://open.spotify.com/album/3EarCSn4p3bjZfE5dEvXFd) | 4:11 |
-| 45 | [夢見鳥](https://open.spotify.com/track/4LBl0NObinFBwEDPIGIoRq) | [樋口円香 \(CV.土屋李央\)](https://open.spotify.com/artist/4nzTh0EGvqoTb8P1KsmcVX) | [THE IDOLM@STER SHINY COLORS COLORFUL FE@THERS \-Stella\-](https://open.spotify.com/album/4LNCaJ2SQh27tRtaZGzmT9) | 4:21 |
-| 46 | [虹の行方](https://open.spotify.com/track/2EGyVGF3f5h1WAScAqFOnW) | [シャイニーカラーズ](https://open.spotify.com/artist/7ApxPPvOHclelY9xkLZwBR) | [THE IDOLM@STER SHINY COLORS PANOR@MA WING 01](https://open.spotify.com/album/2nINsRjHFbz5oWMG4zJo2i) | 5:14 |
+| 45 | [あおぞらサイダー](https://open.spotify.com/track/3CXdwSwMwyFhT23xCZNONl) | [市川雛菜 \(CV.岡咲美保\)](https://open.spotify.com/artist/6tmX0pNtuRyYat4zyxRTes) | [THE IDOLM@STER SHINY COLORS COLORFUL FE@THERS](https://open.spotify.com/album/6gEqUT48U8C9GK6QhpoJeG) | 3:51 |
+| 46 | [夢見鳥](https://open.spotify.com/track/4LBl0NObinFBwEDPIGIoRq) | [樋口円香 \(CV.土屋李央\)](https://open.spotify.com/artist/4nzTh0EGvqoTb8P1KsmcVX) | [THE IDOLM@STER SHINY COLORS COLORFUL FE@THERS \-Stella\-](https://open.spotify.com/album/4LNCaJ2SQh27tRtaZGzmT9) | 4:21 |
 | 47 | [BRIGHTEST WHITE](https://open.spotify.com/track/06TMFKm1kw8QymT6XGMIll) | [イルミネーションスターズ](https://open.spotify.com/artist/3yKaJ0XB0Wikqntdst6vld) | [THE IDOLM@STER SHINY COLORS "CANVAS" 01](https://open.spotify.com/album/6sAK3pEDDuGfgUmQR1op0w) | 4:07 |
-| 48 | [あおぞらサイダー](https://open.spotify.com/track/3CXdwSwMwyFhT23xCZNONl) | [市川雛菜 \(CV.岡咲美保\)](https://open.spotify.com/artist/6tmX0pNtuRyYat4zyxRTes) | [THE IDOLM@STER SHINY COLORS COLORFUL FE@THERS](https://open.spotify.com/album/6gEqUT48U8C9GK6QhpoJeG) | 3:51 |
+| 48 | [虹の行方](https://open.spotify.com/track/2EGyVGF3f5h1WAScAqFOnW) | [シャイニーカラーズ](https://open.spotify.com/artist/7ApxPPvOHclelY9xkLZwBR) | [THE IDOLM@STER SHINY COLORS PANOR@MA WING 01](https://open.spotify.com/album/2nINsRjHFbz5oWMG4zJo2i) | 5:14 |
 | 49 | [statice](https://open.spotify.com/track/63fbgkmVDVCWM5vTmwEufo) | [浅倉 透 \(CV.和久井 優\)](https://open.spotify.com/artist/3W0BlGAFqbi1iKvsfO8kcu) | [THE IDOLM@STER SHINY COLORS COLORFUL FE@THERS](https://open.spotify.com/album/6gEqUT48U8C9GK6QhpoJeG) | 4:37 |
-| 50 | [Unsung Heroes](https://open.spotify.com/track/78hYc1DvsAEQSMWJLpQcuR) | [アンティーカ](https://open.spotify.com/artist/6NpkNdWFWIvQpS1GLvdQrY) | [THE IDOLM@STER SHINY COLORS "CANVAS" 02](https://open.spotify.com/album/2GJ9WsBpkibxIe8vMKI4Yr) | 4:46 |
+| 50 | [有彩色ユリイカ](https://open.spotify.com/track/18VfDvyJM0x0neY4ldeaiK) | [アンティーカ](https://open.spotify.com/artist/6NpkNdWFWIvQpS1GLvdQrY) | [THE IDOLM@STER SHINY COLORS "CANVAS" 02](https://open.spotify.com/album/2GJ9WsBpkibxIe8vMKI4Yr) | 4:49 |
 
-Snapshot ID: `MCxiMTExZWVhZjAwYmY5NDVlZmUyNzBlMGM1MzI0MDhhNzE5M2E2MjAw`
+Snapshot ID: `MCw3ZDliOGYwZTI3N2M2OTllNzYxYzc3M2UyMTMxZDJjMzM3MTE5NGFm`

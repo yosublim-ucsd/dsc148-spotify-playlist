@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-12",
-  "description": "La playlist urban pi\u00f9 grande d'Italia \ud83d\udd25 Cover: Capo Plaza",
+  "description": "La playlist urban pi\u00f9 grande d'Italia \ud83d\udd25 Cover: Tony Effe",
   "name": "Plus Ultra",
   "tracks": [
     {
@@ -4535,6 +4535,24 @@
     },
     {
       "album": {
+        "name": "I CAN FLY",
+        "url": "https://open.spotify.com/album/2SbroeWsALG42AtivCsCnu"
+      },
+      "artists": [
+        {
+          "name": "Icy Subzero",
+          "url": "https://open.spotify.com/artist/24oVOFAARWAYUb1LaedbI0"
+        }
+      ],
+      "date_added": "2024-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164705,
+      "name": "I CAN FLY",
+      "url": "https://open.spotify.com/track/2Y3gIiYfcphPCPNYuQDMph"
+    },
+    {
+      "album": {
         "name": "I GOT IT",
         "url": "https://open.spotify.com/album/2YuhsuBSpgWQoulletw3U7"
       },
@@ -8062,7 +8080,7 @@
       ],
       "date_added": "2024-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-22",
       "duration_ms": 153609,
       "name": "PERSONALE (feat. Geolier)",
       "url": "https://open.spotify.com/track/27sveRwlAkrG0lKGMKA4of"
@@ -8384,7 +8402,7 @@
       ],
       "date_added": "2024-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-22",
       "duration_ms": 222500,
       "name": "Popolari",
       "url": "https://open.spotify.com/track/6wLykMAs7JTfhvdWmPhGSW"
@@ -10834,6 +10852,24 @@
       "duration_ms": 156616,
       "name": "ye@h (feat. Shiva)",
       "url": "https://open.spotify.com/track/2BkoXEOE6vvkOKVNjPax2B"
+    },
+    {
+      "album": {
+        "name": "Zig Zag",
+        "url": "https://open.spotify.com/album/1BKBhiWmq8ODbAc8VVNpJ2"
+      },
+      "artists": [
+        {
+          "name": "Rhove",
+          "url": "https://open.spotify.com/artist/44DWomjW1oDuxIoBIRpmQ4"
+        }
+      ],
+      "date_added": "2024-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162935,
+      "name": "Zig Zag",
+      "url": "https://open.spotify.com/track/5UKIWHvuWHSVnNxZuNd2Qr"
     },
     {
       "album": {

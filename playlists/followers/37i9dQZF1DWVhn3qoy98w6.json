@@ -1,5 +1,5 @@
 {
-  "2024-03-21": 12004,
+  "2024-03-22": 12014,
   "date_first_scraped": "2022-01-09",
   "description": "Solo artistas independientes, actualizada todos los mi\u00e9rcoles. Foto: VALENTINO.",
   "name": "Fresh Finds Espa\u00f1a",
@@ -23279,10 +23279,28 @@
       ],
       "date_added": "2024-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-21",
       "duration_ms": 166215,
       "name": "Esku Burdin",
       "url": "https://open.spotify.com/track/2rjsK0psyIVOQWqzXselcQ"
+    },
+    {
+      "album": {
+        "name": "Esku Burdin",
+        "url": "https://open.spotify.com/album/1PxCSh8I08RRPz3PB1Eltw"
+      },
+      "artists": [
+        {
+          "name": "J Martina",
+          "url": "https://open.spotify.com/artist/2n5oKnRt4i2SfKUPw3sX8R"
+        }
+      ],
+      "date_added": "2024-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166756,
+      "name": "Esku Burdin",
+      "url": "https://open.spotify.com/track/2UPzdnrp23Nl0ZCD3OfBRU"
     },
     {
       "album": {

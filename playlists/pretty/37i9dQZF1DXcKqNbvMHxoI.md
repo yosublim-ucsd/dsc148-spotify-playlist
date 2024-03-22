@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcKqNbvMHxoI.md) - [plain]
 
 > Songs so beautiful, made for the night
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,228 likes - 90 songs - 6 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,852 likes - 90 songs - 6 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcKqNbvMHxoI.md) - [plain]
 | 89 | [Sacred](https://open.spotify.com/track/1z3roU3y19kIFTQDCBUeZ8) | [TSHA](https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh) | [Sacred](https://open.spotify.com/album/1FKnoGi6vRMvNZCY3Xbx2Y) | 5:47 |
 | 90 | [Little Girl](https://open.spotify.com/track/6MWW1R6QcvgZOJ27ANqb9j) | [Rafau Etamski](https://open.spotify.com/artist/7crMfuf5neUYzmwwklDPCO) | [Little Girl](https://open.spotify.com/album/3vwyoOkfnsK1cr4kIknmnz) | 4:12 |
 
-Snapshot ID: `MCw4NDMyZWU4MzY3YTExOWI2ZTAyN2M3NDkxM2FmMDZmMjYxMDI2NTBi`
+Snapshot ID: `MCw0ZWUyZGZmNTBjNDczODIxMjljZjIyODE5YmRiYTQxMTgxYzI0ZGE2`

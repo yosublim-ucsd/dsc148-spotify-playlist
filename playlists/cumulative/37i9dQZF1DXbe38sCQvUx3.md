@@ -4,7 +4,7 @@
 
 > a la orden pa'l desorden
 
-207 songs - 10 hr 29 min
+208 songs - 10 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,7 +55,8 @@
 | [Derecho y Chueco](https://open.spotify.com/track/0DBs6MtftX1ywn0wYVtQ5S) | [Los Caimanes De Sinaloa](https://open.spotify.com/artist/5VE6IinEVSwdQNqQIN8zAN) | [Derecho y Chueco](https://open.spotify.com/album/3H5SrSng3ifF6Yd7664mNm) | 2:37 | 2023-12-22 |  |
 | [Desde Topo Hasta La Sierra](https://open.spotify.com/track/3S9PY0y2pMioMEIMnmO6dj) | [Novillos de la Sierra](https://open.spotify.com/artist/0y9rTsbpRAIIkDMP3DsNro), [Los Torrenciales de la Sierra](https://open.spotify.com/artist/1AR0atiSk7fk8C18cEyYNn) | [Desde Topo Hasta La Sierra](https://open.spotify.com/album/25w2zwI5cE8ZcTOE5XMj2F) | 3:38 | 2023-11-06 | 2024-02-24 |
 | [Di Que Si](https://open.spotify.com/track/0kzN7YAMSbmlHOvxlbQW9y) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC), [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [Di Que Si](https://open.spotify.com/album/5YFKVLWDPKkm94RWatZu9e) | 3:10 | 2023-07-10 | 2023-12-09 |
-| [Dijeron Que No La Iba Lograr](https://open.spotify.com/track/7dR09k1an5JEq7ch0Y5hvV) | [Chino Pacas](https://open.spotify.com/artist/2rmkQLzj0k4nZdQehOUByO), [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [Dijeron Que No La Iba Lograr](https://open.spotify.com/album/3pyALc28lhIbH4gPXVNb9g) | 1:53 | 2023-07-10 |  |
+| [Dijeron Que No La Iba Lograr](https://open.spotify.com/track/2VhYFNgH2oNn4N92YGwLnu) | [Chino Pacas](https://open.spotify.com/artist/2rmkQLzj0k4nZdQehOUByO), [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [Dijeron Que No La Iba Lograr](https://open.spotify.com/album/4YT0dtOM9IDdAfFONKmazN) | 1:53 | 2024-03-15 |  |
+| [Dijeron Que No La Iba Lograr](https://open.spotify.com/track/7dR09k1an5JEq7ch0Y5hvV) | [Chino Pacas](https://open.spotify.com/artist/2rmkQLzj0k4nZdQehOUByO), [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [Dijeron Que No La Iba Lograr](https://open.spotify.com/album/3pyALc28lhIbH4gPXVNb9g) | 1:53 | 2023-07-10 | 2024-03-22 |
 | [Dinero No Tenia \- En Vivo](https://open.spotify.com/track/78ZsL4i0PT5SjnB3WeXGj9) | [Codiciado](https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4) | [Dinero No Tenia \(En Vivo\)](https://open.spotify.com/album/4I4HdAzHO28j18IibnON3F) | 3:28 | 2023-08-22 | 2023-12-09 |
 | [Doble Vaso](https://open.spotify.com/track/6DlxxuLfJLZlynCWolPcGB) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P) | [VGLY \(Original Soundtrack\)](https://open.spotify.com/album/6L6OHxh6qNtqkRmxNEVHvf) | 2:41 | 2023-07-10 | 2023-08-23 |
 | [Don Dimadon](https://open.spotify.com/track/1LfsvLFQprosUmrEtGPHAe) | [Remp](https://open.spotify.com/artist/1xOk6ncnlNdMeSnLLLoMSa), [Oscar Maydon](https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5), [Victor Mendivil](https://open.spotify.com/artist/5YqI7p8zYsOpKJtjxYdOce) | [Don Dimadon](https://open.spotify.com/album/3AL6ynr4iZhCbOHO3XzLtA) | 3:04 | 2024-03-15 |  |

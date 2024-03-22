@@ -45,6 +45,24 @@
     },
     {
       "album": {
+        "name": "28th of June",
+        "url": "https://open.spotify.com/album/0inH63xl0GHnMm9cYmiGWX"
+      },
+      "artists": [
+        {
+          "name": "Megan Moroney",
+          "url": "https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0"
+        }
+      ],
+      "date_added": "2024-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225363,
+      "name": "28th of June",
+      "url": "https://open.spotify.com/track/0ZQdCsqlVRqqImNqkRz9ct"
+    },
+    {
+      "album": {
         "name": "Self Portrait Of A Woman Unravelling",
         "url": "https://open.spotify.com/album/1xceHSQfXpgXPFsKraHiYZ"
       },
@@ -96,6 +114,24 @@
       "duration_ms": 225159,
       "name": "All For You",
       "url": "https://open.spotify.com/track/4eE6KCWXbXyEgLK6NtyzPX"
+    },
+    {
+      "album": {
+        "name": "All Life Long",
+        "url": "https://open.spotify.com/album/0unji0xUcEGgNFyokzF5p5"
+      },
+      "artists": [
+        {
+          "name": "Conrad Sewell",
+          "url": "https://open.spotify.com/artist/1rw8ZTLnDHd74TWDDukjVi"
+        }
+      ],
+      "date_added": "2024-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199240,
+      "name": "All Life Long",
+      "url": "https://open.spotify.com/track/3WEN5hlpjc09yo0J6IuQBE"
     },
     {
       "album": {
@@ -338,6 +374,24 @@
       "duration_ms": 173893,
       "name": "Better Version",
       "url": "https://open.spotify.com/track/3yDEK8rHiOUHOSioX9ZbaU"
+    },
+    {
+      "album": {
+        "name": "Between The Lines",
+        "url": "https://open.spotify.com/album/3frKrSwNzjM5GimBgr2lnc"
+      },
+      "artists": [
+        {
+          "name": "BOBI ANDONOV",
+          "url": "https://open.spotify.com/artist/5EXfqUleFQVrNrQIDpuAxy"
+        }
+      ],
+      "date_added": "2024-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221834,
+      "name": "Between The Lines",
+      "url": "https://open.spotify.com/track/7i22WLIibSqrRQrRh27nh9"
     },
     {
       "album": {
@@ -1411,6 +1465,24 @@
     },
     {
       "album": {
+        "name": "King Size Bed",
+        "url": "https://open.spotify.com/album/2zyhZS6ViIAqZbTD1IssVy"
+      },
+      "artists": [
+        {
+          "name": "Alec Benjamin",
+          "url": "https://open.spotify.com/artist/5IH6FPUwQTxPSXurCrcIov"
+        }
+      ],
+      "date_added": "2024-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164184,
+      "name": "King Size Bed",
+      "url": "https://open.spotify.com/track/5ARG0eQKOYOsFAdFeUuXrm"
+    },
+    {
+      "album": {
         "name": "GUTS",
         "url": "https://open.spotify.com/album/1xJHno7SmdVtZAtXbdbDZp"
       },
@@ -2054,7 +2126,7 @@
       ],
       "date_added": "2023-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-22",
       "duration_ms": 183080,
       "name": "Penthouse",
       "url": "https://open.spotify.com/track/5rCt377EMkCJ0D0sldd5t8"
@@ -2331,6 +2403,24 @@
     },
     {
       "album": {
+        "name": "Slow It Down",
+        "url": "https://open.spotify.com/album/5UI2uTwSWoS6NmlxurwElQ"
+      },
+      "artists": [
+        {
+          "name": "Benson Boone",
+          "url": "https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET"
+        }
+      ],
+      "date_added": "2024-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161831,
+      "name": "Slow It Down",
+      "url": "https://open.spotify.com/track/6WO7IDGLakjO38lsvI2gHB"
+    },
+    {
+      "album": {
         "name": "SOS",
         "url": "https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG"
       },
@@ -2588,7 +2678,7 @@
       ],
       "date_added": "2023-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-22",
       "duration_ms": 176048,
       "name": "The Hardest Part (feat. Leon Bridges)",
       "url": "https://open.spotify.com/track/1fXALB3kb14ngMRGNdV5wD"
@@ -2790,6 +2880,24 @@
       "duration_ms": 160053,
       "name": "Too Good to be True",
       "url": "https://open.spotify.com/track/4vIiVs5JoNfqqRi5o7jAIb"
+    },
+    {
+      "album": {
+        "name": "Unheard",
+        "url": "https://open.spotify.com/album/6rjpYHZwFktbc0RCiTfEG6"
+      },
+      "artists": [
+        {
+          "name": "Hozier",
+          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
+        }
+      ],
+      "date_added": "2024-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251424,
+      "name": "Too Sweet",
+      "url": "https://open.spotify.com/track/3HMY0r2BAdpasXMY8rseR0"
     },
     {
       "album": {

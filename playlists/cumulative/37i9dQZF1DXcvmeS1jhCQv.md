@@ -4,7 +4,7 @@
 
 > New tunes from Ireland for your discovery\. Cover: Pillow Queens
 
-107 songs - 6 hr 0 min
+111 songs - 6 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,6 +13,7 @@
 | [21](https://open.spotify.com/track/19DYo3z33u99Ic14HbqUDC) | [NAOMI JEREMIAH](https://open.spotify.com/artist/4mhXKME7vxoBUyjO7uIU5h) | [21](https://open.spotify.com/album/07fOd3xbSXCr0sd16Mtkk2) | 3:01 | 2024-02-02 | 2024-02-16 |
 | [33s](https://open.spotify.com/track/6Xib9snQv0CJ2NmY8SV4vW) | [Uly](https://open.spotify.com/artist/1i5DopntEK7C4VKpD5F6zg) | [33s](https://open.spotify.com/album/2lJOSCuyYCXf9HTgAhUhK0) | 3:44 | 2024-02-02 |  |
 | [501s](https://open.spotify.com/track/6feJvH2JJNmrsXiAeUDAZb) | [Conchúr White](https://open.spotify.com/artist/3CKoNNHadnfwIuDzOmX7vF) | [501s](https://open.spotify.com/album/5JVHvHnv7bCaQqEMyygAkR) | 3:31 | 2024-02-02 |  |
+| [All My Life](https://open.spotify.com/track/0enqLHS7NWlDbtTftkoohu) | [SIIGHTS](https://open.spotify.com/artist/59wzcVw9vvQvKIEHddgF7n) | [Through Thick and Thin](https://open.spotify.com/album/7tfAZDP40vvEyN1hW3HoOa) | 2:15 | 2024-03-22 |  |
 | [Antidote](https://open.spotify.com/track/207bcqHODbUfxAsyhi1fkR) | [Greywind](https://open.spotify.com/artist/3QFfYJq7jdx8GnVrePpZm4) | [Antidote](https://open.spotify.com/album/5BtsIlGeClmz7o8B4aq6MK) | 2:45 | 2024-02-02 |  |
 | [Attention](https://open.spotify.com/track/7a97WHddocTnhagUJEfTFb) | [Fangclub](https://open.spotify.com/artist/1rT2DYzj3q6QnrxaqF4jnN) | [Attention](https://open.spotify.com/album/7hE5oYhRUricYUex3QE5NH) | 4:11 | 2024-03-01 |  |
 | [Before Sunrise](https://open.spotify.com/track/3ZuljegwK9qaCU6YsOT4r3) | [Nagam](https://open.spotify.com/artist/6RfUxJHuVIllzy1KE8rLiu), [mac gray](https://open.spotify.com/artist/1MQuOJzZbSj6u5cevemdGd) | [Before Sunrise](https://open.spotify.com/album/2Q31TgtwPhJBtfqwugotBC) | 3:00 | 2024-02-02 |  |
@@ -36,13 +37,14 @@
 | [elegy](https://open.spotify.com/track/6mD8j5V2vq7B7Ut50RcPVM) | [glasseyed](https://open.spotify.com/artist/3Y38CJx9If6ZXXTWhKUjDG) | [elegy](https://open.spotify.com/album/5Xy2nSptvYN8FODDFXiJFZ) | 3:15 | 2024-02-02 |  |
 | [Endless Nights](https://open.spotify.com/track/4V50U0qH1s72n2J8Kxavdu) | [Cian Ducrot](https://open.spotify.com/artist/49jTY62Cpw3RYo4dLuG43W) | [Victory](https://open.spotify.com/album/4T0KHJNt0mCuAyXSXfhQc3) | 3:11 | 2024-02-02 | 2024-02-16 |
 | [fall](https://open.spotify.com/track/3uXd797WQGCiuEFPz9TVtM) | [new teeth](https://open.spotify.com/artist/4QUzOO8ZbUor3180J86hMa) | [fall](https://open.spotify.com/album/5lRPg4vIBciZ0EEqRJQ4Nu) | 4:03 | 2024-02-02 |  |
-| [Falling From Hell](https://open.spotify.com/track/4BZEczZvBsPhiQN17m8y4M) | [SOPHIE DOYLE RYDER](https://open.spotify.com/artist/5QCok3NH6vAlK12mUElHeZ) | [Falling From Hell](https://open.spotify.com/album/412fwKuOh9cJJ6bLKz8rkW) | 3:08 | 2024-02-02 |  |
+| [Falling From Hell](https://open.spotify.com/track/4BZEczZvBsPhiQN17m8y4M) | [SOPHIE DOYLE RYDER](https://open.spotify.com/artist/5QCok3NH6vAlK12mUElHeZ) | [Falling From Hell](https://open.spotify.com/album/412fwKuOh9cJJ6bLKz8rkW) | 3:08 | 2024-02-02 | 2024-03-22 |
 | [Follow Me](https://open.spotify.com/track/5g5lGBblSV6M0XMveLlGRn) | [Lucy McWilliams](https://open.spotify.com/artist/41AscmNq0sWTYo4gRCp21k) | [Follow Me](https://open.spotify.com/album/4Vn7Y2GexjvoLqp8Mwf8pH) | 3:59 | 2024-02-02 |  |
 | [FourFour](https://open.spotify.com/track/6UESDM5sT8nzLNwzBSpapT) | [Pat Lagoon](https://open.spotify.com/artist/4WaDfJax1AahnapPlsWsDs) | [FourFour](https://open.spotify.com/album/4e8yfABATTvhRx35Vq6nmX) | 2:00 | 2024-02-02 |  |
 | [Funeka](https://open.spotify.com/track/3eNfjouyFU9bTAeBB4eirf) | [Cooks But We're Chefs](https://open.spotify.com/artist/2Q9PBFjIjNgm7N5tyL0Z83) | [Funeka](https://open.spotify.com/album/2xwYWGQYsWdjQTI9Wxacr5) | 4:03 | 2024-02-02 | 2024-02-23 |
 | [Graveyard](https://open.spotify.com/track/6mRUh0RVFqjUP75Fm5eic7) | [Lucy Blue](https://open.spotify.com/artist/2bhd3BPOa3430RfyyB6moo) | [Graveyard](https://open.spotify.com/album/0MlaMXFXlpdVChmsFajK31) | 3:04 | 2024-02-02 | 2024-03-08 |
 | [Heat](https://open.spotify.com/track/6vAznmmD372DjfKqP1kKEf) | [vi0let](https://open.spotify.com/artist/3ZzSaEjPW9zwhYfvId1l0Q) | [Heat](https://open.spotify.com/album/28KACgx2D6lUoDXBWr55CE) | 3:13 | 2024-02-02 | 2024-02-16 |
 | [Heavy](https://open.spotify.com/track/02bA26OEe0nNFyE3YcNx4K) | [SPRINTS](https://open.spotify.com/artist/27nD8P491xX8UzG3j01eIY) | [Letter to Self](https://open.spotify.com/album/1PTPBDLcqveMGkymgIqZoZ) | 3:27 | 2024-02-02 |  |
+| [HOW?](https://open.spotify.com/track/2RcfOEcNwkfwNzcnE9dYDf) | [Salamay](https://open.spotify.com/artist/6IAMyGk690Lb56glwkxTx0) | [HOW?](https://open.spotify.com/album/4Ah5nt1P0ClcZRbTTrrqAC) | 3:36 | 2024-03-22 |  |
 | [i shouldn’t be here](https://open.spotify.com/track/20GibSptxBlsWlJRwWOsrB) | [Luz](https://open.spotify.com/artist/3cdI6SvJ24KsOcvYyBwH9c) | [i shouldn’t be here](https://open.spotify.com/album/2LywM7oEuEHwX5wofh6Gg7) | 3:06 | 2024-02-02 |  |
 | [If The Shoe Fits](https://open.spotify.com/track/4IkaBc35ZYwa1CKUwyUhum) | [The Cliffords](https://open.spotify.com/artist/2JIXE3g9E0kfeFWhpKPIja) | [If The Shoe Fits](https://open.spotify.com/album/2pDiTlS5ujC2LDsWOefnNS) | 3:31 | 2024-02-23 |  |
 | [If You Were Mine](https://open.spotify.com/track/2PhaGDLA9sgHUZV5oidTFQ) | [Robert John Ardiff](https://open.spotify.com/artist/6EGnIjpNcG5bArBuOxcgJ7) | [Once I Was](https://open.spotify.com/album/5MsCcv0akW9QgcJSoKSySx) | 4:53 | 2024-02-02 |  |
@@ -79,6 +81,7 @@
 | [Outside](https://open.spotify.com/track/0I2xts4kga2ulOC3yM0roB) | [Syano](https://open.spotify.com/artist/58OyCAJb1NYuQMhCeuq8Rt), [SYGH](https://open.spotify.com/artist/5uVm4NbxKsMNTQF3KXGzPN) | [Outside](https://open.spotify.com/album/5DU1INumD6DSbYL4odHEkG) | 2:54 | 2024-02-02 |  |
 | [People](https://open.spotify.com/track/0xi7qZJw7b1colPIEGG8bB) | [Disfreq](https://open.spotify.com/artist/2r6S8dhE6TLxyYJndSd345) | [People](https://open.spotify.com/album/3FFC8lDz8RhvpHtO89NLix) | 3:44 | 2024-02-02 | 2024-03-08 |
 | [Plans](https://open.spotify.com/track/73wrWfbOAms1ZouKuBuh0D) | [modernlove.](https://open.spotify.com/artist/2u17Ej1u0JHyRsstmofsrh) | [Plans](https://open.spotify.com/album/3fGvMYRJ29zRyoHfsPU9z6) | 2:55 | 2024-02-02 |  |
+| [Pretty Happy Alone](https://open.spotify.com/track/1qwG5MyG0BnBDzAWOfLusM) | [The Love Buzz](https://open.spotify.com/artist/103TWTu6vxVZ9g6eqA1ntP) | [Pretty Happy Alone](https://open.spotify.com/album/4CflMNEveOX5PvgU1MHUXq) | 3:02 | 2024-03-22 |  |
 | [Put The Blame On Me](https://open.spotify.com/track/6uOMsRNuCaoLRQXFrmgrBc) | [J.F.O](https://open.spotify.com/artist/7tildDuwYhitQgNrXSLDGh) | [Put The Blame On Me](https://open.spotify.com/album/0TdvL5XWxschpsWOdkTRb1) | 2:36 | 2024-03-08 |  |
 | [Quick Fix](https://open.spotify.com/track/5ReMXn9NCcwKJVwQT4HlWq) | [Ezra Williams](https://open.spotify.com/artist/0vNuaHjk7DINrw3iRkYs48) | [Quick Fix](https://open.spotify.com/album/4Zki0CQv6Bx2J1o4bJkDRn) | 4:18 | 2024-03-08 |  |
 | [rain](https://open.spotify.com/track/2mFHuOSkUuTjknIcm9z1v5) | [wxlfcut](https://open.spotify.com/artist/4KsTSYMKkgKaRpPAbjbLnJ) | [rain](https://open.spotify.com/album/704xBAoF4PQXfM188RR020) | 3:08 | 2024-02-16 |  |
@@ -96,7 +99,7 @@
 | [Stolen](https://open.spotify.com/track/71r6gdFkApNiV60zU6WjlI) | [Lea Heart](https://open.spotify.com/artist/18tR4JqMqRMeIQsexVMLHz) | [Stolen](https://open.spotify.com/album/4pkyc4VKlD6dTStSdWPFUX) | 3:40 | 2024-02-02 | 2024-03-15 |
 | [straight out the oven !](https://open.spotify.com/track/4RNFQj2OhHlaeQK6S3hKac) | [SPIDER](https://open.spotify.com/artist/4SKFiKjEPLdlpXSOQZhlsi) | [straight out the oven !](https://open.spotify.com/album/1xMSlBl1FaPiCJIZ8ppofk) | 3:04 | 2024-02-02 | 2024-02-16 |
 | [Sundays Are Always Quiet](https://open.spotify.com/track/5ZRKBK7ZQ7QPoIXUHp1kp4) | [NO PHOTOS](https://open.spotify.com/artist/3mvQJ3cm3cAdBedt4dSa5c) | [Sundays Are Always Quiet](https://open.spotify.com/album/69ZzM7bllu9g0C5YsMAyIo) | 3:37 | 2024-02-02 |  |
-| [Taken Out By The Wind](https://open.spotify.com/track/0d4krr4O0gFMnBCncqKNbS) | [Annika Kilkenny](https://open.spotify.com/artist/6BPf3YvvXG87cFZPT9WQgx) | [Taken Out By The Wind](https://open.spotify.com/album/1HP8SGPqIvgcmOEqiwKFz2) | 2:51 | 2024-02-02 |  |
+| [Taken Out By The Wind](https://open.spotify.com/track/0d4krr4O0gFMnBCncqKNbS) | [Annika Kilkenny](https://open.spotify.com/artist/6BPf3YvvXG87cFZPT9WQgx) | [Taken Out By The Wind](https://open.spotify.com/album/1HP8SGPqIvgcmOEqiwKFz2) | 2:51 | 2024-02-02 | 2024-03-22 |
 | [Teeth](https://open.spotify.com/track/368TV7O9qxwJcDilBt68iz) | [Nell Mescal](https://open.spotify.com/artist/4jRq9On9S1F6JkTebaZHqE) | [Teeth](https://open.spotify.com/album/0rOsqiiI0Ek08YYv3jEm3U) | 3:52 | 2024-02-02 | 2024-03-02 |
 | [The First Time](https://open.spotify.com/track/6QHVGZoT5oZqIbn2TkpNW6) | [Stella and the Dreaming](https://open.spotify.com/artist/3GOfdAHQH8AfUfA2lisXp6) | [The First Time](https://open.spotify.com/album/2lMsA1YGTTt93coLMkAlFP) | 4:27 | 2024-02-16 |  |
 | [The Moment](https://open.spotify.com/track/0Cm3GLhnwLN7C5p3gvoF0F) | [Elaine Mai](https://open.spotify.com/artist/0wRHsCARScopB5WmbQzMcy), [soft centre](https://open.spotify.com/artist/3Aq9mGuowzDwPP8Go1FHZy) | [The Moment](https://open.spotify.com/album/4H1qLDeGdpoQFdpZjiX5MR) | 2:46 | 2024-02-02 | 2024-02-23 |
@@ -111,8 +114,9 @@
 | [What Can I Do](https://open.spotify.com/track/60fPbVgMVPyeupXThhwYsr) | [Seán Parnell](https://open.spotify.com/artist/4T2113mnfHPC18oWfR1n5u) | [What Can I Do](https://open.spotify.com/album/1gwzS5aSIiElQqOrjyY671) | 3:50 | 2024-02-02 |  |
 | [WHAT IF?](https://open.spotify.com/track/5M6eDxEy9OdZNAGvmqmyXv) | [Kojaque](https://open.spotify.com/artist/3ZHJIsD3uMwwjXlSpDzPtY), [Charlotte Dos Santos](https://open.spotify.com/artist/0INatsTiEOX0EJimNTQjSM) | [PHANTOM OF THE AFTERS](https://open.spotify.com/album/5qTMbYlI0vyyAHtOhajcOy) | 3:27 | 2024-02-02 |  |
 | [Who's That Girl](https://open.spotify.com/track/6w61gKlPulkVsGTxx4hzVl) | [KhakiKid](https://open.spotify.com/artist/6ERytyft8dcTGIVtiuNpxp), [CHAMELEON](https://open.spotify.com/artist/46lv0U33sExwKvxwCwaDKK), [CARSTEN2X](https://open.spotify.com/artist/0Un2To5Ct6WgajC9z1xDud) | [Who's That Girl](https://open.spotify.com/album/0oLjDXlF2nNcEdDVUyCDTo) | 2:29 | 2024-02-02 |  |
-| [WOOWOO](https://open.spotify.com/track/0Gz8cNtbexZBFs7snkBrJT) | [Monjola](https://open.spotify.com/artist/1hwy1qY69O1tCOAm7MYeq6) | [WOOWOO](https://open.spotify.com/album/6JcwvHkhXgdweirnmLW8dq) | 3:21 | 2024-02-02 |  |
-| [Words](https://open.spotify.com/track/6t2vz11wR5Jzs1b1KHfDmn) | [SIIGHTS](https://open.spotify.com/artist/59wzcVw9vvQvKIEHddgF7n) | [Words](https://open.spotify.com/album/1uRqKyjf4aSw8g68tXy754) | 2:40 | 2024-02-02 |  |
+| [Wishes](https://open.spotify.com/track/5ehWzatobIYySYrZB0HJ5K) | [Valerie Rose](https://open.spotify.com/artist/07ti3q3QcT6Xe8eCFNlZlZ) | [Wishes](https://open.spotify.com/album/0z4M9I9uvQgCX03hlCcpdC) | 2:54 | 2024-03-22 |  |
+| [WOOWOO](https://open.spotify.com/track/0Gz8cNtbexZBFs7snkBrJT) | [Monjola](https://open.spotify.com/artist/1hwy1qY69O1tCOAm7MYeq6) | [WOOWOO](https://open.spotify.com/album/6JcwvHkhXgdweirnmLW8dq) | 3:21 | 2024-02-02 | 2024-03-22 |
+| [Words](https://open.spotify.com/track/6t2vz11wR5Jzs1b1KHfDmn) | [SIIGHTS](https://open.spotify.com/artist/59wzcVw9vvQvKIEHddgF7n) | [Words](https://open.spotify.com/album/1uRqKyjf4aSw8g68tXy754) | 2:40 | 2024-02-02 | 2024-03-22 |
 | [Wretched](https://open.spotify.com/track/0UpfYdgOKjW6ui1TNnkJUZ) | [Pa Sheehy](https://open.spotify.com/artist/7n17tju4Xhlj1IkZR4Q2LX) | [Wretched](https://open.spotify.com/album/4fYvu8Dm4AHQtHeVJOprrH) | 3:36 | 2024-02-02 |  |
 | [You're My Medicine](https://open.spotify.com/track/1gXk7JzeRTPJn9ugLErbNb) | [Greywind](https://open.spotify.com/artist/3QFfYJq7jdx8GnVrePpZm4) | [You're My Medicine](https://open.spotify.com/album/3DuCbWlWRyCwqctRcICOiZ) | 3:12 | 2024-02-16 |  |
 

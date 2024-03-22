@@ -1,12 +1,12 @@
 {
   "description": "Indie folk that defined the 2000s.",
-  "num_followers": 92865,
+  "num_followers": 92939,
   "original_name": "00s Indie Folk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0MDIzOWYwMmY2YThmOTM3ZjJiZDgyNDU3NGQ0ZjQ5ZTU1NmI0N2Ri",
+  "snapshot_id": "MCwxM2Q1NTNiYjUyYzk1NmYzMDUyNjJmY2M0MmE3NThiYjhkMjM0OGQ5",
   "tracks": [
     {
       "added_at": "2022-02-04 22:01:34",
@@ -863,22 +863,6 @@
     {
       "added_at": "2022-02-04 22:01:34",
       "album": {
-        "name": "Alas I Cannot Swim",
-        "url": "https://open.spotify.com/album/1P3B7c85W4mTXHk0fafGw2"
-      },
-      "artists": [
-        {
-          "name": "Laura Marling",
-          "url": "https://open.spotify.com/artist/7B2edU3Q7btJoNsoHCNohM"
-        }
-      ],
-      "duration_ms": 179960,
-      "name": "Ghosts",
-      "url": "https://open.spotify.com/track/3LHg768dEKqJKht2uPTlVR"
-    },
-    {
-      "added_at": "2022-02-04 22:01:34",
-      "album": {
         "name": "Our Endless Numbered Days (Deluxe Edition)",
         "url": "https://open.spotify.com/album/169vCBCFaW2na816P8Ir7m"
       },
@@ -891,6 +875,22 @@
       "duration_ms": 207773,
       "name": "Each Coming Night",
       "url": "https://open.spotify.com/track/2xa9PoO42d7VjT0KqG5d3I"
+    },
+    {
+      "added_at": "2022-02-04 22:01:34",
+      "album": {
+        "name": "Alas I Cannot Swim",
+        "url": "https://open.spotify.com/album/1P3B7c85W4mTXHk0fafGw2"
+      },
+      "artists": [
+        {
+          "name": "Laura Marling",
+          "url": "https://open.spotify.com/artist/7B2edU3Q7btJoNsoHCNohM"
+        }
+      ],
+      "duration_ms": 179960,
+      "name": "Ghosts",
+      "url": "https://open.spotify.com/track/3LHg768dEKqJKht2uPTlVR"
     },
     {
       "added_at": "2022-02-04 22:01:34",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2022-02-04 22:01:34",
       "album": {
-        "name": "A Larum",
-        "url": "https://open.spotify.com/album/4si1HNK1gPFAYfONE19eih"
-      },
-      "artists": [
-        {
-          "name": "Johnny Flynn",
-          "url": "https://open.spotify.com/artist/1UQRtt7eHW6Bt4INNTUtb3"
-        }
-      ],
-      "duration_ms": 247080,
-      "name": "The Wrote & The Writ",
-      "url": "https://open.spotify.com/track/1vLH58T2L3uHryV2JAT8rk"
-    },
-    {
-      "added_at": "2022-02-04 22:01:34",
-      "album": {
         "name": "The Crane Wife",
         "url": "https://open.spotify.com/album/4qvFBtRrwbSgoH3nyVlTCp"
       },
@@ -1051,6 +1035,22 @@
       "duration_ms": 313600,
       "name": "Sons & Daughters",
       "url": "https://open.spotify.com/track/721tATaNQPPGSuC3dYEI3h"
+    },
+    {
+      "added_at": "2022-02-04 22:01:34",
+      "album": {
+        "name": "A Larum",
+        "url": "https://open.spotify.com/album/4si1HNK1gPFAYfONE19eih"
+      },
+      "artists": [
+        {
+          "name": "Johnny Flynn",
+          "url": "https://open.spotify.com/artist/1UQRtt7eHW6Bt4INNTUtb3"
+        }
+      ],
+      "duration_ms": 247080,
+      "name": "The Wrote & The Writ",
+      "url": "https://open.spotify.com/track/1vLH58T2L3uHryV2JAT8rk"
     },
     {
       "added_at": "2022-02-04 22:01:34",
@@ -1279,22 +1279,6 @@
     {
       "added_at": "2022-02-04 22:01:34",
       "album": {
-        "name": "Emotionalism (Bonus Track Version)",
-        "url": "https://open.spotify.com/album/4pb5b6XKuzzh5CqPFOzptQ"
-      },
-      "artists": [
-        {
-          "name": "The Avett Brothers",
-          "url": "https://open.spotify.com/artist/196lKsA13K3keVXMDFK66q"
-        }
-      ],
-      "duration_ms": 320520,
-      "name": "The Ballad of Love and Hate",
-      "url": "https://open.spotify.com/track/49YQ9Mq8CKelQsmjdNiICu"
-    },
-    {
-      "added_at": "2022-02-04 22:01:34",
-      "album": {
         "name": "Wilco (The Album)",
         "url": "https://open.spotify.com/album/1cezxBJdWm1Xod9ZiGy4YE"
       },
@@ -1307,6 +1291,22 @@
       "duration_ms": 205240,
       "name": "You and I",
       "url": "https://open.spotify.com/track/2fdMAIsNH4wY7RRda8aCfL"
+    },
+    {
+      "added_at": "2022-02-04 22:01:34",
+      "album": {
+        "name": "Emotionalism (Bonus Track Version)",
+        "url": "https://open.spotify.com/album/4pb5b6XKuzzh5CqPFOzptQ"
+      },
+      "artists": [
+        {
+          "name": "The Avett Brothers",
+          "url": "https://open.spotify.com/artist/196lKsA13K3keVXMDFK66q"
+        }
+      ],
+      "duration_ms": 320520,
+      "name": "The Ballad of Love and Hate",
+      "url": "https://open.spotify.com/track/49YQ9Mq8CKelQsmjdNiICu"
     },
     {
       "added_at": "2022-02-04 22:01:34",

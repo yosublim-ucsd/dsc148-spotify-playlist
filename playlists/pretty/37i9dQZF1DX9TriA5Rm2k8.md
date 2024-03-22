@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9TriA5Rm2k8.md) - [plain]
 
 > Just good energy
 
-[Spotify](https://open.spotify.com/user/spotify) - 499,873 likes - 70 songs - 3 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 499,920 likes - 70 songs - 3 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9TriA5Rm2k8.md) - [plain]
 | 69 | [One Night/All Night](https://open.spotify.com/track/7sjuNUjWtSqhbxJ3RAUffm) | [Justice](https://open.spotify.com/artist/1gR0gsQYfi6joyO1dlp76N), [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [One Night/All Night](https://open.spotify.com/album/3ISYaclw23kCz3IZtn7koK) | 4:36 |
 | 70 | [You Were Right](https://open.spotify.com/track/5HGxLtYxTriF7mMiriSpaz) | [RÜFÜS DU SOL](https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj) | [Bloom](https://open.spotify.com/album/4EAehCii5lZgeewct1LA5p) | 3:59 |
 
-Snapshot ID: `MCxiM2I0NDNhYzBhMzk2NmVhNjc0MWJiNDU3YWIzZTk4MGUxZTRhMjg1`
+Snapshot ID: `MCxjNjE5YTg0NzUzMjAxZTM5NjEwNGM4YjEyMWY3ZDUwNTI4N2RiMjdi`

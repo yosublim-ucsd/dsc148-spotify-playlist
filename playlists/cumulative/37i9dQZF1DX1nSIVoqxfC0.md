@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:2o5jDhtHVPhrJdv3cEQ99Z">Tiësto</a>'s best songs, remixes and compilations.
 
-350 songs - 23 hr 58 min
+351 songs - 1 day 0 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -341,6 +341,7 @@
 | [What Can We Do \(A Deeper Love\) \[Third Party Remix\]](https://open.spotify.com/track/0fZcUKiKd8wTrLyuWa0rgV) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [Club Life \- Volume 2 Miami](https://open.spotify.com/album/5P21DkmdD7MiWR05Mde1Cc) | 4:45 | 2020-10-20\* | 2023-04-20 |
 | [What You're Waiting For](https://open.spotify.com/track/0mUtN2a5yIHZrXv1aEUF9I) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Ummet Ozcan](https://open.spotify.com/artist/7e1BNCygl2Gf7CX8LrByPv) | [What You're Waiting For](https://open.spotify.com/album/2bXp7Xqxcxb47yfzICwnkN) | 3:37 | 2022-07-28 |  |
 | [What You're Waiting For](https://open.spotify.com/track/4inKPmBZEsaliyrvuogyUx) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Ummet Ozcan](https://open.spotify.com/artist/7e1BNCygl2Gf7CX8LrByPv) | [What You're Waiting For](https://open.spotify.com/album/5RTnun8PXdAh2CmINeo4bh) | 3:37 | 2020-10-20\* | 2022-07-29 |
+| [Whatever \- Tiësto Remix](https://open.spotify.com/track/5uiQAY4i9oTGf79rgcf5jr) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F), [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [Whatever \(Tiësto Remix\)](https://open.spotify.com/album/3vN2jv2disCD8vZEzZIv5Q) | 2:45 | 2024-03-21 |  |
 | [Who Wants To Be Alone](https://open.spotify.com/track/5cxgZDQYUQd5mLaDc1g8be) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Nelly Furtado](https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc) | [Kaleidoscope](https://open.spotify.com/album/3LWrYfernAQQUBvxlPxeZd) | 4:36 | 2020-10-20\* | 2022-07-29 |
 | [Who Wants To Be Alone \(feat\. Nelly Furtado\)](https://open.spotify.com/track/3WfoQvWG7u6BtwtfURGv8F) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Nelly Furtado](https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc) | [Kaleidoscope](https://open.spotify.com/album/3L7HojVI3ELv05boMWUKDv) | 4:36 | 2022-07-28 |  |
 | [Winterbreak \- Tiësto's Deep House Remix](https://open.spotify.com/track/2I0Q1wxFRdnDYtG6Q8W47S) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn), [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [Winterbreak \(Tiësto's Deep House Remix\)](https://open.spotify.com/album/7ccDO8emz6ZdD9uFKZIQsR) | 3:48 | 2020-10-20\* | 2023-04-20 |

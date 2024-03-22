@@ -4,7 +4,7 @@
 
 > 陰キャでもいい。集団になじめなくてもいい。ひとりで過ごす時間にも、音楽はそっと寄り添ってくれる。 Illustration by <a href="https://twitter.com/hoshieri7">北村英理</a>\(Eri Kitamura\)
 
-96 songs - 6 hr 21 min
+97 songs - 6 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -99,7 +99,8 @@
 | [神様の運命論](https://open.spotify.com/track/0wgTyizl02IVoz88j2zOs4) | [Mel](https://open.spotify.com/artist/2T4LjvsrIhyjcLqNEDaCQ2), [The Burning Deadwoods](https://open.spotify.com/artist/2lj0Y6kO4BIGSvRGQq3V9k) | [神様の運命論](https://open.spotify.com/album/1Weuos0rHJFN3IcTcRTkDg) | 4:27 | 2024-02-13 |  |
 | [秘密の](https://open.spotify.com/track/21HHx5khXbKGckVI2gEH6h) | [Aki](https://open.spotify.com/artist/7pklqikA3qMThlqyH4zghL) | [秘密の](https://open.spotify.com/album/2PVW5hX4UvLXzhqOMCB8Wk) | 4:28 | 2024-01-23 |  |
 | [華奢な心](https://open.spotify.com/track/4I2zu5SjESe8F8AyZLtOVC) | [AiNA THE END](https://open.spotify.com/artist/5k7KS34gxQbzdQaXWSOVKC) | [華奢な心](https://open.spotify.com/album/2MCrgO6b1EiTlkNY76i4Mw) | 4:21 | 2023-11-28 | 2024-01-10 |
-| [萌](https://open.spotify.com/track/0mKWFi26UzF83bie9CIrDm) | [離婚伝説](https://open.spotify.com/artist/0fLlzy1mzxu6XItsSY5KN2) | [萌](https://open.spotify.com/album/6DnW96P5uz81LMRm3RnSEI) | 4:29 | 2024-01-10 |  |
+| [萌](https://open.spotify.com/track/7fiWo0v1vbyPC1l7o7Ve4m) | [離婚伝説](https://open.spotify.com/artist/0fLlzy1mzxu6XItsSY5KN2) | [離婚伝説](https://open.spotify.com/album/6EUUyYF65ypQvxmhjk17zb) | 4:28 | 2024-03-05 |  |
+| [萌](https://open.spotify.com/track/0mKWFi26UzF83bie9CIrDm) | [離婚伝説](https://open.spotify.com/artist/0fLlzy1mzxu6XItsSY5KN2) | [萌](https://open.spotify.com/album/6DnW96P5uz81LMRm3RnSEI) | 4:29 | 2024-01-10 | 2024-03-22 |
 | [融解sink](https://open.spotify.com/track/1CC9gpmBhKRr9SzYEfStct) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [replica](https://open.spotify.com/album/4LWbfv8uvEF3oz7YBFxmzn) | 4:03 | 2023-11-21 | 2024-01-24 |
 | [誰も愛せない人](https://open.spotify.com/track/5ahkofqf1BnGivr8HTKwrG) | [Tele](https://open.spotify.com/artist/2DesRdo7rppo0VC8cR3vsf) | [NEW BORN GHOST](https://open.spotify.com/album/7I0gE5xwblR3qtvT3Z4uxc) | 3:20 | 2023-11-21 | 2023-11-29 |
 | [谺する](https://open.spotify.com/track/6UnwxlaVawV7eqFkjhixL5) | [SUDA MASAKI](https://open.spotify.com/artist/6n4SsAp5VjvIBg3s9QCcPX) | [谺する](https://open.spotify.com/album/5rneoMxGzl8AKW3Pqxj11O) | 5:00 | 2024-01-30 | 2024-02-15 |

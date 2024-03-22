@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 
 > Os lançamentos dessa semana incluem MC Caverinha, Vulgo FK, Baco Exu do Blues e muito mais!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,919,954 likes - 69 songs - 3 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,920,124 likes - 69 songs - 3 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,4 +78,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 | 68 | [Escondendo Lágrimas \- Ao Vivo](https://open.spotify.com/track/6VJYfOsRGW1E36jB4w3h5p) | [Pedro Sanchez e Thiago](https://open.spotify.com/artist/6VBTBqiHqTgZuWflGadSW5) | [Escondendo Lágrimas \(Ao Vivo\)](https://open.spotify.com/album/1ZO3ddfWJXcBn4YU5Ofinh) | 2:58 |
 | 69 | [Só Nós Três](https://open.spotify.com/track/7e8lDdCxjeF0drP52l1B2a) | [Diego Faco](https://open.spotify.com/artist/60a9Gfh622Iz7aPSgxsrtm), [Baile do Ed](https://open.spotify.com/artist/1Ptcfd6mku1YXqd5lTbnV8) | [Só Nós Três](https://open.spotify.com/album/0PDh2X9PuU0ZSklOT6PXZG) | 2:34 |
 
-Snapshot ID: `MCw2ODRjZTE3M2JjNWNlNGVmZjE2N2ZmNTRlNjlmNGIwMDY2NWQ0YjZi`
+Snapshot ID: `MCxkMmI2ZjZlYTIwYjc3YWUyODYzMGRlZDc4ZDk0OTVkN2QzODI0YThm`

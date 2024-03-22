@@ -4,7 +4,7 @@
 
 > Your go to Afrobeats workout playlist
 
-374 songs - 19 hr 14 min
+375 songs - 19 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -115,7 +115,7 @@
 | [Empini](https://open.spotify.com/track/2DAox48qc6LqTuujKSdQTf) | [Snow Deep](https://open.spotify.com/artist/31wydQx3Jc53Ql9whp9yP1), [Murumba Pitch](https://open.spotify.com/artist/3cd7plsjSmDdQ0oHESYHC4), [DJ THE MXO](https://open.spotify.com/artist/3PE9L43fjymtOSiKNe7zJw) | [Empini](https://open.spotify.com/album/3LwVVWkBDijiVd6CSsEvED) | 5:48 | 2022-06-16 | 2022-07-26 |
 | [Energy](https://open.spotify.com/track/44mZGWI8y8Iku5lNOPBTUr) | [Silly Walks Discotheque](https://open.spotify.com/artist/6VUJvKOKnSE0RHbbtqfgKH), [Jay Teazer](https://open.spotify.com/artist/3NJtgj1RyywLt9iGtxxjsl), [Killashay](https://open.spotify.com/artist/1D77wT9J4xlUWqO7YZgB3N), [Konshens](https://open.spotify.com/artist/3nwYsifpwrKmCIpw4i0HDW) | [Energy](https://open.spotify.com/album/0rDA4Ouw7MWAota6SFg3C5) | 3:09 | 2022-07-14 | 2022-07-24 |
 | [Ex Convict](https://open.spotify.com/track/3Q4oVlA6z9TH0jhaDl6aNT) | [Shallipopi](https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU) | [Ex Convict](https://open.spotify.com/album/1ZNJEECHv1mt8ktam5iX6i) | 3:22 | 2023-07-14 | 2023-11-23 |
-| [Ex Convict](https://open.spotify.com/track/5WAFaje0Cs3hHhNqjUIfY6) | [Shallipopi](https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU) | [Ex Convict](https://open.spotify.com/album/5Y0FIl4JX5S1vvm5Kc8OHh) | 3:22 | 2023-11-17 |  |
+| [Ex Convict](https://open.spotify.com/track/5WAFaje0Cs3hHhNqjUIfY6) | [Shallipopi](https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU) | [Ex Convict](https://open.spotify.com/album/5Y0FIl4JX5S1vvm5Kc8OHh) | 3:22 | 2023-11-17 | 2024-03-22 |
 | [Far Away](https://open.spotify.com/track/0xHd7j5lVaKaHbOjs0EXIq) | [Dangbana Republik](https://open.spotify.com/artist/5ezmlxcj3HQvg2XZamXlZK), [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM) | [High Tension 2.0](https://open.spotify.com/album/43564usP2MXDmGPsjPHL8q) | 3:19 | 2021-07-09 | 2022-08-02 |
 | [Faya](https://open.spotify.com/track/11Q7avc3GINHS2pSxso0vF) | [Bad Boy Timz](https://open.spotify.com/artist/68R39izwNAztATrXMOqkJS), [EMPIRE](https://open.spotify.com/artist/3hPFJ4ShHVEAaL689YeblD) | [Where We Come From, Vol\. 01](https://open.spotify.com/album/6w7LwKRKvtm3XjmUCvhVWO) | 2:10 | 2022-12-02 | 2023-09-26 |
 | [Feel Different](https://open.spotify.com/track/0nTgtjFQzLhvU3VLciMPlN) | [Reekado Banks](https://open.spotify.com/artist/3bxZkzk0PLHcetO9o4oxXn), [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s), [Maleek Berry](https://open.spotify.com/artist/520qA5VGL9iI0SbmEnTVNg) | [Feel Different](https://open.spotify.com/album/3WkYJGUSNOTvGoe4YkIVjM) | 2:59 | 2023-06-09 | 2023-06-17 |
@@ -234,6 +234,7 @@
 | [Meliza \- Remix](https://open.spotify.com/track/59V2RCdZkPhiHTjxhiojjx) | [DJ Flex](https://open.spotify.com/artist/6CDGm9cf1yeCLD147Zs125), [Crayon](https://open.spotify.com/artist/3Uv5hfyuC7TkLsQ6p4ikSb), [Minz](https://open.spotify.com/artist/2XNwtpu314ZSFziTt0ZqZT) | [Meliza \(Remix\)](https://open.spotify.com/album/10XuUdyqYKBGeum6omV8J5) | 3:15 | 2022-05-12 | 2022-08-22 |
 | [Mercy](https://open.spotify.com/track/6cbXdjQNKiBCax7RJ6drQ8) | [Falz](https://open.spotify.com/artist/2s187JqHC9kipPLBLWXubl) | [Mercy](https://open.spotify.com/album/7sYq23Sw8YNg1mupHgkwK8) | 2:20 | 2021-08-13 | 2022-07-29 |
 | [Militerian \(feat\. Naira Marley\)](https://open.spotify.com/track/0oBDJWGnTJs9C0Ax90tMj0) | [J Hus](https://open.spotify.com/artist/2a0uxJgbvvIRI4GX8pYfcr), [Naira Marley](https://open.spotify.com/artist/5DfaMudUwkoz6TAPYifqkJ) | [Beautiful And Brutal Yard](https://open.spotify.com/album/766bxryPZBL0hjz0KM6VUD) | 3:13 | 2023-07-14 | 2023-10-18 |
+| [Minding My Business](https://open.spotify.com/track/1qexUMtMWGdP1wGcGYkNJs) | [Korede Bello](https://open.spotify.com/artist/2TwUVWFJs4LD0lOBbJXnNa), [Don Jazzy](https://open.spotify.com/artist/3orxvFDFViCLknRO2O2m8a) | [Minding My Business](https://open.spotify.com/album/1JlZVS3ByAW0f2cHzv3eRS) | 2:53 | 2024-03-22 |  |
 | [Monalisa](https://open.spotify.com/track/3NpdO4m9a4ycSQvPRCHPlZ) | [T\-Classic](https://open.spotify.com/artist/2nR9FjLTz90sFqGrhYdzXE) | [Monalisa](https://open.spotify.com/album/16xQ19NSELl7Cx78b5tVEM) | 2:28 | 2023-06-02 | 2023-06-17 |
 | [Money is A Must](https://open.spotify.com/track/6XBjoQyHpxdNxkLKZb4j9u) | [Vibez Inc](https://open.spotify.com/artist/6Pq8bOPyCrqbKg02JE1jlu), [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx), [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s) | [Money is A Must](https://open.spotify.com/album/4256OlluZzbCNTEngtqnZJ) | 2:51 | 2023-11-03 | 2023-11-09 |
 | [Monica](https://open.spotify.com/track/5gL8d9dzG8wU4BYgJOGy0B) | [Kuami Eugene](https://open.spotify.com/artist/0GGKrcPOlBkmBzQDf2Ogkl) | [LOVE AND CHAOS](https://open.spotify.com/album/0lpxbiuXWT5ofEGgo3Yh9h) | 2:56 | 2023-12-08 |  |

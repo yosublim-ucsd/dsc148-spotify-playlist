@@ -2,7 +2,7 @@
 
 ### [le miel](https://open.spotify.com/playlist/37i9dQZF1DWTQZRn97DpO8)
 
-> Quand R&B francophone rime avec douceur 🍯\. Photo : Jäde
+> Quand R&B francophone rime avec douceur 🍯\. Photo : Ocevne
 
 128 songs - 6 hr 17 min
 
@@ -44,8 +44,8 @@
 | [Entre nous \(ft\. Cinco\)](https://open.spotify.com/track/5VbARAAqegErQsxjwhzqrf) | [Jaïa Rose](https://open.spotify.com/artist/3uwTDwvi4L9Zo18M5oiZ3Y), [Cinco](https://open.spotify.com/artist/3S8r9fkqybCCXJLhZGA3r1) | [Star Magazine](https://open.spotify.com/album/4WR46VLHEnxNCVdUKyEKQe) | 3:05 | 2024-03-07 |  |
 | [Est\-ce que c'est par là qu'on pleure?](https://open.spotify.com/track/446noPVjJUgf4s9h43mbgE) | [LYNN](https://open.spotify.com/artist/2iKQgImU0tNvy43Qs0lfyX) | [3x5](https://open.spotify.com/album/2DlmOBqh9CEFA1dfAh9I2U) | 2:22 | 2023-11-23 |  |
 | [Fallait pas](https://open.spotify.com/track/6qZSdA8GC5aojquKNFERI5) | [Awa Lemen](https://open.spotify.com/artist/2Q3dL2MjiG85qgYsQNrxXH) | [Fallait pas](https://open.spotify.com/album/42zBmpDY703Nm7x9EPWb15) | 2:38 | 2023-09-28 | 2023-12-08 |
-| [Get out](https://open.spotify.com/track/2TmZvS9mrPnIAcd5OsEHAx) | [Jäde](https://open.spotify.com/artist/52CEzAtIDEJInO8yL0blFB), [Zamdane](https://open.spotify.com/artist/5CtPAGoxpJ4yLJLx6CSrO8) | [Get out](https://open.spotify.com/album/66wO4PPB1dAupIjGHCI4X5) | 2:41 | 2024-03-14 | 2024-03-18 |
-| [Get out](https://open.spotify.com/track/7DAlqXg9qH3ZPV43aMQIto) | [Jäde](https://open.spotify.com/artist/52CEzAtIDEJInO8yL0blFB), [Zamdane](https://open.spotify.com/artist/5CtPAGoxpJ4yLJLx6CSrO8) | [Les Malheurs de Jäde](https://open.spotify.com/album/2pZqWuWxGsGTSj6s7C3OfQ) | 2:41 | 2024-03-14 |  |
+| [Get out](https://open.spotify.com/track/2TmZvS9mrPnIAcd5OsEHAx) | [Jäde](https://open.spotify.com/artist/52CEzAtIDEJInO8yL0blFB), [Zamdane](https://open.spotify.com/artist/5CtPAGoxpJ4yLJLx6CSrO8) | [Get out](https://open.spotify.com/album/66wO4PPB1dAupIjGHCI4X5) | 2:41 | 2024-03-14 |  |
+| [Get out](https://open.spotify.com/track/7DAlqXg9qH3ZPV43aMQIto) | [Jäde](https://open.spotify.com/artist/52CEzAtIDEJInO8yL0blFB), [Zamdane](https://open.spotify.com/artist/5CtPAGoxpJ4yLJLx6CSrO8) | [Les Malheurs de Jäde](https://open.spotify.com/album/2pZqWuWxGsGTSj6s7C3OfQ) | 2:41 | 2024-03-14 | 2024-03-22 |
 | [GIGI](https://open.spotify.com/track/4Rkru3YgYVOCufUoq1uY8H) | [Swing](https://open.spotify.com/artist/0OQMxt6l70FM2YlLwYDiEn) | [AU REVOIR SIMEON](https://open.spotify.com/album/1HhZFt1UjtsZaQZCHwoMaR) | 0:56 | 2024-01-18 | 2024-02-23 |
 | [GOLDEN WAY!](https://open.spotify.com/track/6ZCoczOfIDZdtnYOhAZ1CL) | [Kyma](https://open.spotify.com/artist/6wrf5UOcbmUA5P9h76uYit) | [GOLDEN WAY!](https://open.spotify.com/album/6joIZOvnrt7CTmyzUpuwLE) | 3:22 | 2023-10-19 | 2023-12-22 |
 | [Henny n Shit](https://open.spotify.com/track/4nZeTqowlfbouZYxPvLpDZ) | [KOKEÏNEJTD](https://open.spotify.com/artist/1QiNcFh9MLHHNvKxjntbsP) | [Henny n Shit](https://open.spotify.com/album/3d53OX8mso58CDSjaWHMv3) | 2:42 | 2024-02-01 | 2024-03-01 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXxHKfMUcVv1.md) - [plain]
 
 > Música refrescante, para vencer el calor.
 
-[Spotify](https://open.spotify.com/user/spotify) - 114,703 likes - 50 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 114,737 likes - 50 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,8 +27,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXxHKfMUcVv1.md) - [plain]
 | 17 | [Sera que nunca le sucedio](https://open.spotify.com/track/5llQvY4EAgURqmbcFj75Gi) | [Escucha!](https://open.spotify.com/artist/2U4caDhaqjDdjVg9Uyp0bp) | [Triste Palomita](https://open.spotify.com/album/2wyrgXe79p4vY4Y0QlyFB7) | 3:02 |
 | 18 | [Amor Platonico](https://open.spotify.com/track/189ZkWdzkPWrNy5HmGW4XA) | [Los Verduleros](https://open.spotify.com/artist/5yTrVUubgntK5Gxzrr3cz3) | [Greatest Hits](https://open.spotify.com/album/2xumgy1DDUx42GA14uMogt) | 3:07 |
 | 19 | [Hechicera](https://open.spotify.com/track/7GuDL7idAKh36gXqpRq6I2) | [Lucas Sugo](https://open.spotify.com/artist/0WnP62TjkFfRrt52yE8zcX) | [Canciones Que Amo](https://open.spotify.com/album/1S3ISQFIikrKImUmUdQhwn) | 3:44 |
-| 20 | [Me Extrañarás](https://open.spotify.com/track/4s0uLfMAgXbPgmPgOVG7qe) | [Noa \- Noa](https://open.spotify.com/artist/2CZXBNQi0AcQUVeYVexnc7) | [Olvídame Si Puedes](https://open.spotify.com/album/07k20XjUo2eH3ehAjTNZ7H) | 3:51 |
-| 21 | [Máquina Del Tiempo](https://open.spotify.com/track/6wJ8znKpoOz9IGhWB7g2b5) | [Tito "El Bambino"](https://open.spotify.com/artist/5fJsY7afrbsyzJj9wdzJMh), [Wisin & Yandel](https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9) | [Invencible \(El Patrón\)](https://open.spotify.com/album/2D1fN7Gqs5lUtqkU2NdMfS) | 3:56 |
+| 20 | [Máquina Del Tiempo](https://open.spotify.com/track/6wJ8znKpoOz9IGhWB7g2b5) | [Tito "El Bambino"](https://open.spotify.com/artist/5fJsY7afrbsyzJj9wdzJMh), [Wisin & Yandel](https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9) | [Invencible \(El Patrón\)](https://open.spotify.com/album/2D1fN7Gqs5lUtqkU2NdMfS) | 3:56 |
+| 21 | [Me Extrañarás](https://open.spotify.com/track/4s0uLfMAgXbPgmPgOVG7qe) | [Noa \- Noa](https://open.spotify.com/artist/2CZXBNQi0AcQUVeYVexnc7) | [Olvídame Si Puedes](https://open.spotify.com/album/07k20XjUo2eH3ehAjTNZ7H) | 3:51 |
 | 22 | [Mi Mujer](https://open.spotify.com/track/2bTubyDzW1q1Nis5evYgpS) | [Yomo](https://open.spotify.com/artist/4myAXQmMuS1lZe8T6Y7eBg) | [My Destiny](https://open.spotify.com/album/0Q7X6qJEAc0rggA0GUL5VG) | 3:32 |
 | 23 | [Un Dia A La Vez](https://open.spotify.com/track/6k1R4AYVLZ3YCkIhTZ4Vy7) | [Lalo Y Los Descalzos](https://open.spotify.com/artist/3k7FDxixhDQYNuxOtiN7jl) | [Las Mejores Vol\. 1](https://open.spotify.com/album/6UiASzAqGZh0l3u43mktIY) | 3:21 |
 | 24 | [Cada Día](https://open.spotify.com/track/28raHTrN34eAYiZfXzVcwb) | [Kchiporros](https://open.spotify.com/artist/6bxlchoOipKgLaJKgoCzOZ), [Emiliano Brancciari](https://open.spotify.com/artist/6Xdjhy4MawcCmBq5MYM5N8) | [Sr\. Pombero](https://open.spotify.com/album/0iOmkDSi03jHzBSAZV9t5D) | 3:34 |
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXxHKfMUcVv1.md) - [plain]
 | 44 | [Me Liberé](https://open.spotify.com/track/32qhajow0UHHPmNudtmfKK) | [Yelsid](https://open.spotify.com/artist/0BkX3f2WgeqNgvulzPLc7R) | [Me Liberé](https://open.spotify.com/album/251i0oXvNIWZW05XMycMZQ) | 3:37 |
 | 45 | [Loquita](https://open.spotify.com/track/3Aws1K6BcnUjAwnfuGg3A1) | [Los Meketrefes](https://open.spotify.com/artist/62ZEevKR6rUJUm47unC5Jj) | [Los Meketrefes grandes exitos](https://open.spotify.com/album/72NwFvWV9HckI9kd5PFN8e) | 3:00 |
 | 46 | [Nena Buena](https://open.spotify.com/track/6mVv3xXy1P398JJcJwaFTq) | [Japiaguar](https://open.spotify.com/artist/3yj43IXk2ADWZ9y6Q2oRMK) | [Nena Buena](https://open.spotify.com/album/68GJuJAXjGNo1XXa726aUR) | 2:33 |
-| 47 | [Hemisferios](https://open.spotify.com/track/23PqbeqTrFllYLOUER2FVy) | [La De Roberto](https://open.spotify.com/artist/6RtpeKo8M8Ma1sADlQgI3U) | [Hemisferios](https://open.spotify.com/album/6IfGYAiEViUQFCLKkx6GLh) | 3:29 |
-| 48 | [Una Cerveza](https://open.spotify.com/track/3LUxexs29ODGnrup1G4y89) | [El Monchi Papa](https://open.spotify.com/artist/7n20wi37wBgwQbqabzrMTB) | [Bailalo Como Quieras, Que Esto Cumbia Villera](https://open.spotify.com/album/1BfrDLGjWr6BTQjW2ZTSAV) | 3:35 |
-| 49 | [Todo va a estar mejor](https://open.spotify.com/track/7dho4N5H5etH68vQkROikt) | [Bohemia Urbana](https://open.spotify.com/artist/3291CCSyTY0umdaKwGbjdV) | [Macumba y Payé](https://open.spotify.com/album/5mGXFIhky9btBggWADmnPg) | 2:39 |
+| 47 | [Todo va a estar mejor](https://open.spotify.com/track/7dho4N5H5etH68vQkROikt) | [Bohemia Urbana](https://open.spotify.com/artist/3291CCSyTY0umdaKwGbjdV) | [Macumba y Payé](https://open.spotify.com/album/5mGXFIhky9btBggWADmnPg) | 2:39 |
+| 48 | [Hemisferios](https://open.spotify.com/track/23PqbeqTrFllYLOUER2FVy) | [La De Roberto](https://open.spotify.com/artist/6RtpeKo8M8Ma1sADlQgI3U) | [Hemisferios](https://open.spotify.com/album/6IfGYAiEViUQFCLKkx6GLh) | 3:29 |
+| 49 | [Una Cerveza](https://open.spotify.com/track/3LUxexs29ODGnrup1G4y89) | [El Monchi Papa](https://open.spotify.com/artist/7n20wi37wBgwQbqabzrMTB) | [Bailalo Como Quieras, Que Esto Cumbia Villera](https://open.spotify.com/album/1BfrDLGjWr6BTQjW2ZTSAV) | 3:35 |
 | 50 | [En La Luna Y En Marte](https://open.spotify.com/track/6kvruD8T7VanoOwdae5VZJ) | [Rumberos](https://open.spotify.com/artist/4y5cUwfnsyFAy23py47pbn) | [Rumbo a Tu Corazon](https://open.spotify.com/album/3ypyKq60YlA0bGQYGp5sDQ) | 3:39 |
 
-Snapshot ID: `MCxiYzNiMGMxYjc3MTZlNmVjNjQyNDRiNGViNTU5YTQ1MjZjNWYzOTlm`
+Snapshot ID: `MCxlZjRiNTYxZjUzYWE1YTQ2MzM0MDJkNGVmNGJkNDg2OGJmYmQ0Njg3`

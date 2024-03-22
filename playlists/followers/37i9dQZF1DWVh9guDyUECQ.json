@@ -1,7 +1,7 @@
 {
-  "2024-03-21": 180605,
+  "2024-03-22": 180697,
   "date_first_scraped": "2022-03-01",
-  "description": "Lo nuevo del Trap, Rap y Reggaeton Cristiano. \nFoto: Vaes",
+  "description": "Lo nuevo del Trap, Rap y Reggaeton Cristiano. \nFoto: <a href=\"spotify:artist:4DROs1Ye9DiLY3X8L7xvl8\">Andrez Babii</a>",
   "name": "Flow Cristiano",
   "tracks": [
     {
@@ -83,7 +83,7 @@
       ],
       "date_added": "2022-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-21",
       "duration_ms": 154545,
       "name": "24/7",
       "url": "https://open.spotify.com/track/2bvRR0O75SAtzGb6SMrE9W"
@@ -598,6 +598,24 @@
     },
     {
       "album": {
+        "name": "YOUR KING IS WAITING",
+        "url": "https://open.spotify.com/album/44sbKRs4mNZ36mYDPhCLLQ"
+      },
+      "artists": [
+        {
+          "name": "Andrez Babii",
+          "url": "https://open.spotify.com/artist/4DROs1Ye9DiLY3X8L7xvl8"
+        }
+      ],
+      "date_added": "2024-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154576,
+      "name": "Babii Tu",
+      "url": "https://open.spotify.com/track/1KuYmGYRyv2Zvz8ZBwXFMv"
+    },
+    {
+      "album": {
         "name": "MOMENTUM",
         "url": "https://open.spotify.com/album/0cPrYAzyCpQ07WrVmE3AFM"
       },
@@ -1031,7 +1049,7 @@
       ],
       "date_added": "2022-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-21",
       "duration_ms": 341176,
       "name": "Como Siempre",
       "url": "https://open.spotify.com/track/7GJFGUpd6V1LkTrm9hgavK"
@@ -1123,7 +1141,7 @@
       ],
       "date_added": "2022-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-21",
       "duration_ms": 192036,
       "name": "Cotizate",
       "url": "https://open.spotify.com/track/088VGorNzLe2sYbcmlct0W"
@@ -1206,6 +1224,32 @@
     },
     {
       "album": {
+        "name": "Danza",
+        "url": "https://open.spotify.com/album/5f8Rt45R3jvZxV00aNwxrW"
+      },
+      "artists": [
+        {
+          "name": "KB",
+          "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
+        },
+        {
+          "name": "Niko Eme",
+          "url": "https://open.spotify.com/artist/4jLWtcGrESS5YvRip2ATmL"
+        },
+        {
+          "name": "Cardec Drums",
+          "url": "https://open.spotify.com/artist/1uVtllLSmvkfPRozmSmxzG"
+        }
+      ],
+      "date_added": "2024-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203195,
+      "name": "Danza",
+      "url": "https://open.spotify.com/track/2mp5lKkx5EP7fPlynWlpjP"
+    },
+    {
+      "album": {
         "name": "De Aqu\u00ed Pa\u2019 All\u00e1",
         "url": "https://open.spotify.com/album/41SvsYRO8fVE8zsLNxfk8J"
       },
@@ -1225,6 +1269,28 @@
       "duration_ms": 226687,
       "name": "De Aqu\u00ed Pa\u2019 All\u00e1",
       "url": "https://open.spotify.com/track/0be8ZrVxq5jFl9ijZahHJE"
+    },
+    {
+      "album": {
+        "name": "DE0A100",
+        "url": "https://open.spotify.com/album/4wI070qgSUZnFX5iSDQ0Kq"
+      },
+      "artists": [
+        {
+          "name": "Arias",
+          "url": "https://open.spotify.com/artist/2GK6y5dmhaWM16VZxHiO15"
+        },
+        {
+          "name": "Jiggy Min",
+          "url": "https://open.spotify.com/artist/5SHu7uKUt1PNAsrqHXxFmv"
+        }
+      ],
+      "date_added": "2024-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164307,
+      "name": "DE0A100",
+      "url": "https://open.spotify.com/track/3KLxfvg9yHr8H9ErkYiF9C"
     },
     {
       "album": {
@@ -1349,7 +1415,7 @@
       ],
       "date_added": "2022-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-21",
       "duration_ms": 257506,
       "name": "Dios, Familia & Rap",
       "url": "https://open.spotify.com/track/2ngZ7gQyyo2im1EUatTNnz"
@@ -1975,6 +2041,24 @@
       "duration_ms": 260000,
       "name": "Follow Jesus",
       "url": "https://open.spotify.com/track/1KCixu5SCW28FqvjoxjnVw"
+    },
+    {
+      "album": {
+        "name": "For Kanye",
+        "url": "https://open.spotify.com/album/65VugZKk4WpMv1QnIkenOQ"
+      },
+      "artists": [
+        {
+          "name": "Andrez Babii",
+          "url": "https://open.spotify.com/artist/4DROs1Ye9DiLY3X8L7xvl8"
+        }
+      ],
+      "date_added": "2024-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137027,
+      "name": "For Kanye",
+      "url": "https://open.spotify.com/track/1tZl3gUVPmR8APqBrQn7i6"
     },
     {
       "album": {
@@ -3333,7 +3417,7 @@
       ],
       "date_added": "2022-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-21",
       "duration_ms": 179969,
       "name": "Luna Que Me Alumbra",
       "url": "https://open.spotify.com/track/1QJXOveHlGy5N9Lie82Gm2"
@@ -3536,6 +3620,24 @@
     },
     {
       "album": {
+        "name": "Mellow",
+        "url": "https://open.spotify.com/album/2K8fQ2xCBiXszOC6fEm78I"
+      },
+      "artists": [
+        {
+          "name": "Tommy Royale",
+          "url": "https://open.spotify.com/artist/0gqbW7Uf6BAWiAh5C6jlPs"
+        }
+      ],
+      "date_added": "2024-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132705,
+      "name": "Mellow",
+      "url": "https://open.spotify.com/track/2KCHAyB5A1I0ncRgXwTurf"
+    },
+    {
+      "album": {
         "name": "Memoria",
         "url": "https://open.spotify.com/album/3NS0k92g00iLsABc1dvY8i"
       },
@@ -3551,6 +3653,32 @@
       "duration_ms": 188673,
       "name": "Memoria",
       "url": "https://open.spotify.com/track/1GHsomI2FA0uTisZwUccd5"
+    },
+    {
+      "album": {
+        "name": "Mentira",
+        "url": "https://open.spotify.com/album/4IgrIfj2gj0OSEZr8iitnt"
+      },
+      "artists": [
+        {
+          "name": "Ander Bock",
+          "url": "https://open.spotify.com/artist/3ARwD7QJqYlDmcFeB6oPQM"
+        },
+        {
+          "name": "Gabriel EMC",
+          "url": "https://open.spotify.com/artist/0rOLLmeuTbBAx7YKcVEECH"
+        },
+        {
+          "name": "Niko Eme",
+          "url": "https://open.spotify.com/artist/4jLWtcGrESS5YvRip2ATmL"
+        }
+      ],
+      "date_added": "2024-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219428,
+      "name": "Mentira",
+      "url": "https://open.spotify.com/track/3Y41TE2Hhus5WJCcTQ8uVI"
     },
     {
       "album": {
@@ -3623,7 +3751,7 @@
       ],
       "date_added": "2022-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-21",
       "duration_ms": 178466,
       "name": "Mi Entrenador",
       "url": "https://open.spotify.com/track/3RIGXG6lJd4u3Flo7xFHcP"
@@ -3880,6 +4008,28 @@
     },
     {
       "album": {
+        "name": "MVP",
+        "url": "https://open.spotify.com/album/35h3Iss6wIlNYGl71cvylY"
+      },
+      "artists": [
+        {
+          "name": "Cardec Drums",
+          "url": "https://open.spotify.com/artist/1uVtllLSmvkfPRozmSmxzG"
+        },
+        {
+          "name": "El Artista",
+          "url": "https://open.spotify.com/artist/23O4ZjgHiBYcTQKciRZwI9"
+        }
+      ],
+      "date_added": "2024-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114933,
+      "name": "MVP",
+      "url": "https://open.spotify.com/track/4E6m89eLYaw4cajBsEpHCz"
+    },
+    {
+      "album": {
         "name": "M\u00e1s Como T\u00fa \u2013 Remix",
         "url": "https://open.spotify.com/album/7sql4hYL7mAYVzYde7KmHZ"
       },
@@ -4107,6 +4257,24 @@
       "duration_ms": 282214,
       "name": "No est\u00e1s sola",
       "url": "https://open.spotify.com/track/6zCIPBLn3JXLZtBN2zI6ym"
+    },
+    {
+      "album": {
+        "name": "No Existe",
+        "url": "https://open.spotify.com/album/49nTQuNx1Ofnm4Kg0vlSt6"
+      },
+      "artists": [
+        {
+          "name": "Madiel Lara",
+          "url": "https://open.spotify.com/artist/6n6D2g1FuTmnFiMDD4RT42"
+        }
+      ],
+      "date_added": "2024-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204381,
+      "name": "No Existe",
+      "url": "https://open.spotify.com/track/2rNeTNpb0GhpCZWuXelW3h"
     },
     {
       "album": {
@@ -4425,7 +4593,7 @@
       ],
       "date_added": "2022-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-21",
       "duration_ms": 179999,
       "name": "Nunca Falla",
       "url": "https://open.spotify.com/track/0Oix36INA6EJ7p8KYcm4hW"
@@ -4523,7 +4691,7 @@
       ],
       "date_added": "2022-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-21",
       "duration_ms": 156500,
       "name": "Or\u00f3",
       "url": "https://open.spotify.com/track/32JMWz9lUTCnE5qSbBq50v"
@@ -4893,7 +5061,7 @@
       ],
       "date_added": "2022-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-21",
       "duration_ms": 240500,
       "name": "Picheo",
       "url": "https://open.spotify.com/track/1I3KDCANZfQq4556nAk3DL"
@@ -4945,6 +5113,24 @@
       "duration_ms": 220800,
       "name": "Ponte Happy :)",
       "url": "https://open.spotify.com/track/3kcAeZsJQnZFndYM5yTC6G"
+    },
+    {
+      "album": {
+        "name": "Por Ah\u00ed Voy",
+        "url": "https://open.spotify.com/album/2gzu0FdOv72od3722LEOdE"
+      },
+      "artists": [
+        {
+          "name": "CRYS",
+          "url": "https://open.spotify.com/artist/7uZO1ri6Y9Wlv7cDoOOUDI"
+        }
+      ],
+      "date_added": "2024-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165681,
+      "name": "Por Ah\u00ed Voy",
+      "url": "https://open.spotify.com/track/4DFbu9vG3m3RW94ZdRuOY8"
     },
     {
       "album": {

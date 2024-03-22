@@ -1,5 +1,5 @@
 {
-  "2024-03-21": 10846,
+  "2024-03-22": 10849,
   "date_first_scraped": "2022-11-25",
   "description": "Prepare for Easter week by reflecting on songs of Jesus' life, death, and resurrection. ",
   "name": "Holy Week: Easter",
@@ -220,6 +220,24 @@
     },
     {
       "album": {
+        "name": "Beautiful Scandalous Night",
+        "url": "https://open.spotify.com/album/6PUBCDO50871bMiebc5s6e"
+      },
+      "artists": [
+        {
+          "name": "Shane & Shane",
+          "url": "https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied"
+        }
+      ],
+      "date_added": "2024-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251895,
+      "name": "Beautiful Scandalous Night",
+      "url": "https://open.spotify.com/track/4xq48EowmMmN5QNJZBJM0d"
+    },
+    {
+      "album": {
         "name": "Everything And Nothing Less (Live)",
         "url": "https://open.spotify.com/album/66663xiz1SATmBnF78aEpA"
       },
@@ -350,6 +368,24 @@
     },
     {
       "album": {
+        "name": "Crown Him With Many Crowns",
+        "url": "https://open.spotify.com/album/1sMZWJzCiTL5NpONUbg6LU"
+      },
+      "artists": [
+        {
+          "name": "Nathan Drake",
+          "url": "https://open.spotify.com/artist/6GqRs6YKqlKv8nlGAAnKwr"
+        }
+      ],
+      "date_added": "2024-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254479,
+      "name": "Crown Him With Many Crowns",
+      "url": "https://open.spotify.com/track/0h6plgwOJE1u4kcm7eh0hd"
+    },
+    {
+      "album": {
         "name": "Death Was Arrested",
         "url": "https://open.spotify.com/album/4bJORPO5CXGYDQ4VTKDMq9"
       },
@@ -437,7 +473,7 @@
       ],
       "date_added": "2023-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-21",
       "duration_ms": 237973,
       "name": "Easter Song",
       "url": "https://open.spotify.com/track/4Uv19eDb9Os5UQODqb0edh"
@@ -503,7 +539,7 @@
       ],
       "date_added": "2022-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-21",
       "duration_ms": 326855,
       "name": "Forever",
       "url": "https://open.spotify.com/track/4v3SzdNUZLpocZxK6oZEkW"
@@ -539,7 +575,7 @@
       ],
       "date_added": "2022-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-21",
       "duration_ms": 241573,
       "name": "Glorious",
       "url": "https://open.spotify.com/track/1jOzjWWNdIEKfX8g48FDEu"
@@ -633,7 +669,7 @@
       ],
       "date_added": "2022-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-21",
       "duration_ms": 318969,
       "name": "Hallelujah Amen (feat. Jon Guerra)",
       "url": "https://open.spotify.com/track/78wyAJJM6TsN428S5ScPg7"
@@ -735,7 +771,7 @@
       ],
       "date_added": "2022-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-21",
       "duration_ms": 280915,
       "name": "How Great Thou Art - Live",
       "url": "https://open.spotify.com/track/4XWA4VGeNYIOlbOfy9wr4P"
@@ -866,6 +902,28 @@
     },
     {
       "album": {
+        "name": "Jesus Is My Healer (Live)",
+        "url": "https://open.spotify.com/album/5gYrM3yx6RMB7Wk16bwdLh"
+      },
+      "artists": [
+        {
+          "name": "Gateway Worship",
+          "url": "https://open.spotify.com/artist/2b6REyd5UBBp4ZPDhZ2TNB"
+        },
+        {
+          "name": "Jessie Harris",
+          "url": "https://open.spotify.com/artist/1d5o5nKTHxv0gr9avqdTmA"
+        }
+      ],
+      "date_added": "2024-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 380865,
+      "name": "Jesus Is My Healer - Live",
+      "url": "https://open.spotify.com/track/4h3gmTsm5moWm9j3NNx0Gp"
+    },
+    {
+      "album": {
         "name": "Passion: Everything Glorious",
         "url": "https://open.spotify.com/album/1plOtC0txpyPtkeb6tlixF"
       },
@@ -921,6 +979,28 @@
       "duration_ms": 221973,
       "name": "Light Up the Sky",
       "url": "https://open.spotify.com/track/1w3KRXDABnSmbVSwJL2c0N"
+    },
+    {
+      "album": {
+        "name": "Long Live The King (Versions) - EP",
+        "url": "https://open.spotify.com/album/5DuNnFldG0pyZWbLUw25xH"
+      },
+      "artists": [
+        {
+          "name": "Influence Music",
+          "url": "https://open.spotify.com/artist/7ory6rfLtmQet7a16o4vvC"
+        },
+        {
+          "name": "Matt Gilman",
+          "url": "https://open.spotify.com/artist/73hSbuO7zeiAnHpkyhQN5P"
+        }
+      ],
+      "date_added": "2024-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 353015,
+      "name": "Long Live The King - Acoustic",
+      "url": "https://open.spotify.com/track/5gZgxdUFIUeNOMgZ0h6vgv"
     },
     {
       "album": {
@@ -1185,7 +1265,7 @@
       ],
       "date_added": "2023-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-21",
       "duration_ms": 328466,
       "name": "O The Blood - Live",
       "url": "https://open.spotify.com/track/4ZdwEOmARJc9dMfCc861ka"
@@ -1255,6 +1335,28 @@
       "duration_ms": 284614,
       "name": "Praise The Lord (Evermore)",
       "url": "https://open.spotify.com/track/1A82wdBbRssHNP5PZSQctn"
+    },
+    {
+      "album": {
+        "name": "Sing! The Great Commission - World Tour (Live)",
+        "url": "https://open.spotify.com/album/1WsOwc3ZE7MvMzube1cPyF"
+      },
+      "artists": [
+        {
+          "name": "Keith & Kristyn Getty",
+          "url": "https://open.spotify.com/artist/0I4Bk2s2BUJyykCwtxx8Xx"
+        },
+        {
+          "name": "Chris Tomlin",
+          "url": "https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m"
+        }
+      ],
+      "date_added": "2024-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 302048,
+      "name": "Precious Love - Live",
+      "url": "https://open.spotify.com/track/1sWYM9HHpUX0UMTUETzLMH"
     },
     {
       "album": {
@@ -1352,6 +1454,24 @@
     },
     {
       "album": {
+        "name": "SUNDAY IS COMING \u2022 HOMETOWN VERSION",
+        "url": "https://open.spotify.com/album/71MC6JQBQ9JJsR75heLhzp"
+      },
+      "artists": [
+        {
+          "name": "Phil Wickham",
+          "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
+        }
+      ],
+      "date_added": "2024-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 323384,
+      "name": "SUNDAY IS COMING \u2022 HOMETOWN VERSION",
+      "url": "https://open.spotify.com/track/1DzECx2H9rUGUPclh8OxAn"
+    },
+    {
+      "album": {
         "name": "For His Glory",
         "url": "https://open.spotify.com/album/0uoCXagv4rK7wK6EQMGIaO"
       },
@@ -1403,6 +1523,24 @@
       "duration_ms": 252964,
       "name": "The Cross Has The Final Word",
       "url": "https://open.spotify.com/track/5vqBJKU4U3OLvm2anticiy"
+    },
+    {
+      "album": {
+        "name": "The King Is Alive",
+        "url": "https://open.spotify.com/album/4JNTMZoZVcDlM9i9DZ0mpZ"
+      },
+      "artists": [
+        {
+          "name": "Jordan Feliz",
+          "url": "https://open.spotify.com/artist/0TgNiaeQaWssaH9aWjbqnA"
+        }
+      ],
+      "date_added": "2024-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178557,
+      "name": "The King Is Alive",
+      "url": "https://open.spotify.com/track/1vClq5FGlLjR4Rdqm7dMpQ"
     },
     {
       "album": {
@@ -1555,7 +1693,7 @@
       ],
       "date_added": "2023-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-21",
       "duration_ms": 123700,
       "name": "Unveil My Eyes",
       "url": "https://open.spotify.com/track/6lhmoisNBy3xgRCfc9NM6j"

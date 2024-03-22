@@ -4,7 +4,7 @@
 
 > Top trending country tracks from the last few months\. Cover: Gavin Adcock
 
-381 songs - 20 hr 23 min
+383 songs - 20 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -82,6 +82,7 @@
 | [Dark Night \- 717 Tapes](https://open.spotify.com/track/4EncjICVJk0gK2icnG0b1Q) | [Warren Zeiders](https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi) | [717 Tapes, Vol\. 2](https://open.spotify.com/album/1AWzOlaYVoo3IazAiSD5t6) | 2:37 | 2022-07-22 | 2022-10-03 |
 | [Dark Night \- 717 Tapes](https://open.spotify.com/track/4Y7ze5PDaQSSkvCX3pd5CO) | [Warren Zeiders](https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi) | [Dark Night \(717 Tapes\)](https://open.spotify.com/album/5KXNYhBpsj5wAHUpdaaKqE) | 2:37 | 2022-03-25 | 2022-07-29 |
 | [Deep Satin](https://open.spotify.com/track/1u2Fe70Qm9VFCIMPWFlfc1) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [Boys Of Faith](https://open.spotify.com/album/5wKVor4aDuvn09tJO7WZpY) | 3:31 | 2023-09-29 |  |
+| [Deeper Well](https://open.spotify.com/track/333XFHKsHU0pOocFzBgrJi) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Deeper Well](https://open.spotify.com/album/5SxZmGwc4eJuPp6PcO4JgJ) | 3:52 | 2024-03-21 |  |
 | [Delorean](https://open.spotify.com/track/4K6KyAOSkhGKgLO0SalQET) | [Walker Hayes](https://open.spotify.com/artist/7sKxqpSqbIzphAKAhrqvlf) | [Country Stuff The Album](https://open.spotify.com/album/4sShdTo9jO2RGLgDkZBgN8) | 2:39 | 2022-05-20 | 2022-09-03 |
 | [Devil You Know](https://open.spotify.com/track/6tWGe6nvXFWT0KhGCXM89q) | [Tyler Braden](https://open.spotify.com/artist/63wjVVauFUQ4gBw6QXTT5N) | [Devil You Know](https://open.spotify.com/album/4OWkgV3qaf52HEXYsRSTZM) | 3:12 | 2024-02-09 |  |
 | [DIAMOND](https://open.spotify.com/track/7jZwYDy3LXNJBel7NPQ3zk) | [Niko Moon](https://open.spotify.com/artist/6Rw7DRa1dzChBvxGPCpOxU) | [GOOD TIME](https://open.spotify.com/album/5WvmRAsjmB3uPLoFeCioC5) | 3:13 | 2022-03-04 | 2022-06-18 |
@@ -333,6 +334,7 @@
 | [This Town's Been Too Good To Us](https://open.spotify.com/track/6vsa5VDsIaWC8oJnowU65l) | [Dylan Scott](https://open.spotify.com/artist/78YqeIji3mgAS2K1Maca6x) | [This Town's Been Too Good To Us](https://open.spotify.com/album/1QVjRGmRPZIbdlL22aUmol) | 3:11 | 2023-06-23 | 2024-02-10 |
 | [Thought You Should Know](https://open.spotify.com/track/6NHpyYvJyQsg2nXXzGYc2R) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [Thought You Should Know](https://open.spotify.com/album/4kbT7O8zsXUw8CZvhBR46i) | 3:35 | 2022-05-13 | 2023-02-25 |
 | [Tomorrow Me](https://open.spotify.com/track/52GuoXJUOFAwmPMtH3V9W4) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [Tomorrow Me](https://open.spotify.com/album/2LI2YMMEAYwSzlVRNGJMNE) | 3:28 | 2022-05-06 | 2022-10-08 |
+| [Too Good to be True](https://open.spotify.com/track/27RDQ0TfxzWMlQFuKrPT11) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Deeper Well](https://open.spotify.com/album/5SxZmGwc4eJuPp6PcO4JgJ) | 2:40 | 2024-03-21 |  |
 | [Trouble](https://open.spotify.com/track/7cRggVoZ18mmvIN2EcSQ3J) | [Josh Ross](https://open.spotify.com/artist/1ZGTSMjK1D2HrpPTOh916U) | [Trouble](https://open.spotify.com/album/3svJ9Mv1JKL7R4CBZLtCfp) | 3:34 | 2023-03-10 | 2023-08-05 |
 | [Trouble With A Heartbreak](https://open.spotify.com/track/4lSNyiHil3tuiwtvEpN1qq) | [Jason Aldean](https://open.spotify.com/artist/3FfvYsEGaIb52QPXhg4DcH) | [Trouble With A Heartbreak](https://open.spotify.com/album/3hs2Iakgld3yGrrcJSpg28) | 3:16 | 2022-01-21 | 2022-03-12 |
 | [Truth Is](https://open.spotify.com/track/02G3c8DxZgp6dLbDqd7aw3) | [Lily Rose](https://open.spotify.com/artist/3lkwNhvm2fbh4q8CIe47n3) | [Truth Is](https://open.spotify.com/album/6yYPEmDiTpTMzZdsD3NqGT) | 2:44 | 2022-12-16 | 2023-09-16 |

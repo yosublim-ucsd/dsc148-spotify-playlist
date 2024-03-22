@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSgTTUXeVFiG.md) - [plain]
 
 > Los éxitos de siempre en concierto\. Foto: Celia Cruz
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,408 likes - 50 songs - 5 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,454 likes - 50 songs - 5 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSgTTUXeVFiG.md) - [plain]
 | 49 | [El Cantante \- Live](https://open.spotify.com/track/1xKIjS9jwPmMBCa40RvoS1) | [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP) | [Live](https://open.spotify.com/album/2kIKvvOkkLqfGUyAaiU3rQ) | 2:57 |
 | 50 | [Nuestro Sueño \- En Vivo](https://open.spotify.com/track/0nrOLAiz0CCyqr3PZaT0Zw) | [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8) | [Grupo Niche \(En Vivo\)](https://open.spotify.com/album/4lrQEwqs459PbxfQGp11H3) | 5:35 |
 
-Snapshot ID: `MCw1YjkzZDc0ZDkxZmY1NTA0NzRlYjM0NThiZDk5ZTA0YTEyOGJjYWVi`
+Snapshot ID: `MCw1NGQ5MjIzZTgzNmM1YWFmMmFkZmU1ZTEzZjA4MzkzMjQyNmVlYWY1`

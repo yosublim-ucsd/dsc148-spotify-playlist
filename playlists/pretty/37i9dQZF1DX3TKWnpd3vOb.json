@@ -1,12 +1,12 @@
 {
   "description": "Encuentra un mix de cl\u00e1sicos y nuevos talentos. Foto: Los Tres",
-  "num_followers": 195029,
+  "num_followers": 195034,
   "original_name": "Rock Chileno",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxZmM4YmM0OTczMmYyYTYwMGMwN2NhM2IxYTViZTZkZWNiMmM4ODAz",
+  "snapshot_id": "MCw3NjIwNGNmMmJlOTFhMDVkMTg0YTkxMDI0N2U5NGJmMDI1NmI5ZmU4",
   "tracks": [
     {
       "added_at": "2024-03-08 03:00:00",
@@ -427,18 +427,18 @@
     {
       "added_at": "2024-03-08 03:00:00",
       "album": {
-        "name": "Solo de Ti",
-        "url": "https://open.spotify.com/album/29MnwmnbfpgL9AqH4FDzBF"
+        "name": "La Llamada",
+        "url": "https://open.spotify.com/album/7HKAzGH5Lo7v2WYRIAuZDt"
       },
       "artists": [
         {
-          "name": "Hermanos Ilabaca",
-          "url": "https://open.spotify.com/artist/0PyhxG9e14b5UvwUH0X3Qd"
+          "name": "Crist\u00f3bal Brice\u00f1o",
+          "url": "https://open.spotify.com/artist/0TE3FlkFJ5OgdyulXv99iX"
         }
       ],
-      "duration_ms": 237830,
-      "name": "Solo de Ti",
-      "url": "https://open.spotify.com/track/01pHsM5mHXLRT01w9wt1JT"
+      "duration_ms": 249508,
+      "name": "La Llamada",
+      "url": "https://open.spotify.com/track/7LDc6HR0Z2wvcPmlH3zvAG"
     },
     {
       "added_at": "2024-03-08 03:00:00",
@@ -475,34 +475,18 @@
     {
       "added_at": "2024-03-08 03:00:00",
       "album": {
-        "name": "La Llamada",
-        "url": "https://open.spotify.com/album/7HKAzGH5Lo7v2WYRIAuZDt"
+        "name": "Solo de Ti",
+        "url": "https://open.spotify.com/album/29MnwmnbfpgL9AqH4FDzBF"
       },
       "artists": [
         {
-          "name": "Crist\u00f3bal Brice\u00f1o",
-          "url": "https://open.spotify.com/artist/0TE3FlkFJ5OgdyulXv99iX"
+          "name": "Hermanos Ilabaca",
+          "url": "https://open.spotify.com/artist/0PyhxG9e14b5UvwUH0X3Qd"
         }
       ],
-      "duration_ms": 249508,
-      "name": "La Llamada",
-      "url": "https://open.spotify.com/track/7LDc6HR0Z2wvcPmlH3zvAG"
-    },
-    {
-      "added_at": "2024-03-08 03:00:00",
-      "album": {
-        "name": "Explorador (Remaster 2022)",
-        "url": "https://open.spotify.com/album/6FgCeCeQ2uY7x2EWPDOuGz"
-      },
-      "artists": [
-        {
-          "name": "Fother Muckers",
-          "url": "https://open.spotify.com/artist/6FFSTXo40QrNA2tpT1xbq0"
-        }
-      ],
-      "duration_ms": 170500,
-      "name": "Explorador - Remaster 2022",
-      "url": "https://open.spotify.com/track/1TBiwFjWO4bIpP2exPB0vy"
+      "duration_ms": 237830,
+      "name": "Solo de Ti",
+      "url": "https://open.spotify.com/track/01pHsM5mHXLRT01w9wt1JT"
     },
     {
       "added_at": "2024-03-08 03:00:00",
@@ -519,6 +503,22 @@
       "duration_ms": 307691,
       "name": "De La Luz",
       "url": "https://open.spotify.com/track/0muLiRaM3pjoBDA0VTUTFt"
+    },
+    {
+      "added_at": "2024-03-08 03:00:00",
+      "album": {
+        "name": "Explorador (Remaster 2022)",
+        "url": "https://open.spotify.com/album/6FgCeCeQ2uY7x2EWPDOuGz"
+      },
+      "artists": [
+        {
+          "name": "Fother Muckers",
+          "url": "https://open.spotify.com/artist/6FFSTXo40QrNA2tpT1xbq0"
+        }
+      ],
+      "duration_ms": 170500,
+      "name": "Explorador - Remaster 2022",
+      "url": "https://open.spotify.com/track/1TBiwFjWO4bIpP2exPB0vy"
     },
     {
       "added_at": "2024-03-08 03:00:00",
@@ -907,22 +907,6 @@
     {
       "added_at": "2024-03-08 03:00:00",
       "album": {
-        "name": "Nuestro Amor",
-        "url": "https://open.spotify.com/album/2azUl3rf0aMEQNzvGTeF98"
-      },
-      "artists": [
-        {
-          "name": "Upa!",
-          "url": "https://open.spotify.com/artist/3SQwqIl6r35rkAXPw7cm9n"
-        }
-      ],
-      "duration_ms": 255000,
-      "name": "Nuestro Amor",
-      "url": "https://open.spotify.com/track/1qV8Z8nwhEwH7Z5J0u1VCU"
-    },
-    {
-      "added_at": "2024-03-08 03:00:00",
-      "album": {
         "name": "Tanto creo en ti",
         "url": "https://open.spotify.com/album/5nvL8Kst2zSHSTfO9S3oZd"
       },
@@ -939,6 +923,22 @@
       "duration_ms": 196796,
       "name": "Tanto creo en ti",
       "url": "https://open.spotify.com/track/0r5YhIxh1hmRJ7rSHxg7Vd"
+    },
+    {
+      "added_at": "2024-03-08 03:00:00",
+      "album": {
+        "name": "Nuestro Amor",
+        "url": "https://open.spotify.com/album/2azUl3rf0aMEQNzvGTeF98"
+      },
+      "artists": [
+        {
+          "name": "Upa!",
+          "url": "https://open.spotify.com/artist/3SQwqIl6r35rkAXPw7cm9n"
+        }
+      ],
+      "duration_ms": 255000,
+      "name": "Nuestro Amor",
+      "url": "https://open.spotify.com/track/1qV8Z8nwhEwH7Z5J0u1VCU"
     },
     {
       "added_at": "2024-03-08 03:00:00",
@@ -1027,22 +1027,6 @@
     {
       "added_at": "2024-03-08 03:00:00",
       "album": {
-        "name": "T\u00da",
-        "url": "https://open.spotify.com/album/3utOqxCghBqv4aIryvCCwJ"
-      },
-      "artists": [
-        {
-          "name": "Upa!",
-          "url": "https://open.spotify.com/artist/3SQwqIl6r35rkAXPw7cm9n"
-        }
-      ],
-      "duration_ms": 235626,
-      "name": "T\u00da",
-      "url": "https://open.spotify.com/track/6gbu92nXkeh6Fdhgw0iqez"
-    },
-    {
-      "added_at": "2024-03-08 03:00:00",
-      "album": {
         "name": "Viajar",
         "url": "https://open.spotify.com/album/7bnqsPENupVaK25z382mq9"
       },
@@ -1095,6 +1079,22 @@
     {
       "added_at": "2024-03-08 03:00:00",
       "album": {
+        "name": "T\u00da",
+        "url": "https://open.spotify.com/album/3utOqxCghBqv4aIryvCCwJ"
+      },
+      "artists": [
+        {
+          "name": "Upa!",
+          "url": "https://open.spotify.com/artist/3SQwqIl6r35rkAXPw7cm9n"
+        }
+      ],
+      "duration_ms": 235626,
+      "name": "T\u00da",
+      "url": "https://open.spotify.com/track/6gbu92nXkeh6Fdhgw0iqez"
+    },
+    {
+      "added_at": "2024-03-08 03:00:00",
+      "album": {
         "name": "Mis Hermanos Sue\u00f1an Despiertos",
         "url": "https://open.spotify.com/album/5eSV2mQOF7eUBcyc59i4kg"
       },
@@ -1143,22 +1143,6 @@
     {
       "added_at": "2024-03-08 03:00:00",
       "album": {
-        "name": "R\u00e1pida Comida",
-        "url": "https://open.spotify.com/album/3wljTa4XPg1EYHfRvAOeid"
-      },
-      "artists": [
-        {
-          "name": "Conf\u00edo en tus amigos",
-          "url": "https://open.spotify.com/artist/6eeMg2f1msRTEqwKKC1KZ4"
-        }
-      ],
-      "duration_ms": 124552,
-      "name": "Surfing caracol",
-      "url": "https://open.spotify.com/track/41xLPySJ8th6QbO0aEKrBd"
-    },
-    {
-      "added_at": "2024-03-08 03:00:00",
-      "album": {
         "name": "7 Mares",
         "url": "https://open.spotify.com/album/4im29JIy0zo9FsVD5rHvAy"
       },
@@ -1171,6 +1155,22 @@
       "duration_ms": 258331,
       "name": "Diabla",
       "url": "https://open.spotify.com/track/4RbFoRUXx2LxWvjpSanqqa"
+    },
+    {
+      "added_at": "2024-03-08 03:00:00",
+      "album": {
+        "name": "R\u00e1pida Comida",
+        "url": "https://open.spotify.com/album/3wljTa4XPg1EYHfRvAOeid"
+      },
+      "artists": [
+        {
+          "name": "Conf\u00edo en tus amigos",
+          "url": "https://open.spotify.com/artist/6eeMg2f1msRTEqwKKC1KZ4"
+        }
+      ],
+      "duration_ms": 124552,
+      "name": "Surfing caracol",
+      "url": "https://open.spotify.com/track/41xLPySJ8th6QbO0aEKrBd"
     },
     {
       "added_at": "2024-03-08 03:00:00",
@@ -1271,22 +1271,6 @@
     {
       "added_at": "2024-03-08 03:00:00",
       "album": {
-        "name": "Eso que ves ah\u00ed",
-        "url": "https://open.spotify.com/album/5sckF891FftmKRBQblX3Qf"
-      },
-      "artists": [
-        {
-          "name": "Valija Diplomatica",
-          "url": "https://open.spotify.com/artist/2euAtk0firHMqPFDJHLJCV"
-        }
-      ],
-      "duration_ms": 208468,
-      "name": "Eso que ves ah\u00ed",
-      "url": "https://open.spotify.com/track/4arEyzZvnPJjvPLpkYNNL0"
-    },
-    {
-      "added_at": "2024-03-08 03:00:00",
-      "album": {
         "name": "Santos",
         "url": "https://open.spotify.com/album/3h8muVhOvlsw6Olfn5XrHG"
       },
@@ -1303,18 +1287,18 @@
     {
       "added_at": "2024-03-08 03:00:00",
       "album": {
-        "name": "Yod",
-        "url": "https://open.spotify.com/album/2HhVFAfXWf6eZeOU8R75jg"
+        "name": "Eso que ves ah\u00ed",
+        "url": "https://open.spotify.com/album/5sckF891FftmKRBQblX3Qf"
       },
       "artists": [
         {
-          "name": "Hausi Kuta",
-          "url": "https://open.spotify.com/artist/5iVb4hi1IDpP6NKIKdEwpF"
+          "name": "Valija Diplomatica",
+          "url": "https://open.spotify.com/artist/2euAtk0firHMqPFDJHLJCV"
         }
       ],
-      "duration_ms": 221233,
-      "name": "Yod",
-      "url": "https://open.spotify.com/track/6XTZFGXabuOw71RMOgtao3"
+      "duration_ms": 208468,
+      "name": "Eso que ves ah\u00ed",
+      "url": "https://open.spotify.com/track/4arEyzZvnPJjvPLpkYNNL0"
     },
     {
       "added_at": "2024-03-08 03:00:00",
@@ -1335,18 +1319,18 @@
     {
       "added_at": "2024-03-08 03:00:00",
       "album": {
-        "name": "Vaso de agua",
-        "url": "https://open.spotify.com/album/3J5DPUm1L0l2aW28N4K5Bh"
+        "name": "Yod",
+        "url": "https://open.spotify.com/album/2HhVFAfXWf6eZeOU8R75jg"
       },
       "artists": [
         {
-          "name": "Pez Pl\u00e1tano",
-          "url": "https://open.spotify.com/artist/2QSolWRaQ4qyykIQwVe3IT"
+          "name": "Hausi Kuta",
+          "url": "https://open.spotify.com/artist/5iVb4hi1IDpP6NKIKdEwpF"
         }
       ],
-      "duration_ms": 222835,
-      "name": "Vaso de agua",
-      "url": "https://open.spotify.com/track/1ZWArrmgFGakWumTH24Isn"
+      "duration_ms": 221233,
+      "name": "Yod",
+      "url": "https://open.spotify.com/track/6XTZFGXabuOw71RMOgtao3"
     },
     {
       "added_at": "2024-03-08 03:00:00",
@@ -1367,18 +1351,18 @@
     {
       "added_at": "2024-03-08 03:00:00",
       "album": {
-        "name": "La vida mi vida se vive as\u00ed (Radio Edit)",
-        "url": "https://open.spotify.com/album/6d8HeRuWTKAoDDWxzeoRGS"
+        "name": "Vaso de agua",
+        "url": "https://open.spotify.com/album/3J5DPUm1L0l2aW28N4K5Bh"
       },
       "artists": [
         {
-          "name": "Valija Diplomatica",
-          "url": "https://open.spotify.com/artist/2euAtk0firHMqPFDJHLJCV"
+          "name": "Pez Pl\u00e1tano",
+          "url": "https://open.spotify.com/artist/2QSolWRaQ4qyykIQwVe3IT"
         }
       ],
-      "duration_ms": 174683,
-      "name": "La vida mi vida se vive as\u00ed - Radio Edit",
-      "url": "https://open.spotify.com/track/4KiadmrJu0p0LYGPshd7kB"
+      "duration_ms": 222835,
+      "name": "Vaso de agua",
+      "url": "https://open.spotify.com/track/1ZWArrmgFGakWumTH24Isn"
     },
     {
       "added_at": "2024-03-08 03:00:00",
@@ -1415,18 +1399,18 @@
     {
       "added_at": "2024-03-08 03:00:00",
       "album": {
-        "name": "Shawarma Love",
-        "url": "https://open.spotify.com/album/43aSsiOqPkg2R2CCX3ufQx"
+        "name": "La vida mi vida se vive as\u00ed (Radio Edit)",
+        "url": "https://open.spotify.com/album/6d8HeRuWTKAoDDWxzeoRGS"
       },
       "artists": [
         {
-          "name": "Pez Pl\u00e1tano",
-          "url": "https://open.spotify.com/artist/2QSolWRaQ4qyykIQwVe3IT"
+          "name": "Valija Diplomatica",
+          "url": "https://open.spotify.com/artist/2euAtk0firHMqPFDJHLJCV"
         }
       ],
-      "duration_ms": 231750,
-      "name": "Shawarma Love",
-      "url": "https://open.spotify.com/track/6Vi9Cf1rg1KSM7Vlnp1Wgn"
+      "duration_ms": 174683,
+      "name": "La vida mi vida se vive as\u00ed - Radio Edit",
+      "url": "https://open.spotify.com/track/4KiadmrJu0p0LYGPshd7kB"
     },
     {
       "added_at": "2024-03-08 03:00:00",
@@ -1447,26 +1431,6 @@
     {
       "added_at": "2024-03-08 03:00:00",
       "album": {
-        "name": "Cuesti\u00f3nalo Todo",
-        "url": "https://open.spotify.com/album/01VuGsVLgIYVbsh1TDPvhT"
-      },
-      "artists": [
-        {
-          "name": "Jawar",
-          "url": "https://open.spotify.com/artist/6Y2c7oVQPj8XJbsv3vHndS"
-        },
-        {
-          "name": "Todos Me Caen Bien",
-          "url": "https://open.spotify.com/artist/39V0OLIFDw1VdBaasv2nIb"
-        }
-      ],
-      "duration_ms": 224096,
-      "name": "Fuego y Mar",
-      "url": "https://open.spotify.com/track/632EQlodzA2oI40ZjZYa2n"
-    },
-    {
-      "added_at": "2024-03-08 03:00:00",
-      "album": {
         "name": "No Me Esperes M\u00e1s",
         "url": "https://open.spotify.com/album/4hlgFJaB91vmosuy65XQDV"
       },
@@ -1483,6 +1447,22 @@
     {
       "added_at": "2024-03-08 03:00:00",
       "album": {
+        "name": "Shawarma Love",
+        "url": "https://open.spotify.com/album/43aSsiOqPkg2R2CCX3ufQx"
+      },
+      "artists": [
+        {
+          "name": "Pez Pl\u00e1tano",
+          "url": "https://open.spotify.com/artist/2QSolWRaQ4qyykIQwVe3IT"
+        }
+      ],
+      "duration_ms": 231750,
+      "name": "Shawarma Love",
+      "url": "https://open.spotify.com/track/6Vi9Cf1rg1KSM7Vlnp1Wgn"
+    },
+    {
+      "added_at": "2024-03-08 03:00:00",
+      "album": {
         "name": "Eclipse",
         "url": "https://open.spotify.com/album/1vcXzG08KpYWIKU6QVGp6I"
       },
@@ -1495,6 +1475,26 @@
       "duration_ms": 319903,
       "name": "Eclipse",
       "url": "https://open.spotify.com/track/5oWhkOd58YO5LzNvIwCSG3"
+    },
+    {
+      "added_at": "2024-03-08 03:00:00",
+      "album": {
+        "name": "Cuesti\u00f3nalo Todo",
+        "url": "https://open.spotify.com/album/01VuGsVLgIYVbsh1TDPvhT"
+      },
+      "artists": [
+        {
+          "name": "Jawar",
+          "url": "https://open.spotify.com/artist/6Y2c7oVQPj8XJbsv3vHndS"
+        },
+        {
+          "name": "Todos Me Caen Bien",
+          "url": "https://open.spotify.com/artist/39V0OLIFDw1VdBaasv2nIb"
+        }
+      ],
+      "duration_ms": 224096,
+      "name": "Fuego y Mar",
+      "url": "https://open.spotify.com/track/632EQlodzA2oI40ZjZYa2n"
     }
   ],
   "unique_name": "Rock Chileno",

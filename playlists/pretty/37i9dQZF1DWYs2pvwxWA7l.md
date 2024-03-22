@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYs2pvwxWA7l.md) - [plain]
 
 > The hottest Afropop records on the planet\.  Cover:  King Promise
 
-[Spotify](https://open.spotify.com/user/spotify) - 550,223 likes - 70 songs - 3 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 550,385 likes - 70 songs - 3 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,12 +71,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYs2pvwxWA7l.md) - [plain]
 | 61 | [Ma Cherie](https://open.spotify.com/track/3PemVHtCIb5abITSvos4Bq) | [Bien](https://open.spotify.com/artist/2zhossaaVN2pXg5p8o101X) | [Ma Cherie](https://open.spotify.com/album/3ByyPk478xVoajmKEHUFcr) | 2:52 |
 | 62 | [PRAY](https://open.spotify.com/track/69bvwTwKZBlynqbMyZmEO2) | [Bnxn](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [PRAY](https://open.spotify.com/album/38stSF1VmGFy1VaatiMmp5) | 2:57 |
 | 63 | [Don't Leave](https://open.spotify.com/track/19fCpJYZVtBKyOtIvEnDv0) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [RAVAGE](https://open.spotify.com/album/53oOgXjjaTx42Sy2exYlH9) | 3:05 |
-| 64 | [Deadly \(feat\. Victony\)](https://open.spotify.com/track/7MmtzAIcOnhKL8cjpdLitf) | [Stefflon Don](https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD), [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [Deadly \(feat\. Victony\)](https://open.spotify.com/album/03YaxCFFtgahKn6fk8lxcL) | 3:01 |
-| 65 | [Love Made Me Do It](https://open.spotify.com/track/0EDveqCZ7ExWFkF0SE4NV7) | [JAE5](https://open.spotify.com/artist/3NbqBIc16CNAe5nYSmHR3p), [Bnxn](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [Love Made Me Do It](https://open.spotify.com/album/09afloJIDVkuukH5f0Puo2) | 3:16 |
+| 64 | [Love Made Me Do It](https://open.spotify.com/track/0EDveqCZ7ExWFkF0SE4NV7) | [JAE5](https://open.spotify.com/artist/3NbqBIc16CNAe5nYSmHR3p), [Bnxn](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [Love Made Me Do It](https://open.spotify.com/album/09afloJIDVkuukH5f0Puo2) | 3:16 |
+| 65 | [Deadly \(feat\. Victony\)](https://open.spotify.com/track/7MmtzAIcOnhKL8cjpdLitf) | [Stefflon Don](https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD), [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [Deadly \(feat\. Victony\)](https://open.spotify.com/album/03YaxCFFtgahKn6fk8lxcL) | 3:01 |
 | 66 | [Simple Things](https://open.spotify.com/track/7HupMpgxBnu6QgEsJibKU0) | [Emotional Oranges](https://open.spotify.com/artist/12trz2INGglrKMzLmg0y2C), [Nonso Amadi](https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV) | [Blended](https://open.spotify.com/album/6Sc37HYChx5UIVyRzsuEuw) | 2:48 |
 | 67 | [Single Again](https://open.spotify.com/track/0h9NbR0ozxlNVnTXOX8xjk) | [Harmonize](https://open.spotify.com/artist/1eCaedusgydlcn69blHOvL) | [Single Again](https://open.spotify.com/album/77o4SRMv2fNVXHxwcTO6DI) | 3:44 |
 | 68 | [Danger](https://open.spotify.com/track/3Kc2ZkX5CjmoaOSIi1kyh2) | [KiDi](https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V) | [Danger](https://open.spotify.com/album/7INuTkjRWZjmsTF2GvfSKh) | 2:28 |
-| 69 | [Feel Different](https://open.spotify.com/track/0nTgtjFQzLhvU3VLciMPlN) | [Reekado Banks](https://open.spotify.com/artist/3bxZkzk0PLHcetO9o4oxXn), [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s), [Maleek Berry](https://open.spotify.com/artist/520qA5VGL9iI0SbmEnTVNg) | [Feel Different](https://open.spotify.com/album/3WkYJGUSNOTvGoe4YkIVjM) | 2:59 |
+| 69 | [Down](https://open.spotify.com/track/0M9O5WAGgXg6S7f2WjU3dD) | [Rayvanny](https://open.spotify.com/artist/7G9dCn1mqomAa0ucJoBm6J) | [Down](https://open.spotify.com/album/2nRCzZ8OwYBgSmjcF8wYbY) | 2:42 |
 | 70 | [Sweet Tea \(Aduke\)](https://open.spotify.com/track/1L7mOi50c91uzwkmeUhClS) | [Bnxn](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [Sweet Tea \(Aduke\)](https://open.spotify.com/album/419GRX5ILJgc9uIMlxFWBB) | 2:29 |
 
-Snapshot ID: `MCw4ZmIxOWQ5NzM0NzIyNjY3OTNiN2Q0NWIwODhlZWFmZjZkOGYzNDg4`
+Snapshot ID: `MCw2NDAyYWRlY2U4ZmRkYmQ5ZDRjOTQ4OTFmMDBlNDVlZTY3MjNlNjdj`

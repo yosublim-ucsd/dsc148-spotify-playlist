@@ -4,7 +4,7 @@
 
 > Afro sounds crossing borders\. Cover: Pheelz
 
-470 songs - 1 day 1 hr 14 min
+471 songs - 1 day 1 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -144,7 +144,8 @@
 | [Eve Bounce \- Remix](https://open.spotify.com/track/70XKM6b0oyRXMSagZABK5v) | [Yung L](https://open.spotify.com/artist/5jW1p6bav4DYihIHewKBCq), [WizKid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Eve Bounce](https://open.spotify.com/album/715RAdaas5D9Fx38E9blPJ) | 3:24 | 2021-09-10 | 2022-08-02 |
 | [Everything](https://open.spotify.com/track/4zqRu31aWCiHeYMw9GptOO) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [Everything](https://open.spotify.com/album/1WxjIKagr1Vgwk6XTxYh7X) | 2:46 | 2024-02-09 |  |
 | [Everytime](https://open.spotify.com/track/63MDlT75I1QKngHOVjvuTk) | [SPINALL](https://open.spotify.com/artist/2NtQA3PY9chI8l65ejZLTP), [Kranium](https://open.spotify.com/artist/1LKo6ZA3RNvKtLa6zDu32S) | [Everytime](https://open.spotify.com/album/47QstGb0yUF5dG1xDPCOub) | 3:20 | 2021-09-10 | 2022-07-29 |
-| [Ex Convict](https://open.spotify.com/track/5WAFaje0Cs3hHhNqjUIfY6) | [Shallipopi](https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU) | [Ex Convict](https://open.spotify.com/album/5Y0FIl4JX5S1vvm5Kc8OHh) | 3:22 | 2024-01-26 |  |
+| [Ex Convict](https://open.spotify.com/track/5O7fTE396BVFRTkQv5ENSo) | [Shallipopi](https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU) | [Ex Convict](https://open.spotify.com/album/0j4TScmifAmAFxOYpzCVCH) | 3:22 | 2024-03-15 |  |
+| [Ex Convict](https://open.spotify.com/track/5WAFaje0Cs3hHhNqjUIfY6) | [Shallipopi](https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU) | [Ex Convict](https://open.spotify.com/album/5Y0FIl4JX5S1vvm5Kc8OHh) | 3:22 | 2024-01-26 | 2024-03-22 |
 | [Excited](https://open.spotify.com/track/4bRmk5LSrDbeJZOa6NDV8b) | [July 7](https://open.spotify.com/artist/51kPCmCJ7rXClxKDc2r4RA) | [Excited](https://open.spotify.com/album/4JSZI9W4FtOBaOgd4TJWMY) | 2:03 | 2023-07-21 | 2023-08-19 |
 | [Fakosi](https://open.spotify.com/track/3yFntP1ZfDbHkNWWOCZt7O) | [Reekado Banks](https://open.spotify.com/artist/3bxZkzk0PLHcetO9o4oxXn), [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx), [Del B](https://open.spotify.com/artist/6lDz9VhPe8FMyUEWpMdj2t) | [Fakosi \(Remix\)](https://open.spotify.com/album/3YPNvgCesJrEaLZgZLXzdt) | 3:02 | 2024-02-16 |  |
 | [Fantasy](https://open.spotify.com/track/7CT50AAAJs2s9HZ7UR5vGe) | [Niniola](https://open.spotify.com/artist/5MEHQvTW53C0ccsuxdZobQ), [Femi Kuti](https://open.spotify.com/artist/6kgrtA0dlnVpWB6zjpXrRb) | [Fantasy](https://open.spotify.com/album/21ueS98Z9fgjdnTgHVRASb) | 2:56 | 2021-09-10 | 2022-04-20 |

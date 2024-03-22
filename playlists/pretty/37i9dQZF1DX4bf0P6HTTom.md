@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4bf0P6HTTom.md) - [plain]
 
 > Eagles, The Byrds and all your favorite country rock
 
-[Spotify](https://open.spotify.com/user/spotify) - 155,251 likes - 50 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 155,281 likes - 50 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4bf0P6HTTom.md) - [plain]
 | 43 | [Train Leaves Here This Mornin](https://open.spotify.com/track/3MwzIAtG0izIWUdjVUQnrJ) | [Dillard & Clark](https://open.spotify.com/artist/3QcM2tU8CDY3LyzvwCj1CI) | [The Fantastic Expedition Of Dillard & Clark \(Expanded Edition\)](https://open.spotify.com/album/28QaQDECuseWDTmKWGltxF) | 3:48 |
 | 44 | [Cosmic Cowboy](https://open.spotify.com/track/3vvceIDWVANlLWKoJUzBn6) | [Michael Martin Murphey](https://open.spotify.com/artist/4jL1usPiGDK8TD46zJP4gu), [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3), [Jerry Jeff Walker](https://open.spotify.com/artist/763opp15PhfHpEaiVjM6m7), [Lyle Lovett](https://open.spotify.com/artist/0zlJDQgqnr9AocrH9gs1Es), [Bruce Robison](https://open.spotify.com/artist/5cqtplMyw7hPLjW47Jr7Uq), [Django Walker](https://open.spotify.com/artist/3gA6trQf3KmA74GZw9WTsI), [Gary P\. Nunn](https://open.spotify.com/artist/0E8Z0e9ZVDaVz6mnXH5UqL), [Bob Livingston](https://open.spotify.com/artist/1n8LsK850ruMqeFvVpcDW9) | [Austinology \- Alleys of Austin](https://open.spotify.com/album/7sYNpOIkgegedM6myq1IK1) | 4:16 |
 | 45 | [Love Reunited](https://open.spotify.com/track/59kLqy6RhRKWFWFgdFSB63) | [The Desert Rose Band](https://open.spotify.com/artist/19FK6WGl1TLyFNsXXqTz8u) | [The Desert Rose Band](https://open.spotify.com/album/4Web53QnajhmXAA6PXK5ih) | 2:57 |
-| 46 | [Miller's Cave](https://open.spotify.com/track/3tS8Gv5lYu5gIzHUPnwipm) | [The International Submarine Band](https://open.spotify.com/artist/6i8kpDUSsrOOhPHfNYhMeF) | [Safe at Home](https://open.spotify.com/album/1ijz3Aok4jyARLKu6Eaph9) | 2:48 |
-| 47 | [Listen to a Country Song](https://open.spotify.com/track/5YEgs7DjcGk9pYP6l0u85h) | [Loggins & Messina](https://open.spotify.com/artist/7emRV8AluG3d4e5T0DZiK9) | [Sittin' In](https://open.spotify.com/album/1EtuN2j0AKVwsiqrddMtco) | 2:49 |
+| 46 | [Listen to a Country Song](https://open.spotify.com/track/5YEgs7DjcGk9pYP6l0u85h) | [Loggins & Messina](https://open.spotify.com/artist/7emRV8AluG3d4e5T0DZiK9) | [Sittin' In](https://open.spotify.com/album/1EtuN2j0AKVwsiqrddMtco) | 2:49 |
+| 47 | [Miller's Cave](https://open.spotify.com/track/3tS8Gv5lYu5gIzHUPnwipm) | [The International Submarine Band](https://open.spotify.com/artist/6i8kpDUSsrOOhPHfNYhMeF) | [Safe at Home](https://open.spotify.com/album/1ijz3Aok4jyARLKu6Eaph9) | 2:48 |
 | 48 | [Make A Little Magic \- 2001 Remaster](https://open.spotify.com/track/6bYroZcslsd84iw56ft2a6) | [Nitty Gritty Dirt Band](https://open.spotify.com/artist/7y70dch6JuuuNnwlsOQvwW), [Nicolette Larson](https://open.spotify.com/artist/0NCXrh1XOnHNp4mM0JUFJw) | [Best Of](https://open.spotify.com/album/53g97Xwkme1StWj2GC3BkG) | 3:55 |
 | 49 | [Step on Out](https://open.spotify.com/track/5oAkG0zYaOmv9fHG7CvEBE) | [Chris Hillman](https://open.spotify.com/artist/70FybmH2MMz9fHewhnLvjs) | [Slippin Away](https://open.spotify.com/album/6p9yV1ZDhYDfvf6MSnw72Y) | 3:15 |
 | 50 | [Down Along The Cove](https://open.spotify.com/track/2jigzHqXdUlpAlmSeaVSeU) | [Johnny Jenkins](https://open.spotify.com/artist/3ghDyCR4DJVjwfcjNHUD27) | [Ton\-Ton Macoute!](https://open.spotify.com/album/5PCm5Bvheyg4QeuF5lfkum) | 3:25 |
 
-Snapshot ID: `MCw2N2RkYWQ3MGQ5ZDY4MGVlMTdmN2JmODRiNzZkM2UwNzhiMjgxYzE2`
+Snapshot ID: `MCxmYTIwYzQ4ZWI0ZDVhOTg5Mzk4ODU5Y2VlY2RmMTUwODIzMWNmNTY1`

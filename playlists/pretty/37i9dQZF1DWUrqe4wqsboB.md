@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUrqe4wqsboB.md) - [plain]
 
 > Indie, pop, alternativo..\. y un poco más allá\. Cover: Ana Macho
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,221 likes - 50 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,232 likes - 50 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUrqe4wqsboB.md) - [plain]
 | 30 | [Agua](https://open.spotify.com/track/2hzyzFA7VZrtvFaWIYxynR) | [Pj Sin Suela](https://open.spotify.com/artist/0AdjzZxHJ4MfbImx2rD0Df), [Bebo Dumont](https://open.spotify.com/artist/1K3l8XdgOtySWPTvBfhgYe) | [De Vuelta a Casa](https://open.spotify.com/album/5cWQZRUiVsVMK35FPJnNN0) | 3:58 |
 | 31 | [Días Negros](https://open.spotify.com/track/7GggClJIZhrWpNYfFt5RAQ) | [Chango Menas](https://open.spotify.com/artist/02JOH3JikydGzqOEI7WzA9) | [Días Negros](https://open.spotify.com/album/5aAukLeOUD7CH1qE36t7mt) | 3:02 |
 | 32 | [La Mitad](https://open.spotify.com/track/2NoqbmRul942IxBxlE0IDE) | [GALE](https://open.spotify.com/artist/04pH6pkJugHJ7g3DTCQBVM) | [Lo Que No Te Dije](https://open.spotify.com/album/0KrPRk1FK1ToydnMvBZ315) | 2:56 |
-| 33 | [Otra Noche en L.A.](https://open.spotify.com/track/2CqqG67J2dUvM6BmlZKWiD) | [Ricky Martin](https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ) | [PLAY](https://open.spotify.com/album/5HUZHRFykvKm9v6Bf3alDC) | 3:31 |
-| 34 | [Vibra](https://open.spotify.com/track/41dHSGLC4FJl8iQFU60PEp) | [Calma Carmona](https://open.spotify.com/artist/3cwyykLjgXZ09CV661ZO8q) | [Vibra](https://open.spotify.com/album/6CEienBDgxTIWPx5VxJV3g) | 2:54 |
+| 33 | [Vibra](https://open.spotify.com/track/41dHSGLC4FJl8iQFU60PEp) | [Calma Carmona](https://open.spotify.com/artist/3cwyykLjgXZ09CV661ZO8q) | [Vibra](https://open.spotify.com/album/6CEienBDgxTIWPx5VxJV3g) | 2:54 |
+| 34 | [Otra Noche en L.A.](https://open.spotify.com/track/2CqqG67J2dUvM6BmlZKWiD) | [Ricky Martin](https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ) | [PLAY](https://open.spotify.com/album/5HUZHRFykvKm9v6Bf3alDC) | 3:31 |
 | 35 | [Hot Pants](https://open.spotify.com/track/6ru8BeXJfqD2IGYlu4K18N) | [Los Rivera Destino](https://open.spotify.com/artist/7LQaY9LGXHzoJY8DvwpSid) | [Memes del Futuro](https://open.spotify.com/album/2BngW4gizvgN5Xzda1ypkW) | 2:57 |
 | 36 | [Tommy Bahama](https://open.spotify.com/track/0rAzw6N1msr3fNzqmOLLU9) | [Sebimor](https://open.spotify.com/artist/6p1OHsaiF7V8qCu80f9ROH) | [Tommy Bahama](https://open.spotify.com/album/28rGVwaeWzeUOlwaew40FW) | 3:49 |
 | 37 | [Desastre Comunal](https://open.spotify.com/track/4zT2HDqXcnXDfHZpNWgq1T) | [Los Wálters](https://open.spotify.com/artist/0joND3Z9boBeX6EOu66rAY) | [Miss Universos](https://open.spotify.com/album/1Ss9TprLiCLzubn8S549gl) | 3:05 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUrqe4wqsboB.md) - [plain]
 | 49 | [Rockstar](https://open.spotify.com/track/6ieljkNQsuSVof3XWD8box) | [Baby City Club](https://open.spotify.com/artist/0C0N9lnbb1PTCOU7Rltx6h) | [Rockstar](https://open.spotify.com/album/0u1cF6vEOT9XMoJGZJJDWw) | 3:20 |
 | 50 | [Los Perros Van Al Cielo](https://open.spotify.com/track/4UlNyXwdUC2r5YSdOYB0Bt) | [Epilogio](https://open.spotify.com/artist/3VbATB9xUq0UsLkb9tXKaA) | [Los Perros Van Al Cielo](https://open.spotify.com/album/78zM7Jt21cfSI2s95Me58N) | 3:15 |
 
-Snapshot ID: `MCxiNWFmYjViMTQ5YTRhMzkyMDUwMjFhNDNjOGE2NGUzYjNhNmNmM2I5`
+Snapshot ID: `MCw5NjYxNjRjZDNlODdlM2RiMjc3MzMzMzJjMTg2MzVhYzAzMjVhMTYz`

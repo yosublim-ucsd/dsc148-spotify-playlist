@@ -1,5 +1,5 @@
 {
-  "2024-03-21": 21178,
+  "2024-03-22": 21200,
   "date_first_scraped": "2022-09-22",
   "description": "Zuchu takes over Swahili Love as we celebrate International Women's month.  Cover: Zuchu",
   "name": "Swahili Love ",
@@ -137,6 +137,28 @@
     {
       "album": {
         "name": "Ananipenda",
+        "url": "https://open.spotify.com/album/423Wp7YqGn32sGjcZnkGY0"
+      },
+      "artists": [
+        {
+          "name": "Platform",
+          "url": "https://open.spotify.com/artist/6b4FmhYEMo14E648KMF8Md"
+        },
+        {
+          "name": "Marioo",
+          "url": "https://open.spotify.com/artist/4ZTqTkO2kj1doQrbqQ5KEe"
+        }
+      ],
+      "date_added": "2024-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215604,
+      "name": "Ananipenda",
+      "url": "https://open.spotify.com/track/3iHEGOxlt1QlkobUQXtAqk"
+    },
+    {
+      "album": {
+        "name": "Ananipenda",
         "url": "https://open.spotify.com/album/4ubtaCtnqlodlNKIXhjijl"
       },
       "artists": [
@@ -151,7 +173,7 @@
       ],
       "date_added": "2023-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-21",
       "duration_ms": 215604,
       "name": "Ananipenda",
       "url": "https://open.spotify.com/track/4R6vTxggpyMGuSjfwOkPEB"
@@ -685,7 +707,7 @@
     {
       "album": {
         "name": "Enjoy",
-        "url": "https://open.spotify.com/album/3uY2fylWZaffBO94cxXQ15"
+        "url": "https://open.spotify.com/album/2r2GgPbTjjPB8OclFfiFGY"
       },
       "artists": [
         {
@@ -700,6 +722,28 @@
       "date_added": "2024-03-14",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 216724,
+      "name": "Enjoy",
+      "url": "https://open.spotify.com/track/1qiHxdihSes6DA9hkAKFyg"
+    },
+    {
+      "album": {
+        "name": "Enjoy",
+        "url": "https://open.spotify.com/album/3uY2fylWZaffBO94cxXQ15"
+      },
+      "artists": [
+        {
+          "name": "Jux",
+          "url": "https://open.spotify.com/artist/2ZLAPSgdMTOcovno5mGBZW"
+        },
+        {
+          "name": "Diamond Platnumz",
+          "url": "https://open.spotify.com/artist/3cAisWS37sGCCtRgWfvrod"
+        }
+      ],
+      "date_added": "2024-03-14",
+      "date_added_asterisk": false,
+      "date_removed": "2024-03-21",
       "duration_ms": 216724,
       "name": "Enjoy",
       "url": "https://open.spotify.com/track/3osydJRsRqgVFKYTC04QfT"
@@ -2805,7 +2849,7 @@
     {
       "album": {
         "name": "Shugga Daddy",
-        "url": "https://open.spotify.com/album/5foA3Ow8x9xHM90eZx3QcC"
+        "url": "https://open.spotify.com/album/097gz3apAOCQwp1wwrzGp1"
       },
       "artists": [
         {
@@ -2824,6 +2868,32 @@
       "date_added": "2024-03-14",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 276637,
+      "name": "Shugga Daddy",
+      "url": "https://open.spotify.com/track/7nWOBXiPlxNrFewUNtkU3d"
+    },
+    {
+      "album": {
+        "name": "Shugga Daddy",
+        "url": "https://open.spotify.com/album/5foA3Ow8x9xHM90eZx3QcC"
+      },
+      "artists": [
+        {
+          "name": "Jux",
+          "url": "https://open.spotify.com/artist/2ZLAPSgdMTOcovno5mGBZW"
+        },
+        {
+          "name": "DJ Tarico",
+          "url": "https://open.spotify.com/artist/33CYyUywVRqTra6IdaQ35H"
+        },
+        {
+          "name": "G Nako",
+          "url": "https://open.spotify.com/artist/0ywwwX8jcXj6HW4l0xOzMC"
+        }
+      ],
+      "date_added": "2024-03-14",
+      "date_added_asterisk": false,
+      "date_removed": "2024-03-21",
       "duration_ms": 276637,
       "name": "Shugga Daddy",
       "url": "https://open.spotify.com/track/7v2WiLVup37NCjBg3chiw1"

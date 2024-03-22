@@ -1,12 +1,12 @@
 {
   "description": "\u5373\u8208\u800c\u81ea\u5728\u3001\u512a\u96c5\u800c\u8212\u7de9\uff0c\u9019\u5f62\u5bb9\u662f\u4e0d\u662f\u50cf\u500b\u597d\u5922\u7684\u611f\u89ba\u5462\uff1f\u5c31\u8b93\u7f8e\u5999\u7684\u7235\u58eb\u6a02\u52a9\u4f60\u5165\u7720\u5427\uff01",
-  "num_followers": 62023,
+  "num_followers": 62027,
   "original_name": "\u50ac\u7720\u7235\u58eb",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlNmQ5ZTk5MjI4YjFjNGZiN2QwNmMwNjcxZWVhNmQ3MDllNGE5YTg5",
+  "snapshot_id": "MCxiYTMxOWRlOWZmMjNhNzdjYjZlY2QzZWU2MzUxYjZjOTNlZjQ2NDVj",
   "tracks": [
     {
       "added_at": "2024-03-11 03:08:10",
@@ -455,22 +455,6 @@
     {
       "added_at": "2024-03-11 03:08:10",
       "album": {
-        "name": "Candy",
-        "url": "https://open.spotify.com/album/4OdGL0Uq7YZmrxsIYKUbrU"
-      },
-      "artists": [
-        {
-          "name": "Bobby Hutcherson",
-          "url": "https://open.spotify.com/artist/3uO6HG2JwyP744sg4PMmg5"
-        }
-      ],
-      "duration_ms": 323600,
-      "name": "Stardust",
-      "url": "https://open.spotify.com/track/6QqXTZUL8O3y46rgDEWnsm"
-    },
-    {
-      "added_at": "2024-03-11 03:08:10",
-      "album": {
         "name": "Whiplash (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/1rwMhGTCp0D6CN2XKQjyQt"
       },
@@ -483,6 +467,22 @@
       "duration_ms": 89026,
       "name": "Fletcher's Song In Club",
       "url": "https://open.spotify.com/track/0ZFortLKtHTKy7YtuJiubt"
+    },
+    {
+      "added_at": "2024-03-11 03:08:10",
+      "album": {
+        "name": "Candy",
+        "url": "https://open.spotify.com/album/4OdGL0Uq7YZmrxsIYKUbrU"
+      },
+      "artists": [
+        {
+          "name": "Bobby Hutcherson",
+          "url": "https://open.spotify.com/artist/3uO6HG2JwyP744sg4PMmg5"
+        }
+      ],
+      "duration_ms": 323600,
+      "name": "Stardust",
+      "url": "https://open.spotify.com/track/6QqXTZUL8O3y46rgDEWnsm"
     },
     {
       "added_at": "2024-03-11 03:08:10",
@@ -875,18 +875,22 @@
     {
       "added_at": "2024-03-11 03:08:10",
       "album": {
-        "name": "The Mourning of a Star",
-        "url": "https://open.spotify.com/album/1dcuNuUNZNe33aMywoaTuP"
+        "name": "The Sequel",
+        "url": "https://open.spotify.com/album/1k02v5raMzSZ7KJIBrJyum"
       },
       "artists": [
         {
-          "name": "Keith Jarrett",
-          "url": "https://open.spotify.com/artist/0F3Aew9DSd6fb6192K1K0Y"
+          "name": "Mulgrew Miller",
+          "url": "https://open.spotify.com/artist/6Zq5ky484xYTgxE6dQ8yHh"
+        },
+        {
+          "name": "Wingspan",
+          "url": "https://open.spotify.com/artist/1WBleZIOFSKVCm1OSON1qd"
         }
       ],
-      "duration_ms": 77533,
-      "name": "Interlude No. 3",
-      "url": "https://open.spotify.com/track/0wvbb2MxlokwqSvbeoOOHv"
+      "duration_ms": 392733,
+      "name": "It Never Entered My Mind",
+      "url": "https://open.spotify.com/track/1vP5Ceh1SrfOalU8Yc3XE9"
     },
     {
       "added_at": "2024-03-11 03:08:10",
@@ -923,22 +927,18 @@
     {
       "added_at": "2024-03-11 03:08:10",
       "album": {
-        "name": "The Sequel",
-        "url": "https://open.spotify.com/album/1k02v5raMzSZ7KJIBrJyum"
+        "name": "The Mourning of a Star",
+        "url": "https://open.spotify.com/album/1dcuNuUNZNe33aMywoaTuP"
       },
       "artists": [
         {
-          "name": "Mulgrew Miller",
-          "url": "https://open.spotify.com/artist/6Zq5ky484xYTgxE6dQ8yHh"
-        },
-        {
-          "name": "Wingspan",
-          "url": "https://open.spotify.com/artist/1WBleZIOFSKVCm1OSON1qd"
+          "name": "Keith Jarrett",
+          "url": "https://open.spotify.com/artist/0F3Aew9DSd6fb6192K1K0Y"
         }
       ],
-      "duration_ms": 392733,
-      "name": "It Never Entered My Mind",
-      "url": "https://open.spotify.com/track/1vP5Ceh1SrfOalU8Yc3XE9"
+      "duration_ms": 77533,
+      "name": "Interlude No. 3",
+      "url": "https://open.spotify.com/track/0wvbb2MxlokwqSvbeoOOHv"
     },
     {
       "added_at": "2024-03-11 03:08:10",
@@ -1251,22 +1251,6 @@
     {
       "added_at": "2024-03-11 03:08:10",
       "album": {
-        "name": "Turning Point",
-        "url": "https://open.spotify.com/album/0agszqZvTEs9EpGAsAj6yT"
-      },
-      "artists": [
-        {
-          "name": "Benny Golson",
-          "url": "https://open.spotify.com/artist/78NDaMzmcDKjt7mkXs7AuG"
-        }
-      ],
-      "duration_ms": 288840,
-      "name": "Dear Kathy",
-      "url": "https://open.spotify.com/track/151RegbPut96kOvkSiPqLb"
-    },
-    {
-      "added_at": "2024-03-11 03:08:10",
-      "album": {
         "name": "It's All Right!",
         "url": "https://open.spotify.com/album/14CbMw1lBMs4xI2JacW9ad"
       },
@@ -1279,6 +1263,22 @@
       "duration_ms": 275546,
       "name": "Portrait Of Jenny",
       "url": "https://open.spotify.com/track/1C5HpiqUgOY7v5audtXeXa"
+    },
+    {
+      "added_at": "2024-03-11 03:08:10",
+      "album": {
+        "name": "Turning Point",
+        "url": "https://open.spotify.com/album/0agszqZvTEs9EpGAsAj6yT"
+      },
+      "artists": [
+        {
+          "name": "Benny Golson",
+          "url": "https://open.spotify.com/artist/78NDaMzmcDKjt7mkXs7AuG"
+        }
+      ],
+      "duration_ms": 288840,
+      "name": "Dear Kathy",
+      "url": "https://open.spotify.com/track/151RegbPut96kOvkSiPqLb"
     },
     {
       "added_at": "2024-03-11 03:08:10",

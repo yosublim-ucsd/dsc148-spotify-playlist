@@ -4,7 +4,7 @@
 
 > pure pop sauce\. Cover: Troye Sivan
 
-382 songs - 20 hr 13 min
+383 songs - 20 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,8 +60,8 @@
 | [Borrowed Time \(feat\. Forest Claudette\)](https://open.spotify.com/track/0QUmJ32lHLSMfAfjKgQake) | [Cosmo's Midnight](https://open.spotify.com/artist/4VivsO1n4n2Mi2Btyb5gfL), [Forest Claudette](https://open.spotify.com/artist/4d26k6BPR9MhZyTj3g5yEM) | [Borrowed Time \(feat\. Forest Claudette\)](https://open.spotify.com/album/576sDjTd5pNXrfFpT6TFi5) | 3:13 | 2024-01-19 |  |
 | [By The End Of The Night](https://open.spotify.com/track/0tYtfBFJLVn2ITE66FbaLT) | [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [By The End Of The Night](https://open.spotify.com/album/0cNb1JOALBpKIZtOxxSabq) | 3:08 | 2023-06-15 | 2023-07-21 |
 | [Calm Down \(with Selena Gomez\)](https://open.spotify.com/track/0WtM2NBVQNNJLh6scP13H8) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS), [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [Calm Down \(with Selena Gomez\)](https://open.spotify.com/album/2b2GHWESCWEuHiCZ2Skedp) | 3:59 | 2024-01-19 |  |
-| [Can I Shower At Yours](https://open.spotify.com/track/4M5SqWR8LIgE9N3QzEJlyS) | [Amy Shark](https://open.spotify.com/artist/2DORQjKJVYZMx9uu82UGtT) | [Can I Shower At Yours](https://open.spotify.com/album/0fTLP9DCzyRXwn1un2prwj) | 1:54 | 2023-06-22 | 2023-11-02 |
-| [Can I Shower At Yours](https://open.spotify.com/track/7bSC6hfsuLSINztDsCh0Sw) | [Amy Shark](https://open.spotify.com/artist/2DORQjKJVYZMx9uu82UGtT) | [Can I Shower At Yours \(Acoustic\)](https://open.spotify.com/album/5mlOM2LUgvbPCZzNNmarHx) | 1:54 | 2024-03-14 |  |
+| [Can I Shower At Yours](https://open.spotify.com/track/4M5SqWR8LIgE9N3QzEJlyS) | [Amy Shark](https://open.spotify.com/artist/2DORQjKJVYZMx9uu82UGtT) | [Can I Shower At Yours](https://open.spotify.com/album/0fTLP9DCzyRXwn1un2prwj) | 1:54 | 2023-06-22 |  |
+| [Can I Shower At Yours](https://open.spotify.com/track/7bSC6hfsuLSINztDsCh0Sw) | [Amy Shark](https://open.spotify.com/artist/2DORQjKJVYZMx9uu82UGtT) | [Can I Shower At Yours \(Acoustic\)](https://open.spotify.com/album/5mlOM2LUgvbPCZzNNmarHx) | 1:54 | 2024-03-14 | 2024-03-22 |
 | [Can't Get Enough](https://open.spotify.com/track/3A0XNK2dqNFIjG4yBt9Zzd) | [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR) | [Can't Get Enough](https://open.spotify.com/album/3w8ZxUWRMNv5uERVK3fLq1) | 3:06 | 2024-01-11 | 2024-03-15 |
 | [Can't Get You Out Of My Head](https://open.spotify.com/track/15bTP9Tl5rmRpB7FelsTZP) | [Amy Shark](https://open.spotify.com/artist/2DORQjKJVYZMx9uu82UGtT) | [Can't Get You Out Of My Head](https://open.spotify.com/album/7fJ1TjZABMewQqhGgu45Kg) | 3:03 | 2023-11-16 | 2024-01-19 |
 | [Can't Play Myself \(A Tribute To Amy\)](https://open.spotify.com/track/6GrLwf1LdBCmkBOsmOcbPp) | [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN), [Amy Winehouse](https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR) | [Can't Play Myself \(A Tribute To Amy\)](https://open.spotify.com/album/4dIIRxQJD8krCBjlEBDX35) | 2:54 | 2023-10-13 | 2023-11-02 |
@@ -71,7 +71,7 @@
 | [Chemical](https://open.spotify.com/track/4qzEjmuz380jeiBJp31oDY) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [Chemical](https://open.spotify.com/album/6NoH5RUtjoh6ae2lJ9gWfq) | 3:04 | 2023-06-15 | 2023-10-13 |
 | [Chemical](https://open.spotify.com/track/5w40ZYhbBMAlHYNDaVJIUu) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [Chemical](https://open.spotify.com/album/7qcSUc5Af63mhfTF60KTEA) | 3:04 | 2024-01-19 | 2024-03-15 |
 | [Chloe Enough!](https://open.spotify.com/track/0so9O4kW2iUyDjflqDxA18) | [CXLOE](https://open.spotify.com/artist/6M25WWmNO7wK1DnKmd3z6R) | [Chloe Enough!](https://open.spotify.com/album/0xaOEgweHb5N05ZtJTxUsj) | 2:30 | 2024-01-19 | 2024-02-23 |
-| [Chloe Enough!](https://open.spotify.com/track/39rW3vGtDSCM889izxIkiu) | [CXLOE](https://open.spotify.com/artist/6M25WWmNO7wK1DnKmd3z6R) | [Chloe Enough!](https://open.spotify.com/album/1YUeCffXlEbbVzSWzGzpaP) | 2:30 | 2024-01-19 |  |
+| [Chloe Enough!](https://open.spotify.com/track/39rW3vGtDSCM889izxIkiu) | [CXLOE](https://open.spotify.com/artist/6M25WWmNO7wK1DnKmd3z6R) | [Chloe Enough!](https://open.spotify.com/album/1YUeCffXlEbbVzSWzGzpaP) | 2:30 | 2024-01-19 | 2024-03-22 |
 | [Choose Your Fighter \(From Barbie The Album\)](https://open.spotify.com/track/3SexEc7om0q1awRqi8nCd1) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Choose Your Fighter \(From Barbie The Album\)](https://open.spotify.com/album/718h0CzRHO6ums1CTrB5L1) | 2:17 | 2023-07-20 | 2023-08-18 |
 | [club heaven](https://open.spotify.com/track/1nO6DT2QIYTxwLGrfQvIt3) | [Nessa Barrett](https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ) | [club heaven](https://open.spotify.com/album/119D6p9ScXWYQxWLMv99yn) | 2:11 | 2023-10-05 | 2023-11-11 |
 | [Cruel Summer](https://open.spotify.com/track/1BxfuPKGuaTgP7aM0Bbdwr) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Lover](https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq) | 2:58 | 2023-06-22 |  |
@@ -188,6 +188,7 @@
 | [Killing Me](https://open.spotify.com/track/2Lss5tezmIkgZA3GFfptI2) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Killing Me](https://open.spotify.com/album/7l01qix76t2pcJNPTEMA9E) | 3:24 | 2023-11-09 | 2024-01-19 |
 | [Kinda Famous](https://open.spotify.com/track/4YwpoXjq8jy5aWLU2cP4uU) | [Peach PRC](https://open.spotify.com/artist/006j2rer9tZJCYniu7SaWS) | [Manic Dream Pixie](https://open.spotify.com/album/37v0q6s1IB9jSCPMIpFwFN) | 2:54 | 2023-06-15 | 2023-08-18 |
 | [Kissing In Swimming Pools](https://open.spotify.com/track/6BIlXbxx0kRiUdnmX8L1I9) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [Kissing In Swimming Pools](https://open.spotify.com/album/1B1PGcHPdviJ6xkOtJiLgX) | 4:47 | 2023-10-05 | 2023-11-11 |
+| [Last Night](https://open.spotify.com/track/59uQI0PADDKeE6UZDTJEe8) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [3 Songs At A Time Sampler](https://open.spotify.com/album/7fOmdhRrRohTzToL617xkk) | 2:43 | 2024-03-21 |  |
 | [Last Time I Saw You](https://open.spotify.com/track/79DPYZ6x8FfzgSgPoPhpC3) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Last Time I Saw You](https://open.spotify.com/album/1e26jDA4kEIjhgaMUf8mH1) | 3:36 | 2023-08-31 | 2023-12-15 |
 | [leavemealone](https://open.spotify.com/track/1MVqeIAwhD4T44AKVkIfic) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Baby Keem](https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1) | [leavemealone](https://open.spotify.com/album/3Tsut3cVOWP7AKAR4Dtmhb) | 3:42 | 2023-12-21 | 2024-02-02 |
 | [Let It Go](https://open.spotify.com/track/2YcAWq0FlcyFlPtYaVMSSF) | [Fergus James](https://open.spotify.com/artist/6iQluOJNzmmaXVVCA0XgbY) | [Let It Go](https://open.spotify.com/album/0nGfE1F2RdxJ2ycM7JqzmS) | 2:43 | 2023-11-09 | 2024-01-12 |

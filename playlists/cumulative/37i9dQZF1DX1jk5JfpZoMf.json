@@ -340,7 +340,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-03",
+      "date_removed": null,
       "duration_ms": 143161,
       "name": "Bonne nuit pluie",
       "url": "https://open.spotify.com/track/1Tlo1Zhx6afHnjrws8Tgcy"
@@ -412,7 +412,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-22",
       "duration_ms": 143583,
       "name": "Calm Pour",
       "url": "https://open.spotify.com/track/1RXXLvEKXmz2c6TG1EDUz2"
@@ -718,7 +718,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-22",
       "duration_ms": 169331,
       "name": "Cozy Rain Sound",
       "url": "https://open.spotify.com/track/3byF8Z5oOsuVbrPlyfFyIK"
@@ -808,7 +808,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-22",
       "duration_ms": 208000,
       "name": "Distant Rain",
       "url": "https://open.spotify.com/track/5yvsWvwVq8bYrltqTi9TxJ"
@@ -826,7 +826,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-22",
       "duration_ms": 164452,
       "name": "Distant Rain Pt. 2",
       "url": "https://open.spotify.com/track/69L094NBbXerjHjjMFDvoH"
@@ -2428,7 +2428,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-15",
+      "date_removed": null,
       "duration_ms": 203533,
       "name": "Non Stop Rain",
       "url": "https://open.spotify.com/track/2rOtIWhP7JBwzzWAHn4kf1"
@@ -2482,7 +2482,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-22",
       "duration_ms": 147534,
       "name": "Nothing Falls Like Rain",
       "url": "https://open.spotify.com/track/31MpTScCW34zYT4sIZT4rY"
@@ -2723,6 +2723,28 @@
     },
     {
       "album": {
+        "name": "Nature's Rainfall Melodies",
+        "url": "https://open.spotify.com/album/2L4ZTUZNAvkyo3d1G3Nu5c"
+      },
+      "artists": [
+        {
+          "name": "NATURE",
+          "url": "https://open.spotify.com/artist/1clB4n7uMUiSx5ZZ0FQoM1"
+        },
+        {
+          "name": "The Listening Planet",
+          "url": "https://open.spotify.com/artist/0ibpxyRfuKDpHxLbMzji2Y"
+        }
+      ],
+      "date_added": "2024-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182626,
+      "name": "Queensland Rain Rhythms",
+      "url": "https://open.spotify.com/track/2eKXZLG6SdlCv3kZfv0QTv"
+    },
+    {
+      "album": {
         "name": "Bliss Rain",
         "url": "https://open.spotify.com/album/2kCvDwV3CmtQ1DlpLJ3Erm"
       },
@@ -2810,6 +2832,24 @@
       "duration_ms": 174000,
       "name": "Rain All Around Us",
       "url": "https://open.spotify.com/track/0OCLkr4GJ0GqRBicgCwLoz"
+    },
+    {
+      "album": {
+        "name": "Rain Chatter",
+        "url": "https://open.spotify.com/album/3Rjzg5Rllf3BrHOjEnxdzQ"
+      },
+      "artists": [
+        {
+          "name": "Northerly Nature",
+          "url": "https://open.spotify.com/artist/5jNKsTKXS0Ub5ng4c4XsL1"
+        }
+      ],
+      "date_added": "2024-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176296,
+      "name": "Rain Chatter",
+      "url": "https://open.spotify.com/track/5ICtYJwGeJrmBX4AX8nXpq"
     },
     {
       "album": {
@@ -3245,6 +3285,28 @@
     },
     {
       "album": {
+        "name": "Tropical Rain Sounds - Colombia",
+        "url": "https://open.spotify.com/album/1o6MUAVUhkL7FlvuV5cND8"
+      },
+      "artists": [
+        {
+          "name": "NATURE",
+          "url": "https://open.spotify.com/artist/1clB4n7uMUiSx5ZZ0FQoM1"
+        },
+        {
+          "name": "Vozterra",
+          "url": "https://open.spotify.com/artist/1uvFGqJiEwPFy2v84uG5U9"
+        }
+      ],
+      "date_added": "2024-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135029,
+      "name": "Rain Sounds in Los Llanos",
+      "url": "https://open.spotify.com/track/2i2XQP37gZCAi0DveWyGcD"
+    },
+    {
+      "album": {
         "name": "Relaxing Sounds of Nature",
         "url": "https://open.spotify.com/album/2QGcmnsvluOe2W71WSfTyG"
       },
@@ -3544,7 +3606,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-22",
       "duration_ms": 129000,
       "name": "Raining Me Softly",
       "url": "https://open.spotify.com/track/4CTDJG3F26MUJEwnJ2fhJh"
@@ -4217,6 +4279,24 @@
     },
     {
       "album": {
+        "name": "Sleepy Rain Sounds",
+        "url": "https://open.spotify.com/album/0JPekW780Lxd4Gz0bR2872"
+      },
+      "artists": [
+        {
+          "name": "The Beautiful World Around",
+          "url": "https://open.spotify.com/artist/1uWldAX5DTfh3ok6HvgkJJ"
+        }
+      ],
+      "date_added": "2024-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154877,
+      "name": "Sleepy Rain Sounds",
+      "url": "https://open.spotify.com/track/0bfuV9XkfHaMOJbxX9AUoJ"
+    },
+    {
+      "album": {
         "name": "Reclining Rain",
         "url": "https://open.spotify.com/album/09GQWPwVu5vnqtis8Sm9Zv"
       },
@@ -4232,6 +4312,24 @@
       "duration_ms": 208000,
       "name": "Sleepy Raindrops",
       "url": "https://open.spotify.com/track/01Mgf3GGm5oEzUcwPRHROa"
+    },
+    {
+      "album": {
+        "name": "Volume 2",
+        "url": "https://open.spotify.com/album/5NgY5CULUgD79hID4M1XMB"
+      },
+      "artists": [
+        {
+          "name": "The Sound Of The Rain",
+          "url": "https://open.spotify.com/artist/6dBj5bCBZzgZdWuo9Gb0eh"
+        }
+      ],
+      "date_added": "2024-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191298,
+      "name": "Slowing Rain",
+      "url": "https://open.spotify.com/track/3D7S0olBoyof3UikRaLIxM"
     },
     {
       "album": {
@@ -4318,7 +4416,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-22",
       "duration_ms": 177976,
       "name": "Softer Rain",
       "url": "https://open.spotify.com/track/7pjG0uixjZKFqsj05SJIOi"
@@ -4462,7 +4560,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-22",
       "duration_ms": 138122,
       "name": "Sounds of Nature: Dripping Rain",
       "url": "https://open.spotify.com/track/247djZ4tbKkV0bPJ0gW5Zk"
@@ -4660,7 +4758,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-22",
       "duration_ms": 152883,
       "name": "Summer Rain",
       "url": "https://open.spotify.com/track/7a3eLJPSgAk3PQbpYjrYdM"
@@ -4772,6 +4870,24 @@
       "duration_ms": 198000,
       "name": "The Picnic is Over",
       "url": "https://open.spotify.com/track/2ZPtYQNnLHRoKTvtawl4Jy"
+    },
+    {
+      "album": {
+        "name": "Gentle Rain Sounds 2",
+        "url": "https://open.spotify.com/album/27xnvpybEbD0nza8kKAkXR"
+      },
+      "artists": [
+        {
+          "name": "LBE Nature Recordings",
+          "url": "https://open.spotify.com/artist/2rujgIBrLOHJ64leeafdmz"
+        }
+      ],
+      "date_added": "2024-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194351,
+      "name": "This Is Rain",
+      "url": "https://open.spotify.com/track/0ESBZksvk8Mh4CLkQFJZdD"
     },
     {
       "album": {
@@ -4898,6 +5014,28 @@
       "duration_ms": 158987,
       "name": "Under the Rain Clouds",
       "url": "https://open.spotify.com/track/1MyeT7GjwylrPvcLsBSjds"
+    },
+    {
+      "album": {
+        "name": "Electric Atmospheres",
+        "url": "https://open.spotify.com/album/3OvvaE109VRaHEVe4uVdU9"
+      },
+      "artists": [
+        {
+          "name": "NATURE",
+          "url": "https://open.spotify.com/artist/1clB4n7uMUiSx5ZZ0FQoM1"
+        },
+        {
+          "name": "The Listening Planet",
+          "url": "https://open.spotify.com/artist/0ibpxyRfuKDpHxLbMzji2Y"
+        }
+      ],
+      "date_added": "2024-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187350,
+      "name": "Victoria Thunder Beats",
+      "url": "https://open.spotify.com/track/7kFIuXeScsfDtx1rUG6dZE"
     },
     {
       "album": {

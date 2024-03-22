@@ -1,12 +1,12 @@
 {
   "description": "riff-heavy, fuzzed-out numbers. ",
-  "num_followers": 539518,
+  "num_followers": 539535,
   "original_name": "Stoner Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmNmZlNjc5YWEzMTc2YjU1NmM2MzEwNjFhZGMyYmUzNzhjMTA5YWY5",
+  "snapshot_id": "MCw1ZDNlMGVhNjc0Njg2NDU0YjFkZTZkNDAyZjliYWFlZGE0NTk1M2Ji",
   "tracks": [
     {
       "added_at": "2024-02-09 05:00:00",
@@ -395,8 +395,8 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
-        "name": "The Action Is Go",
-        "url": "https://open.spotify.com/album/7xYJinzZ19pVPVmEAakYv9"
+        "name": "Godzilla's / Eatin' Dust",
+        "url": "https://open.spotify.com/album/7GyCk26ieCcV2CAtheDuYF"
       },
       "artists": [
         {
@@ -404,9 +404,9 @@
           "url": "https://open.spotify.com/artist/1TKaUU8ooBgSW9TlyKsw6k"
         }
       ],
-      "duration_ms": 210866,
-      "name": "Evil Eye",
-      "url": "https://open.spotify.com/track/5UaB0lA47nZRJRrUk3AlEI"
+      "duration_ms": 190800,
+      "name": "Eatin' Dust",
+      "url": "https://open.spotify.com/track/2eHruBEy06Vt7VswO4ROhC"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -459,22 +459,6 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
-        "name": "Ugo",
-        "url": "https://open.spotify.com/album/4lMHWDYpYeZqpY4FX4grpB"
-      },
-      "artists": [
-        {
-          "name": "The Dead Pirates",
-          "url": "https://open.spotify.com/artist/64bheP4lw6MvGJBNFKtPgx"
-        }
-      ],
-      "duration_ms": 358740,
-      "name": "Ugo",
-      "url": "https://open.spotify.com/track/20yNjjGAAROnXoANUjI3JY"
-    },
-    {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
         "name": "Welcome to Sky Valley",
         "url": "https://open.spotify.com/album/2NU3mpjBFtZPUYjjT9pJoq"
       },
@@ -487,6 +471,22 @@
       "duration_ms": 356200,
       "name": "Supa Scoopa and Mighty Scoop",
       "url": "https://open.spotify.com/track/74PX4Sa0tXJDStditawG0O"
+    },
+    {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
+        "name": "Ugo",
+        "url": "https://open.spotify.com/album/4lMHWDYpYeZqpY4FX4grpB"
+      },
+      "artists": [
+        {
+          "name": "The Dead Pirates",
+          "url": "https://open.spotify.com/artist/64bheP4lw6MvGJBNFKtPgx"
+        }
+      ],
+      "duration_ms": 358740,
+      "name": "Ugo",
+      "url": "https://open.spotify.com/track/20yNjjGAAROnXoANUjI3JY"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -539,8 +539,8 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
-        "name": "Godzilla's / Eatin' Dust",
-        "url": "https://open.spotify.com/album/7GyCk26ieCcV2CAtheDuYF"
+        "name": "The Action Is Go",
+        "url": "https://open.spotify.com/album/7xYJinzZ19pVPVmEAakYv9"
       },
       "artists": [
         {
@@ -548,9 +548,9 @@
           "url": "https://open.spotify.com/artist/1TKaUU8ooBgSW9TlyKsw6k"
         }
       ],
-      "duration_ms": 190800,
-      "name": "Eatin' Dust",
-      "url": "https://open.spotify.com/track/2eHruBEy06Vt7VswO4ROhC"
+      "duration_ms": 210866,
+      "name": "Evil Eye",
+      "url": "https://open.spotify.com/track/5UaB0lA47nZRJRrUk3AlEI"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -731,22 +731,6 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
-        "name": "Agents Of Ahriman",
-        "url": "https://open.spotify.com/album/1gHn0PVCJR5joKontf6iSw"
-      },
-      "artists": [
-        {
-          "name": "Greenleaf",
-          "url": "https://open.spotify.com/artist/2Mjr7nb7vY7AQwxGskDlM7"
-        }
-      ],
-      "duration_ms": 185440,
-      "name": "Stray Bullit Woman",
-      "url": "https://open.spotify.com/track/2oBdRxAKkKn1S8MzwVuNwh"
-    },
-    {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
         "name": "Busse Woods",
         "url": "https://open.spotify.com/album/1EKnUtlrqGQiz44ipzoWvZ"
       },
@@ -763,18 +747,18 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
-        "name": "Blood Lust",
-        "url": "https://open.spotify.com/album/4o75UnpEUlCE2eA6HaVwW3"
+        "name": "Agents Of Ahriman",
+        "url": "https://open.spotify.com/album/1gHn0PVCJR5joKontf6iSw"
       },
       "artists": [
         {
-          "name": "Uncle Acid & The Deadbeats",
-          "url": "https://open.spotify.com/artist/16PcI6JjJuUfPlsX8Ffvfl"
+          "name": "Greenleaf",
+          "url": "https://open.spotify.com/artist/2Mjr7nb7vY7AQwxGskDlM7"
         }
       ],
-      "duration_ms": 301840,
-      "name": "I'll Cut You Down",
-      "url": "https://open.spotify.com/track/2f9K9Gm9CLj0eKFW3BQZE8"
+      "duration_ms": 185440,
+      "name": "Stray Bullit Woman",
+      "url": "https://open.spotify.com/track/2oBdRxAKkKn1S8MzwVuNwh"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -791,6 +775,22 @@
       "duration_ms": 392000,
       "name": "Look To Your Orb For The Warning",
       "url": "https://open.spotify.com/track/5WQLx09gJM4Dsf65C9hAhI"
+    },
+    {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
+        "name": "Blood Lust",
+        "url": "https://open.spotify.com/album/4o75UnpEUlCE2eA6HaVwW3"
+      },
+      "artists": [
+        {
+          "name": "Uncle Acid & The Deadbeats",
+          "url": "https://open.spotify.com/artist/16PcI6JjJuUfPlsX8Ffvfl"
+        }
+      ],
+      "duration_ms": 301840,
+      "name": "I'll Cut You Down",
+      "url": "https://open.spotify.com/track/2f9K9Gm9CLj0eKFW3BQZE8"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -891,22 +891,6 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
-        "name": "Blood Lust",
-        "url": "https://open.spotify.com/album/4o75UnpEUlCE2eA6HaVwW3"
-      },
-      "artists": [
-        {
-          "name": "Uncle Acid & The Deadbeats",
-          "url": "https://open.spotify.com/artist/16PcI6JjJuUfPlsX8Ffvfl"
-        }
-      ],
-      "duration_ms": 435213,
-      "name": "Death's Door",
-      "url": "https://open.spotify.com/track/0Af99n8xtgGe57zDumMcOT"
-    },
-    {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
         "name": "No Comfort",
         "url": "https://open.spotify.com/album/2GkKlUD9Ac7CCycGeNuDW0"
       },
@@ -951,6 +935,22 @@
       "duration_ms": 230653,
       "name": "Leftovers",
       "url": "https://open.spotify.com/track/7IM5tvokhddITGFOrbZZGk"
+    },
+    {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
+        "name": "Blood Lust",
+        "url": "https://open.spotify.com/album/4o75UnpEUlCE2eA6HaVwW3"
+      },
+      "artists": [
+        {
+          "name": "Uncle Acid & The Deadbeats",
+          "url": "https://open.spotify.com/artist/16PcI6JjJuUfPlsX8Ffvfl"
+        }
+      ],
+      "duration_ms": 435213,
+      "name": "Death's Door",
+      "url": "https://open.spotify.com/track/0Af99n8xtgGe57zDumMcOT"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -1019,22 +1019,6 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
-        "name": "Thornwyck Hymn",
-        "url": "https://open.spotify.com/album/2cIflrgAlkTOuh0SsJaQ3k"
-      },
-      "artists": [
-        {
-          "name": "My Dying Bride",
-          "url": "https://open.spotify.com/artist/7iMWWdRNiCJwGOGEIYr02z"
-        }
-      ],
-      "duration_ms": 407783,
-      "name": "Thornwyck Hymn",
-      "url": "https://open.spotify.com/track/6niB9R5q0KV6pVTKfZEdje"
-    },
-    {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
         "name": "Old Growth",
         "url": "https://open.spotify.com/album/7LGsgnr6xkCpnNScW4QthT"
       },
@@ -1047,6 +1031,22 @@
       "duration_ms": 256959,
       "name": "What Needs Must Be",
       "url": "https://open.spotify.com/track/5HR0UqvkEL1KhvaRtQVXFr"
+    },
+    {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
+        "name": "Thornwyck Hymn",
+        "url": "https://open.spotify.com/album/2cIflrgAlkTOuh0SsJaQ3k"
+      },
+      "artists": [
+        {
+          "name": "My Dying Bride",
+          "url": "https://open.spotify.com/artist/7iMWWdRNiCJwGOGEIYr02z"
+        }
+      ],
+      "duration_ms": 407783,
+      "name": "Thornwyck Hymn",
+      "url": "https://open.spotify.com/track/6niB9R5q0KV6pVTKfZEdje"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -1323,22 +1323,6 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
-        "name": "STONE (Deluxe)",
-        "url": "https://open.spotify.com/album/7mv4FQrLiyJWLDazVNZzTi"
-      },
-      "artists": [
-        {
-          "name": "Baroness",
-          "url": "https://open.spotify.com/artist/3KdXhEwbqFHfNfSk7L9E87"
-        }
-      ],
-      "duration_ms": 334306,
-      "name": "Beneath the Rose",
-      "url": "https://open.spotify.com/track/2Wfrylq2ghMGoqaOvVDr6O"
-    },
-    {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
         "name": "Into Submission",
         "url": "https://open.spotify.com/album/4B9cytDNyVkzr4PFtN1SSq"
       },
@@ -1351,6 +1335,22 @@
       "duration_ms": 267493,
       "name": "Superhuman God",
       "url": "https://open.spotify.com/track/5LpchRWh4lgFh3uNThdKrh"
+    },
+    {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
+        "name": "STONE (Deluxe)",
+        "url": "https://open.spotify.com/album/7mv4FQrLiyJWLDazVNZzTi"
+      },
+      "artists": [
+        {
+          "name": "Baroness",
+          "url": "https://open.spotify.com/artist/3KdXhEwbqFHfNfSk7L9E87"
+        }
+      ],
+      "duration_ms": 334306,
+      "name": "Beneath the Rose",
+      "url": "https://open.spotify.com/track/2Wfrylq2ghMGoqaOvVDr6O"
     },
     {
       "added_at": "2024-02-09 05:00:00",

@@ -1,13 +1,133 @@
 {
-  "description": "Tropical jams to catch a vibe and whine to. Cover: Omah Lay",
-  "num_followers": 28750,
+  "description": "Tropical jams to catch a vibe and whine to. Cover: Gold Fang",
+  "num_followers": 28752,
   "original_name": "Afro Fusion",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4NjQxMzA1ZjY5YjkyMmNkYzJjYWMzZDIzYWI4ODc0MDdhNDAxYTQw",
+  "snapshot_id": "MCxjZDgyNWZjZjE5NDk2Zjk0YWVlNTUzNDBjYzM5YWNhODJhMGRhMzc4",
   "tracks": [
+    {
+      "added_at": "2024-03-21 13:00:00",
+      "album": {
+        "name": "TYLA",
+        "url": "https://open.spotify.com/album/3KGVOGmIbinlrR97aFufGE"
+      },
+      "artists": [
+        {
+          "name": "Tyla",
+          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
+        },
+        {
+          "name": "Tems",
+          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
+        }
+      ],
+      "duration_ms": 147046,
+      "name": "No.1 (feat. Tems)",
+      "url": "https://open.spotify.com/track/3qeMtqV38UWPZfps7mPTUE"
+    },
+    {
+      "added_at": "2024-03-21 13:00:00",
+      "album": {
+        "name": "Pretty Girls",
+        "url": "https://open.spotify.com/album/2hab7riz6xmtgfvqxfnNLk"
+      },
+      "artists": [
+        {
+          "name": "Frenna",
+          "url": "https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5"
+        }
+      ],
+      "duration_ms": 145571,
+      "name": "Pretty Girls",
+      "url": "https://open.spotify.com/track/4skvJoTBLEYUfS3Z1xvGjs"
+    },
+    {
+      "added_at": "2024-03-21 13:00:00",
+      "album": {
+        "name": "Replay",
+        "url": "https://open.spotify.com/album/5FLiuv7yv19N5iuezp0qQO"
+      },
+      "artists": [
+        {
+          "name": "Gold Fang",
+          "url": "https://open.spotify.com/artist/1e8lOc1h26CVBSGh3iiW7M"
+        }
+      ],
+      "duration_ms": 139636,
+      "name": "Replay",
+      "url": "https://open.spotify.com/track/4BAIKNDhzBhO90nKPEVP4b"
+    },
+    {
+      "added_at": "2024-03-21 13:00:00",
+      "album": {
+        "name": "Tshwala Bam (feat. S.N.E, EeQue)",
+        "url": "https://open.spotify.com/album/4lZSgj4cw3cmEvw0KQXNnY"
+      },
+      "artists": [
+        {
+          "name": "TitoM",
+          "url": "https://open.spotify.com/artist/5eYSqn4LCXLgIFYR4qOZ1k"
+        },
+        {
+          "name": "Yuppe",
+          "url": "https://open.spotify.com/artist/0M6k4Kgi5NiIDnafSKSLE0"
+        },
+        {
+          "name": "EeQue",
+          "url": "https://open.spotify.com/artist/4VqCBSJ9fvJ1XDQUd7K2Ft"
+        },
+        {
+          "name": "S.N.E",
+          "url": "https://open.spotify.com/artist/16RKP7aw26uSkNpadpEgaF"
+        }
+      ],
+      "duration_ms": 390000,
+      "name": "Tshwala Bam (feat. S.N.E, EeQue)",
+      "url": "https://open.spotify.com/track/54seQV7MCcppBrznALCdlT"
+    },
+    {
+      "added_at": "2024-03-21 13:00:00",
+      "album": {
+        "name": "Better Days",
+        "url": "https://open.spotify.com/album/6XhHnQhsT8EayndVj36qvf"
+      },
+      "artists": [
+        {
+          "name": "Candy Bleakz",
+          "url": "https://open.spotify.com/artist/2QPpxx2U3qEeZZsF3uaXn0"
+        },
+        {
+          "name": "Bella Shmurda",
+          "url": "https://open.spotify.com/artist/4OBeWqpDm9s3hfaoVAj1Ni"
+        },
+        {
+          "name": "Vector",
+          "url": "https://open.spotify.com/artist/0VIRUXHBdO0Uo2U6MbVOmn"
+        }
+      ],
+      "duration_ms": 172933,
+      "name": "I Don't Care (feat. Bella Shmurda & Vector)",
+      "url": "https://open.spotify.com/track/7B1yc3t9hnNj9Uq2LBnAz4"
+    },
+    {
+      "added_at": "2024-03-21 13:00:00",
+      "album": {
+        "name": "Hello Darlin'",
+        "url": "https://open.spotify.com/album/07HqfZXYtBudDUMGCEeOax"
+      },
+      "artists": [
+        {
+          "name": "Raf Receipt",
+          "url": "https://open.spotify.com/artist/1VKRxxtnMP0EYuTmJ52m95"
+        }
+      ],
+      "duration_ms": 156461,
+      "name": "Hello Darlin'",
+      "url": "https://open.spotify.com/track/2pDJyVRt0dSyog64qY7N72"
+    },
     {
       "added_at": "2024-03-14 20:37:28",
       "album": {

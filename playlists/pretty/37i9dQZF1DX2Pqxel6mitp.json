@@ -1,12 +1,12 @@
 {
   "description": "A cup of Joe and the raw Blues.",
-  "num_followers": 82414,
+  "num_followers": 82451,
   "original_name": "Black Coffee Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1YzkzYWQwNGJkYzQwY2MwYmVlNzcxOGJmNjEyMDE5YjU2MGUzMDFi",
+  "snapshot_id": "MCxiOGY0MTA2Nzc1YjdhY2QyMzdhMGEyNjBmNTY1Yzg1N2QzNmE0YWRi",
   "tracks": [
     {
       "added_at": "2023-11-24 19:23:20",
@@ -719,26 +719,6 @@
     {
       "added_at": "2023-11-24 19:23:20",
       "album": {
-        "name": "Philadelphia Mississippi",
-        "url": "https://open.spotify.com/album/7LPvvSqf27OBr5a8Erupl3"
-      },
-      "artists": [
-        {
-          "name": "G. Love & Special Sauce",
-          "url": "https://open.spotify.com/artist/74fkl73HDlCXw0l6cemB89"
-        },
-        {
-          "name": "Christone \"Kingfish\" Ingram",
-          "url": "https://open.spotify.com/artist/5jMGnqJkgPaiJzwy5bOcYX"
-        }
-      ],
-      "duration_ms": 185640,
-      "name": "Guitar Man (feat. Christone \"Kingfish\" Ingram)",
-      "url": "https://open.spotify.com/track/6Ldi3GEqxgHp3GZq7eKTYY"
-    },
-    {
-      "added_at": "2023-11-24 19:23:20",
-      "album": {
         "name": "Country Blues Guitar",
         "url": "https://open.spotify.com/album/13TN7isubmqCzQxa3iLPVO"
       },
@@ -755,6 +735,26 @@
       "duration_ms": 225640,
       "name": "Walking Blues",
       "url": "https://open.spotify.com/track/49OfM5fTeH57u2NN9mIpAW"
+    },
+    {
+      "added_at": "2023-11-24 19:23:20",
+      "album": {
+        "name": "Philadelphia Mississippi",
+        "url": "https://open.spotify.com/album/7LPvvSqf27OBr5a8Erupl3"
+      },
+      "artists": [
+        {
+          "name": "G. Love & Special Sauce",
+          "url": "https://open.spotify.com/artist/74fkl73HDlCXw0l6cemB89"
+        },
+        {
+          "name": "Christone \"Kingfish\" Ingram",
+          "url": "https://open.spotify.com/artist/5jMGnqJkgPaiJzwy5bOcYX"
+        }
+      ],
+      "duration_ms": 185640,
+      "name": "Guitar Man (feat. Christone \"Kingfish\" Ingram)",
+      "url": "https://open.spotify.com/track/6Ldi3GEqxgHp3GZq7eKTYY"
     },
     {
       "added_at": "2023-11-24 19:23:20",
@@ -1119,6 +1119,22 @@
     {
       "added_at": "2023-11-24 19:23:20",
       "album": {
+        "name": "Neckbone Stew",
+        "url": "https://open.spotify.com/album/5WaGSIkfMgfuJ0Yd9FNyKb"
+      },
+      "artists": [
+        {
+          "name": "Big Daddy Wilson",
+          "url": "https://open.spotify.com/artist/4xBhIBf0DEjAcJvGSwJdFr"
+        }
+      ],
+      "duration_ms": 181040,
+      "name": "Cross Creek Road",
+      "url": "https://open.spotify.com/track/6sfZbIO4O4BtgE0mJ20zFg"
+    },
+    {
+      "added_at": "2023-11-24 19:23:20",
+      "album": {
         "name": "Navigation Blues",
         "url": "https://open.spotify.com/album/291j4jpDLGN5NeGlOyL5Kh"
       },
@@ -1135,22 +1151,6 @@
       "duration_ms": 296466,
       "name": "Navigation Blues",
       "url": "https://open.spotify.com/track/1NC7eqWo4K8RaTfpLKWoe0"
-    },
-    {
-      "added_at": "2023-11-24 19:23:20",
-      "album": {
-        "name": "Neckbone Stew",
-        "url": "https://open.spotify.com/album/5WaGSIkfMgfuJ0Yd9FNyKb"
-      },
-      "artists": [
-        {
-          "name": "Big Daddy Wilson",
-          "url": "https://open.spotify.com/artist/4xBhIBf0DEjAcJvGSwJdFr"
-        }
-      ],
-      "duration_ms": 181040,
-      "name": "Cross Creek Road",
-      "url": "https://open.spotify.com/track/6sfZbIO4O4BtgE0mJ20zFg"
     },
     {
       "added_at": "2023-11-24 19:23:20",
@@ -1223,6 +1223,22 @@
     {
       "added_at": "2023-11-24 19:23:20",
       "album": {
+        "name": "The Future Ain't What It Used to Be",
+        "url": "https://open.spotify.com/album/0DW4kByILcJVsYLxbfx035"
+      },
+      "artists": [
+        {
+          "name": "Seth Walker",
+          "url": "https://open.spotify.com/artist/3Bl4eNAFJkXXi0ewcjgGP9"
+        }
+      ],
+      "duration_ms": 200987,
+      "name": "The Future Ain't What It Used to Be",
+      "url": "https://open.spotify.com/track/7mNrmOsmZyjJw9FAmrboQO"
+    },
+    {
+      "added_at": "2023-11-24 19:23:20",
+      "album": {
         "name": "You Was Born To Die (feat. Kyshona Armstrong, Margo Price & Jason Isbell)",
         "url": "https://open.spotify.com/album/6r1arc3ykrvuOfit3ezIoR"
       },
@@ -1251,18 +1267,18 @@
     {
       "added_at": "2023-11-24 19:23:20",
       "album": {
-        "name": "The Future Ain't What It Used to Be",
-        "url": "https://open.spotify.com/album/0DW4kByILcJVsYLxbfx035"
+        "name": "Blues & Gospel (Rare & Unreleased Recordings)",
+        "url": "https://open.spotify.com/album/3tUUbZIkGhzmIGLVXP1Fqi"
       },
       "artists": [
         {
-          "name": "Seth Walker",
-          "url": "https://open.spotify.com/artist/3Bl4eNAFJkXXi0ewcjgGP9"
+          "name": "Jo Ann Kelly",
+          "url": "https://open.spotify.com/artist/6enyYil5r9snkIazgAX5DG"
         }
       ],
-      "duration_ms": 200987,
-      "name": "The Future Ain't What It Used to Be",
-      "url": "https://open.spotify.com/track/7mNrmOsmZyjJw9FAmrboQO"
+      "duration_ms": 216186,
+      "name": "Someday Baby Blues",
+      "url": "https://open.spotify.com/track/6SH8e1k6ex1Odj6ukZap0L"
     },
     {
       "added_at": "2023-11-24 19:23:20",
@@ -1279,22 +1295,6 @@
       "duration_ms": 172800,
       "name": "C.C. Rider",
       "url": "https://open.spotify.com/track/2jpyzovZr1zpVVVKck8rlu"
-    },
-    {
-      "added_at": "2023-11-24 19:23:20",
-      "album": {
-        "name": "Blues & Gospel (Rare & Unreleased Recordings)",
-        "url": "https://open.spotify.com/album/3tUUbZIkGhzmIGLVXP1Fqi"
-      },
-      "artists": [
-        {
-          "name": "Jo Ann Kelly",
-          "url": "https://open.spotify.com/artist/6enyYil5r9snkIazgAX5DG"
-        }
-      ],
-      "duration_ms": 216186,
-      "name": "Someday Baby Blues",
-      "url": "https://open.spotify.com/track/6SH8e1k6ex1Odj6ukZap0L"
     },
     {
       "added_at": "2023-11-24 19:23:20",
@@ -1435,22 +1435,6 @@
     {
       "added_at": "2023-11-24 19:23:20",
       "album": {
-        "name": "Man in the Ground",
-        "url": "https://open.spotify.com/album/3pSMQQFLcjdQDasxNuGNEF"
-      },
-      "artists": [
-        {
-          "name": "Jack Barksdale",
-          "url": "https://open.spotify.com/artist/0Xr86XoAGFGXZTAFjr3EMt"
-        }
-      ],
-      "duration_ms": 186920,
-      "name": "Man in the Ground",
-      "url": "https://open.spotify.com/track/58hIcKjEMwvTLGdEsdfRPf"
-    },
-    {
-      "added_at": "2023-11-24 19:23:20",
-      "album": {
         "name": "The Radio Tisdas Sessions",
         "url": "https://open.spotify.com/album/3RHckcouC1a09YjhaznsrM"
       },
@@ -1483,22 +1467,18 @@
     {
       "added_at": "2023-11-24 19:23:20",
       "album": {
-        "name": "Philadelphia Mississippi",
-        "url": "https://open.spotify.com/album/7LPvvSqf27OBr5a8Erupl3"
+        "name": "Man in the Ground",
+        "url": "https://open.spotify.com/album/3pSMQQFLcjdQDasxNuGNEF"
       },
       "artists": [
         {
-          "name": "G. Love & Special Sauce",
-          "url": "https://open.spotify.com/artist/74fkl73HDlCXw0l6cemB89"
-        },
-        {
-          "name": "Sharde Turner",
-          "url": "https://open.spotify.com/artist/5RkXIaQtDyVsWKfNzn08yz"
+          "name": "Jack Barksdale",
+          "url": "https://open.spotify.com/artist/0Xr86XoAGFGXZTAFjr3EMt"
         }
       ],
-      "duration_ms": 220560,
-      "name": "If My Mind Don't Change (feat. Sharde Thomas)",
-      "url": "https://open.spotify.com/track/0EUW0WhEBHJlUOw0JaO38W"
+      "duration_ms": 186920,
+      "name": "Man in the Ground",
+      "url": "https://open.spotify.com/track/58hIcKjEMwvTLGdEsdfRPf"
     },
     {
       "added_at": "2023-11-24 19:23:20",
@@ -1519,18 +1499,22 @@
     {
       "added_at": "2023-11-24 19:23:20",
       "album": {
-        "name": "Wasted Time",
-        "url": "https://open.spotify.com/album/268I3VN44lBjdb3zrkTVlc"
+        "name": "Philadelphia Mississippi",
+        "url": "https://open.spotify.com/album/7LPvvSqf27OBr5a8Erupl3"
       },
       "artists": [
         {
-          "name": "Shannon McNally",
-          "url": "https://open.spotify.com/artist/7MnItka0A4PsGNVzO7Ad0T"
+          "name": "G. Love & Special Sauce",
+          "url": "https://open.spotify.com/artist/74fkl73HDlCXw0l6cemB89"
+        },
+        {
+          "name": "Sharde Turner",
+          "url": "https://open.spotify.com/artist/5RkXIaQtDyVsWKfNzn08yz"
         }
       ],
-      "duration_ms": 138040,
-      "name": "Wasted Time",
-      "url": "https://open.spotify.com/track/5g2wWZNls6R0tIcEqvfY0h"
+      "duration_ms": 220560,
+      "name": "If My Mind Don't Change (feat. Sharde Thomas)",
+      "url": "https://open.spotify.com/track/0EUW0WhEBHJlUOw0JaO38W"
     },
     {
       "added_at": "2023-11-24 19:23:20",
@@ -1547,6 +1531,22 @@
       "duration_ms": 209400,
       "name": "Shake Sugaree",
       "url": "https://open.spotify.com/track/2oYPKt6eHzJwI9AaILvYl2"
+    },
+    {
+      "added_at": "2023-11-24 19:23:20",
+      "album": {
+        "name": "Wasted Time",
+        "url": "https://open.spotify.com/album/268I3VN44lBjdb3zrkTVlc"
+      },
+      "artists": [
+        {
+          "name": "Shannon McNally",
+          "url": "https://open.spotify.com/artist/7MnItka0A4PsGNVzO7Ad0T"
+        }
+      ],
+      "duration_ms": 138040,
+      "name": "Wasted Time",
+      "url": "https://open.spotify.com/track/5g2wWZNls6R0tIcEqvfY0h"
     },
     {
       "added_at": "2023-11-24 19:23:20",
@@ -1639,22 +1639,6 @@
     {
       "added_at": "2023-11-24 19:23:20",
       "album": {
-        "name": "The Road to Liberty, Pt. 1",
-        "url": "https://open.spotify.com/album/2fuHUsqBxtWeSQ810gaggk"
-      },
-      "artists": [
-        {
-          "name": "Mark Harrison",
-          "url": "https://open.spotify.com/artist/14CtALWVNL2IsuvjO27qBd"
-        }
-      ],
-      "duration_ms": 204600,
-      "name": "Passing Through",
-      "url": "https://open.spotify.com/track/6IHuZvXDvMgk0D15P08FPj"
-    },
-    {
-      "added_at": "2023-11-24 19:23:20",
-      "album": {
         "name": "In Too Deep",
         "url": "https://open.spotify.com/album/4UsUWtLQqW0QyGFBKgddue"
       },
@@ -1667,6 +1651,22 @@
       "duration_ms": 183896,
       "name": "Please Take My Hand",
       "url": "https://open.spotify.com/track/4b5MhQ12ztQKOIPoyESfR3"
+    },
+    {
+      "added_at": "2023-11-24 19:23:20",
+      "album": {
+        "name": "The Road to Liberty, Pt. 1",
+        "url": "https://open.spotify.com/album/2fuHUsqBxtWeSQ810gaggk"
+      },
+      "artists": [
+        {
+          "name": "Mark Harrison",
+          "url": "https://open.spotify.com/artist/14CtALWVNL2IsuvjO27qBd"
+        }
+      ],
+      "duration_ms": 204600,
+      "name": "Passing Through",
+      "url": "https://open.spotify.com/track/6IHuZvXDvMgk0D15P08FPj"
     },
     {
       "added_at": "2023-11-24 19:23:20",
@@ -1823,22 +1823,6 @@
     {
       "added_at": "2023-11-24 19:23:20",
       "album": {
-        "name": "Next Time You See Me",
-        "url": "https://open.spotify.com/album/47tUqkIpGOM1Mpn8dkCzmx"
-      },
-      "artists": [
-        {
-          "name": "Junior Parker",
-          "url": "https://open.spotify.com/artist/6XYy5PbBFvsABSY2ZS6R8u"
-        }
-      ],
-      "duration_ms": 180066,
-      "name": "Fussin' and Fightin' (Blues)",
-      "url": "https://open.spotify.com/track/479M29eunSUcosQ608slSc"
-    },
-    {
-      "added_at": "2023-11-24 19:23:20",
-      "album": {
         "name": "Whose Muddy Shoes",
         "url": "https://open.spotify.com/album/50X6gAsoV3eM9O2QrIf2rp"
       },
@@ -1855,6 +1839,22 @@
       "duration_ms": 188306,
       "name": "Rattlesnake",
       "url": "https://open.spotify.com/track/6BT4oFPJsrhsaPxNmwJAGK"
+    },
+    {
+      "added_at": "2023-11-24 19:23:20",
+      "album": {
+        "name": "Next Time You See Me",
+        "url": "https://open.spotify.com/album/47tUqkIpGOM1Mpn8dkCzmx"
+      },
+      "artists": [
+        {
+          "name": "Junior Parker",
+          "url": "https://open.spotify.com/artist/6XYy5PbBFvsABSY2ZS6R8u"
+        }
+      ],
+      "duration_ms": 180066,
+      "name": "Fussin' and Fightin' (Blues)",
+      "url": "https://open.spotify.com/track/479M29eunSUcosQ608slSc"
     },
     {
       "added_at": "2023-11-24 19:23:20",
@@ -1983,22 +1983,6 @@
     {
       "added_at": "2023-11-24 19:23:20",
       "album": {
-        "name": "Acoustic Burnside",
-        "url": "https://open.spotify.com/album/2qDwiHJGbhNWSjBHdU4TEu"
-      },
-      "artists": [
-        {
-          "name": "Duwayne Burnside",
-          "url": "https://open.spotify.com/artist/7nJeSjRUD2PUN4aSYhXkA3"
-        }
-      ],
-      "duration_ms": 184720,
-      "name": "Going Down South",
-      "url": "https://open.spotify.com/track/00omn8FSFkA2Pc6bYw9Q4m"
-    },
-    {
-      "added_at": "2023-11-24 19:23:20",
-      "album": {
         "name": "Unknown Road",
         "url": "https://open.spotify.com/album/0esv0rfP9vJSi0rduSczyK"
       },
@@ -2011,6 +1995,22 @@
       "duration_ms": 212893,
       "name": "Unknown Road",
       "url": "https://open.spotify.com/track/1yk9xba6I7cvfDBpkARZkN"
+    },
+    {
+      "added_at": "2023-11-24 19:23:20",
+      "album": {
+        "name": "Acoustic Burnside",
+        "url": "https://open.spotify.com/album/2qDwiHJGbhNWSjBHdU4TEu"
+      },
+      "artists": [
+        {
+          "name": "Duwayne Burnside",
+          "url": "https://open.spotify.com/artist/7nJeSjRUD2PUN4aSYhXkA3"
+        }
+      ],
+      "duration_ms": 184720,
+      "name": "Going Down South",
+      "url": "https://open.spotify.com/track/00omn8FSFkA2Pc6bYw9Q4m"
     },
     {
       "added_at": "2023-11-24 19:23:20",

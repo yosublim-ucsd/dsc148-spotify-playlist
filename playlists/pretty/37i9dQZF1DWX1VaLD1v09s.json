@@ -1,12 +1,12 @@
 {
   "description": "The most incredible songs to celebrate the life, death and resurrection of our Lord Jesus are all here in one collection.  Sit back and let it provide the praise for glorious day!",
-  "num_followers": 76280,
+  "num_followers": 76292,
   "original_name": "Easter",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0Y2JhMzhkNzQ3ZTg2Yzg4MzlhNDU0OTVlYjFkZDQ3YjIxMzY5ZWQy",
+  "snapshot_id": "MCxkNmU3ZjlhMTRlOTI5Nzg5NGVjYTE4ZTBkMDZiZGUzMzYzNWEyYjk1",
   "tracks": [
     {
       "added_at": "2024-03-20 11:51:14",
@@ -1335,22 +1335,6 @@
     {
       "added_at": "2024-03-20 11:51:14",
       "album": {
-        "name": "Be One (Deluxe Version)",
-        "url": "https://open.spotify.com/album/1BA61ZwyerWAKW9hsPMAlt"
-      },
-      "artists": [
-        {
-          "name": "Natalie Grant",
-          "url": "https://open.spotify.com/artist/6KVnMm856M8CHHBCw53Ihh"
-        }
-      ],
-      "duration_ms": 216400,
-      "name": "King Of The World",
-      "url": "https://open.spotify.com/track/2sHDB7pY43GVTsl0X3ob1B"
-    },
-    {
-      "added_at": "2024-03-20 11:51:14",
-      "album": {
         "name": "How Can It Be",
         "url": "https://open.spotify.com/album/2zTNj92GTDDMzWSXEWdLyu"
       },
@@ -1367,6 +1351,22 @@
       "duration_ms": 225240,
       "name": "Power to Redeem (feat. All Sons & Daughters)",
       "url": "https://open.spotify.com/track/5TpThpilfTOSkbCTXkhGsP"
+    },
+    {
+      "added_at": "2024-03-20 11:51:14",
+      "album": {
+        "name": "Be One (Deluxe Version)",
+        "url": "https://open.spotify.com/album/1BA61ZwyerWAKW9hsPMAlt"
+      },
+      "artists": [
+        {
+          "name": "Natalie Grant",
+          "url": "https://open.spotify.com/artist/6KVnMm856M8CHHBCw53Ihh"
+        }
+      ],
+      "duration_ms": 216400,
+      "name": "King Of The World",
+      "url": "https://open.spotify.com/track/2sHDB7pY43GVTsl0X3ob1B"
     },
     {
       "added_at": "2024-03-20 11:51:14",
@@ -1539,30 +1539,6 @@
     {
       "added_at": "2024-03-20 11:51:14",
       "album": {
-        "name": "Come Alive",
-        "url": "https://open.spotify.com/album/2gMrHKIYTOToJEKDzDTg5t"
-      },
-      "artists": [
-        {
-          "name": "All Nations Music",
-          "url": "https://open.spotify.com/artist/4nSvPl0CuFE4fE6H4zXRsU"
-        },
-        {
-          "name": "Matthew Stevenson",
-          "url": "https://open.spotify.com/artist/1rUprF6B19ELkhEBR0Nqf2"
-        },
-        {
-          "name": "Chandler Moore",
-          "url": "https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk"
-        }
-      ],
-      "duration_ms": 570629,
-      "name": "Yahweh (feat. Matthew Stevenson & Chandler Moore)",
-      "url": "https://open.spotify.com/track/5iz2oJe4z1MMv7tbx5cBhF"
-    },
-    {
-      "added_at": "2024-03-20 11:51:14",
-      "album": {
         "name": "Even So Come (Radio Version/Live)",
         "url": "https://open.spotify.com/album/2ObQurF1ra69HHuOdmfN9P"
       },
@@ -1583,18 +1559,26 @@
     {
       "added_at": "2024-03-20 11:51:14",
       "album": {
-        "name": "Inheritance",
-        "url": "https://open.spotify.com/album/1SCFaSCDkVrIzHed69fWMH"
+        "name": "Come Alive",
+        "url": "https://open.spotify.com/album/2gMrHKIYTOToJEKDzDTg5t"
       },
       "artists": [
         {
-          "name": "Audrey Assad",
-          "url": "https://open.spotify.com/artist/1GKYNY4rIPnOuTfC0J1IWw"
+          "name": "All Nations Music",
+          "url": "https://open.spotify.com/artist/4nSvPl0CuFE4fE6H4zXRsU"
+        },
+        {
+          "name": "Matthew Stevenson",
+          "url": "https://open.spotify.com/artist/1rUprF6B19ELkhEBR0Nqf2"
+        },
+        {
+          "name": "Chandler Moore",
+          "url": "https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk"
         }
       ],
-      "duration_ms": 278779,
-      "name": "Even Unto Death",
-      "url": "https://open.spotify.com/track/4JnM7UCqVL7Un5GdSK7NpA"
+      "duration_ms": 570629,
+      "name": "Yahweh (feat. Matthew Stevenson & Chandler Moore)",
+      "url": "https://open.spotify.com/track/5iz2oJe4z1MMv7tbx5cBhF"
     },
     {
       "added_at": "2024-03-20 11:51:14",
@@ -1635,6 +1619,22 @@
       "duration_ms": 537866,
       "name": "Your Glory / Nothing But The Blood - Live",
       "url": "https://open.spotify.com/track/5UgGtoBzu4mmslDkcbLduT"
+    },
+    {
+      "added_at": "2024-03-20 11:51:14",
+      "album": {
+        "name": "Inheritance",
+        "url": "https://open.spotify.com/album/1SCFaSCDkVrIzHed69fWMH"
+      },
+      "artists": [
+        {
+          "name": "Audrey Assad",
+          "url": "https://open.spotify.com/artist/1GKYNY4rIPnOuTfC0J1IWw"
+        }
+      ],
+      "duration_ms": 278779,
+      "name": "Even Unto Death",
+      "url": "https://open.spotify.com/track/4JnM7UCqVL7Un5GdSK7NpA"
     },
     {
       "added_at": "2024-03-20 11:51:14",
@@ -1999,6 +1999,22 @@
     {
       "added_at": "2024-03-20 11:51:14",
       "album": {
+        "name": "Yours Alone",
+        "url": "https://open.spotify.com/album/421AXhO4np8qzhiQ7hTDBI"
+      },
+      "artists": [
+        {
+          "name": "CityAlight",
+          "url": "https://open.spotify.com/artist/4UNta2jPQJ844nyw1bsyPg"
+        }
+      ],
+      "duration_ms": 288134,
+      "name": "Jerusalem",
+      "url": "https://open.spotify.com/track/037u9C5umoOYx84lhm7EgA"
+    },
+    {
+      "added_at": "2024-03-20 11:51:14",
+      "album": {
         "name": "Citizens",
         "url": "https://open.spotify.com/album/7EtWK30PesO8kiVHoPFVhE"
       },
@@ -2011,22 +2027,6 @@
       "duration_ms": 206210,
       "name": "Made Alive",
       "url": "https://open.spotify.com/track/7zb6qjGi5l9cgUjYaoYI3Y"
-    },
-    {
-      "added_at": "2024-03-20 11:51:14",
-      "album": {
-        "name": "Resurrection Letters, Vol. 1",
-        "url": "https://open.spotify.com/album/7rJMQR42NpNno6urgyoBLV"
-      },
-      "artists": [
-        {
-          "name": "Andrew Peterson",
-          "url": "https://open.spotify.com/artist/1HYNk3B7EsRPIqAOACgjK1"
-        }
-      ],
-      "duration_ms": 273906,
-      "name": "Is He Worthy?",
-      "url": "https://open.spotify.com/track/2re4s98HNlkhVZzGSerVHb"
     },
     {
       "added_at": "2024-03-20 11:51:14",
@@ -2055,6 +2055,22 @@
     {
       "added_at": "2024-03-20 11:51:14",
       "album": {
+        "name": "Resurrection Letters, Vol. 1",
+        "url": "https://open.spotify.com/album/7rJMQR42NpNno6urgyoBLV"
+      },
+      "artists": [
+        {
+          "name": "Andrew Peterson",
+          "url": "https://open.spotify.com/artist/1HYNk3B7EsRPIqAOACgjK1"
+        }
+      ],
+      "duration_ms": 273906,
+      "name": "Is He Worthy?",
+      "url": "https://open.spotify.com/track/2re4s98HNlkhVZzGSerVHb"
+    },
+    {
+      "added_at": "2024-03-20 11:51:14",
+      "album": {
         "name": "A Worshipper's Heart (Live)",
         "url": "https://open.spotify.com/album/1jjOEtC7Kr6GjyWiyipYCB"
       },
@@ -2067,22 +2083,6 @@
       "duration_ms": 418360,
       "name": "The Anthem (Live)",
       "url": "https://open.spotify.com/track/1uYAiD9bW3yNcQ7yInGRlv"
-    },
-    {
-      "added_at": "2024-03-20 11:51:14",
-      "album": {
-        "name": "Yours Alone",
-        "url": "https://open.spotify.com/album/421AXhO4np8qzhiQ7hTDBI"
-      },
-      "artists": [
-        {
-          "name": "CityAlight",
-          "url": "https://open.spotify.com/artist/4UNta2jPQJ844nyw1bsyPg"
-        }
-      ],
-      "duration_ms": 288134,
-      "name": "Jerusalem",
-      "url": "https://open.spotify.com/track/037u9C5umoOYx84lhm7EgA"
     },
     {
       "added_at": "2024-03-20 11:51:14",
@@ -2179,22 +2179,6 @@
     {
       "added_at": "2024-03-20 11:51:14",
       "album": {
-        "name": "Yes I Will",
-        "url": "https://open.spotify.com/album/0OOv0GLx4DQc5tPTkRo6sz"
-      },
-      "artists": [
-        {
-          "name": "Vertical Worship",
-          "url": "https://open.spotify.com/artist/6N6Sk9XOoHsadAGYR44C2o"
-        }
-      ],
-      "duration_ms": 234731,
-      "name": "Yes I Will",
-      "url": "https://open.spotify.com/track/5vMzNmHm2ec2zrqiYhkQzZ"
-    },
-    {
-      "added_at": "2024-03-20 11:51:14",
-      "album": {
         "name": "Greater Things",
         "url": "https://open.spotify.com/album/6zCU9zG1tIfA9V1UEfSPsz"
       },
@@ -2207,6 +2191,22 @@
       "duration_ms": 307026,
       "name": "Christ Is Risen",
       "url": "https://open.spotify.com/track/1GQsaKKI0ZJJPI5Zsop20u"
+    },
+    {
+      "added_at": "2024-03-20 11:51:14",
+      "album": {
+        "name": "Yes I Will",
+        "url": "https://open.spotify.com/album/0OOv0GLx4DQc5tPTkRo6sz"
+      },
+      "artists": [
+        {
+          "name": "Vertical Worship",
+          "url": "https://open.spotify.com/artist/6N6Sk9XOoHsadAGYR44C2o"
+        }
+      ],
+      "duration_ms": 234731,
+      "name": "Yes I Will",
+      "url": "https://open.spotify.com/track/5vMzNmHm2ec2zrqiYhkQzZ"
     },
     {
       "added_at": "2024-03-20 11:51:14",
@@ -2315,6 +2315,22 @@
     {
       "added_at": "2024-03-20 11:51:14",
       "album": {
+        "name": "Church Songs",
+        "url": "https://open.spotify.com/album/2n25b8gFJcDKbiXi9t4dP6"
+      },
+      "artists": [
+        {
+          "name": "Vertical Worship",
+          "url": "https://open.spotify.com/artist/6N6Sk9XOoHsadAGYR44C2o"
+        }
+      ],
+      "duration_ms": 251546,
+      "name": "Lamb of God",
+      "url": "https://open.spotify.com/track/065JpMm3wBounTRtaoqVyS"
+    },
+    {
+      "added_at": "2024-03-20 11:51:14",
+      "album": {
         "name": "Bigger Story",
         "url": "https://open.spotify.com/album/0RuTgx8XCqLhlahtIkSMaX"
       },
@@ -2347,22 +2363,6 @@
       "duration_ms": 165346,
       "name": "Freedom (with BEAM)",
       "url": "https://open.spotify.com/track/63HbQY6pMHcBlE9LIyIuOG"
-    },
-    {
-      "added_at": "2024-03-20 11:51:14",
-      "album": {
-        "name": "Church Songs",
-        "url": "https://open.spotify.com/album/2n25b8gFJcDKbiXi9t4dP6"
-      },
-      "artists": [
-        {
-          "name": "Vertical Worship",
-          "url": "https://open.spotify.com/artist/6N6Sk9XOoHsadAGYR44C2o"
-        }
-      ],
-      "duration_ms": 251546,
-      "name": "Lamb of God",
-      "url": "https://open.spotify.com/track/065JpMm3wBounTRtaoqVyS"
     },
     {
       "added_at": "2024-03-20 11:51:14",

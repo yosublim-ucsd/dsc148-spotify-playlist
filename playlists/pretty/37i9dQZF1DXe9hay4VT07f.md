@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe9hay4VT07f.md) - [plain]
 
 > We outside\. Cover: Valiant
 
-[Spotify](https://open.spotify.com/user/spotify) - 432,591 likes - 100 songs - 5 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 432,681 likes - 100 songs - 5 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,16 +45,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe9hay4VT07f.md) - [plain]
 | 35 | [Bruk off Yuh Back](https://open.spotify.com/track/2O8oFfQOzt6Q9G69XBQdIG) | [Konshens](https://open.spotify.com/artist/3nwYsifpwrKmCIpw4i0HDW) | [Bruk off Yuh Back](https://open.spotify.com/album/1yDKRNLbUWFF68muRwElC0) | 2:53 |
 | 36 | [Talibans II](https://open.spotify.com/track/5zq5fYXIE7X842DD5HBiiB) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [Byron Messia](https://open.spotify.com/artist/3IDfJpj4YVkaBl7Dd52Pxv) | [Talibans II](https://open.spotify.com/album/4EouhaKTJkW8xRpLsCz7va) | 2:56 |
 | 37 | [Foreplay](https://open.spotify.com/track/3QFOdlIjY2EyjLij20OjdB) | [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB) | [Foreplay](https://open.spotify.com/album/7fMMeGFAPp2upuxTKqofYp) | 2:46 |
-| 38 | [Wild n Rich](https://open.spotify.com/track/2ZLcrPOWX3wTnj2h4NdEWx) | [450](https://open.spotify.com/artist/2v6V75NbousiJwy2HV44VL), [Weekday](https://open.spotify.com/artist/2ZoRuY63B7fzl9HaKjlWoF) | [Wild n Rich](https://open.spotify.com/album/4F8cagn4gHpHk8tPA8SPfR) | 2:47 |
-| 39 | [Gal Policy](https://open.spotify.com/track/7yJG5oJwYfom8AVXDcgFLx) | [Kranium](https://open.spotify.com/artist/1LKo6ZA3RNvKtLa6zDu32S) | [Gal Policy](https://open.spotify.com/album/5x1BzHxHcnvjru9T9iA4R8) | 2:16 |
-| 40 | [V6](https://open.spotify.com/track/7aBd8qMooFYZtQQwQJFAdX) | [Ireland Boss](https://open.spotify.com/artist/3JoZVMSSVzYhhMQ5dthRuT), [Malie Donn](https://open.spotify.com/artist/0sP79Bq6zJj6EskteStNBW) | [V6](https://open.spotify.com/album/1VtkkjbqEL8STeBQmpy1Fp) | 2:42 |
+| 38 | [Gal Policy](https://open.spotify.com/track/7yJG5oJwYfom8AVXDcgFLx) | [Kranium](https://open.spotify.com/artist/1LKo6ZA3RNvKtLa6zDu32S) | [Gal Policy](https://open.spotify.com/album/5x1BzHxHcnvjru9T9iA4R8) | 2:16 |
+| 39 | [Wild n Rich](https://open.spotify.com/track/2ZLcrPOWX3wTnj2h4NdEWx) | [450](https://open.spotify.com/artist/2v6V75NbousiJwy2HV44VL), [Weekday](https://open.spotify.com/artist/2ZoRuY63B7fzl9HaKjlWoF) | [Wild n Rich](https://open.spotify.com/album/4F8cagn4gHpHk8tPA8SPfR) | 2:47 |
+| 40 | [Crocodile Teeth](https://open.spotify.com/track/2QXv4NKNCuqCDmOTwcOjrN) | [Skillibeng](https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst) | [Crocodile Teeth](https://open.spotify.com/album/3f1oDLHky5itUghicXgwjg) | 2:46 |
 | 41 | [We Caa Done \(feat\. Drake\)](https://open.spotify.com/track/6rb3wFQ66EWR7DcPG0oEE1) | [Popcaan](https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [We Caa Done \(feat\. Drake\)](https://open.spotify.com/album/4yJNcgX3otzDbMMyrdJBN5) | 4:05 |
-| 42 | [Crocodile Teeth](https://open.spotify.com/track/2QXv4NKNCuqCDmOTwcOjrN) | [Skillibeng](https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst) | [Crocodile Teeth](https://open.spotify.com/album/3f1oDLHky5itUghicXgwjg) | 2:46 |
-| 43 | [She's Royal](https://open.spotify.com/track/6dFOwtd9iBMERardJvsIxY) | [Tarrus Riley](https://open.spotify.com/artist/4frHO7KPcfMjhnVdIMJ98c) | [Parables](https://open.spotify.com/album/4xliwWMj72GCy9Edq1v985) | 4:11 |
-| 44 | [Cant Satisfy Her](https://open.spotify.com/track/3u25dhBZ80h0TFewO29Wqb) | [I Wayne](https://open.spotify.com/artist/3HQIkVkhoARQMb0XlvyUKL) | [Lava Ground](https://open.spotify.com/album/7uReTXgsiJdTHdn42KO2Qp) | 3:41 |
-| 45 | [So Mi Like It](https://open.spotify.com/track/6rgSSesTJGyjQuvx06l3jU) | [Spice](https://open.spotify.com/artist/0wEvWMQRqaXcgnrZv6KtyL) | [10](https://open.spotify.com/album/7pKLvzqcLuNx96e59VFREP) | 2:34 |
+| 42 | [V6](https://open.spotify.com/track/7aBd8qMooFYZtQQwQJFAdX) | [Ireland Boss](https://open.spotify.com/artist/3JoZVMSSVzYhhMQ5dthRuT), [Malie Donn](https://open.spotify.com/artist/0sP79Bq6zJj6EskteStNBW) | [V6](https://open.spotify.com/album/1VtkkjbqEL8STeBQmpy1Fp) | 2:42 |
+| 43 | [Nobody Has to Know](https://open.spotify.com/track/5nLmO6pp71pmiVZwyTPfq9) | [Kranium](https://open.spotify.com/artist/1LKo6ZA3RNvKtLa6zDu32S) | [Rumors](https://open.spotify.com/album/1MZfu40bPBKw1HzXGyGoMX) | 3:42 |
+| 44 | [She's Royal](https://open.spotify.com/track/6dFOwtd9iBMERardJvsIxY) | [Tarrus Riley](https://open.spotify.com/artist/4frHO7KPcfMjhnVdIMJ98c) | [Parables](https://open.spotify.com/album/4xliwWMj72GCy9Edq1v985) | 4:11 |
+| 45 | [Cant Satisfy Her](https://open.spotify.com/track/3u25dhBZ80h0TFewO29Wqb) | [I Wayne](https://open.spotify.com/artist/3HQIkVkhoARQMb0XlvyUKL) | [Lava Ground](https://open.spotify.com/album/7uReTXgsiJdTHdn42KO2Qp) | 3:41 |
 | 46 | [My Type](https://open.spotify.com/track/6oBtzGQSirafwnRDNlloMl) | [Popcaan](https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR) | [My Type \- Single](https://open.spotify.com/album/1IbrNSS9aKgY9M0k1wBJC7) | 3:05 |
-| 47 | [Nobody Has to Know](https://open.spotify.com/track/5nLmO6pp71pmiVZwyTPfq9) | [Kranium](https://open.spotify.com/artist/1LKo6ZA3RNvKtLa6zDu32S) | [Rumors](https://open.spotify.com/album/1MZfu40bPBKw1HzXGyGoMX) | 3:42 |
+| 47 | [So Mi Like It](https://open.spotify.com/track/6rgSSesTJGyjQuvx06l3jU) | [Spice](https://open.spotify.com/artist/0wEvWMQRqaXcgnrZv6KtyL) | [10](https://open.spotify.com/album/7pKLvzqcLuNx96e59VFREP) | 2:34 |
 | 48 | [Wild Out](https://open.spotify.com/track/6UkGl2XEw0zticxJugwkq5) | [RajahWild](https://open.spotify.com/artist/5t36kC15OK6oYHpfb3rDPI) | [Wild Out](https://open.spotify.com/album/5hNuLKXmBAhBH3ViWK6c6D) | 2:33 |
 | 49 | [Who Am I](https://open.spotify.com/track/4PaV16f3DUo9QxbQMUzMKH) | [Beenie Man](https://open.spotify.com/artist/4L3GTE04bW5N7azA9QPhjA) | [Many Moods Of Moses](https://open.spotify.com/album/5BppAD3eDsFuDPolMdcqt2) | 3:16 |
 | 50 | [Clarks](https://open.spotify.com/track/6LKeLk5IBQUb9eoXidchGQ) | [Vybz Kartel](https://open.spotify.com/artist/2NUz5P42WqkxilbI8ocN76), [Popcaan](https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR), [Gaza Slim](https://open.spotify.com/artist/7mPRzTE0BI6QMFmWhevSog) | [Stronger We Get](https://open.spotify.com/album/39jYUlDsrXJPtfucwq4f3F) | 3:03 |
@@ -97,8 +97,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe9hay4VT07f.md) - [plain]
 | 87 | [Waistline](https://open.spotify.com/track/1W8pwkDbdMBo1Whf4pkVLU) | [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB) | [Waistline](https://open.spotify.com/album/627d1VuZD4LwTuFnND4eVR) | 2:46 |
 | 88 | [Pon Di Cocky](https://open.spotify.com/track/38CECqycscktTYRq4yKMXc) | [Aidonia](https://open.spotify.com/artist/5mYWkDD4b1eM4ZjFq5axxs) | [Pon Di Cocky](https://open.spotify.com/album/1RWQjkjAU6YcGbH0022sO4) | 3:10 |
 | 89 | [Gyal Bruk Out](https://open.spotify.com/track/6aHhMN1QoYiDttlyOoa9Ck) | [Alkaline](https://open.spotify.com/artist/2LIAgeQ5NZurwixfoG3CWZ) | [Raw as Eva](https://open.spotify.com/album/3WWCe11tMBN6nM26gMIeha) | 2:42 |
-| 90 | [Gal A Bubble](https://open.spotify.com/track/3Ib4YrvFEug9vY4JaCmBBw) | [Konshens](https://open.spotify.com/artist/3nwYsifpwrKmCIpw4i0HDW) | [Strictly The Best Vol\. 51](https://open.spotify.com/album/6EFR4aXlC8CtacHf30uOnH) | 3:31 |
-| 91 | [Unfaithful Games](https://open.spotify.com/track/1kZ5wCFlcuV7qN2abxU3LO) | [Teejay](https://open.spotify.com/artist/30hElzuHCZ1qzCl364SHma) | [Unfaithful Games](https://open.spotify.com/album/0QDzewuAi0KMRc1oYzQCc9) | 2:42 |
+| 90 | [Unfaithful Games](https://open.spotify.com/track/1kZ5wCFlcuV7qN2abxU3LO) | [Teejay](https://open.spotify.com/artist/30hElzuHCZ1qzCl364SHma) | [Unfaithful Games](https://open.spotify.com/album/0QDzewuAi0KMRc1oYzQCc9) | 2:42 |
+| 91 | [Gal A Bubble](https://open.spotify.com/track/3Ib4YrvFEug9vY4JaCmBBw) | [Konshens](https://open.spotify.com/artist/3nwYsifpwrKmCIpw4i0HDW) | [Strictly The Best Vol\. 51](https://open.spotify.com/album/6EFR4aXlC8CtacHf30uOnH) | 3:31 |
 | 92 | [Pon De River Pon De Bank](https://open.spotify.com/track/46l7fOJggsNqrNPJeFk0og) | [Elephant Man](https://open.spotify.com/artist/6NOvBZrkd83MSD51xkq4on) | [Good 2 Go](https://open.spotify.com/album/4N8f7aP3lVNkn7sKHTnHVZ) | 3:59 |
 | 93 | [Ganja Farmer](https://open.spotify.com/track/4IPQwZBtK0B2DabP0rQvV0) | [Marlon Asher](https://open.spotify.com/artist/4DeCJnS3fuqohKk4FCVl0y) | [Unconditional Love](https://open.spotify.com/album/6vCafqC9POiyyLxqC4kdpf) | 3:56 |
 | 94 | [Beautiful](https://open.spotify.com/track/5tLDX5Z50VZAvga5695enB) | [Damian Marley](https://open.spotify.com/artist/3QJzdZJYIAcoET1GcfpNGi), [Bobby Brown](https://open.spotify.com/artist/62sPt3fswraiEPnKQpAbdE) | [Welcome to Jamrock](https://open.spotify.com/album/4Y0PrDckfFKxKaVXsscDLB) | 4:47 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe9hay4VT07f.md) - [plain]
 | 99 | [Expensive](https://open.spotify.com/track/1y6bjh1s2Y1FG7CnSZnHqq) | [Valiant](https://open.spotify.com/artist/7dvG18F378r7HRxmiHn3ti) | [Expensive](https://open.spotify.com/album/0aqdTmcfIcrn3pEin6JvtR) | 3:55 |
 | 100 | [Settle Down \(Destiny\)](https://open.spotify.com/track/3No90yqhFHg1vcFCHrCR6b) | [Mavado](https://open.spotify.com/artist/0eezS9KmhdjGN436RdTIXu) | [Settle Down \(Destiny\)](https://open.spotify.com/album/5wqSokkE06joXVP6Pe3tlf) | 3:09 |
 
-Snapshot ID: `MCwzYzhiZjQ3Nzk4MzA4NGQ0YjFkNjEzMWNkMzZmZWEwYjM4YzkwYTJh`
+Snapshot ID: `MCxiMjAwOTFmZWUyOGZiMGU3MThlZjZiOTg5ZDg2MjAyZWQ3NTU3NWI1`

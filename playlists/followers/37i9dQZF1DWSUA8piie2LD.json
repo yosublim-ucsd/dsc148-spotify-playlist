@@ -1,5 +1,5 @@
 {
-  "2024-03-21": 111573,
+  "2024-03-22": 111649,
   "date_first_scraped": "2022-05-26",
   "description": "The smoothest of smooth Jazz for your romantic evening.",
   "name": "Romantic Smooth Jazz",
@@ -1659,7 +1659,7 @@
       ],
       "date_added": "2022-06-22",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-26",
+      "date_removed": null,
       "duration_ms": 271880,
       "name": "Nightlife",
       "url": "https://open.spotify.com/track/2RZ4AXlxoLZbFgHGsfHY8i"
@@ -2651,7 +2651,7 @@
       ],
       "date_added": "2024-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-21",
       "duration_ms": 189726,
       "name": "You Are the Reason",
       "url": "https://open.spotify.com/track/2OCW7RkKLL1jsaZKTynnV0"

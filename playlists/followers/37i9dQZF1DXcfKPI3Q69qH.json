@@ -1,5 +1,5 @@
 {
-  "2024-03-21": 8308,
+  "2024-03-22": 8317,
   "date_first_scraped": "2022-11-30",
   "description": "Music from and inspired by Blood & Water, now streaming on Netflix.",
   "name": "Blood & Water",
@@ -57,10 +57,32 @@
       ],
       "date_added": "2022-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-21",
       "duration_ms": 246857,
       "name": "Bekezela",
       "url": "https://open.spotify.com/track/4Jq6FYc0XfBKe6mfvavL9b"
+    },
+    {
+      "album": {
+        "name": "Gangular",
+        "url": "https://open.spotify.com/album/1hsiisEsssAaoYdgAFAbm5"
+      },
+      "artists": [
+        {
+          "name": "uSanele",
+          "url": "https://open.spotify.com/artist/2D70qn16njNHR9H5hP8rPo"
+        },
+        {
+          "name": "Bongeziwe Mabandla",
+          "url": "https://open.spotify.com/artist/5upKpIk1pv0hh0u2gwblwy"
+        }
+      ],
+      "date_added": "2022-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246857,
+      "name": "Bekezela (feat. Bongeziwe Mabandla)",
+      "url": "https://open.spotify.com/track/4uPK2HSzUk1g1qcOfv08j4"
     },
     {
       "album": {
@@ -199,10 +221,32 @@
       ],
       "date_added": "2020-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-21",
       "duration_ms": 225669,
       "name": "Dhora",
       "url": "https://open.spotify.com/track/5ASfq5HDggA3eOfO95Zc43"
+    },
+    {
+      "album": {
+        "name": "Dhora (feat. Guspy Warrior)",
+        "url": "https://open.spotify.com/album/6Hqmk8oaWEXDuh2vMHla2Y"
+      },
+      "artists": [
+        {
+          "name": "Mr. Kamera",
+          "url": "https://open.spotify.com/artist/3DhTrOPm6Q2HrXgNTddwG5"
+        },
+        {
+          "name": "Guspy Warrior",
+          "url": "https://open.spotify.com/artist/5Lx2N0EbvQfnTq6TGF0bsC"
+        }
+      ],
+      "date_added": "2020-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225669,
+      "name": "Dhora (feat. Guspy Warrior)",
+      "url": "https://open.spotify.com/track/1GPqXvqGF0c7f430Tqx9FS"
     },
     {
       "album": {
@@ -261,10 +305,46 @@
       ],
       "date_added": "2022-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-21",
       "duration_ms": 164642,
       "name": "Dreams",
       "url": "https://open.spotify.com/track/2YOGTQF0EarnzzrfMvWyqT"
+    },
+    {
+      "album": {
+        "name": "Not Cool Never Was",
+        "url": "https://open.spotify.com/album/55aXV3CRgncFCvD4Q5fWtA"
+      },
+      "artists": [
+        {
+          "name": "Yung Nasa",
+          "url": "https://open.spotify.com/artist/4HUwdGiWsD5cqaAR7iItw2"
+        }
+      ],
+      "date_added": "2022-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164642,
+      "name": "Dreams",
+      "url": "https://open.spotify.com/track/3pbrBQieIG9Vod0uE7WDwv"
+    },
+    {
+      "album": {
+        "name": "Dust and Iron",
+        "url": "https://open.spotify.com/album/0Z2n25VfAH4WdvIpwZqYny"
+      },
+      "artists": [
+        {
+          "name": "Red Robyn",
+          "url": "https://open.spotify.com/artist/1gmG7dYsuax63KvUXYEwt2"
+        }
+      ],
+      "date_added": "2020-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219196,
+      "name": "Dust and Iron",
+      "url": "https://open.spotify.com/track/2K7J2YcstlUKdqyVYQgZhI"
     },
     {
       "album": {
@@ -279,7 +359,7 @@
       ],
       "date_added": "2020-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-21",
       "duration_ms": 219196,
       "name": "Dust and Iron",
       "url": "https://open.spotify.com/track/5Jolry4jIBmVEBrdL268IG"
@@ -451,10 +531,28 @@
       ],
       "date_added": "2020-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-21",
       "duration_ms": 189701,
       "name": "Good Girl",
       "url": "https://open.spotify.com/track/2gR7yAkNOE7S3cnjM1hrvX"
+    },
+    {
+      "album": {
+        "name": "Cruise",
+        "url": "https://open.spotify.com/album/6MgnnPHyoLLzTtb3E4YYmt"
+      },
+      "artists": [
+        {
+          "name": "Beat Sampras",
+          "url": "https://open.spotify.com/artist/6JqwzIDjDqoQQ6ivbwD8ZQ"
+        }
+      ],
+      "date_added": "2020-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189701,
+      "name": "Good Girl",
+      "url": "https://open.spotify.com/track/6gsc1IZ9kEXdWsclKCRfpN"
     },
     {
       "album": {
@@ -607,10 +705,28 @@
       ],
       "date_added": "2020-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-21",
       "duration_ms": 213750,
       "name": "Huku",
       "url": "https://open.spotify.com/track/09zl1Tb8QaW64mMAo3dZOU"
+    },
+    {
+      "album": {
+        "name": "Limpopo Champions League",
+        "url": "https://open.spotify.com/album/6fZaYAIbcD0qFHGdk8njE1"
+      },
+      "artists": [
+        {
+          "name": "Sho Madjozi",
+          "url": "https://open.spotify.com/artist/08V2vgJBY6VLoUPWlznRKo"
+        }
+      ],
+      "date_added": "2020-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213750,
+      "name": "Huku",
+      "url": "https://open.spotify.com/track/2WVMptACMLOvceN59esg8D"
     },
     {
       "album": {
@@ -669,10 +785,28 @@
       ],
       "date_added": "2020-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-21",
       "duration_ms": 218026,
       "name": "Idhom",
       "url": "https://open.spotify.com/track/1pVciVSYHcEbAtKTNvZxh5"
+    },
+    {
+      "album": {
+        "name": "Limpopo Champions League",
+        "url": "https://open.spotify.com/album/6fZaYAIbcD0qFHGdk8njE1"
+      },
+      "artists": [
+        {
+          "name": "Sho Madjozi",
+          "url": "https://open.spotify.com/artist/08V2vgJBY6VLoUPWlznRKo"
+        }
+      ],
+      "date_added": "2020-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218026,
+      "name": "Idhom",
+      "url": "https://open.spotify.com/track/49XOM6iscGA6vQkk1wsk1g"
     },
     {
       "album": {
@@ -687,10 +821,28 @@
       ],
       "date_added": "2020-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-21",
       "duration_ms": 181422,
       "name": "John Cena",
       "url": "https://open.spotify.com/track/07xpeB1txX9bPKTwkuflMg"
+    },
+    {
+      "album": {
+        "name": "John Cena",
+        "url": "https://open.spotify.com/album/6FQtmgBLVhkbfxJUFZMWlk"
+      },
+      "artists": [
+        {
+          "name": "Sho Madjozi",
+          "url": "https://open.spotify.com/artist/08V2vgJBY6VLoUPWlznRKo"
+        }
+      ],
+      "date_added": "2020-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181422,
+      "name": "John Cena",
+      "url": "https://open.spotify.com/track/1RwIJvRjIAJPqG3IVeeS1l"
     },
     {
       "album": {
@@ -1335,10 +1487,32 @@
       ],
       "date_added": "2022-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-21",
       "duration_ms": 368953,
       "name": "Skeleton Move",
       "url": "https://open.spotify.com/track/5rVst2E577tPxXdaBxMhmX"
+    },
+    {
+      "album": {
+        "name": "Skeleton Move (feat. Zanda Zakuza)",
+        "url": "https://open.spotify.com/album/0Bx0dRDRwjMPCJzPYjoM5b"
+      },
+      "artists": [
+        {
+          "name": "Master KG",
+          "url": "https://open.spotify.com/artist/523y9KSneKh6APd1hKxLuF"
+        },
+        {
+          "name": "Zanda Zakuza",
+          "url": "https://open.spotify.com/artist/1TTc432YhEO75fRcVKerPe"
+        }
+      ],
+      "date_added": "2022-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 368953,
+      "name": "Skeleton Move (feat. Zanda Zakuza)",
+      "url": "https://open.spotify.com/track/2CZISJpMaC2TayNPR0deQh"
     },
     {
       "album": {
@@ -1393,10 +1567,28 @@
       ],
       "date_added": "2022-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-21",
       "duration_ms": 209017,
       "name": "Still",
       "url": "https://open.spotify.com/track/1R4ojHMaQU0T3cDGvsPmHo"
+    },
+    {
+      "album": {
+        "name": "Almost Dead",
+        "url": "https://open.spotify.com/album/5s7ffapzwU0Ekc2ZtIrgXd"
+      },
+      "artists": [
+        {
+          "name": "J Molley",
+          "url": "https://open.spotify.com/artist/4Wgns8lkTyqv4k2SH3Zc6T"
+        }
+      ],
+      "date_added": "2022-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209017,
+      "name": "Still",
+      "url": "https://open.spotify.com/track/4H7ohxPRTRYL2TQBCq0llJ"
     },
     {
       "album": {

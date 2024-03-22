@@ -1,12 +1,12 @@
 {
   "description": "Cantoras y compositoras de nuestra tierra, con Soledad en portada.",
-  "num_followers": 23760,
+  "num_followers": 23768,
   "original_name": "Mujeres del Folklore",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4NWViM2ZlYzVmNTg2MWEwZDRlMTZjMjc4ZjhjOGJlNTliMTEyMDcy",
+  "snapshot_id": "MCw2YjNiMzljNDY3NTU4ZGM3NmU4N2RmN2YwM2I2MGE3NzgzZWU1N2I2",
   "tracks": [
     {
       "added_at": "2023-12-22 23:46:17",
@@ -247,22 +247,6 @@
     {
       "added_at": "2023-12-22 23:46:17",
       "album": {
-        "name": "Hasta El Cielo Mi Alma",
-        "url": "https://open.spotify.com/album/6ZwSnSepuxFOPT8P571oW4"
-      },
-      "artists": [
-        {
-          "name": "Alma Chaque\u00f1a",
-          "url": "https://open.spotify.com/artist/3fPh0oV5t5u5MzfAHOT1iD"
-        }
-      ],
-      "duration_ms": 201466,
-      "name": "La Llorona (Zamba)",
-      "url": "https://open.spotify.com/track/6Bf4pzA5VozuflkSxWAdmS"
-    },
-    {
-      "added_at": "2023-12-22 23:46:17",
-      "album": {
         "name": "Trinchera, Vol. 1",
         "url": "https://open.spotify.com/album/2iid4MS5HmrfRpJwHAt31G"
       },
@@ -275,6 +259,22 @@
       "duration_ms": 198945,
       "name": "Trinchera",
       "url": "https://open.spotify.com/track/6SwzfwoDWstfVc0Gy2BAaa"
+    },
+    {
+      "added_at": "2023-12-22 23:46:17",
+      "album": {
+        "name": "Hasta El Cielo Mi Alma",
+        "url": "https://open.spotify.com/album/6ZwSnSepuxFOPT8P571oW4"
+      },
+      "artists": [
+        {
+          "name": "Alma Chaque\u00f1a",
+          "url": "https://open.spotify.com/artist/3fPh0oV5t5u5MzfAHOT1iD"
+        }
+      ],
+      "duration_ms": 201466,
+      "name": "La Llorona (Zamba)",
+      "url": "https://open.spotify.com/track/6Bf4pzA5VozuflkSxWAdmS"
     },
     {
       "added_at": "2023-12-22 23:46:17",
@@ -811,22 +811,6 @@
     {
       "added_at": "2023-12-22 23:46:17",
       "album": {
-        "name": "Lorena Canta al Cuchi",
-        "url": "https://open.spotify.com/album/0h61QvK5npqN6hf9XG1rX0"
-      },
-      "artists": [
-        {
-          "name": "Lorena Astudillo",
-          "url": "https://open.spotify.com/artist/0r10toqQZwzicT4CjvWM0Y"
-        }
-      ],
-      "duration_ms": 260623,
-      "name": "Lavanderas de Rio Chico",
-      "url": "https://open.spotify.com/track/6PqlcAD1TCO4peWsXif4UF"
-    },
-    {
-      "added_at": "2023-12-22 23:46:17",
-      "album": {
         "name": "Ysyry",
         "url": "https://open.spotify.com/album/6YCvmX5LGwqomhb1xXjmQn"
       },
@@ -847,6 +831,22 @@
       "duration_ms": 154644,
       "name": "Camb\u00e1 Galleta",
       "url": "https://open.spotify.com/track/6kMOKOKSbMqLAYVx54jXHP"
+    },
+    {
+      "added_at": "2023-12-22 23:46:17",
+      "album": {
+        "name": "Lorena Canta al Cuchi",
+        "url": "https://open.spotify.com/album/0h61QvK5npqN6hf9XG1rX0"
+      },
+      "artists": [
+        {
+          "name": "Lorena Astudillo",
+          "url": "https://open.spotify.com/artist/0r10toqQZwzicT4CjvWM0Y"
+        }
+      ],
+      "duration_ms": 260623,
+      "name": "Lavanderas de Rio Chico",
+      "url": "https://open.spotify.com/track/6PqlcAD1TCO4peWsXif4UF"
     },
     {
       "added_at": "2023-12-22 23:46:17",
@@ -939,24 +939,8 @@
     {
       "added_at": "2023-12-22 23:46:17",
       "album": {
-        "name": "El Cuchi de Camara",
-        "url": "https://open.spotify.com/album/6qP16r1SaOUcpg8NlBTkAB"
-      },
-      "artists": [
-        {
-          "name": "Lorena Astudillo",
-          "url": "https://open.spotify.com/artist/0r10toqQZwzicT4CjvWM0Y"
-        }
-      ],
-      "duration_ms": 320400,
-      "name": "Zamba del Laurel",
-      "url": "https://open.spotify.com/track/2YywgUYPha9xvoCJo7b45d"
-    },
-    {
-      "added_at": "2023-12-22 23:46:17",
-      "album": {
-        "name": "La Madrugada",
-        "url": "https://open.spotify.com/album/5Ah1mYWD7R55TOsngPDQ1B"
+        "name": "Abrazo",
+        "url": "https://open.spotify.com/album/2GFYRQAusIqUFGFjBHRMhJ"
       },
       "artists": [
         {
@@ -964,9 +948,9 @@
           "url": "https://open.spotify.com/artist/6lPYU9UIxc7E2cS0cSJ6Lt"
         }
       ],
-      "duration_ms": 245804,
-      "name": "En Tu Pelo",
-      "url": "https://open.spotify.com/track/3eHZ0F4oPs7INnhPnqbLQV"
+      "duration_ms": 166500,
+      "name": "La Flor del Jazm\u00edn",
+      "url": "https://open.spotify.com/track/3jGzfSl14fBNsFm0xtv1w6"
     },
     {
       "added_at": "2023-12-22 23:46:17",
@@ -983,6 +967,22 @@
       "duration_ms": 164250,
       "name": "Pajarito",
       "url": "https://open.spotify.com/track/1wHsoB9av8PlZnw9IlaFov"
+    },
+    {
+      "added_at": "2023-12-22 23:46:17",
+      "album": {
+        "name": "El Cuchi de Camara",
+        "url": "https://open.spotify.com/album/6qP16r1SaOUcpg8NlBTkAB"
+      },
+      "artists": [
+        {
+          "name": "Lorena Astudillo",
+          "url": "https://open.spotify.com/artist/0r10toqQZwzicT4CjvWM0Y"
+        }
+      ],
+      "duration_ms": 320400,
+      "name": "Zamba del Laurel",
+      "url": "https://open.spotify.com/track/2YywgUYPha9xvoCJo7b45d"
     },
     {
       "added_at": "2023-12-22 23:46:17",
@@ -1071,6 +1071,22 @@
     {
       "added_at": "2023-12-22 23:46:17",
       "album": {
+        "name": "La Madrugada",
+        "url": "https://open.spotify.com/album/5Ah1mYWD7R55TOsngPDQ1B"
+      },
+      "artists": [
+        {
+          "name": "Luciana Jury",
+          "url": "https://open.spotify.com/artist/6lPYU9UIxc7E2cS0cSJ6Lt"
+        }
+      ],
+      "duration_ms": 245804,
+      "name": "En Tu Pelo",
+      "url": "https://open.spotify.com/track/3eHZ0F4oPs7INnhPnqbLQV"
+    },
+    {
+      "added_at": "2023-12-22 23:46:17",
+      "album": {
         "name": "Rosa de los Vientos",
         "url": "https://open.spotify.com/album/5Iah6Ecl6pm0CAhBpMdBMy"
       },
@@ -1107,22 +1123,6 @@
       "duration_ms": 263428,
       "name": "Coraz\u00f3n de Agua",
       "url": "https://open.spotify.com/track/0C7ZtlspnaFd4FVBjlygr6"
-    },
-    {
-      "added_at": "2023-12-22 23:46:17",
-      "album": {
-        "name": "Abrazo",
-        "url": "https://open.spotify.com/album/2GFYRQAusIqUFGFjBHRMhJ"
-      },
-      "artists": [
-        {
-          "name": "Luciana Jury",
-          "url": "https://open.spotify.com/artist/6lPYU9UIxc7E2cS0cSJ6Lt"
-        }
-      ],
-      "duration_ms": 166500,
-      "name": "La Flor del Jazm\u00edn",
-      "url": "https://open.spotify.com/track/3jGzfSl14fBNsFm0xtv1w6"
     },
     {
       "added_at": "2023-12-22 23:46:17",
@@ -1351,22 +1351,6 @@
     {
       "added_at": "2023-12-22 23:46:17",
       "album": {
-        "name": "Luz Del Aire",
-        "url": "https://open.spotify.com/album/05gqff5GwrLBXnk2WErcdj"
-      },
-      "artists": [
-        {
-          "name": "Melania Perez",
-          "url": "https://open.spotify.com/artist/4kBzSQOAfn2TbUvsc8auN6"
-        }
-      ],
-      "duration_ms": 198504,
-      "name": "La Canastita",
-      "url": "https://open.spotify.com/track/43AzIdY7QJbDuxMx11Fozi"
-    },
-    {
-      "added_at": "2023-12-22 23:46:17",
-      "album": {
         "name": "Las Simples Cosas",
         "url": "https://open.spotify.com/album/3kHitnmEYn8oMrKD8IZl6a"
       },
@@ -1379,6 +1363,22 @@
       "duration_ms": 170562,
       "name": "Dime",
       "url": "https://open.spotify.com/track/6Wkn5y6FqH8Yu4LSAROKn1"
+    },
+    {
+      "added_at": "2023-12-22 23:46:17",
+      "album": {
+        "name": "Luz Del Aire",
+        "url": "https://open.spotify.com/album/05gqff5GwrLBXnk2WErcdj"
+      },
+      "artists": [
+        {
+          "name": "Melania Perez",
+          "url": "https://open.spotify.com/artist/4kBzSQOAfn2TbUvsc8auN6"
+        }
+      ],
+      "duration_ms": 198504,
+      "name": "La Canastita",
+      "url": "https://open.spotify.com/track/43AzIdY7QJbDuxMx11Fozi"
     },
     {
       "added_at": "2023-12-22 23:46:17",
@@ -1447,22 +1447,6 @@
     {
       "added_at": "2023-12-22 23:46:17",
       "album": {
-        "name": "Buscando el sol",
-        "url": "https://open.spotify.com/album/0z6ZovAkZ1nhmWwZx6KBqT"
-      },
-      "artists": [
-        {
-          "name": "Vero Marjbein",
-          "url": "https://open.spotify.com/artist/6xZKJnHq8zpj0c9tCjwhGi"
-        }
-      ],
-      "duration_ms": 195527,
-      "name": "P\u00e9talo de Sal",
-      "url": "https://open.spotify.com/track/4ivf9l9t9Mnbg5wB20wI7c"
-    },
-    {
-      "added_at": "2023-12-22 23:46:17",
-      "album": {
         "name": "Pasaje al Coraz\u00f3n",
         "url": "https://open.spotify.com/album/5mDREF3d8nq1k3PGEs4IZc"
       },
@@ -1475,6 +1459,22 @@
       "duration_ms": 211040,
       "name": "Volver\u00e8 Siempre a San Juan",
       "url": "https://open.spotify.com/track/3S9Z0cuE5E6po46Mej4Yui"
+    },
+    {
+      "added_at": "2023-12-22 23:46:17",
+      "album": {
+        "name": "Buscando el sol",
+        "url": "https://open.spotify.com/album/0z6ZovAkZ1nhmWwZx6KBqT"
+      },
+      "artists": [
+        {
+          "name": "Vero Marjbein",
+          "url": "https://open.spotify.com/artist/6xZKJnHq8zpj0c9tCjwhGi"
+        }
+      ],
+      "duration_ms": 195527,
+      "name": "P\u00e9talo de Sal",
+      "url": "https://open.spotify.com/track/4ivf9l9t9Mnbg5wB20wI7c"
     },
     {
       "added_at": "2023-12-22 23:46:17",

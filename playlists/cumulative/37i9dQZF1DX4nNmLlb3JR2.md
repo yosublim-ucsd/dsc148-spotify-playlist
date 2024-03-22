@@ -4,7 +4,7 @@
 
 > A fresh lofi spin on your favourite tunes and old songs you love.
 
-233 songs - 9 hr 28 min
+235 songs - 9 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -81,6 +81,7 @@
 | [fly me to the moon \~ lofi](https://open.spotify.com/track/5KIzXL5NxUb8NZQEuSqFt6) | [Closed on Sunday](https://open.spotify.com/artist/1LwjR2mIm78OJRTYdkMLl3) | [fly me to the moon \~ lofi](https://open.spotify.com/album/0opYKO3lnDCWgHtaq7wlBG) | 1:04 | 2022-09-02 | 2023-11-24 |
 | [Foolish](https://open.spotify.com/track/327YD8hrJehqymoHyLzjvL) | [vhsgus](https://open.spotify.com/artist/00TOxSwNCa7VrxLcdobxyb) | [Foolish](https://open.spotify.com/album/205AAzdvybdc1XHfLkQIfv) | 2:59 | 2024-01-12 |  |
 | [Foolish](https://open.spotify.com/track/3Mt0mb8hQcCrzQUEMGXhWX) | [vhsgus](https://open.spotify.com/artist/00TOxSwNCa7VrxLcdobxyb) | [Foolish](https://open.spotify.com/album/5cCEONJGfWiPtR9yn63Ghf) | 2:59 | 2022-12-02 | 2024-01-16 |
+| [Free Fallin' \- Lo\-Fi](https://open.spotify.com/track/7cZj14hsmmH3dREMKNdNRy) | [yoshi the brilliant](https://open.spotify.com/artist/6k8AnK3Kuk6fv1AQu0IGBJ) | [Free Fallin' \(Lo\-Fi\)](https://open.spotify.com/album/4bg66M6Ef0ZrTmrrSl0ju3) | 5:00 | 2024-03-22 |  |
 | [Gangsta's Paradise](https://open.spotify.com/track/2VWNSlfsBCxKVDaGBTYAvL) | [Lofi Fruits Music](https://open.spotify.com/artist/1dABGukgZ8XKKOdd2rVSHM), [Chill Fruits Music](https://open.spotify.com/artist/34b7j3TqM5ramjmt2mc8tB) | [Lofi Fruits Music 2021](https://open.spotify.com/album/35DIb6j45YmbHAfyN7HgaG) | 1:55 | 2022-09-02 | 2022-09-30 |
 | [Gangsta's Paradise \- Lofi Version](https://open.spotify.com/track/176AsqgJiJL4PFMpGFD0px) | [Covers Unplugged](https://open.spotify.com/artist/7nh5TZodhwFh0CkAIFDDxl) | [Lofi Madness, Vol\. 1](https://open.spotify.com/album/3G0mO8o0VBCJMGpUdT6rFG) | 2:10 | 2022-09-30 | 2023-09-08 |
 | [Ghost](https://open.spotify.com/track/7xIONLBEuuXdjd9KFGxUWz) | [Peaceful Melody](https://open.spotify.com/artist/6piO5Ac23WJnRQifD42dfv), [soave lofi](https://open.spotify.com/artist/0QuTX3mzksvtwoQru6tiF8) | [Ghost](https://open.spotify.com/album/5F25JMKIZl6Zl4huvs6GtE) | 1:59 | 2022-09-02 |  |
@@ -131,6 +132,7 @@
 | [Lost](https://open.spotify.com/track/2rsG3qVHOsXAIW1Qj7sdWt) | [lokash](https://open.spotify.com/artist/3TenU6iPLdqp8732iFSVQj) | [Lost](https://open.spotify.com/album/1x0vLnePrBCJOGS42E0FTY) | 3:02 | 2022-09-02 |  |
 | [love me like you do \- lofi](https://open.spotify.com/track/490fqdlm8AGR5tRWcoBGKj) | [Jaden Christy](https://open.spotify.com/artist/26Lja0Loc02XwrkUdLH7X9), [its' okay](https://open.spotify.com/artist/3QXV9QkkHt7OHFOa03irsq), [valentié](https://open.spotify.com/artist/1smtSrorIh5e6oODXmkbv5) | [love me like you do \- lofi](https://open.spotify.com/album/5G7LFYUjjdBbermgFy0gMD) | 1:39 | 2022-12-02 |  |
 | [Love Yourself](https://open.spotify.com/track/3ZTOe4igHH1Di0taZWXJh7) | [Pacific](https://open.spotify.com/artist/5WLsGgfxV206tL7KD41Ft1) | [Love Yourself](https://open.spotify.com/album/5w0HSHiP2Dzfq9W4kOTO10) | 1:50 | 2022-09-16 |  |
+| [Magic](https://open.spotify.com/track/6LcSrO0W93KQQrp9uYpK5n) | [YorBeatz](https://open.spotify.com/artist/7IOCjf2dqm6jzhCAUAX4uR) | [Magic](https://open.spotify.com/album/2NLtO8rTo7Krxybvfy61R9) | 3:06 | 2024-03-22 |  |
 | [Meet Me At Our Spot](https://open.spotify.com/track/4zbDddvck9LUqoh1nojkVh) | [Dab Rosser](https://open.spotify.com/artist/1rIG28M0NJsbl5DDp6x8GA) | [Meet Me At Our Spot](https://open.spotify.com/album/5zu8UTGoKBr1NiJyfuJdGR) | 1:57 | 2022-10-28 |  |
 | [Motion Sickness \- Lo\-Fi](https://open.spotify.com/track/2IpAxomjfTw18xKhNe05UE) | [meadowzz](https://open.spotify.com/artist/6iJBPhaUkwdsG9QPc6qcEz) | [Avril 14th & Motion Sickness \(Lo\-Fi\)](https://open.spotify.com/album/1KUYdbhlq7HmfYmdOEvv8S) | 4:17 | 2024-03-01 |  |
 | [Mr\. Brightside](https://open.spotify.com/track/45atCi3vYyXtz9ijskqGN5) | [Peaceful Melody](https://open.spotify.com/artist/6piO5Ac23WJnRQifD42dfv), [soave lofi](https://open.spotify.com/artist/0QuTX3mzksvtwoQru6tiF8) | [Mr\. Brightside](https://open.spotify.com/album/4P0Osalw7TaQLM0JKIyHOy) | 2:04 | 2022-09-02 | 2023-09-08 |
@@ -234,7 +236,7 @@
 | [you can't hurry love](https://open.spotify.com/track/48BI0SejPrf5XPKJQZFUuR) | [Miller Jones](https://open.spotify.com/artist/510OvGYbABEpEGZBCnL8Yd) | [you can't hurry love](https://open.spotify.com/album/6orhcxTbRoX9GUUXh855d2) | 2:11 | 2023-08-28 |  |
 | [You Oughta Know](https://open.spotify.com/track/1wy11OtTLB78IcBoDrPP9W) | [Yoga Beats](https://open.spotify.com/artist/0YgFSc6eJJRhhgDnTdifyt), [Cameron Ford](https://open.spotify.com/artist/2Epdw19iNTn6Wv4YV29h9y) | [Jagged Little Chill](https://open.spotify.com/album/4WcB9SSwOI0DgKp2OJ6oFz) | 3:33 | 2022-10-07 |  |
 | [You Remind Me](https://open.spotify.com/track/1fPdjrtSgTZKZnRgLWoZv9) | [Cove\-Red](https://open.spotify.com/artist/5hA7qIuiBOCQ00KHKrIhEX) | [You Remind Me](https://open.spotify.com/album/5qZFI54oVdsH0fJhfI29e3) | 2:20 | 2023-12-08 |  |
-| [you shook me all night long](https://open.spotify.com/track/4Y49M9ujJJFgztbo1nU6w5) | [buggy beats](https://open.spotify.com/artist/20sIKWsBpGJNPLbWNeSrT7) | [you shook me all night long](https://open.spotify.com/album/0kNYDcRWSwzGN1cUHQgmks) | 1:56 | 2023-04-20 |  |
+| [you shook me all night long](https://open.spotify.com/track/4Y49M9ujJJFgztbo1nU6w5) | [buggy beats](https://open.spotify.com/artist/20sIKWsBpGJNPLbWNeSrT7) | [you shook me all night long](https://open.spotify.com/album/0kNYDcRWSwzGN1cUHQgmks) | 1:56 | 2023-04-20 | 2024-03-22 |
 | [You'll Be In My Heart](https://open.spotify.com/track/3XXemjIqQleJMVtae2Vsb6) | [Jeff Kaale](https://open.spotify.com/artist/6HbFnvkO1zsyxqyyfbNRwL), [Disney Lofi](https://open.spotify.com/artist/2ETOhMwFhRRTCH8M1ge17v) | [Lofi Minnie: Chill](https://open.spotify.com/album/37Fq2lVxXUoEVOekYAo9Pm) | 4:48 | 2023-03-01 |  |
 | [you're makin' me high](https://open.spotify.com/track/49O7D9q23Z6o067OM9vHaE) | [NSW Kenny](https://open.spotify.com/artist/7rAgjCQMN8VOaqHzdKESzr) | [you're makin' me high](https://open.spotify.com/album/1qZR3NpT5gCEFiE0qWytWt) | 2:19 | 2023-02-07 |  |
 | [young folks](https://open.spotify.com/track/1aYcdEUigk7EO41RgbkYZh) | [Mrs Blonded](https://open.spotify.com/artist/6Gx6MRxYH7sQQTRe7EStEN) | [young folks](https://open.spotify.com/album/3UwBdJs9Mxm3y699ElCCKR) | 2:02 | 2023-01-06 |  |

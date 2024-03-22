@@ -4,7 +4,7 @@
 
 > Funky & groovy tunes for poolside chilling.
 
-316 songs - 18 hr 58 min
+318 songs - 19 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -270,6 +270,7 @@
 | [Starstruck](https://open.spotify.com/track/6xfghae1MOkdMCf3xDCcxP) | [Busty and the Bass](https://open.spotify.com/artist/4XMc1qHObZ7aXQrH5MmbjK), [Jordan Brown](https://open.spotify.com/artist/4bp25HfiPZW8JLc4DUEhP6) | [Forever Never Cares](https://open.spotify.com/album/7pearr4dOjSf9cNDe5lHeL) | 3:47 | 2023-12-11 |  |
 | [STAY UP](https://open.spotify.com/track/1hb5zeeR0SchsLSIPrphL8) | [Stevedreez](https://open.spotify.com/artist/3KJzwEs0Tr6egQZ65WTncE) | [STAY UP / SWEET](https://open.spotify.com/album/0cdWnxer5dFkriRf2CFLMc) | 3:49 | 2022-09-09 | 2024-02-02 |
 | [Stella](https://open.spotify.com/track/4aUuuGkBAsQPheOvi4bnsN) | [Ted Jasper](https://open.spotify.com/artist/4PfXiTCDXTYEobjXjcRFNW) | [Solstice](https://open.spotify.com/album/6jPO2gtwitpbmkEDD0kYLn) | 2:41 | 2022-09-09 | 2022-10-15 |
+| [Stick Together](https://open.spotify.com/track/33LqoBi8OFpACpwLUkNtA1) | [Re:um](https://open.spotify.com/artist/6gLleDsNwfehG7vWuK2zQe) | [Stick Together](https://open.spotify.com/album/3UM11wSHVaIEZ7Hm54NdqX) | 1:50 | 2024-03-21 |  |
 | [Stickin' \(feat\. Masego & VanJess\)](https://open.spotify.com/track/24KUvSg9QsX6FWsOmN0ZxP) | [Sinéad Harnett](https://open.spotify.com/artist/6tUJpYN2aYiXbzAcg0pIOo), [Masego](https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig), [VanJess](https://open.spotify.com/artist/0Ek89uaJyo6NfWK22awFvI) | [Stickin' \(feat\. Masego & VanJess\)](https://open.spotify.com/album/0XhJIckMs6b1crNGl9RUAB) | 3:08 | 2022-09-09 | 2022-09-16 |
 | [Still Yearn](https://open.spotify.com/track/6xxKl1JI54AaZOLHpeZc8B) | [SIROJ](https://open.spotify.com/artist/0SQOIur6PFpZ7ACj9BX2Tv), [Calundé](https://open.spotify.com/artist/4cNiCiyVjl5qDdJYqiuxxX) | [You Will Be Fine](https://open.spotify.com/album/6ufZebDKqcDJfQyMkkDh9z) | 3:12 | 2023-03-20 |  |
 | [Straight Up Relaxin' \(feat\. Cosmo's Midnight\)](https://open.spotify.com/track/342xhiMfFuR0zXbG35VIjy) | [Yung Bae](https://open.spotify.com/artist/30FDJPN3RtwJZ20g5YGCRX), [Cosmo's Midnight](https://open.spotify.com/artist/4VivsO1n4n2Mi2Btyb5gfL) | [Straight Up Relaxin' \(feat\. Cosmo's Midnight\)](https://open.spotify.com/album/2sJDqAwhkjC0FWC51EGOGd) | 4:02 | 2022-09-09 | 2024-03-08 |
@@ -319,6 +320,7 @@
 | [Waterfall \- TOKiMONSTA Remix](https://open.spotify.com/track/7rxDQ5tgnJ4T6gJL1HyoZ1) | [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et), [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2), [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI) | [Waterfall](https://open.spotify.com/album/2f1wxCMX4KoS2DwTeagrNO) | 3:45 | 2022-09-15 | 2022-10-13 |
 | [What Do You Say \(Move It Baby\)](https://open.spotify.com/track/1Yd7meWF4xNR13vys5IpUh) | [Common](https://open.spotify.com/artist/2GHclqNVjqGuiE5mA7BEoc), [PJ](https://open.spotify.com/artist/4O36cq71Cq7NazopFLBMmb) | [A Beautiful Revolution \(Pt 1\)](https://open.spotify.com/album/1ox4vPb5vQvWwATPX8RTZh) | 4:02 | 2022-09-09 | 2023-10-05 |
 | [When It All Falls Down](https://open.spotify.com/track/3lvj20MikepdxKpadT7mBF) | [Selah Sue](https://open.spotify.com/artist/5Oc4knEQaid8K7AFqO5lHu) | [Persona \(Deluxe\)](https://open.spotify.com/album/6DBFehDJdkqSMBdoIl9YaB) | 2:27 | 2024-01-18 |  |
+| [When It's Over](https://open.spotify.com/track/2ucmSB9k1pRlzmiEcZctiy) | [Stirmouth](https://open.spotify.com/artist/46VqMlFxczG8TFPHAFnC4W) | [When It's Over](https://open.spotify.com/album/3xVQrC9JZJiUF6EHVkLVbr) | 2:33 | 2024-03-21 |  |
 | [Workin' All Day](https://open.spotify.com/track/1R5dbZKMJyoBziVfDV76dU) | [LAZA](https://open.spotify.com/artist/6pdDxUY3ffYATztOUou9lq) | [Reflections EP](https://open.spotify.com/album/2KU6x6XydX45h8tfaPDVff) | 5:58 | 2022-12-05 | 2024-03-21 |
 | [You 2 Thank](https://open.spotify.com/track/0r73aRdmx8uVeUzL6yYzSC) | [Buddy](https://open.spotify.com/artist/6PDLwWvgYNMfBRLqC1h5cJ) | [You 2 Thank](https://open.spotify.com/album/770NPIetbye6vd31ZDuG09) | 2:44 | 2023-12-08 |  |
 | [Young Hearts](https://open.spotify.com/track/6EvN0yVTeZDOp7Ltuea2uo) | [Benny Sings](https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N) | [Young Hearts](https://open.spotify.com/album/3CyqH3gtPaREjTbtLnPDAk) | 2:39 | 2023-01-12 | 2024-01-23 |

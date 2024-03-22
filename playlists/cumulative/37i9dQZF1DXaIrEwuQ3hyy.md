@@ -4,7 +4,7 @@
 
 > Wenn die Tage länger werden und die Luft wärmer \- diese Tracks begleiten dich in den Frühling.
 
-143 songs - 8 hr 7 min
+145 songs - 8 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,6 +16,7 @@
 | [All Again](https://open.spotify.com/track/60DdAwooDzeUf68mZB6d5b) | [Wallners](https://open.spotify.com/artist/3EdHRW9KganBlpKU12OQos) | [Prolog I](https://open.spotify.com/album/1T4yqQcf6jzCEt8IX1dF1v) | 4:18 | 2023-08-25 |  |
 | [All Of Us \(Ashawo\)](https://open.spotify.com/track/6459gZKddpOoPIH8PAcCwS) | [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY) | [Playboy](https://open.spotify.com/album/1pUJnA3OSbvVr5afqxNARZ) | 3:03 | 2023-07-26 | 2023-09-16 |
 | [Always](https://open.spotify.com/track/5uHgKIUzqrpRt10p1crJma) | [LEISURE](https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R) | [Always](https://open.spotify.com/album/1vBq4EJTv9SxqYJ01tCZDp) | 3:27 | 2023-07-26 | 2023-09-28 |
+| [American Love](https://open.spotify.com/track/5c1rWQAa8GX8LgCC9h3d1N) | [Qing Madi](https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh) | [Qing Madi](https://open.spotify.com/album/03pDzWfMzVVQL3BRVIutJn) | 3:09 | 2024-03-21 |  |
 | [Anchor](https://open.spotify.com/track/7qH9Z4dJEN0l9bidizW7fq) | [Novo Amor](https://open.spotify.com/artist/0rZp7G3gIH6WkyeXbrZnGi) | [Bathing Beach](https://open.spotify.com/album/4vGuMdwnxc6X8izbVS6MTN) | 4:17 | 2023-10-20 |  |
 | [ARE YOU WITH ME](https://open.spotify.com/track/6JaHUUwEULmCzw99jyBc4G) | [ClockClock](https://open.spotify.com/artist/4NSzuIc0eGOftqr0tEOhJk) | [ARE YOU WITH ME](https://open.spotify.com/album/3kjidQ6jlBMkrpNucShbY2) | 2:47 | 2023-07-26 |  |
 | [Atlantis](https://open.spotify.com/track/1Fid2jjqsHViMX6xNH70hE) | [Seafret](https://open.spotify.com/artist/4Ly0KABsxlx4fNj63zJTrF) | [Tell Me It's Real \(Expanded Edition\)](https://open.spotify.com/album/4m8XN9CKqve1ExYBnNu5kt) | 3:49 | 2023-07-26 |  |
@@ -28,6 +29,7 @@
 | [Bisschen wach](https://open.spotify.com/track/6boCFRIpvYlbv5HnTdgbyA) | [Dominik Hartz](https://open.spotify.com/artist/5UkjZuL8QQccOXbUWoREdI), [anaïs](https://open.spotify.com/artist/5uT4SmzhWTYv1iia2BFnVQ) | [Am Ende des Tages](https://open.spotify.com/album/52JSitmvGlUJFlJMVidPNL) | 3:15 | 2023-07-26 |  |
 | [Bittersweet \- Radio Edit](https://open.spotify.com/track/7CNtRYYyhNJKXFr2bQ5rv2) | [Lianne La Havas](https://open.spotify.com/artist/2RP4pPHTXlQpDnO9LvR7Yt) | [Bittersweet \(Radio Edit\)](https://open.spotify.com/album/6zqOLPAQagrbNJCd10MiST) | 3:56 | 2023-07-26 |  |
 | [Black Friday](https://open.spotify.com/track/1XTY6rA7XQosc0ynkkE9kN) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Black Friday](https://open.spotify.com/album/0BdmqjXLz0L6gF78ldUYHp) | 3:41 | 2023-09-26 |  |
+| [Bloom](https://open.spotify.com/track/5utUZ5nv6y6dR8irsnOQEj) | [Aqyila](https://open.spotify.com/artist/4cXLEhsZ1W4T6qBiDYVih4) | [Bloom](https://open.spotify.com/album/7eSHhMZCCvJvubQ3plHlYZ) | 2:55 | 2024-03-21 |  |
 | [Blue Hair](https://open.spotify.com/track/39sDitIeCMrVX2QyXHY46t) | [TV Girl](https://open.spotify.com/artist/0Y6dVaC9DZtPNH4591M42W) | [Death of a Party Girl](https://open.spotify.com/album/5kFjYk3umY8Pu1lymIJLVy) | 3:37 | 2023-07-26 | 2023-08-19 |
 | [Body & Soul](https://open.spotify.com/track/1lrHmP6m1Qcmhwlg2yrjdU) | [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF) | [Body & Soul](https://open.spotify.com/album/4CwzVkma2EkIpKwXpHHUdQ) | 2:34 | 2023-07-26 | 2023-09-16 |
 | [Bound](https://open.spotify.com/track/1iOPoPTFROlTeYpJik7VMs) | [RY X](https://open.spotify.com/artist/2KjAo6wVc9d2WcxdxSArpV) | [Unfurl](https://open.spotify.com/album/3f91d3qVwL2zX9k4PKoXK2) | 4:58 | 2023-09-08 | 2023-11-03 |
@@ -125,7 +127,7 @@
 | [Song For You](https://open.spotify.com/track/0BfLvshnvJldGROufmYCrv) | [Rhye](https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN) | [Blood](https://open.spotify.com/album/6yoGOJsTjU7w2amKcUUX7S) | 3:58 | 2023-07-26 |  |
 | [Space Song](https://open.spotify.com/track/7H0ya83CMmgFcOhw0UB6ow) | [Beach House](https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY) | [Depression Cherry](https://open.spotify.com/album/194CqC2Zi0kUFEPWedb3qr) | 5:20 | 2023-07-26 |  |
 | [Stay](https://open.spotify.com/track/0Uon5NsSAkBDx69XYOaQ5P) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Stay](https://open.spotify.com/album/5wjbd3QuTtEVuNRlIY0o4Q) | 2:57 | 2023-07-26 |  |
-| [Stay cool](https://open.spotify.com/track/5mH3NdJZnMfoFUSk2LgdGL) | [James Vincent McMorrow](https://open.spotify.com/artist/7FDlvgcodNfC0IBdWevl4u) | [Stay cool](https://open.spotify.com/album/6HFTF5zdUuSQr2EvaTnqJo) | 3:27 | 2024-02-09 |  |
+| [Stay cool](https://open.spotify.com/track/5mH3NdJZnMfoFUSk2LgdGL) | [James Vincent McMorrow](https://open.spotify.com/artist/7FDlvgcodNfC0IBdWevl4u) | [Stay cool](https://open.spotify.com/album/6HFTF5zdUuSQr2EvaTnqJo) | 3:27 | 2024-02-09 | 2024-03-22 |
 | [Stockholmsvy](https://open.spotify.com/track/3BeaiIXko9QV8689eWB6yd) | [Hannes](https://open.spotify.com/artist/5bWgLmSpWnixX3inugtAVY), [waterbaby](https://open.spotify.com/artist/7ig7r3UikvL9qJe7pQvCBn) | [Stockholmsvy](https://open.spotify.com/album/0LHAqxNQQgAlh7wk3aRWgM) | 2:41 | 2023-07-26 |  |
 | [Stolen Seasons](https://open.spotify.com/track/4I1MhYsQQ71wkE5DiCWw5T) | [Hazlett](https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH) | [Goodbye to the Valley Low](https://open.spotify.com/album/4y08yRIEOIAcGkuJWwWZ91) | 3:01 | 2023-12-21 |  |
 | [SUNDAY](https://open.spotify.com/track/4StWXtY1kRDuzpl5FZQTae) | [347aidan](https://open.spotify.com/artist/0bBz5bRBkExaej2HxtVfCw) | [SUNDAY](https://open.spotify.com/album/5Bv3n1noEkwI5QbRItwuTf) | 2:04 | 2023-07-26 | 2023-08-15 |
@@ -141,7 +143,7 @@
 | [this is what autumn feels like](https://open.spotify.com/track/2YOGCTiPJWMhZRdeadFj8G) | [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK) | [this is what autumn feels like](https://open.spotify.com/album/7J1igBIEs797Vk07u18VdI) | 3:39 | 2023-09-15 | 2024-03-16 |
 | [THIS YEAR \(Blessings\)](https://open.spotify.com/track/2VGGQdroduj4dIMGPsBzDG) | [Victor Thompson](https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas), [Ehis 'D' Greatest](https://open.spotify.com/artist/6QdzKE9cMAEFZj1pYcxpsf) | [THIS YEAR \(Blessings\)](https://open.spotify.com/album/31Iuukwc9AgXmHyU2UmYDi) | 2:06 | 2023-07-26 |  |
 | [Tissues](https://open.spotify.com/track/07rDOk6qeP4CpqlkJmUo5x) | [Teddy Failure](https://open.spotify.com/artist/6nmR8KccL37IGwr2uMxpR2) | [Tissues](https://open.spotify.com/album/41tFNtJfGLhjTA3p510KOa) | 2:33 | 2023-08-18 | 2023-11-22 |
-| [Told You So](https://open.spotify.com/track/7v94i6EcwKfSch4uplaQqv) | [SUPER\-Hi](https://open.spotify.com/artist/2lJ6K4PTrrweXhRiqh1CZE) | [Told You So](https://open.spotify.com/album/5DT3I8xDobo6h66iHSLfMj) | 3:04 | 2023-07-26 |  |
+| [Told You So](https://open.spotify.com/track/7v94i6EcwKfSch4uplaQqv) | [SUPER\-Hi](https://open.spotify.com/artist/2lJ6K4PTrrweXhRiqh1CZE) | [Told You So](https://open.spotify.com/album/5DT3I8xDobo6h66iHSLfMj) | 3:04 | 2023-07-26 | 2024-03-22 |
 | [tonight](https://open.spotify.com/track/5ekn0rTXRpR5M99v64inDc) | [BEACHPEOPLE](https://open.spotify.com/artist/3OXpCq0ndnIgWu13LKBEba) | [tonight](https://open.spotify.com/album/4kGymfdDrK06vKDsmc30fQ) | 2:44 | 2023-07-26 |  |
 | [Trade it for the Night](https://open.spotify.com/track/5eTeLVyJv5PT9SVFuOmycc) | [HAEVN](https://open.spotify.com/artist/65Tmt9uAPTYGl1ZhsOeEJ6) | [Trade it for the Night](https://open.spotify.com/album/1TUyTfzAhejrdz4I4pymgp) | 4:50 | 2023-07-26 |  |
 | [Two Thirds](https://open.spotify.com/track/4iwlTULepVCvBDYDGuibt1) | [Childe](https://open.spotify.com/artist/4KCn6A86ivcp0kJcOOi2sq) | [Two Thirds](https://open.spotify.com/album/2dnS3oCYGlApopA4gYbNNL) | 3:26 | 2023-07-26 |  |

@@ -4,7 +4,7 @@
 
 > 今週も話題の新曲を最速で。 Cover: 離婚伝説 \*👉 <a href="https://spice.eplus.jp/articles/327269?utm\_source=spotify.com&utm\_medium=referral">SPICE連動記事</a>から新着情報をキャッチ!
 
-5,529 songs - 13 day 23 hr 40 min
+5,530 songs - 13 day 23 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2928,7 +2928,8 @@
 | [So am I](https://open.spotify.com/track/2JsVTIGU8AH4U0Z4LZY0II) | [Uniolla](https://open.spotify.com/artist/46FRoaRwYgXPq0HGAdTRDU) | [Love me tender](https://open.spotify.com/album/5CyzUnjMCkWpPSZiCaXJDG) | 4:31 | 2023-07-05 | 2023-07-12 |
 | [So am I](https://open.spotify.com/track/2f1exvQg0PWmi8d4mlQKb9) | [Uniolla](https://open.spotify.com/artist/46FRoaRwYgXPq0HGAdTRDU) | [Love me tender](https://open.spotify.com/album/4twbnqqyzbe5X8AitewvVf) | 4:31 | 2023-07-04 | 2023-07-06 |
 | [So Real feat\. Nicholas Ryan Gant & Suede Jury](https://open.spotify.com/track/4D6cgLFL83GNIpTQQjBzvi) | [mabanua](https://open.spotify.com/artist/1lBnm3edbDJ7KbWSHzSGQP), [Nicholas Ryan Gant](https://open.spotify.com/artist/1ddTsvSIu8zKa23MTKZNJS), [Suede Jury](https://open.spotify.com/artist/256MjcBz1G9sIN0LL932tr) | [So Real feat\. Nicholas Ryan Gant & Suede Jury](https://open.spotify.com/album/7MtotnJHqALhZyyX50egUA) | 3:08 | 2023-02-14 | 2023-02-22 |
-| [So Sick Of Dreaming](https://open.spotify.com/track/0JIdzqE6KollCBswa5HpIP) | [Maggie Rogers](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe) | [So Sick Of Dreaming](https://open.spotify.com/album/2NzJnMiQdUlxjNP4lxOMEk) | 3:52 | 2024-03-19 |  |
+| [So Sick Of Dreaming](https://open.spotify.com/track/0JIdzqE6KollCBswa5HpIP) | [Maggie Rogers](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe) | [So Sick Of Dreaming](https://open.spotify.com/album/2NzJnMiQdUlxjNP4lxOMEk) | 3:52 | 2024-03-19 | 2024-03-22 |
+| [So Sick Of Dreaming](https://open.spotify.com/track/4pUWfW7nhtlmqww70u0nkh) | [Maggie Rogers](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe) | [So Sick Of Dreaming](https://open.spotify.com/album/3WI6jJQhOD82xGYDLTjk0v) | 3:52 | 2024-03-20 |  |
 | [So tough & So tough](https://open.spotify.com/track/36SZggM1TD3tlZuUa6relW) | [ニーハオ!!!!](https://open.spotify.com/artist/1B0p5xXIIfJNKC5rzbN3To) | [So tough & So tough](https://open.spotify.com/album/5kT1YYk3YMGdzJbtmXOsGy) | 2:07 | 2023-02-07 | 2023-02-15 |
 | [so what?](https://open.spotify.com/track/72bIZnpQgFPjVIscNezRAe) | [SUNNY ONLY 1](https://open.spotify.com/artist/1PcuXbYDyLM8zEsZT1EQtc) | [so what?](https://open.spotify.com/album/37XuDYvrQvP0uncB0mxmOb) | 3:00 | 2023-05-09 | 2023-05-17 |
 | [Soakin'](https://open.spotify.com/track/1nfATJ3SBiQfUS2q24PPSP) | [Chloe Kibble](https://open.spotify.com/artist/5cQSNL47g1aGl81nwFAxJy), [Zuma.](https://open.spotify.com/artist/5njJbzFJ6lY7tq7ZiuFZX5), [Jyodan](https://open.spotify.com/artist/7n0YtK7gMQVm6XPELdDFG6) | [Soakin'](https://open.spotify.com/album/7llaHhQocECIsjeb1PULJz) | 3:10 | 2023-06-27 | 2023-07-05 |

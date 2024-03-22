@@ -4,7 +4,7 @@
 
 > Your favourite café with that warm and cozy Jazz vibe.
 
-199 songs - 11 hr 47 min
+203 songs - 12 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,6 +54,7 @@
 | [Early Mornings](https://open.spotify.com/track/4a0p3YclRTqjojqSG75XLK) | [Arta Porting](https://open.spotify.com/artist/6e2ZpZDumV9AabK9rxpIUg) | [Early Mornings](https://open.spotify.com/album/7hYqoSorlDTgJMuIEXFepE) | 5:35 | 2023-03-24 |  |
 | [Echoes of Elegance](https://open.spotify.com/track/2Ba5S2YdO9uMq0m6McDnzj) | [Bill Parker](https://open.spotify.com/artist/58mMPpww20oJW8J0UZ3frj) | [Echoes of Elegance](https://open.spotify.com/album/27fUpjNhwSGatFLShTeR8G) | 2:56 | 2023-08-31 |  |
 | [Elegant As They Come](https://open.spotify.com/track/4kPYGarMXHC5eACXc17P25) | [Prism Trio](https://open.spotify.com/artist/6oDehRFhqt0eSSSIKD4XgE) | [Above the Clouds](https://open.spotify.com/album/2JayXGwZRkOf2d8800ymf4) | 4:22 | 2023-08-24 |  |
+| [Endless](https://open.spotify.com/track/4JKlhfRIqQkvJsAhnLvThW) | [Luke Marantz Trio](https://open.spotify.com/artist/6skWyJ0S6yQ2bKBQb1klxo) | [Endless](https://open.spotify.com/album/0yKp48RlWbcV0h443MVXAJ) | 3:26 | 2024-03-22 |  |
 | [Everytime We Say Goodbye](https://open.spotify.com/track/5iIuzPWH3IIskHD5IJAUrA) | [Carl Bagge Trio](https://open.spotify.com/artist/1hyKcLTz5pzxyla8DxNTcs) | [Everytime We Say Goodbye](https://open.spotify.com/album/6pbo4Ak9A83INF7HCTqDyh) | 4:40 | 2023-03-03 |  |
 | [February Brings The Rain](https://open.spotify.com/track/5u795XTEp5nJdQOfGJyi1i) | [Fulton Street Players](https://open.spotify.com/artist/3ZOpJEdIEoBxNv0MWG5FB0) | [February Brings The Rain](https://open.spotify.com/album/3HuZSjtGmUndStly4pKiLv) | 3:41 | 2023-03-03 |  |
 | [Fleet Street](https://open.spotify.com/track/57fCbbjLiWUYa0TS8oMIDq) | [Marc Henley Trio](https://open.spotify.com/artist/7zsTHkJCBtSjcg1Ptl8FDD) | [Fleet Street](https://open.spotify.com/album/1jsiPezXWc0nr3B4ca96kD) | 2:44 | 2023-03-03 |  |
@@ -123,13 +124,14 @@
 | [My lids closed down](https://open.spotify.com/track/130PBtsuj1VyxWdn3fhN46) | [Charlie Regan Three](https://open.spotify.com/artist/13RaAeTknGQIB6kBEDTyRY) | [My lids closed down](https://open.spotify.com/album/6zxGisZi4shjN2KDc2MEll) | 3:51 | 2023-03-03 |  |
 | [My Lonely Days Are Over](https://open.spotify.com/track/3A2U0deukLyVDP7IMDPk5K) | [Henning Witsell](https://open.spotify.com/artist/6O4yrTe0loBI2ZGPcMnrdF) | [My Lonely Days Are Over](https://open.spotify.com/album/6cHr3pZ7P9eQHuRcpLH0H9) | 3:50 | 2023-03-03 |  |
 | [My Ship](https://open.spotify.com/track/6LfNBoBMp1pJtnm2VQm0gy) | [Cecil Andrews](https://open.spotify.com/artist/3w12mAdbXsNTiBc4xhM0OV) | [My Ship](https://open.spotify.com/album/4L2n6cYNRrpHlsIO6sokyR) | 2:36 | 2023-09-22 |  |
+| [My Side Of Town](https://open.spotify.com/track/03y18NhxeD2Nq4JqftAEdm) | [The Southern Belle](https://open.spotify.com/artist/7b5QwOkTlJ9LVWJfofwAWV) | [My Side Of Town](https://open.spotify.com/album/0FbpuR6VWZJLaYxJbAKJqE) | 2:58 | 2024-03-22 |  |
 | [Mystic Moonlight Groove](https://open.spotify.com/track/4DySf1DPVMOVl04WBvSvqi) | [Greydon Park Band](https://open.spotify.com/artist/6pZIC4vzuNxdwy8hJSq29S) | [Mystic Moonlight Groove](https://open.spotify.com/album/52zp4HrTeYZeiLn3iDy01S) | 3:31 | 2023-10-27 |  |
 | [New York City Dreamin'](https://open.spotify.com/track/7IzASoTEuRv3G2uSkP79sE) | [Glass Trio](https://open.spotify.com/artist/2RfscHz3ooemLWvQslMeqm) | [New York City Dreamin'](https://open.spotify.com/album/0LFholvP8HQnmJaVTwgQ6U) | 4:01 | 2023-04-14 |  |
 | [Nocturnal Whispers](https://open.spotify.com/track/5fhMizFsBXmXcSeJKVNvrt) | [Dan Evans\-Parker](https://open.spotify.com/artist/4OSxWbYWRbUZzmkKS6PRM4) | [Nocturnal Whispers](https://open.spotify.com/album/05VITsYb1YmKoBQuZCoGr9) | 4:27 | 2023-10-27 |  |
 | [Nose to Nose](https://open.spotify.com/track/2MAgc6myxmuptflBX9CIFs) | [Lachlan Wright Trio](https://open.spotify.com/artist/2HaQQhL4YwnMEo6CHATOtx) | [Margaret Dances](https://open.spotify.com/album/7beQd9cOaKBuE8N4lVRhau) | 3:57 | 2023-03-03 | 2023-03-25 |
 | [Notes and Nights](https://open.spotify.com/track/6Jpxh4o4RypOIfqfxwC4Gp) | [Tate Jackson Trio](https://open.spotify.com/artist/2xOmrHsNNnSQQwav65tSwZ) | [Notes and Nights](https://open.spotify.com/album/4GfxolUrEhXLPHHOtcKxh4) | 3:04 | 2023-03-03 |  |
 | [Nothing Like a Spring](https://open.spotify.com/track/3nSTb8hxLHbDdG8oEXYy5u) | [Trio Del Norte](https://open.spotify.com/artist/6P9V4I7JlXTWt4llgXpiPO) | [Clear Skies](https://open.spotify.com/album/1lkZ3pXnZoqj9grtpAkdNY) | 3:31 | 2023-03-24 |  |
-| [Now that we are here](https://open.spotify.com/track/0rQngOdT0wJxPT6jxt9B0n) | [Soft Brush Touches](https://open.spotify.com/artist/7LMuoHwZv9P0PPSO1DWaLZ) | [Now that we are here](https://open.spotify.com/album/4rzLnj1bsRZNq3MDEr6Hh8) | 2:42 | 2023-03-03 |  |
+| [Now that we are here](https://open.spotify.com/track/0rQngOdT0wJxPT6jxt9B0n) | [Soft Brush Touches](https://open.spotify.com/artist/7LMuoHwZv9P0PPSO1DWaLZ) | [Now that we are here](https://open.spotify.com/album/4rzLnj1bsRZNq3MDEr6Hh8) | 2:42 | 2023-03-03 | 2024-03-22 |
 | [Nublu](https://open.spotify.com/track/7I3dKt5y4dlS0y8Kg0uOdK) | [Younglights](https://open.spotify.com/artist/2wk1p7ufHqkOWAEDAxTWbu) | [Nublu](https://open.spotify.com/album/0PqSULFQO0lLVbiV7lw9BP) | 3:53 | 2023-03-03 |  |
 | [Old Stamping Ground](https://open.spotify.com/track/4RLjnA52m72Hoi2pysqX9n) | [The Lyon Hearts](https://open.spotify.com/artist/2PmIl3LOJlfzGgWvxrj1Hd) | [Old Stamping Ground](https://open.spotify.com/album/2yJR8FMAFNpWucOUVXA2p0) | 2:48 | 2023-11-17 |  |
 | [On 14th Street](https://open.spotify.com/track/0WYwVCkmXls0rYnZrruAX4) | [James Jackson Jazz Trio](https://open.spotify.com/artist/2VQmB7dgKLHJve0htcYfiQ) | [On 14th Street](https://open.spotify.com/album/7mJ4Ph8u0xKvVMyx15KyJo) | 2:56 | 2023-03-03 | 2024-01-19 |
@@ -161,6 +163,7 @@
 | [Speak Low](https://open.spotify.com/track/1DvyJsR76IH3HPxEC0DQ67) | [Madeleine West](https://open.spotify.com/artist/2bucqt2BrsK6W5p1H4Edu4) | [Speak Low](https://open.spotify.com/album/4rMsJgxLDc3JHVM4b9Nibp) | 2:44 | 2023-09-22 |  |
 | [Stars Above](https://open.spotify.com/track/2iMQAwqqjCEeLlnPppBOYW) | [Nordic Light Trio](https://open.spotify.com/artist/2BcQKRbEFJJaMcad1CRZ35) | [Stars Above](https://open.spotify.com/album/0jbSSFBfcHSJl7UVaCk1S9) | 2:58 | 2023-12-22 |  |
 | [Storvindeln](https://open.spotify.com/track/51JcTTZu3LG8aDEXBA4XzV) | [Bladverk Band](https://open.spotify.com/artist/3XGVKlRSkuGWbqonldnI65) | [Storvindeln](https://open.spotify.com/album/1EjiRshKRMV9tGaT2q5Qzr) | 3:36 | 2023-03-03 |  |
+| [Swaying Shadows](https://open.spotify.com/track/53MQJJpDsIE0QV6y6Mv2mc) | [Norberg](https://open.spotify.com/artist/4clALHmaxBpsJ0aWHb3Rdy) | [Swaying Shadows](https://open.spotify.com/album/0td3uSBMDcvtSI4XEonj6L) | 3:20 | 2024-03-22 |  |
 | [Sweet Lilyanne](https://open.spotify.com/track/2DX1gWF4hjdivWePjoP81G) | [Paul Moretti Trio](https://open.spotify.com/artist/13xgTeeJ91pCS0JYRCL41b) | [Sweet Lilyanne](https://open.spotify.com/album/1P3MpyYyLwr075pq33KiRk) | 3:13 | 2023-06-22 |  |
 | [Take My Heart](https://open.spotify.com/track/1byqPlC5Auv9pmaCJpGGqQ) | [James Jackson Jazz Trio](https://open.spotify.com/artist/2VQmB7dgKLHJve0htcYfiQ) | [Take My Heart](https://open.spotify.com/album/3NM7Y1p5b0X1WfXSHAiPJ1) | 3:31 | 2024-01-19 |  |
 | [Tales of the Urban Night](https://open.spotify.com/track/42SXZOzFwDj2d0Lj6dIZW2) | [Duponte et Duponte](https://open.spotify.com/artist/2deWXMlH853VExXZNmSe5o) | [Tales of the Urban Night](https://open.spotify.com/album/0Lq4ADg6oshOAymc9qbvkU) | 3:55 | 2024-03-08 |  |
@@ -178,6 +181,7 @@
 | [This Lullaby](https://open.spotify.com/track/0XvOa8OJrBwVXG77AMkzN6) | [Grace Carey](https://open.spotify.com/artist/6r8iQcLJAEKpFGN0FSusEd) | [This Lullaby](https://open.spotify.com/album/0qqrXJ63GT7I1PKoVVpQY4) | 2:27 | 2024-02-23 |  |
 | [Through The Years](https://open.spotify.com/track/7g5SC1jZlV5dG5czITyjWa) | [Will Rivers Trio](https://open.spotify.com/artist/3Hre5sD1zqwVLFVZIhRuDD) | [Through The Years](https://open.spotify.com/album/4fWa037ryzZJYfrxejalL0) | 3:56 | 2023-03-03 |  |
 | [Tip Your Hat](https://open.spotify.com/track/3sg1RZE32Qwy8j1T1POnBx) | [6th Street Jazz](https://open.spotify.com/artist/1EQvOf7PPTDB3s0q1y9eD1) | [Something About Her Smile](https://open.spotify.com/album/2NzsBCHEWjKiUQbUjDfpNl) | 3:58 | 2023-03-03 |  |
+| [To the Moon and Back](https://open.spotify.com/track/5SavKywZ8Mzwb0PppxJf9E) | [Nicholas Fischer](https://open.spotify.com/artist/23xwLdy4T9jEB9igNfXBIb) | [To the Moon and Back](https://open.spotify.com/album/35ijXUqgREKtH2X21SsHwN) | 3:27 | 2024-03-22 |  |
 | [Too Young To Go Steady](https://open.spotify.com/track/23yV324zCQ7eARFz6qZxxt) | [Angela Rowles](https://open.spotify.com/artist/6afIMyGrPUhBUFk34MfINr) | [Too Young To Go Steady](https://open.spotify.com/album/2sba5NbOxg0eaGQGXNgjTh) | 2:26 | 2023-04-14 |  |
 | [Tuxedo and top hat](https://open.spotify.com/track/3c5s24ryFSbhu9RqQML4gd) | [Grayville Trio](https://open.spotify.com/artist/6ll13Y20dnndy8mAuF9tgk) | [Tuxedo and top hat](https://open.spotify.com/album/2plkKk4zTHEOE0IFgVOGnz) | 2:28 | 2023-05-25 |  |
 | [Twenty Somethings](https://open.spotify.com/track/4eaogpCx2UNkKylwlDNGJ7) | [The Central Park North](https://open.spotify.com/artist/5puwAFDyA8ztu2yucgdWKY) | [Twenty Somethings](https://open.spotify.com/album/2U3BM2wzkqr0aKtZm4bNyP) | 2:32 | 2023-03-03 |  |

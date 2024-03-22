@@ -4,15 +4,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3UoY5WYA1QF.md) - [plain]
 
 > Desde Juliantla, Guerrero, las inmortales del Rey del Jaripeo.
 
-[Spotify](https://open.spotify.com/user/spotify) - 97,122 likes - 100 songs - 5 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 97,272 likes - 100 songs - 5 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Julián](https://open.spotify.com/track/28t2BDb54DXaIkIM9p6ktu) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [Secreto De Amor](https://open.spotify.com/album/2OivwIlbg7qwTg8SLGB0rV) | 3:23 |
 | 2 | [Un Millón de Primaveras](https://open.spotify.com/track/6j5LtifAnuTjTYvml61yFZ) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [Vicente Fernandez Para Siempre](https://open.spotify.com/album/3o98FgxhuEuR7PrLRIA203) | 2:53 |
 | 3 | [Mi Cómplice](https://open.spotify.com/track/1GOvdGVrasTEG5JfDs8V5f) | [Cardenales De Nuevo León](https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV) | [Compraron Una Cantina](https://open.spotify.com/album/1eL97CF6V1JQWs8PcDNKdk) | 3:09 |
-| 4 | [Voy A Conquistarte](https://open.spotify.com/track/3ykJeceAqPKiwnFPpzUNUq) | [Diego Verdaguer](https://open.spotify.com/artist/2UFqwY8A3PLcx8pAkg9g5P) | [Mexicano Hasta Las Pampas](https://open.spotify.com/album/7KIEEuRTgrJIFx6U1e0X3q) | 2:54 |
-| 5 | [El Taxista](https://open.spotify.com/track/5ugABx5bnTbKl0j6iPwaku) | [Los Dinnosaurios](https://open.spotify.com/artist/2WI2ub4Nn8cJM70m9IM2Hz) | [Inolvidables](https://open.spotify.com/album/6bMC920IXyDwMQVm6ZtCLU) | 3:44 |
+| 4 | [El Taxista](https://open.spotify.com/track/5ugABx5bnTbKl0j6iPwaku) | [Los Dinnosaurios](https://open.spotify.com/artist/2WI2ub4Nn8cJM70m9IM2Hz) | [Inolvidables](https://open.spotify.com/album/6bMC920IXyDwMQVm6ZtCLU) | 3:44 |
+| 5 | [Voy A Conquistarte](https://open.spotify.com/track/3ykJeceAqPKiwnFPpzUNUq) | [Diego Verdaguer](https://open.spotify.com/artist/2UFqwY8A3PLcx8pAkg9g5P) | [Mexicano Hasta Las Pampas](https://open.spotify.com/album/7KIEEuRTgrJIFx6U1e0X3q) | 2:54 |
 | 6 | [Eso Y Más](https://open.spotify.com/track/7HW5tUjaKxBUamSi7nnzPt) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [Más Allá Del Sol](https://open.spotify.com/album/2xCw6KdAxnF1OBvsrLbKDM) | 2:39 |
 | 7 | [Amorcito Mio \- En Vivo](https://open.spotify.com/track/31UICcEejwN9HFOgbc17KS) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Encerrados Pero Enfiestados, Vol\. 1 \(En Vivo\)](https://open.spotify.com/album/6eMs2ZZt8PDdOj9QKNjhfg) | 3:23 |
 | 8 | [Recuérdame Bonito](https://open.spotify.com/track/1APZxSVM4utFv3005z4FtB) | [Pepe Aguilar](https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit) | [Recuérdame Bonito](https://open.spotify.com/album/7ILpDmbUgAzuyGupH5kDIr) | 3:11 |
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3UoY5WYA1QF.md) - [plain]
 | 30 | [Caminar Contigo](https://open.spotify.com/track/0sAalDce9Sub2EFICiJON8) | [Lucero](https://open.spotify.com/artist/3SNKhPPfra7g7Crq1QA330), [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [Un Lu\*Jo](https://open.spotify.com/album/7AHCphIjbCH7kEV3VQJe0q) | 3:14 |
 | 31 | [Enamorarse Así](https://open.spotify.com/track/6ezVa5KmCVNYVeIJ0at916) | [Pepe Aguilar](https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit) | [Lo Mejor De Nosotros](https://open.spotify.com/album/6DKj6CdMCUYRYJ4BnJnjd0) | 4:03 |
 | 32 | [La Seven](https://open.spotify.com/track/0H7ECz8veQKTVvi0fctPgs) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9), [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [Dos Mundos Tradición](https://open.spotify.com/album/0iB7cMguWS4caKxufTEG2I) | 3:16 |
-| 33 | [Me Gustas](https://open.spotify.com/track/7jtbRKtXtGtsJOBMaBo72W) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [Secreto De Amor](https://open.spotify.com/album/2OivwIlbg7qwTg8SLGB0rV) | 3:27 |
+| 33 | [Te Irá Mejor Sin Mí](https://open.spotify.com/track/5VGpOXAaau0DdzzOzhApPh) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [Mi Mexico Querido](https://open.spotify.com/album/1daXpKCEEDLb25H1UgzoIa) | 2:56 |
 | 34 | [Sangoloteadito](https://open.spotify.com/track/5ANVq31Ya8ktdx5Qy34yuA) | [Conjunto Sol De Ojinaga](https://open.spotify.com/artist/5ZaOWvcoYvKvMShrVo3gK8) | [El Homenaje Al Poeta Del Pueblo Joan Sebastian](https://open.spotify.com/album/3ikKz6kxwP90xWVtUbiUb2) | 3:47 |
 | 35 | [En Un Hilo](https://open.spotify.com/track/7vSLmGArchqRVf6qbp2U6L) | [Diego Verdaguer](https://open.spotify.com/artist/2UFqwY8A3PLcx8pAkg9g5P) | [Mexicano Hasta Las Pampas](https://open.spotify.com/album/7KIEEuRTgrJIFx6U1e0X3q) | 2:42 |
 | 36 | [Hay Un Tren A Las 5](https://open.spotify.com/track/6p6gClXVVCKssTgrdg9fTC) | [Miguel Y Miguel](https://open.spotify.com/artist/7fmQXLCgx5q0vkGArvS6mm) | [Grandes De Joan Sebastián](https://open.spotify.com/album/7fpLd3ssUyFM5PQFgjk6Sb) | 2:42 |
@@ -84,7 +84,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3UoY5WYA1QF.md) - [plain]
 | 74 | [Que Ya No Estas](https://open.spotify.com/track/7H4VG0Gh5P9dj6zS4A03iR) | [Grupo Laberinto](https://open.spotify.com/artist/24z2EWgF5nVUKnbJHd9ku2) | [Nuestras Favoritas De Joan Sebastian](https://open.spotify.com/album/3zhM6eE3OigmLxaBS1C8zT) | 3:05 |
 | 75 | [Las Mariposas](https://open.spotify.com/track/7nMybk0CdPDILEmkckC7SO) | [Los Herederos Del Norte](https://open.spotify.com/artist/59lr7yic3qRWQziLKd7MEc) | [Homenaje a Joan Sebastian](https://open.spotify.com/album/5yz4lRJo5pIFupzoG02Hkr) | 2:42 |
 | 76 | [Contando Penas](https://open.spotify.com/track/7a37gfqE5ax5abZdPOiwAe) | [Los Herederos Del Norte](https://open.spotify.com/artist/59lr7yic3qRWQziLKd7MEc) | [Homenaje a Joan Sebastian](https://open.spotify.com/album/5yz4lRJo5pIFupzoG02Hkr) | 2:44 |
-| 77 | [Te Irá Mejor Sin Mí](https://open.spotify.com/track/5VGpOXAaau0DdzzOzhApPh) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [Mi Mexico Querido](https://open.spotify.com/album/1daXpKCEEDLb25H1UgzoIa) | 2:56 |
+| 77 | [Me Gustas](https://open.spotify.com/track/7jtbRKtXtGtsJOBMaBo72W) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [Secreto De Amor](https://open.spotify.com/album/2OivwIlbg7qwTg8SLGB0rV) | 3:27 |
 | 78 | [Secreto De Amor](https://open.spotify.com/track/47PiSg7z5qjUyEGKN4I1g7) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [Secreto De Amor](https://open.spotify.com/album/2OivwIlbg7qwTg8SLGB0rV) | 4:33 |
 | 79 | [Sentimental](https://open.spotify.com/track/3NLJWd1FgZlgBRukNXxEBd) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [Afortunado](https://open.spotify.com/album/22e1rqsSwL5RHuuqkYlDJZ) | 2:47 |
 | 80 | [Rumores](https://open.spotify.com/track/1DVZafFlOB53zfGDVs8w1s) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1), [Lisa Lopez](https://open.spotify.com/artist/3gLar4IFE6bFk1GMU12pts) | [Rumores](https://open.spotify.com/album/0DkdxMCzRT1ixYZxD20AlV) | 3:42 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3UoY5WYA1QF.md) - [plain]
 | 99 | [Los Cazahuates](https://open.spotify.com/track/4e40PB59A0nlbBDX5w3ku6) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [Vicente Fernandez Para Siempre](https://open.spotify.com/album/3o98FgxhuEuR7PrLRIA203) | 3:25 |
 | 100 | [Amor Sin Cuenta](https://open.spotify.com/track/1L4TJJpR4uJpir4AxWjICU) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [Vicente Fernandez Para Siempre](https://open.spotify.com/album/3o98FgxhuEuR7PrLRIA203) | 3:26 |
 
-Snapshot ID: `MCwzMThjMjNhYzI4MGNlZDIyNTIzM2E2MzhiNzJkZjQxNDVhOWJlNWQ4`
+Snapshot ID: `MCxlOWZlNzRlMmUyMGI0ZjM3ZDQ2ZDBkZWM1ZDM3MmI5NTU3Mjg0NDJh`

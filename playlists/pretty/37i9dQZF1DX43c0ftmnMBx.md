@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX43c0ftmnMBx.md) - [plain]
 
 > ¡Esto sí es Bachata! Portada: Romeo Santos
 
-[Spotify](https://open.spotify.com/user/spotify) - 236,991 likes - 100 songs - 6 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 237,050 likes - 100 songs - 6 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,8 +74,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX43c0ftmnMBx.md) - [plain]
 | 64 | [Morir Solo](https://open.spotify.com/track/18hnXK4HWm3BxT8QijiJVO) | [Prince Royce](https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC) | [Morir Solo](https://open.spotify.com/album/6knKxseycCjKl3KVZizjbb) | 4:02 |
 | 65 | [No Es Brujeria](https://open.spotify.com/track/4b1ULLyRgU6FZhb9yQ7E1D) | [El Varon de la bachata](https://open.spotify.com/artist/3VYBdLlzLcwpbLHNhcxpoV) | [Alma Perdida](https://open.spotify.com/album/7Jll0qQUYAVBvUUFk5Xeyu) | 4:08 |
 | 66 | [Me Duele La Cabeza](https://open.spotify.com/track/3rIgo725niu2yb3WNx62Jt) | [Héctor Acosta "El Torito"](https://open.spotify.com/artist/4TCAAIMmeZXCTVlHUsicOn) | [Oblígame](https://open.spotify.com/album/0YGZrIcgnUlZ1v4TxnuFxm) | 3:53 |
-| 67 | [Me Voy de Ti](https://open.spotify.com/track/513D1s7hHXD8xneGDHOatZ) | [El Chaval de la Bachata](https://open.spotify.com/artist/4RnIr0AAau1SBJMbjJ9poC) | [Para Toda La Vida](https://open.spotify.com/album/4LgZqa5JapYTlGjOv85FNa) | 5:45 |
-| 68 | [Bachata En Kingston](https://open.spotify.com/track/3EjW1KrOJZr39xiBiI7tMg) | [Vicente Garcia](https://open.spotify.com/artist/2Otnykd696YidQYfEGVmNq) | [A la Mar](https://open.spotify.com/album/5afHhk03AfHR76hfjRNobE) | 3:59 |
+| 67 | [Bachata En Kingston](https://open.spotify.com/track/3EjW1KrOJZr39xiBiI7tMg) | [Vicente Garcia](https://open.spotify.com/artist/2Otnykd696YidQYfEGVmNq) | [A la Mar](https://open.spotify.com/album/5afHhk03AfHR76hfjRNobE) | 3:59 |
+| 68 | [Me Voy de Ti](https://open.spotify.com/track/513D1s7hHXD8xneGDHOatZ) | [El Chaval de la Bachata](https://open.spotify.com/artist/4RnIr0AAau1SBJMbjJ9poC) | [Para Toda La Vida](https://open.spotify.com/album/4LgZqa5JapYTlGjOv85FNa) | 5:45 |
 | 69 | [Vete y Alejate de Mi](https://open.spotify.com/track/66CYjKNVEp21AsDGQkmywV) | [Anthony Santos](https://open.spotify.com/artist/06TVTkMAOR935MhkjX0i2A) | [Vete](https://open.spotify.com/album/0hGEDazwHxaPUBg0DTB9rY) | 4:36 |
 | 70 | [Sangre De Mis Venas](https://open.spotify.com/track/6y7zN0mg5yfkZXTz1kD7NL) | [Vena](https://open.spotify.com/artist/6lt3lJcAlHKrDfDZuKscZd) | [Sangre De Mis Venas](https://open.spotify.com/album/4lxga8GAH3aaPPNuiAkBKo) | 4:09 |
 | 71 | [Vine A Decirte Adios](https://open.spotify.com/track/40dliSTZf3ABIqfvenH9TI) | [Frank Reyes](https://open.spotify.com/artist/4vQV1LCGBdYAt5rIIPjSFZ) | [Vine a Decirte Adios](https://open.spotify.com/album/5QShP54MICYu2VqkwfEnGm) | 4:37 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX43c0ftmnMBx.md) - [plain]
 | 99 | [Dame Un Chance](https://open.spotify.com/track/1tiKYmk7ATZrbONySWFQ4L) | [JFab & Paola Fabre](https://open.spotify.com/artist/1652mfhXA8ApJ7devxmKds) | [Dame Un Chance](https://open.spotify.com/album/3X0hdnr8zM30Pl89zPr5cs) | 3:27 |
 | 100 | [Debate De 4](https://open.spotify.com/track/1dZe54pxTPI1XsISVTR6ns) | [Romeo Santos](https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP), [Anthony Santos](https://open.spotify.com/artist/06TVTkMAOR935MhkjX0i2A), [Luis Vargas](https://open.spotify.com/artist/6Mjbr8K3MiiRMqmFIB4zWq), [Raulin Rodriguez](https://open.spotify.com/artist/5rvaaWutd0gsbc2iMNo9k5) | [Fórmula Vol\. 1 \(Deluxe Edition\)](https://open.spotify.com/album/6a3RDPcFamZvFCi8VeXWkK) | 4:39 |
 
-Snapshot ID: `MCw0MWVjNWU2MTBiZmVkYTU1MDA0YmRkY2JkYjU5OTQ3OTdlY2M2NWRk`
+Snapshot ID: `MCwzM2Y0MTM3ZTg0YzhjYjJjNGM5Njk4MGIxNjQwNjQ5Y2U0Mzk5ZWNk`

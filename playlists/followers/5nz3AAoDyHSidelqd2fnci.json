@@ -1,5 +1,5 @@
 {
-  "2024-03-21": 0,
+  "2024-03-22": 0,
   "date_first_scraped": "2023-03-07",
   "description": "",
   "name": "import of The daily dozen (@pipemanuel10)",
@@ -57,6 +57,24 @@
       "duration_ms": 261373,
       "name": "14 Years",
       "url": "https://open.spotify.com/track/6kuMNhZdF7GgGvmioGc5g2"
+    },
+    {
+      "album": {
+        "name": "Last of the American Girls",
+        "url": "https://open.spotify.com/album/3tTmTykIIa5erRQRcH5E61"
+      },
+      "artists": [
+        {
+          "name": "Green Day",
+          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
+        }
+      ],
+      "date_added": "2024-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 306520,
+      "name": "21st Century Breakdown - Studio 880 Sessions",
+      "url": "https://open.spotify.com/track/3u2cLv442yMUBnGd1GInJu"
     },
     {
       "album": {
@@ -615,7 +633,7 @@
       ],
       "date_added": "2024-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-21",
       "duration_ms": 160426,
       "name": "Basement",
       "url": "https://open.spotify.com/track/4wr8ROgkWDQaqmOElFAent"
@@ -849,7 +867,7 @@
       ],
       "date_added": "2024-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-21",
       "duration_ms": 156560,
       "name": "Break Some Off",
       "url": "https://open.spotify.com/track/141KAsx7t1ziU4XD4fuD4n"
@@ -968,6 +986,24 @@
     },
     {
       "album": {
+        "name": "The Essential Korn",
+        "url": "https://open.spotify.com/album/7gVPfb2pdaMabA3GCiDbRF"
+      },
+      "artists": [
+        {
+          "name": "Korn",
+          "url": "https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD"
+        }
+      ],
+      "date_added": "2024-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278226,
+      "name": "Cameltosis",
+      "url": "https://open.spotify.com/track/2m8LCHj7Yf03jb7Se2RUmA"
+    },
+    {
+      "album": {
         "name": "War Is The Answer",
         "url": "https://open.spotify.com/album/17IyljrvxhPktGR5NYx9iQ"
       },
@@ -1051,7 +1087,7 @@
       ],
       "date_added": "2024-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-21",
       "duration_ms": 252053,
       "name": "Carry the Cross",
       "url": "https://open.spotify.com/track/5GnJy3HRwswXKX3rmffErf"
@@ -1091,10 +1127,28 @@
       ],
       "date_added": "2024-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-21",
       "duration_ms": 152066,
       "name": "Che La Luna",
       "url": "https://open.spotify.com/track/1aH92Q5PlOXxFbSvb1YVL8"
+    },
+    {
+      "album": {
+        "name": "Best of Bowie",
+        "url": "https://open.spotify.com/album/2PEAajl89bIS4eWMk7zlbV"
+      },
+      "artists": [
+        {
+          "name": "David Bowie",
+          "url": "https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy"
+        }
+      ],
+      "date_added": "2024-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257000,
+      "name": "China Girl - 2002 Remaster",
+      "url": "https://open.spotify.com/track/7hDkeK3xLkndOrKS8zzYT9"
     },
     {
       "album": {
@@ -1149,6 +1203,24 @@
       "duration_ms": 204506,
       "name": "Close to Me",
       "url": "https://open.spotify.com/track/5pI8oKWXWAd4jjMjIFajsq"
+    },
+    {
+      "album": {
+        "name": "Get Born",
+        "url": "https://open.spotify.com/album/6NrLpQCPYrNS3kVWxDgIlg"
+      },
+      "artists": [
+        {
+          "name": "Jet",
+          "url": "https://open.spotify.com/artist/5ypxebeHEIXjMtJb17uJlI"
+        }
+      ],
+      "date_added": "2024-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243200,
+      "name": "Cold Hard Bitch",
+      "url": "https://open.spotify.com/track/5u6fnmRO5V0PTl5M2Eekeu"
     },
     {
       "album": {
@@ -1718,6 +1790,24 @@
     },
     {
       "album": {
+        "name": "Classic Power Ballads",
+        "url": "https://open.spotify.com/album/3HtmOyC5Jnrg0CxGMPzn5n"
+      },
+      "artists": [
+        {
+          "name": "Billy Idol",
+          "url": "https://open.spotify.com/artist/7lzordPuZEXxwt9aoVZYmG"
+        }
+      ],
+      "date_added": "2024-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 296218,
+      "name": "Eyes Without A Face",
+      "url": "https://open.spotify.com/track/4Uznk6K0kdqLiUlpz3sG9g"
+    },
+    {
+      "album": {
         "name": "Rod Stewart - Faith Of The Heart (Reproduction)",
         "url": "https://open.spotify.com/album/0GG2vvFEt6EjUt8bzdTpaE"
       },
@@ -1729,7 +1819,7 @@
       ],
       "date_added": "2024-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-21",
       "duration_ms": 249977,
       "name": "Faith Of The Heart [In the Style of \"Rod Stewart\"]",
       "url": "https://open.spotify.com/track/4H6j1fArIXM454yWPcWfkn"
@@ -2475,7 +2565,7 @@
       ],
       "date_added": "2024-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-21",
       "duration_ms": 191226,
       "name": "I Want You to Want Me",
       "url": "https://open.spotify.com/track/1JkZg3eMQTmTn93E8Yd3UL"
@@ -2725,7 +2815,7 @@
       ],
       "date_added": "2024-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-21",
       "duration_ms": 225320,
       "name": "Iron Horse",
       "url": "https://open.spotify.com/track/4FAyK3yjCNrsN1TUoyQVcF"
@@ -2797,7 +2887,7 @@
       ],
       "date_added": "2024-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-21",
       "duration_ms": 98461,
       "name": "JIM CARREY",
       "url": "https://open.spotify.com/track/2CgI0luy3EdnJQMriA8fwE"
@@ -3146,6 +3236,24 @@
     },
     {
       "album": {
+        "name": "Original Album Classics",
+        "url": "https://open.spotify.com/album/1A43UjWWhahOC0pViqCuaF"
+      },
+      "artists": [
+        {
+          "name": "Korn",
+          "url": "https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD"
+        }
+      ],
+      "date_added": "2024-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 58040,
+      "name": "Lowrider",
+      "url": "https://open.spotify.com/track/6j7gx4iFGdmNQGiUpLBZ5s"
+    },
+    {
+      "album": {
         "name": "Lucky",
         "url": "https://open.spotify.com/album/3ha1LSA4HRtpmA6bLhM6tJ"
       },
@@ -3427,7 +3535,7 @@
       ],
       "date_added": "2024-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-21",
       "duration_ms": 214536,
       "name": "Morte \u00e6t\u00e9rna",
       "url": "https://open.spotify.com/track/2IIWw2ZMFz1iFSXPvhP9LI"
@@ -3650,6 +3758,24 @@
     },
     {
       "album": {
+        "name": "Automatic For The People (U.S. Version)",
+        "url": "https://open.spotify.com/album/006Qsi10luS9xEBAcIWGTf"
+      },
+      "artists": [
+        {
+          "name": "R.E.M.",
+          "url": "https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg"
+        }
+      ],
+      "date_added": "2024-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258266,
+      "name": "Nightswimming",
+      "url": "https://open.spotify.com/track/2xLSFrm2oBeMtBMjlAoZSC"
+    },
+    {
+      "album": {
         "name": "NO AUTO TUNE",
         "url": "https://open.spotify.com/album/6tAaHXhS63HUzmGrgn9NRE"
       },
@@ -3745,7 +3871,7 @@
       ],
       "date_added": "2024-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-21",
       "duration_ms": 280280,
       "name": "Of Prometheus and the Crucifix",
       "url": "https://open.spotify.com/track/3M3pLgLlLAKdzmroa2z64m"
@@ -4261,7 +4387,7 @@
       ],
       "date_added": "2024-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-21",
       "duration_ms": 245333,
       "name": "Ravenous",
       "url": "https://open.spotify.com/track/5oyCIQWuSgFB25yA66AIcG"
@@ -4423,7 +4549,7 @@
       ],
       "date_added": "2024-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-21",
       "duration_ms": 431293,
       "name": "Rising",
       "url": "https://open.spotify.com/track/7wf5JNpQcrsPTwN4h1lKCU"
@@ -5296,6 +5422,24 @@
     },
     {
       "album": {
+        "name": "Metallica",
+        "url": "https://open.spotify.com/album/37lWyRxkf3wQHCOlXM5WfX"
+      },
+      "artists": [
+        {
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+        }
+      ],
+      "date_added": "2024-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 308533,
+      "name": "The God That Failed",
+      "url": "https://open.spotify.com/track/4m7SprdGbCH9ifPX5SbdNA"
+    },
+    {
+      "album": {
         "name": "Does This Look Infected?",
         "url": "https://open.spotify.com/album/2iOJEUCKJaYseov1qA8ot8"
       },
@@ -5419,7 +5563,7 @@
       ],
       "date_added": "2024-03-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-12",
+      "date_removed": null,
       "duration_ms": 543186,
       "name": "The Talisman - 2015 Remaster",
       "url": "https://open.spotify.com/track/14Zfm7LmHCLUlOPgJ0hY00"
@@ -5874,6 +6018,24 @@
     },
     {
       "album": {
+        "name": "WAKE UP",
+        "url": "https://open.spotify.com/album/3mI0rvBdda0WogdFHQI2Uu"
+      },
+      "artists": [
+        {
+          "name": "Samara Cyn",
+          "url": "https://open.spotify.com/artist/4nqQTosM2Mbg7iRjvJU0N0"
+        }
+      ],
+      "date_added": "2024-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164427,
+      "name": "WAKE UP",
+      "url": "https://open.spotify.com/track/6Rn0E6cj7o9y1HreiMv0Aw"
+    },
+    {
+      "album": {
         "name": "No Time To Bleed",
         "url": "https://open.spotify.com/album/0HfrZ8ZtUL9ncyt3c5sfMh"
       },
@@ -5946,6 +6108,24 @@
     },
     {
       "album": {
+        "name": "We Both Know",
+        "url": "https://open.spotify.com/album/569MveUgubA2WeTrfmbxnf"
+      },
+      "artists": [
+        {
+          "name": "Allison Daniels",
+          "url": "https://open.spotify.com/artist/54OOcbHzemUIYga3Z351Kq"
+        }
+      ],
+      "date_added": "2024-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186530,
+      "name": "We Both Know",
+      "url": "https://open.spotify.com/track/3Ir8iKCv67pW100PDSgWtk"
+    },
+    {
+      "album": {
         "name": "Webbie Flow",
         "url": "https://open.spotify.com/album/75977yV8NvTZSY2rfRE4M8"
       },
@@ -5961,6 +6141,24 @@
       "duration_ms": 138045,
       "name": "Webbie Flow",
       "url": "https://open.spotify.com/track/0w0EXHl3oMmHuJphcxjns8"
+    },
+    {
+      "album": {
+        "name": "That's The Spirit (Track by Track Commentary)",
+        "url": "https://open.spotify.com/album/6XPW94L30lADaLwczUnLFh"
+      },
+      "artists": [
+        {
+          "name": "Bring Me The Horizon",
+          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
+        }
+      ],
+      "date_added": "2024-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 105840,
+      "name": "What You Need - Commentary",
+      "url": "https://open.spotify.com/track/3QytCNG4G5lTO5hwnZEkJ3"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3MU5XUozve7.md) - [plain]
 
 > A mix of new and classic melodic punk songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 914,368 likes - 100 songs - 5 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 914,717 likes - 100 songs - 5 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3MU5XUozve7.md) - [plain]
 | 31 | [All I Want](https://open.spotify.com/track/4JsDHMv5PVO8N07DbDq33r) | [A Day To Remember](https://open.spotify.com/artist/4NiJW4q9ichVqL1aUsgGAN) | [What Separates Me From You](https://open.spotify.com/album/6I2SUr0MolRUiDEcZAbSWm) | 3:22 |
 | 32 | [Memory](https://open.spotify.com/track/0ChpoNjXfJPjMvCIN6so6J) | [Sugarcult](https://open.spotify.com/artist/04RtvnUz0XrUbUZzOA8ZoW) | [Palm Trees and Power Lines](https://open.spotify.com/album/5pCXe1ZrHEUZeYhMCe0pLX) | 3:46 |
 | 33 | [Bleed American](https://open.spotify.com/track/61XspFITuKmAlYdQacNCbF) | [Jimmy Eat World](https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s) | [Bleed American](https://open.spotify.com/album/0UJhhj5bn5AGAjryFnhueP) | 3:01 |
-| 34 | [Drunken Lullabies](https://open.spotify.com/track/7caiyAewYYoWu5rZZgQWgn) | [Flogging Molly](https://open.spotify.com/artist/5kQGFREO5FzMBMsAO3cEtj) | [Drunken Lullabies](https://open.spotify.com/album/7EtBU4Uen8tfOq0Ah9tqz3) | 3:50 |
-| 35 | [Re\-Education \(Through Labor\)](https://open.spotify.com/track/6c1Bdvp208X0jbLmFnWbkC) | [Rise Against](https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O) | [Appeal To Reason](https://open.spotify.com/album/4ebodSLpRqbuQjpGlDZglH) | 3:42 |
+| 34 | [Re\-Education \(Through Labor\)](https://open.spotify.com/track/6c1Bdvp208X0jbLmFnWbkC) | [Rise Against](https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O) | [Appeal To Reason](https://open.spotify.com/album/4ebodSLpRqbuQjpGlDZglH) | 3:42 |
+| 35 | [Drunken Lullabies](https://open.spotify.com/track/7caiyAewYYoWu5rZZgQWgn) | [Flogging Molly](https://open.spotify.com/artist/5kQGFREO5FzMBMsAO3cEtj) | [Drunken Lullabies](https://open.spotify.com/album/7EtBU4Uen8tfOq0Ah9tqz3) | 3:50 |
 | 36 | [Time Bomb](https://open.spotify.com/track/56hwcJKj0M40A3qdhV3177) | [Rancid](https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB) | [...And Out Come The Wolves](https://open.spotify.com/album/5M490pS7xcqY9V3lgKkrRE) | 2:24 |
 | 37 | [Ever Fallen in Love \(With Someone You Shouldn't've?\) \- 1996 Remastered Version](https://open.spotify.com/track/5YUJMvTg4AWHKjqQidTsGK) | [Buzzcocks](https://open.spotify.com/artist/2DxlS3lTLFIq70S7ap5H3y) | [Love Bites](https://open.spotify.com/album/5rMPmOj5n5TRtphgHpqEVg) | 2:43 |
 | 38 | [We Don't Have To Dance](https://open.spotify.com/track/13b32GfUIo3BV93C8KtEdj) | [Andy Black](https://open.spotify.com/artist/09NYzWfQlunWS3XBZFaDEC) | [The Shadow Side](https://open.spotify.com/album/4DwLXVB5zeO75k8HlTFhB6) | 3:13 |
@@ -71,9 +71,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3MU5XUozve7.md) - [plain]
 | 61 | [Party Hard](https://open.spotify.com/track/0E0bZtTG39K95uRjqBo1Mx) | [Andrew W.K.](https://open.spotify.com/artist/4YJR4xviDKHoelt9WKHlBa) | [I Get Wet](https://open.spotify.com/album/6BQMUDC55fjjnApdWtZYZM) | 3:04 |
 | 62 | [The Curse of Curves](https://open.spotify.com/track/6uzuW7L1t1UhnzbfXwtMtQ) | [Cute Is What We Aim For](https://open.spotify.com/artist/7AsPubxWM5tfW4hTZEL3aP) | [The Same Old Blood Rush With A New Touch](https://open.spotify.com/album/66cyBjBDqSWQgh5Ix3geNl) | 3:23 |
 | 63 | [New Noise](https://open.spotify.com/track/35iLpqqQg4KrfYAzbvN1vH) | [Refused](https://open.spotify.com/artist/5sdxGvwxI1TkTA6Pu2jnTb) | [The Shape Of Punk To Come \(Deluxe Edition\)](https://open.spotify.com/album/2Us9qPHLvLoTl6HkYAPcz2) | 5:10 |
-| 64 | [An Irish Pub Song](https://open.spotify.com/track/5UGJICh0UfvXTansc82A1k) | [The Rumjacks](https://open.spotify.com/artist/0w2KUuMj7dvP8dV4tzoltd) | [Gangs of New Holland](https://open.spotify.com/album/0oiIhaKjX4opdyHTEEM8dm) | 3:22 |
+| 64 | [When Your Heart Stops Beating](https://open.spotify.com/track/1VpTwecl7EbQiGyVsvwFQE) | [+44](https://open.spotify.com/artist/7gkRNHOOt7QfhhXf0rEnmj) | [When Your Heart Stops Beating](https://open.spotify.com/album/46aFyiJiOIKPuxt6j574XA) | 3:12 |
 | 65 | [Helena](https://open.spotify.com/track/3cpZPDaWYxxy0Ho2uIyYRW) | [Misfits](https://open.spotify.com/artist/1cXi8ALPQCBHZbf0EgP4Ey) | [Famous Monsters](https://open.spotify.com/album/4CKrRK52g4mNzbpGIMVbtE) | 3:19 |
-| 66 | [When Your Heart Stops Beating](https://open.spotify.com/track/1VpTwecl7EbQiGyVsvwFQE) | [+44](https://open.spotify.com/artist/7gkRNHOOt7QfhhXf0rEnmj) | [When Your Heart Stops Beating](https://open.spotify.com/album/46aFyiJiOIKPuxt6j574XA) | 3:12 |
+| 66 | [An Irish Pub Song](https://open.spotify.com/track/5UGJICh0UfvXTansc82A1k) | [The Rumjacks](https://open.spotify.com/artist/0w2KUuMj7dvP8dV4tzoltd) | [Gangs of New Holland](https://open.spotify.com/album/0oiIhaKjX4opdyHTEEM8dm) | 3:22 |
 | 67 | [Sell Out](https://open.spotify.com/track/6SJ1hWFVBIiUgGgHKvwXCQ) | [Reel Big Fish](https://open.spotify.com/artist/3bXhZFreBJF4QDUUiMmtZW) | [Turn The Radio Off](https://open.spotify.com/album/5nO5x1Qgnf7zwmO83qrHRn) | 3:47 |
 | 68 | [I Wanna Be Sedated \- 2002 Remaster](https://open.spotify.com/track/6vvmYYUvGXtZLU8msxKvzF) | [Ramones](https://open.spotify.com/artist/1co4F2pPNH8JjTutZkmgSm) | [Road to Ruin \(Expanded 2005 Remaster\)](https://open.spotify.com/album/5QK35ea0XnSBt6Ly8gWLhE) | 2:29 |
 | 69 | [I Feel So](https://open.spotify.com/track/1Igy3egsujfV4WphlW0B7K) | [Box Car Racer](https://open.spotify.com/artist/0DK7FqcaL3ks9TfFn9y1sD) | [Box Car Racer](https://open.spotify.com/album/3gODo8aZ2dTVIaOr9SqeRE) | 4:30 |
@@ -81,8 +81,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3MU5XUozve7.md) - [plain]
 | 71 | [The Boy Who Destroyed The World](https://open.spotify.com/track/7mXieDbl55P3L8kPE33gcC) | [AFI](https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz) | [All Hallows EP](https://open.spotify.com/album/1g3XMX2gmUF6zAwll0jqN6) | 3:05 |
 | 72 | [Bouncing Off The Walls](https://open.spotify.com/track/6SlYsxvOXnB5sNg6ltf7pX) | [Sugarcult](https://open.spotify.com/artist/04RtvnUz0XrUbUZzOA8ZoW) | [Start Static](https://open.spotify.com/album/0jgOnSVNaP3rNb7bZ9b0QT) | 2:21 |
 | 73 | [Sound System \- 2007 Remaster](https://open.spotify.com/track/4Pmo0mMgiyBCj1Zd7Axsi1) | [Operation Ivy](https://open.spotify.com/artist/18XRGxd1b484f2h06cwvJJ) | [Operation Ivy \(2007 Remaster\)](https://open.spotify.com/album/2Rv1kIWFeIYeq8kAtdhY6m) | 2:14 |
-| 74 | [About a Girl](https://open.spotify.com/track/5johpJIVjqU2Ki03DOA7Jr) | [The Academy Is...](https://open.spotify.com/artist/3jwm6OBdUY5xzFiFIPhMHu) | [Fast Times At Barrington High](https://open.spotify.com/album/2IEGo0H1J8AihVqaf5ghkJ) | 3:30 |
-| 75 | [Voldemort](https://open.spotify.com/track/27oxSfW0iib7w0NG4zf9Fp) | [With Confidence](https://open.spotify.com/artist/2PWXHVDEtObSmUrNhfPRav) | [Better Weather](https://open.spotify.com/album/4CRY2jHrlELIVgKfoFVBq9) | 3:00 |
+| 74 | [Voldemort](https://open.spotify.com/track/27oxSfW0iib7w0NG4zf9Fp) | [With Confidence](https://open.spotify.com/artist/2PWXHVDEtObSmUrNhfPRav) | [Better Weather](https://open.spotify.com/album/4CRY2jHrlELIVgKfoFVBq9) | 3:00 |
+| 75 | [About a Girl](https://open.spotify.com/track/5johpJIVjqU2Ki03DOA7Jr) | [The Academy Is...](https://open.spotify.com/artist/3jwm6OBdUY5xzFiFIPhMHu) | [Fast Times At Barrington High](https://open.spotify.com/album/2IEGo0H1J8AihVqaf5ghkJ) | 3:30 |
 | 76 | [Can't Kick Up The Roots](https://open.spotify.com/track/1iKjPM2YygFxUqjUakAI4n) | [Neck Deep](https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH) | [Life's Not Out To Get You](https://open.spotify.com/album/3umOBqXWR9VnJTQoe9Qkkj) | 2:49 |
 | 77 | [Injection](https://open.spotify.com/track/1wVUjggKup9hP2jd24gLSg) | [Rise Against](https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O) | [The Sufferer & The Witness](https://open.spotify.com/album/1VZ0i4vJ0AkPbmpuaktZMJ) | 3:19 |
 | 78 | [Six Years on Dope](https://open.spotify.com/track/5HHR8lHtLowKzMavnA6GyW) | [NOFX](https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ) | [First Ditch Effort](https://open.spotify.com/album/2WJFIzmyJ6Egq00seat7hy) | 1:32 |
@@ -92,8 +92,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3MU5XUozve7.md) - [plain]
 | 82 | [Thrash Unreal](https://open.spotify.com/track/3c3XnCPwxGhQEHFxxjQcWe) | [Against Me!](https://open.spotify.com/artist/29lz7gs8edwnnfuXW4FhMl) | [New Wave \(U.S\. Version\)](https://open.spotify.com/album/08IrBeiM2LU3HAqAaHQcQq) | 4:14 |
 | 83 | [Drain the Blood](https://open.spotify.com/track/3kYWrBoFBQGctF0UwgP8N1) | [The Distillers](https://open.spotify.com/artist/7MlyHuGRHi31yYlrttDqgT) | [Coral Fang \(PA Version\)](https://open.spotify.com/album/23MOdUJkZlG971DVuEINMr) | 3:09 |
 | 84 | [Beat on the Brat \- 2016 Remaster](https://open.spotify.com/track/55mKuESqpfgqe0kooIkTH2) | [Ramones](https://open.spotify.com/artist/1co4F2pPNH8JjTutZkmgSm) | [Ramones \(40th Anniversary Deluxe Edition; 2016 Remaster\)](https://open.spotify.com/album/5uYDAwW0SZgcfOFkxrST64) | 2:31 |
-| 85 | [Coffee Talk](https://open.spotify.com/track/7wXays9vrRN3i4wBpBYb2d) | [Broadside](https://open.spotify.com/artist/7EGdqeEDe7WMqOVyDFUYyo) | [Old Bones](https://open.spotify.com/album/56SkNHaKkz6DlQygFvbEWV) | 2:54 |
-| 86 | [Superman](https://open.spotify.com/track/6cL7NCFSvqWrBH5r4mkvVV) | [Goldfinger](https://open.spotify.com/artist/7sVQKNtdP2NylxMgbNOJMM) | [The Best Of Goldfinger](https://open.spotify.com/album/2Fhk8LPPX8d14HwEKjmJ1O) | 3:05 |
+| 85 | [Superman](https://open.spotify.com/track/6cL7NCFSvqWrBH5r4mkvVV) | [Goldfinger](https://open.spotify.com/artist/7sVQKNtdP2NylxMgbNOJMM) | [The Best Of Goldfinger](https://open.spotify.com/album/2Fhk8LPPX8d14HwEKjmJ1O) | 3:05 |
+| 86 | [Coffee Talk](https://open.spotify.com/track/7wXays9vrRN3i4wBpBYb2d) | [Broadside](https://open.spotify.com/artist/7EGdqeEDe7WMqOVyDFUYyo) | [Old Bones](https://open.spotify.com/album/56SkNHaKkz6DlQygFvbEWV) | 2:54 |
 | 87 | [The Separation of Church and Skate](https://open.spotify.com/track/1NVjbk3Q06lEvAPUlTauzr) | [NOFX](https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ) | [War on Errorism](https://open.spotify.com/album/579FRQBE6RnFZXn6dG0DeV) | 3:09 |
 | 88 | ['Merican](https://open.spotify.com/track/2BY2O9OybmxpND0DqNgx97) | [Descendents](https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5) | [Cool to Be You](https://open.spotify.com/album/52RKlgHaL9hv8VjlVa3YkB) | 1:51 |
 | 89 | [City Of Angels](https://open.spotify.com/track/0sAIljILdEo8Ku4tPLQ7dF) | [The Distillers](https://open.spotify.com/artist/7MlyHuGRHi31yYlrttDqgT) | [Sing Sing Death House](https://open.spotify.com/album/4VrINRcJyLcENNLiDbCoBi) | 3:29 |
@@ -104,9 +104,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3MU5XUozve7.md) - [plain]
 | 94 | [Wish](https://open.spotify.com/track/3z3bcIS2CBJ5pqWQjKPiIo) | [Alien Ant Farm](https://open.spotify.com/artist/6TZdvF1kFzwnQLgHQynzsO) | [Anthology](https://open.spotify.com/album/5klPnHQ5dy6Qm2Ul7h1lp5) | 3:21 |
 | 95 | [Secrets](https://open.spotify.com/track/5DKlSWi2DY3uXuwfctcRKi) | [State Champs](https://open.spotify.com/artist/1qqdO7xMptucPDMopsOdkr) | [Around the World and Back \(Deluxe\)](https://open.spotify.com/album/1lLm5kIRG1acxB4DlEZTL8) | 3:44 |
 | 96 | [On A Turntable](https://open.spotify.com/track/5BdbpAak9RUhjwT8fwciZe) | [The Interrupters](https://open.spotify.com/artist/25Maank76ry2Tmbi2Ql1SF) | [Say It Out Loud](https://open.spotify.com/album/5vFP4PaGtuIccr1hW1PQKs) | 2:38 |
-| 97 | [All My Friends Are Dead](https://open.spotify.com/track/6fEztciYVlIyWTBe66clVj) | [Turbonegro](https://open.spotify.com/artist/191rVxQbbZ05wcICUSvLkz) | [Party Animals](https://open.spotify.com/album/3AZ1nJRyRQag2qI5Bb2WF5) | 2:38 |
-| 98 | [Not the Same](https://open.spotify.com/track/0q6Qyd2QaHMHp7APKyQsyi) | [Bodyjar](https://open.spotify.com/artist/2LyXoG111QdqfI0HLYQgvS) | [How It Works](https://open.spotify.com/album/3OXgyKFsDVI8PzYY0mspqD) | 3:08 |
-| 99 | [Diamonds And Guns](https://open.spotify.com/track/78oeeGkqmsr6r6AlW0x69d) | [Transplants](https://open.spotify.com/artist/6f9zLIMqyEu7abKhGMFr5q) | [Transplants](https://open.spotify.com/album/0lf0Mw6dwcAWxIIVXEv0fQ) | 4:01 |
-| 100 | [Father of All...](https://open.spotify.com/track/17C1AVZVh5jhJU4eAcovpl) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Father of All...](https://open.spotify.com/album/7ij8wQxCAexZiXZbMOHcxE) | 2:31 |
+| 97 | [Not the Same](https://open.spotify.com/track/0q6Qyd2QaHMHp7APKyQsyi) | [Bodyjar](https://open.spotify.com/artist/2LyXoG111QdqfI0HLYQgvS) | [How It Works](https://open.spotify.com/album/3OXgyKFsDVI8PzYY0mspqD) | 3:08 |
+| 98 | [All My Friends Are Dead](https://open.spotify.com/track/6fEztciYVlIyWTBe66clVj) | [Turbonegro](https://open.spotify.com/artist/191rVxQbbZ05wcICUSvLkz) | [Party Animals](https://open.spotify.com/album/3AZ1nJRyRQag2qI5Bb2WF5) | 2:38 |
+| 99 | [Father of All...](https://open.spotify.com/track/17C1AVZVh5jhJU4eAcovpl) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Father of All...](https://open.spotify.com/album/7ij8wQxCAexZiXZbMOHcxE) | 2:31 |
+| 100 | [Diamonds And Guns](https://open.spotify.com/track/78oeeGkqmsr6r6AlW0x69d) | [Transplants](https://open.spotify.com/artist/6f9zLIMqyEu7abKhGMFr5q) | [Transplants](https://open.spotify.com/album/0lf0Mw6dwcAWxIIVXEv0fQ) | 4:01 |
 
-Snapshot ID: `MCwxMjc3ZjA1MzMxZTk5NWQ0MjgwNWNiNTA3YTgzZmVjMTc4NjE1Njdl`
+Snapshot ID: `MCw3MDBkZWE5ZTUyNTllMTUwNjg1NGM3Mjc5MGIzZjc2NmIwY2U1NTFh`

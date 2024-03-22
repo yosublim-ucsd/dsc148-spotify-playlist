@@ -1,12 +1,12 @@
 {
   "description": "Eletr\u00f4nico energ\u00e9tico para acompanhar a sua malha\u00e7\u00e3o di\u00e1ria. ",
-  "num_followers": 279231,
+  "num_followers": 279252,
   "original_name": "Suor EDM",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlOWUyZTU4NWUxZTJmNjI5YjgzYzE0YTNiMTMyZDc2ZTc2OGIwZDE1",
+  "snapshot_id": "MCxmZDY0NTVhYWQxZDIxYzM1Yjc1NGQwMzJjM2Y2NTc0ODZiYzNjNmY3",
   "tracks": [
     {
       "added_at": "2024-03-08 03:03:00",
@@ -615,26 +615,6 @@
     {
       "added_at": "2024-03-08 03:03:00",
       "album": {
-        "name": "Going Dumb",
-        "url": "https://open.spotify.com/album/5IMZvYqklgYzabWtgtD74l"
-      },
-      "artists": [
-        {
-          "name": "Alesso",
-          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
-        },
-        {
-          "name": "CORSAK",
-          "url": "https://open.spotify.com/artist/1TcbdifqhtxLz77unBYJ7z"
-        }
-      ],
-      "duration_ms": 168601,
-      "name": "Going Dumb",
-      "url": "https://open.spotify.com/track/7arsXR8AtExnOFN3v3HiJI"
-    },
-    {
-      "added_at": "2024-03-08 03:03:00",
-      "album": {
         "name": "Psycho Killer",
         "url": "https://open.spotify.com/album/724uBeFYTVq2EwgSWqZ7qD"
       },
@@ -651,6 +631,26 @@
       "duration_ms": 140000,
       "name": "Psycho Killer",
       "url": "https://open.spotify.com/track/6HhiSk9HZR0C3IktOI9mzy"
+    },
+    {
+      "added_at": "2024-03-08 03:03:00",
+      "album": {
+        "name": "Going Dumb",
+        "url": "https://open.spotify.com/album/5IMZvYqklgYzabWtgtD74l"
+      },
+      "artists": [
+        {
+          "name": "Alesso",
+          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
+        },
+        {
+          "name": "CORSAK",
+          "url": "https://open.spotify.com/artist/1TcbdifqhtxLz77unBYJ7z"
+        }
+      ],
+      "duration_ms": 168601,
+      "name": "Going Dumb",
+      "url": "https://open.spotify.com/track/7arsXR8AtExnOFN3v3HiJI"
     },
     {
       "added_at": "2024-03-08 03:03:00",
@@ -783,26 +783,6 @@
     {
       "added_at": "2024-03-08 03:03:00",
       "album": {
-        "name": "Dynamite",
-        "url": "https://open.spotify.com/album/3PclTvUZ12jHy1bmWecbuW"
-      },
-      "artists": [
-        {
-          "name": "ILIRA",
-          "url": "https://open.spotify.com/artist/6mzs66iVW15C5iLt0JLt41"
-        },
-        {
-          "name": "VIZE",
-          "url": "https://open.spotify.com/artist/09agIJMxCD2k87ys9Al0f0"
-        }
-      ],
-      "duration_ms": 125878,
-      "name": "Dynamite",
-      "url": "https://open.spotify.com/track/3HqQpSTLHJRKDhulVacRFb"
-    },
-    {
-      "added_at": "2024-03-08 03:03:00",
-      "album": {
         "name": "Ridin' Dirty",
         "url": "https://open.spotify.com/album/5mnLXTacNtrmWrchALjk4A"
       },
@@ -823,6 +803,26 @@
       "duration_ms": 169657,
       "name": "Ridin' Dirty",
       "url": "https://open.spotify.com/track/2eHDuXlnG21sfPV2XTufWY"
+    },
+    {
+      "added_at": "2024-03-08 03:03:00",
+      "album": {
+        "name": "Dynamite",
+        "url": "https://open.spotify.com/album/3PclTvUZ12jHy1bmWecbuW"
+      },
+      "artists": [
+        {
+          "name": "ILIRA",
+          "url": "https://open.spotify.com/artist/6mzs66iVW15C5iLt0JLt41"
+        },
+        {
+          "name": "VIZE",
+          "url": "https://open.spotify.com/artist/09agIJMxCD2k87ys9Al0f0"
+        }
+      ],
+      "duration_ms": 125878,
+      "name": "Dynamite",
+      "url": "https://open.spotify.com/track/3HqQpSTLHJRKDhulVacRFb"
     },
     {
       "added_at": "2024-03-08 03:03:00",

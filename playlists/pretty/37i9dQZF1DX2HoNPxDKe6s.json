@@ -1,12 +1,12 @@
 {
   "description": "The hip-hop party soundtrack of summer, past and present.",
-  "num_followers": 17333,
+  "num_followers": 17330,
   "original_name": "Dear Summer",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3MThmYjI5MzM5NmFmZDU3MDRmNjNjZDVlNzNjZGRjNTg1ZDM1MmE3",
+  "snapshot_id": "MCw0Y2IzMTE4ZGJkOTkxOWMwODFhYmY1ZWQxNzVhNzZjNGM5ODAyMThm",
   "tracks": [
     {
       "added_at": "2023-07-07 04:00:00",
@@ -611,6 +611,22 @@
     {
       "added_at": "2023-07-07 04:00:00",
       "album": {
+        "name": "Mr. Morale & The Big Steppers",
+        "url": "https://open.spotify.com/album/79ONNoS4M9tfIA1mYLBYVX"
+      },
+      "artists": [
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        }
+      ],
+      "duration_ms": 195950,
+      "name": "N95",
+      "url": "https://open.spotify.com/track/0fX4oNGBWO3dSGUZcVdVV2"
+    },
+    {
+      "added_at": "2023-07-07 04:00:00",
+      "album": {
         "name": "Championships",
         "url": "https://open.spotify.com/album/6UYZEYjpN1DYRW0kqFy9ZE"
       },
@@ -627,22 +643,6 @@
       "duration_ms": 180522,
       "name": "Going Bad (feat. Drake)",
       "url": "https://open.spotify.com/track/2IRZnDFmlqMuOrYOLnZZyc"
-    },
-    {
-      "added_at": "2023-07-07 04:00:00",
-      "album": {
-        "name": "Mr. Morale & The Big Steppers",
-        "url": "https://open.spotify.com/album/79ONNoS4M9tfIA1mYLBYVX"
-      },
-      "artists": [
-        {
-          "name": "Kendrick Lamar",
-          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
-        }
-      ],
-      "duration_ms": 195950,
-      "name": "N95",
-      "url": "https://open.spotify.com/track/0fX4oNGBWO3dSGUZcVdVV2"
     },
     {
       "added_at": "2023-07-07 04:00:00",
@@ -791,22 +791,6 @@
     {
       "added_at": "2023-07-07 04:00:00",
       "album": {
-        "name": "SLUT ME OUT",
-        "url": "https://open.spotify.com/album/48868AJJd7JVl1IVmaBsaQ"
-      },
-      "artists": [
-        {
-          "name": "NLE Choppa",
-          "url": "https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ"
-        }
-      ],
-      "duration_ms": 123672,
-      "name": "SLUT ME OUT",
-      "url": "https://open.spotify.com/track/5BmB3OaQyYXCqRyN8iR2Yi"
-    },
-    {
-      "added_at": "2023-07-07 04:00:00",
-      "album": {
         "name": "Mr. Morale & The Big Steppers",
         "url": "https://open.spotify.com/album/79ONNoS4M9tfIA1mYLBYVX"
       },
@@ -827,6 +811,22 @@
       "duration_ms": 239026,
       "name": "Die Hard",
       "url": "https://open.spotify.com/track/2g6tReTlM2Akp41g0HaeXN"
+    },
+    {
+      "added_at": "2023-07-07 04:00:00",
+      "album": {
+        "name": "SLUT ME OUT",
+        "url": "https://open.spotify.com/album/48868AJJd7JVl1IVmaBsaQ"
+      },
+      "artists": [
+        {
+          "name": "NLE Choppa",
+          "url": "https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ"
+        }
+      ],
+      "duration_ms": 123672,
+      "name": "SLUT ME OUT",
+      "url": "https://open.spotify.com/track/5BmB3OaQyYXCqRyN8iR2Yi"
     },
     {
       "added_at": "2023-07-07 04:00:00",

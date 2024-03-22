@@ -4,7 +4,7 @@
 
 > Afro, Caribbean & Latin sounds for that summer vibe
 
-454 songs - 1 day 0 hr 0 min
+455 songs - 1 day 0 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -192,7 +192,7 @@
 | [If](https://open.spotify.com/track/0WeN52xa8nBDBfKsaiKJ0i) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [A Good Time](https://open.spotify.com/album/0s3BbZlcqsUdAD8wIYdO5n) | 3:57 | 2021-12-16 | 2022-06-10 |
 | [Ijo \(Laba Laba\)](https://open.spotify.com/track/7tZMF9Hn5uGsfC7zGXbSKM) | [Crayon](https://open.spotify.com/artist/3Uv5hfyuC7TkLsQ6p4ikSb) | [Ijo \(Laba Laba\)](https://open.spotify.com/album/5A1qWiQBSEkCpGvQE2YfOH) | 3:06 | 2023-02-28 |  |
 | [Infinity \(feat\. Omah Lay\)](https://open.spotify.com/track/5DS9LiyEdw2zY8bM6kjjgM) | [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr), [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [Carpe Diem](https://open.spotify.com/album/6fG2eFCgUmytQWL6umtsCh) | 2:51 | 2021-12-16 |  |
-| [Irrational \(feat\. Adekunle Gold\) \- Remix](https://open.spotify.com/track/3QF4i1kw1Cs4KsIJvevZ3v) | [Shay Lia](https://open.spotify.com/artist/3sJQwG0SsGRyv5C5kh4o9a), [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s) | [Irrational \(feat\. Adekunle Gold\) \[Remix\]](https://open.spotify.com/album/5NoFagwdwUNqVESnkP8c1m) | 3:50 | 2022-12-14 |  |
+| [Irrational \(feat\. Adekunle Gold\) \- Remix](https://open.spotify.com/track/3QF4i1kw1Cs4KsIJvevZ3v) | [Shay Lia](https://open.spotify.com/artist/3sJQwG0SsGRyv5C5kh4o9a), [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s) | [Irrational \(feat\. Adekunle Gold\) \[Remix\]](https://open.spotify.com/album/5NoFagwdwUNqVESnkP8c1m) | 3:50 | 2022-12-14 | 2024-03-22 |
 | [Irrational \(feat\. Adekunle Gold\) \- Remix](https://open.spotify.com/track/5gCImzpv57IJp9oEFrCKQf) | [Shay Lia](https://open.spotify.com/artist/3sJQwG0SsGRyv5C5kh4o9a), [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s) | [Irrational \(feat\. Adekunle Gold\) \[Remix\]](https://open.spotify.com/album/33poJ8nmV0JbkmgmzTL6sC) | 3:50 | 2021-12-16 | 2022-12-02 |
 | [Iskaba](https://open.spotify.com/track/1GuLgNKd4lrI1vugkxMCAX) | [Wande Coal](https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla), [DJ Tunez](https://open.spotify.com/artist/64oW4P0vsDhlorOxZKQi6a) | [Iskaba](https://open.spotify.com/album/0Xv3hpglXQQXDw1927aJvu) | 3:44 | 2022-07-28 | 2023-03-02 |
 | [Iskaba](https://open.spotify.com/track/1qNz5rynw3I9LU8uQRETsO) | [Wande Coal](https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla), [DJ Tunez](https://open.spotify.com/artist/64oW4P0vsDhlorOxZKQi6a) | [Iskaba](https://open.spotify.com/album/246hi2vlh34PVxpM288Ekc) | 3:44 | 2021-12-16 | 2022-07-29 |
@@ -421,6 +421,7 @@
 | [Toxic](https://open.spotify.com/track/6p8dKNFYoXk4Lb9XGoJoKJ) | [Kranium](https://open.spotify.com/artist/1LKo6ZA3RNvKtLa6zDu32S) | [Toxic](https://open.spotify.com/album/36lTlB0c2ExS1RszhQMb07) | 2:55 | 2021-12-16 | 2022-01-26 |
 | [Toxic Love](https://open.spotify.com/track/7JaYn3eZYVgW4cjrvqbJWE) | [Stefflon Don](https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD), [Midas the Jagaban](https://open.spotify.com/artist/07MX7XJsNTn8JlgEcbZ7Fd) | [Toxic Love](https://open.spotify.com/album/401ZkPLClE3UGAn7DepicP) | 3:27 | 2021-12-16 | 2022-01-26 |
 | [Tropical](https://open.spotify.com/track/11Hq9IduxlW65vxVEzqyIr) | [Ir Sais](https://open.spotify.com/artist/4NEThNYJ3WyNcJWcmpjq88) | [Tropical](https://open.spotify.com/album/28sIFh62xbvrc7n27GKFnS) | 2:32 | 2021-12-16 | 2023-03-03 |
+| [Tshwala Bam \(feat\. S.N.E, EeQue\)](https://open.spotify.com/track/54seQV7MCcppBrznALCdlT) | [TitoM](https://open.spotify.com/artist/5eYSqn4LCXLgIFYR4qOZ1k), [Yuppe](https://open.spotify.com/artist/0M6k4Kgi5NiIDnafSKSLE0), [EeQue](https://open.spotify.com/artist/4VqCBSJ9fvJ1XDQUd7K2Ft), [S.N.E](https://open.spotify.com/artist/16RKP7aw26uSkNpadpEgaF) | [Tshwala Bam \(feat\. S.N.E, EeQue\)](https://open.spotify.com/album/4lZSgj4cw3cmEvw0KQXNnY) | 6:30 | 2024-03-21 |  |
 | [Tucu](https://open.spotify.com/track/1YIvYm5d9GnVXR0Q9SUER7) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [Amarion](https://open.spotify.com/artist/7Bb4i0RT3zaudzb8KvxTUQ) | [Tucu](https://open.spotify.com/album/6Dm6d8bOCvfHm0VGaU9mpj) | 3:06 | 2023-09-14 |  |
 | [Tunup \(feat\. Konshens & Bokoesam\)](https://open.spotify.com/track/0Ho4fDQ3EKYkpCAQmUfwM6) | [The Partysquad](https://open.spotify.com/artist/2dQgOfBP52UwjegY8FwJAY), [Bokoesam](https://open.spotify.com/artist/2NFWbreVmIEJG0iqIvLDOI), [Konshens](https://open.spotify.com/artist/3nwYsifpwrKmCIpw4i0HDW) | [The Highest Grade Vol\. 2.0 \- Caribbean Kush](https://open.spotify.com/album/7DDlJpfsr80WHAnZvVfOO5) | 2:29 | 2022-05-26 | 2024-02-01 |
 | [U Me Luv](https://open.spotify.com/track/0qKpwaNffHcDjHkAN0BAXd) | [jahmiel](https://open.spotify.com/artist/1pcKqVZ7T90mJ2rKo9XWYV), [Dunw3ll](https://open.spotify.com/artist/0GXid8LlvA2twALSqLKYQ0) | [U Me Luv \- Single](https://open.spotify.com/album/26mI7gZZpLqZG07xE4R8vA) | 3:39 | 2021-12-16 | 2022-02-24 |

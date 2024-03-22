@@ -4,7 +4,7 @@
 
 > ¡Las canciones que ponían a bailar a todo México!
 
-54 songs - 2 hr 15 min
+55 songs - 2 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,6 +16,7 @@
 | [Atras de la Raya](https://open.spotify.com/track/6wQBqxOwJd6e2csv5y2qjF) | [Los Apson](https://open.spotify.com/artist/63MoX25vZtzCSTvRFkAsnW) | [12 Grandes exitos Vol\. 2](https://open.spotify.com/album/6FS5v5fmOjAjsMKriFMLqe) | 2:44 | 2020-03-18 |  |
 | [Barba azul \- Let's Do The limbo](https://open.spotify.com/track/2ko3qA1QJZ7nla7XDImYHv) | [Los Apson](https://open.spotify.com/artist/63MoX25vZtzCSTvRFkAsnW) | [12 Grandes exitos Vol\. 2](https://open.spotify.com/album/6FS5v5fmOjAjsMKriFMLqe) | 2:50 | 2020-03-18 |  |
 | [Boogie Twist](https://open.spotify.com/track/10NGZL2P7ZJ7C3vwUlyqOG) | [Los Jet Twisters](https://open.spotify.com/artist/6XUuzErwNvJpr5jlSEtCdS) | [Twist](https://open.spotify.com/album/16LnvfnTHvoqxczpRjRk4a) | 2:15 | 2020-03-18 |  |
+| [Bule Bule](https://open.spotify.com/track/0eMMc5pZJifAsXSaEViY3E) | [Los Rockin' Devils](https://open.spotify.com/artist/7MTtIXOqFDnSbho0pYpJve) | [Idolos del Rock & Roll](https://open.spotify.com/album/7BI6FgfgfYaWaOZo6phWBC) | 2:22 | 2020-03-18 |  |
 | [Bule bule \- Remastered](https://open.spotify.com/track/4lY1RHHCrH5bAxAA7KlUhT) | [Enrique Guzmán & Teen Tops](https://open.spotify.com/artist/1Q2UXM1vlDYOzeAZYDI2WD) | [El rock de la cárcel \(Remastered\)](https://open.spotify.com/album/0errWAKWe4xl8p5DxVS93H) | 2:21 | 2020-03-18 | 2024-03-21 |
 | [Cenicienta](https://open.spotify.com/track/6jxAf0wPyRLIAvDjpmV0Oz) | [Dyno](https://open.spotify.com/artist/1UCwxwpf10gITF13OoCyxG) | [No Te Pongas Pantalones](https://open.spotify.com/album/0Bdux2Q5ueclP7BLnf2g4l) | 2:32 | 2020-03-18 |  |
 | [Chica Alborotada](https://open.spotify.com/track/3b9ICYLGk3brPCarHbih8a) | [Los Juniors](https://open.spotify.com/artist/56UFFBf8lm4RJbpaXY6PAf) | [Los Grandes Éxitos Del Rock & Roll \(En Español\) Vol\. 2](https://open.spotify.com/album/0tM7TEe6JjVrrbEOLYXh7j) | 2:07 | 2020-03-18 |  |
@@ -47,7 +48,7 @@
 | [Muevanse Todos](https://open.spotify.com/track/43aYQsdCbQ6kMg4PjCGwu5) | [Vianey Valdez](https://open.spotify.com/artist/0JIg0Ml1RCN9v57Ht9Wfd5) | [Como Lo Bailaron Tus Padres, Vol\. 1](https://open.spotify.com/album/57ZelIquhSX9pu9B4PYGmu) | 2:23 | 2020-03-18 |  |
 | [Nena Baila Twist](https://open.spotify.com/track/5LNIT1cjnkIkPpZZIUQnCf) | [Los Freneticos Del Ritmo](https://open.spotify.com/artist/64k6Wy7EbxzKOC7jeN3287) | [Ritmo Frenético](https://open.spotify.com/album/3TL7eaDOfW3cDGF8AjtJwD) | 2:09 | 2020-03-18 |  |
 | [Nena Loca](https://open.spotify.com/track/6OnUh5kbrT3LERAKSRE4T8) | [Los Reyes del Twist \(Los Seven Teens\)](https://open.spotify.com/artist/1HIFXcPtGj3PHMiDocMQ2H) | [Los Seven Teens](https://open.spotify.com/album/4rkOWiDCIicFuzuXmgPs1J) | 2:36 | 2020-03-18 |  |
-| [No Te Pongas Pantalones](https://open.spotify.com/track/7tZS0ThweTnxIIQjYjgaWB) | [Dyno](https://open.spotify.com/artist/1UCwxwpf10gITF13OoCyxG) | [No Te Pongas Pantalones](https://open.spotify.com/album/0Bdux2Q5ueclP7BLnf2g4l) | 2:14 | 2020-03-18 |  |
+| [No Te Pongas Pantalones](https://open.spotify.com/track/7tZS0ThweTnxIIQjYjgaWB) | [Dyno](https://open.spotify.com/artist/1UCwxwpf10gITF13OoCyxG) | [No Te Pongas Pantalones](https://open.spotify.com/album/0Bdux2Q5ueclP7BLnf2g4l) | 2:14 | 2020-03-18 | 2024-03-22 |
 | [Oh! No](https://open.spotify.com/track/7dQWZ2EEodVh3WrMCiT99m) | [Los Camisas Negras](https://open.spotify.com/artist/3gQTdlAGp7BHmp6wLzvC3i) | [El Tigre](https://open.spotify.com/album/1ze4aTvIn0RGW61jEhWEGh) | 1:38 | 2020-03-18 |  |
 | [Olvídalo](https://open.spotify.com/track/4OxlguwUtqjNU0zkAueh9o) | [Alberto Vazquez](https://open.spotify.com/artist/3vYC7LFneIpmJRSgrYy6dc) | [16 Éxitos: Baladas](https://open.spotify.com/album/16koZGZZYztvCEShPLndCv) | 2:36 | 2020-03-18 |  |
 | [Popotitos \(Bonie Moroni\)](https://open.spotify.com/track/70dBmROatI6VWV7HoWayte) | [Los Teen Tops](https://open.spotify.com/artist/14GfQ6EEHnp1lTAWHgtcYy) | [La Gran Coleccion Del 60 Aniversario CBS \- Los Teen Tops](https://open.spotify.com/album/6ZjLs6NxToImf577o8RL8q) | 2:51 | 2020-03-18 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvGPolkxTYD.md) - [plain]
 
 > A selection of relaxing, spiritual, and instrumental tracks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,384 likes - 40 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,387 likes - 40 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,9 +28,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvGPolkxTYD.md) - [plain]
 | 18 | [Vague / E la nave va](https://open.spotify.com/track/6avLwPGZvr93PaxBARH5dA) | [Anouar Brahem](https://open.spotify.com/artist/1aO9NulHwrE9pxHXFfCIoM) | [Le Voyage De Sahar](https://open.spotify.com/album/2rqw1pAaWrXmsAZFM3IUXO) | 6:19 |
 | 19 | [I Love You](https://open.spotify.com/track/6MSCWPjKrG5aAcRG9oh3R7) | [Omar Faruk Tekbilek](https://open.spotify.com/artist/0PLhi5tAE8QcXnuEMui2Oe) | [One Truth](https://open.spotify.com/album/4wCfLoyvMTGVE5mkmShVkJ) | 8:12 |
 | 20 | [Roubbama](https://open.spotify.com/track/1LTQewXIUPvVXGNTekUvcT) | [Le Trio Joubran](https://open.spotify.com/artist/4TKtK5MMFFrQjhPvvu5YRI) | [Majâz](https://open.spotify.com/album/6bYVfnQq7psGFlF6qSSsTA) | 6:08 |
-| 21 | [Hams \(Whispers\)](https://open.spotify.com/track/1ghf2UiUHpdByC8upKcQ6G) | [Mohammed Naiem](https://open.spotify.com/artist/4qINgRu65OpAt7YUgZl6dE) | [Hossam Ramzy Presents: Master of the Arabian Flute](https://open.spotify.com/album/1BeKirbevENdLNLHUy4Swf) | 5:17 |
+| 21 | [Farah](https://open.spotify.com/track/0wq45hP23wftYYNG6OvIjZ) | [Basel Zayed](https://open.spotify.com/artist/7t4g2P8W9I8SFczpM05L9H) | [Ayn Trio](https://open.spotify.com/album/0PtCwe55hHVT7352NP9emZ) | 3:15 |
 | 22 | [The Land of the Sun](https://open.spotify.com/track/69hUAO39hrnOvD9vWYwteW) | [Sami Yusuf](https://open.spotify.com/artist/7GnedB795OhbMbojdC3bzj) | [The Land of the Sun](https://open.spotify.com/album/08QpXpM3nNYdIBOwfzKNre) | 3:58 |
-| 23 | [Farah](https://open.spotify.com/track/0wq45hP23wftYYNG6OvIjZ) | [Basel Zayed](https://open.spotify.com/artist/7t4g2P8W9I8SFczpM05L9H) | [Ayn Trio](https://open.spotify.com/album/0PtCwe55hHVT7352NP9emZ) | 3:15 |
+| 23 | [Hams \(Whispers\)](https://open.spotify.com/track/1ghf2UiUHpdByC8upKcQ6G) | [Mohammed Naiem](https://open.spotify.com/artist/4qINgRu65OpAt7YUgZl6dE) | [Hossam Ramzy Presents: Master of the Arabian Flute](https://open.spotify.com/album/1BeKirbevENdLNLHUy4Swf) | 5:17 |
 | 24 | [FIRAT](https://open.spotify.com/track/3vjOp0AczE2nzHxMxr8Dwj) | [ismet Demirhan](https://open.spotify.com/artist/6JmJZt2L5BFINYsz9IldUV) | [ISMET DEMIRHAN](https://open.spotify.com/album/2N3iaWdPPDxXuMukwkdlOo) | 4:47 |
 | 25 | [Taqsîm Maqâm Nahâwând, pt\. 2](https://open.spotify.com/track/1BmImc5JYj20LI8ImfuMVb) | [Omar Bashir](https://open.spotify.com/artist/4IRXGwXby9WAyL7hrgLOQH) | [Taqâsîm \(Luth arabe, Arab Lute\)](https://open.spotify.com/album/3xTBWuj0y7B1XdVw4mGxMX) | 3:14 |
 | 26 | [Silent Stories \- Instrumentale](https://open.spotify.com/track/01od1LpPvjDF2EogpKznKe) | [Karim Baggili](https://open.spotify.com/artist/6cpxFdmwZjoZphfYF1p3Mu), [Le Trio Joubran](https://open.spotify.com/artist/4TKtK5MMFFrQjhPvvu5YRI) | [Kali City](https://open.spotify.com/album/1g7Di1F9H4wCaHhhftOlo9) | 4:34 |
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvGPolkxTYD.md) - [plain]
 | 39 | [Tunis At Dawn](https://open.spotify.com/track/6avsR5hraDw18KAfgCofRr) | [Anouar Brahem](https://open.spotify.com/artist/1aO9NulHwrE9pxHXFfCIoM) | [Souvenance](https://open.spotify.com/album/0MVaGeFdZy81oPZJFzSqKI) | 6:42 |
 | 40 | [Al\-Andalus Abre Sus Puertas\. Al\-Andalus Opens Its Gates](https://open.spotify.com/track/4iQvCKLlT8DlRm7hqBPS3n) | [Naseer Shamma](https://open.spotify.com/artist/57NW7ND6Cdzrj5z8ARvUEZ), [Shabbaz Hussain](https://open.spotify.com/artist/1entpGIZiFUjcFLOMzbXUL), [Ashraf Sharif Khan](https://open.spotify.com/artist/75hY1HGxwO5zlBmXzj1UQs) | [Viaje De Las Almas\. Travelling Souls](https://open.spotify.com/album/1nEZo4Uk9UfaAnt0AvqDAb) | 6:35 |
 
-Snapshot ID: `MCxiYWNjMDAyMmYxNTVkMTk5NmRkZmY3OTBkOTFhOTY3Zjk2ZWE2NjZj`
+Snapshot ID: `MCw4Y2E2NjFkMzA5NWViMDllNWYyZDUyMGNjMWVhMTc1MGJlNDZhNTcw`

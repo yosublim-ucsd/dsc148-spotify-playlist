@@ -1,12 +1,12 @@
 {
   "description": "A mix of punk rock to get you through your workout.",
-  "num_followers": 545407,
+  "num_followers": 545439,
   "original_name": "Punk Rock Workout",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1NWJiOTUyMTA1MzgzZTRkYTgxMTYwZTFmZDcyODU0ZjVjYTVhNGM2",
+  "snapshot_id": "MCw1MWM3MGMyMGE1ZGY2MDNhMjYxNDYwNmU5NWNjYTAyOTE1MDhjZGQ1",
   "tracks": [
     {
       "added_at": "2020-11-20 21:27:18",
@@ -835,22 +835,6 @@
     {
       "added_at": "2020-11-20 21:27:18",
       "album": {
-        "name": "Old Bones",
-        "url": "https://open.spotify.com/album/56SkNHaKkz6DlQygFvbEWV"
-      },
-      "artists": [
-        {
-          "name": "Broadside",
-          "url": "https://open.spotify.com/artist/7EGdqeEDe7WMqOVyDFUYyo"
-        }
-      ],
-      "duration_ms": 174146,
-      "name": "Coffee Talk",
-      "url": "https://open.spotify.com/track/7wXays9vrRN3i4wBpBYb2d"
-    },
-    {
-      "added_at": "2020-11-20 21:27:18",
-      "album": {
         "name": "The Best Of Goldfinger",
         "url": "https://open.spotify.com/album/2Fhk8LPPX8d14HwEKjmJ1O"
       },
@@ -863,6 +847,22 @@
       "duration_ms": 185600,
       "name": "Superman",
       "url": "https://open.spotify.com/track/6cL7NCFSvqWrBH5r4mkvVV"
+    },
+    {
+      "added_at": "2020-11-20 21:27:18",
+      "album": {
+        "name": "Old Bones",
+        "url": "https://open.spotify.com/album/56SkNHaKkz6DlQygFvbEWV"
+      },
+      "artists": [
+        {
+          "name": "Broadside",
+          "url": "https://open.spotify.com/artist/7EGdqeEDe7WMqOVyDFUYyo"
+        }
+      ],
+      "duration_ms": 174146,
+      "name": "Coffee Talk",
+      "url": "https://open.spotify.com/track/7wXays9vrRN3i4wBpBYb2d"
     },
     {
       "added_at": "2020-11-20 21:27:18",
@@ -915,6 +915,22 @@
     {
       "added_at": "2020-11-20 21:27:18",
       "album": {
+        "name": "Father of All...",
+        "url": "https://open.spotify.com/album/7ij8wQxCAexZiXZbMOHcxE"
+      },
+      "artists": [
+        {
+          "name": "Green Day",
+          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
+        }
+      ],
+      "duration_ms": 151362,
+      "name": "Father of All...",
+      "url": "https://open.spotify.com/track/17C1AVZVh5jhJU4eAcovpl"
+    },
+    {
+      "added_at": "2020-11-20 21:27:18",
+      "album": {
         "name": "Transplants",
         "url": "https://open.spotify.com/album/0lf0Mw6dwcAWxIIVXEv0fQ"
       },
@@ -943,22 +959,6 @@
       "duration_ms": 231400,
       "name": "High Hopes",
       "url": "https://open.spotify.com/track/2DmNhvPUecofT7Zu7DJxS1"
-    },
-    {
-      "added_at": "2020-11-20 21:27:18",
-      "album": {
-        "name": "Father of All...",
-        "url": "https://open.spotify.com/album/7ij8wQxCAexZiXZbMOHcxE"
-      },
-      "artists": [
-        {
-          "name": "Green Day",
-          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
-        }
-      ],
-      "duration_ms": 151362,
-      "name": "Father of All...",
-      "url": "https://open.spotify.com/track/17C1AVZVh5jhJU4eAcovpl"
     },
     {
       "added_at": "2020-11-20 21:27:18",
@@ -1311,22 +1311,6 @@
     {
       "added_at": "2020-11-20 21:27:18",
       "album": {
-        "name": "Wake Up, Sunshine",
-        "url": "https://open.spotify.com/album/1kwAv74rVTTGMpawGsXtiE"
-      },
-      "artists": [
-        {
-          "name": "All Time Low",
-          "url": "https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo"
-        }
-      ],
-      "duration_ms": 180599,
-      "name": "Sleeping In",
-      "url": "https://open.spotify.com/track/402Ecma69MRxeQK6ml6YbI"
-    },
-    {
-      "added_at": "2020-11-20 21:27:18",
-      "album": {
         "name": "Great Heights & Nosedives",
         "url": "https://open.spotify.com/album/37i1BfSo4FQMHtR7zzQpBx"
       },
@@ -1343,18 +1327,18 @@
     {
       "added_at": "2020-11-20 21:27:18",
       "album": {
-        "name": "Pink Elephant",
-        "url": "https://open.spotify.com/album/7mSFPsjZjTx8K1UmtDSQPu"
+        "name": "Wake Up, Sunshine",
+        "url": "https://open.spotify.com/album/1kwAv74rVTTGMpawGsXtiE"
       },
       "artists": [
         {
-          "name": "Stand Atlantic",
-          "url": "https://open.spotify.com/artist/1W2Fv4YUnjC8hx2qQd6fGh"
+          "name": "All Time Low",
+          "url": "https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo"
         }
       ],
-      "duration_ms": 233453,
-      "name": "Hate Me (Sometimes)",
-      "url": "https://open.spotify.com/track/69Y6dB1U7AZ0FfDdzol6ir"
+      "duration_ms": 180599,
+      "name": "Sleeping In",
+      "url": "https://open.spotify.com/track/402Ecma69MRxeQK6ml6YbI"
     },
     {
       "added_at": "2020-11-20 21:27:18",
@@ -1371,6 +1355,22 @@
       "duration_ms": 210160,
       "name": "Kids",
       "url": "https://open.spotify.com/track/7IpHgRSdnWqAID7CVZGXWo"
+    },
+    {
+      "added_at": "2020-11-20 21:27:18",
+      "album": {
+        "name": "Pink Elephant",
+        "url": "https://open.spotify.com/album/7mSFPsjZjTx8K1UmtDSQPu"
+      },
+      "artists": [
+        {
+          "name": "Stand Atlantic",
+          "url": "https://open.spotify.com/artist/1W2Fv4YUnjC8hx2qQd6fGh"
+        }
+      ],
+      "duration_ms": 233453,
+      "name": "Hate Me (Sometimes)",
+      "url": "https://open.spotify.com/track/69Y6dB1U7AZ0FfDdzol6ir"
     },
     {
       "added_at": "2020-11-20 21:27:18",

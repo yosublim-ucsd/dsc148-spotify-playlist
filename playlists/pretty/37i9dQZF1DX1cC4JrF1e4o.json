@@ -1,12 +1,12 @@
 {
   "description": "Timeless and smooth. Here are your favorite crooners. Cover: Nat King Cole. ",
-  "num_followers": 400126,
+  "num_followers": 400222,
   "original_name": "Crooner Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkZmNiOWZmZGYyYzgwODNiMjc2NDNmMDViYWY5NWViOWJhOGRmMmI4",
+  "snapshot_id": "MCxhODUzN2M4MDMzMzE2YjIyMjUwYWNjNTU5ODM3NGYwMDFjZDRlNjY4",
   "tracks": [
     {
       "added_at": "2023-10-24 04:44:54",
@@ -255,22 +255,6 @@
     {
       "added_at": "2023-10-24 04:44:54",
       "album": {
-        "name": "What A Wonderful World",
-        "url": "https://open.spotify.com/album/6mmv0gwumlFGWDGJXF4yEv"
-      },
-      "artists": [
-        {
-          "name": "Louis Armstrong",
-          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
-        }
-      ],
-      "duration_ms": 196840,
-      "name": "Dream A Little Dream Of Me",
-      "url": "https://open.spotify.com/track/3HuJDcOWx0gE9Yng2uWY7K"
-    },
-    {
-      "added_at": "2023-10-24 04:44:54",
-      "album": {
         "name": "The Astrud Gilberto Album",
         "url": "https://open.spotify.com/album/6haDxdERWK3rdVCGc2jr8E"
       },
@@ -287,6 +271,22 @@
       "duration_ms": 138013,
       "name": "\u00c1gua de Beber",
       "url": "https://open.spotify.com/track/3QKJELWORZZ7rUZDWeMWSA"
+    },
+    {
+      "added_at": "2023-10-24 04:44:54",
+      "album": {
+        "name": "What A Wonderful World",
+        "url": "https://open.spotify.com/album/6mmv0gwumlFGWDGJXF4yEv"
+      },
+      "artists": [
+        {
+          "name": "Louis Armstrong",
+          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
+        }
+      ],
+      "duration_ms": 196840,
+      "name": "Dream A Little Dream Of Me",
+      "url": "https://open.spotify.com/track/3HuJDcOWx0gE9Yng2uWY7K"
     },
     {
       "added_at": "2023-10-24 04:44:54",

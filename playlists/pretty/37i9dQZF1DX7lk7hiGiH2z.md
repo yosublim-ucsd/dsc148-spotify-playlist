@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7lk7hiGiH2z.md) - [plain]
 
 > Genießt die ersten Sonnenstrahlen mit der ganzen Familie.
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,573 likes - 45 songs - 2 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,616 likes - 45 songs - 2 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,13 +45,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7lk7hiGiH2z.md) - [plain]
 | 35 | [Summ, summ, summ](https://open.spotify.com/track/0DLD4cVr5pGVY5dTzfo8QE) | [Kalle Klang](https://open.spotify.com/artist/1OGb7SU2LprgqW6I11mdeM), [Die Flohtöne](https://open.spotify.com/artist/1udPbK2uKdBxyEfBpTl1mm), [Sing Kinderlieder](https://open.spotify.com/artist/0FaGQhzs7L0uIuUdjolB1n) | [Sing mit mir Kinderlieder](https://open.spotify.com/album/4gDvWioaiyrWrSmAWxLf6t) | 2:16 |
 | 36 | [Wenn es Frühling wird im Hasenland](https://open.spotify.com/track/7MPobyJg4jGMalvxGZRXRE) | [Rolf Zuckowski](https://open.spotify.com/artist/2qn4hIXsvRUyFoboMi31XB) | [Rolfs Hasengeschichte \- Die Lieder](https://open.spotify.com/album/1EtDPG0Uju2blhBqouf9vt) | 2:37 |
 | 37 | [Auf einem Baum ein Kuckuck saß](https://open.spotify.com/track/3oaIwfVQsGt51yZo8Q7xTQ) | [herrH](https://open.spotify.com/artist/2weS8n5DrZpok2Wcf9TRsQ) | [Kinderlieder \- umgedacht & neu gemacht](https://open.spotify.com/album/5LxOg4MpWy6twmQeBZ7kT8) | 2:20 |
-| 38 | [Blüht ein Blümlein](https://open.spotify.com/track/317zFUecVbUcEmca5IK4UW) | [KIDDINX Music](https://open.spotify.com/artist/6aX0QJPsfFMXZqCATPIiV8) | [Frühlingslieder \(Omas schönste\)](https://open.spotify.com/album/3jGID7paFetUeX5I47sNpz) | 1:35 |
-| 39 | [Frühling, ich hab dich entdeckt!](https://open.spotify.com/track/6DvPoVxRyzigWeLjtxnhsW) | [Reinhard Horn](https://open.spotify.com/artist/0yAi20HvvwcrnDFWcVldvI) | [Frühling](https://open.spotify.com/album/4pyuynXo8bCbLoJDmWmxdq) | 2:58 |
-| 40 | [Rumspringen](https://open.spotify.com/track/6vMv8uw1u2T0OvlZsvX8bZ) | [Bernd Begemann](https://open.spotify.com/artist/4OY3MNylZg1nxCpFILirnH), [Belinda](https://open.spotify.com/artist/6tfFPvA0Pw2jbDrhVoNHxY) | [Unter meinem Bett\. Best Of](https://open.spotify.com/album/0ZoJBNLDmWT30GQU1IWOiz) | 2:29 |
+| 38 | [Frühling, ich hab dich entdeckt!](https://open.spotify.com/track/6DvPoVxRyzigWeLjtxnhsW) | [Reinhard Horn](https://open.spotify.com/artist/0yAi20HvvwcrnDFWcVldvI) | [Frühling](https://open.spotify.com/album/4pyuynXo8bCbLoJDmWmxdq) | 2:58 |
+| 39 | [Rumspringen](https://open.spotify.com/track/6vMv8uw1u2T0OvlZsvX8bZ) | [Bernd Begemann](https://open.spotify.com/artist/4OY3MNylZg1nxCpFILirnH), [Belinda](https://open.spotify.com/artist/6tfFPvA0Pw2jbDrhVoNHxY) | [Unter meinem Bett\. Best Of](https://open.spotify.com/album/0ZoJBNLDmWT30GQU1IWOiz) | 2:29 |
+| 40 | [Blüht ein Blümlein](https://open.spotify.com/track/317zFUecVbUcEmca5IK4UW) | [KIDDINX Music](https://open.spotify.com/artist/6aX0QJPsfFMXZqCATPIiV8) | [Frühlingslieder \(Omas schönste\)](https://open.spotify.com/album/3jGID7paFetUeX5I47sNpz) | 1:35 |
 | 41 | [Bunte Blumen auf der Wiese](https://open.spotify.com/track/2cKgAEfsp3zVyhiLHwQ0p6) | [Detlev Jöcker](https://open.spotify.com/artist/4UiTe5uwHKDUddmV8yQeY4) | [Frühlingsspaß und Osterhas](https://open.spotify.com/album/5PTzP0cm11j8aze10r6TdQ) | 2:26 |
 | 42 | [Das Schneeglöckchen](https://open.spotify.com/track/6LfAr70Pm7LzeQhZXCWKFu) | [Katharina Blume](https://open.spotify.com/artist/0TlcU6fYXkRWNSENlFSl4Y), [Christian König](https://open.spotify.com/artist/6Dgp0ZVwXyJx6M0Na3jTLK) | [Die 40 besten Fingerspiel\-Lieder](https://open.spotify.com/album/2VchLiBoh6mOEH6CnEt4Dq) | 1:06 |
 | 43 | [Kuckuck, kuckuck ruft's aus dem Wald](https://open.spotify.com/track/7LRcMwbgLyt3YBguwZcKNw) | [Kalle Klang](https://open.spotify.com/artist/1OGb7SU2LprgqW6I11mdeM), [Die Flohtöne](https://open.spotify.com/artist/1udPbK2uKdBxyEfBpTl1mm), [Sing Kinderlieder](https://open.spotify.com/artist/0FaGQhzs7L0uIuUdjolB1n) | [Sing mit mir Kinderlieder 3](https://open.spotify.com/album/2Z1IZ5uLBTXFTrW4E38fsU) | 2:26 |
 | 44 | [Drachenwind](https://open.spotify.com/track/67vOXepMNB0ZDQlnANzsr5) | [Berend Intelmann](https://open.spotify.com/artist/7bHnUZwNT0xHUAUpNUNJ1v) | [Unter meinem Bett 7](https://open.spotify.com/album/5Q8R9IdUfGHGD36XvqkMIy) | 3:40 |
 | 45 | [Dann ist der Frühling da! \(Fröhliches Kinderlied zum Frühling\)](https://open.spotify.com/track/4aaYT4tqQK0FvuvVd1Cky6) | [Sternschnuppe](https://open.spotify.com/artist/08M6tIv9n50XyVLtABiZG5) | [Frühlingslieder: Schöne Kinderlieder zum Frühling](https://open.spotify.com/album/0Hz27wHnXEiywIidy4YQz5) | 5:36 |
 
-Snapshot ID: `MCw3OTRjN2M3OTBmODBhNTM0YmEwN2RiZTZkYTFkZDhiNjk2ZjA0ZTU2`
+Snapshot ID: `MCxmZDllYmQ2ZmVmZjIyYjVkMGI5YzJlMDFjNTE5MWQzZmQwMDkyYjI0`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVKE4YNKbqtI.md) - [plain]
 
 > Little Walter, Junior Wells, James Cotton the finest blues harmonica players.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,773 likes - 50 songs - 3 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,776 likes - 50 songs - 3 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,8 +21,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVKE4YNKbqtI.md) - [plain]
 | 11 | [Got The Bottle Up And Gone](https://open.spotify.com/track/1a8JNXclpuzv9Rx8KxBbIO) | [Sonny Boy Williamson I](https://open.spotify.com/artist/1qxTNsrSi4fNXVO0sbMsl4) | [Sonny Boy Williamson Vol\. 1 \(1937 \- 1938\)](https://open.spotify.com/album/7FJtjm0Fhd7q8n4JkA290L) | 2:33 |
 | 12 | [I Wish You Would](https://open.spotify.com/track/6YSJ7rgjRiO3glbDJrBZR3) | [Billy Boy Arnold](https://open.spotify.com/artist/16vIA3JDwbJiQugWKimd2o) | [Back Where I Belong](https://open.spotify.com/album/59auu3dHE34dRuCajZ2Kd2) | 3:39 |
 | 13 | [Baby Scratch My Back \- Single Version](https://open.spotify.com/track/4BbLz6pVP5oXl2plR7HLMZ) | [Slim Harpo](https://open.spotify.com/artist/36hwOoNPgnsKnhoMBYpJrJ) | [The Excello Singles Anthology](https://open.spotify.com/album/38mE82CkxuGVkZ2yN1sGGi) | 2:53 |
-| 14 | [Work With Me Annie](https://open.spotify.com/track/75ZXx6ysguj5afBRtZ8tGR) | [Snooky Pryor](https://open.spotify.com/artist/2mGsLcgVJSfpUTgrMuPxt3) | [Shake My Hand](https://open.spotify.com/album/0FqH7CwavZR5SGVq76HCPm) | 4:18 |
-| 15 | [Hoodoo Man Blues](https://open.spotify.com/track/7dVUGBGYrYBJakUw1JKhrq) | [Junior Wells](https://open.spotify.com/artist/78CBFzwo7wwNaaTYVP5btK), [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0) | [Hoodoo Man Blues](https://open.spotify.com/album/6whq5Ok1wCTlrXRNyzDSJ4) | 2:06 |
+| 14 | [Hoodoo Man Blues](https://open.spotify.com/track/7dVUGBGYrYBJakUw1JKhrq) | [Junior Wells](https://open.spotify.com/artist/78CBFzwo7wwNaaTYVP5btK), [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0) | [Hoodoo Man Blues](https://open.spotify.com/album/6whq5Ok1wCTlrXRNyzDSJ4) | 2:06 |
+| 15 | [Work With Me Annie](https://open.spotify.com/track/75ZXx6ysguj5afBRtZ8tGR) | [Snooky Pryor](https://open.spotify.com/artist/2mGsLcgVJSfpUTgrMuPxt3) | [Shake My Hand](https://open.spotify.com/album/0FqH7CwavZR5SGVq76HCPm) | 4:18 |
 | 16 | [Have A Good Time](https://open.spotify.com/track/0xfzxjWLAsAZB0KC1juVUZ) | [Big Walter Horton](https://open.spotify.com/artist/7ApWhtmpJkPyd5WjwDdDfX) | [Big Walter Horton w/ Carey Bell](https://open.spotify.com/album/0u6qeEym4B0JLaVZrw4Ih5) | 3:48 |
 | 17 | [Down Home Blues](https://open.spotify.com/track/3OHj5SY6j7Ftmfa7qZJWoa) | [James Cotton](https://open.spotify.com/artist/6mY93oNfUaUwZq67yn3R8k), [Billy Branch](https://open.spotify.com/artist/5cUazMvxcAPELFif0BGn2t), [Carey Bell](https://open.spotify.com/artist/7wcrtrCODZkNbpq1ZYABxs), [Junior Wells](https://open.spotify.com/artist/78CBFzwo7wwNaaTYVP5btK) | [Harp Attack!](https://open.spotify.com/album/1zivuph8N0dHpL4k0SA94b) | 6:23 |
 | 18 | [Diggin' My Potatoes](https://open.spotify.com/track/7vsJLJHAYHRmovTbRTgRFx) | [Brownie McGhee](https://open.spotify.com/artist/3qXzj7WzBV3kwy1yEV1RcC), [Sonny Terry](https://open.spotify.com/artist/66hQFpsfaFzK8UbsQofCGv) | [Wizard Of The Harmonica](https://open.spotify.com/album/5lDFjfrldTB4HSFWkDYUBw) | 3:37 |
@@ -45,9 +45,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVKE4YNKbqtI.md) - [plain]
 | 35 | [Going Back To Alabama](https://open.spotify.com/track/2qV360qyQrQllFZFzZunXr) | [The Siegel\-Schwall Band](https://open.spotify.com/artist/09y7wEuZOxZyYi8suU6NEo) | [Flash Forward](https://open.spotify.com/album/0cOiCxvkM6EEF9gRKrX2Fv) | 3:39 |
 | 36 | [Need To Make A Dollar](https://open.spotify.com/track/6BIpLmms6hIdSFI3GNTw8J) | [Keith Dunn](https://open.spotify.com/artist/122e3natoyt3KVWHoSxBKL) | [Alone With The Blues](https://open.spotify.com/album/3BhmnjO4QezeG8TVE6dRfJ) | 2:51 |
 | 37 | [Can't Believe It's This Good](https://open.spotify.com/track/32HudsU4xtWFuNWnmb6XPe) | [JJ Appleton](https://open.spotify.com/artist/5c2q4cX88ZOW2uVL47EKwE), [Jason Ricci](https://open.spotify.com/artist/7EV8gsN4cvguOI67kcnYAN) | [Dirty Memory](https://open.spotify.com/album/2UXZqPLmcmB6aa9T8AJFxn) | 3:37 |
-| 38 | [Key To The Highway](https://open.spotify.com/track/4wGcFx9voRJ51U989ty9wp) | [Jazz Gillum](https://open.spotify.com/artist/6GFrr6eHPyDtqguamN8vLg) | [Jazz Gillum Vol\. 2 1938\-1941](https://open.spotify.com/album/6wY2gJuBm2BMJHpD1svDN6) | 2:43 |
+| 38 | [Levee Camp Reminiscence](https://open.spotify.com/track/07N7EOcGNJcNGslVTf65pT) | [Forest City Joe](https://open.spotify.com/artist/4lrsWNPzvfhQioDHFarekQ) | [Sounds Of The South](https://open.spotify.com/album/2MQMLFDBfgm3CNM24sK0TT) | 5:16 |
 | 39 | [Callin' All Fools](https://open.spotify.com/track/43J5N4yyxOSCrTZ9PD7dpF) | [Rick Estrin & The Nightcats](https://open.spotify.com/artist/0uo6ltSYsMbp4go8nPQ80U) | [One Wrong Turn](https://open.spotify.com/album/4cJ6p2UKcmZwOSHppR4CXl) | 5:13 |
-| 40 | [Levee Camp Reminiscence](https://open.spotify.com/track/07N7EOcGNJcNGslVTf65pT) | [Forest City Joe](https://open.spotify.com/artist/4lrsWNPzvfhQioDHFarekQ) | [Sounds Of The South](https://open.spotify.com/album/2MQMLFDBfgm3CNM24sK0TT) | 5:16 |
+| 40 | [Key To The Highway](https://open.spotify.com/track/4wGcFx9voRJ51U989ty9wp) | [Jazz Gillum](https://open.spotify.com/artist/6GFrr6eHPyDtqguamN8vLg) | [Jazz Gillum Vol\. 2 1938\-1941](https://open.spotify.com/album/6wY2gJuBm2BMJHpD1svDN6) | 2:43 |
 | 41 | [Bad Boys Heaven](https://open.spotify.com/track/4xfJSNaQN5eRUL78mor3nj) | [Sugar Blue](https://open.spotify.com/artist/3HojqGF4FshKki7Ku6gPqE) | [Code Blue](https://open.spotify.com/album/6MEW2dr1ze84kOgFtPi4uD) | 9:08 |
 | 42 | [Dog Days of August](https://open.spotify.com/track/5gOxdOaXlIVrM0mlOEJ3hZ) | [Cephas & Wiggins](https://open.spotify.com/artist/40MbAfRt1y7QdeGSkSp4pF), [John Cephas](https://open.spotify.com/artist/39gMpw4vsyl8CLCW6OZx97), [Phil Wiggins](https://open.spotify.com/artist/454ZmfE5h5JeoCksBvEymQ) | [Richmond Blues](https://open.spotify.com/album/3diP0MKxncGd7wi8ZMASFZ) | 4:11 |
 | 43 | [Honky Tonk Parts 1 & 2](https://open.spotify.com/track/4PDT7WnrEhcUB83qyY6JG0) | [Jerry "Boogie" McCain](https://open.spotify.com/artist/1sR4V8FLHoKLtkA68DP7do) | [Abolutely the Best: The Complete Jewel Singles 1965\-1972](https://open.spotify.com/album/4Vp7gTydgX0GiYyYOeJ3mJ) | 3:50 |
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVKE4YNKbqtI.md) - [plain]
 | 46 | [Who's the Fool](https://open.spotify.com/track/6zIZH6unxpNPpOMLFEciiZ) | [Harmonica Shah](https://open.spotify.com/artist/7GtbrsY4LuBDQQO518vwtR) | [Live at the Cove](https://open.spotify.com/album/4ZrX2ckehiYbVGOSBNqbpF) | 5:37 |
 | 47 | [Harpoventilatin'](https://open.spotify.com/track/0hMR8CTSJLrRjOgoE7apDR) | [Mark Hummel](https://open.spotify.com/artist/6tThEAJKUsHlj0ALfRObEP) | [Harpbreaker](https://open.spotify.com/album/0HGQj36FzCKitSWq3jy2lX) | 3:44 |
 | 48 | [You Got It](https://open.spotify.com/track/2RnKaMIWn5HQgkg0wghuir) | [Dennis Gruenling](https://open.spotify.com/artist/56M0TPfeix1WjBuylxkVeG) | [Up All Night](https://open.spotify.com/album/3agi8buLixKwrmVNiKPHGN) | 3:14 |
-| 49 | [Bluesy](https://open.spotify.com/track/078lhMIegYPNI58tyFn6o8) | [Louis Myers](https://open.spotify.com/artist/2MHJe9H2p09aSHJm7yrwNh) | [Blues Harp Hero](https://open.spotify.com/album/5lkj3Xw9Xw5VUY38BvTmXL) | 2:44 |
-| 50 | [The Hucklebuck](https://open.spotify.com/track/3HaAIm8CuHSdxxdbv14JkG) | [Marcos Coll](https://open.spotify.com/artist/5mKLyd8tTJxeMvsNXhiHrV), [Keith Dunn](https://open.spotify.com/artist/122e3natoyt3KVWHoSxBKL) | [Under the Wings](https://open.spotify.com/album/3TpFzGrkx7auCFdstsj2fL) | 4:10 |
+| 49 | [The Hucklebuck](https://open.spotify.com/track/3HaAIm8CuHSdxxdbv14JkG) | [Marcos Coll](https://open.spotify.com/artist/5mKLyd8tTJxeMvsNXhiHrV), [Keith Dunn](https://open.spotify.com/artist/122e3natoyt3KVWHoSxBKL) | [Under the Wings](https://open.spotify.com/album/3TpFzGrkx7auCFdstsj2fL) | 4:10 |
+| 50 | [Bluesy](https://open.spotify.com/track/078lhMIegYPNI58tyFn6o8) | [Louis Myers](https://open.spotify.com/artist/2MHJe9H2p09aSHJm7yrwNh) | [Blues Harp Hero](https://open.spotify.com/album/5lkj3Xw9Xw5VUY38BvTmXL) | 2:44 |
 
-Snapshot ID: `MCw1NzVjMGY2YmZiNmVjMWFjZjNjYjg2MzU3OTMzY2ZjMTU3NmNhNDFm`
+Snapshot ID: `MCxlMWJkZWZmMDBhNmNlNTE0NGJmNDE5MjM5NjdiY2NkMDg0NGUzMWRh`

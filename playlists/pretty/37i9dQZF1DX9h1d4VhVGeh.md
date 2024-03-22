@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9h1d4VhVGeh.md) - [plain]
 
 > Sabah al khair, start your day with extra cardamom and mellow tunes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 180,676 likes - 100 songs - 6 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 180,734 likes - 100 songs - 6 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,13 +35,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9h1d4VhVGeh.md) - [plain]
 | 25 | [Ma Baaref](https://open.spotify.com/track/3o33CncxOfTLMYcGAIND9t) | [Yara](https://open.spotify.com/artist/46FJPTBdnCK0GMd76nil6e) | [Ya Ayech Bi Oyouni](https://open.spotify.com/album/58bJrHDzBpbByyqV3WMqCH) | 4:02 |
 | 26 | [Matrahak Bi Albi](https://open.spotify.com/track/0f6iJjj6MqYZcFoftpjuwp) | [Majida El Roumi](https://open.spotify.com/artist/1FcYCSOydUCgoauspPwypS) | [Khedni Habibi](https://open.spotify.com/album/4eaHnQq1UQy7lPXBQMhv4p) | 5:03 |
 | 27 | [Saaltak Habiby](https://open.spotify.com/track/2tTifBkEXqJ039o3jKcej7) | [Fairuz](https://open.spotify.com/artist/0dwFxqYkvZLSA6U6XfQcDV) | [Fairouz World, Pt\. 1](https://open.spotify.com/album/6Lk9iL4RNQq11Uogjh9SW1) | 5:26 |
-| 28 | [Yawman Ma](https://open.spotify.com/track/3gucBOpDuQQkemmVE2NtEQ) | [Julia Boutros](https://open.spotify.com/artist/1MBqKgaBet9mU8vI0hqj6c) | [Yawman Ma](https://open.spotify.com/album/7gRVnSkXghsBft2P4K8Ycy) | 3:22 |
+| 28 | [Hashrab Hashish](https://open.spotify.com/track/6Ah2JMiRc7MTr4SwRVNMh9) | [Luka Salam](https://open.spotify.com/artist/6czL7Hx1NgpdU6m27i3IuK) | [Hashrab Hashish](https://open.spotify.com/album/2Nc4YEEwac5P2s3vjcsrEX) | 3:04 |
 | 29 | [Olive Branch \(Ghosn Zeytoun\)](https://open.spotify.com/track/0Qs69EhCYkND29GsGEp9uD) | [Elyanna](https://open.spotify.com/artist/0jIWKlfmD4Ew7HeVVrq03g) | [Olive Branch \(Ghosn Zeytoun\)](https://open.spotify.com/album/0zXbKq9D8hTBJxl10Pya8y) | 1:25 |
-| 30 | [Hashrab Hashish](https://open.spotify.com/track/6Ah2JMiRc7MTr4SwRVNMh9) | [Luka Salam](https://open.spotify.com/artist/6czL7Hx1NgpdU6m27i3IuK) | [Hashrab Hashish](https://open.spotify.com/album/2Nc4YEEwac5P2s3vjcsrEX) | 3:04 |
+| 30 | [Yawman Ma](https://open.spotify.com/track/3gucBOpDuQQkemmVE2NtEQ) | [Julia Boutros](https://open.spotify.com/artist/1MBqKgaBet9mU8vI0hqj6c) | [Yawman Ma](https://open.spotify.com/album/7gRVnSkXghsBft2P4K8Ycy) | 3:22 |
 | 31 | [يوم جديد](https://open.spotify.com/track/6sTUXelD4CIOSpyxDBD37D) | [Amir Eid](https://open.spotify.com/artist/1dYkjdBHkbyolcShgkh2Vp) | [لما بنتولد](https://open.spotify.com/album/5xWWNgZyd88PlUVRBReVaf) | 0:49 |
 | 32 | [Ya Rayah](https://open.spotify.com/track/57vLKSsU2gUirCUpUttlX2) | [Rachid Taha](https://open.spotify.com/artist/2URqJkDiySO0FRiAUq75FV) | [Carte Blanche](https://open.spotify.com/album/7focbr8gdZ0kgWDueX6rrF) | 6:14 |
-| 33 | [Fakra](https://open.spotify.com/track/0fVLZtZn8gp3KLtDhXDIRq) | [Massar Egbari](https://open.spotify.com/artist/1RJ4fUIqNW9jyKFMtRZOD4) | [El Album](https://open.spotify.com/album/6T1mRxav5p4HHQ3KdKxkrd) | 3:51 |
-| 34 | [Ahwak Hiba](https://open.spotify.com/track/4dMQ70p4sCovJ4qrpyOvmN) | [هيبة](https://open.spotify.com/artist/4ntBp9iTyEwM06tIVPn3NB), [Zeid Hamdan](https://open.spotify.com/artist/70z9FptZNtsoQ8OeB3p9ks) | [صح النوم](https://open.spotify.com/album/5GLEKnaRshEuOfenkwAC0j) | 3:19 |
+| 33 | [Ahwak Hiba](https://open.spotify.com/track/4dMQ70p4sCovJ4qrpyOvmN) | [هيبة](https://open.spotify.com/artist/4ntBp9iTyEwM06tIVPn3NB), [Zeid Hamdan](https://open.spotify.com/artist/70z9FptZNtsoQ8OeB3p9ks) | [صح النوم](https://open.spotify.com/album/5GLEKnaRshEuOfenkwAC0j) | 3:19 |
+| 34 | [Fakra](https://open.spotify.com/track/0fVLZtZn8gp3KLtDhXDIRq) | [Massar Egbari](https://open.spotify.com/artist/1RJ4fUIqNW9jyKFMtRZOD4) | [El Album](https://open.spotify.com/album/6T1mRxav5p4HHQ3KdKxkrd) | 3:51 |
 | 35 | [Bala Wala Chi](https://open.spotify.com/track/0fylgLeNObjVvwhd8caHqX) | [Ziad Rahbani](https://open.spotify.com/artist/56F07EgoDt7uxzQUb6HZnT) | [Houdou Nisbi](https://open.spotify.com/album/1b3FbrjvbVbZMa73KLywXz) | 3:27 |
 | 36 | [رجعنا التقينا](https://open.spotify.com/track/3bWGmpvHjK9GHt9JYXGWH8) | [Bisher بشر](https://open.spotify.com/artist/5aJWiAyj50doGPVR79VDzK) | [رجعنا التقينا](https://open.spotify.com/album/5FoaHEDPP43MWTLXBWCfEl) | 4:01 |
 | 37 | [Mabidichay](https://open.spotify.com/track/3lkJjAbdLWozIuox8sRoom) | [Lina Guessoussi](https://open.spotify.com/artist/6DFDylakhVHkuYqNhg1aBd) | [Mabidichay](https://open.spotify.com/album/1U9xlybG0rp68MxjwZTK2w) | 2:52 |
@@ -52,8 +52,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9h1d4VhVGeh.md) - [plain]
 | 42 | [Al Bint El Chalabeya](https://open.spotify.com/track/2OxygAH92guaY9kliJboul) | [Dorsaf Hamdani](https://open.spotify.com/artist/4U5Hsr79OtYv01I4hOqruF) | [Dorsaf Hamdani chante Barbara & Fairouz](https://open.spotify.com/album/1GDQ89kQyz1755fry29kVm) | 3:06 |
 | 43 | [Habbaitak Tanseet El Noum](https://open.spotify.com/track/6ch2OJ4qWx6ub61bGKCkVo) | [Fairuz](https://open.spotify.com/artist/0dwFxqYkvZLSA6U6XfQcDV) | [Fairouz World, Pt\. 2](https://open.spotify.com/album/6GG5rceIHC6rN9fIDDO62Y) | 5:37 |
 | 44 | [Bala Wala Shi](https://open.spotify.com/track/7b89zrIr9DsWQVVKeqU3v9) | [zeyne](https://open.spotify.com/artist/4yuZxu7joQOFtplpMAsxlf) | [Bala Wala Shi](https://open.spotify.com/album/0Y9Z6GwBnBoY4C3KvU9Ayx) | 2:46 |
-| 45 | [Maa Al Salama](https://open.spotify.com/track/5m9ZLWzMOP21zDd03drqtY) | [Fadel Chaker](https://open.spotify.com/artist/1LljnS3oumQ36wdBhkPKrs) | [Maa Al Salama](https://open.spotify.com/album/591szzl5bQ3EuKa5o1HULT) | 3:33 |
-| 46 | [La7za](https://open.spotify.com/track/4VVpPqUEwJLJgAblQVBFWG) | [Ghaliaa](https://open.spotify.com/artist/3FVonQ6pTMMbqYb0Rf7WE8) | [La7za](https://open.spotify.com/album/0bTeTZPnvaUfdhAXj8RTyU) | 3:26 |
+| 45 | [La7za](https://open.spotify.com/track/4VVpPqUEwJLJgAblQVBFWG) | [Ghaliaa](https://open.spotify.com/artist/3FVonQ6pTMMbqYb0Rf7WE8) | [La7za](https://open.spotify.com/album/0bTeTZPnvaUfdhAXj8RTyU) | 3:26 |
+| 46 | [Maa Al Salama](https://open.spotify.com/track/5m9ZLWzMOP21zDd03drqtY) | [Fadel Chaker](https://open.spotify.com/artist/1LljnS3oumQ36wdBhkPKrs) | [Maa Al Salama](https://open.spotify.com/album/591szzl5bQ3EuKa5o1HULT) | 3:33 |
 | 47 | [Ya Ashikat El Ward](https://open.spotify.com/track/1jskDzkrTIs07bsr0NTkL3) | [Zaki Nassif](https://open.spotify.com/artist/1ck2Isye239BEWAEocqmTT) | [Ya Ashikat El Ward](https://open.spotify.com/album/5A4ErdG0ZBynX0f6h7Vb1w) | 4:34 |
 | 48 | [Kaddabeen](https://open.spotify.com/track/6RoiEYuRGOr7ZdjzaJtMta) | [Abu](https://open.spotify.com/artist/0oXeb3Z8lPe5ObsbBGicML) | [Kaddabeen](https://open.spotify.com/album/3K6vwmVKtmeBbnpcBL69zt) | 3:24 |
 | 49 | [Omer Aasal](https://open.spotify.com/track/3zs3QaM0KhK0mSpfALvTJx) | [Joseph Attieh](https://open.spotify.com/artist/5DPb3SKW8QZFwkRlmt7Gvo) | [Omer Aasal](https://open.spotify.com/album/4KByAcRNbV77pOgnlC9Hd6) | 3:41 |
@@ -97,8 +97,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9h1d4VhVGeh.md) - [plain]
 | 87 | [Ella Enta \- Live Session](https://open.spotify.com/track/1l85llrpN5nsLuEdKlGQFQ) | [Dana Hourani](https://open.spotify.com/artist/15hYqWGQsqwtFi7FgLE4i6) | [Ella Enta \(Live Session\)](https://open.spotify.com/album/5FT5xEJlyZtt1XIRZbxaq3) | 4:08 |
 | 88 | [Fasl](https://open.spotify.com/track/5fEBsxnwaunWfMxbA9f8L9) | [Oum](https://open.spotify.com/artist/4io8n4UJrGAd0T3uf2S72f) | [Daba](https://open.spotify.com/album/6KRkhJKJUmSYuJZghmNHd3) | 4:32 |
 | 89 | [Walhani](https://open.spotify.com/track/4y2Zuqfq71h7joKqZmBJLr) | [Apo & the Apostles](https://open.spotify.com/artist/206CRJTxnXzOKrkZmZm9aw) | [Rawquha](https://open.spotify.com/album/2M5Qyikkntj3ly2V6RLyRJ) | 4:34 |
-| 90 | [Leila](https://open.spotify.com/track/2jkrGagEAt8WrQ6NyF8Lsy) | [Clarissa Bitar](https://open.spotify.com/artist/3EHSTkb1qOtOUqFSuvZDHH), [Abby Abdel\-Khalek](https://open.spotify.com/artist/6oF5zlYqpF2tYRrJnAc1VT) | [Leila](https://open.spotify.com/album/2iw5NCNPUG8Wv0kg2ujCcc) | 2:32 |
-| 91 | [Denia Dour](https://open.spotify.com/track/6BLSn19vlhGLwoQWmPaDUc) | [Ÿuma](https://open.spotify.com/artist/1PRH2VLBHk1kMY2BFI0GQW) | [Denia Dour](https://open.spotify.com/album/7i0pjCbQ3amgxYoawJCx5o) | 5:30 |
+| 90 | [Denia Dour](https://open.spotify.com/track/6BLSn19vlhGLwoQWmPaDUc) | [Ÿuma](https://open.spotify.com/artist/1PRH2VLBHk1kMY2BFI0GQW) | [Denia Dour](https://open.spotify.com/album/7i0pjCbQ3amgxYoawJCx5o) | 5:30 |
+| 91 | [Leila](https://open.spotify.com/track/2jkrGagEAt8WrQ6NyF8Lsy) | [Clarissa Bitar](https://open.spotify.com/artist/3EHSTkb1qOtOUqFSuvZDHH), [Abby Abdel\-Khalek](https://open.spotify.com/artist/6oF5zlYqpF2tYRrJnAc1VT) | [Leila](https://open.spotify.com/album/2iw5NCNPUG8Wv0kg2ujCcc) | 2:32 |
 | 92 | [Falaytaka Tahlou](https://open.spotify.com/track/2QC2N9Y3qfyeqFqyizohk6) | [Faia Younan](https://open.spotify.com/artist/2myLHkpmmKy57Jx5CN52pi) | [Falaytaka Tahlou](https://open.spotify.com/album/4fRMjvfPoNSVNkJT0E4GFm) | 3:56 |
 | 93 | [Shou Byeb'a](https://open.spotify.com/track/5BuuNKK47ns8EkBBNT9LWn) | [Carla Chamoun](https://open.spotify.com/artist/0StdV1uuvaOhOG4xR6lynG) | [Shou Byeb'a](https://open.spotify.com/album/3oyjqPAgYJfJ3uP8vEgbfB) | 3:43 |
 | 94 | [Bala Wala Shi \(Live\)](https://open.spotify.com/track/0EP3x8Yh2JtvWmFjEOENU3) | [Nassif Zeytoun](https://open.spotify.com/artist/2ieBl5s08uHBwM8sUPvg65) | [Ossit Helem](https://open.spotify.com/album/6hplNUsuDBfX4u31Ohi0FH) | 3:52 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9h1d4VhVGeh.md) - [plain]
 | 99 | [Dessine\-moi Un Pays](https://open.spotify.com/track/1oHLJ7mrk2nDoEn7UXyBSw) | [Souad Massi](https://open.spotify.com/artist/0oXFsuB6XBuDTsXJgplR7k) | [Dessine\-moi Un Pays](https://open.spotify.com/album/2Kj4Cn5WHRQVNFhFhsv8y9) | 3:28 |
 | 100 | [Shem Wroud](https://open.spotify.com/track/7mw1BU1xKLh9BPcMfhDuAG) | [Zef](https://open.spotify.com/artist/5xLrAcC8QXJSik2rLNAR8L) | [Shem Wroud](https://open.spotify.com/album/4lTQSJLGiwsJuNI7mvyFG6) | 3:16 |
 
-Snapshot ID: `MCw0YTYxODliZDNiYzRiNjRjZTc0YjVhNmU4ZGM3ZjU4Y2RjY2ExYWUx`
+Snapshot ID: `MCxlZTQyNTZiYTY3MGQ1MTFhNGMxYzgwN2Y4NzI5ZGM3MzczYTI5M2I5`

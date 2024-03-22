@@ -1,12 +1,12 @@
 {
   "description": "Soothing ASMR whispers to help you drift off to sleep. Slow, soft and calming.",
-  "num_followers": 33875,
+  "num_followers": 33888,
   "original_name": "ASMR Sleep Whispers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlM2QzOTM3NDc0YWYzYWFjMTczNGEzOGMyYzM5YTEzMjg1MWU3NGNh",
+  "snapshot_id": "MCxlZGVkYjhiMjcyMGY2ZDZjNzgwNjhmOGNkYzM4YjM0ZjkyMTgwODJi",
   "tracks": [
     {
       "added_at": "2023-09-08 12:24:34",
@@ -155,22 +155,6 @@
     {
       "added_at": "2023-09-08 12:24:34",
       "album": {
-        "name": "ASMR Whispers (Binaural)",
-        "url": "https://open.spotify.com/album/7CG9mOaqHldDcfdZak3Od6"
-      },
-      "artists": [
-        {
-          "name": "Mr. Jones ASMR",
-          "url": "https://open.spotify.com/artist/6SZTvX4HLAuDywehkdtmrb"
-        }
-      ],
-      "duration_ms": 182682,
-      "name": "Unintelligble Sleep Whisper Dee Kaa",
-      "url": "https://open.spotify.com/track/7rAyhoQ18VOFt9DLgzM0n2"
-    },
-    {
-      "added_at": "2023-09-08 12:24:34",
-      "album": {
         "name": "Karuna's Sleep Clinic",
         "url": "https://open.spotify.com/album/1FOLplr5wVJ6FBnFfdTM2W"
       },
@@ -183,6 +167,22 @@
       "duration_ms": 232571,
       "name": "Sleep Clinic Part 2",
       "url": "https://open.spotify.com/track/7fa12AeziG3ON4z80k5eFo"
+    },
+    {
+      "added_at": "2023-09-08 12:24:34",
+      "album": {
+        "name": "ASMR Whispers (Binaural)",
+        "url": "https://open.spotify.com/album/7CG9mOaqHldDcfdZak3Od6"
+      },
+      "artists": [
+        {
+          "name": "Mr. Jones ASMR",
+          "url": "https://open.spotify.com/artist/6SZTvX4HLAuDywehkdtmrb"
+        }
+      ],
+      "duration_ms": 182682,
+      "name": "Unintelligble Sleep Whisper Dee Kaa",
+      "url": "https://open.spotify.com/track/7rAyhoQ18VOFt9DLgzM0n2"
     },
     {
       "added_at": "2023-09-08 12:24:34",
@@ -411,22 +411,6 @@
     {
       "added_at": "2023-09-08 12:24:34",
       "album": {
-        "name": "Uplifting Mantras",
-        "url": "https://open.spotify.com/album/0HsXJ5W6Aw8VHKD9PdsU1g"
-      },
-      "artists": [
-        {
-          "name": "Asmr Brain Tingle",
-          "url": "https://open.spotify.com/artist/4CpBOpDeQHIX60fHEx483m"
-        }
-      ],
-      "duration_ms": 293571,
-      "name": "Uplifting Mantra Pt One",
-      "url": "https://open.spotify.com/track/7KyX01fc7U3dFZhOj9pe3l"
-    },
-    {
-      "added_at": "2023-09-08 12:24:34",
-      "album": {
         "name": "Step-Sis Takes Care Of You",
         "url": "https://open.spotify.com/album/3tjYY9HmKxoKV0dmAaM6VZ"
       },
@@ -439,6 +423,22 @@
       "duration_ms": 420750,
       "name": "Relax and Close Your Eyes",
       "url": "https://open.spotify.com/track/3CmSxwPQVQ9sYR4SLgJR94"
+    },
+    {
+      "added_at": "2023-09-08 12:24:34",
+      "album": {
+        "name": "Uplifting Mantras",
+        "url": "https://open.spotify.com/album/0HsXJ5W6Aw8VHKD9PdsU1g"
+      },
+      "artists": [
+        {
+          "name": "Asmr Brain Tingle",
+          "url": "https://open.spotify.com/artist/4CpBOpDeQHIX60fHEx483m"
+        }
+      ],
+      "duration_ms": 293571,
+      "name": "Uplifting Mantra Pt One",
+      "url": "https://open.spotify.com/track/7KyX01fc7U3dFZhOj9pe3l"
     },
     {
       "added_at": "2023-09-08 12:24:34",
@@ -603,8 +603,8 @@
     {
       "added_at": "2023-09-08 12:24:34",
       "album": {
-        "name": "Checking Up On You (Scratch, Tapping, Ramble)",
-        "url": "https://open.spotify.com/album/1Do1eNmYnpBrXSbjXCI57Z"
+        "name": "Shh it's Ok, Relax and Ramble (Personal Attention/Affirmation)",
+        "url": "https://open.spotify.com/album/2IcaGhcQOeJi10AjiuJGJy"
       },
       "artists": [
         {
@@ -612,9 +612,9 @@
           "url": "https://open.spotify.com/artist/0XQbeslDTzykLqIp5PzQiS"
         }
       ],
-      "duration_ms": 321000,
-      "name": "Do You Have Plans?",
-      "url": "https://open.spotify.com/track/1qlGwXQZKiyXOw67dElhoP"
+      "duration_ms": 642000,
+      "name": "Audio on Spotify, Surfshark",
+      "url": "https://open.spotify.com/track/2bPdgFLnWeynj5RQKdj4Gd"
     },
     {
       "added_at": "2023-09-08 12:24:34",
@@ -731,8 +731,8 @@
     {
       "added_at": "2023-09-08 12:24:34",
       "album": {
-        "name": "Shh it's Ok, Relax and Ramble (Personal Attention/Affirmation)",
-        "url": "https://open.spotify.com/album/2IcaGhcQOeJi10AjiuJGJy"
+        "name": "Checking Up On You (Scratch, Tapping, Ramble)",
+        "url": "https://open.spotify.com/album/1Do1eNmYnpBrXSbjXCI57Z"
       },
       "artists": [
         {
@@ -740,9 +740,9 @@
           "url": "https://open.spotify.com/artist/0XQbeslDTzykLqIp5PzQiS"
         }
       ],
-      "duration_ms": 642000,
-      "name": "Audio on Spotify, Surfshark",
-      "url": "https://open.spotify.com/track/2bPdgFLnWeynj5RQKdj4Gd"
+      "duration_ms": 321000,
+      "name": "Do You Have Plans?",
+      "url": "https://open.spotify.com/track/1qlGwXQZKiyXOw67dElhoP"
     },
     {
       "added_at": "2023-09-08 12:24:34",

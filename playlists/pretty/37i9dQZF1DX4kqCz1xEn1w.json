@@ -1,12 +1,12 @@
 {
   "description": "Victory over death has been won today, forever!",
-  "num_followers": 73094,
+  "num_followers": 73108,
   "original_name": "Easter Worship",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmNjlkZjQ3MTczZjVmMzY4Mzk3YTdhMDE0YWE1NDEzYTlkODM2MmMz",
+  "snapshot_id": "MCwxNjU5N2IxNzczOGMzMWQ1MTYwMzNmZThmOWFkMzYwNzQ2M2ZiYzk1",
   "tracks": [
     {
       "added_at": "2024-03-20 11:39:23",
@@ -1615,18 +1615,22 @@
     {
       "added_at": "2024-03-20 11:39:23",
       "album": {
-        "name": "Savior Of The World",
-        "url": "https://open.spotify.com/album/139bI83KG8DMPSVowCtYXO"
+        "name": "Long Live The King (Versions) - EP",
+        "url": "https://open.spotify.com/album/5DuNnFldG0pyZWbLUw25xH"
       },
       "artists": [
         {
-          "name": "Mack Brock",
-          "url": "https://open.spotify.com/artist/5yCOPpDHEQxwSJJL2LAqLj"
+          "name": "Influence Music",
+          "url": "https://open.spotify.com/artist/7ory6rfLtmQet7a16o4vvC"
+        },
+        {
+          "name": "Matt Gilman",
+          "url": "https://open.spotify.com/artist/73hSbuO7zeiAnHpkyhQN5P"
         }
       ],
-      "duration_ms": 284760,
-      "name": "Savior Of The World - Single Version",
-      "url": "https://open.spotify.com/track/6sHfoAsh78XOmGqUYDsRDP"
+      "duration_ms": 353015,
+      "name": "Long Live The King - Acoustic",
+      "url": "https://open.spotify.com/track/5gZgxdUFIUeNOMgZ0h6vgv"
     },
     {
       "added_at": "2024-03-20 11:39:23",
@@ -1647,22 +1651,18 @@
     {
       "added_at": "2024-03-20 11:39:23",
       "album": {
-        "name": "Long Live The King (Versions) - EP",
-        "url": "https://open.spotify.com/album/5DuNnFldG0pyZWbLUw25xH"
+        "name": "Savior Of The World",
+        "url": "https://open.spotify.com/album/139bI83KG8DMPSVowCtYXO"
       },
       "artists": [
         {
-          "name": "Influence Music",
-          "url": "https://open.spotify.com/artist/7ory6rfLtmQet7a16o4vvC"
-        },
-        {
-          "name": "Matt Gilman",
-          "url": "https://open.spotify.com/artist/73hSbuO7zeiAnHpkyhQN5P"
+          "name": "Mack Brock",
+          "url": "https://open.spotify.com/artist/5yCOPpDHEQxwSJJL2LAqLj"
         }
       ],
-      "duration_ms": 353015,
-      "name": "Long Live The King - Acoustic",
-      "url": "https://open.spotify.com/track/5gZgxdUFIUeNOMgZ0h6vgv"
+      "duration_ms": 284760,
+      "name": "Savior Of The World - Single Version",
+      "url": "https://open.spotify.com/track/6sHfoAsh78XOmGqUYDsRDP"
     },
     {
       "added_at": "2024-03-20 11:39:23",

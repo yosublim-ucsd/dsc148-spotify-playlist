@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxZTdjMzlkMmU0MmI5Yzc4NDc5OTc4ZDcwN2M3MDMxNGRiNDA4YWQ0",
+  "snapshot_id": "MCwwMzc0MTcwNzBlMzE3YzkyNGYzZTZlZTI4NDI3ZTRhNjJjNTUxNDI2",
   "tracks": [
     {
       "added_at": "2023-05-25 20:52:42",
@@ -395,22 +395,6 @@
     {
       "added_at": "2023-05-25 20:52:42",
       "album": {
-        "name": "It Was Fun While It Lasted",
-        "url": "https://open.spotify.com/album/0d2livswZ7Q3puCCJCE0Ge"
-      },
-      "artists": [
-        {
-          "name": "Sueco",
-          "url": "https://open.spotify.com/artist/4iDroUFo89Y7YBsdDTBmTD"
-        }
-      ],
-      "duration_ms": 133678,
-      "name": "Loser",
-      "url": "https://open.spotify.com/track/01VbCa15MmvNg3KMOfoHa2"
-    },
-    {
-      "added_at": "2023-05-25 20:52:42",
-      "album": {
         "name": "Let The Bad Times Roll (Deluxe Edition)",
         "url": "https://open.spotify.com/album/7CiSh3Wv5DrOmoxIZhzBYm"
       },
@@ -423,6 +407,22 @@
       "duration_ms": 198546,
       "name": "Let The Bad Times Roll",
       "url": "https://open.spotify.com/track/0O2UONKvVfdwDyefKh5Yo1"
+    },
+    {
+      "added_at": "2023-05-25 20:52:42",
+      "album": {
+        "name": "It Was Fun While It Lasted",
+        "url": "https://open.spotify.com/album/0d2livswZ7Q3puCCJCE0Ge"
+      },
+      "artists": [
+        {
+          "name": "Sueco",
+          "url": "https://open.spotify.com/artist/4iDroUFo89Y7YBsdDTBmTD"
+        }
+      ],
+      "duration_ms": 133678,
+      "name": "Loser",
+      "url": "https://open.spotify.com/track/01VbCa15MmvNg3KMOfoHa2"
     },
     {
       "added_at": "2023-05-25 20:52:42",
@@ -475,22 +475,6 @@
     {
       "added_at": "2023-05-25 20:52:42",
       "album": {
-        "name": "Supernatural",
-        "url": "https://open.spotify.com/album/5T0qNPygFFXWjhnzSzlTWD"
-      },
-      "artists": [
-        {
-          "name": "Barns Courtney",
-          "url": "https://open.spotify.com/artist/5tFRohaO5yEsuJxmMnlCO9"
-        }
-      ],
-      "duration_ms": 167287,
-      "name": "Supernatural",
-      "url": "https://open.spotify.com/track/3HFvMIvCBNGkypFCQUHjyV"
-    },
-    {
-      "added_at": "2023-05-25 20:52:42",
-      "album": {
         "name": "EDGING",
         "url": "https://open.spotify.com/album/0EspGdWdoWAxa5mBdQ5z55"
       },
@@ -507,18 +491,18 @@
     {
       "added_at": "2023-05-25 20:52:42",
       "album": {
-        "name": "POS",
-        "url": "https://open.spotify.com/album/0zS7Tn6JbtibKKAHabrjA5"
+        "name": "Supernatural",
+        "url": "https://open.spotify.com/album/5T0qNPygFFXWjhnzSzlTWD"
       },
       "artists": [
         {
-          "name": "Sueco",
-          "url": "https://open.spotify.com/artist/4iDroUFo89Y7YBsdDTBmTD"
+          "name": "Barns Courtney",
+          "url": "https://open.spotify.com/artist/5tFRohaO5yEsuJxmMnlCO9"
         }
       ],
-      "duration_ms": 133882,
-      "name": "POS",
-      "url": "https://open.spotify.com/track/2dGj0K0iIrgb3ie1QSLtSL"
+      "duration_ms": 167287,
+      "name": "Supernatural",
+      "url": "https://open.spotify.com/track/3HFvMIvCBNGkypFCQUHjyV"
     },
     {
       "added_at": "2023-05-25 20:52:42",
@@ -535,6 +519,22 @@
       "duration_ms": 202209,
       "name": "No Love In LA",
       "url": "https://open.spotify.com/track/6bmJYonQyJrjlmBiGf9OeK"
+    },
+    {
+      "added_at": "2023-05-25 20:52:42",
+      "album": {
+        "name": "POS",
+        "url": "https://open.spotify.com/album/0zS7Tn6JbtibKKAHabrjA5"
+      },
+      "artists": [
+        {
+          "name": "Sueco",
+          "url": "https://open.spotify.com/artist/4iDroUFo89Y7YBsdDTBmTD"
+        }
+      ],
+      "duration_ms": 133882,
+      "name": "POS",
+      "url": "https://open.spotify.com/track/2dGj0K0iIrgb3ie1QSLtSL"
     },
     {
       "added_at": "2023-05-25 20:52:42",
@@ -751,22 +751,6 @@
     {
       "added_at": "2023-05-25 20:52:42",
       "album": {
-        "name": "MASSEDUCTION",
-        "url": "https://open.spotify.com/album/4RoOGpdrgfiIUyv0kLaC4e"
-      },
-      "artists": [
-        {
-          "name": "St. Vincent",
-          "url": "https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6"
-        }
-      ],
-      "duration_ms": 281346,
-      "name": "Los Ageless",
-      "url": "https://open.spotify.com/track/2qTy3hGSbxoSenKmlKGHFw"
-    },
-    {
-      "added_at": "2023-05-25 20:52:42",
-      "album": {
         "name": "Feral Roots",
         "url": "https://open.spotify.com/album/2OsED4DmBABqdP9NwGUpAu"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 210493,
       "name": "Do Your Worst",
       "url": "https://open.spotify.com/track/1ZDq0oRT40CkuADdE4Jvrq"
+    },
+    {
+      "added_at": "2023-05-25 20:52:42",
+      "album": {
+        "name": "MASSEDUCTION",
+        "url": "https://open.spotify.com/album/4RoOGpdrgfiIUyv0kLaC4e"
+      },
+      "artists": [
+        {
+          "name": "St. Vincent",
+          "url": "https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6"
+        }
+      ],
+      "duration_ms": 281346,
+      "name": "Los Ageless",
+      "url": "https://open.spotify.com/track/2qTy3hGSbxoSenKmlKGHFw"
     },
     {
       "added_at": "2023-05-25 20:52:42",
@@ -1087,6 +1087,22 @@
     {
       "added_at": "2023-05-25 20:52:42",
       "album": {
+        "name": "PARANOIA",
+        "url": "https://open.spotify.com/album/6af3Z9vEogmAowqE0JOIFj"
+      },
+      "artists": [
+        {
+          "name": "Maggie Lindemann",
+          "url": "https://open.spotify.com/artist/0uGk2czvcpWQA383Im6ajf"
+        }
+      ],
+      "duration_ms": 159636,
+      "name": "Crash and Burn",
+      "url": "https://open.spotify.com/track/2EmyZ5vHUkWZ8wV6GVhTXP"
+    },
+    {
+      "added_at": "2023-05-25 20:52:42",
+      "album": {
         "name": "Golden",
         "url": "https://open.spotify.com/album/50SocXtryJeL2lfhNhDq2B"
       },
@@ -1115,22 +1131,6 @@
       "duration_ms": 189542,
       "name": "Once In A Lifetime",
       "url": "https://open.spotify.com/track/2Qjkvp4GLlL60lFXtEte0X"
-    },
-    {
-      "added_at": "2023-05-25 20:52:42",
-      "album": {
-        "name": "PARANOIA",
-        "url": "https://open.spotify.com/album/6af3Z9vEogmAowqE0JOIFj"
-      },
-      "artists": [
-        {
-          "name": "Maggie Lindemann",
-          "url": "https://open.spotify.com/artist/0uGk2czvcpWQA383Im6ajf"
-        }
-      ],
-      "duration_ms": 159636,
-      "name": "Crash and Burn",
-      "url": "https://open.spotify.com/track/2EmyZ5vHUkWZ8wV6GVhTXP"
     },
     {
       "added_at": "2023-05-25 20:52:42",
@@ -1243,22 +1243,6 @@
     {
       "added_at": "2023-05-25 20:52:42",
       "album": {
-        "name": "Toxic Positivity",
-        "url": "https://open.spotify.com/album/3eFVX7tq5tCU0uqol29fis"
-      },
-      "artists": [
-        {
-          "name": "The Used",
-          "url": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL"
-        }
-      ],
-      "duration_ms": 190222,
-      "name": "Giving Up",
-      "url": "https://open.spotify.com/track/5XYoKiujAKGiHwnU2G0P7C"
-    },
-    {
-      "added_at": "2023-05-25 20:52:42",
-      "album": {
         "name": "HONEY",
         "url": "https://open.spotify.com/album/5xaKQhMQZELvqDgxs8iLyQ"
       },
@@ -1271,6 +1255,22 @@
       "duration_ms": 155680,
       "name": "HONEY",
       "url": "https://open.spotify.com/track/7AVf3MdvwHM5CdOdquzu9c"
+    },
+    {
+      "added_at": "2023-05-25 20:52:42",
+      "album": {
+        "name": "Toxic Positivity",
+        "url": "https://open.spotify.com/album/3eFVX7tq5tCU0uqol29fis"
+      },
+      "artists": [
+        {
+          "name": "The Used",
+          "url": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL"
+        }
+      ],
+      "duration_ms": 190222,
+      "name": "Giving Up",
+      "url": "https://open.spotify.com/track/5XYoKiujAKGiHwnU2G0P7C"
     },
     {
       "added_at": "2023-05-25 20:52:42",

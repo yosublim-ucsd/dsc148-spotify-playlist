@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO17JzNU.md) - [plain]
 
 > This is Los Gemelos De Sinaloa\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,228 likes - 50 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,236 likes - 50 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,11 +29,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO17JzNU.md) - [plain]
 | 19 | [Sapo 777](https://open.spotify.com/track/1Sf2GwXADfcc6Bug0cqx0R) | [Los Gemelos De Sinaloa](https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA), [Justin Morales](https://open.spotify.com/artist/5D7x9esAF6twPxuOqSMkeO) | [Sapo 777](https://open.spotify.com/album/6aoXCPH5lCF8lsFeaeEzYo) | 3:16 |
 | 20 | [Todo Gracias Al Señor](https://open.spotify.com/track/5uVPqmFDUeveJ1bQFtWTyY) | [Los Gemelos De Sinaloa](https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA), [Los Del Cristo](https://open.spotify.com/artist/3BarTzhsrWCqdYdTuHaXiK) | [Todo Gracias Al Señor](https://open.spotify.com/album/7AJ5n8CY216ToSbc9MhICq) | 2:34 |
 | 21 | [Aqui Nadie Va Llorar](https://open.spotify.com/track/3GsyP1fVOdYIOMnDdHqqK3) | [Los Gemelos De Sinaloa](https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA) | [Aqui Nadie Va Llorar](https://open.spotify.com/album/7jE1VwGCyweX4rWukicMVq) | 3:15 |
-| 22 | [NO TENIA NADA](https://open.spotify.com/track/4RDJHKG7YLxS89QhaEfEcC) | [Los Gemelos De Sinaloa](https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA), [Grupo Diez 4tro](https://open.spotify.com/artist/6ubJLRTVzomuWIScbguoSY) | [EXCENTRICON](https://open.spotify.com/album/0e4tkubc3hq9zfOOJzBkIH) | 2:49 |
+| 22 | [AZULES](https://open.spotify.com/track/3Vm0Ug2mKx5zsWUBO7TCyI) | [Los Gemelos De Sinaloa](https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA) | [EXCENTRICON](https://open.spotify.com/album/0e4tkubc3hq9zfOOJzBkIH) | 2:48 |
 | 23 | [Suerte No Fue](https://open.spotify.com/track/4tFuWIXeyNN9mkg0uC3d7s) | [Victor Cibrian](https://open.spotify.com/artist/1iXdpCz3AeLEAvzqeNodt8), [Los Gemelos De Sinaloa](https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA) | [Suerte No Fue](https://open.spotify.com/album/4EjJmdzXfSG6h788Tb1PFi) | 3:11 |
 | 24 | [En El Este](https://open.spotify.com/track/3fHKkTEd8wulH6BtyjQ5DS) | [Los Gemelos De Sinaloa](https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA) | [Agradecido](https://open.spotify.com/album/3MKAMCVlSIMDWnnBihi6JH) | 2:11 |
 | 25 | [Una Cruz](https://open.spotify.com/track/7EI3NvlzFohsgu0C418aJe) | [Los Gemelos De Sinaloa](https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA), [Los Del Cristo](https://open.spotify.com/artist/3BarTzhsrWCqdYdTuHaXiK) | [Una Cruz](https://open.spotify.com/album/4M9stiQnSeeAWJZeEOcjWF) | 2:53 |
-| 26 | [AZULES](https://open.spotify.com/track/3Vm0Ug2mKx5zsWUBO7TCyI) | [Los Gemelos De Sinaloa](https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA) | [EXCENTRICON](https://open.spotify.com/album/0e4tkubc3hq9zfOOJzBkIH) | 2:48 |
+| 26 | [NO TENIA NADA](https://open.spotify.com/track/4RDJHKG7YLxS89QhaEfEcC) | [Los Gemelos De Sinaloa](https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA), [Grupo Diez 4tro](https://open.spotify.com/artist/6ubJLRTVzomuWIScbguoSY) | [EXCENTRICON](https://open.spotify.com/album/0e4tkubc3hq9zfOOJzBkIH) | 2:49 |
 | 27 | [Bola De Corrientes](https://open.spotify.com/track/08HwbgBTGQ59H1ppLn4AxW) | [Los Gemelos De Sinaloa](https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA), [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0) | [Bola De Corrientes](https://open.spotify.com/album/2tNhLu2M1RbCYkmeNA9hCm) | 3:39 |
 | 28 | [G63](https://open.spotify.com/track/3E2aYBCPmf8kTq1Ug5E1sN) | [Los Gemelos De Sinaloa](https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA), [Los Del Cristo](https://open.spotify.com/artist/3BarTzhsrWCqdYdTuHaXiK) | [G63](https://open.spotify.com/album/7wfmoOfb10g2Y2ALkyWDty) | 2:45 |
 | 29 | [Me Vas A Llorar](https://open.spotify.com/track/5EO1p7yQgXPZom9N5lECvX) | [Los Gemelos De Sinaloa](https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA) | [Me Vas A Llorar](https://open.spotify.com/album/5UirOXfLgjVDkz6FvuOSNa) | 4:19 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO17JzNU.md) - [plain]
 | 49 | [Apellido Guzman](https://open.spotify.com/track/0CrErg58IbHXNzDqiMBTfT) | [Los Gemelos De Sinaloa](https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA) | [Corridos y Sentimientos \(Vol 2\)](https://open.spotify.com/album/0ywgnvhlgNb1zDnUCewG0s) | 3:26 |
 | 50 | [Sueña](https://open.spotify.com/track/0RykY6cKA0rnJtYrbSR61H) | [Los Gemelos De Sinaloa](https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA) | [Adolorido \(Vol 1\)](https://open.spotify.com/album/7jxXwVsm7JTuG9j5mClYkO) | 4:01 |
 
-Snapshot ID: `Mjg1MTU2NjAsMDAwMDAwMDBjZTI1Zjg4ZWE5MzdlYzE0MjQ1ZWFmZDk1MjFiMjI2Mw==`
+Snapshot ID: `Mjg1MTcwNzUsMDAwMDAwMDA4NGUyNjE1NzkxZGE4YmNhOWRjMzUzMzVmMDRhODllMQ==`

@@ -1,12 +1,12 @@
 {
   "description": "Tech house technicians, featuring Noizu. 50% techno, 50% house",
-  "num_followers": 612285,
+  "num_followers": 612416,
   "original_name": "Tech House Operator",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxM2JkNjRlNzQ3Y2EyOGI1NmIwNzYwYmE3YzY5NDg2Y2ExOTM0NjJh",
+  "snapshot_id": "MCwyNTZjNDg3MjM2ZmE2YWRjMTlhOGMyMjNjMmM5YTUyZWJjZjM5MTg0",
   "tracks": [
     {
       "added_at": "2024-03-15 04:00:00",
@@ -1253,6 +1253,22 @@
       "url": "https://open.spotify.com/track/55NFZV4mg6VcXvoB0M65d0"
     },
     {
+      "added_at": "2023-12-08 05:00:00",
+      "album": {
+        "name": "Make U Sweat",
+        "url": "https://open.spotify.com/album/2eynmd9669ddVP7QTuj66o"
+      },
+      "artists": [
+        {
+          "name": "Martin Ikin",
+          "url": "https://open.spotify.com/artist/7DhdJhd6DrxeJlUajwttd1"
+        }
+      ],
+      "duration_ms": 148730,
+      "name": "Make U Sweat",
+      "url": "https://open.spotify.com/track/3IrAZTFMsy9ZPj5LurJ8vi"
+    },
+    {
       "added_at": "2023-10-27 04:01:00",
       "album": {
         "name": "365",
@@ -1271,22 +1287,6 @@
       "duration_ms": 192755,
       "name": "365",
       "url": "https://open.spotify.com/track/5roFM0I1K6um2yIYL6kGq2"
-    },
-    {
-      "added_at": "2023-12-08 05:00:00",
-      "album": {
-        "name": "Make U Sweat",
-        "url": "https://open.spotify.com/album/2eynmd9669ddVP7QTuj66o"
-      },
-      "artists": [
-        {
-          "name": "Martin Ikin",
-          "url": "https://open.spotify.com/artist/7DhdJhd6DrxeJlUajwttd1"
-        }
-      ],
-      "duration_ms": 148730,
-      "name": "Make U Sweat",
-      "url": "https://open.spotify.com/track/3IrAZTFMsy9ZPj5LurJ8vi"
     },
     {
       "added_at": "2023-10-27 04:01:00",
@@ -1329,26 +1329,6 @@
       "url": "https://open.spotify.com/track/5d1T4dmSTUoI5GR9R9CJYL"
     },
     {
-      "added_at": "2023-12-08 05:00:00",
-      "album": {
-        "name": "Levitate",
-        "url": "https://open.spotify.com/album/730xOvYxbM6hsmbHlDsHbr"
-      },
-      "artists": [
-        {
-          "name": "Sonny Fodera",
-          "url": "https://open.spotify.com/artist/39B7ChWwrWDs7zXlsu3MoP"
-        },
-        {
-          "name": "Marten H\u00f8rger",
-          "url": "https://open.spotify.com/artist/0EdUwJSqkMmsH6Agg3G8Ls"
-        }
-      ],
-      "duration_ms": 165000,
-      "name": "Levitate",
-      "url": "https://open.spotify.com/track/18o6r7yB7rxFoLV5rcrWTa"
-    },
-    {
       "added_at": "2023-10-27 04:01:00",
       "album": {
         "name": "Lady (Hear Me Tonight)",
@@ -1383,6 +1363,26 @@
       "duration_ms": 192187,
       "name": "Vogue",
       "url": "https://open.spotify.com/track/3FrlcqYxS1A3W7pCGAHai6"
+    },
+    {
+      "added_at": "2023-12-08 05:00:00",
+      "album": {
+        "name": "Levitate",
+        "url": "https://open.spotify.com/album/730xOvYxbM6hsmbHlDsHbr"
+      },
+      "artists": [
+        {
+          "name": "Sonny Fodera",
+          "url": "https://open.spotify.com/artist/39B7ChWwrWDs7zXlsu3MoP"
+        },
+        {
+          "name": "Marten H\u00f8rger",
+          "url": "https://open.spotify.com/artist/0EdUwJSqkMmsH6Agg3G8Ls"
+        }
+      ],
+      "duration_ms": 165000,
+      "name": "Levitate",
+      "url": "https://open.spotify.com/track/18o6r7yB7rxFoLV5rcrWTa"
     },
     {
       "added_at": "2023-11-10 05:00:00",
@@ -1653,22 +1653,6 @@
       "url": "https://open.spotify.com/track/5lSfq3EFWwD9yylL0zaqqj"
     },
     {
-      "added_at": "2023-11-10 05:00:00",
-      "album": {
-        "name": "The Switch",
-        "url": "https://open.spotify.com/album/3x0717lwXQfyWeLFwiEe5S"
-      },
-      "artists": [
-        {
-          "name": "KREAM",
-          "url": "https://open.spotify.com/artist/0DdDnziut7wOo6cAYWVZC5"
-        }
-      ],
-      "duration_ms": 206410,
-      "name": "The Switch",
-      "url": "https://open.spotify.com/track/2Uf2IFn75rflEjYN4z1YUR"
-    },
-    {
       "added_at": "2024-01-19 05:00:00",
       "album": {
         "name": "Cruel Intentions",
@@ -1693,6 +1677,22 @@
       "url": "https://open.spotify.com/track/6UF4Bj3prR1bNu8IW8zpzh"
     },
     {
+      "added_at": "2023-11-10 05:00:00",
+      "album": {
+        "name": "The Switch",
+        "url": "https://open.spotify.com/album/3x0717lwXQfyWeLFwiEe5S"
+      },
+      "artists": [
+        {
+          "name": "KREAM",
+          "url": "https://open.spotify.com/artist/0DdDnziut7wOo6cAYWVZC5"
+        }
+      ],
+      "duration_ms": 206410,
+      "name": "The Switch",
+      "url": "https://open.spotify.com/track/2Uf2IFn75rflEjYN4z1YUR"
+    },
+    {
       "added_at": "2023-11-24 05:00:00",
       "album": {
         "name": "Calling",
@@ -1707,22 +1707,6 @@
       "duration_ms": 196615,
       "name": "Calling",
       "url": "https://open.spotify.com/track/66RXdotm5DaizBKalAq3iV"
-    },
-    {
-      "added_at": "2023-11-17 05:00:00",
-      "album": {
-        "name": "Hypnotic",
-        "url": "https://open.spotify.com/album/0AK8WQVhKdyuRxQZpsFNUz"
-      },
-      "artists": [
-        {
-          "name": "Max Styler",
-          "url": "https://open.spotify.com/artist/3NKKngINK1tP6BFy0WOyWk"
-        }
-      ],
-      "duration_ms": 200000,
-      "name": "Hypnotic",
-      "url": "https://open.spotify.com/track/1TCJjzvQn6zaIzckTZiabG"
     },
     {
       "added_at": "2023-11-24 05:00:00",
@@ -1743,6 +1727,22 @@
       "duration_ms": 182891,
       "name": "Vente",
       "url": "https://open.spotify.com/track/5il5NxrB2dsemKG7T7uLGO"
+    },
+    {
+      "added_at": "2023-11-17 05:00:00",
+      "album": {
+        "name": "Hypnotic",
+        "url": "https://open.spotify.com/album/0AK8WQVhKdyuRxQZpsFNUz"
+      },
+      "artists": [
+        {
+          "name": "Max Styler",
+          "url": "https://open.spotify.com/artist/3NKKngINK1tP6BFy0WOyWk"
+        }
+      ],
+      "duration_ms": 200000,
+      "name": "Hypnotic",
+      "url": "https://open.spotify.com/track/1TCJjzvQn6zaIzckTZiabG"
     },
     {
       "added_at": "2023-10-27 04:01:00",
@@ -2057,26 +2057,6 @@
       "url": "https://open.spotify.com/track/1p53sKGwHI0HuAVg9NWGNy"
     },
     {
-      "added_at": "2024-02-23 05:00:00",
-      "album": {
-        "name": "Snare Thing",
-        "url": "https://open.spotify.com/album/1H7iXcc0qwvM6T9Lo1ogLV"
-      },
-      "artists": [
-        {
-          "name": "Matt Sassari",
-          "url": "https://open.spotify.com/artist/21dVknSLCsK37cWozWDZZS"
-        },
-        {
-          "name": "Tony Romera",
-          "url": "https://open.spotify.com/artist/7GQsOji7pfixzkLt63awo5"
-        }
-      ],
-      "duration_ms": 180952,
-      "name": "Snare Thing",
-      "url": "https://open.spotify.com/track/6uIY9dQQQQmuxZheorszyW"
-    },
-    {
       "added_at": "2023-11-24 05:00:00",
       "album": {
         "name": "Never Enough",
@@ -2099,6 +2079,26 @@
       "duration_ms": 221250,
       "name": "Never Enough",
       "url": "https://open.spotify.com/track/1pIugPaeYrwzjoBi8SC2ts"
+    },
+    {
+      "added_at": "2024-02-23 05:00:00",
+      "album": {
+        "name": "Snare Thing",
+        "url": "https://open.spotify.com/album/1H7iXcc0qwvM6T9Lo1ogLV"
+      },
+      "artists": [
+        {
+          "name": "Matt Sassari",
+          "url": "https://open.spotify.com/artist/21dVknSLCsK37cWozWDZZS"
+        },
+        {
+          "name": "Tony Romera",
+          "url": "https://open.spotify.com/artist/7GQsOji7pfixzkLt63awo5"
+        }
+      ],
+      "duration_ms": 180952,
+      "name": "Snare Thing",
+      "url": "https://open.spotify.com/track/6uIY9dQQQQmuxZheorszyW"
     },
     {
       "added_at": "2023-10-27 04:01:00",
@@ -2201,22 +2201,6 @@
       "url": "https://open.spotify.com/track/3LUq5EsyDfbdjMhUBYMQJ8"
     },
     {
-      "added_at": "2023-10-27 04:01:00",
-      "album": {
-        "name": "Acid (All Night Long)",
-        "url": "https://open.spotify.com/album/1iZJz3tgPcn04UT643eH0x"
-      },
-      "artists": [
-        {
-          "name": "GENESI",
-          "url": "https://open.spotify.com/artist/4OG9hOPsfAEziKvOJj2SG7"
-        }
-      ],
-      "duration_ms": 153690,
-      "name": "Acid (All Night Long)",
-      "url": "https://open.spotify.com/track/1s7j77CrfpOhXf5V3P9gp7"
-    },
-    {
       "added_at": "2024-02-23 05:00:00",
       "album": {
         "name": "Move With Me",
@@ -2231,6 +2215,22 @@
       "duration_ms": 165000,
       "name": "Move With Me",
       "url": "https://open.spotify.com/track/63eRXDiU4N4RsJ9vN2vgIx"
+    },
+    {
+      "added_at": "2023-10-27 04:01:00",
+      "album": {
+        "name": "Acid (All Night Long)",
+        "url": "https://open.spotify.com/album/1iZJz3tgPcn04UT643eH0x"
+      },
+      "artists": [
+        {
+          "name": "GENESI",
+          "url": "https://open.spotify.com/artist/4OG9hOPsfAEziKvOJj2SG7"
+        }
+      ],
+      "duration_ms": 153690,
+      "name": "Acid (All Night Long)",
+      "url": "https://open.spotify.com/track/1s7j77CrfpOhXf5V3P9gp7"
     },
     {
       "added_at": "2023-10-27 04:01:00",
@@ -2293,6 +2293,22 @@
       "url": "https://open.spotify.com/track/2GkY6fWVFsOi8AjZmnpQwa"
     },
     {
+      "added_at": "2023-12-15 05:00:00",
+      "album": {
+        "name": "What I'm Sayin",
+        "url": "https://open.spotify.com/album/3eTZQ42Toe7G2ze1rs5fgu"
+      },
+      "artists": [
+        {
+          "name": "Truth x Lies",
+          "url": "https://open.spotify.com/artist/3bh4M54m4LRs41WQs07Jy0"
+        }
+      ],
+      "duration_ms": 200343,
+      "name": "What I'm Sayin",
+      "url": "https://open.spotify.com/track/7tzH9WFMUGfsvvI0UXXj4A"
+    },
+    {
       "added_at": "2024-02-23 05:00:00",
       "album": {
         "name": "Ready or Not (Here I Come)",
@@ -2315,22 +2331,6 @@
       "duration_ms": 154404,
       "name": "Ready or Not (Here I Come)",
       "url": "https://open.spotify.com/track/3XVrQFwrjoj5rHMUK0N7mU"
-    },
-    {
-      "added_at": "2023-12-15 05:00:00",
-      "album": {
-        "name": "What I'm Sayin",
-        "url": "https://open.spotify.com/album/3eTZQ42Toe7G2ze1rs5fgu"
-      },
-      "artists": [
-        {
-          "name": "Truth x Lies",
-          "url": "https://open.spotify.com/artist/3bh4M54m4LRs41WQs07Jy0"
-        }
-      ],
-      "duration_ms": 200343,
-      "name": "What I'm Sayin",
-      "url": "https://open.spotify.com/track/7tzH9WFMUGfsvvI0UXXj4A"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -2385,26 +2385,6 @@
       "url": "https://open.spotify.com/track/1bXgTBNfGgKw20IsS3P37o"
     },
     {
-      "added_at": "2023-12-29 05:00:00",
-      "album": {
-        "name": "Shut Up ( Leagas Rmx )",
-        "url": "https://open.spotify.com/album/2KzJQx307kptPASAdhNzpz"
-      },
-      "artists": [
-        {
-          "name": "Lucci Minati",
-          "url": "https://open.spotify.com/artist/4nbU2WGv335ioQaQFcfqO1"
-        },
-        {
-          "name": "Leagas",
-          "url": "https://open.spotify.com/artist/5kxONUwoZOOqrNXbMQnhnK"
-        }
-      ],
-      "duration_ms": 169000,
-      "name": "Shut Up - Leagas Rmx",
-      "url": "https://open.spotify.com/track/28uBfOc8iV004Q9x5KplAf"
-    },
-    {
       "added_at": "2023-10-27 04:01:00",
       "album": {
         "name": "Favela Joint",
@@ -2427,22 +2407,22 @@
     {
       "added_at": "2023-12-29 05:00:00",
       "album": {
-        "name": "Perfect Love (Biscits Remix)",
-        "url": "https://open.spotify.com/album/1HVIOPdgDaSIdKy79G1Dbj"
+        "name": "Shut Up ( Leagas Rmx )",
+        "url": "https://open.spotify.com/album/2KzJQx307kptPASAdhNzpz"
       },
       "artists": [
         {
-          "name": "Todd Edwards",
-          "url": "https://open.spotify.com/artist/6MFopqejpmTUUZlcRmGzgg"
+          "name": "Lucci Minati",
+          "url": "https://open.spotify.com/artist/4nbU2WGv335ioQaQFcfqO1"
         },
         {
-          "name": "Biscits",
-          "url": "https://open.spotify.com/artist/052B9SONfhoScw7dgYWw5o"
+          "name": "Leagas",
+          "url": "https://open.spotify.com/artist/5kxONUwoZOOqrNXbMQnhnK"
         }
       ],
-      "duration_ms": 191355,
-      "name": "Perfect Love - Biscits Remix",
-      "url": "https://open.spotify.com/track/6SxpLVRmhMubmYLrvxGp22"
+      "duration_ms": 169000,
+      "name": "Shut Up - Leagas Rmx",
+      "url": "https://open.spotify.com/track/28uBfOc8iV004Q9x5KplAf"
     },
     {
       "added_at": "2023-12-08 05:00:00",
@@ -2467,6 +2447,22 @@
       "duration_ms": 197812,
       "name": "Never Leave You (Uh Oh) - Club Mix",
       "url": "https://open.spotify.com/track/6vS4QHhODz5P779tfqIzB4"
+    },
+    {
+      "added_at": "2023-10-27 04:01:00",
+      "album": {
+        "name": "Selecta",
+        "url": "https://open.spotify.com/album/7AjlfAc7u6QAGM9d7XQ2Be"
+      },
+      "artists": [
+        {
+          "name": "Biscits",
+          "url": "https://open.spotify.com/artist/052B9SONfhoScw7dgYWw5o"
+        }
+      ],
+      "duration_ms": 166625,
+      "name": "Selecta",
+      "url": "https://open.spotify.com/track/1MTPO4CMGIhHBocGVwVckD"
     }
   ],
   "unique_name": "Tech House Operator",

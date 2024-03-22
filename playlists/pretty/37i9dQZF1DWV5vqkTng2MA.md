@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV5vqkTng2MA.md) - [plain]
 
 > Make it new\. Fresh takes on vintage soul, folk, blues, and roots rock\. Cover: Marcus King
 
-[Spotify](https://open.spotify.com/user/spotify) - 387,317 likes - 90 songs - 5 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 387,461 likes - 90 songs - 5 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV5vqkTng2MA.md) - [plain]
 | 28 | [Jackie and Wilson](https://open.spotify.com/track/0PywzrV955BnXDC8FHAf0n) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Hozier](https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq) | 3:43 |
 | 29 | [C'mon Baby, Cry](https://open.spotify.com/track/67swXHVknS142T5tIcNFkl) | [Orville Peck](https://open.spotify.com/artist/46auOkH1pk28rWrSoUNhLo) | [Bronco](https://open.spotify.com/album/2hCcPHWTbvF81CiXPUrM6I) | 3:30 |
 | 30 | [Lay Down](https://open.spotify.com/track/3x8IsQzb1KhPPo6zNGzzL1) | [Son Little](https://open.spotify.com/artist/4lujUKeO6nQAJXpq37Epn7) | [Son Little \(Deluxe Edition\)](https://open.spotify.com/album/2jGQieA1EggldcxFAiQHjJ) | 3:48 |
-| 31 | [Black Man In A White World](https://open.spotify.com/track/3ddle9t9JiBFVqHyrnaGxz) | [Michael Kiwanuka](https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj) | [Love & Hate](https://open.spotify.com/album/0qxsfpy2VU0i4eDR9RTaAU) | 4:18 |
-| 32 | [Hero](https://open.spotify.com/track/5O89rL395q32qmTzYGxNfb) | [Marcus King](https://open.spotify.com/artist/0FeWKiZSwBRdGzqeCdlH1a) | [Hero](https://open.spotify.com/album/5vzLvQIgT3vD1NA5MyaXaN) | 3:16 |
+| 31 | [Hero](https://open.spotify.com/track/5O89rL395q32qmTzYGxNfb) | [Marcus King](https://open.spotify.com/artist/0FeWKiZSwBRdGzqeCdlH1a) | [Hero](https://open.spotify.com/album/5vzLvQIgT3vD1NA5MyaXaN) | 3:16 |
+| 32 | [Black Man In A White World](https://open.spotify.com/track/3ddle9t9JiBFVqHyrnaGxz) | [Michael Kiwanuka](https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj) | [Love & Hate](https://open.spotify.com/album/0qxsfpy2VU0i4eDR9RTaAU) | 4:18 |
 | 33 | [Smooth Sailin'](https://open.spotify.com/track/3jpeI1goQHPIwwCMxrLrwx) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Coming Home \(Deluxe\)](https://open.spotify.com/album/21KIagsx1ZvYcv0sVkEAWv) | 3:03 |
 | 34 | [Take My Heart](https://open.spotify.com/track/7vS9rpDGP8Z75CbrlseYlu) | [The Teskey Brothers](https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh) | [The Winding Way](https://open.spotify.com/album/4JvUEoioE4Am9JKyoQrlXH) | 4:18 |
 | 35 | [I Wonder Why](https://open.spotify.com/track/5XOzpTZGe4onY74BFK0ziS) | [Kacy & Clayton](https://open.spotify.com/artist/7oJ1EabmX7ejrie3NBzn0p), [Marlon Williams](https://open.spotify.com/artist/5ENM4Vw9brkpcN51HtC8ga) | [Plastic Bouquet](https://open.spotify.com/album/2ih2y265Nk7ipR1RZDRniF) | 2:05 |
@@ -79,24 +79,24 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV5vqkTng2MA.md) - [plain]
 | 69 | [Empty Me Out](https://open.spotify.com/track/3xEx3xxA06MuO4SGZ4jrkV) | [Liz Vice](https://open.spotify.com/artist/5KYcfVCcUgV4d1KP3Wozyx) | [There's a Light](https://open.spotify.com/album/7kOkk55lZ5AHyiv58OaCJ6) | 4:37 |
 | 70 | [Over My Head](https://open.spotify.com/track/36G3OLXhaR43SQDAC98dzt) | [Asaf Avidan](https://open.spotify.com/artist/7t51dSX8ZkKC7VoKRd0lME) | [Gold Shadow](https://open.spotify.com/album/3ONqRU4a6LR16GJ80ld0Gz) | 2:36 |
 | 71 | [Numb](https://open.spotify.com/track/70HTUTCkfEgNDvKCzTNnV4) | [Max Jury](https://open.spotify.com/artist/3MuPVbFDynbq9zRTAqjRxi) | [Max Jury](https://open.spotify.com/album/3sGSTThYpx4Udjl0IeuJhZ) | 4:10 |
-| 72 | [Sleep](https://open.spotify.com/track/5n7pR4SK5ZGuHHu3AiODJ2) | [Allen Stone](https://open.spotify.com/artist/536osqBGKzeozje8BfcGsa) | [Allen Stone](https://open.spotify.com/album/6thR6jvixyobv21QPAQrcz) | 2:26 |
-| 73 | [Never Been a Captain](https://open.spotify.com/track/3XagkwVGPBOrbmvEd6aNf3) | [The Barr Brothers](https://open.spotify.com/artist/4OyRutd80DZC22C4pl63l7) | [Alta Falls](https://open.spotify.com/album/1cVZMnYMB105JUmmCJPL7X) | 4:41 |
-| 74 | [Crazy Woman](https://open.spotify.com/track/5ke9Y5BL0wbGOg4pshd1B0) | [Joseph LeMay](https://open.spotify.com/artist/3BRHUE4Ml0PKrgZ5EjVtxf) | [Seventeen Acres](https://open.spotify.com/album/2gHqNCEbiiYGoE8WAEkFZf) | 2:02 |
+| 72 | [Crazy Woman](https://open.spotify.com/track/5ke9Y5BL0wbGOg4pshd1B0) | [Joseph LeMay](https://open.spotify.com/artist/3BRHUE4Ml0PKrgZ5EjVtxf) | [Seventeen Acres](https://open.spotify.com/album/2gHqNCEbiiYGoE8WAEkFZf) | 2:02 |
+| 73 | [Sleep](https://open.spotify.com/track/5n7pR4SK5ZGuHHu3AiODJ2) | [Allen Stone](https://open.spotify.com/artist/536osqBGKzeozje8BfcGsa) | [Allen Stone](https://open.spotify.com/album/6thR6jvixyobv21QPAQrcz) | 2:26 |
+| 74 | [Never Been a Captain](https://open.spotify.com/track/3XagkwVGPBOrbmvEd6aNf3) | [The Barr Brothers](https://open.spotify.com/artist/4OyRutd80DZC22C4pl63l7) | [Alta Falls](https://open.spotify.com/album/1cVZMnYMB105JUmmCJPL7X) | 4:41 |
 | 75 | [Never Had Nobody Like You](https://open.spotify.com/track/77Y1Weg1iEYfeEteEvvkBt) | [M\. Ward](https://open.spotify.com/artist/6nXSnNEdLuKTzAQozRtqiI), [Zooey Deschanel](https://open.spotify.com/artist/2GEW6nJjHKAFyqnsE3TdWx) | [Hold Time](https://open.spotify.com/album/5KqYEjZPHBchiXyudUzr5I) | 2:26 |
 | 76 | [Slipping](https://open.spotify.com/track/5qVgjRn125fERbF5bY7Zvb) | [Eryn Allen Kane](https://open.spotify.com/artist/5xI4mPixKfrCCspATqbpy3) | [Aviary: Act 1](https://open.spotify.com/album/7sVyk1fdhhiBcguh15NN3N) | 3:42 |
-| 77 | [Sister Andre](https://open.spotify.com/track/1lk7yaYquaKwiXPmdZD6mn) | [Pokey LaFarge](https://open.spotify.com/artist/6hAUCkzZpoYGObd8qFW5TT) | [Sister Andre](https://open.spotify.com/album/6J3yk0Qw2U2iGINcNelPQp) | 3:05 |
+| 77 | [Say It](https://open.spotify.com/track/1Ww0HQhPiT0t9KRdzukr8T) | [Houndmouth](https://open.spotify.com/artist/7EGwUS3c5dXduO4sMyLWC5) | [Little Neon Limelight](https://open.spotify.com/album/4FcLsVJY0NIKB8V9aHc1wh) | 3:22 |
 | 78 | [Devil in Me](https://open.spotify.com/track/3LcrBMmEejUO09Lrmyixzb) | [Anderson East](https://open.spotify.com/artist/5q6z6GTth6lMbL9I8CAgby) | [Delilah](https://open.spotify.com/album/2iOEBkiMCteCJExhYgVpXZ) | 3:41 |
-| 79 | [See It Through](https://open.spotify.com/track/1tqFGTmcaNNusdArPOU0kj) | [Durand Jones](https://open.spotify.com/artist/099J9XcZ0A8kXtBANb5WCs) | [Wait Til I Get Over](https://open.spotify.com/album/3t5PKVYlbYXIiLIRDPPkp4) | 3:24 |
-| 80 | [Say It](https://open.spotify.com/track/1Ww0HQhPiT0t9KRdzukr8T) | [Houndmouth](https://open.spotify.com/artist/7EGwUS3c5dXduO4sMyLWC5) | [Little Neon Limelight](https://open.spotify.com/album/4FcLsVJY0NIKB8V9aHc1wh) | 3:22 |
+| 79 | [Sister Andre](https://open.spotify.com/track/1lk7yaYquaKwiXPmdZD6mn) | [Pokey LaFarge](https://open.spotify.com/artist/6hAUCkzZpoYGObd8qFW5TT) | [Sister Andre](https://open.spotify.com/album/6J3yk0Qw2U2iGINcNelPQp) | 3:05 |
+| 80 | [See It Through](https://open.spotify.com/track/1tqFGTmcaNNusdArPOU0kj) | [Durand Jones](https://open.spotify.com/artist/099J9XcZ0A8kXtBANb5WCs) | [Wait Til I Get Over](https://open.spotify.com/album/3t5PKVYlbYXIiLIRDPPkp4) | 3:24 |
 | 81 | [Wastin' My Mind](https://open.spotify.com/track/3VqCUJv72SIoDMd6ZT29fS) | [The Wood Brothers](https://open.spotify.com/artist/6FxuPrpa8phaP3Xn73emhT) | [The Muse](https://open.spotify.com/album/2xkAdEXW7nGQAJMptaOk2d) | 2:59 |
 | 82 | [First Time Feeling](https://open.spotify.com/track/4FBwo4kO38ZKBFF29U9GCJ) | [Leah Blevins](https://open.spotify.com/artist/1cpkiJukYGm0dr7Fm9HpNW) | [First Time Feeling](https://open.spotify.com/album/7lAuqI7aCLX66UAyT74Yuu) | 3:06 |
 | 83 | [The Very Last Day](https://open.spotify.com/track/76Fc9ApTagfE0DFLFdnMj1) | [Parker Millsap](https://open.spotify.com/artist/0MASTEXfUt3bpiyGOoEaur) | [The Very Last Day](https://open.spotify.com/album/71K6pqQC9BGomxvPDQVM3T) | 3:00 |
 | 84 | [The Ballad of Johnny](https://open.spotify.com/track/2A32JdgX32o5yUloJMq4Q3) | [KaiL Baxley](https://open.spotify.com/artist/3fV14PAU0MWFaj0Kt8MDWx) | [A Light That Never Dies](https://open.spotify.com/album/7LH0Sg7HCq6DRKwjloezQ1) | 2:53 |
 | 85 | [Madelyn](https://open.spotify.com/track/39ZpHwLpCFBDeLpOphQYLQ) | [Anderson East](https://open.spotify.com/artist/5q6z6GTth6lMbL9I8CAgby) | [Madelyn](https://open.spotify.com/album/2GxqnG8rJVHG18Bm27vpo0) | 3:15 |
-| 86 | [Party City](https://open.spotify.com/track/0aQuBy6wRLPE3Al7Eqv3Fa) | [Sir Woman](https://open.spotify.com/artist/3H03S3ZtyYLdzsk6EYndUL) | [Sir Woman](https://open.spotify.com/album/1YrapTceavDda547u6Z9yg) | 4:24 |
-| 87 | [Two Wolves](https://open.spotify.com/track/1AbzihR3bhDonO8mNidgEb) | [Jesse Roper](https://open.spotify.com/artist/0YnrslYN9hfy5ZRCQUjMMt) | [Horizons](https://open.spotify.com/album/1FOyCt7ibwzAUlfvQYh28l) | 4:04 |
+| 86 | [Two Wolves](https://open.spotify.com/track/1AbzihR3bhDonO8mNidgEb) | [Jesse Roper](https://open.spotify.com/artist/0YnrslYN9hfy5ZRCQUjMMt) | [Horizons](https://open.spotify.com/album/1FOyCt7ibwzAUlfvQYh28l) | 4:04 |
+| 87 | [Party City](https://open.spotify.com/track/0aQuBy6wRLPE3Al7Eqv3Fa) | [Sir Woman](https://open.spotify.com/artist/3H03S3ZtyYLdzsk6EYndUL) | [Sir Woman](https://open.spotify.com/album/1YrapTceavDda547u6Z9yg) | 4:24 |
 | 88 | [Fine to Me](https://open.spotify.com/track/5zMxWgi2SJ8NMDj7J6WqSX) | [Pokey LaFarge](https://open.spotify.com/artist/6hAUCkzZpoYGObd8qFW5TT) | [Fine to Me](https://open.spotify.com/album/7m1gJq3SBJHvpw50OeyKps) | 3:58 |
-| 89 | [Demons](https://open.spotify.com/track/2tb19wQu9EEK4mFooVSKx8) | [Allison Russell](https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6) | [Demons](https://open.spotify.com/album/5aGMS2lsapoII9HrZPd3eE) | 4:29 |
-| 90 | [Too Little, Too Late, Too Bad](https://open.spotify.com/track/2Bo6HLwcrHh7VbTC1CjF55) | [Rhiannon Giddens](https://open.spotify.com/artist/1EI0NtLHoh9KBziYCeN1vM) | [You're the One](https://open.spotify.com/album/3k6GZZ7QUpFQlNjuPizVEZ) | 3:44 |
+| 89 | [Too Little, Too Late, Too Bad](https://open.spotify.com/track/2Bo6HLwcrHh7VbTC1CjF55) | [Rhiannon Giddens](https://open.spotify.com/artist/1EI0NtLHoh9KBziYCeN1vM) | [You're the One](https://open.spotify.com/album/3k6GZZ7QUpFQlNjuPizVEZ) | 3:44 |
+| 90 | [Demons](https://open.spotify.com/track/2tb19wQu9EEK4mFooVSKx8) | [Allison Russell](https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6) | [Demons](https://open.spotify.com/album/5aGMS2lsapoII9HrZPd3eE) | 4:29 |
 
-Snapshot ID: `MCw1MjNhMGMxNTA0YmY0YjgyYmM3MTFiYmU1NjVjMDI4ZTVhZWI2MGZl`
+Snapshot ID: `MCxiOTRiYjAyNjYxZDc3ODQ2ZDZhN2UxOTNlNDNhY2I1NzY5ZjhiMzhh`

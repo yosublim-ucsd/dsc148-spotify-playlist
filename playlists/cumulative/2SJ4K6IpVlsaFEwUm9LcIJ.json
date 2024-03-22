@@ -733,6 +733,28 @@
     },
     {
       "album": {
+        "name": "I Can't Dream Anymore",
+        "url": "https://open.spotify.com/album/2nWfaWfDYIEMeckjUAfDCZ"
+      },
+      "artists": [
+        {
+          "name": "Fabiana Palladino",
+          "url": "https://open.spotify.com/artist/1ZzqxDkqNDAJVaNO1xue3P"
+        },
+        {
+          "name": "Jai Paul",
+          "url": "https://open.spotify.com/artist/53wZLCnhshZKDRs3uopFBc"
+        }
+      ],
+      "date_added": "2024-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258499,
+      "name": "I Care",
+      "url": "https://open.spotify.com/track/7tHxfAiPYN5357A49tY5p2"
+    },
+    {
+      "album": {
         "name": "I'd Rather You Leave Me",
         "url": "https://open.spotify.com/album/1h3zASfdILrqQDjxhpOQls"
       },

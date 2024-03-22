@@ -939,6 +939,24 @@
     },
     {
       "album": {
+        "name": "Calm Euphoria",
+        "url": "https://open.spotify.com/album/1klIEGzkf55z5Dwa7cq6tF"
+      },
+      "artists": [
+        {
+          "name": "Alunni",
+          "url": "https://open.spotify.com/artist/5uZQ9focwD7agsnaUA2gBz"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144067,
+      "name": "Calm Euphoria",
+      "url": "https://open.spotify.com/track/5Z1JCzQtEbH3OAUT9xWi4k"
+    },
+    {
+      "album": {
         "name": "can you call me back",
         "url": "https://open.spotify.com/album/081bq3A8UNs9vJIDdTtAjd"
       },

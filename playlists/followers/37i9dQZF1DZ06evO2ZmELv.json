@@ -1,5 +1,5 @@
 {
-  "2024-03-21": 188,
+  "2024-03-22": 189,
   "date_first_scraped": "2023-03-11",
   "description": "This is Cheli Madrid. The essential tracks, all in one playlist.",
   "name": "This Is Cheli Madrid",
@@ -201,7 +201,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-21",
       "duration_ms": 175125,
       "name": "Con Rumbo Al Sur - En Vivo",
       "url": "https://open.spotify.com/track/5FyPPML88pOwIzVRhpV0QH"
@@ -1021,7 +1021,7 @@
       ],
       "date_added": "2024-01-28",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-30",
+      "date_removed": null,
       "duration_ms": 153701,
       "name": "Tengo Miedo - En Vivo",
       "url": "https://open.spotify.com/track/5ZKuMhwEnR3KZnsi8sacfE"

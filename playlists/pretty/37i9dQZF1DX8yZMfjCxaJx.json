@@ -1,12 +1,12 @@
 {
   "description": "Las favoritas de los patrones. Los Plebes del Rancho, Juanpa Salazar en portada.",
-  "num_followers": 213728,
+  "num_followers": 213806,
   "original_name": "Corridos Chakalosos",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhN2M3NjA4ODQ3NTM3YWU5OWNhNDk1NzkyMWVmZGViYzA1MDZkYzc4",
+  "snapshot_id": "MCw2ZDkzM2VjMzBhZmU4MjYxMzQ2YWMxMzZlY2Y2YjA4MjU0YzdlOGZk",
   "tracks": [
     {
       "added_at": "2024-03-01 06:00:00",
@@ -807,18 +807,18 @@
     {
       "added_at": "2024-03-01 06:00:00",
       "album": {
-        "name": "El Mago Merl\u00edn",
-        "url": "https://open.spotify.com/album/2tkBG4kM8b2punqvupfFSm"
+        "name": "La Loteria",
+        "url": "https://open.spotify.com/album/1eOnR7Tb5ajg0OMNi68i4W"
       },
       "artists": [
         {
-          "name": "Enigma Norte\u00f1o",
-          "url": "https://open.spotify.com/artist/3441uYrkzgTWwjXLd13R0U"
+          "name": "Nueva Marca",
+          "url": "https://open.spotify.com/artist/347cjywtc77d0NSfzullDJ"
         }
       ],
-      "duration_ms": 161733,
-      "name": "El Mago Merl\u00edn",
-      "url": "https://open.spotify.com/track/4dbH1Md7KseiHuzWAyE3Y3"
+      "duration_ms": 176350,
+      "name": "Por La Baja Navegamos",
+      "url": "https://open.spotify.com/track/0OephgF5HKnlnZYLhCuaKQ"
     },
     {
       "added_at": "2024-03-01 06:00:00",
@@ -843,18 +843,18 @@
     {
       "added_at": "2024-03-01 06:00:00",
       "album": {
-        "name": "La Loteria",
-        "url": "https://open.spotify.com/album/1eOnR7Tb5ajg0OMNi68i4W"
+        "name": "El Mago Merl\u00edn",
+        "url": "https://open.spotify.com/album/2tkBG4kM8b2punqvupfFSm"
       },
       "artists": [
         {
-          "name": "Nueva Marca",
-          "url": "https://open.spotify.com/artist/347cjywtc77d0NSfzullDJ"
+          "name": "Enigma Norte\u00f1o",
+          "url": "https://open.spotify.com/artist/3441uYrkzgTWwjXLd13R0U"
         }
       ],
-      "duration_ms": 176350,
-      "name": "Por La Baja Navegamos",
-      "url": "https://open.spotify.com/track/0OephgF5HKnlnZYLhCuaKQ"
+      "duration_ms": 161733,
+      "name": "El Mago Merl\u00edn",
+      "url": "https://open.spotify.com/track/4dbH1Md7KseiHuzWAyE3Y3"
     },
     {
       "added_at": "2024-03-01 06:00:00",
@@ -1187,18 +1187,18 @@
     {
       "added_at": "2024-03-01 06:00:00",
       "album": {
-        "name": "A Punta De Balazos (En Vivo)",
-        "url": "https://open.spotify.com/album/7wJ5OZ9BjEriaj4s70Pupp"
+        "name": "Los Dos de Guerrero",
+        "url": "https://open.spotify.com/album/334ZGuyUYVu3bNXB2h6xAS"
       },
       "artists": [
         {
-          "name": "Novillos de la Sierra",
-          "url": "https://open.spotify.com/artist/0y9rTsbpRAIIkDMP3DsNro"
+          "name": "Los Alegres Del Barranco",
+          "url": "https://open.spotify.com/artist/2TSslwx9J30KElgEr68sdv"
         }
       ],
-      "duration_ms": 237700,
-      "name": "A Punta De Balazos (En Vivo)",
-      "url": "https://open.spotify.com/track/3cGlwJIMYJzMsuCsK2AbVe"
+      "duration_ms": 207617,
+      "name": "Los Dos de Guerrero",
+      "url": "https://open.spotify.com/track/3nWOT3lpdDpzNwA9nqY01v"
     },
     {
       "added_at": "2024-03-01 06:00:00",
@@ -1235,6 +1235,22 @@
     {
       "added_at": "2024-03-01 06:00:00",
       "album": {
+        "name": "A Punta De Balazos (En Vivo)",
+        "url": "https://open.spotify.com/album/7wJ5OZ9BjEriaj4s70Pupp"
+      },
+      "artists": [
+        {
+          "name": "Novillos de la Sierra",
+          "url": "https://open.spotify.com/artist/0y9rTsbpRAIIkDMP3DsNro"
+        }
+      ],
+      "duration_ms": 237700,
+      "name": "A Punta De Balazos (En Vivo)",
+      "url": "https://open.spotify.com/track/3cGlwJIMYJzMsuCsK2AbVe"
+    },
+    {
+      "added_at": "2024-03-01 06:00:00",
+      "album": {
         "name": "La Capi",
         "url": "https://open.spotify.com/album/55pTCyi6i0JmvmiIA1yGl2"
       },
@@ -1247,22 +1263,6 @@
       "duration_ms": 189075,
       "name": "La Capi",
       "url": "https://open.spotify.com/track/2jMAtQFsAhG5Fo9tVH3xfK"
-    },
-    {
-      "added_at": "2024-03-01 06:00:00",
-      "album": {
-        "name": "Los Dos de Guerrero",
-        "url": "https://open.spotify.com/album/334ZGuyUYVu3bNXB2h6xAS"
-      },
-      "artists": [
-        {
-          "name": "Los Alegres Del Barranco",
-          "url": "https://open.spotify.com/artist/2TSslwx9J30KElgEr68sdv"
-        }
-      ],
-      "duration_ms": 207617,
-      "name": "Los Dos de Guerrero",
-      "url": "https://open.spotify.com/track/3nWOT3lpdDpzNwA9nqY01v"
     },
     {
       "added_at": "2024-03-01 06:00:00",
@@ -1407,26 +1407,6 @@
     {
       "added_at": "2024-03-01 06:00:00",
       "album": {
-        "name": "El 7 Tito Beltr\u00e1n",
-        "url": "https://open.spotify.com/album/0prEM4d9iiHcvYLZwStnJg"
-      },
-      "artists": [
-        {
-          "name": "Novillos de la Sierra",
-          "url": "https://open.spotify.com/artist/0y9rTsbpRAIIkDMP3DsNro"
-        },
-        {
-          "name": "El Rabbanito",
-          "url": "https://open.spotify.com/artist/4VPLEp6rYxqpf6n0QEkS5z"
-        }
-      ],
-      "duration_ms": 247944,
-      "name": "El 7 Tito Beltr\u00e1n",
-      "url": "https://open.spotify.com/track/3ja3iKYBSQmwa20EYJym8D"
-    },
-    {
-      "added_at": "2024-03-01 06:00:00",
-      "album": {
         "name": "El Cabez\u00f3n (El Papas Fritas)",
         "url": "https://open.spotify.com/album/480oASOS6npWutZkW7zeNf"
       },
@@ -1459,6 +1439,26 @@
       "duration_ms": 247065,
       "name": "Estilo Especial - En Vivo",
       "url": "https://open.spotify.com/track/5jSK8BMzUXMlcFCukMi7Wm"
+    },
+    {
+      "added_at": "2024-03-01 06:00:00",
+      "album": {
+        "name": "El 7 Tito Beltr\u00e1n",
+        "url": "https://open.spotify.com/album/0prEM4d9iiHcvYLZwStnJg"
+      },
+      "artists": [
+        {
+          "name": "Novillos de la Sierra",
+          "url": "https://open.spotify.com/artist/0y9rTsbpRAIIkDMP3DsNro"
+        },
+        {
+          "name": "El Rabbanito",
+          "url": "https://open.spotify.com/artist/4VPLEp6rYxqpf6n0QEkS5z"
+        }
+      ],
+      "duration_ms": 247944,
+      "name": "El 7 Tito Beltr\u00e1n",
+      "url": "https://open.spotify.com/track/3ja3iKYBSQmwa20EYJym8D"
     }
   ],
   "unique_name": "Corridos Chakalosos",

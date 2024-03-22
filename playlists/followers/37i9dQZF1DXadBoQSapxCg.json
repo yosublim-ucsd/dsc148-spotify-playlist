@@ -1,5 +1,5 @@
 {
-  "2024-03-21": 309692,
+  "2024-03-22": 309732,
   "date_first_scraped": "2023-09-18",
   "description": "Apaga a luz e deixa rolar.",
   "name": "Rala e Rola",
@@ -17,7 +17,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-21",
       "duration_ms": 189071,
       "name": "1 em 100",
       "url": "https://open.spotify.com/track/78rRWqZIwDD7f9yjsEHpD1"
@@ -961,6 +961,32 @@
       "duration_ms": 197494,
       "name": "Playlist Transante",
       "url": "https://open.spotify.com/track/2qCps28vIziXwOKmici1g7"
+    },
+    {
+      "album": {
+        "name": "Pode Ficar",
+        "url": "https://open.spotify.com/album/5l2i37UIL7h6gjipBKUNS8"
+      },
+      "artists": [
+        {
+          "name": "Kiaz",
+          "url": "https://open.spotify.com/artist/6Ae0wz09vBFYZXJ2bJAKUl"
+        },
+        {
+          "name": "L7NNON",
+          "url": "https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C"
+        },
+        {
+          "name": "Fresh Mind Co.",
+          "url": "https://open.spotify.com/artist/3shBNuvo8XyNthoiWNaCYc"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196176,
+      "name": "Pode Ficar",
+      "url": "https://open.spotify.com/track/29XgcktAmOQTG62vI9UveQ"
     },
     {
       "album": {

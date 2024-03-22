@@ -4,7 +4,7 @@
 
 > Soundtrack your cozy dinner with bossa nova jazz.
 
-182 songs - 11 hr 25 min
+184 songs - 11 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,6 +59,7 @@
 | [Coração Dolorido](https://open.spotify.com/track/0aAlTbi3bgYvVex42whvDZ) | [Vitor Vagner](https://open.spotify.com/artist/18kiPS1TIJ9akOTddrW7DH) | [Puxar Do Amor](https://open.spotify.com/album/3NA3vF96CZMerNw6J4hGAC) | 3:27 | 2022-04-26 |  |
 | [Coração Madura](https://open.spotify.com/track/3TTQRX8ppicWmBSLDWs5u6) | [Téo Freire](https://open.spotify.com/artist/2Es2xfsRli23jk1UwvIej3) | [Coração Madura](https://open.spotify.com/album/1iTU5adC5AOkPaI0UmTuOC) | 2:00 | 2022-04-26 | 2022-12-02 |
 | [Cosme Velho](https://open.spotify.com/track/4t1NtFuhpXCjdKFsNTfNdJ) | [El Equipo Del Norte](https://open.spotify.com/artist/3NlkrQ9iKKw6VZlWr0lk0U) | [Cosme Velho](https://open.spotify.com/album/1CiCakkArtq2iGnRBGcDv0) | 2:53 | 2022-04-26 |  |
+| [Céu Tropical](https://open.spotify.com/track/1tQDRcG0bYg7zYvTkN98RY) | [Martín Lima](https://open.spotify.com/artist/5e3qpW081a7wvT7G2EIj51) | [Céu Tropical](https://open.spotify.com/album/5b6Pitwhg3vbsfRO2wrVXs) | 3:35 | 2024-03-22 |  |
 | [Dança Noturna](https://open.spotify.com/track/3K6SvPhXBdKhC3RCnfWIEl) | [Sara Santos](https://open.spotify.com/artist/1K83XnIXY2xWu7cyBcOdjr) | [Dança Noturna](https://open.spotify.com/album/0QLjiCIycregn3J6tycwul) | 4:14 | 2022-08-10 | 2023-09-02 |
 | [Desafinado](https://open.spotify.com/track/5WhNEjI1UPLRFk3AP3uF3f) | [Andreas Gidlund Five](https://open.spotify.com/artist/77TUX9u0E5esyWr95Iwdg6) | [One For Roy](https://open.spotify.com/album/78OzDMPIdZQrYb5lnRLby2) | 3:47 | 2022-05-17 |  |
 | [Descer Pelo Rio](https://open.spotify.com/track/5EPMAKQslCbGpMqgj6UDL9) | [Carlos Buzelin](https://open.spotify.com/artist/3LRki4zLTVbYzI6R1kwcsB) | [A Maçã](https://open.spotify.com/album/5C6P51oL3rfqLLG9Ve3S1H) | 4:17 | 2022-04-26 |  |
@@ -85,6 +86,7 @@
 | [Foz Do Iguaçu](https://open.spotify.com/track/7DH2me3WEWpTNcPqeq6I8w) | [da Suécia](https://open.spotify.com/artist/4oOtPyWe8TK5mn4gKJDNse) | [Foz Do Iguaçu](https://open.spotify.com/album/0hlEiLyA2RkFQhTkPu33AW) | 3:26 | 2023-01-03 |  |
 | [Gentileza](https://open.spotify.com/track/2b5sr8aUAAoY7waDSB4KRX) | [Ximena & Antonio](https://open.spotify.com/artist/4GTpu88l1iZwuSyY2UXW70) | [Gentileza](https://open.spotify.com/album/13Nf9wlDHpcboyd0LM7px6) | 4:25 | 2022-04-26 |  |
 | [Goin' Out of My Head](https://open.spotify.com/track/4LMFr5xaHXr101AV96zZSM) | [Sunset Organ Jazz Trio](https://open.spotify.com/artist/2EgH6CxzDPwaNwe1YpBqcO) | [Goin' Out of My Head](https://open.spotify.com/album/4ESfBFkOULu2MBtgcxNlZx) | 3:16 | 2022-04-26 |  |
+| [Green Light](https://open.spotify.com/track/6pJKUVbk8N858Ukh1L0CWm) | [Stockholm Whereabouts](https://open.spotify.com/artist/7xGUX1jozTRuHMgjmRuK18) | [Green Light](https://open.spotify.com/album/1AYgQw2jkNkyptUflqyMGA) | 3:53 | 2024-03-22 |  |
 | [Gringo na Lapa](https://open.spotify.com/track/2gyJ9qVNvQ01qnIXGqqJ27) | [Samuel Furtado](https://open.spotify.com/artist/0ovOJBn9DrE5qU4THpWpsx) | [Gringo na Lapa](https://open.spotify.com/album/29r2JdeDoQkiSm3yfBXT96) | 4:32 | 2022-04-26 | 2023-08-18 |
 | [Half The Perfect World](https://open.spotify.com/track/2Lpy3EwCxTCDnpSoraugYc) | [Madeleine Peyroux](https://open.spotify.com/artist/7nXyULtoL8k7wP9l6kg8Ef) | [Half The Perfect World](https://open.spotify.com/album/6krx8ZgiDPDVTKDoZGwevx) | 4:21 | 2022-06-28 | 2022-11-10 |
 | [Half The Perfect World](https://open.spotify.com/track/3lkbJzh2kPBJHuuYKF48Qs) | [Madeleine Peyroux](https://open.spotify.com/artist/7nXyULtoL8k7wP9l6kg8Ef) | [Keep Me In Your Heart For A While: The Best Of Madeleine Peyroux \(International Edition\)](https://open.spotify.com/album/4pkakYztIDn7LnsuNIGz4m) | 4:22 | 2022-04-26 | 2022-07-29 |

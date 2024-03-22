@@ -1,5 +1,5 @@
 {
-  "2024-03-21": 153579,
+  "2024-03-22": 153605,
   "date_first_scraped": "2021-12-28",
   "description": "Global crossovers by/with Arab artists. Cover: MC Abdul & Saint Levant",
   "name": "Arab X",
@@ -3757,7 +3757,7 @@
       ],
       "date_added": "2023-02-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-21",
       "duration_ms": 170366,
       "name": "NASTY",
       "url": "https://open.spotify.com/track/3GxW7jtmUatEqM14hZdKFC"
@@ -4058,6 +4058,24 @@
     },
     {
       "album": {
+        "name": "Olive Branch (Ghosn Zeytoun)",
+        "url": "https://open.spotify.com/album/0zXbKq9D8hTBJxl10Pya8y"
+      },
+      "artists": [
+        {
+          "name": "Elyanna",
+          "url": "https://open.spotify.com/artist/0jIWKlfmD4Ew7HeVVrq03g"
+        }
+      ],
+      "date_added": "2024-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 85999,
+      "name": "Olive Branch (Ghosn Zeytoun)",
+      "url": "https://open.spotify.com/track/0Qs69EhCYkND29GsGEp9uD"
+    },
+    {
+      "album": {
         "name": "On My Own",
         "url": "https://open.spotify.com/album/6jBPKGE15wIoYciA3m34ou"
       },
@@ -4341,7 +4359,7 @@
       ],
       "date_added": "2023-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-21",
       "duration_ms": 214647,
       "name": "POINT OF NO RETURN",
       "url": "https://open.spotify.com/track/4GgFF0xemAwyhyXDbTsXG1"

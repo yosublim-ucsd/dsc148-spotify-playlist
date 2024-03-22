@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5FlZmJ3JWL1.md) - [plain]
 
 > Let's go! 💪
 
-[Spotify](https://open.spotify.com/user/spotify) - 753,373 likes - 50 songs - 2 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 753,690 likes - 50 songs - 2 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5FlZmJ3JWL1.md) - [plain]
 | 35 | [We Are The People \- southstar Remix](https://open.spotify.com/track/3vLMN02wGnPBdjRVvewedS) | [Empire Of The Sun](https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c), [southstar](https://open.spotify.com/artist/1GVuCyb4PlArufUZDUnRQi) | [We Are The People \(southstar Remix\)](https://open.spotify.com/album/28E0EqraSPvGhUQ0jNkUvb) | 3:56 |
 | 36 | [Do It To It \- Tiësto Remix](https://open.spotify.com/track/2XKsHHNCtKqk9cF35TRFyC) | [ACRAZE](https://open.spotify.com/artist/4pnp4w9g30yLfVIAFnZMRd), [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Cherish](https://open.spotify.com/artist/1c70yCa8sRgIiQxl3HOEFo) | [Do It To It \(Tiësto Remix\)](https://open.spotify.com/album/19WRWWmZJvhypam9o6heVJ) | 2:05 |
 | 37 | [Poker Face](https://open.spotify.com/track/6aFUMn7oUmcHKFnx1WPcJt) | [Lupage](https://open.spotify.com/artist/5MazkeVWAqayflCjldHhs3), [Joe Kox](https://open.spotify.com/artist/0aN6ilg8tbD71OTn12qx1G) | [Poker Face](https://open.spotify.com/album/6J3PjOxzJIi3swdqbXklDA) | 2:37 |
-| 38 | [Sunglasses At Night](https://open.spotify.com/track/6eoY6XnhGFr3HInyECJdbx) | [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D), [Don Diablo](https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1) | [Sunglasses At Night](https://open.spotify.com/album/4hLi7mKyVQ3tL20otPQpk1) | 2:50 |
-| 39 | [Love Vibration](https://open.spotify.com/track/5B2Fil0dJNfob1W8gpL5E4) | [ESSEL](https://open.spotify.com/artist/2ucdZN7GyBGxIKHIzksnXc) | [Love Vibration](https://open.spotify.com/album/5xsbnw9g4cmcfKOe2UuJdL) | 3:00 |
+| 38 | [Love Vibration](https://open.spotify.com/track/5B2Fil0dJNfob1W8gpL5E4) | [ESSEL](https://open.spotify.com/artist/2ucdZN7GyBGxIKHIzksnXc) | [Love Vibration](https://open.spotify.com/album/5xsbnw9g4cmcfKOe2UuJdL) | 3:00 |
+| 39 | [Sunglasses At Night](https://open.spotify.com/track/6eoY6XnhGFr3HInyECJdbx) | [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D), [Don Diablo](https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1) | [Sunglasses At Night](https://open.spotify.com/album/4hLi7mKyVQ3tL20otPQpk1) | 2:50 |
 | 40 | [ABC](https://open.spotify.com/track/1no0HVphfnHBjYNfhH3m1k) | [LUNAX](https://open.spotify.com/artist/7CLsFRcEkn0Amc9VlVOFwR) | [ABC](https://open.spotify.com/album/1eCJRp3bemhLyeuD3hSCqK) | 2:39 |
 | 41 | [The Way I Like It](https://open.spotify.com/track/5ybpVGn3epiwjD9CdaJyqm) | [dj tani](https://open.spotify.com/artist/4c59nmQyhUfXe5RkS0bjNA), [Crystal Rock](https://open.spotify.com/artist/7eehGkMnqCS6Hp7HJIXH9e), [Lawstylez](https://open.spotify.com/artist/6VBSwCRUCT6b3igxW6VfJZ) | [The Way I Like It](https://open.spotify.com/album/1NVxMrGf1whPetnRrQXI5u) | 2:37 |
 | 42 | [Eternity](https://open.spotify.com/track/3aNxfCcd9EohIxKmcQv1zn) | [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ), [KSHMR](https://open.spotify.com/artist/2wX6xSig4Rig5kZU6ePlWe), [Bassjackers](https://open.spotify.com/artist/6xQvQwZQQuq9R3TdPNbcR8) | [Eternity](https://open.spotify.com/album/1JjGogI2XIeKZK0UOSJQaY) | 2:15 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5FlZmJ3JWL1.md) - [plain]
 | 49 | [Wrong or Right \(The Riddle\)](https://open.spotify.com/track/78VSoe3vn4gR4pYSTBiAXA) | [Bassjackers](https://open.spotify.com/artist/6xQvQwZQQuq9R3TdPNbcR8) | [Wrong or Right \(The Riddle\)](https://open.spotify.com/album/7f9y6wyXMLW9NfHHkMtccm) | 2:34 |
 | 50 | [Out Of My Head](https://open.spotify.com/track/3B2SIeekeNUDeszphD3deS) | [HUTS](https://open.spotify.com/artist/6d4AePmkVnbu2qIbT6vsem), [y\_x](https://open.spotify.com/artist/1mntvQYpOHDTcAlSG8bmqM) | [Out Of My Head](https://open.spotify.com/album/35SgzMPyciNuNT0oK6NtdB) | 2:52 |
 
-Snapshot ID: `MCxlMDdiNGU4NzllOTliN2QyNjVhODg2Mjk3NWMzNjliZjAxNjgxODlj`
+Snapshot ID: `MCxkMzQwZDdjZmQzNmNiNmZjZTUwYjllYzI3NzNiYWMxZTNkMDI2NmQ4`

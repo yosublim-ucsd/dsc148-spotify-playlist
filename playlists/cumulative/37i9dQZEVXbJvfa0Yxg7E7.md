@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Norway.
 
-1,566 songs - 3 day 9 hr 27 min
+1,567 songs - 3 day 9 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -605,7 +605,7 @@
 | [History](https://open.spotify.com/track/4xX4zOMh1krABkrzuOyF2u) | [Victoria Nadine](https://open.spotify.com/artist/59ha4Qt5jtbrFQljKZrx8K) | [History](https://open.spotify.com/album/2XOLERtBwcmk76QKo44ojz) | 2:44 | 2021-05-09 | 2021-05-10 |
 | [Hjemme for meg](https://open.spotify.com/track/7JTcRjQ2dXXuCWCBWQdrvF) | [Emma Steinbakken](https://open.spotify.com/artist/3GIadM69XShFZNB3gP67Td) | [Hjemme for meg](https://open.spotify.com/album/719up99DviL8hUvJIUNbxk) | 2:22 | 2023-11-11 | 2023-12-31 |
 | [HJEMMESLAY](https://open.spotify.com/track/1E4KY1yKSCnYpAguixncQZ) | [EIGHT](https://open.spotify.com/artist/189SU7GvkTPNe95eyblBpz), [PHUNK](https://open.spotify.com/artist/6lwGFUhh49s5W0amMSTPqW) | [HJEMMESLAY](https://open.spotify.com/album/7LSibvrLepHxzCLmid9N6U) | 3:26 | 2024-01-05 | 2024-01-14 |
-| [HJERNESKADA](https://open.spotify.com/track/5OF3dirRYqkRF57ST0tSRj) | [Henrik von Grogg](https://open.spotify.com/artist/2z33akYL15RgrP5P51vhvx), [Oskar Westerlin](https://open.spotify.com/artist/0oXnxfuBoIz4DlUCbvxWxd), [Henrik Viken](https://open.spotify.com/artist/1X6PpxnCUPaBW9dFnckNO3) | [HJERNESKADA](https://open.spotify.com/album/7JcdQ4shwO2MMhBdh7BlGI) | 2:16 | 2024-03-14 |  |
+| [HJERNESKADA](https://open.spotify.com/track/5OF3dirRYqkRF57ST0tSRj) | [Henrik von Grogg](https://open.spotify.com/artist/2z33akYL15RgrP5P51vhvx), [Oskar Westerlin](https://open.spotify.com/artist/0oXnxfuBoIz4DlUCbvxWxd), [Henrik Viken](https://open.spotify.com/artist/1X6PpxnCUPaBW9dFnckNO3) | [HJERNESKADA](https://open.spotify.com/album/7JcdQ4shwO2MMhBdh7BlGI) | 2:16 | 2024-03-14 | 2024-03-22 |
 | [Hjerteknuser](https://open.spotify.com/track/3RAHhTC61TZLoQ7I6FfgdN) | [Kaizers Orchestra](https://open.spotify.com/artist/1s1DnVoBDfp3jxjjew8cBR) | [Violeta Violeta Volume I](https://open.spotify.com/album/32wGzwMnSvQjp5PmjGEPtz) | 3:20 | 2023-10-13 | 2023-11-18 |
 | [Hjerteknuser](https://open.spotify.com/track/77F3wu9VD3TgxXjHCq8A7W) | [Kaizers Orchestra](https://open.spotify.com/artist/1s1DnVoBDfp3jxjjew8cBR) | [Violeta Violeta Volume 1](https://open.spotify.com/album/7kxHh6YvSb0kaW3Mj1Csaw) | 3:20 | 2022-08-29 | 2022-11-29 |
 | [Hjerteknuser](https://open.spotify.com/track/6D2Hxj0e7gZojlFBV1fKBx) | [rOlfFa](https://open.spotify.com/artist/4Rdh0AevBwePcuPgt8fNeM) | [Geasseijat](https://open.spotify.com/album/3shwdZY9LBfiRuAHpt3TNT) | 4:23 | 2022-08-29 | 2022-10-02 |
@@ -788,6 +788,7 @@
 | [Kaleidoskophimmel](https://open.spotify.com/track/3wxkxuisoRkt3NNeUTUfpx) | [Kaizers Orchestra](https://open.spotify.com/artist/1s1DnVoBDfp3jxjjew8cBR) | [Kaleidoskophimmel](https://open.spotify.com/album/6t8SQHoM7vKxQU8SMs81F1) | 6:24 | 2023-08-19 | 2023-08-21 |
 | [kamera demon](https://open.spotify.com/track/2S4dVxsSZdAjNFuqoVQkLv) | [Dutty Dior](https://open.spotify.com/artist/5ktSHm2pKmqua1MTV1dkrg) | [kamera demon](https://open.spotify.com/album/3kcuw3B5Kvh8QNgkQ0PxX7) | 2:49 | 2022-03-26 | 2022-03-28 |
 | [kan du love å vente \(feat\. Isah\)](https://open.spotify.com/track/7Lc4xMmX0CBvs4lZ4P9QVn) | [Gabrielle](https://open.spotify.com/artist/4OovmAu23KrDlDQI2UbneL), [Isah](https://open.spotify.com/artist/5kZZsRShoba2QQpDAv9P0B) | [kan du love å vente \(feat\. Isah\)](https://open.spotify.com/album/3rm5oG1zo2hw8nrUHFGegU) | 2:59 | 2021-05-16 | 2021-05-19 |
+| [KANDAHAR](https://open.spotify.com/track/4ZWq7fQvITB8D3CngAErG2) | [HAVAL](https://open.spotify.com/artist/4XW87HXcsYTkdK7IhSy2Kt), [Manny Flaco](https://open.spotify.com/artist/2vduakOON9BipyWkPSBo4S) | [INLOGGAD](https://open.spotify.com/album/4WkwDqz5LXl4OwcXtiuREC) | 3:34 | 2024-03-21 |  |
 | [KANTER DU](https://open.spotify.com/track/5hYcocny7kd8noJBQr9TNC) | [Johnnyboaih](https://open.spotify.com/artist/4y79UfIrd99xgLn0uCgP2Z), [MC Grüber](https://open.spotify.com/artist/0yf7wmHhxJrbmKakyPqdWH) | [KANTER DU](https://open.spotify.com/album/5rcFEYTdkjUgDbdjOzUfVE) | 2:04 | 2024-03-01 | 2024-03-04 |
 | [Karma](https://open.spotify.com/track/7KokYm8cMIXCsGVmUvKtqf) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Midnights](https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3) | 3:24 | 2022-10-22 | 2022-10-30 |
 | [Kattepus](https://open.spotify.com/track/7If31adCR25NKFPeoSgVpr) | [Arif](https://open.spotify.com/artist/3l4RyQwQ0kHZ9Q9cQbRNMr), [Stig Brenner](https://open.spotify.com/artist/35j3Bv3gRKUHbiFSxVjjIf) | [Kattepus](https://open.spotify.com/album/0w0bzlvYLCLUMfuWuPRKDI) | 2:55 | 2021-10-31 | 2021-10-31 |

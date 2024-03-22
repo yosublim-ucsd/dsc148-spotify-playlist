@@ -4,7 +4,7 @@
 
 > Uptempo instrumental hip hop beats.
 
-906 songs - 1 day 11 hr 15 min
+907 songs - 1 day 11 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -430,6 +430,7 @@
 | [Maca](https://open.spotify.com/track/6gdDUUOVAlv1iIywKDRHZE) | [Breakfast For Brunch](https://open.spotify.com/artist/4qLyv8RotSOSjWze2rJD7O) | [Maca](https://open.spotify.com/album/7L6D24JOqqngMKQvknjWiA) | 2:25 | 2023-10-06 |  |
 | [Machines](https://open.spotify.com/track/5LD9Kx8SmFL4yToNIbQ0ty) | [Cyber Bloom](https://open.spotify.com/artist/3zeayfTUAD4ekNKbjFmRA7) | [Machines](https://open.spotify.com/album/585g5BfKMv4XNcBYbSukzD) | 2:00 | 2023-10-13 |  |
 | [Mad World](https://open.spotify.com/track/3xwrhWMrYlSv1YkMaOa9KV) | [Rascal](https://open.spotify.com/artist/3fWAVycjEzJH9BxxrfyCDA) | [Mad World](https://open.spotify.com/album/56bhW3j6Ti2w1Drf7qEUXv) | 1:28 | 2022-09-09 | 2023-11-17 |
+| [Magic Mattress Ride \(ZzZ\)](https://open.spotify.com/track/7wehqrmCqlEehtGoucPbKv) | [PIÑA PINK](https://open.spotify.com/artist/7L2I1AuvyRXd2ysLSTeKZX) | [Magic Mattress Ride \(ZzZ\)](https://open.spotify.com/album/6B7fPxPYhyggHOSAK1Yqyx) | 2:58 | 2024-03-22 |  |
 | [Mangos](https://open.spotify.com/track/19Lkk1hRKKOwE4qTOL36nf) | [High Low Row](https://open.spotify.com/artist/2ExRfiZkCF0b2AR8vdCqk8) | [Mangos](https://open.spotify.com/album/7GISc4x59WUJlbOapq2IHK) | 3:38 | 2022-04-15 |  |
 | [Maple Road](https://open.spotify.com/track/4FoEEJ5oiENSiLkYFStz88) | [Dr\. Dundiff](https://open.spotify.com/artist/6T2NShr7SAArhtegdIpHHN), [okwow](https://open.spotify.com/artist/1Gx2S5p5nWuMKhPq3k2kCq) | [Maple Road](https://open.spotify.com/album/4ZZnP0rWjdjFzOtLWVsrJa) | 2:20 | 2023-09-04 | 2023-09-22 |
 | [Marathon](https://open.spotify.com/track/7fs8fhf8E1KefxhgJ2lOCJ) | [wallyPDF](https://open.spotify.com/artist/1bzy63aGMcbSpAHuemeCUk) | [Marathon](https://open.spotify.com/album/1eCjtC5oxQIrNjbHp6TUUm) | 1:56 | 2023-03-13 | 2023-09-29 |
@@ -644,7 +645,7 @@
 | [Salty Spears](https://open.spotify.com/track/6ZmBhY7KvNRg7ohYNyIgCK) | [Pickle Bits](https://open.spotify.com/artist/2KOou75brQkBcUrNhPtC1s) | [Salty Spears](https://open.spotify.com/album/1yVbF1CJghhfNg5ROV8ceF) | 2:16 | 2023-11-24 |  |
 | [Samurai](https://open.spotify.com/track/2AXqiVRL9dhZ47IDPiGR6H) | [Mr OCB](https://open.spotify.com/artist/1RorScxoqHkBchQcufPdTl) | [Samurai](https://open.spotify.com/album/02SYmFC9xbKeUG1IBwPxSc) | 2:40 | 2022-04-15 | 2022-06-17 |
 | [Sand Dunes](https://open.spotify.com/track/0eRz1q2Wl8UpKDl45UiZZQ) | [The Precocious Birds](https://open.spotify.com/artist/5oLT0V8Xp31OtLkLvUH07U) | [Good Morning](https://open.spotify.com/album/0VnIOAwK9IyAsNc1HXqEHs) | 3:21 | 2022-04-15 | 2022-05-20 |
-| [sandcastles](https://open.spotify.com/track/2J0Rj3cOl6EfTGI5D0FA6p) | [Blueor](https://open.spotify.com/artist/6K6SjptdGOH6RrL9ggstwY), [ZARG](https://open.spotify.com/artist/40PThXuHI1P1mrSb6MPD3z), [CHG](https://open.spotify.com/artist/19wrYTgQ1HpOBX5cjB58tl) | [sandcastles](https://open.spotify.com/album/1LN7ORFTpSy9ZpnsflxqPN) | 1:45 | 2022-08-12 |  |
+| [sandcastles](https://open.spotify.com/track/2J0Rj3cOl6EfTGI5D0FA6p) | [Blueor](https://open.spotify.com/artist/6K6SjptdGOH6RrL9ggstwY), [ZARG](https://open.spotify.com/artist/40PThXuHI1P1mrSb6MPD3z), [CHG](https://open.spotify.com/artist/19wrYTgQ1HpOBX5cjB58tl) | [sandcastles](https://open.spotify.com/album/1LN7ORFTpSy9ZpnsflxqPN) | 1:45 | 2022-08-12 | 2024-03-22 |
 | [Sandhamn](https://open.spotify.com/track/77ZSl1MSbASVgW5DOGCMN9) | [Rosemary beats](https://open.spotify.com/artist/1W56U3ujxXcEVxnavW4vJ8) | [Sandhamn](https://open.spotify.com/album/3rYpgmBjwPUtHKTntCFHvX) | 2:50 | 2022-09-09 |  |
 | [Saturation](https://open.spotify.com/track/1zyNkrQFVLwjl1Jg4MZHuK) | [Luc Delvaux](https://open.spotify.com/artist/0TtVPA9JL5p8Yqr7guSEn0) | [Saturation](https://open.spotify.com/album/5d0Imi2PYaZIhzFe6Sn4CN) | 1:52 | 2022-04-15 | 2022-10-29 |
 | [Saturday Afternoon](https://open.spotify.com/track/5GSoiFJwXZY3DfPDkVHwS6) | [Sweet Oscar](https://open.spotify.com/artist/7hwWfUVrKczeyLavJykzzL), [soave lofi](https://open.spotify.com/artist/0QuTX3mzksvtwoQru6tiF8) | [Back Alley Conversations](https://open.spotify.com/album/4JetmNvKwzrCbsIKyliwPp) | 2:01 | 2022-04-15 | 2022-06-10 |

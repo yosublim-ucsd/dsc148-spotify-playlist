@@ -4,7 +4,7 @@
 
 > Smooth beats for sleepless nights.
 
-593 songs - 22 hr 31 min
+596 songs - 22 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -69,6 +69,7 @@
 | [Blue](https://open.spotify.com/track/1L9zi0bBi6DD3wnJPFJPIT) | [Pixie Dust](https://open.spotify.com/artist/0kSqe2dBbt8rg07yfEBnjR) | [Blue](https://open.spotify.com/album/0TwX7omh8LLHGBkcfOBth0) | 2:18 | 2022-05-20 | 2023-01-20 |
 | [blue bird](https://open.spotify.com/track/6qCw0yjnCxxASxV87RMudj) | [Slipp](https://open.spotify.com/artist/6bmyHY2oYF7LNsOCLdZH7e), [Nick's chill factory](https://open.spotify.com/artist/3QJraihPHVrl3gSNaXLEr9) | [blue bird](https://open.spotify.com/album/1BR01bzVheG3dH7IGvo7lA) | 2:14 | 2023-09-22 |  |
 | [Boarded](https://open.spotify.com/track/3TYZ8OUPMZ0O6AiMRmv5lP) | [Sidual.](https://open.spotify.com/artist/5ghUUQxtMMankpzWRxckkI) | [Boarded](https://open.spotify.com/album/0971OYZtfCZfegzT2TDmqh) | 2:20 | 2022-05-20 | 2022-06-10 |
+| [bookworn](https://open.spotify.com/track/6tnQHLy3sz7QNLBsYCpDnn) | [yellow sofa](https://open.spotify.com/artist/00zktRPsRiNCP7GWXXi9Jc) | [bookworn](https://open.spotify.com/album/3jSoRUUVr4fHrpaFVRB3V9) | 2:05 | 2024-03-22 |  |
 | [Bottle post](https://open.spotify.com/track/6hpPyrW13t94TQIMC7h0M2) | [Trixie](https://open.spotify.com/artist/3BHWIx02zIYjPsVrwJ9QYL) | [Bottle post](https://open.spotify.com/album/7rRfoRckclV5J7zLDgMeJY) | 2:31 | 2022-10-28 | 2023-12-14 |
 | [Bottled Up Emotions, Part 2](https://open.spotify.com/track/12nj9lHWHO9y8668gT0iR1) | [KVMTZ](https://open.spotify.com/artist/1D8kPNLkel9FZFCwSHkZ95) | [Bottled Up Emotions, Part 2](https://open.spotify.com/album/599cNTxGgXMhT154dLyGaU) | 1:50 | 2022-05-20 | 2022-11-26 |
 | [Brainstorm](https://open.spotify.com/track/2Ia7BnMIQdFR7VBnLUTSyV) | [yourneighborsclassicbeats](https://open.spotify.com/artist/07YwFEZfj3G4ZRQ08iFDAM) | [Childhood](https://open.spotify.com/album/7c4IX4kVawxqxkYlLt1RRo) | 1:58 | 2022-09-09 | 2023-09-26 |
@@ -202,6 +203,7 @@
 | [Gesture Analysis](https://open.spotify.com/track/1dyqVOJoItiH2VPxJFj0c9) | [Jens Nirme](https://open.spotify.com/artist/3illAmiJoox5u3D7qhkO6t) | [Bits & Pieces](https://open.spotify.com/album/1uX4MbJJF71JbyWYbABIhY) | 2:03 | 2022-05-20 | 2022-09-30 |
 | [Give in to you](https://open.spotify.com/track/2GYrasXjMJuZKD5WMKrLHs) | [Gachagchi](https://open.spotify.com/artist/4gYhpOBdTKEhnrjRsYrhXe) | [I am the one](https://open.spotify.com/album/0hN15c8jV4wx6Q8PkqWKZf) | 1:44 | 2022-05-20 |  |
 | [Glitter Space](https://open.spotify.com/track/16cGLCoy5hR0D02M0jzS3w) | [Unsuspected Noise](https://open.spotify.com/artist/4ka9QHdlBExtto0XXvFels), [Lola](https://open.spotify.com/artist/1qDK6LhZ26Z6od4yq1VBKT) | [Glitter Space](https://open.spotify.com/album/00B5LUP688G1RHsDb3jrK8) | 2:13 | 2023-03-27 |  |
+| [gloaming atmospheres](https://open.spotify.com/track/5D0r1uBb8jOBH4djqq6weE) | [Harry G's Beats](https://open.spotify.com/artist/59fTGxMpUBkID2RojOnA8V) | [gloaming atmospheres](https://open.spotify.com/album/08Q4qGs9OFRlryVRedjgeI) | 2:29 | 2024-03-22 |  |
 | [gloomy forecast](https://open.spotify.com/track/0JOOhy4DD2DhsDUuFLcxKY) | [dLira](https://open.spotify.com/artist/62qH5lO3YpMpkVJJb7JuEv) | [gloomy forecast](https://open.spotify.com/album/7AwLVPooBNokzJzlLyn91r) | 3:35 | 2022-05-20 | 2023-01-18 |
 | [God Girl](https://open.spotify.com/track/6PUrpc5FKEIdOHB6Cr0UOQ) | [Salty Soundz](https://open.spotify.com/artist/0uj4WSTdDGg22OCuqLTKk9) | [God Girl](https://open.spotify.com/album/0FUXc6dVrKHPn2dT9FhzrU) | 2:48 | 2023-01-20 | 2023-10-06 |
 | [Golden Hours](https://open.spotify.com/track/6pFCWGvher1KJdEEsj55dn) | [Justnormal](https://open.spotify.com/artist/2YCz7aHoRoAZ435UDLOKOs) | [Autumn Here](https://open.spotify.com/album/2Ea5pKp1ORP8nXaOk85WHP) | 2:28 | 2022-05-20 | 2022-06-10 |
@@ -599,6 +601,7 @@
 | [Woollen Potato](https://open.spotify.com/track/5WSBqCeXfUE6A7siQZewYK) | [Yoga at the Disco](https://open.spotify.com/artist/4jQBn4Pe1tFPxVo3p6W7uq) | [Woollen Potato](https://open.spotify.com/album/0Hp5rOXs5sNNdgYmUVdsu2) | 2:30 | 2023-09-22 |  |
 | [Yambula](https://open.spotify.com/track/4ecmvloQdEjcx1a85qhHe1) | [Elengi](https://open.spotify.com/artist/3wCEfYsM06yRGxVUgvnuAZ) | [Yambula](https://open.spotify.com/album/3OMuwO9VZvWQ3InylSXOLz) | 1:54 | 2022-05-20 | 2022-07-08 |
 | [Yarrow](https://open.spotify.com/track/5uX19CUKo8Yz77Scwx6KZV) | [Rooey](https://open.spotify.com/artist/5y2hfguiOBZAN1WUEyi2cv) | [Yarrow](https://open.spotify.com/album/15MhsVuhpY0BjoUowYVUcZ) | 2:25 | 2022-10-28 |  |
+| [Your Eyes](https://open.spotify.com/track/1kR1zMHBceL0bhbtGnyrkP) | [Akkoro](https://open.spotify.com/artist/7oYEzKdDKAF7DjhsS4nEOt) | [Your Eyes](https://open.spotify.com/album/3koTAiq6tJJg5usPYNiKDf) | 2:06 | 2024-03-22 |  |
 | [yowch](https://open.spotify.com/track/37vowbP7a9faA5I7Mmyjh9) | [flutterboy](https://open.spotify.com/artist/6r72UEvQ44lD1FlI5FXx9G) | [yowch](https://open.spotify.com/album/5HW2MhaI7tVTXJH8kcJ2yO) | 2:10 | 2023-01-06 | 2023-01-18 |
 | [zero to none](https://open.spotify.com/track/0wb7JvyyHS34Hy7o6NQDBA) | [Codename Chinadoll](https://open.spotify.com/artist/1M7I2GYBClRIiT9B72xUTg) | [jazz patterns](https://open.spotify.com/album/0Mj31E62zRp5dBbaMNVrpV) | 1:30 | 2022-05-20 | 2022-06-03 |
 

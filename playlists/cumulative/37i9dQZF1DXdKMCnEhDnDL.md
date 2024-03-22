@@ -4,7 +4,7 @@
 
 > De beste Nederlandse hits van vroeger en nu\. Cover: MEAU
 
-224 songs - 11 hr 34 min
+225 songs - 11 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,6 +41,7 @@
 | [Bailando](https://open.spotify.com/track/1pegjs65Iwuk2IrGGieOYx) | [Jeffrey Heesen](https://open.spotify.com/artist/1kIanYuEXT2fojrZmrLLNp) | [Bailando](https://open.spotify.com/album/6vVNkqg0uf9HTt966hqReK) | 2:43 | 2023-02-24 | 2024-02-14 |
 | [Bassline](https://open.spotify.com/track/3Zehk6s1n9ZBoDKpYRTK7U) | [Antoon](https://open.spotify.com/artist/5sBoNBXFMzoZjgHLbQueeG), [Ronnie Flex](https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl) | [Sliden EP](https://open.spotify.com/album/4DtdhtDmxanQokbOQmpytY) | 2:19 | 2023-09-01 |  |
 | [Beauty & De Brains](https://open.spotify.com/track/20BsfFCTUOwiWzzhsAoKW5) | [Nielson](https://open.spotify.com/artist/5m5Fh8zrb0uHM85qwkIkVT) | [Zo Van Ah Yeah](https://open.spotify.com/album/1A83v4jxWO4VFF8X19FYW2) | 3:08 | 2023-02-24 | 2023-09-15 |
+| [Beetje Gek](https://open.spotify.com/track/6PfpgDQoqEhOfemR7rvsHi) | [BENR](https://open.spotify.com/artist/3lC07j0oFDXJflpeAjo9eZ) | [Beetje Gek](https://open.spotify.com/album/3w2wRMPHsG74O8Tikpg5Dg) | 2:54 | 2024-03-21 |  |
 | [Bieber Van De Kroeg](https://open.spotify.com/track/5V2cXsvFE3VIQp5mYAi3Mn) | [Donnie](https://open.spotify.com/artist/2ylIKKdMukkuprCgY4ZDFE), [Mart Hoogkamer](https://open.spotify.com/artist/6jhluGyF1XVIlfPol7oXqa) | [Bieber Van De Kroeg](https://open.spotify.com/album/1uR0EX3KqVNwVGs5NJJbTQ) | 3:06 | 2023-02-24 | 2024-03-20 |
 | [Blijf Bij Mij](https://open.spotify.com/track/7EyvmcYx7WzeBi2cY9RmIi) | [Ronnie Flex](https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl), [Maan](https://open.spotify.com/artist/5vmwWgrlwCfHm1P0vdDFbU) | [Blijf Bij Mij](https://open.spotify.com/album/57G2Wh7HyPSFw6gcV7DEvu) | 2:59 | 2024-02-13 |  |
 | [Blijf Nog Even](https://open.spotify.com/track/1HjMwU04KY9TEeNG4MRC3S) | [Irene Hin](https://open.spotify.com/artist/1nn5bv6HhgES2y2qXam8ej) | [Blijf Nog Even](https://open.spotify.com/album/51tulVCxklGWd6DXqAtmIZ) | 3:45 | 2023-03-16 |  |
@@ -221,7 +222,7 @@
 | [We doen wat we kunnen \(feat\. Geike\) \- Single Edit](https://open.spotify.com/track/5Bzuagyvt3iOyI7CgNTj9x) | [BLØF](https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB), [Geike](https://open.spotify.com/artist/5mkzx9Hq5mYTx1LZ0CUGiP) | [We doen wat we kunnen \(feat\. Geike\)](https://open.spotify.com/album/6OFRhULTO9UJf1yk7v9XfZ) | 4:00 | 2023-02-24 | 2023-12-11 |
 | [What Are You Waiting For?](https://open.spotify.com/track/3hnFEjPOnP7d3eTxPGpNkX) | [KANE](https://open.spotify.com/artist/7rgKxnnBAsZ7Q04d6jICu6) | [What Are You Waiting For?](https://open.spotify.com/album/1BTeZsZoB5PK480kmZew8t) | 3:59 | 2023-10-05 | 2024-02-14 |
 | [Zeg Maar Niets Meer \- Hazes Is De Basis](https://open.spotify.com/track/4UC728tVjFpohnz0MD1iu9) | [Bente](https://open.spotify.com/artist/4U9nsRTH2mr9L4UXEWqG5e) | [Hazes Is De Basis 4](https://open.spotify.com/album/47QWesQSFbgOTZ3ddb9Zjp) | 2:45 | 2023-02-24 | 2024-02-14 |
-| [Zelfs Je Naam Is Mooi](https://open.spotify.com/track/5RWOzvrzPQnt5Ybqxgddrc) | [Henk Westbroek](https://open.spotify.com/artist/178yD2iAVWr5qYldTaWBA2) | [Westbroek](https://open.spotify.com/album/7nZk9YLd4JRkSzeznk18VL) | 4:29 | 2024-03-19 |  |
+| [Zelfs Je Naam Is Mooi](https://open.spotify.com/track/5RWOzvrzPQnt5Ybqxgddrc) | [Henk Westbroek](https://open.spotify.com/artist/178yD2iAVWr5qYldTaWBA2) | [Westbroek](https://open.spotify.com/album/7nZk9YLd4JRkSzeznk18VL) | 4:29 | 2024-03-19 | 2024-03-22 |
 | [Zij Weet Het \- Studio Versie](https://open.spotify.com/track/0rwf08N6Fm5K57S7e7FJty) | [Tino Martin](https://open.spotify.com/artist/0iVHnv2bQN5iee8J6iCVO4) | [Zij Weet Het \(Studio Versie\)](https://open.spotify.com/album/45DK1JElovyDUaa1VtnMMs) | 4:01 | 2023-02-24 |  |
 | [Zij Wil Mij](https://open.spotify.com/track/3Falq0rEoroeaZqNp9UDIY) | [FLEMMING](https://open.spotify.com/artist/0YLlTW9rW7ZCy2cA2u3RYk) | [Zij Wil Mij](https://open.spotify.com/album/0NIlQZDDCGRMDuZbujA2ZR) | 2:36 | 2023-02-24 | 2023-05-16 |
 | [Zo Kan Het Dus Ook](https://open.spotify.com/track/0ZDkMMdWTw9ykmmIGUVnrS) | [Maan](https://open.spotify.com/artist/5vmwWgrlwCfHm1P0vdDFbU) | [Zo Kan Het Dus Ook](https://open.spotify.com/album/7HC6X1dkpJzDMwrrVlSHzk) | 2:34 | 2023-02-24 |  |

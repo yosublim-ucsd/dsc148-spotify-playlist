@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdOhsna07Pvz.md) - [plain]
 
 > O balanço é certo: a sua festa de brasilidades tá aqui!
 
-[Spotify](https://open.spotify.com/user/spotify) - 70,789 likes - 70 songs - 4 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 70,855 likes - 70 songs - 4 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,9 +31,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdOhsna07Pvz.md) - [plain]
 | 21 | [Que Beleza](https://open.spotify.com/track/5flYFbJweqUHlQjle7uRlI) | [Tim Maia](https://open.spotify.com/artist/0jOs0wnXCu1bGGP7kh5uIu) | [Que Beleza](https://open.spotify.com/album/7q8wtnNTBNzKQswMJTAluK) | 3:28 |
 | 22 | [Lilás](https://open.spotify.com/track/0V0DEGw7N5KlubvARp4VOm) | [Djavan](https://open.spotify.com/artist/5rrmaoBXZ7Jcs4Qb77j0YA) | [Lilás](https://open.spotify.com/album/1FbOGgnq17jjkK5CqdgzqX) | 4:43 |
 | 23 | [Samba da Bênção](https://open.spotify.com/track/2moGHNaU8a4j1iowyOiYnF) | [Maria Bethânia](https://open.spotify.com/artist/3f5VCwd57gZsqMad28jyLV) | [Que Falta Você Me Faz](https://open.spotify.com/album/32OEAAkXqmtVjP1ZjCopWs) | 3:02 |
-| 24 | [Timoneiro](https://open.spotify.com/track/3C8ULtjiUmTtcpE7QJBZ7G) | [Paulinho Da Viola](https://open.spotify.com/artist/0t2xdTxRXnffsmpMamH8Ls) | [Bebadosamba](https://open.spotify.com/album/57x8KvcGMec2o8XTwBYEwf) | 3:25 |
+| 24 | [Não Me Entrego Pros Caretas](https://open.spotify.com/track/6pok4kgIWSBFIoPZeKrv7L) | [Lamparina](https://open.spotify.com/artist/7xGwSsxEISjWZGbaXiLN8z) | [Não Me Entrego Pros Caretas](https://open.spotify.com/album/560jeL82N1TmKINoprN8P2) | 3:16 |
 | 25 | [Toda Menina Baiana](https://open.spotify.com/track/0ENvhTTww1MVOulrzuxSmu) | [Gilberto Gil](https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr) | [Realce](https://open.spotify.com/album/7dBoyhnlxf1DvmWxtgQPLr) | 3:46 |
-| 26 | [Não Me Entrego Pros Caretas](https://open.spotify.com/track/6pok4kgIWSBFIoPZeKrv7L) | [Lamparina](https://open.spotify.com/artist/7xGwSsxEISjWZGbaXiLN8z) | [Não Me Entrego Pros Caretas](https://open.spotify.com/album/560jeL82N1TmKINoprN8P2) | 3:16 |
+| 26 | [Timoneiro](https://open.spotify.com/track/3C8ULtjiUmTtcpE7QJBZ7G) | [Paulinho Da Viola](https://open.spotify.com/artist/0t2xdTxRXnffsmpMamH8Ls) | [Bebadosamba](https://open.spotify.com/album/57x8KvcGMec2o8XTwBYEwf) | 3:25 |
 | 27 | [Na Estrada](https://open.spotify.com/track/56CE8SdkpSl9OKbF14FALz) | [Marisa Monte](https://open.spotify.com/artist/0rSTXALHu0EKAawPLBdODH) | [Verde Anil Amarelo Cor de Rosa e Carvão](https://open.spotify.com/album/26OYzOWjelS4qNuP27Ac6i) | 3:34 |
 | 28 | [Lindo Lago Do Amor](https://open.spotify.com/track/0dsn6r2gtpmtcsdDHsjFes) | [Gonzaguinha](https://open.spotify.com/artist/1LOFaxDBvn3YuvarTldGAe) | [Grávido](https://open.spotify.com/album/2sTdX5IvSvf8cZLUcnAlc0) | 4:11 |
 | 29 | [Nem Vem Que Não Tem](https://open.spotify.com/track/0oL8aqq5iRE5SnxdxJ6FbK) | [Wilson Simonal](https://open.spotify.com/artist/6DqFCzjARUV3xH9meu3Bya) | [Alegria, Alegria!!!](https://open.spotify.com/album/2dSvUYyuZGDO2yVYXuhSPh) | 2:32 |
@@ -50,13 +50,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdOhsna07Pvz.md) - [plain]
 | 40 | [À Francesa](https://open.spotify.com/track/0wYqEYGKhZHfc92SLHbD4J) | [Marina Lima](https://open.spotify.com/artist/28IcRPf399RPv4TUiZ7uol) | [Próxima Parada](https://open.spotify.com/album/15ghaSjLDsOeeXlALfCfrP) | 4:07 |
 | 41 | [Conversa Fiada](https://open.spotify.com/track/6r4NNOFLKjjsqdK6fq4qoY) | [Lamparina](https://open.spotify.com/artist/7xGwSsxEISjWZGbaXiLN8z) | [Conversa Fiada](https://open.spotify.com/album/2V0ZVQuPdzePp6hO19WFWm) | 3:16 |
 | 42 | [Canto Das Três Raças](https://open.spotify.com/track/06Q1W3dLvNk5Gawy7piDu3) | [Clara Nunes](https://open.spotify.com/artist/6UKz2oYWzE0ZBnciztCown) | [Retratos](https://open.spotify.com/album/1zIUnMFn76fpxrrTtAZ4rX) | 4:21 |
-| 43 | [Vaca Profana](https://open.spotify.com/track/1viMg0yGmgWy1EeR7CNeyF) | [Gal Costa](https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD) | [Gal Canta Caetano](https://open.spotify.com/album/2881CXCKtljZRNdKMerwYV) | 4:44 |
-| 44 | [Chega Mais](https://open.spotify.com/track/4DIabg0zSDn6xoq810Spqn) | [Rita Lee](https://open.spotify.com/artist/7dnT2FUXhjirperXaH22IJ), [Roberto De Carvalho](https://open.spotify.com/artist/4w4ll81d0dR8gz989jjko1) | [Rita Lee](https://open.spotify.com/album/1WN3eZOVfULIjZfxdsfoMO) | 3:54 |
+| 43 | [Chega Mais](https://open.spotify.com/track/4DIabg0zSDn6xoq810Spqn) | [Rita Lee](https://open.spotify.com/artist/7dnT2FUXhjirperXaH22IJ), [Roberto De Carvalho](https://open.spotify.com/artist/4w4ll81d0dR8gz989jjko1) | [Rita Lee](https://open.spotify.com/album/1WN3eZOVfULIjZfxdsfoMO) | 3:54 |
+| 44 | [Vaca Profana](https://open.spotify.com/track/1viMg0yGmgWy1EeR7CNeyF) | [Gal Costa](https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD) | [Gal Canta Caetano](https://open.spotify.com/album/2881CXCKtljZRNdKMerwYV) | 4:44 |
 | 45 | [Pintura íntima \- Compacto](https://open.spotify.com/track/0kocdEM8L4eBJFmfhrGoru) | [Kid Abelha](https://open.spotify.com/artist/4bOZtegYNmYOe3gMgPtt0H) | [2 é Demais](https://open.spotify.com/album/7tgo3DT9js4ycqryQWJ7dG) | 4:27 |
-| 46 | [Meu Esquema](https://open.spotify.com/track/5hO3HgwIygwqjkGsw6wdP3) | [Mundo Livre S/A](https://open.spotify.com/artist/7dLXGClVfy10Ug57dZE0iC) | [Por Pouco \(Bit Box\)](https://open.spotify.com/album/0h4xTADMMdMSOQraeakiEC) | 4:19 |
-| 47 | [A Minha Menina](https://open.spotify.com/track/0lGEWOZvMexZFXckBJxlVO) | [Os Mutantes](https://open.spotify.com/artist/5C0gCCG8N5Dh5dZytIgzLX) | ["Os Mutantes"](https://open.spotify.com/album/0RBkIFbQy91qv8Tqja20og) | 4:44 |
-| 48 | [Sossego](https://open.spotify.com/track/08XDypkeVbvjZkVBEkORmT) | [Tim Maia](https://open.spotify.com/artist/0jOs0wnXCu1bGGP7kh5uIu) | [Brasilian Fiesta](https://open.spotify.com/album/2YVjdkQrpF8tCDA69jql8t) | 3:42 |
-| 49 | [Esperar Pra Ver](https://open.spotify.com/track/7baNYnxas4NlQXcoj6kSmp) | [Poolside](https://open.spotify.com/artist/5szdY7KaSi7epwyffrbV8c), [Fatnotronic](https://open.spotify.com/artist/5evxKull73cP7iadarMC99) | [Brazilian Compilation Series, Vol\. 2](https://open.spotify.com/album/4XBYRpTCJiwgBPbtjMFP1o) | 5:00 |
+| 46 | [A Minha Menina](https://open.spotify.com/track/0lGEWOZvMexZFXckBJxlVO) | [Os Mutantes](https://open.spotify.com/artist/5C0gCCG8N5Dh5dZytIgzLX) | ["Os Mutantes"](https://open.spotify.com/album/0RBkIFbQy91qv8Tqja20og) | 4:44 |
+| 47 | [Meu Esquema](https://open.spotify.com/track/5hO3HgwIygwqjkGsw6wdP3) | [Mundo Livre S/A](https://open.spotify.com/artist/7dLXGClVfy10Ug57dZE0iC) | [Por Pouco \(Bit Box\)](https://open.spotify.com/album/0h4xTADMMdMSOQraeakiEC) | 4:19 |
+| 48 | [Esperar Pra Ver](https://open.spotify.com/track/7baNYnxas4NlQXcoj6kSmp) | [Poolside](https://open.spotify.com/artist/5szdY7KaSi7epwyffrbV8c), [Fatnotronic](https://open.spotify.com/artist/5evxKull73cP7iadarMC99) | [Brazilian Compilation Series, Vol\. 2](https://open.spotify.com/album/4XBYRpTCJiwgBPbtjMFP1o) | 5:00 |
+| 49 | [Sossego](https://open.spotify.com/track/08XDypkeVbvjZkVBEkORmT) | [Tim Maia](https://open.spotify.com/artist/0jOs0wnXCu1bGGP7kh5uIu) | [Brasilian Fiesta](https://open.spotify.com/album/2YVjdkQrpF8tCDA69jql8t) | 3:42 |
 | 50 | [Alegria, Alegria \- Remastered 2006](https://open.spotify.com/track/0aoQV1TuaTrcpJaMfJ3wgj) | [Caetano Veloso](https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ) | [Caetano Veloso](https://open.spotify.com/album/3idXLXoZDLQyxAHF97yguf) | 2:48 |
 | 51 | [Olhos Coloridos](https://open.spotify.com/track/45XopGhwYSgooiewaZNsSd) | [Sandra De Sá](https://open.spotify.com/artist/5Rxz1EE4Jj08mu40vlrqHv) | [Sandra de Sá \- 1982](https://open.spotify.com/album/7wB73SnTyYvV1PV0XNP9ol) | 4:27 |
 | 52 | [Festa de Umbanda](https://open.spotify.com/track/4auEly6WQF3aHdaP6CGqza) | [Martinho Da Vila](https://open.spotify.com/artist/6rM2yY0GnVcOHMU5GD3y9E) | [Martinho da Vila](https://open.spotify.com/album/6ime25jnzjF1foE0e5RCYB) | 3:54 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdOhsna07Pvz.md) - [plain]
 | 69 | [Besta é Tu](https://open.spotify.com/track/79Lam1bAWszDiRLTH2V4ue) | [Novos Baianos](https://open.spotify.com/artist/2ohBjgFT9V0LRDWO2wF9DJ) | [Acabou Chorare](https://open.spotify.com/album/5pIlMNPZh4D9iJSoCfMzGi) | 4:24 |
 | 70 | [Pequim](https://open.spotify.com/track/5ns6G2OgmkJLc5iti69ute) | [Lamparina](https://open.spotify.com/artist/7xGwSsxEISjWZGbaXiLN8z), [ÀTTØØXXÁ](https://open.spotify.com/artist/43jyzP3h86XvtC8FQm4ow3) | [Pequim](https://open.spotify.com/album/2P0MrtKOyBigDAn4JhYafz) | 3:18 |
 
-Snapshot ID: `MCxiN2FiNTJjYzNiYzBjN2YwZTIyMDhhZGEzOGU4ZDQwOTA5NjI1MDc2`
+Snapshot ID: `MCxlMmY0MjMwNjI4Nzg5NjgyOWQ2MmM1NTZmNWZjYTk1OWI5YjBjZGYx`

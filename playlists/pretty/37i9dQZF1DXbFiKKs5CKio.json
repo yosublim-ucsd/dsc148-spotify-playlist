@@ -1,12 +1,12 @@
 {
   "description": "Muito romance, groove suave e R&B feitos no Brasil. ",
-  "num_followers": 55826,
+  "num_followers": 55873,
   "original_name": "su\u00edte.",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlNWRkYzYyMmNiM2ZjMjIzNDk3MjQ3YmViOWQzYWRhZDY1MGZkZDQx",
+  "snapshot_id": "MCxkODYyYzZjNGY0MDQ0NmNjYzgzZjcwYTBlYjkxYzQ5ZWM2Mzk1MjNj",
   "tracks": [
     {
       "added_at": "2024-03-08 03:01:00",
@@ -367,6 +367,22 @@
     {
       "added_at": "2024-03-08 03:01:00",
       "album": {
+        "name": "\u00cdndigo (Te Venero)",
+        "url": "https://open.spotify.com/album/31GNuBi7EX93NbUToTnnlQ"
+      },
+      "artists": [
+        {
+          "name": "Aydan",
+          "url": "https://open.spotify.com/artist/6fKyodrAgP9ewRR1mGgSmU"
+        }
+      ],
+      "duration_ms": 194137,
+      "name": "\u00cdndigo (Te Venero)",
+      "url": "https://open.spotify.com/track/3AV0jc5PIqCHIjxeGsojhO"
+    },
+    {
+      "added_at": "2024-03-08 03:01:00",
+      "album": {
         "name": "Ouroboros",
         "url": "https://open.spotify.com/album/32oVldbmEaDm7yGBqlqtLU"
       },
@@ -383,22 +399,6 @@
       "duration_ms": 152706,
       "name": "Doses",
       "url": "https://open.spotify.com/track/2hNimeRJSfXUunq4gEsQGa"
-    },
-    {
-      "added_at": "2024-03-08 03:01:00",
-      "album": {
-        "name": "\u00cdndigo (Te Venero)",
-        "url": "https://open.spotify.com/album/31GNuBi7EX93NbUToTnnlQ"
-      },
-      "artists": [
-        {
-          "name": "Aydan",
-          "url": "https://open.spotify.com/artist/6fKyodrAgP9ewRR1mGgSmU"
-        }
-      ],
-      "duration_ms": 194137,
-      "name": "\u00cdndigo (Te Venero)",
-      "url": "https://open.spotify.com/track/3AV0jc5PIqCHIjxeGsojhO"
     },
     {
       "added_at": "2024-03-08 03:01:00",
@@ -591,22 +591,6 @@
     {
       "added_at": "2024-03-08 03:01:00",
       "album": {
-        "name": "DEJAVU PRIMAVERA",
-        "url": "https://open.spotify.com/album/7wqRDsVsoKn8UNtr1nClFs"
-      },
-      "artists": [
-        {
-          "name": "N9NE",
-          "url": "https://open.spotify.com/artist/15alwx15s1tZ2Gl9zF6Abv"
-        }
-      ],
-      "duration_ms": 171500,
-      "name": "DESLIGA O TELEFONE",
-      "url": "https://open.spotify.com/track/3rDOCyEn7PKiq2gykUphR9"
-    },
-    {
-      "added_at": "2024-03-08 03:01:00",
-      "album": {
         "name": "93",
         "url": "https://open.spotify.com/album/2sbYShIsSsFnm62JKjTqUJ"
       },
@@ -623,18 +607,18 @@
     {
       "added_at": "2024-03-08 03:01:00",
       "album": {
-        "name": "Candeia",
-        "url": "https://open.spotify.com/album/3gqDDktxBdBRdZVEPTHqq9"
+        "name": "DEJAVU PRIMAVERA",
+        "url": "https://open.spotify.com/album/7wqRDsVsoKn8UNtr1nClFs"
       },
       "artists": [
         {
-          "name": "Mericia",
-          "url": "https://open.spotify.com/artist/2rbsGwF4WD9SlCqjo0Q2LS"
+          "name": "N9NE",
+          "url": "https://open.spotify.com/artist/15alwx15s1tZ2Gl9zF6Abv"
         }
       ],
-      "duration_ms": 199186,
-      "name": "Candeia",
-      "url": "https://open.spotify.com/track/7v1TZLX1Xvwv3TtkiQBQ7v"
+      "duration_ms": 171500,
+      "name": "DESLIGA O TELEFONE",
+      "url": "https://open.spotify.com/track/3rDOCyEn7PKiq2gykUphR9"
     },
     {
       "added_at": "2024-03-08 03:01:00",
@@ -659,6 +643,22 @@
     {
       "added_at": "2024-03-08 03:01:00",
       "album": {
+        "name": "Candeia",
+        "url": "https://open.spotify.com/album/3gqDDktxBdBRdZVEPTHqq9"
+      },
+      "artists": [
+        {
+          "name": "Mericia",
+          "url": "https://open.spotify.com/artist/2rbsGwF4WD9SlCqjo0Q2LS"
+        }
+      ],
+      "duration_ms": 199186,
+      "name": "Candeia",
+      "url": "https://open.spotify.com/track/7v1TZLX1Xvwv3TtkiQBQ7v"
+    },
+    {
+      "added_at": "2024-03-08 03:01:00",
+      "album": {
         "name": "That's Why I Love You",
         "url": "https://open.spotify.com/album/0ClBTyGt24uEfusn603KEV"
       },
@@ -675,22 +675,6 @@
       "duration_ms": 218000,
       "name": "That's Why I Love You",
       "url": "https://open.spotify.com/track/48cZ0Fo1zfYjBUPw5m8xjv"
-    },
-    {
-      "added_at": "2024-03-08 03:01:00",
-      "album": {
-        "name": "Rosas & Violetas fa\u00e7o um buqu\u00ea. Eu quero queimar um ******* com voc\u00ea.",
-        "url": "https://open.spotify.com/album/0k2BGd2ImMmPcGFLIa5bOg"
-      },
-      "artists": [
-        {
-          "name": "Jun Alcan",
-          "url": "https://open.spotify.com/artist/7CPlbqxyWd17sV44Morx3V"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "Tempo Pra Pensar",
-      "url": "https://open.spotify.com/track/0KfUCubX9qFf58eHJOy5o7"
     },
     {
       "added_at": "2024-03-08 03:01:00",
@@ -715,6 +699,22 @@
       "duration_ms": 160024,
       "name": "n \u00e9 vc, sou eu",
       "url": "https://open.spotify.com/track/2Q4G9vjRYdgy4zxgHMGc23"
+    },
+    {
+      "added_at": "2024-03-08 03:01:00",
+      "album": {
+        "name": "Rosas & Violetas fa\u00e7o um buqu\u00ea. Eu quero queimar um ******* com voc\u00ea.",
+        "url": "https://open.spotify.com/album/0k2BGd2ImMmPcGFLIa5bOg"
+      },
+      "artists": [
+        {
+          "name": "Jun Alcan",
+          "url": "https://open.spotify.com/artist/7CPlbqxyWd17sV44Morx3V"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "Tempo Pra Pensar",
+      "url": "https://open.spotify.com/track/0KfUCubX9qFf58eHJOy5o7"
     },
     {
       "added_at": "2024-03-08 03:01:00",
@@ -755,6 +755,22 @@
     {
       "added_at": "2024-03-08 03:01:00",
       "album": {
+        "name": "Quando acordar",
+        "url": "https://open.spotify.com/album/0UiVti5t3WVEc3ktyTdFmG"
+      },
+      "artists": [
+        {
+          "name": "THAMI",
+          "url": "https://open.spotify.com/artist/6fupiyOvfbI12eijANkwZL"
+        }
+      ],
+      "duration_ms": 200316,
+      "name": "Quando acordar",
+      "url": "https://open.spotify.com/track/3MHamwkZ1ywudnPR0GzhSZ"
+    },
+    {
+      "added_at": "2024-03-08 03:01:00",
+      "album": {
         "name": "Canela e hortel\u00e3",
         "url": "https://open.spotify.com/album/2EEYfJdXVN07Al19zZ9WlQ"
       },
@@ -771,22 +787,6 @@
       "duration_ms": 212571,
       "name": "Canela e hortel\u00e3",
       "url": "https://open.spotify.com/track/2nEp5iuVr51yVjaepJjAOW"
-    },
-    {
-      "added_at": "2024-03-08 03:01:00",
-      "album": {
-        "name": "Quando acordar",
-        "url": "https://open.spotify.com/album/0UiVti5t3WVEc3ktyTdFmG"
-      },
-      "artists": [
-        {
-          "name": "THAMI",
-          "url": "https://open.spotify.com/artist/6fupiyOvfbI12eijANkwZL"
-        }
-      ],
-      "duration_ms": 200316,
-      "name": "Quando acordar",
-      "url": "https://open.spotify.com/track/3MHamwkZ1ywudnPR0GzhSZ"
     },
     {
       "added_at": "2024-03-08 03:01:00",
@@ -883,22 +883,6 @@
     {
       "added_at": "2024-03-08 03:01:00",
       "album": {
-        "name": "Tra\u00e7os",
-        "url": "https://open.spotify.com/album/7AhmqmOoRekIWyfyBeFb3L"
-      },
-      "artists": [
-        {
-          "name": "Pedro Stone",
-          "url": "https://open.spotify.com/artist/1CgqhSx6rmHQwt0fLD9yPM"
-        }
-      ],
-      "duration_ms": 199333,
-      "name": "Tra\u00e7os",
-      "url": "https://open.spotify.com/track/3ks3Bzqxi4wagkBqEHmfxC"
-    },
-    {
-      "added_at": "2024-03-08 03:01:00",
-      "album": {
         "name": "reconectar",
         "url": "https://open.spotify.com/album/0xOIStBgV4x85AeYWrtXmI"
       },
@@ -915,6 +899,22 @@
       "duration_ms": 168275,
       "name": "reconectar",
       "url": "https://open.spotify.com/track/3weVtoWNEdLnqrJ4qrw6G2"
+    },
+    {
+      "added_at": "2024-03-08 03:01:00",
+      "album": {
+        "name": "Tra\u00e7os",
+        "url": "https://open.spotify.com/album/7AhmqmOoRekIWyfyBeFb3L"
+      },
+      "artists": [
+        {
+          "name": "Pedro Stone",
+          "url": "https://open.spotify.com/artist/1CgqhSx6rmHQwt0fLD9yPM"
+        }
+      ],
+      "duration_ms": 199333,
+      "name": "Tra\u00e7os",
+      "url": "https://open.spotify.com/track/3ks3Bzqxi4wagkBqEHmfxC"
     },
     {
       "added_at": "2024-03-08 03:01:00",

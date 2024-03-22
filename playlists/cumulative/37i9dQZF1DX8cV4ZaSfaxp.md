@@ -102,6 +102,7 @@
 | [Faded Love](https://open.spotify.com/track/0atlweNQsTyvhaXLJZvyba) | [Wonder Girls](https://open.spotify.com/artist/3Cv2vi3WTl8VZOTdrBkKdM) | [REBOOT](https://open.spotify.com/album/3in3RzViPTp3fZo51rmJoB) | 3:53 | 2023-07-13 |  |
 | [Fairy of Shampoo](https://open.spotify.com/track/5IFCL8jUbhv1nP3cPuda7n) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [The Dream Chapter: ETERNITY](https://open.spotify.com/album/2fL64wNyyZ4BwwRImYeora) | 4:27 | 2022-05-11 | 2022-07-29 |
 | [Fairy of Shampoo](https://open.spotify.com/track/5JXpZcc3CeQaC6vAF1iaV5) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [The Dream Chapter: ETERNITY](https://open.spotify.com/album/4jTVGyo4fSSFniFPbfr0bW) | 4:27 | 2022-07-22 |  |
+| [Fantasy](https://open.spotify.com/track/42XyvFHOonb6YzyyJQLkrT) | [Luli Lee](https://open.spotify.com/artist/3h4p2PKHb9JejBCHmWlthK) | [Fantasy](https://open.spotify.com/album/5l71P115BUUYgTjJcafrNj) | 3:30 | 2022-09-05 |  |
 | [Fantasy](https://open.spotify.com/track/6dCukzSNFujNeSHe8KnKnV) | [Luli Lee](https://open.spotify.com/artist/3h4p2PKHb9JejBCHmWlthK) | [Fantasy](https://open.spotify.com/album/4Kek3o8zZRFpaNXyIMwJWp) | 3:30 | 2022-07-22 | 2022-11-03 |
 | [Fantasy 환상](https://open.spotify.com/track/3LvH2lQUntKlOnVpeleN6A) | [Luli Lee](https://open.spotify.com/artist/3h4p2PKHb9JejBCHmWlthK) | [Fantasy 환상](https://open.spotify.com/album/0x3N3cCTdp0G4bVC9douOO) | 3:30 | 2022-05-11 | 2022-07-29 |
 | [feelight!](https://open.spotify.com/track/2f7WNinHXf9m54ge3FqMkk) | [Limit](https://open.spotify.com/artist/6wpqEEzNtOeTiOiOspkgy1) | [feelight!](https://open.spotify.com/album/3ydzhTdZD5l7xLGWSDawpj) | 3:05 | 2022-07-04 | 2022-08-22 |
@@ -325,6 +326,5 @@
 | [우리 둘만 특별하게](https://open.spotify.com/track/7k5i9hzO4rq5Qk3NOTdjo2) | [Sugarbowl](https://open.spotify.com/artist/0SzEYg3WelMs62HakSDhPH) | [lovers 4/6](https://open.spotify.com/album/2heqZChEg4UgSBjLYjQ0UW) | 3:37 | 2022-06-09 | 2022-06-30 |
 | [이 순간 Remember](https://open.spotify.com/track/5RJWYPiBiEtqKDWLfHHr9B) | [Wonder Girls](https://open.spotify.com/artist/3Cv2vi3WTl8VZOTdrBkKdM) | [REBOOT](https://open.spotify.com/album/3qVG71ED0PeWluJVoJaROJ) | 3:45 | 2022-05-11 | 2022-07-26 |
 | [코코넛 러브 Coconut Love](https://open.spotify.com/track/5f1RLYrL4272Gm5lHxuLFD) | [Seoulmoon](https://open.spotify.com/artist/0xsCXMIcnrXhRiNL11HlxP) | [코코넛 러브 Coconut Love](https://open.spotify.com/album/2TDl3weGAb7UUd8xf5CyYk) | 3:14 | 2022-09-05 | 2023-10-05 |
-| [환상 Fantasy](https://open.spotify.com/track/42XyvFHOonb6YzyyJQLkrT) | [Luli Lee](https://open.spotify.com/artist/3h4p2PKHb9JejBCHmWlthK) | [환상 Fantasy](https://open.spotify.com/album/5l71P115BUUYgTjJcafrNj) | 3:30 | 2022-09-05 |  |
 
 \*This playlist was first scraped on 2022-05-15. Prior content cannot be recovered.

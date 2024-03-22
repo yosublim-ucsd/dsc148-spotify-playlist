@@ -4,7 +4,7 @@
 
 > Groovy sounds from around the world.
 
-668 songs - 1 day 23 hr 56 min
+669 songs - 1 day 23 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -630,7 +630,7 @@
 | [Verde](https://open.spotify.com/track/6sqG1sGiZ5xy58TDkeo9rS) | [VHOOR](https://open.spotify.com/artist/0aEDa47F4RWuk4Udm0SEoH) | [Ritmo](https://open.spotify.com/album/00QDIAtrKiS45HPy6w2tLB) | 3:22 | 2021-10-06 |  |
 | [Vision 9](https://open.spotify.com/track/5UEvuAF0uXVHZ2hIY0uzhH) | [STR4TA](https://open.spotify.com/artist/5HintvHxi0uDBgNaRKWZOt) | [Vision 9](https://open.spotify.com/album/3BpxJkpmH9yNYqLLcshcU9) | 7:19 | 2021-10-06 | 2022-07-28 |
 | [Vlinders](https://open.spotify.com/track/03jcvnZBur8sF2pZ3A1Ni6) | [KOFFIE](https://open.spotify.com/artist/1RVrNwHf4vDvBALBS2W5xA) | [kokon](https://open.spotify.com/album/2zckcXgFYNW53mXVfKlwLK) | 2:43 | 2023-05-22 | 2023-07-25 |
-| [Voulez Vous](https://open.spotify.com/track/4c0S9uhGublmkcgeUhC1yT) | [Cavolo Nero](https://open.spotify.com/artist/5ewSUyw8Gl9p38R1uxHuJU) | [Voulez Vous](https://open.spotify.com/album/5yqNOJhoE5q6NLqBNa6Cg8) | 3:55 | 2024-02-09 |  |
+| [Voulez Vous](https://open.spotify.com/track/4c0S9uhGublmkcgeUhC1yT) | [Cavolo Nero](https://open.spotify.com/artist/5ewSUyw8Gl9p38R1uxHuJU) | [Voulez Vous](https://open.spotify.com/album/5yqNOJhoE5q6NLqBNa6Cg8) | 3:55 | 2024-02-09 | 2024-03-22 |
 | [Voy de Aquí Pa'allá](https://open.spotify.com/track/34Tcii0RhnwUaWc5tupCoZ) | [Centavrvs](https://open.spotify.com/artist/2hM7wQp7sHLgMTDpxteBWo) | [Levante la Mano](https://open.spotify.com/album/2iQK6aPZQDGsoayymfySUJ) | 3:08 | 2022-03-11 | 2022-04-15 |
 | [Vérité](https://open.spotify.com/track/5LFckjiAEHV0Ee3WvgpNns) | [Cinnaman](https://open.spotify.com/artist/2UHOxilPkRsyFp4EQu8Sq4), [Oko Ebombo](https://open.spotify.com/artist/0nxkDLU7KQX931VkQqaGwJ) | [Kingfisher](https://open.spotify.com/album/2HASBznAXZVZpBoaUb4ooF) | 3:50 | 2021-10-06 | 2022-07-28 |
 | [Waile](https://open.spotify.com/track/2SQ1RHD0v47oggTFmR68q1) | [WITCH](https://open.spotify.com/artist/0LMkPoi2xIgpOPUSJMftqM) | [Waile](https://open.spotify.com/album/2cYQVweVo4ZuMgIB40YRxl) | 5:15 | 2022-09-30 | 2022-11-22 |
@@ -638,6 +638,7 @@
 | [Watany Al Kabir](https://open.spotify.com/track/4Uompvio1rSmz6geQU9Pkl) | [Ibrahim Hesnawi](https://open.spotify.com/artist/6tPa6NxEdaNHWKupImT46F) | [The Father of Libyan Reggae \(Habibi Funk 024\)](https://open.spotify.com/album/0SmSMo59rx6TuI0B8lsQuZ) | 5:44 | 2023-11-13 |  |
 | [Watch me Dance](https://open.spotify.com/track/0k6HX2fPPzis023sE7qRGl) | [The Architect](https://open.spotify.com/artist/6HzVTgf7SWVWNo93bT5TEv) | [Watch me Dance](https://open.spotify.com/album/3kIrTLMiV5lbcZ6Dne5AvZ) | 3:22 | 2021-10-06 | 2022-04-21 |
 | [Water of Life](https://open.spotify.com/track/2kT05IUIBA0xsDfxphTiV1) | [Maajo](https://open.spotify.com/artist/1CHnBSP2xS4bRyHRenc5aO), [Waina](https://open.spotify.com/artist/1uqZL2dlgnS2JDtX0F8s4i) | [Water of Life](https://open.spotify.com/album/5yEGMv9neQw6QaCgKa8NgZ) | 5:04 | 2024-01-05 | 2024-03-06 |
+| [Water Tanks](https://open.spotify.com/track/26O7Zdco6Q7lapBL6btPML) | [I Hate My Village](https://open.spotify.com/artist/7eXKbj6KaS8vlLeF0IVgX7) | [Water Tanks](https://open.spotify.com/album/0QIwmiiCRqmXKpcNUlRQKh) | 2:32 | 2024-03-21 |  |
 | [We Give Thanks](https://open.spotify.com/track/1jcd0ZDms179eAAohF6IVz) | [Kokoroko](https://open.spotify.com/artist/3u9rbdcmA6CxjxOAkjaeFr) | [We Give Thanks](https://open.spotify.com/album/0Z5523HDV8PzT0Ea3I2IDb) | 3:40 | 2022-04-07 | 2022-07-29 |
 | [We Give Thanks](https://open.spotify.com/track/4eYtBs2OYlnKbGRsHnAwWN) | [Kokoroko](https://open.spotify.com/artist/3u9rbdcmA6CxjxOAkjaeFr) | [We Give Thanks](https://open.spotify.com/album/5R7v0oLGY2reMD4GkKpdqq) | 3:40 | 2022-08-08 | 2022-08-10 |
 | [We Give Thanks](https://open.spotify.com/track/6clBGIQRBtCnmMGeHM2g75) | [Kokoroko](https://open.spotify.com/artist/3u9rbdcmA6CxjxOAkjaeFr) | [Could We Be More](https://open.spotify.com/album/2EN95hEamtoztxIF6WATgZ) | 3:40 | 2022-08-08 | 2022-09-01 |

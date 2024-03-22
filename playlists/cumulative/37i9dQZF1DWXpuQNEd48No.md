@@ -4,7 +4,7 @@
 
 > Yo Hai Haryanvi Hip\-Hop! Cover: Dhanda Nyoliwala
 
-200 songs - 10 hr 34 min
+201 songs - 10 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -172,8 +172,9 @@
 | [Red Face](https://open.spotify.com/track/2vcOf6FPBKpc9RFnVLPd4j) | [Amit Saini Rohtakiya](https://open.spotify.com/artist/4d8PlD50b5CG0eIBY6jm0b) | [Red Face](https://open.spotify.com/album/2brsGQtXM1iNEBSwNUaZcf) | 3:19 | 2023-12-14 |  |
 | [Rolex](https://open.spotify.com/track/4Ox61ir1wrVz4RWunkCkgL) | [Amar Kharkiya](https://open.spotify.com/artist/2D0eJe0om5jkhQOR7jASIg), [Jaypee](https://open.spotify.com/artist/1zHyfn1TTwcc2sebIchkMk) | [Rolex](https://open.spotify.com/album/7qJ2MwBYs1zEa0UWX9l5bE) | 2:20 | 2023-04-03 | 2023-04-29 |
 | [Ruffian](https://open.spotify.com/track/3w2UMPNhlpyHjf4g4YxhmX) | [Dhanda Nyoliwala](https://open.spotify.com/artist/2rN8LHqK4TBI7y3d9POvJb) | [Ruffian](https://open.spotify.com/album/3Lx35DFWiKiT8o4jvgTAMP) | 2:50 | 2023-03-28 | 2023-09-28 |
-| [Russian](https://open.spotify.com/track/58iP9XZQkQSQWqx6NATm4l) | [Guru Gera](https://open.spotify.com/artist/5MobrF9MFJPxc05F8p3Boa), [Jumbo](https://open.spotify.com/artist/5dMNUgOiKAXFJYyeEFGZBz) | [Russian](https://open.spotify.com/album/5TN4kHTjG7cqD21DsQ8kFZ) | 2:28 | 2024-02-06 |  |
+| [Russian](https://open.spotify.com/track/58iP9XZQkQSQWqx6NATm4l) | [Guru Gera](https://open.spotify.com/artist/5MobrF9MFJPxc05F8p3Boa), [Jumbo](https://open.spotify.com/artist/5dMNUgOiKAXFJYyeEFGZBz) | [Russian](https://open.spotify.com/album/5TN4kHTjG7cqD21DsQ8kFZ) | 2:28 | 2024-02-06 | 2024-03-22 |
 | [Ruthless Jaat](https://open.spotify.com/track/4sgWquR4oC7v1Tm211qSMq) | [BigMoney](https://open.spotify.com/artist/1cRdqU4s5nAUZecL49dXPE) | [Ruthless Jaat](https://open.spotify.com/album/1OjIJ541qftk8kZFazYAT2) | 2:48 | 2023-12-22 |  |
+| [Rx 100 Part\-3](https://open.spotify.com/track/0KEjwwFOhI3l3bcenOvzjJ) | [Raj Mawer](https://open.spotify.com/artist/2ygqIXEM1r7RaEn9PrbML2), [Triminati Records](https://open.spotify.com/artist/5q39iK8eIGRZgTaazDgHG8) | [Rx 100 Part\-3](https://open.spotify.com/album/5iVn83U9dIuxGftEzw1a5L) | 3:48 | 2024-03-21 |  |
 | [Saat Samunder](https://open.spotify.com/track/40PqdL77XGJjupj7ZP5YQ4) | [Khatri](https://open.spotify.com/artist/4FQHBinqrB0cMp6SaS06rB), [Upasna Gahlot](https://open.spotify.com/artist/74TLOJfpTu8VtgXi9df557), [Pranjal Dahiya](https://open.spotify.com/artist/5TF8wtgrYplT0tJFjoV9Me) | [Saat Samunder](https://open.spotify.com/album/4mdHqn673uePpSOYKA8423) | 2:46 | 2023-04-03 | 2023-06-06 |
 | [Sajan Ji](https://open.spotify.com/track/5JmDKw06xkMXfS2HNqTFLg) | [Manish Rawal](https://open.spotify.com/artist/5BMrVOkeM7YwsNjhanu1Zb), [Subtrax](https://open.spotify.com/artist/7M3N0IjvgrSOqFa3Byfgks) | [Sajan Ji](https://open.spotify.com/album/3iaBNIPxe33bVQq4lSdNk8) | 3:05 | 2023-04-28 | 2023-06-23 |
 | [Sarpanchi](https://open.spotify.com/track/1pOc0yVstj8V2BvK5UYgqw) | [Miki Malang](https://open.spotify.com/artist/5vGjn7KpA1qJNuy2Ez9yRM), [RP Singh](https://open.spotify.com/artist/7pxBiDULrPympl9ppIewtZ) | [Sarpanchi](https://open.spotify.com/album/6wRtFnB9JX7iH2NHgPiCNS) | 3:30 | 2023-03-28 |  |

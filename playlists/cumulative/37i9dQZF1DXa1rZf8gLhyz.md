@@ -4,7 +4,7 @@
 
 > Let these calm Jazz tracks lull you to sleep.
 
-500 songs - 1 day 1 hr 53 min
+506 songs - 1 day 2 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,6 +33,7 @@
 | [All The Things You Are](https://open.spotify.com/track/0bAtkqBlQwiqGGJ9AwQ6bH) | [Maurice Font](https://open.spotify.com/artist/6yQ1L2SHtnSTXctzGsKsPC) | [All The Things You Are](https://open.spotify.com/album/0REx5Z6ns83cNF762mDcFw) | 3:25 | 2021-12-07 | 2023-01-06 |
 | [All The Things You Are](https://open.spotify.com/track/5fPAnIAbiZlIeBtEjJ30yU) | [William Adams](https://open.spotify.com/artist/777n5UE3XVeaTgguSTisX9) | [All The Things You Are](https://open.spotify.com/album/7kpHuQEwvXqC0bVVmax5TU) | 2:54 | 2023-08-10 |  |
 | [Almost Like Being In Love](https://open.spotify.com/track/60jR3qwZHx1dJGppF3i7Jo) | [William Adams](https://open.spotify.com/artist/777n5UE3XVeaTgguSTisX9) | [Almost Like Being In Love](https://open.spotify.com/album/3YIiPDNnkO0T65LtjWN4wB) | 3:36 | 2022-12-01 |  |
+| [Am I Blue?](https://open.spotify.com/track/1OfgmNmV2MLEJkAWLvAXdr) | [Ray Love](https://open.spotify.com/artist/3obhUFv6yw5E2dFE8d8LXy) | [Am I Blue?](https://open.spotify.com/album/6aRhuHC2bvD8eKbtYRWwqx) | 2:16 | 2024-03-22 |  |
 | [Am I the Only One](https://open.spotify.com/track/3pQ9yM5g3ad2tXEsiT5X0u) | [Urskogen Jazz](https://open.spotify.com/artist/7gaN9W8fBI9obJ9tMK1x0A) | [Am I the Only One?](https://open.spotify.com/album/7KMKbpIle3r1zVJJ1lliO9) | 2:41 | 2023-03-16 |  |
 | [And Then](https://open.spotify.com/track/1ZepDoXqsQdiyD87zBxYK1) | [Ben Evans\-Parker](https://open.spotify.com/artist/5ItKNtikXXvdBrzYzwVplB) | [And Then](https://open.spotify.com/album/08zpU0LpH2KBdjP6Cqm2E5) | 2:27 | 2021-12-07 | 2022-02-02 |
 | [Another Night](https://open.spotify.com/track/67CMXgNv85npgVBdnnAmCp) | [Lucas Collins](https://open.spotify.com/artist/5DeLqcvjVG6JigTmkRrMHl) | [Another Night](https://open.spotify.com/album/1IwpbsnQGqr2pLaubVvXdG) | 2:25 | 2024-01-12 |  |
@@ -237,6 +238,8 @@
 | [Jupiter](https://open.spotify.com/track/4hjTtZqxYQpCkSKuVqLooh) | [John Dex](https://open.spotify.com/artist/06o4m4w6dY2vZ0dQteGlub) | [Jupiter](https://open.spotify.com/album/06C9y2qAK0pW7y0HoB9MLF) | 2:16 | 2024-02-02 |  |
 | [Just A Little Thought](https://open.spotify.com/track/5wU4KJSvgbfxHPdXj5Sp6b) | [Seth Liane](https://open.spotify.com/artist/4JLTxlTLrEwcYFc2g0anOT) | [Just A Little Thought](https://open.spotify.com/album/3ZRG84XNodq7Km8JTbzeov) | 3:19 | 2024-02-23 |  |
 | [Just A Piece of My Heart](https://open.spotify.com/track/0fNFJKmcfEOKbuQgqB3c2d) | [Carl Clementine](https://open.spotify.com/artist/4EES4U6kaJgZyrbnF21VCg) | [Lola and Kirby](https://open.spotify.com/album/2D8ZM8bjkyNukFOO7od8Li) | 4:07 | 2022-06-28 |  |
+| [Just Driving By](https://open.spotify.com/track/5JkBRB6PjvagWvG16h3ICy) | [Will Mays](https://open.spotify.com/artist/4jx5IGq82FvwoaN7v0fTil) | [Just Driving By](https://open.spotify.com/album/097FmuLTlTP9LnWFPaK1iL) | 2:36 | 2024-03-22 |  |
+| [Just One More](https://open.spotify.com/track/1fE8PAFqmiYaQoMT6zfjUl) | [Trey Patton](https://open.spotify.com/artist/16YBPq22nB5oyX5exXWfSn) | [Just One More](https://open.spotify.com/album/3191PgCVvNGrFrQsuBODno) | 3:16 | 2024-03-22 |  |
 | [Knowing Myself](https://open.spotify.com/track/6jz8RHzqIWAcFeIsRjOH2x) | [Bernstein Square](https://open.spotify.com/artist/0RdMRIhMDTQEpMcALRyQTK) | [Knowing Myself](https://open.spotify.com/album/6l4uNwiLFEp6yV5MSZpMQB) | 2:22 | 2023-08-10 |  |
 | [La Luna](https://open.spotify.com/track/6pmKMTiOh1xMF0ngYvurAI) | [Gabrielle](https://open.spotify.com/artist/5uXfvRxvTgcu82Zqa56g4r) | [La Luna](https://open.spotify.com/album/3koQMMCtwNwhiJyeRLGext) | 2:26 | 2023-06-22 |  |
 | [Lament](https://open.spotify.com/track/7psqOiW2f8t6rJO8DNyeCm) | [Bill Walton](https://open.spotify.com/artist/7fHixSSo2DvBypEXNKjgBl) | [Lament](https://open.spotify.com/album/6aerbGECcBi4QOcILX5koS) | 4:27 | 2021-12-07 |  |
@@ -275,6 +278,7 @@
 | [Mademoiselle](https://open.spotify.com/track/3rG8628IHuYUTbjFHoT1Rm) | [Linior](https://open.spotify.com/artist/6IBrNzuYAMMWiTAg3xJRgw) | [Mademoiselle](https://open.spotify.com/album/2JMZHzAkjIVkNlBWqMBT6X) | 2:52 | 2023-11-17 |  |
 | [Mademoiselle de Paris](https://open.spotify.com/track/4glQlLaG9HCB1w15qrPYnn) | [Stefan Scholz](https://open.spotify.com/artist/4VmbEmPe7idiK1hjtCODVy) | [Mademoiselle de Paris](https://open.spotify.com/album/2MGgsKh8Vv7WfbuBwOMHfZ) | 2:01 | 2023-05-11 |  |
 | [Madison Avenue](https://open.spotify.com/track/04oey4VksjOx3oLQ5jRX0b) | [Joe Jørgensen](https://open.spotify.com/artist/0CkSmVYe54CjKJef33XTcy) | [Madison Avenue](https://open.spotify.com/album/2NUUhds2mneVXC8rsCpoqG) | 3:00 | 2024-01-05 |  |
+| [Maple swing](https://open.spotify.com/track/5g7O9vMagQF2ZA4ixq07ie) | [Camille Blanche](https://open.spotify.com/artist/6AaWDcxoX78PME15nCCMoa) | [Maple swing](https://open.spotify.com/album/2NgkxK9aZlGmgkADzMQDUR) | 3:03 | 2024-03-22 |  |
 | [Marianne](https://open.spotify.com/track/3aH1PozU6rrvTLGlCISgAH) | [Lou Green](https://open.spotify.com/artist/4a84x85rjeFUdmy5eOZ3mW) | [Marianne](https://open.spotify.com/album/0X43eSNXIfJFDw6FpKWU2N) | 2:09 | 2023-05-11 |  |
 | [Melancholia](https://open.spotify.com/track/6lMI9WKqbIwxnumenEI0Iz) | [Ward Stetson](https://open.spotify.com/artist/4cgzkhsBdCNVDzBrx7is7S) | [Melancholia](https://open.spotify.com/album/4qJEPS5KuL1a7ynbgifQXV) | 3:26 | 2023-03-02 |  |
 | [Memories of You](https://open.spotify.com/track/0eu43TeVxnxOqHj3nBVus2) | [Kay Lohman](https://open.spotify.com/artist/4RAH5bMhyvkgartz47YVcy) | [I Get Along Without You Very Well](https://open.spotify.com/album/3TA20v06xIbqbfTqIG48do) | 2:45 | 2022-01-04 |  |
@@ -434,6 +438,7 @@
 | [the midnight sun will never set](https://open.spotify.com/track/0iSiLiy0wdl41Pz0RcNzrH) | [Matthew Simmons](https://open.spotify.com/artist/0VLnZmWurenu8BMwOR8iSF) | [The midnight sun will never set](https://open.spotify.com/album/2OyFudTG8k36YEzfScXgLQ) | 4:25 | 2021-12-07 |  |
 | [The Moon And Back](https://open.spotify.com/track/5rmRoI0SV7fE06r3FEl10z) | [Frank Guardiola](https://open.spotify.com/artist/5gcPk6Qs7bOVFQDwH5xRcl) | [The Moon And Back](https://open.spotify.com/album/3hTaYPoN4X56NliyzoMvtf) | 2:53 | 2024-02-02 |  |
 | [The Nature Calls](https://open.spotify.com/track/49DNrBxdx1ce7U74K4lzrT) | [Ron Bladworth](https://open.spotify.com/artist/0BqBNOQfrBTClJMq6n03Mf) | [The Nature Calls](https://open.spotify.com/album/1ODsXhkCWtaFalwbY2pEMA) | 1:58 | 2023-08-10 | 2023-08-19 |
+| [The Nearness of You](https://open.spotify.com/track/4D15PV4EsO7CTf1l7R3jCo) | [Morgan Jaquette](https://open.spotify.com/artist/540KL1Mixm0kSCTjw8mqoa) | [The Nearness of You](https://open.spotify.com/album/0kmf0RsMgbtvL6XxIWz4G4) | 2:49 | 2024-03-22 |  |
 | [The Nearness Of You](https://open.spotify.com/track/3xKchgf19FmMrNNxC0SpT1) | [The Sunday Duo](https://open.spotify.com/artist/454oiwevZw5pjE66lYi9Zn) | [My Foolish Heart](https://open.spotify.com/album/412It4VvdQT3AdofM6xjt8) | 5:22 | 2021-12-07 | 2022-08-10 |
 | [The Night Has A Thousand Eyes](https://open.spotify.com/track/2hHvAndHhJuBwO4qh7i2Is) | [Ray Horne](https://open.spotify.com/artist/0ZHEC4FJWEfjvOsRwETzkS) | [The Night Has A Thousand Eyes](https://open.spotify.com/album/6c9zKUBf74WtsSW6zULcnq) | 2:40 | 2023-04-20 |  |
 | [The Night Wind](https://open.spotify.com/track/7diMQY1YBm8qBNbXCYYhbD) | [Roland Wilder](https://open.spotify.com/artist/3XykqWLIs9eIOqNFP25GgL) | [The Night Wind](https://open.spotify.com/album/5sOKlzcL2auYwop5kLxr8E) | 2:33 | 2023-06-01 |  |
@@ -462,6 +467,7 @@
 | [Time After Time](https://open.spotify.com/track/7IbI6WVoXnkqeQf4pLAwDU) | [Henriette Martin](https://open.spotify.com/artist/2BFYg3poUj1QT1EE8Z8NVS) | [Time After Time](https://open.spotify.com/album/4M6Bq1RqYhUntzbNeRzwJr) | 3:55 | 2023-02-02 |  |
 | [Time for Eiroa](https://open.spotify.com/track/71CxH5ixNJzdh4XNLLgIkq) | [Franz Gordon](https://open.spotify.com/artist/6c9mrV72IOeJ5imCUK281g) | [Small Hours](https://open.spotify.com/album/4S4F8NWyDMw2yYSAfRT2qh) | 3:25 | 2021-12-07 | 2022-05-10 |
 | [time remembered](https://open.spotify.com/track/7vglqLr2HwKFWXMjZ1DN4c) | [Brandy Charles](https://open.spotify.com/artist/1m1DxePO84p5t8ocvRjlOw) | [time remembered](https://open.spotify.com/album/1DHwBA3VoKhAWoV66MQ0fY) | 2:55 | 2021-12-07 | 2023-05-05 |
+| [Time To Get Up](https://open.spotify.com/track/7dQfkjzkxNBOe3fCYHUT0k) | [Ron Bladworth](https://open.spotify.com/artist/0BqBNOQfrBTClJMq6n03Mf) | [Time To Get Up](https://open.spotify.com/album/0w8CiCc5msPiV5kuJaIxbv) | 2:44 | 2024-03-22 |  |
 | [Time Will Tell](https://open.spotify.com/track/5iLOx5BMblSA9Ge2goijPf) | [Mannie Goldings](https://open.spotify.com/artist/4h6ReOsJCzpNJl0e2u7OTY) | [Time Will Tell](https://open.spotify.com/album/1DR3K7na2wR32dBL2wNWdg) | 2:39 | 2022-04-11 |  |
 | [Times passed](https://open.spotify.com/track/7EwupksVc4RcQW67OhlTs8) | [Montenegro Garner](https://open.spotify.com/artist/0jEJWpBlQoEGME65oJi0ms) | [Times passed](https://open.spotify.com/album/32jUZb2fxvTCchvt5FwNmE) | 2:44 | 2023-03-30 |  |
 | [Tired](https://open.spotify.com/track/7eTSFAOVW9mKWHO2dpYIcX) | [Jacob Schröder](https://open.spotify.com/artist/4VOTRfoGtDDp0Fl9ar28XN) | [Tired](https://open.spotify.com/album/7K6kTK2SnRfJegPTFUojsf) | 2:50 | 2024-02-23 |  |

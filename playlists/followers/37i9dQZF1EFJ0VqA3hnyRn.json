@@ -1,5 +1,5 @@
 {
-  "2024-03-21": 281,
+  "2024-03-22": 282,
   "date_first_scraped": "2024-02-08",
   "description": "The essentials from songwriter <a href=\"https://artists.spotify.com/songwriter/43ZED10qAFnfZZIy8nTgHy\">Theron Thomas</a>, all in one playlist. <a href=\"spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O\">Discover more songwriters on Spotify</a>.",
   "name": "Written By Theron Thomas",
@@ -363,6 +363,24 @@
       "duration_ms": 158677,
       "name": "Anticipated",
       "url": "https://open.spotify.com/track/0iYjS6VpD8NcfG6MV8DRWn"
+    },
+    {
+      "album": {
+        "name": "Malibu Babie SZN: Vol I",
+        "url": "https://open.spotify.com/album/0baOUkjYE0kLhwWaGwdu78"
+      },
+      "artists": [
+        {
+          "name": "Malibu Babie",
+          "url": "https://open.spotify.com/artist/30BzssruVp26rt8bIe6LcZ"
+        }
+      ],
+      "date_added": "2024-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144600,
+      "name": "Badonthebeat",
+      "url": "https://open.spotify.com/track/6CjgPFN7Y2Sly314epQUSi"
     },
     {
       "album": {

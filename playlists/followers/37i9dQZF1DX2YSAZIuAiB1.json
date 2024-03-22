@@ -1,5 +1,5 @@
 {
-  "2024-03-21": 728866,
+  "2024-03-22": 728945,
   "date_first_scraped": "2023-07-28",
   "description": "Good Vibes only mit Latin, Afrobeats, Hip-Hop und mehr \ud83d\udd25\ud83d\udd25\ud83d\udd25",
   "name": "swag",
@@ -548,6 +548,24 @@
     },
     {
       "album": {
+        "name": "badboysdontcry",
+        "url": "https://open.spotify.com/album/0pIFXtqsKysnEpZSCIMHJK"
+      },
+      "artists": [
+        {
+          "name": "badchieff",
+          "url": "https://open.spotify.com/artist/6GoNVmYCl0yUm4pEp80vn6"
+        }
+      ],
+      "date_added": "2024-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119037,
+      "name": "badboysdontcry",
+      "url": "https://open.spotify.com/track/3VjJAGD2rjdssieG46F4l4"
+    },
+    {
+      "album": {
         "name": "Baile Funk im Blut",
         "url": "https://open.spotify.com/album/0nJG9Xk8RqUkoFutJ8Znoh"
       },
@@ -761,7 +779,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-21",
       "duration_ms": 175057,
       "name": "Bloom",
       "url": "https://open.spotify.com/track/5utUZ5nv6y6dR8irsnOQEj"
@@ -1033,7 +1051,7 @@
       ],
       "date_added": "2023-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-21",
       "duration_ms": 182440,
       "name": "B\u00e9cane - A COLORS SHOW",
       "url": "https://open.spotify.com/track/3oUEzTAoOxqZHN4xiqTGqJ"
@@ -1720,6 +1738,28 @@
     },
     {
       "album": {
+        "name": "Gata Only",
+        "url": "https://open.spotify.com/album/5tSQtQGkrCJx3hoQxmLgfM"
+      },
+      "artists": [
+        {
+          "name": "FloyyMenor",
+          "url": "https://open.spotify.com/artist/7CvTknweLr9feJtRGrpDBy"
+        },
+        {
+          "name": "Cris Mj",
+          "url": "https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE"
+        }
+      ],
+      "date_added": "2024-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222000,
+      "name": "Gata Only",
+      "url": "https://open.spotify.com/track/6XjDF6nds4DE2BBbagZol6"
+    },
+    {
+      "album": {
         "name": "For All The Dogs",
         "url": "https://open.spotify.com/album/4czdORdCWP9umpbhFXK2fW"
       },
@@ -1905,7 +1945,7 @@
       ],
       "date_added": "2024-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-21",
       "duration_ms": 186153,
       "name": "Holy Ghost",
       "url": "https://open.spotify.com/track/0zVk3uuV9UhxAt48F3OL12"
@@ -2007,7 +2047,7 @@
       ],
       "date_added": "2023-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-21",
       "duration_ms": 212680,
       "name": "I Miss U",
       "url": "https://open.spotify.com/track/1u8rt8dSYVnjJT5josyZ77"
@@ -2025,7 +2065,7 @@
       ],
       "date_added": "2024-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-21",
       "duration_ms": 149500,
       "name": "I Will",
       "url": "https://open.spotify.com/track/27sKtH0PZpASkN8H3ZJOQf"
@@ -2521,6 +2561,28 @@
       "duration_ms": 136988,
       "name": "Liebe Gr\u00fcsse",
       "url": "https://open.spotify.com/track/5qQLBOEAelSN7JWqX3RIIv"
+    },
+    {
+      "album": {
+        "name": "LES DERNI\u00c8RES VOLONT\u00c9S DE MOZART (SYMPHONY)",
+        "url": "https://open.spotify.com/album/70puiNnXbXIRjGTwj1D83e"
+      },
+      "artists": [
+        {
+          "name": "GIMS",
+          "url": "https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK"
+        },
+        {
+          "name": "Lossa",
+          "url": "https://open.spotify.com/artist/5ZlyVrDhzKVvaZNj3b58fE"
+        }
+      ],
+      "date_added": "2024-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161311,
+      "name": "LOCO",
+      "url": "https://open.spotify.com/track/0ksYW1iavv5SwGshxjpLvK"
     },
     {
       "album": {
@@ -3169,7 +3231,7 @@
       ],
       "date_added": "2023-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-21",
       "duration_ms": 146526,
       "name": "Noch einmal",
       "url": "https://open.spotify.com/track/2DynufiRAu0Nyn5TM1Cdpx"
@@ -3285,7 +3347,7 @@
       ],
       "date_added": "2023-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-21",
       "duration_ms": 186678,
       "name": "On My Mama",
       "url": "https://open.spotify.com/track/1o8Z7GD1CeOaVBEyuzu4HO"
@@ -3677,7 +3739,7 @@
       ],
       "date_added": "2024-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-21",
       "duration_ms": 161200,
       "name": "Pour It Up",
       "url": "https://open.spotify.com/track/76VtA90NKurNqaQpV126Ue"
@@ -3853,7 +3915,7 @@
       ],
       "date_added": "2024-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-21",
       "duration_ms": 319191,
       "name": "Rich Baby Daddy (feat. Sexyy Red & SZA)",
       "url": "https://open.spotify.com/track/1yeB8MUNeLo9Ek1UEpsyz6"
@@ -4499,6 +4561,24 @@
       "duration_ms": 234024,
       "name": "Terminator",
       "url": "https://open.spotify.com/track/1oq33HJBs0rDmjjZ2rVFyG"
+    },
+    {
+      "album": {
+        "name": "eternal sunshine",
+        "url": "https://open.spotify.com/album/5EYKrEDnKhhcNxGedaRQeK"
+      },
+      "artists": [
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "date_added": "2024-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173639,
+      "name": "the boy is mine",
+      "url": "https://open.spotify.com/track/0Lmbke3KNVFXtoH2mMSHCw"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7U1OVzZor41.md) - [plain]
 
 > 在KTV里，这些都是必点必唱的华语K歌。你准备好了吗？
 
-[Spotify](https://open.spotify.com/user/spotify) - 145,387 likes - 50 songs - 3 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 145,396 likes - 50 songs - 3 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,19 +19,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7U1OVzZor41.md) - [plain]
 | 9 | [Till The End](https://open.spotify.com/track/4x22u0rFlDAlliV3VqRQHe) | [Boon Hui Lu](https://open.spotify.com/artist/6PWJWwEm8BSBFAIAUWlwe4) | [Till The End](https://open.spotify.com/album/6XAC9SflD5rmJAJxmRAeCN) | 3:59 |
 | 10 | [和解局 \(影視劇《無所畏懼》片尾曲\)](https://open.spotify.com/track/3tVr8N43kw5gwt34fMeJb5) | [Where Chou](https://open.spotify.com/artist/0T1grpeZ4qvXm7ALeRPKno) | [和解局 \(影視劇《無所畏懼》片尾曲\)](https://open.spotify.com/album/0J7s25xuXBCyveSLEd4fOU) | 3:35 |
 | 11 | [嘉宾](https://open.spotify.com/track/1IVj6CsBbTgOEpo0W6hgwN) | [张远](https://open.spotify.com/artist/3PutidTQajzWO1gTetJReW) | [嘉宾](https://open.spotify.com/album/1orkuJNHCx51s1B0lWh3Ta) | 5:33 |
-| 12 | [想和你看五月的晚霞](https://open.spotify.com/track/6pFxVcn6T4BdP8mfZpTQHZ) | [陳華](https://open.spotify.com/artist/5ZxRmJ21NzjxD2ZGBxi7um) | [華與浪漫](https://open.spotify.com/album/5KuxE9hzUumHJdDUAAptHT) | 3:53 |
+| 12 | [不為誰而作的歌](https://open.spotify.com/track/0VqSdtXseb9khdZrnYVyM1) | [JJ Lin](https://open.spotify.com/artist/7Dx7RhX0mFuXhCOUgB01uM) | ["和自己對話" 實驗專輯](https://open.spotify.com/album/2BllRBDJwm9kthtOoYTzNK) | 4:25 |
 | 13 | [Lion of the Sun](https://open.spotify.com/track/1lJKxwBp7sHTVpoN4xA7BY) | [Edward Chen](https://open.spotify.com/artist/3caZxmZkahlga1xtnOtahu) | [Almost Human](https://open.spotify.com/album/3koA5RKrfbPs5EaCHSPsL5) | 4:19 |
 | 14 | [被愛](https://open.spotify.com/track/2lRju8E5AkBvQQjXuxQy32) | [Cindy Yen](https://open.spotify.com/artist/3IXhSUXNXO7Z6GnYufgpKR) | [被愛](https://open.spotify.com/album/2noGSuCfwI0JILZmT52thj) | 3:53 |
 | 15 | [你，好不好？ \- TVBS連續劇【遺憾拼圖】片尾曲](https://open.spotify.com/track/2gug6MRv4xQFYi9LA3PJCS) | [Eric Chou](https://open.spotify.com/artist/5fEQLwq1BWWQNR8GzhOIvi) | [愛，教會我們的事](https://open.spotify.com/album/4qDKkkL98yqdv85xqYfyUc) | 4:47 |
 | 16 | [In Your Eyes](https://open.spotify.com/track/7M3v459EaGs6DiUs8nOOOP) | [同理 Zunya](https://open.spotify.com/artist/3tsoImRDSW4JEcL2CdIUmo), [林茉曦](https://open.spotify.com/artist/1OSIaRRBGsNFVVqc38YSH7) | [In Your Eyes](https://open.spotify.com/album/1aoIEeVj2hpj3YqK6CEvFk) | 4:59 |
 | 17 | [小心易碎](https://open.spotify.com/track/3YTFzz7M0R9NYstuKxhjKc) | [Lauren Woo](https://open.spotify.com/artist/25ef1wPlMzJDegKdmkFzRa) | [小心易碎](https://open.spotify.com/album/7MuCUhwLEtfZRWfQ4zbc2J) | 3:44 |
-| 18 | [不為誰而作的歌](https://open.spotify.com/track/0VqSdtXseb9khdZrnYVyM1) | [JJ Lin](https://open.spotify.com/artist/7Dx7RhX0mFuXhCOUgB01uM) | ["和自己對話" 實驗專輯](https://open.spotify.com/album/2BllRBDJwm9kthtOoYTzNK) | 4:25 |
+| 18 | [想和你看五月的晚霞](https://open.spotify.com/track/6pFxVcn6T4BdP8mfZpTQHZ) | [陳華](https://open.spotify.com/artist/5ZxRmJ21NzjxD2ZGBxi7um) | [華與浪漫](https://open.spotify.com/album/5KuxE9hzUumHJdDUAAptHT) | 3:53 |
 | 19 | [如果有時間](https://open.spotify.com/track/5994b62d9Q1C4nJI3Et7q2) | [陳威全](https://open.spotify.com/artist/1AXBUAKorwcXfesS9xj5m5) | [MAMAK](https://open.spotify.com/album/7J5hXDwdHTzIycAm38yZ65) | 3:23 |
 | 20 | [光年之外 \(電影 《Passengers》 中國區主題曲\)](https://open.spotify.com/track/1bkvGbgK4HU8B7Ue4k7O7I) | [G.E.M.](https://open.spotify.com/artist/7aRC4L63dBn3CiLDuWaLSI) | [光年之外 \(電影 《Passengers》 中國區主題曲\)](https://open.spotify.com/album/4eQDYF5DRwKtOCidoSe9HP) | 3:55 |
 | 21 | [告白氣球](https://open.spotify.com/track/2tqF9MPNdYdJU70U0ULO23) | [Jay Chou](https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql) | [周杰倫的床邊故事](https://open.spotify.com/album/7sydOexyOcfIdE9Pt4WR1H) | 3:35 |
 | 22 | [遇見](https://open.spotify.com/track/3xJK8ywApYVEYIDhymYMC6) | [Stefanie Sun](https://open.spotify.com/artist/0SIXZXJCAhNU8sxK0qm7hn) | [The Moment](https://open.spotify.com/album/6CGJuQoWMkq1rmStrYbRzr) | 3:29 |
-| 23 | [永不失聯的愛](https://open.spotify.com/track/46fURCnWErjFdNM2yBJ2c8) | [Eric Chou](https://open.spotify.com/artist/5fEQLwq1BWWQNR8GzhOIvi) | [如果雨之後](https://open.spotify.com/album/63lCCebNDe20nxyCvFWk8g) | 4:19 |
-| 24 | [小情歌](https://open.spotify.com/track/4FhJ7YSRxATHnaRg4nGs6t) | [sodagreen](https://open.spotify.com/artist/3WYT2b8pOLsLsqSaoWYr7U) | [小宇宙](https://open.spotify.com/album/2yhTPiBJRuRjofOIEDLJGw) | 4:33 |
+| 23 | [小情歌](https://open.spotify.com/track/4FhJ7YSRxATHnaRg4nGs6t) | [sodagreen](https://open.spotify.com/artist/3WYT2b8pOLsLsqSaoWYr7U) | [小宇宙](https://open.spotify.com/album/2yhTPiBJRuRjofOIEDLJGw) | 4:33 |
+| 24 | [永不失聯的愛](https://open.spotify.com/track/46fURCnWErjFdNM2yBJ2c8) | [Eric Chou](https://open.spotify.com/artist/5fEQLwq1BWWQNR8GzhOIvi) | [如果雨之後](https://open.spotify.com/album/63lCCebNDe20nxyCvFWk8g) | 4:19 |
 | 25 | [訣愛 \(劇集《蒼蘭訣》片頭曲\)](https://open.spotify.com/track/6la3Kme7O7D01fJPxgpAS5) | [詹雯婷](https://open.spotify.com/artist/7hmSHY9HVVQKejpGbPbo16) | [訣愛](https://open.spotify.com/album/11KVIZFGZ34hRCfrIr1oSt) | 3:09 |
 | 26 | [那些你很冒險的夢](https://open.spotify.com/track/2aMN1ky0SzSEcV1QdBYbW9) | [JJ Lin](https://open.spotify.com/artist/7Dx7RhX0mFuXhCOUgB01uM) | [學不會](https://open.spotify.com/album/5nAilSc60xebtjFfRr6m2V) | 4:04 |
 | 27 | [披星戴月的想你](https://open.spotify.com/track/7tgzj2IqzSgUpxUhjmcF5m) | [告五人](https://open.spotify.com/artist/6xErgeZYatiaQ36SB5bvi8) | [我肯定在幾百年前就說過愛你](https://open.spotify.com/album/7yvCk24AtE9k0vLcolSs2i) | 5:49 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7U1OVzZor41.md) - [plain]
 | 49 | [我們的愛](https://open.spotify.com/track/0Q4YuuiCuxIIKUw2fb1cmV) | [F.I.R.](https://open.spotify.com/artist/5oqLnVZzJJXE3YnzzZfRKu) | [飛兒樂團](https://open.spotify.com/album/268ZucmIubAGuH8AGwYZEZ) | 4:47 |
 | 50 | [再見](https://open.spotify.com/track/5UAGQJmL7Rn4gn7wlkMyqS) | [G.E.M.](https://open.spotify.com/artist/7aRC4L63dBn3CiLDuWaLSI) | [新的心跳](https://open.spotify.com/album/1tEl9cDFkTKGmaRpZLB7zW) | 3:26 |
 
-Snapshot ID: `MCw1YjJjNjdlNDgzYjM1Yjk3ZjU3NDQ0MTg5MTBmYjUwZjliNWNhMDY0`
+Snapshot ID: `MCw3N2I2MjQ0ZTViMDU2NDNlODJjMTQ5ZDc4NTdkYjM2MjRmYTZmZTAw`

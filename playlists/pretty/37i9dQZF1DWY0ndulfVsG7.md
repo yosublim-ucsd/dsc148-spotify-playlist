@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY0ndulfVsG7.md) - [plain]
 
 > Koleksi lagu tersayang dari para artis negeri jiran\. Cover: Geisha
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,146 likes - 50 songs - 3 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,202 likes - 50 songs - 3 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY0ndulfVsG7.md) - [plain]
 | 28 | [Terlalu Cinta](https://open.spotify.com/track/6I9rJKR6WPRir6XoAaaJvH) | [Rossa](https://open.spotify.com/artist/0ygQsC5td2maGmglpzd7tp) | [Yang Terpilih](https://open.spotify.com/album/4ZoR00UkfBdVlP6RB7vq5A) | 4:08 |
 | 29 | [Mabuk Cinta](https://open.spotify.com/track/7gWcfdZVM1uunqG6trmQVG) | [Armada](https://open.spotify.com/artist/6H857CtcaYMSxOB4jvSIZf) | [Satu Hati Sejuta Cinta](https://open.spotify.com/album/78rrGhb8kb4g0P8ewToKIo) | 3:59 |
 | 30 | [Bukan Dia Tapi Aku](https://open.spotify.com/track/5dhJhL42WWQLYBUTbMtLF7) | [Judika](https://open.spotify.com/artist/5fS7aONqrIhiw6YzgKVOsd) | [Setengah Mati Merindu](https://open.spotify.com/album/5rCDvtR73a8KsViwOZz2PF) | 4:36 |
-| 31 | [My Heart](https://open.spotify.com/track/27xvsEVJolDpEDy5PtD0hq) | [Acha Septriasa](https://open.spotify.com/artist/6x9pgf75qWhi1YKJH2a8Xv), [Irwansyah](https://open.spotify.com/artist/6OZRp5SJfh9kZts1SyIMOa) | [Heart](https://open.spotify.com/album/0OyN4NEEkqb2E5iiXxvJv9) | 4:33 |
-| 32 | [Sedih Tak Berujung](https://open.spotify.com/track/6xMUMMK64AUpstGjlDvoNn) | [Glenn Fredly](https://open.spotify.com/artist/4rUYk0fV0Z4pOtwVbEAyK9) | [Selamat Pagi, Dunia!](https://open.spotify.com/album/5rVlutTMP45pkvXFp5L3B9) | 3:48 |
+| 31 | [Sedih Tak Berujung](https://open.spotify.com/track/6xMUMMK64AUpstGjlDvoNn) | [Glenn Fredly](https://open.spotify.com/artist/4rUYk0fV0Z4pOtwVbEAyK9) | [Selamat Pagi, Dunia!](https://open.spotify.com/album/5rVlutTMP45pkvXFp5L3B9) | 3:48 |
+| 32 | [My Heart](https://open.spotify.com/track/27xvsEVJolDpEDy5PtD0hq) | [Acha Septriasa](https://open.spotify.com/artist/6x9pgf75qWhi1YKJH2a8Xv), [Irwansyah](https://open.spotify.com/artist/6OZRp5SJfh9kZts1SyIMOa) | [Heart](https://open.spotify.com/album/0OyN4NEEkqb2E5iiXxvJv9) | 4:33 |
 | 33 | [Selimut Hati](https://open.spotify.com/track/112PgZaSiXk8Mqem2Krgtq) | [Dewa 19](https://open.spotify.com/artist/48bKH1ugFBhERC1rdojP9d) | [The 2000's Greatest](https://open.spotify.com/album/2hwNRtZyqmEcCzV47OUAlN) | 4:39 |
 | 34 | [Untitled](https://open.spotify.com/track/1i9iliTpiPLizleapSg37I) | [MALIQ & D'Essentials](https://open.spotify.com/artist/18PmEN8ZiHBQlDpxrgR2xs) | [1st \(Special Edition\)](https://open.spotify.com/album/0qG0Ij0WCn6JgWREX8eAaK) | 4:05 |
 | 35 | [Cinta Dalam Hati](https://open.spotify.com/track/4NOniDRyYcBjF6m1x3U8TK) | [Ungu](https://open.spotify.com/artist/4HHdjvdn30koo54zQ6QeF5) | [Untukmu Selamanya](https://open.spotify.com/album/0JFtcuEuZqdurpqOY65Pva) | 4:43 |
@@ -52,11 +52,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY0ndulfVsG7.md) - [plain]
 | 42 | [Sekali Ini Saja](https://open.spotify.com/track/1GmIlN8URkjZxtV99zKlBk) | [Glenn Fredly](https://open.spotify.com/artist/4rUYk0fV0Z4pOtwVbEAyK9) | [Selamat Pagi, Dunia!](https://open.spotify.com/album/6O4DUdeq5zCALFTlHGcaNx) | 3:55 |
 | 43 | [Panah Asmara](https://open.spotify.com/track/2n5MdJ8bdz4QYOTdeZaBd5) | [Afgan](https://open.spotify.com/artist/4cgBCGxtlfap2g6jveB7du) | [DEKADE](https://open.spotify.com/album/7tXSAdhvFo8k9HNE5dK9Ym) | 4:34 |
 | 44 | [Yang Terdalam](https://open.spotify.com/track/6HP1bbIqafhFCRwMw81c7G) | [Noah](https://open.spotify.com/artist/31aMmlq8isIAgojvmIwiS4) | [Taman Langit](https://open.spotify.com/album/3f75vj6VfHVhh4v0Sw6ZzC) | 3:19 |
-| 45 | [Dealova](https://open.spotify.com/track/4Eybcl06frChLYoXm0sxJi) | [Once Mekel](https://open.spotify.com/artist/57rIw0vk3eEuJlVblR4CrE) | [Once](https://open.spotify.com/album/6681ZUPUgHIFoTQjgZ7blI) | 4:24 |
-| 46 | [Seperti Yang Kau Minta](https://open.spotify.com/track/0mkeFWinFvxpfZ9tr0RQ7k) | [Chrisye](https://open.spotify.com/artist/2NteKKMj3takKR3ABTd279) | [Dekade](https://open.spotify.com/album/68LQj1aPjWAkP6BplJNhq3) | 4:48 |
+| 45 | [Seperti Yang Kau Minta](https://open.spotify.com/track/0mkeFWinFvxpfZ9tr0RQ7k) | [Chrisye](https://open.spotify.com/artist/2NteKKMj3takKR3ABTd279) | [Dekade](https://open.spotify.com/album/68LQj1aPjWAkP6BplJNhq3) | 4:48 |
+| 46 | [Dealova](https://open.spotify.com/track/4Eybcl06frChLYoXm0sxJi) | [Once Mekel](https://open.spotify.com/artist/57rIw0vk3eEuJlVblR4CrE) | [Once](https://open.spotify.com/album/6681ZUPUgHIFoTQjgZ7blI) | 4:24 |
 | 47 | [Berdua Lebih Baik](https://open.spotify.com/track/1QjAmxYS652vXrSy3BhZ9D) | [Acha Septriasa](https://open.spotify.com/artist/6x9pgf75qWhi1YKJH2a8Xv) | [Heart](https://open.spotify.com/album/0OyN4NEEkqb2E5iiXxvJv9) | 3:41 |
 | 48 | [Seluruh Cinta](https://open.spotify.com/track/2FKvy1aWWazofWPRD9nNnP) | [Cakra Khan](https://open.spotify.com/artist/6pZzHAdfBLIEkQVRUhB8ps), [Dato' Sri Siti Nurhaliza](https://open.spotify.com/artist/5d0bxRte3J74ZXyEGRL8uU) | [Seluruh Cinta](https://open.spotify.com/album/0aAj6CHe9yPHglz0e0H2sW) | 4:10 |
 | 49 | [Kamu Yang Kutunggu](https://open.spotify.com/track/6RxfiwKHEUCWSR7vRE4b5g) | [Rossa](https://open.spotify.com/artist/0ygQsC5td2maGmglpzd7tp), [Afgan](https://open.spotify.com/artist/4cgBCGxtlfap2g6jveB7du) | [Love, Life & Music](https://open.spotify.com/album/427i70YCWKnkDAvvHjsxMp) | 4:14 |
 | 50 | [Cinta Sejati \- From "Habibie & Ainun"](https://open.spotify.com/track/7zPiwqd1uxBkiHuk2OoBWJ) | [Bunga Citra Lestari](https://open.spotify.com/artist/30qVSJGhPhrZLKG0H9DMA9) | [Cinta Sejati \(From "Habibie & Ainun"\)](https://open.spotify.com/album/3cMuELN6TQ1pF5fkOcdhpv) | 5:00 |
 
-Snapshot ID: `MCxhNGQ2NjAyYzExYjBlZDJiNzJhNjMzNTM3NDVkYmVjYjQ4YjA3ZDNl`
+Snapshot ID: `MCwzNjg1NjM3Y2IwYzk0N2RiNDFkNjJhYWFjYWI5NzliOWM5ZjdmN2Y1`

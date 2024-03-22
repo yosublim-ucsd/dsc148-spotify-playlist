@@ -1,10 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX9WU5Losjsy8.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX9WU5Losjsy8) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX9WU5Losjsy8)
 
-### [Après Ski Party 2023](https://open.spotify.com/playlist/37i9dQZF1DX9WU5Losjsy8)
+### [Après Ski Party 2024](https://open.spotify.com/playlist/37i9dQZF1DX9WU5Losjsy8)
 
 > Skifoan und Hüttenabriss.
 
-122 songs - 6 hr 10 min
+123 songs - 6 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,7 +50,7 @@
 | [Felicità \- Stereoact Remix](https://open.spotify.com/track/0e78YaDsbQxnfbQWofzBrH) | [Stereoact](https://open.spotify.com/artist/6dXL3SnQlCGX9LCUAyin6a), [Al Bano](https://open.spotify.com/artist/2gpELJDuhOQi1DPcI0VFvw) | [Felicità \(Stereoact Remix\)](https://open.spotify.com/album/2FWtL7RNtw2bPUo5MM5XBG) | 2:28 | 2023-11-14 | 2024-02-13 |
 | [Filmriss](https://open.spotify.com/track/3wPFB1azIiqIeydG9q9cYW) | [Ikke Hüftgold](https://open.spotify.com/artist/2ctUnxn4qlNB9rYMyKJuMf), [Isi Glück](https://open.spotify.com/artist/6rCSN5ZYcBpBWIY2GEiKdQ) | [Filmriss](https://open.spotify.com/album/3wulBgGVUtbWHJRNvhBtAP) | 2:14 | 2023-12-11 | 2024-03-20 |
 | [FiNCHiBOY](https://open.spotify.com/track/4ipRnhSMOaVeLCCo5sPY9K) | [FiNCH](https://open.spotify.com/artist/1ZyqnbV7Brg5LgyS4EZCUD) | [Finchi's Love Tape](https://open.spotify.com/album/2XTORm9FlIAjLcTqrguBhM) | 2:50 | 2023-11-14 | 2023-12-13 |
-| [Freitag, Samstag](https://open.spotify.com/track/35WEFAhw47XLju1gu40cjT) | [Harris & Ford](https://open.spotify.com/artist/4FDj6mh458K7m9Txwyj2rt), [FiNCH](https://open.spotify.com/artist/1ZyqnbV7Brg5LgyS4EZCUD) | [Freitag, Samstag](https://open.spotify.com/album/2vdeMLYYKkx1kp0J9ggsBL) | 2:36 | 2023-07-28 |  |
+| [Freitag, Samstag](https://open.spotify.com/track/35WEFAhw47XLju1gu40cjT) | [Harris & Ford](https://open.spotify.com/artist/4FDj6mh458K7m9Txwyj2rt), [FiNCH](https://open.spotify.com/artist/1ZyqnbV7Brg5LgyS4EZCUD) | [Freitag, Samstag](https://open.spotify.com/album/2vdeMLYYKkx1kp0J9ggsBL) | 2:36 | 2023-07-28 | 2024-03-22 |
 | [Grapefruit](https://open.spotify.com/track/6tsfUUzJ5SFKP7n2H9V22F) | [MartinBepunkt](https://open.spotify.com/artist/67SeoU54DvDpkDDXtWEoOc), [Julia Engelmann](https://open.spotify.com/artist/3yKyH3s5xOHdLDfsD0W9gK), [Raket One](https://open.spotify.com/artist/3WiX1u4IpVintfUX7Qze06) | [Grapefruit](https://open.spotify.com/album/2GPa0un8izzyTkgZWgocBo) | 3:04 | 2023-07-28 |  |
 | [Griechischer Wein](https://open.spotify.com/track/452WSSzuklpg0w4RKTlkvn) | [Udo Jürgens](https://open.spotify.com/artist/2G0htB8PxlO2onxnIismur) | [Zeig mir den Platz an der Sonne](https://open.spotify.com/album/14kHOjiTWRL2gF9Li2jEGg) | 4:04 | 2023-07-14 |  |
 | [Hamma! \- Single Edit](https://open.spotify.com/track/3vaBHxfz5WPBLLPt1hTUvI) | [Culcha Candela](https://open.spotify.com/artist/3gemH8D6fpu12DmTmUZYAL) | [Culcha Candela](https://open.spotify.com/album/74tpHkTc0lXgJDz7JrvlfM) | 3:29 | 2023-07-14 |  |
@@ -92,6 +92,7 @@
 | [Marie](https://open.spotify.com/track/1vCEGctxBKGxWeMS46cCoe) | [Die Draufgänger](https://open.spotify.com/artist/6poBa7e0hqMo8tfNjh0TAV) | [Marie](https://open.spotify.com/album/4mcC9YpL3rtRWUDpGPE2XP) | 3:20 | 2023-10-20 | 2024-03-03 |
 | [MDMA](https://open.spotify.com/track/4c1TXKNAh4yb5cb0zE3x1X) | [Little Sis Nora](https://open.spotify.com/artist/1KYt3TMGpa1LtVi0m2A0F9) | [MDMA](https://open.spotify.com/album/283DpmSSsjHAafXO5zfd4G) | 2:08 | 2023-07-14 |  |
 | [Mein kleines Herz \(Bam Bam\)](https://open.spotify.com/track/77LA2Zd0H9c1C0NutqumLH) | [Darius & Finlay](https://open.spotify.com/artist/1w67D3PakcxjYGt6xPnnke), [MartinBepunkt](https://open.spotify.com/artist/67SeoU54DvDpkDDXtWEoOc), [Shaun Baker](https://open.spotify.com/artist/7qVzI20Li7Utd9XAa8VHLj) | [Mein kleines Herz \(Bam Bam\)](https://open.spotify.com/album/25GJAMuQqJ6n0OrRAZrcY7) | 2:30 | 2023-07-14 |  |
+| [Midnight Lady](https://open.spotify.com/track/0CbNz8F2OUOfxOnZyV6pDJ) | [Lorenz Büffel](https://open.spotify.com/artist/6dKYo2aegt1Cpez6tyd2ai), [Knossi](https://open.spotify.com/artist/7H8EE2uf8SstFY9lUyid0T) | [Midnight Lady](https://open.spotify.com/album/68DOa8MyHEElxIOhatDQJN) | 3:27 | 2024-03-22 |  |
 | [Monsta](https://open.spotify.com/track/3RM5RpRDDdST1njqOMG141) | [Culcha Candela](https://open.spotify.com/artist/3gemH8D6fpu12DmTmUZYAL) | [Schöne Neue Welt](https://open.spotify.com/album/1Le69ZubCAoCHM4Boohkr1) | 3:16 | 2023-07-14 |  |
 | [Morgen kickt der Kater](https://open.spotify.com/track/0VB7FDKebXYVAkqZinFRxc) | [Julian Sommer](https://open.spotify.com/artist/77puYb4Nubacm3PAzkY1UQ) | [Morgen kickt der Kater](https://open.spotify.com/album/6rmvDE7rJxD35UMJWdRnxz) | 3:16 | 2023-08-31 | 2023-12-10 |
 | [Nachbarn](https://open.spotify.com/track/1aBi2cwSWOaYz0kC0P27ok) | [Harris & Ford](https://open.spotify.com/artist/4FDj6mh458K7m9Txwyj2rt), [FiNCH](https://open.spotify.com/artist/1ZyqnbV7Brg5LgyS4EZCUD) | [Nachbarn](https://open.spotify.com/album/30AvhaHvCvYYwj0o8YlQea) | 3:01 | 2023-07-14 |  |

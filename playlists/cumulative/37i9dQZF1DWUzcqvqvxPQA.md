@@ -4,7 +4,7 @@
 
 > Check out these inspired hits to keep your Summer fun and upbeat!
 
-162 songs - 9 hr 22 min
+163 songs - 9 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,7 +52,7 @@
 | [Fight For Me](https://open.spotify.com/track/0mfpBXjYkiYt4Qrr2aFQ6U) | [GAWVI](https://open.spotify.com/artist/0oPd8f0W82Tgrazx2PYNab), [Lecrae](https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW) | [PANORAMA](https://open.spotify.com/album/7wD8rF1uNrehwaVoPgQn33) | 3:23 | 2020-08-13 |  |
 | [Follow Me](https://open.spotify.com/track/6O8Q77DLdXZTdciVeU2Aak) | [Shonlock](https://open.spotify.com/artist/0Fs18mA7TFMvYVRNX4dNTt) | [Follow Me](https://open.spotify.com/album/46jicEgCHc3Zxh4TKaRuCN) | 3:48 | 2020-08-13 |  |
 | [Fountain \(I Am Good\) \- Live](https://open.spotify.com/track/3xS92oZQTY2inOjsft65Zo) | [Mosaic MSC](https://open.spotify.com/artist/4hAridhpYF50cbO6o7jB3b) | [Fountain \(I Am Good\) \[Live\]](https://open.spotify.com/album/3HJ7L75Te3baUMWqDM5zwZ) | 5:18 | 2020-08-13 |  |
-| [Give It All](https://open.spotify.com/track/1jeTXQnC2f5rpY4T01MrYa) | [Blanca](https://open.spotify.com/artist/0GMSpOzEVXA4kboHiyvddO), [Redimi2](https://open.spotify.com/artist/0WZOmdnCln6FK6GM9e2tGm) | [Shattered](https://open.spotify.com/album/5rrpgUyAmIR68i3pSv5Uhm) | 3:04 | 2020-08-13 |  |
+| [Give It All](https://open.spotify.com/track/1jeTXQnC2f5rpY4T01MrYa) | [Blanca](https://open.spotify.com/artist/0GMSpOzEVXA4kboHiyvddO), [Redimi2](https://open.spotify.com/artist/0WZOmdnCln6FK6GM9e2tGm) | [Shattered](https://open.spotify.com/album/5rrpgUyAmIR68i3pSv5Uhm) | 3:04 | 2020-08-13 | 2024-03-22 |
 | [Give It All](https://open.spotify.com/track/5XMru1ivE88ruyO5H9AmKX) | [Blanca](https://open.spotify.com/artist/0GMSpOzEVXA4kboHiyvddO), [Redimi2](https://open.spotify.com/artist/0WZOmdnCln6FK6GM9e2tGm) | [Real Love](https://open.spotify.com/album/7rWe7veYh3Nrirj5kP0iZf) | 3:04 | 2020-08-13 | 2022-07-24 |
 | [Glorify](https://open.spotify.com/track/40jbAp6vAlk9j2KIiGNgvE) | [Jordan Feliz](https://open.spotify.com/artist/0TgNiaeQaWssaH9aWjbqnA) | [Say It](https://open.spotify.com/album/3HWVZPGVnhERhZ8JTExslB) | 2:57 | 2020-08-13 |  |
 | [Glorify](https://open.spotify.com/track/4FtxvQmm0kJPGCIQwaQ5eM) | [Jordan Feliz](https://open.spotify.com/artist/0TgNiaeQaWssaH9aWjbqnA) | [Glorify](https://open.spotify.com/album/2ULtMFFMjr1q56GUhnKyRo) | 2:57 | 2020-08-13 | 2022-07-29 |
@@ -154,6 +154,7 @@
 | [Till I Found You](https://open.spotify.com/track/1var9mNP1RLTlu8qVDji0F) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [Till I Found You](https://open.spotify.com/album/5i8yKKrI71gqHdXxYafYAo) | 4:00 | 2020-08-13 |  |
 | [WALKING ON WATER](https://open.spotify.com/track/0WWUC8RjWvuBTkiiFDxyQf) | [NEEDTOBREATHE](https://open.spotify.com/artist/610EjgFatGvVPtib97jQ8G) | [HARD CUTS: Songs from the H A R D L O V E Sessions](https://open.spotify.com/album/4sZaQapzbeoaQalmxymSrd) | 4:06 | 2020-08-13 |  |
 | [Walking Out](https://open.spotify.com/track/1FA4KLVSKttNIo0liD14zV) | [Jet Trouble](https://open.spotify.com/artist/6W2lyFO79SNpk3ZpF0A2s9) | [Warren Park](https://open.spotify.com/album/2fb8dzWQRVIZRzGZidNIbO) | 2:36 | 2020-08-13 | 2022-07-24 |
+| [Walking Out](https://open.spotify.com/track/1lATtWlYXnOVL2ofd4hB3m) | [Jet Trouble](https://open.spotify.com/artist/6W2lyFO79SNpk3ZpF0A2s9) | [Warren Park](https://open.spotify.com/album/5NbZirwRZH97Q9FooYB2lc) | 2:36 | 2020-08-13 |  |
 | [WaveWalker](https://open.spotify.com/track/1y0Fq8z3sVmQ9bHbT3r5Zy) | [Citizen Way](https://open.spotify.com/artist/7o9BrJpGzDJxWSGpAViJu4), [Bart Millard](https://open.spotify.com/artist/6l0FgdMZNMgMjph2DdwKP9) | [WaveWalker](https://open.spotify.com/album/6CViRKQjb2VqUGnNCWo9X1) | 3:13 | 2020-08-13 |  |
 | [What Freedom Feels Like](https://open.spotify.com/track/3JpweS0YOuNHJsMdgZlAOA) | [Cody Carnes](https://open.spotify.com/artist/7apN8bBgl19E0Ona9pvPq0) | [What Freedom Feels Like](https://open.spotify.com/album/62Hd11LH9xM8HX9GClD72L) | 3:05 | 2020-08-13 |  |
 | [What Love Looks Like \- Single Version](https://open.spotify.com/track/3drzZQX3eoVHdAN4LUCHOp) | [Elle Limebear](https://open.spotify.com/artist/7MCV4p3QmcYDMTfiE0ZWMD) | [What Love Looks Like](https://open.spotify.com/album/07GzRFzXvA9vzG8tPHlLhb) | 3:31 | 2020-08-13 |  |

@@ -395,6 +395,24 @@
     },
     {
       "album": {
+        "name": "Hindsight",
+        "url": "https://open.spotify.com/album/5EKAIPrUKheBG2TOHPG7KI"
+      },
+      "artists": [
+        {
+          "name": "The Catalina",
+          "url": "https://open.spotify.com/artist/28QCTLI7HSNPNm6b217Pjj"
+        }
+      ],
+      "date_added": "2024-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191126,
+      "name": "Hindsight",
+      "url": "https://open.spotify.com/track/6g5oi3Iu0N4plmr7JYVPNt"
+    },
+    {
+      "album": {
         "name": "Scotland, I Wish You Had Stayed.",
         "url": "https://open.spotify.com/album/7yryHYhtqvwPWSAOpcQ08v"
       },

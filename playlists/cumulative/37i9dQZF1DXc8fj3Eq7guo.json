@@ -1038,7 +1038,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-22",
       "duration_ms": 220310,
       "name": "Nairobi",
       "url": "https://open.spotify.com/track/1QzPmQynOP65qaOuZDJUbm"
@@ -1078,6 +1078,36 @@
       "duration_ms": 161586,
       "name": "Nairobi",
       "url": "https://open.spotify.com/track/1D4Pjb9OYgGxPIKgusObu1"
+    },
+    {
+      "album": {
+        "name": "Nairobi (feat. Mejja)",
+        "url": "https://open.spotify.com/album/6Iw9McXkgroTLndvjgH9UF"
+      },
+      "artists": [
+        {
+          "name": "Bensoul",
+          "url": "https://open.spotify.com/artist/09vo12hHajgG2cZzq0rGmE"
+        },
+        {
+          "name": "Sauti Sol",
+          "url": "https://open.spotify.com/artist/4Rj9lQm9oSiMlirgpsM6eo"
+        },
+        {
+          "name": "Nviiri The Storyteller",
+          "url": "https://open.spotify.com/artist/7xPDTxQrpZPvvI0LzuO73p"
+        },
+        {
+          "name": "Mejja",
+          "url": "https://open.spotify.com/artist/5VnDOE1MEaJ0VOgSypOi3u"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220310,
+      "name": "Nairobi (feat. Mejja)",
+      "url": "https://open.spotify.com/track/5spupseGpHQqN1mXCvJQwU"
     },
     {
       "album": {

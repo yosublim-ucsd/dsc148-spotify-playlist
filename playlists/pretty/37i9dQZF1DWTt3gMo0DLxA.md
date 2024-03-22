@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTt3gMo0DLxA.md) - [plain]
 
 > Trending songs from Tollywood! <br/>Cover: Guntur Kaaram
 
-[Spotify](https://open.spotify.com/user/spotify) - 80,101 likes - 50 songs - 3 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 80,384 likes - 50 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Kurchi Madathapetti](https://open.spotify.com/track/0hY9eA74QrMCJuWEx7fo9y) | [Thaman S](https://open.spotify.com/artist/2FgHPfRprDaylrSRVf1UlN), [Sri Krishna](https://open.spotify.com/artist/06V3WlbxMpgl639AJoFH7C), [Sahithi Chaganti](https://open.spotify.com/artist/01dP5AXWzqsUZj4VIcUSDM), [Mahesh Babu](https://open.spotify.com/artist/3fHBN4cBo24hLf8jnCUTYK), [Saraswati Putra Ramajogayya Sastry](https://open.spotify.com/artist/4qVlHvud9UIJTJZsRL27kk) | [Guntur Kaaram](https://open.spotify.com/album/43yBwxxfwX5mpyHxFLkqdn) | 3:36 |
 | 2 | [Kammani](https://open.spotify.com/track/6pOgSsYAmQHlpz9yFRbIJE) | [S\. P\. Balasubrahmanyam](https://open.spotify.com/artist/2ae6PxICSOZHvjqiCcgon8), [S\. P\. Sailaja](https://open.spotify.com/artist/0w1zspBrCXnMx8CcB1WR31) | [Guna](https://open.spotify.com/album/5LuK7Me5cNKxuE05ANbkdY) | 5:32 |
-| 3 | [Sehari Sehari](https://open.spotify.com/track/2SIQgKcQP0ztLtV6APZ9y8) | [Thoshi](https://open.spotify.com/artist/6JTjs71TL7qvv1KjObqOLC), [Priya Hemesh](https://open.spotify.com/artist/1FI8Am7UxI2XLUtFs2jPva) | [Oye](https://open.spotify.com/album/4I7t128bqln9m45RZlMJU8) | 4:45 |
+| 3 | [Habibi Jilebi \(From "Bubblegum"\)](https://open.spotify.com/track/5MpQGOpBnJYL8NwbsCgdAQ) | [Sricharan Pakala](https://open.spotify.com/artist/3lnECmHir8dXsqVV0QuruT), [Rahul Sipligunj](https://open.spotify.com/artist/1H4ZvA2yyK7wCmbvEUWvPn) | [Habibi Jilebi \(From "Bubblegum"\)](https://open.spotify.com/album/6zPZeAvrPlyi03cyJbsXg4) | 2:49 |
 | 4 | [Odiyamma \(From "Hi Nanna"\) \[TELUGU\]](https://open.spotify.com/track/1g9V1QE7vbeAx5Xm04DfLi) | [Dhruv Vikram](https://open.spotify.com/artist/6ivte6aFersdzMprXpVDiO), [Shruti Haasan](https://open.spotify.com/artist/06vOoTzj6cIac9FMbNXz9h), [Chinmayi](https://open.spotify.com/artist/5UJ2sHO2ELrgW6aXeRLTQQ) | [Odiyamma \(From "Hi Nanna"\) \[TELUGU\]](https://open.spotify.com/album/3l0neQyP1UjjSFoyCtxS75) | 3:15 |
 | 5 | [Sooreede \(From "Salaar Cease Fire \- Telugu"\)](https://open.spotify.com/track/78TQJ6QyHZNRXUNFBpNuhP) | [Ravi Basrur](https://open.spotify.com/artist/2q1LRGJHpFxovU8Tz6OgRn), [Krishna Kanth](https://open.spotify.com/artist/2yvOLf1gt6m9qPgzzqpxQx), [Harini Ivaturi](https://open.spotify.com/artist/1lr0MlyZ8Q24eFtn7gcMmI) | [Sooreede \(From "Salaar Cease Fire \- Telugu"\)](https://open.spotify.com/album/5FW8Ypbbg0hASh6jLtNZ3Z) | 3:18 |
 | 6 | [Raghunandana \(From "HanuMan"\) \[Telugu\]](https://open.spotify.com/track/0YhKDLlKJOvQnztL7tXVx0) | [GowraHari](https://open.spotify.com/artist/1GEwRtJ6snJ0z2hzmXAG80), [Saicharan Bhaskaruni](https://open.spotify.com/artist/32rgf5uvf7GtEPjrHyJ6uU), [Lokeshwar Edara](https://open.spotify.com/artist/7ag0al5P3y3IzzEh0G7YL8), [Harshavardhan Chavali](https://open.spotify.com/artist/4ViFjJxWBVs6VrXj72J05G) | [Raghunandana \(From "HanuMan"\) \[Telugu\]](https://open.spotify.com/album/5tGdhRTc2jmIBnGQ6c2otS) | 2:31 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTt3gMo0DLxA.md) - [plain]
 | 49 | [Neeve](https://open.spotify.com/track/4QMZ6gwFTLk9qOhaQsGIxf) | [G\. V\. Prakash](https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ) | [Darling \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/13J2XQOZo0I8ZAufTXFvyd) | 4:41 |
 | 50 | [Oy..Oy..](https://open.spotify.com/track/7o20g3bZRdwy6MtiUP9pOx) | [Siddharth](https://open.spotify.com/artist/4K42hgH9ltvSq74hcOC85P), [Prashanthini](https://open.spotify.com/artist/4joteb3wCfZYGKjvF0XvLx) | [Oye](https://open.spotify.com/album/4I7t128bqln9m45RZlMJU8) | 4:42 |
 
-Snapshot ID: `MCxkNWM0ZmUwOTdiYjRmYmI3NmI0NmRmOTE0ZmIxNzhlMjI5ODhlYTdm`
+Snapshot ID: `MCw3YmRlNTExNzlmMGU0ZTg4ZjFhMzIzZmQwNjc1YmEyYTg1YWVhNmQz`

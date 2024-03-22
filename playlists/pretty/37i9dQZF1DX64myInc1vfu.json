@@ -1,12 +1,12 @@
 {
   "description": "The new bolero era. Los boleritos de hoy, just for you. Cover: Ambar Lucid",
-  "num_followers": 81876,
+  "num_followers": 81913,
   "original_name": "Lento.",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxZTA0NDE1YWUxM2FiMzdlZDRiYjEwYjQwZDc5Mzc3YTkzNWM2Yzhj",
+  "snapshot_id": "MCxkMWNmNGFlZjNlMjNlZDYzYjMyMzk1Y2JjMWJkY2UzYTUyMmQ4NWFk",
   "tracks": [
     {
       "added_at": "2024-03-13 20:34:38",
@@ -739,22 +739,6 @@
     {
       "added_at": "2024-03-13 20:34:38",
       "album": {
-        "name": "Diablo",
-        "url": "https://open.spotify.com/album/65ziJaVZNVHY1JGzCdvIvP"
-      },
-      "artists": [
-        {
-          "name": "MIA",
-          "url": "https://open.spotify.com/artist/5VDLfzakHXjOYeai6w9jDq"
-        }
-      ],
-      "duration_ms": 191750,
-      "name": "Diablo",
-      "url": "https://open.spotify.com/track/4K5EhJCXiS22Sh3ONueuY6"
-    },
-    {
-      "added_at": "2024-03-13 20:34:38",
-      "album": {
         "name": "Conversaciones Ajenas en un Caf\u00e9",
         "url": "https://open.spotify.com/album/4UHIunQP15TgnfK7aCWhM9"
       },
@@ -787,22 +771,18 @@
     {
       "added_at": "2024-03-13 20:34:38",
       "album": {
-        "name": "Para No Romperme",
-        "url": "https://open.spotify.com/album/4uBW6lEyQZtqMokjqkmNHh"
+        "name": "Diablo",
+        "url": "https://open.spotify.com/album/65ziJaVZNVHY1JGzCdvIvP"
       },
       "artists": [
         {
-          "name": "Los Rumberos",
-          "url": "https://open.spotify.com/artist/05k3uSz8dyKtbllIY988Ip"
-        },
-        {
-          "name": "El Kanka",
-          "url": "https://open.spotify.com/artist/4Byu6VBhuMYzcoIUrIyLuL"
+          "name": "MIA",
+          "url": "https://open.spotify.com/artist/5VDLfzakHXjOYeai6w9jDq"
         }
       ],
-      "duration_ms": 171413,
-      "name": "Para No Romperme",
-      "url": "https://open.spotify.com/track/7BcgW4kJU9ERyAB0EBx7Xr"
+      "duration_ms": 191750,
+      "name": "Diablo",
+      "url": "https://open.spotify.com/track/4K5EhJCXiS22Sh3ONueuY6"
     },
     {
       "added_at": "2024-03-13 20:34:38",
@@ -827,6 +807,26 @@
     {
       "added_at": "2024-03-13 20:34:38",
       "album": {
+        "name": "Para No Romperme",
+        "url": "https://open.spotify.com/album/4uBW6lEyQZtqMokjqkmNHh"
+      },
+      "artists": [
+        {
+          "name": "Los Rumberos",
+          "url": "https://open.spotify.com/artist/05k3uSz8dyKtbllIY988Ip"
+        },
+        {
+          "name": "El Kanka",
+          "url": "https://open.spotify.com/artist/4Byu6VBhuMYzcoIUrIyLuL"
+        }
+      ],
+      "duration_ms": 171413,
+      "name": "Para No Romperme",
+      "url": "https://open.spotify.com/track/7BcgW4kJU9ERyAB0EBx7Xr"
+    },
+    {
+      "added_at": "2024-03-13 20:34:38",
+      "album": {
         "name": "Obras Maestras",
         "url": "https://open.spotify.com/album/5yRGaq6cuiO5t4FDy271sK"
       },
@@ -839,38 +839,6 @@
       "duration_ms": 201941,
       "name": "Voy",
       "url": "https://open.spotify.com/track/6fKvKQATKlwDsHgj6E6nyf"
-    },
-    {
-      "added_at": "2024-03-13 20:34:38",
-      "album": {
-        "name": "C\u00f3mplices",
-        "url": "https://open.spotify.com/album/7tZbJdirOvGF5BwjrcD4BQ"
-      },
-      "artists": [
-        {
-          "name": "Sebasti\u00e1n Romero",
-          "url": "https://open.spotify.com/artist/0FpJe752weMmwiyJyF8zXq"
-        }
-      ],
-      "duration_ms": 183042,
-      "name": "C\u00f3mplices",
-      "url": "https://open.spotify.com/track/0ja9BfD4zrXznqkTKfz0Te"
-    },
-    {
-      "added_at": "2024-03-13 20:34:38",
-      "album": {
-        "name": "COMO ARRUINARTE LA VIDA",
-        "url": "https://open.spotify.com/album/5aEq1iRskstuZoDRcCD44Z"
-      },
-      "artists": [
-        {
-          "name": "Daniel, Me Est\u00e1s Matando",
-          "url": "https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE"
-        }
-      ],
-      "duration_ms": 219391,
-      "name": "Volver\u00e1s",
-      "url": "https://open.spotify.com/track/2KGTRMBVuBjYrsjIgBPApK"
     },
     {
       "added_at": "2024-03-13 20:34:38",
@@ -891,6 +859,38 @@
       "duration_ms": 213511,
       "name": "Duele",
       "url": "https://open.spotify.com/track/5IgAMrxJSs0IpSE3R7oRln"
+    },
+    {
+      "added_at": "2024-03-13 20:34:38",
+      "album": {
+        "name": "COMO ARRUINARTE LA VIDA",
+        "url": "https://open.spotify.com/album/5aEq1iRskstuZoDRcCD44Z"
+      },
+      "artists": [
+        {
+          "name": "Daniel, Me Est\u00e1s Matando",
+          "url": "https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE"
+        }
+      ],
+      "duration_ms": 219391,
+      "name": "Volver\u00e1s",
+      "url": "https://open.spotify.com/track/2KGTRMBVuBjYrsjIgBPApK"
+    },
+    {
+      "added_at": "2024-03-13 20:34:38",
+      "album": {
+        "name": "C\u00f3mplices",
+        "url": "https://open.spotify.com/album/7tZbJdirOvGF5BwjrcD4BQ"
+      },
+      "artists": [
+        {
+          "name": "Sebasti\u00e1n Romero",
+          "url": "https://open.spotify.com/artist/0FpJe752weMmwiyJyF8zXq"
+        }
+      ],
+      "duration_ms": 183042,
+      "name": "C\u00f3mplices",
+      "url": "https://open.spotify.com/track/0ja9BfD4zrXznqkTKfz0Te"
     },
     {
       "added_at": "2024-03-13 20:34:38",

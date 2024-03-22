@@ -4,7 +4,7 @@
 
 > Relax to these acoustic soul songs\. Cover: Teddy Swims
 
-221 songs - 13 hr 26 min
+222 songs - 13 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -218,6 +218,7 @@
 | [Up All Night \- Acoustic Version](https://open.spotify.com/track/0sF9rafYmmI4Kw8PCCRSFo) | [TheColorGrey](https://open.spotify.com/artist/7nG93Qrraq1TbXn8SqlzTd) | [Up All Night](https://open.spotify.com/album/1RlvoML4BfPSxFOqQCx4Gi) | 3:36 | 2021-12-09 | 2022-05-04 |
 | [Video Game](https://open.spotify.com/track/7HmoOrC8B7YUG3XXPizxRp) | [Budjerah](https://open.spotify.com/artist/4hOb2WdQMQWyG6RQAhR7iE) | [Video Game](https://open.spotify.com/album/4Ts5SXRtH4FJuMo104aZv1) | 2:44 | 2023-08-15 |  |
 | [Wait for You](https://open.spotify.com/track/0jjsLGCJmUzYRu6GKQqlR4) | [Dayo Bello](https://open.spotify.com/artist/41mwTkqJfMxPMbQmEdN2S2) | [Wait for You](https://open.spotify.com/album/2zdqd5mCgqHeDh6CR2PYLY) | 4:34 | 2021-12-09 | 2022-01-14 |
+| [Wake Up](https://open.spotify.com/track/64xjFRx6I7JL2IMOxpQFqK) | [Majo](https://open.spotify.com/artist/3bFHx7H43rnf5GzOWnqwdf) | [Things I Never Said](https://open.spotify.com/album/69zXuBI5Qs9pSnmZxT7pTo) | 2:50 | 2024-03-21 |  |
 | [WAVER \(Till it All Makes Sense\)](https://open.spotify.com/track/1xfNozfur1x0R12FzSeEIl) | [vAn](https://open.spotify.com/artist/31zEC5Veeh3aoNFfiv1poC) | [AUTUMN BOON](https://open.spotify.com/album/24Gu4tv2kH4rtNc795TNYF) | 5:04 | 2022-11-03 |  |
 | [We All Fall Sometimes](https://open.spotify.com/track/25FPmmk6UDS4B7pNCWQ4Kq) | [Willum Maindo](https://open.spotify.com/artist/5W27B2CplHnE9lXLdLJNnG) | [We All Fall Sometimes](https://open.spotify.com/album/7pRG5o3vxrPKtDcz4ywxaw) | 4:30 | 2021-12-09 |  |
 | [What is Love](https://open.spotify.com/track/3NtgkbiePe3ccFyX5uOrGk) | [Romy Dya](https://open.spotify.com/artist/5gWzmnHTLNXz5CjOc0wAuK) | [What is Love](https://open.spotify.com/album/5xqsx7KZjvgLJE2EcbAr9q) | 3:46 | 2021-12-09 | 2024-02-09 |

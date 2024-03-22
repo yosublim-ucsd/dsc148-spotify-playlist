@@ -2,9 +2,9 @@
 
 ### [+852 Rising](https://open.spotify.com/playlist/37i9dQZF1DX5JZ2TewQjUr)
 
-> 香港獨立樂隊及音樂人新浪潮集合晒喺度！記得聽真啲！Cover:  RAM
+> 香港獨立樂隊及音樂人新浪潮集合晒喺度！記得聽真啲！Cover:  Billy Choi, East City, Ki Chan, Fatty Tai
 
-951 songs - 2 day 5 hr 53 min
+955 songs - 2 day 6 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -120,8 +120,10 @@
 | [DAI MOND](https://open.spotify.com/track/6I0Y1KlUkH1pwKNKeanzRQ) | [TYNT](https://open.spotify.com/artist/4HB5A4ssKVSg8JcTkqLx2p) | [DAI MOND](https://open.spotify.com/album/0KND9Ae7tkWf0Ml2vgbH6e) | 3:08 | 2022-05-26 | 2022-07-29 |
 | [Dancing Cus It's Raining](https://open.spotify.com/track/4yQT0SptGrIAfZbqtyWE9o) | [Anna hisbbuR](https://open.spotify.com/artist/1aGiVSaZQoVVgMOLYF5yVR), [Jan Curious](https://open.spotify.com/artist/1DxU7yGnE1XPeLYzOHdKSy) | [Now You See Me](https://open.spotify.com/album/1g3wmF7jrRUX7UtMFrpi2J) | 3:14 | 2022-06-09 | 2022-09-09 |
 | [Dancing in Delirium](https://open.spotify.com/track/6VPECBUXUyqaHNdwJTRaYs) | [LilithQueenB](https://open.spotify.com/artist/63omHXed38Mlx1DyIlSP3m) | [Dancing in Delirium](https://open.spotify.com/album/072k6yfPLKbZG2iz7cBL51) | 2:40 | 2022-11-10 | 2023-03-18 |
+| [Dancing In The Moonlight](https://open.spotify.com/track/5xZpsqCt1CqZFljgtHoX2O) | [Susan Wong](https://open.spotify.com/artist/3stKuoGxVciVL8qXRRbzxI) | [Dancing In The Moonlight](https://open.spotify.com/album/3JlDsYTnxywv2zBIWXumpu) | 4:09 | 2024-03-21 |  |
 | [Darling, Stop Me](https://open.spotify.com/track/1zCPxGoZZN5DaFHEtI3HTK) | [Sam Kaiser](https://open.spotify.com/artist/36U2ZqoHfSHMraW6SCEOkw) | [Darling, Stop Me](https://open.spotify.com/album/4O6zgjlPmdT6V0ObWGvkaJ) | 3:38 | 2023-08-24 | 2023-12-01 |
 | [Dear Viu Tv](https://open.spotify.com/track/2g3P4LTzwYFIZEV5bvyssm) | [痛哭大伯吧 Crying Debali](https://open.spotify.com/artist/3IkPOmwzOuLSDKhwkmYAGq) | [Dear Viu Tv](https://open.spotify.com/album/1lhf3T4BdskvTAJCCAtJ3q) | 2:03 | 2023-05-25 | 2023-09-01 |
+| [Demon](https://open.spotify.com/track/5McqzZpmquik6IKt68mifT) | [Pi Pi Pierrot](https://open.spotify.com/artist/4EWciNc2dVhDRUeLQ7ixs3) | [Flower Eater](https://open.spotify.com/album/7plt5CetyH9mzEUCgd0lLM) | 2:26 | 2024-03-21 |  |
 | [DEMONS](https://open.spotify.com/track/0UMhOCEAdwvxWaZ0K7V6KU) | [Derek Chan](https://open.spotify.com/artist/2LcWIUsksNKalGyzZj7a8x) | [DEMONS](https://open.spotify.com/album/4ZCF8pOZliBXL2RhM7VDFW) | 2:27 | 2022-05-26 | 2022-07-29 |
 | [Diary](https://open.spotify.com/track/3wgo4Y2wUJrBqFW26KjAcD) | [Wafi!](https://open.spotify.com/artist/2jmXc7n39dA18y6MUi5rqB) | [Diary](https://open.spotify.com/album/59clnR7qJSWyNQbvAOB7c5) | 1:21 | 2023-01-12 | 2023-02-03 |
 | [dirty af1s](https://open.spotify.com/track/5QtkOcCpbMfcVjDkzlx9al) | [melatonin boy](https://open.spotify.com/artist/66vheDPkCTxEfvcqxPZR19) | [dirty af1s](https://open.spotify.com/album/1MR4kqZbbAYSojdJpqeyAb) | 3:27 | 2022-10-13 | 2023-02-03 |
@@ -496,6 +498,7 @@
 | [Spaceship](https://open.spotify.com/track/3w6VSyZ1isHJ53YHDdT2CE) | [XTIE](https://open.spotify.com/artist/4CTOMcrGypQOoxVO3yFlE9) | [Spaceship](https://open.spotify.com/album/7qXjSLSvngusEgkvX7m5uU) | 3:23 | 2022-10-13 | 2022-11-04 |
 | [Spaceship](https://open.spotify.com/track/7Kz8jS0iJ07JjWkN6gY0S6) | [XTIE](https://open.spotify.com/artist/4CTOMcrGypQOoxVO3yFlE9) | [Spaceship](https://open.spotify.com/album/4wc8biQw9TsUg8DdH6IU4s) | 3:23 | 2022-07-07 | 2022-10-19 |
 | [Spaceship \- SZEMEI1994 Remix](https://open.spotify.com/track/5b6Bz3LfzrNymVDF5ecQYB) | [XTIE](https://open.spotify.com/artist/4CTOMcrGypQOoxVO3yFlE9), [SZEMEI1994](https://open.spotify.com/artist/0LrMg79iUC04QawdFKLjRu) | [Spaceship \(SZEMEI1994 Remix\)](https://open.spotify.com/album/7qeSBmka6Sl5vRAOV01HpI) | 4:36 | 2023-07-06 | 2023-09-15 |
+| [spiltcans?](https://open.spotify.com/track/1gG9Tj3MQsbcBIfXh0u10u) | [The Wavelength](https://open.spotify.com/artist/3yvaG8Q6oLAp95rMecgACr) | [spiltcans?](https://open.spotify.com/album/5lAaJpNbBAOqx1XFkXHiEe) | 4:17 | 2024-03-21 |  |
 | [Sponsor Me](https://open.spotify.com/track/4QXSWFFlH52EIpRhpiVqg7) | [hisbbuR](https://open.spotify.com/artist/6Bdob4UTEhELiXLw4tyGMa) | [Sponsor Me](https://open.spotify.com/album/6D3F6O4RM836vWlgl81zlb) | 3:40 | 2023-03-02 | 2023-07-14 |
 | [Stay](https://open.spotify.com/track/0kOBbEfT0pdghV2SvfkngL) | [Hzzi](https://open.spotify.com/artist/6ylNoo2bvpX3xCmlZKIIGm) | [Stay](https://open.spotify.com/album/0batzFZ3TrD3ZQs78hWHef) | 2:33 | 2023-02-02 | 2023-05-26 |
 | [Stay With Me](https://open.spotify.com/track/4Zv9U2MdzyUaltADC1h1GG) | [Jol!e](https://open.spotify.com/artist/4PtqczgLjMiM0hO0zUQqkq) | [Stay With Me](https://open.spotify.com/album/1K9NGY8X4jRqpy0pKB37j0) | 4:12 | 2024-02-22 |  |
@@ -746,6 +749,7 @@
 | [對面海](https://open.spotify.com/track/36we7aFSXI4GlOqLqe2VHe) | [Hedgehog](https://open.spotify.com/artist/1rDjU7YKKDhieHkjaJNbEO), [黃瑋中](https://open.spotify.com/artist/7koY0czzC0JuxAjubarByG) | [對面海](https://open.spotify.com/album/6AuR7uj5UEMjZlvgZykG7A) | 4:13 | 2023-09-07 | 2023-12-01 |
 | [小調90s](https://open.spotify.com/track/2ynXtmgPZMI3wiAxZjaiRa) | [Denni N](https://open.spotify.com/artist/0yDDyHmNe83A0flHy0CalI) | [小調90s](https://open.spotify.com/album/48AWoXuNFDQeDe5LCW0FP8) | 2:07 | 2022-11-24 | 2023-02-03 |
 | [小鹿亂撞\(feat\. Teriver Cheung\)](https://open.spotify.com/track/2t5nL7RagGw1jJGy0Bve76) | [Novel Friday](https://open.spotify.com/artist/2c2dutthGptIGoIlB6Nh68), [Teriver Cheung](https://open.spotify.com/artist/4vPd1Ln6Xn65TCTvhT6ARy) | [小鹿亂撞\(feat\. Teriver Cheung\)](https://open.spotify.com/album/65MVSKnupszlQDM48dTzqr) | 4:06 | 2022-05-26 | 2022-07-29 |
+| [尖沙咀P出口](https://open.spotify.com/track/30nrLOtULxN9OoqMtDcFdg) | [Salty Chick](https://open.spotify.com/artist/37gag5BhRpch91IX5dEf5A) | [尖沙咀P出口](https://open.spotify.com/album/1f49qUyAIJtSb4Zli6Dg0Q) | 3:10 | 2024-03-21 |  |
 | [尾班車](https://open.spotify.com/track/6chHZLZN0yVQ6jPgvwmQio) | [JMS Cube](https://open.spotify.com/artist/3dm28ebF4Oyve1SHynG8Y2) | [尾班車](https://open.spotify.com/album/2Myq0QkN84MxRqqTxin0yR) | 4:22 | 2023-01-12 | 2023-02-03 |
 | [屌, MOVE!](https://open.spotify.com/track/0hXs51pV3bN5U9naB6WbEA) | [Jayj](https://open.spotify.com/artist/3kH3cdvEQ8E33l3eOQC2N9), [G.I.N](https://open.spotify.com/artist/66a8AfgfuZUBboOEP8kPT4) | [屌, MOVE!](https://open.spotify.com/album/4nSXZ44hMfzfoJYeuwcO1I) | 2:49 | 2023-01-12 | 2023-02-03 |
 | [山](https://open.spotify.com/track/2xzDKreyfbW10hylyz1elm) | [Triple G ](https://open.spotify.com/artist/7bsSAU7uvQhgZTBZ4jtMLv) | [光](https://open.spotify.com/album/2MtSFBXfAvd1UlO6OVVkpP) | 4:33 | 2023-04-20 | 2023-07-14 |

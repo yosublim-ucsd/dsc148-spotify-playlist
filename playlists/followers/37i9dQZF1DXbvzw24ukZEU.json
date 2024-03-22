@@ -1,5 +1,5 @@
 {
-  "2024-03-21": 95338,
+  "2024-03-22": 95440,
   "date_first_scraped": "2022-01-13",
   "description": "Relax to the the rhythm of these smooth Latin tunes of the 2010s.\n\n",
   "name": "Latin Chillout 10s",
@@ -331,7 +331,7 @@
       ],
       "date_added": "2021-10-12",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-13",
+      "date_removed": null,
       "duration_ms": 228080,
       "name": "Como Mirarte",
       "url": "https://open.spotify.com/track/0CXEPVeQDLgDBfvcsQpXq1"
@@ -1201,7 +1201,7 @@
       ],
       "date_added": "2021-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-21",
       "duration_ms": 279213,
       "name": "Lo Que Construimos",
       "url": "https://open.spotify.com/track/5wWxUdgn2OugIOvLJOdreH"
@@ -2284,7 +2284,7 @@
     },
     {
       "album": {
-        "name": "Toda Remix",
+        "name": "Toda (Remix)",
         "url": "https://open.spotify.com/album/49BbDxaXZIPz4sZE6G7618"
       },
       "artists": [
@@ -2313,7 +2313,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 367680,
-      "name": "Toda Remix - Remix",
+      "name": "Toda (Remix)",
       "url": "https://open.spotify.com/track/47ZS1OjnJpJVfGN9yHXfMn"
     },
     {

@@ -1794,6 +1794,24 @@
     {
       "album": {
         "name": "Fantasy",
+        "url": "https://open.spotify.com/album/5l71P115BUUYgTjJcafrNj"
+      },
+      "artists": [
+        {
+          "name": "Luli Lee",
+          "url": "https://open.spotify.com/artist/3h4p2PKHb9JejBCHmWlthK"
+        }
+      ],
+      "date_added": "2022-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210136,
+      "name": "Fantasy",
+      "url": "https://open.spotify.com/track/42XyvFHOonb6YzyyJQLkrT"
+    },
+    {
+      "album": {
+        "name": "Fantasy",
         "url": "https://open.spotify.com/album/4Kek3o8zZRFpaNXyIMwJWp"
       },
       "artists": [
@@ -6056,24 +6074,6 @@
       "duration_ms": 194772,
       "name": "\ucf54\ucf54\ub11b \ub7ec\ube0c Coconut Love",
       "url": "https://open.spotify.com/track/5f1RLYrL4272Gm5lHxuLFD"
-    },
-    {
-      "album": {
-        "name": "\ud658\uc0c1 Fantasy",
-        "url": "https://open.spotify.com/album/5l71P115BUUYgTjJcafrNj"
-      },
-      "artists": [
-        {
-          "name": "Luli Lee",
-          "url": "https://open.spotify.com/artist/3h4p2PKHb9JejBCHmWlthK"
-        }
-      ],
-      "date_added": "2022-09-05",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 210136,
-      "name": "\ud658\uc0c1 Fantasy",
-      "url": "https://open.spotify.com/track/42XyvFHOonb6YzyyJQLkrT"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX8cV4ZaSfaxp"

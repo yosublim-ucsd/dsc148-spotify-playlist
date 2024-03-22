@@ -1,12 +1,12 @@
 {
   "description": "Tune in, bliss out",
-  "num_followers": 387928,
+  "num_followers": 387940,
   "original_name": "Just Chill",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2YjlkMWE3NDlkZGM0YzhkOTdmZDY3Y2I5MjQ2ODBjMzMxOGZjOTJj",
+  "snapshot_id": "MCxlNGIzZGFmZDI1MzBjZTk0Zjk4ODQ1NDE2NjIwZDJkOWQ5MzZlMDNm",
   "tracks": [
     {
       "added_at": "2024-03-14 13:00:00",
@@ -531,22 +531,6 @@
     {
       "added_at": "2024-03-14 13:00:00",
       "album": {
-        "name": "Tidal Waves",
-        "url": "https://open.spotify.com/album/5JUNGkyetUR1RC0svtR772"
-      },
-      "artists": [
-        {
-          "name": "Isaak Young",
-          "url": "https://open.spotify.com/artist/7qmOAgRUFZhLfwtyCGPKdo"
-        }
-      ],
-      "duration_ms": 190820,
-      "name": "Tidal Waves",
-      "url": "https://open.spotify.com/track/3YTZyDywwVOWOXw2d970Dx"
-    },
-    {
-      "added_at": "2024-03-14 13:00:00",
-      "album": {
         "name": "Promises",
         "url": "https://open.spotify.com/album/1ccKMe1V4ixAhUZSQmWwqF"
       },
@@ -563,6 +547,38 @@
       "duration_ms": 208375,
       "name": "Promises",
       "url": "https://open.spotify.com/track/6J1J0mAEKODPz10Tthdhwv"
+    },
+    {
+      "added_at": "2024-03-14 13:00:00",
+      "album": {
+        "name": "Tidal Waves",
+        "url": "https://open.spotify.com/album/5JUNGkyetUR1RC0svtR772"
+      },
+      "artists": [
+        {
+          "name": "Isaak Young",
+          "url": "https://open.spotify.com/artist/7qmOAgRUFZhLfwtyCGPKdo"
+        }
+      ],
+      "duration_ms": 190820,
+      "name": "Tidal Waves",
+      "url": "https://open.spotify.com/track/3YTZyDywwVOWOXw2d970Dx"
+    },
+    {
+      "added_at": "2024-03-14 13:00:00",
+      "album": {
+        "name": "Sanctuary Point",
+        "url": "https://open.spotify.com/album/2vnz72t4mSjrw1RhgfDSTN"
+      },
+      "artists": [
+        {
+          "name": "Mel Blue",
+          "url": "https://open.spotify.com/artist/6GV5OpDaGm4sYeWlaXMHnJ"
+        }
+      ],
+      "duration_ms": 224500,
+      "name": "Wake Up Call",
+      "url": "https://open.spotify.com/track/6HjoXmL9BiC1Cmb7oktz5N"
     },
     {
       "added_at": "2024-03-14 13:00:00",
@@ -587,22 +603,6 @@
       "duration_ms": 95023,
       "name": "What a Wonderful World - Krister Remix",
       "url": "https://open.spotify.com/track/7bHGlhtwAMSuaMyXn2GqII"
-    },
-    {
-      "added_at": "2024-03-14 13:00:00",
-      "album": {
-        "name": "Sanctuary Point",
-        "url": "https://open.spotify.com/album/2vnz72t4mSjrw1RhgfDSTN"
-      },
-      "artists": [
-        {
-          "name": "Mel Blue",
-          "url": "https://open.spotify.com/artist/6GV5OpDaGm4sYeWlaXMHnJ"
-        }
-      ],
-      "duration_ms": 224500,
-      "name": "Wake Up Call",
-      "url": "https://open.spotify.com/track/6HjoXmL9BiC1Cmb7oktz5N"
     },
     {
       "added_at": "2024-03-14 13:00:00",
@@ -919,6 +919,22 @@
     {
       "added_at": "2024-03-14 13:00:00",
       "album": {
+        "name": "Actual Life 2 Piano EP (February 2 - October 15 2021)",
+        "url": "https://open.spotify.com/album/7wAADcoEepJlzQPfKlX5S3"
+      },
+      "artists": [
+        {
+          "name": "Fred again..",
+          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
+        }
+      ],
+      "duration_ms": 309000,
+      "name": "Faisal (London Bridge Station)",
+      "url": "https://open.spotify.com/track/1kpaYlHQcazd3U3HpY7uhi"
+    },
+    {
+      "added_at": "2024-03-14 13:00:00",
+      "album": {
         "name": "Must Be Dreaming",
         "url": "https://open.spotify.com/album/7bplOyFHY3tfZUgUr1KcCp"
       },
@@ -955,22 +971,6 @@
     {
       "added_at": "2024-03-14 13:00:00",
       "album": {
-        "name": "Actual Life 2 Piano EP (February 2 - October 15 2021)",
-        "url": "https://open.spotify.com/album/7wAADcoEepJlzQPfKlX5S3"
-      },
-      "artists": [
-        {
-          "name": "Fred again..",
-          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
-        }
-      ],
-      "duration_ms": 309000,
-      "name": "Faisal (London Bridge Station)",
-      "url": "https://open.spotify.com/track/1kpaYlHQcazd3U3HpY7uhi"
-    },
-    {
-      "added_at": "2024-03-14 13:00:00",
-      "album": {
         "name": "Hope For Sale",
         "url": "https://open.spotify.com/album/2opiJIrYClkW7qD2vM6vSi"
       },
@@ -1003,22 +1003,6 @@
     {
       "added_at": "2024-03-14 13:00:00",
       "album": {
-        "name": "Back In Love",
-        "url": "https://open.spotify.com/album/6QqRF5zCtaC7QxClwaGUDf"
-      },
-      "artists": [
-        {
-          "name": "LEISURE",
-          "url": "https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R"
-        }
-      ],
-      "duration_ms": 281253,
-      "name": "Back In Love",
-      "url": "https://open.spotify.com/track/20aysL9kYxvNPuSWEzh8pl"
-    },
-    {
-      "added_at": "2024-03-14 13:00:00",
-      "album": {
         "name": "Astray",
         "url": "https://open.spotify.com/album/5T1KTLXebGps2jgsr7opyz"
       },
@@ -1039,18 +1023,18 @@
     {
       "added_at": "2024-03-14 13:00:00",
       "album": {
-        "name": "V I N C E N T",
-        "url": "https://open.spotify.com/album/5OUJEZppb5mHHwR5Uw0rzw"
+        "name": "Back In Love",
+        "url": "https://open.spotify.com/album/6QqRF5zCtaC7QxClwaGUDf"
       },
       "artists": [
         {
-          "name": "FKJ",
-          "url": "https://open.spotify.com/artist/2FwDTncULUnmANIh7qKa5z"
+          "name": "LEISURE",
+          "url": "https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R"
         }
       ],
-      "duration_ms": 200213,
-      "name": "Way Out",
-      "url": "https://open.spotify.com/track/54vmnIj6yLipSrw1KMK3zg"
+      "duration_ms": 281253,
+      "name": "Back In Love",
+      "url": "https://open.spotify.com/track/20aysL9kYxvNPuSWEzh8pl"
     },
     {
       "added_at": "2024-03-14 13:00:00",
@@ -1075,6 +1059,22 @@
     {
       "added_at": "2024-03-14 13:00:00",
       "album": {
+        "name": "V I N C E N T",
+        "url": "https://open.spotify.com/album/5OUJEZppb5mHHwR5Uw0rzw"
+      },
+      "artists": [
+        {
+          "name": "FKJ",
+          "url": "https://open.spotify.com/artist/2FwDTncULUnmANIh7qKa5z"
+        }
+      ],
+      "duration_ms": 200213,
+      "name": "Way Out",
+      "url": "https://open.spotify.com/track/54vmnIj6yLipSrw1KMK3zg"
+    },
+    {
+      "added_at": "2024-03-14 13:00:00",
+      "album": {
         "name": "Hollow",
         "url": "https://open.spotify.com/album/13R5GMY8KhoR2HNyYblrhU"
       },
@@ -1095,6 +1095,22 @@
     {
       "added_at": "2024-03-14 13:00:00",
       "album": {
+        "name": "Miracles",
+        "url": "https://open.spotify.com/album/6zkjYpTdFBcRz5m4Ui8tsy"
+      },
+      "artists": [
+        {
+          "name": "CRi",
+          "url": "https://open.spotify.com/artist/3NaMuUYTIGm6CC3YqTuTvi"
+        }
+      ],
+      "duration_ms": 269249,
+      "name": "Gemini",
+      "url": "https://open.spotify.com/track/045XVRhD2NCR8LtNVR1Yqh"
+    },
+    {
+      "added_at": "2024-03-14 13:00:00",
+      "album": {
         "name": "Beth",
         "url": "https://open.spotify.com/album/2jE8qn88oYgqh63C1UAtJ9"
       },
@@ -1111,22 +1127,6 @@
       "duration_ms": 115847,
       "name": "Beth",
       "url": "https://open.spotify.com/track/4coIsInDg3uwBC3zUQhnsE"
-    },
-    {
-      "added_at": "2024-03-14 13:00:00",
-      "album": {
-        "name": "Miracles",
-        "url": "https://open.spotify.com/album/6zkjYpTdFBcRz5m4Ui8tsy"
-      },
-      "artists": [
-        {
-          "name": "CRi",
-          "url": "https://open.spotify.com/artist/3NaMuUYTIGm6CC3YqTuTvi"
-        }
-      ],
-      "duration_ms": 269249,
-      "name": "Gemini",
-      "url": "https://open.spotify.com/track/045XVRhD2NCR8LtNVR1Yqh"
     },
     {
       "added_at": "2024-03-14 13:00:00",
@@ -1167,26 +1167,6 @@
     {
       "added_at": "2024-03-14 13:00:00",
       "album": {
-        "name": "Falling",
-        "url": "https://open.spotify.com/album/3s8ghNpqaH4O7Xk0BqAfnS"
-      },
-      "artists": [
-        {
-          "name": "Chris Malinchak",
-          "url": "https://open.spotify.com/artist/5UVzX8pQe6bb5ueNdfViih"
-        },
-        {
-          "name": "KOLIDESCOPES",
-          "url": "https://open.spotify.com/artist/21ey6s5hEcTcVKDrF5MWby"
-        }
-      ],
-      "duration_ms": 197739,
-      "name": "Falling",
-      "url": "https://open.spotify.com/track/3qomIBwYjMXzo0qDVfSYzc"
-    },
-    {
-      "added_at": "2024-03-14 13:00:00",
-      "album": {
         "name": "some kind of peace",
         "url": "https://open.spotify.com/album/6NW97EFYSQ9X1CulKyL7wf"
       },
@@ -1203,6 +1183,26 @@
       "duration_ms": 226866,
       "name": "Loom (feat. Bonobo)",
       "url": "https://open.spotify.com/track/7HfDDnqygZdXqzH33fWZfx"
+    },
+    {
+      "added_at": "2024-03-14 13:00:00",
+      "album": {
+        "name": "Falling",
+        "url": "https://open.spotify.com/album/3s8ghNpqaH4O7Xk0BqAfnS"
+      },
+      "artists": [
+        {
+          "name": "Chris Malinchak",
+          "url": "https://open.spotify.com/artist/5UVzX8pQe6bb5ueNdfViih"
+        },
+        {
+          "name": "KOLIDESCOPES",
+          "url": "https://open.spotify.com/artist/21ey6s5hEcTcVKDrF5MWby"
+        }
+      ],
+      "duration_ms": 197739,
+      "name": "Falling",
+      "url": "https://open.spotify.com/track/3qomIBwYjMXzo0qDVfSYzc"
     },
     {
       "added_at": "2024-03-14 13:00:00",
@@ -1227,26 +1227,6 @@
     {
       "added_at": "2024-03-14 13:00:00",
       "album": {
-        "name": "Making Time",
-        "url": "https://open.spotify.com/album/25lUESkThyWEygZ6iZcWt6"
-      },
-      "artists": [
-        {
-          "name": "Sultan + Shepard",
-          "url": "https://open.spotify.com/artist/14Tg9FvbNismPR1PJHxRau"
-        },
-        {
-          "name": "Julia Church",
-          "url": "https://open.spotify.com/artist/4dHGNdVhBxCJUyMk9dR727"
-        }
-      ],
-      "duration_ms": 271025,
-      "name": "Making Time",
-      "url": "https://open.spotify.com/track/3hYVvOf0m67UxBdG57vgd5"
-    },
-    {
-      "added_at": "2024-03-14 13:00:00",
-      "album": {
         "name": "Inhale / Exhale (with Sabrina Claudio)",
         "url": "https://open.spotify.com/album/1bq8eTRB7o4IWYYeUQ3p5c"
       },
@@ -1267,6 +1247,26 @@
     {
       "added_at": "2024-03-14 13:00:00",
       "album": {
+        "name": "Making Time",
+        "url": "https://open.spotify.com/album/25lUESkThyWEygZ6iZcWt6"
+      },
+      "artists": [
+        {
+          "name": "Sultan + Shepard",
+          "url": "https://open.spotify.com/artist/14Tg9FvbNismPR1PJHxRau"
+        },
+        {
+          "name": "Julia Church",
+          "url": "https://open.spotify.com/artist/4dHGNdVhBxCJUyMk9dR727"
+        }
+      ],
+      "duration_ms": 271025,
+      "name": "Making Time",
+      "url": "https://open.spotify.com/track/3hYVvOf0m67UxBdG57vgd5"
+    },
+    {
+      "added_at": "2024-03-14 13:00:00",
+      "album": {
         "name": "Healing",
         "url": "https://open.spotify.com/album/0A8OvnT0h2rXSqZjdSdwQF"
       },
@@ -1279,26 +1279,6 @@
       "duration_ms": 251694,
       "name": "Healing",
       "url": "https://open.spotify.com/track/6BFgRgJWIuIba0K5IKupnT"
-    },
-    {
-      "added_at": "2024-03-14 13:00:00",
-      "album": {
-        "name": "Fade Into Black",
-        "url": "https://open.spotify.com/album/4kadAWFA2FHerIIjVhybE0"
-      },
-      "artists": [
-        {
-          "name": "Tinlicker",
-          "url": "https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza"
-        },
-        {
-          "name": "Panama",
-          "url": "https://open.spotify.com/artist/3W9UldYu0xJcaOAw2SUTDI"
-        }
-      ],
-      "duration_ms": 244878,
-      "name": "Fade Into Black",
-      "url": "https://open.spotify.com/track/6iLmRyoQ1y7zVkWzmXL4nt"
     },
     {
       "added_at": "2024-03-14 13:00:00",
@@ -1319,6 +1299,26 @@
       "duration_ms": 226146,
       "name": "Tides",
       "url": "https://open.spotify.com/track/7rRYiBxeudiHMNmgptnne9"
+    },
+    {
+      "added_at": "2024-03-14 13:00:00",
+      "album": {
+        "name": "Fade Into Black",
+        "url": "https://open.spotify.com/album/4kadAWFA2FHerIIjVhybE0"
+      },
+      "artists": [
+        {
+          "name": "Tinlicker",
+          "url": "https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza"
+        },
+        {
+          "name": "Panama",
+          "url": "https://open.spotify.com/artist/3W9UldYu0xJcaOAw2SUTDI"
+        }
+      ],
+      "duration_ms": 244878,
+      "name": "Fade Into Black",
+      "url": "https://open.spotify.com/track/6iLmRyoQ1y7zVkWzmXL4nt"
     }
   ],
   "unique_name": "Just Chill",

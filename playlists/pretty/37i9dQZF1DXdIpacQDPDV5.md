@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdIpacQDPDV5.md) - [plain]
 
 > The best of today's dance hits\. Cover: Rezz
 
-[Spotify](https://open.spotify.com/user/spotify) - 306,928 likes - 70 songs - 3 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 306,938 likes - 70 songs - 3 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdIpacQDPDV5.md) - [plain]
 | 69 | [Heaven In Your Eyes](https://open.spotify.com/track/08AmnbRYmqKagi0oBMttEx) | [Jack Trades](https://open.spotify.com/artist/1tvnV6kDJfjfVqpuFKSA2s) | [Heaven In Your Eyes](https://open.spotify.com/album/5Rdyi1MOYSurQwCUIMxjni) | 3:27 |
 | 70 | [Hot Tub Time Machine](https://open.spotify.com/track/6KDHALPczYRgug40ohucum) | [AVIRA](https://open.spotify.com/artist/7rznn3BVOuA5jyPB275jmS) | [Hot Tub Time Machine](https://open.spotify.com/album/0GfkXTfETvRJAXRBhPbq6S) | 3:00 |
 
-Snapshot ID: `MCwxNGNkOGJjZWU0MTE5YTIzYTY5MWRlZTY5YTNlYmM1N2RmNjRiMTA1`
+Snapshot ID: `MCw3MGNhZTRhNDFlMWQwYjBkMTBkYWEzNWFiNjEwNzE4ZGJiYzVmZTIx`

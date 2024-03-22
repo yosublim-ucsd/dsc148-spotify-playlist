@@ -1,12 +1,12 @@
 {
   "description": "Solo hit da cantare (anche fuori dalla doccia).",
-  "num_followers": 356417,
+  "num_followers": 356432,
   "original_name": "Canta Sotto La Doccia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmZjA1ZTgxNmI3YmUwZmUzNDcyN2RiMWQ3MTI4NjcwY2EwMmFhYzk4",
+  "snapshot_id": "MCw0NGFkNjAyMGQ1YWM5NjRhODM2ZTU4ODE5MjRhZGEwZjQyOGUwMmFl",
   "tracks": [
     {
       "added_at": "2024-01-30 14:04:15",
@@ -191,22 +191,6 @@
     {
       "added_at": "2024-01-30 14:04:15",
       "album": {
-        "name": "Abbey Road (Remastered)",
-        "url": "https://open.spotify.com/album/0ETFjACtuP2ADo6LFhL6HN"
-      },
-      "artists": [
-        {
-          "name": "The Beatles",
-          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
-        }
-      ],
-      "duration_ms": 185733,
-      "name": "Here Comes The Sun - Remastered 2009",
-      "url": "https://open.spotify.com/track/6dGnYIeXmHdcikdzNNDMm2"
-    },
-    {
-      "added_at": "2024-01-30 14:04:15",
-      "album": {
         "name": "Save Me, San Francisco (Golden Gate Edition)",
         "url": "https://open.spotify.com/album/1CwXS6MAz8Wo7K4TzW9iuR"
       },
@@ -223,6 +207,22 @@
     {
       "added_at": "2024-01-30 14:04:15",
       "album": {
+        "name": "Abbey Road (Remastered)",
+        "url": "https://open.spotify.com/album/0ETFjACtuP2ADo6LFhL6HN"
+      },
+      "artists": [
+        {
+          "name": "The Beatles",
+          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
+        }
+      ],
+      "duration_ms": 185733,
+      "name": "Here Comes The Sun - Remastered 2009",
+      "url": "https://open.spotify.com/track/6dGnYIeXmHdcikdzNNDMm2"
+    },
+    {
+      "added_at": "2024-01-30 14:04:15",
+      "album": {
         "name": "SNAP",
         "url": "https://open.spotify.com/album/4fb1QzgTJpTk9TBjFzjmlR"
       },
@@ -235,26 +235,6 @@
       "duration_ms": 179551,
       "name": "SNAP",
       "url": "https://open.spotify.com/track/76OGwb5RA9h4FxQPT33ekc"
-    },
-    {
-      "added_at": "2024-01-30 14:04:15",
-      "album": {
-        "name": "Quevedo: Bzrp Music Sessions, Vol. 52",
-        "url": "https://open.spotify.com/album/4PNqWiJAfjj32hVvlchV5u"
-      },
-      "artists": [
-        {
-          "name": "Bizarrap",
-          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
-        },
-        {
-          "name": "Quevedo",
-          "url": "https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K"
-        }
-      ],
-      "duration_ms": 198937,
-      "name": "Quevedo: Bzrp Music Sessions, Vol. 52",
-      "url": "https://open.spotify.com/track/2tTmW7RDtMQtBk7m2rYeSw"
     },
     {
       "added_at": "2024-01-30 14:04:15",
@@ -287,6 +267,26 @@
       "duration_ms": 189486,
       "name": "Memories",
       "url": "https://open.spotify.com/track/4cktbXiXOapiLBMprHFErI"
+    },
+    {
+      "added_at": "2024-01-30 14:04:15",
+      "album": {
+        "name": "Quevedo: Bzrp Music Sessions, Vol. 52",
+        "url": "https://open.spotify.com/album/4PNqWiJAfjj32hVvlchV5u"
+      },
+      "artists": [
+        {
+          "name": "Bizarrap",
+          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
+        },
+        {
+          "name": "Quevedo",
+          "url": "https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K"
+        }
+      ],
+      "duration_ms": 198937,
+      "name": "Quevedo: Bzrp Music Sessions, Vol. 52",
+      "url": "https://open.spotify.com/track/2tTmW7RDtMQtBk7m2rYeSw"
     },
     {
       "added_at": "2024-01-30 14:04:15",
@@ -1187,22 +1187,6 @@
     {
       "added_at": "2024-01-30 14:04:15",
       "album": {
-        "name": "Escapology",
-        "url": "https://open.spotify.com/album/4QyE2i0y4nyxHsiwm6VK9V"
-      },
-      "artists": [
-        {
-          "name": "Robbie Williams",
-          "url": "https://open.spotify.com/artist/2HcwFjNelS49kFbfvMxQYw"
-        }
-      ],
-      "duration_ms": 263866,
-      "name": "Feel",
-      "url": "https://open.spotify.com/track/2Ms33RTRCT6gArrpcrPxmo"
-    },
-    {
-      "added_at": "2024-01-30 14:04:15",
-      "album": {
         "name": "10,000 Hours (with Justin Bieber)",
         "url": "https://open.spotify.com/album/4ow6xJwn49gpWz7iHpOzWY"
       },
@@ -1219,6 +1203,22 @@
       "duration_ms": 167693,
       "name": "10,000 Hours (with Justin Bieber)",
       "url": "https://open.spotify.com/track/2wrJq5XKLnmhRXHIAf9xBa"
+    },
+    {
+      "added_at": "2024-01-30 14:04:15",
+      "album": {
+        "name": "Escapology",
+        "url": "https://open.spotify.com/album/4QyE2i0y4nyxHsiwm6VK9V"
+      },
+      "artists": [
+        {
+          "name": "Robbie Williams",
+          "url": "https://open.spotify.com/artist/2HcwFjNelS49kFbfvMxQYw"
+        }
+      ],
+      "duration_ms": 263866,
+      "name": "Feel",
+      "url": "https://open.spotify.com/track/2Ms33RTRCT6gArrpcrPxmo"
     },
     {
       "added_at": "2024-01-30 14:04:15",

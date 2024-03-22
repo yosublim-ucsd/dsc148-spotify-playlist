@@ -1601,6 +1601,32 @@
     },
     {
       "album": {
+        "name": "Madvillainy",
+        "url": "https://open.spotify.com/album/19bQiwEKhXUBJWY6oV3KZk"
+      },
+      "artists": [
+        {
+          "name": "Madvillain",
+          "url": "https://open.spotify.com/artist/2aoFQUeHD1U7pL098lRsDU"
+        },
+        {
+          "name": "Madlib",
+          "url": "https://open.spotify.com/artist/5LhTec3c7dcqBvpLRWbMcf"
+        },
+        {
+          "name": "MF DOOM",
+          "url": "https://open.spotify.com/artist/2pAWfrd7WFF3XhVt9GooDL"
+        }
+      ],
+      "date_added": "2024-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130479,
+      "name": "All Caps",
+      "url": "https://open.spotify.com/track/21O0XXPEWPtePt5RMY93Ob"
+    },
+    {
+      "album": {
         "name": "All Dz Chainz (feat. Lil Baby)",
         "url": "https://open.spotify.com/album/6lXYbUYhqxR56YlzPe8NxW"
       },

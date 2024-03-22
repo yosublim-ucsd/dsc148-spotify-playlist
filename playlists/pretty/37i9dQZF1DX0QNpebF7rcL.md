@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0QNpebF7rcL.md) - [plain]
 
 > The best in blues right now\. Cover: Robert Finley
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,425 likes - 100 songs - 6 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,456 likes - 100 songs - 6 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0QNpebF7rcL.md) - [plain]
 | 99 | [The Future Ain't What It Used to Be](https://open.spotify.com/track/7mNrmOsmZyjJw9FAmrboQO) | [Seth Walker](https://open.spotify.com/artist/3Bl4eNAFJkXXi0ewcjgGP9) | [The Future Ain't What It Used to Be](https://open.spotify.com/album/0DW4kByILcJVsYLxbfx035) | 3:20 |
 | 100 | [If You Love to Be Right](https://open.spotify.com/track/3RoRYcIHXzmsRoqP8S9qKQ) | [Andy Kahrs](https://open.spotify.com/artist/6FvylUNtOpotZOfJMa2udu) | [Together](https://open.spotify.com/album/5DuhMteI48gsbdQEkt4VOu) | 3:58 |
 
-Snapshot ID: `MCw4NzEwZjBlNDc2NmU0NjVmM2UyZTBjMTY1ZTBmOTFmYjJlYjIxMjMz`
+Snapshot ID: `MCw2MTUzODBhYjQ1YWE5NTcyMDQxOWQ0ODgzZWVjMTA1OWM3M2E5ZmQ3`

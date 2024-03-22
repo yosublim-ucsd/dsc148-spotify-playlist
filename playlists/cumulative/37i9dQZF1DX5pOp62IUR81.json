@@ -3399,6 +3399,24 @@
     },
     {
       "album": {
+        "name": "X-Men '97 Theme (From \"X-Men '97\")",
+        "url": "https://open.spotify.com/album/3lpER8BQDPbDsamuZviUaG"
+      },
+      "artists": [
+        {
+          "name": "The Newton Brothers",
+          "url": "https://open.spotify.com/artist/7dlJy6RJTqYprtHmWYBOv3"
+        }
+      ],
+      "date_added": "2024-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 65382,
+      "name": "X-Men '97 Theme - From \"X-Men '97\"",
+      "url": "https://open.spotify.com/track/3GIu4yGiUgvDi9ERewkbIa"
+    },
+    {
+      "album": {
         "name": "Shang-Chi and the Legend of the Ten Rings (Original Score)",
         "url": "https://open.spotify.com/album/72LIvmrUE6L6bBO5gzvbya"
       },

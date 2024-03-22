@@ -1,15 +1,47 @@
 {
-  "description": "Discover your new favourite artists with a focus on Germany, Switzerland, Austria. Cover: southstar",
-  "num_followers": 25350,
+  "description": "Discover your new favourite artists with a focus on Germany, Switzerland, Austria. Cover: Jazeek",
+  "num_followers": 25366,
   "original_name": "RADAR GSA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0ZGZmMGJkNWNhNWM5NzgwYTBlNmJjZjhhYmJmZDc3ZGJlNTFiNzE4",
+  "snapshot_id": "MCxlNzZkZmJlYTcyODY0M2Q2MDRlY2Y0YjE1NmFjY2UwZjlhMjYzNmVl",
   "tracks": [
     {
-      "added_at": "2024-03-14 23:00:00",
+      "added_at": "2024-03-21 23:00:00",
+      "album": {
+        "name": "Like This",
+        "url": "https://open.spotify.com/album/22t6nu9vCexm0YmvteIGp7"
+      },
+      "artists": [
+        {
+          "name": "Jazeek",
+          "url": "https://open.spotify.com/artist/1E8mXBWN7AXZCOPYbOky4J"
+        }
+      ],
+      "duration_ms": 172363,
+      "name": "Like This",
+      "url": "https://open.spotify.com/track/2bcmJLy2ulWs3jkfQBTwhl"
+    },
+    {
+      "added_at": "2024-03-21 23:00:00",
+      "album": {
+        "name": "viele",
+        "url": "https://open.spotify.com/album/4as6aHBiCwqiaXzxuIGz7A"
+      },
+      "artists": [
+        {
+          "name": "Wilhelmine",
+          "url": "https://open.spotify.com/artist/4f5pBvQZzdOGpFF0pwtUZG"
+        }
+      ],
+      "duration_ms": 219142,
+      "name": "viele",
+      "url": "https://open.spotify.com/track/38zw0z87YOu2zDY2DbgiyV"
+    },
+    {
+      "added_at": "2024-03-21 23:00:00",
       "album": {
         "name": "Set Me Free",
         "url": "https://open.spotify.com/album/0AlLXyc7bWVwCoDAZFu6p7"
@@ -33,7 +65,7 @@
       "url": "https://open.spotify.com/track/4QaTmat7UUkWqWPafw59pn"
     },
     {
-      "added_at": "2024-03-14 23:00:00",
+      "added_at": "2024-03-21 23:00:00",
       "album": {
         "name": "Willst du",
         "url": "https://open.spotify.com/album/3v6PmEA3aZhxeG1Y62nmS3"
@@ -53,7 +85,7 @@
       "url": "https://open.spotify.com/track/0XeyWcuJsrJo28jZGda4IQ"
     },
     {
-      "added_at": "2024-03-14 23:00:00",
+      "added_at": "2024-03-21 23:00:00",
       "album": {
         "name": "New Me",
         "url": "https://open.spotify.com/album/7aVPrwWdE7yWZ4baQflm9L"
@@ -69,7 +101,7 @@
       "url": "https://open.spotify.com/track/0InImmvabu40OepmE6HFtC"
     },
     {
-      "added_at": "2024-03-14 23:00:00",
+      "added_at": "2024-03-21 23:00:00",
       "album": {
         "name": "Bei dir",
         "url": "https://open.spotify.com/album/3V9JIUKGUb5yghblRgYFXQ"
@@ -85,7 +117,7 @@
       "url": "https://open.spotify.com/track/4lNN7M9Xr4cC7X0p6I4QhQ"
     },
     {
-      "added_at": "2024-03-14 23:00:00",
+      "added_at": "2024-03-21 23:00:00",
       "album": {
         "name": "Lucky Dancer",
         "url": "https://open.spotify.com/album/3F9fgG7jNyJR7i344LJnJF"
@@ -101,7 +133,7 @@
       "url": "https://open.spotify.com/track/3CuHNwe5re2CcjlmX6MmN1"
     },
     {
-      "added_at": "2024-03-14 23:00:00",
+      "added_at": "2024-03-21 23:00:00",
       "album": {
         "name": "SCARYTALE",
         "url": "https://open.spotify.com/album/1AxVUJ0eJ0lyOzgRYXIP5g"
@@ -117,7 +149,7 @@
       "url": "https://open.spotify.com/track/3o3gTvHOGeBqyzS0PtraTH"
     },
     {
-      "added_at": "2024-03-14 23:00:00",
+      "added_at": "2024-03-21 23:00:00",
       "album": {
         "name": "Don't Trust Bitches",
         "url": "https://open.spotify.com/album/5oBI6pmDDwjThwbbqqztR7"
@@ -133,7 +165,7 @@
       "url": "https://open.spotify.com/track/6GUqQOEIeYRGIHrseM5lwS"
     },
     {
-      "added_at": "2024-03-14 23:00:00",
+      "added_at": "2024-03-21 23:00:00",
       "album": {
         "name": "Z0RNIG [2O24]",
         "url": "https://open.spotify.com/album/6jd8NOxJvrkCjWGfbyZbHg"
@@ -149,23 +181,7 @@
       "url": "https://open.spotify.com/track/4bL1w0m4bPkjqMfi93RK1x"
     },
     {
-      "added_at": "2024-03-14 23:00:00",
-      "album": {
-        "name": "sie",
-        "url": "https://open.spotify.com/album/38kcgG8H98TRVAh7OVxe08"
-      },
-      "artists": [
-        {
-          "name": "Wilhelmine",
-          "url": "https://open.spotify.com/artist/4f5pBvQZzdOGpFF0pwtUZG"
-        }
-      ],
-      "duration_ms": 150000,
-      "name": "sie",
-      "url": "https://open.spotify.com/track/6QqeFkSVC1e5sfdfY68mb5"
-    },
-    {
-      "added_at": "2024-03-14 23:00:00",
+      "added_at": "2024-03-21 23:00:00",
       "album": {
         "name": "Zeit",
         "url": "https://open.spotify.com/album/4aL2wj06bRu9M93gzQJbpI"
@@ -181,7 +197,7 @@
       "url": "https://open.spotify.com/track/6WoyIbtL9Ex5jxiGF7a5jE"
     },
     {
-      "added_at": "2024-03-14 23:00:00",
+      "added_at": "2024-03-21 23:00:00",
       "album": {
         "name": "How Have You Been?",
         "url": "https://open.spotify.com/album/4FqEHLgdiMHXboXIztMkkO"
@@ -197,7 +213,7 @@
       "url": "https://open.spotify.com/track/43Ka2d0YZZlOzVGwf96xNw"
     },
     {
-      "added_at": "2024-03-14 23:00:00",
+      "added_at": "2024-03-21 23:00:00",
       "album": {
         "name": "GO TIME",
         "url": "https://open.spotify.com/album/2v46Uqtl1mZWr3CUzZLXnP"
@@ -213,7 +229,7 @@
       "url": "https://open.spotify.com/track/45qb6m1SimXHGVp8s5UTHn"
     },
     {
-      "added_at": "2024-03-14 23:00:00",
+      "added_at": "2024-03-21 23:00:00",
       "album": {
         "name": "Retail Therapy",
         "url": "https://open.spotify.com/album/6m0WgwY6xKMDwtDutoKgiI"
@@ -229,7 +245,7 @@
       "url": "https://open.spotify.com/track/6UvodWwiKAwVxXK2gfLru0"
     },
     {
-      "added_at": "2024-03-14 23:00:00",
+      "added_at": "2024-03-21 23:00:00",
       "album": {
         "name": "sweatshop",
         "url": "https://open.spotify.com/album/4zcnApdR65SRUbftcGRyvS"
@@ -245,7 +261,7 @@
       "url": "https://open.spotify.com/track/1NbSzuTZwGgTgGpIq4ljHZ"
     },
     {
-      "added_at": "2024-03-14 23:00:00",
+      "added_at": "2024-03-21 23:00:00",
       "album": {
         "name": "BAHNHOF",
         "url": "https://open.spotify.com/album/6u2OSCJpCOE5kOLhZb3V4g"
@@ -269,7 +285,7 @@
       "url": "https://open.spotify.com/track/7DKc8Gbi54gknk0qMRzOhO"
     },
     {
-      "added_at": "2024-03-14 23:00:00",
+      "added_at": "2024-03-21 23:00:00",
       "album": {
         "name": "Cover Up My Face",
         "url": "https://open.spotify.com/album/4vj7dl0foafvI0OOVmB4s2"
@@ -285,7 +301,7 @@
       "url": "https://open.spotify.com/track/0t4N3qUMwdnDZNumcVxPRu"
     },
     {
-      "added_at": "2024-03-14 23:00:00",
+      "added_at": "2024-03-21 23:00:00",
       "album": {
         "name": "ADHD",
         "url": "https://open.spotify.com/album/1R8E8cwhWD2NI1Y04F6rQu"
@@ -301,7 +317,7 @@
       "url": "https://open.spotify.com/track/6YYjOdTC6r8woS303ScscC"
     },
     {
-      "added_at": "2024-03-14 23:00:00",
+      "added_at": "2024-03-21 23:00:00",
       "album": {
         "name": "SUPER NOVAA",
         "url": "https://open.spotify.com/album/3eKmwCRUPW3KapM3iIlQsJ"
@@ -321,7 +337,7 @@
       "url": "https://open.spotify.com/track/5wBeqF4IpiPFyUZf347KfG"
     },
     {
-      "added_at": "2024-03-14 23:00:00",
+      "added_at": "2024-03-21 23:00:00",
       "album": {
         "name": "vier aufnahmen",
         "url": "https://open.spotify.com/album/4IKSEMrBMNOF9UC6mvg3EM"
@@ -337,7 +353,7 @@
       "url": "https://open.spotify.com/track/79EvchqSO0FCfCXuO0UjSX"
     },
     {
-      "added_at": "2024-03-14 23:00:00",
+      "added_at": "2024-03-21 23:00:00",
       "album": {
         "name": "Summertime Love",
         "url": "https://open.spotify.com/album/6EwEfoNXHySH3y02pMYxAb"
@@ -353,7 +369,7 @@
       "url": "https://open.spotify.com/track/1E9EYbxszlcWOzJcl5ZCDC"
     },
     {
-      "added_at": "2024-03-14 23:00:00",
+      "added_at": "2024-03-21 23:00:00",
       "album": {
         "name": "KEIR",
         "url": "https://open.spotify.com/album/6DIwGl4xl6vRf3LTzJuyuJ"
@@ -369,7 +385,7 @@
       "url": "https://open.spotify.com/track/0wQ0yPIeyJAvSBCRu9PGon"
     },
     {
-      "added_at": "2024-03-14 23:00:00",
+      "added_at": "2024-03-21 23:00:00",
       "album": {
         "name": "S1",
         "url": "https://open.spotify.com/album/28Ud7hGlfVUwAMWxkW1RoJ"
@@ -397,7 +413,7 @@
       "url": "https://open.spotify.com/track/5M9h1FePRQwKlOOFdt9OSF"
     },
     {
-      "added_at": "2024-03-14 23:00:00",
+      "added_at": "2024-03-21 23:00:00",
       "album": {
         "name": "One More Time",
         "url": "https://open.spotify.com/album/18Vr8wifIO7BQsPEgD1OgN"
@@ -413,7 +429,7 @@
       "url": "https://open.spotify.com/track/1s2LA4dVnWikMXVtyBRaj1"
     },
     {
-      "added_at": "2024-03-14 23:00:00",
+      "added_at": "2024-03-21 23:00:00",
       "album": {
         "name": "Forest Mystery",
         "url": "https://open.spotify.com/album/6VtN92LHbDON4S8KV6wPYL"
@@ -429,7 +445,7 @@
       "url": "https://open.spotify.com/track/1UfzVF3KVgc05I8HvPtJ6Y"
     },
     {
-      "added_at": "2024-03-14 23:00:00",
+      "added_at": "2024-03-21 23:00:00",
       "album": {
         "name": "FRAULEIN B",
         "url": "https://open.spotify.com/album/0O8zVFS6l712Lct2D83ct2"
@@ -445,7 +461,7 @@
       "url": "https://open.spotify.com/track/6cgKtmVhQpD041ECgvcnCn"
     },
     {
-      "added_at": "2024-03-14 23:00:00",
+      "added_at": "2024-03-21 23:00:00",
       "album": {
         "name": "The Good Life",
         "url": "https://open.spotify.com/album/7rrD1cHZGGUo9DUQwm9mDR"
@@ -461,7 +477,7 @@
       "url": "https://open.spotify.com/track/2MeRQlYoaEB8scGnkRoklo"
     },
     {
-      "added_at": "2024-03-14 23:00:00",
+      "added_at": "2024-03-21 23:00:00",
       "album": {
         "name": "I Feel Alone These Days",
         "url": "https://open.spotify.com/album/3XUpS6zpdfyYvqLHktRXia"
@@ -477,7 +493,7 @@
       "url": "https://open.spotify.com/track/3oEE9CTAWGucULUz6q9s7l"
     },
     {
-      "added_at": "2024-03-14 23:00:00",
+      "added_at": "2024-03-21 23:00:00",
       "album": {
         "name": "James Blake",
         "url": "https://open.spotify.com/album/0jaT6ytnqXaQ0EhElQg9Zn"
@@ -497,7 +513,7 @@
       "url": "https://open.spotify.com/track/2jjmmklmlTnS5WEYrL0MkN"
     },
     {
-      "added_at": "2024-03-14 23:00:00",
+      "added_at": "2024-03-21 23:00:00",
       "album": {
         "name": "The Silence",
         "url": "https://open.spotify.com/album/6q8vauldhdzx6900WmbYyL"
@@ -517,7 +533,7 @@
       "url": "https://open.spotify.com/track/0CE4CLlvJIiis5GrGWNjjN"
     },
     {
-      "added_at": "2024-03-14 23:00:00",
+      "added_at": "2024-03-21 23:00:00",
       "album": {
         "name": "sirens",
         "url": "https://open.spotify.com/album/3FwlJZOsRiHYUdR7Iqp5Ca"
@@ -537,7 +553,7 @@
       "url": "https://open.spotify.com/track/5lehSTwJVN2ed0VawpFZF3"
     },
     {
-      "added_at": "2024-03-14 23:00:00",
+      "added_at": "2024-03-21 23:00:00",
       "album": {
         "name": "Alive",
         "url": "https://open.spotify.com/album/1bIkaKwrNbpDzFKVgqp8IU"
@@ -553,7 +569,7 @@
       "url": "https://open.spotify.com/track/4ZhRddutIAnleTnvqir5LM"
     },
     {
-      "added_at": "2024-03-14 23:00:00",
+      "added_at": "2024-03-21 23:00:00",
       "album": {
         "name": "denk mal dr\u00fcber nach...",
         "url": "https://open.spotify.com/album/2amQje8nzCnpbbjYpTJizx"
@@ -577,7 +593,7 @@
       "url": "https://open.spotify.com/track/3gro2tfkybWGoK9MflVLWs"
     },
     {
-      "added_at": "2024-03-14 23:00:00",
+      "added_at": "2024-03-21 23:00:00",
       "album": {
         "name": "Blaue Stunde",
         "url": "https://open.spotify.com/album/10L1i38qodCnhxdvg7LxQZ"
@@ -593,7 +609,7 @@
       "url": "https://open.spotify.com/track/3hdluTsPx0vbVdLZsZPE2K"
     },
     {
-      "added_at": "2024-03-14 23:00:00",
+      "added_at": "2024-03-21 23:00:00",
       "album": {
         "name": "Also was jetzt?",
         "url": "https://open.spotify.com/album/0HV0znOFszVIR664Z6vc3k"
@@ -609,23 +625,7 @@
       "url": "https://open.spotify.com/track/53czFJt0Cz9DGgpyDrO6l1"
     },
     {
-      "added_at": "2024-03-14 23:00:00",
-      "album": {
-        "name": "Paula",
-        "url": "https://open.spotify.com/album/751dH1KYjFvLpraxTQ64nS"
-      },
-      "artists": [
-        {
-          "name": "Wilhelmine",
-          "url": "https://open.spotify.com/artist/4f5pBvQZzdOGpFF0pwtUZG"
-        }
-      ],
-      "duration_ms": 196721,
-      "name": "Paula",
-      "url": "https://open.spotify.com/track/5WgCx3Lcq48Vj2kJUYmK8I"
-    },
-    {
-      "added_at": "2024-03-14 23:00:00",
+      "added_at": "2024-03-21 23:00:00",
       "album": {
         "name": "Details",
         "url": "https://open.spotify.com/album/2hfaV0g2aEvB5hOduWzqPB"
@@ -641,7 +641,7 @@
       "url": "https://open.spotify.com/track/0fF0IJSe5HVQnC6PFRPzEz"
     },
     {
-      "added_at": "2024-03-14 23:00:00",
+      "added_at": "2024-03-21 23:00:00",
       "album": {
         "name": "Red Flag",
         "url": "https://open.spotify.com/album/1Hefm7MGT5MeV0bvdDjZHc"
@@ -657,7 +657,7 @@
       "url": "https://open.spotify.com/track/0fNzU26XiTKY2lhmOpokgR"
     },
     {
-      "added_at": "2024-03-14 23:00:00",
+      "added_at": "2024-03-21 23:00:00",
       "album": {
         "name": "Piccolo",
         "url": "https://open.spotify.com/album/3Imzkvlri6mG8V04fsdFkv"
@@ -673,7 +673,7 @@
       "url": "https://open.spotify.com/track/0g3hdWIwkYStsPojCvDIG0"
     },
     {
-      "added_at": "2024-03-14 23:00:00",
+      "added_at": "2024-03-21 23:00:00",
       "album": {
         "name": "In My Novaa",
         "url": "https://open.spotify.com/album/6vEMutP9WTvE9vC5oxhH2a"
@@ -689,7 +689,7 @@
       "url": "https://open.spotify.com/track/0BWgnfDV4o5PPQMhcKfrzH"
     },
     {
-      "added_at": "2024-03-14 23:00:00",
+      "added_at": "2024-03-21 23:00:00",
       "album": {
         "name": "Zerrissen",
         "url": "https://open.spotify.com/album/3wWEzUcLrvF0ONRDJh3dur"
@@ -705,7 +705,7 @@
       "url": "https://open.spotify.com/track/3X0nFQWGJw0FQp6A3uVhgl"
     },
     {
-      "added_at": "2024-03-14 23:00:00",
+      "added_at": "2024-03-21 23:00:00",
       "album": {
         "name": "Crushed by the Weight of the World",
         "url": "https://open.spotify.com/album/1Axcj3Di7G4Qw0iYTJAhC0"
@@ -721,7 +721,7 @@
       "url": "https://open.spotify.com/track/713AJFIsjfdlwC6IvY9FeJ"
     },
     {
-      "added_at": "2024-03-14 23:00:00",
+      "added_at": "2024-03-21 23:00:00",
       "album": {
         "name": "Shirt & Handtuch",
         "url": "https://open.spotify.com/album/5E6TabcdFH66gyiurKEmBq"
@@ -737,7 +737,7 @@
       "url": "https://open.spotify.com/track/62ZlC6KfLzEBPlE7rBHs3c"
     },
     {
-      "added_at": "2024-03-14 23:00:00",
+      "added_at": "2024-03-21 23:00:00",
       "album": {
         "name": "Body Mind Hell",
         "url": "https://open.spotify.com/album/18IjZBVEOQrzENrx7012bd"
@@ -753,7 +753,7 @@
       "url": "https://open.spotify.com/track/30JmGKxf1oItI6lOLNNSeq"
     },
     {
-      "added_at": "2024-03-14 23:00:00",
+      "added_at": "2024-03-21 23:00:00",
       "album": {
         "name": "Herz",
         "url": "https://open.spotify.com/album/6pvbHjNeuK9qk4MaOU81w6"
@@ -769,7 +769,7 @@
       "url": "https://open.spotify.com/track/1Yryu4z1YbCmqkz76J18nb"
     },
     {
-      "added_at": "2024-03-14 23:00:00",
+      "added_at": "2024-03-21 23:00:00",
       "album": {
         "name": "ALL I REALLY WANT",
         "url": "https://open.spotify.com/album/6ae9qY5R5WqnR5SSZusmaf"
@@ -785,7 +785,7 @@
       "url": "https://open.spotify.com/track/2w88pnj10jrdX2jJyaAUKT"
     },
     {
-      "added_at": "2024-03-14 23:00:00",
+      "added_at": "2024-03-21 23:00:00",
       "album": {
         "name": "The Good Life",
         "url": "https://open.spotify.com/album/7rrD1cHZGGUo9DUQwm9mDR"
@@ -801,7 +801,7 @@
       "url": "https://open.spotify.com/track/6D58jfjLetnyFszeEyllcz"
     },
     {
-      "added_at": "2024-03-14 23:00:00",
+      "added_at": "2024-03-21 23:00:00",
       "album": {
         "name": "Utopie",
         "url": "https://open.spotify.com/album/7k8u3WFdC2fHOmp9VWsC2E"
@@ -817,7 +817,7 @@
       "url": "https://open.spotify.com/track/5dEk2G5Cdklq7eZFCrTIkm"
     },
     {
-      "added_at": "2024-03-14 23:00:00",
+      "added_at": "2024-03-21 23:00:00",
       "album": {
         "name": "S\u00fc\u00dfe Tr\u00e4ume",
         "url": "https://open.spotify.com/album/5G5VwA4Nb7JxVamloIDFdl"
@@ -833,7 +833,7 @@
       "url": "https://open.spotify.com/track/4c8LnzyBlBW1crRcbDXKoW"
     },
     {
-      "added_at": "2024-03-14 23:00:00",
+      "added_at": "2024-03-21 23:00:00",
       "album": {
         "name": "Walls",
         "url": "https://open.spotify.com/album/4baIsWWMXbmfBg8d93VAU1"
@@ -849,7 +849,7 @@
       "url": "https://open.spotify.com/track/4cMDIe5aH8h6B8MzF18xty"
     },
     {
-      "added_at": "2024-03-14 23:00:00",
+      "added_at": "2024-03-21 23:00:00",
       "album": {
         "name": "Somebody EP",
         "url": "https://open.spotify.com/album/5pU5K5SdRh93tZ7gOrJ2s7"
@@ -865,7 +865,7 @@
       "url": "https://open.spotify.com/track/10UQj7uJ2RPG481QII1xpv"
     },
     {
-      "added_at": "2024-03-14 23:00:00",
+      "added_at": "2024-03-21 23:00:00",
       "album": {
         "name": "Smile",
         "url": "https://open.spotify.com/album/3O04qupq1XsQZI6rmC4OTr"
@@ -881,7 +881,7 @@
       "url": "https://open.spotify.com/track/2pxQTg8ecN1k3CXnEmpa8t"
     },
     {
-      "added_at": "2024-03-14 23:00:00",
+      "added_at": "2024-03-21 23:00:00",
       "album": {
         "name": "Tempo",
         "url": "https://open.spotify.com/album/1xQnVy9txnqnRnbr2nlJf2"
@@ -909,7 +909,7 @@
       "url": "https://open.spotify.com/track/4U4wfzEfxCHCiAdPg3oage"
     },
     {
-      "added_at": "2024-03-14 23:00:00",
+      "added_at": "2024-03-21 23:00:00",
       "album": {
         "name": "Universum regelt",
         "url": "https://open.spotify.com/album/7fZRhnOouYC7iDsIP4XCWh"
@@ -925,7 +925,7 @@
       "url": "https://open.spotify.com/track/5xMX2H3NpXB0Kv1nRTSB8O"
     },
     {
-      "added_at": "2024-03-14 23:00:00",
+      "added_at": "2024-03-21 23:00:00",
       "album": {
         "name": "Tumda",
         "url": "https://open.spotify.com/album/0JSdXf6dVCBO4LkCx3jRQ9"
@@ -941,7 +941,7 @@
       "url": "https://open.spotify.com/track/5TOlgoPRljluF62RKNcNnx"
     },
     {
-      "added_at": "2024-03-14 23:00:00",
+      "added_at": "2024-03-21 23:00:00",
       "album": {
         "name": "Fucked Up.",
         "url": "https://open.spotify.com/album/3369iQfBJZcTS1ZrMa3Jbx"
@@ -957,7 +957,7 @@
       "url": "https://open.spotify.com/track/1nIUFAIo5U4Yc1KsnnnPz0"
     },
     {
-      "added_at": "2024-03-14 23:00:00",
+      "added_at": "2024-03-21 23:00:00",
       "album": {
         "name": "Immer wenn du weinst",
         "url": "https://open.spotify.com/album/0ksQY1tGoSYQMweAYgmOpB"
@@ -973,7 +973,7 @@
       "url": "https://open.spotify.com/track/6GYGIEVQHFbYV5AvkJD8Mp"
     },
     {
-      "added_at": "2024-03-14 23:00:00",
+      "added_at": "2024-03-21 23:00:00",
       "album": {
         "name": "How Have You Been?",
         "url": "https://open.spotify.com/album/4FqEHLgdiMHXboXIztMkkO"
@@ -989,7 +989,7 @@
       "url": "https://open.spotify.com/track/60jDBihAe1INnFWRCFgjUS"
     },
     {
-      "added_at": "2024-03-14 23:00:00",
+      "added_at": "2024-03-21 23:00:00",
       "album": {
         "name": "Our Beautiful Mess",
         "url": "https://open.spotify.com/album/0ZkXgfTXWi2UsQGmKqCHQ3"
@@ -1005,7 +1005,7 @@
       "url": "https://open.spotify.com/track/07aDoPEceysLO98w5Jy5IK"
     },
     {
-      "added_at": "2024-03-14 23:00:00",
+      "added_at": "2024-03-21 23:00:00",
       "album": {
         "name": "Lipsticks & Heartbreaks",
         "url": "https://open.spotify.com/album/5mkpbYUEBkj9tRJ3aKGUdc"
@@ -1021,7 +1021,7 @@
       "url": "https://open.spotify.com/track/5WX5hHwiJnFx9IIcCKxWWP"
     },
     {
-      "added_at": "2024-03-14 23:00:00",
+      "added_at": "2024-03-21 23:00:00",
       "album": {
         "name": "Complex Happenings Reduced To A Simple Design",
         "url": "https://open.spotify.com/album/759AQPUMn36dDf7cRSwsmF"

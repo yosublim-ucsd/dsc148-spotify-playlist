@@ -1,12 +1,12 @@
 {
   "description": "It\u2019s Only Rock 'n' Roll (But We Like It)! \ud83d\udd25 Cover: The Beatles",
-  "num_followers": 366649,
+  "num_followers": 366667,
   "original_name": "Rock: i Classici",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkMDc1ZTAxZmFhZTAwMGUyYTY1ZDM4Y2QwMzYxMjg2MGNiMjFiODU2",
+  "snapshot_id": "MCwxZDIwMWM5ODBjMjkxNzM2NWRlZjVmOGE4MjM2YjdiYmVhNGJjYTA4",
   "tracks": [
     {
       "added_at": "2023-11-15 15:49:24",
@@ -251,22 +251,6 @@
     {
       "added_at": "2023-10-19 22:01:00",
       "album": {
-        "name": "Willy And The Poor Boys (Expanded Edition)",
-        "url": "https://open.spotify.com/album/31q47gQszFt0CddSyMksgO"
-      },
-      "artists": [
-        {
-          "name": "Creedence Clearwater Revival",
-          "url": "https://open.spotify.com/artist/3IYUhFvPQItj6xySrBmZkd"
-        }
-      ],
-      "duration_ms": 140773,
-      "name": "Fortunate Son",
-      "url": "https://open.spotify.com/track/4BP3uh0hFLFRb5cjsgLqDh"
-    },
-    {
-      "added_at": "2023-10-19 22:01:00",
-      "album": {
         "name": "Highway to Hell",
         "url": "https://open.spotify.com/album/10v912xgTZbjAtYfyKWJCS"
       },
@@ -279,6 +263,22 @@
       "duration_ms": 208400,
       "name": "Highway to Hell",
       "url": "https://open.spotify.com/track/2zYzyRzz6pRmhPzyfMEC8s"
+    },
+    {
+      "added_at": "2023-10-19 22:01:00",
+      "album": {
+        "name": "Willy And The Poor Boys (Expanded Edition)",
+        "url": "https://open.spotify.com/album/31q47gQszFt0CddSyMksgO"
+      },
+      "artists": [
+        {
+          "name": "Creedence Clearwater Revival",
+          "url": "https://open.spotify.com/artist/3IYUhFvPQItj6xySrBmZkd"
+        }
+      ],
+      "duration_ms": 140773,
+      "name": "Fortunate Son",
+      "url": "https://open.spotify.com/track/4BP3uh0hFLFRb5cjsgLqDh"
     },
     {
       "added_at": "2023-10-19 22:01:00",
@@ -335,6 +335,22 @@
     {
       "added_at": "2023-10-19 22:01:00",
       "album": {
+        "name": "The Razors Edge",
+        "url": "https://open.spotify.com/album/4vu7F6h90Br1ZtYYaqfITy"
+      },
+      "artists": [
+        {
+          "name": "AC/DC",
+          "url": "https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un"
+        }
+      ],
+      "duration_ms": 292880,
+      "name": "Thunderstruck",
+      "url": "https://open.spotify.com/track/57bgtoPSgt236HzfBOd8kj"
+    },
+    {
+      "added_at": "2023-10-19 22:01:00",
+      "album": {
         "name": "No Need To Argue (The Complete Sessions 1994-1995)",
         "url": "https://open.spotify.com/album/1Bwo9JkbVwxGyvtQNMRK21"
       },
@@ -383,18 +399,18 @@
     {
       "added_at": "2023-10-19 22:01:00",
       "album": {
-        "name": "The Razors Edge",
-        "url": "https://open.spotify.com/album/4vu7F6h90Br1ZtYYaqfITy"
+        "name": "Blowin' Your Mind!",
+        "url": "https://open.spotify.com/album/7dsWupQRlFuhG8FGiQAUjC"
       },
       "artists": [
         {
-          "name": "AC/DC",
-          "url": "https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un"
+          "name": "Van Morrison",
+          "url": "https://open.spotify.com/artist/44NX2ffIYHr6D4n7RaZF7A"
         }
       ],
-      "duration_ms": 292880,
-      "name": "Thunderstruck",
-      "url": "https://open.spotify.com/track/57bgtoPSgt236HzfBOd8kj"
+      "duration_ms": 183306,
+      "name": "Brown Eyed Girl",
+      "url": "https://open.spotify.com/track/3yrSvpt2l1xhsV9Em88Pul"
     },
     {
       "added_at": "2023-10-19 22:01:00",
@@ -415,22 +431,6 @@
     {
       "added_at": "2023-10-19 22:01:00",
       "album": {
-        "name": "Blowin' Your Mind!",
-        "url": "https://open.spotify.com/album/7dsWupQRlFuhG8FGiQAUjC"
-      },
-      "artists": [
-        {
-          "name": "Van Morrison",
-          "url": "https://open.spotify.com/artist/44NX2ffIYHr6D4n7RaZF7A"
-        }
-      ],
-      "duration_ms": 183306,
-      "name": "Brown Eyed Girl",
-      "url": "https://open.spotify.com/track/3yrSvpt2l1xhsV9Em88Pul"
-    },
-    {
-      "added_at": "2023-10-19 22:01:00",
-      "album": {
         "name": "Americana",
         "url": "https://open.spotify.com/album/2RNTBrSO8U8XjjEj9RVvZ5"
       },
@@ -443,6 +443,22 @@
       "duration_ms": 180160,
       "name": "The Kids Aren't Alright",
       "url": "https://open.spotify.com/track/4EchqUKQ3qAQuRNKmeIpnf"
+    },
+    {
+      "added_at": "2023-10-19 22:01:00",
+      "album": {
+        "name": "Back In Black",
+        "url": "https://open.spotify.com/album/6mUdeDZCsExyJLMdAfDuwh"
+      },
+      "artists": [
+        {
+          "name": "AC/DC",
+          "url": "https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un"
+        }
+      ],
+      "duration_ms": 255493,
+      "name": "Back In Black",
+      "url": "https://open.spotify.com/track/08mG3Y1vljYA6bvDt4Wqkj"
     },
     {
       "added_at": "2023-10-19 22:01:00",
@@ -511,22 +527,6 @@
     {
       "added_at": "2023-10-19 22:01:00",
       "album": {
-        "name": "Aerosmith",
-        "url": "https://open.spotify.com/album/1RDVdxPUaqC4o7Rkm8LoOE"
-      },
-      "artists": [
-        {
-          "name": "Aerosmith",
-          "url": "https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH"
-        }
-      ],
-      "duration_ms": 267596,
-      "name": "Dream On",
-      "url": "https://open.spotify.com/track/1xsYj84j7hUDDnTTerGWlH"
-    },
-    {
-      "added_at": "2023-10-19 22:01:00",
-      "album": {
         "name": "Blood Sugar Sex Magik (Deluxe Edition)",
         "url": "https://open.spotify.com/album/30Perjew8HyGkdSmqguYyg"
       },
@@ -543,18 +543,18 @@
     {
       "added_at": "2023-10-19 22:01:00",
       "album": {
-        "name": "Back In Black",
-        "url": "https://open.spotify.com/album/6mUdeDZCsExyJLMdAfDuwh"
+        "name": "Aerosmith",
+        "url": "https://open.spotify.com/album/1RDVdxPUaqC4o7Rkm8LoOE"
       },
       "artists": [
         {
-          "name": "AC/DC",
-          "url": "https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un"
+          "name": "Aerosmith",
+          "url": "https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH"
         }
       ],
-      "duration_ms": 255493,
-      "name": "Back In Black",
-      "url": "https://open.spotify.com/track/08mG3Y1vljYA6bvDt4Wqkj"
+      "duration_ms": 267596,
+      "name": "Dream On",
+      "url": "https://open.spotify.com/track/1xsYj84j7hUDDnTTerGWlH"
     },
     {
       "added_at": "2023-10-19 22:01:00",
@@ -1055,6 +1055,22 @@
     {
       "added_at": "2023-10-19 22:01:00",
       "album": {
+        "name": "Point Of Know Return (Expanded Edition)",
+        "url": "https://open.spotify.com/album/6oU298pdPTCQnMx1PYwyUA"
+      },
+      "artists": [
+        {
+          "name": "Kansas",
+          "url": "https://open.spotify.com/artist/2hl0xAkS2AIRAu23TVMBG1"
+        }
+      ],
+      "duration_ms": 206266,
+      "name": "Dust in the Wind",
+      "url": "https://open.spotify.com/track/6zeE5tKyr8Nu882DQhhSQI"
+    },
+    {
+      "added_at": "2023-10-19 22:01:00",
+      "album": {
         "name": "America",
         "url": "https://open.spotify.com/album/0E5IKYhiKgbYQkmfsFonbZ"
       },
@@ -1071,22 +1087,6 @@
       "duration_ms": 252239,
       "name": "A Horse with No Name",
       "url": "https://open.spotify.com/track/54eZmuggBFJbV7k248bTTt"
-    },
-    {
-      "added_at": "2023-10-19 22:01:00",
-      "album": {
-        "name": "Point Of Know Return (Expanded Edition)",
-        "url": "https://open.spotify.com/album/6oU298pdPTCQnMx1PYwyUA"
-      },
-      "artists": [
-        {
-          "name": "Kansas",
-          "url": "https://open.spotify.com/artist/2hl0xAkS2AIRAu23TVMBG1"
-        }
-      ],
-      "duration_ms": 206266,
-      "name": "Dust in the Wind",
-      "url": "https://open.spotify.com/track/6zeE5tKyr8Nu882DQhhSQI"
     },
     {
       "added_at": "2023-10-19 22:01:00",
@@ -1251,22 +1251,6 @@
     {
       "added_at": "2023-10-19 22:01:00",
       "album": {
-        "name": "The Bends",
-        "url": "https://open.spotify.com/album/35UJLpClj5EDrhpNIi4DFg"
-      },
-      "artists": [
-        {
-          "name": "Radiohead",
-          "url": "https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb"
-        }
-      ],
-      "duration_ms": 257480,
-      "name": "High and Dry",
-      "url": "https://open.spotify.com/track/2a1iMaoWQ5MnvLFBDv4qkf"
-    },
-    {
-      "added_at": "2023-10-19 22:01:00",
-      "album": {
         "name": "Bayou Country (Expanded Edition)",
         "url": "https://open.spotify.com/album/5pCRW9AT4BgoMOS52pRoJq"
       },
@@ -1279,6 +1263,22 @@
       "duration_ms": 187213,
       "name": "Proud Mary",
       "url": "https://open.spotify.com/track/6pxWv6GV35VGmcPf5dh6CH"
+    },
+    {
+      "added_at": "2023-10-19 22:01:00",
+      "album": {
+        "name": "The Bends",
+        "url": "https://open.spotify.com/album/35UJLpClj5EDrhpNIi4DFg"
+      },
+      "artists": [
+        {
+          "name": "Radiohead",
+          "url": "https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb"
+        }
+      ],
+      "duration_ms": 257480,
+      "name": "High and Dry",
+      "url": "https://open.spotify.com/track/2a1iMaoWQ5MnvLFBDv4qkf"
     },
     {
       "added_at": "2023-10-19 22:01:00",
@@ -1379,22 +1379,6 @@
     {
       "added_at": "2023-10-19 22:01:00",
       "album": {
-        "name": "Faith",
-        "url": "https://open.spotify.com/album/34K1Kvskt9arWy8E1Gz3Lw"
-      },
-      "artists": [
-        {
-          "name": "George Michael",
-          "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
-        }
-      ],
-      "duration_ms": 193200,
-      "name": "Faith - Remastered",
-      "url": "https://open.spotify.com/track/0HEmnAUT8PHznIAAmVXqFJ"
-    },
-    {
-      "added_at": "2023-10-19 22:01:00",
-      "album": {
         "name": "Rebel Yell",
         "url": "https://open.spotify.com/album/2FZNWUmgRoP8uJZBaHJdfj"
       },
@@ -1407,6 +1391,22 @@
       "duration_ms": 288533,
       "name": "Rebel Yell",
       "url": "https://open.spotify.com/track/4TIJ7zSBNejpoIPaWpWRKc"
+    },
+    {
+      "added_at": "2023-10-19 22:01:00",
+      "album": {
+        "name": "Faith",
+        "url": "https://open.spotify.com/album/34K1Kvskt9arWy8E1Gz3Lw"
+      },
+      "artists": [
+        {
+          "name": "George Michael",
+          "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
+        }
+      ],
+      "duration_ms": 193200,
+      "name": "Faith - Remastered",
+      "url": "https://open.spotify.com/track/0HEmnAUT8PHznIAAmVXqFJ"
     },
     {
       "added_at": "2023-10-19 22:01:00",
@@ -1427,22 +1427,6 @@
     {
       "added_at": "2023-10-19 22:01:00",
       "album": {
-        "name": "Talking Heads '77 (Deluxe Version)",
-        "url": "https://open.spotify.com/album/5eqcF7pWzHgWpGdEmHgeSN"
-      },
-      "artists": [
-        {
-          "name": "Talking Heads",
-          "url": "https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC"
-        }
-      ],
-      "duration_ms": 261413,
-      "name": "Psycho Killer - 2005 Remaster",
-      "url": "https://open.spotify.com/track/1i6N76fftMZhijOzFQ5ZtL"
-    },
-    {
-      "added_at": "2023-10-19 22:01:00",
-      "album": {
         "name": "In Your Honor",
         "url": "https://open.spotify.com/album/2eprpJCYbCbPZRKVGIEJxZ"
       },
@@ -1455,6 +1439,22 @@
       "duration_ms": 255626,
       "name": "Best of You",
       "url": "https://open.spotify.com/track/5FZxsHWIvUsmSK1IAvm2pp"
+    },
+    {
+      "added_at": "2023-10-19 22:01:00",
+      "album": {
+        "name": "Talking Heads '77 (Deluxe Version)",
+        "url": "https://open.spotify.com/album/5eqcF7pWzHgWpGdEmHgeSN"
+      },
+      "artists": [
+        {
+          "name": "Talking Heads",
+          "url": "https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC"
+        }
+      ],
+      "duration_ms": 261413,
+      "name": "Psycho Killer - 2005 Remaster",
+      "url": "https://open.spotify.com/track/1i6N76fftMZhijOzFQ5ZtL"
     },
     {
       "added_at": "2023-10-19 22:01:00",
@@ -1571,22 +1571,6 @@
     {
       "added_at": "2023-10-19 22:01:00",
       "album": {
-        "name": "Toys In The Attic",
-        "url": "https://open.spotify.com/album/6As5aOEQjfxLIChIB3fQRD"
-      },
-      "artists": [
-        {
-          "name": "Aerosmith",
-          "url": "https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH"
-        }
-      ],
-      "duration_ms": 220310,
-      "name": "Walk This Way",
-      "url": "https://open.spotify.com/track/4JfuiOWlWCkjP6OKurHjSn"
-    },
-    {
-      "added_at": "2023-10-19 22:01:00",
-      "album": {
         "name": "Willy And The Poor Boys (Expanded Edition)",
         "url": "https://open.spotify.com/album/31q47gQszFt0CddSyMksgO"
       },
@@ -1603,18 +1587,34 @@
     {
       "added_at": "2023-10-19 22:01:00",
       "album": {
-        "name": "Stranger In Town",
-        "url": "https://open.spotify.com/album/1vhib5WLHRVdOpRjiTHk15"
+        "name": "Toys In The Attic",
+        "url": "https://open.spotify.com/album/6As5aOEQjfxLIChIB3fQRD"
       },
       "artists": [
         {
-          "name": "Bob Seger",
-          "url": "https://open.spotify.com/artist/485uL27bPomh29R4JmQehQ"
+          "name": "Aerosmith",
+          "url": "https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH"
         }
       ],
-      "duration_ms": 194146,
-      "name": "Old Time Rock & Roll",
-      "url": "https://open.spotify.com/track/5EOoMWIB9iK4ZpcSex9Ec7"
+      "duration_ms": 220310,
+      "name": "Walk This Way",
+      "url": "https://open.spotify.com/track/4JfuiOWlWCkjP6OKurHjSn"
+    },
+    {
+      "added_at": "2023-10-19 22:01:00",
+      "album": {
+        "name": "Even In The Quietest Moments",
+        "url": "https://open.spotify.com/album/4X87hQ57jTYQTcYTaJWK5w"
+      },
+      "artists": [
+        {
+          "name": "Supertramp",
+          "url": "https://open.spotify.com/artist/3JsMj0DEzyWc0VDlHuy9Bx"
+        }
+      ],
+      "duration_ms": 248173,
+      "name": "Give A Little Bit",
+      "url": "https://open.spotify.com/track/6XUHsYE38CEbYunT983O9G"
     }
   ],
   "unique_name": "Rock: i Classici",

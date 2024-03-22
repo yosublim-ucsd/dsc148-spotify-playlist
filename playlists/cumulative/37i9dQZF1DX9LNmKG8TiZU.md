@@ -2,7 +2,7 @@
 
 ### [Douceur Pop](https://open.spotify.com/playlist/37i9dQZF1DX9LNmKG8TiZU)
 
-> Des titres pop, tout en douceur\. Photo : ZAYN
+> Des titres pop, tout en douceur\. Photo : Kacey Musgraves
 
 158 songs - 8 hr 48 min
 

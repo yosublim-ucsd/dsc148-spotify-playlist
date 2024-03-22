@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXE7JlNQ8iBe.md) - [plain]
 
 > Silvana Estrada le dedica su canto a La Catrina, para mantener nuestra tradición viva.
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,510 likes - 40 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,524 likes - 40 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXE7JlNQ8iBe.md) - [plain]
 | 29 | [Babalu](https://open.spotify.com/track/6M5yd2cfSxd3PRDLw7Pkuk) | [Toña La Negra](https://open.spotify.com/artist/2NRvtXR7xPvvJGoWov1YJ3) | [La Sensación Jarocha](https://open.spotify.com/album/4InRPZ8OjRn0tRmDVlzxIS) | 3:04 |
 | 30 | [Nave Sin Rumbo](https://open.spotify.com/track/1N1J2rGzghB0PW6Xvd6VG1) | [Sylvia Rexach](https://open.spotify.com/artist/5VoTPM2sOwu4sHQ4260cyk), [Tuti Umpierre](https://open.spotify.com/artist/4pRpr460G7vBOY2YKkbfc4) | [Sylvia Rexach Canta a Sylvia Rexach](https://open.spotify.com/album/60Iu3nXVgfzOBMLReDdRHe) | 3:22 |
 | 31 | [Adios Paloma](https://open.spotify.com/track/1GnoyQ28aK14ne5JTqmi5h) | [Chavela Vargas](https://open.spotify.com/artist/0WC6O2ZzUcDYvcmt2mGh8c) | [Mi Mundo Raro](https://open.spotify.com/album/1UqVcJTezlukIQHuYPGuNu) | 3:16 |
-| 32 | [Maldigo el alto cielo \- Remastered](https://open.spotify.com/track/4w6AfPvVsRHdaJRGN2uhXj) | [Violeta Parra](https://open.spotify.com/artist/4ejp2yEDQIIJIy0iFpoI5B) | [Violeta Parra, sus grandes éxitos \(Remastered\)](https://open.spotify.com/album/5o9xZyOQKZ5eyb2u3KWszi) | 3:44 |
+| 32 | [Maldigo del alto cielo](https://open.spotify.com/track/2grnhzoN2ZpgYgtWaTbrgn) | [Violeta Parra](https://open.spotify.com/artist/4ejp2yEDQIIJIy0iFpoI5B) | [30 cantos populares de Chile](https://open.spotify.com/album/01l8wvg4eCkrLd9oFZICCA) | 3:52 |
 | 33 | [Compañero \(Elegía A Ramón Sijé\)](https://open.spotify.com/track/6wHsjRrTWWfSOwV57X1LVF) | [Sílvia Pérez Cruz](https://open.spotify.com/artist/7qJXYbBDibZ1Zixi89aUnw), [Raül Refree](https://open.spotify.com/artist/5TPIp7TiaJOVn2sZ4s4JDy) | [Granada](https://open.spotify.com/album/27DidY2aLP9MtEcQ1EWA6Z) | 4:27 |
 | 34 | [Que te vaya bonito Nicolás](https://open.spotify.com/track/3KYesDx7jiG9giHLHWSLYD) | [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [De Todas las Flores](https://open.spotify.com/album/4BJoDX0fIjR4RsFF4vyd81) | 6:47 |
 | 35 | [¿Quién? \- Remastered](https://open.spotify.com/track/3vURZUnew6TH2mNnD257D6) | [Juana Molina](https://open.spotify.com/artist/76hliHkgP5eIbVqLT7NmQ3) | [Segundo \(Remastered\)](https://open.spotify.com/album/7HZ7QwrTe8N7aMaCEwe6AN) | 2:39 |
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXE7JlNQ8iBe.md) - [plain]
 | 39 | [Oración del remanso](https://open.spotify.com/track/0qcH8iWkVnxF2NKQtvboN2) | [Rita Payés](https://open.spotify.com/artist/1XSmez9xyCCPpOZp0uImwM), [Elisabeth Roma](https://open.spotify.com/artist/4YU7oWQY1EZzkkMVK4dJHm) | [Imagina](https://open.spotify.com/album/4mWMKw1bTjskg9KXg7rFwc) | 5:59 |
 | 40 | [Son de los Diablos](https://open.spotify.com/track/0l7nvBma9IRxp9EjHWpFnO) | [Perú Negro](https://open.spotify.com/artist/5PsVU8lua3ri94gDn7zUIY) | [Afro\-Peruvian Classics: The Soul of Black Peru](https://open.spotify.com/album/5yJ0eAVAP7G2OR4lRcNcas) | 2:27 |
 
-Snapshot ID: `MCxmN2NkOGFlMTg0MzkzNjdhMjZkNWI0NDhhODcxOGM4ZWIzZjIzMjU4`
+Snapshot ID: `MCw4ZjgxOTVlYTlkMWU0YjQ3ZGEzYzk4NmFjMzQxY2RjYjk0YzgyMzVh`

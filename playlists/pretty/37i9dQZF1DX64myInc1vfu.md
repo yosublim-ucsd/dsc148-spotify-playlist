@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX64myInc1vfu.md) - [plain]
 
 > The new bolero era\. Los boleritos de hoy, just for you\. Cover: Ambar Lucid
 
-[Spotify](https://open.spotify.com/user/spotify) - 81,876 likes - 60 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 81,913 likes - 60 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,15 +48,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX64myInc1vfu.md) - [plain]
 | 38 | [Me Rehúso](https://open.spotify.com/track/7HNOGbbR726AfVEu89OQPt) | [Daniel, Me Estás Matando](https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE), [Recoversión](https://open.spotify.com/artist/0NdB1t0K23mQgPxlAvqN1r) | [Me Rehúso](https://open.spotify.com/album/38pQ1G6XgqO7W7iZei8EVR) | 4:21 |
 | 39 | [Ojitos de Aceituna](https://open.spotify.com/track/2KhOJ9fPnHE6HJd7R6jF2L) | [Marissa Mur](https://open.spotify.com/artist/5kt4v3JNtP8svtTI8PDFOT), [Gepe](https://open.spotify.com/artist/1fHGzTSloWCtrlKfbLNVhM) | [Ojitos de Aceituna](https://open.spotify.com/album/0T1toCzjEqFltKmHuwznI5) | 2:47 |
 | 40 | [Saudade \- Acústica](https://open.spotify.com/track/0hMDCdTgDI01LKtiMjPdAV) | [Anakena](https://open.spotify.com/artist/0kHEttD7XzMjXbZtMq6XYo), [Simon Grossmann](https://open.spotify.com/artist/6t38N9HASTn9ca0PIxfReQ), [Los Hermanos Naturales](https://open.spotify.com/artist/39lujDF8rpAX4ezy70mTfx), [José y el Toro](https://open.spotify.com/artist/5Bq8Ri1jFba5clhChG8Cex) | [Saudade \(Acústica\)](https://open.spotify.com/album/5msxr0FMU7qHRbpUdAEWCg) | 4:56 |
-| 41 | [Diablo](https://open.spotify.com/track/4K5EhJCXiS22Sh3ONueuY6) | [MIA](https://open.spotify.com/artist/5VDLfzakHXjOYeai6w9jDq) | [Diablo](https://open.spotify.com/album/65ziJaVZNVHY1JGzCdvIvP) | 3:11 |
-| 42 | [¿A Qué Te Sabe el Café?](https://open.spotify.com/track/5n7a1XYL8oaOGNptOdENIQ) | [Sebastián Romero](https://open.spotify.com/artist/0FpJe752weMmwiyJyF8zXq) | [Conversaciones Ajenas en un Café](https://open.spotify.com/album/4UHIunQP15TgnfK7aCWhM9) | 3:31 |
-| 43 | [bésame mucho \- Recorded at Electric Lady Studios NYC](https://open.spotify.com/track/0qMavnD5Z4HPl6O7ojX5Ov) | [Alaina Castillo](https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp) | [Spotify Singles](https://open.spotify.com/album/0kYvC5jXQkvIYeMtAU9QK5) | 2:36 |
-| 44 | [Para No Romperme](https://open.spotify.com/track/7BcgW4kJU9ERyAB0EBx7Xr) | [Los Rumberos](https://open.spotify.com/artist/05k3uSz8dyKtbllIY988Ip), [El Kanka](https://open.spotify.com/artist/4Byu6VBhuMYzcoIUrIyLuL) | [Para No Romperme](https://open.spotify.com/album/4uBW6lEyQZtqMokjqkmNHh) | 2:51 |
-| 45 | [Diferente](https://open.spotify.com/track/3XV1E6VMiiUoRByV7nXVEA) | [Paula Cendejas](https://open.spotify.com/artist/4EiI7Vls0NB16jLuexzCHC), [Piso 21](https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd) | [Diferente](https://open.spotify.com/album/5t1yTrOm3fbJQltjom2uya) | 3:40 |
+| 41 | [¿A Qué Te Sabe el Café?](https://open.spotify.com/track/5n7a1XYL8oaOGNptOdENIQ) | [Sebastián Romero](https://open.spotify.com/artist/0FpJe752weMmwiyJyF8zXq) | [Conversaciones Ajenas en un Café](https://open.spotify.com/album/4UHIunQP15TgnfK7aCWhM9) | 3:31 |
+| 42 | [bésame mucho \- Recorded at Electric Lady Studios NYC](https://open.spotify.com/track/0qMavnD5Z4HPl6O7ojX5Ov) | [Alaina Castillo](https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp) | [Spotify Singles](https://open.spotify.com/album/0kYvC5jXQkvIYeMtAU9QK5) | 2:36 |
+| 43 | [Diablo](https://open.spotify.com/track/4K5EhJCXiS22Sh3ONueuY6) | [MIA](https://open.spotify.com/artist/5VDLfzakHXjOYeai6w9jDq) | [Diablo](https://open.spotify.com/album/65ziJaVZNVHY1JGzCdvIvP) | 3:11 |
+| 44 | [Diferente](https://open.spotify.com/track/3XV1E6VMiiUoRByV7nXVEA) | [Paula Cendejas](https://open.spotify.com/artist/4EiI7Vls0NB16jLuexzCHC), [Piso 21](https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd) | [Diferente](https://open.spotify.com/album/5t1yTrOm3fbJQltjom2uya) | 3:40 |
+| 45 | [Para No Romperme](https://open.spotify.com/track/7BcgW4kJU9ERyAB0EBx7Xr) | [Los Rumberos](https://open.spotify.com/artist/05k3uSz8dyKtbllIY988Ip), [El Kanka](https://open.spotify.com/artist/4Byu6VBhuMYzcoIUrIyLuL) | [Para No Romperme](https://open.spotify.com/album/4uBW6lEyQZtqMokjqkmNHh) | 2:51 |
 | 46 | [Voy](https://open.spotify.com/track/6fKvKQATKlwDsHgj6E6nyf) | [Diego El Cigala](https://open.spotify.com/artist/7mLYMGXg84miYydKwi2aRi) | [Obras Maestras](https://open.spotify.com/album/5yRGaq6cuiO5t4FDy271sK) | 3:21 |
-| 47 | [Cómplices](https://open.spotify.com/track/0ja9BfD4zrXznqkTKfz0Te) | [Sebastián Romero](https://open.spotify.com/artist/0FpJe752weMmwiyJyF8zXq) | [Cómplices](https://open.spotify.com/album/7tZbJdirOvGF5BwjrcD4BQ) | 3:03 |
+| 47 | [Duele](https://open.spotify.com/track/5IgAMrxJSs0IpSE3R7oRln) | [Andrés Cepeda](https://open.spotify.com/artist/49Z1AvGeUaBSanPaOmplK6), [Gusi](https://open.spotify.com/artist/7GMRarEViKQmiTUMFZtrfe) | [Duele](https://open.spotify.com/album/2PuqtGQoJqhXo5AubtfoOx) | 3:33 |
 | 48 | [Volverás](https://open.spotify.com/track/2KGTRMBVuBjYrsjIgBPApK) | [Daniel, Me Estás Matando](https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE) | [COMO ARRUINARTE LA VIDA](https://open.spotify.com/album/5aEq1iRskstuZoDRcCD44Z) | 3:39 |
-| 49 | [Duele](https://open.spotify.com/track/5IgAMrxJSs0IpSE3R7oRln) | [Andrés Cepeda](https://open.spotify.com/artist/49Z1AvGeUaBSanPaOmplK6), [Gusi](https://open.spotify.com/artist/7GMRarEViKQmiTUMFZtrfe) | [Duele](https://open.spotify.com/album/2PuqtGQoJqhXo5AubtfoOx) | 3:33 |
+| 49 | [Cómplices](https://open.spotify.com/track/0ja9BfD4zrXznqkTKfz0Te) | [Sebastián Romero](https://open.spotify.com/artist/0FpJe752weMmwiyJyF8zXq) | [Cómplices](https://open.spotify.com/album/7tZbJdirOvGF5BwjrcD4BQ) | 3:03 |
 | 50 | [Me Vas a Hacer Falta](https://open.spotify.com/track/6eEnycLcdQWSkgg12wjN4o) | [Monsieur Periné](https://open.spotify.com/artist/36KsCCwgI0Dep97yVJWmkK) | [Encanto Tropical](https://open.spotify.com/album/65dDJHiGH66LQPEiLHKDma) | 4:00 |
 | 51 | [Bonito](https://open.spotify.com/track/3AQ0civlqpPROACEaMv4Xo) | [Marco Mares](https://open.spotify.com/artist/5Eg5ZoZgXAa1Eit48sxoKQ), [Greta Ela](https://open.spotify.com/artist/5c8L3nGznkMGwbmyMKVIl8) | [Estas Canciones Me Recuerdan a Ti](https://open.spotify.com/album/79iOQFpvUfcxDUMhBRZYRM) | 4:00 |
 | 52 | [Veracruz](https://open.spotify.com/track/6QlEtyGqmX4dXASVeEEEDH) | [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [Un Canto por México, Vol\. 1](https://open.spotify.com/album/6yDcHjoEqNkkl9UC6KSlFE) | 4:03 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX64myInc1vfu.md) - [plain]
 | 59 | [Desahogo](https://open.spotify.com/track/7JkPQQxNWuNbcy7aOp6dpR) | [Diego El Cigala](https://open.spotify.com/artist/7mLYMGXg84miYydKwi2aRi) | [Desahogo](https://open.spotify.com/album/5PHVNEt1OngzrWtaFNNlY9) | 4:20 |
 | 60 | [traguito](https://open.spotify.com/track/3t2nOnte5Wp9jbvMenZedH) | [iLe](https://open.spotify.com/artist/1CztIa6fCQ0WmVPidXuwSs), [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [traguito](https://open.spotify.com/album/3w6RnyVHOO4xHAGzO9iOmB) | 3:56 |
 
-Snapshot ID: `MCwxZTA0NDE1YWUxM2FiMzdlZDRiYjEwYjQwZDc5Mzc3YTkzNWM2Yzhj`
+Snapshot ID: `MCxkMWNmNGFlZjNlMjNlZDYzYjMyMzk1Y2JjMWJkY2UzYTUyMmQ4NWFk`

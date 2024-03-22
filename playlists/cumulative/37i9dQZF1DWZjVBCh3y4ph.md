@@ -2,7 +2,7 @@
 
 ### [Zouk Station](https://open.spotify.com/playlist/37i9dQZF1DWZjVBCh3y4ph)
 
-> Les hits zouk du moment\. Photo :  Kalipsxau
+> Les hits zouk du moment\. Photo : Barth
 
 103 songs - 5 hr 30 min
 

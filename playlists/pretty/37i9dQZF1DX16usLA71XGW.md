@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX16usLA71XGW.md) - [plain]
 
 > East Africa queens in their music bag\. Cover: Muthoni Drummer Queen
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,325 likes - 60 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,327 likes - 60 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX16usLA71XGW.md) - [plain]
 | 59 | [Omutima](https://open.spotify.com/track/4uDqe7prnIPYPU2wq1VsVW) | [Lydia Jazmine](https://open.spotify.com/artist/3iIWxRdX4e7W4ZD2urn7WM) | [Omutima](https://open.spotify.com/album/61wC1nlhsMQeNVSCDEZDhY) | 2:43 |
 | 60 | [Unanimaliza](https://open.spotify.com/track/67F4XuZS8JXs8t5UZBjEFg) | [Nandy](https://open.spotify.com/artist/2YfO4GV7JrFSXyfEoa5id3), [Lody Music](https://open.spotify.com/artist/74V5EGZx8m1D9pAErk5TEz) | [Maturity EP](https://open.spotify.com/album/55GR8hOcCxxiWApDdURREq) | 2:55 |
 
-Snapshot ID: `MCw1ZDM5ZDA2YzkyZTU2YWRlOGVlMjU5ZmUzMGM1NzlkYTc1MDUyNzcy`
+Snapshot ID: `MCwyZTAyOTFlYTIzMzk4NGUwMWMxZTc2NTllZjdhNGExMzZjOWFkMWYy`

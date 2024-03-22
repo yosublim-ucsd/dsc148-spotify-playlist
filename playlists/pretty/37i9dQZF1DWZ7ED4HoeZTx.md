@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ7ED4HoeZTx.md) - [plain]
 
 > Your chill anime soundtrack.
 
-[Spotify](https://open.spotify.com/user/spotify) - 121,224 likes - 50 songs - 3 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 121,295 likes - 50 songs - 3 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ7ED4HoeZTx.md) - [plain]
 | 49 | [Always with Me](https://open.spotify.com/track/0FJL3Dwu8oUpwDb80qNdvP) | [Yumi Kimura](https://open.spotify.com/artist/6GwGjApO5BIdafJUMazVN3) | [Spirited Away Soundtrack](https://open.spotify.com/album/766a5fKJYFy9ii4Kz2bQy9) | 3:35 |
 | 50 | [The World's Continuation](https://open.spotify.com/track/7k9Y8EXEvzKOH3zdMVXXo4) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [UTA'S SONGS ONE PIECE FILM RED](https://open.spotify.com/album/7Ixqxq13tWhrbnIabk3172) | 4:47 |
 
-Snapshot ID: `MCw3MzA5MmFmOWNhOTQ0MjQyZTY1ZDQxNmUwMzBjM2QwNmRjZjU3NTRl`
+Snapshot ID: `MCw2MDU2NWFmODhlMDkyNWVmNmE0NjdiYjE1NTc1YTNlYzMwMDZhNjBk`

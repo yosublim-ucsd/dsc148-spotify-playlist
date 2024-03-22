@@ -1,5 +1,5 @@
 {
-  "2024-03-21": 854242,
+  "2024-03-22": 854720,
   "date_first_scraped": "2023-08-03",
   "description": "\u00a1Pura Doble P! Chachaaauuuuuu",
   "name": "This Is Peso Pluma",
@@ -1521,6 +1521,24 @@
     {
       "album": {
         "name": "Todo Es Playa",
+        "url": "https://open.spotify.com/album/2N7Z8HVXQTndAApnM7cuMJ"
+      },
+      "artists": [
+        {
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228000,
+      "name": "Todo Es Playa",
+      "url": "https://open.spotify.com/track/06x6rlsG6ZD56K0JFi8yKC"
+    },
+    {
+      "album": {
+        "name": "Todo Es Playa",
         "url": "https://open.spotify.com/album/3zTdYxlP3AQMBvbLtJQeBE"
       },
       "artists": [
@@ -1531,7 +1549,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-21",
       "duration_ms": 228949,
       "name": "Todo Es Playa",
       "url": "https://open.spotify.com/track/7pnRCKAqERqg6dQRKfZoFm"

@@ -1,12 +1,12 @@
 {
   "description": "D vitaminin.",
-  "num_followers": 26045,
+  "num_followers": 26044,
   "original_name": "G\u00fcnl\u00fck G\u00fcne\u015flik",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhOTNkMzFlMjkwNmU2OGRmMDk1ZjZhNjRkZjNmNDVkZDY1NDMzYjk4",
+  "snapshot_id": "MCxiOGRhYzNlYWU0NTNjNGI5NzdmYmQ0ZGRlNDUzM2FkNWM3Njg4ODI2",
   "tracks": [
     {
       "added_at": "2024-03-01 13:18:16",
@@ -507,6 +507,22 @@
     {
       "added_at": "2024-03-01 13:18:16",
       "album": {
+        "name": "Happiness Begins",
+        "url": "https://open.spotify.com/album/1Uf67JAtkVWfdydzFFqNF2"
+      },
+      "artists": [
+        {
+          "name": "Jonas Brothers",
+          "url": "https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD"
+        }
+      ],
+      "duration_ms": 183000,
+      "name": "Only Human",
+      "url": "https://open.spotify.com/track/0DiDStADDVh3SvAsoJAFMk"
+    },
+    {
+      "added_at": "2024-03-01 13:18:16",
+      "album": {
         "name": "Way Back Home (feat. Conor Maynard) [Sam Feldt Edit]",
         "url": "https://open.spotify.com/album/13aeLAMXve4Jxd8mNKu068"
       },
@@ -527,22 +543,6 @@
       "duration_ms": 192452,
       "name": "Way Back Home (feat. Conor Maynard) - Sam Feldt Edit",
       "url": "https://open.spotify.com/track/1ZLrDPgR7mvuTco3rQK8Pk"
-    },
-    {
-      "added_at": "2024-03-01 13:18:16",
-      "album": {
-        "name": "Happiness Begins",
-        "url": "https://open.spotify.com/album/1Uf67JAtkVWfdydzFFqNF2"
-      },
-      "artists": [
-        {
-          "name": "Jonas Brothers",
-          "url": "https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD"
-        }
-      ],
-      "duration_ms": 183000,
-      "name": "Only Human",
-      "url": "https://open.spotify.com/track/0DiDStADDVh3SvAsoJAFMk"
     },
     {
       "added_at": "2024-03-01 13:18:16",
@@ -591,26 +591,6 @@
     {
       "added_at": "2024-03-01 13:18:16",
       "album": {
-        "name": "Giant (with Rag'n'Bone Man)",
-        "url": "https://open.spotify.com/album/4PwXTHenZZx7ebgsnTM65K"
-      },
-      "artists": [
-        {
-          "name": "Calvin Harris",
-          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
-        },
-        {
-          "name": "Rag'n'Bone Man",
-          "url": "https://open.spotify.com/artist/4f9iBmdUOhQWeP7dcAn1pf"
-        }
-      ],
-      "duration_ms": 229184,
-      "name": "Giant (with Rag'n'Bone Man)",
-      "url": "https://open.spotify.com/track/5itOtNx0WxtJmi1TQ3RuRd"
-    },
-    {
-      "added_at": "2024-03-01 13:18:16",
-      "album": {
         "name": "Following the Sun",
         "url": "https://open.spotify.com/album/140Jok6j3tn10bqgUqcUVG"
       },
@@ -627,6 +607,26 @@
       "duration_ms": 205000,
       "name": "Following the Sun",
       "url": "https://open.spotify.com/track/5A5bLKdL5I3k3FTEQlAUw7"
+    },
+    {
+      "added_at": "2024-03-01 13:18:16",
+      "album": {
+        "name": "Giant (with Rag'n'Bone Man)",
+        "url": "https://open.spotify.com/album/4PwXTHenZZx7ebgsnTM65K"
+      },
+      "artists": [
+        {
+          "name": "Calvin Harris",
+          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
+        },
+        {
+          "name": "Rag'n'Bone Man",
+          "url": "https://open.spotify.com/artist/4f9iBmdUOhQWeP7dcAn1pf"
+        }
+      ],
+      "duration_ms": 229184,
+      "name": "Giant (with Rag'n'Bone Man)",
+      "url": "https://open.spotify.com/track/5itOtNx0WxtJmi1TQ3RuRd"
     },
     {
       "added_at": "2024-03-01 13:18:16",
@@ -767,22 +767,6 @@
     {
       "added_at": "2024-03-01 13:18:16",
       "album": {
-        "name": "Chapters",
-        "url": "https://open.spotify.com/album/3GNzXsFbzdwM0WKCZtgeNP"
-      },
-      "artists": [
-        {
-          "name": "James TW",
-          "url": "https://open.spotify.com/artist/0B3N0ZINFWvizfa8bKiz4v"
-        }
-      ],
-      "duration_ms": 231653,
-      "name": "You & Me",
-      "url": "https://open.spotify.com/track/1bQhZOoXYqjXs7u7rFXo0h"
-    },
-    {
-      "added_at": "2024-03-01 13:18:16",
-      "album": {
         "name": "Jack Johnson And Friends: Sing-A-Longs And Lullabies For The Film Curious George",
         "url": "https://open.spotify.com/album/3Jl7i9Vo0Ht4co9SqTFjQy"
       },
@@ -795,6 +779,22 @@
       "duration_ms": 208653,
       "name": "Upside Down",
       "url": "https://open.spotify.com/track/6shRGWCtBUOPFLFTTqXZIC"
+    },
+    {
+      "added_at": "2024-03-01 13:18:16",
+      "album": {
+        "name": "Chapters",
+        "url": "https://open.spotify.com/album/3GNzXsFbzdwM0WKCZtgeNP"
+      },
+      "artists": [
+        {
+          "name": "James TW",
+          "url": "https://open.spotify.com/artist/0B3N0ZINFWvizfa8bKiz4v"
+        }
+      ],
+      "duration_ms": 231653,
+      "name": "You & Me",
+      "url": "https://open.spotify.com/track/1bQhZOoXYqjXs7u7rFXo0h"
     },
     {
       "added_at": "2024-03-01 13:18:16",
@@ -1051,22 +1051,6 @@
     {
       "added_at": "2024-03-01 13:18:16",
       "album": {
-        "name": "Insomnia",
-        "url": "https://open.spotify.com/album/673e3sPgdJWrPAIBvaKysa"
-      },
-      "artists": [
-        {
-          "name": "Daya",
-          "url": "https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH"
-        }
-      ],
-      "duration_ms": 179745,
-      "name": "Insomnia",
-      "url": "https://open.spotify.com/track/7hzlzoOwCZ4D3Ow5YZK4kj"
-    },
-    {
-      "added_at": "2024-03-01 13:18:16",
-      "album": {
         "name": "Love To Go",
         "url": "https://open.spotify.com/album/4fn5LDl6DjSBfoMCHBO1jv"
       },
@@ -1087,6 +1071,22 @@
       "duration_ms": 169353,
       "name": "Love To Go",
       "url": "https://open.spotify.com/track/14d79QOV2pvJHH9vlUfZwJ"
+    },
+    {
+      "added_at": "2024-03-01 13:18:16",
+      "album": {
+        "name": "Insomnia",
+        "url": "https://open.spotify.com/album/673e3sPgdJWrPAIBvaKysa"
+      },
+      "artists": [
+        {
+          "name": "Daya",
+          "url": "https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH"
+        }
+      ],
+      "duration_ms": 179745,
+      "name": "Insomnia",
+      "url": "https://open.spotify.com/track/7hzlzoOwCZ4D3Ow5YZK4kj"
     },
     {
       "added_at": "2024-03-01 13:18:16",
@@ -1259,22 +1259,6 @@
     {
       "added_at": "2024-03-01 13:18:16",
       "album": {
-        "name": "For A Minute",
-        "url": "https://open.spotify.com/album/0jEz1BRAiiPUjy6ZTWnS0v"
-      },
-      "artists": [
-        {
-          "name": "WizTheMc",
-          "url": "https://open.spotify.com/artist/3ebS2RuCq8QeLyndUDmgB5"
-        }
-      ],
-      "duration_ms": 108984,
-      "name": "For A Minute",
-      "url": "https://open.spotify.com/track/5cF53kSZ8g4YzZqHEJzR9o"
-    },
-    {
-      "added_at": "2024-03-01 13:18:16",
-      "album": {
         "name": "Horizons",
         "url": "https://open.spotify.com/album/6GHb9FYG7HnVet0rQs0Dq9"
       },
@@ -1287,6 +1271,22 @@
       "duration_ms": 173230,
       "name": "Good Day",
       "url": "https://open.spotify.com/track/3Sn36jbYTRuTSA3pHi4Ajz"
+    },
+    {
+      "added_at": "2024-03-01 13:18:16",
+      "album": {
+        "name": "For A Minute",
+        "url": "https://open.spotify.com/album/0jEz1BRAiiPUjy6ZTWnS0v"
+      },
+      "artists": [
+        {
+          "name": "WizTheMc",
+          "url": "https://open.spotify.com/artist/3ebS2RuCq8QeLyndUDmgB5"
+        }
+      ],
+      "duration_ms": 108984,
+      "name": "For A Minute",
+      "url": "https://open.spotify.com/track/5cF53kSZ8g4YzZqHEJzR9o"
     },
     {
       "added_at": "2024-03-01 13:18:16",
@@ -1503,26 +1503,6 @@
     {
       "added_at": "2024-03-01 13:18:16",
       "album": {
-        "name": "Swing (Mahmut Orhan Remix)",
-        "url": "https://open.spotify.com/album/06yKFgvSkOVfq6CIc2icWL"
-      },
-      "artists": [
-        {
-          "name": "Sofi Tukker",
-          "url": "https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q"
-        },
-        {
-          "name": "Mahmut Orhan",
-          "url": "https://open.spotify.com/artist/3t8WiyalpvnB9AObcMufiE"
-        }
-      ],
-      "duration_ms": 269431,
-      "name": "Swing - Mahmut Orhan Remix",
-      "url": "https://open.spotify.com/track/1ixFMrUVX7HMSctONowS3G"
-    },
-    {
-      "added_at": "2024-03-01 13:18:16",
-      "album": {
         "name": "Right Now",
         "url": "https://open.spotify.com/album/4UsjjAKbtKzmgEz2pGbv6P"
       },
@@ -1539,6 +1519,26 @@
       "duration_ms": 201680,
       "name": "Right Now",
       "url": "https://open.spotify.com/track/43wzy7JxMEfvCh8ZFeZKYk"
+    },
+    {
+      "added_at": "2024-03-01 13:18:16",
+      "album": {
+        "name": "Swing (Mahmut Orhan Remix)",
+        "url": "https://open.spotify.com/album/06yKFgvSkOVfq6CIc2icWL"
+      },
+      "artists": [
+        {
+          "name": "Sofi Tukker",
+          "url": "https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q"
+        },
+        {
+          "name": "Mahmut Orhan",
+          "url": "https://open.spotify.com/artist/3t8WiyalpvnB9AObcMufiE"
+        }
+      ],
+      "duration_ms": 269431,
+      "name": "Swing - Mahmut Orhan Remix",
+      "url": "https://open.spotify.com/track/1ixFMrUVX7HMSctONowS3G"
     },
     {
       "added_at": "2024-03-01 13:18:16",

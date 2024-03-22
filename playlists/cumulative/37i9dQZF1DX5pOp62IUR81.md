@@ -4,7 +4,7 @@
 
 > Go inside the music from the Marvel worlds that you love!
 
-174 songs - 7 hr 37 min
+175 songs - 7 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -179,6 +179,7 @@
 | [Where Are They?](https://open.spotify.com/track/0stEBONXZQ10zXnJeiiWiS) | [Alan Silvestri](https://open.spotify.com/artist/0Xk15jHKly4c3AhPr5vjoA) | [Avengers: Endgame \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6r4Vfnoifx2CLiTKCaKji8) | 3:12 | 2024-01-05 |  |
 | [Who…Is…That…??!!](https://open.spotify.com/track/4FfChxl4wQ5aYauxYgqmVy) | [Laura Karpman](https://open.spotify.com/artist/13eA4oLnDowghtVUqwSZSD) | [Ms\. Marvel: Vol\. 2 \(Episodes 4\-6\) \[Original Soundtrack\]](https://open.spotify.com/album/4eya8XJu21baoDM00D3J1j) | 0:32 | 2024-01-05 |  |
 | [Why Do You Fight?](https://open.spotify.com/track/3dyOUw2nH56Eso3J1qytcX) | [Pinar Toprak](https://open.spotify.com/artist/7z1L55q63jRGHqqS3xcGgl) | [Captain Marvel \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7JkLtKFArRIE47ungawDy0) | 1:14 | 2024-01-05 |  |
+| [X\-Men '97 Theme \- From "X\-Men '97"](https://open.spotify.com/track/3GIu4yGiUgvDi9ERewkbIa) | [The Newton Brothers](https://open.spotify.com/artist/7dlJy6RJTqYprtHmWYBOv3) | [X\-Men '97 Theme \(From "X\-Men '97"\)](https://open.spotify.com/album/3lpER8BQDPbDsamuZviUaG) | 1:05 | 2024-03-21 |  |
 | [Xu Shang\-Chi](https://open.spotify.com/track/0U1X5zc0wvbT6C3YQEpK0q) | [Joel P West](https://open.spotify.com/artist/6rQvvJf6EoWZnoO6g7mixQ) | [Shang\-Chi and the Legend of the Ten Rings \(Original Score\)](https://open.spotify.com/album/72LIvmrUE6L6bBO5gzvbya) | 2:55 | 2024-01-05 |  |
 | [You Did Good](https://open.spotify.com/track/34ZpUfJx6XvSvHQUgPbqSq) | [Alan Silvestri](https://open.spotify.com/artist/0Xk15jHKly4c3AhPr5vjoA) | [Avengers: Endgame \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6r4Vfnoifx2CLiTKCaKji8) | 1:57 | 2024-01-05 |  |
 | [Árboles Bajo El Mar \- Film Version](https://open.spotify.com/track/5YEpYN4oyDaWODhd5t4av3) | [Vivir Quintana](https://open.spotify.com/artist/3Z3OTfxYdBnJKMXFbRjmU2), [Mare Advertencia Lirika](https://open.spotify.com/artist/3QVB7ctBlqEFuQZeMDt6Qh) | [Black Panther: Wakanda Forever \(Original Score\)](https://open.spotify.com/album/2lPz7qiqG7TfvKr3S1Lv6p) | 6:29 | 2024-01-05 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5C8ObEZ48JQ.md) - [plain]
 
 > The best new music by independent African artists and labels\. Updates every Wednesday\. Cover:  <a href="https://open.spotify.com/artist/3IcRyro18wY1bmtyQpDLgl?si=\_AOux\-TVTgKJf1JL8RolbA">Nyota Parker</a>\. Artwork: Isu Kim.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,974 likes - 50 songs - 2 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,981 likes - 50 songs - 2 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,7 +49,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5C8ObEZ48JQ.md) - [plain]
 | 39 | [Lock Down \(Kayamata\)](https://open.spotify.com/track/5ugYHnSyPfd3esF4JKLie2) | [MOONLIGHT AFRIQA](https://open.spotify.com/artist/2yWEoKFUDsghitIZNPACiF) | [Lock Down \(Kayamata\)](https://open.spotify.com/album/0ZxR4HibWqyf9z70yE5nvZ) | 2:06 |
 | 40 | [Higher](https://open.spotify.com/track/40Wc3xoBbU3YZdoHk1kwoA) | [Mo Mide](https://open.spotify.com/artist/2SRAIYk6FxhXRDJXUeJ4Qo), [Maikon West](https://open.spotify.com/artist/3QKJ7PXenJvvf1MiicgBIG), [Adavize](https://open.spotify.com/artist/1FtKAmM9QiiO1uNliZ8J9I) | [Higher](https://open.spotify.com/album/6ZyMhzShv9Za412D2lqCwh) | 2:35 |
 | 41 | [Nimejibeba](https://open.spotify.com/track/5qRnpj32fYhke0Sh0Yjoa6) | [Victoria Gichora](https://open.spotify.com/artist/29bVNgK0J0XNLcYqi1xsG0) | [Nimejibeba](https://open.spotify.com/album/0g6uq1bB129ewHvpIJw3vw) | 3:21 |
-| 42 | [Breathless](https://open.spotify.com/track/4Dr8fAF8e3fZAKoszVUsNi) | [Ruguru](https://open.spotify.com/artist/1paCrsKnETPLpODHtQfSSW) | [Ruguru](https://open.spotify.com/album/2rdXJOOC9kuPWxD1mboKCQ) | 3:53 |
+| 42 | [Breathless](https://open.spotify.com/track/5lHDOOekGbZn5AmHc8hhvN) | [Ruguru](https://open.spotify.com/artist/1paCrsKnETPLpODHtQfSSW) | [Ruguru](https://open.spotify.com/album/6KxBTlz9GjwMGR9ZEEbbRg) | 3:53 |
 | 43 | [Casanova](https://open.spotify.com/track/5pjnd6OFWjovQZpQ9KDkmI) | [ZEMAN](https://open.spotify.com/artist/6JrbGHMHBWfVSpmVsqi40w) | [Casanova](https://open.spotify.com/album/4mMF1H9pNv61LY1TegflVE) | 2:37 |
 | 44 | [Trip](https://open.spotify.com/track/0JBG80Tzd9dsK9NY7QhYI8) | [Shawn Houdini](https://open.spotify.com/artist/6Wwm7ICdWjCLz0fGEsuYm9), [Katua](https://open.spotify.com/artist/6plseXZHxiX96kDvebu7Jh) | [Trip](https://open.spotify.com/album/5F4wRFPtLERNzGd7S03h6P) | 2:20 |
 | 45 | [Falling](https://open.spotify.com/track/6drtB7tFWbtKvp4QikYuTo) | [Corby](https://open.spotify.com/artist/4uHKRVYCZ4sT0EtrlemkT4) | [Falling](https://open.spotify.com/album/2a37proFkFTJZkrWPB7Nu9) | 3:04 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5C8ObEZ48JQ.md) - [plain]
 | 49 | [Fly](https://open.spotify.com/track/1bl9eXOR5fBlPdZg3Nwr0A) | [R.B.D.](https://open.spotify.com/artist/5YPzHb8dVwxsEjSbdOU8We) | [Fly](https://open.spotify.com/album/3b62lg9qZylXGvbXTY5BSf) | 2:33 |
 | 50 | [Hello](https://open.spotify.com/track/15GZYiGVvGfR2FpIQQ4TPX) | [Lali X Lola](https://open.spotify.com/artist/6gQVhg7g1AS2jkNYLjdqb0) | [Hello](https://open.spotify.com/album/42x6GlAegX4dxYKB0R4ALK) | 3:09 |
 
-Snapshot ID: `MCxiMWU3NDM0N2NkMGY5OTZiZTU3OTM4OTM5M2M3Zjc3YjU5ZTgwZDdm`
+Snapshot ID: `MCxiNWExMjc3ZDQyMTJhMzU5MDViNjUxZDY3YjEwNzNjMWMyYTk2OWMz`

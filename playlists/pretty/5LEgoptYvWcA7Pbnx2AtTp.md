@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5LEgoptYvWcA7Pbnx2AtTp.md) - [plain]
 
 > Questionable in both morals and taste.
 
-[Zero625](https://open.spotify.com/user/31bhzcs5e4idzzfmzmq7j63ivsbm) - 7 likes - 82 songs - 5 hr 2 min
+[Zero625](https://open.spotify.com/user/31bhzcs5e4idzzfmzmq7j63ivsbm) - 8 likes - 82 songs - 5 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

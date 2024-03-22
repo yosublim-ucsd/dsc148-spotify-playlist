@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2I7Ykltk83m.md) - [plain]
 
 > killer songs from badass artists\. Cover: Haley Blais
 
-[Spotify](https://open.spotify.com/user/spotify) - 361,770 likes - 125 songs - 7 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 361,836 likes - 125 songs - 7 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,14 +56,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2I7Ykltk83m.md) - [plain]
 | 46 | [Not](https://open.spotify.com/track/7lrhugjSbiImrNSLIFIq0c) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [Two Hands](https://open.spotify.com/album/5pp7px9MITK2MqeFVbRWGo) | 6:07 |
 | 47 | [Faith Healer](https://open.spotify.com/track/5M7jnmPrtHgL5H4fTewJch) | [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip) | [Little Oblivions](https://open.spotify.com/album/3IQRHa9iVLsGlSuVHiHZ3A) | 2:54 |
 | 48 | [Like I Used To](https://open.spotify.com/track/1kZpYFQHUKv4xHELaaUSqP) | [Sharon Van Etten](https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe), [Angel Olsen](https://open.spotify.com/artist/6mKqFxGMS5TGDZI3XkT5Rt) | [Like I Used To](https://open.spotify.com/album/0nRjg8p3TOmImvztpYncra) | 4:23 |
-| 49 | [Big Wheel](https://open.spotify.com/track/6GUQaa74JUSziJ9TT29Ghg) | [Samia](https://open.spotify.com/artist/1Uk1GyijF6fSfX4mWq5bfR) | [The Baby](https://open.spotify.com/album/7faAwJDTt9Y8kVAcSHy9Y6) | 3:15 |
-| 50 | [Lovesick](https://open.spotify.com/track/2yDWhOjZhKZ0XqPXyjNQhx) | [Alice Phoebe Lou](https://open.spotify.com/artist/03uMw43UVu9MsQCcHVSGjX) | [Glow](https://open.spotify.com/album/17bMGqdO2UxbHHgiE9mX6X) | 4:13 |
+| 49 | [Lovesick](https://open.spotify.com/track/2yDWhOjZhKZ0XqPXyjNQhx) | [Alice Phoebe Lou](https://open.spotify.com/artist/03uMw43UVu9MsQCcHVSGjX) | [Glow](https://open.spotify.com/album/17bMGqdO2UxbHHgiE9mX6X) | 4:13 |
+| 50 | [Big Wheel](https://open.spotify.com/track/6GUQaa74JUSziJ9TT29Ghg) | [Samia](https://open.spotify.com/artist/1Uk1GyijF6fSfX4mWq5bfR) | [The Baby](https://open.spotify.com/album/7faAwJDTt9Y8kVAcSHy9Y6) | 3:15 |
 | 51 | [Savage Good Boy](https://open.spotify.com/track/0EredcGoVUJTRiBLmwI0AO) | [Japanese Breakfast](https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw) | [Jubilee](https://open.spotify.com/album/1uD1kdwTWH1DZQZqGKz6rY) | 2:26 |
 | 52 | [Interstate Vision](https://open.spotify.com/track/4LGCqrllsDT8SI8xmmE6OL) | [Lomelda](https://open.spotify.com/artist/6zcDLZ62JsbVM1nLrQMzi4) | [Thx](https://open.spotify.com/album/15nul3qLPn2FopI5zjdEg7) | 2:42 |
-| 53 | [\(You\) On My Arm](https://open.spotify.com/track/5amHfOkbZVOopRkYqB4aqL) | [Leith Ross](https://open.spotify.com/artist/4nxKz1dRYXnsGzN1lUURtG) | [\(You\) On My Arm](https://open.spotify.com/album/4DOK0sUNU39awhzjWS3JL6) | 4:05 |
-| 54 | [Idaho](https://open.spotify.com/track/4FvqAI5GwPspJE3TkMGnEb) | [Slow Pulp](https://open.spotify.com/artist/2JFTRDi5v7JtqoouVe1z5D) | [Moveys](https://open.spotify.com/album/5C66ZV77hQsUlhSIYJYcar) | 4:05 |
-| 55 | [Jupiter 4](https://open.spotify.com/track/74n118P9h9Sz2AwDSc3f8N) | [Sharon Van Etten](https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe) | [Remind Me Tomorrow](https://open.spotify.com/album/4bfvR9TMwCm2tzXpboLH3t) | 5:14 |
-| 56 | [Shotgun](https://open.spotify.com/track/5gG1tBzjqPWXTevct5kaLX) | [Soccer Mommy](https://open.spotify.com/artist/4wXchxfTTggLtzkoUhO86Q) | [Sometimes, Forever](https://open.spotify.com/album/3VXLdJpzeaAyX9Tbm0i0zn) | 4:10 |
+| 53 | [Idaho](https://open.spotify.com/track/4FvqAI5GwPspJE3TkMGnEb) | [Slow Pulp](https://open.spotify.com/artist/2JFTRDi5v7JtqoouVe1z5D) | [Moveys](https://open.spotify.com/album/5C66ZV77hQsUlhSIYJYcar) | 4:05 |
+| 54 | [\(You\) On My Arm](https://open.spotify.com/track/5amHfOkbZVOopRkYqB4aqL) | [Leith Ross](https://open.spotify.com/artist/4nxKz1dRYXnsGzN1lUURtG) | [\(You\) On My Arm](https://open.spotify.com/album/4DOK0sUNU39awhzjWS3JL6) | 4:05 |
+| 55 | [Shotgun](https://open.spotify.com/track/5gG1tBzjqPWXTevct5kaLX) | [Soccer Mommy](https://open.spotify.com/artist/4wXchxfTTggLtzkoUhO86Q) | [Sometimes, Forever](https://open.spotify.com/album/3VXLdJpzeaAyX9Tbm0i0zn) | 4:10 |
+| 56 | [Jupiter 4](https://open.spotify.com/track/74n118P9h9Sz2AwDSc3f8N) | [Sharon Van Etten](https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe) | [Remind Me Tomorrow](https://open.spotify.com/album/4bfvR9TMwCm2tzXpboLH3t) | 5:14 |
 | 57 | [Cheers](https://open.spotify.com/track/3ruYlsPdwqrvb6mEDcfUUP) | [Faye Webster](https://open.spotify.com/artist/5szilpXHcwOqnyKLqGco5j) | [I Know I'm Funny haha](https://open.spotify.com/album/424bxvpYyNDM2DFFibeKs0) | 3:15 |
 | 58 | [concussion](https://open.spotify.com/track/1h1w9olosnfBLzkRGsceCe) | [girlhouse](https://open.spotify.com/artist/7AWyYXZ5tIc0xNSfKLD3QX) | [concussion](https://open.spotify.com/album/2d87gFtOj98tGAOwHxIpj2) | 4:37 |
 | 59 | [Kill Me](https://open.spotify.com/track/66N8I6v00iQFPd56yU7dXf) | [Indigo De Souza](https://open.spotify.com/artist/3ir2pF2mkiEWqyPenKTh5e) | [Any Shape You Take](https://open.spotify.com/album/7G7lPTcJta35qGZ8LMIJ4y) | 4:20 |
@@ -72,12 +72,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2I7Ykltk83m.md) - [plain]
 | 62 | [Write A List of Things To Look Forward To](https://open.spotify.com/track/5MI8umTu0luQ4wQPm87adK) | [Courtney Barnett](https://open.spotify.com/artist/4OOlG5eBXSkSAAEeKjJb5Y) | [Things Take Time, Take Time](https://open.spotify.com/album/3InSvUCYvJ5XWg6PegGNCv) | 2:48 |
 | 63 | [It's a good day \(to fight the system\)](https://open.spotify.com/track/4dxd3tUsKT52EMboYtceOQ) | [Shungudzo](https://open.spotify.com/artist/1zC5fndU0aEvINmBra2M3T) | [I’m not a mother, but I have children](https://open.spotify.com/album/0THOsldcM5URR7idU1FTmc) | 3:17 |
 | 64 | [I Don’t Know You Like I Used To](https://open.spotify.com/track/2Pc89ZBdas5FqLAB3JOILo) | [mercury](https://open.spotify.com/artist/0MaDtBu4Hw0qLH95poDSCk) | [I Don’t Know You Like I Used To](https://open.spotify.com/album/4KJOsmC2iMZGvNE83iQPaf) | 4:19 |
-| 65 | [Quarry](https://open.spotify.com/track/2rQw8ZLhgYDGMS8ijHk6Tr) | [Wednesday](https://open.spotify.com/artist/4j7DrazfBZLLD0OrVoAtEe) | [Rat Saw God](https://open.spotify.com/album/1oTR3aC0jYmwUlr9duBi05) | 4:07 |
-| 66 | [Bloom](https://open.spotify.com/track/53Mq10qpih00CLPph20MVp) | [Matilda Mann](https://open.spotify.com/artist/76oY04bOzECod3aGVTDtzu) | [Bloom](https://open.spotify.com/album/3I1oxH4FGfmlO6SSK31N7X) | 2:46 |
+| 65 | [Bloom](https://open.spotify.com/track/53Mq10qpih00CLPph20MVp) | [Matilda Mann](https://open.spotify.com/artist/76oY04bOzECod3aGVTDtzu) | [Bloom](https://open.spotify.com/album/3I1oxH4FGfmlO6SSK31N7X) | 2:46 |
+| 66 | [Quarry](https://open.spotify.com/track/2rQw8ZLhgYDGMS8ijHk6Tr) | [Wednesday](https://open.spotify.com/artist/4j7DrazfBZLLD0OrVoAtEe) | [Rat Saw God](https://open.spotify.com/album/1oTR3aC0jYmwUlr9duBi05) | 4:07 |
 | 67 | [Medicine](https://open.spotify.com/track/3381KgaT7kBV2Cuno9scbe) | [Momma](https://open.spotify.com/artist/5Wj0an60VgRckYV9zlDe1e) | [Household Name](https://open.spotify.com/album/1jjI2c9jxiKdIV46hCH5h2) | 4:14 |
 | 68 | [Lydia Wears A Cross](https://open.spotify.com/track/39Xue5JNMm2yLvIma6Ut8u) | [Julia Jacklin](https://open.spotify.com/artist/12fRkVfO2fUsz1QHgDAG3g) | [PRE PLEASURE](https://open.spotify.com/album/47R4scO7Jzc3PViyjEoMb5) | 4:01 |
-| 69 | [I Don't Recognise You](https://open.spotify.com/track/0Gic2wnMVet2tfx03w1TVa) | [NewDad](https://open.spotify.com/artist/1yz8XixOiIJJ9IxjbnfYV6) | [Waves](https://open.spotify.com/album/1XTjLKNxV3JG6TjZLhk3aX) | 4:35 |
-| 70 | [Astral Projection](https://open.spotify.com/track/6gGZlkeGM73KD01zYVAJVO) | [Yumi Zouma](https://open.spotify.com/artist/4tPyCwWrsvZ8OKYl7QRavL) | [Present Tense](https://open.spotify.com/album/2MWDzkDsRqaJcWdktGXhG5) | 3:52 |
+| 69 | [Astral Projection](https://open.spotify.com/track/6gGZlkeGM73KD01zYVAJVO) | [Yumi Zouma](https://open.spotify.com/artist/4tPyCwWrsvZ8OKYl7QRavL) | [Present Tense](https://open.spotify.com/album/2MWDzkDsRqaJcWdktGXhG5) | 3:52 |
+| 70 | [I Don't Recognise You](https://open.spotify.com/track/0Gic2wnMVet2tfx03w1TVa) | [NewDad](https://open.spotify.com/artist/1yz8XixOiIJJ9IxjbnfYV6) | [Waves](https://open.spotify.com/album/1XTjLKNxV3JG6TjZLhk3aX) | 4:35 |
 | 71 | [Silver Into Rain](https://open.spotify.com/track/1fMOg9fZ20OCJCzYiXmom7) | [Luna Li](https://open.spotify.com/artist/4ZAk3yVJdtf1CFnTiG08U3), [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Duality](https://open.spotify.com/album/7hlIZo0zmIL0cd76vieDzM) | 3:21 |
 | 72 | [Jump Rope Gazers](https://open.spotify.com/track/5oyrl5VF5W6vu5vDNW57Kp) | [The Beths](https://open.spotify.com/artist/7DjwIxbe8kpw4pqnzAMoin) | [Jump Rope Gazers](https://open.spotify.com/album/08RHgulG8GrXeC9Igz1Rcx) | 5:12 |
 | 73 | [Speeding 72](https://open.spotify.com/track/2QYmaiPbbXxXMBrvWj34m0) | [Momma](https://open.spotify.com/artist/5Wj0an60VgRckYV9zlDe1e) | [Household Name](https://open.spotify.com/album/1jjI2c9jxiKdIV46hCH5h2) | 3:58 |
@@ -87,15 +87,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2I7Ykltk83m.md) - [plain]
 | 77 | [Growing Up](https://open.spotify.com/track/4Pa5KeSpeVbr6ubFTiG6If) | [The Linda Lindas](https://open.spotify.com/artist/13dTrWNNrnZ3AkgNyQNKP5) | [Growing Up](https://open.spotify.com/album/6BkAzZNlSz80Iz3oTlKHet) | 3:06 |
 | 78 | [Polly](https://open.spotify.com/track/0AaJgZIw1lJjc4QejCEpAu) | [Dora Jar](https://open.spotify.com/artist/4V30Q8ACPdJCcAmAYibfrH) | [Digital Meadow](https://open.spotify.com/album/1Hs5SAioUMz5JA1qw8zrmZ) | 2:42 |
 | 79 | [When You Know You Know](https://open.spotify.com/track/5LgpO5RdeHPEDSww4XP0WO) | [The Beths](https://open.spotify.com/artist/7DjwIxbe8kpw4pqnzAMoin) | [Expert In A Dying Field](https://open.spotify.com/album/1nAQg0AjzpuT7lINu1J87y) | 4:08 |
-| 80 | [Shadows](https://open.spotify.com/track/7gF4K3K2EqWHkLHh1gE3vO) | [Kate Bollinger](https://open.spotify.com/artist/4eArh1v6UwBbKkjdgHCned) | [Shadows](https://open.spotify.com/album/1zByU7wtJp0Z1dev808ePd) | 2:37 |
-| 81 | [Go Outside](https://open.spotify.com/track/2OnKQdktx8Ri0Fhto8lYTk) | [Ratboys](https://open.spotify.com/artist/1SoBNpuC0N4nvaQFENS0qf) | [Happy Birthday, Ratboy](https://open.spotify.com/album/2MJKg2QIVQtkOSUAme4hjO) | 2:49 |
+| 80 | [Go Outside](https://open.spotify.com/track/2OnKQdktx8Ri0Fhto8lYTk) | [Ratboys](https://open.spotify.com/artist/1SoBNpuC0N4nvaQFENS0qf) | [Happy Birthday, Ratboy](https://open.spotify.com/album/2MJKg2QIVQtkOSUAme4hjO) | 2:49 |
+| 81 | [Shadows](https://open.spotify.com/track/7gF4K3K2EqWHkLHh1gE3vO) | [Kate Bollinger](https://open.spotify.com/artist/4eArh1v6UwBbKkjdgHCned) | [Shadows](https://open.spotify.com/album/1zByU7wtJp0Z1dev808ePd) | 2:37 |
 | 82 | [You're Not Special, Babe](https://open.spotify.com/track/0GaVSVifeBSwnNTNordPGC) | [Orla Gartland](https://open.spotify.com/artist/3ajf12ub55b51qcS94d9Co) | [Woman on the Internet](https://open.spotify.com/album/3TEaY5Lqzymo0AVv2HkQep) | 3:23 |
 | 83 | [Company](https://open.spotify.com/track/0xMsn2VuXcfdf2Ksw4qz7G) | [Sir Chloe](https://open.spotify.com/artist/6rniTPs9zN26kYnkPdFl1U) | [Company](https://open.spotify.com/album/3olsroxbHthxOQWoGOHH7z) | 3:20 |
 | 84 | [Cool Dry Place](https://open.spotify.com/track/6A1sSc1NFq5ZO9V0xGDe1L) | [Katy Kirby](https://open.spotify.com/artist/3ZH4IYVc5qVlKyJoZhGpwy) | [Cool Dry Place](https://open.spotify.com/album/584CDFxeA55Hrr1dydGfQE) | 5:00 |
 | 85 | [bloodstream](https://open.spotify.com/track/3VJ8JnA1femj0x5KCcfBpT) | [Soccer Mommy](https://open.spotify.com/artist/4wXchxfTTggLtzkoUhO86Q) | [color theory](https://open.spotify.com/album/2CISL0rSGzbO0MbQMlqBez) | 5:37 |
-| 86 | [Water Me Down](https://open.spotify.com/track/1CON7om9HhIyr8cuZ6WmzC) | [Vagabon](https://open.spotify.com/artist/17mwzDXKn4ra9cuxXaptwp) | [Vagabon](https://open.spotify.com/album/2AijQUrTqAETyjMaKxu4Xh) | 4:32 |
-| 87 | [Hypochondriac](https://open.spotify.com/track/6EDAapFVNckXJuDvx59agU) | [Fenne Lily](https://open.spotify.com/artist/7iPH2BRBF9wKa6ljxvdext) | [Hypochondriac](https://open.spotify.com/album/4Q0ZHIymPlc5zpNtYQQ5FK) | 3:12 |
-| 88 | [Immune](https://open.spotify.com/track/3b9xmyHRcolDEoaECLJ3OF) | [Jensen McRae](https://open.spotify.com/artist/11dABkjSoOjcP9p3TFSNRj) | [Immune](https://open.spotify.com/album/1UQp3aKtwOaczyLpvf5NYn) | 3:30 |
+| 86 | [Immune](https://open.spotify.com/track/3b9xmyHRcolDEoaECLJ3OF) | [Jensen McRae](https://open.spotify.com/artist/11dABkjSoOjcP9p3TFSNRj) | [Immune](https://open.spotify.com/album/1UQp3aKtwOaczyLpvf5NYn) | 3:30 |
+| 87 | [Water Me Down](https://open.spotify.com/track/1CON7om9HhIyr8cuZ6WmzC) | [Vagabon](https://open.spotify.com/artist/17mwzDXKn4ra9cuxXaptwp) | [Vagabon](https://open.spotify.com/album/2AijQUrTqAETyjMaKxu4Xh) | 4:32 |
+| 88 | [Hypochondriac](https://open.spotify.com/track/6EDAapFVNckXJuDvx59agU) | [Fenne Lily](https://open.spotify.com/artist/7iPH2BRBF9wKa6ljxvdext) | [Hypochondriac](https://open.spotify.com/album/4Q0ZHIymPlc5zpNtYQQ5FK) | 3:12 |
 | 89 | [Blades](https://open.spotify.com/track/11xCgS8k2RSzgngwkOqJV6) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Blades](https://open.spotify.com/album/2tYM85N8cMlXGIqrR1nkep) | 3:41 |
 | 90 | [Kyoto \- Spotify Singles](https://open.spotify.com/track/1w2gRlZvcIkuJHYr9Y0cE4) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG), [Jackson Browne](https://open.spotify.com/artist/5lkiCO9UQ8B23dZ1o0UV4m) | [Spotify Singles](https://open.spotify.com/album/1pBRAyTNXs1QRRAFRZ4Ygs) | 3:30 |
 | 91 | [The Water](https://open.spotify.com/track/0N0qxAHq26ZK91AcUXyq9C) | [Indigo De Souza](https://open.spotify.com/artist/3ir2pF2mkiEWqyPenKTh5e) | [All of This Will End](https://open.spotify.com/album/15eosxhQvPKQ1g0tfrnAt2) | 3:23 |
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2I7Ykltk83m.md) - [plain]
 | 124 | [Moderation](https://open.spotify.com/track/4K7wxxMOlSRWodONmW8ceG) | [Cate Le Bon](https://open.spotify.com/artist/0LZac5VicY19QLaIUvIB0G) | [Pompeii](https://open.spotify.com/album/4EucMR080SkRlViV1nbDK9) | 4:04 |
 | 125 | [New Speedway Boogie](https://open.spotify.com/track/7rlH5IVzRc5eCMiURVoUrI) | [Courtney Barnett](https://open.spotify.com/artist/4OOlG5eBXSkSAAEeKjJb5Y) | [Day of the Dead](https://open.spotify.com/album/5eVGVLpLcMEjuP1BNdlKWz) | 5:20 |
 
-Snapshot ID: `MCwyNTExZWRmZGNlN2ZmZGIwMTU3M2U0Mzc0MmQxMWM5MTVkMmMyNTY0`
+Snapshot ID: `MCw5OWI0ZTc5YWMwYjVhNzIzODMzMTk4YmU5ZDQ3YzJlMDRmYWUwMGE5`

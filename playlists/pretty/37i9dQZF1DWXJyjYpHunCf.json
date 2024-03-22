@@ -1,12 +1,12 @@
 {
   "description": "The best of folk-infused pop and singer-songwriter. Cover: Myles Smith",
-  "num_followers": 896651,
+  "num_followers": 896772,
   "original_name": "Folk Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0ZDhlZjgyOTIwNTZhMGI2Yzk3OGI4NzdlMjE4YzNmYTI2YmEyMjIz",
+  "snapshot_id": "MCw5YzQ2NWY2YWMwY2Q4Y2FmYTM1ZjQ5Mzc4MDJkMmZhODdkMzg3Nzkz",
   "tracks": [
     {
       "added_at": "2024-03-15 04:00:00",
@@ -507,22 +507,6 @@
     {
       "added_at": "2024-03-15 04:00:00",
       "album": {
-        "name": "Eulogize",
-        "url": "https://open.spotify.com/album/0KVshV8BH234oVUlRDVaaE"
-      },
-      "artists": [
-        {
-          "name": "Shaya Zamora",
-          "url": "https://open.spotify.com/artist/4gmgH3IgZoetXRskbdI02q"
-        }
-      ],
-      "duration_ms": 218031,
-      "name": "Cigarette",
-      "url": "https://open.spotify.com/track/2ddFi6kHdtkFtO5Z8gNILu"
-    },
-    {
-      "added_at": "2024-03-15 04:00:00",
-      "album": {
         "name": "Belong Together",
         "url": "https://open.spotify.com/album/3PlCMwyq6nuQYtoYproV1o"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 148317,
       "name": "Belong Together",
       "url": "https://open.spotify.com/track/5uQ7de4EWjb3rkcFxyEOpu"
+    },
+    {
+      "added_at": "2024-03-15 04:00:00",
+      "album": {
+        "name": "Eulogize",
+        "url": "https://open.spotify.com/album/0KVshV8BH234oVUlRDVaaE"
+      },
+      "artists": [
+        {
+          "name": "Shaya Zamora",
+          "url": "https://open.spotify.com/artist/4gmgH3IgZoetXRskbdI02q"
+        }
+      ],
+      "duration_ms": 218031,
+      "name": "Cigarette",
+      "url": "https://open.spotify.com/track/2ddFi6kHdtkFtO5Z8gNILu"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -643,18 +643,18 @@
     {
       "added_at": "2024-03-15 04:00:00",
       "album": {
-        "name": "Dead Man",
-        "url": "https://open.spotify.com/album/3tUERmP5MUBWoE7TrbbXEY"
+        "name": "Deeper Well",
+        "url": "https://open.spotify.com/album/5SxZmGwc4eJuPp6PcO4JgJ"
       },
       "artists": [
         {
-          "name": "David Kushner",
-          "url": "https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY"
+          "name": "Kacey Musgraves",
+          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
         }
       ],
-      "duration_ms": 274870,
-      "name": "Dead Man",
-      "url": "https://open.spotify.com/track/2ZXb6OBkjmDYnvEB3iANgH"
+      "duration_ms": 191413,
+      "name": "Cardinal",
+      "url": "https://open.spotify.com/track/2rLq6QIfooAKsF8UZuoLsS"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -671,6 +671,22 @@
       "duration_ms": 207880,
       "name": "Your Needs, My Needs",
       "url": "https://open.spotify.com/track/5S9hlmzNQwZuhynLfxZ8Lg"
+    },
+    {
+      "added_at": "2024-03-15 04:00:00",
+      "album": {
+        "name": "Dead Man",
+        "url": "https://open.spotify.com/album/3tUERmP5MUBWoE7TrbbXEY"
+      },
+      "artists": [
+        {
+          "name": "David Kushner",
+          "url": "https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY"
+        }
+      ],
+      "duration_ms": 274870,
+      "name": "Dead Man",
+      "url": "https://open.spotify.com/track/2ZXb6OBkjmDYnvEB3iANgH"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -703,22 +719,6 @@
       "duration_ms": 249173,
       "name": "Only Love",
       "url": "https://open.spotify.com/track/2uhEKg8kIzpdvz4gyy6x8W"
-    },
-    {
-      "added_at": "2024-03-15 04:00:00",
-      "album": {
-        "name": "Deeper Well",
-        "url": "https://open.spotify.com/album/5SxZmGwc4eJuPp6PcO4JgJ"
-      },
-      "artists": [
-        {
-          "name": "Kacey Musgraves",
-          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
-        }
-      ],
-      "duration_ms": 191413,
-      "name": "Cardinal",
-      "url": "https://open.spotify.com/track/2rLq6QIfooAKsF8UZuoLsS"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -847,22 +847,6 @@
     {
       "added_at": "2024-03-15 04:00:00",
       "album": {
-        "name": "III",
-        "url": "https://open.spotify.com/album/0cGGGHvqwMD2J7bNz8TG3s"
-      },
-      "artists": [
-        {
-          "name": "The Lumineers",
-          "url": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
-        }
-      ],
-      "duration_ms": 216120,
-      "name": "Gloria",
-      "url": "https://open.spotify.com/track/5BkGp7FLUUpKgWl29jBK0J"
-    },
-    {
-      "added_at": "2024-03-15 04:00:00",
-      "album": {
         "name": "I'm The Sinner",
         "url": "https://open.spotify.com/album/47r9vuxBzDCn7oENWLPBlr"
       },
@@ -875,6 +859,22 @@
       "duration_ms": 132821,
       "name": "I'm The Sinner",
       "url": "https://open.spotify.com/track/24abicT0hYd3pdJufYNI1b"
+    },
+    {
+      "added_at": "2024-03-15 04:00:00",
+      "album": {
+        "name": "III",
+        "url": "https://open.spotify.com/album/0cGGGHvqwMD2J7bNz8TG3s"
+      },
+      "artists": [
+        {
+          "name": "The Lumineers",
+          "url": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
+        }
+      ],
+      "duration_ms": 216120,
+      "name": "Gloria",
+      "url": "https://open.spotify.com/track/5BkGp7FLUUpKgWl29jBK0J"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -1055,6 +1055,22 @@
     {
       "added_at": "2024-03-15 04:00:00",
       "album": {
+        "name": "Betting on Us",
+        "url": "https://open.spotify.com/album/6zcbHGjmhj9djpGpkn47bs"
+      },
+      "artists": [
+        {
+          "name": "Myles Smith",
+          "url": "https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt"
+        }
+      ],
+      "duration_ms": 155761,
+      "name": "Betting on Us",
+      "url": "https://open.spotify.com/track/0cgiEyA9bl4EvbhnvocQm6"
+    },
+    {
+      "added_at": "2024-03-15 04:00:00",
+      "album": {
         "name": "Think I'm Gonna Love You",
         "url": "https://open.spotify.com/album/0kR1xeEz90V7N6w6R8RxN7"
       },
@@ -1091,22 +1107,6 @@
     {
       "added_at": "2024-03-15 04:00:00",
       "album": {
-        "name": "Betting on Us",
-        "url": "https://open.spotify.com/album/6zcbHGjmhj9djpGpkn47bs"
-      },
-      "artists": [
-        {
-          "name": "Myles Smith",
-          "url": "https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt"
-        }
-      ],
-      "duration_ms": 155761,
-      "name": "Betting on Us",
-      "url": "https://open.spotify.com/track/0cgiEyA9bl4EvbhnvocQm6"
-    },
-    {
-      "added_at": "2024-03-15 04:00:00",
-      "album": {
         "name": "Your Bones",
         "url": "https://open.spotify.com/album/4DYdcN6zXdIH8lWmtd1FQV"
       },
@@ -1139,6 +1139,22 @@
     {
       "added_at": "2024-03-15 04:00:00",
       "album": {
+        "name": "trees talk",
+        "url": "https://open.spotify.com/album/3Yr0kMBATk0wU6jTb7mIGO"
+      },
+      "artists": [
+        {
+          "name": "gavn!",
+          "url": "https://open.spotify.com/artist/2pQzh5cuuqpDErGZNaOULd"
+        }
+      ],
+      "duration_ms": 184000,
+      "name": "trees talk",
+      "url": "https://open.spotify.com/track/6IGuqCOKQseTMHjALbFS16"
+    },
+    {
+      "added_at": "2024-03-15 04:00:00",
+      "album": {
         "name": "In These Silent Days",
         "url": "https://open.spotify.com/album/5mIT7iw9w64DMP2vxP9L1f"
       },
@@ -1155,22 +1171,6 @@
       "duration_ms": 230098,
       "name": "You and Me On The Rock (feat. Lucius)",
       "url": "https://open.spotify.com/track/61X73CJcpwGIxgQgKEXbw0"
-    },
-    {
-      "added_at": "2024-03-15 04:00:00",
-      "album": {
-        "name": "trees talk",
-        "url": "https://open.spotify.com/album/3Yr0kMBATk0wU6jTb7mIGO"
-      },
-      "artists": [
-        {
-          "name": "gavn!",
-          "url": "https://open.spotify.com/artist/2pQzh5cuuqpDErGZNaOULd"
-        }
-      ],
-      "duration_ms": 184000,
-      "name": "trees talk",
-      "url": "https://open.spotify.com/track/6IGuqCOKQseTMHjALbFS16"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -1327,22 +1327,6 @@
     {
       "added_at": "2024-03-15 04:00:00",
       "album": {
-        "name": "Until You",
-        "url": "https://open.spotify.com/album/03MCMaTPo8CiVxwcCvgyem"
-      },
-      "artists": [
-        {
-          "name": "AHI",
-          "url": "https://open.spotify.com/artist/08Uextujt6ZT2iQmSYAJfH"
-        }
-      ],
-      "duration_ms": 198653,
-      "name": "Until You",
-      "url": "https://open.spotify.com/track/7iH6cflAGYwR82sNMZiGuq"
-    },
-    {
-      "added_at": "2024-03-15 04:00:00",
-      "album": {
         "name": "Songs for the Drunk and Broken Hearted",
         "url": "https://open.spotify.com/album/6OGJr5I1SVTn9cla4JPiO1"
       },
@@ -1355,6 +1339,22 @@
       "duration_ms": 201720,
       "name": "Sword from the Stone",
       "url": "https://open.spotify.com/track/1Fc2Gqn9bTuoeSHfhl1net"
+    },
+    {
+      "added_at": "2024-03-15 04:00:00",
+      "album": {
+        "name": "Until You",
+        "url": "https://open.spotify.com/album/03MCMaTPo8CiVxwcCvgyem"
+      },
+      "artists": [
+        {
+          "name": "AHI",
+          "url": "https://open.spotify.com/artist/08Uextujt6ZT2iQmSYAJfH"
+        }
+      ],
+      "duration_ms": 198653,
+      "name": "Until You",
+      "url": "https://open.spotify.com/track/7iH6cflAGYwR82sNMZiGuq"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -1559,22 +1559,6 @@
     {
       "added_at": "2024-03-15 04:00:00",
       "album": {
-        "name": "jesus song (county line)",
-        "url": "https://open.spotify.com/album/39a2hRQJCgzJdZFVRQJIR5"
-      },
-      "artists": [
-        {
-          "name": "Brenn!",
-          "url": "https://open.spotify.com/artist/74slMAMk8L6oMf6OhNyZ8Q"
-        }
-      ],
-      "duration_ms": 188576,
-      "name": "jesus song (county line)",
-      "url": "https://open.spotify.com/track/0sfqrYeRPs5tJISfVGQscT"
-    },
-    {
-      "added_at": "2024-03-15 04:00:00",
-      "album": {
         "name": "dopamine",
         "url": "https://open.spotify.com/album/38DO8HcSkiWtDXPmSLk6gx"
       },
@@ -1587,6 +1571,22 @@
       "duration_ms": 158568,
       "name": "dopamine",
       "url": "https://open.spotify.com/track/2A7fgpVBSDrXKkJxt0MvYv"
+    },
+    {
+      "added_at": "2024-03-15 04:00:00",
+      "album": {
+        "name": "jesus song (county line)",
+        "url": "https://open.spotify.com/album/39a2hRQJCgzJdZFVRQJIR5"
+      },
+      "artists": [
+        {
+          "name": "Brenn!",
+          "url": "https://open.spotify.com/artist/74slMAMk8L6oMf6OhNyZ8Q"
+        }
+      ],
+      "duration_ms": 188576,
+      "name": "jesus song (county line)",
+      "url": "https://open.spotify.com/track/0sfqrYeRPs5tJISfVGQscT"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -1623,18 +1623,22 @@
     {
       "added_at": "2024-03-15 04:00:00",
       "album": {
-        "name": "Yard Sale",
-        "url": "https://open.spotify.com/album/3QtYZFAUnjY7M8FjpXvBFC"
+        "name": "A Pillar of Salt",
+        "url": "https://open.spotify.com/album/6hlXrXeAAxPOZ4y5lonxiQ"
       },
       "artists": [
         {
-          "name": "The Brook & The Bluff",
-          "url": "https://open.spotify.com/artist/4dWtsQvuME6tCWFycaTvO7"
+          "name": "Noah Gundersen",
+          "url": "https://open.spotify.com/artist/34482S5nfxR441wcnVfrHi"
+        },
+        {
+          "name": "Phoebe Bridgers",
+          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
         }
       ],
-      "duration_ms": 223240,
-      "name": "Misnomer",
-      "url": "https://open.spotify.com/track/0AXHqychsqAuL0ZNXI3kWq"
+      "duration_ms": 319053,
+      "name": "Atlantis",
+      "url": "https://open.spotify.com/track/4Lp2SmcFyyMiWzfsDV2Qzh"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -1655,22 +1659,18 @@
     {
       "added_at": "2024-03-15 04:00:00",
       "album": {
-        "name": "A Pillar of Salt",
-        "url": "https://open.spotify.com/album/6hlXrXeAAxPOZ4y5lonxiQ"
+        "name": "Yard Sale",
+        "url": "https://open.spotify.com/album/3QtYZFAUnjY7M8FjpXvBFC"
       },
       "artists": [
         {
-          "name": "Noah Gundersen",
-          "url": "https://open.spotify.com/artist/34482S5nfxR441wcnVfrHi"
-        },
-        {
-          "name": "Phoebe Bridgers",
-          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
+          "name": "The Brook & The Bluff",
+          "url": "https://open.spotify.com/artist/4dWtsQvuME6tCWFycaTvO7"
         }
       ],
-      "duration_ms": 319053,
-      "name": "Atlantis",
-      "url": "https://open.spotify.com/track/4Lp2SmcFyyMiWzfsDV2Qzh"
+      "duration_ms": 223240,
+      "name": "Misnomer",
+      "url": "https://open.spotify.com/track/0AXHqychsqAuL0ZNXI3kWq"
     },
     {
       "added_at": "2024-03-15 04:00:00",

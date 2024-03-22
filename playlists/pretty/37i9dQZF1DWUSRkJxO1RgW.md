@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUSRkJxO1RgW.md) - [plain]
 
 > Canciones que marcaron la década de los 80s en Argentina.
 
-[Spotify](https://open.spotify.com/user/spotify) - 288,784 likes - 60 songs - 3 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 288,834 likes - 60 songs - 3 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUSRkJxO1RgW.md) - [plain]
 | 59 | [Sin Gamulán](https://open.spotify.com/track/3UrNJH307Ij2jarZxijcbc) | [Los Abuelos De La Nada](https://open.spotify.com/artist/5R3NywPPOyhLfdvutgg0me) | [1982\-1987 \- Himnos Del Corazón](https://open.spotify.com/album/0DGCwJASSVCD2lJGyu0t9w) | 3:14 |
 | 60 | [El Ritual De La Banana](https://open.spotify.com/track/1LeGL6sChxxaQbFhKknOcG) | [Los Pericos](https://open.spotify.com/artist/7FnZWGw9lwOr7WzieTKEPR) | [Ritual De Los Pericos](https://open.spotify.com/album/0BLRRSjs02ejUyDDIfYRSb) | 3:39 |
 
-Snapshot ID: `MCw1NGNiMDM4ZGY4NjNkZTZmMzA5MGI0MDc5ZmY0ZmQzNzY3NzdiYjg0`
+Snapshot ID: `MCw5OWNmZDQwYTZjZWQyZGU1NDBiMmI5ZjdlYzQ2MTJlM2NiYjUyZmRm`

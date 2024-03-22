@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Ke4jVST4o8.md) - [plain]
 
 > Floor fillers and big streamers of 2012.
 
-[Spotify](https://open.spotify.com/user/spotify) - 111,659 likes - 64 songs - 4 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 111,743 likes - 64 songs - 4 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,8 +23,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Ke4jVST4o8.md) - [plain]
 | 13 | [Latch](https://open.spotify.com/track/1DunhgeZSEgWiIYbHqXl0c) | [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et), [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [Settle \(Deluxe\)](https://open.spotify.com/album/1lM5IfaqcIsXd6UCV3aDSs) | 4:15 |
 | 14 | [I Could Be The One \(Avicii Vs\. Nicky Romero\) \- Radio Edit](https://open.spotify.com/track/1sh6lL6cmlcwhqZKGiKBua) | [Avicii](https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6), [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg) | [I Could Be The One \[Avicii vs Nicky Romero\]](https://open.spotify.com/album/0sOrbRnJcNod63r49kmGVb) | 3:28 |
 | 15 | [Million Voices \- Radio Edit](https://open.spotify.com/track/0MOiv7WTXCqvm89lVCf9C8) | [Otto Knows](https://open.spotify.com/artist/5fahUm8t5c0GIdeTq0ZaG8) | [Million Voices](https://open.spotify.com/album/6yEb0IID8Uc99lvC3QtWD4) | 3:12 |
-| 16 | [Don't Stop the Party \(feat\. TJR\)](https://open.spotify.com/track/3Tu7uWBecS6GsLsL8UONKn) | [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg), [TJR](https://open.spotify.com/artist/2L8yW8GIoirHEdeW4bWQXq) | [Global Warming: Meltdown \(Deluxe Version\)](https://open.spotify.com/album/2F7tejLHzTqFq2XLol9ZGy) | 3:26 |
-| 17 | [Dance Again \(feat\. Pitbull\)](https://open.spotify.com/track/2xnoPV3NLescauc0ZJ1MDZ) | [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR), [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg) | [Dance Again...The Hits](https://open.spotify.com/album/2eirhKzlxvWkz2UQ95wwvh) | 3:57 |
+| 16 | [Dance Again \(feat\. Pitbull\)](https://open.spotify.com/track/2xnoPV3NLescauc0ZJ1MDZ) | [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR), [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg) | [Dance Again...The Hits](https://open.spotify.com/album/2eirhKzlxvWkz2UQ95wwvh) | 3:57 |
+| 17 | [Don't Stop the Party \(feat\. TJR\)](https://open.spotify.com/track/3Tu7uWBecS6GsLsL8UONKn) | [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg), [TJR](https://open.spotify.com/artist/2L8yW8GIoirHEdeW4bWQXq) | [Global Warming: Meltdown \(Deluxe Version\)](https://open.spotify.com/album/2F7tejLHzTqFq2XLol9ZGy) | 3:26 |
 | 18 | [Let's Go \(feat\. Ne\-Yo\)](https://open.spotify.com/track/4wkQmYpAaMe41Rc3sYZ7Vz) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Ne\-Yo](https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj) | [18 Months](https://open.spotify.com/album/7w19PFbxAjwZ7UVNp9z0uT) | 3:52 |
 | 19 | [In My Mind \- Axwell Radio Edit](https://open.spotify.com/track/2ud5ukcAgwOki5PyE53mPl) | [Ivan Gough](https://open.spotify.com/artist/5aBWZE8TOaaA9O50ENS3EM), [Feenixpawl](https://open.spotify.com/artist/5FvlJcXnFIm72pgQtW3Dct), [Georgi Kay](https://open.spotify.com/artist/32DJdHuhN1840L73Bqxhxj), [Axwell](https://open.spotify.com/artist/1xNmvlEiICkRlRGqlNFZ43) | [In My Mind](https://open.spotify.com/album/3dP1IaedOHcck6VHwSnX4g) | 3:05 |
 | 20 | [Stay The Night \- Featuring Hayley Williams Of Paramore](https://open.spotify.com/track/2QtJA4gbwe1AcanB2p21aP) | [Zedd](https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq), [Hayley Williams](https://open.spotify.com/artist/6Rx1JKzBrSzoKQtmbVmBnM) | [Clarity \(Deluxe\)](https://open.spotify.com/album/4xak0izXQHOMV9Wu1mDAAy) | 3:37 |
@@ -73,4 +73,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Ke4jVST4o8.md) - [plain]
 | 63 | [Hungry Hearts](https://open.spotify.com/track/6kILX4JxWPMGSe7lNWZmqL) | [Nause](https://open.spotify.com/artist/4PVn1b2WnnXdq80C7uaZLZ) | [Hungry Hearts](https://open.spotify.com/album/6H4pJ3ttHtF4fFYHaw93Cb) | 3:45 |
 | 64 | [Drinking from the Bottle \(feat\. Tinie Tempah\)](https://open.spotify.com/track/1oHxIPqJyvAYHy0PVrDU98) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Tinie Tempah](https://open.spotify.com/artist/0Tob4H0FLtEONHU1MjpUEp) | [18 Months](https://open.spotify.com/album/7w19PFbxAjwZ7UVNp9z0uT) | 4:00 |
 
-Snapshot ID: `MCwzYzNhM2I4MTIzYzQ2NDcyZDEwMDI5YzgzNjI1M2U4ZDE1NTdhNzc0`
+Snapshot ID: `MCxjNTFiNmJmZDQ2YmRiMTdjZjAxODM3ODJmMWJjOWVhYWQ3ZmEwMTY1`

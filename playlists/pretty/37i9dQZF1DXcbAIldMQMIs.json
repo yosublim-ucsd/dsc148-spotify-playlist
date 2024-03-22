@@ -1,12 +1,12 @@
 {
   "description": "Indie pop when ur crushing",
-  "num_followers": 531523,
+  "num_followers": 531609,
   "original_name": "text me back",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1MGE2MWQ2MGU3OGI5YmM5N2EwNzBkMTY0N2E1ZWI4NDA3NDBlMjNm",
+  "snapshot_id": "MCw5MDQwMjNmYWM2NWE5MGE0NjA3ZGE0YjU5YTgwNmQ0MWI2YTQ5MWFh",
   "tracks": [
     {
       "added_at": "2023-09-29 20:24:12",
@@ -383,6 +383,22 @@
     {
       "added_at": "2023-09-29 20:24:12",
       "album": {
+        "name": "in all of my lonely nights",
+        "url": "https://open.spotify.com/album/19zU4YKQ8Gdn8QYQvXumhO"
+      },
+      "artists": [
+        {
+          "name": "Henry Moodie",
+          "url": "https://open.spotify.com/artist/7hr9W3IjXcm3UlLY7guLk5"
+        }
+      ],
+      "duration_ms": 187263,
+      "name": "drunk text",
+      "url": "https://open.spotify.com/track/6EIMUjQ7Q8Zr2VtIUik4He"
+    },
+    {
+      "added_at": "2023-09-29 20:24:12",
+      "album": {
         "name": "Ctrl",
         "url": "https://open.spotify.com/album/76290XdXVF9rPzGdNRWdCh"
       },
@@ -431,22 +447,6 @@
       "duration_ms": 162560,
       "name": "Hey Lover!",
       "url": "https://open.spotify.com/track/7rC3P7tpWriaC4hYWKwGQd"
-    },
-    {
-      "added_at": "2023-09-29 20:24:12",
-      "album": {
-        "name": "in all of my lonely nights",
-        "url": "https://open.spotify.com/album/19zU4YKQ8Gdn8QYQvXumhO"
-      },
-      "artists": [
-        {
-          "name": "Henry Moodie",
-          "url": "https://open.spotify.com/artist/7hr9W3IjXcm3UlLY7guLk5"
-        }
-      ],
-      "duration_ms": 187263,
-      "name": "drunk text",
-      "url": "https://open.spotify.com/track/6EIMUjQ7Q8Zr2VtIUik4He"
     },
     {
       "added_at": "2023-09-29 20:24:12",
@@ -711,22 +711,6 @@
     {
       "added_at": "2023-09-29 20:24:12",
       "album": {
-        "name": "Habit",
-        "url": "https://open.spotify.com/album/2vIIWsslRiFHiHPWFTsdaE"
-      },
-      "artists": [
-        {
-          "name": "Still Woozy",
-          "url": "https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y"
-        }
-      ],
-      "duration_ms": 153871,
-      "name": "Habit",
-      "url": "https://open.spotify.com/track/4BsLwvaJOTOHDNg7xMpvrL"
-    },
-    {
-      "added_at": "2023-09-29 20:24:12",
-      "album": {
         "name": "Sunset Season",
         "url": "https://open.spotify.com/album/16pubXUlqRziVWRsT6lLNz"
       },
@@ -739,6 +723,22 @@
       "duration_ms": 204120,
       "name": "Crush Culture",
       "url": "https://open.spotify.com/track/2sHwSBNDZN2yjCtgwStYt1"
+    },
+    {
+      "added_at": "2023-09-29 20:24:12",
+      "album": {
+        "name": "Habit",
+        "url": "https://open.spotify.com/album/2vIIWsslRiFHiHPWFTsdaE"
+      },
+      "artists": [
+        {
+          "name": "Still Woozy",
+          "url": "https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y"
+        }
+      ],
+      "duration_ms": 153871,
+      "name": "Habit",
+      "url": "https://open.spotify.com/track/4BsLwvaJOTOHDNg7xMpvrL"
     },
     {
       "added_at": "2023-09-29 20:24:12",
@@ -855,22 +855,6 @@
     {
       "added_at": "2023-09-29 20:24:12",
       "album": {
-        "name": "Loverboy",
-        "url": "https://open.spotify.com/album/1K1loWZRyk1Dtk5zIy4qjx"
-      },
-      "artists": [
-        {
-          "name": "A-Wall",
-          "url": "https://open.spotify.com/artist/56OjNTX2bkrdGcB0staUOV"
-        }
-      ],
-      "duration_ms": 224520,
-      "name": "Loverboy",
-      "url": "https://open.spotify.com/track/3CboywxfJIgvHqi2FF4exb"
-    },
-    {
-      "added_at": "2023-09-29 20:24:12",
-      "album": {
         "name": "Kid Krow",
         "url": "https://open.spotify.com/album/2CMlkzFI2oDAy5MbyV7OV5"
       },
@@ -903,6 +887,22 @@
       "duration_ms": 107076,
       "name": "CAN'T GET OVER YOU (feat. Clams Casino)",
       "url": "https://open.spotify.com/track/4nNkJfikVQKYXBhen1sT08"
+    },
+    {
+      "added_at": "2023-09-29 20:24:12",
+      "album": {
+        "name": "Loverboy",
+        "url": "https://open.spotify.com/album/1K1loWZRyk1Dtk5zIy4qjx"
+      },
+      "artists": [
+        {
+          "name": "A-Wall",
+          "url": "https://open.spotify.com/artist/56OjNTX2bkrdGcB0staUOV"
+        }
+      ],
+      "duration_ms": 224520,
+      "name": "Loverboy",
+      "url": "https://open.spotify.com/track/3CboywxfJIgvHqi2FF4exb"
     },
     {
       "added_at": "2023-09-29 20:24:12",
@@ -1015,22 +1015,6 @@
     {
       "added_at": "2023-09-29 20:24:12",
       "album": {
-        "name": "Lemon Boy",
-        "url": "https://open.spotify.com/album/5rvA7Pth9X8PFp5jHqFl3V"
-      },
-      "artists": [
-        {
-          "name": "Cavetown",
-          "url": "https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8"
-        }
-      ],
-      "duration_ms": 233785,
-      "name": "Fool",
-      "url": "https://open.spotify.com/track/7asyVbwQE7IbA3x2be7bdI"
-    },
-    {
-      "added_at": "2023-09-29 20:24:12",
-      "album": {
         "name": "Dirty Secrets",
         "url": "https://open.spotify.com/album/7J2iocHysqZJTCTUtrdTfa"
       },
@@ -1043,6 +1027,22 @@
       "duration_ms": 154070,
       "name": "Dirty Secrets",
       "url": "https://open.spotify.com/track/0X0V9wIUr47ZqbFqLfZqX5"
+    },
+    {
+      "added_at": "2023-09-29 20:24:12",
+      "album": {
+        "name": "Lemon Boy",
+        "url": "https://open.spotify.com/album/5rvA7Pth9X8PFp5jHqFl3V"
+      },
+      "artists": [
+        {
+          "name": "Cavetown",
+          "url": "https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8"
+        }
+      ],
+      "duration_ms": 233785,
+      "name": "Fool",
+      "url": "https://open.spotify.com/track/7asyVbwQE7IbA3x2be7bdI"
     },
     {
       "added_at": "2023-09-29 20:24:12",

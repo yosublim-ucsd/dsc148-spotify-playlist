@@ -1,12 +1,12 @@
 {
   "description": "Let these Latin hits guide you through your daily commute!",
-  "num_followers": 219746,
+  "num_followers": 219773,
   "original_name": "Latin Drive",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2NDcyMTRiNjAzNmU2MjI3ODE2M2U0OTZiOTA4YjJlODhmZDg2NGY4",
+  "snapshot_id": "MCw2ZTFmYThjMDFlYmU1NjBjNDMzMmRiMTEwZWRiYTE0ZDM0NGIyNmQw",
   "tracks": [
     {
       "added_at": "2024-02-04 07:34:15",
@@ -451,26 +451,22 @@
     {
       "added_at": "2024-02-04 07:34:15",
       "album": {
-        "name": "ELOVRGA",
-        "url": "https://open.spotify.com/album/2EmOYnsIj3bkiPYTuhsqZR"
+        "name": "Un Verano Sin Ti",
+        "url": "https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5"
       },
       "artists": [
         {
-          "name": "Alex Favela",
-          "url": "https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD"
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
         },
         {
-          "name": "Grupo Marca Registrada",
-          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
-        },
-        {
-          "name": "Joaquin Medina",
-          "url": "https://open.spotify.com/artist/6bpv92ES2Vcv2OKA3DAhgw"
+          "name": "Bomba Est\u00e9reo",
+          "url": "https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2"
         }
       ],
-      "duration_ms": 194769,
-      "name": "ELOVRGA",
-      "url": "https://open.spotify.com/track/2TJKY0WSFufZOzbRNgl6zE"
+      "duration_ms": 258298,
+      "name": "Ojitos Lindos",
+      "url": "https://open.spotify.com/track/3k3NWokhRRkEPhCzPmV8TW"
     },
     {
       "added_at": "2024-02-04 07:34:15",
@@ -495,22 +491,26 @@
     {
       "added_at": "2024-02-04 07:34:15",
       "album": {
-        "name": "Un Verano Sin Ti",
-        "url": "https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5"
+        "name": "ELOVRGA",
+        "url": "https://open.spotify.com/album/2EmOYnsIj3bkiPYTuhsqZR"
       },
       "artists": [
         {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+          "name": "Alex Favela",
+          "url": "https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD"
         },
         {
-          "name": "Bomba Est\u00e9reo",
-          "url": "https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2"
+          "name": "Grupo Marca Registrada",
+          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
+        },
+        {
+          "name": "Joaquin Medina",
+          "url": "https://open.spotify.com/artist/6bpv92ES2Vcv2OKA3DAhgw"
         }
       ],
-      "duration_ms": 258298,
-      "name": "Ojitos Lindos",
-      "url": "https://open.spotify.com/track/3k3NWokhRRkEPhCzPmV8TW"
+      "duration_ms": 194769,
+      "name": "ELOVRGA",
+      "url": "https://open.spotify.com/track/2TJKY0WSFufZOzbRNgl6zE"
     },
     {
       "added_at": "2024-02-04 07:34:15",
@@ -975,22 +975,6 @@
     {
       "added_at": "2024-02-04 07:34:15",
       "album": {
-        "name": "SABOR FRESA",
-        "url": "https://open.spotify.com/album/1vw6eLxCJRAfD6RMJTiuKZ"
-      },
-      "artists": [
-        {
-          "name": "Fuerza Regida",
-          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
-        }
-      ],
-      "duration_ms": 156500,
-      "name": "SABOR FRESA",
-      "url": "https://open.spotify.com/track/1UMm1Qs3u59Wvk53zBUE8r"
-    },
-    {
-      "added_at": "2024-02-04 07:34:15",
-      "album": {
         "name": "WHERE SHE GOES",
         "url": "https://open.spotify.com/album/5gCcb5fsSb6w5K8SyJrgtB"
       },
@@ -1003,6 +987,22 @@
       "duration_ms": 231704,
       "name": "WHERE SHE GOES",
       "url": "https://open.spotify.com/track/7ro0hRteUMfnOioTFI5TG1"
+    },
+    {
+      "added_at": "2024-02-04 07:34:15",
+      "album": {
+        "name": "SABOR FRESA",
+        "url": "https://open.spotify.com/album/1vw6eLxCJRAfD6RMJTiuKZ"
+      },
+      "artists": [
+        {
+          "name": "Fuerza Regida",
+          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
+        }
+      ],
+      "duration_ms": 156500,
+      "name": "SABOR FRESA",
+      "url": "https://open.spotify.com/track/1UMm1Qs3u59Wvk53zBUE8r"
     },
     {
       "added_at": "2024-02-04 07:34:15",
@@ -1115,6 +1115,22 @@
     {
       "added_at": "2024-02-04 07:34:15",
       "album": {
+        "name": "TQM",
+        "url": "https://open.spotify.com/album/3GqCt85yKxtKxnIivSN15e"
+      },
+      "artists": [
+        {
+          "name": "Fuerza Regida",
+          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
+        }
+      ],
+      "duration_ms": 158965,
+      "name": "TQM",
+      "url": "https://open.spotify.com/track/368eeEO3Y2uZUQ6S5oIjcu"
+    },
+    {
+      "added_at": "2024-02-04 07:34:15",
+      "album": {
         "name": "CORAZ\u00d3N VAC\u00cdO",
         "url": "https://open.spotify.com/album/3YBQyY0Bj7bpxj0VHAse0P"
       },
@@ -1127,26 +1143,6 @@
       "duration_ms": 160535,
       "name": "CORAZ\u00d3N VAC\u00cdO",
       "url": "https://open.spotify.com/track/3oNnzH6hmqIGIhJ1NcHlrh"
-    },
-    {
-      "added_at": "2024-02-04 07:34:15",
-      "album": {
-        "name": "Peso Pluma: Bzrp Music Sessions, Vol. 55",
-        "url": "https://open.spotify.com/album/5dKPhEYBhP8j85HcxQfaw6"
-      },
-      "artists": [
-        {
-          "name": "Bizarrap",
-          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
-        },
-        {
-          "name": "Peso Pluma",
-          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
-        }
-      ],
-      "duration_ms": 188361,
-      "name": "Peso Pluma: Bzrp Music Sessions, Vol. 55",
-      "url": "https://open.spotify.com/track/5AqiaZwhmC6dIbgWrD5SzV"
     },
     {
       "added_at": "2024-02-04 07:34:15",
@@ -1167,18 +1163,22 @@
     {
       "added_at": "2024-02-04 07:34:15",
       "album": {
-        "name": "TQM",
-        "url": "https://open.spotify.com/album/3GqCt85yKxtKxnIivSN15e"
+        "name": "Peso Pluma: Bzrp Music Sessions, Vol. 55",
+        "url": "https://open.spotify.com/album/5dKPhEYBhP8j85HcxQfaw6"
       },
       "artists": [
         {
-          "name": "Fuerza Regida",
-          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
+          "name": "Bizarrap",
+          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
+        },
+        {
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
         }
       ],
-      "duration_ms": 158965,
-      "name": "TQM",
-      "url": "https://open.spotify.com/track/368eeEO3Y2uZUQ6S5oIjcu"
+      "duration_ms": 188361,
+      "name": "Peso Pluma: Bzrp Music Sessions, Vol. 55",
+      "url": "https://open.spotify.com/track/5AqiaZwhmC6dIbgWrD5SzV"
     },
     {
       "added_at": "2024-02-04 07:34:15",
@@ -1363,26 +1363,6 @@
     {
       "added_at": "2024-02-04 07:34:15",
       "album": {
-        "name": "Buenas",
-        "url": "https://open.spotify.com/album/2FRQH7JReYGUWXX86Pr6ag"
-      },
-      "artists": [
-        {
-          "name": "Quevedo",
-          "url": "https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K"
-        },
-        {
-          "name": "SAIKO",
-          "url": "https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u"
-        }
-      ],
-      "duration_ms": 192954,
-      "name": "Buenas",
-      "url": "https://open.spotify.com/track/4sDpxaulErbJ9NBaJDC7cJ"
-    },
-    {
-      "added_at": "2024-02-04 07:34:15",
-      "album": {
         "name": "PROVENZA",
         "url": "https://open.spotify.com/album/1wLB2bnCl2m5m9M9g8r93Y"
       },
@@ -1415,6 +1395,26 @@
       "duration_ms": 229064,
       "name": "Besos Moja2",
       "url": "https://open.spotify.com/track/6OzUIp8KjuwxJnCWkXp1uL"
+    },
+    {
+      "added_at": "2024-02-04 07:34:15",
+      "album": {
+        "name": "Buenas",
+        "url": "https://open.spotify.com/album/2FRQH7JReYGUWXX86Pr6ag"
+      },
+      "artists": [
+        {
+          "name": "Quevedo",
+          "url": "https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K"
+        },
+        {
+          "name": "SAIKO",
+          "url": "https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u"
+        }
+      ],
+      "duration_ms": 192954,
+      "name": "Buenas",
+      "url": "https://open.spotify.com/track/4sDpxaulErbJ9NBaJDC7cJ"
     },
     {
       "added_at": "2024-02-04 07:34:15",
@@ -1607,6 +1607,22 @@
     {
       "added_at": "2024-02-04 07:34:15",
       "album": {
+        "name": "Energ\u00eda Bacana",
+        "url": "https://open.spotify.com/album/2brG72G6JbbYbVM0lxuFTq"
+      },
+      "artists": [
+        {
+          "name": "Sebastian Yatra",
+          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
+        }
+      ],
+      "duration_ms": 147720,
+      "name": "Energ\u00eda Bacana",
+      "url": "https://open.spotify.com/track/72O5JOfMVbbJVYD9DOCWMi"
+    },
+    {
+      "added_at": "2024-02-04 07:34:15",
+      "album": {
         "name": "DE LUNES A LUNES",
         "url": "https://open.spotify.com/album/2ESHmQZeKsZgnEA6HTCKt9"
       },
@@ -1623,22 +1639,6 @@
       "duration_ms": 188411,
       "name": "DE LUNES A LUNES",
       "url": "https://open.spotify.com/track/7yci6r0cjX0Np5AshDZOsR"
-    },
-    {
-      "added_at": "2024-02-04 07:34:15",
-      "album": {
-        "name": "Energ\u00eda Bacana",
-        "url": "https://open.spotify.com/album/2brG72G6JbbYbVM0lxuFTq"
-      },
-      "artists": [
-        {
-          "name": "Sebastian Yatra",
-          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
-        }
-      ],
-      "duration_ms": 147720,
-      "name": "Energ\u00eda Bacana",
-      "url": "https://open.spotify.com/track/72O5JOfMVbbJVYD9DOCWMi"
     },
     {
       "added_at": "2024-02-04 07:34:15",
@@ -1731,38 +1731,6 @@
     {
       "added_at": "2024-02-04 07:34:15",
       "album": {
-        "name": "PACTO (Remix) [feat. Bryant Myers & Dei V]",
-        "url": "https://open.spotify.com/album/6XCBKPAIVzJej4qkhHYJd6"
-      },
-      "artists": [
-        {
-          "name": "Jay Wheeler",
-          "url": "https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g"
-        },
-        {
-          "name": "Anuel AA",
-          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
-        },
-        {
-          "name": "Hades66",
-          "url": "https://open.spotify.com/artist/4CQdcx66F116k2db2Y0rjE"
-        },
-        {
-          "name": "Bryant Myers",
-          "url": "https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c"
-        },
-        {
-          "name": "Dei V",
-          "url": "https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP"
-        }
-      ],
-      "duration_ms": 346000,
-      "name": "PACTO (feat. Bryant Myers & Dei V) - Remix",
-      "url": "https://open.spotify.com/track/2VOXLA9TzOAVCjDi7RY5DV"
-    },
-    {
-      "added_at": "2024-02-04 07:34:15",
-      "album": {
         "name": "Desesperados",
         "url": "https://open.spotify.com/album/3w1Tr9F91XMcsmBJQ8hS7H"
       },
@@ -1795,6 +1763,38 @@
       "duration_ms": 193805,
       "name": "Envolver",
       "url": "https://open.spotify.com/track/3IAfUEeaXRX9s9UdKOJrFI"
+    },
+    {
+      "added_at": "2024-02-04 07:34:15",
+      "album": {
+        "name": "PACTO (Remix) [feat. Bryant Myers & Dei V]",
+        "url": "https://open.spotify.com/album/6XCBKPAIVzJej4qkhHYJd6"
+      },
+      "artists": [
+        {
+          "name": "Jay Wheeler",
+          "url": "https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g"
+        },
+        {
+          "name": "Anuel AA",
+          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+        },
+        {
+          "name": "Hades66",
+          "url": "https://open.spotify.com/artist/4CQdcx66F116k2db2Y0rjE"
+        },
+        {
+          "name": "Bryant Myers",
+          "url": "https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c"
+        },
+        {
+          "name": "Dei V",
+          "url": "https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP"
+        }
+      ],
+      "duration_ms": 346000,
+      "name": "PACTO (feat. Bryant Myers & Dei V) - Remix",
+      "url": "https://open.spotify.com/track/2VOXLA9TzOAVCjDi7RY5DV"
     },
     {
       "added_at": "2024-02-04 07:34:15",
@@ -1871,6 +1871,22 @@
     {
       "added_at": "2024-02-04 07:34:15",
       "album": {
+        "name": "Mil Veces",
+        "url": "https://open.spotify.com/album/6BTWoZ4XMhTaLD547Mpc7S"
+      },
+      "artists": [
+        {
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+        }
+      ],
+      "duration_ms": 154023,
+      "name": "Mil Veces",
+      "url": "https://open.spotify.com/track/307kaV2BoOC4pRRzwJUJxf"
+    },
+    {
+      "added_at": "2024-02-04 07:34:15",
+      "album": {
         "name": "FERXXO 151",
         "url": "https://open.spotify.com/album/7JsvGZNqsoZlFOl41TKucq"
       },
@@ -1907,22 +1923,6 @@
       "duration_ms": 187986,
       "name": "EL TONTO",
       "url": "https://open.spotify.com/track/4rKQ8daoK0aklVptea8A9E"
-    },
-    {
-      "added_at": "2024-02-04 07:34:15",
-      "album": {
-        "name": "Mil Veces",
-        "url": "https://open.spotify.com/album/6BTWoZ4XMhTaLD547Mpc7S"
-      },
-      "artists": [
-        {
-          "name": "Anitta",
-          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
-        }
-      ],
-      "duration_ms": 154023,
-      "name": "Mil Veces",
-      "url": "https://open.spotify.com/track/307kaV2BoOC4pRRzwJUJxf"
     },
     {
       "added_at": "2024-02-04 07:34:15",

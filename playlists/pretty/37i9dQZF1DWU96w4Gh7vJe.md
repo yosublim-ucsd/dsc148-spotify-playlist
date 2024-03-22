@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU96w4Gh7vJe.md) - [plain]
 
 > Sit back and relax to our favorite local indie and R&B sounds.
 
-[Spotify](https://open.spotify.com/user/spotify) - 583,730 likes - 50 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 583,784 likes - 50 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,17 +36,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU96w4Gh7vJe.md) - [plain]
 | 26 | [Especially For You](https://open.spotify.com/track/55k3xZxEr3wIXxeL8dPtcR) | [MYMP](https://open.spotify.com/artist/5elcNQkZ6FCZA3grSOMngY) | [Versions & Beyond](https://open.spotify.com/album/1cThuysJDdNOhR6dvgI1fx) | 3:43 |
 | 27 | [Torete](https://open.spotify.com/track/14NYrkbcxzarp4y7LlTtQF) | [Moonstar88](https://open.spotify.com/artist/2kZThDGZcHl4klYYFk0v8n) | [Popcorn](https://open.spotify.com/album/5h7SARmqKueZqYztB10nhx) | 4:24 |
 | 28 | [Teka Lang](https://open.spotify.com/track/3CP6W4N2CnsZgejmUprD6v) | [Emman](https://open.spotify.com/artist/3FwNjtXQCdxpDOXmgJQGnG) | [Teka Lang](https://open.spotify.com/album/0QK7IkS5mne9e95ef0BjAE) | 3:16 |
-| 29 | [o ninanais](https://open.spotify.com/track/0wu1deoRFwktnfD6dTt9KE) | [Arthur Nery](https://open.spotify.com/artist/7uDdl5V5AETSFY7K3muu22) | [o ninanais](https://open.spotify.com/album/1X5tEgzP3ie9ViLe68LJNA) | 4:12 |
-| 30 | [Dati \(feat\. Skusta Clee\)](https://open.spotify.com/track/7pa4kToAE3b6Gtk7fWrsLl) | [John Roa](https://open.spotify.com/artist/2U5mF0PZqGu6glnz55yY0y), [Skusta Clee](https://open.spotify.com/artist/117XFtbZPnCI1EYKjYZWJc) | [Byahe](https://open.spotify.com/album/6GkdhbqD0GxO1YMan6eK2b) | 3:17 |
+| 29 | [Dati \(feat\. Skusta Clee\)](https://open.spotify.com/track/7pa4kToAE3b6Gtk7fWrsLl) | [John Roa](https://open.spotify.com/artist/2U5mF0PZqGu6glnz55yY0y), [Skusta Clee](https://open.spotify.com/artist/117XFtbZPnCI1EYKjYZWJc) | [Byahe](https://open.spotify.com/album/6GkdhbqD0GxO1YMan6eK2b) | 3:17 |
+| 30 | [o ninanais](https://open.spotify.com/track/0wu1deoRFwktnfD6dTt9KE) | [Arthur Nery](https://open.spotify.com/artist/7uDdl5V5AETSFY7K3muu22) | [o ninanais](https://open.spotify.com/album/1X5tEgzP3ie9ViLe68LJNA) | 4:12 |
 | 31 | [tila tala](https://open.spotify.com/track/4ESVeOSa7asoWhkAg6aTB2) | [syd hartha](https://open.spotify.com/artist/3BQ7MYNeB0wMPtHYPWvu1C) | [tila tala](https://open.spotify.com/album/5leaLgCdTTc6idyVEdBEGP) | 4:41 |
 | 32 | [Kahit Di Mo Alam](https://open.spotify.com/track/7Ej7MKkFmuDApmawGwSA3S) | [December Avenue](https://open.spotify.com/artist/4qFxP3qN9GsnZDOkAE6x2m) | [Langit Mong Bughaw](https://open.spotify.com/album/7eXlJM2M5i3iDd8xgd0qwr) | 4:42 |
 | 33 | [Rainbow](https://open.spotify.com/track/3VcVQmMivq2ISfKUmIuvMK) | [South Border](https://open.spotify.com/artist/6ZgBJRjJsK1iOJGKGZxEUv) | [Episode III](https://open.spotify.com/album/6bMej3xtNOTiiHLdhR4wzX) | 5:47 |
 | 34 | [Till My Heartaches End \- From "The Significant Other"](https://open.spotify.com/track/5nWswD8icrEB76JAckDoxY) | [KZ Tandingan](https://open.spotify.com/artist/1mcqfNCReSFxun2vIWvC28) | [Till My Heartaches End \(From "The Significant Other"\)](https://open.spotify.com/album/7KcUkMbUny7VAOzGjIkFhJ) | 4:16 |
 | 35 | [Bakit Ba Ikaw](https://open.spotify.com/track/0RYRExrU329MHOwuiueWIq) | [Michael Pangilinan](https://open.spotify.com/artist/1t2caVgyabZrVDAlmMGraV) | [Michael Pangilinan](https://open.spotify.com/album/5smhvbie90IDjoJoQTI7lk) | 4:05 |
 | 36 | [Tagpuan](https://open.spotify.com/track/6pA9QdHAzg1cyG6I7xI7Ez) | [Moira Dela Torre](https://open.spotify.com/artist/0rZRTXEmmPmx6gt92tBqIc) | [Malaya](https://open.spotify.com/album/4MPMYc8S6csdHlF8Ud1yLp) | 4:20 |
-| 37 | [Oks Lang](https://open.spotify.com/track/3Hsjzl5kBbCAMaJxg1OTwK) | [John Roa](https://open.spotify.com/artist/2U5mF0PZqGu6glnz55yY0y) | [Oks Lang](https://open.spotify.com/album/2DgTTNbbKwiPMUaAqeRmuf) | 5:36 |
+| 37 | [Mikasa](https://open.spotify.com/track/12TuXwmfjap9XnPVtBHS8B) | [Arthur Nery](https://open.spotify.com/artist/7uDdl5V5AETSFY7K3muu22), [Janine Berdin](https://open.spotify.com/artist/4qPhnQfRgdgcZEdXgENOnr) | [Mikasa](https://open.spotify.com/album/4xhKTo8zhVUzDDwsNb9Cdq) | 4:13 |
 | 38 | [Aking Pahinga](https://open.spotify.com/track/6zcjOnMaymoEbG32dWekXi) | [Dro Perez](https://open.spotify.com/artist/1Qwm4EmOYuY34nAFfeEUOa), [I\-Ghie](https://open.spotify.com/artist/0nR2iHBD1IJVJhRpzA5nFf) | [Aking Pahinga](https://open.spotify.com/album/5dO0Qwl40jXrQ4NCmRRuvb) | 4:34 |
-| 39 | [Mikasa](https://open.spotify.com/track/12TuXwmfjap9XnPVtBHS8B) | [Arthur Nery](https://open.spotify.com/artist/7uDdl5V5AETSFY7K3muu22), [Janine Berdin](https://open.spotify.com/artist/4qPhnQfRgdgcZEdXgENOnr) | [Mikasa](https://open.spotify.com/album/4xhKTo8zhVUzDDwsNb9Cdq) | 4:13 |
+| 39 | [Oks Lang](https://open.spotify.com/track/3Hsjzl5kBbCAMaJxg1OTwK) | [John Roa](https://open.spotify.com/artist/2U5mF0PZqGu6glnz55yY0y) | [Oks Lang](https://open.spotify.com/album/2DgTTNbbKwiPMUaAqeRmuf) | 5:36 |
 | 40 | [Closer You and I](https://open.spotify.com/track/4yefFdkOF4T8rN6OAO7RIP) | [Adie](https://open.spotify.com/artist/1DlYnIiliftt6R21Y5NOW2) | [Closer You and I](https://open.spotify.com/album/3oiv09ehNwGqaLWk3TDBgA) | 4:00 |
 | 41 | [Weak](https://open.spotify.com/track/06cUybZMETs4i3yQO1f7p3) | [Khel Pangilinan](https://open.spotify.com/artist/30DIeQNV9s1HEXyuCpGF4l) | [Weak](https://open.spotify.com/album/5ZxNoCcUNppsFWVkMkEoed) | 3:31 |
 | 42 | [Simula Pa Nung Una](https://open.spotify.com/track/7tYjXd42SzEhrWEFQeZxNm) | [Patch Quiwa](https://open.spotify.com/artist/3bsQY9pFWVzUMxlSgGQuBn) | [Simula Pa Nung Una](https://open.spotify.com/album/52qmX1Tbwfk9S0iyVd0JHC) | 4:15 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU96w4Gh7vJe.md) - [plain]
 | 49 | [Tulog Na](https://open.spotify.com/track/5ZPlhCh8KnB0bEnElxm1Et) | [Sugarfree](https://open.spotify.com/artist/5I3uAFbAOhuVSKdrcG5mgy) | [Dramachine](https://open.spotify.com/album/6eQSE3asJwkxro63orNwjk) | 4:00 |
 | 50 | [With a Smile \(feat\. Kelly Badon\)](https://open.spotify.com/track/6XmskR1cMfgys1W7dExmgi) | [South Border](https://open.spotify.com/artist/6ZgBJRjJsK1iOJGKGZxEUv), [Kelly Badon](https://open.spotify.com/artist/32pTJUDIqu5vvX5McsyU26) | [Ultraelectromagnetic Jam](https://open.spotify.com/album/7tfDmiKEApFiZmT5MzIN1o) | 4:24 |
 
-Snapshot ID: `MCw0MTZiMjIyNTI2MjRhNjFkMzE5Yjk5MGUwNjQ5MWQzNTk5YzAxMmZk`
+Snapshot ID: `MCw5Yjg4MDc3YmU4YmU0ZmQ0MDkzZTRiMzYxZmVkZTJhZDNiY2ZiZjk3`

@@ -4,7 +4,7 @@
 
 > Instrumental piano versions of famous songs to make you fall asleep.
 
-137 songs - 7 hr 8 min
+141 songs - 7 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,6 +58,7 @@
 | [Golden Hour \- Piano](https://open.spotify.com/track/07UZEhzObdhFdBk91IDMxO) | [The Bedtime Orchestra](https://open.spotify.com/artist/2YNrq9cmdroJa9v8kmKmsr) | [Relaxing Pop Piano Covers](https://open.spotify.com/album/6RInRZcSuXuuJFAMFkKdEy) | 2:38 | 2023-09-29 |  |
 | [Goodbye Yellow Brick Road](https://open.spotify.com/track/2qJsAAXFRJDzBDPnGD1HgA) | [Moonsong](https://open.spotify.com/artist/5AjSOMFkn9lSiVC64euKjX) | [Goodbye Yellow Brick Road](https://open.spotify.com/album/3NQazGgBW6d4uioUvaaYx7) | 2:14 | 2023-12-22 |  |
 | [Groovy Kind Of Love](https://open.spotify.com/track/6faVa20KtdwfyzsJ6PaohE) | [Pequeño Casero](https://open.spotify.com/artist/78lsXTokMcrytsGHc6jtf9) | [Groovy Kind Of Love](https://open.spotify.com/album/6swG5Fj4XarYTsnOm3CVAk) | 3:12 | 2023-09-29 |  |
+| [Hallelujah](https://open.spotify.com/track/5Ejj6d6NWhR1g9oymWBlm2) | [Ron Lopata](https://open.spotify.com/artist/126P8vRqW1X8AOS0LfKbtA) | [Hallelujah](https://open.spotify.com/album/1pQ8qDBJqljz1SzaYXswJt) | 2:54 | 2024-03-22 |  |
 | [Halo](https://open.spotify.com/track/4lu6zYkghmAlCnDcgKqJcY) | [Mia Carrera](https://open.spotify.com/artist/00zoOzjXViIF4Fs8XQSK9m) | [Halo](https://open.spotify.com/album/0ud9AD3KGlQX1NRLJQpOQ4) | 3:30 | 2023-09-29 |  |
 | [Hello](https://open.spotify.com/track/1efHwagPxIFfADSjRqndUs) | [Elodie Malabul](https://open.spotify.com/artist/1QijYE17aztDpSt76Tak8p) | [Hello](https://open.spotify.com/album/2rGcI5Yw0RehWAigKLPFY4) | 2:01 | 2023-09-29 |  |
 | [Hey Jude](https://open.spotify.com/track/5hbXs1fy9p1oDohdiVIf2H) | [Nicholas Wright](https://open.spotify.com/artist/1c8mJjhHsXxGw0QxlEHLm3) | [The winner takes it all](https://open.spotify.com/album/3xdpsGHwPNSYQk5c7HKdK3) | 3:58 | 2023-09-29 |  |
@@ -112,11 +113,13 @@
 | [Something Just Like This](https://open.spotify.com/track/372mqKuv9LTctBHVpD0XXP) | [Thomas Loof](https://open.spotify.com/artist/2but4cFAXYDfNPiR8iGVB3) | [Something Just Like This](https://open.spotify.com/album/4m2HH3fxP66hxxsYcxS6F2) | 4:00 | 2023-09-29 |  |
 | [Somewhere only we know](https://open.spotify.com/track/3TQrrmZ4vQBoBNK6Hymkph) | [Anissa Henderson](https://open.spotify.com/artist/7hWN9tSQOmj0pafX5UWsjE) | [Somewhere only we know](https://open.spotify.com/album/7sTmrR8KKOUvFIM1RgeSbx) | 3:42 | 2023-09-29 |  |
 | [Somewhere Over The Rainbow](https://open.spotify.com/track/0eHW2eFgqkMS0HtoWHQSsv) | [Fallegur Tonn](https://open.spotify.com/artist/0cMr9nPgyN7bdo1xYugyNB) | [Somewhere Over The Rainbow](https://open.spotify.com/album/7iQ7cBmw7nsBfzDtXck59m) | 2:51 | 2023-09-29 |  |
+| [Sunflower](https://open.spotify.com/track/0Q3UrvVVAPzv72nTWLzTRv) | [Lars Florence](https://open.spotify.com/artist/4ruYri05LUlpHAX2k9Pyo2) | [Sunflower](https://open.spotify.com/album/5jOXGrdg6dzNWAc2YmpPfm) | 3:10 | 2024-03-22 |  |
 | [Super Trouper](https://open.spotify.com/track/1JEk9nzrQalaE3igPsrTAa) | [Alva Nørgaard](https://open.spotify.com/artist/7HIFfx126uBOqh9lGH8z2b) | [Super Trouper](https://open.spotify.com/album/5R1VLkJnWcEEjmE9SssEWO) | 3:28 | 2024-03-01 |  |
 | [Suspicious Minds](https://open.spotify.com/track/2fLbZSccSwBllR0LS0oTBL) | [Center of Jupiter](https://open.spotify.com/artist/7GGAxUda8W9WenqGq5do6x) | [Smells Like Teen Spirit](https://open.spotify.com/album/47A6gfz2DtzXSV0HpHQUiY) | 2:03 | 2023-09-29 |  |
 | [Sweet Child Of Mine](https://open.spotify.com/track/1pHdcp6JpMyk1V5BO41C9r) | [Angie Goodham](https://open.spotify.com/artist/2UXaJJ11L0oeW9uCxQYxGl) | [Sweet Child Of Mine](https://open.spotify.com/album/4Gw2ScxvjGWYUygc961PbO) | 2:02 | 2023-09-29 | 2024-01-19 |
 | [Thank You For The Music](https://open.spotify.com/track/5ulQSckssGmu09iyxlgCYc) | [Christian Lindquist](https://open.spotify.com/artist/2QiW536ikg1NgIkaCvRg8s) | [Thank You For The Music](https://open.spotify.com/album/4CJ1FrArr8OwNTKIYryekH) | 3:26 | 2023-09-29 |  |
 | [The Bones](https://open.spotify.com/track/1VxxM2CjF0982zpGHeMrxu) | [Caitlin Owens](https://open.spotify.com/artist/4bwu4i5ewOhlguYr195Wjj) | [The Bones](https://open.spotify.com/album/1Xk4W4ggHkNl4MwJehSQMr) | 3:11 | 2023-09-29 |  |
+| [The final countdown](https://open.spotify.com/track/63VSSY49F6356Lu87MxENx) | [Dan Goten](https://open.spotify.com/artist/7zXPCJltIcz9RxTp01GyeC) | [The final countdown](https://open.spotify.com/album/6Ol7Ix94ugJsxWppUl3n7R) | 2:37 | 2024-03-22 |  |
 | [The First Cut Is The Deepest](https://open.spotify.com/track/2AOwriifqUUyINxFwNqItE) | [Mick Fazio](https://open.spotify.com/artist/62ZayiWK1lr4ROa7YqpKkx) | [Songs for Sunday](https://open.spotify.com/album/0NqYqAmh1MwXEoJJPYBFwt) | 3:16 | 2023-09-29 |  |
 | [The Joke](https://open.spotify.com/track/3Sq6BHPQVRWE9WHvFDQzNz) | [Zola Davis](https://open.spotify.com/artist/78EI36rEoD1ZiOHSgYroWP) | [The Joke](https://open.spotify.com/album/5jPbLh8xYOuczLIsnHeDng) | 3:31 | 2023-09-29 |  |
 | [The Less I Know The Better](https://open.spotify.com/track/6HE9YNHRBJT8h3kUzvP0Z3) | [Falk Tyler](https://open.spotify.com/artist/13mwoUnL4dMAlzHXEtTCSu) | [The Less I Know The Better](https://open.spotify.com/album/1JtRrVJ2utPz0qLt3zDrvG) | 2:44 | 2024-03-01 |  |
@@ -136,6 +139,7 @@
 | [We Are The World](https://open.spotify.com/track/0jmuypH5mXKfPQzORdMbUt) | [Alec Taylor](https://open.spotify.com/artist/2sYoTL6PUYCa6rZo1SKFyd) | [A Thousand Miles](https://open.spotify.com/album/0dZ2dXRU6ET4oFCA9Csr45) | 2:47 | 2023-09-29 |  |
 | [We Found Love](https://open.spotify.com/track/4JfQOPFcJBaG2P0EnquSlV) | [Josiah Burton](https://open.spotify.com/artist/7kHFdYLloUUlagYelqPEQ7) | [We Found Love](https://open.spotify.com/album/6cgaV6vKjXx8ca75asRIni) | 3:15 | 2023-09-29 |  |
 | [What Was I Made For?](https://open.spotify.com/track/5yhPNVqJog8cR2e8AWADO6) | [Bea Westphal](https://open.spotify.com/artist/1WYKnoHGJ7nwH1S9SyZsYc) | [What Was I Made For?](https://open.spotify.com/album/1B034YD9BTZoSI4l6WCXuK) | 3:01 | 2023-09-29 |  |
+| [Wind Of Change](https://open.spotify.com/track/7xYSleWEppumLFfcae1D2F) | [Kim Jonas](https://open.spotify.com/artist/1FlrpSI88fx7RNjHNHbc2H) | [Wind Of Change](https://open.spotify.com/album/0sTLdlhQTr2ZjxdTlr2HcI) | 3:13 | 2024-03-22 |  |
 | [With or without you](https://open.spotify.com/track/5ySNvjc6U7c4TDhRgqNdJh) | [Anissa Henderson](https://open.spotify.com/artist/7hWN9tSQOmj0pafX5UWsjE) | [With or without you](https://open.spotify.com/album/2hzBunUPQX0klUidFYR9Ux) | 2:36 | 2023-11-17 |  |
 | [Woman In Love](https://open.spotify.com/track/0gsahF2JQ6vX7ZihCfNALe) | [Lilas Délice](https://open.spotify.com/artist/0x2Cy9CJekH8kYi8gLWHOM) | [Woman In Love](https://open.spotify.com/album/2QxnnLhu9ae17ToOdnHPNh) | 3:08 | 2023-09-29 |  |
 | [Wonder Woman](https://open.spotify.com/track/6KO3K2Iu0EHOIbSRibo7M8) | [Man In The Moon](https://open.spotify.com/artist/6BTjmaexyRi0mmlipQ2Dnz) | [Wonder Woman](https://open.spotify.com/album/17q5zFGbh3XNEtEhOjyIpw) | 3:18 | 2023-09-29 |  |

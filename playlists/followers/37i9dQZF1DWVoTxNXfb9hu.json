@@ -1,5 +1,5 @@
 {
-  "2024-03-21": 108303,
+  "2024-03-22": 108343,
   "date_first_scraped": "2023-03-10",
   "description": "Colourful songs to kickstart your Holi party! Cover - Yeh Jawaani Hai Deewani",
   "name": "Holi Party",
@@ -817,7 +817,7 @@
       ],
       "date_added": "2023-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-21",
       "duration_ms": 170769,
       "name": "Genda Phool (feat. Payal Dev)",
       "url": "https://open.spotify.com/track/0gzu5mm36VJH2Zqu8sQPTf"
@@ -1101,6 +1101,28 @@
       "duration_ms": 223881,
       "name": "Holi Re Rasiya",
       "url": "https://open.spotify.com/track/6KJnxgN0lVgv9npvMBje3P"
+    },
+    {
+      "album": {
+        "name": "Holiya Mein Ude Re Gulal (Carnival Mix)",
+        "url": "https://open.spotify.com/album/7tiHrcwOa2MWf69aNAPhY2"
+      },
+      "artists": [
+        {
+          "name": "Ila Arun",
+          "url": "https://open.spotify.com/artist/5zWKMBKw7KqulFxyz2ULvp"
+        },
+        {
+          "name": "Flipsyd",
+          "url": "https://open.spotify.com/artist/0FLg7KXUSAjWEgpuU09Itb"
+        }
+      ],
+      "date_added": "2024-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132000,
+      "name": "Holiya Mein Ude Re Gulal - Carnival Mix",
+      "url": "https://open.spotify.com/track/1JIiTGX0m7fUBlNpZ5b1fQ"
     },
     {
       "album": {
@@ -1783,7 +1805,7 @@
       ],
       "date_added": "2023-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-21",
       "duration_ms": 184617,
       "name": "Naah Goriye",
       "url": "https://open.spotify.com/track/2q12vH6qEvg8y1XBCgTbHZ"
@@ -1921,7 +1943,7 @@
       ],
       "date_added": "2023-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-21",
       "duration_ms": 226313,
       "name": "Oo Bolega Ya Oo Oo Bolega (From \"Pushpa The Rise Part - 01\")",
       "url": "https://open.spotify.com/track/4oglYe270D9yn6Gc0JWc03"
@@ -1943,7 +1965,7 @@
       ],
       "date_added": "2023-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-21",
       "duration_ms": 174002,
       "name": "Paani Paani",
       "url": "https://open.spotify.com/track/1myzcUZDmZ5m1EgGv19c76"

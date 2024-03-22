@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1g3boY.md) - [plain]
 
 > This is Emicida\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 167,782 likes - 51 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 167,814 likes - 51 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,8 +56,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1g3boY.md) - [plain]
 | 46 | [Oyá \- Sorriso Negro \- Ao Vivo](https://open.spotify.com/track/7rrlAo0OyWwpaRbDDSe9BB) | [Prettos](https://open.spotify.com/artist/7htTHUkgfSZeRhK6pqMLHB), [Magnu Sousá](https://open.spotify.com/artist/2eN5C7mT6TLPTxdIG9DiRP), [Maurilio de Oliveira](https://open.spotify.com/artist/5DM4yO0oJhBI392KIInTu6), [Emicida](https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K) | [Quintal dos Prettos \(Ao Vivo\)](https://open.spotify.com/album/159BRsin1LHfEaJAcvcLnc) | 4:37 |
 | 47 | [Trevo, Figuinha e Suor na Camisa](https://open.spotify.com/track/5XlSsxpTi0usJnQSUwBORk) | [Emicida](https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K), [Ivete Sangalo](https://open.spotify.com/artist/7dzq55YG3wjViqexDwiycQ) | [Trevo, Figuinha e Suor na Camisa](https://open.spotify.com/album/5AYV4MJslPN48xaab39ZuW) | 2:50 |
 | 48 | [Gueto \- Ao Vivo](https://open.spotify.com/track/4qFliZbsCTWYEpL75Vw3RO) | [Emicida](https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K) | [AmarElo \- Ao Vivo](https://open.spotify.com/album/1OEj74ygMvQHFyypp3COpw) | 3:13 |
-| 49 | [Manifesto \(feat\. Lenine & Emicida\)](https://open.spotify.com/track/6wJqQmyHqINC6aRm6iYsku) | [Fresno](https://open.spotify.com/artist/2sFXe6NbmT3k7Qy4N8fE7f), [Lenine](https://open.spotify.com/artist/4YLBdrR3DVSMncm785NH6C), [Emicida](https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K) | [Eu Sou a Maré Viva](https://open.spotify.com/album/2RhCVgGIB5dd4k8z8rsdYe) | 4:34 |
-| 50 | [Linha De Frente \- Live](https://open.spotify.com/track/6KzAGApzyPBttDCH9rKUNv) | [Criolo](https://open.spotify.com/artist/37ZflmHTdxkSLQuT8w9NBs), [Emicida](https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K), [Rodrigo Campos](https://open.spotify.com/artist/08VlguMfAFdEAJb15OWAeJ) | [Criolo E Emicida Ao Vivo \(Live\)](https://open.spotify.com/album/3xfZtthn2dlFtFfyyYKEf8) | 4:00 |
+| 49 | [Linha De Frente \- Live](https://open.spotify.com/track/6KzAGApzyPBttDCH9rKUNv) | [Criolo](https://open.spotify.com/artist/37ZflmHTdxkSLQuT8w9NBs), [Emicida](https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K), [Rodrigo Campos](https://open.spotify.com/artist/08VlguMfAFdEAJb15OWAeJ) | [Criolo E Emicida Ao Vivo \(Live\)](https://open.spotify.com/album/3xfZtthn2dlFtFfyyYKEf8) | 4:00 |
+| 50 | [Manifesto \(feat\. Lenine & Emicida\)](https://open.spotify.com/track/6wJqQmyHqINC6aRm6iYsku) | [Fresno](https://open.spotify.com/artist/2sFXe6NbmT3k7Qy4N8fE7f), [Lenine](https://open.spotify.com/artist/4YLBdrR3DVSMncm785NH6C), [Emicida](https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K) | [Eu Sou a Maré Viva](https://open.spotify.com/album/2RhCVgGIB5dd4k8z8rsdYe) | 4:34 |
 | 51 | [Oi Compadre \- Ao Vivo](https://open.spotify.com/track/21qhVrVh2DHXxYZv0CtDqR) | [Martinho Da Vila](https://open.spotify.com/artist/6rM2yY0GnVcOHMU5GD3y9E), [Cidade Negra](https://open.spotify.com/artist/4cx31cxKTg5L8blZE24qfZ), [Emicida](https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K) | [Rock In Rio \(Ao Vivo\)](https://open.spotify.com/album/4ZLLVCn6RnlENQ0nhAS5sS) | 4:06 |
 
-Snapshot ID: `Mjg1MTU2NjEsMDAwMDAwMDBiNmE4OGM1NmRiNTY0MTVjMDQyYjNmNjQ3Yjc3Y2I3Yg==`
+Snapshot ID: `Mjg1MTcwNzUsMDAwMDAwMDBmNjBkNjYzNjFlOTQwMWVhZmZiMzczNDQ2OTc0NmI2NA==`

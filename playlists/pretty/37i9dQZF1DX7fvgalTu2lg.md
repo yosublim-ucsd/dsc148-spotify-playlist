@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7fvgalTu2lg.md) - [plain]
 
 > Don't worry, be happy :\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 125,770 likes - 80 songs - 4 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 125,860 likes - 80 songs - 4 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -87,6 +87,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7fvgalTu2lg.md) - [plain]
 | 77 | [Volare](https://open.spotify.com/track/06UAZUY5qyFy50poO0nLBY) | [Gipsy Kings](https://open.spotify.com/artist/3jc496ljiyrS3ECrD7QiqL) | [Mosaique](https://open.spotify.com/album/6prKtGIdYwaR9rhNElZEWt) | 3:38 |
 | 78 | [Eso Que Tú Me Das](https://open.spotify.com/track/6cRvHL1jwsAktcEcukPYmp) | [Jarabe De Palo](https://open.spotify.com/artist/5B6H1Dq77AV1LZWrbNsuH5) | [Eso Que Tú Me Das](https://open.spotify.com/album/14AGxQitvL1hZOTtb0uiIZ) | 3:34 |
 | 79 | [You Can Get It If You Really Want](https://open.spotify.com/track/1Vwvlg5av6Bfp9yjmu05yJ) | [Desmond Dekker](https://open.spotify.com/artist/1FcB6xMihhP9Hb6AdGVbWe) | [You Can Get It If You Really Want](https://open.spotify.com/album/2Vp41y8ITDPQv4lEDlc8Gw) | 2:38 |
-| 80 | [Move on Up \- Single Edit](https://open.spotify.com/track/1DxjLSO8tQHRzfgrZB8Ggi) | [Curtis Mayfield](https://open.spotify.com/artist/2AV6XDIs32ofIJhkkDevjm) | [Playlist: The Best of Curtis Mayfield](https://open.spotify.com/album/0wZH0vyxgzyGmlc8JDfRvH) | 2:45 |
+| 80 | [Heart of Gold \- 2009 Remaster](https://open.spotify.com/track/1Q1b8eVkUPGlpSArl8JAVw) | [Neil Young](https://open.spotify.com/artist/6v8FB84lnmJs434UJf2Mrm) | [Harvest \(2009 Remaster\)](https://open.spotify.com/album/2l3QxNo4QubBNmVKxLeum0) | 3:07 |
 
-Snapshot ID: `MCwxNzY2NzMxNWRjN2I1MWFmNDZkZWQwNjVkMWZhNmVjYjMwMjE5ZWRl`
+Snapshot ID: `MCxlODZmYjk2Y2M5NTcwODVhYzYyNDFkYjZiZGE3Y2I3MDM1NjJkMmQ0`

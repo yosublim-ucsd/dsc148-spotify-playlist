@@ -4,7 +4,7 @@
 
 > Smooth and cozy saxophone ballads for relaxing or focus.
 
-212 songs - 13 hr 50 min
+215 songs - 14 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,6 +26,7 @@
 | [Another autumn](https://open.spotify.com/track/3mFbJ6Ur7gSAAqxQaY3sbq) | [Hiromi](https://open.spotify.com/artist/7DeuppKQdCVhuWrzzCBBpc) | [BLUE GIANT \(オリジナル・サウンドトラック\)](https://open.spotify.com/album/4GhDb60eJfeVCHJQdHWooc) | 2:32 | 2023-02-16 |  |
 | [Anse Source d'Argent](https://open.spotify.com/track/4jl1mBMyPdpDh0mYadTZhR) | [Jenny Jones](https://open.spotify.com/artist/4EDpGeRNin742qDkiwBE1X) | [Anse Source d'Argent](https://open.spotify.com/album/78HJ40CFyeOvdOhGy9LItG) | 3:58 | 2023-01-12 |  |
 | [Answer Me](https://open.spotify.com/track/6fnNCsXknFz1ynDLccUonn) | [Hans Ulrik](https://open.spotify.com/artist/1SdvVqfeIalD1XCYMO9HsF) | [Answer Me](https://open.spotify.com/album/3FgQg3LI5EM2mnNIkLtAqv) | 3:30 | 2024-03-08 |  |
+| [April Calling](https://open.spotify.com/track/4siGt6JIeTl3GgFynMaybU) | [Sand Quartet](https://open.spotify.com/artist/7yfwOkCekTgoZgzi9VavgA) | [April Calling](https://open.spotify.com/album/62YhZZOAgwAMrsXundbQRo) | 3:50 | 2024-03-22 |  |
 | [April In Paris](https://open.spotify.com/track/5rPMbUxXRXvWu89k0n6Sxj) | [Charlie Parker](https://open.spotify.com/artist/4Ww5mwS7BWYjoZTUIrMHfC) | [April In Paris: The Genius Of Charlie Parker \#2](https://open.spotify.com/album/7uifUApb0mUlqIxX5SkrVJ) | 3:07 | 2022-08-18 | 2022-09-09 |
 | [Ardent](https://open.spotify.com/track/0tJPym7iyE0HyPFhwPrPBj) | [The City of Birches](https://open.spotify.com/artist/6fGGglYJY8D22eJtcjgg8S) | [Ardent](https://open.spotify.com/album/14v5XJ2DIhpd1AmlgA25cw) | 3:06 | 2022-10-13 |  |
 | [As Though The Sun](https://open.spotify.com/track/2AxW80QuVqJ0GXygmupaM2) | [Mabon Clarke Quartet](https://open.spotify.com/artist/1PxVNcTPbAGfnt4i21wDzc) | [As Though The Sun](https://open.spotify.com/album/6Te3ZDjwGegzpFd1MaZNNe) | 3:47 | 2023-01-05 |  |
@@ -107,6 +108,7 @@
 | [Like Someone In Love](https://open.spotify.com/track/7FLgkvkt7wDGb3wrwR9xX9) | [Coleman Hawkins](https://open.spotify.com/artist/0JM134st8VY7Ld9T2wQiH0) | [The Genius Of Coleman Hawkins \(Expanded Edition\)](https://open.spotify.com/album/0Z2OKl1GiVUStRfHyqMZzz) | 3:55 | 2022-08-18 | 2023-08-25 |
 | [Lithe](https://open.spotify.com/track/6Ow1x2Z9OvuQHE6iRqmZJG) | [Mandy](https://open.spotify.com/artist/2BMXntfoLrLiBk4CH5IOzi) | [Lithe](https://open.spotify.com/album/3kxCez0DkWqVsD3eXFwv7P) | 3:48 | 2022-08-18 |  |
 | [Little Girl Blue](https://open.spotify.com/track/7l1z1abVjOLrhxo1FpfgDI) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8) | [Nobody Else But Me](https://open.spotify.com/album/4InQkjgxCqUbFmPeQjCKIC) | 3:38 | 2022-08-18 |  |
+| [Lone Pine](https://open.spotify.com/track/6n53sSnd8THaUSPvAOEMY7) | [Matt Marantz Quartet](https://open.spotify.com/artist/0UaQ3qnMEuBWsPnbKWJo8V) | [Lone Pine](https://open.spotify.com/album/7nFMmdQmPvYMhOA3khr8wI) | 3:00 | 2024-03-22 |  |
 | [Love For Free](https://open.spotify.com/track/4s5I0RCLDgPjUpmmlQbpP1) | [Akio](https://open.spotify.com/artist/1Pee2ETMZW5ZH3mVgdrf4A) | [Love For Free](https://open.spotify.com/album/6awm6EihJwIoQ5YrEoJG22) | 3:33 | 2024-03-08 |  |
 | [Maia Oh Maia](https://open.spotify.com/track/3VnChEq3PRsTQ3JPA7Gsh4) | [Mitch Coleman](https://open.spotify.com/artist/5YyVZ8kxK9sRVEg1pBh1PV) | [Maia Oh Maia](https://open.spotify.com/album/2dDG5MRroFXo6i60i5MnPQ) | 3:55 | 2022-11-17 |  |
 | [Manhattan](https://open.spotify.com/track/37bu67zutZr2gn7iiLewLF) | [Mabon Clarke Quartet](https://open.spotify.com/artist/1PxVNcTPbAGfnt4i21wDzc) | [Manhattan](https://open.spotify.com/album/57PEe97Gfbucw9wUslaSOI) | 3:54 | 2022-09-29 |  |
@@ -143,7 +145,7 @@
 | [Please Come Back To Me](https://open.spotify.com/track/1ldy3WQh4squ8s70YJojyq) | [Odo Lefebvre](https://open.spotify.com/artist/7lLtsVLpDbuhSvr5UE6HIU) | [Please Come Back To Me](https://open.spotify.com/album/7DQShbCRDQiXshTKK7mqFe) | 3:00 | 2023-01-05 |  |
 | [Polkadots And Moonbeams](https://open.spotify.com/track/22b0vbHkq3qRrjhFa9BimB) | [Archie Taylor](https://open.spotify.com/artist/6p8c1ewQ2thcBnDzhkoZaL) | [Polkadots And Moonbeams](https://open.spotify.com/album/668WN0afbvrzNHda52ABUP) | 3:42 | 2022-08-18 |  |
 | [Poor Butterfly](https://open.spotify.com/track/2vyuIth7SkLbbfx0wX8KsC) | [Benjamine Leroy Quartet](https://open.spotify.com/artist/0HsfmmG8LqKOxS2LBIO9bM) | [Poor Butterfly](https://open.spotify.com/album/0voGzbbY9Wm9vtql5l2Uaz) | 3:36 | 2022-09-21 |  |
-| [Pour It Out](https://open.spotify.com/track/7GZ7kYUBPNm9whqDDeod1r) | [Matt Marantz Quartet](https://open.spotify.com/artist/0UaQ3qnMEuBWsPnbKWJo8V) | [Blue Mist](https://open.spotify.com/album/1Iz3gDxg8ebRb8lPZICLit) | 5:20 | 2023-01-26 |  |
+| [Pour It Out](https://open.spotify.com/track/7GZ7kYUBPNm9whqDDeod1r) | [Matt Marantz Quartet](https://open.spotify.com/artist/0UaQ3qnMEuBWsPnbKWJo8V) | [Blue Mist](https://open.spotify.com/album/1Iz3gDxg8ebRb8lPZICLit) | 5:20 | 2023-01-26 | 2024-03-22 |
 | [Precipice](https://open.spotify.com/track/0jBUrbTgPo5aavVppb0OAR) | [Bobby Katz Quartet](https://open.spotify.com/artist/2ageVjmChv8ntPyL4DAhRm) | [Precipice](https://open.spotify.com/album/0WY5ldm7QZPvwOZvAV3t8Z) | 3:49 | 2024-03-01 |  |
 | [Pretty Ballad](https://open.spotify.com/track/1UVz63b1DRzV9CrM4OYQ9U) | [Lennie Zimmerman + 3](https://open.spotify.com/artist/29B45yp5XnJwtbrvbeqnSu) | [My Romance](https://open.spotify.com/album/5zLgKeaogrKCOKmvO4UFOO) | 3:00 | 2022-08-18 |  |
 | [Puppy Eyes](https://open.spotify.com/track/520YkTPlI3EqAjgONKWYM5) | [Tommie Blayne](https://open.spotify.com/artist/204e8Dl05BFPHdRr5icPdx) | [Puppy Eyes](https://open.spotify.com/album/0Hccs1iqF1ON4O7otJqA6M) | 3:31 | 2023-05-25 |  |
@@ -210,6 +212,7 @@
 | [When I Fall In Love](https://open.spotify.com/track/5qua84zdZZxV4dRI1v0WLN) | [Carlton Maison Quartet](https://open.spotify.com/artist/0Tq1tUZV3Vw3CUvNwIjxpm) | [When I Fall In Love](https://open.spotify.com/album/2TyUlWNdCzTFItxohR2PO2) | 4:23 | 2022-08-18 |  |
 | [When You're Not Around Me](https://open.spotify.com/track/6DixEJXg93VyLrtJopHzsg) | [Stewart Park Quartet](https://open.spotify.com/artist/6WM9U52WDUrqLdjVDJRT1d) | [When You're Not Around Me](https://open.spotify.com/album/6xNJFhbq0YmZcDcAnlVuTL) | 3:45 | 2023-12-08 |  |
 | [Where Or When](https://open.spotify.com/track/3K7okDLoeWIb1BxsGDVrNl) | [Nelly Vernon](https://open.spotify.com/artist/2QTDEcFCA6jvoJwQsm3TpS) | [Where Or When](https://open.spotify.com/album/4Tiyb5NGvdSuWkfhHfstou) | 3:23 | 2022-08-18 |  |
+| [Whispers of the Evening](https://open.spotify.com/track/3JnzwIwPo8dBlf3YCeJIrK) | [Sodermalm Strand](https://open.spotify.com/artist/33J2KlLdNu8EHXQ1j4ifLp) | [Whispers of the Evening](https://open.spotify.com/album/1MEo1GRTrJ0RIg1jM1mxXs) | 3:15 | 2024-03-22 |  |
 | [Will You Wait For Me](https://open.spotify.com/track/0FFYwlRnQbuQhfW2pbzIgv) | [Darlington](https://open.spotify.com/artist/6Kv77H8NfrNdRoGMCeuIVz) | [Will You Wait For Me](https://open.spotify.com/album/0vHnbVxEXwagrTFClPMVgi) | 3:47 | 2023-11-17 |  |
 | [Windfall](https://open.spotify.com/track/56Vf0MpwUNFrkNkwSxHJyA) | [Mornington](https://open.spotify.com/artist/1oC6eOjjixPdeV0HvUAviS) | [Windfall](https://open.spotify.com/album/2tlBn0cUQfFlV2YUx2tOhM) | 3:48 | 2022-08-18 |  |
 | [Woodwind](https://open.spotify.com/track/0g1TBY3JUXO8fGD2iI1CM7) | [Jan Harbeck Quartet](https://open.spotify.com/artist/7JGHjWlWkG5A8cB7HzQL0x) | [Woodwind](https://open.spotify.com/album/5JwbjlP5BpJ7LouNT6tNxU) | 5:20 | 2022-10-06 |  |

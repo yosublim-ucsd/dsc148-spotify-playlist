@@ -1,5 +1,5 @@
 {
-  "2024-03-21": 119604,
+  "2024-03-22": 119615,
   "date_first_scraped": "2022-05-30",
   "description": "In partnership with <a href=\"https://goldhouse.org/\">Gold House</a>, we are excited to announce our second Gold House Future Music Guild artists: Mad Tsai, Rhea Raj & Alex Porat.",
   "name": "Gold Beats",
@@ -2158,6 +2158,32 @@
     },
     {
       "album": {
+        "name": "An Evening With Silk Sonic",
+        "url": "https://open.spotify.com/album/1YgekJJTEueWDaMr7BYqPk"
+      },
+      "artists": [
+        {
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+        },
+        {
+          "name": "Anderson .Paak",
+          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
+        },
+        {
+          "name": "Silk Sonic",
+          "url": "https://open.spotify.com/artist/6PvvGcCY2XtUcSRld1Wilr"
+        }
+      ],
+      "date_added": "2023-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 307014,
+      "name": "Love's Train",
+      "url": "https://open.spotify.com/track/2JUQ7mV1AHk2owXLydmN4Z"
+    },
+    {
+      "album": {
         "name": "Love's Train",
         "url": "https://open.spotify.com/album/6QKXGIgwWmWBMmIktMOchR"
       },
@@ -2177,7 +2203,7 @@
       ],
       "date_added": "2022-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-21",
       "duration_ms": 307014,
       "name": "Love's Train",
       "url": "https://open.spotify.com/track/60gTdTwaNtGAzIxKfeGVfJ"

@@ -1,12 +1,12 @@
 {
   "description": "Enjoy this deep and meditative list  alone or with a friend and a good cup of coffee.",
-  "num_followers": 60271,
+  "num_followers": 60275,
   "original_name": "The Good Cup",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0OWExMjY0MzQ2ZWZjODRkYTRlYWRhMzAyM2ExMmIyZThlYTk4ZTY1",
+  "snapshot_id": "MCwxOTljMzU2YjA4MGRhYWQ1NTAyZjc0NjFlNDkxN2ZjMjM1MGE4MDU0",
   "tracks": [
     {
       "added_at": "2023-07-28 04:02:00",
@@ -691,18 +691,18 @@
     {
       "added_at": "2023-07-28 04:02:00",
       "album": {
-        "name": "Young Oceans",
-        "url": "https://open.spotify.com/album/1367PHceftcW1GcBTbzuzB"
+        "name": "Safe Place",
+        "url": "https://open.spotify.com/album/6aYo3XMTrfvmMh4mzTG74t"
       },
       "artists": [
         {
-          "name": "Young Oceans",
-          "url": "https://open.spotify.com/artist/41crVXG3GeS8TmyWEaPZVr"
+          "name": "Spencer Annis",
+          "url": "https://open.spotify.com/artist/3PcnAVq9b3HyDUkNFTvyUu"
         }
       ],
-      "duration_ms": 273960,
-      "name": "Great Is Our God",
-      "url": "https://open.spotify.com/track/5TO4KuGzOBKG6CqxHm4wRD"
+      "duration_ms": 208000,
+      "name": "The Invitation",
+      "url": "https://open.spotify.com/track/7KhqjDjqRU3nYWqjQeFINH"
     },
     {
       "added_at": "2023-07-28 04:02:00",
@@ -723,18 +723,18 @@
     {
       "added_at": "2023-07-28 04:02:00",
       "album": {
-        "name": "Safe Place",
-        "url": "https://open.spotify.com/album/6aYo3XMTrfvmMh4mzTG74t"
+        "name": "Young Oceans",
+        "url": "https://open.spotify.com/album/1367PHceftcW1GcBTbzuzB"
       },
       "artists": [
         {
-          "name": "Spencer Annis",
-          "url": "https://open.spotify.com/artist/3PcnAVq9b3HyDUkNFTvyUu"
+          "name": "Young Oceans",
+          "url": "https://open.spotify.com/artist/41crVXG3GeS8TmyWEaPZVr"
         }
       ],
-      "duration_ms": 208000,
-      "name": "The Invitation",
-      "url": "https://open.spotify.com/track/7KhqjDjqRU3nYWqjQeFINH"
+      "duration_ms": 273960,
+      "name": "Great Is Our God",
+      "url": "https://open.spotify.com/track/5TO4KuGzOBKG6CqxHm4wRD"
     },
     {
       "added_at": "2023-07-28 04:02:00",
@@ -823,22 +823,6 @@
     {
       "added_at": "2023-07-28 04:02:00",
       "album": {
-        "name": "From the Valley",
-        "url": "https://open.spotify.com/album/3BoecgmoOMsloSsVhPGc8H"
-      },
-      "artists": [
-        {
-          "name": "Shamina",
-          "url": "https://open.spotify.com/artist/2fgTVQWUfT8Mz9B9baFjMb"
-        }
-      ],
-      "duration_ms": 279451,
-      "name": "God Who Saves",
-      "url": "https://open.spotify.com/track/0bbL9rzu1AkfchxvD3LsTP"
-    },
-    {
-      "added_at": "2023-07-28 04:02:00",
-      "album": {
         "name": "You Are Good",
         "url": "https://open.spotify.com/album/1xwUCBzv3EXSNJJwx8XUgX"
       },
@@ -855,6 +839,22 @@
       "duration_ms": 358373,
       "name": "You Are Good",
       "url": "https://open.spotify.com/track/0bZue6mTaRWAXVyINIcTTS"
+    },
+    {
+      "added_at": "2023-07-28 04:02:00",
+      "album": {
+        "name": "From the Valley",
+        "url": "https://open.spotify.com/album/3BoecgmoOMsloSsVhPGc8H"
+      },
+      "artists": [
+        {
+          "name": "Shamina",
+          "url": "https://open.spotify.com/artist/2fgTVQWUfT8Mz9B9baFjMb"
+        }
+      ],
+      "duration_ms": 279451,
+      "name": "God Who Saves",
+      "url": "https://open.spotify.com/track/0bbL9rzu1AkfchxvD3LsTP"
     },
     {
       "added_at": "2023-07-28 04:02:00",
@@ -1007,6 +1007,22 @@
     {
       "added_at": "2023-07-28 04:02:00",
       "album": {
+        "name": "Survive These Seas",
+        "url": "https://open.spotify.com/album/3tgGcSo8MQa4ONqhNbXPmc"
+      },
+      "artists": [
+        {
+          "name": "LOVKN",
+          "url": "https://open.spotify.com/artist/2bEFxVGVlzEIEdDAaQZCrc"
+        }
+      ],
+      "duration_ms": 221626,
+      "name": "Survive These Seas",
+      "url": "https://open.spotify.com/track/6GmJWxDoLjcp5iz9FmmH5y"
+    },
+    {
+      "added_at": "2023-07-28 04:02:00",
+      "album": {
         "name": "features",
         "url": "https://open.spotify.com/album/0Fc7umL5EClDmFhOI5GNuz"
       },
@@ -1023,22 +1039,6 @@
       "duration_ms": 216366,
       "name": "hold on (alt. version)",
       "url": "https://open.spotify.com/track/6OXaUmzgo2kjXK1Aa6Qza2"
-    },
-    {
-      "added_at": "2023-07-28 04:02:00",
-      "album": {
-        "name": "Survive These Seas",
-        "url": "https://open.spotify.com/album/3tgGcSo8MQa4ONqhNbXPmc"
-      },
-      "artists": [
-        {
-          "name": "LOVKN",
-          "url": "https://open.spotify.com/artist/2bEFxVGVlzEIEdDAaQZCrc"
-        }
-      ],
-      "duration_ms": 221626,
-      "name": "Survive These Seas",
-      "url": "https://open.spotify.com/track/6GmJWxDoLjcp5iz9FmmH5y"
     },
     {
       "added_at": "2023-07-28 04:02:00",
@@ -1123,6 +1123,22 @@
     {
       "added_at": "2023-07-28 04:02:00",
       "album": {
+        "name": "'90s Kids",
+        "url": "https://open.spotify.com/album/6gu7Mb2gVC5m4MOL2tFx9h"
+      },
+      "artists": [
+        {
+          "name": "LaPeer",
+          "url": "https://open.spotify.com/artist/6rPGKWFVuwuRPPuh1QitHc"
+        }
+      ],
+      "duration_ms": 206987,
+      "name": "Letters",
+      "url": "https://open.spotify.com/track/7CcnoQ1OAwEEsa1t2MBZx8"
+    },
+    {
+      "added_at": "2023-07-28 04:02:00",
+      "album": {
         "name": "Breathe My Name",
         "url": "https://open.spotify.com/album/2OY620HBzdwEPr5XrhFZMR"
       },
@@ -1147,38 +1163,6 @@
     {
       "added_at": "2023-07-28 04:02:00",
       "album": {
-        "name": "'90s Kids",
-        "url": "https://open.spotify.com/album/6gu7Mb2gVC5m4MOL2tFx9h"
-      },
-      "artists": [
-        {
-          "name": "LaPeer",
-          "url": "https://open.spotify.com/artist/6rPGKWFVuwuRPPuh1QitHc"
-        }
-      ],
-      "duration_ms": 206987,
-      "name": "Letters",
-      "url": "https://open.spotify.com/track/7CcnoQ1OAwEEsa1t2MBZx8"
-    },
-    {
-      "added_at": "2023-07-28 04:02:00",
-      "album": {
-        "name": "Glorious Ruins",
-        "url": "https://open.spotify.com/album/1rHcAXo4GdSh6A4C90rFJ7"
-      },
-      "artists": [
-        {
-          "name": "The War Within",
-          "url": "https://open.spotify.com/artist/0OYG29hioeFTMAf8rYSJPh"
-        }
-      ],
-      "duration_ms": 245077,
-      "name": "Glorious Ruins",
-      "url": "https://open.spotify.com/track/5U6ey8MfRRsMCifjIvkDP6"
-    },
-    {
-      "added_at": "2023-07-28 04:02:00",
-      "album": {
         "name": "Peace",
         "url": "https://open.spotify.com/album/4f4cZ9XxXEPMlwOO5mgdep"
       },
@@ -1195,6 +1179,22 @@
       "duration_ms": 338504,
       "name": "Peace",
       "url": "https://open.spotify.com/track/47z8kamJgXLFIJ01RNPBVh"
+    },
+    {
+      "added_at": "2023-07-28 04:02:00",
+      "album": {
+        "name": "Glorious Ruins",
+        "url": "https://open.spotify.com/album/1rHcAXo4GdSh6A4C90rFJ7"
+      },
+      "artists": [
+        {
+          "name": "The War Within",
+          "url": "https://open.spotify.com/artist/0OYG29hioeFTMAf8rYSJPh"
+        }
+      ],
+      "duration_ms": 245077,
+      "name": "Glorious Ruins",
+      "url": "https://open.spotify.com/track/5U6ey8MfRRsMCifjIvkDP6"
     },
     {
       "added_at": "2023-07-28 04:02:00",
@@ -1323,6 +1323,22 @@
     {
       "added_at": "2023-07-28 04:02:00",
       "album": {
+        "name": "All the Bright Lights",
+        "url": "https://open.spotify.com/album/482FZEz4s4xyx0hjk2GMB7"
+      },
+      "artists": [
+        {
+          "name": "All The Bright Lights",
+          "url": "https://open.spotify.com/artist/1jcBaDji032lL60oRtCSKj"
+        }
+      ],
+      "duration_ms": 330226,
+      "name": "Wilora Lake",
+      "url": "https://open.spotify.com/track/3i1snwRlVC8Xf7SvBe72DI"
+    },
+    {
+      "added_at": "2023-07-28 04:02:00",
+      "album": {
         "name": "The Promise",
         "url": "https://open.spotify.com/album/0fahYrdNLIq2AZ0YRFRkcF"
       },
@@ -1343,22 +1359,6 @@
       "duration_ms": 352318,
       "name": "The Promise",
       "url": "https://open.spotify.com/track/0GX2XQoebthirwpAxC6gx5"
-    },
-    {
-      "added_at": "2023-07-28 04:02:00",
-      "album": {
-        "name": "All the Bright Lights",
-        "url": "https://open.spotify.com/album/482FZEz4s4xyx0hjk2GMB7"
-      },
-      "artists": [
-        {
-          "name": "All The Bright Lights",
-          "url": "https://open.spotify.com/artist/1jcBaDji032lL60oRtCSKj"
-        }
-      ],
-      "duration_ms": 330226,
-      "name": "Wilora Lake",
-      "url": "https://open.spotify.com/track/3i1snwRlVC8Xf7SvBe72DI"
     },
     {
       "added_at": "2023-07-28 04:02:00",
@@ -1683,22 +1683,6 @@
     {
       "added_at": "2023-07-28 04:02:00",
       "album": {
-        "name": "Smile",
-        "url": "https://open.spotify.com/album/0i2YjFJvFKKBD05cA0Omar"
-      },
-      "artists": [
-        {
-          "name": "Sarah Hawkyard",
-          "url": "https://open.spotify.com/artist/3CgmDph153yB1nP3meLZkr"
-        }
-      ],
-      "duration_ms": 219782,
-      "name": "Smile",
-      "url": "https://open.spotify.com/track/0w5nj3eNbOWsvbKpzbuVju"
-    },
-    {
-      "added_at": "2023-07-28 04:02:00",
-      "album": {
         "name": "How To Love",
         "url": "https://open.spotify.com/album/5GimHqufYnL4RwURn1kiMB"
       },
@@ -1711,6 +1695,22 @@
       "duration_ms": 120558,
       "name": "How To Love",
       "url": "https://open.spotify.com/track/1IC9zHtLv9Kmsqnsj4RLsB"
+    },
+    {
+      "added_at": "2023-07-28 04:02:00",
+      "album": {
+        "name": "Smile",
+        "url": "https://open.spotify.com/album/0i2YjFJvFKKBD05cA0Omar"
+      },
+      "artists": [
+        {
+          "name": "Sarah Hawkyard",
+          "url": "https://open.spotify.com/artist/3CgmDph153yB1nP3meLZkr"
+        }
+      ],
+      "duration_ms": 219782,
+      "name": "Smile",
+      "url": "https://open.spotify.com/track/0w5nj3eNbOWsvbKpzbuVju"
     }
   ],
   "unique_name": "The Good Cup",

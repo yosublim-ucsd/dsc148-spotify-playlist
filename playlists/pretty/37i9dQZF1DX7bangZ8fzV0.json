@@ -1,29 +1,13 @@
 {
-  "description": "Net die beste Afrikaanse musiek. Omslag: <a href=\"https://open.spotify.com/artist/2c2ibERmshNT2uvFBiRDWD?si=Cri33jcQSpi3WKsUmfMSBQ\">Bobby Van Jaarsveld</a>  ",
-  "num_followers": 97883,
+  "description": "Net die beste Afrikaanse musiek. Omslag: <a href=\"https://open.spotify.com/artist/6z6IhChBKFpFOXq4HG3vxw?si=iU6K0kPMRe6bH3w2m9xqHw\">Annelie</a>  ",
+  "num_followers": 97977,
   "original_name": "Afrikaanse Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyMzM1ODA4MjBkMzFiYTI3OTkwZmNkMmE1MjU4N2QzODllNjdhNGFh",
+  "snapshot_id": "MCxmZDIxMGJiN2I0YTBlMjY0YjQ2NzQ2NjRiZjQzNzBlNjIwYTc3MWEw",
   "tracks": [
-    {
-      "added_at": "2024-03-14 21:52:39",
-      "album": {
-        "name": "Verlore Seun",
-        "url": "https://open.spotify.com/album/1UlKXQZv6hCIyfVbhAca5W"
-      },
-      "artists": [
-        {
-          "name": "Bobby Van Jaarsveld",
-          "url": "https://open.spotify.com/artist/2c2ibERmshNT2uvFBiRDWD"
-        }
-      ],
-      "duration_ms": 203834,
-      "name": "Verlore Seun",
-      "url": "https://open.spotify.com/track/14FXSq2GesUVBYb9A7BPaI"
-    },
     {
       "added_at": "2024-02-15 22:00:00",
       "album": {
@@ -43,22 +27,6 @@
     {
       "added_at": "2024-02-15 22:00:00",
       "album": {
-        "name": "Helemal",
-        "url": "https://open.spotify.com/album/4bLIjuCO7RnAD6HrB1aAKR"
-      },
-      "artists": [
-        {
-          "name": "Chris Steyn",
-          "url": "https://open.spotify.com/artist/1sm5dkYgmAby2vtl4Syc0q"
-        }
-      ],
-      "duration_ms": 227999,
-      "name": "Helemal",
-      "url": "https://open.spotify.com/track/1zbUPXvrhPgjuO5ZFvN75z"
-    },
-    {
-      "added_at": "2024-02-15 22:00:00",
-      "album": {
         "name": "Vlerke",
         "url": "https://open.spotify.com/album/5Yeu5EytHPQCY4TLVg1KcR"
       },
@@ -71,6 +39,22 @@
       "duration_ms": 192567,
       "name": "Vlerke",
       "url": "https://open.spotify.com/track/2xjZHjB3Vi6x8MlRQqL1AT"
+    },
+    {
+      "added_at": "2024-03-07 22:00:00",
+      "album": {
+        "name": "Enkelvoud",
+        "url": "https://open.spotify.com/album/33rz8yr1CSdOc7PLj6Gf1L"
+      },
+      "artists": [
+        {
+          "name": "Annelie",
+          "url": "https://open.spotify.com/artist/6z6IhChBKFpFOXq4HG3vxw"
+        }
+      ],
+      "duration_ms": 215437,
+      "name": "Enkelvoud",
+      "url": "https://open.spotify.com/track/2JifH8GkXc1MrJC8WouZSK"
     },
     {
       "added_at": "2024-02-15 22:00:00",
@@ -87,6 +71,22 @@
       "duration_ms": 200347,
       "name": "Hart Breek",
       "url": "https://open.spotify.com/track/58U4cZWldyeSO9PzX9Fbso"
+    },
+    {
+      "added_at": "2024-02-15 22:00:00",
+      "album": {
+        "name": "Helemal",
+        "url": "https://open.spotify.com/album/4bLIjuCO7RnAD6HrB1aAKR"
+      },
+      "artists": [
+        {
+          "name": "Chris Steyn",
+          "url": "https://open.spotify.com/artist/1sm5dkYgmAby2vtl4Syc0q"
+        }
+      ],
+      "duration_ms": 227999,
+      "name": "Helemal",
+      "url": "https://open.spotify.com/track/1zbUPXvrhPgjuO5ZFvN75z"
     },
     {
       "added_at": "2024-02-15 22:00:00",
@@ -205,68 +205,20 @@
       "url": "https://open.spotify.com/track/64tRSmtHGKaCuoO1BljWKk"
     },
     {
-      "added_at": "2024-03-07 22:00:00",
+      "added_at": "2024-03-21 22:00:00",
       "album": {
-        "name": "Enkelvoud",
-        "url": "https://open.spotify.com/album/33rz8yr1CSdOc7PLj6Gf1L"
+        "name": "Hanrie Visagie",
+        "url": "https://open.spotify.com/album/6EBJSVUfHtsBvtUHgzgThc"
       },
       "artists": [
         {
-          "name": "Annelie",
-          "url": "https://open.spotify.com/artist/6z6IhChBKFpFOXq4HG3vxw"
+          "name": "Werner Van Der Hoven",
+          "url": "https://open.spotify.com/artist/1z3Cykt3bMtNbrY9SPGSI2"
         }
       ],
-      "duration_ms": 215437,
-      "name": "Enkelvoud",
-      "url": "https://open.spotify.com/track/2JifH8GkXc1MrJC8WouZSK"
-    },
-    {
-      "added_at": "2024-02-15 22:00:00",
-      "album": {
-        "name": "Insomnia",
-        "url": "https://open.spotify.com/album/0b8YXBab3WjJJWimv8HgBB"
-      },
-      "artists": [
-        {
-          "name": "Brendan Peyper",
-          "url": "https://open.spotify.com/artist/4K2VQvyBnfU7La65rShI0v"
-        }
-      ],
-      "duration_ms": 191303,
-      "name": "Toer Om Die Vloer",
-      "url": "https://open.spotify.com/track/5oMumOpP2Bavh3JyjbOqP5"
-    },
-    {
-      "added_at": "2024-02-15 22:00:00",
-      "album": {
-        "name": "Impulsief",
-        "url": "https://open.spotify.com/album/7bLPdsKXCDH8CSCSFgAN5L"
-      },
-      "artists": [
-        {
-          "name": "Barto",
-          "url": "https://open.spotify.com/artist/4gzfjw2nlFFo1tda8jgJbG"
-        }
-      ],
-      "duration_ms": 183317,
-      "name": "Impulsief",
-      "url": "https://open.spotify.com/track/3AN96mijpWgIeUEJpvCNaO"
-    },
-    {
-      "added_at": "2024-02-15 22:00:00",
-      "album": {
-        "name": "Dis Raak",
-        "url": "https://open.spotify.com/album/6dLkeTp5fa8hwL8GXVqpa1"
-      },
-      "artists": [
-        {
-          "name": "Bok Van Blerk",
-          "url": "https://open.spotify.com/artist/0vevzNDJEuDySBGxIPWcHZ"
-        }
-      ],
-      "duration_ms": 213214,
-      "name": "Dis Raak",
-      "url": "https://open.spotify.com/track/4lXuqZUIkJ66ViPHOFN86v"
+      "duration_ms": 158115,
+      "name": "Hanrie Visagie",
+      "url": "https://open.spotify.com/track/5XzRG1HP6iVtI9hfyInhRN"
     },
     {
       "added_at": "2024-02-15 22:00:00",
@@ -287,6 +239,54 @@
     {
       "added_at": "2024-02-15 22:00:00",
       "album": {
+        "name": "Insomnia",
+        "url": "https://open.spotify.com/album/0b8YXBab3WjJJWimv8HgBB"
+      },
+      "artists": [
+        {
+          "name": "Brendan Peyper",
+          "url": "https://open.spotify.com/artist/4K2VQvyBnfU7La65rShI0v"
+        }
+      ],
+      "duration_ms": 191303,
+      "name": "Toer Om Die Vloer",
+      "url": "https://open.spotify.com/track/5oMumOpP2Bavh3JyjbOqP5"
+    },
+    {
+      "added_at": "2024-03-14 21:52:39",
+      "album": {
+        "name": "Verlore Seun",
+        "url": "https://open.spotify.com/album/1UlKXQZv6hCIyfVbhAca5W"
+      },
+      "artists": [
+        {
+          "name": "Bobby Van Jaarsveld",
+          "url": "https://open.spotify.com/artist/2c2ibERmshNT2uvFBiRDWD"
+        }
+      ],
+      "duration_ms": 203834,
+      "name": "Verlore Seun",
+      "url": "https://open.spotify.com/track/14FXSq2GesUVBYb9A7BPaI"
+    },
+    {
+      "added_at": "2024-02-15 22:00:00",
+      "album": {
+        "name": "Dis Raak",
+        "url": "https://open.spotify.com/album/6dLkeTp5fa8hwL8GXVqpa1"
+      },
+      "artists": [
+        {
+          "name": "Bok Van Blerk",
+          "url": "https://open.spotify.com/artist/0vevzNDJEuDySBGxIPWcHZ"
+        }
+      ],
+      "duration_ms": 213214,
+      "name": "Dis Raak",
+      "url": "https://open.spotify.com/track/4lXuqZUIkJ66ViPHOFN86v"
+    },
+    {
+      "added_at": "2024-02-15 22:00:00",
+      "album": {
         "name": "Foute",
         "url": "https://open.spotify.com/album/0JWQvljztDBVPOUmpqW07l"
       },
@@ -299,6 +299,22 @@
       "duration_ms": 202917,
       "name": "Foute",
       "url": "https://open.spotify.com/track/6K6L2DgKgeREDJ8c0HxLZI"
+    },
+    {
+      "added_at": "2024-02-15 22:00:00",
+      "album": {
+        "name": "Impulsief",
+        "url": "https://open.spotify.com/album/7bLPdsKXCDH8CSCSFgAN5L"
+      },
+      "artists": [
+        {
+          "name": "Barto",
+          "url": "https://open.spotify.com/artist/4gzfjw2nlFFo1tda8jgJbG"
+        }
+      ],
+      "duration_ms": 183317,
+      "name": "Impulsief",
+      "url": "https://open.spotify.com/track/3AN96mijpWgIeUEJpvCNaO"
     },
     {
       "added_at": "2024-02-29 22:00:00",
@@ -1119,22 +1135,6 @@
       "duration_ms": 181250,
       "name": "Als Is Okay",
       "url": "https://open.spotify.com/track/4qgi2zxMxeVoBJ2QT7abuE"
-    },
-    {
-      "added_at": "2024-02-15 22:00:00",
-      "album": {
-        "name": "Lieflik",
-        "url": "https://open.spotify.com/album/2Kxe1GVz73wuCwLhWFaUB8"
-      },
-      "artists": [
-        {
-          "name": "Elandr\u00e9",
-          "url": "https://open.spotify.com/artist/3Gg20zbz8OVW3iahm8uoYo"
-        }
-      ],
-      "duration_ms": 244551,
-      "name": "Lieflik",
-      "url": "https://open.spotify.com/track/1owgvsRPtQKcYVJLzpJUpb"
     },
     {
       "added_at": "2024-02-15 22:00:00",

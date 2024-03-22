@@ -1131,6 +1131,24 @@
     },
     {
       "album": {
+        "name": "Diane",
+        "url": "https://open.spotify.com/album/1zgQOxwQDbhVtKUEDauTh5"
+      },
+      "artists": [
+        {
+          "name": "Andy Luma Trio",
+          "url": "https://open.spotify.com/artist/3vnHJt1VixhKHJ0b8IhwIy"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168856,
+      "name": "Diane",
+      "url": "https://open.spotify.com/track/10s0TdcywLHgyZQlVvwxVe"
+    },
+    {
+      "album": {
         "name": "Did you dream too",
         "url": "https://open.spotify.com/album/4vQT9zQ6BUEuQLWACzWzhg"
       },
@@ -1437,6 +1455,24 @@
     },
     {
       "album": {
+        "name": "Epoxy",
+        "url": "https://open.spotify.com/album/2zfXczQ2QKFX2eRj5Ooxw4"
+      },
+      "artists": [
+        {
+          "name": "Tim Franks Trio",
+          "url": "https://open.spotify.com/artist/6tFpLOLeaW3EmB3r8VEMok"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148798,
+      "name": "Epoxy",
+      "url": "https://open.spotify.com/track/7EVHmaMYdis2boz4EjuXLO"
+    },
+    {
+      "album": {
         "name": "Everybody Knew",
         "url": "https://open.spotify.com/album/64IM7XMUoAS8owtJzMUxIB"
       },
@@ -1712,6 +1748,24 @@
       "duration_ms": 136213,
       "name": "Footprints of Your Memory",
       "url": "https://open.spotify.com/track/1l05veu7QVCsFgY4JhHAPU"
+    },
+    {
+      "album": {
+        "name": "For A Few Moments",
+        "url": "https://open.spotify.com/album/7nIdnKKZSTzvwnCx4qAq9A"
+      },
+      "artists": [
+        {
+          "name": "Ben Lively",
+          "url": "https://open.spotify.com/artist/4v25mHy55qBXJ4WZg3O7UV"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208224,
+      "name": "For A Few Moments",
+      "url": "https://open.spotify.com/track/2tPzgXWut2hoMjVSSb7tco"
     },
     {
       "album": {
@@ -2219,6 +2273,24 @@
     },
     {
       "album": {
+        "name": "I Stood Still",
+        "url": "https://open.spotify.com/album/1ciTOMP7iP3ejgjQ2JwiKQ"
+      },
+      "artists": [
+        {
+          "name": "Sean Murphy",
+          "url": "https://open.spotify.com/artist/3tYPwi8YXV9PTnt445WJKq"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222624,
+      "name": "I Stood Still",
+      "url": "https://open.spotify.com/track/7kAYSiFSouo7SLXSAa6CqC"
+    },
+    {
+      "album": {
         "name": "I Thought About You",
         "url": "https://open.spotify.com/album/7B8lEaNZh5wxZythOv3tXL"
       },
@@ -2414,6 +2486,24 @@
       "duration_ms": 166595,
       "name": "If You Want To",
       "url": "https://open.spotify.com/track/0eN3rOpAbesvVrti6C9dFj"
+    },
+    {
+      "album": {
+        "name": "If You Wish For My Despair",
+        "url": "https://open.spotify.com/album/6hReiK0uR1ViuSqoebtpIz"
+      },
+      "artists": [
+        {
+          "name": "Original Three",
+          "url": "https://open.spotify.com/artist/0Zi9ASlerELD4nnDLV7wv3"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213255,
+      "name": "If You Wish For My Despair",
+      "url": "https://open.spotify.com/track/4g5RlJIzRKzXssWAQ2UVKc"
     },
     {
       "album": {
@@ -4939,6 +5029,24 @@
     },
     {
       "album": {
+        "name": "Swaying Shadows",
+        "url": "https://open.spotify.com/album/0td3uSBMDcvtSI4XEonj6L"
+      },
+      "artists": [
+        {
+          "name": "Norberg",
+          "url": "https://open.spotify.com/artist/4clALHmaxBpsJ0aWHb3Rdy"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200937,
+      "name": "Swaying Shadows",
+      "url": "https://open.spotify.com/track/53MQJJpDsIE0QV6y6Mv2mc"
+    },
+    {
+      "album": {
         "name": "Take Your Time",
         "url": "https://open.spotify.com/album/5qve7y23g4aLXc7ePaJPAN"
       },
@@ -5134,7 +5242,7 @@
       ],
       "date_added": "2023-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-22",
       "duration_ms": 203030,
       "name": "The Beat Of A Different Drum",
       "url": "https://open.spotify.com/track/67ljrdF7u8X2xbj4zgkPDQ"

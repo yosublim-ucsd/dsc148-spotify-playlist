@@ -1,12 +1,12 @@
 {
   "description": "Rise with a relaxing blend of folk and acoustic.",
-  "num_followers": 1184341,
+  "num_followers": 1184324,
   "original_name": "Morning Acoustic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2NmVmZjg1ZTA4ZTdiOTZmMTI4Zjg5OTE3NjRjZDAyMTFhMzZmNDdl",
+  "snapshot_id": "MCwxNGRjYjMzYmI5ODlhNDBjZmM2ZTkyNmJmYzZkYjRlMzg5NThkYjli",
   "tracks": [
     {
       "added_at": "2023-10-27 04:00:00",
@@ -797,22 +797,6 @@
       "url": "https://open.spotify.com/track/4LEdX9NFK0tVB5anrAIi1q"
     },
     {
-      "added_at": "2023-11-17 05:00:00",
-      "album": {
-        "name": "Find Our Way",
-        "url": "https://open.spotify.com/album/28MsBuhgOd6FMJvf8N3glq"
-      },
-      "artists": [
-        {
-          "name": "Salt Tree",
-          "url": "https://open.spotify.com/artist/4xNez1q78QXUBq6zvKuNrU"
-        }
-      ],
-      "duration_ms": 211145,
-      "name": "Find Our Way",
-      "url": "https://open.spotify.com/track/2OLab4G373tu39KBrJ50sg"
-    },
-    {
       "added_at": "2023-10-27 04:00:00",
       "album": {
         "name": "Jade Bird",
@@ -827,6 +811,22 @@
       "duration_ms": 207936,
       "name": "Does Anybody Know",
       "url": "https://open.spotify.com/track/1YAgRoxeqVip0wIjurbJ3P"
+    },
+    {
+      "added_at": "2023-11-17 05:00:00",
+      "album": {
+        "name": "Find Our Way",
+        "url": "https://open.spotify.com/album/28MsBuhgOd6FMJvf8N3glq"
+      },
+      "artists": [
+        {
+          "name": "Salt Tree",
+          "url": "https://open.spotify.com/artist/4xNez1q78QXUBq6zvKuNrU"
+        }
+      ],
+      "duration_ms": 211145,
+      "name": "Find Our Way",
+      "url": "https://open.spotify.com/track/2OLab4G373tu39KBrJ50sg"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -939,6 +939,22 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
+        "name": "Stolen",
+        "url": "https://open.spotify.com/album/5z547vNPv9ce16zYQINMAD"
+      },
+      "artists": [
+        {
+          "name": "Lotte Kestner",
+          "url": "https://open.spotify.com/artist/0LmmhAkoebSsbFfgCybcGI"
+        }
+      ],
+      "duration_ms": 282438,
+      "name": "True Faith",
+      "url": "https://open.spotify.com/track/6BUJtgTJT9YTDkiB81maFQ"
+    },
+    {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
         "name": "Cerulean",
         "url": "https://open.spotify.com/album/6ItTL1YLeVn87SfJscm1KW"
       },
@@ -955,22 +971,6 @@
       "duration_ms": 240787,
       "name": "Consolation Prize",
       "url": "https://open.spotify.com/track/3QeznxbfXEQAy7BnYAqjGN"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
-        "name": "Stolen",
-        "url": "https://open.spotify.com/album/5z547vNPv9ce16zYQINMAD"
-      },
-      "artists": [
-        {
-          "name": "Lotte Kestner",
-          "url": "https://open.spotify.com/artist/0LmmhAkoebSsbFfgCybcGI"
-        }
-      ],
-      "duration_ms": 282438,
-      "name": "True Faith",
-      "url": "https://open.spotify.com/track/6BUJtgTJT9YTDkiB81maFQ"
     },
     {
       "added_at": "2023-10-27 04:00:00",

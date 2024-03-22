@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFIRh12Xeaf6a.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3svMrp8RwsOrJ2NaPbK3x9">Carole King</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,656 likes - 272 songs - 14 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,657 likes - 272 songs - 14 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFIRh12Xeaf6a.md) - [plain]
 | 28 | [Take a Giant Step \- 1969 Version](https://open.spotify.com/track/6Nf71UnBJ89Y36vn0PwY8D) | [Taj Mahal](https://open.spotify.com/artist/1aTDTChWWyiJH3SEnYrdVp) | [Giant Steps/De Old Folks At Home](https://open.spotify.com/album/2K4jHu8XV4HrgWlmOGwJty) | 4:15 |
 | 29 | [Been to Canaan](https://open.spotify.com/track/3fOJ99F9vgXuY0sBSf3PsG) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Rhymes & Reasons](https://open.spotify.com/album/3kUmJfZkReqIb3ZqB4Q4kv) | 3:38 |
 | 30 | [Porpoise Song](https://open.spotify.com/track/02tiurLpJcKS0aFVsyvKz3) | [The Monkees](https://open.spotify.com/artist/320EPCSEezHt1rtbfwH6Ck) | [Head](https://open.spotify.com/album/3xru9aQ0OwyBa4JxfziloH) | 2:40 |
-| 31 | [He Hit Me](https://open.spotify.com/track/2W04ifQB9DPaUMTP47ADnW) | [Grizzly Bear](https://open.spotify.com/artist/2Jv5eshHtLycR6R8KQCdc4) | [Friend](https://open.spotify.com/album/6V6UlLYj4jp7eaFCsmPY3s) | 4:23 |
-| 32 | [Don't Bring Me Down \(Bonus Track\)](https://open.spotify.com/track/15ZTgm66bORwVxRQySgMkN) | [The Animals](https://open.spotify.com/artist/3ICflSq6ZgYAIrm2CTkfVP) | [Animalisms](https://open.spotify.com/album/5owTdQnJSxKgLgnz8ZgFmc) | 3:16 |
+| 31 | [Don't Bring Me Down \(Bonus Track\)](https://open.spotify.com/track/15ZTgm66bORwVxRQySgMkN) | [The Animals](https://open.spotify.com/artist/3ICflSq6ZgYAIrm2CTkfVP) | [Animalisms](https://open.spotify.com/album/5owTdQnJSxKgLgnz8ZgFmc) | 3:16 |
+| 32 | [He Hit Me](https://open.spotify.com/track/2W04ifQB9DPaUMTP47ADnW) | [Grizzly Bear](https://open.spotify.com/artist/2Jv5eshHtLycR6R8KQCdc4) | [Friend](https://open.spotify.com/album/6V6UlLYj4jp7eaFCsmPY3s) | 4:23 |
 | 33 | [Hard Rock Café](https://open.spotify.com/track/5oLObQcGpeEjrOHpPY80F5) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Simple Things](https://open.spotify.com/album/5AJ4tMUKB5WOvIITI8JAZJ) | 3:43 |
 | 34 | [No Easy Way Down](https://open.spotify.com/track/3iJYyYkOzpYdfleBqfoYEG) | [Na Allen](https://open.spotify.com/artist/0iKnncJJIq8jxp0gN0B8gN) | [No Easy Way Down: Rare Soul Sides](https://open.spotify.com/album/7r3dGwgZLV10X7iBTg4kwa) | 2:53 |
 | 35 | [Some of Your Lovin'](https://open.spotify.com/track/6pIoczFbC1QaQACeUfwTdb) | [Phil Collins](https://open.spotify.com/artist/4lxfqrEsLX6N1N4OCSkILp) | [Going Back \(2010\)](https://open.spotify.com/album/51YI8SD0GBp3c7cavCD6Zr) | 3:20 |
@@ -214,8 +214,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFIRh12Xeaf6a.md) - [plain]
 | 204 | [To Know That I Love You](https://open.spotify.com/track/2lNcjEw3KBhKQbM2RkI9Bj) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Simple Things](https://open.spotify.com/album/5AJ4tMUKB5WOvIITI8JAZJ) | 3:31 |
 | 205 | [We All Have To Be Alone](https://open.spotify.com/track/07cJZxqp8FVk1inmeDvR3r) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Thoroughbred](https://open.spotify.com/album/6n61GdcPqMQRkKYii9am8K) | 3:44 |
 | 206 | [Passing of the Days](https://open.spotify.com/track/4XQhy7sba25JLSSqp5Eqfg) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Touch the Sky](https://open.spotify.com/album/4zWaxKSpJTVw8J6qsRi4es) | 2:52 |
-| 207 | [Labyrinth](https://open.spotify.com/track/0oPJAmXNC5IkH2XLz82yEe) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Simple Things](https://open.spotify.com/album/5AJ4tMUKB5WOvIITI8JAZJ) | 4:03 |
-| 208 | [You're the One Who Knows](https://open.spotify.com/track/4MNVESzvFaJLNrFYVm4xRG) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Simple Things](https://open.spotify.com/album/5AJ4tMUKB5WOvIITI8JAZJ) | 5:06 |
+| 207 | [You're the One Who Knows](https://open.spotify.com/track/4MNVESzvFaJLNrFYVm4xRG) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Simple Things](https://open.spotify.com/album/5AJ4tMUKB5WOvIITI8JAZJ) | 5:06 |
+| 208 | [Labyrinth](https://open.spotify.com/track/0oPJAmXNC5IkH2XLz82yEe) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Simple Things](https://open.spotify.com/album/5AJ4tMUKB5WOvIITI8JAZJ) | 4:03 |
 | 209 | [Sweet Adonis](https://open.spotify.com/track/73vUP8IfRHcUjJVrgRHpg7) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Wrap Around Joy](https://open.spotify.com/album/0u0ehiEE6XSZcWScJ9hVtz) | 3:21 |
 | 210 | [Good Mountain People](https://open.spotify.com/track/7oFn8J65n3wwrALSVXpDEE) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Touch the Sky](https://open.spotify.com/album/4zWaxKSpJTVw8J6qsRi4es) | 3:38 |
 | 211 | [What You Got](https://open.spotify.com/track/5gyLF357QUyVIieHVOUSZZ) | [The Eccentrics](https://open.spotify.com/artist/7F6gDxFKnVK72FHRjrkcDK) | [Underground '60s British Invasion](https://open.spotify.com/album/0ldeG4UddBTw67CvKzJAwb) | 2:56 |
@@ -281,4 +281,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFIRh12Xeaf6a.md) - [plain]
 | 271 | [He Who Laughs Last](https://open.spotify.com/track/0CHCBayT9d8c5VJFY8Rfhn) | [Freda Payne](https://open.spotify.com/artist/0701Axu6yvUIoctaKMbDIZ) | [That's a Pretty Good Love](https://open.spotify.com/album/1rYVaZD5cDiOyQhpDD7mjV) | 2:06 |
 | 272 | [So This Is How It Feels](https://open.spotify.com/track/67wjnFeLF2bsZbhDAf85wg) | [The Countrymen](https://open.spotify.com/artist/0C62w20FpxpOHiWM9UCObQ) | [One Fine Day: The Songs of Goffin & King](https://open.spotify.com/album/0j2kaxs6fKFcFYiCJ7uE96) | 1:49 |
 
-Snapshot ID: `Mjg1MTY0NTAsMDAwMDAwMDA2NmQ5OGNkYzk3NmI5MDE3MmE5ZWU1ODk5ZTNkNmNiZg==`
+Snapshot ID: `Mjg1MTc4OTAsMDAwMDAwMDBlNDhkZGJiMWIxMDMyZWYyZjE3MTRkY2Q3ODM3N2NjYg==`

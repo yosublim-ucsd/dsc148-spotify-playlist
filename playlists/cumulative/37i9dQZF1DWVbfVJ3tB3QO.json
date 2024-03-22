@@ -5,6 +5,24 @@
   "tracks": [
     {
       "album": {
+        "name": "5",
+        "url": "https://open.spotify.com/album/1lh2D2mZhuhZvsKOv4ZF3F"
+      },
+      "artists": [
+        {
+          "name": "Apparel Wax",
+          "url": "https://open.spotify.com/artist/2nlNttZvT9FlaPBIP1H4Io"
+        }
+      ],
+      "date_added": "2024-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 347186,
+      "name": "005A1",
+      "url": "https://open.spotify.com/track/041RKnQpbVpDuSRtg231un"
+    },
+    {
+      "album": {
         "name": "Whities 006",
         "url": "https://open.spotify.com/album/6iJsZxEcDZ7h1X4AYFjfXP"
       },
@@ -56,7 +74,7 @@
       ],
       "date_added": "2023-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-22",
       "duration_ms": 395173,
       "name": "Afrocatalans (Ian Carey Remix)",
       "url": "https://open.spotify.com/track/5ECeflWyfzZg0AAzCpiozH"
@@ -161,6 +179,24 @@
     },
     {
       "album": {
+        "name": "Care 4 U",
+        "url": "https://open.spotify.com/album/42UbW8NCTXppa42NEgAuPE"
+      },
+      "artists": [
+        {
+          "name": "Sam Alfred",
+          "url": "https://open.spotify.com/artist/4PVzoVUDxey3mxGdkf4HgR"
+        }
+      ],
+      "date_added": "2024-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273934,
+      "name": "Care 4 U",
+      "url": "https://open.spotify.com/track/5qnR7addSkFe7TXDV2PDry"
+    },
+    {
+      "album": {
         "name": "Charade (Dick Johnson Remix)",
         "url": "https://open.spotify.com/album/6Zkp96aoHOId6LBZjyDbjc"
       },
@@ -176,7 +212,7 @@
       ],
       "date_added": "2023-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-22",
       "duration_ms": 368000,
       "name": "Charade - Dick Johnson Remix",
       "url": "https://open.spotify.com/track/4lhXFwSLXY5yYgyluYmwUe"
@@ -198,6 +234,54 @@
       "duration_ms": 374124,
       "name": "Chipko Chipko",
       "url": "https://open.spotify.com/track/6F5PnnsCwLp8WFvqBSxe7t"
+    },
+    {
+      "album": {
+        "name": "D.J.'s Delight (Mark Knight & Michael Gray Remix)",
+        "url": "https://open.spotify.com/album/0EVYVQuVGP25cR4TxR4WK5"
+      },
+      "artists": [
+        {
+          "name": "Ingram",
+          "url": "https://open.spotify.com/artist/4wKxcGIfyMyTAucXYUHzGw"
+        },
+        {
+          "name": "Mark Knight",
+          "url": "https://open.spotify.com/artist/3h11MHQeCrcsUgRRijI1zL"
+        },
+        {
+          "name": "Michael Gray",
+          "url": "https://open.spotify.com/artist/2aM5jpQ0WTcQDeHsil8Ihz"
+        }
+      ],
+      "date_added": "2024-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 354959,
+      "name": "D.J.'s Delight - Mark Knight & Michael Gray Extended",
+      "url": "https://open.spotify.com/track/2QAcZsBCy2BTDAP1KTXNwL"
+    },
+    {
+      "album": {
+        "name": "Dama s Salon",
+        "url": "https://open.spotify.com/album/1CgCapyceupw6uoIrk3fXM"
+      },
+      "artists": [
+        {
+          "name": "DJ Gregory",
+          "url": "https://open.spotify.com/artist/08P7D5oQ3HUmQ0Gjbw6nzR"
+        },
+        {
+          "name": "Sidney Samson",
+          "url": "https://open.spotify.com/artist/3XonXgjEAAXVl0WKLF1Z4g"
+        }
+      ],
+      "date_added": "2024-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 383027,
+      "name": "Dama s Salon - Main Mix",
+      "url": "https://open.spotify.com/track/0AGoXq0EqhndctR4vuOzcU"
     },
     {
       "album": {
@@ -234,7 +318,7 @@
       ],
       "date_added": "2023-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-22",
       "duration_ms": 418421,
       "name": "Dip & Flip - Kassian Remix",
       "url": "https://open.spotify.com/track/7slQ0udsU3S1Ey3qhLCAxu"
@@ -277,6 +361,42 @@
     },
     {
       "album": {
+        "name": "Doing My Own Thing - Single",
+        "url": "https://open.spotify.com/album/5tgyl9Ftt1GdCgRcX7ICEF"
+      },
+      "artists": [
+        {
+          "name": "Kid Cr\u00e8me",
+          "url": "https://open.spotify.com/artist/21LRoheW1z49N5d52wlQ5X"
+        }
+      ],
+      "date_added": "2024-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 643626,
+      "name": "Doing My Own Thing (Dub)",
+      "url": "https://open.spotify.com/track/2vBerSLtw46gRZonsaCmZp"
+    },
+    {
+      "album": {
+        "name": "Fuquza (Dance)",
+        "url": "https://open.spotify.com/album/7jmF77JhfDH8ZFhCHkrK3L"
+      },
+      "artists": [
+        {
+          "name": "Senyaka",
+          "url": "https://open.spotify.com/artist/0JI5oyvW4ozJsb2Q5VSeNn"
+        }
+      ],
+      "date_added": "2024-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188960,
+      "name": "Don't Judge Me Bad",
+      "url": "https://open.spotify.com/track/1sDhwmVtcgh0kWjyPRvSIn"
+    },
+    {
+      "album": {
         "name": "Chapter Four Edits",
         "url": "https://open.spotify.com/album/2hA0WWK54BvOtBVuFsb3ki"
       },
@@ -288,7 +408,7 @@
       ],
       "date_added": "2023-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-22",
       "duration_ms": 308160,
       "name": "Emmanuel's Groove",
       "url": "https://open.spotify.com/track/6e1id4vHQHd57s9PYYlUse"
@@ -350,7 +470,7 @@
       ],
       "date_added": "2023-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-22",
       "duration_ms": 451399,
       "name": "Feel So Right (feat. Honey Dijon) - Tedd Patterson Club Remix",
       "url": "https://open.spotify.com/track/7KXffqm96xKypV3iYRxAZ3"
@@ -393,6 +513,46 @@
     },
     {
       "album": {
+        "name": "Sunrise - Single",
+        "url": "https://open.spotify.com/album/4HSK7ZyYzt4PV4HHb269tp"
+      },
+      "artists": [
+        {
+          "name": "Sedat The Turkish Avenger",
+          "url": "https://open.spotify.com/artist/7z03fFS6IEEPLlNayMNGBi"
+        }
+      ],
+      "date_added": "2024-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 483213,
+      "name": "Genesis",
+      "url": "https://open.spotify.com/track/5MS5XOLSCocqiAzkYvis4h"
+    },
+    {
+      "album": {
+        "name": "Get Up (It Doesn\u2019t Matter)",
+        "url": "https://open.spotify.com/album/1tjfXay9CKnCq5bcE6vaJq"
+      },
+      "artists": [
+        {
+          "name": "Antoine Clamaran",
+          "url": "https://open.spotify.com/artist/2LTa2TleomBhi05k8khxCF"
+        },
+        {
+          "name": "D-Plac",
+          "url": "https://open.spotify.com/artist/7CJ8qKVwbch7LYnByT6RoB"
+        }
+      ],
+      "date_added": "2024-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 551613,
+      "name": "Get Up (It Doesn't Matter) - Antoine Clamaran's Remix",
+      "url": "https://open.spotify.com/track/5WMQJVK3PvmmYnkErZJZYf"
+    },
+    {
+      "album": {
         "name": "Ghetto Style (Eddie Matos presents)",
         "url": "https://open.spotify.com/album/2iusodAmaFwDu9MrBzviUB"
       },
@@ -426,7 +586,7 @@
       ],
       "date_added": "2023-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-22",
       "duration_ms": 469452,
       "name": "Give It Up - Hands in the Air Mix",
       "url": "https://open.spotify.com/track/5FIKZerfcfDnNtSOL15BIW"
@@ -448,6 +608,28 @@
       "duration_ms": 294349,
       "name": "Glut",
       "url": "https://open.spotify.com/track/1iH3H6Ul2GbMLDsYoqunnU"
+    },
+    {
+      "album": {
+        "name": "Got Funk? (Remixes)",
+        "url": "https://open.spotify.com/album/2IjI7hCpz3mqb7cAG9gxL2"
+      },
+      "artists": [
+        {
+          "name": "The Funk Junkeez",
+          "url": "https://open.spotify.com/artist/05kTQpfjC10P9CWQbyJay3"
+        },
+        {
+          "name": "DJ Tonka",
+          "url": "https://open.spotify.com/artist/0s8zZnjADp3VDjGiBpQ0yx"
+        }
+      ],
+      "date_added": "2024-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 364348,
+      "name": "Got Funk? (DJ Tonka Mix)",
+      "url": "https://open.spotify.com/track/5GcIIxcl9E7RbMMZ920Sat"
     },
     {
       "album": {
@@ -488,6 +670,42 @@
       "duration_ms": 450706,
       "name": "Green Gold",
       "url": "https://open.spotify.com/track/5SbpPSeNIXa4Fej0gWYyB6"
+    },
+    {
+      "album": {
+        "name": "You Are Bound By Nothing EP",
+        "url": "https://open.spotify.com/album/0gwxENU8ewEcFCw3CQYtj8"
+      },
+      "artists": [
+        {
+          "name": "Dukwa",
+          "url": "https://open.spotify.com/artist/7foiHDFvNIouC0QFaaKXeq"
+        }
+      ],
+      "date_added": "2024-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 418475,
+      "name": "Hidden Secret",
+      "url": "https://open.spotify.com/track/5d1cpT8G6Otk0zr2GYM6vm"
+    },
+    {
+      "album": {
+        "name": "The Uninvited Guest",
+        "url": "https://open.spotify.com/album/4NAHKlVJYU69RYnw2U5KLS"
+      },
+      "artists": [
+        {
+          "name": "Siriusmo",
+          "url": "https://open.spotify.com/artist/22680B8sUdq6bL6nQaJfwg"
+        }
+      ],
+      "date_added": "2024-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223758,
+      "name": "High Together",
+      "url": "https://open.spotify.com/track/5yp9eVhPQBMfAiNrf66THM"
     },
     {
       "album": {
@@ -538,10 +756,32 @@
       ],
       "date_added": "2023-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-22",
       "duration_ms": 449147,
       "name": "I Feel For You - Morillo Re-Edit",
       "url": "https://open.spotify.com/track/5xBx03HSNJwp30r1R0LecS"
+    },
+    {
+      "album": {
+        "name": "I Want You",
+        "url": "https://open.spotify.com/album/3Dh81kJfGeinI3r7YMNX3E"
+      },
+      "artists": [
+        {
+          "name": "Butch",
+          "url": "https://open.spotify.com/artist/5kLzaeSHrmS7okc5XNE6lv"
+        },
+        {
+          "name": "Nic Fanciulli",
+          "url": "https://open.spotify.com/artist/7btR5VXutQv39SDEzcfXEk"
+        }
+      ],
+      "date_added": "2024-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 510103,
+      "name": "I Want You - Extended Mix",
+      "url": "https://open.spotify.com/track/0JfPrwsBWNIJDoBwYshnId"
     },
     {
       "album": {
@@ -585,6 +825,36 @@
     },
     {
       "album": {
+        "name": "It's Not Right (Remixes Part I)",
+        "url": "https://open.spotify.com/album/71OezDNd6HxYAB6mthhsUo"
+      },
+      "artists": [
+        {
+          "name": "Gianni Romano",
+          "url": "https://open.spotify.com/artist/3GmVE58jiOKqS4WHGsxzCK"
+        },
+        {
+          "name": "Emanuele Esposito",
+          "url": "https://open.spotify.com/artist/0dnLkdyWw9XCNQhGln0HZU"
+        },
+        {
+          "name": "Helen Tesfazghi",
+          "url": "https://open.spotify.com/artist/71JA6QavKqzsNcJubmgXQT"
+        },
+        {
+          "name": "The Deepshakerz",
+          "url": "https://open.spotify.com/artist/22xFYRBuSniRzAYugJFjvY"
+        }
+      ],
+      "date_added": "2024-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220800,
+      "name": "It's Not Right - The Deepshakerz Edit",
+      "url": "https://open.spotify.com/track/1Yj2uNDyW84GmapJBQa4Nm"
+    },
+    {
+      "album": {
         "name": "Jazzmorphosis",
         "url": "https://open.spotify.com/album/5buZSG4ozvTYEdIjd0suet"
       },
@@ -596,7 +866,7 @@
       ],
       "date_added": "2023-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-22",
       "duration_ms": 288095,
       "name": "Jazzmorphosis - Jazzy Piano Mix",
       "url": "https://open.spotify.com/track/07qRA3FxEciJYbcWkGc6MM"
@@ -710,7 +980,7 @@
       ],
       "date_added": "2023-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-22",
       "duration_ms": 257299,
       "name": "Lone Raver",
       "url": "https://open.spotify.com/track/06r5aMZ8cT6wZXcEyqOLH4"
@@ -808,7 +1078,7 @@
       ],
       "date_added": "2023-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-22",
       "duration_ms": 299054,
       "name": "Main Piano",
       "url": "https://open.spotify.com/track/36D1zWsBOP4P6Z3ynOECCM"
@@ -830,6 +1100,42 @@
       "duration_ms": 252208,
       "name": "Marabelle",
       "url": "https://open.spotify.com/track/5pkCK8nUi4yxwNIVi03FIm"
+    },
+    {
+      "album": {
+        "name": "Remixed-The Pocketnoise EP",
+        "url": "https://open.spotify.com/album/20L7WqMl8EOkpas4dmQqPW"
+      },
+      "artists": [
+        {
+          "name": "Manicured Noise",
+          "url": "https://open.spotify.com/artist/6YpjMvNDAAzZdW8U8NwNgE"
+        }
+      ],
+      "date_added": "2024-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 453013,
+      "name": "Metronome - Cousin Cole Remix 5-2",
+      "url": "https://open.spotify.com/track/1IlladEAY2gAesKLk6lACA"
+    },
+    {
+      "album": {
+        "name": "My Friend Dario",
+        "url": "https://open.spotify.com/album/25E9Ij3KKWjiNIKGbvyQti"
+      },
+      "artists": [
+        {
+          "name": "Vitalic",
+          "url": "https://open.spotify.com/artist/4M84umUNRbZy1mJleyyRM9"
+        }
+      ],
+      "date_added": "2024-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277240,
+      "name": "My Friend Dario - Extended Version",
+      "url": "https://open.spotify.com/track/5snDAIWK0raol1bKwgNnwq"
     },
     {
       "album": {
@@ -917,6 +1223,50 @@
     },
     {
       "album": {
+        "name": "One Sixty",
+        "url": "https://open.spotify.com/album/6WJblwlnlnY9JNMCnu8rcG"
+      },
+      "artists": [
+        {
+          "name": "MPH",
+          "url": "https://open.spotify.com/artist/62SCu33InHVq97VaWw3eof"
+        }
+      ],
+      "date_added": "2024-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229333,
+      "name": "One Sixty",
+      "url": "https://open.spotify.com/track/0ePErw4KttL2LvS4K76Iwz"
+    },
+    {
+      "album": {
+        "name": "Party Tonight (Turbotito & Ragz Rework)",
+        "url": "https://open.spotify.com/album/79tz7hGcjMgRuxcOfYk696"
+      },
+      "artists": [
+        {
+          "name": "Pinky-Ann-Rihal",
+          "url": "https://open.spotify.com/artist/07SkLvQ6OrNQD4xIlGz0sZ"
+        },
+        {
+          "name": "Turbotito",
+          "url": "https://open.spotify.com/artist/7KDd0UFR6IpSRnZmvu1CM5"
+        },
+        {
+          "name": "Ragz",
+          "url": "https://open.spotify.com/artist/4YyUBP46T7GxKP0UfqiTSn"
+        }
+      ],
+      "date_added": "2024-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282711,
+      "name": "Party Tonight - Turbotito & Ragz Rework",
+      "url": "https://open.spotify.com/track/5MT2qGACfDiFs78AYKg83I"
+    },
+    {
+      "album": {
         "name": "Playground",
         "url": "https://open.spotify.com/album/5VSifRv9hr6vVNCNJ8j9lq"
       },
@@ -928,7 +1278,7 @@
       ],
       "date_added": "2023-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-22",
       "duration_ms": 322777,
       "name": "Perth",
       "url": "https://open.spotify.com/track/2jjXzs4XS9Kcmf9iSUbYuU"
@@ -950,6 +1300,28 @@
       "duration_ms": 532373,
       "name": "Prix choc",
       "url": "https://open.spotify.com/track/7Jt3KNk914D6t2T3pB49sb"
+    },
+    {
+      "album": {
+        "name": "Que Quiere Usted (Marc Romboy Remix)",
+        "url": "https://open.spotify.com/album/6HGFYaBtW8mW76Z0jSb0Ay"
+      },
+      "artists": [
+        {
+          "name": "Bawrut",
+          "url": "https://open.spotify.com/artist/15naE0RS2asDfn93USLJqV"
+        },
+        {
+          "name": "Marc Romboy",
+          "url": "https://open.spotify.com/artist/623ecFS6T9xsx9Rb98eii5"
+        }
+      ],
+      "date_added": "2024-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 383505,
+      "name": "Que Quiere Usted - Marc Romboy Remix",
+      "url": "https://open.spotify.com/track/0nAhKCPTuKGxqxnvjRZn1m"
     },
     {
       "album": {
@@ -1061,6 +1433,24 @@
     },
     {
       "album": {
+        "name": "More Content",
+        "url": "https://open.spotify.com/album/3Sl6q9q5oRkU5fD3V9SNyQ"
+      },
+      "artists": [
+        {
+          "name": "Barry Can't Swim",
+          "url": "https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl"
+        }
+      ],
+      "date_added": "2024-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181319,
+      "name": "Sonder",
+      "url": "https://open.spotify.com/track/2wynpXzuXf6Cvf2MqHYA9Z"
+    },
+    {
+      "album": {
         "name": "Lollipop EP",
         "url": "https://open.spotify.com/album/0ttuqdNulqfHcqasUN0cHe"
       },
@@ -1094,7 +1484,7 @@
       ],
       "date_added": "2023-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-22",
       "duration_ms": 217920,
       "name": "Steam Train",
       "url": "https://open.spotify.com/track/0QqJ9vfcj9p43zRar2KhRY"
@@ -1148,7 +1538,7 @@
       ],
       "date_added": "2023-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-22",
       "duration_ms": 222182,
       "name": "Sunsleeper",
       "url": "https://open.spotify.com/track/35lxsi9U65JKT03Voj2Dl5"
@@ -1166,10 +1556,28 @@
       ],
       "date_added": "2023-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-22",
       "duration_ms": 547818,
       "name": "Tano",
       "url": "https://open.spotify.com/track/2Qd2fXZ3bKLGYIQ7PlYCxD"
+    },
+    {
+      "album": {
+        "name": "That's Right (Edit)",
+        "url": "https://open.spotify.com/album/5ffuXlm1J5vYUqWl2ODj6Z"
+      },
+      "artists": [
+        {
+          "name": "Dam Swindle",
+          "url": "https://open.spotify.com/artist/6hJtgCB3L5cnJSND7sp6GU"
+        }
+      ],
+      "date_added": "2024-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276000,
+      "name": "That's Right - Edit",
+      "url": "https://open.spotify.com/track/5kCmJdIdFqKQiiCYYpa0xo"
     },
     {
       "album": {
@@ -1184,7 +1592,7 @@
       ],
       "date_added": "2023-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-22",
       "duration_ms": 434040,
       "name": "The Sad Piano - Charles Webster Remix",
       "url": "https://open.spotify.com/track/2NWoNptAxVkyIWq7RiHCsv"
@@ -1202,7 +1610,7 @@
       ],
       "date_added": "2023-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-22",
       "duration_ms": 312431,
       "name": "Think Twice",
       "url": "https://open.spotify.com/track/3bjx5In6MlYVbyrsJ2Lbe2"
@@ -1238,7 +1646,7 @@
       ],
       "date_added": "2023-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-22",
       "duration_ms": 344921,
       "name": "VoX",
       "url": "https://open.spotify.com/track/6R6PioJAemBmPGc2RbhitG"

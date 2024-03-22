@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-02-04",
-  "description": "Music for when you've got your Jesus on and your swag up . \nCover: <a href=\"https://open.spotify.com/artist/31XHZpkBidKYdb27RBePrr?si=TjiqtRNhRhm6qLz1jpIOTQ\">Naffymar</a> ",
+  "description": "Music for when you've got your Jesus on and your swag up . \nCover: <a href=\"https://open.spotify.com/artist/0zBTbtoYVNCJmbN3MWHcRe?si=D4pTwHmKSeqlwGXjloy52Q\">Folabi Nuel</a> ",
   "name": "Youth Service",
   "tracks": [
     {
@@ -922,7 +922,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-22",
       "duration_ms": 164210,
       "name": "Babylon",
       "url": "https://open.spotify.com/track/5VQgCycdwNuHOmhTxl94x4"
@@ -996,6 +996,28 @@
       "duration_ms": 176770,
       "name": "Believe us",
       "url": "https://open.spotify.com/track/1mpu97LwS5KS5fyPQqsRqg"
+    },
+    {
+      "album": {
+        "name": "Belong to you",
+        "url": "https://open.spotify.com/album/6EXqgIsvGRQVqpOhuTXE7T"
+      },
+      "artists": [
+        {
+          "name": "A Tribe Apart",
+          "url": "https://open.spotify.com/artist/340V5J1uTrpMO40hEHmN21"
+        },
+        {
+          "name": "Malcolm Rue",
+          "url": "https://open.spotify.com/artist/22eqNziE8ta7JfDrEkUx8H"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133090,
+      "name": "Belong to you",
+      "url": "https://open.spotify.com/track/4B9KUBV2XQPzTvkdoYReaf"
     },
     {
       "album": {
@@ -3606,6 +3628,28 @@
       "duration_ms": 154133,
       "name": "Everything",
       "url": "https://open.spotify.com/track/2S8XO4A2B9gxhst1WuccIT"
+    },
+    {
+      "album": {
+        "name": "Everything on You (Pt II)",
+        "url": "https://open.spotify.com/album/1doRuQkCmc9CAWJhVts3rQ"
+      },
+      "artists": [
+        {
+          "name": "Kinsu",
+          "url": "https://open.spotify.com/artist/0ZH0SbRhX3D2vaRGvTU3Rh"
+        },
+        {
+          "name": "Jvson",
+          "url": "https://open.spotify.com/artist/0CbUlmC1cMua8bl6aQvP6F"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175390,
+      "name": "Everything on You (Pt II)",
+      "url": "https://open.spotify.com/track/6h9SrXKADhN7a6GUOQhnpU"
     },
     {
       "album": {
@@ -6494,7 +6538,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-22",
       "duration_ms": 216585,
       "name": "It's Gonna Be Alright",
       "url": "https://open.spotify.com/track/2x20sI1LFKcHswD03h9oJ4"
@@ -6666,7 +6710,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-22",
       "duration_ms": 149043,
       "name": "Jericho",
       "url": "https://open.spotify.com/track/3iIMEwQrwEBgZPQcWq4uv8"
@@ -6904,6 +6948,28 @@
       "duration_ms": 159947,
       "name": "Jowo",
       "url": "https://open.spotify.com/track/05ZCmG4Y7ELlzI4ncSKBKJ"
+    },
+    {
+      "album": {
+        "name": "JOY",
+        "url": "https://open.spotify.com/album/3oOxzFrcrQTCnyQyPtYmjx"
+      },
+      "artists": [
+        {
+          "name": "Elsammy",
+          "url": "https://open.spotify.com/artist/0w5NXZhWTCSqsPQuuXbMPL"
+        },
+        {
+          "name": "A Mose",
+          "url": "https://open.spotify.com/artist/4ioJbpi0sNGUUq2b8tnH0X"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136693,
+      "name": "JOY",
+      "url": "https://open.spotify.com/track/0iukExbkgfNWNFjuU0nDp7"
     },
     {
       "album": {
@@ -7579,6 +7645,24 @@
     },
     {
       "album": {
+        "name": "Medaase",
+        "url": "https://open.spotify.com/album/2tzNAlun1LHRqpW7r8ERRj"
+      },
+      "artists": [
+        {
+          "name": "Bisa Kdei",
+          "url": "https://open.spotify.com/artist/4AN8jBgYwV1ieMsX1Ntxwc"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199755,
+      "name": "Medaase",
+      "url": "https://open.spotify.com/track/5Kbi5Nl0wc77o3mGOOZs4w"
+    },
+    {
+      "album": {
         "name": "MELO",
         "url": "https://open.spotify.com/album/6A4FArelWWTLnTsRJsqTjZ"
       },
@@ -7832,6 +7916,24 @@
       "duration_ms": 405513,
       "name": "Million Little Miracles (feat. Joe L Barnes)",
       "url": "https://open.spotify.com/track/2AX4m5yewzlDmzODLJ8Lcz"
+    },
+    {
+      "album": {
+        "name": "MIND BLEEDING",
+        "url": "https://open.spotify.com/album/3eaW2R7LAAPQncdfYXJ0FQ"
+      },
+      "artists": [
+        {
+          "name": "Rehmahz",
+          "url": "https://open.spotify.com/artist/2n4Cjxgsst568zKdsmsEnY"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148425,
+      "name": "MIND BLEEDING",
+      "url": "https://open.spotify.com/track/2ihFTAJKjjkECZDGXimJab"
     },
     {
       "album": {
@@ -8968,6 +9070,28 @@
       "duration_ms": 197224,
       "name": "Oil Dey My Head (ODMH)",
       "url": "https://open.spotify.com/track/02Lr7ylmf1HUzvSbPP8B7u"
+    },
+    {
+      "album": {
+        "name": "Sonus dulcis",
+        "url": "https://open.spotify.com/album/0lRCqEXOagHInK8wwQ7tbr"
+      },
+      "artists": [
+        {
+          "name": "Folabi Nuel",
+          "url": "https://open.spotify.com/artist/0zBTbtoYVNCJmbN3MWHcRe"
+        },
+        {
+          "name": "Marizu",
+          "url": "https://open.spotify.com/artist/4rwolwLHj97rPwbhyNSeU9"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161318,
+      "name": "Okay",
+      "url": "https://open.spotify.com/track/0Ehe5i3c8L9YkhjtXrB7Kv"
     },
     {
       "album": {
@@ -11228,7 +11352,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-22",
       "duration_ms": 144169,
       "name": "Sweet Love",
       "url": "https://open.spotify.com/track/3WEQLxBq5hrEu7elq9xwSk"
@@ -12006,7 +12130,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-22",
       "duration_ms": 160695,
       "name": "Victory",
       "url": "https://open.spotify.com/track/7jyGhvfzTbwgYPCASt7jaG"
@@ -12166,7 +12290,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-22",
       "duration_ms": 114010,
       "name": "walk in the Light",
       "url": "https://open.spotify.com/track/1nVYR365ucVF0W0r2DNfpb"

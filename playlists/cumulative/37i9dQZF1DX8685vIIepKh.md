@@ -4,7 +4,7 @@
 
 > La playlist survitaminée !
 
-170 songs - 8 hr 59 min
+171 songs - 9 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,7 +19,7 @@
 | [Arranca \(feat\. Omega\)](https://open.spotify.com/track/6IdcyYfBz9LG3SWIKVyNgh) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3), [Omega](https://open.spotify.com/artist/1UjxAZqzphB1tsMb1aWBj0) | [Arranca \(feat\. Omega\)](https://open.spotify.com/album/3d0XlD9jrpNetVgDfsErG4) | 2:46 | 2023-07-27 | 2024-01-17 |
 | [As It Was](https://open.spotify.com/track/4Dvkj6JhhA12EX05fT7y2e) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry's House](https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h) | 2:47 | 2024-01-03 |  |
 | [Baby Don't Hurt Me](https://open.spotify.com/track/3BKD1PwArikchz2Zrlp1qi) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX), [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [Baby Don't Hurt Me](https://open.spotify.com/album/327tc3Eruk1HP1w62iqROy) | 2:20 | 2023-07-27 | 2023-10-27 |
-| [BABY SAID](https://open.spotify.com/track/2KReCz1L5XkGIBhDncQ5VZ) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [RUSH!](https://open.spotify.com/album/2KUaR4K36tSliwAoUA1gcs) | 2:44 | 2023-07-27 |  |
+| [BABY SAID](https://open.spotify.com/track/2KReCz1L5XkGIBhDncQ5VZ) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [RUSH!](https://open.spotify.com/album/2KUaR4K36tSliwAoUA1gcs) | 2:44 | 2023-07-27 | 2024-03-22 |
 | [Bam Bam \(Ma Jolie\)](https://open.spotify.com/track/3MgDEWy7SXqSftFvovNOnv) | [King Serenity](https://open.spotify.com/artist/2olAiF4WinkdELTgU2Rllu), [Jahyanai](https://open.spotify.com/artist/09FXva53dWku8Gu5N73rR8), [SenSey'](https://open.spotify.com/artist/23u2dvae3e0f3caJSqdlN5) | [Bam Bam \(Ma Jolie\)](https://open.spotify.com/album/3XdVsdE1LETgzTufgIpvnP) | 2:23 | 2024-02-22 | 2024-03-08 |
 | [Barbie Girl \- Tiësto Remix](https://open.spotify.com/track/4zPVMv84MMHehLNZYIS1Zv) | [Aqua](https://open.spotify.com/artist/6kBjAFKyd0he7LiA5GQ3Gz), [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [Barbie Girl \(Tiësto Remix\)](https://open.spotify.com/album/61gisYckDdbgK42QoJEl6c) | 2:35 | 2023-07-27 | 2023-09-15 |
 | [Beautiful Lie](https://open.spotify.com/track/1W147JEUECRYopp1Rk7SXA) | [Celestal](https://open.spotify.com/artist/2AEpvZkBjqbmEiojWgZmub), [Devon Graves](https://open.spotify.com/artist/1VQkGVKVLNGASF2KeMuDIC), [Grynn](https://open.spotify.com/artist/0E8chKPQ2q0t3HoA4zwYdF) | [Beautiful Lie](https://open.spotify.com/album/24J1DyKLtvgZPeJhcwj12D) | 2:28 | 2024-01-25 | 2024-03-01 |
@@ -142,6 +142,7 @@
 | [Some Kind Of Kiss](https://open.spotify.com/track/2xsRIYRAC0mXttKR4sZscl) | [Sound Of Legend](https://open.spotify.com/artist/3g9yyIlJ0sIunQWJLmIYhn) | [Some Kind Of Kiss](https://open.spotify.com/album/5rb5FtGstxBVv9xdFCDKSg) | 2:28 | 2023-07-27 | 2023-09-08 |
 | [Standing Next to You](https://open.spotify.com/track/2KslE17cAJNHTsI2MI0jb2) | [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc) | [GOLDEN](https://open.spotify.com/album/5pSk3c3wVwnb2arb6ohCPU) | 3:26 | 2023-12-20 | 2024-01-26 |
 | [Stay \(Never Leave\)](https://open.spotify.com/track/6zDitZRQadPCyaVl4u6OJy) | [Kris Kross Amsterdam](https://open.spotify.com/artist/4LcUpNlXFEleaLlelmkv2R), [SERA](https://open.spotify.com/artist/3Anj5rCWtYTgRvV7pdq6GE), [Conor Maynard](https://open.spotify.com/artist/6mU8ucezzms5I2kNH6HNlu) | [Stay \(Never Leave\)](https://open.spotify.com/album/3ShZxa7ntVznDhTLISXLY9) | 2:32 | 2023-12-06 | 2024-01-04 |
+| [STAY \(with Justin Bieber\)](https://open.spotify.com/track/567e29TDzLwZwfDuEpGTwo) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [F\*CK LOVE 3+: OVER YOU](https://open.spotify.com/album/576UTio7xgY7YUxrHMzxeI) | 2:21 | 2024-03-21 |  |
 | [Stereo Hearts \(feat\. Adam Levine\)](https://open.spotify.com/track/0qOnSQQF0yzuPWsXrQ9paz) | [Gym Class Heroes](https://open.spotify.com/artist/4IJczjB0fJ04gs4uvP0Fli), [Adam Levine](https://open.spotify.com/artist/4bYPcJP5jwMhSivRcqie2n) | [The Papercut Chronicles II](https://open.spotify.com/album/2mumCpGmuE9iDeOvMx6XrB) | 3:30 | 2023-11-29 | 2024-03-08 |
 | [Stereo Love \- Radio Edit](https://open.spotify.com/track/11Iv8RCFmeImLOpaHYxKb4) | [Edward Maya](https://open.spotify.com/artist/6XwwFnewNgWp81MYMK8zLq), [Vika Jigulina](https://open.spotify.com/artist/34dZRjYum6vVBGslgYaBtB) | [Stereo Love](https://open.spotify.com/album/774YoW7RL5qzrPdZFi8xJE) | 3:05 | 2023-11-06 | 2024-03-01 |
 | [Strangers](https://open.spotify.com/track/5mjYQaktjmjcMKcUIcqz4s) | [Kenya Grace](https://open.spotify.com/artist/7uMDnSZyUYNBPLhPMNuaM2) | [Strangers](https://open.spotify.com/album/18ogtNq9F7DmMkNYO6Xb4k) | 2:52 | 2023-11-14 |  |

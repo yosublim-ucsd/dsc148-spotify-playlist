@@ -1,12 +1,12 @@
 {
   "description": "Beautiful songs to give you that warm, fuzzy feeling.",
-  "num_followers": 2600267,
+  "num_followers": 2600587,
   "original_name": "Warm Fuzzy Feeling",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0OThkZjg2N2M4OWM5MGJmMWZlNGI5MTc0ZDczOGQ3ZDMwNjBjN2Nl",
+  "snapshot_id": "MCxiYWUwZTMzZmUzZDE5ZTlhZWE0N2Y5NWFjYmVjOTI3NWViODJhYmM4",
   "tracks": [
     {
       "added_at": "2024-03-01 05:01:00",
@@ -651,6 +651,22 @@
     {
       "added_at": "2024-03-01 05:01:00",
       "album": {
+        "name": "Bluebird Days",
+        "url": "https://open.spotify.com/album/6izHNYgyKzGdRpYwtYFaaG"
+      },
+      "artists": [
+        {
+          "name": "Jordan Davis",
+          "url": "https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI"
+        }
+      ],
+      "duration_ms": 175226,
+      "name": "Next Thing You Know",
+      "url": "https://open.spotify.com/track/39OclE5hZematADrdfaWvE"
+    },
+    {
+      "added_at": "2024-03-01 05:01:00",
+      "album": {
         "name": "Title (Deluxe)",
         "url": "https://open.spotify.com/album/5W98Ab4VvQEuFEE4TIe5fE"
       },
@@ -671,22 +687,6 @@
     {
       "added_at": "2024-03-01 05:01:00",
       "album": {
-        "name": "Bluebird Days",
-        "url": "https://open.spotify.com/album/6izHNYgyKzGdRpYwtYFaaG"
-      },
-      "artists": [
-        {
-          "name": "Jordan Davis",
-          "url": "https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI"
-        }
-      ],
-      "duration_ms": 175226,
-      "name": "Next Thing You Know",
-      "url": "https://open.spotify.com/track/39OclE5hZematADrdfaWvE"
-    },
-    {
-      "added_at": "2024-03-01 05:01:00",
-      "album": {
         "name": "GABRIEL",
         "url": "https://open.spotify.com/album/1WVIJaAboRSwJOe4u0n0Q7"
       },
@@ -703,22 +703,6 @@
     {
       "added_at": "2024-03-01 05:01:00",
       "album": {
-        "name": "Lucky",
-        "url": "https://open.spotify.com/album/5DFed53ADZwnPOYuqoZJHK"
-      },
-      "artists": [
-        {
-          "name": "Megan Moroney",
-          "url": "https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0"
-        }
-      ],
-      "duration_ms": 223119,
-      "name": "Tennessee Orange",
-      "url": "https://open.spotify.com/track/6DLbBlGIOjjEj0dNN25zhZ"
-    },
-    {
-      "added_at": "2024-03-01 05:01:00",
-      "album": {
         "name": "Old Dominion",
         "url": "https://open.spotify.com/album/0eu2mZjF6JQTuLCu9ils6m"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 186240,
       "name": "One Man Band",
       "url": "https://open.spotify.com/track/7cA3PnUQDlUyBBwpRozQeo"
+    },
+    {
+      "added_at": "2024-03-01 05:01:00",
+      "album": {
+        "name": "Lucky",
+        "url": "https://open.spotify.com/album/5DFed53ADZwnPOYuqoZJHK"
+      },
+      "artists": [
+        {
+          "name": "Megan Moroney",
+          "url": "https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0"
+        }
+      ],
+      "duration_ms": 223119,
+      "name": "Tennessee Orange",
+      "url": "https://open.spotify.com/track/6DLbBlGIOjjEj0dNN25zhZ"
     },
     {
       "added_at": "2024-03-01 05:01:00",
@@ -883,22 +883,6 @@
     {
       "added_at": "2024-03-01 05:01:00",
       "album": {
-        "name": "19",
-        "url": "https://open.spotify.com/album/59ULskOkBMij4zL8pS7mi0"
-      },
-      "artists": [
-        {
-          "name": "Adele",
-          "url": "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY"
-        }
-      ],
-      "duration_ms": 212040,
-      "name": "Make You Feel My Love",
-      "url": "https://open.spotify.com/track/5FgPwJ7Nh2FVmIXviKl2VF"
-    },
-    {
-      "added_at": "2024-03-01 05:01:00",
-      "album": {
         "name": "Different Man",
         "url": "https://open.spotify.com/album/7dfTBn7wtgKEchVmyipBl1"
       },
@@ -915,6 +899,22 @@
       "duration_ms": 174560,
       "name": "Thank God",
       "url": "https://open.spotify.com/track/1brnLTvarI9D1hLP6z2Ar8"
+    },
+    {
+      "added_at": "2024-03-01 05:01:00",
+      "album": {
+        "name": "19",
+        "url": "https://open.spotify.com/album/59ULskOkBMij4zL8pS7mi0"
+      },
+      "artists": [
+        {
+          "name": "Adele",
+          "url": "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY"
+        }
+      ],
+      "duration_ms": 212040,
+      "name": "Make You Feel My Love",
+      "url": "https://open.spotify.com/track/5FgPwJ7Nh2FVmIXviKl2VF"
     },
     {
       "added_at": "2024-03-01 05:01:00",
@@ -951,18 +951,22 @@
     {
       "added_at": "2024-03-01 05:01:00",
       "album": {
-        "name": "In Between Dreams",
-        "url": "https://open.spotify.com/album/7tTc46dNdE6GGuiQsssWxo"
+        "name": "Little Bit Better",
+        "url": "https://open.spotify.com/album/4cJHTRsxDkQpMPnLwFcgkV"
       },
       "artists": [
         {
-          "name": "Jack Johnson",
-          "url": "https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3"
+          "name": "Caleb Hearn",
+          "url": "https://open.spotify.com/artist/0EiNdCUwM4B5GkTInLAyuj"
+        },
+        {
+          "name": "ROSIE",
+          "url": "https://open.spotify.com/artist/2bp65KnFOIsIosBoqPzvNL"
         }
       ],
-      "duration_ms": 207680,
-      "name": "Better Together",
-      "url": "https://open.spotify.com/track/4VywXu6umkIQ2OS0m1I79y"
+      "duration_ms": 227625,
+      "name": "Little Bit Better",
+      "url": "https://open.spotify.com/track/0GMs3jq70wmCo12pavj4st"
     },
     {
       "added_at": "2024-03-01 05:01:00",
@@ -983,22 +987,18 @@
     {
       "added_at": "2024-03-01 05:01:00",
       "album": {
-        "name": "Little Bit Better",
-        "url": "https://open.spotify.com/album/4cJHTRsxDkQpMPnLwFcgkV"
+        "name": "In Between Dreams",
+        "url": "https://open.spotify.com/album/7tTc46dNdE6GGuiQsssWxo"
       },
       "artists": [
         {
-          "name": "Caleb Hearn",
-          "url": "https://open.spotify.com/artist/0EiNdCUwM4B5GkTInLAyuj"
-        },
-        {
-          "name": "ROSIE",
-          "url": "https://open.spotify.com/artist/2bp65KnFOIsIosBoqPzvNL"
+          "name": "Jack Johnson",
+          "url": "https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3"
         }
       ],
-      "duration_ms": 227625,
-      "name": "Little Bit Better",
-      "url": "https://open.spotify.com/track/0GMs3jq70wmCo12pavj4st"
+      "duration_ms": 207680,
+      "name": "Better Together",
+      "url": "https://open.spotify.com/track/4VywXu6umkIQ2OS0m1I79y"
     },
     {
       "added_at": "2024-03-01 05:01:00",
@@ -1267,6 +1267,22 @@
     {
       "added_at": "2024-03-01 05:01:00",
       "album": {
+        "name": "Deeper Well",
+        "url": "https://open.spotify.com/album/5SxZmGwc4eJuPp6PcO4JgJ"
+      },
+      "artists": [
+        {
+          "name": "Kacey Musgraves",
+          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
+        }
+      ],
+      "duration_ms": 160053,
+      "name": "Too Good to be True",
+      "url": "https://open.spotify.com/track/27RDQ0TfxzWMlQFuKrPT11"
+    },
+    {
+      "added_at": "2024-03-01 05:01:00",
+      "album": {
         "name": "Forever and Ever and Always",
         "url": "https://open.spotify.com/album/5EykK3QfILVgK3kdUQHWrM"
       },
@@ -1295,22 +1311,6 @@
       "duration_ms": 180678,
       "name": "Little Bit More",
       "url": "https://open.spotify.com/track/6rG1DdPCTzGibgHliYJ4ws"
-    },
-    {
-      "added_at": "2024-03-01 05:01:00",
-      "album": {
-        "name": "Golden Hour",
-        "url": "https://open.spotify.com/album/7f6xPqyaolTiziKf5R5Z0c"
-      },
-      "artists": [
-        {
-          "name": "Kacey Musgraves",
-          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
-        }
-      ],
-      "duration_ms": 214293,
-      "name": "Rainbow",
-      "url": "https://open.spotify.com/track/79qxwHypONUt3AFq0WPpT9"
     },
     {
       "added_at": "2024-03-01 05:01:00",
@@ -1363,6 +1363,22 @@
       "duration_ms": 173426,
       "name": "IT'S YOU (feat. keshi)",
       "url": "https://open.spotify.com/track/1hWDc5jD5br9pXSOtubFlf"
+    },
+    {
+      "added_at": "2024-03-01 05:01:00",
+      "album": {
+        "name": "Golden Hour",
+        "url": "https://open.spotify.com/album/7f6xPqyaolTiziKf5R5Z0c"
+      },
+      "artists": [
+        {
+          "name": "Kacey Musgraves",
+          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
+        }
+      ],
+      "duration_ms": 214293,
+      "name": "Rainbow",
+      "url": "https://open.spotify.com/track/79qxwHypONUt3AFq0WPpT9"
     },
     {
       "added_at": "2024-03-01 05:01:00",
@@ -1455,22 +1471,6 @@
     {
       "added_at": "2024-03-01 05:01:00",
       "album": {
-        "name": "Deeper Well",
-        "url": "https://open.spotify.com/album/5SxZmGwc4eJuPp6PcO4JgJ"
-      },
-      "artists": [
-        {
-          "name": "Kacey Musgraves",
-          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
-        }
-      ],
-      "duration_ms": 160053,
-      "name": "Too Good to be True",
-      "url": "https://open.spotify.com/track/27RDQ0TfxzWMlQFuKrPT11"
-    },
-    {
-      "added_at": "2024-03-01 05:01:00",
-      "album": {
         "name": "To Let A Good Thing Die",
         "url": "https://open.spotify.com/album/4NWvFq8Cst2Y5iHOouXtMz"
       },
@@ -1483,6 +1483,26 @@
       "duration_ms": 235426,
       "name": "The Most Beautiful Thing",
       "url": "https://open.spotify.com/track/07koEqsKHZTlGVMC9eoEjO"
+    },
+    {
+      "added_at": "2024-03-01 05:01:00",
+      "album": {
+        "name": "The Joker And The Queen (feat. Taylor Swift)",
+        "url": "https://open.spotify.com/album/0vkAczpFKCazPKaoLtnBr0"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        },
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 185422,
+      "name": "The Joker And The Queen (feat. Taylor Swift)",
+      "url": "https://open.spotify.com/track/6N1K5OVVCopBjGViHs2IvP"
     },
     {
       "added_at": "2024-03-01 05:01:00",
@@ -1535,26 +1555,6 @@
       "duration_ms": 186552,
       "name": "Someone Like You (feat. Joy Oladokun)",
       "url": "https://open.spotify.com/track/0hiHNxqKGf3GZgVTIOAiiK"
-    },
-    {
-      "added_at": "2024-03-01 05:01:00",
-      "album": {
-        "name": "The Joker And The Queen (feat. Taylor Swift)",
-        "url": "https://open.spotify.com/album/0vkAczpFKCazPKaoLtnBr0"
-      },
-      "artists": [
-        {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-        },
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 185422,
-      "name": "The Joker And The Queen (feat. Taylor Swift)",
-      "url": "https://open.spotify.com/track/6N1K5OVVCopBjGViHs2IvP"
     },
     {
       "added_at": "2024-03-01 05:01:00",
@@ -1639,22 +1639,6 @@
     {
       "added_at": "2024-03-01 05:01:00",
       "album": {
-        "name": "Tiny Moves",
-        "url": "https://open.spotify.com/album/1d8D5z3nU0BEsv7azmcVE6"
-      },
-      "artists": [
-        {
-          "name": "Bleachers",
-          "url": "https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI"
-        }
-      ],
-      "duration_ms": 228381,
-      "name": "Tiny Moves",
-      "url": "https://open.spotify.com/track/6pP7muebYMLT46IOZOLvyN"
-    },
-    {
-      "added_at": "2024-03-01 05:01:00",
-      "album": {
         "name": "Falling Like The Stars",
         "url": "https://open.spotify.com/album/6Vd7ZTFfhrtPuiQIqEN8XU"
       },
@@ -1667,6 +1651,22 @@
       "duration_ms": 212720,
       "name": "Falling Like The Stars",
       "url": "https://open.spotify.com/track/15xWRPHQMeqgdkGzInx3PY"
+    },
+    {
+      "added_at": "2024-03-01 05:01:00",
+      "album": {
+        "name": "Tiny Moves",
+        "url": "https://open.spotify.com/album/1d8D5z3nU0BEsv7azmcVE6"
+      },
+      "artists": [
+        {
+          "name": "Bleachers",
+          "url": "https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI"
+        }
+      ],
+      "duration_ms": 228381,
+      "name": "Tiny Moves",
+      "url": "https://open.spotify.com/track/6pP7muebYMLT46IOZOLvyN"
     }
   ],
   "unique_name": "Warm Fuzzy Feeling",

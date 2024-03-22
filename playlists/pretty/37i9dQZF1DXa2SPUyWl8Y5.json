@@ -1,12 +1,12 @@
 {
   "description": "Focus with melodic techno and tech house.",
-  "num_followers": 490089,
+  "num_followers": 490194,
   "original_name": "Beats to think to",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1YmFhNWE5MmEyNjU2Njk0MDI3Zjk0MDU4NGM1MmQ1M2MyNzAwOGE3",
+  "snapshot_id": "MCxlYzI0OTMzN2JmYjliNDBmZjA2ZDA2NWQ1MDJkZDE5ZTJmYjNkZmU0",
   "tracks": [
     {
       "added_at": "2023-11-27 19:00:00",
@@ -531,6 +531,26 @@
     {
       "added_at": "2023-11-27 19:00:00",
       "album": {
+        "name": "Crescendo",
+        "url": "https://open.spotify.com/album/3nnzSVvGgINDcaLGu0KdjP"
+      },
+      "artists": [
+        {
+          "name": "Soul Button",
+          "url": "https://open.spotify.com/artist/5mcH5yOO7QWoT8CuL8JxEm"
+        },
+        {
+          "name": "Rustboy",
+          "url": "https://open.spotify.com/artist/41kFbqwhUxZh7mXVIEPihu"
+        }
+      ],
+      "duration_ms": 364918,
+      "name": "Crescendo",
+      "url": "https://open.spotify.com/track/2Uo07y23q5MTtL0iaUtnH5"
+    },
+    {
+      "added_at": "2023-11-27 19:00:00",
+      "album": {
         "name": "All I Got",
         "url": "https://open.spotify.com/album/7wVulFxf5NeMvGnhTHD36h"
       },
@@ -575,26 +595,6 @@
       "duration_ms": 479075,
       "name": "Rebirth",
       "url": "https://open.spotify.com/track/2maR9zs9UfgQpB1hr9UjpS"
-    },
-    {
-      "added_at": "2023-11-27 19:00:00",
-      "album": {
-        "name": "Crescendo",
-        "url": "https://open.spotify.com/album/3nnzSVvGgINDcaLGu0KdjP"
-      },
-      "artists": [
-        {
-          "name": "Soul Button",
-          "url": "https://open.spotify.com/artist/5mcH5yOO7QWoT8CuL8JxEm"
-        },
-        {
-          "name": "Rustboy",
-          "url": "https://open.spotify.com/artist/41kFbqwhUxZh7mXVIEPihu"
-        }
-      ],
-      "duration_ms": 364918,
-      "name": "Crescendo",
-      "url": "https://open.spotify.com/track/2Uo07y23q5MTtL0iaUtnH5"
     },
     {
       "added_at": "2023-11-27 19:00:00",
@@ -683,6 +683,38 @@
     {
       "added_at": "2023-11-27 19:00:00",
       "album": {
+        "name": "Hipotez",
+        "url": "https://open.spotify.com/album/6RxQ3jqiZUN5jtYc3w4sDf"
+      },
+      "artists": [
+        {
+          "name": "Kerem Gell",
+          "url": "https://open.spotify.com/artist/2xLxdnNSnIi1Wle7okLjpi"
+        }
+      ],
+      "duration_ms": 352920,
+      "name": "Hipotez",
+      "url": "https://open.spotify.com/track/6HAOuGhIdNkoiUcSJiZUI2"
+    },
+    {
+      "added_at": "2023-11-27 19:00:00",
+      "album": {
+        "name": "Lost in Berlin",
+        "url": "https://open.spotify.com/album/6NasKPWBq5AEPJDE1KK8lU"
+      },
+      "artists": [
+        {
+          "name": "Cook & Stans",
+          "url": "https://open.spotify.com/artist/6NOkAPWWK2Ay28xwJn7ick"
+        }
+      ],
+      "duration_ms": 259670,
+      "name": "Endless Dancing",
+      "url": "https://open.spotify.com/track/28ggPVRudYkMzmQOzjkYQ5"
+    },
+    {
+      "added_at": "2023-11-27 19:00:00",
+      "album": {
         "name": "Purple Days & Purple Nights",
         "url": "https://open.spotify.com/album/7oKLl9fSeBhHl4XYIBJADm"
       },
@@ -719,54 +751,6 @@
     {
       "added_at": "2023-11-27 19:00:00",
       "album": {
-        "name": "Lost in Berlin",
-        "url": "https://open.spotify.com/album/6NasKPWBq5AEPJDE1KK8lU"
-      },
-      "artists": [
-        {
-          "name": "Cook & Stans",
-          "url": "https://open.spotify.com/artist/6NOkAPWWK2Ay28xwJn7ick"
-        }
-      ],
-      "duration_ms": 259670,
-      "name": "Endless Dancing",
-      "url": "https://open.spotify.com/track/28ggPVRudYkMzmQOzjkYQ5"
-    },
-    {
-      "added_at": "2023-11-27 19:00:00",
-      "album": {
-        "name": "Hipotez",
-        "url": "https://open.spotify.com/album/6RxQ3jqiZUN5jtYc3w4sDf"
-      },
-      "artists": [
-        {
-          "name": "Kerem Gell",
-          "url": "https://open.spotify.com/artist/2xLxdnNSnIi1Wle7okLjpi"
-        }
-      ],
-      "duration_ms": 352920,
-      "name": "Hipotez",
-      "url": "https://open.spotify.com/track/6HAOuGhIdNkoiUcSJiZUI2"
-    },
-    {
-      "added_at": "2023-11-27 19:00:00",
-      "album": {
-        "name": "Wadi Dana",
-        "url": "https://open.spotify.com/album/45NYhmGO76k8GWRpxYSJQN"
-      },
-      "artists": [
-        {
-          "name": "Corren Cavini",
-          "url": "https://open.spotify.com/artist/2UgCkNOjEjL0uKDwewjet8"
-        }
-      ],
-      "duration_ms": 249000,
-      "name": "Wadi Dana",
-      "url": "https://open.spotify.com/track/6Fv8RI7hYPvddWOcsTs2HW"
-    },
-    {
-      "added_at": "2023-11-27 19:00:00",
-      "album": {
         "name": "Sora",
         "url": "https://open.spotify.com/album/0WVXdvpEOtiBEzyWbIlDl0"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 212849,
       "name": "Sora",
       "url": "https://open.spotify.com/track/4IeAeBQdLlP8wTyp4wbWx5"
+    },
+    {
+      "added_at": "2023-11-27 19:00:00",
+      "album": {
+        "name": "Wadi Dana",
+        "url": "https://open.spotify.com/album/45NYhmGO76k8GWRpxYSJQN"
+      },
+      "artists": [
+        {
+          "name": "Corren Cavini",
+          "url": "https://open.spotify.com/artist/2UgCkNOjEjL0uKDwewjet8"
+        }
+      ],
+      "duration_ms": 249000,
+      "name": "Wadi Dana",
+      "url": "https://open.spotify.com/track/6Fv8RI7hYPvddWOcsTs2HW"
     },
     {
       "added_at": "2023-11-27 19:00:00",
@@ -835,6 +835,22 @@
     {
       "added_at": "2023-11-27 19:00:00",
       "album": {
+        "name": "Traum EP",
+        "url": "https://open.spotify.com/album/7hp5Lg5GepesCmShm0nXud"
+      },
+      "artists": [
+        {
+          "name": "Herr Lang",
+          "url": "https://open.spotify.com/artist/1QWAUgdcriLwIL5o0ZT0b5"
+        }
+      ],
+      "duration_ms": 316000,
+      "name": "Deep in My Mind - Original Mix",
+      "url": "https://open.spotify.com/track/3Pu3lg462AIaqWt3BEji1O"
+    },
+    {
+      "added_at": "2023-11-27 19:00:00",
+      "album": {
         "name": "Orchestra (Remixes)",
         "url": "https://open.spotify.com/album/5COwPsSU5XZmd0iczT0tpM"
       },
@@ -851,22 +867,6 @@
       "duration_ms": 412500,
       "name": "Entrudo - Booka Shade Remix",
       "url": "https://open.spotify.com/track/46SwXRrM099b9Oqugpwaxa"
-    },
-    {
-      "added_at": "2023-11-27 19:00:00",
-      "album": {
-        "name": "Traum EP",
-        "url": "https://open.spotify.com/album/7hp5Lg5GepesCmShm0nXud"
-      },
-      "artists": [
-        {
-          "name": "Herr Lang",
-          "url": "https://open.spotify.com/artist/1QWAUgdcriLwIL5o0ZT0b5"
-        }
-      ],
-      "duration_ms": 316000,
-      "name": "Deep in My Mind - Original Mix",
-      "url": "https://open.spotify.com/track/3Pu3lg462AIaqWt3BEji1O"
     },
     {
       "added_at": "2023-11-27 19:00:00",
@@ -1015,22 +1015,6 @@
     {
       "added_at": "2023-11-27 19:00:00",
       "album": {
-        "name": "Thrust",
-        "url": "https://open.spotify.com/album/6EGqaNxFIlbeC27cLcNtVM"
-      },
-      "artists": [
-        {
-          "name": "Green Lake Project",
-          "url": "https://open.spotify.com/artist/6BOSrPzlp4szI7Ac9k9erz"
-        }
-      ],
-      "duration_ms": 389092,
-      "name": "Aldebaran",
-      "url": "https://open.spotify.com/track/7xqvXpA65hLxzcowyqcK5X"
-    },
-    {
-      "added_at": "2023-11-27 19:00:00",
-      "album": {
         "name": "Dreaming",
         "url": "https://open.spotify.com/album/6ru7iTApllOAzaLs5Ggt4M"
       },
@@ -1043,6 +1027,22 @@
       "duration_ms": 192476,
       "name": "Dreaming",
       "url": "https://open.spotify.com/track/2Ii6VGM7F1nkbleXQPkJvT"
+    },
+    {
+      "added_at": "2023-11-27 19:00:00",
+      "album": {
+        "name": "Thrust",
+        "url": "https://open.spotify.com/album/6EGqaNxFIlbeC27cLcNtVM"
+      },
+      "artists": [
+        {
+          "name": "Green Lake Project",
+          "url": "https://open.spotify.com/artist/6BOSrPzlp4szI7Ac9k9erz"
+        }
+      ],
+      "duration_ms": 389092,
+      "name": "Aldebaran",
+      "url": "https://open.spotify.com/track/7xqvXpA65hLxzcowyqcK5X"
     },
     {
       "added_at": "2023-11-27 19:00:00",
@@ -1159,6 +1159,22 @@
     {
       "added_at": "2023-11-27 19:00:00",
       "album": {
+        "name": "Close to the Edge",
+        "url": "https://open.spotify.com/album/6fDQUCufTFl072nXDT54Hm"
+      },
+      "artists": [
+        {
+          "name": "Klanglos",
+          "url": "https://open.spotify.com/artist/1jV311C5ADuBqCPpprsjUp"
+        }
+      ],
+      "duration_ms": 308081,
+      "name": "Close to the Edge",
+      "url": "https://open.spotify.com/track/5QC6Ze5kjWoFr3xHOXhx1N"
+    },
+    {
+      "added_at": "2023-11-27 19:00:00",
+      "album": {
         "name": "Hailstorm (Ann Clue Remix)",
         "url": "https://open.spotify.com/album/54LvPkBHCUXjuKIfFC3e76"
       },
@@ -1175,22 +1191,6 @@
       "duration_ms": 382486,
       "name": "Hailstorm - Ann Clue Remix",
       "url": "https://open.spotify.com/track/4INsV87wHXViqJRAmbOo8t"
-    },
-    {
-      "added_at": "2023-11-27 19:00:00",
-      "album": {
-        "name": "Close to the Edge",
-        "url": "https://open.spotify.com/album/6fDQUCufTFl072nXDT54Hm"
-      },
-      "artists": [
-        {
-          "name": "Klanglos",
-          "url": "https://open.spotify.com/artist/1jV311C5ADuBqCPpprsjUp"
-        }
-      ],
-      "duration_ms": 308081,
-      "name": "Close to the Edge",
-      "url": "https://open.spotify.com/track/5QC6Ze5kjWoFr3xHOXhx1N"
     },
     {
       "added_at": "2023-11-27 19:00:00",

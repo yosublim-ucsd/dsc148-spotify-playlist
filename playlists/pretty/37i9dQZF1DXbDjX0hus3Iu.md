@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbDjX0hus3Iu.md) - [plain]
 
 > The early pioneers and current favorites in Southern Rock\. Cover: Lynyrd Skynyrd
 
-[Spotify](https://open.spotify.com/user/spotify) - 494,270 likes - 100 songs - 7 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 494,316 likes - 100 songs - 7 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,14 +32,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbDjX0hus3Iu.md) - [plain]
 | 22 | [Second Chance](https://open.spotify.com/track/0RAn8LOs5QVMLy2xH30bUj) | [38 Special](https://open.spotify.com/artist/3zXw2Eh96iTT51pytzHdZi) | [Rock & Roll Strategy](https://open.spotify.com/album/1jCoBw99NDS3xv2KRF7ygX) | 5:04 |
 | 23 | [The Devil Went Down to Georgia](https://open.spotify.com/track/6gRACp2CvsIhc7hyw8CecQ) | [The Charlie Daniels Band](https://open.spotify.com/artist/12d4iIvTOk7JkI6ecvc3ca) | [Million Mile Reflections](https://open.spotify.com/album/211gVLmc36aeE66qEHqN0a) | 3:35 |
 | 24 | [Gimme Three Steps](https://open.spotify.com/track/0x2wtJbtJrox3SDmnMj97x) | [Lynyrd Skynyrd](https://open.spotify.com/artist/4MVyzYMgTwdP7Z49wAZHx0) | [Pronounced' Leh\-'Nerd 'Skin\-'Nerd](https://open.spotify.com/album/6DExt1eX4lflLacVjHHbOs) | 4:27 |
-| 25 | [Willin'](https://open.spotify.com/track/0jMyU6bO52IYhAEoWbT4K9) | [Little Feat](https://open.spotify.com/artist/0ZIwOAzDuGPspzK7yiTc4S) | [Sailin' Shoes](https://open.spotify.com/album/7uFbv3TYfv44PcjTphXekt) | 2:54 |
+| 25 | [Willin'](https://open.spotify.com/track/0jMyU6bO52IYhAEoWbT4K9) | [Little](https://open.spotify.com/artist/64UNNoGGn27WskwUHxQRgF) | [Sailin' Shoes](https://open.spotify.com/album/7uFbv3TYfv44PcjTphXekt) | 2:54 |
 | 26 | [Train, Train](https://open.spotify.com/track/5bSpsKGoGKXOOfg7F3ZtKz) | [Blackfoot](https://open.spotify.com/artist/10rzK0sLCXsUlDhl8ed0MV) | [Strikes](https://open.spotify.com/album/2nI6tciaY3r6CQR8YkXaYM) | 3:36 |
 | 27 | [I'm No Angel](https://open.spotify.com/track/2Yt2u7vNSCkPUy1awRFSPV) | [The Gregg Allman Band](https://open.spotify.com/artist/5jTAPkN0XtPH0cinWMRyzw) | [I'm No Angel](https://open.spotify.com/album/6x8lu9zMzEAz2GKB63kKAe) | 3:42 |
 | 28 | [Soulshine](https://open.spotify.com/track/3lzYx9dpCNw6CkttQe6SlE) | [Gov't Mule](https://open.spotify.com/artist/5zoKOcTDI9EMOhGNaxL708) | [The Deep End Vol\. 1](https://open.spotify.com/album/378K25f02JVVcrMbeL6Pp1) | 7:47 |
 | 29 | [Ain't Much Left of Me](https://open.spotify.com/track/4jKBjyOdVKfmyauxwW8QUs) | [Blackberry Smoke](https://open.spotify.com/artist/5P1oS9DUTPEqcrmXDmX4p8) | [The Whippoorwill](https://open.spotify.com/album/2jFnRLRUvsEfnmosLcwjCi) | 4:58 |
 | 30 | [Ain't Wastin' Time No More](https://open.spotify.com/track/4euYSSvpQZSAQ4gThyL2QD) | [Allman Brothers Band](https://open.spotify.com/artist/4wQ3PyMz3WwJGI5uEqHUVR) | [Eat A Peach](https://open.spotify.com/album/6D9I7GZsqc3pwDg3DFrtjs) | 3:41 |
 | 31 | [Hold On Loosely](https://open.spotify.com/track/6hQszXJIYhtjmSTmDqZpeU) | [38 Special](https://open.spotify.com/artist/3zXw2Eh96iTT51pytzHdZi) | [20th Century Masters The Millennium Collection: Best of 38 Special](https://open.spotify.com/album/5gditTVu3JNE5P8T6tafiH) | 4:39 |
-| 32 | [Dixie Chicken](https://open.spotify.com/track/0eTHlx53lUn95HVsJtR6Qx) | [Little Feat](https://open.spotify.com/artist/0ZIwOAzDuGPspzK7yiTc4S) | [Dixie Chicken](https://open.spotify.com/album/4xtCtXkGuTbHQwTaVd5FCF) | 3:59 |
+| 32 | [Dixie Chicken](https://open.spotify.com/track/0eTHlx53lUn95HVsJtR6Qx) | [Little](https://open.spotify.com/artist/64UNNoGGn27WskwUHxQRgF) | [Dixie Chicken](https://open.spotify.com/album/4xtCtXkGuTbHQwTaVd5FCF) | 3:59 |
 | 33 | [Highway Song](https://open.spotify.com/track/0R5nPSbAqQoNjKBByWnN95) | [Blackfoot](https://open.spotify.com/artist/10rzK0sLCXsUlDhl8ed0MV) | [Strikes](https://open.spotify.com/album/2nI6tciaY3r6CQR8YkXaYM) | 7:30 |
 | 34 | [Tuesday's Gone](https://open.spotify.com/track/64sn7wgJfeQKY3Jisnl59w) | [Lynyrd Skynyrd](https://open.spotify.com/artist/4MVyzYMgTwdP7Z49wAZHx0) | [Pronounced' Leh\-'Nerd 'Skin\-'Nerd](https://open.spotify.com/album/6DExt1eX4lflLacVjHHbOs) | 7:30 |
 | 35 | [The South's Gonna Do It Again](https://open.spotify.com/track/7HRqpMkcCVVhmKme8bScvl) | [The Charlie Daniels Band](https://open.spotify.com/artist/12d4iIvTOk7JkI6ecvc3ca) | [A Decade Of Hits](https://open.spotify.com/album/7H5LNy2PyN3VLUm5nnMZEc) | 3:57 |
@@ -100,8 +100,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbDjX0hus3Iu.md) - [plain]
 | 90 | [Thorn And A Wild Rose](https://open.spotify.com/track/547dyoV9eT7pPO8QbiexoI) | [The Gregg Allman Band](https://open.spotify.com/artist/5jTAPkN0XtPH0cinWMRyzw) | [Just Before The Bullets Fly](https://open.spotify.com/album/5xoqxzmNVYYpCLVaDJkJvJ) | 4:12 |
 | 91 | [Goin' Down South](https://open.spotify.com/track/2oROjYKgLpkH62lrVPGBZE) | [North Mississippi Allstars](https://open.spotify.com/artist/714osTgzZrkyf3SGjggpfY) | [Shake Hands With Shorty](https://open.spotify.com/album/43BXwIoGAQMEPKl97bDEi7) | 6:10 |
 | 92 | [Rise of the Rebel](https://open.spotify.com/track/2O1YOP4DFhpJ1kl3wjccSl) | [Amberson\-Baggett Band](https://open.spotify.com/artist/28VBsKYqZDUpbzduPgfudH) | [You Are Here](https://open.spotify.com/album/3xdpCCvy9cuWspTsouLwb7) | 3:53 |
-| 93 | [Gimme, Gimme, Gimme](https://open.spotify.com/track/1f45G1LRvCKuq7BTC67HZx) | [Blackfoot](https://open.spotify.com/artist/10rzK0sLCXsUlDhl8ed0MV) | [Train, Train](https://open.spotify.com/album/1XhDXpPbnaPmyB526mHa0I) | 4:04 |
-| 94 | [Castle Rock](https://open.spotify.com/track/59Esi3fm62DbqaVdHWQhKT) | [Barefoot Jerry](https://open.spotify.com/artist/4FC6XIiULAVlbmfrrPXsZy) | [Southern Delight/Barefoot Jerry](https://open.spotify.com/album/69OytdILaMW8zJVK5KXAXV) | 4:39 |
+| 93 | [Castle Rock](https://open.spotify.com/track/59Esi3fm62DbqaVdHWQhKT) | [Barefoot Jerry](https://open.spotify.com/artist/4FC6XIiULAVlbmfrrPXsZy) | [Southern Delight/Barefoot Jerry](https://open.spotify.com/album/69OytdILaMW8zJVK5KXAXV) | 4:39 |
+| 94 | [Gimme, Gimme, Gimme](https://open.spotify.com/track/1f45G1LRvCKuq7BTC67HZx) | [Blackfoot](https://open.spotify.com/artist/10rzK0sLCXsUlDhl8ed0MV) | [Train, Train](https://open.spotify.com/album/1XhDXpPbnaPmyB526mHa0I) | 4:04 |
 | 95 | [Time To Roll](https://open.spotify.com/track/4k4xeOTxpb6mkufYSSxfZp) | [The Dickey Betts Band](https://open.spotify.com/artist/27xGA3Cv8vhbzRPWPH7xHP), [Dickey Betts](https://open.spotify.com/artist/5km3TReHXRqvDuC83Fw3u7) | [Pattern Disruptive](https://open.spotify.com/album/4MfdvvYsqYDUcmQBFKQdmq) | 4:58 |
 | 96 | [Party in the Parking Lot](https://open.spotify.com/track/5QhdEo73fM2wIFKbXvOkDd) | [Johnny Van Zant](https://open.spotify.com/artist/1oLVItT6UETI2EYrGlxSt1) | [Brickyard Road](https://open.spotify.com/album/7wsoPFu2KaBpVgUvgHBjER) | 5:08 |
 | 97 | [Open Road](https://open.spotify.com/track/0qmMJfVn7KlhRab9zgwS7z) | [Grinderswitch](https://open.spotify.com/artist/0zdtxv7cxrUpRCS7IbKyYz) | [Pullin' Together](https://open.spotify.com/album/4KYsD0KdmyZZT34Sp8hLUz) | 4:09 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbDjX0hus3Iu.md) - [plain]
 | 99 | [Don't Know Where I'm Bound](https://open.spotify.com/track/5NKXLHZDXSpEf3u3IEfVKQ) | [Ghost Riders](https://open.spotify.com/artist/7LUw9i1NIAXmEwSEQiGVug) | [Back to Rock](https://open.spotify.com/album/5lptGM32Mq08q4P0SBXEH7) | 4:07 |
 | 100 | [Fire In The Kitchen](https://open.spotify.com/track/2OXVvNEILOCFxEHEElOHTb) | [Warren Haynes](https://open.spotify.com/artist/73iWh9WUMf0xK6cRkNJK4h) | [Live At The Moody Theater](https://open.spotify.com/album/7fBc5Ge5u6lxKBxqaaU8y8) | 7:06 |
 
-Snapshot ID: `MCw4YmY4ODQzM2U0ZTEwY2FhM2MxOTE1Njg4YmU5ZDdiNzRmYWJiNTA1`
+Snapshot ID: `MCxkM2NhODFmOWQ5YmFmMmFiMzQ0NDUzZjQ3MTVlZWZiOTgwOTk1NDZm`

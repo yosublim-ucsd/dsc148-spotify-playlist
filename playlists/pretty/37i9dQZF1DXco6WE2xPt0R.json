@@ -1,12 +1,12 @@
 {
   "description": "longe dos perigos noturnos",
-  "num_followers": 112858,
+  "num_followers": 112911,
   "original_name": "dengo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiNTU3YmNmM2M4MzdkZDg0NzdjNGM4NDY1YmQ4YTY5YjEwYTEwNTRm",
+  "snapshot_id": "MCw3YmE1OGQ3NTljMzk3NWIwY2EyZjQyMmUyNTMzNmVhOTVhMmE2Mjdi",
   "tracks": [
     {
       "added_at": "2024-03-08 03:01:00",
@@ -739,26 +739,6 @@
     {
       "added_at": "2024-03-08 03:01:00",
       "album": {
-        "name": "Perfect Stranger (feat. Kenny Lattimore)",
-        "url": "https://open.spotify.com/album/4VAxIlO6cvGFgF6SudtKwW"
-      },
-      "artists": [
-        {
-          "name": "Ledisi",
-          "url": "https://open.spotify.com/artist/60ciIY5MouLc2Y9n34DJdA"
-        },
-        {
-          "name": "Kenny Lattimore",
-          "url": "https://open.spotify.com/artist/1UjTUqWfGkof4L5HO5NmzP"
-        }
-      ],
-      "duration_ms": 231580,
-      "name": "Perfect Stranger (feat. Kenny Lattimore)",
-      "url": "https://open.spotify.com/track/2u2ji0HpSmNJkklMTDwg0i"
-    },
-    {
-      "added_at": "2024-03-08 03:01:00",
-      "album": {
         "name": "Scene 1 - A COLORS SHOW",
         "url": "https://open.spotify.com/album/0f39zUtqQNYunlzmj3yLmh"
       },
@@ -803,6 +783,26 @@
       "duration_ms": 197427,
       "name": "Bag Of You",
       "url": "https://open.spotify.com/track/3X7aFBB2ja4QT2XEuxKCIA"
+    },
+    {
+      "added_at": "2024-03-08 03:01:00",
+      "album": {
+        "name": "Perfect Stranger (feat. Kenny Lattimore)",
+        "url": "https://open.spotify.com/album/4VAxIlO6cvGFgF6SudtKwW"
+      },
+      "artists": [
+        {
+          "name": "Ledisi",
+          "url": "https://open.spotify.com/artist/60ciIY5MouLc2Y9n34DJdA"
+        },
+        {
+          "name": "Kenny Lattimore",
+          "url": "https://open.spotify.com/artist/1UjTUqWfGkof4L5HO5NmzP"
+        }
+      ],
+      "duration_ms": 231580,
+      "name": "Perfect Stranger (feat. Kenny Lattimore)",
+      "url": "https://open.spotify.com/track/2u2ji0HpSmNJkklMTDwg0i"
     },
     {
       "added_at": "2024-03-08 03:01:00",
@@ -899,6 +899,22 @@
     {
       "added_at": "2024-03-08 03:01:00",
       "album": {
+        "name": "Nothing Even Matters",
+        "url": "https://open.spotify.com/album/6zDsHTY8HvN8tTNb1me4bY"
+      },
+      "artists": [
+        {
+          "name": "SiR",
+          "url": "https://open.spotify.com/artist/3QTDHixorJelOLxoxcjqGx"
+        }
+      ],
+      "duration_ms": 219130,
+      "name": "Nothing Even Matters",
+      "url": "https://open.spotify.com/track/19LSoauRHOQHDuXvPdi9QH"
+    },
+    {
+      "added_at": "2024-03-08 03:01:00",
+      "album": {
         "name": "Slow (feat. J Valentine)",
         "url": "https://open.spotify.com/album/2URY7aT8Ig8jxhlXK3bWOl"
       },
@@ -915,6 +931,22 @@
       "duration_ms": 200212,
       "name": "Slow (feat. J Valentine)",
       "url": "https://open.spotify.com/track/78t5Br2LpRmlisvBzxE4mZ"
+    },
+    {
+      "added_at": "2024-03-08 03:01:00",
+      "album": {
+        "name": "IRL",
+        "url": "https://open.spotify.com/album/7bKq4j24ElIraQgGgitmTh"
+      },
+      "artists": [
+        {
+          "name": "Mahalia",
+          "url": "https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI"
+        }
+      ],
+      "duration_ms": 181533,
+      "name": "Ready",
+      "url": "https://open.spotify.com/track/7LzMXczfHrBcokv1j6FZev"
     },
     {
       "added_at": "2024-03-08 03:01:00",
@@ -959,22 +991,6 @@
     {
       "added_at": "2024-03-08 03:01:00",
       "album": {
-        "name": "IRL",
-        "url": "https://open.spotify.com/album/7bKq4j24ElIraQgGgitmTh"
-      },
-      "artists": [
-        {
-          "name": "Mahalia",
-          "url": "https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI"
-        }
-      ],
-      "duration_ms": 181533,
-      "name": "Ready",
-      "url": "https://open.spotify.com/track/7LzMXczfHrBcokv1j6FZev"
-    },
-    {
-      "added_at": "2024-03-08 03:01:00",
-      "album": {
         "name": "Ocean",
         "url": "https://open.spotify.com/album/7t8M65IwqNUBrmrElXW8dX"
       },
@@ -987,22 +1003,6 @@
       "duration_ms": 214054,
       "name": "Ocean",
       "url": "https://open.spotify.com/track/3FjHTALrJ66zzELMcge5vn"
-    },
-    {
-      "added_at": "2024-03-08 03:01:00",
-      "album": {
-        "name": "Nothing Even Matters",
-        "url": "https://open.spotify.com/album/6zDsHTY8HvN8tTNb1me4bY"
-      },
-      "artists": [
-        {
-          "name": "SiR",
-          "url": "https://open.spotify.com/artist/3QTDHixorJelOLxoxcjqGx"
-        }
-      ],
-      "duration_ms": 219130,
-      "name": "Nothing Even Matters",
-      "url": "https://open.spotify.com/track/19LSoauRHOQHDuXvPdi9QH"
     },
     {
       "added_at": "2024-03-08 03:01:00",
@@ -1043,6 +1043,22 @@
     {
       "added_at": "2024-03-08 03:01:00",
       "album": {
+        "name": "Letter To Ur Ex",
+        "url": "https://open.spotify.com/album/4IHthCcvRUuVuKtlclVSBY"
+      },
+      "artists": [
+        {
+          "name": "Mahalia",
+          "url": "https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI"
+        }
+      ],
+      "duration_ms": 134279,
+      "name": "Letter To Ur N(ex)t",
+      "url": "https://open.spotify.com/track/4LjOVLoj6OrrNJktFTYPGK"
+    },
+    {
+      "added_at": "2024-03-08 03:01:00",
+      "album": {
         "name": "Hoodie",
         "url": "https://open.spotify.com/album/1ZLgyjJGWx0ocXdzxGAToN"
       },
@@ -1075,22 +1091,6 @@
       "duration_ms": 207203,
       "name": "Love and Be Loved",
       "url": "https://open.spotify.com/track/7DPXIv3DSRxRB7N75HMrH8"
-    },
-    {
-      "added_at": "2024-03-08 03:01:00",
-      "album": {
-        "name": "Letter To Ur Ex",
-        "url": "https://open.spotify.com/album/4IHthCcvRUuVuKtlclVSBY"
-      },
-      "artists": [
-        {
-          "name": "Mahalia",
-          "url": "https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI"
-        }
-      ],
-      "duration_ms": 134279,
-      "name": "Letter To Ur N(ex)t",
-      "url": "https://open.spotify.com/track/4LjOVLoj6OrrNJktFTYPGK"
     },
     {
       "added_at": "2024-03-08 03:01:00",
@@ -1407,22 +1407,6 @@
     {
       "added_at": "2024-03-08 03:01:00",
       "album": {
-        "name": "Little Men (Deluxe)",
-        "url": "https://open.spotify.com/album/4j5hckSfZgpxQZ2cMmqVaB"
-      },
-      "artists": [
-        {
-          "name": "Marc E. Bassy",
-          "url": "https://open.spotify.com/artist/3tQx1LPXbsYjE9VwN1Peaa"
-        }
-      ],
-      "duration_ms": 240074,
-      "name": "Crash for a Couple",
-      "url": "https://open.spotify.com/track/4QZftmaKVCq83BdkmnEIna"
-    },
-    {
-      "added_at": "2024-03-08 03:01:00",
-      "album": {
         "name": "Standards",
         "url": "https://open.spotify.com/album/4LKUDSVzFa5P0CiOXtJNEJ"
       },
@@ -1435,6 +1419,22 @@
       "duration_ms": 186294,
       "name": "Standards",
       "url": "https://open.spotify.com/track/5m0X50W9ga5qghnXzeKNSe"
+    },
+    {
+      "added_at": "2024-03-08 03:01:00",
+      "album": {
+        "name": "Little Men (Deluxe)",
+        "url": "https://open.spotify.com/album/4j5hckSfZgpxQZ2cMmqVaB"
+      },
+      "artists": [
+        {
+          "name": "Marc E. Bassy",
+          "url": "https://open.spotify.com/artist/3tQx1LPXbsYjE9VwN1Peaa"
+        }
+      ],
+      "duration_ms": 240074,
+      "name": "Crash for a Couple",
+      "url": "https://open.spotify.com/track/4QZftmaKVCq83BdkmnEIna"
     },
     {
       "added_at": "2024-03-08 03:01:00",
@@ -1455,22 +1455,6 @@
     {
       "added_at": "2024-03-08 03:01:00",
       "album": {
-        "name": "Let Me See Your Phone",
-        "url": "https://open.spotify.com/album/4f6ijLrllKsvvUEhiuqVv4"
-      },
-      "artists": [
-        {
-          "name": "DRAM",
-          "url": "https://open.spotify.com/artist/5M0lbkGluOPXLeFjApw8r8"
-        }
-      ],
-      "duration_ms": 202371,
-      "name": "Let Me See Your Phone",
-      "url": "https://open.spotify.com/track/5rBXXZWDsIRsi5Ur2JWTsC"
-    },
-    {
-      "added_at": "2024-03-08 03:01:00",
-      "album": {
         "name": "Midnight Snacks",
         "url": "https://open.spotify.com/album/1EEE1VEoFi5y8lqe7NGfHM"
       },
@@ -1483,6 +1467,22 @@
       "duration_ms": 195000,
       "name": "Midnight Snacks",
       "url": "https://open.spotify.com/track/7lampoWFogPIJZRxThSOBq"
+    },
+    {
+      "added_at": "2024-03-08 03:01:00",
+      "album": {
+        "name": "Let Me See Your Phone",
+        "url": "https://open.spotify.com/album/4f6ijLrllKsvvUEhiuqVv4"
+      },
+      "artists": [
+        {
+          "name": "DRAM",
+          "url": "https://open.spotify.com/artist/5M0lbkGluOPXLeFjApw8r8"
+        }
+      ],
+      "duration_ms": 202371,
+      "name": "Let Me See Your Phone",
+      "url": "https://open.spotify.com/track/5rBXXZWDsIRsi5Ur2JWTsC"
     },
     {
       "added_at": "2024-03-08 03:01:00",

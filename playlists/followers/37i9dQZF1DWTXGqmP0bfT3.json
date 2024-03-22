@@ -1,5 +1,5 @@
 {
-  "2024-03-21": 344215,
+  "2024-03-22": 344706,
   "date_first_scraped": "2021-12-30",
   "description": "brutal breakdowns and riffs to amp you up.",
   "name": "Energy Booster: Metal",
@@ -3357,6 +3357,28 @@
     {
       "album": {
         "name": "Hard Reset",
+        "url": "https://open.spotify.com/album/17cbasTWOvRFtMoHb7aiHm"
+      },
+      "artists": [
+        {
+          "name": "The Word Alive",
+          "url": "https://open.spotify.com/artist/1CF8aEN939swnuIZGFI7Hk"
+        },
+        {
+          "name": "Bad Omens",
+          "url": "https://open.spotify.com/artist/3Ri4H12KFyu98LMjSoij5V"
+        }
+      ],
+      "date_added": "2024-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223800,
+      "name": "One Of Us",
+      "url": "https://open.spotify.com/track/2Os6Vp6QlErl2E5hwfdrUh"
+    },
+    {
+      "album": {
+        "name": "Hard Reset",
         "url": "https://open.spotify.com/album/5H49CClHBLpUgyKN8ZCour"
       },
       "artists": [
@@ -3371,7 +3393,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-21",
       "duration_ms": 223800,
       "name": "One Of Us",
       "url": "https://open.spotify.com/track/33jSdWZrZmhQt2MYQBJgm9"

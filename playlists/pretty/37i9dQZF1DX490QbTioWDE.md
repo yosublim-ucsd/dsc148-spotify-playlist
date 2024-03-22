@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX490QbTioWDE.md) - [plain]
 
 > Fuego y Pasión\. Pasión Cordobesa, pasión Argentina\. <br/>Foto: Q' Lokura.
 
-[Spotify](https://open.spotify.com/user/spotify) - 691,654 likes - 100 songs - 6 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 692,076 likes - 100 songs - 6 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -95,9 +95,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX490QbTioWDE.md) - [plain]
 | 85 | [La Luna](https://open.spotify.com/track/0Ejn4nJYdI2hfDOPbIpPmH) | [La Mona Jimenez](https://open.spotify.com/artist/64DFKvGarD5nmkfaIiiakf) | [Antologia Carlitos La Mona Jimenez](https://open.spotify.com/album/2B7vtykttjBxIaowIMIhUg) | 4:05 |
 | 86 | [Perfecto Idiota](https://open.spotify.com/track/59KZHCDC4BNb1K4wu1rBPo) | [Uriel Lozano](https://open.spotify.com/artist/5Qv1EsPany9Fc3yyCJnoxw), [Ulises Bueno](https://open.spotify.com/artist/2UqRkW2wfEkZmyvKyTTv2W) | [Diferente](https://open.spotify.com/album/62CK08DxCnCChEiaNHQaY0) | 4:02 |
 | 87 | [Voy A Olvidarme De Mi](https://open.spotify.com/track/7At4ts4UEcrRJSP0rR3Q0B) | [Flor Vigna](https://open.spotify.com/artist/7xknmvFivAH3FxfLCQKuKE), [Mario Luis](https://open.spotify.com/artist/13KeE3TnUrYh367HJu0sMx) | [Voy A Olvidarme De Mi](https://open.spotify.com/album/4FEH9l7ARowZhR1kL9X4WF) | 3:07 |
-| 88 | [Como Te Va Mi Amor \- Hasta Hoy](https://open.spotify.com/track/1hJtbQKy4IRhaCHRnqxLgu) | [Valentina](https://open.spotify.com/artist/3oGhssL7pwYYY0J64HJHNR), [Valentina Marquez](https://open.spotify.com/artist/3O5RpnQurugPG3Btl8UBPC) | [Como Te Va Mi Amor \- Hasta Hoy](https://open.spotify.com/album/4FIthNt89FvPFUUwGVjyVj) | 5:27 |
+| 88 | [Dame un Poco Mas](https://open.spotify.com/track/7DClQMEhTG6atticp11xbw) | [Monada](https://open.spotify.com/artist/5ts3iw277wUG2DUKnqktAD) | [Espectacular Monada](https://open.spotify.com/album/1zR6ffS6SEIPkzRQMroBBo) | 3:47 |
 | 89 | [Como La Primera Vez](https://open.spotify.com/track/04yNy2x0uJKE3iWHlmNTX0) | [Simon Aguirre](https://open.spotify.com/artist/3tkCQ0W9ITi32E2ddBdU0M) | [Como La Primera Vez](https://open.spotify.com/album/25bmi5QxyxzTbweYEeTtUd) | 3:53 |
-| 90 | [Dame un Poco Mas](https://open.spotify.com/track/7DClQMEhTG6atticp11xbw) | [Monada](https://open.spotify.com/artist/5ts3iw277wUG2DUKnqktAD) | [Espectacular Monada](https://open.spotify.com/album/1zR6ffS6SEIPkzRQMroBBo) | 3:47 |
+| 90 | [Como Te Va Mi Amor \- Hasta Hoy](https://open.spotify.com/track/1hJtbQKy4IRhaCHRnqxLgu) | [Valentina](https://open.spotify.com/artist/3oGhssL7pwYYY0J64HJHNR), [Valentina Marquez](https://open.spotify.com/artist/3O5RpnQurugPG3Btl8UBPC) | [Como Te Va Mi Amor \- Hasta Hoy](https://open.spotify.com/album/4FIthNt89FvPFUUwGVjyVj) | 5:27 |
 | 91 | [La Vagancia Cuartetera](https://open.spotify.com/track/2YaJoA2sjtcfq8oM9CyIri) | [Damas Gratis](https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV), [La Mona Jimenez](https://open.spotify.com/artist/64DFKvGarD5nmkfaIiiakf) | [La Vagancia Cuartetera](https://open.spotify.com/album/3SP1JmVsoWHsHVOpxhMRTB) | 3:31 |
 | 92 | [Tututu Tatata](https://open.spotify.com/track/6j6d74YdMpWY2jRGeMzyCs) | [El Polaco](https://open.spotify.com/artist/3ucYybVr1mTuB04HtoBDCc), [Banda XXI](https://open.spotify.com/artist/4She1focTkX0pwpJUtS5eo) | [Tututu Tatata](https://open.spotify.com/album/18mVwG8HDttyl7uw1YKcRw) | 2:27 |
 | 93 | [La Bella y la Bestia](https://open.spotify.com/track/71BayRBmRYO3UPK2PxoMvy) | [La Fiesta](https://open.spotify.com/artist/5WJWxdQGsrF1G1iX0ixLfb), [La K'onga](https://open.spotify.com/artist/3ghRXw2nUEH2THaL82hw8R) | [La Bella y la Bestia](https://open.spotify.com/album/6yatQdjakC2F3cQm6359CG) | 3:20 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX490QbTioWDE.md) - [plain]
 | 99 | [Chachachá](https://open.spotify.com/track/5eO1kn8BVM6YFiXdMHDxsE) | [Monada](https://open.spotify.com/artist/5ts3iw277wUG2DUKnqktAD) | [Chachachá](https://open.spotify.com/album/2V0O7HPYdlxCdEr4m7AZ3e) | 3:52 |
 | 100 | [Quiéreme \- Cuarteto](https://open.spotify.com/track/16TVpC45y7WRr5jRxyXWxc) | [Angela Leiva](https://open.spotify.com/artist/6Y4g5zwJI7jcRzGLXh0H5d), [Magui Olave](https://open.spotify.com/artist/1kfrmHoRbXekpUf2iM6zBE) | [Quiéreme \(Cuarteto\)](https://open.spotify.com/album/4dwtcMOGdBahKQSUk6sgaU) | 5:36 |
 
-Snapshot ID: `MCw3MGFhNmNmYTIwYWE1OTUzMWNmZmJkNTYyMzEwODM4YTA0M2JhMTYx`
+Snapshot ID: `MCxmMGQwYTJjYTM4ZTc4NDgxZTcyOGQwYzNhODQzNmNmZTBmNWQ5ZjVm`

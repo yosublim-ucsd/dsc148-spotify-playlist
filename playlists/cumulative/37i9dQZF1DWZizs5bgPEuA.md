@@ -4,7 +4,7 @@
 
 > Music by our 2024 Artists To Watch\. Cover: Gonzy & Saiko
 
-73 songs - 3 hr 41 min
+74 songs - 3 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,7 +24,8 @@
 | [Cáscara de Coco](https://open.spotify.com/track/0IPoG1zyHibWHm3ACZdgBP) | [Villano Antillano](https://open.spotify.com/artist/1pi7nGhOM7PTHR5YEgXVGq) | [La Sustancia X](https://open.spotify.com/album/3vNcWxeBpYQJ9OkAcm3ch3) | 2:56 | 2023-07-14 | 2024-01-11 |
 | [De Nada \- Remix](https://open.spotify.com/track/3jqFGtyQtgxRgtFaoEAoac) | [Yami Safdie](https://open.spotify.com/artist/4RWJOoYwgF978LOn8Fainp), [Micro TDH](https://open.spotify.com/artist/1aWJsBQa67l72j1VT3D6Ow), [Rusherking](https://open.spotify.com/artist/3Apb2lGmGJaBmr0TTBJvIZ) | [De Nada \(Remix\)](https://open.spotify.com/album/53eR7ZWqLIdRVZHcQfHgaC) | 2:59 | 2024-01-10 |  |
 | [Desde Mis Ojos \- Remix](https://open.spotify.com/track/0hzC5kZ6qKZJ9ybyW75VV8) | [Chris Lebron](https://open.spotify.com/artist/3GPTvhZ8XfH7WkHXidvELk), [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht), [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g) | [Desde Mis Ojos \(Remix\)](https://open.spotify.com/album/7eJGJIPw6kPngdBin2b3iL) | 3:43 | 2023-07-14 | 2024-01-11 |
-| [Dijeron Que No La Iba Lograr](https://open.spotify.com/track/7dR09k1an5JEq7ch0Y5hvV) | [Chino Pacas](https://open.spotify.com/artist/2rmkQLzj0k4nZdQehOUByO), [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [Dijeron Que No La Iba Lograr](https://open.spotify.com/album/3pyALc28lhIbH4gPXVNb9g) | 1:53 | 2024-01-10 |  |
+| [Dijeron Que No La Iba Lograr](https://open.spotify.com/track/2VhYFNgH2oNn4N92YGwLnu) | [Chino Pacas](https://open.spotify.com/artist/2rmkQLzj0k4nZdQehOUByO), [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [Dijeron Que No La Iba Lograr](https://open.spotify.com/album/4YT0dtOM9IDdAfFONKmazN) | 1:53 | 2024-03-01 |  |
+| [Dijeron Que No La Iba Lograr](https://open.spotify.com/track/7dR09k1an5JEq7ch0Y5hvV) | [Chino Pacas](https://open.spotify.com/artist/2rmkQLzj0k4nZdQehOUByO), [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [Dijeron Que No La Iba Lograr](https://open.spotify.com/album/3pyALc28lhIbH4gPXVNb9g) | 1:53 | 2024-01-10 | 2024-03-22 |
 | [Donde Estás](https://open.spotify.com/track/69qvqJ61NqTtr1eO29tapa) | [Ivan Cornejo](https://open.spotify.com/artist/6PH3FLQAxtqYy46Zv08bpV) | [Donde Estás](https://open.spotify.com/album/3P1vHJYr9mrJYvIEWNm8yb) | 4:09 | 2023-10-13 | 2024-01-11 |
 | [El Bolero](https://open.spotify.com/track/7FwSZyO5ynlN0OJGVOjE6k) | [Yami Safdie](https://open.spotify.com/artist/4RWJOoYwgF978LOn8Fainp), [Milo j](https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3) | [Dije Que No Me Iba a Enamorar](https://open.spotify.com/album/4xbpODmwG0GGAVbTA8PH8Y) | 3:26 | 2024-01-10 |  |
 | [El Gordo Trae El Mando](https://open.spotify.com/track/3kf0WdFOalKWBkCCLJo4mA) | [Chino Pacas](https://open.spotify.com/artist/2rmkQLzj0k4nZdQehOUByO) | [El Gordo Trae El Mando](https://open.spotify.com/album/0DqHNI5QhosQmpQ5Ojzqe6) | 1:52 | 2024-01-10 |  |

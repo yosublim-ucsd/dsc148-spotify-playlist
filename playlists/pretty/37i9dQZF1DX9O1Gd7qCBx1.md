@@ -57,8 +57,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9O1Gd7qCBx1.md) - [plain]
 | 47 | [Romance del Enamorado y la Muerte](https://open.spotify.com/track/0PQoLyBIZyBFZLvbLpJqfY) | [Diego Lorenzini](https://open.spotify.com/artist/58ogXGbkmpbFtAbePMPiQ4) | [Romance del Enamorado y la Muerte](https://open.spotify.com/album/1KkQO5xOhLvog2bR7hk2Js) | 3:34 |
 | 48 | [Mis Muertos](https://open.spotify.com/track/4D96nwMFxCAHAg7xAokRdi) | [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [La Enamorada](https://open.spotify.com/album/0wixYeQxrkuwg0bzGDjtwu) | 2:21 |
 | 49 | [Boda Negra \(El Enterrador\)](https://open.spotify.com/track/5hUYlquq3LbUg9YsxvsxyQ) | [Ana Gabriel](https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe) | [Joyas De Dos Siglos](https://open.spotify.com/album/61OaHiemzBG4mL8F2tV05e) | 3:46 |
-| 50 | [Los Versos de la Catrina](https://open.spotify.com/track/2vrAYVaAM7VuEyhA0xgmT7) | [Armando Palomas](https://open.spotify.com/artist/1kv4ncfnnPUUXAlEOS55B4) | [Los Versos de la Catrina](https://open.spotify.com/album/6OZIPpGkC15B2VSaQ8iqJ7) | 4:07 |
-| 51 | [El Diablito Loco](https://open.spotify.com/track/1VrjnASRwJ4MTHz5HtyGAq) | [Leda Moreno](https://open.spotify.com/artist/5zwnyjAYKiyVoXPMtfdcXd) | [El Diablito Loco](https://open.spotify.com/album/3IYh2snfaDTZY9GO0UKnWP) | 2:27 |
+| 50 | [El Diablito Loco](https://open.spotify.com/track/1VrjnASRwJ4MTHz5HtyGAq) | [Leda Moreno](https://open.spotify.com/artist/5zwnyjAYKiyVoXPMtfdcXd) | [El Diablito Loco](https://open.spotify.com/album/3IYh2snfaDTZY9GO0UKnWP) | 2:27 |
+| 51 | [Los Versos de la Catrina](https://open.spotify.com/track/2vrAYVaAM7VuEyhA0xgmT7) | [Armando Palomas](https://open.spotify.com/artist/1kv4ncfnnPUUXAlEOS55B4) | [Los Versos de la Catrina](https://open.spotify.com/album/6OZIPpGkC15B2VSaQ8iqJ7) | 4:07 |
 | 52 | [Cempasúchil](https://open.spotify.com/track/6i5K4Mxce8t9AT1RWxuiG5) | [Monsieur Periné](https://open.spotify.com/artist/36KsCCwgI0Dep97yVJWmkK) | [Caja de Música \(Edición Especial\)](https://open.spotify.com/album/75lParfrGxiexJOFlDh94X) | 4:14 |
 | 53 | [Colores](https://open.spotify.com/track/5dLoAn6kUOAlO6Aolf9rey) | [Ampersan](https://open.spotify.com/artist/5A7ayYKcSsydP31DqS4vQW) | [Flor de Biznaga](https://open.spotify.com/album/4LWaaqC9aAr5OhNsWqOZ3J) | 6:10 |
 | 54 | [Canción de las Brujas \- Remasterizado](https://open.spotify.com/track/6ybGIJN1T8O7XtUMhG5r83) | [Cri\-Cri](https://open.spotify.com/artist/4vM6clYXqkZbQv4O2OT5P4) | [Las 100 Clásicas de Cri Cri Vol\. 1](https://open.spotify.com/album/4fY0mv7l1rEmuBHOeLGq13) | 3:16 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9O1Gd7qCBx1.md) - [plain]
 | 99 | [Tristísimo Panteón](https://open.spotify.com/track/6hd02N0fmG5pFYm5LukkT9) | [Óscar Chávez](https://open.spotify.com/artist/4QHjJWgPhculd31AHEsjOb) | [Amorosas, Divertidas y Horrorosisímas Canciones de la Calaca Flaca](https://open.spotify.com/album/7AD6KZ2K8f93wLqnAk97S8) | 3:50 |
 | 100 | [Morir en Paz](https://open.spotify.com/track/2R5tHhHmGxhbrvOpoDluqr) | [Susana Harp](https://open.spotify.com/artist/6w8n4eJyKefJUTK66Miloo) | [Ahora](https://open.spotify.com/album/02QQSaeRpqQrmNkJS6V4Xs) | 6:34 |
 
-Snapshot ID: `MCxjMzI5MTM5ZGY2MzlkNGVlZjZlNTg5MTQ2OGFiMGZiMzRiNzgzNmEy`
+Snapshot ID: `MCw2NzNhYTg3ZmEwMTI4ZmNiMTgzNTcwMTIwM2RiNmVkOTRiMjZkNDA1`

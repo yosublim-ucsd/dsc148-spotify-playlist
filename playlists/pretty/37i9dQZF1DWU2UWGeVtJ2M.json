@@ -1,12 +1,12 @@
 {
   "description": "\u8a66\u8457\u62cb\u958b\u6240\u6709\u7169\u60f1\uff0c\u914d\u4e0a\u4e00\u9ede\u7279\u610f\u7684\u5c0f\u78ba\u5e78\uff0c\u9019\u4e00\u523b\u53ea\u5c6c\u65bc\u4f60...",
-  "num_followers": 158639,
+  "num_followers": 158668,
   "original_name": "\u6211\u7684\u5fae\u91ba\u591c",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2MDNhY2VlM2YxZjVkMzlmYjc2YjE5MGQ3NTM2YTZlNmNhODQ2ZTNj",
+  "snapshot_id": "MCwyM2MxMDQxYzRmYWY5NzFkYTA3YTMxMmQ3YTk1NjdhYTgwMWIwY2Rh",
   "tracks": [
     {
       "added_at": "2024-03-18 03:01:56",
@@ -27,6 +27,22 @@
       "duration_ms": 179080,
       "name": "Get You The Moon (feat. Sn\u00f8w)",
       "url": "https://open.spotify.com/track/4ZLzoOkj0MPWrTLvooIuaa"
+    },
+    {
+      "added_at": "2024-03-22 00:17:25",
+      "album": {
+        "name": "Close To Me",
+        "url": "https://open.spotify.com/album/5OOea733uhyneBGd5UKDRS"
+      },
+      "artists": [
+        {
+          "name": "brayll",
+          "url": "https://open.spotify.com/artist/7F28ZyhZHLxLy2gfNM3Gt9"
+        }
+      ],
+      "duration_ms": 209653,
+      "name": "Close To Me",
+      "url": "https://open.spotify.com/track/4uqrNjosNZKTxtsEUpjkIm"
     },
     {
       "added_at": "2024-03-18 03:01:56",
@@ -211,6 +227,22 @@
     {
       "added_at": "2024-03-18 03:01:56",
       "album": {
+        "name": "WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?",
+        "url": "https://open.spotify.com/album/0S0KGZnfBGSIssfF54WSJh"
+      },
+      "artists": [
+        {
+          "name": "Billie Eilish",
+          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+        }
+      ],
+      "duration_ms": 221543,
+      "name": "wish you were gay",
+      "url": "https://open.spotify.com/track/3Fj47GNK2kUF0uaEDgXLaD"
+    },
+    {
+      "added_at": "2024-03-18 03:01:56",
+      "album": {
         "name": "Love Me",
         "url": "https://open.spotify.com/album/7hgekZLPc8OHgk8kAaPkel"
       },
@@ -239,22 +271,6 @@
       "duration_ms": 227031,
       "name": "drunk",
       "url": "https://open.spotify.com/track/6D6HVKe7Qu3imn4zzJD0W9"
-    },
-    {
-      "added_at": "2024-03-18 03:01:56",
-      "album": {
-        "name": "WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?",
-        "url": "https://open.spotify.com/album/0S0KGZnfBGSIssfF54WSJh"
-      },
-      "artists": [
-        {
-          "name": "Billie Eilish",
-          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
-        }
-      ],
-      "duration_ms": 221543,
-      "name": "wish you were gay",
-      "url": "https://open.spotify.com/track/3Fj47GNK2kUF0uaEDgXLaD"
     },
     {
       "added_at": "2024-03-18 03:01:56",
@@ -335,6 +351,22 @@
     {
       "added_at": "2024-03-18 03:01:56",
       "album": {
+        "name": "Happier Than Ever",
+        "url": "https://open.spotify.com/album/0JGOiO34nwfUdDrD612dOp"
+      },
+      "artists": [
+        {
+          "name": "Billie Eilish",
+          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+        }
+      ],
+      "duration_ms": 212496,
+      "name": "Lost Cause",
+      "url": "https://open.spotify.com/track/4191RXFPa7Ge9XkA4cWlna"
+    },
+    {
+      "added_at": "2024-03-18 03:01:56",
+      "album": {
         "name": "Lego Ring",
         "url": "https://open.spotify.com/album/61ZY4FMQgChUDCXRJ4C4lz"
       },
@@ -371,22 +403,6 @@
       "duration_ms": 230964,
       "name": "fue mejor (feat. SZA)",
       "url": "https://open.spotify.com/track/1CrPPsibP3uTc3DSI5vQC5"
-    },
-    {
-      "added_at": "2024-03-18 03:01:56",
-      "album": {
-        "name": "Happier Than Ever",
-        "url": "https://open.spotify.com/album/0JGOiO34nwfUdDrD612dOp"
-      },
-      "artists": [
-        {
-          "name": "Billie Eilish",
-          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
-        }
-      ],
-      "duration_ms": 212496,
-      "name": "Lost Cause",
-      "url": "https://open.spotify.com/track/4191RXFPa7Ge9XkA4cWlna"
     },
     {
       "added_at": "2024-03-18 03:01:56",
@@ -459,6 +475,22 @@
     {
       "added_at": "2024-03-18 03:01:56",
       "album": {
+        "name": "my future",
+        "url": "https://open.spotify.com/album/3oxhQpF3Twbkl18oQYfnh5"
+      },
+      "artists": [
+        {
+          "name": "Billie Eilish",
+          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+        }
+      ],
+      "duration_ms": 208155,
+      "name": "my future",
+      "url": "https://open.spotify.com/track/2ygvZOXrIeVL4xZmAWJT2C"
+    },
+    {
+      "added_at": "2024-03-18 03:01:56",
+      "album": {
         "name": "always",
         "url": "https://open.spotify.com/album/37FLvUnF5qC1LZBNCWqG1A"
       },
@@ -523,22 +555,6 @@
     {
       "added_at": "2024-03-18 03:01:56",
       "album": {
-        "name": "my future",
-        "url": "https://open.spotify.com/album/3oxhQpF3Twbkl18oQYfnh5"
-      },
-      "artists": [
-        {
-          "name": "Billie Eilish",
-          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
-        }
-      ],
-      "duration_ms": 208155,
-      "name": "my future",
-      "url": "https://open.spotify.com/track/2ygvZOXrIeVL4xZmAWJT2C"
-    },
-    {
-      "added_at": "2024-03-18 03:01:56",
-      "album": {
         "name": "Wish I Was Better",
         "url": "https://open.spotify.com/album/0dbCEm3gL91TgF2Gihuexr"
       },
@@ -559,22 +575,6 @@
     {
       "added_at": "2024-03-18 03:01:56",
       "album": {
-        "name": "Ride",
-        "url": "https://open.spotify.com/album/4w4qRzvzlZZE2QgMOm5ifs"
-      },
-      "artists": [
-        {
-          "name": "HYBS",
-          "url": "https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI"
-        }
-      ],
-      "duration_ms": 181622,
-      "name": "Ride",
-      "url": "https://open.spotify.com/track/7fyVBKYJYMP42nNr9RFTAT"
-    },
-    {
-      "added_at": "2024-03-18 03:01:56",
-      "album": {
         "name": "bandaids",
         "url": "https://open.spotify.com/album/4LfFHT00C9ImLMUjHkqWjQ"
       },
@@ -587,6 +587,22 @@
       "duration_ms": 168280,
       "name": "alright",
       "url": "https://open.spotify.com/track/0zwqkO1MdFPigFIESwdJ5s"
+    },
+    {
+      "added_at": "2024-03-18 03:01:56",
+      "album": {
+        "name": "Ride",
+        "url": "https://open.spotify.com/album/4w4qRzvzlZZE2QgMOm5ifs"
+      },
+      "artists": [
+        {
+          "name": "HYBS",
+          "url": "https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI"
+        }
+      ],
+      "duration_ms": 181622,
+      "name": "Ride",
+      "url": "https://open.spotify.com/track/7fyVBKYJYMP42nNr9RFTAT"
     },
     {
       "added_at": "2024-03-18 03:01:56",
@@ -831,22 +847,6 @@
     {
       "added_at": "2024-03-18 03:01:56",
       "album": {
-        "name": "Based On A Feeling",
-        "url": "https://open.spotify.com/album/3PdyuqyxiDFTujJ8e2U2E2"
-      },
-      "artists": [
-        {
-          "name": "Sabrina Claudio",
-          "url": "https://open.spotify.com/artist/30DhU7BDmF4PH0JVhu8ZRg"
-        }
-      ],
-      "duration_ms": 215117,
-      "name": "Better Version",
-      "url": "https://open.spotify.com/track/3TSi3kAdU1PLg3bEQbMKes"
-    },
-    {
-      "added_at": "2024-03-18 03:01:56",
-      "album": {
         "name": "((( 2 )))",
         "url": "https://open.spotify.com/album/3Oek1SjcuXDich2rfbRipZ"
       },
@@ -863,6 +863,22 @@
       "duration_ms": 269638,
       "name": "iFeel",
       "url": "https://open.spotify.com/track/5sOft06wJLNSza2YwnE2MO"
+    },
+    {
+      "added_at": "2024-03-18 03:01:56",
+      "album": {
+        "name": "Based On A Feeling",
+        "url": "https://open.spotify.com/album/3PdyuqyxiDFTujJ8e2U2E2"
+      },
+      "artists": [
+        {
+          "name": "Sabrina Claudio",
+          "url": "https://open.spotify.com/artist/30DhU7BDmF4PH0JVhu8ZRg"
+        }
+      ],
+      "duration_ms": 215117,
+      "name": "Better Version",
+      "url": "https://open.spotify.com/track/3TSi3kAdU1PLg3bEQbMKes"
     },
     {
       "added_at": "2024-03-18 03:01:56",
@@ -955,22 +971,6 @@
     {
       "added_at": "2024-03-18 03:01:56",
       "album": {
-        "name": "PARANO\u00cfA, ANGELS, TRUE LOVE",
-        "url": "https://open.spotify.com/album/2Yg3Rha1y4PDlIWh5vy6rJ"
-      },
-      "artists": [
-        {
-          "name": "Christine and the Queens",
-          "url": "https://open.spotify.com/artist/04vj3iPUiVh5melWr0w3xT"
-        }
-      ],
-      "duration_ms": 241661,
-      "name": "A day in the water",
-      "url": "https://open.spotify.com/track/5GGLwBHZvoiub0mYt5OUSt"
-    },
-    {
-      "added_at": "2024-03-18 03:01:56",
-      "album": {
         "name": "Autumn breeze",
         "url": "https://open.spotify.com/album/2qaPqpiQfg952oIT1nrDXB"
       },
@@ -987,6 +987,22 @@
       "duration_ms": 174683,
       "name": "Autumn breeze (Feat. Milky Day)",
       "url": "https://open.spotify.com/track/2XOy3DKHapEiDxG7EFI2wT"
+    },
+    {
+      "added_at": "2024-03-18 03:01:56",
+      "album": {
+        "name": "PARANO\u00cfA, ANGELS, TRUE LOVE",
+        "url": "https://open.spotify.com/album/2Yg3Rha1y4PDlIWh5vy6rJ"
+      },
+      "artists": [
+        {
+          "name": "Christine and the Queens",
+          "url": "https://open.spotify.com/artist/04vj3iPUiVh5melWr0w3xT"
+        }
+      ],
+      "duration_ms": 241661,
+      "name": "A day in the water",
+      "url": "https://open.spotify.com/track/5GGLwBHZvoiub0mYt5OUSt"
     },
     {
       "added_at": "2024-03-18 03:01:56",
@@ -1327,6 +1343,22 @@
     {
       "added_at": "2024-03-18 03:01:56",
       "album": {
+        "name": "Animal Magic",
+        "url": "https://open.spotify.com/album/7geNHTLjHCBxdg5YlO7gse"
+      },
+      "artists": [
+        {
+          "name": "Bonobo",
+          "url": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
+        }
+      ],
+      "duration_ms": 278346,
+      "name": "Terrapin",
+      "url": "https://open.spotify.com/track/44syVsiS6uTaLRDbr1QIfr"
+    },
+    {
+      "added_at": "2024-03-18 03:01:56",
+      "album": {
         "name": "Hope For Sale",
         "url": "https://open.spotify.com/album/2opiJIrYClkW7qD2vM6vSi"
       },
@@ -1391,22 +1423,6 @@
       "duration_ms": 168906,
       "name": "Introspection",
       "url": "https://open.spotify.com/track/5byMYiGxEFH2UzqNWOztGW"
-    },
-    {
-      "added_at": "2024-03-18 03:01:56",
-      "album": {
-        "name": "Animal Magic",
-        "url": "https://open.spotify.com/album/7geNHTLjHCBxdg5YlO7gse"
-      },
-      "artists": [
-        {
-          "name": "Bonobo",
-          "url": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
-        }
-      ],
-      "duration_ms": 278346,
-      "name": "Terrapin",
-      "url": "https://open.spotify.com/track/44syVsiS6uTaLRDbr1QIfr"
     },
     {
       "added_at": "2024-03-18 03:01:56",
@@ -1531,22 +1547,6 @@
     {
       "added_at": "2024-03-18 03:01:56",
       "album": {
-        "name": "Late (Again)",
-        "url": "https://open.spotify.com/album/1HG8JzEVxRXXl0MyYRjBLz"
-      },
-      "artists": [
-        {
-          "name": "vito.",
-          "url": "https://open.spotify.com/artist/76qlBev2S8MtsJSHxEgoJ0"
-        }
-      ],
-      "duration_ms": 115119,
-      "name": "Late (Again)",
-      "url": "https://open.spotify.com/track/2hSjqnEeGoOQvCOnoMtXWE"
-    },
-    {
-      "added_at": "2024-03-18 03:01:56",
-      "album": {
         "name": "Trying Not To Cry (feat. Cavetown)",
         "url": "https://open.spotify.com/album/0eYVO4mb4QcZNV9d3dgTiv"
       },
@@ -1563,6 +1563,22 @@
       "duration_ms": 142310,
       "name": "Trying Not To Cry (feat. Cavetown)",
       "url": "https://open.spotify.com/track/1dO8sjJOtUpz0CWelezE4f"
+    },
+    {
+      "added_at": "2024-03-18 03:01:56",
+      "album": {
+        "name": "Late (Again)",
+        "url": "https://open.spotify.com/album/1HG8JzEVxRXXl0MyYRjBLz"
+      },
+      "artists": [
+        {
+          "name": "vito.",
+          "url": "https://open.spotify.com/artist/76qlBev2S8MtsJSHxEgoJ0"
+        }
+      ],
+      "duration_ms": 115119,
+      "name": "Late (Again)",
+      "url": "https://open.spotify.com/track/2hSjqnEeGoOQvCOnoMtXWE"
     },
     {
       "added_at": "2024-03-18 03:01:56",
@@ -1619,22 +1635,6 @@
     {
       "added_at": "2024-03-18 03:01:56",
       "album": {
-        "name": "Me In Dat Blue",
-        "url": "https://open.spotify.com/album/5nWNY2ELKVX8cfukWR0Rfx"
-      },
-      "artists": [
-        {
-          "name": "LINION",
-          "url": "https://open.spotify.com/artist/26OkmynS2y6LiuUWz3yeqT"
-        }
-      ],
-      "duration_ms": 259680,
-      "name": "Can't Find",
-      "url": "https://open.spotify.com/track/7KKuseiLhKfoP353BjJduf"
-    },
-    {
-      "added_at": "2024-03-18 03:01:56",
-      "album": {
         "name": "Some Place Else",
         "url": "https://open.spotify.com/album/5lGV6B08akg9VD5VhqHb5v"
       },
@@ -1647,6 +1647,22 @@
       "duration_ms": 214885,
       "name": "Some Place Else",
       "url": "https://open.spotify.com/track/4gO4OomMLvV3l9KoyMpeft"
+    },
+    {
+      "added_at": "2024-03-18 03:01:56",
+      "album": {
+        "name": "Me In Dat Blue",
+        "url": "https://open.spotify.com/album/5nWNY2ELKVX8cfukWR0Rfx"
+      },
+      "artists": [
+        {
+          "name": "LINION",
+          "url": "https://open.spotify.com/artist/26OkmynS2y6LiuUWz3yeqT"
+        }
+      ],
+      "duration_ms": 259680,
+      "name": "Can't Find",
+      "url": "https://open.spotify.com/track/7KKuseiLhKfoP353BjJduf"
     },
     {
       "added_at": "2024-03-18 03:01:56",
@@ -1715,30 +1731,6 @@
       "duration_ms": 195013,
       "name": "Gone 2 Long",
       "url": "https://open.spotify.com/track/0V6p1at8MSW6WEhSp5EzVG"
-    },
-    {
-      "added_at": "2024-03-18 03:01:56",
-      "album": {
-        "name": "Message in a bottle",
-        "url": "https://open.spotify.com/album/62jK0rJBJN3bJNF1fSdYqC"
-      },
-      "artists": [
-        {
-          "name": "Povi",
-          "url": "https://open.spotify.com/artist/2So7IMAC8UNsbJ1qmOJD1B"
-        },
-        {
-          "name": "Elijah Fox",
-          "url": "https://open.spotify.com/artist/4Rus30xX4FOv2cyeFI79Qh"
-        },
-        {
-          "name": "Kiefer",
-          "url": "https://open.spotify.com/artist/5lDtfHPqWN6MG9tFywnW8J"
-        }
-      ],
-      "duration_ms": 174667,
-      "name": "Message in a bottle",
-      "url": "https://open.spotify.com/track/4onEVnBCmCJhP0H0ctqPLG"
     }
   ],
   "unique_name": "\u6211\u7684\u5fae\u91ba\u591c",

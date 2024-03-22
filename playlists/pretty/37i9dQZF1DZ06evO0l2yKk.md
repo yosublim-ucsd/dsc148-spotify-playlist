@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0l2yKk.md) - [plain]
 
 > This is Cardenales De Nuevo León\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 145,908 likes - 50 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 146,023 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0l2yKk.md) - [plain]
 | 47 | [Ni Amores Ni Deudas](https://open.spotify.com/track/37XJBZYOnErRNl7vawIwf7) | [Cardenales De Nuevo León](https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV), [Los Invasores De Nuevo León](https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv) | [10+10](https://open.spotify.com/album/32PDVB8vzIpO0hqyas42fY) | 2:26 |
 | 48 | [Una Aventura](https://open.spotify.com/track/1gNzBRLuAKNZNf7zAp59cD) | [Cardenales De Nuevo León](https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV) | [Una Aventura](https://open.spotify.com/album/6mTSwfg0ncYlg9pJox9Dvo) | 3:05 |
 | 49 | [De Norte a Sur](https://open.spotify.com/track/2YIRf9gfTlPUBxQ2yoS4aZ) | [Cardenales De Nuevo León](https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV) | [Desde el Sur Hasta el Norte](https://open.spotify.com/album/5nR9alnjJoAwYoLJmRX050) | 2:52 |
-| 50 | [El Señor De Las Canas](https://open.spotify.com/track/5fnLEufeYsIAK7n7BiqBuY) | [Cardenales De Nuevo León](https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV) | [A Mis Viejos](https://open.spotify.com/album/1VZWvdtpCIi1VdP0IYgznz) | 2:47 |
+| 50 | [Sorpréndeme](https://open.spotify.com/track/4V8B14tV0m8VDRrmJzKoWy) | [Cardenales De Nuevo León](https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV) | [La Historia Continúa](https://open.spotify.com/album/1y96jqrtZbBZsmuNe1Nfvv) | 3:11 |
 
-Snapshot ID: `Mjg1MTU2NjAsMDAwMDAwMDBkZTgyMDdiODI3YjNjN2JlYjJmZDljNjA2OTg4NzRlYg==`
+Snapshot ID: `Mjg1MTcwNzUsMDAwMDAwMDBlMDZmZTMxMmYxYzFlYjI4ZjU4NDI3YTAyMmIxMGU0Nw==`

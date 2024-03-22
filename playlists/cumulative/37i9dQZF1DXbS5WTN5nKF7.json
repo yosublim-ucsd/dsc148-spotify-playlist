@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-07-29",
-  "description": "Le meilleur des hits ! Photo : Benson Boone",
+  "description": "Le meilleur des hits ! Photo : Kygo x Ava Max",
   "name": "Hit Radio",
   "tracks": [
     {
@@ -924,7 +924,7 @@
       ],
       "date_added": "2023-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-22",
       "duration_ms": 212953,
       "name": "Daylight",
       "url": "https://open.spotify.com/track/1odExI7RdWc4BT515LTAwj"
@@ -1142,7 +1142,7 @@
       ],
       "date_added": "2023-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-22",
       "duration_ms": 194848,
       "name": "Eyes Closed",
       "url": "https://open.spotify.com/track/3p7XQpdt8Dr6oMXSvRZ9bg"
@@ -1254,6 +1254,24 @@
       "duration_ms": 163316,
       "name": "Forget Somebody",
       "url": "https://open.spotify.com/track/4nTsYZHFfecWk7NPXqqVyD"
+    },
+    {
+      "album": {
+        "name": "Friendly Fire",
+        "url": "https://open.spotify.com/album/601IEigQO3enlyrbn4SpNM"
+      },
+      "artists": [
+        {
+          "name": "Linkin Park",
+          "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
+        }
+      ],
+      "date_added": "2024-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176901,
+      "name": "Friendly Fire",
+      "url": "https://open.spotify.com/track/1rAzOr3zpUDRtN2zsqGHiG"
     },
     {
       "album": {
@@ -1946,7 +1964,7 @@
       ],
       "date_added": "2024-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-22",
       "duration_ms": 132386,
       "name": "Loca Loca",
       "url": "https://open.spotify.com/track/3JbxNrWdx6Di9I5E62vZzK"
@@ -1982,7 +2000,7 @@
       ],
       "date_added": "2024-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-22",
       "duration_ms": 174608,
       "name": "Lose It All",
       "url": "https://open.spotify.com/track/7g0Fo1jbQfEEFIUXAYnbrm"
@@ -2043,6 +2061,24 @@
     },
     {
       "album": {
+        "name": "Madrid City",
+        "url": "https://open.spotify.com/album/10FIZ9MLyrK0ddmsMmDE98"
+      },
+      "artists": [
+        {
+          "name": "Ana Mena",
+          "url": "https://open.spotify.com/artist/6k8mwkKJKKjBILo7ypBspl"
+        }
+      ],
+      "date_added": "2024-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172727,
+      "name": "Madrid City",
+      "url": "https://open.spotify.com/track/6KHxe3Yj8W8oq3zviUvJRe"
+    },
+    {
+      "album": {
         "name": "La vingtaine",
         "url": "https://open.spotify.com/album/1xMisloOjQEMQTRte7kkJz"
       },
@@ -2076,6 +2112,24 @@
       "duration_ms": 219653,
       "name": "Memento",
       "url": "https://open.spotify.com/track/5Cn6HUjq30KK6UBCryPMhn"
+    },
+    {
+      "album": {
+        "name": "Regarde-moi",
+        "url": "https://open.spotify.com/album/0yHJkjaOVLRH5VZajnYHr9"
+      },
+      "artists": [
+        {
+          "name": "Pierre de Maere",
+          "url": "https://open.spotify.com/artist/13mm5rU1jvWfWG6uQ46ypd"
+        }
+      ],
+      "date_added": "2024-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171173,
+      "name": "Mercredi",
+      "url": "https://open.spotify.com/track/3sro7j7pDMNquQEQHKa2xR"
     },
     {
       "album": {
@@ -2876,6 +2930,24 @@
       "duration_ms": 201424,
       "name": "The Ballet Girl",
       "url": "https://open.spotify.com/track/6EMR2TqTujy6ZW00ag7saG"
+    },
+    {
+      "album": {
+        "name": "I've Tried Everything But Therapy (Part 1)",
+        "url": "https://open.spotify.com/album/7nacKlk586eLRBSIsrk9DB"
+      },
+      "artists": [
+        {
+          "name": "Teddy Swims",
+          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
+        }
+      ],
+      "date_added": "2024-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212648,
+      "name": "The Door",
+      "url": "https://open.spotify.com/track/3dj4wgM3cPeuLwMNHDuBon"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0Y4aXXQXWv.md) - [plain]
 
 > Les plus grands tubes de variété française d'hier et d'aujourd'hui.
 
-[Spotify](https://open.spotify.com/user/spotify) - 478,157 likes - 50 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 478,204 likes - 50 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,17 +30,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0Y4aXXQXWv.md) - [plain]
 | 20 | [Sensualité](https://open.spotify.com/track/6ri4yWOtcfGpTcigL2YeBe) | [Axelle Red](https://open.spotify.com/artist/3gX7V7VCwOBz90t62hQHMw) | [Sans plus attendre](https://open.spotify.com/album/4hohzFtQgP88UliHfUWGnt) | 3:52 |
 | 21 | [Je t'aimais, je t'aime, je t'aimerai \- Remastered](https://open.spotify.com/track/1sTWIzAlg8HapeWz2fXvfJ) | [Francis Cabrel](https://open.spotify.com/artist/5uo5NwSONVNfvSHHMQrHAv) | [Samedi soir sur la terre \(Remastered\)](https://open.spotify.com/album/4KXrFpUXZO6e5RdZ70HaK8) | 4:38 |
 | 22 | [Manhattan\-Kaboul](https://open.spotify.com/track/7eJdx83TiKsVqAzLFBelMO) | [Renaud](https://open.spotify.com/artist/15uNxh8omvRvH71kcdIe2r), [Axelle Red](https://open.spotify.com/artist/3gX7V7VCwOBz90t62hQHMw) | [Boucan d'enfer](https://open.spotify.com/album/1YQVhi1t8baYRJXDAEOvMG) | 3:50 |
-| 23 | [Tout le bonheur du monde](https://open.spotify.com/track/2jY4XzyntBSe2ns2EwA2pL) | [Sinsémilia](https://open.spotify.com/artist/7xtiaP8V8z95pASVuIrCRY) | [Debout les yeux ouverts](https://open.spotify.com/album/4Bgs5Nfk9CN0L8QGvVig6H) | 3:49 |
+| 23 | [La grenade](https://open.spotify.com/track/7ixCRBD0FZMRBeOBhTu2KD) | [Clara Luciani](https://open.spotify.com/artist/2oVrruuEI0Dr2I4NvLtQS0) | [Sainte\-Victoire](https://open.spotify.com/album/4oOotUMoznVTdGWzdUoEuy) | 3:14 |
 | 24 | [J'ai demandé à la lune](https://open.spotify.com/track/2QSAj76Ba6aMFX9RlXdUdO) | [Indochine](https://open.spotify.com/artist/7knmbOGe07k85GmK50vACB) | [Paradize](https://open.spotify.com/album/0YiSd3JeGUX4VIO8Po9TD4) | 3:29 |
-| 25 | [La grenade](https://open.spotify.com/track/7ixCRBD0FZMRBeOBhTu2KD) | [Clara Luciani](https://open.spotify.com/artist/2oVrruuEI0Dr2I4NvLtQS0) | [Sainte\-Victoire](https://open.spotify.com/album/4oOotUMoznVTdGWzdUoEuy) | 3:14 |
+| 25 | [Tout le bonheur du monde](https://open.spotify.com/track/2jY4XzyntBSe2ns2EwA2pL) | [Sinsémilia](https://open.spotify.com/artist/7xtiaP8V8z95pASVuIrCRY) | [Debout les yeux ouverts](https://open.spotify.com/album/4Bgs5Nfk9CN0L8QGvVig6H) | 3:49 |
 | 26 | [Avenir \- Radio Edit](https://open.spotify.com/track/7culxZiBjN3w3yXqxgKIpD) | [Louane](https://open.spotify.com/artist/7wjeXCtRND2ZdKfMJFu6JC), [Jean\-Philippe Massicot](https://open.spotify.com/artist/5R6fqkq8FNNE0kevuUUxoz), [Tristan Salvati](https://open.spotify.com/artist/3pHPYLcX7bnOWcMpyBch1D) | [Chambre 12](https://open.spotify.com/album/3Es3rIJujUaxh8HrPZwgmr) | 3:05 |
 | 27 | [Si j'avais su](https://open.spotify.com/track/5POonRM9sjr0cFbXPIyN8Q) | [Claudio Capéo](https://open.spotify.com/artist/5KBbs98MK59UNMF1VTwMmz) | [Rose des vents](https://open.spotify.com/album/7lYTg8CjV1DgyK3kY5LZTM) | 3:02 |
 | 28 | [Je te promets](https://open.spotify.com/track/3cqLrAhTy0JYcYmGe6Dvje) | [Johnny Hallyday](https://open.spotify.com/artist/2HALYSe657tNJ1iKVXP2xA) | [Gang](https://open.spotify.com/album/68rZh6SfrK9JeYsJhTwDjg) | 4:35 |
 | 29 | [Dommage](https://open.spotify.com/track/4BEWiTPV0v87mBryf7gdxK) | [Bigflo & Oli](https://open.spotify.com/artist/5mmEMfYChd6MImBagU7zCs) | [La vraie vie \(Deluxe\)](https://open.spotify.com/album/3iTiNTUw39tyag6Ip8rnbM) | 3:58 |
 | 30 | [Toi + Moi](https://open.spotify.com/track/1cl6UxttwMTjJXsdyMDUde) | [Grégoire](https://open.spotify.com/artist/1WycOcJCIRAH5xyzHXtp1E) | [Toi + Moi](https://open.spotify.com/album/32VFugqdmRt8N8csnrlnZc) | 3:02 |
 | 31 | [Le chanteur](https://open.spotify.com/track/0VKxd6VnCZMv5uQCdC7qXf) | [Daniel Balavoine](https://open.spotify.com/artist/28IqYhzq3UU46bbY0mRgn7) | [Le chanteur \(Remastered\)](https://open.spotify.com/album/6iD2al84zRCSAx7RhShrDI) | 3:54 |
-| 32 | [On s'attache](https://open.spotify.com/track/4E8hgGDOwG5CpiEke6qZMT) | [Christophe Maé](https://open.spotify.com/artist/7jgnJBnpZTiGnCF2Wvka2Z) | [Mon paradis](https://open.spotify.com/album/6rpAch0Mi47JkOmyie7rxK) | 3:11 |
-| 33 | [Désenchantée](https://open.spotify.com/track/15XYdD283tK9iyJzL738bn) | [Mylène Farmer](https://open.spotify.com/artist/0e04xgVBPU6mE2QkSHlufD) | [L'Autre](https://open.spotify.com/album/2P7i0qBBgJPxc01wRQU2DM) | 5:22 |
+| 32 | [Désenchantée](https://open.spotify.com/track/15XYdD283tK9iyJzL738bn) | [Mylène Farmer](https://open.spotify.com/artist/0e04xgVBPU6mE2QkSHlufD) | [L'Autre](https://open.spotify.com/album/2P7i0qBBgJPxc01wRQU2DM) | 5:22 |
+| 33 | [On s'attache](https://open.spotify.com/track/4E8hgGDOwG5CpiEke6qZMT) | [Christophe Maé](https://open.spotify.com/artist/7jgnJBnpZTiGnCF2Wvka2Z) | [Mon paradis](https://open.spotify.com/album/6rpAch0Mi47JkOmyie7rxK) | 3:11 |
 | 34 | [Je te donne](https://open.spotify.com/track/55mXuPsEm6aboDIM68RM74) | [Jean\-Jacques Goldman](https://open.spotify.com/artist/2Cx19OTMqa6gpz2l60cGG2), [Michael Jones](https://open.spotify.com/artist/0AF8vOjsrk66ofuPhHCKqW) | [Non homologué](https://open.spotify.com/album/3svVRotnkGO3jhrPcCeeCA) | 4:25 |
 | 35 | [Sous le vent](https://open.spotify.com/track/6VZB0ttlqGjpGMAcaomXh9) | [Garou](https://open.spotify.com/artist/1oXtLNYfNMQLxWsatCTCCn), [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [Seul](https://open.spotify.com/album/6t0eIKq8adhPxIWP6TWhgP) | 3:31 |
 | 36 | [Mais je t'aime](https://open.spotify.com/track/17NQyo1HsqDX7mbzsTWMuX) | [Grand Corps Malade](https://open.spotify.com/artist/3PsyPWjsftbfeXGorZv4AM), [Camille Lellouche](https://open.spotify.com/artist/6os4KQUfJoyJwjZ7y7Ec6Q) | [MESDAMES deluxe](https://open.spotify.com/album/6lZU65hX50fImkVKlSUdLh) | 4:30 |
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0Y4aXXQXWv.md) - [plain]
 | 47 | [Kid](https://open.spotify.com/track/1EIhcoMZ3See5L28kNvuFe) | [Eddy de Pretto](https://open.spotify.com/artist/7rFugkk9ZvVB1zXHg8h0rj) | [Cure](https://open.spotify.com/album/0B7trrXpu1IShSqzJfB2Tw) | 3:04 |
 | 48 | [J'irai où tu iras \(with Jean\-Jacques Goldman\)](https://open.spotify.com/track/17LZKLjQxH2w67xMa8mWML) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK), [Jean\-Jacques Goldman](https://open.spotify.com/artist/2Cx19OTMqa6gpz2l60cGG2) | [D'Eux](https://open.spotify.com/album/0DdTKXdgMLcSqccdyj6D9p) | 3:25 |
 | 49 | [Foule sentimentale](https://open.spotify.com/track/2W4ZxAHZAXOf6r65pCskGR) | [Alain Souchon](https://open.spotify.com/artist/5LVp2pGNzmOQqXzziBBR5x) | [C'est déjà ça](https://open.spotify.com/album/2aZRmXEvD458ZCk1C0Wdu5) | 5:24 |
-| 50 | [L'envie](https://open.spotify.com/track/57zabaqzfjZVhxJeb0UZsP) | [Johnny Hallyday](https://open.spotify.com/artist/2HALYSe657tNJ1iKVXP2xA) | [Gang](https://open.spotify.com/album/68rZh6SfrK9JeYsJhTwDjg) | 3:50 |
+| 50 | [Joe le taxi](https://open.spotify.com/track/7nZCg1jgmXIjSBRifWkmaJ) | [Vanessa Paradis](https://open.spotify.com/artist/1FmxE030Xe2H8Bn9bdv6Pd) | [M & J](https://open.spotify.com/album/3ptx9VPjMyOjQzrNsvjLIc) | 3:55 |
 
-Snapshot ID: `MCxiMWM4NzljYWRjZTBmYTI5MmVmZjE1YTA2MjViMTFjM2U2MWU3NDJh`
+Snapshot ID: `MCwwMjRjNzMzYmFlY2NmNzk0ZDc1YzgyZjQyZjA3MDgwZjIzMTJjZWJm`

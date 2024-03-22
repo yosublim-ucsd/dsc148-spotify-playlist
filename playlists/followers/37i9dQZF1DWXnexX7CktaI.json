@@ -1,5 +1,5 @@
 {
-  "2024-03-21": 2141687,
+  "2024-03-22": 2141847,
   "date_first_scraped": "2021-12-21",
   "description": "Still in rotation. Cover: Victoria Mon\u00e9t",
   "name": "Gold Edition",
@@ -35,7 +35,7 @@
       ],
       "date_added": "2022-07-30",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-27",
+      "date_removed": null,
       "duration_ms": 193146,
       "name": "Adorn",
       "url": "https://open.spotify.com/track/25cUhiAod71TIQSNicOaW3"
@@ -149,7 +149,7 @@
       ],
       "date_added": "2022-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-21",
       "duration_ms": 127807,
       "name": "All To Me",
       "url": "https://open.spotify.com/track/5JycxhApZmzbA4xSwvqh6k"

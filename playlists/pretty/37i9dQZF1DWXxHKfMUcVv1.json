@@ -1,12 +1,12 @@
 {
   "description": "M\u00fasica refrescante, para vencer el calor.",
-  "num_followers": 114703,
+  "num_followers": 114737,
   "original_name": "Mi Terer\u00e9",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiYzNiMGMxYjc3MTZlNmVjNjQyNDRiNGViNTU5YTQ1MjZjNWYzOTlm",
+  "snapshot_id": "MCxlZjRiNTYxZjUzYWE1YTQ2MzM0MDJkNGVmNGJkNDg2OGJmYmQ0Njg3",
   "tracks": [
     {
       "added_at": "2024-01-12 16:17:07",
@@ -323,22 +323,6 @@
     {
       "added_at": "2024-01-12 16:17:07",
       "album": {
-        "name": "Olv\u00eddame Si Puedes",
-        "url": "https://open.spotify.com/album/07k20XjUo2eH3ehAjTNZ7H"
-      },
-      "artists": [
-        {
-          "name": "Noa - Noa",
-          "url": "https://open.spotify.com/artist/2CZXBNQi0AcQUVeYVexnc7"
-        }
-      ],
-      "duration_ms": 231880,
-      "name": "Me Extra\u00f1ar\u00e1s",
-      "url": "https://open.spotify.com/track/4s0uLfMAgXbPgmPgOVG7qe"
-    },
-    {
-      "added_at": "2024-01-12 16:17:07",
-      "album": {
         "name": "Invencible (El Patr\u00f3n)",
         "url": "https://open.spotify.com/album/2D1fN7Gqs5lUtqkU2NdMfS"
       },
@@ -355,6 +339,22 @@
       "duration_ms": 236440,
       "name": "M\u00e1quina Del Tiempo",
       "url": "https://open.spotify.com/track/6wJ8znKpoOz9IGhWB7g2b5"
+    },
+    {
+      "added_at": "2024-01-12 16:17:07",
+      "album": {
+        "name": "Olv\u00eddame Si Puedes",
+        "url": "https://open.spotify.com/album/07k20XjUo2eH3ehAjTNZ7H"
+      },
+      "artists": [
+        {
+          "name": "Noa - Noa",
+          "url": "https://open.spotify.com/artist/2CZXBNQi0AcQUVeYVexnc7"
+        }
+      ],
+      "duration_ms": 231880,
+      "name": "Me Extra\u00f1ar\u00e1s",
+      "url": "https://open.spotify.com/track/4s0uLfMAgXbPgmPgOVG7qe"
     },
     {
       "added_at": "2024-01-12 16:17:07",
@@ -783,6 +783,22 @@
     {
       "added_at": "2024-01-12 16:17:07",
       "album": {
+        "name": "Macumba y Pay\u00e9",
+        "url": "https://open.spotify.com/album/5mGXFIhky9btBggWADmnPg"
+      },
+      "artists": [
+        {
+          "name": "Bohemia Urbana",
+          "url": "https://open.spotify.com/artist/3291CCSyTY0umdaKwGbjdV"
+        }
+      ],
+      "duration_ms": 159477,
+      "name": "Todo va a estar mejor",
+      "url": "https://open.spotify.com/track/7dho4N5H5etH68vQkROikt"
+    },
+    {
+      "added_at": "2024-01-12 16:17:07",
+      "album": {
         "name": "Hemisferios",
         "url": "https://open.spotify.com/album/6IfGYAiEViUQFCLKkx6GLh"
       },
@@ -811,22 +827,6 @@
       "duration_ms": 215981,
       "name": "Una Cerveza",
       "url": "https://open.spotify.com/track/3LUxexs29ODGnrup1G4y89"
-    },
-    {
-      "added_at": "2024-01-12 16:17:07",
-      "album": {
-        "name": "Macumba y Pay\u00e9",
-        "url": "https://open.spotify.com/album/5mGXFIhky9btBggWADmnPg"
-      },
-      "artists": [
-        {
-          "name": "Bohemia Urbana",
-          "url": "https://open.spotify.com/artist/3291CCSyTY0umdaKwGbjdV"
-        }
-      ],
-      "duration_ms": 159477,
-      "name": "Todo va a estar mejor",
-      "url": "https://open.spotify.com/track/7dho4N5H5etH68vQkROikt"
     },
     {
       "added_at": "2024-01-12 16:17:07",

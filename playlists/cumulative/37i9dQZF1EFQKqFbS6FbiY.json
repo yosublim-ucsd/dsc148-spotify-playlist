@@ -6612,7 +6612,7 @@
       ],
       "date_added": "2023-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-22",
       "duration_ms": 165449,
       "name": "Pneuzinho de Chopp",
       "url": "https://open.spotify.com/track/2bDOBz3JVQ4F1XqYG9kFTK"
@@ -9258,6 +9258,24 @@
       "duration_ms": 185298,
       "name": "Vontade De Terminar - Ao Vivo",
       "url": "https://open.spotify.com/track/5a3usmwW7FYgzxPKf2jZlv"
+    },
+    {
+      "album": {
+        "name": "V\u00f4 Num V\u00f4",
+        "url": "https://open.spotify.com/album/2xVTqwTuXdsJUGhj1sHng3"
+      },
+      "artists": [
+        {
+          "name": "Marcello Teodoro",
+          "url": "https://open.spotify.com/artist/5YaJ30w1xFCq76GRWIMuvn"
+        }
+      ],
+      "date_added": "2024-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165590,
+      "name": "V\u00f4 Num V\u00f4",
+      "url": "https://open.spotify.com/track/3YQ23xhBbGAG0o4PM27FEX"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "Aqu\u00ed viven las canciones ac\u00fasticas. Cover: Maria Becerra",
-  "num_followers": 1940727,
+  "num_followers": 1940709,
   "original_name": "Ac\u00fasticas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0NjlhZTRjY2Y5YzdhMDUyNjdhNzkzZTQ0YTIzZDY5OTZjYzQxMWRj",
+  "snapshot_id": "MCw4YjJlOWFiZWU0ZDc4YzUwNzcyMmVkMzhhM2U1M2MxZTNhMzIzZDlj",
   "tracks": [
     {
       "added_at": "2024-03-15 04:00:00",
@@ -615,54 +615,6 @@
     {
       "added_at": "2024-03-15 04:00:00",
       "album": {
-        "name": "chiquita",
-        "url": "https://open.spotify.com/album/4K29NpImQBdRlngO3NhNbK"
-      },
-      "artists": [
-        {
-          "name": "Valeria Castro",
-          "url": "https://open.spotify.com/artist/7JTVqKJ414qRPuDPhdKnHD"
-        }
-      ],
-      "duration_ms": 198720,
-      "name": "culpa",
-      "url": "https://open.spotify.com/track/7nByHsiIV08TNL6hG4nBBs"
-    },
-    {
-      "added_at": "2024-03-15 04:00:00",
-      "album": {
-        "name": "La \u00daltima Canci\u00f3n",
-        "url": "https://open.spotify.com/album/0pSYqGyZXM9SlyTdyB1t1N"
-      },
-      "artists": [
-        {
-          "name": "CNCO",
-          "url": "https://open.spotify.com/artist/0eecdvMrqBftK0M1VKhaF4"
-        }
-      ],
-      "duration_ms": 195789,
-      "name": "La \u00daltima Canci\u00f3n",
-      "url": "https://open.spotify.com/track/0wKivXf3kIW91AtEll1Aqa"
-    },
-    {
-      "added_at": "2024-03-15 04:00:00",
-      "album": {
-        "name": "MTV Unplugged",
-        "url": "https://open.spotify.com/album/2uhUNyt2jQ4JdtJmWynza2"
-      },
-      "artists": [
-        {
-          "name": "Man\u00e1",
-          "url": "https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz"
-        }
-      ],
-      "duration_ms": 400826,
-      "name": "No Ha Parado de Llover - Unplugged",
-      "url": "https://open.spotify.com/track/7fJKZAezCzADUYPX7IJf7L"
-    },
-    {
-      "added_at": "2024-03-15 04:00:00",
-      "album": {
         "name": "Universo Amor",
         "url": "https://open.spotify.com/album/7qU1O8uxdzWUPVQ9AnzN0Z"
       },
@@ -683,6 +635,54 @@
     {
       "added_at": "2024-03-15 04:00:00",
       "album": {
+        "name": "chiquita",
+        "url": "https://open.spotify.com/album/4K29NpImQBdRlngO3NhNbK"
+      },
+      "artists": [
+        {
+          "name": "Valeria Castro",
+          "url": "https://open.spotify.com/artist/7JTVqKJ414qRPuDPhdKnHD"
+        }
+      ],
+      "duration_ms": 198720,
+      "name": "culpa",
+      "url": "https://open.spotify.com/track/7nByHsiIV08TNL6hG4nBBs"
+    },
+    {
+      "added_at": "2024-03-15 04:00:00",
+      "album": {
+        "name": "MTV Unplugged",
+        "url": "https://open.spotify.com/album/2uhUNyt2jQ4JdtJmWynza2"
+      },
+      "artists": [
+        {
+          "name": "Man\u00e1",
+          "url": "https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz"
+        }
+      ],
+      "duration_ms": 400826,
+      "name": "No Ha Parado de Llover - Unplugged",
+      "url": "https://open.spotify.com/track/7fJKZAezCzADUYPX7IJf7L"
+    },
+    {
+      "added_at": "2024-03-15 04:00:00",
+      "album": {
+        "name": "La \u00daltima Canci\u00f3n",
+        "url": "https://open.spotify.com/album/0pSYqGyZXM9SlyTdyB1t1N"
+      },
+      "artists": [
+        {
+          "name": "CNCO",
+          "url": "https://open.spotify.com/artist/0eecdvMrqBftK0M1VKhaF4"
+        }
+      ],
+      "duration_ms": 195789,
+      "name": "La \u00daltima Canci\u00f3n",
+      "url": "https://open.spotify.com/track/0wKivXf3kIW91AtEll1Aqa"
+    },
+    {
+      "added_at": "2024-03-15 04:00:00",
+      "album": {
         "name": "Tus Ojitos",
         "url": "https://open.spotify.com/album/4uBMJOCvn3j1Q2spx5Suoc"
       },
@@ -695,22 +695,6 @@
       "duration_ms": 255514,
       "name": "Tus Ojitos",
       "url": "https://open.spotify.com/track/0zoxIUnCEpCXayf35r17gd"
-    },
-    {
-      "added_at": "2024-03-15 04:00:00",
-      "album": {
-        "name": "Parece Mentira",
-        "url": "https://open.spotify.com/album/4qVv2WWXeyeLZqXmbIJ1Pm"
-      },
-      "artists": [
-        {
-          "name": "Diego Torres",
-          "url": "https://open.spotify.com/artist/0LALueHEQunQ2d61fXGeZh"
-        }
-      ],
-      "duration_ms": 213958,
-      "name": "Parece Mentira",
-      "url": "https://open.spotify.com/track/6MPOkyax2MTcsMVhbQ93vz"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -735,18 +719,18 @@
     {
       "added_at": "2024-03-15 04:00:00",
       "album": {
-        "name": "Pablo Albor\u00e1n Spotify Sessions",
-        "url": "https://open.spotify.com/album/2MvBTwo2wis5ucqYxOJANe"
+        "name": "Parece Mentira",
+        "url": "https://open.spotify.com/album/4qVv2WWXeyeLZqXmbIJ1Pm"
       },
       "artists": [
         {
-          "name": "Pablo Albor\u00e1n",
-          "url": "https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50"
+          "name": "Diego Torres",
+          "url": "https://open.spotify.com/artist/0LALueHEQunQ2d61fXGeZh"
         }
       ],
-      "duration_ms": 266104,
-      "name": "Pasos de cero - Live from Spotify NYC",
-      "url": "https://open.spotify.com/track/4SsgDQo4lLoFKbfoWhf5hh"
+      "duration_ms": 213958,
+      "name": "Parece Mentira",
+      "url": "https://open.spotify.com/track/6MPOkyax2MTcsMVhbQ93vz"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -775,6 +759,22 @@
       "duration_ms": 296671,
       "name": "Saudade - Ac\u00fastica",
       "url": "https://open.spotify.com/track/0hMDCdTgDI01LKtiMjPdAV"
+    },
+    {
+      "added_at": "2024-03-15 04:00:00",
+      "album": {
+        "name": "Pablo Albor\u00e1n Spotify Sessions",
+        "url": "https://open.spotify.com/album/2MvBTwo2wis5ucqYxOJANe"
+      },
+      "artists": [
+        {
+          "name": "Pablo Albor\u00e1n",
+          "url": "https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50"
+        }
+      ],
+      "duration_ms": 266104,
+      "name": "Pasos de cero - Live from Spotify NYC",
+      "url": "https://open.spotify.com/track/4SsgDQo4lLoFKbfoWhf5hh"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -1115,22 +1115,6 @@
     {
       "added_at": "2024-03-15 04:00:00",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/1iISTtFC766MmhpKtlz3sy"
-      },
-      "artists": [
-        {
-          "name": "Vicente Garcia",
-          "url": "https://open.spotify.com/artist/2Otnykd696YidQYfEGVmNq"
-        }
-      ],
-      "duration_ms": 152533,
-      "name": "Juana Mecho - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/4Nz1LJSDHxHxPjIZdP4tGf"
-    },
-    {
-      "added_at": "2024-03-15 04:00:00",
-      "album": {
         "name": "En Ac\u00fastico",
         "url": "https://open.spotify.com/album/6SIva4NYVKvJoJVfExZYDk"
       },
@@ -1143,6 +1127,22 @@
       "duration_ms": 207207,
       "name": "Destino - Ac\u00fastico",
       "url": "https://open.spotify.com/track/1UUAtmVInu4DNChh5HYiHk"
+    },
+    {
+      "added_at": "2024-03-15 04:00:00",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/1iISTtFC766MmhpKtlz3sy"
+      },
+      "artists": [
+        {
+          "name": "Vicente Garcia",
+          "url": "https://open.spotify.com/artist/2Otnykd696YidQYfEGVmNq"
+        }
+      ],
+      "duration_ms": 152533,
+      "name": "Juana Mecho - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/4Nz1LJSDHxHxPjIZdP4tGf"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -1411,6 +1411,22 @@
     {
       "added_at": "2024-03-15 04:00:00",
       "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/71ouQvRNQdWbSr4FI0i4g8"
+      },
+      "artists": [
+        {
+          "name": "Prince Royce",
+          "url": "https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC"
+        }
+      ],
+      "duration_ms": 255650,
+      "name": "La Carretera - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/0INHoQnnPYxlXHsOL3Zeb8"
+    },
+    {
+      "added_at": "2024-03-15 04:00:00",
+      "album": {
         "name": "Preso (Grabado en ONErpm Studios)",
         "url": "https://open.spotify.com/album/7zeQVlK0bClZRzg7pc0bRt"
       },
@@ -1432,22 +1448,6 @@
       "added_at": "2024-03-15 04:00:00",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/71ouQvRNQdWbSr4FI0i4g8"
-      },
-      "artists": [
-        {
-          "name": "Prince Royce",
-          "url": "https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC"
-        }
-      ],
-      "duration_ms": 255650,
-      "name": "La Carretera - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/0INHoQnnPYxlXHsOL3Zeb8"
-    },
-    {
-      "added_at": "2024-03-15 04:00:00",
-      "album": {
-        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/5W98NMXBBTBjrAQMY9lyAZ"
       },
       "artists": [
@@ -1459,6 +1459,22 @@
       "duration_ms": 185975,
       "name": "Veneno - Recorded At Spotify Studios NYC",
       "url": "https://open.spotify.com/track/31CiU58drf9xYA9VEOFDfW"
+    },
+    {
+      "added_at": "2024-03-15 04:00:00",
+      "album": {
+        "name": "7 Meses",
+        "url": "https://open.spotify.com/album/3q81z0sKzdh4MeQjUVn0VR"
+      },
+      "artists": [
+        {
+          "name": "Lizzy Parra",
+          "url": "https://open.spotify.com/artist/1Cm5r6LqrFQDuA0F4KUIQz"
+        }
+      ],
+      "duration_ms": 175404,
+      "name": "7 Meses",
+      "url": "https://open.spotify.com/track/00q4uzpZiCOExi2JdDOcvc"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -1551,22 +1567,6 @@
       "duration_ms": 206800,
       "name": "De Camino",
       "url": "https://open.spotify.com/track/0OnfT8ZB33ST5fRBzJjaIo"
-    },
-    {
-      "added_at": "2024-03-15 04:00:00",
-      "album": {
-        "name": "7 Meses",
-        "url": "https://open.spotify.com/album/3q81z0sKzdh4MeQjUVn0VR"
-      },
-      "artists": [
-        {
-          "name": "Lizzy Parra",
-          "url": "https://open.spotify.com/artist/1Cm5r6LqrFQDuA0F4KUIQz"
-        }
-      ],
-      "duration_ms": 175404,
-      "name": "7 Meses",
-      "url": "https://open.spotify.com/track/00q4uzpZiCOExi2JdDOcvc"
     },
     {
       "added_at": "2024-03-15 04:00:00",

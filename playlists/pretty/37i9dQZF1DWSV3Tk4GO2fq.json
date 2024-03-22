@@ -1,12 +1,12 @@
 {
   "description": "The biggest songs of the 1950s. Cover: Sister Rosetta Tharpe",
-  "num_followers": 1759257,
+  "num_followers": 1759648,
   "original_name": "All Out 50s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhNjI5MTIxNjE3ZTQ4NTQ1MjI3MDIzOWM3NWM2MGMwMGU2OWM2NjMy",
+  "snapshot_id": "MCxlMjljYzdkNWZkZjNmYTk2MGRiYjA2ZDM4ZmZjOGI5MjViMTUwNWVj",
   "tracks": [
     {
       "added_at": "2024-03-01 05:01:00",
@@ -735,22 +735,6 @@
     {
       "added_at": "2022-06-09 22:02:00",
       "album": {
-        "name": "Rock with Sedaka (Expanded Edition)",
-        "url": "https://open.spotify.com/album/1Ue6n39wDCfKyy4IBOuPqO"
-      },
-      "artists": [
-        {
-          "name": "Neil Sedaka",
-          "url": "https://open.spotify.com/artist/5N6GwJzOcOY5kv8p0NjhYL"
-        }
-      ],
-      "duration_ms": 135466,
-      "name": "Oh! Carol",
-      "url": "https://open.spotify.com/track/5zvOXJrzzUlvXwyuwZ0toZ"
-    },
-    {
-      "added_at": "2022-06-09 22:02:00",
-      "album": {
         "name": "Little Bitty Pretty One",
         "url": "https://open.spotify.com/album/4nYxAqSN5IKtwX1E1wJtTO"
       },
@@ -771,6 +755,22 @@
     {
       "added_at": "2022-06-09 22:02:00",
       "album": {
+        "name": "Rock with Sedaka (Expanded Edition)",
+        "url": "https://open.spotify.com/album/1Ue6n39wDCfKyy4IBOuPqO"
+      },
+      "artists": [
+        {
+          "name": "Neil Sedaka",
+          "url": "https://open.spotify.com/artist/5N6GwJzOcOY5kv8p0NjhYL"
+        }
+      ],
+      "duration_ms": 135466,
+      "name": "Oh! Carol",
+      "url": "https://open.spotify.com/track/5zvOXJrzzUlvXwyuwZ0toZ"
+    },
+    {
+      "added_at": "2022-06-09 22:02:00",
+      "album": {
         "name": "The Collection",
         "url": "https://open.spotify.com/album/0ZjG7lMUm7k920ZgEL2pmi"
       },
@@ -783,22 +783,6 @@
       "duration_ms": 158493,
       "name": "Money (That's What I Want) - Single Version / Mono",
       "url": "https://open.spotify.com/track/6OsefWNJtsWqO7myze1HEX"
-    },
-    {
-      "added_at": "2022-06-09 22:02:00",
-      "album": {
-        "name": "Presenting Dion And The Belmonts",
-        "url": "https://open.spotify.com/album/6z1hD32vUCvJZVjVZMv7el"
-      },
-      "artists": [
-        {
-          "name": "Dion & The Belmonts",
-          "url": "https://open.spotify.com/artist/2loYllWFfoWpoxC5YrJKc4"
-        }
-      ],
-      "duration_ms": 158253,
-      "name": "A Teenager In Love",
-      "url": "https://open.spotify.com/track/0QGwOFQChzflLAmPq5NwKo"
     },
     {
       "added_at": "2022-06-09 22:02:00",
@@ -819,18 +803,18 @@
     {
       "added_at": "2022-06-09 22:02:00",
       "album": {
-        "name": "Fats Domino Swings",
-        "url": "https://open.spotify.com/album/3vte37u7rIAmMZJwNyJSjf"
+        "name": "Presenting Dion And The Belmonts",
+        "url": "https://open.spotify.com/album/6z1hD32vUCvJZVjVZMv7el"
       },
       "artists": [
         {
-          "name": "Fats Domino",
-          "url": "https://open.spotify.com/artist/09C0xjtosNAIXP36wTnWxd"
+          "name": "Dion & The Belmonts",
+          "url": "https://open.spotify.com/artist/2loYllWFfoWpoxC5YrJKc4"
         }
       ],
-      "duration_ms": 147880,
-      "name": "Blueberry Hill",
-      "url": "https://open.spotify.com/track/06PdA0DLgF4BfAeUNZAbFG"
+      "duration_ms": 158253,
+      "name": "A Teenager In Love",
+      "url": "https://open.spotify.com/track/0QGwOFQChzflLAmPq5NwKo"
     },
     {
       "added_at": "2022-06-09 22:02:00",
@@ -847,6 +831,22 @@
       "duration_ms": 256120,
       "name": "I Can't Stop Loving You",
       "url": "https://open.spotify.com/track/79nJj5dMyTsUzKvN5jUXsJ"
+    },
+    {
+      "added_at": "2022-06-09 22:02:00",
+      "album": {
+        "name": "Fats Domino Swings",
+        "url": "https://open.spotify.com/album/3vte37u7rIAmMZJwNyJSjf"
+      },
+      "artists": [
+        {
+          "name": "Fats Domino",
+          "url": "https://open.spotify.com/artist/09C0xjtosNAIXP36wTnWxd"
+        }
+      ],
+      "duration_ms": 147880,
+      "name": "Blueberry Hill",
+      "url": "https://open.spotify.com/track/06PdA0DLgF4BfAeUNZAbFG"
     },
     {
       "added_at": "2022-06-09 22:02:00",
@@ -931,22 +931,6 @@
     {
       "added_at": "2022-06-09 22:02:00",
       "album": {
-        "name": "The Complete Dinah Washington On Mercury, Vol.4 (1954-1956)",
-        "url": "https://open.spotify.com/album/7MpI5x3ALFKVNTO0OZ7NfB"
-      },
-      "artists": [
-        {
-          "name": "Dinah Washington",
-          "url": "https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa"
-        }
-      ],
-      "duration_ms": 167493,
-      "name": "Teach Me Tonight",
-      "url": "https://open.spotify.com/track/0Rk9byjmZksAJX15onGns5"
-    },
-    {
-      "added_at": "2022-06-09 22:02:00",
-      "album": {
         "name": "12 Of His Biggest Hits",
         "url": "https://open.spotify.com/album/2Hr6il1ZLPbeLnKUzhWkF6"
       },
@@ -963,18 +947,34 @@
     {
       "added_at": "2022-06-09 22:02:00",
       "album": {
-        "name": "Fats Domino Swings",
-        "url": "https://open.spotify.com/album/3vte37u7rIAmMZJwNyJSjf"
+        "name": "The Complete Dinah Washington On Mercury, Vol.4 (1954-1956)",
+        "url": "https://open.spotify.com/album/7MpI5x3ALFKVNTO0OZ7NfB"
       },
       "artists": [
         {
-          "name": "Fats Domino",
-          "url": "https://open.spotify.com/artist/09C0xjtosNAIXP36wTnWxd"
+          "name": "Dinah Washington",
+          "url": "https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa"
         }
       ],
-      "duration_ms": 152200,
-      "name": "Ain't That A Shame",
-      "url": "https://open.spotify.com/track/4ZfQwNx3FlCN07cnUvekh3"
+      "duration_ms": 167493,
+      "name": "Teach Me Tonight",
+      "url": "https://open.spotify.com/track/0Rk9byjmZksAJX15onGns5"
+    },
+    {
+      "added_at": "2022-06-09 22:02:00",
+      "album": {
+        "name": "What'd I Say",
+        "url": "https://open.spotify.com/album/4tfWxufmH725XmTcQFAuXn"
+      },
+      "artists": [
+        {
+          "name": "Ray Charles",
+          "url": "https://open.spotify.com/artist/1eYhYunlNJlDoQhtYBvPsi"
+        }
+      ],
+      "duration_ms": 307053,
+      "name": "What'd I Say, Pt. 1 & 2",
+      "url": "https://open.spotify.com/track/5yQ9iMZXGcr5rlO4hoLsP4"
     },
     {
       "added_at": "2022-06-09 22:02:00",
@@ -995,18 +995,18 @@
     {
       "added_at": "2022-06-09 22:02:00",
       "album": {
-        "name": "What'd I Say",
-        "url": "https://open.spotify.com/album/4tfWxufmH725XmTcQFAuXn"
+        "name": "Fats Domino Swings",
+        "url": "https://open.spotify.com/album/3vte37u7rIAmMZJwNyJSjf"
       },
       "artists": [
         {
-          "name": "Ray Charles",
-          "url": "https://open.spotify.com/artist/1eYhYunlNJlDoQhtYBvPsi"
+          "name": "Fats Domino",
+          "url": "https://open.spotify.com/artist/09C0xjtosNAIXP36wTnWxd"
         }
       ],
-      "duration_ms": 307053,
-      "name": "What'd I Say, Pt. 1 & 2",
-      "url": "https://open.spotify.com/track/5yQ9iMZXGcr5rlO4hoLsP4"
+      "duration_ms": 152200,
+      "name": "Ain't That A Shame",
+      "url": "https://open.spotify.com/track/4ZfQwNx3FlCN07cnUvekh3"
     },
     {
       "added_at": "2022-06-09 22:02:00",
@@ -1171,6 +1171,22 @@
     {
       "added_at": "2022-06-09 22:02:00",
       "album": {
+        "name": "Presenting Dion And The Belmonts",
+        "url": "https://open.spotify.com/album/6z1hD32vUCvJZVjVZMv7el"
+      },
+      "artists": [
+        {
+          "name": "Dion & The Belmonts",
+          "url": "https://open.spotify.com/artist/2loYllWFfoWpoxC5YrJKc4"
+        }
+      ],
+      "duration_ms": 141386,
+      "name": "I Wonder Why",
+      "url": "https://open.spotify.com/track/7vAw4LLIms6X8ZHcbtoazz"
+    },
+    {
+      "added_at": "2022-06-09 22:02:00",
+      "album": {
         "name": "Songs For Young Lovers",
         "url": "https://open.spotify.com/album/19sNgSx2E2F6IhlYsmRcur"
       },
@@ -1183,26 +1199,6 @@
       "duration_ms": 150666,
       "name": "My Funny Valentine - Remastered",
       "url": "https://open.spotify.com/track/0x0ffSAP6PkdoDgHOfroof"
-    },
-    {
-      "added_at": "2022-06-09 22:02:00",
-      "album": {
-        "name": "The Call Of The Wildest (Expanded Edition)",
-        "url": "https://open.spotify.com/album/5RDBugAE4cU2vbLZj0dvmf"
-      },
-      "artists": [
-        {
-          "name": "Louis Prima",
-          "url": "https://open.spotify.com/artist/52lBOxCxbJg0ttXEW9CQpW"
-        },
-        {
-          "name": "Sam Butera & The Witnesses",
-          "url": "https://open.spotify.com/artist/70njzKgLbLbWkCPhKEu2oV"
-        }
-      ],
-      "duration_ms": 141666,
-      "name": "Pennies From Heaven",
-      "url": "https://open.spotify.com/track/4tmy6FB76bR5eLmx0zO1mn"
     },
     {
       "added_at": "2022-06-09 22:02:00",
@@ -1223,18 +1219,22 @@
     {
       "added_at": "2022-06-09 22:02:00",
       "album": {
-        "name": "Presenting Dion And The Belmonts",
-        "url": "https://open.spotify.com/album/6z1hD32vUCvJZVjVZMv7el"
+        "name": "The Call Of The Wildest (Expanded Edition)",
+        "url": "https://open.spotify.com/album/5RDBugAE4cU2vbLZj0dvmf"
       },
       "artists": [
         {
-          "name": "Dion & The Belmonts",
-          "url": "https://open.spotify.com/artist/2loYllWFfoWpoxC5YrJKc4"
+          "name": "Louis Prima",
+          "url": "https://open.spotify.com/artist/52lBOxCxbJg0ttXEW9CQpW"
+        },
+        {
+          "name": "Sam Butera & The Witnesses",
+          "url": "https://open.spotify.com/artist/70njzKgLbLbWkCPhKEu2oV"
         }
       ],
-      "duration_ms": 141386,
-      "name": "I Wonder Why",
-      "url": "https://open.spotify.com/track/7vAw4LLIms6X8ZHcbtoazz"
+      "duration_ms": 141666,
+      "name": "Pennies From Heaven",
+      "url": "https://open.spotify.com/track/4tmy6FB76bR5eLmx0zO1mn"
     },
     {
       "added_at": "2022-06-09 22:02:00",
@@ -1367,22 +1367,6 @@
     {
       "added_at": "2022-06-09 22:02:00",
       "album": {
-        "name": "Songs For Swingin' Lovers! (Remastered)",
-        "url": "https://open.spotify.com/album/4kca7vXd1Wo5GE2DMafvMc"
-      },
-      "artists": [
-        {
-          "name": "Frank Sinatra",
-          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
-        }
-      ],
-      "duration_ms": 162840,
-      "name": "Love Is Here To Stay - Remastered 1998",
-      "url": "https://open.spotify.com/track/3YCbx1QqGrnxMsPEZLC1CT"
-    },
-    {
-      "added_at": "2022-06-09 22:02:00",
-      "album": {
         "name": "The Best Of The Crew Cuts",
         "url": "https://open.spotify.com/album/7dQg87XegvtSinDdZ1p0VP"
       },
@@ -1395,6 +1379,22 @@
       "duration_ms": 168893,
       "name": "Sh-Boom",
       "url": "https://open.spotify.com/track/7G2jAmiYUDZKyk7npVrgX8"
+    },
+    {
+      "added_at": "2022-06-09 22:02:00",
+      "album": {
+        "name": "Songs For Swingin' Lovers! (Remastered)",
+        "url": "https://open.spotify.com/album/4kca7vXd1Wo5GE2DMafvMc"
+      },
+      "artists": [
+        {
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+        }
+      ],
+      "duration_ms": 162840,
+      "name": "Love Is Here To Stay - Remastered 1998",
+      "url": "https://open.spotify.com/track/3YCbx1QqGrnxMsPEZLC1CT"
     },
     {
       "added_at": "2022-06-09 22:02:00",
@@ -1431,6 +1431,22 @@
     {
       "added_at": "2022-06-09 22:02:00",
       "album": {
+        "name": "Elvis' Golden Records",
+        "url": "https://open.spotify.com/album/0C3t1htEDTFKcg7F2rNbek"
+      },
+      "artists": [
+        {
+          "name": "Elvis Presley",
+          "url": "https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE"
+        }
+      ],
+      "duration_ms": 117080,
+      "name": "All Shook Up",
+      "url": "https://open.spotify.com/track/5ueyLj6e6oVaTY0KQ6yLaA"
+    },
+    {
+      "added_at": "2022-06-09 22:02:00",
+      "album": {
         "name": "Day By Night (with Paul Weston & His Music From Hollywood)",
         "url": "https://open.spotify.com/album/3Q4k7vP53iNv1MMoEqro7x"
       },
@@ -1447,22 +1463,6 @@
       "duration_ms": 223373,
       "name": "Dream a Little Dream of Me (with Paul Weston & His Music From Hollywood)",
       "url": "https://open.spotify.com/track/2HyPrPSANTIPkR6CfiytwY"
-    },
-    {
-      "added_at": "2022-06-09 22:02:00",
-      "album": {
-        "name": "Elvis' Golden Records",
-        "url": "https://open.spotify.com/album/0C3t1htEDTFKcg7F2rNbek"
-      },
-      "artists": [
-        {
-          "name": "Elvis Presley",
-          "url": "https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE"
-        }
-      ],
-      "duration_ms": 117080,
-      "name": "All Shook Up",
-      "url": "https://open.spotify.com/track/5ueyLj6e6oVaTY0KQ6yLaA"
     },
     {
       "added_at": "2022-06-09 22:02:00",
@@ -1515,22 +1515,6 @@
     {
       "added_at": "2022-06-09 22:02:00",
       "album": {
-        "name": "The Very Best of The Everly Brothers",
-        "url": "https://open.spotify.com/album/4lmdDGcU5u1xk3GCcVJSYT"
-      },
-      "artists": [
-        {
-          "name": "The Everly Brothers",
-          "url": "https://open.spotify.com/artist/4ACplpEqD6JIVgKrafauzs"
-        }
-      ],
-      "duration_ms": 123520,
-      "name": "Wake up Little Susie",
-      "url": "https://open.spotify.com/track/11fNLqDB47gMKj7BHhR2Qr"
-    },
-    {
-      "added_at": "2022-06-09 22:02:00",
-      "album": {
         "name": "Buddy Holly",
         "url": "https://open.spotify.com/album/4Qy0SOU9Jg7Td10K68SanP"
       },
@@ -1547,6 +1531,22 @@
       "duration_ms": 150960,
       "name": "Peggy Sue",
       "url": "https://open.spotify.com/track/2OARIMw1hpehr86Iwmv04c"
+    },
+    {
+      "added_at": "2022-06-09 22:02:00",
+      "album": {
+        "name": "The Very Best of The Everly Brothers",
+        "url": "https://open.spotify.com/album/4lmdDGcU5u1xk3GCcVJSYT"
+      },
+      "artists": [
+        {
+          "name": "The Everly Brothers",
+          "url": "https://open.spotify.com/artist/4ACplpEqD6JIVgKrafauzs"
+        }
+      ],
+      "duration_ms": 123520,
+      "name": "Wake up Little Susie",
+      "url": "https://open.spotify.com/track/11fNLqDB47gMKj7BHhR2Qr"
     },
     {
       "added_at": "2022-06-09 22:02:00",
@@ -1695,22 +1695,6 @@
     {
       "added_at": "2022-06-09 22:02:00",
       "album": {
-        "name": "There's A Riot Goin' On: The Coasters On Atco",
-        "url": "https://open.spotify.com/album/1oi6aLPgSAwv3352Jtmjku"
-      },
-      "artists": [
-        {
-          "name": "The Coasters",
-          "url": "https://open.spotify.com/artist/3QZKZBEmr54lAVI5XvmjnM"
-        }
-      ],
-      "duration_ms": 116026,
-      "name": "Yakety Yak - 2007 Remaster",
-      "url": "https://open.spotify.com/track/3Lbxie6whOW4eMt4jtI32k"
-    },
-    {
-      "added_at": "2022-06-09 22:02:00",
-      "album": {
         "name": "Here's Little Richard (Deluxe Edition)",
         "url": "https://open.spotify.com/album/18tV6PLXYvVjsdOVk0S7M8"
       },
@@ -1727,6 +1711,22 @@
     {
       "added_at": "2022-06-09 22:02:00",
       "album": {
+        "name": "There's A Riot Goin' On: The Coasters On Atco",
+        "url": "https://open.spotify.com/album/1oi6aLPgSAwv3352Jtmjku"
+      },
+      "artists": [
+        {
+          "name": "The Coasters",
+          "url": "https://open.spotify.com/artist/3QZKZBEmr54lAVI5XvmjnM"
+        }
+      ],
+      "duration_ms": 116026,
+      "name": "Yakety Yak - 2007 Remaster",
+      "url": "https://open.spotify.com/track/3Lbxie6whOW4eMt4jtI32k"
+    },
+    {
+      "added_at": "2022-06-09 22:02:00",
+      "album": {
         "name": "The Best Of Bobby Vinton",
         "url": "https://open.spotify.com/album/4qK4QZUSp8QdoMEm9mrzyA"
       },
@@ -1739,22 +1739,6 @@
       "duration_ms": 161373,
       "name": "Mr. Lonely",
       "url": "https://open.spotify.com/track/5KG2ahk1cONbHvg3dBdTbx"
-    },
-    {
-      "added_at": "2022-06-09 22:02:00",
-      "album": {
-        "name": "Heavenly",
-        "url": "https://open.spotify.com/album/3Yx5An0VumBISWmrOtNyB9"
-      },
-      "artists": [
-        {
-          "name": "Johnny Mathis",
-          "url": "https://open.spotify.com/artist/21LGsW7bziR4Ledx7WZ1Wf"
-        }
-      ],
-      "duration_ms": 216573,
-      "name": "Misty",
-      "url": "https://open.spotify.com/track/4uxsv9PjV3Yeyn51RdWvGJ"
     },
     {
       "added_at": "2022-06-09 22:02:00",
@@ -1787,6 +1771,22 @@
       "duration_ms": 180746,
       "name": "Sweet Little Sixteen",
       "url": "https://open.spotify.com/track/4GWHrdyVTC0AWwuRgoWzE7"
+    },
+    {
+      "added_at": "2022-06-09 22:02:00",
+      "album": {
+        "name": "Heavenly",
+        "url": "https://open.spotify.com/album/3Yx5An0VumBISWmrOtNyB9"
+      },
+      "artists": [
+        {
+          "name": "Johnny Mathis",
+          "url": "https://open.spotify.com/artist/21LGsW7bziR4Ledx7WZ1Wf"
+        }
+      ],
+      "duration_ms": 216573,
+      "name": "Misty",
+      "url": "https://open.spotify.com/track/4uxsv9PjV3Yeyn51RdWvGJ"
     },
     {
       "added_at": "2022-06-09 22:02:00",
@@ -1875,22 +1875,6 @@
     {
       "added_at": "2022-06-09 22:02:00",
       "album": {
-        "name": "Berry Is On Top",
-        "url": "https://open.spotify.com/album/6eedtCtCjibu80yOhylSGL"
-      },
-      "artists": [
-        {
-          "name": "Chuck Berry",
-          "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
-        }
-      ],
-      "duration_ms": 143240,
-      "name": "Maybellene",
-      "url": "https://open.spotify.com/track/3SQhmctWreNM0X6Zkm2K5R"
-    },
-    {
-      "added_at": "2022-06-09 22:02:00",
-      "album": {
         "name": "Born Too Late",
         "url": "https://open.spotify.com/album/3TnMW3EicWwdyFAze9Y0og"
       },
@@ -1903,6 +1887,22 @@
       "duration_ms": 139013,
       "name": "Born Too Late",
       "url": "https://open.spotify.com/track/3ZyJfbh2Y9y15f45qY1pDJ"
+    },
+    {
+      "added_at": "2022-06-09 22:02:00",
+      "album": {
+        "name": "The Best Of The Diamonds",
+        "url": "https://open.spotify.com/album/6iUnqREt5OzfM2EDpJVEVM"
+      },
+      "artists": [
+        {
+          "name": "The Diamonds",
+          "url": "https://open.spotify.com/artist/3s9kaLrpplvv4vIzZBYPga"
+        }
+      ],
+      "duration_ms": 129333,
+      "name": "Little Darlin'",
+      "url": "https://open.spotify.com/track/7ycFNferNuk6wAjBa0vWvl"
     },
     {
       "added_at": "2022-06-09 22:02:00",
@@ -1923,18 +1923,18 @@
     {
       "added_at": "2022-06-09 22:02:00",
       "album": {
-        "name": "The Best Of The Diamonds",
-        "url": "https://open.spotify.com/album/6iUnqREt5OzfM2EDpJVEVM"
+        "name": "Berry Is On Top",
+        "url": "https://open.spotify.com/album/6eedtCtCjibu80yOhylSGL"
       },
       "artists": [
         {
-          "name": "The Diamonds",
-          "url": "https://open.spotify.com/artist/3s9kaLrpplvv4vIzZBYPga"
+          "name": "Chuck Berry",
+          "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
         }
       ],
-      "duration_ms": 129333,
-      "name": "Little Darlin'",
-      "url": "https://open.spotify.com/track/7ycFNferNuk6wAjBa0vWvl"
+      "duration_ms": 143240,
+      "name": "Maybellene",
+      "url": "https://open.spotify.com/track/3SQhmctWreNM0X6Zkm2K5R"
     },
     {
       "added_at": "2022-06-09 22:02:00",
@@ -2043,22 +2043,6 @@
     {
       "added_at": "2022-06-09 22:02:00",
       "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/5f1KMzQPkGnHOerwnOkHSV"
-      },
-      "artists": [
-        {
-          "name": "Little Anthony & The Imperials",
-          "url": "https://open.spotify.com/artist/3PF1KBeHYb14yKgsiE693V"
-        }
-      ],
-      "duration_ms": 140533,
-      "name": "Tears on My Pillow",
-      "url": "https://open.spotify.com/track/07ePHsQ0SopWrnCbNjNC2D"
-    },
-    {
-      "added_at": "2022-06-09 22:02:00",
-      "album": {
         "name": "The Skyliners",
         "url": "https://open.spotify.com/album/1NkPqMACJL2PejSrAZzbiQ"
       },
@@ -2071,6 +2055,22 @@
       "duration_ms": 158840,
       "name": "Since I Don't Have You (Alternative Take)",
       "url": "https://open.spotify.com/track/4uAalOPic5WOPJF1kANXCt"
+    },
+    {
+      "added_at": "2022-06-09 22:02:00",
+      "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/5f1KMzQPkGnHOerwnOkHSV"
+      },
+      "artists": [
+        {
+          "name": "Little Anthony & The Imperials",
+          "url": "https://open.spotify.com/artist/3PF1KBeHYb14yKgsiE693V"
+        }
+      ],
+      "duration_ms": 140533,
+      "name": "Tears on My Pillow",
+      "url": "https://open.spotify.com/track/07ePHsQ0SopWrnCbNjNC2D"
     },
     {
       "added_at": "2022-06-09 22:02:00",
@@ -2219,22 +2219,6 @@
     {
       "added_at": "2022-06-09 22:02:00",
       "album": {
-        "name": "Legacy",
-        "url": "https://open.spotify.com/album/1bZHbHtUvjGqUOKNla4lo0"
-      },
-      "artists": [
-        {
-          "name": "Ricky Nelson",
-          "url": "https://open.spotify.com/artist/73sSFVlM6pkweLXE8qw1OS"
-        }
-      ],
-      "duration_ms": 140773,
-      "name": "A Teenager's Romance",
-      "url": "https://open.spotify.com/track/1Qn5jElT7XqjvVeJ8pYM2w"
-    },
-    {
-      "added_at": "2022-06-09 22:02:00",
-      "album": {
         "name": "Who Wrote The Book Of Love? [Digital Version]",
         "url": "https://open.spotify.com/album/2Bpr0LzFjdDjBHKsT9JxOV"
       },
@@ -2247,6 +2231,22 @@
       "duration_ms": 138440,
       "name": "The Book of Love",
       "url": "https://open.spotify.com/track/1N131UBLlYAUJNVpHOfEc1"
+    },
+    {
+      "added_at": "2022-06-09 22:02:00",
+      "album": {
+        "name": "Legacy",
+        "url": "https://open.spotify.com/album/1bZHbHtUvjGqUOKNla4lo0"
+      },
+      "artists": [
+        {
+          "name": "Ricky Nelson",
+          "url": "https://open.spotify.com/artist/73sSFVlM6pkweLXE8qw1OS"
+        }
+      ],
+      "duration_ms": 140773,
+      "name": "A Teenager's Romance",
+      "url": "https://open.spotify.com/track/1Qn5jElT7XqjvVeJ8pYM2w"
     },
     {
       "added_at": "2022-06-09 22:02:00",
@@ -2303,6 +2303,22 @@
     {
       "added_at": "2022-06-09 22:02:00",
       "album": {
+        "name": "Presenting the Spaniels",
+        "url": "https://open.spotify.com/album/3FXBB39hDogIg4qUjEmVn2"
+      },
+      "artists": [
+        {
+          "name": "The Spaniels",
+          "url": "https://open.spotify.com/artist/0EkpTQlDjByRT3m4wOsr4P"
+        }
+      ],
+      "duration_ms": 160280,
+      "name": "Goodnight, Sweetheart, Goodnight",
+      "url": "https://open.spotify.com/track/5VLKQp1YTubqXJ02HnViz5"
+    },
+    {
+      "added_at": "2022-06-09 22:02:00",
+      "album": {
         "name": "Tequila",
         "url": "https://open.spotify.com/album/2NJ4uQ6j4wASjGpGFc0m3C"
       },
@@ -2319,18 +2335,18 @@
     {
       "added_at": "2022-06-09 22:02:00",
       "album": {
-        "name": "Presenting the Spaniels",
-        "url": "https://open.spotify.com/album/3FXBB39hDogIg4qUjEmVn2"
+        "name": "The Exciting Lloyd Price",
+        "url": "https://open.spotify.com/album/0QutFp2d494sxD57IbvfGu"
       },
       "artists": [
         {
-          "name": "The Spaniels",
-          "url": "https://open.spotify.com/artist/0EkpTQlDjByRT3m4wOsr4P"
+          "name": "Lloyd Price",
+          "url": "https://open.spotify.com/artist/3iOE5ItEv5xr9fmKi7GNh2"
         }
       ],
-      "duration_ms": 160280,
-      "name": "Goodnight, Sweetheart, Goodnight",
-      "url": "https://open.spotify.com/track/5VLKQp1YTubqXJ02HnViz5"
+      "duration_ms": 144626,
+      "name": "Stagger Lee",
+      "url": "https://open.spotify.com/track/7qoaMWT3eRCKG1RN6dVuOY"
     },
     {
       "added_at": "2022-06-09 22:02:00",
@@ -2355,18 +2371,18 @@
     {
       "added_at": "2022-06-09 22:02:00",
       "album": {
-        "name": "The Exciting Lloyd Price",
-        "url": "https://open.spotify.com/album/0QutFp2d494sxD57IbvfGu"
+        "name": "After Hours",
+        "url": "https://open.spotify.com/album/3F0Q6zKxvJJbxWR4hZWcef"
       },
       "artists": [
         {
-          "name": "Lloyd Price",
-          "url": "https://open.spotify.com/artist/3iOE5ItEv5xr9fmKi7GNh2"
+          "name": "Sarah Vaughan",
+          "url": "https://open.spotify.com/artist/1bgyxtWjZwA5PQlDsvs9b8"
         }
       ],
-      "duration_ms": 144626,
-      "name": "Stagger Lee",
-      "url": "https://open.spotify.com/track/7qoaMWT3eRCKG1RN6dVuOY"
+      "duration_ms": 200440,
+      "name": "Black Coffee",
+      "url": "https://open.spotify.com/track/56IQUfsUskt9VHe6YM6kue"
     },
     {
       "added_at": "2022-06-09 22:02:00",
@@ -2383,22 +2399,6 @@
       "duration_ms": 135840,
       "name": "Lonesome Town - 1990 Digital Remaster",
       "url": "https://open.spotify.com/track/56XoFI6v7kbGNdM8ALYWof"
-    },
-    {
-      "added_at": "2022-06-09 22:02:00",
-      "album": {
-        "name": "After Hours",
-        "url": "https://open.spotify.com/album/3F0Q6zKxvJJbxWR4hZWcef"
-      },
-      "artists": [
-        {
-          "name": "Sarah Vaughan",
-          "url": "https://open.spotify.com/artist/1bgyxtWjZwA5PQlDsvs9b8"
-        }
-      ],
-      "duration_ms": 200440,
-      "name": "Black Coffee",
-      "url": "https://open.spotify.com/track/56IQUfsUskt9VHe6YM6kue"
     },
     {
       "added_at": "2022-06-09 22:02:00",

@@ -1,5 +1,5 @@
 {
-  "2024-03-21": 567,
+  "2024-03-22": 566,
   "date_first_scraped": "2022-09-17",
   "description": "This is The XCERTS. The essential tracks, all in one playlist.",
   "name": "This Is The XCERTS",
@@ -367,7 +367,7 @@
       ],
       "date_added": "2023-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-21",
       "duration_ms": 165078,
       "name": "Everything I Cannot Live Without",
       "url": "https://open.spotify.com/track/2QmjlN2galNBzuLxbiOirz"
@@ -457,7 +457,7 @@
       ],
       "date_added": "2022-10-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-20",
+      "date_removed": null,
       "duration_ms": 181527,
       "name": "Growing Old",
       "url": "https://open.spotify.com/track/6awPRJmTQazCOxeIRLq416"
@@ -1051,7 +1051,7 @@
       ],
       "date_added": "2023-08-19",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-20",
+      "date_removed": null,
       "duration_ms": 165334,
       "name": "Lust In Translation",
       "url": "https://open.spotify.com/track/2CbaBYrPygEmLNIa4l9RPq"

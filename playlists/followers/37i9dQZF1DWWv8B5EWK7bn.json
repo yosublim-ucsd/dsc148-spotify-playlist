@@ -1,5 +1,5 @@
 {
-  "2024-03-21": 179157,
+  "2024-03-22": 179213,
   "date_first_scraped": "2022-05-11",
   "description": "Oblique: Angular. Asymmetrical. Experimental.",
   "name": "Oblique",
@@ -1647,6 +1647,28 @@
       "duration_ms": 288746,
       "name": "Edge of the Edge",
       "url": "https://open.spotify.com/track/4NbOlTgtufOpRVd7h1fsyA"
+    },
+    {
+      "album": {
+        "name": "Empty And Silent (feat. King Krule)",
+        "url": "https://open.spotify.com/album/0AeSOw3HZgMJepZRDj2YR0"
+      },
+      "artists": [
+        {
+          "name": "Mount Kimbie",
+          "url": "https://open.spotify.com/artist/3NUtpWpGDoffm3RCGhSHtl"
+        },
+        {
+          "name": "King Krule",
+          "url": "https://open.spotify.com/artist/4wyNyxs74Ux8UIDopNjIai"
+        }
+      ],
+      "date_added": "2024-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 367954,
+      "name": "Empty And Silent (feat. King Krule)",
+      "url": "https://open.spotify.com/track/1SFUxSbBQbJqjN9rFOmYGk"
     },
     {
       "album": {
@@ -3516,6 +3538,24 @@
     },
     {
       "album": {
+        "name": "Boeckner!",
+        "url": "https://open.spotify.com/album/1we8POeAomGmp8hTzGFdaW"
+      },
+      "artists": [
+        {
+          "name": "Boeckner",
+          "url": "https://open.spotify.com/artist/1SdWYxZBt4RjvyXcMbtxyE"
+        }
+      ],
+      "date_added": "2024-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291037,
+      "name": "Lose",
+      "url": "https://open.spotify.com/track/5fSUc2h13lsyCcGLhzfTED"
+    },
+    {
+      "album": {
         "name": "Lose",
         "url": "https://open.spotify.com/album/4ddL8UW6YILIWxd0g185KP"
       },
@@ -3527,7 +3567,7 @@
       ],
       "date_added": "2024-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-21",
       "duration_ms": 291037,
       "name": "Lose",
       "url": "https://open.spotify.com/track/729EJVbWkITU4vAc690cFE"
@@ -4685,7 +4725,7 @@
       ],
       "date_added": "2023-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-21",
       "duration_ms": 221163,
       "name": "r(EMOTE)",
       "url": "https://open.spotify.com/track/3iOMiZlt4gEeQsEgnW0MeQ"

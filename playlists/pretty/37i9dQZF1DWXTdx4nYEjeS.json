@@ -1,12 +1,12 @@
 {
   "description": "M\u00fasica para acompa\u00f1ar esas rondas interminables de mate.",
-  "num_followers": 761838,
+  "num_followers": 762163,
   "original_name": "Mates y M\u00fasica",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhYmQ4NTYwMjVhODNhMzRhNGU4YThmM2JlOTJiMWQ1NjQ4NjNlYTU4",
+  "snapshot_id": "MCwyMjQ4NzJkNWUwNzQyODNmYjZmMDU3Njk5OGE5YTc5ZmYzOWU5NmIz",
   "tracks": [
     {
       "added_at": "2024-03-11 15:22:11",
@@ -855,22 +855,6 @@
     {
       "added_at": "2024-03-11 15:22:11",
       "album": {
-        "name": "Narig\u00f3n del Siglo, Yo Te Dejo Perfumado en la Esquina para Siempre",
-        "url": "https://open.spotify.com/album/4GkZExYLfegidZaO1BgpvU"
-      },
-      "artists": [
-        {
-          "name": "Divididos",
-          "url": "https://open.spotify.com/artist/6ZIgPKHzpcswB8zh7sRIhx"
-        }
-      ],
-      "duration_ms": 212880,
-      "name": "Spaghetti del Rock",
-      "url": "https://open.spotify.com/track/6rg1MBZqggsQ5olFGTw0rr"
-    },
-    {
-      "added_at": "2024-03-11 15:22:11",
-      "album": {
         "name": "La Sintesis O'Konor",
         "url": "https://open.spotify.com/album/7oEJJ7TxrfWGJXczcuOWpK"
       },
@@ -883,22 +867,6 @@
       "duration_ms": 271400,
       "name": "El Tesoro",
       "url": "https://open.spotify.com/track/7HmuloxW2LLiPu0lcmkjoq"
-    },
-    {
-      "added_at": "2024-03-11 15:22:11",
-      "album": {
-        "name": "Nunca Lo Olvides",
-        "url": "https://open.spotify.com/album/6ZDbOUt4FRdFgQEbhJyFui"
-      },
-      "artists": [
-        {
-          "name": "Airbag",
-          "url": "https://open.spotify.com/artist/1wKDGglKV4FsFS85r2Dmpr"
-        }
-      ],
-      "duration_ms": 299810,
-      "name": "Nunca Lo Olvides",
-      "url": "https://open.spotify.com/track/1qAMb1y3o7Olwm8pYTuzyV"
     },
     {
       "added_at": "2024-03-11 15:22:11",
@@ -919,6 +887,38 @@
     {
       "added_at": "2024-03-11 15:22:11",
       "album": {
+        "name": "Narig\u00f3n del Siglo, Yo Te Dejo Perfumado en la Esquina para Siempre",
+        "url": "https://open.spotify.com/album/4GkZExYLfegidZaO1BgpvU"
+      },
+      "artists": [
+        {
+          "name": "Divididos",
+          "url": "https://open.spotify.com/artist/6ZIgPKHzpcswB8zh7sRIhx"
+        }
+      ],
+      "duration_ms": 212880,
+      "name": "Spaghetti del Rock",
+      "url": "https://open.spotify.com/track/6rg1MBZqggsQ5olFGTw0rr"
+    },
+    {
+      "added_at": "2024-03-11 15:22:11",
+      "album": {
+        "name": "Nunca Lo Olvides",
+        "url": "https://open.spotify.com/album/6ZDbOUt4FRdFgQEbhJyFui"
+      },
+      "artists": [
+        {
+          "name": "Airbag",
+          "url": "https://open.spotify.com/artist/1wKDGglKV4FsFS85r2Dmpr"
+        }
+      ],
+      "duration_ms": 299810,
+      "name": "Nunca Lo Olvides",
+      "url": "https://open.spotify.com/track/1qAMb1y3o7Olwm8pYTuzyV"
+    },
+    {
+      "added_at": "2024-03-11 15:22:11",
+      "album": {
         "name": "Esperando el Milagro",
         "url": "https://open.spotify.com/album/7nXlmH0p6PfgKTsxy3DzCT"
       },
@@ -935,22 +935,6 @@
     {
       "added_at": "2024-03-11 15:22:11",
       "album": {
-        "name": "Locura",
-        "url": "https://open.spotify.com/album/5K3EGqntkI4To4TKtmIj2r"
-      },
-      "artists": [
-        {
-          "name": "Virus",
-          "url": "https://open.spotify.com/artist/0G7A5LzQAs2egiQl7hO5tV"
-        }
-      ],
-      "duration_ms": 273306,
-      "name": "Pronta Entrega",
-      "url": "https://open.spotify.com/track/4UXE0ZLGIoLUOFqTECzoQe"
-    },
-    {
-      "added_at": "2024-03-11 15:22:11",
-      "album": {
         "name": "GUAU!",
         "url": "https://open.spotify.com/album/1b0s5a9iIWIH5nEpzWSjHG"
       },
@@ -963,6 +947,22 @@
       "duration_ms": 237800,
       "name": "El Fantasma",
       "url": "https://open.spotify.com/track/0N361WhEqVunVl5ZBkfd70"
+    },
+    {
+      "added_at": "2024-03-11 15:22:11",
+      "album": {
+        "name": "Locura",
+        "url": "https://open.spotify.com/album/5K3EGqntkI4To4TKtmIj2r"
+      },
+      "artists": [
+        {
+          "name": "Virus",
+          "url": "https://open.spotify.com/artist/0G7A5LzQAs2egiQl7hO5tV"
+        }
+      ],
+      "duration_ms": 273306,
+      "name": "Pronta Entrega",
+      "url": "https://open.spotify.com/track/4UXE0ZLGIoLUOFqTECzoQe"
     },
     {
       "added_at": "2024-03-11 15:22:11",
@@ -1103,22 +1103,6 @@
     {
       "added_at": "2024-03-11 15:22:11",
       "album": {
-        "name": "Despierta",
-        "url": "https://open.spotify.com/album/0289kJfdXVBPSDJfQ1fPJz"
-      },
-      "artists": [
-        {
-          "name": "Las Pelotas",
-          "url": "https://open.spotify.com/artist/1Qv4E1VgZOGnOYd99Kp5Bs"
-        }
-      ],
-      "duration_ms": 250357,
-      "name": "Personalmente",
-      "url": "https://open.spotify.com/track/7q7XFO9av9VpNJSXKJwJxD"
-    },
-    {
-      "added_at": "2024-03-11 15:22:11",
-      "album": {
         "name": "Otras Canciones",
         "url": "https://open.spotify.com/album/72SqrtijWJKq6ukitktd1D"
       },
@@ -1131,6 +1115,22 @@
       "duration_ms": 202063,
       "name": "A Las Nueve",
       "url": "https://open.spotify.com/track/68cko9zdsKwaxgb98sF36S"
+    },
+    {
+      "added_at": "2024-03-11 15:22:11",
+      "album": {
+        "name": "Despierta",
+        "url": "https://open.spotify.com/album/0289kJfdXVBPSDJfQ1fPJz"
+      },
+      "artists": [
+        {
+          "name": "Las Pelotas",
+          "url": "https://open.spotify.com/artist/1Qv4E1VgZOGnOYd99Kp5Bs"
+        }
+      ],
+      "duration_ms": 250357,
+      "name": "Personalmente",
+      "url": "https://open.spotify.com/track/7q7XFO9av9VpNJSXKJwJxD"
     },
     {
       "added_at": "2024-03-11 15:22:11",
@@ -1167,6 +1167,22 @@
     {
       "added_at": "2024-03-11 15:22:11",
       "album": {
+        "name": "111",
+        "url": "https://open.spotify.com/album/338cbfABt3duRORfvNeqLT"
+      },
+      "artists": [
+        {
+          "name": "Milo j",
+          "url": "https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3"
+        }
+      ],
+      "duration_ms": 188742,
+      "name": "DOM1NGO",
+      "url": "https://open.spotify.com/track/7Ec2XdY7cs14ONZMgsDx4K"
+    },
+    {
+      "added_at": "2024-03-11 15:22:11",
+      "album": {
         "name": "Viaje",
         "url": "https://open.spotify.com/album/795wm7ucRpHjqdyIPUAd0i"
       },
@@ -1195,22 +1211,6 @@
       "duration_ms": 281920,
       "name": "Madrugada",
       "url": "https://open.spotify.com/track/4SGCn3ZVXa7bepHuAdQvC9"
-    },
-    {
-      "added_at": "2024-03-11 15:22:11",
-      "album": {
-        "name": "111",
-        "url": "https://open.spotify.com/album/338cbfABt3duRORfvNeqLT"
-      },
-      "artists": [
-        {
-          "name": "Milo j",
-          "url": "https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3"
-        }
-      ],
-      "duration_ms": 188742,
-      "name": "DOM1NGO",
-      "url": "https://open.spotify.com/track/7Ec2XdY7cs14ONZMgsDx4K"
     },
     {
       "added_at": "2024-03-11 15:22:11",
@@ -1303,22 +1303,6 @@
     {
       "added_at": "2024-03-11 15:22:11",
       "album": {
-        "name": "Sistema Nervioso Central",
-        "url": "https://open.spotify.com/album/6IbJShCtiqesFKNWnNfZp4"
-      },
-      "artists": [
-        {
-          "name": "Estelares",
-          "url": "https://open.spotify.com/artist/6Nm62oNQCdPxVoiQtFSksF"
-        }
-      ],
-      "duration_ms": 242932,
-      "name": "Un Dia Perfecto",
-      "url": "https://open.spotify.com/track/5w3GTe4W2fHBC3tLnqCr1B"
-    },
-    {
-      "added_at": "2024-03-11 15:22:11",
-      "album": {
         "name": "Comfort Y Musica Para Volar",
         "url": "https://open.spotify.com/album/5RJLKN7ucuVaRAUzNKtKB8"
       },
@@ -1331,6 +1315,22 @@
       "duration_ms": 274586,
       "name": "Un Misil En Mi Placard - MTV Unplugged",
       "url": "https://open.spotify.com/track/7IJC1qatyg2t8SZiwJRvID"
+    },
+    {
+      "added_at": "2024-03-11 15:22:11",
+      "album": {
+        "name": "Sistema Nervioso Central",
+        "url": "https://open.spotify.com/album/6IbJShCtiqesFKNWnNfZp4"
+      },
+      "artists": [
+        {
+          "name": "Estelares",
+          "url": "https://open.spotify.com/artist/6Nm62oNQCdPxVoiQtFSksF"
+        }
+      ],
+      "duration_ms": 242932,
+      "name": "Un Dia Perfecto",
+      "url": "https://open.spotify.com/track/5w3GTe4W2fHBC3tLnqCr1B"
     },
     {
       "added_at": "2024-03-11 15:22:11",
@@ -1531,22 +1531,6 @@
     {
       "added_at": "2024-03-11 15:22:11",
       "album": {
-        "name": "3er Arco",
-        "url": "https://open.spotify.com/album/2tqxwMkehDRiz4gErUNZ0Q"
-      },
-      "artists": [
-        {
-          "name": "Los Piojos",
-          "url": "https://open.spotify.com/artist/0SnyKkoyBaB2fG8IJH4xmU"
-        }
-      ],
-      "duration_ms": 253933,
-      "name": "El Farolito",
-      "url": "https://open.spotify.com/track/5QpdTr2fHXLF0Oj8TcGHmV"
-    },
-    {
-      "added_at": "2024-03-11 15:22:11",
-      "album": {
         "name": "Qui\u00e9reme As\u00ed",
         "url": "https://open.spotify.com/album/5ugHOB3qvt50RpLkuoIYYN"
       },
@@ -1559,6 +1543,22 @@
       "duration_ms": 188193,
       "name": "Qui\u00e9reme As\u00ed",
       "url": "https://open.spotify.com/track/2bOw3b1eAOtYXzyaB63KXK"
+    },
+    {
+      "added_at": "2024-03-11 15:22:11",
+      "album": {
+        "name": "3er Arco",
+        "url": "https://open.spotify.com/album/2tqxwMkehDRiz4gErUNZ0Q"
+      },
+      "artists": [
+        {
+          "name": "Los Piojos",
+          "url": "https://open.spotify.com/artist/0SnyKkoyBaB2fG8IJH4xmU"
+        }
+      ],
+      "duration_ms": 253933,
+      "name": "El Farolito",
+      "url": "https://open.spotify.com/track/5QpdTr2fHXLF0Oj8TcGHmV"
     }
   ],
   "unique_name": "Mates y M\u00fasica",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWValJmYBKiAM.md) - [plain]
 
 > Relax to the the rhythm of these smooth Latin tunes of the 2000s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 157,794 likes - 100 songs - 6 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 158,004 likes - 100 songs - 6 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,9 +57,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWValJmYBKiAM.md) - [plain]
 | 47 | [Mariposa Traicionera](https://open.spotify.com/track/0Pjsm4AaJGPOXHoB6xCgJB) | [Maná](https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz) | [Revolución De Amor](https://open.spotify.com/album/6HrRHewMLfZLSkwJyZgr3V) | 4:24 |
 | 48 | [Suelta Mi Mano](https://open.spotify.com/track/50xvGsnNmO3k5EtaUBXRRr) | [Sin Bandera](https://open.spotify.com/artist/7xeM7V59cA1X8GKyKKQV87) | [Mañana](https://open.spotify.com/album/5pbMJWLEzbU0HNQBffJyRx) | 4:00 |
 | 49 | [Y Si Te Quedas, ¿Qué?](https://open.spotify.com/track/0Y9c9SRQgswjlt4BzCsJv4) | [Santiago Cruz](https://open.spotify.com/artist/5ClJtuiNlr83ua45Dvpcf7) | [Cruce de Caminos](https://open.spotify.com/album/5AwLil0ISb4xv118YW3QVW) | 3:38 |
-| 50 | [Sinônimos](https://open.spotify.com/track/5wn7dRsPFOd236GySyJqLx) | [Chitãozinho & Xororó](https://open.spotify.com/artist/7gfkYbxpguEc9bm6m8TpAr), [Zé Ramalho](https://open.spotify.com/artist/7JoWcJHDOG58JYTe6d400S) | [Aqui O Sistema É Bruto](https://open.spotify.com/album/4FTV8aipNFzqQo10minF34) | 4:43 |
-| 51 | [Me Duele Amarte](https://open.spotify.com/track/2VLcpwzuZVSZQUCQDQRM8n) | [Reik](https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2) | [Secuencia](https://open.spotify.com/album/4kMpYWQfF4f4iXLhopgk3w) | 3:12 |
-| 52 | [Mi Princesa](https://open.spotify.com/track/16kJ8NqNdHbwJe9kf1TJLe) | [David Bisbal](https://open.spotify.com/artist/5gOJTI4TusSENizxhcG7jB) | [Sin Mirar Atrás](https://open.spotify.com/album/1xW38xA3oVHef1d8FdIZs6) | 3:22 |
+| 50 | [Me Duele Amarte](https://open.spotify.com/track/2VLcpwzuZVSZQUCQDQRM8n) | [Reik](https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2) | [Secuencia](https://open.spotify.com/album/4kMpYWQfF4f4iXLhopgk3w) | 3:12 |
+| 51 | [Mi Princesa](https://open.spotify.com/track/16kJ8NqNdHbwJe9kf1TJLe) | [David Bisbal](https://open.spotify.com/artist/5gOJTI4TusSENizxhcG7jB) | [Sin Mirar Atrás](https://open.spotify.com/album/1xW38xA3oVHef1d8FdIZs6) | 3:22 |
+| 52 | [Sinônimos](https://open.spotify.com/track/5wn7dRsPFOd236GySyJqLx) | [Chitãozinho & Xororó](https://open.spotify.com/artist/7gfkYbxpguEc9bm6m8TpAr), [Zé Ramalho](https://open.spotify.com/artist/7JoWcJHDOG58JYTe6d400S) | [Aqui O Sistema É Bruto](https://open.spotify.com/album/4FTV8aipNFzqQo10minF34) | 4:43 |
 | 53 | [A gritos de esperanza](https://open.spotify.com/track/3z4hLskqGLtLEYcetdtxqe) | [Alex Ubago](https://open.spotify.com/artist/2tY2GFdhH0Wa2VBvsxew5X) | [¿Qué pides tú? \(Argentina\)](https://open.spotify.com/album/7cJiLvzLDaEhi2K4pfPYjl) | 4:33 |
 | 54 | [No, No, No](https://open.spotify.com/track/1qjpqPksHOOIKcwShB08oz) | [Thalia](https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb), [Romeo Santos](https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP) | [El Sexto Sentido \(Re+Loaded\)](https://open.spotify.com/album/3kHeN0vyKHdjNO5YOnCt2r) | 4:09 |
 | 55 | [O Me Voy O Te Vas](https://open.spotify.com/track/4WTTh1YtBwf8hhKvRyJPwi) | [Marco Antonio Solís](https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd) | [Más De Mi Alma](https://open.spotify.com/album/6Wu8bNDDeQb0mLXYstVAjh) | 4:47 |
@@ -91,9 +91,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWValJmYBKiAM.md) - [plain]
 | 81 | [Usted Se Me Llevo la Vida](https://open.spotify.com/track/1wx6JALNy9KXwndVziEUKw) | [Alexandre Pires](https://open.spotify.com/artist/0Rrl4hJQjRAbGtiEwAqS5N) | [É Por Amor](https://open.spotify.com/album/6mtlmSyayzI491l9RSX8DO) | 4:32 |
 | 82 | [No Me Enseñaste](https://open.spotify.com/track/37QuCMe2SASXrkLm5NhT5m) | [Thalia](https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb) | [Thalia](https://open.spotify.com/album/5aHuKZqTY34cuOcIFfohrt) | 4:29 |
 | 83 | [Que Nadie](https://open.spotify.com/track/1Qo29QfhrhhhoniBr1WCDq) | [Manuel Carrasco](https://open.spotify.com/artist/7qAoXV4U0qDxQAUqhszjAA), [Malú](https://open.spotify.com/artist/3TLGNOdp1UWYMnV5XG9HkR) | [Inercia](https://open.spotify.com/album/1FYPgqEEVzC50FVkU0DhpS) | 3:56 |
-| 84 | [Ya Nada Queda](https://open.spotify.com/track/3zN6kV9JWuQYVqXPtNvZku) | [Kudai](https://open.spotify.com/artist/0Wnd6L0qEnk8jiCIHrWXaC) | [Vuelo](https://open.spotify.com/album/08KOgBq2xXcfunaEs3Nf2P) | 3:44 |
+| 84 | [¿Quién Te Dijo Eso?](https://open.spotify.com/track/159yUhKZg2ZAdt0HknTqDr) | [Luis Fonsi](https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG) | [Abrazar La Vida](https://open.spotify.com/album/7u8IWfPzlYcqN4N6tU4FcW) | 4:31 |
 | 85 | [No Me Quiero Enamorar](https://open.spotify.com/track/6LUWcw7HapRK92mQI42Tzp) | [Kalimba](https://open.spotify.com/artist/4RjamFQJNT8nVbTKXJDJgv) | [Aerosoul](https://open.spotify.com/album/2sIZCYi1DM51AheC1HiqgG) | 3:37 |
-| 86 | [¿Quién Te Dijo Eso?](https://open.spotify.com/track/159yUhKZg2ZAdt0HknTqDr) | [Luis Fonsi](https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG) | [Abrazar La Vida](https://open.spotify.com/album/7u8IWfPzlYcqN4N6tU4FcW) | 4:31 |
+| 86 | [Ya Nada Queda](https://open.spotify.com/track/3zN6kV9JWuQYVqXPtNvZku) | [Kudai](https://open.spotify.com/artist/0Wnd6L0qEnk8jiCIHrWXaC) | [Vuelo](https://open.spotify.com/album/08KOgBq2xXcfunaEs3Nf2P) | 3:44 |
 | 87 | [Si Tú Quieres](https://open.spotify.com/track/51LfO8PLG7Qi0sUwA74tCw) | [Elefante](https://open.spotify.com/artist/5oYHL2SijkMY52gKIhYJNb) | [Elefante](https://open.spotify.com/album/42Fc71rqB9qZAb84q0Hs3U) | 5:24 |
 | 88 | [Sin Ti](https://open.spotify.com/track/1mmaywWRQzNE5dt0eUISBd) | [King Chango](https://open.spotify.com/artist/5nZlhgO7iNedGlO0gKu9us) | [The Return of El Santo](https://open.spotify.com/album/5cOccFEax9P6EPRJc4xPx9) | 4:47 |
 | 89 | [Sin ti no soy nada](https://open.spotify.com/track/7cQ7axcCXsa963OluHTWlS) | [Amaral](https://open.spotify.com/artist/4OkeTQCk0fvX6VBYpOOxDi) | [Estrella De Mar](https://open.spotify.com/album/1QGknzEMRCNdJ8v1i49SAZ) | 4:28 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWValJmYBKiAM.md) - [plain]
 | 99 | [No Puedo Dejarte de Amar \(with Jesús Navarro\)](https://open.spotify.com/track/0RGRcMtokeaLUNAhqNIfKw) | [Kalimba](https://open.spotify.com/artist/4RjamFQJNT8nVbTKXJDJgv), [Jesús Navarro](https://open.spotify.com/artist/177dG4gTPSBg2F2KXZdPMW) | [Negroklaro](https://open.spotify.com/album/3coPqLJEOG5cahTVTRrWYM) | 5:17 |
 | 100 | [Amor de Madre](https://open.spotify.com/track/7Ka96TnEA9S6aWG4pIS9RW) | [Aventura](https://open.spotify.com/artist/1qto4hHid1P71emI6Fd8xi) | [We Broke The Rules](https://open.spotify.com/album/5QdYO6Q2POaG7dhVIsJeWd) | 5:50 |
 
-Snapshot ID: `MCxkODEyNGI1MWU1MzA0NWJiMWViNjE4ZDA5NWVhNzA3OWUzOWRkYThh`
+Snapshot ID: `MCwxZTQ0NDA0YjAzYmIxYjE2Mjk4NmU0ODgzYjMzOTU1NDgxZjMwMGM5`

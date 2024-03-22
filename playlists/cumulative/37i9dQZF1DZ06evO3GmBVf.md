@@ -4,7 +4,7 @@
 
 > This is Lefty Sm\. The essential tracks, all in one playlist.
 
-55 songs - 3 hr 36 min
+56 songs - 3 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,6 +28,7 @@
 | [Flaco Pesado](https://open.spotify.com/track/7GWFTZmolwaKFn3oNcUs9D) | [Zxmyr](https://open.spotify.com/artist/7IUaYyqcGB3aU2Tm4s5JY8), [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf) | [Flaco Pesado](https://open.spotify.com/album/4JvYZecbx8yziQUw4zEyHg) | 2:37 | 2023-09-15 |  |
 | [Ingrata](https://open.spotify.com/track/14Z6lwzx8eYwEpkzel6ldV) | [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf), [Tornillo](https://open.spotify.com/artist/5OGraDcSkO4oTWthkm77WL) | [Ingrata](https://open.spotify.com/album/6SNEqAhkOIaXgEeQEhrA9b) | 3:34 | 2023-09-15 |  |
 | [La Misma Bandera](https://open.spotify.com/track/03BF74w1BbBJXQvJKVElYe) | [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf) | [La Misma Bandera](https://open.spotify.com/album/4BchMOSQZkIWEkY9G5lZ6e) | 3:41 | 2023-11-10 |  |
+| [LEYENDA](https://open.spotify.com/track/45LzMBMAtMP6IeWBqd8mUR) | [Eme MalaFe](https://open.spotify.com/artist/4RFrAp13K0fHKH7IpSdKxi), [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf) | [LEYENDA](https://open.spotify.com/album/69TuNGeXi7iah9B755lakY) | 4:48 | 2024-03-21 |  |
 | [Malvada](https://open.spotify.com/track/3yE70C2cmJ9FcuIEL7u23e) | [Neto Peña](https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI), [Natos y Waor](https://open.spotify.com/artist/1QJbbsxg2wqidJj51d3otw), [Toser One](https://open.spotify.com/artist/1oHPSeQJBwNmpq0J52Wjn1), [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4), [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf) | [Malvada](https://open.spotify.com/album/6FUY0mliGmcUTZDyDgah6I) | 5:21 | 2023-09-15 | 2023-11-11 |
 | [Me Salió Caro](https://open.spotify.com/track/2lj7jB5D4OuurRaynHAW8y) | [Toser One](https://open.spotify.com/artist/1oHPSeQJBwNmpq0J52Wjn1), [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf) | [Me Salió Caro](https://open.spotify.com/album/452UvA8ezntpnKuferwxay) | 2:57 | 2023-09-15 |  |
 | [Mexicano](https://open.spotify.com/track/3Jm4jlq8Tl9ejmyVBwmSQ2) | [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf), [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0) | [Mexicano](https://open.spotify.com/album/4n56qxAOz6RDbCR4BE73rt) | 2:54 | 2023-09-15 |  |
@@ -54,7 +55,7 @@
 | [Solita](https://open.spotify.com/track/5bZ1FNzTSeFOg58a4k00iQ) | [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0), [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf) | [Solita](https://open.spotify.com/album/4jnbjRmfIxT6M5ECYpXizH) | 3:22 | 2023-11-10 |  |
 | [Soy Mercenario](https://open.spotify.com/track/1YQf6cJ5XXlF7AgvrI8CRr) | [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf), [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp) | [Necesidad](https://open.spotify.com/album/7iSPRgLrTrRr7Ed5W2tws6) | 3:09 | 2023-09-15 |  |
 | [Suena En Mi Barrio](https://open.spotify.com/track/74yqnVCGQpA9zGTTmBJe6C) | [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf), [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL) | [Suena En Mi Barrio](https://open.spotify.com/album/5CI5uDMVwq1peqgm0nAO5c) | 3:53 | 2023-09-15 |  |
-| [Te Esfumarás](https://open.spotify.com/track/1hLQwcyUVVUlIvsGuCoTmI) | [Luis Alfonso Partida El Yaki](https://open.spotify.com/artist/5l6N2hoIaP7snXdjnCULvk), [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf) | [Te Esfumarás](https://open.spotify.com/album/3mmcWVrOrsAKfcgzJ95K8v) | 3:21 | 2023-12-13 |  |
+| [Te Esfumarás](https://open.spotify.com/track/1hLQwcyUVVUlIvsGuCoTmI) | [Luis Alfonso Partida El Yaki](https://open.spotify.com/artist/5l6N2hoIaP7snXdjnCULvk), [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf) | [Te Esfumarás](https://open.spotify.com/album/3mmcWVrOrsAKfcgzJ95K8v) | 3:21 | 2023-12-13 | 2024-03-22 |
 | [Tocando Arena](https://open.spotify.com/track/75tNS9948mAaxl7uTAkj4k) | [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf), [Caloncho](https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA) | [Tocando Arena](https://open.spotify.com/album/0yVFiCr3aRdihBIOCPouBo) | 4:12 | 2023-09-15 | 2023-12-14 |
 | [Todo x Nada](https://open.spotify.com/track/2VHgL82Mtbso1VoMikWkS7) | [El Pinche Mara](https://open.spotify.com/artist/3L7OHIT4kfdcDSnnGM0TKN), [C\-Kan](https://open.spotify.com/artist/1QhaqxeqF9sipS2gwbEKpu), [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf), [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW) | [Todo x Nada](https://open.spotify.com/album/7CfBFVgvd2aEXHHYWbgiJe) | 6:14 | 2023-09-15 |  |
 | [Un Ratito](https://open.spotify.com/track/5zxcDBDiyNTB5OEcDyCfbq) | [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf) | [Un Ratito](https://open.spotify.com/album/0NCt9a5gcYV8b0Yp3oJspf) | 3:47 | 2023-09-15 |  |

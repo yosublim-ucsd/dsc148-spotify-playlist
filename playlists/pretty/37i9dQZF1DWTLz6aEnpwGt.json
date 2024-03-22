@@ -1,12 +1,12 @@
 {
   "description": "Bach's most popular piano pieces, performed by the greatest pianists of the last century.",
-  "num_followers": 49405,
+  "num_followers": 49432,
   "original_name": "Bach Piano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjZTQ2M2Q1ZjllMjk3ODQyMTM0ZjIxYzIxOWMyZjc2MGI2OWEwZDI2",
+  "snapshot_id": "MCwwZDVmZjgyNmIyZjI0NDdlMjc4YTlkZjdkMDg5Mzc5MTQzMDQzYWY4",
   "tracks": [
     {
       "added_at": "2022-08-19 10:45:11",
@@ -543,6 +543,26 @@
     {
       "added_at": "2022-08-19 10:45:11",
       "album": {
+        "name": "J.S. Bach: Partitas Nos. 5-6, Bwv 829-830",
+        "url": "https://open.spotify.com/album/5Q1zVK60jfvXQVmUqe8kgH"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Wolfgang R\u00fcbsam",
+          "url": "https://open.spotify.com/artist/5w4SswA2oIU6HUuq0xreQj"
+        }
+      ],
+      "duration_ms": 125760,
+      "name": "Partita No. 6 in E minor, BWV 830 : IV. Air",
+      "url": "https://open.spotify.com/track/1oj8MLlueb0DNDmxoLUX0h"
+    },
+    {
+      "added_at": "2022-08-19 10:45:11",
+      "album": {
         "name": "Bach: Keyboard Concertos & Italian Concerto",
         "url": "https://open.spotify.com/album/3hBLPwnpfzfkNmXvVTknmy"
       },
@@ -583,26 +603,6 @@
       "duration_ms": 679453,
       "name": "Partita No. 4 in D Major, BWV 828: II. Allemande",
       "url": "https://open.spotify.com/track/7yA4tm1x2ZqrxcARTUZjvA"
-    },
-    {
-      "added_at": "2022-08-19 10:45:11",
-      "album": {
-        "name": "J.S. Bach: Partitas Nos. 5-6, Bwv 829-830",
-        "url": "https://open.spotify.com/album/5Q1zVK60jfvXQVmUqe8kgH"
-      },
-      "artists": [
-        {
-          "name": "Johann Sebastian Bach",
-          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
-        },
-        {
-          "name": "Wolfgang R\u00fcbsam",
-          "url": "https://open.spotify.com/artist/5w4SswA2oIU6HUuq0xreQj"
-        }
-      ],
-      "duration_ms": 125760,
-      "name": "Partita No. 6 in E minor, BWV 830 : IV. Air",
-      "url": "https://open.spotify.com/track/1oj8MLlueb0DNDmxoLUX0h"
     },
     {
       "added_at": "2022-08-19 10:45:11",
@@ -859,6 +859,26 @@
     {
       "added_at": "2022-08-19 10:45:11",
       "album": {
+        "name": "Bach, J.S.: The Welltempered Clavier, Book 1, BWV 846-869",
+        "url": "https://open.spotify.com/album/6URISQk2NHG2VRJscCVBVu"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Dina Ugorskaja",
+          "url": "https://open.spotify.com/artist/4tQAfCgY8F9UMSw61sAtcm"
+        }
+      ],
+      "duration_ms": 85599,
+      "name": "The Well-Tempered Clavier / Book 1, BWV 846-869 / Prelude & Fugue in F Major, BWV 856: I. Prelude",
+      "url": "https://open.spotify.com/track/6VmHc8sJbEBqvKdVAdMtM9"
+    },
+    {
+      "added_at": "2022-08-19 10:45:11",
+      "album": {
         "name": "Bach: Keyboard Concertos & Italian Concerto",
         "url": "https://open.spotify.com/album/3hBLPwnpfzfkNmXvVTknmy"
       },
@@ -879,26 +899,6 @@
       "duration_ms": 236120,
       "name": "Concerto No. 4 in A Major, BWV 1055: I. Allegro",
       "url": "https://open.spotify.com/track/2N2x1MOKx4pYBU6GkNh1ks"
-    },
-    {
-      "added_at": "2022-08-19 10:45:11",
-      "album": {
-        "name": "Bach, J.S.: The Welltempered Clavier, Book 1, BWV 846-869",
-        "url": "https://open.spotify.com/album/6URISQk2NHG2VRJscCVBVu"
-      },
-      "artists": [
-        {
-          "name": "Johann Sebastian Bach",
-          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
-        },
-        {
-          "name": "Dina Ugorskaja",
-          "url": "https://open.spotify.com/artist/4tQAfCgY8F9UMSw61sAtcm"
-        }
-      ],
-      "duration_ms": 85599,
-      "name": "The Well-Tempered Clavier / Book 1, BWV 846-869 / Prelude & Fugue in F Major, BWV 856: I. Prelude",
-      "url": "https://open.spotify.com/track/6VmHc8sJbEBqvKdVAdMtM9"
     },
     {
       "added_at": "2022-08-19 10:45:11",

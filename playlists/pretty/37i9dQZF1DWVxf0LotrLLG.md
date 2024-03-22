@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxf0LotrLLG.md) - [plain]
 
 > Descubre los nuevos álbumes del 2024\. Hit shuffle for a mixed listening experience\. Cover: Ovy On The Drums & Myke Towers
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,126 likes - 141 songs - 7 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,131 likes - 141 songs - 7 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -150,4 +150,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxf0LotrLLG.md) - [plain]
 | 140 | [Aquellos Botones](https://open.spotify.com/track/7pK2omxNCdDHqWqjRPJPoN) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [Corridos Bélicos, Vol\. IV](https://open.spotify.com/album/6OOtv7bmTFpSBh1uubgyTb) | 3:04 |
 | 141 | [El Agujero](https://open.spotify.com/track/3nIbByNpERy2YQnBJLwVVl) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf) | [Corridos Bélicos, Vol\. IV](https://open.spotify.com/album/6OOtv7bmTFpSBh1uubgyTb) | 2:23 |
 
-Snapshot ID: `MCw1OGExMGQyZjkxOWUyYTY0NGYxNTBiZmY1MDc0YjE0YWQ1YjI3ZGE2`
+Snapshot ID: `MCw1YzM5OWQxZTVhZTEyZWE4YTk5ZGU2Y2Q3NTllNzc2MWFmNGM2ZjVi`

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "welcome to our \ud835\udd9a\ud835\udd93\ud835\udd8e\ud835\udd9b\ud835\udd8a\ud835\udd97\ud835\udd98\ud835\udd8a ft. Banshee",
+  "description": "welcome to our \ud835\udd9a\ud835\udd93\ud835\udd8e\ud835\udd9b\ud835\udd8a\ud835\udd97\ud835\udd98\ud835\udd8a ft. Scene Queen",
   "name": "misfits 2.0",
   "tracks": [
     {
@@ -34,7 +34,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-22",
       "duration_ms": 184958,
       "name": "100 Miles an Hour",
       "url": "https://open.spotify.com/track/2VzvGinwatgeCYsx8oYCgl"
@@ -1745,6 +1745,24 @@
     },
     {
       "album": {
+        "name": "break!",
+        "url": "https://open.spotify.com/album/2V8H83CvzDHOCiFBs28D7m"
+      },
+      "artists": [
+        {
+          "name": "inuday",
+          "url": "https://open.spotify.com/artist/29OqAIxz15uCoDjXX0a4Gg"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146935,
+      "name": "break!",
+      "url": "https://open.spotify.com/track/7172TPIseIF3lB54hmlo14"
+    },
+    {
+      "album": {
         "name": "Breakhearts",
         "url": "https://open.spotify.com/album/19dbRtvQvOC2bd7YDNT1pH"
       },
@@ -2644,7 +2662,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-22",
       "duration_ms": 137142,
       "name": "Corruption's Last Victim",
       "url": "https://open.spotify.com/track/1KNRM5ur33sm3wsrZc3GDY"
@@ -7434,6 +7452,24 @@
       "duration_ms": 143586,
       "name": "Just for me",
       "url": "https://open.spotify.com/track/67lOnPna7dewLKizrVu31v"
+    },
+    {
+      "album": {
+        "name": "Night Killaz Vol. 1",
+        "url": "https://open.spotify.com/album/0BYXEDtEXZ1fMYXCOb9Pnw"
+      },
+      "artists": [
+        {
+          "name": "Snow Strippers",
+          "url": "https://open.spotify.com/artist/6TsAG8Ve1icEC8ydeHm3C8"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147234,
+      "name": "Just Your Doll",
+      "url": "https://open.spotify.com/track/2VhIrOqGmhSuTKhKG2KCux"
     },
     {
       "album": {
@@ -13870,6 +13906,24 @@
       "duration_ms": 167272,
       "name": "WHAT'S WRONG?",
       "url": "https://open.spotify.com/track/1iU6wiNG5YY7AaL2rfAqZf"
+    },
+    {
+      "album": {
+        "name": "When She Told Me",
+        "url": "https://open.spotify.com/album/6r3emSLfF17MpkJAXzd5Tt"
+      },
+      "artists": [
+        {
+          "name": "Cassyette",
+          "url": "https://open.spotify.com/artist/3X8VK5wNpLQCVEo4sWBH2A"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281800,
+      "name": "When She Told Me",
+      "url": "https://open.spotify.com/track/1uRF3CIh24PY17wR5v5k6Q"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "Floor fillers from the long, illustrious history of the show. Cover: Verka Serduchka",
-  "num_followers": 65513,
+  "num_followers": 65517,
   "original_name": "Eurovision Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0NGU2YmY5N2RjYzY2NGZmOWMyZWM2ZDExNDY5ZTAwYjQyZDc4NjEy",
+  "snapshot_id": "MCw1Njc4M2UzYTI4MzdiZTA2ZTgyYTIwOTUzMmJiMWFhY2ZhMzM0Yjk1",
   "tracks": [
     {
       "added_at": "2023-05-05 17:20:54",
@@ -795,6 +795,22 @@
     {
       "added_at": "2023-05-05 17:20:54",
       "album": {
+        "name": "Dance You Off",
+        "url": "https://open.spotify.com/album/0TDIGmEpqWpZiTCRW6133p"
+      },
+      "artists": [
+        {
+          "name": "Benjamin Ingrosso",
+          "url": "https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5"
+        }
+      ],
+      "duration_ms": 182134,
+      "name": "Dance You Off",
+      "url": "https://open.spotify.com/track/0s3P5PImfDZYWIseR3b39D"
+    },
+    {
+      "added_at": "2023-05-05 17:20:54",
+      "album": {
         "name": "La voix du nord",
         "url": "https://open.spotify.com/album/0h8iIqw8uv8Rif7zPK8iml"
       },
@@ -811,22 +827,6 @@
       "duration_ms": 177013,
       "name": "La Voix",
       "url": "https://open.spotify.com/track/7Kz4f9CgtAfbmPBMX5q2ZV"
-    },
-    {
-      "added_at": "2023-05-05 17:20:54",
-      "album": {
-        "name": "Dance You Off",
-        "url": "https://open.spotify.com/album/0TDIGmEpqWpZiTCRW6133p"
-      },
-      "artists": [
-        {
-          "name": "Benjamin Ingrosso",
-          "url": "https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5"
-        }
-      ],
-      "duration_ms": 182134,
-      "name": "Dance You Off",
-      "url": "https://open.spotify.com/track/0s3P5PImfDZYWIseR3b39D"
     },
     {
       "added_at": "2023-05-05 17:20:54",

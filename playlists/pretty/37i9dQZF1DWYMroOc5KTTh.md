@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYMroOc5KTTh.md) - [plain]
 
 > 100% good vibes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 476,178 likes - 50 songs - 2 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 476,301 likes - 50 songs - 2 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYMroOc5KTTh.md) - [plain]
 | 49 | [How It Feels](https://open.spotify.com/track/2DSQvvaojC1yu5phfWDKuB) | [Barry Can't Swim](https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl) | [How It Feels](https://open.spotify.com/album/320rO6gCDoi1IOWMdthaZp) | 2:18 |
 | 50 | [Aura](https://open.spotify.com/track/4qEEERg5kM60N2vcna11oq) | [SG Lewis](https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG), [J Warner](https://open.spotify.com/artist/2qFIyqgMSxeb3rb9UDnOuo) | [Dusk](https://open.spotify.com/album/2gwNU1WsZEOcCSyKHsXKs5) | 3:49 |
 
-Snapshot ID: `MCxjMmQ3YTdmZmNhZjQwNDU4Nzc1NzE2MzgzMGM1MjQ1OGFjNmU2N2Zl`
+Snapshot ID: `MCxmMmVmMTMxOTJlNmY3MDMxODkyMzYyYmM0M2E5OTlhZmFhNzkwMzEy`

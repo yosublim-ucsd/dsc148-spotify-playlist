@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6aqIZNmXBGU.md) - [plain]
 
 > Get pumped, feel the vibe and get ready for the swell coming in.
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,363 likes - 60 songs - 3 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,361 likes - 60 songs - 3 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6aqIZNmXBGU.md) - [plain]
 | 30 | [My Lady's On Fire](https://open.spotify.com/track/5EbTamOuKNYlEsOUGc51kE) | [Ty Segall](https://open.spotify.com/artist/58XGUNsRNu3cVOIOYk5chx) | [Freedom's Goblin](https://open.spotify.com/album/5BInay8c4KClHpYL94IBed) | 3:52 |
 | 31 | [Stay Away](https://open.spotify.com/track/4l012k8ZcAdVbUvZ4kae5Q) | [Nirvana](https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh) | [Nevermind \(Remastered\)](https://open.spotify.com/album/2guirTSEqLizK7j9i1MTTZ) | 3:31 |
 | 32 | [My Wave](https://open.spotify.com/track/6ox3xc5CNTDQiAINfzP8Zw) | [Soundgarden](https://open.spotify.com/artist/5xUf6j4upBrXZPg6AI4MRK) | [Superunknown \(Deluxe Edition\)](https://open.spotify.com/album/29sTacnS0qA9xri6YS8xLA) | 5:12 |
-| 33 | [Leash \- Remastered](https://open.spotify.com/track/52FlqmFHKaTV0dDMEe0F4F) | [Pearl Jam](https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56) | [Vs.](https://open.spotify.com/album/3BSOiAas8BpJOii3kCPyjV) | 3:08 |
-| 34 | [Veni Vidi Vici](https://open.spotify.com/track/5BQ7Txrx41vbbUvQBuKNuP) | [Black Lips](https://open.spotify.com/artist/35C0NSLogAwImm8HAMqEmG) | [Good Bad Not Evil](https://open.spotify.com/album/7G1IjybnBzcJvYntqY8q7A) | 2:28 |
+| 33 | [Veni Vidi Vici](https://open.spotify.com/track/5BQ7Txrx41vbbUvQBuKNuP) | [Black Lips](https://open.spotify.com/artist/35C0NSLogAwImm8HAMqEmG) | [Good Bad Not Evil](https://open.spotify.com/album/7G1IjybnBzcJvYntqY8q7A) | 2:28 |
+| 34 | [Leash \- Remastered](https://open.spotify.com/track/52FlqmFHKaTV0dDMEe0F4F) | [Pearl Jam](https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56) | [Vs.](https://open.spotify.com/album/3BSOiAas8BpJOii3kCPyjV) | 3:08 |
 | 35 | [Crawling After You](https://open.spotify.com/track/7lHGsPvsdeSD1tRm0faS1o) | [Bass Drum of Death](https://open.spotify.com/artist/5LtAyeDVOVcydj65LvgICY) | [Bass Drum of Death](https://open.spotify.com/album/5CZ0hRrtBQifqQ1GhHuNgH) | 3:49 |
 | 36 | [Remember Me](https://open.spotify.com/track/48HSUrDZQPVeWuVckLb902) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Sundown Syndrome / Remember Me](https://open.spotify.com/album/58rVVNfX3nGIMcaC1Zf2qe) | 4:21 |
 | 37 | [Medication](https://open.spotify.com/track/3HrXk6mPsz9PdLcWEq7btE) | [Queens of the Stone Age](https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn) | [Lullabies To Paralyze](https://open.spotify.com/album/2OMdsA2I4RxrHCyogwKGvF) | 1:54 |
@@ -56,8 +56,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6aqIZNmXBGU.md) - [plain]
 | 46 | [The Dream](https://open.spotify.com/track/1JdweBSkJMLjnNW6LzmXJ8) | [Thee Oh Sees](https://open.spotify.com/artist/3qYfqdVwX0fil71onLpLkh) | [Carrion Crawler / The Dream](https://open.spotify.com/album/7JC1vAUtlOwe8AJ3hLmr91) | 6:52 |
 | 47 | [Badillac](https://open.spotify.com/track/5tQkgG7unCiJxaOFp5yc5O) | [Together Pangea](https://open.spotify.com/artist/29q1axQPERERxUzqufXMqB) | [Badillac](https://open.spotify.com/album/5GgsYoD0QMQyCaJ1MhEtPz) | 2:27 |
 | 48 | [Space Cadet](https://open.spotify.com/track/0GHu2NmkPSq5xqbSSD1tZ0) | [The Murlocs](https://open.spotify.com/artist/0rH93aHDYyJfMAcPB9OKus) | [Loopholes](https://open.spotify.com/album/7u501T7f4RfLPuRQCXEcDe) | 3:10 |
-| 49 | [Blood Under My Belt](https://open.spotify.com/track/5Nhsz5O0DIS5Mh5E3tlBbp) | [The Drums](https://open.spotify.com/artist/0p5axeJsbtTCXBrRVoKjwu) | [Abysmal Thoughts](https://open.spotify.com/album/2dfRhvbhgRTB5wBjI1mihw) | 3:48 |
-| 50 | [Ride A White Swan](https://open.spotify.com/track/4JzqDlNhjxxZ3oQcfXhS6q) | [T\. Rex](https://open.spotify.com/artist/3dBVyJ7JuOMt4GE9607Qin) | [Get It On: The Collection](https://open.spotify.com/album/6EtPzgRUvsv5L0kL0dn4kx) | 2:11 |
+| 49 | [Ride A White Swan](https://open.spotify.com/track/4JzqDlNhjxxZ3oQcfXhS6q) | [T\. Rex](https://open.spotify.com/artist/3dBVyJ7JuOMt4GE9607Qin) | [Get It On: The Collection](https://open.spotify.com/album/6EtPzgRUvsv5L0kL0dn4kx) | 2:11 |
+| 50 | [Blood Under My Belt](https://open.spotify.com/track/5Nhsz5O0DIS5Mh5E3tlBbp) | [The Drums](https://open.spotify.com/artist/0p5axeJsbtTCXBrRVoKjwu) | [Abysmal Thoughts](https://open.spotify.com/album/2dfRhvbhgRTB5wBjI1mihw) | 3:48 |
 | 51 | [Golden Dawn](https://open.spotify.com/track/2Cf7tc4zGyhizmKnfL3vQ0) | [Goat](https://open.spotify.com/artist/6jP9Z7o6WlbYvKUOeO5SbP) | [World Music](https://open.spotify.com/album/6E80uDKNQDGjggp5isU2Mb) | 2:50 |
 | 52 | [Reservoir Dawgs](https://open.spotify.com/track/2Yx0xNVsysG47yR19qvaKw) | [Beach Goons](https://open.spotify.com/artist/7Aw7RMHmISxyQBftcksDZ3) | [Boisad](https://open.spotify.com/album/7JQ5JhmtlKabSCmHSFET3K) | 3:29 |
 | 53 | [Modern Art](https://open.spotify.com/track/3sBNYkUaAiipWECiLdmzJd) | [Black Lips](https://open.spotify.com/artist/35C0NSLogAwImm8HAMqEmG) | [Arabia Mountain](https://open.spotify.com/album/0ShlY0YGl6XAtBS9ltsV9G) | 2:04 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6aqIZNmXBGU.md) - [plain]
 | 59 | [Glazin'](https://open.spotify.com/track/0oFkLSChaQpPTrgnCIHc4g) | [Jacuzzi Boys](https://open.spotify.com/artist/6Jy8DN56YeZwPFUjdPa0QB) | [Glazin'](https://open.spotify.com/album/2oWXOBpzJ3DWwZqD2RII69) | 3:23 |
 | 60 | [Hot Wax](https://open.spotify.com/track/687yagvo8PZFbeY8ctz3vL) | [King Gizzard & The Lizard Wizard](https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn) | [Oddments](https://open.spotify.com/album/480wRHoZ8rOqp34KYGbD1Z) | 3:29 |
 
-Snapshot ID: `MCw2MzE0MTgzMjNiMmVhOTIxYjdmZDI3NDNlMTZkYWY3YzIzYzI0YmJk`
+Snapshot ID: `MCxhNTY0YTk3YjUxZTFmYjNlNjQ1MjUzMWU4MGMxNjk0ODcyNjA2ODg0`

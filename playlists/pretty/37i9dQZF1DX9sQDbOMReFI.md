@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9sQDbOMReFI.md) - [plain]
 
 > The best side! Cover: Too $hort
 
-[Spotify](https://open.spotify.com/user/spotify) - 827,792 likes - 50 songs - 3 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 827,981 likes - 50 songs - 3 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9sQDbOMReFI.md) - [plain]
 | 46 | [La Raza](https://open.spotify.com/track/3zCg6CUmhxHukbUs0nd7ar) | [Kid Frost](https://open.spotify.com/artist/6OxjXk1y4QXXRUJyldFIIG) | [Hispanic Causing Panic](https://open.spotify.com/album/54du51RSgc4enNk2K2E2JX) | 3:29 |
 | 47 | [Hood Took Me Under](https://open.spotify.com/track/6QJOEIPT8g3fjdFxibpy2F) | [Compton's Most Wanted](https://open.spotify.com/artist/0SAPzv3jNXclYYSHOnJyjg) | [Music To Driveby](https://open.spotify.com/album/5CfgVk92KTwjlfB66jAEvS) | 3:39 |
 | 48 | [Summertime In The LBC](https://open.spotify.com/track/7yOze3trRklt4gGPGyjVwN) | [Dove Shack](https://open.spotify.com/artist/7DMSw5KOzlQ7xdub0vrcVF) | [This Is The Shack](https://open.spotify.com/album/3BlvmwV8FoCQdTs36eHTWU) | 3:58 |
-| 49 | [Face the World](https://open.spotify.com/track/0A1owXuxPwqTQPqOJcmUGz) | [Nipsey Hussle](https://open.spotify.com/artist/0EeQBlQJFiAfJeVN2vT9s0) | [Crenshaw](https://open.spotify.com/album/1C5gVWv1k7r0LxsrIL8OL8) | 3:57 |
-| 50 | [Pimp Of The Year](https://open.spotify.com/track/5f8KgDZ8aQKQii0U1qdRbC) | [Dru Down](https://open.spotify.com/artist/0WbeGaye1H1KUdYWzYlTmk) | [Explicit Game](https://open.spotify.com/album/1ROtodYSqQpGTr4Z99Vq6P) | 4:14 |
+| 49 | [Pimp Of The Year](https://open.spotify.com/track/5f8KgDZ8aQKQii0U1qdRbC) | [Dru Down](https://open.spotify.com/artist/0WbeGaye1H1KUdYWzYlTmk) | [Explicit Game](https://open.spotify.com/album/1ROtodYSqQpGTr4Z99Vq6P) | 4:14 |
+| 50 | [Face the World](https://open.spotify.com/track/0A1owXuxPwqTQPqOJcmUGz) | [Nipsey Hussle](https://open.spotify.com/artist/0EeQBlQJFiAfJeVN2vT9s0) | [Crenshaw](https://open.spotify.com/album/1C5gVWv1k7r0LxsrIL8OL8) | 3:57 |
 
-Snapshot ID: `MCw2YTljZWVjZTgzOGM1MmM4Y2UzOTBmN2VjY2ZlY2ViNmQ0Nzc5NTUy`
+Snapshot ID: `MCxkNzUwMzdiY2RlMmUxNTY4Y2RjZWY3MjVmMDRmZGZhZmZlMWY5ZWEz`

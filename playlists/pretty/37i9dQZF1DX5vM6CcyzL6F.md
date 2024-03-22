@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5vM6CcyzL6F.md) - [plain]
 
 > Si la salsa se cruza con la chamba..\. ¡súbele a la bocina!
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,240 likes - 144 songs - 11 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 0 like - 144 songs - 11 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,8 +57,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5vM6CcyzL6F.md) - [plain]
 | 47 | [Me Liberé](https://open.spotify.com/track/1IcnHHfeAkdc88LybFWwb9) | [El Gran Combo De Puerto Rico](https://open.spotify.com/artist/6nnspeopmJAG07xOxHmqTu) | [Nuevo Milenio \- El Mismo Sabor](https://open.spotify.com/album/4VjDEGwmMTP7hOn2Afmbkn) | 4:23 |
 | 48 | [Gracias Amor](https://open.spotify.com/track/09zJAF4Z2v55rU9XXZfA9N) | [Matecana Orquesta](https://open.spotify.com/artist/0ekJN54dVshW0hk3yWRiyl) | [Que Bueno](https://open.spotify.com/album/03402zoYuwCwfeQ2MLg6St) | 4:49 |
 | 49 | [Hasta Aquí Te Fui Fiel](https://open.spotify.com/track/7zridhiD9txjjYAcDoC0qY) | [Eddie Santiago](https://open.spotify.com/artist/5Wg6XnPTp0xXxFCjywwR9I) | [30 Exitos Insuperables](https://open.spotify.com/album/7DXKWP4a12stMxz3idZZl2) | 4:24 |
-| 50 | [Casi Te Envidio](https://open.spotify.com/track/3lfWaQLyg71Uar9gAgFVWV) | [Andy Montañez](https://open.spotify.com/artist/6RMWFexOHVj5ctezneQH5v) | [Oro Salsero](https://open.spotify.com/album/4ihlEk0yuvUpKGSX8A9ITz) | 5:21 |
-| 51 | [Porque Te Amo](https://open.spotify.com/track/0DrNa6Ol75djsKlw67TABQ) | [Nino Segarra](https://open.spotify.com/artist/7titF03HCJwxZeJ98nMWbK) | [Exitos Y Mas Exitos](https://open.spotify.com/album/0ZiO84WuLFyD21W4lq62LO) | 5:06 |
+| 50 | [Porque Te Amo](https://open.spotify.com/track/0DrNa6Ol75djsKlw67TABQ) | [Nino Segarra](https://open.spotify.com/artist/7titF03HCJwxZeJ98nMWbK) | [Exitos Y Mas Exitos](https://open.spotify.com/album/0ZiO84WuLFyD21W4lq62LO) | 5:06 |
+| 51 | [Casi Te Envidio](https://open.spotify.com/track/3lfWaQLyg71Uar9gAgFVWV) | [Andy Montañez](https://open.spotify.com/artist/6RMWFexOHVj5ctezneQH5v) | [Oro Salsero](https://open.spotify.com/album/4ihlEk0yuvUpKGSX8A9ITz) | 5:21 |
 | 52 | [Un Sueño Y Nada Mas](https://open.spotify.com/track/2bVisOYbfWI29XxWEdTKSX) | [Grupo Polo Montañes](https://open.spotify.com/artist/3qI8efQwFJlPuiOcBIdbWC) | [Un Sueño Y Nada Más](https://open.spotify.com/album/0Be08NMtq8dwdVqLCHJoZ0) | 4:38 |
 | 53 | [He Tratado](https://open.spotify.com/track/3Aw66bt9BL2sjqxhFRpyDy) | [Víctor Manuelle](https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2) | [Victor Manuelle \(3 CD Box Set\)](https://open.spotify.com/album/4BZSWWLwSlgBUQZqAvqLYL) | 5:03 |
 | 54 | [En Barranquilla Me Quedo](https://open.spotify.com/track/3WXfQDsASfXrSojk9WB3aR) | [Joe Arroyo](https://open.spotify.com/artist/7BFnoFhJjLWcsqmN3Hizqg), [La Verdad](https://open.spotify.com/artist/54h3j85gGrqCsfK8D0RuUM) | [32 Cañonazos](https://open.spotify.com/album/6ubTK1qVLWQSblspjFxtZn) | 5:12 |
@@ -94,8 +94,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5vM6CcyzL6F.md) - [plain]
 | 84 | [Extrañándote](https://open.spotify.com/track/5U4v7JyApEbijyfwVQKYn4) | [Michel el Buenón](https://open.spotify.com/artist/0XpNiF9v1QPnRWKKGoffQf) | [Arriba Siempre \- De Pura Sangre](https://open.spotify.com/album/1UhIVjp2K6lDVbzpBKs1zp) | 5:05 |
 | 85 | [Hechizo](https://open.spotify.com/track/6SDFIy0gtc8tLjVGWIJkxq) | [Danny Daniel](https://open.spotify.com/artist/35T96HTcA2Htb7z45hXfQB), [Prix 06](https://open.spotify.com/artist/6im4HqwEQxtiO57W6M8oDX) | [Hechizando](https://open.spotify.com/album/5aYFFREW8bBjbh0yV886bq) | 4:27 |
 | 86 | [Conteo Regresivo \- Salsa Version](https://open.spotify.com/track/7uNNpyYnWFeUPO3h5jIgIc) | [Gilberto Santa Rosa](https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1) | [El Caballero De La Salsa \- La Historia Tropical](https://open.spotify.com/album/4AKdvM4gN7a6EWtBywDVcA) | 4:26 |
-| 87 | [Arranca En Fa](https://open.spotify.com/track/5ChULaTmIYylzL3lrrzuhf) | [Sonora Carruseles](https://open.spotify.com/artist/34qU0b0yRjEzRJtknerEDS) | [14 Cañonazos Bailables 2001](https://open.spotify.com/album/6qv4XGcL5YzbSpAgmzYSfS) | 3:36 |
-| 88 | [Tendria Que Llorar Por Ti](https://open.spotify.com/track/1KvvRNWBKRcWE6aSxroIb0) | [Moncho Santana](https://open.spotify.com/artist/2JqEiy0aIziuAupest70fk) | [From Cali with Love](https://open.spotify.com/album/6l2H02jQ5TEVk0QTI90I4s) | 5:01 |
+| 87 | [Tendria Que Llorar Por Ti](https://open.spotify.com/track/1KvvRNWBKRcWE6aSxroIb0) | [Moncho Santana](https://open.spotify.com/artist/2JqEiy0aIziuAupest70fk) | [From Cali with Love](https://open.spotify.com/album/6l2H02jQ5TEVk0QTI90I4s) | 5:01 |
+| 88 | [Arranca En Fa](https://open.spotify.com/track/5ChULaTmIYylzL3lrrzuhf) | [Sonora Carruseles](https://open.spotify.com/artist/34qU0b0yRjEzRJtknerEDS) | [14 Cañonazos Bailables 2001](https://open.spotify.com/album/6qv4XGcL5YzbSpAgmzYSfS) | 3:36 |
 | 89 | [Isi](https://open.spotify.com/track/4lWe0aVc9STQ4bkrGkVGTQ) | [Gustavo Rodriguez](https://open.spotify.com/artist/5Gsv3vQ8J8tpLcx4vw2Hv2) | [Septimo Sentido](https://open.spotify.com/album/5GnJWm3R6gHT25NuTq1VdQ) | 5:12 |
 | 90 | [Nadie Quien Te Quiera](https://open.spotify.com/track/7BkgekXJ6bUv3enpOpwmnR) | [Antonio Cartagena](https://open.spotify.com/artist/3ytvFBT8M647H3cNQdCjhF) | [Hermanos Cartagena](https://open.spotify.com/album/0UfbpgoRUfXRSJKTnrOFCE) | 4:01 |
 | 91 | [Amor De Papel](https://open.spotify.com/track/2ccabU9T3oFwcM0NnBXxpf) | [Tito Gomez](https://open.spotify.com/artist/4zq1okwemKSJbZFDQrp7f2) | [Recogiendo Frutos](https://open.spotify.com/album/5GzoEi3bJsLWwLvEpK4fxm) | 4:56 |
@@ -121,8 +121,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5vM6CcyzL6F.md) - [plain]
 | 111 | [Te Amo Te Extraño](https://open.spotify.com/track/7zf1C9xuKpqCvf4jaY5zsE) | [Guayacán Orquesta](https://open.spotify.com/artist/2pZ81eCkqxemIjqqfE1fhE) | [Su Historia Musical](https://open.spotify.com/album/5qrAkH6l0zQsGfFcUWbqwR) | 5:34 |
 | 112 | [Las Caleñas Son Como las Flores](https://open.spotify.com/track/1gntkHoZ8rdpeeVxLbQ6oF) | [The Latin Brothers](https://open.spotify.com/artist/2AiZXMqpVlCDnz3trZbWaK), [Piper Pimienta Diaz](https://open.spotify.com/artist/35HTycyWifnoCzK2EQ3KUX) | [Historia Músical \- 30 Éxitos](https://open.spotify.com/album/1xNSKvjq7Te0taB7oyocdj) | 3:57 |
 | 113 | [Te Va A Doler](https://open.spotify.com/track/60bDnvkRDXvwJuy08YiagT) | [Maelo Ruiz](https://open.spotify.com/artist/3HyrDGPLI0c9Rd8luuO0zw) | [Inolvidables](https://open.spotify.com/album/0qEnpeVocB6EWGdyD82AQB) | 4:52 |
-| 114 | [Mia](https://open.spotify.com/track/7rHFlEWOFJYn60AybSRj02) | [Eddie Santiago](https://open.spotify.com/artist/5Wg6XnPTp0xXxFCjywwR9I) | [Al Son Que Me Toquen, Vol\. 1](https://open.spotify.com/album/46dVNivZJ0eDzZf5Ciqc4i) | 4:43 |
-| 115 | [Deseándote](https://open.spotify.com/track/7nkQJR8LZ49ykOzlUoh57d) | [Frankie Ruiz](https://open.spotify.com/artist/4dLvccxeQIM5u80Ri0u9OV) | [Mix Salsa](https://open.spotify.com/album/7DmpLSzBnceiuP3bRLvQV3) | 4:41 |
+| 114 | [Deseándote](https://open.spotify.com/track/7nkQJR8LZ49ykOzlUoh57d) | [Frankie Ruiz](https://open.spotify.com/artist/4dLvccxeQIM5u80Ri0u9OV) | [Mix Salsa](https://open.spotify.com/album/7DmpLSzBnceiuP3bRLvQV3) | 4:41 |
+| 115 | [Mia](https://open.spotify.com/track/7rHFlEWOFJYn60AybSRj02) | [Eddie Santiago](https://open.spotify.com/artist/5Wg6XnPTp0xXxFCjywwR9I) | [Al Son Que Me Toquen, Vol\. 1](https://open.spotify.com/album/46dVNivZJ0eDzZf5Ciqc4i) | 4:43 |
 | 116 | [Cuenta Conmigo](https://open.spotify.com/track/7o47d8KqRqxbL7NloJvjwd) | [Jerry Rivera](https://open.spotify.com/artist/7wOZy3KdFVVINgNFFxkxwO) | [Amores Como El Nuestro...Los Exitos](https://open.spotify.com/album/3AOCGCilv8dBhnxWqraZA9) | 3:50 |
 | 117 | [Tu Cariñito](https://open.spotify.com/track/7cl1jhPW0kwvvrI0YwOkEC) | [Luisito Ayala Y La Puerto Rican Power](https://open.spotify.com/artist/2UoLlLFDkqewHH7EzaZcl7) | [Hot Latin Tracks](https://open.spotify.com/album/1EjKhZdCc1bZNeyza5tlV5) | 4:11 |
 | 118 | [Ven Devórame Otra Vez](https://open.spotify.com/track/7yM4UpoZQfOHcBSiUNSoIt) | [Lalo Rodriguez](https://open.spotify.com/artist/5LmwELEKyxDFxrbZzR8K4U) | [Rumba y Salsa](https://open.spotify.com/album/78WM88T2XCWUKhmeyqIOdF) | 5:14 |
@@ -145,12 +145,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5vM6CcyzL6F.md) - [plain]
 | 135 | [El Gran Varon](https://open.spotify.com/track/3TyMFBLPobtMaH8oeY0sMP) | [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW) | [Legal Alien \- Top Secrets](https://open.spotify.com/album/3lrV32bX7EIcNKn4OHXrkQ) | 6:54 |
 | 136 | [Ahora Entregate](https://open.spotify.com/track/1PX148jfoix6o4reLZbplc) | [Adolescent's Orquesta](https://open.spotify.com/artist/70nxnxEqDQIEWneRjg2Q4O) | [Ahora Entregate](https://open.spotify.com/album/4E6qUXYKMpabevZvHDYYxS) | 4:30 |
 | 137 | [Tú Me Haces Falta](https://open.spotify.com/track/7zYbsxjRlZgJO2H6HJzgvC) | [Eddie Santiago](https://open.spotify.com/artist/5Wg6XnPTp0xXxFCjywwR9I) | [Salsa Buenaza](https://open.spotify.com/album/0JHeYGXv7slRTTRcBr6jl6) | 4:39 |
-| 138 | [Será Qué SÍ](https://open.spotify.com/track/7G5X7EyoPEEfH3QGnVNhaB) | [Maelo Ruiz](https://open.spotify.com/artist/3HyrDGPLI0c9Rd8luuO0zw) | [Maelo Ruiz… The Romantic Salsa Idol](https://open.spotify.com/album/4hMO3pqX1IXsVKrX1e60W6) | 4:35 |
-| 139 | [Me Fallaste](https://open.spotify.com/track/6irnHSTORkdgw13lwscY9d) | [Eddie Santiago](https://open.spotify.com/artist/5Wg6XnPTp0xXxFCjywwR9I) | [Serie 32 : Eddie Santiago](https://open.spotify.com/album/0bmXT2b5Rl5mddzk182Aoj) | 5:04 |
+| 138 | [Me Fallaste](https://open.spotify.com/track/6irnHSTORkdgw13lwscY9d) | [Eddie Santiago](https://open.spotify.com/artist/5Wg6XnPTp0xXxFCjywwR9I) | [Serie 32 : Eddie Santiago](https://open.spotify.com/album/0bmXT2b5Rl5mddzk182Aoj) | 5:04 |
+| 139 | [Será Qué SÍ](https://open.spotify.com/track/7G5X7EyoPEEfH3QGnVNhaB) | [Maelo Ruiz](https://open.spotify.com/artist/3HyrDGPLI0c9Rd8luuO0zw) | [Maelo Ruiz… The Romantic Salsa Idol](https://open.spotify.com/album/4hMO3pqX1IXsVKrX1e60W6) | 4:35 |
 | 140 | [Cara de Niño](https://open.spotify.com/track/7tYwvcNB0s9JOCstnqwWBt) | [Jerry Rivera](https://open.spotify.com/artist/7wOZy3KdFVVINgNFFxkxwO) | [Sólo para Mujeres](https://open.spotify.com/album/60riLMQ2svEvrzZz0rDhhG) | 4:55 |
 | 141 | [Por Favor Señora](https://open.spotify.com/track/7qukMXPY4zpdDLLHi5wLA7) | [Maelo Ruiz](https://open.spotify.com/artist/3HyrDGPLI0c9Rd8luuO0zw) | [Inolvidables](https://open.spotify.com/album/0qEnpeVocB6EWGdyD82AQB) | 4:48 |
 | 142 | [Tú Me Quemas](https://open.spotify.com/track/7yf12rCbhtMiMxOk4vgjsD) | [Eddie Santiago](https://open.spotify.com/artist/5Wg6XnPTp0xXxFCjywwR9I) | [Serie 32 : Eddie Santiago](https://open.spotify.com/album/0bmXT2b5Rl5mddzk182Aoj) | 5:01 |
 | 143 | [Este Amor](https://open.spotify.com/track/6R2wZgxaYxCzOezBqJbi1g) | [Maelo Ruiz](https://open.spotify.com/artist/3HyrDGPLI0c9Rd8luuO0zw) | [Inolvidables](https://open.spotify.com/album/0qEnpeVocB6EWGdyD82AQB) | 4:40 |
 | 144 | [Borinquen](https://open.spotify.com/track/3LT2EX3RJEJzq1fBSqu67p) | [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW), [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP) | [La Esencia De La Fania](https://open.spotify.com/album/2Nd7MbIshLGbKOy4RKApeo) | 3:15 |
 
-Snapshot ID: `MCw5MzRmZGY2ODYwODEyMTAwMmZjNmY0ZTM1NGYxMGFiOGRkZTJhMzFj`
+Snapshot ID: `MCw3MDA3YmQ0MDRkMjFmNzAzYjUwYTg3ODJmYWZlMmQ4ZjVhOTFhOGE4`

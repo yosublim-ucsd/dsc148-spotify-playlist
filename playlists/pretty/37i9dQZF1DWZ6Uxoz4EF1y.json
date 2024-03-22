@@ -1,12 +1,12 @@
 {
   "description": "Tuyo es el reino, Tuyo el poder y la gloria por siempre, Se\u00f1or.",
-  "num_followers": 176983,
+  "num_followers": 177099,
   "original_name": "Jes\u00fas Vive",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkMmFlYjA2OGRmOTA2MTNmMDVmN2FmYTY5NDhkMjdmYjk1NzM0YTJl",
+  "snapshot_id": "MCwzNzg2YmZlNTUxNTg0NmUwZDhhMDc0YWJjZTliNmEzYzE0ZGM5OGRm",
   "tracks": [
     {
       "added_at": "2024-03-20 11:30:32",
@@ -363,22 +363,6 @@
     {
       "added_at": "2024-03-20 11:30:32",
       "album": {
-        "name": "Mu\u00e9strame Tu Gloria",
-        "url": "https://open.spotify.com/album/6hpV3LugRGS52YfivSY5aF"
-      },
-      "artists": [
-        {
-          "name": "Danilo Montero",
-          "url": "https://open.spotify.com/artist/2a48vLoCcVkOMcCSqXreOF"
-        }
-      ],
-      "duration_ms": 403266,
-      "name": "Abre Mis Ojos",
-      "url": "https://open.spotify.com/track/6QN2LDi1HULluoF0cETe6H"
-    },
-    {
-      "added_at": "2024-03-20 11:30:32",
-      "album": {
         "name": "Tu Reino Est\u00e1 Aqu\u00ed",
         "url": "https://open.spotify.com/album/2AbsDFYbb2NYeJcwmypX5m"
       },
@@ -403,6 +387,22 @@
       "duration_ms": 715466,
       "name": "Quiero Conocer a Jes\u00fas (Yeshua) / Nuestro Dios",
       "url": "https://open.spotify.com/track/2txTXCdetbJcy8REtnZdRq"
+    },
+    {
+      "added_at": "2024-03-20 11:30:32",
+      "album": {
+        "name": "Mu\u00e9strame Tu Gloria",
+        "url": "https://open.spotify.com/album/6hpV3LugRGS52YfivSY5aF"
+      },
+      "artists": [
+        {
+          "name": "Danilo Montero",
+          "url": "https://open.spotify.com/artist/2a48vLoCcVkOMcCSqXreOF"
+        }
+      ],
+      "duration_ms": 403266,
+      "name": "Abre Mis Ojos",
+      "url": "https://open.spotify.com/track/6QN2LDi1HULluoF0cETe6H"
     },
     {
       "added_at": "2024-03-20 11:30:32",
@@ -491,22 +491,18 @@
     {
       "added_at": "2024-03-20 11:30:32",
       "album": {
-        "name": "Uniendo Cielo Y Tierra",
-        "url": "https://open.spotify.com/album/7BpTjCxgEwUfSNloEOuU7W"
+        "name": "La Compilaci\u00f3n",
+        "url": "https://open.spotify.com/album/4OY1bctzMV7vclglgvN9Oe"
       },
       "artists": [
         {
-          "name": "Marcos Brunet",
-          "url": "https://open.spotify.com/artist/7cLoxFihGCVL3s1K3xHK4I"
-        },
-        {
-          "name": "Toma Tu Lugar",
-          "url": "https://open.spotify.com/artist/7xJZNfI5Yks87tn3ebHy9h"
+          "name": "Lilly Goodman",
+          "url": "https://open.spotify.com/artist/6vetaGijEBK3wfhtCUWRBS"
         }
       ],
-      "duration_ms": 288813,
-      "name": "Beso Tus Pies",
-      "url": "https://open.spotify.com/track/4bEUNyytrIT5dYbeVBsZ5z"
+      "duration_ms": 245893,
+      "name": "Iglesia",
+      "url": "https://open.spotify.com/track/4Po4C0odXzBWN3z5F9qiBa"
     },
     {
       "added_at": "2024-03-20 11:30:32",
@@ -563,18 +559,22 @@
     {
       "added_at": "2024-03-20 11:30:32",
       "album": {
-        "name": "La Compilaci\u00f3n",
-        "url": "https://open.spotify.com/album/4OY1bctzMV7vclglgvN9Oe"
+        "name": "Uniendo Cielo Y Tierra",
+        "url": "https://open.spotify.com/album/7BpTjCxgEwUfSNloEOuU7W"
       },
       "artists": [
         {
-          "name": "Lilly Goodman",
-          "url": "https://open.spotify.com/artist/6vetaGijEBK3wfhtCUWRBS"
+          "name": "Marcos Brunet",
+          "url": "https://open.spotify.com/artist/7cLoxFihGCVL3s1K3xHK4I"
+        },
+        {
+          "name": "Toma Tu Lugar",
+          "url": "https://open.spotify.com/artist/7xJZNfI5Yks87tn3ebHy9h"
         }
       ],
-      "duration_ms": 245893,
-      "name": "Iglesia",
-      "url": "https://open.spotify.com/track/4Po4C0odXzBWN3z5F9qiBa"
+      "duration_ms": 288813,
+      "name": "Beso Tus Pies",
+      "url": "https://open.spotify.com/track/4bEUNyytrIT5dYbeVBsZ5z"
     },
     {
       "added_at": "2024-03-20 11:30:32",
@@ -795,6 +795,22 @@
     {
       "added_at": "2024-03-20 11:30:32",
       "album": {
+        "name": "S\u00f3lo Tu Gracia",
+        "url": "https://open.spotify.com/album/1IGIRAeR2yPlNXCtJ7TqDi"
+      },
+      "artists": [
+        {
+          "name": "Daniel Calveti",
+          "url": "https://open.spotify.com/artist/4lZXpKLxWjMDFeNmiU4H1h"
+        }
+      ],
+      "duration_ms": 282106,
+      "name": "Jes\u00fas, Has Mi Car\u00e1cter",
+      "url": "https://open.spotify.com/track/3cqQX5zJVW1wv6vzhz9qzP"
+    },
+    {
+      "added_at": "2024-03-20 11:30:32",
+      "album": {
         "name": "M\u00fasica en el Desierto",
         "url": "https://open.spotify.com/album/0XJjgo6rIW6kp9O8qLnord"
       },
@@ -811,22 +827,6 @@
       "duration_ms": 271419,
       "name": "Eterna luz",
       "url": "https://open.spotify.com/track/5aJL7N6W2oXcZsMB9njrYH"
-    },
-    {
-      "added_at": "2024-03-20 11:30:32",
-      "album": {
-        "name": "S\u00f3lo Tu Gracia",
-        "url": "https://open.spotify.com/album/1IGIRAeR2yPlNXCtJ7TqDi"
-      },
-      "artists": [
-        {
-          "name": "Daniel Calveti",
-          "url": "https://open.spotify.com/artist/4lZXpKLxWjMDFeNmiU4H1h"
-        }
-      ],
-      "duration_ms": 282106,
-      "name": "Jes\u00fas, Has Mi Car\u00e1cter",
-      "url": "https://open.spotify.com/track/3cqQX5zJVW1wv6vzhz9qzP"
     },
     {
       "added_at": "2024-03-20 11:30:32",
@@ -975,22 +975,6 @@
     {
       "added_at": "2024-03-20 11:30:32",
       "album": {
-        "name": "Enciende una Luz",
-        "url": "https://open.spotify.com/album/71Tj4cXTZCGpq3O43iFkEO"
-      },
-      "artists": [
-        {
-          "name": "Marcos Witt",
-          "url": "https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2"
-        }
-      ],
-      "duration_ms": 410827,
-      "name": "Jes\u00fas Eres Mi Buen Pastor",
-      "url": "https://open.spotify.com/track/11bb5n9uOzwP1VX6u1iPel"
-    },
-    {
-      "added_at": "2024-03-20 11:30:32",
-      "album": {
         "name": "Mi Refugio",
         "url": "https://open.spotify.com/album/1tQiDUKWTbToF8mpA0GZNm"
       },
@@ -1007,6 +991,22 @@
     {
       "added_at": "2024-03-20 11:30:32",
       "album": {
+        "name": "Enciende una Luz",
+        "url": "https://open.spotify.com/album/71Tj4cXTZCGpq3O43iFkEO"
+      },
+      "artists": [
+        {
+          "name": "Marcos Witt",
+          "url": "https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2"
+        }
+      ],
+      "duration_ms": 410827,
+      "name": "Jes\u00fas Eres Mi Buen Pastor",
+      "url": "https://open.spotify.com/track/11bb5n9uOzwP1VX6u1iPel"
+    },
+    {
+      "added_at": "2024-03-20 11:30:32",
+      "album": {
         "name": "Cuan Gran Amor",
         "url": "https://open.spotify.com/album/1lhXRDxeKylK9Ljidc9dCN"
       },
@@ -1019,26 +1019,6 @@
       "duration_ms": 528800,
       "name": "Digno Y Santo",
       "url": "https://open.spotify.com/track/1vsA02g4fNXwTAy9BooYbX"
-    },
-    {
-      "added_at": "2024-03-20 11:30:32",
-      "album": {
-        "name": "Bethel Music en Espa\u00f1ol",
-        "url": "https://open.spotify.com/album/1VCnNZHwArLVhTZZrqYlk1"
-      },
-      "artists": [
-        {
-          "name": "Bethel Music",
-          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
-        },
-        {
-          "name": "Bethany Wohrle",
-          "url": "https://open.spotify.com/artist/26opZlzcsx1NhaN5QELG4e"
-        }
-      ],
-      "duration_ms": 291986,
-      "name": "Mi Esperanza Est\u00e1 en Jes\u00fas (Live)",
-      "url": "https://open.spotify.com/track/38e9daXegEIuNlP7lMII4Z"
     },
     {
       "added_at": "2024-03-20 11:30:32",
@@ -1063,6 +1043,26 @@
       "duration_ms": 333893,
       "name": "Tu Reino Est\u00e1 Aqu\u00ed",
       "url": "https://open.spotify.com/track/26oaPbdYRvDFEddhi6ApAu"
+    },
+    {
+      "added_at": "2024-03-20 11:30:32",
+      "album": {
+        "name": "Bethel Music en Espa\u00f1ol",
+        "url": "https://open.spotify.com/album/1VCnNZHwArLVhTZZrqYlk1"
+      },
+      "artists": [
+        {
+          "name": "Bethel Music",
+          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
+        },
+        {
+          "name": "Bethany Wohrle",
+          "url": "https://open.spotify.com/artist/26opZlzcsx1NhaN5QELG4e"
+        }
+      ],
+      "duration_ms": 291986,
+      "name": "Mi Esperanza Est\u00e1 en Jes\u00fas (Live)",
+      "url": "https://open.spotify.com/track/38e9daXegEIuNlP7lMII4Z"
     },
     {
       "added_at": "2024-03-20 11:30:32",
@@ -1131,6 +1131,22 @@
     {
       "added_at": "2024-03-20 11:30:32",
       "album": {
+        "name": "Santo R\u00edo de Dios",
+        "url": "https://open.spotify.com/album/197HCxd1moPA2aHnlfPTPM"
+      },
+      "artists": [
+        {
+          "name": "Marcos Witt",
+          "url": "https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2"
+        }
+      ],
+      "duration_ms": 301958,
+      "name": "Santo R\u00edo de Dios",
+      "url": "https://open.spotify.com/track/0SzKBtMu75trcKWGXBsGb6"
+    },
+    {
+      "added_at": "2024-03-20 11:30:32",
+      "album": {
         "name": "M\u00e1s De Ti (En Vivo)",
         "url": "https://open.spotify.com/album/5m3q4lnbfxqOaMRMa6Rv0v"
       },
@@ -1147,22 +1163,6 @@
       "duration_ms": 189075,
       "name": "M\u00e1s De Ti - En Vivo",
       "url": "https://open.spotify.com/track/4uwio9wbH4WLzB1UvFMnks"
-    },
-    {
-      "added_at": "2024-03-20 11:30:32",
-      "album": {
-        "name": "Santo R\u00edo de Dios",
-        "url": "https://open.spotify.com/album/197HCxd1moPA2aHnlfPTPM"
-      },
-      "artists": [
-        {
-          "name": "Marcos Witt",
-          "url": "https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2"
-        }
-      ],
-      "duration_ms": 301958,
-      "name": "Santo R\u00edo de Dios",
-      "url": "https://open.spotify.com/track/0SzKBtMu75trcKWGXBsGb6"
     },
     {
       "added_at": "2024-03-20 11:30:32",
@@ -1187,22 +1187,6 @@
     {
       "added_at": "2024-03-20 11:30:32",
       "album": {
-        "name": "Mirar\u00e9 al Rey",
-        "url": "https://open.spotify.com/album/027pf1seCyz8BPhya74n2L"
-      },
-      "artists": [
-        {
-          "name": "Adoraci\u00f3n La IBI",
-          "url": "https://open.spotify.com/artist/6qValgleME8pv861DLzupQ"
-        }
-      ],
-      "duration_ms": 287970,
-      "name": "Solo en Cristo",
-      "url": "https://open.spotify.com/track/5K7DKEJtKQJJgXbC8OfLNd"
-    },
-    {
-      "added_at": "2024-03-20 11:30:32",
-      "album": {
         "name": "No Hay Otro Dios",
         "url": "https://open.spotify.com/album/1WidkdQtLb7DpF8e8HXeXm"
       },
@@ -1215,6 +1199,22 @@
       "duration_ms": 391316,
       "name": "No Hay Otro Dios",
       "url": "https://open.spotify.com/track/2kmRF1rM0ZQfZZ4RmkVIs4"
+    },
+    {
+      "added_at": "2024-03-20 11:30:32",
+      "album": {
+        "name": "Mirar\u00e9 al Rey",
+        "url": "https://open.spotify.com/album/027pf1seCyz8BPhya74n2L"
+      },
+      "artists": [
+        {
+          "name": "Adoraci\u00f3n La IBI",
+          "url": "https://open.spotify.com/artist/6qValgleME8pv861DLzupQ"
+        }
+      ],
+      "duration_ms": 287970,
+      "name": "Solo en Cristo",
+      "url": "https://open.spotify.com/track/5K7DKEJtKQJJgXbC8OfLNd"
     },
     {
       "added_at": "2024-03-20 11:30:32",
@@ -1691,22 +1691,6 @@
     {
       "added_at": "2024-03-20 11:30:32",
       "album": {
-        "name": "El Justo Vivir\u00e1 Por Fe",
-        "url": "https://open.spotify.com/album/434bFVfYutpT3PknlXQudX"
-      },
-      "artists": [
-        {
-          "name": "Adoraci\u00f3n La IBI",
-          "url": "https://open.spotify.com/artist/6qValgleME8pv861DLzupQ"
-        }
-      ],
-      "duration_ms": 309400,
-      "name": "El Justo Vivir\u00e1 Por Fe",
-      "url": "https://open.spotify.com/track/3sLzXACmqioXU47UjfL5c2"
-    },
-    {
-      "added_at": "2024-03-20 11:30:32",
-      "album": {
         "name": "No Hay Otro Dios",
         "url": "https://open.spotify.com/album/1WidkdQtLb7DpF8e8HXeXm"
       },
@@ -1719,6 +1703,22 @@
       "duration_ms": 320200,
       "name": "Nos Levantaremos",
       "url": "https://open.spotify.com/track/2bWTrJ83AEekPcsBQb8X2x"
+    },
+    {
+      "added_at": "2024-03-20 11:30:32",
+      "album": {
+        "name": "El Justo Vivir\u00e1 Por Fe",
+        "url": "https://open.spotify.com/album/434bFVfYutpT3PknlXQudX"
+      },
+      "artists": [
+        {
+          "name": "Adoraci\u00f3n La IBI",
+          "url": "https://open.spotify.com/artist/6qValgleME8pv861DLzupQ"
+        }
+      ],
+      "duration_ms": 309400,
+      "name": "El Justo Vivir\u00e1 Por Fe",
+      "url": "https://open.spotify.com/track/3sLzXACmqioXU47UjfL5c2"
     },
     {
       "added_at": "2024-03-20 11:30:32",

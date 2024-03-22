@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4nvAQ5.md) - [plain]
 
 > This is J Boog\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,744 likes - 50 songs - 3 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,749 likes - 50 songs - 3 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,9 +15,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4nvAQ5.md) - [plain]
 | 5 | [Sunshine Girl](https://open.spotify.com/track/4RjHalDdUreXDJSJLo44lK) | [J Boog](https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4), [Peetah Morgan](https://open.spotify.com/artist/6TP4fQvAG9uXcPgHEpPriw) | [Backyard Boogie](https://open.spotify.com/album/7oyBRhMZuVDSdDk7uQOGzI) | 3:37 |
 | 6 | [Sounds of Summer \(with Slightly Stoopid & J Boog\) \- Remix](https://open.spotify.com/track/01RCm15CxS9M38rDtlJA0E) | [The Movement](https://open.spotify.com/artist/1qwdTaVUdjYJLLoxtFmsqr), [Slightly Stoopid](https://open.spotify.com/artist/6MxlVTY6PmY8Nyn16fvxtb), [J Boog](https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4), [Johnny Cosmic](https://open.spotify.com/artist/2vtlgbA3ueA1OowfBPHyLL), [Noah Cronin](https://open.spotify.com/artist/7zVlPgqcPPfRMwK5cBulaH) | [Sounds of Summer \(with Slightly Stoopid & J Boog\) \[Remix\]](https://open.spotify.com/album/0N5fhkX7dxDh0cYpPavO6y) | 4:14 |
 | 7 | [Ganja Farmer](https://open.spotify.com/track/1VPnps7LuU2ryN2fQrmsfA) | [J Boog](https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4) | [Hear Me Roar](https://open.spotify.com/album/4sJryrOLwDCYOQo5lJhrGo) | 3:51 |
-| 8 | [Easier](https://open.spotify.com/track/2pmhCyJqNiF2IEE0ATRNaM) | [SOJA](https://open.spotify.com/artist/2vaWvC8suCFkRXejDOK7EE), [Anuhea](https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk), [J Boog](https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4) | [Amid the Noise and Haste](https://open.spotify.com/album/3PPShSOyJlk6lG6BheUqCe) | 3:15 |
+| 8 | [Catching Feelings \(feat\. J Boog\) \- Bimwala Remix](https://open.spotify.com/track/2mjlROYtPqKp9mWANqGtCf) | [Inigo Pascual](https://open.spotify.com/artist/0XOSmu9Qn1agQULUVe0dAK), [Moophs](https://open.spotify.com/artist/3HaL9ONkedXrAybTHYA3w1), [J Boog](https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4), [Bimwala](https://open.spotify.com/artist/6pXPBMM6APBn2Ffnh9M55C) | [Catching Feelings \(feat\. J Boog\) \[Bimwala Remix\]](https://open.spotify.com/album/6fkFfPMRuu19AOV1OjNBvJ) | 3:20 |
 | 9 | [Mystery](https://open.spotify.com/track/696bLELRbQE6K4l3rJODMj) | [J Boog](https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4) | [Backyard Boogie](https://open.spotify.com/album/7oyBRhMZuVDSdDk7uQOGzI) | 3:22 |
-| 10 | [Catching Feelings \(feat\. J Boog\) \- Bimwala Remix](https://open.spotify.com/track/2mjlROYtPqKp9mWANqGtCf) | [Inigo Pascual](https://open.spotify.com/artist/0XOSmu9Qn1agQULUVe0dAK), [Moophs](https://open.spotify.com/artist/3HaL9ONkedXrAybTHYA3w1), [J Boog](https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4), [Bimwala](https://open.spotify.com/artist/6pXPBMM6APBn2Ffnh9M55C) | [Catching Feelings \(feat\. J Boog\) \[Bimwala Remix\]](https://open.spotify.com/album/6fkFfPMRuu19AOV1OjNBvJ) | 3:20 |
+| 10 | [Easier](https://open.spotify.com/track/2pmhCyJqNiF2IEE0ATRNaM) | [SOJA](https://open.spotify.com/artist/2vaWvC8suCFkRXejDOK7EE), [Anuhea](https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk), [J Boog](https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4) | [Amid the Noise and Haste](https://open.spotify.com/album/3PPShSOyJlk6lG6BheUqCe) | 3:15 |
 | 11 | [Here I Am](https://open.spotify.com/track/6L4mF7uao67PDOhvY5Wc4h) | [J Boog](https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4) | [Hear Me Roar](https://open.spotify.com/album/4sJryrOLwDCYOQo5lJhrGo) | 3:33 |
 | 12 | [Leaving With Me](https://open.spotify.com/track/0jREd56kAWsJUGsQbBsWPl) | [J Boog](https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4) | [Live Up](https://open.spotify.com/album/1ZvSUAW5du5OC4D3aMB7VZ) | 4:01 |
 | 13 | [No Other Love](https://open.spotify.com/track/2fb8kXjXaT2hkK86VrmThw) | [Common Kings](https://open.spotify.com/artist/4j0qbafzqnGf4ARF8tY4VL), [J Boog](https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4), [Fiji](https://open.spotify.com/artist/0DAaoRtoM8z0DHIhIzP4mJ) | [Monterey or Bust, Vol\. 2](https://open.spotify.com/album/2zLwFPoUPCopbjHzSjyEYM) | 3:13 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4nvAQ5.md) - [plain]
 | 49 | [This Is Love](https://open.spotify.com/track/6kT2DiTbDomd5UJtBJb5Jv) | [Monsta Ganjah](https://open.spotify.com/artist/1S66TJhuIfLtz0yEfpv1BL), [J Boog](https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4) | [Pacific Coast Highway](https://open.spotify.com/album/2tVLaJCNrTTEWRqGDtxDiH) | 4:03 |
 | 50 | [Danger](https://open.spotify.com/track/3XT9HuM3PYlkGOLKTyeStN) | [Iration](https://open.spotify.com/artist/0q9lPhJHW5R9J7RXIJRbTk), [J Boog](https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4), [Tyrone's Jacket](https://open.spotify.com/artist/5dxrfWzDmhPO4LJ3ESS70U) | [Iration](https://open.spotify.com/album/6XBN7JbqWczCIST7mmdkAx) | 3:59 |
 
-Snapshot ID: `Mjg1MTU2NjEsMDAwMDAwMDA1OWVhNjE2NzY2YmY2YmViMzJjZDhjNTI5ZjdiM2YwMQ==`
+Snapshot ID: `Mjg1MTcwNzUsMDAwMDAwMDA5NjNhNWJlMzgzODZhYTY3MTA1ZGRlNTg4ZWNmNWNiZA==`

@@ -1,12 +1,12 @@
 {
   "description": "Immerse in an imaginary panorama of atmospheric soundscapes.",
-  "num_followers": 333925,
+  "num_followers": 333992,
   "original_name": "Deep Listening",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4NjkzZTg1MDNhOTI4ZTgyYzIyNDY2ZWM0ZjIzNmNjZDc4OTQ1Mjdl",
+  "snapshot_id": "MCxkYjZjMmFjYjNkYTRhNDdjOGQ1MjViZTQ5Y2U3YzdhMWQyMjgzZWIy",
   "tracks": [
     {
       "added_at": "2022-03-30 05:08:29",
@@ -73,6 +73,30 @@
       "url": "https://open.spotify.com/track/7glKwbR1DyuIuE6XvZvJbQ"
     },
     {
+      "added_at": "2024-03-21 23:31:26",
+      "album": {
+        "name": "I\u2019ll Do Whatever You Want",
+        "url": "https://open.spotify.com/album/1eJCzWoOCQ4ikh7APacwOd"
+      },
+      "artists": [
+        {
+          "name": "Shabaka",
+          "url": "https://open.spotify.com/artist/6ywMpa6AmGJpV5Sbyy58Js"
+        },
+        {
+          "name": "Floating Points",
+          "url": "https://open.spotify.com/artist/2AR42Ur9PcchQDtEdwkv4L"
+        },
+        {
+          "name": "Laraaji",
+          "url": "https://open.spotify.com/artist/6sd3qv6kReAdo6WsLBtXX4"
+        }
+      ],
+      "duration_ms": 463080,
+      "name": "I\u2019ll Do Whatever You Want (feat. Floating Points, Laraaji)",
+      "url": "https://open.spotify.com/track/7tv000vU2ikgKNUNmGDeKV"
+    },
+    {
       "added_at": "2023-05-09 01:20:43",
       "album": {
         "name": "Secret Life",
@@ -93,22 +117,6 @@
       "url": "https://open.spotify.com/track/2qMLbeUM1IunPifKpvzqDx"
     },
     {
-      "added_at": "2021-10-06 04:52:47",
-      "album": {
-        "name": "Shadow Work",
-        "url": "https://open.spotify.com/album/62rUr720cpe9cWhfnC3gBc"
-      },
-      "artists": [
-        {
-          "name": "Mammal Hands",
-          "url": "https://open.spotify.com/artist/497rp5TEzJffeBnUT0BeE1"
-        }
-      ],
-      "duration_ms": 87341,
-      "name": "Being Here",
-      "url": "https://open.spotify.com/track/5cr7x0cknWAOD9iBcJEFVU"
-    },
-    {
       "added_at": "2024-03-05 05:25:58",
       "album": {
         "name": "The 39 Steps",
@@ -127,6 +135,22 @@
     {
       "added_at": "2021-10-06 04:52:47",
       "album": {
+        "name": "Shadow Work",
+        "url": "https://open.spotify.com/album/62rUr720cpe9cWhfnC3gBc"
+      },
+      "artists": [
+        {
+          "name": "Mammal Hands",
+          "url": "https://open.spotify.com/artist/497rp5TEzJffeBnUT0BeE1"
+        }
+      ],
+      "duration_ms": 87341,
+      "name": "Being Here",
+      "url": "https://open.spotify.com/track/5cr7x0cknWAOD9iBcJEFVU"
+    },
+    {
+      "added_at": "2021-10-06 04:52:47",
+      "album": {
         "name": "Living Room Songs",
         "url": "https://open.spotify.com/album/69Q8uDA8C7EdKUo5oveufQ"
       },
@@ -139,26 +163,6 @@
       "duration_ms": 208589,
       "name": "Near Light",
       "url": "https://open.spotify.com/track/6Xajr512QEGAZ20bqAWkyT"
-    },
-    {
-      "added_at": "2021-10-06 04:52:47",
-      "album": {
-        "name": "Svalbard",
-        "url": "https://open.spotify.com/album/57bDNgzUtAvKaL2wSPnsiF"
-      },
-      "artists": [
-        {
-          "name": "Niklas Paschburg",
-          "url": "https://open.spotify.com/artist/4dTw5svKFBPnfijbi3H9eI"
-        },
-        {
-          "name": "Andy Barlow",
-          "url": "https://open.spotify.com/artist/6TC2SpVp20fhwV7SAVr56o"
-        }
-      ],
-      "duration_ms": 204845,
-      "name": "Duvet",
-      "url": "https://open.spotify.com/track/1veZkUONsfxYDfqcGo6YbG"
     },
     {
       "added_at": "2023-11-23 02:59:25",
@@ -211,6 +215,26 @@
     {
       "added_at": "2021-10-06 04:52:47",
       "album": {
+        "name": "Svalbard",
+        "url": "https://open.spotify.com/album/57bDNgzUtAvKaL2wSPnsiF"
+      },
+      "artists": [
+        {
+          "name": "Niklas Paschburg",
+          "url": "https://open.spotify.com/artist/4dTw5svKFBPnfijbi3H9eI"
+        },
+        {
+          "name": "Andy Barlow",
+          "url": "https://open.spotify.com/artist/6TC2SpVp20fhwV7SAVr56o"
+        }
+      ],
+      "duration_ms": 204845,
+      "name": "Duvet",
+      "url": "https://open.spotify.com/track/1veZkUONsfxYDfqcGo6YbG"
+    },
+    {
+      "added_at": "2021-10-06 04:52:47",
+      "album": {
         "name": "Crush",
         "url": "https://open.spotify.com/album/1WwZwdTICfaZI51BIIEN9z"
       },
@@ -223,22 +247,6 @@
       "duration_ms": 234320,
       "name": "Falaise",
       "url": "https://open.spotify.com/track/3rkJH9BaiCWpRY718WTkBP"
-    },
-    {
-      "added_at": "2021-10-06 04:52:47",
-      "album": {
-        "name": "Raising Your Voice... Trying to Stop an Echo (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/2AbCfihy80zuR1mPwN5yLl"
-      },
-      "artists": [
-        {
-          "name": "Hammock",
-          "url": "https://open.spotify.com/artist/0VOR7Ie9xUSb45fzIIVJQ1"
-        }
-      ],
-      "duration_ms": 255335,
-      "name": "I Can Almost See You",
-      "url": "https://open.spotify.com/track/11n8LudggXuZXmldSlAadR"
     },
     {
       "added_at": "2024-02-02 04:07:40",
@@ -259,18 +267,18 @@
     {
       "added_at": "2021-10-06 04:52:47",
       "album": {
-        "name": "People On Sunday",
-        "url": "https://open.spotify.com/album/28FDXQ7lbkhDQBN7fhxbh4"
+        "name": "Raising Your Voice... Trying to Stop an Echo (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2AbCfihy80zuR1mPwN5yLl"
       },
       "artists": [
         {
-          "name": "Domenique Dumont",
-          "url": "https://open.spotify.com/artist/6kNluNBHa4sh5BKIvyiDgf"
+          "name": "Hammock",
+          "url": "https://open.spotify.com/artist/0VOR7Ie9xUSb45fzIIVJQ1"
         }
       ],
-      "duration_ms": 225207,
-      "name": "People On Sunday",
-      "url": "https://open.spotify.com/track/5GY0OnbXEa7rMivlDo13Xl"
+      "duration_ms": 255335,
+      "name": "I Can Almost See You",
+      "url": "https://open.spotify.com/track/11n8LudggXuZXmldSlAadR"
     },
     {
       "added_at": "2023-12-20 05:39:30",
@@ -307,6 +315,22 @@
     {
       "added_at": "2021-10-06 04:52:47",
       "album": {
+        "name": "People On Sunday",
+        "url": "https://open.spotify.com/album/28FDXQ7lbkhDQBN7fhxbh4"
+      },
+      "artists": [
+        {
+          "name": "Domenique Dumont",
+          "url": "https://open.spotify.com/artist/6kNluNBHa4sh5BKIvyiDgf"
+        }
+      ],
+      "duration_ms": 225207,
+      "name": "People On Sunday",
+      "url": "https://open.spotify.com/track/5GY0OnbXEa7rMivlDo13Xl"
+    },
+    {
+      "added_at": "2021-10-06 04:52:47",
+      "album": {
         "name": "Othona",
         "url": "https://open.spotify.com/album/4WW91JTZprRyFHT7A8ZGS5"
       },
@@ -323,22 +347,6 @@
     {
       "added_at": "2021-10-06 04:52:47",
       "album": {
-        "name": "Empty",
-        "url": "https://open.spotify.com/album/5XD78Fc6jfSfFYgwynseoI"
-      },
-      "artists": [
-        {
-          "name": "Nils Frahm",
-          "url": "https://open.spotify.com/artist/5gqhueRUZEa7VDnQt4HODp"
-        }
-      ],
-      "duration_ms": 396688,
-      "name": "A Shimmer",
-      "url": "https://open.spotify.com/track/09F0zRNSUa0qAWYUksXtXt"
-    },
-    {
-      "added_at": "2021-10-06 04:52:47",
-      "album": {
         "name": "Space 1.8",
         "url": "https://open.spotify.com/album/51HFfu3GhuXa4VUnlpJJy8"
       },
@@ -351,6 +359,22 @@
       "duration_ms": 248000,
       "name": "Space 1",
       "url": "https://open.spotify.com/track/5xYR2G6YOEzX2X9asFUrOE"
+    },
+    {
+      "added_at": "2021-10-06 04:52:47",
+      "album": {
+        "name": "Empty",
+        "url": "https://open.spotify.com/album/5XD78Fc6jfSfFYgwynseoI"
+      },
+      "artists": [
+        {
+          "name": "Nils Frahm",
+          "url": "https://open.spotify.com/artist/5gqhueRUZEa7VDnQt4HODp"
+        }
+      ],
+      "duration_ms": 396688,
+      "name": "A Shimmer",
+      "url": "https://open.spotify.com/track/09F0zRNSUa0qAWYUksXtXt"
     },
     {
       "added_at": "2022-03-11 05:43:48",
@@ -405,22 +429,6 @@
       "url": "https://open.spotify.com/track/2FRIWWs5xxPoQrk5pMmsQN"
     },
     {
-      "added_at": "2021-10-06 04:52:47",
-      "album": {
-        "name": "Clube Da Esquina",
-        "url": "https://open.spotify.com/album/5risYG7klZCSLMNxB9dZhf"
-      },
-      "artists": [
-        {
-          "name": "Milton Nascimento",
-          "url": "https://open.spotify.com/artist/3Bnq7jiU506HcPjRgQ43TM"
-        }
-      ],
-      "duration_ms": 218600,
-      "name": "Clube Da Esquina N\u00ba 2",
-      "url": "https://open.spotify.com/track/1sdW2whJr8CLa6bMA67LPQ"
-    },
-    {
       "added_at": "2024-02-02 04:17:18",
       "album": {
         "name": "Everywhere at the End of Time (Stage 1)",
@@ -435,6 +443,22 @@
       "duration_ms": 244373,
       "name": "B4 - The loves of my entire life",
       "url": "https://open.spotify.com/track/6806PuNd2YyEuzjtBo1yMv"
+    },
+    {
+      "added_at": "2021-10-06 04:52:47",
+      "album": {
+        "name": "Clube Da Esquina",
+        "url": "https://open.spotify.com/album/5risYG7klZCSLMNxB9dZhf"
+      },
+      "artists": [
+        {
+          "name": "Milton Nascimento",
+          "url": "https://open.spotify.com/artist/3Bnq7jiU506HcPjRgQ43TM"
+        }
+      ],
+      "duration_ms": 218600,
+      "name": "Clube Da Esquina N\u00ba 2",
+      "url": "https://open.spotify.com/track/1sdW2whJr8CLa6bMA67LPQ"
     },
     {
       "added_at": "2021-10-06 04:52:47",
@@ -533,30 +557,6 @@
       "url": "https://open.spotify.com/track/4CR6C67Fe6JqIqs8TvITf6"
     },
     {
-      "added_at": "2021-10-06 04:52:47",
-      "album": {
-        "name": "Promises",
-        "url": "https://open.spotify.com/album/3ShtO5VCYa3ctlR5uzLWBa"
-      },
-      "artists": [
-        {
-          "name": "Floating Points",
-          "url": "https://open.spotify.com/artist/2AR42Ur9PcchQDtEdwkv4L"
-        },
-        {
-          "name": "Pharoah Sanders",
-          "url": "https://open.spotify.com/artist/3JLUCojZaHrX2LaUkSj7Ud"
-        },
-        {
-          "name": "London Symphony Orchestra",
-          "url": "https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc"
-        }
-      ],
-      "duration_ms": 530894,
-      "name": "Movement 6",
-      "url": "https://open.spotify.com/track/5i0EqAX50KcKNgMDMHZndM"
-    },
-    {
       "added_at": "2024-01-11 03:28:19",
       "album": {
         "name": "Goodbye, Hotel Arkada",
@@ -595,6 +595,30 @@
       "duration_ms": 456316,
       "name": "Islands",
       "url": "https://open.spotify.com/track/2mYDLShG42sxWjgvs8VBXS"
+    },
+    {
+      "added_at": "2021-10-06 04:52:47",
+      "album": {
+        "name": "Promises",
+        "url": "https://open.spotify.com/album/3ShtO5VCYa3ctlR5uzLWBa"
+      },
+      "artists": [
+        {
+          "name": "Floating Points",
+          "url": "https://open.spotify.com/artist/2AR42Ur9PcchQDtEdwkv4L"
+        },
+        {
+          "name": "Pharoah Sanders",
+          "url": "https://open.spotify.com/artist/3JLUCojZaHrX2LaUkSj7Ud"
+        },
+        {
+          "name": "London Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc"
+        }
+      ],
+      "duration_ms": 530894,
+      "name": "Movement 6",
+      "url": "https://open.spotify.com/track/5i0EqAX50KcKNgMDMHZndM"
     },
     {
       "added_at": "2022-10-14 04:40:55",
@@ -693,22 +717,6 @@
       "url": "https://open.spotify.com/track/2nP8BQtLMXpaUWjUGWAwhy"
     },
     {
-      "added_at": "2021-10-06 04:52:47",
-      "album": {
-        "name": "Crush",
-        "url": "https://open.spotify.com/album/1WwZwdTICfaZI51BIIEN9z"
-      },
-      "artists": [
-        {
-          "name": "Floating Points",
-          "url": "https://open.spotify.com/artist/2AR42Ur9PcchQDtEdwkv4L"
-        }
-      ],
-      "duration_ms": 143080,
-      "name": "Requiem for CS70 and Strings",
-      "url": "https://open.spotify.com/track/5tJZSE0l9xTnRrccjBZZXg"
-    },
-    {
       "added_at": "2023-10-13 15:47:04",
       "album": {
         "name": "Atlas",
@@ -739,6 +747,22 @@
       "duration_ms": 282695,
       "name": "C2 - Misplaced in time",
       "url": "https://open.spotify.com/track/5T8IT6Qq5eH08c5T95j1ON"
+    },
+    {
+      "added_at": "2021-10-06 04:52:47",
+      "album": {
+        "name": "Crush",
+        "url": "https://open.spotify.com/album/1WwZwdTICfaZI51BIIEN9z"
+      },
+      "artists": [
+        {
+          "name": "Floating Points",
+          "url": "https://open.spotify.com/artist/2AR42Ur9PcchQDtEdwkv4L"
+        }
+      ],
+      "duration_ms": 143080,
+      "name": "Requiem for CS70 and Strings",
+      "url": "https://open.spotify.com/track/5tJZSE0l9xTnRrccjBZZXg"
     },
     {
       "added_at": "2021-10-06 04:52:47",
@@ -819,26 +843,6 @@
       "duration_ms": 292466,
       "name": "There Were Bells",
       "url": "https://open.spotify.com/track/16e88gyG4rLhaAAYqRPujQ"
-    },
-    {
-      "added_at": "2021-10-06 04:52:47",
-      "album": {
-        "name": "Night Owl",
-        "url": "https://open.spotify.com/album/0eJCk5W0VKQ4qIuoAhn5ns"
-      },
-      "artists": [
-        {
-          "name": "Cihangir Aslan",
-          "url": "https://open.spotify.com/artist/30J2BZr9IIoch7Sj47xtpD"
-        },
-        {
-          "name": "Dilan Balkay",
-          "url": "https://open.spotify.com/artist/0EmioUrT5ZIveHOQnDcTGM"
-        }
-      ],
-      "duration_ms": 376082,
-      "name": "Night Owl",
-      "url": "https://open.spotify.com/track/3i0IiglJ0nzjxlpU3s7wXr"
     }
   ],
   "unique_name": "Deep Listening",

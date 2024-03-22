@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Qpx391Wkce.md) - [plain]
 
 > <a href="spotify:artist:2xeHjPrS4EnEUIXHV9pkeg">Monika Kruse</a>'s favorite tracks\. Updated regularly\. Curated by Monika Kruse\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,385 likes - 66 songs - 6 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,406 likes - 66 songs - 6 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,7 +53,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Qpx391Wkce.md) - [plain]
 | 43 | [Electrico \- Original Mix](https://open.spotify.com/track/1UWFw0IMm6Bk2yKlr0O7om) | [Hollen](https://open.spotify.com/artist/3XyhZgjNCOB4onNVrbtYiB) | [Feel Alive](https://open.spotify.com/album/57Y3qJExpm9QqxeYWypZKG) | 7:01 |
 | 44 | [Singularity](https://open.spotify.com/track/3PuGOG0gKecHhA128AD4CR) | [Ignacio Arfeli](https://open.spotify.com/artist/53nQsmYO19z1chV4aSVzlp) | [Singularity](https://open.spotify.com/album/2B6GGmK5tAtsEOcROyAfo8) | 4:01 |
 | 45 | [Losing Grip \- Reset Robot Remix](https://open.spotify.com/track/2enhLCiYIHbQr9rDqnIaD8) | [ACUTEK](https://open.spotify.com/artist/74ZsJ2NSzGtM2fFH2xaCUu), [Reset Robot](https://open.spotify.com/artist/7hmPLllWGkE1X101Wv4vb3) | [Losing Grip EP](https://open.spotify.com/album/3D4B11J2dCi6B8qkS7AGhr) | 5:59 |
-| 46 | [Electronic Nation](https://open.spotify.com/track/1WEitCqIgzrVf8OihEcyui) | [Timmo](https://open.spotify.com/artist/32LzV8uY2Zf8Nda9Rvjx5U) | [Electronic Nation](https://open.spotify.com/album/5XzGMGwBTck7m0adlXShoU) | 2:52 |
+| 46 | [Electronic Nation](https://open.spotify.com/track/5ORCkWiEMf8YPRbO2AIWvi) | [Timmo](https://open.spotify.com/artist/32LzV8uY2Zf8Nda9Rvjx5U) | [Electronic Nation](https://open.spotify.com/album/7DZjoYCYPuTNXwzYsZpQHT) | 2:52 |
 | 47 | [Hydra](https://open.spotify.com/track/24TLhKH7Sa89pSPchSjd7a) | [Alex Stein](https://open.spotify.com/artist/0SCFEgshN89tlgOPM7lbSB) | [Hydra](https://open.spotify.com/album/1MvcVnDrefnFTV3swzFAvs) | 4:30 |
 | 48 | [After Six Years](https://open.spotify.com/track/0WRSrfxHM3ife3XjVKsFxb) | [Adoo](https://open.spotify.com/artist/5jffouMWTx8Fhyr8MTjG8I) | [After Seven Years EP](https://open.spotify.com/album/6IChVG8EpPGKtoigW1Nfbb) | 6:22 |
 | 49 | [3 Minutes to Midnight](https://open.spotify.com/track/17vUDLauEwEjjU07yPfFke) | [Gregor Tresher](https://open.spotify.com/artist/3vy8oQAubj1IykJLLqvVFC), [The Streets](https://open.spotify.com/artist/4GvOygVQquMaPm8oAc0vXi) | [3 Minutes to Midnight](https://open.spotify.com/album/27g2GDQgR5sWnPubtotYAJ) | 3:37 |
@@ -75,4 +75,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Qpx391Wkce.md) - [plain]
 | 65 | [Space Cowboys \- Deetron Remix](https://open.spotify.com/track/4wWAcfa5LCyz9YXlOnJLrq) | [Fabio Vanore](https://open.spotify.com/artist/19WfpuODWsvrlHGvZYkigs), [Bellville](https://open.spotify.com/artist/3R70yaBEmHf0VbsxY3uVih), [Deetron](https://open.spotify.com/artist/0d4nL4lAEkHJIqLZSHBuav) | [Incroyable Music \- Cabin in the Woods \(Remixes\)](https://open.spotify.com/album/2OTRW5teR3iq6DMMbnj0O5) | 9:03 |
 | 66 | [Changes of Perception](https://open.spotify.com/track/6yPT4MX0RPW1dPD902Qmh7) | [Monika Kruse](https://open.spotify.com/artist/2xeHjPrS4EnEUIXHV9pkeg) | [Changes of Perception](https://open.spotify.com/album/4qK1ZMi8iC96BK60iIEPiY) | 7:25 |
 
-Snapshot ID: `MCxkMGNhNDk5ZmYyOTIzOTcyZDViM2IzY2I3ZDYyZjI3ZjgwM2Y2NDll`
+Snapshot ID: `MCxjYzBmYTU0YTZhNTlmNDhmOTc3NmFkZjAzODRkYWNiMTYzMGQwNmM2`

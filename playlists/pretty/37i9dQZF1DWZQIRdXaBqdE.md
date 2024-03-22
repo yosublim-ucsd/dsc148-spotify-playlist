@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZQIRdXaBqdE.md) - [plain]
 
 > Get on down the road with these classic country tunes\. Cover: Johnny Cash
 
-[Spotify](https://open.spotify.com/user/spotify) - 397,070 likes - 100 songs - 5 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 397,155 likes - 100 songs - 5 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,9 +13,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZQIRdXaBqdE.md) - [plain]
 | 3 | [Forever and Ever, Amen](https://open.spotify.com/track/1ipcb9qXpSHWhSUvdxJhsx) | [Randy Travis](https://open.spotify.com/artist/1pTuR132U5b4Rizal2Pr7m) | [Always & Forever](https://open.spotify.com/album/28ZWOeiZ8l4Uydl3hZjvgv) | 3:32 |
 | 4 | [Jolene](https://open.spotify.com/track/2SpEHTbUuebeLkgs9QB7Ue) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [Jolene](https://open.spotify.com/album/5DyOxuvdSmTSNAmkfcsBsj) | 2:41 |
 | 5 | [One Piece at a Time](https://open.spotify.com/track/1sueD22EyCamMjdQu9Kuo3) | [Johnny Cash](https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x), [Tennessee Three](https://open.spotify.com/artist/4yEQYaY1583BU8xppIffdp) | [One Piece At A Time](https://open.spotify.com/album/3cvJNkbrztr55SR4hhAw67) | 4:01 |
-| 6 | [Southern Nights](https://open.spotify.com/track/7kv7zBjMtVf0eIJle2VZxn) | [Glen Campbell](https://open.spotify.com/artist/59hLmB5DrdihCYtNeFeW1U) | [Southern Nights](https://open.spotify.com/album/0R7Uw1tUUbWlV53BGKfjQ4) | 3:00 |
+| 6 | [Fishin' in the Dark](https://open.spotify.com/track/15jhnquhNS1IZMlM493UBW) | [Nitty Gritty Dirt Band](https://open.spotify.com/artist/7y70dch6JuuuNnwlsOQvwW) | [Hold On](https://open.spotify.com/album/0nFyIqvzHgoHPnIuDNbh0O) | 3:21 |
 | 7 | [Rose Garden](https://open.spotify.com/track/5YwgJ6lpZ3SiAQwBEpjqey) | [Lynn Anderson](https://open.spotify.com/artist/502FY8XQYRxClWgolQ3Hf2) | [Rose Garden](https://open.spotify.com/album/2JItlMgM1n2GfKOmqYr8af) | 2:55 |
-| 8 | [Fishin' in the Dark](https://open.spotify.com/track/15jhnquhNS1IZMlM493UBW) | [Nitty Gritty Dirt Band](https://open.spotify.com/artist/7y70dch6JuuuNnwlsOQvwW) | [Hold On](https://open.spotify.com/album/0nFyIqvzHgoHPnIuDNbh0O) | 3:21 |
+| 8 | [Southern Nights](https://open.spotify.com/track/7kv7zBjMtVf0eIJle2VZxn) | [Glen Campbell](https://open.spotify.com/artist/59hLmB5DrdihCYtNeFeW1U) | [Southern Nights](https://open.spotify.com/album/0R7Uw1tUUbWlV53BGKfjQ4) | 3:00 |
 | 9 | [Amarillo By Morning](https://open.spotify.com/track/4TnUKixNWMfajncgdSwFoi) | [George Strait](https://open.spotify.com/artist/5vngPClqofybhPERIqQMYd) | [Strait From The Heart](https://open.spotify.com/album/3NB2cmFq9nyhHSVz0Zv08t) | 2:53 |
 | 10 | [Delta Dawn](https://open.spotify.com/track/7GH8qNOm2gEKryVUyVzkmt) | [Tanya Tucker](https://open.spotify.com/artist/7dmeVSH4lJqxXU7C87dKIB) | [Tanya Tucker / Super Hits](https://open.spotify.com/album/6oaors3y98ssmPuvBcc343) | 2:55 |
 | 11 | [Louisiana Saturday Night](https://open.spotify.com/track/50PU05RTGva8laKDwxED9Y) | [Mel McDaniel](https://open.spotify.com/artist/1fMdO9vLUd6wW4jbMeNiup) | [I'm Countryfied](https://open.spotify.com/album/3F88UQZzP3fmw2p3m2j9l5) | 2:24 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZQIRdXaBqdE.md) - [plain]
 | 45 | [Golden Ring \- Single Version](https://open.spotify.com/track/1Bqt4M53ylr5NXMvBg1FMf) | [Tammy Wynette](https://open.spotify.com/artist/1LFKKuzn302wp15dYH28id) | [Tears Of Fire: The 25th Anniversary Collection](https://open.spotify.com/album/4yyvXQaZrk45jH6tzvGPwg) | 3:01 |
 | 46 | [Act Naturally](https://open.spotify.com/track/762yvPz59OMgb7gGLws6Vi) | [Buck Owens](https://open.spotify.com/artist/2FMZn5P3WATd7Il6FgPJNu) | [All\-Time Greatest Hits, Vol\. 1](https://open.spotify.com/album/38YMI8jMA7RotlUBZJNtcs) | 2:23 |
 | 47 | [The Devil Went Down to Georgia](https://open.spotify.com/track/6gRACp2CvsIhc7hyw8CecQ) | [The Charlie Daniels Band](https://open.spotify.com/artist/12d4iIvTOk7JkI6ecvc3ca) | [Million Mile Reflections](https://open.spotify.com/album/211gVLmc36aeE66qEHqN0a) | 3:35 |
-| 48 | [On the Other Hand](https://open.spotify.com/track/5MkOctZG8LI9uHzpY7ncWj) | [Randy Travis](https://open.spotify.com/artist/1pTuR132U5b4Rizal2Pr7m) | [Storms of Life](https://open.spotify.com/album/6rOVPyzQ5s7cUUyHHplESf) | 3:06 |
-| 49 | [Guitar Town](https://open.spotify.com/track/62ZRHYSOIT9WeZnz18kTHS) | [Steve Earle](https://open.spotify.com/artist/2UBTfUoLI07iRqGeUrwhZh) | [Guitar Town](https://open.spotify.com/album/3bEnaGjQRqfoqNkAQtO1Uy) | 2:35 |
+| 48 | [Guitar Town](https://open.spotify.com/track/62ZRHYSOIT9WeZnz18kTHS) | [Steve Earle](https://open.spotify.com/artist/2UBTfUoLI07iRqGeUrwhZh) | [Guitar Town](https://open.spotify.com/album/3bEnaGjQRqfoqNkAQtO1Uy) | 2:35 |
+| 49 | [On the Other Hand](https://open.spotify.com/track/5MkOctZG8LI9uHzpY7ncWj) | [Randy Travis](https://open.spotify.com/artist/1pTuR132U5b4Rizal2Pr7m) | [Storms of Life](https://open.spotify.com/album/6rOVPyzQ5s7cUUyHHplESf) | 3:06 |
 | 50 | [Crazy \- Single Version](https://open.spotify.com/track/3zpj9dvJABiyMrmLCPw6i8) | [Patsy Cline](https://open.spotify.com/artist/7dNsHhGeGU5MV01r06O8gK), [The Jordanaires](https://open.spotify.com/artist/6CXezToiGS8K6jr9kr8Muv) | [Showcase](https://open.spotify.com/album/54Ykk8Gg8TuHjLbYvErsKh) | 2:44 |
 | 51 | [She's Actin' Single \(I'm Drinkin' Doubles\)](https://open.spotify.com/track/7dZgDd8LYriRdR2kDSQjxx) | [Gary Stewart](https://open.spotify.com/artist/3KmQJ2e3T7Gn1UurVpReXs) | [Out Of Hand](https://open.spotify.com/album/4vslpYaKUd2FnMGkZcq7vK) | 2:48 |
 | 52 | [Dixieland Delight \- Single Edit](https://open.spotify.com/track/6ZijsJ9Oh0xgOdY0O1xCWN) | [Alabama](https://open.spotify.com/artist/6rJqqRce0Kvo2dJUXoHleC) | [The Essential Alabama 3.0](https://open.spotify.com/album/4UUE6qWrIn7L54UZxv0DDQ) | 3:56 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZQIRdXaBqdE.md) - [plain]
 | 99 | [Just Good Ol' Boys](https://open.spotify.com/track/3rvNZziNdig7Z0ePbB365e) | [Moe Bandy](https://open.spotify.com/artist/7s7Q0xacR6ShONfklPYcPz), [Joe Stampley](https://open.spotify.com/artist/0bRY1ri3TKSfD5BRU8CvaJ) | [Just Good Ol' Boys](https://open.spotify.com/album/4Dimc7g8uaqY3EMKwMgDbx) | 2:38 |
 | 100 | [The Ride](https://open.spotify.com/track/6tRSJPPrWs1hqOkllIJK9M) | [David Allan Coe](https://open.spotify.com/artist/6nwh8AhPpbwOUnHZJWrHT6) | [David Allan Coe \- 16 Biggest Hits](https://open.spotify.com/album/7oSNiyE3ZinACkLFKikw7l) | 3:06 |
 
-Snapshot ID: `MCxiZTUyNWFlZTE3NzM3MDQ4YWJhOTU2NjRmZDgzZTgyMWY0ZDI1YTUw`
+Snapshot ID: `MCwyNjllMmU5YWFiNmQ5MmIyNmY0NGYyZDU0Y2M1ZDIxNGU4MDQwYWY3`

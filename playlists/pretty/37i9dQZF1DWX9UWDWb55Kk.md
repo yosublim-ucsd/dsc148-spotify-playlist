@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX9UWDWb55Kk.md) - [plain]
 
 > La música de la séptima temporada de ÉLI7E vive aquí ✨
 
-[Spotify](https://open.spotify.com/user/spotify) - 255,670 likes - 408 songs - 1 day 1 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 255,668 likes - 408 songs - 1 day 1 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -354,7 +354,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX9UWDWb55Kk.md) - [plain]
 | 344 | [Tres Horas \(Instrumental\)](https://open.spotify.com/track/4VMwT2o0MQPloNYZVwXJXw) | [Wong](https://open.spotify.com/artist/69zKXCn6B9Nkmqo7Gc4FMV) | [Wong](https://open.spotify.com/album/6Dcab1KObDO0JNkX1zIIjf) | 7:11 |
 | 345 | [Outer Love](https://open.spotify.com/track/1wVMKkf2TbM7MtdnrlyB5k) | [Tonina](https://open.spotify.com/artist/5CNjEQS5vkm6B9BGEDqJ7b) | [March Nineteen](https://open.spotify.com/album/2YYu2I0cb2YfOUq4C65Q7F) | 3:12 |
 | 346 | [A Gun Called Patience](https://open.spotify.com/track/6rxTIS4vR92UYUFnHR4kOr) | [Alex Rose](https://open.spotify.com/artist/7ETOcENbeXjSQfeqCKIVjD) | [A Gun Called Patience](https://open.spotify.com/album/0xKigNZjWlBG3HKrDZiXZg) | 3:10 |
-| 347 | [Pop Panic \(feat\. Just John\)](https://open.spotify.com/track/0NMHXkWf6egLjQ3Uwzhliv) | [Lex Junior](https://open.spotify.com/artist/3dvvkiXIRyaeLve9BMHdo9), [Just John](https://open.spotify.com/artist/5yJAfyfCn2mE6q9GeYrKWb) | [Pop Panic \(feat\. Just John\)](https://open.spotify.com/album/0LWU6Yf8YZsktbAKxAFI2j) | 2:07 |
+| 347 | [Pop Panic](https://open.spotify.com/track/7aGANMBEAcVUq0gGLOgKOz) | [Lex Junior](https://open.spotify.com/artist/3dvvkiXIRyaeLve9BMHdo9), [Just John](https://open.spotify.com/artist/5yJAfyfCn2mE6q9GeYrKWb) | [Pop Panic](https://open.spotify.com/album/2uKvmvYvQEr56l5KLjfnOP) | 2:07 |
 | 348 | [Take My Pain Away](https://open.spotify.com/track/0lj1lAjn71qciAw57mEfje) | [Moullinex](https://open.spotify.com/artist/1XFbnj1jNNzzyg46ni3dnr) | [Flora](https://open.spotify.com/album/25nHYMN19qwn9Vd6bAcMs0) | 4:38 |
 | 349 | [Love In Motion](https://open.spotify.com/track/0dJ0pX1MohcF33LpFssliC) | [SebastiAn](https://open.spotify.com/artist/5tOWIviwLM1EIqGAbF8VSU), [Mayer Hawthorne](https://open.spotify.com/artist/4d53BMrRlQkrQMz5d59f2O) | [Total](https://open.spotify.com/album/5WXzljd68vlJL83jHUFcCo) | 3:05 |
 | 350 | [Hurricanrana](https://open.spotify.com/track/5ZO2fpc7VOIzSh32QbbaFv) | [Jono Das](https://open.spotify.com/artist/2afukrJRg4VWLkGibOXoQN) | [Fiction](https://open.spotify.com/album/0yfv6uOXXjufFUiJdQJFSI) | 2:22 |
@@ -417,4 +417,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX9UWDWb55Kk.md) - [plain]
 | 407 | [1987 \- Original mix](https://open.spotify.com/track/2w74y6Iy98dFo2buhXu4fU) | [Ticon](https://open.spotify.com/artist/1UjhKEWO8s7Vvidh2LzwZ1) | [Iboga Revival, Vol\. 01 \(Compiled by Emok & Banel\)](https://open.spotify.com/album/24Sc7Xy1Gpauxjp8f3rfV1) | 8:27 |
 | 408 | [You Are the One](https://open.spotify.com/track/4ZWmHquNez0tTqRKCAu7TQ) | [Adanowsky](https://open.spotify.com/artist/3yS2Ua2b0erJP5dx3xs063) | [Amador](https://open.spotify.com/album/27scONugjs898tPlDCKo3p) | 3:36 |
 
-Snapshot ID: `MCwxYzRkZjU4Y2RmNjk5NDJkNzM5NTEyNGQ5ZWU0MjBjNDFmNzVmNmYy`
+Snapshot ID: `MCw3OGViYTQzZGYzZDBhZWJiNWEyYmI4M2IzZjhkOWUwNjNkMmU1ZDkw`

@@ -2,9 +2,9 @@
 
 ### [Couleur Pop](https://open.spotify.com/playlist/37i9dQZF1DX8HUWm4UDVR3)
 
-> La pop française annonce la couleur\. Photo : The Doug
+> La pop française annonce la couleur\. Photo : Lancelot
 
-148 songs - 7 hr 21 min
+152 songs - 7 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,7 +39,7 @@
 | [Corps Nucléaire](https://open.spotify.com/track/4m2Jir1D8nb2dHFeXEBtp6) | [ELISA ERKA](https://open.spotify.com/artist/1EkqwqtzsjxMYJZH73RFVM) | [Corps Nucléaire](https://open.spotify.com/album/1w501CXi8HCQdDOXNmrRx7) | 3:33 | 2023-10-12 | 2024-03-01 |
 | [Crash](https://open.spotify.com/track/0QAkn0BvBwGqVLlDAHeCFG) | [Solann](https://open.spotify.com/artist/17u6mMCLx4RTzjIKRaTRIv) | [Monstrueuse](https://open.spotify.com/album/3ncHignlQNL2JTMxYMYz5X) | 3:28 | 2024-01-18 |  |
 | [CRASH <3](https://open.spotify.com/track/3qxpjvGzwjP4b6EDYLaon6) | [Eddy de Pretto](https://open.spotify.com/artist/7rFugkk9ZvVB1zXHg8h0rj) | [CRASH CŒUR](https://open.spotify.com/album/37b90qQXuhhAzmxQlQLWOK) | 2:49 | 2023-11-16 | 2024-02-23 |
-| [Creep \- Reprise](https://open.spotify.com/track/44X6oJ7rCioDz5dhtC4Fjn) | [Jeanne Bonjour](https://open.spotify.com/artist/69RTXNHpm2vfbE6xBVuC4u) | [Nouvelle Ère](https://open.spotify.com/album/5fDeHvOOrCb7iOw7V90OQm) | 2:51 | 2024-01-18 |  |
+| [Creep \- Reprise](https://open.spotify.com/track/44X6oJ7rCioDz5dhtC4Fjn) | [Jeanne Bonjour](https://open.spotify.com/artist/69RTXNHpm2vfbE6xBVuC4u) | [Nouvelle Ère](https://open.spotify.com/album/5fDeHvOOrCb7iOw7V90OQm) | 2:51 | 2024-01-18 | 2024-03-22 |
 | [Creep \- Reprise](https://open.spotify.com/track/5vZtvZGmR9APE5Uthy4A3H) | [Jeanne Bonjour](https://open.spotify.com/artist/69RTXNHpm2vfbE6xBVuC4u) | [Creep \(Reprise\)](https://open.spotify.com/album/0CRmRKpMa7LpbNCkHzgwBD) | 2:51 | 2023-07-27 | 2024-01-10 |
 | [Creep \- Reprise](https://open.spotify.com/track/6R3kzJCQFejaS1XIR7wnbo) | [Jeanne Bonjour](https://open.spotify.com/artist/69RTXNHpm2vfbE6xBVuC4u) | [Creep \(Reprise\)](https://open.spotify.com/album/2Q1hHWosLo5qBPj6oL8bDY) | 2:51 | 2024-01-04 | 2024-01-22 |
 | [Crises d'angoisse](https://open.spotify.com/track/4HFAZTPBdCFuUnSS57Syyx) | [ANAÏS MVA](https://open.spotify.com/artist/2MBvn4Y3ugNmUlWp1W65QL) | [Crises d'angoisse](https://open.spotify.com/album/3YplunRHBWjCsiy3TIgf5T) | 2:32 | 2024-03-07 |  |
@@ -66,7 +66,7 @@
 | [Hollywood game](https://open.spotify.com/track/08lrGHWmLDdGyQvFBlwqxF) | [Charlie Motto](https://open.spotify.com/artist/6zdCsWv5dvlyaJhk0nMmfb) | [Hollywood game](https://open.spotify.com/album/5IQZFOZDSqX80qcLUaRNRY) | 3:12 | 2024-01-04 | 2024-02-02 |
 | [Honnête](https://open.spotify.com/track/38rGEAgvkS19rOmPjV4DPx) | [Mattyeux](https://open.spotify.com/artist/3bFokK6zCab3bPwSjktEVF), [Videoclub](https://open.spotify.com/artist/3rp4f58JlRHkk8hpdLCer1) | [Honnête](https://open.spotify.com/album/5e7f0QJkEgwda9ke50M43K) | 2:59 | 2023-09-14 | 2023-12-08 |
 | [Idiot](https://open.spotify.com/track/6JOlXpSpvjk6wi2pFJhhau) | [SAM](https://open.spotify.com/artist/7c5GqUF44K4Hmx77zhALdR), [Allen B](https://open.spotify.com/artist/4IMbOxi9R1vkvUZqPClKt8) | [Idiot](https://open.spotify.com/album/7w44o7QHPANWTfn8qa66Cs) | 2:56 | 2023-09-21 | 2023-12-15 |
-| [Ilavu](https://open.spotify.com/track/6nKlrxZZsN20urXWvQOqHf) | [Amouë](https://open.spotify.com/artist/5hxkInZtrkxDnUjsRqs5Ww) | [Ilavu](https://open.spotify.com/album/5yeN5bot9aY9o3PFamGNrv) | 2:58 | 2024-02-08 |  |
+| [Ilavu](https://open.spotify.com/track/6nKlrxZZsN20urXWvQOqHf) | [Amouë](https://open.spotify.com/artist/5hxkInZtrkxDnUjsRqs5Ww) | [Ilavu](https://open.spotify.com/album/5yeN5bot9aY9o3PFamGNrv) | 2:58 | 2024-02-08 | 2024-03-22 |
 | [J'aime pas sortir](https://open.spotify.com/track/0qOaSyBrDM4TmSEWrkfN6m) | [Alice et Moi](https://open.spotify.com/artist/1NcCVE1FRpBSlN3LcAfhn3) | [J'aime pas sortir](https://open.spotify.com/album/2QsJu8zj3GjP9bYvtKsR6C) | 2:52 | 2023-07-27 | 2023-10-06 |
 | [J'aimerais danser avec toi](https://open.spotify.com/track/1fWvBuZBG7AomF8Qk27vMM) | [ANAÏS MVA](https://open.spotify.com/artist/2MBvn4Y3ugNmUlWp1W65QL) | [J'aimerais danser avec toi](https://open.spotify.com/album/5V5TGyamn7lRkTfnoYM8vO) | 2:39 | 2023-12-21 | 2024-03-08 |
 | [J'me barre](https://open.spotify.com/track/2ZkWEkVDL73dSNAv21aa0B) | [Adé](https://open.spotify.com/artist/3NIFl4tsySuu3eu8Yt8c0s) | [J'me barre](https://open.spotify.com/album/73Rk8FmhOaBIza5bOYnTmT) | 2:59 | 2023-09-28 | 2024-03-08 |
@@ -99,11 +99,14 @@
 | [Mexico](https://open.spotify.com/track/0eNAdxp91MiBmI7sHPsJJG) | [Elephanz](https://open.spotify.com/artist/2CD8tl357w6zYA3XYuOJPO), [Clou](https://open.spotify.com/artist/7DPzuksj4fnGIb4F9dVswN) | [Mexico](https://open.spotify.com/album/6pVxwt4I2528nKeP5MHq0I) | 3:07 | 2023-07-27 | 2023-10-13 |
 | [Mirage](https://open.spotify.com/track/5CJvskgeMXDKnVvf3PEtM9) | [Charlie Faron](https://open.spotify.com/artist/7bHfn00UcuTafrQLESy8UE) | [Mirage](https://open.spotify.com/album/3jAsb2wtV7QcJEvoeClT1y) | 3:26 | 2024-02-08 | 2024-03-15 |
 | [Mission](https://open.spotify.com/track/04wLbifT6G1tAzBRqMAC7d) | [Ambre Sls](https://open.spotify.com/artist/3cMsbhJUy9mujVSPtMzxe9), [La Pépite](https://open.spotify.com/artist/2Ago4l6T5ldhK0qjc9iSvV) | [Mission](https://open.spotify.com/album/4pITFt5Q4CnPjlcb1VLBtd) | 3:03 | 2023-10-12 | 2024-01-05 |
+| [Moi du Passé](https://open.spotify.com/track/72bwy4wAvp7D2oRsZZ65pp) | [Venus VNR](https://open.spotify.com/artist/1VNVb5UAADT5TLDjQ1oGZW), [Louis La Flemme](https://open.spotify.com/artist/6BiGrnotVsXgC9NiadCMVW) | [Moi du Passé](https://open.spotify.com/album/1wxKnSrpD8XfrmOgAY0Vmw) | 3:07 | 2024-03-21 |  |
 | [Multicolore](https://open.spotify.com/track/5KazYhmGYKT7Iq5kHCcXiq) | [Emma Peters](https://open.spotify.com/artist/6lY6kOVMG0mR07JTzU33o5) | [Multicolore](https://open.spotify.com/album/5pshEhto6fETHUMWA42en8) | 3:00 | 2024-02-29 |  |
 | [Même en enfer](https://open.spotify.com/track/0mxEFN9yHT8HLgEp1NtcDE) | [Zélie](https://open.spotify.com/artist/0TGeOStDbxqVi8UJdBQsEx) | [Zélie c'est qui ?](https://open.spotify.com/album/40SVgjQqu5lHeUqeHsTdha) | 2:45 | 2023-07-27 | 2023-10-13 |
+| [Nuit d'hiver](https://open.spotify.com/track/7E7A4Bjp1W8RU1FnldFfEx) | [Princesse](https://open.spotify.com/artist/6btazhSPWJjAUX7Qvk8CEw) | [Nuit d'hiver](https://open.spotify.com/album/1sEQ4PyefTPD5JGaEBAPEH) | 3:08 | 2024-03-21 |  |
 | [Nuits bleues](https://open.spotify.com/track/14V0agAxlMODImJusOV3dC) | [Elena Copsi](https://open.spotify.com/artist/5YafOG1cCGaf4dpzCNVPXm) | [Nuits bleues](https://open.spotify.com/album/1f5u4egw7dLFkDcXnhqkhW) | 2:36 | 2023-11-09 | 2023-12-22 |
+| [Nuits Cinématiques](https://open.spotify.com/track/74wu5CQHXvXcDCbxyVtunM) | [Louise Combier](https://open.spotify.com/artist/26795z7WfjgTuOCIXuwP5h) | [Nuits Cinématiques](https://open.spotify.com/album/237Uao1tp7SQNVmC9QeNg4) | 3:07 | 2024-03-21 |  |
 | [Oh ma vie](https://open.spotify.com/track/6SLMAJI9fGwK3oQC32pWNB) | [Achile](https://open.spotify.com/artist/21KPPMcnfzFYt3yseua9Nl) | [Oh ma vie](https://open.spotify.com/album/2OvbOMc6jBk55fvhnJI42u) | 3:18 | 2023-07-27 | 2023-10-13 |
-| [OH MADELEINE](https://open.spotify.com/track/6mlYa6FsNSfpBtr8axmVoc) | [Disiz](https://open.spotify.com/artist/7rz6ZZErn5YFDteXKhyf3g) | [OH MADELEINE](https://open.spotify.com/album/2P7t2OnISRXXoGd7C6cfxx) | 2:39 | 2023-08-31 |  |
+| [OH MADELEINE](https://open.spotify.com/track/6mlYa6FsNSfpBtr8axmVoc) | [Disiz](https://open.spotify.com/artist/7rz6ZZErn5YFDteXKhyf3g) | [OH MADELEINE](https://open.spotify.com/album/2P7t2OnISRXXoGd7C6cfxx) | 2:39 | 2023-08-31 | 2024-03-22 |
 | [Oublier](https://open.spotify.com/track/37mcuOb6LwRA8wuZvySQ43) | [Ghostly Kisses](https://open.spotify.com/artist/7EkzQPP0cgt2qCnXUg6PHj) | [Oublier](https://open.spotify.com/album/3MJltJ9phcfouKbcupRDoP) | 3:03 | 2023-09-07 | 2023-10-20 |
 | [Oui ou non](https://open.spotify.com/track/0nnMnUUW1386WXpzMNf2OA) | [BRÖ](https://open.spotify.com/artist/6U2PIOH8ZKgFprcdkIe8J5) | [musique POUR LA FÊTE](https://open.spotify.com/album/52nZRyuGHBwY5VdeQB5ejX) | 2:26 | 2024-03-14 |  |
 | [Ouragan](https://open.spotify.com/track/4uB57FLLnkytm3Hoc8KRtT) | [Mattyeux](https://open.spotify.com/artist/3bFokK6zCab3bPwSjktEVF), [Videoclub](https://open.spotify.com/artist/3rp4f58JlRHkk8hpdLCer1) | [Ouragan](https://open.spotify.com/album/3iJHdURPYUgJsWMFZfW4uz) | 2:28 | 2023-11-23 |  |
@@ -121,6 +124,7 @@
 | [Pura Vida](https://open.spotify.com/track/089yceeHO3eLgUBIGpMthu) | [Suzane](https://open.spotify.com/artist/00CTomLgA78xvwEwL0woWx) | [Caméo](https://open.spotify.com/album/5QXZkChgcFRZ6cUAehwUfp) | 2:43 | 2023-07-27 | 2023-09-15 |
 | [Puzzle](https://open.spotify.com/track/6sKi2n9ibaCpXt06Dt1XWr) | [Morgan](https://open.spotify.com/artist/7E6PYsPQuOU1r5gPPBRvoS), [Shaga](https://open.spotify.com/artist/4KZhzeqnmQnVt4687rh5qR) | [Puzzle](https://open.spotify.com/album/5NGv5Gro2sAJhQuTGRQKX7) | 2:49 | 2023-12-14 |  |
 | [QUAND LA NUIT TOMBE](https://open.spotify.com/track/62FdpcF3fC2IAzQKhJ1saY) | [Marguerite Thiam](https://open.spotify.com/artist/0q8xRKBXrsCAzK5Ynq4U8B) | [QUAND LA NUIT TOMBE](https://open.spotify.com/album/769m5Tn6dsfqtV2Kqe611Y) | 3:31 | 2023-12-08 |  |
+| [Que des coeurs](https://open.spotify.com/track/7cfP2PmkCxA2HVBKNgAdOX) | [Charlie Faron](https://open.spotify.com/artist/7bHfn00UcuTafrQLESy8UE) | [Que des coeurs](https://open.spotify.com/album/3GY4dWvQs60WJMAaNbSJZw) | 2:49 | 2024-03-21 |  |
 | [R+V](https://open.spotify.com/track/5Spizxd5taKrL0tQgW8IuT) | [Eddy de Pretto](https://open.spotify.com/artist/7rFugkk9ZvVB1zXHg8h0rj) | [R+V](https://open.spotify.com/album/4NYERenRZSe7KCptxkD6ja) | 1:29 | 2023-08-24 | 2023-09-15 |
 | [Remia](https://open.spotify.com/track/6YGurDnYXwVgx3v76n9Ddt) | [Tessa B](https://open.spotify.com/artist/2zHuN04qyNnz890Y2R0Nkr) | [Remia](https://open.spotify.com/album/3rvOpnOkVmgqWcSNA6O1so) | 3:14 | 2023-10-05 | 2024-01-12 |
 | [Respire](https://open.spotify.com/track/7n2mcTJtSNgGRrAFEneYRz) | [Laura](https://open.spotify.com/artist/0F01Y7t6Vim2IbJ2tSQnxa) | [Respire](https://open.spotify.com/album/3troTVEc8IZUyYF6N85BJW) | 2:57 | 2023-07-27 | 2023-11-10 |
@@ -133,7 +137,7 @@
 | [sans mon soleil](https://open.spotify.com/track/7hUrPELY70yPmF4IVzM5Kw) | [Ferielle](https://open.spotify.com/artist/5mec3516HpwhOAlfoEmjKN) | [sans mon soleil](https://open.spotify.com/album/53pQvt5NAaAwQTwpXZtMQI) | 3:39 | 2024-02-29 |  |
 | [Sauvée par la nuit](https://open.spotify.com/track/09g6qL7DNxJNeGsr85ltPl) | [Clo](https://open.spotify.com/artist/6fCkytzB2pRVxkmn3awZ1h) | [Sauvée par la nuit](https://open.spotify.com/album/1oxBuZiPXUo6kEJhreMZmr) | 2:43 | 2023-07-27 | 2023-09-15 |
 | [Scoot](https://open.spotify.com/track/0BWHEpxLHY3SwRDUhh6R8a) | [Emma Peters](https://open.spotify.com/artist/6lY6kOVMG0mR07JTzU33o5) | [Scoot](https://open.spotify.com/album/2aQtwWXSu415RZ8zgl7ll7) | 2:57 | 2024-01-11 | 2024-03-01 |
-| [Siècle](https://open.spotify.com/track/0vX8rhIZdNyTEWx462w0jx) | [Distractions](https://open.spotify.com/artist/0tjYp5aomovObVn97GZjIN) | [Siècle](https://open.spotify.com/album/7Csl8SHuvVbY8ryd7SE4V4) | 3:16 | 2024-02-01 |  |
+| [Siècle](https://open.spotify.com/track/0vX8rhIZdNyTEWx462w0jx) | [Distractions](https://open.spotify.com/artist/0tjYp5aomovObVn97GZjIN) | [Siècle](https://open.spotify.com/album/7Csl8SHuvVbY8ryd7SE4V4) | 3:16 | 2024-02-01 | 2024-03-22 |
 | [Solo](https://open.spotify.com/track/3RPyV4RQ1Z0SJ4YTLcZzOY) | [Solal Roubine](https://open.spotify.com/artist/6QkOiXleQySLXeqp36LxHQ) | [Solo](https://open.spotify.com/album/3XvOiZG33vA8jpKavJlYK8) | 3:08 | 2024-02-08 |  |
 | [Souvenirs](https://open.spotify.com/track/6CLY3RUrhyQNVYV8J1dQIg) | [Adrian Ström](https://open.spotify.com/artist/6wx08H9LZLWjuj6gYySyzX), [Louisette](https://open.spotify.com/artist/3X0yWI2mffotaoZ6rvbFVT) | [Souvenirs](https://open.spotify.com/album/0H0JL5VvXBnu5Kg7j8jEnr) | 2:58 | 2023-11-16 | 2024-03-08 |
 | [Spoon](https://open.spotify.com/track/4lrByaHULAk1oFuKI6rOsA) | [Lancelot](https://open.spotify.com/artist/2h6HFDlZrXhfMDob23obTs) | [Spoon](https://open.spotify.com/album/4dFtbwST7q3v77LrcurwP8) | 2:59 | 2023-07-27 | 2024-03-08 |

@@ -1,12 +1,12 @@
 {
   "description": "La \ud83c\udf53da va pa la albercada \ud83e\udd42\ud83d\ude08",
-  "num_followers": 60317,
+  "num_followers": 60425,
   "original_name": "La Albercada",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzMDdiNDEzMjc3ZDk2OGY2YmVlZTBhZDcwNjRjYTVjNzVlNjhjMmU2",
+  "snapshot_id": "MCxmOTIxZThkNmRmNmVmMTEzNjU2MzMxYTJkZGI0YThjNjUyNTc4N2Nl",
   "tracks": [
     {
       "added_at": "2024-03-15 06:00:00",
@@ -551,42 +551,6 @@
     {
       "added_at": "2024-03-15 06:00:00",
       "album": {
-        "name": "Modo DND",
-        "url": "https://open.spotify.com/album/0HkgYr2M6KeK2dWgIJE6AC"
-      },
-      "artists": [
-        {
-          "name": "Xavi",
-          "url": "https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1"
-        },
-        {
-          "name": "Tony Aguirre",
-          "url": "https://open.spotify.com/artist/6twEaJ9RPRYiCmWapjG8xh"
-        }
-      ],
-      "duration_ms": 220298,
-      "name": "Modo DND",
-      "url": "https://open.spotify.com/track/1TEKUj8c5iyRNUUxo9SdSD"
-    },
-    {
-      "added_at": "2024-03-15 06:00:00",
-      "album": {
-        "name": "$AD BOYZ 4 LIFE II",
-        "url": "https://open.spotify.com/album/7Lv6VzSqIz1sAssK2JUskG"
-      },
-      "artists": [
-        {
-          "name": "Junior H",
-          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
-        }
-      ],
-      "duration_ms": 168677,
-      "name": "ROCKSTAR",
-      "url": "https://open.spotify.com/track/6YOfGIE6iFxC7G8OlGGvzW"
-    },
-    {
-      "added_at": "2024-03-15 06:00:00",
-      "album": {
         "name": "DISTORSI\u00d3N",
         "url": "https://open.spotify.com/album/5MmiVlJJBI7hSd5QQIlHUT"
       },
@@ -607,6 +571,42 @@
       "duration_ms": 196832,
       "name": "Elvira",
       "url": "https://open.spotify.com/track/1xgWArLVFD1AKsLzftZYc2"
+    },
+    {
+      "added_at": "2024-03-15 06:00:00",
+      "album": {
+        "name": "$AD BOYZ 4 LIFE II",
+        "url": "https://open.spotify.com/album/7Lv6VzSqIz1sAssK2JUskG"
+      },
+      "artists": [
+        {
+          "name": "Junior H",
+          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
+        }
+      ],
+      "duration_ms": 168677,
+      "name": "ROCKSTAR",
+      "url": "https://open.spotify.com/track/6YOfGIE6iFxC7G8OlGGvzW"
+    },
+    {
+      "added_at": "2024-03-15 06:00:00",
+      "album": {
+        "name": "Modo DND",
+        "url": "https://open.spotify.com/album/0HkgYr2M6KeK2dWgIJE6AC"
+      },
+      "artists": [
+        {
+          "name": "Xavi",
+          "url": "https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1"
+        },
+        {
+          "name": "Tony Aguirre",
+          "url": "https://open.spotify.com/artist/6twEaJ9RPRYiCmWapjG8xh"
+        }
+      ],
+      "duration_ms": 220298,
+      "name": "Modo DND",
+      "url": "https://open.spotify.com/track/1TEKUj8c5iyRNUUxo9SdSD"
     },
     {
       "added_at": "2024-03-15 06:00:00",
@@ -639,6 +639,26 @@
       "duration_ms": 164386,
       "name": "Lo Tienes Todo",
       "url": "https://open.spotify.com/track/29vIEdxgMT9H1fnBMecWjA"
+    },
+    {
+      "added_at": "2024-03-15 06:00:00",
+      "album": {
+        "name": "Un Verano Sin Ti",
+        "url": "https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        },
+        {
+          "name": "Bomba Est\u00e9reo",
+          "url": "https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2"
+        }
+      ],
+      "duration_ms": 258298,
+      "name": "Ojitos Lindos",
+      "url": "https://open.spotify.com/track/3k3NWokhRRkEPhCzPmV8TW"
     },
     {
       "added_at": "2024-03-15 06:00:00",
@@ -683,26 +703,6 @@
       "duration_ms": 194769,
       "name": "ELOVRGA",
       "url": "https://open.spotify.com/track/2TJKY0WSFufZOzbRNgl6zE"
-    },
-    {
-      "added_at": "2024-03-15 06:00:00",
-      "album": {
-        "name": "Un Verano Sin Ti",
-        "url": "https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5"
-      },
-      "artists": [
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        },
-        {
-          "name": "Bomba Est\u00e9reo",
-          "url": "https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2"
-        }
-      ],
-      "duration_ms": 258298,
-      "name": "Ojitos Lindos",
-      "url": "https://open.spotify.com/track/3k3NWokhRRkEPhCzPmV8TW"
     },
     {
       "added_at": "2024-03-15 06:00:00",
@@ -783,18 +783,18 @@
     {
       "added_at": "2024-03-15 06:00:00",
       "album": {
-        "name": "A Puro Dolor",
-        "url": "https://open.spotify.com/album/54bkVDCc7dG3QpIvFePi4a"
+        "name": "Un Verano Sin Ti",
+        "url": "https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5"
       },
       "artists": [
         {
-          "name": "Gabito Ballesteros",
-          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
         }
       ],
-      "duration_ms": 168086,
-      "name": "A Puro Dolor",
-      "url": "https://open.spotify.com/track/1rXxK89X0XGpIdTB6CwiFu"
+      "duration_ms": 213061,
+      "name": "Efecto",
+      "url": "https://open.spotify.com/track/5Eax0qFko2dh7Rl2lYs3bx"
     },
     {
       "added_at": "2024-03-15 06:00:00",
@@ -835,18 +835,18 @@
     {
       "added_at": "2024-03-15 06:00:00",
       "album": {
-        "name": "Un Verano Sin Ti",
-        "url": "https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5"
+        "name": "A Puro Dolor",
+        "url": "https://open.spotify.com/album/54bkVDCc7dG3QpIvFePi4a"
       },
       "artists": [
         {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+          "name": "Gabito Ballesteros",
+          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
         }
       ],
-      "duration_ms": 213061,
-      "name": "Efecto",
-      "url": "https://open.spotify.com/track/5Eax0qFko2dh7Rl2lYs3bx"
+      "duration_ms": 168086,
+      "name": "A Puro Dolor",
+      "url": "https://open.spotify.com/track/1rXxK89X0XGpIdTB6CwiFu"
     },
     {
       "added_at": "2024-03-15 06:00:00",
@@ -1067,6 +1067,22 @@
     {
       "added_at": "2024-03-15 06:00:00",
       "album": {
+        "name": "El Aferrado",
+        "url": "https://open.spotify.com/album/50JOxUvIxX7M3glXWM2Ubi"
+      },
+      "artists": [
+        {
+          "name": "Juli\u00f3n \u00c1lvarez y su Norte\u00f1o Banda",
+          "url": "https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC"
+        }
+      ],
+      "duration_ms": 161906,
+      "name": "Pong\u00e1monos De Acuerdo",
+      "url": "https://open.spotify.com/track/1OZpgVRQKkxcoeEocqTMRZ"
+    },
+    {
+      "added_at": "2024-03-15 06:00:00",
+      "album": {
         "name": "La Suma",
         "url": "https://open.spotify.com/album/6cpIPgg4Bv4Oc29R7uCqOR"
       },
@@ -1087,18 +1103,18 @@
     {
       "added_at": "2024-03-15 06:00:00",
       "album": {
-        "name": "El Aferrado",
-        "url": "https://open.spotify.com/album/50JOxUvIxX7M3glXWM2Ubi"
+        "name": "Kalashnikov",
+        "url": "https://open.spotify.com/album/1tK3FjbSU0jEurD4lcWLPY"
       },
       "artists": [
         {
-          "name": "Juli\u00f3n \u00c1lvarez y su Norte\u00f1o Banda",
-          "url": "https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC"
+          "name": "Clave Especial",
+          "url": "https://open.spotify.com/artist/0NlNru2YcUz6RbnpYGQz26"
         }
       ],
-      "duration_ms": 161906,
-      "name": "Pong\u00e1monos De Acuerdo",
-      "url": "https://open.spotify.com/track/1OZpgVRQKkxcoeEocqTMRZ"
+      "duration_ms": 129500,
+      "name": "Kalashnikov",
+      "url": "https://open.spotify.com/track/3zFLlF1SvWCt9oZUVPZehW"
     },
     {
       "added_at": "2024-03-15 06:00:00",
@@ -1127,22 +1143,6 @@
       "duration_ms": 181137,
       "name": "Linea Del Perreo",
       "url": "https://open.spotify.com/track/1Aa54YEL20kiDPI6f4XGdS"
-    },
-    {
-      "added_at": "2024-03-15 06:00:00",
-      "album": {
-        "name": "Kalashnikov",
-        "url": "https://open.spotify.com/album/1tK3FjbSU0jEurD4lcWLPY"
-      },
-      "artists": [
-        {
-          "name": "Clave Especial",
-          "url": "https://open.spotify.com/artist/0NlNru2YcUz6RbnpYGQz26"
-        }
-      ],
-      "duration_ms": 129500,
-      "name": "Kalashnikov",
-      "url": "https://open.spotify.com/track/3zFLlF1SvWCt9oZUVPZehW"
     },
     {
       "added_at": "2024-03-15 06:00:00",
@@ -1523,6 +1523,22 @@
     {
       "added_at": "2024-03-15 06:00:00",
       "album": {
+        "name": "Vamos Bien",
+        "url": "https://open.spotify.com/album/4CK4qIkDBB1Knqwzkm12RZ"
+      },
+      "artists": [
+        {
+          "name": "Calibre 50",
+          "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
+        }
+      ],
+      "duration_ms": 156266,
+      "name": "A La Antig\u00fcita",
+      "url": "https://open.spotify.com/track/798ahLNEcoFER7Vywg1FMT"
+    },
+    {
+      "added_at": "2024-03-15 06:00:00",
+      "album": {
         "name": "DISTORSI\u00d3N",
         "url": "https://open.spotify.com/album/5MmiVlJJBI7hSd5QQIlHUT"
       },
@@ -1539,18 +1555,18 @@
     {
       "added_at": "2024-03-15 06:00:00",
       "album": {
-        "name": "Vamos Bien",
-        "url": "https://open.spotify.com/album/4CK4qIkDBB1Knqwzkm12RZ"
+        "name": "Me Reh\u00faso",
+        "url": "https://open.spotify.com/album/4RrvIEhnaHKpFxsjXc4D7d"
       },
       "artists": [
         {
-          "name": "Calibre 50",
-          "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
+          "name": "Danny Ocean",
+          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
         }
       ],
-      "duration_ms": 156266,
-      "name": "A La Antig\u00fcita",
-      "url": "https://open.spotify.com/track/798ahLNEcoFER7Vywg1FMT"
+      "duration_ms": 205714,
+      "name": "Me Reh\u00faso",
+      "url": "https://open.spotify.com/track/6De0lHrwBfPfrhorm9q1Xl"
     },
     {
       "added_at": "2024-03-15 06:00:00",
@@ -1575,22 +1591,6 @@
       "duration_ms": 188573,
       "name": "B de Bellako",
       "url": "https://open.spotify.com/track/2SqUfIOD0VDJirHTVIdn4F"
-    },
-    {
-      "added_at": "2024-03-15 06:00:00",
-      "album": {
-        "name": "Me Reh\u00faso",
-        "url": "https://open.spotify.com/album/4RrvIEhnaHKpFxsjXc4D7d"
-      },
-      "artists": [
-        {
-          "name": "Danny Ocean",
-          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
-        }
-      ],
-      "duration_ms": 205714,
-      "name": "Me Reh\u00faso",
-      "url": "https://open.spotify.com/track/6De0lHrwBfPfrhorm9q1Xl"
     },
     {
       "added_at": "2024-03-15 06:00:00",
@@ -2051,6 +2051,22 @@
     {
       "added_at": "2024-03-15 06:00:00",
       "album": {
+        "name": "Amiri",
+        "url": "https://open.spotify.com/album/4GCIJszRzffxDM8frcJzrI"
+      },
+      "artists": [
+        {
+          "name": "Polo Gonzalez",
+          "url": "https://open.spotify.com/artist/0OpXeanba0vYnyoft00BP6"
+        }
+      ],
+      "duration_ms": 211904,
+      "name": "Amiri",
+      "url": "https://open.spotify.com/track/3Ih990MdWvxRHhdOBZd4gK"
+    },
+    {
+      "added_at": "2024-03-15 06:00:00",
+      "album": {
         "name": "100 % Mexicano",
         "url": "https://open.spotify.com/album/1mlBiMy6nLtiqMsFdjD73K"
       },
@@ -2099,22 +2115,6 @@
       "duration_ms": 212563,
       "name": "Pudiste Pero No Quisiste",
       "url": "https://open.spotify.com/track/4GW1xy7yINUnuEQHaETaVC"
-    },
-    {
-      "added_at": "2024-03-15 06:00:00",
-      "album": {
-        "name": "Amiri",
-        "url": "https://open.spotify.com/album/4GCIJszRzffxDM8frcJzrI"
-      },
-      "artists": [
-        {
-          "name": "Polo Gonzalez",
-          "url": "https://open.spotify.com/artist/0OpXeanba0vYnyoft00BP6"
-        }
-      ],
-      "duration_ms": 211904,
-      "name": "Amiri",
-      "url": "https://open.spotify.com/track/3Ih990MdWvxRHhdOBZd4gK"
     },
     {
       "added_at": "2024-03-15 06:00:00",
@@ -2183,26 +2183,6 @@
       "duration_ms": 191353,
       "name": "Yo Las Pongo",
       "url": "https://open.spotify.com/track/5LPD5HDYyxKdGHvHQ1kef9"
-    },
-    {
-      "added_at": "2024-03-15 06:00:00",
-      "album": {
-        "name": "Suspiros (En Vivo)",
-        "url": "https://open.spotify.com/album/6D0BGICGkjsWX53GRSXivj"
-      },
-      "artists": [
-        {
-          "name": "Grupo Firme",
-          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
-        },
-        {
-          "name": "El Coyote Y Su Banda Tierra Santa",
-          "url": "https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT"
-        }
-      ],
-      "duration_ms": 185642,
-      "name": "Suspiros (En Vivo)",
-      "url": "https://open.spotify.com/track/4btL6eSm9fV8a6Ox4NrVNr"
     },
     {
       "added_at": "2024-03-15 06:00:00",
@@ -2287,6 +2267,26 @@
       "duration_ms": 182559,
       "name": "Sangoloteadito",
       "url": "https://open.spotify.com/track/6X0EfHtuMNjZXFma8x7uv1"
+    },
+    {
+      "added_at": "2024-03-15 06:00:00",
+      "album": {
+        "name": "Suspiros (En Vivo)",
+        "url": "https://open.spotify.com/album/6D0BGICGkjsWX53GRSXivj"
+      },
+      "artists": [
+        {
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+        },
+        {
+          "name": "El Coyote Y Su Banda Tierra Santa",
+          "url": "https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT"
+        }
+      ],
+      "duration_ms": 185642,
+      "name": "Suspiros (En Vivo)",
+      "url": "https://open.spotify.com/track/4btL6eSm9fV8a6Ox4NrVNr"
     },
     {
       "added_at": "2024-03-15 06:00:00",

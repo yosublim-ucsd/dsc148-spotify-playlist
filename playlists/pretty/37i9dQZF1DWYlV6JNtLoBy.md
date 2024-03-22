@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYlV6JNtLoBy.md) - [plain]
 
 > Gospel music from across East Africa
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,787 likes - 50 songs - 3 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,793 likes - 50 songs - 3 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,8 +26,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYlV6JNtLoBy.md) - [plain]
 | 16 | [Bless God](https://open.spotify.com/track/4nhLPA3DAMEOj92U5i2cOk) | [Brooke Ligertwood](https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC) | [EIGHT](https://open.spotify.com/album/0yGuCkWWoXxsPK09agGQQu) | 4:52 |
 | 17 | [MIRACLE CHILD](https://open.spotify.com/track/5v5njFL7J6kb2ncCsgXszl) | [Brandon Lake](https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v) | [COAT OF MANY COLORS](https://open.spotify.com/album/44dncCBiOODhAa9L0UCvoE) | 4:03 |
 | 18 | [Jehovah \(feat\. Chris Brown\)](https://open.spotify.com/track/4moUecMb5PN5kDTQANggc3) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix), [Chris Brown](https://open.spotify.com/artist/03NN8FAKofZU6phsfHLKPw) | [CAN YOU IMAGINE?](https://open.spotify.com/album/58ufb71YaU1PetJKQGqSd2) | 5:54 |
-| 19 | [For My Good \(feat\. Todd Galberth\)](https://open.spotify.com/track/6QBOGJN18Sait5GtGJrW6k) | [Maverick City Music](https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV), [Naomi Raine](https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD), [Chandler Moore](https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk), [Todd Galberth](https://open.spotify.com/artist/4EPtawsSClG1agy1MyVkMW) | [The Maverick Way Complete](https://open.spotify.com/album/3R11N2u1LlPZmraUEhAI54) | 8:18 |
-| 20 | [Grave Robber](https://open.spotify.com/track/1AuNDsNLc7b3tApnlyaGdy) | [Crowder](https://open.spotify.com/artist/39xmI59WrIMyyJjSDq6WCu) | [Grave Robber](https://open.spotify.com/album/0wB9OS3MOqEHXAfxEbk5Px) | 2:50 |
+| 19 | [Grave Robber](https://open.spotify.com/track/1AuNDsNLc7b3tApnlyaGdy) | [Crowder](https://open.spotify.com/artist/39xmI59WrIMyyJjSDq6WCu) | [Grave Robber](https://open.spotify.com/album/0wB9OS3MOqEHXAfxEbk5Px) | 2:50 |
+| 20 | [For My Good \(feat\. Todd Galberth\)](https://open.spotify.com/track/6QBOGJN18Sait5GtGJrW6k) | [Maverick City Music](https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV), [Naomi Raine](https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD), [Chandler Moore](https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk), [Todd Galberth](https://open.spotify.com/artist/4EPtawsSClG1agy1MyVkMW) | [The Maverick Way Complete](https://open.spotify.com/album/3R11N2u1LlPZmraUEhAI54) | 8:18 |
 | 21 | [Miracle No Dey Tire Jesus](https://open.spotify.com/track/4BdSQteqYNDGU8oD487KEU) | [Moses Bliss](https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM), [Festizie](https://open.spotify.com/artist/2uimm8D8LQw4mlFRGWPLQu), [Chizie](https://open.spotify.com/artist/0lRLfkXoAdbBLSfokQH9xE) | [Miracle No Dey Tire Jesus](https://open.spotify.com/album/6aA6U5p9m8dREYkv0K8tTT) | 2:46 |
 | 22 | [Don't Fight Alone](https://open.spotify.com/track/1nBs6CyPsd9THOxqsuLt0M) | [Jon Reddick](https://open.spotify.com/artist/7H0gjeKVq6IPXcAUZzzhD2) | [Don't Fight Alone](https://open.spotify.com/album/5ssaO7LgEOgKuuKRpm548L) | 4:00 |
 | 23 | [Miracles](https://open.spotify.com/track/7ofj9JjyUFJ5loeIM9cijS) | [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc), [Lecrae](https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW) | [His Glory Alone II](https://open.spotify.com/album/2GDH8TKAkCxM2IBZPGEUcQ) | 2:41 |
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYlV6JNtLoBy.md) - [plain]
 | 43 | [Fall On Me \(feat\. Carly Pearce\)](https://open.spotify.com/track/0mA4Uq9WRl32K5C39jAFUF) | [NEEDTOBREATHE](https://open.spotify.com/artist/610EjgFatGvVPtib97jQ8G), [Carly Pearce](https://open.spotify.com/artist/4sIl4BTo9l9KqEi0Y3RE72) | [CAVES](https://open.spotify.com/album/1Rtopf52bLtF0kdxQsL8TL) | 4:24 |
 | 44 | [Trust In God \- Radio Version](https://open.spotify.com/track/7mqEjKUiNZUfsDD9QQHqaw) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix) | [Trust In God \(Radio Version\)](https://open.spotify.com/album/6IW9jcM4HMToKGO1aE8dbv) | 4:03 |
 | 45 | [In Christ Alone](https://open.spotify.com/track/6oS15LyQtAwYsRL7usnT2M) | [Natalie Grant](https://open.spotify.com/artist/6KVnMm856M8CHHBCw53Ihh) | [Seasons](https://open.spotify.com/album/0N7E7ssTnuxjKorNihxEXe) | 4:08 |
-| 46 | [Let The People Sing \- Live](https://open.spotify.com/track/4qqUXcqW6EgN4qDsmozSlY) | [Jesus Culture](https://open.spotify.com/artist/0Onvkz1Nbs4wHXXUwOIGk8), [Chris McClarney](https://open.spotify.com/artist/2Zbb4oqupGY4mmskwlygCp) | [Why Not Right Now? \(Live\)](https://open.spotify.com/album/5IMEDpmKoYS6tcYLiUogm0) | 3:59 |
-| 47 | [Made For Heaven](https://open.spotify.com/track/3Wwcd5hYKCLpocRJfZVdbQ) | [CAIN](https://open.spotify.com/artist/2XDaX0gxzE4eCXjPPAREEq) | [Jesus Music](https://open.spotify.com/album/5KC7lsKPZZs9d85B7kEGba) | 3:32 |
+| 46 | [Made For Heaven](https://open.spotify.com/track/3Wwcd5hYKCLpocRJfZVdbQ) | [CAIN](https://open.spotify.com/artist/2XDaX0gxzE4eCXjPPAREEq) | [Jesus Music](https://open.spotify.com/album/5KC7lsKPZZs9d85B7kEGba) | 3:32 |
+| 47 | [Let The People Sing \- Live](https://open.spotify.com/track/4qqUXcqW6EgN4qDsmozSlY) | [Jesus Culture](https://open.spotify.com/artist/0Onvkz1Nbs4wHXXUwOIGk8), [Chris McClarney](https://open.spotify.com/artist/2Zbb4oqupGY4mmskwlygCp) | [Why Not Right Now? \(Live\)](https://open.spotify.com/album/5IMEDpmKoYS6tcYLiUogm0) | 3:59 |
 | 48 | [No Turning Back](https://open.spotify.com/track/1HvmrH54shSA0a1bwK91R0) | [Steffany Gretzinger](https://open.spotify.com/artist/2akNRvGNB400IDDUMr1PHW), [Leeland](https://open.spotify.com/artist/6j1fmLreVuAay7k6Gudfa2) | [The Narrow Way](https://open.spotify.com/album/5dnEn1RrHFx1tjG6ARSdw0) | 6:30 |
 | 49 | [Nina Siri](https://open.spotify.com/track/7wcBcpJnk3FkNvspFJN6SE) | [Israel Mbonyi](https://open.spotify.com/artist/6E6bGyrGJM33jnVivvn3kH) | [Umusirikare](https://open.spotify.com/album/2gmosA09uXbSu5MvBBswLh) | 11:10 |
 | 50 | [Sing Hallelujah \(with Natalie Grant\) \- Live](https://open.spotify.com/track/0LPrib5LGVzGhnrM6J8kl9) | [Naomi Raine](https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD), [Natalie Grant](https://open.spotify.com/artist/6KVnMm856M8CHHBCw53Ihh) | [Cover The Earth \(Live In New York\)](https://open.spotify.com/album/0n1rSUSza9mlKU1g6xD9l9) | 8:24 |
 
-Snapshot ID: `MCw4OTMwYTA4ZTgwNGU1ZTJmNDdkMzNlODMyZTQ2YTRiMjYwNGE2ZWVj`
+Snapshot ID: `MCw1OTA3YzY5MjI1OTNhYWY1ZjkzZmY3YTMwNTA3ZDFjMjk4ZWEwY2Ji`

@@ -4,7 +4,7 @@
 
 > Relax and unwind with gentle guitar covers.
 
-273 songs - 13 hr 41 min
+274 songs - 13 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -206,7 +206,7 @@
 | [Still Crazy After All These Years](https://open.spotify.com/track/3PBOZgYsCoNd4Tc3lm4w6l) | [Lightstorm](https://open.spotify.com/artist/3A3c5aBd5quZVYD2WwVSh8) | [Still Crazy After All These Years](https://open.spotify.com/album/3LLkSZEegIJKeOEq6gpiu3) | 3:02 | 2022-12-02 | 2023-11-17 |
 | [Stolen Dance](https://open.spotify.com/track/0QxMBkaPIwlmR5LNFYGMan) | [Junior Carrol](https://open.spotify.com/artist/2Scv3DFwZ724kkR09uNKbv) | [Stolen Dance](https://open.spotify.com/album/7o2LbIxrLKm81JnPSmtFkw) | 2:50 | 2023-03-17 |  |
 | [Stuck with you](https://open.spotify.com/track/3DxwjhRknMbHmPcS46zKrC) | [Floritatura](https://open.spotify.com/artist/5nLzQ8oEKZ4BK73olozSSc) | [2](https://open.spotify.com/album/3coti4dPLbCMnZJJE2SrvV) | 3:46 | 2022-05-20 |  |
-| [Summer Of 69](https://open.spotify.com/track/6qKfPJbP73WNOky10iESVS) | [River May](https://open.spotify.com/artist/6oTUPROiaMgKm92kbxRXyR) | [Summer Of 69](https://open.spotify.com/album/0gMvh3IrLGFKdd4e7iKyrc) | 2:00 | 2023-05-05 |  |
+| [Summer Of 69](https://open.spotify.com/track/6qKfPJbP73WNOky10iESVS) | [River May](https://open.spotify.com/artist/6oTUPROiaMgKm92kbxRXyR) | [Summer Of 69](https://open.spotify.com/album/0gMvh3IrLGFKdd4e7iKyrc) | 2:00 | 2023-05-05 | 2024-03-22 |
 | [Summertime](https://open.spotify.com/track/0kucUUkDimdEREo8hsXOng) | [Gil Cohen](https://open.spotify.com/artist/3RIFM8s5jyChTKVnP0ZeDe) | [Summertime](https://open.spotify.com/album/0XtsrrGHxCK1UTMhdL4x7A) | 3:47 | 2022-05-20 | 2023-05-05 |
 | [Super Trouper](https://open.spotify.com/track/4rzjaiJ7GXegXPyi6XKiSJ) | [Andreas Dalvik](https://open.spotify.com/artist/1g7nSoa5dEBlJr2UD0CFB2) | [Super Trouper](https://open.spotify.com/album/2jv28w0cx2bpaq9PFJibtG) | 4:03 | 2023-03-17 |  |
 | [Sweather Weather](https://open.spotify.com/track/0sM1RkU751ViUxIAG9Qmll) | [Kit Sutton](https://open.spotify.com/artist/0mqyygSn1RlqnfLsUqOjCh) | [Sweather Weather](https://open.spotify.com/album/2aGfO5upajmF21AQ3RCwoH) | 2:31 | 2022-12-02 | 2023-06-03 |
@@ -278,6 +278,7 @@
 | [You're The Inspiration](https://open.spotify.com/track/0VDgKAQVZC9Hx6OKvgYaHG) | [Abel Davies](https://open.spotify.com/artist/3Hd9jQTGq8jm9lMDSnWkvn) | [You're The Inspiration](https://open.spotify.com/album/4PTyfdexQ5OAvTkdaE2jqU) | 2:20 | 2022-12-02 | 2023-05-05 |
 | [You're The Inspiration](https://open.spotify.com/track/0EzDeUITUHCBNdaYn8w90u) | [Filip Benedetto](https://open.spotify.com/artist/1x6GlAVo5qvLhm45bgtlp7) | [You're The Inspiration](https://open.spotify.com/album/4UAcuTJDr9h36ufNW53Age) | 4:16 | 2022-12-02 |  |
 | [You've Got A Friend](https://open.spotify.com/track/3Y9IYPXXKPwVx4j6SEWdgt) | [Billy Travers](https://open.spotify.com/artist/6uH72BDcGwtCjFlxCRlb8v) | [You've Got a Friend](https://open.spotify.com/album/0alPhr1uNBkVeDL3YWSAaR) | 4:20 | 2022-06-15 | 2023-04-15 |
+| [You've Got a Friend](https://open.spotify.com/track/6CQpKH4wSPNb3SF2fumzaz) | [Diego de Frigiliana](https://open.spotify.com/artist/0ZA7bWb2UEatiixLiriYE7) | [You've Got a Friend](https://open.spotify.com/album/3AUhTRgBsH1qsxAF9rcBLR) | 3:53 | 2024-03-22 |  |
 | [Your Song](https://open.spotify.com/track/0ZSFjbcjmMccbJbWouNRxR) | [Tobias Berntsson](https://open.spotify.com/artist/1ATcda1cBf3inR0K5yqlU6) | [Your Song](https://open.spotify.com/album/6sXEv9gm3KucaAjT8FIvif) | 3:54 | 2022-05-20 |  |
 | [You´ll Be In My heart](https://open.spotify.com/track/0SV5qCggYI52A7xPVNUeD5) | [Larry Eagler](https://open.spotify.com/artist/6BAFOyxrRfvSvjpcNxp3rs) | [You´ll Be In My heart](https://open.spotify.com/album/36q4eAeAtx39HyVxBwONzU) | 4:00 | 2022-09-30 | 2023-06-03 |
 | [Ziggy Stardust](https://open.spotify.com/track/7s20sxFe7br4GhPUBgCERZ) | [Samuel Kahn](https://open.spotify.com/artist/2kgaihMoGZ9AeL17aug2Fb) | [Ziggy Stardust](https://open.spotify.com/album/5YwgKHL6IbgAcg91qAqE1w) | 3:45 | 2023-05-05 |  |

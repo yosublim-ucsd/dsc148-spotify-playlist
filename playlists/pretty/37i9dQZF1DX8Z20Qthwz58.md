@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Z20Qthwz58.md) - [plain]
 
 > Enjoy mysterious and dreamy music as if walking in a dream\. \(꿈 속을 거닐듯 신비롭고 몽환적인 음악들을 즐겨보세요.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 75,441 likes - 50 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 75,529 likes - 50 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,16 +25,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Z20Qthwz58.md) - [plain]
 | 15 | [Rock With You \- Spotify Singles](https://open.spotify.com/track/1hncbzqfhChm8PS0UeoVY6) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI), [KATIE](https://open.spotify.com/artist/2nDC4PH8XE1gHeeAxVLXRO), [WOOGIE](https://open.spotify.com/artist/7C0lSOS41UnTbnF7bMSEWN) | [Spotify Singles](https://open.spotify.com/album/4GZRmEX6O0phLnNuH6xBR5) | 3:48 |
 | 16 | [Butterfly](https://open.spotify.com/track/6wNKKoUQfLPmch7cqSFytV) | [LOONA](https://open.spotify.com/artist/52zMTJCKluDlFwMQWmccY7) | [\[X X\]](https://open.spotify.com/album/49CwarPH45v2tFRHhnjtPf) | 3:57 |
 | 17 | [KISS ME](https://open.spotify.com/track/02K01fxmK5qQrwWSHGbb9d) | [DPR LIVE](https://open.spotify.com/artist/0siBQaURCli5wn2lqv8WZg) | [IS ANYBODY OUT THERE?](https://open.spotify.com/album/6j8x8zBChjzCn0FD7KJB7p) | 4:38 |
-| 18 | [Dance](https://open.spotify.com/track/3rQmTAyMDDZ73rMyhLkn98) | [offonoff](https://open.spotify.com/artist/0dTj3SqwE8kPnCzyzvYzhT) | [boy.](https://open.spotify.com/album/4crHesv3PHfci2PBJ6m9sj) | 3:39 |
-| 19 | [긴 밤 \(feat\. GIRIBOY\)](https://open.spotify.com/track/45ryK5kAHyUxV1C73fdur5) | [Seori](https://open.spotify.com/artist/2bWTIIQP9zaVc55RaMGu7e), [GIRIBOY](https://open.spotify.com/artist/2MtHuR0W2idZdF7x4wddqq) | [긴 밤 \(feat\. Giriboy\)](https://open.spotify.com/album/3CaluwPodNVRAnYCtZW3YA) | 3:30 |
+| 18 | [긴 밤 \(feat\. GIRIBOY\)](https://open.spotify.com/track/45ryK5kAHyUxV1C73fdur5) | [Seori](https://open.spotify.com/artist/2bWTIIQP9zaVc55RaMGu7e), [GIRIBOY](https://open.spotify.com/artist/2MtHuR0W2idZdF7x4wddqq) | [긴 밤 \(feat\. Giriboy\)](https://open.spotify.com/album/3CaluwPodNVRAnYCtZW3YA) | 3:30 |
+| 19 | [Dance](https://open.spotify.com/track/3rQmTAyMDDZ73rMyhLkn98) | [offonoff](https://open.spotify.com/artist/0dTj3SqwE8kPnCzyzvYzhT) | [boy.](https://open.spotify.com/album/4crHesv3PHfci2PBJ6m9sj) | 3:39 |
 | 20 | [Miss Understood](https://open.spotify.com/track/7hu1jbKiv9hHkjeeZ1L1TB) | [DPR IAN](https://open.spotify.com/artist/2o8gT0fQmFxGNbowbdgeZe) | [Moodswings In To Order](https://open.spotify.com/album/7vp2iMEQzhNX4sEIUbHpiJ) | 3:20 |
 | 21 | [DREAM LIKE ME](https://open.spotify.com/track/3PyWBHnx6G5uUpeSjbmp6m) | [Crowd Lu](https://open.spotify.com/artist/2JBUyLiFvpFPWdZGqIGYLD), [The Black Skirts](https://open.spotify.com/artist/6WeDO4GynFmK4OxwkBzMW8) | [DREAM LIKE ME](https://open.spotify.com/album/2H6wEzaX0tu67DTAXjRDEo) | 4:41 |
 | 22 | [want YOU](https://open.spotify.com/track/2KViIi8kIhz56yL1qIUI1w) | [Tabber](https://open.spotify.com/artist/4CYjITN8Au3K5CWFeex7fU) | [want YOU](https://open.spotify.com/album/5RwgOfzXDZePkwPRPHXnp1) | 2:34 |
 | 23 | [Let off steam](https://open.spotify.com/track/7KUb5GsTcXfpG0phkbL2mR) | [Leellamarz](https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0), [YANGHONGWON](https://open.spotify.com/artist/1SsVqqC31h54Hg08g7uQhM) | [L&B](https://open.spotify.com/album/5tXw2luJlRFJ4vqNZkzS6u) | 3:39 |
 | 24 | [This Night \(feat\. Blue.D, Jhnovr\)](https://open.spotify.com/track/626C6JMdKevCTv10pLeHJf) | [GroovyRoom](https://open.spotify.com/artist/29HqjVbJr3vsc2l6BTI4eB), [Blue.D](https://open.spotify.com/artist/0rK0ZPLX4fKnFSbqs6gYfY), [Jhnovr](https://open.spotify.com/artist/4GqXWudNdgIhuDnYHFnQez) | [THIS NIGHT](https://open.spotify.com/album/4XPkeXge5bJLJsGCpJ1nVi) | 3:35 |
-| 25 | [True Love \(Feat\. 정선혜 of YOUNG POSSE\)](https://open.spotify.com/track/7gewLHcVTy1TrlwqSpuTJF) | [BOBBY](https://open.spotify.com/artist/7ieMQQDR0bdBPz572mtxwS), [OVAN](https://open.spotify.com/artist/4FuRHFtCeoYaeeVDKyyvbS), [SUNHYE](https://open.spotify.com/artist/1GMDwTLcNK4jorH2ydnVl7) | [True Love](https://open.spotify.com/album/6uXVXoOAhESobnbQqoTpAI) | 2:15 |
-| 26 | [Fairy Tale](https://open.spotify.com/track/02bKxwW9XY9LElj0TqDK6S) | [Seori](https://open.spotify.com/artist/2bWTIIQP9zaVc55RaMGu7e) | [?depacse ohw](https://open.spotify.com/album/0srUbfZOMUBwUitQGQeUca) | 3:37 |
-| 27 | [Photograph](https://open.spotify.com/track/0PkpRtJqrwuXhbdtJuQm7E) | [offonoff](https://open.spotify.com/artist/0dTj3SqwE8kPnCzyzvYzhT) | [boy.](https://open.spotify.com/album/4crHesv3PHfci2PBJ6m9sj) | 3:59 |
+| 25 | [Photograph](https://open.spotify.com/track/0PkpRtJqrwuXhbdtJuQm7E) | [offonoff](https://open.spotify.com/artist/0dTj3SqwE8kPnCzyzvYzhT) | [boy.](https://open.spotify.com/album/4crHesv3PHfci2PBJ6m9sj) | 3:59 |
+| 26 | [True Love \(Feat\. 정선혜 of YOUNG POSSE\)](https://open.spotify.com/track/7gewLHcVTy1TrlwqSpuTJF) | [BOBBY](https://open.spotify.com/artist/7ieMQQDR0bdBPz572mtxwS), [OVAN](https://open.spotify.com/artist/4FuRHFtCeoYaeeVDKyyvbS), [SUNHYE](https://open.spotify.com/artist/1GMDwTLcNK4jorH2ydnVl7) | [True Love](https://open.spotify.com/album/6uXVXoOAhESobnbQqoTpAI) | 2:15 |
+| 27 | [Fairy Tale](https://open.spotify.com/track/02bKxwW9XY9LElj0TqDK6S) | [Seori](https://open.spotify.com/artist/2bWTIIQP9zaVc55RaMGu7e) | [?depacse ohw](https://open.spotify.com/album/0srUbfZOMUBwUitQGQeUca) | 3:37 |
 | 28 | [AM PM \(feat\. Whee In\) \- Prod\. Gray](https://open.spotify.com/track/1J1hPnwTw80wpVWRv8yuxj) | [JAY B](https://open.spotify.com/artist/3IjHX8KZKoeq3X4QgXxqbT), [Whee In](https://open.spotify.com/artist/0BqRGrwqndrtNkojXiqIzL) | [SOMO: FUME](https://open.spotify.com/album/2T8iLSKPraJotM2uXFKW4F) | 3:37 |
 | 29 | [I Fxxking Love You](https://open.spotify.com/track/0amQL57HiAFWSO6Yz64tD1) | [Colde](https://open.spotify.com/artist/3VQDqjQ4wJyw8PzpGdlZpB) | [Love Part 1](https://open.spotify.com/album/5oA67QC0FjqXTSGy2kCSJp) | 4:03 |
 | 30 | [starstarstar](https://open.spotify.com/track/2rkLmJD9UfISCouYBukvCP) | [dosii](https://open.spotify.com/artist/41lcf5k3PkUdxupYLkcjCd) | [dosii](https://open.spotify.com/album/0nrhKqYSxc2gwoMFzTckU6) | 3:38 |
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Z20Qthwz58.md) - [plain]
 | 35 | [Shutdown \(Feat\. Seori\)](https://open.spotify.com/track/3mjSO8tQD78ht78SlFMKd1) | [Moon Byul](https://open.spotify.com/artist/1eTft3tXynrKdo6XD7QHLL), [Seori](https://open.spotify.com/artist/2bWTIIQP9zaVc55RaMGu7e) | [6equence](https://open.spotify.com/album/0SXzCRUFSNGBG1S1lqvzb1) | 3:21 |
 | 36 | [WHY YOU?](https://open.spotify.com/track/76ikZIYciIVbTPfNLTAAwX) | [Sik\-K](https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn) | [WHY YOU?](https://open.spotify.com/album/29OG07EpYadviilDMVEgd4) | 2:55 |
 | 37 | [Flicker \(Feat\. Car, the garden\)](https://open.spotify.com/track/1llrs3s4loOC4eMaV1yc1x) | [youra](https://open.spotify.com/artist/5q9adPv91NFr8q2ZcKmX0V), [Car, the garden](https://open.spotify.com/artist/7c1HgFDe8ogy5NOZ1ANCJQ) | [B side](https://open.spotify.com/album/7sEUUITszL8AQptgMEUrkz) | 3:17 |
-| 38 | [Rose](https://open.spotify.com/track/7l0hHj7VlbVpDIpGrLCqFU) | [imzoo](https://open.spotify.com/artist/6j2dniBiWyEM20bd5GEc0Y) | [Rose](https://open.spotify.com/album/6CUqE9kcnmCQsqID8nkZt6) | 3:08 |
-| 39 | [Night Fog](https://open.spotify.com/track/7wPDqVSfyKa9bm6a9wH2Bk) | [HIGHLIGHT](https://open.spotify.com/artist/3T0fMfxYBU3q9oAUAdPIsr) | [DAYDREAM](https://open.spotify.com/album/1LXXwyhpjtD725nOVp1kIu) | 2:38 |
+| 38 | [Night Fog](https://open.spotify.com/track/7wPDqVSfyKa9bm6a9wH2Bk) | [HIGHLIGHT](https://open.spotify.com/artist/3T0fMfxYBU3q9oAUAdPIsr) | [DAYDREAM](https://open.spotify.com/album/1LXXwyhpjtD725nOVp1kIu) | 2:38 |
+| 39 | [Rose](https://open.spotify.com/track/7l0hHj7VlbVpDIpGrLCqFU) | [imzoo](https://open.spotify.com/artist/6j2dniBiWyEM20bd5GEc0Y) | [Rose](https://open.spotify.com/album/6CUqE9kcnmCQsqID8nkZt6) | 3:08 |
 | 40 | [tokki](https://open.spotify.com/track/2865p4BUG6BH7v5WIjfGWN) | [CIKI](https://open.spotify.com/artist/39EEmUKhvMcVn8icCyQlg5) | [tokki](https://open.spotify.com/album/73CjMy4n5mnulB7w3PFXI0) | 3:30 |
 | 41 | [Moon, 12:04am](https://open.spotify.com/track/57mWHxgHxZnhFhFiBrpYUV) | [offonoff](https://open.spotify.com/artist/0dTj3SqwE8kPnCzyzvYzhT) | [boy.](https://open.spotify.com/album/4crHesv3PHfci2PBJ6m9sj) | 3:43 |
 | 42 | [Fantasy](https://open.spotify.com/track/2cgOdhrHYAx9ggmeMcyVqp) | [OoOo](https://open.spotify.com/artist/3g1lnUW8xnEPCO60kORskb) | [Fantasy](https://open.spotify.com/album/2YCvTWWmtS0wEokWvt7GYW) | 3:29 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Z20Qthwz58.md) - [plain]
 | 49 | [You’re mine, You!](https://open.spotify.com/track/3qoBzjth2rDTVXlzhL2lTd) | [Shin Youme](https://open.spotify.com/artist/4h4EHI7XsI5L2kTIPqUXPn) | [You're mine, You!](https://open.spotify.com/album/1bBFrkrEpLG0RhiglXbPLT) | 3:52 |
 | 50 | [Stigma Effect \(Original Webtoon Soundtrack\)Pt.1 \- Do You Love Me Just Like Me?](https://open.spotify.com/track/2GVt6mnbR93GbBNnUYuM7Z) | [Choco And Vanilla](https://open.spotify.com/artist/1MssCyzGvRSVvzCUzVVTj1) | [Stigma Effect \(Original Webtoon Soundtrack\)Pt.1 \- Do You Love Me Just Like Me?](https://open.spotify.com/album/5h0z6aaqNXkyiIshrVmE13) | 2:56 |
 
-Snapshot ID: `MCxjMWM0ZGRjYjRhZTVmZGM5YzhhODY2OGZlOTk4Y2QzOTkwNWI0ZjIx`
+Snapshot ID: `MCxlNTNiMzYxZjE0ZmE4M2JmYzM3MmIyZmY0YTJmY2NlODk3YzdlOWJi`

@@ -4,7 +4,7 @@
 
 > La música de la séptima temporada de ÉLI7E vive aquí ✨
 
-447 songs - 1 day 4 hr 17 min
+448 songs - 1 day 4 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -327,7 +327,8 @@
 | [Podría Ser Peor \(Remix\)](https://open.spotify.com/track/0V9Iq1SR5YkL7BkKj7TmRg) | [La Casa Azul](https://open.spotify.com/artist/2Ynst7DZrEJnlaMM41ZCxd) | [Podría Ser Peor \(Remix\)](https://open.spotify.com/album/0AAlqjRFkDhD5kFv8WkN8t) | 4:17 | 2021-09-01 |  |
 | [Poison Lips](https://open.spotify.com/track/1NJ1jm3uNRrF4JZHpaX1CD) | [Vitalic](https://open.spotify.com/artist/4M84umUNRbZy1mJleyyRM9) | [Flashmob](https://open.spotify.com/album/2RlP2H89edcTGhVcpGPINj) | 3:54 | 2021-09-01 |  |
 | [Polo Munene](https://open.spotify.com/track/1G7s7mD0fAFNKAjhx6TnUj) | [KOKOKO!](https://open.spotify.com/artist/4hkOCqpKuf6KFaQeTGfYNw) | [Elongi na Elongi](https://open.spotify.com/album/5eWToFIozovyfHVHdpyMYc) | 4:14 | 2023-10-21 |  |
-| [Pop Panic \(feat\. Just John\)](https://open.spotify.com/track/0NMHXkWf6egLjQ3Uwzhliv) | [Lex Junior](https://open.spotify.com/artist/3dvvkiXIRyaeLve9BMHdo9), [Just John](https://open.spotify.com/artist/5yJAfyfCn2mE6q9GeYrKWb) | [Pop Panic \(feat\. Just John\)](https://open.spotify.com/album/0LWU6Yf8YZsktbAKxAFI2j) | 2:07 | 2022-11-24 |  |
+| [Pop Panic](https://open.spotify.com/track/7aGANMBEAcVUq0gGLOgKOz) | [Lex Junior](https://open.spotify.com/artist/3dvvkiXIRyaeLve9BMHdo9), [Just John](https://open.spotify.com/artist/5yJAfyfCn2mE6q9GeYrKWb) | [Pop Panic](https://open.spotify.com/album/2uKvmvYvQEr56l5KLjfnOP) | 2:07 | 2022-11-24 |  |
+| [Pop Panic \(feat\. Just John\)](https://open.spotify.com/track/0NMHXkWf6egLjQ3Uwzhliv) | [Lex Junior](https://open.spotify.com/artist/3dvvkiXIRyaeLve9BMHdo9), [Just John](https://open.spotify.com/artist/5yJAfyfCn2mE6q9GeYrKWb) | [Pop Panic \(feat\. Just John\)](https://open.spotify.com/album/0LWU6Yf8YZsktbAKxAFI2j) | 2:07 | 2022-11-24 | 2024-03-22 |
 | [Prey/Hunter](https://open.spotify.com/track/6rQWoTx76KOYUNLCxGu1P1) | [Minuit Machine](https://open.spotify.com/artist/5PW3MLdSbq1ptFI0QTCSID) | [Infrarouge](https://open.spotify.com/album/6HvjznTfyQdDxOdjcFfiKY) | 5:03 | 2022-04-08 |  |
 | [Profite \- Capyac's Magic Potion Remix](https://open.spotify.com/track/2aZFlHRrYZSpwfsez7Sht1) | [Moi Je](https://open.spotify.com/artist/2lmGTNC0PsE7j5KDO9POvW), [Antoine Lartigue](https://open.spotify.com/artist/5XAKNFhA5yCx6rdbWAsbtd), [Simon Berard](https://open.spotify.com/artist/6HR09922Xdqqnv6OKLeTRO), [Loïc Lassablière](https://open.spotify.com/artist/2Z0Eh6F3CbtFaYfxaBVMGj), [Babil Lachheb](https://open.spotify.com/artist/2oNBkWyfvINaEBFIhTHIxW), [CAPYAC](https://open.spotify.com/artist/5QP5fl1l4e9NmKmkMUOTF5) | [Profite \(Remixes\)](https://open.spotify.com/album/0r4TXEu7Lhl09VNfxThdC6) | 3:51 | 2022-11-24 |  |
 | [Push](https://open.spotify.com/track/4d3ltLyciH816ekGMM3VbK) | [ALTA](https://open.spotify.com/artist/4dH7zjreLGJ4dcBfpHIg0L) | [Push](https://open.spotify.com/album/1BP7s8VMSNi0uH2g0sBh7X) | 3:14 | 2022-11-24 |  |

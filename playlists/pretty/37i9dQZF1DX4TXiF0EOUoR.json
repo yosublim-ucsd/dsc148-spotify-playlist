@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Los reyes del jaripeo!",
-  "num_followers": 177678,
+  "num_followers": 177868,
   "original_name": "Jaripeo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0ZWNjYjQ3ZjMwOTA2MGVjYzgxNzU4ZWI4NWE2YzhkNTYxYjIyMmQw",
+  "snapshot_id": "MCw3MTE4ZTg5NWM1MTY1OWNjOWI1ZWE4ZWM3MzQ2ZDNjZjQ3OTRiNWEy",
   "tracks": [
     {
       "added_at": "2024-03-19 20:01:44",
@@ -355,22 +355,6 @@
     {
       "added_at": "2024-03-19 20:01:44",
       "album": {
-        "name": "Ra\u00edces",
-        "url": "https://open.spotify.com/album/3P0x6Hb7bQmv3mAHZ3M4Pl"
-      },
-      "artists": [
-        {
-          "name": "Banda El Recodo",
-          "url": "https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC"
-        }
-      ],
-      "duration_ms": 113306,
-      "name": "El Sinaloense",
-      "url": "https://open.spotify.com/track/57qATI59zt97GfYpac1FoS"
-    },
-    {
-      "added_at": "2024-03-19 20:01:44",
-      "album": {
         "name": "El Viej\u00f3n de Oro",
         "url": "https://open.spotify.com/album/0sipXp2UvnY3qJFcoexKea"
       },
@@ -383,6 +367,22 @@
       "duration_ms": 225410,
       "name": "El Pistolero Huapango",
       "url": "https://open.spotify.com/track/4XLp4L49gGB5RGlPYPj86s"
+    },
+    {
+      "added_at": "2024-03-19 20:01:44",
+      "album": {
+        "name": "Ra\u00edces",
+        "url": "https://open.spotify.com/album/3P0x6Hb7bQmv3mAHZ3M4Pl"
+      },
+      "artists": [
+        {
+          "name": "Banda El Recodo",
+          "url": "https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC"
+        }
+      ],
+      "duration_ms": 113306,
+      "name": "El Sinaloense",
+      "url": "https://open.spotify.com/track/57qATI59zt97GfYpac1FoS"
     },
     {
       "added_at": "2024-03-19 20:01:44",
@@ -571,22 +571,6 @@
     {
       "added_at": "2024-03-19 20:01:44",
       "album": {
-        "name": "Banda La Jaripera Vol.1",
-        "url": "https://open.spotify.com/album/0GAamZXoKD58SatXppxSSn"
-      },
-      "artists": [
-        {
-          "name": "Banda La Jaripera",
-          "url": "https://open.spotify.com/artist/5uZqerP5PYAlfakWKAU5DX"
-        }
-      ],
-      "duration_ms": 145520,
-      "name": "Arriba Pichataro",
-      "url": "https://open.spotify.com/track/2LlavtI2ZyzTEEgPwOXrLg"
-    },
-    {
-      "added_at": "2024-03-19 20:01:44",
-      "album": {
         "name": "Nos Pertenecemos",
         "url": "https://open.spotify.com/album/2yOe1iSolv9Fe9ZhlvJsF4"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 276540,
       "name": "A Gozar",
       "url": "https://open.spotify.com/track/6PVeZNxyYK1ta2qmbJJRaT"
+    },
+    {
+      "added_at": "2024-03-19 20:01:44",
+      "album": {
+        "name": "Banda La Jaripera Vol.1",
+        "url": "https://open.spotify.com/album/0GAamZXoKD58SatXppxSSn"
+      },
+      "artists": [
+        {
+          "name": "Banda La Jaripera",
+          "url": "https://open.spotify.com/artist/5uZqerP5PYAlfakWKAU5DX"
+        }
+      ],
+      "duration_ms": 145520,
+      "name": "Arriba Pichataro",
+      "url": "https://open.spotify.com/track/2LlavtI2ZyzTEEgPwOXrLg"
     },
     {
       "added_at": "2024-03-19 20:01:44",
@@ -667,18 +667,18 @@
     {
       "added_at": "2024-03-19 20:01:44",
       "album": {
-        "name": "Con Sangre Ranchera",
-        "url": "https://open.spotify.com/album/7vujUCeiFL1L347J9ghpR4"
+        "name": "Me Gustan Las Viejas Buenas",
+        "url": "https://open.spotify.com/album/70xlTaBOwwuHqnJ2aqiiLD"
       },
       "artists": [
         {
-          "name": "Banda Alte\u00f1ita de Morelia",
-          "url": "https://open.spotify.com/artist/17ND8vMcTSrwhZOUvG7CnA"
+          "name": "La Numero 1 Banda Jerez De Marco A. Flores",
+          "url": "https://open.spotify.com/artist/5KMVb0Y20BTIrobzI2YZUi"
         }
       ],
-      "duration_ms": 136752,
-      "name": "A Qui\u00e9n No Le Gusta Eso",
-      "url": "https://open.spotify.com/track/1ocotVnvTXqgSHqtfqx3yt"
+      "duration_ms": 168613,
+      "name": "El Polvorete",
+      "url": "https://open.spotify.com/track/5iyaVyi8Cx98S8WS8TbuOT"
     },
     {
       "added_at": "2024-03-19 20:01:44",
@@ -699,18 +699,18 @@
     {
       "added_at": "2024-03-19 20:01:44",
       "album": {
-        "name": "Me Gustan Las Viejas Buenas",
-        "url": "https://open.spotify.com/album/70xlTaBOwwuHqnJ2aqiiLD"
+        "name": "Con Sangre Ranchera",
+        "url": "https://open.spotify.com/album/7vujUCeiFL1L347J9ghpR4"
       },
       "artists": [
         {
-          "name": "La Numero 1 Banda Jerez De Marco A. Flores",
-          "url": "https://open.spotify.com/artist/5KMVb0Y20BTIrobzI2YZUi"
+          "name": "Banda Alte\u00f1ita de Morelia",
+          "url": "https://open.spotify.com/artist/17ND8vMcTSrwhZOUvG7CnA"
         }
       ],
-      "duration_ms": 168613,
-      "name": "El Polvorete",
-      "url": "https://open.spotify.com/track/5iyaVyi8Cx98S8WS8TbuOT"
+      "duration_ms": 136752,
+      "name": "A Qui\u00e9n No Le Gusta Eso",
+      "url": "https://open.spotify.com/track/1ocotVnvTXqgSHqtfqx3yt"
     },
     {
       "added_at": "2024-03-19 20:01:44",
@@ -815,18 +815,18 @@
     {
       "added_at": "2024-03-19 20:01:44",
       "album": {
-        "name": "Una Vez M\u00e1s",
-        "url": "https://open.spotify.com/album/3pg4CVG7UZ5UI1AxSekVEe"
+        "name": "Pa' Las De Vidrio (En Vivo)",
+        "url": "https://open.spotify.com/album/0mYBDLqcmcWKYZXXb5Vobj"
       },
       "artists": [
         {
-          "name": "Banda Alte\u00f1ita de Morelia",
-          "url": "https://open.spotify.com/artist/17ND8vMcTSrwhZOUvG7CnA"
+          "name": "Carin Leon",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
         }
       ],
-      "duration_ms": 260160,
-      "name": "Popurr\u00ed Cumbias: La Yaquecita / La Cumbia Bonita / El Aparatito",
-      "url": "https://open.spotify.com/track/4Y9RNuHmJXcQhnPFt3DVcM"
+      "duration_ms": 192795,
+      "name": "La Gitanilla - En VIvo",
+      "url": "https://open.spotify.com/track/4ltMP51sYJbA6LZP91jtoK"
     },
     {
       "added_at": "2024-03-19 20:01:44",
@@ -847,18 +847,18 @@
     {
       "added_at": "2024-03-19 20:01:44",
       "album": {
-        "name": "Pa' Las De Vidrio (En Vivo)",
-        "url": "https://open.spotify.com/album/0mYBDLqcmcWKYZXXb5Vobj"
+        "name": "Una Vez M\u00e1s",
+        "url": "https://open.spotify.com/album/3pg4CVG7UZ5UI1AxSekVEe"
       },
       "artists": [
         {
-          "name": "Carin Leon",
-          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+          "name": "Banda Alte\u00f1ita de Morelia",
+          "url": "https://open.spotify.com/artist/17ND8vMcTSrwhZOUvG7CnA"
         }
       ],
-      "duration_ms": 192795,
-      "name": "La Gitanilla - En VIvo",
-      "url": "https://open.spotify.com/track/4ltMP51sYJbA6LZP91jtoK"
+      "duration_ms": 260160,
+      "name": "Popurr\u00ed Cumbias: La Yaquecita / La Cumbia Bonita / El Aparatito",
+      "url": "https://open.spotify.com/track/4Y9RNuHmJXcQhnPFt3DVcM"
     },
     {
       "added_at": "2024-03-19 20:01:44",
@@ -1351,22 +1351,6 @@
     {
       "added_at": "2024-03-19 20:01:44",
       "album": {
-        "name": "Mis Ra\u00edces",
-        "url": "https://open.spotify.com/album/28jdssQUmFnGEN0II0Eqf5"
-      },
-      "artists": [
-        {
-          "name": "Banda 466 Paso a Paso",
-          "url": "https://open.spotify.com/artist/6RfT1OjkFTBrGC48aiJjvm"
-        }
-      ],
-      "duration_ms": 162328,
-      "name": "El Son Del Toro",
-      "url": "https://open.spotify.com/track/1hkW3I5IYhPfskOedNULud"
-    },
-    {
-      "added_at": "2024-03-19 20:01:44",
-      "album": {
         "name": "Y de Aqu\u00ed Pal Real - La Herencia del Rey",
         "url": "https://open.spotify.com/album/0FbblTEqO5rSjJshBoIyRR"
       },
@@ -1379,6 +1363,22 @@
       "duration_ms": 274064,
       "name": "Popurr\u00ed: B\u00e9same Morenita / La Loba del Mal / Las Guilotas",
       "url": "https://open.spotify.com/track/2zgC1cNMpGtiiCMAiX3AxV"
+    },
+    {
+      "added_at": "2024-03-19 20:01:44",
+      "album": {
+        "name": "Mis Ra\u00edces",
+        "url": "https://open.spotify.com/album/28jdssQUmFnGEN0II0Eqf5"
+      },
+      "artists": [
+        {
+          "name": "Banda 466 Paso a Paso",
+          "url": "https://open.spotify.com/artist/6RfT1OjkFTBrGC48aiJjvm"
+        }
+      ],
+      "duration_ms": 162328,
+      "name": "El Son Del Toro",
+      "url": "https://open.spotify.com/track/1hkW3I5IYhPfskOedNULud"
     },
     {
       "added_at": "2024-03-19 20:01:44",
@@ -1463,22 +1463,6 @@
     {
       "added_at": "2024-03-19 20:01:44",
       "album": {
-        "name": "Jalados Con La Banda Punto Medio \"Puras De Viento\"",
-        "url": "https://open.spotify.com/album/7dRYiCEWT2XSMhyBE595PO"
-      },
-      "artists": [
-        {
-          "name": "Banda Punto Medio",
-          "url": "https://open.spotify.com/artist/1e52HdTL1PMcFUdmbs5uvP"
-        }
-      ],
-      "duration_ms": 197162,
-      "name": "Los Enanitos",
-      "url": "https://open.spotify.com/track/3FJoKq6hH2RNZdPOW0E3FP"
-    },
-    {
-      "added_at": "2024-03-19 20:01:44",
-      "album": {
         "name": "En Vivo Desde Colima, Vol. 2",
         "url": "https://open.spotify.com/album/79T7IMva98HwHfjvygeY6n"
       },
@@ -1491,6 +1475,22 @@
       "duration_ms": 207621,
       "name": "Arriba Pichantaro (En Vivo)",
       "url": "https://open.spotify.com/track/0uJZHtY7QhTXWdoJemOwHl"
+    },
+    {
+      "added_at": "2024-03-19 20:01:44",
+      "album": {
+        "name": "Jalados Con La Banda Punto Medio \"Puras De Viento\"",
+        "url": "https://open.spotify.com/album/7dRYiCEWT2XSMhyBE595PO"
+      },
+      "artists": [
+        {
+          "name": "Banda Punto Medio",
+          "url": "https://open.spotify.com/artist/1e52HdTL1PMcFUdmbs5uvP"
+        }
+      ],
+      "duration_ms": 197162,
+      "name": "Los Enanitos",
+      "url": "https://open.spotify.com/track/3FJoKq6hH2RNZdPOW0E3FP"
     },
     {
       "added_at": "2024-03-19 20:01:44",

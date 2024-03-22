@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-29",
-  "description": "La sc\u00e8ne fran\u00e7aise branch\u00e9e sur courant alternatif. Photo : Akira & le Sabbat",
+  "description": "La sc\u00e8ne fran\u00e7aise branch\u00e9e sur courant alternatif. Photo : St Graal",
   "name": "Courant Alternatif",
   "tracks": [
     {
@@ -81,6 +81,24 @@
     },
     {
       "album": {
+        "name": "EXIT",
+        "url": "https://open.spotify.com/album/5k2kGcJwHBWckBy9aeKkGy"
+      },
+      "artists": [
+        {
+          "name": "Luther",
+          "url": "https://open.spotify.com/artist/712cOCN3mpraX2UOgUvdHW"
+        }
+      ],
+      "date_added": "2024-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201000,
+      "name": "ALED",
+      "url": "https://open.spotify.com/track/41hl3QWKVaFZMZTNZhrARK"
+    },
+    {
+      "album": {
         "name": "All eyes",
         "url": "https://open.spotify.com/album/0r21wMAiDWP95fROuOsBH5"
       },
@@ -92,7 +110,7 @@
       ],
       "date_added": "2024-02-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-22",
       "duration_ms": 181084,
       "name": "All eyes",
       "url": "https://open.spotify.com/track/2KxJwTGpHRiUdmAOgHuq4R"
@@ -816,7 +834,7 @@
       ],
       "date_added": "2024-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-22",
       "duration_ms": 150909,
       "name": "Ghost Dog",
       "url": "https://open.spotify.com/track/0tzgjp6M0CHBNaxpU8KZm0"
@@ -2110,7 +2128,7 @@
       ],
       "date_added": "2023-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-22",
       "duration_ms": 308233,
       "name": "Stadium",
       "url": "https://open.spotify.com/track/1U5ssXXbZ6TfzBJQzqneZo"
@@ -2150,10 +2168,28 @@
       ],
       "date_added": "2023-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-22",
       "duration_ms": 60053,
       "name": "Strike",
       "url": "https://open.spotify.com/track/4GTA7LtqEO2b5kMT6EHfZ2"
+    },
+    {
+      "album": {
+        "name": "STUPID CUNT IN THE MALL",
+        "url": "https://open.spotify.com/album/4tnat0J4elDPH4C144xxxg"
+      },
+      "artists": [
+        {
+          "name": "W!ZARD",
+          "url": "https://open.spotify.com/artist/3E7Z5zzigflRAScfu3gigd"
+        }
+      ],
+      "date_added": "2024-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244626,
+      "name": "STUPID CUNT IN THE MALL",
+      "url": "https://open.spotify.com/track/2Up0DUfJRoRkA7ynD50Xtl"
     },
     {
       "album": {
@@ -2373,6 +2409,24 @@
     },
     {
       "album": {
+        "name": "10",
+        "url": "https://open.spotify.com/album/2qUV7cyxVq9HCffujWykjU"
+      },
+      "artists": [
+        {
+          "name": "Le Peuple de L'Herbe",
+          "url": "https://open.spotify.com/artist/3TQ7yQyNz2JvOXqiO5Tpz2"
+        }
+      ],
+      "date_added": "2024-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250013,
+      "name": "We are many",
+      "url": "https://open.spotify.com/track/2nkDgyJE1YvNczhHaW6vwt"
+    },
+    {
+      "album": {
         "name": "We Walk",
         "url": "https://open.spotify.com/album/1YhST40WDQUfrTExNtOARC"
       },
@@ -2424,6 +2478,24 @@
       "duration_ms": 143354,
       "name": "Worried",
       "url": "https://open.spotify.com/track/0Ssz96Q8DAEry7mDrBRbcN"
+    },
+    {
+      "album": {
+        "name": "Z",
+        "url": "https://open.spotify.com/album/7ndSxLdXc07HwAkQZoApye"
+      },
+      "artists": [
+        {
+          "name": "KLON",
+          "url": "https://open.spotify.com/artist/5wpi76n2HLEBtDpiEdUwss"
+        }
+      ],
+      "date_added": "2024-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179007,
+      "name": "Z",
+      "url": "https://open.spotify.com/track/72ICHo3ZgL8uUieTCdIpfF"
     },
     {
       "album": {

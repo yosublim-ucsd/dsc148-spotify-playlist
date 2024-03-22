@@ -1,12 +1,12 @@
 {
   "description": "Progressive <a href=\"spotify:genre:edm_dance\">house</a> music for the late night highway.",
-  "num_followers": 1547484,
+  "num_followers": 1547665,
   "original_name": "Night Rider",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2YTMxYzFlOWE1M2VmYTJhNzllM2VkYzQ2YzZiNGNmZTI3NDFiMjQy",
+  "snapshot_id": "MCwyMzE3Zjg5MDJjZTYyMmU2NmRlOTdlYjcxNjNhNDU5NWNmMDhmNjMy",
   "tracks": [
     {
       "added_at": "2024-03-15 04:00:00",
@@ -1115,22 +1115,22 @@
     {
       "added_at": "2024-03-15 04:00:00",
       "album": {
-        "name": "Numb (Joris Voorn Remix)",
-        "url": "https://open.spotify.com/album/0vTR69DaeGYKkf4DNioMfF"
+        "name": "About Us (feat. EMME)",
+        "url": "https://open.spotify.com/album/5lK1i9qlTSll67PyLqcxrs"
       },
       "artists": [
         {
-          "name": "Elderbrook",
-          "url": "https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64"
+          "name": "Le Youth",
+          "url": "https://open.spotify.com/artist/1Zz6NBe8UIZjm88TvehFtx"
         },
         {
-          "name": "Joris Voorn",
-          "url": "https://open.spotify.com/artist/4jGpKAmwvU263l0tUh4xKU"
+          "name": "EMME",
+          "url": "https://open.spotify.com/artist/04zy0QJacNRBhI0H3WmkSs"
         }
       ],
-      "duration_ms": 237865,
-      "name": "Numb - Joris Voorn Remix, Edit",
-      "url": "https://open.spotify.com/track/4WuxGJdcbN9SPrNn3UFLFy"
+      "duration_ms": 286520,
+      "name": "About Us (feat. EMME)",
+      "url": "https://open.spotify.com/track/6NitJf2pJZ4ssPTWZ1ZuVv"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -1159,22 +1159,22 @@
     {
       "added_at": "2024-03-15 04:00:00",
       "album": {
-        "name": "About Us (feat. EMME)",
-        "url": "https://open.spotify.com/album/5lK1i9qlTSll67PyLqcxrs"
+        "name": "Numb (Joris Voorn Remix)",
+        "url": "https://open.spotify.com/album/0vTR69DaeGYKkf4DNioMfF"
       },
       "artists": [
         {
-          "name": "Le Youth",
-          "url": "https://open.spotify.com/artist/1Zz6NBe8UIZjm88TvehFtx"
+          "name": "Elderbrook",
+          "url": "https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64"
         },
         {
-          "name": "EMME",
-          "url": "https://open.spotify.com/artist/04zy0QJacNRBhI0H3WmkSs"
+          "name": "Joris Voorn",
+          "url": "https://open.spotify.com/artist/4jGpKAmwvU263l0tUh4xKU"
         }
       ],
-      "duration_ms": 286520,
-      "name": "About Us (feat. EMME)",
-      "url": "https://open.spotify.com/track/6NitJf2pJZ4ssPTWZ1ZuVv"
+      "duration_ms": 237865,
+      "name": "Numb - Joris Voorn Remix, Edit",
+      "url": "https://open.spotify.com/track/4WuxGJdcbN9SPrNn3UFLFy"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -1463,26 +1463,6 @@
     {
       "added_at": "2024-03-15 04:00:00",
       "album": {
-        "name": "I Need You (Adriatique Remix)",
-        "url": "https://open.spotify.com/album/5xoWT0xsoV2jQ5wFvLUEfN"
-      },
-      "artists": [
-        {
-          "name": "Elderbrook",
-          "url": "https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64"
-        },
-        {
-          "name": "Adriatique",
-          "url": "https://open.spotify.com/artist/02DWGcShQivFepRvGJ7xhB"
-        }
-      ],
-      "duration_ms": 291304,
-      "name": "I Need You - Adriatique Remix",
-      "url": "https://open.spotify.com/track/4RfOBweHWhbKwFDqIsuxdY"
-    },
-    {
-      "added_at": "2024-03-15 04:00:00",
-      "album": {
         "name": "Skyscrapers (Hi-Lo Remix)",
         "url": "https://open.spotify.com/album/5jhAOb0JdrZjlbfEl6BVPS"
       },
@@ -1503,6 +1483,26 @@
       "duration_ms": 296368,
       "name": "Skyscrapers - Hi-Lo Remix",
       "url": "https://open.spotify.com/track/2g95XDCx4GqcaJPv7TTk8C"
+    },
+    {
+      "added_at": "2024-03-15 04:00:00",
+      "album": {
+        "name": "I Need You (Adriatique Remix)",
+        "url": "https://open.spotify.com/album/5xoWT0xsoV2jQ5wFvLUEfN"
+      },
+      "artists": [
+        {
+          "name": "Elderbrook",
+          "url": "https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64"
+        },
+        {
+          "name": "Adriatique",
+          "url": "https://open.spotify.com/artist/02DWGcShQivFepRvGJ7xhB"
+        }
+      ],
+      "duration_ms": 291304,
+      "name": "I Need You - Adriatique Remix",
+      "url": "https://open.spotify.com/track/4RfOBweHWhbKwFDqIsuxdY"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -1803,22 +1803,6 @@
     {
       "added_at": "2024-03-15 04:00:00",
       "album": {
-        "name": "All That I Lost",
-        "url": "https://open.spotify.com/album/7KWLGxKqivBsVpvB1PZyQo"
-      },
-      "artists": [
-        {
-          "name": "Tinlicker",
-          "url": "https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza"
-        }
-      ],
-      "duration_ms": 259838,
-      "name": "All That I Lost",
-      "url": "https://open.spotify.com/track/4iiQHKy1dIbYyRscZuaWTo"
-    },
-    {
-      "added_at": "2024-03-15 04:00:00",
-      "album": {
         "name": "Elements Of A New Life",
         "url": "https://open.spotify.com/album/47c6Wt8ZJP39IEhtn8JzTd"
       },
@@ -1835,6 +1819,22 @@
       "duration_ms": 205161,
       "name": "Elements Of A New Life",
       "url": "https://open.spotify.com/track/4aoT4eYesZWIwifnIFRgcs"
+    },
+    {
+      "added_at": "2024-03-15 04:00:00",
+      "album": {
+        "name": "All That I Lost",
+        "url": "https://open.spotify.com/album/7KWLGxKqivBsVpvB1PZyQo"
+      },
+      "artists": [
+        {
+          "name": "Tinlicker",
+          "url": "https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza"
+        }
+      ],
+      "duration_ms": 259838,
+      "name": "All That I Lost",
+      "url": "https://open.spotify.com/track/4iiQHKy1dIbYyRscZuaWTo"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -2043,22 +2043,18 @@
     {
       "added_at": "2024-03-15 04:00:00",
       "album": {
-        "name": "You Take My Hand",
-        "url": "https://open.spotify.com/album/3meERbSehneA03lgl071Io"
+        "name": "Surrender",
+        "url": "https://open.spotify.com/album/0ll3Yf2B4alvZGWeydE3fT"
       },
       "artists": [
         {
-          "name": "Tinlicker",
-          "url": "https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza"
-        },
-        {
-          "name": "Jamie Irrepressible",
-          "url": "https://open.spotify.com/artist/1kq2ZvBA7AX9mdZTk9SkpU"
+          "name": "Goodboys",
+          "url": "https://open.spotify.com/artist/2nm38smINjms1LtczR0Cei"
         }
       ],
-      "duration_ms": 315861,
-      "name": "You Take My Hand",
-      "url": "https://open.spotify.com/track/4Lq4TjaQWTNmo5viydoLLa"
+      "duration_ms": 147580,
+      "name": "Surrender",
+      "url": "https://open.spotify.com/track/32E8uwM57X19l3uBOEuTB2"
     }
   ],
   "unique_name": "Night Rider",

@@ -4,21 +4,21 @@ pretty - [cumulative](/playlists/cumulative/5nz3AAoDyHSidelqd2fnci.md) - [plain]
 
 > 
 
-[Felipe Arriagada PIPEMANUEL](https://open.spotify.com/user/12145835791) - 0 like - 12 songs - 50 min 5 sec
+[Felipe Arriagada PIPEMANUEL](https://open.spotify.com/user/12145835791) - 0 like - 12 songs - 54 min 50 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [21st Century Breakdown \- Studio 880 Sessions](https://open.spotify.com/track/3u2cLv442yMUBnGd1GInJu) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Last of the American Girls](https://open.spotify.com/album/3tTmTykIIa5erRQRcH5E61) | 5:06 |
-| 2 | [Nightswimming](https://open.spotify.com/track/2xLSFrm2oBeMtBMjlAoZSC) | [R.E.M.](https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg) | [Automatic For The People \(U.S\. Version\)](https://open.spotify.com/album/006Qsi10luS9xEBAcIWGTf) | 4:18 |
-| 3 | [Cold Hard Bitch](https://open.spotify.com/track/5u6fnmRO5V0PTl5M2Eekeu) | [Jet](https://open.spotify.com/artist/5ypxebeHEIXjMtJb17uJlI) | [Get Born](https://open.spotify.com/album/6NrLpQCPYrNS3kVWxDgIlg) | 4:03 |
-| 4 | [China Girl \- 2002 Remaster](https://open.spotify.com/track/7hDkeK3xLkndOrKS8zzYT9) | [David Bowie](https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy) | [Best of Bowie](https://open.spotify.com/album/2PEAajl89bIS4eWMk7zlbV) | 4:17 |
-| 5 | [Lowrider](https://open.spotify.com/track/6j7gx4iFGdmNQGiUpLBZ5s) | [Korn](https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD) | [Original Album Classics](https://open.spotify.com/album/1A43UjWWhahOC0pViqCuaF) | 0:58 |
-| 6 | [The Talisman \- 2015 Remaster](https://open.spotify.com/track/14Zfm7LmHCLUlOPgJ0hY00) | [Iron Maiden](https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao) | [The Final Frontier \(2015 Remaster\)](https://open.spotify.com/album/5YAfxU5OZKqAvE1GZPRQYY) | 9:03 |
-| 7 | [Eyes Without A Face](https://open.spotify.com/track/4Uznk6K0kdqLiUlpz3sG9g) | [Billy Idol](https://open.spotify.com/artist/7lzordPuZEXxwt9aoVZYmG) | [Classic Power Ballads](https://open.spotify.com/album/3HtmOyC5Jnrg0CxGMPzn5n) | 4:56 |
-| 8 | [What You Need \- Commentary](https://open.spotify.com/track/3QytCNG4G5lTO5hwnZEkJ3) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [That's The Spirit \(Track by Track Commentary\)](https://open.spotify.com/album/6XPW94L30lADaLwczUnLFh) | 1:45 |
-| 9 | [Cameltosis](https://open.spotify.com/track/2m8LCHj7Yf03jb7Se2RUmA) | [Korn](https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD) | [The Essential Korn](https://open.spotify.com/album/7gVPfb2pdaMabA3GCiDbRF) | 4:38 |
-| 10 | [The God That Failed](https://open.spotify.com/track/4m7SprdGbCH9ifPX5SbdNA) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Metallica](https://open.spotify.com/album/37lWyRxkf3wQHCOlXM5WfX) | 5:08 |
-| 11 | [WAKE UP](https://open.spotify.com/track/6Rn0E6cj7o9y1HreiMv0Aw) | [Samara Cyn](https://open.spotify.com/artist/4nqQTosM2Mbg7iRjvJU0N0) | [WAKE UP](https://open.spotify.com/album/3mI0rvBdda0WogdFHQI2Uu) | 2:44 |
-| 12 | [We Both Know](https://open.spotify.com/track/3Ir8iKCv67pW100PDSgWtk) | [Allison Daniels](https://open.spotify.com/artist/54OOcbHzemUIYga3Z351Kq) | [We Both Know](https://open.spotify.com/album/569MveUgubA2WeTrfmbxnf) | 3:06 |
+| 1 | [Are you like me?](https://open.spotify.com/track/2LQ46zs84tbUKDktxx00OB) | [Bats](https://open.spotify.com/artist/4iuECUfKK1Iulmgxt5MObO) | [Good Game Baby](https://open.spotify.com/album/01pVHm3Mq0ycMo7LJIQw3Q) | 4:57 |
+| 2 | [False Sense of Sanity](https://open.spotify.com/track/2IYRr9sTrWUWOQydp2xNBx) | [Chelsea Grin](https://open.spotify.com/artist/4UgQ3EFa8fEeaIEg54uV5b) | [Desolation of Eden](https://open.spotify.com/album/3aLSNKBvxIWL0d8cshVZat) | 2:45 |
+| 3 | [Rhythm Of The Night](https://open.spotify.com/track/5yGTQzYbEdY6B9RFZJypgt) | [DeBarge](https://open.spotify.com/artist/6is2U7I1jlI8PjxNZOHIMV) | [Rhythm Of The Night](https://open.spotify.com/album/13xiHt25Hn4WZ6OLzhK1n8) | 3:49 |
+| 4 | [The Middle](https://open.spotify.com/track/6GG73Jik4jUlQCkKg9JuGO) | [Jimmy Eat World](https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s) | [Bleed American](https://open.spotify.com/album/0UJhhj5bn5AGAjryFnhueP) | 2:45 |
+| 5 | [Samba Landó](https://open.spotify.com/track/0Ielm1wcYet7CWFR9O9beV) | [Inti\-Illimani](https://open.spotify.com/artist/4cCVNFShP38zaKGuo8QSMN) | [Viva Italia](https://open.spotify.com/album/1g5vHoa3aMWXbVIlfhn7mb) | 5:33 |
+| 6 | [El Orangután](https://open.spotify.com/track/4hdaF3ad9IrAOs2FRmHjht) | [Chico Novarro](https://open.spotify.com/artist/53EZ5ABP35N5oPGYTvjwU7) | [Zoologicamente El Primero \- Un Sombrero De Paja](https://open.spotify.com/album/1xy5EaVoIcvkZ9sJOHdjH5) | 2:36 |
+| 7 | [First Lance of Spain](https://open.spotify.com/track/6PxYRdOXXXh2KLIjSYNDbA) | [Dark Moor](https://open.spotify.com/artist/0YWKRTzA4kBceGwjywtMkh) | [Ars Musica](https://open.spotify.com/album/0r7ZbTDpPZvr0x7IxSjxED) | 4:57 |
+| 8 | [The Obsessive Devotion](https://open.spotify.com/track/1dUsPb4e9L4BxED5fG2Uis) | [Epica](https://open.spotify.com/artist/5HA5aLY3jJV7eimXWkRBBp) | [The Divine Conspiracy](https://open.spotify.com/album/0GCDjxk7URd6Glt4mg1EgP) | 7:13 |
+| 9 | [Rudy \- Remastered 2010](https://open.spotify.com/track/4NZLRuEvCdmXUOdCAbp8dN) | [Supertramp](https://open.spotify.com/artist/3JsMj0DEzyWc0VDlHuy9Bx) | [Crime Of The Century \(Deluxe\)](https://open.spotify.com/album/5Se5MdfqD1nAitv3muKnCB) | 7:20 |
+| 10 | [awe](https://open.spotify.com/track/20liuVONukHV5oK7kghgOI) | [Pem](https://open.spotify.com/artist/6JVlf8HzDtyI2xPxq4WIHs) | [awe](https://open.spotify.com/album/1JOPmXuFZzWyAObrU16BUl) | 3:55 |
+| 11 | [The Same Deep Water As You \- Band Instrumental Demo](https://open.spotify.com/track/0QOo0nMWtEiQw0CJZTvng1) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Disintegration \(Deluxe Edition\)](https://open.spotify.com/album/0H6TddUF2M63ZSHGvhk5yy) | 6:04 |
+| 12 | [Busca La Botella \(feat\. Tony Tun Tun & Endo\)](https://open.spotify.com/track/1Ks2Tw5LATWmr9oARlO96Z) | [Musicologo Y Menes](https://open.spotify.com/artist/0xf0KaVp6AMWgesiBh6fee), [Tonny Tun Tun](https://open.spotify.com/artist/4a0UP5sUQGKcn2QJnqMT0t), [Endo](https://open.spotify.com/artist/47G4aZmzN6mRtKCSoLoNDM) | [Imperio Nazza Top Secret](https://open.spotify.com/album/5uuOWFuCc6Z4Bghr1wSUDe) | 2:52 |
 
-Snapshot ID: `NjEsNWVhYWM1N2Q2YzNjMmQwZmE0NjUwMTY2OTg2ZjJmZDA3MDQxNmZjZQ==`
+Snapshot ID: `NjIsMDg5NjlmOTA2NjYzMGNhY2FlOWEzNWE3NzI4MDVjZmZhNjAyZDYwZA==`

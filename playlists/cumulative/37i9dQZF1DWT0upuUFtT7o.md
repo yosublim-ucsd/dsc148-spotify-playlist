@@ -4,7 +4,7 @@
 
 > The best new indie tracks from independent artists & labels\. Updates every Wednesday\. Cover: Zsela
 
-2,292 songs - 5 day 5 hr 46 min
+2,294 songs - 5 day 5 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -182,7 +182,8 @@
 | [backseat](https://open.spotify.com/track/68CijBYyD89CISS4vDLAaq) | [WESLEE](https://open.spotify.com/artist/2sfC2KuIzmNQEtVordUuqq) | [backseat](https://open.spotify.com/album/3IOA0OXQ2kkFWT3HKF016w) | 2:54 | 2024-02-28 |  |
 | [Backseat Baby](https://open.spotify.com/track/30MXLXfe4uq6st3pgtm4WU) | [Cosmorat](https://open.spotify.com/artist/7N3uZZGaea8CxH6SoFyCpr) | [Backseat Baby](https://open.spotify.com/album/7k5RJiHIhdvTlfjk88gFS2) | 3:33 | 2023-11-08 | 2024-01-11 |
 | [Backstreet Snow](https://open.spotify.com/track/3JvBS2qOm8pvDEYW70qeGS) | [Lande Hekt](https://open.spotify.com/artist/3RU6wsoh0bm0gZFHJiYRmq) | [Backstreet Snow](https://open.spotify.com/album/0GUoARoSMOLqBAMcvXNpED) | 3:02 | 2022-08-24 | 2022-09-07 |
-| [backup, cash out](https://open.spotify.com/track/37RdWcTw7Y99za5MJ7jnOe) | [fyoum](https://open.spotify.com/artist/4GUYZi2qvx5zrugU0yAEHM) | [backup, cash out](https://open.spotify.com/album/6UX2tNKKoldjLIuQ9YxaXU) | 3:15 | 2024-02-28 |  |
+| [backup, cash out](https://open.spotify.com/track/37RdWcTw7Y99za5MJ7jnOe) | [fyoum](https://open.spotify.com/artist/4GUYZi2qvx5zrugU0yAEHM) | [backup, cash out](https://open.spotify.com/album/6UX2tNKKoldjLIuQ9YxaXU) | 3:15 | 2024-02-28 | 2024-03-22 |
+| [backup, cash out](https://open.spotify.com/track/4cBdsJow1XXeAEu2ylEWkY) | [fyoum](https://open.spotify.com/artist/4GUYZi2qvx5zrugU0yAEHM) | [Midair](https://open.spotify.com/album/3EFv3gHt4gd2YKYioVfgdR) | 3:15 | 2024-03-06 |  |
 | [BACKWARDS](https://open.spotify.com/track/7zuSn410s3z8Ki7iuO6ZSO) | [RUNNER BOY](https://open.spotify.com/artist/3ZymIpT2ZdBAUCaDncvdBv), [Babebee](https://open.spotify.com/artist/719aYkabpmAmY7DAQamb8h) | [BACKWARDS](https://open.spotify.com/album/51WjoBBCY3wZ8Cbqy8TDrQ) | 1:46 | 2022-10-05 | 2022-12-01 |
 | [Backwards](https://open.spotify.com/track/4OQbyXEpvkG8oZMvCkf0U9) | [Sleepy Soul](https://open.spotify.com/artist/32SXond7qEk5OOXU9M8Sq7) | [Backwards](https://open.spotify.com/album/2xAARITNmYoPABVsk6X0AU) | 2:18 | 2023-10-25 | 2023-11-30 |
 | [Backwards Directions](https://open.spotify.com/track/5vbnQr1tWSSREmcIONIUm9) | [Abby Sage](https://open.spotify.com/artist/4aej3kKLxSLM0WauTSfZ7k) | [Backwards Directions](https://open.spotify.com/album/5mhk3C0cKun3x8MoIwkukF) | 3:07 | 2022-10-25 | 2023-01-12 |
@@ -2015,6 +2016,7 @@
 | [The Party](https://open.spotify.com/track/7dkPG811ZnHikb319Jzskd) | [Portraits Of Tracy](https://open.spotify.com/artist/34QizBjxVeMcA5HlZpKxxE) | [The Party](https://open.spotify.com/album/7rlcKShyYfr0MEIVH3BeaA) | 2:49 | 2023-02-08 | 2024-01-11 |
 | [the party](https://open.spotify.com/track/2refb65AS7jf0ILJnlXX5y) | [vivi rincon](https://open.spotify.com/artist/7G3PkBcNf57mBBK1qYA1iE) | [crash landing](https://open.spotify.com/album/6GP7ELTsVdcALvRbD8Qm1X) | 3:49 | 2023-03-01 | 2023-03-16 |
 | [THE PITS](https://open.spotify.com/track/46cZxkXopRouI09385uHCS) | [Isaac Jones](https://open.spotify.com/artist/07Otr2GoEFP3sRUUXpYMQN) | [THE PITS](https://open.spotify.com/album/342Vd2NEngwKdSp5Vn0qEX) | 3:32 | 2023-07-26 | 2023-08-24 |
+| [The Pressures of the Heart](https://open.spotify.com/track/0dBhs5Aw3NO9gAVIWrnmLZ) | [Annie\-Dog](https://open.spotify.com/artist/0kWbyk1GXEB8RrVVOlKmVU) | [The Pressures of the Heart](https://open.spotify.com/album/2jd3oX3uh1wbhpGvPOfsFe) | 2:54 | 2024-03-21 |  |
 | [The Price Is Right](https://open.spotify.com/track/3mMQNiETmfmmbUyteEOEWF) | [Cindy](https://open.spotify.com/artist/5C8xxfvMhwwxeSz4LZm41N) | [The Price Is Right](https://open.spotify.com/album/2ByJStzaa33Oe7qdDUVnJm) | 2:54 | 2023-03-22 | 2023-04-06 |
 | [The Sandcastle](https://open.spotify.com/track/6S1i81DSaMsjU6KwlxpvzC) | [alice does computer music](https://open.spotify.com/artist/2rqLxilEsPgtee23MzJHPR) | [Shoegaze 5G](https://open.spotify.com/album/2dhQlDl7K30O6qoVXAaIlY) | 3:30 | 2023-08-08 | 2023-09-14 |
 | [The Visitation](https://open.spotify.com/track/7c4T0WGil3iBfVtfMXxU2T) | [Paul Spring](https://open.spotify.com/artist/3nm10RPR7Ts3qPCwhQBUew), [Jon Nellen](https://open.spotify.com/artist/68eXZPcc2MQ1xEbwQ0M1Gn) | [The Visitation](https://open.spotify.com/album/33LAgAXSxNEHqeX1AKykTt) | 3:04 | 2023-03-01 | 2023-03-23 |

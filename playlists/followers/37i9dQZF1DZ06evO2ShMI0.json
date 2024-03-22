@@ -1,5 +1,5 @@
 {
-  "2024-03-21": 185890,
+  "2024-03-22": 185937,
   "date_first_scraped": "2022-10-27",
   "description": "This is Los Enanitos Verdes. The essential tracks, all in one playlist.",
   "name": "This Is Los Enanitos Verdes",
@@ -776,6 +776,24 @@
     },
     {
       "album": {
+        "name": "Tracci\u00f3n Ac\u00fastica",
+        "url": "https://open.spotify.com/album/7qu7sDMTGRKa3YTQSvJ0ga"
+      },
+      "artists": [
+        {
+          "name": "Los Enanitos Verdes",
+          "url": "https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR"
+        }
+      ],
+      "date_added": "2024-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272573,
+      "name": "No Me Veras / Metro Balderas - Medley",
+      "url": "https://open.spotify.com/track/0YxvtPIo6QQsdIX801mFNV"
+    },
+    {
+      "album": {
         "name": "Carrousel",
         "url": "https://open.spotify.com/album/7kbzQFUUaR7IRFLT40k4cT"
       },
@@ -1147,7 +1165,7 @@
       ],
       "date_added": "2022-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-21",
       "duration_ms": 242413,
       "name": "Tu Carcel - En Vivo",
       "url": "https://open.spotify.com/track/1lAFWiaVhJhvQ5Gtzp6vSu"

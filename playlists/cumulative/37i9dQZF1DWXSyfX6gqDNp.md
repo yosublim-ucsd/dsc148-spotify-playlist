@@ -4,7 +4,7 @@
 
 > Slow instrumental Jazz for evening listening pleasure.
 
-290 songs - 18 hr 43 min
+293 songs - 18 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,6 +32,7 @@
 | [And All Is Well Now](https://open.spotify.com/track/116Z8pydjYsREn2LWk7El7) | [Gillian Spencer Trio](https://open.spotify.com/artist/4NopJ2j5J608OXktrn5IAM) | [And All Is Well Now](https://open.spotify.com/album/15D4tQlzbR4iCFPSF2DqTM) | 3:09 | 2021-12-14 | 2022-05-04 |
 | [Angel Eyes](https://open.spotify.com/track/5qHNehosAT9As6OnEfjtR2) | [Saginaw Society](https://open.spotify.com/artist/6DZHD4qSGUFPJVZZARcJDY) | [Angel Eyes](https://open.spotify.com/album/5cvyX1YB1KWzgF0ZIsQPLJ) | 4:27 | 2024-02-02 |  |
 | [Anse Source d'Argent](https://open.spotify.com/track/4jl1mBMyPdpDh0mYadTZhR) | [Jenny Jones](https://open.spotify.com/artist/4EDpGeRNin742qDkiwBE1X) | [Anse Source d'Argent](https://open.spotify.com/album/78HJ40CFyeOvdOhGy9LItG) | 3:58 | 2023-01-12 |  |
+| [April Calling](https://open.spotify.com/track/4siGt6JIeTl3GgFynMaybU) | [Sand Quartet](https://open.spotify.com/artist/7yfwOkCekTgoZgzi9VavgA) | [April Calling](https://open.spotify.com/album/62YhZZOAgwAMrsXundbQRo) | 3:50 | 2024-03-22 |  |
 | [April's Fooling No One](https://open.spotify.com/track/0RmvBXTuE3jjfeybhXu4cx) | [Martin Landström](https://open.spotify.com/artist/4S6bYPPOxQPs9hSnUBbGBN) | [April's Fooling No One](https://open.spotify.com/album/3mkfgXUXFQdu1hdFXyEwGS) | 4:15 | 2022-12-08 |  |
 | [As Time Goes By](https://open.spotify.com/track/2FgLhm6EwB0Ix8XLHABFkC) | [The Headliner Trio](https://open.spotify.com/artist/79XAL1YXeOMQ2ksDQjvFa7) | [As Time Goes By](https://open.spotify.com/album/43blKT5tNQotndvCtQGMhg) | 4:10 | 2022-09-29 | 2023-03-10 |
 | [At Dusk](https://open.spotify.com/track/0XVdTFUuT5GpxURuICaFKK) | [Hara Noda](https://open.spotify.com/artist/6ezFSYpcIHmJfQ0ZrGQmyh) | [At Dusk](https://open.spotify.com/album/5uRwkihneepvVSGokwLDNO) | 3:24 | 2022-08-11 |  |
@@ -237,6 +238,7 @@
 | [Stillness](https://open.spotify.com/track/40ydDb82UYQzcZlqNsVj7N) | [KTZ Players](https://open.spotify.com/artist/5IFXbDEfoLijwZB1YB2bTe) | [Stillness](https://open.spotify.com/album/3VLOhMVLh2fwkOdCVWk760) | 2:47 | 2021-12-14 | 2023-03-03 |
 | [Stop Look Desire](https://open.spotify.com/track/1Tkj4AH4GndygWAUMJOMa2) | [Ellie & The Bunch](https://open.spotify.com/artist/3KgAqkM5fxFxW17aBtZkBD) | [Stop Look Desire](https://open.spotify.com/album/0KolRqxySLkvZWxnBhETRX) | 3:07 | 2021-12-14 | 2022-05-04 |
 | [Sun Souls](https://open.spotify.com/track/38YetMSYVQW7jRN1CxaHpA) | [Tosh Rhann Band](https://open.spotify.com/artist/0VO3Qw7YVwTbXhBx6neI0e) | [Of Laughter and Warmth](https://open.spotify.com/album/0Uq5FeJyKcIEUv07HQJPGc) | 2:38 | 2022-05-03 | 2023-08-25 |
+| [Sundown](https://open.spotify.com/track/5oldvHqsUzfMtwnKlMkRnr) | [Darlington](https://open.spotify.com/artist/6Kv77H8NfrNdRoGMCeuIVz) | [Sundown](https://open.spotify.com/album/1ogGGtD2mNryqVBb5nPSzL) | 3:48 | 2024-03-22 |  |
 | [Talk About Her Luck](https://open.spotify.com/track/0P6c4tOGYLMkrjDV0wLqRj) | [Fortune Morel Trio](https://open.spotify.com/artist/5IDJIXonrrl2nVcd4LZTQf) | [Talk About Her Luck](https://open.spotify.com/album/5nRpyRfHFVsSR1kLx9MnOk) | 2:32 | 2022-12-23 |  |
 | [Tammy's Song](https://open.spotify.com/track/4I06sodO9XIEDp760gLK9k) | [The Sweetgreens](https://open.spotify.com/artist/106pccUBSkmw5RR27vUT2N) | [Tammy's Song](https://open.spotify.com/album/1WTE1kF4gGBRxZqVg1e6w2) | 4:20 | 2022-06-29 | 2023-04-14 |
 | [Tell Me When](https://open.spotify.com/track/0HG8WuIuukHhsonrn50qKk) | [Gerry Mulligan](https://open.spotify.com/artist/6l40OFJhuTbHQ9V12evc9K) | [Gerry Mulligan Meets Ben Webster](https://open.spotify.com/album/0kFQ4gfEAniyQ2E169YMXE) | 5:06 | 2021-12-14 | 2022-05-11 |
@@ -247,6 +249,7 @@
 | [the point above](https://open.spotify.com/track/27j2QBudHBt7AYWjCpcnEa) | [Brandon's Three](https://open.spotify.com/artist/2YPncTc0Vj6Ofh2DDooAbM) | [the point above](https://open.spotify.com/album/7EeqlvrMoFYDZjWh1jDyuu) | 2:48 | 2021-12-14 |  |
 | [The Reasons That I Love You](https://open.spotify.com/track/1CLQ0p6nLmLQFCiUUkpBxW) | [6th Street Jazz](https://open.spotify.com/artist/1EQvOf7PPTDB3s0q1y9eD1) | [The Reasons That I Love You](https://open.spotify.com/album/5GM3f2GT3BwzfKtKdjE0O8) | 4:40 | 2022-08-11 |  |
 | [The Sorcerer's Cat](https://open.spotify.com/track/35CDNotxOd2mY7PSHrUdEY) | [Odo Lefebvre](https://open.spotify.com/artist/7lLtsVLpDbuhSvr5UE6HIU) | [The Sorcerer's Cat](https://open.spotify.com/album/6w6HIvgpdwCcMtz1wrRw3J) | 4:21 | 2023-08-10 | 2024-01-19 |
+| [The Summer Knows](https://open.spotify.com/track/0GU835SyAtVfauS8M4Nh2t) | [Irvin Smith Group](https://open.spotify.com/artist/4SL7KeObcdWbpCRzEKlhCJ) | [The Summer Knows](https://open.spotify.com/album/50La1T1HyprSENF1JrLO4e) | 2:54 | 2024-03-22 |  |
 | [The Tale of Bon Jean](https://open.spotify.com/track/0pHeCbLYoBAz88XscPh7XG) | [Ornette Haynes](https://open.spotify.com/artist/5Fb5lnOYweoOU7Xt5qQ1h6) | [The Tale of Bon Jean](https://open.spotify.com/album/0fmgiGhWJG9srZC7nz8mlu) | 2:40 | 2023-01-26 | 2023-09-01 |
 | [The Water Maiden](https://open.spotify.com/track/4Gj6COJPLXtgCoWen9kTiq) | [Buddy Kearnan Quartet](https://open.spotify.com/artist/57hqtVa5J3AcFvY29aFAQG) | [The Water Maiden](https://open.spotify.com/album/2VQ3bxCuOPtuHCzhMr2Ukm) | 3:27 | 2023-08-31 |  |
 | [The Way of the Winds](https://open.spotify.com/track/1hbpryH5fnRhWdE2CeyIjq) | [Ryder Quartet](https://open.spotify.com/artist/03feorh2ud2VxCrgRcsaLx) | [Mindful in Solitude](https://open.spotify.com/album/07ByAjCqjdAvcH64xoPZ7d) | 3:53 | 2023-02-23 |  |

@@ -1,12 +1,12 @@
 {
   "description": "Behagelig musik.",
-  "num_followers": 152780,
+  "num_followers": 152787,
   "original_name": "Ren hygge",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0YjQ5NjcxZDczOTNiY2QxMzU5MTU1ZjE5OGM1YTBmNmI0YzZiMWFl",
+  "snapshot_id": "MCwzNjBjODM1MjIyYzBjNzhmNzk0ODJlNGNlNWY0MmI0NGExYTIwMzRi",
   "tracks": [
     {
       "added_at": "2024-01-12 09:52:44",
@@ -75,22 +75,6 @@
     {
       "added_at": "2024-01-12 09:52:44",
       "album": {
-        "name": "- (Deluxe)",
-        "url": "https://open.spotify.com/album/2WFFcvzM0CgLaSq4MSkyZk"
-      },
-      "artists": [
-        {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-        }
-      ],
-      "duration_ms": 194848,
-      "name": "Eyes Closed",
-      "url": "https://open.spotify.com/track/3p7XQpdt8Dr6oMXSvRZ9bg"
-    },
-    {
-      "added_at": "2024-01-12 09:52:44",
-      "album": {
         "name": "Corinne Bailey Rae",
         "url": "https://open.spotify.com/album/141Mp3P2VKHQMhtkW1DyQg"
       },
@@ -103,6 +87,22 @@
       "duration_ms": 215360,
       "name": "Put Your Records On",
       "url": "https://open.spotify.com/track/2nGFzvICaeEWjIrBrL2RAx"
+    },
+    {
+      "added_at": "2024-01-12 09:52:44",
+      "album": {
+        "name": "- (Deluxe)",
+        "url": "https://open.spotify.com/album/2WFFcvzM0CgLaSq4MSkyZk"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "duration_ms": 194848,
+      "name": "Eyes Closed",
+      "url": "https://open.spotify.com/track/3p7XQpdt8Dr6oMXSvRZ9bg"
     },
     {
       "added_at": "2024-01-12 09:52:44",
@@ -223,6 +223,22 @@
     {
       "added_at": "2024-01-12 09:52:44",
       "album": {
+        "name": "Chaos And The Calm",
+        "url": "https://open.spotify.com/album/5BxvswQSGWrBbVCdx6mFGO"
+      },
+      "artists": [
+        {
+          "name": "James Bay",
+          "url": "https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD"
+        }
+      ],
+      "duration_ms": 260532,
+      "name": "Let It Go",
+      "url": "https://open.spotify.com/track/13HVjjWUZFaWilh2QUJKsP"
+    },
+    {
+      "added_at": "2024-01-12 09:52:44",
+      "album": {
         "name": "Perfect Duet (Ed Sheeran & Beyonc\u00e9)",
         "url": "https://open.spotify.com/album/52kvZcbEDm0v2kWZQXjuuA"
       },
@@ -239,22 +255,6 @@
       "duration_ms": 259550,
       "name": "Perfect Duet (Ed Sheeran & Beyonc\u00e9)",
       "url": "https://open.spotify.com/track/1bhUWB0zJMIKr9yVPrkEuI"
-    },
-    {
-      "added_at": "2024-01-12 09:52:44",
-      "album": {
-        "name": "Chaos And The Calm",
-        "url": "https://open.spotify.com/album/5BxvswQSGWrBbVCdx6mFGO"
-      },
-      "artists": [
-        {
-          "name": "James Bay",
-          "url": "https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD"
-        }
-      ],
-      "duration_ms": 260532,
-      "name": "Let It Go",
-      "url": "https://open.spotify.com/track/13HVjjWUZFaWilh2QUJKsP"
     },
     {
       "added_at": "2024-01-12 09:52:44",
@@ -939,22 +939,6 @@
     {
       "added_at": "2024-01-12 09:52:44",
       "album": {
-        "name": "English Rain",
-        "url": "https://open.spotify.com/album/7kyjDxYcff3MeWKtw0fnLW"
-      },
-      "artists": [
-        {
-          "name": "Gabrielle Aplin",
-          "url": "https://open.spotify.com/artist/3w6zswp5THsSKYLICUbDTZ"
-        }
-      ],
-      "duration_ms": 181400,
-      "name": "Please Don't Say You Love Me",
-      "url": "https://open.spotify.com/track/2PIlBukQ6limukVR8Ubb5o"
-    },
-    {
-      "added_at": "2024-01-12 09:52:44",
-      "album": {
         "name": "Electric Light",
         "url": "https://open.spotify.com/album/08cprzGPjtLDvKMwtQh93R"
       },
@@ -967,6 +951,22 @@
       "duration_ms": 197280,
       "name": "Wild Love",
       "url": "https://open.spotify.com/track/3XLZOk9aP5VxiO81xFSX2w"
+    },
+    {
+      "added_at": "2024-01-12 09:52:44",
+      "album": {
+        "name": "English Rain",
+        "url": "https://open.spotify.com/album/7kyjDxYcff3MeWKtw0fnLW"
+      },
+      "artists": [
+        {
+          "name": "Gabrielle Aplin",
+          "url": "https://open.spotify.com/artist/3w6zswp5THsSKYLICUbDTZ"
+        }
+      ],
+      "duration_ms": 181400,
+      "name": "Please Don't Say You Love Me",
+      "url": "https://open.spotify.com/track/2PIlBukQ6limukVR8Ubb5o"
     },
     {
       "added_at": "2024-01-12 09:52:44",
@@ -1051,22 +1051,6 @@
     {
       "added_at": "2024-01-12 09:52:44",
       "album": {
-        "name": "Rockferry",
-        "url": "https://open.spotify.com/album/6freV6eqxuFjSr3E93Oqtz"
-      },
-      "artists": [
-        {
-          "name": "Duffy",
-          "url": "https://open.spotify.com/artist/37NqXwtb6nIEqRt4EJSoIO"
-        }
-      ],
-      "duration_ms": 226386,
-      "name": "Warwick Avenue",
-      "url": "https://open.spotify.com/track/2IMIbiJlbi0pIs3FBpKFhS"
-    },
-    {
-      "added_at": "2024-01-12 09:52:44",
-      "album": {
         "name": "golden thing",
         "url": "https://open.spotify.com/album/33MiMpGm7MU2UBggBqBIUz"
       },
@@ -1079,6 +1063,22 @@
       "duration_ms": 219300,
       "name": "golden thing",
       "url": "https://open.spotify.com/track/5y2TuOFgwlpztHlqENHQOE"
+    },
+    {
+      "added_at": "2024-01-12 09:52:44",
+      "album": {
+        "name": "Rockferry",
+        "url": "https://open.spotify.com/album/6freV6eqxuFjSr3E93Oqtz"
+      },
+      "artists": [
+        {
+          "name": "Duffy",
+          "url": "https://open.spotify.com/artist/37NqXwtb6nIEqRt4EJSoIO"
+        }
+      ],
+      "duration_ms": 226386,
+      "name": "Warwick Avenue",
+      "url": "https://open.spotify.com/track/2IMIbiJlbi0pIs3FBpKFhS"
     },
     {
       "added_at": "2024-01-12 09:52:44",
@@ -1231,22 +1231,6 @@
     {
       "added_at": "2024-01-12 09:52:44",
       "album": {
-        "name": "Rhythm Inside (Acoustic)",
-        "url": "https://open.spotify.com/album/3inDY0cd6WvOfZ59DGn3rx"
-      },
-      "artists": [
-        {
-          "name": "Calum Scott",
-          "url": "https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX"
-        }
-      ],
-      "duration_ms": 212171,
-      "name": "Rhythm Inside - Acoustic",
-      "url": "https://open.spotify.com/track/7vO3KTA1YPgw6eb3NITrO3"
-    },
-    {
-      "added_at": "2024-01-12 09:52:44",
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/0SRFjDXW0BUtk5yChaT7xn"
       },
@@ -1259,6 +1243,22 @@
       "duration_ms": 169226,
       "name": "Get Here - Recorded At RAK Studios, London",
       "url": "https://open.spotify.com/track/6hPlYSx7wsnDE48NypYeuT"
+    },
+    {
+      "added_at": "2024-01-12 09:52:44",
+      "album": {
+        "name": "Rhythm Inside (Acoustic)",
+        "url": "https://open.spotify.com/album/3inDY0cd6WvOfZ59DGn3rx"
+      },
+      "artists": [
+        {
+          "name": "Calum Scott",
+          "url": "https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX"
+        }
+      ],
+      "duration_ms": 212171,
+      "name": "Rhythm Inside - Acoustic",
+      "url": "https://open.spotify.com/track/7vO3KTA1YPgw6eb3NITrO3"
     },
     {
       "added_at": "2024-01-12 09:52:44",
@@ -1327,22 +1327,6 @@
     {
       "added_at": "2024-01-12 09:52:44",
       "album": {
-        "name": "Raised Under Grey Skies (Deluxe)",
-        "url": "https://open.spotify.com/album/3cS0qzNDjE5SjdAL1W98fo"
-      },
-      "artists": [
-        {
-          "name": "JP Cooper",
-          "url": "https://open.spotify.com/artist/4kYGAK2zu9EAomwj3hXkXy"
-        }
-      ],
-      "duration_ms": 231533,
-      "name": "Wait",
-      "url": "https://open.spotify.com/track/3hqJFkxeobh6Y9mOL37NLx"
-    },
-    {
-      "added_at": "2024-01-12 09:52:44",
-      "album": {
         "name": "Same Kind Of Different (Acoustic)",
         "url": "https://open.spotify.com/album/6EWejNtoOEYMzQwKIpctti"
       },
@@ -1355,6 +1339,22 @@
       "duration_ms": 203262,
       "name": "Need You Now - Acoustic",
       "url": "https://open.spotify.com/track/1MIpU2U1kUInGTpaCYuVKs"
+    },
+    {
+      "added_at": "2024-01-12 09:52:44",
+      "album": {
+        "name": "Raised Under Grey Skies (Deluxe)",
+        "url": "https://open.spotify.com/album/3cS0qzNDjE5SjdAL1W98fo"
+      },
+      "artists": [
+        {
+          "name": "JP Cooper",
+          "url": "https://open.spotify.com/artist/4kYGAK2zu9EAomwj3hXkXy"
+        }
+      ],
+      "duration_ms": 231533,
+      "name": "Wait",
+      "url": "https://open.spotify.com/track/3hqJFkxeobh6Y9mOL37NLx"
     },
     {
       "added_at": "2024-01-12 09:52:44",
@@ -1587,22 +1587,6 @@
     {
       "added_at": "2024-01-12 09:52:44",
       "album": {
-        "name": "Somebody Loved",
-        "url": "https://open.spotify.com/album/5EtmydsGgsDtdLDEsbOFZL"
-      },
-      "artists": [
-        {
-          "name": "Kina Grannis",
-          "url": "https://open.spotify.com/artist/7h4j9YTJJuAHzLCc3KCvYu"
-        }
-      ],
-      "duration_ms": 153105,
-      "name": "Somebody Loved",
-      "url": "https://open.spotify.com/track/3s8AL0lXdxJYcyqELOrh2l"
-    },
-    {
-      "added_at": "2024-01-12 09:52:44",
-      "album": {
         "name": "Scars To Your Beautiful",
         "url": "https://open.spotify.com/album/7lwdqOUtzxHH7wxUHtFffj"
       },
@@ -1615,6 +1599,22 @@
       "duration_ms": 237857,
       "name": "Scars To Your Beautiful",
       "url": "https://open.spotify.com/track/19f6MVdX9dLFerHynoM5im"
+    },
+    {
+      "added_at": "2024-01-12 09:52:44",
+      "album": {
+        "name": "Somebody Loved",
+        "url": "https://open.spotify.com/album/5EtmydsGgsDtdLDEsbOFZL"
+      },
+      "artists": [
+        {
+          "name": "Kina Grannis",
+          "url": "https://open.spotify.com/artist/7h4j9YTJJuAHzLCc3KCvYu"
+        }
+      ],
+      "duration_ms": 153105,
+      "name": "Somebody Loved",
+      "url": "https://open.spotify.com/track/3s8AL0lXdxJYcyqELOrh2l"
     },
     {
       "added_at": "2024-01-12 09:52:44",
@@ -1651,26 +1651,6 @@
     {
       "added_at": "2024-01-12 09:52:44",
       "album": {
-        "name": "Be Kind (with Halsey) [Stripped]",
-        "url": "https://open.spotify.com/album/0h5edj03nELwi0b9C71QaU"
-      },
-      "artists": [
-        {
-          "name": "Marshmello",
-          "url": "https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T"
-        },
-        {
-          "name": "Halsey",
-          "url": "https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2"
-        }
-      ],
-      "duration_ms": 173682,
-      "name": "Be Kind (with Halsey) [Stripped]",
-      "url": "https://open.spotify.com/track/2CAb0iGKrcIpzPvGOjJere"
-    },
-    {
-      "added_at": "2024-01-12 09:52:44",
-      "album": {
         "name": "Gravity",
         "url": "https://open.spotify.com/album/5Mx20XChcfUjpjdcJuPeno"
       },
@@ -1687,6 +1667,26 @@
       "duration_ms": 182066,
       "name": "Gravity",
       "url": "https://open.spotify.com/track/5EjG2jgzovOhN3OzWCcbdu"
+    },
+    {
+      "added_at": "2024-01-12 09:52:44",
+      "album": {
+        "name": "Be Kind (with Halsey) [Stripped]",
+        "url": "https://open.spotify.com/album/0h5edj03nELwi0b9C71QaU"
+      },
+      "artists": [
+        {
+          "name": "Marshmello",
+          "url": "https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T"
+        },
+        {
+          "name": "Halsey",
+          "url": "https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2"
+        }
+      ],
+      "duration_ms": 173682,
+      "name": "Be Kind (with Halsey) [Stripped]",
+      "url": "https://open.spotify.com/track/2CAb0iGKrcIpzPvGOjJere"
     },
     {
       "added_at": "2024-01-12 09:52:44",
@@ -1771,22 +1771,6 @@
     {
       "added_at": "2024-01-12 09:52:44",
       "album": {
-        "name": "If That's Alright",
-        "url": "https://open.spotify.com/album/3ZxgIRFBsbYYxcKOIVaXPx"
-      },
-      "artists": [
-        {
-          "name": "Dylan Dunlap",
-          "url": "https://open.spotify.com/artist/7CanUos0itnFLMrCiT839W"
-        }
-      ],
-      "duration_ms": 235393,
-      "name": "If That's Alright",
-      "url": "https://open.spotify.com/track/1sOHsqg3EeaimEJM72CZa5"
-    },
-    {
-      "added_at": "2024-01-12 09:52:44",
-      "album": {
         "name": "Perfect to Me (Acoustic)",
         "url": "https://open.spotify.com/album/4bVFapJCV0zmEd2e6qq74v"
       },
@@ -1799,6 +1783,22 @@
       "duration_ms": 213213,
       "name": "Perfect To Me - Acoustic",
       "url": "https://open.spotify.com/track/5OWrEfTdsOsTxMbznYDVL0"
+    },
+    {
+      "added_at": "2024-01-12 09:52:44",
+      "album": {
+        "name": "If That's Alright",
+        "url": "https://open.spotify.com/album/3ZxgIRFBsbYYxcKOIVaXPx"
+      },
+      "artists": [
+        {
+          "name": "Dylan Dunlap",
+          "url": "https://open.spotify.com/artist/7CanUos0itnFLMrCiT839W"
+        }
+      ],
+      "duration_ms": 235393,
+      "name": "If That's Alright",
+      "url": "https://open.spotify.com/track/1sOHsqg3EeaimEJM72CZa5"
     },
     {
       "added_at": "2024-01-12 09:52:44",
@@ -1835,22 +1835,6 @@
     {
       "added_at": "2024-01-12 09:52:44",
       "album": {
-        "name": "Why Her Not Me - EP",
-        "url": "https://open.spotify.com/album/5f0eFn8Iv1PU8b4ylLxRJY"
-      },
-      "artists": [
-        {
-          "name": "Grace Carter",
-          "url": "https://open.spotify.com/artist/2LuHL7im4aCEmfOlD4rxBC"
-        }
-      ],
-      "duration_ms": 219012,
-      "name": "Silence",
-      "url": "https://open.spotify.com/track/0Q1QQ3R3s6VbX7ZB8shmvp"
-    },
-    {
-      "added_at": "2024-01-12 09:52:44",
-      "album": {
         "name": "Lukas Graham",
         "url": "https://open.spotify.com/album/4rFrdkSWs0dtj0rWPzOk1v"
       },
@@ -1863,6 +1847,22 @@
       "duration_ms": 236853,
       "name": "What Happened to Perfect",
       "url": "https://open.spotify.com/track/67DNRQWjRLMFvekBRprYtW"
+    },
+    {
+      "added_at": "2024-01-12 09:52:44",
+      "album": {
+        "name": "Why Her Not Me - EP",
+        "url": "https://open.spotify.com/album/5f0eFn8Iv1PU8b4ylLxRJY"
+      },
+      "artists": [
+        {
+          "name": "Grace Carter",
+          "url": "https://open.spotify.com/artist/2LuHL7im4aCEmfOlD4rxBC"
+        }
+      ],
+      "duration_ms": 219012,
+      "name": "Silence",
+      "url": "https://open.spotify.com/track/0Q1QQ3R3s6VbX7ZB8shmvp"
     },
     {
       "added_at": "2024-01-12 09:52:44",

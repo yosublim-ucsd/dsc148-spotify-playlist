@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTKHCqejn1Vg.md) - [plain]
 
 > 사랑이 더욱 뜨겁게 섞일 때.
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,836 likes - 60 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,843 likes - 60 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,18 +29,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTKHCqejn1Vg.md) - [plain]
 | 19 | [Infrared Camera](https://open.spotify.com/track/0YRuXgAFpfsIx8GgsJBJu3) | [Wonstein](https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk) | [Show Me The Money 9 Episode 3](https://open.spotify.com/album/1FFLLpkDzRG59I1S6s7vGt) | 3:25 |
 | 20 | [Wildfire](https://open.spotify.com/track/3vsfL1GdEMvoUs59KERxPx) | [Eric Nam](https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM) | [There And Back Again](https://open.spotify.com/album/643X6WW2ijEwMLaNjp1dk1) | 3:16 |
 | 21 | [Dank](https://open.spotify.com/track/11r7IfsMb8jT8AMFaGvsh4) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [V](https://open.spotify.com/album/09agRqLawn8DRSVYlKsJJo) | 3:18 |
-| 22 | [RING RING](https://open.spotify.com/track/62AE0Zae7OrkJ1NzA3BW0V) | [Sik\-K](https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn), [Gaeko](https://open.spotify.com/artist/0tkHE1pQ5ZCgQb8WZ0ba79) | [Ring Ring](https://open.spotify.com/album/4N9thFENBkyWKwhdzpJQfH) | 3:26 |
+| 22 | [AM PM \(feat\. Whee In\) \- Prod\. Gray](https://open.spotify.com/track/1J1hPnwTw80wpVWRv8yuxj) | [JAY B](https://open.spotify.com/artist/3IjHX8KZKoeq3X4QgXxqbT), [Whee In](https://open.spotify.com/artist/0BqRGrwqndrtNkojXiqIzL) | [SOMO: FUME](https://open.spotify.com/album/2T8iLSKPraJotM2uXFKW4F) | 3:37 |
 | 23 | [I Love It](https://open.spotify.com/track/6CBA5xTE7Z4cyA9rzlhFdA) | [DEAN](https://open.spotify.com/artist/3eCd0TZrBPm2n9cDG6yWfF), [Dok2](https://open.spotify.com/artist/0rW6fVd3yuW2CF2sLYWQtE) | [130 Mood : TRBL](https://open.spotify.com/album/1MW3txTS49ZGvyLi0fziLU) | 3:36 |
-| 24 | [AM PM \(feat\. Whee In\) \- Prod\. Gray](https://open.spotify.com/track/1J1hPnwTw80wpVWRv8yuxj) | [JAY B](https://open.spotify.com/artist/3IjHX8KZKoeq3X4QgXxqbT), [Whee In](https://open.spotify.com/artist/0BqRGrwqndrtNkojXiqIzL) | [SOMO: FUME](https://open.spotify.com/album/2T8iLSKPraJotM2uXFKW4F) | 3:37 |
+| 24 | [RING RING](https://open.spotify.com/track/62AE0Zae7OrkJ1NzA3BW0V) | [Sik\-K](https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn), [Gaeko](https://open.spotify.com/artist/0tkHE1pQ5ZCgQb8WZ0ba79) | [Ring Ring](https://open.spotify.com/album/4N9thFENBkyWKwhdzpJQfH) | 3:26 |
 | 25 | [Habit](https://open.spotify.com/track/1RQqbSlookHZBgm5Cf3Sg4) | [I.M](https://open.spotify.com/artist/49tkHHS0mXwa5eLYvyvKyd) | [OVERDRIVE](https://open.spotify.com/album/0IypTpMarJExzpoVXFPmW1) | 3:04 |
 | 26 | [She Said \(with BIBI\)](https://open.spotify.com/track/53ea1y50REK9XOjzEmsm4W) | [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g), [BIBI](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) | [with HER](https://open.spotify.com/album/2NBgvn1II3DilIlJIEL5tW) | 3:28 |
 | 27 | [Chase](https://open.spotify.com/track/2BAlBVu2OLWEfFsd4Irqwt) | [MINHO](https://open.spotify.com/artist/08uRwDeNv1d7FSwlOUZdSn) | [CHASE \- The 1st Mini Album](https://open.spotify.com/album/0rhJHOLAXHJpkwYdiAb07S) | 3:26 |
 | 28 | [ROSE \(feat\. Skinny Brown, Homeboy\)](https://open.spotify.com/track/1CB7xt4rCsyh0RY2eKA2oH) | [YANGHONGWON](https://open.spotify.com/artist/1SsVqqC31h54Hg08g7uQhM), [Skinny Brown](https://open.spotify.com/artist/0E0fq98DMHhkAgiXWpCViX), [Homeboy](https://open.spotify.com/artist/7ocuKBIqxHfc5m49bY7hO7) | [Stranger](https://open.spotify.com/album/64u3D3rw0zxNkLVcFcPCQ6) | 4:27 |
 | 29 | [YOU KNOW \(Feat\. Okasian\)](https://open.spotify.com/track/6YM2Wl7KAr0MExcTiYpw5D) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI), [Okasian](https://open.spotify.com/artist/5XdnR0kqQUWzeTDdsJNulO) | [WORLDWIDE](https://open.spotify.com/album/5vESroqrGYDxDPAwUceQxf) | 4:04 |
 | 30 | [Waiting For](https://open.spotify.com/track/3Ql4eE1qDzuhZVnE8jyjdt) | [TAEMIN](https://open.spotify.com/artist/13rF01aOogvnkuQXOlgTW8) | [Never Gonna Dance Again : Act 1 \- The 3rd Album](https://open.spotify.com/album/6YfGgOaUnhs0A9brMqjpHf) | 2:57 |
-| 31 | [In the Blur of the Rain](https://open.spotify.com/track/5NbGKVTywRBQpqkkaQJi5j) | [Jiwoo](https://open.spotify.com/artist/51FKMPw06mntCaz6yO6ddg) | [Evergray](https://open.spotify.com/album/7DMeNlCClB36augRfjESKN) | 3:53 |
-| 32 | [Two Pills](https://open.spotify.com/track/6dLpWqTE8JM10tDOTB17Y3) | [Leellamarz](https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0) | [STILL YOUNG BOY L](https://open.spotify.com/album/0x9dXa3HhLBstlkyarka7Q) | 2:57 |
-| 33 | [In To You \(feat\. g1nger\) \- Prod\. WOOGIE](https://open.spotify.com/track/01vDYm34I3kVygzQ29T1no) | [JAY B](https://open.spotify.com/artist/3IjHX8KZKoeq3X4QgXxqbT), [g1nger](https://open.spotify.com/artist/2Ff22VkmQhrsSaIe0Fksrs) | [SOMO: FUME](https://open.spotify.com/album/2T8iLSKPraJotM2uXFKW4F) | 3:38 |
+| 31 | [In To You \(feat\. g1nger\) \- Prod\. WOOGIE](https://open.spotify.com/track/01vDYm34I3kVygzQ29T1no) | [JAY B](https://open.spotify.com/artist/3IjHX8KZKoeq3X4QgXxqbT), [g1nger](https://open.spotify.com/artist/2Ff22VkmQhrsSaIe0Fksrs) | [SOMO: FUME](https://open.spotify.com/album/2T8iLSKPraJotM2uXFKW4F) | 3:38 |
+| 32 | [In the Blur of the Rain](https://open.spotify.com/track/5NbGKVTywRBQpqkkaQJi5j) | [Jiwoo](https://open.spotify.com/artist/51FKMPw06mntCaz6yO6ddg) | [Evergray](https://open.spotify.com/album/7DMeNlCClB36augRfjESKN) | 3:53 |
+| 33 | [Two Pills](https://open.spotify.com/track/6dLpWqTE8JM10tDOTB17Y3) | [Leellamarz](https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0) | [STILL YOUNG BOY L](https://open.spotify.com/album/0x9dXa3HhLBstlkyarka7Q) | 2:57 |
 | 34 | [Blame](https://open.spotify.com/track/2PviI6dkTJ2MM3omn3P9Id) | [I.M](https://open.spotify.com/artist/49tkHHS0mXwa5eLYvyvKyd) | [OVERDRIVE](https://open.spotify.com/album/0IypTpMarJExzpoVXFPmW1) | 2:41 |
 | 35 | [Pick up your phone \(Feat\. MOON\)](https://open.spotify.com/track/5FMPLl79EfOnRZ4xn2Mck0) | [GroovyRoom](https://open.spotify.com/artist/29HqjVbJr3vsc2l6BTI4eB), [Leellamarz](https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0), [Moon Sujin](https://open.spotify.com/artist/36MQil20hjOpG5f52NQ4du) | [ROOM SERVICE](https://open.spotify.com/album/1GbGtBHI4yiKprKQq81El0) | 3:05 |
 | 36 | [Illusion](https://open.spotify.com/track/26vcAIAnkT3d7i9B8gtpTy) | [B.I](https://open.spotify.com/artist/0UntV1Bw2hk3fbRrm9eMP6) | [WATERFALL](https://open.spotify.com/album/4ZK9zZuiaZsryNQC8NLlQu) | 3:18 |
@@ -63,10 +63,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTKHCqejn1Vg.md) - [plain]
 | 53 | [Honestly](https://open.spotify.com/track/4xl6ouBRgiUSWCuuSaC3kb) | [HeeJin](https://open.spotify.com/artist/3Rhvjo5PVNMeUa5OzFXzks) | [Honestly](https://open.spotify.com/album/2YUFblD9rLzVfgSJVBjmhx) | 3:17 |
 | 54 | [kiss my lips](https://open.spotify.com/track/38hndqHRm6jQEwUMHlUWjl) | [Jimmy Brown](https://open.spotify.com/artist/5YPCpDIPOY4WqY9Bqdw4Uc) | [kiss my lips](https://open.spotify.com/album/27tRNKb20UIkshCBrdIPr3) | 3:15 |
 | 55 | [Get That Money](https://open.spotify.com/track/1Hmj4hRlzSfs7RA1jCkU5m) | [Sik\-K](https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn) | [BOYCOLD](https://open.spotify.com/album/702oAXJwcml4VxPHLQWwrS) | 3:13 |
-| 56 | [Remained scent](https://open.spotify.com/track/7CLEVioXRrdbAhK82emGEf) | [BB](https://open.spotify.com/artist/4AsWfslaatLcNfRiK0RXX6) | [Remained scent](https://open.spotify.com/album/5638w5Ob2sZRfvGT1JkmKu) | 3:06 |
-| 57 | [Harujongil](https://open.spotify.com/track/4Dwsvu6JgyAH78GfdlUxBh) | [Jazzyfact](https://open.spotify.com/artist/7l9DszIMmxbcc24RJwqJY8) | [Waves Like](https://open.spotify.com/album/00rJeDpdXyLu7YJo7CT4tE) | 3:44 |
+| 56 | [Harujongil](https://open.spotify.com/track/4Dwsvu6JgyAH78GfdlUxBh) | [Jazzyfact](https://open.spotify.com/artist/7l9DszIMmxbcc24RJwqJY8) | [Waves Like](https://open.spotify.com/album/00rJeDpdXyLu7YJo7CT4tE) | 3:44 |
+| 57 | [Remained scent](https://open.spotify.com/track/7CLEVioXRrdbAhK82emGEf) | [BB](https://open.spotify.com/artist/4AsWfslaatLcNfRiK0RXX6) | [Remained scent](https://open.spotify.com/album/5638w5Ob2sZRfvGT1JkmKu) | 3:06 |
 | 58 | [Kurkdjian](https://open.spotify.com/track/6Nk37ODgtd8b4wLzzKNXlU) | [Jiwoo](https://open.spotify.com/artist/51FKMPw06mntCaz6yO6ddg) | [Evergray](https://open.spotify.com/album/7DMeNlCClB36augRfjESKN) | 3:30 |
-| 59 | [DADDY](https://open.spotify.com/track/2638VL0O0p4sB7BcQoxC2f) | [BLOO](https://open.spotify.com/artist/3ghCvruix2FYZ81DHRlOt1) | [MOON AND BACK](https://open.spotify.com/album/5mwjmXHp1zgVbmfQQu9uUX) | 2:21 |
-| 60 | [Coffee](https://open.spotify.com/track/22jxHUUAI8nqbNOZRDj0uR) | [TAEWOO](https://open.spotify.com/artist/5aPl0S4RS3C1l05l4RU04x) | [Coffee](https://open.spotify.com/album/1U1Eablns7H5xPBtSSW7sz) | 2:28 |
+| 59 | [White Snow \(feat\. prettyhappy\)](https://open.spotify.com/track/40Qme85r9hwf0NaHUU6wu6) | [Dept](https://open.spotify.com/artist/48JtfAggQQpfUXQNxkGm5U), [prettyhappy](https://open.spotify.com/artist/3doCkojWogBLg7PlYwaiG5) | [White Snow](https://open.spotify.com/album/30nfsEtFfMujcgxWL2ifEV) | 3:04 |
+| 60 | [DADDY](https://open.spotify.com/track/2638VL0O0p4sB7BcQoxC2f) | [BLOO](https://open.spotify.com/artist/3ghCvruix2FYZ81DHRlOt1) | [MOON AND BACK](https://open.spotify.com/album/5mwjmXHp1zgVbmfQQu9uUX) | 2:21 |
 
-Snapshot ID: `MCxlZjY0ZGZiYzcxMDQ2MDc4MGY3ZTc1M2UwNTBjM2U1MTllYjY0ZDUz`
+Snapshot ID: `MCw4MmZmNjBiNDEyZWEzNTJhOTY5NGQzN2E2OWM5ZTllYzFjM2VlZTRl`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb9tg3GqJkNv.md) - [plain]
 
 > A collection of <a href="https://open.spotify.com/playlist/37i9dQZF1DX59ogDi1Z2XL?si=75c9bb9755f54283">Northern Bars</a>’ finest\. Cover: Planet Giza
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,808 likes - 75 songs - 3 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,823 likes - 75 songs - 3 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb9tg3GqJkNv.md) - [plain]
 | 29 | [Everywhere We Go](https://open.spotify.com/track/0vdbvgggS673fhvHdrU34E) | [SonReal](https://open.spotify.com/artist/2OlZK0VIzr7wQYSrj9bOvF) | [Everywhere We Go Single](https://open.spotify.com/album/69Vz9WpIGsDwUU8Czqapy2) | 3:18 |
 | 30 | [Twin Flame](https://open.spotify.com/track/15cYjzRUBRrDHn76GdxWiv) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) | [Twin Flame](https://open.spotify.com/album/1SzuRFxlqSZTIWUEE587Oy) | 3:52 |
 | 31 | [Bass \(feat\. Tech N9ne & Hopsin\)](https://open.spotify.com/track/6oOX1c2fcsYbdgxUkI80h0) | [Merkules](https://open.spotify.com/artist/4oYZcPoj3q3DneXomtQBzg), [Tech N9ne](https://open.spotify.com/artist/6UBA15slIuadJ8h2lPRPos), [Hopsin](https://open.spotify.com/artist/7EWU4FhUJM1sZQgQKdENeT) | [Special Occasion](https://open.spotify.com/album/41EeKSi50U1kVWCq08Cqav) | 3:53 |
-| 32 | [Live Up to My Name](https://open.spotify.com/track/79KZAInFkxA0XLukZCGzvh) | [Baka Not Nice](https://open.spotify.com/artist/3yvCFkK57FXH7JIwZQ5CmU) | [4Milli](https://open.spotify.com/album/28vYZP2mGD54CUoY0lPUr2) | 3:00 |
-| 33 | [Pizzazz](https://open.spotify.com/track/3QGXdTGnH3EnbSw6KtBSDu) | [Akintoye](https://open.spotify.com/artist/1EgCxqT8GgE5oXX3PkeGhq) | [Pizzazz](https://open.spotify.com/album/2R5AREpPKUMqQyIVQG61FI) | 3:11 |
+| 32 | [Pizzazz](https://open.spotify.com/track/3QGXdTGnH3EnbSw6KtBSDu) | [Akintoye](https://open.spotify.com/artist/1EgCxqT8GgE5oXX3PkeGhq) | [Pizzazz](https://open.spotify.com/album/2R5AREpPKUMqQyIVQG61FI) | 3:11 |
+| 33 | [Live Up to My Name](https://open.spotify.com/track/79KZAInFkxA0XLukZCGzvh) | [Baka Not Nice](https://open.spotify.com/artist/3yvCFkK57FXH7JIwZQ5CmU) | [4Milli](https://open.spotify.com/album/28vYZP2mGD54CUoY0lPUr2) | 3:00 |
 | 34 | [Killamonjaro](https://open.spotify.com/track/537l7spEsGg6aWl6Y9eKAs) | [KILLY](https://open.spotify.com/artist/0gCGZZ1Ibo5QsOnll977PD) | [Killamonjaro](https://open.spotify.com/album/7IXOHbcGCzApTTInOsIbCB) | 2:58 |
 | 35 | [Bali](https://open.spotify.com/track/4y5tKWeAUcaFE6O8Fa8XsY) | [88GLAM](https://open.spotify.com/artist/2I9SLklAOG0vdMiUUMNxRl), [NAV](https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC) | [88GLAM RELOADED](https://open.spotify.com/album/5FqQFZh4GPzYuEXJCXYd36) | 3:05 |
 | 36 | [Griselda Blanco](https://open.spotify.com/track/5TuREdxaWbjceZbX1945f8) | [Pengz](https://open.spotify.com/artist/6MtptleIGJ3C7lOpGf9Hxc), [TwoTwo](https://open.spotify.com/artist/3H6Mld9y4gFvW3LDEJUUoQ) | [Griselda Blanco](https://open.spotify.com/album/17LK6OSJ1oVihjzSHYIiMj) | 3:27 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb9tg3GqJkNv.md) - [plain]
 | 74 | [Repeat](https://open.spotify.com/track/3KFef9uMAxT4gyS2fEi9vd) | [Houdini](https://open.spotify.com/artist/2Ruhhm5oH4pxgsEUVZcaHm), [NorthSideBenji](https://open.spotify.com/artist/2EzNKTHTCUaHUkKaNFUH8d) | [Repeat](https://open.spotify.com/album/5tUI7R1lHw5Lk6nUENIgtG) | 3:28 |
 | 75 | [KING OF THE TOWN](https://open.spotify.com/track/7h1t1cI0DOSZQ0jHm3u0zA) | [DillanPonders](https://open.spotify.com/artist/1TlmLsx42aT281z8NWrKef) | [BECAUSE WE'RE ALIVE](https://open.spotify.com/album/6wZMRN2p4tG53w6ixx16wS) | 2:31 |
 
-Snapshot ID: `MCw4NzdiYzFmMmZjZWExMTZiOWMwZjljM2VkNTdlYzBhY2RmYjVmMTc3`
+Snapshot ID: `MCwwYjJkNTE2NTMzMDM2M2E2MmMxZTllOWE0YjRiYTNlMDYxOGViYjVh`

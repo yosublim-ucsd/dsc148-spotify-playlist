@@ -4,7 +4,7 @@
 
 > A collection of Industrial Metal \- fresh and old tunes\. Cover: Fear Factory
 
-209 songs - 14 hr 53 min
+210 songs - 14 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,7 +12,7 @@
 | [A Drug Against War](https://open.spotify.com/track/0jHmidMFTjOSkzuHrNepY7) | [KMFDM](https://open.spotify.com/artist/3V4IvzRQYP5mzuVtkcHgVa) | [Angst](https://open.spotify.com/album/6We2VFbkhbRCQNX7Vud8aY) | 3:35 | 2022-08-12 |  |
 | [A Lovely Day \- Combichrist Remix](https://open.spotify.com/track/11uHy5357PCMtPosATQtJr) | [Pure Obsessions & Red Nights](https://open.spotify.com/artist/6m9fysdVTyH0KxNhG3DDaT), [Combichrist](https://open.spotify.com/artist/5556RAgwP70PnXbaUTGNbR) | [A Lovely Day \(Combichrist Remix\)](https://open.spotify.com/album/1htenv8mn6GSc3ONcORknK) | 6:16 | 2022-07-01 | 2022-07-29 |
 | [A Matter of Time](https://open.spotify.com/track/2evoS3lDuKhiTACNU8T3ny) | [Celldweller](https://open.spotify.com/artist/4BKyei61gtyDFxlKhcvBJJ) | [A Matter of Time](https://open.spotify.com/album/13YojjYoqTGSmHASOXUUra) | 6:02 | 2022-07-01 | 2022-07-29 |
-| [A Matter of Time](https://open.spotify.com/track/524Hl6lEjcLUGbBYiRzh6q) | [Celldweller](https://open.spotify.com/artist/4BKyei61gtyDFxlKhcvBJJ) | [Satellites](https://open.spotify.com/album/4OgyvunD0wEwor26qFeXr0) | 6:02 | 2022-10-21 |  |
+| [A Matter of Time](https://open.spotify.com/track/524Hl6lEjcLUGbBYiRzh6q) | [Celldweller](https://open.spotify.com/artist/4BKyei61gtyDFxlKhcvBJJ) | [Satellites](https://open.spotify.com/album/4OgyvunD0wEwor26qFeXr0) | 6:02 | 2022-10-21 | 2024-03-22 |
 | [A Violent Reaction](https://open.spotify.com/track/00YeAWckFwAyrvzvHlYMOk) | [American Head Charge](https://open.spotify.com/artist/6Ig4qybKXgMN2FLSM7GKau) | [The War Of Art](https://open.spotify.com/album/5dBhZn63iuwNTQ9JnDktsl) | 4:12 | 2022-07-01 |  |
 | [After the Flesh](https://open.spotify.com/track/2GGFfHz2laYuGNDtqJRvAK) | [My Life With The Thrill Kill Kult](https://open.spotify.com/artist/7FfAD7EYZbQ7aHPy9ujduD) | [The Crow Original Motion Picture Soundtrack](https://open.spotify.com/album/3y7Mwv7UqhABQqsGlzSL6n) | 2:59 | 2022-08-12 |  |
 | [Alert Level \(Quarantined Mix\)](https://open.spotify.com/track/5qR6Na1PE0Q2s0i2nkvmER) | [Ministry](https://open.spotify.com/artist/1DXylZlWbVvlckNqwvjTEt) | [Alert Level \(Quarantined Mix\)](https://open.spotify.com/album/05hx91BgMBOcBKxR0QdwmZ) | 6:06 | 2022-07-01 | 2022-07-29 |
@@ -191,6 +191,7 @@
 | [Supernaut](https://open.spotify.com/track/1LkYAkYzqq7TbJTGfx3ixY) | [1000 Homo DJs](https://open.spotify.com/artist/62G7ybeJSN91TgfsWsdDOb) | [Supernaut](https://open.spotify.com/album/59or2rVv97PQ4dS45ohNlQ) | 6:42 | 2022-08-12 |  |
 | [Switch Me On](https://open.spotify.com/track/0zMXMRSvsp1rUR6b2OQzM8) | [DK\-Zero](https://open.spotify.com/artist/4cLLqaNLRraPsftkZ8FhjV) | [Switch Me On](https://open.spotify.com/album/72E6OfSpNvTkNdqHJ90wgF) | 3:23 | 2022-07-01 | 2022-07-28 |
 | [Switchback](https://open.spotify.com/track/3lUwCryVobacobYrN5f2Je) | [Celldweller](https://open.spotify.com/artist/4BKyei61gtyDFxlKhcvBJJ) | [Celldweller \(Deluxe Edition\)](https://open.spotify.com/album/1gStSHuxB1XHGBzPDQHU9w) | 5:02 | 2022-07-01 | 2024-03-20 |
+| [Switchback](https://open.spotify.com/track/4sKi48OClEyho57D26hJdU) | [Celldweller](https://open.spotify.com/artist/4BKyei61gtyDFxlKhcvBJJ) | [Celldweller \(Definitive Edition\)](https://open.spotify.com/album/4NvgNR8QhQKNvsjangqMcT) | 5:02 | 2024-01-30 |  |
 | [Tech Noir](https://open.spotify.com/track/3pBs4Bc6lz2gib5v7k8H77) | [ssSHhh](https://open.spotify.com/artist/6nqlK6RhS69jFzctPiOWxi), [Krista](https://open.spotify.com/artist/56AziF7rLP07PPGgUTzcxH) | [Tech Noir](https://open.spotify.com/album/2tWjnYbjtjL4U0QzsK935L) | 4:22 | 2022-07-01 | 2022-07-29 |
 | [Terrible Lie](https://open.spotify.com/track/3o1nX61oecxnqXieA2ma0U) | [Nine Inch Nails](https://open.spotify.com/artist/0X380XXQSNBYuleKzav5UO) | [Pretty Hate Machine](https://open.spotify.com/album/3umFHeEpc4yLXtrRcv9gLN) | 4:38 | 2022-09-16 | 2022-09-26 |
 | [The Beautiful People](https://open.spotify.com/track/2aIB1CdRRG7YLBu9hNw9nR) | [Marilyn Manson](https://open.spotify.com/artist/2VYQTNDsvvKN9wmU5W7xpj) | [Antichrist Superstar](https://open.spotify.com/album/7APnZJwayR3lH9aUDPDYQB) | 3:38 | 2022-07-01 |  |

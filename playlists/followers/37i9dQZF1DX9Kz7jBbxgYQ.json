@@ -1,5 +1,5 @@
 {
-  "2024-03-21": 148036,
+  "2024-03-22": 148165,
   "date_first_scraped": "2022-05-30",
   "description": "Home to the best of South Asian Indie scene. Cover: Aashir Wajahat",
   "name": "Desi Indie",
@@ -1011,10 +1011,28 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-21",
       "duration_ms": 208250,
       "name": "Chor",
       "url": "https://open.spotify.com/track/53gdHIMmv3XubECRLL6R62"
+    },
+    {
+      "album": {
+        "name": "Chor",
+        "url": "https://open.spotify.com/album/1wBSOR9eFqfkDFyJtwPm7V"
+      },
+      "artists": [
+        {
+          "name": "Justh",
+          "url": "https://open.spotify.com/artist/6gxRXj2KUJ02vfIgkNUq5b"
+        }
+      ],
+      "date_added": "2024-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208250,
+      "name": "Chor",
+      "url": "https://open.spotify.com/track/6YewfSA18qq5xl1KlJQkpY"
     },
     {
       "album": {

@@ -1,5 +1,5 @@
 {
-  "2024-03-21": 424103,
+  "2024-03-22": 424184,
   "date_first_scraped": "2022-01-01",
   "description": "Smooth, relaxing as jazz can be, here's the soothing magic in the thick of night from the middle of the light...",
   "name": "Smooth Jazz",
@@ -2941,7 +2941,7 @@
       ],
       "date_added": "2022-07-11",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-30",
+      "date_removed": null,
       "duration_ms": 289946,
       "name": "On The One",
       "url": "https://open.spotify.com/track/0NL4WODOFyg5qcbcNQ4MaJ"
@@ -4285,7 +4285,7 @@
       ],
       "date_added": "2023-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-21",
       "duration_ms": 260333,
       "name": "Valentin Dream (feat. Bob Baldwin)",
       "url": "https://open.spotify.com/track/3RO3Ct4WkUIaYIC5AP9j2A"

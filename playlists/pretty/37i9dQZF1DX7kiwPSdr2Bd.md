@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7kiwPSdr2Bd.md) - [plain]
 
 > Ouça as principais vozes de adoradoras do gospel brasileiro\. Foto: Mari Borges
 
-[Spotify](https://open.spotify.com/user/spotify) - 314,610 likes - 80 songs - 7 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 314,731 likes - 80 songs - 7 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7kiwPSdr2Bd.md) - [plain]
 | 46 | [Na Unção de Deus \- Ao Vivo](https://open.spotify.com/track/0eAEn4Haj90B5KLNc7bJSx) | [Elaine de Jesus](https://open.spotify.com/artist/6bGbc8Wuk79kOzhCDWmeQQ) | [Na Unção de Deus \(Ao Vivo\)](https://open.spotify.com/album/7y08pBnk5D0K4SdGgVJLM6) | 5:38 |
 | 47 | [Romanos 8:26 \(Ao Vivo\)](https://open.spotify.com/track/4eEB1CdGj3I7kv3QNykRnG) | [Fernanda Brum](https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8) | [Romanos 8:26 \(Ao Vivo\)](https://open.spotify.com/album/4la129Bk0w8ubbxMwwHzkC) | 4:29 |
 | 48 | [Recompensa \(Ao Vivo\)](https://open.spotify.com/track/73DqTcyWoULHoOjmsjYFhd) | [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3), [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR) | [Recompensa \(Ao Vivo\)](https://open.spotify.com/album/0vQ7L4VXrnkUnQ7B8nmEdx) | 3:51 |
-| 49 | [Deus Vai Agir \(Ao Vivo\)](https://open.spotify.com/track/2X9mVjsNBmBJmFC0owcKQV) | [Kemilly Santos](https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld) | [Kemilly Santos ao Vivo em São Paulo](https://open.spotify.com/album/1KAi9GUnEOYjhuVxi5xVm9) | 3:54 |
+| 49 | [Eu Não Mereço \(Ao Vivo\)](https://open.spotify.com/track/3bFvAUuMlEVVztV4yZ4zK0) | [Kemilly Santos](https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld) | [Kemilly Santos ao Vivo em São Paulo](https://open.spotify.com/album/1KAi9GUnEOYjhuVxi5xVm9) | 3:54 |
 | 50 | [Vencer ou Vencer \(Ao Vivo\)](https://open.spotify.com/track/49GcUA2Qz4UWtuEVoxAAKF) | [Gisele Nascimento](https://open.spotify.com/artist/5vXZDaOrGiU7bvoqJiDo0m), [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw) | [Vencer ou Vencer \(Ao Vivo\)](https://open.spotify.com/album/6OK6jO8c6xB6QPdH56OYtE) | 5:25 |
 | 51 | [Santo para Sempre \- Ao Vivo](https://open.spotify.com/track/48EVizWqKCp2WRa1L5OGDg) | [Ana Nóbrega](https://open.spotify.com/artist/5LCTcU1OktZQTuh4LFIdzU) | [Santo pra Sempre \(Ao Vivo\)](https://open.spotify.com/album/3X0PjwhyTDFdcEScpjEMnr) | 5:27 |
 | 52 | [Aos Pés da Cruz \- Ao Vivo](https://open.spotify.com/track/4fVOleOiFwM2INJXDJyR3Y) | [LUDI](https://open.spotify.com/artist/5jaTnKaikL73O3eAQgtwde) | [Aos Pés da Cruz \(Ao Vivo\)](https://open.spotify.com/album/4jSgL2K7jXwXsHazBKMDuF) | 4:25 |
@@ -66,7 +66,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7kiwPSdr2Bd.md) - [plain]
 | 56 | [Santo Pra Sempre \(Ao Vivo\)](https://open.spotify.com/track/0IL4DmLKRKMt3QzRl1HebC) | [Marine Friesen](https://open.spotify.com/artist/6RFrCjwbhgeUHmrD0KCKZz) | [Santo Pra Sempre \(Ao Vivo\)](https://open.spotify.com/album/3JqjzQ21A4XJrwMNc0bG1d) | 5:20 |
 | 57 | [Sensibilidade \- Ao Vivo](https://open.spotify.com/track/13YVbmpDXM1dr1uvrzPssX) | [Stella Laura](https://open.spotify.com/artist/1lqxvuE0yfesGRZ4sdVVNm), [Todah Music](https://open.spotify.com/artist/1A5kGvmKIVtX7NhcbtTZJY) | [Sensibilidade \(Ao Vivo\)](https://open.spotify.com/album/0rc4ybX88jh6WuX1KxwXJT) | 6:31 |
 | 58 | [Nunca Pare De Lutar](https://open.spotify.com/track/3xcF4BD6UoNL3jqQ5xmV2V) | [Eyshila](https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW), [Ludmila Ferber](https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn) | [Nunca Pare de Lutar / Tua Graça Me Basta](https://open.spotify.com/album/2woKwrMEpv4ltwGp4cDa6D) | 7:39 |
-| 59 | [Eu Não Mereço \(Ao Vivo\)](https://open.spotify.com/track/3bFvAUuMlEVVztV4yZ4zK0) | [Kemilly Santos](https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld) | [Kemilly Santos ao Vivo em São Paulo](https://open.spotify.com/album/1KAi9GUnEOYjhuVxi5xVm9) | 3:54 |
+| 59 | [Deus Vai Agir \(Ao Vivo\)](https://open.spotify.com/track/2X9mVjsNBmBJmFC0owcKQV) | [Kemilly Santos](https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld) | [Kemilly Santos ao Vivo em São Paulo](https://open.spotify.com/album/1KAi9GUnEOYjhuVxi5xVm9) | 3:54 |
 | 60 | [Canção da Noiva](https://open.spotify.com/track/1F9oFJS5GAlHq1rthdZmVR) | [Heloisa Rosa](https://open.spotify.com/artist/0pbjSAsHhPTgf9YQymeZdM) | [Canção da Noiva](https://open.spotify.com/album/7w2oUyY7siX0c6iXUFcgWO) | 6:09 |
 | 61 | [Deixar a Lágrima Rolar \(Ao Vivo\)](https://open.spotify.com/track/4IiFYwOR4JnUuQPdxucT3a) | [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR), [Fernanda Brum](https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8) | [Deixar a Lágrima Rolar \(Ao Vivo\)](https://open.spotify.com/album/0GQdUpiAJQOZgm8JA0tpfu) | 5:12 |
 | 62 | [Amigo Espírito Santo \(Ao Vivo\)](https://open.spotify.com/track/1uywMDAMeLkFnatbhfXlUE) | [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3), [Eyshila](https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW) | [Amigo Espírito Santo \(Ao Vivo\)](https://open.spotify.com/album/4t2qBZ5yBilE2xaVIInAtP) | 5:34 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7kiwPSdr2Bd.md) - [plain]
 | 79 | [Senhor Formoso És / Ele é Exaltado](https://open.spotify.com/track/4qs5rB4poxnuCBb5k5Ix5T) | [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [Senhor Formoso És / Ele é Exaltado](https://open.spotify.com/album/68FpY5H3qrTqpRFY5QQdYW) | 5:09 |
 | 80 | [Me Atraiu \(Reimagined\)](https://open.spotify.com/track/3gEU9E8o5EdwwqNGBqTPQ6) | [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [Me Atraiu \(Reimagined\)](https://open.spotify.com/album/7fFFRHeXvUmzN9vfNVOlXR) | 4:24 |
 
-Snapshot ID: `MCw3ZDczMGU4YjNjMDhiYmFlOGExZWFmN2U3NjdlODk5NjZiOTNiMjg4`
+Snapshot ID: `MCw5YzBmZDUyY2Q5YTJkOTRhYzBkYzUxNThmYjA0MWFlOWNjYmVjMzZj`

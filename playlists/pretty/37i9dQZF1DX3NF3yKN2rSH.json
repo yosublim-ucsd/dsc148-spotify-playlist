@@ -1,12 +1,12 @@
 {
   "description": "New and classic Gospel songs to celebrate the Easter season.",
-  "num_followers": 53235,
+  "num_followers": 53246,
   "original_name": "Easter Gospel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyZGVmYmQ2NTIyMTdiMzdkZTc0OWIwYTVmZWE0NjdmYWJmM2Y3MmRh",
+  "snapshot_id": "MCxmZGQxZTgzZTdkMDg1MzU1ZWU2ZTc0NjMyMDdjZTlhOTFlMTMyYjk2",
   "tracks": [
     {
       "added_at": "2024-03-20 11:34:13",
@@ -843,6 +843,26 @@
     {
       "added_at": "2024-03-20 11:34:13",
       "album": {
+        "name": "Evidence",
+        "url": "https://open.spotify.com/album/3X10R33baD5m8UJ0KeIfSo"
+      },
+      "artists": [
+        {
+          "name": "Elevation Collective",
+          "url": "https://open.spotify.com/artist/5FgYD1zmYTjBAGuVy0Hj3w"
+        },
+        {
+          "name": "The Walls Group",
+          "url": "https://open.spotify.com/artist/3UZQmKr3fkPDCdIRtdX1RV"
+        }
+      ],
+      "duration_ms": 130214,
+      "name": "Raised to Life (feat. The Walls Group)",
+      "url": "https://open.spotify.com/track/4boN2DqFBWlVTIQhBgNJBo"
+    },
+    {
+      "added_at": "2024-03-20 11:34:13",
+      "album": {
         "name": "Always Coko",
         "url": "https://open.spotify.com/album/4zd8fMlQdGwGKsIhRQxmf8"
       },
@@ -867,26 +887,6 @@
       "duration_ms": 416213,
       "name": "Endow Me",
       "url": "https://open.spotify.com/track/3Oi3SOuwWzlnKMuju3nnaJ"
-    },
-    {
-      "added_at": "2024-03-20 11:34:13",
-      "album": {
-        "name": "Evidence",
-        "url": "https://open.spotify.com/album/3X10R33baD5m8UJ0KeIfSo"
-      },
-      "artists": [
-        {
-          "name": "Elevation Collective",
-          "url": "https://open.spotify.com/artist/5FgYD1zmYTjBAGuVy0Hj3w"
-        },
-        {
-          "name": "The Walls Group",
-          "url": "https://open.spotify.com/artist/3UZQmKr3fkPDCdIRtdX1RV"
-        }
-      ],
-      "duration_ms": 130214,
-      "name": "Raised to Life (feat. The Walls Group)",
-      "url": "https://open.spotify.com/track/4boN2DqFBWlVTIQhBgNJBo"
     },
     {
       "added_at": "2024-03-20 11:34:13",
@@ -979,18 +979,22 @@
     {
       "added_at": "2024-03-20 11:34:13",
       "album": {
-        "name": "Risen Powerful Gospel Resurrection Songs",
-        "url": "https://open.spotify.com/album/2AuRPxmT1ZBi9m2f422BKg"
+        "name": "Choirmaster",
+        "url": "https://open.spotify.com/album/5rKcQHUtvVkawYalUN2IMR"
       },
       "artists": [
         {
-          "name": "Kirk Franklin & The Family",
-          "url": "https://open.spotify.com/artist/7r5eFBPPJjFPy2E1K0VQmd"
+          "name": "Ricky Dillard",
+          "url": "https://open.spotify.com/artist/3EDwVZensg15abkTt5zfTM"
+        },
+        {
+          "name": "Tiff Joy",
+          "url": "https://open.spotify.com/artist/5BZU9FuwmQoyYg3OQMMiv9"
         }
       ],
-      "duration_ms": 417160,
-      "name": "Now Behold the Lamb - Live",
-      "url": "https://open.spotify.com/track/5xdZFymYd44sEgBQNATvaw"
+      "duration_ms": 243914,
+      "name": "Release - Live/Edit",
+      "url": "https://open.spotify.com/track/70mAuybPl9xCCmCRkubv6E"
     },
     {
       "added_at": "2024-03-20 11:34:13",
@@ -1015,22 +1019,18 @@
     {
       "added_at": "2024-03-20 11:34:13",
       "album": {
-        "name": "Choirmaster",
-        "url": "https://open.spotify.com/album/5rKcQHUtvVkawYalUN2IMR"
+        "name": "Risen Powerful Gospel Resurrection Songs",
+        "url": "https://open.spotify.com/album/2AuRPxmT1ZBi9m2f422BKg"
       },
       "artists": [
         {
-          "name": "Ricky Dillard",
-          "url": "https://open.spotify.com/artist/3EDwVZensg15abkTt5zfTM"
-        },
-        {
-          "name": "Tiff Joy",
-          "url": "https://open.spotify.com/artist/5BZU9FuwmQoyYg3OQMMiv9"
+          "name": "Kirk Franklin & The Family",
+          "url": "https://open.spotify.com/artist/7r5eFBPPJjFPy2E1K0VQmd"
         }
       ],
-      "duration_ms": 243914,
-      "name": "Release - Live/Edit",
-      "url": "https://open.spotify.com/track/70mAuybPl9xCCmCRkubv6E"
+      "duration_ms": 417160,
+      "name": "Now Behold the Lamb - Live",
+      "url": "https://open.spotify.com/track/5xdZFymYd44sEgBQNATvaw"
     },
     {
       "added_at": "2024-03-20 11:34:13",
@@ -1051,22 +1051,6 @@
     {
       "added_at": "2024-03-20 11:34:13",
       "album": {
-        "name": "Resilience",
-        "url": "https://open.spotify.com/album/65mjXtPcrYhjhc1JwfJTPt"
-      },
-      "artists": [
-        {
-          "name": "Brian Courtney Wilson",
-          "url": "https://open.spotify.com/artist/5K2BdUwQNqXy70BX2L8BQx"
-        }
-      ],
-      "duration_ms": 241413,
-      "name": "Worth Fighting For - 1 Mic 1 Take",
-      "url": "https://open.spotify.com/track/7qF4oWmfFcJZm1lWnTJB3S"
-    },
-    {
-      "added_at": "2024-03-20 11:34:13",
-      "album": {
         "name": "Introducing Perfected Praise",
         "url": "https://open.spotify.com/album/5Y3JhsPmHYR31DRQOe4o96"
       },
@@ -1079,6 +1063,22 @@
       "duration_ms": 371493,
       "name": "Worthy Is The Lamb Slain",
       "url": "https://open.spotify.com/track/0kBssWQicwNaU5jJ547luQ"
+    },
+    {
+      "added_at": "2024-03-20 11:34:13",
+      "album": {
+        "name": "Resilience",
+        "url": "https://open.spotify.com/album/65mjXtPcrYhjhc1JwfJTPt"
+      },
+      "artists": [
+        {
+          "name": "Brian Courtney Wilson",
+          "url": "https://open.spotify.com/artist/5K2BdUwQNqXy70BX2L8BQx"
+        }
+      ],
+      "duration_ms": 241413,
+      "name": "Worth Fighting For - 1 Mic 1 Take",
+      "url": "https://open.spotify.com/track/7qF4oWmfFcJZm1lWnTJB3S"
     },
     {
       "added_at": "2024-03-20 11:34:13",
@@ -1243,22 +1243,6 @@
     {
       "added_at": "2024-03-20 11:34:13",
       "album": {
-        "name": "Declarations",
-        "url": "https://open.spotify.com/album/5nrlMygEzgFg6Jk3ZvZAZK"
-      },
-      "artists": [
-        {
-          "name": "Jonathan Nelson",
-          "url": "https://open.spotify.com/artist/4oI0W9neUi7nvxcQKDY5Xa"
-        }
-      ],
-      "duration_ms": 373986,
-      "name": "Jesus I Love You",
-      "url": "https://open.spotify.com/track/1ypwxcZd1adF3iNbyUbl9O"
-    },
-    {
-      "added_at": "2024-03-20 11:34:13",
-      "album": {
         "name": "Cross Music",
         "url": "https://open.spotify.com/album/3z24Ma8w7dD4WkQ67D7o57"
       },
@@ -1283,6 +1267,22 @@
       "duration_ms": 338354,
       "name": "He Got Up (feat. Dorinda Clark Cole with Sean Tillery & Changed)",
       "url": "https://open.spotify.com/track/0FRW8IBzBaJ81GNS8Uvq2g"
+    },
+    {
+      "added_at": "2024-03-20 11:34:13",
+      "album": {
+        "name": "Declarations",
+        "url": "https://open.spotify.com/album/5nrlMygEzgFg6Jk3ZvZAZK"
+      },
+      "artists": [
+        {
+          "name": "Jonathan Nelson",
+          "url": "https://open.spotify.com/artist/4oI0W9neUi7nvxcQKDY5Xa"
+        }
+      ],
+      "duration_ms": 373986,
+      "name": "Jesus I Love You",
+      "url": "https://open.spotify.com/track/1ypwxcZd1adF3iNbyUbl9O"
     },
     {
       "added_at": "2024-03-20 11:34:13",
@@ -1687,22 +1687,6 @@
     {
       "added_at": "2024-03-20 11:34:13",
       "album": {
-        "name": "Family & Friends Choir III",
-        "url": "https://open.spotify.com/album/2HqJpxkdEf5FRDJsxkkZrj"
-      },
-      "artists": [
-        {
-          "name": "Ron Winans",
-          "url": "https://open.spotify.com/artist/67B5eSkw1ckwkAVi278b2s"
-        }
-      ],
-      "duration_ms": 325666,
-      "name": "He Proved His Love",
-      "url": "https://open.spotify.com/track/4OMAO6F57zBkgyakZjscTl"
-    },
-    {
-      "added_at": "2024-03-20 11:34:13",
-      "album": {
         "name": "Classic Gold: We're Waiting",
         "url": "https://open.spotify.com/album/3NTA5iKL3O6gCkxyKRWEVC"
       },
@@ -1719,18 +1703,18 @@
     {
       "added_at": "2024-03-20 11:34:13",
       "album": {
-        "name": "Joshua's Troop",
-        "url": "https://open.spotify.com/album/3XYaQRnY5ha54xB4x2gbgT"
+        "name": "Family & Friends Choir III",
+        "url": "https://open.spotify.com/album/2HqJpxkdEf5FRDJsxkkZrj"
       },
       "artists": [
         {
-          "name": "Joshua's Troop",
-          "url": "https://open.spotify.com/artist/4ejvtrRzhIaqGb7YhTLUsV"
+          "name": "Ron Winans",
+          "url": "https://open.spotify.com/artist/67B5eSkw1ckwkAVi278b2s"
         }
       ],
-      "duration_ms": 311546,
-      "name": "God Is Not Dead",
-      "url": "https://open.spotify.com/track/64u71Ii45f6Pa3BPwIvYul"
+      "duration_ms": 325666,
+      "name": "He Proved His Love",
+      "url": "https://open.spotify.com/track/4OMAO6F57zBkgyakZjscTl"
     },
     {
       "added_at": "2024-03-20 11:34:13",
@@ -1747,6 +1731,22 @@
       "duration_ms": 303050,
       "name": "Mnini Mandla Onke",
       "url": "https://open.spotify.com/track/3iUoxbl0P0vhtzQwvYzpVb"
+    },
+    {
+      "added_at": "2024-03-20 11:34:13",
+      "album": {
+        "name": "Joshua's Troop",
+        "url": "https://open.spotify.com/album/3XYaQRnY5ha54xB4x2gbgT"
+      },
+      "artists": [
+        {
+          "name": "Joshua's Troop",
+          "url": "https://open.spotify.com/artist/4ejvtrRzhIaqGb7YhTLUsV"
+        }
+      ],
+      "duration_ms": 311546,
+      "name": "God Is Not Dead",
+      "url": "https://open.spotify.com/track/64u71Ii45f6Pa3BPwIvYul"
     },
     {
       "added_at": "2024-03-20 11:34:13",

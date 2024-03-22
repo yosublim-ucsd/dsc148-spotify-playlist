@@ -1,12 +1,12 @@
 {
   "description": "Maren Morris is taking over to celebrate Women's History Month on EQUAL US!",
-  "num_followers": 51838,
+  "num_followers": 51854,
   "original_name": "EQUAL US",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4ZGU2MDI0MDJlYmE4NzliMGMyNGFlZmViMzZkNjAxZWM5NjlhZmFj",
+  "snapshot_id": "MCwyNzYyYTdlMWEyMjZiNGUzY2NlODY5MzYyNDI1YjFhNGJhNzljYjY1",
   "tracks": [
     {
       "added_at": "2024-03-14 21:16:21",
@@ -507,22 +507,6 @@
     {
       "added_at": "2024-03-14 21:16:21",
       "album": {
-        "name": "Care",
-        "url": "https://open.spotify.com/album/1X3yeKsuB1sSPXQZ9VChgg"
-      },
-      "artists": [
-        {
-          "name": "Hana Vu",
-          "url": "https://open.spotify.com/artist/3diDUq8QMCCtx8a4Jy42aO"
-        }
-      ],
-      "duration_ms": 277815,
-      "name": "Care",
-      "url": "https://open.spotify.com/track/6egdXtpyZGrZwsaESnpHAi"
-    },
-    {
-      "added_at": "2024-03-14 21:16:21",
-      "album": {
         "name": "I Don't Wanna Dance",
         "url": "https://open.spotify.com/album/6vEl3ZGvpUT8acpCHHxKkS"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 182443,
       "name": "I Don't Wanna Dance",
       "url": "https://open.spotify.com/track/330ssf1QuLQjoaoyZbyrPI"
+    },
+    {
+      "added_at": "2024-03-14 21:16:21",
+      "album": {
+        "name": "Care",
+        "url": "https://open.spotify.com/album/1X3yeKsuB1sSPXQZ9VChgg"
+      },
+      "artists": [
+        {
+          "name": "Hana Vu",
+          "url": "https://open.spotify.com/artist/3diDUq8QMCCtx8a4Jy42aO"
+        }
+      ],
+      "duration_ms": 277815,
+      "name": "Care",
+      "url": "https://open.spotify.com/track/6egdXtpyZGrZwsaESnpHAi"
     },
     {
       "added_at": "2024-03-14 21:16:21",
@@ -659,22 +659,18 @@
     {
       "added_at": "2024-03-14 21:16:21",
       "album": {
-        "name": "You Make Me Sick! (Dora Jar Remix)",
-        "url": "https://open.spotify.com/album/0ddrfdgfcwQ0EafB4o4l3y"
+        "name": "Run",
+        "url": "https://open.spotify.com/album/2496dUob7BIgG26HjYbl6f"
       },
       "artists": [
         {
-          "name": "Ashnikko",
-          "url": "https://open.spotify.com/artist/3PyJHH2wyfQK3WZrk9rpmP"
-        },
-        {
-          "name": "Dora Jar",
-          "url": "https://open.spotify.com/artist/4V30Q8ACPdJCcAmAYibfrH"
+          "name": "SMITH",
+          "url": "https://open.spotify.com/artist/4XOIQF9cT5At4H0qcjhVL7"
         }
       ],
-      "duration_ms": 202884,
-      "name": "You Make Me Sick! - Dora Jar Remix",
-      "url": "https://open.spotify.com/track/2jIYa43fTPZsLCGX2D7zL2"
+      "duration_ms": 213518,
+      "name": "Run",
+      "url": "https://open.spotify.com/track/30MkXkQ5C5Oy17YlH09XF2"
     },
     {
       "added_at": "2024-03-14 21:16:21",
@@ -695,18 +691,22 @@
     {
       "added_at": "2024-03-14 21:16:21",
       "album": {
-        "name": "Run",
-        "url": "https://open.spotify.com/album/2496dUob7BIgG26HjYbl6f"
+        "name": "You Make Me Sick! (Dora Jar Remix)",
+        "url": "https://open.spotify.com/album/0ddrfdgfcwQ0EafB4o4l3y"
       },
       "artists": [
         {
-          "name": "SMITH",
-          "url": "https://open.spotify.com/artist/4XOIQF9cT5At4H0qcjhVL7"
+          "name": "Ashnikko",
+          "url": "https://open.spotify.com/artist/3PyJHH2wyfQK3WZrk9rpmP"
+        },
+        {
+          "name": "Dora Jar",
+          "url": "https://open.spotify.com/artist/4V30Q8ACPdJCcAmAYibfrH"
         }
       ],
-      "duration_ms": 213518,
-      "name": "Run",
-      "url": "https://open.spotify.com/track/30MkXkQ5C5Oy17YlH09XF2"
+      "duration_ms": 202884,
+      "name": "You Make Me Sick! - Dora Jar Remix",
+      "url": "https://open.spotify.com/track/2jIYa43fTPZsLCGX2D7zL2"
     },
     {
       "added_at": "2024-03-14 21:16:21",

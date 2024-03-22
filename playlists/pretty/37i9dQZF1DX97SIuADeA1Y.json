@@ -1,12 +1,12 @@
 {
   "description": "The bassline keeps you moving.",
-  "num_followers": 334995,
+  "num_followers": 335054,
   "original_name": "SLAP!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzM2E5MjYxZDg5MDgzYzkwMmVmYTI0YjgzZGJlNGIwZTFhN2U5YzYz",
+  "snapshot_id": "MCwwYjBjYzM3MDYyNTQyMzBmYzY3Y2MyNWZiMTcxYWQ4NzQ4Y2Y2ODRm",
   "tracks": [
     {
       "added_at": "2023-12-01 11:00:00",
@@ -503,6 +503,26 @@
     {
       "added_at": "2023-12-01 11:00:00",
       "album": {
+        "name": "Dance Again",
+        "url": "https://open.spotify.com/album/6pzKYeH4CorXYDL8rOOZOC"
+      },
+      "artists": [
+        {
+          "name": "Anthony Keyrouz",
+          "url": "https://open.spotify.com/artist/0y4czH6DnvpftiSoy7V3HY"
+        },
+        {
+          "name": "Ekko",
+          "url": "https://open.spotify.com/artist/4QKGlPUIuL7IzE4vsVwIu6"
+        }
+      ],
+      "duration_ms": 152459,
+      "name": "Dance Again",
+      "url": "https://open.spotify.com/track/1iObkel3ZEmeqAnOQJs5ky"
+    },
+    {
+      "added_at": "2023-12-01 11:00:00",
+      "album": {
         "name": "Sweet Dreams (feat. Imanbek) [Remixes]",
         "url": "https://open.spotify.com/album/5LKrGd8oU56PLe793imghr"
       },
@@ -543,26 +563,6 @@
       "duration_ms": 177187,
       "name": "Keep on Moving",
       "url": "https://open.spotify.com/track/2sHa8ZvrwS2LZagaUM3FN5"
-    },
-    {
-      "added_at": "2023-12-01 11:00:00",
-      "album": {
-        "name": "Dance Again",
-        "url": "https://open.spotify.com/album/6pzKYeH4CorXYDL8rOOZOC"
-      },
-      "artists": [
-        {
-          "name": "Anthony Keyrouz",
-          "url": "https://open.spotify.com/artist/0y4czH6DnvpftiSoy7V3HY"
-        },
-        {
-          "name": "Ekko",
-          "url": "https://open.spotify.com/artist/4QKGlPUIuL7IzE4vsVwIu6"
-        }
-      ],
-      "duration_ms": 152459,
-      "name": "Dance Again",
-      "url": "https://open.spotify.com/track/1iObkel3ZEmeqAnOQJs5ky"
     },
     {
       "added_at": "2023-12-01 11:00:00",
@@ -711,6 +711,26 @@
     {
       "added_at": "2023-12-01 11:00:00",
       "album": {
+        "name": "Loco",
+        "url": "https://open.spotify.com/album/2TSQFv7xX0IDqibKup1CyH"
+      },
+      "artists": [
+        {
+          "name": "Nora & Chris",
+          "url": "https://open.spotify.com/artist/0YFn3NxI5ooU7IhGvRB5Yg"
+        },
+        {
+          "name": "Alex Martin",
+          "url": "https://open.spotify.com/artist/04DZVy8gTWcLSGZOPqPp2c"
+        }
+      ],
+      "duration_ms": 130000,
+      "name": "Loco",
+      "url": "https://open.spotify.com/track/4YBjClI5wybymYzEs5jjlP"
+    },
+    {
+      "added_at": "2023-12-01 11:00:00",
+      "album": {
         "name": "Dance For Me (1, 2, 3)",
         "url": "https://open.spotify.com/album/2HCPnrbyyfvZwhrbJcVaYs"
       },
@@ -731,26 +751,6 @@
       "duration_ms": 129522,
       "name": "Dance For Me (1, 2, 3)",
       "url": "https://open.spotify.com/track/5INT7DVOEKXo0uyVhPtg9n"
-    },
-    {
-      "added_at": "2023-12-01 11:00:00",
-      "album": {
-        "name": "Loco",
-        "url": "https://open.spotify.com/album/2TSQFv7xX0IDqibKup1CyH"
-      },
-      "artists": [
-        {
-          "name": "Nora & Chris",
-          "url": "https://open.spotify.com/artist/0YFn3NxI5ooU7IhGvRB5Yg"
-        },
-        {
-          "name": "Alex Martin",
-          "url": "https://open.spotify.com/artist/04DZVy8gTWcLSGZOPqPp2c"
-        }
-      ],
-      "duration_ms": 130000,
-      "name": "Loco",
-      "url": "https://open.spotify.com/track/4YBjClI5wybymYzEs5jjlP"
     },
     {
       "added_at": "2023-12-01 11:00:00",
@@ -879,30 +879,6 @@
     {
       "added_at": "2023-12-01 11:00:00",
       "album": {
-        "name": "Raindrops (feat. Jessica Chertock)",
-        "url": "https://open.spotify.com/album/0TXJLXPHhsYpHPAK0s3E1S"
-      },
-      "artists": [
-        {
-          "name": "VINAI",
-          "url": "https://open.spotify.com/artist/4mrBetqy378Jf1y6NLszlx"
-        },
-        {
-          "name": "Stefy De Cicco",
-          "url": "https://open.spotify.com/artist/5v3JgLiZtNnw6ablRjjNKK"
-        },
-        {
-          "name": "Jessica Chertock",
-          "url": "https://open.spotify.com/artist/0f4HUyvYUk3alfY1ZLKm8h"
-        }
-      ],
-      "duration_ms": 166887,
-      "name": "Raindrops (feat. Jessica Chertock)",
-      "url": "https://open.spotify.com/track/0mBmEZlBoEU7ofwOSYVPcj"
-    },
-    {
-      "added_at": "2023-12-01 11:00:00",
-      "album": {
         "name": "Shooting Darts (with R3HAB & Prezioso)",
         "url": "https://open.spotify.com/album/27b3Ufr52LTyphs8s3PEZB"
       },
@@ -923,6 +899,30 @@
       "duration_ms": 152903,
       "name": "Shooting Darts (with R3HAB & Prezioso)",
       "url": "https://open.spotify.com/track/5yj8QDJ967St7PUG7sFD0n"
+    },
+    {
+      "added_at": "2023-12-01 11:00:00",
+      "album": {
+        "name": "Raindrops (feat. Jessica Chertock)",
+        "url": "https://open.spotify.com/album/0TXJLXPHhsYpHPAK0s3E1S"
+      },
+      "artists": [
+        {
+          "name": "VINAI",
+          "url": "https://open.spotify.com/artist/4mrBetqy378Jf1y6NLszlx"
+        },
+        {
+          "name": "Stefy De Cicco",
+          "url": "https://open.spotify.com/artist/5v3JgLiZtNnw6ablRjjNKK"
+        },
+        {
+          "name": "Jessica Chertock",
+          "url": "https://open.spotify.com/artist/0f4HUyvYUk3alfY1ZLKm8h"
+        }
+      ],
+      "duration_ms": 166887,
+      "name": "Raindrops (feat. Jessica Chertock)",
+      "url": "https://open.spotify.com/track/0mBmEZlBoEU7ofwOSYVPcj"
     },
     {
       "added_at": "2023-12-01 11:00:00",
@@ -1203,30 +1203,26 @@
     {
       "added_at": "2023-12-01 11:00:00",
       "album": {
-        "name": "World in Your Eyes",
-        "url": "https://open.spotify.com/album/7hlG0h8cXqlLjF8rVCE92E"
+        "name": "Who U Gonna Love (feat. Amber Van Day)",
+        "url": "https://open.spotify.com/album/0yzEsLH4U52Qd9cTB3W3Rt"
       },
       "artists": [
         {
-          "name": "Neptunica",
-          "url": "https://open.spotify.com/artist/5dGsIOepO9ufQlXjW8KrPL"
+          "name": "VIZE",
+          "url": "https://open.spotify.com/artist/09agIJMxCD2k87ys9Al0f0"
         },
         {
-          "name": "Pule",
-          "url": "https://open.spotify.com/artist/4ZRiZlB8TEZwhXqwLr0U9R"
+          "name": "Y3LLO KOALA",
+          "url": "https://open.spotify.com/artist/7wSw5WtitICEfxFIbK501i"
         },
         {
-          "name": "Crystal Rock",
-          "url": "https://open.spotify.com/artist/7eehGkMnqCS6Hp7HJIXH9e"
-        },
-        {
-          "name": "Heleen",
-          "url": "https://open.spotify.com/artist/71GRU9wS94BTdNwQWRMJV6"
+          "name": "Amber Van Day",
+          "url": "https://open.spotify.com/artist/6NFRBhq9SmNn1FAiRs9AEf"
         }
       ],
-      "duration_ms": 131142,
-      "name": "World in Your Eyes",
-      "url": "https://open.spotify.com/track/5ma7yZhAlSKgFYYEqYHOD9"
+      "duration_ms": 179600,
+      "name": "Who U Gonna Love (feat. Amber Van Day)",
+      "url": "https://open.spotify.com/track/7HKwY4vWe6W5TjSdIG4w8d"
     }
   ],
   "unique_name": "SLAP!",

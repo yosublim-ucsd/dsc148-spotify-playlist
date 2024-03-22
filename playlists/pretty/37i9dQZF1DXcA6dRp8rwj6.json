@@ -1,13 +1,29 @@
 {
-  "description": "The hottest Hip-Hop of today all over the world. (Cover: Cardi B)",
-  "num_followers": 440209,
+  "description": "The hottest Hip-Hop of today all over the world. (Cover: Mac Miller)",
+  "num_followers": 440229,
   "original_name": "Beats & Rhymes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiZGIwNDI4NTUzZmI2NGY4NzEwMzMyYWQ2MjUwNjJkYjlhOGNlZDZl",
+  "snapshot_id": "MCxmMjg2NGQ2ZTcwYTE1YWQ2NWRlYmY0NmU1ZmRkOTZmZDMyNGIxMzNl",
   "tracks": [
+    {
+      "added_at": "2024-03-21 16:00:00",
+      "album": {
+        "name": "The Quest",
+        "url": "https://open.spotify.com/album/59h4HNypq1jgCHOkYUtyoW"
+      },
+      "artists": [
+        {
+          "name": "Mac Miller",
+          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
+        }
+      ],
+      "duration_ms": 233323,
+      "name": "The Quest",
+      "url": "https://open.spotify.com/track/4ZhOSdcezNOSI8StRRqqik"
+    },
     {
       "added_at": "2024-03-15 07:21:21",
       "album": {
@@ -23,6 +39,22 @@
       "duration_ms": 158727,
       "name": "Enough (Miami)",
       "url": "https://open.spotify.com/track/4XqBLxDaEdlqkHlSlb1Rzq"
+    },
+    {
+      "added_at": "2024-03-21 16:00:00",
+      "album": {
+        "name": "Precision",
+        "url": "https://open.spotify.com/album/1DNvuu85Qyu95qxWCY8jTO"
+      },
+      "artists": [
+        {
+          "name": "Big Sean",
+          "url": "https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh"
+        }
+      ],
+      "duration_ms": 167477,
+      "name": "Precision",
+      "url": "https://open.spotify.com/track/0jYYthUDGsJrYMCrtdHYtJ"
     },
     {
       "added_at": "2024-03-15 07:21:21",
@@ -1795,26 +1827,6 @@
     {
       "added_at": "2024-03-15 07:21:21",
       "album": {
-        "name": "SSetilian",
-        "url": "https://open.spotify.com/album/5d7jY9zDFqC9aSWHw2jeLk"
-      },
-      "artists": [
-        {
-          "name": "NGeeYL",
-          "url": "https://open.spotify.com/artist/5Z9mvkWNEpiKVQ36xVkMfe"
-        },
-        {
-          "name": "Lil Uzi Vert",
-          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
-        }
-      ],
-      "duration_ms": 161276,
-      "name": "On Me (feat. Lil Uzi Vert)",
-      "url": "https://open.spotify.com/track/0JqsTF7uQhHHODf8JHVtCN"
-    },
-    {
-      "added_at": "2024-03-15 07:21:21",
-      "album": {
         "name": "WGFU",
         "url": "https://open.spotify.com/album/3CIcF1MB8lv9BsG11Sn6H6"
       },
@@ -1851,54 +1863,6 @@
       "duration_ms": 200469,
       "name": "Back Again (with Snoop Dogg)",
       "url": "https://open.spotify.com/track/5Xeoc9cN5lq76CTzOybJuU"
-    },
-    {
-      "added_at": "2024-03-15 07:21:21",
-      "album": {
-        "name": "Paper Right",
-        "url": "https://open.spotify.com/album/2krzaPYb1lDEb6vkCa3UGq"
-      },
-      "artists": [
-        {
-          "name": "Wyclef Jean",
-          "url": "https://open.spotify.com/artist/7aBzpmFXB4WWpPl2F7RjBe"
-        },
-        {
-          "name": "Pusha T",
-          "url": "https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy"
-        },
-        {
-          "name": "Lola Brooke",
-          "url": "https://open.spotify.com/artist/2Ggj5XNlIb4Lnbqe307FyB"
-        },
-        {
-          "name": "Capella Grey",
-          "url": "https://open.spotify.com/artist/59HbaJ5E8ud7FNLGqUN1KH"
-        },
-        {
-          "name": "Flau'jae",
-          "url": "https://open.spotify.com/artist/5IQcgEvxwvq8kwy4iWCiBC"
-        }
-      ],
-      "duration_ms": 192989,
-      "name": "Paper Right",
-      "url": "https://open.spotify.com/track/0Kf0XFiNQF9poPU5fElDYK"
-    },
-    {
-      "added_at": "2024-03-15 07:21:21",
-      "album": {
-        "name": "Penith (The DAVE Soundtrack)",
-        "url": "https://open.spotify.com/album/0tD7YCpFten00qPVcMseoe"
-      },
-      "artists": [
-        {
-          "name": "Lil Dicky",
-          "url": "https://open.spotify.com/artist/1tqhsYv8yBBdwANFNzHtcr"
-        }
-      ],
-      "duration_ms": 243033,
-      "name": "HAHAHA",
-      "url": "https://open.spotify.com/track/73cnzXHK8i4WC5Pw0ZIZ2F"
     }
   ],
   "unique_name": "Beats & Rhymes",

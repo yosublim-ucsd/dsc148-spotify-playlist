@@ -1,12 +1,12 @@
 {
   "description": "Latin music bangers for your gaming session! Santa Fe Klan, Peso Pluma y Duki on cover",
-  "num_followers": 607481,
+  "num_followers": 607529,
   "original_name": "Latin Gaming",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxM2M2MzdlNjU0N2NhNmFiZmQwNmIyYjRlMzdlYzVlYzViMWE2ZGY5",
+  "snapshot_id": "MCw0ZDI2OTBiOWRlYzQ1MTkwNzgzOWZlNzc5MjZlODdiMDM1OTg3NGZl",
   "tracks": [
     {
       "added_at": "2024-03-15 06:00:00",
@@ -223,18 +223,22 @@
     {
       "added_at": "2024-03-15 06:00:00",
       "album": {
-        "name": "El Abayarde",
-        "url": "https://open.spotify.com/album/6Q1kiSijkaHwoCwZUHW6IY"
+        "name": "RR",
+        "url": "https://open.spotify.com/album/50uChhk7AKkzDKytDixjYW"
       },
       "artists": [
         {
-          "name": "Tego Calder\u00f3n",
-          "url": "https://open.spotify.com/artist/3SUT1jjM5hzZj9TLfLZGIP"
+          "name": "ROSAL\u00cdA",
+          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
+        },
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
         }
       ],
-      "duration_ms": 151666,
-      "name": "Pa' Que Retozen",
-      "url": "https://open.spotify.com/track/5YJ4BVvTFmVCxUyhKejHfR"
+      "duration_ms": 194543,
+      "name": "BESO",
+      "url": "https://open.spotify.com/track/609E1JCInJncactoMmkDon"
     },
     {
       "added_at": "2024-03-15 06:00:00",
@@ -263,22 +267,18 @@
     {
       "added_at": "2024-03-15 06:00:00",
       "album": {
-        "name": "RR",
-        "url": "https://open.spotify.com/album/50uChhk7AKkzDKytDixjYW"
+        "name": "El Abayarde",
+        "url": "https://open.spotify.com/album/6Q1kiSijkaHwoCwZUHW6IY"
       },
       "artists": [
         {
-          "name": "ROSAL\u00cdA",
-          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
-        },
-        {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+          "name": "Tego Calder\u00f3n",
+          "url": "https://open.spotify.com/artist/3SUT1jjM5hzZj9TLfLZGIP"
         }
       ],
-      "duration_ms": 194543,
-      "name": "BESO",
-      "url": "https://open.spotify.com/track/609E1JCInJncactoMmkDon"
+      "duration_ms": 151666,
+      "name": "Pa' Que Retozen",
+      "url": "https://open.spotify.com/track/5YJ4BVvTFmVCxUyhKejHfR"
     },
     {
       "added_at": "2024-03-15 06:00:00",
@@ -411,6 +411,22 @@
     {
       "added_at": "2024-03-15 06:00:00",
       "album": {
+        "name": "Barrio Fino (Bonus Track Version)",
+        "url": "https://open.spotify.com/album/4pLuE50wL9T26lSv42X0J2"
+      },
+      "artists": [
+        {
+          "name": "Daddy Yankee",
+          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
+        }
+      ],
+      "duration_ms": 210933,
+      "name": "Lo Que Pas\u00f3, Pas\u00f3",
+      "url": "https://open.spotify.com/track/26QKsGW4hMuwiEE1ftUMHe"
+    },
+    {
+      "added_at": "2024-03-15 06:00:00",
+      "album": {
         "name": "3MEN2 KBRN",
         "url": "https://open.spotify.com/album/6BGN5CVd7koJApotl5Bj8u"
       },
@@ -427,22 +443,6 @@
       "duration_ms": 208125,
       "name": "Coco Chanel",
       "url": "https://open.spotify.com/track/0PB0O24JqAuNdOAFVJljMS"
-    },
-    {
-      "added_at": "2024-03-15 06:00:00",
-      "album": {
-        "name": "Barrio Fino (Bonus Track Version)",
-        "url": "https://open.spotify.com/album/4pLuE50wL9T26lSv42X0J2"
-      },
-      "artists": [
-        {
-          "name": "Daddy Yankee",
-          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
-        }
-      ],
-      "duration_ms": 210933,
-      "name": "Lo Que Pas\u00f3, Pas\u00f3",
-      "url": "https://open.spotify.com/track/26QKsGW4hMuwiEE1ftUMHe"
     },
     {
       "added_at": "2024-03-15 06:00:00",
@@ -523,18 +523,26 @@
     {
       "added_at": "2024-03-15 06:00:00",
       "album": {
-        "name": "LA \u00daLTIMA",
-        "url": "https://open.spotify.com/album/2VZ9rmzFLZbsMMrmrJF8ur"
+        "name": "Cap\u00edtulo 1",
+        "url": "https://open.spotify.com/album/0jps45S3BLg0ObqAyboGVb"
       },
       "artists": [
         {
-          "name": "Quevedo",
-          "url": "https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K"
+          "name": "Beny Jr",
+          "url": "https://open.spotify.com/artist/22dFwJoRBV51ue5TGnC7Dt"
+        },
+        {
+          "name": "Morad",
+          "url": "https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9"
+        },
+        {
+          "name": "K y B",
+          "url": "https://open.spotify.com/artist/1enXMVomlMi88CZFYL1m2f"
         }
       ],
-      "duration_ms": 170322,
-      "name": "LA \u00daLTIMA",
-      "url": "https://open.spotify.com/track/2qHvD3r5qu4wuPpvq3CQKb"
+      "duration_ms": 211456,
+      "name": "Sigue",
+      "url": "https://open.spotify.com/track/63ZedTAVRCICh2CNLWnsPZ"
     },
     {
       "added_at": "2024-03-15 06:00:00",
@@ -579,26 +587,18 @@
     {
       "added_at": "2024-03-15 06:00:00",
       "album": {
-        "name": "Cap\u00edtulo 1",
-        "url": "https://open.spotify.com/album/0jps45S3BLg0ObqAyboGVb"
+        "name": "LA \u00daLTIMA",
+        "url": "https://open.spotify.com/album/2VZ9rmzFLZbsMMrmrJF8ur"
       },
       "artists": [
         {
-          "name": "Beny Jr",
-          "url": "https://open.spotify.com/artist/22dFwJoRBV51ue5TGnC7Dt"
-        },
-        {
-          "name": "Morad",
-          "url": "https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9"
-        },
-        {
-          "name": "K y B",
-          "url": "https://open.spotify.com/artist/1enXMVomlMi88CZFYL1m2f"
+          "name": "Quevedo",
+          "url": "https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K"
         }
       ],
-      "duration_ms": 211456,
-      "name": "Sigue",
-      "url": "https://open.spotify.com/track/63ZedTAVRCICh2CNLWnsPZ"
+      "duration_ms": 170322,
+      "name": "LA \u00daLTIMA",
+      "url": "https://open.spotify.com/track/2qHvD3r5qu4wuPpvq3CQKb"
     },
     {
       "added_at": "2024-03-15 06:00:00",
@@ -703,22 +703,6 @@
     {
       "added_at": "2024-03-15 06:00:00",
       "album": {
-        "name": "DONDE QUIERO ESTAR",
-        "url": "https://open.spotify.com/album/156gxGFDxadwiIC3Bfwmj3"
-      },
-      "artists": [
-        {
-          "name": "Quevedo",
-          "url": "https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K"
-        }
-      ],
-      "duration_ms": 160909,
-      "name": "WANDA",
-      "url": "https://open.spotify.com/track/0Iozrbed8spxoBnmtBMshO"
-    },
-    {
-      "added_at": "2024-03-15 06:00:00",
-      "album": {
         "name": "Marisola (Remix)",
         "url": "https://open.spotify.com/album/262bymaji1sJPAldR7YyaH"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 229064,
       "name": "Besos Moja2",
       "url": "https://open.spotify.com/track/6OzUIp8KjuwxJnCWkXp1uL"
+    },
+    {
+      "added_at": "2024-03-15 06:00:00",
+      "album": {
+        "name": "DONDE QUIERO ESTAR",
+        "url": "https://open.spotify.com/album/156gxGFDxadwiIC3Bfwmj3"
+      },
+      "artists": [
+        {
+          "name": "Quevedo",
+          "url": "https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K"
+        }
+      ],
+      "duration_ms": 160909,
+      "name": "WANDA",
+      "url": "https://open.spotify.com/track/0Iozrbed8spxoBnmtBMshO"
     },
     {
       "added_at": "2024-03-15 06:00:00",
@@ -975,22 +975,6 @@
     {
       "added_at": "2024-03-15 06:00:00",
       "album": {
-        "name": "S91",
-        "url": "https://open.spotify.com/album/0bgvd5Xd52TX61R8uhaISK"
-      },
-      "artists": [
-        {
-          "name": "KAROL G",
-          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
-        }
-      ],
-      "duration_ms": 173005,
-      "name": "S91",
-      "url": "https://open.spotify.com/track/7EpOXgSRgnglRWr86pZfGU"
-    },
-    {
-      "added_at": "2024-03-15 06:00:00",
-      "album": {
         "name": "La Llevo Al Cielo (Ft. \u00d1engo Flow)",
         "url": "https://open.spotify.com/album/0WEtvlRZhn9bZLHbjCLSv2"
       },
@@ -1015,6 +999,22 @@
       "duration_ms": 254920,
       "name": "La Llevo Al Cielo (Ft. \u00d1engo Flow)",
       "url": "https://open.spotify.com/track/6DoL1yYIwEW7VZMRaJhoJI"
+    },
+    {
+      "added_at": "2024-03-15 06:00:00",
+      "album": {
+        "name": "S91",
+        "url": "https://open.spotify.com/album/0bgvd5Xd52TX61R8uhaISK"
+      },
+      "artists": [
+        {
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        }
+      ],
+      "duration_ms": 173005,
+      "name": "S91",
+      "url": "https://open.spotify.com/track/7EpOXgSRgnglRWr86pZfGU"
     },
     {
       "added_at": "2024-03-15 06:00:00",
@@ -1087,46 +1087,6 @@
     {
       "added_at": "2024-03-15 06:00:00",
       "album": {
-        "name": "MA\u00d1ANA SER\u00c1 BONITO",
-        "url": "https://open.spotify.com/album/4kS7bSuU0Jm9LYMosFU2x5"
-      },
-      "artists": [
-        {
-          "name": "KAROL G",
-          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
-        },
-        {
-          "name": "Carla Morrison",
-          "url": "https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe"
-        }
-      ],
-      "duration_ms": 210986,
-      "name": "MA\u00d1ANA SER\u00c1 BONITO",
-      "url": "https://open.spotify.com/track/4bycD60yZgR6anIBtmU8UH"
-    },
-    {
-      "added_at": "2024-03-15 06:00:00",
-      "album": {
-        "name": "3MEN2 KBRN",
-        "url": "https://open.spotify.com/album/6BGN5CVd7koJApotl5Bj8u"
-      },
-      "artists": [
-        {
-          "name": "Eladio Carrion",
-          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
-        },
-        {
-          "name": "Myke Towers",
-          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
-        }
-      ],
-      "duration_ms": 240000,
-      "name": "Si La Calle Llama - Remix",
-      "url": "https://open.spotify.com/track/3qXZqXGniqNt3PK2CBSZgM"
-    },
-    {
-      "added_at": "2024-03-15 06:00:00",
-      "album": {
         "name": "La Forma en Que Me Miras",
         "url": "https://open.spotify.com/album/4C1RvpT7vJ7H8j21larWQU"
       },
@@ -1159,6 +1119,26 @@
     {
       "added_at": "2024-03-15 06:00:00",
       "album": {
+        "name": "3MEN2 KBRN",
+        "url": "https://open.spotify.com/album/6BGN5CVd7koJApotl5Bj8u"
+      },
+      "artists": [
+        {
+          "name": "Eladio Carrion",
+          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
+        },
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "Si La Calle Llama - Remix",
+      "url": "https://open.spotify.com/track/3qXZqXGniqNt3PK2CBSZgM"
+    },
+    {
+      "added_at": "2024-03-15 06:00:00",
+      "album": {
         "name": "La F\u00f3rmula",
         "url": "https://open.spotify.com/album/76iE2t7UDAZLNkqHFuvWtQ"
       },
@@ -1179,6 +1159,26 @@
       "duration_ms": 240733,
       "name": "More",
       "url": "https://open.spotify.com/track/0AAl3LtvIhEilWXZmYHeh5"
+    },
+    {
+      "added_at": "2024-03-15 06:00:00",
+      "album": {
+        "name": "MA\u00d1ANA SER\u00c1 BONITO",
+        "url": "https://open.spotify.com/album/4kS7bSuU0Jm9LYMosFU2x5"
+      },
+      "artists": [
+        {
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        },
+        {
+          "name": "Carla Morrison",
+          "url": "https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe"
+        }
+      ],
+      "duration_ms": 210986,
+      "name": "MA\u00d1ANA SER\u00c1 BONITO",
+      "url": "https://open.spotify.com/track/4bycD60yZgR6anIBtmU8UH"
     },
     {
       "added_at": "2024-03-15 06:00:00",
@@ -1475,22 +1475,6 @@
     {
       "added_at": "2024-03-15 06:00:00",
       "album": {
-        "name": "VITALICIO",
-        "url": "https://open.spotify.com/album/3oTtPK9gUgOnHznnjNo161"
-      },
-      "artists": [
-        {
-          "name": "Milo j",
-          "url": "https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3"
-        }
-      ],
-      "duration_ms": 120000,
-      "name": "VITALICIO",
-      "url": "https://open.spotify.com/track/3XDms8gGxWCMmwpSDzwGPy"
-    },
-    {
-      "added_at": "2024-03-15 06:00:00",
-      "album": {
         "name": "Trending",
         "url": "https://open.spotify.com/album/6eMP8CwxDJVxPJ9GjjQGbQ"
       },
@@ -1503,6 +1487,22 @@
       "duration_ms": 158350,
       "name": "Trending",
       "url": "https://open.spotify.com/track/5UBSlwB4Qm7TBzxdyyHr2p"
+    },
+    {
+      "added_at": "2024-03-15 06:00:00",
+      "album": {
+        "name": "VITALICIO",
+        "url": "https://open.spotify.com/album/3oTtPK9gUgOnHznnjNo161"
+      },
+      "artists": [
+        {
+          "name": "Milo j",
+          "url": "https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3"
+        }
+      ],
+      "duration_ms": 120000,
+      "name": "VITALICIO",
+      "url": "https://open.spotify.com/track/3XDms8gGxWCMmwpSDzwGPy"
     },
     {
       "added_at": "2024-03-15 06:00:00",
@@ -1727,26 +1727,6 @@
     {
       "added_at": "2024-03-15 06:00:00",
       "album": {
-        "name": "CAIRO",
-        "url": "https://open.spotify.com/album/1yzsYuo0fqKWvYimSWL5RA"
-      },
-      "artists": [
-        {
-          "name": "KAROL G",
-          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
-        },
-        {
-          "name": "Ovy On The Drums",
-          "url": "https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA"
-        }
-      ],
-      "duration_ms": 201280,
-      "name": "CAIRO",
-      "url": "https://open.spotify.com/track/6WbAhuwE6fCOriBu5786X1"
-    },
-    {
-      "added_at": "2024-03-15 06:00:00",
-      "album": {
         "name": "ENR",
         "url": "https://open.spotify.com/album/7c3cZS4ScoPCEmtZFIPqLF"
       },
@@ -1775,6 +1755,26 @@
       "duration_ms": 368453,
       "name": "Toda - Remix",
       "url": "https://open.spotify.com/track/5kCoykriGdZhWMlm9vrtQI"
+    },
+    {
+      "added_at": "2024-03-15 06:00:00",
+      "album": {
+        "name": "CAIRO",
+        "url": "https://open.spotify.com/album/1yzsYuo0fqKWvYimSWL5RA"
+      },
+      "artists": [
+        {
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        },
+        {
+          "name": "Ovy On The Drums",
+          "url": "https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA"
+        }
+      ],
+      "duration_ms": 201280,
+      "name": "CAIRO",
+      "url": "https://open.spotify.com/track/6WbAhuwE6fCOriBu5786X1"
     },
     {
       "added_at": "2024-03-15 06:00:00",
@@ -1987,6 +1987,22 @@
     {
       "added_at": "2024-03-15 06:00:00",
       "album": {
+        "name": "Manhattan",
+        "url": "https://open.spotify.com/album/1Hg5PSA16edGh2KZXxMpjN"
+      },
+      "artists": [
+        {
+          "name": "Hades66",
+          "url": "https://open.spotify.com/artist/4CQdcx66F116k2db2Y0rjE"
+        }
+      ],
+      "duration_ms": 130961,
+      "name": "Manhattan",
+      "url": "https://open.spotify.com/track/2YIkop8YguSz17oRABRXIp"
+    },
+    {
+      "added_at": "2024-03-15 06:00:00",
+      "album": {
         "name": "Antes de Perderte",
         "url": "https://open.spotify.com/album/1l6jE76o3QeZOXPt6G5Je7"
       },
@@ -2031,22 +2047,6 @@
       "duration_ms": 145970,
       "name": "Peligro",
       "url": "https://open.spotify.com/track/231mWjDxgJH5OEQFkVIW5p"
-    },
-    {
-      "added_at": "2024-03-15 06:00:00",
-      "album": {
-        "name": "Manhattan",
-        "url": "https://open.spotify.com/album/1Hg5PSA16edGh2KZXxMpjN"
-      },
-      "artists": [
-        {
-          "name": "Hades66",
-          "url": "https://open.spotify.com/artist/4CQdcx66F116k2db2Y0rjE"
-        }
-      ],
-      "duration_ms": 130961,
-      "name": "Manhattan",
-      "url": "https://open.spotify.com/track/2YIkop8YguSz17oRABRXIp"
     },
     {
       "added_at": "2024-03-15 06:00:00",
@@ -2227,26 +2227,6 @@
     {
       "added_at": "2024-03-15 06:00:00",
       "album": {
-        "name": "CARNET",
-        "url": "https://open.spotify.com/album/0rmHm455rHhQamdptQjYn3"
-      },
-      "artists": [
-        {
-          "name": "Caleb Calloway",
-          "url": "https://open.spotify.com/artist/11usEAQkFE6UJwsyAKkchi"
-        },
-        {
-          "name": "SAIKO",
-          "url": "https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u"
-        }
-      ],
-      "duration_ms": 139376,
-      "name": "CARNET",
-      "url": "https://open.spotify.com/track/1GKEH7oWPx8xDlDrggaEnJ"
-    },
-    {
-      "added_at": "2024-03-15 06:00:00",
-      "album": {
         "name": "On Fleek",
         "url": "https://open.spotify.com/album/5gbiHT2MGOPDFB5itrI2mG"
       },
@@ -2271,6 +2251,26 @@
       "duration_ms": 277217,
       "name": "On Fleek",
       "url": "https://open.spotify.com/track/6plOBNhg7WOoCdtLGAGp43"
+    },
+    {
+      "added_at": "2024-03-15 06:00:00",
+      "album": {
+        "name": "CARNET",
+        "url": "https://open.spotify.com/album/0rmHm455rHhQamdptQjYn3"
+      },
+      "artists": [
+        {
+          "name": "Caleb Calloway",
+          "url": "https://open.spotify.com/artist/11usEAQkFE6UJwsyAKkchi"
+        },
+        {
+          "name": "SAIKO",
+          "url": "https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u"
+        }
+      ],
+      "duration_ms": 139376,
+      "name": "CARNET",
+      "url": "https://open.spotify.com/track/1GKEH7oWPx8xDlDrggaEnJ"
     },
     {
       "added_at": "2024-03-15 06:00:00",
@@ -2387,22 +2387,6 @@
     {
       "added_at": "2024-03-15 06:00:00",
       "album": {
-        "name": "Vida Gangster",
-        "url": "https://open.spotify.com/album/0cWDantlEEkAwu9Z0gAiMX"
-      },
-      "artists": [
-        {
-          "name": "Lauty Gram",
-          "url": "https://open.spotify.com/artist/6WAnQfBWB7ddhujPsFQ0pG"
-        }
-      ],
-      "duration_ms": 170058,
-      "name": "Vida Gangster",
-      "url": "https://open.spotify.com/track/4I4FFtKZLtyqw4he9pPtL7"
-    },
-    {
-      "added_at": "2024-03-15 06:00:00",
-      "album": {
         "name": "Mi Nena Remix",
         "url": "https://open.spotify.com/album/6N2xUWDyxIusQX9s71HWFW"
       },
@@ -2419,6 +2403,22 @@
       "duration_ms": 220000,
       "name": "Mi Nena Remix",
       "url": "https://open.spotify.com/track/7q1KFoWUNYudhKW8RYJFsZ"
+    },
+    {
+      "added_at": "2024-03-15 06:00:00",
+      "album": {
+        "name": "Vida Gangster",
+        "url": "https://open.spotify.com/album/0cWDantlEEkAwu9Z0gAiMX"
+      },
+      "artists": [
+        {
+          "name": "Lauty Gram",
+          "url": "https://open.spotify.com/artist/6WAnQfBWB7ddhujPsFQ0pG"
+        }
+      ],
+      "duration_ms": 170058,
+      "name": "Vida Gangster",
+      "url": "https://open.spotify.com/track/4I4FFtKZLtyqw4he9pPtL7"
     },
     {
       "added_at": "2024-03-15 06:00:00",
@@ -2615,6 +2615,30 @@
     {
       "added_at": "2024-03-15 06:00:00",
       "album": {
+        "name": "Bandido (Remix)",
+        "url": "https://open.spotify.com/album/2rPtgNYHmXlZpKds0vIE56"
+      },
+      "artists": [
+        {
+          "name": "Cyril Kamer",
+          "url": "https://open.spotify.com/artist/3J1MhhyXLJRNRZVrx11Lbf"
+        },
+        {
+          "name": "Rvfv",
+          "url": "https://open.spotify.com/artist/2CCgb0KApjfQDuTppovpf8"
+        },
+        {
+          "name": "Cano",
+          "url": "https://open.spotify.com/artist/60ZOYUFnCYEeKYsxgvPxOS"
+        }
+      ],
+      "duration_ms": 246575,
+      "name": "Bandido - Remix",
+      "url": "https://open.spotify.com/track/6ExTczq02XIWJjGKoi13RJ"
+    },
+    {
+      "added_at": "2024-03-15 06:00:00",
+      "album": {
         "name": "Disfrutando El Proceso",
         "url": "https://open.spotify.com/album/60falhlYX9dCpWmjlHfVGa"
       },
@@ -2655,30 +2679,6 @@
       "duration_ms": 161311,
       "name": "Sikora",
       "url": "https://open.spotify.com/track/3xfWkp003WhKYWAk6vO0wv"
-    },
-    {
-      "added_at": "2024-03-15 06:00:00",
-      "album": {
-        "name": "Bandido (Remix)",
-        "url": "https://open.spotify.com/album/2rPtgNYHmXlZpKds0vIE56"
-      },
-      "artists": [
-        {
-          "name": "Cyril Kamer",
-          "url": "https://open.spotify.com/artist/3J1MhhyXLJRNRZVrx11Lbf"
-        },
-        {
-          "name": "Rvfv",
-          "url": "https://open.spotify.com/artist/2CCgb0KApjfQDuTppovpf8"
-        },
-        {
-          "name": "Cano",
-          "url": "https://open.spotify.com/artist/60ZOYUFnCYEeKYsxgvPxOS"
-        }
-      ],
-      "duration_ms": 246575,
-      "name": "Bandido - Remix",
-      "url": "https://open.spotify.com/track/6ExTczq02XIWJjGKoi13RJ"
     },
     {
       "added_at": "2024-03-15 06:00:00",
@@ -2827,46 +2827,6 @@
     {
       "added_at": "2024-03-15 06:00:00",
       "album": {
-        "name": "Diamante en Bruto",
-        "url": "https://open.spotify.com/album/15qXNgOYFYITRFMAcKY9Ib"
-      },
-      "artists": [
-        {
-          "name": "C.R.O",
-          "url": "https://open.spotify.com/artist/4puAp107dCehraE47QXVQX"
-        },
-        {
-          "name": "Franky Style",
-          "url": "https://open.spotify.com/artist/1cLDC1abeY1jIY5AX2Rtbx"
-        },
-        {
-          "name": "Lil Troca",
-          "url": "https://open.spotify.com/artist/51Q6RZOMEMuZHySsfWLTtk"
-        }
-      ],
-      "duration_ms": 175265,
-      "name": "Diamante en Bruto",
-      "url": "https://open.spotify.com/track/74Qx3wwFjYvEYvfSsOnLWy"
-    },
-    {
-      "added_at": "2024-03-15 06:00:00",
-      "album": {
-        "name": "PLN",
-        "url": "https://open.spotify.com/album/5gPi0LEcwWMCg6WJEYpLUg"
-      },
-      "artists": [
-        {
-          "name": "Alvaro Diaz",
-          "url": "https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr"
-        }
-      ],
-      "duration_ms": 165386,
-      "name": "PLN",
-      "url": "https://open.spotify.com/track/5nUQvg3l33BKuyU42ai7eN"
-    },
-    {
-      "added_at": "2024-03-15 06:00:00",
-      "album": {
         "name": "Cloniao",
         "url": "https://open.spotify.com/album/3LJewxppDnhU0Iqm6EERR6"
       },
@@ -2891,22 +2851,42 @@
     {
       "added_at": "2024-03-15 06:00:00",
       "album": {
-        "name": "Andamos Francos",
-        "url": "https://open.spotify.com/album/4CsfRkIYoAO2PwjUOSMdr2"
+        "name": "PLN",
+        "url": "https://open.spotify.com/album/5gPi0LEcwWMCg6WJEYpLUg"
       },
       "artists": [
         {
-          "name": "Joaquin Medina",
-          "url": "https://open.spotify.com/artist/6bpv92ES2Vcv2OKA3DAhgw"
-        },
-        {
-          "name": "Tito Double P",
-          "url": "https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG"
+          "name": "Alvaro Diaz",
+          "url": "https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr"
         }
       ],
-      "duration_ms": 125402,
-      "name": "Andamos Francos",
-      "url": "https://open.spotify.com/track/3MiLSG8Ewq2Q4kgnQVKnmV"
+      "duration_ms": 165386,
+      "name": "PLN",
+      "url": "https://open.spotify.com/track/5nUQvg3l33BKuyU42ai7eN"
+    },
+    {
+      "added_at": "2024-03-15 06:00:00",
+      "album": {
+        "name": "Diamante en Bruto",
+        "url": "https://open.spotify.com/album/15qXNgOYFYITRFMAcKY9Ib"
+      },
+      "artists": [
+        {
+          "name": "C.R.O",
+          "url": "https://open.spotify.com/artist/4puAp107dCehraE47QXVQX"
+        },
+        {
+          "name": "Franky Style",
+          "url": "https://open.spotify.com/artist/1cLDC1abeY1jIY5AX2Rtbx"
+        },
+        {
+          "name": "Lil Troca",
+          "url": "https://open.spotify.com/artist/51Q6RZOMEMuZHySsfWLTtk"
+        }
+      ],
+      "duration_ms": 175265,
+      "name": "Diamante en Bruto",
+      "url": "https://open.spotify.com/track/74Qx3wwFjYvEYvfSsOnLWy"
     },
     {
       "added_at": "2024-03-15 06:00:00",
@@ -2923,6 +2903,26 @@
       "duration_ms": 145165,
       "name": "HOUSE OF LUX 2",
       "url": "https://open.spotify.com/track/3dtgHj28cZW9Io2PIftNW7"
+    },
+    {
+      "added_at": "2024-03-15 06:00:00",
+      "album": {
+        "name": "Andamos Francos",
+        "url": "https://open.spotify.com/album/4CsfRkIYoAO2PwjUOSMdr2"
+      },
+      "artists": [
+        {
+          "name": "Joaquin Medina",
+          "url": "https://open.spotify.com/artist/6bpv92ES2Vcv2OKA3DAhgw"
+        },
+        {
+          "name": "Tito Double P",
+          "url": "https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG"
+        }
+      ],
+      "duration_ms": 125402,
+      "name": "Andamos Francos",
+      "url": "https://open.spotify.com/track/3MiLSG8Ewq2Q4kgnQVKnmV"
     },
     {
       "added_at": "2024-03-15 06:00:00",
@@ -2951,22 +2951,6 @@
     {
       "added_at": "2024-03-15 06:00:00",
       "album": {
-        "name": "NAVI",
-        "url": "https://open.spotify.com/album/7GFmnERl0J8pNu0IMQ2Fwi"
-      },
-      "artists": [
-        {
-          "name": "KHEA",
-          "url": "https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR"
-        }
-      ],
-      "duration_ms": 135724,
-      "name": "NAVI",
-      "url": "https://open.spotify.com/track/0ax5zJXD0Vq0XpeiIc8rJc"
-    },
-    {
-      "added_at": "2024-03-15 06:00:00",
-      "album": {
         "name": "yo pr1mero",
         "url": "https://open.spotify.com/album/0iD5NLijJ6vFTQO6OlEk7i"
       },
@@ -2979,6 +2963,22 @@
       "duration_ms": 194772,
       "name": "yo pr1mero",
       "url": "https://open.spotify.com/track/0O0kmHHBUG4YCqrKvMnmQy"
+    },
+    {
+      "added_at": "2024-03-15 06:00:00",
+      "album": {
+        "name": "NAVI",
+        "url": "https://open.spotify.com/album/7GFmnERl0J8pNu0IMQ2Fwi"
+      },
+      "artists": [
+        {
+          "name": "KHEA",
+          "url": "https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR"
+        }
+      ],
+      "duration_ms": 135724,
+      "name": "NAVI",
+      "url": "https://open.spotify.com/track/0ax5zJXD0Vq0XpeiIc8rJc"
     },
     {
       "added_at": "2024-03-15 06:00:00",
@@ -2999,6 +2999,26 @@
       "duration_ms": 152142,
       "name": "Supposed To Be",
       "url": "https://open.spotify.com/track/0LQCcEr1nJ8k3RiMVAFaCN"
+    },
+    {
+      "added_at": "2024-03-15 06:00:00",
+      "album": {
+        "name": "Samurai",
+        "url": "https://open.spotify.com/album/2HeBRMXHO08YdWlyaYg2qF"
+      },
+      "artists": [
+        {
+          "name": "Beny Jr",
+          "url": "https://open.spotify.com/artist/22dFwJoRBV51ue5TGnC7Dt"
+        },
+        {
+          "name": "El Guincho",
+          "url": "https://open.spotify.com/artist/1oMiDFyAgmIzw9ZBQYHOJI"
+        }
+      ],
+      "duration_ms": 160089,
+      "name": "Color Caramelo",
+      "url": "https://open.spotify.com/track/0tqOrNifmUgu2xgbKesHk3"
     },
     {
       "added_at": "2024-03-15 06:00:00",
@@ -3039,26 +3059,6 @@
       "duration_ms": 194100,
       "name": "Feria en el Sobre",
       "url": "https://open.spotify.com/track/5npAbr2v6wRL75IHWp2Noi"
-    },
-    {
-      "added_at": "2024-03-15 06:00:00",
-      "album": {
-        "name": "Samurai",
-        "url": "https://open.spotify.com/album/2HeBRMXHO08YdWlyaYg2qF"
-      },
-      "artists": [
-        {
-          "name": "Beny Jr",
-          "url": "https://open.spotify.com/artist/22dFwJoRBV51ue5TGnC7Dt"
-        },
-        {
-          "name": "El Guincho",
-          "url": "https://open.spotify.com/artist/1oMiDFyAgmIzw9ZBQYHOJI"
-        }
-      ],
-      "duration_ms": 160089,
-      "name": "Color Caramelo",
-      "url": "https://open.spotify.com/track/0tqOrNifmUgu2xgbKesHk3"
     },
     {
       "added_at": "2024-03-15 06:00:00",

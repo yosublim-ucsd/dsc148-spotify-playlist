@@ -1,12 +1,12 @@
 {
   "description": "All 70s, all ballads. Cover: Barbra Streisand",
-  "num_followers": 258203,
+  "num_followers": 258281,
   "original_name": "70s Ballads",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiMzBmNDY3OWMwODdiMGRhZTdlZjc0MjNjMTEyODRiMzE1MDEyZTE2",
+  "snapshot_id": "MCxhYjk2ODBlOTNkMGE0ZTNiZTE4MjBhZTg0ODQwY2VhZjA0MzQzY2M1",
   "tracks": [
     {
       "added_at": "2023-01-02 17:44:56",
@@ -635,22 +635,6 @@
     {
       "added_at": "2023-01-02 17:44:56",
       "album": {
-        "name": "Tapestry",
-        "url": "https://open.spotify.com/album/12n11cgnpjXKLeqrnIERoS"
-      },
-      "artists": [
-        {
-          "name": "Carole King",
-          "url": "https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6"
-        }
-      ],
-      "duration_ms": 308973,
-      "name": "You've Got a Friend",
-      "url": "https://open.spotify.com/track/1qhp5owrFGeZ5Jgin28nwR"
-    },
-    {
-      "added_at": "2023-01-02 17:44:56",
-      "album": {
         "name": "Abandoned Luncheonette",
         "url": "https://open.spotify.com/album/47Dmo9RLpgHMusEiF8luvu"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 313373,
       "name": "She's Gone",
       "url": "https://open.spotify.com/track/5dFoWIiJ2814hRwMYDcFiU"
+    },
+    {
+      "added_at": "2023-01-02 17:44:56",
+      "album": {
+        "name": "Tapestry",
+        "url": "https://open.spotify.com/album/12n11cgnpjXKLeqrnIERoS"
+      },
+      "artists": [
+        {
+          "name": "Carole King",
+          "url": "https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6"
+        }
+      ],
+      "duration_ms": 308973,
+      "name": "You've Got a Friend",
+      "url": "https://open.spotify.com/track/1qhp5owrFGeZ5Jgin28nwR"
     },
     {
       "added_at": "2023-01-02 17:44:56",
@@ -747,22 +747,6 @@
     {
       "added_at": "2023-01-02 17:44:56",
       "album": {
-        "name": "Warmer",
-        "url": "https://open.spotify.com/album/4SpkNYHb0pnT9n6gEqkSvM"
-      },
-      "artists": [
-        {
-          "name": "Randy VanWarmer",
-          "url": "https://open.spotify.com/artist/6IRQiyNmNGjGlrmEl0iArm"
-        }
-      ],
-      "duration_ms": 241746,
-      "name": "Just When I Needed You Most",
-      "url": "https://open.spotify.com/track/55wl56WlKI85UBNZoFxe9P"
-    },
-    {
-      "added_at": "2023-01-02 17:44:56",
-      "album": {
         "name": "We Must Believe In Magic",
         "url": "https://open.spotify.com/album/57FGUcDejZqr816U3ZkMT8"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 157653,
       "name": "Don't It Make My Brown Eyes Blue",
       "url": "https://open.spotify.com/track/7Jpclr7tZ6aQXjoKzWXUJV"
+    },
+    {
+      "added_at": "2023-01-02 17:44:56",
+      "album": {
+        "name": "Warmer",
+        "url": "https://open.spotify.com/album/4SpkNYHb0pnT9n6gEqkSvM"
+      },
+      "artists": [
+        {
+          "name": "Randy VanWarmer",
+          "url": "https://open.spotify.com/artist/6IRQiyNmNGjGlrmEl0iArm"
+        }
+      ],
+      "duration_ms": 241746,
+      "name": "Just When I Needed You Most",
+      "url": "https://open.spotify.com/track/55wl56WlKI85UBNZoFxe9P"
     },
     {
       "added_at": "2023-01-02 17:44:56",

@@ -1,12 +1,12 @@
 {
   "description": "A collection of the best Metal covers out there. Cover: Ghost",
-  "num_followers": 366102,
+  "num_followers": 366175,
   "original_name": "Metal Covers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzYjUxNGE1Zjc4MjBkMmE0OGE1YmEyYWFiNjAxNjBhNTg4NmU3ZmY1",
+  "snapshot_id": "MCxkZDMyYmJhMjgzOGFhM2VhMzAzZWRiODFiZWRiYWViYTZmNDlmZmI0",
   "tracks": [
     {
       "added_at": "2023-08-23 14:56:37",
@@ -767,22 +767,6 @@
     {
       "added_at": "2023-08-23 14:56:37",
       "album": {
-        "name": "Diamonds",
-        "url": "https://open.spotify.com/album/5NWxOLcBy2QEaNnTUgpIzy"
-      },
-      "artists": [
-        {
-          "name": "Any Given Day",
-          "url": "https://open.spotify.com/artist/4p6RoajGbtqLSfYZpFxHyU"
-        }
-      ],
-      "duration_ms": 246857,
-      "name": "Diamonds",
-      "url": "https://open.spotify.com/track/7eosa57Y6VlIv4pR3Km0VD"
-    },
-    {
-      "added_at": "2023-08-23 14:56:37",
-      "album": {
         "name": "The Burning Red",
         "url": "https://open.spotify.com/album/3hOfgUH1xNzCeJgANjO5dA"
       },
@@ -795,6 +779,22 @@
       "duration_ms": 211973,
       "name": "Message in a Bottle",
       "url": "https://open.spotify.com/track/6Iy5KEB1kO2BVOGnAgVV65"
+    },
+    {
+      "added_at": "2023-08-23 14:56:37",
+      "album": {
+        "name": "Diamonds",
+        "url": "https://open.spotify.com/album/5NWxOLcBy2QEaNnTUgpIzy"
+      },
+      "artists": [
+        {
+          "name": "Any Given Day",
+          "url": "https://open.spotify.com/artist/4p6RoajGbtqLSfYZpFxHyU"
+        }
+      ],
+      "duration_ms": 246857,
+      "name": "Diamonds",
+      "url": "https://open.spotify.com/track/7eosa57Y6VlIv4pR3Km0VD"
     },
     {
       "added_at": "2023-08-23 14:56:37",

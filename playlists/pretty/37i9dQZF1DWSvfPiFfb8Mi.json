@@ -1,12 +1,12 @@
 {
   "description": "<a href=\"spotify:genre:0JQ5DAqbMKFwT0m6BbKvGP\">Disco</a>, house, funk and soul for the good times.",
-  "num_followers": 553536,
+  "num_followers": 553633,
   "original_name": "Poolside Disco",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwY2E2NWVmMzcxY2IyNTYyZDc0Yjk3Y2JkMTYxZWQ5NTFiNTY2MWJk",
+  "snapshot_id": "MCxiNjEzNjQ3MTMyNWZiMmQ5YTk2MmY1NzY5OWU0ZGZlOTA1NTgzMzIw",
   "tracks": [
     {
       "added_at": "2024-03-15 04:00:00",
@@ -407,26 +407,6 @@
     {
       "added_at": "2024-03-15 04:00:00",
       "album": {
-        "name": "I Want You",
-        "url": "https://open.spotify.com/album/3Dh81kJfGeinI3r7YMNX3E"
-      },
-      "artists": [
-        {
-          "name": "Butch",
-          "url": "https://open.spotify.com/artist/5kLzaeSHrmS7okc5XNE6lv"
-        },
-        {
-          "name": "Nic Fanciulli",
-          "url": "https://open.spotify.com/artist/7btR5VXutQv39SDEzcfXEk"
-        }
-      ],
-      "duration_ms": 187286,
-      "name": "I Want You",
-      "url": "https://open.spotify.com/track/5UM6P3y6794GYNOzZvj2zh"
-    },
-    {
-      "added_at": "2024-03-15 04:00:00",
-      "album": {
         "name": "Murder On The Dancefloor (PNAU Remix)",
         "url": "https://open.spotify.com/album/02oNjidORbldUslV7kMWAZ"
       },
@@ -443,6 +423,26 @@
       "duration_ms": 260006,
       "name": "Murder On The Dancefloor - PNAU Remix",
       "url": "https://open.spotify.com/track/2Rhh3ZhukJfTKoBVzIYTaf"
+    },
+    {
+      "added_at": "2024-03-15 04:00:00",
+      "album": {
+        "name": "I Want You",
+        "url": "https://open.spotify.com/album/3Dh81kJfGeinI3r7YMNX3E"
+      },
+      "artists": [
+        {
+          "name": "Butch",
+          "url": "https://open.spotify.com/artist/5kLzaeSHrmS7okc5XNE6lv"
+        },
+        {
+          "name": "Nic Fanciulli",
+          "url": "https://open.spotify.com/artist/7btR5VXutQv39SDEzcfXEk"
+        }
+      ],
+      "duration_ms": 187286,
+      "name": "I Want You",
+      "url": "https://open.spotify.com/track/5UM6P3y6794GYNOzZvj2zh"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -707,6 +707,30 @@
     {
       "added_at": "2024-03-15 04:00:00",
       "album": {
+        "name": "One On One (Cerrone Remix)",
+        "url": "https://open.spotify.com/album/7oNkv3hDFC2IhcwaLWnUDi"
+      },
+      "artists": [
+        {
+          "name": "The Knocks",
+          "url": "https://open.spotify.com/artist/2x7EATekOPhFGRx3syMGEC"
+        },
+        {
+          "name": "Sofi Tukker",
+          "url": "https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q"
+        },
+        {
+          "name": "Cerrone",
+          "url": "https://open.spotify.com/artist/5SE2sfwTpxL2vXRdG6H5PM"
+        }
+      ],
+      "duration_ms": 204318,
+      "name": "One On One (Cerrone Remix)",
+      "url": "https://open.spotify.com/track/3Ca9i2FRXcN3sWDS83rcDM"
+    },
+    {
+      "added_at": "2024-03-15 04:00:00",
+      "album": {
         "name": "Freak Me Now (with R\u00f3is\u00edn Murphy)",
         "url": "https://open.spotify.com/album/5C9mU8kbHika6CeQfTcePJ"
       },
@@ -763,30 +787,6 @@
       "duration_ms": 172884,
       "name": "Tighten It Up - Barney Bones - DRAMA Edit",
       "url": "https://open.spotify.com/track/5suNUnahl3rSictF1dBPei"
-    },
-    {
-      "added_at": "2024-03-15 04:00:00",
-      "album": {
-        "name": "One On One (Cerrone Remix)",
-        "url": "https://open.spotify.com/album/7oNkv3hDFC2IhcwaLWnUDi"
-      },
-      "artists": [
-        {
-          "name": "The Knocks",
-          "url": "https://open.spotify.com/artist/2x7EATekOPhFGRx3syMGEC"
-        },
-        {
-          "name": "Sofi Tukker",
-          "url": "https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q"
-        },
-        {
-          "name": "Cerrone",
-          "url": "https://open.spotify.com/artist/5SE2sfwTpxL2vXRdG6H5PM"
-        }
-      ],
-      "duration_ms": 204318,
-      "name": "One On One (Cerrone Remix)",
-      "url": "https://open.spotify.com/track/3Ca9i2FRXcN3sWDS83rcDM"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -931,6 +931,22 @@
     {
       "added_at": "2024-03-15 04:00:00",
       "album": {
+        "name": "Seventies",
+        "url": "https://open.spotify.com/album/5X6J5NTJIWPCJzcRwIKXmb"
+      },
+      "artists": [
+        {
+          "name": "Theo Kottis",
+          "url": "https://open.spotify.com/artist/3qEwwb8O7MSkGRohGYEzkO"
+        }
+      ],
+      "duration_ms": 196035,
+      "name": "Seventies",
+      "url": "https://open.spotify.com/track/4k0vs6zgt0NYq6tmDum4nP"
+    },
+    {
+      "added_at": "2024-03-15 04:00:00",
+      "album": {
         "name": "Ordinary Love (Folamour Remix)",
         "url": "https://open.spotify.com/album/1bZe6bclEpMPDiCWOgpxKk"
       },
@@ -951,18 +967,18 @@
     {
       "added_at": "2024-03-15 04:00:00",
       "album": {
-        "name": "Seventies",
-        "url": "https://open.spotify.com/album/5X6J5NTJIWPCJzcRwIKXmb"
+        "name": "Everyday People",
+        "url": "https://open.spotify.com/album/1LJpax4mCpovZiAJUZFChP"
       },
       "artists": [
         {
-          "name": "Theo Kottis",
-          "url": "https://open.spotify.com/artist/3qEwwb8O7MSkGRohGYEzkO"
+          "name": "Prok & Fitch",
+          "url": "https://open.spotify.com/artist/62akbR2hpk0ArA98zOYNys"
         }
       ],
-      "duration_ms": 196035,
-      "name": "Seventies",
-      "url": "https://open.spotify.com/track/4k0vs6zgt0NYq6tmDum4nP"
+      "duration_ms": 165494,
+      "name": "Everyday People",
+      "url": "https://open.spotify.com/track/68FsnsTl1yNJKX8RYgbcMy"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -979,22 +995,6 @@
       "duration_ms": 198173,
       "name": "Money",
       "url": "https://open.spotify.com/track/34KMYJ2e5ouT1qfOEJgfIe"
-    },
-    {
-      "added_at": "2024-03-15 04:00:00",
-      "album": {
-        "name": "Everyday People",
-        "url": "https://open.spotify.com/album/1LJpax4mCpovZiAJUZFChP"
-      },
-      "artists": [
-        {
-          "name": "Prok & Fitch",
-          "url": "https://open.spotify.com/artist/62akbR2hpk0ArA98zOYNys"
-        }
-      ],
-      "duration_ms": 165494,
-      "name": "Everyday People",
-      "url": "https://open.spotify.com/track/68FsnsTl1yNJKX8RYgbcMy"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -1443,6 +1443,26 @@
     {
       "added_at": "2024-03-15 04:00:00",
       "album": {
+        "name": "Sweet Side",
+        "url": "https://open.spotify.com/album/24PaFeFq25xoO8jPCRkn0H"
+      },
+      "artists": [
+        {
+          "name": "Raquel Rodriguez",
+          "url": "https://open.spotify.com/artist/7CPwAwFBnruFlDqUQCrM1Q"
+        },
+        {
+          "name": "Dux",
+          "url": "https://open.spotify.com/artist/4KhjcdYNau3U89mU0hLuqr"
+        }
+      ],
+      "duration_ms": 225414,
+      "name": "Leave Me Behind",
+      "url": "https://open.spotify.com/track/4dbUtdJDtqjHEgOxt2a4Dp"
+    },
+    {
+      "added_at": "2024-03-15 04:00:00",
+      "album": {
         "name": "CAN'T GO HOME",
         "url": "https://open.spotify.com/album/4hyWuVrgGuuCvwIDkmmLuc"
       },
@@ -1467,22 +1487,6 @@
     {
       "added_at": "2024-03-15 04:00:00",
       "album": {
-        "name": "A Mixtape by Anish Kumar",
-        "url": "https://open.spotify.com/album/2FKcfRXY5LYv0pALiLRh3g"
-      },
-      "artists": [
-        {
-          "name": "Anish Kumar",
-          "url": "https://open.spotify.com/artist/4pSMnAlD8JVEW3eZDuaQH8"
-        }
-      ],
-      "duration_ms": 194645,
-      "name": "Little Miss Dynamite",
-      "url": "https://open.spotify.com/track/0UgyZoaRyRZ8NSiAF8RIiz"
-    },
-    {
-      "added_at": "2024-03-15 04:00:00",
-      "album": {
         "name": "To the Stars and Back",
         "url": "https://open.spotify.com/album/5aYIRYfTHseCyXvhGGQHF9"
       },
@@ -1503,22 +1507,18 @@
     {
       "added_at": "2024-03-15 04:00:00",
       "album": {
-        "name": "Sweet Side",
-        "url": "https://open.spotify.com/album/24PaFeFq25xoO8jPCRkn0H"
+        "name": "A Mixtape by Anish Kumar",
+        "url": "https://open.spotify.com/album/2FKcfRXY5LYv0pALiLRh3g"
       },
       "artists": [
         {
-          "name": "Raquel Rodriguez",
-          "url": "https://open.spotify.com/artist/7CPwAwFBnruFlDqUQCrM1Q"
-        },
-        {
-          "name": "Dux",
-          "url": "https://open.spotify.com/artist/4KhjcdYNau3U89mU0hLuqr"
+          "name": "Anish Kumar",
+          "url": "https://open.spotify.com/artist/4pSMnAlD8JVEW3eZDuaQH8"
         }
       ],
-      "duration_ms": 225414,
-      "name": "Leave Me Behind",
-      "url": "https://open.spotify.com/track/4dbUtdJDtqjHEgOxt2a4Dp"
+      "duration_ms": 194645,
+      "name": "Little Miss Dynamite",
+      "url": "https://open.spotify.com/track/0UgyZoaRyRZ8NSiAF8RIiz"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -1667,18 +1667,18 @@
     {
       "added_at": "2024-03-15 04:00:00",
       "album": {
-        "name": "Please",
-        "url": "https://open.spotify.com/album/0ugWOJ1e8Q2Qp7rukfH4YR"
+        "name": "Boys Don't Sob",
+        "url": "https://open.spotify.com/album/3ZFmah5FBGNwfXZx5y7N4J"
       },
       "artists": [
         {
-          "name": "Jessie Ware",
-          "url": "https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc"
+          "name": "The Free Label",
+          "url": "https://open.spotify.com/artist/4YOL2g6AwphwsB1dOZZSOr"
         }
       ],
-      "duration_ms": 219933,
-      "name": "Please - Single Edit",
-      "url": "https://open.spotify.com/track/7mJGrZIFA5MO6W2QBcWBDX"
+      "duration_ms": 176017,
+      "name": "Boys Don't Sob",
+      "url": "https://open.spotify.com/track/2fkAbl3FCAj9BKc4Z5GIdr"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -1739,18 +1739,34 @@
     {
       "added_at": "2024-03-15 04:00:00",
       "album": {
-        "name": "Boys Don't Sob",
-        "url": "https://open.spotify.com/album/3ZFmah5FBGNwfXZx5y7N4J"
+        "name": "Please",
+        "url": "https://open.spotify.com/album/0ugWOJ1e8Q2Qp7rukfH4YR"
       },
       "artists": [
         {
-          "name": "The Free Label",
-          "url": "https://open.spotify.com/artist/4YOL2g6AwphwsB1dOZZSOr"
+          "name": "Jessie Ware",
+          "url": "https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc"
         }
       ],
-      "duration_ms": 176017,
-      "name": "Boys Don't Sob",
-      "url": "https://open.spotify.com/track/2fkAbl3FCAj9BKc4Z5GIdr"
+      "duration_ms": 219933,
+      "name": "Please - Single Edit",
+      "url": "https://open.spotify.com/track/7mJGrZIFA5MO6W2QBcWBDX"
+    },
+    {
+      "added_at": "2024-03-15 04:00:00",
+      "album": {
+        "name": "That's Right (Edit)",
+        "url": "https://open.spotify.com/album/5ffuXlm1J5vYUqWl2ODj6Z"
+      },
+      "artists": [
+        {
+          "name": "Dam Swindle",
+          "url": "https://open.spotify.com/artist/6hJtgCB3L5cnJSND7sp6GU"
+        }
+      ],
+      "duration_ms": 276000,
+      "name": "That's Right - Edit",
+      "url": "https://open.spotify.com/track/5kCmJdIdFqKQiiCYYpa0xo"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -1787,22 +1803,6 @@
     {
       "added_at": "2024-03-15 04:00:00",
       "album": {
-        "name": "That's Right (Edit)",
-        "url": "https://open.spotify.com/album/5ffuXlm1J5vYUqWl2ODj6Z"
-      },
-      "artists": [
-        {
-          "name": "Dam Swindle",
-          "url": "https://open.spotify.com/artist/6hJtgCB3L5cnJSND7sp6GU"
-        }
-      ],
-      "duration_ms": 276000,
-      "name": "That's Right - Edit",
-      "url": "https://open.spotify.com/track/5kCmJdIdFqKQiiCYYpa0xo"
-    },
-    {
-      "added_at": "2024-03-15 04:00:00",
-      "album": {
         "name": "Call On Me & Lifetime (Remixes)",
         "url": "https://open.spotify.com/album/1CRH8YfN1l16GxyuuFQn18"
       },
@@ -1819,30 +1819,6 @@
       "duration_ms": 193106,
       "name": "Lifetime - Dimitri From Paris 'Cruising Attitude' Remix",
       "url": "https://open.spotify.com/track/3UG6kDGptSoj8JMavdvZbc"
-    },
-    {
-      "added_at": "2024-03-15 04:00:00",
-      "album": {
-        "name": "Studio 54",
-        "url": "https://open.spotify.com/album/5eqNUuxFHel3GEUPeaaFbv"
-      },
-      "artists": [
-        {
-          "name": "Young Franco",
-          "url": "https://open.spotify.com/artist/6mK0vAO13gT8jWYANyoXAl"
-        },
-        {
-          "name": "Leyla Blue",
-          "url": "https://open.spotify.com/artist/6HpIVA13SPof8sYuXRUfxj"
-        },
-        {
-          "name": "Jafunk",
-          "url": "https://open.spotify.com/artist/5KtUig38eqxK2rOtHZnz0k"
-        }
-      ],
-      "duration_ms": 166289,
-      "name": "Studio 54",
-      "url": "https://open.spotify.com/track/20blT6R5DJhfrk9c16lQ4E"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -1879,6 +1855,30 @@
       "duration_ms": 220299,
       "name": "Waiting 4 You",
       "url": "https://open.spotify.com/track/6APQPY2tZzOV9T4iNSXdYe"
+    },
+    {
+      "added_at": "2024-03-15 04:00:00",
+      "album": {
+        "name": "Studio 54",
+        "url": "https://open.spotify.com/album/5eqNUuxFHel3GEUPeaaFbv"
+      },
+      "artists": [
+        {
+          "name": "Young Franco",
+          "url": "https://open.spotify.com/artist/6mK0vAO13gT8jWYANyoXAl"
+        },
+        {
+          "name": "Leyla Blue",
+          "url": "https://open.spotify.com/artist/6HpIVA13SPof8sYuXRUfxj"
+        },
+        {
+          "name": "Jafunk",
+          "url": "https://open.spotify.com/artist/5KtUig38eqxK2rOtHZnz0k"
+        }
+      ],
+      "duration_ms": 166289,
+      "name": "Studio 54",
+      "url": "https://open.spotify.com/track/20blT6R5DJhfrk9c16lQ4E"
     },
     {
       "added_at": "2024-03-15 04:00:00",

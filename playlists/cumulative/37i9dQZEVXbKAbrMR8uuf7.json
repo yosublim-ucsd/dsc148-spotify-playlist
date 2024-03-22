@@ -5650,7 +5650,7 @@
       ],
       "date_added": "2024-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-22",
       "duration_ms": 105486,
       "name": "Dembere",
       "url": "https://open.spotify.com/track/41G90MvWS97hrjHJfdzVUX"
@@ -5668,7 +5668,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-16",
+      "date_removed": null,
       "duration_ms": 105486,
       "name": "Dembere",
       "url": "https://open.spotify.com/track/6Ts2LQc2vF9SdeQ5w2abCs"
@@ -6292,6 +6292,28 @@
       "duration_ms": 133333,
       "name": "DIGITAL",
       "url": "https://open.spotify.com/track/1FiSyRs56BQEcDs20KNrDf"
+    },
+    {
+      "album": {
+        "name": "Digitando (Ao Vivo)",
+        "url": "https://open.spotify.com/album/5WFZf12viVUy3eBHLsnBSp"
+      },
+      "artists": [
+        {
+          "name": "Gustavo Moura & Rafael",
+          "url": "https://open.spotify.com/artist/2KZFvVVk9lxD85USaOv76T"
+        },
+        {
+          "name": "Jonas Esticado",
+          "url": "https://open.spotify.com/artist/22jNvLBrXGKr4CcV2tw8Ag"
+        }
+      ],
+      "date_added": "2024-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154287,
+      "name": "Digitando - Ao Vivo",
+      "url": "https://open.spotify.com/track/6sQazE95jwum2l642zafzG"
     },
     {
       "album": {
@@ -8028,7 +8050,7 @@
       ],
       "date_added": "2024-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-22",
       "duration_ms": 139168,
       "name": "eso e",
       "url": "https://open.spotify.com/track/2Ac2SsdSCW3dUsCBV7tXgM"
@@ -8050,7 +8072,7 @@
       ],
       "date_added": "2023-10-16",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-10",
+      "date_removed": null,
       "duration_ms": 139728,
       "name": "Eso E",
       "url": "https://open.spotify.com/track/7f0S484NNC0QAdM7HwRGBX"
@@ -14224,7 +14246,7 @@
       ],
       "date_added": "2023-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-18",
+      "date_removed": null,
       "duration_ms": 185795,
       "name": "Mami tu te pasas",
       "url": "https://open.spotify.com/track/4pTRYHAJTRwfSXekgVYzj6"
@@ -22304,7 +22326,7 @@
       ],
       "date_added": "2024-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-22",
       "duration_ms": 204649,
       "name": "Sicaria",
       "url": "https://open.spotify.com/track/02AZnoKXGEeOrTI9xrtOsg"
@@ -27118,7 +27140,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-22",
       "duration_ms": 187172,
       "name": "Young Miko: Bzrp Music Sessions, Vol. 58",
       "url": "https://open.spotify.com/track/6VciS3dRMpZhJiDxT8ArFi"

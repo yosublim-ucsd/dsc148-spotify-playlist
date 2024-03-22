@@ -4,7 +4,7 @@
 
 > Soft and cozy sounds of Bossa nova.
 
-104 songs - 6 hr 41 min
+107 songs - 6 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,6 +31,7 @@
 | [Cleopatra's Dream](https://open.spotify.com/track/79Pa36K6R3somBuhNi2B0V) | [Jonny Libonate](https://open.spotify.com/artist/6pS27rHwAFUbbLvuUWVZba) | [But Not for Me](https://open.spotify.com/album/5dC6hVfIA8U6WJbtbchXaE) | 3:08 | 2023-05-11 |  |
 | [Coração Madura](https://open.spotify.com/track/3TTQRX8ppicWmBSLDWs5u6) | [Téo Freire](https://open.spotify.com/artist/2Es2xfsRli23jk1UwvIej3) | [Coração Madura](https://open.spotify.com/album/1iTU5adC5AOkPaI0UmTuOC) | 2:00 | 2023-05-11 |  |
 | [Cosme Velho](https://open.spotify.com/track/4t1NtFuhpXCjdKFsNTfNdJ) | [El Equipo Del Norte](https://open.spotify.com/artist/3NlkrQ9iKKw6VZlWr0lk0U) | [Cosme Velho](https://open.spotify.com/album/1CiCakkArtq2iGnRBGcDv0) | 2:53 | 2023-05-11 |  |
+| [Céu Tropical](https://open.spotify.com/track/1tQDRcG0bYg7zYvTkN98RY) | [Martín Lima](https://open.spotify.com/artist/5e3qpW081a7wvT7G2EIj51) | [Céu Tropical](https://open.spotify.com/album/5b6Pitwhg3vbsfRO2wrVXs) | 3:35 | 2024-03-22 |  |
 | [Dança Noturna](https://open.spotify.com/track/3K6SvPhXBdKhC3RCnfWIEl) | [Sara Santos](https://open.spotify.com/artist/1K83XnIXY2xWu7cyBcOdjr) | [Dança Noturna](https://open.spotify.com/album/0QLjiCIycregn3J6tycwul) | 4:14 | 2023-05-11 |  |
 | [Dindi](https://open.spotify.com/track/0v2LWjMTUcwl49SLxflj9n) | [Midtown Players](https://open.spotify.com/artist/1GRABQUFydUxNHGumW35mO) | [Dindi](https://open.spotify.com/album/77UUjAXL27yMKkyWzam0xL) | 2:41 | 2023-05-11 |  |
 | [Enjoy Your Cigar](https://open.spotify.com/track/5WaOOx9Q5BJhJAfQaxnaaN) | [Magnus Ringblom Quartet](https://open.spotify.com/artist/253IbsVCS7UKpL61Dv5hru) | [Sunset Martini](https://open.spotify.com/album/7wVdlgOP7d5mRO64fvspVb) | 3:42 | 2023-05-11 |  |
@@ -45,6 +46,7 @@
 | [Foz Do Iguaçu](https://open.spotify.com/track/7DH2me3WEWpTNcPqeq6I8w) | [da Suécia](https://open.spotify.com/artist/4oOtPyWe8TK5mn4gKJDNse) | [Foz Do Iguaçu](https://open.spotify.com/album/0hlEiLyA2RkFQhTkPu33AW) | 3:26 | 2023-05-11 |  |
 | [Gentileza](https://open.spotify.com/track/2b5sr8aUAAoY7waDSB4KRX) | [Ximena & Antonio](https://open.spotify.com/artist/4GTpu88l1iZwuSyY2UXW70) | [Gentileza](https://open.spotify.com/album/13Nf9wlDHpcboyd0LM7px6) | 4:25 | 2023-05-11 |  |
 | [Goin' Home \- Rudy Van Gelder Edition/2007 Digital Remaster](https://open.spotify.com/track/4vmyjeAmH2YW1Zf2YhTca6) | [Ike Quebec](https://open.spotify.com/artist/6y7dRlvApiCjP12JrxWQjh) | [Bossa Nova Soul Samba \(Rudy Van Gelder Edition\)](https://open.spotify.com/album/4ntjTCmyhwHIsK12RScxRP) | 5:41 | 2023-05-11 |  |
+| [Green Light](https://open.spotify.com/track/6pJKUVbk8N858Ukh1L0CWm) | [Stockholm Whereabouts](https://open.spotify.com/artist/7xGUX1jozTRuHMgjmRuK18) | [Green Light](https://open.spotify.com/album/1AYgQw2jkNkyptUflqyMGA) | 3:53 | 2024-03-22 |  |
 | [Gringo na Lapa](https://open.spotify.com/track/2gyJ9qVNvQ01qnIXGqqJ27) | [Samuel Furtado](https://open.spotify.com/artist/0ovOJBn9DrE5qU4THpWpsx) | [Gringo na Lapa](https://open.spotify.com/album/29r2JdeDoQkiSm3yfBXT96) | 4:32 | 2023-05-11 |  |
 | [Hermana](https://open.spotify.com/track/5JR2HVcJoTWsk7ekHMd5RM) | [Burt Mitchell](https://open.spotify.com/artist/5Wj6zFHgENkOCOMh4ZwGX0) | [The Getaway](https://open.spotify.com/album/140DzepgudObqMe1uv4W1f) | 4:33 | 2023-05-11 |  |
 | [How Deep Is Your Love](https://open.spotify.com/track/7loCV1ZchsjMzjKqCM5rv2) | [Jony Magui](https://open.spotify.com/artist/4SflbmW0fcONCRo3wc0Kte) | [How Deep Is Your Love](https://open.spotify.com/album/1JbaEJKeT7zMKAapMIQAO3) | 2:19 | 2023-05-11 |  |
@@ -61,6 +63,7 @@
 | [Lembranças](https://open.spotify.com/track/4eGXFQEQGGxgYy6OFabfJV) | [Vitor José Fonseca](https://open.spotify.com/artist/4lmPgpLRyJHPseygyVBGTu) | [Lembranças](https://open.spotify.com/album/1uPZt0rwu5GK8wA9Qji4tW) | 4:04 | 2023-05-11 |  |
 | [Liljeholmsviken](https://open.spotify.com/track/3Gw26kNDJHfTtHJQOzI1h4) | [Vendla](https://open.spotify.com/artist/4uWu7kqFidRgiqrLM5x1Vu) | [Liljeholmsviken](https://open.spotify.com/album/6wrG9MReEESMfnXLh3daCe) | 4:22 | 2023-05-11 |  |
 | [Lonely Desires](https://open.spotify.com/track/6FgLJ7dCQMjgvqrKnYP1Q6) | [Amir Patel](https://open.spotify.com/artist/2IwMjlPYSZLq7oH4YN4WFy) | [Lonely Desires](https://open.spotify.com/album/6SYo8TS6PN3OIVqSfmUqW1) | 2:41 | 2023-10-13 |  |
+| [Lágrimas de Alegria](https://open.spotify.com/track/04BrX31eCbQ6Oic7cAOob0) | [da Suécia](https://open.spotify.com/artist/4oOtPyWe8TK5mn4gKJDNse) | [Lágrimas de Alegria](https://open.spotify.com/album/6dJzdUWM2tW2b4CU11hS1n) | 3:04 | 2024-03-22 |  |
 | [Maneiro](https://open.spotify.com/track/5Ibs7bA78QLwMylLggsZpi) | [Eric Merlino](https://open.spotify.com/artist/1vL7K80AJZnr8Y10olI96q) | [Maneiro](https://open.spotify.com/album/2sYgZHT6yCVpbu9omNzrEt) | 4:03 | 2024-02-23 |  |
 | [Manha de Carnaval](https://open.spotify.com/track/0kfdvJhyb0QHBG1IM9Vlht) | [João Donato](https://open.spotify.com/artist/17wDxPR2GcU3r1dpCoCiUi) | [The New Sound of Brazil](https://open.spotify.com/album/0947CUJYGkjD70oXtYtgbU) | 3:09 | 2023-05-11 |  |
 | [Meditação](https://open.spotify.com/track/4QdHwCmkuQuKfCuqK0VqOP) | [Michel Rosa](https://open.spotify.com/artist/5tGQbvcsEaVXQ5uD7NzfLV) | [Meditação](https://open.spotify.com/album/7uvnQx1Ih6etuDuFLamyzr) | 6:18 | 2023-05-11 |  |

@@ -1,12 +1,12 @@
 {
   "description": "Stay relaxed with these easy, laid-back songs.",
-  "num_followers": 2078555,
+  "num_followers": 2078727,
   "original_name": "Totally Stress Free",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiZjM5ZTQzYTZkNmViNTVmNTY2NTAwOTc4OWNjNGZkOTdkODQwZjAx",
+  "snapshot_id": "MCxjMGU5OThhYzE2N2JjNGNmMTEzZWIyZmM3MWUxZGJiZGFkMTgwOTM0",
   "tracks": [
     {
       "added_at": "2024-03-08 05:01:06",
@@ -803,6 +803,22 @@
     {
       "added_at": "2024-03-08 05:01:06",
       "album": {
+        "name": "Hozier",
+        "url": "https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq"
+      },
+      "artists": [
+        {
+          "name": "Hozier",
+          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
+        }
+      ],
+      "duration_ms": 222813,
+      "name": "Someone New",
+      "url": "https://open.spotify.com/track/0efT4YKQLQx2YHbp6vgRX8"
+    },
+    {
+      "added_at": "2024-03-08 05:01:06",
+      "album": {
         "name": "The Spirit Moves",
         "url": "https://open.spotify.com/album/77UiJMD9OVYj2YXr2gO9L5"
       },
@@ -819,22 +835,6 @@
       "duration_ms": 161906,
       "name": "Changes",
       "url": "https://open.spotify.com/track/0gKiONJeEtwb3hps4sUgyn"
-    },
-    {
-      "added_at": "2024-03-08 05:01:06",
-      "album": {
-        "name": "Hozier",
-        "url": "https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq"
-      },
-      "artists": [
-        {
-          "name": "Hozier",
-          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
-        }
-      ],
-      "duration_ms": 222813,
-      "name": "Someone New",
-      "url": "https://open.spotify.com/track/0efT4YKQLQx2YHbp6vgRX8"
     },
     {
       "added_at": "2024-03-08 05:01:06",
@@ -1047,22 +1047,6 @@
     {
       "added_at": "2024-03-08 05:01:06",
       "album": {
-        "name": "One Step Ahead",
-        "url": "https://open.spotify.com/album/1CnJ8xFUzWfQUS6MhAkZNt"
-      },
-      "artists": [
-        {
-          "name": "Jack Johnson",
-          "url": "https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3"
-        }
-      ],
-      "duration_ms": 191647,
-      "name": "One Step Ahead",
-      "url": "https://open.spotify.com/track/0MbqHR99kNqNrW3vCmSBRo"
-    },
-    {
-      "added_at": "2024-03-08 05:01:06",
-      "album": {
         "name": "Highroad",
         "url": "https://open.spotify.com/album/70gYt9g5sdmG00ArLq5eIY"
       },
@@ -1079,18 +1063,18 @@
     {
       "added_at": "2024-03-08 05:01:06",
       "album": {
-        "name": "Chapter Of The Forest",
-        "url": "https://open.spotify.com/album/0Tt5WHP4RdkQemDgD1QItP"
+        "name": "One Step Ahead",
+        "url": "https://open.spotify.com/album/1CnJ8xFUzWfQUS6MhAkZNt"
       },
       "artists": [
         {
-          "name": "Trevor Hall",
-          "url": "https://open.spotify.com/artist/3RMHexittaAZkf8zukkZB8"
+          "name": "Jack Johnson",
+          "url": "https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3"
         }
       ],
-      "duration_ms": 274632,
-      "name": "Green Mountain State",
-      "url": "https://open.spotify.com/track/0c7iF5fSBYxCuwsAv2z4iI"
+      "duration_ms": 191647,
+      "name": "One Step Ahead",
+      "url": "https://open.spotify.com/track/0MbqHR99kNqNrW3vCmSBRo"
     },
     {
       "added_at": "2024-03-08 05:01:06",
@@ -1107,6 +1091,22 @@
       "duration_ms": 194813,
       "name": "McKenzie",
       "url": "https://open.spotify.com/track/6FLkXWDTvUc36qYYRhm4jg"
+    },
+    {
+      "added_at": "2024-03-08 05:01:06",
+      "album": {
+        "name": "Chapter Of The Forest",
+        "url": "https://open.spotify.com/album/0Tt5WHP4RdkQemDgD1QItP"
+      },
+      "artists": [
+        {
+          "name": "Trevor Hall",
+          "url": "https://open.spotify.com/artist/3RMHexittaAZkf8zukkZB8"
+        }
+      ],
+      "duration_ms": 274632,
+      "name": "Green Mountain State",
+      "url": "https://open.spotify.com/track/0c7iF5fSBYxCuwsAv2z4iI"
     },
     {
       "added_at": "2024-03-08 05:01:06",
@@ -1143,26 +1143,6 @@
     {
       "added_at": "2024-03-08 05:01:06",
       "album": {
-        "name": "TRUSTFALL",
-        "url": "https://open.spotify.com/album/1GIWJs7mEdzKym3tQ8QScJ"
-      },
-      "artists": [
-        {
-          "name": "P!nk",
-          "url": "https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR"
-        },
-        {
-          "name": "First Aid Kit",
-          "url": "https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1"
-        }
-      ],
-      "duration_ms": 167200,
-      "name": "Kids in Love",
-      "url": "https://open.spotify.com/track/1gpYR1FzbIS0IRbpF3BBmu"
-    },
-    {
-      "added_at": "2024-03-08 05:01:06",
-      "album": {
         "name": "In These Silent Days",
         "url": "https://open.spotify.com/album/5mIT7iw9w64DMP2vxP9L1f"
       },
@@ -1179,6 +1159,26 @@
       "duration_ms": 230098,
       "name": "You and Me On The Rock (feat. Lucius)",
       "url": "https://open.spotify.com/track/61X73CJcpwGIxgQgKEXbw0"
+    },
+    {
+      "added_at": "2024-03-08 05:01:06",
+      "album": {
+        "name": "TRUSTFALL",
+        "url": "https://open.spotify.com/album/1GIWJs7mEdzKym3tQ8QScJ"
+      },
+      "artists": [
+        {
+          "name": "P!nk",
+          "url": "https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR"
+        },
+        {
+          "name": "First Aid Kit",
+          "url": "https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1"
+        }
+      ],
+      "duration_ms": 167200,
+      "name": "Kids in Love",
+      "url": "https://open.spotify.com/track/1gpYR1FzbIS0IRbpF3BBmu"
     },
     {
       "added_at": "2024-03-08 05:01:06",
@@ -1299,22 +1299,6 @@
     {
       "added_at": "2024-03-08 05:01:06",
       "album": {
-        "name": "Sad Hunk",
-        "url": "https://open.spotify.com/album/0vWNWn7PcEotOycEtBC7br"
-      },
-      "artists": [
-        {
-          "name": "Bahamas",
-          "url": "https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt"
-        }
-      ],
-      "duration_ms": 204453,
-      "name": "Trick To Happy",
-      "url": "https://open.spotify.com/track/4lrkAUjZqFCofSF4QplDYd"
-    },
-    {
-      "added_at": "2024-03-08 05:01:06",
-      "album": {
         "name": "Be OK",
         "url": "https://open.spotify.com/album/26OZ2w8TlwMUmA0GMpQL1U"
       },
@@ -1327,6 +1311,22 @@
       "duration_ms": 148080,
       "name": "Be OK",
       "url": "https://open.spotify.com/track/4I8Nhe8qN9xgR8tosYQ5ut"
+    },
+    {
+      "added_at": "2024-03-08 05:01:06",
+      "album": {
+        "name": "Sad Hunk",
+        "url": "https://open.spotify.com/album/0vWNWn7PcEotOycEtBC7br"
+      },
+      "artists": [
+        {
+          "name": "Bahamas",
+          "url": "https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt"
+        }
+      ],
+      "duration_ms": 204453,
+      "name": "Trick To Happy",
+      "url": "https://open.spotify.com/track/4lrkAUjZqFCofSF4QplDYd"
     },
     {
       "added_at": "2024-03-08 05:01:06",
@@ -1407,22 +1407,6 @@
     {
       "added_at": "2024-03-08 05:01:06",
       "album": {
-        "name": "In Your Hands",
-        "url": "https://open.spotify.com/album/0tZj37rUrevqNsoI4N0iEA"
-      },
-      "artists": [
-        {
-          "name": "Nick Mulvey",
-          "url": "https://open.spotify.com/artist/3x8FbPjh2Qz55XMdE2Yalj"
-        }
-      ],
-      "duration_ms": 230164,
-      "name": "In Your Hands - Single Version",
-      "url": "https://open.spotify.com/track/7tJHvRoGvkckZkZk5ORUot"
-    },
-    {
-      "added_at": "2024-03-08 05:01:06",
-      "album": {
         "name": "The Head And The Heart",
         "url": "https://open.spotify.com/album/4wM8y2tEaXEfGewxGPFzyu"
       },
@@ -1435,6 +1419,22 @@
       "duration_ms": 303653,
       "name": "Down in the Valley",
       "url": "https://open.spotify.com/track/7IcKs2XXHnQBtBJtzEyqqS"
+    },
+    {
+      "added_at": "2024-03-08 05:01:06",
+      "album": {
+        "name": "In Your Hands",
+        "url": "https://open.spotify.com/album/0tZj37rUrevqNsoI4N0iEA"
+      },
+      "artists": [
+        {
+          "name": "Nick Mulvey",
+          "url": "https://open.spotify.com/artist/3x8FbPjh2Qz55XMdE2Yalj"
+        }
+      ],
+      "duration_ms": 230164,
+      "name": "In Your Hands - Single Version",
+      "url": "https://open.spotify.com/track/7tJHvRoGvkckZkZk5ORUot"
     },
     {
       "added_at": "2024-03-08 05:01:06",
@@ -1511,22 +1511,6 @@
     {
       "added_at": "2024-03-08 05:01:06",
       "album": {
-        "name": "Love Lines",
-        "url": "https://open.spotify.com/album/6E7FmOKkt2McJF0I411HzL"
-      },
-      "artists": [
-        {
-          "name": "LP",
-          "url": "https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A"
-        }
-      ],
-      "duration_ms": 207294,
-      "name": "Golden",
-      "url": "https://open.spotify.com/track/5149LIHpBivPrcQsX5HZO6"
-    },
-    {
-      "added_at": "2024-03-08 05:01:06",
-      "album": {
         "name": "Women In Music Pt. III",
         "url": "https://open.spotify.com/album/396EJBtUzseofX2YCBJVvM"
       },
@@ -1539,6 +1523,22 @@
       "duration_ms": 204280,
       "name": "Now I'm In It - Bonus Track",
       "url": "https://open.spotify.com/track/5T8OICEqdqbx8Uz7L5abkH"
+    },
+    {
+      "added_at": "2024-03-08 05:01:06",
+      "album": {
+        "name": "Love Lines",
+        "url": "https://open.spotify.com/album/6E7FmOKkt2McJF0I411HzL"
+      },
+      "artists": [
+        {
+          "name": "LP",
+          "url": "https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A"
+        }
+      ],
+      "duration_ms": 207294,
+      "name": "Golden",
+      "url": "https://open.spotify.com/track/5149LIHpBivPrcQsX5HZO6"
     },
     {
       "added_at": "2024-03-08 05:01:06",
@@ -1875,22 +1875,6 @@
     {
       "added_at": "2024-03-08 05:01:06",
       "album": {
-        "name": "Joyride",
-        "url": "https://open.spotify.com/album/2kbQUnNWsS3C931Sx7FYzb"
-      },
-      "artists": [
-        {
-          "name": "Adam Melchor",
-          "url": "https://open.spotify.com/artist/54tv11ndFfiqXiR03PwdlB"
-        }
-      ],
-      "duration_ms": 212945,
-      "name": "Joyride",
-      "url": "https://open.spotify.com/track/0VcVy0kpfwyd5rMS5URyVD"
-    },
-    {
-      "added_at": "2024-03-08 05:01:06",
-      "album": {
         "name": "Best Day of My Life",
         "url": "https://open.spotify.com/album/0JCGma6Cn0cz9xY7rJSio2"
       },
@@ -1903,6 +1887,22 @@
       "duration_ms": 219020,
       "name": "Just Another Thing We Don't Talk About",
       "url": "https://open.spotify.com/track/5lOvQe3omS2G2YOHZqrIGl"
+    },
+    {
+      "added_at": "2024-03-08 05:01:06",
+      "album": {
+        "name": "Joyride",
+        "url": "https://open.spotify.com/album/2kbQUnNWsS3C931Sx7FYzb"
+      },
+      "artists": [
+        {
+          "name": "Adam Melchor",
+          "url": "https://open.spotify.com/artist/54tv11ndFfiqXiR03PwdlB"
+        }
+      ],
+      "duration_ms": 212945,
+      "name": "Joyride",
+      "url": "https://open.spotify.com/track/0VcVy0kpfwyd5rMS5URyVD"
     },
     {
       "added_at": "2024-03-08 05:01:06",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWHqd3RfK9kX.md) - [plain]
 
 > Il sound giusto per creare in cucina!
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,233 likes - 80 songs - 4 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,240 likes - 80 songs - 4 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWHqd3RfK9kX.md) - [plain]
 | 20 | [Candela](https://open.spotify.com/track/1caT2YklnqZq35IcQ0oRLj) | [Buena Vista Social Club](https://open.spotify.com/artist/11kBu957KTYoAltZHDm8gW) | [Buena Vista Social Club](https://open.spotify.com/album/5qcOy8sMqROZ0VEfK8LJZt) | 5:29 |
 | 21 | [La Murga](https://open.spotify.com/track/5O2Id1rWAmR9ff9kGUfikf) | [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW), [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP), [Yomo Toro](https://open.spotify.com/artist/112OOUPY3pq7Hr35s3po6E) | [Asalto Navideño](https://open.spotify.com/album/4TnqBA58KybPV53g95LHLe) | 5:34 |
 | 22 | [Tous les garçons et les filles \- Slow](https://open.spotify.com/track/0Yg1hSAUgd2AAneReFOVzS) | [Françoise Hardy](https://open.spotify.com/artist/7x3f7c0fBanNlQwpx1255g) | [Françoise Hardy \(Tous les garçons et les filles\)](https://open.spotify.com/album/0TcP4beTgxQmREuHJ7BBY2) | 3:07 |
-| 23 | [Réu Confesso](https://open.spotify.com/track/3BpiaGyTIb7VIoAYbvSzTH) | [Tim Maia](https://open.spotify.com/artist/0jOs0wnXCu1bGGP7kh5uIu) | [Tim Maia 1973](https://open.spotify.com/album/6gK1Uf1uZolqGBibGaW5qK) | 3:37 |
-| 24 | [Cotidiano](https://open.spotify.com/track/127twwy3iCo1xBRQHyWetU) | [Chico Buarque](https://open.spotify.com/artist/6tOsSffQQIXmK8TqsDck8t) | [Construção](https://open.spotify.com/album/7yrRo2o4XzDfv3mNnkPRE5) | 2:48 |
+| 23 | [Cotidiano](https://open.spotify.com/track/127twwy3iCo1xBRQHyWetU) | [Chico Buarque](https://open.spotify.com/artist/6tOsSffQQIXmK8TqsDck8t) | [Construção](https://open.spotify.com/album/7yrRo2o4XzDfv3mNnkPRE5) | 2:48 |
+| 24 | [Réu Confesso](https://open.spotify.com/track/3BpiaGyTIb7VIoAYbvSzTH) | [Tim Maia](https://open.spotify.com/artist/0jOs0wnXCu1bGGP7kh5uIu) | [Tim Maia 1973](https://open.spotify.com/album/6gK1Uf1uZolqGBibGaW5qK) | 3:37 |
 | 25 | [Garota de Ipanema](https://open.spotify.com/track/7CzWvXHsAFAJeXAEHNXRdf) | [Paula Sergio](https://open.spotify.com/artist/6P4y8CZPgk4uB6UlJV5uwS) | [Brasil Bossa Nova Grandes Autores Vinicius Toquinho Tom Jobin](https://open.spotify.com/album/7iFtBoq7mSSnMKWoePFOpG) | 2:30 |
 | 26 | [Oye Cómo Va](https://open.spotify.com/track/73uEbChpBB29ttwVnwuNVE) | [Tito Puente](https://open.spotify.com/artist/6SPpCqM8gOzrtICAxN5NuX) | [El Rey Bravo](https://open.spotify.com/album/7J3VF3HcxYEYr2tRFoaqNq) | 4:34 |
 | 27 | [Samba Para Dos](https://open.spotify.com/track/76YAvriBBn6LcV97l4Stdc) | [Antonio Garcia Isaac](https://open.spotify.com/artist/7IH9NOjltyAfO5HsuAt9W3), [Roberto Aguilar](https://open.spotify.com/artist/454zFQhX3rYP52yNgyJWCV) | [Guitarras Latinas](https://open.spotify.com/album/6z1QMvoOBwozy4CvEqNPsD) | 4:51 |
@@ -69,8 +69,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWHqd3RfK9kX.md) - [plain]
 | 59 | [O Bêbado e a Equilibrista](https://open.spotify.com/track/3bgRCx8adxUZT7It3ryrWU) | [João Bosco](https://open.spotify.com/artist/3DF0ClNOUuvS3gh8V8sRJH), [Angela Maria](https://open.spotify.com/artist/4SKChJZZUJd8fD4ZbkpL6l) | [Linha De Passe](https://open.spotify.com/album/5hP8pHRsoC1ySE4wVc9wcH) | 3:20 |
 | 60 | [Lonely Teardrops](https://open.spotify.com/track/6TYR3IVgIwDK6ydc2EPEQq) | [Jackie Wilson](https://open.spotify.com/artist/4VnomLtKTm9Ahe1tZfmZju) | [Lonely Teardrops](https://open.spotify.com/album/4Ixm6f2gdD6Ai1qKkE5NGT) | 2:46 |
 | 61 | [Softly As In A Morning Sunrise](https://open.spotify.com/track/4vWMrM0AwlhRlkAdQtC2zn) | [The Modern Jazz Quartet](https://open.spotify.com/artist/7wBFjZMHsC6nfV0HOSd6uI) | [Elegance: The Birth Of The Modern Jazz Quartet](https://open.spotify.com/album/2uu6trC0IdVMMeslfF8nCC) | 3:29 |
-| 62 | [You Can Get It If You Really Want](https://open.spotify.com/track/1Vwvlg5av6Bfp9yjmu05yJ) | [Desmond Dekker](https://open.spotify.com/artist/1FcB6xMihhP9Hb6AdGVbWe) | [You Can Get It If You Really Want](https://open.spotify.com/album/2Vp41y8ITDPQv4lEDlc8Gw) | 2:38 |
-| 63 | [The Loser](https://open.spotify.com/track/3AGEHHqBOnAmQiJxxbasJu) | [Derrick Harriott](https://open.spotify.com/artist/1ht9oSlPiNywrg22T2sM8d) | [The Loser / Now We Know](https://open.spotify.com/album/3Q9nz0AiROFVdjAwNDpwhv) | 3:38 |
+| 62 | [The Loser](https://open.spotify.com/track/3AGEHHqBOnAmQiJxxbasJu) | [Derrick Harriott](https://open.spotify.com/artist/1ht9oSlPiNywrg22T2sM8d) | [The Loser / Now We Know](https://open.spotify.com/album/3Q9nz0AiROFVdjAwNDpwhv) | 3:38 |
+| 63 | [You Can Get It If You Really Want](https://open.spotify.com/track/1Vwvlg5av6Bfp9yjmu05yJ) | [Desmond Dekker](https://open.spotify.com/artist/1FcB6xMihhP9Hb6AdGVbWe) | [You Can Get It If You Really Want](https://open.spotify.com/album/2Vp41y8ITDPQv4lEDlc8Gw) | 2:38 |
 | 64 | [Bésame Mucho](https://open.spotify.com/track/1HlX3tDP7eJBs5CJx4XIIk) | [Los Panchos](https://open.spotify.com/artist/3Ker27Wbb9OcUHGs54JIAz) | [Tesoros De Coleccion](https://open.spotify.com/album/5fvc3yXYkuFeutWruzxCTk) | 3:00 |
 | 65 | [Wanna Be](https://open.spotify.com/track/5GjisoOfsN8qagrax01T4y) | [The Internet](https://open.spotify.com/artist/7GN9PivdemQRKjDt4z5Zv8) | [Hive Mind](https://open.spotify.com/album/27ThgFMUAx3MXLQ297DzWF) | 4:27 |
 | 66 | [A Gira](https://open.spotify.com/track/70mpYOq7kaEVOZD6IIJAaw) | [Trio Ternura](https://open.spotify.com/artist/6J4hJ6O6WJmBTlIL3wJBcT) | [Trio Ternura \(Compacto 1973\)](https://open.spotify.com/album/0LtKGt7sB3pSrduK8trZD8) | 3:03 |
@@ -86,7 +86,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWHqd3RfK9kX.md) - [plain]
 | 76 | [O Morro \(Não Tem Vez\)](https://open.spotify.com/track/5jMc7pAGFQ5lRqfaM7AsU5) | [Astrud Gilberto](https://open.spotify.com/artist/5rX2c1zow6hCph8PnnU3kF) | [The Astrud Gilberto Album](https://open.spotify.com/album/6haDxdERWK3rdVCGc2jr8E) | 2:56 |
 | 77 | [The Shade of the Mango Tree](https://open.spotify.com/track/6gdTVZdQcVN54ynCk38l5U) | [Luiz Bonfá](https://open.spotify.com/artist/174ThXFgQg2VCq9r3m8ceb) | [Bonfa Burrows Brazil](https://open.spotify.com/album/2FZVahHc8nS73bBKXmsKMq) | 3:54 |
 | 78 | [Amor em Jacumã](https://open.spotify.com/track/4DbtZtymMSyIoCY7P3mZU8) | [Lucas Santtana](https://open.spotify.com/artist/67muZL7DIwZwLnH9BFfI5Z) | [Sem Nostalgia](https://open.spotify.com/album/3qosc8WvmeN2oMd7LWZ34K) | 3:34 |
-| 79 | [Vem Menina](https://open.spotify.com/track/2c4Ecmj9hYHm21KOmnZZ9B) | [Curumin](https://open.spotify.com/artist/1W1k6LUPDR0l4zwvKR4YLI) | [Achados e Perdidos](https://open.spotify.com/album/0LAhdzSnR5XGs75Ial3VEk) | 4:19 |
-| 80 | [Little Boy Blue](https://open.spotify.com/track/4M8o993Gt5U6mSogtuviYn) | [Pat Kelly](https://open.spotify.com/artist/5mLxA9ySBmpMnMNvx1bEUi) | [The Vintage Series](https://open.spotify.com/album/79trt5vU4vqyna7znhWjqD) | 2:46 |
+| 79 | [Little Boy Blue](https://open.spotify.com/track/4M8o993Gt5U6mSogtuviYn) | [Pat Kelly](https://open.spotify.com/artist/5mLxA9ySBmpMnMNvx1bEUi) | [The Vintage Series](https://open.spotify.com/album/79trt5vU4vqyna7znhWjqD) | 2:46 |
+| 80 | [Vem Menina](https://open.spotify.com/track/2c4Ecmj9hYHm21KOmnZZ9B) | [Curumin](https://open.spotify.com/artist/1W1k6LUPDR0l4zwvKR4YLI) | [Achados e Perdidos](https://open.spotify.com/album/0LAhdzSnR5XGs75Ial3VEk) | 4:19 |
 
-Snapshot ID: `MCw1YmIwYWRjNWQ1ODk3MjZkNTZmOWQwM2NiMmJmMGEzNWZlNTU5ZWQx`
+Snapshot ID: `MCw2MmIwZDNjMWYyZWIyYTI5NTBkN2YwOTkxZTU5ZDg0NGE0OWYwY2Q4`

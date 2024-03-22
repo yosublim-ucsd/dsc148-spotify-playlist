@@ -1,12 +1,12 @@
 {
   "description": "La playlist con los m\u00e1s grandes \u00e9xitos de nuestrxs artistas mexicanxs. Kenia OS en portada.",
-  "num_followers": 654809,
+  "num_followers": 655069,
   "original_name": "Top M\u00e9xico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzOGNkNTQyMTljMzE0YmE4MzgzMDBiNTIxOWFiNjg2ZjNhMWE5NWY1",
+  "snapshot_id": "MCxhZmFjODg1Nzc4NDlkYWQ4M2U4NDBhNzliNTE1NzRiNGJkZThjNzU1",
   "tracks": [
     {
       "added_at": "2024-03-15 06:00:00",
@@ -743,22 +743,6 @@
     {
       "added_at": "2024-03-15 06:00:00",
       "album": {
-        "name": "Cactus",
-        "url": "https://open.spotify.com/album/4tENygDaMnwk2xajkMm5l1"
-      },
-      "artists": [
-        {
-          "name": "Belinda",
-          "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
-        }
-      ],
-      "duration_ms": 183381,
-      "name": "Cactus",
-      "url": "https://open.spotify.com/track/213Q7w8RMi5qbj18kvWasy"
-    },
-    {
-      "added_at": "2024-03-15 06:00:00",
-      "album": {
         "name": "NO SON KLLE",
         "url": "https://open.spotify.com/album/3manJutsZhzlnZe2xMWp7y"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 223586,
       "name": "NO SON KLLE",
       "url": "https://open.spotify.com/track/4dUES55SAFKZp4ekMlLHWZ"
+    },
+    {
+      "added_at": "2024-03-15 06:00:00",
+      "album": {
+        "name": "Cactus",
+        "url": "https://open.spotify.com/album/4tENygDaMnwk2xajkMm5l1"
+      },
+      "artists": [
+        {
+          "name": "Belinda",
+          "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
+        }
+      ],
+      "duration_ms": 183381,
+      "name": "Cactus",
+      "url": "https://open.spotify.com/track/213Q7w8RMi5qbj18kvWasy"
     },
     {
       "added_at": "2024-03-15 06:00:00",
@@ -1199,22 +1199,6 @@
     {
       "added_at": "2024-03-15 06:00:00",
       "album": {
-        "name": "Como En Los Viejos Tiempos",
-        "url": "https://open.spotify.com/album/0L42ly7nUhlU7B70Dsuv2P"
-      },
-      "artists": [
-        {
-          "name": "Eden Mu\u00f1oz",
-          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
-        }
-      ],
-      "duration_ms": 245250,
-      "name": "Como En Los Viejos Tiempos",
-      "url": "https://open.spotify.com/track/4GBRHjkc0OBRtzZBdO1BVq"
-    },
-    {
-      "added_at": "2024-03-15 06:00:00",
-      "album": {
         "name": "Mi Eterno Amor Secreto",
         "url": "https://open.spotify.com/album/5Y6bfQiugnvNc1PxDCU77c"
       },
@@ -1231,6 +1215,22 @@
       "duration_ms": 232321,
       "name": "Mi Eterno Amor Secreto",
       "url": "https://open.spotify.com/track/56qp8eaEnZ6hh96FkaDF7D"
+    },
+    {
+      "added_at": "2024-03-15 06:00:00",
+      "album": {
+        "name": "Como En Los Viejos Tiempos",
+        "url": "https://open.spotify.com/album/0L42ly7nUhlU7B70Dsuv2P"
+      },
+      "artists": [
+        {
+          "name": "Eden Mu\u00f1oz",
+          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
+        }
+      ],
+      "duration_ms": 245250,
+      "name": "Como En Los Viejos Tiempos",
+      "url": "https://open.spotify.com/track/4GBRHjkc0OBRtzZBdO1BVq"
     },
     {
       "added_at": "2024-03-15 06:00:00",
@@ -1323,22 +1323,6 @@
     {
       "added_at": "2024-03-15 06:00:00",
       "album": {
-        "name": "Sin Llorar",
-        "url": "https://open.spotify.com/album/7xmW8wBwAeNvLnZ5IUcFUE"
-      },
-      "artists": [
-        {
-          "name": "Yuridia",
-          "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
-        }
-      ],
-      "duration_ms": 222583,
-      "name": "Sin Llorar",
-      "url": "https://open.spotify.com/track/2mZkOJx1Cvfg6cEJJ0biaS"
-    },
-    {
-      "added_at": "2024-03-15 06:00:00",
-      "album": {
         "name": "Cosas de la Peda (feat. Gabito Ballesteros)",
         "url": "https://open.spotify.com/album/6w2nSB1vjClXyhZZ59tmKS"
       },
@@ -1399,6 +1383,22 @@
     {
       "added_at": "2024-03-15 06:00:00",
       "album": {
+        "name": "Sin Llorar",
+        "url": "https://open.spotify.com/album/7xmW8wBwAeNvLnZ5IUcFUE"
+      },
+      "artists": [
+        {
+          "name": "Yuridia",
+          "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
+        }
+      ],
+      "duration_ms": 222583,
+      "name": "Sin Llorar",
+      "url": "https://open.spotify.com/track/2mZkOJx1Cvfg6cEJJ0biaS"
+    },
+    {
+      "added_at": "2024-03-15 06:00:00",
+      "album": {
         "name": "KATY PERRY",
         "url": "https://open.spotify.com/album/0ZwHrjXLSKASw5RRvJK01t"
       },
@@ -1427,26 +1427,6 @@
     {
       "added_at": "2024-03-15 06:00:00",
       "album": {
-        "name": "Andar Conmigo",
-        "url": "https://open.spotify.com/album/14ZqBGDlPREpvTqc9OV1dI"
-      },
-      "artists": [
-        {
-          "name": "Grupo Marca Registrada",
-          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
-        },
-        {
-          "name": "Julieta Venegas",
-          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
-        }
-      ],
-      "duration_ms": 204956,
-      "name": "Andar Conmigo",
-      "url": "https://open.spotify.com/track/2UXGtSYtOOucPOXKQTWBjt"
-    },
-    {
-      "added_at": "2024-03-15 06:00:00",
-      "album": {
         "name": "Rebote",
         "url": "https://open.spotify.com/album/7x4VUK9g8a8q0rdkxke8WF"
       },
@@ -1463,6 +1443,26 @@
       "duration_ms": 158400,
       "name": "Rebote",
       "url": "https://open.spotify.com/track/3Ky0vwvC1U2mRrDBS87se7"
+    },
+    {
+      "added_at": "2024-03-15 06:00:00",
+      "album": {
+        "name": "Andar Conmigo",
+        "url": "https://open.spotify.com/album/14ZqBGDlPREpvTqc9OV1dI"
+      },
+      "artists": [
+        {
+          "name": "Grupo Marca Registrada",
+          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
+        },
+        {
+          "name": "Julieta Venegas",
+          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
+        }
+      ],
+      "duration_ms": 204956,
+      "name": "Andar Conmigo",
+      "url": "https://open.spotify.com/track/2UXGtSYtOOucPOXKQTWBjt"
     },
     {
       "added_at": "2024-03-15 06:00:00",

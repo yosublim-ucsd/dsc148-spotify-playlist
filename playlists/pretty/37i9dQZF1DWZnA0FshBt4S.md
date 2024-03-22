@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZnA0FshBt4S.md) - [plain]
 
 > The very best songs that soundtracked Youth Groups of the 90s & early 00s! Cover: DC Talk
 
-[Spotify](https://open.spotify.com/user/spotify) - 105,267 likes - 75 songs - 5 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 105,317 likes - 75 songs - 5 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,9 +26,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZnA0FshBt4S.md) - [plain]
 | 16 | [Stranded](https://open.spotify.com/track/2iWTsNDdK2X1dYqzxfkDGi) | [Plumb](https://open.spotify.com/artist/2tbxcCCM7A71cmkzuB8lyH) | [candycoatedwaterdrops](https://open.spotify.com/album/0fjkgS1zQxeWoctrtSCrp1) | 3:39 |
 | 17 | [Walk By Faith](https://open.spotify.com/track/6NXaZTK2rnbA91jOEc3t1h) | [Jeremy Camp](https://open.spotify.com/artist/5wpEBloInversG3zp3CVAk) | [Stay](https://open.spotify.com/album/5gbs9nxCzkbMdQRYXj955d) | 3:59 |
 | 18 | [Ooh Ahh \(My Life Be Like\) \[feat\. Tobymac\]](https://open.spotify.com/track/1KBN9lYx9QkfUJC3NSXlhQ) | [Grits](https://open.spotify.com/artist/6aUgzC0cMh0StjV7LyFEDr), [TobyMac](https://open.spotify.com/artist/5VX8hxrcfJWwaTLiqGUHG3) | [The Art of Translation](https://open.spotify.com/album/3SNV12s5lZN3puLp5Vft8w) | 3:53 |
-| 19 | [Only Hope](https://open.spotify.com/track/6pwhSBxhaF5x0WbNZRyzlD) | [Switchfoot](https://open.spotify.com/artist/6S58b0fr8TkWrEHOH4tRVu) | [New Way To Be Human](https://open.spotify.com/album/02kPSZyDPwxd0MSoBTsBME) | 4:13 |
+| 19 | [Dive](https://open.spotify.com/track/0GfsZEgIgJfcQ3uLWHZ2o3) | [Steven Curtis Chapman](https://open.spotify.com/artist/3vcFXwLEUdfWMu7gTQKyot) | [Speechless](https://open.spotify.com/album/1l7ysbnQNktE8IGRSQeeKg) | 3:57 |
 | 20 | [Revolution](https://open.spotify.com/track/4xm2HjtDAdCobewPoaImT7) | [Kirk Franklin & The Family](https://open.spotify.com/artist/7r5eFBPPJjFPy2E1K0VQmd) | [The Nu Nation Project](https://open.spotify.com/album/2AipEP8KHGkhpQkhqBYTfH) | 5:37 |
-| 21 | [Dive](https://open.spotify.com/track/0GfsZEgIgJfcQ3uLWHZ2o3) | [Steven Curtis Chapman](https://open.spotify.com/artist/3vcFXwLEUdfWMu7gTQKyot) | [Speechless](https://open.spotify.com/album/1l7ysbnQNktE8IGRSQeeKg) | 3:57 |
+| 21 | [Only Hope](https://open.spotify.com/track/6pwhSBxhaF5x0WbNZRyzlD) | [Switchfoot](https://open.spotify.com/artist/6S58b0fr8TkWrEHOH4tRVu) | [New Way To Be Human](https://open.spotify.com/album/02kPSZyDPwxd0MSoBTsBME) | 4:13 |
 | 22 | [Stomp \(Remix\)](https://open.spotify.com/track/5JggmPy0YhCLaA6Vt4cmMo) | [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu) | [The Essential Kirk Franklin](https://open.spotify.com/album/2g85kD3g7lt1EGtcJxs7gt) | 5:05 |
 | 23 | [In The Light \- Remastered 2013](https://open.spotify.com/track/2IpbrxP9MqUCtcQQchAiTK) | [DC Talk](https://open.spotify.com/artist/1zK4ACgLi1lVPpfmmcwOTh) | [Jesus Freak \(Remastered\)](https://open.spotify.com/album/6KbHC5ADEGbnvl7Ge3GVQF) | 5:05 |
 | 24 | [Flood](https://open.spotify.com/track/4wSqP7Vo7HcoakudSMzxAO) | [Jars Of Clay](https://open.spotify.com/artist/1lMaDSraU3oiNUsVWJLHdF) | [Jars Of Clay](https://open.spotify.com/album/3NmhY1GyYPSR9VGycvfRrQ) | 3:31 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZnA0FshBt4S.md) - [plain]
 | 74 | [Why Do I Do](https://open.spotify.com/track/37KnIgKETYyOOXe56FLquT) | [Jump5](https://open.spotify.com/artist/0qa4GMXrmylKemymbElIwq) | [The Ultimate Collection](https://open.spotify.com/album/1DPCpHWC875p3L4xAVSIoX) | 3:22 |
 | 75 | [The Devil Is Bad](https://open.spotify.com/track/7HU4ubA9Ml4ztErtnHdOMW) | [The W's](https://open.spotify.com/artist/6hbwBTYR4mLag3kkI6wXSV) | [Fourth From The Last](https://open.spotify.com/album/5ZyJ4WdmnQEGI6vWOKs7Ab) | 3:33 |
 
-Snapshot ID: `MCwwMmQ3NjU4OTRmN2QzMWE1OTNjZTE2MDBhNWE5NDc3ZmU1OTIwNTFi`
+Snapshot ID: `MCxiNzk4NGU2NDhmMGRkNTZiNDhhZGZhYjc2Y2EwNzIwNjg0YjI2NDkz`

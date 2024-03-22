@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZH1IszRUbkn.md) - [plain]
 
 > Canta juntos con tus artistas favoritos.
 
-[Spotify](https://open.spotify.com/user/spotify) - 236 likes - 50 songs - 2 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 239 likes - 50 songs - 2 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZH1IszRUbkn.md) - [plain]
 | 47 | [Mi Familia](https://open.spotify.com/track/2bsMa5r165wLPih4iM3uBn) | [El Reino Infantil](https://open.spotify.com/artist/6EMoWayH9WulC8F8b6m3BH) | [Rondas y Clásicos Infantiles 2](https://open.spotify.com/album/6LSxhgKPmhfElYHtZnoTKg) | 2:54 |
 | 48 | [Tres Gatitos \(Sin Pastel\)](https://open.spotify.com/track/1qq8bfHsFQX6rP1Wz9HOOY) | [Little Baby Bum en Español](https://open.spotify.com/artist/64eFqyIS1dsTv725lcQ25w) | [Nanas y Canciones para Niños, Vol\. 5 \(Cantar y Aprender con LittleBabyBum\)](https://open.spotify.com/album/6HfilJnTxnoWW1MA9ZgwiS) | 2:12 |
 | 49 | [El Zapatero](https://open.spotify.com/track/77rZyXXSmwMw5GVpQHw4vd) | [CantaJuego](https://open.spotify.com/artist/1A4041ctH86ZE5rFqr0Poe) | [Un Mundo De Canciones](https://open.spotify.com/album/36XYzswEBwXqGIjawO5juU) | 1:43 |
-| 50 | [Osos de Paseo](https://open.spotify.com/track/38PxUA2fm5aUcEtsy71qex) | [Trepsi](https://open.spotify.com/artist/6uqcdmVQzxfdgsKWB04shs) | [Las 4 Estaciones, vol\. 11](https://open.spotify.com/album/1cnYXeqwMikaACiCdX8tI2) | 0:50 |
+| 50 | [Las mañanitas](https://open.spotify.com/track/38zrUigO3cpDgezXQWRDzN) | [Trepsi](https://open.spotify.com/artist/6uqcdmVQzxfdgsKWB04shs) | [La fiesta de cumpleaños](https://open.spotify.com/album/4CDg1C6bHxichuJfAkXH0a) | 1:12 |
 
-Snapshot ID: `MCxjNDU3MjYzNzlhYmM3N2Q3NTk2MWU4ZGI5MjlmMTJiYzc3Y2NlNDgw`
+Snapshot ID: `MCw5ZWZmNjcxMjg0MmY0MjJjMjY4YTdhODM0YjQwMDMzODZlMDVjNjcy`

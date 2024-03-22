@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 
 > New music from Kacey Musgraves, PARTYNEXTDOOR, Justin Timberlake, Rezz and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 353,683 likes - 100 songs - 5 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 353,725 likes - 100 songs - 5 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 | 99 | [LAST WORDS](https://open.spotify.com/track/4qpBOMqQf4ppjZiH4lAPx1) | [Skip Waiters](https://open.spotify.com/artist/4VarNqx7kH5tBCBQwtixav) | [LAST WORDS](https://open.spotify.com/album/6GduEj2Ai28JbtHw7jwska) | 3:00 |
 | 100 | [PLANS](https://open.spotify.com/track/6YWTs5nY2vIVHuuj9dGP4Z) | [sunsetto](https://open.spotify.com/artist/1qirsMPK9gjYaXmGF4eUmL) | [PLANS](https://open.spotify.com/album/4l24GeneMfw7ZpEMWVG8Cn) | 2:59 |
 
-Snapshot ID: `MCw2YjUyNTAyOGQxN2ZiYzI1ZGNjODE3ZDhkNTJjZTY1ZTNlZjFhNTY2`
+Snapshot ID: `MCxlN2M0YjAxNWRjMzQ4YWZlMWQwODUyMmNjMWNlM2E1ZTU0MzMyODY2`

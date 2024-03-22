@@ -1,12 +1,12 @@
 {
   "description": "Os hits e novos nomes do pop dividindo o mesmo palco!  / Foto: Xam\u00e3",
-  "num_followers": 363772,
+  "num_followers": 363815,
   "original_name": "Palco POP",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0Y2FiOWFjZjFjZDcyZWNiN2U5YjFmMDQ0NDZhNGFhZjhkZTY2M2Zi",
+  "snapshot_id": "MCwwOWMwMDViM2FjYzY1YTMxOTE0NGY1MzUwMzJkZTYxOWNmOWZhMTZi",
   "tracks": [
     {
       "added_at": "2024-03-08 03:00:00",
@@ -587,26 +587,22 @@
     {
       "added_at": "2024-03-08 03:00:00",
       "album": {
-        "name": "Labirinto",
-        "url": "https://open.spotify.com/album/1VqFCDs5i27SB11y6aPs8Y"
+        "name": "C\u00e9u Ros\u00e9",
+        "url": "https://open.spotify.com/album/4prSTxTaqEuv7EkAtdd5MR"
       },
       "artists": [
         {
-          "name": "Ariel Donato",
-          "url": "https://open.spotify.com/artist/7H3XEvrS2PsNzM76MczgHJ"
+          "name": "Gilsons",
+          "url": "https://open.spotify.com/artist/6q7nMIVgGohQ14mSsq3F8t"
         },
         {
-          "name": "MC Cabelinho",
-          "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
-        },
-        {
-          "name": "Marina Sena",
-          "url": "https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L"
+          "name": "Lagum",
+          "url": "https://open.spotify.com/artist/5D56dZmhE9DgT01XixdHiD"
         }
       ],
-      "duration_ms": 184405,
-      "name": "Labirinto",
-      "url": "https://open.spotify.com/track/0LJGq2TQMW5WwnD9AuPRuV"
+      "duration_ms": 164237,
+      "name": "C\u00e9u Ros\u00e9",
+      "url": "https://open.spotify.com/track/2GbG2PFAtSHFT6ncTCWSmS"
     },
     {
       "added_at": "2024-03-08 03:00:00",
@@ -631,22 +627,26 @@
     {
       "added_at": "2024-03-08 03:00:00",
       "album": {
-        "name": "C\u00e9u Ros\u00e9",
-        "url": "https://open.spotify.com/album/4prSTxTaqEuv7EkAtdd5MR"
+        "name": "Labirinto",
+        "url": "https://open.spotify.com/album/1VqFCDs5i27SB11y6aPs8Y"
       },
       "artists": [
         {
-          "name": "Gilsons",
-          "url": "https://open.spotify.com/artist/6q7nMIVgGohQ14mSsq3F8t"
+          "name": "Ariel Donato",
+          "url": "https://open.spotify.com/artist/7H3XEvrS2PsNzM76MczgHJ"
         },
         {
-          "name": "Lagum",
-          "url": "https://open.spotify.com/artist/5D56dZmhE9DgT01XixdHiD"
+          "name": "MC Cabelinho",
+          "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
+        },
+        {
+          "name": "Marina Sena",
+          "url": "https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L"
         }
       ],
-      "duration_ms": 164237,
-      "name": "C\u00e9u Ros\u00e9",
-      "url": "https://open.spotify.com/track/2GbG2PFAtSHFT6ncTCWSmS"
+      "duration_ms": 184405,
+      "name": "Labirinto",
+      "url": "https://open.spotify.com/track/0LJGq2TQMW5WwnD9AuPRuV"
     },
     {
       "added_at": "2024-03-08 03:00:00",
@@ -1051,6 +1051,22 @@
     {
       "added_at": "2024-03-08 03:00:00",
       "album": {
+        "name": "Nem Sei Fingir",
+        "url": "https://open.spotify.com/album/0DDKZ9qObSoNiA4qAkuiEh"
+      },
+      "artists": [
+        {
+          "name": "Bela Maria",
+          "url": "https://open.spotify.com/artist/3PiRpeHMxOFToEs65CZQCv"
+        }
+      ],
+      "duration_ms": 176640,
+      "name": "Nem Sei Fingir",
+      "url": "https://open.spotify.com/track/4G9gWLcVflZjv56Fp8SKnP"
+    },
+    {
+      "added_at": "2024-03-08 03:00:00",
+      "album": {
         "name": "Bandida N\u00e3o, Solteira",
         "url": "https://open.spotify.com/album/1eEyYWbAegi9oJ0DmgrkOd"
       },
@@ -1067,22 +1083,6 @@
       "duration_ms": 147549,
       "name": "Bandida N\u00e3o, Solteira",
       "url": "https://open.spotify.com/track/28ejkyhOfL3SaBg7MrkIFJ"
-    },
-    {
-      "added_at": "2024-03-08 03:00:00",
-      "album": {
-        "name": "Nem Sei Fingir",
-        "url": "https://open.spotify.com/album/0DDKZ9qObSoNiA4qAkuiEh"
-      },
-      "artists": [
-        {
-          "name": "Bela Maria",
-          "url": "https://open.spotify.com/artist/3PiRpeHMxOFToEs65CZQCv"
-        }
-      ],
-      "duration_ms": 176640,
-      "name": "Nem Sei Fingir",
-      "url": "https://open.spotify.com/track/4G9gWLcVflZjv56Fp8SKnP"
     },
     {
       "added_at": "2024-03-08 03:00:00",
@@ -1123,26 +1123,6 @@
     {
       "added_at": "2024-03-08 03:00:00",
       "album": {
-        "name": "putz",
-        "url": "https://open.spotify.com/album/4jHIJVCbtAKEfvLg9gbdxl"
-      },
-      "artists": [
-        {
-          "name": "Braga",
-          "url": "https://open.spotify.com/artist/7dO3FozNKSxFlBbh4U08ng"
-        },
-        {
-          "name": "KVSH",
-          "url": "https://open.spotify.com/artist/2uGKgNuq7MnKksXiSO6HjB"
-        }
-      ],
-      "duration_ms": 108307,
-      "name": "putz",
-      "url": "https://open.spotify.com/track/3eDcQ4Hb1C662e1iCYzxCL"
-    },
-    {
-      "added_at": "2024-03-08 03:00:00",
-      "album": {
         "name": "se for pra ser",
         "url": "https://open.spotify.com/album/4lgDyBawg2FC6h3Jl2AMJ2"
       },
@@ -1159,6 +1139,26 @@
       "duration_ms": 199811,
       "name": "se for pra ser",
       "url": "https://open.spotify.com/track/125V81LGC3wVXjRhnb6mXr"
+    },
+    {
+      "added_at": "2024-03-08 03:00:00",
+      "album": {
+        "name": "putz",
+        "url": "https://open.spotify.com/album/4jHIJVCbtAKEfvLg9gbdxl"
+      },
+      "artists": [
+        {
+          "name": "Braga",
+          "url": "https://open.spotify.com/artist/7dO3FozNKSxFlBbh4U08ng"
+        },
+        {
+          "name": "KVSH",
+          "url": "https://open.spotify.com/artist/2uGKgNuq7MnKksXiSO6HjB"
+        }
+      ],
+      "duration_ms": 108307,
+      "name": "putz",
+      "url": "https://open.spotify.com/track/3eDcQ4Hb1C662e1iCYzxCL"
     },
     {
       "added_at": "2024-03-08 03:00:00",

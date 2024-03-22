@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWlW7KLhEhCZ.md) - [plain]
 
 > Lançamentos e novos nomes do trap nacional\. Foto: Cryzin
 
-[Spotify](https://open.spotify.com/user/spotify) - 93,386 likes - 75 songs - 3 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 93,406 likes - 75 songs - 3 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWlW7KLhEhCZ.md) - [plain]
 | 74 | [Carta X](https://open.spotify.com/track/7dlHhlM1vLlOuxI3M0NqV5) | [Jackdi](https://open.spotify.com/artist/25pMy28xDC6P7ohFN8cTah), [Celo1st](https://open.spotify.com/artist/6RC5tRbakJ46EExHuPmxzK) | [Carta X](https://open.spotify.com/album/244fqbsdp1NTS0sF3XPJn9) | 2:32 |
 | 75 | [Pique Faroeste](https://open.spotify.com/track/2PXgo8kyGDrvsrrxTpwWCj) | [Yamashita](https://open.spotify.com/artist/5aJKizHlj2VReayOZHmHFw), [Ventu075](https://open.spotify.com/artist/0CMaseo8fq9V9CKn0h2zqf) | [Pique Faroeste](https://open.spotify.com/album/1ineQBcXlsSHlwlC4jJwZN) | 2:26 |
 
-Snapshot ID: `MCxhYTk3N2Y3NGM4ZGU2ZWU4MmNhMGJlYTk2ZWE0ZTM0ZGMxOTVjMDNm`
+Snapshot ID: `MCxjYmYyYTdjZGU2MDBhYjQ0ZjcwOWE5YzU4Y2NiYjYwOWRjNTgyM2Fi`

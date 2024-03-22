@@ -114,7 +114,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-22",
       "duration_ms": 174700,
       "name": "2024",
       "url": "https://open.spotify.com/track/7LgfX8BEtDceogs4LHiEWn"
@@ -645,6 +645,28 @@
     },
     {
       "album": {
+        "name": "At This Point",
+        "url": "https://open.spotify.com/album/0x4rCwdWzIqrW2XNWGVN0M"
+      },
+      "artists": [
+        {
+          "name": "Hotkid",
+          "url": "https://open.spotify.com/artist/18o7UrZPvSitJxti0OodSj"
+        },
+        {
+          "name": "larrylanes",
+          "url": "https://open.spotify.com/artist/1YEisn8aVyjibFXhNpO7vI"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139826,
+      "name": "At This Point",
+      "url": "https://open.spotify.com/track/0sPVT91gQlOy5WIxstCbUh"
+    },
+    {
+      "album": {
         "name": "Aviator",
         "url": "https://open.spotify.com/album/5VI1VyyLgDgYSm3wNRpaKx"
       },
@@ -754,7 +776,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-22",
       "duration_ms": 169043,
       "name": "Bad Boy (feat. Mayorkun)",
       "url": "https://open.spotify.com/track/6DxaRdAjfbhMk4Hn3bdFqz"
@@ -918,7 +940,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-22",
       "duration_ms": 159216,
       "name": "Be Happy",
       "url": "https://open.spotify.com/track/43LE737cOmGyMX3IvuEw3V"
@@ -1720,7 +1742,7 @@
       ],
       "date_added": "2022-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-22",
       "duration_ms": 211050,
       "name": "Cloak & Dagger (feat. J Hus)",
       "url": "https://open.spotify.com/track/0cE68B5sCz9f3snJ5ueTGZ"
@@ -1782,7 +1804,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-22",
       "duration_ms": 179580,
       "name": "Come & Go - Black Sherif Remix",
       "url": "https://open.spotify.com/track/6LVGUOLhw6b9gayQvQvaqh"
@@ -1836,7 +1858,7 @@
       ],
       "date_added": "2022-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-22",
       "duration_ms": 210346,
       "name": "Common Person",
       "url": "https://open.spotify.com/track/6hyTI3In7vu6fqFRoypcuz"
@@ -1915,6 +1937,28 @@
     },
     {
       "album": {
+        "name": "Credit Alert",
+        "url": "https://open.spotify.com/album/27VycxPDyBm6DcXxAJ7Xet"
+      },
+      "artists": [
+        {
+          "name": "Kocee",
+          "url": "https://open.spotify.com/artist/2kzxvChUUVpkgySPhCcUT6"
+        },
+        {
+          "name": "Patoranking",
+          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193718,
+      "name": "Credit Alert",
+      "url": "https://open.spotify.com/track/61g4qqwAMuHnzW2URHX0EJ"
+    },
+    {
+      "album": {
         "name": "Currency",
         "url": "https://open.spotify.com/album/1yqoT8UTNOYyLHc8mIVjIT"
       },
@@ -1970,7 +2014,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-22",
       "duration_ms": 151510,
       "name": "Dance In The Fire",
       "url": "https://open.spotify.com/track/0bYBkfsgxrWOeirqydLl2R"
@@ -2010,6 +2054,28 @@
       "duration_ms": 133608,
       "name": "Dawn",
       "url": "https://open.spotify.com/track/5VfOaSfpHD1jbS98dxr7cr"
+    },
+    {
+      "album": {
+        "name": "Better Days",
+        "url": "https://open.spotify.com/album/6XhHnQhsT8EayndVj36qvf"
+      },
+      "artists": [
+        {
+          "name": "Candy Bleakz",
+          "url": "https://open.spotify.com/artist/2QPpxx2U3qEeZZsF3uaXn0"
+        },
+        {
+          "name": "Bloody Civilian",
+          "url": "https://open.spotify.com/artist/59gzAeE63TMTxOdjU3Ew0K"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157200,
+      "name": "Debe (feat. Bloody Civilian)",
+      "url": "https://open.spotify.com/track/09tOHZM5ubsQRXrMKQ89Lf"
     },
     {
       "album": {
@@ -2180,7 +2246,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-22",
       "duration_ms": 176901,
       "name": "Dey Okay",
       "url": "https://open.spotify.com/track/64NfSTExr2pElUsz2RKg9d"
@@ -3098,7 +3164,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-22",
       "duration_ms": 151562,
       "name": "Ghetto Boy",
       "url": "https://open.spotify.com/track/6CwHDTafcWyYD26W6H8V3Z"
@@ -3330,7 +3396,7 @@
       ],
       "date_added": "2023-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-22",
       "duration_ms": 188985,
       "name": "GWAGWALADA",
       "url": "https://open.spotify.com/track/6wuMo4ZR83PhlhXhJ1S3VY"
@@ -3504,7 +3570,7 @@
       ],
       "date_added": "2023-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-22",
       "duration_ms": 159100,
       "name": "Holiday",
       "url": "https://open.spotify.com/track/3ceZIRUX8m8qFFcnEDkj2K"
@@ -5259,6 +5325,24 @@
     },
     {
       "album": {
+        "name": "Merrily",
+        "url": "https://open.spotify.com/album/0IL0wugu6AuGd9LKMIHlUS"
+      },
+      "artists": [
+        {
+          "name": "Lamii",
+          "url": "https://open.spotify.com/artist/1kU8oJyVyu8qHzyOd7YcId"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153786,
+      "name": "Merrily",
+      "url": "https://open.spotify.com/track/4havwM5WjZLvXYTjX2qAFt"
+    },
+    {
+      "album": {
         "name": "MIDF (Na Money I Dey Find)",
         "url": "https://open.spotify.com/album/7dYOb737FhhcAt1oE8TFTB"
       },
@@ -5556,7 +5640,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-22",
       "duration_ms": 179892,
       "name": "Na So E Be",
       "url": "https://open.spotify.com/track/683L171GQXtmrAVIobSftl"
@@ -5640,7 +5724,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-22",
       "duration_ms": 129807,
       "name": "New Born Fela",
       "url": "https://open.spotify.com/track/3yifENCc2SkxVfpfnuCwas"
@@ -6289,6 +6373,28 @@
     },
     {
       "album": {
+        "name": "One or Two",
+        "url": "https://open.spotify.com/album/4mtmWSfOnpFJ7oVSkw4BTP"
+      },
+      "artists": [
+        {
+          "name": "Rexxie",
+          "url": "https://open.spotify.com/artist/5z207JpMeX1oCYVvMKReku"
+        },
+        {
+          "name": "AXAD",
+          "url": "https://open.spotify.com/artist/1zfpuNNxBF5qjwbi4LCXig"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152880,
+      "name": "One or Two",
+      "url": "https://open.spotify.com/track/39677hmgIO3QESf9ensp8p"
+    },
+    {
+      "album": {
         "name": "ONIPA",
         "url": "https://open.spotify.com/album/7CG7pUu4tJwzO20syeUcrb"
       },
@@ -6604,7 +6710,7 @@
       ],
       "date_added": "2022-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-22",
       "duration_ms": 143452,
       "name": "Personal",
       "url": "https://open.spotify.com/track/1Lg2Agsu9XTZ6M4wfRMpff"
@@ -6656,7 +6762,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-22",
       "duration_ms": 184077,
       "name": "PICANTO",
       "url": "https://open.spotify.com/track/32R7SBDSQmhDM4qUgzTc6z"
@@ -6942,7 +7048,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-22",
       "duration_ms": 204440,
       "name": "Propeller (feat. Dave & BNXN)",
       "url": "https://open.spotify.com/track/4A7sSA10D35HQUNrSOl5Zo"
@@ -7240,7 +7346,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-22",
       "duration_ms": 184320,
       "name": "Rondo",
       "url": "https://open.spotify.com/track/7wEa29TQeoOyuFUw7Ln05h"
@@ -7354,7 +7460,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-22",
       "duration_ms": 168480,
       "name": "Sa Me",
       "url": "https://open.spotify.com/track/0BJBJ6hwuRhdjLwLPn5Usa"
@@ -7628,7 +7734,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-22",
       "duration_ms": 181557,
       "name": "Soja",
       "url": "https://open.spotify.com/track/5F7imvl6nIRWoMCejdR4Sk"
@@ -7826,6 +7932,24 @@
       "duration_ms": 182791,
       "name": "Stand Strong (feat. Sunday Service Choir)",
       "url": "https://open.spotify.com/track/1XUf5lpeTQbrohZWdx6Sbz"
+    },
+    {
+      "album": {
+        "name": "Stir It Up",
+        "url": "https://open.spotify.com/album/7AnoShLl9Bco7Rv8HPPnuP"
+      },
+      "artists": [
+        {
+          "name": "Kojo Trilla",
+          "url": "https://open.spotify.com/artist/7mmtBuQzPDjAzgiyYFJO55"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171305,
+      "name": "Stir It Up",
+      "url": "https://open.spotify.com/track/5b6FLRw2gZCibFy6cwuV8h"
     },
     {
       "album": {
@@ -8190,7 +8314,7 @@
       ],
       "date_added": "2022-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-22",
       "duration_ms": 155860,
       "name": "Traboski",
       "url": "https://open.spotify.com/track/2woGTVY8Vx46aYuXfMmwwE"
@@ -8212,7 +8336,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-22",
       "duration_ms": 178285,
       "name": "Trap",
       "url": "https://open.spotify.com/track/6Lss25OMzPLTx8czIC8Wr4"
@@ -8481,6 +8605,28 @@
     },
     {
       "album": {
+        "name": "Waiting So Long",
+        "url": "https://open.spotify.com/album/1BrJyJUvM3qefHIVxduF8c"
+      },
+      "artists": [
+        {
+          "name": "Kwesi Dain",
+          "url": "https://open.spotify.com/artist/105LjXZfjJNB1VyldU9gCr"
+        },
+        {
+          "name": "Yhaw hero",
+          "url": "https://open.spotify.com/artist/0TVRUVsUqxHTsgRSBk3i8d"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215849,
+      "name": "Waiting So Long",
+      "url": "https://open.spotify.com/track/2JcLfZCOrAmU1b87gBdv5I"
+    },
+    {
+      "album": {
         "name": "Waka Jeje (feat. Bnxn)",
         "url": "https://open.spotify.com/album/1jGHHoZvMuag4ENa30G9F9"
       },
@@ -8616,7 +8762,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-22",
       "duration_ms": 192887,
       "name": "We Paid",
       "url": "https://open.spotify.com/track/0O3WLUlUFXFHaGBE95Phwo"
@@ -8892,7 +9038,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-22",
       "duration_ms": 155920,
       "name": "WO WO",
       "url": "https://open.spotify.com/track/2D1D9hmwCBApc1JHEA7WaB"
@@ -8980,6 +9126,28 @@
       "duration_ms": 180000,
       "name": "YAWA",
       "url": "https://open.spotify.com/track/5tM3Fo4qBqDAwWJ9ZY5AtX"
+    },
+    {
+      "album": {
+        "name": "Yawa",
+        "url": "https://open.spotify.com/album/3WTUET0ueedJnD2IqUhm7p"
+      },
+      "artists": [
+        {
+          "name": "Highstarlavista",
+          "url": "https://open.spotify.com/artist/2s5bPUY4vDNWYeaktbdh9V"
+        },
+        {
+          "name": "Idowest",
+          "url": "https://open.spotify.com/artist/6wvs9JYsh1UZvGe0qIGwbB"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168880,
+      "name": "Yawa",
+      "url": "https://open.spotify.com/track/5yTG1pm93xaCoNdDA6C5rd"
     },
     {
       "album": {

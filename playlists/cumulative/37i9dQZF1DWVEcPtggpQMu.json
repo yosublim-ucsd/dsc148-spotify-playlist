@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "Only the hottest South African rap from the streets. \nCover:  <a href=\"https://open.spotify.com/artist/0x52tpXiSmKKuKkpc0h3Lz?si=m9HwT-pqQo-Im1kOROhQPA\">Shooterkhumz</a>",
+  "description": "Only the hottest South African rap from the streets. \nCover:  <a href=\"https://open.spotify.com/artist/6U3gCOvxVWKBxXItqp3mdr?si=HVJiC65LT9G55BYETfe6ow\">Emtee</a>",
   "name": "Mzansi Raps",
   "tracks": [
     {
@@ -4595,6 +4595,32 @@
     },
     {
       "album": {
+        "name": "FUBU",
+        "url": "https://open.spotify.com/album/3uA2FoSILtFJwkGd7hmeE0"
+      },
+      "artists": [
+        {
+          "name": "Mark Akol",
+          "url": "https://open.spotify.com/artist/3bEST1JRTy3cmNbRLTyEVb"
+        },
+        {
+          "name": "Sipho the Gift",
+          "url": "https://open.spotify.com/artist/3UJed0SE76dXKWetExB4F8"
+        },
+        {
+          "name": "Phiwo",
+          "url": "https://open.spotify.com/artist/1qoXgLST4EUgUB9Ml5jVOp"
+        }
+      ],
+      "date_added": "2024-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123785,
+      "name": "FUBU",
+      "url": "https://open.spotify.com/track/6UzxZPM9qn5w1ImDRtTAlJ"
+    },
+    {
+      "album": {
         "name": "FUCK THE WORLD!",
         "url": "https://open.spotify.com/album/5dhRqFNRXk9Y6hYvdXxVs7"
       },
@@ -5044,6 +5070,24 @@
       "duration_ms": 203003,
       "name": "Good Love (feat. Stino Le Thwenny & Caask Asid)",
       "url": "https://open.spotify.com/track/3lwMm6T9mFdppiPpgm9ewO"
+    },
+    {
+      "album": {
+        "name": "Good Time",
+        "url": "https://open.spotify.com/album/1c9u4ITfbSIWjOm5IXOQWw"
+      },
+      "artists": [
+        {
+          "name": "Emtee",
+          "url": "https://open.spotify.com/artist/6U3gCOvxVWKBxXItqp3mdr"
+        }
+      ],
+      "date_added": "2024-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237082,
+      "name": "Good Time",
+      "url": "https://open.spotify.com/track/2HSvi9twSuIEAOCIVMI88W"
     },
     {
       "album": {
@@ -10297,6 +10341,24 @@
     },
     {
       "album": {
+        "name": "Qosh",
+        "url": "https://open.spotify.com/album/10C7rFMJyUYsDcnYpDf6op"
+      },
+      "artists": [
+        {
+          "name": "Faith K",
+          "url": "https://open.spotify.com/artist/1KuWBR8nefjdxXkdWvWY0E"
+        }
+      ],
+      "date_added": "2024-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124800,
+      "name": "Qosh",
+      "url": "https://open.spotify.com/track/1XmwwEJTuSmluPvm7LeCZe"
+    },
+    {
+      "album": {
         "name": "R.I.P. FAT CAT",
         "url": "https://open.spotify.com/album/6RphDoUJ7mhQ5pDxTJ14Al"
       },
@@ -10330,6 +10392,24 @@
       "duration_ms": 193253,
       "name": "R2P4",
       "url": "https://open.spotify.com/track/3KEXacrbpYkLymi5dKoa90"
+    },
+    {
+      "album": {
+        "name": "Radar",
+        "url": "https://open.spotify.com/album/0nfF9Pb3a7F3letGLVEEuo"
+      },
+      "artists": [
+        {
+          "name": "Lucasraps",
+          "url": "https://open.spotify.com/artist/4MakWUvM6GZhwTKsTA6AAT"
+        }
+      ],
+      "date_added": "2024-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142564,
+      "name": "Radar",
+      "url": "https://open.spotify.com/track/3bLsh1ZEb9Vc00KvLzpgBW"
     },
     {
       "album": {

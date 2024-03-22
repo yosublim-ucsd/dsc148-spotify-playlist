@@ -1,12 +1,12 @@
 {
   "description": "This week's handpicked new <a href=\"spotify:genre:edm_dance\">dance and electronic music</a>, featuring new music from Argy",
-  "num_followers": 469499,
+  "num_followers": 469557,
   "original_name": "New Music Friday Dance",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2NDA4ZTk0OGRjNDQzMDBjYTIyYzg3MThkY2ExYmRiMDU1M2MwYWNj",
+  "snapshot_id": "MCxmYzJlOWIxZTgxNmQ4ZTM4YjUyN2M4MzQwMjYxZWI5MmUxZGQ0YTdk",
   "tracks": [
     {
       "added_at": "2024-03-15 04:00:00",
@@ -695,26 +695,6 @@
     {
       "added_at": "2024-03-15 04:00:00",
       "album": {
-        "name": "LMK",
-        "url": "https://open.spotify.com/album/0z3SNQSfMGSWS0aKlcuea6"
-      },
-      "artists": [
-        {
-          "name": "Durante",
-          "url": "https://open.spotify.com/artist/1BqIPGrEhdjdLFpUzce2dh"
-        },
-        {
-          "name": "CRi",
-          "url": "https://open.spotify.com/artist/3NaMuUYTIGm6CC3YqTuTvi"
-        }
-      ],
-      "duration_ms": 233532,
-      "name": "LMK",
-      "url": "https://open.spotify.com/track/4aHqjlibpXrHQ1nlvGJQrA"
-    },
-    {
-      "added_at": "2024-03-15 04:00:00",
-      "album": {
         "name": "Call (Solomun Remix)",
         "url": "https://open.spotify.com/album/5XQZfQHCbrbPOONBjxvPoj"
       },
@@ -735,22 +715,22 @@
     {
       "added_at": "2024-03-15 04:00:00",
       "album": {
-        "name": "DAMN! (with Teezo Touchdown)",
-        "url": "https://open.spotify.com/album/7ARAzn1fkDn5XsAk2gRhfL"
+        "name": "LMK",
+        "url": "https://open.spotify.com/album/0z3SNQSfMGSWS0aKlcuea6"
       },
       "artists": [
         {
-          "name": "Zack Bia",
-          "url": "https://open.spotify.com/artist/4B56PS5UUtnnRaGJvPvoyW"
+          "name": "Durante",
+          "url": "https://open.spotify.com/artist/1BqIPGrEhdjdLFpUzce2dh"
         },
         {
-          "name": "Teezo Touchdown",
-          "url": "https://open.spotify.com/artist/0fGcIStdT1OpFFhOC7Wp36"
+          "name": "CRi",
+          "url": "https://open.spotify.com/artist/3NaMuUYTIGm6CC3YqTuTvi"
         }
       ],
-      "duration_ms": 180952,
-      "name": "DAMN! (with Teezo Touchdown)",
-      "url": "https://open.spotify.com/track/50mOTTA6ctpuuLsFK1NhtM"
+      "duration_ms": 233532,
+      "name": "LMK",
+      "url": "https://open.spotify.com/track/4aHqjlibpXrHQ1nlvGJQrA"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -771,6 +751,26 @@
       "duration_ms": 153259,
       "name": "No Sense",
       "url": "https://open.spotify.com/track/1WWAozjG8X7wI4MLX6tTCB"
+    },
+    {
+      "added_at": "2024-03-15 04:00:00",
+      "album": {
+        "name": "DAMN! (with Teezo Touchdown)",
+        "url": "https://open.spotify.com/album/7ARAzn1fkDn5XsAk2gRhfL"
+      },
+      "artists": [
+        {
+          "name": "Zack Bia",
+          "url": "https://open.spotify.com/artist/4B56PS5UUtnnRaGJvPvoyW"
+        },
+        {
+          "name": "Teezo Touchdown",
+          "url": "https://open.spotify.com/artist/0fGcIStdT1OpFFhOC7Wp36"
+        }
+      ],
+      "duration_ms": 180952,
+      "name": "DAMN! (with Teezo Touchdown)",
+      "url": "https://open.spotify.com/track/50mOTTA6ctpuuLsFK1NhtM"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -835,6 +835,22 @@
     {
       "added_at": "2024-03-15 04:00:00",
       "album": {
+        "name": "I Miss You, I Don't",
+        "url": "https://open.spotify.com/album/5tC9tQ6maXtBeOnU6DLBRI"
+      },
+      "artists": [
+        {
+          "name": "BONNIE X CLYDE",
+          "url": "https://open.spotify.com/artist/74xeHqz5Ap8ZHq69TkxI0r"
+        }
+      ],
+      "duration_ms": 121904,
+      "name": "I Miss You, I Don't",
+      "url": "https://open.spotify.com/track/3FtxHC0IjW4tIynPu7lvzx"
+    },
+    {
+      "added_at": "2024-03-15 04:00:00",
+      "album": {
         "name": "Want My Love",
         "url": "https://open.spotify.com/album/38rT6Cg4Szkmls0nYccnxd"
       },
@@ -851,22 +867,6 @@
       "duration_ms": 157404,
       "name": "Want My Love",
       "url": "https://open.spotify.com/track/1VPOl6ZBsQYXXWkgXsBvEo"
-    },
-    {
-      "added_at": "2024-03-15 04:00:00",
-      "album": {
-        "name": "I Miss You, I Don't",
-        "url": "https://open.spotify.com/album/5tC9tQ6maXtBeOnU6DLBRI"
-      },
-      "artists": [
-        {
-          "name": "BONNIE X CLYDE",
-          "url": "https://open.spotify.com/artist/74xeHqz5Ap8ZHq69TkxI0r"
-        }
-      ],
-      "duration_ms": 121904,
-      "name": "I Miss You, I Don't",
-      "url": "https://open.spotify.com/track/3FtxHC0IjW4tIynPu7lvzx"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -911,6 +911,22 @@
     {
       "added_at": "2024-03-15 04:00:00",
       "album": {
+        "name": "Sinner",
+        "url": "https://open.spotify.com/album/69n3qTgvr99gPLX3kW2BVW"
+      },
+      "artists": [
+        {
+          "name": "Charlotte Haining",
+          "url": "https://open.spotify.com/artist/2XRjIwgD0UiJXtx7Xzfy7w"
+        }
+      ],
+      "duration_ms": 157000,
+      "name": "Sinner",
+      "url": "https://open.spotify.com/track/7davhOXjwqodNIrR5Jt96U"
+    },
+    {
+      "added_at": "2024-03-15 04:00:00",
+      "album": {
         "name": "Afterglow",
         "url": "https://open.spotify.com/album/6uEm3lyHh00IvrZuDZDFKu"
       },
@@ -931,22 +947,6 @@
       "duration_ms": 237200,
       "name": "Afterglow",
       "url": "https://open.spotify.com/track/16Hipr5yWu4Skxei5kG6W2"
-    },
-    {
-      "added_at": "2024-03-15 04:00:00",
-      "album": {
-        "name": "Sinner",
-        "url": "https://open.spotify.com/album/69n3qTgvr99gPLX3kW2BVW"
-      },
-      "artists": [
-        {
-          "name": "Charlotte Haining",
-          "url": "https://open.spotify.com/artist/2XRjIwgD0UiJXtx7Xzfy7w"
-        }
-      ],
-      "duration_ms": 157000,
-      "name": "Sinner",
-      "url": "https://open.spotify.com/track/7davhOXjwqodNIrR5Jt96U"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -991,18 +991,18 @@
     {
       "added_at": "2024-03-15 04:00:00",
       "album": {
-        "name": "High Rezolution",
-        "url": "https://open.spotify.com/album/52u4oom9HoicBZqSND2sN3"
+        "name": "SAFE WITH ME (SECRETOS)",
+        "url": "https://open.spotify.com/album/3W2fOiqWefDpA1huBvt3fe"
       },
       "artists": [
         {
-          "name": "The Glitch Mob",
-          "url": "https://open.spotify.com/artist/3a9qv6NLHnsVxJUtKOMHvD"
+          "name": "Jhay Rivas",
+          "url": "https://open.spotify.com/artist/4hQHXyqZ6QlqPC76XmT2kH"
         }
       ],
-      "duration_ms": 246000,
-      "name": "High Rezolution",
-      "url": "https://open.spotify.com/track/7qXrCnC6DUiia7839SKy1N"
+      "duration_ms": 226000,
+      "name": "SAFE WITH ME (SECRETOS)",
+      "url": "https://open.spotify.com/track/0FCABIXhXHI4mi0qao8gTR"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -1031,6 +1031,22 @@
     {
       "added_at": "2024-03-15 04:00:00",
       "album": {
+        "name": "High Rezolution",
+        "url": "https://open.spotify.com/album/52u4oom9HoicBZqSND2sN3"
+      },
+      "artists": [
+        {
+          "name": "The Glitch Mob",
+          "url": "https://open.spotify.com/artist/3a9qv6NLHnsVxJUtKOMHvD"
+        }
+      ],
+      "duration_ms": 246000,
+      "name": "High Rezolution",
+      "url": "https://open.spotify.com/track/7qXrCnC6DUiia7839SKy1N"
+    },
+    {
+      "added_at": "2024-03-15 04:00:00",
+      "album": {
         "name": "Love For The Beat Remixes",
         "url": "https://open.spotify.com/album/0cuRSijdmyrTwEhjriX9S7"
       },
@@ -1047,22 +1063,6 @@
       "duration_ms": 192394,
       "name": "The Power (kai.wav Remix)",
       "url": "https://open.spotify.com/track/4D5D5IsgUf40xa376x1OqM"
-    },
-    {
-      "added_at": "2024-03-15 04:00:00",
-      "album": {
-        "name": "SAFE WITH ME (SECRETOS)",
-        "url": "https://open.spotify.com/album/3W2fOiqWefDpA1huBvt3fe"
-      },
-      "artists": [
-        {
-          "name": "Jhay Rivas",
-          "url": "https://open.spotify.com/artist/4hQHXyqZ6QlqPC76XmT2kH"
-        }
-      ],
-      "duration_ms": 226000,
-      "name": "SAFE WITH ME (SECRETOS)",
-      "url": "https://open.spotify.com/track/0FCABIXhXHI4mi0qao8gTR"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -1107,26 +1107,6 @@
     {
       "added_at": "2024-03-15 04:00:00",
       "album": {
-        "name": "Trouble",
-        "url": "https://open.spotify.com/album/7gbU6g4RhAx9At2EEPu1RE"
-      },
-      "artists": [
-        {
-          "name": "MAKJ",
-          "url": "https://open.spotify.com/artist/3PtCud9dIdOv4exrzdZZ1C"
-        },
-        {
-          "name": "Faustix",
-          "url": "https://open.spotify.com/artist/6jPriOYMyUL9kNonBI1CNd"
-        }
-      ],
-      "duration_ms": 174545,
-      "name": "Trouble",
-      "url": "https://open.spotify.com/track/7IWa199kHt5w9DhHXvd0gY"
-    },
-    {
-      "added_at": "2024-03-15 04:00:00",
-      "album": {
         "name": "Wala",
         "url": "https://open.spotify.com/album/6y2TG4gY0lBPPBu1e3LOu3"
       },
@@ -1159,14 +1139,30 @@
     {
       "added_at": "2024-03-15 04:00:00",
       "album": {
+        "name": "Trouble",
+        "url": "https://open.spotify.com/album/7gbU6g4RhAx9At2EEPu1RE"
+      },
+      "artists": [
+        {
+          "name": "MAKJ",
+          "url": "https://open.spotify.com/artist/3PtCud9dIdOv4exrzdZZ1C"
+        },
+        {
+          "name": "Faustix",
+          "url": "https://open.spotify.com/artist/6jPriOYMyUL9kNonBI1CNd"
+        }
+      ],
+      "duration_ms": 174545,
+      "name": "Trouble",
+      "url": "https://open.spotify.com/track/7IWa199kHt5w9DhHXvd0gY"
+    },
+    {
+      "added_at": "2024-03-15 04:00:00",
+      "album": {
         "name": "Rise of The Wise - Remixes",
         "url": "https://open.spotify.com/album/6t7heTLnH7KsDCQnSoVone"
       },
       "artists": [
-        {
-          "name": "Jauz",
-          "url": "https://open.spotify.com/artist/5ttgIeUVka6FLyi00Uu5h8"
-        },
         {
           "name": "GUDFELLA",
           "url": "https://open.spotify.com/artist/3KjZMSSy0BaCVdvL0VABRO"
@@ -1247,26 +1243,6 @@
     {
       "added_at": "2024-03-15 04:00:00",
       "album": {
-        "name": "The Dusk & Dawn EP",
-        "url": "https://open.spotify.com/album/6l3bPrBQRLwwMoQX4dGct9"
-      },
-      "artists": [
-        {
-          "name": "Adam Sellouk",
-          "url": "https://open.spotify.com/artist/2T7HN3rqTpIn8OiVb0I5oq"
-        },
-        {
-          "name": "Konstantin Sibold",
-          "url": "https://open.spotify.com/artist/5Ls75umF4lBOQVp3pJAlbW"
-        }
-      ],
-      "duration_ms": 208292,
-      "name": "The Dusk",
-      "url": "https://open.spotify.com/track/501ZbAtbFWE9GhfCiAnblY"
-    },
-    {
-      "added_at": "2024-03-15 04:00:00",
-      "album": {
         "name": "PASSION",
         "url": "https://open.spotify.com/album/730uPcrgLvBDD0RqtzlEPI"
       },
@@ -1287,18 +1263,22 @@
     {
       "added_at": "2024-03-15 04:00:00",
       "album": {
-        "name": "GRAVITY",
-        "url": "https://open.spotify.com/album/6OpfgadLathndJEw0SRiWy"
+        "name": "The Dusk & Dawn EP",
+        "url": "https://open.spotify.com/album/6l3bPrBQRLwwMoQX4dGct9"
       },
       "artists": [
         {
-          "name": "NOTION",
-          "url": "https://open.spotify.com/artist/1uRVM0wBdtyEuU582EeKJM"
+          "name": "Adam Sellouk",
+          "url": "https://open.spotify.com/artist/2T7HN3rqTpIn8OiVb0I5oq"
+        },
+        {
+          "name": "Konstantin Sibold",
+          "url": "https://open.spotify.com/artist/5Ls75umF4lBOQVp3pJAlbW"
         }
       ],
-      "duration_ms": 252262,
-      "name": "GRAVITY",
-      "url": "https://open.spotify.com/track/5KcQK7if8Z3blQdCz7BtSs"
+      "duration_ms": 208292,
+      "name": "The Dusk",
+      "url": "https://open.spotify.com/track/501ZbAtbFWE9GhfCiAnblY"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -1319,6 +1299,22 @@
     {
       "added_at": "2024-03-15 04:00:00",
       "album": {
+        "name": "GRAVITY",
+        "url": "https://open.spotify.com/album/6OpfgadLathndJEw0SRiWy"
+      },
+      "artists": [
+        {
+          "name": "NOTION",
+          "url": "https://open.spotify.com/artist/1uRVM0wBdtyEuU582EeKJM"
+        }
+      ],
+      "duration_ms": 252262,
+      "name": "GRAVITY",
+      "url": "https://open.spotify.com/track/5KcQK7if8Z3blQdCz7BtSs"
+    },
+    {
+      "added_at": "2024-03-15 04:00:00",
+      "album": {
         "name": "Miyanosawa",
         "url": "https://open.spotify.com/album/1kogXGRFKVpkbRZE6lLmOu"
       },
@@ -1331,6 +1327,22 @@
       "duration_ms": 208972,
       "name": "Miyanosawa",
       "url": "https://open.spotify.com/track/25NyrNbtdNc2G9NE2werEN"
+    },
+    {
+      "added_at": "2024-03-15 04:00:00",
+      "album": {
+        "name": "ADSR",
+        "url": "https://open.spotify.com/album/2EfUzfZYAFNTrowrzyMh1C"
+      },
+      "artists": [
+        {
+          "name": "Marie Vaunt",
+          "url": "https://open.spotify.com/artist/50KydUSYhBFGorhAgUcrL5"
+        }
+      ],
+      "duration_ms": 261617,
+      "name": "ADSR",
+      "url": "https://open.spotify.com/track/57ZYpG5xaMC5kpimwjztr3"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -1355,54 +1367,22 @@
     {
       "added_at": "2024-03-15 04:00:00",
       "album": {
-        "name": "ADSR",
-        "url": "https://open.spotify.com/album/2EfUzfZYAFNTrowrzyMh1C"
+        "name": "Pico (Nick Castle Remix)",
+        "url": "https://open.spotify.com/album/7ItWxiwYxnutVWAwy1t9oH"
       },
       "artists": [
         {
-          "name": "Marie Vaunt",
-          "url": "https://open.spotify.com/artist/50KydUSYhBFGorhAgUcrL5"
-        }
-      ],
-      "duration_ms": 261617,
-      "name": "ADSR",
-      "url": "https://open.spotify.com/track/57ZYpG5xaMC5kpimwjztr3"
-    },
-    {
-      "added_at": "2024-03-15 04:00:00",
-      "album": {
-        "name": "Redemption",
-        "url": "https://open.spotify.com/album/5ftHU8c3OPkWMmKdtIll18"
-      },
-      "artists": [
-        {
-          "name": "FJAAK",
-          "url": "https://open.spotify.com/artist/4qG1qjeHfkASTdyRGbLWbV"
-        }
-      ],
-      "duration_ms": 323829,
-      "name": "Redemption",
-      "url": "https://open.spotify.com/track/5bVBdOVX77LPQLUKm8MPkj"
-    },
-    {
-      "added_at": "2024-03-15 04:00:00",
-      "album": {
-        "name": "LIGHTS OUT",
-        "url": "https://open.spotify.com/album/1pnbCkn2nMrmuBtm2AykJn"
-      },
-      "artists": [
-        {
-          "name": "BIJOU",
-          "url": "https://open.spotify.com/artist/3abRKajGbb3kLMy9AWzfMA"
+          "name": "boys be kko",
+          "url": "https://open.spotify.com/artist/48I9QQhVxPjmcSOPeLVv5D"
         },
         {
-          "name": "KLP",
-          "url": "https://open.spotify.com/artist/3cWOwptrfEuGMJ2cM7ipc3"
+          "name": "Nick Castle",
+          "url": "https://open.spotify.com/artist/4X3rmY9VNwR95ybU1yOJkX"
         }
       ],
-      "duration_ms": 196535,
-      "name": "All Over Me",
-      "url": "https://open.spotify.com/track/7qZ5eBzlVn2NHNyj5vy44Q"
+      "duration_ms": 268256,
+      "name": "Pico - Nick Castle Remix",
+      "url": "https://open.spotify.com/track/27tW9TTL6rDlkcW89SfgvH"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -1431,22 +1411,38 @@
     {
       "added_at": "2024-03-15 04:00:00",
       "album": {
-        "name": "Pico (Nick Castle Remix)",
-        "url": "https://open.spotify.com/album/7ItWxiwYxnutVWAwy1t9oH"
+        "name": "LIGHTS OUT",
+        "url": "https://open.spotify.com/album/1pnbCkn2nMrmuBtm2AykJn"
       },
       "artists": [
         {
-          "name": "boys be kko",
-          "url": "https://open.spotify.com/artist/48I9QQhVxPjmcSOPeLVv5D"
+          "name": "BIJOU",
+          "url": "https://open.spotify.com/artist/3abRKajGbb3kLMy9AWzfMA"
         },
         {
-          "name": "Nick Castle",
-          "url": "https://open.spotify.com/artist/4X3rmY9VNwR95ybU1yOJkX"
+          "name": "KLP",
+          "url": "https://open.spotify.com/artist/3cWOwptrfEuGMJ2cM7ipc3"
         }
       ],
-      "duration_ms": 268256,
-      "name": "Pico - Nick Castle Remix",
-      "url": "https://open.spotify.com/track/27tW9TTL6rDlkcW89SfgvH"
+      "duration_ms": 196535,
+      "name": "All Over Me",
+      "url": "https://open.spotify.com/track/7qZ5eBzlVn2NHNyj5vy44Q"
+    },
+    {
+      "added_at": "2024-03-15 04:00:00",
+      "album": {
+        "name": "Redemption",
+        "url": "https://open.spotify.com/album/5ftHU8c3OPkWMmKdtIll18"
+      },
+      "artists": [
+        {
+          "name": "FJAAK",
+          "url": "https://open.spotify.com/artist/4qG1qjeHfkASTdyRGbLWbV"
+        }
+      ],
+      "duration_ms": 323829,
+      "name": "Redemption",
+      "url": "https://open.spotify.com/track/5bVBdOVX77LPQLUKm8MPkj"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -1507,22 +1503,6 @@
     {
       "added_at": "2024-03-15 04:00:00",
       "album": {
-        "name": "Neurality",
-        "url": "https://open.spotify.com/album/1qWwIoLMKwRLItxtDW4zmK"
-      },
-      "artists": [
-        {
-          "name": "Oceanvs Orientalis",
-          "url": "https://open.spotify.com/artist/3gNEIgLeknpwkNViU8WAhg"
-        }
-      ],
-      "duration_ms": 303616,
-      "name": "Neurality",
-      "url": "https://open.spotify.com/track/6UXbjzCxlqE8vkjsGgkYXt"
-    },
-    {
-      "added_at": "2024-03-15 04:00:00",
-      "album": {
         "name": "Play My Game",
         "url": "https://open.spotify.com/album/2GBAmjW60rUzK5he5RMV9S"
       },
@@ -1535,6 +1515,22 @@
       "duration_ms": 206571,
       "name": "Play My Game",
       "url": "https://open.spotify.com/track/7LrXEv1zmvkdiU1XHeJ2AO"
+    },
+    {
+      "added_at": "2024-03-15 04:00:00",
+      "album": {
+        "name": "Neurality",
+        "url": "https://open.spotify.com/album/1qWwIoLMKwRLItxtDW4zmK"
+      },
+      "artists": [
+        {
+          "name": "Oceanvs Orientalis",
+          "url": "https://open.spotify.com/artist/3gNEIgLeknpwkNViU8WAhg"
+        }
+      ],
+      "duration_ms": 303616,
+      "name": "Neurality",
+      "url": "https://open.spotify.com/track/6UXbjzCxlqE8vkjsGgkYXt"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -1555,6 +1551,26 @@
     {
       "added_at": "2024-03-15 04:00:00",
       "album": {
+        "name": "WHO CARES",
+        "url": "https://open.spotify.com/album/0HkYZm7eS1u3J7JWpwRcl7"
+      },
+      "artists": [
+        {
+          "name": "Mi Casa",
+          "url": "https://open.spotify.com/artist/6c7bGIcrxaMdYSn6htbHj0"
+        },
+        {
+          "name": "Malik Harris",
+          "url": "https://open.spotify.com/artist/7B6Uk58O2DVfg1xZPKEp4n"
+        }
+      ],
+      "duration_ms": 171330,
+      "name": "WHO CARES",
+      "url": "https://open.spotify.com/track/3EbWjvHbCusBvpUGXX3IT9"
+    },
+    {
+      "added_at": "2024-03-15 04:00:00",
+      "album": {
         "name": "Mad Cow Bell",
         "url": "https://open.spotify.com/album/6lelyt8mSpFoLtrtDnN7Nx"
       },
@@ -1567,6 +1583,22 @@
       "duration_ms": 195428,
       "name": "Mad Cow Bell",
       "url": "https://open.spotify.com/track/3jD5FuCLtBjYSYrIEHSVXn"
+    },
+    {
+      "added_at": "2024-03-15 04:00:00",
+      "album": {
+        "name": "Free",
+        "url": "https://open.spotify.com/album/7vwmPbiCeBhHkZA5RGjSNY"
+      },
+      "artists": [
+        {
+          "name": "Bklava",
+          "url": "https://open.spotify.com/artist/71t5uC7AYxisT7Z55Y2Kqd"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "Free",
+      "url": "https://open.spotify.com/track/3TyQK5VFsgW1oFsFilQpwJ"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -1587,22 +1619,6 @@
       "duration_ms": 272022,
       "name": "Closer - Stones Taro Remix",
       "url": "https://open.spotify.com/track/2NaL0LyPBJgibDwWXYxnvj"
-    },
-    {
-      "added_at": "2024-03-15 04:00:00",
-      "album": {
-        "name": "Free",
-        "url": "https://open.spotify.com/album/7vwmPbiCeBhHkZA5RGjSNY"
-      },
-      "artists": [
-        {
-          "name": "Bklava",
-          "url": "https://open.spotify.com/artist/71t5uC7AYxisT7Z55Y2Kqd"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "Free",
-      "url": "https://open.spotify.com/track/3TyQK5VFsgW1oFsFilQpwJ"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -1651,22 +1667,6 @@
     {
       "added_at": "2024-03-15 04:00:00",
       "album": {
-        "name": "III",
-        "url": "https://open.spotify.com/album/3ilL1rqFRKvSYKLuUrUEPX"
-      },
-      "artists": [
-        {
-          "name": "Golan",
-          "url": "https://open.spotify.com/artist/3v51DcP9QFy7yTdtMy5suW"
-        }
-      ],
-      "duration_ms": 247619,
-      "name": "Sometimes",
-      "url": "https://open.spotify.com/track/6ThwZtNrwEzvhk1VBx0UpL"
-    },
-    {
-      "added_at": "2024-03-15 04:00:00",
-      "album": {
         "name": "Power Of One",
         "url": "https://open.spotify.com/album/5Fvt14TezBeoJfE7TCxxef"
       },
@@ -1687,18 +1687,18 @@
     {
       "added_at": "2024-03-15 04:00:00",
       "album": {
-        "name": "Into The Dark",
-        "url": "https://open.spotify.com/album/6oOhjdvkVDfzXdTOTXmyJ5"
+        "name": "III",
+        "url": "https://open.spotify.com/album/3ilL1rqFRKvSYKLuUrUEPX"
       },
       "artists": [
         {
-          "name": "JEANIE",
-          "url": "https://open.spotify.com/artist/5y4xjNwy9GEFC4hic2epwe"
+          "name": "Golan",
+          "url": "https://open.spotify.com/artist/3v51DcP9QFy7yTdtMy5suW"
         }
       ],
-      "duration_ms": 144000,
-      "name": "Demise",
-      "url": "https://open.spotify.com/track/0j055WaD6Tdt0sCO7yT1f8"
+      "duration_ms": 247619,
+      "name": "Sometimes",
+      "url": "https://open.spotify.com/track/6ThwZtNrwEzvhk1VBx0UpL"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -1715,6 +1715,22 @@
       "duration_ms": 145222,
       "name": "LOVERS",
       "url": "https://open.spotify.com/track/3SVpMgVRhTWkR1U4V8EbYh"
+    },
+    {
+      "added_at": "2024-03-15 04:00:00",
+      "album": {
+        "name": "Into The Dark",
+        "url": "https://open.spotify.com/album/6oOhjdvkVDfzXdTOTXmyJ5"
+      },
+      "artists": [
+        {
+          "name": "JEANIE",
+          "url": "https://open.spotify.com/artist/5y4xjNwy9GEFC4hic2epwe"
+        }
+      ],
+      "duration_ms": 144000,
+      "name": "Demise",
+      "url": "https://open.spotify.com/track/0j055WaD6Tdt0sCO7yT1f8"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -1755,26 +1771,6 @@
     {
       "added_at": "2024-03-15 04:00:00",
       "album": {
-        "name": "WHO CARES",
-        "url": "https://open.spotify.com/album/0HkYZm7eS1u3J7JWpwRcl7"
-      },
-      "artists": [
-        {
-          "name": "Mi Casa",
-          "url": "https://open.spotify.com/artist/6c7bGIcrxaMdYSn6htbHj0"
-        },
-        {
-          "name": "Malik Harris",
-          "url": "https://open.spotify.com/artist/7B6Uk58O2DVfg1xZPKEp4n"
-        }
-      ],
-      "duration_ms": 171330,
-      "name": "WHO CARES",
-      "url": "https://open.spotify.com/track/3EbWjvHbCusBvpUGXX3IT9"
-    },
-    {
-      "added_at": "2024-03-15 04:00:00",
-      "album": {
         "name": "A Heart To Share",
         "url": "https://open.spotify.com/album/1t6vvShAvR26l6Hwh9lfpw"
       },
@@ -1787,22 +1783,6 @@
       "duration_ms": 291147,
       "name": "A Heart To Share - Edit",
       "url": "https://open.spotify.com/track/5sDhPhgTftbE64s4DiVX56"
-    },
-    {
-      "added_at": "2024-03-15 04:00:00",
-      "album": {
-        "name": "Bow Wow",
-        "url": "https://open.spotify.com/album/6H5WLICR7qih24raFqUhdu"
-      },
-      "artists": [
-        {
-          "name": "Life on Planets",
-          "url": "https://open.spotify.com/artist/2EtksajEPOMDkyVKMZi1eO"
-        }
-      ],
-      "duration_ms": 265970,
-      "name": "Bow Wow",
-      "url": "https://open.spotify.com/track/4aFfBctwyThnYMcaSCX7EA"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -1823,6 +1803,22 @@
       "duration_ms": 261502,
       "name": "Atrophies",
       "url": "https://open.spotify.com/track/5xgM9AY0lgeMmOPG63zk89"
+    },
+    {
+      "added_at": "2024-03-15 04:00:00",
+      "album": {
+        "name": "Bow Wow",
+        "url": "https://open.spotify.com/album/6H5WLICR7qih24raFqUhdu"
+      },
+      "artists": [
+        {
+          "name": "Life on Planets",
+          "url": "https://open.spotify.com/artist/2EtksajEPOMDkyVKMZi1eO"
+        }
+      ],
+      "duration_ms": 265970,
+      "name": "Bow Wow",
+      "url": "https://open.spotify.com/track/4aFfBctwyThnYMcaSCX7EA"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -1859,6 +1855,22 @@
       "duration_ms": 149000,
       "name": "Illusion",
       "url": "https://open.spotify.com/track/2jJseAGgL93Al67PNq1OYL"
+    },
+    {
+      "added_at": "2024-03-15 04:00:00",
+      "album": {
+        "name": "Guitar Hero",
+        "url": "https://open.spotify.com/album/1p9S3trhs5aFoyNHVKREgZ"
+      },
+      "artists": [
+        {
+          "name": "CC:DISCO!",
+          "url": "https://open.spotify.com/artist/37fxVoFAMzet5CiiDg7SL7"
+        }
+      ],
+      "duration_ms": 252125,
+      "name": "Guitar Hero",
+      "url": "https://open.spotify.com/track/6WmHyrOiOgqRavOTm01SIY"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -1903,22 +1915,6 @@
       "duration_ms": 592373,
       "name": "Ke Nako (feat. Sereetsi and the Natives) [Kid Fonque Refix]",
       "url": "https://open.spotify.com/track/2bJh2hiA69v4IJ7sU4RemB"
-    },
-    {
-      "added_at": "2024-03-15 04:00:00",
-      "album": {
-        "name": "Guitar Hero",
-        "url": "https://open.spotify.com/album/1p9S3trhs5aFoyNHVKREgZ"
-      },
-      "artists": [
-        {
-          "name": "CC:DISCO!",
-          "url": "https://open.spotify.com/artist/37fxVoFAMzet5CiiDg7SL7"
-        }
-      ],
-      "duration_ms": 252125,
-      "name": "Guitar Hero",
-      "url": "https://open.spotify.com/track/6WmHyrOiOgqRavOTm01SIY"
     },
     {
       "added_at": "2024-03-15 04:00:00",

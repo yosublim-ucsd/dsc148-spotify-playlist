@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1L8JuK0yhgO.md) - [plain]
 
 > 音楽メディア<a href="http://spincoaster.com/">Spincoaster</a>が厳選したホットな新曲を毎週月曜日にお届け！
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,548 likes - 65 songs - 3 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,545 likes - 65 songs - 3 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1L8JuK0yhgO.md) - [plain]
 | 64 | [Closer \- Stones Taro Remix](https://open.spotify.com/track/2NaL0LyPBJgibDwWXYxnvj) | [ROTH BART BARON](https://open.spotify.com/artist/3WwL2Gya2VH0zHzOdakOX2), [Stones Taro](https://open.spotify.com/artist/2lVqmVhV77js7wdmzUVdyB) | [Closer](https://open.spotify.com/album/2yBOlJRncI22jtxGBnqMPS) | 4:32 |
 | 65 | [Under The Same Sky](https://open.spotify.com/track/3jKSOZFHglAkKqGKbhH01f) | [Ichiro Tanimoto](https://open.spotify.com/artist/04nYjAsF9Uen2IsPlt82ZW) | [Solace From The Sun](https://open.spotify.com/album/36EA2xCDJZFF5eMhkML5eV) | 4:09 |
 
-Snapshot ID: `MCwwYmRjZGNjODhhMTgxNjg1ZjAwOWZjNjllNTQxYTMzMTY2MzFhODAx`
+Snapshot ID: `MCxhNmI5YTAwOTQ4Mzg3MjQzZmUyYTc0NWU4ZDRjOGE5NDBhZGMyMjhk`

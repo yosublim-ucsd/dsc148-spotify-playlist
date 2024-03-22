@@ -2,9 +2,9 @@
 
 ### [T\-Pop Now](https://open.spotify.com/playlist/37i9dQZF1DX8peoGqrSg0H)
 
-> เพลง T\-Pop โดนใจ อัปเดตให้คุณฟังทุกสัปดาห์\. ศิลปิน: PP Krit
+> เพลง T\-Pop โดนใจ อัปเดตให้คุณฟังทุกสัปดาห์\. ศิลปิน: GEMINI
 
-462 songs - 1 day 3 hr 35 min
+463 songs - 1 day 3 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -74,6 +74,7 @@
 | [LUCKY YOU](https://open.spotify.com/track/2mkwWrCvmj1rjG0VbbtjON) | [Ink Waruntorn](https://open.spotify.com/artist/1Twi7NfmUzbXF7lEMaGCqF), [4EVE](https://open.spotify.com/artist/3aBwCcP4CB8M6S7YV8QkOg) | [LUCKY YOU](https://open.spotify.com/album/3m7gfDBTZxjE6dh3Trt02B) | 3:14 | 2024-02-15 | 2024-03-08 |
 | [Melbourne](https://open.spotify.com/track/0nYZ6GR0fCPmxqjPOaPGjJ) | [Morvasu](https://open.spotify.com/artist/4S7sdsjS2srUTDPXAuOYw8), [TangBadVoice](https://open.spotify.com/artist/2feGNLrcUrcsQNA1QJBaIe) | [Melbourne](https://open.spotify.com/album/24u4TYFCGbRZA6t19j4B8w) | 3:02 | 2022-05-26 | 2022-08-26 |
 | [Midnight Crisis](https://open.spotify.com/track/4qqs5lPdlW3hQrbvmAtvrL) | [Proo Thunwa](https://open.spotify.com/artist/1P15t4uFsvUZCgkTvQqsaj) | [TEMPO](https://open.spotify.com/album/1XAuTBouINWgSGonuCbmWg) | 3:27 | 2023-05-26 | 2023-06-02 |
+| [Mona Lisa](https://open.spotify.com/track/3H4k0YdtIxrZVORbW57wtp) | [DICE](https://open.spotify.com/artist/4TowSWXul9J5jxTyntRJEv) | [Mona Lisa](https://open.spotify.com/album/69xnGRhLkV3mQcV30IEWMn) | 3:49 | 2024-03-21 |  |
 | [Mr\. Everything](https://open.spotify.com/track/4CHnBhfsGuReet1IMOrueC) | [Billkin](https://open.spotify.com/artist/2a727ekkPaUHk0bMifk7fj) | [Mr\. Everything](https://open.spotify.com/album/51RzDgbBhPdH4MqFCFHJ30) | 3:21 | 2022-12-08 |  |
 | [My Angel \(The Original Soundtrack ”Boyband The Series”\)](https://open.spotify.com/track/55b97MkUuNNL0rRbgqYqR0) | [XI](https://open.spotify.com/artist/00EYO9tpVSk1YkXQs1awnQ) | [My Angel \(The Original Soundtrack ”Boyband The Series”\)](https://open.spotify.com/album/4w1kRtxK4swO4nagj3sgOd) | 4:34 | 2023-02-10 | 2023-02-17 |
 | [My Ecstasy](https://open.spotify.com/track/1adZCcp1Zd0hCLwh6X2Oym) | [BRIGHT](https://open.spotify.com/artist/6foXh1rnSNszTx2gIVOGTt), [D Gerrard](https://open.spotify.com/artist/1k7MP2tMC43vM0b0wg8HHg) | [My Ecstasy \(feat\. D GERRARD\)](https://open.spotify.com/album/4Nfh20acMhUJd6pXWursAY) | 3:37 | 2023-01-26 | 2023-02-11 |
@@ -106,7 +107,7 @@
 | [TOY](https://open.spotify.com/track/2YRHRAT0c0g4WIZjsf9clK) | [THE TOYS](https://open.spotify.com/artist/5pokGZ1K9Hr6etaKPDxSG8) | [SUN](https://open.spotify.com/album/1hWhflOpUh3IS1UeYHIW8V) | 2:16 | 2023-09-25 |  |
 | [U can't hurt me no more](https://open.spotify.com/track/7MF3ugIgl06Fi8CX5NKA4m) | [Venita](https://open.spotify.com/artist/1suxWOTjtwWh0CNcydUeWQ) | [U can't hurt me no more](https://open.spotify.com/album/6DofRSGlqkwj4jLDxk0JRd) | 3:14 | 2022-08-25 | 2022-09-01 |
 | [UMM UMM](https://open.spotify.com/track/2DZDnHMcGd71AuKP4b8OM2) | [LYKN](https://open.spotify.com/artist/16JoSyjAZcwB1b8SvkTSXj) | [UMM UMM](https://open.spotify.com/album/1arBxJSSZSdEPZKIYKAH9O) | 3:07 | 2023-08-04 | 2023-08-25 |
-| [Vanilla Sky](https://open.spotify.com/track/0pxUadEywlbr8gqAfKMgH3) | [DIDIxDADA](https://open.spotify.com/artist/2wd5kKWvp9e1i7rBtvvGSc) | [Vanilla Sky](https://open.spotify.com/album/0oLBGvBd14ctZplQ4lYQIe) | 2:36 | 2024-03-07 |  |
+| [Vanilla Sky](https://open.spotify.com/track/0pxUadEywlbr8gqAfKMgH3) | [DIDIxDADA](https://open.spotify.com/artist/2wd5kKWvp9e1i7rBtvvGSc) | [Vanilla Sky](https://open.spotify.com/album/0oLBGvBd14ctZplQ4lYQIe) | 2:36 | 2024-03-07 | 2024-03-22 |
 | [VROOM VROOM](https://open.spotify.com/track/0VMIePtO3EfeOFuXwmCw9B) | [4EVE](https://open.spotify.com/artist/3aBwCcP4CB8M6S7YV8QkOg) | [VROOM VROOM](https://open.spotify.com/album/3Bg6d7V4gj1NzrriVw9fDH) | 2:54 | 2023-12-07 | 2024-02-16 |
 | [WATCH YOUR STEP](https://open.spotify.com/track/6N1ZqtABCgsqotshwnvEk1) | [BUS](https://open.spotify.com/artist/5kU6FKYW7YBB2ikPQnk8cS) | [WATCH YOUR STEP](https://open.spotify.com/album/347v2CFOheG1u8zXZrex32) | 3:50 | 2024-02-15 |  |
 | [What's Zabb \(เพลงประกอบซีรีส์ Cooking Crush อาหารเป็นยังไงครับหมอ\)](https://open.spotify.com/track/64URwmo2yZyqsXGB0LznJS) | [Off Jumpol](https://open.spotify.com/artist/0bKOBYaUDBZVgdimYPdZpp), [Gun Atthaphan](https://open.spotify.com/artist/0XBt4tNqmoaIqYR5qMEC0k) | [What's Zabb \- Single](https://open.spotify.com/album/5esCxXigd1S4maoJlducVq) | 3:24 | 2023-11-23 | 2023-12-08 |

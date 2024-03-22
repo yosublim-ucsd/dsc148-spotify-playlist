@@ -4,7 +4,7 @@
 
 > Silvana Estrada le dedica su canto a La Catrina, para mantener nuestra tradición viva.
 
-88 songs - 5 hr 54 min
+89 songs - 5 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,7 +55,8 @@
 | [La Tumba](https://open.spotify.com/track/1AuwJOJcxOfi5nEQPwk5XP) | [Hello Seahorse!](https://open.spotify.com/artist/3vKxuOGRkXJWpCZPf01Nj8) | [Lejos, No Tan Lejos](https://open.spotify.com/album/0YkY3WqyscfFERmCKnAWvf) | 2:44 | 2022-10-28 | 2023-10-02 |
 | [Luna De Octubre](https://open.spotify.com/track/3zYxuXAqCXhf6ZXXnbccm7) | [Eugenia Leon](https://open.spotify.com/artist/4rb77bUYfTSu6Hkb9Oar8y), [Carla Morrison](https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe) | [Ciudadana del Mundo Volumen 1](https://open.spotify.com/album/2vhg2TUJPxODrZhLwtp8bR) | 3:19 | 2022-10-28 | 2023-10-02 |
 | [Malagueña, No\. 2](https://open.spotify.com/track/0JrnXDzhynOCcHqLgLztcA) | [Soledad Bravo](https://open.spotify.com/artist/6wrOOWIlmDTI9G5MSpAuh2) | [La Historia Musical y Algo Más...](https://open.spotify.com/album/1jHtwoUNpBNtKM7VggyQQJ) | 3:38 | 2023-10-01 |  |
-| [Maldigo el alto cielo \- Remastered](https://open.spotify.com/track/4w6AfPvVsRHdaJRGN2uhXj) | [Violeta Parra](https://open.spotify.com/artist/4ejp2yEDQIIJIy0iFpoI5B) | [Violeta Parra, sus grandes éxitos \(Remastered\)](https://open.spotify.com/album/5o9xZyOQKZ5eyb2u3KWszi) | 3:44 | 2023-10-01 |  |
+| [Maldigo del alto cielo](https://open.spotify.com/track/2grnhzoN2ZpgYgtWaTbrgn) | [Violeta Parra](https://open.spotify.com/artist/4ejp2yEDQIIJIy0iFpoI5B) | [30 cantos populares de Chile](https://open.spotify.com/album/01l8wvg4eCkrLd9oFZICCA) | 3:52 | 2023-10-17 |  |
+| [Maldigo el alto cielo \- Remastered](https://open.spotify.com/track/4w6AfPvVsRHdaJRGN2uhXj) | [Violeta Parra](https://open.spotify.com/artist/4ejp2yEDQIIJIy0iFpoI5B) | [Violeta Parra, sus grandes éxitos \(Remastered\)](https://open.spotify.com/album/5o9xZyOQKZ5eyb2u3KWszi) | 3:44 | 2023-10-01 | 2024-03-22 |
 | [Mama Says](https://open.spotify.com/track/1miw3aQw8mMvyUJnbbUXHb) | [Ibeyi](https://open.spotify.com/artist/5Q8NEHGX70m1kkojbtm8wa) | [Ibeyi](https://open.spotify.com/album/4VrxiS9RcvqQCdIfww3HKR) | 4:09 | 2023-10-01 |  |
 | [Mañana](https://open.spotify.com/track/0tEoQ2QuoCHuf4Z2LbUaU1) | [Sílvia Pérez Cruz](https://open.spotify.com/artist/7qJXYbBDibZ1Zixi89aUnw) | [Farsa \(género imposible\)](https://open.spotify.com/album/0Drgy7I9IrviGb2L5PLpeK) | 2:46 | 2023-10-01 |  |
 | [Me Vale](https://open.spotify.com/track/0JVgORYQZm05UVmrHs4DXN) | [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [Me Vale](https://open.spotify.com/album/65gyP6lTxC1JcRWQSiX7nj) | 3:01 | 2022-10-28 | 2023-10-02 |

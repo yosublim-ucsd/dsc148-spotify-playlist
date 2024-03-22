@@ -4,7 +4,7 @@
 
 > The ultimate seasonal \(indie\) playlist.
 
-237 songs - 13 hr 3 min
+238 songs - 13 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,6 +55,7 @@
 | [Christmas Is Going To The Dogs](https://open.spotify.com/track/1V5xm5jig4H84JpO66Y7aN) | [Eels](https://open.spotify.com/artist/3zunDAtRDg7kflREzWAhxl) | [Useless Trinkets\-B Sides, Soundtracks, Rarieties and Unreleased 1996\-2006](https://open.spotify.com/album/6PzBWVj7R6E0sOQQdPYEXI) | 2:57 | 2021-11-12 | 2022-07-15 |
 | [Christmas Is Home](https://open.spotify.com/track/7ulgUfxA8oIGmaqQX6bRkX) | [Oscar Lang](https://open.spotify.com/artist/6deCiWT7ATcDWP2Cvlalvn) | [Christmas Is Home](https://open.spotify.com/album/6rp2bUeS3cbqItcbbvgYOI) | 3:46 | 2021-11-12 | 2022-07-29 |
 | [Christmas Kids](https://open.spotify.com/track/40gk32E7YaTFoQwDIWv2SY) | [Roar](https://open.spotify.com/artist/7dIpKWlEeAljA20vFJ82RD) | [I Can't Handle Change](https://open.spotify.com/album/42vd9Cgr89pjb0Jipvaj5d) | 2:15 | 2022-10-14 | 2024-03-21 |
+| [Christmas Kids](https://open.spotify.com/track/7KV7xwHTJbzbwGQEHLIzR8) | [Roar](https://open.spotify.com/artist/7dIpKWlEeAljA20vFJ82RD) | [I Can't Handle Change](https://open.spotify.com/album/0YjOnBY0FRufcmNBTzWTgX) | 2:15 | 2023-10-16 |  |
 | [christmas morning](https://open.spotify.com/track/2SAoJ45i8qWirGdSmCoabR) | [Luz](https://open.spotify.com/artist/3cdI6SvJ24KsOcvYyBwH9c) | [christmas morning](https://open.spotify.com/album/7CDTHxK6bLW45oOxRk5PJv) | 3:52 | 2021-11-12 | 2022-12-24 |
 | [Christmas Must Be Tonight](https://open.spotify.com/track/5HGeTJqFRlhY3VYC9phKw6) | [Bahamas](https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt) | [This Warm December, A Brushfire Holiday Vol\. 2](https://open.spotify.com/album/4dTpeR3SNPSp77CztAXT7T) | 3:47 | 2021-11-12 |  |
 | [Christmas Party \(Nice & Naughty\)](https://open.spotify.com/track/0pHL5pKE0rhdZgwAAvkqMp) | [Spaceface](https://open.spotify.com/artist/3rcMe5nRZ2Z6Qbx1OB0vIz), [Andy Clockwise](https://open.spotify.com/artist/2Sd83DzQLBBjWBwT2yxSUu), [Swimm](https://open.spotify.com/artist/0tLb7wQ0nbvoqx2ZOiLOfX) | [Christmas Party \(Nice & Naughty\)](https://open.spotify.com/album/4EGaWVyH2s22CC2jIqPqXs) | 3:12 | 2021-11-12 | 2022-07-28 |
@@ -159,7 +160,7 @@
 | [Merry Christmas](https://open.spotify.com/track/7I53IhL7CuLvRs9g6jyliB) | [Willie J Healey](https://open.spotify.com/artist/4T4JE09FOmRgv2Wzb6JaOR) | [Merry Christmas](https://open.spotify.com/album/6nnv2sz5aO6ckFWn1Vhxfr) | 3:18 | 2021-11-12 | 2022-07-23 |
 | [Merry Christmas Everyone](https://open.spotify.com/track/18FRF0G84dYW6BQaJ92BcM) | [Keston Cobblers Club](https://open.spotify.com/artist/38DmNaPnPBoXtbpFgXZNL8) | [Merry Christmas Everyone](https://open.spotify.com/album/5HpjZ3vpbjj3sxAELe7gHk) | 2:41 | 2021-11-12 | 2022-07-27 |
 | [Merry Christmas Everyone \- Recorded at Parr Street Studios](https://open.spotify.com/track/5YDrnmiVzAmHmIUhLQqy6H) | [Vistas](https://open.spotify.com/artist/5YA1c6yVkPnflTLMfOgjzc) | [Merry Christmas Everyone \- Recorded at Parr Street Studios](https://open.spotify.com/album/7gaHJJPucZCcm8i03zheJl) | 3:38 | 2021-11-12 | 2022-12-24 |
-| [Merry Xmas Everybody](https://open.spotify.com/track/5lfN1H4X6hDhHKMoZIApEN) | [Albin Lee Meldau](https://open.spotify.com/artist/1AdKbbV5v6ifuJertEjNeK) | [Merry Xmas Everybody](https://open.spotify.com/album/60i7Lo8iMpAFEogjdDQje4) | 3:38 | 2021-11-12 |  |
+| [Merry Xmas Everybody](https://open.spotify.com/track/5lfN1H4X6hDhHKMoZIApEN) | [Albin Lee Meldau](https://open.spotify.com/artist/1AdKbbV5v6ifuJertEjNeK) | [Merry Xmas Everybody](https://open.spotify.com/album/60i7Lo8iMpAFEogjdDQje4) | 3:38 | 2021-11-12 | 2024-03-22 |
 | [Messed Up On Christmas](https://open.spotify.com/track/1hVFvOisGooNd8z9B2AMIp) | [Lyn Lapid](https://open.spotify.com/artist/4pfy05cNNTacuOQ6SiSu4v) | [XMAS 01](https://open.spotify.com/album/3StuIrKZYryr4ZICoWRqqc) | 2:21 | 2021-11-12 | 2022-12-08 |
 | [Must Be Santa \- Spotify Singles Holiday](https://open.spotify.com/track/04LnqfQEzvutfUhSylWowv) | [Kurt Vile](https://open.spotify.com/artist/5gspAQIAH8nJUrMYgXjCJ2) | [Must Be Santa \(Spotify Singles Holiday\)](https://open.spotify.com/album/0wJyKcyU78UBHupNdCEtW4) | 5:11 | 2022-11-21 | 2023-11-16 |
 | [My Favourite Day](https://open.spotify.com/track/1bc1TqZLxCSPGRTnFvo6Pj) | [Fickle Friends](https://open.spotify.com/artist/1nhSLEYdoBHG6cJ8NDwoF1) | [My Favourite Day](https://open.spotify.com/album/7xJH9NWvD1txw7DUCnDAfh) | 3:35 | 2021-12-03 | 2023-07-23 |

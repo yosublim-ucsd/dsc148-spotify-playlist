@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxStm5ni6tl.md) - [plain]
 
 > Discover the <a href="spotify:genre:0JQ5DAqbMKFImHYGo3eTSg">best new music</a> by independent artists and labels in Canada, updated every Wednesday\. Cover: Mikayla Geier
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,640 likes - 80 songs - 3 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,687 likes - 80 songs - 3 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxStm5ni6tl.md) - [plain]
 | 79 | [Say Less](https://open.spotify.com/track/15bXuComDHIVzF98Zususy) | [Quincy Isaiah](https://open.spotify.com/artist/7eAyJBfRTpp3vLocsj1X2i) | [Say Less](https://open.spotify.com/album/3T5u5OqXoR2kRaeUET6Nmr) | 2:28 |
 | 80 | [Tasty](https://open.spotify.com/track/73R238D3PcMqMY4Xxn2q6S) | [Shann Aberdeen](https://open.spotify.com/artist/6nCWqG1NbQWzSZ1gmk8s3O) | [Tasty](https://open.spotify.com/album/14PBWHldV1Uuk5MADOiVp0) | 3:06 |
 
-Snapshot ID: `MCw3YTZlYTAzNTU1OTlmZTA2YmY4NWMzZThhZTgwYTM2ZGMyMDU4YzQ2`
+Snapshot ID: `MCw4YWQwNTc0Yjg4NGZlZjY5OTIxYjA0NmM4YzU4ZjVkNjg1YzJkZjAx`

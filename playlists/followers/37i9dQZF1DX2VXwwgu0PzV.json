@@ -1,5 +1,5 @@
 {
-  "2024-03-21": 30010,
+  "2024-03-22": 30051,
   "date_first_scraped": "2023-02-04",
   "description": "Music for when you've got your Jesus on and your swag up . \nCover: <a href=\"https://open.spotify.com/artist/31XHZpkBidKYdb27RBePrr?si=TjiqtRNhRhm6qLz1jpIOTQ\">Naffymar</a> ",
   "name": "Youth Service",
@@ -6259,6 +6259,24 @@
     {
       "album": {
         "name": "Ikechi (Power of God)",
+        "url": "https://open.spotify.com/album/1c5oifFnPegiQreaOY5wju"
+      },
+      "artists": [
+        {
+          "name": "Minister GUC",
+          "url": "https://open.spotify.com/artist/5F9NFQsix9CwLRFKUbyCEL"
+        }
+      ],
+      "date_added": "2023-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177400,
+      "name": "Ikechi (Power of God)",
+      "url": "https://open.spotify.com/track/0oLkR9vqXhvBuneYvYcxiA"
+    },
+    {
+      "album": {
+        "name": "Ikechi (Power of God)",
         "url": "https://open.spotify.com/album/6n6e6Z1cnuMVWMQ9CBeInr"
       },
       "artists": [
@@ -6269,7 +6287,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-21",
       "duration_ms": 177400,
       "name": "Ikechi (Power of God)",
       "url": "https://open.spotify.com/track/2qhu3cRVoq4aW30mbPAo5y"
@@ -6568,6 +6586,28 @@
     },
     {
       "album": {
+        "name": "Jehovah 'Meliwo (feat. 121 Selah) [Live]",
+        "url": "https://open.spotify.com/album/7KTg30fPTIjgdlMlWPens6"
+      },
+      "artists": [
+        {
+          "name": "Judikay",
+          "url": "https://open.spotify.com/artist/5Ja8vZu9RqunrDS0uIFL5x"
+        },
+        {
+          "name": "121 Selah",
+          "url": "https://open.spotify.com/artist/0FjCYT4l6k77uJhK7arnh5"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 299160,
+      "name": "Jehovah 'Meliwo (feat. 121 Selah) - Live",
+      "url": "https://open.spotify.com/track/0WWIMPvI6lvaAVRUf2N2lO"
+    },
+    {
+      "album": {
         "name": "Jehovah 'Meliwo (Live)",
         "url": "https://open.spotify.com/album/34tawuuWHPRWc1kjVG2n3u"
       },
@@ -6583,7 +6623,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-21",
       "duration_ms": 299160,
       "name": "Jehovah 'Meliwo - Live",
       "url": "https://open.spotify.com/track/6SCnE9KZ0Ts9Vhn4v1el7r"

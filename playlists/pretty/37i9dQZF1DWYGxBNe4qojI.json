@@ -1,12 +1,12 @@
 {
   "description": "Where it all started. Cover: The Roots",
-  "num_followers": 375882,
+  "num_followers": 375967,
   "original_name": "I Love My East Coast Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyMjYyNTg2YzhjZjJlNWQ1MzdiNzgwNTIyOTljNjgxM2MxY2MyNDQy",
+  "snapshot_id": "MCxjOWY1MDQ0YzYzMWJiMzQ4YjIxMTEzMjI3ODRkNjM1MDVhYWMxOTkz",
   "tracks": [
     {
       "added_at": "2024-02-24 01:14:20",
@@ -943,22 +943,6 @@
     {
       "added_at": "2024-02-24 01:14:20",
       "album": {
-        "name": "Mos Def & Talib Kweli Are Black Star",
-        "url": "https://open.spotify.com/album/6GRzmk9UGL7odxprOPop1Q"
-      },
-      "artists": [
-        {
-          "name": "Black Star",
-          "url": "https://open.spotify.com/artist/67ei8ib6PLT1w3OkhIb4fB"
-        }
-      ],
-      "duration_ms": 206493,
-      "name": "Definition",
-      "url": "https://open.spotify.com/track/4C7Ss9bTPOWJMh3rarF1mN"
-    },
-    {
-      "added_at": "2024-02-24 01:14:20",
-      "album": {
         "name": "La Bella Mafia",
         "url": "https://open.spotify.com/album/6UlNLXBFLqRDiKnyrF4oDE"
       },
@@ -971,6 +955,22 @@
       "duration_ms": 359973,
       "name": "Magic Stick",
       "url": "https://open.spotify.com/track/0aULRU35N9kTj6O1xMULRR"
+    },
+    {
+      "added_at": "2024-02-24 01:14:20",
+      "album": {
+        "name": "Mos Def & Talib Kweli Are Black Star",
+        "url": "https://open.spotify.com/album/6GRzmk9UGL7odxprOPop1Q"
+      },
+      "artists": [
+        {
+          "name": "Black Star",
+          "url": "https://open.spotify.com/artist/67ei8ib6PLT1w3OkhIb4fB"
+        }
+      ],
+      "duration_ms": 206493,
+      "name": "Definition",
+      "url": "https://open.spotify.com/track/4C7Ss9bTPOWJMh3rarF1mN"
     },
     {
       "added_at": "2024-02-24 01:14:20",

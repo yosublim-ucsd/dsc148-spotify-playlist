@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5v05Lp36zECefBP7ZcxguL.md) - [plain]
 
 > Les meilleures musiques de l'année 2023 sélectionnées par la radio GRRIF\. <a href="http://www.grrif.ch">www.grrif.ch</a>
 
-[GRRIF](https://open.spotify.com/user/grrifradio) - 732 likes - 100 songs - 6 hr 3 min
+[GRRIF](https://open.spotify.com/user/grrifradio) - 731 likes - 100 songs - 6 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -98,7 +98,7 @@ pretty - [cumulative](/playlists/cumulative/5v05Lp36zECefBP7ZcxguL.md) - [plain]
 | 88 | [Black British](https://open.spotify.com/track/0ZYWQYsfhLLiZW5FPIkXw1) | [V V Brown](https://open.spotify.com/artist/39ZHUueufhIdbW4yu9uODG) | [Black British](https://open.spotify.com/album/4jdpV7FhHIp2BlesVDerOX) | 4:18 |
 | 89 | [Summer Rain](https://open.spotify.com/track/120IwM7Fphs0xDVB1dJwHI) | [New Visionaries](https://open.spotify.com/artist/5pvHbI6qzYIs3bAo7vbwI7), [Hannah Williams](https://open.spotify.com/artist/0unydCSm9ARiINdrNqugDg) | [Summer Rain](https://open.spotify.com/album/1s405pBcZpbub94RFYbUqo) | 3:49 |
 | 90 | [Come On In \(Les Imprimés Remix\)](https://open.spotify.com/track/4awcSEDK2xQ825DR2Y26NQ) | [Lady Wray](https://open.spotify.com/artist/1plioVQ0mcgAO7uhvWkJJy), [Les Imprimés](https://open.spotify.com/artist/6pCq758EGVhfbiUIeuHTcf) | [Come On In \(Les Imprimés Remix\)](https://open.spotify.com/album/6wem9J2FHsKRb4Ed299Wwq) | 2:54 |
-| 91 | [Chanel Pit](https://open.spotify.com/track/5kB1yLY4eLZB3htcq3LuZn) | [Tierra Whack](https://open.spotify.com/artist/4lPl9gqgox3JDiaJ1yklKh) | [Chanel Pit](https://open.spotify.com/album/5eyIsZJw0Bb4VGi65JflHE) | 2:48 |
+| 91 | [CHANEL PIT](https://open.spotify.com/track/5kB1yLY4eLZB3htcq3LuZn) | [Tierra Whack](https://open.spotify.com/artist/4lPl9gqgox3JDiaJ1yklKh) | [Chanel Pit](https://open.spotify.com/album/5eyIsZJw0Bb4VGi65JflHE) | 2:48 |
 | 92 | [No Commando](https://open.spotify.com/track/7k9RXH0floRxjik9h6IXSy) | [Onipa](https://open.spotify.com/artist/3M4siMIW7Pm9cT4jb1oNb5), [David Walters](https://open.spotify.com/artist/2ewpXb8jCBlsBscjDCcAG7) | [No Commando](https://open.spotify.com/album/1HBtCYXwFioCpmIMxsHJR6) | 3:49 |
 | 93 | [The aisle](https://open.spotify.com/track/6SjxVgMjH3b3AI4wVviZfi) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [Heaven knows](https://open.spotify.com/album/2pOEFqvfxp5uUQ8vQEmVA0) | 2:45 |
 | 94 | [Y.B.P\. \(feat\. Bruiser Wolf\)](https://open.spotify.com/track/5BQHxZ7dOoyS2Vh9X02ows) | [Danny Brown](https://open.spotify.com/artist/7aA592KWirLsnfb5ulGWvU), [Bruiser Wolf](https://open.spotify.com/artist/2WWAtobfGkojaSqMRN5V67) | [Quaranta](https://open.spotify.com/album/2aswMmRN4vXGalI39pDsMb) | 2:56 |

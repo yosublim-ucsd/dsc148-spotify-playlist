@@ -1,5 +1,5 @@
 {
-  "2024-03-21": 498891,
+  "2024-03-22": 498905,
   "date_first_scraped": "2022-04-20",
   "description": "The best in house music",
   "name": "House Supreme",
@@ -169,7 +169,7 @@
       ],
       "date_added": "2024-02-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-21",
       "duration_ms": 220487,
       "name": "Alga",
       "url": "https://open.spotify.com/track/2dChA7F5PZDbAONcHnJoZR"
@@ -801,7 +801,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-27",
+      "date_removed": null,
       "duration_ms": 175748,
       "name": "Better Take That",
       "url": "https://open.spotify.com/track/6x4lOp1oRmtfFgQIIw2ipY"
@@ -827,6 +827,28 @@
       "duration_ms": 186562,
       "name": "Better World",
       "url": "https://open.spotify.com/track/6OcuhfJvy3rZZIaLeDxlcW"
+    },
+    {
+      "album": {
+        "name": "Body (Gregor Salto Remix)",
+        "url": "https://open.spotify.com/album/4FrMzKdZ0B5hWS3gcEg21q"
+      },
+      "artists": [
+        {
+          "name": "mokina",
+          "url": "https://open.spotify.com/artist/6TnOtn1qYytprdSpG4kYCc"
+        },
+        {
+          "name": "Gregor Salto",
+          "url": "https://open.spotify.com/artist/0l59CBSPDfKBXlyHya0pew"
+        }
+      ],
+      "date_added": "2024-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257760,
+      "name": "Body - Gregor Salto Remix",
+      "url": "https://open.spotify.com/track/6HJBwWb1wB1luXYqRifGXc"
     },
     {
       "album": {
@@ -995,6 +1017,24 @@
       "duration_ms": 157440,
       "name": "Bring The Heat",
       "url": "https://open.spotify.com/track/6jWloOddI8GE5qZXu7sir9"
+    },
+    {
+      "album": {
+        "name": "H2O",
+        "url": "https://open.spotify.com/album/3NnIy6ztlNs1iSoRFOCEH2"
+      },
+      "artists": [
+        {
+          "name": "Relmer",
+          "url": "https://open.spotify.com/artist/2hxnHvKjsAHCGzsXTCKuvy"
+        }
+      ],
+      "date_added": "2024-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291054,
+      "name": "Bummer Paradise",
+      "url": "https://open.spotify.com/track/5qw3cMMFW1RQnUJgrlnJ6w"
     },
     {
       "album": {
@@ -2169,7 +2209,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-21",
       "duration_ms": 188201,
       "name": "Feel This Way - andhim Remix",
       "url": "https://open.spotify.com/track/7cNaS3EG9wM8QGfJ7n4Upp"
@@ -2349,7 +2389,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-21",
       "duration_ms": 188920,
       "name": "Freedom (You Bring Me)",
       "url": "https://open.spotify.com/track/2I0EV5B4RgDQPcSuDGzz2N"
@@ -2484,6 +2524,24 @@
     },
     {
       "album": {
+        "name": "Tell Me EP",
+        "url": "https://open.spotify.com/album/0CcIISxMUzNAGCnCWOwSQI"
+      },
+      "artists": [
+        {
+          "name": "gome",
+          "url": "https://open.spotify.com/artist/2kXp8r42AOwb6s5GzdiukU"
+        }
+      ],
+      "date_added": "2024-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243170,
+      "name": "Get My Love",
+      "url": "https://open.spotify.com/track/0RcVDtRuwn6Z2yvj2wQrol"
+    },
+    {
+      "album": {
         "name": "Get On Out",
         "url": "https://open.spotify.com/album/7AHZAKEbSfL7HlM8RZwGGU"
       },
@@ -2495,7 +2553,7 @@
       ],
       "date_added": "2022-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-21",
       "duration_ms": 178911,
       "name": "Get On Out",
       "url": "https://open.spotify.com/track/5VCogJESrsrOsX2yejotIb"
@@ -2733,7 +2791,7 @@
       ],
       "date_added": "2022-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-21",
       "duration_ms": 204651,
       "name": "Harder (Shermanology Remix) - Radio Edit",
       "url": "https://open.spotify.com/track/2ZhZ76JnLYcjFmcExTdxNF"
@@ -3049,7 +3107,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-21",
       "duration_ms": 208355,
       "name": "Hold U (feat. James Tone)",
       "url": "https://open.spotify.com/track/77iqZEJZEMZLt07rtpAnUw"
@@ -3213,10 +3271,32 @@
       ],
       "date_added": "2022-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-21",
       "duration_ms": 129375,
       "name": "Hungry (For Love)",
       "url": "https://open.spotify.com/track/4Uz7te06snSlkmcIwwAvkw"
+    },
+    {
+      "album": {
+        "name": "Hustle Tribes",
+        "url": "https://open.spotify.com/album/1xJJz5aiRq2ce5HquR5DIn"
+      },
+      "artists": [
+        {
+          "name": "Dave Mayer",
+          "url": "https://open.spotify.com/artist/0WCGrh6RDVagRm473Iwlan"
+        },
+        {
+          "name": "Deeplomatik",
+          "url": "https://open.spotify.com/artist/2RBiRrMFQjr0A34HQ5RbHz"
+        }
+      ],
+      "date_added": "2024-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 351500,
+      "name": "Hustle Tribes - Extended Mix",
+      "url": "https://open.spotify.com/track/0vkPmAU44d2I8Uel8zQ5dT"
     },
     {
       "album": {
@@ -3359,7 +3439,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-21",
       "duration_ms": 282580,
       "name": "In My Soul",
       "url": "https://open.spotify.com/track/1JlBLihKGyUccTPallnKj6"
@@ -3437,7 +3517,7 @@
       ],
       "date_added": "2024-02-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-21",
       "duration_ms": 192239,
       "name": "Innadadance (feat. Suli Breaks & Jazzie B) (Claptone Remix) (Edit)",
       "url": "https://open.spotify.com/track/518ON7bjqdG4VKbceNU8je"
@@ -3533,7 +3613,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-21",
       "duration_ms": 210181,
       "name": "It's Alright",
       "url": "https://open.spotify.com/track/047Lim5SzFPOH5oxXxEgFy"
@@ -4261,7 +4341,7 @@
       ],
       "date_added": "2022-05-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-15",
+      "date_removed": null,
       "duration_ms": 171290,
       "name": "Lost & Found",
       "url": "https://open.spotify.com/track/4qtqzgsb0zUGRLx3Vd6MLk"
@@ -5149,7 +5229,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-21",
       "duration_ms": 220161,
       "name": "Not for Me",
       "url": "https://open.spotify.com/track/6wPA0m2bjRpXIUuKjbHjzF"
@@ -5259,7 +5339,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-21",
       "duration_ms": 344577,
       "name": "Offenbach Anthem",
       "url": "https://open.spotify.com/track/64HEmeFcnMSiBMLbfah3yx"
@@ -5361,7 +5441,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-21",
       "duration_ms": 312000,
       "name": "On Da Groove",
       "url": "https://open.spotify.com/track/3jotybhgTZeCqXFMqzfInI"
@@ -5477,7 +5557,7 @@
       ],
       "date_added": "2022-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-21",
       "duration_ms": 216774,
       "name": "Organ (DJ-Kicks) - Edit",
       "url": "https://open.spotify.com/track/0NPDoArWeGDBcGzO5m7g4t"
@@ -5927,7 +6007,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-21",
       "duration_ms": 410500,
       "name": "Reasons",
       "url": "https://open.spotify.com/track/1pMvhKoPZUS2GGsXHWv4C7"
@@ -6019,7 +6099,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-21",
       "duration_ms": 180223,
       "name": "Release Me (feat. Rationale) - Jess Bays Remix",
       "url": "https://open.spotify.com/track/6stPuBpZMA4zqgAHOFNEzC"
@@ -6041,7 +6121,7 @@
       ],
       "date_added": "2022-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-21",
       "duration_ms": 159571,
       "name": "Rescue",
       "url": "https://open.spotify.com/track/2xNLma1p2hPU1lqLYWEgiG"
@@ -6513,7 +6593,7 @@
       ],
       "date_added": "2022-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-21",
       "duration_ms": 216000,
       "name": "So Fine",
       "url": "https://open.spotify.com/track/14qkKbAfG7tYYrgtlZXZFr"
@@ -6575,7 +6655,7 @@
       ],
       "date_added": "2022-08-25",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-19",
+      "date_removed": null,
       "duration_ms": 234007,
       "name": "So High",
       "url": "https://open.spotify.com/track/2eMLeXpn6gnx7EaDkcDnkS"
@@ -6717,7 +6797,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-21",
       "duration_ms": 218880,
       "name": "Spiritual Thing",
       "url": "https://open.spotify.com/track/4FvJTqvTXr0e4reHF6CKH8"
@@ -6845,7 +6925,7 @@
       ],
       "date_added": "2023-06-08",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-24",
+      "date_removed": null,
       "duration_ms": 350443,
       "name": "Strobe Queen - Eric Kupper Remix",
       "url": "https://open.spotify.com/track/2S5MuGkMZl3KmBa1PCqFqP"
@@ -6943,7 +7023,7 @@
       ],
       "date_added": "2022-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-21",
       "duration_ms": 281824,
       "name": "Sunset Jam",
       "url": "https://open.spotify.com/track/4P5PgzROl9jfv7mHTjS2MM"
@@ -7045,7 +7125,7 @@
       ],
       "date_added": "2022-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-17",
+      "date_removed": null,
       "duration_ms": 160379,
       "name": "Take You High",
       "url": "https://open.spotify.com/track/69yTqNKtr2rdtpEMcc5hqK"
@@ -7085,7 +7165,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-21",
       "duration_ms": 190080,
       "name": "Talamanca - Vintage Culture Remix",
       "url": "https://open.spotify.com/track/1NnRhSfvmyJNSxtR9rGxlX"
@@ -7121,7 +7201,7 @@
       ],
       "date_added": "2022-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-21",
       "duration_ms": 391961,
       "name": "TALI",
       "url": "https://open.spotify.com/track/5wkTldxaE77e8W5zZW8fR5"
@@ -7349,7 +7429,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-21",
       "duration_ms": 146675,
       "name": "The Reason",
       "url": "https://open.spotify.com/track/1mMjjYg5ig6kC9LGWx9G54"
@@ -7644,6 +7724,32 @@
     },
     {
       "album": {
+        "name": "Underground Is My Home (Remixes)",
+        "url": "https://open.spotify.com/album/2DpgFLoVgAu9McgyeZQeY5"
+      },
+      "artists": [
+        {
+          "name": "Dennis Ferrer",
+          "url": "https://open.spotify.com/artist/0MGTHZpAGf7isSfw8yMIoi"
+        },
+        {
+          "name": "Tyrone Ellis",
+          "url": "https://open.spotify.com/artist/5FHBSx3jc1kM55Un6eUfSl"
+        },
+        {
+          "name": "Crazibiza",
+          "url": "https://open.spotify.com/artist/7gLis8CQkAQ7fJJNTWQNU1"
+        }
+      ],
+      "date_added": "2024-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 360960,
+      "name": "Underground Is My Home - Crazibiza Extended Remix",
+      "url": "https://open.spotify.com/track/7sHc06j8kOJyTrL93zqBHn"
+    },
+    {
+      "album": {
         "name": "Underground Is My Home (Remix)",
         "url": "https://open.spotify.com/album/1qHrzuLwX9ip1sNSkcjgW9"
       },
@@ -7711,7 +7817,7 @@
       ],
       "date_added": "2023-03-23",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-18",
+      "date_removed": null,
       "duration_ms": 191612,
       "name": "Vibration",
       "url": "https://open.spotify.com/track/0wABUVUuhfAmhBzoNBmeWl"
@@ -8001,7 +8107,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-05",
+      "date_removed": null,
       "duration_ms": 247500,
       "name": "What You Gonna Do",
       "url": "https://open.spotify.com/track/2e8DHrgHFGnaJ7rjLeVqbr"
@@ -8257,7 +8363,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-21",
       "duration_ms": 158685,
       "name": "You Are My Life - Chambray Remix",
       "url": "https://open.spotify.com/track/4FBYJVSbojmT5wbC1EQA0F"

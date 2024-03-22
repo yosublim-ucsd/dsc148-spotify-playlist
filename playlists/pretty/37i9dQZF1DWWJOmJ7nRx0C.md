@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWJOmJ7nRx0C.md) - [plain]
 
 > rock hits, turned up ⬆️ Cover: Bon Jovi
 
-[Spotify](https://open.spotify.com/user/spotify) - 933,468 likes - 75 songs - 4 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 933,523 likes - 75 songs - 4 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWJOmJ7nRx0C.md) - [plain]
 | 74 | [READY ROCK](https://open.spotify.com/track/6j2OrgBeuEa8NdVHXk78FS) | [FEVER 333](https://open.spotify.com/artist/1B0155rdv175D1tQ8VH7Oy) | [READY ROCK](https://open.spotify.com/album/17a1MLeP2CGHvkPRuBQRLs) | 2:46 |
 | 75 | [I Still Believe](https://open.spotify.com/track/1atc0z1xkg02bSjkfkpOUv) | [New Years Day](https://open.spotify.com/artist/7IEyUxk8jyEVz9Zm9H8bfg) | [I Still Believe](https://open.spotify.com/album/5yK0LHapGQcaUFeyKkjfZG) | 2:54 |
 
-Snapshot ID: `MCxjOTE0NzQyZGZiN2Q2Y2UwYTIxY2Q0OGZkMzdiYzBiMjljZDIwZjky`
+Snapshot ID: `MCxmZTJhNmIzYTQ4MGIzZGY2OWU4ZWM2YTE0MDc1Yzc0NzJkMDc2MTkx`

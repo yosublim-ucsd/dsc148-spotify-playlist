@@ -2,9 +2,9 @@
 
 ### [Fresh Finds Thailand](https://open.spotify.com/playlist/37i9dQZF1DWSLboKmA6wlS)
 
-> ผลงานจากศิลปินรุ่นใหม่ เพลงดีที่น่าลองฟัง อัพเดตทุกสัปดาห์!\. ศิลปิน: Earthlollipop\. Artwork: Isu Kim
+> ผลงานจากศิลปินรุ่นใหม่ เพลงดีที่น่าลองฟัง อัพเดตทุกสัปดาห์!\. ศิลปิน: DICE\. Artwork: Isu Kim
 
-1,099 songs - 2 day 21 hr 58 min
+1,101 songs - 2 day 22 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -137,6 +137,7 @@
 | [MISSING](https://open.spotify.com/track/5ePJoCOFS3BDKWuVxtdEQw) | [SOBBOY](https://open.spotify.com/artist/2GUEPge6Xp2rqQgsfKhbkj) | [MISSING](https://open.spotify.com/album/3pOE8f1BpBRq1o2haLFL83) | 3:15 | 2023-07-14 | 2023-08-26 |
 | [missing](https://open.spotify.com/track/1ERNEpgG9GpiPYvvKmLVNa) | [The KYLE](https://open.spotify.com/artist/0IQ0dKIOfKs1h7nIDcKBuW) | [missing](https://open.spotify.com/album/0r0YG4wMRP7XJZVTmseHHq) | 4:00 | 2023-03-17 | 2023-03-25 |
 | [Moment](https://open.spotify.com/track/7ydLsi7aomfzX8PxUWJlop) | [Pang Pattanan](https://open.spotify.com/artist/7FJwwIfLOAubzcHBReSN1b) | [Moment](https://open.spotify.com/album/4AYMuVkBtHgQnELvbddzc1) | 3:21 | 2022-11-18 | 2022-12-02 |
+| [Mona Lisa](https://open.spotify.com/track/3H4k0YdtIxrZVORbW57wtp) | [DICE](https://open.spotify.com/artist/4TowSWXul9J5jxTyntRJEv) | [Mona Lisa](https://open.spotify.com/album/69xnGRhLkV3mQcV30IEWMn) | 3:49 | 2024-03-21 |  |
 | [Monday Morning](https://open.spotify.com/track/1z715e7Mp6Arvfbt9zoUmB) | [BABY ROCKY](https://open.spotify.com/artist/3ANMzDN6QHTKp9yr6eYxDX), [Super G](https://open.spotify.com/artist/5T4DCz8epmlqu0jtFtqS51) | [Monday Morning](https://open.spotify.com/album/0ekQklSvXFdIqrI4T2vOJi) | 2:50 | 2022-10-28 | 2022-11-05 |
 | [MOON \(feat\. 2K\)](https://open.spotify.com/track/4emTskDUgYt02ofGklCTPL) | [xoon](https://open.spotify.com/artist/4GO4xplwDd8XH3MKhqhSWD), [2K](https://open.spotify.com/artist/7w08uJNZmg9HTsS6XeHX9E) | [MOON \(feat\. 2K\)](https://open.spotify.com/album/5Ezt3x9yQo9uJhtlA6ELJ4) | 2:44 | 2023-11-17 | 2024-02-03 |
 | [MOVE ON](https://open.spotify.com/track/7MCxpKkrHRCN8KyWjHsgam) | [DEANNYBOY](https://open.spotify.com/artist/7brS19o7RcUgpybF3ma0nD) | [MOVE ON](https://open.spotify.com/album/6cLoByFeTtpxeutTICcr5o) | 3:24 | 2023-06-30 | 2023-07-29 |
@@ -234,7 +235,7 @@
 | [กราบ](https://open.spotify.com/track/7h5uC1kL7ZYjz6lZDVJbRJ) | [Onrawan](https://open.spotify.com/artist/7wIzWCDqRTV6H0sw6P8C5O) | [กราบ](https://open.spotify.com/album/1TnNhzYwGElsolvXATiYzo) | 3:19 | 2023-06-16 | 2023-06-24 |
 | [กริบ](https://open.spotify.com/track/5y58IBc829NjHkSJ9nVFhk) | [Mellowmotion](https://open.spotify.com/artist/6oMTaPXFw1kdUHQvlfFgck) | [กริบ](https://open.spotify.com/album/5Wxovh57nTyODrogHUQ3V9) | 3:37 | 2022-11-04 | 2022-11-12 |
 | [กลับบ้าน \(Our home\)](https://open.spotify.com/track/2bv3z4gTam4RcFwdVO372F) | [A Little Bit High](https://open.spotify.com/artist/74m7Gc5TJuJ7IBAHjxDqzt) | [กลับบ้าน \(Our home\)](https://open.spotify.com/album/7329ETXvzGqHJzi9i7aWOJ) | 3:20 | 2022-09-15 | 2022-10-29 |
-| [กลับมารักษาตัวเอง](https://open.spotify.com/track/26tevjqAII2tagsDviMxUp) | [CHERIEPITT](https://open.spotify.com/artist/5eZF1tajZP7O5oGiAboTMT) | [กลับมารักษาตัวเอง](https://open.spotify.com/album/2S4NccQRvzxEskP8JMRVqT) | 4:52 | 2024-03-15 |  |
+| [กลับมารักษาตัวเอง](https://open.spotify.com/track/26tevjqAII2tagsDviMxUp) | [CHERIEPITT](https://open.spotify.com/artist/5eZF1tajZP7O5oGiAboTMT) | [กลับมารักษาตัวเอง](https://open.spotify.com/album/2S4NccQRvzxEskP8JMRVqT) | 4:52 | 2024-03-15 | 2024-03-22 |
 | [กลับมาได้มั้ย](https://open.spotify.com/track/0jMwUDQ6b1FUDRkMS8aNT0) | [ArmAroy](https://open.spotify.com/artist/1Cu0qTQtZrYk1tAeJ4pnHU) | [กลับมาได้มั้ย](https://open.spotify.com/album/2HSk3jD6spqIOrYAQKgfNb) | 3:58 | 2023-04-06 | 2023-05-25 |
 | [กลัวเธอหายไป](https://open.spotify.com/track/2QzzwUgjIiWCSJx9QGqBWD) | [Yes Indeed](https://open.spotify.com/artist/53LIIJFYjMhsfG0AM4Q8Dx) | [กลัวเธอหายไป \- Single](https://open.spotify.com/album/4MZor8tDYf5YD8V3caT35C) | 4:17 | 2023-11-10 | 2023-11-18 |
 | [กลางใจไกลจัง](https://open.spotify.com/track/5PKwTBCeHagBke9WP4F6X9) | [Miteennn](https://open.spotify.com/artist/17BqlKtHAQ6D6CnRKmpyG3) | [กลางใจไกลจัง](https://open.spotify.com/album/7j4BfqLpnYhARG7K4JVPNW) | 3:23 | 2023-05-19 | 2023-06-10 |
@@ -474,7 +475,7 @@
 | [ต้องพูดกี่ครั้งถึงเข้าใจ \(Enough\)](https://open.spotify.com/track/0wuWRy2PZdxqCr4IQ7wIlX) | [TITI Nichaphat](https://open.spotify.com/artist/5Xj4vMbStZeK3ONLGuug9N) | [ต้องพูดกี่ครั้งถึงเข้าใจ \(Enough\)](https://open.spotify.com/album/5LNdWiaz09uwlSp3P5EosW) | 3:22 | 2024-02-16 | 2024-02-24 |
 | [ต้องใจร้าย](https://open.spotify.com/track/6gHww8xInZZo5DDlhyc3hG) | [Yellow Mellow](https://open.spotify.com/artist/2oPqJUSdaQWgPscSR68xbV) | [ต้องใจร้าย](https://open.spotify.com/album/7sLw2QZEVaKuIicLIlNI6T) | 4:23 | 2023-05-05 | 2023-05-27 |
 | [ถามมาตอบไป \(Please\)](https://open.spotify.com/track/4eFUpjqkKgM69UG7aVsBGf) | [bluemarlin](https://open.spotify.com/artist/17m2Fu9gye7fkcSjtVEdPr) | [ถามมาตอบไป \(Please\)](https://open.spotify.com/album/5WLouPhNmlVEA1W9dHDSPp) | 3:34 | 2023-11-24 | 2024-01-13 |
-| [ถ้วยทอง](https://open.spotify.com/track/641qoTz3zpc2OrWjxkFAkr) | [Wallrollers](https://open.spotify.com/artist/7j8tTCWFxwsWMMSyB1Z0A6) | [ถ้วยทอง \- Single](https://open.spotify.com/album/347joX4q48n4LnwJPMD73f) | 3:09 | 2023-09-01 |  |
+| [ถ้วยทอง](https://open.spotify.com/track/641qoTz3zpc2OrWjxkFAkr) | [Wallrollers](https://open.spotify.com/artist/7j8tTCWFxwsWMMSyB1Z0A6) | [ถ้วยทอง \- Single](https://open.spotify.com/album/347joX4q48n4LnwJPMD73f) | 3:09 | 2023-09-01 | 2024-03-22 |
 | [ถ้าฉันยังไม่มีใคร](https://open.spotify.com/track/6Fro2jgWgnguphdvVXu2MY) | [Charles](https://open.spotify.com/artist/7FBbTpO78OVD5XQZR7S8SE) | [ถ้าฉันยังไม่มีใคร](https://open.spotify.com/album/5QMArWBTnrVyekMylQF6Ys) | 4:59 | 2022-09-15 | 2022-10-08 |
 | [ถ้าฉันรวย](https://open.spotify.com/track/6ureziCm5RHjDAeuY84fDl) | [NONNY9](https://open.spotify.com/artist/3iOF8kiG0peRzcvbFSa9xS) | [ถ้าฉันรวย](https://open.spotify.com/album/60HVEpGvHjyTnPzgwtx667) | 3:20 | 2023-01-20 | 2023-02-03 |
 | [ถ้าชอบก็ร้องตาม](https://open.spotify.com/track/5PHP3g2kfurOVGapW4Tt0D) | [CHAY4](https://open.spotify.com/artist/3JxK4TIcF2pvnWVdnGdfwS), [HANDXPOND](https://open.spotify.com/artist/2bJfb4a8KZyW3aHzeA1kOq), [ATLAS](https://open.spotify.com/artist/17070hNYFb4EIIS2X9IUby) | [ถ้าชอบก็ร้องตาม](https://open.spotify.com/album/1pnxBnlCXsgcDMQn0UBlIX) | 3:26 | 2023-02-02 | 2023-04-29 |
@@ -752,6 +753,7 @@
 | [หนี \(Loop\)](https://open.spotify.com/track/4xaJjjrfxt4O2hBk2myOox) | [โจรลอยนวล](https://open.spotify.com/artist/2oxT3Hiw7Oi2JUUwhUCuuG) | [หนี \(Loop\)](https://open.spotify.com/album/4dtbxhuj3kcWf0ADdrNI1w) | 4:38 | 2023-03-31 | 2023-05-06 |
 | [หนี \(run again\)](https://open.spotify.com/track/13GHCppwVLxFsNZKu0bcjh) | [Story and Feel.](https://open.spotify.com/artist/3LhfrnpxivRln0UZrwptBe) | [หนี](https://open.spotify.com/album/1EwGe8ID4l7iEG95HPwCCG) | 4:48 | 2023-02-24 | 2023-03-18 |
 | [หนีรักไปพักร้อน](https://open.spotify.com/track/1Gqlyxx96IFFKZjfE1HFf4) | [Wung Wine](https://open.spotify.com/artist/7vpuegvwnM6LhgoLvLUOTX) | [Out of the Bottle](https://open.spotify.com/album/1j5TT2UggUZN1oiZCVILjw) | 3:39 | 2023-06-30 | 2023-10-21 |
+| [หนูพูดได้มั้ย \(ความลับนางฟ้า\)](https://open.spotify.com/track/04tc4y3Vu0domLGik3OB0J) | [DARUNI](https://open.spotify.com/artist/5q7wcapXkAxngb2JWlrQjO) | [หนูพูดได้มั้ย \(ความลับนางฟ้า\)](https://open.spotify.com/album/4mqaKGoinMB6yViGtlAo4O) | 3:52 | 2024-03-21 |  |
 | [หน้านี้กี่แอป](https://open.spotify.com/track/4A5GmHJIWDfIfYiCBpfI8J) | [Narkidz](https://open.spotify.com/artist/3BcxVQSmENL40Y27gjdLF1) | [หน้านี้กี่แอป](https://open.spotify.com/album/0UWZKRhe8FtFm0K4QBRJ1l) | 2:43 | 2022-10-21 | 2022-10-29 |
 | [หน้าลอย](https://open.spotify.com/track/0bAMapGlrI1nboX8ElOG3B) | [Eii](https://open.spotify.com/artist/5h54QyLLogzDdILNxjV8Z3) | [หน้าลอย](https://open.spotify.com/album/7aDNAta8hHheC74wkkdMjR) | 3:24 | 2023-03-24 | 2023-05-13 |
 | [หน้าเสาธง](https://open.spotify.com/track/6XlAdewebLOkIlyed6B1uv) | [NONNY9](https://open.spotify.com/artist/3iOF8kiG0peRzcvbFSa9xS) | [หน้าเสาธง](https://open.spotify.com/album/3SD844wTuQb02kQtsbtVxV) | 3:13 | 2023-06-23 | 2023-07-01 |

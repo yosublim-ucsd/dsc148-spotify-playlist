@@ -1,12 +1,12 @@
 {
   "description": "\u2728\u2764\ufe0f\ud83c\udf39",
-  "num_followers": 129403,
+  "num_followers": 129462,
   "original_name": "Brillas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1NmI2YTQzODkxMzFlOWNmNzJjNTA3NjA5ODZhOWU3Yjc2MzUxZWEx",
+  "snapshot_id": "MCxhMzhiYzVkMmQzYWFkM2Y5YzYzMzkwMTQ2ZGYyNDYzMDVmOGM3MmZh",
   "tracks": [
     {
       "added_at": "2024-03-04 16:26:39",
@@ -395,6 +395,26 @@
       "duration_ms": 231626,
       "name": "Rue Vieille Du Temple",
       "url": "https://open.spotify.com/track/4ViWSkl1it95PjoGn1VkHG"
+    },
+    {
+      "added_at": "2024-03-21 23:06:56",
+      "album": {
+        "name": "Noches De Verano",
+        "url": "https://open.spotify.com/album/1ktGnE8t1PSzCRELZJTChF"
+      },
+      "artists": [
+        {
+          "name": "Esteman",
+          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
+        },
+        {
+          "name": "Villano Antillano",
+          "url": "https://open.spotify.com/artist/1pi7nGhOM7PTHR5YEgXVGq"
+        }
+      ],
+      "duration_ms": 186613,
+      "name": "Noches De Verano",
+      "url": "https://open.spotify.com/track/5LgasjuMHee4NZ4LsoaOh0"
     },
     {
       "added_at": "2024-03-04 16:26:39",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaaU1AaHpZeu.md) - [plain]
 
 > Nuevos hallazgos de música indie latina\. Noa Sainz en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 290,634 likes - 83 songs - 4 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 290,644 likes - 83 songs - 4 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -87,9 +87,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaaU1AaHpZeu.md) - [plain]
 | 77 | [hecha de espejos](https://open.spotify.com/track/3rEskVtB8eC3nQYHsn0pC5) | [ANADIE](https://open.spotify.com/artist/4fQlbLtVsxTde62HZJH2xs), [Kfé](https://open.spotify.com/artist/21Oja0BVOrXu4kGqK8MfDF) | [Efectos secundarios de ser un ángel](https://open.spotify.com/album/197qQIK6ubXEjjkdxR4lj0) | 3:38 |
 | 78 | [NASCAR](https://open.spotify.com/track/5ojVKWaUQnatbGm13voZ7D) | [agosto](https://open.spotify.com/artist/0WSxxeaRyEijDqsE2TziXK) | [NASCAR](https://open.spotify.com/album/0VOT9FadNMDzL2Cs9njIGu) | 3:08 |
 | 79 | [Harta de ver llover](https://open.spotify.com/track/4QB6J2rCRA7EFN3NWK8kCJ) | [Vera Noor](https://open.spotify.com/artist/1nirixcK3111OAkn0b4V7F) | [Harta de ver llover](https://open.spotify.com/album/0LjeOnpOdJdFUeuliDEm4Z) | 2:42 |
-| 80 | [Souvenir \- Pt\. 1](https://open.spotify.com/track/3D7rpYcDzVVTu6bN7is1Ga) | [Piel Camaleón](https://open.spotify.com/artist/1cfJThcgMhg9IU5kYVhUbq) | [Souvenir](https://open.spotify.com/album/4Gs5BxNDabBlz281OcxFYO) | 2:11 |
+| 80 | [Souvenir, Pt\. 1](https://open.spotify.com/track/3D7rpYcDzVVTu6bN7is1Ga) | [Piel Camaleón](https://open.spotify.com/artist/1cfJThcgMhg9IU5kYVhUbq) | [Souvenir](https://open.spotify.com/album/4Gs5BxNDabBlz281OcxFYO) | 2:11 |
 | 81 | [Sola](https://open.spotify.com/track/2RJH45gf8JIMswhYCLcgHK) | [Mayra Sánchez](https://open.spotify.com/artist/15G6Ay5IOV6z7Sw2bpCQWv), [RI](https://open.spotify.com/artist/31zcVceg6CBFwo6jiVO3MU) | [Sola](https://open.spotify.com/album/1YxzQ8nW8hu2g0nvyx6yYA) | 2:17 |
 | 82 | [BRASS](https://open.spotify.com/track/4vgN1Rbx7kv32HCCpvpvFb) | [Make Mama Proud](https://open.spotify.com/artist/5szSyl9vXGIHY6Ln8K14UI) | [Brass](https://open.spotify.com/album/24Ptvugk5Tn6EkLvdnjsdy) | 3:57 |
 | 83 | [OTRA VEZ CASUALIDAD](https://open.spotify.com/track/1aoTb7gh2k9Bi1mDGQbJq1) | [cata rec](https://open.spotify.com/artist/6FuVz60JBS0jAVEpDzdY2A) | [OTRA VEZ CASUALIDAD](https://open.spotify.com/album/0E6bwR3roTh3n6QBjF9LF2) | 3:48 |
 
-Snapshot ID: `MCxhYjI4NjJiMjA1ZjNmYzE0M2YxMjczMjY1OTEzNGJlODQ1ODFmMjUw`
+Snapshot ID: `MCwzOTVmYTE0MjA2NjU1Y2Q1Y2MxOTgwYThiZWFhZjc1ZGMxODVlMTBh`

@@ -3969,6 +3969,24 @@
     },
     {
       "album": {
+        "name": "Things I Never Said",
+        "url": "https://open.spotify.com/album/69zXuBI5Qs9pSnmZxT7pTo"
+      },
+      "artists": [
+        {
+          "name": "Majo",
+          "url": "https://open.spotify.com/artist/3bFHx7H43rnf5GzOWnqwdf"
+        }
+      ],
+      "date_added": "2024-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170750,
+      "name": "Wake Up",
+      "url": "https://open.spotify.com/track/64xjFRx6I7JL2IMOxpQFqK"
+    },
+    {
+      "album": {
         "name": "AUTUMN BOON",
         "url": "https://open.spotify.com/album/24Gu4tv2kH4rtNc795TNYF"
       },

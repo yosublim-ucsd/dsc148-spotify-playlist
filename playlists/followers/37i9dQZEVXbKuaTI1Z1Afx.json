@@ -1,5 +1,5 @@
 {
-  "2024-03-21": 366086,
+  "2024-03-22": 366075,
   "date_first_scraped": "2021-12-28",
   "description": "Your daily update of the most viral tracks right now - USA.",
   "name": "Viral 50 - USA",
@@ -17710,6 +17710,24 @@
     },
     {
       "album": {
+        "name": "Harvest (50th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/2LOpi63tYGh0Suy8eLJDVQ"
+      },
+      "artists": [
+        {
+          "name": "Neil Young",
+          "url": "https://open.spotify.com/artist/6v8FB84lnmJs434UJf2Mrm"
+        }
+      ],
+      "date_added": "2024-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187110,
+      "name": "Heart of Gold",
+      "url": "https://open.spotify.com/track/26QKxvjlCo2fSd3T4c8Zpb"
+    },
+    {
+      "album": {
         "name": "Heart Racing",
         "url": "https://open.spotify.com/album/11RjYIgoAoNjAYnCkLYidJ"
       },
@@ -17795,6 +17813,28 @@
       "duration_ms": 198040,
       "name": "Heather",
       "url": "https://open.spotify.com/track/4xqrdfXkTW4T0RauPLv3WA"
+    },
+    {
+      "album": {
+        "name": "Heather",
+        "url": "https://open.spotify.com/album/28A7mqiiqOAgda8oy5rJxN"
+      },
+      "artists": [
+        {
+          "name": "overthxnk",
+          "url": "https://open.spotify.com/artist/2wMrMnimoHzZoZ5e0BCrZ3"
+        },
+        {
+          "name": "gr_phs",
+          "url": "https://open.spotify.com/artist/4gaFoA5CXTr18ozwKfopSk"
+        }
+      ],
+      "date_added": "2024-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115422,
+      "name": "Heather",
+      "url": "https://open.spotify.com/track/0N0FqyIrtJZx1vuPOzC0eN"
     },
     {
       "album": {
@@ -36157,7 +36197,7 @@
       ],
       "date_added": "2024-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-21",
       "duration_ms": 186191,
       "name": "Saturn",
       "url": "https://open.spotify.com/track/1bjeWoagtHmUKputLVyDxQ"

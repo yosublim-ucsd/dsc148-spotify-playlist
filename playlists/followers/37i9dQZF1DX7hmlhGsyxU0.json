@@ -1,5 +1,5 @@
 {
-  "2024-03-21": 160722,
+  "2024-03-22": 160798,
   "date_first_scraped": "2022-04-20",
   "description": "Strings and pianos to accompany your latest great read.",
   "name": "Instrumental Reading",
@@ -2303,10 +2303,28 @@
       ],
       "date_added": "2022-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-21",
       "duration_ms": 186000,
       "name": "Procyon",
       "url": "https://open.spotify.com/track/1yzKGJupThHxhezhxAgkEy"
+    },
+    {
+      "album": {
+        "name": "Altair",
+        "url": "https://open.spotify.com/album/26LhooOyV1xLfqTZxkqSkB"
+      },
+      "artists": [
+        {
+          "name": "Sebastian Zawadzki",
+          "url": "https://open.spotify.com/artist/5UYaW3kkkyj483LiCOleBH"
+        }
+      ],
+      "date_added": "2023-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186000,
+      "name": "Procyon",
+      "url": "https://open.spotify.com/track/2dURcygV26MUOQuztCjBwX"
     },
     {
       "album": {

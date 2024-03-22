@@ -1,5 +1,5 @@
 {
-  "2024-03-21": 858251,
+  "2024-03-22": 858252,
   "date_first_scraped": "2021-12-28",
   "description": "Let's party & clubbing with your favorite K-pop dance hits!! (Cover: \bLE SSERAFIM) [\uc9c0\uae08 \uac00\uc7a5 \ud56b\ud55c \ub304\uc2a4\uace1\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694.]",
   "name": "K-Club Party",
@@ -4839,7 +4839,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-21",
       "duration_ms": 179393,
       "name": "GOOD VIBES",
       "url": "https://open.spotify.com/track/2MpJ3KdQiwCw5NOIs5j0Rg"
@@ -11725,6 +11725,24 @@
       "duration_ms": 221520,
       "name": "We DO",
       "url": "https://open.spotify.com/track/2y3RsLPUpPcMUdzluiJtNE"
+    },
+    {
+      "album": {
+        "name": "HOUSE OF TRICKY : Trial And Error",
+        "url": "https://open.spotify.com/album/4JyXIbXVhgzCa7DU0K6V1O"
+      },
+      "artists": [
+        {
+          "name": "xikers",
+          "url": "https://open.spotify.com/artist/6QHP8St0MzfNDqjKpwtMht"
+        }
+      ],
+      "date_added": "2024-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189441,
+      "name": "We Don\u2019t Stop",
+      "url": "https://open.spotify.com/track/67ZvVtW278IHsAxnzglQt4"
     },
     {
       "album": {

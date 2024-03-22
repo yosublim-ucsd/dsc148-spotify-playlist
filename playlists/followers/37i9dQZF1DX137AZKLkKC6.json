@@ -1,5 +1,5 @@
 {
-  "2024-03-21": 220323,
+  "2024-03-22": 220370,
   "date_first_scraped": "2022-09-07",
   "description": "Las grandes del Despecho y el G\u00e9nero Popular. Foto: Los Dos Carnales & Yeison Jim\u00e9nez",
   "name": "La + Popular",
@@ -745,6 +745,24 @@
       "duration_ms": 142656,
       "name": "Consejos Gratis",
       "url": "https://open.spotify.com/track/2xTLTU2K901snq53FLWZKE"
+    },
+    {
+      "album": {
+        "name": "Contentoso",
+        "url": "https://open.spotify.com/album/2F96HODzvQI22dMNKLiEG6"
+      },
+      "artists": [
+        {
+          "name": "Luis Alfonso",
+          "url": "https://open.spotify.com/artist/0GchaVw5KfSVEm0xl0OXEe"
+        }
+      ],
+      "date_added": "2024-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169887,
+      "name": "Contentoso",
+      "url": "https://open.spotify.com/track/2Pm3YD2PlePljgdzgBRr1h"
     },
     {
       "album": {
@@ -2421,7 +2439,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-21",
       "duration_ms": 188600,
       "name": "Mi Versi\u00f3n",
       "url": "https://open.spotify.com/track/7BkUWGC6AACZxHzTul75SH"

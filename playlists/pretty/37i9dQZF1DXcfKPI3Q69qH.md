@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcfKPI3Q69qH.md) - [plain]
 
 > Music from and inspired by Blood & Water, now streaming on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,308 likes - 75 songs - 5 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,317 likes - 75 songs - 5 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcfKPI3Q69qH.md) - [plain]
 | 18 | [Phakade Lami](https://open.spotify.com/track/6wQvbzsxSLKqYrPc26jd9S) | [Nomfundo Moh](https://open.spotify.com/artist/6brKi6i5SusNnoKcSlKAan), [Sha Sha](https://open.spotify.com/artist/0jUNGuEa2n7yyld7KjsVVT), [Ami Faku](https://open.spotify.com/artist/3flcjKgRCeBVZTR8n8iShE) | [Phakade Lami](https://open.spotify.com/album/44PV16rEIAsEdo4MxT62b9) | 4:21 |
 | 19 | [Big Man Cruise](https://open.spotify.com/track/2UkyY0pu9N5n5bSNyotv3h) | [King Perryy](https://open.spotify.com/artist/2Srxd4jkUb5hcZEJO1SPnW), [Mayorkun](https://open.spotify.com/artist/3DNCUaKdMZcMVJIS7yTskd) | [CITIZEN OF THE WORLD](https://open.spotify.com/album/3nzji2IKW3lBgsScOR0jVe) | 3:07 |
 | 20 | [Vibration](https://open.spotify.com/track/1eZsTF2yXmicQFxF2tkDko) | [Stephen Of Kent](https://open.spotify.com/artist/3OFzdPbXQGXv20A5opuEk9) | [Future Kwaito Volume 3](https://open.spotify.com/album/3DMoK9ESG5PjcEi59z3Xqh) | 3:50 |
-| 21 | [Surviva](https://open.spotify.com/track/66136dLlJa5kY68quXMYsG) | [Skye Wanda](https://open.spotify.com/artist/7BwrJs4E8L2r4FiavhNFa1) | [Surviva](https://open.spotify.com/album/6VSQVB5MtiInxFsAtW9raF) | 3:41 |
+| 21 | [Surviva](https://open.spotify.com/track/21EXSaTkJ52OCzkgFVw9iy) | [Skye Wanda](https://open.spotify.com/artist/7BwrJs4E8L2r4FiavhNFa1) | [Surviva](https://open.spotify.com/album/6yQTItJX2MNuSvbPZRDWbA) | 3:41 |
 | 22 | [Black Sky](https://open.spotify.com/track/3IRWaMaWXzX3coC2sOD5vG) | [Yashna](https://open.spotify.com/artist/7tUJZBp4pit6GbiSI1kZzH) | [Flaws & Fears](https://open.spotify.com/album/7jfexH7J3tAH8lwhEHiw5D) | 3:15 |
 | 23 | [Onketsetsang Yanomix](https://open.spotify.com/track/4Y0j0lc5jWJshUOqnY4EQu) | [Thabz Le Madonga](https://open.spotify.com/artist/77ArMuNz9qyhmxlgEhSHTi), [Vigro Deep](https://open.spotify.com/artist/2mF7ygWz9oyJ3L6ZPWlZVH), [CaltonicSA](https://open.spotify.com/artist/4ycLBkF3SiXz3CZtyxNiXX) | [YanoMasters, Vol\. 1](https://open.spotify.com/album/0vqRV3FwGVBnsWPUVeoEkE) | 7:13 |
 | 24 | [Bloodsport](https://open.spotify.com/track/1yEZMf8F11NfP1tc4c43fu) | [Tatum](https://open.spotify.com/artist/2QEcI3EFfkqudULt1yKWKJ) | [Bloodsport](https://open.spotify.com/album/02UFRZnXWH2NCAKZKrLb7J) | 2:46 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcfKPI3Q69qH.md) - [plain]
 | 74 | [Yasis](https://open.spotify.com/track/2eTT5Ayr27aFhsBh2hlIrG) | [YoungstaCPT](https://open.spotify.com/artist/3QYKq7aMSiAu6gvfwNNFsv) | [Yasis](https://open.spotify.com/album/7tJxAH5vflixnj7bFdabUg) | 3:46 |
 | 75 | [John Cena](https://open.spotify.com/track/1RwIJvRjIAJPqG3IVeeS1l) | [Sho Madjozi](https://open.spotify.com/artist/08V2vgJBY6VLoUPWlznRKo) | [John Cena](https://open.spotify.com/album/6FQtmgBLVhkbfxJUFZMWlk) | 3:01 |
 
-Snapshot ID: `MCw1OWIwNmUxYzI5ZTJjNWRkMTcxNjdjMDM3ZTIwOTQ2NWNiMzBhMTFl`
+Snapshot ID: `MCwyNjM3ZjkyM2ZlODcxNmM4MGQwNmRhYTdmMDQzOThjNjc0ODBmNzVh`

@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcwHMQ31Y15k.md) - [plain]
 
 > Sopo wae sing ngerti, yuk nyanyi sik\. Cover: Guyon Waton
 
-[Spotify](https://open.spotify.com/user/spotify) - 185,172 likes - 106 songs - 8 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 185,278 likes - 106 songs - 8 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Wirang](https://open.spotify.com/track/2cNjYBMsuNELj4oJjYr0bg) | [Guyon Waton](https://open.spotify.com/artist/5CROBjCskHMjRlerJor7Gx) | [Wirang](https://open.spotify.com/album/1OdvMWMKFQGzLJ92gU8Atc) | 4:54 |
 | 2 | [Aku Wong Lanang](https://open.spotify.com/track/6375kKoeQhZQmIVVcagW2M) | [Lamunan](https://open.spotify.com/artist/4V21B91KK3Mx2IrDbbDZMf) | [Aku Wong Lanang](https://open.spotify.com/album/6MEYg39MsNs1QAMrVfKV8g) | 3:33 |
-| 3 | [Putri Shanghai](https://open.spotify.com/track/3WXVIA4xWlWVHgKQ7BzA1n) | [Evan Loss](https://open.spotify.com/artist/4mzKYnv5GDC0hsEwcnJdjo) | [Putri Shanghai](https://open.spotify.com/album/1XEzXnnc6uPNV3a7OkXzX5) | 3:00 |
+| 3 | [Putri Shanghai](https://open.spotify.com/track/5SDMXIi9qDUhFeAwkWiQus) | [Evan Loss](https://open.spotify.com/artist/4mzKYnv5GDC0hsEwcnJdjo) | [Putri Shanghai](https://open.spotify.com/album/63UvRwzqEhOIWgqGu5ZFig) | 3:00 |
 | 4 | [Lamunan](https://open.spotify.com/track/3lpjgJcdIjw6WVVzeGlCMT) | [Woro Widowati](https://open.spotify.com/artist/0wjrZ5PUcVjAbUUX33JRr8) | [Lamunan](https://open.spotify.com/album/7lNUodq1wzj8Oc8ocoy9E9) | 4:10 |
 | 5 | [Sauro Utangmu \(Genjrengan\)](https://open.spotify.com/track/095Xxzpu6iz7Vt0RnEwgC5) | [Sela Good](https://open.spotify.com/artist/1mS5KkfEKjRdYti1qYfszu), [Hendra Kumbara](https://open.spotify.com/artist/2n5g6GMUmSCommxT8NHNPa) | [Sauro Utangmu \(Genjrengan\)](https://open.spotify.com/album/1mI60JNFsKxSiC2E9IGD7V) | 1:08 |
 | 6 | [Jamu \- Janji Muanis](https://open.spotify.com/track/2GOjF1yNoN2Ifn0PTaB9Eh) | [Ndarboy Genk](https://open.spotify.com/artist/7FHGSpmUoIkL2hG6T0qvrJ) | [Jamu \(Janji Muanis\)](https://open.spotify.com/album/2R7X8WN9e73ss7altIYDg7) | 5:34 |
@@ -115,4 +115,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcwHMQ31Y15k.md) - [plain]
 | 105 | [Kartonyono Medot Janji](https://open.spotify.com/track/6bnCgtR9tDcADREMONA91t) | [Denny Caknan](https://open.spotify.com/artist/3Gr3opnAGpJiTowsTyJFWG) | [Kartonyono Medot Janji](https://open.spotify.com/album/0WlqBbLuZrAOgh6asdiign) | 4:30 |
 | 106 | [Mendung Tanpo Udan](https://open.spotify.com/track/0Z54rUZ81Vn0qphFR3jXUb) | [Ndarboy Genk](https://open.spotify.com/artist/7FHGSpmUoIkL2hG6T0qvrJ) | [Mendung Tanpo Udan](https://open.spotify.com/album/71G3sO1tdp632dquXZFMNE) | 5:05 |
 
-Snapshot ID: `MCwwMDk5M2M5NmUzOTM4NGRlNDM2ODUyYTQ1ZDVjYmFiZWMyODJjNjM4`
+Snapshot ID: `MCxjNmNkNmY1NGQwNjM5ZmU3YWZmNTExNWYzZjIwNjQ5MzllNmFiYjI3`

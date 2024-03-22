@@ -1,12 +1,12 @@
 {
   "description": "Una fusi\u00f3n moderna de m\u00fasica Cristiana que alimenta el alma.",
-  "num_followers": 407329,
+  "num_followers": 407474,
   "original_name": "Creo En Ti",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzZWUzOGYwMTA2OTVlNWZkY2Y0NzBhNWIxODJiNDZjNzBhYjBmNDI3",
+  "snapshot_id": "MCxiNDcyZWRlZjM5ODE1NWVjZmJjNWFhOWJkZDdmMTExYjA3NjdkN2Uy",
   "tracks": [
     {
       "added_at": "2021-05-21 19:19:27",
@@ -535,22 +535,6 @@
     {
       "added_at": "2021-05-21 19:19:27",
       "album": {
-        "name": "A Partir De Hoy",
-        "url": "https://open.spotify.com/album/7dmuzxoqS8MCTQATUo3nGN"
-      },
-      "artists": [
-        {
-          "name": "Rojo",
-          "url": "https://open.spotify.com/artist/5NvKO965JkIJanRuKQPVN6"
-        }
-      ],
-      "duration_ms": 213159,
-      "name": "En El Mar De Tu Gracia",
-      "url": "https://open.spotify.com/track/6TOgfc4JyqJxdGWPb2dG7L"
-    },
-    {
-      "added_at": "2021-05-21 19:19:27",
-      "album": {
         "name": "Himnos",
         "url": "https://open.spotify.com/album/5kjjUMt0GGhCEl9uiVB6c0"
       },
@@ -579,6 +563,22 @@
       "duration_ms": 258640,
       "name": "\u00c9l Nos Ama",
       "url": "https://open.spotify.com/track/6ceXM33Unn92BZIVfjQZ3s"
+    },
+    {
+      "added_at": "2021-05-21 19:19:27",
+      "album": {
+        "name": "A Partir De Hoy",
+        "url": "https://open.spotify.com/album/7dmuzxoqS8MCTQATUo3nGN"
+      },
+      "artists": [
+        {
+          "name": "Rojo",
+          "url": "https://open.spotify.com/artist/5NvKO965JkIJanRuKQPVN6"
+        }
+      ],
+      "duration_ms": 213159,
+      "name": "En El Mar De Tu Gracia",
+      "url": "https://open.spotify.com/track/6TOgfc4JyqJxdGWPb2dG7L"
     },
     {
       "added_at": "2021-05-21 19:19:27",

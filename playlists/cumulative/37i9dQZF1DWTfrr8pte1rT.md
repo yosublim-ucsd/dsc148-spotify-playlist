@@ -4,7 +4,7 @@
 
 > Rock with a Drop\. Cover: Marshmello, SVDDEN DEATH & Crown The Empire \\m/
 
-384 songs - 21 hr 55 min
+385 songs - 22 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -191,7 +191,7 @@
 | [JASMINE](https://open.spotify.com/track/5XyP3oBFkJPOUpdsyNnkJD) | [INF1N1TE](https://open.spotify.com/artist/3TbFfHyWvQdppfL0TpWufG), [Semidubs](https://open.spotify.com/artist/7dHdY0Jw2jG0JbrAVTT49L), [MJ/XO](https://open.spotify.com/artist/5Y28CDHy6CHVlm8w7XGNpC) | [JASMINE](https://open.spotify.com/album/4fam831hS49GTxAGKjwjBp) | 3:39 | 2021-12-10 | 2022-06-25 |
 | [JUMP OUT](https://open.spotify.com/track/1SCiaEWrW8y8mEEFoQ3RO7) | [pluko](https://open.spotify.com/artist/01qbSocTDAe2DmKayS89A5), [Daniel Allan](https://open.spotify.com/artist/5JQ1XqKJ2Art01rF4tu1Ra) | [JUMP OUT](https://open.spotify.com/album/2Yfy23tLGgsCLDWfxnIKGj) | 2:09 | 2023-09-08 |  |
 | [Just A Kid](https://open.spotify.com/track/43qTGBfICY2nCeC7iEatjH) | [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ), [Captain Curtis](https://open.spotify.com/artist/3uGJkMEEZ1kGFieLT5KytR) | [Just A Kid](https://open.spotify.com/album/71hoJtICb8oJUOclgYjRWh) | 2:56 | 2024-02-23 |  |
-| [Just Thought You Should Know](https://open.spotify.com/track/75Llaor4IWf0faRFDva8Cs) | [Fells](https://open.spotify.com/artist/0PEuLoQbEWYdlKV3YLByF7) | [Muted Blue](https://open.spotify.com/album/29NyepPY1H8fk6PrsNfBRs) | 3:05 | 2024-03-01 |  |
+| [Just Thought You Should Know](https://open.spotify.com/track/75Llaor4IWf0faRFDva8Cs) | [Fells](https://open.spotify.com/artist/0PEuLoQbEWYdlKV3YLByF7) | [Muted Blue](https://open.spotify.com/album/29NyepPY1H8fk6PrsNfBRs) | 3:05 | 2024-03-01 | 2024-03-22 |
 | [Kill Me Better](https://open.spotify.com/track/5ohyF1TaL2ks2mrEJqLtfs) | [Don Diablo](https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1), [Imanbek](https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj), [Trevor Daniel](https://open.spotify.com/artist/7uaIm6Pw7xplS8Dy06V6pT) | [Kill Me Better](https://open.spotify.com/album/5ENEoctmRzCUyhbt2ouCA0) | 3:13 | 2022-06-24 | 2022-11-12 |
 | [Kill Me Better](https://open.spotify.com/track/7MtJ0dU4m3F6JQG9qdyaPk) | [Don Diablo](https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1), [Imanbek](https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj), [Trevor Daniel](https://open.spotify.com/artist/7uaIm6Pw7xplS8Dy06V6pT) | [Kill Me Better](https://open.spotify.com/album/0X2wKcQKmWG5Jn9ajbbD4G) | 3:13 | 2021-12-10 | 2022-07-28 |
 | [Kill Or Be Killed \- Felsmann + Tiley Reinterpretation](https://open.spotify.com/track/4giarhA9W5oPE7fprx7fcx) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI), [Felsmann + Tiley](https://open.spotify.com/artist/01OXxPlQj4h9zfK5qjU96P) | [Kill Or Be Killed \(Felsmann + Tiley Reinterpretation\)](https://open.spotify.com/album/2KS2e5L7diPrmbjOeL58qv) | 2:51 | 2023-02-10 | 2023-08-19 |
@@ -391,6 +391,7 @@
 | [Years](https://open.spotify.com/track/2hwgLB5lv2AZrxAj9Q4Ywl) | [Crystal Lake](https://open.spotify.com/artist/5DzNxD4vwCDEIa20oEzB9l), [Matty McDonald](https://open.spotify.com/artist/6alaCEzPwrS1kaxQ07vtyw) | [Years](https://open.spotify.com/album/0UqEIFa92Mrjr3BT1ShIDL) | 3:19 | 2021-12-10 | 2022-05-25 |
 | [You Can't Break Me \(feat\. Brandon Saller of Atreyu\)](https://open.spotify.com/track/61lywMXKiITBED8Do8LQHQ) | [Sullivan King](https://open.spotify.com/artist/1CXuuw8HJhyN80HlNzvL1e), [Adventure Club](https://open.spotify.com/artist/5CdJjUi9f0cVgo9nFuJrFa), [Atreyu](https://open.spotify.com/artist/3LkSiHbjqOHCKCqBfEZOTv) | [You Can't Break Me \(feat\. Brandon Saller of Atreyu\)](https://open.spotify.com/album/6k7ASb40R8wBiQymSSwwh0) | 3:50 | 2023-09-29 |  |
 | [Your Shoes](https://open.spotify.com/track/6tssyzOMVjrQs8qj2NgmcP) | [GAWM](https://open.spotify.com/artist/3bce1zPmITQ2MGdCxGaSvL), [Kellin Quinn](https://open.spotify.com/artist/3M9XAM57a4qFz3v6Lq27t2), [heydukeyousuck](https://open.spotify.com/artist/3qDYeLBAZEdBO1DuTTk8qz), [Sleeping With Sirens](https://open.spotify.com/artist/3N8Hy6xQnQv1F1XCiyGQqA) | [Your Shoes](https://open.spotify.com/album/4QmefR7H5kwn2L1Lyrc5xc) | 2:41 | 2023-11-17 | 2024-01-09 |
+| [you’ve changed, i’ve changed](https://open.spotify.com/track/3LnoLo62GjfKDYIN7eJpPB) | [San Holo](https://open.spotify.com/artist/0jNDKefhfSbLR9sFvcPLHo), [Chet Porter](https://open.spotify.com/artist/1BjaGDkxwa2fb2pSCXlFXb) | [bb u ok?](https://open.spotify.com/album/046wH7DEfUumC5h9ykIEkd) | 5:11 | 2024-03-15 |  |
 | [you’ve changed, i’ve changed](https://open.spotify.com/track/5GQpKsz2Gn2PwbPIwHlRqv) | [San Holo](https://open.spotify.com/artist/0jNDKefhfSbLR9sFvcPLHo), [Chet Porter](https://open.spotify.com/artist/1BjaGDkxwa2fb2pSCXlFXb) | [you’ve changed, i’ve changed](https://open.spotify.com/album/0yQkeAjjUjK8RXDgnzLkOu) | 5:11 | 2021-12-10 | 2024-02-17 |
 
 \*This playlist was first scraped on 2021-12-21. Prior content cannot be recovered.

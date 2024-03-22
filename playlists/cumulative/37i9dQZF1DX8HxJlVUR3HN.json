@@ -1,7 +1,7 @@
 {
   "date_first_scraped": "2023-09-29",
-  "description": "Les meilleures nouveaut\u00e9s de la sc\u00e8ne rock fran\u00e7aise. Photo : P\u00c6RISH",
-  "name": "VOLUME FRANCE",
+  "description": "Les meilleures nouveaut\u00e9s de la sc\u00e8ne rock fran\u00e7aise. Photo : Datcha Mandala",
+  "name": "Volume France",
   "tracks": [
     {
       "album": {
@@ -20,6 +20,24 @@
       "duration_ms": 185360,
       "name": "700m\u00b2",
       "url": "https://open.spotify.com/track/572uU6bg1zMbcwSA8ML67d"
+    },
+    {
+      "album": {
+        "name": "A Blinking Neon",
+        "url": "https://open.spotify.com/album/5sFawUeSj26iHiNi21x0xT"
+      },
+      "artists": [
+        {
+          "name": "Sloww",
+          "url": "https://open.spotify.com/artist/1wEhZJ2uOgx8CLud1H4XBk"
+        }
+      ],
+      "date_added": "2024-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233500,
+      "name": "A Blinking Neon",
+      "url": "https://open.spotify.com/track/7aTUpGznnQP0HnK7D7mdNV"
     },
     {
       "album": {
@@ -106,7 +124,7 @@
       ],
       "date_added": "2023-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-22",
       "duration_ms": 244258,
       "name": "All Saints",
       "url": "https://open.spotify.com/track/67PbgSOlVPaxKfbG4QosTC"
@@ -837,6 +855,24 @@
     },
     {
       "album": {
+        "name": "Forknox",
+        "url": "https://open.spotify.com/album/5LpBxTZIzjWTzrKmPy6Eq2"
+      },
+      "artists": [
+        {
+          "name": "Talisco",
+          "url": "https://open.spotify.com/artist/0ZR3khgseh3xy3s8iBYWrI"
+        }
+      ],
+      "date_added": "2024-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229230,
+      "name": "Forknox",
+      "url": "https://open.spotify.com/track/37MYGEELoba3gk2pN7qGxZ"
+    },
+    {
+      "album": {
         "name": "From Zero",
         "url": "https://open.spotify.com/album/7nt2Z2wjPtE4Iu6X2lsjK9"
       },
@@ -1248,7 +1284,7 @@
       ],
       "date_added": "2024-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-22",
       "duration_ms": 190847,
       "name": "It\u2019s not the end",
       "url": "https://open.spotify.com/track/4w6UY7JZIF75TgLWPybfUm"
@@ -1266,7 +1302,7 @@
       ],
       "date_added": "2024-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-22",
       "duration_ms": 238133,
       "name": "JACK IS A SOCIOPATH",
       "url": "https://open.spotify.com/track/780GSelCfBHsMGof0SiPvm"
@@ -1345,6 +1381,28 @@
     },
     {
       "album": {
+        "name": "Kathleen",
+        "url": "https://open.spotify.com/album/6HbXom8ITK6F2IBYVkj0uO"
+      },
+      "artists": [
+        {
+          "name": "Dead Horse One",
+          "url": "https://open.spotify.com/artist/0CIGn7O0TtfeO2SNeD3rE7"
+        },
+        {
+          "name": "Harlee Young",
+          "url": "https://open.spotify.com/artist/5PjLHWWAAV9GJBRChXuclG"
+        }
+      ],
+      "date_added": "2024-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138083,
+      "name": "Kathleen",
+      "url": "https://open.spotify.com/track/4s7l0JNvkvFjoD40Am4p1P"
+    },
+    {
+      "album": {
         "name": "Knife Edge",
         "url": "https://open.spotify.com/album/4OhcI1lakywE8lytUxDVZ5"
       },
@@ -1378,6 +1436,24 @@
       "duration_ms": 233965,
       "name": "Know",
       "url": "https://open.spotify.com/track/3QyvWzVXwvSYn3aSC2ugHY"
+    },
+    {
+      "album": {
+        "name": "La vie est belle",
+        "url": "https://open.spotify.com/album/4EZPqR5zgSI7w7khsuPJAh"
+      },
+      "artists": [
+        {
+          "name": "MDNS",
+          "url": "https://open.spotify.com/artist/0IQF3RvCO0IkvmGj0RvOcA"
+        }
+      ],
+      "date_added": "2024-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178161,
+      "name": "La vie est belle",
+      "url": "https://open.spotify.com/track/70wrE9rvgtQ5kR0UrdgT1o"
     },
     {
       "album": {
@@ -2227,6 +2303,24 @@
     },
     {
       "album": {
+        "name": "Sleepless Nights",
+        "url": "https://open.spotify.com/album/1ibX97ViAxhnAg7t2u0ZNj"
+      },
+      "artists": [
+        {
+          "name": "Deep Merries",
+          "url": "https://open.spotify.com/artist/42l0fKzMugV26K0EufdWIP"
+        }
+      ],
+      "date_added": "2024-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248275,
+      "name": "Sleepless Nights",
+      "url": "https://open.spotify.com/track/6bLc4V9YRq6lLnMXhcn8Ls"
+    },
+    {
+      "album": {
         "name": "Dawn of the Dusk",
         "url": "https://open.spotify.com/album/2hxdDwFuruximCModqB9Q7"
       },
@@ -2840,7 +2934,7 @@
       ],
       "date_added": "2024-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-22",
       "duration_ms": 216990,
       "name": "Tourne en Rond",
       "url": "https://open.spotify.com/track/02jm4UBLHRyQuCSa2iGLPI"
@@ -3002,7 +3096,7 @@
       ],
       "date_added": "2024-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-22",
       "duration_ms": 169354,
       "name": "Waves",
       "url": "https://open.spotify.com/track/4WpUZBuBcn0hH030KXCiwC"

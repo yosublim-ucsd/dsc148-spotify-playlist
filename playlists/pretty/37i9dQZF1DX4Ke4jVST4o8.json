@@ -1,12 +1,12 @@
 {
   "description": "Floor fillers and big streamers of 2012. ",
-  "num_followers": 111659,
+  "num_followers": 111743,
   "original_name": "Dance Hits of 2012",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzYzNhM2I4MTIzYzQ2NDcyZDEwMDI5YzgzNjI1M2U4ZDE1NTdhNzc0",
+  "snapshot_id": "MCxjNTFiNmJmZDQ2YmRiMTdjZjAxODM3ODJmMWJjOWVhYWQ3ZmEwMTY1",
   "tracks": [
     {
       "added_at": "2022-10-14 00:00:00",
@@ -295,26 +295,6 @@
     {
       "added_at": "2022-10-14 00:00:00",
       "album": {
-        "name": "Global Warming: Meltdown (Deluxe Version)",
-        "url": "https://open.spotify.com/album/2F7tejLHzTqFq2XLol9ZGy"
-      },
-      "artists": [
-        {
-          "name": "Pitbull",
-          "url": "https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg"
-        },
-        {
-          "name": "TJR",
-          "url": "https://open.spotify.com/artist/2L8yW8GIoirHEdeW4bWQXq"
-        }
-      ],
-      "duration_ms": 206120,
-      "name": "Don't Stop the Party (feat. TJR)",
-      "url": "https://open.spotify.com/track/3Tu7uWBecS6GsLsL8UONKn"
-    },
-    {
-      "added_at": "2022-10-14 00:00:00",
-      "album": {
         "name": "Dance Again...The Hits",
         "url": "https://open.spotify.com/album/2eirhKzlxvWkz2UQ95wwvh"
       },
@@ -331,6 +311,26 @@
       "duration_ms": 237266,
       "name": "Dance Again (feat. Pitbull)",
       "url": "https://open.spotify.com/track/2xnoPV3NLescauc0ZJ1MDZ"
+    },
+    {
+      "added_at": "2022-10-14 00:00:00",
+      "album": {
+        "name": "Global Warming: Meltdown (Deluxe Version)",
+        "url": "https://open.spotify.com/album/2F7tejLHzTqFq2XLol9ZGy"
+      },
+      "artists": [
+        {
+          "name": "Pitbull",
+          "url": "https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg"
+        },
+        {
+          "name": "TJR",
+          "url": "https://open.spotify.com/artist/2L8yW8GIoirHEdeW4bWQXq"
+        }
+      ],
+      "duration_ms": 206120,
+      "name": "Don't Stop the Party (feat. TJR)",
+      "url": "https://open.spotify.com/track/3Tu7uWBecS6GsLsL8UONKn"
     },
     {
       "added_at": "2022-10-14 00:00:00",

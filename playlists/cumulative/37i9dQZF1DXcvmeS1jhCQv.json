@@ -95,6 +95,24 @@
     },
     {
       "album": {
+        "name": "Through Thick and Thin",
+        "url": "https://open.spotify.com/album/7tfAZDP40vvEyN1hW3HoOa"
+      },
+      "artists": [
+        {
+          "name": "SIIGHTS",
+          "url": "https://open.spotify.com/artist/59wzcVw9vvQvKIEHddgF7n"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135219,
+      "name": "All My Life",
+      "url": "https://open.spotify.com/track/0enqLHS7NWlDbtTftkoohu"
+    },
+    {
+      "album": {
         "name": "Antidote",
         "url": "https://open.spotify.com/album/5BtsIlGeClmz7o8B4aq6MK"
       },
@@ -536,7 +554,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-22",
       "duration_ms": 188000,
       "name": "Falling From Hell",
       "url": "https://open.spotify.com/track/4BZEczZvBsPhiQN17m8y4M"
@@ -648,6 +666,24 @@
       "duration_ms": 207409,
       "name": "Heavy",
       "url": "https://open.spotify.com/track/02bA26OEe0nNFyE3YcNx4K"
+    },
+    {
+      "album": {
+        "name": "HOW?",
+        "url": "https://open.spotify.com/album/4Ah5nt1P0ClcZRbTTrrqAC"
+      },
+      "artists": [
+        {
+          "name": "Salamay",
+          "url": "https://open.spotify.com/artist/6IAMyGk690Lb56glwkxTx0"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216726,
+      "name": "HOW?",
+      "url": "https://open.spotify.com/track/2RcfOEcNwkfwNzcnE9dYDf"
     },
     {
       "album": {
@@ -1319,6 +1355,24 @@
     },
     {
       "album": {
+        "name": "Pretty Happy Alone",
+        "url": "https://open.spotify.com/album/4CflMNEveOX5PvgU1MHUXq"
+      },
+      "artists": [
+        {
+          "name": "The Love Buzz",
+          "url": "https://open.spotify.com/artist/103TWTu6vxVZ9g6eqA1ntP"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182000,
+      "name": "Pretty Happy Alone",
+      "url": "https://open.spotify.com/track/1qwG5MyG0BnBDzAWOfLusM"
+    },
+    {
+      "album": {
         "name": "Put The Blame On Me",
         "url": "https://open.spotify.com/album/0TdvL5XWxschpsWOdkTRb1"
       },
@@ -1640,7 +1694,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-22",
       "duration_ms": 171146,
       "name": "Taken Out By The Wind",
       "url": "https://open.spotify.com/track/0d4krr4O0gFMnBCncqKNbS"
@@ -1915,6 +1969,24 @@
     },
     {
       "album": {
+        "name": "Wishes",
+        "url": "https://open.spotify.com/album/0z4M9I9uvQgCX03hlCcpdC"
+      },
+      "artists": [
+        {
+          "name": "Valerie Rose",
+          "url": "https://open.spotify.com/artist/07ti3q3QcT6Xe8eCFNlZlZ"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174890,
+      "name": "Wishes",
+      "url": "https://open.spotify.com/track/5ehWzatobIYySYrZB0HJ5K"
+    },
+    {
+      "album": {
         "name": "WOOWOO",
         "url": "https://open.spotify.com/album/6JcwvHkhXgdweirnmLW8dq"
       },
@@ -1926,7 +1998,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-22",
       "duration_ms": 201680,
       "name": "WOOWOO",
       "url": "https://open.spotify.com/track/0Gz8cNtbexZBFs7snkBrJT"
@@ -1944,7 +2016,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-22",
       "duration_ms": 160110,
       "name": "Words",
       "url": "https://open.spotify.com/track/6t2vz11wR5Jzs1b1KHfDmn"

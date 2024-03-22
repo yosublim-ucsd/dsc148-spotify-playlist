@@ -1,10 +1,10 @@
 pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8tYYl2HSCud.md) - [plain](/playlists/plain/37i9dQZF1DX8tYYl2HSCud) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX8tYYl2HSCud)
 
-### [Baby Massage ](https://open.spotify.com/playlist/37i9dQZF1DX8tYYl2HSCud)
+### [Relaxing Baby Music](https://open.spotify.com/playlist/37i9dQZF1DX8tYYl2HSCud)
 
-> Gentle ambient for a calm baby between bath time and bedtime.
+> Gentle ambient for a calm baby during bath time, playtime or baby massage.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,000 likes - 149 songs - 7 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,045 likes - 149 songs - 7 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -158,4 +158,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8tYYl2HSCud.md) - [plain]
 | 148 | [Resolvation](https://open.spotify.com/track/6QsiRBMCsArD9PdKHGy2xJ) | [The Nowhows](https://open.spotify.com/artist/0yv3AGgMUbIJR6DROh35j1) | [Resolvation](https://open.spotify.com/album/78IWzcRF28DoxShxRrxrrT) | 2:56 |
 | 149 | [Fjord](https://open.spotify.com/track/5F820xSuKiMLpGOV04Xs3c) | [Reiki Akoya](https://open.spotify.com/artist/0VYt8sIrhLaI1J5XBw4Ez5) | [Fjord](https://open.spotify.com/album/6uJxTkCL8G3hjXi7S3ejkJ) | 2:54 |
 
-Snapshot ID: `MCwzMmMxNDAzYzI1YjgxMzc5NzhjNDg3ZDQwZGEwMGY2NWJlZTE3Nzkx`
+Snapshot ID: `MCw4MDdlNjBiNDhkODE5OWU1YWFjY2FlMTg3ZGU4Y2JjMDIwNTc2YTcw`

@@ -1,12 +1,12 @@
 {
   "description": "Apaga a luz e deixa rolar.",
-  "num_followers": 309692,
+  "num_followers": 309732,
   "original_name": "Rala e Rola",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkY2Y5MGMxNWYyODgwNzRmNmE2M2IxODU4ODY1OWE2ZjJlNjNiNGU4",
+  "snapshot_id": "MCwwNGZhZmNkOGM1ZDUxMzUxNjY0NTE1MjRmNTc4N2UxMTkyYzE4NzI4",
   "tracks": [
     {
       "added_at": "2024-03-08 03:01:00",
@@ -631,26 +631,6 @@
     {
       "added_at": "2024-03-08 03:01:00",
       "album": {
-        "name": "Dolores Dala Guardi\u00e3o do Al\u00edvio",
-        "url": "https://open.spotify.com/album/5hEHhvlgbM3PmNflPbmoZg"
-      },
-      "artists": [
-        {
-          "name": "Rico Dalasam",
-          "url": "https://open.spotify.com/artist/5nbaj9RaJdFNlS5ZxoqN97"
-        },
-        {
-          "name": "Dinho",
-          "url": "https://open.spotify.com/artist/6T0EkNbGdhqyb5N5uMAI9p"
-        }
-      ],
-      "duration_ms": 229199,
-      "name": "Braille",
-      "url": "https://open.spotify.com/track/2hAcX39Tm3XRuxioc86hNq"
-    },
-    {
-      "added_at": "2024-03-08 03:01:00",
-      "album": {
         "name": "S\u00f3 Vem",
         "url": "https://open.spotify.com/album/0ZN6uJremDuf27alIbotKn"
       },
@@ -667,6 +647,26 @@
       "duration_ms": 177715,
       "name": "Depois da Briga",
       "url": "https://open.spotify.com/track/4JHh4XKEjrSYIq0NbUxfDz"
+    },
+    {
+      "added_at": "2024-03-08 03:01:00",
+      "album": {
+        "name": "Dolores Dala Guardi\u00e3o do Al\u00edvio",
+        "url": "https://open.spotify.com/album/5hEHhvlgbM3PmNflPbmoZg"
+      },
+      "artists": [
+        {
+          "name": "Rico Dalasam",
+          "url": "https://open.spotify.com/artist/5nbaj9RaJdFNlS5ZxoqN97"
+        },
+        {
+          "name": "Dinho",
+          "url": "https://open.spotify.com/artist/6T0EkNbGdhqyb5N5uMAI9p"
+        }
+      ],
+      "duration_ms": 229199,
+      "name": "Braille",
+      "url": "https://open.spotify.com/track/2hAcX39Tm3XRuxioc86hNq"
     },
     {
       "added_at": "2024-03-08 03:01:00",
@@ -703,6 +703,30 @@
       "duration_ms": 232110,
       "name": "S\u00e3o Paulo",
       "url": "https://open.spotify.com/track/0UVNwFoQioR960YIHd5f2D"
+    },
+    {
+      "added_at": "2024-03-08 03:01:00",
+      "album": {
+        "name": "Pode Ficar",
+        "url": "https://open.spotify.com/album/5l2i37UIL7h6gjipBKUNS8"
+      },
+      "artists": [
+        {
+          "name": "Kiaz",
+          "url": "https://open.spotify.com/artist/6Ae0wz09vBFYZXJ2bJAKUl"
+        },
+        {
+          "name": "L7NNON",
+          "url": "https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C"
+        },
+        {
+          "name": "Fresh Mind Co.",
+          "url": "https://open.spotify.com/artist/3shBNuvo8XyNthoiWNaCYc"
+        }
+      ],
+      "duration_ms": 196176,
+      "name": "Pode Ficar",
+      "url": "https://open.spotify.com/track/29XgcktAmOQTG62vI9UveQ"
     },
     {
       "added_at": "2024-03-08 03:01:00",
@@ -935,30 +959,6 @@
       "duration_ms": 166864,
       "name": "Tara",
       "url": "https://open.spotify.com/track/4s2hl8ZqSkWHH9tGJ72F21"
-    },
-    {
-      "added_at": "2024-03-08 03:01:00",
-      "album": {
-        "name": "Pode Ficar",
-        "url": "https://open.spotify.com/album/5l2i37UIL7h6gjipBKUNS8"
-      },
-      "artists": [
-        {
-          "name": "Kiaz",
-          "url": "https://open.spotify.com/artist/6Ae0wz09vBFYZXJ2bJAKUl"
-        },
-        {
-          "name": "L7NNON",
-          "url": "https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C"
-        },
-        {
-          "name": "Fresh Mind Co.",
-          "url": "https://open.spotify.com/artist/3shBNuvo8XyNthoiWNaCYc"
-        }
-      ],
-      "duration_ms": 196176,
-      "name": "Pode Ficar",
-      "url": "https://open.spotify.com/track/29XgcktAmOQTG62vI9UveQ"
     },
     {
       "added_at": "2024-03-08 03:01:00",

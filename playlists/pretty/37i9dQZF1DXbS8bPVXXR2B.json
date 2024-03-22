@@ -1,12 +1,12 @@
 {
   "description": "We just wanna rock you all night long.",
-  "num_followers": 229198,
+  "num_followers": 229236,
   "original_name": "Disco Hi-Life",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyYmE3OTYzYTY3NGZmNDExZDBhZmY5YWNhZTc4ZDFkNDQxOTRmZTBl",
+  "snapshot_id": "MCwyNTNmY2U0MTA4ZjFhMzg3ZDBhZTI3ZDliNWVkMzAxYjRlYjcxYTRj",
   "tracks": [
     {
       "added_at": "2022-09-05 16:54:43",
@@ -963,22 +963,6 @@
     {
       "added_at": "2022-09-05 16:54:43",
       "album": {
-        "name": "World",
-        "url": "https://open.spotify.com/album/4ka25IRzopZcy8QCBwHF80"
-      },
-      "artists": [
-        {
-          "name": "Nu Genea",
-          "url": "https://open.spotify.com/artist/77J3V0V7sEOf5ifCDBSNaJ"
-        }
-      ],
-      "duration_ms": 327560,
-      "name": "Exotica Dance Club",
-      "url": "https://open.spotify.com/track/08NpvTDlC0HaA4RwO1wRs7"
-    },
-    {
-      "added_at": "2022-09-05 16:54:43",
-      "album": {
         "name": "What A Woman Needs",
         "url": "https://open.spotify.com/album/6V0dGIPJ5CLeNv4TPCqhjm"
       },
@@ -991,6 +975,22 @@
       "duration_ms": 219880,
       "name": "Your Sweet Lovin'",
       "url": "https://open.spotify.com/track/5jcEF54JEAlhlDH9b5H0d6"
+    },
+    {
+      "added_at": "2022-09-05 16:54:43",
+      "album": {
+        "name": "World",
+        "url": "https://open.spotify.com/album/4ka25IRzopZcy8QCBwHF80"
+      },
+      "artists": [
+        {
+          "name": "Nu Genea",
+          "url": "https://open.spotify.com/artist/77J3V0V7sEOf5ifCDBSNaJ"
+        }
+      ],
+      "duration_ms": 327560,
+      "name": "Exotica Dance Club",
+      "url": "https://open.spotify.com/track/08NpvTDlC0HaA4RwO1wRs7"
     },
     {
       "added_at": "2022-09-05 16:54:43",
@@ -1203,6 +1203,22 @@
     {
       "added_at": "2022-09-05 16:54:43",
       "album": {
+        "name": "Disco Illusion",
+        "url": "https://open.spotify.com/album/04rsn20RX1qNN9JMSY76P9"
+      },
+      "artists": [
+        {
+          "name": "Stephen Encinas",
+          "url": "https://open.spotify.com/artist/1x7JcJXMdepSOPU57sQNk5"
+        }
+      ],
+      "duration_ms": 404391,
+      "name": "Disco Illusion",
+      "url": "https://open.spotify.com/track/1ROPlnnzLFGZBD4NELKZoa"
+    },
+    {
+      "added_at": "2022-09-05 16:54:43",
+      "album": {
         "name": "For You (LP)",
         "url": "https://open.spotify.com/album/3HaUzrq7HVsuVTmIIcsZ8n"
       },
@@ -1231,22 +1247,6 @@
       "duration_ms": 326320,
       "name": "Sweet Power of Your Embrace",
       "url": "https://open.spotify.com/track/55goBag8vVmsesMxOdIe5M"
-    },
-    {
-      "added_at": "2022-09-05 16:54:43",
-      "album": {
-        "name": "Disco Illusion",
-        "url": "https://open.spotify.com/album/04rsn20RX1qNN9JMSY76P9"
-      },
-      "artists": [
-        {
-          "name": "Stephen Encinas",
-          "url": "https://open.spotify.com/artist/1x7JcJXMdepSOPU57sQNk5"
-        }
-      ],
-      "duration_ms": 404391,
-      "name": "Disco Illusion",
-      "url": "https://open.spotify.com/track/1ROPlnnzLFGZBD4NELKZoa"
     },
     {
       "added_at": "2022-09-05 16:54:43",
@@ -1331,22 +1331,6 @@
     {
       "added_at": "2022-09-05 16:54:43",
       "album": {
-        "name": "You're a Melody",
-        "url": "https://open.spotify.com/album/3XcLLEYjyx5KpYwAxLhBYt"
-      },
-      "artists": [
-        {
-          "name": "Aged In Harmony",
-          "url": "https://open.spotify.com/artist/5hABGCgIH57T4NTNpp0gCL"
-        }
-      ],
-      "duration_ms": 259415,
-      "name": "You're a Melody - Extended Disco Version",
-      "url": "https://open.spotify.com/track/0BnavfaSvNQXxg5sBfxTxX"
-    },
-    {
-      "added_at": "2022-09-05 16:54:43",
-      "album": {
         "name": "Get It Right (Expanded Edition)",
         "url": "https://open.spotify.com/album/1P5mbihG8FF4vfu3hhiMVH"
       },
@@ -1359,6 +1343,22 @@
       "duration_ms": 259413,
       "name": "Get It Right - Single Version",
       "url": "https://open.spotify.com/track/6IKMa77w7i9BAs64sTZqKZ"
+    },
+    {
+      "added_at": "2022-09-05 16:54:43",
+      "album": {
+        "name": "You're a Melody",
+        "url": "https://open.spotify.com/album/3XcLLEYjyx5KpYwAxLhBYt"
+      },
+      "artists": [
+        {
+          "name": "Aged In Harmony",
+          "url": "https://open.spotify.com/artist/5hABGCgIH57T4NTNpp0gCL"
+        }
+      ],
+      "duration_ms": 259415,
+      "name": "You're a Melody - Extended Disco Version",
+      "url": "https://open.spotify.com/track/0BnavfaSvNQXxg5sBfxTxX"
     },
     {
       "added_at": "2022-09-05 16:54:43",
@@ -1619,22 +1619,6 @@
     {
       "added_at": "2022-09-05 16:54:43",
       "album": {
-        "name": "Ashewo Ara",
-        "url": "https://open.spotify.com/album/16zlOZC4ck0f6p2NHsZFmN"
-      },
-      "artists": [
-        {
-          "name": "Kabbala",
-          "url": "https://open.spotify.com/artist/4BwyiOrl6JLvblu0RhIWee"
-        }
-      ],
-      "duration_ms": 361983,
-      "name": "Ashewo Ara",
-      "url": "https://open.spotify.com/track/0xnN6Hy5feKHIKdAbH7F7F"
-    },
-    {
-      "added_at": "2022-09-05 16:54:43",
-      "album": {
         "name": "Disco Illusion",
         "url": "https://open.spotify.com/album/04rsn20RX1qNN9JMSY76P9"
       },
@@ -1647,6 +1631,22 @@
       "duration_ms": 284985,
       "name": "Lypso Illusion",
       "url": "https://open.spotify.com/track/39A5QHG41wrR0cahFX5Y7N"
+    },
+    {
+      "added_at": "2022-09-05 16:54:43",
+      "album": {
+        "name": "Ashewo Ara",
+        "url": "https://open.spotify.com/album/16zlOZC4ck0f6p2NHsZFmN"
+      },
+      "artists": [
+        {
+          "name": "Kabbala",
+          "url": "https://open.spotify.com/artist/4BwyiOrl6JLvblu0RhIWee"
+        }
+      ],
+      "duration_ms": 361983,
+      "name": "Ashewo Ara",
+      "url": "https://open.spotify.com/track/0xnN6Hy5feKHIKdAbH7F7F"
     }
   ],
   "unique_name": "Disco Hi-Life",

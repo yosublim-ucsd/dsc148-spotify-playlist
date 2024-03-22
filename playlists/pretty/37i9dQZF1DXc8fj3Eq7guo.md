@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc8fj3Eq7guo.md) - [plain]
 
 > Tag your location, we shall pass by as we go around Africa
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,263 likes - 50 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,276 likes - 50 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc8fj3Eq7guo.md) - [plain]
 | 24 | [Lusaka By Night](https://open.spotify.com/track/0hMPIEHcy0SLQ6uuG17hxJ) | [John Wizards](https://open.spotify.com/artist/4sPLhyVBoVtdlX0MaetdVK), [Nzaramba Jean Thierry \(ras magic\)](https://open.spotify.com/artist/3zwWyzXGp0AUsL8iGosRgt) | [John Wizards](https://open.spotify.com/album/6HyhRD63b98v7UpHiSMe8G) | 2:58 |
 | 25 | [Angola](https://open.spotify.com/track/4ie2Gi47TfHrlan7gcL5Fd) | [Bheki Mseleku](https://open.spotify.com/artist/49D0LjaqSUYrGdjDUL8klj) | [Celebration](https://open.spotify.com/album/5uIcFalqC6QjvKesBf4erF) | 7:26 |
 | 26 | [Kilimanjaro \(with BEAM\)](https://open.spotify.com/track/3r8tz52ga3zUJwYyMe6lyM) | [Nonso Amadi](https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV), [BEAM](https://open.spotify.com/artist/46MWeeHNVMYRIIofQBEX98) | [When It Blooms](https://open.spotify.com/album/6yJ4EJm92OdmuMy8ijBZGq) | 3:11 |
-| 27 | [Nairobi](https://open.spotify.com/track/1QzPmQynOP65qaOuZDJUbm) | [Bensoul](https://open.spotify.com/artist/09vo12hHajgG2cZzq0rGmE), [Sauti Sol](https://open.spotify.com/artist/4Rj9lQm9oSiMlirgpsM6eo), [Nviiri The Storyteller](https://open.spotify.com/artist/7xPDTxQrpZPvvI0LzuO73p), [Mejja](https://open.spotify.com/artist/5VnDOE1MEaJ0VOgSypOi3u) | [NAIROBI](https://open.spotify.com/album/2pVb3IsYOZWdYNk6KJIjh4) | 3:40 |
+| 27 | [Nairobi \(feat\. Mejja\)](https://open.spotify.com/track/5spupseGpHQqN1mXCvJQwU) | [Bensoul](https://open.spotify.com/artist/09vo12hHajgG2cZzq0rGmE), [Sauti Sol](https://open.spotify.com/artist/4Rj9lQm9oSiMlirgpsM6eo), [Nviiri The Storyteller](https://open.spotify.com/artist/7xPDTxQrpZPvvI0LzuO73p), [Mejja](https://open.spotify.com/artist/5VnDOE1MEaJ0VOgSypOi3u) | [Nairobi \(feat\. Mejja\)](https://open.spotify.com/album/6Iw9McXkgroTLndvjgH9UF) | 3:40 |
 | 28 | [LAGOS](https://open.spotify.com/track/0Yg8MfD8PBMTd0FhWWXrqK) | [DEELA](https://open.spotify.com/artist/10yLOgKTy2iAtvIqkow5l4), [Somadina](https://open.spotify.com/artist/4C9EX8d2FnWMV2yQZqeG8U) | [LAGOS](https://open.spotify.com/album/3PdhofyZlNFvqv3I9UMnef) | 2:41 |
 | 29 | [Ghana](https://open.spotify.com/track/5SCbTbJ5Q8c6eLktMWFqqg) | [Hugh Masekela](https://open.spotify.com/artist/1b3F5FI7TX4IWTNA4P1kWp) | [Phola](https://open.spotify.com/album/30y3OcmLbW8kB6eO9QV3JP) | 5:24 |
 | 30 | [Lusaka](https://open.spotify.com/track/1BYefIW1aQuAHA7m3CHe8k) | [Mzwakhe Mbuli](https://open.spotify.com/artist/7twu9bUEN6yXIHUn1tLCRP) | [Resistance Is Defence](https://open.spotify.com/album/1e3jEC6NHIu0RrLmZjVoMU) | 6:56 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc8fj3Eq7guo.md) - [plain]
 | 49 | [Mzansi](https://open.spotify.com/track/6h6lRoxhGgkfLw6pVMvPHN) | [Stonebwoy](https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq), [Eindo](https://open.spotify.com/artist/6kHkTLWCtE88wnK3XKXFFr), [Turaz](https://open.spotify.com/artist/6G0KGHioY6sCFMNozFUQRC) | [Necessary Evil](https://open.spotify.com/album/5DAnRaWABIjjFFNdMFOPrc) | 3:49 |
 | 50 | [Kigali](https://open.spotify.com/track/5aKtS7Z8gdWmYH1BBbECiv) | [Kitoko Sound](https://open.spotify.com/artist/7DqZ1E3qLhl3dXPc7jiVOb), [Afro Zen](https://open.spotify.com/artist/31VvRi0goQyK22zqEqAboz), [Arándano](https://open.spotify.com/artist/4vFS1RK96haxCYFEOEtv69), [D.i.n BEATS](https://open.spotify.com/artist/01jkpVYZa78YgI61h3gZbO) | [Kigali](https://open.spotify.com/album/07emJhY6FQilkGBhHhsveQ) | 2:53 |
 
-Snapshot ID: `MCxmMWViNTJiNjVmMzk3MWExYmJkNWFjODBhYTcyZTgyNjQ2Yjk5YTRk`
+Snapshot ID: `MCw1MjZkYjJjODIzZmUyYjA2MzU4MjgxOTZjN2M4NzQ0MTlkNWQxNTY2`

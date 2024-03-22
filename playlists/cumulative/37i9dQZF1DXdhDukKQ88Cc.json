@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-26",
-  "description": "det st\u00f8rste dk rap lige nu \ud83d\udd25",
+  "description": "okayy hop lige p\u00e5 <a href=\"spotify:album:4oExjnLMuvThxFs2UR80R8\">Noahs Ark</a> \u26f5\ufe0f",
   "name": "100 DK",
   "tracks": [
     {
@@ -1425,6 +1425,24 @@
     },
     {
       "album": {
+        "name": "Noahs Ark",
+        "url": "https://open.spotify.com/album/4oExjnLMuvThxFs2UR80R8"
+      },
+      "artists": [
+        {
+          "name": "Noah Carter",
+          "url": "https://open.spotify.com/artist/2dfY7zXIP61MKHtD175hFp"
+        }
+      ],
+      "date_added": "2024-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219540,
+      "name": "Imponeret/smukt&rigtigt",
+      "url": "https://open.spotify.com/track/2Nsbcnwb1sSYtujPzzLOMa"
+    },
+    {
+      "album": {
         "name": "Internazionale (feat. Magzim)",
         "url": "https://open.spotify.com/album/3YON54IWdqFWos7oNwoiiG"
       },
@@ -1528,6 +1546,40 @@
       "duration_ms": 153560,
       "name": "K-City (feat. Stepz)",
       "url": "https://open.spotify.com/track/12gl0uMirrvJL9DzTgcRXR"
+    },
+    {
+      "album": {
+        "name": "Noahs Ark",
+        "url": "https://open.spotify.com/album/4oExjnLMuvThxFs2UR80R8"
+      },
+      "artists": [
+        {
+          "name": "Noah Carter",
+          "url": "https://open.spotify.com/artist/2dfY7zXIP61MKHtD175hFp"
+        },
+        {
+          "name": "Gilli",
+          "url": "https://open.spotify.com/artist/2KbikmQKGiUPR2ARs1h0sq"
+        },
+        {
+          "name": "KESI",
+          "url": "https://open.spotify.com/artist/2d7AMvzFwh5wUTuqQl3BAE"
+        },
+        {
+          "name": "Kimbo",
+          "url": "https://open.spotify.com/artist/4a88Q5HOh8FSXQ1gPcQu2U"
+        },
+        {
+          "name": "Sivas",
+          "url": "https://open.spotify.com/artist/3W7YeaPmcpi1UFutTF49kx"
+        }
+      ],
+      "date_added": "2024-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212279,
+      "name": "Lad Mig Lande (feat. Gilli, KESI, Kimbo & Sivas)",
+      "url": "https://open.spotify.com/track/50kvRbk8GLtPtgxoMeasSK"
     },
     {
       "album": {
@@ -2312,6 +2364,32 @@
       "duration_ms": 161841,
       "name": "Som Forleden",
       "url": "https://open.spotify.com/track/4hI2NaagyNj7N5kS9M9vVh"
+    },
+    {
+      "album": {
+        "name": "Noahs Ark",
+        "url": "https://open.spotify.com/album/4oExjnLMuvThxFs2UR80R8"
+      },
+      "artists": [
+        {
+          "name": "Noah Carter",
+          "url": "https://open.spotify.com/artist/2dfY7zXIP61MKHtD175hFp"
+        },
+        {
+          "name": "Gilli",
+          "url": "https://open.spotify.com/artist/2KbikmQKGiUPR2ARs1h0sq"
+        },
+        {
+          "name": "KESI",
+          "url": "https://open.spotify.com/artist/2d7AMvzFwh5wUTuqQl3BAE"
+        }
+      ],
+      "date_added": "2024-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135595,
+      "name": "Sprite & Vodka (feat. Gilli & KESI)",
+      "url": "https://open.spotify.com/track/7JfLdwhVW1Ul6CF5KFeyPe"
     },
     {
       "album": {

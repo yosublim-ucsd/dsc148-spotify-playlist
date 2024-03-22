@@ -4,7 +4,7 @@
 
 > bøgdebangers du kan spelle i kjerra!
 
-352 songs - 16 hr 11 min
+353 songs - 16 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -72,7 +72,7 @@
 | [Det finns bara en kung](https://open.spotify.com/track/4CwDkY1WcODvyuo0vw5lyI) | [F.E.S.T](https://open.spotify.com/artist/0QZbl0d87CNgrGgxi0DvkU) | [Det finns bara en kung](https://open.spotify.com/album/1pOgOOTULLBnySxhCQEh80) | 2:51 | 2022-05-19 | 2022-07-18 |
 | [Det regnar och regnar](https://open.spotify.com/track/6Id0DbZqrV9Vy64WlxU1ce) | [Lasse Stefanz](https://open.spotify.com/artist/0ntVZReCfBFQctUiiaTaeu) | [Röd Chevrolet](https://open.spotify.com/album/5urzDMt0XkBEwmGAZCtxYB) | 3:42 | 2021-12-16 | 2024-02-09 |
 | [Det Ringer](https://open.spotify.com/track/2knRq4hvRNFwI8ilTBJXeS) | [Slæm Dønk](https://open.spotify.com/artist/0dei79O9i0uYwCGYniYGzZ) | [Det Ringer](https://open.spotify.com/album/2eCJ7T0MsfxttdEreBmBUN) | 2:42 | 2022-06-02 | 2022-06-13 |
-| [DET ÄR JU DEJ JAG GÅR OCH VÄNTAR PÅ](https://open.spotify.com/track/1cr0ryXVaePFlRl4lkmdf7) | [Louise Andersson Bodin](https://open.spotify.com/artist/23z00NPQmiYxmpZSiDlQAE), [250 kg kärlek](https://open.spotify.com/artist/4zLti6k7kpm9jwOVJv7wtT) | [DET ÄR JU DEJ JAG GÅR OCH VÄNTAR PÅ](https://open.spotify.com/album/5JsBau0Y0oWV0j1fqJ2Xp3) | 2:53 | 2024-02-15 |  |
+| [DET ÄR JU DEJ JAG GÅR OCH VÄNTAR PÅ](https://open.spotify.com/track/1cr0ryXVaePFlRl4lkmdf7) | [Louise Andersson Bodin](https://open.spotify.com/artist/23z00NPQmiYxmpZSiDlQAE), [250 kg kärlek](https://open.spotify.com/artist/4zLti6k7kpm9jwOVJv7wtT) | [DET ÄR JU DEJ JAG GÅR OCH VÄNTAR PÅ](https://open.spotify.com/album/5JsBau0Y0oWV0j1fqJ2Xp3) | 2:53 | 2024-02-15 | 2024-03-22 |
 | [DET ÄR JU DEJ JAG GÅR OCH VÄNTAR PÅ](https://open.spotify.com/track/4lkJBloFZ3aXhsezo8BgO1) | [Louise Andersson Bodin](https://open.spotify.com/artist/23z00NPQmiYxmpZSiDlQAE), [250 kg kärlek](https://open.spotify.com/artist/4zLti6k7kpm9jwOVJv7wtT) | [DET ÄR JU DEJ JAG GÅR OCH VÄNTAR PÅ](https://open.spotify.com/album/484DSeiUk7NvezjWAvI2iP) | 2:53 | 2023-09-28 | 2024-02-22 |
 | [Det årnær sæ](https://open.spotify.com/track/5h8cq31h3tTcEJRo4uceZp) | [Hagle](https://open.spotify.com/artist/4gDfRB8znZzXih7iQ3pGeW) | [Det årnær sæ](https://open.spotify.com/album/5VUUm9IhL7migYIkyKwLe5) | 2:58 | 2021-12-16 | 2022-06-06 |
 | [Digger deg](https://open.spotify.com/track/4nt7SCb3Nkp60GcLHfPn5Y) | [Plumbo](https://open.spotify.com/artist/6EokhXVfuwkt5542gzakJ9), [Katastrofe](https://open.spotify.com/artist/48XeauxB5rhLPXPtACuuUR) | [Digger deg](https://open.spotify.com/album/2CjutmDqrsL14Ru3OhcwaD) | 3:06 | 2022-01-20 | 2022-07-28 |
@@ -338,6 +338,7 @@
 | [Ut mot havet](https://open.spotify.com/track/5JsQ1vHwGkiJqi73JAiXzW) | [Rune Rudberg](https://open.spotify.com/artist/5vViCpDnSSDRHtSmFhrKfY) | [Ut Mot Havet](https://open.spotify.com/album/0NXL1Qx0KovPcGLdfv8Vkg) | 4:02 | 2022-10-13 | 2022-10-16 |
 | [Ut å ragga](https://open.spotify.com/track/6QM2U3u5FleFGEYfTiBr4S) | [Mozby](https://open.spotify.com/artist/6kxzjvqTwQHtqzObBTJHh6), [Örnen](https://open.spotify.com/artist/5qr9oJEKhqbjVAFxyYIKKy) | [Ut å ragga](https://open.spotify.com/album/11dB01KVK80k1PocJgvVDg) | 2:07 | 2021-12-16 | 2022-10-16 |
 | [Vakker og vill](https://open.spotify.com/track/3GDZfYNvBVFfh3DER8F4iW) | [Rotlaus](https://open.spotify.com/artist/4ivFOCSoFSwxPXQawDqylT) | [Vakker og vill](https://open.spotify.com/album/3Cfg2JAQxBaLTMDfecHAGj) | 3:46 | 2021-12-16 |  |
+| [VEM FAN E DU?](https://open.spotify.com/track/4BliCq54T5TbxmaLdXJGEK) | [Hooja](https://open.spotify.com/artist/054fVwphDX8QB8Pm7IjRcL), [Miriam Bryant](https://open.spotify.com/artist/2zd9YxlsQvA5mkZ1NarYVQ) | [VEM FAN E DU?](https://open.spotify.com/album/0BWAxu1c9xgq4z4BvhsXUT) | 2:32 | 2024-03-21 |  |
 | [VI SKA BLI FULLA](https://open.spotify.com/track/37EyJVC84SzAVpSf3h4792) | [Ringnes\-Ronny](https://open.spotify.com/artist/4TNb6OInXahdseLnzAY1eL) | [Danspunk](https://open.spotify.com/album/6A1xmfg6FIEavYK0mmEswK) | 2:45 | 2021-12-16 | 2022-10-16 |
 | [Vi Svinger Oss I Dansen](https://open.spotify.com/track/1oje28LUjxKx6dyLN45m5i) | [Fernando](https://open.spotify.com/artist/2Yi64ssaB3Kz8cUWYGr7MJ) | [Midt I Blinken](https://open.spotify.com/album/1mHWQdGuWcq8SoVmuOD8wk) | 2:32 | 2022-01-06 | 2022-07-27 |
 | [Vi svinger oss i dansen](https://open.spotify.com/track/5NiRCAAZfx70MFnvvaAug3) | [Fernando](https://open.spotify.com/artist/2Yi64ssaB3Kz8cUWYGr7MJ) | [Midt i blinken](https://open.spotify.com/album/2026ajRTf5JyS5sUwWIbDF) | 2:32 | 2022-10-13 | 2022-10-16 |

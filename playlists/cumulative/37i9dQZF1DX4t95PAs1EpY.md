@@ -4,7 +4,7 @@
 
 > beats + birds = <3
 
-498 songs - 19 hr 8 min
+501 songs - 19 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -175,6 +175,7 @@
 | [Fuji](https://open.spotify.com/track/3saNOmdsMZjlKLM3FSFU70) | [Daemon](https://open.spotify.com/artist/0diXRBzOdGZ4i0TKs8Xakh) | [Fuji](https://open.spotify.com/album/7sHeMInQs3hKhDCe7cnzVB) | 2:45 | 2023-01-06 |  |
 | [garden party](https://open.spotify.com/track/65Z8mJUPVRgzbAxwCrT8SD) | [yoshi the brilliant](https://open.spotify.com/artist/6k8AnK3Kuk6fv1AQu0IGBJ) | [garden party & sunset lounge](https://open.spotify.com/album/4pzOf7Rr7c6YZ2LpI5ntCO) | 3:37 | 2023-01-20 | 2023-04-12 |
 | [Garden Zoo](https://open.spotify.com/track/73O23xizU9YUdLDHF0iRJW) | [Henry Lowe](https://open.spotify.com/artist/1Op6kjtkZu2Yqx5UprLQVt) | [Phantom Experience & Garden Zoo](https://open.spotify.com/album/4nPJVAKbB3x98ka18j24aD) | 2:28 | 2022-06-24 |  |
+| [get home](https://open.spotify.com/track/1tNoMKVPSqImA4LdedQJ00) | [red cap](https://open.spotify.com/artist/0pZUsjtpT2z9F0GMqOk9QO) | [get home](https://open.spotify.com/album/2bkuyw8WTWX5vGKrQippi6) | 2:23 | 2024-03-22 |  |
 | [Get in The Boat](https://open.spotify.com/track/2QBcW5vUexAHUznPjdzfAW) | [iasilma](https://open.spotify.com/artist/3pDdMkuOaBgEfSrzpFmWcu) | [Get In The Boat](https://open.spotify.com/album/5ywrZkQ8aDKMTOwkAXljea) | 2:40 | 2022-11-25 | 2023-09-01 |
 | [Ghost Town](https://open.spotify.com/track/5mLCQ2ST4AhU7liOfLfTDQ) | [Austeria](https://open.spotify.com/artist/6nImttseHjHeRnSY68rFBj) | [Ghost Town](https://open.spotify.com/album/33dPDdYjoPtq07S8Skg6lE) | 2:15 | 2022-09-30 |  |
 | [Gin Basil Smash](https://open.spotify.com/track/70rDQkdlpsQT48Fegnttd1) | [Neele Harder](https://open.spotify.com/artist/4KxuKYAXcdSrZGi1s19G5c) | [Gin Basil Smash](https://open.spotify.com/album/3icBu0tdISlC40gn5P7EGb) | 1:53 | 2022-05-13 | 2022-07-29 |
@@ -317,6 +318,7 @@
 | [naturale](https://open.spotify.com/track/3q4giA2JuMjmny009JEsbn) | [masao mami](https://open.spotify.com/artist/1MlLNw90kC3aCTGjeqG2Qq) | [naturale](https://open.spotify.com/album/4B1ggUcEr5btmV57XXEdzw) | 2:24 | 2022-05-13 |  |
 | [Navigators](https://open.spotify.com/track/52a4rzZ0bOk2OfVawjiNVC) | [mëow mëow](https://open.spotify.com/artist/02qU2mdtmh74BV5ashkMFn) | [Navigators](https://open.spotify.com/album/2vcXcHa9nM6HvfzYtUzMNu) | 1:28 | 2022-06-10 | 2022-07-29 |
 | [need a vacation?](https://open.spotify.com/track/1sHID1bINevTLGNkvfLQfC) | [kobicha](https://open.spotify.com/artist/4nJ6L5ADQdv6cZHXcvsRNd) | [need a vacation?](https://open.spotify.com/album/5xadz5QNEgrbOSKCje5wSf) | 2:08 | 2022-05-20 |  |
+| [Neverland](https://open.spotify.com/track/5tzmGSDwOn8ai3AXA5fgjn) | [Rainbows & Clouds](https://open.spotify.com/artist/4MItiv8qg42Ph7bWuCsOTg) | [Neverland](https://open.spotify.com/album/1sgXQscd7BZaB2sNi3Qc0c) | 2:21 | 2024-03-22 |  |
 | [new trees](https://open.spotify.com/track/79ZXRpT88I9x2SvsRCLe4S) | [vibe academy](https://open.spotify.com/artist/1QIlKfgGmOpQRigjy2CyPN) | [frozen grapes](https://open.spotify.com/album/1lGfubsWe9ThyEZUC3wDVz) | 1:50 | 2021-12-07 | 2022-09-17 |
 | [Night Light](https://open.spotify.com/track/2U6vFampiXQZtmOhNXz7dp) | [Austeria](https://open.spotify.com/artist/6nImttseHjHeRnSY68rFBj) | [Night Light](https://open.spotify.com/album/2JEp433mqNZaTYe6R0D1AY) | 2:09 | 2022-03-21 |  |
 | [night ride](https://open.spotify.com/track/2d8PTn9Lk8Tvtlg3DpaYNX) | [dreamholder](https://open.spotify.com/artist/56kFTj4pDl6KHDi1J352pS) | [night ride](https://open.spotify.com/album/3AKKiKEd5M00WXyYzEUplF) | 2:28 | 2024-02-02 |  |
@@ -402,6 +404,7 @@
 | [Secrets of Konohagakure](https://open.spotify.com/track/02hH2lDtRpYbJC1lS8KM22) | [Lofi MMMO](https://open.spotify.com/artist/7mC3tlq3rhrrGfWzMnV0qw) | [The Kojiki](https://open.spotify.com/album/54AVaU8S6AqpwU7Q3efFJj) | 2:57 | 2022-07-08 | 2023-09-16 |
 | [seedlings](https://open.spotify.com/track/4MKfOWEjeRQIkRsx9zpYih) | [vibe academy](https://open.spotify.com/artist/1QIlKfgGmOpQRigjy2CyPN) | [frozen grapes](https://open.spotify.com/album/1lGfubsWe9ThyEZUC3wDVz) | 2:28 | 2021-12-07 |  |
 | [Serenity](https://open.spotify.com/track/52Pjj1Iuk7MAh5pdaleydA) | [Euphemism](https://open.spotify.com/artist/2LjnVIznJsfd8XzrUqXHTr) | [Blossom](https://open.spotify.com/album/2jFYrpK8s8KWYdSEVruk8M) | 2:18 | 2023-02-07 |  |
+| [Serenity](https://open.spotify.com/track/5CEKtcS33tgkKS3YpX91ix) | [Glorio](https://open.spotify.com/artist/2LlUmuRpHPxRL2B2CJDZB4) | [Serenity](https://open.spotify.com/album/36GYg9hy5dRiNAQg2QAnA2) | 2:06 | 2024-03-22 |  |
 | [Serenity](https://open.spotify.com/track/3X8yILO7bUPSE8R8IpxzLW) | [Poldoore](https://open.spotify.com/artist/3ph6BKBPsjP7Vhtd1IXhkc) | [Serenity](https://open.spotify.com/album/4RVYvbLGnucZ09CH1I4kML) | 3:05 | 2022-06-10 | 2022-10-14 |
 | [Silver Birch](https://open.spotify.com/track/31dGP5ZJyL2tAPeoZ4uN8O) | [Uxxii](https://open.spotify.com/artist/3jzjuFegenZCrjd97xsQLC) | [Silver Birch](https://open.spotify.com/album/5r9MFchSYdBNL7y2z9QnIM) | 2:14 | 2023-09-29 |  |
 | [SimplyShtick](https://open.spotify.com/track/6A6TfXAAh1lqB63v0gVECk) | [Rutah](https://open.spotify.com/artist/5vUhQrdzOINvk93ov2uMep) | [SimplyShtick](https://open.spotify.com/album/5sMrp4rgsAOFlC8CpS4F5h) | 1:25 | 2021-12-07 |  |

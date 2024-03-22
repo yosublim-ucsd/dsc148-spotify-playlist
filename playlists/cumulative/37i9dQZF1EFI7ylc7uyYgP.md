@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2LTWvs1eqq4r0Qln13AssN">Phil Bentley</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-132 songs - 6 hr 24 min
+133 songs - 6 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,7 +22,8 @@
 | [Best Friends You and Me](https://open.spotify.com/track/0gy126y0EkrB5WH3S5Smvv) | [Fancy Nancy \- Cast](https://open.spotify.com/artist/4l4bo3QrT0fqA2brroiv34) | [Disney Junior Music: Fancy Nancy Vol\. 2](https://open.spotify.com/album/4NENHWZC5qqmEDerzPF0pW) | 1:40 | 2024-01-29 |  |
 | [Blink](https://open.spotify.com/track/0bzgyJPgcyDTZLNOzOvFy1) | [VASSY](https://open.spotify.com/artist/7HqEmV7FeCi16bQyHMpIrF), [ONEDUO](https://open.spotify.com/artist/6snkU8m506AxtvyBGXPGrc) | [BLINK](https://open.spotify.com/album/5ERfHlQtcJ9uSwzIYWqpFw) | 2:58 | 2024-01-29 |  |
 | [Boss \- Radio Edit](https://open.spotify.com/track/0dhR5wd9NsXBbhqMC9WMGl) | [Helena Legend](https://open.spotify.com/artist/17t5haQfcZoTTzN3btCMF0), [VASSY](https://open.spotify.com/artist/7HqEmV7FeCi16bQyHMpIrF) | [Boss \(Radio Edit\)](https://open.spotify.com/album/3lkSi19s2vnP3shUF9g98q) | 3:04 | 2024-01-29 |  |
-| [BOYS WITH EMOTIONS](https://open.spotify.com/track/22K6G9TGc7uYaAao3h6IHA) | [FELIX SANDMAN](https://open.spotify.com/artist/2M6dCv6FDYMum9nPnNB5Vy) | [BOYS WITH EMOTIONS](https://open.spotify.com/album/4hpy5icPuh1M6MJcIL5JTS) | 2:44 | 2024-01-29 |  |
+| [BOYS WITH EMOTIONS](https://open.spotify.com/track/22K6G9TGc7uYaAao3h6IHA) | [FELIX SANDMAN](https://open.spotify.com/artist/2M6dCv6FDYMum9nPnNB5Vy) | [BOYS WITH EMOTIONS](https://open.spotify.com/album/4hpy5icPuh1M6MJcIL5JTS) | 2:44 | 2024-01-29 | 2024-03-22 |
+| [BOYS WITH EMOTIONS](https://open.spotify.com/track/39SPAsQCiQ0VfGIXvpWclS) | [FELIX SANDMAN](https://open.spotify.com/artist/2M6dCv6FDYMum9nPnNB5Vy) | [Collected Works](https://open.spotify.com/album/3TLYFipkZwN1DhRPjvhwqj) | 2:44 | 2024-03-21 |  |
 | [Broken Heart](https://open.spotify.com/track/3h0rAzuNjy6YEHZxzSgk2w) | [来兎](https://open.spotify.com/artist/4gvNo6XIRTD2N0l75sY6II) | [Broken Heart](https://open.spotify.com/album/6V5bFKFV9boYWezJw4whV3) | 2:29 | 2024-01-29 |  |
 | [Build Me A Girl](https://open.spotify.com/track/0KbaKrYXLo9qCIRsbGb45E) | [Andy Grammer](https://open.spotify.com/artist/2oX42qP5ineK3hrhBECLmj) | [Andy Grammer](https://open.spotify.com/album/2wp1jec3BcuaaXyM8VucWZ) | 3:11 | 2024-01-29 |  |
 | [busy](https://open.spotify.com/track/7kdmDLwyzFL8jYLzfMvPwQ) | [Kira Kosarin](https://open.spotify.com/artist/7jksCPW6uDQiTDVbcyLV79) | [Something New](https://open.spotify.com/album/5pQLIMOOfKQlTufpnkV49Q) | 3:03 | 2024-01-29 |  |

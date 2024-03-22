@@ -4,7 +4,7 @@
 
 > Instrumental beats to chill to.
 
-724 songs - 1 day 4 hr 20 min
+729 songs - 1 day 4 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -100,6 +100,7 @@
 | [Cape Judge](https://open.spotify.com/track/5GtIpEXs7ZBOz49Y4Tekpb) | [Mr Muddy](https://open.spotify.com/artist/2SE4xWBKS86MFe82bCqBgE) | [Cape Judge](https://open.spotify.com/album/0qBw9ryoN9AhxwkxgPJIrB) | 2:57 | 2023-01-13 |  |
 | [Cartoons & Cereal](https://open.spotify.com/track/3NA3j32GZcVlLHE5ouertM) | [Silva Sax](https://open.spotify.com/artist/4J3sbgdgKQeaCSv5oM2xq9) | [Cartoons & Cereal](https://open.spotify.com/album/6eY7VIvnJeoNfWVpE5N29q) | 3:55 | 2023-01-13 |  |
 | [Cash Plants Everywhere Around Me](https://open.spotify.com/track/1TKRQhnQkTU9CCRCQF6mst) | [Diggy Mac Dirt](https://open.spotify.com/artist/4QRxmPoNahr4QIDkGXhZRI) | [KEATS 14](https://open.spotify.com/album/3TAHdCE2XDJXyhHkVJJnYY) | 2:22 | 2023-09-08 | 2023-09-22 |
+| [Cashmere](https://open.spotify.com/track/38D3yNAwPmCP5VlUEGFfi1) | [Nyck Caution](https://open.spotify.com/artist/1ZyUXvaBXUsIZ3JD6jYGkt) | [Textures](https://open.spotify.com/album/3QspIBavbSRf2RwWFBCxaE) | 2:12 | 2024-03-22 |  |
 | [cashmere](https://open.spotify.com/track/47MNGiSMKGEEnI7DAP3BwJ) | [Zatsuma](https://open.spotify.com/artist/5JqlGSeCW5ifXQriLDHTwe) | [cashmere](https://open.spotify.com/album/2T7h564gMHHqw5R5wcAO8y) | 2:22 | 2023-09-29 |  |
 | [catwalk](https://open.spotify.com/track/1DOEEHMXg2exzfzs2lRts2) | [Burguess' Beatz](https://open.spotify.com/artist/1i1hunPBHEd4w8PVILQjwD) | [catwalk](https://open.spotify.com/album/1v0jGGutvINFPeAdz3LYdJ) | 2:31 | 2023-12-08 |  |
 | [caviar](https://open.spotify.com/track/3y6KYivzMqOZDscUH2Cn9N) | [meadowzz](https://open.spotify.com/artist/6iJBPhaUkwdsG9QPc6qcEz) | [laugh at the balance](https://open.spotify.com/album/6VrZDk65XkMRuk9IW4tudW) | 2:08 | 2023-01-13 |  |
@@ -108,6 +109,7 @@
 | [Cheese cake express](https://open.spotify.com/track/4lYciP0rbVDIwXaqIYZTUk) | [RainDear](https://open.spotify.com/artist/0cPgIB1XyF4E0wZbDUqQ33) | [Cheese cake express](https://open.spotify.com/album/5j3BiFxAlTUJqrwDbsdZ1N) | 2:01 | 2023-01-13 |  |
 | [Cherry](https://open.spotify.com/track/1iLPXYTRKLtax4VzRdacYc) | [Saltyyyy V](https://open.spotify.com/artist/4EDHI70lFl3T53KI0uEqUG) | [Cherry](https://open.spotify.com/album/62bhvA7tO1UjPhiohaC5AQ) | 1:50 | 2023-01-13 | 2023-09-22 |
 | [Chess Flow](https://open.spotify.com/track/3HtEAL9JC5o1aaS0drr4fk) | [Slowmo Friends](https://open.spotify.com/artist/1GPDa2aInN4QlYRrD6qnLH) | [Chess Flow](https://open.spotify.com/album/0EsTiQtGZxSovqo6Y5EhP2) | 2:20 | 2024-02-23 |  |
+| [choose to do](https://open.spotify.com/track/4CxeDRUKuzvFOOAvfq2jhe) | [Vynlsm](https://open.spotify.com/artist/7b4DhB3yTiN4HMgFGFQQ2y) | [choose to do](https://open.spotify.com/album/0bK9IWuEvpKjnrc3MOqFTy) | 2:20 | 2024-03-22 |  |
 | [Chrome](https://open.spotify.com/track/69jaSWaSMN8g90yrPBBgbV) | [Mother Keem](https://open.spotify.com/artist/1URTwMVukB95vRmJwK9cWS) | [Chrome](https://open.spotify.com/album/0iMllOANJGQu2WNyZgpLIb) | 1:52 | 2024-03-01 |  |
 | [Cinema Breeze](https://open.spotify.com/track/2M3QHocFbQqwc6HyP5iRGK) | [Flat Ruy](https://open.spotify.com/artist/2nNNlvce8hkNy7Qc8marke) | [Cinema Breeze](https://open.spotify.com/album/2LRmPgyX8SUWppYRs3Uzxr) | 2:26 | 2023-01-13 | 2023-09-29 |
 | [Circle of Ours](https://open.spotify.com/track/57sd7qRHflTjWvcbTL9NnW) | [Justnormal](https://open.spotify.com/artist/2YCz7aHoRoAZ435UDLOKOs) | [Circle Of Ours](https://open.spotify.com/album/6DEf9pLBRcDGDCMBrcrTyh) | 2:17 | 2023-01-13 |  |
@@ -179,6 +181,7 @@
 | [Downtime](https://open.spotify.com/track/19duLYydAX6UiqlFKW54Qu) | [DBTFUL](https://open.spotify.com/artist/1GdjEjgv3RpYjjIBvwGv21) | [Downtime](https://open.spotify.com/album/5pWGzIP2RcutSjYAtsITyM) | 2:16 | 2023-11-24 |  |
 | [downtime](https://open.spotify.com/track/00dVbCr2LYx9vMh1M9u3ID) | [LVTA](https://open.spotify.com/artist/3xoLUBE5kWiGDw1Dgp8Fcf) | [downtime](https://open.spotify.com/album/7nckjQkUXOdwNRkwwCu2TX) | 2:33 | 2023-01-13 | 2023-10-20 |
 | [dream keeper](https://open.spotify.com/track/6xFrBq4Jo0rZup2nygCVSG) | [Chekkerz](https://open.spotify.com/artist/4ymqiB3DtTzSICNZMScTKz) | [dream keeper](https://open.spotify.com/album/4f15Bwm2AMymAQrn1Li3Kj) | 2:24 | 2023-12-08 |  |
+| [dreamer](https://open.spotify.com/track/40AmxylqgnEOpZVbcjnDiS) | [misty tapes](https://open.spotify.com/artist/7I09e7RWQg4vV2aGVH3dqO) | [dreamer](https://open.spotify.com/album/4haF6AKOuLLzk36M10qPuJ) | 2:04 | 2024-03-22 |  |
 | [Dreams in Satin](https://open.spotify.com/track/2qUW2AlOovJqRLUtAKKHK3) | [Dpsht](https://open.spotify.com/artist/2VhyMRukJ2e1CgZ6k7Tux3), [Lofi Sax](https://open.spotify.com/artist/6CnIDZGUocwG0NIyYkoJ7w), [Ale Fillman](https://open.spotify.com/artist/0fNB9GqTAxeZcJW5euF3df) | [Dreams in Satin](https://open.spotify.com/album/05WKNMZgo4SZX9QEZz2ZSw) | 2:25 | 2023-01-13 | 2023-09-16 |
 | [Dreams Of The Broken](https://open.spotify.com/track/3Mt7n41cPt3oRsG9tp26LD) | [Broken Embrace](https://open.spotify.com/artist/5xJZJn5NZIKZ6A25TwDQu8) | [Dreams Of The Broken](https://open.spotify.com/album/71nnTtdqPoBvXzderwdhc3) | 1:57 | 2023-01-13 |  |
 | [dreamy sights from the heights](https://open.spotify.com/track/46mR5v8xs33HW4dKncs0kV) | [dLira](https://open.spotify.com/artist/62qH5lO3YpMpkVJJb7JuEv) | [dreamy sights from the heights](https://open.spotify.com/album/27GV9icO2AKAM5xf8ezgOp) | 2:17 | 2023-01-13 |  |
@@ -365,6 +368,7 @@
 | [Lusty](https://open.spotify.com/track/1u6PYgXMBZEQrzUjNBCEUl) | [Major Mélanger](https://open.spotify.com/artist/3QSBaA0B5mA2WrHmUR3GoH) | [Lusty](https://open.spotify.com/album/7BpvUtnVJMfogEDMABTYTv) | 2:03 | 2023-01-13 |  |
 | [Maca](https://open.spotify.com/track/6gdDUUOVAlv1iIywKDRHZE) | [Breakfast For Brunch](https://open.spotify.com/artist/4qLyv8RotSOSjWze2rJD7O) | [Maca](https://open.spotify.com/album/7L6D24JOqqngMKQvknjWiA) | 2:25 | 2023-10-06 |  |
 | [Magic Animal](https://open.spotify.com/track/27ba4wpnwoZ40XSIYAfXMd) | [Mr OCB](https://open.spotify.com/artist/1RorScxoqHkBchQcufPdTl) | [Black Rose](https://open.spotify.com/album/56lnsrJ7Sjmoxg3UfEOGr5) | 2:14 | 2023-01-13 |  |
+| [Magic Mattress Ride \(ZzZ\)](https://open.spotify.com/track/7wehqrmCqlEehtGoucPbKv) | [PIÑA PINK](https://open.spotify.com/artist/7L2I1AuvyRXd2ysLSTeKZX) | [Magic Mattress Ride \(ZzZ\)](https://open.spotify.com/album/6B7fPxPYhyggHOSAK1Yqyx) | 2:58 | 2024-03-22 |  |
 | [Mahagony](https://open.spotify.com/track/3MEbXAaNpnNBgVBMZlNiNC) | [nitsche](https://open.spotify.com/artist/2DfvZBcBFe2kL0P2U2Ob6A), [Chill Moon Music](https://open.spotify.com/artist/1ppFAqWZIgv5c7huT7O3Aa) | [Mahagony](https://open.spotify.com/album/05cn1lSVFtlQ7IZUTRE9PR) | 2:27 | 2023-01-13 | 2023-09-16 |
 | [Main Court](https://open.spotify.com/track/6Na91cVW0K9zUZiPKn0iUn) | [Toshdy](https://open.spotify.com/artist/55bwDdaEDVEycXFNC9Xl1D) | [Main Court](https://open.spotify.com/album/1E8PCxJiLU8U4bhSVVLnnx) | 2:20 | 2023-01-13 |  |
 | [Main Island](https://open.spotify.com/track/1RZ45GhDuFAp2WcLE5oVa8) | [Kristoffer Eikrem](https://open.spotify.com/artist/2TxDDfPwhWPoKJKhEcnv3h) | [Main Island](https://open.spotify.com/album/0PuN6k6he204jgG6UShAO5) | 2:53 | 2023-01-13 |  |
@@ -423,6 +427,7 @@
 | [night ramen](https://open.spotify.com/track/5TkUSw26XZQNztsAyjM5yc) | [boone](https://open.spotify.com/artist/7k8Bmj6nhufgVpoVrGDKib) | [night ramen](https://open.spotify.com/album/7eUeSrOrLWxADtkexlgEhG) | 2:30 | 2023-01-13 |  |
 | [Night Town](https://open.spotify.com/track/1vyIHpYaSupEYfRbZSBwxU) | [Fed Nance](https://open.spotify.com/artist/2aeZ4vysvCWfhqaHHLWzdm) | [Night Town](https://open.spotify.com/album/4cRbMq1QdDObDLRJbfyHju) | 2:11 | 2023-04-11 | 2023-09-16 |
 | [nightfall](https://open.spotify.com/track/6Jll9RzBBvPYWWNvQhiPyj) | [Roe Cutz](https://open.spotify.com/artist/3tv9tFr4bEFisyEYhXkyxQ) | [nightfall](https://open.spotify.com/album/7dag2jPl7v0GCjXPPMkBPd) | 2:13 | 2023-01-13 |  |
+| [Nightlie](https://open.spotify.com/track/1BtS1rydHXYKyGyIrrrfph) | [Mos Becka](https://open.spotify.com/artist/2OlHuqEXZbePEmtsVP9Xlk) | [Nightlie](https://open.spotify.com/album/0GC1DNI4n7wFxDEEGSpuqC) | 2:14 | 2024-03-22 |  |
 | [No Dice](https://open.spotify.com/track/1ErCBvB7V3BmzTVvhHD0xN) | [Liit City](https://open.spotify.com/artist/3jbFAxekmZ5DY8CHuw5Uti) | [No Dice](https://open.spotify.com/album/7ABUKuS9eK7HmaTJLX7Zk5) | 2:31 | 2023-01-13 |  |
 | [nocturnal interruptions](https://open.spotify.com/track/64VnE0AELYbrGlvZfZFB6I) | [willie johns](https://open.spotify.com/artist/3LFJ3lXQkAanKfb32WaZvm) | [nocturnal interruptions](https://open.spotify.com/album/0mwy7Trud8eCHzF9HHZrQp) | 2:20 | 2023-01-13 |  |
 | [Nostalgia Pt\. 1 \- Beat Edit](https://open.spotify.com/track/02ONLW0CA8fWrh9qhoEfFA) | [Slim.](https://open.spotify.com/artist/61KbmY6DzskmM3MnXLanpH), [Summers Sons](https://open.spotify.com/artist/6dX4na3KWr3yMTLU4l1W7z) | [Nostalgia \(Beat Edits\)](https://open.spotify.com/album/4CMU0oe6wIUWp30V8EYdHO) | 2:09 | 2023-01-13 |  |

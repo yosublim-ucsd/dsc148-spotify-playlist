@@ -2,9 +2,9 @@
 
 ### [발라드, 려요 \(K\-Pop Ballad Hits\)](https://open.spotify.com/playlist/37i9dQZF1DX5LEXW9eXA0n)
 
-> New & hot K\-Pop ballads\. \(Cover:Isaac Hong\(홍이삭\)\) \(가장 핫한 최신 국내 발라드를 만나보세요!\)
+> New & hot K\-Pop ballads\. \(Cover:Kim Jong Kook\(김종국\)\) \(가장 핫한 최신 국내 발라드를 만나보세요!\)
 
-1,179 songs - 3 day 4 hr 24 min
+1,180 songs - 3 day 4 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -858,6 +858,7 @@
 | [Sound Sleep \(feat\. Mabinc\)](https://open.spotify.com/track/6fu9R8kbhpABqj12soV73s) | [Airman](https://open.spotify.com/artist/0GTBwQZcSJid6l5iwaWQ8E), [Mabinc](https://open.spotify.com/artist/7gOu3iix5zisrsJCPvWu8Z) | [Attitude \#1](https://open.spotify.com/album/1FJw2Gh31WNocjV5wv5WOB) | 3:09 | 2022-08-12 | 2022-11-17 |
 | [Space](https://open.spotify.com/track/2AAYL6JwiPKHn33buQqo4P) | [BOL4](https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl) | [Butterfly Effect](https://open.spotify.com/album/6WvzLgorV49BBNnshntOzu) | 4:33 | 2021-12-23 | 2022-07-07 |
 | [Spring Days](https://open.spotify.com/track/2htbpZkpsuD80TDw5nfNZo) | [BEN](https://open.spotify.com/artist/0bDdOBGVCFVt0f8N9ldW1k) | [Spring Days](https://open.spotify.com/album/2qI6GtiqbnB3XbuVHMH6wb) | 3:59 | 2022-03-22 | 2022-05-18 |
+| [Spring has come \(with Yang Da\-Il\)](https://open.spotify.com/track/6nAvfX95tDniO0CvctHnIf) | [Kim Jong Kook](https://open.spotify.com/artist/60YNqzrSj7rJkuqHkpHPqG), [Yang Da Il](https://open.spotify.com/artist/5DnjOSzLCfn4hDbLECq8pt) | [Spring has come \(with Yang Da\-Il\)](https://open.spotify.com/album/4MrFofkylk5sPpDUoO8IMl) | 3:18 | 2024-03-21 |  |
 | [SPRING NIGHT](https://open.spotify.com/track/1Ro2Z4chL1y0Rla6IwmCHF) | [RAYEON \(FANATICS\)](https://open.spotify.com/artist/6JV1QhZ8SLygCWsXMrUClU), [MK](https://open.spotify.com/artist/1Y7lliayC5Ov3sxWsVNfLh) | [SPRING NIGHT](https://open.spotify.com/album/3KWMxx4fAl3dh8n2TyogZq) | 4:46 | 2022-07-07 | 2022-08-13 |
 | [Spring will come after this winter](https://open.spotify.com/track/2YODsJYj7If4Ae68nAHfSk) | [Jeon Sang Keun](https://open.spotify.com/artist/3uCDicSmenMBtsKb5A51dd), [Leetneer Project](https://open.spotify.com/artist/1akMU7C7YstvDu6jEXYrQM) | [Spring will come after this winter](https://open.spotify.com/album/7cTn623yQVSRgFc77oqZyO) | 4:25 | 2023-02-24 | 2023-04-27 |
 | [Stairs](https://open.spotify.com/track/7pVU6ihIDWfIfpCTQvQMvZ) | [Ouf Of Campus](https://open.spotify.com/artist/7tcw7xCLN8uPjOjYE1RWhn) | [Stairs](https://open.spotify.com/album/1mFphJwg3VCCwriB5XAggx) | 3:03 | 2022-12-16 | 2023-01-21 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7HOk71GPfSw.md) - [plain]
 
 > more like hyperstop playing this music please
 
-[Spotify](https://open.spotify.com/user/spotify) - 433,239 likes - 99 songs - 4 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 433,330 likes - 99 songs - 4 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7HOk71GPfSw.md) - [plain]
 | 98 | [PRETTY GIRL](https://open.spotify.com/track/2OuCWKJOjKGbvzyJH9wpfd) | [TRISTÁN!](https://open.spotify.com/artist/4XWTmdheb3gjg0P3tNQwT0) | [PRETTY GIRL](https://open.spotify.com/album/5rgxsMyFO3NkfG36l2rouo) | 2:26 |
 | 99 | [CUT MY HEART OUT](https://open.spotify.com/track/087UWFehhhqmHr79g9H1kn) | [daine](https://open.spotify.com/artist/4lyCoxLN0aW7nJy5rec0tG) | [CUT MY HEART OUT](https://open.spotify.com/album/19luyasFEMkdg7KBXUQKjY) | 2:32 |
 
-Snapshot ID: `MCxjOWMyMTYyYTYxYTM2NmQyZTkzZmY3NTU0ZjAwZDZlY2MxYThjYTY4`
+Snapshot ID: `MCxjZjc2MWY3MjQ0N2U0NmQ4MmEzN2MwNTE3NDRjNmI0MmUxZDUzYzRk`

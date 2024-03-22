@@ -4,7 +4,7 @@
 
 > The chillest instrumental lofi beats, certified lush.
 
-1,143 songs - 1 day 19 hr 23 min
+1,145 songs - 1 day 19 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -121,6 +121,7 @@
 | [bodega](https://open.spotify.com/track/68paJU10bEqvPWZrr236PO) | [pax million](https://open.spotify.com/artist/2FVLixsmW8J9nETH05QKkh) | [bodega](https://open.spotify.com/album/6AKg2aeesz6deACc3tJYy5) | 1:58 | 2021-11-10 | 2022-04-08 |
 | [Boketto](https://open.spotify.com/track/7lsXStqVSGuuzavUyQGcvG) | [ONO1](https://open.spotify.com/artist/1wOIZR70O6dxpsUXhjEsAr) | [Boketto](https://open.spotify.com/album/3yKkbaKq3c5uHFoH1Bo9vO) | 2:03 | 2022-06-10 | 2022-11-12 |
 | [books & backpacks](https://open.spotify.com/track/6iDThqdBhVmWXoMsXIw0XV) | [suburban sad](https://open.spotify.com/artist/5jL3irFL2TtSPQOo8v3Nya) | [books & backpacks](https://open.spotify.com/album/0W6HFQsZAekHlfu3p0NYc8) | 2:16 | 2021-11-10 | 2023-08-04 |
+| [bookworn](https://open.spotify.com/track/6tnQHLy3sz7QNLBsYCpDnn) | [yellow sofa](https://open.spotify.com/artist/00zktRPsRiNCP7GWXXi9Jc) | [bookworn](https://open.spotify.com/album/3jSoRUUVr4fHrpaFVRB3V9) | 2:05 | 2024-03-22 |  |
 | [boom!!!](https://open.spotify.com/track/4S0bOkyqlnnRvnuzVJE3mP) | [swedish beatballs](https://open.spotify.com/artist/2eJN1cNXLWA4On1BUH5QUl) | [boom!!!](https://open.spotify.com/album/2tofbzHkP5c933se96KuSX) | 2:02 | 2022-10-01 |  |
 | [boombox](https://open.spotify.com/track/5DU237MfhlKWzzdH1WzjFg) | [Audio Phill](https://open.spotify.com/artist/3X8s6pf8NBV2nl9Gvcbptb) | [boombox](https://open.spotify.com/album/5sjeVeQ8dIcvyh2RmqD8Z3) | 2:24 | 2022-10-15 |  |
 | [Born On A Full Moon](https://open.spotify.com/track/5QWaOjqzuhPKT90hzWz7yC) | [Summer Clarke](https://open.spotify.com/artist/5VJreBDjx8zamtY3YyZyMr) | [Born On A Full Moon](https://open.spotify.com/album/0PFO5GugGPuXvDY9KNsZO0) | 2:25 | 2023-04-03 |  |
@@ -146,6 +147,7 @@
 | [Calico Citrus](https://open.spotify.com/track/4lmekINZ116MuKS8lmxwCC) | [Kid Gnasher](https://open.spotify.com/artist/3Qyo0y91QA458PKIuWso2j) | [Calico Citrus](https://open.spotify.com/album/2ctF0am26hNhUGvHjGKsOa) | 2:54 | 2021-11-10 | 2022-06-10 |
 | [Caligo](https://open.spotify.com/track/3tXBdxbIq8aqrB70q5KMTJ) | [Moderator](https://open.spotify.com/artist/6fynenqBn7lrlAgVCw5YnB) | [Caligo](https://open.spotify.com/album/24og9ExkwGCk37GUJ3Sodd) | 2:23 | 2023-04-11 | 2023-09-29 |
 | [Calm](https://open.spotify.com/track/7b8typZKTFHbGA1jivtORb) | [Revoir](https://open.spotify.com/artist/7FBH8ul4xUiYw1eYeBJs1f) | [Calm](https://open.spotify.com/album/4PdgJJokVcXVGf8xahnZy8) | 1:58 | 2022-09-16 | 2023-10-06 |
+| [Calm Euphoria](https://open.spotify.com/track/5Z1JCzQtEbH3OAUT9xWi4k) | [Alunni](https://open.spotify.com/artist/5uZQ9focwD7agsnaUA2gBz) | [Calm Euphoria](https://open.spotify.com/album/1klIEGzkf55z5Dwa7cq6tF) | 2:24 | 2024-03-22 |  |
 | [calm the mind](https://open.spotify.com/track/3pBRXJlRx3OwrI0YesboWC) | [May\-Flowa](https://open.spotify.com/artist/3nYAsFmuTO2M6A9Gpb8CCr) | [calm the mind](https://open.spotify.com/album/7ecnD9VzrEx4xaMMfUmf5S) | 2:22 | 2023-10-13 |  |
 | [Candy](https://open.spotify.com/track/6JD16eoMFjKNU9OVmSL2eq) | [Ada Vula](https://open.spotify.com/artist/79KlmpJEbaL2Eif2lceNLv) | [Candy](https://open.spotify.com/album/38oI19U6Dm87afeEMF5f9N) | 1:46 | 2022-09-02 |  |
 | [Candy Clouds](https://open.spotify.com/track/0Z4O3yTtmqdLXzCxSX9XPt) | [Airship River](https://open.spotify.com/artist/6v5wK0vEKyLP05vV9dvly6) | [Lemo](https://open.spotify.com/album/0rA6rd8ashXD1xaAQkbZRI) | 3:12 | 2021-11-10 | 2023-03-02 |
@@ -244,7 +246,7 @@
 | [Dewdrop Lemonade](https://open.spotify.com/track/4SKRNfT7WI73MJho3suqYl) | [Blackburri](https://open.spotify.com/artist/5FcsuAQwO56qMIZTFei6x1) | [Dewdrop Lemonade](https://open.spotify.com/album/1sn5fGZMA3XAEp7rSv9GMY) | 3:26 | 2021-11-10 | 2023-01-20 |
 | [Di Vibes](https://open.spotify.com/track/6IJnra0kE1vmJACs3i6ndb) | [Mixtus](https://open.spotify.com/artist/2iAb3BfKnswIVev8Z9BpR3) | [Di Vibes](https://open.spotify.com/album/1DBVUgN89KxsMi9bJ7qMFT) | 2:21 | 2021-11-10 | 2022-10-29 |
 | [digital world](https://open.spotify.com/track/3sH7hXm0s9RNht0UCqsx6n) | [Soiboi](https://open.spotify.com/artist/7oauQAwO8Y8EDxNJY0xqeQ) | [Paradise Winds](https://open.spotify.com/album/4DgY9ntwAIqoDzfx6sdwIK) | 2:23 | 2022-08-12 | 2023-10-06 |
-| [Dimensions](https://open.spotify.com/track/2VKqelsvqtcpX7QTEJheVV) | [Adam Space](https://open.spotify.com/artist/3q9oOLVN8jaGI6Ui3qB2LU) | [Dimensions](https://open.spotify.com/album/65Nfg0mJNJvwQz1ktVtw5x) | 1:49 | 2024-03-08 |  |
+| [Dimensions](https://open.spotify.com/track/2VKqelsvqtcpX7QTEJheVV) | [Adam Space](https://open.spotify.com/artist/3q9oOLVN8jaGI6Ui3qB2LU) | [Dimensions](https://open.spotify.com/album/65Nfg0mJNJvwQz1ktVtw5x) | 1:49 | 2024-03-08 | 2024-03-22 |
 | [Dimmed Light](https://open.spotify.com/track/4Xj4BPnbmN1f7wuvyTJ0i0) | [Alisen](https://open.spotify.com/artist/3owqdrnhrd1s5lKXMQ9Utp) | [Dimmed Light](https://open.spotify.com/album/0XJmpzBbigJxsbD8chAzWE) | 1:20 | 2021-11-10 | 2022-04-08 |
 | [Dinner is Ready](https://open.spotify.com/track/0QIlgmnJBsd6zkH9u7MEcX) | [Louk](https://open.spotify.com/artist/6ljotXgL1sbhiI7aiF7W8O), [Lodge Records](https://open.spotify.com/artist/1zH6nlehuJvatlTMmKok98) | [Dinner is Ready](https://open.spotify.com/album/3kPBeasLZztiyyCPZ9l9wO) | 2:27 | 2021-11-10 | 2022-10-15 |
 | [Dinner’s Served](https://open.spotify.com/track/0nASctIkaEfub4pypuF2W8) | [Beat Oven](https://open.spotify.com/artist/57nxKbKZ4Uc9jzTkcCfRRq) | [Dinner’s Served](https://open.spotify.com/album/5ezQJJXz3PlzEEA3Bn7Thz) | 1:20 | 2021-11-10 | 2022-04-08 |
@@ -460,7 +462,7 @@
 | [How The Story Goes](https://open.spotify.com/track/4C1kmQjG42md25gFTyqvik) | [The Escape Route](https://open.spotify.com/artist/0OtRCgwx2kuOZy7ylYPU7g) | [Ariadne](https://open.spotify.com/album/71YzYvRCooN8yB2itVAE3d) | 2:26 | 2023-03-16 |  |
 | [Howl](https://open.spotify.com/track/0jv8Wc070R7666f1ZqOBc6) | [SumPlusOne](https://open.spotify.com/artist/0cER211mwgbpBAMlqyXNi4) | [Howl](https://open.spotify.com/album/2dVX4NHJr7an0lAZiGjB4H) | 2:54 | 2021-11-10 | 2022-04-08 |
 | [Hugs](https://open.spotify.com/track/4DvpfIQ3MzvqGjv55JLhBy) | [Quist](https://open.spotify.com/artist/5aAoxh5kzdhSfHhsPThqdH) | [Hugs](https://open.spotify.com/album/20XOY3736f9F4ChtuDP7Jv) | 1:36 | 2022-04-22 | 2023-09-16 |
-| [Hush Hush](https://open.spotify.com/track/3F90E5OZDFFZymIM39Lt4G) | [Simu](https://open.spotify.com/artist/60LZQf6T8dgrVN0KpHjWJp) | [Hush Hush](https://open.spotify.com/album/0FrZGfKkaAX1JtBq7PjCzU) | 2:39 | 2022-12-09 |  |
+| [Hush Hush](https://open.spotify.com/track/3F90E5OZDFFZymIM39Lt4G) | [Simu](https://open.spotify.com/artist/60LZQf6T8dgrVN0KpHjWJp) | [Hush Hush](https://open.spotify.com/album/0FrZGfKkaAX1JtBq7PjCzU) | 2:39 | 2022-12-09 | 2024-03-22 |
 | [Hustle](https://open.spotify.com/track/2ItT6Kt0j6lsCQghaB8748) | [Ginnypig](https://open.spotify.com/artist/72bmvqzLz3X1XDJ0eZh61F) | [Hustle](https://open.spotify.com/album/36RbOMJiubjof1uj03ZwkG) | 2:24 | 2021-11-10 | 2022-11-12 |
 | [Hypnotize](https://open.spotify.com/track/02K4Xtln59oC545vyjFcSa) | [Billy Bass](https://open.spotify.com/artist/2yp0SXzKw2QwxY1btRjUS6) | [Hypnotize](https://open.spotify.com/album/1IykfuCo1IlJJ5RGROfNzl) | 1:46 | 2021-11-10 | 2022-09-03 |
 | [I Have A Crush On You…](https://open.spotify.com/track/4B1Yl9xzbOAJjdjSt3tXkQ) | [run2me](https://open.spotify.com/artist/5hCMSuSpa0y5KihMVcfGw7) | [I Have A Crush On You…](https://open.spotify.com/album/1GXLqbEQkJvaKs1cX7rk6d) | 2:36 | 2023-07-13 |  |

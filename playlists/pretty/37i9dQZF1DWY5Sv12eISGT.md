@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY5Sv12eISGT.md) - [plain]
 
 > Unwind to some chilled and cozy acoustic Afropop jams
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,543 likes - 50 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,731 likes - 50 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY5Sv12eISGT.md) - [plain]
 | 49 | [Fine \- Acoustic](https://open.spotify.com/track/5XhnDZdU1oIrbbGR9p5zin) | [Diamond Platnumz](https://open.spotify.com/artist/3cAisWS37sGCCtRgWfvrod) | [First Of All \(Acoustic\)](https://open.spotify.com/album/7C3XJPyTLi1edptS5bNE1x) | 4:09 |
 | 50 | [Aparo \(With Lisa Oduor\-Noah\) \- Acoustic](https://open.spotify.com/track/3V9O5e55cXGgDT8L0Xk9bX) | [Kato Change](https://open.spotify.com/artist/3Day7hRDsVXE8uRBCpR2z5), [Lisa Oduor Noah](https://open.spotify.com/artist/4TvajrZD4cJdAx2jO4yO5e) | [The Change Experience](https://open.spotify.com/album/3gLCcJQngVtacSslBa39qG) | 3:51 |
 
-Snapshot ID: `MCxmNDNiYTZjMWZkYTMzMTA5M2VhN2ZkNjk3MDg4OGY0OTVjNGYwYWVi`
+Snapshot ID: `MCwxNTc4ZTI5Njc5NWEzZTQyMDk5NDhiYTljZmVjYWQ3YjY0ZTdkMWQ4`

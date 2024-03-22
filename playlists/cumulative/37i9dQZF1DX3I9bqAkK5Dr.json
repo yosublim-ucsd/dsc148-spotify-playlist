@@ -110,7 +110,7 @@
       ],
       "date_added": "2024-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-22",
       "duration_ms": 213680,
       "name": "Aliveni",
       "url": "https://open.spotify.com/track/5mMk94mShBq7m9x8tYkMgb"
@@ -3040,6 +3040,24 @@
       "duration_ms": 219789,
       "name": "Nuvvele",
       "url": "https://open.spotify.com/track/3KAAehMv5l1x239SONwaDw"
+    },
+    {
+      "album": {
+        "name": "Nuvvu Unte Chaalu",
+        "url": "https://open.spotify.com/album/6MNr0qhQfvkJthcGqNelpV"
+      },
+      "artists": [
+        {
+          "name": "Oliver Kim",
+          "url": "https://open.spotify.com/artist/4A4siCgJtEqDbtmotaNVgs"
+        }
+      ],
+      "date_added": "2024-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 98375,
+      "name": "Nuvvu Unte Chaalu",
+      "url": "https://open.spotify.com/track/2Ls2a6pVhsEp2gFWUhegdV"
     },
     {
       "album": {

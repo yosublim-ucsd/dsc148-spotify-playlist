@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2MRjDGxeIYDgOxA1acUM4z.md) - [plain]
 
 > ❤️
 
-[Lolo](https://open.spotify.com/user/126463876) - 1 like - 49 songs - 3 hr 3 min
+[Lolo](https://open.spotify.com/user/126463876) - 1 like - 50 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,5 +57,6 @@ pretty - [cumulative](/playlists/cumulative/2MRjDGxeIYDgOxA1acUM4z.md) - [plain]
 | 47 | [drunk text me](https://open.spotify.com/track/5gukv8x9eP58gFy2OcZEBQ) | [Lexi Jayde](https://open.spotify.com/artist/69761NObDw2KwmmFgZmxzC) | [closer to closure](https://open.spotify.com/album/6CfZkq2gT8JmDKJGgHOIf1) | 3:33 |
 | 48 | [Waiting Room](https://open.spotify.com/track/04mAOoQNsXmDJlyupJwmkO) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Lost Ark Studio Compilation, Vol\. 8](https://open.spotify.com/album/1SiSNGAf4CVJgF63NJyTw9) | 6:33 |
 | 49 | [Peach Scone](https://open.spotify.com/track/4Pj5nvdDibE3sgflD87J2i) | [Hobo Johnson](https://open.spotify.com/artist/05SdqPzK4m3k1ljK2wrTSP) | [Peach Scone](https://open.spotify.com/album/7vmQrCrkv7whnfvq7zJxU7) | 3:32 |
+| 50 | [Hindsight](https://open.spotify.com/track/6g5oi3Iu0N4plmr7JYVPNt) | [The Catalina](https://open.spotify.com/artist/28QCTLI7HSNPNm6b217Pjj) | [Hindsight](https://open.spotify.com/album/5EKAIPrUKheBG2TOHPG7KI) | 3:11 |
 
-Snapshot ID: `MTc0LDUzODUxZDVlMDE0N2RkNDFhMDgyNjIzMGM4ZGM5MjRlZDg3OWVkNDE=`
+Snapshot ID: `MTc1LDFiMjlkMmNmMWMxZDY0Yjg4YWZjMzcxZGJjYjU5MzMyNmE5YTY4OTY=`

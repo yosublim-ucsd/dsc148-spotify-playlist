@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2849WwDsNlt9FpSLivBw2v">Waleria Leão</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-494 songs - 1 day 0 hr 6 min
+495 songs - 1 day 0 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -354,7 +354,7 @@
 | [Pergunta Sem Resposta](https://open.spotify.com/track/58XunJc0zDAUUIe2iTKLA0) | [Augusto e Rafael](https://open.spotify.com/artist/1md31EhusZo6xEhEXVXbb3) | [Pergunta Sem Resposta](https://open.spotify.com/album/5TmFYOwzFE8rbocdW81fkK) | 3:01 | 2023-12-30 |  |
 | [Perguntas \- Ao Vivo](https://open.spotify.com/track/3vGtwUhJWPRNDt1z1Qfp94) | [Felipe Grilo](https://open.spotify.com/artist/0kBK89gG6KK0EerF62bfM3) | [Quebra Minha Promessa \(Ao Vivo\)](https://open.spotify.com/album/16SaOElwtj4swVNyxwYYo8) | 3:03 | 2023-12-30 |  |
 | [Pinga e Rapariga](https://open.spotify.com/track/2gvAfUV7p4UWkbKF8hrFG3) | [Althaír & Alexandre](https://open.spotify.com/artist/6UtAd1rrgAMSdH8uF8AvqL) | [Composições](https://open.spotify.com/album/4WKb9ZZMwxzjIm64sM9kxs) | 2:45 | 2023-12-30 |  |
-| [Pneuzinho de Chopp](https://open.spotify.com/track/2bDOBz3JVQ4F1XqYG9kFTK) | [Rodrigo & Thayane](https://open.spotify.com/artist/0k1a0cBg21Xbw13OGowREy) | [Pneuzinho de Chopp](https://open.spotify.com/album/0YvOn0fXJ9K8xVIqpZ84wT) | 2:45 | 2023-12-31 |  |
+| [Pneuzinho de Chopp](https://open.spotify.com/track/2bDOBz3JVQ4F1XqYG9kFTK) | [Rodrigo & Thayane](https://open.spotify.com/artist/0k1a0cBg21Xbw13OGowREy) | [Pneuzinho de Chopp](https://open.spotify.com/album/0YvOn0fXJ9K8xVIqpZ84wT) | 2:45 | 2023-12-31 | 2024-03-22 |
 | [Por Entre a Multidão](https://open.spotify.com/track/3Lgfaw9keP1Zkz9RjZrro2) | [Alan e Aladim](https://open.spotify.com/artist/6lrgtZI2qTutbZMppO9NJd) | [Sol e Lua](https://open.spotify.com/album/1TMRsxh5gDIdbzF7Up2KK4) | 3:24 | 2023-12-30 |  |
 | [Porque Eu Presto \- Ao Vivo](https://open.spotify.com/track/6KF29VNGQdkBJdMjfTmFGA) | [João Neto & Frederico](https://open.spotify.com/artist/2FrLTuXGuFDzQsjKidB03W), [Murilo Huff](https://open.spotify.com/artist/3hq7WoPJsrRP0KMSLhUgRz) | [João Neto & Frederico 25 Anos Ao Vivo \(Ao Vivo / Vol.1\)](https://open.spotify.com/album/4gMaeVI25RAgyHa1tzQCi2) | 3:14 | 2023-12-30 |  |
 | [Povo de Goiás \- Ao Vivo](https://open.spotify.com/track/0tIzDyYpRvfSFeF59Fhb0j) | [Leo e Matheus](https://open.spotify.com/artist/6Ezj2v8IDNB9UllAtaNpma) | [Até o Talo, Ep\. 01 \(Ao Vivo\)](https://open.spotify.com/album/4F2x6CfAxOeTXMoUokqLzG) | 2:30 | 2023-12-30 |  |
@@ -496,6 +496,7 @@
 | [Volta por Dó](https://open.spotify.com/track/0zGTsN9Zwb0a9S9hYuXSld) | [Naiara Azevedo](https://open.spotify.com/artist/0jD7VeE1m2SdHbOWeCtB9l) | [Naiara Sunrise, Ep3](https://open.spotify.com/album/473826n2BTdzaVKChaFvwM) | 2:46 | 2023-12-30 |  |
 | [Volta Pro Felipe](https://open.spotify.com/track/6QkJHtSOWdcbmVtzJRuxjV) | [Felipe Araújo](https://open.spotify.com/artist/47uyFQHOD02S0lj9ptRpoB) | [Check](https://open.spotify.com/album/4VtFp9aoqQYTqxlsN0A8Qg) | 2:31 | 2023-12-30 |  |
 | [Vontade De Terminar \- Ao Vivo](https://open.spotify.com/track/5a3usmwW7FYgzxPKf2jZlv) | [Ícaro e Gilmar](https://open.spotify.com/artist/6Wlvsn3IPHiZwAv02lB5eC) | [Ao Vivo Em Barretos](https://open.spotify.com/album/3285qnjOrD9rF7SErvKa0y) | 3:05 | 2023-12-30 |  |
+| [Vô Num Vô](https://open.spotify.com/track/3YQ23xhBbGAG0o4PM27FEX) | [Marcello Teodoro](https://open.spotify.com/artist/5YaJ30w1xFCq76GRWIMuvn) | [Vô Num Vô](https://open.spotify.com/album/2xVTqwTuXdsJUGhj1sHng3) | 2:45 | 2024-03-21 |  |
 | [Zap](https://open.spotify.com/track/1p787PB1sNKkN8wpI49jcJ) | [Lauana Prado](https://open.spotify.com/artist/6TYimByryGphZCtwYopH0y) | [Natural](https://open.spotify.com/album/6Kz30EyV9GDxUnOnANY3p4) | 2:35 | 2023-12-30 |  |
 | [Zero Expectativa \- Ao Vivo](https://open.spotify.com/track/4Ep7iNCzIc57fbFpJFEhmH) | [Alice Ianes](https://open.spotify.com/artist/5t9QE38oK2ziTKzi2s0nh5) | [Ao Vivo em Goiânia, Ep\. 1](https://open.spotify.com/album/4IOnCuAqRmFJvfWZH3ZwLO) | 2:53 | 2023-12-30 |  |
 | [Zum do Zé Rico](https://open.spotify.com/track/0Cb7ZwPhPFNaonUwfTTBoa) | [Fátima Leão](https://open.spotify.com/artist/2d7EIdqRpKN43NEeyDzN83) | [Minha Loucura de Amor](https://open.spotify.com/album/4wTpCdqGoBIg8TlvFcZCh5) | 3:21 | 2023-12-30 |  |

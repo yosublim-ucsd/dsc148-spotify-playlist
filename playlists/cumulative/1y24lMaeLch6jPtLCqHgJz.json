@@ -2726,7 +2726,7 @@
       ],
       "date_added": "2023-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-22",
       "duration_ms": 255093,
       "name": "Hey Brother",
       "url": "https://open.spotify.com/track/3zKST4nk4QJE77oLjUZ0Ng"
@@ -3842,6 +3842,24 @@
     {
       "album": {
         "name": "Million Voices",
+        "url": "https://open.spotify.com/album/6210F2zGAOsffTLxIiUSu5"
+      },
+      "artists": [
+        {
+          "name": "Heyem & Groozin",
+          "url": "https://open.spotify.com/artist/0l33b3YK4gmAt0mzqcRkVx"
+        }
+      ],
+      "date_added": "2024-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158409,
+      "name": "Million Voices",
+      "url": "https://open.spotify.com/track/4wgCMKsRoAurS2nDNLk3PJ"
+    },
+    {
+      "album": {
+        "name": "Million Voices",
         "url": "https://open.spotify.com/album/6yEb0IID8Uc99lvC3QtWD4"
       },
       "artists": [
@@ -3870,7 +3888,7 @@
       ],
       "date_added": "2024-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-22",
       "duration_ms": 192866,
       "name": "Million Voices - Radio Edit",
       "url": "https://open.spotify.com/track/6dorGUM2FmYewXKxmgwoU6"
@@ -4369,6 +4387,24 @@
     },
     {
       "album": {
+        "name": "Ooh La La",
+        "url": "https://open.spotify.com/album/25TCGFGYvW6oI7ZCraqgnf"
+      },
+      "artists": [
+        {
+          "name": "AVAO",
+          "url": "https://open.spotify.com/artist/6bdAgX0KYeVKzqNhnARYBw"
+        }
+      ],
+      "date_added": "2024-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139966,
+      "name": "Ooh La La",
+      "url": "https://open.spotify.com/track/0ZArmyTbpxmrHOzylqeUsA"
+    },
+    {
+      "album": {
         "name": "Own The Night",
         "url": "https://open.spotify.com/album/2qA0Z9KmCeqtH2IiYSqDtt"
       },
@@ -4678,7 +4714,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-22",
       "duration_ms": 172000,
       "name": "Push Up (My Funky Beat)",
       "url": "https://open.spotify.com/track/75hrEPrYVYSpTClJvzC2l4"
@@ -4924,7 +4960,7 @@
       ],
       "date_added": "2023-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-22",
       "duration_ms": 157440,
       "name": "Roll Back",
       "url": "https://open.spotify.com/track/2GFiXviurRB2qugGsD3bkE"
@@ -5216,6 +5252,24 @@
       "duration_ms": 253110,
       "name": "Secrets Of The Dark",
       "url": "https://open.spotify.com/track/6w5gCextRvG72Rkfpy95wf"
+    },
+    {
+      "album": {
+        "name": "Serenity",
+        "url": "https://open.spotify.com/album/42LvHKQwNCugCjXFiEmlP4"
+      },
+      "artists": [
+        {
+          "name": "Sick Individuals",
+          "url": "https://open.spotify.com/artist/0XqFDQJjqW5PfhfBCb53LR"
+        }
+      ],
+      "date_added": "2024-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219961,
+      "name": "Serenity",
+      "url": "https://open.spotify.com/track/0SK8K3M1UCiU2wYHjcgEVA"
     },
     {
       "album": {
@@ -5860,7 +5914,7 @@
       ],
       "date_added": "2023-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-22",
       "duration_ms": 181982,
       "name": "The Darkness",
       "url": "https://open.spotify.com/track/4tR8fRaxfqK8cbBTGUW4CV"
@@ -6803,6 +6857,32 @@
     },
     {
       "album": {
+        "name": "Wild",
+        "url": "https://open.spotify.com/album/5yDDif1Lxqfheltsy5Cb4u"
+      },
+      "artists": [
+        {
+          "name": "MatricK",
+          "url": "https://open.spotify.com/artist/3K0HRfLEyOW4FtCzUxltQH"
+        },
+        {
+          "name": "Nick Havsen",
+          "url": "https://open.spotify.com/artist/1MISHmlS06R8ba7RVsn0A3"
+        },
+        {
+          "name": "Jessie Lee Thetford",
+          "url": "https://open.spotify.com/artist/2bLOeO0xeK04raTh2PaBTZ"
+        }
+      ],
+      "date_added": "2024-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171555,
+      "name": "Wild",
+      "url": "https://open.spotify.com/track/3kKq8JKvGEGSJwd3aChRRb"
+    },
+    {
+      "album": {
         "name": "Wish We Never Met",
         "url": "https://open.spotify.com/album/1mTsJvaFqaiCn8oMUZ62mW"
       },
@@ -7002,7 +7082,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-22",
       "duration_ms": 235827,
       "name": "Your Love",
       "url": "https://open.spotify.com/track/68LkCIP3WWHNOiezuG9EAD"

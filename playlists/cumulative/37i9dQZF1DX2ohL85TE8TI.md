@@ -2,7 +2,7 @@
 
 ### [Korean OSTs](https://open.spotify.com/playlist/37i9dQZF1DX2ohL85TE8TI)
 
-> Hot & new K\-Drama OSTs are here! \(Cover: Marry My Husband\(내 남편과 결혼해줘\)\) \(인기 있는 화제의 OST곡들을 즐겨보세요!\)
+> Hot & new K\-Drama OSTs are here! \(Cover: Queen of Tears\(눈물의 여왕\)\) \(인기 있는 화제의 OST곡들을 즐겨보세요!\)
 
 818 songs - 2 day 1 hr 40 min
 

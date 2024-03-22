@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX37T6O68lz4o.md) - [plain]
 
 > New England music breaking waves\. Cover: <a href="spotify:artist:1DN9Pgv4fiAaRSSgiisj5G">Felix!</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,950 likes - 49 songs - 2 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,956 likes - 49 songs - 2 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,7 +44,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX37T6O68lz4o.md) - [plain]
 | 34 | [Coat Hanger](https://open.spotify.com/track/5uZsVB4E34HdORdxFQ6QS5) | [Latrell James](https://open.spotify.com/artist/7zrWMnPOpwr5AEt670VKMc) | [Coat Hanger](https://open.spotify.com/album/1SGR3mh7RFvON6buXUTe7S) | 1:49 |
 | 35 | [10pc](https://open.spotify.com/track/1PgBPDa8rxfsao5FkfMWP4) | [Jiles](https://open.spotify.com/artist/7pnz0G9l89KK5iC6Beevcx), [Vinyl Villain](https://open.spotify.com/artist/37OfAXhSGfjxrODZr2fNX4) | [Mookie Blaylock](https://open.spotify.com/album/3GjXhr9C7CW7BmB1uKVJ4z) | 2:52 |
 | 36 | [Declarations](https://open.spotify.com/track/75X92HqHCt21wu56OEoG68) | [T Clipse](https://open.spotify.com/artist/2VUOGUpWy8Ckg92h8EjBIW) | [Declarations](https://open.spotify.com/album/0hPTGUnRjDEdgkBE9ThBvn) | 2:06 |
-| 37 | [I Do I](https://open.spotify.com/track/6x75JRWcelMRPBMEHnGMiI) | [Nay $peaks](https://open.spotify.com/artist/5and6mMu319HtYPWAacsju) | [Nayborhood Healer](https://open.spotify.com/album/781crCQLQK320V8xWU6l9E) | 1:48 |
+| 37 | [I Do I](https://open.spotify.com/track/6x75JRWcelMRPBMEHnGMiI) | [Nay Speaks](https://open.spotify.com/artist/3kYoVeuo1kVavmhDwBD8Xx) | [Nayborhood Healer](https://open.spotify.com/album/781crCQLQK320V8xWU6l9E) | 1:48 |
 | 38 | [DONE BEING BROKE](https://open.spotify.com/track/2ZFTzop62lkocOJ1nCkKiH) | [WHYTRI](https://open.spotify.com/artist/4z1mmeq6Dsr43uwzLiTXys), [Malik Elijah](https://open.spotify.com/artist/1go10OxHP4fyGsyWfJcFEh) | [DONE BEING BROKE](https://open.spotify.com/album/0X9xx1cnBVkqdGFwpz9Yu3) | 3:38 |
 | 39 | [Yeah Yeah](https://open.spotify.com/track/3FScVu3qZNU2isUYNvCwh4) | [Luke Bar$](https://open.spotify.com/artist/6CGyB4PAg5rEyzeGumZrjr) | [Angels Never Die](https://open.spotify.com/album/5jjL60rm8RzpoEQ3vs7lDf) | 2:46 |
 | 40 | [Ain't Trippin](https://open.spotify.com/track/2ztRHARBf4Mp13vbNRkEFS) | [Lee Bezel](https://open.spotify.com/artist/73lsSnZSw4FUrXyCtlKS1G) | [Ain't Trippin](https://open.spotify.com/album/45H9VeEuVkoZZMSRuVH4Zo) | 1:51 |
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX37T6O68lz4o.md) - [plain]
 | 48 | [3 Am](https://open.spotify.com/track/7s2akMKHmx4C283JgZVYTN) | [C\. Wells](https://open.spotify.com/artist/4gfQutFlhH2GGtixg1ItOw), [Deon Chase](https://open.spotify.com/artist/0cAaXrP84y4CSfmJ5A7oKU) | [Keisha Blue](https://open.spotify.com/album/2EG5F7Cx65j5BXgVjim7QH) | 4:13 |
 | 49 | [Tex Winter](https://open.spotify.com/track/1OThgI6OIvuSR69zloLAvV) | [Sensei Sol](https://open.spotify.com/artist/1ZLJtRLhwdamkS2UddAexN), [T Clipse](https://open.spotify.com/artist/2VUOGUpWy8Ckg92h8EjBIW) | [Tex Winter](https://open.spotify.com/album/5Y2cAh4NajtDUXCJnrBtJE) | 2:54 |
 
-Snapshot ID: `MCw2YmM3NDJiY2EwOTYwOGU1ODY4MzBmNzhiYjUwNGMxZjFiMGQ4Yzkx`
+Snapshot ID: `MCwxM2RmMmM2MGVmYjVjMDhiZTViM2U1M2Y0OWM2YTRiNWM0ZmZjMTA4`

@@ -2467,6 +2467,24 @@
     },
     {
       "album": {
+        "name": "Mindless mind",
+        "url": "https://open.spotify.com/album/7lGC2tpIRttYuRWGazMQP2"
+      },
+      "artists": [
+        {
+          "name": "JISOKURY",
+          "url": "https://open.spotify.com/artist/1q18hSxRDapqXvqPityx3Z"
+        }
+      ],
+      "date_added": "2022-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255000,
+      "name": "Mindless mind",
+      "url": "https://open.spotify.com/track/5oKr4zxLZxe4rNj2SrzWYR"
+    },
+    {
+      "album": {
         "name": "Minsu is confused",
         "url": "https://open.spotify.com/album/7iQarceFKVFWHCXTOLPcqi"
       },
@@ -4494,24 +4512,6 @@
       "duration_ms": 345826,
       "name": "\uc0c8\ubcbd",
       "url": "https://open.spotify.com/track/2ZdGFdWRNryQsUe36wqprU"
-    },
-    {
-      "album": {
-        "name": "\uc0dd\uac01\uc5c6\ub294\uc0dd\uac01\uc5d0\ud138\uc369\uba38\ubb34\ub974\uc790 Mindless mind",
-        "url": "https://open.spotify.com/album/7lGC2tpIRttYuRWGazMQP2"
-      },
-      "artists": [
-        {
-          "name": "JISOKURY",
-          "url": "https://open.spotify.com/artist/1q18hSxRDapqXvqPityx3Z"
-        }
-      ],
-      "date_added": "2022-10-02",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 255000,
-      "name": "\uc0dd\uac01\uc5c6\ub294\uc0dd\uac01\uc5d0\ud138\uc369\uba38\ubb34\ub974\uc790 Mindless mind",
-      "url": "https://open.spotify.com/track/5oKr4zxLZxe4rNj2SrzWYR"
     },
     {
       "album": {

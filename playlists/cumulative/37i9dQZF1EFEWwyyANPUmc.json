@@ -649,24 +649,24 @@
     },
     {
       "album": {
-        "name": "Honest",
+        "name": "Honest (Matt Florgan Mix)",
         "url": "https://open.spotify.com/album/2d1PTvc0fyrS9wDLGKyF6r"
       },
       "artists": [
         {
-          "name": "Matt Florgan",
-          "url": "https://open.spotify.com/artist/1hyFVrYjtDUnLJVzjMprlZ"
-        },
-        {
           "name": "Davis Mallory",
           "url": "https://open.spotify.com/artist/36jYAd2YSZ3xc21LNvMPPV"
+        },
+        {
+          "name": "Matt Florgan",
+          "url": "https://open.spotify.com/artist/1hyFVrYjtDUnLJVzjMprlZ"
         }
       ],
       "date_added": "2023-02-26",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 144500,
-      "name": "Honest",
+      "name": "Honest - Matt Florgan Mix",
       "url": "https://open.spotify.com/track/1zfLmKG6W76HcNwfT8yI3G"
     },
     {

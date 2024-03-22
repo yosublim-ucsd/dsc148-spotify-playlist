@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-25",
-  "description": "Latin music making waves. Cover: Lismar",
+  "description": "Latin music making waves and Cristina Martinez bringing the vibes with the first 5 songs. Cover: Lismar",
   "name": "Latin Frequency",
   "tracks": [
     {
@@ -34,7 +34,7 @@
       ],
       "date_added": "2023-01-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-02",
+      "date_removed": null,
       "duration_ms": 153680,
       "name": "94",
       "url": "https://open.spotify.com/track/6vsAfEwT8L9xsiSfXNnHpN"
@@ -136,7 +136,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-02",
+      "date_removed": null,
       "duration_ms": 208000,
       "name": "Anormales",
       "url": "https://open.spotify.com/track/6WDpZh5KVSshn7PWnhHlqY"
@@ -285,6 +285,24 @@
     },
     {
       "album": {
+        "name": "Son con Guaguanc\u00f3",
+        "url": "https://open.spotify.com/album/2j9JHp4omrgcgXsWLoMG2J"
+      },
+      "artists": [
+        {
+          "name": "Celia Cruz",
+          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
+        }
+      ],
+      "date_added": "2024-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211866,
+      "name": "Bemba Color\u00e1",
+      "url": "https://open.spotify.com/track/6vWPBJvH1NdMvjsXWTDtjh"
+    },
+    {
+      "album": {
         "name": "Betty",
         "url": "https://open.spotify.com/album/7kRpm1Ax9vG5Mc3ISEF9ve"
       },
@@ -296,7 +314,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-02",
+      "date_removed": null,
       "duration_ms": 173894,
       "name": "Betty",
       "url": "https://open.spotify.com/track/4vjxTax1lQvczaIlyVx5ME"
@@ -638,7 +656,7 @@
       ],
       "date_added": "2023-04-03",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-24",
+      "date_removed": null,
       "duration_ms": 203202,
       "name": "Deja Que Te Lleve",
       "url": "https://open.spotify.com/track/1cOCvJSFjmdvh4ByUGZf2V"
@@ -758,7 +776,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-02",
+      "date_removed": null,
       "duration_ms": 172500,
       "name": "Diferente",
       "url": "https://open.spotify.com/track/0n3jrfZNBxQXAezu2WwrTd"
@@ -798,7 +816,7 @@
       ],
       "date_added": "2023-02-27",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-06",
+      "date_removed": null,
       "duration_ms": 195276,
       "name": "Dime La Verdad",
       "url": "https://open.spotify.com/track/2ksfEETsqZ0La3QnJcfxbV"
@@ -1128,7 +1146,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-31",
+      "date_removed": null,
       "duration_ms": 181080,
       "name": "Esa Flaca",
       "url": "https://open.spotify.com/track/2e0EnlrAtFtzo4q91sR38G"
@@ -1368,7 +1386,7 @@
       ],
       "date_added": "2024-02-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-26",
+      "date_removed": null,
       "duration_ms": 185811,
       "name": "Ghetto Love (feat. Modblack)",
       "url": "https://open.spotify.com/track/6tKf1yECBWM1YOuld7sU4B"
@@ -1538,7 +1556,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-02",
+      "date_removed": null,
       "duration_ms": 157297,
       "name": "Holy Ghost $$$",
       "url": "https://open.spotify.com/track/4JNxvjgaJyYdRAc1yhUPKj"
@@ -1596,7 +1614,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-02",
+      "date_removed": null,
       "duration_ms": 250440,
       "name": "Kilo Kilo",
       "url": "https://open.spotify.com/track/6QBrMT3F1gAcvdS7wIEeFO"
@@ -1636,7 +1654,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-05",
+      "date_removed": null,
       "duration_ms": 166533,
       "name": "KLK TE PASA A TI",
       "url": "https://open.spotify.com/track/4XSO2ESu4JENljsN2irGWz"
@@ -1730,7 +1748,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-02",
+      "date_removed": null,
       "duration_ms": 195303,
       "name": "La Incondicional",
       "url": "https://open.spotify.com/track/4CLM8zLq72polDBRjlo8K4"
@@ -1764,6 +1782,28 @@
       "duration_ms": 219000,
       "name": "La Mam\u00e1 de la Mam\u00e1",
       "url": "https://open.spotify.com/track/2L95U6syP0bV3fkYYOzmiW"
+    },
+    {
+      "album": {
+        "name": "Aura",
+        "url": "https://open.spotify.com/album/0SukGZiXMtmsZoxstkBtNR"
+      },
+      "artists": [
+        {
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        },
+        {
+          "name": "Cardi B",
+          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
+        }
+      ],
+      "date_added": "2024-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255506,
+      "name": "La Modelo",
+      "url": "https://open.spotify.com/track/2SbzdGpOKlH3HIAGTWTbwU"
     },
     {
       "album": {
@@ -2029,6 +2069,24 @@
     },
     {
       "album": {
+        "name": "Me Mata el Deseo",
+        "url": "https://open.spotify.com/album/2R6DeBIf0IgOkhEGs0t9Ov"
+      },
+      "artists": [
+        {
+          "name": "Luchy DR",
+          "url": "https://open.spotify.com/artist/0SbiXy5hZuC7ZjOXNXygql"
+        }
+      ],
+      "date_added": "2024-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187116,
+      "name": "Me Mata el Deseo",
+      "url": "https://open.spotify.com/track/6TUmGFJfQIMiqMGswtDX3Z"
+    },
+    {
+      "album": {
         "name": "Me Siento Orgulloso",
         "url": "https://open.spotify.com/album/5oy9mS9CCWSYBGJr0mktbS"
       },
@@ -2248,7 +2306,7 @@
       ],
       "date_added": "2023-02-27",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-02",
+      "date_removed": null,
       "duration_ms": 200930,
       "name": "M\u00edrame",
       "url": "https://open.spotify.com/track/4xuYmM0jxeQ7svyfZpciVl"
@@ -2284,7 +2342,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-19",
+      "date_removed": null,
       "duration_ms": 138626,
       "name": "Na Na Na",
       "url": "https://open.spotify.com/track/68s5zs7NWOgy3NyJ7U1uzA"
@@ -2386,7 +2444,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-19",
+      "date_removed": null,
       "duration_ms": 163840,
       "name": "NI\u00d1XS ROTXS",
       "url": "https://open.spotify.com/track/6MccctjUYdUgPPEbpqgRrw"
@@ -2480,7 +2538,7 @@
       ],
       "date_added": "2023-02-27",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-22",
+      "date_removed": null,
       "duration_ms": 217480,
       "name": "Noches X Madrid",
       "url": "https://open.spotify.com/track/5sWZqNtHppp5FdxPEIJnIn"
@@ -2654,7 +2712,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-19",
+      "date_removed": null,
       "duration_ms": 217411,
       "name": "Para Mi",
       "url": "https://open.spotify.com/track/4DW0XUPnGT6hWuJYZxErVX"
@@ -2672,7 +2730,7 @@
       ],
       "date_added": "2024-02-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-10",
+      "date_removed": null,
       "duration_ms": 170441,
       "name": "Para Mi (Freestyle)",
       "url": "https://open.spotify.com/track/25H61Zdd3LWgBoA3oOFS25"
@@ -2712,7 +2770,7 @@
       ],
       "date_added": "2023-02-27",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-17",
+      "date_removed": null,
       "duration_ms": 168024,
       "name": "Peligroso",
       "url": "https://open.spotify.com/track/2WRCmqSUVWpVZNeZ1u7njt"
@@ -2730,7 +2788,7 @@
       ],
       "date_added": "2023-04-03",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-25",
+      "date_removed": null,
       "duration_ms": 152546,
       "name": "Perdida",
       "url": "https://open.spotify.com/track/0S1a5taT51Mk1WVx1IwuFp"
@@ -2824,7 +2882,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-23",
+      "date_removed": null,
       "duration_ms": 65759,
       "name": "Probando Freestyle",
       "url": "https://open.spotify.com/track/6uy9W7BAXUR09pMnnix338"
@@ -2972,7 +3030,7 @@
       ],
       "date_added": "2023-02-11",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-02",
+      "date_removed": null,
       "duration_ms": 171250,
       "name": "Saque Otro Tema",
       "url": "https://open.spotify.com/track/0JNCNJZC29fOBjiCIaDwIu"
@@ -3100,7 +3158,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-02",
+      "date_removed": null,
       "duration_ms": 169336,
       "name": "Si Tu Quieres",
       "url": "https://open.spotify.com/track/3yC4gzNRrycuufTcRPSRx2"
@@ -3230,7 +3288,7 @@
       ],
       "date_added": "2023-02-27",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-17",
+      "date_removed": null,
       "duration_ms": 139603,
       "name": "Solita",
       "url": "https://open.spotify.com/track/3gV9Ru9Kdkq5RcF0A2WjZj"
@@ -3332,7 +3390,7 @@
       ],
       "date_added": "2024-02-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-19",
+      "date_removed": null,
       "duration_ms": 180000,
       "name": "SPICY",
       "url": "https://open.spotify.com/track/3Qjwo4QZcSR79l5GaoHweR"
@@ -3350,10 +3408,28 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-02",
+      "date_removed": null,
       "duration_ms": 174133,
       "name": "Sugar Boi",
       "url": "https://open.spotify.com/track/4wSGokexiP0n1wfGZALMLi"
+    },
+    {
+      "album": {
+        "name": "Everything is Beautiful",
+        "url": "https://open.spotify.com/album/53uhBqvPad79nqxsGmVyiv"
+      },
+      "artists": [
+        {
+          "name": "Princess Nokia",
+          "url": "https://open.spotify.com/artist/6lay1nwbE6hTx1jivysUAL"
+        }
+      ],
+      "date_added": "2024-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148000,
+      "name": "Sugar Honey Iced Tea (S.H.I.T.)",
+      "url": "https://open.spotify.com/track/32mS3YkFXkUab2By9hjCRa"
     },
     {
       "album": {
@@ -3398,6 +3474,24 @@
       "duration_ms": 155326,
       "name": "Taka Taka",
       "url": "https://open.spotify.com/track/03zJF1SQSX2sRwILa06p3E"
+    },
+    {
+      "album": {
+        "name": "Tattoo",
+        "url": "https://open.spotify.com/album/0N8VLr0WiDxkexS9wLr6f0"
+      },
+      "artists": [
+        {
+          "name": "Sessi",
+          "url": "https://open.spotify.com/artist/6aPCzcaD2zGsu387By8SZX"
+        }
+      ],
+      "date_added": "2024-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138800,
+      "name": "Tattoo",
+      "url": "https://open.spotify.com/track/3JOaWtqZIoilfjtcDe1Qzb"
     },
     {
       "album": {
@@ -3510,7 +3604,7 @@
       ],
       "date_added": "2024-02-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-19",
+      "date_removed": null,
       "duration_ms": 175293,
       "name": "TOKO",
       "url": "https://open.spotify.com/track/1kE0aGbuxGUOS6rUaBPhCe"
@@ -3554,7 +3648,7 @@
       ],
       "date_added": "2023-02-27",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-02",
+      "date_removed": null,
       "duration_ms": 236910,
       "name": "Trucki",
       "url": "https://open.spotify.com/track/1xyMEik4SsayMAEV4rwYYW"
@@ -3576,6 +3670,32 @@
       "duration_ms": 165000,
       "name": "TU ME QUIERES?",
       "url": "https://open.spotify.com/track/205hq07Rui1lJDgqrqyEaA"
+    },
+    {
+      "album": {
+        "name": "Tukuntazo",
+        "url": "https://open.spotify.com/album/1YffA4MCsDxDIPCDwnzAcZ"
+      },
+      "artists": [
+        {
+          "name": "Tokischa",
+          "url": "https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ"
+        },
+        {
+          "name": "El Cherry Scom",
+          "url": "https://open.spotify.com/artist/1tfhFc2Y8iplDKCteuXjCY"
+        },
+        {
+          "name": "Haraca Kiko",
+          "url": "https://open.spotify.com/artist/4xe6s55EDjpRpyZsrFoiWh"
+        }
+      ],
+      "date_added": "2024-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197763,
+      "name": "Tukuntazo",
+      "url": "https://open.spotify.com/track/0EaBXOqo6TNIIhHctCbQPi"
     },
     {
       "album": {
@@ -3760,6 +3880,24 @@
       "duration_ms": 136798,
       "name": "Way Too Soft",
       "url": "https://open.spotify.com/track/6Ib54l6GmkSTONB4gVsCUS"
+    },
+    {
+      "album": {
+        "name": "What a Bam Bam",
+        "url": "https://open.spotify.com/album/2ZkUOPatBkSSJRDKUBbwaz"
+      },
+      "artists": [
+        {
+          "name": "Amara La Negra",
+          "url": "https://open.spotify.com/artist/6cdcTRFv0nFBQZPmTLWhRh"
+        }
+      ],
+      "date_added": "2024-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188973,
+      "name": "What a Bam Bam",
+      "url": "https://open.spotify.com/track/0l6REfKf0k4aX5UsLIXEhe"
     },
     {
       "album": {

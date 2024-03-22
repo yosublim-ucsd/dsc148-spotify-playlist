@@ -1,5 +1,5 @@
 {
-  "2024-03-21": 291177,
+  "2024-03-22": 291267,
   "date_first_scraped": "2021-12-28",
   "description": "Good vibes for good times!",
   "name": "Reggae Party",
@@ -2267,10 +2267,40 @@
       ],
       "date_added": "2023-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-21",
       "duration_ms": 285000,
       "name": "Soldiers of Fire",
       "url": "https://open.spotify.com/track/5nF92ePaTss9lGEzZhhiYb"
+    },
+    {
+      "album": {
+        "name": "Soldiers of Fire",
+        "url": "https://open.spotify.com/album/2RQkTKEuDT0IAAr7QIXtf3"
+      },
+      "artists": [
+        {
+          "name": "Tiki Taane",
+          "url": "https://open.spotify.com/artist/31ACkQCBFwLQGxN8MwfSrO"
+        },
+        {
+          "name": "Tali",
+          "url": "https://open.spotify.com/artist/2IzewUY71zuiCmfPZWahxv"
+        },
+        {
+          "name": "Pdigsss",
+          "url": "https://open.spotify.com/artist/596zbRjlzKiJ71goKlAJ01"
+        },
+        {
+          "name": "Dub FX",
+          "url": "https://open.spotify.com/artist/4ucW1LE5T7y7X4jlaKCeVo"
+        }
+      ],
+      "date_added": "2024-02-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285000,
+      "name": "Soldiers of Fire",
+      "url": "https://open.spotify.com/track/7lkmiT9V30w6O5AjrmqyFA"
     },
     {
       "album": {

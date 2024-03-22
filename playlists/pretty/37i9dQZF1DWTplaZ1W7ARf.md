@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTplaZ1W7ARf.md) - [plain]
 
 > Neighborhood Storytellers\. Cover: Kodak Black
 
-[Spotify](https://open.spotify.com/user/spotify) - 57,606 likes - 51 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 57,616 likes - 51 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTplaZ1W7ARf.md) - [plain]
 | 50 | [Hopeless Island](https://open.spotify.com/track/6c0KBEx6B7qQDx53Y0FlQx) | [Bfb Da Packman](https://open.spotify.com/artist/3C1bStPNVIPmGIrORT5OlF) | [Hopeless Island](https://open.spotify.com/album/4EFEB8u3JIaK4wy4NEHcdR) | 2:29 |
 | 51 | [go crazy](https://open.spotify.com/track/6YD8EpsddOfEwAhaymGu0Q) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [a Gift & a Curse](https://open.spotify.com/album/5qmZefgh78fN3jsyPPlvuw) | 2:53 |
 
-Snapshot ID: `MCwyMTFhNGRhZGU5NjY0OGVmOWY0OTc1ZDczMGZiMGUyNzRjZDZlOTI4`
+Snapshot ID: `MCxhNGI4ZjQ0NzMwZDNkMjVkMmQ0MDIyYzcwMjQ1M2Q1ZmMyYjEyMGNl`

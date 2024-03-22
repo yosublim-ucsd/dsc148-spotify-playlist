@@ -1,5 +1,5 @@
 {
-  "2024-03-21": 75790,
+  "2024-03-22": 75842,
   "date_first_scraped": "2022-06-10",
   "description": "Canciones inmortales, sentimientos a flor de piel y figuras gigantescas de nuestra m\u00fasica. Foto: Roc\u00edo Jurado",
   "name": "Reinas de la Canci\u00f3n Espa\u00f1ola",
@@ -533,7 +533,7 @@
       ],
       "date_added": "2022-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-21",
       "duration_ms": 228194,
       "name": "El relicario - Remastered",
       "url": "https://open.spotify.com/track/2DM5vKnZNSepFa7Nn3jAMF"
@@ -551,7 +551,7 @@
       ],
       "date_added": "2022-11-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 228194,
       "name": "El Relicario - Remastered",
       "url": "https://open.spotify.com/track/5BZZiP3uW35X4g800Vlp5a"
@@ -933,6 +933,24 @@
     {
       "album": {
         "name": "La Violetera (Remastered)",
+        "url": "https://open.spotify.com/album/0KvJBvbQuMYbFqjcof59iO"
+      },
+      "artists": [
+        {
+          "name": "Sara Montiel",
+          "url": "https://open.spotify.com/artist/4wQ4PEx8pDp2f0wpsvaSDF"
+        }
+      ],
+      "date_added": "2023-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222125,
+      "name": "La Violetera - Remastered",
+      "url": "https://open.spotify.com/track/1fnwF9jNQWIgFobVf57aF1"
+    },
+    {
+      "album": {
+        "name": "La Violetera (Remastered)",
         "url": "https://open.spotify.com/album/47V6DnBwIyOfoGKJRmfEMJ"
       },
       "artists": [
@@ -943,7 +961,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-21",
       "duration_ms": 222125,
       "name": "La Violetera - Remastered",
       "url": "https://open.spotify.com/track/7cUYlqeqJRM8OepKCQIRmL"

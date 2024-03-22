@@ -4,7 +4,7 @@
 
 > Beach vibes and summer jams only.
 
-544 songs - 20 hr 59 min
+546 songs - 21 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -366,6 +366,7 @@
 | [pinecone](https://open.spotify.com/track/4e9YATF1SKYM2P5UH4JUgO) | [MF Eistee](https://open.spotify.com/artist/0hA8JnKhTRBeTfCFoZiem1) | [pinecone](https://open.spotify.com/album/6yZMX1bXhFOWhqasEetSDu) | 1:55 | 2022-11-11 | 2022-12-05 |
 | [pinecone](https://open.spotify.com/track/5EHqiIdmLFPTBP2OvAqaGn) | [MF Eistee](https://open.spotify.com/artist/0hA8JnKhTRBeTfCFoZiem1) | [anthology](https://open.spotify.com/album/7B9D0uQrez5NjtDGNavJQG) | 1:55 | 2022-11-11 | 2022-11-24 |
 | [Pink](https://open.spotify.com/track/5awtju4msMy7Cyovaoxo7j) | [Tundra Beats](https://open.spotify.com/artist/5j4yh8KxZ3yfg1cHsD24qD) | [Pink](https://open.spotify.com/album/6iaKYDhkwhl7r0TPpZ1ePJ) | 2:14 | 2022-09-09 |  |
+| [pink inc](https://open.spotify.com/track/4lbtIYl10Ji2Xv8H5I9mny) | [eze east](https://open.spotify.com/artist/6YzTTKadB6WR8IWvDoZNth) | [pink inc](https://open.spotify.com/album/446hWWDZPWXDsAj5BXKXm0) | 1:44 | 2024-03-22 |  |
 | [Pino Bay](https://open.spotify.com/track/56oS7XB5pke1NTbC5tRkIq) | [PanCake](https://open.spotify.com/artist/2GKqx52XNztRcJmyBmQGvr) | [Pino Bay](https://open.spotify.com/album/00WBd6b6VwHm6Z6nrD05gS) | 2:01 | 2022-12-09 |  |
 | [Plastic Boys](https://open.spotify.com/track/0VVkD4K9rMQtQYFdzKXMIv) | [Woozy Youngster](https://open.spotify.com/artist/2gbULTKiTcbVhrVXKJ1tCV) | [The One Who Could](https://open.spotify.com/album/5eBAuicfa2N0dWtoDcCtRj) | 2:36 | 2022-06-10 |  |
 | [Poetic Wax](https://open.spotify.com/track/6ueWeJJyq1rMkdNitaL7a6) | [Dusty Decks](https://open.spotify.com/artist/5mWkhlLhHU9FKT8vU8lBIR) | [On the Keys of Steel](https://open.spotify.com/album/3ZuaHM9zbQrNT23OG7I3bz) | 2:23 | 2022-05-20 |  |
@@ -373,6 +374,7 @@
 | [Poolside](https://open.spotify.com/track/55vugGlZDrEgZVdg8MThGI) | [Oaty.](https://open.spotify.com/artist/2S5BNs8nlCRoKvnw9LuwBU) | [Poolside](https://open.spotify.com/album/1wtBgI7oOapGGHW8BgUDnj) | 2:30 | 2022-08-05 | 2023-09-08 |
 | [Poolside](https://open.spotify.com/track/17gYRqnp5Jbjd1JupM3T9P) | [Wax A Dizk](https://open.spotify.com/artist/0oFTGAftcAfchCbIObOGjh) | [Poolside](https://open.spotify.com/album/1CETCz2E5S4zYkO5iXRb0h) | 1:19 | 2022-09-16 |  |
 | [Postcards](https://open.spotify.com/track/6CCXRC8JslvUainLY7In0P) | [Bishop Beckett](https://open.spotify.com/artist/3gB4gAB55aaIzzP0ybKlrp) | [Postcards](https://open.spotify.com/album/4m6fUJQlbYxhTy9DbeM4FG) | 2:15 | 2022-05-20 | 2022-05-27 |
+| [Praia dos Carneiros](https://open.spotify.com/track/3WK5cMi7o2vVDoqQreoz57) | [Aborre](https://open.spotify.com/artist/12nFi1kyqz3Tb3KByPPjpv) | [Praia dos Carneiros](https://open.spotify.com/album/6NKrDZkfZSKOkpHb3N86HO) | 1:56 | 2024-03-22 |  |
 | [Pueblo](https://open.spotify.com/track/4LOw0j83cz4aaqgP555uAT) | [Hugo](https://open.spotify.com/artist/7nDJpnTQgtM87yaive1aos), [DAO](https://open.spotify.com/artist/0vO0wjb2c1Bkyj9zffz2m9) | [Pueblo](https://open.spotify.com/album/59e6mmSqB6wtHkPyGf4CrJ) | 1:43 | 2022-06-03 | 2022-09-09 |
 | [Puerto Rico](https://open.spotify.com/track/6aqMX6fuByY91a282vtaCC) | [MC](https://open.spotify.com/artist/0DyoPw1p8N3GheQzvjt7x5) | [Puerto Rico](https://open.spotify.com/album/2E6Qwucc6QPeGohiym9YG3) | 3:32 | 2022-08-05 |  |
 | [Purrfect](https://open.spotify.com/track/06FHrzf7psD6ow7W4SH5Ks) | [Sloppy Jo](https://open.spotify.com/artist/2vllrQgjSlv6SFDmhio5un) | [Still Sloppy](https://open.spotify.com/album/0hAwuOO6cx2uTvd5Egx7UA) | 2:18 | 2022-06-10 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 
 > The newest r&b drops, every week\. Cover: Rhyan Douglas
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,037,033 likes - 175 songs - 9 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,037,098 likes - 175 songs - 9 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 | 24 | [Flowers & Joy](https://open.spotify.com/track/4yQEqixSnYwbsoEfmTXLsi) | [ay3demi](https://open.spotify.com/artist/7gcq03kJfgHiW2qPTwS6q1) | [Flowers & Joy](https://open.spotify.com/album/14XmvWrgLrLXwEyhLZcZzf) | 1:47 |
 | 25 | [that's how it goes](https://open.spotify.com/track/5qtk6yMO0JXqtEzwEAsREF) | [Asal](https://open.spotify.com/artist/2CPDwyokR2lgqu0yNGe2cU) | [that's how it goes](https://open.spotify.com/album/70M43ZOMnWArjX8dsVx5Ap) | 3:59 |
 | 26 | [Lucid Dreams](https://open.spotify.com/track/4BGcVxS20x7sLA2uKp5wJU) | [Maina Doe](https://open.spotify.com/artist/37A6Zdl0Yy8zXXpY20p6TE) | [Lucid Dreams](https://open.spotify.com/album/7G7v6Di7EhJ1fuldgIoUkN) | 3:02 |
-| 27 | [Speak Your Mine](https://open.spotify.com/track/1i5hcCnWCHYu2mvUq04OPP) | [Trè Samuels](https://open.spotify.com/artist/45vC474xQVArVv4KZ4K8Kq), [Skelli](https://open.spotify.com/artist/7B0h3QsL9urfmC1FACnKb3) | [Speak Your Mine](https://open.spotify.com/album/3e2ZjkaPzsXXsMJzXYQDqG) | 3:27 |
+| 27 | [Speak Your Mine](https://open.spotify.com/track/1i5hcCnWCHYu2mvUq04OPP) | [Trè Samuels](https://open.spotify.com/artist/45vC474xQVArVv4KZ4K8Kq) | [Speak Your Mine](https://open.spotify.com/album/3e2ZjkaPzsXXsMJzXYQDqG) | 3:27 |
 | 28 | [Walk Like This](https://open.spotify.com/track/0IGjUHYbwnK6Bo8u79d2E3) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO) | [Walk Like This](https://open.spotify.com/album/6Hrl23TC9yxPxXhu4jFPqF) | 3:17 |
 | 29 | [act ii: date @ 8 \(feat\. Drake\) \- remix](https://open.spotify.com/track/3QS9ZCtoSCJhmaJ7QNXSAS) | [4batz](https://open.spotify.com/artist/5fi7lIgJGH3RgUpJYcffQ7), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [act ii: date @ 8 \(feat\. Drake\) \[remix\]](https://open.spotify.com/album/7luH8lI8B6c4r3TxLJ2aU1) | 3:51 |
 | 30 | [Before We Get Started \(feat\. Fabolous\)](https://open.spotify.com/track/0ry36HImeosoc4m8EC2gAN) | [Tank](https://open.spotify.com/artist/4mwXUEKaW4ftbncf9Hi58l), [Fabolous](https://open.spotify.com/artist/0YWxKQj2Go9CGHCp77UOyy) | [Before We Get Started \(feat\. Fabolous\)](https://open.spotify.com/album/2CyOWWKaMME9IqKpGR3n4F) | 2:55 |
@@ -184,4 +184,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 | 174 | [Comfortable](https://open.spotify.com/track/1BEioZa6o8AVDmOh5Sc86j) | [Victor Ray](https://open.spotify.com/artist/3vABvmPywI2fV90bnpkpsJ) | [Comfortable](https://open.spotify.com/album/6k8uoIKgs0Qu2CuhNPMN6s) | 3:48 |
 | 175 | [Smoke + Mirrors](https://open.spotify.com/track/01XlfD9gD7LPpm65rhSPQh) | [Leo Waters](https://open.spotify.com/artist/3ZIvVs9CoUB4YkYTwG36eX) | [Smoke + Mirrors](https://open.spotify.com/album/6QmEMg5ikjjN5XVAwFvH9W) | 2:02 |
 
-Snapshot ID: `MCwxZTkyNWNhYjZmNGRlNDE2MGQyYTQyY2I2OTdiMGFlZWE1NjdhMjgy`
+Snapshot ID: `MCw5N2Y3ODZlODhmNTNjMGE2NjNlOGFjMmU0OGYwZThmYzliZDQ1Zjhi`

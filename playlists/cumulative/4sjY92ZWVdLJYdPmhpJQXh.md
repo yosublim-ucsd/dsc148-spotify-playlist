@@ -4,7 +4,7 @@
 
 > Atlantic Records Presents the hottest tracks in hip\-hop, pop, rock, R&amp;B, indie and more! Updated every Friday.
 
-643 songs - 1 day 7 hr 43 min
+644 songs - 1 day 7 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -93,6 +93,7 @@
 | [Buscando Money](https://open.spotify.com/track/6vsKOJPjdxlYgRs8McgtCQ) | [TWENTY SIX](https://open.spotify.com/artist/6C2mFGFh8dz1vKp9l5Ce8P), [Tayson Kryss](https://open.spotify.com/artist/3aIuAAH6qMvKYrtxxF7FF7) | [Buscando Money](https://open.spotify.com/album/2dJSAvaObagSOskW5umnny) | 2:30 | 2024-03-05 |  |
 | [C.E.S.](https://open.spotify.com/track/4nIFr8MXAVUDwRjBwDYRju) | [Jasper Harris](https://open.spotify.com/artist/57B9ghF6pGxBzFfOYLAcRA) | [Themes](https://open.spotify.com/album/2G7NUNmDhytHouxNVwAfUm) | 2:13 | 2022-08-26 | 2022-11-23 |
 | [call it even](https://open.spotify.com/track/4lUqyHwKLKbN6ipqT3kXtS) | [Arden Jones](https://open.spotify.com/artist/3mMogqf2JyBUQZxFZlC79w) | [age tape 0](https://open.spotify.com/album/3wNkf6SHSN19bVxWCNC3Lu) | 2:04 | 2022-11-04 | 2022-11-23 |
+| [Calling After Me](https://open.spotify.com/track/2WGcpz55A2vrvh6foEGCNL) | [Wallows](https://open.spotify.com/artist/0NIPkIjTV8mB795yEIiPYL) | [Calling After Me](https://open.spotify.com/album/0nwCSeTiLqsDU07k4MopnW) | 3:07 | 2024-03-21 |  |
 | [Can We Pretend That We’re Good? \- Acoustic](https://open.spotify.com/track/6CkpsbzzMNyaiucjpDum4z) | [Daniel Seavey](https://open.spotify.com/artist/21z8to3YxZXgKYJpBB54P2) | [Can We Pretend That We’re Good? \(Acoustic Version\)](https://open.spotify.com/album/4lNR2XalWJ5mKNN0SoVRev) | 2:55 | 2022-11-18 | 2023-03-11 |
 | [Can We Pretend That We’re Good? \- Cello Version](https://open.spotify.com/track/2JIYgfzJOjSAB0MRn0035k) | [Daniel Seavey](https://open.spotify.com/artist/21z8to3YxZXgKYJpBB54P2) | [Can We Pretend That We’re Good? \(Cello Version\)](https://open.spotify.com/album/4cRF1sZ9alkPhG6HR0oVHT) | 3:03 | 2022-11-11 | 2023-03-11 |
 | [Can We Pretend That We’re Good? \- Guitar Version](https://open.spotify.com/track/6uRvJBlJFqn8f76QjxKmQv) | [Daniel Seavey](https://open.spotify.com/artist/21z8to3YxZXgKYJpBB54P2) | [Can We Pretend That We’re Good? \(Guitar Version\)](https://open.spotify.com/album/6SrI7phPYh3KiMx5LFICKl) | 2:48 | 2022-11-04 | 2023-03-11 |

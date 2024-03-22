@@ -1,12 +1,12 @@
 {
   "description": "Boss music for boss people. Cover: Catfish & The Bottlemen",
-  "num_followers": 119127,
+  "num_followers": 119147,
   "original_name": "Proper Belters",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlYzJiNGVmZjhmYzBhMGJmM2M1ZmYzY2JlMTU2NzRhODMxZTRmOTRh",
+  "snapshot_id": "MCw0NjAyODhmMTY2NzAxNzk0YWUzYWIzZWJjMjY2MmRhZjQ5YmY3NWNl",
   "tracks": [
     {
       "added_at": "2024-02-23 12:55:54",
@@ -365,22 +365,6 @@
       "url": "https://open.spotify.com/track/02bA26OEe0nNFyE3YcNx4K"
     },
     {
-      "added_at": "2024-02-23 12:55:54",
-      "album": {
-        "name": "Millennials",
-        "url": "https://open.spotify.com/album/4WdHo1NsTm5soMAmpKfiiF"
-      },
-      "artists": [
-        {
-          "name": "The Snuts",
-          "url": "https://open.spotify.com/artist/4AzAfQNuAyKOFG4DZMsdAo"
-        }
-      ],
-      "duration_ms": 246029,
-      "name": "Circles",
-      "url": "https://open.spotify.com/track/2Wr5ZcuK4MXLZu49rl2djK"
-    },
-    {
       "added_at": "2024-02-02 14:53:05",
       "album": {
         "name": "Fuck Me (I Didn\u2019t Know How To Say)",
@@ -395,6 +379,22 @@
       "duration_ms": 186786,
       "name": "Fuck Me (I Didn\u2019t Know How To Say)",
       "url": "https://open.spotify.com/track/07M8tCNuO9RZenyINtp2QB"
+    },
+    {
+      "added_at": "2024-02-23 12:55:54",
+      "album": {
+        "name": "Millennials",
+        "url": "https://open.spotify.com/album/4WdHo1NsTm5soMAmpKfiiF"
+      },
+      "artists": [
+        {
+          "name": "The Snuts",
+          "url": "https://open.spotify.com/artist/4AzAfQNuAyKOFG4DZMsdAo"
+        }
+      ],
+      "duration_ms": 246029,
+      "name": "Circles",
+      "url": "https://open.spotify.com/track/2Wr5ZcuK4MXLZu49rl2djK"
     },
     {
       "added_at": "2024-02-02 14:53:05",
@@ -1027,22 +1027,6 @@
     {
       "added_at": "2024-02-02 14:53:05",
       "album": {
-        "name": "Would You Come To My Funeral",
-        "url": "https://open.spotify.com/album/44DQfthWsCBD3K5wCTDjq9"
-      },
-      "artists": [
-        {
-          "name": "Crawlers",
-          "url": "https://open.spotify.com/artist/2xtmoxSauQs0TQFUoHmbfy"
-        }
-      ],
-      "duration_ms": 272626,
-      "name": "Would You Come To My Funeral",
-      "url": "https://open.spotify.com/track/5EXsCJyxIM8Mv1KruQgsq9"
-    },
-    {
-      "added_at": "2024-02-02 14:53:05",
-      "album": {
         "name": "Hard To Love",
         "url": "https://open.spotify.com/album/0js8jOahyQcDzhAV1xpdnd"
       },
@@ -1055,6 +1039,22 @@
       "duration_ms": 168095,
       "name": "Hard To Love",
       "url": "https://open.spotify.com/track/5ZydsKomR0uijruih5pVZ0"
+    },
+    {
+      "added_at": "2024-02-02 14:53:05",
+      "album": {
+        "name": "Would You Come To My Funeral",
+        "url": "https://open.spotify.com/album/44DQfthWsCBD3K5wCTDjq9"
+      },
+      "artists": [
+        {
+          "name": "Crawlers",
+          "url": "https://open.spotify.com/artist/2xtmoxSauQs0TQFUoHmbfy"
+        }
+      ],
+      "duration_ms": 272626,
+      "name": "Would You Come To My Funeral",
+      "url": "https://open.spotify.com/track/5EXsCJyxIM8Mv1KruQgsq9"
     },
     {
       "added_at": "2024-02-02 14:53:05",
@@ -1107,26 +1107,6 @@
     {
       "added_at": "2024-02-02 14:53:05",
       "album": {
-        "name": "Fickle Fran (feat. Billy Bragg)",
-        "url": "https://open.spotify.com/album/5AO5eNGtaNBXnN0gwnrkJP"
-      },
-      "artists": [
-        {
-          "name": "JAMIE WEBSTER",
-          "url": "https://open.spotify.com/artist/5ugVdZNXtMIj6ECTzGsyqS"
-        },
-        {
-          "name": "Billy Bragg",
-          "url": "https://open.spotify.com/artist/5yXAFDZNUNyO92l5WTImkO"
-        }
-      ],
-      "duration_ms": 225087,
-      "name": "Fickle Fran (feat. Billy Bragg)",
-      "url": "https://open.spotify.com/track/0mX9xhRMwmx6qvqRzHLXlj"
-    },
-    {
-      "added_at": "2024-02-02 14:53:05",
-      "album": {
         "name": "Anxiety Replacement Therapy",
         "url": "https://open.spotify.com/album/7IX8SVSpjtuU4qNukaXcZu"
       },
@@ -1157,20 +1137,40 @@
       "url": "https://open.spotify.com/track/4R9aYkJz3drmXGdETRnndb"
     },
     {
-      "added_at": "2024-02-23 12:55:54",
+      "added_at": "2024-02-02 14:53:05",
       "album": {
-        "name": "1 2 3 4",
-        "url": "https://open.spotify.com/album/1z1Esz1o2xb8NPccIJP8yp"
+        "name": "Fickle Fran (feat. Billy Bragg)",
+        "url": "https://open.spotify.com/album/5AO5eNGtaNBXnN0gwnrkJP"
       },
       "artists": [
         {
-          "name": "Modern English",
-          "url": "https://open.spotify.com/artist/0fYPQBOx0vsRMmjUba9HgF"
+          "name": "JAMIE WEBSTER",
+          "url": "https://open.spotify.com/artist/5ugVdZNXtMIj6ECTzGsyqS"
+        },
+        {
+          "name": "Billy Bragg",
+          "url": "https://open.spotify.com/artist/5yXAFDZNUNyO92l5WTImkO"
         }
       ],
-      "duration_ms": 234173,
-      "name": "Not Fake",
-      "url": "https://open.spotify.com/track/7IT1QaeFe7vtilKLWpM2Lr"
+      "duration_ms": 225087,
+      "name": "Fickle Fran (feat. Billy Bragg)",
+      "url": "https://open.spotify.com/track/0mX9xhRMwmx6qvqRzHLXlj"
+    },
+    {
+      "added_at": "2024-02-02 14:53:05",
+      "album": {
+        "name": "Skirts & Salads",
+        "url": "https://open.spotify.com/album/4ly36c52NHgaFcFAUBl2Go"
+      },
+      "artists": [
+        {
+          "name": "Shelf Lives",
+          "url": "https://open.spotify.com/artist/2RgHe4GuLjWoJmgdAOVubr"
+        }
+      ],
+      "duration_ms": 144896,
+      "name": "Skirts & Salads",
+      "url": "https://open.spotify.com/track/1hU13my44YNmIVuNor31Te"
     },
     {
       "added_at": "2024-02-02 14:53:05",
@@ -1207,22 +1207,6 @@
     {
       "added_at": "2024-02-02 14:53:05",
       "album": {
-        "name": "Skirts & Salads",
-        "url": "https://open.spotify.com/album/4ly36c52NHgaFcFAUBl2Go"
-      },
-      "artists": [
-        {
-          "name": "Shelf Lives",
-          "url": "https://open.spotify.com/artist/2RgHe4GuLjWoJmgdAOVubr"
-        }
-      ],
-      "duration_ms": 144896,
-      "name": "Skirts & Salads",
-      "url": "https://open.spotify.com/track/1hU13my44YNmIVuNor31Te"
-    },
-    {
-      "added_at": "2024-02-02 14:53:05",
-      "album": {
         "name": "daisy chains",
         "url": "https://open.spotify.com/album/1NT8wYazcYMt7ejaU3mrhh"
       },
@@ -1235,6 +1219,22 @@
       "duration_ms": 165657,
       "name": "daisy chains",
       "url": "https://open.spotify.com/track/5coXwSihPzuc42bOUvYRMf"
+    },
+    {
+      "added_at": "2024-02-23 12:55:54",
+      "album": {
+        "name": "1 2 3 4",
+        "url": "https://open.spotify.com/album/1z1Esz1o2xb8NPccIJP8yp"
+      },
+      "artists": [
+        {
+          "name": "Modern English",
+          "url": "https://open.spotify.com/artist/0fYPQBOx0vsRMmjUba9HgF"
+        }
+      ],
+      "duration_ms": 234173,
+      "name": "Not Fake",
+      "url": "https://open.spotify.com/track/7IT1QaeFe7vtilKLWpM2Lr"
     },
     {
       "added_at": "2024-02-23 12:55:54",
@@ -1287,18 +1287,18 @@
     {
       "added_at": "2024-02-02 14:53:05",
       "album": {
-        "name": "How Do You Sleep At Night?",
-        "url": "https://open.spotify.com/album/49TAgh1ogazJrsGUvgp5tu"
+        "name": "Somebody's Child",
+        "url": "https://open.spotify.com/album/1OhCkiW1loTo9TmTwX4by8"
       },
       "artists": [
         {
-          "name": "JAMIE WEBSTER",
-          "url": "https://open.spotify.com/artist/5ugVdZNXtMIj6ECTzGsyqS"
+          "name": "Somebody's Child",
+          "url": "https://open.spotify.com/artist/5b84ozqhKiJG9LN1IjVac1"
         }
       ],
-      "duration_ms": 208385,
-      "name": "How Do You Sleep At Night?",
-      "url": "https://open.spotify.com/track/2K37XDEcpev2hUDbb14XGd"
+      "duration_ms": 193120,
+      "name": "Give It Up To Love",
+      "url": "https://open.spotify.com/track/7yzD2cGoxqldX9XvZAEQYT"
     },
     {
       "added_at": "2024-02-02 14:53:05",
@@ -1319,34 +1319,18 @@
     {
       "added_at": "2024-02-02 14:53:05",
       "album": {
-        "name": "Somebody's Child",
-        "url": "https://open.spotify.com/album/1OhCkiW1loTo9TmTwX4by8"
+        "name": "How Do You Sleep At Night?",
+        "url": "https://open.spotify.com/album/49TAgh1ogazJrsGUvgp5tu"
       },
       "artists": [
         {
-          "name": "Somebody's Child",
-          "url": "https://open.spotify.com/artist/5b84ozqhKiJG9LN1IjVac1"
+          "name": "JAMIE WEBSTER",
+          "url": "https://open.spotify.com/artist/5ugVdZNXtMIj6ECTzGsyqS"
         }
       ],
-      "duration_ms": 193120,
-      "name": "Give It Up To Love",
-      "url": "https://open.spotify.com/track/7yzD2cGoxqldX9XvZAEQYT"
-    },
-    {
-      "added_at": "2024-02-02 14:53:05",
-      "album": {
-        "name": "Mother",
-        "url": "https://open.spotify.com/album/2S3f8p625yCqGyzvUJsOZF"
-      },
-      "artists": [
-        {
-          "name": "Lime Garden",
-          "url": "https://open.spotify.com/artist/5GA6j57yIPCBrWk1lTvF9o"
-        }
-      ],
-      "duration_ms": 167631,
-      "name": "Mother",
-      "url": "https://open.spotify.com/track/0anZnOvUTenWvjeSru2Neo"
+      "duration_ms": 208385,
+      "name": "How Do You Sleep At Night?",
+      "url": "https://open.spotify.com/track/2K37XDEcpev2hUDbb14XGd"
     },
     {
       "added_at": "2024-02-02 14:53:05",
@@ -1363,6 +1347,22 @@
       "duration_ms": 186996,
       "name": "Waste",
       "url": "https://open.spotify.com/track/1jDVf3LzkHI2rz5BGveizV"
+    },
+    {
+      "added_at": "2024-02-02 14:53:05",
+      "album": {
+        "name": "Mother",
+        "url": "https://open.spotify.com/album/2S3f8p625yCqGyzvUJsOZF"
+      },
+      "artists": [
+        {
+          "name": "Lime Garden",
+          "url": "https://open.spotify.com/artist/5GA6j57yIPCBrWk1lTvF9o"
+        }
+      ],
+      "duration_ms": 167631,
+      "name": "Mother",
+      "url": "https://open.spotify.com/track/0anZnOvUTenWvjeSru2Neo"
     },
     {
       "added_at": "2024-02-02 14:53:05",
@@ -1395,22 +1395,6 @@
       "duration_ms": 200147,
       "name": "One More Night With No One",
       "url": "https://open.spotify.com/track/3JJv1LcAO8G2Q19p5GVRlm"
-    },
-    {
-      "added_at": "2024-02-02 14:53:05",
-      "album": {
-        "name": "Brakelights",
-        "url": "https://open.spotify.com/album/1PrcKV1b7YuPD7HgTq9mFo"
-      },
-      "artists": [
-        {
-          "name": "The Blinders",
-          "url": "https://open.spotify.com/artist/3Z8Y3Ek99rukRa1Hdo14GE"
-        }
-      ],
-      "duration_ms": 200886,
-      "name": "Brakelights",
-      "url": "https://open.spotify.com/track/7HbYvg6Ghiw0Ipxw4wa7L6"
     },
     {
       "added_at": "2024-02-02 14:53:05",
@@ -1463,6 +1447,22 @@
     {
       "added_at": "2024-02-02 14:53:05",
       "album": {
+        "name": "Brakelights",
+        "url": "https://open.spotify.com/album/1PrcKV1b7YuPD7HgTq9mFo"
+      },
+      "artists": [
+        {
+          "name": "The Blinders",
+          "url": "https://open.spotify.com/artist/3Z8Y3Ek99rukRa1Hdo14GE"
+        }
+      ],
+      "duration_ms": 200886,
+      "name": "Brakelights",
+      "url": "https://open.spotify.com/track/7HbYvg6Ghiw0Ipxw4wa7L6"
+    },
+    {
+      "added_at": "2024-02-02 14:53:05",
+      "album": {
         "name": "MESSED UP KIDS",
         "url": "https://open.spotify.com/album/403yzeLnFgqPP27o8Y8l0L"
       },
@@ -1479,22 +1479,6 @@
     {
       "added_at": "2024-02-02 14:53:05",
       "album": {
-        "name": "New Last Name",
-        "url": "https://open.spotify.com/album/7DnPfehpIKOC7BVsUc0a8H"
-      },
-      "artists": [
-        {
-          "name": "Courting",
-          "url": "https://open.spotify.com/artist/3oLTaC5QBOH96VbxMAafpZ"
-        }
-      ],
-      "duration_ms": 229689,
-      "name": "The Wedding",
-      "url": "https://open.spotify.com/track/4GUEDu38RFFLqv74a403kb"
-    },
-    {
-      "added_at": "2024-02-02 14:53:05",
-      "album": {
         "name": "Cavalryman",
         "url": "https://open.spotify.com/album/3GeaLK6Px5B6U9oIi1WET8"
       },
@@ -1507,6 +1491,22 @@
       "duration_ms": 193426,
       "name": "Cavalryman",
       "url": "https://open.spotify.com/track/3JDeaSeCZi33RvPNZOTdIf"
+    },
+    {
+      "added_at": "2024-02-02 14:53:05",
+      "album": {
+        "name": "New Last Name",
+        "url": "https://open.spotify.com/album/7DnPfehpIKOC7BVsUc0a8H"
+      },
+      "artists": [
+        {
+          "name": "Courting",
+          "url": "https://open.spotify.com/artist/3oLTaC5QBOH96VbxMAafpZ"
+        }
+      ],
+      "duration_ms": 229689,
+      "name": "The Wedding",
+      "url": "https://open.spotify.com/track/4GUEDu38RFFLqv74a403kb"
     },
     {
       "added_at": "2024-02-02 14:53:05",
@@ -1611,18 +1611,18 @@
     {
       "added_at": "2024-02-02 14:53:05",
       "album": {
-        "name": "Black Cat",
-        "url": "https://open.spotify.com/album/4nbnUaUzLFai1ZW3SP8vOb"
+        "name": "Better Luck Next Time",
+        "url": "https://open.spotify.com/album/7LRaEYO1IbbqjIm8hyxmLu"
       },
       "artists": [
         {
-          "name": "Red Rum Club",
-          "url": "https://open.spotify.com/artist/36ccNWK0en3ouoLFpWfgJb"
+          "name": "Sundara Karma",
+          "url": "https://open.spotify.com/artist/4fgXfJCQnK6c44u4KzAtQP"
         }
       ],
-      "duration_ms": 140613,
-      "name": "Black Cat",
-      "url": "https://open.spotify.com/track/3dw3CbKSsae5LFuP5uRIeV"
+      "duration_ms": 233666,
+      "name": "Better Luck Next Time",
+      "url": "https://open.spotify.com/track/7emXHhr2yFGO7mSVZnNHjB"
     }
   ],
   "unique_name": "Proper Belters",

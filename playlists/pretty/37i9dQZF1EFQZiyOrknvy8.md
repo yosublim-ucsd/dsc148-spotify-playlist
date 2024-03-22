@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQZiyOrknvy8.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0TXhxoo7C4jisEGDp8fiUS">Kalli</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 265 likes - 135 songs - 6 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 264 likes - 135 songs - 6 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,8 +58,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQZiyOrknvy8.md) - [plain]
 | 48 | [Gift \(feat\. Alicia Awa\)](https://open.spotify.com/track/5o06OR9PHInTrQP0bc8Inl) | [Kontra K](https://open.spotify.com/artist/4lDiJcOJ2GLCK6p9q5BgfK), [Alicia Awa](https://open.spotify.com/artist/7mYMOwpduul48upxZCfFBS) | [Vollmond](https://open.spotify.com/album/0A2Fv4wziWXjSLylfMvbI5) | 2:53 |
 | 49 | [Einfach](https://open.spotify.com/track/4AsCLebVfa8IMmrUfG3VF7) | [Kontra K](https://open.spotify.com/artist/4lDiJcOJ2GLCK6p9q5BgfK) | [Gute Nacht](https://open.spotify.com/album/6HXofmpALQ71a6Ri5WKegT) | 3:24 |
 | 50 | [COLORS](https://open.spotify.com/track/6k0FNeHutAV9Q2v83QNj6g) | [Stefanie Heinzmann](https://open.spotify.com/artist/0bm9qSmVJmT9CEukIhhZY5) | [Labyrinth](https://open.spotify.com/album/2p74LszcEO3DrJl7WhTmUm) | 3:10 |
-| 51 | [As Fun](https://open.spotify.com/track/25cADOzWoLzo5E0R0FVF0W) | [Naaz](https://open.spotify.com/artist/736HGQRGr9rjG4VmmSpkz8) | [Bits Of Naaz](https://open.spotify.com/album/34akCS9THWFnbRSQQ8c2Xi) | 2:26 |
-| 52 | [Where You Are](https://open.spotify.com/track/4XFJmvM7x2Wkz6kXJr5LmO) | [Nico Santos](https://open.spotify.com/artist/3A9B6c1CrSPauiOblw7pWz), [FAST BOY](https://open.spotify.com/artist/56Qz2XwGj7FxnNKrfkWjnb) | [Where You Are](https://open.spotify.com/album/25Bk5lhRcppzuyAqaqXuws) | 2:28 |
+| 51 | [Where You Are](https://open.spotify.com/track/4XFJmvM7x2Wkz6kXJr5LmO) | [Nico Santos](https://open.spotify.com/artist/3A9B6c1CrSPauiOblw7pWz), [FAST BOY](https://open.spotify.com/artist/56Qz2XwGj7FxnNKrfkWjnb) | [Where You Are](https://open.spotify.com/album/25Bk5lhRcppzuyAqaqXuws) | 2:28 |
+| 52 | [As Fun](https://open.spotify.com/track/25cADOzWoLzo5E0R0FVF0W) | [Naaz](https://open.spotify.com/artist/736HGQRGr9rjG4VmmSpkz8) | [Bits Of Naaz](https://open.spotify.com/album/34akCS9THWFnbRSQQ8c2Xi) | 2:26 |
 | 53 | [Lass mich los](https://open.spotify.com/track/2fbIOC7TEm1tAJwMDAvFhA) | [Kontra K](https://open.spotify.com/artist/4lDiJcOJ2GLCK6p9q5BgfK) | [Gute Nacht](https://open.spotify.com/album/6HXofmpALQ71a6Ri5WKegT) | 5:37 |
 | 54 | [Chasing Highs \(Slow Motion\)](https://open.spotify.com/track/6XxH22AeVCpz1vhwOYi5Sh) | [James Hiraeth](https://open.spotify.com/artist/13lPKi6IQrIyWyyovYUbtA) | [Chasing Highs \(Slow Motion\)](https://open.spotify.com/album/4Uw2ZLhaRbwkeTVr0hCMpc) | 2:26 |
 | 55 | [Heartbeat](https://open.spotify.com/track/5jUhodriWI7nb4i3kDxNBH) | [KSHMR](https://open.spotify.com/artist/2wX6xSig4Rig5kZU6ePlWe) | [Heartbeat](https://open.spotify.com/album/1m9yJKRtE9s5V3Q27m8Vys) | 3:36 |
@@ -67,8 +67,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQZiyOrknvy8.md) - [plain]
 | 57 | [7 Days](https://open.spotify.com/track/5ifU583yr1ywEo9y9fDQGB) | [Nico Santos](https://open.spotify.com/artist/3A9B6c1CrSPauiOblw7pWz) | [Nico Santos](https://open.spotify.com/album/51LrCn7WwuMfGwQufI1Esl) | 3:07 |
 | 58 | [Can't Stop Now](https://open.spotify.com/track/3mA95S5jE0L2SYH7UR9deJ) | [Allie X](https://open.spotify.com/artist/0wnYgCeP013HkKoOyC5V32) | [Super Sunset](https://open.spotify.com/album/46tqZIHK7vudgW0NCYW4y9) | 3:03 |
 | 59 | [Mädchen Mädchen \(feat\. Luci van Org\)](https://open.spotify.com/track/1yf6N9tFJ6BXZLvIXbUvw9) | [YAENNIVER](https://open.spotify.com/artist/62yGrNS5EcrAnBVlDtlBEw), [Luci van Org](https://open.spotify.com/artist/4MiL1KP3pARZzzmvEUSELY) | [NACKT](https://open.spotify.com/album/2VCBmTgQym5OlZ9LxEs2AU) | 2:45 |
-| 60 | [Alle guten Dinge](https://open.spotify.com/track/3SgP2O7hlKFmf44IJwlAUp) | [Jonas Monar](https://open.spotify.com/artist/15DtxS7TcOYPplKUl5re5C) | [Alle guten Dinge](https://open.spotify.com/album/7bcyUmBwgTk8ztvSv5oXnK) | 2:38 |
-| 61 | [Happy People \(feat\. Daði Freyr\)](https://open.spotify.com/track/261qBibFuQcBus1rjsmsED) | [Tokio Hotel](https://open.spotify.com/artist/46aNfN89JrOQTCy97GoCHa), [Daði Freyr](https://open.spotify.com/artist/3Hb64DQZIhDCgyHKrzBXOL) | [2001](https://open.spotify.com/album/6XepuRQQxX2qDlkIuIOnpn) | 3:00 |
+| 60 | [Happy People \(feat\. Daði Freyr\)](https://open.spotify.com/track/261qBibFuQcBus1rjsmsED) | [Tokio Hotel](https://open.spotify.com/artist/46aNfN89JrOQTCy97GoCHa), [Daði Freyr](https://open.spotify.com/artist/3Hb64DQZIhDCgyHKrzBXOL) | [2001](https://open.spotify.com/album/6XepuRQQxX2qDlkIuIOnpn) | 3:00 |
+| 61 | [Alle guten Dinge](https://open.spotify.com/track/3SgP2O7hlKFmf44IJwlAUp) | [Jonas Monar](https://open.spotify.com/artist/15DtxS7TcOYPplKUl5re5C) | [Alle guten Dinge](https://open.spotify.com/album/7bcyUmBwgTk8ztvSv5oXnK) | 2:38 |
 | 62 | [Neu erzählen](https://open.spotify.com/track/3i3Bll98MHvH79r5SqzwbD) | [Revolverheld](https://open.spotify.com/artist/5FYfIAuN8mV5KgVtugwfc0) | [Neu erzählen](https://open.spotify.com/album/0hQxTlc00nOIwjL52YXnQy) | 3:26 |
 | 63 | [dear L](https://open.spotify.com/track/0jjYq6uxZLCrQzo89Ym0Ea) | [Lena](https://open.spotify.com/artist/5slpk6nu2IwwKx0EHe3GcL) | [Only Love, L \(More Love Edition\)](https://open.spotify.com/album/0wNhZkLrI9nBQMyT9sjiBK) | 3:19 |
 | 64 | [Ain't Got You](https://open.spotify.com/track/398zDB2sTOxcEb5pLsHRyk) | [Bars and Melody](https://open.spotify.com/artist/6Tm0hIf7nSjDziOzpGFzKl) | [SADBOI](https://open.spotify.com/album/5Vtc4bUSEbiYTUOoeIDPga) | 3:01 |
@@ -144,4 +144,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQZiyOrknvy8.md) - [plain]
 | 134 | [Playlist](https://open.spotify.com/track/2eLkiZOJ0xevCWgAvfgJGP) | [Feel Glück](https://open.spotify.com/artist/3wgEyEndxjMfRILKuvqihv), [Arend Peter Kraus](https://open.spotify.com/artist/2BOd9SVFrYP7OpAQmAUf3n) | [Playlist](https://open.spotify.com/album/6cgZXJJFgzMwL6kiyQeVv7) | 3:54 |
 | 135 | [Fliegen](https://open.spotify.com/track/1vlSFUZcOHEbotxb1BPVMx) | [Julian Williams](https://open.spotify.com/artist/6dZcFNvJUa9yTkEF1mG3NY) | [5 EP](https://open.spotify.com/album/7tG6m07jxmMFaqBpVRDXxO) | 3:53 |
 
-Snapshot ID: `Mjg1MTY0NTAsMDAwMDAwMDBkZDkyNjY0Njc5M2ZmYmI0N2YyYWUxNDU2NTFmZjFhMw==`
+Snapshot ID: `Mjg1MTc4OTAsMDAwMDAwMDA0YmE1YjU1NzgxNmExMmQ1ZGMzY2VkYWU1YjNkZjNkNg==`

@@ -1,5 +1,5 @@
 {
-  "2024-03-21": 2421,
+  "2024-03-22": 2423,
   "date_first_scraped": "2023-07-04",
   "description": "Come, lets take a soulful journey through rhythmic grooves",
   "name": "Alternative Avenue",
@@ -1021,10 +1021,32 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-21",
       "duration_ms": 246900,
       "name": "Same Page",
       "url": "https://open.spotify.com/track/0J9l0Y5MEvO8e6ksy8Hv82"
+    },
+    {
+      "album": {
+        "name": "The Lion of Sudah",
+        "url": "https://open.spotify.com/album/7ey1j5jjFdfDgRQoDFmpc6"
+      },
+      "artists": [
+        {
+          "name": "Bensoul",
+          "url": "https://open.spotify.com/artist/09vo12hHajgG2cZzq0rGmE"
+        },
+        {
+          "name": "Muthaka",
+          "url": "https://open.spotify.com/artist/1y2NzUCGrOaUPBZhhyUPcQ"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246900,
+      "name": "Same Page",
+      "url": "https://open.spotify.com/track/5brjcFMaDdlpW5bU8tf2LG"
     },
     {
       "album": {

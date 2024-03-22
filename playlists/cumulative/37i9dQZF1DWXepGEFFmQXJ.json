@@ -95,6 +95,24 @@
     },
     {
       "album": {
+        "name": "28th of June",
+        "url": "https://open.spotify.com/album/0inH63xl0GHnMm9cYmiGWX"
+      },
+      "artists": [
+        {
+          "name": "Megan Moroney",
+          "url": "https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0"
+        }
+      ],
+      "date_added": "2024-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225363,
+      "name": "28th of June",
+      "url": "https://open.spotify.com/track/0ZQdCsqlVRqqImNqkRz9ct"
+    },
+    {
+      "album": {
         "name": "3 Feet Tall",
         "url": "https://open.spotify.com/album/4nh0KuO11MpP06u2P165QJ"
       },
@@ -456,6 +474,24 @@
       "duration_ms": 207430,
       "name": "All Or Nothing",
       "url": "https://open.spotify.com/track/1LiMVKhl8eQNhhNTBRowb1"
+    },
+    {
+      "album": {
+        "name": "All We Are",
+        "url": "https://open.spotify.com/album/3H0cSrotAG3o1GRVH9BVod"
+      },
+      "artists": [
+        {
+          "name": "Tori Forsyth",
+          "url": "https://open.spotify.com/artist/0UVISIZtASrGYL3975rp6w"
+        }
+      ],
+      "date_added": "2024-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168588,
+      "name": "All We Are",
+      "url": "https://open.spotify.com/track/4pNc19MpPeRahq0m3zxh2r"
     },
     {
       "album": {
@@ -2349,6 +2385,24 @@
     },
     {
       "album": {
+        "name": "Dream Baby",
+        "url": "https://open.spotify.com/album/3IwClZfwpNZyHpbaS38D7V"
+      },
+      "artists": [
+        {
+          "name": "Taylor Moss",
+          "url": "https://open.spotify.com/artist/6kk3eFuZoE4Lq7dD03Ehkj"
+        }
+      ],
+      "date_added": "2024-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217356,
+      "name": "Dream Baby",
+      "url": "https://open.spotify.com/track/0yrG3eeWvuj9DJkVPsYWpJ"
+    },
+    {
+      "album": {
         "name": "Dress",
         "url": "https://open.spotify.com/album/7sYU3TwTLUFudBlbnWWMM4"
       },
@@ -2789,6 +2843,24 @@
     },
     {
       "album": {
+        "name": "Fiddle in the Band",
+        "url": "https://open.spotify.com/album/449F70NfANoQxARzdu8EaD"
+      },
+      "artists": [
+        {
+          "name": "Kane Brown",
+          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
+        }
+      ],
+      "date_added": "2024-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172551,
+      "name": "Fiddle in the Band",
+      "url": "https://open.spotify.com/track/5hkViySAjn0tMhLocH7ukQ"
+    },
+    {
+      "album": {
         "name": "Fill It Up",
         "url": "https://open.spotify.com/album/5hWTohQn87entUhY9XVYfC"
       },
@@ -3104,6 +3176,24 @@
       "duration_ms": 188263,
       "name": "Get You Backroads",
       "url": "https://open.spotify.com/track/0FqqU2QL808TP8TLFgBYVQ"
+    },
+    {
+      "album": {
+        "name": "Young Love & Saturday Nights",
+        "url": "https://open.spotify.com/album/0TJoGKCktudahrtegfmmgD"
+      },
+      "artists": [
+        {
+          "name": "Chris Young",
+          "url": "https://open.spotify.com/artist/4BYxqVkZyFjtik7crYLg5Q"
+        }
+      ],
+      "date_added": "2024-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217560,
+      "name": "Gettin' Older",
+      "url": "https://open.spotify.com/track/4x3oHY9XeuQ6TB3X0wK1gL"
     },
     {
       "album": {
@@ -3666,7 +3756,7 @@
       ],
       "date_added": "2024-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-22",
       "duration_ms": 184575,
       "name": "Hard Luck & Circumstances",
       "url": "https://open.spotify.com/track/28ejnV7iWD3bIgBXwcTy5k"
@@ -4520,6 +4610,24 @@
       "duration_ms": 212030,
       "name": "If I Didn't Love You",
       "url": "https://open.spotify.com/track/5f3MXmTmstozFg0BH1yPUk"
+    },
+    {
+      "album": {
+        "name": "Songs in the Gravel",
+        "url": "https://open.spotify.com/album/5LH0DO3n956vBZ5vK0mLL2"
+      },
+      "artists": [
+        {
+          "name": "Dylan Gossett",
+          "url": "https://open.spotify.com/artist/4H4M0Y4cN39zIVDHvdW53x"
+        }
+      ],
+      "date_added": "2024-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203077,
+      "name": "If I Had a Lover",
+      "url": "https://open.spotify.com/track/6a9VsSmDtb7wxv1oRgCfIa"
     },
     {
       "album": {
@@ -7524,7 +7632,7 @@
       ],
       "date_added": "2023-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-22",
       "duration_ms": 243962,
       "name": "She Calls Me Back (with Kacey Musgraves)",
       "url": "https://open.spotify.com/track/6Y54zhe1RF8fbNGgX670Kg"
@@ -9732,6 +9840,24 @@
       "duration_ms": 208853,
       "name": "Watermelon Moonshine",
       "url": "https://open.spotify.com/track/6KaKmX6EIu3x2057HoZwQF"
+    },
+    {
+      "album": {
+        "name": "Songs From Bad For Me",
+        "url": "https://open.spotify.com/album/0tT7h6ro2DYhKRa569BjY1"
+      },
+      "artists": [
+        {
+          "name": "Chayce Beckham",
+          "url": "https://open.spotify.com/artist/5ujvZU2thXjZgFKPUt1rDt"
+        }
+      ],
+      "date_added": "2024-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200102,
+      "name": "Waylon In '75",
+      "url": "https://open.spotify.com/track/2D2HjhdgjfaMSFLB0scM9L"
     },
     {
       "album": {

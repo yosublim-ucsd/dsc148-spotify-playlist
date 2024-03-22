@@ -1,5 +1,5 @@
 {
-  "2024-03-21": 70537,
+  "2024-03-22": 70565,
   "date_first_scraped": "2021-12-28",
   "description": "Alternative Arabic songs. Cover: Mohammed Saeed",
   "name": "Arab Indie",
@@ -227,6 +227,28 @@
       "duration_ms": 178693,
       "name": "Aladdin",
       "url": "https://open.spotify.com/track/2f7rLXE1t0LaKC29Ie1ebb"
+    },
+    {
+      "album": {
+        "name": "Alek Shway",
+        "url": "https://open.spotify.com/album/5DnTtizoWcoAW0FoKascoB"
+      },
+      "artists": [
+        {
+          "name": "Hot Oasis",
+          "url": "https://open.spotify.com/artist/3yjJoAP3B8paC6tedRJ7ii"
+        },
+        {
+          "name": "Yazan Rousan",
+          "url": "https://open.spotify.com/artist/3e6ookZkJCTBdGD1eol2qW"
+        }
+      ],
+      "date_added": "2024-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213995,
+      "name": "Alek Shway",
+      "url": "https://open.spotify.com/track/1oxOYMvVimEG6xz2OI7hj2"
     },
     {
       "album": {

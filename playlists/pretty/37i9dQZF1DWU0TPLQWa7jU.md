@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU0TPLQWa7jU.md) - [plain]
 
 > Get your energy boost for your Ramadan workout.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,242 likes - 37 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,659 likes - 37 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,8 +17,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU0TPLQWa7jU.md) - [plain]
 | 7 | [يا رفيق الدرب](https://open.spotify.com/track/0LyA6TWn6NRSU5m5OLUGwm) | [موسى العميرة](https://open.spotify.com/artist/3dW0TwrbCdU7qkPuXIvLQy) | [يا رفيق الدرب](https://open.spotify.com/album/5hGN66Z7FbMbraHITzeey0) | 1:01 |
 | 8 | [Mahom](https://open.spotify.com/track/1vBn1Ww1twe8h9NOI6SNTd) | [صديقك](https://open.spotify.com/artist/7EMsV4uagKkDWD6Q5W47M5) | [Mahom](https://open.spotify.com/album/5twitGPTSW7IVlO6UfNxjc) | 3:10 |
 | 9 | [Nasheed \- Kuntu Maitan](https://open.spotify.com/track/549jNPkLSNvTh30gPc7O2L) | [Sulim](https://open.spotify.com/artist/6WRnkuaLO8JGDfCCokbenj) | [Nasheed \- Kuntu Maitan](https://open.spotify.com/album/5zOTIHKwMeQw4McLGonLKj) | 2:24 |
-| 10 | [Morning dua and remembrance](https://open.spotify.com/track/4GpmK4t1t5xteaOCl9GByj) | [Omar Hisham](https://open.spotify.com/artist/1RlnzIazwomBpkg7vHVs2s) | [Morning dua and remembrance](https://open.spotify.com/album/6uaNXbL8Um9LKfK1zvBUeV) | 27:31 |
-| 11 | [Subhana Allah \- Vocals Only Version](https://open.spotify.com/track/5zDqYGsOCC9EaektrqFmag) | [Maher Zain](https://open.spotify.com/artist/6PUZZX4GCzeFS0GaDWxVwz), [Mesut Kurtis](https://open.spotify.com/artist/1B03KdvD2TCVUEeaDbP5qf) | [Thank You Allah \(Vocals Only \- No Music Version\)](https://open.spotify.com/album/6GU6PmAOKYRsYVJTMlcjJr) | 3:43 |
+| 10 | [Subhana Allah \- Vocals Only Version](https://open.spotify.com/track/5zDqYGsOCC9EaektrqFmag) | [Maher Zain](https://open.spotify.com/artist/6PUZZX4GCzeFS0GaDWxVwz), [Mesut Kurtis](https://open.spotify.com/artist/1B03KdvD2TCVUEeaDbP5qf) | [Thank You Allah \(Vocals Only \- No Music Version\)](https://open.spotify.com/album/6GU6PmAOKYRsYVJTMlcjJr) | 3:43 |
+| 11 | [Morning dua and remembrance](https://open.spotify.com/track/4GpmK4t1t5xteaOCl9GByj) | [Omar Hisham](https://open.spotify.com/artist/1RlnzIazwomBpkg7vHVs2s) | [Morning dua and remembrance](https://open.spotify.com/album/6uaNXbL8Um9LKfK1zvBUeV) | 27:31 |
 | 12 | [ana maradun](https://open.spotify.com/track/0Eo8zX4FDkVjbji7H46I0a) | [religiousbliss](https://open.spotify.com/artist/3YnN981QCpx1LGoyfgvjAa) | [ana maradun](https://open.spotify.com/album/3j8g30E3z1qWr5ox9IYD8E) | 4:25 |
 | 13 | [يا الطارش](https://open.spotify.com/track/3akQ2gH0B06nEwyLkRaDLs) | [مشاري بن راشد العفاسي](https://open.spotify.com/artist/6nd2oiKSu9ksEAMzpXjIyi) | [ذكريات](https://open.spotify.com/album/4VtVVCIJd5daGZo3mGVb3Y) | 2:53 |
 | 14 | [Asma Ul Husna Intro](https://open.spotify.com/track/4iXQwOCpWqrAZvMiZsSWas) | [Nasheed](https://open.spotify.com/artist/09BCWz6kNuBQmMimHztLxJ) | [Names Of Allah](https://open.spotify.com/album/2qJpheQya2sXr5sYkKEo72) | 3:06 |
@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU0TPLQWa7jU.md) - [plain]
 | 19 | [اسم النبي](https://open.spotify.com/track/5ZzCbdcG8MfkzBuWhnDmKZ) | [مشاري بن راشد العفاسي](https://open.spotify.com/artist/6nd2oiKSu9ksEAMzpXjIyi) | [بالمصري](https://open.spotify.com/album/2XWVTT7DR6IZY1WGsyTKuN) | 1:49 |
 | 20 | [Şehadet Vakti](https://open.spotify.com/track/4I89xZLoBFx0YYpWDn8pxH) | [Grup Diriliş Vakti](https://open.spotify.com/artist/6NH7CKWaGnhexJmqD0f8Ib) | [Şehadet Arzusu](https://open.spotify.com/album/4ISui2qkNLVhfayaddnEu4) | 3:48 |
 | 21 | [Sanakhudu](https://open.spotify.com/track/1UCLo17VlWZ205YrnQw7T1) | [Shakir Khan Rahmani](https://open.spotify.com/artist/2h4mpW3vnMbpyuj2Sd64Mm) | [Sanakhudu](https://open.spotify.com/album/6DouOZTjzLIySpEcWmk5zq) | 2:48 |
-| 22 | [The Spirit of Bravery](https://open.spotify.com/track/1yqTx7AZDZCO6aptT1tKJy) | [Muhammad Al Muqit](https://open.spotify.com/artist/4kpoYPOSgCl2jYvCm6Cp05) | [Anasheeds, Vol\. 3](https://open.spotify.com/album/5HYuz7Zs6MnWXsonAjC2UD) | 3:44 |
-| 23 | [here i am allah](https://open.spotify.com/track/2WwQW49JsVapeU4TJLQmBY) | [religiousbliss](https://open.spotify.com/artist/3YnN981QCpx1LGoyfgvjAa) | [here i am allah](https://open.spotify.com/album/7jW4f7HUCjBc7nyiXTFCNp) | 2:54 |
+| 22 | [here i am allah](https://open.spotify.com/track/2WwQW49JsVapeU4TJLQmBY) | [religiousbliss](https://open.spotify.com/artist/3YnN981QCpx1LGoyfgvjAa) | [here i am allah](https://open.spotify.com/album/7jW4f7HUCjBc7nyiXTFCNp) | 2:54 |
+| 23 | [The Spirit of Bravery](https://open.spotify.com/track/1yqTx7AZDZCO6aptT1tKJy) | [Muhammad Al Muqit](https://open.spotify.com/artist/4kpoYPOSgCl2jYvCm6Cp05) | [Anasheeds, Vol\. 3](https://open.spotify.com/album/5HYuz7Zs6MnWXsonAjC2UD) | 3:44 |
 | 24 | [Subhanallah Alhamdulillah La Ilaha Illallah Allahu Akbar](https://open.spotify.com/track/4B9q33yuvC7YZEXFVMN3Ez) | [Hud](https://open.spotify.com/artist/3y1QVyOFg34BhB04yeyALM) | [Zikir Mudahkan Tidur](https://open.spotify.com/album/1l26Laok1dIcFvMsMiZzO2) | 6:17 |
 | 25 | [Drowning in Sin \(Konto Maytan\)](https://open.spotify.com/track/45m0hvxb3yPja7r161FkTe) | [Castillo Nasheeds](https://open.spotify.com/artist/0fJObbtKkm9ipZLycQl495) | [Darkness to Light](https://open.spotify.com/album/25UyVssxQZPa3TFK3jz7T2) | 5:10 |
 | 26 | [Allahuakbar 100](https://open.spotify.com/track/6iiH8Tl8yfibM7BrdKQWMl) | [Nasheed](https://open.spotify.com/artist/09BCWz6kNuBQmMimHztLxJ) | [Islamic Dhikrs](https://open.spotify.com/album/4a4m0tBIeuHKC7Ui1imctM) | 3:35 |
@@ -46,4 +46,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU0TPLQWa7jU.md) - [plain]
 | 36 | [Teravih Namazı Salavatı Şerifi \- Vokal](https://open.spotify.com/track/3ka9cljGJGBIzrwSV7ccRh) | [Hasan Bitmez Project](https://open.spotify.com/artist/4GCA3Gm1oRZjr0qAYp6tbF) | [Salavat Ezan Kaside](https://open.spotify.com/album/23VdHYxvQUa6B7aBWNINhS) | 4:01 |
 | 37 | [أصاح رويدك](https://open.spotify.com/track/1EioceLs7WfltjunttPmg7) | [موسى العميرة](https://open.spotify.com/artist/3dW0TwrbCdU7qkPuXIvLQy) | [أصاح رويدك](https://open.spotify.com/album/7G0oINdAsvpaULeqtcgWMI) | 3:53 |
 
-Snapshot ID: `MCw1NzYxYjJlNDNjNDZhODdiZDM1OWNiZGQyNmZmZDZkZWUwZmQ2MzQ3`
+Snapshot ID: `MCxhNmM2OWEzMWMzNDAxMzc1MTY4MGMzY2JmN2U3OWQ2ZmE1MjExMzg5`

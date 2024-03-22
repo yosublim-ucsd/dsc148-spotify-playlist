@@ -4,7 +4,7 @@
 
 > Brand new music from Monstercat, all in one place.
 
-684 songs - 1 day 15 hr 34 min
+685 songs - 1 day 15 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -200,6 +200,7 @@
 | [Falling Apart \- VIP](https://open.spotify.com/track/31mifD96EdMow5Clmci2cN) | [Pegboard Nerds](https://open.spotify.com/artist/0lLY20XpZ9yDobkbHI7u1y), [Stonebank](https://open.spotify.com/artist/4lC8Q0azW5ij2e1skZo377), [EMEL](https://open.spotify.com/artist/1U6FdBYgMkeRjQFuTF5JYr) | [Falling Apart \(VIP\)](https://open.spotify.com/album/0qleNFLwuuOTO0XnW8bZD4) | 3:36 | 2022-12-16 | 2023-03-18 |
 | [Falling Asleep](https://open.spotify.com/track/2pzKfgAFP7Strv6KGrYj3g) | [Aftruu](https://open.spotify.com/artist/5j8cJ0cS4JKvSAwmX5NDcH) | [Falling Asleep](https://open.spotify.com/album/4MdwGZGcrqifqH0WURQQqA) | 3:21 | 2023-03-28 | 2023-06-21 |
 | [Falling For You](https://open.spotify.com/track/6EW5mHMHEcsL1RSpy1HQ6p) | [Sabai](https://open.spotify.com/artist/4OaSyxqlkp7aVpAZwF02QZ), [With Løve](https://open.spotify.com/artist/0x0UI85q7lIdGMEZsNH5fm), [Nevve](https://open.spotify.com/artist/3RTklnRcfHgkQJwFpgOq3t) | [Falling For You](https://open.spotify.com/album/4kPYN4m2ALwHLFMAG58cba) | 2:58 | 2021-11-19 | 2022-02-03 |
+| [Falling in Love](https://open.spotify.com/track/4dmFo5VmijuePqQqgHvLHa) | [No Mana](https://open.spotify.com/artist/20yuGdfbRkW0HH3OfG1Nkg), [vowl.](https://open.spotify.com/artist/5Q0sv5SeMZln6szEW49dHL), [Leyla Diamondi](https://open.spotify.com/artist/0Ic8NW2XnSVcTwkrM6eLyw) | [Falling in Love](https://open.spotify.com/album/2Is9HWB1MtmHQUFkDIOGFt) | 3:37 | 2024-03-21 |  |
 | [Falling Off](https://open.spotify.com/track/7GYxHLn7wr35VDBQuwY7Au) | [Shingo Nakamura](https://open.spotify.com/artist/58zz0VTpGNHn7MGTlW2cxQ) | [Falling Off](https://open.spotify.com/album/78xun5sbV7gLxfc2bRMz1L) | 3:45 | 2022-08-24 | 2022-11-01 |
 | [Falling Off \- Club Mix](https://open.spotify.com/track/6o98BHCAJs67DTIfhg7ung) | [Shingo Nakamura](https://open.spotify.com/artist/58zz0VTpGNHn7MGTlW2cxQ) | [Falling Off \(Club Mix\)](https://open.spotify.com/album/4ZuObWTTTVcwo19TS7Cth9) | 3:19 | 2022-12-03 | 2023-03-03 |
 | [Fang](https://open.spotify.com/track/5DqGY6XxhHePdeKNfexYvE) | [Macky Gee](https://open.spotify.com/artist/5EDztvTkyoKtK0ZdEdhOFx) | [Fang](https://open.spotify.com/album/40qbM7Ukx5gWfZXreoYX2H) | 3:44 | 2023-11-06 | 2024-02-21 |
@@ -631,7 +632,7 @@
 | [Try Me](https://open.spotify.com/track/2x4X4bn0hzj2AJLC7jPfJa) | [OCULA](https://open.spotify.com/artist/2VzzhmEHXT4nGim8nBw4ij) | [Try Me](https://open.spotify.com/album/2rZztGcRl9pUAbSfEQshRC) | 3:14 | 2022-09-02 | 2022-11-05 |
 | [Turn Back The Clocks](https://open.spotify.com/track/1YSpczovBtz4fk8BxWrhvn) | [Alex H](https://open.spotify.com/artist/3VJS76xe6UUj7Qo2S9gxvB) | [Eagle Rock](https://open.spotify.com/album/6uvex7L4oOshBeTbgtlzQN) | 3:28 | 2022-11-19 | 2023-02-17 |
 | [Turn It Up](https://open.spotify.com/track/64c7I8GWjcOqK8guyLmN8u) | [Slushii](https://open.spotify.com/artist/41rVuRHYAiH7ltBTHVR9We) | [Turn It Up](https://open.spotify.com/album/6uE9OqskHZdqjKMvwf8GYf) | 3:13 | 2021-12-02 | 2022-03-08 |
-| [Turn It Up \- Slushii & Afinity VIP](https://open.spotify.com/track/1Z0sPQusIl7lmuIcee9HYa) | [Slushii](https://open.spotify.com/artist/41rVuRHYAiH7ltBTHVR9We), [Afinity](https://open.spotify.com/artist/6N7etQK8kFwtD0Kch6FVvf) | [Turn It Up \(Slushii & Afinity VIP\)](https://open.spotify.com/album/76T0t1HbJ8nNieSaJ8nKLb) | 3:58 | 2023-12-08 |  |
+| [Turn It Up \- Slushii & Afinity VIP](https://open.spotify.com/track/1Z0sPQusIl7lmuIcee9HYa) | [Slushii](https://open.spotify.com/artist/41rVuRHYAiH7ltBTHVR9We), [Afinity](https://open.spotify.com/artist/6N7etQK8kFwtD0Kch6FVvf) | [Turn It Up \(Slushii & Afinity VIP\)](https://open.spotify.com/album/76T0t1HbJ8nNieSaJ8nKLb) | 3:58 | 2023-12-08 | 2024-03-22 |
 | [Turn Me On](https://open.spotify.com/track/06OUxYW7Ck7Nav8iWp9600) | [GG Magree](https://open.spotify.com/artist/54pgkpWVgQYbQXD8bkUP8n) | [Turn Me On](https://open.spotify.com/album/6xL7AyotH5lcbJxLFvyiQE) | 2:43 | 2023-03-29 | 2023-06-21 |
 | [Turning](https://open.spotify.com/track/1syjpaCUrigJLbsdvBL2g6) | [Faodail](https://open.spotify.com/artist/7p53fRMaR9h4Ri162E5LGi) | [Turning](https://open.spotify.com/album/10alSsU3B9fySetvtSSoyR) | 3:40 | 2024-02-13 |  |
 | [U](https://open.spotify.com/track/3Qjs17YjOxj0QjuiQoCgV4) | [Terry Da Libra](https://open.spotify.com/artist/1N18Bl1O1zRsE0uRrt3ekB) | [U](https://open.spotify.com/album/4CJ2YvdHFMZ8Pyfvh7rI0T) | 4:32 | 2021-11-19 | 2022-02-04 |

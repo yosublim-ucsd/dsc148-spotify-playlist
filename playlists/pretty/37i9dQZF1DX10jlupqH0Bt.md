@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX10jlupqH0Bt.md) - [plain]
 
 > Solfeggio tones to harmonise & synchronise with, used for meditation and sleep
 
-[Spotify](https://open.spotify.com/user/spotify) - 75,030 likes - 49 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 75,094 likes - 49 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX10jlupqH0Bt.md) - [plain]
 | 48 | [852 Hz Breath Activation](https://open.spotify.com/track/1RPRIsnAg04j1ioC0eRUEp) | [Magnapinna](https://open.spotify.com/artist/6P7OXLySYL37liPzAalPf4) | [852 Hz Breath Activation](https://open.spotify.com/album/44qz6aN5PyUkZ7NZpwj9p5) | 3:23 |
 | 49 | [Borders 852 Hz](https://open.spotify.com/track/7z8XqddZ2pvWKhEdmUbn5l) | [Doctor Hz](https://open.spotify.com/artist/1Vxb1AqblkYBW00JtLP2Re) | [Frame of Frequencies](https://open.spotify.com/album/2ADv7aRLplDrzNQVmQyDGd) | 3:38 |
 
-Snapshot ID: `MCxmM2VlY2ZjOTkzNTY3NGM1ODdkZDI4YjcxNDM4Y2E1MmFlMWIyOGVi`
+Snapshot ID: `MCxmMDQ1YWIwMTgxOTM4OTdiNDRjNjgwMjJmMjI4Njk4ZDkxYmQzNTdk`

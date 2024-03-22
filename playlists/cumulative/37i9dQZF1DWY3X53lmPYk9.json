@@ -491,6 +491,24 @@
     },
     {
       "album": {
+        "name": "Am I Blue?",
+        "url": "https://open.spotify.com/album/6aRhuHC2bvD8eKbtYRWwqx"
+      },
+      "artists": [
+        {
+          "name": "Ray Love",
+          "url": "https://open.spotify.com/artist/3obhUFv6yw5E2dFE8d8LXy"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136479,
+      "name": "Am I Blue?",
+      "url": "https://open.spotify.com/track/1OfgmNmV2MLEJkAWLvAXdr"
+    },
+    {
+      "album": {
         "name": "Am I the Only One?",
         "url": "https://open.spotify.com/album/7KMKbpIle3r1zVJJ1lliO9"
       },
@@ -2929,6 +2947,24 @@
     },
     {
       "album": {
+        "name": "Heartbeat",
+        "url": "https://open.spotify.com/album/12zMv5RnfRbl2NE7s7phSL"
+      },
+      "artists": [
+        {
+          "name": "Eleanor Rivers",
+          "url": "https://open.spotify.com/artist/0PZjFVd7k6PROjrjVtVFU2"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219493,
+      "name": "Heartbeat",
+      "url": "https://open.spotify.com/track/5OUaXiuAB1DOx8BamiqPXO"
+    },
+    {
+      "album": {
         "name": "Heartbreak Avenue",
         "url": "https://open.spotify.com/album/2R2mL8rm0iWK58lNSuVufc"
       },
@@ -4261,6 +4297,24 @@
     },
     {
       "album": {
+        "name": "Just One More",
+        "url": "https://open.spotify.com/album/3191PgCVvNGrFrQsuBODno"
+      },
+      "artists": [
+        {
+          "name": "Trey Patton",
+          "url": "https://open.spotify.com/artist/16YBPq22nB5oyX5exXWfSn"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196466,
+      "name": "Just One More",
+      "url": "https://open.spotify.com/track/1fE8PAFqmiYaQoMT6zfjUl"
+    },
+    {
+      "album": {
         "name": "Knowing Myself",
         "url": "https://open.spotify.com/album/6l4uNwiLFEp6yV5MSZpMQB"
       },
@@ -4344,7 +4398,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-22",
       "duration_ms": 197150,
       "name": "Later honey",
       "url": "https://open.spotify.com/track/0w4tcM6osjc6yykd0IqqYQ"
@@ -4996,6 +5050,24 @@
       "duration_ms": 179537,
       "name": "Medium Rare",
       "url": "https://open.spotify.com/track/1mWMtQM3o3QG3xXedUagtM"
+    },
+    {
+      "album": {
+        "name": "Meet me in my dreams",
+        "url": "https://open.spotify.com/album/3psjBpDlT0BTJxYFU4ADTj"
+      },
+      "artists": [
+        {
+          "name": "Leah Lambert",
+          "url": "https://open.spotify.com/artist/6VFXRWtRRS8jLEs1ISJXs4"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197070,
+      "name": "Meet me in my dreams",
+      "url": "https://open.spotify.com/track/1x7zmdH7luQE9WvDUsbpTj"
     },
     {
       "album": {
@@ -7735,6 +7807,24 @@
     },
     {
       "album": {
+        "name": "The Church Bells",
+        "url": "https://open.spotify.com/album/0CrcdMPT1YqAZhw33tgEos"
+      },
+      "artists": [
+        {
+          "name": "Donald Minestra",
+          "url": "https://open.spotify.com/artist/4Vp3eoDbOl901ITzOwanhB"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182800,
+      "name": "The Church Bells",
+      "url": "https://open.spotify.com/track/79OlL2lweHTXhJgdk39moR"
+    },
+    {
+      "album": {
         "name": "The Cold Shoulder",
         "url": "https://open.spotify.com/album/3zrtIwzSxL1wVvFtxMhnfs"
       },
@@ -7948,6 +8038,24 @@
       "duration_ms": 194500,
       "name": "The Nearness Of You",
       "url": "https://open.spotify.com/track/2eFOuwEBv8SRLL5QJgoKMH"
+    },
+    {
+      "album": {
+        "name": "The Nearness of You",
+        "url": "https://open.spotify.com/album/0kmf0RsMgbtvL6XxIWz4G4"
+      },
+      "artists": [
+        {
+          "name": "Morgan Jaquette",
+          "url": "https://open.spotify.com/artist/540KL1Mixm0kSCTjw8mqoa"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169687,
+      "name": "The Nearness of You",
+      "url": "https://open.spotify.com/track/4D15PV4EsO7CTf1l7R3jCo"
     },
     {
       "album": {
@@ -8344,6 +8452,24 @@
       "duration_ms": 179745,
       "name": "Time Remembered",
       "url": "https://open.spotify.com/track/4ZEePa5q8Gwz6dqg4oIifT"
+    },
+    {
+      "album": {
+        "name": "Time To Get Up",
+        "url": "https://open.spotify.com/album/0w8CiCc5msPiV5kuJaIxbv"
+      },
+      "artists": [
+        {
+          "name": "Ron Bladworth",
+          "url": "https://open.spotify.com/artist/0BqBNOQfrBTClJMq6n03Mf"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164533,
+      "name": "Time To Get Up",
+      "url": "https://open.spotify.com/track/7dQfkjzkxNBOe3fCYHUT0k"
     },
     {
       "album": {

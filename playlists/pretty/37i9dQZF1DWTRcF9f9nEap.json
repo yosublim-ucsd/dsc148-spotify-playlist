@@ -1,12 +1,12 @@
 {
   "description": "A sound synonymous with the Blues; these are the pioneering names in slide guitar. Cover: Johnny Winter",
-  "num_followers": 89641,
+  "num_followers": 89713,
   "original_name": "Slide Guitar Heroes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3YmYyN2IwM2RhNmU1ZWU4NjYxM2NlNzg4ZjkyZTgxZWVjOTg4MjA0",
+  "snapshot_id": "MCwyMWIyMTM3N2IyZmRjYzk0ZjEwYjQ2ZTZjMDMxNzMyZWI3ZmNhMTA1",
   "tracks": [
     {
       "added_at": "2023-01-16 21:05:55",
@@ -439,22 +439,6 @@
     {
       "added_at": "2023-01-16 21:05:55",
       "album": {
-        "name": "Nothin' But Blood (Bonus Track Version)",
-        "url": "https://open.spotify.com/album/5CHhtV2aaZ30s7LKKTO7OC"
-      },
-      "artists": [
-        {
-          "name": "Scott H. Biram",
-          "url": "https://open.spotify.com/artist/6wpI4AEN6UO7ksNN23RGEf"
-        }
-      ],
-      "duration_ms": 252640,
-      "name": "Jack Of Diamonds",
-      "url": "https://open.spotify.com/track/7zNPzW0wjmeZXtALBAwBM7"
-    },
-    {
-      "added_at": "2023-01-16 21:05:55",
-      "album": {
         "name": "Fantastic Negrito Deluxe EP",
         "url": "https://open.spotify.com/album/0joZ3fA8e7Qj9W2PLExxwn"
       },
@@ -467,6 +451,22 @@
       "duration_ms": 160453,
       "name": "Night Has Turned to Day",
       "url": "https://open.spotify.com/track/4EtG28bl2zEehPhPsNgc8K"
+    },
+    {
+      "added_at": "2023-01-16 21:05:55",
+      "album": {
+        "name": "Nothin' But Blood (Bonus Track Version)",
+        "url": "https://open.spotify.com/album/5CHhtV2aaZ30s7LKKTO7OC"
+      },
+      "artists": [
+        {
+          "name": "Scott H. Biram",
+          "url": "https://open.spotify.com/artist/6wpI4AEN6UO7ksNN23RGEf"
+        }
+      ],
+      "duration_ms": 252640,
+      "name": "Jack Of Diamonds",
+      "url": "https://open.spotify.com/track/7zNPzW0wjmeZXtALBAwBM7"
     },
     {
       "added_at": "2023-01-16 21:05:55",
@@ -615,22 +615,6 @@
     {
       "added_at": "2023-01-16 21:05:55",
       "album": {
-        "name": "Fight",
-        "url": "https://open.spotify.com/album/2wqkJmNoB8cS80mbmnGSUK"
-      },
-      "artists": [
-        {
-          "name": "Joanna Connor",
-          "url": "https://open.spotify.com/artist/0MJGyEl8BgJbBTv3xeeFeB"
-        }
-      ],
-      "duration_ms": 262000,
-      "name": "Walkin' Blues",
-      "url": "https://open.spotify.com/track/4bh9exCCfV8IUr9qK28ZVC"
-    },
-    {
-      "added_at": "2023-01-16 21:05:55",
-      "album": {
         "name": "Songlines",
         "url": "https://open.spotify.com/album/1T6rgbl3cemngWpcLC99MH"
       },
@@ -659,6 +643,22 @@
       "duration_ms": 237680,
       "name": "Taylor's Rock",
       "url": "https://open.spotify.com/track/6fpaDrwoD72oLtksI0Ei88"
+    },
+    {
+      "added_at": "2023-01-16 21:05:55",
+      "album": {
+        "name": "At The Crossroads: The Blues Of Robert Johnson",
+        "url": "https://open.spotify.com/album/1KJCyy7UtWABdtntyoNhYc"
+      },
+      "artists": [
+        {
+          "name": "John Hammond",
+          "url": "https://open.spotify.com/artist/471Ycbmda1lAuLMscQvxMR"
+        }
+      ],
+      "duration_ms": 268133,
+      "name": "Sweet Home Chicago",
+      "url": "https://open.spotify.com/track/3Ck0eraxaMeJTkCjh6ZqNu"
     },
     {
       "added_at": "2023-01-16 21:05:55",
@@ -695,18 +695,18 @@
     {
       "added_at": "2023-01-16 21:05:55",
       "album": {
-        "name": "At The Crossroads: The Blues Of Robert Johnson",
-        "url": "https://open.spotify.com/album/1KJCyy7UtWABdtntyoNhYc"
+        "name": "Fight",
+        "url": "https://open.spotify.com/album/2wqkJmNoB8cS80mbmnGSUK"
       },
       "artists": [
         {
-          "name": "John Hammond",
-          "url": "https://open.spotify.com/artist/471Ycbmda1lAuLMscQvxMR"
+          "name": "Joanna Connor",
+          "url": "https://open.spotify.com/artist/0MJGyEl8BgJbBTv3xeeFeB"
         }
       ],
-      "duration_ms": 268133,
-      "name": "Sweet Home Chicago",
-      "url": "https://open.spotify.com/track/3Ck0eraxaMeJTkCjh6ZqNu"
+      "duration_ms": 262000,
+      "name": "Walkin' Blues",
+      "url": "https://open.spotify.com/track/4bh9exCCfV8IUr9qK28ZVC"
     },
     {
       "added_at": "2023-01-16 21:05:55",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/03de8Phg9jBojkrhxQX9LE.md) - [plain]
 
 > New music picks every Friday from your friends at Brownies &amp; Lemonade
 
-[Brownies & Lemonade](https://open.spotify.com/user/browniesandlemonade) - 20,161 likes - 143 songs - 8 hr 13 min
+[Brownies & Lemonade](https://open.spotify.com/user/browniesandlemonade) - 20,166 likes - 143 songs - 8 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/03de8Phg9jBojkrhxQX9LE.md) - [plain]
 | 32 | [Take Me Up](https://open.spotify.com/track/6zqvhr7HUextIQXbUdic1M) | [Sublab](https://open.spotify.com/artist/3tjRdPCZTpme7vslZJYtJx), [Juche](https://open.spotify.com/artist/3GZ8Rfap7VxAOzABiZEXCL) | [Take Me Up](https://open.spotify.com/album/1CakQfJaM2qNKg1OUeyAhY) | 3:05 |
 | 33 | [Demise](https://open.spotify.com/track/0j055WaD6Tdt0sCO7yT1f8) | [JEANIE](https://open.spotify.com/artist/5y4xjNwy9GEFC4hic2epwe) | [Into The Dark](https://open.spotify.com/album/6oOhjdvkVDfzXdTOTXmyJ5) | 2:24 |
 | 34 | [NO FRNDZ](https://open.spotify.com/track/6wZ90hSeuclyzT4U9IEBlD) | [Oddly Godly](https://open.spotify.com/artist/35C4dxG2eg13VhzF1FaN7U) | [NO FRNDZ](https://open.spotify.com/album/1m8AM1DJS11fmqXq8XZs9p) | 3:12 |
-| 35 | [What I Wanted \(GUDFELLA Remix\)](https://open.spotify.com/track/1iETVtwLBmaVbpvLObnlhq) | [Jauz](https://open.spotify.com/artist/5ttgIeUVka6FLyi00Uu5h8), [GUDFELLA](https://open.spotify.com/artist/3KjZMSSy0BaCVdvL0VABRO) | [Rise of The Wise \- Remixes](https://open.spotify.com/album/6t7heTLnH7KsDCQnSoVone) | 2:46 |
+| 35 | [What I Wanted \(GUDFELLA Remix\)](https://open.spotify.com/track/1iETVtwLBmaVbpvLObnlhq) | [GUDFELLA](https://open.spotify.com/artist/3KjZMSSy0BaCVdvL0VABRO) | [Rise of The Wise \- Remixes](https://open.spotify.com/album/6t7heTLnH7KsDCQnSoVone) | 2:46 |
 | 36 | [Losing Control](https://open.spotify.com/track/3S93WGovaVCmbXdTDYfVRb) | [Malixe](https://open.spotify.com/artist/0Aj37VEcCEFEZtoSFFvZzh) | [Losing Control](https://open.spotify.com/album/7yqmfpYvucZH7pgiVQBrr9) | 2:51 |
 | 37 | [Bottlepop](https://open.spotify.com/track/3iysa7RxuIFnYQPbEfE9IG) | [SUCHI](https://open.spotify.com/artist/1O9dpGFcvuAU0tuAUpYg3N) | [Ghungroo](https://open.spotify.com/album/0WfAGokfkZ2t4Z528nJl0g) | 4:30 |
 | 38 | [Don't Say](https://open.spotify.com/track/3UIpvxI4rFMc4Ng3AMfycu) | [Arya](https://open.spotify.com/artist/5O2s6fRMqbwIKGB9QrFrBQ) | [Don't Say](https://open.spotify.com/album/7EW009mrBIywR5pBGivHM9) | 3:05 |

@@ -4,7 +4,7 @@
 
 > Check out the emerging independent tracks from these Telugu Artists!! Cover : Sravana Bhargavi
 
-236 songs - 14 hr 27 min
+237 songs - 14 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,7 +13,7 @@
 | [Adugaduguna Neetho Rana](https://open.spotify.com/track/21jacqxMqPfeoV59jySKz3) | [Shravan Goud Writes](https://open.spotify.com/artist/3kQsf3T9PJ698IGsPWWZGn) | [Adugaduguna Neetho Rana](https://open.spotify.com/album/2X9I5QqN8aykPDYOKkfA6f) | 3:45 | 2022-07-20 | 2023-05-30 |
 | [Adugu Adugu](https://open.spotify.com/track/09LRs4WvTtYN4GHlpIqX6z) | [Hari Prasad S](https://open.spotify.com/artist/70FMFT9gNlxFAWYHSVbVdK), [K\. Naga Himaja](https://open.spotify.com/artist/1nOBsOUX0CDS22XNEgzxUA) | [Adugu Adugu](https://open.spotify.com/album/0w49ZF6qJwzBuyw9FcCrAY) | 2:57 | 2023-05-26 |  |
 | [Alai Balai](https://open.spotify.com/track/6FrKmVd9tp2vygYXxcvHjV) | [Ram Miriyala](https://open.spotify.com/artist/4A2XSc4OJjuPY4l6NjnrDj) | [Alai Balai](https://open.spotify.com/album/1sdhNmeEMpP95ZuespP4VO) | 3:14 | 2022-07-18 | 2024-02-03 |
-| [Aliveni](https://open.spotify.com/track/5mMk94mShBq7m9x8tYkMgb) | [Nutana Mohan](https://open.spotify.com/artist/0RGaIKSEzZnlNTLCJKnv0H) | [Aliveni](https://open.spotify.com/album/5TPEa7XFRVi8kgHCPeUjiQ) | 3:33 | 2024-01-08 |  |
+| [Aliveni](https://open.spotify.com/track/5mMk94mShBq7m9x8tYkMgb) | [Nutana Mohan](https://open.spotify.com/artist/0RGaIKSEzZnlNTLCJKnv0H) | [Aliveni](https://open.spotify.com/album/5TPEa7XFRVi8kgHCPeUjiQ) | 3:33 | 2024-01-08 | 2024-03-22 |
 | [AMMA \- Janmaala Runamu Kanipinchava](https://open.spotify.com/track/14VaG9fGETELHF1EkbWO5N) | [S K Parth](https://open.spotify.com/artist/20dOeJHWEcApptyMznAnT3), [John Kennady](https://open.spotify.com/artist/3o6tDaMkBF30McTajB5d3W), [Vijaya Chandra](https://open.spotify.com/artist/4lQmxDaI0u0L1qlor7O2oC) | [AMMA \(Janmaala Runamu Kanipinchava\)](https://open.spotify.com/album/3aBG1lIVqPWTUQDphSNQXN) | 3:24 | 2023-05-16 |  |
 | [Andame](https://open.spotify.com/track/5CHTjwWyqr4uhkRWNcT3Vf) | [Sahithi Chaganti](https://open.spotify.com/artist/01dP5AXWzqsUZj4VIcUSDM) | [Andame](https://open.spotify.com/album/7BP2lZYx8RrW8fICweQynt) | 3:28 | 2023-02-21 | 2023-11-21 |
 | [Andhami Swapnam](https://open.spotify.com/track/1BtRSvbXdLyZEweikCLqsm) | [John Kennady](https://open.spotify.com/artist/3o6tDaMkBF30McTajB5d3W), [Kishan D'Souza](https://open.spotify.com/artist/0MuPLm7QDoBgAKaxtJeyU6) | [Andhami Swapnam](https://open.spotify.com/album/5qIsGKX1MhrYRXrMO4eDIo) | 4:26 | 2023-05-02 |  |
@@ -151,6 +151,7 @@
 | [Nuvve Naa Lokam](https://open.spotify.com/track/7F1p60yC1Gb7De3omM8335) | [Pavan Kumar Harisomayajula](https://open.spotify.com/artist/1AATURikxHdk3SN6OEcF5l) | [Nuvve Naa Lokam](https://open.spotify.com/album/2kjrdeVEGpLxC4KIrQSxz6) | 4:27 | 2023-07-10 | 2023-07-25 |
 | [Nuvve Oka Sainyam](https://open.spotify.com/track/3BF1XYVHGSB1ijw3qDVwZ5) | [Sumanth Borra](https://open.spotify.com/artist/3hu79lSCu6pxnTG3Vfpuyz), [Venkatesh Vuppala](https://open.spotify.com/artist/1uyCwHOok5QG540JbbO5tb) | [Nuvve Oka Sainyam](https://open.spotify.com/album/6ypkqH11ztrhbFQXTDYoDP) | 2:31 | 2023-03-16 | 2023-05-26 |
 | [Nuvvele](https://open.spotify.com/track/3KAAehMv5l1x239SONwaDw) | [Törk](https://open.spotify.com/artist/7xGyFtxJOldAjiu2bvDAsy), [AKSH](https://open.spotify.com/artist/4XuG5Czd9PgDg9GF87E137) | [Nee Kosam](https://open.spotify.com/album/65B5rk7dznh1ma7nV0H6DO) | 3:39 | 2023-06-27 | 2023-09-12 |
+| [Nuvvu Unte Chaalu](https://open.spotify.com/track/2Ls2a6pVhsEp2gFWUhegdV) | [Oliver Kim](https://open.spotify.com/artist/4A4siCgJtEqDbtmotaNVgs) | [Nuvvu Unte Chaalu](https://open.spotify.com/album/6MNr0qhQfvkJthcGqNelpV) | 1:38 | 2024-03-21 |  |
 | [Nuvvunte Acoustic](https://open.spotify.com/track/3YfCpxpyXviMwEmrvSkzqx) | [Akshi](https://open.spotify.com/artist/3CBzFyPzRfVrTIFn6Ciu6J) | [Nuvvunte Acoustic](https://open.spotify.com/album/1rUB6pntj9LVvjrH8f9pZR) | 3:12 | 2023-04-17 | 2023-05-23 |
 | [O Mayya](https://open.spotify.com/track/1H9R0AWj5cxVdRA6JGx2ZI) | [Sai Madhav Rella](https://open.spotify.com/artist/7J2eKWSknBCCkwQEK5rDpw) | [O Mayya](https://open.spotify.com/album/5jXOvuqz6iFThLiUxMdbdx) | 4:14 | 2023-07-10 | 2023-10-14 |
 | [O Pilla \(TELUGU\)](https://open.spotify.com/track/1hmHzSfyVerXSYiY1Qq4Vx) | [Devi Sri Prasad](https://open.spotify.com/artist/5sSzCxHtgL82pYDvx2QyEU) | [O Pilla \(TELUGU\)](https://open.spotify.com/album/0lCTbSr2qTIXfRTHy2cWXp) | 3:21 | 2022-10-11 | 2023-05-23 |

@@ -1,12 +1,12 @@
 {
   "description": "Bounce to the Brick City sound. From New Jersey to the world. Cover: DJ Sliink",
-  "num_followers": 81252,
+  "num_followers": 81288,
   "original_name": "Jersey Club Heat",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkOThjZWFlNjU5M2MzZDVjYzFhYjBjNzYwZTVmZGFjZmY2M2MwNWIw",
+  "snapshot_id": "MCw1YWY0ZmYxYTI2ZTdhNTg2OTJhMjNjNmE3YmUyN2UyZThhMzEzYzY5",
   "tracks": [
     {
       "added_at": "2024-03-01 05:00:00",
@@ -1135,6 +1135,34 @@
     {
       "added_at": "2024-03-01 05:00:00",
       "album": {
+        "name": "Defiant Presents: Jiggy In Jersey",
+        "url": "https://open.spotify.com/album/7lEj90UqCHkiZzLnOOQV2v"
+      },
+      "artists": [
+        {
+          "name": "Sha EK",
+          "url": "https://open.spotify.com/artist/3jVAqTL4NbB88q4lj94VX9"
+        },
+        {
+          "name": "Bandmanrill",
+          "url": "https://open.spotify.com/artist/2SyMN1PdSuQpZgrYXrkai1"
+        },
+        {
+          "name": "Defiant Presents",
+          "url": "https://open.spotify.com/artist/6kOvJAZH29zNIKqPLOEC65"
+        },
+        {
+          "name": "Trippie Redd",
+          "url": "https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax"
+        }
+      ],
+      "duration_ms": 138000,
+      "name": "Who You Touch Pt. 2 (feat. Trippie Redd)",
+      "url": "https://open.spotify.com/track/3rdzGfp94hIX5nksvAjFoD"
+    },
+    {
+      "added_at": "2024-03-01 05:00:00",
+      "album": {
         "name": "Price Going Up",
         "url": "https://open.spotify.com/album/0zgiDICJXDygNbxUAhn9mb"
       },
@@ -1171,34 +1199,6 @@
       "duration_ms": 168727,
       "name": "WOAH",
       "url": "https://open.spotify.com/track/5tF9WEhxbT2hDzD1TN5yPo"
-    },
-    {
-      "added_at": "2024-03-01 05:00:00",
-      "album": {
-        "name": "Defiant Presents: Jiggy In Jersey",
-        "url": "https://open.spotify.com/album/7lEj90UqCHkiZzLnOOQV2v"
-      },
-      "artists": [
-        {
-          "name": "Sha EK",
-          "url": "https://open.spotify.com/artist/3jVAqTL4NbB88q4lj94VX9"
-        },
-        {
-          "name": "Bandmanrill",
-          "url": "https://open.spotify.com/artist/2SyMN1PdSuQpZgrYXrkai1"
-        },
-        {
-          "name": "Defiant Presents",
-          "url": "https://open.spotify.com/artist/6kOvJAZH29zNIKqPLOEC65"
-        },
-        {
-          "name": "Trippie Redd",
-          "url": "https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax"
-        }
-      ],
-      "duration_ms": 138000,
-      "name": "Who You Touch Pt. 2 (feat. Trippie Redd)",
-      "url": "https://open.spotify.com/track/3rdzGfp94hIX5nksvAjFoD"
     },
     {
       "added_at": "2024-03-01 05:00:00",

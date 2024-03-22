@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8JRCXB7TyAC.md) - [plain]
 
 > Workout with Haryanvi Songs\. Cover: Ankit Baiyanpuria
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,138 likes - 50 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,194 likes - 50 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8JRCXB7TyAC.md) - [plain]
 | 49 | [Yaar Haryane Te](https://open.spotify.com/track/36pCCXFo9bICfCXIPrIegh) | [Armaan Malik](https://open.spotify.com/artist/3pibkVeMCi8twOlUWQGieI), [Gold E Gill](https://open.spotify.com/artist/1nReJyCgrkUDk0VfCGXpQ4), [Ankit Baiyanpuria](https://open.spotify.com/artist/1tYgxFs8KyYSXCfQGFsnsu), [Jaivir Rathee](https://open.spotify.com/artist/11RL0P8BYXqoAChg4JkUZZ) | [Yaar Haryane Te](https://open.spotify.com/album/3hD4sNUhV9yErXgYvyT6Au) | 2:20 |
 | 50 | [Chhora Haryane Ala](https://open.spotify.com/track/04IAIuNeXUGZCJlogBfQqP) | [Diler Kharkiya](https://open.spotify.com/artist/5d6sKB0JbbWKiWoPDTLPj0) | [Chhora Haryane Ala](https://open.spotify.com/album/51Ucmq3UdA5pvIJGy0TvUC) | 2:31 |
 
-Snapshot ID: `MCw4MGE0MWRlMDA0MTBkNGYyYzg1MzMzMjA4YjVjNWQwYWM4NzNjZDE1`
+Snapshot ID: `MCxhMjg4ZDQ3OTAyMzQwNDZmZjFhYTkyZTY4MmQ4OTcyOTRjYzM2ZjBh`

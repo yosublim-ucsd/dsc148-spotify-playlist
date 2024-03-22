@@ -1,5 +1,5 @@
 {
-  "2024-03-21": 202260,
+  "2024-03-22": 202284,
   "date_first_scraped": "2021-12-28",
   "description": "Songs of faith, hope, and the greatest of these, love.",
   "name": "Higher Love",
@@ -181,7 +181,7 @@
       ],
       "date_added": "2024-02-03",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-10",
+      "date_removed": null,
       "duration_ms": 155881,
       "name": "Antagonista",
       "url": "https://open.spotify.com/track/2BVdkWkRhGPiJ6ootfw8vA"
@@ -3959,7 +3959,7 @@
       ],
       "date_added": "2024-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-21",
       "duration_ms": 180800,
       "name": "You Got It",
       "url": "https://open.spotify.com/track/01Yu78p79vbsR8kHDY1Czt"

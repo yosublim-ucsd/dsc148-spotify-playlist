@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3qlqnyl4p68.md) - [plain]
 
 > heart eyes\. curated by sofia carson, cover: purple hearts
 
-[Spotify](https://open.spotify.com/user/spotify) - 44,752 likes - 20 songs - 1 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 44,803 likes - 20 songs - 1 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,4 +29,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3qlqnyl4p68.md) - [plain]
 | 19 | [At Last](https://open.spotify.com/track/4Hhv2vrOTy89HFRcjU3QOx) | [Etta James](https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb) | [At Last!](https://open.spotify.com/album/7rd4PorIOPjPTy7qdUeeCt) | 2:59 |
 | 20 | [Blue Side of the Sky](https://open.spotify.com/track/6fXkmePXjYGhiy29K3myIA) | [Sofia Carson](https://open.spotify.com/artist/7bp2lSdh12wcA8LyB1srfJ) | [Purple Hearts \(Original Soundtrack\)](https://open.spotify.com/album/3wDjzYFS8eWE3bLSpXK4gd) | 3:02 |
 
-Snapshot ID: `MCxkMzBkYTlkYWIwNzlhNjA5ZGZkNjllNzQ3YzViYzAxMDhjMGJiMjhi`
+Snapshot ID: `MCwzN2JkNGE5NDEyMWRiZWQzZThlYjZmYjM1NmYxOWUxZDAzNTM2ZTgw`

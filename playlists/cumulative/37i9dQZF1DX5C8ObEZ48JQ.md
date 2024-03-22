@@ -4,7 +4,7 @@
 
 > The best new music by independent African artists and labels\. Updates every Wednesday\. Cover:  <a href="https://open.spotify.com/artist/3IcRyro18wY1bmtyQpDLgl?si=\_AOux\-TVTgKJf1JL8RolbA">Nyota Parker</a>\. Artwork: Isu Kim.
 
-723 songs - 1 day 12 hr 37 min
+724 songs - 1 day 12 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -90,7 +90,8 @@
 | [Body On Me](https://open.spotify.com/track/3jxqTS8mWx29hqOfwoWL4M) | [Layzee Ella](https://open.spotify.com/artist/5pvPu7OzfK3aKQaqKaEP4u) | [When The Lights Go Off](https://open.spotify.com/album/55oTvp56K9HIGGrBfLvGDh) | 2:59 | 2022-09-30 | 2022-10-29 |
 | [Booless Brothers](https://open.spotify.com/track/7gTgdhChd3dH93Ej8Qr8c5) | [Gasky](https://open.spotify.com/artist/5EyDiELo7F136IKRoicaB2), [Ajesings](https://open.spotify.com/artist/0ZWskTAdA6A0Y83znKqSDF) | [Booless Brothers](https://open.spotify.com/album/7lJsrNjkX9ObNZ7fQ4IEFD) | 2:11 | 2023-02-22 | 2023-03-30 |
 | [BopScrew](https://open.spotify.com/track/2QdJw8EBTCJuAJXF2QtjOU) | [DazzyLeNigga](https://open.spotify.com/artist/7dGH3AujymaCEYN0sgKO5s), [Tongue\-Fu Senseii](https://open.spotify.com/artist/0wwLeCrkyBWdgQ34XZqEnC) | [BopScrew](https://open.spotify.com/album/7dfnhnnnO5i8u1C4aWLuAY) | 2:27 | 2022-09-30 | 2023-01-26 |
-| [Breathless](https://open.spotify.com/track/4Dr8fAF8e3fZAKoszVUsNi) | [Ruguru](https://open.spotify.com/artist/1paCrsKnETPLpODHtQfSSW) | [Ruguru](https://open.spotify.com/album/2rdXJOOC9kuPWxD1mboKCQ) | 3:53 | 2024-03-06 |  |
+| [Breathless](https://open.spotify.com/track/4Dr8fAF8e3fZAKoszVUsNi) | [Ruguru](https://open.spotify.com/artist/1paCrsKnETPLpODHtQfSSW) | [Ruguru](https://open.spotify.com/album/2rdXJOOC9kuPWxD1mboKCQ) | 3:53 | 2024-03-06 | 2024-03-22 |
+| [Breathless](https://open.spotify.com/track/5lHDOOekGbZn5AmHc8hhvN) | [Ruguru](https://open.spotify.com/artist/1paCrsKnETPLpODHtQfSSW) | [Ruguru](https://open.spotify.com/album/6KxBTlz9GjwMGR9ZEEbbRg) | 3:53 | 2024-03-19 |  |
 | [Brenda](https://open.spotify.com/track/2S5dAgNweHQogi41SuAdkf) | [Ogranya](https://open.spotify.com/artist/2Y4GWlZVnj2QoLJb5r85of) | [Brenda](https://open.spotify.com/album/4hOK3Nmq4EVvaSv62bgvM2) | 3:09 | 2022-09-02 | 2022-10-01 |
 | [Broken](https://open.spotify.com/track/4l4K1xbcA3sSF4jDDZnDWg) | [Benev](https://open.spotify.com/artist/0PDqRrs5DTuSFinAp6O7CP) | [Broken](https://open.spotify.com/album/0ZFMDAAlCNOmALY22sfgBd) | 2:52 | 2022-09-30 | 2023-01-26 |
 | [Broken](https://open.spotify.com/track/3bU7GrpH4mhfJhE4TOA6NA) | [Kold AF](https://open.spotify.com/artist/30nT1GUVxPdjDFnXpP1wh8), [BGRZ](https://open.spotify.com/artist/6ZqlzWhnD6ctHRKh59uzMz) | [KOLLIDE](https://open.spotify.com/album/0KVVA3dYvH3ppczV0CWQdC) | 2:32 | 2023-10-25 | 2024-02-07 |

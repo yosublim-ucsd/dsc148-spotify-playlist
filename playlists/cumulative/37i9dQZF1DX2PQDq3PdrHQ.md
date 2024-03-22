@@ -4,7 +4,7 @@
 
 > Instrumental beats for a restful night's sleep.
 
-658 songs - 1 day 1 hr 28 min
+660 songs - 1 day 1 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,6 +39,7 @@
 | [animos](https://open.spotify.com/track/5CLBmr7bGBnsCFAsXITIyJ) | [redknobs](https://open.spotify.com/artist/69cokHbMaS4QTveywGMSUN) | [animos](https://open.spotify.com/album/2w1cTkkTNv3VJNPz7tenr3) | 2:19 | 2023-09-29 |  |
 | [Anubi](https://open.spotify.com/track/0cU8gpCcNiExEN7Vr2xv9c) | [DNH Missile](https://open.spotify.com/artist/1TLVJpSimMMm35fNj4x0lO) | [Anubi](https://open.spotify.com/album/48xyLuyOMnWyrfatEfSQSG) | 2:20 | 2022-07-29 | 2022-08-12 |
 | [Anxiety](https://open.spotify.com/track/3m8wuUjISsZykLLU1sYjpK) | [Ybyrayy](https://open.spotify.com/artist/47tK41FkaXhZOMGszQrYBs) | [Anxiety](https://open.spotify.com/album/1EzUO0EcK9fEJqRm8maQy6) | 1:50 | 2022-09-30 | 2023-01-20 |
+| [Appealing](https://open.spotify.com/track/6yubQQnxUPxOJH2CMq1Sd9) | [Tropicolor](https://open.spotify.com/artist/0C33MFjaSg48bmzyUkSAoO) | [Appealing](https://open.spotify.com/album/4xikKZ8fyq5iM5yjtn1ljw) | 2:30 | 2024-03-22 |  |
 | [Apricity](https://open.spotify.com/track/0PjiayxpzllsV5VsOLRaQM) | [lechiffrebeats](https://open.spotify.com/artist/0RDK14Ri76NaSlTIBrzYcn) | [Apricity](https://open.spotify.com/album/06lCTdkWrqXcW6x2N67ZQh) | 2:32 | 2022-08-12 | 2023-07-18 |
 | [arcade](https://open.spotify.com/track/4ZymE7jNv6VRPHdhL1OYIf) | [DupsU](https://open.spotify.com/artist/3exFwW4ib4gy068VQZYAgg) | [arcade](https://open.spotify.com/album/6ATjRptrFPrGkGsCn7CoT9) | 1:48 | 2023-03-16 |  |
 | [Artifact](https://open.spotify.com/track/0fZ0xr4utWdReyvnCpG99B) | [Shimo](https://open.spotify.com/artist/54yxEyTmJQaDLfTcICtvum) | [Artifact](https://open.spotify.com/album/21Z8K7bbSZnLKRG7NHoZxb) | 1:34 | 2022-06-17 | 2022-07-08 |
@@ -230,6 +231,7 @@
 | [ghost of you](https://open.spotify.com/track/7kTcclhs595puHsS4CZh0L) | [Snoozegod](https://open.spotify.com/artist/6WhabHAnf9RpSa3b24CvPG), [Poetics](https://open.spotify.com/artist/6sdgbah9YMIS5jSYdyzpBP) | [ghost of you](https://open.spotify.com/album/1DX19AEYRrRMxPjvV29e3l) | 1:42 | 2023-06-06 |  |
 | [Giveaway](https://open.spotify.com/track/1MQ29OwKSvVJ5zyCYvHkLX) | [Matt Louda](https://open.spotify.com/artist/6xEvlu9Brgxw4oW1u6Vwxw) | [Giveaway](https://open.spotify.com/album/3TRZ9vnRxP3TIeqOUJXjc3) | 2:44 | 2022-07-01 | 2023-10-27 |
 | [glass on rain](https://open.spotify.com/track/2lCqEGGvby2mwEhl06HSjX) | [Spitzgefühl](https://open.spotify.com/artist/1sxYUZPD5cbz9jqdNqR3lk) | [glass on rain](https://open.spotify.com/album/0RVXB95fOx5ZgbnfKEJTXd) | 1:50 | 2022-09-30 | 2023-08-30 |
+| [gloaming atmospheres](https://open.spotify.com/track/5D0r1uBb8jOBH4djqq6weE) | [Harry G's Beats](https://open.spotify.com/artist/59fTGxMpUBkID2RojOnA8V) | [gloaming atmospheres](https://open.spotify.com/album/08Q4qGs9OFRlryVRedjgeI) | 2:29 | 2024-03-22 |  |
 | [Gloom](https://open.spotify.com/track/2JRn07cPxiOqz1AQqeJ3U5) | [Mumblo](https://open.spotify.com/artist/7vN8JcVBYs97sPMK1fb38Z) | [Gloom](https://open.spotify.com/album/2ZBpfVQ6ML1drkMltgRQTN) | 2:32 | 2024-01-19 |  |
 | [Golden Hour](https://open.spotify.com/track/6NF7n3fcSEVd0hc1XttBci) | [Sleep Surgeon](https://open.spotify.com/artist/5Miv6SXEFSeNVMot3CQPoq) | [Golden Hour](https://open.spotify.com/album/68W1owVR2z5Z9TPojOCzUf) | 2:34 | 2022-06-24 | 2022-07-15 |
 | [Grain of Pepper](https://open.spotify.com/track/77YoUIwGlotxAqeWo6SLMs) | [Matt Kaff](https://open.spotify.com/artist/4k9rFz2MLEyxG3GqdZ1Uqg) | [Grain of Pepper](https://open.spotify.com/album/0QUGWCpsVE6BnoAaGffFwS) | 2:52 | 2022-08-12 | 2023-08-30 |

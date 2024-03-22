@@ -1,9 +1,27 @@
 {
-  "2024-03-21": 79165,
+  "2024-03-22": 79300,
   "date_first_scraped": "2022-12-28",
   "description": "Breathe deep, close your eyes, immerse yourself.... Water and rain sounds mixed with Tibetan meditation bowls and ambient music, to help you find inner balance. ",
   "name": "zen garden",
   "tracks": [
+    {
+      "album": {
+        "name": "432hz Resonant Creek",
+        "url": "https://open.spotify.com/album/6dfduJ79Cg8wiLInP5Qba2"
+      },
+      "artists": [
+        {
+          "name": "Jarra",
+          "url": "https://open.spotify.com/artist/3Cz7AqV45zqiyWoFaXrS69"
+        }
+      ],
+      "date_added": "2024-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171208,
+      "name": "432hz Resonant Creek",
+      "url": "https://open.spotify.com/track/7yEf9a0t2fYFUwvPGhHWPh"
+    },
     {
       "album": {
         "name": "Alma",
@@ -366,6 +384,24 @@
     },
     {
       "album": {
+        "name": "Des Roches Ritual",
+        "url": "https://open.spotify.com/album/0et9Tv7PCytessod4b4Kl7"
+      },
+      "artists": [
+        {
+          "name": "Electric Rivers",
+          "url": "https://open.spotify.com/artist/4ATjV5COMvZp7XfnELm7nV"
+        }
+      ],
+      "date_added": "2024-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213699,
+      "name": "Des Roches Ritual",
+      "url": "https://open.spotify.com/track/31nCgRTa6hPm2sFzUQD2NW"
+    },
+    {
+      "album": {
         "name": "Devine Waves",
         "url": "https://open.spotify.com/album/7987vByLF9HkepU0VIabSG"
       },
@@ -399,6 +435,24 @@
       "duration_ms": 179500,
       "name": "Dormire Bowls",
       "url": "https://open.spotify.com/track/2jYioAcAHOTxS4IPu0zZxO"
+    },
+    {
+      "album": {
+        "name": "Dreaming Singing Bowls",
+        "url": "https://open.spotify.com/album/1NydFdGbNmkxrHC26krN0y"
+      },
+      "artists": [
+        {
+          "name": "Kayce Laine",
+          "url": "https://open.spotify.com/artist/7cFbIyFpJivCMZjpiy3yBb"
+        }
+      ],
+      "date_added": "2024-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161306,
+      "name": "Dreaming Singing Bowls",
+      "url": "https://open.spotify.com/track/2YCBtr5II3Vx7AL3q5DlMM"
     },
     {
       "album": {
@@ -503,7 +557,7 @@
       ],
       "date_added": "2022-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-21",
       "duration_ms": 114000,
       "name": "Forest Pan Drum",
       "url": "https://open.spotify.com/track/0nPqH3ynQMcyapW6aLdYjX"
@@ -593,7 +647,7 @@
       ],
       "date_added": "2022-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-21",
       "duration_ms": 170071,
       "name": "Handpan Rain",
       "url": "https://open.spotify.com/track/5XDltyzAT7IkZeGu0lAKUf"
@@ -636,6 +690,24 @@
     },
     {
       "album": {
+        "name": "Healing Bowls",
+        "url": "https://open.spotify.com/album/1ZiNUgU0nlnDWiY9IX0B8X"
+      },
+      "artists": [
+        {
+          "name": "Earth Tone",
+          "url": "https://open.spotify.com/artist/05MiTtnA2sTCrvI9TsTBhj"
+        }
+      ],
+      "date_added": "2024-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213952,
+      "name": "Healing Bowls",
+      "url": "https://open.spotify.com/track/0A8FaTLnTktPGdT445LvOl"
+    },
+    {
+      "album": {
         "name": "Healing Waters",
         "url": "https://open.spotify.com/album/6LVZrLGKA5XfiFvSy4v5Xo"
       },
@@ -651,6 +723,24 @@
       "duration_ms": 157391,
       "name": "Healing Waters",
       "url": "https://open.spotify.com/track/4ddsjkH75YM1Yl62v4YLJ7"
+    },
+    {
+      "album": {
+        "name": "Healing Winds (Nature)",
+        "url": "https://open.spotify.com/album/2CdswrRTCsE83LvoZYNV3h"
+      },
+      "artists": [
+        {
+          "name": "Eta Centauri",
+          "url": "https://open.spotify.com/artist/3KadSziW0YI74KukJn9uwn"
+        }
+      ],
+      "date_added": "2024-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182400,
+      "name": "Healing Winds (Nature)",
+      "url": "https://open.spotify.com/track/6eZvMOonscNh15H00jJeKX"
     },
     {
       "album": {
@@ -737,7 +827,7 @@
       ],
       "date_added": "2022-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-21",
       "duration_ms": 180000,
       "name": "Immortal Grounds (Tibetan Bowls & Babbling Brook)",
       "url": "https://open.spotify.com/track/3OOrH4Rsxde5KZW4kxhBrV"
@@ -899,7 +989,7 @@
       ],
       "date_added": "2022-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-21",
       "duration_ms": 188000,
       "name": "Meditative Bowls",
       "url": "https://open.spotify.com/track/1JO2ZOIrzRcV2uEIzxvrv1"
@@ -1194,6 +1284,24 @@
     },
     {
       "album": {
+        "name": "Quiet Explorer",
+        "url": "https://open.spotify.com/album/3vKpYojebacZJInuEd09Cl"
+      },
+      "artists": [
+        {
+          "name": "Devon Fall",
+          "url": "https://open.spotify.com/artist/7dUjQYaR5Qa3fS8w5CN3pN"
+        }
+      ],
+      "date_added": "2024-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187200,
+      "name": "Quiet Explorer",
+      "url": "https://open.spotify.com/track/5QCepve7pVYDH3r81mx2tC"
+    },
+    {
+      "album": {
         "name": "Rain Lulang",
         "url": "https://open.spotify.com/album/1AkqHDGkLmGOhfCROXqkg5"
       },
@@ -1277,7 +1385,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-21",
       "duration_ms": 188000,
       "name": "Refreshing Thoughts - River",
       "url": "https://open.spotify.com/track/5gMX6SqIftxYDqvuzsMGvM"
@@ -1583,7 +1691,7 @@
       ],
       "date_added": "2023-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-21",
       "duration_ms": 176000,
       "name": "Soundbath Levitation - River",
       "url": "https://open.spotify.com/track/09BHcX0egsFWJmcYpXvsCQ"
@@ -1947,6 +2055,24 @@
       "duration_ms": 199090,
       "name": "Whispering Dryad",
       "url": "https://open.spotify.com/track/3IqatHS3VQu8WWZpCBh6f5"
+    },
+    {
+      "album": {
+        "name": "With the Flow",
+        "url": "https://open.spotify.com/album/1yKVBgjfkVmAPPsRhGEBmi"
+      },
+      "artists": [
+        {
+          "name": "Park Leaf",
+          "url": "https://open.spotify.com/artist/587iyTEEJ1Ak3qIFnefDFJ"
+        }
+      ],
+      "date_added": "2024-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182600,
+      "name": "With the Flow",
+      "url": "https://open.spotify.com/track/25ZH9ibNeaF3U5rK02Y2Up"
     },
     {
       "album": {

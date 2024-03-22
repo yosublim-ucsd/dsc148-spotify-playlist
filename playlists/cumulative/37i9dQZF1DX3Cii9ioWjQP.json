@@ -1827,6 +1827,24 @@
     },
     {
       "album": {
+        "name": "Foggy",
+        "url": "https://open.spotify.com/album/6hEj5ZCKdaWUXDq73wGcaN"
+      },
+      "artists": [
+        {
+          "name": "Milena",
+          "url": "https://open.spotify.com/artist/2ODok2cPMF1Z1gZetfaL6n"
+        }
+      ],
+      "date_added": "2024-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224200,
+      "name": "Oh Rosy",
+      "url": "https://open.spotify.com/track/33SWg6lcMQxcg0mD4f6cG9"
+    },
+    {
+      "album": {
         "name": "One Last Try",
         "url": "https://open.spotify.com/album/7eX5eD0bp4qMCsBopmgwXU"
       },
@@ -3106,6 +3124,24 @@
       "duration_ms": 311445,
       "name": "Winter Wonderland",
       "url": "https://open.spotify.com/track/7hVGDWmkXtSIv5XwJuc4AW"
+    },
+    {
+      "album": {
+        "name": "Foggy",
+        "url": "https://open.spotify.com/album/6hEj5ZCKdaWUXDq73wGcaN"
+      },
+      "artists": [
+        {
+          "name": "Milena",
+          "url": "https://open.spotify.com/artist/2ODok2cPMF1Z1gZetfaL6n"
+        }
+      ],
+      "date_added": "2024-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172586,
+      "name": "Worry doll",
+      "url": "https://open.spotify.com/track/3fOjYZhN8qN2k599u56tNl"
     },
     {
       "album": {

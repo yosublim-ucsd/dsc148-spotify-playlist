@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2p24KuIbwho6IKwVb2VYiC.md) - [plain]
 
 > The best Dance and EDM tracks right now! Cover: Rezz
 
-[Digster Canada](https://open.spotify.com/user/digsterca) - 20,309 likes - 97 songs - 4 hr 59 min
+[Digster Canada](https://open.spotify.com/user/digsterca) - 20,307 likes - 97 songs - 4 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

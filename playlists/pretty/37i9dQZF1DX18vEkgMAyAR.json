@@ -1,12 +1,12 @@
 {
   "description": "Your everyday pick-me-up playlist.",
-  "num_followers": 67649,
+  "num_followers": 67664,
   "original_name": "Feel Good Look Good",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlNWI1NDFlYzA4YTJlOWU2ODRkNDgyNzgwNDI4MjdiYzRlNWYzYzc0",
+  "snapshot_id": "MCw1MDliNjExZDA3NDZlMjc0MTkxODE0NDA3Y2FiZWY3MjQ5NmIwNGRl",
   "tracks": [
     {
       "added_at": "2023-11-03 03:58:52",
@@ -1119,22 +1119,18 @@
     {
       "added_at": "2023-11-03 03:58:52",
       "album": {
-        "name": "OMOGE WA JO",
-        "url": "https://open.spotify.com/album/6PyyxJkmIZbybiMrOjpPNh"
+        "name": "Say You Will Remember Me",
+        "url": "https://open.spotify.com/album/39wcKYCki3w61JhTzUM8be"
       },
       "artists": [
         {
-          "name": "Cruel Santino",
-          "url": "https://open.spotify.com/artist/15GgEOJiFyjQm4tZ4D7qih"
-        },
-        {
-          "name": "L0LA",
-          "url": "https://open.spotify.com/artist/5LkJ2e1N1SuXrUIWkw1r0o"
+          "name": "Shaun Jacobs",
+          "url": "https://open.spotify.com/artist/662ARLbv66AD2qerddBiDP"
         }
       ],
-      "duration_ms": 145084,
-      "name": "OMOGE WA JO",
-      "url": "https://open.spotify.com/track/1r2aKropSpSFb37Nmtp8WT"
+      "duration_ms": 202035,
+      "name": "Say You Will Remember Me",
+      "url": "https://open.spotify.com/track/3cVbwXyr9oZdeNfISdeS7F"
     }
   ],
   "unique_name": "Feel Good Look Good",

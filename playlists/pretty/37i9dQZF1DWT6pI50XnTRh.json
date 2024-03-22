@@ -1,12 +1,12 @@
 {
   "description": "Nostalgic '70-ies and '80-ies Funk, Disco, Boogie and Afropop music which lit up night clubs across Africa. Get your boogie on!",
-  "num_followers": 185791,
+  "num_followers": 185831,
   "original_name": "AfroBoogie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwMTA1YTM4ZDNiZGI0YmNiY2YzYjg5ZmNmNmQ0OTVkNTFmMjdlM2Qw",
+  "snapshot_id": "MCwwNWVjYTc3OTA5NzEzOTUxMTIwZTRiNGIzNGFjNjAxYjkzOWM1NTI1",
   "tracks": [
     {
       "added_at": "2022-09-26 14:48:22",
@@ -760,6 +760,22 @@
       },
       "artists": [
         {
+          "name": "Claudia Barry",
+          "url": "https://open.spotify.com/artist/5Y4hAdGj1mciEktS39vJYN"
+        }
+      ],
+      "duration_ms": 267440,
+      "name": "Love for the Sake of Love",
+      "url": "https://open.spotify.com/track/3XfO4iKlM7fdoiJ4uz1wku"
+    },
+    {
+      "added_at": "2022-09-26 14:48:22",
+      "album": {
+        "name": "Discomania: Hits Dance 70-80, Vol. 6",
+        "url": "https://open.spotify.com/album/2lEVsqT80Q3vnYlRkUEZ1d"
+      },
+      "artists": [
+        {
           "name": "Lamont Dozier",
           "url": "https://open.spotify.com/artist/6Dpx8fRtNa9CEORHIiBQTG"
         }
@@ -799,22 +815,6 @@
       "duration_ms": 469995,
       "name": "Let Me Love You",
       "url": "https://open.spotify.com/track/2omcm8YdAMlVWcxhJo9tQG"
-    },
-    {
-      "added_at": "2022-09-26 14:48:22",
-      "album": {
-        "name": "Discomania: Hits Dance 70-80, Vol. 6",
-        "url": "https://open.spotify.com/album/2lEVsqT80Q3vnYlRkUEZ1d"
-      },
-      "artists": [
-        {
-          "name": "Claudia Barry",
-          "url": "https://open.spotify.com/artist/5Y4hAdGj1mciEktS39vJYN"
-        }
-      ],
-      "duration_ms": 267440,
-      "name": "Love for the Sake of Love",
-      "url": "https://open.spotify.com/track/3XfO4iKlM7fdoiJ4uz1wku"
     },
     {
       "added_at": "2022-09-26 14:48:22",

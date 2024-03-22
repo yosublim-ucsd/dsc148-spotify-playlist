@@ -4,7 +4,7 @@
 
 > Gentle instrumental covers of known songs.
 
-574 songs - 1 day 5 hr 10 min
+579 songs - 1 day 5 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -197,6 +197,7 @@
 | [Hallelujah](https://open.spotify.com/track/0uCGsNZqjHgiYO4BwN6Cjw) | [Ben Laver](https://open.spotify.com/artist/3lTGvG2QAIoGMp7BKeH4C0) | [Hallelujah](https://open.spotify.com/album/1v0jm6f0oEjcpYhpJI8Lcf) | 2:45 | 2022-01-21 | 2022-07-29 |
 | [Hallelujah](https://open.spotify.com/track/3OIuwKMMuO3tVZ9futeIfb) | [Ben Laver](https://open.spotify.com/artist/3lTGvG2QAIoGMp7BKeH4C0) | [Hallelujah](https://open.spotify.com/album/5iFn9WyVbL1FIRJACbkdlR) | 2:45 | 2022-07-27 | 2022-10-15 |
 | [Hallelujah](https://open.spotify.com/track/5N8j7CpnWXB8GNJ1p4hkn7) | [Kim Jonas](https://open.spotify.com/artist/1FlrpSI88fx7RNjHNHbc2H) | [Hallelujah](https://open.spotify.com/album/0TKpJk97pMW4Ud7jOHG6Ql) | 2:21 | 2022-01-21 | 2022-10-15 |
+| [Hallelujah](https://open.spotify.com/track/5Ejj6d6NWhR1g9oymWBlm2) | [Ron Lopata](https://open.spotify.com/artist/126P8vRqW1X8AOS0LfKbtA) | [Hallelujah](https://open.spotify.com/album/1pQ8qDBJqljz1SzaYXswJt) | 2:54 | 2024-03-22 |  |
 | [Hallelujah](https://open.spotify.com/track/4XEUSUpttuCvxb7GRjJ25m) | [Walter Penn](https://open.spotify.com/artist/2CWnlvisVPTCncNKI0k3U9) | [Hallelujah](https://open.spotify.com/album/1iVvvLJnu0tor0jYxMeSCw) | 1:51 | 2023-05-12 | 2023-08-11 |
 | [Hallelujah](https://open.spotify.com/track/4vXkT1Dgel9Y3W9V3IvM74) | [William Chu](https://open.spotify.com/artist/1OMbaqIBBz86y7FdoMcwMv) | [Hallelujah](https://open.spotify.com/album/38alZxIo99eD19U9ldrQSl) | 2:44 | 2022-10-14 | 2022-12-02 |
 | [Hallelujah \- Piano Version](https://open.spotify.com/track/7tW7bfj8kHzZREXxNXzCG5) | [Vincent Fanguro](https://open.spotify.com/artist/4VWpxQlVnMltoRKKVToSJM) | [Calm Piano Covers no 1](https://open.spotify.com/album/1e92hWodKmzfDtXDaAyEiP) | 3:35 | 2022-12-02 | 2023-05-12 |
@@ -445,6 +446,7 @@
 | [Still Crazy After All These Years](https://open.spotify.com/track/3PBOZgYsCoNd4Tc3lm4w6l) | [Lightstorm](https://open.spotify.com/artist/3A3c5aBd5quZVYD2WwVSh8) | [Still Crazy After All These Years](https://open.spotify.com/album/3LLkSZEegIJKeOEq6gpiu3) | 3:02 | 2022-10-28 | 2023-09-08 |
 | [Stolen Dance](https://open.spotify.com/track/0QxMBkaPIwlmR5LNFYGMan) | [Junior Carrol](https://open.spotify.com/artist/2Scv3DFwZ724kkR09uNKbv) | [Stolen Dance](https://open.spotify.com/album/7o2LbIxrLKm81JnPSmtFkw) | 2:50 | 2023-03-17 |  |
 | [Summer Of '69 \- Piano Version](https://open.spotify.com/track/4qQaGERlp7y1Uhe8B6rQIk) | [Mark Benson](https://open.spotify.com/artist/1IaIpFqqzozfCnPECU9vOb) | [Piano Favorites 4](https://open.spotify.com/album/1qHmg3HEV4zNKOO54X6H4X) | 3:33 | 2022-12-02 | 2023-06-03 |
+| [Sunflower](https://open.spotify.com/track/0Q3UrvVVAPzv72nTWLzTRv) | [Lars Florence](https://open.spotify.com/artist/4ruYri05LUlpHAX2k9Pyo2) | [Sunflower](https://open.spotify.com/album/5jOXGrdg6dzNWAc2YmpPfm) | 3:10 | 2024-03-22 |  |
 | [Sunroof](https://open.spotify.com/track/5jU1SM9KBUETJrb4QdTR5l) | [Loftet](https://open.spotify.com/artist/7JWt3Kh3FNVfaVQptxoT12) | [INDUSTRY BABY](https://open.spotify.com/album/4aUWDI0XA6M75Yfu3LD7tr) | 2:25 | 2022-12-02 | 2023-06-03 |
 | [Sunroof \- Piano](https://open.spotify.com/track/2hNUsP1vEQ5E5qx5QefQ71) | [Teddy Knight](https://open.spotify.com/artist/0fOXXu7hSPOCnufvtl9xd7) | [Sunroof \(Piano\)](https://open.spotify.com/album/6zTeSMLxgbU7nwv5wABYyH) | 2:32 | 2022-12-02 | 2023-04-12 |
 | [Sunroof \- Piano](https://open.spotify.com/track/7FtESnSNTkKTJWxdCrp53D) | [Teddy Knight](https://open.spotify.com/artist/0fOXXu7hSPOCnufvtl9xd7) | [Sunroof \(Piano\)](https://open.spotify.com/album/0cyeyZENgVLFMkjL4MRcHr) | 2:32 | 2023-03-24 |  |
@@ -468,6 +470,7 @@
 | [That´s What Friends Are for](https://open.spotify.com/track/3K5wMP74gzoCQn5xx9BAxa) | [Floritatura](https://open.spotify.com/artist/5nLzQ8oEKZ4BK73olozSSc) | [That´s What Friends Are for](https://open.spotify.com/album/6LOkGX8WkFRpC1wkBxoNUy) | 3:33 | 2024-01-19 |  |
 | [The Bones](https://open.spotify.com/track/1VxxM2CjF0982zpGHeMrxu) | [Caitlin Owens](https://open.spotify.com/artist/4bwu4i5ewOhlguYr195Wjj) | [The Bones](https://open.spotify.com/album/1Xk4W4ggHkNl4MwJehSQMr) | 3:11 | 2022-01-21 |  |
 | [The Boxer](https://open.spotify.com/track/1FcM70fl2rKgfwL8DSSrHv) | [The Poet](https://open.spotify.com/artist/37LEXAV1tfykNBoe1FgSPy) | [The Boxer](https://open.spotify.com/album/7MHviX6oQ9TzPp1bviBQsl) | 2:36 | 2023-04-14 |  |
+| [The final countdown](https://open.spotify.com/track/63VSSY49F6356Lu87MxENx) | [Dan Goten](https://open.spotify.com/artist/7zXPCJltIcz9RxTp01GyeC) | [The final countdown](https://open.spotify.com/album/6Ol7Ix94ugJsxWppUl3n7R) | 2:37 | 2024-03-22 |  |
 | [The Glory of Love](https://open.spotify.com/track/7yLXq8o6prmHoxyuzxUaYd) | [Olly Chesterman](https://open.spotify.com/artist/7cbFx59dQGKkWoNCAW8xFR) | [The Glory of Love](https://open.spotify.com/album/0QVDbJfyWarKbkARpvIHKC) | 3:17 | 2023-04-14 |  |
 | [The Joke](https://open.spotify.com/track/3Sq6BHPQVRWE9WHvFDQzNz) | [Zola Davis](https://open.spotify.com/artist/78EI36rEoD1ZiOHSgYroWP) | [The Joke](https://open.spotify.com/album/5jPbLh8xYOuczLIsnHeDng) | 3:31 | 2022-01-21 |  |
 | [The Joker And The Queen](https://open.spotify.com/track/50b9WR0RsWdG0pvgTzQQhi) | [Matthew Rai](https://open.spotify.com/artist/5BqSUu52p300lc3r4riijz) | [The Joker And The Queen](https://open.spotify.com/album/0cnOgEre1gyqiJr9lz6LwB) | 3:42 | 2022-05-02 |  |
@@ -548,6 +551,7 @@
 | [Wicked Game](https://open.spotify.com/track/2xdZFU10kxBAZSyImawWkf) | [Claire Haeving](https://open.spotify.com/artist/1TwEiPFLOc40tfIB7EvaWX) | [Uncovered](https://open.spotify.com/album/0xOfEKGbSpYALqMH3IHahO) | 3:10 | 2022-01-21 |  |
 | [Wicked Little Town](https://open.spotify.com/track/2pUSuzYdYL7slVFPBFlWGp) | [Belinda Myers](https://open.spotify.com/artist/2mSWNZB816deXedBK3rIG8) | [Defying Gravity](https://open.spotify.com/album/0r4vtNHBSL4ksyonK1Itbb) | 3:16 | 2022-01-21 | 2023-04-29 |
 | [Wild Horses](https://open.spotify.com/track/0w4UTfFR62G4Tv0u1lJIED) | [Richard Goldsworthy](https://open.spotify.com/artist/0W0vripYNU4cqxy3abRYuO) | [Wild Horses](https://open.spotify.com/album/7ojqnKT6vCuQN5yG9arN1N) | 3:56 | 2022-08-01 | 2023-02-10 |
+| [Wind Of Change](https://open.spotify.com/track/7xYSleWEppumLFfcae1D2F) | [Kim Jonas](https://open.spotify.com/artist/1FlrpSI88fx7RNjHNHbc2H) | [Wind Of Change](https://open.spotify.com/album/0sTLdlhQTr2ZjxdTlr2HcI) | 3:13 | 2024-03-22 |  |
 | [With or without you](https://open.spotify.com/track/5ySNvjc6U7c4TDhRgqNdJh) | [Anissa Henderson](https://open.spotify.com/artist/7hWN9tSQOmj0pafX5UWsjE) | [With or without you](https://open.spotify.com/album/2hzBunUPQX0klUidFYR9Ux) | 2:36 | 2023-11-17 |  |
 | [Without you](https://open.spotify.com/track/1Pplkqiz45fRq73OxgrHQL) | [Leona Boyd](https://open.spotify.com/artist/7jEJ0zKV57ryzZm5tEVGJe) | [Without you](https://open.spotify.com/album/1zyivnqvuiBNnVS8YoAmtK) | 3:11 | 2022-10-14 |  |
 | [Woke Up in Love](https://open.spotify.com/track/00VGDS10lKLKXyKCrvcj53) | [Pia Plonner](https://open.spotify.com/artist/42HyEtsQzXNdX6aBjxdOaO) | [Woke Up in Love](https://open.spotify.com/album/64Pan695xJqJcya0LiFsQU) | 2:56 | 2022-12-02 | 2023-09-08 |
@@ -575,6 +579,7 @@
 | [You're Still The One \- Piano Version](https://open.spotify.com/track/2hzdCCDGr12HqseY5JijuX) | [Mark Benson](https://open.spotify.com/artist/1IaIpFqqzozfCnPECU9vOb) | [Piano Favorites 4](https://open.spotify.com/album/1qHmg3HEV4zNKOO54X6H4X) | 3:12 | 2022-12-02 | 2023-06-03 |
 | [You're The Inspiration](https://open.spotify.com/track/0EzDeUITUHCBNdaYn8w90u) | [Filip Benedetto](https://open.spotify.com/artist/1x6GlAVo5qvLhm45bgtlp7) | [You're The Inspiration](https://open.spotify.com/album/4UAcuTJDr9h36ufNW53Age) | 4:16 | 2022-10-14 | 2023-02-24 |
 | [You're The Inspiration](https://open.spotify.com/track/2yak0NAXDOx6QilHvfBMqP) | [George Jacomel](https://open.spotify.com/artist/44bWSBuHUEo6M84U8E0i6q) | [You're The Inspiration](https://open.spotify.com/album/7cWdaXU0ufkhTRiOAYGND2) | 3:36 | 2022-09-30 |  |
+| [You've Got a Friend](https://open.spotify.com/track/6CQpKH4wSPNb3SF2fumzaz) | [Diego de Frigiliana](https://open.spotify.com/artist/0ZA7bWb2UEatiixLiriYE7) | [You've Got a Friend](https://open.spotify.com/album/3AUhTRgBsH1qsxAF9rcBLR) | 3:53 | 2024-03-22 |  |
 | [Your Power](https://open.spotify.com/track/3BYzUvWqRbMqgAFJ0RKOit) | [Bea Westphal](https://open.spotify.com/artist/1WYKnoHGJ7nwH1S9SyZsYc) | [Your Power](https://open.spotify.com/album/43jo9EfovSbhORuO73djg6) | 3:04 | 2022-01-21 |  |
 | [Your Song](https://open.spotify.com/track/72tXjm6whBEIxO1nu7MnjF) | [Donovan Lakeberg](https://open.spotify.com/artist/6jqNvAr2VhCaV556fIT3b8) | [Your Song](https://open.spotify.com/album/0NHPFvpivFh9SuN0dGdRx1) | 2:44 | 2022-01-21 | 2022-10-01 |
 | [Your Song](https://open.spotify.com/track/7nisGzYA4XRF38mfLh2cPc) | [Sofia Moore](https://open.spotify.com/artist/5JHf3A6nMsGyxSubFrHFpt) | [Your Song](https://open.spotify.com/album/43k1W0BRcw83kPZiCW18SC) | 2:14 | 2022-09-30 |  |

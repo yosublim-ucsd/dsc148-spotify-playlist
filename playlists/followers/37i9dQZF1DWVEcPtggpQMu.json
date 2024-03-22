@@ -1,5 +1,5 @@
 {
-  "2024-03-21": 76486,
+  "2024-03-22": 76521,
   "date_first_scraped": "2021-12-29",
   "description": "Only the hottest South African rap from the streets. \nCover:  <a href=\"https://open.spotify.com/artist/0x52tpXiSmKKuKkpc0h3Lz?si=m9HwT-pqQo-Im1kOROhQPA\">Shooterkhumz</a>",
   "name": "Mzansi Raps",
@@ -1835,6 +1835,24 @@
     {
       "album": {
         "name": "PEOPLE FORGET TO BE PEOPLE (Deluxe)",
+        "url": "https://open.spotify.com/album/4K9spjQTxWVx1W4RYooYlb"
+      },
+      "artists": [
+        {
+          "name": "Wordz",
+          "url": "https://open.spotify.com/artist/7IPFplrxamAhezF49BeCsQ"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 109714,
+      "name": "BIRDZ",
+      "url": "https://open.spotify.com/track/2mQrO5e0h3MFFNAGmLCWN9"
+    },
+    {
+      "album": {
+        "name": "PEOPLE FORGET TO BE PEOPLE (Deluxe)",
         "url": "https://open.spotify.com/album/4ThKlVCBUqAFU2ojb5VdH0"
       },
       "artists": [
@@ -1849,7 +1867,7 @@
       ],
       "date_added": "2023-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-21",
       "duration_ms": 109714,
       "name": "BIRDZ",
       "url": "https://open.spotify.com/track/3L8Sl6hGnFzVhXJ1KWrZR2"
@@ -2781,6 +2799,28 @@
     {
       "album": {
         "name": "Coffee Shop In Rosebank",
+        "url": "https://open.spotify.com/album/4CHbrLMLxRcy3jxYdewJae"
+      },
+      "artists": [
+        {
+          "name": "G-TECH 2bit",
+          "url": "https://open.spotify.com/artist/7eLNbVknbYJ1S9GHpjR2T0"
+        },
+        {
+          "name": "Loatinover Pounds",
+          "url": "https://open.spotify.com/artist/5umZ6PgOsDmgJQFcYmAiNS"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214796,
+      "name": "Coffee Shop In Rosebank",
+      "url": "https://open.spotify.com/track/44K6s1EPjRyzOwKq30hLzC"
+    },
+    {
+      "album": {
+        "name": "Coffee Shop In Rosebank",
         "url": "https://open.spotify.com/album/2LkNOkuCF8gr1rlxiFmWln"
       },
       "artists": [
@@ -2795,7 +2835,7 @@
       ],
       "date_added": "2023-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-21",
       "duration_ms": 214796,
       "name": "Coffee Shop In Rosebank",
       "url": "https://open.spotify.com/track/6Pu3lyI7V6Npt8wNshCYnO"
@@ -7249,10 +7289,44 @@
       ],
       "date_added": "2023-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-21",
       "duration_ms": 252435,
       "name": "Lick Back (Uh Huh Uh Huh)",
       "url": "https://open.spotify.com/track/3HZ6ViRqdNvm5crhn16h8C"
+    },
+    {
+      "album": {
+        "name": "Lick Back (Uh Huh Uh Huh) [feat. Wordz, Flow Jones Jr., 25K, Maglera Doe Boy]",
+        "url": "https://open.spotify.com/album/0aFaImIwsqJruNwH5AgPxC"
+      },
+      "artists": [
+        {
+          "name": "MashBeatz",
+          "url": "https://open.spotify.com/artist/4NJo7JbXHgcLiitBFtWras"
+        },
+        {
+          "name": "25K",
+          "url": "https://open.spotify.com/artist/2mIr9ReJuFyuWJvSQ2nWM9"
+        },
+        {
+          "name": "Flow Jones Jr.",
+          "url": "https://open.spotify.com/artist/16lC2NTx9Dj12PsgOzraQa"
+        },
+        {
+          "name": "Maglera Doe Boy",
+          "url": "https://open.spotify.com/artist/1UXX0jyiEJK15VdkmzYD9L"
+        },
+        {
+          "name": "Wordz",
+          "url": "https://open.spotify.com/artist/7IPFplrxamAhezF49BeCsQ"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252435,
+      "name": "Lick Back (Uh Huh Uh Huh) [feat. Wordz, Flow Jones Jr., 25K, Maglera Doe Boy]",
+      "url": "https://open.spotify.com/track/3HxVTegEK7POrN3sFzSYX5"
     },
     {
       "album": {
@@ -11435,10 +11509,28 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-21",
       "duration_ms": 157674,
       "name": "Shisha",
       "url": "https://open.spotify.com/track/1pARdNL0rnflCKtrTtCmD0"
+    },
+    {
+      "album": {
+        "name": "Makwande",
+        "url": "https://open.spotify.com/album/6rPBHlbzAZkdaOE8FjiR4l"
+      },
+      "artists": [
+        {
+          "name": "Makwa",
+          "url": "https://open.spotify.com/artist/6aXzYhXfiqzlcdyFBxfw59"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157674,
+      "name": "Shisha",
+      "url": "https://open.spotify.com/track/4C3rbsYyFI6AQJAZXlf1zl"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > ¡Dale buena onda cálida y frutal a tu día!
 
-500 songs - 1 day 6 hr 0 min
+501 songs - 1 day 6 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -394,7 +394,7 @@
 | [Quema](https://open.spotify.com/track/6A6cCw7LCB5ob9LRsQwc7I) | [Sotomayor](https://open.spotify.com/artist/13UO3EqZHeNkeDQKjUS8oH) | [Orígenes](https://open.spotify.com/album/3OjVcHtegHO8FE3DUkTmTX) | 3:26 | 2021-10-20 |  |
 | [Quema](https://open.spotify.com/track/6ikqpsmK1si8HemHsocssD) | [Sotomayor](https://open.spotify.com/artist/13UO3EqZHeNkeDQKjUS8oH) | [Quema](https://open.spotify.com/album/7vRod7kWz3RwGmSyMnob3b) | 3:26 | 2021-10-20 | 2022-07-27 |
 | [Quemando caña](https://open.spotify.com/track/7n3KPphtrM2l6FCR3Xe3Sm) | [Juan Perro](https://open.spotify.com/artist/6r3JyEDH6cQyEhcUfTshpt) | [Libertad](https://open.spotify.com/album/5T71fozES6Xtal2TJAVvRM) | 3:22 | 2022-03-30 | 2022-06-08 |
-| [Quiero Saber Quién Es Tu Novi@](https://open.spotify.com/track/3rFT4nxLLLpABC29tvk6vO) | [Kanaku y El Tigre](https://open.spotify.com/artist/27GzlZraldlAG0k7oBqmUS), [Kevin Johansen](https://open.spotify.com/artist/7qjoG7bwhAjSd7nJTcjgAk), [wiranda johansen](https://open.spotify.com/artist/6OqKESKxY3ltCGxUnWBrAX) | [¿Si Le Doy Zoom, Puedo Ver África?](https://open.spotify.com/album/6L2odQpZmWgUVCWNTd03ox) | 2:40 | 2021-10-20 |  |
+| [Quiero Saber Quién Es Tu Novi@](https://open.spotify.com/track/3rFT4nxLLLpABC29tvk6vO) | [Kanaku y El Tigre](https://open.spotify.com/artist/27GzlZraldlAG0k7oBqmUS), [Kevin Johansen](https://open.spotify.com/artist/7qjoG7bwhAjSd7nJTcjgAk), [wiranda johansen](https://open.spotify.com/artist/6OqKESKxY3ltCGxUnWBrAX) | [¿Si Le Doy Zoom, Puedo Ver África?](https://open.spotify.com/album/6L2odQpZmWgUVCWNTd03ox) | 2:40 | 2021-10-20 | 2024-03-22 |
 | [Quisiera](https://open.spotify.com/track/6XmZbqvYC0jmSjBkg4hKmg) | [Flor de Toloache](https://open.spotify.com/artist/1eEJbNVFQTDmQETQpLMoWD), [Cultura Profética](https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi), [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t), [Errol Brown](https://open.spotify.com/artist/4yGRwj2smSwJS1BUtbc9y6) | [Quisiera](https://open.spotify.com/album/5nldXXq03y5HX62UOMja1c) | 3:53 | 2021-10-20 | 2022-07-29 |
 | [Quisiera](https://open.spotify.com/track/3E0LxDw9oYZbuTBWRcwBxc) | [Flor de Toloache](https://open.spotify.com/artist/1eEJbNVFQTDmQETQpLMoWD), [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [Indestructible](https://open.spotify.com/album/4FM09FXKNGwUs0owftN2xy) | 3:53 | 2021-10-20 | 2022-06-13 |
 | [Quisiera](https://open.spotify.com/track/7v0WvqGq7auy99Nydgc6YJ) | [Flor de Toloache](https://open.spotify.com/artist/1eEJbNVFQTDmQETQpLMoWD), [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t), [Cultura Profética](https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi) | [Quisiera](https://open.spotify.com/album/1hxhKktk2u9gTPms7c8fv9) | 3:53 | 2021-10-20 |  |
@@ -477,6 +477,7 @@
 | [Viaje Tropical \(El lado B\)](https://open.spotify.com/track/06LBTNrKI8Vb0jzsDewDQC) | [Sofia Macchi](https://open.spotify.com/artist/4gtaTXIhBK1iyVUAkB2YZu) | [El lado B](https://open.spotify.com/album/15SOVikLFZCf5BdsOadPVC) | 3:24 | 2022-04-23 | 2022-07-18 |
 | [Viaje Tropical \- Live](https://open.spotify.com/track/2ULleM0ihp3dVsEAzOr7vH) | [Marissa Mur](https://open.spotify.com/artist/5kt4v3JNtP8svtTI8PDFOT), [Sofia Macchi](https://open.spotify.com/artist/5v3oBUbrK6qKgJEw31Azwk) | [Viaje Tropical \(Live\)](https://open.spotify.com/album/48ZhC5eE3reDVXbmAa62hm) | 3:35 | 2021-10-20 | 2022-04-15 |
 | [Vibra](https://open.spotify.com/track/4v5V92B2AHjaoJ2DnY6M8j) | [BuenRostro](https://open.spotify.com/artist/2aFFKR6cGWux6f8G5RafHm) | [Vibra](https://open.spotify.com/album/6x0BGz3cZQ68FMbMtHScOJ) | 3:18 | 2021-10-20 | 2022-04-21 |
+| [Vitamina D](https://open.spotify.com/track/2XZO0xoygaWnFfpILzaH5X) | [Caloncho](https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA) | [Tofu](https://open.spotify.com/album/7kLvURv846Zx0ehgCXyyVt) | 2:47 | 2024-03-21 |  |
 | [Vivir Contigo](https://open.spotify.com/track/0XB66yNWY2LGLZrurpSkLG) | [Luz Pinos](https://open.spotify.com/artist/23D2NCgVNbve7gXb2AjOFM) | [Vivir Contigo](https://open.spotify.com/album/1QGGfBqYnDq2uwlVMDHLjs) | 4:24 | 2022-03-09 | 2022-07-28 |
 | [Voy al Mar](https://open.spotify.com/track/7hbTfsMaPKPZp3uzmDusRG) | [Espanglish](https://open.spotify.com/artist/5wnMB6o7El35W7BNYxKeb1) | [Voy al Mar](https://open.spotify.com/album/6JL75TkpdsrLrEeAyiBfrN) | 4:18 | 2021-10-20 | 2022-07-10 |
 | [Vuela](https://open.spotify.com/track/2B8eaRTMNGVXOgsntN5RM5) | [Tua Tribu](https://open.spotify.com/artist/4Bb6PwEQiPZ5WcQ9pOs3da) | [Vuela](https://open.spotify.com/album/1dJXp9k52gZdYg0489rlzF) | 3:52 | 2021-10-20 | 2022-04-21 |

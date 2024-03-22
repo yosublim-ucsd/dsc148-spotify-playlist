@@ -4,7 +4,7 @@
 
 > chill piano melodies and cozy lofi beats
 
-112 songs - 4 hr 16 min
+113 songs - 4 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -113,6 +113,7 @@
 | [Water Drops](https://open.spotify.com/track/2SlOQLMG68rQ9MfDZDxI94) | [LILCHI](https://open.spotify.com/artist/55rKNBzTkThc5PPCc1kbRn) | [Water Drops](https://open.spotify.com/album/4WZIENbUSpyPbFPd1TjnJK) | 2:26 | 2023-09-22 |  |
 | [We'll Always Have the Café](https://open.spotify.com/track/3rIWvpCtN0oNKfYqkMtSLb) | [Miso Colt](https://open.spotify.com/artist/0bsWKSbs38UWgIjPBaz5x4) | [We'll Always Have the Café](https://open.spotify.com/album/1aAqH1OBhvX5SPsLyst6wX) | 2:59 | 2023-09-22 |  |
 | [Weather Baloon](https://open.spotify.com/track/3dsAdpPpUBcrhyS1y933o1) | [Sakloma24](https://open.spotify.com/artist/6PkzYxQ7Bae6IJyyhkPhmf) | [Weather Baloon](https://open.spotify.com/album/2MTInJUFRb99PariU5xr1A) | 2:08 | 2023-09-22 |  |
+| [Western Promises](https://open.spotify.com/track/3X6akQdLtqrMkGJntH7AhD) | [Low Couture](https://open.spotify.com/artist/13mNwKx9Xb7I4qurCOJfXq) | [Western Promises](https://open.spotify.com/album/2Ag8bFCPDnHwv5Yvix1ptV) | 2:10 | 2024-03-22 |  |
 | [Where Are We Now](https://open.spotify.com/track/6WwHolqdxR10p5dYb1iIm5) | [pepperonibeats](https://open.spotify.com/artist/6umzt0RZKFvgGpph8tRqDT) | [Where Are We Now](https://open.spotify.com/album/0oBZoGWLYe5pFrJ3CixRaS) | 2:29 | 2023-09-22 |  |
 | [Winter Sky](https://open.spotify.com/track/1PSxNwx1wYs9oJE2RtaT6n) | [Ensidya](https://open.spotify.com/artist/2lenoWzSFNMSFJU05uqIrj) | [Winter Sky](https://open.spotify.com/album/6lvb9vzSfiVVSdz0gOnshG) | 2:41 | 2023-09-22 |  |
 | [Winter Solstice](https://open.spotify.com/track/6dnOCNlEik1hUF9oHplXnI) | [Felt Galaxy](https://open.spotify.com/artist/5HnchaG3UJ2pZ5j5DnN1ot) | [Winter Solstice](https://open.spotify.com/album/7GqbrpYqLVvDfUwGipPKN7) | 2:15 | 2023-09-22 |  |

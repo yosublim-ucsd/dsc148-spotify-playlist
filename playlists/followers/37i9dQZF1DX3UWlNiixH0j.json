@@ -1,5 +1,5 @@
 {
-  "2024-03-21": 56977,
+  "2024-03-22": 56992,
   "date_first_scraped": "2023-01-14",
   "description": "\u65e5\u672c\u306e\u30a4\u30f3\u30c7\u30a3\u30fc\u30fb\u30b5\u30a6\u30f3\u30c9\u3092\u7279\u96c6\u3002The freshest indie sounds from Japan. cover: VivaOla",
   "name": "Edge!",
@@ -3703,7 +3703,7 @@
     {
       "album": {
         "name": "Don't Look Back",
-        "url": "https://open.spotify.com/album/2Ey91uim6F08nI1TKrHJFS"
+        "url": "https://open.spotify.com/album/6U0uvb15O8jiaEiJTnijGJ"
       },
       "artists": [
         {
@@ -3734,6 +3734,44 @@
       "date_added": "2024-03-19",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 185370,
+      "name": "Don't Look Back",
+      "url": "https://open.spotify.com/track/1W6FrZS2Nr4nc2tJSr6OPm"
+    },
+    {
+      "album": {
+        "name": "Don't Look Back",
+        "url": "https://open.spotify.com/album/2Ey91uim6F08nI1TKrHJFS"
+      },
+      "artists": [
+        {
+          "name": "SASAKRECT",
+          "url": "https://open.spotify.com/artist/2DcBqvgOlMtC3K4uGQZ9v8"
+        },
+        {
+          "name": "4s4ki",
+          "url": "https://open.spotify.com/artist/5yCWuaBlu42BKsnW89brND"
+        },
+        {
+          "name": "maeshima soshi",
+          "url": "https://open.spotify.com/artist/4O49GHbECmNppFvzK0WZXf"
+        },
+        {
+          "name": "RhymeTube",
+          "url": "https://open.spotify.com/artist/31iJDnqpS43YIG18nTFx14"
+        },
+        {
+          "name": "OHTORA",
+          "url": "https://open.spotify.com/artist/16W2CFdMJKvN99ZWwoEB0k"
+        },
+        {
+          "name": "Hanagata",
+          "url": "https://open.spotify.com/artist/12TrT3DcsxGAxARKh3vfxP"
+        }
+      ],
+      "date_added": "2024-03-19",
+      "date_added_asterisk": false,
+      "date_removed": "2024-03-21",
       "duration_ms": 185370,
       "name": "Don't Look Back",
       "url": "https://open.spotify.com/track/2z7N0m2M4bU012gFf92ccj"
@@ -9713,7 +9751,7 @@
       ],
       "date_added": "2024-02-27",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-01",
+      "date_removed": null,
       "duration_ms": 208000,
       "name": "Moment of Truth",
       "url": "https://open.spotify.com/track/7AvOYkRvqIKHEJzP2BFLJs"
@@ -13643,7 +13681,7 @@
       ],
       "date_added": "2024-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-21",
       "duration_ms": 208750,
       "name": "Smile",
       "url": "https://open.spotify.com/track/1Td0MRk0Udpx3tcgkr3a0x"
@@ -16049,10 +16087,28 @@
       ],
       "date_added": "2024-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-21",
       "duration_ms": 152888,
       "name": "TOO LATE",
       "url": "https://open.spotify.com/track/4YVirjfcLuw9A56Tle2uHt"
+    },
+    {
+      "album": {
+        "name": "APORIE VIVANT",
+        "url": "https://open.spotify.com/album/0gtvEjBBN5QTvB3lkyruNI"
+      },
+      "artists": [
+        {
+          "name": "VivaOla",
+          "url": "https://open.spotify.com/artist/5t8n1FYliYmJ4tqtITVbF9"
+        }
+      ],
+      "date_added": "2024-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152888,
+      "name": "TOO LATE",
+      "url": "https://open.spotify.com/track/4Zs8jWeCujpyHVYdYMSTty"
     },
     {
       "album": {
@@ -16905,7 +16961,7 @@
     {
       "album": {
         "name": "Water Carrier",
-        "url": "https://open.spotify.com/album/0LkdcehFEz0i0RALwIp9V7"
+        "url": "https://open.spotify.com/album/3sNzrdLqdVxbPmHAu9Iuav"
       },
       "artists": [
         {
@@ -16916,6 +16972,24 @@
       "date_added": "2024-03-19",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 242470,
+      "name": "Water Carrier",
+      "url": "https://open.spotify.com/track/4l8jSXhZ3apqimhbzhiabB"
+    },
+    {
+      "album": {
+        "name": "Water Carrier",
+        "url": "https://open.spotify.com/album/0LkdcehFEz0i0RALwIp9V7"
+      },
+      "artists": [
+        {
+          "name": "Kroi",
+          "url": "https://open.spotify.com/artist/4S8J8Nct8lHsbzAeNJXcJa"
+        }
+      ],
+      "date_added": "2024-03-19",
+      "date_added_asterisk": false,
+      "date_removed": "2024-03-21",
       "duration_ms": 242470,
       "name": "Water Carrier",
       "url": "https://open.spotify.com/track/675sPQdIf74UzpPrPR4tLZ"
@@ -19107,7 +19181,7 @@
       ],
       "date_added": "2024-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-21",
       "duration_ms": 157623,
       "name": "\u306d\u3080\u308c\u3088\u3001\u306d\u3080\u308c",
       "url": "https://open.spotify.com/track/3RBUmq6QZ4Zq9pdLFgz36M"
@@ -23319,7 +23393,7 @@
       ],
       "date_added": "2024-01-16",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-13",
+      "date_removed": null,
       "duration_ms": 242432,
       "name": "\u5b63\u7bc0\u306e\u97f3",
       "url": "https://open.spotify.com/track/6tYb3UcartboOJaq2PZhE5"

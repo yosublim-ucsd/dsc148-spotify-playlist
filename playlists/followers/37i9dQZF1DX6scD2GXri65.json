@@ -1,5 +1,5 @@
 {
-  "2024-03-21": 54692,
+  "2024-03-22": 54769,
   "date_first_scraped": "2022-12-10",
   "description": "Go hard or go home",
   "name": "Hardstyle Gym \ud83d\udcaa",
@@ -875,6 +875,24 @@
       "duration_ms": 206437,
       "name": "DOWN DOWN",
       "url": "https://open.spotify.com/track/6H4mOpaopoXbLkf12GEhe4"
+    },
+    {
+      "album": {
+        "name": "Reversed Reality",
+        "url": "https://open.spotify.com/album/0Z3bA9sTXrgmIOIeGIj4kT"
+      },
+      "artists": [
+        {
+          "name": "Level One",
+          "url": "https://open.spotify.com/artist/5gfLje7A2I9mMRVfuiphnh"
+        }
+      ],
+      "date_added": "2024-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135750,
+      "name": "Dreams Come True",
+      "url": "https://open.spotify.com/track/1SjbnK5RCnEpKoMhXsXa52"
     },
     {
       "album": {
@@ -1975,7 +1993,7 @@
       ],
       "date_added": "2022-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-21",
       "duration_ms": 218322,
       "name": "Landmines",
       "url": "https://open.spotify.com/track/6Bq1Elt1IMGTgjTp0wj9pU"
@@ -2213,7 +2231,7 @@
       ],
       "date_added": "2023-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-21",
       "duration_ms": 171096,
       "name": "Love, Bass & Happiness",
       "url": "https://open.spotify.com/track/3bWtc9Fx7y4FRSCalxozJ4"
@@ -2757,6 +2775,24 @@
       "duration_ms": 189319,
       "name": "Realign",
       "url": "https://open.spotify.com/track/50lXm6nruD49kKZlvxpZGc"
+    },
+    {
+      "album": {
+        "name": "Remedy",
+        "url": "https://open.spotify.com/album/6dcUeAanVoMTEQYT5C8EvB"
+      },
+      "artists": [
+        {
+          "name": "DJ Gollum",
+          "url": "https://open.spotify.com/artist/1wNmJCRRNn8WpJrRSTKKqT"
+        }
+      ],
+      "date_added": "2024-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188914,
+      "name": "Remedy",
+      "url": "https://open.spotify.com/track/4IMmJyNPll5HorW8Ip2HCS"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXN0bYSgIbPk.md) - [plain]
 
 > <a href="spotify:artist:68McnNC9twEtiynOAJRRgZ">Uncle Waffles</a>' favorite tracks\. Updated regularly\. Curated by Uncle Waffles\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,116 likes - 50 songs - 5 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,246 likes - 50 songs - 5 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXN0bYSgIbPk.md) - [plain]
 | 16 | [Back2School \(feat\. Thabza Tee & LastBorn Diroba\)](https://open.spotify.com/track/5ZurnORiHUnk92O7a0OTGH) | [Mellow & Sleazy](https://open.spotify.com/artist/5MJ5f1XKD9yu7aWfG8OGjz), [DBN Gogo](https://open.spotify.com/artist/3Oa0mJQWQrUOqJ8fcLuu7l), [Thabza Tee](https://open.spotify.com/artist/5JyEgson2YVsJT0fNGroWn), [LastbornDiroba](https://open.spotify.com/artist/69bAy03h3A10xDSsb8xj3G) | [Back2School \(feat\. Thabza Tee & LastBorn Diroba\)](https://open.spotify.com/album/2TEH9idNRzwSm9o3XPFVYO) | 7:17 |
 | 17 | [Nkulunkulu](https://open.spotify.com/track/3NvHyOT5LrvOgFGckzIo9X) | [Kamo Mphela](https://open.spotify.com/artist/788jOE9HMUy9heDK8EIkon) | [Nkulunkulu](https://open.spotify.com/album/1W9s8x73UHLopdAJBeJiOu) | 6:21 |
 | 18 | [Hamba Juba](https://open.spotify.com/track/4k5FlWz3dfhyQzmRpVPZsW) | [Lady Amar](https://open.spotify.com/artist/63BHCKXCt00q20fd45W4Pk), [JL SA](https://open.spotify.com/artist/1HhlP6BPW4L4zcggfOZstL), [Cici](https://open.spotify.com/artist/3i9UjIGeZT2cRyltQrr8nj), [Murumba Pitch](https://open.spotify.com/artist/3cd7plsjSmDdQ0oHESYHC4) | [Hamba Juba](https://open.spotify.com/album/4FnwIltkf5tGWFXJCcECaz) | 8:00 |
-| 19 | [JAGERMEISTER](https://open.spotify.com/track/3VBwoaePYGdOmG1YHgGOHi) | [Ice Beats Slide](https://open.spotify.com/artist/6ynMrlCLJfmijr0XFdtvH5), [Sbuda Maleather](https://open.spotify.com/artist/0vOrz3mJAqpGuC53lbEOeq), [2woBunnies](https://open.spotify.com/artist/45c90J0Hvj1PMIFtm0b1ML) | [JAGERMEISTER](https://open.spotify.com/album/5Tk2uNjYtHL9V0uEhSQAYx) | 5:27 |
+| 19 | [JAGERMEISTER \(feat\. 2woBunnies\)](https://open.spotify.com/track/3S9FC9B3GExBXy2eIFq1tT) | [Ice Beats Slide](https://open.spotify.com/artist/6ynMrlCLJfmijr0XFdtvH5), [Sbuda Maleather](https://open.spotify.com/artist/0vOrz3mJAqpGuC53lbEOeq), [2woBunnies](https://open.spotify.com/artist/45c90J0Hvj1PMIFtm0b1ML) | [Hakuna Matata](https://open.spotify.com/album/1gD8BWuBeT5Wf5QOBN3g5L) | 5:27 |
 | 20 | [Mmapula](https://open.spotify.com/track/22sG77yM0PrgIpbVKZ40yY) | [Busta 929](https://open.spotify.com/artist/2TcrjcSngRPpgZxmIlPdym), [Mzu M](https://open.spotify.com/artist/1JNnRL51LIgP1SNzCsQFGM) | [Undisputed, Vol\. 2](https://open.spotify.com/album/5BAVTtz6uDhRUjr9Kf0x3n) | 6:18 |
 | 21 | [Khushu Khusu](https://open.spotify.com/track/7EOUV12XFZgVXMom4oRzjE) | [MDU aka TRP](https://open.spotify.com/artist/6chuSYrZG5i9GbSW5DdNWR), [Kabza De Small](https://open.spotify.com/artist/1bNjWBFWsAAzZSR59lRdpR) | [Pretty Girls Love Amapiano 3](https://open.spotify.com/album/146q0y486NGHs9Nu6wjl9A) | 7:00 |
 | 22 | [Final Touch](https://open.spotify.com/track/4UYFFeZLix0hRXFBZkvxPt) | [JazziDisciples](https://open.spotify.com/artist/0Mu3PMBPwtQh5iggGTmudK), [Mporoza](https://open.spotify.com/artist/3yePquwtbL7SJW0BK7pYZF), [Thlopzin](https://open.spotify.com/artist/7iopFnopevgu2XIIYw42Yb) | [Disciples Of Piano](https://open.spotify.com/album/4AFw5MGbhew6iPYzvWqpIb) | 7:57 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXN0bYSgIbPk.md) - [plain]
 | 49 | [To Last](https://open.spotify.com/track/10aCY2jJFNYGf9qpiN2LZy) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [To Last](https://open.spotify.com/album/00RMnS3psKLla6O7sYp8mB) | 2:56 |
 | 50 | [Iy’ntsimbi zase envy \- Vol.2 Kwaaito Edition](https://open.spotify.com/track/7prBXsKsF494LBElVDGmSb) | [Reece Madlisa](https://open.spotify.com/artist/6ucYQLJMMVyN1nO4GebaV2), [Zuma](https://open.spotify.com/artist/7ewc3ni3IAtqLygEnDi66K), [Busta 929](https://open.spotify.com/artist/2TcrjcSngRPpgZxmIlPdym), [Beast Rsa](https://open.spotify.com/artist/5jSbjWfYWUZpecgalIOldH), [Dladla Mshunqisi](https://open.spotify.com/artist/5M9mFjVaPT2T1HFYFFSoCt) | [Iy’ntsimbi zase envy \(Vol.2 Kwaaito Edition\)](https://open.spotify.com/album/44xgWfSQ1RVzt04tkGRF2W) | 6:14 |
 
-Snapshot ID: `MCwxNzFkMDg4YzUxYTA5NGM5MDA5ODhiOTk0YTFmN2M5ZGI1OTUwMjZi`
+Snapshot ID: `MCw2NDBkNjRhMGNjNmYxNmY2NzVkZTI4MTllM2NhNGQ2ZGViNWRlYjhj`

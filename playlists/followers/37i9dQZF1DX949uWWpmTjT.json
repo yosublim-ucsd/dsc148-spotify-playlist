@@ -1,5 +1,5 @@
 {
-  "2024-03-21": 146309,
+  "2024-03-22": 146416,
   "date_first_scraped": "2022-01-26",
   "description": "A soft and slow soundtrack to play in the background to all your activities.",
   "name": "Soft Jazz",
@@ -1945,7 +1945,7 @@
       ],
       "date_added": "2023-02-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-19",
+      "date_removed": null,
       "duration_ms": 294954,
       "name": "Blue Light",
       "url": "https://open.spotify.com/track/1S1NTdOasN7FQBPS5FSDHa"
@@ -3325,7 +3325,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-21",
       "duration_ms": 338008,
       "name": "Dark Turn of Mind",
       "url": "https://open.spotify.com/track/20877fmWnjvhKkkLUpLlJ3"

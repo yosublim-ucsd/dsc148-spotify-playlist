@@ -1,13 +1,133 @@
 {
-  "description": "The best drill, trap and genre bending rap from Australia and NZ. Cover: Sexton",
-  "num_followers": 138900,
+  "description": "The best drill, trap and genre bending rap from Australia and NZ. Cover: DSP",
+  "num_followers": 138901,
   "original_name": "Local Hype",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4MTY2MzFiZDI3MmU3MWU4MzgyZjdiZmNjZDAzNGYyYjcwOTM3YWFh",
+  "snapshot_id": "MCwzYTAwMzI5OTk0NTMxMDExMWIxMjM0YWZhNWQ3NDgxNGNjZmFlNTZk",
   "tracks": [
+    {
+      "added_at": "2024-03-21 13:00:00",
+      "album": {
+        "name": "SAINTS.",
+        "url": "https://open.spotify.com/album/1wJNIJtUnKeuKGpFbhJT1o"
+      },
+      "artists": [
+        {
+          "name": "Trip",
+          "url": "https://open.spotify.com/artist/0hbVJum7eC65vjCpq5qw8j"
+        },
+        {
+          "name": "Yawdoesitall",
+          "url": "https://open.spotify.com/artist/3TtvX6o3U5yzsEIAw0Ls1P"
+        },
+        {
+          "name": "Rick Ross",
+          "url": "https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a"
+        }
+      ],
+      "duration_ms": 201000,
+      "name": "SAINTS.",
+      "url": "https://open.spotify.com/track/5KINxCiI2Uqy4gWAyjGOyb"
+    },
+    {
+      "added_at": "2024-03-21 13:00:00",
+      "album": {
+        "name": "Next Up Australia - S1-E11",
+        "url": "https://open.spotify.com/album/1ppk8v1IHfi3CZg3ZDPTWn"
+      },
+      "artists": [
+        {
+          "name": "DSP",
+          "url": "https://open.spotify.com/artist/17GAXOUu9d8YXnuwVeGphZ"
+        },
+        {
+          "name": "Mixtape Madness",
+          "url": "https://open.spotify.com/artist/4ocdD0Bi1syVqLs1GiHqQ9"
+        }
+      ],
+      "duration_ms": 170000,
+      "name": "Next Up Australia - S1-E11",
+      "url": "https://open.spotify.com/track/3n1Im8So7I41RGnj2g7UHA"
+    },
+    {
+      "added_at": "2024-03-21 13:00:00",
+      "album": {
+        "name": "CHAMPIONSH*T",
+        "url": "https://open.spotify.com/album/5G9MfsgH8AEmBHCXtxXiK1"
+      },
+      "artists": [
+        {
+          "name": "B Wise",
+          "url": "https://open.spotify.com/artist/0NgUGQAd79J00Nf7o2tgkg"
+        }
+      ],
+      "duration_ms": 214723,
+      "name": "CHAMPIONSH*T",
+      "url": "https://open.spotify.com/track/66Po89QR7n52bkS1l5y0qc"
+    },
+    {
+      "added_at": "2024-03-21 13:00:00",
+      "album": {
+        "name": "Midnight Flex",
+        "url": "https://open.spotify.com/album/6lKH1EcnQiGje529wOJOs3"
+      },
+      "artists": [
+        {
+          "name": "DHEM",
+          "url": "https://open.spotify.com/artist/7IBJMFXUXm17K33eaYxxnK"
+        },
+        {
+          "name": "TBG",
+          "url": "https://open.spotify.com/artist/2ms7zUvy3rQyctemMkWrdZ"
+        },
+        {
+          "name": "Benny the Greek",
+          "url": "https://open.spotify.com/artist/4pxPebMzRgjtE7jYT9C1Xr"
+        }
+      ],
+      "duration_ms": 193846,
+      "name": "Midnight Flex",
+      "url": "https://open.spotify.com/track/4fqtief1hnDKzEGg57HcG6"
+    },
+    {
+      "added_at": "2024-03-21 13:00:00",
+      "album": {
+        "name": "Drills",
+        "url": "https://open.spotify.com/album/3PlQQujK43v3a5kgqwVMcz"
+      },
+      "artists": [
+        {
+          "name": "21 District",
+          "url": "https://open.spotify.com/artist/3IEOQjCTM1WHX7NopGRW7R"
+        }
+      ],
+      "duration_ms": 218429,
+      "name": "Drills",
+      "url": "https://open.spotify.com/track/0wFPH5ExVGll8hvpFvaau5"
+    },
+    {
+      "added_at": "2024-03-21 13:00:00",
+      "album": {
+        "name": "G SLIDE",
+        "url": "https://open.spotify.com/album/76ziLrPkBassRJzG9UM9kL"
+      },
+      "artists": [
+        {
+          "name": "Lukan Raisey",
+          "url": "https://open.spotify.com/artist/0bwxbNKufvEMi1wcb5dkMR"
+        },
+        {
+          "name": "NES",
+          "url": "https://open.spotify.com/artist/22WlrYL0HlsvlWjdTaBlwx"
+        }
+      ],
+      "duration_ms": 149333,
+      "name": "G SLIDE",
+      "url": "https://open.spotify.com/track/4dLNJOoQiAmIHdqo0z7Vrj"
+    },
     {
       "added_at": "2024-03-14 20:47:54",
       "album": {
@@ -163,6 +283,30 @@
       "duration_ms": 179226,
       "name": "LAVISH",
       "url": "https://open.spotify.com/track/17G61CQEKui4i7Os6W6xAH"
+    },
+    {
+      "added_at": "2024-03-21 13:00:00",
+      "album": {
+        "name": "Both My Hands",
+        "url": "https://open.spotify.com/album/7JgVfS6XzYlZXStSG6u8g9"
+      },
+      "artists": [
+        {
+          "name": "MAMMOTH.",
+          "url": "https://open.spotify.com/artist/7tdBqb3aekf8FbdIUKEMM1"
+        },
+        {
+          "name": "Eric Spice",
+          "url": "https://open.spotify.com/artist/6QESzAv0RlIn1sKeHkNTeE"
+        },
+        {
+          "name": "Nikodimos",
+          "url": "https://open.spotify.com/artist/3UR6EeXwoBQuXxKPxtEgLu"
+        }
+      ],
+      "duration_ms": 154868,
+      "name": "Both My Hands",
+      "url": "https://open.spotify.com/track/62B32ZHDCFDsueU5FW8YI4"
     },
     {
       "added_at": "2024-03-14 20:47:54",
@@ -1339,46 +1483,6 @@
       "duration_ms": 160662,
       "name": "Meet Me at the Bottom (ft. Open Till L8)",
       "url": "https://open.spotify.com/track/0jco6ujuz4TmpWZXdvT54R"
-    },
-    {
-      "added_at": "2024-03-14 20:47:54",
-      "album": {
-        "name": "Make Money Take Money",
-        "url": "https://open.spotify.com/album/6j1wEMMomneG373mhyztns"
-      },
-      "artists": [
-        {
-          "name": "KZ Da Bandit",
-          "url": "https://open.spotify.com/artist/0eKXP5WcNO3Fo6HUdVDd5P"
-        }
-      ],
-      "duration_ms": 186122,
-      "name": "Make Money Take Money",
-      "url": "https://open.spotify.com/track/6eqDigsr1Lv1Le1SaLxLr0"
-    },
-    {
-      "added_at": "2024-03-14 20:47:54",
-      "album": {
-        "name": "Let It Go",
-        "url": "https://open.spotify.com/album/3ZwhtVi5KQG8y7c079jrRQ"
-      },
-      "artists": [
-        {
-          "name": "Hp Boyz",
-          "url": "https://open.spotify.com/artist/0JlQaGJZfrqYeZG1AQICxp"
-        },
-        {
-          "name": "HP ONIT",
-          "url": "https://open.spotify.com/artist/3yclhvFQ2T4HgVpAjtckXG"
-        },
-        {
-          "name": "HP YJ",
-          "url": "https://open.spotify.com/artist/5marR6RSTdYzvnGsHiH5rc"
-        }
-      ],
-      "duration_ms": 163384,
-      "name": "Let It Go",
-      "url": "https://open.spotify.com/track/1tKII756LdsDLEjDKkwT7H"
     }
   ],
   "unique_name": "Local Hype",

@@ -1,12 +1,12 @@
 {
   "description": "Sit back and relax to our favorite local indie and R&B sounds.",
-  "num_followers": 583730,
+  "num_followers": 583784,
   "original_name": "Relax Tayo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0MTZiMjIyNTI2MjRhNjFkMzE5Yjk5MGUwNjQ5MWQzNTk5YzAxMmZk",
+  "snapshot_id": "MCw5Yjg4MDc3YmU4YmU0ZmQ0MDkzZTRiMzYxZmVkZTJhZDNiY2ZiZjk3",
   "tracks": [
     {
       "added_at": "2024-02-27 03:02:56",
@@ -495,22 +495,6 @@
     {
       "added_at": "2024-02-27 03:02:56",
       "album": {
-        "name": "o ninanais",
-        "url": "https://open.spotify.com/album/1X5tEgzP3ie9ViLe68LJNA"
-      },
-      "artists": [
-        {
-          "name": "Arthur Nery",
-          "url": "https://open.spotify.com/artist/7uDdl5V5AETSFY7K3muu22"
-        }
-      ],
-      "duration_ms": 252214,
-      "name": "o ninanais",
-      "url": "https://open.spotify.com/track/0wu1deoRFwktnfD6dTt9KE"
-    },
-    {
-      "added_at": "2024-02-27 03:02:56",
-      "album": {
         "name": "Byahe",
         "url": "https://open.spotify.com/album/6GkdhbqD0GxO1YMan6eK2b"
       },
@@ -527,6 +511,22 @@
       "duration_ms": 197192,
       "name": "Dati (feat. Skusta Clee)",
       "url": "https://open.spotify.com/track/7pa4kToAE3b6Gtk7fWrsLl"
+    },
+    {
+      "added_at": "2024-02-27 03:02:56",
+      "album": {
+        "name": "o ninanais",
+        "url": "https://open.spotify.com/album/1X5tEgzP3ie9ViLe68LJNA"
+      },
+      "artists": [
+        {
+          "name": "Arthur Nery",
+          "url": "https://open.spotify.com/artist/7uDdl5V5AETSFY7K3muu22"
+        }
+      ],
+      "duration_ms": 252214,
+      "name": "o ninanais",
+      "url": "https://open.spotify.com/track/0wu1deoRFwktnfD6dTt9KE"
     },
     {
       "added_at": "2024-02-27 03:02:56",
@@ -627,18 +627,22 @@
     {
       "added_at": "2024-02-27 03:02:56",
       "album": {
-        "name": "Oks Lang",
-        "url": "https://open.spotify.com/album/2DgTTNbbKwiPMUaAqeRmuf"
+        "name": "Mikasa",
+        "url": "https://open.spotify.com/album/4xhKTo8zhVUzDDwsNb9Cdq"
       },
       "artists": [
         {
-          "name": "John Roa",
-          "url": "https://open.spotify.com/artist/2U5mF0PZqGu6glnz55yY0y"
+          "name": "Arthur Nery",
+          "url": "https://open.spotify.com/artist/7uDdl5V5AETSFY7K3muu22"
+        },
+        {
+          "name": "Janine Berdin",
+          "url": "https://open.spotify.com/artist/4qPhnQfRgdgcZEdXgENOnr"
         }
       ],
-      "duration_ms": 336369,
-      "name": "Oks Lang",
-      "url": "https://open.spotify.com/track/3Hsjzl5kBbCAMaJxg1OTwK"
+      "duration_ms": 253333,
+      "name": "Mikasa",
+      "url": "https://open.spotify.com/track/12TuXwmfjap9XnPVtBHS8B"
     },
     {
       "added_at": "2024-02-27 03:02:56",
@@ -663,22 +667,18 @@
     {
       "added_at": "2024-02-27 03:02:56",
       "album": {
-        "name": "Mikasa",
-        "url": "https://open.spotify.com/album/4xhKTo8zhVUzDDwsNb9Cdq"
+        "name": "Oks Lang",
+        "url": "https://open.spotify.com/album/2DgTTNbbKwiPMUaAqeRmuf"
       },
       "artists": [
         {
-          "name": "Arthur Nery",
-          "url": "https://open.spotify.com/artist/7uDdl5V5AETSFY7K3muu22"
-        },
-        {
-          "name": "Janine Berdin",
-          "url": "https://open.spotify.com/artist/4qPhnQfRgdgcZEdXgENOnr"
+          "name": "John Roa",
+          "url": "https://open.spotify.com/artist/2U5mF0PZqGu6glnz55yY0y"
         }
       ],
-      "duration_ms": 253333,
-      "name": "Mikasa",
-      "url": "https://open.spotify.com/track/12TuXwmfjap9XnPVtBHS8B"
+      "duration_ms": 336369,
+      "name": "Oks Lang",
+      "url": "https://open.spotify.com/track/3Hsjzl5kBbCAMaJxg1OTwK"
     },
     {
       "added_at": "2024-02-27 03:02:56",

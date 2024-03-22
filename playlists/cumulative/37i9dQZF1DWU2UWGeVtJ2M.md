@@ -4,7 +4,7 @@
 
 > 試著拋開所有煩惱，配上一點特意的小確幸，這一刻只屬於你...
 
-310 songs - 17 hr 7 min
+311 songs - 17 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -63,6 +63,7 @@
 | [Chilly](https://open.spotify.com/track/6H3TW6uEe3RxW8CcnXJfq2) | [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [Chilly](https://open.spotify.com/album/5NmHTG1AIpZ9yjwzih2Kni) | 3:50 | 2022-07-25 | 2024-01-24 |
 | [Cinema](https://open.spotify.com/track/6ejBx2l9eJr5n1V7t0WpCC) | [Galdive](https://open.spotify.com/artist/0aMrhUHnOzfiPcMc2PGiaT) | [Cinema](https://open.spotify.com/album/0T57uRN9WnBm3J5V0qA4M9) | 2:59 | 2023-12-04 | 2024-01-05 |
 | [circle of feelings](https://open.spotify.com/track/0Zr57tyrXXfbnjejbNWwfg) | [g y l s](https://open.spotify.com/artist/5P9ZfGxqKllKQuq3xBfWSk) | [circle of feelings](https://open.spotify.com/album/3PvBRlnbO6mZSD4WwsV4c8) | 3:03 | 2022-06-06 | 2022-07-26 |
+| [Close To Me](https://open.spotify.com/track/4uqrNjosNZKTxtsEUpjkIm) | [brayll](https://open.spotify.com/artist/7F28ZyhZHLxLy2gfNM3Gt9) | [Close To Me](https://open.spotify.com/album/5OOea733uhyneBGd5UKDRS) | 3:29 | 2024-03-22 |  |
 | [Cloud](https://open.spotify.com/track/35kirOag3DTj2NZyvxfba5) | [Galdive](https://open.spotify.com/artist/0aMrhUHnOzfiPcMc2PGiaT) | [Cloud](https://open.spotify.com/album/2spfiRY5MvsWFa81ZRnhp2) | 3:52 | 2022-06-06 | 2022-07-29 |
 | [Cloud 9 \(feat\. Juan Periquet, Kakie & Cub Fuque\)](https://open.spotify.com/track/388eLgpqeex2oOj9DxKEYI) | [Luis Villanueva](https://open.spotify.com/artist/12Y3P0t9K2ShPGHHJbZduX), [Cub Fuque](https://open.spotify.com/artist/47Vr0uma5dXBQ0nkSmqCXU), [Juan Periquet](https://open.spotify.com/artist/6zuxhwzRvx4f0Yeryu207j), [kakie](https://open.spotify.com/artist/3rMkO05Kgt99HDp4P41cbk) | [VOL\. 1 \(feat\. Kakie & Cub Fuque\)](https://open.spotify.com/album/4G4Ey7HMOteTfkYqYvcQDM) | 5:41 | 2022-06-06 | 2022-07-29 |
 | [cloud9](https://open.spotify.com/track/2KO0sztUM1YycUiP5Ny8Dg) | [cliffe](https://open.spotify.com/artist/0RhZp1X2JrAwdy7z7NQIjy), [Odelia Rei](https://open.spotify.com/artist/7G7I02yeiNBx3WwKYWlpaA) | [cloud9](https://open.spotify.com/album/1ueZFUuqoyR9hzRxrgrgoK) | 3:09 | 2022-06-06 | 2022-07-29 |
@@ -190,7 +191,7 @@
 | [Medicate](https://open.spotify.com/track/3tDkSfjREVdnz1pXMUo2jK) | [Gavrielle](https://open.spotify.com/artist/3xgMsxKjHOB6X5cIwUJY0A) | [Medicate](https://open.spotify.com/album/0dMwwd01RnTLQkAll7gPBe) | 3:34 | 2022-06-06 | 2022-07-29 |
 | [Memory](https://open.spotify.com/track/3kRKuPvYLW6CP8RFxSx3gi) | [Gessie](https://open.spotify.com/artist/1PgSILQBVmWnIGkUlJlhsD), [Kaiyo](https://open.spotify.com/artist/6b8jf0tY9OjGS2zFcGex42) | [Memory](https://open.spotify.com/album/7hPipLUUHA4frzZT851vqr) | 2:44 | 2022-06-13 | 2022-06-18 |
 | [Mercury](https://open.spotify.com/track/2Bd0jr3pbK4UVGTH3M15kW) | [Maccentus](https://open.spotify.com/artist/1nKcjWzQ2BXIEhnHGlHoh2) | [Mercury](https://open.spotify.com/album/0zfp672mAy0bues669Tc4i) | 2:23 | 2022-06-06 | 2022-07-29 |
-| [Message in a bottle](https://open.spotify.com/track/4onEVnBCmCJhP0H0ctqPLG) | [Povi](https://open.spotify.com/artist/2So7IMAC8UNsbJ1qmOJD1B), [Elijah Fox](https://open.spotify.com/artist/4Rus30xX4FOv2cyeFI79Qh), [Kiefer](https://open.spotify.com/artist/5lDtfHPqWN6MG9tFywnW8J) | [Message in a bottle](https://open.spotify.com/album/62jK0rJBJN3bJNF1fSdYqC) | 2:54 | 2024-03-04 |  |
+| [Message in a bottle](https://open.spotify.com/track/4onEVnBCmCJhP0H0ctqPLG) | [Povi](https://open.spotify.com/artist/2So7IMAC8UNsbJ1qmOJD1B), [Elijah Fox](https://open.spotify.com/artist/4Rus30xX4FOv2cyeFI79Qh), [Kiefer](https://open.spotify.com/artist/5lDtfHPqWN6MG9tFywnW8J) | [Message in a bottle](https://open.spotify.com/album/62jK0rJBJN3bJNF1fSdYqC) | 2:54 | 2024-03-04 | 2024-03-22 |
 | [Mirror, Mirror on the Wall](https://open.spotify.com/track/3zUosQq3tfNqJT1fVIzNvc) | [INDAHKUS](https://open.spotify.com/artist/1O4yyjVsY0VUpGMZiK7zNB) | [Mirror, Mirror on the Wall](https://open.spotify.com/album/4GxXqUC1qtV2i2Uy1lxoip) | 3:48 | 2022-06-06 | 2022-07-29 |
 | [Moments](https://open.spotify.com/track/1AVL7qGcVJUOcfUdzpKbWa) | [Alextbh](https://open.spotify.com/artist/0kXDB5aeESWj5BD9TCLkMu) | [Moments](https://open.spotify.com/album/7LjYerJoXPBFOqR6e9ROHf) | 2:49 | 2022-06-06 | 2022-07-29 |
 | [Moonlight](https://open.spotify.com/track/0Qc117NULtyGJEovqVl5lx) | [entoy](https://open.spotify.com/artist/25OMfKk5AnZxUdzwDy3bOj), [oze](https://open.spotify.com/artist/629lX0tAfv9lHgedi8sJgL) | [Moonlight](https://open.spotify.com/album/4zhxQLpyqo7xnKpFHOgJvw) | 2:49 | 2022-06-06 | 2022-07-29 |

@@ -4,7 +4,7 @@
 
 > Let the songs speak\. Cover: Omarion
 
-624 songs - 1 day 8 hr 28 min
+625 songs - 1 day 8 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -507,6 +507,7 @@
 | [Sock It 2 Me](https://open.spotify.com/track/50djZgba5gDPdYp7aJG57w) | [LAYA](https://open.spotify.com/artist/7JNff2HS8nrk3x0VZ5pT2X) | [Sock It 2 Me](https://open.spotify.com/album/3SkBB3iH6FtsIx2PxqtO35) | 3:21 | 2022-08-05 | 2023-10-07 |
 | [Somebody](https://open.spotify.com/track/1HWiS9m9JP4WrVycahNud7) | [Pino](https://open.spotify.com/artist/58DUKFTIbamsxqTHfoofpu) | [Somebody](https://open.spotify.com/album/0cqTDTmlTuapHUJZHBknfw) | 3:38 | 2023-08-18 | 2024-03-16 |
 | [sorry](https://open.spotify.com/track/1Weox7JrxWlozk46HkXHTp) | [UMI](https://open.spotify.com/artist/4ClziihVpBeFXNyDH83Lde) | [sorry](https://open.spotify.com/album/5yYBMehkCVXuFzaVPBBmzB) | 3:40 | 2022-03-11 | 2022-11-11 |
+| [Speak Your Mine](https://open.spotify.com/track/1i5hcCnWCHYu2mvUq04OPP) | [Trè Samuels](https://open.spotify.com/artist/45vC474xQVArVv4KZ4K8Kq) | [Speak Your Mine](https://open.spotify.com/album/3e2ZjkaPzsXXsMJzXYQDqG) | 3:27 | 2024-03-15 |  |
 | [Spin Again](https://open.spotify.com/track/6HiEe3hSKazKZOscOZjcyN) | [Layton Greene](https://open.spotify.com/artist/02ZtVIjKL1PYLlMmP1sz0h) | [Spin Again](https://open.spotify.com/album/4gZVLOdSn4kqeJ8fInPZdh) | 4:08 | 2023-05-12 |  |
 | [Spin the Block](https://open.spotify.com/track/0IomPr5dBXw2sIkZKvZSSp) | [RAAHiiM](https://open.spotify.com/artist/5Bo5WRNdz8ZOSVA6nJs5M9) | [Spin the Block](https://open.spotify.com/album/2eco2tXEVHu9oaI1uwxCYC) | 3:49 | 2022-11-11 | 2023-07-14 |
 | [Spin the Block](https://open.spotify.com/track/6qmKEl7vp9UOhFEUlH1k2X) | [RAAHiiM](https://open.spotify.com/artist/5Bo5WRNdz8ZOSVA6nJs5M9) | [Spin the Block](https://open.spotify.com/album/0WIyWP0I9sOm5zZkvFdc0u) | 3:49 | 2022-11-11 | 2023-08-14 |
@@ -537,7 +538,7 @@
 | [Swerve](https://open.spotify.com/track/73Vj0bDzuk77zsgxA0ujKG) | [Dende](https://open.spotify.com/artist/0xq4TZno4XwBzkbLnBAhlF), [Eimaral Sol](https://open.spotify.com/artist/1WSDSHfrAxY3kkUjmd9zeH) | [Swerve](https://open.spotify.com/album/4bwRO6SKUjysjbdYZz2f8u) | 3:19 | 2023-03-03 | 2024-01-12 |
 | [T.B.D.](https://open.spotify.com/track/21PVx9jD4ylrKTXgdntOz0) | [Solomon Headen](https://open.spotify.com/artist/59jzOW1ygudzEJxwR7c0pv) | [T.B.D.](https://open.spotify.com/album/18Xm1iSbMb5srLntraenBP) | 3:03 | 2023-10-06 |  |
 | [Take It Back](https://open.spotify.com/track/3UJ8XNSmK5MKkIVsZPMMh7) | [Enchanting](https://open.spotify.com/artist/26XGM4cZDcTgrXo1nis5HT) | [Take It Back](https://open.spotify.com/album/41lbIMunApS8mpyLtUW81W) | 3:18 | 2022-03-25 | 2022-07-15 |
-| [Take It Personal](https://open.spotify.com/track/51pmSmEShGFFKKZ4wszESe) | [Byron Juane](https://open.spotify.com/artist/4UMCjCFEBDWVqw9tTrfxkb) | [Take It Personal](https://open.spotify.com/album/4n4InJrgimhQkVcyEvo85K) | 2:45 | 2024-03-15 |  |
+| [Take It Personal](https://open.spotify.com/track/51pmSmEShGFFKKZ4wszESe) | [Byron Juane](https://open.spotify.com/artist/4UMCjCFEBDWVqw9tTrfxkb) | [Take It Personal](https://open.spotify.com/album/4n4InJrgimhQkVcyEvo85K) | 2:45 | 2024-03-15 | 2024-03-22 |
 | [Taking Off](https://open.spotify.com/track/6UpQnWMqluVLTdCyk3qFJ4) | [Omarion](https://open.spotify.com/artist/0f5nVCcR06GX8Qikz0COtT), [BJRNCK](https://open.spotify.com/artist/75CB9gAqPzqMGNHxymmxfg) | [Full Circle: Sonic Book Two](https://open.spotify.com/album/0zfR2DLWZWMWYjg9B8DKEx) | 3:49 | 2024-03-15 |  |
 | [Talk To Me](https://open.spotify.com/track/0Yb6xqb1lqVJKc71pzqjic) | [Qiuntellii](https://open.spotify.com/artist/7z4jd5dG5vdldHa66iHZvS), [Eric Bellinger](https://open.spotify.com/artist/7ibAWtDtmEfaVhc1FJ3Vl9) | [Talk To Me](https://open.spotify.com/album/4kg6StXbKPakx9iOoguXov) | 3:14 | 2023-08-18 | 2023-10-15 |
 | [Talkback](https://open.spotify.com/track/616rALOBxvc3bbp38iiud5) | [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83) | [Since I Have A Lover](https://open.spotify.com/album/39JZhYotu5zFYJ8jw1D8bF) | 3:04 | 2023-03-10 | 2023-10-07 |

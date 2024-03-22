@@ -4,7 +4,7 @@
 
 > A taste of French café culture; the charming sounds of the Parisian streets.
 
-201 songs - 9 hr 49 min
+203 songs - 9 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -83,6 +83,7 @@
 | [Jacqueline](https://open.spotify.com/track/1mDQrcfMrnEq6SsGY3WlqI) | [Daniel Colin](https://open.spotify.com/artist/2ou5vHf8Vp1ru210N1fi5F) | [Passion Gitane](https://open.spotify.com/album/3dQ85ldFwfDtl2WNdaED1l) | 3:10 | 2023-03-07 | 2023-08-19 |
 | [Je Ne Pourrai Jamais Vivre Sans Toi](https://open.spotify.com/track/48ex83EaL03ai9Hx6oburv) | [Eugene Lambert](https://open.spotify.com/artist/0Qgio0Sb91TA2BZMDmaIvl) | [Je Ne Pourrai Jamais Vivre Sans Toi](https://open.spotify.com/album/0ExkkBGotjcmpSrN3xbXgH) | 3:04 | 2023-05-25 |  |
 | [Joseph Joseph](https://open.spotify.com/track/0Z2SNcdBFdhPFH06vJDWZY) | [Les Petits Parisians](https://open.spotify.com/artist/6zjNoaNyUsp1ZEIbzLv4Jk) | [Chez Paul](https://open.spotify.com/album/17RJUjnv1A6wW91S9r20gS) | 2:15 | 2023-04-13 | 2023-08-19 |
+| [Jour de plage](https://open.spotify.com/track/6znGsua8iDWyDdrSZlb1zx) | [Bateau Mouche](https://open.spotify.com/artist/5qCJ0Ww13jRmYWuL3PLEmf) | [Jour de plage](https://open.spotify.com/album/5l3ULVEb0tBtlBsnaUsxRs) | 3:30 | 2024-03-22 |  |
 | [J’attendrai](https://open.spotify.com/track/7nyaFDQ8XzoL3axdhU969R) | [Pierre\-Antoine Martin](https://open.spotify.com/artist/51QwiXSzbhgzbvvHNOcyUs) | [French Cafe](https://open.spotify.com/album/5adQdukvF9RPivGzmYQUAC) | 1:53 | 2023-03-15 | 2023-08-19 |
 | [Kosher in Venice](https://open.spotify.com/track/1QN53ordFgJt3ruAGSXB8l) | [Stefano Corradi](https://open.spotify.com/artist/4KnatJMl9LPIdRUSQsYION), [Gian Pietro Marazza](https://open.spotify.com/artist/2tgYUszDncWLQhwJzSSfVX), [Luca Garlaschell](https://open.spotify.com/artist/4uHfosVwJmQAuFyXngLoPo) | [Love Routes \(Romantic Accordion Ballads in Rome\)](https://open.spotify.com/album/3lEXZx6W90Y1WjkWILQwaB) | 2:41 | 2022-02-18 |  |
 | [L'amour est bleu](https://open.spotify.com/track/7Bb0mYUZIkeNqkMwXMHmAK) | [Trio Musette](https://open.spotify.com/artist/2ePIFH8jgBe6Cqe2uc8s6A) | [L'amour est bleu](https://open.spotify.com/album/38ykcbUhDpC4h020SF900Y) | 2:58 | 2023-04-27 |  |
@@ -204,6 +205,7 @@
 | [Valse Therese](https://open.spotify.com/track/0fHU9X4xzibSUdMj084Opd) | [Mediterranean Café Society](https://open.spotify.com/artist/2fJ85pakgR26MQXGfE24gL) | [Mediterranean Café: Music of Italy, Greece and Spain](https://open.spotify.com/album/3gGZP9CROPsrqJpzaBK2Dc) | 2:05 | 2022-11-25 |  |
 | [Valse violette](https://open.spotify.com/track/7xwWj1c8EgNPS8ez6xmOjd) | [Enrique Ugarte](https://open.spotify.com/artist/50XfjlKluHTqnuuNtr7SHI) | [Enrique Ugarte: Valse Musette De Paris](https://open.spotify.com/album/40lbxc3DN4ml0PdpajRj4u) | 3:34 | 2022-02-18 |  |
 | [Valse violette](https://open.spotify.com/track/67Mpe35GP02yAmQFCtXVVF) | [Tillo Schlunck](https://open.spotify.com/artist/05g9ESnfzPZUi3byxhoS3L), [Enrique Ugarte](https://open.spotify.com/artist/50XfjlKluHTqnuuNtr7SHI) | [Enrique Ugarte: Valse Musette De Paris](https://open.spotify.com/album/3eF4eKkt4DHrOUG1A0z6wC) | 3:34 | 2022-02-18 | 2022-07-29 |
+| [Valser Au Bal](https://open.spotify.com/track/7M9IqZsdMbSiTBTtb9pO5v) | [Frank Guardiola](https://open.spotify.com/artist/5gcPk6Qs7bOVFQDwH5xRcl) | [Valser Au Bal](https://open.spotify.com/album/6JUmJ2TWj4w3pQjNO9PXL4) | 2:45 | 2024-03-22 |  |
 | [Volo degli angeli](https://open.spotify.com/track/4DxBTULiLnGnvD1C4hjNfM) | [Carmen Carrozza](https://open.spotify.com/artist/7JosuW0oOtW7tDbpAIsdWm), [Enrique Ugarte](https://open.spotify.com/artist/50XfjlKluHTqnuuNtr7SHI) | [Enrique Ugarte: Valse Musette De Paris](https://open.spotify.com/album/3eF4eKkt4DHrOUG1A0z6wC) | 3:58 | 2022-02-18 | 2022-07-29 |
 | [Volo degli angeli](https://open.spotify.com/track/2TJkVa5tsLykNaU5OGpbfD) | [Enrique Ugarte](https://open.spotify.com/artist/50XfjlKluHTqnuuNtr7SHI) | [Valse musette de Paris](https://open.spotify.com/album/6DhvEyNar7K1i3gVcS0rGH) | 3:58 | 2022-08-05 | 2022-11-14 |
 | [Volo degli angeli \(Flight of the Angels\)](https://open.spotify.com/track/6iIsE9H3kmwV2mhvUBf9rn) | [Enrique Ugarte](https://open.spotify.com/artist/50XfjlKluHTqnuuNtr7SHI) | [Enrique Ugarte: Valse Musette De Paris](https://open.spotify.com/album/40lbxc3DN4ml0PdpajRj4u) | 3:58 | 2022-02-18 |  |

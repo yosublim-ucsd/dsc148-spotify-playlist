@@ -4,7 +4,7 @@
 
 > Este es el Reggae, al sur del continente americano\. Foto: Nonpalidece.
 
-238 songs - 15 hr 49 min
+239 songs - 15 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,7 +29,7 @@
 | [Barajas](https://open.spotify.com/track/5h3vcswmADU9SsBo8dmh8X) | [Karamelo Santo](https://open.spotify.com/artist/609ifGTYnL9iOfPI5KIzq1) | [El Gran Poder, Vol\. 1](https://open.spotify.com/album/4Bm1mfE39yAYVYmj1DRXK3) | 5:14 | 2022-05-06 | 2022-06-17 |
 | [Blues for Robin](https://open.spotify.com/track/1amEsAgR9loL4QfCogIfrN) | [Mr PC Ska Jazz](https://open.spotify.com/artist/1PyQqHVbuB2SQwc96QjjsC) | [Blues for Robin](https://open.spotify.com/album/79hknAqGjYgjs5g8pNBYVX) | 5:31 | 2022-05-06 | 2022-07-22 |
 | [Buen Día](https://open.spotify.com/track/4pyVpSIVTjtqbm8YczHvea) | [Karamelo Santo](https://open.spotify.com/artist/609ifGTYnL9iOfPI5KIzq1) | [Buen Día](https://open.spotify.com/album/3qmxnjvgxIJ6b7Q4lt7r2B) | 3:39 | 2022-05-06 | 2022-07-24 |
-| [Buena Suerte](https://open.spotify.com/track/4dr6LUn5QQyBAYuFzJSZfU) | [Leonchalon](https://open.spotify.com/artist/18hhcln4FwPkj2iwxT5yB0) | [Humo](https://open.spotify.com/album/7fnXhIC06cyvU9ZOP6BaBE) | 3:59 | 2022-05-06 |  |
+| [Buena Suerte](https://open.spotify.com/track/4dr6LUn5QQyBAYuFzJSZfU) | [Leonchalon](https://open.spotify.com/artist/18hhcln4FwPkj2iwxT5yB0) | [Humo](https://open.spotify.com/album/7fnXhIC06cyvU9ZOP6BaBE) | 3:59 | 2022-05-06 | 2024-03-22 |
 | [Camino](https://open.spotify.com/track/6xubp8IMFJZa4xZylMXwYo) | [palma](https://open.spotify.com/artist/7Fpc0RppTKkMDhWJelaKz3), [Riddim](https://open.spotify.com/artist/5nisdlB1NfT6t8WI0ZMdMD), [Natalia Ramírez](https://open.spotify.com/artist/1s4O7vhYHnEw8eA3tg9yV4), [Pety](https://open.spotify.com/artist/1KIAFzs3T8c4RanxT9GjZL) | [Camino](https://open.spotify.com/album/0hXVulgHCX0EmJ8JUssR8E) | 3:41 | 2022-05-06 | 2022-07-29 |
 | [Campo Fértil](https://open.spotify.com/track/76eprM2bmafflgXekoYVdZ) | [MAMA GAIA](https://open.spotify.com/artist/5uvIzs93CiewRg46Q9VpCx) | [Alquímica](https://open.spotify.com/album/5IFNiViGeutEPzqWq0M0LY) | 4:09 | 2022-05-06 | 2022-07-25 |
 | [Casi q' me pierdo](https://open.spotify.com/track/0Nj3EM5QMCIdTbWM3wzJGR) | [Los Cafres](https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI) | [El Paso Gigante](https://open.spotify.com/album/1kJD3mYufavAaI1IZwrP3i) | 4:25 | 2022-05-06 |  |
@@ -59,6 +59,7 @@
 | [Diablito](https://open.spotify.com/track/2Z1rlQEgYannUuHeJmWYzp) | [Mamita Peyote](https://open.spotify.com/artist/241K0nllagXEonPEu1Yyo8) | [Runfla Calavera](https://open.spotify.com/album/7jSJ3aBEE9ENZrg5LJPAfc) | 3:50 | 2022-05-06 |  |
 | [Dimelo Ayer](https://open.spotify.com/track/3oLLeHt1QC4UZQR2SQ2wyc) | [Coral Campopiano](https://open.spotify.com/artist/657Gml68DCgI2F5q8ON4s7), [Cucho Parisi](https://open.spotify.com/artist/1uuzWNBMb1W3xA1eP3VGHm) | [Dimelo Ayer](https://open.spotify.com/album/3y26sdvr1EWg1hELlXHTm1) | 2:39 | 2023-09-08 |  |
 | [Do It Right](https://open.spotify.com/track/4uuWMM30p5K10k7amGqJXM) | [Gondwana](https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd), [Collie Buddz](https://open.spotify.com/artist/5Ayl2bJtN5mdCsxZoxs9n1) | [Cali Roots Riddim 2023](https://open.spotify.com/album/2VV4AwkAHaWRJ3noJY6aWT) | 3:44 | 2023-07-07 |  |
+| [Doce Amor \(Dulce Amor\)](https://open.spotify.com/track/7ramI65lUzXS2XN89aT6pr) | [Riddim](https://open.spotify.com/artist/4nrP6H78NuKzQr9bQxAFVk), [Vibrações](https://open.spotify.com/artist/7BVAEbZsvTJ5ZGH87anDtT) | [Doce Amor \(Dulce Amor\)](https://open.spotify.com/album/6AL0oMPAPWgIjsx0pGZrmd) | 5:12 | 2024-03-21 |  |
 | [Don't Speak \- Reggae Version](https://open.spotify.com/track/4fNcaiS9FUUjpznbSeVmqN) | [Sarah Menescal](https://open.spotify.com/artist/4DpQLwz0jhUU7wuT9phTlD) | [Modern Jukebox](https://open.spotify.com/album/2i7MhuER8I9dk47TWkrT8t) | 4:03 | 2022-05-06 | 2023-10-06 |
 | [Don't Stay Away](https://open.spotify.com/track/7kbhfGEIRNJN5N6IxSor1M) | [Hugo Lobo](https://open.spotify.com/artist/50UQHipbWWMFQiT6DZYvHN), [Carroll Thompson](https://open.spotify.com/artist/1YN1OuUFRoFlnwR97pIRlJ) | [Don't Stay Away](https://open.spotify.com/album/3Qgzi3htMvrTUGZTUl1VTr) | 2:56 | 2022-05-06 | 2022-07-09 |
 | [Donde Vive un Sentimiento](https://open.spotify.com/track/4dshlztOA9h20deNbzMvvY) | [Dread Mar I](https://open.spotify.com/artist/1aw0Cdl1DIrtUrUA6fGbAR) | [En el Sendero](https://open.spotify.com/album/4NzGzDvqUWJPkgzEqCGpnb) | 3:22 | 2022-05-06 | 2022-07-29 |

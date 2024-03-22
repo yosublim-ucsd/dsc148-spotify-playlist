@@ -1,5 +1,5 @@
 {
-  "2024-03-21": 29639,
+  "2024-03-22": 29653,
   "date_first_scraped": "2023-08-24",
   "description": "Music from TV Anime \"ONE PIECE\" /TV\u30a2\u30cb\u30e1\u300cONE PIECE\u300d\u306e\u697d\u66f2\u30921\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u3067\u3002\u00a9\ufe0f\u5c3e\u7530\u6804\u4e00\u90ce\uff0f\u96c6\u82f1\u793e\u30fb\u30d5\u30b8\u30c6\u30ec\u30d3\u30fb\u6771\u6620\u30a2\u30cb\u30e1\u30fc\u30b7\u30e7\u30f3",
   "name": "ONE PIECE",
@@ -1063,6 +1063,24 @@
     {
       "album": {
         "name": "\u98a8\u3092\u3055\u304c\u3057\u3066",
+        "url": "https://open.spotify.com/album/2EsJtDNBtiJgSjYiKAwk7W"
+      },
+      "artists": [
+        {
+          "name": "Mari Yaguchi",
+          "url": "https://open.spotify.com/artist/1MCUIn9Um8kgMIdfgsFl1d"
+        }
+      ],
+      "date_added": "2024-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245986,
+      "name": "\u98a8\u3092\u3055\u304c\u3057\u3066",
+      "url": "https://open.spotify.com/track/48Upc2XlJ66ckHn43e7Uet"
+    },
+    {
+      "album": {
+        "name": "\u98a8\u3092\u3055\u304c\u3057\u3066",
         "url": "https://open.spotify.com/album/3Y9UDMo90lvIwaEp2aAQlZ"
       },
       "artists": [
@@ -1077,7 +1095,7 @@
       ],
       "date_added": "2023-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-21",
       "duration_ms": 245000,
       "name": "\u98a8\u3092\u3055\u304c\u3057\u3066",
       "url": "https://open.spotify.com/track/6IePUG4Jy9dKA0zp3VAMeo"

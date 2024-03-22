@@ -1,5 +1,5 @@
 {
-  "2024-03-21": 90836,
+  "2024-03-22": 90864,
   "date_first_scraped": "2021-03-27",
   "description": "Your daily update of the most played tracks right now - Vietnam.",
   "name": "Top 50 - Vietnam",
@@ -2613,7 +2613,7 @@
       ],
       "date_added": "2023-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-21",
       "duration_ms": 200727,
       "name": "b\u00e9 \u01a1i t\u1eeb t\u1eeb",
       "url": "https://open.spotify.com/track/0tGmDUHDoT8pxYhgAT3yNG"
@@ -5801,7 +5801,7 @@
       ],
       "date_added": "2024-03-07",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-18",
+      "date_removed": null,
       "duration_ms": 201589,
       "name": "Exit Sign",
       "url": "https://open.spotify.com/track/4nXrVH5xwN1w6TpmP7uu8n"

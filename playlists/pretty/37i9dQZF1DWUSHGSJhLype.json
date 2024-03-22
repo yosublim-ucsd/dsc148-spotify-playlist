@@ -1,12 +1,12 @@
 {
   "description": "\u00e9 o puro suco do ver\u00e3o brasileiro!! quem sabe sabe / POCAH",
-  "num_followers": 463694,
+  "num_followers": 464018,
   "original_name": "PURO SUCO DO VER\u00c3O",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxOWYxN2IyNWQ1ZTI5NGI5YmNkYzJlN2UxZTIyNjFiZmM3ODI0YWFj",
+  "snapshot_id": "MCw0NWM0YjY3MDM1YTliYTk5M2Y3ZTk0ZWQ2OTVhODAxMTNiMmIwZjhl",
   "tracks": [
     {
       "added_at": "2024-03-15 12:23:14",
@@ -799,26 +799,6 @@
     {
       "added_at": "2024-03-15 12:23:14",
       "album": {
-        "name": "5 Da Manh\u00e3 (Ao Vivo Em Goi\u00e2nia)",
-        "url": "https://open.spotify.com/album/1jElzLi27vaY1p5JPyeVQU"
-      },
-      "artists": [
-        {
-          "name": "Ra\u00ed Saia Rodada",
-          "url": "https://open.spotify.com/artist/0NiaKn55OzJswiYevvlKfz"
-        },
-        {
-          "name": "Jo\u00e3o Gomes",
-          "url": "https://open.spotify.com/artist/4JNo6Q5KdcRf1vtSX9mB0S"
-        }
-      ],
-      "duration_ms": 147116,
-      "name": "5 Da Manh\u00e3 - Ao Vivo",
-      "url": "https://open.spotify.com/track/0ZVWliWjMmYFxQe9U63Y5W"
-    },
-    {
-      "added_at": "2024-03-15 12:23:14",
-      "album": {
         "name": "N\u00e3o Para",
         "url": "https://open.spotify.com/album/4CijUEw802sAukzjveQ0Re"
       },
@@ -839,6 +819,26 @@
       "duration_ms": 180923,
       "name": "N\u00e3o Para",
       "url": "https://open.spotify.com/track/77BR4gaUAp3p0uA8UL6HT9"
+    },
+    {
+      "added_at": "2024-03-15 12:23:14",
+      "album": {
+        "name": "5 Da Manh\u00e3 (Ao Vivo Em Goi\u00e2nia)",
+        "url": "https://open.spotify.com/album/1jElzLi27vaY1p5JPyeVQU"
+      },
+      "artists": [
+        {
+          "name": "Ra\u00ed Saia Rodada",
+          "url": "https://open.spotify.com/artist/0NiaKn55OzJswiYevvlKfz"
+        },
+        {
+          "name": "Jo\u00e3o Gomes",
+          "url": "https://open.spotify.com/artist/4JNo6Q5KdcRf1vtSX9mB0S"
+        }
+      ],
+      "duration_ms": 147116,
+      "name": "5 Da Manh\u00e3 - Ao Vivo",
+      "url": "https://open.spotify.com/track/0ZVWliWjMmYFxQe9U63Y5W"
     },
     {
       "added_at": "2024-03-15 12:23:14",
@@ -959,6 +959,22 @@
     {
       "added_at": "2024-03-15 12:23:14",
       "album": {
+        "name": "MF No Rio, Vol. 1 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/2P8zuC56lsghvc5KHP4rfQ"
+      },
+      "artists": [
+        {
+          "name": "Matheus Fernandes",
+          "url": "https://open.spotify.com/artist/37mqXU98U5GmH5ZDtlHM1c"
+        }
+      ],
+      "duration_ms": 202411,
+      "name": "Altas Loucurinhas (Uni Duni T\u00ea) - Ao Vivo",
+      "url": "https://open.spotify.com/track/2kBbHpJTc7MWs8F3XhClBD"
+    },
+    {
+      "added_at": "2024-03-15 12:23:14",
+      "album": {
         "name": "Reivete-se 3.0",
         "url": "https://open.spotify.com/album/4pTd3gXvJKxLClVdXVhi8G"
       },
@@ -975,22 +991,6 @@
       "duration_ms": 167786,
       "name": "Macetando",
       "url": "https://open.spotify.com/track/1T9dxi40GuNW3gNRHwk8P4"
-    },
-    {
-      "added_at": "2024-03-15 12:23:14",
-      "album": {
-        "name": "MF No Rio, Vol. 1 (Ao Vivo)",
-        "url": "https://open.spotify.com/album/2P8zuC56lsghvc5KHP4rfQ"
-      },
-      "artists": [
-        {
-          "name": "Matheus Fernandes",
-          "url": "https://open.spotify.com/artist/37mqXU98U5GmH5ZDtlHM1c"
-        }
-      ],
-      "duration_ms": 202411,
-      "name": "Altas Loucurinhas (Uni Duni T\u00ea) - Ao Vivo",
-      "url": "https://open.spotify.com/track/2kBbHpJTc7MWs8F3XhClBD"
     },
     {
       "added_at": "2024-03-15 12:23:14",
@@ -1031,22 +1031,6 @@
     {
       "added_at": "2024-03-15 12:23:14",
       "album": {
-        "name": "Ind\u00edcios",
-        "url": "https://open.spotify.com/album/3GCtOaO8rqzFGKGfaItCro"
-      },
-      "artists": [
-        {
-          "name": "Z\u00e9 Vaqueiro",
-          "url": "https://open.spotify.com/artist/5K8Rmjmf4RZFffz94EmBRt"
-        }
-      ],
-      "duration_ms": 228301,
-      "name": "Coladin (Minha Deusa)",
-      "url": "https://open.spotify.com/track/3xCkNUiap7EBjqnRldHSSh"
-    },
-    {
-      "added_at": "2024-03-15 12:23:14",
-      "album": {
         "name": "Digo Ou N\u00e3o Digo",
         "url": "https://open.spotify.com/album/4DnjLKTRmVUCiVoQpFKV7O"
       },
@@ -1063,18 +1047,18 @@
     {
       "added_at": "2024-03-15 12:23:14",
       "album": {
-        "name": "Pode Cr\u00ea (Ao Vivo)",
-        "url": "https://open.spotify.com/album/1RgyCNTHPkg1IxFO0d6bhQ"
+        "name": "Ind\u00edcios",
+        "url": "https://open.spotify.com/album/3GCtOaO8rqzFGKGfaItCro"
       },
       "artists": [
         {
-          "name": "MC Rogerinho",
-          "url": "https://open.spotify.com/artist/5JbQpbeFaKfuZVFzKwaawP"
+          "name": "Z\u00e9 Vaqueiro",
+          "url": "https://open.spotify.com/artist/5K8Rmjmf4RZFffz94EmBRt"
         }
       ],
-      "duration_ms": 163584,
-      "name": "085 - Ao Vivo",
-      "url": "https://open.spotify.com/track/7Ht57bh2FwiQLwRH9zqESG"
+      "duration_ms": 228301,
+      "name": "Coladin (Minha Deusa)",
+      "url": "https://open.spotify.com/track/3xCkNUiap7EBjqnRldHSSh"
     },
     {
       "added_at": "2024-03-15 12:23:14",
@@ -1095,6 +1079,22 @@
       "duration_ms": 166435,
       "name": "Balan\u00e7o da Rede",
       "url": "https://open.spotify.com/track/2qmG7dokbGpDGD0T5wORWt"
+    },
+    {
+      "added_at": "2024-03-15 12:23:14",
+      "album": {
+        "name": "Pode Cr\u00ea (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1RgyCNTHPkg1IxFO0d6bhQ"
+      },
+      "artists": [
+        {
+          "name": "MC Rogerinho",
+          "url": "https://open.spotify.com/artist/5JbQpbeFaKfuZVFzKwaawP"
+        }
+      ],
+      "duration_ms": 163584,
+      "name": "085 - Ao Vivo",
+      "url": "https://open.spotify.com/track/7Ht57bh2FwiQLwRH9zqESG"
     },
     {
       "added_at": "2024-03-15 12:23:14",
@@ -1163,6 +1163,22 @@
     {
       "added_at": "2024-03-15 12:23:14",
       "album": {
+        "name": "Botadinha Saliente",
+        "url": "https://open.spotify.com/album/0cX66lTggji6J1JC7hvDHG"
+      },
+      "artists": [
+        {
+          "name": "MC Rogerinho",
+          "url": "https://open.spotify.com/artist/5JbQpbeFaKfuZVFzKwaawP"
+        }
+      ],
+      "duration_ms": 158000,
+      "name": "Botadinha Saliente",
+      "url": "https://open.spotify.com/track/0qYW2jULeN9giEty0ee9Fy"
+    },
+    {
+      "added_at": "2024-03-15 12:23:14",
+      "album": {
         "name": "Piloto",
         "url": "https://open.spotify.com/album/5L36YBGqoD7axD0oKKUzuJ"
       },
@@ -1175,6 +1191,26 @@
       "duration_ms": 127506,
       "name": "Piloto",
       "url": "https://open.spotify.com/track/6ENiNztKLqbAKCJpk2yXaI"
+    },
+    {
+      "added_at": "2024-03-15 12:23:14",
+      "album": {
+        "name": "Pel\u00edcula de Vidro (Ao Vivo)",
+        "url": "https://open.spotify.com/album/7psl0XwwmQZArUR3efXKgx"
+      },
+      "artists": [
+        {
+          "name": "Diego & Victor Hugo",
+          "url": "https://open.spotify.com/artist/3k68C6mNMJL6OaAdWeW2ZF"
+        },
+        {
+          "name": "Grupo Menos \u00c9 Mais",
+          "url": "https://open.spotify.com/artist/6vTqEFbTtTRJsuIpzZgjxi"
+        }
+      ],
+      "duration_ms": 146634,
+      "name": "Pel\u00edcula de Vidro - Ao Vivo",
+      "url": "https://open.spotify.com/track/5G14doWE8UZLFw9nlcNDm8"
     },
     {
       "added_at": "2024-03-15 12:23:14",
@@ -1203,42 +1239,6 @@
     {
       "added_at": "2024-03-15 12:23:14",
       "album": {
-        "name": "Botadinha Saliente",
-        "url": "https://open.spotify.com/album/0cX66lTggji6J1JC7hvDHG"
-      },
-      "artists": [
-        {
-          "name": "MC Rogerinho",
-          "url": "https://open.spotify.com/artist/5JbQpbeFaKfuZVFzKwaawP"
-        }
-      ],
-      "duration_ms": 158000,
-      "name": "Botadinha Saliente",
-      "url": "https://open.spotify.com/track/0qYW2jULeN9giEty0ee9Fy"
-    },
-    {
-      "added_at": "2024-03-15 12:23:14",
-      "album": {
-        "name": "Ao Vivo em Fortaleza",
-        "url": "https://open.spotify.com/album/3M5e9wnEYLRGlavA36KwAr"
-      },
-      "artists": [
-        {
-          "name": "Mari Fernandez",
-          "url": "https://open.spotify.com/artist/0BHm7qbh3ENxvXzkQAG7MP"
-        },
-        {
-          "name": "NATTAN",
-          "url": "https://open.spotify.com/artist/1SXhEXzOTF7YeuQX59m7pT"
-        }
-      ],
-      "duration_ms": 180410,
-      "name": "Comunica\u00e7\u00e3o Falhou - Ao Vivo",
-      "url": "https://open.spotify.com/track/7bhvRvE56NHBvedx0EeALS"
-    },
-    {
-      "added_at": "2024-03-15 12:23:14",
-      "album": {
         "name": "Virado No Pagode (Ao Vivo)",
         "url": "https://open.spotify.com/album/1SXOjReTOGWZo79wMUR0v3"
       },
@@ -1259,22 +1259,22 @@
     {
       "added_at": "2024-03-15 12:23:14",
       "album": {
-        "name": "Pel\u00edcula de Vidro (Ao Vivo)",
-        "url": "https://open.spotify.com/album/7psl0XwwmQZArUR3efXKgx"
+        "name": "Ao Vivo em Fortaleza",
+        "url": "https://open.spotify.com/album/3M5e9wnEYLRGlavA36KwAr"
       },
       "artists": [
         {
-          "name": "Diego & Victor Hugo",
-          "url": "https://open.spotify.com/artist/3k68C6mNMJL6OaAdWeW2ZF"
+          "name": "Mari Fernandez",
+          "url": "https://open.spotify.com/artist/0BHm7qbh3ENxvXzkQAG7MP"
         },
         {
-          "name": "Grupo Menos \u00c9 Mais",
-          "url": "https://open.spotify.com/artist/6vTqEFbTtTRJsuIpzZgjxi"
+          "name": "NATTAN",
+          "url": "https://open.spotify.com/artist/1SXhEXzOTF7YeuQX59m7pT"
         }
       ],
-      "duration_ms": 146634,
-      "name": "Pel\u00edcula de Vidro - Ao Vivo",
-      "url": "https://open.spotify.com/track/5G14doWE8UZLFw9nlcNDm8"
+      "duration_ms": 180410,
+      "name": "Comunica\u00e7\u00e3o Falhou - Ao Vivo",
+      "url": "https://open.spotify.com/track/7bhvRvE56NHBvedx0EeALS"
     },
     {
       "added_at": "2024-03-15 12:23:14",
@@ -1335,26 +1335,6 @@
     {
       "added_at": "2024-03-15 12:23:14",
       "album": {
-        "name": "Tchuco Nela",
-        "url": "https://open.spotify.com/album/15MbkLbjzgrQchBQwybR5L"
-      },
-      "artists": [
-        {
-          "name": "MC Rogerinho",
-          "url": "https://open.spotify.com/artist/5JbQpbeFaKfuZVFzKwaawP"
-        },
-        {
-          "name": "Wesley Safad\u00e3o",
-          "url": "https://open.spotify.com/artist/1AL2GKpmRrKXkYIcASuRFa"
-        }
-      ],
-      "duration_ms": 170880,
-      "name": "Tchuco Nela",
-      "url": "https://open.spotify.com/track/3ShKPhFkexrwl7WoyTtNND"
-    },
-    {
-      "added_at": "2024-03-15 12:23:14",
-      "album": {
         "name": "Preta",
         "url": "https://open.spotify.com/album/1KrP7RmvdKTuDmuGTUISoj"
       },
@@ -1371,6 +1351,26 @@
       "duration_ms": 176000,
       "name": "Preta",
       "url": "https://open.spotify.com/track/1AxwFhon2S7mRDaNIP2PaR"
+    },
+    {
+      "added_at": "2024-03-15 12:23:14",
+      "album": {
+        "name": "Tchuco Nela",
+        "url": "https://open.spotify.com/album/15MbkLbjzgrQchBQwybR5L"
+      },
+      "artists": [
+        {
+          "name": "MC Rogerinho",
+          "url": "https://open.spotify.com/artist/5JbQpbeFaKfuZVFzKwaawP"
+        },
+        {
+          "name": "Wesley Safad\u00e3o",
+          "url": "https://open.spotify.com/artist/1AL2GKpmRrKXkYIcASuRFa"
+        }
+      ],
+      "duration_ms": 170880,
+      "name": "Tchuco Nela",
+      "url": "https://open.spotify.com/track/3ShKPhFkexrwl7WoyTtNND"
     },
     {
       "added_at": "2024-03-15 12:23:14",

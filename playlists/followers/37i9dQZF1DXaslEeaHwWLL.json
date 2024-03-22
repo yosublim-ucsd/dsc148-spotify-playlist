@@ -1,5 +1,5 @@
 {
-  "2024-03-21": 51331,
+  "2024-03-22": 51387,
   "date_first_scraped": "2023-10-16",
   "description": "The biggest songs in Latin America in 2017. Cover: Daddy Yankee & Luis Fonsi",
   "name": "Latin Hits 2017",
@@ -257,7 +257,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-21",
       "duration_ms": 192001,
       "name": "Chambea",
       "url": "https://open.spotify.com/track/1Bqg4yFeVDJxchh6MjkGKy"
@@ -1135,7 +1135,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-06",
+      "date_removed": null,
       "duration_ms": 170762,
       "name": "Tu No Metes Cabra",
       "url": "https://open.spotify.com/track/43SMQMC2X2fAOuTPRnSGrG"

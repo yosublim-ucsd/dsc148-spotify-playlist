@@ -1,5 +1,5 @@
 {
-  "2024-03-21": 838183,
+  "2024-03-22": 838367,
   "date_first_scraped": "2022-05-30",
   "description": "Say the name, Seventeen! Carats, get ready to slip into the diamond life with your 13 shining diamonds.",
   "name": "This Is SEVENTEEN",
@@ -2235,6 +2235,24 @@
       "duration_ms": 190573,
       "name": "LIMBO (Korean Version)",
       "url": "https://open.spotify.com/track/54p6HYutzI4V4aXN0UiJ8n"
+    },
+    {
+      "album": {
+        "name": "Lonely Stars",
+        "url": "https://open.spotify.com/album/01Jmjq2ScXdj8hufqKXrlP"
+      },
+      "artists": [
+        {
+          "name": "SEUNGKWAN",
+          "url": "https://open.spotify.com/artist/0Vb2DjojEYsasFpc3aTZb6"
+        }
+      ],
+      "date_added": "2024-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246120,
+      "name": "Lonely Stars (Korean Ver.)",
+      "url": "https://open.spotify.com/track/5EIMmyT519rdZzdeSGEj0m"
     },
     {
       "album": {

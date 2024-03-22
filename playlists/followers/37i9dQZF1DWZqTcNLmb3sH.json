@@ -1,5 +1,5 @@
 {
-  "2024-03-21": 57313,
+  "2024-03-22": 57324,
   "date_first_scraped": "2021-12-28",
   "description": "Check out the latest hits from Sandalwood!\nCover : Karataka Damanaka\n",
   "name": "Latest Kannada",
@@ -1502,6 +1502,28 @@
     },
     {
       "album": {
+        "name": "Appuge (From \"Yuva\")",
+        "url": "https://open.spotify.com/album/6q8rBmPf3THYNmjTfV7BY6"
+      },
+      "artists": [
+        {
+          "name": "Vijay Prakash",
+          "url": "https://open.spotify.com/artist/4iA6bUhiZyvRKJf4FNVX39"
+        },
+        {
+          "name": "B. Ajaneesh Loknath",
+          "url": "https://open.spotify.com/artist/3PjvC3vaZ6wh5FK6PZ4Dd5"
+        }
+      ],
+      "date_added": "2024-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181514,
+      "name": "Appuge (From \"Yuva\")",
+      "url": "https://open.spotify.com/track/0P58lwa0D9Kg5pbXSsGvFA"
+    },
+    {
+      "album": {
         "name": "Aradhya (From \"Kushi\")",
         "url": "https://open.spotify.com/album/6rDZOiSJPVqUAb0pCEZLCD"
       },
@@ -1935,7 +1957,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-21",
       "duration_ms": 184144,
       "name": "Ayayyo - From \"KTM\"",
       "url": "https://open.spotify.com/track/0EWt9twxI5Jp5W1mpJ0tBt"
@@ -5225,7 +5247,7 @@
       ],
       "date_added": "2024-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-21",
       "duration_ms": 152484,
       "name": "Dava Dava (From \"Anshu\" )",
       "url": "https://open.spotify.com/track/56hNssGHtrjE5DwaLRvaDK"
@@ -14039,6 +14061,32 @@
       "duration_ms": 161099,
       "name": "Madime Yenna-Ninna (Tulu Wedding Song)",
       "url": "https://open.spotify.com/track/3z0CgHCvEl2Gh3VW7kEz1a"
+    },
+    {
+      "album": {
+        "name": "Madve Byada (From \" Lineman\")",
+        "url": "https://open.spotify.com/album/2oYFarnfApQYF5uG0Odg8Q"
+      },
+      "artists": [
+        {
+          "name": "Guru Kiran",
+          "url": "https://open.spotify.com/artist/3xSxDireyobIryR5nIaHa0"
+        },
+        {
+          "name": "Kadri Manikanth",
+          "url": "https://open.spotify.com/artist/0CTZkrzz9PYo5m9MvTymA0"
+        },
+        {
+          "name": "V Raghu Shastry",
+          "url": "https://open.spotify.com/artist/4HIXKu2NIlPwjhDVj9l4LA"
+        }
+      ],
+      "date_added": "2024-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219636,
+      "name": "Madve Byada (From \" Lineman\")",
+      "url": "https://open.spotify.com/track/4rWiqybyUvZNZvDj12HJLP"
     },
     {
       "album": {
@@ -24881,7 +24929,7 @@
       ],
       "date_added": "2024-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-21",
       "duration_ms": 264477,
       "name": "Urige Ure Kaaneru (From \"Schoool Ramayana\")",
       "url": "https://open.spotify.com/track/31xtN1TYHOFoNsjco8nNWF"

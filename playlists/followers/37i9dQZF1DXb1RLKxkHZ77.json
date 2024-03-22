@@ -1,5 +1,5 @@
 {
-  "2024-03-21": 335494,
+  "2024-03-22": 335589,
   "date_first_scraped": "2022-05-30",
   "description": "Lagu-lagu yang terbaik di Malaysia. Cover: Sarah Suhairi, Alfie Zumi ",
   "name": "Carta Malaysia 50",
@@ -1993,7 +1993,7 @@
       ],
       "date_added": "2024-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-21",
       "duration_ms": 246093,
       "name": "Dursila - From \"Malang Si Puteri\"",
       "url": "https://open.spotify.com/track/1zv2N0vnJF37CJZ27MA1cH"
@@ -2179,6 +2179,28 @@
       "duration_ms": 237167,
       "name": "Gerimis Mengundang",
       "url": "https://open.spotify.com/track/3D9N3k4civFOuEsXXoUlq6"
+    },
+    {
+      "album": {
+        "name": "Ghaibmu II",
+        "url": "https://open.spotify.com/album/017y4K1MSpSseb4vWRq6GY"
+      },
+      "artists": [
+        {
+          "name": "Imran Ajmain",
+          "url": "https://open.spotify.com/artist/6RwVCUG6anzF4HiiIKMFWV"
+        },
+        {
+          "name": "ITSDATBOYINBLVCK",
+          "url": "https://open.spotify.com/artist/3Wiuqy7xJpr0L7eL8HjcdY"
+        }
+      ],
+      "date_added": "2024-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185142,
+      "name": "Ghaibmu II",
+      "url": "https://open.spotify.com/track/11W5sINlIku4WCBgnEgl3X"
     },
     {
       "album": {
@@ -5680,6 +5702,24 @@
     },
     {
       "album": {
+        "name": "RISIKO (feat. MK K-Clique, Ghidd, MeerFly, Tuju, Benzooloo)",
+        "url": "https://open.spotify.com/album/2vLmZYqv1G1t2b9M29jYFM"
+      },
+      "artists": [
+        {
+          "name": "Twntytwodegree",
+          "url": "https://open.spotify.com/artist/5FUjZ0QR0zLoEov5g5uzsk"
+        }
+      ],
+      "date_added": "2024-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218400,
+      "name": "RISIKO (feat. MK K-Clique, Ghidd, MeerFly, Tuju, Benzooloo)",
+      "url": "https://open.spotify.com/track/7sjuNsBeiizGSKPTQv4Sc5"
+    },
+    {
+      "album": {
         "name": "Kangen",
         "url": "https://open.spotify.com/album/1Nu57IYMONBk10GTTaVkt7"
       },
@@ -6619,7 +6659,7 @@
       ],
       "date_added": "2024-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-21",
       "duration_ms": 219310,
       "name": "Simfoni Hati Beradu",
       "url": "https://open.spotify.com/track/6uZTWJzR6bj5b3jnHGVhyq"

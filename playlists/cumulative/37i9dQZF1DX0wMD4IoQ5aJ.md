@@ -4,7 +4,7 @@
 
 > Work and study to the sound of soft electronic music.
 
-318 songs - 16 hr 33 min
+323 songs - 16 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -106,6 +106,7 @@
 | [Electric Moon](https://open.spotify.com/track/1vAORWsOWbYpFyxUjWIvRP) | [Venus Bay](https://open.spotify.com/artist/6LUI0R17HWaZZPh7xDYzNp) | [Electric Moon](https://open.spotify.com/album/3FV2nTiKyWzRATZ1ghgeP6) | 3:16 | 2022-04-15 | 2022-05-11 |
 | [Elephant](https://open.spotify.com/track/5nN9ez4MrKn2eeJW5EQIZx) | [RUN](https://open.spotify.com/artist/2qFXvV0t7QXlF7Tdc9YTie) | [Elephant](https://open.spotify.com/album/2urEyKFkHVefwU34yJhee1) | 2:18 | 2023-01-06 | 2023-03-25 |
 | [Encounters](https://open.spotify.com/track/39PAf5P83sN0HQfFFe4OnM) | [Main Foyer](https://open.spotify.com/artist/1Br3cFgH1HTexxFF5OCulE) | [Encounters](https://open.spotify.com/album/4NbBt1t3SETGwzJKZ3urx6) | 2:46 | 2023-01-20 |  |
+| [Enigma](https://open.spotify.com/track/1FcUfCutL1B7b9sOtU7t86) | [In Love Mearas](https://open.spotify.com/artist/5jHQIRcl8h1pnEfuqxL7y9) | [Enigma](https://open.spotify.com/album/5DbpAYJgwZlPxiSNlb3e78) | 2:20 | 2024-03-21 |  |
 | [Essence](https://open.spotify.com/track/3UEqSBDZxPv6dZc6Ysgpyj) | [bombergirl](https://open.spotify.com/artist/79pr8Jy2Fxo9u6EaOxbCAQ) | [Essence](https://open.spotify.com/album/5afNE10Oh6rhMJrDVqPtxL) | 3:14 | 2022-11-25 |  |
 | [evenings with u](https://open.spotify.com/track/1E3LzOvG6zBVvn68sEZZjr) | [Penga Scain](https://open.spotify.com/artist/5A7ldCfxlH3KQLsqAFzhF2) | [evenings with u](https://open.spotify.com/album/39DWG3sn0Fq4yNB2eBnzln) | 2:38 | 2022-10-14 |  |
 | [Eventide](https://open.spotify.com/track/3dZhAToKg4famFWbbqLT1m) | [Milli V](https://open.spotify.com/artist/0LFc7WT26EWXfv0wpPvPcT) | [Eventide](https://open.spotify.com/album/2mypqQlLvZUuDCdq8S1mW6) | 3:08 | 2022-10-07 |  |
@@ -202,6 +203,7 @@
 | [No Trip](https://open.spotify.com/track/2EeloLo4CTPRnhLDzSVuyc) | [Young Community](https://open.spotify.com/artist/1dThUtszO1jevy1BfKlCcR) | [Pinkland](https://open.spotify.com/album/2uEEJf58UChxAoZWm7YGat) | 4:03 | 2022-04-15 |  |
 | [Oak](https://open.spotify.com/track/4kQW1ysBjYl5XePA40NKwT) | [West & Zander](https://open.spotify.com/artist/2Zjic6AMVbL0WvXf5ll1lA) | [Lhotse](https://open.spotify.com/album/0UOdspMM2Np1WVALtBLVdx) | 5:38 | 2022-07-01 | 2023-01-07 |
 | [Oasis](https://open.spotify.com/track/0GnqFaXN9wyxetnG5SfJiL) | [Cantha](https://open.spotify.com/artist/0h3FVpQkufJmhBwXWkg7KL) | [Oasis](https://open.spotify.com/album/3nOZ5S5b8WPYxoYfKvV2Fi) | 2:16 | 2024-02-13 |  |
+| [Oasis](https://open.spotify.com/track/6oBlLthuA2rlSyW6aNsMUi) | [Me Gic](https://open.spotify.com/artist/64VPx6lcReM0kEbCFJqbv1) | [Oasis](https://open.spotify.com/album/19JllErx0pxKFXk0n1inv0) | 2:13 | 2024-03-21 |  |
 | [Odd Numbers](https://open.spotify.com/track/4yh8kzJGue7ONe9rIrNjns) | [RaFa Orchestra](https://open.spotify.com/artist/1Rjd6BlZRbO3RVubcxvips) | [Odd Numbers](https://open.spotify.com/album/5ZMos83Et2B7PmLU36Phge) | 3:16 | 2022-10-07 | 2023-01-07 |
 | [offshore](https://open.spotify.com/track/625WCk8lpyxdQgyN8aJu3d) | [TECHO](https://open.spotify.com/artist/7cLuZ2xmHW5Znuu4jXNpPl) | [offshore](https://open.spotify.com/album/6BfvXlKoifT1TKN3HbeTys) | 3:52 | 2022-09-23 |  |
 | [Offshores](https://open.spotify.com/track/5Qc6qa8gECNH4D8PjrMdYX) | [Koresma](https://open.spotify.com/artist/14EybDMySlkntyuxgm1pek) | [Offshores](https://open.spotify.com/album/4sE90DBI0n7P4Avhm65OIP) | 4:22 | 2022-08-19 |  |
@@ -258,6 +260,7 @@
 | [Secrets Calling](https://open.spotify.com/track/2AzFsaFKGr6aXRulWTawJ4) | [Traingazing](https://open.spotify.com/artist/1AosScBBDX1JEAL6vU8ldj) | [Secrets Calling](https://open.spotify.com/album/3EL9UURXVfZFDzJE2ls3l5) | 3:23 | 2022-04-15 |  |
 | [Serenity](https://open.spotify.com/track/6BrefcF8TggvpBQwhOeSCT) | [dim figure](https://open.spotify.com/artist/73aCJRcmbFDz9Z8hlt1Oq9) | [Serenity](https://open.spotify.com/album/1u4oOmnTTUjiVhs7FNubgy) | 2:47 | 2022-04-15 |  |
 | [Serpent](https://open.spotify.com/track/21e5TcrNrF04HBcc3dalpB) | [Cloode](https://open.spotify.com/artist/0QvInajilVJw8If75PeAH8) | [Serpent](https://open.spotify.com/album/3dFxy73ajfYdf8CJdIhA8D) | 1:53 | 2022-04-15 | 2023-10-05 |
+| [Shadows](https://open.spotify.com/track/4U0mDdy2yoCGqmyncWfMOE) | [Kit Genova](https://open.spotify.com/artist/5qPv4LmK1474Iu4kn5zM9A) | [Shadows](https://open.spotify.com/album/3AiVoan8c8iKcZ6XLTkwQd) | 2:19 | 2024-03-21 |  |
 | [Shimmer](https://open.spotify.com/track/6eAKFdFLyy5Pkj1DUaZJD4) | [David Dumeau](https://open.spotify.com/artist/7w0cV0FuzKwIknB51cxzfQ) | [Shimmer](https://open.spotify.com/album/4ZrpYHfQZeDtrpUrMnVean) | 2:24 | 2022-04-15 | 2022-10-14 |
 | [Shines](https://open.spotify.com/track/6LnSesP9PArE459JFWtLs3) | [Hackney](https://open.spotify.com/artist/7cdiUz1LNwYkklLniGmS1b) | [Shines](https://open.spotify.com/album/5oofuoBuop4mKqjSL61ium) | 2:03 | 2024-01-23 |  |
 | [Sidebar Sally](https://open.spotify.com/track/21ypSBlIsEL8siDMTmufhK) | [Kleo](https://open.spotify.com/artist/24jRJ4wKE0RC9c8M4CUyuK) | [Sidebar Sally](https://open.spotify.com/album/6fnD0mBt9kdNagaR2oBvmu) | 2:55 | 2022-04-15 | 2023-01-07 |
@@ -266,6 +269,7 @@
 | [Skin Deep](https://open.spotify.com/track/1CAozfu6bPDxaKe39x030x) | [Jay FM](https://open.spotify.com/artist/0XHQV1DM8cqEJrB4gRuogs) | [Skin Deep](https://open.spotify.com/album/3pejPyeMAWaEasm6SzmURn) | 2:57 | 2022-04-15 | 2022-06-03 |
 | [Skyline](https://open.spotify.com/track/1kNNHQqmlO5Lgw0slxpdL3) | [One Astra](https://open.spotify.com/artist/3dMytoLrOfFv2VBrrdQzg6) | [Skyline](https://open.spotify.com/album/49uAYCjOOcHK6POXCBiJS5) | 2:24 | 2022-10-14 | 2023-01-07 |
 | [Sleep walk](https://open.spotify.com/track/2pK9bSqCnf8Nn7uSmy9z6S) | [Surdég Broed](https://open.spotify.com/artist/7mKovR2MtFaB4qRQhfzcSx) | [Sleep walk](https://open.spotify.com/album/4x6YXPZxMXwOAUOAU6KPwS) | 3:50 | 2022-09-02 | 2023-01-07 |
+| [Slippery](https://open.spotify.com/track/3DAUV4kgiMBDtmmvm5b9AS) | [In Diooo](https://open.spotify.com/artist/4wxCkW1LyTe4wSkS1TrPFU) | [Slippery](https://open.spotify.com/album/3LGT0k0KX5En5XxDp1TO3X) | 2:19 | 2024-03-21 |  |
 | [Slow Rain](https://open.spotify.com/track/1edBi0eW1gqWWATbHrLJ0Q) | [Sun Mirage](https://open.spotify.com/artist/3wqjOyUcOsV0wSLgCsGwf4) | [It's all clear now](https://open.spotify.com/album/4nZ4IAl00PTqsNs0AmC0GA) | 3:50 | 2022-04-15 |  |
 | [Small Movements](https://open.spotify.com/track/3gO8WiLfYrnVvNwGHlzy1J) | [Dancing Minds](https://open.spotify.com/artist/0jiLNfvHXBnL45hznG0dqB) | [Small Movements](https://open.spotify.com/album/3eLgQL1KvbrbrZyw4YjHDJ) | 3:55 | 2022-04-15 | 2023-05-06 |
 | [Smoke N' Stuff](https://open.spotify.com/track/76GzwL91UGF3mczJ5rD1JU) | [Sum Wave](https://open.spotify.com/artist/0bfdnPaHczaQt6tYe8J4Ci) | [Smoke N' Stuff](https://open.spotify.com/album/2SPGcjGcimqvcsEKBbkCsj) | 3:17 | 2022-11-25 |  |
@@ -319,6 +323,7 @@
 | [Vienna](https://open.spotify.com/track/4Yi1GkoCzBpOLY0vJWFyI6) | [KD Simon](https://open.spotify.com/artist/5vdDoo0msksIJMUMyTwoIe) | [Vienna](https://open.spotify.com/album/0yvjAGN26SS2v1GeCiySAu) | 2:51 | 2022-06-17 | 2023-08-19 |
 | [Walk me home](https://open.spotify.com/track/1BuqwQuyQKhvxa5X3iDkec) | [ohlos](https://open.spotify.com/artist/72l8ZKvwKkr1ZMLzDcFxQC) | [Walk me home](https://open.spotify.com/album/1nn4r3h755kRkcKSrWvw4X) | 2:45 | 2022-05-20 | 2022-07-01 |
 | [Wanderer](https://open.spotify.com/track/094OMEwMng6XcwsSMFUKWi) | [Contrapad](https://open.spotify.com/artist/71Zfyo2kB4HlEexwmxQMv3) | [Wanderer](https://open.spotify.com/album/5859wmoAVfWKUfz6wtaVol) | 3:41 | 2022-04-15 | 2022-05-27 |
+| [Warm Place](https://open.spotify.com/track/2Zr8hwWlpCGBbAVSu13ERC) | [Thoinas](https://open.spotify.com/artist/0QZQ7EFvqi07gUI9UQvNGu) | [Warm Place](https://open.spotify.com/album/0znJ32D0A1EwSrAhnJTRRA) | 3:14 | 2024-03-21 |  |
 | [Watchtower](https://open.spotify.com/track/5cwjq1HlJEwOMOxFr8bPpT) | [Werlie](https://open.spotify.com/artist/6KQ7zOmEoEm2tgJsoYq55x) | [Watchtower](https://open.spotify.com/album/1l95gSxvw9QjvHnl6z0C6C) | 2:38 | 2022-04-15 |  |
 | [Wet Bravado](https://open.spotify.com/track/0ENdomkBjCzYQbHP0ITm6L) | [R Y K](https://open.spotify.com/artist/52GuEcwja1RpI2x3lVaotA) | [Wet Bravado](https://open.spotify.com/album/34q74YXjIBzBlvcOvnEoIV) | 2:43 | 2022-04-15 |  |
 | [What Was It Like](https://open.spotify.com/track/7rwWQ2lBEQvLzalmgIdEH7) | [AK](https://open.spotify.com/artist/33Cf4O1KAVbtQa00scMi2A) | [What Was It Like](https://open.spotify.com/album/5Qgjv6Z2zgtMDtdRQhRDki) | 2:55 | 2022-10-07 |  |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-04-05",
-  "description": "The future of African Indie and Alternative. Cover: Espacio Dios",
+  "description": "The future of African Indie and Alternative. Cover: Sio",
   "name": "ALTER-native",
   "tracks": [
     {
@@ -1548,6 +1548,24 @@
       "duration_ms": 186734,
       "name": "my intentions",
       "url": "https://open.spotify.com/track/6xLC342gJAbWQYG3Td23cn"
+    },
+    {
+      "album": {
+        "name": "No Lymyt",
+        "url": "https://open.spotify.com/album/0vXzKg4qs3SQ9fsHIyOIIH"
+      },
+      "artists": [
+        {
+          "name": "Sio",
+          "url": "https://open.spotify.com/artist/4jLhrV95ZIrW5KFIM5SCsv"
+        }
+      ],
+      "date_added": "2024-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246487,
+      "name": "No Lymyt",
+      "url": "https://open.spotify.com/track/6iyVmsDyy81510Hs9LP6b1"
     },
     {
       "album": {

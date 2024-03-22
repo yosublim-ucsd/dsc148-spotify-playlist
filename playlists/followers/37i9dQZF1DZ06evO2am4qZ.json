@@ -1,5 +1,5 @@
 {
-  "2024-03-21": 4194,
+  "2024-03-22": 4196,
   "date_first_scraped": "2022-10-29",
   "description": "This is Baby Tate. The essential tracks, all in one playlist.",
   "name": "This Is Baby Tate",
@@ -481,7 +481,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-21",
       "duration_ms": 209577,
       "name": "Dirty Girl (with Baby Tate)",
       "url": "https://open.spotify.com/track/7uaf9grGM3ICiLAWv3dcTJ"
@@ -1137,7 +1137,7 @@
       ],
       "date_added": "2023-10-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-01",
+      "date_removed": null,
       "duration_ms": 187400,
       "name": "I Don't Wanna Dance (feat. Baby Tate)",
       "url": "https://open.spotify.com/track/77v0c1CYJ04g9IteCB4Hfu"

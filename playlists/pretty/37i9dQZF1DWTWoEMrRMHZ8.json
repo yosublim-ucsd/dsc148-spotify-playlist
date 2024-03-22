@@ -1,12 +1,12 @@
 {
   "description": "As belas novidades da MPB. Foto: Castello Branco",
-  "num_followers": 346566,
+  "num_followers": 346581,
   "original_name": "Divina MPB",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4NDljNWFiNjUyOWEzNTc1MmVjNjIwZmE4NDQyM2UzYzZmNDk0MDQ3",
+  "snapshot_id": "MCw5OWMwZDRiNjE3YzY4ZjZiZmZkMjMxZDkwMjViMjZlYjZmYmU2ZTRj",
   "tracks": [
     {
       "added_at": "2024-03-18 14:00:19",
@@ -159,22 +159,6 @@
     {
       "added_at": "2024-03-18 14:00:19",
       "album": {
-        "name": "DARAM\u00d4",
-        "url": "https://open.spotify.com/album/0O0QBrT05nhkoMIpjLznk1"
-      },
-      "artists": [
-        {
-          "name": "TIAGO IORC",
-          "url": "https://open.spotify.com/artist/4iWkwAVzssjb8XgxdoOL6M"
-        }
-      ],
-      "duration_ms": 176173,
-      "name": "saudade boa",
-      "url": "https://open.spotify.com/track/1Mta8Wl8SCnOv9C6MdTrnr"
-    },
-    {
-      "added_at": "2024-03-18 14:00:19",
-      "album": {
         "name": "No Escuro",
         "url": "https://open.spotify.com/album/5cPLhv2TI5JgIX3Gmfq9bI"
       },
@@ -191,6 +175,22 @@
       "duration_ms": 238384,
       "name": "No Escuro",
       "url": "https://open.spotify.com/track/2pWMc34naG2miGcu5R4kYY"
+    },
+    {
+      "added_at": "2024-03-18 14:00:19",
+      "album": {
+        "name": "DARAM\u00d4",
+        "url": "https://open.spotify.com/album/0O0QBrT05nhkoMIpjLznk1"
+      },
+      "artists": [
+        {
+          "name": "TIAGO IORC",
+          "url": "https://open.spotify.com/artist/4iWkwAVzssjb8XgxdoOL6M"
+        }
+      ],
+      "duration_ms": 176173,
+      "name": "saudade boa",
+      "url": "https://open.spotify.com/track/1Mta8Wl8SCnOv9C6MdTrnr"
     },
     {
       "added_at": "2024-03-18 14:00:19",
@@ -303,22 +303,6 @@
     {
       "added_at": "2024-03-18 14:00:19",
       "album": {
-        "name": "Amor Todinho",
-        "url": "https://open.spotify.com/album/6twToesubSRehurAORMXrC"
-      },
-      "artists": [
-        {
-          "name": "Lizandra",
-          "url": "https://open.spotify.com/artist/3sxbfZzDDFlTIqJ8jBwLLl"
-        }
-      ],
-      "duration_ms": 157118,
-      "name": "Amor Todinho",
-      "url": "https://open.spotify.com/track/2N4mZBmWI75yROTcGZwnux"
-    },
-    {
-      "added_at": "2024-03-18 14:00:19",
-      "album": {
         "name": "Mais Uma Hist\u00f3ria de Amor",
         "url": "https://open.spotify.com/album/4XXu5ordSf46OyKWo9hCqi"
       },
@@ -335,6 +319,22 @@
       "duration_ms": 150000,
       "name": "A Gente Tem Tudo a Ver",
       "url": "https://open.spotify.com/track/1I98yrIyHHnnHTWNMosWEk"
+    },
+    {
+      "added_at": "2024-03-18 14:00:19",
+      "album": {
+        "name": "Amor Todinho",
+        "url": "https://open.spotify.com/album/6twToesubSRehurAORMXrC"
+      },
+      "artists": [
+        {
+          "name": "Lizandra",
+          "url": "https://open.spotify.com/artist/3sxbfZzDDFlTIqJ8jBwLLl"
+        }
+      ],
+      "duration_ms": 157118,
+      "name": "Amor Todinho",
+      "url": "https://open.spotify.com/track/2N4mZBmWI75yROTcGZwnux"
     },
     {
       "added_at": "2024-03-18 14:00:19",
@@ -379,26 +379,6 @@
     {
       "added_at": "2024-03-18 14:00:19",
       "album": {
-        "name": "Jardins Da Babil\u00f4nia",
-        "url": "https://open.spotify.com/album/17eUYWC6XmUTbYFQ94wP0e"
-      },
-      "artists": [
-        {
-          "name": "J\u00e3o",
-          "url": "https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2"
-        },
-        {
-          "name": "Julia Mestre",
-          "url": "https://open.spotify.com/artist/1FnGKreDca8xq3juSi5hAE"
-        }
-      ],
-      "duration_ms": 177546,
-      "name": "Jardins Da Babil\u00f4nia",
-      "url": "https://open.spotify.com/track/6hiez1vBKYqDdPKCQOIEg0"
-    },
-    {
-      "added_at": "2024-03-18 14:00:19",
-      "album": {
         "name": "A Morte de um Deus de Sal",
         "url": "https://open.spotify.com/album/019T33OgzsIGyamxapvv6V"
       },
@@ -431,6 +411,26 @@
       "duration_ms": 203810,
       "name": "A Morte de um Deus de Sal",
       "url": "https://open.spotify.com/track/3tHHQAgaaiV9XvogI00MBy"
+    },
+    {
+      "added_at": "2024-03-18 14:00:19",
+      "album": {
+        "name": "Jardins Da Babil\u00f4nia",
+        "url": "https://open.spotify.com/album/17eUYWC6XmUTbYFQ94wP0e"
+      },
+      "artists": [
+        {
+          "name": "J\u00e3o",
+          "url": "https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2"
+        },
+        {
+          "name": "Julia Mestre",
+          "url": "https://open.spotify.com/artist/1FnGKreDca8xq3juSi5hAE"
+        }
+      ],
+      "duration_ms": 177546,
+      "name": "Jardins Da Babil\u00f4nia",
+      "url": "https://open.spotify.com/track/6hiez1vBKYqDdPKCQOIEg0"
     },
     {
       "added_at": "2024-03-18 14:00:19",
@@ -595,26 +595,6 @@
     {
       "added_at": "2024-03-18 14:00:19",
       "album": {
-        "name": "Pago Pra Ver",
-        "url": "https://open.spotify.com/album/0NBS6JybiWavZoRw4vgwOD"
-      },
-      "artists": [
-        {
-          "name": "Roberta S\u00e1",
-          "url": "https://open.spotify.com/artist/4vKCAkbdulcqatglgbi5CG"
-        },
-        {
-          "name": "Zeca Pagodinho",
-          "url": "https://open.spotify.com/artist/3qZ2n5keOAat1SoF6bHwmb"
-        }
-      ],
-      "duration_ms": 272559,
-      "name": "Pago Pra Ver",
-      "url": "https://open.spotify.com/track/51i39xBUMKudsDCPqjQF1h"
-    },
-    {
-      "added_at": "2024-03-18 14:00:19",
-      "album": {
         "name": "Faz Parte Do Meu Show",
         "url": "https://open.spotify.com/album/4YyhntF13f93ty7GdhyjI1"
       },
@@ -631,6 +611,26 @@
       "duration_ms": 163426,
       "name": "Faz Parte Do Meu Show",
       "url": "https://open.spotify.com/track/2c9cy32pkhuznDXIN0eWMG"
+    },
+    {
+      "added_at": "2024-03-18 14:00:19",
+      "album": {
+        "name": "Pago Pra Ver",
+        "url": "https://open.spotify.com/album/0NBS6JybiWavZoRw4vgwOD"
+      },
+      "artists": [
+        {
+          "name": "Roberta S\u00e1",
+          "url": "https://open.spotify.com/artist/4vKCAkbdulcqatglgbi5CG"
+        },
+        {
+          "name": "Zeca Pagodinho",
+          "url": "https://open.spotify.com/artist/3qZ2n5keOAat1SoF6bHwmb"
+        }
+      ],
+      "duration_ms": 272559,
+      "name": "Pago Pra Ver",
+      "url": "https://open.spotify.com/track/51i39xBUMKudsDCPqjQF1h"
     },
     {
       "added_at": "2024-03-18 14:00:19",
@@ -1247,6 +1247,22 @@
     {
       "added_at": "2024-03-18 14:00:19",
       "album": {
+        "name": "V\u00e1 Com Deus",
+        "url": "https://open.spotify.com/album/3bJQlPAJkRqwdGAelkccNh"
+      },
+      "artists": [
+        {
+          "name": "Doral",
+          "url": "https://open.spotify.com/artist/3yMvydJf1VUFfuFjdYK3Hp"
+        }
+      ],
+      "duration_ms": 172268,
+      "name": "V\u00e1 Com Deus",
+      "url": "https://open.spotify.com/track/7HzpaONbbliAzPvtnh96UC"
+    },
+    {
+      "added_at": "2024-03-18 14:00:19",
+      "album": {
         "name": "2023",
         "url": "https://open.spotify.com/album/0NwDg971pu7KeDgnbrueEq"
       },
@@ -1327,22 +1343,6 @@
     {
       "added_at": "2024-03-18 14:00:19",
       "album": {
-        "name": "V\u00e1 Com Deus",
-        "url": "https://open.spotify.com/album/3bJQlPAJkRqwdGAelkccNh"
-      },
-      "artists": [
-        {
-          "name": "Doral",
-          "url": "https://open.spotify.com/artist/3yMvydJf1VUFfuFjdYK3Hp"
-        }
-      ],
-      "duration_ms": 172268,
-      "name": "V\u00e1 Com Deus",
-      "url": "https://open.spotify.com/track/7HzpaONbbliAzPvtnh96UC"
-    },
-    {
-      "added_at": "2024-03-18 14:00:19",
-      "album": {
         "name": "O Amor Mata Sim",
         "url": "https://open.spotify.com/album/1xbBPaoeswYFhlas5WJxih"
       },
@@ -1379,6 +1379,22 @@
     {
       "added_at": "2024-03-18 14:00:19",
       "album": {
+        "name": "A Gra\u00e7a Delas",
+        "url": "https://open.spotify.com/album/2gS1Td8bVvmp817bN9nTbN"
+      },
+      "artists": [
+        {
+          "name": "Gra\u00e7a Cunha",
+          "url": "https://open.spotify.com/artist/4glKqNjKUaUDvxlihkNuwc"
+        }
+      ],
+      "duration_ms": 201571,
+      "name": "Os Cabelos Dela",
+      "url": "https://open.spotify.com/track/4zZw9edlH0A52ldxB9I49Q"
+    },
+    {
+      "added_at": "2024-03-18 14:00:19",
+      "album": {
         "name": "Doce Carnaval",
         "url": "https://open.spotify.com/album/6yeamXA0Sxk8QvgOkRZXXB"
       },
@@ -1395,22 +1411,6 @@
       "duration_ms": 270186,
       "name": "Mal Acostumada",
       "url": "https://open.spotify.com/track/2t1oKq2C9Qa2ZrvwxIe8Ab"
-    },
-    {
-      "added_at": "2024-03-18 14:00:19",
-      "album": {
-        "name": "A Gra\u00e7a Delas",
-        "url": "https://open.spotify.com/album/2gS1Td8bVvmp817bN9nTbN"
-      },
-      "artists": [
-        {
-          "name": "Gra\u00e7a Cunha",
-          "url": "https://open.spotify.com/artist/4glKqNjKUaUDvxlihkNuwc"
-        }
-      ],
-      "duration_ms": 201571,
-      "name": "Os Cabelos Dela",
-      "url": "https://open.spotify.com/track/4zZw9edlH0A52ldxB9I49Q"
     },
     {
       "added_at": "2024-03-18 14:00:19",

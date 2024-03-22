@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWpHR8v2FGW4.md) - [plain]
 
 > Always come in 1st place.
 
-[Spotify](https://open.spotify.com/user/spotify) - 285,472 likes - 50 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 285,532 likes - 50 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWpHR8v2FGW4.md) - [plain]
 | 49 | [I don't give a Fuck](https://open.spotify.com/track/7dicq7Osp4mJvqRRFg4EOY) | [Butch U](https://open.spotify.com/artist/6OwRAMGY105QbVOJqNHk0o), [NICESKEIK](https://open.spotify.com/artist/4yP08tX8zhyAQLFZDLLA6D) | [I don't give a Fuck](https://open.spotify.com/album/3qC18tclXE1DFHzQKqTRAM) | 2:17 |
 | 50 | [Can't Get Enough](https://open.spotify.com/track/1B2qo30ncWnpQ1i0Ze097V) | [Lee Mvtthews](https://open.spotify.com/artist/2rf0ufpy1NIUGmEHqq27GC), [Ella Monnery](https://open.spotify.com/artist/1FD0AA37DenDFODrf9zovI) | [Exit](https://open.spotify.com/album/0a7MXviIpVxVePjVl5Rf6J) | 4:30 |
 
-Snapshot ID: `MCxlYzEzMjQwZWI4MDY3NjU5YTAxNTA1NmM2NThmYmNjNzg2OGIzNDE2`
+Snapshot ID: `MCxkMTVjNjNhZTU5NDM1N2Q2MzYyMWNmYzY3ZDc3Zjc4MTc5NGYyNGE0`

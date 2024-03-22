@@ -1,12 +1,12 @@
 {
   "description": "Queeeima pared\u00e3o! Pra forrozeiro sofrer dan\u00e7ando e dan\u00e7ar sofrendo, bora.",
-  "num_followers": 239309,
+  "num_followers": 239401,
   "original_name": "Bora arrochar",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0YjU3YzU5MTE4YTZlMzVlMGQ2ZWI4NDAyOTk5ODU5Zjg0ODVkMTJm",
+  "snapshot_id": "MCwzNzcyZWVjOGVhYTU2ZDg1Yjg0Nzk3ODUzMGQ3YWQzY2FiOWJjNjVj",
   "tracks": [
     {
       "added_at": "2024-02-23 15:22:38",
@@ -339,6 +339,22 @@
     {
       "added_at": "2024-02-23 15:22:38",
       "album": {
+        "name": "O Pai Das Crian\u00e7as (Part. 1)",
+        "url": "https://open.spotify.com/album/7Dv7PY99nacoKmLbNdVzJu"
+      },
+      "artists": [
+        {
+          "name": "Tierry",
+          "url": "https://open.spotify.com/artist/4FUMTycjZlEY6ZxMgqNjC8"
+        }
+      ],
+      "duration_ms": 147401,
+      "name": "Cabe\u00e7a Branca",
+      "url": "https://open.spotify.com/track/5zswDNRhJSXuvhJXJGQTFK"
+    },
+    {
+      "added_at": "2024-02-23 15:22:38",
+      "album": {
         "name": "Errejota (ao Vivo)",
         "url": "https://open.spotify.com/album/4M7Y8n5FAOrrruH2ewe04k"
       },
@@ -355,22 +371,6 @@
       "duration_ms": 231680,
       "name": "Algo Mais (Amante) - Ao Vivo",
       "url": "https://open.spotify.com/track/4jGzR5Vri06Y5T9SxM7m5P"
-    },
-    {
-      "added_at": "2024-02-23 15:22:38",
-      "album": {
-        "name": "O Pai Das Crian\u00e7as (Part. 1)",
-        "url": "https://open.spotify.com/album/7Dv7PY99nacoKmLbNdVzJu"
-      },
-      "artists": [
-        {
-          "name": "Tierry",
-          "url": "https://open.spotify.com/artist/4FUMTycjZlEY6ZxMgqNjC8"
-        }
-      ],
-      "duration_ms": 147401,
-      "name": "Cabe\u00e7a Branca",
-      "url": "https://open.spotify.com/track/5zswDNRhJSXuvhJXJGQTFK"
     },
     {
       "added_at": "2024-02-23 15:22:38",
@@ -443,6 +443,26 @@
     {
       "added_at": "2024-02-23 15:22:38",
       "album": {
+        "name": "Todos Os Ritmos",
+        "url": "https://open.spotify.com/album/2Jim2Tr9XtfwdDB5ZsmI6u"
+      },
+      "artists": [
+        {
+          "name": "Xand Avi\u00e3o",
+          "url": "https://open.spotify.com/artist/43DRDu6nLSeIedZ7T1A616"
+        },
+        {
+          "name": "Os Bar\u00f5es Da Pisadinha",
+          "url": "https://open.spotify.com/artist/5Lv2GUVwqmQBPwrTrxucE5"
+        }
+      ],
+      "duration_ms": 197233,
+      "name": "Ela Aperta a Minha Mente",
+      "url": "https://open.spotify.com/track/1T3hcBQRwacjWLuJJFt8co"
+    },
+    {
+      "added_at": "2024-02-23 15:22:38",
+      "album": {
         "name": "Tanto Faz (Ao Vivo)",
         "url": "https://open.spotify.com/album/6wikeTuyirSNGsZH1ZaEN1"
       },
@@ -499,26 +519,6 @@
       "duration_ms": 180410,
       "name": "Comunica\u00e7\u00e3o Falhou - Ao Vivo",
       "url": "https://open.spotify.com/track/55L3RVujZtkR96JIEgTbQg"
-    },
-    {
-      "added_at": "2024-02-23 15:22:38",
-      "album": {
-        "name": "Todos Os Ritmos",
-        "url": "https://open.spotify.com/album/2Jim2Tr9XtfwdDB5ZsmI6u"
-      },
-      "artists": [
-        {
-          "name": "Xand Avi\u00e3o",
-          "url": "https://open.spotify.com/artist/43DRDu6nLSeIedZ7T1A616"
-        },
-        {
-          "name": "Os Bar\u00f5es Da Pisadinha",
-          "url": "https://open.spotify.com/artist/5Lv2GUVwqmQBPwrTrxucE5"
-        }
-      ],
-      "duration_ms": 197233,
-      "name": "Ela Aperta a Minha Mente",
-      "url": "https://open.spotify.com/track/1T3hcBQRwacjWLuJJFt8co"
     },
     {
       "added_at": "2024-02-23 15:22:38",
@@ -871,26 +871,6 @@
     {
       "added_at": "2024-02-23 15:22:38",
       "album": {
-        "name": "Quem Me Dera",
-        "url": "https://open.spotify.com/album/4dnvHZqul9z0csYtnHcHw7"
-      },
-      "artists": [
-        {
-          "name": "M\u00e1rcia Fellipe",
-          "url": "https://open.spotify.com/artist/3OxZ4asD88P1lJJmLcXz4K"
-        },
-        {
-          "name": "Jerry Smith",
-          "url": "https://open.spotify.com/artist/6OpOg5HVCc8xVf7OVrd5Fk"
-        }
-      ],
-      "duration_ms": 147990,
-      "name": "Quem Me Dera",
-      "url": "https://open.spotify.com/track/29dRTbLTxRaSl63DIzbjvl"
-    },
-    {
-      "added_at": "2024-02-23 15:22:38",
-      "album": {
         "name": "Mantenha Dist\u00e2ncia",
         "url": "https://open.spotify.com/album/26GulP7pTxfqLFVgdAwJAS"
       },
@@ -907,6 +887,26 @@
       "duration_ms": 145307,
       "name": "Mantenha Dist\u00e2ncia",
       "url": "https://open.spotify.com/track/4fs0ImTtUd9lfD7WA7edUX"
+    },
+    {
+      "added_at": "2024-02-23 15:22:38",
+      "album": {
+        "name": "Quem Me Dera",
+        "url": "https://open.spotify.com/album/4dnvHZqul9z0csYtnHcHw7"
+      },
+      "artists": [
+        {
+          "name": "M\u00e1rcia Fellipe",
+          "url": "https://open.spotify.com/artist/3OxZ4asD88P1lJJmLcXz4K"
+        },
+        {
+          "name": "Jerry Smith",
+          "url": "https://open.spotify.com/artist/6OpOg5HVCc8xVf7OVrd5Fk"
+        }
+      ],
+      "duration_ms": 147990,
+      "name": "Quem Me Dera",
+      "url": "https://open.spotify.com/track/29dRTbLTxRaSl63DIzbjvl"
     },
     {
       "added_at": "2024-02-23 15:22:38",
@@ -1335,8 +1335,8 @@
     {
       "added_at": "2024-02-23 15:22:38",
       "album": {
-        "name": "Adivinha A\u00ed",
-        "url": "https://open.spotify.com/album/4ZOltnZGREqjx7I1FSf1Xj"
+        "name": "O Estouro das Vaquejadas",
+        "url": "https://open.spotify.com/album/0CgvVfyNywoIw0rcFsdgsD"
       },
       "artists": [
         {
@@ -1344,9 +1344,9 @@
           "url": "https://open.spotify.com/artist/5K8Rmjmf4RZFffz94EmBRt"
         }
       ],
-      "duration_ms": 156315,
-      "name": "Adivinha A\u00ed",
-      "url": "https://open.spotify.com/track/36VuUsoIGq395mwQFhhXfY"
+      "duration_ms": 162721,
+      "name": "Decida",
+      "url": "https://open.spotify.com/track/26SiLqV7fI8m3ruKzI0hpz"
     },
     {
       "added_at": "2024-02-23 15:22:38",
@@ -1419,8 +1419,8 @@
     {
       "added_at": "2024-02-23 15:22:38",
       "album": {
-        "name": "O Estouro das Vaquejadas",
-        "url": "https://open.spotify.com/album/0CgvVfyNywoIw0rcFsdgsD"
+        "name": "Adivinha A\u00ed",
+        "url": "https://open.spotify.com/album/4ZOltnZGREqjx7I1FSf1Xj"
       },
       "artists": [
         {
@@ -1428,9 +1428,9 @@
           "url": "https://open.spotify.com/artist/5K8Rmjmf4RZFffz94EmBRt"
         }
       ],
-      "duration_ms": 162721,
-      "name": "Decida",
-      "url": "https://open.spotify.com/track/26SiLqV7fI8m3ruKzI0hpz"
+      "duration_ms": 156315,
+      "name": "Adivinha A\u00ed",
+      "url": "https://open.spotify.com/track/36VuUsoIGq395mwQFhhXfY"
     },
     {
       "added_at": "2024-02-23 15:22:38",

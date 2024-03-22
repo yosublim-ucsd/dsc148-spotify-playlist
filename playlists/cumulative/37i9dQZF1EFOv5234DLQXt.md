@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/625Qzz0OJmeDpIbOZwjf8G">Gustavo Cerati</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-116 songs - 8 hr 5 min
+117 songs - 8 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,7 +64,8 @@
 | [Imágenes Retro \- Me Verás Volver Gira 2007](https://open.spotify.com/track/3ANCmPnNk0WBxNgBrBpLsp) | [Soda Stereo](https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp) | [Gira Me Verás Volver](https://open.spotify.com/album/4Sy7VzDS4j1MLIYF85grsZ) | 4:24 | 2024-01-29 |  |
 | [Juegos de Seducción](https://open.spotify.com/track/6KPkjg3gBRxx3An5BVSBo9) | [Soda Stereo](https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp) | [Originales \- 20 Exitos](https://open.spotify.com/album/75LbseLsPdTkMO9oUD9J8n) | 3:17 | 2024-01-29 |  |
 | [Karaoke](https://open.spotify.com/track/6sLY33z3QsMa9HnzCvXcGT) | [Gustavo Cerati](https://open.spotify.com/artist/1QOmebWGB6FdFtW7Bo3F0W) | [Siempre Es Hoy](https://open.spotify.com/album/46Yq9oqsaZJb9ahoMk9iVd) | 3:54 | 2024-01-29 |  |
-| [La Excepción](https://open.spotify.com/track/3pA1uBElkRirzdX7X9bTuR) | [mad in Poland](https://open.spotify.com/artist/4cdGAQzkjSs0o7PYeRlTt1) | [Gustavo Stereo](https://open.spotify.com/album/5rk5uZqutmQIJUO4Zm4aJV) | 4:08 | 2024-01-29 |  |
+| [La Excepción](https://open.spotify.com/track/3yjXwM2zsKJKjsdxIe93pp) | [Gustavo Cerati](https://open.spotify.com/artist/1QOmebWGB6FdFtW7Bo3F0W) | [Ahí Vamos](https://open.spotify.com/album/7KHNK7l8peO0t95I1v7BmP) | 4:11 | 2024-03-21 |  |
+| [La Excepción](https://open.spotify.com/track/3pA1uBElkRirzdX7X9bTuR) | [mad in Poland](https://open.spotify.com/artist/4cdGAQzkjSs0o7PYeRlTt1) | [Gustavo Stereo](https://open.spotify.com/album/5rk5uZqutmQIJUO4Zm4aJV) | 4:08 | 2024-01-29 | 2024-03-22 |
 | [Languis \- Remasterizado 2007](https://open.spotify.com/track/18D08bgPEem469x1bjxIXM) | [Soda Stereo](https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp) | [Doble Vida \(Remastered\)](https://open.spotify.com/album/0mEY1U7SZdIwDWylFm2UC4) | 3:54 | 2024-01-29 |  |
 | [Lisa](https://open.spotify.com/track/3ac2SnHk4KYjP2Au4ZL7eu) | [Gustavo Cerati](https://open.spotify.com/artist/1QOmebWGB6FdFtW7Bo3F0W) | [Amor Amarillo](https://open.spotify.com/album/75onhE4ne52iMHlVcpHUKR) | 4:25 | 2024-01-29 |  |
 | [Lo Que Sangra \(La Cupula\) \[Made Popular By Soda Stereo\] \[Karaoke Version\]](https://open.spotify.com/track/2lHEeVNLhNvbPrhUfPvkWt) | [Party Tyme Karaoke](https://open.spotify.com/artist/3JoDcjZtpq0ccldFgYmeAB) | [Party Tyme Karaoke \- Latin Rock Hits 2](https://open.spotify.com/album/3CzO83NnQvH7AdBrJQ3pue) | 4:30 | 2024-01-29 |  |

@@ -4,7 +4,7 @@
 
 > Relax and unwind with gentle piano covers.
 
-398 songs - 21 hr 7 min
+402 songs - 21 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -133,6 +133,7 @@
 | [Goodbye Yellow Brick Road](https://open.spotify.com/track/2qJsAAXFRJDzBDPnGD1HgA) | [Moonsong](https://open.spotify.com/artist/5AjSOMFkn9lSiVC64euKjX) | [Goodbye Yellow Brick Road](https://open.spotify.com/album/3NQazGgBW6d4uioUvaaYx7) | 2:14 | 2023-12-22 |  |
 | [Groovy Kind Of Love](https://open.spotify.com/track/6faVa20KtdwfyzsJ6PaohE) | [Pequeño Casero](https://open.spotify.com/artist/78lsXTokMcrytsGHc6jtf9) | [Groovy Kind Of Love](https://open.spotify.com/album/6swG5Fj4XarYTsnOm3CVAk) | 3:12 | 2022-11-18 |  |
 | [Hallelujah](https://open.spotify.com/track/4YZwWfva9YsKx2Xoo5eCBK) | [Brian Crain](https://open.spotify.com/artist/6roo9MjIl9htSsX2Snnipb) | [Piano and Light](https://open.spotify.com/album/0X03bt3jajm7DMCZ2L2SAl) | 4:11 | 2022-08-01 | 2022-10-15 |
+| [Hallelujah](https://open.spotify.com/track/5Ejj6d6NWhR1g9oymWBlm2) | [Ron Lopata](https://open.spotify.com/artist/126P8vRqW1X8AOS0LfKbtA) | [Hallelujah](https://open.spotify.com/album/1pQ8qDBJqljz1SzaYXswJt) | 2:54 | 2024-03-22 |  |
 | [Hallelujah](https://open.spotify.com/track/4vXkT1Dgel9Y3W9V3IvM74) | [William Chu](https://open.spotify.com/artist/1OMbaqIBBz86y7FdoMcwMv) | [Hallelujah](https://open.spotify.com/album/38alZxIo99eD19U9ldrQSl) | 2:44 | 2022-10-14 | 2022-11-19 |
 | [Hallelujah \- Piano Version](https://open.spotify.com/track/7tW7bfj8kHzZREXxNXzCG5) | [Vincent Fanguro](https://open.spotify.com/artist/4VWpxQlVnMltoRKKVToSJM) | [Calm Piano Covers no 1](https://open.spotify.com/album/1e92hWodKmzfDtXDaAyEiP) | 3:35 | 2022-11-18 | 2023-06-09 |
 | [Halo](https://open.spotify.com/track/4lu6zYkghmAlCnDcgKqJcY) | [Mia Carrera](https://open.spotify.com/artist/00zoOzjXViIF4Fs8XQSK9m) | [Halo](https://open.spotify.com/album/0ud9AD3KGlQX1NRLJQpOQ4) | 3:30 | 2022-08-01 |  |
@@ -316,6 +317,7 @@
 | [STAY](https://open.spotify.com/track/4jxD83ZUvK2YkOGN7IgfBq) | [Nora Gray](https://open.spotify.com/artist/6Q2lui7LkSzE2Ah2EG2gla) | [STAY](https://open.spotify.com/album/2rB55ubwvBGMkWYaAow5Uw) | 3:08 | 2023-04-28 | 2023-08-23 |
 | [Stay](https://open.spotify.com/track/18UzagiSaYLgfKfK8On0SP) | [Nora Gray](https://open.spotify.com/artist/6Q2lui7LkSzE2Ah2EG2gla) | [Stay](https://open.spotify.com/album/7kOIdDWDFiP5qjelqOyH8C) | 3:51 | 2023-04-14 |  |
 | [Summer Of '69 \- Piano Version](https://open.spotify.com/track/4qQaGERlp7y1Uhe8B6rQIk) | [Mark Benson](https://open.spotify.com/artist/1IaIpFqqzozfCnPECU9vOb) | [Piano Favorites 4](https://open.spotify.com/album/1qHmg3HEV4zNKOO54X6H4X) | 3:33 | 2022-11-18 | 2023-05-06 |
+| [Sunflower](https://open.spotify.com/track/0Q3UrvVVAPzv72nTWLzTRv) | [Lars Florence](https://open.spotify.com/artist/4ruYri05LUlpHAX2k9Pyo2) | [Sunflower](https://open.spotify.com/album/5jOXGrdg6dzNWAc2YmpPfm) | 3:10 | 2024-03-22 |  |
 | [Sunroof \- Piano](https://open.spotify.com/track/2hNUsP1vEQ5E5qx5QefQ71) | [Teddy Knight](https://open.spotify.com/artist/0fOXXu7hSPOCnufvtl9xd7) | [Sunroof \(Piano\)](https://open.spotify.com/album/6zTeSMLxgbU7nwv5wABYyH) | 2:32 | 2022-11-18 | 2023-04-12 |
 | [Sunroof \- Piano](https://open.spotify.com/track/7FtESnSNTkKTJWxdCrp53D) | [Teddy Knight](https://open.spotify.com/artist/0fOXXu7hSPOCnufvtl9xd7) | [Sunroof \(Piano\)](https://open.spotify.com/album/0cyeyZENgVLFMkjL4MRcHr) | 2:32 | 2023-03-17 |  |
 | [Supalonely](https://open.spotify.com/track/3HrYCvi0YDRPf4rJAVKEt7) | [Loftet](https://open.spotify.com/artist/7JWt3Kh3FNVfaVQptxoT12) | [Shallow](https://open.spotify.com/album/1ZZQhPeQN3jKVkzNCiTiXU) | 2:55 | 2022-12-16 | 2023-05-06 |
@@ -331,6 +333,7 @@
 | [Thank You For The Music](https://open.spotify.com/track/5ulQSckssGmu09iyxlgCYc) | [Christian Lindquist](https://open.spotify.com/artist/2QiW536ikg1NgIkaCvRg8s) | [Thank You For The Music](https://open.spotify.com/album/4CJ1FrArr8OwNTKIYryekH) | 3:26 | 2023-01-06 |  |
 | [That's The Way It Is](https://open.spotify.com/track/4xMDyCESzvK2wNxeslM8M5) | [Diego Dumas](https://open.spotify.com/artist/7lhYdashTGE8O0urnHyWdB) | [Céline Piano Covers](https://open.spotify.com/album/7nJe5fPZkiHCxQ4OPGuj8k) | 2:44 | 2023-04-14 |  |
 | [THATS WHAT I WANT](https://open.spotify.com/track/2291OZxZ4Ra3FNKDhljgBr) | [Loftet](https://open.spotify.com/artist/7JWt3Kh3FNVfaVQptxoT12) | [CUFF IT](https://open.spotify.com/album/4yU9HvloC2VTTKnTqlNT4P) | 3:19 | 2023-03-17 |  |
+| [The final countdown](https://open.spotify.com/track/63VSSY49F6356Lu87MxENx) | [Dan Goten](https://open.spotify.com/artist/7zXPCJltIcz9RxTp01GyeC) | [The final countdown](https://open.spotify.com/album/6Ol7Ix94ugJsxWppUl3n7R) | 2:37 | 2024-03-22 |  |
 | [The First Cut Is The Deepest](https://open.spotify.com/track/2AOwriifqUUyINxFwNqItE) | [Mick Fazio](https://open.spotify.com/artist/62ZayiWK1lr4ROa7YqpKkx) | [Songs for Sunday](https://open.spotify.com/album/0NqYqAmh1MwXEoJJPYBFwt) | 3:16 | 2022-08-01 | 2024-01-19 |
 | [The Joke](https://open.spotify.com/track/3Sq6BHPQVRWE9WHvFDQzNz) | [Zola Davis](https://open.spotify.com/artist/78EI36rEoD1ZiOHSgYroWP) | [The Joke](https://open.spotify.com/album/5jPbLh8xYOuczLIsnHeDng) | 3:31 | 2022-08-01 |  |
 | [The Joker And The Queen](https://open.spotify.com/track/50b9WR0RsWdG0pvgTzQQhi) | [Matthew Rai](https://open.spotify.com/artist/5BqSUu52p300lc3r4riijz) | [The Joker And The Queen](https://open.spotify.com/album/0cnOgEre1gyqiJr9lz6LwB) | 3:42 | 2022-08-01 |  |
@@ -383,6 +386,7 @@
 | [Where Is My Mind \- Piano Version](https://open.spotify.com/track/0zQtjScTZ86NyycgdwdoKm) | [Franzo Lombardi](https://open.spotify.com/artist/15ni2yrvUsiGIc3jelBMt0) | [Where Is My Mind \(Piano Version\)](https://open.spotify.com/album/3Y8Rhwn1EIQbfcVNyNQCRX) | 2:57 | 2022-08-01 | 2023-06-23 |
 | [Wicked Game](https://open.spotify.com/track/2xdZFU10kxBAZSyImawWkf) | [Claire Haeving](https://open.spotify.com/artist/1TwEiPFLOc40tfIB7EvaWX) | [Uncovered](https://open.spotify.com/album/0xOfEKGbSpYALqMH3IHahO) | 3:10 | 2022-08-01 | 2023-08-30 |
 | [Wild Horses](https://open.spotify.com/track/0w4UTfFR62G4Tv0u1lJIED) | [Richard Goldsworthy](https://open.spotify.com/artist/0W0vripYNU4cqxy3abRYuO) | [Wild Horses](https://open.spotify.com/album/7ojqnKT6vCuQN5yG9arN1N) | 3:56 | 2022-08-01 | 2022-12-17 |
+| [Wind Of Change](https://open.spotify.com/track/7xYSleWEppumLFfcae1D2F) | [Kim Jonas](https://open.spotify.com/artist/1FlrpSI88fx7RNjHNHbc2H) | [Wind Of Change](https://open.spotify.com/album/0sTLdlhQTr2ZjxdTlr2HcI) | 3:13 | 2024-03-22 |  |
 | [With or without you](https://open.spotify.com/track/5ySNvjc6U7c4TDhRgqNdJh) | [Anissa Henderson](https://open.spotify.com/artist/7hWN9tSQOmj0pafX5UWsjE) | [With or without you](https://open.spotify.com/album/2hzBunUPQX0klUidFYR9Ux) | 2:36 | 2023-11-17 |  |
 | [Without you](https://open.spotify.com/track/1Pplkqiz45fRq73OxgrHQL) | [Leona Boyd](https://open.spotify.com/artist/7jEJ0zKV57ryzZm5tEVGJe) | [Without you](https://open.spotify.com/album/1zyivnqvuiBNnVS8YoAmtK) | 3:11 | 2022-10-14 |  |
 | [Without You \- Piano](https://open.spotify.com/track/6uec8Q21Q85N9lj0fDLiYA) | [The Bedtime Orchestra](https://open.spotify.com/artist/2YNrq9cmdroJa9v8kmKmsr) | [Without You \(Piano\)](https://open.spotify.com/album/0fyycke18sjAPaJ36osEa0) | 2:22 | 2022-12-16 | 2023-04-12 |

@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5OWRwJruafQ.md) - [plain]
 
 > Keep it Punjabi, Keep it Real\. Cover: Tarsem Jassar
 
-[Spotify](https://open.spotify.com/user/spotify) - 78,620 likes - 100 songs - 4 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 78,638 likes - 100 songs - 4 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Kingpin The Next Episode](https://open.spotify.com/track/5TJb1FKg6Fa2zRcTqifRtm) | [Tarsem Jassar](https://open.spotify.com/artist/67XQGZSc63AMXMINY8H7Fx), [Wazir Patar](https://open.spotify.com/artist/3bCfmBmsKvp4UXialp6xNZ) | [New Order](https://open.spotify.com/album/2Wz1JsCb2VN3mNMy10nmK7) | 3:00 |
 | 2 | [Enemy](https://open.spotify.com/track/5Qezc8ITTq5MZqtKMc3i5Q) | [Jordan Sandhu](https://open.spotify.com/artist/3TozxPbDes76aGFdfv7PMv), [Starboy X](https://open.spotify.com/artist/0Fvud1OrUvlMHqxbEGmtnj), [Mandeep Maavi](https://open.spotify.com/artist/0nMjrfJdkdeEdNHDU72Rn1) | [Enemy](https://open.spotify.com/album/0ziChr9CGn1b6TW2f0IFA2) | 2:55 |
 | 3 | [Famous Enough](https://open.spotify.com/track/4M0BS6RsQRg6wqdd30Xxd0) | [Navaan Sandhu](https://open.spotify.com/artist/6PdJJhJWHFRtoERTQ8JGq1), [Gurlez Akhtar](https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ), [RXTRO](https://open.spotify.com/artist/7lGDbXQAFrqSli1Xg28orT) | [Paper Before Money](https://open.spotify.com/album/3UvC8wrNS4JBnkipEal7vO) | 4:00 |
-| 4 | [Star Roof](https://open.spotify.com/track/0bIyjIVtFUwkAZgbfETrGI) | [Gippy Grewal](https://open.spotify.com/artist/5kvGYraWFlXs2Jbt1Kphn8) | [Ride With Me](https://open.spotify.com/album/4IECKlBGNSADVXDrcB6J2z) | 2:13 |
+| 4 | [Star Roof](https://open.spotify.com/track/0bIyjIVtFUwkAZgbfETrGI) | [Gippy Grewal](https://open.spotify.com/artist/5kvGYraWFlXs2Jbt1Kphn8), [Mad Mix](https://open.spotify.com/artist/55fozRiVCKuoMqSkxa6nxv), [JP47](https://open.spotify.com/artist/12ZFBwOMiEaUTRYUYfOUBw) | [Ride With Me](https://open.spotify.com/album/4IECKlBGNSADVXDrcB6J2z) | 2:13 |
 | 5 | [Foes To Fans](https://open.spotify.com/track/18CZdFGVEwYp2LYv0HcNCQ) | [Armaan Dhillon](https://open.spotify.com/artist/7tKbaCF35AFn9aXt22LFoC), [Prabh Bains](https://open.spotify.com/artist/1W3MZbE7esUbdnZ0Vdpb7y), [Jashan Inder](https://open.spotify.com/artist/0tGfv5UMyYeDwBwo86cat8) | [Foes To Fans](https://open.spotify.com/album/0iQ3tA1tOHAwbSfOkhHMCy) | 3:06 |
 | 6 | [.45](https://open.spotify.com/track/4mym4dNc5XPEAXP7Orzq18) | [Wazir Patar](https://open.spotify.com/artist/3bCfmBmsKvp4UXialp6xNZ), [Roop Bhullar](https://open.spotify.com/artist/0sYnCQ9Eb3RbEHOqVQST8d) | [.45](https://open.spotify.com/album/6vG52FnBHzc61469A3yiBs) | 2:40 |
 | 7 | [Defender](https://open.spotify.com/track/0YKVC87H962oWFWD3Zb9iZ) | [Gippy Grewal](https://open.spotify.com/artist/5kvGYraWFlXs2Jbt1Kphn8), [Gurlez Akhtar](https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ) | [Ride With Me](https://open.spotify.com/album/4IECKlBGNSADVXDrcB6J2z) | 2:08 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5OWRwJruafQ.md) - [plain]
 | 99 | [Nah They Can't](https://open.spotify.com/track/5RXc1cmSNl3DSRThl2Ii4W) | [Prem Dhillon](https://open.spotify.com/artist/6IP4VnqS1pOiQcPVP4zx0H) | [No Lookin' Back](https://open.spotify.com/album/2z1B8rt2WK0K92x9XbCV24) | 3:24 |
 | 100 | [If I Die](https://open.spotify.com/track/6Hz3tNl55T31nuoX5NKybR) | [Guri Lahoria](https://open.spotify.com/artist/4oMjKSuAAFB6E9a5Icudw3), [Devilo](https://open.spotify.com/artist/5qrlwNqpcRzoI9Pjux1xHQ) | [If I Die](https://open.spotify.com/album/78piK5s0g1fcELSLFzvDbI) | 3:06 |
 
-Snapshot ID: `MCwxMjQ3NGE0NGQ2OTI2YzFjMzViZWNjOWFmOThjYWUwMjU4MzFjYTU1`
+Snapshot ID: `MCxjNTBiODBjZDRiOGMwNjM5NjQxNmZhMTk4Y2Y2NDY0NmNlMTZkOWRm`

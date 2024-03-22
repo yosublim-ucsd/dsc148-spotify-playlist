@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1YPTAhwehsC.md) - [plain]
 
 > Up and down I\-95\. Cover: Cardi B
 
-[Spotify](https://open.spotify.com/user/spotify) - 454,150 likes - 99 songs - 4 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 454,167 likes - 99 songs - 4 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1YPTAhwehsC.md) - [plain]
 | 36 | [swag it!](https://open.spotify.com/track/09Hd4FJEuSAWVvv4W152Wg) | [Chow Lee](https://open.spotify.com/artist/3yQMCDmPQPJlf6xJMzcnZL) | [swag it!](https://open.spotify.com/album/2LBEpxENc2U91CV2bHA8bP) | 3:17 |
 | 37 | [Spin The Block \(feat\. Styles P & 50 Cent\)](https://open.spotify.com/track/7Cp8NGy4IqrJiefzZoSG0w) | [Uncle Murda](https://open.spotify.com/artist/3kortApcf0ntRWexUkJE4H), [Styles P](https://open.spotify.com/artist/2x8KDZdSONA3872CnhaAlX), [50 Cent](https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh) | [Lenny Grant Story](https://open.spotify.com/album/6n6mqhHkj0WWIuE2xmmKb6) | 2:59 |
 | 38 | [Vertino](https://open.spotify.com/track/5RL5b8Pj1Fp7BehQH6YzSo) | [Conway the Machine](https://open.spotify.com/artist/67gqUXxHedeUGDTxwBzdjS), [Joey Bada$$](https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH) | [Vertino](https://open.spotify.com/album/5sVyLTNrY5i8PJa8tImE5R) | 5:33 |
-| 39 | [Poetry \(feat\. Young Thug\)](https://open.spotify.com/track/3LUpZ1UXIp0xU5KZ8vIAcH) | [Maino](https://open.spotify.com/artist/20apXQGKM00jJTvYfyKwlb), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [Poetry \(feat\. Young Thug\)](https://open.spotify.com/album/2ymNS2YXhwg2akYRX1aL6A) | 4:13 |
+| 39 | [Poetry](https://open.spotify.com/track/3LUpZ1UXIp0xU5KZ8vIAcH) | [Maino](https://open.spotify.com/artist/20apXQGKM00jJTvYfyKwlb), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [Poetry](https://open.spotify.com/album/2ymNS2YXhwg2akYRX1aL6A) | 4:13 |
 | 40 | [Same 24 \(feat\. Meek Mill\)](https://open.spotify.com/track/2d95OanRucycsY2kOKgZmU) | [Fivio Foreign](https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM), [Meek Mill](https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc) | [Same 24 \(feat\. Meek Mill\)](https://open.spotify.com/album/4RZ6Y7BdFGtiqsDoIlFpum) | 3:52 |
 | 41 | [Chillen With A Star](https://open.spotify.com/track/5p9JuCORAJOTseMFl3ENh7) | [TJ Porter](https://open.spotify.com/artist/3z3xPw2NyqrZgITJS0Xvs4), [Fivio Foreign](https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM) | [All or Nothing](https://open.spotify.com/album/3L5Rsv25NFzW3nlvcYKcGw) | 2:08 |
 | 42 | [YEH](https://open.spotify.com/track/30WeTbgrLddzKH2BEAEswe) | [DD Osama](https://open.spotify.com/artist/4JpFNbLvh0BGXAubKIthEM) | [YEH](https://open.spotify.com/album/2dQCBUYuCOoEbrrU4HzDbd) | 2:14 |
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1YPTAhwehsC.md) - [plain]
 | 98 | [Jenn Jenn Jenn](https://open.spotify.com/track/09A7OM0R7yazApSFe0v1SA) | [41](https://open.spotify.com/artist/0yknvLWQZxwsMjhUhwWZQ8) | [Jenn Jenn Jenn](https://open.spotify.com/album/6WjpdxDbIidSJuY2Z4yjMg) | 2:00 |
 | 99 | [3AM in the Yams \(feat\. Luh Tyler\)](https://open.spotify.com/track/00a6BqGzSkW1fXz39aJpEO) | [Sugarhill Ddot](https://open.spotify.com/artist/63X7mnpy2kfkDtltarrWD1), [Luh Tyler](https://open.spotify.com/artist/1K15GRZZATsCJyGJ4bYiEz) | [3AM in the Yams \(feat\. Luh Tyler\)](https://open.spotify.com/album/2j01RMLBK6DTtGpGAl50Ah) | 2:49 |
 
-Snapshot ID: `MCw4NWM3MjI0YTI3MzBkMTE3MTRmZDZmNjgxN2QwMjM2NTJlMmJhMTJj`
+Snapshot ID: `MCw1MGVhOTEyNDMwNjM5ZWM5NDdlNzlkOWI3NDNkMjZiMTIyZWFlZGI5`

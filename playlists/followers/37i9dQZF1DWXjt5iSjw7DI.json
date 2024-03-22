@@ -1,5 +1,5 @@
 {
-  "2024-03-21": 86348,
+  "2024-03-22": 86429,
   "date_first_scraped": "2022-01-02",
   "description": "Country Music legends recorded live. Just like being there. Cover: Willie Nelson",
   "name": "Legendary Country Live",
@@ -2019,7 +2019,7 @@
       ],
       "date_added": "2021-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-21",
       "duration_ms": 195067,
       "name": "I'm From The Country",
       "url": "https://open.spotify.com/track/7Dk5WbllAY0VT1rune1mOs"
@@ -4947,7 +4947,7 @@
       ],
       "date_added": "2021-07-23",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-15",
+      "date_removed": null,
       "duration_ms": 155120,
       "name": "Workin' Man Blues - Live In Muskogee, Oklahoma/1969",
       "url": "https://open.spotify.com/track/78ABaDjslOBXsUJZ27AJsr"

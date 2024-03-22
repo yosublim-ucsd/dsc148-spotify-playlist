@@ -6873,6 +6873,24 @@
     },
     {
       "album": {
+        "name": "pink inc",
+        "url": "https://open.spotify.com/album/446hWWDZPWXDsAj5BXKXm0"
+      },
+      "artists": [
+        {
+          "name": "eze east",
+          "url": "https://open.spotify.com/artist/6YzTTKadB6WR8IWvDoZNth"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 104458,
+      "name": "pink inc",
+      "url": "https://open.spotify.com/track/4lbtIYl10Ji2Xv8H5I9mny"
+    },
+    {
+      "album": {
         "name": "Pino Bay",
         "url": "https://open.spotify.com/album/00WBd6b6VwHm6Z6nrD05gS"
       },
@@ -6996,6 +7014,24 @@
       "duration_ms": 135000,
       "name": "Postcards",
       "url": "https://open.spotify.com/track/6CCXRC8JslvUainLY7In0P"
+    },
+    {
+      "album": {
+        "name": "Praia dos Carneiros",
+        "url": "https://open.spotify.com/album/6NKrDZkfZSKOkpHb3N86HO"
+      },
+      "artists": [
+        {
+          "name": "Aborre",
+          "url": "https://open.spotify.com/artist/12nFi1kyqz3Tb3KByPPjpv"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116250,
+      "name": "Praia dos Carneiros",
+      "url": "https://open.spotify.com/track/3WK5cMi7o2vVDoqQreoz57"
     },
     {
       "album": {

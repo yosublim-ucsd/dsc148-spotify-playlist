@@ -4,7 +4,7 @@
 
 > Peaceful music box tunes for sleepy babies.
 
-267 songs - 6 hr 48 min
+268 songs - 6 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -116,6 +116,7 @@
 | [Hide and Seek](https://open.spotify.com/track/2afuD9yMSnn0WStO5SdnuX) | [Romeo's Music Box](https://open.spotify.com/artist/09KF2faaPp2vPZYnrCftV6) | [Country Mornings](https://open.spotify.com/album/2zTZjB3D253xXYmDR4j4O6) | 1:59 | 2022-02-10 |  |
 | [Higher and Higher](https://open.spotify.com/track/31gNqNBaEauhZ4NfHU6oxP) | [Emilie Kirsstadt](https://open.spotify.com/artist/6l18YJDLUmzXwcG0P5iCrN) | [Higher and Higher](https://open.spotify.com/album/0g21X2YiyT6CvI3ZiT8E4O) | 1:32 | 2023-01-20 |  |
 | [Hold Me Tighter](https://open.spotify.com/track/62smyzmV70RIhQ5rmKKpTH) | [Fiona McVay](https://open.spotify.com/artist/3qo9v7xzJYiKXxeiktZKMi) | [Hold Me Tighter](https://open.spotify.com/album/2om0LDDEEIZz5HmDJQHogn) | 1:47 | 2023-02-17 |  |
+| [Home on the Range](https://open.spotify.com/track/5TlklBaH6dDuGWfQCIqQXl) | [Maisy Meadows](https://open.spotify.com/artist/4qrdfPAxLCLe0EFw38JhjN) | [Home on the Range](https://open.spotify.com/album/7kxakvXkc47e2hFQQBvGyF) | 1:30 | 2024-03-22 |  |
 | [How I Miss You\-MusicBox](https://open.spotify.com/track/1e8qUb4z8NujcZQGXPctVq) | [Vinga](https://open.spotify.com/artist/0tUQaRAVEBx927JquVwztK) | [Ding Dong Song\-MusicBox](https://open.spotify.com/album/29YbyfLUPrNzyup3w3U5Ww) | 2:07 | 2023-05-19 |  |
 | [Hush Little Baby](https://open.spotify.com/track/1vF7UT2AoZX2JEcuOritPo) | [Lea van der Eule](https://open.spotify.com/artist/2Irdbe7WQkenoyvCcEl6np) | [My Music Box](https://open.spotify.com/album/5i6CK7NPNIqLc3CCXtRXcl) | 1:51 | 2023-08-24 |  |
 | [Hush My Little Angel](https://open.spotify.com/track/6PnTv60Gm4DcMa3uUf5CPQ) | [Jesse Nielsen](https://open.spotify.com/artist/28hL1CMeKSmGDu43cUqsWW) | [Lullabies on Music Box Vol 2](https://open.spotify.com/album/6i60rEg1H3MI6LG4c2lUHF) | 1:18 | 2022-02-10 |  |
@@ -146,7 +147,7 @@
 | [Main Theme \(From "Babar"\) Music Box Version](https://open.spotify.com/track/4QYZumVgfGNaP52IVEb6uT) | [Orson's Library](https://open.spotify.com/artist/5n0BuzcgaUOeZFWxetkykT) | [Main Theme \(From "Babar"\)](https://open.spotify.com/album/6ErckQoCGdQh3P7GMtTSFL) | 1:17 | 2022-11-25 |  |
 | [Main Theme \(From "Björnes Magasin"\) Music Box Version](https://open.spotify.com/track/2eysdfS200MPTHZ5BsDH7m) | [Abie Anderson](https://open.spotify.com/artist/3o78La1Sg11Ola3Qk9hai0) | [Main Theme \(From Björnes Magasin\)](https://open.spotify.com/album/0K5lQvldUVSjuo9cB4LcKb) | 1:27 | 2022-11-25 | 2023-08-26 |
 | [Mandy's Song \- Music Box Version](https://open.spotify.com/track/74BZeqiAMkLK9050s5O7rK) | [Lille Du](https://open.spotify.com/artist/1bNG6qjWLR1cCdvsrxenvH) | [Mandy's Song \(Music Box Version\)](https://open.spotify.com/album/4pfxpWd0pyC41zU8P33MAp) | 1:55 | 2023-10-20 |  |
-| [Mango Sticky Rice](https://open.spotify.com/track/3xc20F7YzKVbSSFLjVdMnh) | [Jackie Leon](https://open.spotify.com/artist/0lnm8ajEZUtfdBN07KPn5b) | [Mango Sticky Rice](https://open.spotify.com/album/14udllhsvarw9XRww5kYjc) | 1:18 | 2023-12-08 |  |
+| [Mango Sticky Rice](https://open.spotify.com/track/3xc20F7YzKVbSSFLjVdMnh) | [Jackie Leon](https://open.spotify.com/artist/0lnm8ajEZUtfdBN07KPn5b) | [Mango Sticky Rice](https://open.spotify.com/album/14udllhsvarw9XRww5kYjc) | 1:18 | 2023-12-08 | 2024-03-22 |
 | [Mary Had a Little Lamb](https://open.spotify.com/track/0HBraBC6wDKgcamaMPAzJH) | [Lea van der Eule](https://open.spotify.com/artist/2Irdbe7WQkenoyvCcEl6np) | [My Music Box](https://open.spotify.com/album/5i6CK7NPNIqLc3CCXtRXcl) | 1:52 | 2023-08-24 |  |
 | [Merrily We Roll Along](https://open.spotify.com/track/5BUh5drj0lOvk5Z3EwTcJr) | [Hampus I Backen](https://open.spotify.com/artist/7eh8uR2SdD0SSgIMaNOAHT) | [Merrily We Roll Along](https://open.spotify.com/album/0hlAAwwQ8rOTvDt78fZzCW) | 0:41 | 2023-06-21 |  |
 | [Milky Way Dreams](https://open.spotify.com/track/4tro0Lf8epqpNns2CZP7N6) | [Allan London](https://open.spotify.com/artist/3hZZcCyB8FOIGhgz5KU2aQ) | [Milky Way Dreams](https://open.spotify.com/album/1iyl2yPMtFOCNdvbGPQ7Dk) | 1:54 | 2023-09-22 |  |

@@ -4,7 +4,7 @@
 
 > The magical world map! Play it in shuffle ☀️
 
-2,224 songs - 6 day 5 hr 28 min
+2,226 songs - 6 day 5 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -295,6 +295,7 @@
 | [Bimbom](https://open.spotify.com/track/3Tq0jy9idYQ1JM9CVKi1sy) | [Tulio Enrique León](https://open.spotify.com/artist/6jbC9Zqj2QSBt8puMpM6nS) | [Color de Trópico \(Compiled By El Dragón Criollo y El Palmas\)](https://open.spotify.com/album/1ADKGt7i1rGDNPjiZscJV4) | 2:37 | 2022-06-09 | 2022-07-29 |
 | [Birds, Pt\. I](https://open.spotify.com/track/5GDteA9nob1rnxgE1KFx5l) | [Chassol](https://open.spotify.com/artist/1nw8iwDkSSHqn8S343ODcp) | [Big Sun](https://open.spotify.com/album/4ML85VhWPuIOtXqR1Dl7TW) | 3:59 | 2022-06-09 |  |
 | [Black but Sweet](https://open.spotify.com/track/657JgYEGUo3gKjn2PCSVpw) | [Wilmoth Houdini](https://open.spotify.com/artist/62vfc9z4z77qmgqTKXNb5S) | [The Cooks in Trinidad](https://open.spotify.com/album/4R9XWdsiThwOaF8OX9vs4M) | 2:33 | 2022-07-12 |  |
+| [Black Sand](https://open.spotify.com/track/7rL4ouaj7AqQM9kgQ5aQrY) | [Glass Beams](https://open.spotify.com/artist/1LTFJvVvRw7ghAyThxYmnF) | [Mahal](https://open.spotify.com/album/32yQDx3IeVTHLPxT07PFDy) | 4:38 | 2024-03-21 |  |
 | [Blackbird Singing](https://open.spotify.com/track/0Xf3chg0IH3ivgHfSRDImY) | [Rosalyn Sweat](https://open.spotify.com/artist/10FVIFMSktDL7zadsCqMRn), [The Paragons](https://open.spotify.com/artist/5sCZ2Gc3nZaE3Cav8WG7WG) | [On the Beach: The Anthology](https://open.spotify.com/album/4znstpmS1WOSyKyGtTVM8m) | 2:34 | 2023-10-06 |  |
 | [Blackbird Singing](https://open.spotify.com/track/6jNKJ3tW2MOApL3cYMSj4L) | [The Paragons](https://open.spotify.com/artist/5sCZ2Gc3nZaE3Cav8WG7WG), [Roslyn Sweat](https://open.spotify.com/artist/6MDVBylrBgKdEBxOd211v1) | [The Treasure Isle Story](https://open.spotify.com/album/2XfmRJBQBboBV0A7Fox7OI) | 2:34 | 2022-07-12 | 2023-11-04 |
 | [Blackman's Word \(aka Black Man's Pride\)](https://open.spotify.com/track/4yiICPDc9s9ONtJZouvKc1) | [Alton Ellis](https://open.spotify.com/artist/5pryfFgCrWJ41UHaENJPyi) | [Mr Soul of Jamaica](https://open.spotify.com/album/4EpjLfEAWQ4aVhlTMk69Fh) | 2:49 | 2023-10-06 |  |
@@ -619,7 +620,7 @@
 | [Do Leme Ao Pontal](https://open.spotify.com/track/3cocch5HwlFAeEfaAWHhMO) | [Tim Maia](https://open.spotify.com/artist/0jOs0wnXCu1bGGP7kh5uIu) | [World Psychedelic Classics 4: Nobody Can Live Forever: The Existential Soul of Tim Maia](https://open.spotify.com/album/0NxPZv3nWPBMk1o51GfwEY) | 3:12 | 2022-06-09 | 2022-07-29 |
 | [Do Leme Ao Pontal](https://open.spotify.com/track/70QAZmaOxrSQGP2OMY5DUz) | [Tim Maia](https://open.spotify.com/artist/0jOs0wnXCu1bGGP7kh5uIu) | [World Psychedelic Classics 4: Nobody Can Live Forever: The Existential Soul of Tim Maia](https://open.spotify.com/album/0q41u8oMFT9Ewr2tqGnmL8) | 3:12 | 2022-07-27 |  |
 | [Do You Feel It \(Tu Lo Sientes?\)](https://open.spotify.com/track/28884lwknXcj3lDMuoyM7B) | [Joe Cuba Sextet](https://open.spotify.com/artist/7glnjTMVq4r8iNugFbuIqj) | [Fania Latin Soul Essentials](https://open.spotify.com/album/0wQuSmcOuIUBib70kE133e) | 3:25 | 2022-10-31 | 2022-11-13 |
-| [Doctor Doctor](https://open.spotify.com/track/7rzCydzyXY6gtjFHVCy4SV) | [Labi Siffre](https://open.spotify.com/artist/5CzlICF8GCY0pRC82MKrhX) | [Happy](https://open.spotify.com/album/17aYOCF5PDgv9TQaWFGNTu) | 4:21 | 2022-06-09 |  |
+| [Doctor Doctor](https://open.spotify.com/track/7rzCydzyXY6gtjFHVCy4SV) | [Labi Siffre](https://open.spotify.com/artist/5CzlICF8GCY0pRC82MKrhX) | [Happy](https://open.spotify.com/album/17aYOCF5PDgv9TQaWFGNTu) | 4:21 | 2022-06-09 | 2024-03-22 |
 | [Doctor Kitch](https://open.spotify.com/track/773m3sHG4pIBk0daUTl431) | [Lord Kitchener](https://open.spotify.com/artist/7FL6vuQ7VGJvOiZUukHAcK) | [Doctor Kitch](https://open.spotify.com/album/6ZgbMHl4E3T6Cvjat6XZGa) | 3:54 | 2022-07-12 |  |
 | [Don't Huzzle for Love](https://open.spotify.com/track/69b5nYd8TUnEbUolnJObiB) | [The Apostles](https://open.spotify.com/artist/0yAP23o7hl2gwDjXxKdjki) | [Black Is Beautiful](https://open.spotify.com/album/78mvO5CuYHAh2855VbQXvV) | 3:31 | 2022-07-12 |  |
 | [Don't Let Me Down](https://open.spotify.com/track/1kgVP5FcsXQjXVGO57HLCT) | [Marcia Griffiths](https://open.spotify.com/artist/4qLV9FR6ZVLS6W8drD78hM) | [Essential Artist Collection \- Marcia Griffiths](https://open.spotify.com/album/12of8GYATb4V1zKrFwHxeL) | 3:24 | 2023-10-06 | 2023-11-05 |
@@ -1382,7 +1383,7 @@
 | [Mea Culpa Tshama Pepe](https://open.spotify.com/track/5fGp12gmmPSYCiy8EdLvkO) | [Thu Zahina](https://open.spotify.com/artist/1YzdVPPsbIuY52xrQcgHcw) | [Coup de Chapeau](https://open.spotify.com/album/09Di9jGEnVw7SvF6sDROQV) | 4:09 | 2022-06-09 |  |
 | [Mekeyershene Salawke](https://open.spotify.com/track/7c1OIQVdoncCIdjpd7t9Bo) | [Alemayehu Eshete](https://open.spotify.com/artist/1IqLubILFDd8vFQhhAHwN9) | [Ernesto Chahoud Presents Taitu – Soul\-Fuelled Stompers from 1960s – 1970s Ethiopia](https://open.spotify.com/album/4v94zw6nkbjRpRzGMb0X7y) | 1:48 | 2022-06-09 |  |
 | [Mellow \(Version\)](https://open.spotify.com/track/34ZTSa0gUHEqSbDuoqfhqf) | [Karl Hector & The Malcouns](https://open.spotify.com/artist/1RrTQU4gM94QB6XWSBy8yB) | [Sahara Swing](https://open.spotify.com/album/5rPCTfEFtfWvzsAKy9ckYX) | 3:24 | 2022-07-12 |  |
-| [Memories](https://open.spotify.com/track/6vjGahl5Hs4aIe3QHXVaMn) | [Amadeo](https://open.spotify.com/artist/3wmQ1Q1KAo0tdg6aQhfEDF) | [Les Chansons En Or](https://open.spotify.com/album/4JiDnhIL1BM5zbnwIEvxGb) | 3:57 | 2023-05-17 |  |
+| [Memories](https://open.spotify.com/track/6vjGahl5Hs4aIe3QHXVaMn) | [Amadeo](https://open.spotify.com/artist/3wmQ1Q1KAo0tdg6aQhfEDF) | [Les Chansons En Or](https://open.spotify.com/album/4JiDnhIL1BM5zbnwIEvxGb) | 3:57 | 2023-05-17 | 2024-03-22 |
 | [Men Awel Deqiqa](https://open.spotify.com/track/1BXok7hU9kericO8hfmHn6) | [Al Massrieen](https://open.spotify.com/artist/7t3VJCyz87PJLqHM3mOt3I) | [Modern Music \(Habibi Funk 006\)](https://open.spotify.com/album/00WG8zvoWVZa9N5WHdVKvd) | 5:18 | 2022-10-31 | 2022-12-17 |
 | [Men Awel Deqiqa](https://open.spotify.com/track/635DMx1t8leP4BknRS94Qq) | [Al Massrieen](https://open.spotify.com/artist/7t3VJCyz87PJLqHM3mOt3I) | [Modern Music \(Habibi Funk 006\)](https://open.spotify.com/album/74cn65iezZxZZ6GxSHN01y) | 5:18 | 2022-07-12 | 2022-11-20 |
 | [Mentira \(Chega De Mentira\)](https://open.spotify.com/track/2F79mAPt1qPENDvq0njWoP) | [Marcos Valle](https://open.spotify.com/artist/5I0EPnV9gwrZYTbScjnaOk) | [Bis Bossa Nova \- Marcos Valle](https://open.spotify.com/album/354iFS0exBrdnRxQis9SN0) | 3:42 | 2022-10-31 | 2022-11-14 |
@@ -1650,6 +1651,7 @@
 | [Pistachio](https://open.spotify.com/track/2o8WAUrsxzk0BotxCvMnA3) | [Alberto Bof](https://open.spotify.com/artist/1Co2g2ed1VfT3MFeaAEZDI) | [The Electric Acid Surfboard Test](https://open.spotify.com/album/6OFIksGfrRBDH8aD4T3PbG) | 3:17 | 2022-06-09 |  |
 | [Pitchito](https://open.spotify.com/track/08p72zHGG4lSMXlljziGxx) | [Frente Cumbiero](https://open.spotify.com/artist/7r6KiZDjtZqBWp5jaDgxA6) | [Pitchito / Ananas Tornillo](https://open.spotify.com/album/2GnwyKQEU1e1VzQ70jJmAT) | 4:05 | 2022-06-09 |  |
 | [Piya Tu Ab To Aaja](https://open.spotify.com/track/42ZzD15Cukv9MwSuNSAcjn) | [Asha Bhosle](https://open.spotify.com/artist/5as8A4G47Ohu9NSWs3Je8U), [R\. D\. Burman](https://open.spotify.com/artist/2JSYASbWU5Y0fVpts3Eq7g) | [Caravan \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7cQLF08KjM9FAxGHKIkxs6) | 5:26 | 2022-06-09 |  |
+| [Pon Pón](https://open.spotify.com/track/4B3X07DwS1HoviCmfkEKzC) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk) | [Pon Pón](https://open.spotify.com/album/6TNu9Fm6dr3ReP1omRRaZl) | 2:58 | 2024-03-21 |  |
 | [Ponchito de Colores](https://open.spotify.com/track/6INMHk5ysfDW9uWbqP6wKW) | [Afrosound](https://open.spotify.com/artist/0i4Qda0k4nf7jnNHmSNpYv) | [16 Exitos Bailables](https://open.spotify.com/album/4u7k1pMhfvvSBBjNMMX7x9) | 2:42 | 2022-06-09 |  |
 | [Ponta De Lança Africano](https://open.spotify.com/track/3LcGqv91NIBQaUmnNbsKu8) | [Jorge Ben Jor](https://open.spotify.com/artist/5JYtpnUKxAzXfHEYpOeeit) | [Africa Brasil](https://open.spotify.com/album/0esHQqYklDPje00NUNq6py) | 3:52 | 2022-06-09 |  |
 | [Ponte Bajo el Sol](https://open.spotify.com/track/68VLwvaAeCAs1QTSazcr8q) | [Elia y Elizabeth](https://open.spotify.com/artist/6R6PqKFwzVPIePSH8BCKvf) | [La Onda de Elia y Elizabeth](https://open.spotify.com/album/3oMbEphQxALHNPilVcs8YX) | 2:06 | 2022-07-12 |  |

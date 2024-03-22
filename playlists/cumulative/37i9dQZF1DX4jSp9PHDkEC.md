@@ -248,6 +248,7 @@
 | [quiet motions](https://open.spotify.com/track/5JLCvvRxzSogiBcL1Fl0Xa) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [dawn](https://open.spotify.com/album/13VsJYysq5tyeZiB0GY4oy) | 2:38 | 2023-01-17 |  |
 | [Quiet, The Winter Harbor](https://open.spotify.com/track/1OArWxrw689jZXaJzSErbh) | [Mazzy Star](https://open.spotify.com/artist/37w38cCSGgKLdayTRjna4W) | [Still EP](https://open.spotify.com/album/4bpU9t9wzqJcIg40bmMf3K) | 4:15 | 2023-01-17 |  |
 | [Red Lines](https://open.spotify.com/track/4jwfGp3iVH7CAqW0YEZ9jy) | [SOHN](https://open.spotify.com/artist/6XZYAWJLL8UIbxAqjKj3cg) | [Red Lines](https://open.spotify.com/album/0KzRmfb1jdOSuGRYjnT3H2) | 3:56 | 2023-01-17 |  |
+| [Restless Song](https://open.spotify.com/track/1zyW2TTiG82GKIrViXbTvK) | [Shadow Community](https://open.spotify.com/artist/1R4RBcCMHyoORkrjlIqUbD) | [Restless Song / Halcyon's Coffin](https://open.spotify.com/album/553qIs1MgKMnqgay2fXOBX) | 5:08 | 2023-01-17 |  |
 | [Revival](https://open.spotify.com/track/0LpPr98XQhD3N7xfEOvVfD) | [Aldous Harding](https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG) | [Revival](https://open.spotify.com/album/0r9WibVLIn1tZ7FxSKH3yn) | 2:17 | 2023-01-17 |  |
 | [Ride or Die](https://open.spotify.com/track/22uD6yBefgzRTLrohe4IZs) | [Hippo Campus](https://open.spotify.com/artist/1btWGBz4Uu1HozTwb2Lm8A) | [Ride or Die](https://open.spotify.com/album/1vMfrkDvP3CDkYGt19voDl) | 3:30 | 2023-01-17 |  |
 | [Riverside](https://open.spotify.com/track/4vJ2nNBA6sxAUN5kLGPq3Q) | [Agnes Obel](https://open.spotify.com/artist/1rKrEdI6GKirxWHxIUPYms) | [Philharmonics](https://open.spotify.com/album/1hOKjrormSHpyOw0BREwEx) | 3:48 | 2023-01-17 |  |
@@ -366,6 +367,5 @@
 | [Your Best American Girl](https://open.spotify.com/track/7g5qe8VITjr13RIe8uM2p6) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Puberty 2](https://open.spotify.com/album/4Coa8Eb9SzjrkwWEom963Q) | 3:32 | 2023-01-17 |  |
 | [Your Mind Is Not Your Friend \(feat\. Phoebe Bridgers\)](https://open.spotify.com/track/7wOIdJkbhLcmA0vniQiVVJ) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Your Mind Is Not Your Friend \(feat\. Phoebe Bridgers\)](https://open.spotify.com/album/78QvpShQvtm7mk3Ghjqqa3) | 4:24 | 2023-04-14 |  |
 | [zombie girl](https://open.spotify.com/track/3v2OxIsGWJXWfLuRkB59Q6) | [Adrianne Lenker](https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY) | [songs](https://open.spotify.com/album/2Qt8Z1LB3Fsrf6nhBNsvUJ) | 2:44 | 2023-01-17 |  |
-| [동요 Restless Song](https://open.spotify.com/track/1zyW2TTiG82GKIrViXbTvK) | [Shadow Community](https://open.spotify.com/artist/1R4RBcCMHyoORkrjlIqUbD) | [동요 / 할시온의 관 Restless Song / Halcyon's Coffin](https://open.spotify.com/album/553qIs1MgKMnqgay2fXOBX) | 5:08 | 2023-01-17 |  |
 
 \*This playlist was first scraped on 2023-08-09. Prior content cannot be recovered.

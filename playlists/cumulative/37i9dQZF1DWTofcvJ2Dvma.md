@@ -4,7 +4,7 @@
 
 > Soundtrack your practice with this mix of chill and motivational tracks perfect for vinyasa yoga.
 
-486 songs - 20 hr 25 min
+487 songs - 20 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,6 +59,7 @@
 | [Café Rio](https://open.spotify.com/track/28WEdMqtZ0EW43L0yTRQk5) | [Edoardo Más](https://open.spotify.com/artist/3vDywqMAcuHdMgK30nSSLW) | [Café Rio](https://open.spotify.com/album/6yL9GXFei3SZJUorDCJZMU) | 3:36 | 2022-03-14 | 2022-11-26 |
 | [Calculator](https://open.spotify.com/track/5ge3MKqV7AvdQmwUnsWaYX) | [sonofie](https://open.spotify.com/artist/64V6VBrGxTgK5VuSIY9TVw) | [Calculator](https://open.spotify.com/album/0yrUNuuUzin7Gov8i8ApHN) | 1:48 | 2022-03-14 | 2023-01-25 |
 | [CALL ME WHEN YOU GET HOME](https://open.spotify.com/track/4rxGBqij3pGn5UBs2prUlT) | [nomoretime](https://open.spotify.com/artist/6WtIFRiNMwkJLPrZdAjNIB) | [CALL ME WHEN YOU GET HOME](https://open.spotify.com/album/3swXcNPaC4SjMijAPWtUUp) | 2:10 | 2024-01-19 |  |
+| [Calm Euphoria](https://open.spotify.com/track/5Z1JCzQtEbH3OAUT9xWi4k) | [Alunni](https://open.spotify.com/artist/5uZQ9focwD7agsnaUA2gBz) | [Calm Euphoria](https://open.spotify.com/album/1klIEGzkf55z5Dwa7cq6tF) | 2:24 | 2024-03-22 |  |
 | [can you call me back](https://open.spotify.com/track/5MspgG8KBCGjZEri91ZR1t) | [Venn Divi](https://open.spotify.com/artist/0xMjjTrZmBI1AxzgRKFmPi) | [can you call me back](https://open.spotify.com/album/081bq3A8UNs9vJIDdTtAjd) | 3:09 | 2023-06-20 | 2024-01-20 |
 | [Cap Bénat](https://open.spotify.com/track/0ITR2dYQz1AelssrHTZ0a7) | [Zack & Alex](https://open.spotify.com/artist/5zQXrY8n5KXT1kjmNryojG) | [Cap Bénat](https://open.spotify.com/album/4EmeOCvieivOpPAKj0MhQN) | 3:14 | 2022-09-01 | 2022-10-26 |
 | [Careless](https://open.spotify.com/track/69PYB04q2aTC3i9wFzRC3T) | [Wolf Schranze](https://open.spotify.com/artist/4MtvBs0l4svT0L3QQLwPMM) | [Careless](https://open.spotify.com/album/0QDeDHId4agJs6w0G630zO) | 2:03 | 2023-08-29 | 2024-01-20 |

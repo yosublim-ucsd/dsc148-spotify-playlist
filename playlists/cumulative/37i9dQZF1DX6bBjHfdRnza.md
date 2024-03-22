@@ -2,7 +2,7 @@
 
 ### [Fresh Finds Dance](https://open.spotify.com/playlist/37i9dQZF1DX6bBjHfdRnza)
 
-> The best new dance & electronic by independent artists and labels\. Cover: Val Fleury\. Artwork by Rewina Beshue.
+> The best new dance & electronic by independent artists and labels\. Cover: Nicky Elisabeth\. Artwork by Rewina Beshue.
 
 2,032 songs - 5 day 21 hr 1 min
 

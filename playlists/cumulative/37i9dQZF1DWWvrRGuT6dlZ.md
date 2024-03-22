@@ -2,9 +2,9 @@
 
 ### [Fresh Finds SG & MY](https://open.spotify.com/playlist/37i9dQZF1DWWvrRGuT6dlZ)
 
-> Unearthing your new favourite artists\. Cover: Josh Makazo\. Artwork: Isu Kim.
+> Unearthing your new favourite artists\. Cover: rhyu\. Artwork: Isu Kim.
 
-671 songs - 1 day 12 hr 50 min
+677 songs - 1 day 13 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -257,6 +257,7 @@
 | [HUOY \(I A F Remix\)](https://open.spotify.com/track/3wnH3eaH3rn8gyruSsRvsD) | [Joel See](https://open.spotify.com/artist/44DkJ4VKIXuLWfpyL9Tbps), [I A F](https://open.spotify.com/artist/06LlHaKG2UBtZdp4iyg4MK) | [HUOY \(I A F Remix\)](https://open.spotify.com/album/1C5tU1vYajSiNOG0ZEN19S) | 3:22 | 2022-01-20 | 2023-01-13 |
 | [I Don't Mind](https://open.spotify.com/track/3DzYmaYp3RIFYsn4WF9W22) | [Ralph Alvern](https://open.spotify.com/artist/5rHKu25IpEOc7hkwaWNldt), [Karena Yeo](https://open.spotify.com/artist/3aHgoRddVvpmmaci2RNzZj), [Vessail](https://open.spotify.com/artist/5BkvrjwohNWFvwYUJ1jxnZ) | [I Don't Mind](https://open.spotify.com/album/5sT9gxDFo7toJBGbZEktqS) | 3:05 | 2022-01-13 | 2023-01-13 |
 | [I F\*CKED a CHEATER](https://open.spotify.com/track/5TvuiNsfLwiPe3WPq8OHqC) | [Jjdroy](https://open.spotify.com/artist/4aJ8I7dbcRtx1mFdA8Sh5w), [Jude](https://open.spotify.com/artist/4oTyEQgj8L5eFsj42Kf0Na) | [I F\*CKED a CHEATER](https://open.spotify.com/album/08JTfXV5vjB9StoAKVUmSJ) | 2:59 | 2022-04-28 | 2022-09-23 |
+| [I Just Did It](https://open.spotify.com/track/3vk40Y2U6S7VhIS4Nxcx6E) | [Amari Teague](https://open.spotify.com/artist/2fu7Ig6d88h9W1gyFoo0vC) | [I Just Did It](https://open.spotify.com/album/4QOFqJmS8ZmqbUWCdVt6qJ) | 1:54 | 2024-03-21 |  |
 | [i knew you'd break me too](https://open.spotify.com/track/3GxfAIc71D0H34YjmRtN4C) | [Amelia Rae](https://open.spotify.com/artist/2sX71sKSY55XluACX5F4E6) | [i knew you'd break me too](https://open.spotify.com/album/7M9BIvJayv8lJAyP9EI8vD) | 3:06 | 2022-01-13 | 2022-06-17 |
 | [i like red](https://open.spotify.com/track/3GQ4GdXU8wBbPqBcKDTJ65) | [Charlene Su](https://open.spotify.com/artist/5Ltw2zQx9zqzyXfsQkkFBD) | [i like red](https://open.spotify.com/album/2DYmZa0uuVkUGdwqjNTJNj) | 2:02 | 2021-12-01 | 2022-01-14 |
 | [i love u, so](https://open.spotify.com/track/36OLXS0fPnX0UKUOvNI2ET) | [owellciao](https://open.spotify.com/artist/5S9GPm0jvveRHL8QNWircV) | [i love u, so](https://open.spotify.com/album/4x1865wPtXoKdcp2o5H0dL) | 3:34 | 2023-06-22 | 2023-11-10 |
@@ -459,6 +460,7 @@
 | [Push & Pull](https://open.spotify.com/track/0O19gG2dvbYJArdP6ebvRN) | [RON](https://open.spotify.com/artist/1qT72Xscp5ZJmag1foTRtO) | [Push & Pull](https://open.spotify.com/album/6DFor8T41j9pm1S90ePUPV) | 2:32 | 2022-01-20 | 2022-07-29 |
 | [Push & Pull](https://open.spotify.com/track/2fcBA4HrmCmgFqxg47rjOe) | [RON](https://open.spotify.com/artist/1qT72Xscp5ZJmag1foTRtO) | [Push & Pull](https://open.spotify.com/album/2tdcA7vZMSJXb4EVh7p3TV) | 2:32 | 2022-11-30 | 2023-01-13 |
 | [Push & Pull](https://open.spotify.com/track/6kkjVksSuXj5t3JPOczMND) | [RON](https://open.spotify.com/artist/1qT72Xscp5ZJmag1foTRtO) | [Push & Pull](https://open.spotify.com/album/237kLywoj0cuKwN1ifqmWg) | 2:32 | 2022-07-28 | 2022-12-06 |
+| [Quiet](https://open.spotify.com/track/6IgxhieemJHtjxhCVgZdMA) | [rhyu](https://open.spotify.com/artist/01861Hi28PdrPUOZwFaMcJ) | [Quiet](https://open.spotify.com/album/2FFc2QhxByJHakk8ycNZus) | 3:20 | 2024-03-21 |  |
 | [Rabbit Hole](https://open.spotify.com/track/4vw9GmZcaoJ7aqM8mz9g9d) | [Candida\|\|:X](https://open.spotify.com/artist/3dhw3t8QR0eTShRrB1FDaM) | [Rabbit Hole](https://open.spotify.com/album/1JesFXGxLuzH8jk3pZzDY3) | 3:17 | 2024-02-25 |  |
 | [rain in the summer](https://open.spotify.com/track/1GYj88rWEhM0ElpBCdFRxZ) | [Dominic Chin](https://open.spotify.com/artist/1fQk4DNRfj70qf362wV8GQ), [aeriqah](https://open.spotify.com/artist/730kGJlZWMRyL6yHXyC3vb) | [rain in the summer](https://open.spotify.com/album/6PQC9SvGNhiySsBnOoOV5t) | 3:02 | 2023-02-09 | 2023-06-16 |
 | [Ready to Breathe](https://open.spotify.com/track/6aafpnwXqPrl7tLyu1d9jG) | [Rahul Advani](https://open.spotify.com/artist/4ol2EjDnh4lRaTk3lfFtQb) | [Ready to Breathe](https://open.spotify.com/album/2yWlVmAyQ6E57G1mRArgKC) | 4:03 | 2022-09-09 | 2022-09-23 |
@@ -475,6 +477,7 @@
 | [room](https://open.spotify.com/track/0apFaskFTjOtbJ2RquwMpZ) | [Regina Song](https://open.spotify.com/artist/3Y7gOnKYWfQlEdgXag0Z6W), [Adriel](https://open.spotify.com/artist/06kH3673gPPQE1y6I0Dx2N) | [room](https://open.spotify.com/album/7dXf3mDlGxiS2jLc8KmqlO) | 2:47 | 2023-11-17 |  |
 | [ROUNDABOUT](https://open.spotify.com/track/2YCMNYDyV35VaHnKz7Ip2D) | [ICEBOX](https://open.spotify.com/artist/3EPASK2OUUcDo6RgfnroTK) | [ROUNDABOUT](https://open.spotify.com/album/1PetiQ0Jbju87l6c1YG0ey) | 2:56 | 2024-03-15 |  |
 | [Run Again \(Acoustic\)](https://open.spotify.com/track/0r7x4FURS4dwkPZah6Nosf) | [Phoebe Tsen](https://open.spotify.com/artist/06Bshz3mErx5BEZxwd4gPE) | [Run Again \(Acoustic\)](https://open.spotify.com/album/66cDvMNDovrj2QNnL7aCs9) | 3:08 | 2022-03-31 | 2022-06-17 |
+| [runaway](https://open.spotify.com/track/7i0d63oU4w3KJHCwAzj0JA) | [cloud nyla](https://open.spotify.com/artist/629WSHXuR88ZyYf7DV9l9G), [gels](https://open.spotify.com/artist/64A8LUUbYeqJBw4rv0OTxf) | [runaway](https://open.spotify.com/album/3RshPmToF6577Qpo7B2ePv) | 2:46 | 2024-03-21 |  |
 | [Runaway](https://open.spotify.com/track/7u9v35EFgZJgzgFlUm6MoY) | [The New Modern Lights](https://open.spotify.com/artist/7fwPJniDEJ1ld3lzqZhs1D) | [The Distance Between Us](https://open.spotify.com/album/4XlMcnW7hte39E8gvuU3m9) | 4:18 | 2022-01-13 | 2022-06-17 |
 | [Running](https://open.spotify.com/track/1YpPgnVsX1qTPHgmGQCjcw) | [codecaud](https://open.spotify.com/artist/3o5MStF8uD9Vvy8Hgqk9ju) | [Still Jive](https://open.spotify.com/album/50QSLXhEWwltjrd2cdmN7u) | 3:58 | 2021-12-01 | 2022-01-14 |
 | [Runway](https://open.spotify.com/track/4hAs3NCpwL8Lhr4GcL9kkV) | [Cadence](https://open.spotify.com/artist/0MtXc3VR14iObCndBTBHTr) | [Runway](https://open.spotify.com/album/3mrOvZdzJgCflKQdJDBxPs) | 3:32 | 2022-01-13 | 2022-06-17 |
@@ -558,6 +561,7 @@
 | [Tarifa](https://open.spotify.com/track/7CeeE95qlhwAWbu7XTh5xN) | [dylan chan](https://open.spotify.com/artist/3mKBWcBH58qiZXLs4ojPdK) | [Funerals by a Nightstand](https://open.spotify.com/album/2vBBsK12wQ4G6W1tHzWZ1K) | 2:25 | 2022-04-21 | 2022-09-23 |
 | [Taxi Fare](https://open.spotify.com/track/62UTUM3McxWoeB3Zo3Abg7) | [ICEBOX](https://open.spotify.com/artist/3EPASK2OUUcDo6RgfnroTK), [mya](https://open.spotify.com/artist/7yLUaQwfD82tNZm2ACAUtb) | [Taxi Fare](https://open.spotify.com/album/4Q9B5EDsCIFhPd3NqltGkO) | 3:36 | 2023-05-26 | 2023-11-24 |
 | [Tears](https://open.spotify.com/track/7GHKD3WZblivGmUu5Kn47T) | [Ki Zikry](https://open.spotify.com/artist/28dh27mbtc24Yy62PPpm8t), [Hairi Eyes](https://open.spotify.com/artist/6QSX3GMSIRB7N6NBr28rvH) | [Tears Leave Stains](https://open.spotify.com/album/5sPoxVV66b2nWg9a9vHEqQ) | 3:29 | 2022-01-13 | 2022-06-17 |
+| [Telepathy](https://open.spotify.com/track/1FTrMwUgHkX1ERAUbRxzS3) | [Joel See](https://open.spotify.com/artist/44DkJ4VKIXuLWfpyL9Tbps) | [Telepathy](https://open.spotify.com/album/1tKGmk8oFyoOhuXBeV7vnJ) | 3:08 | 2024-03-21 |  |
 | [Television](https://open.spotify.com/track/01yV1k9qfzNhElFCih2REv) | [SATINA](https://open.spotify.com/artist/2XyAeS3sKheHLul4sxHzt0) | [Television](https://open.spotify.com/album/2EESzMfEC9fFOkaufAfBUR) | 2:40 | 2022-01-13 | 2022-03-25 |
 | [Tell Me](https://open.spotify.com/track/6SDOo7eSMVc1DjvXvakhO2) | [Pearl Abdul](https://open.spotify.com/artist/3dWTwDzCXjlubSFO6GVzWR) | [Tell Me](https://open.spotify.com/album/3uVC45IZwBthRuoeYlzcqU) | 3:20 | 2023-11-02 | 2024-01-19 |
 | [Tell Me](https://open.spotify.com/track/513WXSky5M2yDsAzxFXCY0) | [YAN](https://open.spotify.com/artist/6TKGfGsdJUjkGvCoNkZmPT) | [Tell Me](https://open.spotify.com/album/3jksDsm9oV1n0im7ULpuAj) | 3:43 | 2021-12-01 | 2022-01-14 |
@@ -581,6 +585,7 @@
 | [Till Dawn](https://open.spotify.com/track/4J1buNjEODX0jrPpXoTVNn) | [Micki Jayy](https://open.spotify.com/artist/5zopZiBoumSnc3vhbe66IZ), [Shahrizal](https://open.spotify.com/artist/1QG9pJRvxU3zU3DBWlxhXe) | [Till Dawn](https://open.spotify.com/album/0DyAmCJeFwGwwOy5FJLq0R) | 3:16 | 2023-08-17 | 2024-02-16 |
 | [Till It's All Over](https://open.spotify.com/track/4B2TovOjH1wjnyRQRy6ZaP) | [Icebox](https://open.spotify.com/artist/3EPASK2OUUcDo6RgfnroTK) | [Till It's All Over](https://open.spotify.com/album/3WIYd5r2uUbsd5ijj2OoMh) | 4:34 | 2022-08-25 | 2022-09-23 |
 | [Till the end of time](https://open.spotify.com/track/7l5cj7g9WjFhgV68FtR5hG) | [Odelia Rei](https://open.spotify.com/artist/7G7I02yeiNBx3WwKYWlpaA) | [Till the end of time](https://open.spotify.com/album/5ap5JUJsoseHLa3QYnNuW6) | 4:00 | 2022-01-13 | 2023-01-13 |
+| [Time Is All We Have](https://open.spotify.com/track/5U4E0sohyHBKmqPxOYBwue) | [Amberhill](https://open.spotify.com/artist/0G93dqirCSNtPadCSv4NRU) | [Motion & Bloom](https://open.spotify.com/album/6UCHK55OjsM1M2xcKvTn4R) | 4:24 | 2024-03-21 |  |
 | [Tinder](https://open.spotify.com/track/71sLnpCTclCFLhj6p4cqNV) | [Amari Teague](https://open.spotify.com/artist/2fu7Ig6d88h9W1gyFoo0vC) | [Tinder](https://open.spotify.com/album/3EkJJoHnkUyVnUYt4OIxK0) | 2:24 | 2023-11-17 | 2024-02-16 |
 | [tinderella](https://open.spotify.com/track/7A1uJlvJp6rCy0hG7IgN3d) | [R0ME0](https://open.spotify.com/artist/4Za7rjAfE4EVPyoGRhHuu0) | [tinderella](https://open.spotify.com/album/4qCNpBxuSIhx3ZVFpteH6e) | 1:54 | 2022-01-27 | 2022-06-17 |
 | [Tired](https://open.spotify.com/track/2SzqIB76prOWeCztmlu9hi) | [Ishbel Warifa](https://open.spotify.com/artist/3wSh7x4BzctCWKfp2lujCD) | [Tired](https://open.spotify.com/album/28j8ncaZLKane8IMKDRsFX) | 3:04 | 2024-01-11 |  |
@@ -639,6 +644,7 @@
 | [What About Me](https://open.spotify.com/track/2EIRs4SUAsJBbzqQVkLSp1) | [Tiara Maimun](https://open.spotify.com/artist/0YLCRlUQxyVLAlIlqU56SB) | [What About Me](https://open.spotify.com/album/3eecVVjE70mnWV4R4uari7) | 3:25 | 2022-07-28 | 2022-09-23 |
 | [what awaits?](https://open.spotify.com/track/7Db0bRUVo0mjiirrpl51I0) | [bottlewoman](https://open.spotify.com/artist/24Vfz0c1aaf1k2nVAiBni5) | [what awaits?](https://open.spotify.com/album/5PVHIhHPGwjy7JjvvTeBdu) | 3:22 | 2023-07-21 | 2024-02-16 |
 | [What Fools Do](https://open.spotify.com/track/24KTfG74Z4brtfRxhGr2qV) | [Sarsa Kailas](https://open.spotify.com/artist/5kouM0z5Ne4bUuHpvBStjP) | [What Fools Do](https://open.spotify.com/album/5cHDJlYEpKfFpiYNrowkMS) | 3:34 | 2021-12-01 | 2022-01-14 |
+| [What I Should Do](https://open.spotify.com/track/2vrzg8A9jkBCDd8magGdjm) | [Virgo's Child](https://open.spotify.com/artist/2An9jABsB4sGREMIdIwHHp) | [What I Should Do](https://open.spotify.com/album/4FTuWtqAhSy6m01oqmJuga) | 2:30 | 2024-03-21 |  |
 | [What Is Love](https://open.spotify.com/track/0E5M9OnCcCO2O02iBbej1Z) | [Airii](https://open.spotify.com/artist/0PGpHU7ykfVuBw819Gbd18) | [What Is Love](https://open.spotify.com/album/5secPVs9MUO1cpVpFjLGMr) | 3:01 | 2022-01-13 | 2022-06-17 |
 | [What Went Wrong](https://open.spotify.com/track/0W3LecX7VVuMxgelsshS72) | [Izat Ibrahim](https://open.spotify.com/artist/7H7lmD1o6jjZFvclnVDIwc) | [What Went Wrong](https://open.spotify.com/album/43fQagS136MVf0xI00jg1N) | 3:47 | 2022-01-13 | 2022-03-11 |
 | [WHAT WOULD I DO?](https://open.spotify.com/track/1sFXoIocM3iQQs21Kw6mb7) | [TENGY](https://open.spotify.com/artist/40NI9ZKB9SZhfBD81Yv7pK) | [WHAT WOULD I DO?](https://open.spotify.com/album/7tm9KvtZYiQCi1S7LJtd3y) | 3:23 | 2022-07-28 | 2022-09-23 |

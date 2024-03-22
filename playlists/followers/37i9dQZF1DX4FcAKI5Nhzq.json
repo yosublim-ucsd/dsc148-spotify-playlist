@@ -1,7 +1,7 @@
 {
-  "2024-03-21": 803333,
+  "2024-03-22": 803448,
   "date_first_scraped": "2020-10-13",
-  "description": "Future K-Pop hits! Cover: YooA",
+  "description": "Future K-Pop hits! Cover: LUCY",
   "name": "K-Pop Rising",
   "tracks": [
     {
@@ -8103,7 +8103,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-21",
       "duration_ms": 164133,
       "name": "I WANNA KNOW",
       "url": "https://open.spotify.com/track/4ki0EcH3qL0DEbXqZIz1GI"
@@ -10703,7 +10703,7 @@
       ],
       "date_added": "2023-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-21",
       "duration_ms": 178013,
       "name": "Memories",
       "url": "https://open.spotify.com/track/11s5p72subU7SHJPzyR2Lq"
@@ -16330,6 +16330,24 @@
     },
     {
       "album": {
+        "name": "The knight who can't die and the silk cradle",
+        "url": "https://open.spotify.com/album/2AuUWIKUhxvxoD2gS7Z2mG"
+      },
+      "artists": [
+        {
+          "name": "LUCY",
+          "url": "https://open.spotify.com/artist/4eh2JeBpQaScfHKKXZh5vO"
+        }
+      ],
+      "date_added": "2024-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248613,
+      "name": "The knight who can't die and the silk cradle",
+      "url": "https://open.spotify.com/track/7liPa1ogr6uKLBBfuKuCJh"
+    },
+    {
+      "album": {
         "name": "The Melody",
         "url": "https://open.spotify.com/album/749XA133WWzUmG03OCSqFn"
       },
@@ -17849,6 +17867,24 @@
       "duration_ms": 177386,
       "name": "WE",
       "url": "https://open.spotify.com/track/3zbgCTtyOc85T2ZXW1aOa0"
+    },
+    {
+      "album": {
+        "name": "HOUSE OF TRICKY : Trial And Error",
+        "url": "https://open.spotify.com/album/4JyXIbXVhgzCa7DU0K6V1O"
+      },
+      "artists": [
+        {
+          "name": "xikers",
+          "url": "https://open.spotify.com/artist/6QHP8St0MzfNDqjKpwtMht"
+        }
+      ],
+      "date_added": "2024-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189441,
+      "name": "We Don\u2019t Stop",
+      "url": "https://open.spotify.com/track/67ZvVtW278IHsAxnzglQt4"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTxofAzA6rAK.md) - [plain]
 
 > Latest and biggest tracks from Jamaica's Dancehall scene\. Cover: Intence
 
-[Spotify](https://open.spotify.com/user/spotify) - 62,687 likes - 150 songs - 7 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 62,743 likes - 150 songs - 7 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTxofAzA6rAK.md) - [plain]
 | 19 | [Vibe \(feat\. Popcaan\)](https://open.spotify.com/track/4VFk3eto9JaRlOQokHWZZB) | [Skip Marley](https://open.spotify.com/artist/4ryoUS0W8qXokfMxrlJt6O), [Popcaan](https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR) | [Vibe](https://open.spotify.com/album/4vY5bGXeYLqW2gQqADFMty) | 3:15 |
 | 20 | [Expensive](https://open.spotify.com/track/1y6bjh1s2Y1FG7CnSZnHqq) | [Valiant](https://open.spotify.com/artist/7dvG18F378r7HRxmiHn3ti) | [Expensive](https://open.spotify.com/album/0aqdTmcfIcrn3pEin6JvtR) | 3:55 |
 | 21 | [Vibes Weekend](https://open.spotify.com/track/0Vx37NnFDCBLjTn1TmOq1Y) | [Kranium](https://open.spotify.com/artist/1LKo6ZA3RNvKtLa6zDu32S) | [Vibes Weekend](https://open.spotify.com/album/5xLNwO9hSAWMEQN1fNcIsK) | 2:53 |
-| 22 | [Calmc](https://open.spotify.com/track/4qRTXseVumpZKty0AGH1o5) | [Kraff Gad](https://open.spotify.com/artist/4ULg9wVZKb01ORw7AIZBDR) | [Calmc](https://open.spotify.com/album/2VqdB8PN5Fm5JEfHlTee4X) | 2:53 |
-| 23 | [West Indies](https://open.spotify.com/track/2OFvClbKLxtHeVMb3O1pOX) | [Koffee](https://open.spotify.com/artist/1gWjcmBsveEYMxOZ0VRi32) | [Gifted](https://open.spotify.com/album/4Ch605EjDQIZowlcaArlLP) | 3:57 |
+| 22 | [West Indies](https://open.spotify.com/track/2OFvClbKLxtHeVMb3O1pOX) | [Koffee](https://open.spotify.com/artist/1gWjcmBsveEYMxOZ0VRi32) | [Gifted](https://open.spotify.com/album/4Ch605EjDQIZowlcaArlLP) | 3:57 |
+| 23 | [Calmc](https://open.spotify.com/track/4qRTXseVumpZKty0AGH1o5) | [Kraff Gad](https://open.spotify.com/artist/4ULg9wVZKb01ORw7AIZBDR) | [Calmc](https://open.spotify.com/album/2VqdB8PN5Fm5JEfHlTee4X) | 2:53 |
 | 24 | [Imperfections](https://open.spotify.com/track/7Hly3BuOvebTEuRRRKjsGC) | [450](https://open.spotify.com/artist/2v6V75NbousiJwy2HV44VL), [Weekday](https://open.spotify.com/artist/2ZoRuY63B7fzl9HaKjlWoF) | [Imperfections](https://open.spotify.com/album/4Y6O56WU1RCfEXPmBnMhFf) | 2:46 |
 | 25 | [Feelings \(Remix\)](https://open.spotify.com/track/5Bij2gXhLEUUxyPGcZZFFj) | [D'yani](https://open.spotify.com/artist/3c4mJY5ixVvzRBdYvBtxci), [Jada Kingdom](https://open.spotify.com/artist/2FgooFaZzZy6PUyJImk0kG) | [Feelings \(Remix\)](https://open.spotify.com/album/3DgIXwqAlgbDSIJZhLj3ba) | 3:37 |
 | 26 | [Whap Whap \(feat\. F.S.\)](https://open.spotify.com/track/47MwPx7nbFUD5IGVhL38Zr) | [Skillibeng](https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst), [F.S.](https://open.spotify.com/artist/0KR0MgITEQAm0sLRrcuExN) | [Whap Whap \(feat\. F.S.\)](https://open.spotify.com/album/1NR77oknzl4KJylIBuhvvu) | 3:01 |
@@ -64,9 +64,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTxofAzA6rAK.md) - [plain]
 | 54 | [Dark Room](https://open.spotify.com/track/5zD3d3m97Ferk4pgkUPEmb) | [Shane O](https://open.spotify.com/artist/3ZOaLn1Bn5j7Cb7fC2BLzF) | [Dark Room](https://open.spotify.com/album/5YIVlPFxJJq4xZhDUzd8Eb) | 3:13 |
 | 55 | [Skeleton Cartier](https://open.spotify.com/track/7vRm8Bzniw9mtHoFtnoxB0) | [Popcaan](https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR) | [Great Is He](https://open.spotify.com/album/5DVnzAiFpPirUnh3QPv1ZR) | 3:41 |
 | 56 | [Yahoo Boyz](https://open.spotify.com/track/4lE9Acw3XuiLhz32imREj4) | [Intence](https://open.spotify.com/artist/3gwIlS9NOwBgwV3RfQIYiR), [Countree Hype](https://open.spotify.com/artist/4trjztkEHNUqYhnW3XTG8C) | [Yahoo Boyz](https://open.spotify.com/album/6h8yCyZibQMYez5ZgzFUDt) | 2:37 |
-| 57 | [Moca](https://open.spotify.com/track/25gAArCPkbQRxgb7HXYqrP) | [Byron Messia](https://open.spotify.com/artist/3IDfJpj4YVkaBl7Dd52Pxv), [Extol](https://open.spotify.com/artist/3ReabnaThIxgrhVNwiGIQj) | [Moca](https://open.spotify.com/album/2BbdZLSx9ZxqRK8NlCrmmw) | 3:03 |
-| 58 | [BOUNCE](https://open.spotify.com/track/744IMVuf8wEVECCOLThDHJ) | [DING DONG](https://open.spotify.com/artist/351x2S7CduShTNvtzgkMl7), [Dunw3ll](https://open.spotify.com/artist/0GXid8LlvA2twALSqLKYQ0) | [BOUNCE](https://open.spotify.com/album/1EIWqkCUf5ZR6FBaP0J8LV) | 2:33 |
-| 59 | [Try Dat](https://open.spotify.com/track/2Qml2dT7JFGgWRkNQTGRvh) | [Vybz Kartel](https://open.spotify.com/artist/2NUz5P42WqkxilbI8ocN76) | [Try Dat Riddim, Vol.2](https://open.spotify.com/album/5Ujgt78gz3JRjku4oGKKhR) | 3:12 |
+| 57 | [Try Dat](https://open.spotify.com/track/2Qml2dT7JFGgWRkNQTGRvh) | [Vybz Kartel](https://open.spotify.com/artist/2NUz5P42WqkxilbI8ocN76) | [Try Dat Riddim, Vol.2](https://open.spotify.com/album/5Ujgt78gz3JRjku4oGKKhR) | 3:12 |
+| 58 | [Moca](https://open.spotify.com/track/25gAArCPkbQRxgb7HXYqrP) | [Byron Messia](https://open.spotify.com/artist/3IDfJpj4YVkaBl7Dd52Pxv), [Extol](https://open.spotify.com/artist/3ReabnaThIxgrhVNwiGIQj) | [Moca](https://open.spotify.com/album/2BbdZLSx9ZxqRK8NlCrmmw) | 3:03 |
+| 59 | [BOUNCE](https://open.spotify.com/track/744IMVuf8wEVECCOLThDHJ) | [DING DONG](https://open.spotify.com/artist/351x2S7CduShTNvtzgkMl7), [Dunw3ll](https://open.spotify.com/artist/0GXid8LlvA2twALSqLKYQ0) | [BOUNCE](https://open.spotify.com/album/1EIWqkCUf5ZR6FBaP0J8LV) | 2:33 |
 | 60 | [DUNCE BARBIE](https://open.spotify.com/track/2I1fpOTZmVr6ATXe6fCTXI) | [Armanii](https://open.spotify.com/artist/48ZXHIYtqeBiklzhu3lAey), [DJ MAC](https://open.spotify.com/artist/3EC3CDEkhHY70vYFBVasZc) | [Dunce Barbie](https://open.spotify.com/album/6jwIFkOJ1blyCR0hzsY0MP) | 2:45 |
 | 61 | [Born Fighter](https://open.spotify.com/track/1Bxl4Z0pv1gIDLgvxOy4tB) | [Jahshii](https://open.spotify.com/artist/4pP4fxW65oev1NdRd2Fbn7) | [Born Fighter](https://open.spotify.com/album/4lj5UoUo0wkvwXO8rKRxhc) | 3:28 |
 | 62 | [Still a Bleed](https://open.spotify.com/track/34uBKj0bzsVkI70I8Xvpab) | [Chronic Law](https://open.spotify.com/artist/3zorWCDx017sz4UYP2fC9w) | [Still a Bleed](https://open.spotify.com/album/7yXsnGPX5pmfHxvoEDMyuG) | 3:36 |
@@ -114,9 +114,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTxofAzA6rAK.md) - [plain]
 | 104 | [She Like It \- Remix](https://open.spotify.com/track/1yCjvhIGFqctLZ6JflOH9n) | [Bayka](https://open.spotify.com/artist/7pRxYXACpWZf1i7Chd8Sk2), [Stefflon Don](https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD) | [She Like It \(Remix\)](https://open.spotify.com/album/6hVZ2HnEngQycSLXY1Ljgn) | 2:19 |
 | 105 | [Foot](https://open.spotify.com/track/07mwyrR0iD3MJjyBIRe4KQ) | [Squash](https://open.spotify.com/artist/1HXkVBU6RwIxxN6xuI6b00) | [Foot](https://open.spotify.com/album/0Eti6sYztHFTrS2p1hDRTV) | 2:47 |
 | 106 | [Ride \- Remix](https://open.spotify.com/track/3SEfX0PJAkE9mqFVMSO4QO) | [Kash Promise Move](https://open.spotify.com/artist/0n2GVhODT8CJldQoVdsMw4), [Jada Kingdom](https://open.spotify.com/artist/2FgooFaZzZy6PUyJImk0kG) | [Ride \(Remix\)](https://open.spotify.com/album/5ksTZQyb1EcTen6NYlEgL5) | 3:05 |
-| 107 | [Leggo Mi Ears \- Remix](https://open.spotify.com/track/32N0pwVyn0MCtt07r84BAN) | [Tatik](https://open.spotify.com/artist/2MJT5iXdO2amV4LQ4QYOhQ), [Valiant](https://open.spotify.com/artist/7dvG18F378r7HRxmiHn3ti) | [Leggo Mi Ears \(Remix\)](https://open.spotify.com/album/7xGJ194K1JhpXgbJNLBrse) | 2:51 |
-| 108 | [1Matik](https://open.spotify.com/track/1PZplUw7AKK4p6ch8aoK1d) | [Govana](https://open.spotify.com/artist/5Xi3NfsVBIEbaWVUfBTy39) | [1Matik](https://open.spotify.com/album/59gIceHJs6XstV3vX2jooB) | 3:24 |
-| 109 | [Dirt Bounce](https://open.spotify.com/track/2taOCWw2kDDQuISz8b9cpc) | [Laa Lee](https://open.spotify.com/artist/4cb3HigJCNGP3rcRhVbYwS) | [Dirt Bounce](https://open.spotify.com/album/0EiBPLcKV9pZ9ITQiAERNO) | 2:56 |
+| 107 | [Dirt Bounce](https://open.spotify.com/track/2taOCWw2kDDQuISz8b9cpc) | [Laa Lee](https://open.spotify.com/artist/4cb3HigJCNGP3rcRhVbYwS) | [Dirt Bounce](https://open.spotify.com/album/0EiBPLcKV9pZ9ITQiAERNO) | 2:56 |
+| 108 | [Leggo Mi Ears \- Remix](https://open.spotify.com/track/32N0pwVyn0MCtt07r84BAN) | [Tatik](https://open.spotify.com/artist/2MJT5iXdO2amV4LQ4QYOhQ), [Valiant](https://open.spotify.com/artist/7dvG18F378r7HRxmiHn3ti) | [Leggo Mi Ears \(Remix\)](https://open.spotify.com/album/7xGJ194K1JhpXgbJNLBrse) | 2:51 |
+| 109 | [1Matik](https://open.spotify.com/track/1PZplUw7AKK4p6ch8aoK1d) | [Govana](https://open.spotify.com/artist/5Xi3NfsVBIEbaWVUfBTy39) | [1Matik](https://open.spotify.com/album/59gIceHJs6XstV3vX2jooB) | 3:24 |
 | 110 | [Solid](https://open.spotify.com/track/2VaNkF1sBKCr1G5lKutDnZ) | [Chronic Law](https://open.spotify.com/artist/3zorWCDx017sz4UYP2fC9w), [JayStylez](https://open.spotify.com/artist/4Lbe5oO1hTQW4DwUMS4HVh) | [Solid](https://open.spotify.com/album/5PMd3N5kBbLiynnY3OkaaW) | 2:24 |
 | 111 | [Money & Done \- Remix](https://open.spotify.com/track/488Uem9ellPhXvA8XfBhty) | [Mavado](https://open.spotify.com/artist/0eezS9KmhdjGN436RdTIXu), [Kalash](https://open.spotify.com/artist/3J7r4VsNmuWixU0nXvyPd8), [Black Shadow](https://open.spotify.com/artist/2p9Ir76xCg114T9P67Hk1z) | [Money & Done \(Remix\)](https://open.spotify.com/album/4YX0QGF4fbGoxDAjBLtueO) | 2:40 |
 | 112 | [Don't Play with Me](https://open.spotify.com/track/3XIZmcWXwjvPv1bUgz6qj7) | [Squash](https://open.spotify.com/artist/1HXkVBU6RwIxxN6xuI6b00) | [Don't Play with Me](https://open.spotify.com/album/7h9p1vEitLwJgfA0V78Erz) | 2:59 |
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTxofAzA6rAK.md) - [plain]
 | 149 | [World Domination](https://open.spotify.com/track/6Qf8dbx2sDj0yusY6uJ2lF) | [Alkaline](https://open.spotify.com/artist/2LIAgeQ5NZurwixfoG3CWZ) | [World Domination](https://open.spotify.com/album/1mUvZQXcmX7WuNUePvhDUF) | 2:58 |
 | 150 | [Who Cares](https://open.spotify.com/track/1V2JgYBZYFW5zmLrWMQf4w) | [Squash](https://open.spotify.com/artist/1HXkVBU6RwIxxN6xuI6b00) | [Who Cares](https://open.spotify.com/album/20KtHUMM6VGYqfsUVF8QTb) | 2:42 |
 
-Snapshot ID: `MCw4YjRmNDM3NzRkNTliMDNmNjg0YzE2NzNkN2I4YWU5NTFlNzQ4YmJj`
+Snapshot ID: `MCxiMDFiNjFlOTA1MzhiMzkyMTRlYzQxMTZhMzYyNzgwZGYzZWVkMzJj`

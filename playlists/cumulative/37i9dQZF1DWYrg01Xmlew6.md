@@ -4,7 +4,7 @@
 
 > Rap napoletano e il meglio della scena campana\. Kid Lost in cover.
 
-298 songs - 13 hr 47 min
+299 songs - 13 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,7 +59,7 @@
 | [CLEAN](https://open.spotify.com/track/2v71zuC2m9gItAYrXWTFcn) | [Pit](https://open.spotify.com/artist/5dO2ChPqNYjEyy3wXA5R0A) | ['A Tiemp 'a tiemp \(EP\)](https://open.spotify.com/album/7d09N3oPvb8DxAXMUxBPe1) | 2:16 | 2022-07-21 | 2022-07-29 |
 | [Colpa Mia](https://open.spotify.com/track/7qFqO4ytYYQCYRO8j13nIG) | [Nicola Siciliano](https://open.spotify.com/artist/0q0CTttRdwiuDFmDiN7jAt) | [Colpa Mia](https://open.spotify.com/album/0Wp77ioPW3AFkhEEcXKM2P) | 2:54 | 2024-01-25 |  |
 | [Comandamento \(feat\. Geolier\)](https://open.spotify.com/track/3qWKjLK0EKxylouzVaiTwh) | [Paky](https://open.spotify.com/artist/1KQJOTeIMbixtnSWY4sYs2), [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s) | [Salvatore](https://open.spotify.com/album/0RZfejsPZnXDvacWKUe85B) | 3:09 | 2022-05-10 | 2022-08-13 |
-| [COME VUOI](https://open.spotify.com/track/5x9LonDyHxGUO2VzfHJHLE) | [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s) | [IL CORAGGIO DEI BAMBINI](https://open.spotify.com/album/5FAlSQMZ4j8pPa4sp0ZB4K) | 2:52 | 2023-01-12 |  |
+| [COME VUOI](https://open.spotify.com/track/5x9LonDyHxGUO2VzfHJHLE) | [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s) | [IL CORAGGIO DEI BAMBINI](https://open.spotify.com/album/5FAlSQMZ4j8pPa4sp0ZB4K) | 2:52 | 2023-01-12 | 2024-03-22 |
 | [CREATUR](https://open.spotify.com/track/3x3zzu71pDb02u6bOtTDvh) | [Pit](https://open.spotify.com/artist/5dO2ChPqNYjEyy3wXA5R0A) | [CREATUR](https://open.spotify.com/album/3HPRHm1cSto7dT0mhzFEB4) | 2:37 | 2023-06-01 | 2023-06-15 |
 | [CRIATUR \(From the Netflix Rap Show “Nuova Scena”\)](https://open.spotify.com/track/147hzs261FAZBpwfQkOUCL) | [Kid Lost](https://open.spotify.com/artist/4oGlqM93JwM3Bx5X0wvLTu) | [CRIATUR \(From the Netflix Rap Show “Nuova Scena”\)](https://open.spotify.com/album/4v2vbwWe9ongpkfgLJDbir) | 2:54 | 2024-03-06 |  |
 | [Cuore](https://open.spotify.com/track/0d16j8Dro7bPysTqCC41gx) | [Shablo](https://open.spotify.com/artist/6hkKbkZGvAXuvle2FhCnxy), [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s), [Coez](https://open.spotify.com/artist/5dXlc7MnpaTeUIsHLVe3n4) | [Cuore](https://open.spotify.com/album/2QuV4BJfv91iB4alvddypY) | 3:22 | 2022-06-23 | 2022-11-18 |
@@ -244,6 +244,7 @@
 | [Scale \(con Luchè\)](https://open.spotify.com/track/1odrZy5kTuj3SGdfgzhMzq) | [Night Skinny](https://open.spotify.com/artist/2E6AK3UPEGCvjnzuygCh2h), [Luchè](https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4) | [Botox](https://open.spotify.com/album/4nhZUFV7XuVY3hfsXB7EMt) | 2:32 | 2023-04-06 |  |
 | [Scale \(con Luchè\)](https://open.spotify.com/track/5kaJg74U4GWosPvjOJujXD) | [Night Skinny](https://open.spotify.com/artist/2E6AK3UPEGCvjnzuygCh2h), [Luchè](https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4) | [Botox](https://open.spotify.com/album/1CjtjrWyjx2eT5OejciTVr) | 2:32 | 2022-09-20 | 2023-04-13 |
 | [Se Campa Na Vota Sola](https://open.spotify.com/track/1PVoh8SoROGd1bOChojG7t) | [Priore](https://open.spotify.com/artist/7zWFzmh5NZhmBzwWjHjnro) | [Se Campa Na Vota Sola](https://open.spotify.com/album/7e5Cf2pMJyhODL80E07M2V) | 2:42 | 2022-12-01 | 2022-12-16 |
+| [SEXTING](https://open.spotify.com/track/60wzYORsvLUZtlmGGPrbRt) | [Kunta](https://open.spotify.com/artist/2yJDUGrAgtX7NyJ1RULAnX) | [SEXTING](https://open.spotify.com/album/2vWSVoc1V0ZXNy0qWt1Pl2) | 3:04 | 2024-03-21 |  |
 | [SGUARDI PERSI](https://open.spotify.com/track/1GjdvlHLp5d1ycZPocsAbS) | [Cecchy](https://open.spotify.com/artist/2yLVjmzpKCw0B7SKpWeZjN), [LilTony](https://open.spotify.com/artist/6iqapqgOqZ9HEt3G6ByUrh), [808s](https://open.spotify.com/artist/2GOXq0IQdGC0Ke965fc6ys) | [SGUARDI PERSI](https://open.spotify.com/album/35yHTPThuoMhZT48qyZ7C0) | 2:38 | 2023-03-30 | 2023-04-28 |
 | [Shake That Ass \(feat\. MamboLosco\)](https://open.spotify.com/track/2AMTqFIevr6wZRofMA0JJ0) | [Peppe Soks](https://open.spotify.com/artist/2BNVHk103mhpIy5ytlCHTT), [MamboLosco](https://open.spotify.com/artist/4BFn4jmfqSNaHtPWHTcy41) | [Ammore Malamente](https://open.spotify.com/album/5pydbU79C724udCB6btJsy) | 2:30 | 2023-04-20 | 2023-05-05 |
 | [Shawty \(feat\. ANNA\)](https://open.spotify.com/track/2FSyRgYesfoqC0xGVmHgeH) | [Yung Snapp](https://open.spotify.com/artist/4y5lvMadZv6NAv8RgcCRem), [ANNA](https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u) | [Shawty \(feat\. ANNA\)](https://open.spotify.com/album/0Lk62qOfyMoDWD4iIpNZjy) | 3:04 | 2023-05-09 |  |

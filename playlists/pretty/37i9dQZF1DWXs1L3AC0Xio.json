@@ -1,12 +1,12 @@
 {
   "description": "lighters up for these awesome rock ballads.",
-  "num_followers": 714753,
+  "num_followers": 714919,
   "original_name": "Rock Ballads",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhOWQ1ZjQ3ZTJkNGI3NDk4YjY0ZTc0YTI4MDEyNmM5NmU0MTY1OTg5",
+  "snapshot_id": "MCxlMDk1ZjRhNjA4NzNjNDQ0MjYyZWU1OTcyMjIzMWU4MjAzMWMzNTU3",
   "tracks": [
     {
       "added_at": "2024-03-06 18:56:14",
@@ -1103,22 +1103,6 @@
     {
       "added_at": "2024-03-06 18:56:14",
       "album": {
-        "name": "Adelitas Way",
-        "url": "https://open.spotify.com/album/5P5ckQNn8AibK7TVTVrUoC"
-      },
-      "artists": [
-        {
-          "name": "Adelitas Way",
-          "url": "https://open.spotify.com/artist/1ZjAT2nTrzDIXFfsQ2hWJk"
-        }
-      ],
-      "duration_ms": 224666,
-      "name": "Last Stand",
-      "url": "https://open.spotify.com/track/27TPpj59ml6N7las1h696d"
-    },
-    {
-      "added_at": "2024-03-06 18:56:14",
-      "album": {
         "name": "STILL SUCKS",
         "url": "https://open.spotify.com/album/2lZ9RqGnGXH8gtH3DK02tJ"
       },
@@ -1131,6 +1115,22 @@
       "duration_ms": 175203,
       "name": "Don't Change",
       "url": "https://open.spotify.com/track/6do9iwoqKRIvEvRTsXlOoZ"
+    },
+    {
+      "added_at": "2024-03-06 18:56:14",
+      "album": {
+        "name": "Adelitas Way",
+        "url": "https://open.spotify.com/album/5P5ckQNn8AibK7TVTVrUoC"
+      },
+      "artists": [
+        {
+          "name": "Adelitas Way",
+          "url": "https://open.spotify.com/artist/1ZjAT2nTrzDIXFfsQ2hWJk"
+        }
+      ],
+      "duration_ms": 224666,
+      "name": "Last Stand",
+      "url": "https://open.spotify.com/track/27TPpj59ml6N7las1h696d"
     },
     {
       "added_at": "2024-03-06 18:56:14",
@@ -1231,22 +1231,6 @@
     {
       "added_at": "2024-03-06 18:56:14",
       "album": {
-        "name": "All Your Favorite Bands",
-        "url": "https://open.spotify.com/album/1MuenT1cvvI0YCs3hsJDBE"
-      },
-      "artists": [
-        {
-          "name": "Dawes",
-          "url": "https://open.spotify.com/artist/0CDUUM6KNRvgBFYIbWxJwV"
-        }
-      ],
-      "duration_ms": 243319,
-      "name": "Things Happen",
-      "url": "https://open.spotify.com/track/2SYvX2G6D5SD6BpijIOBpG"
-    },
-    {
-      "added_at": "2024-03-06 18:56:14",
-      "album": {
         "name": "Perdida",
         "url": "https://open.spotify.com/album/27evZfDFySSv4dcje8afMI"
       },
@@ -1259,6 +1243,22 @@
       "duration_ms": 261880,
       "name": "Fare Thee Well",
       "url": "https://open.spotify.com/track/1fzw0qGcB6xs4IBXhdfAkj"
+    },
+    {
+      "added_at": "2024-03-06 18:56:14",
+      "album": {
+        "name": "All Your Favorite Bands",
+        "url": "https://open.spotify.com/album/1MuenT1cvvI0YCs3hsJDBE"
+      },
+      "artists": [
+        {
+          "name": "Dawes",
+          "url": "https://open.spotify.com/artist/0CDUUM6KNRvgBFYIbWxJwV"
+        }
+      ],
+      "duration_ms": 243319,
+      "name": "Things Happen",
+      "url": "https://open.spotify.com/track/2SYvX2G6D5SD6BpijIOBpG"
     }
   ],
   "unique_name": "Rock Ballads",

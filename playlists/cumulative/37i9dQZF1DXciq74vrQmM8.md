@@ -2,14 +2,14 @@
 
 ### [misfits 2.0](https://open.spotify.com/playlist/37i9dQZF1DXciq74vrQmM8)
 
-> welcome to our 𝖚𝖓𝖎𝖛𝖊𝖗𝖘𝖊 ft\. Banshee
+> welcome to our 𝖚𝖓𝖎𝖛𝖊𝖗𝖘𝖊 ft\. Scene Queen
 
-771 songs - 1 day 12 hr 45 min
+774 songs - 1 day 12 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [\(WHAT DID YOU EXPECT FROM\) SEX WITH A STRANGER](https://open.spotify.com/track/2h15hDIwg3c0ojcpob5eHI) | [Lynks](https://open.spotify.com/artist/44tV2d4RDeMsS2sLOdcXHD) | [\(WHAT DID YOU EXPECT FROM\) SEX WITH A STRANGER](https://open.spotify.com/album/4vLrXibV3kr91I2deh6GUp) | 3:21 | 2023-12-08 | 2024-02-23 |
-| [100 Miles an Hour](https://open.spotify.com/track/2VzvGinwatgeCYsx8oYCgl) | [Chubby Cat](https://open.spotify.com/artist/7BkztvqJQObg4NfzHxugrZ) | [100 Miles an Hour](https://open.spotify.com/album/5QvFoRrxl7HDz9GUbcU5Qi) | 3:04 | 2024-02-23 |  |
+| [100 Miles an Hour](https://open.spotify.com/track/2VzvGinwatgeCYsx8oYCgl) | [Chubby Cat](https://open.spotify.com/artist/7BkztvqJQObg4NfzHxugrZ) | [100 Miles an Hour](https://open.spotify.com/album/5QvFoRrxl7HDz9GUbcU5Qi) | 3:04 | 2024-02-23 | 2024-03-22 |
 | [17250](https://open.spotify.com/track/4RRHEpkrrYa0TkTEyTPUv7) | [glaive](https://open.spotify.com/artist/4cJKDGSv4Dz9QycXYmo565) | [i care so much that i dont care at all](https://open.spotify.com/album/05vrswB4MQ52sF3ZyX1jDC) | 2:31 | 2023-07-13 | 2023-09-22 |
 | [18+](https://open.spotify.com/track/3SqPQRaxS6A6G7rlE7lvhs) | [Scene Queen](https://open.spotify.com/artist/6WandyxeDxlcOTwxtnTKP4) | [18+](https://open.spotify.com/album/6oveIE1VtjcawBs2UlM3Mn) | 3:13 | 2023-03-17 | 2023-09-29 |
 | [1x1 \(feat\. Nova Twins\)](https://open.spotify.com/track/6sIbv1oWOuma2qV907MUbk) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF), [Nova Twins](https://open.spotify.com/artist/7I95CM75shzCjHuTzrepjM) | [POST HUMAN: SURVIVAL HORROR](https://open.spotify.com/album/0e1WaSNDZnoPixaxDNdWo4) | 3:29 | 2023-06-12 | 2023-07-28 |
@@ -100,6 +100,7 @@
 | [braindead!](https://open.spotify.com/track/4GYRVROTrMnOnMzOlWizzO) | [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW) | [HI! NICE TO MEET YA](https://open.spotify.com/album/4HM4CTkJrx5x2pK0sgNALM) | 2:43 | 2022-05-12 | 2022-05-18 |
 | [Brat](https://open.spotify.com/track/6RBoDti7RDKjA3HQadiLDy) | [Delilah Bon](https://open.spotify.com/artist/5JUFYlgwsbqpLcU9TMlsve) | [Brat](https://open.spotify.com/album/06LFLzsI6HOJU1E0Lbcgv3) | 3:06 | 2023-04-20 | 2023-10-13 |
 | [break me!](https://open.spotify.com/track/4kAtlOHiKnGFfJVPfLyHo1) | [Maggie Lindemann](https://open.spotify.com/artist/0uGk2czvcpWQA383Im6ajf), [Siiickbrain](https://open.spotify.com/artist/1oPEr1Ci8sWOYj8SSh2VPE) | [break me!](https://open.spotify.com/album/3mV2ebkKgbEaEjnTbi0sJD) | 2:33 | 2022-06-02 | 2022-09-23 |
+| [break!](https://open.spotify.com/track/7172TPIseIF3lB54hmlo14) | [inuday](https://open.spotify.com/artist/29OqAIxz15uCoDjXX0a4Gg) | [break!](https://open.spotify.com/album/2V8H83CvzDHOCiFBs28D7m) | 2:26 | 2024-03-22 |  |
 | [Breakhearts](https://open.spotify.com/track/1c1Vw5n3oNvUk4AhsohBqC) | [heffy](https://open.spotify.com/artist/00YJFmTkMloy3dYPLExyRr) | [Breakhearts](https://open.spotify.com/album/19dbRtvQvOC2bd7YDNT1pH) | 1:50 | 2022-08-27 | 2022-09-02 |
 | [brkdwn](https://open.spotify.com/track/17Ag5tNS39vOxvygMVlnJU) | [phem](https://open.spotify.com/artist/0MGJHTThvyAyqKuEAgPqDr) | [never goes down like that \(ft\. Ezekiel\)](https://open.spotify.com/album/603LFBRrrCMiwfQlBaQNwl) | 2:15 | 2023-01-21 | 2023-03-31 |
 | [BUBBLEGUM](https://open.spotify.com/track/1h1YtwDu2DOYxFaJQbNRYj) | [Sizzy Rocket](https://open.spotify.com/artist/2CBvbVxhd3ZJXRTCl88H7E) | [Live Laugh Love](https://open.spotify.com/album/4zOkgUkqLbQCK0POFJ3L7S) | 2:04 | 2022-11-18 | 2023-01-20 |
@@ -146,7 +147,7 @@
 | [contort](https://open.spotify.com/track/47a1THBFA7bDEPzgAL4sqm) | [girl\_irl](https://open.spotify.com/artist/0JVxdYzBWXOjkjt2e5r76D) | [contort](https://open.spotify.com/album/1lVbdlkxRU2EOVT5FzpTrg) | 2:16 | 2023-11-10 | 2024-01-26 |
 | [Cops and robbers](https://open.spotify.com/track/7s4EFCLbEw5HUm2lKjnOTW) | [underscores](https://open.spotify.com/artist/7HfUJxeVTgrvhk0eWHFzV7) | [Cops and robbers](https://open.spotify.com/album/6yXnKNNgTQ732nJwM5WAXo) | 4:25 | 2023-05-04 | 2023-08-11 |
 | [CORPSE$](https://open.spotify.com/track/0J5apfOF4WspEaSzDf5CIn) | [LUzA CULT](https://open.spotify.com/artist/3PNeM7iJ589do6dmOP26IT), [Lui Surreal](https://open.spotify.com/artist/1iYbQXLrNdjcndT8cyfA8m), [SAVE Az](https://open.spotify.com/artist/41zUkY4aPJbXRPGdDH25y7), [triplesixdelete](https://open.spotify.com/artist/1MWqzCKKuVN5wDahu2F4g2) | [CORPSE$](https://open.spotify.com/album/2RelSGPWsonQDrBVgLqXnA) | 1:44 | 2022-01-05 | 2022-03-25 |
-| [Corruption's Last Victim](https://open.spotify.com/track/1KNRM5ur33sm3wsrZc3GDY) | [Rex Arcum](https://open.spotify.com/artist/2aESSO1rH5zYGmkTqvLQfI) | [Corruption's Last Victim](https://open.spotify.com/album/346o4Y0pk4iBot8NayGjEI) | 2:17 | 2024-01-12 |  |
+| [Corruption's Last Victim](https://open.spotify.com/track/1KNRM5ur33sm3wsrZc3GDY) | [Rex Arcum](https://open.spotify.com/artist/2aESSO1rH5zYGmkTqvLQfI) | [Corruption's Last Victim](https://open.spotify.com/album/346o4Y0pk4iBot8NayGjEI) | 2:17 | 2024-01-12 | 2024-03-22 |
 | [couldn't care less](https://open.spotify.com/track/1sLWgbOqMolBU1yQUKZTYF) | [Sepha.](https://open.spotify.com/artist/094ug46k28Q0tdaGPm3WNA) | [couldn't care less](https://open.spotify.com/album/3eLTT0rJiKbhYRzH7PMW7d) | 4:34 | 2023-08-10 | 2023-10-13 |
 | [Count of three \(You can eat $\#@!\)](https://open.spotify.com/track/2NFag2zEx2GC5ySs0d3IaS) | [underscores](https://open.spotify.com/artist/7HfUJxeVTgrvhk0eWHFzV7) | [Count of three \(You can eat $\#@!\)](https://open.spotify.com/album/5VQi7iQ03yrVsFV3z5DCiq) | 2:39 | 2023-01-20 | 2023-03-03 |
 | [Count of three \(You can eat $\#@!\)](https://open.spotify.com/track/4oTC6fJ9zHfiyVyARI8BTe) | [underscores](https://open.spotify.com/artist/7HfUJxeVTgrvhk0eWHFzV7) | [Count of three \(You can eat $\#@!\)](https://open.spotify.com/album/0lECZgEfNA8676KlvMRzp9) | 2:39 | 2023-03-10 | 2023-04-07 |
@@ -402,6 +403,7 @@
 | [JUNI](https://open.spotify.com/track/4oEohO4fJMvAhcRmoGJ0zM) | [Bobbi Arlo](https://open.spotify.com/artist/5cudb4Wjab9hm3JH34VzgB) | [JUNI](https://open.spotify.com/album/4j0ct9VWQ3wAzIWlG6iY2t) | 2:35 | 2023-04-27 | 2023-06-30 |
 | [JUNKIE](https://open.spotify.com/track/6azzQpelUGRtIQUfgR9R0J) | [Royal & the Serpent](https://open.spotify.com/artist/64EHXDoln95lnccszdPum0) | [RAT TRAP 2: the burn](https://open.spotify.com/album/4kDBAwGGcSpxs6d4FFdPYG) | 3:08 | 2024-03-08 | 2024-03-09 |
 | [Just for me](https://open.spotify.com/track/67lOnPna7dewLKizrVu31v) | [Glitch Gum](https://open.spotify.com/artist/1wpftBruYql3kTa4Px6kze) | [Just for me](https://open.spotify.com/album/3j2m4CvN4dphBLAv7e2tUt) | 2:23 | 2021-12-27 | 2022-02-13 |
+| [Just Your Doll](https://open.spotify.com/track/2VhIrOqGmhSuTKhKG2KCux) | [Snow Strippers](https://open.spotify.com/artist/6TsAG8Ve1icEC8ydeHm3C8) | [Night Killaz Vol\. 1](https://open.spotify.com/album/0BYXEDtEXZ1fMYXCOb9Pnw) | 2:27 | 2024-03-22 |  |
 | [Justice](https://open.spotify.com/track/6ZJMpKYUdNjs4V7fmr8ewY) | [THE RIOT](https://open.spotify.com/artist/0bBGGhs1QuXp7FxPKT0QfN) | [HAPPY TEARS!](https://open.spotify.com/album/3o8RAFb9pxdgag6rMCZG3y) | 3:29 | 2023-03-30 | 2023-06-02 |
 | [K.K.O](https://open.spotify.com/track/3c7HwgYVv6d3kxOQGrYk0G) | [Piers James](https://open.spotify.com/artist/1M5jchd0rXJneek1xALRFW) | [K.K.O](https://open.spotify.com/album/6QMZWUgeNUjAqwaxgFsPFm) | 1:56 | 2023-02-03 | 2023-03-10 |
 | [K.M.B.](https://open.spotify.com/track/3v18sKtzeSiREITWYWPGnh) | [Nova Twins](https://open.spotify.com/artist/7I95CM75shzCjHuTzrepjM) | [K.M.B.](https://open.spotify.com/album/2yK4JovZF5kJ4vKRFFG9Y5) | 3:15 | 2022-02-04 | 2022-04-01 |
@@ -740,6 +742,7 @@
 | [what the fuck is an e\-girl?](https://open.spotify.com/track/48ygGqboHA5p3I3sPK1R3a) | [infinityghxst](https://open.spotify.com/artist/4ApE9Yxa0DapeSgil3EevH) | [what the fuck is an e\-girl?](https://open.spotify.com/album/0YSoy8rBzCp6DCSnIhxLz9) | 1:24 | 2022-05-19 | 2022-08-05 |
 | [What Would You Do?](https://open.spotify.com/track/5v2lHIHssGvhW1vcJuLrLq) | [Daisy Brain](https://open.spotify.com/artist/5WuDKeWph4EKsyy9e56Mz4) | [What Would You Do?](https://open.spotify.com/album/039EIWZALzu9b9Yy5W6x9p) | 2:21 | 2022-02-18 | 2022-03-19 |
 | [WHAT'S WRONG?](https://open.spotify.com/track/1iU6wiNG5YY7AaL2rfAqZf) | [UGLY CLUB](https://open.spotify.com/artist/5s7VdvEojBKMO8vu2EbGmY) | [WHAT'S WRONG?](https://open.spotify.com/album/2y775AKJXrpQ9e38wfRXKT) | 2:47 | 2023-11-10 | 2024-01-26 |
+| [When She Told Me](https://open.spotify.com/track/1uRF3CIh24PY17wR5v5k6Q) | [Cassyette](https://open.spotify.com/artist/3X8VK5wNpLQCVEo4sWBH2A) | [When She Told Me](https://open.spotify.com/album/6r3emSLfF17MpkJAXzd5Tt) | 4:41 | 2024-03-22 |  |
 | [When The Devil Speaks…](https://open.spotify.com/track/2FKnNu9PmgcUSXXBgR2phR) | [ThxSoMch](https://open.spotify.com/artist/4MvZhE1iuzttcoyepkpfdF) | [When The Devil Speaks…](https://open.spotify.com/album/3sQh8PifUrBSJCg0x5YZLG) | 3:02 | 2023-12-08 |  |
 | [When We Die \(Can We Still Get High?\) \(feat\. Lil Yachty\)](https://open.spotify.com/track/08uWHOhYijA1DXxhHSDBDH) | [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [When We Die \(Can We Still Get High?\) \(feat\. Lil Yachty\)](https://open.spotify.com/album/3pgq59bj7H3zljjzgXvs6A) | 5:00 | 2024-01-26 |  |
 | [where's my head at \_](https://open.spotify.com/track/1hJN8hZvzEvOvqX32jSSrw) | [Basement Jaxx](https://open.spotify.com/artist/4YrKBkKSVeqDamzBPWVnSJ), [100 gecs](https://open.spotify.com/artist/6PfSUFtkMVoDkx4MQkzOi3) | [where's my head at \_](https://open.spotify.com/album/4djI7R2an73EEcJ7eJFX60) | 2:32 | 2023-11-17 |  |

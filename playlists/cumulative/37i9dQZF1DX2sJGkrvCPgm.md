@@ -4,7 +4,7 @@
 
 > A mix of new songs and beloved classics from your favorite Contemporary Christian artists!
 
-350 songs - 21 hr 59 min
+351 songs - 22 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -86,6 +86,7 @@
 | [Christmas Without You](https://open.spotify.com/track/16ZMSUdT4p54h2wK6LQlCy) | [Tryhard Society](https://open.spotify.com/artist/4KrJmomsDlqlzkrYXUr2Rw), [Genavieve Linkowski](https://open.spotify.com/artist/3ZTcBbm31RFUaoTeFAuiJF) | [Christmas Without You](https://open.spotify.com/album/6I2uZpmkG1o8NkHFUNUq97) | 3:47 | 2023-11-27 | 2023-12-03 |
 | [Come And Adore](https://open.spotify.com/track/66wBB10zu4AnFb2qPMPnTG) | [Lifepoint Worship](https://open.spotify.com/artist/7GPZGfVnkGTiIq3f4E78yo) | [Come And Adore](https://open.spotify.com/album/5r0cnuWOb5DrJtFXp3rbZd) | 3:36 | 2021-12-24 | 2022-11-21 |
 | [Come Home for Christmas](https://open.spotify.com/track/0kg3jsJlDCRTQUJr9ND8cv) | [Matthew West](https://open.spotify.com/artist/6e8OTLDQpaz1Tl2GEaxsNj) | [Come Home for Christmas](https://open.spotify.com/album/15uMS77uo95r4Q92eSDKHE) | 3:43 | 2022-11-26 |  |
+| [Come Thou Fount, Come Thou King \- Live](https://open.spotify.com/track/7mhe4Oqmo7wbHvTdJhIMNS) | [Gateway Worship](https://open.spotify.com/artist/2b6REyd5UBBp4ZPDhZ2TNB) | [Living For You](https://open.spotify.com/album/6RR9fA8tmVmTxZ4kWf15Qe) | 6:00 | 2023-12-15 |  |
 | [Come Thou Fount, Come Thou King \- Live](https://open.spotify.com/track/7lXtBXlaLrTw83eFT4noBG) | [Gateway Worship](https://open.spotify.com/artist/2b6REyd5UBBp4ZPDhZ2TNB), [Thomas Miller](https://open.spotify.com/artist/1xQVx9QytRWcjkLaKOjceE) | [Living for You \(Live\)](https://open.spotify.com/album/3UszwX7QlsXDBgrf5KIWLL) | 5:59 | 2021-12-24 | 2024-01-28 |
 | [Come Thou Fount; Come Thou King](https://open.spotify.com/track/4hCti6aPkwlXEz0bQAz8hu) | [Gateway Worship](https://open.spotify.com/artist/2b6REyd5UBBp4ZPDhZ2TNB) | [Experience His Presence](https://open.spotify.com/album/6t6JfBV2X2UxEjw3rxDUq6) | 5:53 | 2023-12-15 | 2024-03-07 |
 | [Come Thou Long Expected Jesus](https://open.spotify.com/track/6xQucpY9ELAnkaQH5Fjtxs) | [Laura Story](https://open.spotify.com/artist/0qKOMcuFgagNQJWHHK7NY6) | [God With Us](https://open.spotify.com/album/769hv10bfheMCJViVIr0YD) | 4:38 | 2021-12-24 |  |
@@ -321,7 +322,7 @@
 | [This Year For Christmas](https://open.spotify.com/track/19DeHNpOPLVntLXYDxtB02) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [Christmas](https://open.spotify.com/album/1TzI5wwnlBtglKMxIW0Bx7) | 3:30 | 2021-12-24 |  |
 | [This Year for Christmas](https://open.spotify.com/track/5jI9fVQ1QqUygoNpVRdzu3) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [Christmas](https://open.spotify.com/album/2vC11yxZPun9iOYh5jRWKd) | 3:30 | 2021-12-24 | 2022-07-29 |
 | [UNEXPECTED KING](https://open.spotify.com/track/10j0mfFINV55qklpdPkuNx) | [TEMITOPE](https://open.spotify.com/artist/2YrmP8ksRyeEVkzYp5to25) | [UNEXPECTED KING](https://open.spotify.com/album/7JiiLLPbmDA6fAyfmz3uME) | 3:41 | 2023-12-15 |  |
-| [Until You](https://open.spotify.com/track/7p5PppNJRxMNBhGbZ5JvxC) | [Danny Gokey](https://open.spotify.com/artist/5Yu3b48Y29bZlI1cLPOZJz) | [The Greatest Gift: A Christmas Collection](https://open.spotify.com/album/4sY4C2JAgUq5rlqZEiThES) | 3:39 | 2021-12-24 |  |
+| [Until You](https://open.spotify.com/track/7p5PppNJRxMNBhGbZ5JvxC) | [Danny Gokey](https://open.spotify.com/artist/5Yu3b48Y29bZlI1cLPOZJz) | [The Greatest Gift: A Christmas Collection](https://open.spotify.com/album/4sY4C2JAgUq5rlqZEiThES) | 3:39 | 2021-12-24 | 2024-03-22 |
 | [Unto Us](https://open.spotify.com/track/74s6HoDu3xKX8zzk56DYBK) | [Ryan Ellis](https://open.spotify.com/artist/7mkCeiRcySEQSSAMYbud5C) | [Unto Us](https://open.spotify.com/album/663RXaFX5ngMLhSFDsjFaR) | 4:03 | 2022-11-26 |  |
 | [Virgin Mary Had One Son](https://open.spotify.com/track/718r6aSGVq5NXy2lP7JS6l) | [Brian Fallon](https://open.spotify.com/artist/3JlzEFwarS8ZcCGNFy11y4) | [Virgin Mary Had One Son](https://open.spotify.com/album/3dt28d9gqa65F8letCwdBF) | 2:44 | 2021-12-24 | 2022-07-28 |
 | [Waiting For The Dawn](https://open.spotify.com/track/7yia78B3ZYKjXqObGTdSfS) | [Salt Of The Sound](https://open.spotify.com/artist/0S3L6vtzNN4ArFWH2709SB) | [Waiting For The Dawn](https://open.spotify.com/album/4ft2IddmKZZ29X9jyO8BAH) | 3:44 | 2021-12-24 | 2022-07-24 |

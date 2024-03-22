@@ -2,9 +2,9 @@
 
 ### [Sunday Praise](https://open.spotify.com/playlist/37i9dQZF1DX59TepszZ0eE)
 
-> Proudly South African gospel goodness\. Cover: <a href="https://open.spotify.com/artist/3kSRqsGHRSxw2jBJ6DffE4?si=whZJO1ivT4WfdtWxhKIjBw">Xolly Mncwango</a>
+> Proudly South African gospel goodness\. Cover:   <a href=https://open.spotify.com/artist/4cfKtwkefMW3aiXtxfw8w6?si=RUNA4l\_AR3mgaSsvX0tAUA>Nomcebo Zikode</a>
 
-206 songs - 20 hr 39 min
+208 songs - 20 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,6 +39,7 @@
 | [Esphambanweni](https://open.spotify.com/track/77DmEnGFpPvTDq6XHV2p3E) | [Kelly Khumalo](https://open.spotify.com/artist/2MhYuOM0iHfOwQ0HeLa0no), [Hlengiwe Mhlaba](https://open.spotify.com/artist/2TO6SX9weMc5ZT6FdJdpJI) | [Esphambanweni](https://open.spotify.com/album/5Giv7dJdtqayyyhAxTtEVC) | 6:23 | 2020-10-06 |  |
 | [Ewe Jesu \(feat\. Mfana Kah Gogo & Minero\)](https://open.spotify.com/track/2iCoygjcMM7kB05DKT5QcM) | [Fezeka Dlamini](https://open.spotify.com/artist/3w6Mt5dBdn8iPH2PgdnbP7), [Mfana Kah Gogo](https://open.spotify.com/artist/0gGBj3AcYMHRa32eeikJg1), [Minero](https://open.spotify.com/artist/22cA9IPMcTMOtvo1YSYCoh) | [Ewe Jesu \(feat\. Mfana Kah Gogo & Minero\)](https://open.spotify.com/album/37P9FzOOF5A6ggWkCi8Jun) | 4:47 | 2023-03-17 | 2023-07-07 |
 | [Ewe Jesu \- Medley 1](https://open.spotify.com/track/3MRnsyexVvjPm6Kxti26wV) | [Njabulo Masinga](https://open.spotify.com/artist/3Igz2e5CEXqo4l77TfX8Z3) | [Ewe Jesu \(Medley 1\)](https://open.spotify.com/album/0BCsmUWz3Trh4alJkQbvRN) | 5:46 | 2023-08-25 |  |
+| [Fire](https://open.spotify.com/track/2acynY8oyA2XAG5FZJGIjb) | [Ab Central](https://open.spotify.com/artist/7e2fCmADEC45SvMhYJgEe0), [Obby Judah](https://open.spotify.com/artist/3dGdwJNjUkGQmkUIXHbRFo), [ScavoBeatz](https://open.spotify.com/artist/0xKFuIEdebc1XdIBdqJZuT) | [OF THE GOSPEL, HOUSE & AMAPIANO, Vol\. 2](https://open.spotify.com/album/3qh253mvt34CR4zSRUdXko) | 4:34 | 2024-03-22 |  |
 | [Haleluyah Mdumiseni \(Live\)](https://open.spotify.com/track/0cnL9GGXyZen3MtNb4pQCl) | [Lebo Sekgobela](https://open.spotify.com/artist/1s806zCT9QwrPEKEa0EEsx) | [Restored \(Live\)](https://open.spotify.com/album/4CVpV7NAYwOeWuZ9FSbFZ5) | 7:13 | 2019-06-24 |  |
 | [Hallelujah Nkateko \(Lihle's Version\) \- Live](https://open.spotify.com/track/5RERHb5WKrWUKoqZniCpiJ) | [Joyous Celebration](https://open.spotify.com/artist/6jG7VTyXJjdrVP4jNjDX9W) | [Joyous Celebration, Vol\. 19 \(Back to the Cross\)](https://open.spotify.com/album/3xN472XytZrAW2HtcL6jNU) | 5:36 | 2020-03-16 |  |
 | [He Brought Me This Far](https://open.spotify.com/track/768aDfYOtuztbTQvPOQitB) | [Sipho Makhabane](https://open.spotify.com/artist/5sFc16mtmgH8IiVYtJ2rF2) | [Ebenezer](https://open.spotify.com/album/3YmVRVznUow3ci23VqyVel) | 6:24 | 2022-02-17 | 2023-03-18 |
@@ -60,6 +61,7 @@
 | [Interlude\-Zulu Worship Medley Live](https://open.spotify.com/track/6yyVNqvqkTYQ2hohM16mK7) | [Ntokozo Mbambo](https://open.spotify.com/artist/3neEMGDQjPZ0DBCPKgW4og) | [Moments in Time \(Live\)](https://open.spotify.com/album/4OMmuOm1luGVHwSV817qlG) | 8:22 | 2018-11-12 | 2023-04-10 |
 | [Isazelo Singishiye Ngedwa](https://open.spotify.com/track/7LWLrnHh0nMayLZblimXMy) | [Mpumelelo Dumisa](https://open.spotify.com/artist/7JE5R4Et8meMNLK64ENFmN) | [Isazelo Singishiye Ngedwa](https://open.spotify.com/album/4CXvH3FjVBhDiLKiEcjjLe) | 11:15 | 2023-09-22 | 2024-02-02 |
 | [Izandla Zethu Ziyakubanjwa](https://open.spotify.com/track/3l8KixA9Yzo4WlGSSkmFQ2) | [Njabulo Masinga](https://open.spotify.com/artist/3Igz2e5CEXqo4l77TfX8Z3) | [Izandla Zethu Ziyakubanjwa](https://open.spotify.com/album/1ZF3qPtV1Hx0pRquLM6oYX) | 5:05 | 2023-12-29 |  |
+| [iZono Zami](https://open.spotify.com/track/43c0XDVLdVzxeu3lWrmxLp) | [Nomcebo Zikode](https://open.spotify.com/artist/4cfKtwkefMW3aiXtxfw8w6) | [iZono Zami](https://open.spotify.com/album/4DvwJkQT8zr14KE4YAYg1b) | 5:19 | 2024-03-22 |  |
 | [Izulu Namafu](https://open.spotify.com/track/2HdBnHBcws3jgAL66NP2pJ) | [Mpumelelo Dumisa](https://open.spotify.com/artist/7JE5R4Et8meMNLK64ENFmN) | [Izulu Namafu](https://open.spotify.com/album/3ybwmG4efxqlHlvrT48unW) | 4:35 | 2023-09-22 | 2024-02-02 |
 | [Jabulani Sesingabantwana \- Live At Cedarwoods of Sandton, 2023](https://open.spotify.com/track/6av4onqqefCvfPob7iiC8L) | [Xolly Mncwango](https://open.spotify.com/artist/3kSRqsGHRSxw2jBJ6DffE4) | [Jabulani Sesingabantwana \(Live At Cedarwoods of Sandton, 2023\)](https://open.spotify.com/album/1pKQ3u99NvR1u1qj7b1Y5u) | 7:35 | 2024-02-09 |  |
 | [Jehova](https://open.spotify.com/track/0W9Fy1ylmJUkNwi49iL9jm) | [Isibane Se Afrika](https://open.spotify.com/artist/63LPBHXvNYilxnYECGPvC5) | [Sawubona](https://open.spotify.com/album/3hLWA2uTxJrcLlHYkDKiqh) | 3:39 | 2023-09-01 | 2023-09-15 |

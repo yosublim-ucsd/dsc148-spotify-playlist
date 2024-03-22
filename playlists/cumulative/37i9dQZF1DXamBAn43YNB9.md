@@ -4,7 +4,7 @@
 
 > Craving that crisp country air? These low\-key Country songs will take you there.
 
-116 songs - 6 hr 50 min
+120 songs - 7 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,6 +55,7 @@
 | [Ghosts](https://open.spotify.com/track/6TjzdRCPdXruPXte8J9zPD) | [Jeremy Edwards](https://open.spotify.com/artist/6jvroIfVd4uDH2i1aBQmaF), [Shane Nicholson](https://open.spotify.com/artist/2VGE8KFAYM3yE0qOsDGf6t) | [Ghosts](https://open.spotify.com/album/2kyZSVnyyYzdUuYUFNagtW) | 4:36 | 2023-07-07 |  |
 | [Glad You Exist](https://open.spotify.com/track/472vIK1ldetTxRxG3ovaiY) | [Dan + Shay](https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T) | [Glad You Exist](https://open.spotify.com/album/4z2eVLzV0UxLc2O4VZMIjV) | 2:24 | 2023-06-15 | 2023-08-08 |
 | [God Took His Time On You](https://open.spotify.com/track/0SNIS7vbpwP5I0TjyPIAed) | [Casey Barnes](https://open.spotify.com/artist/1WN3NClJsEUzhRjTLSpt60) | [Light It Up](https://open.spotify.com/album/4mu4JS9y4EMTe8DdTvh1BE) | 3:35 | 2023-06-15 |  |
+| [Grace](https://open.spotify.com/track/62KkEwACJnCxiMnw8rDtr0) | [Luke Morris](https://open.spotify.com/artist/79i6PErg0CppXj9tpcxdOi) | [Grace](https://open.spotify.com/album/3zwQ85EIx0wYoXv91vFrns) | 3:45 | 2024-03-21 |  |
 | [half of my hometown \(feat\. Kenny Chesney\)](https://open.spotify.com/track/59xdsxc0QGW6TDA3ZuQ9tS) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF), [Kenny Chesney](https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O) | [half of my hometown](https://open.spotify.com/album/1wvacL4ghUHvi6PODfvbGN) | 3:51 | 2023-06-15 | 2023-08-18 |
 | [Half the Man](https://open.spotify.com/track/16IXpCiQHWKKsTulspUpAF) | [Mason & Julez](https://open.spotify.com/artist/7ixzwZCFEILN04Sc8SgHkB) | [Half the Man](https://open.spotify.com/album/6J9yFlQhmFK4ehkTkEb4W3) | 3:02 | 2023-06-15 |  |
 | [Happy Now](https://open.spotify.com/track/3U1V2JWnoLV7wVYgOPPDBR) | [Ghost Riders](https://open.spotify.com/artist/5JvEKy384cTkxVHDESnlEG), [Cam Noble](https://open.spotify.com/artist/0K2qWy2QmgaBlExB67u6oV) | [Happy Now](https://open.spotify.com/album/6ngiL95TBNpZkP6ZEKI4fY) | 3:19 | 2023-06-15 |  |
@@ -65,6 +66,7 @@
 | [I Could Use a Love Song](https://open.spotify.com/track/09iyGiljLWRYXdRazFkdtJ) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [HERO \(Deluxe Edition\)](https://open.spotify.com/album/4sSXylKcBB3p47VfrBJlfK) | 3:16 | 2023-06-15 |  |
 | [I Remember Everything \(feat\. Kacey Musgraves\)](https://open.spotify.com/track/4KULAymBBJcPRpk1yO4dOG) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2), [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Zach Bryan](https://open.spotify.com/album/6PbnGueEO6LGodPfvNldYf) | 3:47 | 2023-08-24 |  |
 | [I've Lost My Best Friend](https://open.spotify.com/track/217ufaOS3H8Ax1HGX2z6MY) | [Amy Freeman](https://open.spotify.com/artist/0ntoXm5dmjLYIS9ClqVXdU) | [Catch Myself Talking To You](https://open.spotify.com/album/62U1WApDE6dnQYZ7LG8hGH) | 3:24 | 2023-06-15 |  |
+| [If I Had a Lover](https://open.spotify.com/track/6a9VsSmDtb7wxv1oRgCfIa) | [Dylan Gossett](https://open.spotify.com/artist/4H4M0Y4cN39zIVDHvdW53x) | [Songs in the Gravel](https://open.spotify.com/album/5LH0DO3n956vBZ5vK0mLL2) | 3:23 | 2024-03-21 |  |
 | [In Your Love](https://open.spotify.com/track/1olWQ1LOUYs4VBwx5N8Lz9) | [Tyler Childers](https://open.spotify.com/artist/13ZEDW6vyBF12HYcZRr4EV) | [In Your Love](https://open.spotify.com/album/2LmPlAxpD5cS5ne6dQvxbc) | 3:45 | 2023-08-01 |  |
 | [It's Gotta Start Somewhere](https://open.spotify.com/track/7pt34smSQREsHsqUO5pOsd) | [Nathan May](https://open.spotify.com/artist/1MSZWYELfRVbVsRH9I8HdT) | [It's Gotta Start Somewhere](https://open.spotify.com/album/2ew3wLArpVZCSLPL1RGaA3) | 3:43 | 2023-06-15 |  |
 | [Just the Way](https://open.spotify.com/track/3FE6cfCDhmhOraeSLPe6Vj) | [Parmalee](https://open.spotify.com/artist/4TshyQDihSYXSWqvclXl3I), [Blanco Brown](https://open.spotify.com/artist/3yzRiNMZdTsSUgplcyYZ4i) | [For You](https://open.spotify.com/album/33TRcgk13pDfnELf22G8wN) | 3:13 | 2023-06-15 | 2023-08-04 |
@@ -80,9 +82,11 @@
 | [Mountains Of My Mind](https://open.spotify.com/track/4CUZSk2o1EGqIxdY8bPH4P) | [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [Higher](https://open.spotify.com/album/6kcZ35GY84A3FBIcIKVqTW) | 4:25 | 2023-11-23 |  |
 | [My Masterpiece](https://open.spotify.com/track/5SlOBlrnxsuhOGMQEVZeZ0) | [Darius Rucker](https://open.spotify.com/artist/7FY5V3XMwlNBPitEjXowHQ) | [My Masterpiece](https://open.spotify.com/album/10QTTpkxjazlLxVPmDu400) | 3:30 | 2023-06-15 | 2024-03-15 |
 | [Never Wanted To Be That Girl](https://open.spotify.com/track/7yRJMLG9ja0fBVVEmV6vcT) | [Carly Pearce](https://open.spotify.com/artist/4sIl4BTo9l9KqEi0Y3RE72), [Ashley McBryde](https://open.spotify.com/artist/371jpyGdoChzUASOIG2ECV) | [29: Written In Stone](https://open.spotify.com/album/5lwUnuV4PJekfTcYIbkq6a) | 3:34 | 2023-06-15 | 2024-03-15 |
+| [Norway](https://open.spotify.com/track/2xupk6CxMlYisBxbgbPSO7) | [Patrick James](https://open.spotify.com/artist/02rbtsxmzmlWKtEZ4DLZr8) | [Norway](https://open.spotify.com/album/14YBmFvVTvSOchxrc3irTG) | 4:03 | 2024-03-21 |  |
 | [Note To Self](https://open.spotify.com/track/5X9XUK9LZTAUO9wuqYLp4N) | [Abby Christo](https://open.spotify.com/artist/0aE69mf1NjsaqZzXsoo4qH) | [Note To Self](https://open.spotify.com/album/6KDINvcBPKMM9irLEM1nV2) | 3:13 | 2023-06-15 |  |
 | [Old Pickup Line](https://open.spotify.com/track/5pEE6WCQDjiGVZVsb6ojzw) | [Wicker Suite](https://open.spotify.com/artist/76EINcvVoa7yCf9hWkqQvP) | [Old Pickup Line](https://open.spotify.com/album/37oaYSYqawfQ7RCoqiQkUr) | 4:27 | 2023-07-07 |  |
 | [One Man Band](https://open.spotify.com/track/7cA3PnUQDlUyBBwpRozQeo) | [Old Dominion](https://open.spotify.com/artist/6y8XlgIV8BLlIg1tT1R10i) | [Old Dominion](https://open.spotify.com/album/0eu2mZjF6JQTuLCu9ils6m) | 3:06 | 2023-06-15 | 2023-08-04 |
+| [Out of My Head](https://open.spotify.com/track/2324FllxQKfIq0KzgvB7Xt) | [Delaney Davidson](https://open.spotify.com/artist/5gKjq94Zz8p953ddbd9bRP) | [Out of My Head](https://open.spotify.com/album/263GSd83pWVTmLOgFYruCS) | 2:29 | 2024-03-21 |  |
 | [Over To Me](https://open.spotify.com/track/5Jb9ouPHgMhT8gjS3rpX2I) | [Ashleigh Dallas](https://open.spotify.com/artist/4Jbn3jYmhnsJbnEhIZiEx2) | [Over To Me](https://open.spotify.com/album/02DqhwwGwCjAAsOiuullo6) | 3:15 | 2023-06-15 |  |
 | [Penthouse](https://open.spotify.com/track/5rCt377EMkCJ0D0sldd5t8) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [Rolling Up the Welcome Mat](https://open.spotify.com/album/7qxClQvz2eSkDB7CtFfPZH) | 3:03 | 2023-06-15 |  |
 | [Poor Boy](https://open.spotify.com/track/1Ru1gxjH8MkNfjP0owMa1X) | [Jamie McDell](https://open.spotify.com/artist/44MWRwByQXnNT4PwguMPIH), [Tom Busby](https://open.spotify.com/artist/0lwMijmTI46U8XkAzdsozY) | [Jamie McDell](https://open.spotify.com/album/6cDTr6ROfRdPeSqT0T54se) | 4:01 | 2023-06-15 | 2023-08-25 |

@@ -4,7 +4,7 @@
 
 > chill beats for cool coffeehouse vibes.
 
-1,384 songs - 2 day 4 hr 8 min
+1,386 songs - 2 day 4 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -178,6 +178,7 @@
 | [Cat in the Box](https://open.spotify.com/track/2k9QU8szGSVS8b2N7xW6MC) | [Mosalla](https://open.spotify.com/artist/2MlmctFTcQ5Qhjq5ataD5C), [Joe Sunrise](https://open.spotify.com/artist/4mvWLbsizI6uxbelCP9LRy) | [Cat in the Box](https://open.spotify.com/album/5WmnhaE67jSCe4MrseI5Be) | 1:56 | 2023-04-27 |  |
 | [Cathartic](https://open.spotify.com/track/0yk0UX9d2qa9eCqsvQobei) | [\[ocean jams\]](https://open.spotify.com/artist/3dHotvHEwOdiVKy5X6Gw9B) | [Cathartic](https://open.spotify.com/album/1qn7HpgYuij9FtWD1KIxHd) | 2:12 | 2022-01-27 | 2022-09-03 |
 | [Cayo](https://open.spotify.com/track/6p8cuVRnfBv4C6dhvYua5i) | [Chancla](https://open.spotify.com/artist/1GzwYC8JgtfOTyvAiiuGNs), [Oaty.](https://open.spotify.com/artist/2S5BNs8nlCRoKvnw9LuwBU) | [Cayo](https://open.spotify.com/album/0oY0cZTZBDrlPTM7chf4bE) | 2:16 | 2022-01-27 | 2022-07-08 |
+| [cenzontle](https://open.spotify.com/track/4WCrZo1zIDKaZu4th9GWef) | [tres islas](https://open.spotify.com/artist/7CRBLbMHIR0QIrBGhj4mc8) | [cenzontle](https://open.spotify.com/album/688WIs5pmbG3GblAjajdmV) | 2:32 | 2024-03-22 |  |
 | [Cetosia](https://open.spotify.com/track/6JgibkidEB2L9DG34lL6Wc) | [lorleaf](https://open.spotify.com/artist/4dIQxgH4s739dGAHaKAw0y) | [Cetosia](https://open.spotify.com/album/7GQijZZRKjGWBoP0KM8TBL) | 2:00 | 2023-09-22 | 2024-03-06 |
 | [Change Ain't Bad](https://open.spotify.com/track/1GLHd8HvaMTaul0CR0YlYo) | [Guustavv](https://open.spotify.com/artist/4ztOXfl03SlHkzRIsrvWmX) | [Lagom](https://open.spotify.com/album/4k7Eh3WH907ikJlxC5B0C4) | 2:06 | 2022-01-27 | 2022-04-08 |
 | [Chanterelle](https://open.spotify.com/track/3JSg9IUjqze3mySqLn4HmT) | [Silva Sax](https://open.spotify.com/artist/4J3sbgdgKQeaCSv5oM2xq9) | [Cartoons & Cereal](https://open.spotify.com/album/6eY7VIvnJeoNfWVpE5N29q) | 3:45 | 2022-01-27 | 2023-06-06 |
@@ -327,7 +328,7 @@
 | [DRS Train](https://open.spotify.com/track/7qX1RxZ0kLJ225EyXsCC8v) | [sentiment:lo](https://open.spotify.com/artist/1l0WI0auKXfzkkkk3QQT5g), [chill.farm](https://open.spotify.com/artist/4tPOKN9ZM2sn8f6F0cRVmF) | [DRS Train](https://open.spotify.com/album/4zH6GmLfiVbrk36Ab0MyvG) | 1:50 | 2022-06-10 |  |
 | [Dry\-Cleaning Repairman](https://open.spotify.com/track/3ZLv7L1kZvNe4AIBdEcxnH) | [ViVi Lollypop](https://open.spotify.com/artist/4scLC6BXWEIHbcgJYPFVtw) | [Dry\-Cleaning Repairman](https://open.spotify.com/album/0Qcc3EOTW67V0WHxBSBQQS) | 2:45 | 2023-08-03 |  |
 | [Du Bon Pain](https://open.spotify.com/track/2ZTZ2Wi5D6EbFbkF4Gtn3D) | [pipetiger](https://open.spotify.com/artist/12HMurN87aQV1xBcqfcjnL) | [Du Bon Pain](https://open.spotify.com/album/7bsFmQLW9EBELlsTWOTJrN) | 1:50 | 2022-06-10 |  |
-| [Dumbo and the Great Glass Elevator](https://open.spotify.com/track/43JOtLoHhl0HM5mIOOIfLW) | [HPY DAYZ](https://open.spotify.com/artist/4kPDMyPezfKjzjK2q7IeWP) | [One For the Money](https://open.spotify.com/album/65VYYokDPiarCUQS5WWapo) | 2:16 | 2023-11-17 |  |
+| [Dumbo and the Great Glass Elevator](https://open.spotify.com/track/43JOtLoHhl0HM5mIOOIfLW) | [HPY DAYZ](https://open.spotify.com/artist/4kPDMyPezfKjzjK2q7IeWP) | [One For the Money](https://open.spotify.com/album/65VYYokDPiarCUQS5WWapo) | 2:16 | 2023-11-17 | 2024-03-22 |
 | [Dusk to Dawn](https://open.spotify.com/track/5wlySlVfANH9gbYJ6MhbtQ) | [Yugi](https://open.spotify.com/artist/5gKSmbeqGuqoj0uPIDoTbJ), [Lofi Saint](https://open.spotify.com/artist/3yRWWNCOIgyPCX1QiSsumr) | [Dusk to Dawn](https://open.spotify.com/album/5JH6dHkYYejgN4wWIc3mLZ) | 2:05 | 2022-09-16 | 2022-09-23 |
 | [Dusty Conscience](https://open.spotify.com/track/3FXTtPNNAXOgUiOtkSfAdW) | [Matt Large](https://open.spotify.com/artist/107WzwlsOTR6Nxnw2kPHd3) | [Next Year in Rio](https://open.spotify.com/album/5DMrA7hp0yLp0rG11RNRe0) | 2:26 | 2022-01-27 | 2022-06-10 |
 | [Earth](https://open.spotify.com/track/6NyXnrxqnsbJYqe64YUGt7) | [Little Green Dot](https://open.spotify.com/artist/0Tuzcf3XyorC725ZtcQRoK) | [Glo\-Fi](https://open.spotify.com/album/17vTmYvfvLzHGHEaAFsvkC) | 3:13 | 2022-01-27 | 2022-10-15 |
@@ -681,6 +682,7 @@
 | [lofi jazz](https://open.spotify.com/track/32n3aVyrJN7T72NIy14eQu) | [Siesta](https://open.spotify.com/artist/6awqPfhaJwYe8ioLMRlvQP) | [lofi jazz](https://open.spotify.com/album/5cHegGhkFqiAdipFC0Jtb7) | 1:41 | 2022-12-09 | 2023-10-06 |
 | [Lofi on the Bass](https://open.spotify.com/track/2IhrewZbhBLNdTgxNKrIdE) | [Daniel Fridell](https://open.spotify.com/artist/4WG5037NDBAMyjzClxwmKK), [Sven Lindvall](https://open.spotify.com/artist/3TauislvTr1US5ZCbjnLUx) | [Lofi on the Bass](https://open.spotify.com/album/2ADzOtvCNQFQ2IQCrucOZP) | 3:37 | 2023-11-17 |  |
 | [Lofi Velvet Oasis](https://open.spotify.com/track/5ZOuVqzMW7NUMGIUCWnyzx) | [Lovetime Rhapsody](https://open.spotify.com/artist/1khPvt8OPAxBnQTIZ0kHJi) | [A Walk Through The Clouds](https://open.spotify.com/album/7bCRZzbTOPhZYSV5h81GdC) | 2:31 | 2023-11-17 |  |
+| [Lone Moment](https://open.spotify.com/track/314yJylJo71wCvEtjARLAj) | [Sofi Tones](https://open.spotify.com/artist/2CmDq0oP7WE5N8WkxC2F8y) | [Lone Moment](https://open.spotify.com/album/34lLqaRzsFNt1Nu9CUIuYp) | 2:16 | 2024-03-22 |  |
 | [Lonely Mountain](https://open.spotify.com/track/2kxJbP2CXEZRCaCefWD721) | [Historians](https://open.spotify.com/artist/15itgh8cH72Bu7pXiyj0r1) | [Brooding T\-Rex](https://open.spotify.com/album/3Ixz2N2NtUOZEcP0JuCgrF) | 2:48 | 2022-01-27 | 2023-05-20 |
 | [Long for](https://open.spotify.com/track/5clFQSNR2BFzgfYf9CNQPJ) | [SwuM](https://open.spotify.com/artist/2Fc1UZXKRmPpWWx1sxcb9m), [takeo](https://open.spotify.com/artist/77ONEFnCEJnH1qm5dBzDcf) | [Long for](https://open.spotify.com/album/3YhoM7R1RxZUJeKYMyjXFN) | 2:33 | 2022-12-09 | 2023-04-28 |
 | [Long Walks](https://open.spotify.com/track/4CUcBdtk6vfz1AEantq8Yh) | [Joi Casette](https://open.spotify.com/artist/00HEKt0f42LmgnoabKX3Ok) | [Long Walks](https://open.spotify.com/album/3UtFxXCfwdy9ZPzs5fWVzK) | 2:04 | 2022-01-27 |  |
@@ -1300,7 +1302,7 @@
 | [Unsubmarine](https://open.spotify.com/track/6NBHmshG37zEi6efc7Dizj) | [Guustavv](https://open.spotify.com/artist/4ztOXfl03SlHkzRIsrvWmX) | [Myspys](https://open.spotify.com/album/3AIyDBHIB9Sk0ubLRKh9YB) | 2:17 | 2023-02-24 |  |
 | [Untold Stories](https://open.spotify.com/track/1PG43ycJcN4SEU1FuAlUn8) | [Raouf Beats](https://open.spotify.com/artist/5KVCvRxkmEVquvmkLe0fII), [SpoonBeats](https://open.spotify.com/artist/4oEls8QwyhaJninX4RFdcl) | [Untold Stories](https://open.spotify.com/album/3Cq4Ul7SXuKx4a6PY5IJDx) | 1:33 | 2022-09-02 | 2023-01-13 |
 | [up in cloud.](https://open.spotify.com/track/2GjRY3hwlCmUg1avfdU7Df) | [yeyts.](https://open.spotify.com/artist/4fawpeTlkJtDMXDzJmBYSR) | [up in cloud.](https://open.spotify.com/album/664HCWnJxkAmkAZgFp8yBQ) | 1:52 | 2022-07-22 | 2022-11-12 |
-| [up we go](https://open.spotify.com/track/5B4tAArgQeG90fu29F8vXW) | [slowvibe](https://open.spotify.com/artist/3WEs7RfxMRuGpNYkVRYJcO) | [up we go](https://open.spotify.com/album/0gj0weMKku5rK2q6AUcX7Q) | 1:58 | 2023-05-19 |  |
+| [up we go](https://open.spotify.com/track/5B4tAArgQeG90fu29F8vXW) | [slowvibe](https://open.spotify.com/artist/3WEs7RfxMRuGpNYkVRYJcO) | [up we go](https://open.spotify.com/album/0gj0weMKku5rK2q6AUcX7Q) | 1:58 | 2023-05-19 | 2024-03-22 |
 | [Uptown Train](https://open.spotify.com/track/5LOf0bNrydlqUgro73awjW) | [Calm Like Carl](https://open.spotify.com/artist/4yliz9yN6pHtswgNVEjiw0) | [Uptown Train](https://open.spotify.com/album/3IMePNMlrZRLcjRj6D9bvz) | 2:52 | 2022-01-27 | 2023-05-20 |
 | [Uranus](https://open.spotify.com/track/0GLoFXswhlYIKPPmo7BLxi) | [Agu](https://open.spotify.com/artist/6Xf5UcRnwGjGJQMC42Bllw) | [Uranus](https://open.spotify.com/album/1onuaiheCQDuvJKyXoNheU) | 1:33 | 2022-12-09 | 2023-10-06 |
 | [Valore](https://open.spotify.com/track/3QUeY6hDoz3dAAGNYb4oJS) | [Ithari](https://open.spotify.com/artist/5i7mVCjMpXB2RUG57d6vdQ), [Erwin Do](https://open.spotify.com/artist/4EUMzs3VfIVjB5yrHv153S), [Lost in Space](https://open.spotify.com/artist/62aXOeeoR4j8XjHRJXIhMf) | [Valore](https://open.spotify.com/album/1HA2XdcA47eDmpf2ezrRRn) | 1:43 | 2022-11-25 | 2023-09-29 |

@@ -4,7 +4,7 @@
 
 > Abajo y a la izquierda.
 
-249 songs - 15 hr 37 min
+250 songs - 15 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,7 +56,7 @@
 | [Chau Chau](https://open.spotify.com/track/1mLzfYBB9615JuweCqSyov) | [Chalanes del Amor](https://open.spotify.com/artist/1bRwLJQkhtCpWz5YHxPCJK) | [Zafarranchos y Aires de la Costa](https://open.spotify.com/album/4kTvoDMHSAEP2VqBdDkBJk) | 3:27 | 2021-10-16 | 2022-07-22 |
 | [Chiquillo](https://open.spotify.com/track/0wYzaN0CvLp6VOJU3eD3Ed) | [OjosPielCanela](https://open.spotify.com/artist/4r01YvuZwXl9MnMwdZWLQg) | [Chiquillo](https://open.spotify.com/album/4yOqj8XCeG28CABUBbUzLU) | 3:53 | 2022-03-19 | 2022-07-29 |
 | [Chucusteady](https://open.spotify.com/track/1mUPcRmSmi2XsKAOWFKAF1) | [Frente Cumbiero](https://open.spotify.com/artist/7r6KiZDjtZqBWp5jaDgxA6), [Mad Professor](https://open.spotify.com/artist/3hbnUwHvxyFxeJ9veCzOE7) | [Frente Cumbiero Meets Mad Professor](https://open.spotify.com/album/1dnal49FIWH19CsWYjYMOV) | 4:23 | 2021-10-16 | 2022-12-16 |
-| [Cinema](https://open.spotify.com/track/5hLLjQBT8rWCcJ7LDd4Wru) | [Darío Abdala](https://open.spotify.com/artist/7CfkX18xoIBT9BAFZdh1m3) | [Cinema](https://open.spotify.com/album/0TZKZV51UMFGFRBOaZdZNc) | 2:42 | 2024-01-18 |  |
+| [Cinema](https://open.spotify.com/track/5hLLjQBT8rWCcJ7LDd4Wru) | [Darío Abdala](https://open.spotify.com/artist/7CfkX18xoIBT9BAFZdh1m3) | [Cinema](https://open.spotify.com/album/0TZKZV51UMFGFRBOaZdZNc) | 2:42 | 2024-01-18 | 2024-03-22 |
 | [Clandestina \- Spotify Singles](https://open.spotify.com/track/2ETi6XTUOuEjObLiRNmO8F) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Spotify Singles](https://open.spotify.com/album/6HqgKz3U8TtxrwikzgEKfJ) | 3:29 | 2022-04-20 | 2022-08-10 |
 | [Clandestino](https://open.spotify.com/track/4UlW3vi9SxRbvG8hyrJ3ju) | [YoSoyMatt](https://open.spotify.com/artist/0NYE6CFlP7ElQR6r395gbV), [French Braids](https://open.spotify.com/artist/5y8mGL7UFApHn1BotAfcj1), [Eva de Marce](https://open.spotify.com/artist/1UgwU7ChXfMkwH9t6ivW2E) | [Clandestino](https://open.spotify.com/album/6w0NI3nCd8tlgsrtF4Vd5u) | 3:01 | 2023-04-07 |  |
 | [Coconut Woman](https://open.spotify.com/track/2MZUxXYzjBzjBaVMi7cD5m) | [Bourbon Sweethearts](https://open.spotify.com/artist/1TNfkzzuv3xq8oCU4aAcTo) | [Got a Minute?](https://open.spotify.com/album/3JgsxaF6WquAaHpw25osda) | 2:23 | 2021-10-16 | 2022-07-28 |
@@ -224,6 +224,7 @@
 | [Son del Jazmín](https://open.spotify.com/track/0AZv0MWrg4ElVCqpz64qXZ) | [Los Cojolites](https://open.spotify.com/artist/6SFpEAywC3u4kjE00wHMoO), [Eugenia Leon](https://open.spotify.com/artist/4rb77bUYfTSu6Hkb9Oar8y) | [Son del Jazmín](https://open.spotify.com/album/60pOUZJOyhlmI5dUjMxQ1v) | 5:37 | 2022-09-12 | 2022-09-28 |
 | [Son Guerrerense](https://open.spotify.com/track/4iHtwXUsijjXjDyWIfGkem) | [Yolotecuani](https://open.spotify.com/artist/66RQbOdMgC1I7Asw3Xy89g) | [Ecos del Sur \- 30 Aniversario \(Música Tradicional de Guerrero\)](https://open.spotify.com/album/7meW8Pb2g85SBNyUMewSUR) | 5:44 | 2023-03-16 | 2023-05-13 |
 | [Sonido Amazonico](https://open.spotify.com/track/2Zcv2Vk65xi37T7AT2qcDJ) | [Los Mirlos](https://open.spotify.com/artist/1ga48mxYYI9RuUrWLa3voh) | [Cumbia Amazonica](https://open.spotify.com/album/3Almc0ajaT7YXLxpn18QBL) | 2:40 | 2021-10-16 |  |
+| [Sonido Cósmico](https://open.spotify.com/track/55BCpfZp7sVgGBzBlGW5f0) | [Hermanos Gutiérrez](https://open.spotify.com/artist/73mSg0dykFyhvU96tb5xQV) | [Sonido Cósmico](https://open.spotify.com/album/2P8acwzPaluqWw2qvnmIN0) | 3:43 | 2024-03-21 |  |
 | [Soy El Unico](https://open.spotify.com/track/4pKhxDtzoLPVy4GzW1ibAz) | [Yahritza Y Su Esencia](https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A) | [Obsessed \(Deluxe\)](https://open.spotify.com/album/39CdVx9DN5FtCzIyqkrzAq) | 3:33 | 2022-04-25 | 2023-08-18 |
 | [Spanish Flea](https://open.spotify.com/track/689DTIE4YIRfuIUG58Z2H2) | [Herb Alpert & The Tijuana Brass](https://open.spotify.com/artist/09L3cUdx0hq6qn5bKuJJ4I) | [!!Going Places!!](https://open.spotify.com/album/3y7ArxHNtZoTVWSwR4lkQT) | 2:06 | 2021-10-16 |  |
 | [Sueña](https://open.spotify.com/track/36AqjVOrwb29Xc31RBDJAy) | [Sonia De Los Santos](https://open.spotify.com/artist/4aNmQzHcg0vTqPSauw4CKr), [Zeudi Castañeda](https://open.spotify.com/artist/3pwMCl20rE77YMGgCanTif) | [Esperanza](https://open.spotify.com/album/6Xsju25I5pCP0cCNgXs2iv) | 3:04 | 2022-01-13 | 2022-07-28 |

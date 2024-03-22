@@ -545,6 +545,24 @@
     },
     {
       "album": {
+        "name": "Can't Feel My Face",
+        "url": "https://open.spotify.com/album/40h5M7JPSNxEP577f4iqRG"
+      },
+      "artists": [
+        {
+          "name": "Midtown Players",
+          "url": "https://open.spotify.com/artist/1GRABQUFydUxNHGumW35mO"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237374,
+      "name": "Can't Feel My Face",
+      "url": "https://open.spotify.com/track/6kCmzHekDabtgbLVrMeK3G"
+    },
+    {
+      "album": {
         "name": "Capital Letters (Bossa Nova)",
         "url": "https://open.spotify.com/album/6QiMiX7Rtxj0HmPXih3ski"
       },

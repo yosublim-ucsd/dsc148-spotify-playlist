@@ -1,5 +1,5 @@
 {
-  "2024-03-21": 95833,
+  "2024-03-22": 95835,
   "date_first_scraped": "2021-12-29",
   "description": "Listen to African women at full volume. #IWD Special Co-curated with: <a href=\"https://open.spotify.com/artist/3Oa0mJQWQrUOqJ8fcLuu7l?si=p8kVhK6AR-mfGY0NUFSxgA\"> DBN Gogo </a>",
   "name": "EQUAL Africa",
@@ -287,10 +287,40 @@
       ],
       "date_added": "2023-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-21",
       "duration_ms": 376242,
       "name": "Amaphutha (feat. Master KG, Lowsheen & Murumba Pitch)",
       "url": "https://open.spotify.com/track/0RTIcLHr6k9PWX7lizdyxM"
+    },
+    {
+      "album": {
+        "name": "Uthingo Le Nkosazana",
+        "url": "https://open.spotify.com/album/5FhcHmY8DG8Fb36EpmUUCe"
+      },
+      "artists": [
+        {
+          "name": "Nkosazana Daughter",
+          "url": "https://open.spotify.com/artist/4AnNB3lPD0Sv7ziKVHqI66"
+        },
+        {
+          "name": "Master KG",
+          "url": "https://open.spotify.com/artist/523y9KSneKh6APd1hKxLuF"
+        },
+        {
+          "name": "Lowsheen",
+          "url": "https://open.spotify.com/artist/5lnxhnW7SIbxkkFVmVYEhU"
+        },
+        {
+          "name": "Murumba Pitch",
+          "url": "https://open.spotify.com/artist/3cd7plsjSmDdQ0oHESYHC4"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 376242,
+      "name": "Amaphutha (feat. Murumba Pitch)",
+      "url": "https://open.spotify.com/track/54ZvphQmgJpEKSy5EuUK1Z"
     },
     {
       "album": {
@@ -1445,10 +1475,28 @@
       ],
       "date_added": "2023-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-21",
       "duration_ms": 168174,
       "name": "DND",
       "url": "https://open.spotify.com/track/0BVVrZ3UL7b3VU3jE234fr"
+    },
+    {
+      "album": {
+        "name": "DND",
+        "url": "https://open.spotify.com/album/5UkWI3kyfKfp8zKL8JeZGf"
+      },
+      "artists": [
+        {
+          "name": "Dunnie",
+          "url": "https://open.spotify.com/artist/5q1uxBdFXCDZDdNOw2rzD2"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168174,
+      "name": "DND",
+      "url": "https://open.spotify.com/track/7mlVW46eMu9RKcfJqwXeQq"
     },
     {
       "album": {

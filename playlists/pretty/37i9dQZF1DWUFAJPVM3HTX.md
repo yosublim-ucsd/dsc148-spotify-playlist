@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUFAJPVM3HTX.md) - [plain]
 
 > The best new R&B by independent artists and labels\. Cover: <a href="https://open.spotify.com/artist/2zAshenjqDlcL4pudfySBY?si=ZB2N625ZRkutFxxlXeIr3A"> Emawk </a>\. Updates every Wednesday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 233,657 likes - 200 songs - 9 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 233,840 likes - 200 songs - 9 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUFAJPVM3HTX.md) - [plain]
 | 4 | [Unsure](https://open.spotify.com/track/3PBomL6F0O1xqR6zyFlKcH) | [Dee Gatti](https://open.spotify.com/artist/7w8xMJxmzaZeeHRV8eToLT) | [Unsure](https://open.spotify.com/album/6b4st3oruQbvzMV4Q7wWVk) | 3:10 |
 | 5 | [I Like You](https://open.spotify.com/track/1uvk18Xw3JVQ8lCW60LFdu) | [Nathanie](https://open.spotify.com/artist/2n9S44nEklHQjqX0pedw8P) | [I Like You](https://open.spotify.com/album/1u8SJEW2ftVMNy1jU4CmwL) | 3:15 |
 | 6 | [Ghostbuster](https://open.spotify.com/track/5c9e97KjCgHUNT7mOWqg8C) | [Elijah Blake](https://open.spotify.com/artist/65OtBLtkrifQrdTlKI90IR) | [Ghostbuster](https://open.spotify.com/album/4cesbDawIbXjlFDKi3Tl88) | 3:48 |
-| 7 | [Speak Your Mine](https://open.spotify.com/track/1i5hcCnWCHYu2mvUq04OPP) | [Trè Samuels](https://open.spotify.com/artist/45vC474xQVArVv4KZ4K8Kq), [Skelli](https://open.spotify.com/artist/7B0h3QsL9urfmC1FACnKb3) | [Speak Your Mine](https://open.spotify.com/album/3e2ZjkaPzsXXsMJzXYQDqG) | 3:27 |
+| 7 | [Speak Your Mine](https://open.spotify.com/track/1i5hcCnWCHYu2mvUq04OPP) | [Trè Samuels](https://open.spotify.com/artist/45vC474xQVArVv4KZ4K8Kq) | [Speak Your Mine](https://open.spotify.com/album/3e2ZjkaPzsXXsMJzXYQDqG) | 3:27 |
 | 8 | [ANOTHER LOVE STORY](https://open.spotify.com/track/1jJgfnrhuDOdM68tSlugBa) | [NateTaylorr](https://open.spotify.com/artist/6FaeHLNz3ISxqrVJCprURb) | [THERES ALWAYS MORE](https://open.spotify.com/album/6FBEAmINge2toN4aABjXG7) | 3:04 |
 | 9 | [Lucid Dreams](https://open.spotify.com/track/4BGcVxS20x7sLA2uKp5wJU) | [Maina Doe](https://open.spotify.com/artist/37A6Zdl0Yy8zXXpY20p6TE) | [Lucid Dreams](https://open.spotify.com/album/7G7v6Di7EhJ1fuldgIoUkN) | 3:02 |
 | 10 | [Wait](https://open.spotify.com/track/4T3GmhoRVL9T5HvuNOF9FG) | [Bee\-B](https://open.spotify.com/artist/13FgCXn7z3ld9mR2Pz8eqc) | [Wait](https://open.spotify.com/album/3ZQ4f5kOLQ097GhaGJSBM2) | 3:53 |
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUFAJPVM3HTX.md) - [plain]
 | 199 | [palisades](https://open.spotify.com/track/0PLzy8TCh6YQ48WsPbtecP) | [Kenji](https://open.spotify.com/artist/3sAk2ECmW1UmPMf6Q94Llu) | [palisades](https://open.spotify.com/album/7K9SJdOpY6C4QuvxmJ5jh6) | 3:57 |
 | 200 | [This Is What You're Gonna Get \(Intro\)](https://open.spotify.com/track/3zeIPaQMP64eIM0rI9KyEq) | [Blue Nightmare](https://open.spotify.com/artist/7KjinB2wGyb4N3zvfdOJqX) | [I Don't Think You Know Me That Well](https://open.spotify.com/album/3I2rg6r3sOA7qYEsLdH2NK) | 1:10 |
 
-Snapshot ID: `MCwzYTc0MTllZTMxOTFhOTIwNDdiMWM4M2FlNzU3NGMwYWVhYjA4MTBi`
+Snapshot ID: `MCwzNGQzNjVjYjk4YTI1ZDNjMWJkODFkMTE2MTc4NzQ4ZDM0NDc1Y2I2`

@@ -193,6 +193,24 @@
     },
     {
       "album": {
+        "name": "Absentia",
+        "url": "https://open.spotify.com/album/7kq54fzwQcvVa2P4qlL5aL"
+      },
+      "artists": [
+        {
+          "name": "Etta Jungle",
+          "url": "https://open.spotify.com/artist/4qx8XNik3zFtPhaiIqwiMR"
+        }
+      ],
+      "date_added": "2024-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222711,
+      "name": "Absentia",
+      "url": "https://open.spotify.com/track/0e36F0GAWht4tbQlkwkiQb"
+    },
+    {
+      "album": {
         "name": "Medusa",
         "url": "https://open.spotify.com/album/40KoQYdYFrIcHYn0wGrC2i"
       },
@@ -548,7 +566,7 @@
       ],
       "date_added": "2024-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-22",
       "duration_ms": 187571,
       "name": "A\u2019primma vot",
       "url": "https://open.spotify.com/track/2aOdlGMfiZQkhjmGrX5OEi"
@@ -1519,6 +1537,28 @@
     },
     {
       "album": {
+        "name": "Magneti",
+        "url": "https://open.spotify.com/album/4NcWPLQJgSr8e8ipnyVRyU"
+      },
+      "artists": [
+        {
+          "name": "Filippo Cattaneo Ponzoni",
+          "url": "https://open.spotify.com/artist/7LPEM878eDKFvrV5JejDXr"
+        },
+        {
+          "name": "Ma\u00eblys",
+          "url": "https://open.spotify.com/artist/4fuZBTq8KLPsKbYPQl0bZZ"
+        }
+      ],
+      "date_added": "2024-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214375,
+      "name": "Come il sole",
+      "url": "https://open.spotify.com/track/2bBTPRz5nbxkL5zWiElX3f"
+    },
+    {
+      "album": {
         "name": "come le canzoni stonate",
         "url": "https://open.spotify.com/album/7GpitQPJM57M3jJ8DcxVMb"
       },
@@ -1698,7 +1738,7 @@
       ],
       "date_added": "2024-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-22",
       "duration_ms": 193488,
       "name": "Come si fa (feat. Mecna)",
       "url": "https://open.spotify.com/track/1oAWhthFOMnYZlqvPHPj1h"
@@ -2199,6 +2239,24 @@
     },
     {
       "album": {
+        "name": "Dimmi (Pills One)",
+        "url": "https://open.spotify.com/album/0iKTHZi3RigfBLoiIri2Pv"
+      },
+      "artists": [
+        {
+          "name": "Laurah",
+          "url": "https://open.spotify.com/artist/2JDox6TzjUdGSIaFPPCa1d"
+        }
+      ],
+      "date_added": "2024-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 101515,
+      "name": "Dimmi (Pills One)",
+      "url": "https://open.spotify.com/track/3nkpHbgzCJOrMaDNScVqk8"
+    },
+    {
+      "album": {
         "name": "Dipinto",
         "url": "https://open.spotify.com/album/1jPwyUAnIKDd6OicV6BQRH"
       },
@@ -2495,6 +2553,24 @@
     },
     {
       "album": {
+        "name": "Ero Oro",
+        "url": "https://open.spotify.com/album/2cLKtzACjrJa1ScOBoXIpe"
+      },
+      "artists": [
+        {
+          "name": "Sidy",
+          "url": "https://open.spotify.com/artist/2IOEe6ANL1phlCwnIhf0wT"
+        }
+      ],
+      "date_added": "2024-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148529,
+      "name": "Ero Oro",
+      "url": "https://open.spotify.com/track/79h0p7LxmMZahCWA2CLt3N"
+    },
+    {
+      "album": {
         "name": "ESSA",
         "url": "https://open.spotify.com/album/1Lg4Hae20BLsU9daZ5bRnA"
       },
@@ -2614,7 +2690,7 @@
       ],
       "date_added": "2024-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-22",
       "duration_ms": 150769,
       "name": "Fantasma",
       "url": "https://open.spotify.com/track/5DTlezILqdaiyQmTyahTrk"
@@ -3483,6 +3559,28 @@
     },
     {
       "album": {
+        "name": "Hit Boy",
+        "url": "https://open.spotify.com/album/1bT7pl5bdyCy51dK9HPDSs"
+      },
+      "artists": [
+        {
+          "name": "Rev\u00e9",
+          "url": "https://open.spotify.com/artist/01Isxz2v0SDQALf5wpV74V"
+        },
+        {
+          "name": "Sick Budd",
+          "url": "https://open.spotify.com/artist/5h8RF4h6OhX1zIssiLPndr"
+        }
+      ],
+      "date_added": "2024-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177272,
+      "name": "Hit Boy",
+      "url": "https://open.spotify.com/track/45M5F4MWDgrKG4MOoGrY75"
+    },
+    {
+      "album": {
         "name": "Hot Thing",
         "url": "https://open.spotify.com/album/6h0asJFNiWmM0tNapbJKyF"
       },
@@ -3498,6 +3596,24 @@
       "duration_ms": 176666,
       "name": "Hot Thing",
       "url": "https://open.spotify.com/track/1HigmdWZNe4G1K7KklpsDp"
+    },
+    {
+      "album": {
+        "name": "HOTEL",
+        "url": "https://open.spotify.com/album/6WBC63cOBaWmPPzXgXjGpN"
+      },
+      "artists": [
+        {
+          "name": "Emas",
+          "url": "https://open.spotify.com/artist/1EbxSgFv77WhleBn6vYFNO"
+        }
+      ],
+      "date_added": "2024-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128341,
+      "name": "HOTEL",
+      "url": "https://open.spotify.com/track/5G9c3oLPYUFHAretfuV23Y"
     },
     {
       "album": {
@@ -5548,7 +5664,7 @@
       ],
       "date_added": "2023-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-22",
       "duration_ms": 187624,
       "name": "Nessuno",
       "url": "https://open.spotify.com/track/7EV3ONJpL7lmlQb75rlP2D"
@@ -6008,7 +6124,7 @@
       ],
       "date_added": "2022-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-22",
       "duration_ms": 156363,
       "name": "Notte D\u2019Amore",
       "url": "https://open.spotify.com/track/2hXhj3y3RNoLAFulvBxhHj"
@@ -6952,7 +7068,7 @@
       ],
       "date_added": "2023-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-22",
       "duration_ms": 159592,
       "name": "r()t()nda (feat. Tiziano Ferro)",
       "url": "https://open.spotify.com/track/7FsuMwalG48ZfjklkSkuJa"
@@ -7901,6 +8017,24 @@
     },
     {
       "album": {
+        "name": "SEXTING",
+        "url": "https://open.spotify.com/album/2vWSVoc1V0ZXNy0qWt1Pl2"
+      },
+      "artists": [
+        {
+          "name": "Kunta",
+          "url": "https://open.spotify.com/artist/2yJDUGrAgtX7NyJ1RULAnX"
+        }
+      ],
+      "date_added": "2024-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184320,
+      "name": "SEXTING",
+      "url": "https://open.spotify.com/track/60wzYORsvLUZtlmGGPrbRt"
+    },
+    {
+      "album": {
         "name": "sfumature blu",
         "url": "https://open.spotify.com/album/546RwR7WQx3n88cP6bS6fC"
       },
@@ -8082,6 +8216,28 @@
       "duration_ms": 199771,
       "name": "SOLO PER TE",
       "url": "https://open.spotify.com/track/5Lym9E14zAnv4b2FJYfEp5"
+    },
+    {
+      "album": {
+        "name": "Sometimes",
+        "url": "https://open.spotify.com/album/7J2m4K1xj7eRWn2zk1OuJ9"
+      },
+      "artists": [
+        {
+          "name": "ENRA",
+          "url": "https://open.spotify.com/artist/1jDbZQQs4VNtiC4AerpIg4"
+        },
+        {
+          "name": "Lieve",
+          "url": "https://open.spotify.com/artist/0qSgoagy2DEfXutsC4AOD3"
+        }
+      ],
+      "date_added": "2024-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144864,
+      "name": "Sometimes",
+      "url": "https://open.spotify.com/track/4v7o3iqvL88jdc2HzADlMZ"
     },
     {
       "album": {
@@ -8278,7 +8434,7 @@
       ],
       "date_added": "2023-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-22",
       "duration_ms": 199400,
       "name": "Speed Date",
       "url": "https://open.spotify.com/track/3OfA5QvSylODr8zQVRkBaY"
@@ -9086,7 +9242,7 @@
       ],
       "date_added": "2023-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-22",
       "duration_ms": 164062,
       "name": "Tutto Come Prima",
       "url": "https://open.spotify.com/track/1gtm2k8TmikVUI8SxeAuf4"

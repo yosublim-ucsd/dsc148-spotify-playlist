@@ -2,9 +2,9 @@
 
 ### [퓨전 국악 \(Fusion Korean National\)](https://open.spotify.com/playlist/37i9dQZF1DXbqEesmXsTTO)
 
-> 다양한 장르와 악기가 더해진 퓨전 국악 음악들을 즐겨보세요! \(커버: 삼산\(SamSan\)\) \(Enjoy fusion Korean national music with various genres and instruments added!\)
+> 다양한 장르와 악기가 더해진 퓨전 국악 음악들을 즐겨보세요! \(커버: 김주리\(juri kim\)\) \(Enjoy fusion Korean national music with various genres and instruments added!\)
 
-61 songs - 4 hr 0 min
+62 songs - 4 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -63,6 +63,7 @@
 | [군밤타령](https://open.spotify.com/track/6ASEjwlY8xU8glTrFjQPZe) | [국악인가요](https://open.spotify.com/artist/3B6TfyPlGzJ21gqz2N8bbe) | [국악IN가요](https://open.spotify.com/album/1PsixE91NtJBahibMDufbr) | 2:33 | 2023-09-26 |  |
 | [떡타령](https://open.spotify.com/track/3u5BZkeJ6MyZgHKtPiD6bS) | [SingSing](https://open.spotify.com/artist/1YtWXv7FkpK6eCANfgOkmh) | [제비다방 컴필레이션 2017+2018](https://open.spotify.com/album/02QfXHdfexGozTcvlT94Pl) | 1:52 | 2023-09-26 |  |
 | [사랑가](https://open.spotify.com/track/5TPFp4x1XZfeyh5uNdVGb0) | [국악인가요](https://open.spotify.com/artist/3B6TfyPlGzJ21gqz2N8bbe) | [국악IN가요](https://open.spotify.com/album/1PsixE91NtJBahibMDufbr) | 3:46 | 2023-09-26 |  |
+| [사철가](https://open.spotify.com/track/5MKmYrqG7AKgUrJDBePMOR) | [juri kim](https://open.spotify.com/artist/32xsx3uhWocPe8QkffUMen) | [사철가](https://open.spotify.com/album/0zMo671mzJyTYutazaJ3Kn) | 6:12 | 2024-03-21 |  |
 | [산세가](https://open.spotify.com/track/6UFOH0T8vDqjsdagF2bWU8) | [fullmoon project](https://open.spotify.com/artist/3eTwOC2mxAQJcfYFXGHzmh) | [산세가](https://open.spotify.com/album/2Kcj1lqZj8qh2cmtvHa6qk) | 3:30 | 2023-09-26 |  |
 | [심청날다](https://open.spotify.com/track/4lH5VY45CWptXStnNFrFDK) | [nalda](https://open.spotify.com/artist/3LmhODh3xJbv6B5ZufqQ5x) | [심청날다](https://open.spotify.com/album/15AV3oJn5yB02rW22Io2OG) | 4:09 | 2023-09-26 |  |
 | [어허구자](https://open.spotify.com/track/3faAGLkzNpp5ID9MWbuyXY) | [Lee Heemoon](https://open.spotify.com/artist/22FjCZvVP9B258hnCALx4G), [Heosongsewol](https://open.spotify.com/artist/6THaQMhKlpKKIZbisvmnvS), [NomNom](https://open.spotify.com/artist/4dCsxtrM5JyN1LxNNIXIAc) | [SPANGLE](https://open.spotify.com/album/4tFh4AulVEB4FCpgCWAi49) | 4:38 | 2023-11-10 |  |
